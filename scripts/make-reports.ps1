@@ -3,7 +3,7 @@
 
 Param (
     [Parameter(Position = 0, HelpMessage = "What type of report do you want to run")]
-    [ValidateSet("Newest", "Downloads")]
+    [ValidateSet("Newest", "Downloads","Azure")]
     [string]$ReportType = "Newest",
     [switch]$NoAzureAWS,
     [switch]$Offline,
@@ -24,9 +24,13 @@ if ($NoAzureAWS) {
     Write-Host "[$(Get-Date)] Filtering out Azure and AWS" -ForegroundColor yellow
     $filter = { ($_. name -notmatch '^((AWS\.Tools)|(Az(ure?).+)(?=\.))') -AND ($_.author -notmatch "(Microsoft)|(Amazon)") }
 }
+elseif ($ReportType -eq "Azure") {
+      $filter = { $_.name -match '(Az(ure?).+)' }
+}
 else {
     $filter = { $_ }
 }
+
 Switch ($ReportType) {
     "Newest" {
         Write-Host "[$(Get-Date)] Getting newest $count modules" -ForegroundColor yellow
@@ -52,6 +56,13 @@ Switch ($ReportType) {
         $title = "Latest from the PowerShell Gallery by Download"
         $filename = "psgallery-downloads.md"
         $intro = "These are the most popular $count modules based on total download count for modules published to the [PowerShell Gallery](https://powershellgallery.org). The newest modules are listed first. Use ``Import-Module`` to install them or check the online repository for more information.`n"
+    }
+    "Azure" {
+        Write-Host "[$(Get-Date)] Getting lastest $count Azure-related modules" -ForegroundColor yellow
+        $query = $all | Where-Object $filter
+        $title = "Latest from the PowerShell Gallery for Azure"
+        $filename = "psgallery-azure.md"
+        $intro = "These are the latest $count modules published to the [PowerShell Gallery](https://powershellgallery.org) that are Azure-related. This includes modules published by Microsoft and the community. The newest modules are listed first. Use ``Import-Module`` to install them or check the online repository for more information.`n"
     }
 }
 

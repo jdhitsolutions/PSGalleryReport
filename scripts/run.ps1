@@ -25,6 +25,7 @@ if (Test-Path $tmpData) {
     Write-Host "[$(Get-Date)] Running report list" -ForegroundColor cyan
     C:\scripts\psgalleryreports\scripts\make-reports.ps1 -Offline
     C:\scripts\psgalleryreports\scripts\make-reports.ps1 -Offline -NoAzureAWS
+    C:\scripts\psgalleryreports\scripts\make-reports.ps1 -Offline -ReportType Azure
     C:\scripts\psgalleryreports\scripts\make-reports.ps1 -Offline -ReportType Downloads
 
     #git updates
