@@ -51,7 +51,7 @@ Switch ($ReportType) {
         Select-Object -First $count
         $title = "Latest from the PowerShell Gallery by Download"
         $filename = "psgallery-downloads.md"
-        $intro = "These are the most popular $count modules based on total download count for the module as published to the [PowerShell Gallery](https://powershellgallery.org). The newest modules are listed first. Use ``Import-Module`` to install them or check the online repository for more information.`n"
+        $intro = "These are the most popular $count modules based on total download count for modules published to the [PowerShell Gallery](https://powershellgallery.org). The newest modules are listed first. Use ``Import-Module`` to install them or check the online repository for more information.`n"
     }
 }
 

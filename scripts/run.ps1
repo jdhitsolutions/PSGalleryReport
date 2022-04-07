@@ -31,7 +31,7 @@ if (Test-Path $tmpData) {
     Write-Host "[$(Get-Date)] Running git updates" -ForegroundColor cyan
     Set-Location C:\scripts\PSGalleryReports
     git add .
-    $msg = "reports run $(Get-Date -Format u)"
+    $msg = "reporting run $(Get-Date -Format u)"
     git commit -m $msg
     Write-Host "[$(Get-Date)] Pushing commit to Github" -ForegroundColor cyan
 }
