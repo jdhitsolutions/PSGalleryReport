@@ -35,6 +35,7 @@ if (Test-Path $tmpData) {
     $msg = "reporting run $(Get-Date -Format u)"
     git commit -m $msg
     Write-Host "[$(Get-Date)] Pushing commit to Github" -ForegroundColor cyan
+    git push
 }
 else {
     Write-Warning "Can't find $tmpData"

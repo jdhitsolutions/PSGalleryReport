@@ -2076,4 +2076,4 @@ Configures Azure Resource Manager policies on selected Resource Groups.
 
 __Downloads__: 1,623 | __Repository__: https://github.com/jamesbannan/azure-automation-resource-security/blob
 
-*Updated: Thursday, April 7, 2022 2:47:11 PM UTC*
+*Updated: Thursday, April 7, 2022 2:54:38 PM UTC*
