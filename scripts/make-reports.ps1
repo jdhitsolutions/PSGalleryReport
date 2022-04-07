@@ -33,25 +33,30 @@ Switch ($ReportType) {
         $query = $all | Where-Object $filter | Sort-Object { $_.publisheddate -as [datetime] } -desc |
         Select-Object -First $count
         if ($NoAzureAWS) {
+            $title = "Latest from the PowerShell Gallery Filtered"
             $filename = "psgallery-filtered.md"
+            $intro = "These are the latest $count modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use ``Import-Module`` to install them or check the online repository for more information.`n"
+
         }
         else {
+            $title = "Latest from the PowerShell Gallery"
             $filename ="psgallery-newest.md"
+            $intro = "These are the latest $count modules published to the [PowerShell Gallery](https://powershellgallery.org). The newest modules are listed first. Use ``Import-Module`` to install them or check the online repository for more information.`n"
         }
-        $intro = "These are the latest $count modules published to the [PowerShell Gallery](https://powershellgallery.org). The newest modules are listed first. Use ``Import-Module`` to install them or check the online repository for more information.`n"
     }
     "Downloads" {
         Write-Host "[$(Get-Date)] Getting top $count modules by total download count" -foregroundcolor yellow
         $query = $all | Where-Object $filter |
         Sort-Object { $_.additionalmetadata.DownloadCount -as [int64] } -Descending |
         Select-Object -First $count
+        $title = "Latest from the PowerShell Gallery by Download"
         $filename= "psgallery-downloads.md"
         $intro = "These are the most popular $count modules based on total download count for the module as published to the [PowerShell Gallery](https://powershellgallery.org). The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.`n"
     }
 }
 
 $fragments = [system.collections.generic.list[string]]::new()
-$fragments.Add("# ![PS](images/powershell-emoji.png) Latest from the PowerShell Gallery`n")
+$fragments.Add("# ![PS](images/powershell-emoji.png) $title`n")
 $fragments.Add($intro)
 foreach ($item in $query) {
     $galleryLink = "https://www.powershellgallery.com/Packages/$($item.name)/$($item.version)"
