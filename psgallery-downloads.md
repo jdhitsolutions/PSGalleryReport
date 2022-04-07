@@ -1,6 +1,6 @@
 # ![PS](images/powershell-emoji.png) Latest from the PowerShell Gallery by Download
 
-These are the most popular 250 modules based on total download count for the module as published to the [PowerShell Gallery](https://powershellgallery.org). The newest modules are listed first. Use Import-Module to install them or check the online repository for more information.
+These are the most popular 250 modules based on total download count for the module as published to the [PowerShell Gallery](https://powershellgallery.org). The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
 ## [SpeculationControl](https://www.powershellgallery.com/Packages/SpeculationControl/1.0.14) | 1.0.14
 
@@ -2210,4 +2210,4 @@ Sample functions to add/retrieve/update entities on Azure Storage Tables from Po
 
 __Downloads__: 1,318,400 | __Repository__: 
 
-*Updated: Thursday, April 7, 2022 12:44:12 PM UTC*
+*Updated: Thursday, April 7, 2022 12:59:05 PM UTC*

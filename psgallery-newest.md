@@ -2483,4 +2483,4 @@ This version of AWS Tools for PowerShell is compatible with Windows PowerShell 5
 
 __Downloads__: 715 | __Repository__: https://github.com/aws/aws-tools-for-powershell
 
-*Updated: Thursday, April 7, 2022 12:44:07 PM UTC*
+*Updated: Thursday, April 7, 2022 12:59:01 PM UTC*
