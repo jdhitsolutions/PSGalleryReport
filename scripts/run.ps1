@@ -12,8 +12,8 @@ $tmpData = "$env:temp\psgallery.xml"
 if (-Not $Offline) {
     Try {
         #save an offline file of all modules and use that for the reports
-        Write-Host"[$(Get-Date)] Saving offline data to $tmpData" -ForegroundColor cyan
-        Find-Module -ErrorAction Stop | Export-Clixml -Path
+        Write-Host "[$(Get-Date)] Saving offline data to $tmpData" -ForegroundColor cyan
+        Find-Module -ErrorAction Stop | Export-Clixml -Path $tmpData
     }
     Catch {
         Throw $_
