@@ -24,6 +24,10 @@ This report will show the most recent 250 modules published to the PowerShell Ga
 
 This report is identical to the previous report except that AWS and Azure modules published by Amazon and Microsoft are __excluded__. There are many of these modules and they could easily consume most of the newest released module report.
 
+### [Latest Published Azure-Related Modules](psgallery-azure.md)
+
+This report is gets the last 250 Azure-related modules published to the PowerShell Gallery. These are modules written by Microsoft and the community. The report is sorted by the published date in descending order.
+
 ### [Most Downloads](psgallery-downloads.md)
 
 This report is sorted by __total__ download count and limited to the first 250 modules.

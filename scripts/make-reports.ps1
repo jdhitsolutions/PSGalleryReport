@@ -59,7 +59,8 @@ Switch ($ReportType) {
     }
     "Azure" {
         Write-Host "[$(Get-Date)] Getting lastest $count Azure-related modules" -ForegroundColor yellow
-        $query = $all | Where-Object $filter
+        $query = $all | Where-Object $filter | Sort-Object { $_.publisheddate -as [datetime] } -desc |
+        Select-Object -First $count
         $title = "Latest from the PowerShell Gallery for Azure"
         $filename = "psgallery-azure.md"
         $intro = "These are the latest $count modules published to the [PowerShell Gallery](https://powershellgallery.org) that are Azure-related. This includes modules published by Microsoft and the community. The newest modules are listed first. Use ``Import-Module`` to install them or check the online repository for more information.`n"
