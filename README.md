@@ -16,6 +16,12 @@ Show-Markdown .\psgallery-downloads.md -UseBrowser
 
 The reports show the same information for each module. The only limiting factor is the report's scope.
 
+As an alternative, I am also converting the markdown documents to PDF files. You might prefer this if you want to create your own automation for downloading the files.
+
+```powershell
+Invoke-Webrequest -uri https://raw.githubusercontent.com/jdhitsolutions/PSGalleryReport/main/psgallery-filtered.pdf -outfile d:\temp\psgallery-filtered.pdf
+```
+
 ### [Latest Published Modules](psgallery-newest.md)
 
 This report will show the most recent 250 modules published to the PowerShell Gallery. The report is sorted by the published date in descending order. The report includes links to the project in the Gallery as well as the project's repository if defined. This list *does not* include any *pre-release* modules.
