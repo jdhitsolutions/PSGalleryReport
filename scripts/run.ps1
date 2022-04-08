@@ -4,7 +4,9 @@
 
 Param(
     [Parameter(HelpMessage = "Run the reports using offline data")]
-    [switch]$Offline
+    [switch]$Offline,
+    [Parameter(HelpMessage = "Create the reports but skip git commands.")]
+    [switch]$Testing
 )
 Write-Host "[$(Get-Date)] Starting $($myinvocation.mycommand)" -ForegroundColor cyan
 $tmpData = "$env:temp\psgallery.xml"
@@ -28,14 +30,19 @@ if (Test-Path $tmpData) {
     C:\scripts\psgalleryreports\scripts\make-reports.ps1 -Offline -ReportType Azure
     C:\scripts\psgalleryreports\scripts\make-reports.ps1 -Offline -ReportType Downloads
 
-    #git updates
-    Write-Host "[$(Get-Date)] Running git updates" -ForegroundColor cyan
-    Set-Location C:\scripts\PSGalleryReports
-    git add .
-    $msg = "reporting run $(Get-Date -Format u)"
-    git commit -m $msg
-    Write-Host "[$(Get-Date)] Pushing commit to Github" -ForegroundColor cyan
-    git push
+    #create PDFs
+    &$PSScriptRoot\create-pdf.ps1
+
+    if (-Not $Testing) {
+        #git updates
+        Write-Host "[$(Get-Date)] Running git updates" -ForegroundColor cyan
+        Set-Location C:\scripts\PSGalleryReports
+        git add .
+        $msg = "reporting run $(Get-Date -Format u)"
+        git commit -m $msg
+        Write-Host "[$(Get-Date)] Pushing commit to Github" -ForegroundColor cyan
+        git push
+    }
 }
 else {
     Write-Warning "Can't find $tmpData"

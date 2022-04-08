@@ -68,7 +68,8 @@ Switch ($ReportType) {
 }
 
 $fragments = [system.collections.generic.list[string]]::new()
-$fragments.Add("# ![PS](images/powershell-emoji.png) $title`n")
+$fragments.Add("# $title`n")
+$fragments.Add("![PS](images/powershell-emoji.png)`n")
 $fragments.Add($intro)
 foreach ($item in $query) {
     $galleryLink = "https://www.powershellgallery.com/Packages/$($item.name)/$($item.version)"
@@ -82,6 +83,7 @@ foreach ($item in $query) {
 
 $fragments.add("*Updated: $(Get-Date -Format U) UTC*")
 Write-Host "[$(Get-Date)] Saving report to $filename" -ForegroundColor yellow
-$fragments | Out-File $PSScriptRoot\..\$filename
+#need to make sure files are encoded to UTF8 for future PDF conversion
+$fragments | Out-File $PSScriptRoot\..\$filename -Encoding utf8
 
 Write-Host "[$(Get-Date)] Ending $($myinvocation.mycommand)" -ForegroundColor yellow
