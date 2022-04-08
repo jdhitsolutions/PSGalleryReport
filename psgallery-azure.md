@@ -1,4 +1,4 @@
-﻿# Latest from the PowerShell Gallery for Azure
+# Latest from the PowerShell Gallery for Azure
 
 ![PS](images/powershell-emoji.png)
 
@@ -2078,4 +2078,4 @@ This is a full implementation of the Microsoft Azure Face API version 1.0.
 
 __Downloads__: 728 | __Repository__: https://github.com/MLauper/ps-AzureFaceAPI
 
-*Updated: Friday, April 8, 2022 4:58:01 PM UTC*
+*Updated: Friday, April 8, 2022 5:00:53 PM UTC*

@@ -31,7 +31,7 @@ if (Test-Path $tmpData) {
     C:\scripts\psgalleryreports\scripts\make-reports.ps1 -Offline -ReportType Downloads
 
     #create PDFs
-    &$PSScriptRoot\create-pdf.ps1
+    Invoke-Command -FilePath c:\scripts\psgalleryreports\scripts\create-pdf.ps1
 
     if (-Not $Testing) {
         #git updates

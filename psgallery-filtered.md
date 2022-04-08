@@ -1,4 +1,4 @@
-﻿# Latest from the PowerShell Gallery Filtered
+# Latest from the PowerShell Gallery Filtered
 
 ![PS](images/powershell-emoji.png)
 
@@ -2036,4 +2036,4 @@ Before using the 'Unified Labeling Support Tool', please ensure to read its manu
 
 __Downloads__: 921 | __Repository__: https://github.com/microsoft/UnifiedLabelingSupportTool
 
-*Updated: Friday, April 8, 2022 4:57:59 PM UTC*
+*Updated: Friday, April 8, 2022 5:00:51 PM UTC*
