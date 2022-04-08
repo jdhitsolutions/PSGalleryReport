@@ -18,7 +18,7 @@ The reports show the same information for each module. The only limiting factor 
 
 ### [Latest Published Modules](psgallery-newest.md)
 
-This report will show the most recent 250 modules published to the PowerShell Gallery. The report is sorted by the published date in descending order. The report includes links to the project in the Gallery as well as the project's repository, if defined. This list *does not* include any *pre-release* modules.
+This report will show the most recent 250 modules published to the PowerShell Gallery. The report is sorted by the published date in descending order. The report includes links to the project in the Gallery as well as the project's repository if defined. This list *does not* include any *pre-release* modules.
 
 ### [Latest Published Modules (no Azure/AWS)](psgallery-filtered.md)
 
@@ -26,7 +26,7 @@ This report is identical to the previous report except that AWS and Azure module
 
 ### [Latest Published Azure-Related Modules](psgallery-azure.md)
 
-This report is gets the last 250 Azure-related modules published to the PowerShell Gallery. These are modules written by Microsoft and the community. The report is sorted by the published date in descending order.
+This report gets the last 250 Azure-related modules published to the PowerShell Gallery. These are modules written by Microsoft and the community. The report is sorted by the published date in descending order.
 
 ### [Most Downloads](psgallery-downloads.md)
 
