@@ -14,7 +14,7 @@ Get-Childitem $PSScriptRoot\..\psgallery-*.md | foreach-Object {
     Optimize-pdf $adoc.replace(".adoc",".pdf")
 } -end {
     Write-Host "[$(Get-Date)] Removing adoc files" -foreground green
-    Remove-Item *.adoc
+    Remove-Item c:\scripts\psgalleryreports\*.adoc
 }
 
 Write-Host "[$(Get-Date)] Ending Markdown to PDF conversion" -foreground green
