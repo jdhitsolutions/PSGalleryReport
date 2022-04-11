@@ -1,6 +1,6 @@
 #requires -module PowerShellGet
 
-#this script is run from a PowerShell scheduled job
+#this script is run from a PowerShell scheduled job so use explicit paths to avoid errors.
 
 Param(
     [Parameter(HelpMessage = "Run the reports using offline data")]
@@ -15,7 +15,7 @@ if (-Not $Offline) {
     Try {
         #save an offline file of all modules and use that for the reports
         Write-Host "[$(Get-Date)] Saving offline data to $tmpData" -ForegroundColor cyan
-        Find-Module -ErrorAction Stop | Export-Clixml -Path $tmpData
+        Find-Module -Repository PSGallery -ErrorAction Stop | Export-Clixml -Path $tmpData
     }
     Catch {
         Throw $_
@@ -52,3 +52,11 @@ else {
 }
 
 Write-Host "[$(Get-Date)] Ending $($myinvocation.mycommand)" -ForegroundColor cyan
+
+<#
+Change Log
+
+4/11/2022
+  added make-taglist.ps1
+
+#>

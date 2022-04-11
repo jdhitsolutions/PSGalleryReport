@@ -37,3 +37,10 @@ else {
 }
 
 Write-Host "[$(Get-Date)] Ending $($myinvocation.mycommand)" -ForegroundColor magenta
+
+<#
+Change Log
+
+4/11/2022
+  Initial version
+#>

@@ -17,7 +17,7 @@ if ($offline) {
 }
 else {
     Write-Host "[$(Get-Date)] Working online" -ForegroundColor yellow
-    $all = Find-Module
+    $all = Find-Module -Repository PSGallery
 }
 
 if ($NoAzureAWS) {
@@ -87,3 +87,11 @@ Write-Host "[$(Get-Date)] Saving report to $filename" -ForegroundColor yellow
 $fragments | Out-File $PSScriptRoot\..\$filename -Encoding utf8
 
 Write-Host "[$(Get-Date)] Ending $($myinvocation.mycommand)" -ForegroundColor yellow
+
+<#
+Change log
+
+4/11/2022
+  Specified PSGallery explicitly as the repository
+
+#>

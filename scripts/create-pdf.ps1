@@ -9,7 +9,7 @@ Get-Childitem c:\scripts\psgalleryreports\psgallery-*.md | foreach-Object {
     Convertto-Adoc -fullname $_.fullname -images c:\scripts\psgalleryreports\images -Passthru | Convert-Links
     $adoc = $($_.fullname).replace(".md",".adoc")
     Write-Host "[$(Get-Date)] Converting $adoc to pdf" -foreground Green
-    asciidoctor -a allow-uri-read -a linkattrs -b pdf -d manpage -r asciidoctor-pdf -a pdfwidth=pt -a pdf-fontsdir=C:\gemfonts -a pdf-theme=c:\scripts\psgalleryreports\pdf-theme.yml $adoc
+    asciidoctor -a allow-uri-read -a linkattrs -b pdf -d article -r asciidoctor-pdf -a pdfwidth=pt -a pdf-fontsdir=C:\gemfonts -a pdf-theme=c:\scripts\psgalleryreports\pdf-theme.yml $adoc
     Write-Host "[$(Get-Date)] Optimizing PDF" -foreground green
     Optimize-pdf $adoc.replace(".adoc",".pdf")
 } -end {
@@ -18,3 +18,11 @@ Get-Childitem c:\scripts\psgalleryreports\psgallery-*.md | foreach-Object {
 }
 
 Write-Host "[$(Get-Date)] Ending Markdown to PDF conversion" -foreground green
+
+<#
+Change Log
+4/11/2022
+  Changed asciidoctor type from manpage to article
+4/8/2022
+  Initial version
+#>
