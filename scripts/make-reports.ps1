@@ -1,9 +1,9 @@
 #requires -version 5.1
 #requires -module PowerShellGet
-
+[cmdletbinding(SupportsShouldProcess)]
 Param (
     [Parameter(Position = 0, HelpMessage = "What type of report do you want to run")]
-    [ValidateSet("Newest", "Downloads","Azure")]
+    [ValidateSet("Newest","CommunityDownloads", "Downloads","Azure")]
     [string]$ReportType = "Newest",
     [switch]$NoAzureAWS,
     [switch]$Offline,
@@ -20,21 +20,18 @@ else {
     $all = Find-Module -Repository PSGallery
 }
 
-if ($NoAzureAWS) {
-    Write-Host "[$(Get-Date)] Filtering out Azure and AWS" -ForegroundColor yellow
-    $filter = { ($_. name -notmatch '^((AWS\.Tools)|(Az(ure?).+)(?=\.))') -AND ($_.author -notmatch "(Microsoft)|(Amazon)") }
-}
-elseif ($ReportType -eq "Azure") {
-      $filter = { $_.name -match '(Az(ure?).+)' }
-}
-else {
-    $filter = { $_ }
-}
 
 Switch ($ReportType) {
     "Newest" {
         Write-Host "[$(Get-Date)] Getting newest $count modules" -ForegroundColor yellow
-        $query = $all | Where-Object $filter | Sort-Object { $_.publisheddate -as [datetime] } -desc |
+        if ($NoAzureAWS) {
+            Write-Host "[$(Get-Date)] Filtering out Azure and AWS" -ForegroundColor yellow
+            $filter = { ($_. name -notmatch '^((AWS\.Tools)|(Az(ure?).+)(?=\.))') -AND ($_.author -notmatch "(Microsoft)|(Amazon)") }
+        }
+        else {
+            $filter = { $_ }
+        }
+        $query = $all | Where-Object $filter | Sort-Object { $_.publisheddate -as [datetime] } -Descending |
         Select-Object -First $count
         if ($NoAzureAWS) {
             $title = "Latest from the PowerShell Gallery Filtered"
@@ -50,6 +47,7 @@ Switch ($ReportType) {
     }
     "Downloads" {
         Write-Host "[$(Get-Date)] Getting top $count modules by total download count" -ForegroundColor yellow
+        $filter = { $_ }
         $query = $all | Where-Object $filter |
         Sort-Object { $_.additionalmetadata.DownloadCount -as [int64] } -Descending |
         Select-Object -First $count
@@ -57,9 +55,20 @@ Switch ($ReportType) {
         $filename = "psgallery-downloads.md"
         $intro = "These are the most popular $count modules based on total download count for modules published to the [PowerShell Gallery](https://powershellgallery.org). The newest modules are listed first. Use ``Import-Module`` to install them or check the online repository for more information.`n"
     }
+    "CommunityDownloads" {
+        Write-Host "[$(Get-Date)] Getting top $count Community modules by total download count" -ForegroundColor yellow
+        $filter = { $_.author -notmatch 'Microsoft' }
+        $query = $all | Where-Object $filter |
+        Sort-Object { $_.additionalmetadata.DownloadCount -as [int64] } -Descending |
+        Select-Object -First $count
+        $title = "Latest Community Contributions from the PowerShell Gallery by Download"
+        $filename = "psgallery-downloads-community.md"
+        $intro = "These are the most popular $count modules based on total download count for modules published to the [PowerShell Gallery](https://powershellgallery.org). These are modules where the author is someone other than Microsoft. The newest modules are listed first. Use ``Import-Module`` to install them or check the online repository for more information.`n"
+    }
     "Azure" {
         Write-Host "[$(Get-Date)] Getting lastest $count Azure-related modules" -ForegroundColor yellow
-        $query = $all | Where-Object $filter | Sort-Object { $_.publisheddate -as [datetime] } -desc |
+        $filter = { $_.name -match '(Az(ure?).+)' }
+        $query = $all | Where-Object $filter | Sort-Object { $_.publisheddate -as [datetime] } -Descending |
         Select-Object -First $count
         $title = "Latest from the PowerShell Gallery for Azure"
         $filename = "psgallery-azure.md"
@@ -93,5 +102,6 @@ Change log
 
 4/11/2022
   Specified PSGallery explicitly as the repository
+  Added support for -WhatIf
 
 #>

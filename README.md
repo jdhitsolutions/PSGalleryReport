@@ -36,9 +36,13 @@ This report is identical to the previous report except that AWS and Azure module
 
 This report gets the last 250 Azure-related modules published to the PowerShell Gallery. These are modules written by Microsoft and the community. The report is sorted by the published date in descending order.
 
-### [Most Downloads](psgallery-downloads.md)
+### [Top Downloads](psgallery-downloads.md)
 
 This report is sorted by __total__ download count and limited to the first 250 modules.
+
+### [Top Community Downloads](psgallery-downloads-community.md)
+
+This report is sorted by __total__ download count and limited to the first 250 modules where the author is __not__ Microsoft. Hopefully, this reflects modules created by the PowerShell community.
 
 ### [Tag List](taglist.txt)
 

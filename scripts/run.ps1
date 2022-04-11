@@ -29,6 +29,7 @@ if (Test-Path $tmpData) {
     C:\scripts\psgalleryreports\scripts\make-reports.ps1 -Offline -NoAzureAWS
     C:\scripts\psgalleryreports\scripts\make-reports.ps1 -Offline -ReportType Azure
     C:\scripts\psgalleryreports\scripts\make-reports.ps1 -Offline -ReportType Downloads
+    C:\scripts\psgalleryreports\scripts\make-reports.ps1 -Offline -ReportType CommunityDownloads
 
     #make tag list
     C:\scripts\PSGalleryReports\scripts\make-taglist.ps1
@@ -58,5 +59,6 @@ Change Log
 
 4/11/2022
   added make-taglist.ps1
+  added community download report
 
 #>
