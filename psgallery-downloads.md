@@ -1,4 +1,4 @@
-# Latest from the PowerShell Gallery by Download
+﻿# Latest from the PowerShell Gallery by Download
 
 ![PS](images/powershell-emoji.png)
 
@@ -2212,4 +2212,4 @@ A PowerShell wrapper for the dsregcmd executable's output.
 
 __Downloads__: 1,356,058 | __Repository__: https://github.com/Yevrag35/DsRegModule
 
-*Updated: Monday, April 11, 2022 3:50:10 PM UTC*
+*Updated: Monday, April 11, 2022 4:32:50 PM UTC*

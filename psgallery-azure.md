@@ -1,4 +1,4 @@
-# Latest from the PowerShell Gallery for Azure
+﻿# Latest from the PowerShell Gallery for Azure
 
 ![PS](images/powershell-emoji.png)
 
@@ -1809,7 +1809,7 @@ __Downloads__: 5,398 | __Repository__: https://github.com/Welasco/AzureRMAppGWCe
 
 Package Management helps you create packages of automation resources and deploy them.
 
-__Downloads__: 2,206 | __Repository__: https://github.com/big-data-for-humans/azure-automation-tools.
+__Downloads__: 2,206 | __Repository__: https://github.com/big-data-for-humans/azure-automation-tools
 
 ## [cAzureKeyVault](https://www.powershellgallery.com/Packages/cAzureKeyVault/1.0.4) | 1.0.4
 
@@ -2077,4 +2077,4 @@ Custom Azure Functions for working with Azure Resource Manager.
 
 __Downloads__: 1,057 | __Repository__: https://github.com/wasserja/MrAAzure
 
-*Updated: Monday, April 11, 2022 3:50:08 PM UTC*
+*Updated: Monday, April 11, 2022 4:32:47 PM UTC*

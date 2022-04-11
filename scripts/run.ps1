@@ -30,6 +30,9 @@ if (Test-Path $tmpData) {
     C:\scripts\psgalleryreports\scripts\make-reports.ps1 -Offline -ReportType Azure
     C:\scripts\psgalleryreports\scripts\make-reports.ps1 -Offline -ReportType Downloads
 
+    #make tag list
+    C:\scripts\PSGalleryReports\scripts\make-taglist.ps1
+
     #Create PDFs
     c:\scripts\psgalleryreports\scripts\create-pdf.ps1
 

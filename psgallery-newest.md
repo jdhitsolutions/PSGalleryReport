@@ -1,4 +1,4 @@
-# Latest from the PowerShell Gallery
+﻿# Latest from the PowerShell Gallery
 
 ![PS](images/powershell-emoji.png)
 
@@ -2426,4 +2426,4 @@ This version of AWS Tools for PowerShell is compatible with Windows PowerShell 5
 
 __Downloads__: 5,078 | __Repository__: https://github.com/aws/aws-tools-for-powershell
 
-*Updated: Monday, April 11, 2022 3:50:04 PM UTC*
+*Updated: Monday, April 11, 2022 4:32:43 PM UTC*

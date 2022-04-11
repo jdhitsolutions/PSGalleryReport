@@ -2,25 +2,27 @@
 
 ![mspowershell](images/PowerShell-transparent-thumb.jpg)
 
-This repository contains markdown reports for the [PowerShell Gallery](https://powershellgallery.com). The hope is that it will be easier for you to find modules that will make your work easier. The plan is to update the reports on a regular basis and push them to this repository.
+This repository contains reports for the [PowerShell Gallery](https://powershellgallery.com). The hope is that it will be easier for you to find modules that will make your work easier. The plan is to update the reports on a regular basis and push them to this repository.
 
 Feel free to use the Discussion section of this repository to talk about specific modules. If you think there should be another type of report, feel free to submit a Feature Request in the Issues section of this repository.
 
 ## Reports
 
-These are the currently active reports. Because they are in markdown, Github will render them. You are welcome to clone the repository or download individual reports. In PowerShell 7, use `Show-Markdown` to view the report.
+These are the currently active reports. Reports are created in markdown. I am also converting the markdown documents to PDF files. You might prefer this if you want to create your own automation for downloading the files.
+
+```powershell
+Invoke-Webrequest -uri https://raw.githubusercontent.com/jdhitsolutions/PSGalleryReport/main/psgallery-filtered.pdf -outfile d:\temp\psgallery-filtered.pdf
+```
+
+Github will render both file types in your browser. Although GitHub will not render links in the PDF versions. But you can download the PDF and view it in your browser.
+
+ You are welcome to clone the repository or download individual reports. In PowerShell 7, you can use `Show-Markdown` to view markdown reports.
 
 ```powershell
 Show-Markdown .\psgallery-downloads.md -UseBrowser
 ```
 
 The reports show the same information for each module. The only limiting factor is the report's scope.
-
-As an alternative, I am also converting the markdown documents to PDF files. You might prefer this if you want to create your own automation for downloading the files.
-
-```powershell
-Invoke-Webrequest -uri https://raw.githubusercontent.com/jdhitsolutions/PSGalleryReport/main/psgallery-filtered.pdf -outfile d:\temp\psgallery-filtered.pdf
-```
 
 ### [Latest Published Modules](psgallery-newest.md)
 
@@ -37,6 +39,14 @@ This report gets the last 250 Azure-related modules published to the PowerShell 
 ### [Most Downloads](psgallery-downloads.md)
 
 This report is sorted by __total__ download count and limited to the first 250 modules.
+
+### [Tag List](taglist.txt)
+
+This is a simple text list of unique tags found in the PowerShell Gallery. All tags have been converted to lower case, but that should have no affect on using the tag.
+
+```powershell
+Find-Module -tag bios
+```
 
 ## Limitations
 
