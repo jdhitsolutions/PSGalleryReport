@@ -1,6 +1,6 @@
 ﻿This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Wednesday, April 13, 2022 10:04:37 AM UTC
+Updated: Wednesday, April 13, 2022 2:26:59 PM UTC
 
 "interactive
 .bat
@@ -31,10 +31,12 @@ Updated: Wednesday, April 13, 2022 10:04:37 AM UTC
 2fa
 300
 365
+36867
 3d
 3dprinting
 3par
 50
+64
 650
 650flb
 7
@@ -190,6 +192,7 @@ affinity-crm
 agent
 aggregates
 aggregation
+agile
 agility
 agm
 agnoster
@@ -203,6 +206,7 @@ aircall
 airtable
 aispeech
 aivision
+ajustee
 aks
 alac
 alarm
@@ -578,9 +582,9 @@ backblaze
 backup
 backup_validation
 bamboo
+bamboohr
 bandwidth
 bank
-banking
 banner
 bar
 baremetal
@@ -691,7 +695,6 @@ bnm
 boards
 bofh
 boilerplate
-boinc
 bolt
 bom
 book
@@ -996,11 +999,14 @@ cloudfront
 cloudgovernance
 cloudguard
 cloudinairy
+cloudinit
+cloud-init
 cloudiq
 cloud-iq
 cloudkey
 cloudmarque
 cloudservice
+clueser
 cluster
 clusterminimumvalues
 clusterplugins
@@ -1125,11 +1131,13 @@ config
 configapi
 configascode
 configdata
+configkey
 configmgr
 configmgrcbdsc
 configuration
 configurationapi
 configurationdata
+configurationkey
 configurationmanagement
 configurationmanager
 configure
@@ -1200,7 +1208,6 @@ converttomarkdown
 converttomd
 convertto-yaml
 convert-windowsimage
-cookie
 coolq
 cooltag1
 cooltag2
@@ -1341,6 +1348,7 @@ cyclicredundancycheck
 cygwin
 cylance
 cypher
+cyrillic
 d365
 d365ce
 d365f&o
@@ -1370,7 +1378,6 @@ databasemanagement
 databasemigration
 database-migrations
 databases
-databasetools
 databooster
 databox
 databoxedge
@@ -1408,6 +1415,7 @@ dataverse
 date
 date-random
 dates
+datetaken
 datetime
 date-truncate
 datto
@@ -1500,7 +1508,6 @@ desktopvirtualization
 details
 detect
 detection
-detectionrule
 deutsch
 deutschland
 dev
@@ -1559,7 +1566,6 @@ directories
 directory
 directory psedition_core psedition_desktop
 directorymarks
-directoryname
 directorysearcher
 directorysecurity
 directory-transform
@@ -1587,6 +1593,7 @@ dism
 dismal
 display
 displayresolution
+distance
 distinguishedname
 distributedcache
 distributedfilesystem
@@ -1663,7 +1670,6 @@ donothing
 dos
 dot
 dotenv
-dotfile
 dotfiles
 dotnet
 dotnet-cli
@@ -2058,6 +2064,9 @@ filelist
 filelog
 filelogger
 filemanagement
+filematcher
+file-matcher
+file-matching
 file-monitoring
 filename
 file-name
@@ -2065,6 +2074,7 @@ file-name-extension
 file-name-extension-association
 filereplication
 files
+'files
 filesecurity
 fileserver
 file-server
@@ -2073,9 +2083,11 @@ fileshare
 file-share
 filesharing
 filestorage
-filestream
 filesystem
 file-system
+filesystementrymatcher
+filesystementry-matcher
+filesystementry-matching
 filesystemrights
 filesystemsecurity
 filesystemwatcher
@@ -2099,7 +2111,6 @@ financial
 financialforce
 find
 findlocation
-find-path
 findplace
 findproxyforurl
 firebird
@@ -2167,7 +2178,6 @@ fortigi
 fortimanager
 fortinet
 fortios
-fortune
 forum
 forwardcompatibility
 forwardedevents
@@ -2281,7 +2291,6 @@ get-openfiles
 get-pass
 get-passivetrippoint
 get-passlist
-get-path
 get-pinneditem
 get-samcmassignedsite
 get-samcmcurrentmanagementpoint
@@ -2547,6 +2556,7 @@ hpesmartarraycmdlets
 hpesynergy
 hponeview
 hpwritemanager
+hris
 hsdp
 html
 http
@@ -2638,6 +2648,7 @@ iis
 iis10
 iis8
 iisadministration
+ikev2
 il
 illinois
 ilo
@@ -2867,6 +2878,8 @@ js7
 jsm
 jsm.insight
 json
+json+
+jsonplus
 json-transform
 jsonwebkey
 jsonwebsignature
@@ -2944,6 +2957,7 @@ kurukuru
 kusto
 kvm
 l1tf
+l2tp
 lab
 labautomation
 label
@@ -2970,6 +2984,7 @@ lastlogon
 lastpass
 latency
 latestupdate
+latin
 latitude
 launcher
 layer
@@ -3008,6 +3023,8 @@ library
 libvirt
 licence
 license
+licenseautomation
+license-generator
 licensereport
 licensing
 light
@@ -3056,7 +3073,6 @@ local
 localadmin
 local-caching
 localconfigurationmanager
-localdb
 locale
 localgroup
 localization
@@ -3132,6 +3148,7 @@ lsasecrets
 lsd
 ltm
 lucd
+lucene
 lunches
 lwa
 lxca
@@ -3205,7 +3222,6 @@ mariadb
 mark
 markdig
 markdown
-markdownrender
 marketing
 marketo
 marketplace
@@ -3219,9 +3235,11 @@ marvellfcpowerkit
 marvellfcprovider
 marvellqlogicfcpowerkit
 mask
+mass
 masterconfiguration
 matcharray
 matchhashtable
+materialdesign
 materialui
 math
 mathematics
@@ -3238,6 +3256,7 @@ mbs
 mc
 mcafee
 mcas
+mchapv2
 md5
 md5_v2-b25d7fe7f5fab57d22955e7caf428037
 md5sum
@@ -3348,7 +3367,6 @@ mim
 mimekit
 min
 mindmeister
-minifier
 minimal
 minimum
 mip
@@ -3398,7 +3416,6 @@ monthlyupdate
 moodle
 moonshot
 mosaic
-motd
 mount
 mouse
 move
@@ -3450,6 +3467,7 @@ msonlineext
 msp
 msp360
 mspbackups
+msproject
 msrc
 msrdc
 mssql
@@ -3475,6 +3493,7 @@ multithreaded-helpers
 multithreading
 multi-zone
 music
+musiccast
 mustache
 mutation
 mute
@@ -3493,6 +3512,7 @@ mysql
 mysql-database
 mytest
 nac
+nagios
 name
 namedpipe
 nameit
@@ -3610,6 +3630,7 @@ norskale
 nosql
 note
 notebook
+notepad
 noteproperty
 notes
 notification
@@ -3685,9 +3706,11 @@ octopusdeploy
 octopus-deploy
 octopusenergy
 ocvp
+od4b
 oda
 odata
 odbc
+odfb
 odin
 odoo
 offboarding
@@ -3728,6 +3751,7 @@ ondemand
 on-demand
 one
 onedrive
+onedriveforbusiness
 oneget
 oneidentity
 onelogin
@@ -3781,7 +3805,6 @@ operations
 operationsmanagementsuite
 operationsmanagementsuiteagent
 operationvalidation
-operatoraccesscontrol
 operators
 opml
 opsi
@@ -3827,6 +3850,7 @@ ossec
 osubbillingschedule
 osuborganizationsubscription
 osubsubscription
+osubusage
 osx
 otp
 ou
@@ -3879,6 +3903,7 @@ panels
 pansies
 panther
 panzerbjrn
+pap
 paper
 papis
 paradox
@@ -3886,6 +3911,7 @@ parallel
 parameter
 parameterinfo
 parameters
+parclient
 pardot
 parititions
 parool
@@ -4019,7 +4045,7 @@ playback
 playbook
 player
 playlists
-pleasantpasswordserver
+pleasant
 plex
 plist
 plot
@@ -4038,7 +4064,6 @@ point-to-site
 pokeapi
 pokedex
 pokemon
-poker
 policies
 policy
 policyevent
@@ -4155,7 +4180,9 @@ powertoolcmdlets
 powertooldsc
 ppdm
 pposh
+pps
 ppt
+pptp
 pptx
 pranks
 predicate
@@ -4166,6 +4193,7 @@ prefix
 preparead
 preparealldomains
 prepareschema
+prepend
 preprocessing
 preprocessor
 presenter
@@ -4251,6 +4279,8 @@ provisonedpackage
 prowl
 prowlapp
 prowl-notifications
+proxmox
+proxmoxve
 proxsys
 proxy
 proxyfunction
@@ -4306,6 +4336,7 @@ psedition_desk
 psedition_desktop
 psedition_linux
 psedition_macos
+psedition_management
 psedition_psedition_core
 psedition_psedition_desktop
 psedition_windows
@@ -4327,6 +4358,7 @@ psget
 psgitlab
 psgraph
 psgraylog
+pshot
 pshtml
 psini
 psinsight
@@ -4399,7 +4431,6 @@ publicip
 public-key
 public-transport
 publish
-publishedmodules
 publisher
 publishers
 publishing
@@ -4424,6 +4455,7 @@ push-notifications
 pushover
 pushoverapi
 putty
+pve
 pvr
 pvs
 pwa
@@ -4593,6 +4625,7 @@ remedy
 remember
 reminder
 remote
+remote'
 remotecert
 remoteconnection
 remoteconnectionsmanager
@@ -4603,6 +4636,7 @@ remotedesktopconnectionmanager
 remotedesktopgateway
 remotedesktopmanager
 remotedesktopservices
+remotefiles
 remoteforensics
 remotehost
 remotelogoff
@@ -4612,7 +4646,6 @@ remoting
 remove
 remove-githubsecrets
 remove-pass
-remove-path
 remove-pinneditem
 removetypeaccelerators
 remux
@@ -4696,7 +4729,6 @@ rights
 ripe
 risk
 riskiq
-riskpro
 risksense
 rlan
 rmcp
@@ -4725,6 +4757,7 @@ route
 route53
 routeconfig
 router
+routes
 routetable
 rover
 royalapps
@@ -4847,7 +4880,6 @@ scissors
 scm
 scmanager
 scom
-sconfig
 scoop
 scope
 score
@@ -4934,7 +4966,6 @@ securityroles
 securityscopes
 securitytxt
 security-txt
-seek
 seekatar
 seeshell
 select
@@ -5001,6 +5032,7 @@ servicemanagementautomation
 servicemanager
 servicemanagerproxy
 servicenow
+serviceplan
 servicepointmanager
 serviceprincipal
 services
@@ -5075,7 +5107,6 @@ sid
 sidecar
 siem
 sif
-sigma
 sign
 signalfx
 signalr
@@ -5179,7 +5210,6 @@ social
 socialmedia
 social-media
 socketlabs
-sockets
 sodium
 software
 softwarecenter
@@ -5195,11 +5225,11 @@ solr
 soltra
 solution
 solutions
+sonarcloud
 sonarqube
 sonarr
 sonatype
 songs
-sonicwall
 sonicwallvpn
 sonus
 soon
@@ -5311,6 +5341,7 @@ sso
 sspr
 ssrs
 ssst
+sstp
 stache
 stackedge
 stackexchange
@@ -5413,7 +5444,6 @@ subscribedskus
 subscription
 subscriptiondefinition
 subsystem
-subtitle
 subversion
 successfactors
 sudo
@@ -5483,6 +5513,7 @@ system.text
 systemcenter
 systemcolors
 systemdiscovery
+system-group
 systeminfo
 systeminformation
 systemlocale
@@ -5509,6 +5540,7 @@ tag
 tag1
 tag2
 tagging
+tag-requiredmodule1-1.0
 tag-requiredmodule2-2.0
 tag-requiredmodule3-2.5
 tags
@@ -5658,6 +5690,7 @@ tlsprotocol
 toast
 toasts
 tobias
+toc
 todo
 todo.txt
 toggl
@@ -5707,6 +5740,8 @@ transforms
 transitionmanager
 translate
 translation
+translit
+transliteration
 transmission
 transparency
 trap
@@ -5792,7 +5827,6 @@ ud-calendar
 ud-circle
 udcm
 ud-component
-ud-confetti
 ud-control
 ud-dashboard
 ud-datepicker
@@ -5806,7 +5840,7 @@ ud-input
 ud-licensed
 ud-loadingoverlay
 ud-minesweeper
-ud-mouseparticle
+ud-navbarsearch
 ud-numbermask
 ud-orgchart
 udp
@@ -5849,6 +5883,7 @@ ulid
 ulm
 um
 uml
+umn
 ums
 unattend
 unblock
@@ -5866,6 +5901,7 @@ unique
 unique-files
 unit
 unit_testing
+unitconvesion
 unittest
 unittesting
 unit-testing
@@ -5879,6 +5915,7 @@ unix
 unlinked
 unlock
 unprotect
+unsupported
 untis
 unzip
 up
@@ -6208,6 +6245,7 @@ webtest
 webtesting
 webtime
 wec
+wecutil
 weekday
 wef
 weixin
@@ -6228,6 +6266,7 @@ wif
 wifi
 wi-fi
 wiki
+wildcard
 wildfly
 wim
 wim2vhd
@@ -6446,6 +6485,7 @@ xwiki
 xwindowsupdate
 yahoo
 yahw
+yamaha
 yaml
 yandex
 yarn
