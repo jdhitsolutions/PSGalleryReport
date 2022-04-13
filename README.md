@@ -4,7 +4,9 @@
 
 This repository contains reports for the [PowerShell Gallery](https://powershellgallery.com). The hope is that it will be easier for you to find modules that will make your work easier. The plan is to update the reports on a regular basis and push them to this repository.
 
-Feel free to use the Discussion section of this repository to talk about specific modules. If you think there should be another type of report, feel free to submit a Feature Request in the Issues section of this repository.
+Feel free to use the Discussion section of this repository to talk about specific modules. If you think there should be another type of report, feel https://github.com/jdhitsolutions/PSGalleryReport/issuesfree to submit a Feature Request in the [Issues](https://github.com/jdhitsolutions/PSGalleryReport/issues) section of this repository.
+
+> :warning: This project is __not__ a PowerShell module for you to install and run yourself. The repository is a location for reports that I am generating and publishing. You are welcome to take the scripts I am using and create your won reports.
 
 ## Reports
 
@@ -51,6 +53,18 @@ This is a simple text list of unique tags found in the PowerShell Gallery. All t
 ```powershell
 Find-Module -tag bios
 ```
+
+:hand: Do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
+
+## A Note on Scripts
+
+I am currently running a daily PowerShell scheduled job locally to generate the reports and upload them to the repository. The general workflow is to get all modules and export the data to a clixml file. I then re-import this data and filter it to generate the reports.
+
+Because I'm using a PowerShell scheduled job, all paths in the script are explictly defined. I'm also using `Write-Host` lines so that I can review the job. Another option I might consider would be to start a transcript.
+
+The script to convert markdown to PDF uses a private set of commands. The commands are Ruby-based and require additional configuration. I am not including them in this repository. If you are using my scripts for your won work, there are VSCode extensions you can use to easily convert markdown files to PDF or you might find other tools for this task.
+
+I am looking into a Github Action to move report generation from my desktop to the cloud.
 
 ## Limitations
 

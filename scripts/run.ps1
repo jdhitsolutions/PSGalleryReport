@@ -1,3 +1,4 @@
+#requires -version 5.1
 #requires -module PowerShellGet
 
 #this script is run from a PowerShell scheduled job so use explicit paths to avoid errors.
@@ -8,7 +9,7 @@ Param(
     [Parameter(HelpMessage = "Create the reports but skip git commands.")]
     [switch]$Testing
 )
-Write-Host "[$(Get-Date)] Starting $($myinvocation.mycommand)" -ForegroundColor cyan
+Write-Host "[$(Get-Date)] Starting c:\scripts\psgalleryreport\run.ps1" -ForegroundColor cyan
 $tmpData = "$env:temp\psgallery.xml"
 
 if (-Not $Offline) {
@@ -52,10 +53,14 @@ else {
     Write-Warning "Can't find $tmpData"
 }
 
-Write-Host "[$(Get-Date)] Ending $($myinvocation.mycommand)" -ForegroundColor cyan
+Write-Host "[$(Get-Date)] Ending c:\scripts\psgalleryreport\run.ps1" -ForegroundColor cyan
 
 <#
 Change Log
+
+4/13/2022
+  Replaced $myinvocation.mycommand with hard-coded references since $myinvocation doesn't resolve
+  when run from a PowerShell scheduled job.
 
 4/11/2022
   added make-taglist.ps1
