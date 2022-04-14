@@ -1,6 +1,6 @@
 ﻿This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Wednesday, April 13, 2022 2:26:59 PM UTC
+Updated: Thursday, April 14, 2022 10:02:57 AM UTC
 
 "interactive
 .bat
@@ -478,9 +478,9 @@ awscli
 aws-codebuild
 aws-lambda
 awspricelist
-aws-vault
 axapta
 axinom
+axium
 az
 az.automation
 az.stackhci
@@ -585,6 +585,7 @@ bamboo
 bamboohr
 bandwidth
 bank
+banking
 banner
 bar
 baremetal
@@ -695,6 +696,7 @@ bnm
 boards
 bofh
 boilerplate
+boinc
 bolt
 bom
 book
@@ -1208,6 +1210,7 @@ converttomarkdown
 converttomd
 convertto-yaml
 convert-windowsimage
+cookie
 coolq
 cooltag1
 cooltag2
@@ -1378,6 +1381,7 @@ databasemanagement
 databasemigration
 database-migrations
 databases
+databasetools
 databooster
 databox
 databoxedge
@@ -1508,6 +1512,7 @@ desktopvirtualization
 details
 detect
 detection
+detectionrule
 deutsch
 deutschland
 dev
@@ -1566,6 +1571,7 @@ directories
 directory
 directory psedition_core psedition_desktop
 directorymarks
+directoryname
 directorysearcher
 directorysecurity
 directory-transform
@@ -2083,6 +2089,7 @@ fileshare
 file-share
 filesharing
 filestorage
+filestream
 filesystem
 file-system
 filesystementrymatcher
@@ -2111,6 +2118,7 @@ financial
 financialforce
 find
 findlocation
+find-path
 findplace
 findproxyforurl
 firebird
@@ -2178,6 +2186,7 @@ fortigi
 fortimanager
 fortinet
 fortios
+fortune
 forum
 forwardcompatibility
 forwardedevents
@@ -2291,6 +2300,7 @@ get-openfiles
 get-pass
 get-passivetrippoint
 get-passlist
+get-path
 get-pinneditem
 get-samcmassignedsite
 get-samcmcurrentmanagementpoint
@@ -2355,7 +2365,6 @@ gopher+
 gopherplus
 governance
 gp
-gpg
 gping
 gpio
 gplink
@@ -2430,7 +2439,6 @@ haloservicesolutions
 hamradiodeluxe
 hana
 hanaon
-handle
 handler
 hangouts
 hannelstoolbox
@@ -2508,7 +2516,6 @@ highlighting
 highrise
 hipaa
 hipchat
-hiragana
 histogram
 history
 hitrust
@@ -2846,7 +2853,6 @@ ivdc
 iwi
 j
 j81-blog
-japanese
 jar
 jav
 java
@@ -2905,7 +2911,6 @@ kaminario
 karma
 kaseya
 kaseyavsa
-katakana
 kb
 kbarticle
 keenetic
@@ -2931,7 +2936,6 @@ key-vault
 kibana
 kickstart
 kidrsa
-kill
 kindle
 kintone
 klantcontroles
@@ -3073,6 +3077,7 @@ local
 localadmin
 local-caching
 localconfigurationmanager
+localdb
 locale
 localgroup
 localization
@@ -3081,7 +3086,6 @@ locationbasedservices
 lock
 lockdisplaytimeout
 lockdown
-locking
 lockoutreport
 lockscreen
 lockstep
@@ -3222,6 +3226,7 @@ mariadb
 mark
 markdig
 markdown
+markdownrender
 marketing
 marketo
 marketplace
@@ -3231,9 +3236,6 @@ marklogic
 marvel
 marvell
 marvell_semiconductor_inc
-marvellfcpowerkit
-marvellfcprovider
-marvellqlogicfcpowerkit
 mask
 mass
 masterconfiguration
@@ -3367,6 +3369,7 @@ mim
 mimekit
 min
 mindmeister
+minifier
 minimal
 minimum
 mip
@@ -3416,6 +3419,7 @@ monthlyupdate
 moodle
 moonshot
 mosaic
+motd
 mount
 mouse
 move
@@ -3426,8 +3430,6 @@ mp4
 mpc
 mpeg
 mpn
-mrvl_fc_powerkit
-mrvlfcprovider
 ms_365
 ms365
 msaccess
@@ -3732,7 +3734,6 @@ ogg
 oh-my-posh
 oh-my-zsh
 oidc
-ok
 okta
 old
 ole
@@ -3805,6 +3806,7 @@ operations
 operationsmanagementsuite
 operationsmanagementsuiteagent
 operationvalidation
+operatoraccesscontrol
 operators
 opml
 opsi
@@ -3994,7 +3996,6 @@ pf
 pfe
 pfsense
 pfx
-pgp
 phabricator
 philips
 philosophical
@@ -4046,6 +4047,7 @@ playbook
 player
 playlists
 pleasant
+pleasantpasswordserver
 plex
 plist
 plot
@@ -4064,6 +4066,7 @@ point-to-site
 pokeapi
 pokedex
 pokemon
+poker
 policies
 policy
 policyevent
@@ -4370,6 +4373,7 @@ psjobs
 psjobthreads
 pskeepass
 pslocalgallery
+psloganalytics
 psm1
 psmodule
 psmodule psedition_desktop
@@ -4431,6 +4435,7 @@ publicip
 public-key
 public-transport
 publish
+publishedmodules
 publisher
 publishers
 publishing
@@ -4442,7 +4447,6 @@ pullserver
 pulseway
 pulumi
 puppet
-puppetdb
 puppy
 pure
 pure1
@@ -4472,14 +4476,11 @@ python-for-dotnet
 qcloud
 qconvergeconsolepowerkit
 qemu
-qlgc_fc_powerkit
 qlik
 qlikview
 qlikview-cli
 qlogic
 qlogicfastlinqpowerkit
-qlogicfcpowerkit
-qlogicfcprovider
 qna
 qol
 qq
@@ -4646,6 +4647,7 @@ remoting
 remove
 remove-githubsecrets
 remove-pass
+remove-path
 remove-pinneditem
 removetypeaccelerators
 remux
@@ -4729,6 +4731,7 @@ rights
 ripe
 risk
 riskiq
+riskpro
 risksense
 rlan
 rmcp
@@ -4747,7 +4750,6 @@ rocketcyber
 role
 roles
 rollingfile
-romaji
 rot13
 rotate
 rotation
@@ -4880,6 +4882,7 @@ scissors
 scm
 scmanager
 scom
+sconfig
 scoop
 scope
 score
@@ -4966,6 +4969,7 @@ securityroles
 securityscopes
 securitytxt
 security-txt
+seek
 seekatar
 seeshell
 select
@@ -5107,6 +5111,7 @@ sid
 sidecar
 siem
 sif
+sigma
 sign
 signalfx
 signalr
@@ -5210,6 +5215,7 @@ social
 socialmedia
 social-media
 socketlabs
+sockets
 sodium
 software
 softwarecenter
@@ -5230,6 +5236,7 @@ sonarqube
 sonarr
 sonatype
 songs
+sonicwall
 sonicwallvpn
 sonus
 soon
@@ -5444,6 +5451,7 @@ subscribedskus
 subscription
 subscriptiondefinition
 subsystem
+subtitle
 subversion
 successfactors
 sudo
@@ -5827,6 +5835,7 @@ ud-calendar
 ud-circle
 udcm
 ud-component
+ud-confetti
 ud-control
 ud-dashboard
 ud-datepicker
@@ -5840,6 +5849,7 @@ ud-input
 ud-licensed
 ud-loadingoverlay
 ud-minesweeper
+ud-mouseparticle
 ud-navbarsearch
 ud-numbermask
 ud-orgchart
@@ -6409,6 +6419,7 @@ write-host
 write-information
 writelog
 write-log
+write-loganalytics
 writemanager
 write-progress
 write-slog
@@ -6515,12 +6526,8 @@ zoxide
 zsh
 zuora
 zvm
-カタカナ
-ひらがな
-ローマ字
 🍄
 🍣
 全角半角変換
 寿司
-日本語
 湯婆婆
