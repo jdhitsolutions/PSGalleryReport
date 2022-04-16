@@ -1,6 +1,6 @@
 ﻿This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Friday, April 15, 2022 10:02:43 AM UTC
+Updated: Saturday, April 16, 2022 10:01:48 AM UTC
 
 "interactive
 .bat
@@ -258,7 +258,6 @@ analyzerrules
 anchor
 and
 android
-anet
 anf
 anglesharp
 angular
@@ -695,7 +694,6 @@ bluetraitio
 bmc
 bnm
 boards
-bofh
 boilerplate
 boinc
 bolt
@@ -759,7 +757,6 @@ burpsuite
 bus
 business
 businesscentral
-businessobjects
 businessrulesengine
 bxor
 bydesign
@@ -786,7 +783,6 @@ campaign
 camtasia
 canarie
 cancel
-canonical
 cantara
 capability
 capacity
@@ -986,7 +982,6 @@ clone
 close-openfile
 cloud
 cloud_data_management
-cloudant
 cloud-backup
 cloudbees
 cloudberry
@@ -1162,6 +1157,7 @@ connectionstring
 connect-mstsc
 connect-rdp
 connect-remotedesktop
+connect-samcmsite
 connectwise
 console
 consolemenu
@@ -1259,6 +1255,7 @@ createprocessasuser
 createschema
 createtable
 creationworkflowsimplification
+creator
 cred
 credential
 credential-file
@@ -1380,6 +1377,7 @@ databasemanagement
 databasemigration
 database-migrations
 databases
+databasetools
 databooster
 databox
 databoxedge
@@ -2301,6 +2299,8 @@ get-passivetrippoint
 get-passlist
 get-path
 get-pinneditem
+get-samcmassignedsite
+get-samcmcurrentmanagementpoint
 get-samplingperiod
 get-stalecomps
 get-staleusers
@@ -2650,7 +2650,6 @@ ifttt
 igel
 igr
 ihs
-iiittttt
 iis
 iis10
 iis8
@@ -2692,6 +2691,7 @@ import-dtdriverpackpackagedefinitionsms
 importexport
 import-modulefrompath
 import-passlist
+import-sampackagedefinitionsms
 importteams
 inactive
 inboxrule
@@ -2835,6 +2835,7 @@ iso-3166-1
 iso-8601
 ispac
 isprime
+issues
 isvalidemail
 isvalidip
 item
@@ -2929,6 +2930,7 @@ keybase
 keyboard
 keycipher
 keylight
+keymanagement
 keypair
 keyvault
 key-vault
@@ -3116,6 +3118,7 @@ login
 login-azurermaccount
 login-rdp
 loginscreen
+loginsight
 logistic
 logitech
 logmail
@@ -3260,7 +3263,6 @@ mbc
 mbs
 mc
 mcafee
-mcas
 mchapv2
 md5
 md5_v2-b25d7fe7f5fab57d22955e7caf428037
@@ -3303,6 +3305,7 @@ mercurial
 merge
 mermaid
 message
+messagebox
 messages
 messaging
 messenger
@@ -3406,6 +3409,7 @@ moduleupdater
 moduleversion
 mof
 moldova
+moment
 monaco
 money
 moneyforward
@@ -3475,6 +3479,7 @@ msp360
 mspbackups
 msproject
 msrc
+msrdc
 mssql
 mssqlplugins
 mssqlserver
@@ -3489,7 +3494,6 @@ multicloud
 multidimenstional
 multi-factor
 multimedia
-multipass
 multiple
 multiserver
 multithread
@@ -3540,6 +3544,7 @@ n-central
 ndes
 nebulon
 nec-infrared-transmission-protocol
+nederland
 nedyalkov
 neo4j
 neptune
@@ -3594,6 +3599,8 @@ newpassword
 new-pinneditem
 new-rdpsession
 newrelic
+new-samcmapplicationfrompackagedefinitionsms
+new-samcmpackagefrompackagedefinitionsms
 newspaper
 new-system
 newtonsoft
@@ -3652,6 +3659,7 @@ npslogfile
 nrc
 nrql
 ns
+ns.nl
 nsg
 nslookup
 nsx
@@ -3663,6 +3671,7 @@ ntp
 ntsystems
 nuget
 nuget.exe
+nuget.org
 null-coalescing
 number
 numlock
@@ -4337,10 +4346,8 @@ psedition_5.1
 psedition_core
 psedition_desk
 psedition_desktop
-psedition_linux
 psedition_macos
 psedition_management
-psedition_psedition_core
 psedition_psedition_desktop
 psedition_windows
 psedition-desktop
@@ -4404,7 +4411,6 @@ psrule-rules
 pssa
 psscriptanalyzer
 psscriptanaylzer
-psscriptsmonitoring
 pssendgrid
 pssession
 pssharper
@@ -4544,6 +4550,7 @@ rcs
 rcu
 rdb
 rdbms
+rdc
 rdcman
 rdcmanager
 rdfe
@@ -4552,6 +4559,7 @@ rdl
 rdm
 rdp
 rdpsession
+rdpsign
 rds
 rdsgw
 react-stockcharts
@@ -4634,6 +4642,7 @@ remoteconnection
 remoteconnectionsmanager
 remotecontrol
 remotedesktop
+remote-desktop
 remotedesktopconnectionmanager
 remotedesktopgateway
 remotedesktopmanager
@@ -4799,6 +4808,7 @@ runspacepool
 runspaces
 runtimedefinedparameter
 runtimedefinedparameterdictionary
+runway
 russia
 rust
 rust-lang
@@ -4833,7 +4843,6 @@ sap
 sapazure
 saponazure
 sapstartstopazure
-sarcasm
 sarif
 sasdatasets
 sasxpt
@@ -4854,8 +4863,11 @@ scatter
 scb
 scc
 sccm
+sccmam
+sccmapplication
 sccm-hwi
 sccminstall
+sccmpackage
 sccmprereqs
 scep
 sch
@@ -4885,9 +4897,6 @@ sconfig
 scoop
 scope
 score
-scouterna
-scouternasetjanster
-scoutnet
 scp
 scrap
 scrape
@@ -4914,7 +4923,6 @@ scripting
 scriptlogging
 scriptrunner
 scripts
-scriptsmonitoring
 scrolllock
 scrub
 scrubber
@@ -4930,7 +4938,6 @@ searchengine
 searching
 searchplace
 searchquery
-searchstring
 secaas
 secedit
 secret
@@ -5203,7 +5210,6 @@ snmpset
 snmpv3
 snmpwalk
 snowflake
-snspsscriptsmonitoring
 snssqlitepsmodule
 sntp
 snugglepup
@@ -5302,6 +5308,7 @@ sqlautomation
 sqlchangeautomation
 sqlclient
 sqlcmd
+sqlcodeguard
 sql-database
 sqldbatools
 sqldiagapi
@@ -5510,7 +5517,6 @@ syskit
 syslog
 sysman
 sysmon
-sysop
 sysprep
 system
 system information 1394 controller baseboard motherboard systemboard battery bios bus cache memory cd dvd rom drive compact disc desktop monitor disk partition fan floppy glide point heatpipe ide infrared device keyboard local logical array mouse'
@@ -5611,6 +5617,7 @@ teradata
 termbin
 terminal
 terminal.gui
+terminal-services
 termset
 ternary
 terraform
@@ -5628,6 +5635,8 @@ test-osplatform
 testplans
 test-psremoting
 tests
+test-samcmapplicationexists
+test-samcmpackageexists
 testsuite
 testtag1
 testtag2
@@ -5637,6 +5646,7 @@ testusers
 test-xml
 text
 text2image
+textanalysis
 textbuffer
 texting
 text-to-image
@@ -5727,6 +5737,7 @@ tracking
 trafficfiltering
 trafficmanager
 trafficmarking
+train
 training
 tram
 transact
@@ -5750,6 +5761,7 @@ trec
 tree
 treesize
 treffynnon
+trein
 trello
 trellops
 trendmicro
@@ -5776,6 +5788,7 @@ tsa
 tsd
 tsheets
 t-sql
+tsqlbestpractice
 tts
 tui
 tulpep
@@ -5841,7 +5854,6 @@ ud-licensed
 ud-loadingoverlay
 ud-minesweeper
 ud-mouseparticle
-ud-navbarsearch
 ud-numbermask
 ud-orgchart
 udp
@@ -6194,7 +6206,6 @@ wasabi
 watch
 watchmen
 watery
-wave
 wayk
 waykagent
 waykbastion
@@ -6244,7 +6255,6 @@ websphereappserver
 websphereportal
 webtest
 webtesting
-webtime
 wec
 wecutil
 weekday
@@ -6331,6 +6341,7 @@ windowstimezone
 windowsupdate
 windowsupdates
 windowsvirtualdesktop
+winform
 winforms
 winget
 wingetbridge
@@ -6422,6 +6433,7 @@ wsman
 wsmanlistener
 wso2
 wsus
+wt
 wtsapi32
 wttr
 wttr.in
