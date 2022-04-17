@@ -1,6 +1,6 @@
 ﻿This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Saturday, April 16, 2022 10:01:48 AM UTC
+Updated: Sunday, April 17, 2022 10:02:03 AM UTC
 
 "interactive
 .bat
@@ -166,7 +166,6 @@ adobe
 adobeflash
 adoxio
 adp
-adr
 ads
 adsi
 adsync
@@ -296,7 +295,6 @@ aportal
 app
 app.config
 appclusive
-appcmd
 appconfiguration
 appdynamics
 appearance
@@ -427,14 +425,12 @@ authenticate
 authentication
 authenticationcertificate
 authenticode
-authn
 authoring
 authoringtools
 authority
 authorization
 authorizationheaders
 authorize.net
-authz
 autify
 auto_cd
 autoattendant
@@ -516,7 +512,6 @@ azureadconnect
 azureadgraph
 azureadtoolkit
 azure-adx
-azureappconfiguration
 azurearc
 azureas
 azureautomation
@@ -694,6 +689,7 @@ bluetraitio
 bmc
 bnm
 boards
+bofh
 boilerplate
 boinc
 bolt
@@ -757,6 +753,7 @@ burpsuite
 bus
 business
 businesscentral
+businessobjects
 businessrulesengine
 bxor
 bydesign
@@ -783,6 +780,7 @@ campaign
 camtasia
 canarie
 cancel
+canonical
 cantara
 capability
 capacity
@@ -982,6 +980,7 @@ clone
 close-openfile
 cloud
 cloud_data_management
+cloudant
 cloud-backup
 cloudbees
 cloudberry
@@ -1286,7 +1285,6 @@ crossplatform
 cross-platform
 cross-reference
 crowdstrike
-crt.sh
 crud
 crypto
 cryptocompare
@@ -1305,7 +1303,6 @@ csv
 csv2adx
 csvhelper
 ctglobal
-ctl
 ctx
 ctype
 cubes
@@ -2013,7 +2010,6 @@ extensions
 external
 externalip
 extract
-extreme-networks
 eztheme
 f
 f#
@@ -2356,7 +2352,6 @@ google-histogram
 googlemap
 googlemaps
 google-sankey
-google-table
 gopher
 gopher+
 gopherplus
@@ -2650,6 +2645,7 @@ ifttt
 igel
 igr
 ihs
+iiittttt
 iis
 iis10
 iis8
@@ -3031,7 +3027,6 @@ licence
 license
 licenseautomation
 license-generator
-licensereport
 licensing
 light
 lights
@@ -3160,8 +3155,6 @@ lunches
 lwa
 lxca
 lxcapstool
-lxco
-lxcopstool
 lync
 m365
 maatschap-fortigi
@@ -3392,7 +3385,6 @@ mixedreality
 mixer
 mkdocs
 mlflow
-mmdc
 mobile
 mobilitycontroller
 mock
@@ -3494,6 +3486,7 @@ multicloud
 multidimenstional
 multi-factor
 multimedia
+multipass
 multiple
 multiserver
 multithread
@@ -3605,8 +3598,6 @@ newspaper
 new-system
 newtonsoft
 new-udmorph
-nexenta
-nexentastor
 nexthink
 nexus
 ngen
@@ -4303,7 +4294,6 @@ prtg_network_monitor
 prtgnetworkmonitor
 ps
 ps.credentialmanager
-ps1
 ps1xml
 ps1xmlgen
 ps2exe
@@ -4346,8 +4336,10 @@ psedition_5.1
 psedition_core
 psedition_desk
 psedition_desktop
+psedition_linux
 psedition_macos
 psedition_management
+psedition_psedition_core
 psedition_psedition_desktop
 psedition_windows
 psedition-desktop
@@ -4411,6 +4403,7 @@ psrule-rules
 pssa
 psscriptanalyzer
 psscriptanaylzer
+psscriptsmonitoring
 pssendgrid
 pssession
 pssharper
@@ -4843,6 +4836,7 @@ sap
 sapazure
 saponazure
 sapstartstopazure
+sarcasm
 sarif
 sasdatasets
 sasxpt
@@ -4897,6 +4891,9 @@ sconfig
 scoop
 scope
 score
+scouterna
+scouternasetjanster
+scoutnet
 scp
 scrap
 scrape
@@ -4923,6 +4920,7 @@ scripting
 scriptlogging
 scriptrunner
 scripts
+scriptsmonitoring
 scrolllock
 scrub
 scrubber
@@ -4938,6 +4936,7 @@ searchengine
 searching
 searchplace
 searchquery
+searchstring
 secaas
 secedit
 secret
@@ -5210,6 +5209,7 @@ snmpset
 snmpv3
 snmpwalk
 snowflake
+snspsscriptsmonitoring
 snssqlitepsmodule
 sntp
 snugglepup
@@ -5452,7 +5452,6 @@ subnetmask
 subnetmaths
 subnets
 subnetting
-subscribedskus
 subscription
 subscriptiondefinition
 subsystem
@@ -5517,6 +5516,7 @@ syskit
 syslog
 sysman
 sysmon
+sysop
 sysprep
 system
 system information 1394 controller baseboard motherboard systemboard battery bios bus cache memory cd dvd rom drive compact disc desktop monitor disk partition fan floppy glide point heatpipe ide infrared device keyboard local logical array mouse'
@@ -5577,7 +5577,6 @@ tcp/ip
 tcpip
 tcpport
 tcpserver
-tcptest
 tcx
 tcxaemgmt
 tdd
@@ -5730,7 +5729,6 @@ tpp
 trace
 traceevent
 tracer
-tracert
 tracing
 tracker
 tracking
@@ -5755,7 +5753,6 @@ translation
 translit
 transliteration
 transmission
-transparency
 trap
 trec
 tree
@@ -5804,7 +5801,6 @@ twitch
 twitter
 twitter-api
 twitter-client
-twitter-follow
 twitter-hashtag
 twitter-mention
 twitter-share
@@ -5829,7 +5825,6 @@ ucspowertool
 ud-avataaar
 ud-badgebutton
 ud-badgelink
-ud-breadcrumb
 ud-breadcrumbitem
 ud-burger
 ud-button
@@ -5846,7 +5841,6 @@ ud-datepicker
 udfeedback
 ud-field
 ud-flexytable
-ud-funnel
 ud-hero
 ud-illustration
 ud-input
@@ -5854,6 +5848,7 @@ ud-licensed
 ud-loadingoverlay
 ud-minesweeper
 ud-mouseparticle
+ud-navbarsearch
 ud-numbermask
 ud-orgchart
 udp
@@ -5861,7 +5856,6 @@ udpclient
 ud-piechart3d
 ud-pivottable
 ud-progressstepbar
-udptest
 udr
 ud-rangeslider
 ud-readingbar
@@ -5885,7 +5879,6 @@ ud-toploader
 ud-trendline
 ud-typing
 ud-window
-ud-wordtree
 uefi
 ui
 ui/ux
@@ -6182,7 +6175,6 @@ vvx
 vxrail
 w32time
 w3svc
-w3w
 waas
 wac
 waf
@@ -6206,6 +6198,7 @@ wasabi
 watch
 watchmen
 watery
+wave
 wayk
 waykagent
 waykbastion
@@ -6228,7 +6221,6 @@ webcamera
 webcmdlets
 webdav
 webdeploy
-webfrequest
 webhdfs
 webhistory
 webhook
@@ -6253,7 +6245,6 @@ websockets
 websphere
 websphereappserver
 websphereportal
-webtest
 webtesting
 wec
 wecutil
@@ -6263,7 +6254,6 @@ weixin
 well-known
 wem
 wemsdk
-what3words
 whatismyip
 where
 whfb
@@ -6346,6 +6336,7 @@ winforms
 winget
 wingetbridge
 win-ps2exe
+winrar
 winrm
 winrs
 winrt
@@ -6410,7 +6401,6 @@ wrapper
 wrapperfunctions
 wrap-text
 wrc
-wrike
 write
 writeaccess
 write-ascii
@@ -6475,7 +6465,6 @@ xi
 xiaomi
 xkcd
 xliff
-xmc
 xml
 xmla
 xmlrpc
@@ -6513,7 +6502,6 @@ z
 zabbix
 zabbixps
 zap
-zcat
 zendesk
 zerto
 zigbee
