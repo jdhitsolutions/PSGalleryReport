@@ -44,7 +44,7 @@ This report is sorted by __total__ download count and limited to the first 250 m
 
 ### [Top Community Downloads](psgallery-downloads-community.md)
 
-This report is sorted by __total__ download count and limited to the first 250 modules where the author is __not__ Microsoft. Hopefully, this reflects modules created by the PowerShell community.
+This report is sorted by __total__ download count and limited to the first 250 modules where the author is __not__ Microsoft, Oracle, VMware, Amazon, HP, or Dell. Contributions from the DSC Community are also excluded. Hopefully, this report highlights modules created by individual members of the PowerShell community.
 
 ### [Tag List](taglist.txt)
 

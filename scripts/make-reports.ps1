@@ -31,8 +31,9 @@ Switch ($ReportType) {
         else {
             $filter = { $_ }
         }
-        $query = $all | Where-Object $filter | Sort-Object { $_.publisheddate -as [datetime] } -Descending |
+        $query = $all | Where-Object $filter -OutVariable f | Sort-Object { $_.publisheddate -as [datetime] } -Descending |
         Select-Object -First $count
+        Write-Host "[$(Get-Date)] Found a total of $($f.count) matching modules." -ForegroundColor yellow
         if ($NoAzureAWS) {
             $title = "Latest from the PowerShell Gallery Filtered"
             $filename = "psgallery-filtered.md"
@@ -48,28 +49,31 @@ Switch ($ReportType) {
     "Downloads" {
         Write-Host "[$(Get-Date)] Getting top $count modules by total download count" -ForegroundColor yellow
         $filter = { $_ }
-        $query = $all | Where-Object $filter |
+        $query = $all | Where-Object $filter -OutVariable f|
         Sort-Object { $_.additionalmetadata.DownloadCount -as [int64] } -Descending |
         Select-Object -First $count
+        Write-Host "[$(Get-Date)] Found a total of $($f.count) matching modules." -ForegroundColor yellow
         $title = "Latest from the PowerShell Gallery by Download"
         $filename = "psgallery-downloads.md"
         $intro = "These are the most popular $count modules based on total download count for modules published to the [PowerShell Gallery](https://powershellgallery.org). The newest modules are listed first. Use ``Import-Module`` to install them or check the online repository for more information.`n"
     }
     "CommunityDownloads" {
         Write-Host "[$(Get-Date)] Getting top $count Community modules by total download count" -ForegroundColor yellow
-        $filter = { $_.author -notmatch 'Microsoft' }
-        $query = $all | Where-Object $filter |
+        $filter = { $_.author -notmatch '\b(Microsoft|Amazon|Dell|DSC|Oracle|VMware|OneScript|HP|PowerShell Team)\b' }
+        $query = $all | Where-Object $filter -OutVariable f |
         Sort-Object { $_.additionalmetadata.DownloadCount -as [int64] } -Descending |
         Select-Object -First $count
+        Write-Host "[$(Get-Date)] Found a total of $($f.count) matching modules." -ForegroundColor yellow
         $title = "Latest Community Contributions from the PowerShell Gallery by Download"
         $filename = "psgallery-downloads-community.md"
-        $intro = "These are the most popular $count modules based on total download count for modules published to the [PowerShell Gallery](https://powershellgallery.org). These are modules where the author is someone other than Microsoft. The newest modules are listed first. Use ``Import-Module`` to install them or check the online repository for more information.`n"
+        $intro = "These are the most popular $count modules based on total download count for modules published to the [PowerShell Gallery](https://powershellgallery.org). The report filters out corporate authored modules from Microsoft, Amazon, Dell, Oracle, HP, and VMware. DSC modules are also excluded. The intent is to highlight contributions from individual members of the PowerShell community. The newest modules are listed first. Use ``Import-Module`` to install them or check the online repository for more information.`n"
     }
     "Azure" {
         Write-Host "[$(Get-Date)] Getting lastest $count Azure-related modules" -ForegroundColor yellow
         $filter = { $_.name -match '(Az(ure?).+)' }
-        $query = $all | Where-Object $filter | Sort-Object { $_.publisheddate -as [datetime] } -Descending |
+        $query = $all | Where-Object $filter -OutVariable f | Sort-Object { $_.publisheddate -as [datetime] } -Descending |
         Select-Object -First $count
+        Write-Host "[$(Get-Date)] Found a total of $($f.count) matching modules." -ForegroundColor yellow
         $title = "Latest from the PowerShell Gallery for Azure"
         $filename = "psgallery-azure.md"
         $intro = "These are the latest $count modules published to the [PowerShell Gallery](https://powershellgallery.org) that are Azure-related. This includes modules published by Microsoft and the community. The newest modules are listed first. Use ``Import-Module`` to install them or check the online repository for more information.`n"
@@ -100,6 +104,8 @@ Write-Host "[$(Get-Date)] Ending $($myinvocation.mycommand)" -ForegroundColor ye
 <#
 Change log
 
+4/18/2022
+  Updated community report to exclude contributions from major vendors and the DSC Community
 4/11/2022
   Specified PSGallery explicitly as the repository
   Added support for -WhatIf

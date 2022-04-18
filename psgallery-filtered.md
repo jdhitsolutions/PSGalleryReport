@@ -1,8 +1,73 @@
-﻿# Latest from the PowerShell Gallery Filtered
+# Latest from the PowerShell Gallery Filtered
 
 ![PS](images/powershell-emoji.png)
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
+
+## [PowerDir.GetPowerDir](https://www.powershellgallery.com/Packages/PowerDir.GetPowerDir/0.2.5) | 0.2.5
+
+### Published: 04/18/2022 14:12:20 by Raffaello Bertini
+
+PowerDir is a Powershell 7 Module as an alternative to Get-Item.
+
+__Downloads__: 10 | __Repository__: 
+
+## [vds](https://www.powershellgallery.com/Packages/vds/0.3.37) | 0.3.37
+
+### Published: 04/18/2022 13:59:01 by Brandon Cunningham
+
+DialogShell
+
+__Downloads__: 31 | __Repository__: 
+
+## [powershell-designer](https://www.powershellgallery.com/Packages/powershell-designer/2.0.9) | 2.0.9
+
+### Published: 04/18/2022 13:52:09 by Brandon Cunningham
+
+The best free form designer for powershell.
+
+__Downloads__: 21 | __Repository__: https://github.com/brandoncomputer/powershell-designer
+
+## [ActiveUsersAudit](https://www.powershellgallery.com/Packages/ActiveUsersAudit/2.0.0) | 2.0.0
+
+### Published: 04/18/2022 13:16:15 by driosx
+
+Active Directory Audit with Keyvault retrieval option.
+
+__Downloads__: 75 | __Repository__: 
+
+## [PureStorage.FlashArray.Reporting](https://www.powershellgallery.com/Packages/PureStorage.FlashArray.Reporting/1.0.4) | 1.0.4
+
+### Published: 04/18/2022 13:02:29 by brandon said
+
+Reporting Module for the Pure Storage REST API using MS Charts
+
+* Easily create charts that can be saved, emailed, or displayed on-screen
+* Works on both Windows PowerShell (5.1) and PowerShell Core (6+) (Windows Only)
+* Create reports that contain multiple charts
+* Query the Pure Storage REST API directly, no additional modules required
+* Example scripts to help get you started
+
+Requires Purity OS 5.3.0 or newer to create charts. Querying the REST API directly has no requirements.
+
+__Downloads__: 53 | __Repository__: https://github.com/saidbrandon/PureStorage.FlashArray.Reporting
+
+## [UncommonSense.Nrc](https://www.powershellgallery.com/Packages/UncommonSense.Nrc/0.0.9.0) | 0.0.9.0
+
+### Published: 04/18/2022 12:30:02 by Jan Hoek
+
+PowerShell module for listing NRC articles
+
+__Downloads__: 657 | __Repository__: https://github.com/jhoek/UncommonSense.Nrc
+
+## [ThirdPartyLibraries](https://www.powershellgallery.com/Packages/ThirdPartyLibraries/3.0.0) | 3.0.0
+
+### Published: 04/18/2022 11:11:28 by Max Ieremenko
+
+This module helps to manage third party libraries and their licenses in .net applications.
+PowerShell versions: core 7.0+.
+
+__Downloads__: 0 | __Repository__: https://github.com/max-ieremenko/ThirdPartyLibraries
 
 ## [cmhealth](https://www.powershellgallery.com/Packages/cmhealth/1.0.3) | 1.0.3
 
@@ -12,37 +77,13 @@ Microsoft Endpoint Manager Configuration Manager Site Health Assessment Tools.Sp
 
 __Downloads__: 556 | __Repository__: https://github.com/Skatterbrainz/cmhealth
 
-## [PSWinRAR](https://www.powershellgallery.com/Packages/PSWinRAR/0.1.0) | 0.1.0
-
-### Published: 04/17/2022 20:06:43 by KevinHoltkamp
-
-Wrapper for WinRAR command line tools
-
-__Downloads__: 9 | __Repository__: https://github.com/kevinholtkamp/PSWinRAR
-
 ## [oh-my-posh](https://www.powershellgallery.com/Packages/oh-my-posh/7.64.2) | 7.64.2
 
 ### Published: 04/17/2022 18:30:05 by Jan De Dobbeleer
 
 A prompt theme engine for any shell
 
-__Downloads__: 1,483,323 | __Repository__: https://github.com/JanDeDobbeleer/oh-my-posh
-
-## [powershell-designer](https://www.powershellgallery.com/Packages/powershell-designer/2.0.8) | 2.0.8
-
-### Published: 04/17/2022 14:19:46 by Brandon Cunningham
-
-The best free form designer for powershell.
-
-__Downloads__: 21 | __Repository__: https://github.com/brandoncomputer/powershell-designer
-
-## [PowerDir.GetPowerDir](https://www.powershellgallery.com/Packages/PowerDir.GetPowerDir/0.2.4) | 0.2.4
-
-### Published: 04/17/2022 10:17:30 by Raffaello Bertini
-
-PowerDir is a Powershell 7 Module as an alternative to Get-Item.
-
-__Downloads__: 10 | __Repository__: 
+__Downloads__: 1,483,317 | __Repository__: https://github.com/JanDeDobbeleer/oh-my-posh
 
 ## [Marli-Sniffer](https://www.powershellgallery.com/Packages/Marli-Sniffer/1.0) | 1.0
 
@@ -68,14 +109,6 @@ Gibt alle auslaufenden Zertifikate aus
 
 __Downloads__: 60 | __Repository__: 
 
-## [vds](https://www.powershellgallery.com/Packages/vds/0.3.36) | 0.3.36
-
-### Published: 04/17/2022 00:35:12 by Brandon Cunningham
-
-DialogShell
-
-__Downloads__: 31 | __Repository__: 
-
 ## [DriverTool.PowerCLI](https://www.powershellgallery.com/Packages/DriverTool.PowerCLI/1.0.22106) | 1.0.22106
 
 ### Published: 04/16/2022 22:37:21 by github/trondr
@@ -90,7 +123,7 @@ __Downloads__: 111 | __Repository__: https://github.com/trondr/DriverTool
 
 Build Helpers for DSC Resources and Configurations
 
-__Downloads__: 21,144 | __Repository__: 
+__Downloads__: 21,145 | __Repository__: 
 
 ## [UncommonSense.iCalendar](https://www.powershellgallery.com/Packages/UncommonSense.iCalendar/1.1.0.0) | 1.1.0.0
 
@@ -162,7 +195,7 @@ __Downloads__: 3 | __Repository__: https://github.com/ydinkov/CmdletCarnival
 
 A PowerShell module that makes interfacing with Azure Pipelines a little easier
 
-__Downloads__: 8,321 | __Repository__: https://github.com/Dejulia489/AzurePipelinesPS
+__Downloads__: 8,323 | __Repository__: https://github.com/Dejulia489/AzurePipelinesPS
 
 ## [PowerDataOps](https://www.powershellgallery.com/Packages/PowerDataOps/1.0.0.92) | 1.0.0.92
 
@@ -170,7 +203,7 @@ __Downloads__: 8,321 | __Repository__: https://github.com/Dejulia489/AzurePipeli
 
 PowerShell module for Microsoft Dataverse (ex Common Data Service) and Power Platform automation (Data Management, administration and DevOps activities)
 
-__Downloads__: 12,061 | __Repository__: https://github.com/AymericM78/PowerDataOps
+__Downloads__: 12,063 | __Repository__: https://github.com/AymericM78/PowerDataOps
 
 ## [PSCompressArchiveWithPassword](https://www.powershellgallery.com/Packages/PSCompressArchiveWithPassword/1.0.1) | 1.0.1
 
@@ -284,7 +317,7 @@ __Downloads__: 1,007 | __Repository__: https://github.com/jhwohlgemuth/pwsh-prel
 
 PowerShell module containing several Azure tools by Sam Boutros
 
-__Downloads__: 16,342 | __Repository__: https://superwidgets.wordpress.com/
+__Downloads__: 16,349 | __Repository__: https://superwidgets.wordpress.com/
 
 ## [Dynamics365Configuration](https://www.powershellgallery.com/Packages/Dynamics365Configuration/2.19.0) | 2.19.0
 
@@ -340,15 +373,7 @@ __Downloads__: 51 | __Repository__:
 
 This module contain cmdlets to manage Windows Update Client.
 
-__Downloads__: 126,880,377 | __Repository__: https://github.com/mgajda83/PSWindowsUpdate
-
-## [Tecman.Tfs.Tools](https://www.powershellgallery.com/Packages/Tecman.Tfs.Tools/1.1.54.0) | 1.1.54.0
-
-### Published: 04/14/2022 16:24:41 by James Pearson
-
-Functions to support Microsoft Dynamics 365 Busines Central / Dynamics NAV development and integration with the Azure DevOps REST API
-
-__Downloads__: 1,578 | __Repository__: 
+__Downloads__: 127,063,293 | __Repository__: https://github.com/mgajda83/PSWindowsUpdate
 
 ## [codaamok.build](https://www.powershellgallery.com/Packages/codaamok.build/4.0.7) | 4.0.7
 
@@ -364,7 +389,7 @@ __Downloads__: 472 | __Repository__: https://github.com/codaamok/codaamok.build
 
 Interact with GitLab via PowerShell
 
-__Downloads__: 1,427 | __Repository__: https://github.com/chris-peterson/pwsh-gitlab
+__Downloads__: 1,426 | __Repository__: https://github.com/chris-peterson/pwsh-gitlab
 
 ## [PSSubnetScanCore](https://www.powershellgallery.com/Packages/PSSubnetScanCore/2.0.3.2) | 2.0.3.2
 
@@ -397,14 +422,6 @@ __Downloads__: 4 | __Repository__:
 Priveleged Users and Active Directory Audit with Keyvault retrieval option.
 
 __Downloads__: 6 | __Repository__: 
-
-## [ActiveUsersAudit](https://www.powershellgallery.com/Packages/ActiveUsersAudit/1.1) | 1.1
-
-### Published: 04/14/2022 15:03:23 by driosx
-
-Active Directory Audit with Keyvault retrieval option.
-
-__Downloads__: 75 | __Repository__: 
 
 ## [powershell_scaffolder](https://www.powershellgallery.com/Packages/powershell_scaffolder/1.0.8) | 1.0.8
 
@@ -460,7 +477,7 @@ __Downloads__: 5 | __Repository__:
 
 Set of core tools used in projects @ Cornerstone Group AB (Formerly ACGroup).
 
-__Downloads__: 694 | __Repository__: https://github.com/Adicitus/acgcore
+__Downloads__: 712 | __Repository__: https://github.com/Adicitus/acgcore
 
 ## [PSAzureMigrationAdvisor](https://www.powershellgallery.com/Packages/PSAzureMigrationAdvisor/1.1.5) | 1.1.5
 
@@ -593,6 +610,14 @@ This module is currently under active development and is not intended for public
 
 __Downloads__: 113 | __Repository__: https://github.com/juribalimited/powershell-module-dashworks
 
+## [PPS](https://www.powershellgallery.com/Packages/PPS/0.1) | 0.1
+
+### Published: 04/13/2022 10:36:13 by Thor Dreier
+
+Pleasant Password Server module
+
+__Downloads__: 3 | __Repository__: https://github.com/thordreier/PPS
+
 ## [AGMPowerCLI](https://www.powershellgallery.com/Packages/AGMPowerCLI/0.0.0.35) | 0.0.0.35
 
 ### Published: 04/13/2022 09:25:01 by Anthony Vandewerdt
@@ -659,7 +684,7 @@ __Downloads__: 5,976 | __Repository__: https://github.com/rmbolger/Posh-ACME
 
 ACME protocol client for obtaining certificates using Let's Encrypt (or other ACME compliant CA)
 
-__Downloads__: 680,087 | __Repository__: https://github.com/rmbolger/Posh-ACME
+__Downloads__: 680,083 | __Repository__: https://github.com/rmbolger/Posh-ACME
 
 ## [Revo.Tools](https://www.powershellgallery.com/Packages/Revo.Tools/1.3.2) | 1.3.2
 
@@ -677,6 +702,22 @@ Easy Extensible Plugins for PowerShell
 
 __Downloads__: 69 | __Repository__: https://github.com/StartAutomating/Piecemeal
 
+## [KnowBe4PS](https://www.powershellgallery.com/Packages/KnowBe4PS/1.0) | 1.0
+
+### Published: 04/13/2022 00:56:11 by Timothy Murphy
+
+PowerShell module for KnowBe4 Reporting and User Events via the KnowBe4 API
+
+__Downloads__: 3 | __Repository__: 
+
+## [MimecastPS](https://www.powershellgallery.com/Packages/MimecastPS/1.0) | 1.0
+
+### Published: 04/13/2022 00:41:51 by Timothy Murphy
+
+PowerShell module for Mimecast administration via the Mimecast API
+
+__Downloads__: 3 | __Repository__: 
+
 ## [RoughDraft](https://www.powershellgallery.com/Packages/RoughDraft/0.3.2) | 0.3.2
 
 ### Published: 04/13/2022 00:33:53 by James Brundage
@@ -693,7 +734,7 @@ ugit:  Updated Git.
 
 A powerful PowerShell wrapper for git that lets you extend git, automate multiple repos, and use the object pipeline.
 
-__Downloads__: 48 | __Repository__: https://github.com/StartAutomating/ugit
+__Downloads__: 50 | __Repository__: https://github.com/StartAutomating/ugit
 
 ## [DnnWebsiteManagement](https://www.powershellgallery.com/Packages/DnnWebsiteManagement/1.4.0) | 1.4.0
 
@@ -749,7 +790,7 @@ __Downloads__: 1,449 | __Repository__: https://github.com/Venafi/VenafiPS
 
 Module that replaces auditpol.exe with a custom version that can be used to audit or make changes to the Windows Security Policy.
 
-__Downloads__: 6 | __Repository__: https://github.com/EvotecIT/AuditPolicy
+__Downloads__: 8 | __Repository__: https://github.com/EvotecIT/AuditPolicy
 
 ## [safeguard-ps](https://www.powershellgallery.com/Packages/safeguard-ps/6.13.53291) | 6.13.53291
 
@@ -795,7 +836,7 @@ These are contained within this PowerShell Module, so regular Module updating is
 ensure you receive the latest Microsoft Updates.  Updates published in WSUS will be different
 from Microsoft Update Catalog website due to Preview Releases
 
-__Downloads__: 254,325 | __Repository__: https://github.com/OSDeploy/OSDSUS
+__Downloads__: 254,422 | __Repository__: https://github.com/OSDeploy/OSDSUS
 
 ## [OSD](https://www.powershellgallery.com/Packages/OSD/22.4.12.1) | 22.4.12.1
 
@@ -1134,14 +1175,6 @@ This modules provides Cmdlets for OCI Loggingsearch Service
 
 __Downloads__: 1,203 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-## [BinaryTree.Internal.Power365.ST2](https://www.powershellgallery.com/Packages/BinaryTree.Internal.Power365.ST2/20.12.6.8416) | 20.12.6.8416
-
-### Published: 04/12/2022 17:17:33 by BinaryTreePackagePublisher
-
-PowerShell Management cmdlets for Binary Tree Power365
-
-__Downloads__: 633 | __Repository__: 
-
 ## [OCI.PSModules.Loggingingestion](https://www.powershellgallery.com/Packages/OCI.PSModules.Loggingingestion/30.1.0) | 30.1.0
 
 ### Published: 04/12/2022 17:17:33 by Oracle Cloud Infrastructure
@@ -1149,6 +1182,14 @@ __Downloads__: 633 | __Repository__:
 This modules provides Cmdlets for OCI Loggingingestion Service
 
 __Downloads__: 1,193 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+
+## [BinaryTree.Internal.Power365.ST2](https://www.powershellgallery.com/Packages/BinaryTree.Internal.Power365.ST2/20.12.6.8416) | 20.12.6.8416
+
+### Published: 04/12/2022 17:17:33 by BinaryTreePackagePublisher
+
+PowerShell Management cmdlets for Binary Tree Power365
+
+__Downloads__: 633 | __Repository__: 
 
 ## [OCI.PSModules.Logging](https://www.powershellgallery.com/Packages/OCI.PSModules.Logging/30.1.0) | 30.1.0
 
@@ -1462,14 +1503,6 @@ This modules provides Cmdlets for OCI Certificates Service
 
 __Downloads__: 468 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-## [OCI.PSModules.Budget](https://www.powershellgallery.com/Packages/OCI.PSModules.Budget/30.1.0) | 30.1.0
-
-### Published: 04/12/2022 17:10:37 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Budget Service
-
-__Downloads__: 1,242 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
 ## [OCI.PSModules.Blockchain](https://www.powershellgallery.com/Packages/OCI.PSModules.Blockchain/30.1.0) | 30.1.0
 
 ### Published: 04/12/2022 17:10:27 by Oracle Cloud Infrastructure
@@ -1628,7 +1661,7 @@ __Downloads__: 708 | __Repository__: https://github.com/oracle/oci-powershell-mo
 
 OCI Common module exports Cmdlets that manages features offered by OCI Modules for Powershell like History Store, OCI Configuration file setup and Per-Session Region/Config/Profile preferences. Common module also contains some functionalties that are common to all OCI Service modules, therefore all OCI Service modules depends on Common module.
 
-__Downloads__: 37,382 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+__Downloads__: 37,404 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
 ## [Carbon.Cryptography](https://www.powershellgallery.com/Packages/Carbon.Cryptography/2.3.0) | 2.3.0
 
@@ -1684,7 +1717,7 @@ __Downloads__: 79,159 | __Repository__: https://www.ironmansoftware.com/powershe
 
 Module for PowerShell Universal.
 
-__Downloads__: 20,602 | __Repository__: https://ironmansoftware.com/powershell-universal
+__Downloads__: 20,623 | __Repository__: https://ironmansoftware.com/powershell-universal
 
 ## [IdracRedfishSupport](https://www.powershellgallery.com/Packages/IdracRedfishSupport/14.0.0.0) | 14.0.0.0
 
@@ -1692,7 +1725,7 @@ __Downloads__: 20,602 | __Repository__: https://ironmansoftware.com/powershell-u
 
 Main module used to import all individual iDRAC Redfish modules listed in the Powershell gallery. For more details and examples for each module, execute get-help on the specific module.
 
-__Downloads__: 188 | __Repository__: 
+__Downloads__: 190 | __Repository__: 
 
 ## [Invoke-ChangeIdracUserPasswordREDFISH](https://www.powershellgallery.com/Packages/Invoke-ChangeIdracUserPasswordREDFISH/7.0.0) | 7.0.0
 
@@ -1813,14 +1846,6 @@ __Downloads__: 118 | __Repository__:
 Test Module With Dependency A
 
 __Downloads__: 11 | __Repository__: 
-
-## [UncommonSense.Nrc](https://www.powershellgallery.com/Packages/UncommonSense.Nrc/0.0.7.0) | 0.0.7.0
-
-### Published: 04/11/2022 14:52:27 by Jan Hoek
-
-PowerShell module for listing NRC articles
-
-__Downloads__: 657 | __Repository__: https://github.com/jhoek/UncommonSense.Nrc
 
 ## [HtmlToMarkdown](https://www.powershellgallery.com/Packages/HtmlToMarkdown/1.0.1) | 1.0.1
 
@@ -1972,7 +1997,7 @@ __Downloads__: 274 | __Repository__: https://github.com/archmachina/ps-modulemgm
 
 Module used for my profile
 
-__Downloads__: 460 | __Repository__: https://github.com/codaamok/codaamok
+__Downloads__: 461 | __Repository__: https://github.com/codaamok/codaamok
 
 ## [Transferetto](https://www.powershellgallery.com/Packages/Transferetto/0.0.11) | 0.0.11
 
@@ -2016,20 +2041,4 @@ A GUI to launch any PowerShell script, function, or any other executables. Every
 
 __Downloads__: 117 | __Repository__: https://github.com/smitpi/PSLauncher
 
-## [UncommonSense.Meewind](https://www.powershellgallery.com/Packages/UncommonSense.Meewind/0.0.3) | 0.0.3
-
-### Published: 04/09/2022 12:12:48 by Jan Hoek
-
-PowerShell module for Meewind investments funds
-
-__Downloads__: 126 | __Repository__: https://github.com/jhoek/UncommonSense.Meewind
-
-## [PSWriteHTML](https://www.powershellgallery.com/Packages/PSWriteHTML/0.0.173) | 0.0.173
-
-### Published: 04/09/2022 12:12:30 by Przemyslaw Klys
-
-PSWriteHTML is PowerShell Module to generate beautiful HTML reports, pages, emails without any knowledge of HTML, CSS or JavaScript. To get started basics PowerShell knowledge is required.
-
-__Downloads__: 610,091 | __Repository__: https://github.com/EvotecIT/PSWriteHTML
-
-*Updated: Monday, April 18, 2022 10:01:45 AM UTC*
+*Updated: Monday, April 18, 2022 2:22:09 PM UTC*
