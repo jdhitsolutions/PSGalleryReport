@@ -1,6 +1,6 @@
 ﻿This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Sunday, April 17, 2022 10:02:03 AM UTC
+Updated: Monday, April 18, 2022 10:01:53 AM UTC
 
 "interactive
 .bat
@@ -17,7 +17,6 @@ Updated: Sunday, April 17, 2022 10:02:03 AM UTC
 1709
 1803
 1809
-1c
 1e
 1password
 1poshword
@@ -166,6 +165,7 @@ adobe
 adobeflash
 adoxio
 adp
+adr
 ads
 adsi
 adsync
@@ -257,6 +257,7 @@ analyzerrules
 anchor
 and
 android
+anet
 anf
 anglesharp
 angular
@@ -278,7 +279,6 @@ aovpn psmodule
 apache
 api
 apichecks
-apiclient
 api-client
 apigateway
 api-gateway
@@ -295,6 +295,7 @@ aportal
 app
 app.config
 appclusive
+appcmd
 appconfiguration
 appdynamics
 appearance
@@ -425,12 +426,14 @@ authenticate
 authentication
 authenticationcertificate
 authenticode
+authn
 authoring
 authoringtools
 authority
 authorization
 authorizationheaders
 authorize.net
+authz
 autify
 auto_cd
 autoattendant
@@ -481,7 +484,6 @@ az
 az.automation
 az.stackhci
 aza
-azautomation
 azcli
 az-cli
 azcompute
@@ -490,7 +492,6 @@ azdisk
 azdo
 azereo
 azforensics
-azkeyvault
 aznetworking
 aznetworkinterface
 aznicdetails
@@ -512,6 +513,7 @@ azureadconnect
 azureadgraph
 azureadtoolkit
 azure-adx
+azureappconfiguration
 azurearc
 azureas
 azureautomation
@@ -1285,6 +1287,7 @@ crossplatform
 cross-platform
 cross-reference
 crowdstrike
+crt.sh
 crud
 crypto
 cryptocompare
@@ -1303,6 +1306,7 @@ csv
 csv2adx
 csvhelper
 ctglobal
+ctl
 ctx
 ctype
 cubes
@@ -2010,6 +2014,7 @@ extensions
 external
 externalip
 extract
+extreme-networks
 eztheme
 f
 f#
@@ -2352,6 +2357,7 @@ google-histogram
 googlemap
 googlemaps
 google-sankey
+google-table
 gopher
 gopher+
 gopherplus
@@ -2603,7 +2609,6 @@ iac
 iam
 iana
 iap
-ias
 ib
 ibm
 ibmc
@@ -3027,6 +3032,7 @@ licence
 license
 licenseautomation
 license-generator
+licensereport
 licensing
 light
 lights
@@ -3155,6 +3161,8 @@ lunches
 lwa
 lxca
 lxcapstool
+lxco
+lxcopstool
 lync
 m365
 maatschap-fortigi
@@ -3194,7 +3202,6 @@ maml
 manage
 manageability
 manageddisks
-managedidentities
 managed-identity
 managedserviceidenity
 managedserviceidentity
@@ -3256,6 +3263,7 @@ mbc
 mbs
 mc
 mcafee
+mcas
 mchapv2
 md5
 md5_v2-b25d7fe7f5fab57d22955e7caf428037
@@ -3385,6 +3393,7 @@ mixedreality
 mixer
 mkdocs
 mlflow
+mmdc
 mobile
 mobilitycontroller
 mock
@@ -3576,10 +3585,8 @@ networkdrives
 networking
 networkinterfaces
 networkloadbalancer
-networkpolicyserver
 networkscan
 networksecurity
-networksecuritygroup
 networkshares
 new
 new-completionresult
@@ -3598,6 +3605,8 @@ newspaper
 new-system
 newtonsoft
 new-udmorph
+nexenta
+nexentastor
 nexthink
 nexus
 ngen
@@ -3644,9 +3653,6 @@ npm
 npm-upgrade
 nprinting
 nprintingapi
-nps
-npslog
-npslogfile
 nrc
 nrql
 ns
@@ -3757,7 +3763,6 @@ oneidentity
 onelogin
 oneloginapi
 onenote
-onestools
 onetimesecret
 oneviewglobaldashboard
 online
@@ -4046,7 +4051,6 @@ playback
 playbook
 player
 playlists
-pleasant
 pleasantpasswordserver
 plex
 plist
@@ -4183,7 +4187,6 @@ powertoolcmdlets
 powertooldsc
 ppdm
 pposh
-pps
 ppt
 pptp
 pptx
@@ -4294,6 +4297,7 @@ prtg_network_monitor
 prtgnetworkmonitor
 ps
 ps.credentialmanager
+ps1
 ps1xml
 ps1xmlgen
 ps2exe
@@ -4795,7 +4799,6 @@ runbook
 runbooks
 runbookstudio
 rundeck
-runner
 runspace
 runspacepool
 runspaces
@@ -4806,7 +4809,6 @@ russia
 rust
 rust-lang
 ryanairps
-ryver
 s.ds.p
 s3
 s4b
@@ -4983,7 +4985,6 @@ select-item
 select-kubecontext
 select-kubenamespace
 select-string
-selectxmlinfo
 selenium
 self
 selfdispatch
@@ -5024,7 +5025,6 @@ serilog-for-powershell
 serilog-sink
 server
 servercertificatevalidationcallback
-serverless
 servermanagement
 servers
 service
@@ -5415,7 +5415,6 @@ store
 storefront
 storeonce
 storeserv
-strava
 streak
 stream
 streamanalytics
@@ -5452,6 +5451,7 @@ subnetmask
 subnetmaths
 subnets
 subnetting
+subscribedskus
 subscription
 subscriptiondefinition
 subsystem
@@ -5577,6 +5577,7 @@ tcp/ip
 tcpip
 tcpport
 tcpserver
+tcptest
 tcx
 tcxaemgmt
 tdd
@@ -5590,7 +5591,6 @@ teamspolicy
 teamviewer
 techdirect
 techedna2014
-techlog
 techsmith
 tel
 telegram
@@ -5729,6 +5729,7 @@ tpp
 trace
 traceevent
 tracer
+tracert
 tracing
 tracker
 tracking
@@ -5753,6 +5754,7 @@ translation
 translit
 transliteration
 transmission
+transparency
 trap
 trec
 tree
@@ -5801,9 +5803,9 @@ twitch
 twitter
 twitter-api
 twitter-client
+twitter-follow
 twitter-hashtag
 twitter-mention
-twitter-share
 twitter-timeline
 twitter-tweet
 txt
@@ -5825,6 +5827,7 @@ ucspowertool
 ud-avataaar
 ud-badgebutton
 ud-badgelink
+ud-breadcrumb
 ud-breadcrumbitem
 ud-burger
 ud-button
@@ -5841,6 +5844,7 @@ ud-datepicker
 udfeedback
 ud-field
 ud-flexytable
+ud-funnel
 ud-hero
 ud-illustration
 ud-input
@@ -5856,6 +5860,7 @@ udpclient
 ud-piechart3d
 ud-pivottable
 ud-progressstepbar
+udptest
 udr
 ud-rangeslider
 ud-readingbar
@@ -5866,7 +5871,6 @@ ud-signature
 ud-simpledrawer
 ud-singleselect
 ud-slider
-ud-speechbubble
 ud-step
 ud-stepbar
 ud-stickynavbar
@@ -5879,6 +5883,7 @@ ud-toploader
 ud-trendline
 ud-typing
 ud-window
+ud-wordtree
 uefi
 ui
 ui/ux
@@ -6175,6 +6180,7 @@ vvx
 vxrail
 w32time
 w3svc
+w3w
 waas
 wac
 waf
@@ -6221,6 +6227,7 @@ webcamera
 webcmdlets
 webdav
 webdeploy
+webfrequest
 webhdfs
 webhistory
 webhook
@@ -6245,7 +6252,9 @@ websockets
 websphere
 websphereappserver
 websphereportal
+webtest
 webtesting
+webtime
 wec
 wecutil
 weekday
@@ -6254,6 +6263,7 @@ weixin
 well-known
 wem
 wemsdk
+what3words
 whatismyip
 where
 whfb
@@ -6401,6 +6411,7 @@ wrapper
 wrapperfunctions
 wrap-text
 wrc
+wrike
 write
 writeaccess
 write-ascii
@@ -6465,6 +6476,7 @@ xi
 xiaomi
 xkcd
 xliff
+xmc
 xml
 xmla
 xmlrpc
@@ -6502,6 +6514,7 @@ z
 zabbix
 zabbixps
 zap
+zcat
 zendesk
 zerto
 zigbee
