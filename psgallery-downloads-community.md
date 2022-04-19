@@ -1,4 +1,4 @@
-﻿# Latest Community Contributions from the PowerShell Gallery by Download
+# Community Contributions from the PowerShell Gallery by Download
 
 ![PS](images/powershell-emoji.png)
 
@@ -2149,4 +2149,4 @@ RemoteDesktop - RemoteDesktop module with several helper functions
 
 __Downloads__: 57,046 | __Repository__: 
 
-*Updated: Tuesday, April 19, 2022 10:04:36 AM UTC*
+*Updated: Tuesday, April 19, 2022 10:18:45 PM UTC*

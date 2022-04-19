@@ -1,4 +1,4 @@
-﻿# Latest from the PowerShell Gallery Filtered
+# Latest from the PowerShell Gallery Filtered
 
 ![PS](images/powershell-emoji.png)
 
@@ -2039,4 +2039,4 @@ Trello Api module
 
 __Downloads__: 19 | __Repository__: https://github.com/archmachina/ps-trelloapitools
 
-*Updated: Tuesday, April 19, 2022 10:04:28 AM UTC*
+*Updated: Tuesday, April 19, 2022 10:18:37 PM UTC*
