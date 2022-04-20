@@ -46,6 +46,10 @@ This report is sorted by __total__ download count and limited to the first 250 m
 
 This report is sorted by __total__ download count and limited to the first 250 modules where the author is __not__ Microsoft, Oracle, VMware, Amazon, HP, or Dell. Contributions from the DSC Community are also excluded. Hopefully, this report highlights modules created by individual members of the PowerShell community.
 
+### [Top Authors](psgallery-authors.md)
+
+This is a report of the top 25 module contributors to the PowerShell Gallery. The list *excludes* major vendors such as Microsoft and VMware.  The goal is to highlight individual contributions to the PowerShell Gallery.
+
 ### [Tag List](taglist.txt)
 
 This is a simple text list of unique tags found in the PowerShell Gallery. All tags have been converted to lower case, but that should have no affect on using the tag.

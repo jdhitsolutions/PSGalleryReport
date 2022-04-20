@@ -90,20 +90,23 @@ foreach ($item in $query) {
     $fragments.Add("### Published: $($item.PublishedDate) by $($item.Author)`n")
     $fragments.Add("$($item.description)`n")
     $dl = "__Downloads__: {0:n0}" -f [int64]($item.additionalmetadata.DownloadCount)
-    $repo = "__Repository__: $($item.projecturi)"
+    $repo = "__Repository__: $($item.projecturi.absoluteUri)"
     $Fragments.Add("$dl | $repo`n")
 }
 
 $fragments.add("*Updated: $(Get-Date -Format U) UTC*")
 Write-Host "[$(Get-Date)] Saving report to $filename" -ForegroundColor yellow
 #need to make sure files are encoded to UTF8 for future PDF conversion
-$fragments | Out-File $PSScriptRoot\..\$filename -Encoding utf8
+$fragments | Out-File "c:\scripts\psgalleryreports\$filename" -Encoding utf8
 
 Write-Host "[$(Get-Date)] Ending $($myinvocation.mycommand)" -ForegroundColor yellow
 
 <#
 Change log
 
+4/20/2022
+  Updated to use full paths and not $PSScriptRoot
+  Modified to use absolute URI
 4/19/2022
   Modified report titles
 4/18/2022

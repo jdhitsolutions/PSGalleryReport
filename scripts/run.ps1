@@ -32,6 +32,8 @@ if (Test-Path $tmpData) {
     C:\scripts\psgalleryreports\scripts\make-reports.ps1 -Offline -ReportType Downloads
     C:\scripts\psgalleryreports\scripts\make-reports.ps1 -Offline -ReportType CommunityDownloads
 
+    #top author report
+    C:\scripts\psgalleryreports\scripts\top-authorreport.ps1
     #make tag list
     C:\scripts\PSGalleryReports\scripts\make-taglist.ps1
 
@@ -57,6 +59,9 @@ Write-Host "[$(Get-Date)] Ending c:\scripts\psgalleryreport\run.ps1" -Foreground
 
 <#
 Change Log
+
+4/20/2022
+  Added top author report
 
 4/13/2022
   Replaced $myinvocation.mycommand with hard-coded references since $myinvocation doesn't resolve
