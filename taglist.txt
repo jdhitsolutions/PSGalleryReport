@@ -1,6 +1,6 @@
 ﻿This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Tuesday, April 19, 2022 10:23:00 PM UTC
+Updated: Wednesday, April 20, 2022 10:05:01 AM UTC
 
 "interactive
 .bat
@@ -186,11 +186,9 @@ aeries
 aeriessis
 aes
 afd
-affinity
-affinity-co
-affinity-crm
 agent
 aggregates
+aggregation
 agile
 agility
 agm
@@ -535,6 +533,7 @@ azure-devops
 azuredevops_security
 azuredevopsserver
 azuredns
+azurefilesync
 azure-forensics
 azurefunctions
 azure-functions
@@ -1117,7 +1116,6 @@ compute
 computeinstanceagent
 computer
 computername
-computers
 computersite
 computer-site
 concur
@@ -1258,6 +1256,7 @@ createprocessasuser
 createschema
 createtable
 creationworkflowsimplification
+creator
 cred
 credential
 credential-file
@@ -1325,7 +1324,6 @@ custom
 customchecks
 customer
 customerengagement
-customers
 customevents
 custominformationservices
 customis
@@ -1858,6 +1856,7 @@ enterprisedb
 enterprisemanager
 enterprise-scale
 enterprisevoice
+entity
 entityframework
 entropy
 enum
@@ -1939,6 +1938,7 @@ eventwatch
 evergreen
 evernote
 everydaypowershell
+everydayrewards
 everything
 evidencelock
 evolutionary-algorithms
@@ -2055,7 +2055,6 @@ fiddler
 fido
 fieldglass
 fifa
-figlet
 file
 file-association
 file-encoding
@@ -2210,6 +2209,8 @@ fslogix
 fsrm
 ftp
 ftps
+fudge
+fudgepop
 fujitsu
 full
 fullclr
@@ -2565,6 +2566,7 @@ hris
 hsdp
 html
 http
+httpclient
 httplistener
 https
 httpserver
@@ -2666,7 +2668,6 @@ imagecreation
 image-creation
 imagegeneration
 image-generation
-imageoftheday
 imageprocess
 image-process
 imageprocessing
@@ -2775,6 +2776,7 @@ investment
 investments
 invocation
 invoke
+invoke-asadmin
 invoke-asadministrator
 invoke-ascurrentuser
 invoke-automation
@@ -2832,6 +2834,7 @@ iso-3166-1
 iso-8601
 ispac
 isprime
+issues
 isvalidemail
 isvalidip
 item
@@ -2856,6 +2859,7 @@ javamanager
 javascript
 javaversion
 jboss
+jdbc
 jdedwards
 jdt
 jea
@@ -3006,6 +3010,7 @@ learningpowershell
 lease
 leetabit
 legacy
+legacyad
 legends
 lego
 lein
@@ -3026,7 +3031,6 @@ license
 licenseautomation
 license-generator
 licensereport
-licenses
 licensing
 light
 lights
@@ -3175,6 +3179,7 @@ magazine
 magento
 magic8ball
 magicpacket
+magnet
 mail
 mailbox
 mailchimp
@@ -3668,7 +3673,6 @@ ntsystems
 nuget
 nuget.exe
 nuget.org
-nuget-references
 null-coalescing
 number
 numlock
@@ -3741,6 +3745,7 @@ oidc
 ok
 okta
 old
+ole
 oledb
 ome
 omnisphere
@@ -4674,7 +4679,6 @@ reportingservicepoint
 reportingservices
 reportportal
 reportportal.io
-reportrunner
 reports
 repos
 repositories
@@ -4778,6 +4782,7 @@ royalserver
 royalts
 royaltsx
 rpa
+rpc
 rras
 rrd
 rs
@@ -4800,6 +4805,7 @@ runbook
 runbooks
 runbookstudio
 rundeck
+runner
 runspace
 runspacepool
 runspaces
@@ -4851,6 +4857,7 @@ savefile
 savings
 savov
 sbc
+sc
 scaffold
 scaffoldingtemplate
 scalable
@@ -5276,6 +5283,7 @@ speak
 specification
 specify
 spectre
+spectrumconnect
 spectrumcontrolbase
 speculation
 speculationcontrol
@@ -5310,6 +5318,7 @@ sqlautomation
 sqlchangeautomation
 sqlclient
 sqlcmd
+sqlcodeguard
 sql-database
 sqldbatools
 sqldiagapi
@@ -5611,6 +5620,7 @@ template
 template-engine
 templates
 templating
+temporary
 tenable
 tenable.sc
 tenant
@@ -5667,8 +5677,6 @@ themes
 thermal
 thermostat
 thinprint
-third-party-libraries
-third-party-notice
 thispc
 thoughtfortheday
 thousandeyes
@@ -5723,6 +5731,7 @@ tools4ever
 topdesk
 topics
 topology
+torrent
 torrents
 toshiba
 totp
@@ -5757,6 +5766,7 @@ translate
 translation
 translit
 transliteration
+transmission
 transparency
 trap
 trec
@@ -5790,6 +5800,7 @@ tsa
 tsd
 tsheets
 t-sql
+tsqlbestpractice
 tts
 tui
 tulpep
@@ -5808,6 +5819,7 @@ twitter-client
 twitter-follow
 twitter-hashtag
 twitter-mention
+twitter-share
 twitter-timeline
 twitter-tweet
 txt
@@ -5873,6 +5885,7 @@ ud-signature
 ud-simpledrawer
 ud-singleselect
 ud-slider
+ud-speechbubble
 ud-step
 ud-stepbar
 ud-stickynavbar
@@ -6025,6 +6038,7 @@ vaultextension
 vaultstore
 vba
 vbproj
+vbr
 vc
 vccmdlets
 vcenter
@@ -6205,6 +6219,7 @@ wasabi
 watch
 watchmen
 watery
+wave
 wayk
 waykagent
 waykbastion
@@ -6377,6 +6392,8 @@ wol
 wolfram
 wolframalpha
 woocommerce
+woolworths
+woolworthsrewards
 word
 wordcloud
 wordlist
@@ -6452,6 +6469,7 @@ x509certificates
 x509chain
 x64
 x86
+xa
 xaf
 xbase
 xbox
