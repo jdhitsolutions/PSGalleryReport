@@ -9,7 +9,7 @@ $intro = "This is a report of contributions to the [PowerShell Gallery](https://
 $all = Import-clixml $tmpData
 
 #exlude major vendors
-$filter = { $_.author -notmatch '\b(Microsoft|Amazon|Dell|DSC|Oracle|VMware|OneScript|HP|PowerShell Team|CData)\b' }
+$filter = { $_.author -notmatch '\b(Microsoft|Amazon|Dell|DSC|Oracle|VMware|OneScript|HP|PowerShell Team|CData|BitTitan)\b'}
 $query = $all | Where-Object $filter -OutVariable f
 $top = $query| Group-Object author | Sort-Object count -Descending | Select-Object -first 25
 
@@ -38,3 +38,10 @@ $md.add("`n*Updated: $(Get-Date -Format U) UTC*")
 Write-Host "[$(Get-Date)] Saving report to $filename" -ForegroundColor darkcyan
 $md | Out-File "c:\scripts\psgalleryreports\$filename" -Encoding utf8
 Write-Host "[$(Get-Date)] Ending $($myinvocation.mycommand)" -ForegroundColor darkcyan
+
+<#
+Change log
+
+4/20/2022
+ - Initial release
+#>
