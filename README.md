@@ -6,7 +6,7 @@ This repository contains reports for the [PowerShell Gallery](https://powershell
 
 Feel free to use the Discussion section of this repository to talk about specific modules. If you think there should be another type of report, feel https://github.com/jdhitsolutions/PSGalleryReport/issuesfree to submit a Feature Request in the [Issues](https://github.com/jdhitsolutions/PSGalleryReport/issues) section of this repository.
 
-> :warning: This project is __not__ a PowerShell module for you to install and run yourself. The repository is a location for reports that I am generating and publishing. You are welcome to take the scripts I am using and create your won reports.
+> :warning: This project is __not__ a PowerShell module for you to install and run yourself. The repository is a location for reports that I am generating and publishing. You are welcome to take the scripts I am using and create your own reports.
 
 ## Reports
 
@@ -66,7 +66,7 @@ I am currently running a daily PowerShell scheduled job locally to generate the 
 
 Because I'm using a PowerShell scheduled job, all paths in the script are explictly defined. I'm also using `Write-Host` lines so that I can review the job. Another option I might consider would be to start a transcript.
 
-The script to convert markdown to PDF uses a private set of commands. The commands are Ruby-based and require additional configuration. I am not including them in this repository. If you are using my scripts for your won work, there are VSCode extensions you can use to easily convert markdown files to PDF or you might find other tools for this task.
+The script to convert markdown to PDF uses a private set of commands. The commands are Ruby-based and require additional configuration. I am not including them in this repository. If you are using my scripts for your own work, there are VSCode extensions you can use to easily convert markdown files to PDF or you might find other tools for this task.
 
 I am looking into a Github Action to move report generation from my desktop to the cloud.
 
