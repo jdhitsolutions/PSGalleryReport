@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Thursday, 29 June 2023 09:53:30 UTC
+Updated: Friday, 30 June 2023 02:17:50 UTC
 
 ?:
 ??
@@ -17,7 +17,6 @@ Updated: Thursday, 29 June 2023 09:53:30 UTC
 "interactive
 🍄
 🍣
-💩
 10
 11
 1607
@@ -541,7 +540,6 @@ automation
 automation psmodule
 automationanywhere
 autopilot
-autoscaling
 autostart
 autotask
 autotaskapi
@@ -869,7 +867,6 @@ build-log
 build-scripts
 builddefinition
 builder
-building
 buildingfile
 buildingmapping
 buildkit
@@ -926,6 +923,8 @@ capslock
 captcha
 capture
 carbon
+carbonawarecomputing
+carbonintensity
 card
 cardwirth
 cargo
@@ -1484,7 +1483,6 @@ css
 csv
 csv2adx
 csvhelper
-ctf
 ctglobal
 ctl
 ctrl+c
@@ -1524,6 +1522,7 @@ customization
 customlocation
 customlogs
 customproviders
+cutehttpfileserver
 cvad
 cve-2021-34527
 cvrf
@@ -1660,7 +1659,6 @@ decrypt
 decryption
 dedicatedhsm
 deduplication
-deep
 deep-security
 deep-security-manager
 deepl
@@ -1842,7 +1840,6 @@ dns-client
 dns-over-https
 dns-resolver
 dnsbl
-dnsclient
 dnsdumpster
 dnsentry
 dnsimple
@@ -2996,6 +2993,7 @@ identity-management
 identitydataplane
 identitydirector
 identitydomains
+identitynow
 idf
 idm
 idna
@@ -3277,7 +3275,6 @@ johnshopkins
 join
 join-object
 jojoba
-joke
 jotform
 journal
 joyride
@@ -3374,8 +3371,6 @@ krick
 kschemaplugin
 kubclt
 kubectl
-kubectx
-kubens
 kubernetes
 kubernetesconfiguration
 kubespray
@@ -3662,7 +3657,6 @@ maintain-module
 maintenance
 maintenance-window
 maintenancewindows
-make
 maker
 malware
 mamagedidentity
@@ -3844,7 +3838,6 @@ microsofthealth
 microsoftintune
 microsoftmvp
 microsoftoffice
-microsoftonline
 microsoftstaffhub
 microsoftstore
 microsoftteams
@@ -3884,7 +3877,6 @@ ml
 mlflow
 mmdc
 mobile
-mobilenetwork
 mobilitycontroller
 mock
 mocking
@@ -4063,6 +4055,8 @@ nedyalkov
 neo4j
 neptune
 nerdfonts
+nerdio
+nerdioapi
 nerdymishka
 nessus
 nested
@@ -4150,6 +4144,7 @@ nlm
 nlog
 nmap
 nmbell
+nmm
 nntp
 node
 nodejs
@@ -4666,7 +4661,6 @@ polycom
 pomodoro
 ponduit
 pool
-poop
 pop
 pop-location
 pop3
@@ -5502,6 +5496,7 @@ safe
 safeguard
 sage
 saggiehaim
+sailpoint
 sale
 sales
 salesforce
@@ -5625,6 +5620,7 @@ sdk
 sdn
 sdp
 search
+search-adminauditlog
 search-engines
 searchengine
 searcher
@@ -5678,8 +5674,6 @@ seekatar
 seeshell
 select
 select-item
-select-kubecontext
-select-kubenamespace
 select-string
 selection
 selectxmlinfo
@@ -5813,7 +5807,6 @@ sharepointpnppowershellonline.add-on.module
 shares
 sheets
 shell
-shell-art
 shells
 shellserver
 shieldedvm
@@ -5832,6 +5825,7 @@ shotgun
 show
 show-command
 show-on-command
+showdemo
 showoncommand
 shred
 shutdown
@@ -6439,6 +6433,7 @@ text-to-image
 text-to-speach"
 text-to-speech
 text2image
+textanalysis
 textbuffer
 texting
 textprocessing
@@ -6669,10 +6664,10 @@ ud-input
 ud-licensed
 ud-loadingoverlay
 ud-minesweeper
+ud-mouseparticle
 ud-navbarsearch
 ud-numbermask
 ud-orgchart
-ud-piechart3d
 ud-pivottable
 ud-progressstepbar
 ud-rangeslider
