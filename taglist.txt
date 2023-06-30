@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Friday, 30 June 2023 02:17:50 UTC
+Updated: Friday, 30 June 2023 09:54:07 UTC
 
 ?:
 ??
@@ -17,6 +17,7 @@ Updated: Friday, 30 June 2023 02:17:50 UTC
 "interactive
 🍄
 🍣
+💩
 10
 11
 1607
@@ -540,6 +541,7 @@ automation
 automation psmodule
 automationanywhere
 autopilot
+autoscaling
 autostart
 autotask
 autotaskapi
@@ -715,8 +717,6 @@ bayern
 bb
 bbp
 bc
-bcd
-bcdedit
 bd
 bdd
 bds
@@ -753,7 +753,6 @@ bikeshed
 billing
 billingbenefits
 bin
-bin-obj
 binary
 binaryip
 bind
@@ -815,7 +814,6 @@ bookmark
 bookmarks
 books
 bool
-bootloader psmodule
 bootstrap
 bootstrapping
 bop
@@ -867,6 +865,7 @@ build-log
 build-scripts
 builddefinition
 builder
+building
 buildingfile
 buildingmapping
 buildkit
@@ -891,7 +890,6 @@ businesstime
 bxor
 bydesign
 byexample
-bynarypsmodule
 byte
 bytearray
 bzip2
@@ -1084,8 +1082,10 @@ classified
 clccontrol
 clccontrolapiv1
 clccontrolapiv2
+clean-up
 cleanmgr
 cleanup
+cleanup-orphans
 clear
 clear-history
 clearpass
@@ -1423,6 +1423,8 @@ cqhttp
 crack psmodule
 crash
 crayon
+crc
+crc32
 create
 createcolumn
 createdatabase
@@ -1483,6 +1485,7 @@ css
 csv
 csv2adx
 csvhelper
+ctf
 ctglobal
 ctl
 ctrl+c
@@ -1534,6 +1537,8 @@ cyberdrain
 cybereason
 cybersecurity
 cyberwatch
+cyclic
+cyclicredundancycheck
 cygwin
 cylance
 cypher
@@ -1643,7 +1648,6 @@ dcom
 dcr
 debian
 debug
-debug-files
 debugger
 debugging
 decimal
@@ -1659,6 +1663,7 @@ decrypt
 decryption
 dedicatedhsm
 deduplication
+deep
 deep-security
 deep-security-manager
 deepl
@@ -1679,6 +1684,7 @@ deflate
 delegated
 delegationmodel
 delete
+delete-orphan-branches
 deleteuserprofile
 delivery
 dell
@@ -1840,6 +1846,7 @@ dns-client
 dns-over-https
 dns-resolver
 dnsbl
+dnsclient
 dnsdumpster
 dnsentry
 dnsimple
@@ -2285,8 +2292,6 @@ f
 f#
 f5
 facebook
-factoryorchestrator
-factoryorchestratorclient
 facts
 faf
 failedlogin
@@ -3187,7 +3192,6 @@ ipa
 ipaddress
 ipam
 ipbroadcast
-ipc
 ipcalc
 ipcalculator
 iperf
@@ -3216,7 +3220,6 @@ ish
 ishexstring
 isnumeric
 iso
-iso-3166-1
 iso-8601
 ispac
 isprime
@@ -3275,6 +3278,7 @@ johnshopkins
 join
 join-object
 jojoba
+joke
 jotform
 journal
 joyride
@@ -3371,6 +3375,8 @@ krick
 kschemaplugin
 kubclt
 kubectl
+kubectx
+kubens
 kubernetes
 kubernetesconfiguration
 kubespray
@@ -3657,6 +3663,7 @@ maintain-module
 maintenance
 maintenance-window
 maintenancewindows
+make
 maker
 malware
 mamagedidentity
@@ -3838,6 +3845,7 @@ microsofthealth
 microsoftintune
 microsoftmvp
 microsoftoffice
+microsoftonline
 microsoftstaffhub
 microsoftstore
 microsoftteams
@@ -3877,6 +3885,7 @@ ml
 mlflow
 mmdc
 mobile
+mobilenetwork
 mobilitycontroller
 mock
 mocking
@@ -4661,6 +4670,7 @@ polycom
 pomodoro
 ponduit
 pool
+poop
 pop
 pop-location
 pop3
@@ -5247,6 +5257,7 @@ redkite
 redseal
 redshift
 redteaming
+redundancy
 refactor
 refactoring
 refeds
@@ -5674,6 +5685,8 @@ seekatar
 seeshell
 select
 select-item
+select-kubecontext
+select-kubenamespace
 select-string
 selection
 selectxmlinfo
@@ -5807,6 +5820,7 @@ sharepointpnppowershellonline.add-on.module
 shares
 sheets
 shell
+shell-art
 shells
 shellserver
 shieldedvm
@@ -5922,7 +5936,6 @@ snapchat
 snapping
 snapshot
 snapshots
-snipe-it
 snippet
 snippets
 snippets-manager
@@ -6299,7 +6312,6 @@ systemcenter
 systemcolors
 systemdiscovery
 systeminfo
-systeminformation
 systemlocale
 systems
 systemsplash
@@ -6668,6 +6680,7 @@ ud-mouseparticle
 ud-navbarsearch
 ud-numbermask
 ud-orgchart
+ud-piechart3d
 ud-pivottable
 ud-progressstepbar
 ud-rangeslider
@@ -6843,7 +6856,6 @@ vaultextension
 vaultstore
 vb365
 vba
-vbaproject
 vbproj
 vbr
 vbscript
@@ -6923,7 +6935,6 @@ virus
 virustotal
 visio
 visual
-visual-studio
 visualbuilder
 visualc
 visualization
