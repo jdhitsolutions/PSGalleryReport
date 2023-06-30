@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Friday, 30 June 2023 09:54:07 UTC
+Updated: Friday, 30 June 2023 17:53:59 UTC
 
 ?:
 ??
@@ -552,7 +552,6 @@ autoupdate-script
 autoyast
 availability
 availabilityset
-avalara
 avalonia
 avatar
 avd
@@ -717,6 +716,8 @@ bayern
 bb
 bbp
 bc
+bcd
+bcdedit
 bd
 bdd
 bds
@@ -753,6 +754,7 @@ bikeshed
 billing
 billingbenefits
 bin
+bin-obj
 binary
 binaryip
 bind
@@ -814,6 +816,7 @@ bookmark
 bookmarks
 books
 bool
+bootloader psmodule
 bootstrap
 bootstrapping
 bop
@@ -890,6 +893,7 @@ businesstime
 bxor
 bydesign
 byexample
+bynarypsmodule
 byte
 bytearray
 bzip2
@@ -921,8 +925,6 @@ capslock
 captcha
 capture
 carbon
-carbonawarecomputing
-carbonintensity
 card
 cardwirth
 cargo
@@ -1002,7 +1004,6 @@ channel9
 char
 character
 chart
-charting
 charts
 chat
 chatbot
@@ -1648,6 +1649,7 @@ dcom
 dcr
 debian
 debug
+debug-files
 debugger
 debugging
 decimal
@@ -2292,6 +2294,8 @@ f
 f#
 f5
 facebook
+factoryorchestrator
+factoryorchestratorclient
 facts
 faf
 failedlogin
@@ -2829,7 +2833,6 @@ helium
 helix
 hello
 helloid
-helloposhgallery
 helloworld
 helmet
 help
@@ -3192,6 +3195,7 @@ ipa
 ipaddress
 ipam
 ipbroadcast
+ipc
 ipcalc
 ipcalculator
 iperf
@@ -3220,6 +3224,7 @@ ish
 ishexstring
 isnumeric
 iso
+iso-3166-1
 iso-8601
 ispac
 isprime
@@ -3361,7 +3366,6 @@ klantcontroles
 kms
 knapsack
 knetps
-knob
 knowbe4
 knowledge
 knowledgebase
@@ -4059,7 +4063,6 @@ ncal
 ndes
 nebulon
 nec-infrared-transmission-protocol
-nederland
 nedyalkov
 neo4j
 neptune
@@ -4191,7 +4194,6 @@ nql
 nrc
 nrql
 ns
-ns.nl
 nsg
 nslookup
 nsx
@@ -6312,6 +6314,7 @@ systemcenter
 systemcolors
 systemdiscovery
 systeminfo
+systeminformation
 systemlocale
 systems
 systemsplash
@@ -6446,7 +6449,6 @@ text-to-speach"
 text-to-speech
 text2image
 textanalysis
-textbuffer
 texting
 textprocessing
 textwrapping
@@ -6552,7 +6554,6 @@ trading
 trafficfiltering
 trafficmanager
 trafficmarking
-train
 training
 training-course
 tram
@@ -6579,9 +6580,7 @@ trec
 tree
 treesize
 treffynnon
-trein
 trello
-trellops
 trend-micro
 trendmicro
 trevor
@@ -6856,6 +6855,7 @@ vaultextension
 vaultstore
 vb365
 vba
+vbaproject
 vbproj
 vbr
 vbscript
@@ -6935,6 +6935,7 @@ virus
 virustotal
 visio
 visual
+visual-studio
 visualbuilder
 visualc
 visualization

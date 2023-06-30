@@ -3,21 +3,63 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
-## [EulandaConnect](https://www.powershellgallery.com/Packages/EulandaConnect/3.2.3) | 3.2.3
+## [AptecoPSFramework](https://www.powershellgallery.com/Packages/AptecoPSFramework/0.0.4) | 0.0.4
 
-### Published: 06/30/2023 09:31:38 by Christian Niedergesäß
+### Published: 06/30/2023 17:30:00 by florian.von.bracht@apteco.de
 
-EulandaConnect enables the automation of processes both within and beyond your EULANDA ERP software. Compatible with EULANDA ERP 8.x and PowerShell 5.1 or higher, it supports a range of functionalities. These include XML data exchange, Datanorm, delivery bills, order creation, and communication via the Telegram API. In addition, EulandaConnect offers image functions, diagnostic functions, and a suite of MSSQL features such as comprehensive database renaming, data backup, and SQL browser location within the network. With over 250 functions currently available and more in development, EulandaConnect is a powerful extension not only for your ERP system. https://eulandaconnect.eulanda.eu
+Apteco PS Modules - Framework
 
-__Downloads__: 391 | __Repository__: https://github.com/Eulanda/EulandaConnect
+More description to follow...
 
-## [SpecBaseModule](https://www.powershellgallery.com/Packages/SpecBaseModule/1.0.0) | 1.0.0
+__Downloads__: 7 | __Repository__: https://github.com/Apteco/AptecoPSModules/tree/dev/AptecoPSFramework
 
-### Published: 06/30/2023 09:22:22 by owen.heaume
+## [verkadaModule](https://www.powershellgallery.com/Packages/verkadaModule/0.5.11) | 0.5.11
+
+### Published: 06/30/2023 17:14:31 by Brad Parker
+
+Verkada Module
+
+__Downloads__: 96 | __Repository__: https://github.com/bepsoccer/verkadaModule
+
+## [SmallsOnline.TeamsAttendance.Pwsh](https://www.powershellgallery.com/Packages/SmallsOnline.TeamsAttendance.Pwsh/1.0.1) | 1.0.1
+
+### Published: 06/30/2023 17:05:36 by Tim Small
+
+Last ditch option for retrieving Teams meeting attendance reports.
+
+__Downloads__: 0 | __Repository__: https://github.com/Smalls1652/SmallsOnline.TeamsAttendance
+
+## [BitTitanManagement](https://www.powershellgallery.com/Packages/BitTitanManagement/0.0.133) | 0.0.133
+
+### Published: 06/30/2023 17:02:02 by BitTitan
+
+Module for BitTitanPowerShell.
+
+__Downloads__: 8,920 | __Repository__: 
+
+## [Logic.Monitor](https://www.powershellgallery.com/Packages/Logic.Monitor/4.3.2) | 4.3.2
+
+### Published: 06/30/2023 14:17:35 by Steven Villardi
+
+PowerShell module to query the Logic Monitor API. This is a personal project and is not an offically supported LogicMonitor integration.
+
+__Downloads__: 2,029 | __Repository__: https://github.com/stevevillardi/Logic.Monitor
+
+## [SpecBaseModule](https://www.powershellgallery.com/Packages/SpecBaseModule/1.0.2) | 1.0.2
+
+### Published: 06/30/2023 14:11:32 by owen.heaume
 
 Mandatory module for the foundation PowerShell scripts.
 
 __Downloads__: 0 | __Repository__: 
+
+## [EulandaConnect](https://www.powershellgallery.com/Packages/EulandaConnect/3.2.4) | 3.2.4
+
+### Published: 06/30/2023 10:00:47 by Christian Niedergesäß
+
+EulandaConnect enables the automation of processes both within and beyond your EULANDA ERP software. Compatible with EULANDA ERP 8.x and PowerShell 5.1 or higher, it supports a range of functionalities. These include XML data exchange, Datanorm, delivery bills, order creation, and communication via the Telegram API. In addition, EulandaConnect offers image functions, diagnostic functions, and a suite of MSSQL features such as comprehensive database renaming, data backup, and SQL browser location within the network. With over 250 functions currently available and more in development, EulandaConnect is a powerful extension not only for your ERP system. https://eulandaconnect.eulanda.eu
+
+__Downloads__: 391 | __Repository__: https://github.com/Eulanda/EulandaConnect
 
 ## [SentinelOne.Tools](https://www.powershellgallery.com/Packages/SentinelOne.Tools/0.0.5) | 0.0.5
 
@@ -26,14 +68,6 @@ __Downloads__: 0 | __Repository__:
 PowerShell module to interface with the SentinelOne API
 
 __Downloads__: 56 | __Repository__: 
-
-## [Logic.Monitor](https://www.powershellgallery.com/Packages/Logic.Monitor/4.3.1) | 4.3.1
-
-### Published: 06/30/2023 04:35:07 by Steven Villardi
-
-PowerShell module to query the Logic Monitor API. This is a personal project and is not an offically supported LogicMonitor integration.
-
-__Downloads__: 2,029 | __Repository__: https://github.com/stevevillardi/Logic.Monitor
 
 ## [GitHubToolsBD](https://www.powershellgallery.com/Packages/GitHubToolsBD/2.0) | 2.0
 
@@ -66,24 +100,6 @@ __Downloads__: 299 | __Repository__:
 Pilot builds, verifies, and publishes prerelease and release versions of PowerShell modules based on version control events (branch & commit, merge, and tag), and ensures that module metadata is complete, consistent, and correct.
 
 __Downloads__: 2 | __Repository__: https://github.com/michielvoo/Pilot
-
-## [verkadaModule](https://www.powershellgallery.com/Packages/verkadaModule/0.5.10) | 0.5.10
-
-### Published: 06/29/2023 20:25:44 by Brad Parker
-
-Verkada Module
-
-__Downloads__: 96 | __Repository__: https://github.com/bepsoccer/verkadaModule
-
-## [AptecoPSFramework](https://www.powershellgallery.com/Packages/AptecoPSFramework/0.0.3) | 0.0.3
-
-### Published: 06/29/2023 16:51:13 by florian.von.bracht@apteco.de
-
-Apteco PS Modules - Framework
-
-More description to follow...
-
-__Downloads__: 7 | __Repository__: https://github.com/Apteco/AptecoPSModules/tree/main/WriteLog
 
 ## [AppVeyorTestPsGallery](https://www.powershellgallery.com/Packages/AppVeyorTestPsGallery/1.0.496) | 1.0.496
 
@@ -151,7 +167,7 @@ AADInternals allows you to export ADFS certificates, Azure AD Connect passwords,
 
 DISCLAIMER: Functionality provided through this module are not supported by Microsoft and thus should not be used in a production environment. Use on your own risk!
 
-__Downloads__: 61,353 | __Repository__: https://aadinternals.com/aadinternals
+__Downloads__: 61,349 | __Repository__: https://aadinternals.com/aadinternals
 
 ## [CAT](https://www.powershellgallery.com/Packages/CAT/0.14.6.2) | 0.14.6.2
 
@@ -159,7 +175,7 @@ __Downloads__: 61,353 | __Repository__: https://aadinternals.com/aadinternals
 
 Author, run and manage AUTOMATED TESTS for your DATA with minimum effort.
 
-__Downloads__: 115 | __Repository__: https://docs.justcat.it/
+__Downloads__: 114 | __Repository__: https://docs.justcat.it/
 
 ## [SqlChangeAutomation](https://www.powershellgallery.com/Packages/SqlChangeAutomation/4.6.23179.1719) | 4.6.23179.1719
 
@@ -167,7 +183,7 @@ __Downloads__: 115 | __Repository__: https://docs.justcat.it/
 
 Automation tools for production quality database deployment
 
-__Downloads__: 4,238,987 | __Repository__: https://www.red-gate.com/sca/productpage
+__Downloads__: 4,238,960 | __Repository__: https://www.red-gate.com/sca/productpage
 
 ## [Az.Avd](https://www.powershellgallery.com/Packages/Az.Avd/3.0.0) | 3.0.0
 
@@ -207,7 +223,7 @@ __Downloads__: 651 | __Repository__: https://github.com/silk-us/silkiscsi
 
 PowerShell module for configuring and optimizing Windows Server Routing and Remote Access Service (RRAS) for Always On VPN.
 
-__Downloads__: 1,427 | __Repository__: 
+__Downloads__: 1,426 | __Repository__: 
 
 ## [TD.Util](https://www.powershellgallery.com/Packages/TD.Util/0.1.34) | 0.1.34
 
@@ -215,7 +231,7 @@ __Downloads__: 1,427 | __Repository__:
 
 Tedon Utilities module
 
-__Downloads__: 26,860 | __Repository__: https://github.com/ehagen/TD.Util
+__Downloads__: 26,855 | __Repository__: https://github.com/ehagen/TD.Util
 
 ## [PureStoragePowerShellToolkit](https://www.powershellgallery.com/Packages/PureStoragePowerShellToolkit/3.0.1) | 3.0.1
 
@@ -224,6 +240,14 @@ __Downloads__: 26,860 | __Repository__: https://github.com/ehagen/TD.Util
 PowerShell Toolkit for Pure Storage Flasharray and Initiators.
 
 __Downloads__: 8,759 | __Repository__: https://github.com/PureStorage-OpenConnect/PowerShell-Toolkit
+
+## [PureStoragePowerShellToolkit.Exchange](https://www.powershellgallery.com/Packages/PureStoragePowerShellToolkit.Exchange/3.0.1) | 3.0.1
+
+### Published: 06/28/2023 15:50:57 by Pure Storage
+
+PowerShell Toolkit for Pure Storage Flasharray and Initiators.
+
+__Downloads__: 15 | __Repository__: https://github.com/PureStorage-OpenConnect/PowerShell-Toolkit
 
 ## [PureStoragePowerShellToolkit.Core](https://www.powershellgallery.com/Packages/PureStoragePowerShellToolkit.Core/3.0.1) | 3.0.1
 
@@ -352,7 +376,7 @@ __Downloads__: 134 | __Repository__: https://migrate.rivermeadow.com/
 
 ACME protocol client for obtaining certificates using Let's Encrypt (or other ACME compliant CA)
 
-__Downloads__: 1,049,147 | __Repository__: https://github.com/rmbolger/Posh-ACME
+__Downloads__: 1,049,143 | __Repository__: https://github.com/rmbolger/Posh-ACME
 
 ## [HPEBIOSCmdlets](https://www.powershellgallery.com/Packages/HPEBIOSCmdlets/3.1.0.0) | 3.1.0.0
 
@@ -1457,7 +1481,7 @@ __Downloads__: 3 | __Repository__: https://github.com/pmahend1/PowershellScripts
 
 Pester provides a framework for running BDD style Tests to execute and validate PowerShell commands inside of PowerShell and offers a powerful set of Mocking Functions that allow tests to mimic and mock the functionality of any command inside of a piece of PowerShell code being tested. Pester tests can execute any command or script that is accessible to a pester test file. This can include functions, Cmdlets, Modules and scripts. Pester can be run in ad hoc style in a console or it can be integrated into the Build scripts of a Continuous Integration system.
 
-__Downloads__: 15,024,259 | __Repository__: https://github.com/Pester/Pester
+__Downloads__: 15,024,045 | __Repository__: https://github.com/Pester/Pester
 
 ## [NTS.Tools.MSHyperV](https://www.powershellgallery.com/Packages/NTS.Tools.MSHyperV/1.0.3.5) | 1.0.3.5
 
@@ -1481,7 +1505,7 @@ __Downloads__: 962 | __Repository__:
 
 Sample module to manage AutoPilot devices using the Intune Graph API
 
-__Downloads__: 565 | __Repository__: 
+__Downloads__: 564 | __Repository__: 
 
 ## [AdminToolbox](https://www.powershellgallery.com/Packages/AdminToolbox/11.0.100) | 11.0.100
 
@@ -1505,7 +1529,7 @@ __Downloads__: 7,372 | __Repository__: https://github.com/TheTaylorLee/AdminTool
 
 Functions to Automate Bulk VMWare Tasks
 
-__Downloads__: 14,119 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 14,120 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.Remoting](https://www.powershellgallery.com/Packages/AdminToolbox.Remoting/1.9.92) | 1.9.92
 
@@ -1744,7 +1768,7 @@ __Downloads__: 6,199 | __Repository__:
 
 A cross-platform helper module for PowerShell.
 
-__Downloads__: 249,087 | __Repository__: https://github.com/ProVal-Tech/Strapper
+__Downloads__: 248,855 | __Repository__: https://github.com/ProVal-Tech/Strapper
 
 ## [PowershellExpect](https://www.powershellgallery.com/Packages/PowershellExpect/1.1.2) | 1.1.2
 
@@ -1832,7 +1856,7 @@ __Downloads__: 33 | __Repository__: https://github.com/AndiBellstedt/PSPersonio
 
 OSD Day Prep Edition
 
-__Downloads__: 772,740 | __Repository__: https://github.com/OSDeploy/OSD
+__Downloads__: 772,735 | __Repository__: https://github.com/OSDeploy/OSD
 
 ## [Universal](https://www.powershellgallery.com/Packages/Universal/4.0.2) | 4.0.2
 
@@ -1948,7 +1972,7 @@ __Downloads__: 2 | __Repository__:
 
 Module for installing basic programs: This module provides functions for downloading installers from specified links, installing the programs, verifying the installed programs/services, and cleaning up the installer files.
 
-__Downloads__: 99,590 | __Repository__: 
+__Downloads__: 99,591 | __Repository__: 
 
 ## [PowerProcess](https://www.powershellgallery.com/Packages/PowerProcess/0.1.0) | 0.1.0
 
@@ -2062,28 +2086,4 @@ PowerShell Module for Cisco UcsCentral (UcsCentral module in Cisco PowerTool Sui
 
 __Downloads__: 9,640 | __Repository__: 
 
-## [Cisco.IMC](https://www.powershellgallery.com/Packages/Cisco.IMC/3.0.4.4) | 3.0.4.4
-
-### Published: 06/23/2023 08:12:59 by Cisco Systems
-
-PowerShell Module for Cisco IMC (IMC module in Cisco PowerTool Suite)
-
-__Downloads__: 16,250 | __Repository__: 
-
-## [Cisco.UCS.Common](https://www.powershellgallery.com/Packages/Cisco.UCS.Common/3.0.4.4) | 3.0.4.4
-
-### Published: 06/23/2023 08:12:22 by Cisco Systems
-
-PowerShell Module for Cisco Core (Core module in Cisco PowerTool Suite)
-
-__Downloads__: 38,760 | __Repository__: 
-
-## [Corsinvest.ProxmoxVE.Api](https://www.powershellgallery.com/Packages/Corsinvest.ProxmoxVE.Api/8.0.0) | 8.0.0
-
-### Published: 06/23/2023 07:10:36 by Daniele Corsini
-
-PowerShell for Proxmox VE
-
-__Downloads__: 1,328 | __Repository__: https://github.com/Corsinvest/cv4pve-api-powershell
-
-*Updated: Friday, 30 June 2023 09:53:51 UTC*
+*Updated: Friday, 30 June 2023 17:53:43 UTC*
