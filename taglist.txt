@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Saturday, 01 July 2023 02:24:50 UTC
+Updated: Saturday, 01 July 2023 09:52:51 UTC
 
 ?:
 ??
@@ -15,7 +15,6 @@ Updated: Saturday, 01 July 2023 02:24:50 UTC
 'files
 'provider'
 "interactive
-🍄
 🍣
 💩
 10
@@ -475,6 +474,7 @@ assets
 assistance
 association
 ast
+astronomy
 asv
 asymmetric
 async
@@ -572,6 +572,7 @@ aws-codebuild
 aws-lambda
 aws-vault
 awscli
+awspricelist
 axapta
 axinom
 axis
@@ -702,6 +703,7 @@ base64url
 base85
 basecamp
 based
+baseline
 bash
 basic
 bastion
@@ -1286,6 +1288,7 @@ conda
 condition
 conditionalaccess
 conduit
+conference
 confidentialclient
 confidentialledger
 config
@@ -1368,7 +1371,6 @@ convertfrom
 convertfrom-yaml
 convertto
 convertto-excel
-convertto-hashtable
 convertto-yaml
 converttodocx
 converttohtml
@@ -2424,6 +2426,7 @@ first
 fisher
 fissionproducts
 fitbit
+fits
 five
 five9
 fix-log
@@ -2631,7 +2634,6 @@ ggplot
 gh-actions
 ghactions
 ghc
-ghibli
 ghost
 gif
 gifs
@@ -2786,6 +2788,7 @@ hangouts
 hannelstoolbox
 hanwha
 har
+hard
 hardblock
 harden
 hardening
@@ -2864,6 +2867,7 @@ highlighting
 highrise
 hipaa
 hipb
+hipchat
 hiragana
 histogram
 history
@@ -2953,6 +2957,7 @@ hyperlink
 hyperthreading
 hyperv
 hypervisor
+hypervplugins
 hypothesis
 hysolate
 hysolatemangementconsole
@@ -2998,9 +3003,9 @@ identity-management
 identitydataplane
 identitydirector
 identitydomains
-identitynow
 idf
 idm
+idna
 ids
 ie
 iem
@@ -3378,7 +3383,6 @@ kubernetes
 kubernetesconfiguration
 kubespray
 kudu
-kurukuru
 kusto
 kvm
 kvp
@@ -3880,6 +3884,7 @@ mixer
 mkdocs
 ml
 mlflow
+mmdc
 mobile
 mobilenetwork
 mobilitycontroller
@@ -4007,7 +4012,6 @@ multithreaded
 multithreaded-helpers
 multithreading
 music
-musiccast
 mustache
 mutation
 mute
@@ -4286,6 +4290,7 @@ ome
 omnisphere
 omnistack
 oms
+omsagent
 on
 on-demand
 on-premise
@@ -4354,6 +4359,8 @@ operating-system
 operation
 operationalinsights
 operations
+operationsmanagementsuite
+operationsmanagementsuiteagent
 operationvalidation
 operatoraccesscontrol
 operators
@@ -4416,7 +4423,6 @@ oui-search
 out-consolegridview
 out-default
 out-gridview
-out-json
 outerjoin
 outertext
 outline
@@ -4803,6 +4809,7 @@ prepareschema
 prepend
 preprocessing
 preprocessor
+presentation
 presenter
 presto
 preston-k-parsard
@@ -4812,6 +4819,7 @@ prettyprinter
 preview
 previousversions
 price
+pricelist
 primenumber
 primera
 principal
@@ -4879,6 +4887,7 @@ protect-blob
 protect-string
 protection
 protocol
+protocols
 provance
 proverb
 provider
@@ -5072,6 +5081,7 @@ pullrequest
 pullserver
 pulseway
 pulumi
+punycode
 puppet
 puppetdb
 puppy
@@ -5086,6 +5096,7 @@ push-location
 push-notifications
 pushd
 pushover
+pushoverapi
 putty
 pve
 pvr
@@ -5490,11 +5501,11 @@ saas
 sabnzbd
 sabnzbd+
 sacl
+safari
 safe
 safeguard
 sage
 saggiehaim
-sailpoint
 sale
 sales
 salesforce
@@ -5809,7 +5820,6 @@ sheets
 shell
 shell-art
 shells
-shellserver
 shieldedvm
 ships
 shipsprovider
@@ -5999,6 +6009,7 @@ spdx-license-identifier:ms-pl
 spe
 speach
 speak
+speaker
 specification
 specify
 spectre
@@ -6255,6 +6266,7 @@ sxs
 sybase
 sybaseiq
 symantec
+symbolic
 symbolic_link
 symboliclink
 symbols
@@ -6406,11 +6418,9 @@ test
 test-dscconfiguration
 test-internetconnection
 test-modulepath
-test-osplatform
 test-psremoting
 test-samcmapplicationexists
 test-samcmpackageexists
-test-userisadministrator
 test-xml
 test123
 testaccount
@@ -6640,7 +6650,6 @@ ud-avataaar
 ud-badgebutton
 ud-badgelink
 ud-breadcrumb
-ud-breadcrumbitem
 ud-burger
 ud-button
 ud-buttonloader
@@ -6679,10 +6688,10 @@ ud-singleselect
 ud-slider
 ud-speechbubble
 ud-step
-ud-stepbar
 ud-stickynavbar
 ud-tagcloud
 ud-timeline
+ud-timeout
 ud-tool
 ud-toploader
 ud-trendline
@@ -6843,6 +6852,7 @@ vba
 vbaproject
 vbproj
 vbr
+vbscript
 vbsinst
 vc
 vccmdlets
@@ -7135,6 +7145,7 @@ win32_installedwin32program
 win32_operatingsystem
 win32-api
 win32shutdown
+winbuilder
 window
 windows
 windows  server
@@ -7254,6 +7265,7 @@ workingdays
 workinghours
 workingtime
 workload-automation
+workloads
 workpoint
 workrequests
 worksheet
@@ -7368,7 +7380,6 @@ xwiki
 xwindowsupdate
 yahoo
 yahw
-yamaha
 yaml
 yandex
 yapg
@@ -7380,7 +7391,6 @@ youtube
 youtube-dl
 youtubeextractor
 yq
-yubaba
 z
 zabbix
 zabbixps
@@ -7411,4 +7421,3 @@ zvmlinux
 全角半角変換
 寿司
 日本語
-湯婆婆
