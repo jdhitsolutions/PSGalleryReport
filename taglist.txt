@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Friday, 30 June 2023 17:53:59 UTC
+Updated: Saturday, 01 July 2023 02:24:50 UTC
 
 ?:
 ??
@@ -475,7 +475,6 @@ assets
 assistance
 association
 ast
-astronomy
 asv
 asymmetric
 async
@@ -552,6 +551,7 @@ autoupdate-script
 autoyast
 availability
 availabilityset
+avalara
 avalonia
 avatar
 avd
@@ -572,7 +572,6 @@ aws-codebuild
 aws-lambda
 aws-vault
 awscli
-awspricelist
 axapta
 axinom
 axis
@@ -703,7 +702,6 @@ base64url
 base85
 basecamp
 based
-baseline
 bash
 basic
 bastion
@@ -925,6 +923,8 @@ capslock
 captcha
 capture
 carbon
+carbonawarecomputing
+carbonintensity
 card
 cardwirth
 cargo
@@ -1004,6 +1004,7 @@ channel9
 char
 character
 chart
+charting
 charts
 chat
 chatbot
@@ -1285,7 +1286,6 @@ conda
 condition
 conditionalaccess
 conduit
-conference
 confidentialclient
 confidentialledger
 config
@@ -2424,7 +2424,6 @@ first
 fisher
 fissionproducts
 fitbit
-fits
 five
 five9
 fix-log
@@ -2787,7 +2786,6 @@ hangouts
 hannelstoolbox
 hanwha
 har
-hard
 hardblock
 harden
 hardening
@@ -2833,6 +2831,7 @@ helium
 helix
 hello
 helloid
+helloposhgallery
 helloworld
 helmet
 help
@@ -2865,7 +2864,6 @@ highlighting
 highrise
 hipaa
 hipb
-hipchat
 hiragana
 histogram
 history
@@ -2955,7 +2953,6 @@ hyperlink
 hyperthreading
 hyperv
 hypervisor
-hypervplugins
 hypothesis
 hysolate
 hysolatemangementconsole
@@ -3004,7 +3001,6 @@ identitydomains
 identitynow
 idf
 idm
-idna
 ids
 ie
 iem
@@ -3080,10 +3076,7 @@ influxdb
 info
 infoblox
 information
-information-technology
 informationbarriers
-informationtechnology
-informationtechnologyoperations
 informix
 infosec
 infrastructure
@@ -3232,7 +3225,6 @@ ispss
 issues
 isvalidemail
 isvalidip
-it
 it-support
 it-tool
 it-tools
@@ -3366,6 +3358,7 @@ klantcontroles
 kms
 knapsack
 knetps
+knob
 knowbe4
 knowledge
 knowledgebase
@@ -3887,7 +3880,6 @@ mixer
 mkdocs
 ml
 mlflow
-mmdc
 mobile
 mobilenetwork
 mobilitycontroller
@@ -4063,6 +4055,7 @@ ncal
 ndes
 nebulon
 nec-infrared-transmission-protocol
+nederland
 nedyalkov
 neo4j
 neptune
@@ -4194,6 +4187,7 @@ nql
 nrc
 nrql
 ns
+ns.nl
 nsg
 nslookup
 nsx
@@ -4292,7 +4286,6 @@ ome
 omnisphere
 omnistack
 oms
-omsagent
 on
 on-demand
 on-premise
@@ -4361,8 +4354,6 @@ operating-system
 operation
 operationalinsights
 operations
-operationsmanagementsuite
-operationsmanagementsuiteagent
 operationvalidation
 operatoraccesscontrol
 operators
@@ -4812,7 +4803,6 @@ prepareschema
 prepend
 preprocessing
 preprocessor
-presentation
 presenter
 presto
 preston-k-parsard
@@ -4822,7 +4812,6 @@ prettyprinter
 preview
 previousversions
 price
-pricelist
 primenumber
 primera
 principal
@@ -4890,7 +4879,6 @@ protect-blob
 protect-string
 protection
 protocol
-protocols
 provance
 proverb
 provider
@@ -5084,7 +5072,6 @@ pullrequest
 pullserver
 pulseway
 pulumi
-punycode
 puppet
 puppetdb
 puppy
@@ -5099,7 +5086,6 @@ push-location
 push-notifications
 pushd
 pushover
-pushoverapi
 putty
 pve
 pvr
@@ -5504,7 +5490,6 @@ saas
 sabnzbd
 sabnzbd+
 sacl
-safari
 safe
 safeguard
 sage
@@ -5938,6 +5923,7 @@ snapchat
 snapping
 snapshot
 snapshots
+snipe-it
 snippet
 snippets
 snippets-manager
@@ -6013,7 +5999,6 @@ spdx-license-identifier:ms-pl
 spe
 speach
 speak
-speaker
 specification
 specify
 spectre
@@ -6270,7 +6255,6 @@ sxs
 sybase
 sybaseiq
 symantec
-symbolic
 symbolic_link
 symboliclink
 symbols
@@ -6304,7 +6288,6 @@ syspass
 sysprep
 system
 system information 1394 controller baseboard motherboard systemboard battery bios bus cache memory cd dvd rom drive compact disc desktop monitor disk partition fan floppy glide point heatpipe ide infrared device keyboard local logical array mouse'
-system-administration
 system-group
 system-service
 system-services
@@ -6385,7 +6368,6 @@ teamviewer
 techdirect
 techedna2014
 techlog
-technology
 techsmith
 tel
 telegram
@@ -6449,6 +6431,7 @@ text-to-speach"
 text-to-speech
 text2image
 textanalysis
+textbuffer
 texting
 textprocessing
 textwrapping
@@ -6554,6 +6537,7 @@ trading
 trafficfiltering
 trafficmanager
 trafficmarking
+train
 training
 training-course
 tram
@@ -6580,7 +6564,9 @@ trec
 tree
 treesize
 treffynnon
+trein
 trello
+trellops
 trend-micro
 trendmicro
 trevor
@@ -6697,7 +6683,6 @@ ud-stepbar
 ud-stickynavbar
 ud-tagcloud
 ud-timeline
-ud-timeout
 ud-tool
 ud-toploader
 ud-trendline
@@ -6858,7 +6843,6 @@ vba
 vbaproject
 vbproj
 vbr
-vbscript
 vbsinst
 vc
 vccmdlets
@@ -7151,7 +7135,6 @@ win32_installedwin32program
 win32_operatingsystem
 win32-api
 win32shutdown
-winbuilder
 window
 windows
 windows  server
@@ -7271,7 +7254,6 @@ workingdays
 workinghours
 workingtime
 workload-automation
-workloads
 workpoint
 workrequests
 worksheet
