@@ -3,6 +3,15 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [Az.MsiGraphPermissions](https://www.powershellgallery.com/Packages/Az.MsiGraphPermissions/1.0.0.1) | 1.0.0.1
+
+### Published: 07/01/2023 13:01:52 by Ben Reader
+
+Want to apply Graph Permissions / Roles to a Managed Service Identity in Azure? Now you can!
+This module only exists to patch this missing feature from the AAD Managed Identity UI. Hopefully this will not be needed for long!
+
+__Downloads__: 0 | __Repository__: 
+
 ## [ShellServer](https://www.powershellgallery.com/Packages/ShellServer/0.1.0) | 0.1.0
 
 ### Published: 07/01/2023 09:12:16 by Henrique do Val
@@ -17,7 +26,7 @@ __Downloads__: 71 | __Repository__: https://github.com/HenriquedoVal/shellserver
 
 Create evergreen Windows image builds with the latest versions of applications. Evergreen is a simple PowerShell module that retrieves the latest version numbers and download URLs for various software products directly from the vendor source.
 
-__Downloads__: 1,709,105 | __Repository__: https://stealthpuppy.com/evergreen/
+__Downloads__: 1,709,097 | __Repository__: https://stealthpuppy.com/evergreen/
 
 ## [Convert-Csv](https://www.powershellgallery.com/Packages/Convert-Csv/0.9.1) | 0.9.1
 
@@ -199,7 +208,7 @@ AADInternals allows you to export ADFS certificates, Azure AD Connect passwords,
 
 DISCLAIMER: Functionality provided through this module are not supported by Microsoft and thus should not be used in a production environment. Use on your own risk!
 
-__Downloads__: 61,582 | __Repository__: https://aadinternals.com/aadinternals
+__Downloads__: 61,580 | __Repository__: https://aadinternals.com/aadinternals
 
 ## [CAT](https://www.powershellgallery.com/Packages/CAT/0.14.6.2) | 0.14.6.2
 
@@ -215,7 +224,7 @@ __Downloads__: 118 | __Repository__: https://docs.justcat.it/
 
 Automation tools for production quality database deployment
 
-__Downloads__: 4,242,294 | __Repository__: https://www.red-gate.com/sca/productpage
+__Downloads__: 4,242,291 | __Repository__: https://www.red-gate.com/sca/productpage
 
 ## [Az.Avd](https://www.powershellgallery.com/Packages/Az.Avd/3.0.0) | 3.0.0
 
@@ -408,7 +417,7 @@ __Downloads__: 134 | __Repository__: https://migrate.rivermeadow.com/
 
 ACME protocol client for obtaining certificates using Let's Encrypt (or other ACME compliant CA)
 
-__Downloads__: 1,049,711 | __Repository__: https://github.com/rmbolger/Posh-ACME
+__Downloads__: 1,049,691 | __Repository__: https://github.com/rmbolger/Posh-ACME
 
 ## [HPEBIOSCmdlets](https://www.powershellgallery.com/Packages/HPEBIOSCmdlets/3.1.0.0) | 3.1.0.0
 
@@ -1009,7 +1018,7 @@ __Downloads__: 1,946 | __Repository__: https://github.com/oracle/oci-powershell-
 
 This modules provides Cmdlets for OCI Identity Service
 
-__Downloads__: 5,281 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+__Downloads__: 5,280 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
 ## [OCI.PSModules.Healthchecks](https://www.powershellgallery.com/Packages/OCI.PSModules.Healthchecks/60.2.0) | 60.2.0
 
@@ -1489,7 +1498,7 @@ __Downloads__: 279 | __Repository__: https://github.com/oracle/oci-powershell-mo
 
 OCI Common module exports Cmdlets that manages features offered by OCI Modules for Powershell like History Store, OCI Configuration file setup and Per-Session Region/Config/Profile preferences. Common module also contains some functionalties that are common to all OCI Service modules, therefore all OCI Service modules depends on Common module.
 
-__Downloads__: 68,243 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+__Downloads__: 68,244 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
 ## [AdminByRequest](https://www.powershellgallery.com/Packages/AdminByRequest/1.0.2) | 1.0.2
 
@@ -1537,7 +1546,7 @@ __Downloads__: 962 | __Repository__:
 
 Sample module to manage AutoPilot devices using the Intune Graph API
 
-__Downloads__: 615 | __Repository__: 
+__Downloads__: 616 | __Repository__: 
 
 ## [AdminToolbox](https://www.powershellgallery.com/Packages/AdminToolbox/11.0.100) | 11.0.100
 
@@ -1553,7 +1562,7 @@ __Downloads__: 28,460 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions that generate configuration scripts and manage FortiOS.
 
-__Downloads__: 7,383 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 7,382 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.VMWareAutomate](https://www.powershellgallery.com/Packages/AdminToolbox.VMWareAutomate/4.8.89) | 4.8.89
 
@@ -1561,7 +1570,7 @@ __Downloads__: 7,383 | __Repository__: https://github.com/TheTaylorLee/AdminTool
 
 Functions to Automate Bulk VMWare Tasks
 
-__Downloads__: 14,129 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 14,130 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.Remoting](https://www.powershellgallery.com/Packages/AdminToolbox.Remoting/1.9.92) | 1.9.92
 
@@ -1569,7 +1578,7 @@ __Downloads__: 14,129 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions for remote management and access.
 
-__Downloads__: 14,071 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 14,072 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.Office365](https://www.powershellgallery.com/Packages/AdminToolbox.Office365/3.1.42) | 3.1.42
 
@@ -1577,7 +1586,7 @@ __Downloads__: 14,071 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions for working with Office365 and Azure modules
 
-__Downloads__: 15,281 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 15,280 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.Networking](https://www.powershellgallery.com/Packages/AdminToolbox.Networking/2.17.23) | 2.17.23
 
@@ -1601,7 +1610,7 @@ __Downloads__: 4,458 | __Repository__: https://github.com/TheTaylorLee/AdminTool
 
 Functions that have no purpose
 
-__Downloads__: 14,067 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 14,068 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.FileManagement](https://www.powershellgallery.com/Packages/AdminToolbox.FileManagement/1.15.83) | 1.15.83
 
@@ -1609,7 +1618,7 @@ __Downloads__: 14,067 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 File Management Functions
 
-__Downloads__: 14,666 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 14,665 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.FFTools](https://www.powershellgallery.com/Packages/AdminToolbox.FFTools/4.16.42) | 4.16.42
 
@@ -1723,7 +1732,7 @@ __Downloads__: 2,398 | __Repository__:
 
 SdnDiagnostics is a tool used to simplify the data collection and diagnostics of Windows Software Defined Networking.
 
-__Downloads__: 29,688 | __Repository__: https://github.com/microsoft/SdnDiagnostics
+__Downloads__: 29,690 | __Repository__: https://github.com/microsoft/SdnDiagnostics
 
 ## [AutomatedLabCore](https://www.powershellgallery.com/Packages/AutomatedLabCore/5.48.14) | 5.48.14
 
@@ -1800,7 +1809,7 @@ __Downloads__: 6,199 | __Repository__:
 
 A cross-platform helper module for PowerShell.
 
-__Downloads__: 258,707 | __Repository__: https://github.com/ProVal-Tech/Strapper
+__Downloads__: 258,611 | __Repository__: https://github.com/ProVal-Tech/Strapper
 
 ## [PowershellExpect](https://www.powershellgallery.com/Packages/PowershellExpect/1.1.2) | 1.1.2
 
@@ -1858,14 +1867,6 @@ This module includes helper CMDLETs to retrieve useful information from your Hor
 
 __Downloads__: 1,607 | __Repository__: https://wiki.hornbill.com/index.php/Microsoft_Azure_And_OMS_Integration
 
-## [NetApp.ONTAP](https://www.powershellgallery.com/Packages/NetApp.ONTAP/9.13.1.2306) | 9.13.1.2306
-
-### Published: 06/26/2023 11:56:33 by Clinton Knight Steven Beam Eric Nicholson Aparajita Raychaudhury Rajesh Rathnam Robert Mcdermot Sapan Jain Kartik Gupta
-
-NetApp.ONTAP PowerShell Toolkit. The ONTAP 9.13.1 PowerShell Toolkit provides end-to-end automation and enables more efficient and scalable administration of NetApp storage. This module contains over 2340 PowerShell cmdlets to help you automate ONTAP administration on FAS and AFF systems, commodity hardware, and the cloud. This toolkit also supports REST API with 9.10 and later version of ONTAP. The toolkit also provides cross-platform support for Windows, Ubuntu, Red Hat Enterprise Linux (RHEL), and macOS.
-
-__Downloads__: 20,488 | __Repository__: https://mysupport.netapp.com/site/tools/tool-eula/ontap-powershell-toolkit
-
 ## [PaginatedGridSelector](https://www.powershellgallery.com/Packages/PaginatedGridSelector/1.0) | 1.0
 
 ### Published: 06/26/2023 11:56:33 by gtt42
@@ -1873,6 +1874,14 @@ __Downloads__: 20,488 | __Repository__: https://mysupport.netapp.com/site/tools/
 PowerShell CLI UI function that can display user selectable paginated data in a table.
 
 __Downloads__: 3 | __Repository__: 
+
+## [NetApp.ONTAP](https://www.powershellgallery.com/Packages/NetApp.ONTAP/9.13.1.2306) | 9.13.1.2306
+
+### Published: 06/26/2023 11:56:33 by Clinton Knight Steven Beam Eric Nicholson Aparajita Raychaudhury Rajesh Rathnam Robert Mcdermot Sapan Jain Kartik Gupta
+
+NetApp.ONTAP PowerShell Toolkit. The ONTAP 9.13.1 PowerShell Toolkit provides end-to-end automation and enables more efficient and scalable administration of NetApp storage. This module contains over 2340 PowerShell cmdlets to help you automate ONTAP administration on FAS and AFF systems, commodity hardware, and the cloud. This toolkit also supports REST API with 9.10 and later version of ONTAP. The toolkit also provides cross-platform support for Windows, Ubuntu, Red Hat Enterprise Linux (RHEL), and macOS.
+
+__Downloads__: 20,488 | __Repository__: https://mysupport.netapp.com/site/tools/tool-eula/ontap-powershell-toolkit
 
 ## [PSPersonio](https://www.powershellgallery.com/Packages/PSPersonio/0.1.3) | 0.1.3
 
@@ -2046,13 +2055,21 @@ Tool to explore SDN resources
 
 __Downloads__: 21 | __Repository__: 
 
+## [IdnTools](https://www.powershellgallery.com/Packages/IdnTools/1.53.1) | 1.53.1
+
+### Published: 06/23/2023 19:52:45 by Derek Brown
+
+This module contains functions to help manage SailPoint IdentityNow tenants.  The functions use various versions of SailPoint's APIs.  The only change required is updating the 'OrgName' variable in the .psm1 file with your tenant name.
+
+__Downloads__: 37 | __Repository__: 
+
 ## [PSWriteOffice](https://www.powershellgallery.com/Packages/PSWriteOffice/0.1.0) | 0.1.0
 
 ### Published: 06/23/2023 19:25:34 by Przemyslaw Klys
 
 Experimental PowerShell Module to create and edit Microsoft Word, Microsoft Excel, and Microsoft PowerPoint documents without having Microsoft Office installed.
 
-__Downloads__: 7,884 | __Repository__: https://github.com/EvotecIT/PSWriteOffice
+__Downloads__: 7,885 | __Repository__: https://github.com/EvotecIT/PSWriteOffice
 
 ## [AzurePipelinesPS](https://www.powershellgallery.com/Packages/AzurePipelinesPS/4.0.37) | 4.0.37
 
@@ -2070,20 +2087,4 @@ Cybernethic PowerShell Profile as a Service.
 
 __Downloads__: 32 | __Repository__: https://gitlab.com/conio.h/Cyber_Profile
 
-## [Get-WANIPInfo](https://www.powershellgallery.com/Packages/Get-WANIPInfo/1.1.0) | 1.1.0
-
-### Published: 06/23/2023 16:22:50 by Simon Godefroy - Simon.Godefroy@FocusedIT.co.uk
-
-Get-WANIPInfo - Lookup a specific IP (If none specified, current WAN IP used)
-
-__Downloads__: 89 | __Repository__: 
-
-## [Nectar10](https://www.powershellgallery.com/Packages/Nectar10/3.57) | 3.57
-
-### Published: 06/23/2023 14:57:46 by Ken Lasko
-
-PowerShell module for Nectar DXP
-
-__Downloads__: 993 | __Repository__: 
-
-*Updated: Saturday, 01 July 2023 09:52:40 UTC*
+*Updated: Saturday, 01 July 2023 17:52:32 UTC*
