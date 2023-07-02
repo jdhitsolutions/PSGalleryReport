@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Sunday, 02 July 2023 02:26:28 UTC
+Updated: Sunday, 02 July 2023 09:53:07 UTC
 
 ?:
 ??
@@ -44,6 +44,7 @@ Updated: Sunday, 02 July 2023 02:26:28 UTC
 3d
 3dprinting
 3par
+50
 64
 650
 650flb
@@ -214,6 +215,7 @@ aem
 aeries
 aeriessis
 aes
+afd
 affinity
 affinity-co
 affinity-crm
@@ -649,7 +651,6 @@ azuremigrate
 azuremonitor
 azurenetworking
 azurepack
-azurepipelines
 azurepolicy
 azurepowershell
 azurerepos
@@ -865,7 +866,6 @@ bugzilla
 build
 build-log
 build-scripts
-builddefinition
 builder
 building
 buildingfile
@@ -938,6 +938,7 @@ cat
 cat-names
 catalog
 catalogs
+catalyst
 catapult
 catesta
 cats
@@ -1035,6 +1036,7 @@ choco
 choco-bear
 chocobear
 chocolatey
+choice
 chooser
 christaylorcodes
 christmas
@@ -1797,6 +1799,7 @@ disasm
 disasterrecovery
 disconnect
 discord
+discordrpc
 discount
 discover
 discovery
@@ -2097,6 +2100,8 @@ engine
 engineevent
 english
 enhancement
+enrichers
+enrichment
 enteo
 enter
 enterprise
@@ -2328,6 +2333,7 @@ fetch
 ffmpeg
 fhirservice
 fiche
+fiddler
 fido
 fido2
 fieldglass
@@ -2764,7 +2770,6 @@ hacktoberfest
 hadoop
 hafr
 hailstone
-haipa
 halo
 haloitsm
 halopsa
@@ -2780,6 +2785,7 @@ handler
 hangouts
 hannelstoolbox
 hanwha
+har
 hard
 hardblock
 harden
@@ -2880,6 +2886,7 @@ homebrew
 homelandsecurity
 homeschooling
 hon
+hooking
 horizon
 horizontal
 hornbill
@@ -3138,6 +3145,7 @@ intellisearch
 intellisense
 interactive
 interactive-brokers
+interface
 interlogix
 internet
 internet-explorer
@@ -4120,7 +4128,6 @@ new-rdpsession
 new-samcmapplicationfrompackagedefinitionsms
 new-samcmpackagefrompackagedefinitionsms
 new-system
-new-udmorph
 newpassword
 newrelic
 newspaper
@@ -4291,6 +4298,7 @@ omsagent
 on
 on-demand
 on-premise
+onboard
 onboardadministrator
 onboarding
 oncommand-insight
@@ -4319,8 +4327,6 @@ ontap_9.13.1
 ontap_9.8.0
 ontap_pstk_9.13.1
 ontap_pstk_9.8.0
-onyphe
-onyphe.io
 oob
 oop
 op
@@ -4340,7 +4346,6 @@ openid
 openidconnect
 openinghours
 openport
-openprovider
 openscad
 opensearch
 opensource
@@ -4537,6 +4542,7 @@ pci-dss
 pcloud
 pcsetup
 pcsv
+pdb
 pdf
 pdf-document-processor
 pdf-files
@@ -4583,10 +4589,12 @@ phishing
 phoenix
 phoneautomation
 photo
+photograph
 photos
 php
 phpapam
 pi
+picker
 picture
 pictures
 pid
@@ -5279,7 +5287,6 @@ reinstall
 relational
 relay
 release
-releasedefinition
 releasehealth
 releasemanagement
 releasenotes
@@ -5610,6 +5617,7 @@ scriptedui
 scripting
 scriptlogging
 scriptoform
+scriptrunner
 scripts
 scriptsmonitoring
 scrolllock
@@ -5774,7 +5782,6 @@ setting
 settings
 setup
 setupbase.certificate
-setupbase.env
 setupbase.install
 setupbase.publish
 setupbase.taskscheduler
@@ -5871,6 +5878,7 @@ sitemap
 siterecovery
 sites
 sitesystemserver
+sitethumbprint
 size
 skatterbrainz
 skeleton-loader
@@ -6320,7 +6328,6 @@ tabexpansion2
 tablacus
 table
 tableau
-tabler
 tables
 tablestorage
 tabs
@@ -6334,6 +6341,7 @@ tag2
 tagging
 tags
 tak
+taken
 takeown
 tally
 talxis
@@ -6346,7 +6354,6 @@ task-runner
 task-scheduler
 taskbar
 tasker
-taskgroup
 taskmanagement
 tasks
 taskscheduler
@@ -6478,6 +6485,7 @@ tibber
 tic-tac-toe
 tickle
 ticks
+tictactoe
 tiermodel
 time
 timeout
@@ -6622,6 +6630,7 @@ twitter-client
 twitter-follow
 twitter-hashtag
 twitter-mention
+twitter-share
 twitter-timeline
 twitter-tweet
 txt
@@ -6776,6 +6785,7 @@ url-encode
 url-shortener
 urlencode
 urlhaus
+urlredirections
 urlrewrite
 urlscan
 urlupdate
@@ -6932,6 +6942,7 @@ visualstudio
 visualstudiocode
 visualstudioonline
 visualstudioteamservices
+vlan
 vlookup
 vlsm
 vm
