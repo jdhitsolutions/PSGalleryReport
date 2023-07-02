@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Sunday, 02 July 2023 09:53:07 UTC
+Updated: Sunday, 02 July 2023 17:53:45 UTC
 
 ?:
 ??
@@ -651,6 +651,7 @@ azuremigrate
 azuremonitor
 azurenetworking
 azurepack
+azurepipelines
 azurepolicy
 azurepowershell
 azurerepos
@@ -866,6 +867,7 @@ bugzilla
 build
 build-log
 build-scripts
+builddefinition
 builder
 building
 buildingfile
@@ -1036,7 +1038,6 @@ choco
 choco-bear
 chocobear
 chocolatey
-choice
 chooser
 christaylorcodes
 christmas
@@ -1828,6 +1829,7 @@ distributionpointgroupmembers
 distrubtionpoint
 dividends
 diving
+division
 divoom
 dkim
 dkschrutebeets
@@ -1838,6 +1840,7 @@ dlmigration
 dlp
 dmarc
 dmgr
+dmi
 dmx
 dnd
 dns
@@ -2770,6 +2773,7 @@ hacktoberfest
 hadoop
 hafr
 hailstone
+haipa
 halo
 haloitsm
 halopsa
@@ -4128,6 +4132,7 @@ new-rdpsession
 new-samcmapplicationfrompackagedefinitionsms
 new-samcmpackagefrompackagedefinitionsms
 new-system
+new-udmorph
 newpassword
 newrelic
 newspaper
@@ -4327,6 +4332,8 @@ ontap_9.13.1
 ontap_9.8.0
 ontap_pstk_9.13.1
 ontap_pstk_9.8.0
+onyphe
+onyphe.io
 oob
 oop
 op
@@ -4346,6 +4353,7 @@ openid
 openidconnect
 openinghours
 openport
+openprovider
 openscad
 opensearch
 opensource
@@ -4594,7 +4602,6 @@ photos
 php
 phpapam
 pi
-picker
 picture
 pictures
 pid
@@ -4761,7 +4768,6 @@ powershell-script
 powershell-terminal
 powershell-terminal-copilot
 powershell-training
-powershell.module.invokewinget
 powershell.one
 powershell.persistentpathstack
 powershell7
@@ -5287,6 +5293,7 @@ reinstall
 relational
 relay
 release
+releasedefinition
 releasehealth
 releasemanagement
 releasenotes
@@ -5782,6 +5789,7 @@ setting
 settings
 setup
 setupbase.certificate
+setupbase.env
 setupbase.install
 setupbase.publish
 setupbase.taskscheduler
@@ -6328,6 +6336,7 @@ tabexpansion2
 tablacus
 table
 tableau
+tabler
 tables
 tablestorage
 tabs
@@ -6354,10 +6363,10 @@ task-runner
 task-scheduler
 taskbar
 tasker
+taskgroup
 taskmanagement
 tasks
 taskscheduler
-taxjar
 taxonomy
 tcp
 tcp/ip
@@ -6692,7 +6701,6 @@ ud-singleselect
 ud-slider
 ud-speechbubble
 ud-step
-ud-stepbar
 ud-stickynavbar
 ud-tagcloud
 ud-timeline
@@ -7251,7 +7259,6 @@ wmipermanentevents
 wol
 wolfram
 wolframalpha
-woocommerce
 woolworths
 woolworthsrewards
 word

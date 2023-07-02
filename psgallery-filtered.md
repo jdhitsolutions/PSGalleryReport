@@ -3,6 +3,22 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [EulandaConnect](https://www.powershellgallery.com/Packages/EulandaConnect/3.2.5) | 3.2.5
+
+### Published: 07/02/2023 17:22:14 by Christian Niedergesäß
+
+EulandaConnect enables the automation of processes both within and beyond your EULANDA ERP software. Compatible with EULANDA ERP 8.x and PowerShell 5.1 or higher, it supports a range of functionalities. These include XML data exchange, Datanorm, delivery bills, order creation, and communication via the Telegram API. In addition, EulandaConnect offers image functions, diagnostic functions, and a suite of MSSQL features such as comprehensive database renaming, data backup, and SQL browser location within the network. With over 250 functions currently available and more in development, EulandaConnect is a powerful extension not only for your ERP system. https://eulandaconnect.eulanda.eu
+
+__Downloads__: 395 | __Repository__: https://github.com/Eulanda/EulandaConnect
+
+## [PSTemperatureMonitor](https://www.powershellgallery.com/Packages/PSTemperatureMonitor/1.3) | 1.3
+
+### Published: 07/02/2023 09:56:37 by tobia
+
+Tools to monitor hardware, i.e. temperature etc.
+
+__Downloads__: 0 | __Repository__: https://github.com/TobiasPSP/PSTemperatureMonitor
+
 ## [ADEssentials](https://www.powershellgallery.com/Packages/ADEssentials/0.0.161) | 0.0.161
 
 ### Published: 07/02/2023 09:11:18 by Przemyslaw Klys
@@ -72,7 +88,7 @@ __Downloads__: 74 | __Repository__: https://github.com/HenriquedoVal/shellserver
 
 Create evergreen Windows image builds with the latest versions of applications. Evergreen is a simple PowerShell module that retrieves the latest version numbers and download URLs for various software products directly from the vendor source.
 
-__Downloads__: 1,714,540 | __Repository__: https://stealthpuppy.com/evergreen/
+__Downloads__: 1,714,531 | __Repository__: https://stealthpuppy.com/evergreen/
 
 ## [Convert-Csv](https://www.powershellgallery.com/Packages/Convert-Csv/0.9.1) | 0.9.1
 
@@ -147,14 +163,6 @@ __Downloads__: 2,041 | __Repository__: https://github.com/stevevillardi/Logic.Mo
 Mandatory module for the foundation PowerShell scripts.
 
 __Downloads__: 11 | __Repository__: 
-
-## [EulandaConnect](https://www.powershellgallery.com/Packages/EulandaConnect/3.2.4) | 3.2.4
-
-### Published: 06/30/2023 10:00:47 by Christian Niedergesäß
-
-EulandaConnect enables the automation of processes both within and beyond your EULANDA ERP software. Compatible with EULANDA ERP 8.x and PowerShell 5.1 or higher, it supports a range of functionalities. These include XML data exchange, Datanorm, delivery bills, order creation, and communication via the Telegram API. In addition, EulandaConnect offers image functions, diagnostic functions, and a suite of MSSQL features such as comprehensive database renaming, data backup, and SQL browser location within the network. With over 250 functions currently available and more in development, EulandaConnect is a powerful extension not only for your ERP system. https://eulandaconnect.eulanda.eu
-
-__Downloads__: 395 | __Repository__: https://github.com/Eulanda/EulandaConnect
 
 ## [SentinelOne.Tools](https://www.powershellgallery.com/Packages/SentinelOne.Tools/0.0.5) | 0.0.5
 
@@ -246,7 +254,7 @@ AADInternals allows you to export ADFS certificates, Azure AD Connect passwords,
 
 DISCLAIMER: Functionality provided through this module are not supported by Microsoft and thus should not be used in a production environment. Use on your own risk!
 
-__Downloads__: 61,831 | __Repository__: https://aadinternals.com/aadinternals
+__Downloads__: 61,832 | __Repository__: https://aadinternals.com/aadinternals
 
 ## [CAT](https://www.powershellgallery.com/Packages/CAT/0.14.6.2) | 0.14.6.2
 
@@ -262,7 +270,7 @@ __Downloads__: 118 | __Repository__: https://docs.justcat.it/
 
 Automation tools for production quality database deployment
 
-__Downloads__: 4,244,080 | __Repository__: https://www.red-gate.com/sca/productpage
+__Downloads__: 4,244,046 | __Repository__: https://www.red-gate.com/sca/productpage
 
 ## [Az.Avd](https://www.powershellgallery.com/Packages/Az.Avd/3.0.0) | 3.0.0
 
@@ -270,7 +278,7 @@ __Downloads__: 4,244,080 | __Repository__: https://www.red-gate.com/sca/productp
 
 For managing and automate Azure Virtual Desktop environments. This module can also be used for housekeeping and manageing all the AVD related Azure resources.
 
-__Downloads__: 6,986 | __Repository__: https://github.com/srozemuller/AzAvd
+__Downloads__: 6,988 | __Repository__: https://github.com/srozemuller/AzAvd
 
 ## [PipeScript](https://www.powershellgallery.com/Packages/PipeScript/0.2.6) | 0.2.6
 
@@ -447,7 +455,7 @@ __Downloads__: 134 | __Repository__: https://migrate.rivermeadow.com/
 
 ACME protocol client for obtaining certificates using Let's Encrypt (or other ACME compliant CA)
 
-__Downloads__: 1,050,497 | __Repository__: https://github.com/rmbolger/Posh-ACME
+__Downloads__: 1,050,499 | __Repository__: https://github.com/rmbolger/Posh-ACME
 
 ## [HPEBIOSCmdlets](https://www.powershellgallery.com/Packages/HPEBIOSCmdlets/3.1.0.0) | 3.1.0.0
 
@@ -1552,7 +1560,7 @@ __Downloads__: 3 | __Repository__: https://github.com/pmahend1/PowershellScripts
 
 Pester provides a framework for running BDD style Tests to execute and validate PowerShell commands inside of PowerShell and offers a powerful set of Mocking Functions that allow tests to mimic and mock the functionality of any command inside of a piece of PowerShell code being tested. Pester tests can execute any command or script that is accessible to a pester test file. This can include functions, Cmdlets, Modules and scripts. Pester can be run in ad hoc style in a console or it can be integrated into the Build scripts of a Continuous Integration system.
 
-__Downloads__: 15,044,011 | __Repository__: https://github.com/Pester/Pester
+__Downloads__: 15,044,028 | __Repository__: https://github.com/Pester/Pester
 
 ## [NTS.Tools.MSHyperV](https://www.powershellgallery.com/Packages/NTS.Tools.MSHyperV/1.0.3.5) | 1.0.3.5
 
@@ -1576,7 +1584,7 @@ __Downloads__: 963 | __Repository__:
 
 Sample module to manage AutoPilot devices using the Intune Graph API
 
-__Downloads__: 619 | __Repository__: 
+__Downloads__: 620 | __Repository__: 
 
 ## [AdminToolbox](https://www.powershellgallery.com/Packages/AdminToolbox/11.0.100) | 11.0.100
 
@@ -1817,6 +1825,14 @@ Get-InstalledApps prints apps in Installed apps (Apps & features) and Get-Progra
 
 __Downloads__: 19 | __Repository__: 
 
+## [directory-stack](https://www.powershellgallery.com/Packages/directory-stack/1.2.2) | 1.2.2
+
+### Published: 06/26/2023 20:05:07 by ACupofAir
+
+A Module to change directory easily, inspiring by linux directory stack
+
+__Downloads__: 64 | __Repository__: https://github.com/ACupofAir/Directory-Stack
+
 ## [BinaryTree.Internal.Power365.Dev](https://www.powershellgallery.com/Packages/BinaryTree.Internal.Power365.Dev/20.12.10.29812) | 20.12.10.29812
 
 ### Published: 06/26/2023 19:24:04 by BinaryTreePackagePublisher
@@ -1889,14 +1905,6 @@ This module includes helper CMDLETs to retrieve useful information from your Hor
 
 __Downloads__: 1,607 | __Repository__: https://wiki.hornbill.com/index.php/Microsoft_Azure_And_OMS_Integration
 
-## [PaginatedGridSelector](https://www.powershellgallery.com/Packages/PaginatedGridSelector/1.0) | 1.0
-
-### Published: 06/26/2023 11:56:33 by gtt42
-
-PowerShell CLI UI function that can display user selectable paginated data in a table.
-
-__Downloads__: 3 | __Repository__: 
-
 ## [NetApp.ONTAP](https://www.powershellgallery.com/Packages/NetApp.ONTAP/9.13.1.2306) | 9.13.1.2306
 
 ### Published: 06/26/2023 11:56:33 by Clinton Knight Steven Beam Eric Nicholson Aparajita Raychaudhury Rajesh Rathnam Robert Mcdermot Sapan Jain Kartik Gupta
@@ -1904,6 +1912,14 @@ __Downloads__: 3 | __Repository__:
 NetApp.ONTAP PowerShell Toolkit. The ONTAP 9.13.1 PowerShell Toolkit provides end-to-end automation and enables more efficient and scalable administration of NetApp storage. This module contains over 2340 PowerShell cmdlets to help you automate ONTAP administration on FAS and AFF systems, commodity hardware, and the cloud. This toolkit also supports REST API with 9.10 and later version of ONTAP. The toolkit also provides cross-platform support for Windows, Ubuntu, Red Hat Enterprise Linux (RHEL), and macOS.
 
 __Downloads__: 20,498 | __Repository__: https://mysupport.netapp.com/site/tools/tool-eula/ontap-powershell-toolkit
+
+## [PaginatedGridSelector](https://www.powershellgallery.com/Packages/PaginatedGridSelector/1.0) | 1.0
+
+### Published: 06/26/2023 11:56:33 by gtt42
+
+PowerShell CLI UI function that can display user selectable paginated data in a table.
+
+__Downloads__: 3 | __Repository__: 
 
 ## [PSPersonio](https://www.powershellgallery.com/Packages/PSPersonio/0.1.3) | 0.1.3
 
@@ -2077,20 +2093,4 @@ Tool to explore SDN resources
 
 __Downloads__: 21 | __Repository__: 
 
-## [IdnTools](https://www.powershellgallery.com/Packages/IdnTools/1.53.1) | 1.53.1
-
-### Published: 06/23/2023 19:52:45 by Derek Brown
-
-This module contains functions to help manage SailPoint IdentityNow tenants.  The functions use various versions of SailPoint's APIs.  The only change required is updating the 'OrgName' variable in the .psm1 file with your tenant name.
-
-__Downloads__: 37 | __Repository__: 
-
-## [PSWriteOffice](https://www.powershellgallery.com/Packages/PSWriteOffice/0.1.0) | 0.1.0
-
-### Published: 06/23/2023 19:25:34 by Przemyslaw Klys
-
-Experimental PowerShell Module to create and edit Microsoft Word, Microsoft Excel, and Microsoft PowerPoint documents without having Microsoft Office installed.
-
-__Downloads__: 7,888 | __Repository__: https://github.com/EvotecIT/PSWriteOffice
-
-*Updated: Sunday, 02 July 2023 09:52:54 UTC*
+*Updated: Sunday, 02 July 2023 17:53:29 UTC*
