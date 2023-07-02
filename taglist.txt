@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Saturday, 01 July 2023 17:52:44 UTC
+Updated: Sunday, 02 July 2023 02:26:28 UTC
 
 ?:
 ??
@@ -44,7 +44,6 @@ Updated: Saturday, 01 July 2023 17:52:44 UTC
 3d
 3dprinting
 3par
-50
 64
 650
 650flb
@@ -215,7 +214,6 @@ aem
 aeries
 aeriessis
 aes
-afd
 affinity
 affinity-co
 affinity-crm
@@ -940,7 +938,6 @@ cat
 cat-names
 catalog
 catalogs
-catalyst
 catapult
 catesta
 cats
@@ -1038,7 +1035,6 @@ choco
 choco-bear
 chocobear
 chocolatey
-choice
 chooser
 christaylorcodes
 christmas
@@ -1801,7 +1797,6 @@ disasm
 disasterrecovery
 disconnect
 discord
-discordrpc
 discount
 discover
 discovery
@@ -1830,7 +1825,6 @@ distributionpointgroupmembers
 distrubtionpoint
 dividends
 diving
-division
 divoom
 dkim
 dkschrutebeets
@@ -1841,7 +1835,6 @@ dlmigration
 dlp
 dmarc
 dmgr
-dmi
 dmx
 dnd
 dns
@@ -1852,6 +1845,7 @@ dns-client
 dns-over-https
 dns-resolver
 dnsbl
+dnsclient
 dnsdumpster
 dnsentry
 dnsimple
@@ -2103,8 +2097,6 @@ engine
 engineevent
 english
 enhancement
-enrichers
-enrichment
 enteo
 enter
 enterprise
@@ -2336,7 +2328,6 @@ fetch
 ffmpeg
 fhirservice
 fiche
-fiddler
 fido
 fido2
 fieldglass
@@ -2789,7 +2780,6 @@ handler
 hangouts
 hannelstoolbox
 hanwha
-har
 hard
 hardblock
 harden
@@ -3148,7 +3138,6 @@ intellisearch
 intellisense
 interactive
 interactive-brokers
-interface
 interlogix
 internet
 internet-explorer
@@ -3227,6 +3216,7 @@ ish
 ishexstring
 isnumeric
 iso
+iso-3166-1
 iso-8601
 ispac
 isprime
@@ -3291,6 +3281,7 @@ journal
 joyride
 jpg
 jq
+js7
 jsm
 jsm.insight
 json
@@ -3800,6 +3791,7 @@ messageoftheday
 messages
 messaging
 messenger
+met
 metadata
 metadataservice
 metaprogramming
@@ -3808,6 +3800,7 @@ methodinfo
 methods
 metric
 metrics
+metrolink
 mfa
 mga
 mgn
@@ -4127,6 +4120,7 @@ new-rdpsession
 new-samcmapplicationfrompackagedefinitionsms
 new-samcmpackagefrompackagedefinitionsms
 new-system
+new-udmorph
 newpassword
 newrelic
 newspaper
@@ -4297,7 +4291,6 @@ omsagent
 on
 on-demand
 on-premise
-onboard
 onboardadministrator
 onboarding
 oncommand-insight
@@ -4544,7 +4537,6 @@ pci-dss
 pcloud
 pcsetup
 pcsv
-pdb
 pdf
 pdf-document-processor
 pdf-files
@@ -4591,12 +4583,10 @@ phishing
 phoenix
 phoneautomation
 photo
-photograph
 photos
 php
 phpapam
 pi
-picker
 picture
 pictures
 pid
@@ -5068,6 +5058,7 @@ pszabbix
 pubg
 public
 public-key
+public-transport
 publicapi
 publicclient
 publicfolder
@@ -5619,7 +5610,6 @@ scriptedui
 scripting
 scriptlogging
 scriptoform
-scriptrunner
 scripts
 scriptsmonitoring
 scrolllock
@@ -5881,7 +5871,6 @@ sitemap
 siterecovery
 sites
 sitesystemserver
-sitethumbprint
 size
 skatterbrainz
 skeleton-loader
@@ -6345,7 +6334,6 @@ tag2
 tagging
 tags
 tak
-taken
 takeown
 tally
 talxis
@@ -6490,7 +6478,6 @@ tibber
 tic-tac-toe
 tickle
 ticks
-tictactoe
 tiermodel
 time
 timeout
@@ -6558,6 +6545,7 @@ trafficmarking
 train
 training
 training-course
+tram
 transact
 transaction
 transactions
@@ -6634,7 +6622,6 @@ twitter-client
 twitter-follow
 twitter-hashtag
 twitter-mention
-twitter-share
 twitter-timeline
 twitter-tweet
 txt
@@ -6687,6 +6674,7 @@ ud-pivottable
 ud-progressstepbar
 ud-rangeslider
 ud-readingbar
+ud-scrollspy
 ud-selectdatetime
 ud-selector
 ud-signature
@@ -6788,7 +6776,6 @@ url-encode
 url-shortener
 urlencode
 urlhaus
-urlredirections
 urlrewrite
 urlscan
 urlupdate
@@ -6945,7 +6932,6 @@ visualstudio
 visualstudiocode
 visualstudioonline
 visualstudioteamservices
-vlan
 vlookup
 vlsm
 vm

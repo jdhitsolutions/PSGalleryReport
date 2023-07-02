@@ -3,6 +3,20 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [MASES.KNetPS](https://www.powershellgallery.com/Packages/MASES.KNetPS/1.5.5) | 1.5.5
+
+### Published: 07/01/2023 18:50:03 by MASES s.r.l.
+
+KNet PowerShell command line interface is a PowerShell Module to use Apache Kafka and PowerShell side-by-side. With KNet PowerShell it is possible to:
+- execute all tools of Apache Kafka within a PowerShell shell: Administration tools, Console Consumer, Console Producer, manage Apache Kafka Streams, activate Apache Kafka Connect, server side (start Kafka and ZooKeeper), etc
+- create consumers and producers objects to interact with an Apache Kafka cluster
+- send data to and receive data from an Apache Kafka cluster
+- create a Kafka Admin Client object to manage an Apache Kafka cluster
+
+More information within the project hosted on GitHub. Further information at https://github.com/masesgroup/KNet.
+
+__Downloads__: 261 | __Repository__: https://github.com/masesgroup/KNet
+
 ## [Az.MsiGraphPermissions](https://www.powershellgallery.com/Packages/Az.MsiGraphPermissions/1.0.0.1) | 1.0.0.1
 
 ### Published: 07/01/2023 13:01:52 by Ben Reader
@@ -26,7 +40,7 @@ __Downloads__: 71 | __Repository__: https://github.com/HenriquedoVal/shellserver
 
 Create evergreen Windows image builds with the latest versions of applications. Evergreen is a simple PowerShell module that retrieves the latest version numbers and download URLs for various software products directly from the vendor source.
 
-__Downloads__: 1,709,097 | __Repository__: https://stealthpuppy.com/evergreen/
+__Downloads__: 1,709,105 | __Repository__: https://stealthpuppy.com/evergreen/
 
 ## [Convert-Csv](https://www.powershellgallery.com/Packages/Convert-Csv/0.9.1) | 0.9.1
 
@@ -208,7 +222,7 @@ AADInternals allows you to export ADFS certificates, Azure AD Connect passwords,
 
 DISCLAIMER: Functionality provided through this module are not supported by Microsoft and thus should not be used in a production environment. Use on your own risk!
 
-__Downloads__: 61,580 | __Repository__: https://aadinternals.com/aadinternals
+__Downloads__: 61,582 | __Repository__: https://aadinternals.com/aadinternals
 
 ## [CAT](https://www.powershellgallery.com/Packages/CAT/0.14.6.2) | 0.14.6.2
 
@@ -417,7 +431,7 @@ __Downloads__: 134 | __Repository__: https://migrate.rivermeadow.com/
 
 ACME protocol client for obtaining certificates using Let's Encrypt (or other ACME compliant CA)
 
-__Downloads__: 1,049,691 | __Repository__: https://github.com/rmbolger/Posh-ACME
+__Downloads__: 1,049,711 | __Repository__: https://github.com/rmbolger/Posh-ACME
 
 ## [HPEBIOSCmdlets](https://www.powershellgallery.com/Packages/HPEBIOSCmdlets/3.1.0.0) | 3.1.0.0
 
@@ -1018,7 +1032,7 @@ __Downloads__: 1,946 | __Repository__: https://github.com/oracle/oci-powershell-
 
 This modules provides Cmdlets for OCI Identity Service
 
-__Downloads__: 5,280 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+__Downloads__: 5,281 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
 ## [OCI.PSModules.Healthchecks](https://www.powershellgallery.com/Packages/OCI.PSModules.Healthchecks/60.2.0) | 60.2.0
 
@@ -1498,7 +1512,7 @@ __Downloads__: 279 | __Repository__: https://github.com/oracle/oci-powershell-mo
 
 OCI Common module exports Cmdlets that manages features offered by OCI Modules for Powershell like History Store, OCI Configuration file setup and Per-Session Region/Config/Profile preferences. Common module also contains some functionalties that are common to all OCI Service modules, therefore all OCI Service modules depends on Common module.
 
-__Downloads__: 68,244 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+__Downloads__: 68,243 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
 ## [AdminByRequest](https://www.powershellgallery.com/Packages/AdminByRequest/1.0.2) | 1.0.2
 
@@ -1522,7 +1536,7 @@ __Downloads__: 3 | __Repository__: https://github.com/pmahend1/PowershellScripts
 
 Pester provides a framework for running BDD style Tests to execute and validate PowerShell commands inside of PowerShell and offers a powerful set of Mocking Functions that allow tests to mimic and mock the functionality of any command inside of a piece of PowerShell code being tested. Pester tests can execute any command or script that is accessible to a pester test file. This can include functions, Cmdlets, Modules and scripts. Pester can be run in ad hoc style in a console or it can be integrated into the Build scripts of a Continuous Integration system.
 
-__Downloads__: 15,038,873 | __Repository__: https://github.com/Pester/Pester
+__Downloads__: 15,038,932 | __Repository__: https://github.com/Pester/Pester
 
 ## [NTS.Tools.MSHyperV](https://www.powershellgallery.com/Packages/NTS.Tools.MSHyperV/1.0.3.5) | 1.0.3.5
 
@@ -1546,7 +1560,7 @@ __Downloads__: 962 | __Repository__:
 
 Sample module to manage AutoPilot devices using the Intune Graph API
 
-__Downloads__: 616 | __Repository__: 
+__Downloads__: 615 | __Repository__: 
 
 ## [AdminToolbox](https://www.powershellgallery.com/Packages/AdminToolbox/11.0.100) | 11.0.100
 
@@ -1562,7 +1576,7 @@ __Downloads__: 28,460 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions that generate configuration scripts and manage FortiOS.
 
-__Downloads__: 7,382 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 7,383 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.VMWareAutomate](https://www.powershellgallery.com/Packages/AdminToolbox.VMWareAutomate/4.8.89) | 4.8.89
 
@@ -1586,7 +1600,7 @@ __Downloads__: 14,072 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions for working with Office365 and Azure modules
 
-__Downloads__: 15,280 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 15,281 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.Networking](https://www.powershellgallery.com/Packages/AdminToolbox.Networking/2.17.23) | 2.17.23
 
@@ -1594,7 +1608,7 @@ __Downloads__: 15,280 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Network Troubleshooting Functions
 
-__Downloads__: 23,453 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 23,451 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.MSGraph](https://www.powershellgallery.com/Packages/AdminToolbox.MSGraph/1.2.92) | 1.2.92
 
@@ -1618,7 +1632,7 @@ __Downloads__: 14,068 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 File Management Functions
 
-__Downloads__: 14,665 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 14,666 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.FFTools](https://www.powershellgallery.com/Packages/AdminToolbox.FFTools/4.16.42) | 4.16.42
 
@@ -1732,7 +1746,7 @@ __Downloads__: 2,398 | __Repository__:
 
 SdnDiagnostics is a tool used to simplify the data collection and diagnostics of Windows Software Defined Networking.
 
-__Downloads__: 29,690 | __Repository__: https://github.com/microsoft/SdnDiagnostics
+__Downloads__: 29,688 | __Repository__: https://github.com/microsoft/SdnDiagnostics
 
 ## [AutomatedLabCore](https://www.powershellgallery.com/Packages/AutomatedLabCore/5.48.14) | 5.48.14
 
@@ -1809,7 +1823,7 @@ __Downloads__: 6,199 | __Repository__:
 
 A cross-platform helper module for PowerShell.
 
-__Downloads__: 258,611 | __Repository__: https://github.com/ProVal-Tech/Strapper
+__Downloads__: 258,707 | __Repository__: https://github.com/ProVal-Tech/Strapper
 
 ## [PowershellExpect](https://www.powershellgallery.com/Packages/PowershellExpect/1.1.2) | 1.1.2
 
@@ -2079,12 +2093,4 @@ A PowerShell module that makes interfacing with Azure Pipelines a little easier
 
 __Downloads__: 27,643 | __Repository__: https://github.com/Dejulia489/AzurePipelinesPS
 
-## [Cyber_Profile](https://www.powershellgallery.com/Packages/Cyber_Profile/0.1.3) | 0.1.3
-
-### Published: 06/23/2023 18:15:48 by Alex Karpman
-
-Cybernethic PowerShell Profile as a Service.
-
-__Downloads__: 32 | __Repository__: https://gitlab.com/conio.h/Cyber_Profile
-
-*Updated: Saturday, 01 July 2023 17:52:32 UTC*
+*Updated: Sunday, 02 July 2023 02:26:16 UTC*
