@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 03 July 2023 09:53:04 UTC
+Updated: Monday, 03 July 2023 17:53:51 UTC
 
 ?:
 ??
@@ -193,6 +193,7 @@ adobject
 adouobject
 adoxio
 adp
+adr
 ads
 adsi
 adsite
@@ -225,7 +226,6 @@ agent
 aggregates
 aggregation
 agile
-agility
 agm
 agnoster
 ai
@@ -422,7 +422,6 @@ archlinux
 arcresourcebridge
 arcus
 area
-arg
 argument
 argumentcompleter
 arguments
@@ -868,7 +867,6 @@ build-log
 build-scripts
 builddefinition
 builder
-building
 buildingfile
 buildingmapping
 buildkit
@@ -1148,7 +1146,6 @@ cloudfoundation
 cloudfront
 cloudgovernance
 cloudguard
-cloudinairy
 cloudinit
 cloudiq
 cloudkey
@@ -1894,7 +1891,6 @@ dok
 dokuwiki
 domain
 domains
-domino
 donothing
 dos
 dot
@@ -3005,6 +3001,7 @@ identity-management
 identitydataplane
 identitydirector
 identitydomains
+identitynow
 idf
 idm
 idna
@@ -3292,7 +3289,6 @@ journal
 joyride
 jpg
 jq
-js7
 jsm
 jsm.insight
 json
@@ -3528,7 +3524,6 @@ lldp
 lmhost
 lmhosts
 lms
-load
 loadbalancer
 loadbalancer.org
 loadtesting
@@ -3548,6 +3543,7 @@ location
 locationbasedservices
 lock
 lockbox
+lockdisplaytimeout
 lockdown
 locking
 lockoutreport
@@ -3670,7 +3666,6 @@ maintain-module
 maintenance
 maintenance-window
 maintenancewindows
-make
 maker
 malware
 mamagedidentity
@@ -4130,6 +4125,7 @@ new-rdpsession
 new-samcmapplicationfrompackagedefinitionsms
 new-samcmpackagefrompackagedefinitionsms
 new-system
+new-udmorph
 newpassword
 newrelic
 newspaper
@@ -4779,6 +4775,7 @@ powershellfar
 powershellgallery
 powershellget
 powershellgetformatversion_2.0
+powershellise
 powershelllogger
 powershellmodule
 powershellmoduleupdate
@@ -5016,7 +5013,6 @@ psmssql
 psmssqlbynarymodule
 psmssqlmodule
 psmvp
-psnavigation
 psnexosisclient
 psngenposh
 psobject
@@ -5046,7 +5042,6 @@ psscriptsmonitoring
 pssendgrid
 pssession
 pssharper
-psslack
 pssqlite
 pssqlitebynarymodule
 pssqlitemodule
@@ -5056,6 +5051,7 @@ pssqlservermodule
 psst
 psstgenerator
 pstablacus
+pstanss
 psthread
 pstk
 pstwitter
@@ -5371,7 +5367,6 @@ resource_monitor
 resource_watcher
 resourceaccount
 resourcecontroller
-resourcegraph
 resourcegroup
 resourceid
 resourcekit
@@ -5512,6 +5507,7 @@ safe
 safeguard
 sage
 saggiehaim
+sailpoint
 sale
 sales
 salesforce
@@ -5650,7 +5646,6 @@ secretmanagement
 secretmanagementextension
 secrets
 secretsanta
-secretscanner
 secretserver
 secretsmanager
 secretvault
@@ -5868,6 +5863,7 @@ simplivity
 simplysql
 sin
 single
+singlestore
 singleton
 sinks
 sintez
@@ -6231,7 +6227,6 @@ subscription
 subscriptiondefinition
 subset
 subsystem
-subtitle
 success
 successfactors
 sudo
@@ -6350,6 +6345,7 @@ taken
 takeown
 tally
 talxis
+tanss
 tanzu
 tar
 target
@@ -6584,7 +6580,6 @@ treesize
 treffynnon
 trein
 trello
-trellops
 trend-micro
 trendmicro
 trevor
@@ -6857,7 +6852,6 @@ vastlimits
 vault
 vaultextension
 vaultstore
-vb365
 vba
 vbaproject
 vbproj
@@ -6997,6 +6991,7 @@ vpg
 vplex
 vpn
 vpn-certificate
+vpro
 vps
 vra
 vrchat
