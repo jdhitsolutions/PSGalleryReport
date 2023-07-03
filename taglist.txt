@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 03 July 2023 02:21:49 UTC
+Updated: Monday, 03 July 2023 09:53:04 UTC
 
 ?:
 ??
@@ -193,7 +193,6 @@ adobject
 adouobject
 adoxio
 adp
-adr
 ads
 adsi
 adsite
@@ -1670,6 +1669,8 @@ decryption
 dedicatedhsm
 deduplication
 deep
+deep-security
+deep-security-manager
 deepl
 deepvisibility
 def
@@ -1994,6 +1995,7 @@ dutch
 dvls
 dxexpeditions
 dynamic
+dynamic-host-configuration-protocol
 dynamicdistributiongroups
 dynamicdnsoverhttps
 dynamicparam
@@ -2536,6 +2538,7 @@ functions
 funds
 funny
 fusion
+fusionapps
 fuzzy
 fyi
 fzf
@@ -3002,7 +3005,6 @@ identity-management
 identitydataplane
 identitydirector
 identitydomains
-identitynow
 idf
 idm
 idna
@@ -3546,7 +3548,6 @@ location
 locationbasedservices
 lock
 lockbox
-lockdisplaytimeout
 lockdown
 locking
 lockoutreport
@@ -4129,7 +4130,6 @@ new-rdpsession
 new-samcmapplicationfrompackagedefinitionsms
 new-samcmpackagefrompackagedefinitionsms
 new-system
-new-udmorph
 newpassword
 newrelic
 newspaper
@@ -4329,6 +4329,8 @@ ontap_9.13.1
 ontap_9.8.0
 ontap_pstk_9.13.1
 ontap_pstk_9.8.0
+onyphe
+onyphe.io
 oob
 oop
 op
@@ -4764,6 +4766,7 @@ powershell-script
 powershell-terminal
 powershell-terminal-copilot
 powershell-training
+powershell.module.invokewinget
 powershell.one
 powershell.persistentpathstack
 powershell7
@@ -4780,6 +4783,7 @@ powershelllogger
 powershellmodule
 powershellmoduleupdate
 powershellpr0mpt
+powershellscript
 powershelltemplate
 powershelltraining
 powershelltypeaccelerators
@@ -5052,7 +5056,6 @@ pssqlservermodule
 psst
 psstgenerator
 pstablacus
-pstanss
 psthread
 pstk
 pstwitter
@@ -5509,7 +5512,6 @@ safe
 safeguard
 sage
 saggiehaim
-sailpoint
 sale
 sales
 salesforce
@@ -5866,7 +5868,6 @@ simplivity
 simplysql
 sin
 single
-singlestore
 singleton
 sinks
 sintez
@@ -6331,6 +6332,7 @@ tabexpansion2
 tablacus
 table
 tableau
+tabler
 tables
 tablestorage
 tabs
@@ -6348,7 +6350,6 @@ taken
 takeown
 tally
 talxis
-tanss
 tanzu
 tar
 target
@@ -6448,6 +6449,7 @@ text-to-speach"
 text-to-speech
 text2image
 textanalysis
+textbuffer
 texting
 textprocessing
 textwrapping
@@ -6583,6 +6585,7 @@ treffynnon
 trein
 trello
 trellops
+trend-micro
 trendmicro
 trevor
 trevorsullivan
@@ -6632,6 +6635,7 @@ twitter-client
 twitter-follow
 twitter-hashtag
 twitter-mention
+twitter-share
 twitter-timeline
 twitter-tweet
 txt
