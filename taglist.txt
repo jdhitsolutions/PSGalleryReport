@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Sunday, 02 July 2023 17:53:45 UTC
+Updated: Monday, 03 July 2023 02:21:49 UTC
 
 ?:
 ??
@@ -1038,6 +1038,7 @@ choco
 choco-bear
 chocobear
 chocolatey
+choice
 chooser
 christaylorcodes
 christmas
@@ -1669,8 +1670,6 @@ decryption
 dedicatedhsm
 deduplication
 deep
-deep-security
-deep-security-manager
 deepl
 deepvisibility
 def
@@ -1995,7 +1994,6 @@ dutch
 dvls
 dxexpeditions
 dynamic
-dynamic-host-configuration-protocol
 dynamicdistributiongroups
 dynamicdnsoverhttps
 dynamicparam
@@ -2538,7 +2536,6 @@ functions
 funds
 funny
 fusion
-fusionapps
 fuzzy
 fyi
 fzf
@@ -4332,8 +4329,6 @@ ontap_9.13.1
 ontap_9.8.0
 ontap_pstk_9.13.1
 ontap_pstk_9.8.0
-onyphe
-onyphe.io
 oob
 oop
 op
@@ -4602,6 +4597,7 @@ photos
 php
 phpapam
 pi
+picker
 picture
 pictures
 pid
@@ -4784,7 +4780,6 @@ powershelllogger
 powershellmodule
 powershellmoduleupdate
 powershellpr0mpt
-powershellscript
 powershelltemplate
 powershelltraining
 powershelltypeaccelerators
@@ -6336,7 +6331,6 @@ tabexpansion2
 tablacus
 table
 tableau
-tabler
 tables
 tablestorage
 tabs
@@ -6367,6 +6361,7 @@ taskgroup
 taskmanagement
 tasks
 taskscheduler
+taxjar
 taxonomy
 tcp
 tcp/ip
@@ -6453,7 +6448,6 @@ text-to-speach"
 text-to-speech
 text2image
 textanalysis
-textbuffer
 texting
 textprocessing
 textwrapping
@@ -6589,7 +6583,6 @@ treffynnon
 trein
 trello
 trellops
-trend-micro
 trendmicro
 trevor
 trevorsullivan
@@ -6639,7 +6632,6 @@ twitter-client
 twitter-follow
 twitter-hashtag
 twitter-mention
-twitter-share
 twitter-timeline
 twitter-tweet
 txt
@@ -6701,6 +6693,7 @@ ud-singleselect
 ud-slider
 ud-speechbubble
 ud-step
+ud-stepbar
 ud-stickynavbar
 ud-tagcloud
 ud-timeline
@@ -7259,6 +7252,7 @@ wmipermanentevents
 wol
 wolfram
 wolframalpha
+woocommerce
 woolworths
 woolworthsrewards
 word
