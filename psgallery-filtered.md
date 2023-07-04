@@ -3,6 +3,48 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [AptecoPSFramework](https://www.powershellgallery.com/Packages/AptecoPSFramework/0.0.6) | 0.0.6
+
+### Published: 07/04/2023 09:39:28 by florian.von.bracht@apteco.de
+
+Apteco PS Modules - Framework
+
+More description to follow...
+
+__Downloads__: 12 | __Repository__: https://github.com/Apteco/AptecoPSModules/tree/dev/AptecoPSFramework
+
+## [BrightBookingUserAdminTools](https://www.powershellgallery.com/Packages/BrightBookingUserAdminTools/7.0.0) | 7.0.0
+
+### Published: 07/04/2023 08:24:19 by GoBright B.V.
+
+PowerShell module to fetch AzureAD or ActiveDirectory user information to use in GoBright. Depends on the modules: AzureAD and ActiveDirectory
+
+__Downloads__: 3,823 | __Repository__: https://gobright.com/
+
+## [AVDManagementFramework](https://www.powershellgallery.com/Packages/AVDManagementFramework/1.0.72) | 1.0.72
+
+### Published: 07/04/2023 07:12:43 by wmoselhy
+
+Azure Virtual Desktop Management Framework
+
+__Downloads__: 1,057 | __Repository__: 
+
+## [AppVeyorTestPsGallery](https://www.powershellgallery.com/Packages/AppVeyorTestPsGallery/1.0.501) | 1.0.501
+
+### Published: 07/04/2023 06:42:21 by Feodor Fitsner
+
+The test module to verify publishing to PSGallery from AppVeyor.
+
+__Downloads__: 39,997 | __Repository__: 
+
+## [Universal](https://www.powershellgallery.com/Packages/Universal/4.0.4) | 4.0.4
+
+### Published: 07/04/2023 04:23:11 by Ironman Software
+
+Module for PowerShell Universal.
+
+__Downloads__: 45,939 | __Repository__: https://ironmansoftware.com/powershell-universal
+
 ## [Az.Adm](https://www.powershellgallery.com/Packages/Az.Adm/1.0.16) | 1.0.16
 
 ### Published: 07/04/2023 02:06:36 by Diogo De Santana Jacome
@@ -17,7 +59,7 @@ __Downloads__: 926 | __Repository__: https://github.com/Didjacome/Modules.Azure
 
 CSV file conversion tool. Converts to text, html, or json. Supports several formatting options.
 
-__Downloads__: 12 | __Repository__: 
+__Downloads__: 11 | __Repository__: 
 
 ## [PSTree](https://www.powershellgallery.com/Packages/PSTree/2.1.12) | 2.1.12
 
@@ -90,7 +132,7 @@ __Downloads__: 1 | __Repository__:
 
 The Devolutions.PowerShell module is a set of cmdlets that allow administrators to manage Remote Desktop Manager, Devolutions Server and Devolutions Hub Business using PowerShell. This module provides a simple and consistent interface for interacting with these products, making it easy to automate various tasks, such as creating and managing connections, sessions, and credentials, configuring security settings, and generating reports. The module can be easily integrated with other PowerShell modules, allowing administrators to automate tasks across multiple products and platforms, streamline their workflows and increase efficiency.
 
-__Downloads__: 3,009 | __Repository__: 
+__Downloads__: 3,010 | __Repository__: 
 
 ## [PowerProcess](https://www.powershellgallery.com/Packages/PowerProcess/0.2.0) | 0.2.0
 
@@ -123,25 +165,7 @@ Carbon is a PowerShell module for automating the configuration Windows 7, 8, 200
 
 All functions are idempotent: when run multiple times with the same arguments, your system will be in the same state without failing or producing errors.
 
-__Downloads__: 62,673,860 | __Repository__: http://get-carbon.org/
-
-## [AptecoPSFramework](https://www.powershellgallery.com/Packages/AptecoPSFramework/0.0.5) | 0.0.5
-
-### Published: 07/03/2023 16:21:52 by florian.von.bracht@apteco.de
-
-Apteco PS Modules - Framework
-
-More description to follow...
-
-__Downloads__: 12 | __Repository__: https://github.com/Apteco/AptecoPSModules/tree/dev/AptecoPSFramework
-
-## [AppVeyorTestPsGallery](https://www.powershellgallery.com/Packages/AppVeyorTestPsGallery/1.0.500) | 1.0.500
-
-### Published: 07/03/2023 15:46:24 by Feodor Fitsner
-
-The test module to verify publishing to PSGallery from AppVeyor.
-
-__Downloads__: 39,997 | __Repository__: 
+__Downloads__: 62,673,682 | __Repository__: http://get-carbon.org/
 
 ## [PSPublishModule](https://www.powershellgallery.com/Packages/PSPublishModule/1.4.0) | 1.4.0
 
@@ -277,7 +301,7 @@ __Downloads__: 11,566 | __Repository__: https://scripting.arcus-azure.net/
 
 Scripts related to Azure Key Vault
 
-__Downloads__: 8,687 | __Repository__: https://scripting.arcus-azure.net/
+__Downloads__: 8,689 | __Repository__: https://scripting.arcus-azure.net/
 
 ## [Arcus.Scripting.IntegrationAccount](https://www.powershellgallery.com/Packages/Arcus.Scripting.IntegrationAccount/1.1.0) | 1.1.0
 
@@ -293,7 +317,7 @@ __Downloads__: 1,271 | __Repository__: https://scripting.arcus-azure.net/
 
 Scripts related to Azure DevOps
 
-__Downloads__: 14,901 | __Repository__: https://scripting.arcus-azure.net/
+__Downloads__: 14,902 | __Repository__: https://scripting.arcus-azure.net/
 
 ## [Arcus.Scripting.DataFactory](https://www.powershellgallery.com/Packages/Arcus.Scripting.DataFactory/1.1.0) | 1.1.0
 
@@ -349,7 +373,7 @@ __Downloads__: 2 | __Repository__:
 
 Master module for a collection of modules. These modules are varied in their tasks. The overall purpose of them being to provide a powerfull Toolset to improve IT Admin workflows.
 
-__Downloads__: 28,487 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox
+__Downloads__: 28,488 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox
 
 ## [AdminToolbox.FortiWizard](https://www.powershellgallery.com/Packages/AdminToolbox.FortiWizard/2.17.25) | 2.17.25
 
@@ -381,7 +405,7 @@ __Downloads__: 14,105 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions for working with Office365 and Azure modules
 
-__Downloads__: 15,314 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 15,315 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.Networking](https://www.powershellgallery.com/Packages/AdminToolbox.Networking/2.18.1) | 2.18.1
 
@@ -397,7 +421,7 @@ __Downloads__: 23,492 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Microsoft Graph interactive API Functions
 
-__Downloads__: 4,491 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 4,492 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.Fun](https://www.powershellgallery.com/Packages/AdminToolbox.Fun/1.6.94) | 1.6.94
 
@@ -421,7 +445,7 @@ __Downloads__: 14,698 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Expedite simple ffmpeg actions
 
-__Downloads__: 14,620 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 14,621 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.Exchange](https://www.powershellgallery.com/Packages/AdminToolbox.Exchange/1.9.94) | 1.9.94
 
@@ -429,7 +453,7 @@ __Downloads__: 14,620 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions for Exchange Management
 
-__Downloads__: 15,613 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 15,614 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.EndpointManagement](https://www.powershellgallery.com/Packages/AdminToolbox.EndpointManagement/4.9.86) | 4.9.86
 
@@ -437,7 +461,7 @@ __Downloads__: 15,613 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions for management of endpoints
 
-__Downloads__: 16,218 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 16,219 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.ActiveDirectory](https://www.powershellgallery.com/Packages/AdminToolbox.ActiveDirectory/1.9.91) | 1.9.91
 
@@ -445,15 +469,7 @@ __Downloads__: 16,218 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions for Active Directory
 
-__Downloads__: 17,689 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-## [Universal](https://www.powershellgallery.com/Packages/Universal/4.0.3) | 4.0.3
-
-### Published: 07/02/2023 23:17:43 by Ironman Software
-
-Module for PowerShell Universal.
-
-__Downloads__: 45,939 | __Repository__: https://ironmansoftware.com/powershell-universal
+__Downloads__: 17,690 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [guided-setup](https://www.powershellgallery.com/Packages/guided-setup/1.15.0) | 1.15.0
 
@@ -556,7 +572,7 @@ __Downloads__: 1,719,957 | __Repository__: https://stealthpuppy.com/evergreen/
 
 PSSailpoint - the PowerShell module for IdentityNow
 
-__Downloads__: 320 | __Repository__: 
+__Downloads__: 323 | __Repository__: 
 
 ## [PSWorkItem](https://www.powershellgallery.com/Packages/PSWorkItem/1.1.0) | 1.1.0
 
@@ -678,14 +694,6 @@ Duo Security REST module
 
 __Downloads__: 107 | __Repository__: https://github.com/johnduprey/DuoSecurity
 
-## [Get-MACtoIP](https://www.powershellgallery.com/Packages/Get-MACtoIP/2.4) | 2.4
-
-### Published: 06/29/2023 12:37:11 by Colton Clark
-
-This module looks up a proved mac addres to the DHCP servers and retunes the IP address.
-
-__Downloads__: 35 | __Repository__: 
-
 ## [AADInternals](https://www.powershellgallery.com/Packages/AADInternals/0.9.0) | 0.9.0
 
 ### Published: 06/29/2023 12:32:26 by Dr Nestori Syynimaa
@@ -696,7 +704,7 @@ AADInternals allows you to export ADFS certificates, Azure AD Connect passwords,
 
 DISCLAIMER: Functionality provided through this module are not supported by Microsoft and thus should not be used in a production environment. Use on your own risk!
 
-__Downloads__: 62,101 | __Repository__: https://aadinternals.com/aadinternals
+__Downloads__: 62,100 | __Repository__: https://aadinternals.com/aadinternals
 
 ## [CAT](https://www.powershellgallery.com/Packages/CAT/0.14.6.2) | 0.14.6.2
 
@@ -897,7 +905,7 @@ __Downloads__: 134 | __Repository__: https://migrate.rivermeadow.com/
 
 ACME protocol client for obtaining certificates using Let's Encrypt (or other ACME compliant CA)
 
-__Downloads__: 1,051,501 | __Repository__: https://github.com/rmbolger/Posh-ACME
+__Downloads__: 1,051,494 | __Repository__: https://github.com/rmbolger/Posh-ACME
 
 ## [HPEBIOSCmdlets](https://www.powershellgallery.com/Packages/HPEBIOSCmdlets/3.1.0.0) | 3.1.0.0
 
@@ -962,7 +970,7 @@ __Downloads__: 3,224 | __Repository__: https://github.com/oracle/oci-powershell-
 
 This modules provides Cmdlets for OCI Waf Service
 
-__Downloads__: 2,080 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+__Downloads__: 2,081 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
 ## [OCI.PSModules.Waas](https://www.powershellgallery.com/Packages/OCI.PSModules.Waas/60.2.0) | 60.2.0
 
@@ -1154,7 +1162,7 @@ __Downloads__: 670 | __Repository__: https://github.com/oracle/oci-powershell-mo
 
 This modules provides Cmdlets for OCI Osubusage Service
 
-__Downloads__: 1,836 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+__Downloads__: 1,837 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
 ## [OCI.PSModules.Osubsubscription](https://www.powershellgallery.com/Packages/OCI.PSModules.Osubsubscription/60.2.0) | 60.2.0
 
@@ -1234,7 +1242,7 @@ __Downloads__: 3,031 | __Repository__: https://github.com/oracle/oci-powershell-
 
 This modules provides Cmdlets for OCI Opensearch Service
 
-__Downloads__: 1,261 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+__Downloads__: 1,262 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
 ## [OCI.PSModules.Opa](https://www.powershellgallery.com/Packages/OCI.PSModules.Opa/60.2.0) | 60.2.0
 
@@ -1602,7 +1610,7 @@ __Downloads__: 2,496 | __Repository__: https://github.com/oracle/oci-powershell-
 
 This modules provides Cmdlets for OCI Datascience Service
 
-__Downloads__: 4,135 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+__Downloads__: 4,136 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
 ## [OCI.PSModules.Datasafe](https://www.powershellgallery.com/Packages/OCI.PSModules.Datasafe/60.2.0) | 60.2.0
 
@@ -1962,7 +1970,7 @@ __Downloads__: 285 | __Repository__: https://github.com/oracle/oci-powershell-mo
 
 OCI Common module exports Cmdlets that manages features offered by OCI Modules for Powershell like History Store, OCI Configuration file setup and Per-Session Region/Config/Profile preferences. Common module also contains some functionalties that are common to all OCI Service modules, therefore all OCI Service modules depends on Common module.
 
-__Downloads__: 68,340 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+__Downloads__: 68,341 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
 ## [AdminByRequest](https://www.powershellgallery.com/Packages/AdminByRequest/1.0.2) | 1.0.2
 
@@ -1994,7 +2002,7 @@ __Downloads__: 15,052,562 | __Repository__: https://github.com/Pester/Pester
 
 NTS.Tools.MSExchange module contains functions that are mainly related to Microsoft Hyper-V
 
-__Downloads__: 1,008 | __Repository__: 
+__Downloads__: 1,009 | __Repository__: 
 
 ## [NTS.Tools.MSADDS](https://www.powershellgallery.com/Packages/NTS.Tools.MSADDS/1.0.0.4) | 1.0.0.4
 
@@ -2010,7 +2018,7 @@ __Downloads__: 965 | __Repository__:
 
 Sample module to manage AutoPilot devices using the Intune Graph API
 
-__Downloads__: 658 | __Repository__: 
+__Downloads__: 655 | __Repository__: 
 
 ## [IntuneStuff](https://www.powershellgallery.com/Packages/IntuneStuff/1.4.1) | 1.4.1
 
@@ -2046,12 +2054,4 @@ PowerShell Module for VMware Cloud Foundation Reporting
 
 __Downloads__: 938 | __Repository__: https://vmware.github.io/powershell-module-for-vmware-cloud-foundation-reporting
 
-## [VMware.CloudFoundation.PasswordManagement](https://www.powershellgallery.com/Packages/VMware.CloudFoundation.PasswordManagement/1.2.0.1005) | 1.2.0.1005
-
-### Published: 06/27/2023 12:39:26 by VMware
-
-PowerShell Module for VMware Cloud Foundation Password Management
-
-__Downloads__: 142 | __Repository__: https://vmware.github.io/powershell-module-for-vmware-cloud-foundation-password-management
-
-*Updated: Tuesday, 04 July 2023 02:22:13 UTC*
+*Updated: Tuesday, 04 July 2023 09:52:33 UTC*

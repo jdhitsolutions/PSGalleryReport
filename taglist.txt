@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Tuesday, 04 July 2023 02:22:24 UTC
+Updated: Tuesday, 04 July 2023 09:52:45 UTC
 
 ?:
 ??
@@ -192,6 +192,7 @@ adobeflash
 adobject
 adouobject
 adoxio
+adp
 adr
 ads
 adsi
@@ -818,7 +819,6 @@ books
 bool
 bootloader psmodule
 bootstrap
-bootstrapping
 bop
 bot
 bots
@@ -1154,7 +1154,6 @@ cloudiq
 cloudkey
 cloudmarque
 cloudmigrations
-cloudpc
 cloudservice
 clueser
 cluster
@@ -2109,6 +2108,7 @@ enteo
 enter
 enterprise
 enterprise-scale
+enterprisedb
 enterprisemanager
 enterprisevoice
 entity
@@ -2644,8 +2644,6 @@ git
 git-client
 git-clone
 git-stat
-gitcmdline
-gitdesktop
 gitea
 gitflow
 gitforwindows
@@ -3149,6 +3147,7 @@ intellisense
 interactive
 interactive-brokers
 interface
+interlogix
 internet
 internet-explorer
 internetconnection
@@ -4130,6 +4129,7 @@ new-rdpsession
 new-samcmapplicationfrompackagedefinitionsms
 new-samcmpackagefrompackagedefinitionsms
 new-system
+new-udmorph
 newpassword
 newrelic
 newspaper
@@ -4146,6 +4146,7 @@ nhl
 nic
 nic.ru
 nightmare
+ninite
 ninja
 ninjaone
 ninjarmm
@@ -5001,6 +5002,7 @@ psjob
 psjobs
 psjobthreads
 pskeepass
+pslocalgallery
 psloganalytics
 psm
 psm1
@@ -5337,7 +5339,6 @@ repl
 replace
 replaygain
 replication
-repoo
 report
 reporting
 reportingservicepoint
@@ -5361,6 +5362,7 @@ reservations
 reset
 resharper
 resize
+resolution
 resolve
 resolve-stache
 resolve-template
@@ -6451,7 +6453,6 @@ text-to-speach"
 text-to-speech
 text2image
 textanalysis
-textbuffer
 texting
 textprocessing
 textwrapping
@@ -6601,6 +6602,7 @@ troubleshooting
 trouw
 truecrypt
 truenas
+truportal
 trusted
 trusted-host
 trustedhosts
@@ -7037,7 +7039,6 @@ vum
 vvx
 vxrail
 w32time
-w365
 w3svc
 w3w
 waa
