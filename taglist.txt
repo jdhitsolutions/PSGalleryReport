@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Tuesday, 04 July 2023 09:52:45 UTC
+Updated: Tuesday, 04 July 2023 17:52:39 UTC
 
 ?:
 ??
@@ -71,7 +71,6 @@ aas
 abc
 abc_testing
 abe
-about
 abr
 abstractsyntaxtree
 abuse
@@ -453,6 +452,7 @@ ascii85
 asciiart
 asdatabase
 asigra
+asjob
 asm
 asn.1
 asn1
@@ -819,6 +819,7 @@ books
 bool
 bootloader psmodule
 bootstrap
+bootstrapping
 bop
 bot
 bots
@@ -994,7 +995,6 @@ certificates
 certificateservices
 certificatesmanagement
 certinia
-certutil
 cf
 cfn
 ch9
@@ -1154,10 +1154,10 @@ cloudiq
 cloudkey
 cloudmarque
 cloudmigrations
+cloudpc
 cloudservice
 clueser
 cluster
-clusterminimumvalues
 clusterplugins
 cmaccounts
 cmake
@@ -2360,7 +2360,6 @@ file-transform
 file-type
 file-type-association
 fileattributes
-fileencryption
 filelist
 filelog
 filelogger
@@ -2463,6 +2462,7 @@ for
 force
 forcedelete
 foreach
+foreach-object
 forecast
 forensic
 forensics
@@ -2644,6 +2644,8 @@ git
 git-client
 git-clone
 git-stat
+gitcmdline
+gitdesktop
 gitea
 gitflow
 gitforwindows
@@ -2842,7 +2844,6 @@ helper
 helper-functions
 helperfunctions
 helpers
-helpfile
 heml
 here
 hewlett
@@ -2886,7 +2887,6 @@ home_automation
 homebrew
 homelandsecurity
 homeschooling
-hon
 hooking
 horizon
 horizontal
@@ -3241,7 +3241,6 @@ item
 itemlist
 itemobject
 itemstack
-iterate
 iteration
 itg
 itglue
@@ -3347,7 +3346,6 @@ keybase
 keybinding
 keyboard
 keyboardstartkey
-keycipher
 keylight
 keymanagement
 keymap
@@ -3918,7 +3916,6 @@ mongo
 mongodb
 monitor
 monitor psmodule
-monitorinformation
 monitoring
 monitoring_objects
 monitoring_variables
@@ -4515,7 +4512,6 @@ passwordexpiry
 passwordgeneration
 passwordgenerator
 passwordgenerators
-passwordhashing
 passwordlock
 passwordlockoutreport
 passwordmanagement
@@ -4796,7 +4792,6 @@ powertab
 powertoolcmdlets
 powertooldsc
 ppdm
-ppk
 pposh
 pps
 ppt
@@ -4997,7 +4992,6 @@ psini
 psinsight
 psintune
 psise
-psitem
 psjob
 psjobs
 psjobthreads
@@ -5157,6 +5151,7 @@ quickaccess
 quickbase
 quickbooks
 quicksetup
+qumulo
 quota
 quote
 quoteoftheday
@@ -5339,6 +5334,7 @@ repl
 replace
 replaygain
 replication
+repoo
 report
 reporting
 reportingservicepoint
@@ -5702,6 +5698,7 @@ self-hosted
 self-service
 self-signed
 selfdispatch
+selfhelp
 selfsigned
 semantic
 semantic-versioning
@@ -6238,7 +6235,6 @@ subtitle
 success
 successfactors
 sudo
-sugar
 sugarcrm
 suitecrm
 sullivan
@@ -6437,7 +6433,6 @@ test-xml
 test123
 testaccount
 testautomation
-testimonial
 testing
 testlab
 testplans
@@ -6453,6 +6448,7 @@ text-to-speach"
 text-to-speech
 text2image
 textanalysis
+textbuffer
 texting
 textprocessing
 textwrapping
@@ -6501,7 +6497,6 @@ timer
 timeseriesinsights
 timesheet
 timesheets
-timespan
 timezone
 tinkerpop
 tinymce
@@ -7039,6 +7034,7 @@ vum
 vvx
 vxrail
 w32time
+w365
 w3svc
 w3w
 waa
