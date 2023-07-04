@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 03 July 2023 17:53:51 UTC
+Updated: Tuesday, 04 July 2023 02:22:24 UTC
 
 ?:
 ??
@@ -192,7 +192,6 @@ adobeflash
 adobject
 adouobject
 adoxio
-adp
 adr
 ads
 adsi
@@ -226,6 +225,7 @@ agent
 aggregates
 aggregation
 agile
+agility
 agm
 agnoster
 ai
@@ -422,6 +422,7 @@ archlinux
 arcresourcebridge
 arcus
 area
+arg
 argument
 argumentcompleter
 arguments
@@ -867,6 +868,7 @@ build-log
 build-scripts
 builddefinition
 builder
+building
 buildingfile
 buildingmapping
 buildkit
@@ -1146,6 +1148,7 @@ cloudfoundation
 cloudfront
 cloudgovernance
 cloudguard
+cloudinairy
 cloudinit
 cloudiq
 cloudkey
@@ -1891,6 +1894,7 @@ dok
 dokuwiki
 domain
 domains
+domino
 donothing
 dos
 dot
@@ -2105,7 +2109,6 @@ enteo
 enter
 enterprise
 enterprise-scale
-enterprisedb
 enterprisemanager
 enterprisevoice
 entity
@@ -3146,7 +3149,6 @@ intellisense
 interactive
 interactive-brokers
 interface
-interlogix
 internet
 internet-explorer
 internetconnection
@@ -3289,6 +3291,7 @@ journal
 joyride
 jpg
 jq
+js7
 jsm
 jsm.insight
 json
@@ -3524,6 +3527,7 @@ lldp
 lmhost
 lmhosts
 lms
+load
 loadbalancer
 loadbalancer.org
 loadtesting
@@ -3666,6 +3670,7 @@ maintain-module
 maintenance
 maintenance-window
 maintenancewindows
+make
 maker
 malware
 mamagedidentity
@@ -4125,7 +4130,6 @@ new-rdpsession
 new-samcmapplicationfrompackagedefinitionsms
 new-samcmpackagefrompackagedefinitionsms
 new-system
-new-udmorph
 newpassword
 newrelic
 newspaper
@@ -4142,7 +4146,6 @@ nhl
 nic
 nic.ru
 nightmare
-ninite
 ninja
 ninjaone
 ninjarmm
@@ -4998,7 +5001,6 @@ psjob
 psjobs
 psjobthreads
 pskeepass
-pslocalgallery
 psloganalytics
 psm
 psm1
@@ -5013,6 +5015,7 @@ psmssql
 psmssqlbynarymodule
 psmssqlmodule
 psmvp
+psnavigation
 psnexosisclient
 psngenposh
 psobject
@@ -5042,6 +5045,7 @@ psscriptsmonitoring
 pssendgrid
 pssession
 pssharper
+psslack
 pssqlite
 pssqlitebynarymodule
 pssqlitemodule
@@ -5357,7 +5361,6 @@ reservations
 reset
 resharper
 resize
-resolution
 resolve
 resolve-stache
 resolve-template
@@ -5367,6 +5370,7 @@ resource_monitor
 resource_watcher
 resourceaccount
 resourcecontroller
+resourcegraph
 resourcegroup
 resourceid
 resourcekit
@@ -5646,6 +5650,7 @@ secretmanagement
 secretmanagementextension
 secrets
 secretsanta
+secretscanner
 secretserver
 secretsmanager
 secretvault
@@ -6227,6 +6232,7 @@ subscription
 subscriptiondefinition
 subset
 subsystem
+subtitle
 success
 successfactors
 sudo
@@ -6580,6 +6586,7 @@ treesize
 treffynnon
 trein
 trello
+trellops
 trend-micro
 trendmicro
 trevor
@@ -6594,7 +6601,6 @@ troubleshooting
 trouw
 truecrypt
 truenas
-truportal
 trusted
 trusted-host
 trustedhosts
@@ -6852,6 +6858,7 @@ vastlimits
 vault
 vaultextension
 vaultstore
+vb365
 vba
 vbaproject
 vbproj
