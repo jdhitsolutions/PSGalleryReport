@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Wednesday, 05 July 2023 02:21:12 UTC
+Updated: Wednesday, 05 July 2023 09:52:46 UTC
 
 ?:
 ??
@@ -3196,7 +3196,6 @@ iotcentral
 iothub
 iothubproperties
 ip
-ip-address
 ip-scanner
 ipa
 ipaddress
@@ -4802,6 +4801,7 @@ powertab
 powertoolcmdlets
 powertooldsc
 ppdm
+ppk
 pposh
 pps
 ppt
@@ -4874,7 +4874,6 @@ profile
 profiler
 profiles
 proget
-program
 program-association
 programs
 progress
@@ -6202,6 +6201,8 @@ streak
 stream
 streamanalytics
 streaming
+streamreader
+streamwriter
 stretch
 strictmode
 string
@@ -6748,7 +6749,6 @@ unified
 unifiedauditlog
 unifiedlabeling
 uninstall
-uninstaller
 union
 unique
 unique-files
