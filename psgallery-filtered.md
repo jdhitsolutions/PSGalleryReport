@@ -3,9 +3,41 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
-## [NTS.Tools.Application](https://www.powershellgallery.com/Packages/NTS.Tools.Application/1.0.0.0) | 1.0.0.0
+## [Thycotic.SecretServer](https://www.powershellgallery.com/Packages/Thycotic.SecretServer/0.61.2) | 0.61.2
 
-### Published: 07/05/2023 09:42:14 by Moritz Wiedmann
+### Published: 07/05/2023 15:54:27 by Delinea Professional Services
+
+Interact with the Secret Server REST API
+
+__Downloads__: 43,024 | __Repository__: https://github.com/thycotic-ps/thycotic.secretserver
+
+## [GraphEssentials](https://www.powershellgallery.com/Packages/GraphEssentials/0.0.30) | 0.0.30
+
+### Published: 07/05/2023 14:40:30 by Przemyslaw Klys
+
+GraphEssentials is a PowerShell module that helps with Office 365 / Azure AD using mostly Graph
+
+__Downloads__: 158 | __Repository__: 
+
+## [TD.Util](https://www.powershellgallery.com/Packages/TD.Util/0.1.35) | 0.1.35
+
+### Published: 07/05/2023 13:51:01 by Edwin Hagen
+
+Tedon Utilities module
+
+__Downloads__: 27,070 | __Repository__: https://github.com/ehagen/TD.Util
+
+## [NTS.Tools](https://www.powershellgallery.com/Packages/NTS.Tools/1.0.2.1) | 1.0.2.1
+
+### Published: 07/05/2023 12:18:27 by Moritz Wiedmann
+
+NTS.Tools module contains tools for ConfigMgr and course deployment
+
+__Downloads__: 1,038 | __Repository__: 
+
+## [NTS.Tools.Application](https://www.powershellgallery.com/Packages/NTS.Tools.Application/1.0.1.0) | 1.0.1.0
+
+### Published: 07/05/2023 12:17:51 by Moritz Wiedmann
 
 NTS.Tools.Application module contains functions to install applications
 
@@ -97,7 +129,7 @@ __Downloads__: 1,252 | __Repository__: https://github.com/EvotecIT/PSPublishModu
 
 PSWriteHTML is PowerShell Module to generate beautiful HTML reports, pages, emails without any knowledge of HTML, CSS or JavaScript. To get started basics PowerShell knowledge is required.
 
-__Downloads__: 1,808,932 | __Repository__: https://github.com/EvotecIT/PSWriteHTML
+__Downloads__: 1,808,832 | __Repository__: https://github.com/EvotecIT/PSWriteHTML
 
 ## [AppVeyorTestPsGallery](https://www.powershellgallery.com/Packages/AppVeyorTestPsGallery/1.0.503) | 1.0.503
 
@@ -275,7 +307,7 @@ __Downloads__: 1,058 | __Repository__:
 
 Module for PowerShell Universal.
 
-__Downloads__: 46,030 | __Repository__: https://ironmansoftware.com/powershell-universal
+__Downloads__: 46,031 | __Repository__: https://ironmansoftware.com/powershell-universal
 
 ## [Az.Adm](https://www.powershellgallery.com/Packages/Az.Adm/1.0.16) | 1.0.16
 
@@ -364,7 +396,7 @@ __Downloads__: 4 | __Repository__:
 
 The Devolutions.PowerShell module is a set of cmdlets that allow administrators to manage Remote Desktop Manager, Devolutions Server and Devolutions Hub Business using PowerShell. This module provides a simple and consistent interface for interacting with these products, making it easy to automate various tasks, such as creating and managing connections, sessions, and credentials, configuring security settings, and generating reports. The module can be easily integrated with other PowerShell modules, allowing administrators to automate tasks across multiple products and platforms, streamline their workflows and increase efficiency.
 
-__Downloads__: 3,080 | __Repository__: 
+__Downloads__: 3,081 | __Repository__: 
 
 ## [PowerProcess](https://www.powershellgallery.com/Packages/PowerProcess/0.2.0) | 0.2.0
 
@@ -413,7 +445,7 @@ __Downloads__: 10,043 | __Repository__: https://github.com/jdhitsolutions/ISEScr
 
 The PowerShell AI module integrates with the OpenAI API and let's you easily access the GPT models for text completion, image generation and more.
 
-__Downloads__: 9,760 | __Repository__: https://github.com/dfinke/PowerShellAI
+__Downloads__: 9,757 | __Repository__: https://github.com/dfinke/PowerShellAI
 
 ## [PowerAMT](https://www.powershellgallery.com/Packages/PowerAMT/1.2.2) | 1.2.2
 
@@ -445,7 +477,7 @@ __Downloads__: 327 | __Repository__: https://migrate.rivermeadow.com/
 
 Integrated CI/CD Solution for Microsoft Azure.
 
-__Downloads__: 1,431,954 | __Repository__: https://github.com/Azure/AzOps
+__Downloads__: 1,431,947 | __Repository__: https://github.com/Azure/AzOps
 
 ## [TelemetryHelper](https://www.powershellgallery.com/Packages/TelemetryHelper/2.1.2) | 2.1.2
 
@@ -501,7 +533,7 @@ __Downloads__: 5,857 | __Repository__: https://scripting.arcus-azure.net/
 
 Scripts related to Azure security
 
-__Downloads__: 9,815 | __Repository__: https://scripting.arcus-azure.net/
+__Downloads__: 9,814 | __Repository__: https://scripting.arcus-azure.net/
 
 ## [Arcus.Scripting.Management](https://www.powershellgallery.com/Packages/Arcus.Scripting.Management/1.1.0) | 1.1.0
 
@@ -517,7 +549,7 @@ __Downloads__: 89 | __Repository__: https://scripting.arcus-azure.net/
 
 Scripts related to Azure Logic Apps
 
-__Downloads__: 11,581 | __Repository__: https://scripting.arcus-azure.net/
+__Downloads__: 11,582 | __Repository__: https://scripting.arcus-azure.net/
 
 ## [Arcus.Scripting.KeyVault](https://www.powershellgallery.com/Packages/Arcus.Scripting.KeyVault/1.1.0) | 1.1.0
 
@@ -668,7 +700,7 @@ __Downloads__: 74 | __Repository__: https://github.com/HenriquedoVal/shellserver
 
 Create evergreen Windows image builds with the latest versions of applications. Evergreen is a simple PowerShell module that retrieves the latest version numbers and download URLs for various software products directly from the vendor source.
 
-__Downloads__: 1,728,919 | __Repository__: https://stealthpuppy.com/evergreen/
+__Downloads__: 1,728,874 | __Repository__: https://stealthpuppy.com/evergreen/
 
 ## [PSSailpoint](https://www.powershellgallery.com/Packages/PSSailpoint/1.1.1) | 1.1.1
 
@@ -685,14 +717,6 @@ __Downloads__: 329 | __Repository__:
 A PowerShell 7 module for managing work and personal tasks or to-do items. This module uses a SQLite database to store task and category information. The module is not a full-featured project management solution, but should be fine for personal needs. The module requires a 64-bit Windows platform.
 
 __Downloads__: 299 | __Repository__: https://github.com/jdhitsolutions/PSWorkItem
-
-## [verkadaModule](https://www.powershellgallery.com/Packages/verkadaModule/0.5.11) | 0.5.11
-
-### Published: 06/30/2023 17:14:31 by Brad Parker
-
-Verkada Module
-
-__Downloads__: 100 | __Repository__: https://github.com/bepsoccer/verkadaModule
 
 ## [SmallsOnline.TeamsAttendance.Pwsh](https://www.powershellgallery.com/Packages/SmallsOnline.TeamsAttendance.Pwsh/1.0.1) | 1.0.1
 
@@ -808,7 +832,7 @@ AADInternals allows you to export ADFS certificates, Azure AD Connect passwords,
 
 DISCLAIMER: Functionality provided through this module are not supported by Microsoft and thus should not be used in a production environment. Use on your own risk!
 
-__Downloads__: 62,653 | __Repository__: https://aadinternals.com/aadinternals
+__Downloads__: 62,646 | __Repository__: https://aadinternals.com/aadinternals
 
 ## [CAT](https://www.powershellgallery.com/Packages/CAT/0.14.6.2) | 0.14.6.2
 
@@ -824,7 +848,7 @@ __Downloads__: 120 | __Repository__: https://docs.justcat.it/
 
 Automation tools for production quality database deployment
 
-__Downloads__: 4,254,552 | __Repository__: https://www.red-gate.com/sca/productpage
+__Downloads__: 4,254,525 | __Repository__: https://www.red-gate.com/sca/productpage
 
 ## [Az.Avd](https://www.powershellgallery.com/Packages/Az.Avd/3.0.0) | 3.0.0
 
@@ -865,14 +889,6 @@ __Downloads__: 651 | __Repository__: https://github.com/silk-us/silkiscsi
 PowerShell module for configuring and optimizing Windows Server Routing and Remote Access Service (RRAS) for Always On VPN.
 
 __Downloads__: 1,435 | __Repository__: 
-
-## [TD.Util](https://www.powershellgallery.com/Packages/TD.Util/0.1.34) | 0.1.34
-
-### Published: 06/28/2023 19:48:45 by Edwin Hagen
-
-Tedon Utilities module
-
-__Downloads__: 27,070 | __Repository__: https://github.com/ehagen/TD.Util
 
 ## [PureStoragePowerShellToolkit](https://www.powershellgallery.com/Packages/PureStoragePowerShellToolkit/3.0.1) | 3.0.1
 
@@ -938,14 +954,6 @@ For a given GitHub Org, dump the membership & repository configuration to the fi
 
 __Downloads__: 27 | __Repository__: https://github.com/petervandivier/PsGitHubOrgMap
 
-## [NTS.Tools](https://www.powershellgallery.com/Packages/NTS.Tools/1.0.1.5) | 1.0.1.5
-
-### Published: 06/28/2023 14:46:14 by Moritz Wiedmann
-
-NTS.Tools module contains tools for ConfigMgr and course deployment
-
-__Downloads__: 1,038 | __Repository__: 
-
 ## [NTS.Tools.MSSQL](https://www.powershellgallery.com/Packages/NTS.Tools.MSSQL/1.0.0.8) | 1.0.0.8
 
 ### Published: 06/28/2023 14:45:20 by Moritz Wiedmann
@@ -1001,7 +1009,7 @@ __Downloads__: 6,842 | __Repository__: https://github.com/rmbolger/Posh-ACME
 
 ACME protocol client for obtaining certificates using Let's Encrypt (or other ACME compliant CA)
 
-__Downloads__: 1,053,137 | __Repository__: https://github.com/rmbolger/Posh-ACME
+__Downloads__: 1,053,118 | __Repository__: https://github.com/rmbolger/Posh-ACME
 
 ## [HPEBIOSCmdlets](https://www.powershellgallery.com/Packages/HPEBIOSCmdlets/3.1.0.0) | 3.1.0.0
 
@@ -1009,7 +1017,7 @@ __Downloads__: 1,053,137 | __Repository__: https://github.com/rmbolger/Posh-ACME
 
 Scripting Tools for Windows PowerShell : BIOS Cmdlets creates an interface to HPE BIOS ROM-Based Setup Utility (RBSU) or UEFI System Utilities. These cmdlets can be used to configure the BIOS settings on HPE ProLiant servers.
 
-__Downloads__: 88,828 | __Repository__: https://www.hpe.com/servers/powershell
+__Downloads__: 88,826 | __Repository__: https://www.hpe.com/servers/powershell
 
 ## [PSParallelPipeline](https://www.powershellgallery.com/Packages/PSParallelPipeline/1.1.2) | 1.1.2
 
@@ -2028,12 +2036,4 @@ This modules provides Cmdlets for OCI Ailanguage Service
 
 __Downloads__: 3,720 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-## [OCI.PSModules.Aidocument](https://www.powershellgallery.com/Packages/OCI.PSModules.Aidocument/60.2.0) | 60.2.0
-
-### Published: 06/27/2023 18:58:58 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Aidocument Service
-
-__Downloads__: 703 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-*Updated: Wednesday, 05 July 2023 09:52:34 UTC*
+*Updated: Wednesday, 05 July 2023 17:52:52 UTC*

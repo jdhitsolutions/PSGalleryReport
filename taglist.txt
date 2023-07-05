@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Wednesday, 05 July 2023 09:52:46 UTC
+Updated: Wednesday, 05 July 2023 17:53:05 UTC
 
 ?:
 ??
@@ -341,7 +341,6 @@ apachekafka
 api
 api-client
 api-gateway
-api-rest
 apichecks
 apiclient
 apigateway
@@ -2507,9 +2506,6 @@ freesoftwarefoundation
 freshbooks
 freshdesk
 freshservice
-freshservice-api
-freshserviceps
-freshworks
 friendly
 fritz
 fritzbox
@@ -3196,6 +3192,7 @@ iotcentral
 iothub
 iothubproperties
 ip
+ip-address
 ip-scanner
 ipa
 ipaddress
@@ -3686,7 +3683,6 @@ manageability
 managed-identity
 manageddisks
 managedidentities
-managedserviceidenity
 managedserviceidentity
 managedserviceprovider
 managedserviceproviders
@@ -3758,7 +3754,6 @@ md5sum
 mdac
 mdatp
 mdb
-mdbc
 mde
 mdm
 mdop
@@ -3807,7 +3802,6 @@ messaging
 messenger
 met
 metadata
-metadataservice
 metaprogramming
 method
 methodinfo
@@ -4665,7 +4659,6 @@ poem
 poetry
 point
 point-to-site
-pokeapi
 pokedex
 pokemon
 poker
@@ -4738,7 +4731,6 @@ powerbiembeddedcapacity
 powerbot
 powercli
 powercligoodies
-powerdex
 powerforensics
 powergraph
 powergui
@@ -4767,7 +4759,6 @@ powershell-module
 powershell-modules
 powershell-releases-api
 powershell-remoting
-powershell-script
 powershell-terminal
 powershell-terminal-copilot
 powershell-training
@@ -4874,6 +4865,7 @@ profile
 profiler
 profiles
 proget
+program
 program-association
 programs
 progress
@@ -5726,7 +5718,6 @@ sensitive
 sensitivity
 sensor
 sensors
-sensu
 sentinel
 sentinelone
 sep
@@ -6749,6 +6740,7 @@ unified
 unifiedauditlog
 unifiedlabeling
 uninstall
+uninstaller
 union
 unique
 unique-files
@@ -7145,7 +7137,6 @@ whiteboard
 whitespace
 whoami
 whois
-whormi
 wi-fi
 wia
 wia.imagefile
@@ -7181,7 +7172,6 @@ windows-environment
 windows-explorer
 windows-features
 windows-firewall
-windows-powershell
 windows-registry
 windows-remoting
 windows-server-2016
