@@ -3,6 +3,46 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [PSSVG](https://www.powershellgallery.com/Packages/PSSVG/0.2.9) | 0.2.9
+
+### Published: 07/04/2023 23:16:55 by James Brundage
+
+Script SVGs with PowerShell
+
+__Downloads__: 180 | __Repository__: https://github.com/StartAutomating/PSSVG
+
+## [HelperFunctions](https://www.powershellgallery.com/Packages/HelperFunctions/2.2.25) | 2.2.25
+
+### Published: 07/04/2023 20:21:38 by Heather Miller
+
+This module contains a number of functions PowerShell scripts and scriptlets that make it quicker to write new code utilizing functions to handle common methods.
+
+__Downloads__: 474 | __Repository__: https://github.com/hmiller10/HelperFunctions
+
+## [RiverMeadow.Migrate](https://www.powershellgallery.com/Packages/RiverMeadow.Migrate/1.0.115.253) | 1.0.115.253
+
+### Published: 07/04/2023 19:51:27 by RiverMeadow Engineering Team
+
+Provides cmdlets for starting migration of applications to supported clouds using the RiverMeadow platform.
+
+__Downloads__: 135 | __Repository__: https://migrate.rivermeadow.com/
+
+## [FpsBcDeployment](https://www.powershellgallery.com/Packages/FpsBcDeployment/1.0.23185.2) | 1.0.23185.2
+
+### Published: 07/04/2023 19:30:39 by rdannenberg
+
+This PS Module contains functions to deploy AL app files into On-premises Dynamics 365 Business Central environments.
+
+__Downloads__: 4,223 | __Repository__: 
+
+## [PSc8y](https://www.powershellgallery.com/Packages/PSc8y/2.35.0) | 2.35.0
+
+### Published: 07/04/2023 17:49:57 by Reuben Miller
+
+Cumulocity REST API
+
+__Downloads__: 2,330 | __Repository__: https://reubenmiller.github.io/go-c8y-cli
+
 ## [PSPublishModule](https://www.powershellgallery.com/Packages/PSPublishModule/1.5.0) | 1.5.0
 
 ### Published: 07/04/2023 17:37:51 by Przemyslaw Klys
@@ -17,7 +57,7 @@ __Downloads__: 1,252 | __Repository__: https://github.com/EvotecIT/PSPublishModu
 
 PSWriteHTML is PowerShell Module to generate beautiful HTML reports, pages, emails without any knowledge of HTML, CSS or JavaScript. To get started basics PowerShell knowledge is required.
 
-__Downloads__: 1,806,593 | __Repository__: https://github.com/EvotecIT/PSWriteHTML
+__Downloads__: 1,806,548 | __Repository__: https://github.com/EvotecIT/PSWriteHTML
 
 ## [AppVeyorTestPsGallery](https://www.powershellgallery.com/Packages/AppVeyorTestPsGallery/1.0.503) | 1.0.503
 
@@ -171,14 +211,6 @@ This PS Module contains functions necessary to use 4PS general tasks
 
 __Downloads__: 4,190 | __Repository__: 
 
-## [FpsBcDeployment](https://www.powershellgallery.com/Packages/FpsBcDeployment/1.0.23185.1) | 1.0.23185.1
-
-### Published: 07/04/2023 12:26:22 by rdannenberg
-
-This PS Module contains functions to deploy AL app files into On-premises Dynamics 365 Business Central environments.
-
-__Downloads__: 4,223 | __Repository__: 
-
 ## [AptecoPSFramework](https://www.powershellgallery.com/Packages/AptecoPSFramework/0.0.6) | 0.0.6
 
 ### Published: 07/04/2023 09:39:28 by florian.von.bracht@apteco.de
@@ -325,7 +357,7 @@ Carbon is a PowerShell module for automating the configuration Windows 7, 8, 200
 
 All functions are idempotent: when run multiple times with the same arguments, your system will be in the same state without failing or producing errors.
 
-__Downloads__: 62,714,274 | __Repository__: http://get-carbon.org/
+__Downloads__: 62,714,564 | __Repository__: http://get-carbon.org/
 
 ## [ISEScriptingGeek](https://www.powershellgallery.com/Packages/ISEScriptingGeek/3.5.0) | 3.5.0
 
@@ -373,7 +405,7 @@ __Downloads__: 327 | __Repository__: https://migrate.rivermeadow.com/
 
 Integrated CI/CD Solution for Microsoft Azure.
 
-__Downloads__: 1,430,349 | __Repository__: https://github.com/Azure/AzOps
+__Downloads__: 1,430,344 | __Repository__: https://github.com/Azure/AzOps
 
 ## [TelemetryHelper](https://www.powershellgallery.com/Packages/TelemetryHelper/2.1.2) | 2.1.2
 
@@ -557,7 +589,7 @@ __Downloads__: 19 | __Repository__: https://github.com/TobiasPSP/PSTemperatureMo
 
 Helper module for Active Directory with lots of useful functions that simplify supporting Active Directory.
 
-__Downloads__: 145,281 | __Repository__: https://github.com/EvotecIT/ADEssentials
+__Downloads__: 145,280 | __Repository__: https://github.com/EvotecIT/ADEssentials
 
 ## [HashCopy](https://www.powershellgallery.com/Packages/HashCopy/1.0.57) | 1.0.57
 
@@ -566,14 +598,6 @@ __Downloads__: 145,281 | __Repository__: https://github.com/EvotecIT/ADEssential
 A module for cmdlets related to performing copy operations based on computed hash values.
 
 __Downloads__: 10,600 | __Repository__: https://github.com/markwragg/Powershell-HashCopy
-
-## [HelperFunctions](https://www.powershellgallery.com/Packages/HelperFunctions/2.2.23) | 2.2.23
-
-### Published: 07/02/2023 02:57:29 by Heather Miller
-
-This module contains a number of functions PowerShell scripts and scriptlets that make it quicker to write new code utilizing functions to handle common methods.
-
-__Downloads__: 474 | __Repository__: https://github.com/hmiller10/HelperFunctions
 
 ## [MASES.KNetPS](https://www.powershellgallery.com/Packages/MASES.KNetPS/1.5.5) | 1.5.5
 
@@ -612,7 +636,7 @@ __Downloads__: 74 | __Repository__: https://github.com/HenriquedoVal/shellserver
 
 Create evergreen Windows image builds with the latest versions of applications. Evergreen is a simple PowerShell module that retrieves the latest version numbers and download URLs for various software products directly from the vendor source.
 
-__Downloads__: 1,727,406 | __Repository__: https://stealthpuppy.com/evergreen/
+__Downloads__: 1,727,377 | __Repository__: https://stealthpuppy.com/evergreen/
 
 ## [PSSailpoint](https://www.powershellgallery.com/Packages/PSSailpoint/1.1.1) | 1.1.1
 
@@ -752,7 +776,7 @@ AADInternals allows you to export ADFS certificates, Azure AD Connect passwords,
 
 DISCLAIMER: Functionality provided through this module are not supported by Microsoft and thus should not be used in a production environment. Use on your own risk!
 
-__Downloads__: 62,464 | __Repository__: https://aadinternals.com/aadinternals
+__Downloads__: 62,465 | __Repository__: https://aadinternals.com/aadinternals
 
 ## [CAT](https://www.powershellgallery.com/Packages/CAT/0.14.6.2) | 0.14.6.2
 
@@ -768,7 +792,7 @@ __Downloads__: 119 | __Repository__: https://docs.justcat.it/
 
 Automation tools for production quality database deployment
 
-__Downloads__: 4,252,306 | __Repository__: https://www.red-gate.com/sca/productpage
+__Downloads__: 4,252,261 | __Repository__: https://www.red-gate.com/sca/productpage
 
 ## [Az.Avd](https://www.powershellgallery.com/Packages/Az.Avd/3.0.0) | 3.0.0
 
@@ -816,7 +840,7 @@ __Downloads__: 1,435 | __Repository__:
 
 Tedon Utilities module
 
-__Downloads__: 26,998 | __Repository__: https://github.com/ehagen/TD.Util
+__Downloads__: 26,994 | __Repository__: https://github.com/ehagen/TD.Util
 
 ## [PureStoragePowerShellToolkit](https://www.powershellgallery.com/Packages/PureStoragePowerShellToolkit/3.0.1) | 3.0.1
 
@@ -939,21 +963,13 @@ This is a custom build intended allow compatibility with .NET 4.6.1. It should n
 
 __Downloads__: 6,842 | __Repository__: https://github.com/rmbolger/Posh-ACME
 
-## [RiverMeadow.Migrate](https://www.powershellgallery.com/Packages/RiverMeadow.Migrate/1.0.115.244) | 1.0.115.244
-
-### Published: 06/28/2023 06:41:07 by RiverMeadow Engineering Team
-
-Provides cmdlets for starting migration of applications to supported clouds using the RiverMeadow platform.
-
-__Downloads__: 135 | __Repository__: https://migrate.rivermeadow.com/
-
 ## [Posh-ACME](https://www.powershellgallery.com/Packages/Posh-ACME/4.18.0) | 4.18.0
 
 ### Published: 06/28/2023 06:35:52 by Ryan Bolger
 
 ACME protocol client for obtaining certificates using Let's Encrypt (or other ACME compliant CA)
 
-__Downloads__: 1,052,463 | __Repository__: https://github.com/rmbolger/Posh-ACME
+__Downloads__: 1,052,457 | __Repository__: https://github.com/rmbolger/Posh-ACME
 
 ## [HPEBIOSCmdlets](https://www.powershellgallery.com/Packages/HPEBIOSCmdlets/3.1.0.0) | 3.1.0.0
 
@@ -2020,20 +2036,4 @@ OCI Common module exports Cmdlets that manages features offered by OCI Modules f
 
 __Downloads__: 68,417 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-## [AdminByRequest](https://www.powershellgallery.com/Packages/AdminByRequest/1.0.2) | 1.0.2
-
-### Published: 06/27/2023 18:54:36 by Jarno Colombeen
-
-Module to interact with the Admin by Request API
-
-__Downloads__: 20 | __Repository__: https://github.com/colombeen/AdminByRequest
-
-## [RemoveTempFiles](https://www.powershellgallery.com/Packages/RemoveTempFiles/1.0.0) | 1.0.0
-
-### Published: 06/27/2023 16:23:49 by Prateek Mahendrakar
-
-Delete Temp Files.
-
-__Downloads__: 6 | __Repository__: https://github.com/pmahend1/PowershellScripts
-
-*Updated: Tuesday, 04 July 2023 17:52:28 UTC*
+*Updated: Wednesday, 05 July 2023 02:21:00 UTC*
