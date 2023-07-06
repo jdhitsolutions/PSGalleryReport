@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Wednesday, 05 July 2023 17:53:05 UTC
+Updated: Thursday, 06 July 2023 02:22:51 UTC
 
 ?:
 ??
@@ -79,7 +79,6 @@ abuseipdb
 acas
 accelerator
 access
-access-control
 access-points
 accesscontrol
 accesscontroldsc
@@ -341,6 +340,7 @@ apachekafka
 api
 api-client
 api-gateway
+api-rest
 apichecks
 apiclient
 apigateway
@@ -1159,7 +1159,6 @@ cloudpc
 cloudservice
 clueser
 cluster
-clusterminimumvalues
 clusterplugins
 cmaccounts
 cmake
@@ -1611,7 +1610,6 @@ dataplatform
 datapro
 dataprotection
 dataquality
-datarow
 datasafe
 datascience
 dataset
@@ -1903,7 +1901,6 @@ dotenv
 dotfile
 dotfiles
 dotnet
-dotnet-cli
 dotnettool
 dotps1
 dots
@@ -2292,7 +2289,6 @@ external
 externalip
 extract
 extractor
-extreme-networks
 eztheme
 f
 f#
@@ -2506,6 +2502,9 @@ freesoftwarefoundation
 freshbooks
 freshdesk
 freshservice
+freshservice-api
+freshserviceps
+freshworks
 friendly
 fritz
 fritzbox
@@ -3501,7 +3500,6 @@ linearalgebra
 link
 link-preview
 linkedin
-linkedservice
 linkedservicedependency
 linkid
 links
@@ -3683,6 +3681,7 @@ manageability
 managed-identity
 manageddisks
 managedidentities
+managedserviceidenity
 managedserviceidentity
 managedserviceprovider
 managedserviceproviders
@@ -3754,6 +3753,7 @@ md5sum
 mdac
 mdatp
 mdb
+mdbc
 mde
 mdm
 mdop
@@ -3802,6 +3802,7 @@ messaging
 messenger
 met
 metadata
+metadataservice
 metaprogramming
 method
 methodinfo
@@ -3885,7 +3886,6 @@ mitrend
 mittelschule
 mixedreality
 mixer
-mkdocs
 ml
 mlflow
 mmdc
@@ -4659,6 +4659,7 @@ poem
 poetry
 point
 point-to-site
+pokeapi
 pokedex
 pokemon
 poker
@@ -4731,6 +4732,7 @@ powerbiembeddedcapacity
 powerbot
 powercli
 powercligoodies
+powerdex
 powerforensics
 powergraph
 powergui
@@ -4759,6 +4761,7 @@ powershell-module
 powershell-modules
 powershell-releases-api
 powershell-remoting
+powershell-script
 powershell-terminal
 powershell-terminal-copilot
 powershell-training
@@ -4865,7 +4868,6 @@ profile
 profiler
 profiles
 proget
-program
 program-association
 programs
 progress
@@ -5181,7 +5183,6 @@ random-password
 random-password-generator
 randompassword
 randomuser
-randomusers
 ras
 raspberry-pi
 raspberrypi
@@ -5718,6 +5719,7 @@ sensitive
 sensitivity
 sensor
 sensors
+sensu
 sentinel
 sentinelone
 sep
@@ -5865,7 +5867,6 @@ simplecontainers
 simplepassword
 simplepasswordgenerator
 simplivity
-simplysql
 sin
 single
 singlestore
@@ -6433,7 +6434,6 @@ test-samcmpackageexists
 test-userisadministrator
 test-xml
 test123
-testaccount
 testautomation
 testimonial
 testing
@@ -6740,7 +6740,6 @@ unified
 unifiedauditlog
 unifiedlabeling
 uninstall
-uninstaller
 union
 unique
 unique-files
@@ -7137,6 +7136,7 @@ whiteboard
 whitespace
 whoami
 whois
+whormi
 wi-fi
 wia
 wia.imagefile
@@ -7172,6 +7172,7 @@ windows-environment
 windows-explorer
 windows-features
 windows-firewall
+windows-powershell
 windows-registry
 windows-remoting
 windows-server-2016
@@ -7367,7 +7368,6 @@ xiaomi
 xkcd
 xliff
 xlsx
-xmc
 xml
 xml-rpc
 xml-transform
