@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Thursday, 06 July 2023 09:52:47 UTC
+Updated: Thursday, 06 July 2023 17:52:49 UTC
 
 ?:
 ??
@@ -142,7 +142,6 @@ adapter-control
 adapters
 adaptivecards
 adb
-adc
 adcs
 add
 add-member
@@ -292,7 +291,6 @@ amazonmgn
 amazonwebservices
 amend
 ami
-amiga
 amp
 amqp
 amsi
@@ -341,6 +339,7 @@ apachekafka
 api
 api-client
 api-gateway
+api-rest
 apichecks
 apiclient
 apigateway
@@ -558,8 +557,6 @@ avatar
 avd
 ave
 avepoint
-avm
-avmtools
 avro
 avs
 avset
@@ -949,6 +946,7 @@ cavium
 cb
 cblueshell
 cbr
+cbz
 cchoco
 cchocoex
 ccm
@@ -994,7 +992,6 @@ certificates
 certificateservices
 certificatesmanagement
 certinia
-certutil
 cf
 cfn
 ch9
@@ -1012,6 +1009,7 @@ chat
 chatbot
 chatgpt
 chatops
+chatroom
 chatter
 cheat
 check
@@ -1036,7 +1034,6 @@ choco
 choco-bear
 chocobear
 chocolatey
-choice
 chooser
 christaylorcodes
 christmas
@@ -1370,6 +1367,7 @@ convertfrom
 convertfrom-yaml
 convertto
 convertto-excel
+convertto-hashtable
 convertto-yaml
 converttodocx
 converttohtml
@@ -1679,7 +1677,6 @@ defaults
 defence
 defender
 defender-atp
-defender-for-endpoint
 defenderast
 defenderforendpoint
 defense
@@ -2172,7 +2169,6 @@ ethr
 ethz
 etl
 etl2pcapng
-etrade
 ets
 etw
 eulanda
@@ -2289,6 +2285,7 @@ external
 externalip
 extract
 extractor
+extreme-networks
 eztheme
 f
 f#
@@ -2296,10 +2293,8 @@ f5
 facebook
 factoryorchestrator
 factoryorchestratorclient
-facts
 faf
 failedlogin
-failure
 falcon
 fallbackstatuspoint
 fanarttv
@@ -2358,7 +2353,6 @@ file-transform
 file-type
 file-type-association
 fileattributes
-fileencryption
 filelist
 filelog
 filelogger
@@ -2502,9 +2496,10 @@ freesoftwarefoundation
 freshbooks
 freshdesk
 freshservice
+freshservice-api
+freshserviceps
+freshworks
 friendly
-fritz
-fritzbox
 front
 frontapp
 frontdoor
@@ -2699,8 +2694,6 @@ gping
 gpio
 gplink
 gpo
-gpo-maintenance
-gpo-tools
 gpodoc
 gpolinks
 gpp
@@ -2908,7 +2901,6 @@ hpc
 hpcc
 hpccache
 hpe
-hpealletra6000andnimblestoragepowershelltoolkit
 hpebioscmdlets
 hpeilocmdlets
 hpemigrationadvisorycmdlets
@@ -3252,7 +3244,6 @@ ivb
 ivdc
 iwi
 j
-j81-blog
 japanese
 jar
 jav
@@ -3345,7 +3336,6 @@ keybase
 keybinding
 keyboard
 keyboardstartkey
-keycipher
 keylight
 keymanagement
 keymap
@@ -3519,7 +3509,6 @@ listener
 litecoin
 litedb
 literature
-live
 lldp
 lmhost
 lmhosts
@@ -3711,6 +3700,7 @@ marketo
 marketplace
 marketplaceordering
 marking
+marklogic
 marquee
 marvel
 marvell
@@ -3767,7 +3757,6 @@ mediant
 mediaplayer
 mediaservices
 mediawiki
-meditation
 meeting
 meetup
 meetup.com
@@ -3848,6 +3837,7 @@ microsofthealth
 microsoftintune
 microsoftmvp
 microsoftoffice
+microsoftonline
 microsoftstaffhub
 microsoftstore
 microsoftteams
@@ -3901,7 +3891,6 @@ moduleupdate
 moduleupdateinfo
 moduleupdater
 moduleversion
-mof
 moldova
 moment
 monaco
@@ -4028,7 +4017,6 @@ myitprocess
 myjson
 myjson.com
 myob
-myposh
 mysql
 mysql-database
 mytest
@@ -4050,7 +4038,6 @@ nanoleaf
 nartac
 nasdaq
 native
-natpool
 natural-language-to-code
 natural-selection
 nav
@@ -4424,6 +4411,7 @@ oui-search
 out-consolegridview
 out-default
 out-gridview
+out-json
 outerjoin
 outertext
 outline
@@ -4509,7 +4497,6 @@ passwordexpiry
 passwordgeneration
 passwordgenerator
 passwordgenerators
-passwordhashing
 passwordlock
 passwordlockoutreport
 passwordmanagement
@@ -4593,7 +4580,6 @@ photos
 php
 phpapam
 pi
-picker
 picture
 pictures
 pid
@@ -4756,6 +4742,7 @@ powershell-module
 powershell-modules
 powershell-releases-api
 powershell-remoting
+powershell-script
 powershell-terminal
 powershell-terminal-copilot
 powershell-training
@@ -4789,6 +4776,7 @@ powertab
 powertoolcmdlets
 powertooldsc
 ppdm
+ppk
 pposh
 pps
 ppt
@@ -5029,6 +5017,7 @@ psraw
 psreadexif
 psreadline
 psremoting
+psrepository
 psrule
 psrule-rules
 pssa
@@ -5279,7 +5268,6 @@ register-argumentcompleter
 registration
 registry
 regression
-regularexpression
 regularexpressions
 reinstall
 relational
@@ -5505,7 +5493,6 @@ safari
 safe
 safeguard
 sage
-saggiehaim
 sailpoint
 sale
 sales
@@ -5931,6 +5918,7 @@ smtpoauth
 smtpsasl
 smtpsecure
 snap
+snapchat
 snapping
 snapshot
 snapshots
@@ -6421,9 +6409,11 @@ test
 test-dscconfiguration
 test-internetconnection
 test-modulepath
+test-osplatform
 test-psremoting
 test-samcmapplicationexists
 test-samcmpackageexists
+test-userisadministrator
 test-xml
 test123
 testaccount
@@ -6496,7 +6486,6 @@ timesheets
 timespan
 timezone
 tinkerpop
-tinymce
 tips
 title
 tls
@@ -6537,8 +6526,6 @@ touch
 toughswitch
 tphubps
 tpp
-tr-064
-tr064
 trace
 traceevent
 tracer
@@ -7166,6 +7153,7 @@ windows-environment
 windows-explorer
 windows-features
 windows-firewall
+windows-powershell
 windows-registry
 windows-remoting
 windows-server-2016
@@ -7361,6 +7349,7 @@ xiaomi
 xkcd
 xliff
 xlsx
+xmc
 xml
 xml-rpc
 xml-transform
