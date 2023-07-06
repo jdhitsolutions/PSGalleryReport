@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Thursday, 06 July 2023 02:22:51 UTC
+Updated: Thursday, 06 July 2023 09:52:47 UTC
 
 ?:
 ??
@@ -79,6 +79,7 @@ abuseipdb
 acas
 accelerator
 access
+access-control
 access-points
 accesscontrol
 accesscontroldsc
@@ -340,7 +341,6 @@ apachekafka
 api
 api-client
 api-gateway
-api-rest
 apichecks
 apiclient
 apigateway
@@ -949,7 +949,6 @@ cavium
 cb
 cblueshell
 cbr
-cbz
 cchoco
 cchocoex
 ccm
@@ -1013,7 +1012,6 @@ chat
 chatbot
 chatgpt
 chatops
-chatroom
 chatter
 cheat
 check
@@ -1159,6 +1157,7 @@ cloudpc
 cloudservice
 clueser
 cluster
+clusterminimumvalues
 clusterplugins
 cmaccounts
 cmake
@@ -1371,7 +1370,6 @@ convertfrom
 convertfrom-yaml
 convertto
 convertto-excel
-convertto-hashtable
 convertto-yaml
 converttodocx
 converttohtml
@@ -1610,6 +1608,7 @@ dataplatform
 datapro
 dataprotection
 dataquality
+datarow
 datasafe
 datascience
 dataset
@@ -1901,6 +1900,7 @@ dotenv
 dotfile
 dotfiles
 dotnet
+dotnet-cli
 dotnettool
 dotps1
 dots
@@ -2502,9 +2502,6 @@ freesoftwarefoundation
 freshbooks
 freshdesk
 freshservice
-freshservice-api
-freshserviceps
-freshworks
 friendly
 fritz
 fritzbox
@@ -3500,6 +3497,7 @@ linearalgebra
 link
 link-preview
 linkedin
+linkedservice
 linkedservicedependency
 linkid
 links
@@ -3713,7 +3711,6 @@ marketo
 marketplace
 marketplaceordering
 marking
-marklogic
 marquee
 marvel
 marvell
@@ -3851,7 +3848,6 @@ microsofthealth
 microsoftintune
 microsoftmvp
 microsoftoffice
-microsoftonline
 microsoftstaffhub
 microsoftstore
 microsoftteams
@@ -3882,10 +3878,10 @@ miscellaneous
 mitigation
 mitre
 mitre_att&ck
-mitrend
 mittelschule
 mixedreality
 mixer
+mkdocs
 ml
 mlflow
 mmdc
@@ -4428,7 +4424,6 @@ oui-search
 out-consolegridview
 out-default
 out-gridview
-out-json
 outerjoin
 outertext
 outline
@@ -4761,7 +4756,6 @@ powershell-module
 powershell-modules
 powershell-releases-api
 powershell-remoting
-powershell-script
 powershell-terminal
 powershell-terminal-copilot
 powershell-training
@@ -4795,7 +4789,6 @@ powertab
 powertoolcmdlets
 powertooldsc
 ppdm
-ppk
 pposh
 pps
 ppt
@@ -4868,6 +4861,7 @@ profile
 profiler
 profiles
 proget
+program
 program-association
 programs
 progress
@@ -5035,7 +5029,6 @@ psraw
 psreadexif
 psreadline
 psremoting
-psrepository
 psrule
 psrule-rules
 pssa
@@ -5183,6 +5176,7 @@ random-password
 random-password-generator
 randompassword
 randomuser
+randomusers
 ras
 raspberry-pi
 raspberrypi
@@ -5867,6 +5861,7 @@ simplecontainers
 simplepassword
 simplepasswordgenerator
 simplivity
+simplysql
 sin
 single
 singlestore
@@ -5936,7 +5931,6 @@ smtpoauth
 smtpsasl
 smtpsecure
 snap
-snapchat
 snapping
 snapshot
 snapshots
@@ -6427,13 +6421,12 @@ test
 test-dscconfiguration
 test-internetconnection
 test-modulepath
-test-osplatform
 test-psremoting
 test-samcmapplicationexists
 test-samcmpackageexists
-test-userisadministrator
 test-xml
 test123
+testaccount
 testautomation
 testimonial
 testing
@@ -6740,6 +6733,7 @@ unified
 unifiedauditlog
 unifiedlabeling
 uninstall
+uninstaller
 union
 unique
 unique-files
@@ -7172,7 +7166,6 @@ windows-environment
 windows-explorer
 windows-features
 windows-firewall
-windows-powershell
 windows-registry
 windows-remoting
 windows-server-2016
