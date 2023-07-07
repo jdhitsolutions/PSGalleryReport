@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Friday, 07 July 2023 02:22:06 UTC
+Updated: Friday, 07 July 2023 09:53:33 UTC
 
 ?:
 ??
@@ -68,7 +68,6 @@ aadsecurity
 aadsts
 aam
 aas
-abc
 abc_testing
 abe
 about
@@ -425,6 +424,7 @@ arcus
 area
 arg
 argument
+argumentcompleter
 arguments
 arm
 arm-json
@@ -622,7 +622,6 @@ azuread
 azureadbackupandrestore
 azureadconnect
 azureadgraph
-azureadtoolkit
 azureappconfiguration
 azurearc
 azureas
@@ -671,7 +670,6 @@ azuresqlexport
 azuresqlimport
 azuressas
 azurestack
-azurestackhci
 azurestate
 azurestorage
 azurestorageservices
@@ -849,6 +847,7 @@ britannicaknowledgesystems
 british-gas
 brk4452
 broadcast
+broadcom
 broot
 brownserve-uk
 browser
@@ -994,6 +993,7 @@ certificates
 certificateservices
 certificatesmanagement
 certinia
+certutil
 cf
 cfn
 ch9
@@ -1137,7 +1137,6 @@ cloudbees
 cloudberry
 cloudblue
 cloudbolt
-cloudbridge
 cloudendure
 cloudevents
 cloudflare
@@ -1378,6 +1377,8 @@ converttomarkdown
 converttomd
 cookie
 coolq
+cooltag1
+cooltag2
 coordinates
 copilot
 copy
@@ -1670,7 +1671,6 @@ deep-security
 deep-security-manager
 deepl
 deepvisibility
-def
 default
 defaultparameter
 defaultroutes
@@ -1679,6 +1679,7 @@ defence
 defender
 defender-atp
 defender-for-endpoint
+defenderast
 defenderforendpoint
 defense
 deflate
@@ -2357,6 +2358,7 @@ file-transform
 file-type
 file-type-association
 fileattributes
+fileencryption
 filelist
 filelog
 filelogger
@@ -2399,6 +2401,7 @@ finance&operations
 financeandoperations
 financeoperations
 financial
+financialedge
 financials
 find
 find-call
@@ -2826,7 +2829,6 @@ heartbeatdiscovery
 heat
 heating
 heavenbay
-helium
 helix
 hello
 helloid
@@ -3344,6 +3346,7 @@ keybase
 keybinding
 keyboard
 keyboardstartkey
+keycipher
 keylight
 keymanagement
 keymap
@@ -3452,6 +3455,7 @@ lease
 leetabit
 leftjoin
 legacy
+legacyad
 legends
 lego
 lein
@@ -3472,6 +3476,7 @@ licence
 license
 license-generator
 licenseautomation
+licensemanagement
 licensemanager
 licensereport
 licenses
@@ -3789,7 +3794,6 @@ mercurial
 merge
 mermaid
 message
-messagebox
 messageoftheday
 messages
 messaging
@@ -3858,6 +3862,7 @@ migration-tool
 migrations
 milestone
 milestonepstools
+mim
 mime
 mimekit
 min
@@ -4145,7 +4150,6 @@ ninjaone
 ninjarmm
 nios
 nitrox
-njclipsh
 nl
 nla
 nlm
@@ -4363,7 +4367,6 @@ operationsmanagementsuiteagent
 operationvalidation
 operatoraccesscontrol
 operators
-opml
 ops
 opsi
 opsmgr
@@ -4425,7 +4428,6 @@ out-gridview
 out-json
 outerjoin
 outertext
-outline
 outlook
 output
 output-to-image
@@ -4508,6 +4510,7 @@ passwordexpiry
 passwordgeneration
 passwordgenerator
 passwordgenerators
+passwordhashing
 passwordlock
 passwordlockoutreport
 passwordmanagement
@@ -4570,6 +4573,7 @@ personal
 personalisation
 personalization
 personalvault
+personio
 pester
 pf
 pfe
@@ -4601,7 +4605,6 @@ ping
 ping-async
 pingsweep
 pinneditem
-pinterest
 pinvoke
 pip
 pipe
@@ -4787,6 +4790,7 @@ powertab
 powertoolcmdlets
 powertooldsc
 ppdm
+ppk
 pposh
 pps
 ppt
@@ -5013,6 +5017,7 @@ psngenposh
 psobject
 psoutlog
 pspath
+pspersonio
 pspowerhour
 psprofiler
 psproject
@@ -5164,6 +5169,7 @@ radio
 raidcontrollercmdlets
 rainbow
 raisers
+raisersedge
 raj
 ram
 ram-it
@@ -5215,6 +5221,7 @@ readme
 readpdf
 readthedocs
 realschule
+realtimeprotection
 rebase
 reboot
 rebootnodeifneeded
@@ -5534,7 +5541,6 @@ satirical
 save
 savedcreds
 savefile
-savings
 savov
 sbc
 sc
@@ -5578,7 +5584,6 @@ scissors
 scm
 scmanager
 scom
-sconfig
 scoop
 scope
 score
@@ -5826,6 +5831,7 @@ shlink
 shodan
 shodanps
 shop
+shopify
 shortcut
 shortcuts
 shortpath
@@ -5833,6 +5839,7 @@ shotgun
 show
 show-command
 show-on-command
+showdemo
 showoncommand
 shred
 shutdown
@@ -5883,6 +5890,7 @@ skolnilogin
 sku
 skunklab
 sky
+skyapi
 skype
 skype_for_business
 skype4b
@@ -5995,7 +6003,6 @@ spacex
 spam
 spanner
 spark
-sparkline
 sparklines
 spawn
 spdockit
@@ -6271,7 +6278,6 @@ symmetric
 synapse
 sync
 synchronization
-synchronize
 syndication
 synergy
 syntax
@@ -6318,6 +6324,7 @@ tab-completion
 tab-expansion
 tabcompletion
 tabexpansion
+tabexpansion2
 tablacus
 table
 tableau
@@ -6901,6 +6908,7 @@ vie
 viewer
 viewgroup
 vigenere
+vim
 vimode
 virole
 virsh
@@ -7211,7 +7219,6 @@ windowstimezone
 windowsupdate
 windowsupdates
 windowsvirtualdesktop
-winform
 winforms
 winget
 wingetbridge
@@ -7372,6 +7379,7 @@ xpo
 xprotect
 xpt
 xrm
+xsa
 xtremio
 xtrude
 xunit
@@ -7385,7 +7393,6 @@ yandex
 yapg
 yarn
 yetanotherhelloworld
-yml
 ynab
 youtube
 youtube-dl
