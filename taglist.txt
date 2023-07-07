@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Thursday, 06 July 2023 17:52:49 UTC
+Updated: Friday, 07 July 2023 02:22:06 UTC
 
 ?:
 ??
@@ -142,6 +142,7 @@ adapter-control
 adapters
 adaptivecards
 adb
+adc
 adcs
 add
 add-member
@@ -291,6 +292,7 @@ amazonmgn
 amazonwebservices
 amend
 ami
+amiga
 amp
 amqp
 amsi
@@ -423,7 +425,6 @@ arcus
 area
 arg
 argument
-argumentcompleter
 arguments
 arm
 arm-json
@@ -557,6 +558,8 @@ avatar
 avd
 ave
 avepoint
+avm
+avmtools
 avro
 avs
 avset
@@ -846,7 +849,6 @@ britannicaknowledgesystems
 british-gas
 brk4452
 broadcast
-broadcom
 broot
 brownserve-uk
 browser
@@ -1034,6 +1036,7 @@ choco
 choco-bear
 chocobear
 chocolatey
+choice
 chooser
 christaylorcodes
 christmas
@@ -1375,8 +1378,6 @@ converttomarkdown
 converttomd
 cookie
 coolq
-cooltag1
-cooltag2
 coordinates
 copilot
 copy
@@ -1677,7 +1678,7 @@ defaults
 defence
 defender
 defender-atp
-defenderast
+defender-for-endpoint
 defenderforendpoint
 defense
 deflate
@@ -2169,6 +2170,7 @@ ethr
 ethz
 etl
 etl2pcapng
+etrade
 ets
 etw
 eulanda
@@ -2293,8 +2295,10 @@ f5
 facebook
 factoryorchestrator
 factoryorchestratorclient
+facts
 faf
 failedlogin
+failure
 falcon
 fallbackstatuspoint
 fanarttv
@@ -2395,7 +2399,6 @@ finance&operations
 financeandoperations
 financeoperations
 financial
-financialedge
 financials
 find
 find-call
@@ -2500,6 +2503,8 @@ freshservice-api
 freshserviceps
 freshworks
 friendly
+fritz
+fritzbox
 front
 frontapp
 frontdoor
@@ -2550,7 +2555,6 @@ gateway
 gauge
 gavin
 gavineke
-gc
 gcbdr
 gce
 gci
@@ -2694,6 +2698,8 @@ gping
 gpio
 gplink
 gpo
+gpo-maintenance
+gpo-tools
 gpodoc
 gpolinks
 gpp
@@ -2901,6 +2907,7 @@ hpc
 hpcc
 hpccache
 hpe
+hpealletra6000andnimblestoragepowershelltoolkit
 hpebioscmdlets
 hpeilocmdlets
 hpemigrationadvisorycmdlets
@@ -3244,6 +3251,7 @@ ivb
 ivdc
 iwi
 j
+j81-blog
 japanese
 jar
 jav
@@ -3444,7 +3452,6 @@ lease
 leetabit
 leftjoin
 legacy
-legacyad
 legends
 lego
 lein
@@ -3465,7 +3472,6 @@ licence
 license
 license-generator
 licenseautomation
-licensemanagement
 licensemanager
 licensereport
 licenses
@@ -3509,6 +3515,7 @@ listener
 litecoin
 litedb
 literature
+live
 lldp
 lmhost
 lmhosts
@@ -3757,6 +3764,7 @@ mediant
 mediaplayer
 mediaservices
 mediawiki
+meditation
 meeting
 meetup
 meetup.com
@@ -3850,7 +3858,6 @@ migration-tool
 migrations
 milestone
 milestonepstools
-mim
 mime
 mimekit
 min
@@ -3868,6 +3875,7 @@ miscellaneous
 mitigation
 mitre
 mitre_att&ck
+mitrend
 mittelschule
 mixedreality
 mixer
@@ -3891,6 +3899,7 @@ moduleupdate
 moduleupdateinfo
 moduleupdater
 moduleversion
+mof
 moldova
 moment
 monaco
@@ -4017,6 +4026,7 @@ myitprocess
 myjson
 myjson.com
 myob
+myposh
 mysql
 mysql-database
 mytest
@@ -4038,6 +4048,7 @@ nanoleaf
 nartac
 nasdaq
 native
+natpool
 natural-language-to-code
 natural-selection
 nav
@@ -4559,7 +4570,6 @@ personal
 personalisation
 personalization
 personalvault
-personio
 pester
 pf
 pfe
@@ -4580,6 +4590,7 @@ photos
 php
 phpapam
 pi
+picker
 picture
 pictures
 pid
@@ -4776,7 +4787,6 @@ powertab
 powertoolcmdlets
 powertooldsc
 ppdm
-ppk
 pposh
 pps
 ppt
@@ -5003,7 +5013,6 @@ psngenposh
 psobject
 psoutlog
 pspath
-pspersonio
 pspowerhour
 psprofiler
 psproject
@@ -5155,7 +5164,6 @@ radio
 raidcontrollercmdlets
 rainbow
 raisers
-raisersedge
 raj
 ram
 ram-it
@@ -5207,7 +5215,6 @@ readme
 readpdf
 readthedocs
 realschule
-realtimeprotection
 rebase
 reboot
 rebootnodeifneeded
@@ -5268,6 +5275,7 @@ register-argumentcompleter
 registration
 registry
 regression
+regularexpression
 regularexpressions
 reinstall
 relational
@@ -5493,6 +5501,7 @@ safari
 safe
 safeguard
 sage
+saggiehaim
 sailpoint
 sale
 sales
@@ -5817,7 +5826,6 @@ shlink
 shodan
 shodanps
 shop
-shopify
 shortcut
 shortcuts
 shortpath
@@ -5825,7 +5833,6 @@ shotgun
 show
 show-command
 show-on-command
-showdemo
 showoncommand
 shred
 shutdown
@@ -5876,7 +5883,6 @@ skolnilogin
 sku
 skunklab
 sky
-skyapi
 skype
 skype_for_business
 skype4b
@@ -6312,7 +6318,6 @@ tab-completion
 tab-expansion
 tabcompletion
 tabexpansion
-tabexpansion2
 tablacus
 table
 tableau
@@ -6486,6 +6491,7 @@ timesheets
 timespan
 timezone
 tinkerpop
+tinymce
 tips
 title
 tls
@@ -6526,6 +6532,8 @@ touch
 toughswitch
 tphubps
 tpp
+tr-064
+tr064
 trace
 traceevent
 tracer
@@ -6893,7 +6901,6 @@ vie
 viewer
 viewgroup
 vigenere
-vim
 vimode
 virole
 virsh
@@ -7365,7 +7372,6 @@ xpo
 xprotect
 xpt
 xrm
-xsa
 xtremio
 xtrude
 xunit
