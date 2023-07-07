@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Friday, 07 July 2023 09:53:33 UTC
+Updated: Friday, 07 July 2023 17:52:56 UTC
 
 ?:
 ??
@@ -68,6 +68,7 @@ aadsecurity
 aadsts
 aam
 aas
+abc
 abc_testing
 abe
 about
@@ -558,8 +559,6 @@ avatar
 avd
 ave
 avepoint
-avm
-avmtools
 avro
 avs
 avset
@@ -622,6 +621,7 @@ azuread
 azureadbackupandrestore
 azureadconnect
 azureadgraph
+azureadtoolkit
 azureappconfiguration
 azurearc
 azureas
@@ -670,6 +670,7 @@ azuresqlexport
 azuresqlimport
 azuressas
 azurestack
+azurestackhci
 azurestate
 azurestorage
 azurestorageservices
@@ -774,7 +775,6 @@ bitbucketpipelines
 bitcoin
 bitlocker
 bitwarden
-bitwig
 bitwise
 biztalk
 biztalkalm
@@ -803,7 +803,6 @@ blueprints
 blueteam
 bluetraitio
 bmc
-bnm
 boards
 bofh
 boilerplate
@@ -1075,6 +1074,7 @@ ciscoucsdsc
 citation
 cite
 citrix
+citrixoptimizer
 civo
 cix
 class
@@ -1137,6 +1137,7 @@ cloudbees
 cloudberry
 cloudblue
 cloudbolt
+cloudbridge
 cloudendure
 cloudevents
 cloudflare
@@ -1671,6 +1672,7 @@ deep-security
 deep-security-manager
 deepl
 deepvisibility
+def
 default
 defaultparameter
 defaultroutes
@@ -2506,8 +2508,6 @@ freshservice-api
 freshserviceps
 freshworks
 friendly
-fritz
-fritzbox
 front
 frontapp
 frontdoor
@@ -2558,6 +2558,7 @@ gateway
 gauge
 gavin
 gavineke
+gc
 gcbdr
 gce
 gci
@@ -2829,6 +2830,7 @@ heartbeatdiscovery
 heat
 heating
 heavenbay
+helium
 helix
 hello
 helloid
@@ -3794,6 +3796,7 @@ mercurial
 merge
 mermaid
 message
+messagebox
 messageoftheday
 messages
 messaging
@@ -3905,7 +3908,6 @@ moduleupdateinfo
 moduleupdater
 moduleversion
 mof
-moldova
 moment
 monaco
 monday
@@ -4058,7 +4060,6 @@ natural-language-to-code
 natural-selection
 nav
 navigation
-nbi
 ncal
 ndes
 nebulon
@@ -4150,6 +4151,7 @@ ninjaone
 ninjarmm
 nios
 nitrox
+njclipsh
 nl
 nla
 nlm
@@ -4290,7 +4292,6 @@ ole
 oledb
 omaha
 ome
-omnisphere
 omnistack
 oms
 omsagent
@@ -4367,6 +4368,7 @@ operationsmanagementsuiteagent
 operationvalidation
 operatoraccesscontrol
 operators
+opml
 ops
 opsi
 opsmgr
@@ -4405,7 +4407,6 @@ osdsus
 osdupdate
 osi
 osmanagement
-osmanagementhub
 osp
 ospgateway
 osprovision
@@ -4428,6 +4429,7 @@ out-gridview
 out-json
 outerjoin
 outertext
+outline
 outlook
 output
 output-to-image
@@ -4605,6 +4607,7 @@ ping
 ping-async
 pingsweep
 pinneditem
+pinterest
 pinvoke
 pip
 pipe
@@ -4803,7 +4806,6 @@ prediction
 predictive
 predictive-text
 predictor
-preferences
 prefix
 preparead
 preparealldomains
@@ -5221,7 +5223,6 @@ readme
 readpdf
 readthedocs
 realschule
-realtimeprotection
 rebase
 reboot
 rebootnodeifneeded
@@ -5277,7 +5278,6 @@ regex
 region
 regions
 regiser-argumentcompleter
-register
 register-argumentcompleter
 registration
 registry
@@ -5474,7 +5474,6 @@ rt
 rtu
 rubber
 rubrik
-ruby
 rule
 rulesengine
 run
@@ -5541,6 +5540,7 @@ satirical
 save
 savedcreds
 savefile
+savings
 savov
 sbc
 sc
@@ -5584,6 +5584,7 @@ scissors
 scm
 scmanager
 scom
+sconfig
 scoop
 scope
 score
@@ -6003,6 +6004,7 @@ spacex
 spam
 spanner
 spark
+sparkline
 sparklines
 spawn
 spdockit
@@ -6029,7 +6031,6 @@ spelling
 spf
 spi
 spicetify
-spinnaker
 splash
 splat
 splatting
@@ -6278,6 +6279,7 @@ symmetric
 synapse
 sync
 synchronization
+synchronize
 syndication
 synergy
 syntax
@@ -6435,7 +6437,6 @@ testing
 testlab
 testplans
 tests
-testsuite
 testtag1
 testtag2
 testtool
@@ -6525,7 +6526,6 @@ toolkit
 tools
 tools4ever
 topdesk
-topgrade
 topics
 topology
 tor
@@ -6539,8 +6539,6 @@ touch
 toughswitch
 tphubps
 tpp
-tr-064
-tr064
 trace
 traceevent
 tracer
@@ -6778,7 +6776,6 @@ ups
 upsource
 upstream
 uptime
-uptimerobot
 uptobox
 uri
 uri-scheme
@@ -6791,7 +6788,6 @@ urlredirections
 urlrewrite
 urlscan
 urlupdate
-uru
 usage
 usageaggregates
 usageapi
@@ -6882,7 +6878,6 @@ veeam
 veeampn
 veeva
 venafi
-vencord
 vendor
 venue
 venvlink
@@ -7020,7 +7015,6 @@ vsphere+
 vss
 vssetup
 vsshell
-vst
 vsteambuilder
 vsteams
 vstest
@@ -7219,6 +7213,7 @@ windowstimezone
 windowsupdate
 windowsupdates
 windowsvirtualdesktop
+winform
 winforms
 winget
 wingetbridge
@@ -7358,7 +7353,6 @@ xendesktop
 xero
 xevents
 xh
-xi
 xiaomi
 xkcd
 xliff
@@ -7381,7 +7375,6 @@ xpt
 xrm
 xsa
 xtremio
-xtrude
 xunit
 xwiki
 xwindowsupdate
@@ -7393,6 +7386,7 @@ yandex
 yapg
 yarn
 yetanotherhelloworld
+yml
 ynab
 youtube
 youtube-dl
