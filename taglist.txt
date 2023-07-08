@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Saturday, 08 July 2023 02:21:06 UTC
+Updated: Saturday, 08 July 2023 09:54:08 UTC
 
 ?:
 ??
@@ -206,7 +206,6 @@ adv190013
 adv220002
 advanced
 advapi32
-advice
 advisor
 adwords
 adx
@@ -247,7 +246,6 @@ aka.ms
 aks
 aks-hci
 akscluster
-al
 alac
 alarm
 albums
@@ -396,6 +394,7 @@ appv
 appveyor
 appvolumes
 appx
+appxmanifest
 aprs
 aprs-is
 aprsis
@@ -546,7 +545,6 @@ autostart
 autotask
 autotaskapi
 autotaskpsa
-autounattend
 autoupdate
 autoupdate-script
 autoyast
@@ -716,7 +714,6 @@ battery
 bayern
 bb
 bbp
-bc
 bcd
 bcdedit
 bd
@@ -1074,8 +1071,6 @@ cis
 cisco
 ciscoucscmdlets
 ciscoucsdsc
-citation
-cite
 citrix
 citrixoptimizer
 civo
@@ -1474,7 +1469,6 @@ crossover
 crossplatform
 crossplatformdevelopment
 crowdstrike
-crt.sh
 crud
 crypto
 cryptocompare
@@ -1493,7 +1487,6 @@ csv2adx
 csvhelper
 ctf
 ctglobal
-ctl
 ctrl+c
 ctx
 ctype
@@ -1707,6 +1700,7 @@ dependencies
 dependency
 deploy
 deployment
+deploymentconfig
 deploymentmanager
 deploymentresourceprovider
 depute
@@ -1795,8 +1789,6 @@ disable
 disable-internet
 disable-psremoting
 disablefilesyncngsc
-disablestartbutton
-disablestartkey
 disasm
 disasterrecovery
 disconnect
@@ -1806,7 +1798,6 @@ discount
 discover
 discovery
 disk
-disk_to_disk
 disk-space
 diskfree
 diskimage
@@ -1852,7 +1843,6 @@ dns-client
 dns-over-https
 dns-resolver
 dnsbl
-dnsclient
 dnsdumpster
 dnsentry
 dnsimple
@@ -1926,7 +1916,6 @@ dq
 dr
 draw
 drawio
-dreams
 dreamweaver
 dreary
 drift
@@ -2257,7 +2246,6 @@ expand-string
 expand-tab
 expandframework
 expect
-experience
 experiments
 expired
 expiring
@@ -2471,7 +2459,6 @@ forensic
 forensics
 forest
 forestdiscovery
-forgiveness
 form
 format
 format-numberedlist
@@ -3010,7 +2997,6 @@ identitydomains
 identitynow
 idf
 idm
-idna
 ids
 ie
 iem
@@ -3051,7 +3037,6 @@ imageslide
 imagevalidate
 imagevalidation
 imagga
-imagination
 imaging
 imap
 imb
@@ -3059,7 +3044,6 @@ imei
 imi
 impala
 impersonation
-imperva
 import
 import-csv
 import-dtdriverpackpackagedefinitionsms
@@ -3077,7 +3061,6 @@ incontact
 indents
 index
 indexdb
-indicator
 inedo
 inetfwrule
 infinity
@@ -3086,10 +3069,7 @@ influxdb
 info
 infoblox
 information
-information-technology
 informationbarriers
-informationtechnology
-informationtechnologyoperations
 informix
 infosec
 infrastructure
@@ -3114,9 +3094,6 @@ insight
 insightanalytics
 insights
 inspect
-inspiration
-inspirationalquotes
-inspire
 inspur
 instagram
 install
@@ -3145,7 +3122,6 @@ integrationservicescatalog
 integrity
 intel
 inteligo
-intelligence
 intelligence"
 intellisearch
 intellisense
@@ -3238,7 +3214,6 @@ ispss
 issues
 isvalidemail
 isvalidip
-it
 it-support
 it-tool
 it-tools
@@ -3292,7 +3267,6 @@ jojoba
 joke
 jotform
 journal
-joyride
 jpg
 jq
 js7
@@ -3351,7 +3325,6 @@ key2wocas
 keybase
 keybinding
 keyboard
-keyboardstartkey
 keycipher
 keylight
 keymanagement
@@ -3487,9 +3460,6 @@ licensemanager
 licensereport
 licenses
 licensing
-life
-lifequotes
-lifestyle
 light
 lights
 lime
@@ -3622,8 +3592,6 @@ lookup
 loop
 loopback
 loremipsum
-love
-lovequotes
 lpr
 lpsiamol
 ls
@@ -3791,7 +3759,6 @@ memcm
 memory
 memorydump
 memorystream
-mention
 menu
 menus
 meraki
@@ -3934,8 +3901,6 @@ moodle
 moonshot
 mosaic
 motd
-motivation
-motivationalquotes
 mount
 mouse
 move
@@ -4101,7 +4066,6 @@ netscaler
 netscape
 netsec
 netsh
-netspell
 netstat
 netsuite
 network
@@ -4192,6 +4156,7 @@ notify-send
 nova
 npgsql
 npm
+npm-upgrade
 nprinting
 nprintingapi
 nps
@@ -4383,7 +4348,6 @@ optimization
 optimizer
 option
 options
-optionstring
 opus
 oracle
 oraclecloudinfrastructure
@@ -4553,10 +4517,6 @@ pcsetup
 pcsv
 pdb
 pdf
-pdf-document-processor
-pdf-files
-pdf-generation
-pdf-redaction
 pe
 peek
 peering
@@ -4582,7 +4542,6 @@ personal
 personalisation
 personalization
 personalvault
-personio
 pester
 pf
 pfe
@@ -4657,11 +4616,8 @@ ply
 pmp
 pncit
 pnp
-pnpm
 pode
 poe
-poem
-poetry
 point
 point-to-site
 pokeapi
@@ -4899,10 +4855,11 @@ protect-blob
 protect-string
 protection
 protocol
+protocols
 provance
-proverb
 provider
 providerhub
+provision
 provisioning
 provisioningpackage
 provisonedpackage
@@ -5025,7 +4982,6 @@ psngenposh
 psobject
 psoutlog
 pspath
-pspersonio
 pspowerhour
 psprofiler
 psproject
@@ -5091,7 +5047,6 @@ pullrequest
 pullserver
 pulseway
 pulumi
-punycode
 puppet
 puppetdb
 puppy
@@ -5162,9 +5117,7 @@ quicksetup
 qumulo
 quota
 quote
-quoteoftheday
 quotes
-quotestoliveby
 quoting
 quser
 r
@@ -5273,7 +5226,6 @@ refactoring
 refeds
 refeds-mfa
 refedsmfa
-reference
 reflect
 reflection
 refresh
@@ -5285,12 +5237,10 @@ regex
 region
 regions
 regiser-argumentcompleter
-register
 register-argumentcompleter
 registration
 registry
 regression
-regularexpression
 regularexpressions
 reinstall
 relational
@@ -5597,9 +5547,6 @@ sconfig
 scoop
 scope
 score
-scouterna
-scouternasetjanster
-scoutnet
 scp
 scrap
 scrape
@@ -5671,7 +5618,6 @@ securegopher+
 securemfa
 securerdp
 securescore
-securesphere
 securestring
 security
 security-awareness-training
@@ -5729,7 +5675,6 @@ sentinel
 sentinelone
 sep
 seppmail
-seppmail.cloud
 seq
 sequence
 serialization
@@ -5811,6 +5756,7 @@ shadow
 shadowcopy
 shadowcopybackups
 shadowgroups
+shanghaitech
 shard
 share
 share-permission
@@ -5844,6 +5790,7 @@ shopify
 shortcut
 shortcuts
 shortpath
+shotgun
 show
 show-command
 show-on-command
@@ -6033,7 +5980,6 @@ speed
 speedometer
 speedtest
 speedtester
-spellcheck
 spelling
 spf
 spi
@@ -6140,7 +6086,6 @@ start
 start-job
 start-jobthread
 start-threadjob
-startkey
 startmen
 startmenu
 starwars
@@ -6177,8 +6122,6 @@ stingar
 stock
 stockcharts
 stocks
-stoicism
-stoics
 stop
 storablecolortheme
 storage
@@ -6238,7 +6181,6 @@ subscriptiondefinition
 subset
 subsystem
 subtitle
-success
 successfactors
 sudo
 sugar
@@ -6258,7 +6200,6 @@ suppress
 supress-reboot
 surround
 survey
-surveymonkey
 sushi
 suspensive
 svesavov
@@ -6311,7 +6252,6 @@ syspass
 sysprep
 system
 system information 1394 controller baseboard motherboard systemboard battery bios bus cache memory cd dvd rom drive compact disc desktop monitor disk partition fan floppy glide point heatpipe ide infrared device keyboard local logical array mouse'
-system-administration
 system-group
 system-service
 system-services
@@ -6392,7 +6332,6 @@ teamviewer
 techdirect
 techedna2014
 techlog
-technology
 techsmith
 tel
 telegram
@@ -6466,7 +6405,6 @@ tflint
 tfs
 tfscmdlets
 tfsec
-tftd
 tftp
 tfvc
 thecrushingemptinessofquotidianexistence
@@ -6478,7 +6416,6 @@ thinprint
 third-party-libraries
 third-party-notice
 thispc
-thoughtfortheday
 thousandeyes
 thread
 threading
@@ -6539,6 +6476,8 @@ topgrade
 topics
 topology
 tor
+toradex
+torizon
 torrent
 torrents
 toshiba
@@ -6579,10 +6518,8 @@ translation
 translit
 transliteration
 transmission
-transparency
 transpilation
 trap
-travel
 trec
 tree
 treesize
@@ -6595,7 +6532,6 @@ trendmicro
 trevor
 trevorsullivan
 triangle
-tribeloo
 trigger
 triodos
 tripunkt
@@ -6610,7 +6546,6 @@ trusted-host
 trustedhosts
 trustedrootcertificate
 trustprotectionplatform
-truth
 trx
 ts
 tsa
@@ -6836,7 +6771,6 @@ utm
 uudecode
 uuencode
 uuid
-uup
 uw
 uwp
 ux
@@ -6867,7 +6801,6 @@ vba
 vbaproject
 vbproj
 vbr
-vbscript
 vbsinst
 vc
 vccmdlets
@@ -6989,7 +6922,6 @@ voiceconfig
 voiceservices
 voidtools
 volkskrant
-volta
 volume
 volumeshadowcopy
 volumio
@@ -7249,7 +7181,6 @@ wiscmail
 wisco365
 wisconsin-madison
 wisconsin'uw-madison
-wisdom
 with
 wizard
 wkhtmltopdf
@@ -7402,7 +7333,6 @@ yandex
 yapg
 yarn
 yetanotherhelloworld
-yml
 ynab
 youtube
 youtube-dl
