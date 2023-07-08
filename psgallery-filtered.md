@@ -3,13 +3,100 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [GetSSLCertExpiryDate](https://www.powershellgallery.com/Packages/GetSSLCertExpiryDate/1.0.0) | 1.0.0
+
+### Published: 07/08/2023 17:02:07 by pr_prakash78@outlook.com
+
+This module will fetch SSL Cert from the remote url, Get-SSLCertExpiryDate -URL 'https://github.com/7890'
+
+__Downloads__: 0 | __Repository__: https://prakash78blog.wordpress.com/
+
+## [MASES.KNetPS](https://www.powershellgallery.com/Packages/MASES.KNetPS/2.0.0) | 2.0.0
+
+### Published: 07/08/2023 14:51:40 by MASES s.r.l.
+
+KNet PowerShell command line interface is a PowerShell Module to use Apache Kafka and PowerShell side-by-side. With KNet PowerShell it is possible to:
+- execute all tools of Apache Kafka within a PowerShell shell: Administration tools, Console Consumer, Console Producer, manage Apache Kafka Streams, activate Apache Kafka Connect, server side (start Kafka and ZooKeeper), etc
+- create consumers and producers objects to interact with an Apache Kafka cluster
+- send data to and receive data from an Apache Kafka cluster
+- create a Kafka Admin Client object to manage an Apache Kafka cluster
+
+More information within the project hosted on GitHub. Further information at https://github.com/masesgroup/KNet.
+
+__Downloads__: 266 | __Repository__: https://github.com/masesgroup/KNet
+
+## [Orbit](https://www.powershellgallery.com/Packages/Orbit/0.7.0) | 0.7.0
+
+### Published: 07/08/2023 14:00:51 by David Eberhardt
+
+Scripts & Functions for Administrators working in the Microsoft 365 Orbit, Microsoft.Graph, MicrosoftTeams covering Resource Accounts, Call Queues, Auto Attendants, Licensing, User Voice Configuration and more.
+For more information, please visit https://github.com/DEberhardt/Orbit or https://davideberhardt.wordpress.com/
+
+__Downloads__: 42 | __Repository__: https://github.com/DEberhardt/Orbit
+
+## [Orbit.Authentication](https://www.powershellgallery.com/Packages/Orbit.Authentication/0.7.0) | 0.7.0
+
+### Published: 07/08/2023 14:00:30 by David Eberhardt
+
+Scripts & Functions for Administrators working in the Microsoft 365 Orbit
+
+__Downloads__: 59 | __Repository__: https://github.com/DEberhardt/Orbit
+
+## [Orbit.Groups](https://www.powershellgallery.com/Packages/Orbit.Groups/0.7.0) | 0.7.0
+
+### Published: 07/08/2023 14:00:24 by David Eberhardt
+
+Scripts & Functions for Administrators working in the Microsoft 365 Orbit
+
+__Downloads__: 60 | __Repository__: https://github.com/DEberhardt/Orbit
+
+## [Orbit.Teams](https://www.powershellgallery.com/Packages/Orbit.Teams/0.7.0) | 0.7.0
+
+### Published: 07/08/2023 14:00:18 by David Eberhardt
+
+Scripts & Functions for Administrators working in the Microsoft 365 Orbit
+
+__Downloads__: 65 | __Repository__: https://github.com/DEberhardt/Orbit
+
+## [Orbit.Tools](https://www.powershellgallery.com/Packages/Orbit.Tools/0.7.0) | 0.7.0
+
+### Published: 07/08/2023 14:00:12 by David Eberhardt
+
+Scripts & Functions for Administrators working in the Microsoft 365 Orbit
+
+__Downloads__: 64 | __Repository__: https://github.com/DEberhardt/Orbit
+
+## [Orbit.Users](https://www.powershellgallery.com/Packages/Orbit.Users/0.7.0) | 0.7.0
+
+### Published: 07/08/2023 14:00:05 by David Eberhardt
+
+Scripts & Functions for Administrators working in the Microsoft 365 Orbit
+
+__Downloads__: 67 | __Repository__: https://github.com/DEberhardt/Orbit
+
+## [PublishProject](https://www.powershellgallery.com/Packages/PublishProject/1.0) | 1.0
+
+### Published: 07/08/2023 11:40:08 by SeryiBaran
+
+Tiny PowerShell module for initializing git repository and push it to GitHub.
+
+__Downloads__: 0 | __Repository__: https://github.com/SeryiBaran/PublishProject-PS
+
+## [JaapsTools](https://www.powershellgallery.com/Packages/JaapsTools/18.4.4) | 18.4.4
+
+### Published: 07/08/2023 11:06:54 by JT
+
+JaapsTools
+
+__Downloads__: 454 | __Repository__: 
+
 ## [QuickIP](https://www.powershellgallery.com/Packages/QuickIP/1.6) | 1.6
 
 ### Published: 07/08/2023 09:18:43 by SeryiBaran
 
 Tiny PowerShell module for quick IP setting/resetting
 
-__Downloads__: 0 | __Repository__: https://github.com/SeryiBaran/QuickIP-PS
+__Downloads__: 1 | __Repository__: https://github.com/SeryiBaran/QuickIP-PS
 
 ## [getFTP_new](https://www.powershellgallery.com/Packages/getFTP_new/1.0.1) | 1.0.1
 
@@ -49,7 +136,7 @@ __Downloads__: 49 | __Repository__:
 
 Helper functions for everyday use
 
-__Downloads__: 28 | __Repository__: 
+__Downloads__: 24 | __Repository__: 
 
 ## [PSSVG](https://www.powershellgallery.com/Packages/PSSVG/0.2.10) | 0.2.10
 
@@ -97,7 +184,7 @@ __Downloads__: 1 | __Repository__: https://bretty.me.uk/CitrixOptimizer
 
 Sample module to manage AutoPilot devices using the Intune Graph API
 
-__Downloads__: 6,703,979 | __Repository__: 
+__Downloads__: 6,703,724 | __Repository__: 
 
 ## [BcContainerHelper](https://www.powershellgallery.com/Packages/BcContainerHelper/5.0.4) | 5.0.4
 
@@ -105,7 +192,7 @@ __Downloads__: 6,703,979 | __Repository__:
 
 PowerShell module, which makes it easier to work with Business Central Containers on Docker.
 
-__Downloads__: 1,221,223 | __Repository__: 
+__Downloads__: 1,221,251 | __Repository__: 
 
 ## [FpsGeneral](https://www.powershellgallery.com/Packages/FpsGeneral/1.0.23188.1) | 1.0.23188.1
 
@@ -113,7 +200,7 @@ __Downloads__: 1,221,223 | __Repository__:
 
 This PS Module contains functions necessary to use 4PS general tasks
 
-__Downloads__: 4,247 | __Repository__: 
+__Downloads__: 4,246 | __Repository__: 
 
 ## [ItGlue](https://www.powershellgallery.com/Packages/ItGlue/2023.7.7.1) | 2023.7.7.1
 
@@ -212,14 +299,6 @@ The cmdlets bring a breath of fresh air and come with an intuitive, verbose set 
 
 __Downloads__: 40 | __Repository__: 
 
-## [JaapsTools](https://www.powershellgallery.com/Packages/JaapsTools/18.4.3) | 18.4.3
-
-### Published: 07/07/2023 06:26:29 by JT
-
-JaapsTools
-
-__Downloads__: 454 | __Repository__: 
-
 ## [scoop-tab-completion](https://www.powershellgallery.com/Packages/scoop-tab-completion/1.1.3) | 1.1.3
 
 ### Published: 07/07/2023 06:22:51 by abgo
@@ -245,7 +324,7 @@ __Downloads__: 688 | __Repository__: https://github.com/carsten-riedel/CoreePowe
 
 Zip and GZip utilities for PowerShell!
 
-__Downloads__: 11,427 | __Repository__: https://github.com/santisq/PSCompression
+__Downloads__: 11,402 | __Repository__: https://github.com/santisq/PSCompression
 
 ## [ConnectWiseManageAPI](https://www.powershellgallery.com/Packages/ConnectWiseManageAPI/0.4.12.0) | 0.4.12.0
 
@@ -253,7 +332,7 @@ __Downloads__: 11,427 | __Repository__: https://github.com/santisq/PSCompression
 
 PowerShell wrapper for the ConnectWise Manage REST API
 
-__Downloads__: 110,604 | __Repository__: https://github.com/christaylorcodes/ConnectWiseManageAPI
+__Downloads__: 110,610 | __Repository__: https://github.com/christaylorcodes/ConnectWiseManageAPI
 
 ## [AzureHelper](https://www.powershellgallery.com/Packages/AzureHelper/1.0.46) | 1.0.46
 
@@ -277,7 +356,7 @@ __Downloads__: 1,148 | __Repository__:
 
 Sample module to manage AutoPilot devices using the Intune Graph API
 
-__Downloads__: 952 | __Repository__: 
+__Downloads__: 951 | __Repository__: 
 
 ## [Rivet](https://www.powershellgallery.com/Packages/Rivet/0.22.0) | 0.22.0
 
@@ -327,6 +406,16 @@ This helps Lumify Group trainers to have the tools that will assist with home ba
 
 __Downloads__: 937 | __Repository__: 
 
+## [RTDP.CLI.AdminCmdlets](https://www.powershellgallery.com/Packages/RTDP.CLI.AdminCmdlets/1.2.0) | 1.2.0
+
+### Published: 07/06/2023 11:39:43 by RISE Data Platform
+
+The Admin PowerShell Cmdlets module is targeted for Data Platform admin-usage.
+The cmdlets provide elevated controls against partner resources and general resources that are currently available in the Data Platform.
+For this cmdlets, you will need to provide your own JWT Access Token; please contact risedp@service.microsoft.com if you need help.
+
+__Downloads__: 16 | __Repository__: 
+
 ## [PSPublishModule](https://www.powershellgallery.com/Packages/PSPublishModule/1.5.1) | 1.5.1
 
 ### Published: 07/06/2023 11:30:04 by Przemyslaw Klys
@@ -357,7 +446,7 @@ __Downloads__: 42 | __Repository__: https://github.com/Stephanevg/PesterLove
 
 Office 365 Health Service
 
-__Downloads__: 310,791 | __Repository__: https://github.com/EvotecIT/PSWinDocumentation.O365HealthService
+__Downloads__: 310,752 | __Repository__: https://github.com/EvotecIT/PSWinDocumentation.O365HealthService
 
 ## [RiverMeadow.Development.Migrate](https://www.powershellgallery.com/Packages/RiverMeadow.Development.Migrate/1.0.116.255) | 1.0.116.255
 
@@ -381,7 +470,7 @@ __Downloads__: 3,919 | __Repository__: https://github.com/azsk/azsk-docs
 
 PowerShell module to add file icons to terminal based on file extension
 
-__Downloads__: 245,592 | __Repository__: https://github.com/devblackops/Terminal-Icons
+__Downloads__: 245,577 | __Repository__: https://github.com/devblackops/Terminal-Icons
 
 ## [env2](https://www.powershellgallery.com/Packages/env2/0.1) | 0.1
 
@@ -434,7 +523,7 @@ Carbon is a PowerShell module for automating the configuration Windows 7, 8, 200
 
 All functions are idempotent: when run multiple times with the same arguments, your system will be in the same state without failing or producing errors.
 
-__Downloads__: 62,821,693 | __Repository__: http://get-carbon.org/
+__Downloads__: 62,821,228 | __Repository__: http://get-carbon.org/
 
 ## [GraphEssentials](https://www.powershellgallery.com/Packages/GraphEssentials/0.0.31) | 0.0.31
 
@@ -450,7 +539,7 @@ __Downloads__: 169 | __Repository__:
 
 PowerShell Module for Managing VMware vRealize Automation
 
-__Downloads__: 266,053 | __Repository__: https://github.com/jakkulabs/PowervRA
+__Downloads__: 266,052 | __Repository__: https://github.com/jakkulabs/PowervRA
 
 ## [Thycotic.SecretServer](https://www.powershellgallery.com/Packages/Thycotic.SecretServer/0.61.2) | 0.61.2
 
@@ -458,7 +547,7 @@ __Downloads__: 266,053 | __Repository__: https://github.com/jakkulabs/PowervRA
 
 Interact with the Secret Server REST API
 
-__Downloads__: 43,305 | __Repository__: https://github.com/thycotic-ps/thycotic.secretserver
+__Downloads__: 43,304 | __Repository__: https://github.com/thycotic-ps/thycotic.secretserver
 
 ## [TD.Util](https://www.powershellgallery.com/Packages/TD.Util/0.1.35) | 0.1.35
 
@@ -514,7 +603,7 @@ __Downloads__: 2,335 | __Repository__: https://reubenmiller.github.io/go-c8y-cli
 
 PSWriteHTML is PowerShell Module to generate beautiful HTML reports, pages, emails without any knowledge of HTML, CSS or JavaScript. To get started basics PowerShell knowledge is required.
 
-__Downloads__: 1,816,967 | __Repository__: https://github.com/EvotecIT/PSWriteHTML
+__Downloads__: 1,816,998 | __Repository__: https://github.com/EvotecIT/PSWriteHTML
 
 ## [AppVeyorTestPsGallery](https://www.powershellgallery.com/Packages/AppVeyorTestPsGallery/1.0.503) | 1.0.503
 
@@ -686,47 +775,6 @@ tree like function for PowerShell
 
 __Downloads__: 917 | __Repository__: https://www.github.com/santisq/PSTree
 
-## [Orbit](https://www.powershellgallery.com/Packages/Orbit/0.6.2) | 0.6.2
-
-### Published: 07/03/2023 22:49:25 by David Eberhardt
-
-Scripts & Functions for Administrators working in the Microsoft 365 Orbit, Microsoft.Graph, MicrosoftTeams covering Resource Accounts, Call Queues, Auto Attendants, Licensing, User Voice Configuration and more.
-For more information, please visit https://github.com/DEberhardt/Orbit or https://davideberhardt.wordpress.com/
-
-__Downloads__: 42 | __Repository__: https://github.com/DEberhardt/Orbit
-
-## [Orbit.Groups](https://www.powershellgallery.com/Packages/Orbit.Groups/0.6.2) | 0.6.2
-
-### Published: 07/03/2023 22:48:55 by David Eberhardt
-
-Scripts & Functions for Administrators working in the Microsoft 365 Orbit
-
-__Downloads__: 60 | __Repository__: https://github.com/DEberhardt/Orbit
-
-## [Orbit.Teams](https://www.powershellgallery.com/Packages/Orbit.Teams/0.6.2) | 0.6.2
-
-### Published: 07/03/2023 22:48:48 by David Eberhardt
-
-Scripts & Functions for Administrators working in the Microsoft 365 Orbit
-
-__Downloads__: 65 | __Repository__: https://github.com/DEberhardt/Orbit
-
-## [Orbit.Tools](https://www.powershellgallery.com/Packages/Orbit.Tools/0.6.2) | 0.6.2
-
-### Published: 07/03/2023 22:48:13 by David Eberhardt
-
-Scripts & Functions for Administrators working in the Microsoft 365 Orbit
-
-__Downloads__: 64 | __Repository__: https://github.com/DEberhardt/Orbit
-
-## [Orbit.Users](https://www.powershellgallery.com/Packages/Orbit.Users/0.6.2) | 0.6.2
-
-### Published: 07/03/2023 22:48:07 by David Eberhardt
-
-Scripts & Functions for Administrators working in the Microsoft 365 Orbit
-
-__Downloads__: 67 | __Repository__: https://github.com/DEberhardt/Orbit
-
 ## [Win32AppManagement](https://www.powershellgallery.com/Packages/Win32AppManagement/1.0.0.0) | 1.0.0.0
 
 ### Published: 07/03/2023 20:52:15 by Jon Anderson
@@ -757,7 +805,7 @@ __Downloads__: 67 | __Repository__: https://github.com/Luiz-Monad/PowerShellProc
 
 Functions and add-ons for the Windows PowerShell ISE and later. This module is a kind of resource kit for the PowerShell ISE.
 
-__Downloads__: 10,050 | __Repository__: https://github.com/jdhitsolutions/ISEScriptingGeek
+__Downloads__: 10,051 | __Repository__: https://github.com/jdhitsolutions/ISEScriptingGeek
 
 ## [PowerShellAI](https://www.powershellgallery.com/Packages/PowerShellAI/0.8.0) | 0.8.0
 
@@ -965,7 +1013,7 @@ __Downloads__: 425 | __Repository__: https://github.com/Eulanda/EulandaConnect
 
 Helper module for Active Directory with lots of useful functions that simplify supporting Active Directory.
 
-__Downloads__: 145,456 | __Repository__: https://github.com/EvotecIT/ADEssentials
+__Downloads__: 145,457 | __Repository__: https://github.com/EvotecIT/ADEssentials
 
 ## [HashCopy](https://www.powershellgallery.com/Packages/HashCopy/1.0.57) | 1.0.57
 
@@ -974,20 +1022,6 @@ __Downloads__: 145,456 | __Repository__: https://github.com/EvotecIT/ADEssential
 A module for cmdlets related to performing copy operations based on computed hash values.
 
 __Downloads__: 10,608 | __Repository__: https://github.com/markwragg/Powershell-HashCopy
-
-## [MASES.KNetPS](https://www.powershellgallery.com/Packages/MASES.KNetPS/1.5.5) | 1.5.5
-
-### Published: 07/01/2023 18:50:03 by MASES s.r.l.
-
-KNet PowerShell command line interface is a PowerShell Module to use Apache Kafka and PowerShell side-by-side. With KNet PowerShell it is possible to:
-- execute all tools of Apache Kafka within a PowerShell shell: Administration tools, Console Consumer, Console Producer, manage Apache Kafka Streams, activate Apache Kafka Connect, server side (start Kafka and ZooKeeper), etc
-- create consumers and producers objects to interact with an Apache Kafka cluster
-- send data to and receive data from an Apache Kafka cluster
-- create a Kafka Admin Client object to manage an Apache Kafka cluster
-
-More information within the project hosted on GitHub. Further information at https://github.com/masesgroup/KNet.
-
-__Downloads__: 266 | __Repository__: https://github.com/masesgroup/KNet
 
 ## [Az.MsiGraphPermissions](https://www.powershellgallery.com/Packages/Az.MsiGraphPermissions/1.0.0.1) | 1.0.0.1
 
@@ -1012,7 +1046,7 @@ __Downloads__: 76 | __Repository__: https://github.com/HenriquedoVal/shellserver
 
 Create evergreen Windows image builds with the latest versions of applications. Evergreen is a simple PowerShell module that retrieves the latest version numbers and download URLs for various software products directly from the vendor source.
 
-__Downloads__: 1,735,782 | __Repository__: https://stealthpuppy.com/evergreen/
+__Downloads__: 1,735,803 | __Repository__: https://stealthpuppy.com/evergreen/
 
 ## [PSSailpoint](https://www.powershellgallery.com/Packages/PSSailpoint/1.1.1) | 1.1.1
 
@@ -1152,7 +1186,7 @@ AADInternals allows you to export ADFS certificates, Azure AD Connect passwords,
 
 DISCLAIMER: Functionality provided through this module are not supported by Microsoft and thus should not be used in a production environment. Use on your own risk!
 
-__Downloads__: 63,399 | __Repository__: https://aadinternals.com/aadinternals
+__Downloads__: 63,397 | __Repository__: https://aadinternals.com/aadinternals
 
 ## [CAT](https://www.powershellgallery.com/Packages/CAT/0.14.6.2) | 0.14.6.2
 
@@ -1168,7 +1202,7 @@ __Downloads__: 130 | __Repository__: https://docs.justcat.it/
 
 Automation tools for production quality database deployment
 
-__Downloads__: 4,266,989 | __Repository__: https://www.red-gate.com/sca/productpage
+__Downloads__: 4,266,964 | __Repository__: https://www.red-gate.com/sca/productpage
 
 ## [Az.Avd](https://www.powershellgallery.com/Packages/Az.Avd/3.0.0) | 3.0.0
 
@@ -1200,7 +1234,7 @@ __Downloads__: 7,305 | __Repository__: https://github.com/microsoft/Test-NetHLK
 
 Silk iSCSI Services Connection Module (SISCM)
 
-__Downloads__: 666 | __Repository__: https://github.com/silk-us/silkiscsi
+__Downloads__: 665 | __Repository__: https://github.com/silk-us/silkiscsi
 
 ## [AOVPNTools](https://www.powershellgallery.com/Packages/AOVPNTools/1.6.2) | 1.6.2
 
@@ -1329,7 +1363,7 @@ __Downloads__: 6,843 | __Repository__: https://github.com/rmbolger/Posh-ACME
 
 ACME protocol client for obtaining certificates using Let's Encrypt (or other ACME compliant CA)
 
-__Downloads__: 1,055,097 | __Repository__: https://github.com/rmbolger/Posh-ACME
+__Downloads__: 1,055,100 | __Repository__: https://github.com/rmbolger/Posh-ACME
 
 ## [HPEBIOSCmdlets](https://www.powershellgallery.com/Packages/HPEBIOSCmdlets/3.1.0.0) | 3.1.0.0
 
@@ -2012,36 +2046,4 @@ This modules provides Cmdlets for OCI Dns Service
 
 __Downloads__: 3,277 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-## [OCI.PSModules.Disasterrecovery](https://www.powershellgallery.com/Packages/OCI.PSModules.Disasterrecovery/60.2.0) | 60.2.0
-
-### Published: 06/27/2023 19:03:35 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Disasterrecovery Service
-
-__Downloads__: 844 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Devops](https://www.powershellgallery.com/Packages/OCI.PSModules.Devops/60.2.0) | 60.2.0
-
-### Published: 06/27/2023 19:03:29 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Devops Service
-
-__Downloads__: 2,524 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Datascience](https://www.powershellgallery.com/Packages/OCI.PSModules.Datascience/60.2.0) | 60.2.0
-
-### Published: 06/27/2023 19:03:23 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Datascience Service
-
-__Downloads__: 4,165 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Datasafe](https://www.powershellgallery.com/Packages/OCI.PSModules.Datasafe/60.2.0) | 60.2.0
-
-### Published: 06/27/2023 19:03:16 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Datasafe Service
-
-__Downloads__: 5,180 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-*Updated: Saturday, 08 July 2023 09:53:55 UTC*
+*Updated: Saturday, 08 July 2023 17:52:46 UTC*
