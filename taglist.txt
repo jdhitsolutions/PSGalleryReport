@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Sunday, 09 July 2023 02:28:03 UTC
+Updated: Sunday, 09 July 2023 09:52:42 UTC
 
 ?:
 ??
@@ -45,7 +45,6 @@ Updated: Sunday, 09 July 2023 02:28:03 UTC
 3dprinting
 3par
 50
-64
 650
 650flb
 7
@@ -132,7 +131,10 @@ acumatica
 ad
 ad_monitoring
 ad-ds
+ad-object
+ad-ou-object
 ad-report
+ad-site
 adal
 adapter
 adapter-control
@@ -186,11 +188,14 @@ ado_security
 ado.net
 adobe
 adobeflash
+adobject
+adouobject
 adoxio
 adp
 adr
 ads
 adsi
+adsite
 adsync
 aduser
 aduseraccountlockout
@@ -272,6 +277,7 @@ alpine
 alpr
 alt3
 alter
+alteryx
 alwaysontop
 alwaysonvpn
 alz
@@ -804,6 +810,7 @@ bofh
 boilerplate
 boinc
 bolt
+bom
 book
 bookmark
 bookmarks
@@ -1203,7 +1210,6 @@ cognitiveservices
 cohesity
 coinmarketcap
 collaboration
-collatordso
 collatz
 collection
 collectionmembershipevaluationcomponent
@@ -1713,6 +1719,7 @@ desk
 desktop
 desktopvirtualization
 details
+detect
 detection
 detectionrule
 deutsch
@@ -1966,6 +1973,7 @@ dsregcmd
 dsutils
 dtc
 dts
+dtsx
 dtx
 du
 dual-stack
@@ -2297,12 +2305,14 @@ failedlogin
 failure
 falcon
 fallbackstatuspoint
+fanarttv
 fancy
 faq
 farm
 farmanager
 fast
 fast-dds
+fast-ping
 fastfilepub
 fastgit
 fastlinq
@@ -2402,6 +2412,7 @@ find-caller
 find-file
 find-path
 finddownloadlinkfromwebsite
+findfile
 findlocation
 findplace
 findproxyforurl
@@ -2600,6 +2611,7 @@ get-dtdriverupdates
 get-dtscriptnewcmpackagefromdriverpackpackagedefinitionsms
 get-dtscriptnewcmtasksequencefromdriverpackpackagedefinitionsms
 get-emptyadgroups
+get-externalip
 get-firmwaretype
 get-help
 get-history
@@ -2726,6 +2738,7 @@ gridfs
 grok
 groundspeak
 group
+group-membership
 group-policy
 groupmembership
 grouppolicy
@@ -3060,6 +3073,7 @@ incident
 incident-response
 incidentresponse
 incontact
+indents
 index
 indexdb
 indicator
@@ -3086,6 +3100,8 @@ inifile
 initialization
 initials-avatar
 initiator
+inline-progress
+inlineprogress
 innerjoin
 innertext
 input
@@ -3124,6 +3140,7 @@ integration
 integrationaccount
 integrationruntime
 integrationruntimedependency
+integrationservicescatalog
 integrity
 intel
 inteligo
@@ -3349,7 +3366,6 @@ kidrsa
 kill
 kindle
 kinetic
-kintone
 klantcontroles
 kms
 knapsack
@@ -3480,6 +3496,7 @@ limit-job
 limits
 lina
 line
+line-endings
 linear
 linearalgebra
 link
@@ -3758,8 +3775,6 @@ mediaservices
 mediawiki
 meditation
 meeting
-meetup
-meetup.com
 meewind
 megabyte
 melamed
@@ -3857,6 +3872,7 @@ min
 mindmeister
 minecraft
 miniconda
+minifier
 minimal
 minimum
 mip
@@ -3973,6 +3989,9 @@ msproject
 msrc
 msrdc
 mssql
+mssqlbynarymodule
+mssqlbynarypsmodule
+mssqlmodule
 mssqlplugins
 mssqlserver
 msteams
@@ -3985,6 +4004,7 @@ mule
 mulesoft
 multi-factor
 multi-platform
+multi-threading
 multi-zone
 multicloud
 multidimenstional
@@ -4083,10 +4103,12 @@ netsuite
 network
 network adapter configuration operating os optical sensor physical pointing portable printer processor cpu refrigaration cooling cooler removable usb sd ram dimm scsi sound audio card enclosure tape temperature touchpad touch pad touchscreen screen trackball trackpoint video graphics voltage psmodule
 network-credentials
+network-info
 networkdiscovery
 networkdrives
 networkfirewall
 networkfunction
+networkinfo
 networking
 networkinterfaces
 networkloadbalancer
@@ -4403,6 +4425,7 @@ osubusage
 osx
 otp
 ou
+ou-object
 oui-search
 out-consolegridview
 out-default
@@ -4746,7 +4769,6 @@ powershell-terminal-copilot
 powershell-training
 powershell.module.invokewinget
 powershell.one
-powershell.persistentpathstack
 powershell7
 powershellazuresql
 powershellconferenceeurope
@@ -4774,7 +4796,6 @@ powertab
 powertoolcmdlets
 powertooldsc
 ppdm
-ppk
 pposh
 pps
 ppt
@@ -4797,6 +4818,7 @@ preprocessing
 preprocessor
 presentation
 presenter
+presto
 preston-k-parsard
 prettifier
 pretty
@@ -4984,12 +5006,14 @@ psloganalytics
 psm
 psm1
 psmodule
-psmodule psedition_desktop
 psmodulepath
 psmodules
 psmp
 psmsgraph
 psmsgraphapi
+psmssql
+psmssqlbynarymodule
+psmssqlmodule
 psmvp
 psnavigation
 psnexosisclient
@@ -5025,6 +5049,9 @@ psslack
 pssqlite
 pssqlitebynarymodule
 pssqlitemodule
+pssqlserver
+pssqlserverbynarymodule
+pssqlservermodule
 psst
 psstgenerator
 pstablacus
@@ -5128,7 +5155,6 @@ quickaccess
 quickbase
 quickbooks
 quicksetup
-qumulo
 quota
 quote
 quoteoftheday
@@ -5137,7 +5163,6 @@ quotestoliveby
 quoting
 quser
 r
-r53
 rabbit
 rabbitmq
 rackspace
@@ -5259,7 +5284,6 @@ register-argumentcompleter
 registration
 registry
 regression
-regularexpression
 regularexpressions
 reinstall
 relational
@@ -5367,6 +5391,7 @@ retry
 returnuserprofile
 retype
 reuse
+reverse-engineer
 reverse-string
 reversedsc
 reverseengineering
@@ -5613,7 +5638,6 @@ search-adminauditlog
 search-engines
 searchengine
 searcher
-searching
 searchplace
 searchquery
 searchstring
@@ -5872,6 +5896,7 @@ skyapi
 skype
 skype_for_business
 skype4b
+skype4business
 skypeforbusiness
 skypeforbusinessonline
 skypeonline
@@ -5924,6 +5949,7 @@ snmpset
 snmpv3
 snmpwalk
 snowflake
+snsmssqlpsmodule
 snspsscriptsmonitoring
 snssqlitepsmodule
 sntp
@@ -6055,6 +6081,9 @@ sqlproject
 sqlps
 sqlserver
 sqlserveragent
+sqlserverbynarymodule
+sqlserverbynarypsmodule
+sqlservermodule
 sqlvirtualmachine
 sqr
 sqrt
@@ -6374,7 +6403,6 @@ template
 template-engine
 templates
 templating
-temporary
 tenable
 tenable.sc
 tenant
@@ -6776,7 +6804,6 @@ useful
 user
 user-environment
 userdiscovery
-usergroup
 userinterface
 usermanagement
 username
@@ -6787,10 +6814,13 @@ userrightsassignment
 users
 userworkstations
 usg
+usps
 utc
 utf-8
+utf-sig
 utf7
 utf8
+utf8-sig
 utf8bom
 util
 utilities
@@ -6961,7 +6991,6 @@ vorbis
 vovin
 vpas
 vpasmodule
-vpc
 vpg
 vplex
 vpn
@@ -7108,7 +7137,6 @@ whormi
 wi-fi
 wia
 wia.imagefile
-wid
 wif
 wifi
 wiki
@@ -7163,9 +7191,7 @@ windowsevent
 windowseventlog
 windowsform
 windowsforms
-windowsindex
 windowsinstaller
-windowsinternaldatabase
 windowsinternals
 windowsiotservices
 windowsmanagementframework
@@ -7283,6 +7309,7 @@ write-wansi
 writeaccess
 writelog
 writemanager
+writeprogress
 writer
 ws-federation
 wsapi
@@ -7358,11 +7385,13 @@ xunit
 xwiki
 xwindowsupdate
 yahoo
+yahw
 yamaha
 yaml
 yandex
 yapg
 yarn
+yetanotherhelloworld
 yml
 ynab
 youtube
