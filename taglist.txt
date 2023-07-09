@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Sunday, 09 July 2023 09:52:42 UTC
+Updated: Sunday, 09 July 2023 17:53:30 UTC
 
 ?:
 ??
@@ -45,6 +45,7 @@ Updated: Sunday, 09 July 2023 09:52:42 UTC
 3dprinting
 3par
 50
+64
 650
 650flb
 7
@@ -72,7 +73,6 @@ abc_testing
 abe
 about
 abr
-abstractsyntaxtree
 abuse
 abuseipdb
 acas
@@ -317,6 +317,7 @@ angular
 animate-svg
 animation
 animations
+annotated
 announcement
 announcementsservice
 anonymous
@@ -1210,6 +1211,7 @@ cognitiveservices
 cohesity
 coinmarketcap
 collaboration
+collatordso
 collatz
 collection
 collectionmembershipevaluationcomponent
@@ -2833,7 +2835,6 @@ heartbeatdiscovery
 heat
 heating
 heavenbay
-helium
 helix
 hello
 helloid
@@ -2878,7 +2879,6 @@ historyninja
 hitrust
 hive
 hivehome
-hjson
 hl7
 hlds
 hls
@@ -3023,7 +3023,6 @@ iis
 iis10
 iis8
 iisadministration
-iiscrypto
 ikev2
 il
 illinois
@@ -3195,7 +3194,6 @@ iothub
 iothubproperties
 ip
 ip-address
-ip-scanner
 ipa
 ipaddress
 ipam
@@ -3366,6 +3364,7 @@ kidrsa
 kill
 kindle
 kinetic
+kintone
 klantcontroles
 kms
 knapsack
@@ -4053,7 +4052,6 @@ naming
 nana
 nano
 nanoleaf
-nartac
 nasdaq
 native
 natpool
@@ -4685,7 +4683,6 @@ popd
 population
 popup
 port
-port-scanner
 port70
 portal
 ports
@@ -4769,6 +4766,7 @@ powershell-terminal-copilot
 powershell-training
 powershell.module.invokewinget
 powershell.one
+powershell.persistentpathstack
 powershell7
 powershellazuresql
 powershellconferenceeurope
@@ -4796,6 +4794,7 @@ powertab
 powertoolcmdlets
 powertooldsc
 ppdm
+ppk
 pposh
 pps
 ppt
@@ -5006,6 +5005,7 @@ psloganalytics
 psm
 psm1
 psmodule
+psmodule psedition_desktop
 psmodulepath
 psmodules
 psmp
@@ -5155,6 +5155,7 @@ quickaccess
 quickbase
 quickbooks
 quicksetup
+qumulo
 quota
 quote
 quoteoftheday
@@ -5284,6 +5285,7 @@ register-argumentcompleter
 registration
 registry
 regression
+regularexpression
 regularexpressions
 reinstall
 relational
@@ -5638,6 +5640,7 @@ search-adminauditlog
 search-engines
 searchengine
 searcher
+searching
 searchplace
 searchquery
 searchstring
@@ -6403,6 +6406,7 @@ template
 template-engine
 templates
 templating
+temporary
 tenable
 tenable.sc
 tenant
@@ -7191,6 +7195,7 @@ windowsevent
 windowseventlog
 windowsform
 windowsforms
+windowsindex
 windowsinstaller
 windowsinternals
 windowsiotservices
