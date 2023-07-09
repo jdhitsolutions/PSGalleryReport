@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Saturday, 08 July 2023 17:52:59 UTC
+Updated: Sunday, 09 July 2023 02:28:03 UTC
 
 ?:
 ??
@@ -132,10 +132,7 @@ acumatica
 ad
 ad_monitoring
 ad-ds
-ad-object
-ad-ou-object
 ad-report
-ad-site
 adal
 adapter
 adapter-control
@@ -189,14 +186,11 @@ ado_security
 ado.net
 adobe
 adobeflash
-adobject
-adouobject
 adoxio
 adp
 adr
 ads
 adsi
-adsite
 adsync
 aduser
 aduseraccountlockout
@@ -278,7 +272,6 @@ alpine
 alpr
 alt3
 alter
-alteryx
 alwaysontop
 alwaysonvpn
 alz
@@ -318,7 +311,6 @@ angular
 animate-svg
 animation
 animations
-annotated
 announcement
 announcementsservice
 anonymous
@@ -396,6 +388,7 @@ appv
 appveyor
 appvolumes
 appx
+appxmanifest
 aprs
 aprs-is
 aprsis
@@ -811,7 +804,6 @@ bofh
 boilerplate
 boinc
 bolt
-bom
 book
 bookmark
 bookmarks
@@ -1707,6 +1699,7 @@ dependencies
 dependency
 deploy
 deployment
+deploymentconfig
 deploymentmanager
 deploymentresourceprovider
 depute
@@ -1720,7 +1713,6 @@ desk
 desktop
 desktopvirtualization
 details
-detect
 detection
 detectionrule
 deutsch
@@ -1974,7 +1966,6 @@ dsregcmd
 dsutils
 dtc
 dts
-dtsx
 dtx
 du
 dual-stack
@@ -2306,14 +2297,12 @@ failedlogin
 failure
 falcon
 fallbackstatuspoint
-fanarttv
 fancy
 faq
 farm
 farmanager
 fast
 fast-dds
-fast-ping
 fastfilepub
 fastgit
 fastlinq
@@ -2413,7 +2402,6 @@ find-caller
 find-file
 find-path
 finddownloadlinkfromwebsite
-findfile
 findlocation
 findplace
 findproxyforurl
@@ -2612,7 +2600,6 @@ get-dtdriverupdates
 get-dtscriptnewcmpackagefromdriverpackpackagedefinitionsms
 get-dtscriptnewcmtasksequencefromdriverpackpackagedefinitionsms
 get-emptyadgroups
-get-externalip
 get-firmwaretype
 get-help
 get-history
@@ -2706,6 +2693,8 @@ gping
 gpio
 gplink
 gpo
+gpo-maintenance
+gpo-tools
 gpodoc
 gpolinks
 gpp
@@ -2737,7 +2726,6 @@ gridfs
 grok
 groundspeak
 group
-group-membership
 group-policy
 groupmembership
 grouppolicy
@@ -2769,6 +2757,7 @@ ha
 haarlemsdagblad
 hack
 hacking
+hacktoberfest
 hadoop
 hafr
 hailstone
@@ -3031,12 +3020,22 @@ ilocmdlets
 im
 image
 image-converter
+image-creation
+image-generation
+image-process
+image-validation
 imagebuilder
+imagecreate
+imagecreation
+imagegeneration
 imageoftheday
+imageprocess
 imageprocessing
 images
 imageservicing
 imageslide
+imagevalidate
+imagevalidation
 imagga
 imagination
 imaging
@@ -3061,7 +3060,6 @@ incident
 incident-response
 incidentresponse
 incontact
-indents
 index
 indexdb
 indicator
@@ -3088,8 +3086,6 @@ inifile
 initialization
 initials-avatar
 initiator
-inline-progress
-inlineprogress
 innerjoin
 innertext
 input
@@ -3128,7 +3124,6 @@ integration
 integrationaccount
 integrationruntime
 integrationruntimedependency
-integrationservicescatalog
 integrity
 intel
 inteligo
@@ -3485,7 +3480,6 @@ limit-job
 limits
 lina
 line
-line-endings
 linear
 linearalgebra
 link
@@ -3863,7 +3857,6 @@ min
 mindmeister
 minecraft
 miniconda
-minifier
 minimal
 minimum
 mip
@@ -3980,9 +3973,6 @@ msproject
 msrc
 msrdc
 mssql
-mssqlbynarymodule
-mssqlbynarypsmodule
-mssqlmodule
 mssqlplugins
 mssqlserver
 msteams
@@ -3995,7 +3985,6 @@ mule
 mulesoft
 multi-factor
 multi-platform
-multi-threading
 multi-zone
 multicloud
 multidimenstional
@@ -4094,12 +4083,10 @@ netsuite
 network
 network adapter configuration operating os optical sensor physical pointing portable printer processor cpu refrigaration cooling cooler removable usb sd ram dimm scsi sound audio card enclosure tape temperature touchpad touch pad touchscreen screen trackball trackpoint video graphics voltage psmodule
 network-credentials
-network-info
 networkdiscovery
 networkdrives
 networkfirewall
 networkfunction
-networkinfo
 networking
 networkinterfaces
 networkloadbalancer
@@ -4416,7 +4403,6 @@ osubusage
 osx
 otp
 ou
-ou-object
 oui-search
 out-consolegridview
 out-default
@@ -4776,6 +4762,7 @@ powershelllogger
 powershellmodule
 powershellmoduleupdate
 powershellpr0mpt
+powershellscript
 powershelltemplate
 powershelltraining
 powershelltypeaccelerators
@@ -4810,7 +4797,6 @@ preprocessing
 preprocessor
 presentation
 presenter
-presto
 preston-k-parsard
 prettifier
 pretty
@@ -4946,6 +4932,7 @@ psdesiredstateconfiguration
 psdevops
 psdocs
 psdocs-documents
+psdocsgenerator
 psdrawio
 psdrive
 psdrives
@@ -5000,17 +4987,16 @@ psmodule
 psmodule psedition_desktop
 psmodulepath
 psmodules
+psmp
 psmsgraph
 psmsgraphapi
-psmssql
-psmssqlbynarymodule
-psmssqlmodule
 psmvp
 psnavigation
 psnexosisclient
 psngenposh
 psobject
 psoutlog
+pspath
 pspersonio
 pspowerhour
 psprofiler
@@ -5039,9 +5025,6 @@ psslack
 pssqlite
 pssqlitebynarymodule
 pssqlitemodule
-pssqlserver
-pssqlserverbynarymodule
-pssqlservermodule
 psst
 psstgenerator
 pstablacus
@@ -5384,7 +5367,6 @@ retry
 returnuserprofile
 retype
 reuse
-reverse-engineer
 reverse-string
 reversedsc
 reverseengineering
@@ -5502,6 +5484,7 @@ safari
 safe
 safeguard
 sage
+saggiehaim
 sailpoint
 sale
 sales
@@ -5546,6 +5529,7 @@ scalablevectorgraphics
 scan
 scanner
 scatter
+scb
 scc
 sccm
 sccmam
@@ -5790,6 +5774,7 @@ sftp
 sfx
 sgopher
 sgw
+sha256
 shadow
 shadowcopy
 shadowcopybackups
@@ -5887,7 +5872,6 @@ skyapi
 skype
 skype_for_business
 skype4b
-skype4business
 skypeforbusiness
 skypeforbusinessonline
 skypeonline
@@ -5940,7 +5924,6 @@ snmpset
 snmpv3
 snmpwalk
 snowflake
-snsmssqlpsmodule
 snspsscriptsmonitoring
 snssqlitepsmodule
 sntp
@@ -6010,6 +5993,7 @@ specification
 specify
 spectre
 spectrumconnect
+spectrumcontrolbase
 speculation
 speculationcontrol
 speech
@@ -6071,9 +6055,6 @@ sqlproject
 sqlps
 sqlserver
 sqlserveragent
-sqlserverbynarymodule
-sqlserverbynarypsmodule
-sqlservermodule
 sqlvirtualmachine
 sqr
 sqrt
@@ -6492,6 +6473,7 @@ timesheets
 timespan
 timezone
 tinkerpop
+tinymce
 tips
 title
 tls
@@ -6805,13 +6787,10 @@ userrightsassignment
 users
 userworkstations
 usg
-usps
 utc
 utf-8
-utf-sig
 utf7
 utf8
-utf8-sig
 utf8bom
 util
 utilities
@@ -7304,7 +7283,6 @@ write-wansi
 writeaccess
 writelog
 writemanager
-writeprogress
 writer
 ws-federation
 wsapi
@@ -7380,13 +7358,11 @@ xunit
 xwiki
 xwindowsupdate
 yahoo
-yahw
 yamaha
 yaml
 yandex
 yapg
 yarn
-yetanotherhelloworld
 yml
 ynab
 youtube
