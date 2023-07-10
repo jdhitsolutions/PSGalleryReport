@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 10 July 2023 09:52:50 UTC
+Updated: Monday, 10 July 2023 17:52:46 UTC
 
 ?:
 ??
@@ -419,7 +419,6 @@ archivematica
 archivial
 archivial-backup
 archivial-cloud-backup
-archlinux
 arcresourcebridge
 arcus
 area
@@ -718,6 +717,8 @@ bayern
 bb
 bbp
 bc
+bcd
+bcdedit
 bd
 bdd
 bds
@@ -816,6 +817,7 @@ bookmark
 bookmarks
 books
 bool
+bootloader psmodule
 bootstrap
 bootstrapping
 bop
@@ -836,7 +838,6 @@ brawlstars
 brazencloud
 bre
 breach
-break
 breakpoint
 brew
 brickset
@@ -1272,6 +1273,7 @@ compliant
 component
 composer
 composite
+compoundproperty
 compress
 compression
 compute
@@ -1768,7 +1770,6 @@ diff
 difference
 dig
 digikam
-digital
 digital-forensics
 digitalforensics
 digitalocean
@@ -1910,14 +1911,11 @@ dotteddecimalip
 doubleclick
 download
 downloader
-downloadfacebookvideo
-downloadfilefromsite
 downloadinfo
 downloading
 downloadoffice
 downloadofficertool
 downloads
-downloadyoutubevideo
 dpa
 dpapi
 dps
@@ -2068,6 +2066,7 @@ email-address
 emailaddressupdate
 emailautomation
 emailmanagment
+emailnotification
 emailnotificationcomponent
 emailsecurity
 embedded
@@ -2084,7 +2083,6 @@ enable
 enable-internet
 enable-psremoting
 enable-psremotingremote
-enbrea
 enclosure
 encode
 encode64
@@ -2108,7 +2106,6 @@ enteo
 enter
 enterprise
 enterprise-scale
-enterprisedb
 enterprisemanager
 enterprisevoice
 entity
@@ -2135,6 +2132,7 @@ epicor
 episode
 epplus
 eprosima
+epub
 epv
 equality
 erb
@@ -2267,7 +2265,6 @@ export
 export-cmhealthreport
 export-data
 export-passlist
-exportcertificate
 exportcertificates
 exporter
 exportexcel
@@ -2409,7 +2406,6 @@ find-call
 find-caller
 find-file
 find-path
-finddownloadlinkfromwebsite
 findfile
 findlocation
 findplace
@@ -2682,7 +2678,6 @@ google
 google-chrome
 google-histogram
 google-sankey
-google-table
 googleadsv2
 googlecloudplatform
 googledrive
@@ -2732,7 +2727,6 @@ gremlin
 grep
 greynoise
 grid
-gridfs
 grok
 groundspeak
 group
@@ -3240,6 +3234,9 @@ it-support
 it-tool
 it-tools
 item
+itemlist
+itemobject
+itemstack
 iterate
 iteration
 itg
@@ -3740,7 +3737,6 @@ maximum
 maxoffice
 mazerat
 mb
-mbc
 mbs
 mc
 mcafee
@@ -4090,7 +4086,6 @@ netfirewallrule
 netherlands
 netmask
 nets
-netsapiens
 netscaler
 netscape
 netsec
@@ -4195,7 +4190,6 @@ npslogfile
 nql
 nrc
 nrql
-ns
 ns.nl
 nsg
 nslookup
@@ -4229,6 +4223,7 @@ nxt
 nyse
 nzb
 o365
+o365mailnotification
 oa
 oacli
 oacmdlets
@@ -4508,6 +4503,7 @@ password_generation
 password-generator
 password-less
 password-manager
+passwordexpiration
 passwordexpiry
 passwordgeneration
 passwordgenerator
@@ -4733,7 +4729,6 @@ powercligoodies
 powerdex
 powerforensics
 powergraph
-powergui
 powermax
 powerplan
 powerplateform
@@ -5076,7 +5071,6 @@ publicfolder
 publicip
 publish
 publishedmodules
-publisher
 publishers
 publishing
 pubsub
@@ -5218,6 +5212,7 @@ react-stockcharts
 read
 read-slog
 readable
+reader
 readiness
 readme
 readpdf
@@ -5304,7 +5299,6 @@ reminder
 remote
 remote-desktop
 remote'
-remotecert
 remoteconnection
 remoteconnectionsmanager
 remotecontrol
@@ -5480,6 +5474,7 @@ ruby
 rule
 rulesengine
 run
+run-as-user
 runas
 runbook
 runbooks
@@ -5568,6 +5563,7 @@ schannel
 schannelpolicydsc
 schedule
 scheduled
+scheduled-task
 scheduled-tasks
 scheduledjob
 scheduledtasks
@@ -5748,6 +5744,7 @@ servicedesk
 servicedeskplus
 serviceendpoints
 servicefabric
+servicelinker
 servicemanagementautomation
 servicemanager
 servicemanagerproxy
@@ -5895,7 +5892,6 @@ skyapi
 skype
 skype_for_business
 skype4b
-skype4business
 skypeforbusiness
 skypeforbusinessonline
 skypeonline
@@ -6192,7 +6188,6 @@ streamanalytics
 streaming
 streamreader
 streamwriter
-stretch
 strictmode
 string
 string-template
@@ -6306,6 +6301,8 @@ system
 system information 1394 controller baseboard motherboard systemboard battery bios bus cache memory cd dvd rom drive compact disc desktop monitor disk partition fan floppy glide point heatpipe ide infrared device keyboard local logical array mouse'
 system-administration
 system-group
+system-service
+system-services
 system.directoryservices.protocols
 system.text
 systemcenter
@@ -6635,7 +6632,6 @@ twitter-hashtag
 twitter-mention
 twitter-share
 twitter-timeline
-twitter-tweet
 txt
 type
 typeaccelerators
@@ -7120,6 +7116,7 @@ weixin
 well-known
 wem
 wemsdk
+wer
 what3words
 whatismyip
 whatsnew
@@ -7311,6 +7308,7 @@ writeaccess
 writelog
 writemanager
 writeprogress
+writer
 ws-federation
 wsapi
 wsb
