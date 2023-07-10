@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Sunday, 09 July 2023 17:53:30 UTC
+Updated: Monday, 10 July 2023 02:24:21 UTC
 
 ?:
 ??
@@ -73,6 +73,7 @@ abc_testing
 abe
 about
 abr
+abstractsyntaxtree
 abuse
 abuseipdb
 acas
@@ -552,7 +553,6 @@ autoupdate-script
 autoyast
 availability
 availabilityset
-avalara
 avalonia
 avatar
 avd
@@ -872,7 +872,6 @@ builder
 building
 buildingfile
 buildingmapping
-buildkit
 buildkite
 buildmaster
 builds
@@ -895,6 +894,7 @@ bxor
 bydesign
 byexample
 bynarypsmodule
+byovd
 byte
 bytearray
 bzip2
@@ -1211,7 +1211,6 @@ cognitiveservices
 cohesity
 coinmarketcap
 collaboration
-collatordso
 collatz
 collection
 collectionmembershipevaluationcomponent
@@ -1560,7 +1559,6 @@ dacfx
 dacl
 dacpac
 dacpackage
-dagger
 dangling
 dapr
 dark
@@ -2736,7 +2734,6 @@ gremlin
 grep
 greynoise
 grid
-gridfs
 grok
 groundspeak
 group
@@ -2835,6 +2832,7 @@ heartbeatdiscovery
 heat
 heating
 heavenbay
+helium
 helix
 hello
 helloid
@@ -2879,6 +2877,7 @@ historyninja
 hitrust
 hive
 hivehome
+hjson
 hl7
 hlds
 hls
@@ -3023,6 +3022,7 @@ iis
 iis10
 iis8
 iisadministration
+iiscrypto
 ikev2
 il
 illinois
@@ -3194,6 +3194,7 @@ iothub
 iothubproperties
 ip
 ip-address
+ip-scanner
 ipa
 ipaddress
 ipam
@@ -3743,7 +3744,6 @@ maximum
 maxoffice
 mazerat
 mb
-mbc
 mbs
 mc
 mcafee
@@ -3774,6 +3774,8 @@ mediaservices
 mediawiki
 meditation
 meeting
+meetup
+meetup.com
 meewind
 megabyte
 melamed
@@ -4052,6 +4054,7 @@ naming
 nana
 nano
 nanoleaf
+nartac
 nasdaq
 native
 natpool
@@ -4257,7 +4260,6 @@ octopus-deploy
 octopus.client
 octopusdeploy
 octopusenergy
-ocvp
 od4b
 oda
 odata
@@ -4450,7 +4452,6 @@ p2s
 pa1reg
 paas
 pac
-pack
 package
 package-management
 package-manager
@@ -4683,6 +4684,7 @@ popd
 population
 popup
 port
+port-scanner
 port70
 portal
 ports
@@ -5005,7 +5007,6 @@ psloganalytics
 psm
 psm1
 psmodule
-psmodule psedition_desktop
 psmodulepath
 psmodules
 psmp
@@ -5164,6 +5165,7 @@ quotestoliveby
 quoting
 quser
 r
+r53
 rabbit
 rabbitmq
 rackspace
@@ -5439,7 +5441,6 @@ roca
 rock
 rocket
 rocketcyber
-role
 roles
 rollingfile
 romaji
@@ -5640,7 +5641,6 @@ search-adminauditlog
 search-engines
 searchengine
 searcher
-searching
 searchplace
 searchquery
 searchstring
@@ -5899,7 +5899,6 @@ skyapi
 skype
 skype_for_business
 skype4b
-skype4business
 skypeforbusiness
 skypeforbusinessonline
 skypeonline
@@ -6702,7 +6701,6 @@ ud-slider
 ud-speechbubble
 ud-step
 ud-stepbar
-ud-stickynavbar
 ud-tagcloud
 ud-timeline
 ud-timeout
@@ -6808,6 +6806,7 @@ useful
 user
 user-environment
 userdiscovery
+usergroup
 userinterface
 usermanagement
 username
@@ -6995,6 +6994,7 @@ vorbis
 vovin
 vpas
 vpasmodule
+vpc
 vpg
 vplex
 vpn
@@ -7141,6 +7141,7 @@ whormi
 wi-fi
 wia
 wia.imagefile
+wid
 wif
 wifi
 wiki
@@ -7195,8 +7196,8 @@ windowsevent
 windowseventlog
 windowsform
 windowsforms
-windowsindex
 windowsinstaller
+windowsinternaldatabase
 windowsinternals
 windowsiotservices
 windowsmanagementframework
@@ -7394,7 +7395,6 @@ yahw
 yamaha
 yaml
 yandex
-yapg
 yarn
 yetanotherhelloworld
 yml
