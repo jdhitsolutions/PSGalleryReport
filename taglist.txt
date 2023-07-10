@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 10 July 2023 02:24:21 UTC
+Updated: Monday, 10 July 2023 09:52:50 UTC
 
 ?:
 ??
@@ -553,6 +553,7 @@ autoupdate-script
 autoyast
 availability
 availabilityset
+avalara
 avalonia
 avatar
 avd
@@ -717,8 +718,6 @@ bayern
 bb
 bbp
 bc
-bcd
-bcdedit
 bd
 bdd
 bds
@@ -817,7 +816,6 @@ bookmark
 bookmarks
 books
 bool
-bootloader psmodule
 bootstrap
 bootstrapping
 bop
@@ -872,6 +870,7 @@ builder
 building
 buildingfile
 buildingmapping
+buildkit
 buildkite
 buildmaster
 builds
@@ -1211,6 +1210,7 @@ cognitiveservices
 cohesity
 coinmarketcap
 collaboration
+collatordso
 collatz
 collection
 collectionmembershipevaluationcomponent
@@ -1272,7 +1272,6 @@ compliant
 component
 composer
 composite
-compoundproperty
 compress
 compression
 compute
@@ -1559,6 +1558,7 @@ dacfx
 dacl
 dacpac
 dacpackage
+dagger
 dangling
 dapr
 dark
@@ -2068,7 +2068,6 @@ email-address
 emailaddressupdate
 emailautomation
 emailmanagment
-emailnotification
 emailnotificationcomponent
 emailsecurity
 embedded
@@ -2136,7 +2135,6 @@ epicor
 episode
 epplus
 eprosima
-epub
 epv
 equality
 erb
@@ -2734,6 +2732,7 @@ gremlin
 grep
 greynoise
 grid
+gridfs
 grok
 groundspeak
 group
@@ -3241,9 +3240,6 @@ it-support
 it-tool
 it-tools
 item
-itemlist
-itemobject
-itemstack
 iterate
 iteration
 itg
@@ -3744,6 +3740,7 @@ maximum
 maxoffice
 mazerat
 mb
+mbc
 mbs
 mc
 mcafee
@@ -4232,7 +4229,6 @@ nxt
 nyse
 nzb
 o365
-o365mailnotification
 oa
 oacli
 oacmdlets
@@ -4260,6 +4256,7 @@ octopus-deploy
 octopus.client
 octopusdeploy
 octopusenergy
+ocvp
 od4b
 oda
 odata
@@ -4452,6 +4449,7 @@ p2s
 pa1reg
 paas
 pac
+pack
 package
 package-management
 package-manager
@@ -4510,7 +4508,6 @@ password_generation
 password-generator
 password-less
 password-manager
-passwordexpiration
 passwordexpiry
 passwordgeneration
 passwordgenerator
@@ -5007,6 +5004,7 @@ psloganalytics
 psm
 psm1
 psmodule
+psmodule psedition_desktop
 psmodulepath
 psmodules
 psmp
@@ -5220,7 +5218,6 @@ react-stockcharts
 read
 read-slog
 readable
-reader
 readiness
 readme
 readpdf
@@ -5441,6 +5438,7 @@ roca
 rock
 rocket
 rocketcyber
+role
 roles
 rollingfile
 romaji
@@ -5482,7 +5480,6 @@ ruby
 rule
 rulesengine
 run
-run-as-user
 runas
 runbook
 runbooks
@@ -5571,7 +5568,6 @@ schannel
 schannelpolicydsc
 schedule
 scheduled
-scheduled-task
 scheduled-tasks
 scheduledjob
 scheduledtasks
@@ -5641,6 +5637,7 @@ search-adminauditlog
 search-engines
 searchengine
 searcher
+searching
 searchplace
 searchquery
 searchstring
@@ -5751,7 +5748,6 @@ servicedesk
 servicedeskplus
 serviceendpoints
 servicefabric
-servicelinker
 servicemanagementautomation
 servicemanager
 servicemanagerproxy
@@ -5899,6 +5895,7 @@ skyapi
 skype
 skype_for_business
 skype4b
+skype4business
 skypeforbusiness
 skypeforbusinessonline
 skypeonline
@@ -6309,8 +6306,6 @@ system
 system information 1394 controller baseboard motherboard systemboard battery bios bus cache memory cd dvd rom drive compact disc desktop monitor disk partition fan floppy glide point heatpipe ide infrared device keyboard local logical array mouse'
 system-administration
 system-group
-system-service
-system-services
 system.directoryservices.protocols
 system.text
 systemcenter
@@ -6701,6 +6696,7 @@ ud-slider
 ud-speechbubble
 ud-step
 ud-stepbar
+ud-stickynavbar
 ud-tagcloud
 ud-timeline
 ud-timeout
@@ -6861,7 +6857,6 @@ vaultextension
 vaultstore
 vb365
 vba
-vbaproject
 vbproj
 vbr
 vbscript
@@ -7125,7 +7120,6 @@ weixin
 well-known
 wem
 wemsdk
-wer
 what3words
 whatismyip
 whatsnew
@@ -7196,6 +7190,7 @@ windowsevent
 windowseventlog
 windowsform
 windowsforms
+windowsindex
 windowsinstaller
 windowsinternaldatabase
 windowsinternals
@@ -7316,7 +7311,6 @@ writeaccess
 writelog
 writemanager
 writeprogress
-writer
 ws-federation
 wsapi
 wsb
@@ -7395,6 +7389,7 @@ yahw
 yamaha
 yaml
 yandex
+yapg
 yarn
 yetanotherhelloworld
 yml
