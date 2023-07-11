@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 10 July 2023 17:52:46 UTC
+Updated: Tuesday, 11 July 2023 02:17:39 UTC
 
 ?:
 ??
@@ -45,7 +45,6 @@ Updated: Monday, 10 July 2023 17:52:46 UTC
 3dprinting
 3par
 50
-64
 650
 650flb
 7
@@ -419,6 +418,7 @@ archivematica
 archivial
 archivial-backup
 archivial-cloud-backup
+archlinux
 arcresourcebridge
 arcus
 area
@@ -838,6 +838,7 @@ brawlstars
 brazencloud
 bre
 breach
+break
 breakpoint
 brew
 brickset
@@ -1770,6 +1771,7 @@ diff
 difference
 dig
 digikam
+digital
 digital-forensics
 digitalforensics
 digitalocean
@@ -1911,11 +1913,14 @@ dotteddecimalip
 doubleclick
 download
 downloader
+downloadfacebookvideo
+downloadfilefromsite
 downloadinfo
 downloading
 downloadoffice
 downloadofficertool
 downloads
+downloadyoutubevideo
 dpa
 dpapi
 dps
@@ -2083,6 +2088,7 @@ enable
 enable-internet
 enable-psremoting
 enable-psremotingremote
+enbrea
 enclosure
 encode
 encode64
@@ -2106,6 +2112,7 @@ enteo
 enter
 enterprise
 enterprise-scale
+enterprisedb
 enterprisemanager
 enterprisevoice
 entity
@@ -2265,6 +2272,7 @@ export
 export-cmhealthreport
 export-data
 export-passlist
+exportcertificate
 exportcertificates
 exporter
 exportexcel
@@ -2406,6 +2414,7 @@ find-call
 find-caller
 find-file
 find-path
+finddownloadlinkfromwebsite
 findfile
 findlocation
 findplace
@@ -2727,6 +2736,7 @@ gremlin
 grep
 greynoise
 grid
+gridfs
 grok
 groundspeak
 group
@@ -2806,7 +2816,6 @@ hba
 hbase
 hci
 hcl
-hcm
 hcx
 hdfs
 hdinsight
@@ -3184,7 +3193,6 @@ ios
 iot
 iotcentral
 iothub
-iothubproperties
 ip
 ip-address
 ip-scanner
@@ -3737,6 +3745,7 @@ maximum
 maxoffice
 mazerat
 mb
+mbc
 mbs
 mc
 mcafee
@@ -3865,7 +3874,6 @@ mimekit
 min
 mindmeister
 minecraft
-miniconda
 minifier
 minimal
 minimum
@@ -3906,7 +3914,6 @@ moldova
 moment
 monaco
 monday
-mondoo
 money
 moneyforward
 mongo
@@ -4729,6 +4736,7 @@ powercligoodies
 powerdex
 powerforensics
 powergraph
+powergui
 powermax
 powerplan
 powerplateform
@@ -4799,7 +4807,6 @@ pranks
 predicate
 prediction
 predictive
-predictive-text
 predictor
 preferences
 prefix
@@ -4999,7 +5006,6 @@ psloganalytics
 psm
 psm1
 psmodule
-psmodule psedition_desktop
 psmodulepath
 psmodules
 psmp
@@ -5071,6 +5077,7 @@ publicfolder
 publicip
 publish
 publishedmodules
+publisher
 publishers
 publishing
 pubsub
@@ -5299,6 +5306,7 @@ reminder
 remote
 remote-desktop
 remote'
+remotecert
 remoteconnection
 remoteconnectionsmanager
 remotecontrol
@@ -5892,6 +5900,7 @@ skyapi
 skype
 skype_for_business
 skype4b
+skype4business
 skypeforbusiness
 skypeforbusinessonline
 skypeonline
@@ -6188,6 +6197,7 @@ streamanalytics
 streaming
 streamreader
 streamwriter
+stretch
 strictmode
 string
 string-template
@@ -6632,6 +6642,7 @@ twitter-hashtag
 twitter-mention
 twitter-share
 twitter-timeline
+twitter-tweet
 txt
 type
 typeaccelerators
@@ -6853,6 +6864,7 @@ vaultextension
 vaultstore
 vb365
 vba
+vbaproject
 vbproj
 vbr
 vbscript
