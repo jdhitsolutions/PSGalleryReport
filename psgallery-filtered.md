@@ -3,6 +3,103 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [PentaWork.Xrm.PowerShell](https://www.powershellgallery.com/Packages/PentaWork.Xrm.PowerShell/1.6.1) | 1.6.1
+
+### Published: 07/11/2023 09:39:58 by Gerrit Gazic
+
+PowerShell module for running tasks on Dynamics365/PowerApp/XRM
+
+__Downloads__: 973 | __Repository__: https://github.com/pentawork-solutions/PentaWork.Xrm.PowerShell
+
+## [AppManiProgramManager](https://www.powershellgallery.com/Packages/AppManiProgramManager/1.30.0) | 1.30.0
+
+### Published: 07/11/2023 08:39:21 by AppMani
+
+Module for installing basic programs: This module provides functions for downloading installers from specified links, installing the programs, verifying the installed programs/services, and cleaning up the installer files.
+
+__Downloads__: 99,719 | __Repository__: 
+
+## [CitrixOptimizerAutomation](https://www.powershellgallery.com/Packages/CitrixOptimizerAutomation/2307.2) | 2307.2
+
+### Published: 07/11/2023 07:41:46 by David Brett
+
+PowerShell module to automate the creation of Citrix Optimizer Templates using simple pre-build cmdlets. Covers Services, Scheduled Tasks, Registry and Scripted Actions.
+
+__Downloads__: 3 | __Repository__: https://bretty.me.uk/CitrixOptimizer
+
+## [AzureADStuff](https://www.powershellgallery.com/Packages/AzureADStuff/1.1.1) | 1.1.1
+
+### Published: 07/11/2023 06:22:36 by @AndrewZtrhgf
+
+Various Azure related functions. Some of them are explained at https://doitpsway.com/series/azure.
+
+Some of the interesting functions:
+- Add-AzureADAppUserConsent - granting permission consent on behalf of another user
+- Add-AzureADAppCertificate - add the auth. certificate (existing or create self-signed) to selected Azure application as an secret
+- Get-AzureADAccountOccurrence - for getting all occurrences of specified account in your Azure environment
+- Get-AzureADAppVerificationStatus - get Azure app publisher verification status
+- Get-AzureADAppConsentRequest - for getting all application admin consent requests
+- Get-AzureADDeviceMembership - similar to Get-AzureADUserMembership, but for devices
+- Get-AzureDevOpsOrganizationOverview - list of all DevOps organizations
+- Remove-AzureADAccountOccurrence - remove specified account from various Azure environment sections and optionally replace it with other user and inform him. Should be used with Get-AzureADAccountOccurrence.
+- Remove-AzureADAppUserConsent - removes user consent
+- ...
+
+Some of the authentication-related functions:
+- Connect-AzureAD2 - smarter version of Connect-AzureAD that can reuse existing session and more
+- New-AzureDevOpsAuthHeader
+- New-GraphAPIAuthHeader
+
+__Downloads__: 564 | __Repository__: https://github.com/ztrhgf/useful_powershell_modules
+
+## [IntuneStuff](https://www.powershellgallery.com/Packages/IntuneStuff/1.4.2) | 1.4.2
+
+### Published: 07/11/2023 06:21:47 by @AndrewZtrhgf
+
+Various Intune related functions. Some of them are explained at https://doitpsway.com/series/sccm-mdt-intune.
+
+Some of the interesting functions:
+- Get-IntuneRemediationScriptLocally - gets Intune Remediation scripts information from client`s log files and registry (including scripts content)
+- Get-IntuneScriptLocally - gets Intune (non-remediation) scripts information from client`s registry and captured script files (including scripts content)
+- Get-IntuneWin32AppLocally - gets Win32Apps information from client`s log files and registry (including install/uninstall commands and detection/requirements scripts)
+- Get-ClientIntunePolicyResult - RSOP/gpresult for Intune (also available as HTML report)
+- Get-IntuneLog - opens Intune logs (files & system logs)
+- Get-IntunePolicy - gets ALL Intune (assignable) policies (from Apps to Windows Update Rings)
+- Get-UserSIDForUserAzureID - translates user AzureID to local SID
+- Invoke-MDMReenrollment - resets device Intune management connection
+- Invoke-IntuneScriptRedeploy - redeploy script deployed from Intune
+- Invoke-IntuneWin32AppRedeploy - redeploy application deployed from Intune
+- Reset-HybridADJoin - reset Hybrid AzureAD join connection
+- Reset-IntuneEnrollment - reset device Intune management enrollment
+- Search-IntuneAccountPolicyAssignment - search user/device/group assigned Intune policies
+- Set-AADDeviceExtensionAttribute - set/reset device extension attribute
+- Upload-IntuneAutopilotHash - upload given autopilot hash (owner and hostname) into Intune
+- ...
+
+__Downloads__: 10,389 | __Repository__: https://github.com/ztrhgf/useful_powershell_modules
+
+## [MSGraphStuff](https://www.powershellgallery.com/Packages/MSGraphStuff/1.0.1) | 1.0.1
+
+### Published: 07/11/2023 06:21:21 by @AndrewZtrhgf
+
+Microsoft Graph API related functions. Some of them are explained at https://doitpsway.com.
+
+Some of the functions:
+- Expand-MgAdditionalProperties - Function for expanding "AdditionalProperties" hash property to the main object aka flattens the returned object
+- Invoke-GraphAPIRequest - Function for creating request against Microsoft Graph API. Unlike official one supports paging and throttling.
+- New-GraphAPIAuthHeader - Function for generating header that can be used for authentication of Graph API requests
+- ...
+
+__Downloads__: 42 | __Repository__: https://github.com/ztrhgf/useful_powershell_modules
+
+## [powershell-windows-autoproxy](https://www.powershellgallery.com/Packages/powershell-windows-autoproxy/1.2.0) | 1.2.0
+
+### Published: 07/11/2023 05:57:22 by HuaDeity and ChatGPT
+
+Auto Set Proxy for Windows PowerShell
+
+__Downloads__: 32 | __Repository__: 
+
 ## [Win32AppManagement](https://www.powershellgallery.com/Packages/Win32AppManagement/1.0.1.0) | 1.0.1.0
 
 ### Published: 07/11/2023 01:58:02 by Jon Anderson
@@ -258,7 +355,7 @@ __Downloads__: 2 | __Repository__: https://github.com/SeryiBaran/TestNodeJSVersi
 
 Provide a better and easier way for GitHub Actions to communicate with the runner machine, and the toolkit for developing GitHub Actions in PowerShell.
 
-__Downloads__: 57,520 | __Repository__: https://github.com/hugoalh-studio/ghactions-toolkit-powershell
+__Downloads__: 57,514 | __Repository__: https://github.com/hugoalh-studio/ghactions-toolkit-powershell
 
 ## [Pilot](https://www.powershellgallery.com/Packages/Pilot/0.0.3) | 0.0.3
 
@@ -451,21 +548,13 @@ Script your streams
 
 __Downloads__: 278 | __Repository__: https://github.com/StartAutomating/obs-powershell
 
-## [CitrixOptimizerAutomation](https://www.powershellgallery.com/Packages/CitrixOptimizerAutomation/2307.1) | 2307.1
-
-### Published: 07/07/2023 19:30:38 by David Brett
-
-PowerShell module to automate the creation of Citrix Optimizer Templates using simple pre-build cmdlets. Covers Services, Scheduled Tasks, Registry and Scripted Actions.
-
-__Downloads__: 3 | __Repository__: https://bretty.me.uk/CitrixOptimizer
-
 ## [WindowsAutoPilotIntune](https://www.powershellgallery.com/Packages/WindowsAutoPilotIntune/5.6) | 5.6
 
 ### Published: 07/07/2023 19:02:56 by Windows Autopilot
 
 Sample module to manage AutoPilot devices using the Intune Graph API
 
-__Downloads__: 6,720,534 | __Repository__: 
+__Downloads__: 6,720,408 | __Repository__: 
 
 ## [BcContainerHelper](https://www.powershellgallery.com/Packages/BcContainerHelper/5.0.4) | 5.0.4
 
@@ -596,7 +685,7 @@ __Downloads__: 689 | __Repository__: https://github.com/carsten-riedel/CoreePowe
 
 Zip and GZip utilities for PowerShell!
 
-__Downloads__: 11,528 | __Repository__: https://github.com/santisq/PSCompression
+__Downloads__: 11,524 | __Repository__: https://github.com/santisq/PSCompression
 
 ## [ConnectWiseManageAPI](https://www.powershellgallery.com/Packages/ConnectWiseManageAPI/0.4.12.0) | 0.4.12.0
 
@@ -604,7 +693,7 @@ __Downloads__: 11,528 | __Repository__: https://github.com/santisq/PSCompression
 
 PowerShell wrapper for the ConnectWise Manage REST API
 
-__Downloads__: 114,138 | __Repository__: https://github.com/christaylorcodes/ConnectWiseManageAPI
+__Downloads__: 114,137 | __Repository__: https://github.com/christaylorcodes/ConnectWiseManageAPI
 
 ## [TransitionManager](https://www.powershellgallery.com/Packages/TransitionManager/6.3.0) | 6.3.0
 
@@ -710,7 +799,7 @@ __Downloads__: 42 | __Repository__: https://github.com/Stephanevg/PesterLove
 
 Office 365 Health Service
 
-__Downloads__: 314,268 | __Repository__: https://github.com/EvotecIT/PSWinDocumentation.O365HealthService
+__Downloads__: 314,253 | __Repository__: https://github.com/EvotecIT/PSWinDocumentation.O365HealthService
 
 ## [RiverMeadow.Development.Migrate](https://www.powershellgallery.com/Packages/RiverMeadow.Development.Migrate/1.0.116.255) | 1.0.116.255
 
@@ -1384,6 +1473,14 @@ PwSh.Fw.Iso is a collection of functions to manage ISO files
 
 __Downloads__: 443 | __Repository__: https://gitlab.com/pwsh.fw/pwsh.fw.iso
 
+## [Lomtec.com.SourceCode](https://www.powershellgallery.com/Packages/Lomtec.com.SourceCode/1.4.8) | 1.4.8
+
+### Published: 06/29/2023 13:03:20 by Imrich Szolik
+
+Lomtec.com SourceCode cmdlets
+
+__Downloads__: 750 | __Repository__: 
+
 ## [Juriba.Platform](https://www.powershellgallery.com/Packages/Juriba.Platform/0.0.39.0) | 0.0.39.0
 
 ### Published: 06/29/2023 12:48:19 by Juriba
@@ -1410,7 +1507,7 @@ AADInternals allows you to export ADFS certificates, Azure AD Connect passwords,
 
 DISCLAIMER: Functionality provided through this module are not supported by Microsoft and thus should not be used in a production environment. Use on your own risk!
 
-__Downloads__: 63,881 | __Repository__: https://aadinternals.com/aadinternals
+__Downloads__: 63,879 | __Repository__: https://aadinternals.com/aadinternals
 
 ## [CAT](https://www.powershellgallery.com/Packages/CAT/0.14.6.2) | 0.14.6.2
 
@@ -1426,7 +1523,7 @@ __Downloads__: 130 | __Repository__: https://docs.justcat.it/
 
 Automation tools for production quality database deployment
 
-__Downloads__: 4,269,928 | __Repository__: https://www.red-gate.com/sca/productpage
+__Downloads__: 4,269,895 | __Repository__: https://www.red-gate.com/sca/productpage
 
 ## [Az.Avd](https://www.powershellgallery.com/Packages/Az.Avd/3.0.0) | 3.0.0
 
@@ -1515,6 +1612,14 @@ __Downloads__: 33 | __Repository__: https://github.com/PureStorage-OpenConnect/P
 PowerShell Toolkit for Pure Storage Flasharray and Initiators.
 
 __Downloads__: 32 | __Repository__: https://github.com/PureStorage-OpenConnect/PowerShell-Toolkit
+
+## [PureStoragePowerShellToolkit.FlashArray](https://www.powershellgallery.com/Packages/PureStoragePowerShellToolkit.FlashArray/3.0.1) | 3.0.1
+
+### Published: 06/28/2023 15:43:33 by Pure Storage
+
+PowerShell Toolkit for Pure Storage Flasharray and Initiators.
+
+__Downloads__: 36 | __Repository__: https://github.com/PureStorage-OpenConnect/PowerShell-Toolkit
 
 ## [VpasModule](https://www.powershellgallery.com/Packages/VpasModule/13.1.1) | 13.1.1
 
@@ -2022,68 +2127,4 @@ This modules provides Cmdlets for OCI Mysql Service
 
 __Downloads__: 14,596 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-## [OCI.PSModules.Monitoring](https://www.powershellgallery.com/Packages/OCI.PSModules.Monitoring/60.2.0) | 60.2.0
-
-### Published: 06/27/2023 19:07:22 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Monitoring Service
-
-__Downloads__: 3,265 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Mediaservices](https://www.powershellgallery.com/Packages/OCI.PSModules.Mediaservices/60.2.0) | 60.2.0
-
-### Published: 06/27/2023 19:07:16 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Mediaservices Service
-
-__Downloads__: 1,216 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Marketplace](https://www.powershellgallery.com/Packages/OCI.PSModules.Marketplace/60.2.0) | 60.2.0
-
-### Published: 06/27/2023 19:07:10 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Marketplace Service
-
-__Downloads__: 3,241 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Managementdashboard](https://www.powershellgallery.com/Packages/OCI.PSModules.Managementdashboard/60.2.0) | 60.2.0
-
-### Published: 06/27/2023 19:07:03 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Managementdashboard Service
-
-__Downloads__: 4,004 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Managementagent](https://www.powershellgallery.com/Packages/OCI.PSModules.Managementagent/60.2.0) | 60.2.0
-
-### Published: 06/27/2023 19:06:57 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Managementagent Service
-
-__Downloads__: 3,206 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Loggingsearch](https://www.powershellgallery.com/Packages/OCI.PSModules.Loggingsearch/60.2.0) | 60.2.0
-
-### Published: 06/27/2023 19:06:51 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Loggingsearch Service
-
-__Downloads__: 3,227 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Loggingingestion](https://www.powershellgallery.com/Packages/OCI.PSModules.Loggingingestion/60.2.0) | 60.2.0
-
-### Published: 06/27/2023 19:06:44 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Loggingingestion Service
-
-__Downloads__: 3,510 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Logging](https://www.powershellgallery.com/Packages/OCI.PSModules.Logging/60.2.0) | 60.2.0
-
-### Published: 06/27/2023 19:06:38 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Logging Service
-
-__Downloads__: 3,425 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-*Updated: Tuesday, 11 July 2023 02:17:27 UTC*
+*Updated: Tuesday, 11 July 2023 09:53:01 UTC*

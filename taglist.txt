@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Tuesday, 11 July 2023 02:17:39 UTC
+Updated: Tuesday, 11 July 2023 09:53:15 UTC
 
 ?:
 ??
@@ -45,6 +45,7 @@ Updated: Tuesday, 11 July 2023 02:17:39 UTC
 3dprinting
 3par
 50
+64
 650
 650flb
 7
@@ -664,7 +665,6 @@ azurerunasconnection
 azuresearch
 azuresearcher
 azuresecuritycenter
-azureservicebus
 azuresigntool
 azuresql
 azuresqlexport
@@ -758,7 +758,6 @@ bin
 bin-obj
 binary
 binaryip
-bind
 binding
 bing
 bingmap
@@ -1583,7 +1582,6 @@ databaseautomation
 databasemanagement
 databasemigration
 databases
-databasetools
 databooster
 databox
 databoxedge
@@ -2272,7 +2270,6 @@ export
 export-cmhealthreport
 export-data
 export-passlist
-exportcertificate
 exportcertificates
 exporter
 exportexcel
@@ -2687,6 +2684,7 @@ google
 google-chrome
 google-histogram
 google-sankey
+google-table
 googleadsv2
 googlecloudplatform
 googledrive
@@ -2816,6 +2814,7 @@ hba
 hbase
 hci
 hcl
+hcm
 hcx
 hdfs
 hdinsight
@@ -3193,6 +3192,7 @@ ios
 iot
 iotcentral
 iothub
+iothubproperties
 ip
 ip-address
 ip-scanner
@@ -3914,6 +3914,7 @@ moldova
 moment
 monaco
 monday
+mondoo
 money
 moneyforward
 mongo
@@ -4093,6 +4094,7 @@ netfirewallrule
 netherlands
 netmask
 nets
+netsapiens
 netscaler
 netscape
 netsec
@@ -4197,6 +4199,7 @@ npslogfile
 nql
 nrc
 nrql
+ns
 ns.nl
 nsg
 nslookup
@@ -5006,6 +5009,7 @@ psloganalytics
 psm
 psm1
 psmodule
+psmodule psedition_desktop
 psmodulepath
 psmodules
 psmp
@@ -5149,7 +5153,6 @@ quarantine
 queries
 query
 queue
-queues
 queuing
 quickaccess
 quickbase
@@ -5306,7 +5309,6 @@ reminder
 remote
 remote-desktop
 remote'
-remotecert
 remoteconnection
 remoteconnectionsmanager
 remotecontrol
@@ -5439,7 +5441,6 @@ robust
 roca
 rock
 rocket
-rocketcyber
 role
 roles
 rollingfile
@@ -5983,7 +5984,6 @@ solutions
 sonarcloud
 sonarqube
 sonarr
-sonatype
 songs
 sonicwall
 sonicwallvpn
@@ -6534,7 +6534,6 @@ tools
 tools4ever
 topdesk
 topgrade
-topics
 topology
 tor
 toradex
@@ -6615,7 +6614,6 @@ trx
 ts
 tsa
 tsd
-tsheets
 tsqlbestpractice
 tst
 tst1
@@ -6653,7 +6651,6 @@ types.ps1xml
 typescript
 tzutil
 uac
-uberagent
 ubiquiti
 ubnt
 ubuntu
@@ -6858,7 +6855,6 @@ variable
 variables
 variance
 variants
-vastlimits
 vault
 vaultextension
 vaultstore
