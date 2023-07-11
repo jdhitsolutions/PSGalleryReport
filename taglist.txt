@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Tuesday, 11 July 2023 09:53:15 UTC
+Updated: Tuesday, 11 July 2023 17:52:46 UTC
 
 ?:
 ??
@@ -419,7 +419,6 @@ archivematica
 archivial
 archivial-backup
 archivial-cloud-backup
-archlinux
 arcresourcebridge
 arcus
 area
@@ -565,6 +564,7 @@ avro
 avs
 avset
 await
+awareness
 awesome
 awp
 awpagent
@@ -665,6 +665,7 @@ azurerunasconnection
 azuresearch
 azuresearcher
 azuresecuritycenter
+azureservicebus
 azuresigntool
 azuresql
 azuresqlexport
@@ -758,6 +759,7 @@ bin
 bin-obj
 binary
 binaryip
+bind
 binding
 bing
 bingmap
@@ -1514,7 +1516,6 @@ current
 curseforge
 custom
 customchecks
-customdns
 customer
 customerengagement
 customers
@@ -1582,6 +1583,7 @@ databaseautomation
 databasemanagement
 databasemigration
 databases
+databasetools
 databooster
 databox
 databoxedge
@@ -1858,7 +1860,6 @@ dnsentry
 dnsimple
 dnslookup
 dnsmadeeasy
-dnsoverhttps
 dnsrecord
 dnsresolver
 dnsserver
@@ -1998,7 +1999,6 @@ dxexpeditions
 dynamic
 dynamic-host-configuration-protocol
 dynamicdistributiongroups
-dynamicdnsoverhttps
 dynamicparam
 dynamicparameters
 dynamics
@@ -2270,6 +2270,7 @@ export
 export-cmhealthreport
 export-data
 export-passlist
+exportcertificate
 exportcertificates
 exporter
 exportexcel
@@ -2550,7 +2551,6 @@ gainz-keepass
 gainz-sqldb
 gallery
 game
-gamecategory:cards
 games
 gameserver
 gaming
@@ -3098,7 +3098,6 @@ inheritance
 ini
 inifile
 initialization
-initials-avatar
 initiator
 inline-progress
 inlineprogress
@@ -3333,7 +3332,6 @@ kaseyavsa
 katakana
 kb
 kbarticle
-kdbx
 keenetic
 keepachangelog
 keepass
@@ -3874,6 +3872,7 @@ mimekit
 min
 mindmeister
 minecraft
+miniconda
 minifier
 minimal
 minimum
@@ -4336,7 +4335,6 @@ onyphe
 onyphe.io
 oob
 oop
-op
 opa
 opc
 open
@@ -4769,7 +4767,6 @@ powershell-script
 powershell-terminal
 powershell-terminal-copilot
 powershell-training
-powershell.module.invokewinget
 powershell.one
 powershell.persistentpathstack
 powershell7
@@ -4810,6 +4807,7 @@ pranks
 predicate
 prediction
 predictive
+predictive-text
 predictor
 preferences
 prefix
@@ -4823,7 +4821,6 @@ presentation
 presenter
 presto
 preston-k-parsard
-prettifier
 pretty
 prettyprinter
 preview
@@ -4888,6 +4885,7 @@ proliant
 prometheus
 prompt
 pronounceable
+proofpoint
 properties
 property
 property-list
@@ -4935,6 +4933,7 @@ psadbscreencap
 psadt
 psake
 psappdeploytoolkit
+psat
 psazd
 psbackup
 psbbix
@@ -4975,7 +4974,6 @@ psedition_psedition_core
 psedition_psedition_desktop
 psedition_windows
 psedition-desktop
-psediton_desktop
 psenv
 pses
 psexcel
@@ -5153,6 +5151,7 @@ quarantine
 queries
 query
 queue
+queues
 queuing
 quickaccess
 quickbase
@@ -5309,6 +5308,7 @@ reminder
 remote
 remote-desktop
 remote'
+remotecert
 remoteconnection
 remoteconnectionsmanager
 remotecontrol
@@ -5441,6 +5441,7 @@ robust
 roca
 rock
 rocket
+rocketcyber
 role
 roles
 rollingfile
@@ -5662,7 +5663,6 @@ secur32
 secure
 secureapplicationmodel
 securechannel
-securedns
 securegopher
 securegopher+
 securemfa
@@ -5763,7 +5763,6 @@ serviceplan
 servicepointmanager
 serviceprincipal
 services
-servicestatus
 servicestore
 servicing
 servicingstack
@@ -5984,6 +5983,7 @@ solutions
 sonarcloud
 sonarqube
 sonarr
+sonatype
 songs
 sonicwall
 sonicwallvpn
@@ -6534,6 +6534,7 @@ tools
 tools4ever
 topdesk
 topgrade
+topics
 topology
 tor
 toradex
@@ -6614,6 +6615,7 @@ trx
 ts
 tsa
 tsd
+tsheets
 tsqlbestpractice
 tst
 tst1
@@ -6651,6 +6653,7 @@ types.ps1xml
 typescript
 tzutil
 uac
+uberagent
 ubiquiti
 ubnt
 ubuntu
@@ -6689,7 +6692,6 @@ ud-piechart3d
 ud-pivottable
 ud-progressstepbar
 ud-rangeslider
-ud-readingbar
 ud-scrollspy
 ud-selectdatetime
 ud-selector
@@ -6833,7 +6835,6 @@ utm
 uudecode
 uuencode
 uuid
-uup
 uw
 uwp
 ux
@@ -6855,6 +6856,7 @@ variable
 variables
 variance
 variants
+vastlimits
 vault
 vaultextension
 vaultstore
@@ -7108,7 +7110,6 @@ webservice
 webservices
 website
 websites
-websocket
 websockets
 websphere
 websphereappserver
