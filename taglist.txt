@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Wednesday, 12 July 2023 09:52:52 UTC
+Updated: Wednesday, 12 July 2023 17:52:50 UTC
 
 ?:
 ??
@@ -87,8 +87,6 @@ accessgovernancecp
 accesspoint
 accessrights
 accesstoken
-accord
-accord.net
 accordian
 account
 accounting
@@ -113,6 +111,7 @@ active
 active_directory
 active-directory
 active-plug
+activecampaign
 activedirectory
 activedirectory_over_html
 activedirectoryauthenticationlibrary
@@ -131,7 +130,10 @@ acumatica
 ad
 ad_monitoring
 ad-ds
+ad-object
+ad-ou-object
 ad-report
+ad-site
 adal
 adapter
 adapter-control
@@ -185,11 +187,14 @@ ado_security
 ado.net
 adobe
 adobeflash
+adobject
+adouobject
 adoxio
 adp
 adr
 ads
 adsi
+adsite
 adsync
 aduser
 aduseraccountlockout
@@ -315,7 +320,6 @@ annotated
 announcement
 announcementsservice
 anonymous
-anova
 ansi
 ansible
 ansible-control-node
@@ -359,7 +363,6 @@ appclusive
 appcmd
 appconfiguration
 appdynamics
-appearance
 appender
 appian
 appinsights
@@ -758,7 +761,6 @@ binding
 bing
 bingmap
 bingmaps
-binomial
 bios
 bios_settings
 bios-settings
@@ -864,6 +866,7 @@ build-log
 build-scripts
 builddefinition
 builder
+building
 buildingfile
 buildingmapping
 buildkit
@@ -1024,9 +1027,9 @@ chef-compliance
 chef-server
 chefconf2016
 chenxizhang
+cherrypy
 cherwell
 chfs
-chi
 china
 choco
 choco-bear
@@ -1389,7 +1392,6 @@ coreposh
 corona
 corporate
 cortex
-cos
 cosmos
 cosmosdb
 cost
@@ -1508,6 +1510,7 @@ current
 curseforge
 custom
 customchecks
+customdns
 customer
 customerengagement
 customers
@@ -1685,6 +1688,7 @@ delegated
 delegationmodel
 delete
 delete-orphan-branches
+deleteuserprofile
 delivery
 dell
 dellemc
@@ -1728,7 +1732,6 @@ developercommandprompt
 development
 devenv
 devexpress
-deviation
 device
 devicecode
 deviceid
@@ -1807,7 +1810,6 @@ diskpart
 diskpool
 diskspace
 dism
-dismal
 display
 displayresolution
 distance
@@ -1851,6 +1853,7 @@ dnsentry
 dnsimple
 dnslookup
 dnsmadeeasy
+dnsoverhttps
 dnsrecord
 dnsresolver
 dnsserver
@@ -1903,11 +1906,14 @@ dotteddecimalip
 doubleclick
 download
 downloader
+downloadfacebookvideo
+downloadfilefromsite
 downloadinfo
 downloading
 downloadoffice
 downloadofficertool
 downloads
+downloadyoutubevideo
 dpa
 dpapi
 dps
@@ -1917,7 +1923,6 @@ draw
 drawio
 dreams
 dreamweaver
-dreary
 drift
 driftmonitor
 drive
@@ -1987,6 +1992,7 @@ dxexpeditions
 dynamic
 dynamic-host-configuration-protocol
 dynamicdistributiongroups
+dynamicdnsoverhttps
 dynamicparam
 dynamicparameters
 dynamics
@@ -2102,7 +2108,6 @@ enterprisedb
 enterprisemanager
 enterprisevoice
 entity
-entityframework
 entra
 entropy
 enum
@@ -2239,7 +2244,6 @@ exitcode
 exo
 exov2
 exov3
-exp
 expand
 expand-string
 expand-tab
@@ -2282,7 +2286,6 @@ extract
 extractor
 extreme-networks
 eztheme
-f
 f#
 f5
 facebook
@@ -2301,6 +2304,7 @@ farm
 farmanager
 fast
 fast-dds
+fast-ping
 fastfilepub
 fastgit
 fastlinq
@@ -2399,6 +2403,8 @@ find-call
 find-caller
 find-file
 find-path
+finddownloadlinkfromwebsite
+findfile
 findlocation
 findplace
 findproxyforurl
@@ -2410,7 +2416,6 @@ firewall-management
 firewallrule
 firmware
 first
-fisher
 fissionproducts
 fitbit
 fits
@@ -2670,6 +2675,7 @@ google
 google-chrome
 google-histogram
 google-sankey
+google-table
 googleadsv2
 googlecloudplatform
 googledrive
@@ -2723,6 +2729,7 @@ gridfs
 grok
 groundspeak
 group
+group-membership
 group-policy
 groupmembership
 grouppolicy
@@ -2945,7 +2952,6 @@ hyperthreading
 hyperv
 hypervisor
 hypervplugins
-hypothesis
 hysolate
 hysolatemangementconsole
 i-doit
@@ -2990,7 +2996,6 @@ identity-management
 identitydataplane
 identitydirector
 identitydomains
-identitynow
 idf
 idm
 idna
@@ -3084,6 +3089,8 @@ inifile
 initialization
 initials-avatar
 initiator
+inline-progress
+inlineprogress
 innerjoin
 innertext
 input
@@ -3222,6 +3229,7 @@ isvalidip
 it
 it-support
 it-tool
+it-tools
 item
 itemlist
 itemobject
@@ -3479,7 +3487,6 @@ limits
 lina
 line
 line-endings
-linear
 linearalgebra
 link
 link-preview
@@ -3572,7 +3579,6 @@ logingestion
 loginscreen
 loginsight
 logiphys
-logistic
 logitech
 logmail
 logmails
@@ -3654,6 +3660,7 @@ maintain-module
 maintenance
 maintenance-window
 maintenancewindows
+make
 maker
 malware
 mamagedidentity
@@ -3744,7 +3751,6 @@ mdop
 mdt
 mdx
 me4024
-mean
 measure
 measure-loc
 measure-process
@@ -3987,6 +3993,7 @@ mule
 mulesoft
 multi-factor
 multi-platform
+multi-threading
 multi-zone
 multicloud
 multidimenstional
@@ -4074,7 +4081,6 @@ netfirewallrule
 netherlands
 netmask
 nets
-netsapiens
 netscaler
 netscape
 netsec
@@ -4085,10 +4091,12 @@ netsuite
 network
 network adapter configuration operating os optical sensor physical pointing portable printer processor cpu refrigaration cooling cooler removable usb sd ram dimm scsi sound audio card enclosure tape temperature touchpad touch pad touchscreen screen trackball trackpoint video graphics voltage psmodule
 network-credentials
+network-info
 networkdiscovery
 networkdrives
 networkfirewall
 networkfunction
+networkinfo
 networking
 networkinterfaces
 networkloadbalancer
@@ -4150,7 +4158,6 @@ noneimages
 noninteractive
 nord
 nordtools
-normal
 norskale
 norway
 norwegian
@@ -4177,7 +4184,6 @@ npslogfile
 nql
 nrc
 nrql
-ns
 ns.nl
 nsg
 nslookup
@@ -4405,6 +4411,7 @@ osubusage
 osx
 otp
 ou
+ou-object
 oui-search
 out-consolegridview
 out-default
@@ -4476,7 +4483,6 @@ parser
 parsing
 partition
 partitions
-partner
 partnercenter
 partnerportal
 pas
@@ -4555,7 +4561,6 @@ permutations
 persistence
 persistent
 personal
-personalisation
 personalization
 personalvault
 personio
@@ -4578,7 +4583,6 @@ photograph
 photos
 php
 phpapam
-pi
 picker
 picture
 pictures
@@ -4698,7 +4702,6 @@ position
 postgre
 postgres
 postgresql
-pow
 powdrgit
 power
 power-cbr
@@ -4764,7 +4767,6 @@ powershelllogger
 powershellmodule
 powershellmoduleupdate
 powershellpr0mpt
-powershellscript
 powershelltemplate
 powershelltraining
 powershelltypeaccelerators
@@ -5051,7 +5053,6 @@ psword
 pswriteword
 psyaml
 pszabbix
-pubg
 public
 public-key
 public-transport
@@ -5269,7 +5270,6 @@ register
 register-argumentcompleter
 registration
 registry
-regression
 regularexpression
 regularexpressions
 reinstall
@@ -5366,6 +5366,7 @@ resources
 resourcesearch
 response
 rest
+rest_cherrypy
 rest-api
 restapi
 restart
@@ -5374,6 +5375,8 @@ restore
 resume
 retention
 retry
+returnuserprofile
+retype
 reuse
 reverse-engineer
 reverse-string
@@ -5494,11 +5497,12 @@ safe
 safeguard
 sage
 saggiehaim
-sailpoint
 sale
 sales
 salesforce
 salesloft
+salt
+salt-api
 saltstack
 saltstackconfig
 saltstackenterprise
@@ -5527,6 +5531,7 @@ savefile
 savings
 savov
 sbc
+sc
 scaffold
 scaffoldingtemplate
 scala
@@ -5639,6 +5644,7 @@ secur32
 secure
 secureapplicationmodel
 securechannel
+securedns
 securegopher
 securegopher+
 securemfa
@@ -5739,6 +5745,7 @@ serviceplan
 servicepointmanager
 serviceprincipal
 services
+servicestatus
 servicestore
 servicing
 servicingstack
@@ -5775,6 +5782,7 @@ sevenzip
 sf
 sfb
 sftp
+sfx
 sgopher
 sgw
 sha256
@@ -5844,7 +5852,6 @@ simplepassword
 simplepasswordgenerator
 simplivity
 simplysql
-sin
 single
 singlestore
 singleton
@@ -5997,6 +6004,7 @@ speaker
 specification
 specify
 spectre
+spectrumconnect
 spectrumcontrolbase
 speculation
 speculationcontrol
@@ -6064,9 +6072,7 @@ sqlserverbynarypsmodule
 sqlservermodule
 sqlvirtualmachine
 sqr
-sqrt
 square
-squire
 srcds
 srcsrv
 srm
@@ -6104,7 +6110,6 @@ staging
 stale
 stan
 stanc
-standard
 standarderror
 standardoutput
 stansummary
@@ -6122,7 +6127,6 @@ state
 static
 staticanalysis
 statichtmlsites
-statistical
 statistics
 stats
 statsd
@@ -6225,6 +6229,7 @@ supermarket
 support
 support-diy(do-it-yourself)
 support-tool
+support-tools
 suppress
 supress-reboot
 surround
@@ -6268,6 +6273,7 @@ synthesis
 synthetics
 sysadmin
 sysadmin-tool
+sysadmin-tools
 sysctr
 sysinfo
 sysinfocmdlets
@@ -6296,7 +6302,6 @@ systemlocale
 systems
 systemsplash
 systray
-t
 t-sql
 tab
 tab-comletion
@@ -6439,7 +6444,6 @@ tfsec
 tftd
 tftp
 tfvc
-thecrushingemptinessofquotidianexistence
 theme
 themes
 thermal
@@ -6828,7 +6832,6 @@ vami
 vao
 variable
 variables
-variance
 variants
 vastlimits
 vault
@@ -7152,6 +7155,8 @@ windows-powershell
 windows-registry
 windows-remoting
 windows-server-2016
+windows-user-folder
+windows-user-profile
 windows10
 windows10mui
 windows11
@@ -7232,7 +7237,6 @@ wmipermanentevents
 wol
 wolfram
 wolframalpha
-woocommerce
 woolworths
 woolworthsrewards
 word
@@ -7289,6 +7293,7 @@ write-wansi
 writeaccess
 writelog
 writemanager
+writeprogress
 writer
 ws-federation
 wsapi
@@ -7364,13 +7369,11 @@ xunit
 xwiki
 xwindowsupdate
 yahoo
-yahw
 yamaha
 yaml
 yandex
 yapg
 yarn
-yetanotherhelloworld
 yml
 ynab
 youtube
