@@ -3,6 +3,94 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [SpecAzTables](https://www.powershellgallery.com/Packages/SpecAzTables/1.0.5) | 1.0.5
+
+### Published: 07/12/2023 09:47:50 by owen.heaume
+
+Module to interact with Azure Tables
+
+__Downloads__: 4 | __Repository__: 
+
+## [PowerMist](https://www.powershellgallery.com/Packages/PowerMist/0.0.3.1) | 0.0.3.1
+
+### Published: 07/12/2023 07:25:13 by AbbyStrixa
+
+A module designed to directly interact with the Mist API
+
+__Downloads__: 13 | __Repository__: 
+
+## [AdhocAves.CommonFunctions](https://www.powershellgallery.com/Packages/AdhocAves.CommonFunctions/0.3) | 0.3
+
+### Published: 07/12/2023 07:24:12 by AbbyStrixa
+
+Common functions used across multiple other modules produced by Abby Strixa.
+
+__Downloads__: 18 | __Repository__: 
+
+## [NTS.Tools](https://www.powershellgallery.com/Packages/NTS.Tools/1.0.2.3) | 1.0.2.3
+
+### Published: 07/12/2023 07:10:52 by Moritz Wiedmann
+
+NTS.Tools module contains tools for ConfigMgr and course deployment
+
+__Downloads__: 1,069 | __Repository__: 
+
+## [NTS.Tools.MSSQL](https://www.powershellgallery.com/Packages/NTS.Tools.MSSQL/1.0.0.9) | 1.0.0.9
+
+### Published: 07/12/2023 07:10:32 by Moritz Wiedmann
+
+NTS.Tools.MSExchange module contains functions that are mainly related to Microsoft SQL Server
+
+__Downloads__: 1,022 | __Repository__: 
+
+## [NTS.Tools.MSExchange](https://www.powershellgallery.com/Packages/NTS.Tools.MSExchange/1.0.0.5) | 1.0.0.5
+
+### Published: 07/12/2023 07:10:17 by Moritz Wiedmann
+
+NTS.Tools.MSExchange module contains functions that are mainly related to around Microsoft Exchange
+
+__Downloads__: 1,016 | __Repository__: 
+
+## [NTS.Tools.MSConfigMgr](https://www.powershellgallery.com/Packages/NTS.Tools.MSConfigMgr/1.0.1.1) | 1.0.1.1
+
+### Published: 07/12/2023 07:10:04 by Moritz Wiedmann
+
+NTS.Tools.MSConfigMgr module contains functions that are mainly related to Microsoft Endpoint Configuration Manger
+
+__Downloads__: 1,025 | __Repository__: 
+
+## [NTS.Tools.MSADCS](https://www.powershellgallery.com/Packages/NTS.Tools.MSADCS/1.0.1.2) | 1.0.1.2
+
+### Published: 07/12/2023 07:09:45 by Moritz Wiedmann
+
+NTS.Tools.MSADCS module contains functions that are mainly related to Microsoft Active Directory Certification Services
+
+__Downloads__: 1,019 | __Repository__: 
+
+## [NTS.Tools.Application](https://www.powershellgallery.com/Packages/NTS.Tools.Application/1.0.1.2) | 1.0.1.2
+
+### Published: 07/12/2023 07:09:34 by Moritz Wiedmann
+
+NTS.Tools.Application module contains functions to install applications
+
+__Downloads__: 30 | __Repository__: 
+
+## [NTS.Tools.General](https://www.powershellgallery.com/Packages/NTS.Tools.General/1.0.0.4) | 1.0.0.4
+
+### Published: 07/12/2023 07:09:23 by Moritz Wiedmann
+
+NTS.Tools.General module contains functions that are used for general purpose
+
+__Downloads__: 1,119 | __Repository__: 
+
+## [PSPersonio](https://www.powershellgallery.com/Packages/PSPersonio/0.1.4) | 0.1.4
+
+### Published: 07/12/2023 06:12:15 by Andreas Bellstedt
+
+PowerShell module for interacting with API of HR application Personio"
+
+__Downloads__: 38 | __Repository__: https://github.com/AndiBellstedt/PSPersonio
+
 ## [PSFive9Admin](https://www.powershellgallery.com/Packages/PSFive9Admin/1.0.128) | 1.0.128
 
 ### Published: 07/11/2023 23:29:19 by sqone2
@@ -1088,7 +1176,7 @@ __Downloads__: 276 | __Repository__: https://github.com/masesgroup/KNet
 
 General Scripting Framework, providing PowerShell-specific infrastructure for other modules.
 
-__Downloads__: 3,655,179 | __Repository__: http://psframework.org/
+__Downloads__: 3,655,163 | __Repository__: http://psframework.org/
 
 ## [RiverMeadow.Development.Migrate](https://www.powershellgallery.com/Packages/RiverMeadow.Development.Migrate/1.0.116.257) | 1.0.116.257
 
@@ -1150,21 +1238,13 @@ Alpha project for Xpertdoc API
 
 __Downloads__: 248 | __Repository__: https://github.com/mithrandyr/SimplyXD
 
-## [SpecAzTables](https://www.powershellgallery.com/Packages/SpecAzTables/1.0.3) | 1.0.3
-
-### Published: 07/11/2023 14:37:04 by owen.heaume
-
-Module to interact with Azure Tables
-
-__Downloads__: 4 | __Repository__: 
-
 ## [AdminToolbox](https://www.powershellgallery.com/Packages/AdminToolbox/11.0.103) | 11.0.103
 
 ### Published: 07/11/2023 14:23:42 by Taylor Lee
 
 Master module for a collection of modules. These modules are varied in their tasks. The overall purpose of them being to provide a powerfull Toolset to improve IT Admin workflows.
 
-__Downloads__: 28,575 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox
+__Downloads__: 28,576 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox
 
 ## [AdminToolbox.FortiWizard](https://www.powershellgallery.com/Packages/AdminToolbox.FortiWizard/2.18.1) | 2.18.1
 
@@ -1172,7 +1252,7 @@ __Downloads__: 28,575 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions that generate configuration scripts and manage FortiOS.
 
-__Downloads__: 7,530 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 7,531 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.VMWareAutomate](https://www.powershellgallery.com/Packages/AdminToolbox.VMWareAutomate/4.8.92) | 4.8.92
 
@@ -1204,7 +1284,7 @@ __Downloads__: 15,438 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Network Troubleshooting Functions
 
-__Downloads__: 23,649 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 23,651 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.MSGraph](https://www.powershellgallery.com/Packages/AdminToolbox.MSGraph/1.2.95) | 1.2.95
 
@@ -1252,7 +1332,7 @@ __Downloads__: 15,730 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions for management of endpoints
 
-__Downloads__: 16,350 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 16,352 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.ActiveDirectory](https://www.powershellgallery.com/Packages/AdminToolbox.ActiveDirectory/1.9.93) | 1.9.93
 
@@ -1260,7 +1340,7 @@ __Downloads__: 16,350 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions for Active Directory
 
-__Downloads__: 17,836 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 17,838 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [Universal](https://www.powershellgallery.com/Packages/Universal/4.0.6) | 4.0.6
 
@@ -1292,7 +1372,7 @@ __Downloads__: 4,299 | __Repository__: https://scepman.com/
 
 PowerShell module for running tasks on Dynamics365/PowerApp/XRM
 
-__Downloads__: 973 | __Repository__: https://github.com/pentawork-solutions/PentaWork.Xrm.PowerShell
+__Downloads__: 974 | __Repository__: https://github.com/pentawork-solutions/PentaWork.Xrm.PowerShell
 
 ## [AppManiProgramManager](https://www.powershellgallery.com/Packages/AppManiProgramManager/1.30.0) | 1.30.0
 
@@ -1333,7 +1413,7 @@ Some of the authentication-related functions:
 - New-AzureDevOpsAuthHeader
 - New-GraphAPIAuthHeader
 
-__Downloads__: 580 | __Repository__: https://github.com/ztrhgf/useful_powershell_modules
+__Downloads__: 583 | __Repository__: https://github.com/ztrhgf/useful_powershell_modules
 
 ## [IntuneStuff](https://www.powershellgallery.com/Packages/IntuneStuff/1.4.2) | 1.4.2
 
@@ -1359,7 +1439,7 @@ Some of the interesting functions:
 - Upload-IntuneAutopilotHash - upload given autopilot hash (owner and hostname) into Intune
 - ...
 
-__Downloads__: 10,440 | __Repository__: https://github.com/ztrhgf/useful_powershell_modules
+__Downloads__: 10,439 | __Repository__: https://github.com/ztrhgf/useful_powershell_modules
 
 ## [MSGraphStuff](https://www.powershellgallery.com/Packages/MSGraphStuff/1.0.1) | 1.0.1
 
@@ -1373,7 +1453,7 @@ Some of the functions:
 - New-GraphAPIAuthHeader - Function for generating header that can be used for authentication of Graph API requests
 - ...
 
-__Downloads__: 57 | __Repository__: https://github.com/ztrhgf/useful_powershell_modules
+__Downloads__: 59 | __Repository__: https://github.com/ztrhgf/useful_powershell_modules
 
 ## [powershell-windows-autoproxy](https://www.powershellgallery.com/Packages/powershell-windows-autoproxy/1.2.0) | 1.2.0
 
@@ -1630,7 +1710,7 @@ __Downloads__: 2 | __Repository__: https://github.com/SeryiBaran/TestNodeJSVersi
 
 Provide a better and easier way for GitHub Actions to communicate with the runner machine, and the toolkit for developing GitHub Actions in PowerShell.
 
-__Downloads__: 58,334 | __Repository__: https://github.com/hugoalh-studio/ghactions-toolkit-powershell
+__Downloads__: 58,360 | __Repository__: https://github.com/hugoalh-studio/ghactions-toolkit-powershell
 
 ## [Pilot](https://www.powershellgallery.com/Packages/Pilot/0.0.3) | 0.0.3
 
@@ -1823,7 +1903,7 @@ __Downloads__: 282 | __Repository__: https://github.com/StartAutomating/obs-powe
 
 Sample module to manage AutoPilot devices using the Intune Graph API
 
-__Downloads__: 6,745,901 | __Repository__: 
+__Downloads__: 6,745,641 | __Repository__: 
 
 ## [BcContainerHelper](https://www.powershellgallery.com/Packages/BcContainerHelper/5.0.4) | 5.0.4
 
@@ -1839,7 +1919,7 @@ __Downloads__: 1,226,618 | __Repository__:
 
 This PS Module contains functions necessary to use 4PS general tasks
 
-__Downloads__: 4,262 | __Repository__: 
+__Downloads__: 4,263 | __Repository__: 
 
 ## [ItGlue](https://www.powershellgallery.com/Packages/ItGlue/2023.7.7.1) | 2023.7.7.1
 
@@ -1863,7 +1943,7 @@ __Downloads__: 456 | __Repository__: https://github.com/FozzyHosting/AutomaticMa
 
 This PS Module contains functions to deploy AL app files into On-premises Dynamics 365 Business Central environments.
 
-__Downloads__: 4,498 | __Repository__: 
+__Downloads__: 4,499 | __Repository__: 
 
 ## [SentinelARConverter](https://www.powershellgallery.com/Packages/SentinelARConverter/2.0.1) | 2.0.1
 
@@ -1905,22 +1985,6 @@ ExchangeEssentials
 
 __Downloads__: 6 | __Repository__: https://github.com/EvotecIT/ExchangeEssentials
 
-## [NTS.Tools](https://www.powershellgallery.com/Packages/NTS.Tools/1.0.2.2) | 1.0.2.2
-
-### Published: 07/07/2023 08:31:57 by Moritz Wiedmann
-
-NTS.Tools module contains tools for ConfigMgr and course deployment
-
-__Downloads__: 1,069 | __Repository__: 
-
-## [NTS.Tools.Application](https://www.powershellgallery.com/Packages/NTS.Tools.Application/1.0.1.1) | 1.0.1.1
-
-### Published: 07/07/2023 08:31:35 by Moritz Wiedmann
-
-NTS.Tools.Application module contains functions to install applications
-
-__Downloads__: 30 | __Repository__: 
-
 ## [UncommonSense.AzureDevops.Logging](https://www.powershellgallery.com/Packages/UncommonSense.AzureDevops.Logging/0.0.2.0) | 0.0.2.0
 
 ### Published: 07/07/2023 08:10:55 by Jan Hoek
@@ -1954,7 +2018,7 @@ __Downloads__: 690 | __Repository__: https://github.com/carsten-riedel/CoreePowe
 
 Zip and GZip utilities for PowerShell!
 
-__Downloads__: 12,219 | __Repository__: https://github.com/santisq/PSCompression
+__Downloads__: 12,202 | __Repository__: https://github.com/santisq/PSCompression
 
 ## [ConnectWiseManageAPI](https://www.powershellgallery.com/Packages/ConnectWiseManageAPI/0.4.12.0) | 0.4.12.0
 
@@ -1962,7 +2026,7 @@ __Downloads__: 12,219 | __Repository__: https://github.com/santisq/PSCompression
 
 PowerShell wrapper for the ConnectWise Manage REST API
 
-__Downloads__: 114,814 | __Repository__: https://github.com/christaylorcodes/ConnectWiseManageAPI
+__Downloads__: 114,816 | __Repository__: https://github.com/christaylorcodes/ConnectWiseManageAPI
 
 ## [TransitionManager](https://www.powershellgallery.com/Packages/TransitionManager/6.3.0) | 6.3.0
 
@@ -1978,7 +2042,7 @@ __Downloads__: 1,148 | __Repository__:
 
 Sample module to manage AutoPilot devices using the Intune Graph API
 
-__Downloads__: 1,085 | __Repository__: 
+__Downloads__: 1,087 | __Repository__: 
 
 ## [Rivet](https://www.powershellgallery.com/Packages/Rivet/0.22.0) | 0.22.0
 
@@ -2038,85 +2102,4 @@ A PowerShell module to install/update PHP, PHP extensions and Composer
 
 __Downloads__: 165,416 | __Repository__: https://github.com/mlocati/powershell-phpmanager
 
-## [PesterLove](https://www.powershellgallery.com/Packages/PesterLove/0.5.0) | 0.5.0
-
-### Published: 07/06/2023 09:18:47 by Stéphane van Gulick
-
-Pester ToolKit
-
-__Downloads__: 42 | __Repository__: https://github.com/Stephanevg/PesterLove
-
-## [PSWinDocumentation.O365HealthService](https://www.powershellgallery.com/Packages/PSWinDocumentation.O365HealthService/1.0.4) | 1.0.4
-
-### Published: 07/06/2023 08:13:53 by Przemyslaw Klys
-
-Office 365 Health Service
-
-__Downloads__: 315,972 | __Repository__: https://github.com/EvotecIT/PSWinDocumentation.O365HealthService
-
-## [AzSKPreview.ADO](https://www.powershellgallery.com/Packages/AzSKPreview.ADO/1.20.0) | 1.20.0
-
-### Published: 07/06/2023 07:15:37 by AzSK Team
-
-Security Scanner for Azure DevOps (ADO)
-
-__Downloads__: 3,925 | __Repository__: https://github.com/azsk/azsk-docs
-
-## [Terminal-Icons](https://www.powershellgallery.com/Packages/Terminal-Icons/0.11.0) | 0.11.0
-
-### Published: 07/06/2023 04:55:30 by Brandon Olin
-
-PowerShell module to add file icons to terminal based on file extension
-
-__Downloads__: 246,712 | __Repository__: https://github.com/devblackops/Terminal-Icons
-
-## [Carbon](https://www.powershellgallery.com/Packages/Carbon/2.14.1) | 2.14.1
-
-### Published: 07/05/2023 21:59:10 by Aaron Jensen
-
-Carbon is a PowerShell module for automating the configuration Windows 7, 8, 2008, and 2012 and automation the installation and configuration of Windows applications, websites, and services. It can configure and manage:
-
- * Local users and groups
- * IIS websites, virtual directories, and applications
- * File system, registry, and certificate permissions
- * Certificates
- * Privileges
- * Services
- * Encryption
- * Junctions
- * Hosts file
- * INI files
- * Performance counters
- * Shares
- * .NET connection strings and app settings
- * And much more!
-
-All functions are idempotent: when run multiple times with the same arguments, your system will be in the same state without failing or producing errors.
-
-__Downloads__: 62,938,368 | __Repository__: http://get-carbon.org/
-
-## [GraphEssentials](https://www.powershellgallery.com/Packages/GraphEssentials/0.0.31) | 0.0.31
-
-### Published: 07/05/2023 18:46:46 by Przemyslaw Klys
-
-GraphEssentials is a PowerShell module that helps with Office 365 / Azure AD using mostly Graph
-
-__Downloads__: 169 | __Repository__: 
-
-## [PowervRA](https://www.powershellgallery.com/Packages/PowervRA/6.0.0) | 6.0.0
-
-### Published: 07/05/2023 18:31:37 by Jakku Labs
-
-PowerShell Module for Managing VMware vRealize Automation
-
-__Downloads__: 266,200 | __Repository__: https://github.com/jakkulabs/PowervRA
-
-## [Thycotic.SecretServer](https://www.powershellgallery.com/Packages/Thycotic.SecretServer/0.61.2) | 0.61.2
-
-### Published: 07/05/2023 15:54:27 by Delinea Professional Services
-
-Interact with the Secret Server REST API
-
-__Downloads__: 43,612 | __Repository__: https://github.com/thycotic-ps/thycotic.secretserver
-
-*Updated: Wednesday, 12 July 2023 02:21:51 UTC*
+*Updated: Wednesday, 12 July 2023 09:52:40 UTC*

@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Wednesday, 12 July 2023 02:22:04 UTC
+Updated: Wednesday, 12 July 2023 09:52:52 UTC
 
 ?:
 ??
@@ -113,7 +113,6 @@ active
 active_directory
 active-directory
 active-plug
-activecampaign
 activedirectory
 activedirectory_over_html
 activedirectoryauthenticationlibrary
@@ -132,10 +131,7 @@ acumatica
 ad
 ad_monitoring
 ad-ds
-ad-object
-ad-ou-object
 ad-report
-ad-site
 adal
 adapter
 adapter-control
@@ -189,14 +185,11 @@ ado_security
 ado.net
 adobe
 adobeflash
-adobject
-adouobject
 adoxio
 adp
 adr
 ads
 adsi
-adsite
 adsync
 aduser
 aduseraccountlockout
@@ -567,6 +560,8 @@ avset
 await
 awareness
 awesome
+awp
+awpagent
 aws
 aws_profile
 aws-codebuild
@@ -1029,7 +1024,6 @@ chef-compliance
 chef-server
 chefconf2016
 chenxizhang
-cherrypy
 cherwell
 chfs
 chi
@@ -1232,6 +1226,7 @@ columns
 com
 combinations
 combine
+comdata
 comic
 comical
 comics
@@ -1513,7 +1508,6 @@ current
 curseforge
 custom
 customchecks
-customdns
 customer
 customerengagement
 customers
@@ -1560,6 +1554,7 @@ dacl
 dacpac
 dacpackage
 dagger
+dangling
 dapr
 dark
 dash
@@ -1690,7 +1685,6 @@ delegated
 delegationmodel
 delete
 delete-orphan-branches
-deleteuserprofile
 delivery
 dell
 dellemc
@@ -1857,7 +1851,6 @@ dnsentry
 dnsimple
 dnslookup
 dnsmadeeasy
-dnsoverhttps
 dnsrecord
 dnsresolver
 dnsserver
@@ -1910,14 +1903,11 @@ dotteddecimalip
 doubleclick
 download
 downloader
-downloadfacebookvideo
-downloadfilefromsite
 downloadinfo
 downloading
 downloadoffice
 downloadofficertool
 downloads
-downloadyoutubevideo
 dpa
 dpapi
 dps
@@ -1997,7 +1987,6 @@ dxexpeditions
 dynamic
 dynamic-host-configuration-protocol
 dynamicdistributiongroups
-dynamicdnsoverhttps
 dynamicparam
 dynamicparameters
 dynamics
@@ -2312,7 +2301,6 @@ farm
 farmanager
 fast
 fast-dds
-fast-ping
 fastfilepub
 fastgit
 fastlinq
@@ -2411,8 +2399,6 @@ find-call
 find-caller
 find-file
 find-path
-finddownloadlinkfromwebsite
-findfile
 findlocation
 findplace
 findproxyforurl
@@ -2684,7 +2670,6 @@ google
 google-chrome
 google-histogram
 google-sankey
-google-table
 googleadsv2
 googlecloudplatform
 googledrive
@@ -2738,7 +2723,6 @@ gridfs
 grok
 groundspeak
 group
-group-membership
 group-policy
 groupmembership
 grouppolicy
@@ -3100,8 +3084,6 @@ inifile
 initialization
 initials-avatar
 initiator
-inline-progress
-inlineprogress
 innerjoin
 innertext
 input
@@ -3240,7 +3222,6 @@ isvalidip
 it
 it-support
 it-tool
-it-tools
 item
 itemlist
 itemobject
@@ -4006,7 +3987,6 @@ mule
 mulesoft
 multi-factor
 multi-platform
-multi-threading
 multi-zone
 multicloud
 multidimenstional
@@ -4105,12 +4085,10 @@ netsuite
 network
 network adapter configuration operating os optical sensor physical pointing portable printer processor cpu refrigaration cooling cooler removable usb sd ram dimm scsi sound audio card enclosure tape temperature touchpad touch pad touchscreen screen trackball trackpoint video graphics voltage psmodule
 network-credentials
-network-info
 networkdiscovery
 networkdrives
 networkfirewall
 networkfunction
-networkinfo
 networking
 networkinterfaces
 networkloadbalancer
@@ -4427,7 +4405,6 @@ osubusage
 osx
 otp
 ou
-ou-object
 oui-search
 out-consolegridview
 out-default
@@ -4769,6 +4746,7 @@ powershell-script
 powershell-terminal
 powershell-terminal-copilot
 powershell-training
+powershell.module.invokewinget
 powershell.one
 powershell.persistentpathstack
 powershell7
@@ -5388,7 +5366,6 @@ resources
 resourcesearch
 response
 rest
-rest_cherrypy
 rest-api
 restapi
 restart
@@ -5397,8 +5374,6 @@ restore
 resume
 retention
 retry
-returnuserprofile
-retype
 reuse
 reverse-engineer
 reverse-string
@@ -5524,8 +5499,6 @@ sale
 sales
 salesforce
 salesloft
-salt
-salt-api
 saltstack
 saltstackconfig
 saltstackenterprise
@@ -5554,7 +5527,6 @@ savefile
 savings
 savov
 sbc
-sc
 scaffold
 scaffoldingtemplate
 scala
@@ -5667,7 +5639,6 @@ secur32
 secure
 secureapplicationmodel
 securechannel
-securedns
 securegopher
 securegopher+
 securemfa
@@ -5768,7 +5739,6 @@ serviceplan
 servicepointmanager
 serviceprincipal
 services
-servicestatus
 servicestore
 servicing
 servicingstack
@@ -5805,7 +5775,6 @@ sevenzip
 sf
 sfb
 sftp
-sfx
 sgopher
 sgw
 sha256
@@ -5995,6 +5964,8 @@ sonicwall
 sonicwallvpn
 sonus
 soon
+soonr
+soonragent
 sophos
 sort
 source
@@ -6026,7 +5997,6 @@ speaker
 specification
 specify
 spectre
-spectrumconnect
 spectrumcontrolbase
 speculation
 speculationcontrol
@@ -6111,6 +6081,7 @@ sshmanagement
 sshservers
 ssis
 ssl
+sslcert
 sslcertificate
 ssllabs
 ssllabs-scan
@@ -6254,7 +6225,6 @@ supermarket
 support
 support-diy(do-it-yourself)
 support-tool
-support-tools
 suppress
 supress-reboot
 surround
@@ -6298,7 +6268,6 @@ synthesis
 synthetics
 sysadmin
 sysadmin-tool
-sysadmin-tools
 sysctr
 sysinfo
 sysinfocmdlets
@@ -7183,8 +7152,6 @@ windows-powershell
 windows-registry
 windows-remoting
 windows-server-2016
-windows-user-folder
-windows-user-profile
 windows10
 windows10mui
 windows11
@@ -7322,7 +7289,6 @@ write-wansi
 writeaccess
 writelog
 writemanager
-writeprogress
 writer
 ws-federation
 wsapi
