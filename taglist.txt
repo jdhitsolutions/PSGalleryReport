@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Tuesday, 11 July 2023 17:52:46 UTC
+Updated: Wednesday, 12 July 2023 02:22:04 UTC
 
 ?:
 ??
@@ -419,6 +419,7 @@ archivematica
 archivial
 archivial-backup
 archivial-cloud-backup
+archlinux
 arcresourcebridge
 arcus
 area
@@ -566,8 +567,6 @@ avset
 await
 awareness
 awesome
-awp
-awpagent
 aws
 aws_profile
 aws-codebuild
@@ -870,7 +869,6 @@ build-log
 build-scripts
 builddefinition
 builder
-building
 buildingfile
 buildingmapping
 buildkit
@@ -1234,7 +1232,6 @@ columns
 com
 combinations
 combine
-comdata
 comic
 comical
 comics
@@ -1516,6 +1513,7 @@ current
 curseforge
 custom
 customchecks
+customdns
 customer
 customerengagement
 customers
@@ -1562,7 +1560,6 @@ dacl
 dacpac
 dacpackage
 dagger
-dangling
 dapr
 dark
 dash
@@ -1860,6 +1857,7 @@ dnsentry
 dnsimple
 dnslookup
 dnsmadeeasy
+dnsoverhttps
 dnsrecord
 dnsresolver
 dnsserver
@@ -1999,6 +1997,7 @@ dxexpeditions
 dynamic
 dynamic-host-configuration-protocol
 dynamicdistributiongroups
+dynamicdnsoverhttps
 dynamicparam
 dynamicparameters
 dynamics
@@ -2551,6 +2550,7 @@ gainz-keepass
 gainz-sqldb
 gallery
 game
+gamecategory:cards
 games
 gameserver
 gaming
@@ -3098,6 +3098,7 @@ inheritance
 ini
 inifile
 initialization
+initials-avatar
 initiator
 inline-progress
 inlineprogress
@@ -3332,6 +3333,7 @@ kaseyavsa
 katakana
 kb
 kbarticle
+kdbx
 keenetic
 keepachangelog
 keepass
@@ -3671,7 +3673,6 @@ maintain-module
 maintenance
 maintenance-window
 maintenancewindows
-make
 maker
 malware
 mamagedidentity
@@ -4335,6 +4336,7 @@ onyphe
 onyphe.io
 oob
 oop
+op
 opa
 opc
 open
@@ -4821,6 +4823,7 @@ presentation
 presenter
 presto
 preston-k-parsard
+prettifier
 pretty
 prettyprinter
 preview
@@ -4974,6 +4977,7 @@ psedition_psedition_core
 psedition_psedition_desktop
 psedition_windows
 psedition-desktop
+psediton_desktop
 psenv
 pses
 psexcel
@@ -5663,6 +5667,7 @@ secur32
 secure
 secureapplicationmodel
 securechannel
+securedns
 securegopher
 securegopher+
 securemfa
@@ -5763,6 +5768,7 @@ serviceplan
 servicepointmanager
 serviceprincipal
 services
+servicestatus
 servicestore
 servicing
 servicingstack
@@ -5989,8 +5995,6 @@ sonicwall
 sonicwallvpn
 sonus
 soon
-soonr
-soonragent
 sophos
 sort
 source
@@ -6107,7 +6111,6 @@ sshmanagement
 sshservers
 ssis
 ssl
-sslcert
 sslcertificate
 ssllabs
 ssllabs-scan
@@ -6692,6 +6695,7 @@ ud-piechart3d
 ud-pivottable
 ud-progressstepbar
 ud-rangeslider
+ud-readingbar
 ud-scrollspy
 ud-selectdatetime
 ud-selector
@@ -6835,6 +6839,7 @@ utm
 uudecode
 uuencode
 uuid
+uup
 uw
 uwp
 ux
@@ -7110,6 +7115,7 @@ webservice
 webservices
 website
 websites
+websocket
 websockets
 websphere
 websphereappserver
