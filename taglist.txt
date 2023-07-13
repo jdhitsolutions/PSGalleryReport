@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Thursday, 13 July 2023 02:23:21 UTC
+Updated: Thursday, 13 July 2023 09:52:54 UTC
 
 ?:
 ??
@@ -938,6 +938,7 @@ carousel
 carrier
 cartoon
 case
+cassandra
 cat
 cat-names
 catalog
@@ -961,6 +962,7 @@ cd-
 cd+
 cdable_vars
 cdata
+cdb
 cdi
 cdm
 cdn
@@ -1045,6 +1047,7 @@ christaylorcodes
 christmas
 chrome
 chromium
+chunk
 churchofjesuschrist
 ci
 ci/cd
@@ -2967,6 +2970,7 @@ hypervplugins
 hypothesis
 hysolate
 hysolatemangementconsole
+i-doit
 i2c
 ia
 iaas
@@ -3008,6 +3012,7 @@ identity-management
 identitydataplane
 identitydirector
 identitydomains
+identitynow
 idf
 idm
 idna
@@ -3099,6 +3104,7 @@ inheritance
 ini
 inifile
 initialization
+initials-avatar
 initiator
 inline-progress
 inlineprogress
@@ -3199,6 +3205,7 @@ ip-scanner
 ipa
 ipaddress
 ipam
+ipbroadcast
 ipc
 ipcalc
 ipcalculator
@@ -3478,6 +3485,8 @@ library
 libvirt
 licence
 license
+license-generator
+licenseautomation
 licensemanagement
 licensemanager
 licensereport
@@ -4814,6 +4823,7 @@ prefix
 preparead
 preparealldomains
 prepareschema
+prepend
 preprocessing
 preprocessor
 presentation
@@ -5395,6 +5405,7 @@ resume
 retention
 retry
 returnuserprofile
+retype
 reuse
 reverse-engineer
 reverse-string
@@ -5515,6 +5526,7 @@ safe
 safeguard
 sage
 saggiehaim
+sailpoint
 sale
 sales
 salesforce
@@ -6436,6 +6448,7 @@ test-samcmapplicationexists
 test-samcmpackageexists
 test-userisadministrator
 test-xml
+test123
 testaccount
 testautomation
 testimonial
@@ -6682,6 +6695,7 @@ ud-hero
 ud-illustration
 ud-input
 ud-licensed
+ud-loadingoverlay
 ud-minesweeper
 ud-mouseparticle
 ud-navbarsearch
@@ -6691,6 +6705,7 @@ ud-piechart3d
 ud-pivottable
 ud-progressstepbar
 ud-rangeslider
+ud-readingbar
 ud-scrollspy
 ud-selectdatetime
 ud-selector
@@ -6714,6 +6729,7 @@ ud-wordtree
 udcm
 udfeedback
 udp
+udpclient
 udptest
 udr
 udthememode
@@ -7129,6 +7145,7 @@ wer
 what3words
 whatismyip
 whatsnew
+whatsupgold
 whd
 where
 whfb
@@ -7333,6 +7350,7 @@ wttr
 wttr.in
 wtx
 wu
+wug
 wunderlist
 wvd
 www

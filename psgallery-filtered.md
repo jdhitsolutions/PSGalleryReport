@@ -3,6 +3,46 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [JaapsTools](https://www.powershellgallery.com/Packages/JaapsTools/18.4.7) | 18.4.7
+
+### Published: 07/13/2023 09:46:31 by JT
+
+JaapsTools
+
+__Downloads__: 459 | __Repository__: 
+
+## [UncommonSense.Nrc](https://www.powershellgallery.com/Packages/UncommonSense.Nrc/0.1.0.24) | 0.1.0.24
+
+### Published: 07/13/2023 08:48:22 by Jan Hoek
+
+PowerShell module for listing NRC articles
+
+__Downloads__: 5,152 | __Repository__: https://github.com/jhoek/UncommonSense.Nrc
+
+## [PwSh.Fw.Core](https://www.powershellgallery.com/Packages/PwSh.Fw.Core/1.10.2.271) | 1.10.2.271
+
+### Published: 07/13/2023 07:22:36 by Charles-Antoine Degennes
+
+Root module of a simple Powershell Framework. It is specialized in writing system scripts, but it can of course do more.
+
+__Downloads__: 16,111 | __Repository__: 
+
+## [RiverMeadow.Development.Migrate](https://www.powershellgallery.com/Packages/RiverMeadow.Development.Migrate/1.0.116.259) | 1.0.116.259
+
+### Published: 07/13/2023 07:17:38 by RiverMeadow Engineering Team
+
+Provides cmdlets for starting migration of applications to supported clouds using the RiverMeadow platform.
+
+__Downloads__: 346 | __Repository__: https://migrate.rivermeadow.com/
+
+## [VirtualEngine.EvergreenDsc](https://www.powershellgallery.com/Packages/VirtualEngine.EvergreenDsc/1.4.1) | 1.4.1
+
+### Published: 07/13/2023 06:56:59 by Iain Brighton
+
+The VirtualEngine.EvergreenDsc module provides cmdlets and DSC resources for interacting with Virtual Engine Evergreen packages.
+
+__Downloads__: 25,939 | __Repository__: https://dev.azure.com/virtual-engine/PSRepository/_git/VirtualEngine.EvergreenDsc
+
 ## [AsBuiltReport.Veeam.VBR](https://www.powershellgallery.com/Packages/AsBuiltReport.Veeam.VBR/0.8.0) | 0.8.0
 
 ### Published: 07/13/2023 01:40:48 by Jonathan Colon
@@ -50,14 +90,6 @@ __Downloads__: 74,776 | __Repository__:
 The Show-ExitProcessRequest function displays a form that requests the user to save and close a specified process. The function allows the user to continue or optionally permit them to cancel the process closure. If the user has not clicked Continue within the specified time limit, the process is forcibly closed. You can specify a "display name" that is referenced in the message (i.e. Calculator instead of calc.exe), allow the user to cancel if desired, specify the time limit, and specify the icon to display in the message box.
 
 __Downloads__: 0 | __Repository__: https://github.com/widedata/scripts/tree/main/modules/ExitProcessRequest
-
-## [VirtualEngine.EvergreenDsc](https://www.powershellgallery.com/Packages/VirtualEngine.EvergreenDsc/1.4.0) | 1.4.0
-
-### Published: 07/12/2023 19:04:29 by Iain Brighton
-
-The VirtualEngine.EvergreenDsc module provides cmdlets and DSC resources for interacting with Virtual Engine Evergreen packages.
-
-__Downloads__: 25,939 | __Repository__: https://dev.azure.com/virtual-engine/PSRepository/_git/VirtualEngine.EvergreenDsc
 
 ## [Test-NETHLK](https://www.powershellgallery.com/Packages/Test-NETHLK/2023.7.12.82) | 2023.7.12.82
 
@@ -195,7 +227,7 @@ __Downloads__: 39 | __Repository__: https://github.com/AndiBellstedt/PSPersonio
 
 Functions for working with the Five9 Admin Web Service API
 
-__Downloads__: 8,661 | __Repository__: https://github.com/sqone2/PSFive9Admin
+__Downloads__: 8,662 | __Repository__: https://github.com/sqone2/PSFive9Admin
 
 ## [PureStorage.RunCommandWrapper](https://www.powershellgallery.com/Packages/PureStorage.RunCommandWrapper/0.0.31) | 0.0.31
 
@@ -1274,15 +1306,7 @@ __Downloads__: 277 | __Repository__: https://github.com/masesgroup/KNet
 
 General Scripting Framework, providing PowerShell-specific infrastructure for other modules.
 
-__Downloads__: 3,660,333 | __Repository__: http://psframework.org/
-
-## [RiverMeadow.Development.Migrate](https://www.powershellgallery.com/Packages/RiverMeadow.Development.Migrate/1.0.116.257) | 1.0.116.257
-
-### Published: 07/11/2023 17:05:57 by RiverMeadow Engineering Team
-
-Provides cmdlets for starting migration of applications to supported clouds using the RiverMeadow platform.
-
-__Downloads__: 346 | __Repository__: https://migrate.rivermeadow.com/
+__Downloads__: 3,660,289 | __Repository__: http://psframework.org/
 
 ## [DellOpenManage](https://www.powershellgallery.com/Packages/DellOpenManage/3.6.1) | 3.6.1
 
@@ -1342,7 +1366,7 @@ __Downloads__: 28,590 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions that generate configuration scripts and manage FortiOS.
 
-__Downloads__: 7,550 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 7,549 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.VMWareAutomate](https://www.powershellgallery.com/Packages/AdminToolbox.VMWareAutomate/4.8.92) | 4.8.92
 
@@ -1350,7 +1374,7 @@ __Downloads__: 7,550 | __Repository__: https://github.com/TheTaylorLee/AdminTool
 
 Functions to Automate Bulk VMWare Tasks
 
-__Downloads__: 14,303 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 14,302 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.Remoting](https://www.powershellgallery.com/Packages/AdminToolbox.Remoting/1.9.95) | 1.9.95
 
@@ -1358,7 +1382,7 @@ __Downloads__: 14,303 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions for remote management and access.
 
-__Downloads__: 14,230 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 14,229 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.Office365](https://www.powershellgallery.com/Packages/AdminToolbox.Office365/3.1.45) | 3.1.45
 
@@ -1366,7 +1390,7 @@ __Downloads__: 14,230 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions for working with Office365 and Azure modules
 
-__Downloads__: 15,459 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 15,458 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.Networking](https://www.powershellgallery.com/Packages/AdminToolbox.Networking/2.18.3) | 2.18.3
 
@@ -1374,7 +1398,7 @@ __Downloads__: 15,459 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Network Troubleshooting Functions
 
-__Downloads__: 23,680 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 23,679 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.MSGraph](https://www.powershellgallery.com/Packages/AdminToolbox.MSGraph/1.2.95) | 1.2.95
 
@@ -1390,7 +1414,7 @@ __Downloads__: 4,610 | __Repository__: https://github.com/TheTaylorLee/AdminTool
 
 Functions that have no purpose
 
-__Downloads__: 14,225 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 14,224 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.FileManagement](https://www.powershellgallery.com/Packages/AdminToolbox.FileManagement/1.15.86) | 1.15.86
 
@@ -1398,7 +1422,7 @@ __Downloads__: 14,225 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 File Management Functions
 
-__Downloads__: 14,853 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 14,852 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.FFTools](https://www.powershellgallery.com/Packages/AdminToolbox.FFTools/4.16.45) | 4.16.45
 
@@ -1406,7 +1430,7 @@ __Downloads__: 14,853 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Expedite simple ffmpeg actions
 
-__Downloads__: 14,765 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 14,764 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.Exchange](https://www.powershellgallery.com/Packages/AdminToolbox.Exchange/1.9.96) | 1.9.96
 
@@ -1414,7 +1438,7 @@ __Downloads__: 14,765 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions for Exchange Management
 
-__Downloads__: 15,751 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 15,750 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.EndpointManagement](https://www.powershellgallery.com/Packages/AdminToolbox.EndpointManagement/4.9.88) | 4.9.88
 
@@ -1454,7 +1478,7 @@ __Downloads__: 23,398 | __Repository__:
 
 CMDlets to manage SCEPman (https://scepman.com/) installations
 
-__Downloads__: 4,321 | __Repository__: https://scepman.com/
+__Downloads__: 4,320 | __Repository__: https://scepman.com/
 
 ## [PentaWork.Xrm.PowerShell](https://www.powershellgallery.com/Packages/PentaWork.Xrm.PowerShell/1.6.1) | 1.6.1
 
@@ -1736,7 +1760,7 @@ __Downloads__: 321 | __Repository__: https://github.com/HotCakeX/Harden-Windows-
 
 Adds some additional functionality to the PowerShell DSC module cChoco
 
-__Downloads__: 847,536 | __Repository__: https://github.com/jyonke/cChocoEx
+__Downloads__: 847,534 | __Repository__: https://github.com/jyonke/cChocoEx
 
 ## [UltimateTool](https://www.powershellgallery.com/Packages/UltimateTool/1.3.1.2) | 1.3.1.2
 
@@ -1867,6 +1891,14 @@ Scripts & Functions for Administrators working in the Microsoft 365 Orbit
 
 __Downloads__: 64 | __Repository__: https://github.com/DEberhardt/Orbit
 
+## [Orbit.Teams](https://www.powershellgallery.com/Packages/Orbit.Teams/0.7.0) | 0.7.0
+
+### Published: 07/08/2023 14:00:18 by David Eberhardt
+
+Scripts & Functions for Administrators working in the Microsoft 365 Orbit
+
+__Downloads__: 70 | __Repository__: https://github.com/DEberhardt/Orbit
+
 ## [Orbit.Tools](https://www.powershellgallery.com/Packages/Orbit.Tools/0.7.0) | 0.7.0
 
 ### Published: 07/08/2023 14:00:12 by David Eberhardt
@@ -1883,14 +1915,6 @@ Scripts & Functions for Administrators working in the Microsoft 365 Orbit
 
 __Downloads__: 71 | __Repository__: https://github.com/DEberhardt/Orbit
 
-## [JaapsTools](https://www.powershellgallery.com/Packages/JaapsTools/18.4.4) | 18.4.4
-
-### Published: 07/08/2023 11:06:54 by JT
-
-JaapsTools
-
-__Downloads__: 459 | __Repository__: 
-
 ## [getFTP_new](https://www.powershellgallery.com/Packages/getFTP_new/1.0.1) | 1.0.1
 
 ### Published: 07/08/2023 07:47:03 by yvesg
@@ -1898,14 +1922,6 @@ __Downloads__: 459 | __Repository__:
 Installation et mise à jour de commit
 
 __Downloads__: 2 | __Repository__: 
-
-## [UncommonSense.Nrc](https://www.powershellgallery.com/Packages/UncommonSense.Nrc/0.1.0.23) | 0.1.0.23
-
-### Published: 07/08/2023 06:07:37 by Jan Hoek
-
-PowerShell module for listing NRC articles
-
-__Downloads__: 5,152 | __Repository__: https://github.com/jhoek/UncommonSense.Nrc
 
 ## [OfficeRTool](https://www.powershellgallery.com/Packages/OfficeRTool/1.0.1.2) | 1.0.1.2
 
@@ -1945,7 +1961,7 @@ __Downloads__: 388 | __Repository__:
 
 AKS HCI Module
 
-__Downloads__: 380,144 | __Repository__: 
+__Downloads__: 379,989 | __Repository__: 
 
 ## [Moc](https://www.powershellgallery.com/Packages/Moc/1.0.64) | 1.0.64
 
@@ -1953,7 +1969,7 @@ __Downloads__: 380,144 | __Repository__:
 
 MOC Module
 
-__Downloads__: 446,636 | __Repository__: 
+__Downloads__: 446,472 | __Repository__: 
 
 ## [Skaldhor.HelperFunctions](https://www.powershellgallery.com/Packages/Skaldhor.HelperFunctions/0.0.5) | 0.0.5
 
@@ -1977,7 +1993,7 @@ __Downloads__: 288 | __Repository__: https://github.com/StartAutomating/obs-powe
 
 Sample module to manage AutoPilot devices using the Intune Graph API
 
-__Downloads__: 6,765,786 | __Repository__: 
+__Downloads__: 6,765,133 | __Repository__: 
 
 ## [BcContainerHelper](https://www.powershellgallery.com/Packages/BcContainerHelper/5.0.4) | 5.0.4
 
@@ -1985,7 +2001,7 @@ __Downloads__: 6,765,786 | __Repository__:
 
 PowerShell module, which makes it easier to work with Business Central Containers on Docker.
 
-__Downloads__: 1,229,811 | __Repository__: 
+__Downloads__: 1,229,751 | __Repository__: 
 
 ## [FpsGeneral](https://www.powershellgallery.com/Packages/FpsGeneral/1.0.23188.1) | 1.0.23188.1
 
@@ -2001,7 +2017,7 @@ __Downloads__: 4,279 | __Repository__:
 
 ITGlue REST API-related functions.
 
-__Downloads__: 394,269 | __Repository__: https://github.com/wetling23/Public.ItGlue.PowerShellModule
+__Downloads__: 394,268 | __Repository__: https://github.com/wetling23/Public.ItGlue.PowerShellModule
 
 ## [AutomaticMaintenance](https://www.powershellgallery.com/Packages/AutomaticMaintenance/2.10.0) | 2.10.0
 
@@ -2025,7 +2041,7 @@ __Downloads__: 4,583 | __Repository__:
 
 Helper module to convert Sentinel Analytics Rules between YAML, ARM and back
 
-__Downloads__: 1,438 | __Repository__: https://github.com/f-bader/SentinelARConverter
+__Downloads__: 1,435 | __Repository__: https://github.com/f-bader/SentinelARConverter
 
 ## [Airpower](https://www.powershellgallery.com/Packages/Airpower/0.6.1) | 0.6.1
 
@@ -2033,7 +2049,7 @@ __Downloads__: 1,438 | __Repository__: https://github.com/f-bader/SentinelARConv
 
 A package manager and environment to provide consistent tooling for software teams.
 
-__Downloads__: 1,945 | __Repository__: https://github.com/airpwr/airpwr
+__Downloads__: 1,949 | __Repository__: https://github.com/airpwr/airpwr
 
 ## [HVVMReliableMigration](https://www.powershellgallery.com/Packages/HVVMReliableMigration/1.2.0) | 1.2.0
 
@@ -2092,22 +2108,6 @@ __Downloads__: 690 | __Repository__: https://github.com/carsten-riedel/CoreePowe
 
 Zip and GZip utilities for PowerShell!
 
-__Downloads__: 13,761 | __Repository__: https://github.com/santisq/PSCompression
+__Downloads__: 13,724 | __Repository__: https://github.com/santisq/PSCompression
 
-## [ConnectWiseManageAPI](https://www.powershellgallery.com/Packages/ConnectWiseManageAPI/0.4.12.0) | 0.4.12.0
-
-### Published: 07/06/2023 22:53:05 by Chris Taylor
-
-PowerShell wrapper for the ConnectWise Manage REST API
-
-__Downloads__: 115,183 | __Repository__: https://github.com/christaylorcodes/ConnectWiseManageAPI
-
-## [TransitionManager](https://www.powershellgallery.com/Packages/TransitionManager/6.3.0) | 6.3.0
-
-### Published: 07/06/2023 19:38:20 by TransitionManager
-
-Provides TransitionManager Functionality
-
-__Downloads__: 1,149 | __Repository__: 
-
-*Updated: Thursday, 13 July 2023 02:23:09 UTC*
+*Updated: Thursday, 13 July 2023 09:52:41 UTC*
