@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Wednesday, 12 July 2023 17:52:50 UTC
+Updated: Thursday, 13 July 2023 02:23:21 UTC
 
 ?:
 ??
@@ -87,6 +87,8 @@ accessgovernancecp
 accesspoint
 accessrights
 accesstoken
+accord
+accord.net
 accordian
 account
 accounting
@@ -320,6 +322,7 @@ annotated
 announcement
 announcementsservice
 anonymous
+anova
 ansi
 ansible
 ansible-control-node
@@ -363,6 +366,7 @@ appclusive
 appcmd
 appconfiguration
 appdynamics
+appearance
 appender
 appian
 appinsights
@@ -761,6 +765,7 @@ binding
 bing
 bingmap
 bingmaps
+binomial
 bios
 bios_settings
 bios-settings
@@ -933,7 +938,6 @@ carousel
 carrier
 cartoon
 case
-cassandra
 cat
 cat-names
 catalog
@@ -957,7 +961,6 @@ cd-
 cd+
 cdable_vars
 cdata
-cdb
 cdi
 cdm
 cdn
@@ -1030,6 +1033,7 @@ chenxizhang
 cherrypy
 cherwell
 chfs
+chi
 china
 choco
 choco-bear
@@ -1041,7 +1045,6 @@ christaylorcodes
 christmas
 chrome
 chromium
-chunk
 churchofjesuschrist
 ci
 ci/cd
@@ -1392,6 +1395,7 @@ coreposh
 corona
 corporate
 cortex
+cos
 cosmos
 cosmosdb
 cost
@@ -1732,6 +1736,7 @@ developercommandprompt
 development
 devenv
 devexpress
+deviation
 device
 devicecode
 deviceid
@@ -1810,6 +1815,7 @@ diskpart
 diskpool
 diskspace
 dism
+dismal
 display
 displayresolution
 distance
@@ -1923,6 +1929,7 @@ draw
 drawio
 dreams
 dreamweaver
+dreary
 drift
 driftmonitor
 drive
@@ -2108,6 +2115,7 @@ enterprisedb
 enterprisemanager
 enterprisevoice
 entity
+entityframework
 entra
 entropy
 enum
@@ -2241,9 +2249,11 @@ exif
 exiftool
 exists
 exitcode
+exitprocessrequest
 exo
 exov2
 exov3
+exp
 expand
 expand-string
 expand-tab
@@ -2286,6 +2296,7 @@ extract
 extractor
 extreme-networks
 eztheme
+f
 f#
 f5
 facebook
@@ -2416,6 +2427,7 @@ firewall-management
 firewallrule
 firmware
 first
+fisher
 fissionproducts
 fitbit
 fits
@@ -2952,9 +2964,9 @@ hyperthreading
 hyperv
 hypervisor
 hypervplugins
+hypothesis
 hysolate
 hysolatemangementconsole
-i-doit
 i2c
 ia
 iaas
@@ -3087,7 +3099,6 @@ inheritance
 ini
 inifile
 initialization
-initials-avatar
 initiator
 inline-progress
 inlineprogress
@@ -3188,7 +3199,6 @@ ip-scanner
 ipa
 ipaddress
 ipam
-ipbroadcast
 ipc
 ipcalc
 ipcalculator
@@ -3468,8 +3478,6 @@ library
 libvirt
 licence
 license
-license-generator
-licenseautomation
 licensemanagement
 licensemanager
 licensereport
@@ -3487,6 +3495,7 @@ limits
 lina
 line
 line-endings
+linear
 linearalgebra
 link
 link-preview
@@ -3579,6 +3588,7 @@ logingestion
 loginscreen
 loginsight
 logiphys
+logistic
 logitech
 logmail
 logmails
@@ -3751,6 +3761,7 @@ mdop
 mdt
 mdx
 me4024
+mean
 measure
 measure-loc
 measure-process
@@ -4081,6 +4092,7 @@ netfirewallrule
 netherlands
 netmask
 nets
+netsapiens
 netscaler
 netscape
 netsec
@@ -4158,6 +4170,7 @@ noneimages
 noninteractive
 nord
 nordtools
+normal
 norskale
 norway
 norwegian
@@ -4184,6 +4197,7 @@ npslogfile
 nql
 nrc
 nrql
+ns
 ns.nl
 nsg
 nslookup
@@ -4483,6 +4497,7 @@ parser
 parsing
 partition
 partitions
+partner
 partnercenter
 partnerportal
 pas
@@ -4561,6 +4576,7 @@ permutations
 persistence
 persistent
 personal
+personalisation
 personalization
 personalvault
 personio
@@ -4583,6 +4599,7 @@ photograph
 photos
 php
 phpapam
+pi
 picker
 picture
 pictures
@@ -4702,6 +4719,7 @@ position
 postgre
 postgres
 postgresql
+pow
 powdrgit
 power
 power-cbr
@@ -4796,7 +4814,6 @@ prefix
 preparead
 preparealldomains
 prepareschema
-prepend
 preprocessing
 preprocessor
 presentation
@@ -5053,6 +5070,7 @@ psword
 pswriteword
 psyaml
 pszabbix
+pubg
 public
 public-key
 public-transport
@@ -5270,6 +5288,7 @@ register
 register-argumentcompleter
 registration
 registry
+regression
 regularexpression
 regularexpressions
 reinstall
@@ -5376,7 +5395,6 @@ resume
 retention
 retry
 returnuserprofile
-retype
 reuse
 reverse-engineer
 reverse-string
@@ -5852,6 +5870,7 @@ simplepassword
 simplepasswordgenerator
 simplivity
 simplysql
+sin
 single
 singlestore
 singleton
@@ -6072,7 +6091,9 @@ sqlserverbynarypsmodule
 sqlservermodule
 sqlvirtualmachine
 sqr
+sqrt
 square
+squire
 srcds
 srcsrv
 srm
@@ -6110,6 +6131,7 @@ staging
 stale
 stan
 stanc
+standard
 standarderror
 standardoutput
 stansummary
@@ -6127,6 +6149,7 @@ state
 static
 staticanalysis
 statichtmlsites
+statistical
 statistics
 stats
 statsd
@@ -6302,6 +6325,7 @@ systemlocale
 systems
 systemsplash
 systray
+t
 t-sql
 tab
 tab-comletion
@@ -6412,7 +6436,6 @@ test-samcmapplicationexists
 test-samcmpackageexists
 test-userisadministrator
 test-xml
-test123
 testaccount
 testautomation
 testimonial
@@ -6444,6 +6467,7 @@ tfsec
 tftd
 tftp
 tfvc
+thecrushingemptinessofquotidianexistence
 theme
 themes
 thermal
@@ -6658,7 +6682,6 @@ ud-hero
 ud-illustration
 ud-input
 ud-licensed
-ud-loadingoverlay
 ud-minesweeper
 ud-mouseparticle
 ud-navbarsearch
@@ -6668,7 +6691,6 @@ ud-piechart3d
 ud-pivottable
 ud-progressstepbar
 ud-rangeslider
-ud-readingbar
 ud-scrollspy
 ud-selectdatetime
 ud-selector
@@ -6692,7 +6714,6 @@ ud-wordtree
 udcm
 udfeedback
 udp
-udpclient
 udptest
 udr
 udthememode
@@ -6832,6 +6853,7 @@ vami
 vao
 variable
 variables
+variance
 variants
 vastlimits
 vault
@@ -7107,7 +7129,6 @@ wer
 what3words
 whatismyip
 whatsnew
-whatsupgold
 whd
 where
 whfb
@@ -7120,6 +7141,7 @@ wi-fi
 wia
 wia.imagefile
 wid
+widedata
 wif
 wifi
 wiki
@@ -7237,6 +7259,7 @@ wmipermanentevents
 wol
 wolfram
 wolframalpha
+woocommerce
 woolworths
 woolworthsrewards
 word
@@ -7310,7 +7333,6 @@ wttr
 wttr.in
 wtx
 wu
-wug
 wunderlist
 wvd
 www
@@ -7369,11 +7391,13 @@ xunit
 xwiki
 xwindowsupdate
 yahoo
+yahw
 yamaha
 yaml
 yandex
 yapg
 yarn
+yetanotherhelloworld
 yml
 ynab
 youtube

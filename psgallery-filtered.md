@@ -3,6 +3,78 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [AsBuiltReport.Veeam.VBR](https://www.powershellgallery.com/Packages/AsBuiltReport.Veeam.VBR/0.8.0) | 0.8.0
+
+### Published: 07/13/2023 01:40:48 by Jonathan Colon
+
+A PowerShell module to generate an as built report on the configuration of Veeam VBR.
+
+__Downloads__: 2,404 | __Repository__: https://github.com/AsBuiltReport/AsBuiltReport.Veeam.VBR
+
+## [PowerType](https://www.powershellgallery.com/Packages/PowerType/0.1.0) | 0.1.0
+
+### Published: 07/12/2023 21:18:51 by Peter Andersson
+
+Module providing recommendations for common tools - This module requires PowerShell 7.2 and PSReadLine 2.2.0.
+
+Suggestions must be activated:
+- Enable-PowerType:        Activate the suggestions
+- Disable-PowerType:       Disable the suggestions
+- Get-PowerTypeStatus      Gets the status of PowerType, this is useful for troubleshooting issues
+- Get-PowerTypeHistory     Gets the prediction history of PowerType, this is useful for troubleshooting issues
+
+For more information on PowerType, please visit the following: https://github.com/AnderssonPeter/PowerType
+
+__Downloads__: 1,196 | __Repository__: https://github.com/AnderssonPeter/PowerType/
+
+## [CitrixOptimizerAutomation](https://www.powershellgallery.com/Packages/CitrixOptimizerAutomation/2307.4) | 2307.4
+
+### Published: 07/12/2023 20:56:10 by David Brett
+
+PowerShell module to automate the creation of Citrix Optimizer Templates using simple pre-build cmdlets. Covers Services, Scheduled Tasks, Registry and Scripted Actions.
+
+__Downloads__: 4 | __Repository__: https://bretty.me.uk/citrixoptimizerautomation
+
+## [pwps_dab](https://www.powershellgallery.com/Packages/pwps_dab/23.2.2.0) | 23.2.2.0
+
+### Published: 07/12/2023 20:06:20 by Bentley Systems Incorporated
+
+ProjectWise PowerShell Cmdlets from System Architecture Group
+
+__Downloads__: 74,776 | __Repository__: 
+
+## [ExitProcessRequest](https://www.powershellgallery.com/Packages/ExitProcessRequest/1.2.2) | 1.2.2
+
+### Published: 07/12/2023 19:28:57 by Dailen Gunter
+
+The Show-ExitProcessRequest function displays a form that requests the user to save and close a specified process. The function allows the user to continue or optionally permit them to cancel the process closure. If the user has not clicked Continue within the specified time limit, the process is forcibly closed. You can specify a "display name" that is referenced in the message (i.e. Calculator instead of calc.exe), allow the user to cancel if desired, specify the time limit, and specify the icon to display in the message box.
+
+__Downloads__: 0 | __Repository__: https://github.com/widedata/scripts/tree/main/modules/ExitProcessRequest
+
+## [VirtualEngine.EvergreenDsc](https://www.powershellgallery.com/Packages/VirtualEngine.EvergreenDsc/1.4.0) | 1.4.0
+
+### Published: 07/12/2023 19:04:29 by Iain Brighton
+
+The VirtualEngine.EvergreenDsc module provides cmdlets and DSC resources for interacting with Virtual Engine Evergreen packages.
+
+__Downloads__: 25,939 | __Repository__: https://dev.azure.com/virtual-engine/PSRepository/_git/VirtualEngine.EvergreenDsc
+
+## [Test-NETHLK](https://www.powershellgallery.com/Packages/Test-NETHLK/2023.7.12.82) | 2023.7.12.82
+
+### Published: 07/12/2023 18:08:48 by Dan Cuomo
+
+Test-NetHLK is a module that compares a NICs driver configuration and switch capabilities against the MSFT documented requirements
+
+__Downloads__: 7,340 | __Repository__: https://github.com/microsoft/Test-NetHLK
+
+## [omp](https://www.powershellgallery.com/Packages/omp/1.0.0) | 1.0.0
+
+### Published: 07/12/2023 18:00:59 by Saksham Sud
+
+A PowerShell module for the Oh-My-Posh automatic prompt updater
+
+__Downloads__: 0 | __Repository__: 
+
 ## [AptecoPSFramework](https://www.powershellgallery.com/Packages/AptecoPSFramework/0.0.7) | 0.0.7
 
 ### Published: 07/12/2023 16:46:43 by florian.von.bracht@apteco.de
@@ -12,14 +84,6 @@ Apteco PS Modules - Framework
 More description to follow...
 
 __Downloads__: 25 | __Repository__: https://github.com/Apteco/AptecoPSModules/tree/dev/AptecoPSFramework
-
-## [CitrixOptimizerAutomation](https://www.powershellgallery.com/Packages/CitrixOptimizerAutomation/2307.3) | 2307.3
-
-### Published: 07/12/2023 14:50:04 by David Brett
-
-PowerShell module to automate the creation of Citrix Optimizer Templates using simple pre-build cmdlets. Covers Services, Scheduled Tasks, Registry and Scripted Actions.
-
-__Downloads__: 4 | __Repository__: https://bretty.me.uk/CitrixOptimizer
 
 ## [TPHubPS](https://www.powershellgallery.com/Packages/TPHubPS/1.18.7.1) | 1.18.7.1
 
@@ -35,7 +99,7 @@ __Downloads__: 755 | __Repository__: https://www.thinprint.com/de/produkte/thinp
 
 Automate your Venafi Trust Protection Platform and Venafi as a Service platforms!
 
-__Downloads__: 5,389 | __Repository__: https://github.com/Venafi/VenafiPS
+__Downloads__: 5,390 | __Repository__: https://github.com/Venafi/VenafiPS
 
 ## [SpecAzTables](https://www.powershellgallery.com/Packages/SpecAzTables/1.0.5) | 1.0.5
 
@@ -1164,7 +1228,7 @@ __Downloads__: 344 | __Repository__: https://github.com/oracle/oci-powershell-mo
 
 PSWriteHTML is PowerShell Module to generate beautiful HTML reports, pages, emails without any knowledge of HTML, CSS or JavaScript. To get started basics PowerShell knowledge is required.
 
-__Downloads__: 1,832,993 | __Repository__: https://github.com/EvotecIT/PSWriteHTML
+__Downloads__: 1,833,066 | __Repository__: https://github.com/EvotecIT/PSWriteHTML
 
 ## [ADOPS](https://www.powershellgallery.com/Packages/ADOPS/2.0.1) | 2.0.1
 
@@ -1210,7 +1274,7 @@ __Downloads__: 277 | __Repository__: https://github.com/masesgroup/KNet
 
 General Scripting Framework, providing PowerShell-specific infrastructure for other modules.
 
-__Downloads__: 3,660,319 | __Repository__: http://psframework.org/
+__Downloads__: 3,660,333 | __Repository__: http://psframework.org/
 
 ## [RiverMeadow.Development.Migrate](https://www.powershellgallery.com/Packages/RiverMeadow.Development.Migrate/1.0.116.257) | 1.0.116.257
 
@@ -1219,14 +1283,6 @@ __Downloads__: 3,660,319 | __Repository__: http://psframework.org/
 Provides cmdlets for starting migration of applications to supported clouds using the RiverMeadow platform.
 
 __Downloads__: 346 | __Repository__: https://migrate.rivermeadow.com/
-
-## [pwps_dab](https://www.powershellgallery.com/Packages/pwps_dab/23.2.1.0) | 23.2.1.0
-
-### Published: 07/11/2023 16:38:12 by Bentley Systems Incorporated
-
-ProjectWise PowerShell Cmdlets from System Architecture Group
-
-__Downloads__: 74,777 | __Repository__: 
 
 ## [DellOpenManage](https://www.powershellgallery.com/Packages/DellOpenManage/3.6.1) | 3.6.1
 
@@ -1254,7 +1310,7 @@ __Downloads__: 85 | __Repository__: https://github.com/masesgroup/JNet
 
 The Devolutions.PowerShell module is a set of cmdlets that allow administrators to manage Remote Desktop Manager, Devolutions Server and Devolutions Hub Business using PowerShell. This module provides a simple and consistent interface for interacting with these products, making it easy to automate various tasks, such as creating and managing connections, sessions, and credentials, configuring security settings, and generating reports. The module can be easily integrated with other PowerShell modules, allowing administrators to automate tasks across multiple products and platforms, streamline their workflows and increase efficiency.
 
-__Downloads__: 3,305 | __Repository__: 
+__Downloads__: 3,304 | __Repository__: 
 
 ## [PSPsat](https://www.powershellgallery.com/Packages/PSPsat/0.0.7) | 0.0.7
 
@@ -1270,7 +1326,7 @@ __Downloads__: 3 | __Repository__: https://github.com/regg00/PowerShell-PSAT
 
 Alpha project for Xpertdoc API
 
-__Downloads__: 252 | __Repository__: https://github.com/mithrandyr/SimplyXD
+__Downloads__: 255 | __Repository__: https://github.com/mithrandyr/SimplyXD
 
 ## [AdminToolbox](https://www.powershellgallery.com/Packages/AdminToolbox/11.0.103) | 11.0.103
 
@@ -1278,7 +1334,7 @@ __Downloads__: 252 | __Repository__: https://github.com/mithrandyr/SimplyXD
 
 Master module for a collection of modules. These modules are varied in their tasks. The overall purpose of them being to provide a powerfull Toolset to improve IT Admin workflows.
 
-__Downloads__: 28,589 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox
+__Downloads__: 28,590 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox
 
 ## [AdminToolbox.FortiWizard](https://www.powershellgallery.com/Packages/AdminToolbox.FortiWizard/2.18.1) | 2.18.1
 
@@ -1465,7 +1521,7 @@ Some of the interesting functions:
 - Upload-IntuneAutopilotHash - upload given autopilot hash (owner and hostname) into Intune
 - ...
 
-__Downloads__: 10,480 | __Repository__: https://github.com/ztrhgf/useful_powershell_modules
+__Downloads__: 10,481 | __Repository__: https://github.com/ztrhgf/useful_powershell_modules
 
 ## [MSGraphStuff](https://www.powershellgallery.com/Packages/MSGraphStuff/1.0.1) | 1.0.1
 
@@ -1479,7 +1535,7 @@ Some of the functions:
 - New-GraphAPIAuthHeader - Function for generating header that can be used for authentication of Graph API requests
 - ...
 
-__Downloads__: 99 | __Repository__: https://github.com/ztrhgf/useful_powershell_modules
+__Downloads__: 100 | __Repository__: https://github.com/ztrhgf/useful_powershell_modules
 
 ## [powershell-windows-autoproxy](https://www.powershellgallery.com/Packages/powershell-windows-autoproxy/1.2.0) | 1.2.0
 
@@ -1680,7 +1736,7 @@ __Downloads__: 321 | __Repository__: https://github.com/HotCakeX/Harden-Windows-
 
 Adds some additional functionality to the PowerShell DSC module cChoco
 
-__Downloads__: 847,534 | __Repository__: https://github.com/jyonke/cChocoEx
+__Downloads__: 847,536 | __Repository__: https://github.com/jyonke/cChocoEx
 
 ## [UltimateTool](https://www.powershellgallery.com/Packages/UltimateTool/1.3.1.2) | 1.3.1.2
 
@@ -1736,7 +1792,7 @@ __Downloads__: 2 | __Repository__: https://github.com/SeryiBaran/TestNodeJSVersi
 
 Provide a better and easier way for GitHub Actions to communicate with the runner machine, and the toolkit for developing GitHub Actions in PowerShell.
 
-__Downloads__: 59,345 | __Repository__: https://github.com/hugoalh-studio/ghactions-toolkit-powershell
+__Downloads__: 59,392 | __Repository__: https://github.com/hugoalh-studio/ghactions-toolkit-powershell
 
 ## [Pilot](https://www.powershellgallery.com/Packages/Pilot/0.0.3) | 0.0.3
 
@@ -1776,7 +1832,7 @@ __Downloads__: 913 | __Repository__: https://github.com/StartAutomating/Benchpre
 
 The PowerShell AI module integrates with the OpenAI API and let's you easily access the GPT models for text completion, image generation and more.
 
-__Downloads__: 10,119 | __Repository__: https://github.com/dfinke/PowerShellAI
+__Downloads__: 10,116 | __Repository__: https://github.com/dfinke/PowerShellAI
 
 ## [GetSSLCertExpiryDate](https://www.powershellgallery.com/Packages/GetSSLCertExpiryDate/1.0.0) | 1.0.0
 
@@ -1810,14 +1866,6 @@ __Downloads__: 63 | __Repository__: https://github.com/DEberhardt/Orbit
 Scripts & Functions for Administrators working in the Microsoft 365 Orbit
 
 __Downloads__: 64 | __Repository__: https://github.com/DEberhardt/Orbit
-
-## [Orbit.Teams](https://www.powershellgallery.com/Packages/Orbit.Teams/0.7.0) | 0.7.0
-
-### Published: 07/08/2023 14:00:18 by David Eberhardt
-
-Scripts & Functions for Administrators working in the Microsoft 365 Orbit
-
-__Downloads__: 70 | __Repository__: https://github.com/DEberhardt/Orbit
 
 ## [Orbit.Tools](https://www.powershellgallery.com/Packages/Orbit.Tools/0.7.0) | 0.7.0
 
@@ -1929,7 +1977,7 @@ __Downloads__: 288 | __Repository__: https://github.com/StartAutomating/obs-powe
 
 Sample module to manage AutoPilot devices using the Intune Graph API
 
-__Downloads__: 6,765,578 | __Repository__: 
+__Downloads__: 6,765,786 | __Repository__: 
 
 ## [BcContainerHelper](https://www.powershellgallery.com/Packages/BcContainerHelper/5.0.4) | 5.0.4
 
@@ -1937,7 +1985,7 @@ __Downloads__: 6,765,578 | __Repository__:
 
 PowerShell module, which makes it easier to work with Business Central Containers on Docker.
 
-__Downloads__: 1,229,765 | __Repository__: 
+__Downloads__: 1,229,811 | __Repository__: 
 
 ## [FpsGeneral](https://www.powershellgallery.com/Packages/FpsGeneral/1.0.23188.1) | 1.0.23188.1
 
@@ -1969,7 +2017,7 @@ __Downloads__: 456 | __Repository__: https://github.com/FozzyHosting/AutomaticMa
 
 This PS Module contains functions to deploy AL app files into On-premises Dynamics 365 Business Central environments.
 
-__Downloads__: 4,576 | __Repository__: 
+__Downloads__: 4,583 | __Repository__: 
 
 ## [SentinelARConverter](https://www.powershellgallery.com/Packages/SentinelARConverter/2.0.1) | 2.0.1
 
@@ -2001,7 +2049,7 @@ __Downloads__: 243 | __Repository__: https://github.com/FozzyHosting/HVVMReliabl
 
 Extract Azure API Management to ARM templates
 
-__Downloads__: 12,464 | __Repository__: https://github.com/MLogdberg/APIManagementARMTemplateCreator
+__Downloads__: 12,465 | __Repository__: https://github.com/MLogdberg/APIManagementARMTemplateCreator
 
 ## [ExchangeEssentials](https://www.powershellgallery.com/Packages/ExchangeEssentials/0.1.0) | 0.1.0
 
@@ -2052,7 +2100,7 @@ __Downloads__: 13,761 | __Repository__: https://github.com/santisq/PSCompression
 
 PowerShell wrapper for the ConnectWise Manage REST API
 
-__Downloads__: 115,178 | __Repository__: https://github.com/christaylorcodes/ConnectWiseManageAPI
+__Downloads__: 115,183 | __Repository__: https://github.com/christaylorcodes/ConnectWiseManageAPI
 
 ## [TransitionManager](https://www.powershellgallery.com/Packages/TransitionManager/6.3.0) | 6.3.0
 
@@ -2062,44 +2110,4 @@ Provides TransitionManager Functionality
 
 __Downloads__: 1,149 | __Repository__: 
 
-## [WindowsAutopilotIntuneCommunity](https://www.powershellgallery.com/Packages/WindowsAutopilotIntuneCommunity/2.1) | 2.1
-
-### Published: 07/06/2023 19:17:14 by Andrew Taylor & Michael Niehaus
-
-Sample module to manage AutoPilot devices using the Intune Graph API
-
-__Downloads__: 1,153 | __Repository__: 
-
-## [Rivet](https://www.powershellgallery.com/Packages/Rivet/0.22.0) | 0.22.0
-
-### Published: 07/06/2023 19:03:46 by WebMD Health Services
-
-Rivet is a database migration/change management/versioning tool inspired by Ruby on Rails' Migrations. It creates and applies migration scripts for SQL Server databases. Migration scripts describe changes to make to your database, e.g. add a table, add a column, remove an index, etc. Migrations scripts should get added to your version control system so they can be packaged and deployed with your application's code.
-
-__Downloads__: 1,018 | __Repository__: http://get-rivet.org/
-
-## [BinaryTree.Internal.Power365.Dev](https://www.powershellgallery.com/Packages/BinaryTree.Internal.Power365.Dev/20.12.10.30814) | 20.12.10.30814
-
-### Published: 07/06/2023 16:01:59 by BinaryTreePackagePublisher
-
-PowerShell Management cmdlets for Binary Tree Power365
-
-__Downloads__: 6,203 | __Repository__: 
-
-## [PSDataverse](https://www.powershellgallery.com/Packages/PSDataverse/0.0.7) | 0.0.7
-
-### Published: 07/06/2023 15:16:32 by Reza Niroomand
-
-Bring Dataverse's Web API to PowerShell.
-
-__Downloads__: 286 | __Repository__: https://github.com/rezanid/PSDataverse
-
-## [PSJobLogger](https://www.powershellgallery.com/Packages/PSJobLogger/0.2.0) | 0.2.0
-
-### Published: 07/06/2023 13:07:24 by Alan Lew
-
-A logging class suitable for use with ForEach-Object -Parallel -AsJob
-
-__Downloads__: 7 | __Repository__: https://github.com/neflyte/PSJobLogger
-
-*Updated: Wednesday, 12 July 2023 17:52:38 UTC*
+*Updated: Thursday, 13 July 2023 02:23:09 UTC*
