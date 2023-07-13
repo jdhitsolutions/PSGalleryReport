@@ -3,6 +3,102 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [PowerShellAI](https://www.powershellgallery.com/Packages/PowerShellAI/0.8.2) | 0.8.2
+
+### Published: 07/13/2023 17:37:34 by Douglas Finke
+
+The PowerShell AI module integrates with the OpenAI API and let's you easily access the GPT models for text completion, image generation and more.
+
+__Downloads__: 10,119 | __Repository__: https://github.com/dfinke/PowerShellAI
+
+## [DnnWebsiteManagement](https://www.powershellgallery.com/Packages/DnnWebsiteManagement/2.0.1) | 2.0.1
+
+### Published: 07/13/2023 17:24:41 by Brian Dukes
+
+A set of functions for managing websites built on the DNN Platform.
+
+__Downloads__: 1,636 | __Repository__: https://github.com/bdukes/PowerShellModules
+
+## [FpsBcDeployment](https://www.powershellgallery.com/Packages/FpsBcDeployment/1.0.23194.2) | 1.0.23194.2
+
+### Published: 07/13/2023 17:21:31 by rdannenberg
+
+This PS Module contains functions to deploy AL app files into On-premises Dynamics 365 Business Central environments.
+
+__Downloads__: 4,577 | __Repository__: 
+
+## [ExitProcessRequest](https://www.powershellgallery.com/Packages/ExitProcessRequest/1.3.0) | 1.3.0
+
+### Published: 07/13/2023 16:26:24 by Dailen Gunter
+
+The Show-ExitProcessRequest function displays a form that requests the user to save and close a specified process. You may specify just a display name but if you include a process name then it will attempt to terminate that process at the end. The function allows the user to continue or optionally permit them to cancel the process closure, if no process name is specified it will simply return an error. If the user has not clicked Continue within the specified time limit, if a process name was specified then it is forcibly closed. You can specify a "display name" that is referenced in the message (i.e. Calculator instead of calc.exe), allow the user to cancel if desired, specify the time limit, and specify the icon to display in the message box.
+
+__Downloads__: 1 | __Repository__: https://github.com/widedata/scripts/tree/main/modules/ExitProcessRequest
+
+## [wingetposh](https://www.powershellgallery.com/Packages/wingetposh/0.9.5) | 0.9.5
+
+### Published: 07/13/2023 16:19:40 by yvesg
+
+Helpers functions for Winget
+
+__Downloads__: 545 | __Repository__: https://github.com/Yves848/WingetPosh
+
+## [AzurePipelinesPS](https://www.powershellgallery.com/Packages/AzurePipelinesPS/4.0.38) | 4.0.38
+
+### Published: 07/13/2023 15:40:53 by Dejulia489
+
+A PowerShell module that makes interfacing with Azure Pipelines a little easier
+
+__Downloads__: 28,049 | __Repository__: https://github.com/Dejulia489/AzurePipelinesPS
+
+## [tmps_testmodule](https://www.powershellgallery.com/Packages/tmps_testmodule/0.0.4) | 0.0.4
+
+### Published: 07/13/2023 15:35:40 by fcastillo
+
+Test Module for internal CI/CD pipeline
+
+__Downloads__: 2 | __Repository__: 
+
+## [Icewolf.EXO.SpamAnalyze](https://www.powershellgallery.com/Packages/Icewolf.EXO.SpamAnalyze/2.0.10) | 2.0.10
+
+### Published: 07/13/2023 14:18:49 by Andres Bohren
+
+This is a Powershell Module that simplifies the Message Trace in Exchange Online (EXO). Install-Module Icewolf.EXO.SpamAnalyze
+
+__Downloads__: 369 | __Repository__: https://github.com/BohrenAn/GitHub_PowerShellScripts/tree/main/Icewolf.EXO.SpamAnalyze
+
+## [DupreeFunctions](https://www.powershellgallery.com/Packages/DupreeFunctions/2.0.3) | 2.0.3
+
+### Published: 07/13/2023 13:38:35 by Christopher Dupree
+
+Just some functions that I commonly use.
+
+__Downloads__: 388 | __Repository__: 
+
+## [Liquit.Server.PowerShell](https://www.powershellgallery.com/Packages/Liquit.Server.PowerShell/4.0.3209.5443) | 4.0.3209.5443
+
+### Published: 07/13/2023 13:35:12 by Liquit Software B.V.
+
+Liquit Workspace PowerShell Module
+
+__Downloads__: 1,134 | __Repository__: 
+
+## [PSTranslate](https://www.powershellgallery.com/Packages/PSTranslate/2.1.1) | 2.1.1
+
+### Published: 07/13/2023 13:33:55 by Jan-Hendrik Peters
+
+Module for modern text translation.
+
+__Downloads__: 527 | __Repository__: https://github.com/nyanhp/PSTranslate
+
+## [SqlChangeAutomation](https://www.powershellgallery.com/Packages/SqlChangeAutomation/4.6.23194.1777) | 4.6.23194.1777
+
+### Published: 07/13/2023 13:16:30 by Red Gate Software Ltd.
+
+Automation tools for production quality database deployment
+
+__Downloads__: 4,283,130 | __Repository__: https://www.red-gate.com/sca/productpage
+
 ## [JaapsTools](https://www.powershellgallery.com/Packages/JaapsTools/18.4.7) | 18.4.7
 
 ### Published: 07/13/2023 09:46:31 by JT
@@ -81,15 +177,7 @@ __Downloads__: 4 | __Repository__: https://bretty.me.uk/citrixoptimizerautomatio
 
 ProjectWise PowerShell Cmdlets from System Architecture Group
 
-__Downloads__: 74,776 | __Repository__: 
-
-## [ExitProcessRequest](https://www.powershellgallery.com/Packages/ExitProcessRequest/1.2.2) | 1.2.2
-
-### Published: 07/12/2023 19:28:57 by Dailen Gunter
-
-The Show-ExitProcessRequest function displays a form that requests the user to save and close a specified process. The function allows the user to continue or optionally permit them to cancel the process closure. If the user has not clicked Continue within the specified time limit, the process is forcibly closed. You can specify a "display name" that is referenced in the message (i.e. Calculator instead of calc.exe), allow the user to cancel if desired, specify the time limit, and specify the icon to display in the message box.
-
-__Downloads__: 0 | __Repository__: https://github.com/widedata/scripts/tree/main/modules/ExitProcessRequest
+__Downloads__: 74,778 | __Repository__: 
 
 ## [Test-NETHLK](https://www.powershellgallery.com/Packages/Test-NETHLK/2023.7.12.82) | 2023.7.12.82
 
@@ -1260,7 +1348,7 @@ __Downloads__: 344 | __Repository__: https://github.com/oracle/oci-powershell-mo
 
 PSWriteHTML is PowerShell Module to generate beautiful HTML reports, pages, emails without any knowledge of HTML, CSS or JavaScript. To get started basics PowerShell knowledge is required.
 
-__Downloads__: 1,833,066 | __Repository__: https://github.com/EvotecIT/PSWriteHTML
+__Downloads__: 1,832,936 | __Repository__: https://github.com/EvotecIT/PSWriteHTML
 
 ## [ADOPS](https://www.powershellgallery.com/Packages/ADOPS/2.0.1) | 2.0.1
 
@@ -1314,7 +1402,7 @@ __Downloads__: 3,660,289 | __Repository__: http://psframework.org/
 
 Dell OpenManage Enterprise PowerShell Module
 
-__Downloads__: 5,156 | __Repository__: https://github.com/dell/OpenManage-PowerShell-Modules
+__Downloads__: 5,155 | __Repository__: https://github.com/dell/OpenManage-PowerShell-Modules
 
 ## [MASES.JNetPS](https://www.powershellgallery.com/Packages/MASES.JNetPS/2.0.1) | 2.0.1
 
@@ -1358,7 +1446,7 @@ __Downloads__: 255 | __Repository__: https://github.com/mithrandyr/SimplyXD
 
 Master module for a collection of modules. These modules are varied in their tasks. The overall purpose of them being to provide a powerfull Toolset to improve IT Admin workflows.
 
-__Downloads__: 28,590 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox
+__Downloads__: 28,589 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox
 
 ## [AdminToolbox.FortiWizard](https://www.powershellgallery.com/Packages/AdminToolbox.FortiWizard/2.18.1) | 2.18.1
 
@@ -1366,7 +1454,7 @@ __Downloads__: 28,590 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions that generate configuration scripts and manage FortiOS.
 
-__Downloads__: 7,549 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 7,550 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.VMWareAutomate](https://www.powershellgallery.com/Packages/AdminToolbox.VMWareAutomate/4.8.92) | 4.8.92
 
@@ -1545,7 +1633,7 @@ Some of the interesting functions:
 - Upload-IntuneAutopilotHash - upload given autopilot hash (owner and hostname) into Intune
 - ...
 
-__Downloads__: 10,481 | __Repository__: https://github.com/ztrhgf/useful_powershell_modules
+__Downloads__: 10,480 | __Repository__: https://github.com/ztrhgf/useful_powershell_modules
 
 ## [MSGraphStuff](https://www.powershellgallery.com/Packages/MSGraphStuff/1.0.1) | 1.0.1
 
@@ -1770,14 +1858,6 @@ Ultimate Tool for deploying original Office and Windows and much, much more !
 
 __Downloads__: 50 | __Repository__: https://drive.google.com/drive/u/0/folders/1DyPgapt29ZqsiPQCZBiIGGKCOMHt1XYo
 
-## [wingetposh](https://www.powershellgallery.com/Packages/wingetposh/0.9.4) | 0.9.4
-
-### Published: 07/09/2023 17:16:50 by yvesg
-
-Helpers functions for Winget
-
-__Downloads__: 545 | __Repository__: https://github.com/Yves848/WingetPosh
-
 ## [PowerRvB](https://www.powershellgallery.com/Packages/PowerRvB/2.5.1) | 2.5.1
 
 ### Published: 07/09/2023 16:50:54 by Evan Deters
@@ -1816,7 +1896,7 @@ __Downloads__: 2 | __Repository__: https://github.com/SeryiBaran/TestNodeJSVersi
 
 Provide a better and easier way for GitHub Actions to communicate with the runner machine, and the toolkit for developing GitHub Actions in PowerShell.
 
-__Downloads__: 59,392 | __Repository__: https://github.com/hugoalh-studio/ghactions-toolkit-powershell
+__Downloads__: 59,383 | __Repository__: https://github.com/hugoalh-studio/ghactions-toolkit-powershell
 
 ## [Pilot](https://www.powershellgallery.com/Packages/Pilot/0.0.3) | 0.0.3
 
@@ -1849,14 +1929,6 @@ __Downloads__: 186 | __Repository__: https://github.com/ShaunLawrie/PwshPaint
 Easy Benchmarking with PowerShell
 
 __Downloads__: 913 | __Repository__: https://github.com/StartAutomating/Benchpress
-
-## [PowerShellAI](https://www.powershellgallery.com/Packages/PowerShellAI/0.8.1) | 0.8.1
-
-### Published: 07/08/2023 17:50:23 by Douglas Finke
-
-The PowerShell AI module integrates with the OpenAI API and let's you easily access the GPT models for text completion, image generation and more.
-
-__Downloads__: 10,116 | __Repository__: https://github.com/dfinke/PowerShellAI
 
 ## [GetSSLCertExpiryDate](https://www.powershellgallery.com/Packages/GetSSLCertExpiryDate/1.0.0) | 1.0.0
 
@@ -1947,14 +2019,6 @@ Script SVGs with PowerShell
 
 __Downloads__: 186 | __Repository__: https://github.com/StartAutomating/PSSVG
 
-## [DupreeFunctions](https://www.powershellgallery.com/Packages/DupreeFunctions/2.0.2) | 2.0.2
-
-### Published: 07/08/2023 01:12:59 by Christopher Dupree
-
-Just some functions that I commonly use.
-
-__Downloads__: 388 | __Repository__: 
-
 ## [AksHci](https://www.powershellgallery.com/Packages/AksHci/1.1.81) | 1.1.81
 
 ### Published: 07/07/2023 20:39:19 by nwood
@@ -2027,14 +2091,6 @@ Helps IT engineers to establish a continuous update process in large intertangle
 
 __Downloads__: 456 | __Repository__: https://github.com/FozzyHosting/AutomaticMaintenance/
 
-## [FpsBcDeployment](https://www.powershellgallery.com/Packages/FpsBcDeployment/1.0.23188.2) | 1.0.23188.2
-
-### Published: 07/07/2023 13:22:07 by rdannenberg
-
-This PS Module contains functions to deploy AL app files into On-premises Dynamics 365 Business Central environments.
-
-__Downloads__: 4,583 | __Repository__: 
-
 ## [SentinelARConverter](https://www.powershellgallery.com/Packages/SentinelARConverter/2.0.1) | 2.0.1
 
 ### Published: 07/07/2023 13:12:48 by Fabian Bader
@@ -2049,65 +2105,6 @@ __Downloads__: 1,435 | __Repository__: https://github.com/f-bader/SentinelARConv
 
 A package manager and environment to provide consistent tooling for software teams.
 
-__Downloads__: 1,949 | __Repository__: https://github.com/airpwr/airpwr
+__Downloads__: 1,945 | __Repository__: https://github.com/airpwr/airpwr
 
-## [HVVMReliableMigration](https://www.powershellgallery.com/Packages/HVVMReliableMigration/1.2.0) | 1.2.0
-
-### Published: 07/07/2023 11:46:16 by Kirill Nikolaev
-
-Solves 3 problems which you most certainly bump into, when migrating VMs in a shared-nothing Hyper-V environment: live-migration limit, backing up VMs cannot be migrated, clutter of empty folders on the source server.
-
-__Downloads__: 243 | __Repository__: https://github.com/FozzyHosting/HVVMReliableMigration/
-
-## [APIManagementTemplate](https://www.powershellgallery.com/Packages/APIManagementTemplate/1.4.200) | 1.4.200
-
-### Published: 07/07/2023 09:52:49 by Mattias Lögdberg
-
-Extract Azure API Management to ARM templates
-
-__Downloads__: 12,465 | __Repository__: https://github.com/MLogdberg/APIManagementARMTemplateCreator
-
-## [ExchangeEssentials](https://www.powershellgallery.com/Packages/ExchangeEssentials/0.1.0) | 0.1.0
-
-### Published: 07/07/2023 09:05:43 by Przemyslaw Klys
-
-ExchangeEssentials
-
-__Downloads__: 6 | __Repository__: https://github.com/EvotecIT/ExchangeEssentials
-
-## [UncommonSense.AzureDevops.Logging](https://www.powershellgallery.com/Packages/UncommonSense.AzureDevops.Logging/0.0.2.0) | 0.0.2.0
-
-### Published: 07/07/2023 08:10:55 by Jan Hoek
-
-PowerShell module that wraps the Azure Devops logging commands
-
-__Downloads__: 6 | __Repository__: 
-
-## [scoop-tab-completion](https://www.powershellgallery.com/Packages/scoop-tab-completion/1.1.3) | 1.1.3
-
-### Published: 07/07/2023 06:22:51 by abgo
-
-scoop tab completion.The data of completion comes from json,and you can modify the json file to change the completion as required. For more information, please visit the project: https://github.com/abgox/PS-completions
-
-__Downloads__: 26 | __Repository__: https://github.com/abgox/PS-completions
-
-## [CoreePower.Lib](https://www.powershellgallery.com/Packages/CoreePower.Lib/0.0.1.23) | 0.0.1.23
-
-### Published: 07/07/2023 04:04:25 by Carsten Riedel
-
-The "CoreePower.Lib" module is the a part of the CoreePower project.
-It adds command-line programs like 7-Zip, Git, GitHub CLI, NuGet, dotnet, and Visual Studio Code from the original sources.
-See full readme at https://github.com/carsten-riedel/CoreePower.Lib/#readme
-Note: the "Initialize-CorePowerLatest" command may conflict with existing installations. Use with caution.
-
-__Downloads__: 690 | __Repository__: https://github.com/carsten-riedel/CoreePower.Lib
-
-## [PSCompression](https://www.powershellgallery.com/Packages/PSCompression/2.0.1) | 2.0.1
-
-### Published: 07/07/2023 03:07:52 by Santiago Squarzon
-
-Zip and GZip utilities for PowerShell!
-
-__Downloads__: 13,724 | __Repository__: https://github.com/santisq/PSCompression
-
-*Updated: Thursday, 13 July 2023 09:52:41 UTC*
+*Updated: Thursday, 13 July 2023 17:53:08 UTC*

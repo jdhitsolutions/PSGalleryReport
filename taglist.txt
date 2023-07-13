@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Thursday, 13 July 2023 09:52:54 UTC
+Updated: Thursday, 13 July 2023 17:53:23 UTC
 
 ?:
 ??
@@ -172,7 +172,6 @@ adif
 adm
 admf
 admin
-admin-tools
 adminbyrequest
 admindirectory
 administration
@@ -206,7 +205,6 @@ adv190013
 adv220002
 advanced
 advapi32
-advice
 advisor
 adwords
 adx
@@ -366,7 +364,6 @@ appclusive
 appcmd
 appconfiguration
 appdynamics
-appearance
 appender
 appian
 appinsights
@@ -476,7 +473,6 @@ assets
 assistance
 association
 ast
-astronomy
 asv
 asymmetric
 async
@@ -652,7 +648,6 @@ azurekeyvault
 azuremigrate
 azuremonitor
 azurenetworking
-azurepack
 azurepipelines
 azurepolicy
 azurepowershell
@@ -1077,8 +1072,6 @@ cis
 cisco
 ciscoucscmdlets
 ciscoucsdsc
-citation
-cite
 citrix
 citrixoptimizer
 civo
@@ -1642,7 +1635,6 @@ days-week
 db
 db2
 dba
-dbaas
 dbase
 dbcommand
 dbfs
@@ -1818,7 +1810,6 @@ diskpart
 diskpool
 diskspace
 dism
-dismal
 display
 displayresolution
 distance
@@ -1930,9 +1921,7 @@ dq
 dr
 draw
 drawio
-dreams
 dreamweaver
-dreary
 drift
 driftmonitor
 drive
@@ -2262,7 +2251,6 @@ expand-string
 expand-tab
 expandframework
 expect
-experience
 experiments
 expired
 expiring
@@ -2426,14 +2414,12 @@ fine-print
 firebird
 firefox
 firewall
-firewall-management
 firewallrule
 firmware
 first
 fisher
 fissionproducts
 fitbit
-fits
 five
 five9
 fix-log
@@ -2476,7 +2462,6 @@ forensic
 forensics
 forest
 forestdiscovery
-forgiveness
 form
 format
 format-numberedlist
@@ -3056,7 +3041,6 @@ imageslide
 imagevalidate
 imagevalidation
 imagga
-imagination
 imaging
 imap
 imb
@@ -3119,9 +3103,6 @@ insight
 insightanalytics
 insights
 inspect
-inspiration
-inspirationalquotes
-inspire
 inspur
 instagram
 install
@@ -3150,7 +3131,6 @@ integrationservicescatalog
 integrity
 intel
 inteligo
-intelligence
 intelligence"
 intellisearch
 intellisense
@@ -3492,9 +3472,6 @@ licensemanager
 licensereport
 licenses
 licensing
-life
-lifequotes
-lifestyle
 light
 lights
 lime
@@ -3627,8 +3604,6 @@ lookup
 loop
 loopback
 loremipsum
-love
-lovequotes
 lpr
 lpsiamol
 ls
@@ -3796,7 +3771,6 @@ memcm
 memory
 memorydump
 memorystream
-mention
 menu
 menus
 meraki
@@ -3939,8 +3913,6 @@ moodle
 moonshot
 mosaic
 motd
-motivation
-motivationalquotes
 mount
 mouse
 move
@@ -4123,7 +4095,6 @@ networkinterfaces
 networkloadbalancer
 networkpolicyserver
 networkscan
-networksecurity
 networksecuritygroup
 networkshares
 netwrix
@@ -4585,7 +4556,6 @@ permutations
 persistence
 persistent
 personal
-personalisation
 personalization
 personalvault
 personio
@@ -4666,8 +4636,6 @@ pnp
 pnpm
 pode
 poe
-poem
-poetry
 point
 point-to-site
 pokeapi
@@ -4794,6 +4762,7 @@ powershelllogger
 powershellmodule
 powershellmoduleupdate
 powershellpr0mpt
+powershellscript
 powershelltemplate
 powershelltraining
 powershelltypeaccelerators
@@ -4907,7 +4876,6 @@ protection
 protocol
 protocols
 provance
-proverb
 provider
 providerhub
 provision
@@ -5080,7 +5048,6 @@ psword
 pswriteword
 psyaml
 pszabbix
-pubg
 public
 public-key
 public-transport
@@ -5171,9 +5138,7 @@ quicksetup
 qumulo
 quota
 quote
-quoteoftheday
 quotes
-quotestoliveby
 quoting
 quser
 r
@@ -5185,7 +5150,6 @@ radarr
 radio
 raidcontrollercmdlets
 rainbow
-raisers
 raisersedge
 raj
 ram
@@ -5282,7 +5246,6 @@ refactoring
 refeds
 refeds-mfa
 refedsmfa
-reference
 reflect
 reflection
 refresh
@@ -6249,7 +6212,6 @@ subscriptiondefinition
 subset
 subsystem
 subtitle
-success
 successfactors
 sudo
 sugar
@@ -6425,7 +6387,6 @@ tenable
 tenable.sc
 tenant
 tenantmanagercontrolplane
-teradata
 termbin
 terminal
 terminal-interface
@@ -6480,7 +6441,6 @@ tfsec
 tftd
 tftp
 tfvc
-thecrushingemptinessofquotidianexistence
 theme
 themes
 thermal
@@ -6595,7 +6555,6 @@ transmission
 transparency
 transpilation
 trap
-travel
 trec
 tree
 treesize
@@ -6623,7 +6582,6 @@ trusted-host
 trustedhosts
 trustedrootcertificate
 trustprotectionplatform
-truth
 trx
 ts
 tsa
@@ -6978,7 +6936,6 @@ vmhostgroup
 vmhostnetworkadapater
 vmmanagement
 vmnic
-vmrole
 vms
 vmss
 vmtovmhostrule
@@ -7141,11 +7098,9 @@ weixin
 well-known
 wem
 wemsdk
-wer
 what3words
 whatismyip
 whatsnew
-whatsupgold
 whd
 where
 whfb
@@ -7183,13 +7138,10 @@ windows explorer
 windows_events
 windows-10
 windows-api
-windows-control-panel
-windows-defender
 windows-defender-application-control
 windows-environment
 windows-explorer
 windows-features
-windows-firewall
 windows-powershell
 windows-registry
 windows-remoting
@@ -7350,7 +7302,6 @@ wttr
 wttr.in
 wtx
 wu
-wug
 wunderlist
 wvd
 www
