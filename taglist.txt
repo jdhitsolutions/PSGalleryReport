@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Friday, 14 July 2023 02:23:24 UTC
+Updated: Friday, 14 July 2023 09:52:55 UTC
 
 ?:
 ??
@@ -53,7 +53,6 @@ Updated: Friday, 14 July 2023 02:23:24 UTC
 7z
 7zip
 8.1
-8ball
 9
 aa
 aac
@@ -275,11 +274,9 @@ almrangers
 alpha
 alphafs
 alpine
-alpr
 alt3
 alter
 alteryx
-alwaysontop
 alwaysonvpn
 alz
 amateur
@@ -343,7 +340,6 @@ api-client
 api-gateway
 api-rest
 apichecks
-apiclient
 apigateway
 apigee
 apigeeedge
@@ -743,8 +739,6 @@ bestpractices
 beta
 bginfo
 bi
-bibliography
-bibtex
 bicep
 bicepnet
 big-ip
@@ -1164,6 +1158,7 @@ cloudservice
 clueser
 cluster
 clusterminimumvalues
+clusterplugins
 cmaccounts
 cmake
 cmakepresets.json
@@ -1943,6 +1938,7 @@ drivertool
 drivertool.powercli
 driverupdates
 drm
+drone.io
 drop
 dropbox
 dropdatabase
@@ -2069,6 +2065,7 @@ emacs
 email
 email-address
 emailaddressupdate
+emailautomation
 emailmanagment
 emailnotification
 emailnotificationcomponent
@@ -2134,6 +2131,7 @@ eol
 eop
 eperl
 ephesoft
+epicor
 episode
 epplus
 eprosima
@@ -2649,6 +2647,7 @@ git-clone
 git-stat
 gitcmdline
 gitdesktop
+gitea
 gitflow
 gitforwindows
 github
@@ -3343,7 +3342,6 @@ kerberos
 kernel32
 kestrel
 key
-key-vault
 key2wocas
 keybase
 keybinding
@@ -3363,6 +3361,7 @@ kickstart
 kidrsa
 kill
 kindle
+kinetic
 kintone
 klantcontroles
 kms
@@ -3521,7 +3520,6 @@ list-item
 listener
 litecoin
 litedb
-literature
 live
 lldp
 lmhost
@@ -3620,7 +3618,6 @@ loopback
 loremipsum
 love
 lovequotes
-lpr
 lpsiamol
 ls
 lsa
@@ -3679,7 +3676,6 @@ man-highlighting
 manage
 manage-wmi
 manageability
-managed-identity
 manageddisks
 managedidentities
 managedserviceidenity
@@ -3940,6 +3936,7 @@ mp3
 mp4
 mpc
 mpeg
+mpn
 mrfk
 mrfylke
 mrvl_fc_powerkit
@@ -4479,7 +4476,6 @@ panther
 panzerbjrn
 pap
 paper
-papis
 paradox
 parallel
 parallel-processing
@@ -4530,6 +4526,7 @@ patch
 patches
 patching
 path
+pathfinder
 patternmatching
 pause
 pax8
@@ -4578,6 +4575,7 @@ personalvault
 personio
 pester
 pf
+pfe
 pfsense
 pfx
 pfy
@@ -4615,6 +4613,7 @@ pipeline
 pipelines
 pipescript
 piraeus
+pivot
 pivotal
 pivottable
 pixoo
@@ -4801,7 +4800,6 @@ pq
 pranks
 predicate
 prediction
-predictive
 predictive-text
 predictor
 preferences
@@ -4898,7 +4896,6 @@ providerhub
 provision
 provisioning
 provisioningpackage
-provisonedpackage
 prowl
 prowl-notifications
 prowlapp
@@ -5577,6 +5574,7 @@ scheduler
 schedules-execution
 scheduling
 schema
+schemaextensions
 scheme
 school-information-system
 schulung
@@ -5974,6 +5972,7 @@ solarigate
 solarized
 solarwinds
 solr
+soltra
 solution
 solutions
 sonarcloud
@@ -6216,7 +6215,6 @@ sub-menu
 subatomix
 subjectname
 sublimetext
-submission
 subnet
 subnet-calculator
 subnetcalulator
@@ -6431,7 +6429,6 @@ test-samcmapplicationexists
 test-samcmpackageexists
 test-userisadministrator
 test-xml
-test123
 testaccount
 testautomation
 testimonial
@@ -6594,6 +6591,7 @@ triangle
 tribeloo
 trigger
 triodos
+tripunkt
 troubleshoot
 troubleshooting
 trouw
@@ -6661,7 +6659,6 @@ ud-breadcrumb
 ud-breadcrumbitem
 ud-burger
 ud-button
-ud-buttonloader
 ud-buttonparticle
 ud-calendar
 ud-circle
@@ -6833,7 +6830,6 @@ uuencode
 uuid
 uup
 uw
-uwp
 ux
 vaas
 vadim
@@ -7006,7 +7002,6 @@ vrising
 vro
 vrops
 vrsns
-vrtu
 vs
 vs-shell
 vsa
@@ -7282,6 +7277,7 @@ workrequests
 worksheet
 workshop
 workspace
+workspaceone
 workspaces
 workstation
 world
