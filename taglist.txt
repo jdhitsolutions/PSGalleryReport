@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Friday, 14 July 2023 09:52:55 UTC
+Updated: Friday, 14 July 2023 17:52:53 UTC
 
 ?:
 ??
@@ -36,7 +36,6 @@ Updated: Friday, 14 July 2023 09:52:55 UTC
 2018
 2019
 21vianet
-24-bit
 2fa
 300
 365
@@ -53,6 +52,7 @@ Updated: Friday, 14 July 2023 09:52:55 UTC
 7z
 7zip
 8.1
+8ball
 9
 aa
 aac
@@ -274,9 +274,11 @@ almrangers
 alpha
 alphafs
 alpine
+alpr
 alt3
 alter
 alteryx
+alwaysontop
 alwaysonvpn
 alz
 amateur
@@ -739,6 +741,8 @@ bestpractices
 beta
 bginfo
 bi
+bibliography
+bibtex
 bicep
 bicepnet
 big-ip
@@ -773,7 +777,6 @@ bitcoin
 bitlocker
 bitwarden
 bitwig
-bitwise
 biztalk
 biztalkalm
 biztalkdeploymentframework
@@ -877,7 +880,6 @@ bulk
 bulletin
 bullhorn
 bundle
-bup
 burpsuite
 bus
 business
@@ -887,7 +889,6 @@ businesshours
 businessobjects
 businessrulesengine
 businesstime
-bxor
 bydesign
 byexample
 bynarypsmodule
@@ -1610,7 +1611,6 @@ datapro
 dataprotection
 dataquality
 datarow
-datasafe
 datascience
 dataset
 datasetdependency
@@ -1858,7 +1858,6 @@ dnslookup
 dnsmadeeasy
 dnsoverhttps
 dnsrecord
-dnsresolver
 dnsserver
 dnssuffix
 dnvm
@@ -2246,6 +2245,7 @@ exif
 exiftool
 exists
 exitcode
+exitprocessrequest
 exo
 exov2
 exov3
@@ -2409,7 +2409,6 @@ find
 find-call
 find-caller
 find-file
-find-path
 finddownloadlinkfromwebsite
 findfile
 findlocation
@@ -2620,7 +2619,6 @@ get-openfiles
 get-pass
 get-passivetrippoint
 get-passlist
-get-path
 get-pinneditem
 get-samcmassignedsite
 get-samcmcurrentmanagementpoint
@@ -3093,6 +3091,7 @@ infosec
 infrastructure
 infrastructureascode
 ingestion
+inheritance
 ini
 inifile
 initialization
@@ -3184,6 +3183,7 @@ invoke-msbuildpreprocess
 invoke-vsbuild
 invoke-vsdevcommand
 invokebuild
+invokemethod
 io
 ios
 iot
@@ -3342,6 +3342,7 @@ kerberos
 kernel32
 kestrel
 key
+key-vault
 key2wocas
 keybase
 keybinding
@@ -3520,6 +3521,7 @@ list-item
 listener
 litecoin
 litedb
+literature
 live
 lldp
 lmhost
@@ -3618,6 +3620,7 @@ loopback
 loremipsum
 love
 lovequotes
+lpr
 lpsiamol
 ls
 lsa
@@ -3628,8 +3631,6 @@ lucd
 lucene
 lunches
 lwa
-lxca
-lxcapstool
 lxco
 lxcopstool
 lync
@@ -3676,6 +3677,7 @@ man-highlighting
 manage
 manage-wmi
 manageability
+managed-identity
 manageddisks
 managedidentities
 managedserviceidenity
@@ -3741,7 +3743,6 @@ mb
 mbc
 mbs
 mc
-mcafee
 mcas
 mchapv2
 md5
@@ -3802,6 +3803,7 @@ metadata
 metadataservice
 metaprogramming
 method
+methodinfo
 methods
 metric
 metrics
@@ -4029,7 +4031,6 @@ myitprocess
 myjson
 myjson.com
 myob
-myposh
 mysql
 mysql-database
 mytest
@@ -4190,7 +4191,6 @@ nps
 npslog
 npslogfile
 nql
-nrc
 nrql
 ns
 ns.nl
@@ -4206,7 +4206,6 @@ ntp
 ntsystems
 nuget
 nuget-references
-nuget.exe
 nuget.org
 nugetpackageprovider
 null-coalescing
@@ -4476,10 +4475,12 @@ panther
 panzerbjrn
 pap
 paper
+papis
 paradox
 parallel
 parallel-processing
 parameter
+parameterinfo
 parameters
 parclient
 parititions
@@ -4800,6 +4801,7 @@ pq
 pranks
 predicate
 prediction
+predictive
 predictive-text
 predictor
 preferences
@@ -4827,6 +4829,7 @@ principal
 principle
 print
 printer
+printers
 printershare
 printing
 printnightmare
@@ -4838,6 +4841,7 @@ private
 private-key
 privatedns
 privatekey
+privatemethods
 privateprofilestring
 privilege
 privilegecloud
@@ -4896,6 +4900,7 @@ providerhub
 provision
 provisioning
 provisioningpackage
+provisonedpackage
 prowl
 prowl-notifications
 prowlapp
@@ -5073,7 +5078,6 @@ publicip
 publish
 publishedmodules
 publisher
-publishers
 publishing
 pubsub
 pubxml
@@ -5140,12 +5144,10 @@ qrs
 quality
 qualys
 quandl
-quarantine
 queries
 query
 queue
 queues
-queuing
 quickaccess
 quickbase
 quickbooks
@@ -5320,7 +5322,6 @@ remoting
 remove
 remove-githubsecrets
 remove-pass
-remove-path
 remove-pinneditem
 remove-tempfiles
 removetypeaccelerators
@@ -5785,7 +5786,6 @@ settings
 setup
 setupbase.certificate
 setupbase.env
-setupbase.install
 setupbase.publish
 setupbase.taskscheduler
 setupbase.template
@@ -5840,7 +5840,6 @@ shotgun
 show
 show-command
 show-on-command
-showdemo
 showoncommand
 shred
 shutdown
@@ -5971,7 +5970,6 @@ softwareupdatepointcomponent
 solarigate
 solarized
 solarwinds
-solr
 soltra
 solution
 solutions
@@ -6014,6 +6012,7 @@ spe
 speach
 speak
 speaker
+spec
 specification
 specify
 spectre
@@ -6102,7 +6101,6 @@ sshmanagement
 sshservers
 ssis
 ssl
-sslcert
 sslcertificate
 ssllabs
 ssllabs-scan
@@ -6121,7 +6119,6 @@ stackhci
 stackmonitoring
 stackoverflow
 staffhub
-staging
 stale
 stan
 stanc
@@ -6215,6 +6212,7 @@ sub-menu
 subatomix
 subjectname
 sublimetext
+submission
 subnet
 subnet-calculator
 subnetcalulator
@@ -6429,6 +6427,7 @@ test-samcmapplicationexists
 test-samcmpackageexists
 test-userisadministrator
 test-xml
+test123
 testaccount
 testautomation
 testimonial
@@ -6659,6 +6658,7 @@ ud-breadcrumb
 ud-breadcrumbitem
 ud-burger
 ud-button
+ud-buttonloader
 ud-buttonparticle
 ud-calendar
 ud-circle
@@ -6830,6 +6830,7 @@ uuencode
 uuid
 uup
 uw
+uwp
 ux
 vaas
 vadim
@@ -6879,7 +6880,6 @@ ve7cc
 vector
 veeam
 veeampn
-veeva
 venafi
 vencord
 vendor
@@ -7002,6 +7002,7 @@ vrising
 vro
 vrops
 vrsns
+vrtu
 vs
 vs-shell
 vsa
@@ -7135,6 +7136,7 @@ wi-fi
 wia
 wia.imagefile
 wid
+widedata
 wif
 wifi
 wiki
@@ -7370,7 +7372,6 @@ xmla
 xmlrpc
 xmlutils
 xoauth2
-xor
 xpath
 xpendingreboot
 xpertdoc
