@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Friday, 14 July 2023 17:52:53 UTC
+Updated: Saturday, 15 July 2023 02:22:37 UTC
 
 ?:
 ??
@@ -36,6 +36,7 @@ Updated: Friday, 14 July 2023 17:52:53 UTC
 2018
 2019
 21vianet
+24-bit
 2fa
 300
 365
@@ -71,7 +72,6 @@ abc
 abc_testing
 abe
 about
-abr
 abstractsyntaxtree
 abuse
 abuseipdb
@@ -82,7 +82,6 @@ access-control
 access-points
 accesscontrol
 accesscontroldsc
-accessgovernancecp
 accesspoint
 accessrights
 accesstoken
@@ -172,7 +171,6 @@ adm
 admf
 admin
 admin-tools
-adminbyrequest
 admindirectory
 administration
 administrative
@@ -342,6 +340,7 @@ api-client
 api-gateway
 api-rest
 apichecks
+apiclient
 apigateway
 apigee
 apigeeedge
@@ -418,7 +417,6 @@ archivial
 archivial-backup
 archivial-cloud-backup
 archlinux
-arcresourcebridge
 arcus
 area
 arg
@@ -605,7 +603,6 @@ azsubnet
 azts
 azuead
 azure
-azure_ad
 azure_security
 azure-adx
 azure-backup
@@ -777,6 +774,7 @@ bitcoin
 bitlocker
 bitwarden
 bitwig
+bitwise
 biztalk
 biztalkalm
 biztalkdeploymentframework
@@ -811,7 +809,6 @@ boilerplate
 boinc
 bolt
 bom
-book
 bookmark
 bookmarks
 books
@@ -871,7 +868,6 @@ builder
 building
 buildingfile
 buildingmapping
-buildkit
 buildkite
 buildmaster
 builds
@@ -880,6 +876,7 @@ bulk
 bulletin
 bullhorn
 bundle
+bup
 burpsuite
 bus
 business
@@ -889,6 +886,7 @@ businesshours
 businessobjects
 businessrulesengine
 businesstime
+bxor
 bydesign
 byexample
 bynarypsmodule
@@ -966,7 +964,6 @@ cdrom
 cds
 cdx
 ce
-celcat
 celerium
 censor
 center
@@ -1287,7 +1284,6 @@ concurrent
 conda
 condition
 conditionalaccess
-conduit
 conference
 confidentialclient
 confidentialledger
@@ -1558,7 +1554,6 @@ dacfx
 dacl
 dacpac
 dacpackage
-dagger
 dangling
 dapr
 dark
@@ -1611,6 +1606,7 @@ datapro
 dataprotection
 dataquality
 datarow
+datasafe
 datascience
 dataset
 datasetdependency
@@ -1858,6 +1854,7 @@ dnslookup
 dnsmadeeasy
 dnsoverhttps
 dnsrecord
+dnsresolver
 dnsserver
 dnssuffix
 dnvm
@@ -2218,7 +2215,6 @@ excel
 exception
 exceptionless
 exchange
-exchange_online
 exchange-rates
 exchange2010
 exchange2013
@@ -2409,6 +2405,7 @@ find
 find-call
 find-caller
 find-file
+find-path
 finddownloadlinkfromwebsite
 findfile
 findlocation
@@ -2619,6 +2616,7 @@ get-openfiles
 get-pass
 get-passivetrippoint
 get-passlist
+get-path
 get-pinneditem
 get-samcmassignedsite
 get-samcmcurrentmanagementpoint
@@ -3162,7 +3160,6 @@ intranet
 intrusion
 intuitive
 intune
-intuneappwinutil
 inventory
 investigation
 investment
@@ -3203,10 +3200,8 @@ ipcalculator
 iperf
 ipfy.org
 iphone
-ipilot
 iplookup
 ipmaths
-ipp
 iprange
 ipv4
 ipv6
@@ -3229,7 +3224,6 @@ iso
 iso-3166-1
 iso-8601
 ispac
-isprime
 ispss
 issues
 isvalidemail
@@ -3271,7 +3265,6 @@ jea
 jenkins
 jetbrains
 jira
-jiraservicemanagement
 jitbit
 jms
 jnet
@@ -3292,8 +3285,6 @@ joyride
 jpg
 jq
 js7
-jsm
-jsm.insight
 json
 json-converter
 json-transform
@@ -3524,7 +3515,6 @@ litedb
 literature
 live
 lldp
-lmhost
 lmhosts
 lms
 load
@@ -3631,6 +3621,8 @@ lucd
 lucene
 lunches
 lwa
+lxca
+lxcapstool
 lxco
 lxcopstool
 lync
@@ -3743,6 +3735,7 @@ mb
 mbc
 mbs
 mc
+mcafee
 mcas
 mchapv2
 md5
@@ -3817,11 +3810,7 @@ microfocus
 microk8s
 microservices
 microsoft
-microsoft_365
-microsoft_azure
 microsoft_endpoint_manager
-microsoft_online
-microsoft_teams
 microsoft-graph
 microsoft-teams
 microsoft-web-platform
@@ -3943,9 +3932,7 @@ mrfk
 mrfylke
 mrvl_fc_powerkit
 mrvlfcprovider
-ms_365
 ms-graph
-ms365
 msaccess
 msacpi_thermalzonetemperature
 msal
@@ -3970,7 +3957,6 @@ msgraphreport
 msgraphtokenlifetimepolicy
 msi
 msi psmodule
-msiexec
 msil
 msix
 mslab
@@ -4031,6 +4017,7 @@ myitprocess
 myjson
 myjson.com
 myob
+myposh
 mysql
 mysql-database
 mytest
@@ -4040,7 +4027,6 @@ nac
 nagios
 name
 name-of-dogs
-namedpipe
 nameit
 nameresolution
 names
@@ -4191,6 +4177,7 @@ nps
 npslog
 npslogfile
 nql
+nrc
 nrql
 ns
 ns.nl
@@ -4206,6 +4193,7 @@ ntp
 ntsystems
 nuget
 nuget-references
+nuget.exe
 nuget.org
 nugetpackageprovider
 null-coalescing
@@ -4215,7 +4203,6 @@ nunit
 nupkg
 nuspec
 nutanix
-nuwave
 nva
 nvdimm
 nvdimm-n
@@ -4265,7 +4252,6 @@ oem-charset
 offboarding
 offence
 office
-office_365
 office2010
 office2013
 office2016
@@ -4276,7 +4262,6 @@ officegraph
 officemessageencryption
 offline
 offlinewimservicing
-ofx
 ogg
 oh-my-posh
 oh-my-zsh
@@ -4345,7 +4330,6 @@ openid
 openidconnect
 openinghours
 openport
-openprovider
 openscad
 opensearch
 opensource
@@ -4355,7 +4339,6 @@ openssl
 openstack
 openvpn
 operating
-operating_system
 operating-system
 operation
 operationalinsights
@@ -4581,7 +4564,6 @@ pfsense
 pfx
 pfy
 pgp
-phabricator
 philips
 philosophical
 philpritchett
@@ -4669,7 +4651,6 @@ poll
 polly
 polycom
 pomodoro
-ponduit
 pool
 poop
 pop
@@ -4751,7 +4732,6 @@ powershell-dsc
 powershell-examples
 powershell-gallery
 powershell-github-repo
-powershell-isprime
 powershell-lightning
 powershell-module
 powershell-modules
@@ -4823,7 +4803,6 @@ preview
 previousversions
 price
 pricelist
-primenumber
 primera
 principal
 principle
@@ -5078,6 +5057,7 @@ publicip
 publish
 publishedmodules
 publisher
+publishers
 publishing
 pubsub
 pubxml
@@ -5144,10 +5124,12 @@ qrs
 quality
 qualys
 quandl
+quarantine
 queries
 query
 queue
 queues
+queuing
 quickaccess
 quickbase
 quickbooks
@@ -5322,6 +5304,7 @@ remoting
 remove
 remove-githubsecrets
 remove-pass
+remove-path
 remove-pinneditem
 remove-tempfiles
 removetypeaccelerators
@@ -5672,7 +5655,6 @@ security-txt
 security.txt
 securityassertionmarkuplanguage
 securitycenter
-securitycompliancecenter
 securitygroup
 securitygroups
 securityinsights
@@ -5695,7 +5677,6 @@ selectxmlinfo
 selenium
 self
 self-hosted
-self-service
 self-signed
 selfdispatch
 selfhelp
@@ -5786,6 +5767,7 @@ settings
 setup
 setupbase.certificate
 setupbase.env
+setupbase.install
 setupbase.publish
 setupbase.taskscheduler
 setupbase.template
@@ -5840,6 +5822,7 @@ shotgun
 show
 show-command
 show-on-command
+showdemo
 showoncommand
 shred
 shutdown
@@ -5970,6 +5953,7 @@ softwareupdatepointcomponent
 solarigate
 solarized
 solarwinds
+solr
 soltra
 solution
 solutions
@@ -6101,6 +6085,7 @@ sshmanagement
 sshservers
 ssis
 ssl
+sslcert
 sslcertificate
 ssllabs
 ssllabs-scan
@@ -6108,7 +6093,6 @@ sslprotocol
 ssm
 sso
 sspi
-sspr
 ssrs
 ssst
 sstp
@@ -6119,6 +6103,7 @@ stackhci
 stackmonitoring
 stackoverflow
 staffhub
+staging
 stale
 stan
 stanc
@@ -6187,8 +6172,6 @@ streak
 stream
 streamanalytics
 streaming
-streamreader
-streamwriter
 stretch
 strictmode
 string
@@ -6430,7 +6413,6 @@ test-xml
 test123
 testaccount
 testautomation
-testimonial
 testing
 testlab
 testplans
@@ -6880,6 +6862,7 @@ ve7cc
 vector
 veeam
 veeampn
+veeva
 venafi
 vencord
 vendor
@@ -6936,7 +6919,6 @@ virustotal
 visio
 visual
 visual-studio
-visualbuilder
 visualc
 visualization
 visualstudio
@@ -7372,6 +7354,7 @@ xmla
 xmlrpc
 xmlutils
 xoauth2
+xor
 xpath
 xpendingreboot
 xpertdoc
