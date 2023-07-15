@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Saturday, 15 July 2023 02:22:37 UTC
+Updated: Saturday, 15 July 2023 09:52:46 UTC
 
 ?:
 ??
@@ -72,6 +72,7 @@ abc
 abc_testing
 abe
 about
+abr
 abstractsyntaxtree
 abuse
 abuseipdb
@@ -82,6 +83,7 @@ access-control
 access-points
 accesscontrol
 accesscontroldsc
+accessgovernancecp
 accesspoint
 accessrights
 accesstoken
@@ -171,6 +173,7 @@ adm
 admf
 admin
 admin-tools
+adminbyrequest
 admindirectory
 administration
 administrative
@@ -263,7 +266,6 @@ alias
 alias-hint
 alias-tips
 aliases
-aliens
 all
 alletra
 alloydb
@@ -306,7 +308,6 @@ analyze
 analyzer
 analyzerrules
 anchor
-and
 android
 anet
 anf
@@ -417,6 +418,7 @@ archivial
 archivial-backup
 archivial-cloud-backup
 archlinux
+arcresourcebridge
 arcus
 area
 arg
@@ -603,6 +605,7 @@ azsubnet
 azts
 azuead
 azure
+azure_ad
 azure_security
 azure-adx
 azure-backup
@@ -809,6 +812,7 @@ boilerplate
 boinc
 bolt
 bom
+book
 bookmark
 bookmarks
 books
@@ -868,6 +872,7 @@ builder
 building
 buildingfile
 buildingmapping
+buildkit
 buildkite
 buildmaster
 builds
@@ -964,10 +969,10 @@ cdrom
 cds
 cdx
 ce
+celcat
 celerium
 censor
 center
-centra
 central
 central-management
 centralcredentialprovider
@@ -1135,7 +1140,6 @@ cloudbees
 cloudberry
 cloudblue
 cloudbolt
-cloudbridge
 cloudendure
 cloudevents
 cloudflare
@@ -1284,6 +1288,7 @@ concurrent
 conda
 condition
 conditionalaccess
+conduit
 conference
 confidentialclient
 confidentialledger
@@ -1448,7 +1453,6 @@ credentials-cache
 credentialsmanager
 credentialstore
 credentialutility
-credit
 credman
 credmanager
 crescendo
@@ -1554,6 +1558,7 @@ dacfx
 dacl
 dacpac
 dacpackage
+dagger
 dangling
 dapr
 dark
@@ -1626,7 +1631,6 @@ dattormm
 datum
 dave
 davinci
-dax
 dayinweek
 days-week
 db
@@ -1762,7 +1766,6 @@ dictionary
 diff
 difference
 dig
-digikam
 digital
 digital-forensics
 digitalforensics
@@ -1836,7 +1839,6 @@ dlp
 dmarc
 dmgr
 dmi
-dmx
 dnd
 dns
 dns-01
@@ -2215,6 +2217,7 @@ excel
 exception
 exceptionless
 exchange
+exchange_online
 exchange-rates
 exchange2010
 exchange2013
@@ -2238,10 +2241,8 @@ executables
 execute
 exexml
 exif
-exiftool
 exists
 exitcode
-exitprocessrequest
 exo
 exov2
 exov3
@@ -2743,7 +2744,6 @@ grr
 gsuite
 gtx1080ti
 guardedfabric
-guardicore
 gubbins
 guest
 guestconfiguration
@@ -2885,7 +2885,6 @@ home_automation
 homebrew
 homelandsecurity
 homeschooling
-hon
 hooking
 horizon
 horizontal
@@ -3160,6 +3159,7 @@ intranet
 intrusion
 intuitive
 intune
+intuneappwinutil
 inventory
 investigation
 investment
@@ -3200,8 +3200,10 @@ ipcalculator
 iperf
 ipfy.org
 iphone
+ipilot
 iplookup
 ipmaths
+ipp
 iprange
 ipv4
 ipv6
@@ -3224,8 +3226,8 @@ iso
 iso-3166-1
 iso-8601
 ispac
+isprime
 ispss
-issues
 isvalidemail
 isvalidip
 it
@@ -3265,6 +3267,7 @@ jea
 jenkins
 jetbrains
 jira
+jiraservicemanagement
 jitbit
 jms
 jnet
@@ -3285,6 +3288,8 @@ joyride
 jpg
 jq
 js7
+jsm
+jsm.insight
 json
 json-converter
 json-transform
@@ -3654,8 +3659,6 @@ mailgroupmember
 mailing
 mailkit
 mails
-main
-main-menu
 maintain-module
 maintenance
 maintenance-window
@@ -3749,7 +3752,6 @@ mde
 mdm
 mdop
 mdt
-mdx
 me4024
 mean
 measure
@@ -3779,7 +3781,6 @@ memorydump
 memorystream
 mention
 menu
-menus
 meraki
 merakiapi
 mercurial
@@ -3810,7 +3811,11 @@ microfocus
 microk8s
 microservices
 microsoft
+microsoft_365
+microsoft_azure
 microsoft_endpoint_manager
+microsoft_online
+microsoft_teams
 microsoft-graph
 microsoft-teams
 microsoft-web-platform
@@ -3932,7 +3937,9 @@ mrfk
 mrfylke
 mrvl_fc_powerkit
 mrvlfcprovider
+ms_365
 ms-graph
+ms365
 msaccess
 msacpi_thermalzonetemperature
 msal
@@ -3957,6 +3964,7 @@ msgraphreport
 msgraphtokenlifetimepolicy
 msi
 msi psmodule
+msiexec
 msil
 msix
 mslab
@@ -4027,6 +4035,7 @@ nac
 nagios
 name
 name-of-dogs
+namedpipe
 nameit
 nameresolution
 names
@@ -4203,6 +4212,7 @@ nunit
 nupkg
 nuspec
 nutanix
+nuwave
 nva
 nvdimm
 nvdimm-n
@@ -4252,6 +4262,7 @@ oem-charset
 offboarding
 offence
 office
+office_365
 office2010
 office2013
 office2016
@@ -4330,6 +4341,7 @@ openid
 openidconnect
 openinghours
 openport
+openprovider
 openscad
 opensearch
 opensource
@@ -4339,6 +4351,7 @@ openssl
 openstack
 openvpn
 operating
+operating_system
 operating-system
 operation
 operationalinsights
@@ -4564,6 +4577,7 @@ pfsense
 pfx
 pfy
 pgp
+phabricator
 philips
 philosophical
 philpritchett
@@ -4651,6 +4665,7 @@ poll
 polly
 polycom
 pomodoro
+ponduit
 pool
 poop
 pop
@@ -4732,6 +4747,7 @@ powershell-dsc
 powershell-examples
 powershell-gallery
 powershell-github-repo
+powershell-isprime
 powershell-lightning
 powershell-module
 powershell-modules
@@ -4803,6 +4819,7 @@ preview
 previousversions
 price
 pricelist
+primenumber
 primera
 principal
 principle
@@ -4880,9 +4897,6 @@ provision
 provisioning
 provisioningpackage
 provisonedpackage
-prowl
-prowl-notifications
-prowlapp
 proxmox
 proxmoxve
 proxsys
@@ -5078,7 +5092,6 @@ purple
 purview
 push
 push-location
-push-notifications
 pushd
 pushover
 pushoverapi
@@ -5655,6 +5668,7 @@ security-txt
 security.txt
 securityassertionmarkuplanguage
 securitycenter
+securitycompliancecenter
 securitygroup
 securitygroups
 securityinsights
@@ -5677,6 +5691,7 @@ selectxmlinfo
 selenium
 self
 self-hosted
+self-service
 self-signed
 selfdispatch
 selfhelp
@@ -5820,7 +5835,6 @@ shortcuts
 shortpath
 shotgun
 show
-show-command
 show-on-command
 showdemo
 showoncommand
@@ -5991,7 +6005,6 @@ sparklines
 spawn
 spdockit
 spdx
-spdx-license-identifier:ms-pl
 spe
 speach
 speak
@@ -6044,7 +6057,6 @@ sqlbrowser
 sqlchangeautomation
 sqlclient
 sqlcmd
-sqlcodeguard
 sqldatabase
 sqldb
 sqldbatools
@@ -6093,6 +6105,7 @@ sslprotocol
 ssm
 sso
 sspi
+sspr
 ssrs
 ssst
 sstp
@@ -6172,6 +6185,8 @@ streak
 stream
 streamanalytics
 streaming
+streamreader
+streamwriter
 stretch
 strictmode
 string
@@ -6191,7 +6206,6 @@ style
 su
 sub
 sub-directory
-sub-menu
 subatomix
 subjectname
 sublimetext
@@ -6242,7 +6256,6 @@ svt
 swagger
 swamid
 swarm
-swedish
 swimlane
 swis
 switch
@@ -6413,6 +6426,7 @@ test-xml
 test123
 testaccount
 testautomation
+testimonial
 testing
 testlab
 testplans
@@ -6590,7 +6604,6 @@ ts
 tsa
 tsd
 tsheets
-tsqlbestpractice
 tst
 tst1
 tst3
@@ -6666,7 +6679,6 @@ ud-piechart3d
 ud-pivottable
 ud-progressstepbar
 ud-rangeslider
-ud-readingbar
 ud-scrollspy
 ud-selectdatetime
 ud-selector
@@ -6919,6 +6931,7 @@ virustotal
 visio
 visual
 visual-studio
+visualbuilder
 visualc
 visualization
 visualstudio
@@ -7118,7 +7131,6 @@ wi-fi
 wia
 wia.imagefile
 wid
-widedata
 wif
 wifi
 wiki
