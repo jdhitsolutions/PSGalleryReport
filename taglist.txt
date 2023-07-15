@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Saturday, 15 July 2023 09:52:46 UTC
+Updated: Saturday, 15 July 2023 17:52:56 UTC
 
 ?:
 ??
@@ -266,6 +266,7 @@ alias
 alias-hint
 alias-tips
 aliases
+aliens
 all
 alletra
 alloydb
@@ -308,6 +309,7 @@ analyze
 analyzer
 analyzerrules
 anchor
+and
 android
 anet
 anf
@@ -605,7 +607,6 @@ azsubnet
 azts
 azuead
 azure
-azure_ad
 azure_security
 azure-adx
 azure-backup
@@ -856,7 +857,6 @@ browser
 browserextension
 browserhistory
 browsing
-brs
 bruteforce
 bson
 btdf
@@ -973,6 +973,7 @@ celcat
 celerium
 censor
 center
+centra
 central
 central-management
 centralcredentialprovider
@@ -1039,7 +1040,6 @@ choco-bear
 chocobear
 chocolatey
 choice
-chooser
 christaylorcodes
 christmas
 chrome
@@ -1140,6 +1140,7 @@ cloudbees
 cloudberry
 cloudblue
 cloudbolt
+cloudbridge
 cloudendure
 cloudevents
 cloudflare
@@ -1453,6 +1454,7 @@ credentials-cache
 credentialsmanager
 credentialstore
 credentialutility
+credit
 credman
 credmanager
 crescendo
@@ -1766,6 +1768,7 @@ dictionary
 diff
 difference
 dig
+digikam
 digital
 digital-forensics
 digitalforensics
@@ -2132,7 +2135,6 @@ ephesoft
 epicor
 episode
 epplus
-eprosima
 epub
 epv
 equality
@@ -2217,7 +2219,6 @@ excel
 exception
 exceptionless
 exchange
-exchange_online
 exchange-rates
 exchange2010
 exchange2013
@@ -2241,8 +2242,10 @@ executables
 execute
 exexml
 exif
+exiftool
 exists
 exitcode
+exitprocessrequest
 exo
 exov2
 exov3
@@ -2307,7 +2310,6 @@ faq
 farm
 farmanager
 fast
-fast-dds
 fast-ping
 fastfilepub
 fastgit
@@ -2595,7 +2597,6 @@ get_random_password
 get-admodernreport
 get-childitem
 get-cmhealthcheck
-get-command
 get-credential
 get-criticaltrippoint
 get-currentcputemperature
@@ -2669,7 +2670,6 @@ gmail
 gmap
 gmaps
 gmsa
-gnucash
 gnuwin32
 gobright
 godaddy
@@ -2744,6 +2744,7 @@ grr
 gsuite
 gtx1080ti
 guardedfabric
+guardicore
 gubbins
 guest
 guestconfiguration
@@ -3203,7 +3204,6 @@ iphone
 ipilot
 iplookup
 ipmaths
-ipp
 iprange
 ipv4
 ipv6
@@ -3602,7 +3602,6 @@ logs
 logstash
 logtools
 logz
-loki
 lol
 lolcat
 longfile
@@ -3659,6 +3658,8 @@ mailgroupmember
 mailing
 mailkit
 mails
+main
+main-menu
 maintain-module
 maintenance
 maintenance-window
@@ -3781,6 +3782,7 @@ memorydump
 memorystream
 mention
 menu
+menus
 meraki
 merakiapi
 mercurial
@@ -3811,11 +3813,7 @@ microfocus
 microk8s
 microservices
 microsoft
-microsoft_365
-microsoft_azure
 microsoft_endpoint_manager
-microsoft_online
-microsoft_teams
 microsoft-graph
 microsoft-teams
 microsoft-web-platform
@@ -3830,7 +3828,6 @@ microsoft.web.administration
 microsoft365
 microsoft365dsc
 microsoftauthenticationlibrary
-microsoftazure
 microsoftdefender
 microsoftdefenderatp
 microsoftdeploymenttoolkit
@@ -3937,14 +3934,11 @@ mrfk
 mrfylke
 mrvl_fc_powerkit
 mrvlfcprovider
-ms_365
 ms-graph
-ms365
 msaccess
 msacpi_thermalzonetemperature
 msal
 msband
-msbi
 msbuild
 mschart
 msdeploy
@@ -4262,7 +4256,6 @@ oem-charset
 offboarding
 offence
 office
-office_365
 office2010
 office2013
 office2016
@@ -4273,6 +4266,7 @@ officegraph
 officemessageencryption
 offline
 offlinewimservicing
+ofx
 ogg
 oh-my-posh
 oh-my-zsh
@@ -4341,7 +4335,6 @@ openid
 openidconnect
 openinghours
 openport
-openprovider
 openscad
 opensearch
 opensource
@@ -4732,8 +4725,6 @@ powermax
 powerplan
 powerplateform
 powerplatform
-powerprotect
-powerprotect_datamanager
 powersaving
 powerscheme
 powershell
@@ -4786,7 +4777,6 @@ powerstore
 powertab
 powertoolcmdlets
 powertooldsc
-ppdm
 ppk
 pposh
 pps
@@ -4797,7 +4787,6 @@ pq
 pranks
 predicate
 prediction
-predictive
 predictive-text
 predictor
 preferences
@@ -4897,6 +4886,9 @@ provision
 provisioning
 provisioningpackage
 provisonedpackage
+prowl
+prowl-notifications
+prowlapp
 proxmox
 proxmoxve
 proxsys
@@ -4933,7 +4925,6 @@ pscmdlet
 pscommander
 psconfasia
 psconfeu
-psconfig
 pscore
 pscredential
 pscribo
@@ -5092,6 +5083,7 @@ purple
 purview
 push
 push-location
+push-notifications
 pushd
 pushover
 pushoverapi
@@ -5524,7 +5516,6 @@ sampler
 san
 sandbox
 sanitization
-sanitizer
 sap
 sapazure
 saponazure
@@ -5668,7 +5659,6 @@ security-txt
 security.txt
 securityassertionmarkuplanguage
 securitycenter
-securitycompliancecenter
 securitygroup
 securitygroups
 securityinsights
@@ -5791,7 +5781,6 @@ sevenzip
 sf
 sfb
 sftp
-sfx
 sgopher
 sgw
 sha256
@@ -5808,9 +5797,7 @@ shared
 sharefile
 sharepoint
 sharepoint_online
-sharepoint-on-prem
 sharepoint-online
-sharepoint-product-configuration-wizard
 sharepoint2013
 sharepointdevelopmentcommunity
 sharepointonline
@@ -5835,10 +5822,10 @@ shortcuts
 shortpath
 shotgun
 show
+show-command
 show-on-command
 showdemo
 showoncommand
-shred
 shutdown
 sid
 sidecar
@@ -6005,6 +5992,7 @@ sparklines
 spawn
 spdockit
 spdx
+spdx-license-identifier:ms-pl
 spe
 speach
 speak
@@ -6074,7 +6062,6 @@ sqlproj
 sqlproject
 sqlps
 sqlserver
-sqlserveragent
 sqlserverbynarymodule
 sqlserverbynarypsmodule
 sqlservermodule
@@ -6181,7 +6168,6 @@ storefront
 storeonce
 storeserv
 strava
-streak
 stream
 streamanalytics
 streaming
@@ -6206,6 +6192,7 @@ style
 su
 sub
 sub-directory
+sub-menu
 subatomix
 subjectname
 sublimetext
@@ -6256,6 +6243,7 @@ svt
 swagger
 swamid
 swarm
+swedish
 swimlane
 swis
 switch
@@ -6293,7 +6281,6 @@ syslog
 sysman
 sysmon
 sysop
-syspass
 sysprep
 system
 system information 1394 controller baseboard motherboard systemboard battery bios bus cache memory cd dvd rom drive compact disc desktop monitor disk partition fan floppy glide point heatpipe ide infrared device keyboard local logical array mouse'
@@ -6470,7 +6457,6 @@ thread
 threading
 threadjob
 threads
-threadsanitizer
 threat
 threat-hunting
 threathunting
@@ -6507,7 +6493,6 @@ toasts
 tobias
 toc
 todo
-todo.txt
 toggl
 toggle
 token
@@ -6610,7 +6595,6 @@ tst3
 ttrpg
 tts
 tui
-tulpep
 tuner
 tutorial
 tv
@@ -6679,6 +6663,7 @@ ud-piechart3d
 ud-pivottable
 ud-progressstepbar
 ud-rangeslider
+ud-readingbar
 ud-scrollspy
 ud-selectdatetime
 ud-selector
@@ -6846,7 +6831,6 @@ variance
 variants
 vastlimits
 vault
-vaultextension
 vaultstore
 vb365
 vba
@@ -7039,7 +7023,6 @@ waitforobject
 wakeonlan
 wakeup
 walk
-wallet
 wallpaper
 wallpapers
 wannacry
@@ -7131,6 +7114,7 @@ wi-fi
 wia
 wia.imagefile
 wid
+widedata
 wif
 wifi
 wiki
@@ -7307,7 +7291,6 @@ writelog
 writemanager
 writeprogress
 writer
-ws-federation
 wsapi
 wsb
 wsl
