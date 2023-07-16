@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Saturday, 15 July 2023 17:52:56 UTC
+Updated: Sunday, 16 July 2023 02:31:07 UTC
 
 ?:
 ??
@@ -75,7 +75,6 @@ about
 abr
 abstractsyntaxtree
 abuse
-abuseipdb
 acas
 accelerator
 access
@@ -482,7 +481,6 @@ asymmetric
 async
 asynchronous
 atempo
-atera
 athena
 atlas
 atlassian
@@ -607,6 +605,7 @@ azsubnet
 azts
 azuead
 azure
+azure_ad
 azure_security
 azure-adx
 azure-backup
@@ -813,7 +812,6 @@ boilerplate
 boinc
 bolt
 bom
-book
 bookmark
 bookmarks
 books
@@ -857,6 +855,7 @@ browser
 browserextension
 browserhistory
 browsing
+brs
 bruteforce
 bson
 btdf
@@ -1040,6 +1039,7 @@ choco-bear
 chocobear
 chocolatey
 choice
+chooser
 christaylorcodes
 christmas
 chrome
@@ -1510,7 +1510,6 @@ currency
 currency-convereter
 currency-exchange
 currencyconverterapi
-current
 curseforge
 custom
 customchecks
@@ -1633,6 +1632,7 @@ dattormm
 datum
 dave
 davinci
+dax
 dayinweek
 days-week
 db
@@ -1842,6 +1842,7 @@ dlp
 dmarc
 dmgr
 dmi
+dmx
 dnd
 dns
 dns-01
@@ -1870,7 +1871,6 @@ docker
 docker-compose
 docker-image
 docker-machine
-docker-volumes
 dockerfile
 dockerize
 dockerswarm
@@ -2106,7 +2106,6 @@ enhancement
 enrichers
 enrichment
 enteo
-enter
 enterprise
 enterprise-scale
 enterprisedb
@@ -2135,6 +2134,7 @@ ephesoft
 epicor
 episode
 epplus
+eprosima
 epub
 epv
 equality
@@ -2219,6 +2219,7 @@ excel
 exception
 exceptionless
 exchange
+exchange_online
 exchange-rates
 exchange2010
 exchange2013
@@ -2310,6 +2311,7 @@ faq
 farm
 farmanager
 fast
+fast-dds
 fast-ping
 fastfilepub
 fastgit
@@ -2488,7 +2490,6 @@ fortinetmanager
 fortios
 fortune
 forum
-forwardcompatibility
 forwardedevents
 foudil
 fox
@@ -2499,7 +2500,6 @@ framework
 france
 freeipa
 freenas
-freesoftwarefoundation
 freshbooks
 freshdesk
 freshservice
@@ -2514,7 +2514,6 @@ frontapp
 frontdoor
 frontrange
 fs
-fsf
 fsharp
 fslogix
 fsrm
@@ -2670,6 +2669,7 @@ gmail
 gmap
 gmaps
 gmsa
+gnucash
 gnuwin32
 gobright
 godaddy
@@ -2681,7 +2681,6 @@ google-chrome
 google-histogram
 google-sankey
 google-table
-googleadsv2
 googlecloudplatform
 googledrive
 googlemap
@@ -2765,7 +2764,6 @@ gzip-compression
 ha
 haarlemsdagblad
 hack
-hacking
 hacktoberfest
 hadoop
 hafr
@@ -2794,8 +2792,6 @@ hardening
 hardlink
 hardware
 harperdb
-harvest
-harvestforecast
 hash
 hashcat
 hashicorp
@@ -2886,6 +2882,7 @@ home_automation
 homebrew
 homelandsecurity
 homeschooling
+hon
 hooking
 horizon
 horizontal
@@ -3204,6 +3201,7 @@ iphone
 ipilot
 iplookup
 ipmaths
+ipp
 iprange
 ipv4
 ipv6
@@ -3228,6 +3226,7 @@ iso-8601
 ispac
 isprime
 ispss
+issues
 isvalidemail
 isvalidip
 it
@@ -3349,7 +3348,6 @@ keylight
 keymanagement
 keymap
 keymapping
-keypair
 keysms
 keyvault
 keywords
@@ -3384,7 +3382,6 @@ kubernetes
 kubernetesconfiguration
 kubespray
 kudu
-kurukuru
 kusto
 kvm
 kvp
@@ -3407,7 +3404,6 @@ lake
 lambda
 lame
 lametrictime
-lamp
 lan
 landingzones
 language
@@ -3520,6 +3516,7 @@ litedb
 literature
 live
 lldp
+lmhost
 lmhosts
 lms
 load
@@ -3602,6 +3599,7 @@ logs
 logstash
 logtools
 logz
+loki
 lol
 lolcat
 longfile
@@ -3753,6 +3751,7 @@ mde
 mdm
 mdop
 mdt
+mdx
 me4024
 mean
 measure
@@ -3775,7 +3774,6 @@ meltdown
 mem
 member
 members
-membership
 memcm
 memory
 memorydump
@@ -3813,7 +3811,11 @@ microfocus
 microk8s
 microservices
 microsoft
+microsoft_365
+microsoft_azure
 microsoft_endpoint_manager
+microsoft_online
+microsoft_teams
 microsoft-graph
 microsoft-teams
 microsoft-web-platform
@@ -3828,6 +3830,7 @@ microsoft.web.administration
 microsoft365
 microsoft365dsc
 microsoftauthenticationlibrary
+microsoftazure
 microsoftdefender
 microsoftdefenderatp
 microsoftdeploymenttoolkit
@@ -3934,11 +3937,14 @@ mrfk
 mrfylke
 mrvl_fc_powerkit
 mrvlfcprovider
+ms_365
 ms-graph
+ms365
 msaccess
 msacpi_thermalzonetemperature
 msal
 msband
+msbi
 msbuild
 mschart
 msdeploy
@@ -4253,9 +4259,9 @@ odfb
 odin
 odoo
 oem-charset
-offboarding
 offence
 office
+office_365
 office2010
 office2013
 office2016
@@ -4266,7 +4272,6 @@ officegraph
 officemessageencryption
 offline
 offlinewimservicing
-ofx
 ogg
 oh-my-posh
 oh-my-zsh
@@ -4287,7 +4292,6 @@ on-demand
 on-premise
 onboard
 onboardadministrator
-onboarding
 oncommand-insight
 ondemand
 one
@@ -4335,10 +4339,10 @@ openid
 openidconnect
 openinghours
 openport
+openprovider
 openscad
 opensearch
 opensource
-opensourceinitiative
 openssh
 openssl
 openstack
@@ -4391,7 +4395,6 @@ osdeployment
 osdprogress
 osdsus
 osdupdate
-osi
 osmanagement
 osmanagementhub
 osp
@@ -4492,7 +4495,6 @@ passphraser passphrase password generator entropy
 password
 password_generation
 password-generator
-password-less
 password-manager
 passwordexpiration
 passwordexpiry
@@ -4542,7 +4544,6 @@ peek
 peering
 peheader
 pem
-pemfile
 pendingreboot
 penetration
 penetrationtesting
@@ -4603,7 +4604,6 @@ pipeline
 pipelines
 pipescript
 piraeus
-pivot
 pivotal
 pivottable
 pixoo
@@ -4725,6 +4725,8 @@ powermax
 powerplan
 powerplateform
 powerplatform
+powerprotect
+powerprotect_datamanager
 powersaving
 powerscheme
 powershell
@@ -4777,6 +4779,7 @@ powerstore
 powertab
 powertoolcmdlets
 powertooldsc
+ppdm
 ppk
 pposh
 pps
@@ -4787,6 +4790,7 @@ pq
 pranks
 predicate
 prediction
+predictive
 predictive-text
 predictor
 preferences
@@ -4822,10 +4826,8 @@ printserver
 prism
 prism_element
 privacy
-private
 private-key
 privatedns
-privatekey
 privatemethods
 privateprofilestring
 privilege
@@ -4925,6 +4927,7 @@ pscmdlet
 pscommander
 psconfasia
 psconfeu
+psconfig
 pscore
 pscredential
 pscribo
@@ -5202,7 +5205,6 @@ rdsgw
 react-stockcharts
 read
 read-slog
-readable
 reader
 readiness
 readme
@@ -5516,6 +5518,7 @@ sampler
 san
 sandbox
 sanitization
+sanitizer
 sap
 sapazure
 saponazure
@@ -5659,6 +5662,7 @@ security-txt
 security.txt
 securityassertionmarkuplanguage
 securitycenter
+securitycompliancecenter
 securitygroup
 securitygroups
 securityinsights
@@ -5781,6 +5785,7 @@ sevenzip
 sf
 sfb
 sftp
+sfx
 sgopher
 sgw
 sha256
@@ -5797,7 +5802,9 @@ shared
 sharefile
 sharepoint
 sharepoint_online
+sharepoint-on-prem
 sharepoint-online
+sharepoint-product-configuration-wizard
 sharepoint2013
 sharepointdevelopmentcommunity
 sharepointonline
@@ -5826,6 +5833,7 @@ show-command
 show-on-command
 showdemo
 showoncommand
+shred
 shutdown
 sid
 sidecar
@@ -5948,7 +5956,6 @@ software
 softwarecenter
 softwaredistributioncomponent
 softwaremanagement
-softwarepackagedataexchange
 softwareupdatepoint
 softwareupdatepointcomponent
 solarigate
@@ -5991,7 +5998,6 @@ sparkline
 sparklines
 spawn
 spdockit
-spdx
 spdx-license-identifier:ms-pl
 spe
 speach
@@ -6045,6 +6051,7 @@ sqlbrowser
 sqlchangeautomation
 sqlclient
 sqlcmd
+sqlcodeguard
 sqldatabase
 sqldb
 sqldbatools
@@ -6062,6 +6069,7 @@ sqlproj
 sqlproject
 sqlps
 sqlserver
+sqlserveragent
 sqlserverbynarymodule
 sqlserverbynarypsmodule
 sqlservermodule
@@ -6089,7 +6097,6 @@ sslcertificate
 ssllabs
 ssllabs-scan
 sslprotocol
-ssm
 sso
 sspi
 sspr
@@ -6168,6 +6175,7 @@ storefront
 storeonce
 storeserv
 strava
+streak
 stream
 streamanalytics
 streaming
@@ -6281,6 +6289,7 @@ syslog
 sysman
 sysmon
 sysop
+syspass
 sysprep
 system
 system information 1394 controller baseboard motherboard systemboard battery bios bus cache memory cd dvd rom drive compact disc desktop monitor disk partition fan floppy glide point heatpipe ide infrared device keyboard local logical array mouse'
@@ -6457,6 +6466,7 @@ thread
 threading
 threadjob
 threads
+threadsanitizer
 threat
 threat-hunting
 threathunting
@@ -6493,6 +6503,7 @@ toasts
 tobias
 toc
 todo
+todo.txt
 toggl
 toggle
 token
@@ -6585,16 +6596,16 @@ trustedrootcertificate
 trustprotectionplatform
 truth
 trx
-ts
 tsa
 tsd
-tsheets
+tsqlbestpractice
 tst
 tst1
 tst3
 ttrpg
 tts
 tui
+tulpep
 tuner
 tutorial
 tv
@@ -6831,6 +6842,7 @@ variance
 variants
 vastlimits
 vault
+vaultextension
 vaultstore
 vb365
 vba
@@ -6838,7 +6850,6 @@ vbaproject
 vbproj
 vbr
 vbscript
-vbsinst
 vc
 vccmdlets
 vcenter
@@ -7023,6 +7034,7 @@ waitforobject
 wakeonlan
 wakeup
 walk
+wallet
 wallpaper
 wallpapers
 wannacry
@@ -7085,7 +7097,6 @@ websocket
 websockets
 websphere
 websphereappserver
-websphereportal
 webtest
 webtesting
 webtime
@@ -7107,7 +7118,6 @@ where
 whfb
 whiteboard
 whitespace
-whoami
 whois
 whormi
 wi-fi
@@ -7203,7 +7213,6 @@ winget
 wingetbridge
 winrar
 winrm
-winrs
 winrt
 wins
 winsat
@@ -7291,6 +7300,7 @@ writelog
 writemanager
 writeprogress
 writer
+ws-federation
 wsapi
 wsb
 wsl
@@ -7328,7 +7338,6 @@ xbox
 xclarity
 xdr
 xdschelper
-xdscresources
 xdt
 xenapp
 xendeskop
