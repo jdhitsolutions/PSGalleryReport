@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Sunday, 16 July 2023 02:31:07 UTC
+Updated: Sunday, 16 July 2023 09:53:20 UTC
 
 ?:
 ??
@@ -75,6 +75,7 @@ about
 abr
 abstractsyntaxtree
 abuse
+abuseipdb
 acas
 accelerator
 access
@@ -481,6 +482,7 @@ asymmetric
 async
 asynchronous
 atempo
+atera
 athena
 atlas
 atlassian
@@ -812,6 +814,7 @@ boilerplate
 boinc
 bolt
 bom
+book
 bookmark
 bookmarks
 books
@@ -931,7 +934,6 @@ carbonintensity
 card
 cardwirth
 cargo
-carousel
 carrier
 cartoon
 case
@@ -1510,6 +1512,7 @@ currency
 currency-convereter
 currency-exchange
 currencyconverterapi
+current
 curseforge
 custom
 customchecks
@@ -1632,7 +1635,6 @@ dattormm
 datum
 dave
 davinci
-dax
 dayinweek
 days-week
 db
@@ -1842,7 +1844,6 @@ dlp
 dmarc
 dmgr
 dmi
-dmx
 dnd
 dns
 dns-01
@@ -1871,6 +1872,7 @@ docker
 docker-compose
 docker-image
 docker-machine
+docker-volumes
 dockerfile
 dockerize
 dockerswarm
@@ -2106,6 +2108,7 @@ enhancement
 enrichers
 enrichment
 enteo
+enter
 enterprise
 enterprise-scale
 enterprisedb
@@ -2237,9 +2240,7 @@ exchangewebservices
 exclusion
 excuse
 exe
-exec
 executable
-executables
 execute
 exexml
 exif
@@ -2490,6 +2491,7 @@ fortinetmanager
 fortios
 fortune
 forum
+forwardcompatibility
 forwardedevents
 foudil
 fox
@@ -2500,6 +2502,7 @@ framework
 france
 freeipa
 freenas
+freesoftwarefoundation
 freshbooks
 freshdesk
 freshservice
@@ -2514,6 +2517,7 @@ frontapp
 frontdoor
 frontrange
 fs
+fsf
 fsharp
 fslogix
 fsrm
@@ -2596,6 +2600,7 @@ get_random_password
 get-admodernreport
 get-childitem
 get-cmhealthcheck
+get-command
 get-credential
 get-criticaltrippoint
 get-currentcputemperature
@@ -2681,6 +2686,7 @@ google-chrome
 google-histogram
 google-sankey
 google-table
+googleadsv2
 googlecloudplatform
 googledrive
 googlemap
@@ -2764,6 +2770,7 @@ gzip-compression
 ha
 haarlemsdagblad
 hack
+hacking
 hacktoberfest
 hadoop
 hafr
@@ -2792,6 +2799,8 @@ hardening
 hardlink
 hardware
 harperdb
+harvest
+harvestforecast
 hash
 hashcat
 hashicorp
@@ -2882,7 +2891,6 @@ home_automation
 homebrew
 homelandsecurity
 homeschooling
-hon
 hooking
 horizon
 horizontal
@@ -2975,7 +2983,6 @@ icinga2mssql
 icinga2plugins
 icingachecks
 icingaforwindows
-icingainventory
 icingamssql
 icingaplugins
 icingapowershell
@@ -3038,7 +3045,6 @@ imageprocess
 imageprocessing
 images
 imageservicing
-imageslide
 imagevalidate
 imagevalidation
 imagga
@@ -3348,6 +3354,7 @@ keylight
 keymanagement
 keymap
 keymapping
+keypair
 keysms
 keyvault
 keywords
@@ -3382,6 +3389,7 @@ kubernetes
 kubernetesconfiguration
 kubespray
 kudu
+kurukuru
 kusto
 kvm
 kvp
@@ -3404,6 +3412,7 @@ lake
 lambda
 lame
 lametrictime
+lamp
 lan
 landingzones
 language
@@ -3721,7 +3730,6 @@ masterconfiguration
 matcharray
 matchhashtable
 materialdesign
-materialui
 mateso
 math
 mathematics
@@ -3751,7 +3759,6 @@ mde
 mdm
 mdop
 mdt
-mdx
 me4024
 mean
 measure
@@ -3774,6 +3781,7 @@ meltdown
 mem
 member
 members
+membership
 memcm
 memory
 memorydump
@@ -3918,7 +3926,6 @@ monitoringplugins
 monitoringsolutions
 monthlyupdate
 moodle
-moonshot
 mosaic
 motd
 motivation
@@ -4259,6 +4266,7 @@ odfb
 odin
 odoo
 oem-charset
+offboarding
 offence
 office
 office_365
@@ -4272,6 +4280,7 @@ officegraph
 officemessageencryption
 offline
 offlinewimservicing
+ofx
 ogg
 oh-my-posh
 oh-my-zsh
@@ -4292,6 +4301,7 @@ on-demand
 on-premise
 onboard
 onboardadministrator
+onboarding
 oncommand-insight
 ondemand
 one
@@ -4341,8 +4351,8 @@ openinghours
 openport
 openprovider
 openscad
-opensearch
 opensource
+opensourceinitiative
 openssh
 openssl
 openstack
@@ -4395,8 +4405,8 @@ osdeployment
 osdprogress
 osdsus
 osdupdate
+osi
 osmanagement
-osmanagementhub
 osp
 ospgateway
 osprovision
@@ -4495,6 +4505,7 @@ passphraser passphrase password generator entropy
 password
 password_generation
 password-generator
+password-less
 password-manager
 passwordexpiration
 passwordexpiry
@@ -4544,6 +4555,7 @@ peek
 peering
 peheader
 pem
+pemfile
 pendingreboot
 penetration
 penetrationtesting
@@ -4604,6 +4616,7 @@ pipeline
 pipelines
 pipescript
 piraeus
+pivot
 pivotal
 pivottable
 pixoo
@@ -4826,8 +4839,10 @@ printserver
 prism
 prism_element
 privacy
+private
 private-key
 privatedns
+privatekey
 privatemethods
 privateprofilestring
 privilege
@@ -5205,6 +5220,7 @@ rdsgw
 react-stockcharts
 read
 read-slog
+readable
 reader
 readiness
 readme
@@ -5607,7 +5623,6 @@ scriptcreation
 scriptcs
 scriptedui
 scripting
-scriptlogging
 scriptoform
 scriptrunner
 scripts
@@ -5956,6 +5971,7 @@ software
 softwarecenter
 softwaredistributioncomponent
 softwaremanagement
+softwarepackagedataexchange
 softwareupdatepoint
 softwareupdatepointcomponent
 solarigate
@@ -5998,6 +6014,7 @@ sparkline
 sparklines
 spawn
 spdockit
+spdx
 spdx-license-identifier:ms-pl
 spe
 speach
@@ -6097,6 +6114,7 @@ sslcertificate
 ssllabs
 ssllabs-scan
 sslprotocol
+ssm
 sso
 sspi
 sspr
@@ -6596,8 +6614,10 @@ trustedrootcertificate
 trustprotectionplatform
 truth
 trx
+ts
 tsa
 tsd
+tsheets
 tsqlbestpractice
 tst
 tst1
@@ -6850,6 +6870,7 @@ vbaproject
 vbproj
 vbr
 vbscript
+vbsinst
 vc
 vccmdlets
 vcenter
@@ -7097,6 +7118,7 @@ websocket
 websockets
 websphere
 websphereappserver
+websphereportal
 webtest
 webtesting
 webtime
@@ -7118,6 +7140,7 @@ where
 whfb
 whiteboard
 whitespace
+whoami
 whois
 whormi
 wi-fi
@@ -7213,6 +7236,7 @@ winget
 wingetbridge
 winrar
 winrm
+winrs
 winrt
 wins
 winsat
@@ -7254,7 +7278,6 @@ workbook
 workday
 worker
 workflow
-workflowmax
 workflows
 workingdays
 workinghours
@@ -7338,6 +7361,7 @@ xbox
 xclarity
 xdr
 xdschelper
+xdscresources
 xdt
 xenapp
 xendeskop
