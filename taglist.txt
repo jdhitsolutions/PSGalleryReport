@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 17 July 2023 02:25:47 UTC
+Updated: Monday, 17 July 2023 09:53:18 UTC
 
 ?:
 ??
@@ -296,7 +296,6 @@ amiga
 amp
 amqp
 amsi
-amt
 amxmodx
 anaconda
 analysis
@@ -426,7 +425,6 @@ area
 arg
 argument
 argumentcompleter
-arguments
 arm
 arm-json
 arm-templates
@@ -602,7 +600,6 @@ azsdk
 azsk
 azsql
 azstackhci
-azstate
 azsubnet
 azts
 azuead
@@ -621,7 +618,6 @@ azure-resource-graph
 azure-ssis
 azureactivedirectory
 azuread
-azureadbackupandrestore
 azureadconnect
 azureadgraph
 azureadtoolkit
@@ -674,7 +670,6 @@ azuresqlimport
 azuressas
 azurestack
 azurestackhci
-azurestate
 azurestorage
 azurestorageservices
 azuretable
@@ -895,6 +890,7 @@ businessrulesengine
 businesstime
 bxor
 bydesign
+byexample
 bynarypsmodule
 byovd
 byte
@@ -1157,7 +1153,6 @@ cloudiq
 cloudkey
 cloudmarque
 cloudmigrations
-cloudpc
 cloudservice
 clueser
 cluster
@@ -1633,7 +1628,6 @@ dattormm
 datum
 dave
 davinci
-dax
 dayinweek
 days-week
 db
@@ -1782,7 +1776,6 @@ director
 directories
 directory
 directory psedition_core psedition_desktop
-directory-transform
 directorymarks
 directoryname
 directorysearcher
@@ -1843,7 +1836,6 @@ dlp
 dmarc
 dmgr
 dmi
-dmx
 dnd
 dns
 dns-01
@@ -2330,8 +2322,6 @@ feature
 features
 featuresondemand
 featureupdate
-federated
-federateddirectory
 federation
 fedex
 feed
@@ -2360,7 +2350,6 @@ file-name-extension-association
 file-server
 file-share
 file-system
-file-transform
 file-type
 file-type-association
 fileattributes
@@ -2464,7 +2453,6 @@ fonts
 foo
 football
 for
-force
 forcedelete
 foreach
 foreach-object
@@ -2528,7 +2516,6 @@ ftps
 fudge
 fudgepop
 fujitsu
-full
 full-metal-gnome
 fullclr
 fulljoin
@@ -2598,7 +2585,6 @@ geolocation
 geosearching
 geotagging
 get
-get_random_password
 get-admodernreport
 get-childitem
 get-cmhealthcheck
@@ -2948,7 +2934,6 @@ hubspotcrm
 hubspotps
 hudson
 hue
-humanizer
 humanly
 humor
 humorous
@@ -3000,17 +2985,14 @@ ics
 icws
 id
 id3
-idabus
 ide
 identifier
 identity
 identity-management
 identitydataplane
 identitydirector
-identitydomains
 identitynow
 idf
-idm
 idna
 ids
 ie
@@ -3108,7 +3090,6 @@ innerjoin
 innertext
 input
 inputbox
-inputobject
 insert
 insiderthreat
 insight
@@ -3271,7 +3252,6 @@ javaversion
 jboss
 jdbc
 jdedwards
-jdt
 jea
 jenkins
 jetbrains
@@ -3301,7 +3281,6 @@ jsm
 jsm.insight
 json
 json-converter
-json-transform
 json+
 jsonplus
 jsonwebkey
@@ -3551,7 +3530,6 @@ localization
 location
 locationbasedservices
 lock
-lockbox
 lockdisplaytimeout
 lockdown
 locking
@@ -3764,7 +3742,6 @@ mde
 mdm
 mdop
 mdt
-mdx
 me4024
 mean
 measure
@@ -3827,6 +3804,7 @@ microservices
 microsoft
 microsoft_365
 microsoft_azure
+microsoft_endpoint_manager
 microsoft_online
 microsoft_teams
 microsoft-graph
@@ -4149,7 +4127,6 @@ ngfw
 nginx
 nhl
 nic
-nic.ru
 nightmare
 ninite
 ninja
@@ -4240,7 +4217,6 @@ oa
 oacli
 oacmdlets
 oacommand
-oact
 oauth
 oauth2
 oauth2.0
@@ -4253,7 +4229,6 @@ objecttree
 obs
 observeit
 oce
-ocg
 oci
 ocicontrolcenter
 ocr
@@ -4282,6 +4257,7 @@ office2016
 office2019
 office365
 officedev
+officegraph
 officemessageencryption
 offline
 offlinewimservicing
@@ -4318,7 +4294,6 @@ onelogin
 oneloginapi
 onenote
 onestools
-onesubscription
 onetimesecret
 oneviewglobaldashboard
 online
@@ -4344,7 +4319,6 @@ open
 open-ai
 open-ssh
 openai
-openamt
 openapi
 opendata
 openedge
@@ -4459,7 +4433,6 @@ pack
 package
 package-management
 package-manager
-package-transform
 packagemanagement
 packagemanager
 packages
@@ -4510,7 +4483,6 @@ passivetotal
 passphrase
 passphraser passphrase password generator entropy
 password
-password_generation
 password-generator
 password-less
 password-manager
@@ -4739,6 +4711,7 @@ powercli
 powercligoodies
 powerdex
 powerforensics
+powergraph
 powergui
 powermax
 powerplan
@@ -4809,6 +4782,7 @@ pq
 pranks
 predicate
 prediction
+predictive
 predictive-text
 predictor
 preferences
@@ -4893,6 +4867,7 @@ proofpoint
 properties
 property
 property-list
+prose
 protect
 protect-blob
 protect-string
@@ -5315,7 +5290,6 @@ remote'
 remotecert
 remoteconnection
 remoteconnectionsmanager
-remotecontrol
 remotedesktop
 remotedesktopconnectionmanager
 remotedesktopgateway
@@ -5783,7 +5757,6 @@ set-dnsservers
 set-githubsecrets
 set-location
 set-openfiles
-set-ownership
 set-pass
 set-psbreakpoint
 set-psenv
@@ -6279,6 +6252,7 @@ swis
 switch
 sxs
 sybase
+sybaseiq
 symantec
 symbolic
 symbolic_link
@@ -6356,7 +6330,6 @@ tagging
 tags
 tak
 taken
-takeown
 tally
 talxis
 tanss
@@ -6576,7 +6549,6 @@ transcode
 transcript
 transcripts
 transform
-transformation
 transforms
 transitionmanager
 translate
@@ -6634,7 +6606,6 @@ tutorial
 tv
 tweet
 twig
-twilio
 twincat
 twinkly
 twitch
@@ -6872,7 +6843,6 @@ vba
 vbaproject
 vbproj
 vbr
-vbscript
 vbsinst
 vc
 vccmdlets
@@ -7007,7 +6977,6 @@ vpg
 vplex
 vpn
 vpn-certificate
-vpro
 vps
 vra
 vrchat
@@ -7046,10 +7015,8 @@ vum
 vvx
 vxrail
 w32time
-w365
 w3svc
 w3w
-waa
 waas
 wac
 waf
@@ -7318,7 +7285,6 @@ write-host
 write-information
 write-log
 write-loganalytics
-write-message
 write-progress
 write-slog
 write-wansi
@@ -7327,6 +7293,7 @@ writelog
 writemanager
 writeprogress
 writer
+ws-federation
 wsapi
 wsb
 wsl
@@ -7365,7 +7332,6 @@ xclarity
 xdr
 xdschelper
 xdscresources
-xdt
 xenapp
 xendeskop
 xendesktop
@@ -7380,7 +7346,6 @@ xlsx
 xmc
 xml
 xml-rpc
-xml-transform
 xmla
 xmlrpc
 xmlutils
@@ -7424,10 +7389,8 @@ zerto
 zigbee
 zip
 zip-compression
-zipfile-transform
 zisson
 zoho
-zone
 zookeeper
 zoom
 zoomapi
