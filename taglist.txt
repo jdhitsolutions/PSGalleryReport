@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Tuesday, 18 July 2023 02:26:23 UTC
+Updated: Tuesday, 18 July 2023 09:52:48 UTC
 
 ?:
 ??
@@ -83,7 +83,6 @@ access-control
 access-points
 accesscontrol
 accesscontroldsc
-accessgovernancecp
 accesspoint
 accessrights
 accesstoken
@@ -177,7 +176,6 @@ adminbyrequest
 admindirectory
 administration
 administrative
-administrativeunit
 administrativeuser
 administrator
 admintools
@@ -210,6 +208,7 @@ advice
 advisor
 adwords
 adx
+adxingestion
 aem
 aeries
 aeriessis
@@ -373,6 +372,7 @@ applayering
 apple
 application
 application-control
+application-transformer
 application-whitelisting
 applicationgateway
 applicationgrid
@@ -424,7 +424,6 @@ area
 arg
 argument
 argumentcompleter
-arguments
 arm
 arm-json
 arm-templates
@@ -557,8 +556,6 @@ avatar
 avd
 ave
 avepoint
-avm
-avmtools
 avro
 avs
 avset
@@ -600,6 +597,7 @@ azsdk
 azsk
 azsql
 azstackhci
+azstate
 azsubnet
 azts
 azuead
@@ -614,6 +612,7 @@ azure-devops
 azure-forensics
 azure-functions
 azure-pipelines
+azure-resource-graph
 azure-ssis
 azureactivedirectory
 azuread
@@ -670,6 +669,7 @@ azuresqlimport
 azuressas
 azurestack
 azurestackhci
+azurestate
 azurestorage
 azurestorageservices
 azuretable
@@ -809,7 +809,6 @@ boilerplate
 boinc
 bolt
 bom
-book
 bookmark
 bookmarks
 books
@@ -1001,8 +1000,6 @@ changeanalysis
 changelog
 channel
 channel9
-char
-character
 chart
 charting
 charts
@@ -1197,7 +1194,6 @@ codecoverage
 codegen
 codegeneration
 codegenerator
-codepoint
 codereview
 codes
 codesign
@@ -1459,7 +1455,6 @@ crescendobuilt
 cresendo
 crestron
 crime
-crlf
 crm
 crm2016
 cron
@@ -1486,6 +1481,7 @@ csp
 csproj
 css
 csv
+csv2adx
 csvhelper
 ctf
 ctglobal
@@ -1629,6 +1625,7 @@ dattormm
 datum
 dave
 davinci
+dax
 dayinweek
 days-week
 db
@@ -1659,7 +1656,6 @@ declarative
 decline
 decode
 decode64
-decoding
 decompiler
 decrypt
 decryption
@@ -1838,6 +1834,7 @@ dlp
 dmarc
 dmgr
 dmi
+dmx
 dnd
 dns
 dns-01
@@ -2008,6 +2005,7 @@ dynamicsax
 dynamicsecuritygroups
 dynamicsnav
 dynamodb
+dynatrace
 dynatraceobservability
 dz
 e-mail
@@ -2088,7 +2086,6 @@ encodetext
 encoding
 encrypt
 encryption
-end-of-line
 endomondo
 endpoint
 endpoints
@@ -2457,7 +2454,6 @@ fonts
 foo
 football
 for
-force
 forcedelete
 foreach
 foreach-object
@@ -2505,8 +2501,6 @@ freshservice-api
 freshserviceps
 freshworks
 friendly
-fritz
-fritzbox
 front
 frontapp
 frontdoor
@@ -2521,7 +2515,6 @@ ftps
 fudge
 fudgepop
 fujitsu
-full
 full-metal-gnome
 fullclr
 fulljoin
@@ -2744,7 +2737,6 @@ grr
 gsuite
 gtx1080ti
 guardedfabric
-gubbins
 guest
 guestconfiguration
 gui
@@ -2839,6 +2831,7 @@ help
 helpdesk
 helper
 helper-functions
+helperfunctions
 helpers
 helpfile
 heml
@@ -2920,6 +2913,7 @@ hpeosprovisioncmdlets
 hpesmartarraycmdlets
 hpesynergy
 hponeview
+hpwritemanager
 hris
 hsdp
 html
@@ -3013,7 +3007,6 @@ igr
 ihs
 iiittttt
 iis
-iis10
 iis8
 iisadministration
 iiscrypto
@@ -3099,7 +3092,6 @@ innerjoin
 innertext
 input
 inputbox
-inputobject
 insert
 insiderthreat
 insight
@@ -3239,7 +3231,6 @@ itemlist
 itemobject
 itemstack
 iterate
-iteration
 itg
 itglue
 itin
@@ -3463,7 +3454,6 @@ length
 lenovo
 lesspass
 letsencrypt
-lf
 lgpo
 lib
 libgit2
@@ -3733,7 +3723,6 @@ matrix
 maven
 max
 max_path
-maximum
 maxoffice
 mazerat
 mb
@@ -3754,6 +3743,7 @@ mde
 mdm
 mdop
 mdt
+mdx
 me4024
 mean
 measure
@@ -3868,7 +3858,6 @@ minecraft
 miniconda
 minifier
 minimal
-minimum
 mip
 mipsdk
 miration-step
@@ -3951,7 +3940,6 @@ msbi
 msbuild
 mschart
 msdeploy
-msdn
 msdtc
 msedge
 msexcel
@@ -3991,6 +3979,7 @@ mssqlserver
 msteams
 mstest
 mstsc
+msu
 msvc
 msword
 mule
@@ -4271,7 +4260,6 @@ office2016
 office2019
 office365
 officedev
-officegraph
 officemessageencryption
 offline
 offlinewimservicing
@@ -4572,6 +4560,7 @@ personal
 personalisation
 personalization
 personalvault
+personio
 pester
 pf
 pfe
@@ -4728,7 +4717,6 @@ powercli
 powercligoodies
 powerdex
 powerforensics
-powergraph
 powergui
 powermax
 powerplan
@@ -4999,7 +4987,6 @@ psjobs
 psjobthreads
 pskeepass
 pslocalgallery
-psloganalytics
 psm
 psm1
 psmodule
@@ -5019,6 +5006,7 @@ psngenposh
 psobject
 psoutlog
 pspath
+pspersonio
 pspowerhour
 psprofiler
 psproject
@@ -5212,6 +5200,7 @@ rdpsession
 rdpsign
 rds
 rdsgw
+react-stockcharts
 read
 read-slog
 readable
@@ -5228,6 +5217,7 @@ rebootnodeifneeded
 reckon
 recommendation
 reconcile
+reconnaissance
 record
 recording
 recovery
@@ -5359,7 +5349,6 @@ resharper
 resize
 resolution
 resolve
-resolve-stache
 resolve-template
 resolver
 resource
@@ -5694,6 +5683,7 @@ selectxmlinfo
 selenium
 self
 self-hosted
+self-service
 self-signed
 selfdispatch
 selfhelp
@@ -5720,6 +5710,7 @@ sentinelone
 sep
 seppmail
 seppmail.cloud
+seq
 sequence
 serialization
 serialize
@@ -5785,6 +5776,8 @@ setupbase.certificate
 setupbase.env
 setupbase.install
 setupbase.publish
+setupbase.taskscheduler
+setupbase.template
 setupbase.update
 sevenzip
 sf
@@ -5823,7 +5816,6 @@ shells
 shieldedvm
 ships
 shipsprovider
-shipstation
 shlink
 shodan
 shodanps
@@ -6012,7 +6004,6 @@ speak
 speaker
 spec
 specification
-specify
 spectre
 spectrumconnect
 spectrumcontrolbase
@@ -6107,10 +6098,10 @@ sslprotocol
 ssm
 sso
 sspi
+sspr
 ssrs
 ssst
 sstp
-stache
 stackedge
 stackexchange
 stackhci
@@ -6164,6 +6155,7 @@ stig
 stigrepo
 stingar
 stock
+stockcharts
 stocks
 stoicism
 stoics
@@ -6190,7 +6182,6 @@ streamwriter
 stretch
 strictmode
 string
-string-template
 stringmanager
 stringmanagertool
 strings
@@ -6263,6 +6254,7 @@ swis
 switch
 sxs
 sybase
+sybaseiq
 symantec
 symbolic
 symbolic_link
@@ -6536,8 +6528,6 @@ touch
 toughswitch
 tphubps
 tpp
-tr-064
-tr064
 trace
 traceevent
 tracer
@@ -6694,7 +6684,6 @@ ud-step
 ud-stepbar
 ud-stickynavbar
 ud-tagcloud
-ud-timeline
 ud-timeout
 ud-tool
 ud-toploader
@@ -6998,7 +6987,6 @@ vrchat
 vrealize
 vrising
 vro
-vrops
 vrsns
 vrtu
 vs
@@ -7277,7 +7265,6 @@ workrequests
 worksheet
 workshop
 workspace
-workspaceone
 workspaces
 workstation
 world
@@ -7290,6 +7277,7 @@ wql
 wrap
 wrap-text
 wrapper
+wrapperfunctions
 wrc
 wrike
 write
@@ -7300,13 +7288,13 @@ write-debug
 write-host
 write-information
 write-log
-write-loganalytics
 write-message
 write-progress
 write-slog
 write-wansi
 writeaccess
 writelog
+writemanager
 writeprogress
 writer
 ws-federation
