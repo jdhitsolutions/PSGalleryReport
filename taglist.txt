@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Tuesday, 18 July 2023 09:52:48 UTC
+Updated: Tuesday, 18 July 2023 17:52:40 UTC
 
 ?:
 ??
@@ -83,6 +83,7 @@ access-control
 access-points
 accesscontrol
 accesscontroldsc
+accessgovernancecp
 accesspoint
 accessrights
 accesstoken
@@ -176,6 +177,7 @@ adminbyrequest
 admindirectory
 administration
 administrative
+administrativeunit
 administrativeuser
 administrator
 admintools
@@ -335,7 +337,6 @@ anypoint
 anywhere
 aovpn psmodule
 apache
-apachekafka
 api
 api-client
 api-gateway
@@ -424,6 +425,7 @@ area
 arg
 argument
 argumentcompleter
+arguments
 arm
 arm-json
 arm-templates
@@ -519,7 +521,6 @@ authorizationheaders
 authorize.net
 authz
 autify
-auto
 auto_cd
 auto-completion
 autoattendant
@@ -537,7 +538,6 @@ automatedlab
 automaticpacketreportingsystem
 automation
 automation psmodule
-automationanywhere
 autopilot
 autoscaling
 autostart
@@ -556,6 +556,8 @@ avatar
 avd
 ave
 avepoint
+avm
+avmtools
 avro
 avs
 avset
@@ -745,7 +747,6 @@ bicepnet
 big-ip
 big-iq
 bigcommerce
-bigeval
 bigfix
 bigquery
 bikeshed
@@ -809,6 +810,7 @@ boilerplate
 boinc
 bolt
 bom
+book
 bookmark
 bookmarks
 books
@@ -852,7 +854,6 @@ browser
 browserextension
 browserhistory
 browsing
-brs
 bruteforce
 bson
 btdf
@@ -888,7 +889,6 @@ businessobjects
 businessrulesengine
 businesstime
 bxor
-bydesign
 byexample
 bynarypsmodule
 byovd
@@ -969,6 +969,7 @@ celcat
 celerium
 censor
 center
+centra
 central
 central-management
 centralcredentialprovider
@@ -1000,6 +1001,8 @@ changeanalysis
 changelog
 channel
 channel9
+char
+character
 chart
 charting
 charts
@@ -1194,6 +1197,7 @@ codecoverage
 codegen
 codegeneration
 codegenerator
+codepoint
 codereview
 codes
 codesign
@@ -1324,7 +1328,6 @@ conservation
 console
 consolemenu
 consolemusic
-consumer
 consumption
 contact
 contacts
@@ -1351,7 +1354,6 @@ continuousdeployment
 continuousintegration
 control
 controller
-controlroom
 convereter
 converged_data_management
 conversational
@@ -1434,7 +1436,6 @@ creationworkflowsimplification
 creator
 cred
 credential
-credential-dialog
 credential-file
 credential-files
 credential-manager
@@ -1455,6 +1456,7 @@ crescendobuilt
 cresendo
 crestron
 crime
+crlf
 crm
 crm2016
 cron
@@ -1642,7 +1644,6 @@ dbwebapi
 dc
 dcim
 dcim_b324
-dcom
 dcr
 debian
 debug
@@ -1656,6 +1657,7 @@ declarative
 decline
 decode
 decode64
+decoding
 decompiler
 decrypt
 decryption
@@ -2063,7 +2065,6 @@ emailautomation
 emailmanagment
 emailnotification
 emailnotificationcomponent
-emailsecurity
 embedded
 emc
 emcomm
@@ -2086,6 +2087,7 @@ encodetext
 encoding
 encrypt
 encryption
+end-of-line
 endomondo
 endpoint
 endpoints
@@ -2227,7 +2229,6 @@ exchangeonlineprotection
 exchangeonprem
 exchangeserver
 exchangewebservices
-exclusion
 excuse
 exe
 exec
@@ -2253,7 +2254,6 @@ experience
 experiments
 expired
 expiring
-expiry
 exploit
 exploration
 explorer
@@ -2408,7 +2408,6 @@ finddownloadlinkfromwebsite
 findfile
 findlocation
 findplace
-findproxyforurl
 fine-print
 firebird
 firefox
@@ -2454,6 +2453,7 @@ fonts
 foo
 football
 for
+force
 forcedelete
 foreach
 foreach-object
@@ -2501,6 +2501,8 @@ freshservice-api
 freshserviceps
 freshworks
 friendly
+fritz
+fritzbox
 front
 frontapp
 frontdoor
@@ -2515,6 +2517,7 @@ ftps
 fudge
 fudgepop
 fujitsu
+full
 full-metal-gnome
 fullclr
 fulljoin
@@ -2668,7 +2671,6 @@ gobright
 godaddy
 goldengate
 goldsource
-goldsource-dedicated-server
 google
 google-chrome
 google-histogram
@@ -2737,6 +2739,8 @@ grr
 gsuite
 gtx1080ti
 guardedfabric
+guardicore
+gubbins
 guest
 guestconfiguration
 gui
@@ -3007,6 +3011,7 @@ igr
 ihs
 iiittttt
 iis
+iis10
 iis8
 iisadministration
 iiscrypto
@@ -3084,7 +3089,6 @@ inheritance
 ini
 inifile
 initialization
-initials-avatar
 initiator
 inline-progress
 inlineprogress
@@ -3092,6 +3096,7 @@ innerjoin
 innertext
 input
 inputbox
+inputobject
 insert
 insiderthreat
 insight
@@ -3102,7 +3107,6 @@ inspiration
 inspirationalquotes
 inspire
 inspur
-instagram
 install
 install-module
 install-windowsimage
@@ -3231,7 +3235,7 @@ itemlist
 itemobject
 itemstack
 iterate
-itg
+iteration
 itglue
 itin
 itop
@@ -3354,7 +3358,6 @@ kintone
 klantcontroles
 kms
 knapsack
-knetps
 knob
 knowbe4
 knowledge
@@ -3375,7 +3378,6 @@ kubernetes
 kubernetesconfiguration
 kubespray
 kudu
-kurukuru
 kusto
 kvm
 kvp
@@ -3454,6 +3456,7 @@ length
 lenovo
 lesspass
 letsencrypt
+lf
 lgpo
 lib
 libgit2
@@ -3540,7 +3543,6 @@ lockoutreport
 lockscreen
 lockstep
 lod
-lodasoft
 log
 log-administration
 log-file
@@ -3687,6 +3689,7 @@ map
 mapapi
 mappeddrives
 mapper24
+mapping
 maps
 mapsapi
 mariadb
@@ -3723,6 +3726,7 @@ matrix
 maven
 max
 max_path
+maximum
 maxoffice
 mazerat
 mb
@@ -3780,7 +3784,6 @@ mercurial
 merge
 mermaid
 message
-messagebox
 messageoftheday
 messages
 messaging
@@ -3858,6 +3861,7 @@ minecraft
 miniconda
 minifier
 minimal
+minimum
 mip
 mipsdk
 miration-step
@@ -3894,7 +3898,6 @@ mof
 moldova
 moment
 monaco
-monday
 mondoo
 money
 moneyforward
@@ -3940,6 +3943,7 @@ msbi
 msbuild
 mschart
 msdeploy
+msdn
 msdtc
 msedge
 msexcel
@@ -4190,7 +4194,6 @@ ntdll
 ntds
 ntfs
 ntp
-ntsystems
 nuget
 nuget-references
 nuget.exe
@@ -4260,6 +4263,7 @@ office2016
 office2019
 office365
 officedev
+officegraph
 officemessageencryption
 offline
 offlinewimservicing
@@ -4386,7 +4390,6 @@ osddriver
 osddrivers
 osdeploy
 osdeployment
-osdprogress
 osdsus
 osdupdate
 osi
@@ -4601,7 +4604,6 @@ pipeline
 pipelines
 pipescript
 piraeus
-pivot
 pivotal
 pivottable
 pixoo
@@ -4717,31 +4719,27 @@ powercli
 powercligoodies
 powerdex
 powerforensics
+powergraph
 powergui
 powermax
 powerplan
 powerplateform
 powerplatform
-powerprotect
-powerprotect_datamanager
 powersaving
 powerscheme
 powershell
 powershell-class
 powershell-cmdlets
 powershell-core
-powershell-core-releases-api
 powershell-course
 powershell-credentials
 powershell-dsc
 powershell-examples
 powershell-gallery
-powershell-github-repo
 powershell-isprime
 powershell-lightning
 powershell-module
 powershell-modules
-powershell-releases-api
 powershell-remoting
 powershell-script
 powershell-terminal
@@ -4776,7 +4774,6 @@ powerstore
 powertab
 powertoolcmdlets
 powertooldsc
-ppdm
 ppk
 pposh
 pps
@@ -4840,7 +4837,6 @@ processing
 processmitigation
 processor
 procs
-producer
 product
 productid
 productivity
@@ -4987,6 +4983,7 @@ psjobs
 psjobthreads
 pskeepass
 pslocalgallery
+psloganalytics
 psm
 psm1
 psmodule
@@ -5183,7 +5180,6 @@ razzle
 rbac
 rbacmodel
 rbsu
-rcon
 rcs
 rcu
 rdb
@@ -5200,7 +5196,6 @@ rdpsession
 rdpsign
 rds
 rdsgw
-react-stockcharts
 read
 read-slog
 readable
@@ -5317,7 +5312,6 @@ removetypeaccelerators
 remux
 ren-isac
 rename
-reparsepoint
 repeat
 repl
 replace
@@ -5349,6 +5343,7 @@ resharper
 resize
 resolution
 resolve
+resolve-stache
 resolve-template
 resolver
 resource
@@ -5792,7 +5787,6 @@ shadowcopy
 shadowcopybackups
 shadowgroups
 shanghaitech
-shard
 share
 share-permission
 share-stat
@@ -5816,6 +5810,7 @@ shells
 shieldedvm
 ships
 shipsprovider
+shipstation
 shlink
 shodan
 shodanps
@@ -5977,14 +5972,12 @@ soonragent
 sophos
 sort
 source
-source-dedicated-server
 sourcecontrol
 sourceforge
 sourcegraph
 sourcemod
 sourceone
 sourcepawn
-sourcequery
 sovcloud
 space
 spaces
@@ -6004,6 +5997,7 @@ speak
 speaker
 spec
 specification
+specify
 spectre
 spectrumconnect
 spectrumcontrolbase
@@ -6090,7 +6084,6 @@ sshmanagement
 sshservers
 ssis
 ssl
-sslcert
 sslcertificate
 ssllabs
 ssllabs-scan
@@ -6102,6 +6095,7 @@ sspr
 ssrs
 ssst
 sstp
+stache
 stackedge
 stackexchange
 stackhci
@@ -6145,7 +6139,6 @@ stderr
 stdio
 stdout
 steam
-steam-games
 steamcmd
 stepper
 sticker
@@ -6155,7 +6148,6 @@ stig
 stigrepo
 stingar
 stock
-stockcharts
 stocks
 stoicism
 stoics
@@ -6182,6 +6174,7 @@ streamwriter
 stretch
 strictmode
 string
+string-template
 stringmanager
 stringmanagertool
 strings
@@ -6200,7 +6193,6 @@ sub-directory
 sub-menu
 subatomix
 subjectname
-sublimetext
 submission
 subnet
 subnet-calculator
@@ -6418,7 +6410,6 @@ test-userisadministrator
 test-xml
 test123
 testaccount
-testautomation
 testimonial
 testing
 testlab
@@ -6434,7 +6425,6 @@ text-to-image
 text-to-speach"
 text-to-speech
 text2image
-textanalysis
 textbuffer
 texting
 textprocessing
@@ -6524,10 +6514,11 @@ torrent
 torrents
 toshiba
 totp
-touch
 toughswitch
 tphubps
 tpp
+tr-064
+tr064
 trace
 traceevent
 tracer
@@ -6654,15 +6645,11 @@ ud-confetti
 ud-control
 ud-dashboard
 ud-datepicker
-ud-field
 ud-flexytable
-ud-funnel
 ud-hero
 ud-illustration
-ud-input
 ud-licensed
 ud-loadingoverlay
-ud-minesweeper
 ud-mouseparticle
 ud-navbarsearch
 ud-numbermask
@@ -6671,19 +6658,18 @@ ud-piechart3d
 ud-pivottable
 ud-progressstepbar
 ud-rangeslider
-ud-readingbar
 ud-scrollspy
 ud-selectdatetime
 ud-selector
 ud-signature
 ud-simpledrawer
-ud-singleselect
 ud-slider
 ud-speechbubble
 ud-step
 ud-stepbar
 ud-stickynavbar
 ud-tagcloud
+ud-timeline
 ud-timeout
 ud-tool
 ud-toploader
@@ -7020,7 +7006,6 @@ vxrail
 w32time
 w365
 w3svc
-w3w
 waa
 waas
 wac
@@ -7082,7 +7067,6 @@ webpage
 webpi
 webreport
 webrequest
-webresponse
 webroot
 webserver
 webservice
@@ -7095,7 +7079,6 @@ websphere
 websphereappserver
 websphereportal
 webtest
-webtesting
 webtime
 wec
 wecutil
@@ -7106,7 +7089,6 @@ well-known
 wem
 wemsdk
 wer
-what3words
 whatismyip
 whatsnew
 whatsupgold
@@ -7205,7 +7187,6 @@ windowstimezone
 windowsupdate
 windowsupdates
 windowsvirtualdesktop
-winform
 winforms
 winget
 wingetbridge
@@ -7265,6 +7246,7 @@ workrequests
 worksheet
 workshop
 workspace
+workspaceone
 workspaces
 workstation
 world
@@ -7288,6 +7270,7 @@ write-debug
 write-host
 write-information
 write-log
+write-loganalytics
 write-message
 write-progress
 write-slog
@@ -7381,7 +7364,6 @@ yetanotherhelloworld
 yml
 ynab
 youtube
-youtube-dl
 youtubeextractor
 yq
 yubaba
@@ -7399,7 +7381,6 @@ zipfile-transform
 zisson
 zoho
 zone
-zookeeper
 zoom
 zoomapi
 zoommeeting
