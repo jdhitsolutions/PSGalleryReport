@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Tuesday, 18 July 2023 17:52:40 UTC
+Updated: Wednesday, 19 July 2023 02:45:16 UTC
 
 ?:
 ??
@@ -337,6 +337,7 @@ anypoint
 anywhere
 aovpn psmodule
 apache
+apachekafka
 api
 api-client
 api-gateway
@@ -521,6 +522,7 @@ authorizationheaders
 authorize.net
 authz
 autify
+auto
 auto_cd
 auto-completion
 autoattendant
@@ -538,6 +540,7 @@ automatedlab
 automaticpacketreportingsystem
 automation
 automation psmodule
+automationanywhere
 autopilot
 autoscaling
 autostart
@@ -747,6 +750,7 @@ bicepnet
 big-ip
 big-iq
 bigcommerce
+bigeval
 bigfix
 bigquery
 bikeshed
@@ -889,6 +893,7 @@ businessobjects
 businessrulesengine
 businesstime
 bxor
+bydesign
 byexample
 bynarypsmodule
 byovd
@@ -1004,7 +1009,6 @@ channel9
 char
 character
 chart
-charting
 charts
 chat
 chatbot
@@ -1264,6 +1268,7 @@ compiler
 complete
 completer
 completion
+completionresult
 complex
 compliance
 compliant
@@ -1280,7 +1285,6 @@ computer-site
 computername
 computers
 computersite
-concur
 concurrency
 concurrent
 conda
@@ -1328,6 +1332,7 @@ conservation
 console
 consolemenu
 consolemusic
+consumer
 consumption
 contact
 contacts
@@ -1354,6 +1359,7 @@ continuousdeployment
 continuousintegration
 control
 controller
+controlroom
 convereter
 converged_data_management
 conversational
@@ -1412,7 +1418,6 @@ coveralls
 coveralls.io
 covid
 covid-19
-cpm
 cppm
 cpu
 cpuid
@@ -1436,6 +1441,7 @@ creationworkflowsimplification
 creator
 cred
 credential
+credential-dialog
 credential-file
 credential-files
 credential-manager
@@ -1644,6 +1650,7 @@ dbwebapi
 dc
 dcim
 dcim_b324
+dcom
 dcr
 debian
 debug
@@ -1708,7 +1715,6 @@ der
 description
 deserialize
 desired
-desiredstate
 desiredstateconfiguration
 desk
 desktop
@@ -2065,6 +2071,7 @@ emailautomation
 emailmanagment
 emailnotification
 emailnotificationcomponent
+emailsecurity
 embedded
 emc
 emcomm
@@ -2131,7 +2138,6 @@ episode
 epplus
 eprosima
 epub
-epv
 equality
 erb
 erp
@@ -2229,6 +2235,7 @@ exchangeonlineprotection
 exchangeonprem
 exchangeserver
 exchangewebservices
+exclusion
 excuse
 exe
 exec
@@ -2254,6 +2261,7 @@ experience
 experiments
 expired
 expiring
+expiry
 exploit
 exploration
 explorer
@@ -2320,8 +2328,6 @@ feature
 features
 featuresondemand
 featureupdate
-federated
-federateddirectory
 federation
 fedex
 feed
@@ -2482,7 +2488,6 @@ fortinetmanager
 fortios
 fortune
 forum
-forwardcompatibility
 forwardedevents
 foudil
 fox
@@ -2671,10 +2676,10 @@ gobright
 godaddy
 goldengate
 goldsource
+goldsource-dedicated-server
 google
 google-chrome
 google-histogram
-google-sankey
 google-table
 googleadsv2
 googlecloudplatform
@@ -2756,7 +2761,6 @@ gwbasic
 gymnasium
 gz
 gzip
-gzip-compression
 ha
 haarlemsdagblad
 hack
@@ -2833,6 +2837,7 @@ helloworld
 helmet
 help
 helpdesk
+helpdoc
 helper
 helper-functions
 helperfunctions
@@ -3076,10 +3081,7 @@ influxdb
 info
 infoblox
 information
-information-technology
 informationbarriers
-informationtechnology
-informationtechnologyoperations
 informix
 infosec
 infrastructure
@@ -3089,6 +3091,7 @@ inheritance
 ini
 inifile
 initialization
+initials-avatar
 initiator
 inline-progress
 inlineprogress
@@ -3107,6 +3110,7 @@ inspiration
 inspirationalquotes
 inspire
 inspur
+instagram
 install
 install-module
 install-windowsimage
@@ -3222,11 +3226,9 @@ iso-3166-1
 iso-8601
 ispac
 isprime
-ispss
 issues
 isvalidemail
 isvalidip
-it
 it-support
 it-tool
 it-tools
@@ -3236,6 +3238,7 @@ itemobject
 itemstack
 iterate
 iteration
+itg
 itglue
 itin
 itop
@@ -3358,6 +3361,7 @@ kintone
 klantcontroles
 kms
 knapsack
+knetps
 knob
 knowbe4
 knowledge
@@ -3378,6 +3382,7 @@ kubernetes
 kubernetesconfiguration
 kubespray
 kudu
+kurukuru
 kusto
 kvm
 kvp
@@ -3543,6 +3548,7 @@ lockoutreport
 lockscreen
 lockstep
 lod
+lodasoft
 log
 log-administration
 log-file
@@ -3765,7 +3771,6 @@ meetup
 meetup.com
 meewind
 megabyte
-melamed
 meltdown
 mem
 member
@@ -3784,6 +3789,7 @@ mercurial
 merge
 mermaid
 message
+messagebox
 messageoftheday
 messages
 messaging
@@ -3898,6 +3904,7 @@ mof
 moldova
 moment
 monaco
+monday
 mondoo
 money
 moneyforward
@@ -4194,6 +4201,7 @@ ntdll
 ntds
 ntfs
 ntp
+ntsystems
 nuget
 nuget-references
 nuget.exe
@@ -4390,6 +4398,7 @@ osddriver
 osddrivers
 osdeploy
 osdeployment
+osdprogress
 osdsus
 osdupdate
 osi
@@ -4484,7 +4493,6 @@ partitions
 partner
 partnercenter
 partnerportal
-pas
 pass
 passcode
 passivetotal
@@ -4523,13 +4531,11 @@ pause
 pax8
 payload
 paylocity
-paypal
 pays
 pbench
 pc
 pcapng
 pci-dss
-pcloud
 pcsetup
 pcsv
 pdb
@@ -4604,6 +4610,7 @@ pipeline
 pipelines
 pipescript
 piraeus
+pivot
 pivotal
 pivottable
 pixoo
@@ -4731,15 +4738,18 @@ powershell
 powershell-class
 powershell-cmdlets
 powershell-core
+powershell-core-releases-api
 powershell-course
 powershell-credentials
 powershell-dsc
 powershell-examples
 powershell-gallery
+powershell-github-repo
 powershell-isprime
 powershell-lightning
 powershell-module
 powershell-modules
+powershell-releases-api
 powershell-remoting
 powershell-script
 powershell-terminal
@@ -4827,7 +4837,6 @@ privatekey
 privatemethods
 privateprofilestring
 privilege
-privilegecloud
 privileged
 privileges
 pro
@@ -4837,6 +4846,7 @@ processing
 processmitigation
 processor
 procs
+producer
 product
 productid
 productivity
@@ -4984,7 +4994,6 @@ psjobthreads
 pskeepass
 pslocalgallery
 psloganalytics
-psm
 psm1
 psmodule
 psmodule psedition_desktop
@@ -5180,6 +5189,7 @@ razzle
 rbac
 rbacmodel
 rbsu
+rcon
 rcs
 rcu
 rdb
@@ -5196,6 +5206,7 @@ rdpsession
 rdpsign
 rds
 rdsgw
+react-stockcharts
 read
 read-slog
 readable
@@ -5312,6 +5323,7 @@ removetypeaccelerators
 remux
 ren-isac
 rename
+reparsepoint
 repeat
 repl
 replace
@@ -5478,7 +5490,6 @@ russia
 rust
 rust-lang
 ryanairps
-ryver
 s.ds.p
 s1
 s3
@@ -5488,7 +5499,6 @@ sabnzbd
 sabnzbd+
 sacl
 safari
-safe
 safeguard
 sage
 saggiehaim
@@ -5787,6 +5797,7 @@ shadowcopy
 shadowcopybackups
 shadowgroups
 shanghaitech
+shard
 share
 share-permission
 share-stat
@@ -5972,12 +5983,14 @@ soonragent
 sophos
 sort
 source
+source-dedicated-server
 sourcecontrol
 sourceforge
 sourcegraph
 sourcemod
 sourceone
 sourcepawn
+sourcequery
 sovcloud
 space
 spaces
@@ -6084,6 +6097,7 @@ sshmanagement
 sshservers
 ssis
 ssl
+sslcert
 sslcertificate
 ssllabs
 ssllabs-scan
@@ -6139,6 +6153,7 @@ stderr
 stdio
 stdout
 steam
+steam-games
 steamcmd
 stepper
 sticker
@@ -6148,6 +6163,7 @@ stig
 stigrepo
 stingar
 stock
+stockcharts
 stocks
 stoicism
 stoics
@@ -6193,6 +6209,7 @@ sub-directory
 sub-menu
 subatomix
 subjectname
+sublimetext
 submission
 subnet
 subnet-calculator
@@ -6260,7 +6277,6 @@ sync
 synchronization
 synchronize
 syndication
-synergy
 syntax
 syntax-highlighting
 syntaxhighlighter
@@ -6282,7 +6298,6 @@ syspass
 sysprep
 system
 system information 1394 controller baseboard motherboard systemboard battery bios bus cache memory cd dvd rom drive compact disc desktop monitor disk partition fan floppy glide point heatpipe ide infrared device keyboard local logical array mouse'
-system-administration
 system-group
 system-service
 system-services
@@ -6363,7 +6378,6 @@ teamviewer
 techdirect
 techedna2014
 techlog
-technology
 techsmith
 tel
 telegram
@@ -6410,6 +6424,7 @@ test-userisadministrator
 test-xml
 test123
 testaccount
+testautomation
 testimonial
 testing
 testlab
@@ -6425,6 +6440,7 @@ text-to-image
 text-to-speach"
 text-to-speech
 text2image
+textanalysis
 textbuffer
 texting
 textprocessing
@@ -6514,6 +6530,7 @@ torrent
 torrents
 toshiba
 totp
+touch
 toughswitch
 tphubps
 tpp
@@ -6646,10 +6663,11 @@ ud-control
 ud-dashboard
 ud-datepicker
 ud-flexytable
+ud-funnel
 ud-hero
-ud-illustration
 ud-licensed
 ud-loadingoverlay
+ud-minesweeper
 ud-mouseparticle
 ud-navbarsearch
 ud-numbermask
@@ -6658,11 +6676,13 @@ ud-piechart3d
 ud-pivottable
 ud-progressstepbar
 ud-rangeslider
+ud-readingbar
 ud-scrollspy
 ud-selectdatetime
 ud-selector
 ud-signature
 ud-simpledrawer
+ud-singleselect
 ud-slider
 ud-speechbubble
 ud-step
@@ -6805,7 +6825,6 @@ uw
 uwp
 ux
 vaas
-vadim
 vagrant
 vale
 validate
@@ -6863,7 +6882,6 @@ veracrypt
 verbose
 verbose psmodule
 verification
-verify
 version
 versioning
 versionmanager
@@ -6921,7 +6939,6 @@ vlookup
 vlsm
 vm
 vmc
-vmelamed5
 vmfs
 vmgroup
 vmhost
@@ -6959,8 +6976,6 @@ volumeshadowcopy
 volumio
 vorbis
 vovin
-vpas
-vpasmodule
 vpc
 vpg
 vplex
@@ -6973,6 +6988,7 @@ vrchat
 vrealize
 vrising
 vro
+vrops
 vrsns
 vrtu
 vs
@@ -7006,6 +7022,7 @@ vxrail
 w32time
 w365
 w3svc
+w3w
 waa
 waas
 wac
@@ -7014,7 +7031,6 @@ wait4x
 waitforobject
 wakeonlan
 wakeup
-walk
 wallet
 wallpaper
 wallpapers
@@ -7051,7 +7067,6 @@ webapp
 webapplicationproxy
 webapps
 webcamera
-webcmdlets
 webdav
 webdeploy
 webfrequest
@@ -7067,6 +7082,7 @@ webpage
 webpi
 webreport
 webrequest
+webresponse
 webroot
 webserver
 webservice
@@ -7079,6 +7095,7 @@ websphere
 websphereappserver
 websphereportal
 webtest
+webtesting
 webtime
 wec
 wecutil
@@ -7089,6 +7106,7 @@ well-known
 wem
 wemsdk
 wer
+what3words
 whatismyip
 whatsnew
 whatsupgold
@@ -7187,6 +7205,7 @@ windowstimezone
 windowsupdate
 windowsupdates
 windowsvirtualdesktop
+winform
 winforms
 winget
 wingetbridge
@@ -7246,7 +7265,6 @@ workrequests
 worksheet
 workshop
 workspace
-workspaceone
 workspaces
 workstation
 world
@@ -7364,6 +7382,7 @@ yetanotherhelloworld
 yml
 ynab
 youtube
+youtube-dl
 youtubeextractor
 yq
 yubaba
@@ -7376,11 +7395,11 @@ zendesk
 zerto
 zigbee
 zip
-zip-compression
 zipfile-transform
 zisson
 zoho
 zone
+zookeeper
 zoom
 zoomapi
 zoommeeting
