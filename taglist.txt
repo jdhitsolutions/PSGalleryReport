@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Wednesday, 19 July 2023 09:53:14 UTC
+Updated: Wednesday, 19 July 2023 17:52:54 UTC
 
 ?:
 ??
@@ -152,6 +152,7 @@ add-one
 add-path
 add-type
 addin
+addlevel
 addomainservices
 addon
 address
@@ -415,9 +416,6 @@ architecuture
 archive
 archivedteams
 archivematica
-archivial
-archivial-backup
-archivial-cloud-backup
 archlinux
 arcresourcebridge
 arcus
@@ -586,16 +584,13 @@ azautomation
 azcli
 azcompute
 azd
-azdisk
 azdo
 azereo
 azforensics
 azkeyvault
 aznetworking
-aznetworkinterface
 aznicdetails
 azops
-azpublicipaddress
 azresources
 azsdk
 azsk
@@ -609,7 +604,6 @@ azure
 azure_ad
 azure_security
 azure-adx
-azure-backup
 azure-cli
 azure-data-explorer
 azure-devops
@@ -720,6 +714,7 @@ bbp
 bc
 bcd
 bcdedit
+bd
 bdd
 bds
 be.stateless
@@ -799,6 +794,7 @@ blog
 blogs
 bls
 blue
+bluedolhin
 blueprint
 blueprints
 blueteam
@@ -998,10 +994,12 @@ certinia
 certutil
 cf
 cfn
+ch9
 change
 changeanalysis
 changelog
 channel
+channel9
 char
 character
 chart
@@ -1129,7 +1127,6 @@ clone
 close-openfile
 cloud
 cloud_data_management
-cloud-backup
 cloud-computing
 cloud-init
 cloud-iq
@@ -1431,11 +1428,7 @@ crayon
 crc
 crc32
 create
-createcolumn
-createdatabase
 createprocessasuser
-createschema
-createtable
 creationworkflowsimplification
 creator
 cred
@@ -1570,8 +1563,6 @@ dashboardservice
 dast
 data
 data_protection
-data-archive
-data-backup
 data-tier
 data-uri
 data-uri-converter
@@ -1741,7 +1732,6 @@ devicecode
 deviceid
 deviceprovisioningservice
 devices
-deviceupdate
 devolutions
 devops
 devops psmodule
@@ -1798,7 +1788,6 @@ disablefilesyncngsc
 disablestartbutton
 disablestartkey
 disasm
-disasterrecovery
 disconnect
 discord
 discordrpc
@@ -1943,9 +1932,7 @@ drm
 drone.io
 drop
 dropbox
-dropdatabase
 droplet
-droptable
 drs
 drsrule
 drupal
@@ -1984,6 +1971,7 @@ duf
 dummy
 dummyusers
 dump
+dupes
 duplicate
 duplicate-files
 duplicatioin
@@ -2013,7 +2001,6 @@ dynamicsecuritygroups
 dynamicsnav
 dynamodb
 dynatrace
-dynatraceobservability
 dz
 e-mail
 easy
@@ -2261,6 +2248,7 @@ experience
 experiments
 expired
 expiring
+expiry
 exploit
 exploration
 explorer
@@ -2372,9 +2360,6 @@ filenames
 fileproperties
 filereplication
 files
-files-cli
-files-cli.exe
-files.com
 filesecurity
 fileserver
 fileserverresourcemanager
@@ -2595,6 +2580,7 @@ geolocation
 geosearching
 geotagging
 get
+get_random_password
 get-admodernreport
 get-childitem
 get-cmhealthcheck
@@ -2745,10 +2731,8 @@ groups
 grouvee
 grr
 gsuite
-gtx1080ti
 guardedfabric
 guardicore
-gubbins
 guest
 guestconfiguration
 gui
@@ -2770,7 +2754,7 @@ haarlemsdagblad
 hack
 hacking
 hacktoberfest
-hadoop
+hafr
 hailstone
 haipa
 halo
@@ -2799,7 +2783,6 @@ harperdb
 harvest
 harvestforecast
 hash
-hashcat
 hashicorp
 hashset
 hashtable
@@ -2856,7 +2839,6 @@ hg
 hibernate
 hibernation
 hibp
-hidden
 hide
 hids
 hiera
@@ -2885,7 +2867,6 @@ hockey
 hol
 holiday
 home
-home_automation
 homebrew
 homelandsecurity
 homeschooling
@@ -3084,7 +3065,10 @@ influxdb
 info
 infoblox
 information
+information-technology
 informationbarriers
+informationtechnology
+informationtechnologyoperations
 informix
 infosec
 infrastructure
@@ -3233,6 +3217,7 @@ ispss
 issues
 isvalidemail
 isvalidip
+it
 it-support
 it-tool
 it-tools
@@ -3555,10 +3540,6 @@ lod
 lodasoft
 log
 log-administration
-log-file
-log-files
-log-mail
-log-mails
 log-management
 log-rotation
 log4net
@@ -3588,8 +3569,6 @@ loginsight
 logiphys
 logistic
 logitech
-logmail
-logmails
 logman
 logoff
 logon
@@ -3659,9 +3638,7 @@ mailbox
 mailchimp
 mailgroup
 mailgroupmember
-mailing
 mailkit
-mails
 main
 main-menu
 maintain-module
@@ -4113,7 +4090,6 @@ networkloadbalancer
 networkpolicyserver
 networkscan
 networksecurity
-networksecuritygroup
 networkshares
 netwrix
 new
@@ -4317,7 +4293,6 @@ onesubscription
 onetimesecret
 oneviewglobaldashboard
 online
-online-backup
 onlinebackup
 onprem
 onpremisesdatagatewayhamgmt
@@ -4505,6 +4480,7 @@ passivetotal
 passphrase
 passphraser passphrase password generator entropy
 password
+password_generation
 password-generator
 password-less
 password-manager
@@ -4545,7 +4521,6 @@ pci-dss
 pcloud
 pcsetup
 pcsv
-pdb
 pdf
 pdf-document-processor
 pdf-files
@@ -4759,7 +4734,6 @@ powershell-lightning
 powershell-module
 powershell-modules
 powershell-releases-api
-powershell-remoting
 powershell-script
 powershell-terminal
 powershell-terminal-copilot
@@ -4773,7 +4747,6 @@ powershellconferenceeurope
 powershellcore
 powershellcourse
 powershellexamples
-powershellfar
 powershellgallery
 powershellget
 powershellgetformatversion_2.0
@@ -5729,7 +5702,6 @@ sentinelone
 sep
 seppmail
 seppmail.cloud
-seq
 sequence
 serialization
 serialize
@@ -5914,7 +5886,6 @@ slugify
 sm
 sma
 small_web
-smart_home
 smartarray
 smartarraycmdlets
 smarthome
@@ -5930,7 +5901,6 @@ smfx
 smimeemail
 smimeimap
 smimepop
-smlets
 smo
 smorgasbord
 sms
@@ -6223,6 +6193,7 @@ sub-directory
 sub-menu
 subatomix
 subjectname
+sublimetext
 submission
 subnet
 subnet-calculator
@@ -6312,6 +6283,7 @@ syspass
 sysprep
 system
 system information 1394 controller baseboard motherboard systemboard battery bios bus cache memory cd dvd rom drive compact disc desktop monitor disk partition fan floppy glide point heatpipe ide infrared device keyboard local logical array mouse'
+system-administration
 system-group
 system-service
 system-services
@@ -6392,6 +6364,7 @@ teamviewer
 techdirect
 techedna2014
 techlog
+technology
 techsmith
 tel
 telegram
@@ -6534,7 +6507,6 @@ toolkit
 tools
 tools4ever
 topdesk
-topgrade
 topics
 topology
 tor
@@ -6713,6 +6685,7 @@ ud-toploader
 ud-trendline
 ud-typing
 ud-window
+ud-wordtree
 udcm
 udfeedback
 udp
@@ -6723,7 +6696,6 @@ udthememode
 uefi
 ui
 ui/ux
-ui7
 uk
 ul
 ulid
@@ -6890,11 +6862,9 @@ veeam
 veeampn
 veeva
 venafi
-vencord
 vendor
 venue
 venvlink
-vera
 veracrypt
 verbose
 verbose psmodule
@@ -6988,7 +6958,6 @@ voice
 voiceconfig
 voiceservices
 voidtools
-volkskrant
 volta
 volume
 volumeshadowcopy
@@ -7088,12 +7057,10 @@ webapi
 webapp
 webapplicationproxy
 webapps
-webcamera
 webcmdlets
 webdav
 webdeploy
 webfrequest
-webhdfs
 webhelpdesk
 webhistory
 webhook
@@ -7112,6 +7079,7 @@ webservice
 webservices
 website
 websites
+websocket
 websockets
 websphere
 websphereappserver
