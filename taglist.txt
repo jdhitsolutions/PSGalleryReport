@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Thursday, 20 July 2023 09:53:18 UTC
+Updated: Thursday, 20 July 2023 17:53:57 UTC
 
 ?:
 ??
@@ -83,7 +83,6 @@ access-control
 access-points
 accesscontrol
 accesscontroldsc
-accessgovernancecp
 accesspoint
 accessrights
 accesstoken
@@ -269,7 +268,6 @@ aliases
 aliens
 all
 alletra
-alloydb
 alm
 almrangers
 alpha
@@ -489,7 +487,6 @@ atlassian
 atlassiancli
 atlassianps
 atmosphere
-atp
 atrium
 att&ck
 attestation
@@ -952,7 +949,6 @@ cavium
 cb
 cblueshell
 cbr
-cbz
 cchoco
 cchocoex
 ccm
@@ -1270,6 +1266,7 @@ compiler
 complete
 completer
 completion
+completionresult
 complex
 compliance
 compliant
@@ -1514,6 +1511,7 @@ currency-convereter
 currency-exchange
 currencyconverterapi
 current
+curseforge
 custom
 customchecks
 customdns
@@ -1716,6 +1714,7 @@ depute
 der
 description
 deserialize
+design
 desired
 desiredstate
 desiredstateconfiguration
@@ -2410,7 +2409,6 @@ financeandoperations
 financeoperations
 financial
 financialedge
-financials
 find
 find-call
 find-caller
@@ -2847,6 +2845,7 @@ helloworld
 helmet
 help
 helpdesk
+helpdoc
 helper
 helper-functions
 helperfunctions
@@ -3011,7 +3010,6 @@ identity-management
 identitydataplane
 identitydirector
 identitydomains
-identitynow
 idf
 idm
 idna
@@ -3252,7 +3250,6 @@ itemobject
 itemstack
 iterate
 iteration
-itg
 itglue
 itin
 itop
@@ -3576,6 +3573,7 @@ log4net
 loganalytics
 logbook
 logcat
+logentry
 logfile
 logfilearchivearchive
 logfilemanagement psmodule
@@ -4525,6 +4523,7 @@ passwordexpiration
 passwordexpiry
 passwordgeneration
 passwordgenerator
+passwordgenerators
 passwordhashing
 passwordlock
 passwordlockoutreport
@@ -4587,6 +4586,7 @@ persistent
 personal
 personalisation
 personalization
+personalvault
 personio
 pester
 pf
@@ -4777,12 +4777,14 @@ powershell-terminal-copilot
 powershell-training
 powershell.module.invokewinget
 powershell.one
+powershell.persistentpathstack
 powershell7
 powershellazuresql
 powershellconferenceeurope
 powershellcore
 powershellcourse
 powershellexamples
+powershellfar
 powershellgallery
 powershellget
 powershellgetformatversion_2.0
@@ -5013,6 +5015,7 @@ psjobs
 psjobthreads
 pskeepass
 pslocalgallery
+psloganalytics
 psm
 psm1
 psmodule
@@ -5035,6 +5038,9 @@ pspath
 pspersonio
 pspowerhour
 psprofiler
+psproject
+psprojectcreator
+psprojectgenerator
 psprovider
 psprtg
 pspublicapi
@@ -5521,7 +5527,6 @@ safe
 safeguard
 sage
 saggiehaim
-sailpoint
 sale
 sales
 salesforce
@@ -5662,6 +5667,7 @@ secrets
 secretsanta
 secretscanner
 secretserver
+secretsmanager
 secretvault
 section
 secur32
@@ -5795,6 +5801,7 @@ sets
 setting
 settings
 setup
+setupbase.certificate
 setupbase.env
 setupbase.install
 setupbase.publish
@@ -5814,7 +5821,6 @@ shadowcopy
 shadowcopybackups
 shadowgroups
 shanghaitech
-shard
 share
 share-permission
 share-stat
@@ -6114,7 +6120,6 @@ sshmanagement
 sshservers
 ssis
 ssl
-sslcert
 sslcertificate
 ssllabs
 ssllabs-scan
@@ -6330,6 +6335,7 @@ systeminformation
 systemlocale
 systems
 systemsplash
+systray
 t
 t-sql
 tab
@@ -6682,12 +6688,10 @@ ud-confetti
 ud-control
 ud-dashboard
 ud-datepicker
-ud-field
 ud-flexytable
 ud-funnel
 ud-hero
 ud-illustration
-ud-input
 ud-licensed
 ud-loadingoverlay
 ud-minesweeper
@@ -6867,6 +6871,7 @@ variants
 vastlimits
 vault
 vaultextension
+vaultstore
 vb365
 vba
 vbaproject
@@ -7069,6 +7074,7 @@ wapi
 warning
 warplaneporn
 warranty
+warraty
 warrenty
 wasabi
 watch
@@ -7098,6 +7104,7 @@ webdav
 webdeploy
 webfrequest
 webhdfs
+webhelpdesk
 webhistory
 webhook
 webinspect
@@ -7136,6 +7143,7 @@ what3words
 whatismyip
 whatsnew
 whatsupgold
+whd
 where
 whfb
 whiteboard
@@ -7315,6 +7323,7 @@ write-debug
 write-host
 write-information
 write-log
+write-loganalytics
 write-message
 write-progress
 write-slog
