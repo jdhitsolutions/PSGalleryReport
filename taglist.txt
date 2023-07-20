@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Thursday, 20 July 2023 02:12:35 UTC
+Updated: Thursday, 20 July 2023 09:53:18 UTC
 
 ?:
 ??
@@ -16,6 +16,7 @@ Updated: Thursday, 20 July 2023 02:12:35 UTC
 'provider'
 "interactive
 🍄
+🍣
 💩
 10
 11
@@ -920,6 +921,7 @@ canarie
 cancel
 cancellation
 canonical
+cantara
 capability
 capacity
 capgemini
@@ -1268,7 +1270,6 @@ compiler
 complete
 completer
 completion
-completionresult
 complex
 compliance
 compliant
@@ -1513,7 +1514,6 @@ currency-convereter
 currency-exchange
 currencyconverterapi
 current
-curseforge
 custom
 customchecks
 customdns
@@ -2306,6 +2306,7 @@ factoryorchestrator
 factoryorchestratorclient
 facts
 faf
+failedlogin
 failure
 falcon
 fallbackstatuspoint
@@ -2409,6 +2410,7 @@ financeandoperations
 financeoperations
 financial
 financialedge
+financials
 find
 find-call
 find-caller
@@ -2845,7 +2847,6 @@ helloworld
 helmet
 help
 helpdesk
-helpdoc
 helper
 helper-functions
 helperfunctions
@@ -3010,9 +3011,11 @@ identity-management
 identitydataplane
 identitydirector
 identitydomains
+identitynow
 idf
 idm
 idna
+ids
 ie
 iem
 ifconfig
@@ -3087,7 +3090,10 @@ influxdb
 info
 infoblox
 information
+information-technology
 informationbarriers
+informationtechnology
+informationtechnologyoperations
 informix
 infosec
 infrastructure
@@ -3236,6 +3242,7 @@ ispss
 issues
 isvalidemail
 isvalidip
+it
 it-support
 it-tool
 it-tools
@@ -3245,6 +3252,7 @@ itemobject
 itemstack
 iterate
 iteration
+itg
 itglue
 itin
 itop
@@ -3327,6 +3335,7 @@ karabiner-elements
 karma
 kaseya
 kaseyavsa
+kaspersky
 katakana
 kb
 kbarticle
@@ -3554,6 +3563,7 @@ lockoutreport
 lockscreen
 lockstep
 lod
+lodasoft
 log
 log-administration
 log-file
@@ -3566,7 +3576,6 @@ log4net
 loganalytics
 logbook
 logcat
-logentry
 logfile
 logfilearchivearchive
 logfilemanagement psmodule
@@ -3729,6 +3738,7 @@ matcharray
 matchhashtable
 materialdesign
 materialui
+mateso
 math
 mathematics
 matplotlib
@@ -3746,6 +3756,7 @@ mc
 mcafee
 mcas
 mchapv2
+mct
 md5
 md5_v2-afbf3dae88c049d004174f2d610ee134
 md5sum
@@ -3794,6 +3805,7 @@ mercurial
 merge
 mermaid
 message
+messagebox
 messageoftheday
 messages
 messaging
@@ -4114,6 +4126,7 @@ networkscan
 networksecurity
 networksecuritygroup
 networkshares
+netwrix
 new
 new-completionresult
 new-dtcmpackagefromdriverpackpackagedefinitionsms
@@ -4276,6 +4289,7 @@ office365
 officedev
 officegraph
 officemessageencryption
+officertool
 offline
 offlinewimservicing
 ofx
@@ -4511,13 +4525,14 @@ passwordexpiration
 passwordexpiry
 passwordgeneration
 passwordgenerator
-passwordgenerators
 passwordhashing
 passwordlock
 passwordlockoutreport
 passwordmanagement
 passwordmanager
 passwords
+passwordsecure
+passwordspray
 passwordstate
 passwordtool
 passwordvault
@@ -4762,14 +4777,12 @@ powershell-terminal-copilot
 powershell-training
 powershell.module.invokewinget
 powershell.one
-powershell.persistentpathstack
 powershell7
 powershellazuresql
 powershellconferenceeurope
 powershellcore
 powershellcourse
 powershellexamples
-powershellfar
 powershellgallery
 powershellget
 powershellgetformatversion_2.0
@@ -5000,7 +5013,6 @@ psjobs
 psjobthreads
 pskeepass
 pslocalgallery
-psloganalytics
 psm
 psm1
 psmodule
@@ -5023,9 +5035,6 @@ pspath
 pspersonio
 pspowerhour
 psprofiler
-psproject
-psprojectcreator
-psprojectgenerator
 psprovider
 psprtg
 pspublicapi
@@ -5109,6 +5118,7 @@ pvs
 pwa
 pwned
 pwpush
+pwsafe
 pwsh
 pwsh.fw
 pwshake
@@ -5153,6 +5163,7 @@ quickaccess
 quickbase
 quickbooks
 quicksetup
+qumulo
 quota
 quote
 quoteoftheday
@@ -5510,6 +5521,7 @@ safe
 safeguard
 sage
 saggiehaim
+sailpoint
 sale
 sales
 salesforce
@@ -5783,7 +5795,6 @@ sets
 setting
 settings
 setup
-setupbase.certificate
 setupbase.env
 setupbase.install
 setupbase.publish
@@ -5959,6 +5970,7 @@ social
 social-media
 socialmedia
 socketlabs
+sockets
 sodium
 software
 softwarecenter
@@ -6252,6 +6264,7 @@ supress-reboot
 surround
 survey
 surveymonkey
+sushi
 suspensive
 svesavov
 svetoslav
@@ -6303,6 +6316,7 @@ syspass
 sysprep
 system
 system information 1394 controller baseboard motherboard systemboard battery bios bus cache memory cd dvd rom drive compact disc desktop monitor disk partition fan floppy glide point heatpipe ide infrared device keyboard local logical array mouse'
+system-administration
 system-group
 system-service
 system-services
@@ -6316,7 +6330,6 @@ systeminformation
 systemlocale
 systems
 systemsplash
-systray
 t
 t-sql
 tab
@@ -6383,6 +6396,7 @@ teamviewer
 techdirect
 techedna2014
 techlog
+technology
 techsmith
 tel
 telegram
@@ -6614,6 +6628,7 @@ tst1
 tst3
 ttrpg
 tts
+tubedownloader
 tui
 tulpep
 tuner
@@ -6819,7 +6834,6 @@ utf-sig
 utf7
 utf8
 utf8-sig
-utf8bom
 util
 utilities
 utility
@@ -6979,6 +6993,7 @@ voice
 voiceconfig
 voiceservices
 voidtools
+volkskrant
 volta
 volume
 volumeshadowcopy
@@ -7032,6 +7047,7 @@ vvx
 vxrail
 w32time
 w365
+w3svc
 w3w
 waa
 waas
@@ -7053,7 +7069,6 @@ wapi
 warning
 warplaneporn
 warranty
-warraty
 warrenty
 wasabi
 watch
@@ -7083,7 +7098,6 @@ webdav
 webdeploy
 webfrequest
 webhdfs
-webhelpdesk
 webhistory
 webhook
 webinspect
@@ -7122,7 +7136,6 @@ what3words
 whatismyip
 whatsnew
 whatsupgold
-whd
 where
 whfb
 whiteboard
@@ -7194,6 +7207,7 @@ windowsinstaller
 windowsinternaldatabase
 windowsinternals
 windowsiotservices
+windowsiso
 windowsmanagementframework
 windowspackagemanager
 windowsplugins
@@ -7217,6 +7231,7 @@ windowstimezone
 windowsupdate
 windowsupdates
 windowsvirtualdesktop
+winform
 winforms
 winget
 wingetbridge
@@ -7300,7 +7315,6 @@ write-debug
 write-host
 write-information
 write-log
-write-loganalytics
 write-message
 write-progress
 write-slog
@@ -7426,5 +7440,6 @@ zvmlinux
 ひらがな
 ローマ字
 全角半角変換
+寿司
 日本語
 湯婆婆
