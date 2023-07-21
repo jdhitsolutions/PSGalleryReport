@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Friday, 21 July 2023 02:13:28 UTC
+Updated: Friday, 21 July 2023 09:54:44 UTC
 
 ?:
 ??
@@ -498,6 +498,7 @@ attribute
 attributes
 au
 audio
+audiocodes
 audit
 auditing
 auditpol
@@ -511,6 +512,7 @@ authenticate
 authentication
 authenticationcertificate
 authenticode
+authn
 author
 authoring
 authoringtools
@@ -518,6 +520,7 @@ authority
 authorization
 authorizationheaders
 authorize.net
+authz
 autify
 auto
 auto_cd
@@ -544,7 +547,6 @@ autostart
 autotask
 autotaskapi
 autotaskpsa
-autounattend
 autoupdate
 autoupdate-script
 autoyast
@@ -821,6 +823,7 @@ bootstrap
 bootstrapping
 bop
 bot
+bots
 botservice
 bouncer
 boundaries
@@ -863,7 +866,6 @@ budget
 bugbounty
 bugzilla
 build
-build-log
 build-scripts
 builddefinition
 builder
@@ -1044,6 +1046,7 @@ christmas
 chrome
 chromium
 chunk
+churchofjesuschrist
 ci
 ci/cd
 cic
@@ -1326,6 +1329,7 @@ connections
 connectionsmanager
 connectionstring
 connectwise
+conservation
 console
 consolemenu
 consolemusic
@@ -1782,7 +1786,6 @@ directories
 directory
 directory psedition_core psedition_desktop
 directory-transform
-directorymarks
 directoryname
 directorysearcher
 directorysecurity
@@ -1852,7 +1855,6 @@ dns-client
 dns-over-https
 dns-resolver
 dnsbl
-dnsclient
 dnsdumpster
 dnsentry
 dnsimple
@@ -1866,7 +1868,6 @@ dnssuffix
 dnvm
 doc
 docfx
-dock
 docker
 docker-compose
 docker-image
@@ -1875,7 +1876,6 @@ docker-volumes
 dockerfile
 dockerize
 dockerswarm
-docking
 docs
 document
 documentation
@@ -1996,7 +1996,6 @@ dutch
 dvls
 dxexpeditions
 dynamic
-dynamic-host-configuration-protocol
 dynamicdistributiongroups
 dynamicdnsoverhttps
 dynamicparam
@@ -2543,7 +2542,6 @@ funny
 fusion
 fusionapps
 fuzzy
-fyi
 fzf
 gac
 gainz
@@ -2737,6 +2735,7 @@ grep
 greynoise
 grid
 gridfs
+grok
 groundspeak
 group
 group-membership
@@ -2876,7 +2875,6 @@ hipchat
 hiragana
 histogram
 history
-historyninja
 hitrust
 hive
 hivehome
@@ -3008,7 +3006,6 @@ identity-management
 identitydataplane
 identitydirector
 identitydomains
-identitynow
 idf
 idm
 idna
@@ -3096,7 +3093,6 @@ infosec
 infrastructure
 infrastructureascode
 ingestion
-inheritance
 ini
 inifile
 initialization
@@ -3119,6 +3115,7 @@ inspiration
 inspirationalquotes
 inspire
 inspur
+instagram
 install
 install-module
 install-windowsimage
@@ -3292,7 +3289,6 @@ jojoba
 joke
 jotform
 journal
-joyride
 jpg
 jq
 js7
@@ -3361,7 +3357,6 @@ keymapping
 keypair
 keysms
 keyvault
-keywords
 kibana
 kickstart
 kidrsa
@@ -3381,6 +3376,7 @@ koans
 korn
 kotlin
 kql
+kraken
 krbtgt
 krick
 kschemaplugin
@@ -3439,6 +3435,7 @@ launcher
 layer
 layman
 layout
+lazywinadmin
 lbd
 lbi
 lbs
@@ -3519,7 +3516,6 @@ liquit
 liquit.com
 list
 list_files
-list-directory
 list-item
 listener
 litecoin
@@ -3557,6 +3553,7 @@ lockoutreport
 lockscreen
 lockstep
 lod
+lodasoft
 log
 log-administration
 log-file
@@ -3632,6 +3629,7 @@ ltm
 lucd
 lucene
 lunches
+lwa
 lxca
 lxcapstool
 lxco
@@ -3769,6 +3767,7 @@ measure-loc
 measure-process
 mecm
 media
+mediant
 mediaplayer
 mediaservices
 mediawiki
@@ -4722,6 +4721,7 @@ postgre
 postgres
 postgresql
 pow
+powdrgit
 power
 power-cbr
 power-shell
@@ -4770,6 +4770,7 @@ powershell-terminal-copilot
 powershell-training
 powershell.module.invokewinget
 powershell.one
+powershell.persistentpathstack
 powershell7
 powershellazuresql
 powershellconferenceeurope
@@ -5519,7 +5520,6 @@ safe
 safeguard
 sage
 saggiehaim
-sailpoint
 sale
 sales
 salesforce
@@ -5644,7 +5644,6 @@ sdn
 sdp
 search
 search-adminauditlog
-search-engines
 searchengine
 searcher
 searching
@@ -5665,7 +5664,6 @@ secretvault
 section
 secur32
 secure
-secureapplicationmodel
 securechannel
 securedns
 securegopher
@@ -5748,7 +5746,6 @@ servermanagement
 servers
 service
 service-bus
-service-messages
 servicebus
 servicebusforwindowsserver
 servicecatalog
@@ -5943,9 +5940,7 @@ smtpauth
 smtpoauth
 smtpsasl
 smtpsecure
-snap
 snapchat
-snapping
 snapshot
 snapshots
 snipe-it
@@ -6330,6 +6325,7 @@ systeminformation
 systemlocale
 systems
 systemsplash
+systray
 t
 t-sql
 tab
@@ -6562,6 +6558,7 @@ tracert
 tracing
 tracker
 tracking
+trading
 trafficfiltering
 trafficmanager
 trafficmarking
@@ -6711,14 +6708,12 @@ ud-step
 ud-stepbar
 ud-stickynavbar
 ud-tagcloud
-ud-timeline
 ud-timeout
 ud-tool
 ud-toploader
 ud-trendline
 ud-typing
 ud-window
-ud-wordtree
 udcm
 udfeedback
 udp
@@ -6833,6 +6828,7 @@ utf-sig
 utf7
 utf8
 utf8-sig
+utf8bom
 util
 utilities
 utility
@@ -7012,7 +7008,6 @@ vps
 vra
 vrchat
 vrealize
-vrising
 vro
 vrops
 vrsns
@@ -7026,7 +7021,6 @@ vscode
 vsdevcmd
 vsdevshell
 vsenvironment
-vsm
 vso
 vsphere
 vsphere+
@@ -7069,7 +7063,6 @@ wapi
 warning
 warplaneporn
 warranty
-warraty
 warrenty
 wasabi
 watch
@@ -7149,7 +7142,6 @@ whormi
 wi-fi
 wia
 wia.imagefile
-wid
 widedata
 wif
 wifi
@@ -7207,7 +7199,6 @@ windowsform
 windowsforms
 windowsindex
 windowsinstaller
-windowsinternaldatabase
 windowsinternals
 windowsiotservices
 windowsiso
@@ -7412,6 +7403,7 @@ yetanotherhelloworld
 yml
 ynab
 youtube
+youtube-dl
 youtubeextractor
 yq
 yubaba
