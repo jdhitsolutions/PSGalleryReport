@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Friday, 21 July 2023 09:54:44 UTC
+Updated: Friday, 21 July 2023 17:54:05 UTC
 
 ?:
 ??
@@ -348,7 +348,6 @@ apigateway
 apigee
 apigeeedge
 apimanagement
-apis
 aplication
 apm
 apmconfig
@@ -547,6 +546,7 @@ autostart
 autotask
 autotaskapi
 autotaskpsa
+autounattend
 autoupdate
 autoupdate-script
 autoyast
@@ -820,7 +820,6 @@ books
 bool
 bootloader psmodule
 bootstrap
-bootstrapping
 bop
 bot
 bots
@@ -866,6 +865,7 @@ budget
 bugbounty
 bugzilla
 build
+build-log
 build-scripts
 builddefinition
 builder
@@ -1024,10 +1024,6 @@ checklists
 checkpoint
 checks
 checksum
-chef
-chef-automate
-chef-compliance
-chef-server
 chefconf2016
 chenxizhang
 cherrypy
@@ -1786,6 +1782,7 @@ directories
 directory
 directory psedition_core psedition_desktop
 directory-transform
+directorymarks
 directoryname
 directorysearcher
 directorysecurity
@@ -1798,8 +1795,6 @@ disable
 disable-internet
 disable-psremoting
 disablefilesyncngsc
-disablestartbutton
-disablestartkey
 disasm
 disasterrecovery
 disconnect
@@ -1855,6 +1850,7 @@ dns-client
 dns-over-https
 dns-resolver
 dnsbl
+dnsclient
 dnsdumpster
 dnsentry
 dnsimple
@@ -1868,6 +1864,7 @@ dnssuffix
 dnvm
 doc
 docfx
+dock
 docker
 docker-compose
 docker-image
@@ -1876,6 +1873,7 @@ docker-volumes
 dockerfile
 dockerize
 dockerswarm
+docking
 docs
 document
 documentation
@@ -2875,6 +2873,7 @@ hipchat
 hiragana
 histogram
 history
+historyninja
 hitrust
 hive
 hivehome
@@ -2970,7 +2969,6 @@ ia
 iaas
 iac
 iam
-iana
 iap
 ias
 ib
@@ -3006,6 +3004,7 @@ identity-management
 identitydataplane
 identitydirector
 identitydomains
+identitynow
 idf
 idm
 idna
@@ -3093,6 +3092,7 @@ infosec
 infrastructure
 infrastructureascode
 ingestion
+inheritance
 ini
 inifile
 initialization
@@ -3217,7 +3217,6 @@ irc
 irkit
 irregular
 isadmin
-isbn
 iscsi
 isdate
 ise
@@ -3289,6 +3288,7 @@ jojoba
 joke
 jotform
 journal
+joyride
 jpg
 jq
 js7
@@ -3348,7 +3348,6 @@ key2wocas
 keybase
 keybinding
 keyboard
-keyboardstartkey
 keycipher
 keylight
 keymanagement
@@ -3357,6 +3356,7 @@ keymapping
 keypair
 keysms
 keyvault
+keywords
 kibana
 kickstart
 kidrsa
@@ -3439,7 +3439,6 @@ lazywinadmin
 lbd
 lbi
 lbs
-lccn
 lcm
 lcminternals
 ldap
@@ -3516,6 +3515,7 @@ liquit
 liquit.com
 list
 list_files
+list-directory
 list-item
 listener
 litecoin
@@ -3914,7 +3914,6 @@ monaco
 monday
 mondoo
 money
-moneyforward
 mongo
 mongodb
 monitor
@@ -4516,7 +4515,6 @@ passwordexpiration
 passwordexpiry
 passwordgeneration
 passwordgenerator
-passwordgenerators
 passwordhashing
 passwordlock
 passwordlockoutreport
@@ -4798,7 +4796,6 @@ powertab
 powertoolcmdlets
 powertooldsc
 ppdm
-ppk
 pposh
 pps
 ppt
@@ -5100,7 +5097,6 @@ puppetdb
 puppy
 pure
 pure1
-pureservice
 purestorage
 purple
 purview
@@ -5520,6 +5516,7 @@ safe
 safeguard
 sage
 saggiehaim
+sailpoint
 sale
 sales
 salesforce
@@ -5644,6 +5641,7 @@ sdn
 sdp
 search
 search-adminauditlog
+search-engines
 searchengine
 searcher
 searching
@@ -5664,6 +5662,7 @@ secretvault
 section
 secur32
 secure
+secureapplicationmodel
 securechannel
 securedns
 securegopher
@@ -5746,6 +5745,7 @@ servermanagement
 servers
 service
 service-bus
+service-messages
 servicebus
 servicebusforwindowsserver
 servicecatalog
@@ -5940,7 +5940,9 @@ smtpauth
 smtpoauth
 smtpsasl
 smtpsecure
+snap
 snapchat
+snapping
 snapshot
 snapshots
 snipe-it
@@ -6140,7 +6142,6 @@ start
 start-job
 start-jobthread
 start-threadjob
-startkey
 startmen
 startmenu
 starwars
@@ -6338,7 +6339,6 @@ tabexpansion2
 tablacus
 table
 tableau
-tabler
 tables
 tablestorage
 tabs
@@ -6714,6 +6714,7 @@ ud-toploader
 ud-trendline
 ud-typing
 ud-window
+ud-wordtree
 udcm
 udfeedback
 udp
@@ -7008,6 +7009,7 @@ vps
 vra
 vrchat
 vrealize
+vrising
 vro
 vrops
 vrsns
@@ -7063,6 +7065,7 @@ wapi
 warning
 warplaneporn
 warranty
+warraty
 warrenty
 wasabi
 watch
@@ -7142,6 +7145,7 @@ whormi
 wi-fi
 wia
 wia.imagefile
+wid
 widedata
 wif
 wifi
@@ -7199,6 +7203,7 @@ windowsform
 windowsforms
 windowsindex
 windowsinstaller
+windowsinternaldatabase
 windowsinternals
 windowsiotservices
 windowsiso
@@ -7221,7 +7226,6 @@ windowsservice
 windowsservices
 windowsstore
 windowsterminal
-windowstimezone
 windowsupdate
 windowsupdates
 windowsvirtualdesktop
