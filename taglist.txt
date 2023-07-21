@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Thursday, 20 July 2023 17:53:57 UTC
+Updated: Friday, 21 July 2023 02:13:28 UTC
 
 ?:
 ??
@@ -83,6 +83,7 @@ access-control
 access-points
 accesscontrol
 accesscontroldsc
+accessgovernancecp
 accesspoint
 accessrights
 accesstoken
@@ -268,6 +269,7 @@ aliases
 aliens
 all
 alletra
+alloydb
 alm
 almrangers
 alpha
@@ -487,6 +489,7 @@ atlassian
 atlassiancli
 atlassianps
 atmosphere
+atp
 atrium
 att&ck
 attestation
@@ -495,7 +498,6 @@ attribute
 attributes
 au
 audio
-audiocodes
 audit
 auditing
 auditpol
@@ -509,7 +511,6 @@ authenticate
 authentication
 authenticationcertificate
 authenticode
-authn
 author
 authoring
 authoringtools
@@ -517,7 +518,6 @@ authority
 authorization
 authorizationheaders
 authorize.net
-authz
 autify
 auto
 auto_cd
@@ -821,7 +821,6 @@ bootstrap
 bootstrapping
 bop
 bot
-bots
 botservice
 bouncer
 boundaries
@@ -949,6 +948,7 @@ cavium
 cb
 cblueshell
 cbr
+cbz
 cchoco
 cchocoex
 ccm
@@ -1044,7 +1044,6 @@ christmas
 chrome
 chromium
 chunk
-churchofjesuschrist
 ci
 ci/cd
 cic
@@ -1327,7 +1326,6 @@ connections
 connectionsmanager
 connectionstring
 connectwise
-conservation
 console
 consolemenu
 consolemusic
@@ -2409,6 +2407,7 @@ financeandoperations
 financeoperations
 financial
 financialedge
+financials
 find
 find-call
 find-caller
@@ -2738,7 +2737,6 @@ grep
 greynoise
 grid
 gridfs
-grok
 groundspeak
 group
 group-membership
@@ -3010,6 +3008,7 @@ identity-management
 identitydataplane
 identitydirector
 identitydomains
+identitynow
 idf
 idm
 idna
@@ -3120,7 +3119,6 @@ inspiration
 inspirationalquotes
 inspire
 inspur
-instagram
 install
 install-module
 install-windowsimage
@@ -3250,6 +3248,7 @@ itemobject
 itemstack
 iterate
 iteration
+itg
 itglue
 itin
 itop
@@ -3382,7 +3381,6 @@ koans
 korn
 kotlin
 kql
-kraken
 krbtgt
 krick
 kschemaplugin
@@ -3441,7 +3439,6 @@ launcher
 layer
 layman
 layout
-lazywinadmin
 lbd
 lbi
 lbs
@@ -3560,7 +3557,6 @@ lockoutreport
 lockscreen
 lockstep
 lod
-lodasoft
 log
 log-administration
 log-file
@@ -3636,7 +3632,6 @@ ltm
 lucd
 lucene
 lunches
-lwa
 lxca
 lxcapstool
 lxco
@@ -3774,7 +3769,6 @@ measure-loc
 measure-process
 mecm
 media
-mediant
 mediaplayer
 mediaservices
 mediawiki
@@ -4728,7 +4722,6 @@ postgre
 postgres
 postgresql
 pow
-powdrgit
 power
 power-cbr
 power-shell
@@ -4777,7 +4770,6 @@ powershell-terminal-copilot
 powershell-training
 powershell.module.invokewinget
 powershell.one
-powershell.persistentpathstack
 powershell7
 powershellazuresql
 powershellconferenceeurope
@@ -5527,6 +5519,7 @@ safe
 safeguard
 sage
 saggiehaim
+sailpoint
 sale
 sales
 salesforce
@@ -5821,6 +5814,7 @@ shadowcopy
 shadowcopybackups
 shadowgroups
 shanghaitech
+shard
 share
 share-permission
 share-stat
@@ -6120,6 +6114,7 @@ sshmanagement
 sshservers
 ssis
 ssl
+sslcert
 sslcertificate
 ssllabs
 ssllabs-scan
@@ -6335,7 +6330,6 @@ systeminformation
 systemlocale
 systems
 systemsplash
-systray
 t
 t-sql
 tab
@@ -6568,7 +6562,6 @@ tracert
 tracing
 tracker
 tracking
-trading
 trafficfiltering
 trafficmanager
 trafficmarking
@@ -6688,10 +6681,12 @@ ud-confetti
 ud-control
 ud-dashboard
 ud-datepicker
+ud-field
 ud-flexytable
 ud-funnel
 ud-hero
 ud-illustration
+ud-input
 ud-licensed
 ud-loadingoverlay
 ud-minesweeper
@@ -7417,7 +7412,6 @@ yetanotherhelloworld
 yml
 ynab
 youtube
-youtube-dl
 youtubeextractor
 yq
 yubaba
