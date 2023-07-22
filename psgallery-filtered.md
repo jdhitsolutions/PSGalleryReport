@@ -3,6 +3,14 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [PSNotion](https://www.powershellgallery.com/Packages/PSNotion/1.0.4) | 1.0.4
+
+### Published: 07/22/2023 07:29:22 by Damian Garbus
+
+Powershell Module for Notion
+
+__Downloads__: 0 | __Repository__: https://github.com/PoshlandPro/PSNotion/tree/main
+
 ## [HelpParser](https://www.powershellgallery.com/Packages/HelpParser/0.3.2) | 0.3.2
 
 ### Published: 07/22/2023 02:01:56 by Jon Carrier
@@ -109,7 +117,7 @@ __Downloads__: 1,089 | __Repository__:
 
 Cmdlets for Twincat ADS and device management for Powershell Core and Windows Powershell
 
-__Downloads__: 13,478 | __Repository__: https://infosys.beckhoff.com/content/1033/tc3_ads_ps_tcxaemgmt/3972231819.html?id=8731138690123386389
+__Downloads__: 13,477 | __Repository__: https://infosys.beckhoff.com/content/1033/tc3_ads_ps_tcxaemgmt/3972231819.html?id=8731138690123386389
 
 ## [NTS.Tools.MSHyperV](https://www.powershellgallery.com/Packages/NTS.Tools.MSHyperV/1.0.3.7) | 1.0.3.7
 
@@ -133,7 +141,7 @@ __Downloads__: 1,099 | __Repository__:
 
 NTS.Tools.MSADDS module contains functions that are mainly related to Microsoft Active Directory Domain Services
 
-__Downloads__: 1,076 | __Repository__: 
+__Downloads__: 1,077 | __Repository__: 
 
 ## [NTS.Tools.MSADCS](https://www.powershellgallery.com/Packages/NTS.Tools.MSADCS/1.0.1.3) | 1.0.1.3
 
@@ -149,7 +157,7 @@ __Downloads__: 1,093 | __Repository__:
 
 NTS.Tools.Application module contains functions to install applications
 
-__Downloads__: 106 | __Repository__: 
+__Downloads__: 107 | __Repository__: 
 
 ## [NTS.Tools.General](https://www.powershellgallery.com/Packages/NTS.Tools.General/1.0.0.5) | 1.0.0.5
 
@@ -181,7 +189,7 @@ __Downloads__: 3,938 | __Repository__: https://github.com/azsk/azsk-docs
 
 Powershell Module to interact with the PowerProdect Data Manager (PPDM) API
 
-__Downloads__: 3,159 | __Repository__: https://github.com/bottkars/PPDM-pwsh
+__Downloads__: 3,161 | __Repository__: https://github.com/bottkars/PPDM-pwsh
 
 ## [SpecTeamViewerLegacy](https://www.powershellgallery.com/Packages/SpecTeamViewerLegacy/1.0.1) | 1.0.1
 
@@ -191,13 +199,21 @@ Functions to control legacy Team Viewer
 
 __Downloads__: 0 | __Repository__: 
 
+## [ModuleWithDependency](https://www.powershellgallery.com/Packages/ModuleWithDependency/0.0.1) | 0.0.1
+
+### Published: 07/21/2023 05:17:21 by americks
+
+Test module that requires a dependency
+
+__Downloads__: 7 | __Repository__: 
+
 ## [SdnDiagnostics](https://www.powershellgallery.com/Packages/SdnDiagnostics/3.2307.736.40925) | 3.2307.736.40925
 
 ### Published: 07/21/2023 04:09:55 by Adam Rudell Luyao Feng
 
 SdnDiagnostics is a tool used to simplify the data collection and diagnostics of Windows Software Defined Networking.
 
-__Downloads__: 30,181 | __Repository__: https://github.com/microsoft/SdnDiagnostics
+__Downloads__: 30,179 | __Repository__: https://github.com/microsoft/SdnDiagnostics
 
 ## [Prelude](https://www.powershellgallery.com/Packages/Prelude/0.2.3) | 0.2.3
 
@@ -237,7 +253,7 @@ __Downloads__: 1 | __Repository__:
 
 The module includes cmdlets to manage MSP360 (CloudBerry) Backup agent, MBS API and tools.
 
-__Downloads__: 3,253,153 | __Repository__: https://mspbackups.com/AP/Help/powershell
+__Downloads__: 3,253,331 | __Repository__: https://mspbackups.com/AP/Help/powershell
 
 ## [SpecCreateModule](https://www.powershellgallery.com/Packages/SpecCreateModule/1.0.1) | 1.0.1
 
@@ -313,7 +329,7 @@ __Downloads__: 3,065 | __Repository__: https://matteoguadrini.github.io/PSCouchD
 
 TeamViewerPS allows to interact with the TeamViewer Web API as well as a locally installed TeamViewer client.
 
-__Downloads__: 21,892,331 | __Repository__: https://github.com/teamviewer/TeamViewerPS
+__Downloads__: 21,892,766 | __Repository__: https://github.com/teamviewer/TeamViewerPS
 
 ## [Posh](https://www.powershellgallery.com/Packages/Posh/0.1) | 0.1
 
@@ -361,7 +377,7 @@ __Downloads__: 67 | __Repository__: https://drive.google.com/drive/u/0/folders/1
 
 Cross-platform Console Gui Tools for PowerShell
 
-__Downloads__: 62,278 | __Repository__: https://github.com/PowerShell/GraphicalTools/
+__Downloads__: 62,281 | __Repository__: https://github.com/PowerShell/GraphicalTools/
 
 ## [VsDevShell](https://www.powershellgallery.com/Packages/VsDevShell/2023.2.0) | 2023.2.0
 
@@ -409,7 +425,7 @@ __Downloads__: 28 | __Repository__: https://github.com/Douda/PSSymantecCloud
 
 Tedon Utilities module
 
-__Downloads__: 27,627 | __Repository__: https://github.com/ehagen/TD.Util
+__Downloads__: 27,625 | __Repository__: https://github.com/ehagen/TD.Util
 
 ## [Mailozaurr](https://www.powershellgallery.com/Packages/Mailozaurr/1.0.1) | 1.0.1
 
@@ -467,7 +483,7 @@ __Downloads__: 112 | __Repository__: https://github.com/Azure/Cloud-Katana
 
 Master module for a collection of modules. These modules are varied in their tasks. The overall purpose of them being to provide a powerfull Toolset to improve IT Admin workflows.
 
-__Downloads__: 28,666 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox
+__Downloads__: 28,668 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox
 
 ## [AdminToolbox.FortiWizard](https://www.powershellgallery.com/Packages/AdminToolbox.FortiWizard/2.18.2) | 2.18.2
 
@@ -499,7 +515,7 @@ __Downloads__: 14,329 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions for working with Office365 and Azure modules
 
-__Downloads__: 15,568 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 15,565 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.Networking](https://www.powershellgallery.com/Packages/AdminToolbox.Networking/2.18.4) | 2.18.4
 
@@ -547,7 +563,7 @@ __Downloads__: 14,875 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions for Exchange Management
 
-__Downloads__: 15,863 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 15,860 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.EndpointManagement](https://www.powershellgallery.com/Packages/AdminToolbox.EndpointManagement/4.9.89) | 4.9.89
 
@@ -555,7 +571,7 @@ __Downloads__: 15,863 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions for management of endpoints
 
-__Downloads__: 16,494 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 16,491 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.ActiveDirectory](https://www.powershellgallery.com/Packages/AdminToolbox.ActiveDirectory/1.9.94) | 1.9.94
 
@@ -703,14 +719,6 @@ This modules provides Cmdlets for OCI Tenantmanagercontrolplane Service
 
 __Downloads__: 3,203 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-## [TrainingUtils.CSCN](https://www.powershellgallery.com/Packages/TrainingUtils.CSCN/1.5) | 1.5
-
-### Published: 07/18/2023 21:26:00 by Cristhian Cabral
-
-Training Modulo for Logs
-
-__Downloads__: 20 | __Repository__: 
-
 ## [OCI.PSModules.Streaming](https://www.powershellgallery.com/Packages/OCI.PSModules.Streaming/62.0.0) | 62.0.0
 
 ### Published: 07/18/2023 21:26:00 by Oracle Cloud Infrastructure
@@ -718,6 +726,14 @@ __Downloads__: 20 | __Repository__:
 This modules provides Cmdlets for OCI Streaming Service
 
 __Downloads__: 3,317 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+
+## [TrainingUtils.CSCN](https://www.powershellgallery.com/Packages/TrainingUtils.CSCN/1.5) | 1.5
+
+### Published: 07/18/2023 21:26:00 by Cristhian Cabral
+
+Training Modulo for Logs
+
+__Downloads__: 20 | __Repository__: 
 
 ## [OCI.PSModules.Stackmonitoring](https://www.powershellgallery.com/Packages/OCI.PSModules.Stackmonitoring/62.0.0) | 62.0.0
 
@@ -1714,7 +1730,7 @@ __Downloads__: 31 | __Repository__:
 
 OSD Day Prep Edition
 
-__Downloads__: 808,020 | __Repository__: https://github.com/OSDeploy/OSD
+__Downloads__: 807,999 | __Repository__: https://github.com/OSDeploy/OSD
 
 ## [PS.MTA-STS](https://www.powershellgallery.com/Packages/PS.MTA-STS/1.0.0) | 1.0.0
 
@@ -1866,7 +1882,7 @@ __Downloads__: 46,601 | __Repository__: https://ironmansoftware.com/powershell-u
 
 An assortment of useful PowerShell scripts
 
-__Downloads__: 44,743 | __Repository__: https://github.com/ralish/PSWinGlue
+__Downloads__: 44,744 | __Repository__: https://github.com/ralish/PSWinGlue
 
 ## [TrainingUtils.JCP](https://www.powershellgallery.com/Packages/TrainingUtils.JCP/1.0.2) | 1.0.2
 
@@ -1904,7 +1920,7 @@ __Downloads__: 48 | __Repository__: https://github.com/ThePoShWolf/Discordant
 
 Zip and GZip utilities for PowerShell!
 
-__Downloads__: 18,867 | __Repository__: https://github.com/santisq/PSCompression
+__Downloads__: 18,872 | __Repository__: https://github.com/santisq/PSCompression
 
 ## [dfv.fred](https://www.powershellgallery.com/Packages/dfv.fred/0.0.4) | 0.0.4
 
@@ -2000,7 +2016,7 @@ __Downloads__: 15 | __Repository__: https://github.com/neflyte/PSJobLogger
 
 Automate your Venafi Trust Protection Platform and Venafi as a Service platforms!
 
-__Downloads__: 5,495 | __Repository__: https://github.com/Venafi/VenafiPS
+__Downloads__: 5,497 | __Repository__: https://github.com/Venafi/VenafiPS
 
 ## [Rpic.PowerShell](https://www.powershellgallery.com/Packages/Rpic.PowerShell/1.1.0) | 1.1.0
 
@@ -2076,20 +2092,4 @@ For more information, please visit https://github.com/DEberhardt/Orbit or https:
 
 __Downloads__: 51 | __Repository__: https://github.com/DEberhardt/Orbit
 
-## [Orbit.Authentication](https://www.powershellgallery.com/Packages/Orbit.Authentication/0.8.0) | 0.8.0
-
-### Published: 07/14/2023 09:48:29 by David Eberhardt
-
-Scripts & Functions for Administrators working in the Microsoft 365 Orbit
-
-__Downloads__: 70 | __Repository__: https://github.com/DEberhardt/Orbit
-
-## [Orbit.Groups](https://www.powershellgallery.com/Packages/Orbit.Groups/0.8.0) | 0.8.0
-
-### Published: 07/14/2023 09:48:23 by David Eberhardt
-
-Scripts & Functions for Administrators working in the Microsoft 365 Orbit
-
-__Downloads__: 71 | __Repository__: https://github.com/DEberhardt/Orbit
-
-*Updated: Saturday, 22 July 2023 02:11:25 UTC*
+*Updated: Saturday, 22 July 2023 09:52:43 UTC*

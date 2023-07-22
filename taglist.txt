@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Saturday, 22 July 2023 02:11:38 UTC
+Updated: Saturday, 22 July 2023 09:52:56 UTC
 
 ?:
 ??
@@ -55,7 +55,6 @@ Updated: Saturday, 22 July 2023 02:11:38 UTC
 8.1
 8ball
 9
-aa
 aac
 aad
 aad-graph
@@ -578,6 +577,7 @@ awscli
 awspricelist
 axapta
 axinom
+axis
 axium
 az
 az-cli
@@ -921,6 +921,7 @@ cancel
 cancellation
 canonical
 cantara
+capability
 capacity
 capgemini
 capslock
@@ -950,7 +951,6 @@ cavium
 cb
 cblueshell
 cbr
-cbz
 cchoco
 cchocoex
 ccm
@@ -1024,10 +1024,6 @@ checklists
 checkpoint
 checks
 checksum
-chef
-chef-automate
-chef-compliance
-chef-server
 chefconf2016
 chenxizhang
 cherrypy
@@ -2240,7 +2236,6 @@ exchangeonlineprotection
 exchangeonprem
 exchangeserver
 exchangewebservices
-exclusion
 excuse
 exe
 exec
@@ -2794,6 +2789,7 @@ handle
 handler
 hangouts
 hannelstoolbox
+hanwha
 har
 hard
 hardblock
@@ -3099,7 +3095,6 @@ infosec
 infrastructure
 infrastructureascode
 ingestion
-inheritance
 ini
 inifile
 initialization
@@ -3156,6 +3151,7 @@ intellisense
 interactive
 interactive-brokers
 interface
+interlogix
 internet
 internet-explorer
 internetconnection
@@ -4290,6 +4286,7 @@ officedev
 officegraph
 officemessageencryption
 officertool
+offline
 offlinewimservicing
 ofx
 ogg
@@ -4308,6 +4305,7 @@ omnistack
 oms
 omsagent
 on
+on-demand
 on-premise
 onboard
 onboardadministrator
@@ -4358,7 +4356,6 @@ openhere
 openid
 openidconnect
 openinghours
-openport
 openprovider
 openscad
 opensearch
@@ -5095,7 +5092,6 @@ publisher
 publishers
 publishing
 pubsub
-pubxml
 pulldistributionpoint
 pullrequest
 pullserver
@@ -5431,7 +5427,6 @@ rhapsody
 ribbon
 ribcl
 rightjoin
-rights
 rightsizing
 rightsmanagement
 ripe
@@ -5978,6 +5973,7 @@ social
 social-media
 socialmedia
 socketlabs
+sockets
 sodium
 software
 softwarecenter
@@ -6001,6 +5997,7 @@ songs
 sonicwall
 sonicwallvpn
 sonus
+soon
 soonr
 soonragent
 sophos
@@ -6385,7 +6382,6 @@ taxonomy
 tcp
 tcp/ip
 tcpip
-tcpport
 tcpserver
 tcptest
 tcx
@@ -6617,6 +6613,7 @@ troubleshooting
 trouw
 truecrypt
 truenas
+truportal
 trusted
 trusted-host
 trustedhosts
@@ -6692,6 +6689,7 @@ ud-field
 ud-flexytable
 ud-funnel
 ud-hero
+ud-illustration
 ud-input
 ud-licensed
 ud-loadingoverlay
@@ -7155,7 +7153,6 @@ whormi
 wi-fi
 wia
 wia.imagefile
-wid
 widedata
 wif
 wifi
@@ -7213,7 +7210,6 @@ windowsform
 windowsforms
 windowsindex
 windowsinstaller
-windowsinternaldatabase
 windowsinternals
 windowsiotservices
 windowsiso
