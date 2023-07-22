@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Saturday, 22 July 2023 09:52:56 UTC
+Updated: Saturday, 22 July 2023 17:53:24 UTC
 
 ?:
 ??
@@ -55,6 +55,7 @@ Updated: Saturday, 22 July 2023 09:52:56 UTC
 8.1
 8ball
 9
+aa
 aac
 aad
 aad-graph
@@ -150,7 +151,6 @@ add-on.module
 add-one
 add-path
 add-type
-addin
 addlevel
 addomainservices
 addon
@@ -291,7 +291,6 @@ amazonmgn
 amazonwebservices
 amend
 ami
-amiga
 amp
 amqp
 amsi
@@ -485,7 +484,6 @@ atera
 athena
 atlas
 atlassian
-atlassiancli
 atlassianps
 atmosphere
 atp
@@ -866,7 +864,6 @@ budget
 bugbounty
 bugzilla
 build
-build-log
 build-scripts
 builddefinition
 builder
@@ -951,6 +948,7 @@ cavium
 cb
 cblueshell
 cbr
+cbz
 cchoco
 cchocoex
 ccm
@@ -1024,6 +1022,10 @@ checklists
 checkpoint
 checks
 checksum
+chef
+chef-automate
+chef-compliance
+chef-server
 chefconf2016
 chenxizhang
 cherrypy
@@ -1327,6 +1329,7 @@ connectionstring
 connectwise
 conservation
 console
+consoleguitools
 consolemenu
 consolemusic
 consumer
@@ -2236,6 +2239,7 @@ exchangeonlineprotection
 exchangeonprem
 exchangeserver
 exchangewebservices
+exclusion
 excuse
 exe
 exec
@@ -2303,7 +2307,6 @@ factoryorchestratorclient
 facts
 faf
 failedlogin
-failure
 falcon
 fallbackstatuspoint
 fanarttv
@@ -2444,6 +2447,7 @@ flatten
 flex
 flex-query
 flexdesk
+flickr
 flowchart
 flowy
 fluidrelay
@@ -2490,7 +2494,6 @@ fortinetmanager
 fortios
 fortune
 forum
-forwardcompatibility
 forwardedevents
 foudil
 fox
@@ -3095,6 +3098,7 @@ infosec
 infrastructure
 infrastructureascode
 ingestion
+inheritance
 ini
 inifile
 initialization
@@ -3328,8 +3332,6 @@ kaminario
 karabiner
 karabiner-elements
 karma
-kaseya
-kaseyavsa
 kaspersky
 katakana
 kb
@@ -3531,7 +3533,6 @@ lldp
 lmhost
 lmhosts
 lms
-load
 loadbalancer
 loadbalancer.org
 loadtesting
@@ -3776,7 +3777,6 @@ mediant
 mediaplayer
 mediaservices
 mediawiki
-meditation
 meeting
 meetup
 meetup.com
@@ -3919,7 +3919,6 @@ monaco
 monday
 mondoo
 money
-moneyforward
 mongo
 mongodb
 monitor
@@ -4255,6 +4254,7 @@ obs
 observeit
 oce
 ocg
+ocgv
 oci
 ocicontrolcenter
 ocr
@@ -4356,6 +4356,7 @@ openhere
 openid
 openidconnect
 openinghours
+openport
 openprovider
 openscad
 opensearch
@@ -5092,6 +5093,7 @@ publisher
 publishers
 publishing
 pubsub
+pubxml
 pulldistributionpoint
 pullrequest
 pullserver
@@ -5427,6 +5429,7 @@ rhapsody
 ribbon
 ribcl
 rightjoin
+rights
 rightsizing
 rightsmanagement
 ripe
@@ -5751,7 +5754,6 @@ servermanagement
 servers
 service
 service-bus
-service-messages
 servicebus
 servicebusforwindowsserver
 servicecatalog
@@ -6382,6 +6384,7 @@ taxonomy
 tcp
 tcp/ip
 tcpip
+tcpport
 tcpserver
 tcptest
 tcx
@@ -6807,7 +6810,6 @@ urlencode
 urlhaus
 urlredirections
 urlrewrite
-urlscan
 urlupdate
 uru
 usage
@@ -7024,13 +7026,13 @@ vrsns
 vrtu
 vs
 vs-shell
-vsa
 vsan
 vsan+
 vscode
 vsdevcmd
 vsdevshell
 vsenvironment
+vsm
 vso
 vsphere
 vsphere+
@@ -7153,6 +7155,7 @@ whormi
 wi-fi
 wia
 wia.imagefile
+wid
 widedata
 wif
 wifi
@@ -7210,6 +7213,7 @@ windowsform
 windowsforms
 windowsindex
 windowsinstaller
+windowsinternaldatabase
 windowsinternals
 windowsiotservices
 windowsiso
