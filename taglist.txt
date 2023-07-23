@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Sunday, 23 July 2023 09:52:42 UTC
+Updated: Sunday, 23 July 2023 17:52:52 UTC
 
 ?:
 ??
@@ -236,7 +236,6 @@ ailanguage
 aim
 aip
 aipscanner
-aircall
 airpower
 airpwr
 airtable
@@ -290,7 +289,6 @@ amazon
 amazonaws
 amazonmgn
 amazonwebservices
-amend
 ami
 amiga
 amp
@@ -583,6 +581,7 @@ axium
 az
 az-cli
 az.automation
+azautomation
 azcli
 azcompute
 azd
@@ -590,6 +589,7 @@ azdisk
 azdo
 azereo
 azforensics
+azkeyvault
 aznetworking
 aznetworkinterface
 aznicdetails
@@ -1097,6 +1097,8 @@ clear
 clear-history
 clearpass
 cli
+cli-menu
+cli-menu-helpers
 clickonce
 client
 client-management
@@ -1316,6 +1318,7 @@ connect-exchangeonprem
 connect-mstsc
 connect-rdp
 connect-remotedesktop
+connect-samcmsite
 connected
 connectedkubernetes
 connectedmachine
@@ -1373,7 +1376,6 @@ convertfrom
 convertfrom-yaml
 convertto
 convertto-excel
-convertto-hashtable
 convertto-yaml
 converttodocx
 converttohtml
@@ -1566,6 +1568,7 @@ dapr
 dark
 dash
 dashboard
+dashboardapi
 dashboardservice
 dast
 data
@@ -1590,6 +1593,7 @@ datacatalog
 datacenter
 dataclassification
 datacollectionrule
+dataconduit
 dataconnectivity
 datadog
 dataexchange
@@ -1676,7 +1680,6 @@ deepvisibility
 def
 default
 defaultparameter
-defaultroutes
 defaults
 defence
 defender
@@ -2042,7 +2045,6 @@ editorservices
 edr
 education
 educational
-effectiveroutes
 efi
 eigencontroles
 einstein
@@ -2069,6 +2071,7 @@ email-address
 emailaddressupdate
 emailautomation
 emailmanagment
+emailnotification
 emailnotificationcomponent
 emailsecurity
 embedded
@@ -2121,7 +2124,6 @@ enumerable
 env
 environment
 environment-variables
-environmentmanagent
 environmentmodules
 environments
 environmentvariable
@@ -2396,6 +2398,7 @@ filewrite
 fill
 film
 filter
+filter-item
 filtering
 fim
 fims
@@ -2530,6 +2533,7 @@ full-metal-gnome
 fullclr
 fulljoin
 fullmetalgnome
+fullscreen
 fun
 function
 functionality
@@ -2622,6 +2626,8 @@ get-passivetrippoint
 get-passlist
 get-path
 get-pinneditem
+get-samcmassignedsite
+get-samcmcurrentmanagementpoint
 get-samplingperiod
 get-stalecomps
 get-staleusers
@@ -3056,12 +3062,12 @@ imei
 imi
 impala
 impersonation
-imperva
 import
 import-csv
 import-dtdriverpackpackagedefinitionsms
 import-modulefrompath
 import-passlist
+import-sampackagedefinitionsms
 importexport
 importteams
 inactive
@@ -3274,8 +3280,6 @@ jira
 jiraservicemanagement
 jitbit
 jms
-jnet
-jnetps
 joat
 job
 jobcan
@@ -3314,16 +3318,18 @@ junit
 jupyter
 jupytor
 justenoughadministration
-jvm
 jwk
 jws
 jwt
+jwttoken
 k8s
 kafka
 kaminario
 karabiner
 karabiner-elements
 karma
+kaseya
+kaseyavsa
 kaspersky
 katakana
 kb
@@ -3372,7 +3378,6 @@ knowledge
 knowledgebase
 koans
 korn
-kotlin
 kql
 kraken
 krbtgt
@@ -3460,6 +3465,7 @@ legends
 lego
 lein
 leiningnen
+lenel
 length
 lenovo
 lesspass
@@ -3507,13 +3513,13 @@ lint
 linting
 linux
 linux-command
-linuxssh
 liquid
 liquit
 liquit.com
 list
 list_files
 list-directory
+list-item
 listener
 litecoin
 litedb
@@ -3629,8 +3635,6 @@ lunches
 lwa
 lxca
 lxcapstool
-lxco
-lxcopstool
 lync
 m365
 maatschap-fortigi
@@ -3645,7 +3649,6 @@ macmon
 macos
 macosx
 macro
-macros
 madlib
 magazine
 magento
@@ -3677,6 +3680,7 @@ manage-wmi
 manageability
 managed-identity
 manageddisks
+managedidentities
 managedserviceidenity
 managedserviceidentity
 managedserviceprovider
@@ -3734,7 +3738,6 @@ maven
 max
 max_path
 maximum
-maxoffice
 mazerat
 mb
 mbc
@@ -3787,6 +3790,7 @@ mention
 menu
 menus
 meraki
+merakiapi
 mercurial
 merge
 mermaid
@@ -4122,6 +4126,8 @@ new-dynamicparameter
 new-githubrelease
 new-pinneditem
 new-rdpsession
+new-samcmapplicationfrompackagedefinitionsms
+new-samcmpackagefrompackagedefinitionsms
 new-system
 new-udmorph
 newpassword
@@ -4224,6 +4230,7 @@ nxt
 nyse
 nzb
 o365
+o365mailnotification
 oa
 oacli
 oacmdlets
@@ -4424,7 +4431,6 @@ oui-search
 out-consolegridview
 out-default
 out-gridview
-out-json
 outerjoin
 outertext
 outline
@@ -4505,6 +4511,7 @@ password_generation
 password-generator
 password-less
 password-manager
+passwordexpiration
 passwordexpiry
 passwordgeneration
 passwordgenerator
@@ -4654,7 +4661,6 @@ poem
 poetry
 point
 point-to-site
-pokeapi
 pokedex
 pokemon
 poker
@@ -4729,7 +4735,6 @@ powerbiembeddedcapacity
 powerbot
 powercli
 powercligoodies
-powerdex
 powerforensics
 powergraph
 powergui
@@ -4874,7 +4879,6 @@ progressbar
 progressbars
 project
 project-management
-projectmanagement
 projectreunion
 projects
 projecttemplate
@@ -5033,6 +5037,7 @@ psprtg
 pspublicapi
 psql
 psraw
+psreadexif
 psreadline
 psremoting
 psrepository
@@ -5226,7 +5231,6 @@ readpdf
 readthedocs
 realschule
 realtimeprotection
-rebase
 reboot
 rebootnodeifneeded
 reckon
@@ -5362,6 +5366,7 @@ reservations
 reset
 resharper
 resize
+resolution
 resolve
 resolve-stache
 resolve-template
@@ -5398,8 +5403,6 @@ reverse-string
 reversedsc
 reverseengineering
 revision
-reword
-rewrite
 rexec
 rfc1305
 rfc1436
@@ -5550,7 +5553,6 @@ sbc
 sc
 scaffold
 scaffoldingtemplate
-scala
 scalable
 scalablevectorgraphics
 scan
@@ -5559,7 +5561,10 @@ scatter
 scb
 scc
 sccm
+sccmam
+sccmapplication
 sccminstall
+sccmpackage
 sccmprereqs
 scep
 sch
@@ -5663,7 +5668,6 @@ securegopher+
 securemfa
 securerdp
 securescore
-securesphere
 securestring
 security
 security-awareness-training
@@ -5686,6 +5690,7 @@ seek
 seekatar
 seeshell
 select
+select-item
 select-kubecontext
 select-kubenamespace
 select-string
@@ -5734,7 +5739,6 @@ server
 servercertificatevalidationcallback
 serverless
 servermanagement
-servers
 service
 service-bus
 service-messages
@@ -5937,7 +5941,6 @@ snapchat
 snapping
 snapshot
 snapshots
-snipe-it
 snippet
 snippets
 snippets-manager
@@ -6099,8 +6102,6 @@ ssdt
 sse
 ssh
 ssh-keygen
-sshmanagement
-sshservers
 ssis
 ssl
 sslcert
@@ -6173,6 +6174,7 @@ stockcharts
 stocks
 stoicism
 stoics
+stop
 storablecolortheme
 storage
 storageaccount
@@ -6271,11 +6273,9 @@ sybase
 sybaseiq
 symantec
 symbolic
-symbolic_link
 symboliclink
 symbols
 symbolservers
-symlink
 symmetric
 synapse
 sync
@@ -6424,9 +6424,9 @@ test
 test-dscconfiguration
 test-internetconnection
 test-modulepath
-test-osplatform
 test-psremoting
-test-userisadministrator
+test-samcmapplicationexists
+test-samcmpackageexists
 test-xml
 test123
 testaccount
@@ -6636,6 +6636,7 @@ twitter-hashtag
 twitter-mention
 twitter-share
 twitter-timeline
+twitter-tweet
 txt
 type
 typeaccelerators
@@ -6697,7 +6698,6 @@ ud-speechbubble
 ud-step
 ud-stepbar
 ud-stickynavbar
-ud-tagcloud
 ud-timeline
 ud-timeout
 ud-tool
@@ -7007,6 +7007,7 @@ vrsns
 vrtu
 vs
 vs-shell
+vsa
 vsan
 vsan+
 vscode
@@ -7136,6 +7137,7 @@ whormi
 wi-fi
 wia
 wia.imagefile
+wid
 widedata
 wif
 wifi
@@ -7193,6 +7195,7 @@ windowsform
 windowsforms
 windowsindex
 windowsinstaller
+windowsinternaldatabase
 windowsinternals
 windowsiotservices
 windowsiso
