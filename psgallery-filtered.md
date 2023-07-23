@@ -3,6 +3,46 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [Brownserve.PSTools](https://www.powershellgallery.com/Packages/Brownserve.PSTools/0.13.0) | 0.13.0
+
+### Published: 07/22/2023 23:30:35 by Brownserve UK
+
+A collection of common tools for use in Brownserve projects
+
+__Downloads__: 289 | __Repository__: https://github.com/Brownserve-UK/Brownserve.PSTools
+
+## [PsAsbUtils](https://www.powershellgallery.com/Packages/PsAsbUtils/0.1.2) | 0.1.2
+
+### Published: 07/22/2023 22:55:23 by Vasily Larionov
+
+Azure Service Bus messaging utils
+
+__Downloads__: 5 | __Repository__: https://github.com/vlariono/PSAsbUtils
+
+## [PowerPlatformCLIAutoComplete](https://www.powershellgallery.com/Packages/PowerPlatformCLIAutoComplete/1.0.0) | 1.0.0
+
+### Published: 07/22/2023 19:47:02 by Natraj Yegnaraman
+
+Auto completions for Power Platform CLI
+
+__Downloads__: 20 | __Repository__: https://github.com/rajyraman/power-platform-cli-completion
+
+## [CitrixOptimizerAutomation](https://www.powershellgallery.com/Packages/CitrixOptimizerAutomation/2307.7) | 2307.7
+
+### Published: 07/22/2023 19:41:24 by David Brett
+
+PowerShell module to automate the creation of Citrix Optimizer Templates using simple pre-build cmdlets. Covers Services, Scheduled Tasks, Registry and Scripted Actions.
+
+__Downloads__: 17 | __Repository__: https://bretty.me.uk/citrixoptimizerautomation
+
+## [M365Documentation](https://www.powershellgallery.com/Packages/M365Documentation/3.2.1) | 3.2.1
+
+### Published: 07/22/2023 18:49:53 by Thomas Kurth
+
+Automatic Documentation of M365 to simplify the life of admins and consultants.
+
+__Downloads__: 4,592 | __Repository__: https://github.com/ThomasKur/IntuneDocumentation
+
 ## [F7History](https://www.powershellgallery.com/Packages/F7History/0.0.8) | 0.0.8
 
 ### Published: 07/22/2023 17:04:39 by Tig Kindel
@@ -18,14 +58,6 @@ __Downloads__: 0 | __Repository__: https://github.com/gui-cs/F7History/
 Cross Platform Aged File Handling Module.This will help you to find files by their age in days, you can list files by their write and accesstime, example Get-AgedFilesByLastWriteTime -FileAgeInDays 200 -FilePathToScan c:\temp Get-AgedFilesByLastAccessTime -FileAgeInDays 200 -FilePathToScan c:\temp
 
 __Downloads__: 0 | __Repository__: https://prakash78blog.wordpress.com/
-
-## [WhisperPS](https://www.powershellgallery.com/Packages/WhisperPS/1.12.0) | 1.12.0
-
-### Published: 07/22/2023 13:22:12 by const.me
-
-High-performance GPGPU inference of OpenAI's Whisper automatic speech recognition (ASR) model
-
-__Downloads__: 88 | __Repository__: https://github.com/Const-me/Whisper
 
 ## [MipSdkRedist](https://www.powershellgallery.com/Packages/MipSdkRedist/23.2.1) | 23.2.1
 
@@ -49,7 +81,7 @@ __Downloads__: 4 | __Repository__: https://github.com/PoshlandPro/PSNotion/tree/
 
 Provides a generic parser for well-formatted command-help documentation.
 
-__Downloads__: 16 | __Repository__: https://github.com/jjcarrier/PS-HelpParser
+__Downloads__: 15 | __Repository__: https://github.com/jjcarrier/PS-HelpParser
 
 ## [Lithnet.CredentialProvider.Management](https://www.powershellgallery.com/Packages/Lithnet.CredentialProvider.Management/1.0.1032) | 1.0.1032
 
@@ -199,14 +231,6 @@ NTS.Tools.General module contains functions that are used for general purpose
 
 __Downloads__: 1,251 | __Repository__: 
 
-## [M365Documentation](https://www.powershellgallery.com/Packages/M365Documentation/3.2.0) | 3.2.0
-
-### Published: 07/21/2023 14:02:18 by Thomas Kurth
-
-Automatic Documentation of M365 to simplify the life of admins and consultants.
-
-__Downloads__: 4,592 | __Repository__: https://github.com/ThomasKur/IntuneDocumentation
-
 ## [AzSKPreview.ADO](https://www.powershellgallery.com/Packages/AzSKPreview.ADO/1.22.0) | 1.22.0
 
 ### Published: 07/21/2023 12:56:16 by AzSK Team
@@ -222,6 +246,14 @@ __Downloads__: 3,941 | __Repository__: https://github.com/azsk/azsk-docs
 Powershell Module to interact with the PowerProdect Data Manager (PPDM) API
 
 __Downloads__: 3,198 | __Repository__: https://github.com/bottkars/PPDM-pwsh
+
+## [SpecTeamViewerLegacy](https://www.powershellgallery.com/Packages/SpecTeamViewerLegacy/1.0.1) | 1.0.1
+
+### Published: 07/21/2023 08:21:30 by owen.heaume
+
+Functions to control legacy Team Viewer
+
+__Downloads__: 5 | __Repository__: 
 
 ## [ModuleWithDependency](https://www.powershellgallery.com/Packages/ModuleWithDependency/0.0.1) | 0.0.1
 
@@ -277,7 +309,7 @@ __Downloads__: 2 | __Repository__:
 
 The module includes cmdlets to manage MSP360 (CloudBerry) Backup agent, MBS API and tools.
 
-__Downloads__: 3,263,076 | __Repository__: https://mspbackups.com/AP/Help/powershell
+__Downloads__: 3,263,017 | __Repository__: https://mspbackups.com/AP/Help/powershell
 
 ## [SpecCreateModule](https://www.powershellgallery.com/Packages/SpecCreateModule/1.0.1) | 1.0.1
 
@@ -353,7 +385,7 @@ __Downloads__: 3,070 | __Repository__: https://matteoguadrini.github.io/PSCouchD
 
 TeamViewerPS allows to interact with the TeamViewer Web API as well as a locally installed TeamViewer client.
 
-__Downloads__: 22,005,008 | __Repository__: https://github.com/teamviewer/TeamViewerPS
+__Downloads__: 22,006,066 | __Repository__: https://github.com/teamviewer/TeamViewerPS
 
 ## [Posh](https://www.powershellgallery.com/Packages/Posh/0.1) | 0.1
 
@@ -449,7 +481,7 @@ __Downloads__: 28 | __Repository__: https://github.com/Douda/PSSymantecCloud
 
 Tedon Utilities module
 
-__Downloads__: 27,696 | __Repository__: https://github.com/ehagen/TD.Util
+__Downloads__: 27,695 | __Repository__: https://github.com/ehagen/TD.Util
 
 ## [Mailozaurr](https://www.powershellgallery.com/Packages/Mailozaurr/1.0.1) | 1.0.1
 
@@ -457,7 +489,7 @@ __Downloads__: 27,696 | __Repository__: https://github.com/ehagen/TD.Util
 
 Mailozaurr is a PowerShell module that aims to provide SMTP, POP3, IMAP and few other ways to interact with Email. Underneath it uses MimeKit and MailKit and EmailValidation libraries written by Jeffrey Stedfast.
 
-__Downloads__: 862,836 | __Repository__: https://github.com/EvotecIT/MailoZaurr
+__Downloads__: 862,838 | __Repository__: https://github.com/EvotecIT/MailoZaurr
 
 ## [PsSqlClient](https://www.powershellgallery.com/Packages/PsSqlClient/2.0.0) | 2.0.0
 
@@ -507,7 +539,7 @@ __Downloads__: 112 | __Repository__: https://github.com/Azure/Cloud-Katana
 
 Master module for a collection of modules. These modules are varied in their tasks. The overall purpose of them being to provide a powerfull Toolset to improve IT Admin workflows.
 
-__Downloads__: 28,681 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox
+__Downloads__: 28,680 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox
 
 ## [AdminToolbox.FortiWizard](https://www.powershellgallery.com/Packages/AdminToolbox.FortiWizard/2.18.2) | 2.18.2
 
@@ -523,7 +555,7 @@ __Downloads__: 7,673 | __Repository__: https://github.com/TheTaylorLee/AdminTool
 
 Functions to Automate Bulk VMWare Tasks
 
-__Downloads__: 14,424 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 14,421 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.Remoting](https://www.powershellgallery.com/Packages/AdminToolbox.Remoting/1.9.96) | 1.9.96
 
@@ -531,7 +563,7 @@ __Downloads__: 14,424 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions for remote management and access.
 
-__Downloads__: 14,348 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 14,345 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.Office365](https://www.powershellgallery.com/Packages/AdminToolbox.Office365/3.1.46) | 3.1.46
 
@@ -547,7 +579,7 @@ __Downloads__: 15,588 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Network Troubleshooting Functions
 
-__Downloads__: 23,854 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 23,856 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.MSGraph](https://www.powershellgallery.com/Packages/AdminToolbox.MSGraph/1.2.96) | 1.2.96
 
@@ -555,7 +587,7 @@ __Downloads__: 23,854 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Microsoft Graph interactive API Functions
 
-__Downloads__: 4,721 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 4,724 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.Fun](https://www.powershellgallery.com/Packages/AdminToolbox.Fun/1.6.97) | 1.6.97
 
@@ -563,7 +595,7 @@ __Downloads__: 4,721 | __Repository__: https://github.com/TheTaylorLee/AdminTool
 
 Functions that have no purpose
 
-__Downloads__: 14,344 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 14,341 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.FileManagement](https://www.powershellgallery.com/Packages/AdminToolbox.FileManagement/1.15.87) | 1.15.87
 
@@ -571,7 +603,7 @@ __Downloads__: 14,344 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 File Management Functions
 
-__Downloads__: 14,984 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 14,981 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.FFTools](https://www.powershellgallery.com/Packages/AdminToolbox.FFTools/4.16.46) | 4.16.46
 
@@ -579,7 +611,7 @@ __Downloads__: 14,984 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Expedite simple ffmpeg actions
 
-__Downloads__: 14,895 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 14,892 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.Exchange](https://www.powershellgallery.com/Packages/AdminToolbox.Exchange/1.9.97) | 1.9.97
 
@@ -743,14 +775,6 @@ This modules provides Cmdlets for OCI Tenantmanagercontrolplane Service
 
 __Downloads__: 3,208 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-## [OCI.PSModules.Streaming](https://www.powershellgallery.com/Packages/OCI.PSModules.Streaming/62.0.0) | 62.0.0
-
-### Published: 07/18/2023 21:26:00 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Streaming Service
-
-__Downloads__: 3,322 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
 ## [TrainingUtils.CSCN](https://www.powershellgallery.com/Packages/TrainingUtils.CSCN/1.5) | 1.5
 
 ### Published: 07/18/2023 21:26:00 by Cristhian Cabral
@@ -758,6 +782,14 @@ __Downloads__: 3,322 | __Repository__: https://github.com/oracle/oci-powershell-
 Training Modulo for Logs
 
 __Downloads__: 20 | __Repository__: 
+
+## [OCI.PSModules.Streaming](https://www.powershellgallery.com/Packages/OCI.PSModules.Streaming/62.0.0) | 62.0.0
+
+### Published: 07/18/2023 21:26:00 by Oracle Cloud Infrastructure
+
+This modules provides Cmdlets for OCI Streaming Service
+
+__Downloads__: 3,322 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
 ## [OCI.PSModules.Stackmonitoring](https://www.powershellgallery.com/Packages/OCI.PSModules.Stackmonitoring/62.0.0) | 62.0.0
 
@@ -1788,14 +1820,6 @@ Just some functions that I commonly use.
 
 __Downloads__: 421 | __Repository__: 
 
-## [PsAsbUtils](https://www.powershellgallery.com/Packages/PsAsbUtils/0.1.1) | 0.1.1
-
-### Published: 07/17/2023 20:54:35 by Vasily Larionov
-
-Azure Service Bus messaging utils
-
-__Downloads__: 5 | __Repository__: https://github.com/vlariono/PSAsbUtils
-
 ## [PSPublishModule](https://www.powershellgallery.com/Packages/PSPublishModule/1.7.0) | 1.7.0
 
 ### Published: 07/17/2023 19:22:53 by Przemyslaw Klys
@@ -1860,14 +1884,6 @@ A set of functions for managing websites built on the DNN Platform.
 
 __Downloads__: 1,646 | __Repository__: https://github.com/bdukes/PowerShellModules
 
-## [PowerShellProTools](https://www.powershellgallery.com/Packages/PowerShellProTools/2023.7.1) | 2023.7.1
-
-### Published: 07/17/2023 14:52:20 by Ironman Software LLC
-
-PowerShell script packaging, profiling, WPF and Windows Forms design, and desktop automation.
-
-__Downloads__: 23,502 | __Repository__: 
-
 ## [PPDD-pwsh](https://www.powershellgallery.com/Packages/PPDD-pwsh/7.10.0) | 7.10.0
 
 ### Published: 07/17/2023 14:52:20 by Karsten.Bott@dell.com
@@ -1875,6 +1891,14 @@ __Downloads__: 23,502 | __Repository__:
 Powershell Module for PowerProtect DataDomain
 
 __Downloads__: 383 | __Repository__: https://github.com/bottkars/PPDD-pwsh
+
+## [PowerShellProTools](https://www.powershellgallery.com/Packages/PowerShellProTools/2023.7.1) | 2023.7.1
+
+### Published: 07/17/2023 14:52:20 by Ironman Software LLC
+
+PowerShell script packaging, profiling, WPF and Windows Forms design, and desktop automation.
+
+__Downloads__: 23,502 | __Repository__: 
 
 ## [RiverMeadow.Development.Migrate](https://www.powershellgallery.com/Packages/RiverMeadow.Development.Migrate/1.0.116.261) | 1.0.116.261
 
@@ -2066,28 +2090,4 @@ Cohesity PowerShell Module provides cmdlets to manage and create workflows using
 
 __Downloads__: 45,835 | __Repository__: https://cohesity.github.io/cohesity-powershell-module
 
-## [PureStoragePowerShellToolkit.Core](https://www.powershellgallery.com/Packages/PureStoragePowerShellToolkit.Core/3.0.2) | 3.0.2
-
-### Published: 07/14/2023 15:42:16 by Pure Storage
-
-PowerShell Toolkit for Pure Storage Flasharray and Initiators.
-
-__Downloads__: 112 | __Repository__: https://github.com/PureStorage-OpenConnect/PowerShell-Toolkit
-
-## [PSGumshoe](https://www.powershellgallery.com/Packages/PSGumshoe/2.0.11) | 2.0.11
-
-### Published: 07/14/2023 15:29:52 by Carlos Perez (carlos_perez@darkoperator.com)
-
-PowerShell module for data collection, incident response, hunting, and security analysis
-
-__Downloads__: 986 | __Repository__: 
-
-## [Perry](https://www.powershellgallery.com/Packages/Perry/1.3.0) | 1.3.0
-
-### Published: 07/14/2023 15:28:36 by Ronny Karlsson
-
-Perry logs errors as they happen, to be viewed interactively or at a later time. The purpose is to help with troubleshooting errors when lacking diagnostics information.
-
-__Downloads__: 2,897 | __Repository__: https://github.com/ronnykarlsson/perry
-
-*Updated: Saturday, 22 July 2023 17:53:09 UTC*
+*Updated: Sunday, 23 July 2023 02:14:36 UTC*

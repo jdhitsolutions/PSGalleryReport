@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Saturday, 22 July 2023 17:53:24 UTC
+Updated: Sunday, 23 July 2023 02:14:49 UTC
 
 ?:
 ??
@@ -246,7 +246,6 @@ aka.ms
 aks
 aks-hci
 akscluster
-al
 alac
 alarm
 albums
@@ -289,8 +288,8 @@ amazon
 amazonaws
 amazonmgn
 amazonwebservices
-amend
 ami
+amiga
 amp
 amqp
 amsi
@@ -339,7 +338,6 @@ apachekafka
 api
 api-client
 api-gateway
-api-rest
 apichecks
 apiclient
 apigateway
@@ -357,7 +355,6 @@ aportal
 app
 app-only
 app-v
-app-volumes
 app.config
 appattach
 appclusive
@@ -392,7 +389,6 @@ appservices
 appsetting
 appv
 appveyor
-appvolumes
 appx
 appxmanifest
 aprs
@@ -484,6 +480,7 @@ atera
 athena
 atlas
 atlassian
+atlassiancli
 atlassianps
 atmosphere
 atp
@@ -715,7 +712,6 @@ battery
 bayern
 bb
 bbp
-bc
 bcd
 bcdedit
 bd
@@ -864,6 +860,7 @@ budget
 bugbounty
 bugzilla
 build
+build-log
 build-scripts
 builddefinition
 builder
@@ -1190,7 +1187,6 @@ codaamok
 code
 code-page
 code365
-codeanalysis
 codebuild
 codecommit
 codecomplexity
@@ -2307,6 +2303,7 @@ factoryorchestratorclient
 facts
 faf
 failedlogin
+failure
 falcon
 fallbackstatuspoint
 fanarttv
@@ -2342,7 +2339,6 @@ fhirservice
 fiche
 fiddler
 fido
-fido2
 fieldglass
 fifa
 figlet
@@ -2411,8 +2407,6 @@ financial
 financialedge
 financials
 find
-find-call
-find-caller
 find-file
 find-path
 finddownloadlinkfromwebsite
@@ -2494,6 +2488,7 @@ fortinetmanager
 fortios
 fortune
 forum
+forwardcompatibility
 forwardedevents
 foudil
 fox
@@ -2508,9 +2503,6 @@ freesoftwarefoundation
 freshbooks
 freshdesk
 freshservice
-freshservice-api
-freshserviceps
-freshworks
 friendly
 fritz
 fritzbox
@@ -3533,6 +3525,7 @@ lldp
 lmhost
 lmhosts
 lms
+load
 loadbalancer
 loadbalancer.org
 loadtesting
@@ -3777,6 +3770,7 @@ mediant
 mediaplayer
 mediaservices
 mediawiki
+meditation
 meeting
 meetup
 meetup.com
@@ -3874,7 +3868,6 @@ mim
 mime
 mimekit
 min
-mindmeister
 minecraft
 miniconda
 minifier
@@ -4101,7 +4094,6 @@ netscaler
 netscape
 netsec
 netsh
-netspell
 netstat
 netsuite
 network
@@ -4353,7 +4345,6 @@ opendata
 openedge
 openfiles
 openhere
-openid
 openidconnect
 openinghours
 openport
@@ -4386,7 +4377,6 @@ optimization
 optimizer
 option
 options
-optionstring
 opus
 oracle
 oraclecloudinfrastructure
@@ -4728,7 +4718,9 @@ postgresql
 pow
 powdrgit
 power
+power-apps
 power-cbr
+power-platform
 power-shell
 powerapps
 powerappsportal
@@ -4769,7 +4761,6 @@ powershell-module
 powershell-modules
 powershell-releases-api
 powershell-remoting
-powershell-script
 powershell-terminal
 powershell-terminal-copilot
 powershell-training
@@ -4803,7 +4794,6 @@ powertab
 powertoolcmdlets
 powertooldsc
 ppdm
-ppk
 pposh
 pps
 ppt
@@ -5238,7 +5228,6 @@ readpdf
 readthedocs
 realschule
 realtimeprotection
-rebase
 reboot
 rebootnodeifneeded
 reckon
@@ -5277,7 +5266,6 @@ redshift
 redteaming
 redundancy
 refactor
-refactoring
 refeds
 refeds-mfa
 refedsmfa
@@ -5374,7 +5362,6 @@ reservations
 reset
 resharper
 resize
-resolution
 resolve
 resolve-stache
 resolve-template
@@ -5410,9 +5397,6 @@ reverse-engineer
 reverse-string
 reversedsc
 reverseengineering
-revision
-reword
-rewrite
 rexec
 rfc1305
 rfc1436
@@ -5754,6 +5738,7 @@ servermanagement
 servers
 service
 service-bus
+service-messages
 servicebus
 servicebusforwindowsserver
 servicecatalog
@@ -6043,7 +6028,6 @@ speed
 speedometer
 speedtest
 speedtester
-spellcheck
 spelling
 spf
 spi
@@ -6613,7 +6597,6 @@ triodos
 tripunkt
 troubleshoot
 troubleshooting
-trouw
 truecrypt
 truenas
 truportal
@@ -6810,6 +6793,7 @@ urlencode
 urlhaus
 urlredirections
 urlrewrite
+urlscan
 urlupdate
 uru
 usage
@@ -7188,7 +7172,6 @@ windows-environment
 windows-explorer
 windows-features
 windows-firewall
-windows-powershell
 windows-registry
 windows-remoting
 windows-server-2016
