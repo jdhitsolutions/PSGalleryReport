@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Sunday, 23 July 2023 02:14:49 UTC
+Updated: Sunday, 23 July 2023 09:52:42 UTC
 
 ?:
 ??
@@ -151,6 +151,7 @@ add-on.module
 add-one
 add-path
 add-type
+addin
 addlevel
 addomainservices
 addon
@@ -246,6 +247,7 @@ aka.ms
 aks
 aks-hci
 akscluster
+al
 alac
 alarm
 albums
@@ -288,6 +290,7 @@ amazon
 amazonaws
 amazonmgn
 amazonwebservices
+amend
 ami
 amiga
 amp
@@ -338,6 +341,7 @@ apachekafka
 api
 api-client
 api-gateway
+api-rest
 apichecks
 apiclient
 apigateway
@@ -355,6 +359,7 @@ aportal
 app
 app-only
 app-v
+app-volumes
 app.config
 appattach
 appclusive
@@ -389,6 +394,7 @@ appservices
 appsetting
 appv
 appveyor
+appvolumes
 appx
 appxmanifest
 aprs
@@ -577,7 +583,6 @@ axium
 az
 az-cli
 az.automation
-azautomation
 azcli
 azcompute
 azd
@@ -585,7 +590,6 @@ azdisk
 azdo
 azereo
 azforensics
-azkeyvault
 aznetworking
 aznetworkinterface
 aznicdetails
@@ -712,6 +716,7 @@ battery
 bayern
 bb
 bbp
+bc
 bcd
 bcdedit
 bd
@@ -1092,8 +1097,6 @@ clear
 clear-history
 clearpass
 cli
-cli-menu
-cli-menu-helpers
 clickonce
 client
 client-management
@@ -1187,6 +1190,7 @@ codaamok
 code
 code-page
 code365
+codeanalysis
 codebuild
 codecommit
 codecomplexity
@@ -1312,7 +1316,6 @@ connect-exchangeonprem
 connect-mstsc
 connect-rdp
 connect-remotedesktop
-connect-samcmsite
 connected
 connectedkubernetes
 connectedmachine
@@ -1563,7 +1566,6 @@ dapr
 dark
 dash
 dashboard
-dashboardapi
 dashboardservice
 dast
 data
@@ -1588,7 +1590,6 @@ datacatalog
 datacenter
 dataclassification
 datacollectionrule
-dataconduit
 dataconnectivity
 datadog
 dataexchange
@@ -2068,7 +2069,6 @@ email-address
 emailaddressupdate
 emailautomation
 emailmanagment
-emailnotification
 emailnotificationcomponent
 emailsecurity
 embedded
@@ -2339,6 +2339,7 @@ fhirservice
 fiche
 fiddler
 fido
+fido2
 fieldglass
 fifa
 figlet
@@ -2395,7 +2396,6 @@ filewrite
 fill
 film
 filter
-filter-item
 filtering
 fim
 fims
@@ -2407,6 +2407,8 @@ financial
 financialedge
 financials
 find
+find-call
+find-caller
 find-file
 find-path
 finddownloadlinkfromwebsite
@@ -2503,6 +2505,9 @@ freesoftwarefoundation
 freshbooks
 freshdesk
 freshservice
+freshservice-api
+freshserviceps
+freshworks
 friendly
 fritz
 fritzbox
@@ -2525,7 +2530,6 @@ full-metal-gnome
 fullclr
 fulljoin
 fullmetalgnome
-fullscreen
 fun
 function
 functionality
@@ -2618,8 +2622,6 @@ get-passivetrippoint
 get-passlist
 get-path
 get-pinneditem
-get-samcmassignedsite
-get-samcmcurrentmanagementpoint
 get-samplingperiod
 get-stalecomps
 get-staleusers
@@ -3060,7 +3062,6 @@ import-csv
 import-dtdriverpackpackagedefinitionsms
 import-modulefrompath
 import-passlist
-import-sampackagedefinitionsms
 importexport
 importteams
 inactive
@@ -3317,7 +3318,6 @@ jvm
 jwk
 jws
 jwt
-jwttoken
 k8s
 kafka
 kaminario
@@ -3460,7 +3460,6 @@ legends
 lego
 lein
 leiningnen
-lenel
 length
 lenovo
 lesspass
@@ -3515,7 +3514,6 @@ liquit.com
 list
 list_files
 list-directory
-list-item
 listener
 litecoin
 litedb
@@ -3679,7 +3677,6 @@ manage-wmi
 manageability
 managed-identity
 manageddisks
-managedidentities
 managedserviceidenity
 managedserviceidentity
 managedserviceprovider
@@ -3790,7 +3787,6 @@ mention
 menu
 menus
 meraki
-merakiapi
 mercurial
 merge
 mermaid
@@ -3868,6 +3864,7 @@ mim
 mime
 mimekit
 min
+mindmeister
 minecraft
 miniconda
 minifier
@@ -3912,6 +3909,7 @@ monaco
 monday
 mondoo
 money
+moneyforward
 mongo
 mongodb
 monitor
@@ -4094,6 +4092,7 @@ netscaler
 netscape
 netsec
 netsh
+netspell
 netstat
 netsuite
 network
@@ -4123,8 +4122,6 @@ new-dynamicparameter
 new-githubrelease
 new-pinneditem
 new-rdpsession
-new-samcmapplicationfrompackagedefinitionsms
-new-samcmpackagefrompackagedefinitionsms
 new-system
 new-udmorph
 newpassword
@@ -4227,7 +4224,6 @@ nxt
 nyse
 nzb
 o365
-o365mailnotification
 oa
 oacli
 oacmdlets
@@ -4345,6 +4341,7 @@ opendata
 openedge
 openfiles
 openhere
+openid
 openidconnect
 openinghours
 openport
@@ -4377,6 +4374,7 @@ optimization
 optimizer
 option
 options
+optionstring
 opus
 oracle
 oraclecloudinfrastructure
@@ -4507,7 +4505,6 @@ password_generation
 password-generator
 password-less
 password-manager
-passwordexpiration
 passwordexpiry
 passwordgeneration
 passwordgenerator
@@ -4761,6 +4758,7 @@ powershell-module
 powershell-modules
 powershell-releases-api
 powershell-remoting
+powershell-script
 powershell-terminal
 powershell-terminal-copilot
 powershell-training
@@ -4794,6 +4792,7 @@ powertab
 powertoolcmdlets
 powertooldsc
 ppdm
+ppk
 pposh
 pps
 ppt
@@ -5034,7 +5033,6 @@ psprtg
 pspublicapi
 psql
 psraw
-psreadexif
 psreadline
 psremoting
 psrepository
@@ -5228,6 +5226,7 @@ readpdf
 readthedocs
 realschule
 realtimeprotection
+rebase
 reboot
 rebootnodeifneeded
 reckon
@@ -5266,6 +5265,7 @@ redshift
 redteaming
 redundancy
 refactor
+refactoring
 refeds
 refeds-mfa
 refedsmfa
@@ -5397,6 +5397,9 @@ reverse-engineer
 reverse-string
 reversedsc
 reverseengineering
+revision
+reword
+rewrite
 rexec
 rfc1305
 rfc1436
@@ -5556,10 +5559,7 @@ scatter
 scb
 scc
 sccm
-sccmam
-sccmapplication
 sccminstall
-sccmpackage
 sccmprereqs
 scep
 sch
@@ -5686,7 +5686,6 @@ seek
 seekatar
 seeshell
 select
-select-item
 select-kubecontext
 select-kubenamespace
 select-string
@@ -6028,6 +6027,7 @@ speed
 speedometer
 speedtest
 speedtester
+spellcheck
 spelling
 spf
 spi
@@ -6173,7 +6173,6 @@ stockcharts
 stocks
 stoicism
 stoics
-stop
 storablecolortheme
 storage
 storageaccount
@@ -6427,8 +6426,6 @@ test-internetconnection
 test-modulepath
 test-osplatform
 test-psremoting
-test-samcmapplicationexists
-test-samcmpackageexists
 test-userisadministrator
 test-xml
 test123
@@ -6597,6 +6594,7 @@ triodos
 tripunkt
 troubleshoot
 troubleshooting
+trouw
 truecrypt
 truenas
 truportal
@@ -6638,7 +6636,6 @@ twitter-hashtag
 twitter-mention
 twitter-share
 twitter-timeline
-twitter-tweet
 txt
 type
 typeaccelerators
@@ -7139,7 +7136,6 @@ whormi
 wi-fi
 wia
 wia.imagefile
-wid
 widedata
 wif
 wifi
@@ -7172,6 +7168,7 @@ windows-environment
 windows-explorer
 windows-features
 windows-firewall
+windows-powershell
 windows-registry
 windows-remoting
 windows-server-2016
@@ -7196,7 +7193,6 @@ windowsform
 windowsforms
 windowsindex
 windowsinstaller
-windowsinternaldatabase
 windowsinternals
 windowsiotservices
 windowsiso

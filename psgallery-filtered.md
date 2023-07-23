@@ -3,6 +3,25 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [CoreePower.Lib](https://www.powershellgallery.com/Packages/CoreePower.Lib/0.0.2.1) | 0.0.2.1
+
+### Published: 07/23/2023 09:30:51 by Carsten Riedel
+
+The "CoreePower.Lib" module is the a part of the CoreePower project.
+It adds command-line programs like 7-Zip, Git, GitHub CLI, NuGet, dotnet, and Visual Studio Code from the original sources.
+See full readme at https://github.com/carsten-riedel/CoreePower.Lib/#readme
+Note: the "Initialize-CorePowerLatest" command may conflict with existing installations. Use with caution.
+
+__Downloads__: 704 | __Repository__: https://github.com/carsten-riedel/CoreePower.Lib
+
+## [Get-AzCertificateThumbprint](https://www.powershellgallery.com/Packages/Get-AzCertificateThumbprint/0.0.1) | 0.0.1
+
+### Published: 07/23/2023 07:17:42 by ranavale
+
+Gets a azure keyvault certificate thumbprint with interactive connecting to azure account.
+
+__Downloads__: 0 | __Repository__: 
+
 ## [Brownserve.PSTools](https://www.powershellgallery.com/Packages/Brownserve.PSTools/0.13.0) | 0.13.0
 
 ### Published: 07/22/2023 23:30:35 by Brownserve UK
@@ -58,6 +77,14 @@ __Downloads__: 0 | __Repository__: https://github.com/gui-cs/F7History/
 Cross Platform Aged File Handling Module.This will help you to find files by their age in days, you can list files by their write and accesstime, example Get-AgedFilesByLastWriteTime -FileAgeInDays 200 -FilePathToScan c:\temp Get-AgedFilesByLastAccessTime -FileAgeInDays 200 -FilePathToScan c:\temp
 
 __Downloads__: 0 | __Repository__: https://prakash78blog.wordpress.com/
+
+## [WhisperPS](https://www.powershellgallery.com/Packages/WhisperPS/1.12.0) | 1.12.0
+
+### Published: 07/22/2023 13:22:12 by const.me
+
+High-performance GPGPU inference of OpenAI's Whisper automatic speech recognition (ASR) model
+
+__Downloads__: 88 | __Repository__: https://github.com/Const-me/Whisper
 
 ## [MipSdkRedist](https://www.powershellgallery.com/Packages/MipSdkRedist/23.2.1) | 23.2.1
 
@@ -309,7 +336,7 @@ __Downloads__: 2 | __Repository__:
 
 The module includes cmdlets to manage MSP360 (CloudBerry) Backup agent, MBS API and tools.
 
-__Downloads__: 3,263,017 | __Repository__: https://mspbackups.com/AP/Help/powershell
+__Downloads__: 3,263,064 | __Repository__: https://mspbackups.com/AP/Help/powershell
 
 ## [SpecCreateModule](https://www.powershellgallery.com/Packages/SpecCreateModule/1.0.1) | 1.0.1
 
@@ -385,7 +412,7 @@ __Downloads__: 3,070 | __Repository__: https://matteoguadrini.github.io/PSCouchD
 
 TeamViewerPS allows to interact with the TeamViewer Web API as well as a locally installed TeamViewer client.
 
-__Downloads__: 22,006,066 | __Repository__: https://github.com/teamviewer/TeamViewerPS
+__Downloads__: 22,005,008 | __Repository__: https://github.com/teamviewer/TeamViewerPS
 
 ## [Posh](https://www.powershellgallery.com/Packages/Posh/0.1) | 0.1
 
@@ -481,7 +508,7 @@ __Downloads__: 28 | __Repository__: https://github.com/Douda/PSSymantecCloud
 
 Tedon Utilities module
 
-__Downloads__: 27,695 | __Repository__: https://github.com/ehagen/TD.Util
+__Downloads__: 27,694 | __Repository__: https://github.com/ehagen/TD.Util
 
 ## [Mailozaurr](https://www.powershellgallery.com/Packages/Mailozaurr/1.0.1) | 1.0.1
 
@@ -515,16 +542,6 @@ JaapsTools
 
 __Downloads__: 482 | __Repository__: 
 
-## [AptecoPSFramework](https://www.powershellgallery.com/Packages/AptecoPSFramework/0.0.8) | 0.0.8
-
-### Published: 07/19/2023 08:17:27 by florian.von.bracht@apteco.de
-
-Apteco PS Modules - Framework
-
-More description to follow...
-
-__Downloads__: 38 | __Repository__: https://github.com/Apteco/AptecoPSModules/tree/dev/AptecoPSFramework
-
 ## [CloudKatanaAbilities](https://www.powershellgallery.com/Packages/CloudKatanaAbilities/1.3.1) | 1.3.1
 
 ### Published: 07/19/2023 04:11:10 by Roberto Rodriguez (@Cyb3rWard0g)
@@ -539,7 +556,7 @@ __Downloads__: 112 | __Repository__: https://github.com/Azure/Cloud-Katana
 
 Master module for a collection of modules. These modules are varied in their tasks. The overall purpose of them being to provide a powerfull Toolset to improve IT Admin workflows.
 
-__Downloads__: 28,680 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox
+__Downloads__: 28,681 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox
 
 ## [AdminToolbox.FortiWizard](https://www.powershellgallery.com/Packages/AdminToolbox.FortiWizard/2.18.2) | 2.18.2
 
@@ -555,7 +572,7 @@ __Downloads__: 7,673 | __Repository__: https://github.com/TheTaylorLee/AdminTool
 
 Functions to Automate Bulk VMWare Tasks
 
-__Downloads__: 14,421 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 14,422 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.Remoting](https://www.powershellgallery.com/Packages/AdminToolbox.Remoting/1.9.96) | 1.9.96
 
@@ -563,7 +580,7 @@ __Downloads__: 14,421 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions for remote management and access.
 
-__Downloads__: 14,345 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 14,346 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.Office365](https://www.powershellgallery.com/Packages/AdminToolbox.Office365/3.1.46) | 3.1.46
 
@@ -571,7 +588,7 @@ __Downloads__: 14,345 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions for working with Office365 and Azure modules
 
-__Downloads__: 15,588 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 15,586 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.Networking](https://www.powershellgallery.com/Packages/AdminToolbox.Networking/2.18.4) | 2.18.4
 
@@ -595,7 +612,7 @@ __Downloads__: 4,724 | __Repository__: https://github.com/TheTaylorLee/AdminTool
 
 Functions that have no purpose
 
-__Downloads__: 14,341 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 14,342 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.FileManagement](https://www.powershellgallery.com/Packages/AdminToolbox.FileManagement/1.15.87) | 1.15.87
 
@@ -603,7 +620,7 @@ __Downloads__: 14,341 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 File Management Functions
 
-__Downloads__: 14,981 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 14,982 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.FFTools](https://www.powershellgallery.com/Packages/AdminToolbox.FFTools/4.16.46) | 4.16.46
 
@@ -611,7 +628,7 @@ __Downloads__: 14,981 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Expedite simple ffmpeg actions
 
-__Downloads__: 14,892 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 14,893 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.Exchange](https://www.powershellgallery.com/Packages/AdminToolbox.Exchange/1.9.97) | 1.9.97
 
@@ -619,7 +636,7 @@ __Downloads__: 14,892 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions for Exchange Management
 
-__Downloads__: 15,889 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 15,887 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.EndpointManagement](https://www.powershellgallery.com/Packages/AdminToolbox.EndpointManagement/4.9.89) | 4.9.89
 
@@ -627,7 +644,7 @@ __Downloads__: 15,889 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions for management of endpoints
 
-__Downloads__: 16,512 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 16,515 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.ActiveDirectory](https://www.powershellgallery.com/Packages/AdminToolbox.ActiveDirectory/1.9.94) | 1.9.94
 
@@ -635,7 +652,7 @@ __Downloads__: 16,512 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions for Active Directory
 
-__Downloads__: 18,019 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 18,022 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [nxtools](https://www.powershellgallery.com/Packages/nxtools/1.1.0) | 1.1.0
 
@@ -1992,7 +2009,7 @@ __Downloads__: 394,396 | __Repository__: https://github.com/wetling23/Public.ItG
 
 Gitlab API v4 helper functions
 
-__Downloads__: 74,226 | __Repository__: https://gitlab.com/mteodor/gitlab4
+__Downloads__: 74,220 | __Repository__: https://gitlab.com/mteodor/gitlab4
 
 ## [PSCloudPC](https://www.powershellgallery.com/Packages/PSCloudPC/1.0.9) | 1.0.9
 
@@ -2023,14 +2040,6 @@ __Downloads__: 2,323 | __Repository__: https://github.com/janegilring/PIMTools
 ### Published: 07/15/2023 21:08:05 by Douglas S. Rios (DrIOSx)
 
 A module for creating a simple patch tuesday hub.
-
-__Downloads__: 5 | __Repository__: 
-
-## [GraphEmailApp](https://www.powershellgallery.com/Packages/GraphEmailApp/0.1.0) | 0.1.0
-
-### Published: 07/15/2023 20:56:46 by Douglas S. Rios (DrIOSx)
-
-A module for creating a graphemail app
 
 __Downloads__: 5 | __Repository__: 
 
@@ -2082,12 +2091,4 @@ Cohesity PowerShell Module provides cmdlets to manage and create workflows using
 
 __Downloads__: 6,464 | __Repository__: https://cohesity.github.io/cohesity-powershell-module
 
-## [Cohesity.PowerShell](https://www.powershellgallery.com/Packages/Cohesity.PowerShell/1.9.2) | 1.9.2
-
-### Published: 07/14/2023 16:16:57 by Cohesity
-
-Cohesity PowerShell Module provides cmdlets to manage and create workflows using Cohesity DataPlatform.
-
-__Downloads__: 45,835 | __Repository__: https://cohesity.github.io/cohesity-powershell-module
-
-*Updated: Sunday, 23 July 2023 02:14:36 UTC*
+*Updated: Sunday, 23 July 2023 09:52:30 UTC*
