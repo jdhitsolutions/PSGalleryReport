@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Sunday, 23 July 2023 17:52:52 UTC
+Updated: Monday, 24 July 2023 02:12:41 UTC
 
 ?:
 ??
@@ -236,6 +236,7 @@ ailanguage
 aim
 aip
 aipscanner
+aircall
 airpower
 airpwr
 airtable
@@ -289,6 +290,7 @@ amazon
 amazonaws
 amazonmgn
 amazonwebservices
+amend
 ami
 amiga
 amp
@@ -372,7 +374,6 @@ applayering
 apple
 application
 application-control
-application-transformer
 application-whitelisting
 applicationgateway
 applicationgrid
@@ -489,7 +490,6 @@ atlassianps
 atmosphere
 atp
 atrium
-att&ck
 attestation
 attila
 attribute
@@ -638,7 +638,6 @@ azuredatastudio
 azuredevops
 azuredevops_security
 azuredevopsserver
-azuredns
 azurefilesync
 azurefunctionapp
 azurefunctions
@@ -1046,7 +1045,6 @@ christmas
 chrome
 chromium
 chunk
-churchofjesuschrist
 ci
 ci/cd
 cic
@@ -1376,6 +1374,7 @@ convertfrom
 convertfrom-yaml
 convertto
 convertto-excel
+convertto-hashtable
 convertto-yaml
 converttodocx
 converttohtml
@@ -1383,16 +1382,12 @@ converttomarkdown
 converttomd
 cookie
 coolq
-cooltag1
-cooltag2
 coordinates
 copilot
 copy
 copy-item
 copyright
 core
-coreepower
-coreepower.module
 coreposh
 corona
 corporate
@@ -1804,7 +1799,6 @@ disasm
 disasterrecovery
 disconnect
 discord
-discordrpc
 discount
 discover
 discovery
@@ -1999,7 +1993,6 @@ dutch
 dvls
 dxexpeditions
 dynamic
-dynamic-host-configuration-protocol
 dynamicdistributiongroups
 dynamicdnsoverhttps
 dynamicparam
@@ -2204,7 +2197,6 @@ eventprocessor
 events
 eventsubscription
 eventviewer
-eventwatch
 evergreen
 evernote
 everydaypowershell
@@ -3028,7 +3020,6 @@ iis10
 iis8
 iisadministration
 iiscrypto
-ikev2
 il
 illinois
 ilo
@@ -3062,6 +3053,7 @@ imei
 imi
 impala
 impersonation
+imperva
 import
 import-csv
 import-dtdriverpackpackagedefinitionsms
@@ -3280,6 +3272,8 @@ jira
 jiraservicemanagement
 jitbit
 jms
+jnet
+jnetps
 joat
 job
 jobcan
@@ -3318,6 +3312,7 @@ junit
 jupyter
 jupytor
 justenoughadministration
+jvm
 jwk
 jws
 jwt
@@ -3378,6 +3373,7 @@ knowledge
 knowledgebase
 koans
 korn
+kotlin
 kql
 kraken
 krbtgt
@@ -3396,7 +3392,6 @@ kusto
 kvm
 kvp
 l1tf
-l2tp
 lab
 labautomation
 labdefinition
@@ -3513,6 +3508,7 @@ lint
 linting
 linux
 linux-command
+linuxssh
 liquid
 liquit
 liquit.com
@@ -3635,6 +3631,8 @@ lunches
 lwa
 lxca
 lxcapstool
+lxco
+lxcopstool
 lync
 m365
 maatschap-fortigi
@@ -3645,11 +3643,10 @@ machine
 machinelearning
 machinelearningcompute
 machinelearningservices
-macmon
 macos
 macosx
 macro
-madlib
+macros
 magazine
 magento
 magic8ball
@@ -3738,6 +3735,7 @@ maven
 max
 max_path
 maximum
+maxoffice
 mazerat
 mb
 mbc
@@ -3745,7 +3743,6 @@ mbs
 mc
 mcafee
 mcas
-mchapv2
 mct
 md5
 md5_v2-afbf3dae88c049d004174f2d610ee134
@@ -4039,7 +4036,6 @@ mysql-database
 mytest
 n-able
 n-central
-nac
 nagios
 name
 name-of-dogs
@@ -4431,6 +4427,7 @@ oui-search
 out-consolegridview
 out-default
 out-gridview
+out-json
 outerjoin
 outertext
 outline
@@ -4479,7 +4476,6 @@ panels
 pansies
 panther
 panzerbjrn
-pap
 paper
 papis
 paradox
@@ -4661,6 +4657,7 @@ poem
 poetry
 point
 point-to-site
+pokeapi
 pokedex
 pokemon
 poker
@@ -4735,6 +4732,7 @@ powerbiembeddedcapacity
 powerbot
 powercli
 powercligoodies
+powerdex
 powerforensics
 powergraph
 powergui
@@ -4801,7 +4799,6 @@ ppk
 pposh
 pps
 ppt
-pptp
 pptx
 pq
 pranks
@@ -4978,7 +4975,6 @@ psedition_windows
 psedition-desktop
 psediton_desktop
 psenv
-pses
 psexcel
 psexec
 psexec.exe
@@ -5159,7 +5155,6 @@ queuing
 quickaccess
 quickbase
 quickbooks
-quicksetup
 qumulo
 quota
 quote
@@ -5231,6 +5226,7 @@ readpdf
 readthedocs
 realschule
 realtimeprotection
+rebase
 reboot
 rebootnodeifneeded
 reckon
@@ -5403,6 +5399,8 @@ reverse-string
 reversedsc
 reverseengineering
 revision
+reword
+rewrite
 rexec
 rfc1305
 rfc1436
@@ -5441,7 +5439,6 @@ robust
 roca
 rock
 rocket
-rocketcyber
 role
 roles
 rollingfile
@@ -5456,7 +5453,6 @@ route
 route53
 routeconfig
 router
-routes
 routetable
 routine
 rover
@@ -5553,6 +5549,7 @@ sbc
 sc
 scaffold
 scaffoldingtemplate
+scala
 scalable
 scalablevectorgraphics
 scan
@@ -5668,6 +5665,7 @@ securegopher+
 securemfa
 securerdp
 securescore
+securesphere
 securestring
 security
 security-awareness-training
@@ -5702,7 +5700,6 @@ self-hosted
 self-service
 self-signed
 selfdispatch
-selfhelp
 selfsigned
 semantic
 semantic-versioning
@@ -5739,6 +5736,7 @@ server
 servercertificatevalidationcallback
 serverless
 servermanagement
+servers
 service
 service-bus
 service-messages
@@ -5941,6 +5939,7 @@ snapchat
 snapping
 snapshot
 snapshots
+snipe-it
 snippet
 snippets
 snippets-manager
@@ -6102,6 +6101,8 @@ ssdt
 sse
 ssh
 ssh-keygen
+sshmanagement
+sshservers
 ssis
 ssl
 sslcert
@@ -6115,7 +6116,6 @@ sspi
 sspr
 ssrs
 ssst
-sstp
 stache
 stackedge
 stackexchange
@@ -6232,7 +6232,6 @@ subscription
 subscriptiondefinition
 subset
 subsystem
-subtitle
 success
 successfactors
 sudo
@@ -6265,7 +6264,6 @@ swagger
 swamid
 swarm
 swedish
-swimlane
 swis
 switch
 sxs
@@ -6273,9 +6271,11 @@ sybase
 sybaseiq
 symantec
 symbolic
+symbolic_link
 symboliclink
 symbols
 symbolservers
+symlink
 symmetric
 synapse
 sync
@@ -6342,7 +6342,6 @@ tag-requiredmodule2-2.0
 tag-requiredmodule3-2.5
 tag1
 tag2
-tagging
 tags
 tak
 taken
@@ -6424,9 +6423,11 @@ test
 test-dscconfiguration
 test-internetconnection
 test-modulepath
+test-osplatform
 test-psremoting
 test-samcmapplicationexists
 test-samcmpackageexists
+test-userisadministrator
 test-xml
 test123
 testaccount
@@ -6447,7 +6448,6 @@ text-to-speach"
 text-to-speech
 text2image
 textanalysis
-textbuffer
 texting
 textprocessing
 textwrapping
@@ -6618,7 +6618,6 @@ tts
 tubedownloader
 tui
 tulpep
-tuner
 tutorial
 tv
 tweet
@@ -6698,6 +6697,7 @@ ud-speechbubble
 ud-step
 ud-stepbar
 ud-stickynavbar
+ud-tagcloud
 ud-timeline
 ud-timeout
 ud-tool
@@ -6886,7 +6886,6 @@ venafi
 vencord
 vendor
 venue
-venvlink
 vera
 veracrypt
 verbose
@@ -7032,7 +7031,6 @@ vulnerabilityassessment
 vulnerabilityscanning
 vum
 vvx
-vxrail
 w32time
 w365
 w3svc

@@ -3,6 +3,62 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [Universal](https://www.powershellgallery.com/Packages/Universal/4.0.8) | 4.0.8
+
+### Published: 07/24/2023 00:33:30 by Ironman Software
+
+Module for PowerShell Universal.
+
+__Downloads__: 46,634 | __Repository__: https://ironmansoftware.com/powershell-universal
+
+## [Evergreen](https://www.powershellgallery.com/Packages/Evergreen/2307.810) | 2307.810
+
+### Published: 07/23/2023 23:58:23 by Aaron Parker
+
+Create evergreen Windows image builds with the latest versions of applications. Evergreen is a simple PowerShell module that retrieves the latest version numbers and download URLs for various software products directly from the vendor source.
+
+__Downloads__: 1,765,898 | __Repository__: https://stealthpuppy.com/evergreen/
+
+## [F7History](https://www.powershellgallery.com/Packages/F7History/1.0.30) | 1.0.30
+
+### Published: 07/23/2023 23:57:52 by Tig Kindel
+
+Press F7 to get a graphical Command History in Powershell.
+
+__Downloads__: 13 | __Repository__: https://github.com/gui-cs/F7History/
+
+## [PowerMist](https://www.powershellgallery.com/Packages/PowerMist/0.0.3.2) | 0.0.3.2
+
+### Published: 07/23/2023 23:08:36 by AbbyStrixa
+
+A module designed to directly interact with the Mist API
+
+__Downloads__: 17 | __Repository__: 
+
+## [PIMTools](https://www.powershellgallery.com/Packages/PIMTools/0.9.0) | 0.9.0
+
+### Published: 07/23/2023 22:01:34 by Jan Egil Ring
+
+PIMTools is a PowerShell module with commands for working with Azure AD Privileged Identity Management.
+
+__Downloads__: 2,329 | __Repository__: https://github.com/janegilring/PIMTools
+
+## [WinGet-Essentials](https://www.powershellgallery.com/Packages/WinGet-Essentials/0.9.7) | 0.9.7
+
+### Published: 07/23/2023 21:17:49 by Jon Carrier
+
+Essential "winget" utilities.
+
+__Downloads__: 21 | __Repository__: https://github.com/jjcarrier/PS-WinGet-Essentials
+
+## [TableUI](https://www.powershellgallery.com/Packages/TableUI/1.0.3) | 1.0.3
+
+### Published: 07/23/2023 21:16:08 by Jon Carrier
+
+A simple interface for making selections on an array of PS objects
+
+__Downloads__: 16 | __Repository__: https://github.com/jjcarrier/PS-TableUI
+
 ## [PsAsbUtils](https://www.powershellgallery.com/Packages/PsAsbUtils/0.1.3) | 0.1.3
 
 ### Published: 07/23/2023 17:37:03 by Vasily Larionov
@@ -10,14 +66,6 @@ These are the latest 250 modules published to the [PowerShell Gallery](https://p
 Azure Service Bus messaging utils
 
 __Downloads__: 10 | __Repository__: https://github.com/vlariono/PSAsbUtils
-
-## [F7History](https://www.powershellgallery.com/Packages/F7History/0.1.29) | 0.1.29
-
-### Published: 07/23/2023 16:19:11 by Tig Kindel
-
-Press F7 to get a graphical "Show Command History" in Powershell.
-
-__Downloads__: 13 | __Repository__: https://github.com/gui-cs/F7History/
 
 ## [UncommonSense.Spanish](https://www.powershellgallery.com/Packages/UncommonSense.Spanish/2.0.0) | 2.0.0
 
@@ -344,7 +392,7 @@ __Downloads__: 3 | __Repository__:
 
 The module includes cmdlets to manage MSP360 (CloudBerry) Backup agent, MBS API and tools.
 
-__Downloads__: 3,271,011 | __Repository__: https://mspbackups.com/AP/Help/powershell
+__Downloads__: 3,270,951 | __Repository__: https://mspbackups.com/AP/Help/powershell
 
 ## [SpecCreateModule](https://www.powershellgallery.com/Packages/SpecCreateModule/1.0.1) | 1.0.1
 
@@ -420,7 +468,7 @@ __Downloads__: 3,070 | __Repository__: https://matteoguadrini.github.io/PSCouchD
 
 TeamViewerPS allows to interact with the TeamViewer Web API as well as a locally installed TeamViewer client.
 
-__Downloads__: 22,095,763 | __Repository__: https://github.com/teamviewer/TeamViewerPS
+__Downloads__: 22,096,799 | __Repository__: https://github.com/teamviewer/TeamViewerPS
 
 ## [Posh](https://www.powershellgallery.com/Packages/Posh/0.1) | 0.1
 
@@ -493,14 +541,6 @@ __Downloads__: 1,709 | __Repository__: https://github.com/f-bader/SentinelARConv
 Cumulocity REST API
 
 __Downloads__: 2,344 | __Repository__: https://reubenmiller.github.io/go-c8y-cli
-
-## [WinGet-Essentials](https://www.powershellgallery.com/Packages/WinGet-Essentials/0.9.6) | 0.9.6
-
-### Published: 07/19/2023 18:14:37 by Jon Carrier
-
-Essential "winget" utilities.
-
-__Downloads__: 21 | __Repository__: https://github.com/jjcarrier/PS-WinGet-Essentials
 
 ## [PSSymantecCloud](https://www.powershellgallery.com/Packages/PSSymantecCloud/0.0.4) | 0.0.4
 
@@ -688,14 +728,6 @@ Teams Functions for Administration of Users, Common Area Phones, Resource Accoun
 For more information, please visit the https://davideberhardt.wordpress.com/ or https://github.com/DEberhardt/TeamsFunctions
 
 __Downloads__: 4,441 | __Repository__: 
-
-## [TableUI](https://www.powershellgallery.com/Packages/TableUI/1.0.2) | 1.0.2
-
-### Published: 07/18/2023 22:04:12 by Jon Carrier
-
-A simple interface for making selections on an array of PS objects
-
-__Downloads__: 16 | __Repository__: https://github.com/jjcarrier/PS-TableUI
 
 ## [OCI.PSModules](https://www.powershellgallery.com/Packages/OCI.PSModules/62.0.0) | 62.0.0
 
@@ -1821,7 +1853,7 @@ __Downloads__: 32 | __Repository__:
 
 OSD Day Prep Edition
 
-__Downloads__: 809,791 | __Repository__: https://github.com/OSDeploy/OSD
+__Downloads__: 809,797 | __Repository__: https://github.com/OSDeploy/OSD
 
 ## [PS.MTA-STS](https://www.powershellgallery.com/Packages/PS.MTA-STS/1.0.0) | 1.0.0
 
@@ -1951,14 +1983,6 @@ A PowerShell module that makes interfacing with Azure Pipelines a little easier
 
 __Downloads__: 28,496 | __Repository__: https://github.com/Dejulia489/AzurePipelinesPS
 
-## [Universal](https://www.powershellgallery.com/Packages/Universal/4.0.7) | 4.0.7
-
-### Published: 07/17/2023 14:22:04 by Ironman Software
-
-Module for PowerShell Universal.
-
-__Downloads__: 46,634 | __Repository__: https://ironmansoftware.com/powershell-universal
-
 ## [PSWinGlue](https://www.powershellgallery.com/Packages/PSWinGlue/0.6.7) | 0.6.7
 
 ### Published: 07/17/2023 09:19:21 by Samuel Leslie
@@ -1987,7 +2011,7 @@ These are contained within this PowerShell Module, so regular Module updating is
 ensure you receive the latest Microsoft Updates.  Updates published in WSUS will be different
 from Microsoft Update Catalog website due to Preview Releases
 
-__Downloads__: 333,542 | __Repository__: https://github.com/OSDeploy/OSDSUS
+__Downloads__: 333,544 | __Repository__: https://github.com/OSDeploy/OSDSUS
 
 ## [Discordant](https://www.powershellgallery.com/Packages/Discordant/0.1.2) | 0.1.2
 
@@ -2045,14 +2069,6 @@ take care of complex network, ip, ipv4, ipv6, netmask, cidr, subnet, subnetting,
 
 __Downloads__: 82 | __Repository__: https://github.com/JustinGrote/IPNetwork
 
-## [PIMTools](https://www.powershellgallery.com/Packages/PIMTools/0.8.0) | 0.8.0
-
-### Published: 07/15/2023 21:12:13 by Jan Egil Ring
-
-PIMTools is a PowerShell module with commands for working with Azure AD Privileged Identity Management.
-
-__Downloads__: 2,329 | __Repository__: https://github.com/janegilring/PIMTools
-
 ## [MSPatchTuesdayHub](https://www.powershellgallery.com/Packages/MSPatchTuesdayHub/0.1.0) | 0.1.0
 
 ### Published: 07/15/2023 21:08:05 by Douglas S. Rios (DrIOSx)
@@ -2077,20 +2093,4 @@ A module for running various Active Directory Tasks
 
 __Downloads__: 254 | __Repository__: https://github.com/CriticalSolutionsNetwork/ADAuditTasks
 
-## [PSPsat](https://www.powershellgallery.com/Packages/PSPsat/0.0.8) | 0.0.8
-
-### Published: 07/15/2023 17:29:12 by regg00@gmail.com
-
-A PowerShell module to interact with the Proofpoint Security Awareness Training reporting API.
-
-__Downloads__: 11 | __Repository__: https://github.com/regg00/PowerShell-PSAT
-
-## [PSJobLogger](https://www.powershellgallery.com/Packages/PSJobLogger/0.3.0) | 0.3.0
-
-### Published: 07/15/2023 16:57:03 by Alan Lew
-
-A logging class suitable for use with ForEach-Object -Parallel -AsJob
-
-__Downloads__: 15 | __Repository__: https://github.com/neflyte/PSJobLogger
-
-*Updated: Sunday, 23 July 2023 17:52:39 UTC*
+*Updated: Monday, 24 July 2023 02:12:30 UTC*
