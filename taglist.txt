@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 24 July 2023 02:12:41 UTC
+Updated: Monday, 24 July 2023 09:53:18 UTC
 
 ?:
 ??
@@ -290,7 +290,6 @@ amazon
 amazonaws
 amazonmgn
 amazonwebservices
-amend
 ami
 amiga
 amp
@@ -374,6 +373,7 @@ applayering
 apple
 application
 application-control
+application-transformer
 application-whitelisting
 applicationgateway
 applicationgrid
@@ -490,6 +490,7 @@ atlassianps
 atmosphere
 atp
 atrium
+att&ck
 attestation
 attila
 attribute
@@ -638,6 +639,7 @@ azuredatastudio
 azuredevops
 azuredevops_security
 azuredevopsserver
+azuredns
 azurefilesync
 azurefunctionapp
 azurefunctions
@@ -709,7 +711,6 @@ basic
 bastion
 bat
 batch
-batchclass
 batman
 battery
 bayern
@@ -718,7 +719,6 @@ bbp
 bc
 bcd
 bcdedit
-bd
 bdd
 bds
 be.stateless
@@ -798,7 +798,6 @@ blog
 blogs
 bls
 blue
-bluedolhin
 blueprint
 blueprints
 blueteam
@@ -1045,6 +1044,7 @@ christmas
 chrome
 chromium
 chunk
+churchofjesuschrist
 ci
 ci/cd
 cic
@@ -1182,7 +1182,6 @@ cms
 cmsiteconfig
 cmsmessage
 cmtrace
-cmwt
 cns
 coa
 cockroachdb
@@ -1374,7 +1373,6 @@ convertfrom
 convertfrom-yaml
 convertto
 convertto-excel
-convertto-hashtable
 convertto-yaml
 converttodocx
 converttohtml
@@ -1382,12 +1380,16 @@ converttomarkdown
 converttomd
 cookie
 coolq
+cooltag1
+cooltag2
 coordinates
 copilot
 copy
 copy-item
 copyright
 core
+coreepower
+coreepower.module
 coreposh
 corona
 corporate
@@ -1675,6 +1677,7 @@ deepvisibility
 def
 default
 defaultparameter
+defaultroutes
 defaults
 defence
 defender
@@ -1799,6 +1802,7 @@ disasm
 disasterrecovery
 disconnect
 discord
+discordrpc
 discount
 discover
 discovery
@@ -1993,6 +1997,7 @@ dutch
 dvls
 dxexpeditions
 dynamic
+dynamic-host-configuration-protocol
 dynamicdistributiongroups
 dynamicdnsoverhttps
 dynamicparam
@@ -2038,6 +2043,7 @@ editorservices
 edr
 education
 educational
+effectiveroutes
 efi
 eigencontroles
 einstein
@@ -2117,6 +2123,7 @@ enumerable
 env
 environment
 environment-variables
+environmentmanagent
 environmentmodules
 environments
 environmentvariable
@@ -2126,7 +2133,6 @@ envvars
 eol
 eop
 eperl
-ephesoft
 epicor
 episode
 epplus
@@ -2197,6 +2203,7 @@ eventprocessor
 events
 eventsubscription
 eventviewer
+eventwatch
 evergreen
 evernote
 everydaypowershell
@@ -2536,7 +2543,6 @@ funny
 fusion
 fusionapps
 fuzzy
-fyi
 fzf
 gac
 gainz
@@ -2659,7 +2665,6 @@ gitlab4
 gitlabpipeline
 gitops
 glob
-globalclipboard
 globaldashboard
 globalentry
 globbing
@@ -2738,7 +2743,6 @@ group-policy
 groupmembership
 grouppolicy
 groups
-grouvee
 grr
 gsuite
 gtx1080ti
@@ -3020,6 +3024,7 @@ iis10
 iis8
 iisadministration
 iiscrypto
+ikev2
 il
 illinois
 ilo
@@ -3098,7 +3103,6 @@ initiator
 inline-progress
 inlineprogress
 innerjoin
-innertext
 input
 inputbox
 inputobject
@@ -3392,6 +3396,7 @@ kusto
 kvm
 kvp
 l1tf
+l2tp
 lab
 labautomation
 labdefinition
@@ -3647,6 +3652,7 @@ macos
 macosx
 macro
 macros
+madlib
 magazine
 magento
 magic8ball
@@ -3743,6 +3749,7 @@ mbs
 mc
 mcafee
 mcas
+mchapv2
 mct
 md5
 md5_v2-afbf3dae88c049d004174f2d610ee134
@@ -3910,7 +3917,6 @@ monaco
 monday
 mondoo
 money
-moneyforward
 mongo
 mongodb
 monitor
@@ -4368,7 +4374,6 @@ operationsmanagementsuiteagent
 operationvalidation
 operatoraccesscontrol
 operators
-opml
 ops
 opsi
 opsmgr
@@ -4427,14 +4432,10 @@ oui-search
 out-consolegridview
 out-default
 out-gridview
-out-json
 outerjoin
-outertext
-outline
 outlook
 output
 output-to-image
-outreach
 outsystems
 overbite
 ovf
@@ -4476,6 +4477,7 @@ panels
 pansies
 panther
 panzerbjrn
+pap
 paper
 papis
 paradox
@@ -4799,6 +4801,7 @@ ppk
 pposh
 pps
 ppt
+pptp
 pptx
 pq
 pranks
@@ -4807,7 +4810,6 @@ prediction
 predictive
 predictive-text
 predictor
-preferences
 prefix
 preparead
 preparealldomains
@@ -4873,9 +4875,9 @@ program-association
 programs
 progress
 progressbar
-progressbars
 project
 project-management
+projectmanagement
 projectreunion
 projects
 projecttemplate
@@ -5155,6 +5157,7 @@ queuing
 quickaccess
 quickbase
 quickbooks
+quicksetup
 qumulo
 quota
 quote
@@ -5226,7 +5229,6 @@ readpdf
 readthedocs
 realschule
 realtimeprotection
-rebase
 reboot
 rebootnodeifneeded
 reckon
@@ -5399,8 +5401,6 @@ reverse-string
 reversedsc
 reverseengineering
 revision
-reword
-rewrite
 rexec
 rfc1305
 rfc1436
@@ -5439,6 +5439,7 @@ robust
 roca
 rock
 rocket
+rocketcyber
 role
 roles
 rollingfile
@@ -5453,6 +5454,7 @@ route
 route53
 routeconfig
 router
+routes
 routetable
 routine
 rover
@@ -5859,7 +5861,6 @@ signed
 signing
 signtool
 silk
-sim
 simple
 simplecontainers
 simplepassword
@@ -6116,6 +6117,7 @@ sspi
 sspr
 ssrs
 ssst
+sstp
 stache
 stackedge
 stackexchange
@@ -6232,6 +6234,7 @@ subscription
 subscriptiondefinition
 subset
 subsystem
+subtitle
 success
 successfactors
 sudo
@@ -6250,7 +6253,6 @@ support-tool
 support-tools
 suppress
 supress-reboot
-surround
 survey
 surveymonkey
 sushi
@@ -6264,6 +6266,7 @@ swagger
 swamid
 swarm
 swedish
+swimlane
 swis
 switch
 sxs
@@ -6342,6 +6345,7 @@ tag-requiredmodule2-2.0
 tag-requiredmodule3-2.5
 tag1
 tag2
+tagging
 tags
 tak
 taken
@@ -6423,11 +6427,9 @@ test
 test-dscconfiguration
 test-internetconnection
 test-modulepath
-test-osplatform
 test-psremoting
 test-samcmapplicationexists
 test-samcmpackageexists
-test-userisadministrator
 test-xml
 test123
 testaccount
@@ -6448,6 +6450,7 @@ text-to-speach"
 text-to-speech
 text2image
 textanalysis
+textbuffer
 texting
 textprocessing
 textwrapping
@@ -6618,6 +6621,7 @@ tts
 tubedownloader
 tui
 tulpep
+tuner
 tutorial
 tv
 tweet
@@ -6704,7 +6708,6 @@ ud-tool
 ud-toploader
 ud-trendline
 ud-typing
-ud-window
 ud-wordtree
 udcm
 udfeedback
@@ -6909,7 +6912,6 @@ viewer
 viewgroup
 vigenere
 vim
-vimode
 virole
 virsh
 virtual
@@ -7031,6 +7033,7 @@ vulnerabilityassessment
 vulnerabilityscanning
 vum
 vvx
+vxrail
 w32time
 w365
 w3svc
@@ -7360,7 +7363,6 @@ xendesktop
 xero
 xevents
 xh
-xi
 xiaomi
 xkcd
 xliff
@@ -7383,7 +7385,6 @@ xpt
 xrm
 xsa
 xtremio
-xtrude
 xunit
 xwiki
 xwindowsupdate
