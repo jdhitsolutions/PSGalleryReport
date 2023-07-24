@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 24 July 2023 09:53:18 UTC
+Updated: Monday, 24 July 2023 17:53:51 UTC
 
 ?:
 ??
@@ -290,6 +290,7 @@ amazon
 amazonaws
 amazonmgn
 amazonwebservices
+amend
 ami
 amiga
 amp
@@ -711,6 +712,7 @@ basic
 bastion
 bat
 batch
+batchclass
 batman
 battery
 bayern
@@ -719,6 +721,7 @@ bbp
 bc
 bcd
 bcdedit
+bd
 bdd
 bds
 be.stateless
@@ -775,7 +778,6 @@ bitbucketpipelines
 bitcoin
 bitlocker
 bitwarden
-bitwig
 bitwise
 biztalk
 biztalkalm
@@ -798,6 +800,7 @@ blog
 blogs
 bls
 blue
+bluedolhin
 blueprint
 blueprints
 blueteam
@@ -1030,7 +1033,6 @@ chefconf2016
 chenxizhang
 cherrypy
 cherwell
-chfs
 chi
 china
 choco
@@ -1044,7 +1046,6 @@ christmas
 chrome
 chromium
 chunk
-churchofjesuschrist
 ci
 ci/cd
 cic
@@ -1182,6 +1183,7 @@ cms
 cmsiteconfig
 cmsmessage
 cmtrace
+cmwt
 cns
 coa
 cockroachdb
@@ -1373,6 +1375,7 @@ convertfrom
 convertfrom-yaml
 convertto
 convertto-excel
+convertto-hashtable
 convertto-yaml
 converttodocx
 converttohtml
@@ -1530,7 +1533,6 @@ customization
 customlocation
 customlogs
 customproviders
-cutehttpfileserver
 cvad
 cve-2021-34527
 cvrf
@@ -1949,8 +1951,6 @@ droplet
 droptable
 drs
 drsrule
-drupal
-drush
 dry
 ds
 ds-client
@@ -2133,6 +2133,7 @@ envvars
 eol
 eop
 eperl
+ephesoft
 epicor
 episode
 epplus
@@ -2543,6 +2544,7 @@ funny
 fusion
 fusionapps
 fuzzy
+fyi
 fzf
 gac
 gainz
@@ -2665,6 +2667,7 @@ gitlab4
 gitlabpipeline
 gitops
 glob
+globalclipboard
 globaldashboard
 globalentry
 globbing
@@ -2743,6 +2746,7 @@ group-policy
 groupmembership
 grouppolicy
 groups
+grouvee
 grr
 gsuite
 gtx1080ti
@@ -2832,7 +2836,6 @@ heartbeatdiscovery
 heat
 heating
 heavenbay
-helium
 helix
 hello
 helloid
@@ -2882,7 +2885,6 @@ hjson
 hl7
 hlds
 hls
-hockey
 hol
 holiday
 home
@@ -3103,6 +3105,7 @@ initiator
 inline-progress
 inlineprogress
 innerjoin
+innertext
 input
 inputbox
 inputobject
@@ -3320,7 +3323,6 @@ jvm
 jwk
 jws
 jwt
-jwttoken
 k8s
 kafka
 kaminario
@@ -3618,7 +3620,6 @@ longfiles
 longitude
 look
 lookup
-loop
 loopback
 loremipsum
 love
@@ -3648,6 +3649,7 @@ machine
 machinelearning
 machinelearningcompute
 machinelearningservices
+macmon
 macos
 macosx
 macro
@@ -3917,6 +3919,7 @@ monaco
 monday
 mondoo
 money
+moneyforward
 mongo
 mongodb
 monitor
@@ -4005,6 +4008,7 @@ msword
 mule
 mulesoft
 multi-factor
+multi-language
 multi-platform
 multi-threading
 multi-zone
@@ -4042,6 +4046,7 @@ mysql-database
 mytest
 n-able
 n-central
+nac
 nagios
 name
 name-of-dogs
@@ -4144,7 +4149,6 @@ nexus
 ngen
 ngfw
 nginx
-nhl
 nic
 nic.ru
 nightmare
@@ -4297,7 +4301,6 @@ ole
 oledb
 omaha
 ome
-omnisphere
 omnistack
 oms
 omsagent
@@ -4354,7 +4357,6 @@ openid
 openidconnect
 openinghours
 openport
-openprovider
 openscad
 opensearch
 opensource
@@ -4374,6 +4376,7 @@ operationsmanagementsuiteagent
 operationvalidation
 operatoraccesscontrol
 operators
+opml
 ops
 opsi
 opsmgr
@@ -4432,10 +4435,14 @@ oui-search
 out-consolegridview
 out-default
 out-gridview
+out-json
 outerjoin
+outertext
+outline
 outlook
 output
 output-to-image
+outreach
 outsystems
 overbite
 ovf
@@ -4810,6 +4817,7 @@ prediction
 predictive
 predictive-text
 predictor
+preferences
 prefix
 preparead
 preparealldomains
@@ -4875,6 +4883,7 @@ program-association
 programs
 progress
 progressbar
+progressbars
 project
 project-management
 projectmanagement
@@ -4977,6 +4986,7 @@ psedition_windows
 psedition-desktop
 psediton_desktop
 psenv
+pses
 psexcel
 psexec
 psexec.exe
@@ -5229,6 +5239,7 @@ readpdf
 readthedocs
 realschule
 realtimeprotection
+rebase
 reboot
 rebootnodeifneeded
 reckon
@@ -5401,6 +5412,8 @@ reverse-string
 reversedsc
 reverseengineering
 revision
+reword
+rewrite
 rexec
 rfc1305
 rfc1436
@@ -5702,6 +5715,7 @@ self-hosted
 self-service
 self-signed
 selfdispatch
+selfhelp
 selfsigned
 semantic
 semantic-versioning
@@ -5861,6 +5875,7 @@ signed
 signing
 signtool
 silk
+sim
 simple
 simplecontainers
 simplepassword
@@ -6044,7 +6059,6 @@ splunk
 spo
 spooler
 sport
-sports
 sports-tracker
 spotify
 spotify-api
@@ -6253,6 +6267,7 @@ support-tool
 support-tools
 suppress
 supress-reboot
+surround
 survey
 surveymonkey
 sushi
@@ -6427,9 +6442,11 @@ test
 test-dscconfiguration
 test-internetconnection
 test-modulepath
+test-osplatform
 test-psremoting
 test-samcmapplicationexists
 test-samcmpackageexists
+test-userisadministrator
 test-xml
 test123
 testaccount
@@ -6639,7 +6656,6 @@ twitter-hashtag
 twitter-mention
 twitter-share
 twitter-timeline
-twitter-tweet
 txt
 type
 typeaccelerators
@@ -6675,7 +6691,6 @@ ud-datepicker
 ud-field
 ud-flexytable
 ud-funnel
-ud-hero
 ud-illustration
 ud-input
 ud-licensed
@@ -6708,6 +6723,7 @@ ud-tool
 ud-toploader
 ud-trendline
 ud-typing
+ud-window
 ud-wordtree
 udcm
 udfeedback
@@ -6889,6 +6905,7 @@ venafi
 vencord
 vendor
 venue
+venvlink
 vera
 veracrypt
 verbose
@@ -6912,6 +6929,7 @@ viewer
 viewgroup
 vigenere
 vim
+vimode
 virole
 virsh
 virtual
@@ -7022,7 +7040,6 @@ vsphere+
 vss
 vssetup
 vsshell
-vst
 vsteambuilder
 vsteams
 vstest
@@ -7363,6 +7380,7 @@ xendesktop
 xero
 xevents
 xh
+xi
 xiaomi
 xkcd
 xliff
@@ -7385,6 +7403,7 @@ xpt
 xrm
 xsa
 xtremio
+xtrude
 xunit
 xwiki
 xwindowsupdate
