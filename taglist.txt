@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Tuesday, 25 July 2023 09:53:14 UTC
+Updated: Tuesday, 25 July 2023 17:52:47 UTC
 
 ?:
 ??
@@ -492,6 +492,7 @@ atlassianps
 atmosphere
 atp
 atrium
+att&ck
 attestation
 attila
 attribute
@@ -1378,6 +1379,7 @@ convertfrom
 convertfrom-yaml
 convertto
 convertto-excel
+convertto-hashtable
 convertto-yaml
 converttodocx
 converttohtml
@@ -1947,7 +1949,6 @@ drivertool.powercli
 driverupdates
 drm
 drone.io
-drop
 dropbox
 dropdatabase
 droplet
@@ -2078,6 +2079,7 @@ emailmanagment
 emailnotification
 emailnotificationcomponent
 emailsecurity
+embedded
 emc
 emcomm
 emergency
@@ -2162,6 +2164,11 @@ escaping
 ese
 esent
 esoteric
+esp
+esp-idf
+esp32
+esp32s2
+espressif
 esri
 essbase
 estimate
@@ -2900,6 +2907,7 @@ horizontal
 hornbill
 host
 host-based
+hosted
 hostentry
 hostfile
 hostinstance
@@ -2924,7 +2932,6 @@ hpemigrationadvisorytool
 hpenimblepowershelltoolkit
 hpeoacmdlets
 hpeoneview
-hpeosprovisioncmdlets
 hpesmartarraycmdlets
 hpesynergy
 hponeview
@@ -3009,6 +3016,7 @@ identitydataplane
 identitydirector
 identitydomains
 identitynow
+idf
 idm
 idna
 ids
@@ -3025,6 +3033,7 @@ iis10
 iis8
 iisadministration
 iiscrypto
+ikev2
 il
 illinois
 ilo
@@ -3065,6 +3074,7 @@ import-dtdriverpackpackagedefinitionsms
 import-modulefrompath
 import-passlist
 import-sampackagedefinitionsms
+importer
 importexport
 importteams
 inactive
@@ -3107,7 +3117,6 @@ innertext
 input
 inputbox
 inputobject
-insert
 insiderthreat
 insight
 insightanalytics
@@ -3397,6 +3406,7 @@ kusto
 kvm
 kvp
 l1tf
+l2tp
 lab
 labautomation
 labdefinition
@@ -3750,6 +3760,7 @@ mbs
 mc
 mcafee
 mcas
+mchapv2
 mct
 md5
 md5_v2-afbf3dae88c049d004174f2d610ee134
@@ -4417,10 +4428,7 @@ osdupdate
 osi
 osmanagement
 osmanagementhub
-osp
 ospgateway
-osprovision
-osprovisioning
 osr
 oss
 ossec
@@ -4436,6 +4444,7 @@ oui-search
 out-consolegridview
 out-default
 out-gridview
+out-json
 outerjoin
 outertext
 outline
@@ -4484,6 +4493,7 @@ panels
 pansies
 panther
 panzerbjrn
+pap
 paper
 papis
 paradox
@@ -4807,6 +4817,7 @@ ppk
 pposh
 pps
 ppt
+pptp
 pptx
 pq
 pranks
@@ -5052,6 +5063,7 @@ psrule-rules
 pssa
 psscriptanalyzer
 psscriptanaylzer
+psscriptsmonitoring
 pssendgrid
 pssession
 pssharper
@@ -5211,8 +5223,6 @@ rbsu
 rcon
 rcs
 rcu
-rdb
-rdbms
 rdc
 rdcman
 rdcmanager
@@ -5299,7 +5309,6 @@ regression
 regularexpression
 regularexpressions
 reinstall
-relational
 relay
 release
 releasedefinition
@@ -5464,6 +5473,7 @@ route
 route53
 routeconfig
 router
+routes
 routetable
 routine
 rover
@@ -5510,7 +5520,6 @@ rust-lang
 ryanairps
 ryver
 s.ds.p
-s1
 s3
 s4b
 saas
@@ -5634,6 +5643,7 @@ scriptlogging
 scriptoform
 scriptrunner
 scripts
+scriptsmonitoring
 scrolllock
 scrub
 scrubber
@@ -5962,6 +5972,7 @@ snmpv3
 snmpwalk
 snowflake
 snsmssqlpsmodule
+snspsscriptsmonitoring
 snssqlitepsmodule
 sntp
 soap
@@ -6126,6 +6137,7 @@ sspi
 sspr
 ssrs
 ssst
+sstp
 stache
 stackedge
 stackexchange
@@ -6211,7 +6223,6 @@ string-template
 stringmanager
 stringmanagertool
 strings
-stringutilities
 strip-ansi
 stripe
 strongname
@@ -6274,6 +6285,7 @@ swagger
 swamid
 swarm
 swedish
+swimlane
 swis
 switch
 sxs
@@ -6434,9 +6446,11 @@ test
 test-dscconfiguration
 test-internetconnection
 test-modulepath
+test-osplatform
 test-psremoting
 test-samcmapplicationexists
 test-samcmpackageexists
+test-userisadministrator
 test-xml
 test123
 testaccount
@@ -6528,6 +6542,7 @@ toggle
 token
 tokenlifetime
 tokens
+toml
 tookit
 tool
 toolbox
@@ -6588,6 +6603,7 @@ travel
 trec
 tree
 treesize
+treffynnon
 trein
 trello
 trellops
@@ -7041,6 +7057,7 @@ vulnerabilityassessment
 vulnerabilityscanning
 vum
 vvx
+vxrail
 w32time
 w365
 w3svc
