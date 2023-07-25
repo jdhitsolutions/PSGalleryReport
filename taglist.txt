@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 24 July 2023 17:53:51 UTC
+Updated: Tuesday, 25 July 2023 02:16:50 UTC
 
 ?:
 ??
@@ -12,7 +12,6 @@ Updated: Monday, 24 July 2023 17:53:51 UTC
 'azure'
 'blob storage'
 'code owls'
-'files
 'provider'
 "interactive
 🍄
@@ -308,7 +307,6 @@ analyticsrules
 analyze
 analyzer
 analyzerrules
-anchor
 and
 android
 anet
@@ -402,6 +400,7 @@ aprs-is
 aprsis
 aprsthursday
 aps
+apt
 apt-get
 apt-get-update
 apteco
@@ -778,6 +777,7 @@ bitbucketpipelines
 bitcoin
 bitlocker
 bitwarden
+bitwig
 bitwise
 biztalk
 biztalkalm
@@ -837,7 +837,6 @@ brave
 brawlapi
 brawlstars
 brazencloud
-bre
 breach
 break
 breakpoint
@@ -890,7 +889,6 @@ businesscentral
 businessdays
 businesshours
 businessobjects
-businessrulesengine
 businesstime
 bxor
 bydesign
@@ -951,7 +949,6 @@ cavium
 cb
 cblueshell
 cbr
-cbz
 cchoco
 cchocoex
 ccm
@@ -1033,6 +1030,7 @@ chefconf2016
 chenxizhang
 cherrypy
 cherwell
+chfs
 chi
 china
 choco
@@ -1046,6 +1044,7 @@ christmas
 chrome
 chromium
 chunk
+churchofjesuschrist
 ci
 ci/cd
 cic
@@ -1150,7 +1149,6 @@ cloudfoundation
 cloudfront
 cloudgovernance
 cloudguard
-cloudinairy
 cloudinit
 cloudiq
 cloudkey
@@ -1375,7 +1373,6 @@ convertfrom
 convertfrom-yaml
 convertto
 convertto-excel
-convertto-hashtable
 convertto-yaml
 converttodocx
 converttohtml
@@ -1533,6 +1530,7 @@ customization
 customlocation
 customlogs
 customproviders
+cutehttpfileserver
 cvad
 cve-2021-34527
 cvrf
@@ -1679,7 +1677,6 @@ deepvisibility
 def
 default
 defaultparameter
-defaultroutes
 defaults
 defence
 defender
@@ -1951,6 +1948,8 @@ droplet
 droptable
 drs
 drsrule
+drupal
+drush
 dry
 ds
 ds-client
@@ -2043,7 +2042,6 @@ editorservices
 edr
 education
 educational
-effectiveroutes
 efi
 eigencontroles
 einstein
@@ -2836,6 +2834,7 @@ heartbeatdiscovery
 heat
 heating
 heavenbay
+helium
 helix
 hello
 helloid
@@ -2885,6 +2884,7 @@ hjson
 hl7
 hlds
 hls
+hockey
 hol
 holiday
 home
@@ -3323,6 +3323,7 @@ jvm
 jwk
 jws
 jwt
+jwttoken
 k8s
 kafka
 kaminario
@@ -3620,6 +3621,7 @@ longfiles
 longitude
 look
 lookup
+loop
 loopback
 loremipsum
 love
@@ -3654,7 +3656,6 @@ macos
 macosx
 macro
 macros
-madlib
 magazine
 magento
 magic8ball
@@ -4149,6 +4150,7 @@ nexus
 ngen
 ngfw
 nginx
+nhl
 nic
 nic.ru
 nightmare
@@ -4301,6 +4303,7 @@ ole
 oledb
 omaha
 ome
+omnisphere
 omnistack
 oms
 omsagent
@@ -4357,6 +4360,7 @@ openid
 openidconnect
 openinghours
 openport
+openprovider
 openscad
 opensearch
 opensource
@@ -4435,7 +4439,6 @@ oui-search
 out-consolegridview
 out-default
 out-gridview
-out-json
 outerjoin
 outertext
 outline
@@ -4666,7 +4669,6 @@ poem
 poetry
 point
 point-to-site
-pokeapi
 pokedex
 pokemon
 poker
@@ -4741,7 +4743,6 @@ powerbiembeddedcapacity
 powerbot
 powercli
 powercligoodies
-powerdex
 powerforensics
 powergraph
 powergui
@@ -5054,7 +5055,6 @@ psrule-rules
 pssa
 psscriptanalyzer
 psscriptanaylzer
-psscriptsmonitoring
 pssendgrid
 pssession
 pssharper
@@ -5318,7 +5318,6 @@ remember
 reminder
 remote
 remote-desktop
-remote'
 remotecert
 remoteconnection
 remoteconnectionsmanager
@@ -5328,7 +5327,6 @@ remotedesktopconnectionmanager
 remotedesktopgateway
 remotedesktopmanager
 remotedesktopservices
-remotefiles
 remoteforensics
 remotehost
 remotelogoff
@@ -5493,7 +5491,6 @@ rubber
 rubrik
 ruby
 rule
-rulesengine
 run
 run-as-user
 runas
@@ -5638,7 +5635,6 @@ scriptlogging
 scriptoform
 scriptrunner
 scripts
-scriptsmonitoring
 scrolllock
 scrub
 scrubber
@@ -5967,7 +5963,6 @@ snmpv3
 snmpwalk
 snowflake
 snsmssqlpsmodule
-snspsscriptsmonitoring
 snssqlitepsmodule
 sntp
 soap
@@ -6059,6 +6054,7 @@ splunk
 spo
 spooler
 sport
+sports
 sports-tracker
 spotify
 spotify-api
@@ -6217,7 +6213,6 @@ string-template
 stringmanager
 stringmanagertool
 strings
-stringutilities
 strip-ansi
 stripe
 strongname
@@ -6275,7 +6270,6 @@ suspensive
 svesavov
 svetoslav
 svg
-svn
 svt
 swagger
 swamid
@@ -6442,11 +6436,9 @@ test
 test-dscconfiguration
 test-internetconnection
 test-modulepath
-test-osplatform
 test-psremoting
 test-samcmapplicationexists
 test-samcmpackageexists
-test-userisadministrator
 test-xml
 test123
 testaccount
@@ -6467,7 +6459,6 @@ text-to-speach"
 text-to-speech
 text2image
 textanalysis
-textbuffer
 texting
 textprocessing
 textwrapping
@@ -6691,6 +6682,7 @@ ud-datepicker
 ud-field
 ud-flexytable
 ud-funnel
+ud-hero
 ud-illustration
 ud-input
 ud-licensed
@@ -6966,7 +6958,6 @@ visualstudioonline
 visualstudioteamservices
 vlan
 vlookup
-vlsm
 vm
 vmc
 vmelamed5
@@ -6995,7 +6986,6 @@ vnet
 vnmonitoring
 vnugglets
 vnugglets.com
-vocabularies
 voice
 voiceconfig
 voiceservices
@@ -7040,6 +7030,7 @@ vsphere+
 vss
 vssetup
 vsshell
+vst
 vsteambuilder
 vsteams
 vstest
@@ -7143,7 +7134,6 @@ wer
 what3words
 whatismyip
 whatsnew
-whatsupgold
 whd
 where
 whfb
@@ -7349,7 +7339,6 @@ wttr
 wttr.in
 wtx
 wu
-wug
 wunderlist
 wvd
 www
