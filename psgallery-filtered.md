@@ -3,6 +3,142 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [VMware.CloudFoundation.Reporting](https://www.powershellgallery.com/Packages/VMware.CloudFoundation.Reporting/2.3.0.1000) | 2.3.0.1000
+
+### Published: 07/25/2023 08:51:36 by VMware
+
+PowerShell Module for VMware Cloud Foundation Reporting
+
+__Downloads__: 986 | __Repository__: https://vmware.github.io/powershell-module-for-vmware-cloud-foundation-reporting
+
+## [VMware.CloudFoundation.CertificateManagement](https://www.powershellgallery.com/Packages/VMware.CloudFoundation.CertificateManagement/1.2.0.1001) | 1.2.0.1001
+
+### Published: 07/25/2023 08:39:26 by VMware
+
+PowerShell Module for VMware Cloud Foundation Certificate Management
+
+__Downloads__: 63 | __Repository__: https://vmware.github.io/powershell-module-for-vmware-cloud-foundation-certificate-management
+
+## [PowerValidatedSolutions](https://www.powershellgallery.com/Packages/PowerValidatedSolutions/2.5.0.1010) | 2.5.0.1010
+
+### Published: 07/25/2023 08:37:14 by VMware
+
+PowerShell Module for VMware Validated Solutions
+
+__Downloads__: 2,066 | __Repository__: https://vmware-samples.github.io/power-validated-solutions-for-cloud-foundation/
+
+## [1Pwd](https://www.powershellgallery.com/Packages/1Pwd/2.0.1) | 2.0.1
+
+### Published: 07/25/2023 08:18:34 by Darren J Robinson
+
+PowerShell Module for 1Password CLI v1.x and v2.x
+
+__Downloads__: 95,866 | __Repository__: https://github.com/darrenjrobinson/1Pwd
+
+## [VMware.CloudFoundation.PowerManagement](https://www.powershellgallery.com/Packages/VMware.CloudFoundation.PowerManagement/1.2.0.1001) | 1.2.0.1001
+
+### Published: 07/25/2023 07:48:04 by VMware
+
+PowerShell Module for VMware Cloud Foundation Power Management
+
+__Downloads__: 205 | __Repository__: https://vmware.github.io/powershell-module-for-vmware-cloud-foundation-power-management/
+
+## [PPDM-pwsh](https://www.powershellgallery.com/Packages/PPDM-pwsh/19.14.20.17) | 19.14.20.17
+
+### Published: 07/25/2023 07:44:37 by karsten.bott@dell.com
+
+Powershell Module to interact with the PowerProdect Data Manager (PPDM) API
+
+__Downloads__: 3,200 | __Repository__: https://github.com/bottkars/PPDM-pwsh
+
+## [Nutstone.Devops](https://www.powershellgallery.com/Packages/Nutstone.Devops/1.0.5) | 1.0.5
+
+### Published: 07/25/2023 07:35:11 by David Nuttall
+
+Provides Methods to interact with Azure devops (Git) to run .net core apps locally
+
+__Downloads__: 23 | __Repository__: 
+
+## [PSDetour](https://www.powershellgallery.com/Packages/PSDetour/0.3.1) | 0.3.1
+
+### Published: 07/25/2023 06:50:36 by Jordan Borean
+
+Hook Win32 APIs in PowerShell.`nSee https://github.com/jborean93/PSDetour for more info
+
+__Downloads__: 121 | __Repository__: https://github.com/jborean93/PSDetour
+
+## [Dynamics365Configuration](https://www.powershellgallery.com/Packages/Dynamics365Configuration/2.28.0) | 2.28.0
+
+### Published: 07/25/2023 06:28:39 by Aleksandr Sapozhkov
+
+A module to ease infrastructure as code tasks for Dynamics 365.
+
+__Downloads__: 4,302 | __Repository__: https://github.com/shurick81/Dynamics365Configuration
+
+## [python-tab-completion](https://www.powershellgallery.com/Packages/python-tab-completion/1.1.0) | 1.1.0
+
+### Published: 07/25/2023 05:55:00 by abgo
+
+Python tab completion.The data of completion comes from json,and you can modify the json file to change the completion as required. For more information, please visit the project: https://github.com/abgox/PS-completions
+
+__Downloads__: 15 | __Repository__: https://github.com/abgox/PS-completions
+
+## [chfs-tab-completion](https://www.powershellgallery.com/Packages/chfs-tab-completion/1.3.1) | 1.3.1
+
+### Published: 07/25/2023 05:46:36 by abgox
+
+chfs(CuteHttpFileServer) tab completion.The data of completion comes from json,and you can modify the json file to change the completion as required. For more information, please visit the project: https://github.com/abgox/PS-completions
+
+__Downloads__: 24 | __Repository__: https://github.com/abgox/PS-completions
+
+## [npm-tab-completion](https://www.powershellgallery.com/Packages/npm-tab-completion/1.3.1) | 1.3.1
+
+### Published: 07/25/2023 05:36:49 by abgo
+
+npm tab completion.The data of completion comes from json,and you can modify the json file to change the completion as required. For more information, please visit the project: https://github.com/abgox/PS-completions
+
+__Downloads__: 26 | __Repository__: https://github.com/abgox/PS-completions
+
+## [nvm-tab-completion](https://www.powershellgallery.com/Packages/nvm-tab-completion/1.1.2) | 1.1.2
+
+### Published: 07/25/2023 05:31:43 by abgo
+
+nvm(nvm-window) tab completion.The data of completion comes from json,and you can modify the json file to change the completion as required. For more information, please visit the project: https://github.com/abgox/PS-completions
+
+__Downloads__: 12 | __Repository__: https://github.com/abgox/PS-completions
+
+## [pnpm-tab-completion](https://www.powershellgallery.com/Packages/pnpm-tab-completion/1.2.1) | 1.2.1
+
+### Published: 07/25/2023 05:28:19 by abgo
+
+pnpm tab completion.The data of completion comes from json,and you can modify the json file to change the completion as required. For more information, please visit the project: https://github.com/abgox/PS-completions
+
+__Downloads__: 22 | __Repository__: https://github.com/abgox/PS-completions
+
+## [volta-tab-completion](https://www.powershellgallery.com/Packages/volta-tab-completion/1.2.1) | 1.2.1
+
+### Published: 07/25/2023 05:20:40 by abgo
+
+Volta tab completion.The data of completion comes from json,and you can modify the json file to change the completion as required. For more information, please visit the project: https://github.com/abgox/PS-completions
+
+__Downloads__: 20 | __Repository__: https://github.com/abgox/PS-completions
+
+## [scoop-tab-completion](https://www.powershellgallery.com/Packages/scoop-tab-completion/1.2.4) | 1.2.4
+
+### Published: 07/25/2023 05:17:46 by abgo
+
+scoop tab completion.The data of completion comes from json,and you can modify the json file to change the completion as required. For more information, please visit the project: https://github.com/abgox/PS-completions
+
+__Downloads__: 36 | __Repository__: https://github.com/abgox/PS-completions
+
+## [PowerRvB](https://www.powershellgallery.com/Packages/PowerRvB/2.6.0) | 2.6.0
+
+### Published: 07/25/2023 04:39:24 by Evan Deters
+
+This module includes several commands that help with the deployment of virtual environments on vSphere.
+
+__Downloads__: 442 | __Repository__: https://github.com/cpp-swift/PowerRvB
+
 ## [AnyPackage.Apt](https://www.powershellgallery.com/Packages/AnyPackage.Apt/0.1.0) | 0.1.0
 
 ### Published: 07/25/2023 01:54:04 by Thomas Nieto
@@ -91,53 +227,13 @@ Scripting Tools for Windows PowerShell : iLO Cmdlets uses the RIBCL and Redfish 
 
 __Downloads__: 1,101,327 | __Repository__: https://www.hpe.com/servers/powershell
 
-## [volta-tab-completion](https://www.powershellgallery.com/Packages/volta-tab-completion/1.2.0) | 1.2.0
-
-### Published: 07/24/2023 16:17:44 by abgo
-
-Volta tab completion.The data of completion comes from json,and you can modify the json file to change the completion as required. For more information, please visit the project: https://github.com/abgox/PS-completions
-
-__Downloads__: 20 | __Repository__: https://github.com/abgox/PS-completions
-
-## [scoop-tab-completion](https://www.powershellgallery.com/Packages/scoop-tab-completion/1.2.0) | 1.2.0
-
-### Published: 07/24/2023 15:54:01 by abgo
-
-scoop tab completion.The data of completion comes from json,and you can modify the json file to change the completion as required. For more information, please visit the project: https://github.com/abgox/PS-completions
-
-__Downloads__: 36 | __Repository__: https://github.com/abgox/PS-completions
-
-## [PPDM-pwsh](https://www.powershellgallery.com/Packages/PPDM-pwsh/19.14.20.15) | 19.14.20.15
-
-### Published: 07/24/2023 15:44:38 by karsten.bott@dell.com
-
-Powershell Module to interact with the PowerProdect Data Manager (PPDM) API
-
-__Downloads__: 3,200 | __Repository__: https://github.com/bottkars/PPDM-pwsh
-
-## [pnpm-tab-completion](https://www.powershellgallery.com/Packages/pnpm-tab-completion/1.2.0) | 1.2.0
-
-### Published: 07/24/2023 15:06:37 by abgo
-
-pnpm tab completion.The data of completion comes from json,and you can modify the json file to change the completion as required. For more information, please visit the project: https://github.com/abgox/PS-completions
-
-__Downloads__: 22 | __Repository__: https://github.com/abgox/PS-completions
-
-## [nvm-tab-completion](https://www.powershellgallery.com/Packages/nvm-tab-completion/1.1.1) | 1.1.1
-
-### Published: 07/24/2023 14:47:53 by abgo
-
-nvm(nvm-window) tab completion.The data of completion comes from json,and you can modify the json file to change the completion as required. For more information, please visit the project: https://github.com/abgox/PS-completions
-
-__Downloads__: 12 | __Repository__: https://github.com/abgox/PS-completions
-
 ## [NTS.Tools](https://www.powershellgallery.com/Packages/NTS.Tools/1.0.2.6) | 1.0.2.6
 
 ### Published: 07/24/2023 14:45:04 by Moritz Wiedmann
 
 NTS.Tools module contains tools for ConfigMgr and course deployment
 
-__Downloads__: 1,185 | __Repository__: 
+__Downloads__: 1,190 | __Repository__: 
 
 ## [NTS.Tools.MSSQL](https://www.powershellgallery.com/Packages/NTS.Tools.MSSQL/1.0.0.11) | 1.0.0.11
 
@@ -145,7 +241,7 @@ __Downloads__: 1,185 | __Repository__:
 
 NTS.Tools.MSSQL module contains functions that are mainly related to Microsoft SQL Server
 
-__Downloads__: 1,132 | __Repository__: 
+__Downloads__: 1,138 | __Repository__: 
 
 ## [NTS.Tools.MSHyperV](https://www.powershellgallery.com/Packages/NTS.Tools.MSHyperV/1.0.3.8) | 1.0.3.8
 
@@ -153,7 +249,7 @@ __Downloads__: 1,132 | __Repository__:
 
 NTS.Tools.MSHyperV module contains functions that are mainly related to Microsoft Hyper-V
 
-__Downloads__: 1,159 | __Repository__: 
+__Downloads__: 1,160 | __Repository__: 
 
 ## [NTS.Tools.MSExchange](https://www.powershellgallery.com/Packages/NTS.Tools.MSExchange/1.0.0.7) | 1.0.0.7
 
@@ -161,7 +257,7 @@ __Downloads__: 1,159 | __Repository__:
 
 NTS.Tools.MSExchange module contains functions that are mainly related to around Microsoft Exchange
 
-__Downloads__: 1,128 | __Repository__: 
+__Downloads__: 1,135 | __Repository__: 
 
 ## [NTS.Tools.MSConfigMgr](https://www.powershellgallery.com/Packages/NTS.Tools.MSConfigMgr/1.0.1.3) | 1.0.1.3
 
@@ -169,7 +265,7 @@ __Downloads__: 1,128 | __Repository__:
 
 NTS.Tools.MSConfigMgr module contains functions that are mainly related to Microsoft Endpoint Configuration Manger
 
-__Downloads__: 1,137 | __Repository__: 
+__Downloads__: 1,144 | __Repository__: 
 
 ## [NTS.Tools.MSADDS](https://www.powershellgallery.com/Packages/NTS.Tools.MSADDS/1.0.0.7) | 1.0.0.7
 
@@ -177,7 +273,7 @@ __Downloads__: 1,137 | __Repository__:
 
 NTS.Tools.MSADDS module contains functions that are mainly related to Microsoft Active Directory Domain Services
 
-__Downloads__: 1,123 | __Repository__: 
+__Downloads__: 1,122 | __Repository__: 
 
 ## [NTS.Tools.MSADCS](https://www.powershellgallery.com/Packages/NTS.Tools.MSADCS/1.0.1.4) | 1.0.1.4
 
@@ -185,7 +281,7 @@ __Downloads__: 1,123 | __Repository__:
 
 NTS.Tools.MSADCS module contains functions that are mainly related to Microsoft Active Directory Certification Services
 
-__Downloads__: 1,131 | __Repository__: 
+__Downloads__: 1,138 | __Repository__: 
 
 ## [NTS.Tools.Application](https://www.powershellgallery.com/Packages/NTS.Tools.Application/1.0.1.4) | 1.0.1.4
 
@@ -193,7 +289,7 @@ __Downloads__: 1,131 | __Repository__:
 
 NTS.Tools.Application module contains functions to install applications
 
-__Downloads__: 152 | __Repository__: 
+__Downloads__: 145 | __Repository__: 
 
 ## [NTS.Tools.General](https://www.powershellgallery.com/Packages/NTS.Tools.General/1.0.0.6) | 1.0.0.6
 
@@ -209,23 +305,7 @@ __Downloads__: 1,258 | __Repository__:
 
 Automate against ServiceNow service and asset management.  This module can be used standalone, with Azure Automation, or Docker.
 
-__Downloads__: 279,138 | __Repository__: https://github.com/Snow-Shell/servicenow-powershell
-
-## [npm-tab-completion](https://www.powershellgallery.com/Packages/npm-tab-completion/1.3.0) | 1.3.0
-
-### Published: 07/24/2023 13:03:35 by abgo
-
-npm tab completion.The data of completion comes from json,and you can modify the json file to change the completion as required. For more information, please visit the project: https://github.com/abgox/PS-completions
-
-__Downloads__: 26 | __Repository__: https://github.com/abgox/PS-completions
-
-## [chfs-tab-completion](https://www.powershellgallery.com/Packages/chfs-tab-completion/1.3.0) | 1.3.0
-
-### Published: 07/24/2023 12:51:51 by abgox
-
-chfs(CuteHttpFileServer) tab completion.The data of completion comes from json,and you can modify the json file to change the completion as required. For more information, please visit the project: https://github.com/abgox/PS-completions
-
-__Downloads__: 24 | __Repository__: https://github.com/abgox/PS-completions
+__Downloads__: 279,140 | __Repository__: https://github.com/Snow-Shell/servicenow-powershell
 
 ## [AzSK.ADO](https://www.powershellgallery.com/Packages/AzSK.ADO/1.20.0) | 1.20.0
 
@@ -241,7 +321,7 @@ __Downloads__: 111,555 | __Repository__: https://github.com/azsk/azsk-docs
 
 Provide a better and easier way for GitHub Actions to communicate with the runner machine, and the toolkit for developing GitHub Actions in PowerShell.
 
-__Downloads__: 63,719 | __Repository__: https://github.com/hugoalh-studio/ghactions-toolkit-powershell
+__Downloads__: 63,748 | __Repository__: https://github.com/hugoalh-studio/ghactions-toolkit-powershell
 
 ## [UnifiStockTracker](https://www.powershellgallery.com/Packages/UnifiStockTracker/2.1.0) | 2.1.0
 
@@ -257,7 +337,7 @@ __Downloads__: 94 | __Repository__: https://github.com/EvotecIT/UnifiStockTracke
 
 Module for PowerShell Universal.
 
-__Downloads__: 46,653 | __Repository__: https://ironmansoftware.com/powershell-universal
+__Downloads__: 46,655 | __Repository__: https://ironmansoftware.com/powershell-universal
 
 ## [Evergreen](https://www.powershellgallery.com/Packages/Evergreen/2307.810) | 2307.810
 
@@ -265,7 +345,7 @@ __Downloads__: 46,653 | __Repository__: https://ironmansoftware.com/powershell-u
 
 Create evergreen Windows image builds with the latest versions of applications. Evergreen is a simple PowerShell module that retrieves the latest version numbers and download URLs for various software products directly from the vendor source.
 
-__Downloads__: 1,771,937 | __Repository__: https://stealthpuppy.com/evergreen/
+__Downloads__: 1,771,892 | __Repository__: https://stealthpuppy.com/evergreen/
 
 ## [PowerMist](https://www.powershellgallery.com/Packages/PowerMist/0.0.3.2) | 0.0.3.2
 
@@ -364,7 +444,7 @@ __Downloads__: 22 | __Repository__: https://bretty.me.uk/citrixoptimizerautomati
 
 Automatic Documentation of M365 to simplify the life of admins and consultants.
 
-__Downloads__: 4,620 | __Repository__: https://github.com/ThomasKur/IntuneDocumentation
+__Downloads__: 4,619 | __Repository__: https://github.com/ThomasKur/IntuneDocumentation
 
 ## [AgedFileManagement](https://www.powershellgallery.com/Packages/AgedFileManagement/1.0.0) | 1.0.0
 
@@ -620,7 +700,7 @@ __Downloads__: 3,070 | __Repository__: https://matteoguadrini.github.io/PSCouchD
 
 TeamViewerPS allows to interact with the TeamViewer Web API as well as a locally installed TeamViewer client.
 
-__Downloads__: 22,155,223 | __Repository__: https://github.com/teamviewer/TeamViewerPS
+__Downloads__: 22,154,396 | __Repository__: https://github.com/teamviewer/TeamViewerPS
 
 ## [Irregular](https://www.powershellgallery.com/Packages/Irregular/0.7.8) | 0.7.8
 
@@ -1624,7 +1704,7 @@ __Downloads__: 3,096 | __Repository__: https://github.com/oracle/oci-powershell-
 
 This modules provides Cmdlets for OCI Database Service
 
-__Downloads__: 4,043 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+__Downloads__: 4,041 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
 ## [OCI.PSModules.Dashboardservice](https://www.powershellgallery.com/Packages/OCI.PSModules.Dashboardservice/62.0.0) | 62.0.0
 
@@ -1904,7 +1984,7 @@ __Downloads__: 406 | __Repository__: https://github.com/oracle/oci-powershell-mo
 
 OCI Common module exports Cmdlets that manages features offered by OCI Modules for Powershell like History Store, OCI Configuration file setup and Per-Session Region/Config/Profile preferences. Common module also contains some functionalties that are common to all OCI Service modules, therefore all OCI Service modules depends on Common module.
 
-__Downloads__: 69,598 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+__Downloads__: 69,602 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
 ## [AnyPackage.Msu](https://www.powershellgallery.com/Packages/AnyPackage.Msu/0.3.0) | 0.3.0
 
@@ -1981,7 +2061,7 @@ __Downloads__: 20 | __Repository__: https://github.com/jjcarrier/PS-TextTable
 
 A module that helps to manage some tasks on Office 365/Azure via undocumented API
 
-__Downloads__: 1,633 | __Repository__: https://github.com/EvotecIT/O365Essentials
+__Downloads__: 1,632 | __Repository__: https://github.com/EvotecIT/O365Essentials
 
 ## [VirtualMachineManager](https://www.powershellgallery.com/Packages/VirtualMachineManager/1.0.0.7) | 1.0.0.7
 
@@ -2005,86 +2085,6 @@ __Downloads__: 7 | __Repository__:
 
 A PowerShell module for handling color and cursor positioning via ANSI escape sequences
 
-__Downloads__: 48,670 | __Repository__: https://github.com/PoshCode/Pansies
+__Downloads__: 48,673 | __Repository__: https://github.com/PoshCode/Pansies
 
-## [TestModuleWithPrereleaseDep](https://www.powershellgallery.com/Packages/TestModuleWithPrereleaseDep/0.0.1) | 0.0.1
-
-### Published: 07/18/2023 02:49:59 by americks
-
-Test module for PSResourceGet
-
-__Downloads__: 2 | __Repository__: 
-
-## [DupreeFunctions](https://www.powershellgallery.com/Packages/DupreeFunctions/2.0.8) | 2.0.8
-
-### Published: 07/18/2023 01:01:03 by Christopher Dupree
-
-Just some functions that I commonly use.
-
-__Downloads__: 422 | __Repository__: 
-
-## [PSPublishModule](https://www.powershellgallery.com/Packages/PSPublishModule/1.7.0) | 1.7.0
-
-### Published: 07/17/2023 19:22:53 by Przemyslaw Klys
-
-Simple project allowing preparing, managing, building and publishing modules to PowerShellGallery
-
-__Downloads__: 1,326 | __Repository__: https://github.com/EvotecIT/PSPublishModule
-
-## [AnyPackage.Programs](https://www.powershellgallery.com/Packages/AnyPackage.Programs/0.3.1) | 0.3.1
-
-### Published: 07/17/2023 18:36:19 by Thomas Nieto
-
-Windows programs provider for AnyPackage.
-
-__Downloads__: 87 | __Repository__: https://github.com/anypackage/programs
-
-## [BinaryTree.Internal.Power365.Dev](https://www.powershellgallery.com/Packages/BinaryTree.Internal.Power365.Dev/20.12.10.31913) | 20.12.10.31913
-
-### Published: 07/17/2023 17:07:25 by BinaryTreePackagePublisher
-
-PowerShell Management cmdlets for Binary Tree Power365
-
-__Downloads__: 6,211 | __Repository__: 
-
-## [RiverMeadow.Release.Migrate](https://www.powershellgallery.com/Packages/RiverMeadow.Release.Migrate/1.0.116.261) | 1.0.116.261
-
-### Published: 07/17/2023 16:29:13 by RiverMeadow Engineering Team
-
-Provides cmdlets for starting migration of applications to supported clouds using the RiverMeadow platform.
-
-__Downloads__: 97 | __Repository__: https://migrate.rivermeadow.com/
-
-## [CopyBuild](https://www.powershellgallery.com/Packages/CopyBuild/0.0.16) | 0.0.16
-
-### Published: 07/17/2023 15:49:00 by JMN
-
-Make it easy to patch Hopex installation with fresh build
-
-__Downloads__: 5 | __Repository__: 
-
-## [HopexFolders](https://www.powershellgallery.com/Packages/HopexFolders/0.0.5) | 0.0.5
-
-### Published: 07/17/2023 15:34:44 by JMN
-
-Get paths of common Hopex Folders
-
-__Downloads__: 7 | __Repository__: 
-
-## [PrettyPrint](https://www.powershellgallery.com/Packages/PrettyPrint/0.0.8) | 0.0.8
-
-### Published: 07/17/2023 15:34:11 by JMN
-
-Print nice logs with colors and context
-
-__Downloads__: 6 | __Repository__: 
-
-## [DnnWebsiteManagement](https://www.powershellgallery.com/Packages/DnnWebsiteManagement/2.0.2) | 2.0.2
-
-### Published: 07/17/2023 15:01:28 by Brian Dukes
-
-A set of functions for managing websites built on the DNN Platform.
-
-__Downloads__: 1,647 | __Repository__: https://github.com/bdukes/PowerShellModules
-
-*Updated: Tuesday, 25 July 2023 02:16:39 UTC*
+*Updated: Tuesday, 25 July 2023 09:53:00 UTC*

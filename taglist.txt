@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Tuesday, 25 July 2023 02:16:50 UTC
+Updated: Tuesday, 25 July 2023 09:53:14 UTC
 
 ?:
 ??
@@ -12,6 +12,7 @@ Updated: Tuesday, 25 July 2023 02:16:50 UTC
 'azure'
 'blob storage'
 'code owls'
+'files
 'provider'
 "interactive
 🍄
@@ -307,6 +308,7 @@ analyticsrules
 analyze
 analyzer
 analyzerrules
+anchor
 and
 android
 anet
@@ -490,7 +492,6 @@ atlassianps
 atmosphere
 atp
 atrium
-att&ck
 attestation
 attila
 attribute
@@ -837,6 +838,7 @@ brave
 brawlapi
 brawlstars
 brazencloud
+bre
 breach
 break
 breakpoint
@@ -889,6 +891,7 @@ businesscentral
 businessdays
 businesshours
 businessobjects
+businessrulesengine
 businesstime
 bxor
 bydesign
@@ -949,6 +952,7 @@ cavium
 cb
 cblueshell
 cbr
+cbz
 cchoco
 cchocoex
 ccm
@@ -1149,6 +1153,7 @@ cloudfoundation
 cloudfront
 cloudgovernance
 cloudguard
+cloudinairy
 cloudinit
 cloudiq
 cloudkey
@@ -1677,6 +1682,7 @@ deepvisibility
 def
 default
 defaultparameter
+defaultroutes
 defaults
 defence
 defender
@@ -2042,6 +2048,7 @@ editorservices
 edr
 education
 educational
+effectiveroutes
 efi
 eigencontroles
 einstein
@@ -2071,7 +2078,6 @@ emailmanagment
 emailnotification
 emailnotificationcomponent
 emailsecurity
-embedded
 emc
 emcomm
 emergency
@@ -2156,11 +2162,6 @@ escaping
 ese
 esent
 esoteric
-esp
-esp-idf
-esp32
-esp32s2
-espressif
 esri
 essbase
 estimate
@@ -2899,7 +2900,6 @@ horizontal
 hornbill
 host
 host-based
-hosted
 hostentry
 hostfile
 hostinstance
@@ -3009,7 +3009,6 @@ identitydataplane
 identitydirector
 identitydomains
 identitynow
-idf
 idm
 idna
 ids
@@ -3026,7 +3025,6 @@ iis10
 iis8
 iisadministration
 iiscrypto
-ikev2
 il
 illinois
 ilo
@@ -3399,7 +3397,6 @@ kusto
 kvm
 kvp
 l1tf
-l2tp
 lab
 labautomation
 labdefinition
@@ -3656,6 +3653,7 @@ macos
 macosx
 macro
 macros
+madlib
 magazine
 magento
 magic8ball
@@ -3752,7 +3750,6 @@ mbs
 mc
 mcafee
 mcas
-mchapv2
 mct
 md5
 md5_v2-afbf3dae88c049d004174f2d610ee134
@@ -4487,7 +4484,6 @@ panels
 pansies
 panther
 panzerbjrn
-pap
 paper
 papis
 paradox
@@ -4669,6 +4665,7 @@ poem
 poetry
 point
 point-to-site
+pokeapi
 pokedex
 pokemon
 poker
@@ -4743,6 +4740,7 @@ powerbiembeddedcapacity
 powerbot
 powercli
 powercligoodies
+powerdex
 powerforensics
 powergraph
 powergui
@@ -4809,7 +4807,6 @@ ppk
 pposh
 pps
 ppt
-pptp
 pptx
 pq
 pranks
@@ -5318,6 +5315,7 @@ remember
 reminder
 remote
 remote-desktop
+remote'
 remotecert
 remoteconnection
 remoteconnectionsmanager
@@ -5327,6 +5325,7 @@ remotedesktopconnectionmanager
 remotedesktopgateway
 remotedesktopmanager
 remotedesktopservices
+remotefiles
 remoteforensics
 remotehost
 remotelogoff
@@ -5465,7 +5464,6 @@ route
 route53
 routeconfig
 router
-routes
 routetable
 routine
 rover
@@ -5491,6 +5489,7 @@ rubber
 rubrik
 ruby
 rule
+rulesengine
 run
 run-as-user
 runas
@@ -6127,7 +6126,6 @@ sspi
 sspr
 ssrs
 ssst
-sstp
 stache
 stackedge
 stackexchange
@@ -6213,6 +6211,7 @@ string-template
 stringmanager
 stringmanagertool
 strings
+stringutilities
 strip-ansi
 stripe
 strongname
@@ -6257,7 +6256,6 @@ supercell
 superheros
 supermarket
 support
-support-diy(do-it-yourself)
 support-tool
 support-tools
 suppress
@@ -6270,12 +6268,12 @@ suspensive
 svesavov
 svetoslav
 svg
+svn
 svt
 swagger
 swamid
 swarm
 swedish
-swimlane
 swis
 switch
 sxs
@@ -6459,6 +6457,7 @@ text-to-speach"
 text-to-speech
 text2image
 textanalysis
+textbuffer
 texting
 textprocessing
 textwrapping
@@ -6529,7 +6528,6 @@ toggle
 token
 tokenlifetime
 tokens
-toml
 tookit
 tool
 toolbox
@@ -6590,7 +6588,6 @@ travel
 trec
 tree
 treesize
-treffynnon
 trein
 trello
 trellops
@@ -6647,6 +6644,7 @@ twitter-hashtag
 twitter-mention
 twitter-share
 twitter-timeline
+twitter-tweet
 txt
 type
 typeaccelerators
@@ -6958,6 +6956,7 @@ visualstudioonline
 visualstudioteamservices
 vlan
 vlookup
+vlsm
 vm
 vmc
 vmelamed5
@@ -6986,6 +6985,7 @@ vnet
 vnmonitoring
 vnugglets
 vnugglets.com
+vocabularies
 voice
 voiceconfig
 voiceservices
@@ -7041,7 +7041,6 @@ vulnerabilityassessment
 vulnerabilityscanning
 vum
 vvx
-vxrail
 w32time
 w365
 w3svc
@@ -7134,6 +7133,7 @@ wer
 what3words
 whatismyip
 whatsnew
+whatsupgold
 whd
 where
 whfb
@@ -7339,6 +7339,7 @@ wttr
 wttr.in
 wtx
 wu
+wug
 wunderlist
 wvd
 www
