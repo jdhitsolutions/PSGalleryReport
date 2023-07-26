@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Wednesday, 26 July 2023 02:14:58 UTC
+Updated: Wednesday, 26 July 2023 09:52:45 UTC
 
 ?:
 ??
@@ -15,7 +15,6 @@ Updated: Wednesday, 26 July 2023 02:14:58 UTC
 'files
 'provider'
 "interactive
-🍄
 🍣
 💩
 10
@@ -798,7 +797,6 @@ block
 block-kit
 blockchain
 blocks
-blog
 blogs
 bls
 blue
@@ -1253,6 +1251,7 @@ commence
 comment
 comments
 commerce
+commfort
 commit
 common
 common-data-service
@@ -1617,6 +1616,7 @@ dataplatform
 datapro
 dataprotection
 dataquality
+datarow
 datasafe
 datascience
 dataset
@@ -1731,7 +1731,6 @@ detection
 detectionrule
 deutsch
 deutschland
-dev
 dev-tools
 devart
 devdeer
@@ -1954,8 +1953,6 @@ droplet
 droptable
 drs
 drsrule
-drupal
-drush
 dry
 ds
 ds-client
@@ -2213,6 +2210,7 @@ eventwatch
 evergreen
 evernote
 everydaypowershell
+everydayrewards
 everything
 evidencelock
 evolutionary-algorithms
@@ -2540,6 +2538,7 @@ fullmetalgnome
 fullscreen
 fun
 function
+functionality
 functionalprogramming
 functions
 funds
@@ -2593,8 +2592,6 @@ genericartifactscontent
 genetic-algorithm
 genxdev
 geo
-geocache
-geocaching
 geoencode
 geoencoding
 geolocation
@@ -2642,7 +2639,6 @@ ggplot
 gh-actions
 ghactions
 ghc
-ghibli
 ghost
 gif
 gifs
@@ -2742,14 +2738,12 @@ greynoise
 grid
 gridfs
 grok
-groundspeak
 group
 group-membership
 group-policy
 groupmembership
 grouppolicy
 groups
-grouvee
 grr
 gsuite
 gtx1080ti
@@ -2904,6 +2898,7 @@ horizontal
 hornbill
 host
 host-based
+hosted
 hostentry
 hostfile
 hostinstance
@@ -2928,7 +2923,6 @@ hpemigrationadvisorytool
 hpenimblepowershelltoolkit
 hpeoacmdlets
 hpeoneview
-hpeosprovisioncmdlets
 hpesmartarraycmdlets
 hpesynergy
 hponeview
@@ -3060,6 +3054,7 @@ imagination
 imaging
 imap
 imb
+imei
 imi
 impala
 impersonation
@@ -3467,6 +3462,7 @@ lease
 leetabit
 leftjoin
 legacy
+legacyad
 legends
 lego
 lein
@@ -3514,6 +3510,7 @@ linkedservicedependency
 linkid
 links
 linq
+linqpad
 lint
 linting
 linux
@@ -3690,7 +3687,6 @@ manageability
 managed-identity
 manageddisks
 managedidentities
-managedserviceidenity
 managedserviceidentity
 managedserviceprovider
 managedserviceproviders
@@ -3812,7 +3808,6 @@ messaging
 messenger
 met
 metadata
-metadataservice
 metaprogramming
 method
 methodinfo
@@ -4423,10 +4418,7 @@ osdupdate
 osi
 osmanagement
 osmanagementhub
-osp
 ospgateway
-osprovision
-osprovisioning
 osr
 oss
 ossec
@@ -4824,7 +4816,6 @@ prediction
 predictive
 predictive-text
 predictor
-preferences
 prefix
 preparead
 preparealldomains
@@ -4973,7 +4964,6 @@ psdesiredstateconfiguration
 psdevops
 psdocs
 psdocs-documents
-psdocsgenerator
 psdrawio
 psdrive
 psdrives
@@ -5039,7 +5029,6 @@ psnavigation
 psnexosisclient
 psngenposh
 psobject
-psoutlog
 pspath
 pspersonio
 pspowerhour
@@ -5890,6 +5879,7 @@ simplecontainers
 simplepassword
 simplepasswordgenerator
 simplivity
+simplysql
 sin
 single
 singlestore
@@ -6723,6 +6713,7 @@ ud-simpledrawer
 ud-singleselect
 ud-slider
 ud-speechbubble
+ud-step
 ud-stepbar
 ud-stickynavbar
 ud-tagcloud
@@ -6732,6 +6723,7 @@ ud-tool
 ud-toploader
 ud-trendline
 ud-typing
+ud-window
 ud-wordtree
 udcm
 udfeedback
@@ -6918,6 +6910,7 @@ vera
 veracrypt
 verbose
 verbose psmodule
+verification
 verify
 version
 versioning
@@ -7159,7 +7152,6 @@ whiteboard
 whitespace
 whoami
 whois
-whormi
 wi-fi
 wia
 wia.imagefile
@@ -7284,6 +7276,8 @@ wol
 wolfram
 wolframalpha
 woocommerce
+woolworths
+woolworthsrewards
 word
 word-wrap
 wordcloud
@@ -7347,7 +7341,6 @@ wsl
 wsl2
 wsman
 wsmanlistener
-wso2
 wsus
 wt
 wtsapi32
@@ -7411,6 +7404,7 @@ xsa
 xtremio
 xtrude
 xunit
+xwiki
 xwindowsupdate
 yahoo
 yahw
@@ -7426,7 +7420,6 @@ youtube
 youtube-dl
 youtubeextractor
 yq
-yubaba
 z
 zabbix
 zabbixps
@@ -7457,4 +7450,3 @@ zvmlinux
 全角半角変換
 寿司
 日本語
-湯婆婆
