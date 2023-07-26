@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Tuesday, 25 July 2023 17:52:47 UTC
+Updated: Wednesday, 26 July 2023 02:14:58 UTC
 
 ?:
 ??
@@ -1253,7 +1253,6 @@ commence
 comment
 comments
 commerce
-commfort
 commit
 common
 common-data-service
@@ -1618,7 +1617,6 @@ dataplatform
 datapro
 dataprotection
 dataquality
-datarow
 datasafe
 datascience
 dataset
@@ -1949,6 +1947,7 @@ drivertool.powercli
 driverupdates
 drm
 drone.io
+drop
 dropbox
 dropdatabase
 droplet
@@ -2214,7 +2213,6 @@ eventwatch
 evergreen
 evernote
 everydaypowershell
-everydayrewards
 everything
 evidencelock
 evolutionary-algorithms
@@ -2542,7 +2540,6 @@ fullmetalgnome
 fullscreen
 fun
 function
-functionality
 functionalprogramming
 functions
 funds
@@ -2907,7 +2904,6 @@ horizontal
 hornbill
 host
 host-based
-hosted
 hostentry
 hostfile
 hostinstance
@@ -2932,6 +2928,7 @@ hpemigrationadvisorytool
 hpenimblepowershelltoolkit
 hpeoacmdlets
 hpeoneview
+hpeosprovisioncmdlets
 hpesmartarraycmdlets
 hpesynergy
 hponeview
@@ -3063,7 +3060,6 @@ imagination
 imaging
 imap
 imb
-imei
 imi
 impala
 impersonation
@@ -3117,6 +3113,7 @@ innertext
 input
 inputbox
 inputobject
+insert
 insiderthreat
 insight
 insightanalytics
@@ -3470,7 +3467,6 @@ lease
 leetabit
 leftjoin
 legacy
-legacyad
 legends
 lego
 lein
@@ -3518,7 +3514,6 @@ linkedservicedependency
 linkid
 links
 linq
-linqpad
 lint
 linting
 linux
@@ -4428,7 +4423,10 @@ osdupdate
 osi
 osmanagement
 osmanagementhub
+osp
 ospgateway
+osprovision
+osprovisioning
 osr
 oss
 ossec
@@ -5223,6 +5221,8 @@ rbsu
 rcon
 rcs
 rcu
+rdb
+rdbms
 rdc
 rdcman
 rdcmanager
@@ -5309,6 +5309,7 @@ regression
 regularexpression
 regularexpressions
 reinstall
+relational
 relay
 release
 releasedefinition
@@ -5459,6 +5460,8 @@ roca
 rock
 rocket
 rocketcyber
+roco
+rocolatey
 role
 roles
 rollingfile
@@ -5520,6 +5523,7 @@ rust-lang
 ryanairps
 ryver
 s.ds.p
+s1
 s3
 s4b
 saas
@@ -5886,7 +5890,6 @@ simplecontainers
 simplepassword
 simplepasswordgenerator
 simplivity
-simplysql
 sin
 single
 singlestore
@@ -6223,6 +6226,7 @@ string-template
 stringmanager
 stringmanagertool
 strings
+stringutilities
 strip-ansi
 stripe
 strongname
@@ -6719,7 +6723,6 @@ ud-simpledrawer
 ud-singleselect
 ud-slider
 ud-speechbubble
-ud-step
 ud-stepbar
 ud-stickynavbar
 ud-tagcloud
@@ -6729,7 +6732,6 @@ ud-tool
 ud-toploader
 ud-trendline
 ud-typing
-ud-window
 ud-wordtree
 udcm
 udfeedback
@@ -6916,7 +6918,6 @@ vera
 veracrypt
 verbose
 verbose psmodule
-verification
 verify
 version
 versioning
@@ -7283,8 +7284,6 @@ wol
 wolfram
 wolframalpha
 woocommerce
-woolworths
-woolworthsrewards
 word
 word-wrap
 wordcloud
@@ -7412,7 +7411,6 @@ xsa
 xtremio
 xtrude
 xunit
-xwiki
 xwindowsupdate
 yahoo
 yahw
