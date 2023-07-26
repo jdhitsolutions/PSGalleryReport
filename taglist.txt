@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Wednesday, 26 July 2023 09:52:45 UTC
+Updated: Wednesday, 26 July 2023 17:53:30 UTC
 
 ?:
 ??
@@ -15,6 +15,7 @@ Updated: Wednesday, 26 July 2023 09:52:45 UTC
 'files
 'provider'
 "interactive
+🍄
 🍣
 💩
 10
@@ -236,8 +237,6 @@ aim
 aip
 aipscanner
 aircall
-airpower
-airpwr
 airtable
 aispeech
 aivision
@@ -280,7 +279,6 @@ alter
 alteryx
 alwaysontop
 alwaysonvpn
-alz
 amateur
 amateur-data-interchange-format
 amateur-radio
@@ -291,7 +289,6 @@ amazonmgn
 amazonwebservices
 amend
 ami
-amiga
 amp
 amqp
 amsi
@@ -797,6 +794,7 @@ block
 block-kit
 blockchain
 blocks
+blog
 blogs
 bls
 blue
@@ -1157,7 +1155,6 @@ cloudinit
 cloudiq
 cloudkey
 cloudmarque
-cloudmigrations
 cloudpc
 cloudservice
 clueser
@@ -1421,7 +1418,6 @@ coveralls
 coveralls.io
 covid
 covid-19
-cpm
 cppm
 cpu
 cpuid
@@ -1552,7 +1548,6 @@ cyclicredundancycheck
 cygwin
 cylance
 cypher
-cyrillic
 d365
 d365ce
 d365f&o
@@ -1731,6 +1726,7 @@ detection
 detectionrule
 deutsch
 deutschland
+dev
 dev-tools
 devart
 devdeer
@@ -2125,7 +2121,6 @@ enumerable
 env
 environment
 environment-variables
-environmentmanagent
 environmentmodules
 environments
 environmentvariable
@@ -2141,7 +2136,6 @@ episode
 epplus
 eprosima
 epub
-epv
 equality
 erb
 erp
@@ -2307,7 +2301,6 @@ factoryorchestratorclient
 facts
 faf
 failedlogin
-failure
 falcon
 fallbackstatuspoint
 fanarttv
@@ -2397,7 +2390,6 @@ filesystemwatcher
 filetransfer
 filetype
 filewrite
-fill
 film
 filter
 filter-item
@@ -2506,7 +2498,6 @@ framework
 france
 freeipa
 freenas
-freesoftwarefoundation
 freshbooks
 freshdesk
 freshservice
@@ -2521,7 +2512,6 @@ frontapp
 frontdoor
 frontrange
 fs
-fsf
 fsharp
 fslogix
 fsrm
@@ -2544,7 +2534,6 @@ functions
 funds
 funny
 fusion
-fusionapps
 fuzzy
 fyi
 fzf
@@ -2592,6 +2581,8 @@ genericartifactscontent
 genetic-algorithm
 genxdev
 geo
+geocache
+geocaching
 geoencode
 geoencoding
 geolocation
@@ -2639,6 +2630,7 @@ ggplot
 gh-actions
 ghactions
 ghc
+ghibli
 ghost
 gif
 gifs
@@ -2738,6 +2730,7 @@ greynoise
 grid
 gridfs
 grok
+groundspeak
 group
 group-membership
 group-policy
@@ -2923,6 +2916,7 @@ hpemigrationadvisorytool
 hpenimblepowershelltoolkit
 hpeoacmdlets
 hpeoneview
+hpeosprovisioncmdlets
 hpesmartarraycmdlets
 hpesynergy
 hponeview
@@ -3234,7 +3228,6 @@ iso-3166-1
 iso-8601
 ispac
 isprime
-ispss
 issues
 isvalidemail
 isvalidip
@@ -3292,7 +3285,6 @@ jojoba
 joke
 jotform
 journal
-joyride
 jpg
 jq
 js7
@@ -3322,7 +3314,6 @@ jvm
 jwk
 jws
 jwt
-jwttoken
 k8s
 kafka
 kaminario
@@ -3418,7 +3409,6 @@ lame
 lametrictime
 lamp
 lan
-landingzones
 language
 languagedsc
 languageexperiencepack
@@ -3434,7 +3424,6 @@ lastlogon
 lastpass
 latency
 latestupdate
-latin
 latitude
 launcher
 layer
@@ -3638,8 +3627,6 @@ lunches
 lwa
 lxca
 lxcapstool
-lxco
-lxcopstool
 lync
 m365
 maatschap-fortigi
@@ -3776,13 +3763,11 @@ mediant
 mediaplayer
 mediaservices
 mediawiki
-meditation
 meeting
 meetup
 meetup.com
 meewind
 megabyte
-melamed
 meltdown
 mem
 member
@@ -4362,7 +4347,6 @@ openprovider
 openscad
 opensearch
 opensource
-opensourceinitiative
 openssh
 openssl
 openstack
@@ -4415,10 +4399,12 @@ osdeployment
 osdprogress
 osdsus
 osdupdate
-osi
 osmanagement
 osmanagementhub
+osp
 ospgateway
+osprovision
+osprovisioning
 osr
 oss
 ossec
@@ -4459,7 +4445,6 @@ pac
 pack
 package
 package-management
-package-manager
 package-transform
 packagemanagement
 packagemanager
@@ -4504,7 +4489,6 @@ partitions
 partner
 partnercenter
 partnerportal
-pas
 pass
 passcode
 passivetotal
@@ -4549,7 +4533,6 @@ pbench
 pc
 pcapng
 pci-dss
-pcloud
 pcsetup
 pcsv
 pdb
@@ -4816,6 +4799,7 @@ prediction
 predictive
 predictive-text
 predictor
+preferences
 prefix
 preparead
 preparealldomains
@@ -4855,7 +4839,6 @@ privatekey
 privatemethods
 privateprofilestring
 privilege
-privilegecloud
 privileged
 privileges
 pro
@@ -4884,7 +4867,6 @@ progressbar
 progressbars
 project
 project-management
-projectmanagement
 projectreunion
 projects
 projecttemplate
@@ -5012,7 +4994,6 @@ psjobthreads
 pskeepass
 pslocalgallery
 psloganalytics
-psm
 psm1
 psmodule
 psmodule psedition_desktop
@@ -5029,6 +5010,7 @@ psnavigation
 psnexosisclient
 psngenposh
 psobject
+psoutlog
 pspath
 pspersonio
 pspowerhour
@@ -5134,9 +5116,7 @@ qemu
 qlgc_fc_powerkit
 qlik
 qlik-api
-qlik-sense
 qlik-view
-qliksesne
 qlikview
 qlikview-cli
 qlogic
@@ -5150,7 +5130,6 @@ qr
 qrcode
 qrcodes
 qrp
-qrs
 quality
 qualys
 quandl
@@ -5520,7 +5499,6 @@ sabnzbd
 sabnzbd+
 sacl
 safari
-safe
 safeguard
 sage
 saggiehaim
@@ -5981,7 +5959,6 @@ software
 softwarecenter
 softwaredistributioncomponent
 softwaremanagement
-softwarepackagedataexchange
 softwareupdatepoint
 softwareupdatepointcomponent
 solarigate
@@ -6024,7 +6001,6 @@ sparkline
 sparklines
 spawn
 spdockit
-spdx
 spdx-license-identifier:ms-pl
 spe
 speach
@@ -6587,8 +6563,6 @@ transforms
 transitionmanager
 translate
 translation
-translit
-transliteration
 transmission
 transparency
 transpilation
@@ -6654,7 +6628,6 @@ twitter-hashtag
 twitter-mention
 twitter-share
 twitter-timeline
-twitter-tweet
 txt
 type
 typeaccelerators
@@ -6702,7 +6675,6 @@ ud-numbermask
 ud-orgchart
 ud-piechart3d
 ud-pivottable
-ud-progressstepbar
 ud-rangeslider
 ud-readingbar
 ud-scrollspy
@@ -6853,7 +6825,6 @@ uw
 uwp
 ux
 vaas
-vadim
 vagrant
 vale
 validate
@@ -6911,7 +6882,6 @@ veracrypt
 verbose
 verbose psmodule
 verification
-verify
 version
 versioning
 versionmanager
@@ -6969,7 +6939,6 @@ vlookup
 vlsm
 vm
 vmc
-vmelamed5
 vmfs
 vmgroup
 vmhost
@@ -7004,11 +6973,8 @@ volkskrant
 volta
 volume
 volumeshadowcopy
-volumio
 vorbis
 vovin
-vpas
-vpasmodule
 vpc
 vpg
 vplex
@@ -7173,7 +7139,6 @@ win32_installedwin32program
 win32_operatingsystem
 win32-api
 win32shutdown
-winbuilder
 window
 windows
 windows  server
@@ -7341,6 +7306,7 @@ wsl
 wsl2
 wsman
 wsmanlistener
+wso2
 wsus
 wt
 wtsapi32
@@ -7420,6 +7386,7 @@ youtube
 youtube-dl
 youtubeextractor
 yq
+yubaba
 z
 zabbix
 zabbixps
@@ -7450,3 +7417,4 @@ zvmlinux
 全角半角変換
 寿司
 日本語
+湯婆婆
