@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Thursday, 27 July 2023 09:53:53 UTC
+Updated: Thursday, 27 July 2023 17:54:04 UTC
 
 ?:
 ??
@@ -289,6 +289,7 @@ amateurradio
 amazon
 amazonaws
 amazonmgn
+amazonwebservices
 amend
 ami
 amiga
@@ -784,6 +785,7 @@ biztalk
 biztalkalm
 biztalkdeploymentframework
 bks
+black
 blackbaud
 blackbox
 blacklist
@@ -948,6 +950,7 @@ catesta
 cats
 catty
 cavium
+cb
 cblueshell
 cbr
 cbz
@@ -1328,6 +1331,7 @@ connection
 connections
 connectionsmanager
 connectionstring
+connectivity
 connectwise
 conservation
 console
@@ -1662,6 +1666,7 @@ debugger
 debugging
 decimal
 decimalip
+decimalzero
 declarative
 decline
 decode
@@ -1860,6 +1865,7 @@ dnsclient
 dnsdumpster
 dnsentry
 dnsimple
+dnslookup
 dnsmadeeasy
 dnsoverhttps
 dnsrecord
@@ -2018,6 +2024,7 @@ dynamicsnav
 dynamodb
 dynatrace
 dynatraceobservability
+dz
 e-mail
 easy
 easy-to-use
@@ -2190,7 +2197,6 @@ event-timeline
 eventchannel
 eventchannels
 eventcollector
-eventful
 eventgrid
 eventhub
 eventing
@@ -2250,7 +2256,6 @@ exif
 exiftool
 exists
 exitcode
-exitprocessrequest
 exo
 exov2
 exov3
@@ -2310,6 +2315,7 @@ failure
 falcon
 fallbackstatuspoint
 fanarttv
+fancy
 faq
 farm
 farmanager
@@ -2536,6 +2542,7 @@ fullmetalgnome
 fullscreen
 fun
 function
+functionality
 functionalprogramming
 functions
 funds
@@ -3158,6 +3165,7 @@ interface
 interlogix
 internet
 internet-explorer
+internetconnection
 internetexplorer
 intersight
 intersightcmdlets
@@ -3419,6 +3427,7 @@ lambda
 lame
 lametrictime
 lamp
+lan
 landingzones
 language
 languagedsc
@@ -3688,6 +3697,7 @@ manageability
 managed-identity
 manageddisks
 managedidentities
+managedserviceidenity
 managedserviceidentity
 managedserviceprovider
 managedserviceproviders
@@ -3809,6 +3819,7 @@ messaging
 messenger
 met
 metadata
+metadataservice
 metaprogramming
 method
 methodinfo
@@ -4731,6 +4742,7 @@ pow
 powdrgit
 power
 power-apps
+power-cbr
 power-platform
 power-shell
 powerapps
@@ -5034,6 +5046,7 @@ psnavigation
 psnexosisclient
 psngenposh
 psobject
+psoutlog
 pspath
 pspersonio
 pspowerhour
@@ -5069,7 +5082,6 @@ pssqlservermodule
 psst
 psstgenerator
 pstablacus
-pstanss
 psthread
 pstk
 pstwitter
@@ -5533,6 +5545,7 @@ sailpoint
 sale
 sales
 salesforce
+salesloft
 salt
 salt-api
 saltstack
@@ -5741,6 +5754,7 @@ sentinelone
 sep
 seppmail
 seppmail.cloud
+seq
 sequence
 serialization
 serialize
@@ -6319,11 +6333,11 @@ syslog
 sysman
 sysmon
 sysop
+syspass
 sysprep
 system
 system information 1394 controller baseboard motherboard systemboard battery bios bus cache memory cd dvd rom drive compact disc desktop monitor disk partition fan floppy glide point heatpipe ide infrared device keyboard local logical array mouse'
 system-administration
-system-group
 system-service
 system-services
 system.directoryservices.protocols
@@ -6367,7 +6381,6 @@ taken
 takeown
 tally
 talxis
-tanss
 tanzu
 tar
 target
@@ -6440,6 +6453,7 @@ terrafun
 tesla
 test
 test-dscconfiguration
+test-internetconnection
 test-modulepath
 test-osplatform
 test-psremoting
@@ -6466,6 +6480,7 @@ text-to-speach"
 text-to-speech
 text2image
 textanalysis
+textbuffer
 texting
 textprocessing
 textwrapping
@@ -6528,7 +6543,6 @@ to-do
 toast
 toasts
 tobias
-toc
 todo
 todo.txt
 toggl
@@ -6597,6 +6611,7 @@ travel
 trec
 tree
 treesize
+treffynnon
 trein
 trello
 trellops
@@ -7151,6 +7166,7 @@ whiteboard
 whitespace
 whoami
 whois
+whormi
 wi-fi
 wia
 wia.imagefile
