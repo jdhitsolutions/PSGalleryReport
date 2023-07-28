@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Thursday, 27 July 2023 17:54:04 UTC
+Updated: Friday, 28 July 2023 02:01:24 UTC
 
 ?:
 ??
@@ -182,7 +182,6 @@ administrativeuser
 administrator
 admintools
 adml
-admpwd
 admx
 ado
 ado_security
@@ -604,7 +603,6 @@ azsk
 azsql
 azstackhci
 azstate
-azsubnet
 azts
 azuead
 azure
@@ -1411,8 +1409,6 @@ couchbase
 couchdb
 couchpotato
 count
-count-lines-of-code
-count-loc
 countdown
 counter
 countries
@@ -1696,7 +1692,6 @@ defenderforendpoint
 defense
 deflate
 delegated
-delegationmodel
 delete
 delete-orphan-branches
 deleteuserprofile
@@ -2197,6 +2192,7 @@ event-timeline
 eventchannel
 eventchannels
 eventcollector
+eventful
 eventgrid
 eventhub
 eventing
@@ -2256,6 +2252,7 @@ exif
 exiftool
 exists
 exitcode
+exitprocessrequest
 exo
 exov2
 exov3
@@ -2654,7 +2651,6 @@ gist
 git
 git-client
 git-clone
-git-stat
 gitcmdline
 gitdesktop
 gitea
@@ -2744,7 +2740,6 @@ grep
 greynoise
 grid
 gridfs
-grok
 groundspeak
 group
 group-membership
@@ -3090,7 +3085,6 @@ indexdb
 indicator
 inedo
 inetfwrule
-infinity
 influx
 influxdb
 info
@@ -3548,7 +3542,6 @@ loadbalancer.org
 loadtesting
 loanddepot
 loandepot
-loc
 local
 local-caching
 local-policy
@@ -3779,7 +3772,6 @@ mdx
 me4024
 mean
 measure
-measure-loc
 measure-process
 mecm
 media
@@ -4121,6 +4113,7 @@ network
 network adapter configuration operating os optical sensor physical pointing portable printer processor cpu refrigaration cooling cooler removable usb sd ram dimm scsi sound audio card enclosure tape temperature touchpad touch pad touchscreen screen trackball trackpoint video graphics voltage psmodule
 network-credentials
 network-info
+networkcontroller
 networkdiscovery
 networkdrives
 networkfirewall
@@ -4211,7 +4204,6 @@ nprintingapi
 nps
 npslog
 npslogfile
-nql
 nrc
 nrql
 ns
@@ -5063,6 +5055,7 @@ psreadexif
 psreadline
 psremoting
 psrepository
+psresourceget
 psrule
 psrule-rules
 pssa
@@ -5082,6 +5075,7 @@ pssqlservermodule
 psst
 psstgenerator
 pstablacus
+pstanss
 psthread
 pstk
 pstwitter
@@ -5222,7 +5216,6 @@ ratings
 ravendb
 razzle
 rbac
-rbacmodel
 rbsu
 rcon
 rcs
@@ -5279,7 +5272,6 @@ redforest
 redgate
 redirect
 redirecting
-redirects
 redirectstandarderror
 redirectstandardoutput
 redis
@@ -6253,7 +6245,6 @@ submission
 subnet
 subnet-calculator
 subnetcalulator
-subnetdetails
 subnetmapping
 subnetmask
 subnetmaths
@@ -6338,6 +6329,7 @@ sysprep
 system
 system information 1394 controller baseboard motherboard systemboard battery bios bus cache memory cd dvd rom drive compact disc desktop monitor disk partition fan floppy glide point heatpipe ide infrared device keyboard local logical array mouse'
 system-administration
+system-group
 system-service
 system-services
 system.directoryservices.protocols
@@ -6381,6 +6373,7 @@ taken
 takeown
 tally
 talxis
+tanss
 tanzu
 tar
 target
@@ -6522,7 +6515,6 @@ tic-tac-toe
 tickle
 ticks
 tictactoe
-tiermodel
 time
 timeout
 timer
@@ -6543,6 +6535,7 @@ to-do
 toast
 toasts
 tobias
+toc
 todo
 todo.txt
 toggl
@@ -6550,7 +6543,6 @@ toggle
 token
 tokenlifetime
 tokens
-toml
 tookit
 tool
 toolbox
@@ -6980,7 +6972,6 @@ visualstudioonline
 visualstudioteamservices
 vlan
 vlookup
-vlsm
 vm
 vmc
 vmelamed5
@@ -7005,7 +6996,6 @@ vmwcluster
 vmwdatacenter
 vmwfolder
 vmwvmhost
-vnet
 vnmonitoring
 vnugglets
 vnugglets.com
@@ -7131,7 +7121,6 @@ webpage
 webpi
 webreport
 webrequest
-webresponse
 webroot
 webserver
 webservice
