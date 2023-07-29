@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Friday, 28 July 2023 17:53:44 UTC
+Updated: Saturday, 29 July 2023 02:07:16 UTC
 
 ?:
 ??
@@ -182,7 +182,6 @@ administrativeuser
 administrator
 admintools
 adml
-admpwd
 admx
 ado
 ado_security
@@ -396,7 +395,6 @@ appv
 appveyor
 appvolumes
 appx
-appxmanifest
 aprs
 aprs-is
 aprsis
@@ -617,7 +615,6 @@ azure-data-explorer
 azure-devops
 azure-forensics
 azure-functions
-azure-pipelines
 azure-resource-graph
 azure-ssis
 azureactivedirectory
@@ -917,7 +914,6 @@ calvin-and-hobbes
 cam
 camera
 campaign
-camtasia
 canarie
 cancel
 cancellation
@@ -1387,7 +1383,6 @@ converttodocx
 converttohtml
 converttomarkdown
 converttomd
-cookie
 coolq
 cooltag1
 cooltag2
@@ -1397,8 +1392,6 @@ copy
 copy-item
 copyright
 core
-coreepower
-coreepower.module
 coreposh
 corona
 corporate
@@ -1556,6 +1549,7 @@ cyclicredundancycheck
 cygwin
 cylance
 cypher
+cyrillic
 d365
 d365ce
 d365f&o
@@ -1581,6 +1575,8 @@ data_protection
 data-archive
 data-backup
 data-tier
+data-uri
+data-uri-converter
 database
 database-migrations
 databaseautomation
@@ -1712,7 +1708,6 @@ dependencies
 dependency
 deploy
 deployment
-deploymentconfig
 deploymentmanager
 deploymentresourceprovider
 depute
@@ -1905,7 +1900,6 @@ domains
 domino
 donothing
 dos
-dot
 dotenv
 dotfile
 dotfiles
@@ -2093,6 +2087,7 @@ enable
 enable-internet
 enable-psremoting
 enable-psremotingremote
+enbrea
 enclosure
 encode
 encode64
@@ -2390,7 +2385,6 @@ fileserverresourcemanager
 fileshare
 filesharing
 filestorage
-filestream
 filesystem
 filesystementry-matcher
 filesystementry-matching
@@ -2497,7 +2491,6 @@ fortimanager
 fortinet
 fortinetmanager
 fortios
-fortune
 forum
 forwardcompatibility
 forwardedevents
@@ -2822,7 +2815,6 @@ hba
 hbase
 hci
 hcl
-hcm
 hcx
 hdfs
 hdinsight
@@ -2890,6 +2882,7 @@ hivehome
 hjson
 hl7
 hlds
+hls
 hockey
 hol
 holiday
@@ -3040,6 +3033,7 @@ ilo5
 ilocmdlets
 im
 image
+image-converter
 image-creation
 image-generation
 image-process
@@ -3306,7 +3300,6 @@ js7
 jsm
 jsm.insight
 json
-json-converter
 json-transform
 json+
 jsonplus
@@ -3432,6 +3425,7 @@ languageexperiencepack
 languagepack
 lansweeper
 laps
+laragon
 laserbeams
 last
 last.fm
@@ -3440,6 +3434,7 @@ lastlogon
 lastpass
 latency
 latestupdate
+latin
 latitude
 launcher
 layer
@@ -3625,6 +3620,7 @@ longfiles
 longitude
 look
 lookup
+loop
 loopback
 loremipsum
 love
@@ -3723,6 +3719,7 @@ marketo
 marketplace
 marketplaceordering
 marking
+marklogic
 marquee
 marvel
 marvell
@@ -3748,6 +3745,7 @@ max
 max_path
 maximum
 maxoffice
+mazerat
 mb
 mbc
 mbs
@@ -3879,7 +3877,6 @@ mimekit
 min
 mindmeister
 minecraft
-miniconda
 minifier
 minimal
 minimum
@@ -3947,6 +3944,8 @@ movies
 mozilla
 mp3
 mp4
+mpc
+mpeg
 mpn
 mrfk
 mrfylke
@@ -4334,6 +4333,7 @@ onlinebackup
 onprem
 onpremisesdatagatewayhamgmt
 onq
+ons
 ontap
 ontap_9.13.1
 ontap_9.8.0
@@ -4424,6 +4424,7 @@ osp
 ospgateway
 osprovision
 osprovisioning
+osr
 oss
 ossec
 osubbillingschedule
@@ -4818,7 +4819,6 @@ pranks
 predicate
 prediction
 predictive
-predictive-text
 predictor
 preferences
 prefix
@@ -5231,6 +5231,7 @@ rdp
 rdpsession
 rdpsign
 rds
+rdsgw
 react-stockcharts
 read
 read-slog
@@ -5328,6 +5329,7 @@ remoteconnectionsmanager
 remotecontrol
 remotedesktop
 remotedesktopconnectionmanager
+remotedesktopgateway
 remotedesktopmanager
 remotedesktopservices
 remotefiles
@@ -5377,7 +5379,6 @@ reservations
 reset
 resharper
 resize
-resolution
 resolve
 resolve-stache
 resolve-template
@@ -5412,6 +5413,7 @@ reuse
 reverse-engineer
 reverse-string
 reversedsc
+reverseengineering
 revision
 reword
 rewrite
@@ -5427,7 +5429,6 @@ rfc5952
 rfc826
 rfc9116
 rg
-rhapsody
 ribbon
 ribcl
 rightjoin
@@ -5476,7 +5477,6 @@ routine
 rover
 royalapps
 royaldocument
-royalserver
 royalts
 royaltsx
 rpa
@@ -5702,7 +5702,6 @@ securityroles
 securityscopes
 securitytxt
 seed
-seek
 seekatar
 seeshell
 select
@@ -5772,7 +5771,6 @@ servicelinker
 servicemanagementautomation
 servicemanager
 servicemanagerproxy
-servicemesh
 servicenow
 serviceplan
 servicepointmanager
@@ -6054,7 +6052,6 @@ spf
 spi
 spicetify
 spinnaker
-splash
 splat
 splatting
 split
@@ -6078,6 +6075,7 @@ sql-script
 sql-server
 sqlagent
 sqlautomation
+sqlbits
 sqlbrowser
 sqlchangeautomation
 sqlclient
@@ -6406,7 +6404,6 @@ techdirect
 techedna2014
 techlog
 technology
-techsmith
 tel
 telegram
 telegram-bot
@@ -6591,12 +6588,13 @@ transforms
 transitionmanager
 translate
 translation
+translit
+transliteration
 transmission
 transparency
 transpilation
 trap
 travel
-trec
 tree
 treesize
 treffynnon
@@ -6612,7 +6610,6 @@ tribeloo
 trigger
 triodos
 tripunkt
-troubleshoot
 troubleshooting
 trouw
 truecrypt
@@ -6633,6 +6630,7 @@ tsqlbestpractice
 tst
 tst1
 tst3
+ttrpg
 tts
 tubedownloader
 tui
@@ -6776,7 +6774,6 @@ unix
 unlinked
 unlock
 unprotect
-unsupported
 untis
 unzip
 up
@@ -6862,6 +6859,7 @@ validate-dcb
 validatedsolutions
 validatemapsconnectivity
 validation
+validator
 value
 valve
 vami
@@ -7077,6 +7075,7 @@ wapi
 warning
 warplaneporn
 warranty
+warraty
 warrenty
 wasabi
 watch
@@ -7211,6 +7210,7 @@ windowsdesktopsearch
 windowsevent
 windowseventlog
 windowsform
+windowsforms
 windowsindex
 windowsinstaller
 windowsinternaldatabase
@@ -7368,6 +7368,7 @@ x86
 xa
 xaf
 xbase
+xbox
 xclarity
 xdr
 xdschelper
