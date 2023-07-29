@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Saturday, 29 July 2023 09:52:48 UTC
+Updated: Saturday, 29 July 2023 17:53:31 UTC
 
 ?:
 ??
@@ -17,7 +17,6 @@ Updated: Saturday, 29 July 2023 09:52:48 UTC
 "interactive
 🍄
 🍣
-💩
 10
 11
 1607
@@ -298,7 +297,6 @@ amqp
 amsi
 amt
 amxmodx
-anaconda
 analysis
 analysisservices
 analyst
@@ -396,7 +394,6 @@ appv
 appveyor
 appvolumes
 appx
-appxmanifest
 aprs
 aprs-is
 aprsis
@@ -595,7 +592,6 @@ azforensics
 azkeyvault
 aznetworking
 aznetworkinterface
-aznicdetails
 azops
 azpublicipaddress
 azresources
@@ -604,7 +600,6 @@ azsk
 azsql
 azstackhci
 azstate
-azsubnet
 azts
 azuead
 azure
@@ -1092,10 +1087,8 @@ classified
 clccontrol
 clccontrolapiv1
 clccontrolapiv2
-clean-up
 cleanmgr
 cleanup
-cleanup-orphans
 clear
 clear-history
 clearpass
@@ -1291,7 +1284,6 @@ computersite
 concur
 concurrency
 concurrent
-conda
 condition
 conditionalaccess
 conduit
@@ -1499,7 +1491,6 @@ css
 csv
 csv2adx
 csvhelper
-ctf
 ctglobal
 ctl
 ctrl+c
@@ -1556,7 +1547,6 @@ cyclicredundancycheck
 cygwin
 cylance
 cypher
-cyrillic
 d365
 d365ce
 d365f&o
@@ -1572,6 +1562,7 @@ dagger
 dangling
 dapr
 dark
+darwin
 dash
 dashboard
 dashboardapi
@@ -1667,7 +1658,6 @@ debugger
 debugging
 decimal
 decimalip
-decimalzero
 declarative
 decline
 decode
@@ -1699,7 +1689,6 @@ deflate
 delegated
 delegationmodel
 delete
-delete-orphan-branches
 deleteuserprofile
 delivery
 dell
@@ -1715,7 +1704,6 @@ dependencies
 dependency
 deploy
 deployment
-deploymentconfig
 deploymentmanager
 deploymentresourceprovider
 depute
@@ -1866,7 +1854,6 @@ dnsclient
 dnsdumpster
 dnsentry
 dnsimple
-dnslookup
 dnsmadeeasy
 dnsoverhttps
 dnsrecord
@@ -1994,7 +1981,6 @@ duf
 dummy
 dummyusers
 dump
-dupes
 duplicate
 duplicate-files
 duplicatioin
@@ -2025,7 +2011,6 @@ dynamicsnav
 dynamodb
 dynatrace
 dynatraceobservability
-dz
 e-mail
 easy
 easy-to-use
@@ -2237,7 +2222,6 @@ exchange-rates
 exchange2010
 exchange2013
 exchange2016
-exchangecluster
 exchangehybrid
 exchangemigration
 exchangeon-premise
@@ -2361,8 +2345,6 @@ file-encoding
 file-extension
 file-extension-association
 file-invalidchar
-file-matcher
-file-matching
 file-monitoring
 file-name
 file-name-extension
@@ -2379,7 +2361,6 @@ filelist
 filelog
 filelogger
 filemanagement
-filematcher
 filename
 filenames
 fileproperties
@@ -2396,9 +2377,6 @@ filesharing
 filestorage
 filestream
 filesystem
-filesystementry-matcher
-filesystementry-matching
-filesystementrymatcher
 filesystemrights
 filesystemsecurity
 filesystemwatcher
@@ -2846,7 +2824,6 @@ heartbeatdiscovery
 heat
 heating
 heavenbay
-helium
 helix
 hello
 helloid
@@ -3080,7 +3057,6 @@ import-modulefrompath
 import-passlist
 import-sampackagedefinitionsms
 importer
-importexport
 importteams
 inactive
 inboxrule
@@ -3169,7 +3145,6 @@ interface
 interlogix
 internet
 internet-explorer
-internetconnection
 internetexplorer
 intersight
 intersightcmdlets
@@ -3303,7 +3278,6 @@ johnshopkins
 join
 join-object
 jojoba
-joke
 jotform
 journal
 joyride
@@ -3448,7 +3422,6 @@ lastlogon
 lastpass
 latency
 latestupdate
-latin
 latitude
 launcher
 layer
@@ -3746,7 +3719,6 @@ mass
 masstransit
 masterconfiguration
 matcharray
-matchhashtable
 materialdesign
 materialui
 mateso
@@ -3891,7 +3863,6 @@ mimekit
 min
 mindmeister
 minecraft
-miniconda
 minifier
 minimal
 minimum
@@ -4132,7 +4103,6 @@ networkfirewall
 networkfunction
 networkinfo
 networking
-networkinterfaces
 networkloadbalancer
 networkpolicyserver
 networkscan
@@ -4701,7 +4671,6 @@ polycom
 pomodoro
 ponduit
 pool
-poop
 pop
 pop-location
 pop3
@@ -4734,10 +4703,8 @@ poshgrouppolicy
 poshkeepass
 poshlog
 poshorigin
-poshproject
 poshprtg
 poshrsjob
-poshtemplate
 poshwsus
 position
 postgre
@@ -4812,7 +4779,6 @@ powershellmodule
 powershellmoduleupdate
 powershellpr0mpt
 powershellscript
-powershelltemplate
 powershelltraining
 powershelltypeaccelerators
 powershelluniversal
@@ -4834,7 +4800,6 @@ pranks
 predicate
 prediction
 predictive
-predictive-text
 predictor
 preferences
 prefix
@@ -4908,7 +4873,6 @@ project-management
 projectmanagement
 projectreunion
 projects
-projecttemplate
 projectwise
 proliant
 prometheus
@@ -4964,7 +4928,6 @@ psake
 psappdeploytoolkit
 psat
 psazd
-psbackup
 psbbix
 psbicep
 psclient
@@ -5116,7 +5079,6 @@ publishing
 pubsub
 pubxml
 pulldistributionpoint
-pullrequest
 pullserver
 pulseway
 pulumi
@@ -5495,7 +5457,6 @@ routine
 rover
 royalapps
 royaldocument
-royalserver
 royalts
 royaltsx
 rpa
@@ -5517,7 +5478,6 @@ ruby
 rule
 rulesengine
 run
-run-as-user
 runas
 runbook
 runbooks
@@ -5585,7 +5545,6 @@ savov
 sbc
 sc
 scaffold
-scaffoldingtemplate
 scala
 scalable
 scalablevectorgraphics
@@ -5606,7 +5565,6 @@ schannel
 schannelpolicydsc
 schedule
 scheduled
-scheduled-task
 scheduled-tasks
 scheduledjob
 scheduledtasks
@@ -5791,7 +5749,6 @@ servicelinker
 servicemanagementautomation
 servicemanager
 servicemanagerproxy
-servicemesh
 servicenow
 serviceplan
 servicepointmanager
@@ -5862,7 +5819,6 @@ sharepointpnppowershellonline.add-on.module
 shares
 sheets
 shell
-shell-art
 shells
 shieldedvm
 ships
@@ -6190,7 +6146,6 @@ stats
 statsd
 status
 status_watcher
-statuscake
 statuscode
 statusmonitor
 statusreportingcomponent
@@ -6260,7 +6215,6 @@ submission
 subnet
 subnet-calculator
 subnetcalulator
-subnetdetails
 subnetmapping
 subnetmask
 subnetmaths
@@ -6346,8 +6300,6 @@ system
 system information 1394 controller baseboard motherboard systemboard battery bios bus cache memory cd dvd rom drive compact disc desktop monitor disk partition fan floppy glide point heatpipe ide infrared device keyboard local logical array mouse'
 system-administration
 system-group
-system-service
-system-services
 system.directoryservices.protocols
 system.text
 systemcenter
@@ -6462,7 +6414,6 @@ terrafun
 tesla
 test
 test-dscconfiguration
-test-internetconnection
 test-modulepath
 test-osplatform
 test-psremoting
@@ -6611,8 +6562,6 @@ transforms
 transitionmanager
 translate
 translation
-translit
-transliteration
 transmission
 transparency
 transpilation
@@ -6991,7 +6940,6 @@ visualstudioonline
 visualstudioteamservices
 vlan
 vlookup
-vlsm
 vm
 vmc
 vmelamed5
@@ -7016,7 +6964,6 @@ vmwcluster
 vmwdatacenter
 vmwfolder
 vmwvmhost
-vnet
 vnmonitoring
 vnugglets
 vnugglets.com
@@ -7186,7 +7133,6 @@ widedata
 wif
 wifi
 wiki
-wildcard
 wildfly
 wim
 wim2vhd
