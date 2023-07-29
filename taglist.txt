@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Saturday, 29 July 2023 02:07:16 UTC
+Updated: Saturday, 29 July 2023 09:52:48 UTC
 
 ?:
 ??
@@ -182,6 +182,7 @@ administrativeuser
 administrator
 admintools
 adml
+admpwd
 admx
 ado
 ado_security
@@ -395,6 +396,7 @@ appv
 appveyor
 appvolumes
 appx
+appxmanifest
 aprs
 aprs-is
 aprsis
@@ -615,6 +617,7 @@ azure-data-explorer
 azure-devops
 azure-forensics
 azure-functions
+azure-pipelines
 azure-resource-graph
 azure-ssis
 azureactivedirectory
@@ -914,6 +917,7 @@ calvin-and-hobbes
 cam
 camera
 campaign
+camtasia
 canarie
 cancel
 cancellation
@@ -1383,6 +1387,7 @@ converttodocx
 converttohtml
 converttomarkdown
 converttomd
+cookie
 coolq
 cooltag1
 cooltag2
@@ -1392,6 +1397,8 @@ copy
 copy-item
 copyright
 core
+coreepower
+coreepower.module
 coreposh
 corona
 corporate
@@ -1708,6 +1715,7 @@ dependencies
 dependency
 deploy
 deployment
+deploymentconfig
 deploymentmanager
 deploymentresourceprovider
 depute
@@ -1900,6 +1908,7 @@ domains
 domino
 donothing
 dos
+dot
 dotenv
 dotfile
 dotfiles
@@ -2385,6 +2394,7 @@ fileserverresourcemanager
 fileshare
 filesharing
 filestorage
+filestream
 filesystem
 filesystementry-matcher
 filesystementry-matching
@@ -2491,6 +2501,7 @@ fortimanager
 fortinet
 fortinetmanager
 fortios
+fortune
 forum
 forwardcompatibility
 forwardedevents
@@ -2737,6 +2748,7 @@ grep
 greynoise
 grid
 gridfs
+grok
 groundspeak
 group
 group-membership
@@ -2815,6 +2827,7 @@ hba
 hbase
 hci
 hcl
+hcm
 hcx
 hdfs
 hdinsight
@@ -3300,6 +3313,7 @@ js7
 jsm
 jsm.insight
 json
+json-converter
 json-transform
 json+
 jsonplus
@@ -3877,6 +3891,7 @@ mimekit
 min
 mindmeister
 minecraft
+miniconda
 minifier
 minimal
 minimum
@@ -4819,6 +4834,7 @@ pranks
 predicate
 prediction
 predictive
+predictive-text
 predictor
 preferences
 prefix
@@ -5379,6 +5395,7 @@ reservations
 reset
 resharper
 resize
+resolution
 resolve
 resolve-stache
 resolve-template
@@ -5429,6 +5446,7 @@ rfc5952
 rfc826
 rfc9116
 rg
+rhapsody
 ribbon
 ribcl
 rightjoin
@@ -5477,6 +5495,7 @@ routine
 rover
 royalapps
 royaldocument
+royalserver
 royalts
 royaltsx
 rpa
@@ -5702,6 +5721,7 @@ securityroles
 securityscopes
 securitytxt
 seed
+seek
 seekatar
 seeshell
 select
@@ -5771,6 +5791,7 @@ servicelinker
 servicemanagementautomation
 servicemanager
 servicemanagerproxy
+servicemesh
 servicenow
 serviceplan
 servicepointmanager
@@ -6052,6 +6073,7 @@ spf
 spi
 spicetify
 spinnaker
+splash
 splat
 splatting
 split
@@ -6404,6 +6426,7 @@ techdirect
 techedna2014
 techlog
 technology
+techsmith
 tel
 telegram
 telegram-bot
@@ -6595,6 +6618,7 @@ transparency
 transpilation
 trap
 travel
+trec
 tree
 treesize
 treffynnon
@@ -6610,6 +6634,7 @@ tribeloo
 trigger
 triodos
 tripunkt
+troubleshoot
 troubleshooting
 trouw
 truecrypt
@@ -6774,6 +6799,7 @@ unix
 unlinked
 unlock
 unprotect
+unsupported
 untis
 unzip
 up
