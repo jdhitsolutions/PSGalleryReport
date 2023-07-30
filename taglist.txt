@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Sunday, 30 July 2023 09:52:52 UTC
+Updated: Sunday, 30 July 2023 17:53:45 UTC
 
 ?:
 ??
@@ -15,6 +15,7 @@ Updated: Sunday, 30 July 2023 09:52:52 UTC
 'files
 'provider'
 "interactive
+🍄
 🍣
 💩
 10
@@ -289,7 +290,6 @@ amazon
 amazonaws
 amazonmgn
 amazonwebservices
-amend
 ami
 amiga
 amp
@@ -522,6 +522,7 @@ authorize.net
 authz
 autify
 auto
+auto_cd
 auto-completion
 autoattendant
 autocloudarc
@@ -954,6 +955,10 @@ cchoco
 cchocoex
 ccm
 cd
+cd_path
+cd-
+cd+
+cdable_vars
 cdata
 cdb
 cdi
@@ -1050,6 +1055,7 @@ cicdpipeline
 cidr
 cif
 cifv3
+cil
 cim
 cim_computersystem
 cimfs
@@ -1188,6 +1194,7 @@ code365
 codeanalysis
 codebuild
 codecommit
+codecomplexity
 codecov
 codecoverage
 codegen
@@ -1399,6 +1406,7 @@ cost
 costoptimization
 couchbase
 couchdb
+couchpotato
 count
 count-lines-of-code
 count-loc
@@ -1631,6 +1639,7 @@ datum
 dave
 davinci
 dax
+dayinweek
 days-week
 db
 db2
@@ -1775,6 +1784,7 @@ digitaltwins
 dilbert
 dimcry
 dircolors
+director
 directories
 directory
 directory psedition_core psedition_desktop
@@ -1975,6 +1985,7 @@ dtsx
 dtx
 du
 dual-stack
+duck
 dudckduckgo
 duf
 dummy
@@ -2016,6 +2027,7 @@ e-mail
 easy
 easy-to-use
 easylife365
+easyvista
 eaton
 ebay
 ebooks
@@ -2081,6 +2093,7 @@ enable
 enable-internet
 enable-psremoting
 enable-psremotingremote
+enbrea
 enclosure
 encode
 encode64
@@ -2241,6 +2254,7 @@ execute
 exexml
 exif
 exiftool
+exists
 exitcode
 exitprocessrequest
 exo
@@ -2435,6 +2449,7 @@ flash
 flasharray
 flashblade
 flatfile
+flatten
 flex
 flex-query
 flexdesk
@@ -2574,6 +2589,7 @@ generate
 generate-password
 generate-random-password
 generateaddress
+generates
 generatewif
 generation
 generator
@@ -2582,6 +2598,8 @@ genericartifactscontent
 genetic-algorithm
 genxdev
 geo
+geocache
+geocaching
 geoencode
 geoencoding
 geolocation
@@ -2629,6 +2647,7 @@ ggplot
 gh-actions
 ghactions
 ghc
+ghibli
 ghost
 gif
 gifs
@@ -2656,6 +2675,7 @@ gitlab4
 gitlabpipeline
 gitops
 glob
+globalclipboard
 globaldashboard
 globalentry
 globbing
@@ -2727,6 +2747,7 @@ greynoise
 grid
 gridfs
 grok
+groundspeak
 group
 group-membership
 group-policy
@@ -2996,6 +3017,7 @@ identifier
 identity
 identity-management
 identitydataplane
+identitydirector
 identitydomains
 identitynow
 idf
@@ -3016,6 +3038,7 @@ iis8
 iisadministration
 iiscrypto
 ikev2
+il
 illinois
 ilo
 ilo5
@@ -3094,6 +3117,7 @@ initiator
 inline-progress
 inlineprogress
 innerjoin
+innertext
 input
 inputbox
 inputobject
@@ -3242,6 +3266,7 @@ itglue
 itin
 itop
 itsm
+itstore
 ivanti
 ivb
 ivdc
@@ -3287,6 +3312,7 @@ js7
 jsm
 jsm.insight
 json
+json-converter
 json-transform
 json+
 jsonplus
@@ -3457,6 +3483,7 @@ leiningnen
 lenel
 length
 lenovo
+lesspass
 letsencrypt
 lf
 lgpo
@@ -3646,6 +3673,7 @@ magazine
 magento
 magic8ball
 magicpacket
+magnet
 mail
 mailbox
 mailchimp
@@ -3965,6 +3993,7 @@ msgraphtokenlifetimepolicy
 msi
 msi psmodule
 msiexec
+msil
 msix
 mslab
 msmq
@@ -4404,6 +4433,7 @@ osdsus
 osdupdate
 osi
 osmanagement
+osmanagementhub
 osp
 ospgateway
 osprovision
@@ -4425,6 +4455,7 @@ out-default
 out-gridview
 out-json
 outerjoin
+outertext
 outline
 outlook
 output
@@ -5004,6 +5035,7 @@ pskeepass
 pslocalgallery
 psloganalytics
 psm
+psm1
 psmodule
 psmodule psedition_desktop
 psmodulepath
@@ -5084,6 +5116,7 @@ publishing
 pubsub
 pubxml
 pulldistributionpoint
+pullrequest
 pullserver
 pulseway
 pulumi
@@ -5226,7 +5259,6 @@ readpdf
 readthedocs
 realschule
 realtimeprotection
-rebase
 reboot
 rebootnodeifneeded
 reckon
@@ -5334,6 +5366,7 @@ ren-isac
 rename
 reparsepoint
 repeat
+repl
 replace
 replaygain
 replication
@@ -5355,11 +5388,13 @@ requiredmodules
 requirements
 res
 rescan
+rescuetime
 reservation
 reservations
 reset
 resharper
 resize
+resolution
 resolve
 resolve-stache
 resolve-template
@@ -5396,8 +5431,6 @@ reverse-string
 reversedsc
 reverseengineering
 revision
-reword
-rewrite
 rexec
 rfc1305
 rfc1436
@@ -5463,6 +5496,7 @@ royalserver
 royalts
 royaltsx
 rpa
+rpc
 rras
 rrd
 rs
@@ -5474,6 +5508,7 @@ rsop
 rss
 rt
 rtu
+rubber
 rubrik
 ruby
 rule
@@ -5760,6 +5795,7 @@ servicepointmanager
 serviceprincipal
 services
 servicestatus
+servicestore
 servicing
 servicingstack
 ses
@@ -6048,6 +6084,7 @@ spotify
 spotify-api
 spotlight
 spotlightimages
+spp
 spread
 spreadsheet
 springcloud
@@ -6211,6 +6248,7 @@ studio
 style
 su
 sub
+sub-directory
 sub-menu
 subatomix
 subjectname
@@ -6248,6 +6286,7 @@ support-tool
 support-tools
 suppress
 supress-reboot
+surround
 survey
 surveymonkey
 sushi
@@ -6532,6 +6571,7 @@ topology
 tor
 toradex
 torizon
+torrent
 torrents
 toshiba
 totp
@@ -6570,6 +6610,7 @@ translate
 translation
 translit
 transliteration
+transmission
 transparency
 transpilation
 trap
@@ -6831,6 +6872,7 @@ uuid
 uup
 uw
 uwp
+ux
 vaas
 vadim
 vagrant
@@ -6908,6 +6950,7 @@ viewer
 viewgroup
 vigenere
 vim
+vimode
 virole
 virsh
 virtual
@@ -7153,6 +7196,7 @@ win32_installedwin32program
 win32_operatingsystem
 win32-api
 win32shutdown
+winbuilder
 window
 windows
 windows  server
@@ -7400,6 +7444,7 @@ youtube
 youtube-dl
 youtubeextractor
 yq
+yubaba
 z
 zabbix
 zabbixps
@@ -7430,3 +7475,4 @@ zvmlinux
 全角半角変換
 寿司
 日本語
+湯婆婆
