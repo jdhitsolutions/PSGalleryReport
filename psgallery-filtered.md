@@ -3,6 +3,55 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [psPAS](https://www.powershellgallery.com/Packages/psPAS/5.6.135) | 5.6.135
+
+### Published: 07/31/2023 00:53:51 by Pete Maan
+
+Module for CyberArk Privileged Access Security Web Service REST API
+
+__Downloads__: 73,264 | __Repository__: https://pspas.pspete.dev/
+
+## [ProcessTree](https://www.powershellgallery.com/Packages/ProcessTree/1.0.0) | 1.0.0
+
+### Published: 07/31/2023 00:32:29 by BaldCat
+
+This module writes the process tree.
+
+__Downloads__: 0 | __Repository__: 
+
+## [Universal](https://www.powershellgallery.com/Packages/Universal/4.0.9) | 4.0.9
+
+### Published: 07/30/2023 23:18:11 by Ironman Software
+
+Module for PowerShell Universal.
+
+__Downloads__: 46,879 | __Repository__: https://ironmansoftware.com/powershell-universal
+
+## [TrainingUtils.JVSM](https://www.powershellgallery.com/Packages/TrainingUtils.JVSM/0.0.4) | 0.0.4
+
+### Published: 07/30/2023 19:17:48 by JSerra
+
+Es un módulo de logging que acepta estos tipos de mensajes, INFO, WARNING, ERROR, DEBUG y VERBOSE. 
+    Para configurar se debe llamar a la función
+    
+    Tiene dos modos de configuración con las banderas -Verbose y -Debug. Siguiendo la siguiente lógica.
+    Las trazas de verbose solo se deben ver en pantalla si se usa el parámetro -Verbose, pero siempre aparecerán en el archivo de log.
+    Las trazas de debug solo se deben ver en pantalla si se usa el parámetro -Debug, pero siempre aparecerán en el archivo de log.
+    Lo anterior se hace aprovechando la funcionalidad de los cmdlets Write-Debug and Write-Verbose
+    
+    O de forma opcional, como un extra que no va en detrimento de la funcionalidad requerida habilitando el nivel de Login
+    (umbral a partir del cual se logean las entradas), al definir la el parametro LogLevelConfigParam
+
+__Downloads__: 0 | __Repository__: 
+
+## [QuickFix](https://www.powershellgallery.com/Packages/QuickFix/0.2.0) | 0.2.0
+
+### Published: 07/30/2023 18:32:21 by chris.mcdonald19@pm.me
+
+This script is designed to minimise the impact on helpdesk by automatically testing and resolving issues where possible and flagging potential future issues to helpdesk before it becomes an issue.
+
+__Downloads__: 1 | __Repository__: 
+
 ## [AppManiProgramManager](https://www.powershellgallery.com/Packages/AppManiProgramManager/1.32.0) | 1.32.0
 
 ### Published: 07/30/2023 17:12:50 by AppMani
@@ -25,15 +74,7 @@ __Downloads__: 0 | __Repository__:
 
 The PowerShell AI module integrates with the OpenAI API and let's you easily access the GPT models for text completion, image generation and more.
 
-__Downloads__: 10,663 | __Repository__: https://github.com/dfinke/PowerShellAI
-
-## [QuickFix](https://www.powershellgallery.com/Packages/QuickFix/0.1.9) | 0.1.9
-
-### Published: 07/30/2023 14:56:47 by chris.mcdonald19@pm.me
-
-This script is designed to minimise the impact on helpdesk by automatically testing and resolving issues where possible and flagging potential future issues to helpdesk before it becomes an issue.
-
-__Downloads__: 1 | __Repository__: 
+__Downloads__: 10,664 | __Repository__: https://github.com/dfinke/PowerShellAI
 
 ## [TD.Util](https://www.powershellgallery.com/Packages/TD.Util/0.1.38) | 0.1.38
 
@@ -74,7 +115,7 @@ Refer to this GitHub repository for more info: https://github.com/HotCakeX/Harde
 
 Use "get-command -Module Harden-Windows-Security-Module" to see more info after installing the module
 
-__Downloads__: 5 | __Repository__: https://github.com/HotCakeX/Harden-Windows-Security
+__Downloads__: 7 | __Repository__: https://github.com/HotCakeX/Harden-Windows-Security
 
 ## [PowerShellAI.Functions](https://www.powershellgallery.com/Packages/PowerShellAI.Functions/0.1.0) | 0.1.0
 
@@ -82,7 +123,7 @@ __Downloads__: 5 | __Repository__: https://github.com/HotCakeX/Harden-Windows-Se
 
 PowerShellAI Functions Module a PowerShell module designed to work as a bridge between PowerShell functions and OpenAI.
 
-__Downloads__: 26 | __Repository__: https://github.com/dfinke/PowerShellAI.FunctionsRig
+__Downloads__: 27 | __Repository__: https://github.com/dfinke/PowerShellAI.FunctionsRig
 
 ## [PSInternetConnectionSharing](https://www.powershellgallery.com/Packages/PSInternetConnectionSharing/1.2.4) | 1.2.4
 
@@ -152,7 +193,7 @@ __Downloads__: 44 | __Repository__: https://github.com/PoshAJ/PoshToolbox
 
 Create evergreen Windows image builds with the latest versions of applications. Evergreen is a simple PowerShell module that retrieves the latest version numbers and download URLs for various software products directly from the vendor source.
 
-__Downloads__: 1,797,062 | __Repository__: https://stealthpuppy.com/evergreen/
+__Downloads__: 1,797,088 | __Repository__: https://stealthpuppy.com/evergreen/
 
 ## [PSTree](https://www.powershellgallery.com/Packages/PSTree/2.1.13) | 2.1.13
 
@@ -168,7 +209,7 @@ __Downloads__: 995 | __Repository__: https://www.github.com/santisq/PSTree
 
 This module provides an interface to the Hudu Rest API further information can be found at https://github.com/lwhitelock/HuduAPI
 
-__Downloads__: 537,516 | __Repository__: 
+__Downloads__: 537,513 | __Repository__: 
 
 ## [RiverMeadow.Development.Migrate](https://www.powershellgallery.com/Packages/RiverMeadow.Development.Migrate/1.0.116.275) | 1.0.116.275
 
@@ -566,7 +607,7 @@ __Downloads__: 491 | __Repository__:
 
 Automation tools for production quality database deployment
 
-__Downloads__: 4,353,553 | __Repository__: https://www.red-gate.com/sca/productpage
+__Downloads__: 4,353,559 | __Repository__: https://www.red-gate.com/sca/productpage
 
 ## [PoshRedisViewerModule](https://www.powershellgallery.com/Packages/PoshRedisViewerModule/0.0.10) | 0.0.10
 
@@ -598,7 +639,7 @@ __Downloads__: 203 | __Repository__: https://github.com/NorskNoobing/NN.MSGraph
 
 OSD Day Prep Edition
 
-__Downloads__: 820,486 | __Repository__: https://github.com/OSDeploy/OSD
+__Downloads__: 820,484 | __Repository__: https://github.com/OSDeploy/OSD
 
 ## [AsBuiltReport.Microsoft.AD](https://www.powershellgallery.com/Packages/AsBuiltReport.Microsoft.AD/0.7.14) | 0.7.14
 
@@ -630,7 +671,7 @@ __Downloads__: 11 | __Repository__: https://github.com/widedata/scripts/tree/mai
 
 The Guest Configuration module is a tool to author custom content for Azure Guest Configuration. These cmdlets build and validate content packages and custom policies, which can then be used in cross-platform configuration management solutions.
 
-__Downloads__: 46,642 | __Repository__: https://github.com/Azure/GuestConfiguration
+__Downloads__: 46,646 | __Repository__: https://github.com/Azure/GuestConfiguration
 
 ## [Devolutions.PowerShell](https://www.powershellgallery.com/Packages/Devolutions.PowerShell/2023.2.0.3) | 2023.2.0.3
 
@@ -1799,7 +1840,7 @@ __Downloads__: 181 | __Repository__:
 
 PSWriteHTML is PowerShell Module to generate beautiful HTML reports, pages, emails without any knowledge of HTML, CSS or JavaScript. To get started basics PowerShell knowledge is required.
 
-__Downloads__: 1,893,738 | __Repository__: https://github.com/EvotecIT/PSWriteHTML
+__Downloads__: 1,893,820 | __Repository__: https://github.com/EvotecIT/PSWriteHTML
 
 ## [CopySSHKey](https://www.powershellgallery.com/Packages/CopySSHKey/1.1) | 1.1
 
@@ -2017,36 +2058,4 @@ NTS.Tools.MSADDS module contains functions that are mainly related to Microsoft 
 
 __Downloads__: 1,186 | __Repository__: 
 
-## [NTS.Tools.MSADCS](https://www.powershellgallery.com/Packages/NTS.Tools.MSADCS/1.0.1.4) | 1.0.1.4
-
-### Published: 07/24/2023 14:36:06 by Moritz Wiedmann
-
-NTS.Tools.MSADCS module contains functions that are mainly related to Microsoft Active Directory Certification Services
-
-__Downloads__: 1,201 | __Repository__: 
-
-## [NTS.Tools.Application](https://www.powershellgallery.com/Packages/NTS.Tools.Application/1.0.1.4) | 1.0.1.4
-
-### Published: 07/24/2023 14:35:45 by Moritz Wiedmann
-
-NTS.Tools.Application module contains functions to install applications
-
-__Downloads__: 214 | __Repository__: 
-
-## [NTS.Tools.General](https://www.powershellgallery.com/Packages/NTS.Tools.General/1.0.0.6) | 1.0.0.6
-
-### Published: 07/24/2023 14:34:11 by Moritz Wiedmann
-
-NTS.Tools.General module contains functions that are used for general purpose
-
-__Downloads__: 1,334 | __Repository__: 
-
-## [ServiceNow](https://www.powershellgallery.com/Packages/ServiceNow/4.0.1) | 4.0.1
-
-### Published: 07/24/2023 13:44:43 by Greg Brownstein Rick Arroues Sam Martin
-
-Automate against ServiceNow service and asset management.  This module can be used standalone, with Azure Automation, or Docker.
-
-__Downloads__: 279,607 | __Repository__: https://github.com/Snow-Shell/servicenow-powershell
-
-*Updated: Sunday, 30 July 2023 17:53:29 UTC*
+*Updated: Monday, 31 July 2023 02:12:19 UTC*
