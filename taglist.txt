@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 31 July 2023 02:12:35 UTC
+Updated: Monday, 31 July 2023 09:52:57 UTC
 
 ?:
 ??
@@ -193,7 +193,6 @@ adobject
 adouobject
 adoxio
 adp
-adr
 ads
 adsi
 adsite
@@ -290,7 +289,6 @@ amazon
 amazonaws
 amazonmgn
 amazonwebservices
-amend
 ami
 amiga
 amp
@@ -302,7 +300,6 @@ anaconda
 analysis
 analysisservices
 analyst
-analyth
 analytics
 analyticsrules
 analyze
@@ -424,7 +421,6 @@ archlinux
 arcresourcebridge
 arcus
 area
-arg
 argument
 argumentcompleter
 arguments
@@ -502,7 +498,6 @@ audio
 audiocodes
 audit
 auditing
-auditpol
 auditpolicies
 auditpolicy
 audits
@@ -674,7 +669,6 @@ azuresqlexport
 azuresqlimport
 azuressas
 azurestack
-azurestackhci
 azurestate
 azurestorage
 azurestorageservices
@@ -1093,7 +1087,6 @@ clccontrol
 clccontrolapiv1
 clccontrolapiv2
 clean-up
-cleanmgr
 cleanup
 cleanup-orphans
 clear
@@ -1198,6 +1191,7 @@ code365
 codeanalysis
 codebuild
 codecommit
+codecomplexity
 codecov
 codecoverage
 codegen
@@ -1335,7 +1329,6 @@ connectivity
 connectwise
 conservation
 console
-consoleguitools
 consolemenu
 consolemusic
 consumer
@@ -1676,7 +1669,6 @@ decoding
 decompiler
 decrypt
 decryption
-dedicatedhsm
 deduplication
 deep
 deep-security
@@ -2131,6 +2123,7 @@ enum
 enumerable
 env
 environment
+environment-variables
 environmentmanagent
 environmentmodules
 environments
@@ -2212,7 +2205,6 @@ eventmonitoring
 eventprocessor
 events
 eventsubscription
-eventviewer
 eventwatch
 evergreen
 evernote
@@ -2246,7 +2238,6 @@ exchangeonlineprotection
 exchangeonprem
 exchangeserver
 exchangewebservices
-exclusion
 excuse
 exe
 exec
@@ -2256,7 +2247,6 @@ execute
 exexml
 exif
 exiftool
-exists
 exitcode
 exitprocessrequest
 exo
@@ -2286,7 +2276,6 @@ exportcertificates
 exporter
 exportexcel
 exportteams
-expression
 extend
 extended
 extendedattributes
@@ -2549,6 +2538,7 @@ function_calling
 functionality
 functionalprogramming
 functions
+funds
 funny
 fusion
 fusionapps
@@ -2623,6 +2613,7 @@ get-dtdriverupdates
 get-dtscriptnewcmpackagefromdriverpackpackagedefinitionsms
 get-dtscriptnewcmtasksequencefromdriverpackpackagedefinitionsms
 get-emptyadgroups
+get-externalip
 get-firmwaretype
 get-help
 get-history
@@ -3034,7 +3025,6 @@ ihs
 iiittttt
 iis
 iis10
-iis8
 iisadministration
 iiscrypto
 ikev2
@@ -3291,8 +3281,6 @@ jira
 jiraservicemanagement
 jitbit
 jms
-jnet
-jnetps
 joat
 job
 jobcan
@@ -3331,7 +3319,6 @@ junit
 jupyter
 jupytor
 justenoughadministration
-jvm
 jwk
 jws
 jwt
@@ -3392,7 +3379,6 @@ knowledge
 knowledgebase
 koans
 korn
-kotlin
 kql
 kraken
 krbtgt
@@ -3496,6 +3482,7 @@ licence
 license
 license-generator
 licenseautomation
+licensemanagement
 licensemanager
 licensereport
 licenses
@@ -3757,7 +3744,6 @@ max
 max_path
 maximum
 maxoffice
-mazerat
 mb
 mbc
 mbs
@@ -3793,6 +3779,7 @@ meditation
 meeting
 meetup
 meetup.com
+meewind
 megabyte
 melamed
 meltdown
@@ -4004,7 +3991,6 @@ msp360
 mspbackups
 msproject
 msrc
-msrdc
 mssql
 mssqlbynarymodule
 mssqlbynarypsmodule
@@ -4269,7 +4255,6 @@ obs
 observeit
 oce
 ocg
-ocgv
 oci
 ocicontrolcenter
 ocr
@@ -4436,7 +4421,6 @@ osp
 ospgateway
 osprovision
 osprovisioning
-osr
 oss
 ossec
 osubbillingschedule
@@ -4663,6 +4647,7 @@ playbook
 player
 playlists
 pleasant
+pleasantpasswordserver
 plex
 plist
 plog
@@ -4791,7 +4776,6 @@ powershell-terminal-copilot
 powershell-training
 powershell.module.invokewinget
 powershell.one
-powershell.persistentpathstack
 powershell7
 powershellai
 powershellazuresql
@@ -4843,6 +4827,7 @@ preprocessing
 preprocessor
 presentation
 presenter
+presto
 preston-k-parsard
 prettifier
 pretty
@@ -5232,7 +5217,6 @@ rcs
 rcu
 rdb
 rdbms
-rdc
 rdcman
 rdcmanager
 rdfe
@@ -5241,7 +5225,6 @@ rdl
 rdm
 rdp
 rdpsession
-rdpsign
 rds
 rdsgw
 react-stockcharts
@@ -5255,7 +5238,6 @@ readpdf
 readthedocs
 realschule
 realtimeprotection
-rebase
 reboot
 rebootnodeifneeded
 reckon
@@ -5333,7 +5315,6 @@ remedy
 remember
 reminder
 remote
-remote-desktop
 remote'
 remotecert
 remoteconnection
@@ -5401,7 +5382,6 @@ resource_monitor
 resource_watcher
 resourceaccount
 resourcecontroller
-resourcegraph
 resourcegroup
 resourceid
 resourcekit
@@ -5428,8 +5408,6 @@ reverse-string
 reversedsc
 reverseengineering
 revision
-reword
-rewrite
 rexec
 rfc1305
 rfc1436
@@ -5582,7 +5560,6 @@ sbc
 sc
 scaffold
 scaffoldingtemplate
-scala
 scalable
 scalablevectorgraphics
 scan
@@ -5620,7 +5597,6 @@ scissors
 scm
 scmanager
 scom
-sconfig
 scoop
 scope
 score
@@ -5780,9 +5756,7 @@ servicebusforwindowsserver
 servicecatalog
 serviceconnectionpoint
 servicecontrol
-servicedesk
 servicedeskplus
-serviceendpoints
 servicefabric
 servicelinker
 servicemanagementautomation
@@ -6448,7 +6422,6 @@ teradata
 termbin
 terminal
 terminal-interface
-terminal-services
 terminal.gui
 terminalvelocity
 termset
@@ -6652,7 +6625,6 @@ tsqlbestpractice
 tst
 tst1
 tst3
-ttrpg
 tts
 tubedownloader
 tui
@@ -6670,6 +6642,7 @@ twitter
 twitter-api
 twitter-api-v2
 twitter-client
+twitter-follow
 twitter-hashtag
 twitter-mention
 twitter-share
@@ -6721,7 +6694,6 @@ ud-navbarsearch
 ud-numbermask
 ud-orgchart
 ud-piechart3d
-ud-pivottable
 ud-progressstepbar
 ud-rangeslider
 ud-readingbar
@@ -6838,6 +6810,7 @@ usap
 usb
 useful
 user
+user-environment
 userdiscovery
 usergroup
 userinterface
@@ -6923,7 +6896,6 @@ venafi
 vencord
 vendor
 venue
-venvlink
 vera
 veracrypt
 verbose
@@ -6953,7 +6925,6 @@ virsh
 virtual
 virtualappliance
 virtualbox
-virtualboxguestadditions
 virtualdesktop
 virtualdesktopdevops
 virtualengine
@@ -7204,6 +7175,7 @@ windows-api
 windows-control-panel
 windows-defender
 windows-defender-application-control
+windows-environment
 windows-explorer
 windows-features
 windows-firewall
@@ -7246,7 +7218,6 @@ windowsrest
 windowssandbox
 windowsserver
 windowsserver2008
-windowsserver2012
 windowsserver2016
 windowsserver2019
 windowsservercoresecurity
@@ -7468,7 +7439,6 @@ zvmlinux
 カタカナ
 ひらがな
 ローマ字
-全角半角変換
 寿司
 日本語
 湯婆婆

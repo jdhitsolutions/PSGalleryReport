@@ -3,6 +3,46 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [Expect](https://www.powershellgallery.com/Packages/Expect/0.0.1) | 0.0.1
+
+### Published: 07/31/2023 09:42:22 by Jim Caten
+
+Spawn, Expect, and Send, but for PowerShell!
+
+__Downloads__: 0 | __Repository__: https://github.com/quonic/Expect
+
+## [powershell-awesome-framework](https://www.powershellgallery.com/Packages/powershell-awesome-framework/0.1.0) | 0.1.0
+
+### Published: 07/31/2023 08:24:12 by Wojciech Napierala (voytas75)
+
+The PowerShell Awesome Framework is a versatile and user-friendly PowerShell module that empowers users to streamline their scripting experience with a collection of useful code snippets. This framework is designed to enhance productivity and simplify the execution of various PowerShell tasks, making it a valuable tool for both beginners and experienced PowerShell users.
+
+__Downloads__: 0 | __Repository__: https://github.com/voytas75/PowershellFramework
+
+## [Elements.Client](https://www.powershellgallery.com/Packages/Elements.Client/2.0.17) | 2.0.17
+
+### Published: 07/31/2023 07:59:37 by AvePointInc
+
+Elements.Client - the PowerShell module for Elements SDK API
+
+__Downloads__: 0 | __Repository__: https://github.com/AvePoint/Elements-client
+
+## [RiverMeadow.Development.Migrate](https://www.powershellgallery.com/Packages/RiverMeadow.Development.Migrate/1.0.116.277) | 1.0.116.277
+
+### Published: 07/31/2023 07:31:51 by RiverMeadow Engineering Team
+
+Provides cmdlets for starting migration of applications to supported clouds using the RiverMeadow platform.
+
+__Downloads__: 362 | __Repository__: https://migrate.rivermeadow.com/
+
+## [BcContainerHelper](https://www.powershellgallery.com/Packages/BcContainerHelper/5.0.5) | 5.0.5
+
+### Published: 07/31/2023 02:58:58 by Freddy Kristiansen
+
+PowerShell module, which makes it easier to work with Business Central Containers on Docker.
+
+__Downloads__: 1,260,029 | __Repository__: 
+
 ## [psPAS](https://www.powershellgallery.com/Packages/psPAS/5.6.135) | 5.6.135
 
 ### Published: 07/31/2023 00:53:51 by Pete Maan
@@ -74,7 +114,7 @@ __Downloads__: 0 | __Repository__:
 
 The PowerShell AI module integrates with the OpenAI API and let's you easily access the GPT models for text completion, image generation and more.
 
-__Downloads__: 10,664 | __Repository__: https://github.com/dfinke/PowerShellAI
+__Downloads__: 10,665 | __Repository__: https://github.com/dfinke/PowerShellAI
 
 ## [TD.Util](https://www.powershellgallery.com/Packages/TD.Util/0.1.38) | 0.1.38
 
@@ -90,7 +130,7 @@ __Downloads__: 27,899 | __Repository__: https://github.com/ehagen/TD.Util
 
 A collection of common tools for use in Brownserve projects
 
-__Downloads__: 295 | __Repository__: https://github.com/Brownserve-UK/Brownserve.PSTools
+__Downloads__: 296 | __Repository__: https://github.com/Brownserve-UK/Brownserve.PSTools
 
 ## [TrainingUtils.JOPZ](https://www.powershellgallery.com/Packages/TrainingUtils.JOPZ/1.0.3) | 1.0.3
 
@@ -137,7 +177,7 @@ The module includes three functions:
 - Get-Ics
 - Disable-Ics
 
-__Downloads__: 954,916 | __Repository__: https://github.com/loxia01/PSInternetConnectionSharing
+__Downloads__: 954,955 | __Repository__: https://github.com/loxia01/PSInternetConnectionSharing
 
 ## [AZSBTools](https://www.powershellgallery.com/Packages/AZSBTools/1.261.102) | 1.261.102
 
@@ -209,15 +249,7 @@ __Downloads__: 995 | __Repository__: https://www.github.com/santisq/PSTree
 
 This module provides an interface to the Hudu Rest API further information can be found at https://github.com/lwhitelock/HuduAPI
 
-__Downloads__: 537,513 | __Repository__: 
-
-## [RiverMeadow.Development.Migrate](https://www.powershellgallery.com/Packages/RiverMeadow.Development.Migrate/1.0.116.275) | 1.0.116.275
-
-### Published: 07/28/2023 20:29:05 by RiverMeadow Engineering Team
-
-Provides cmdlets for starting migration of applications to supported clouds using the RiverMeadow platform.
-
-__Downloads__: 362 | __Repository__: https://migrate.rivermeadow.com/
+__Downloads__: 537,694 | __Repository__: 
 
 ## [DupreeFunctions](https://www.powershellgallery.com/Packages/DupreeFunctions/2.0.9) | 2.0.9
 
@@ -249,7 +281,7 @@ __Downloads__: 916 | __Repository__: https://github.com/regg00/ChocoMan
 
 A collection of PowerShell functions designed to enhance your own functions and scripts or to facilitate working in the console. Most of the commands should work in Windows PowerShell and PowerShell 7, even cross-platform. Any operating system limitations should be handled on a per-command basis.
 
-__Downloads__: 137,028 | __Repository__: https://github.com/jdhitsolutions/PSScriptTools
+__Downloads__: 137,036 | __Repository__: https://github.com/jdhitsolutions/PSScriptTools
 
 ## [SdnDiagnostics](https://www.powershellgallery.com/Packages/SdnDiagnostics/3.2307.743.162030) | 3.2307.743.162030
 
@@ -281,7 +313,7 @@ __Downloads__: 6,213 | __Repository__:
 
 Einfache und schnelle Bereitstellung von VMs.
 
-__Downloads__: 46 | __Repository__: 
+__Downloads__: 47 | __Repository__: 
 
 ## [Uninstall-MsiApp](https://www.powershellgallery.com/Packages/Uninstall-MsiApp/1.0) | 1.0
 
@@ -305,7 +337,7 @@ __Downloads__: 3,271 | __Repository__: https://github.com/bottkars/PPDM-pwsh
 
 Various cmdlets for adminstrator level tasks in managing Azure VMware Solutions
 
-__Downloads__: 26,642 | __Repository__: https://github.com/Azure/Microsoft.AVS.Management
+__Downloads__: 26,643 | __Repository__: https://github.com/Azure/Microsoft.AVS.Management
 
 ## [powershell-windows-autoproxy](https://www.powershellgallery.com/Packages/powershell-windows-autoproxy/2.0.1) | 2.0.1
 
@@ -429,7 +461,7 @@ __Downloads__: 293 | __Repository__: https://github.com/CriticalSolutionsNetwork
 
 ProjectWise PowerShell Cmdlets from System Architecture Group
 
-__Downloads__: 75,536 | __Repository__: 
+__Downloads__: 75,537 | __Repository__: 
 
 ## [Az.Avd](https://www.powershellgallery.com/Packages/Az.Avd/3.0.1) | 3.0.1
 
@@ -445,7 +477,7 @@ __Downloads__: 7,362 | __Repository__: https://github.com/srozemuller/AzAvd
 
 A PowerShell module that runs Atomic Red Team tests from yaml definition files.
 
-__Downloads__: 14,183 | __Repository__: https://github.com/redcanaryco/invoke-atomicredteam
+__Downloads__: 14,189 | __Repository__: https://github.com/redcanaryco/invoke-atomicredteam
 
 ## [IDandCollabTools](https://www.powershellgallery.com/Packages/IDandCollabTools/0.5) | 0.5
 
@@ -569,14 +601,6 @@ Scripts & Functions for Administrators working in the Microsoft 365 Orbit
 
 __Downloads__: 82 | __Repository__: https://github.com/DEberhardt/Orbit
 
-## [Orbit.Users](https://www.powershellgallery.com/Packages/Orbit.Users/0.8.1) | 0.8.1
-
-### Published: 07/26/2023 17:25:41 by David Eberhardt
-
-Scripts & Functions for Administrators working in the Microsoft 365 Orbit
-
-__Downloads__: 85 | __Repository__: https://github.com/DEberhardt/Orbit
-
 ## [PSWorkItem](https://www.powershellgallery.com/Packages/PSWorkItem/1.2.0) | 1.2.0
 
 ### Published: 07/26/2023 16:58:44 by Jeff Hicks
@@ -631,7 +655,7 @@ __Downloads__: 2,033 | __Repository__: https://github.com/f-bader/SentinelARConv
 
 MSGraph API integration
 
-__Downloads__: 203 | __Repository__: https://github.com/NorskNoobing/NN.MSGraph
+__Downloads__: 204 | __Repository__: https://github.com/NorskNoobing/NN.MSGraph
 
 ## [OSD](https://www.powershellgallery.com/Packages/OSD/23.7.25.1) | 23.7.25.1
 
@@ -639,7 +663,7 @@ __Downloads__: 203 | __Repository__: https://github.com/NorskNoobing/NN.MSGraph
 
 OSD Day Prep Edition
 
-__Downloads__: 820,484 | __Repository__: https://github.com/OSDeploy/OSD
+__Downloads__: 820,585 | __Repository__: https://github.com/OSDeploy/OSD
 
 ## [AsBuiltReport.Microsoft.AD](https://www.powershellgallery.com/Packages/AsBuiltReport.Microsoft.AD/0.7.14) | 0.7.14
 
@@ -679,7 +703,7 @@ __Downloads__: 46,646 | __Repository__: https://github.com/Azure/GuestConfigurat
 
 The Devolutions.PowerShell module is a set of cmdlets that allow administrators to manage Remote Desktop Manager, Devolutions Server and Devolutions Hub Business using PowerShell. This module provides a simple and consistent interface for interacting with these products, making it easy to automate various tasks, such as creating and managing connections, sessions, and credentials, configuring security settings, and generating reports. The module can be easily integrated with other PowerShell modules, allowing administrators to automate tasks across multiple products and platforms, streamline their workflows and increase efficiency.
 
-__Downloads__: 3,877 | __Repository__: 
+__Downloads__: 3,878 | __Repository__: 
 
 ## [OCI.PSModules](https://www.powershellgallery.com/Packages/OCI.PSModules/63.0.0) | 63.0.0
 
@@ -1544,7 +1568,7 @@ __Downloads__: 3,471 | __Repository__: https://github.com/oracle/oci-powershell-
 
 This modules provides Cmdlets for OCI Bastion Service
 
-__Downloads__: 2,757 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+__Downloads__: 2,758 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
 ## [OCI.PSModules.Autoscaling](https://www.powershellgallery.com/Packages/OCI.PSModules.Autoscaling/63.0.0) | 63.0.0
 
@@ -1728,7 +1752,7 @@ __Downloads__: 7,762 | __Repository__: https://github.com/TheTaylorLee/AdminTool
 
 Functions to Automate Bulk VMWare Tasks
 
-__Downloads__: 14,516 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 14,518 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.Remoting](https://www.powershellgallery.com/Packages/AdminToolbox.Remoting/1.9.97) | 1.9.97
 
@@ -1744,7 +1768,7 @@ __Downloads__: 14,437 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions for working with Office365 and Azure modules
 
-__Downloads__: 15,676 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 15,679 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.Networking](https://www.powershellgallery.com/Packages/AdminToolbox.Networking/2.18.5) | 2.18.5
 
@@ -1792,7 +1816,7 @@ __Downloads__: 14,991 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions for Exchange Management
 
-__Downloads__: 15,989 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 15,992 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.EndpointManagement](https://www.powershellgallery.com/Packages/AdminToolbox.EndpointManagement/4.9.90) | 4.9.90
 
@@ -1800,7 +1824,7 @@ __Downloads__: 15,989 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions for management of endpoints
 
-__Downloads__: 16,614 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 16,618 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.ActiveDirectory](https://www.powershellgallery.com/Packages/AdminToolbox.ActiveDirectory/1.9.95) | 1.9.95
 
@@ -1808,7 +1832,7 @@ __Downloads__: 16,614 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions for Active Directory
 
-__Downloads__: 18,165 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 18,169 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [NTS.Tools.MSSQL](https://www.powershellgallery.com/Packages/NTS.Tools.MSSQL/1.0.0.12) | 1.0.0.12
 
@@ -1824,7 +1848,7 @@ __Downloads__: 1,203 | __Repository__:
 
 A set of tools that will assist you when working with Dynamics 365 Finance & Operations development / demo machines.
 
-__Downloads__: 165,045 | __Repository__: https://github.com/d365collaborative/d365fo.tools
+__Downloads__: 165,046 | __Repository__: https://github.com/d365collaborative/d365fo.tools
 
 ## [GraphEssentials](https://www.powershellgallery.com/Packages/GraphEssentials/0.0.32) | 0.0.32
 
@@ -1848,7 +1872,7 @@ __Downloads__: 1,893,820 | __Repository__: https://github.com/EvotecIT/PSWriteHT
 
 Tiny PowerShell module for copy public SSH key to remote server (`ssh-copy-id` analog for Windows).
 
-__Downloads__: 5 | __Repository__: https://github.com/SeryiBaran/CopySSHKey-PS
+__Downloads__: 6 | __Repository__: https://github.com/SeryiBaran/CopySSHKey-PS
 
 ## [VMware.CloudFoundation.Reporting](https://www.powershellgallery.com/Packages/VMware.CloudFoundation.Reporting/2.3.0.1000) | 2.3.0.1000
 
@@ -1984,7 +2008,7 @@ __Downloads__: 8 | __Repository__: https://github.com/anypackage/apt
 
 PowerShell Module with custom functions and cmdlets related to Windows and application security.
 
-__Downloads__: 11,407 | __Repository__: https://github.com/claudiospizzi/SecurityFever
+__Downloads__: 11,408 | __Repository__: https://github.com/claudiospizzi/SecurityFever
 
 ## [Posh](https://www.powershellgallery.com/Packages/Posh/0.1.1) | 0.1.1
 
@@ -1992,15 +2016,7 @@ __Downloads__: 11,407 | __Repository__: https://github.com/claudiospizzi/Securit
 
 PowerShell made Posh - Spice up Your Shell
 
-__Downloads__: 24 | __Repository__: https://github.com/StartAutomating/Posh
-
-## [F7History](https://www.powershellgallery.com/Packages/F7History/1.1.1) | 1.1.1
-
-### Published: 07/24/2023 18:59:25 by Tig Kindel
-
-Press F7 to get a graphical Command History in Powershell.
-
-__Downloads__: 152 | __Repository__: https://github.com/gui-cs/F7History/
+__Downloads__: 25 | __Repository__: https://github.com/StartAutomating/Posh
 
 ## [PSSmartsheet](https://www.powershellgallery.com/Packages/PSSmartsheet/0.1.8) | 0.1.8
 
@@ -2032,7 +2048,7 @@ __Downloads__: 7 | __Repository__:
 
 Scripting Tools for Windows PowerShell : iLO Cmdlets uses the RIBCL and Redfish interface to communicate to iLO. These cmdlets can be used to configure and manage iLO on HPE ProLiant Gen8, Gen9, Gen10, Gen10 Plus or Gen11 servers.
 
-__Downloads__: 1,103,208 | __Repository__: https://www.hpe.com/servers/powershell
+__Downloads__: 1,103,211 | __Repository__: https://www.hpe.com/servers/powershell
 
 ## [NTS.Tools.MSExchange](https://www.powershellgallery.com/Packages/NTS.Tools.MSExchange/1.0.0.7) | 1.0.0.7
 
@@ -2042,20 +2058,4 @@ NTS.Tools.MSExchange module contains functions that are mainly related to around
 
 __Downloads__: 1,200 | __Repository__: 
 
-## [NTS.Tools.MSConfigMgr](https://www.powershellgallery.com/Packages/NTS.Tools.MSConfigMgr/1.0.1.3) | 1.0.1.3
-
-### Published: 07/24/2023 14:37:46 by Moritz Wiedmann
-
-NTS.Tools.MSConfigMgr module contains functions that are mainly related to Microsoft Endpoint Configuration Manger
-
-__Downloads__: 1,206 | __Repository__: 
-
-## [NTS.Tools.MSADDS](https://www.powershellgallery.com/Packages/NTS.Tools.MSADDS/1.0.0.7) | 1.0.0.7
-
-### Published: 07/24/2023 14:36:44 by Moritz Wiedmann
-
-NTS.Tools.MSADDS module contains functions that are mainly related to Microsoft Active Directory Domain Services
-
-__Downloads__: 1,186 | __Repository__: 
-
-*Updated: Monday, 31 July 2023 02:12:19 UTC*
+*Updated: Monday, 31 July 2023 09:52:46 UTC*
