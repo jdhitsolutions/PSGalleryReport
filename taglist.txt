@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 31 July 2023 17:53:29 UTC
+Updated: Tuesday, 01 August 2023 02:15:04 UTC
 
 ?:
 ??
@@ -167,6 +167,7 @@ adfsendpoint
 adfstoolkit
 adfstools
 adgroupmemberobjects
+adgroups
 adif
 adm
 admf
@@ -197,6 +198,7 @@ ads
 adsi
 adsite
 adsync
+aduser
 aduseraccountlockout
 adv180002
 adv180018
@@ -338,6 +340,7 @@ apache
 apachekafka
 api
 api-client
+api-gateway
 api-rest
 apichecks
 apiclient
@@ -671,6 +674,7 @@ azuresqlexport
 azuresqlimport
 azuressas
 azurestack
+azurestackhci
 azurestate
 azurestorage
 azurestorageservices
@@ -1194,6 +1198,7 @@ code365
 codeanalysis
 codebuild
 codecommit
+codecomplexity
 codecov
 codecoverage
 codegen
@@ -1209,6 +1214,7 @@ cognitiveservice
 cognitiveservices
 cohesity
 coinmarketcap
+collaboration
 collatordso
 collatz
 collection
@@ -1472,6 +1478,7 @@ crontab
 cropping
 cross-platform
 crossjoin
+crossover
 crossplatform
 crossplatformdevelopment
 crowdstrike
@@ -1853,7 +1860,6 @@ dns-01
 dns-administration
 dns-async
 dns-client
-dns-over-https
 dns-resolver
 dnsbl
 dnsclient
@@ -2023,6 +2029,7 @@ dz
 e-mail
 easy
 easy-to-use
+easylife365
 easyvista
 eaton
 ebay
@@ -2171,6 +2178,7 @@ estimate
 estimation
 esx
 esxi
+eternalblue
 ether
 ethereum
 ethr
@@ -2213,6 +2221,7 @@ everydaypowershell
 everydayrewards
 everything
 evidencelock
+evolutionary-algorithms
 evolutionary-database
 evtx
 ews
@@ -2221,7 +2230,6 @@ example
 examples
 excel
 exception
-exceptionless
 exchange
 exchange_online
 exchange-rates
@@ -2238,7 +2246,6 @@ exchangeonlineprotection
 exchangeonprem
 exchangeserver
 exchangewebservices
-exclusion
 excuse
 exe
 exec
@@ -2541,8 +2548,10 @@ function_calling
 functionality
 functionalprogramming
 functions
+funds
 funny
 fusion
+fusionapps
 fuzzy
 fyi
 fzf
@@ -2587,6 +2596,7 @@ generation
 generator
 generic
 genericartifactscontent
+genetic-algorithm
 genxdev
 geo
 geocache
@@ -2736,7 +2746,6 @@ gremlin
 grep
 greynoise
 grid
-gridfs
 grok
 groundspeak
 group
@@ -3751,7 +3760,6 @@ maximum
 maxoffice
 mazerat
 mb
-mbc
 mbs
 mc
 mcafee
@@ -3785,6 +3793,7 @@ meditation
 meeting
 meetup
 meetup.com
+meewind
 megabyte
 melamed
 meltdown
@@ -3921,6 +3930,7 @@ moldova
 moment
 monaco
 monday
+mondoo
 money
 moneyforward
 mongo
@@ -4029,6 +4039,7 @@ multithreading
 music
 musiccast
 mustache
+mutation
 mute
 mutex
 mva
@@ -4066,6 +4077,7 @@ nasdaq
 native
 natpool
 natural-language-to-code
+natural-selection
 nav
 navigation
 nbi
@@ -4300,6 +4312,7 @@ oidc
 ok
 okta
 old
+ole
 oledb
 omaha
 ome
@@ -4385,6 +4398,7 @@ ops
 opsi
 opsmgr
 optics
+optimization
 optimizer
 option
 options
@@ -4689,6 +4703,7 @@ pop
 pop-location
 pop3
 popd
+population
 popup
 port
 port-scanner
@@ -4777,6 +4792,7 @@ powershell-terminal-copilot
 powershell-training
 powershell.module.invokewinget
 powershell.one
+powershell.persistentpathstack
 powershell7
 powershellai
 powershellazuresql
@@ -5050,6 +5066,7 @@ psreadexif
 psreadline
 psremoting
 psrepository
+psresourceget
 psrule
 psrule-rules
 pssa
@@ -5605,6 +5622,7 @@ scissors
 scm
 scmanager
 scom
+sconfig
 scoop
 scope
 score
@@ -5766,7 +5784,6 @@ serviceconnectionpoint
 servicecontrol
 servicedesk
 servicedeskplus
-serviceendpoints
 servicefabric
 servicelinker
 servicemanagementautomation
@@ -5778,7 +5795,6 @@ serviceplan
 servicepointmanager
 serviceprincipal
 services
-servicestatus
 servicestore
 servicing
 servicingstack
@@ -5935,6 +5951,8 @@ smartsheet
 smartwatch
 smash
 smb
+smb1
+smb2
 smbios
 smfoxx
 smfx
@@ -6248,6 +6266,7 @@ subnetting
 subscribedskus
 subscription
 subscriptiondefinition
+subset
 subsystem
 subtitle
 success
@@ -6608,7 +6627,6 @@ trendmicro
 trevor
 trevorsullivan
 triangle
-tribeloo
 trigger
 triodos
 tripunkt
@@ -6675,6 +6693,7 @@ ucs
 ucspowertool
 ud-avataaar
 ud-badgebutton
+ud-badgelink
 ud-breadcrumb
 ud-breadcrumbitem
 ud-burger
@@ -7070,6 +7089,7 @@ walk
 wallet
 wallpaper
 wallpapers
+wannacry
 wansi
 wap
 wapack
@@ -7088,6 +7108,7 @@ wayk
 waykbastion
 wbem
 wcf
+wcry
 wdac
 wdapi
 wds
