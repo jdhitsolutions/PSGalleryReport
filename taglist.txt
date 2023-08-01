@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Tuesday, 01 August 2023 09:53:34 UTC
+Updated: Tuesday, 01 August 2023 17:52:45 UTC
 
 ?:
 ??
@@ -182,6 +182,7 @@ administrativeuser
 administrator
 admintools
 adml
+admpwd
 admx
 ado
 ado_security
@@ -341,6 +342,7 @@ apache
 apachekafka
 api
 api-client
+api-gateway
 api-rest
 apichecks
 apiclient
@@ -355,6 +357,7 @@ apmconfig
 apmcontrolplane
 apmsynthetics
 apmtraces
+aportal
 app
 app-only
 app-v
@@ -423,6 +426,7 @@ archlinux
 arcresourcebridge
 arcus
 area
+arg
 argument
 argumentcompleter
 arguments
@@ -1033,6 +1037,7 @@ chefconf2016
 chenxizhang
 cherrypy
 cherwell
+chfs
 chi
 china
 choco
@@ -1195,6 +1200,7 @@ code365
 codeanalysis
 codebuild
 codecommit
+codecomplexity
 codecov
 codecoverage
 codegen
@@ -1535,6 +1541,7 @@ customization
 customlocation
 customlogs
 customproviders
+cutehttpfileserver
 cvad
 cve-2021-34527
 cvrf
@@ -2222,6 +2229,7 @@ evtx
 ews
 exact
 example
+examples
 excel
 exception
 exceptionless
@@ -2248,7 +2256,6 @@ exec
 executable
 executables
 execute
-exexml
 exif
 exiftool
 exists
@@ -2379,9 +2386,6 @@ filenames
 fileproperties
 filereplication
 files
-files-cli
-files-cli.exe
-files.com
 filesecurity
 fileserver
 fileserverresourcemanager
@@ -2447,6 +2451,7 @@ flasharray
 flashblade
 flatfile
 flatten
+fleetsoftwareupdate
 flex
 flex-query
 flexdesk
@@ -2619,6 +2624,7 @@ get-dtdriverupdates
 get-dtscriptnewcmpackagefromdriverpackpackagedefinitionsms
 get-dtscriptnewcmtasksequencefromdriverpackpackagedefinitionsms
 get-emptyadgroups
+get-externalip
 get-firmwaretype
 get-help
 get-history
@@ -2653,8 +2659,6 @@ git
 git-client
 git-clone
 git-stat
-gitcmdline
-gitdesktop
 gitflow
 gitforwindows
 github
@@ -2774,7 +2778,6 @@ gz
 gzip
 gzip-compression
 ha
-haarlemsdagblad
 hack
 hacking
 hacktoberfest
@@ -3007,7 +3010,6 @@ ics
 icws
 id
 id3
-idabus
 ide
 identifier
 identity
@@ -3017,7 +3019,6 @@ identitydirector
 identitydomains
 identitynow
 idf
-idm
 idna
 ids
 ie
@@ -3030,7 +3031,6 @@ ihs
 iiittttt
 iis
 iis10
-iis8
 iisadministration
 iiscrypto
 ikev2
@@ -3288,8 +3288,6 @@ jira
 jiraservicemanagement
 jitbit
 jms
-jnet
-jnetps
 joat
 job
 jobcan
@@ -3328,7 +3326,6 @@ junit
 jupyter
 jupytor
 justenoughadministration
-jvm
 jwk
 jws
 jwt
@@ -3389,7 +3386,6 @@ knowledge
 knowledgebase
 koans
 korn
-kotlin
 kql
 kraken
 krbtgt
@@ -3462,8 +3458,12 @@ leafs
 league
 lean
 learn
+learn-powershell
+learn-powershell-series
 learning
+learning-powershell
 learningpowershell
+learnpowershell
 lease
 leetabit
 leftjoin
@@ -3608,6 +3608,7 @@ logoff
 logon
 logonright
 logonscript
+logontask
 logonto
 logonuser
 logparser
@@ -3642,8 +3643,6 @@ lunches
 lwa
 lxca
 lxcapstool
-lxco
-lxcopstool
 lync
 m365
 maatschap-fortigi
@@ -3660,7 +3659,6 @@ macosx
 macro
 macros
 madlib
-magazine
 magento
 magic8ball
 magicpacket
@@ -3703,10 +3701,12 @@ managementdashboard
 managementgroups
 managementpoint
 manager
+mangement
 manifest
 manual
 map
 mapapi
+mappeddrives
 mapper24
 mapping
 maps
@@ -3997,6 +3997,9 @@ msproject
 msrc
 msrdc
 mssql
+mssqlbynarymodule
+mssqlbynarypsmodule
+mssqlmodule
 mssqlplugins
 mssqlserver
 msteams
@@ -4037,8 +4040,6 @@ mxlookup
 mycloudrevolution
 myhub
 myitprocess
-myjson
-myjson.com
 myob
 myposh
 mysql
@@ -4050,7 +4051,6 @@ nac
 nagios
 name
 name-of-dogs
-namedpipe
 nameit
 nameresolution
 names
@@ -4112,6 +4112,7 @@ network-credentials
 network-info
 networkcontroller
 networkdiscovery
+networkdrives
 networkfirewall
 networkfunction
 networkinfo
@@ -4122,6 +4123,7 @@ networkpolicyserver
 networkscan
 networksecurity
 networksecuritygroup
+networkshares
 netwrix
 new
 new-completionresult
@@ -4254,7 +4256,6 @@ objecttree
 obs
 observeit
 oce
-ocg
 ocgv
 oci
 ocicontrolcenter
@@ -4541,6 +4542,7 @@ pathfinder
 patternmatching
 pause
 pax8
+payload
 paylocity
 paypal
 pays
@@ -4618,6 +4620,7 @@ pinterest
 pinvoke
 pip
 pipe
+pipedrive
 pipeline
 pipelines
 pipescript
@@ -4755,8 +4758,10 @@ powershell-class
 powershell-cmdlets
 powershell-core
 powershell-core-releases-api
+powershell-course
 powershell-credentials
 powershell-dsc
+powershell-examples
 powershell-gallery
 powershell-github-repo
 powershell-isprime
@@ -4768,6 +4773,7 @@ powershell-remoting
 powershell-script
 powershell-terminal
 powershell-terminal-copilot
+powershell-training
 powershell.module.invokewinget
 powershell.one
 powershell.persistentpathstack
@@ -4776,6 +4782,8 @@ powershellai
 powershellazuresql
 powershellconferenceeurope
 powershellcore
+powershellcourse
+powershellexamples
 powershellfar
 powershellgallery
 powershellget
@@ -4787,6 +4795,7 @@ powershellmoduleupdate
 powershellpr0mpt
 powershellscript
 powershelltemplate
+powershelltraining
 powershelltypeaccelerators
 powershelluniversal
 powershellv5
@@ -5016,6 +5025,9 @@ psmodules
 psmp
 psmsgraph
 psmsgraphapi
+psmssql
+psmssqlbynarymodule
+psmssqlmodule
 psmvp
 psnavigation
 psnexosisclient
@@ -5052,6 +5064,9 @@ psslack
 pssqlite
 pssqlitebynarymodule
 pssqlitemodule
+pssqlserver
+pssqlserverbynarymodule
+pssqlservermodule
 psst
 psstgenerator
 pstablacus
@@ -5153,9 +5168,7 @@ queue
 queues
 queuing
 quickaccess
-quickbase
 quickbooks
-qumulo
 quota
 quote
 quoteoftheday
@@ -5338,7 +5351,6 @@ repl
 replace
 replaygain
 replication
-repoo
 report
 reporting
 reportingservicepoint
@@ -5372,6 +5384,7 @@ resource_monitor
 resource_watcher
 resourceaccount
 resourcecontroller
+resourcegraph
 resourcegroup
 resourceid
 resourcekit
@@ -5552,7 +5565,6 @@ sbc
 sc
 scaffold
 scaffoldingtemplate
-scala
 scalable
 scalablevectorgraphics
 scan
@@ -5704,6 +5716,7 @@ self-hosted
 self-service
 self-signed
 selfdispatch
+selfhelp
 selfsigned
 semantic
 semantic-versioning
@@ -5753,7 +5766,6 @@ servicedesk
 servicedeskplus
 serviceendpoints
 servicefabric
-servicelinker
 servicemanagementautomation
 servicemanager
 servicemanagerproxy
@@ -5763,6 +5775,7 @@ serviceplan
 servicepointmanager
 serviceprincipal
 services
+servicestatus
 servicestore
 servicing
 servicingstack
@@ -5938,6 +5951,7 @@ smtpoauth
 smtpsasl
 smtpsecure
 snap
+snapchat
 snapping
 snapshot
 snapshots
@@ -5952,6 +5966,7 @@ snmpset
 snmpv3
 snmpwalk
 snowflake
+snsmssqlpsmodule
 snspsscriptsmonitoring
 snssqlitepsmodule
 sntp
@@ -6084,6 +6099,9 @@ sqlproject
 sqlps
 sqlserver
 sqlserveragent
+sqlserverbynarymodule
+sqlserverbynarypsmodule
+sqlservermodule
 sqlvirtualmachine
 sqr
 sqrt
@@ -6136,6 +6154,7 @@ start-jobthread
 start-threadjob
 startkey
 startmen
+startmenu
 starwars
 stash
 stat
@@ -6556,6 +6575,7 @@ trafficmanager
 trafficmarking
 train
 training
+training-course
 tram
 transact
 transaction
@@ -6632,6 +6652,7 @@ twitter-api-v2
 twitter-client
 twitter-follow
 twitter-hashtag
+twitter-mention
 twitter-share
 twitter-timeline
 twitter-tweet
@@ -6678,6 +6699,8 @@ ud-loadingoverlay
 ud-minesweeper
 ud-mouseparticle
 ud-navbarsearch
+ud-numbermask
+ud-orgchart
 ud-piechart3d
 ud-pivottable
 ud-progressstepbar
@@ -6698,7 +6721,6 @@ ud-tagcloud
 ud-timeline
 ud-timeout
 ud-tool
-ud-toploader
 ud-trendline
 ud-typing
 ud-window
@@ -7061,6 +7083,7 @@ wasabi
 watch
 watchmen
 watery
+wave
 wayk
 waykbastion
 wbem
@@ -7206,7 +7229,6 @@ windowsrest
 windowssandbox
 windowsserver
 windowsserver2008
-windowsserver2012
 windowsserver2016
 windowsserver2019
 windowsservercoresecurity
@@ -7273,7 +7295,6 @@ workingdays
 workinghours
 workingtime
 workload-automation
-workloads
 workpoint
 workrequests
 worksheet
