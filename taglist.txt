@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Tuesday, 01 August 2023 02:15:04 UTC
+Updated: Tuesday, 01 August 2023 09:53:34 UTC
 
 ?:
 ??
@@ -182,7 +182,6 @@ administrativeuser
 administrator
 admintools
 adml
-admpwd
 admx
 ado
 ado_security
@@ -240,6 +239,7 @@ aircall
 airpower
 airpwr
 airtable
+ais
 aispeech
 aivision
 ajustee
@@ -250,6 +250,7 @@ akscluster
 al
 alac
 alarm
+alb
 albums
 alc
 alero
@@ -340,7 +341,6 @@ apache
 apachekafka
 api
 api-client
-api-gateway
 api-rest
 apichecks
 apiclient
@@ -355,7 +355,6 @@ apmconfig
 apmcontrolplane
 apmsynthetics
 apmtraces
-aportal
 app
 app-only
 app-v
@@ -424,7 +423,6 @@ archlinux
 arcresourcebridge
 arcus
 area
-arg
 argument
 argumentcompleter
 arguments
@@ -1035,7 +1033,6 @@ chefconf2016
 chenxizhang
 cherrypy
 cherwell
-chfs
 chi
 china
 choco
@@ -1198,7 +1195,6 @@ code365
 codeanalysis
 codebuild
 codecommit
-codecomplexity
 codecov
 codecoverage
 codegen
@@ -1539,7 +1535,6 @@ customization
 customlocation
 customlogs
 customproviders
-cutehttpfileserver
 cvad
 cve-2021-34527
 cvrf
@@ -1860,6 +1855,7 @@ dns-01
 dns-administration
 dns-async
 dns-client
+dns-over-https
 dns-resolver
 dnsbl
 dnsclient
@@ -1950,7 +1946,6 @@ drivertool
 drivertool.powercli
 driverupdates
 drm
-drone.io
 drop
 dropbox
 dropdatabase
@@ -2027,6 +2022,7 @@ dynatrace
 dynatraceobservability
 dz
 e-mail
+e1
 easy
 easy-to-use
 easylife365
@@ -2214,7 +2210,6 @@ eventprocessor
 events
 eventsubscription
 eventviewer
-eventwatch
 evergreen
 evernote
 everydaypowershell
@@ -2227,9 +2222,9 @@ evtx
 ews
 exact
 example
-examples
 excel
 exception
+exceptionless
 exchange
 exchange_online
 exchange-rates
@@ -2246,6 +2241,7 @@ exchangeonlineprotection
 exchangeonprem
 exchangeserver
 exchangewebservices
+exclusion
 excuse
 exe
 exec
@@ -2623,7 +2619,6 @@ get-dtdriverupdates
 get-dtscriptnewcmpackagefromdriverpackpackagedefinitionsms
 get-dtscriptnewcmtasksequencefromdriverpackpackagedefinitionsms
 get-emptyadgroups
-get-externalip
 get-firmwaretype
 get-help
 get-history
@@ -2660,7 +2655,6 @@ git-clone
 git-stat
 gitcmdline
 gitdesktop
-gitea
 gitflow
 gitforwindows
 github
@@ -2739,6 +2733,7 @@ graphics
 graphite
 graphql
 graphs
+graphservices
 graphviz
 graylog
 greenplum
@@ -2746,6 +2741,7 @@ gremlin
 grep
 greynoise
 grid
+gridfs
 grok
 groundspeak
 group
@@ -3282,6 +3278,7 @@ javascript
 javaversion
 jboss
 jdbc
+jde
 jdedwards
 jdt
 jea
@@ -3465,12 +3462,8 @@ leafs
 league
 lean
 learn
-learn-powershell
-learn-powershell-series
 learning
-learning-powershell
 learningpowershell
-learnpowershell
 lease
 leetabit
 leftjoin
@@ -3615,7 +3608,6 @@ logoff
 logon
 logonright
 logonscript
-logontask
 logonto
 logonuser
 logparser
@@ -3624,7 +3616,6 @@ logrotation
 logs
 logstash
 logtools
-logz
 loki
 lol
 lolcat
@@ -3712,12 +3703,10 @@ managementdashboard
 managementgroups
 managementpoint
 manager
-mangement
 manifest
 manual
 map
 mapapi
-mappeddrives
 mapper24
 mapping
 maps
@@ -3760,6 +3749,7 @@ maximum
 maxoffice
 mazerat
 mb
+mbc
 mbs
 mc
 mcafee
@@ -4007,9 +3997,6 @@ msproject
 msrc
 msrdc
 mssql
-mssqlbynarymodule
-mssqlbynarypsmodule
-mssqlmodule
 mssqlplugins
 mssqlserver
 msteams
@@ -4125,7 +4112,6 @@ network-credentials
 network-info
 networkcontroller
 networkdiscovery
-networkdrives
 networkfirewall
 networkfunction
 networkinfo
@@ -4136,7 +4122,6 @@ networkpolicyserver
 networkscan
 networksecurity
 networksecuritygroup
-networkshares
 netwrix
 new
 new-completionresult
@@ -4319,7 +4304,6 @@ ome
 omnisphere
 omnistack
 oms
-omsagent
 on
 on-demand
 on-premise
@@ -4388,8 +4372,6 @@ operating-system
 operation
 operationalinsights
 operations
-operationsmanagementsuite
-operationsmanagementsuiteagent
 operationvalidation
 operatoraccesscontrol
 operators
@@ -4559,7 +4541,6 @@ pathfinder
 patternmatching
 pause
 pax8
-payload
 paylocity
 paypal
 pays
@@ -4637,7 +4618,6 @@ pinterest
 pinvoke
 pip
 pipe
-pipedrive
 pipeline
 pipelines
 pipescript
@@ -4664,6 +4644,7 @@ playbook
 player
 playlists
 pleasant
+pleasantpasswordserver
 plex
 plist
 plog
@@ -4774,10 +4755,8 @@ powershell-class
 powershell-cmdlets
 powershell-core
 powershell-core-releases-api
-powershell-course
 powershell-credentials
 powershell-dsc
-powershell-examples
 powershell-gallery
 powershell-github-repo
 powershell-isprime
@@ -4789,7 +4768,6 @@ powershell-remoting
 powershell-script
 powershell-terminal
 powershell-terminal-copilot
-powershell-training
 powershell.module.invokewinget
 powershell.one
 powershell.persistentpathstack
@@ -4798,8 +4776,6 @@ powershellai
 powershellazuresql
 powershellconferenceeurope
 powershellcore
-powershellcourse
-powershellexamples
 powershellfar
 powershellgallery
 powershellget
@@ -4811,7 +4787,6 @@ powershellmoduleupdate
 powershellpr0mpt
 powershellscript
 powershelltemplate
-powershelltraining
 powershelltypeaccelerators
 powershelluniversal
 powershellv5
@@ -5041,9 +5016,6 @@ psmodules
 psmp
 psmsgraph
 psmsgraphapi
-psmssql
-psmssqlbynarymodule
-psmssqlmodule
 psmvp
 psnavigation
 psnexosisclient
@@ -5080,9 +5052,6 @@ psslack
 pssqlite
 pssqlitebynarymodule
 pssqlitemodule
-pssqlserver
-pssqlserverbynarymodule
-pssqlservermodule
 psst
 psstgenerator
 pstablacus
@@ -5176,6 +5145,7 @@ qrs
 quality
 qualys
 quandl
+quantum
 quarantine
 queries
 query
@@ -5185,7 +5155,6 @@ queuing
 quickaccess
 quickbase
 quickbooks
-quicksetup
 qumulo
 quota
 quote
@@ -5403,7 +5372,6 @@ resource_monitor
 resource_watcher
 resourceaccount
 resourcecontroller
-resourcegraph
 resourcegroup
 resourceid
 resourcekit
@@ -5736,7 +5704,6 @@ self-hosted
 self-service
 self-signed
 selfdispatch
-selfhelp
 selfsigned
 semantic
 semantic-versioning
@@ -5784,6 +5751,7 @@ serviceconnectionpoint
 servicecontrol
 servicedesk
 servicedeskplus
+serviceendpoints
 servicefabric
 servicelinker
 servicemanagementautomation
@@ -5970,7 +5938,6 @@ smtpoauth
 smtpsasl
 smtpsecure
 snap
-snapchat
 snapping
 snapshot
 snapshots
@@ -5985,7 +5952,6 @@ snmpset
 snmpv3
 snmpwalk
 snowflake
-snsmssqlpsmodule
 snspsscriptsmonitoring
 snssqlitepsmodule
 sntp
@@ -6118,9 +6084,6 @@ sqlproject
 sqlps
 sqlserver
 sqlserveragent
-sqlserverbynarymodule
-sqlserverbynarypsmodule
-sqlservermodule
 sqlvirtualmachine
 sqr
 sqrt
@@ -6173,7 +6136,6 @@ start-jobthread
 start-threadjob
 startkey
 startmen
-startmenu
 starwars
 stash
 stat
@@ -6594,7 +6556,6 @@ trafficmanager
 trafficmarking
 train
 training
-training-course
 tram
 transact
 transaction
@@ -6627,6 +6588,7 @@ trendmicro
 trevor
 trevorsullivan
 triangle
+tribeloo
 trigger
 triodos
 tripunkt
@@ -6656,7 +6618,6 @@ tts
 tubedownloader
 tui
 tulpep
-tuner
 tutorial
 tv
 tweet
@@ -6671,7 +6632,6 @@ twitter-api-v2
 twitter-client
 twitter-follow
 twitter-hashtag
-twitter-mention
 twitter-share
 twitter-timeline
 twitter-tweet
@@ -6718,8 +6678,6 @@ ud-loadingoverlay
 ud-minesweeper
 ud-mouseparticle
 ud-navbarsearch
-ud-numbermask
-ud-orgchart
 ud-piechart3d
 ud-pivottable
 ud-progressstepbar
@@ -7103,7 +7061,6 @@ wasabi
 watch
 watchmen
 watery
-wave
 wayk
 waykbastion
 wbem
