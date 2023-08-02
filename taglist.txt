@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Wednesday, 02 August 2023 09:53:10 UTC
+Updated: Wednesday, 02 August 2023 17:53:55 UTC
 
 ?:
 ??
@@ -17,7 +17,6 @@ Updated: Wednesday, 02 August 2023 09:53:10 UTC
 "interactive
 🍄
 🍣
-💩
 10
 11
 1607
@@ -132,7 +131,10 @@ acumatica
 ad
 ad_monitoring
 ad-ds
+ad-object
+ad-ou-object
 ad-report
+ad-site
 adal
 adapter
 adapter-control
@@ -186,11 +188,14 @@ ado_security
 ado.net
 adobe
 adobeflash
+adobject
+adouobject
 adoxio
 adp
 adr
 ads
 adsi
+adsite
 adsync
 aduser
 aduseraccountlockout
@@ -218,7 +223,6 @@ aftereffects
 agenda
 agent
 aggregates
-aggregation
 agile
 agility
 agm
@@ -391,7 +395,6 @@ appv
 appveyor
 appvolumes
 appx
-appxmanifest
 aprs
 aprs-is
 aprsis
@@ -415,7 +418,6 @@ archivematica
 archivial
 archivial-backup
 archivial-cloud-backup
-archlinux
 arcresourcebridge
 arcus
 area
@@ -694,6 +696,7 @@ barcodes
 baremetal
 base
 base16
+base26
 base32
 base64
 base64string
@@ -1493,7 +1496,6 @@ css
 csv
 csv2adx
 csvhelper
-ctf
 ctglobal
 ctl
 ctrl+c
@@ -1598,7 +1600,6 @@ dataconduit
 dataconnectivity
 datadog
 dataexchange
-dataexplorer
 datafactory
 dataflow
 dataflowdependency
@@ -1710,7 +1711,6 @@ dependencies
 dependency
 deploy
 deployment
-deploymentconfig
 deploymentmanager
 deploymentresourceprovider
 depute
@@ -1851,7 +1851,6 @@ dmx
 dnd
 dns
 dns-01
-dns-administration
 dns-async
 dns-client
 dns-over-https
@@ -1859,14 +1858,12 @@ dns-resolver
 dnsbl
 dnsclient
 dnsdumpster
-dnsentry
 dnsimple
 dnslookup
 dnsmadeeasy
 dnsoverhttps
 dnsrecord
 dnsresolver
-dnsserver
 dnssuffix
 dnvm
 doc
@@ -1945,7 +1942,6 @@ drivertool
 drivertool.powercli
 driverupdates
 drm
-drone.io
 drop
 dropbox
 dropdatabase
@@ -2321,6 +2317,7 @@ farm
 farmanager
 fast
 fast-dds
+fast-ping
 fastfilepub
 fastgit
 fastlinq
@@ -2420,6 +2417,7 @@ find-caller
 find-file
 find-path
 finddownloadlinkfromwebsite
+findfile
 findlocation
 findplace
 findproxyforurl
@@ -2486,7 +2484,6 @@ formatdata
 formatformat-tableformat-listformat-wideformat-customformat-defaultout-defaultout-fileout-hostout-printerout-string
 formatting
 forms
-fortiauth
 forticlient
 fortify
 fortifyondemand
@@ -2657,7 +2654,6 @@ git-clone
 git-stat
 gitcmdline
 gitdesktop
-gitea
 gitflow
 gitforwindows
 github
@@ -2748,6 +2744,7 @@ gridfs
 grok
 groundspeak
 group
+group-membership
 group-policy
 groupmembership
 grouppolicy
@@ -2817,8 +2814,6 @@ hashset
 hashtable
 hasicorp
 haskell
-haste
-hastebin
 haveibeenpwned
 hba
 hbase
@@ -2892,7 +2887,6 @@ hivehome
 hjson
 hl7
 hlds
-hls
 hockey
 hol
 holiday
@@ -3112,6 +3106,8 @@ inifile
 initialization
 initials-avatar
 initiator
+inline-progress
+inlineprogress
 innerjoin
 innertext
 input
@@ -3299,7 +3295,6 @@ johnshopkins
 join
 join-object
 jojoba
-joke
 jotform
 journal
 joyride
@@ -3374,6 +3369,7 @@ keyvault
 keywords
 kibana
 kickstart
+kidrsa
 kill
 kindle
 kinetic
@@ -3601,6 +3597,7 @@ login-rdp
 logingestion
 loginscreen
 loginsight
+logiphys
 logistic
 logitech
 logmail
@@ -3646,8 +3643,6 @@ lunches
 lwa
 lxca
 lxcapstool
-lxco
-lxcopstool
 lync
 m365
 maatschap-fortigi
@@ -3954,7 +3949,6 @@ mozilla
 mp3
 mp4
 mpc
-mpeg
 mpn
 mrfk
 mrfylke
@@ -4019,6 +4013,7 @@ mulesoft
 multi-factor
 multi-language
 multi-platform
+multi-threading
 multi-zone
 multicloud
 multidimenstional
@@ -4117,11 +4112,13 @@ netsuite
 network
 network adapter configuration operating os optical sensor physical pointing portable printer processor cpu refrigaration cooling cooler removable usb sd ram dimm scsi sound audio card enclosure tape temperature touchpad touch pad touchscreen screen trackball trackpoint video graphics voltage psmodule
 network-credentials
+network-info
 networkcontroller
 networkdiscovery
 networkdrives
 networkfirewall
 networkfunction
+networkinfo
 networking
 networkinterfaces
 networkloadbalancer
@@ -4440,6 +4437,7 @@ osubusage
 osx
 otp
 ou
+ou-object
 oui-search
 out-consolegridview
 out-default
@@ -4542,7 +4540,6 @@ passwordstate
 passwordtool
 passwordvault
 passwordwolf
-paste
 patch
 patches
 patching
@@ -4564,10 +4561,6 @@ pcsetup
 pcsv
 pdb
 pdf
-pdf-document-processor
-pdf-files
-pdf-generation
-pdf-redaction
 pe
 peek
 peering
@@ -4691,7 +4684,6 @@ polycom
 pomodoro
 ponduit
 pool
-poop
 pop
 pop-location
 pop3
@@ -4931,7 +4923,6 @@ proxmox
 proxmoxve
 proxsys
 proxy
-proxyfunction
 proxyfunctions
 prtg
 prtg_network_monitor
@@ -5177,7 +5168,6 @@ queue
 queues
 queuing
 quickaccess
-quickbase
 quickbooks
 quicksetup
 qumulo
@@ -5686,7 +5676,6 @@ secretvault
 section
 secur32
 secure
-secureapplicationmodel
 securechannel
 securedns
 securegopher
@@ -5823,7 +5812,6 @@ setupbase.install
 setupbase.publish
 setupbase.taskscheduler
 setupbase.template
-setupbase.update
 sevenzip
 sf
 sfb
@@ -5856,7 +5844,6 @@ sharepointpnppowershellonline.add-on.module
 shares
 sheets
 shell
-shell-art
 shells
 shieldedvm
 ships
@@ -6553,7 +6540,6 @@ toggl
 toggle
 token
 tokenlifetime
-tokens
 toml
 tookit
 tool
@@ -6597,8 +6583,6 @@ transact
 transaction
 transactions
 transcode
-transcript
-transcripts
 transform
 transformation
 transforms
@@ -6742,12 +6726,12 @@ ud-trendline
 ud-typing
 ud-window
 ud-wordtree
-udcm
 udfeedback
 udp
 udpclient
 udptest
 udr
+udthememode
 uefi
 ui
 ui/ux
@@ -6877,7 +6861,6 @@ validate-dcb
 validatedsolutions
 validatemapsconnectivity
 validation
-validator
 value
 valve
 vami
@@ -6940,6 +6923,7 @@ vi
 vib
 video
 videos
+vie
 viewer
 viewgroup
 vigenere
@@ -7349,6 +7333,7 @@ write-wansi
 writeaccess
 writelog
 writemanager
+writeprogress
 writer
 ws-federation
 wsapi
