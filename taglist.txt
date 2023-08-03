@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Thursday, 03 August 2023 09:53:31 UTC
+Updated: Thursday, 03 August 2023 17:52:57 UTC
 
 ?:
 ??
@@ -240,7 +240,6 @@ aircall
 airpower
 airpwr
 airtable
-ais
 aispeech
 aivision
 ajustee
@@ -477,7 +476,6 @@ asset
 assetintelligencepoint
 assets
 assistance
-association
 ast
 astronomy
 asv
@@ -956,7 +954,6 @@ cavium
 cb
 cblueshell
 cbr
-cbz
 cchoco
 cchocoex
 ccm
@@ -1335,7 +1332,6 @@ connectionmonitor
 connections
 connectionsmanager
 connectionstring
-connectivity
 connectwise
 conservation
 console
@@ -1790,7 +1786,6 @@ digitalocean
 digitaltwins
 dilbert
 dimcry
-dircolors
 director
 directories
 directory
@@ -1832,7 +1827,6 @@ dismal
 display
 displayresolution
 distance
-distinguishedname
 distributed-systems
 distributedcache
 distributedfilesystem
@@ -2031,7 +2025,6 @@ dynatrace
 dynatraceobservability
 dz
 e-mail
-e1
 easy
 easy-to-use
 easylife365
@@ -2148,7 +2141,6 @@ eol
 eop
 eperl
 ephesoft
-epicor
 episode
 epplus
 eprosima
@@ -2408,7 +2400,6 @@ filesystemrights
 filesystemsecurity
 filesystemwatcher
 filetransfer
-filetype
 filewrite
 fill
 film
@@ -2584,7 +2575,6 @@ gavineke
 gc
 gcbdr
 gce
-gci
 gcloud
 gcp
 gcs
@@ -2702,7 +2692,6 @@ goldsource
 goldsource-dedicated-server
 google
 google-chrome
-google-histogram
 google-sankey
 google-table
 googleadsv2
@@ -2809,7 +2798,6 @@ hanaon
 handle
 handler
 hangouts
-hannelstoolbox
 hanwha
 har
 hard
@@ -2863,7 +2851,6 @@ helloposhgallery
 helloworld
 helmet
 help
-helpdesk
 helpdoc
 helper
 helper-functions
@@ -2973,7 +2960,6 @@ humanizer
 humanly
 humor
 humorous
-hunter
 hybrid
 hybridrunbookworker
 hyper-v
@@ -3292,7 +3278,6 @@ javascript
 javaversion
 jboss
 jdbc
-jde
 jdedwards
 jdt
 jea
@@ -3300,7 +3285,6 @@ jenkins
 jetbrains
 jira
 jiraservicemanagement
-jitbit
 jms
 jnet
 jnetps
@@ -3391,7 +3375,6 @@ kickstart
 kidrsa
 kill
 kindle
-kinetic
 kintone
 klantcontroles
 kms
@@ -3636,7 +3619,6 @@ logs
 logstash
 logtools
 logz
-loki
 lol
 lolcat
 longfile
@@ -3894,7 +3876,6 @@ migration
 migration-tool
 migrations
 milestone
-milestonepstools
 mim
 mime
 mimekit
@@ -4324,7 +4305,6 @@ oidc
 ok
 okta
 old
-ole
 oledb
 omaha
 ome
@@ -4405,7 +4385,6 @@ operationsmanagementsuiteagent
 operationvalidation
 operatoraccesscontrol
 operators
-opml
 ops
 opsi
 opsmgr
@@ -4467,7 +4446,6 @@ out-gridview
 out-json
 outerjoin
 outertext
-outline
 outlook
 output
 output-to-image
@@ -5496,7 +5474,6 @@ rot13
 rotate
 rotation
 round
-roundrobindatabase
 route
 route53
 routeconfig
@@ -5513,7 +5490,6 @@ royaltsx
 rpa
 rpc
 rras
-rrd
 rs
 rsa
 rsat
@@ -5840,7 +5816,6 @@ setup
 setupbase.certificate
 setupbase.env
 setupbase.install
-setupbase.publish
 setupbase.taskscheduler
 setupbase.template
 setupbase.update
@@ -5868,7 +5843,6 @@ sharepoint_online
 sharepoint-on-prem
 sharepoint-online
 sharepoint-product-configuration-wizard
-sharepoint2013
 sharepointdevelopmentcommunity
 sharepointonline
 sharepointpnp
@@ -5982,9 +5956,6 @@ smorgasbord
 sms
 smtp
 smtpaddressupdate psmodule
-smtpauth
-smtpoauth
-smtpsasl
 smtpsecure
 snap
 snapchat
@@ -6030,7 +6001,6 @@ soltra
 solution
 solutions
 sonarcloud
-sonarqube
 sonarr
 sonatype
 songs
@@ -6241,7 +6211,6 @@ storefront
 storeonce
 storeserv
 strava
-streak
 stream
 streamanalytics
 streaming
@@ -6574,7 +6543,6 @@ toggle
 token
 tokenlifetime
 tokens
-toml
 tookit
 tool
 toolbox
@@ -7014,7 +6982,6 @@ vmgroup
 vmhost
 vmhostgroup
 vmhostnetworkadapater
-vmmanagement
 vmnic
 vmrole
 vms
@@ -7455,7 +7422,6 @@ yandex
 yapg
 yarn
 yetanotherhelloworld
-yml
 ynab
 youtube
 youtube-dl
