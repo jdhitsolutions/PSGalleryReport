@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Thursday, 03 August 2023 17:52:57 UTC
+Updated: Friday, 04 August 2023 02:10:38 UTC
 
 ?:
 ??
@@ -453,7 +453,6 @@ asc
 ascii
 ascii85
 asciiart
-asdatabase
 asigra
 asjob
 asm
@@ -476,6 +475,7 @@ asset
 assetintelligencepoint
 assets
 assistance
+association
 ast
 astronomy
 asv
@@ -619,7 +619,6 @@ azure-forensics
 azure-functions
 azure-pipelines
 azure-resource-graph
-azure-ssis
 azureactivedirectory
 azuread
 azureadbackupandrestore
@@ -954,6 +953,7 @@ cavium
 cb
 cblueshell
 cbr
+cbz
 cchoco
 cchocoex
 ccm
@@ -1330,8 +1330,8 @@ connectexchange
 connection
 connectionmonitor
 connections
-connectionsmanager
 connectionstring
+connectivity
 connectwise
 conservation
 console
@@ -1827,6 +1827,7 @@ dismal
 display
 displayresolution
 distance
+distinguishedname
 distributed-systems
 distributedcache
 distributedfilesystem
@@ -2400,12 +2401,12 @@ filesystemrights
 filesystemsecurity
 filesystemwatcher
 filetransfer
+filetype
 filewrite
 fill
 film
 filter
 filter-item
-filtering
 fim
 fims
 finance
@@ -2437,8 +2438,6 @@ fisher
 fissionproducts
 fitbit
 fits
-five
-five9
 fix-log
 fix-protocol
 fixlet
@@ -2448,7 +2447,6 @@ flash
 flasharray
 flashblade
 flatfile
-flatten
 fleetsoftwareupdate
 flex
 flex-query
@@ -2472,7 +2470,6 @@ foo
 football
 for
 force
-forcedelete
 foreach
 foreach-object
 forecast
@@ -2500,7 +2497,6 @@ fortinetmanager
 fortios
 fortune
 forum
-forwardcompatibility
 forwardedevents
 foudil
 fox
@@ -2692,6 +2688,7 @@ goldsource
 goldsource-dedicated-server
 google
 google-chrome
+google-histogram
 google-sankey
 google-table
 googleadsv2
@@ -2798,6 +2795,7 @@ hanaon
 handle
 handler
 hangouts
+hannelstoolbox
 hanwha
 har
 hard
@@ -2960,6 +2958,7 @@ humanizer
 humanly
 humor
 humorous
+hunter
 hybrid
 hybridrunbookworker
 hyper-v
@@ -3015,7 +3014,6 @@ identity-management
 identitydataplane
 identitydirector
 identitydomains
-identitynow
 idf
 idm
 idna
@@ -3241,7 +3239,6 @@ isnumeric
 iso
 iso-3166-1
 iso-8601
-ispac
 isprime
 ispss
 issues
@@ -3307,7 +3304,6 @@ js7
 jsm
 jsm.insight
 json
-json-converter
 json-transform
 json+
 jsonplus
@@ -3599,7 +3595,6 @@ login-rdp
 logingestion
 loginscreen
 loginsight
-logiphys
 logistic
 logitech
 logmail
@@ -3619,6 +3614,7 @@ logs
 logstash
 logtools
 logz
+loki
 lol
 lolcat
 longfile
@@ -3716,7 +3712,6 @@ mapping
 maps
 mapsapi
 mariadb
-mark
 markdig
 markdown
 markdownrender
@@ -3724,7 +3719,6 @@ marketing
 marketo
 marketplace
 marketplaceordering
-marking
 marklogic
 marquee
 marvel
@@ -4224,7 +4218,6 @@ ntp
 ntsystems
 nuget
 nuget-references
-nuget.exe
 nuget.org
 nugetpackageprovider
 null-coalescing
@@ -4305,6 +4298,7 @@ oidc
 ok
 okta
 old
+ole
 oledb
 omaha
 ome
@@ -4337,7 +4331,6 @@ online-backup
 onlinebackup
 onprem
 onpremisesdatagatewayhamgmt
-onq
 ons
 ontap
 ontap_9.13.1
@@ -4385,6 +4378,7 @@ operationsmanagementsuiteagent
 operationvalidation
 operatoraccesscontrol
 operators
+opml
 ops
 opsi
 opsmgr
@@ -4446,6 +4440,7 @@ out-gridview
 out-json
 outerjoin
 outertext
+outline
 outlook
 output
 output-to-image
@@ -4549,7 +4544,6 @@ pathfinder
 patternmatching
 pause
 pax8
-payload
 paylocity
 paypal
 pays
@@ -4562,10 +4556,6 @@ pcsetup
 pcsv
 pdb
 pdf
-pdf-document-processor
-pdf-files
-pdf-generation
-pdf-redaction
 pe
 peek
 peering
@@ -4917,7 +4907,6 @@ protocols
 provance
 proverb
 provider
-providerhub
 provision
 provisioning
 provisioningpackage
@@ -5001,8 +4990,6 @@ psexec.exe
 psexpandline
 psfciv
 psfitbit
-psfive9
-psfive9admin
 psfoldersize
 psgallery
 psget
@@ -5330,8 +5317,6 @@ remote
 remote-desktop
 remote'
 remotecert
-remoteconnection
-remoteconnectionsmanager
 remotecontrol
 remotedesktop
 remotedesktopconnectionmanager
@@ -5385,7 +5370,6 @@ reservations
 reset
 resharper
 resize
-resolution
 resolve
 resolve-stache
 resolve-template
@@ -5536,7 +5520,6 @@ safe
 safeguard
 sage
 saggiehaim
-sailpoint
 sale
 sales
 salesforce
@@ -5816,6 +5799,7 @@ setup
 setupbase.certificate
 setupbase.env
 setupbase.install
+setupbase.publish
 setupbase.taskscheduler
 setupbase.template
 setupbase.update
@@ -5843,6 +5827,7 @@ sharepoint_online
 sharepoint-on-prem
 sharepoint-online
 sharepoint-product-configuration-wizard
+sharepoint2013
 sharepointdevelopmentcommunity
 sharepointonline
 sharepointpnp
@@ -5956,6 +5941,9 @@ smorgasbord
 sms
 smtp
 smtpaddressupdate psmodule
+smtpauth
+smtpoauth
+smtpsasl
 smtpsecure
 snap
 snapchat
@@ -6001,13 +5989,13 @@ soltra
 solution
 solutions
 sonarcloud
+sonarqube
 sonarr
 sonatype
 songs
 sonicwall
 sonicwallvpn
 sonus
-soon
 soonr
 soonragent
 sophos
@@ -6211,6 +6199,7 @@ storefront
 storeonce
 storeserv
 strava
+streak
 stream
 streamanalytics
 streaming
@@ -6234,7 +6223,6 @@ studio
 style
 su
 sub
-sub-directory
 sub-menu
 subatomix
 subjectname
@@ -6543,6 +6531,7 @@ toggle
 token
 tokenlifetime
 tokens
+toml
 tookit
 tool
 toolbox
@@ -6574,9 +6563,7 @@ tracing
 tracker
 tracking
 trading
-trafficfiltering
 trafficmanager
-trafficmarking
 train
 training
 training-course
@@ -6798,7 +6785,6 @@ updmanagement
 updmgmt
 upgrade
 uplift
-uplink
 upn
 ups
 upsource
@@ -6899,9 +6885,6 @@ vcsa
 vcvars
 vdi
 vdp
-vdportgroup
-vdswitch
-vduplink
 ve7cc
 vector
 veeam
@@ -6981,8 +6964,7 @@ vmfs
 vmgroup
 vmhost
 vmhostgroup
-vmhostnetworkadapater
-vmnic
+vmmanagement
 vmrole
 vms
 vmss
@@ -7422,6 +7404,7 @@ yandex
 yapg
 yarn
 yetanotherhelloworld
+yml
 ynab
 youtube
 youtube-dl
