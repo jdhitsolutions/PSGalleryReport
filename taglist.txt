@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Friday, 04 August 2023 09:52:43 UTC
+Updated: Friday, 04 August 2023 17:52:59 UTC
 
 ?:
 ??
@@ -231,7 +231,6 @@ agm
 agnoster
 ai
 aianomalydetection
-aidocument
 ailanguage
 aim
 aip
@@ -494,6 +493,7 @@ atlassianps
 atmosphere
 atp
 atrium
+att&ck
 attestation
 attila
 attribute
@@ -623,7 +623,6 @@ azure-resource-graph
 azure-ssis
 azureactivedirectory
 azuread
-azureadbackupandrestore
 azureadconnect
 azureadgraph
 azureadtoolkit
@@ -827,7 +826,6 @@ bootstrap
 bootstrapping
 bop
 bot
-bots
 botservice
 bouncer
 boundaries
@@ -1172,7 +1170,6 @@ cmaccounts
 cmake
 cmakepresets.json
 cmbuild
-cmclibnet
 cmclustermaintenance
 cmd
 cmdb
@@ -1207,7 +1204,6 @@ codegen
 codegeneration
 codegenerator
 codepoint
-codereview
 codes
 codesign
 codesigning
@@ -1251,7 +1247,6 @@ commandlets
 commandline
 commands
 commandsandresource
-commence
 comment
 comments
 commerce
@@ -1334,6 +1329,7 @@ connectionmonitor
 connections
 connectionsmanager
 connectionstring
+connectivity
 connectwise
 conservation
 console
@@ -1800,7 +1796,6 @@ directorysearcher
 directorysecurity
 directrouting
 direnv
-dirkjan
 dirsync
 disa
 disable
@@ -2001,8 +1996,6 @@ duplicate
 duplicate-files
 duplicatioin
 duplication
-durable
-durabletask
 dust
 dutch
 dvls
@@ -2456,7 +2449,6 @@ flasharray
 flashblade
 flatfile
 flatten
-fleetsoftwareupdate
 flex
 flex-query
 flexdesk
@@ -2550,7 +2542,6 @@ fullmetalgnome
 fullscreen
 fun
 function
-function_calling
 functionality
 functionalprogramming
 functions
@@ -2700,7 +2691,6 @@ goldsource
 goldsource-dedicated-server
 google
 google-chrome
-google-histogram
 google-sankey
 google-table
 googleadsv2
@@ -3403,7 +3393,6 @@ koans
 korn
 kotlin
 kql
-kraken
 krbtgt
 krick
 kschemaplugin
@@ -4100,8 +4089,6 @@ nedyalkov
 neo4j
 neptune
 nerdfonts
-nerdio
-nerdioapi
 nerdymishka
 nessus
 nested
@@ -4190,7 +4177,6 @@ nlm
 nlog
 nmap
 nmbell
-nmm
 nntp
 node
 nodejs
@@ -4383,6 +4369,7 @@ openid
 openidconnect
 openinghours
 openport
+openprovider
 openscad
 opensearch
 opensource
@@ -4733,7 +4720,6 @@ posh-git
 posh-ribbon
 posh-ssh
 poshbot
-poshcommence
 poshevents
 poshgraph
 poshgraph-sdk
@@ -4804,7 +4790,6 @@ powershell.module.invokewinget
 powershell.one
 powershell.persistentpathstack
 powershell7
-powershellai
 powershellazuresql
 powershellconferenceeurope
 powershellcore
@@ -5250,6 +5235,7 @@ rdcman
 rdcmanager
 rdfe
 rdg
+rdl
 rdm
 rdp
 rdpsession
@@ -5327,7 +5313,6 @@ register-argumentcompleter
 registration
 registry
 regression
-regularexpression
 regularexpressions
 reinstall
 relational
@@ -5403,6 +5388,7 @@ reservations
 reset
 resharper
 resize
+resolution
 resolve
 resolve-stache
 resolve-template
@@ -5459,6 +5445,7 @@ ribcl
 rightjoin
 rights
 rightsizing
+rightsmanagement
 ripe
 risk
 riskiq
@@ -5662,6 +5649,7 @@ scriptcreation
 scriptcs
 scriptedui
 scripting
+scriptlogging
 scriptoform
 scriptrunner
 scripts
@@ -6023,6 +6011,7 @@ soltra
 solution
 solutions
 sonarcloud
+sonarqube
 sonarr
 sonatype
 songs
@@ -6309,6 +6298,7 @@ swagger
 swamid
 swarm
 swedish
+swimlane
 swis
 switch
 sxs
@@ -6503,7 +6493,6 @@ tfe
 tfenv
 tflint
 tfs
-tfscmdlets
 tfsec
 tftd
 tftp
@@ -6597,7 +6586,6 @@ tracert
 tracing
 tracker
 tracking
-trading
 trafficfiltering
 trafficmanager
 trafficmarking
@@ -6825,7 +6813,6 @@ uplift
 uplink
 upn
 ups
-upsource
 upstream
 uptime
 uptimerobot
@@ -7037,7 +7024,6 @@ volume
 volumeshadowcopy
 volumio
 vorbis
-vovin
 vpas
 vpasmodule
 vpc
@@ -7326,6 +7312,7 @@ workingdays
 workinghours
 workingtime
 workload-automation
+workloads
 workpoint
 workrequests
 worksheet
