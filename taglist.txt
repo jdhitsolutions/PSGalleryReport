@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Friday, 04 August 2023 02:10:38 UTC
+Updated: Friday, 04 August 2023 09:52:43 UTC
 
 ?:
 ??
@@ -240,6 +240,7 @@ aircall
 airpower
 airpwr
 airtable
+ais
 aispeech
 aivision
 ajustee
@@ -453,6 +454,7 @@ asc
 ascii
 ascii85
 asciiart
+asdatabase
 asigra
 asjob
 asm
@@ -492,7 +494,6 @@ atlassianps
 atmosphere
 atp
 atrium
-att&ck
 attestation
 attila
 attribute
@@ -619,6 +620,7 @@ azure-forensics
 azure-functions
 azure-pipelines
 azure-resource-graph
+azure-ssis
 azureactivedirectory
 azuread
 azureadbackupandrestore
@@ -1330,8 +1332,8 @@ connectexchange
 connection
 connectionmonitor
 connections
+connectionsmanager
 connectionstring
-connectivity
 connectwise
 conservation
 console
@@ -1786,6 +1788,7 @@ digitalocean
 digitaltwins
 dilbert
 dimcry
+dircolors
 director
 directories
 directory
@@ -2026,6 +2029,7 @@ dynatrace
 dynatraceobservability
 dz
 e-mail
+e1
 easy
 easy-to-use
 easylife365
@@ -2142,6 +2146,7 @@ eol
 eop
 eperl
 ephesoft
+epicor
 episode
 epplus
 eprosima
@@ -2407,6 +2412,7 @@ fill
 film
 filter
 filter-item
+filtering
 fim
 fims
 finance
@@ -2438,6 +2444,8 @@ fisher
 fissionproducts
 fitbit
 fits
+five
+five9
 fix-log
 fix-protocol
 fixlet
@@ -2447,6 +2455,7 @@ flash
 flasharray
 flashblade
 flatfile
+flatten
 fleetsoftwareupdate
 flex
 flex-query
@@ -2470,6 +2479,7 @@ foo
 football
 for
 force
+forcedelete
 foreach
 foreach-object
 forecast
@@ -2497,6 +2507,7 @@ fortinetmanager
 fortios
 fortune
 forum
+forwardcompatibility
 forwardedevents
 foudil
 fox
@@ -2571,6 +2582,7 @@ gavineke
 gc
 gcbdr
 gce
+gci
 gcloud
 gcp
 gcs
@@ -2849,6 +2861,7 @@ helloposhgallery
 helloworld
 helmet
 help
+helpdesk
 helpdoc
 helper
 helper-functions
@@ -3014,6 +3027,7 @@ identity-management
 identitydataplane
 identitydirector
 identitydomains
+identitynow
 idf
 idm
 idna
@@ -3239,6 +3253,7 @@ isnumeric
 iso
 iso-3166-1
 iso-8601
+ispac
 isprime
 ispss
 issues
@@ -3275,6 +3290,7 @@ javascript
 javaversion
 jboss
 jdbc
+jde
 jdedwards
 jdt
 jea
@@ -3282,6 +3298,7 @@ jenkins
 jetbrains
 jira
 jiraservicemanagement
+jitbit
 jms
 jnet
 jnetps
@@ -3304,6 +3321,7 @@ js7
 jsm
 jsm.insight
 json
+json-converter
 json-transform
 json+
 jsonplus
@@ -3371,6 +3389,7 @@ kickstart
 kidrsa
 kill
 kindle
+kinetic
 kintone
 klantcontroles
 kms
@@ -3595,6 +3614,7 @@ login-rdp
 logingestion
 loginscreen
 loginsight
+logiphys
 logistic
 logitech
 logmail
@@ -3712,6 +3732,7 @@ mapping
 maps
 mapsapi
 mariadb
+mark
 markdig
 markdown
 markdownrender
@@ -3719,6 +3740,7 @@ marketing
 marketo
 marketplace
 marketplaceordering
+marking
 marklogic
 marquee
 marvel
@@ -3870,6 +3892,7 @@ migration
 migration-tool
 migrations
 milestone
+milestonepstools
 mim
 mime
 mimekit
@@ -4218,6 +4241,7 @@ ntp
 ntsystems
 nuget
 nuget-references
+nuget.exe
 nuget.org
 nugetpackageprovider
 null-coalescing
@@ -4331,6 +4355,7 @@ online-backup
 onlinebackup
 onprem
 onpremisesdatagatewayhamgmt
+onq
 ons
 ontap
 ontap_9.13.1
@@ -4358,7 +4383,6 @@ openid
 openidconnect
 openinghours
 openport
-openprovider
 openscad
 opensearch
 opensource
@@ -4544,6 +4568,7 @@ pathfinder
 patternmatching
 pause
 pax8
+payload
 paylocity
 paypal
 pays
@@ -4556,6 +4581,10 @@ pcsetup
 pcsv
 pdb
 pdf
+pdf-document-processor
+pdf-files
+pdf-generation
+pdf-redaction
 pe
 peek
 peering
@@ -4907,6 +4936,7 @@ protocols
 provance
 proverb
 provider
+providerhub
 provision
 provisioning
 provisioningpackage
@@ -4990,6 +5020,8 @@ psexec.exe
 psexpandline
 psfciv
 psfitbit
+psfive9
+psfive9admin
 psfoldersize
 psgallery
 psget
@@ -5218,7 +5250,6 @@ rdcman
 rdcmanager
 rdfe
 rdg
-rdl
 rdm
 rdp
 rdpsession
@@ -5317,6 +5348,8 @@ remote
 remote-desktop
 remote'
 remotecert
+remoteconnection
+remoteconnectionsmanager
 remotecontrol
 remotedesktop
 remotedesktopconnectionmanager
@@ -5426,7 +5459,6 @@ ribcl
 rightjoin
 rights
 rightsizing
-rightsmanagement
 ripe
 risk
 riskiq
@@ -5458,6 +5490,7 @@ rot13
 rotate
 rotation
 round
+roundrobindatabase
 route
 route53
 routeconfig
@@ -5474,6 +5507,7 @@ royaltsx
 rpa
 rpc
 rras
+rrd
 rs
 rsa
 rsat
@@ -5520,6 +5554,7 @@ safe
 safeguard
 sage
 saggiehaim
+sailpoint
 sale
 sales
 salesforce
@@ -5627,7 +5662,6 @@ scriptcreation
 scriptcs
 scriptedui
 scripting
-scriptlogging
 scriptoform
 scriptrunner
 scripts
@@ -5989,13 +6023,13 @@ soltra
 solution
 solutions
 sonarcloud
-sonarqube
 sonarr
 sonatype
 songs
 sonicwall
 sonicwallvpn
 sonus
+soon
 soonr
 soonragent
 sophos
@@ -6223,6 +6257,7 @@ studio
 style
 su
 sub
+sub-directory
 sub-menu
 subatomix
 subjectname
@@ -6274,7 +6309,6 @@ swagger
 swamid
 swarm
 swedish
-swimlane
 swis
 switch
 sxs
@@ -6379,6 +6413,7 @@ tcp
 tcp/ip
 tcpip
 tcpport
+tcprjmgmt
 tcpserver
 tcptest
 tcx
@@ -6563,7 +6598,9 @@ tracing
 tracker
 tracking
 trading
+trafficfiltering
 trafficmanager
+trafficmarking
 train
 training
 training-course
@@ -6785,6 +6822,7 @@ updmanagement
 updmgmt
 upgrade
 uplift
+uplink
 upn
 ups
 upsource
@@ -6885,6 +6923,9 @@ vcsa
 vcvars
 vdi
 vdp
+vdportgroup
+vdswitch
+vduplink
 ve7cc
 vector
 veeam
@@ -6964,7 +7005,9 @@ vmfs
 vmgroup
 vmhost
 vmhostgroup
+vmhostnetworkadapater
 vmmanagement
+vmnic
 vmrole
 vms
 vmss
@@ -7283,7 +7326,6 @@ workingdays
 workinghours
 workingtime
 workload-automation
-workloads
 workpoint
 workrequests
 worksheet
