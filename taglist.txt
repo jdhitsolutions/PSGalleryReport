@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Friday, 04 August 2023 17:52:59 UTC
+Updated: Saturday, 05 August 2023 02:08:26 UTC
 
 ?:
 ??
@@ -231,6 +231,7 @@ agm
 agnoster
 ai
 aianomalydetection
+aidocument
 ailanguage
 aim
 aip
@@ -252,7 +253,6 @@ alac
 alarm
 alb
 albums
-alc
 alero
 alert
 alerting
@@ -466,8 +466,6 @@ aspnet
 aspnet_regiis
 asr
 assembleenationale
-assembly
-assemblyloadcontext
 assemblymeta
 assert
 assertion
@@ -623,6 +621,7 @@ azure-resource-graph
 azure-ssis
 azureactivedirectory
 azuread
+azureadbackupandrestore
 azureadconnect
 azureadgraph
 azureadtoolkit
@@ -826,6 +825,7 @@ bootstrap
 bootstrapping
 bop
 bot
+bots
 botservice
 bouncer
 boundaries
@@ -859,7 +859,6 @@ browser
 browserextension
 browserhistory
 browsing
-brs
 bruteforce
 bson
 btdf
@@ -1170,6 +1169,7 @@ cmaccounts
 cmake
 cmakepresets.json
 cmbuild
+cmclibnet
 cmclustermaintenance
 cmd
 cmdb
@@ -1204,6 +1204,7 @@ codegen
 codegeneration
 codegenerator
 codepoint
+codereview
 codes
 codesign
 codesigning
@@ -1247,6 +1248,7 @@ commandlets
 commandline
 commands
 commandsandresource
+commence
 comment
 comments
 commerce
@@ -1796,6 +1798,7 @@ directorysearcher
 directorysecurity
 directrouting
 direnv
+dirkjan
 dirsync
 disa
 disable
@@ -1996,6 +1999,8 @@ duplicate
 duplicate-files
 duplicatioin
 duplication
+durable
+durabletask
 dust
 dutch
 dvls
@@ -2449,6 +2454,7 @@ flasharray
 flashblade
 flatfile
 flatten
+fleetsoftwareupdate
 flex
 flex-query
 flexdesk
@@ -2542,6 +2548,7 @@ fullmetalgnome
 fullscreen
 fun
 function
+function_calling
 functionality
 functionalprogramming
 functions
@@ -2691,6 +2698,7 @@ goldsource
 goldsource-dedicated-server
 google
 google-chrome
+google-histogram
 google-sankey
 google-table
 googleadsv2
@@ -3393,6 +3401,7 @@ koans
 korn
 kotlin
 kql
+kraken
 krbtgt
 krick
 kschemaplugin
@@ -4089,6 +4098,8 @@ nedyalkov
 neo4j
 neptune
 nerdfonts
+nerdio
+nerdioapi
 nerdymishka
 nessus
 nested
@@ -4177,6 +4188,7 @@ nlm
 nlog
 nmap
 nmbell
+nmm
 nntp
 node
 nodejs
@@ -4389,7 +4401,6 @@ operationsmanagementsuiteagent
 operationvalidation
 operatoraccesscontrol
 operators
-opml
 ops
 opsi
 opsmgr
@@ -4451,7 +4462,6 @@ out-gridview
 out-json
 outerjoin
 outertext
-outline
 outlook
 output
 output-to-image
@@ -4720,6 +4730,7 @@ posh-git
 posh-ribbon
 posh-ssh
 poshbot
+poshcommence
 poshevents
 poshgraph
 poshgraph-sdk
@@ -4761,8 +4772,6 @@ powermax
 powerplan
 powerplateform
 powerplatform
-powerprotect
-powerprotect_datamanager
 powersaving
 powerscheme
 powershell
@@ -4790,6 +4799,7 @@ powershell.module.invokewinget
 powershell.one
 powershell.persistentpathstack
 powershell7
+powershellai
 powershellazuresql
 powershellconferenceeurope
 powershellcore
@@ -4815,7 +4825,6 @@ powerstore
 powertab
 powertoolcmdlets
 powertooldsc
-ppdm
 ppk
 pposh
 pps
@@ -5477,7 +5486,6 @@ rot13
 rotate
 rotation
 round
-roundrobindatabase
 route
 route53
 routeconfig
@@ -5494,7 +5502,6 @@ royaltsx
 rpa
 rpc
 rras
-rrd
 rs
 rsa
 rsat
@@ -5638,8 +5645,6 @@ screensaver
 screenshot
 script
 script_version
-script-to-assembly
-script-to-executable
 scriptanalyzer
 scriptblock
 scriptblocklogging
@@ -5650,13 +5655,10 @@ scriptcs
 scriptedui
 scripting
 scriptlogging
-scriptoform
 scriptrunner
 scripts
 scriptsmonitoring
 scrolllock
-scrub
-scrubber
 scsm
 scuba
 sd
@@ -6493,6 +6495,7 @@ tfe
 tfenv
 tflint
 tfs
+tfscmdlets
 tfsec
 tftd
 tftp
@@ -6586,6 +6589,7 @@ tracert
 tracing
 tracker
 tracking
+trading
 trafficfiltering
 trafficmanager
 trafficmarking
@@ -6813,6 +6817,7 @@ uplift
 uplink
 upn
 ups
+upsource
 upstream
 uptime
 uptimerobot
@@ -7024,6 +7029,7 @@ volume
 volumeshadowcopy
 volumio
 vorbis
+vovin
 vpas
 vpasmodule
 vpc
@@ -7184,7 +7190,6 @@ wim
 wim2vhd
 win
 win-ps2exe
-win10
 win2k8
 win32
 win32_installedwin32program
