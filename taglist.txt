@@ -1,9 +1,7 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Saturday, 05 August 2023 09:52:45 UTC
+Updated: Saturday, 05 August 2023 17:52:50 UTC
 
-?:
-??
 .bat
 .env
 .net
@@ -237,8 +235,6 @@ aim
 aip
 aipscanner
 aircall
-airpower
-airpwr
 airtable
 ais
 aispeech
@@ -253,6 +249,7 @@ alac
 alarm
 alb
 albums
+alc
 alero
 alert
 alerting
@@ -338,6 +335,7 @@ anypoint
 anywhere
 aovpn psmodule
 apache
+apachekafka
 api
 api-client
 api-gateway
@@ -459,12 +457,13 @@ asm
 asn.1
 asn1
 asnbank
-asp
 asp.net
 aspnet
 aspnet_regiis
 asr
 assembleenationale
+assembly
+assemblyloadcontext
 assemblymeta
 assert
 assertion
@@ -507,7 +506,6 @@ audits
 aumid
 aut
 auth0
-authenticate
 authentication
 authenticationcertificate
 authenticode
@@ -851,7 +849,6 @@ britannicaknowledgesystems
 british-gas
 brk4452
 broadcast
-broadcom
 broot
 brownserve-uk
 browser
@@ -903,6 +900,7 @@ bytearray
 bzip2
 c#
 c++
+ca
 cache
 caf
 cal
@@ -1143,7 +1141,6 @@ cloudbees
 cloudberry
 cloudblue
 cloudbolt
-cloudbridge
 cloudendure
 cloudevents
 cloudflare
@@ -1336,6 +1333,7 @@ console
 consoleguitools
 consolemenu
 consolemusic
+consumer
 consumption
 contact
 contacts
@@ -1729,6 +1727,7 @@ desktopvirtualization
 details
 detect
 detection
+detectionrule
 deutsch
 deutschland
 dev
@@ -2138,7 +2137,6 @@ envvar
 envvars
 eol
 eop
-eperl
 ephesoft
 epicor
 episode
@@ -2147,7 +2145,6 @@ eprosima
 epub
 epv
 equality
-erb
 erp
 error
 error-log
@@ -2183,7 +2180,6 @@ ethz
 etl
 etl2pcapng
 etrade
-ets
 etw
 eulanda
 evaluator
@@ -2828,7 +2824,6 @@ hba
 hbase
 hci
 hcl
-hcm
 hcx
 hdfs
 hdinsight
@@ -2961,7 +2956,6 @@ hubspotcrm
 hubspotps
 hudson
 hue
-humanizer
 humanly
 humor
 humorous
@@ -3073,6 +3067,7 @@ imei
 imi
 impala
 impersonation
+imperva
 import
 import-csv
 import-dtdriverpackpackagedefinitionsms
@@ -3321,7 +3316,6 @@ jsonplus
 jsonwebkey
 jsonwebsignature
 jsonwebtoken
-jsp
 jumbo
 jump
 jump-location
@@ -3346,7 +3340,6 @@ karabiner-elements
 karma
 kaseya
 kaseyavsa
-kaspersky
 katakana
 kb
 kbarticle
@@ -3387,6 +3380,7 @@ kintone
 klantcontroles
 kms
 knapsack
+knetps
 knob
 knowbe4
 knowledge
@@ -3426,7 +3420,6 @@ labsnippet
 labtech
 labtest
 labworker
-lake
 lambda
 lame
 lametrictime
@@ -3495,7 +3488,8 @@ library
 libvirt
 licence
 license
-licensemanagement
+license-generator
+licenseautomation
 licensemanager
 licensereport
 licenses
@@ -3569,6 +3563,7 @@ lockdown
 locking
 lockoutreport
 lockscreen
+locksmith
 lockstep
 lod
 lodasoft
@@ -3668,7 +3663,6 @@ macosx
 macro
 macros
 madlib
-magazine
 magento
 magic8ball
 magicpacket
@@ -3765,7 +3759,6 @@ mc
 mcafee
 mcas
 mchapv2
-mct
 md5
 md5_v2-afbf3dae88c049d004174f2d610ee134
 md5sum
@@ -3840,6 +3833,7 @@ microservices
 microsoft
 microsoft_365
 microsoft_azure
+microsoft_endpoint_manager
 microsoft_online
 microsoft_teams
 microsoft-graph
@@ -4079,6 +4073,7 @@ natural-language-to-code
 natural-selection
 nav
 navigation
+nbi
 ncal
 ndes
 nebulon
@@ -4232,7 +4227,6 @@ nuget-references
 nuget.exe
 nuget.org
 nugetpackageprovider
-null-coalescing
 number
 numlock
 nunit
@@ -4299,7 +4293,6 @@ office365
 officedev
 officegraph
 officemessageencryption
-officertool
 offline
 offlinewimservicing
 ofx
@@ -4390,7 +4383,7 @@ operationsmanagementsuite
 operationsmanagementsuiteagent
 operationvalidation
 operatoraccesscontrol
-operators
+opml
 ops
 opsi
 opsmgr
@@ -4452,10 +4445,10 @@ out-gridview
 out-json
 outerjoin
 outertext
+outline
 outlook
 output
 output-to-image
-outreach
 outsystems
 overbite
 ovf
@@ -4473,7 +4466,6 @@ pac
 pack
 package
 package-management
-package-manager
 package-transform
 packagemanagement
 packagemanager
@@ -4566,7 +4558,6 @@ pci-dss
 pcloud
 pcsetup
 pcsv
-pdb
 pdf
 pdf-document-processor
 pdf-files
@@ -4756,7 +4747,6 @@ powercligoodies
 powerdex
 powerforensics
 powergraph
-powergui
 powermax
 powerplan
 powerplateform
@@ -4827,6 +4817,7 @@ pq
 pranks
 predicate
 prediction
+predictive
 predictive-text
 predictor
 preferences
@@ -4834,8 +4825,7 @@ prefix
 preparead
 preparealldomains
 prepareschema
-preprocessing
-preprocessor
+prepend
 presentation
 presenter
 presto
@@ -4878,6 +4868,7 @@ processing
 processmitigation
 processor
 procs
+producer
 product
 productid
 productivity
@@ -5233,7 +5224,6 @@ rdcman
 rdcmanager
 rdfe
 rdg
-rdl
 rdm
 rdp
 rdpsession
@@ -5430,11 +5420,7 @@ rexec
 rfc1305
 rfc1436
 rfc2030
-rfc3986
-rfc4007
 rfc4266
-rfc4291
-rfc5952
 rfc826
 rfc9116
 rg
@@ -5444,7 +5430,6 @@ ribcl
 rightjoin
 rights
 rightsizing
-rightsmanagement
 ripe
 risk
 riskiq
@@ -5694,6 +5679,7 @@ securegopher+
 securemfa
 securerdp
 securescore
+securesphere
 securestring
 security
 security-awareness-training
@@ -5775,7 +5761,6 @@ servicebus
 servicebusforwindowsserver
 servicecatalog
 serviceconnectionpoint
-servicecontrol
 servicedesk
 servicedeskplus
 serviceendpoints
@@ -5881,6 +5866,7 @@ sid
 sidecar
 siem
 sif
+sigma
 sign
 signalfx
 signalr
@@ -6076,13 +6062,11 @@ sport
 sports
 sports-tracker
 spotify
-spotify-api
 spotlight
 spotlightimages
 spp
 spread
 spreadsheet
-springcloud
 sql
 sql-database
 sql-script
@@ -6435,7 +6419,6 @@ template
 template-engine
 templates
 templating
-temporary
 tenable
 tenable.sc
 tenant
@@ -6443,12 +6426,10 @@ tenantmanagercontrolplane
 teradata
 termbin
 terminal
-terminal-interface
 terminal-services
 terminal.gui
 terminalvelocity
 termset
-ternary
 terraform
 terraformcloud
 terrafun
@@ -6471,6 +6452,7 @@ testing
 testlab
 testplans
 tests
+testsuite
 testtag1
 testtag2
 testtool
@@ -6560,6 +6542,7 @@ toolkit
 tools
 tools4ever
 topdesk
+topgrade
 topics
 topology
 tor
@@ -6626,7 +6609,6 @@ trigger
 tripunkt
 troubleshoot
 troubleshooting
-trouw
 truecrypt
 truenas
 truportal
@@ -6647,14 +6629,12 @@ tst1
 tst3
 ttrpg
 tts
-tubedownloader
 tui
 tulpep
 tuner
 tutorial
 tv
 tweet
-twig
 twilio
 twincat
 twinkly
@@ -6736,7 +6716,6 @@ ud-timeout
 ud-tool
 ud-toploader
 ud-trendline
-ud-typing
 ud-window
 ud-wordtree
 udcm
@@ -6753,7 +6732,6 @@ ui7
 uk
 ul
 ulid
-ultimatetool
 um
 uml
 umn
@@ -6916,6 +6894,7 @@ veeam
 veeampn
 veeva
 venafi
+vencord
 vendor
 venue
 venvlink
@@ -7069,7 +7048,6 @@ w32time
 w365
 w3svc
 w3w
-waa
 waas
 wac
 waf
@@ -7230,7 +7208,6 @@ windowsinstaller
 windowsinternaldatabase
 windowsinternals
 windowsiotservices
-windowsiso
 windowsmanagementframework
 windowspackagemanager
 windowsplugins
@@ -7302,7 +7279,6 @@ workbook
 workday
 worker
 workflow
-workflowmax
 workflows
 workingdays
 workinghours
@@ -7450,6 +7426,7 @@ zipfile-transform
 zisson
 zoho
 zone
+zookeeper
 zoom
 zoomapi
 zoommeeting
