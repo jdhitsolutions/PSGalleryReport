@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Saturday, 05 August 2023 02:08:26 UTC
+Updated: Saturday, 05 August 2023 09:52:45 UTC
 
 ?:
 ??
@@ -338,7 +338,6 @@ anypoint
 anywhere
 aovpn psmodule
 apache
-apachekafka
 api
 api-client
 api-gateway
@@ -859,6 +858,7 @@ browser
 browserextension
 browserhistory
 browsing
+brs
 bruteforce
 bson
 btdf
@@ -1169,7 +1169,6 @@ cmaccounts
 cmake
 cmakepresets.json
 cmbuild
-cmclibnet
 cmclustermaintenance
 cmd
 cmdb
@@ -1248,7 +1247,6 @@ commandlets
 commandline
 commands
 commandsandresource
-commence
 comment
 comments
 commerce
@@ -1338,7 +1336,6 @@ console
 consoleguitools
 consolemenu
 consolemusic
-consumer
 consumption
 contact
 contacts
@@ -1732,7 +1729,6 @@ desktopvirtualization
 details
 detect
 detection
-detectionrule
 deutsch
 deutschland
 dev
@@ -3077,7 +3073,6 @@ imei
 imi
 impala
 impersonation
-imperva
 import
 import-csv
 import-dtdriverpackpackagedefinitionsms
@@ -3392,7 +3387,6 @@ kintone
 klantcontroles
 kms
 knapsack
-knetps
 knob
 knowbe4
 knowledge
@@ -3501,8 +3495,6 @@ library
 libvirt
 licence
 license
-license-generator
-licenseautomation
 licensemanagement
 licensemanager
 licensereport
@@ -3848,7 +3840,6 @@ microservices
 microsoft
 microsoft_365
 microsoft_azure
-microsoft_endpoint_manager
 microsoft_online
 microsoft_teams
 microsoft-graph
@@ -4088,7 +4079,6 @@ natural-language-to-code
 natural-selection
 nav
 navigation
-nbi
 ncal
 ndes
 nebulon
@@ -4730,7 +4720,6 @@ posh-git
 posh-ribbon
 posh-ssh
 poshbot
-poshcommence
 poshevents
 poshgraph
 poshgraph-sdk
@@ -4772,6 +4761,8 @@ powermax
 powerplan
 powerplateform
 powerplatform
+powerprotect
+powerprotect_datamanager
 powersaving
 powerscheme
 powershell
@@ -4825,6 +4816,7 @@ powerstore
 powertab
 powertoolcmdlets
 powertooldsc
+ppdm
 ppk
 pposh
 pps
@@ -4835,7 +4827,6 @@ pq
 pranks
 predicate
 prediction
-predictive
 predictive-text
 predictor
 preferences
@@ -4843,7 +4834,6 @@ prefix
 preparead
 preparealldomains
 prepareschema
-prepend
 preprocessing
 preprocessor
 presentation
@@ -4888,7 +4878,6 @@ processing
 processmitigation
 processor
 procs
-producer
 product
 productid
 productivity
@@ -5322,6 +5311,7 @@ register-argumentcompleter
 registration
 registry
 regression
+regularexpression
 regularexpressions
 reinstall
 relational
@@ -5486,6 +5476,7 @@ rot13
 rotate
 rotation
 round
+roundrobindatabase
 route
 route53
 routeconfig
@@ -5502,6 +5493,7 @@ royaltsx
 rpa
 rpc
 rras
+rrd
 rs
 rsa
 rsat
@@ -5645,6 +5637,8 @@ screensaver
 screenshot
 script
 script_version
+script-to-assembly
+script-to-executable
 scriptanalyzer
 scriptblock
 scriptblocklogging
@@ -5655,10 +5649,13 @@ scriptcs
 scriptedui
 scripting
 scriptlogging
+scriptoform
 scriptrunner
 scripts
 scriptsmonitoring
 scrolllock
+scrub
+scrubber
 scsm
 scuba
 sd
@@ -5697,7 +5694,6 @@ securegopher+
 securemfa
 securerdp
 securescore
-securesphere
 securestring
 security
 security-awareness-training
@@ -5885,7 +5881,6 @@ sid
 sidecar
 siem
 sif
-sigma
 sign
 signalfx
 signalr
@@ -6476,7 +6471,6 @@ testing
 testlab
 testplans
 tests
-testsuite
 testtag1
 testtag2
 testtool
@@ -6566,7 +6560,6 @@ toolkit
 tools
 tools4ever
 topdesk
-topgrade
 topics
 topology
 tor
@@ -6630,7 +6623,6 @@ trevorsullivan
 triangle
 tribeloo
 trigger
-triodos
 tripunkt
 troubleshoot
 troubleshooting
@@ -6924,7 +6916,6 @@ veeam
 veeampn
 veeva
 venafi
-vencord
 vendor
 venue
 venvlink
@@ -7029,7 +7020,6 @@ volume
 volumeshadowcopy
 volumio
 vorbis
-vovin
 vpas
 vpasmodule
 vpc
@@ -7190,6 +7180,7 @@ wim
 wim2vhd
 win
 win-ps2exe
+win10
 win2k8
 win32
 win32_installedwin32program
@@ -7459,7 +7450,6 @@ zipfile-transform
 zisson
 zoho
 zone
-zookeeper
 zoom
 zoomapi
 zoommeeting

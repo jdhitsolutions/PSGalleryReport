@@ -3,6 +3,61 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [BruhArmy](https://www.powershellgallery.com/Packages/BruhArmy/1.1.8) | 1.1.8
+
+### Published: 08/05/2023 09:19:26 by Evan Deters
+
+This module includes several commands that help with the deployment of virtual environments on vSphere.
+
+__Downloads__: 25 | __Repository__: https://github.com/evanjd711/bruharmy
+
+## [Harden-Windows-Security-Module](https://www.powershellgallery.com/Packages/Harden-Windows-Security-Module/0.0.3) | 0.0.3
+
+### Published: 08/05/2023 08:35:23 by HotCakeX
+
+✅ This is a PowerShell module for Harden Windows Security script.
+✅ It offers System Compliance checking in addition to hardening.
+✅ You can check and validate a system to see whether it conforms to the Harden Windows Security guidelines or not.
+
+💠 The module generates a nice output on the screen as well as giving users an option to export the results in a CSV file.
+
+💠 If you use the "Protect-WindowsSecurity" Cmdlet, it will download and run the Harden Windows Security PowerShell script from the official repository
+
+🟡 Refer to this GitHub repository for more info: https://github.com/HotCakeX/Harden-Windows-Security
+
+🏴 Module's documentation: https://github.com/HotCakeX/Harden-Windows-Security/wiki/Harden%E2%80%90Windows%E2%80%90Security%E2%80%90Module
+
+💎 If you have any questions, requests, suggestions etc. about this module, please open a new Discussion or Issue on GitHub
+
+__Downloads__: 105 | __Repository__: https://github.com/HotCakeX/Harden-Windows-Security
+
+## [PAF](https://www.powershellgallery.com/Packages/PAF/0.2.4) | 0.2.4
+
+### Published: 08/05/2023 07:03:29 by Wojciech Napierala (voytas75)
+
+The PowerShell Awesome Framework is a versatile and user-friendly PowerShell module that empowers users to streamline their scripting experience with a collection of useful code snippets. This framework is designed to enhance productivity and simplify the execution of various PowerShell tasks, making it a valuable tool for both beginners and experienced PowerShell users.
+
+__Downloads__: 21 | __Repository__: https://github.com/voytas75/PowershellFramework
+
+## [Mailozaurr](https://www.powershellgallery.com/Packages/Mailozaurr/1.0.2) | 1.0.2
+
+### Published: 08/05/2023 07:00:50 by Przemyslaw Klys
+
+Mailozaurr is a PowerShell module that aims to provide SMTP, POP3, IMAP and few other ways to interact with Email. Underneath it uses MimeKit and MailKit and EmailValidation libraries written by Jeffrey Stedfast.
+
+__Downloads__: 864,050 | __Repository__: https://github.com/EvotecIT/MailoZaurr
+
+## [CoreePower.Lib](https://www.powershellgallery.com/Packages/CoreePower.Lib/0.0.2.4) | 0.0.2.4
+
+### Published: 08/05/2023 05:58:52 by Carsten Riedel
+
+The "CoreePower.Lib" module is the a part of the CoreePower project.
+It adds command-line programs like 7-Zip, Git, GitHub CLI, NuGet, dotnet, and Visual Studio Code from the original sources.
+See full readme at https://github.com/carsten-riedel/CoreePower.Lib/#readme
+Note: the "Initialize-CorePowerLatest" command may conflict with existing installations. Use with caution.
+
+__Downloads__: 730 | __Repository__: https://github.com/carsten-riedel/CoreePower.Lib
+
 ## [Prelude](https://www.powershellgallery.com/Packages/Prelude/0.2.9) | 0.2.9
 
 ### Published: 08/05/2023 00:56:35 by Jason Wohlgemuth
@@ -17,7 +72,7 @@ __Downloads__: 2,479 | __Repository__: https://github.com/jhwohlgemuth/pwsh-prel
 
 This PowerShell module contains functions for managing WMI Namespaces, Classes and Instances.
 
-__Downloads__: 12,223 | __Repository__: https://mem.zone/PSWmiToolKit
+__Downloads__: 12,222 | __Repository__: https://mem.zone/PSWmiToolKit
 
 ## [JumpCloud.ADMU](https://www.powershellgallery.com/Packages/JumpCloud.ADMU/2.4.2) | 2.4.2
 
@@ -34,14 +89,6 @@ __Downloads__: 8,429 | __Repository__:
 Enables parallel processing of pipeline input objects.
 
 __Downloads__: 398 | __Repository__: https://github.com/santisq/PSParallelPipeline
-
-## [PAF](https://www.powershellgallery.com/Packages/PAF/0.2.3) | 0.2.3
-
-### Published: 08/04/2023 19:25:23 by Wojciech Napierala (voytas75)
-
-The PowerShell Awesome Framework is a versatile and user-friendly PowerShell module that empowers users to streamline their scripting experience with a collection of useful code snippets. This framework is designed to enhance productivity and simplify the execution of various PowerShell tasks, making it a valuable tool for both beginners and experienced PowerShell users.
-
-__Downloads__: 21 | __Repository__: https://github.com/voytas75/PowershellFramework
 
 ## [PsGitHubOrgMap](https://www.powershellgallery.com/Packages/PsGitHubOrgMap/0.0.4) | 0.0.4
 
@@ -141,6 +188,14 @@ Utilities for managing TwinCAT solutions and projects. Including PLC project exp
 
 __Downloads__: 0 | __Repository__: https://github.com/ahuca/TcPrjMgmt/tree/main
 
+## [PPDM-pwsh](https://www.powershellgallery.com/Packages/PPDM-pwsh/19.14.20.47) | 19.14.20.47
+
+### Published: 08/04/2023 11:33:19 by karsten.bott@dell.com
+
+Powershell Module to interact with the PowerProdect Data Manager (PPDM) API
+
+__Downloads__: 3,290 | __Repository__: https://github.com/bottkars/PPDM-pwsh
+
 ## [posh-gitmoji](https://www.powershellgallery.com/Packages/posh-gitmoji/3.13.5) | 3.13.5
 
 ### Published: 08/04/2023 10:41:13 by krokofant
@@ -171,7 +226,7 @@ __Downloads__: 710 | __Repository__: https://github.com/codaamok/PSFront
 
 This PowerShell module contains cmdlets for managing SolarWinds Orion.
 
-__Downloads__: 468,378 | __Repository__: https://github.com/solarwinds/OrionSDK
+__Downloads__: 468,380 | __Repository__: https://github.com/solarwinds/OrionSDK
 
 ## [RobocopyPS](https://www.powershellgallery.com/Packages/RobocopyPS/0.2.20) | 0.2.20
 
@@ -179,7 +234,7 @@ __Downloads__: 468,378 | __Repository__: https://github.com/solarwinds/OrionSDK
 
 Wrapper for Robocopy
 
-__Downloads__: 5,976,801 | __Repository__: https://github.com/sbergwall/RobocopyPS
+__Downloads__: 5,976,769 | __Repository__: https://github.com/sbergwall/RobocopyPS
 
 ## [OfficeAndAzureTools](https://www.powershellgallery.com/Packages/OfficeAndAzureTools/9.10.10) | 9.10.10
 
@@ -196,14 +251,6 @@ __Downloads__: 0 | __Repository__:
 Docker command completion for PowerShell.
 
 __Downloads__: 21,562 | __Repository__: https://github.com/matt9ucci/DockerCompletion
-
-## [BruhArmy](https://www.powershellgallery.com/Packages/BruhArmy/1.1.2) | 1.1.2
-
-### Published: 08/04/2023 07:49:48 by Evan Deters
-
-This module includes several commands that help with the deployment of virtual environments on vSphere.
-
-__Downloads__: 25 | __Repository__: https://github.com/evanjd711/bruharmy
 
 ## [HyperVTools](https://www.powershellgallery.com/Packages/HyperVTools/4.7.3) | 4.7.3
 
@@ -285,14 +332,6 @@ PowerShellAI Functions Module a PowerShell module designed to work as a bridge b
 
 __Downloads__: 371 | __Repository__: https://github.com/dfinke/PowerShellAI.Functions
 
-## [GraphTools](https://www.powershellgallery.com/Packages/GraphTools/0.0.9) | 0.0.9
-
-### Published: 08/03/2023 17:20:51 by Kevin Blumenfeld
-
-GraphTools module
-
-__Downloads__: 27 | __Repository__: https://github.com/kevinblumenfeld/GraphTools
-
 ## [Intersight.PowerShell](https://www.powershellgallery.com/Packages/Intersight.PowerShell/1.0.11.13236) | 1.0.11.13236
 
 ### Published: 08/03/2023 16:40:28 by Cisco Systems
@@ -331,7 +370,7 @@ __Downloads__: 401 | __Repository__: https://celin.io/ais.pwsh/
 
 A set of tools that will assist you when working with Dynamics 365 Finance & Operations development / demo machines.
 
-__Downloads__: 166,842 | __Repository__: https://github.com/d365collaborative/d365fo.tools
+__Downloads__: 166,827 | __Repository__: https://github.com/d365collaborative/d365fo.tools
 
 ## [RiverMeadow.Development.Migrate](https://www.powershellgallery.com/Packages/RiverMeadow.Development.Migrate/1.0.116.279) | 1.0.116.279
 
@@ -371,7 +410,7 @@ __Downloads__: 500 | __Repository__:
 
 Helper module for Active Directory with lots of useful functions that simplify supporting Active Directory.
 
-__Downloads__: 149,628 | __Repository__: https://github.com/EvotecIT/ADEssentials
+__Downloads__: 149,627 | __Repository__: https://github.com/EvotecIT/ADEssentials
 
 ## [DattoAPI](https://www.powershellgallery.com/Packages/DattoAPI/2.0.1) | 2.0.1
 
@@ -525,26 +564,6 @@ UnifiedContactsPS
 
 __Downloads__: 101 | __Repository__: 
 
-## [Harden-Windows-Security-Module](https://www.powershellgallery.com/Packages/Harden-Windows-Security-Module/0.0.2) | 0.0.2
-
-### Published: 08/02/2023 09:47:53 by HotCakeX
-
-✅ This is a PowerShell module for Harden Windows Security script.
-✅ It offers System Compliance checking in addition to hardening.
-✅ You can check and validate a system to see whether it conforms to the Harden Windows Security guidelines or not.
-
-💠 The module generates a nice output on the screen as well as giving users an option to export the results in a CSV file.
-
-💠 If you use the "Protect-WindowsSecurity" Cmdlet, it will download and run the Harden Windows Security PowerShell script from the official repository
-
-🟡 Refer to this GitHub repository for more info: https://github.com/HotCakeX/Harden-Windows-Security
-
-🏴 Module's documentation: https://github.com/HotCakeX/Harden-Windows-Security/wiki/Harden%E2%80%90Windows%E2%80%90Security%E2%80%90Module
-
-💎 If you have any questions, requests, suggestions etc. about this module, please open a new Discussion or Issue on GitHub
-
-__Downloads__: 108 | __Repository__: https://github.com/HotCakeX/Harden-Windows-Security
-
 ## [AzAppGatewayVisualizer](https://www.powershellgallery.com/Packages/AzAppGatewayVisualizer/0.5) | 0.5
 
 ### Published: 08/02/2023 07:18:46 by Mark Farkas
@@ -577,20 +596,6 @@ Other features include:
 - Converting changelogs into other formats via ConvertFrom-Changelog
 
 __Downloads__: 52,673 | __Repository__: https://github.com/natescherer/ChangelogManagement
-
-## [MASES.KNetPS](https://www.powershellgallery.com/Packages/MASES.KNetPS/2.0.2) | 2.0.2
-
-### Published: 08/02/2023 01:08:32 by MASES s.r.l.
-
-KNet PowerShell command line interface is a PowerShell Module to use Apache Kafka and PowerShell side-by-side. With KNet PowerShell it is possible to:
-- execute all tools of Apache Kafka within a PowerShell shell: Administration tools, Console Consumer, Console Producer, manage Apache Kafka Streams, activate Apache Kafka Connect, server side (start Kafka and ZooKeeper), etc
-- create consumers and producers objects to interact with an Apache Kafka cluster
-- send data to and receive data from an Apache Kafka cluster
-- create a Kafka Admin Client object to manage an Apache Kafka cluster
-
-More information within the project hosted on GitHub. Further information at https://github.com/masesgroup/KNet.
-
-__Downloads__: 321 | __Repository__: https://github.com/masesgroup/KNet
 
 ## [youtube](https://www.powershellgallery.com/Packages/youtube/0.3.21) | 0.3.21
 
@@ -726,7 +731,7 @@ __Downloads__: 25,319 | __Repository__: https://github.com/AutomatedLab/Automate
 
 PowerShell functions to manage a JumpCloud Directory-as-a-Service
 
-__Downloads__: 5,836,486 | __Repository__: https://github.com/TheJumpCloud/support/wiki
+__Downloads__: 5,836,480 | __Repository__: https://github.com/TheJumpCloud/support/wiki
 
 ## [OCI.PSModules](https://www.powershellgallery.com/Packages/OCI.PSModules/64.0.0) | 64.0.0
 
@@ -1943,7 +1948,7 @@ __Downloads__: 16,806 | __Repository__:
 
 This module provides an interface to the Hudu Rest API further information can be found at https://github.com/lwhitelock/HuduAPI
 
-__Downloads__: 544,689 | __Repository__: 
+__Downloads__: 544,677 | __Repository__: 
 
 ## [LSUClient](https://www.powershellgallery.com/Packages/LSUClient/1.6.0) | 1.6.0
 
@@ -1951,7 +1956,7 @@ __Downloads__: 544,689 | __Repository__:
 
 Orchestrate driver, BIOS/UEFI and firmware updates for Lenovo computers 👨‍💻
 
-__Downloads__: 15,124,889 | __Repository__: https://www.github.com/jantari/LSUClient
+__Downloads__: 15,124,542 | __Repository__: https://www.github.com/jantari/LSUClient
 
 ## [BitTitanManagement](https://www.powershellgallery.com/Packages/BitTitanManagement/0.0.134) | 0.0.134
 
@@ -2025,12 +2030,4 @@ Elements.Client - the PowerShell module for Elements SDK API
 
 __Downloads__: 5 | __Repository__: https://github.com/AvePoint/Elements-client
 
-## [BcContainerHelper](https://www.powershellgallery.com/Packages/BcContainerHelper/5.0.5) | 5.0.5
-
-### Published: 07/31/2023 02:58:58 by Freddy Kristiansen
-
-PowerShell module, which makes it easier to work with Business Central Containers on Docker.
-
-__Downloads__: 1,270,048 | __Repository__: 
-
-*Updated: Saturday, 05 August 2023 02:08:10 UTC*
+*Updated: Saturday, 05 August 2023 09:52:33 UTC*
