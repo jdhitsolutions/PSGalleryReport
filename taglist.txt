@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Sunday, 06 August 2023 02:04:53 UTC
+Updated: Sunday, 06 August 2023 09:52:45 UTC
 
 ?:
 ??
@@ -271,6 +271,7 @@ aliases
 aliens
 all
 alletra
+alloydb
 alm
 almrangers
 alpha
@@ -460,7 +461,6 @@ asm
 asn.1
 asn1
 asnbank
-asp
 asp.net
 aspnet
 aspnet_regiis
@@ -471,7 +471,6 @@ assemblyloadcontext
 assemblymeta
 assert
 assertion
-assessment
 asset
 assetintelligencepoint
 assets
@@ -514,7 +513,6 @@ authenticate
 authentication
 authenticationcertificate
 authenticode
-authn
 author
 authoring
 authoringtools
@@ -522,7 +520,6 @@ authority
 authorization
 authorizationheaders
 authorize.net
-authz
 autify
 auto
 auto_cd
@@ -943,11 +940,14 @@ carrier
 cartoon
 case
 cassandra
+cat
+cat-names
 catalog
 catalogs
 catalyst
 catapult
 catesta
+cats
 catty
 cavium
 cb
@@ -963,7 +963,6 @@ cd-
 cd+
 cdable_vars
 cdata
-cdb
 cdi
 cdm
 cdn
@@ -1295,6 +1294,7 @@ conda
 condition
 conditionalaccess
 conduit
+conference
 confidentialclient
 confidentialledger
 config
@@ -1468,6 +1468,7 @@ crescendo
 crescendobuilt
 cresendo
 crestron
+crime
 crlf
 crm
 crm2016
@@ -1516,6 +1517,7 @@ currency
 currency-convereter
 currency-exchange
 currencyconverterapi
+current
 curseforge
 custom
 customchecks
@@ -2140,7 +2142,6 @@ envvar
 envvars
 eol
 eop
-eperl
 ephesoft
 epicor
 episode
@@ -2149,7 +2150,6 @@ eprosima
 epub
 epv
 equality
-erb
 erp
 error
 error-log
@@ -2696,7 +2696,6 @@ goldsource
 goldsource-dedicated-server
 google
 google-chrome
-google-histogram
 google-sankey
 google-table
 googleadsv2
@@ -2803,6 +2802,7 @@ hanaon
 handle
 handler
 hangouts
+hannelstoolbox
 hanwha
 har
 hard
@@ -2813,6 +2813,8 @@ hardening
 hardlink
 hardware
 harperdb
+harvest
+harvestforecast
 hash
 hashcat
 hashicorp
@@ -2827,6 +2829,7 @@ hba
 hbase
 hci
 hcl
+hcm
 hcx
 hdfs
 hdinsight
@@ -3320,7 +3323,6 @@ jsonplus
 jsonwebkey
 jsonwebsignature
 jsonwebtoken
-jsp
 jumbo
 jump
 jump-location
@@ -3426,7 +3428,6 @@ labsnippet
 labtech
 labtest
 labworker
-lake
 lambda
 lame
 lametrictime
@@ -3497,6 +3498,7 @@ licence
 license
 license-generator
 licenseautomation
+licensemanagement
 licensemanager
 licensereport
 licenses
@@ -3802,6 +3804,7 @@ meltdown
 mem
 member
 members
+membership
 memcm
 memory
 memorydump
@@ -4538,6 +4541,7 @@ passwordexpiration
 passwordexpiry
 passwordgeneration
 passwordgenerator
+passwordgenerators
 passwordhashing
 passwordlock
 passwordlockoutreport
@@ -4643,12 +4647,10 @@ pipelines
 pipescript
 piraeus
 pivot
-pivotal
 pivottable
 pixoo
 pki
 pki psmodule
-pks
 place
 places
 plain
@@ -4717,6 +4719,7 @@ pos
 posershellise
 posh
 posh-acme
+posh-cats
 posh-chocobear
 posh-direnv
 posh-git
@@ -4840,8 +4843,7 @@ preparead
 preparealldomains
 prepareschema
 prepend
-preprocessing
-preprocessor
+presentation
 presenter
 presto
 preston-k-parsard
@@ -5097,6 +5099,7 @@ psword
 pswriteword
 psyaml
 pszabbix
+pubg
 public
 public-key
 public-transport
@@ -5238,7 +5241,6 @@ rdcman
 rdcmanager
 rdfe
 rdg
-rdl
 rdm
 rdp
 rdpsession
@@ -5248,6 +5250,7 @@ rdsgw
 react-stockcharts
 read
 read-slog
+readable
 reader
 readiness
 readme
@@ -6051,6 +6054,7 @@ spdx-license-identifier:ms-pl
 spe
 speach
 speak
+speaker
 spec
 specification
 specify
@@ -6304,7 +6308,6 @@ swimlane
 swis
 switch
 sxs
-sybase
 sybaseiq
 symantec
 symbolic
@@ -6662,7 +6665,6 @@ tuner
 tutorial
 tv
 tweet
-twig
 twilio
 twincat
 twinkly
@@ -6998,6 +7000,7 @@ vmgroup
 vmhost
 vmhostgroup
 vmhostnetworkadapater
+vmmanagement
 vmnic
 vmrole
 vms
@@ -7172,6 +7175,7 @@ where
 whfb
 whiteboard
 whitespace
+whoami
 whois
 whormi
 wi-fi

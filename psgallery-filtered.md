@@ -3,6 +3,22 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [PSPublishModule](https://www.powershellgallery.com/Packages/PSPublishModule/2.0.2) | 2.0.2
+
+### Published: 08/06/2023 06:28:44 by Przemyslaw Klys
+
+Simple project allowing preparing, managing, building and publishing modules to PowerShellGallery
+
+__Downloads__: 1,382 | __Repository__: https://github.com/EvotecIT/PSPublishModule
+
+## [celin.ais.pwsh](https://www.powershellgallery.com/Packages/celin.ais.pwsh/1.0.3) | 1.0.3
+
+### Published: 08/06/2023 02:48:02 by Finnur Bragason
+
+Query and Script Module for Oracle E1/JDE AIS.
+
+__Downloads__: 406 | __Repository__: https://celin.io/ais.pwsh/
+
 ## [PoshToolbox](https://www.powershellgallery.com/Packages/PoshToolbox/4.1.0) | 4.1.0
 
 ### Published: 08/05/2023 22:20:55 by Anthony J. Raymond
@@ -58,14 +74,6 @@ __Downloads__: 0 | __Repository__:
 A small tool to identify and remediate common misconfigurations in Active Directory Certificate Services.
 
 __Downloads__: 1 | __Repository__: 
-
-## [BruhArmy](https://www.powershellgallery.com/Packages/BruhArmy/1.1.9) | 1.1.9
-
-### Published: 08/05/2023 10:34:19 by Evan Deters
-
-This module includes several commands that help with the deployment of virtual environments on vSphere.
-
-__Downloads__: 46 | __Repository__: https://github.com/evanjd711/bruharmy
 
 ## [Harden-Windows-Security-Module](https://www.powershellgallery.com/Packages/Harden-Windows-Security-Module/0.0.3) | 0.0.3
 
@@ -172,14 +180,6 @@ Various cmdlets for adminstrator level tasks in managing Azure VMware Solutions
 
 __Downloads__: 26,704 | __Repository__: https://github.com/Azure/Microsoft.AVS.Management
 
-## [PSPublishModule](https://www.powershellgallery.com/Packages/PSPublishModule/2.0.1) | 2.0.1
-
-### Published: 08/04/2023 17:24:19 by Przemyslaw Klys
-
-Simple project allowing preparing, managing, building and publishing modules to PowerShellGallery
-
-__Downloads__: 1,382 | __Repository__: https://github.com/EvotecIT/PSPublishModule
-
 ## [ChocoMan](https://www.powershellgallery.com/Packages/ChocoMan/0.11.0) | 0.11.0
 
 ### Published: 08/04/2023 17:03:36 by regg00
@@ -282,7 +282,7 @@ __Downloads__: 714 | __Repository__: https://github.com/codaamok/PSFront
 
 This PowerShell module contains cmdlets for managing SolarWinds Orion.
 
-__Downloads__: 468,603 | __Repository__: https://github.com/solarwinds/OrionSDK
+__Downloads__: 468,602 | __Repository__: https://github.com/solarwinds/OrionSDK
 
 ## [RobocopyPS](https://www.powershellgallery.com/Packages/RobocopyPS/0.2.20) | 0.2.20
 
@@ -290,7 +290,7 @@ __Downloads__: 468,603 | __Repository__: https://github.com/solarwinds/OrionSDK
 
 Wrapper for Robocopy
 
-__Downloads__: 5,981,325 | __Repository__: https://github.com/sbergwall/RobocopyPS
+__Downloads__: 5,981,362 | __Repository__: https://github.com/sbergwall/RobocopyPS
 
 ## [OfficeAndAzureTools](https://www.powershellgallery.com/Packages/OfficeAndAzureTools/9.10.10) | 9.10.10
 
@@ -370,7 +370,7 @@ __Downloads__: 71 | __Repository__: https://github.com/CLEAResult/it.devops.psm.
 
 The Devolutions.PowerShell module is a set of cmdlets that allow administrators to manage Remote Desktop Manager, Devolutions Server and Devolutions Hub Business using PowerShell. This module provides a simple and consistent interface for interacting with these products, making it easy to automate various tasks, such as creating and managing connections, sessions, and credentials, configuring security settings, and generating reports. The module can be easily integrated with other PowerShell modules, allowing administrators to automate tasks across multiple products and platforms, streamline their workflows and increase efficiency.
 
-__Downloads__: 4,035 | __Repository__: 
+__Downloads__: 4,036 | __Repository__: 
 
 ## [AutoMatePS](https://www.powershellgallery.com/Packages/AutoMatePS/5.2.0) | 5.2.0
 
@@ -402,7 +402,7 @@ __Downloads__: 31 | __Repository__: https://github.com/kevinblumenfeld/GraphTool
 
 Intersight Powershell module provides the cmdlets to manage, analyze, and automate the IT infrastructure in Intersight.
 
-__Downloads__: 3,326 | __Repository__: https://github.com/CiscoDevNet/intersight-powershell
+__Downloads__: 3,325 | __Repository__: https://github.com/CiscoDevNet/intersight-powershell
 
 ## [AzureHelper](https://www.powershellgallery.com/Packages/AzureHelper/1.0.50) | 1.0.50
 
@@ -419,14 +419,6 @@ __Downloads__: 2,118 | __Repository__:
 Common set of tools to interact with Symantec/Broadcom API for SEP Cloud
 
 __Downloads__: 34 | __Repository__: https://github.com/Douda/PSSymantecCloud
-
-## [celin.ais.pwsh](https://www.powershellgallery.com/Packages/celin.ais.pwsh/1.0.2) | 1.0.2
-
-### Published: 08/03/2023 09:26:14 by Finnur Bragason
-
-Query and Script Module for Oracle E1/JDE AIS.
-
-__Downloads__: 406 | __Repository__: https://celin.io/ais.pwsh/
 
 ## [d365fo.tools](https://www.powershellgallery.com/Packages/d365fo.tools/0.7.1) | 0.7.1
 
@@ -474,7 +466,7 @@ __Downloads__: 502 | __Repository__:
 
 Helper module for Active Directory with lots of useful functions that simplify supporting Active Directory.
 
-__Downloads__: 149,831 | __Repository__: https://github.com/EvotecIT/ADEssentials
+__Downloads__: 149,832 | __Repository__: https://github.com/EvotecIT/ADEssentials
 
 ## [DattoAPI](https://www.powershellgallery.com/Packages/DattoAPI/2.0.1) | 2.0.1
 
@@ -801,7 +793,7 @@ __Downloads__: 25,344 | __Repository__: https://github.com/AutomatedLab/Automate
 
 PowerShell functions to manage a JumpCloud Directory-as-a-Service
 
-__Downloads__: 5,836,769 | __Repository__: https://github.com/TheJumpCloud/support/wiki
+__Downloads__: 5,836,773 | __Repository__: https://github.com/TheJumpCloud/support/wiki
 
 ## [OCI.PSModules](https://www.powershellgallery.com/Packages/OCI.PSModules/64.0.0) | 64.0.0
 
@@ -1858,7 +1850,7 @@ __Downloads__: 1,008 | __Repository__:
 
 Master module for a collection of modules. These modules are varied in their tasks. The overall purpose of them being to provide a powerfull Toolset to improve IT Admin workflows.
 
-__Downloads__: 28,791 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox
+__Downloads__: 28,790 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox
 
 ## [AdminToolbox.FortiWizard](https://www.powershellgallery.com/Packages/AdminToolbox.FortiWizard/2.18.4) | 2.18.4
 
@@ -1946,7 +1938,7 @@ __Downloads__: 16,060 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions for management of endpoints
 
-__Downloads__: 16,679 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 16,680 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.ActiveDirectory](https://www.powershellgallery.com/Packages/AdminToolbox.ActiveDirectory/1.9.96) | 1.9.96
 
@@ -2018,7 +2010,7 @@ __Downloads__: 16,806 | __Repository__:
 
 This module provides an interface to the Hudu Rest API further information can be found at https://github.com/lwhitelock/HuduAPI
 
-__Downloads__: 545,927 | __Repository__: 
+__Downloads__: 545,925 | __Repository__: 
 
 ## [LSUClient](https://www.powershellgallery.com/Packages/LSUClient/1.6.0) | 1.6.0
 
@@ -2026,7 +2018,7 @@ __Downloads__: 545,927 | __Repository__:
 
 Orchestrate driver, BIOS/UEFI and firmware updates for Lenovo computers 👨‍💻
 
-__Downloads__: 15,145,947 | __Repository__: https://www.github.com/jantari/LSUClient
+__Downloads__: 15,146,079 | __Repository__: https://www.github.com/jantari/LSUClient
 
 ## [BitTitanManagement](https://www.powershellgallery.com/Packages/BitTitanManagement/0.0.134) | 0.0.134
 
@@ -2036,4 +2028,12 @@ Module for BitTitanPowerShell.
 
 __Downloads__: 8,965 | __Repository__: 
 
-*Updated: Sunday, 06 August 2023 02:04:40 UTC*
+## [GraphEssentials](https://www.powershellgallery.com/Packages/GraphEssentials/0.0.33) | 0.0.33
+
+### Published: 07/31/2023 15:57:49 by Przemyslaw Klys
+
+GraphEssentials is a PowerShell module that helps with Office 365 / Azure AD using mostly Graph
+
+__Downloads__: 188 | __Repository__: 
+
+*Updated: Sunday, 06 August 2023 09:52:33 UTC*
