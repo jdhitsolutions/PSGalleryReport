@@ -1,7 +1,9 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Saturday, 05 August 2023 17:52:50 UTC
+Updated: Sunday, 06 August 2023 02:04:53 UTC
 
+?:
+??
 .bat
 .env
 .net
@@ -235,6 +237,8 @@ aim
 aip
 aipscanner
 aircall
+airpower
+airpwr
 airtable
 ais
 aispeech
@@ -267,7 +271,6 @@ aliases
 aliens
 all
 alletra
-alloydb
 alm
 almrangers
 alpha
@@ -457,6 +460,7 @@ asm
 asn.1
 asn1
 asnbank
+asp
 asp.net
 aspnet
 aspnet_regiis
@@ -506,6 +510,7 @@ audits
 aumid
 aut
 auth0
+authenticate
 authentication
 authenticationcertificate
 authenticode
@@ -849,6 +854,7 @@ britannicaknowledgesystems
 british-gas
 brk4452
 broadcast
+broadcom
 broot
 brownserve-uk
 browser
@@ -937,14 +943,11 @@ carrier
 cartoon
 case
 cassandra
-cat
-cat-names
 catalog
 catalogs
 catalyst
 catapult
 catesta
-cats
 catty
 cavium
 cb
@@ -1141,6 +1144,7 @@ cloudbees
 cloudberry
 cloudblue
 cloudbolt
+cloudbridge
 cloudendure
 cloudevents
 cloudflare
@@ -1166,6 +1170,7 @@ cmaccounts
 cmake
 cmakepresets.json
 cmbuild
+cmclibnet
 cmclustermaintenance
 cmd
 cmdb
@@ -1244,6 +1249,7 @@ commandlets
 commandline
 commands
 commandsandresource
+commence
 comment
 comments
 commerce
@@ -1289,7 +1295,6 @@ conda
 condition
 conditionalaccess
 conduit
-conference
 confidentialclient
 confidentialledger
 config
@@ -1463,7 +1468,6 @@ crescendo
 crescendobuilt
 cresendo
 crestron
-crime
 crlf
 crm
 crm2016
@@ -1512,7 +1516,6 @@ currency
 currency-convereter
 currency-exchange
 currencyconverterapi
-current
 curseforge
 custom
 customchecks
@@ -2137,6 +2140,7 @@ envvar
 envvars
 eol
 eop
+eperl
 ephesoft
 epicor
 episode
@@ -2145,6 +2149,7 @@ eprosima
 epub
 epv
 equality
+erb
 erp
 error
 error-log
@@ -2180,6 +2185,7 @@ ethz
 etl
 etl2pcapng
 etrade
+ets
 etw
 eulanda
 evaluator
@@ -2797,7 +2803,6 @@ hanaon
 handle
 handler
 hangouts
-hannelstoolbox
 hanwha
 har
 hard
@@ -2808,8 +2813,6 @@ hardening
 hardlink
 hardware
 harperdb
-harvest
-harvestforecast
 hash
 hashcat
 hashicorp
@@ -2956,6 +2959,7 @@ hubspotcrm
 hubspotps
 hudson
 hue
+humanizer
 humanly
 humor
 humorous
@@ -3316,6 +3320,7 @@ jsonplus
 jsonwebkey
 jsonwebsignature
 jsonwebtoken
+jsp
 jumbo
 jump
 jump-location
@@ -3340,6 +3345,7 @@ karabiner-elements
 karma
 kaseya
 kaseyavsa
+kaspersky
 katakana
 kb
 kbarticle
@@ -3420,6 +3426,7 @@ labsnippet
 labtech
 labtest
 labworker
+lake
 lambda
 lame
 lametrictime
@@ -3663,6 +3670,7 @@ macosx
 macro
 macros
 madlib
+magazine
 magento
 magic8ball
 magicpacket
@@ -3759,6 +3767,7 @@ mc
 mcafee
 mcas
 mchapv2
+mct
 md5
 md5_v2-afbf3dae88c049d004174f2d610ee134
 md5sum
@@ -3793,7 +3802,6 @@ meltdown
 mem
 member
 members
-membership
 memcm
 memory
 memorydump
@@ -4227,6 +4235,7 @@ nuget-references
 nuget.exe
 nuget.org
 nugetpackageprovider
+null-coalescing
 number
 numlock
 nunit
@@ -4293,6 +4302,7 @@ office365
 officedev
 officegraph
 officemessageencryption
+officertool
 offline
 offlinewimservicing
 ofx
@@ -4383,6 +4393,7 @@ operationsmanagementsuite
 operationsmanagementsuiteagent
 operationvalidation
 operatoraccesscontrol
+operators
 opml
 ops
 opsi
@@ -4449,6 +4460,7 @@ outline
 outlook
 output
 output-to-image
+outreach
 outsystems
 overbite
 ovf
@@ -4466,6 +4478,7 @@ pac
 pack
 package
 package-management
+package-manager
 package-transform
 packagemanagement
 packagemanager
@@ -4525,7 +4538,6 @@ passwordexpiration
 passwordexpiry
 passwordgeneration
 passwordgenerator
-passwordgenerators
 passwordhashing
 passwordlock
 passwordlockoutreport
@@ -4558,6 +4570,7 @@ pci-dss
 pcloud
 pcsetup
 pcsv
+pdb
 pdf
 pdf-document-processor
 pdf-files
@@ -4704,13 +4717,13 @@ pos
 posershellise
 posh
 posh-acme
-posh-cats
 posh-chocobear
 posh-direnv
 posh-git
 posh-ribbon
 posh-ssh
 poshbot
+poshcommence
 poshevents
 poshgraph
 poshgraph-sdk
@@ -4747,6 +4760,7 @@ powercligoodies
 powerdex
 powerforensics
 powergraph
+powergui
 powermax
 powerplan
 powerplateform
@@ -4826,7 +4840,8 @@ preparead
 preparealldomains
 prepareschema
 prepend
-presentation
+preprocessing
+preprocessor
 presenter
 presto
 preston-k-parsard
@@ -5082,7 +5097,6 @@ psword
 pswriteword
 psyaml
 pszabbix
-pubg
 public
 public-key
 public-transport
@@ -5224,6 +5238,7 @@ rdcman
 rdcmanager
 rdfe
 rdg
+rdl
 rdm
 rdp
 rdpsession
@@ -5233,7 +5248,6 @@ rdsgw
 react-stockcharts
 read
 read-slog
-readable
 reader
 readiness
 readme
@@ -5420,7 +5434,11 @@ rexec
 rfc1305
 rfc1436
 rfc2030
+rfc3986
+rfc4007
 rfc4266
+rfc4291
+rfc5952
 rfc826
 rfc9116
 rg
@@ -5430,6 +5448,7 @@ ribcl
 rightjoin
 rights
 rightsizing
+rightsmanagement
 ripe
 risk
 riskiq
@@ -5761,6 +5780,7 @@ servicebus
 servicebusforwindowsserver
 servicecatalog
 serviceconnectionpoint
+servicecontrol
 servicedesk
 servicedeskplus
 serviceendpoints
@@ -6031,7 +6051,6 @@ spdx-license-identifier:ms-pl
 spe
 speach
 speak
-speaker
 spec
 specification
 specify
@@ -6062,11 +6081,13 @@ sport
 sports
 sports-tracker
 spotify
+spotify-api
 spotlight
 spotlightimages
 spp
 spread
 spreadsheet
+springcloud
 sql
 sql-database
 sql-script
@@ -6419,6 +6440,7 @@ template
 template-engine
 templates
 templating
+temporary
 tenable
 tenable.sc
 tenant
@@ -6426,10 +6448,12 @@ tenantmanagercontrolplane
 teradata
 termbin
 terminal
+terminal-interface
 terminal-services
 terminal.gui
 terminalvelocity
 termset
+ternary
 terraform
 terraformcloud
 terrafun
@@ -6606,9 +6630,11 @@ trevorsullivan
 triangle
 tribeloo
 trigger
+triodos
 tripunkt
 troubleshoot
 troubleshooting
+trouw
 truecrypt
 truenas
 truportal
@@ -6629,12 +6655,14 @@ tst1
 tst3
 ttrpg
 tts
+tubedownloader
 tui
 tulpep
 tuner
 tutorial
 tv
 tweet
+twig
 twilio
 twincat
 twinkly
@@ -6716,6 +6744,7 @@ ud-timeout
 ud-tool
 ud-toploader
 ud-trendline
+ud-typing
 ud-window
 ud-wordtree
 udcm
@@ -6732,6 +6761,7 @@ ui7
 uk
 ul
 ulid
+ultimatetool
 um
 uml
 umn
@@ -6968,7 +6998,6 @@ vmgroup
 vmhost
 vmhostgroup
 vmhostnetworkadapater
-vmmanagement
 vmnic
 vmrole
 vms
@@ -6999,6 +7028,7 @@ volume
 volumeshadowcopy
 volumio
 vorbis
+vovin
 vpas
 vpasmodule
 vpc
@@ -7048,6 +7078,7 @@ w32time
 w365
 w3svc
 w3w
+waa
 waas
 wac
 waf
@@ -7141,7 +7172,6 @@ where
 whfb
 whiteboard
 whitespace
-whoami
 whois
 whormi
 wi-fi
@@ -7208,6 +7238,7 @@ windowsinstaller
 windowsinternaldatabase
 windowsinternals
 windowsiotservices
+windowsiso
 windowsmanagementframework
 windowspackagemanager
 windowsplugins
@@ -7279,6 +7310,7 @@ workbook
 workday
 worker
 workflow
+workflowmax
 workflows
 workingdays
 workinghours
