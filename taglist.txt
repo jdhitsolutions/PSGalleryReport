@@ -1,11 +1,10 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Sunday, 06 August 2023 17:53:22 UTC
+Updated: Monday, 07 August 2023 02:11:14 UTC
 
 .bat
 .env
 .net
-.prom
 .ps1xml
 'azure'
 'blob storage'
@@ -238,6 +237,7 @@ aircall
 airpower
 airpwr
 airtable
+ais
 aispeech
 aivision
 ajustee
@@ -941,11 +941,14 @@ carrier
 cartoon
 case
 cassandra
+cat
+cat-names
 catalog
 catalogs
 catalyst
 catapult
 catesta
+cats
 catty
 cavium
 cb
@@ -1002,7 +1005,6 @@ cf
 cfn
 ch9
 change
-changeanalysis
 changelog
 channel
 channel9
@@ -1186,6 +1188,7 @@ cmsiteconfig
 cmsmessage
 cmtrace
 cmwt
+cns
 coa
 cockroachdb
 codaamok
@@ -1386,8 +1389,6 @@ converttomarkdown
 converttomd
 cookie
 coolq
-cooltag1
-cooltag2
 coordinates
 copilot
 copy
@@ -1486,6 +1487,7 @@ cryptocompare
 cryptocurrency
 cryptography
 cs137
+csc
 csharp
 csharp-watch
 csom
@@ -1517,6 +1519,7 @@ currencyconverterapi
 current
 curseforge
 custom
+customchecks
 customdns
 customer
 customerengagement
@@ -1565,6 +1568,7 @@ dacpac
 dacpackage
 dagger
 dangling
+dapr
 dark
 darwin
 dash
@@ -1604,6 +1608,7 @@ dataflow
 dataflowdependency
 datagateway
 dataintegration
+datakwaliteit
 datalabelingservice
 datalabelingservicedataplane
 datalake
@@ -1671,6 +1676,7 @@ decompiler
 decrypt
 decryption
 dedicatedhsm
+deduplication
 deep
 deep-security
 deep-security-manager
@@ -1891,8 +1897,6 @@ docusign
 docx
 dod
 dog
-dog-names
-dogs
 dogstatsd
 dok
 dokuwiki
@@ -1991,6 +1995,7 @@ dupes
 duplicate
 duplicate-files
 duplicatioin
+duplication
 durable
 durabletask
 dust
@@ -2019,6 +2024,7 @@ dynatrace
 dynatraceobservability
 dz
 e-mail
+e1
 easy
 easy-to-use
 easylife365
@@ -2046,6 +2052,7 @@ education
 educational
 effectiveroutes
 efi
+eigencontroles
 einstein
 eklient psedition_core psedition_desktop
 elastic
@@ -2080,6 +2087,7 @@ emergency
 emissions
 emoji
 emotion
+empire
 empty
 emwarehouse
 enable
@@ -2357,6 +2365,7 @@ file-monitoring
 file-name
 file-name-extension
 file-name-extension-association
+file-server
 file-share
 file-system
 file-transform
@@ -2518,6 +2527,7 @@ front
 frontapp
 frontdoor
 frontrange
+fs
 fsf
 fsharp
 fslogix
@@ -2542,6 +2552,7 @@ functions
 funds
 funny
 fusion
+fusionapps
 fuzzy
 fyi
 fzf
@@ -2852,6 +2863,7 @@ helper-functions
 helperfunctions
 helpers
 helpfile
+heml
 here
 hewlett
 hewlett-packard
@@ -3062,7 +3074,6 @@ imei
 imi
 impala
 impersonation
-imperva
 import
 import-csv
 import-dtdriverpackpackagedefinitionsms
@@ -3273,6 +3284,7 @@ javascript
 javaversion
 jboss
 jdbc
+jde
 jdedwards
 jdt
 jea
@@ -3333,8 +3345,6 @@ kaminario
 karabiner
 karabiner-elements
 karma
-kaseya
-kaseyavsa
 kaspersky
 katakana
 kb
@@ -3352,6 +3362,7 @@ kernel32
 kestrel
 key
 key-vault
+key2wocas
 keybase
 keybinding
 keyboard
@@ -3372,6 +3383,7 @@ kill
 kindle
 kinetic
 kintone
+klantcontroles
 kms
 knapsack
 knetps
@@ -3387,6 +3399,7 @@ kraken
 krbtgt
 krick
 kschemaplugin
+kubclt
 kubectl
 kubectx
 kubens
@@ -3826,6 +3839,7 @@ mi
 micro-orm
 microfocus
 microk8s
+microservices
 microsoft
 microsoft_365
 microsoft_azure
@@ -4051,7 +4065,6 @@ n-central
 nac
 nagios
 name
-name-of-dogs
 namedpipe
 nameit
 nameresolution
@@ -4704,6 +4717,7 @@ pos
 posershellise
 posh
 posh-acme
+posh-cats
 posh-chocobear
 posh-direnv
 posh-git
@@ -5036,7 +5050,6 @@ psnavigation
 psnexosisclient
 psngenposh
 psobject
-psoutlog
 pspath
 pspersonio
 pspowerhour
@@ -5688,7 +5701,6 @@ securegopher+
 securemfa
 securerdp
 securescore
-securesphere
 securestring
 security
 security-awareness-training
@@ -5725,6 +5737,7 @@ self-hosted
 self-service
 self-signed
 selfdispatch
+selfhelp
 selfsigned
 semantic
 semantic-versioning
@@ -5799,6 +5812,7 @@ set-dnsservers
 set-githubsecrets
 set-location
 set-openfiles
+set-ownership
 set-pass
 set-psbreakpoint
 set-psenv
@@ -6372,6 +6386,7 @@ tagging
 tags
 tak
 taken
+takeown
 tally
 talxis
 tanss
@@ -6536,6 +6551,7 @@ tlsprotocol
 to-do
 toast
 toasts
+tobias
 toc
 todo
 todo.txt
@@ -6722,12 +6738,12 @@ ud-singleselect
 ud-slider
 ud-speechbubble
 ud-step
+ud-stepbar
 ud-stickynavbar
 ud-tagcloud
 ud-timeline
 ud-timeout
 ud-tool
-ud-toploader
 ud-trendline
 ud-typing
 ud-window
@@ -7034,7 +7050,6 @@ vrsns
 vrtu
 vs
 vs-shell
-vsa
 vsan
 vsan+
 vscode
