@@ -1,10 +1,11 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 07 August 2023 02:11:14 UTC
+Updated: Monday, 07 August 2023 09:53:24 UTC
 
 .bat
 .env
 .net
+.prom
 .ps1xml
 'azure'
 'blob storage'
@@ -268,7 +269,6 @@ aliases
 aliens
 all
 alletra
-alloydb
 alm
 almrangers
 alpha
@@ -999,12 +999,12 @@ certificatepolicy
 certificates
 certificateservices
 certificatesmanagement
-certinia
 certutil
 cf
 cfn
 ch9
 change
+changeanalysis
 changelog
 channel
 channel9
@@ -1389,6 +1389,8 @@ converttomarkdown
 converttomd
 cookie
 coolq
+cooltag1
+cooltag2
 coordinates
 copilot
 copy
@@ -1568,7 +1570,6 @@ dacpac
 dacpackage
 dagger
 dangling
-dapr
 dark
 darwin
 dash
@@ -1897,6 +1898,8 @@ docusign
 docx
 dod
 dog
+dog-names
+dogs
 dogstatsd
 dok
 dokuwiki
@@ -2257,7 +2260,6 @@ exif
 exiftool
 exists
 exitcode
-exitprocessrequest
 exo
 exov2
 exov3
@@ -2863,7 +2865,6 @@ helper-functions
 helperfunctions
 helpers
 helpfile
-heml
 here
 hewlett
 hewlett-packard
@@ -3074,6 +3075,7 @@ imei
 imi
 impala
 impersonation
+imperva
 import
 import-csv
 import-dtdriverpackpackagedefinitionsms
@@ -3345,6 +3347,8 @@ kaminario
 karabiner
 karabiner-elements
 karma
+kaseya
+kaseyavsa
 kaspersky
 katakana
 kb
@@ -3399,7 +3403,6 @@ kraken
 krbtgt
 krick
 kschemaplugin
-kubclt
 kubectl
 kubectx
 kubens
@@ -3421,7 +3424,6 @@ labels
 lability
 labnotifications
 labrecipe
-labservices
 labsnippet
 labtech
 labtest
@@ -3839,7 +3841,6 @@ mi
 micro-orm
 microfocus
 microk8s
-microservices
 microsoft
 microsoft_365
 microsoft_azure
@@ -4065,6 +4066,7 @@ n-central
 nac
 nagios
 name
+name-of-dogs
 namedpipe
 nameit
 nameresolution
@@ -5050,6 +5052,7 @@ psnavigation
 psnexosisclient
 psngenposh
 psobject
+psoutlog
 pspath
 pspersonio
 pspowerhour
@@ -5449,7 +5452,6 @@ rhapsody
 ribbon
 ribcl
 rightjoin
-rights
 rightsizing
 rightsmanagement
 ripe
@@ -5701,6 +5703,7 @@ securegopher+
 securemfa
 securerdp
 securescore
+securesphere
 securestring
 security
 security-awareness-training
@@ -6744,6 +6747,7 @@ ud-tagcloud
 ud-timeline
 ud-timeout
 ud-tool
+ud-toploader
 ud-trendline
 ud-typing
 ud-window
@@ -7050,6 +7054,7 @@ vrsns
 vrtu
 vs
 vs-shell
+vsa
 vsan
 vsan+
 vscode
@@ -7377,6 +7382,7 @@ wug
 wunderlist
 wvd
 www
+x-cart
 x.509
 x1
 x2
