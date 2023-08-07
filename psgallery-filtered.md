@@ -3,21 +3,53 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
-## [BruhArmy](https://www.powershellgallery.com/Packages/BruhArmy/1.2.4) | 1.2.4
+## [LibSnitcher](https://www.powershellgallery.com/Packages/LibSnitcher/1.0.2) | 1.0.2
 
-### Published: 08/07/2023 09:39:48 by Evan Deters
+### Published: 08/07/2023 16:43:45 by Francisco Nabas
 
-This module includes several commands that help with the deployment of virtual environments on vSphere.
+This module contains tools to manage module dependencies.
 
-__Downloads__: 47 | __Repository__: https://github.com/evanjd711/bruharmy
+__Downloads__: 0 | __Repository__: https://github.com/FranciscoNabas/LibSnitcher
 
-## [PPDM-pwsh](https://www.powershellgallery.com/Packages/PPDM-pwsh/19.14.20.50) | 19.14.20.50
+## [PSQuizMaster](https://www.powershellgallery.com/Packages/PSQuizMaster/1.0.0) | 1.0.0
 
-### Published: 08/07/2023 09:38:14 by karsten.bott@dell.com
+### Published: 08/07/2023 14:48:43 by Jeff Hicks
+
+A module for running and creating quizzes to learn PowerShell. Quizzes are stored as JSON files.
+
+__Downloads__: 0 | __Repository__: https://github.com/jdhitsolutions/PSQuizMaster
+
+## [PPDM-pwsh](https://www.powershellgallery.com/Packages/PPDM-pwsh/19.14.20.52) | 19.14.20.52
+
+### Published: 08/07/2023 13:18:01 by karsten.bott@dell.com
 
 Powershell Module to interact with the PowerProdect Data Manager (PPDM) API
 
 __Downloads__: 3,298 | __Repository__: https://github.com/bottkars/PPDM-pwsh
+
+## [KeDo_AZTableAPI](https://www.powershellgallery.com/Packages/KeDo_AZTableAPI/3.2.1) | 3.2.1
+
+### Published: 08/07/2023 12:46:34 by Ken Dobrunz
+
+AZ Table API commands
+
+__Downloads__: 294 | __Repository__: 
+
+## [Az.Avd](https://www.powershellgallery.com/Packages/Az.Avd/3.1.0) | 3.1.0
+
+### Published: 08/07/2023 11:55:00 by Sander Rozemuller
+
+For managing and automate Azure Virtual Desktop environments. This module can also be used for housekeeping and manageing all the AVD related Azure resources.
+
+__Downloads__: 7,465 | __Repository__: https://github.com/srozemuller/AzAvd
+
+## [BruhArmy](https://www.powershellgallery.com/Packages/BruhArmy/1.2.6) | 1.2.6
+
+### Published: 08/07/2023 09:50:09 by Evan Deters
+
+This module includes several commands that help with the deployment of virtual environments on vSphere.
+
+__Downloads__: 47 | __Repository__: https://github.com/evanjd711/bruharmy
 
 ## [TrustyTools](https://www.powershellgallery.com/Packages/TrustyTools/0.0.1) | 0.0.1
 
@@ -41,7 +73,7 @@ __Downloads__: 4,377,702 | __Repository__: https://www.red-gate.com/sca/productp
 
 Provides access to credentials in the Windows Credential Manager (continuation of CredentialManager by Dave Garnar)
 
-__Downloads__: 8,408 | __Repository__: https://github.com/echalone/PowerShell_Credential_Manager
+__Downloads__: 8,534 | __Repository__: https://github.com/echalone/PowerShell_Credential_Manager
 
 ## [celin.ais.pwsh](https://www.powershellgallery.com/Packages/celin.ais.pwsh/1.0.4) | 1.0.4
 
@@ -111,7 +143,7 @@ __Downloads__: 44 | __Repository__:
 
 Powershell module for creating and extracting 7-Zip archives
 
-__Downloads__: 11,349,105 | __Repository__: https://github.com/thoemmi/7Zip4Powershell
+__Downloads__: 11,345,650 | __Repository__: https://github.com/thoemmi/7Zip4Powershell
 
 ## [Nutstone.Devops](https://www.powershellgallery.com/Packages/Nutstone.Devops/1.0.6) | 1.0.6
 
@@ -119,7 +151,7 @@ __Downloads__: 11,349,105 | __Repository__: https://github.com/thoemmi/7Zip4Powe
 
 Provides Methods to interact with Azure devops (Repositories/pipelines) and local GIT/Nuget (have to be installed separately)
 
-__Downloads__: 35 | __Repository__: 
+__Downloads__: 33 | __Repository__: 
 
 ## [QuickFix](https://www.powershellgallery.com/Packages/QuickFix/0.2.1) | 0.2.1
 
@@ -177,14 +209,6 @@ Drm Template Tools allow you to generate and deploy configuration templates to y
 
 __Downloads__: 548 | __Repository__: https://docs.drmtemplates.io/
 
-## [KeDo_AZTableAPI](https://www.powershellgallery.com/Packages/KeDo_AZTableAPI/3.2.0) | 3.2.0
-
-### Published: 08/05/2023 17:01:25 by Ken Dobrunz
-
-AZ Table API commands
-
-__Downloads__: 294 | __Repository__: 
-
 ## [F7History](https://www.powershellgallery.com/Packages/F7History/1.2.0) | 1.2.0
 
 ### Published: 08/05/2023 16:53:24 by Tig Kindel
@@ -235,7 +259,7 @@ __Downloads__: 6 | __Repository__:
 
 💎 If you have any questions, requests, suggestions etc. about this module, please open a new Discussion or Issue on GitHub
 
-__Downloads__: 137 | __Repository__: https://github.com/HotCakeX/Harden-Windows-Security
+__Downloads__: 139 | __Repository__: https://github.com/HotCakeX/Harden-Windows-Security
 
 ## [PAF](https://www.powershellgallery.com/Packages/PAF/0.2.4) | 0.2.4
 
@@ -251,7 +275,7 @@ __Downloads__: 30 | __Repository__: https://github.com/voytas75/PowershellFramew
 
 Mailozaurr is a PowerShell module that aims to provide SMTP, POP3, IMAP and few other ways to interact with Email. Underneath it uses MimeKit and MailKit and EmailValidation libraries written by Jeffrey Stedfast.
 
-__Downloads__: 864,199 | __Repository__: https://github.com/EvotecIT/MailoZaurr
+__Downloads__: 864,196 | __Repository__: https://github.com/EvotecIT/MailoZaurr
 
 ## [CoreePower.Lib](https://www.powershellgallery.com/Packages/CoreePower.Lib/0.0.2.4) | 0.0.2.4
 
@@ -312,7 +336,7 @@ __Downloads__: 64 | __Repository__: https://github.com/petervandivier/PsGitHubOr
 
 Tools To Help With MEP Related Development Tasks
 
-__Downloads__: 5 | __Repository__: 
+__Downloads__: 4 | __Repository__: 
 
 ## [Microsoft.AVS.Management](https://www.powershellgallery.com/Packages/Microsoft.AVS.Management/5.3.88) | 5.3.88
 
@@ -393,14 +417,6 @@ __Downloads__: 4 | __Repository__: https://github.com/ahuca/TcPrjMgmt/tree/main
 Provides autocompletion for gitmoji
 
 __Downloads__: 830 | __Repository__: https://github.com/krokofant/posh-gitmoji
-
-## [PS-Generate-Thumbnails](https://www.powershellgallery.com/Packages/PS-Generate-Thumbnails/2.0) | 2.0
-
-### Published: 08/04/2023 10:26:30 by Krokofant
-
-Generate thumbnails using mtn
-
-__Downloads__: 50 | __Repository__: 
 
 ## [PSFront](https://www.powershellgallery.com/Packages/PSFront/0.3.1) | 0.3.1
 
@@ -504,7 +520,7 @@ __Downloads__: 71 | __Repository__: https://github.com/CLEAResult/it.devops.psm.
 
 The Devolutions.PowerShell module is a set of cmdlets that allow administrators to manage Remote Desktop Manager, Devolutions Server and Devolutions Hub Business using PowerShell. This module provides a simple and consistent interface for interacting with these products, making it easy to automate various tasks, such as creating and managing connections, sessions, and credentials, configuring security settings, and generating reports. The module can be easily integrated with other PowerShell modules, allowing administrators to automate tasks across multiple products and platforms, streamline their workflows and increase efficiency.
 
-__Downloads__: 4,046 | __Repository__: 
+__Downloads__: 4,047 | __Repository__: 
 
 ## [AutoMatePS](https://www.powershellgallery.com/Packages/AutoMatePS/5.2.0) | 5.2.0
 
@@ -560,7 +576,7 @@ __Downloads__: 34 | __Repository__: https://github.com/Douda/PSSymantecCloud
 
 A set of tools that will assist you when working with Dynamics 365 Finance & Operations development / demo machines.
 
-__Downloads__: 167,398 | __Repository__: https://github.com/d365collaborative/d365fo.tools
+__Downloads__: 167,345 | __Repository__: https://github.com/d365collaborative/d365fo.tools
 
 ## [RiverMeadow.Development.Migrate](https://www.powershellgallery.com/Packages/RiverMeadow.Development.Migrate/1.0.116.279) | 1.0.116.279
 
@@ -656,7 +672,7 @@ __Downloads__: 612 | __Repository__: https://github.com/skywayskase/PSSmartsheet
 
 Modern Active Directory is a PowerShell Module to allows you to have a global management of your AD, and make searches safely from an interctif web interface.
 
-__Downloads__: 9,666 | __Repository__: https://github.com/dakhama-mehdi/Modern_ActiveDirectory
+__Downloads__: 9,665 | __Repository__: https://github.com/dakhama-mehdi/Modern_ActiveDirectory
 
 ## [GitlabCli](https://www.powershellgallery.com/Packages/GitlabCli/1.98.0) | 1.98.0
 
@@ -680,7 +696,7 @@ __Downloads__: 85 | __Repository__: https://github.com/StartAutomating/ShowDemo
 
 ProjectWise PowerShell Cmdlets from System Architecture Group
 
-__Downloads__: 75,929 | __Repository__: 
+__Downloads__: 75,936 | __Repository__: 
 
 ## [DeeplTranslate](https://www.powershellgallery.com/Packages/DeeplTranslate/1.4.0) | 1.4.0
 
@@ -777,7 +793,7 @@ Other features include:
 - Getting changelog contents (parsed into a PowerShell object) via Get-ChangelogData
 - Converting changelogs into other formats via ConvertFrom-Changelog
 
-__Downloads__: 52,814 | __Repository__: https://github.com/natescherer/ChangelogManagement
+__Downloads__: 52,815 | __Repository__: https://github.com/natescherer/ChangelogManagement
 
 ## [MASES.KNetPS](https://www.powershellgallery.com/Packages/MASES.KNetPS/2.0.2) | 2.0.2
 
@@ -1386,14 +1402,6 @@ This modules provides Cmdlets for OCI Logging Service
 
 __Downloads__: 3,580 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-## [OCI.PSModules.Loganalytics](https://www.powershellgallery.com/Packages/OCI.PSModules.Loganalytics/64.0.0) | 64.0.0
-
-### Published: 08/01/2023 16:54:32 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Loganalytics Service
-
-__Downloads__: 3,965 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
 ## [OCI.PSModules.Lockbox](https://www.powershellgallery.com/Packages/OCI.PSModules.Lockbox/64.0.0) | 64.0.0
 
 ### Published: 08/01/2023 16:54:25 by Oracle Cloud Infrastructure
@@ -1600,7 +1608,7 @@ __Downloads__: 2,688 | __Repository__: https://github.com/oracle/oci-powershell-
 
 This modules provides Cmdlets for OCI Datascience Service
 
-__Downloads__: 4,330 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+__Downloads__: 4,329 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
 ## [OCI.PSModules.Datasafe](https://www.powershellgallery.com/Packages/OCI.PSModules.Datasafe/64.0.0) | 64.0.0
 
@@ -1960,7 +1968,7 @@ __Downloads__: 485 | __Repository__: https://github.com/oracle/oci-powershell-mo
 
 OCI Common module exports Cmdlets that manages features offered by OCI Modules for Powershell like History Store, OCI Configuration file setup and Per-Session Region/Config/Profile preferences. Common module also contains some functionalties that are common to all OCI Service modules, therefore all OCI Service modules depends on Common module.
 
-__Downloads__: 70,724 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+__Downloads__: 70,735 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
 ## [NerdioManagerPowerShell](https://www.powershellgallery.com/Packages/NerdioManagerPowerShell/0.4.2) | 0.4.2
 
@@ -2032,7 +2040,7 @@ __Downloads__: 24,091 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Microsoft Graph interactive API Functions
 
-__Downloads__: 4,884 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 4,879 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.Fun](https://www.powershellgallery.com/Packages/AdminToolbox.Fun/1.6.99) | 1.6.99
 
@@ -2050,12 +2058,4 @@ File Management Functions
 
 __Downloads__: 15,151 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
-## [AdminToolbox.FFTools](https://www.powershellgallery.com/Packages/AdminToolbox.FFTools/4.16.48) | 4.16.48
-
-### Published: 08/01/2023 14:15:50 by Taylor Lee
-
-Expedite simple ffmpeg actions
-
-__Downloads__: 15,062 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-*Updated: Monday, 07 August 2023 09:53:09 UTC*
+*Updated: Monday, 07 August 2023 17:53:17 UTC*
