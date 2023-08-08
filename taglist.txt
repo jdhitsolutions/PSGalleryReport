@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Tuesday, 08 August 2023 09:53:09 UTC
+Updated: Tuesday, 08 August 2023 17:54:03 UTC
 
 .bat
 .env
@@ -120,7 +120,6 @@ activedirectoryfederationservices
 activedirectry-html
 activeefficiency
 activeresponse
-activesession
 activiti
 activity
 activitycount
@@ -552,6 +551,7 @@ autounattend
 autoupdate
 autoupdate-script
 autoyast
+availability
 availabilityset
 avalara
 avalonia
@@ -690,7 +690,6 @@ backup_validation
 bamboo
 bamboohr
 bandwidth
-bank
 banking
 banner
 bar
@@ -1206,6 +1205,7 @@ codegen
 codegeneration
 codegenerator
 codepoint
+codereview
 codes
 codesign
 codesigning
@@ -1511,7 +1511,6 @@ culture
 cumulative
 cumulativeupdate
 cumulocity
-curious
 curl
 curlie
 currency
@@ -1570,6 +1569,7 @@ dacpac
 dacpackage
 dagger
 dangling
+dapr
 dark
 darwin
 dash
@@ -1639,6 +1639,7 @@ datetime
 datto
 dattormm
 datum
+dave
 davinci
 dax
 dayinweek
@@ -1962,6 +1963,7 @@ drush
 dry
 ds
 ds-client
+ds-utils
 dsa
 dsacls
 dsc
@@ -1979,6 +1981,7 @@ dsl
 dsm
 dsreg
 dsregcmd
+dsutils
 dtc
 dts
 dtsx
@@ -2245,6 +2248,7 @@ exchangeonlineprotection
 exchangeonprem
 exchangeserver
 exchangewebservices
+exclusion
 excuse
 exe
 exec
@@ -2676,6 +2680,7 @@ gitlab4
 gitlabpipeline
 gitops
 glob
+globalclipboard
 globaldashboard
 globalentry
 globbing
@@ -2861,6 +2866,7 @@ helper-functions
 helperfunctions
 helpers
 helpfile
+heml
 here
 hewlett
 hewlett-packard
@@ -2924,6 +2930,7 @@ hotkeys
 howto
 hp
 hpc
+hpcc
 hpccache
 hpe
 hpealletra6000andnimblestoragepowershelltoolkit
@@ -3116,6 +3123,7 @@ initiator
 inline-progress
 inlineprogress
 innerjoin
+innertext
 input
 inputbox
 inputobject
@@ -3155,7 +3163,6 @@ integrationruntimedependency
 integrationservicescatalog
 integrity
 intel
-inteligo
 intelligence
 intelligence"
 intellisearch
@@ -3278,6 +3285,7 @@ java
 javamanager
 javascript
 javaversion
+jboss
 jdbc
 jde
 jdedwards
@@ -3397,6 +3405,7 @@ kraken
 krbtgt
 krick
 kschemaplugin
+kubclt
 kube
 kubectl
 kubectx
@@ -3424,7 +3433,6 @@ labsnippet
 labtech
 labtest
 labworker
-lake
 lambda
 lame
 lametrictime
@@ -3776,7 +3784,6 @@ mdb
 mdbc
 mde
 mdm
-mdop
 mdt
 mdx
 me4024
@@ -3837,6 +3844,7 @@ mi
 micro-orm
 microfocus
 microk8s
+microservices
 microsoft
 microsoft_365
 microsoft_azure
@@ -3906,6 +3914,7 @@ mittelschule
 mixedreality
 mixer
 mkdocs
+mkpasswd
 ml
 mlflow
 mmdc
@@ -3932,6 +3941,7 @@ monaco
 monday
 mondoo
 money
+moneyforward
 mongo
 mongodb
 monitor
@@ -4451,6 +4461,7 @@ out-default
 out-gridview
 out-json
 outerjoin
+outertext
 outline
 outlook
 output
@@ -4524,6 +4535,7 @@ passcode
 passivetotal
 passphrase
 passphraser passphrase password generator entropy
+passwd
 password
 password_generation
 password-generator
@@ -4545,7 +4557,6 @@ passwordspray
 passwordstate
 passwordtool
 passwordvault
-passwordwolf
 paste
 patch
 patches
@@ -5073,6 +5084,7 @@ psscriptsmonitoring
 pssendgrid
 pssession
 pssharper
+psslack
 pssqlite
 pssqlitebynarymodule
 pssqlitemodule
@@ -5152,7 +5164,9 @@ qemu
 qlgc_fc_powerkit
 qlik
 qlik-api
+qlik-sense
 qlik-view
+qliksesne
 qlikview
 qlikview-cli
 qlogic
@@ -5166,6 +5180,7 @@ qr
 qrcode
 qrcodes
 qrp
+qrs
 quality
 qualys
 quandl
@@ -5237,7 +5252,6 @@ rdg
 rdl
 rdm
 rdp
-rdpsession
 rdpsign
 rds
 rdsgw
@@ -5344,9 +5358,7 @@ remotedesktopservices
 remotefiles
 remoteforensics
 remotehost
-remotelogoff
 remotemanagement
-remotesession
 remoting
 remove
 remove-githubsecrets
@@ -5431,7 +5443,11 @@ rexec
 rfc1305
 rfc1436
 rfc2030
+rfc3986
+rfc4007
 rfc4266
+rfc4291
+rfc5952
 rfc826
 rfc9116
 rg
@@ -5828,7 +5844,13 @@ sftp
 sfx
 sgopher
 sgw
+sha-256
+sha-512
+sha-crypt
 sha256
+sha256crypt
+sha512crypt
+shacrypt
 shadow
 shadowcopy
 shadowcopybackups
@@ -5926,6 +5948,7 @@ skyapi
 skype
 skype_for_business
 skype4b
+skype4business
 skypeforbusiness
 skypeforbusinessonline
 skypeonline
@@ -6279,6 +6302,7 @@ support-tool
 support-tools
 suppress
 supress-reboot
+surround
 survey
 surveymonkey
 sushi
@@ -6808,6 +6832,7 @@ uplift
 uplink
 upn
 ups
+upsource
 upstream
 uptime
 uptimerobot
@@ -6877,6 +6902,7 @@ validator
 value
 valve
 vami
+vao
 variable
 variables
 variance
@@ -6940,6 +6966,7 @@ viewer
 viewgroup
 vigenere
 vim
+vimode
 virole
 virsh
 virtual
@@ -7173,6 +7200,7 @@ wif
 wifi
 wiki
 wildcard
+wildfly
 wim
 wim2vhd
 win
@@ -7255,6 +7283,7 @@ winform
 winforms
 winget
 wingetbridge
+winrar
 winrm
 winrs
 winrt
