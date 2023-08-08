@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 07 August 2023 17:53:31 UTC
+Updated: Tuesday, 08 August 2023 02:09:52 UTC
 
 .bat
 .env
@@ -263,6 +263,8 @@ alfresco
 algorithm
 algorithms
 alias
+alias-hint
+alias-tips
 aliases
 aliens
 all
@@ -1898,6 +1900,8 @@ docusign
 docx
 dod
 dog
+dog-names
+dogs
 dogstatsd
 dok
 dokuwiki
@@ -2002,6 +2006,7 @@ durabletask
 dust
 dutch
 dvls
+dxexpeditions
 dynamic
 dynamic-host-configuration-protocol
 dynamicdistributiongroups
@@ -2308,8 +2313,6 @@ f
 f#
 f5
 facebook
-factoryorchestrator
-factoryorchestratorclient
 facts
 faf
 failedlogin
@@ -3022,6 +3025,7 @@ identity-management
 identitydataplane
 identitydirector
 identitydomains
+identitynow
 idf
 idm
 idna
@@ -3216,7 +3220,6 @@ ipa
 ipaddress
 ipam
 ipbroadcast
-ipc
 ipcalc
 ipcalculator
 iperf
@@ -3282,6 +3285,7 @@ java
 javamanager
 javascript
 javaversion
+jboss
 jdbc
 jde
 jdedwards
@@ -3329,6 +3333,7 @@ jumpcloud
 jumpstart
 junction
 junctions
+junit
 jupyter
 jupytor
 justenoughadministration
@@ -3338,6 +3343,7 @@ jws
 jwt
 jwttoken
 k8s
+k8sshell
 kafka
 kaminario
 karabiner
@@ -3400,6 +3406,7 @@ krbtgt
 krick
 kschemaplugin
 kubclt
+kube
 kubectl
 kubectx
 kubens
@@ -3426,6 +3433,7 @@ labsnippet
 labtech
 labtest
 labworker
+lake
 lambda
 lame
 lametrictime
@@ -3709,7 +3717,6 @@ managedservices
 manageengine
 management
 managementagent
-managementdashboard
 managementgroups
 managementpoint
 manager
@@ -3842,6 +3849,7 @@ microservices
 microsoft
 microsoft_365
 microsoft_azure
+microsoft_endpoint_manager
 microsoft_online
 microsoft_teams
 microsoft-graph
@@ -4003,6 +4011,7 @@ msonlineext
 msp
 msp360
 mspbackups
+msproject
 msrc
 msrdc
 mssql
@@ -4061,6 +4070,7 @@ n-central
 nac
 nagios
 name
+name-of-dogs
 namedpipe
 nameit
 nameresolution
@@ -4078,7 +4088,6 @@ natural-language-to-code
 natural-selection
 nav
 navigation
-nbi
 ncal
 ndes
 nebulon
@@ -4639,10 +4648,12 @@ pipelines
 pipescript
 piraeus
 pivot
+pivotal
 pivottable
 pixoo
 pki
 pki psmodule
+pks
 place
 places
 plain
@@ -5012,6 +5023,7 @@ psgallery
 psget
 psgitlab
 psgraph
+psgraylog
 pshot
 pshtml
 psincludes_cmdlet
@@ -5043,6 +5055,7 @@ psnavigation
 psnexosisclient
 psngenposh
 psobject
+psoutlog
 pspath
 pspersonio
 pspowerhour
@@ -5541,6 +5554,7 @@ safe
 safeguard
 sage
 saggiehaim
+sailpoint
 sale
 sales
 salesforce
@@ -6402,7 +6416,6 @@ tcp
 tcp/ip
 tcpip
 tcpport
-tcprjmgmt
 tcpserver
 tcptest
 tcx
@@ -6472,7 +6485,6 @@ testing
 testlab
 testplans
 tests
-testsuite
 testtag1
 testtag2
 testtool
@@ -6670,7 +6682,6 @@ twitter-client
 twitter-follow
 twitter-hashtag
 twitter-mention
-twitter-share
 twitter-timeline
 twitter-tweet
 txt
@@ -6914,6 +6925,7 @@ vdp
 vdportgroup
 vdswitch
 vduplink
+ve7cc
 vector
 veeam
 veeampn
@@ -7180,6 +7192,7 @@ wif
 wifi
 wiki
 wildcard
+wildfly
 wim
 wim2vhd
 win
