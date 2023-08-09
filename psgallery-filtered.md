@@ -3,21 +3,77 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
-## [PPDM-pwsh](https://www.powershellgallery.com/Packages/PPDM-pwsh/19.14.20.56) | 19.14.20.56
+## [Nutstone.Devops](https://www.powershellgallery.com/Packages/Nutstone.Devops/1.0.10) | 1.0.10
 
-### Published: 08/09/2023 08:44:37 by karsten.bott@dell.com
+### Published: 08/09/2023 16:32:07 by David Nuttall
+
+Provides Methods to interact with Azure devops (Repositories/pipelines) and local GIT/Nuget (have to be installed separately)
+
+__Downloads__: 39 | __Repository__: 
+
+## [verkadaModule](https://www.powershellgallery.com/Packages/verkadaModule/0.5.13) | 0.5.13
+
+### Published: 08/09/2023 16:18:55 by Brad Parker
+
+Verkada Module
+
+__Downloads__: 116 | __Repository__: https://github.com/bepsoccer/verkadaModule
+
+## [GitlabCli](https://www.powershellgallery.com/Packages/GitlabCli/1.99.0) | 1.99.0
+
+### Published: 08/09/2023 15:50:30 by Chris Peterson
+
+Interact with GitLab via PowerShell
+
+__Downloads__: 13,448 | __Repository__: https://github.com/chris-peterson/pwsh-gitlab
+
+## [OSD](https://www.powershellgallery.com/Packages/OSD/23.8.8.1) | 23.8.8.1
+
+### Published: 08/09/2023 15:13:50 by David Segura . Gary Blok . Jérôme Bezet-Torres . Damien Van Robaeys . Mike Marable . Akos Bakos
+
+Hot August Edition
+
+__Downloads__: 837,727 | __Repository__: https://github.com/OSDeploy/OSD
+
+## [PPDM-pwsh](https://www.powershellgallery.com/Packages/PPDM-pwsh/19.14.20.57) | 19.14.20.57
+
+### Published: 08/09/2023 15:13:37 by karsten.bott@dell.com
 
 Powershell Module to interact with the PowerProdect Data Manager (PPDM) API
 
 __Downloads__: 3,307 | __Repository__: https://github.com/bottkars/PPDM-pwsh
 
-## [Nutstone.Devops](https://www.powershellgallery.com/Packages/Nutstone.Devops/1.0.9) | 1.0.9
+## [PAF](https://www.powershellgallery.com/Packages/PAF/0.2.5) | 0.2.5
 
-### Published: 08/09/2023 06:47:55 by David Nuttall
+### Published: 08/09/2023 14:35:01 by Wojciech Napierala (voytas75)
 
-Provides Methods to interact with Azure devops (Repositories/pipelines) and local GIT/Nuget (have to be installed separately)
+The PowerShell Awesome Framework is a versatile and user-friendly PowerShell module that empowers users to streamline their scripting experience with a collection of useful code snippets. This framework is designed to enhance productivity and simplify the execution of various PowerShell tasks, making it a valuable tool for both beginners and experienced PowerShell users.
 
-__Downloads__: 39 | __Repository__: 
+__Downloads__: 33 | __Repository__: https://github.com/voytas75/PowershellFramework
+
+## [TrustyTools](https://www.powershellgallery.com/Packages/TrustyTools/1.0.0) | 1.0.0
+
+### Published: 08/09/2023 11:51:08 by Tristan Brazier
+
+A collection of handy tools
+
+__Downloads__: 6 | __Repository__: https://github.com/TrustyTristan/TrustyTools
+
+## [IDandCollabTools](https://www.powershellgallery.com/Packages/IDandCollabTools/0.8) | 0.8
+
+### Published: 08/09/2023 11:29:23 by Stevie Lamb
+
+A module containing helper functions for common tasks involving Azure AD and M365
+
+__Downloads__: 14 | __Repository__: 
+
+## [PSSymantecCloud](https://www.powershellgallery.com/Packages/PSSymantecCloud/0.73.1) | 0.73.1
+
+### Published: 08/09/2023 10:59:31 by Aurélien BOUMANNE
+
+Common set of tools to interact with Symantec/Broadcom API for SEP Cloud
+
+__Downloads__: 35 | __Repository__: https://github.com/Douda/PSSymantecCloud
 
 ## [Harden-Windows-Security-Module](https://www.powershellgallery.com/Packages/Harden-Windows-Security-Module/0.0.6) | 0.0.6
 
@@ -69,7 +125,15 @@ __Downloads__: 2 | __Repository__:
 
 Module for installing basic programs: This module provides functions for downloading installers from specified links, installing the programs, verifying the installed programs/services, and cleaning up the installer files.
 
-__Downloads__: 101,997 | __Repository__: 
+__Downloads__: 101,993 | __Repository__: 
+
+## [fmt](https://www.powershellgallery.com/Packages/fmt/0.6.1) | 0.6.1
+
+### Published: 08/08/2023 16:59:32 by J.R. Phillips
+
+Helper functions for the deployment of Silk Flex
+
+__Downloads__: 88 | __Repository__: 
 
 ## [MepAppsPowerTools](https://www.powershellgallery.com/Packages/MepAppsPowerTools/1.1.2) | 1.1.2
 
@@ -94,7 +158,7 @@ __Downloads__: 2,566 | __Repository__: https://github.com/oracle/oci-powershell-
 
 PSTeams is a PowerShell Module working on Windows / Linux and Mac. It allows sending notifications to Microsoft Teams via WebHook Notifications. It's pretty flexible and provides a bunch of options. Initially, it only supported one sort of Team Cards but since version 2.X.X it supports Adaptive Cards, Hero Cards, List Cards, and Thumbnail Cards. All those new cards have their own cmdlets and the old version of creating Teams Cards stays as-is for compatibility reasons.
 
-__Downloads__: 397,700 | __Repository__: https://github.com/EvotecIT/PSTeams
+__Downloads__: 397,698 | __Repository__: https://github.com/EvotecIT/PSTeams
 
 ## [OCI.PSModules.Workrequests](https://www.powershellgallery.com/Packages/OCI.PSModules.Workrequests/65.0.0) | 65.0.0
 
@@ -1232,14 +1296,6 @@ Functions for Active Directory
 
 __Downloads__: 18,276 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
-## [IDandCollabTools](https://www.powershellgallery.com/Packages/IDandCollabTools/0.7) | 0.7
-
-### Published: 08/08/2023 12:36:36 by Stevie Lamb
-
-A module containing helper functions for common tasks involving Azure AD and M365
-
-__Downloads__: 14 | __Repository__: 
-
 ## [ChocoMan](https://www.powershellgallery.com/Packages/ChocoMan/0.13.0) | 0.13.0
 
 ### Published: 08/08/2023 12:02:26 by regg00
@@ -1288,7 +1344,7 @@ __Downloads__: 10 | __Repository__: https://github.com/anongitmous/k8sShell/wiki
 
 Provide a better and easier way for GitHub Actions to communicate with the runner machine, and the toolkit for developing GitHub Actions in PowerShell.
 
-__Downloads__: 69,965 | __Repository__: https://github.com/hugoalh-studio/ghactions-toolkit-powershell
+__Downloads__: 69,963 | __Repository__: https://github.com/hugoalh-studio/ghactions-toolkit-powershell
 
 ## [celin.ais.pwsh](https://www.powershellgallery.com/Packages/celin.ais.pwsh/1.0.5) | 1.0.5
 
@@ -1305,14 +1361,6 @@ __Downloads__: 500 | __Repository__: https://celin.io/ais.pwsh/
 Essential "winget" utilities.
 
 __Downloads__: 48 | __Repository__: https://github.com/jjcarrier/PS-WinGet-Essentials
-
-## [GitlabCli](https://www.powershellgallery.com/Packages/GitlabCli/1.98.2) | 1.98.2
-
-### Published: 08/07/2023 23:13:30 by Chris Peterson
-
-Interact with GitLab via PowerShell
-
-__Downloads__: 13,448 | __Repository__: https://github.com/chris-peterson/pwsh-gitlab
 
 ## [Citrix.Workloads.Portability](https://www.powershellgallery.com/Packages/Citrix.Workloads.Portability/2.3.1) | 2.3.1
 
@@ -1346,6 +1394,14 @@ This module contains tools to manage module dependencies.
 
 __Downloads__: 8 | __Repository__: https://github.com/FranciscoNabas/LibSnitcher
 
+## [AzureHelper](https://www.powershellgallery.com/Packages/AzureHelper/1.0.51) | 1.0.51
+
+### Published: 08/07/2023 18:33:28 by Paul Harrison
+
+This module provides cmdlets to help in daily work, find cost savings, and report on Azure Policy compliance
+
+__Downloads__: 2,131 | __Repository__: 
+
 ## [PSQuizMaster](https://www.powershellgallery.com/Packages/PSQuizMaster/1.0.0) | 1.0.0
 
 ### Published: 08/07/2023 14:48:43 by Jeff Hicks
@@ -1370,21 +1426,13 @@ For managing and automate Azure Virtual Desktop environments. This module can al
 
 __Downloads__: 7,517 | __Repository__: https://github.com/srozemuller/AzAvd
 
-## [TrustyTools](https://www.powershellgallery.com/Packages/TrustyTools/0.0.1) | 0.0.1
-
-### Published: 08/07/2023 09:29:53 by Tristan Brazier
-
-A collection of handy tools
-
-__Downloads__: 6 | __Repository__: https://github.com/TrustyTristan/TrustyTools
-
 ## [SqlChangeAutomation](https://www.powershellgallery.com/Packages/SqlChangeAutomation/4.6.23216.1886) | 4.6.23216.1886
 
 ### Published: 08/07/2023 09:10:42 by Red Gate Software Ltd.
 
 Automation tools for production quality database deployment
 
-__Downloads__: 4,388,721 | __Repository__: https://www.red-gate.com/sca/productpage
+__Downloads__: 4,388,689 | __Repository__: https://www.red-gate.com/sca/productpage
 
 ## [TUN.CredentialManager](https://www.powershellgallery.com/Packages/TUN.CredentialManager/3.0.1) | 3.0.1
 
@@ -1544,21 +1592,13 @@ A small tool to identify and remediate common misconfigurations in Active Direct
 
 __Downloads__: 15 | __Repository__: 
 
-## [PAF](https://www.powershellgallery.com/Packages/PAF/0.2.4) | 0.2.4
-
-### Published: 08/05/2023 07:03:29 by Wojciech Napierala (voytas75)
-
-The PowerShell Awesome Framework is a versatile and user-friendly PowerShell module that empowers users to streamline their scripting experience with a collection of useful code snippets. This framework is designed to enhance productivity and simplify the execution of various PowerShell tasks, making it a valuable tool for both beginners and experienced PowerShell users.
-
-__Downloads__: 33 | __Repository__: https://github.com/voytas75/PowershellFramework
-
 ## [Mailozaurr](https://www.powershellgallery.com/Packages/Mailozaurr/1.0.2) | 1.0.2
 
 ### Published: 08/05/2023 07:00:50 by Przemyslaw Klys
 
 Mailozaurr is a PowerShell module that aims to provide SMTP, POP3, IMAP and few other ways to interact with Email. Underneath it uses MimeKit and MailKit and EmailValidation libraries written by Jeffrey Stedfast.
 
-__Downloads__: 864,386 | __Repository__: https://github.com/EvotecIT/MailoZaurr
+__Downloads__: 864,381 | __Repository__: https://github.com/EvotecIT/MailoZaurr
 
 ## [CoreePower.Lib](https://www.powershellgallery.com/Packages/CoreePower.Lib/0.0.2.4) | 0.0.2.4
 
@@ -1659,7 +1699,7 @@ __Downloads__: 26 | __Repository__: https://github.com/bastien-w/SimplePSLog
 
 PowerShell module containing several Azure tools by Sam Boutros
 
-__Downloads__: 27,742 | __Repository__: https://superwidgets.wordpress.com/
+__Downloads__: 27,741 | __Repository__: https://superwidgets.wordpress.com/
 
 ## [Cofl.Util](https://www.powershellgallery.com/Packages/Cofl.Util/1.4.1) | 1.4.1
 
@@ -1707,7 +1747,7 @@ __Downloads__: 718 | __Repository__: https://github.com/codaamok/PSFront
 
 This PowerShell module contains cmdlets for managing SolarWinds Orion.
 
-__Downloads__: 469,167 | __Repository__: https://github.com/solarwinds/OrionSDK
+__Downloads__: 469,165 | __Repository__: https://github.com/solarwinds/OrionSDK
 
 ## [RobocopyPS](https://www.powershellgallery.com/Packages/RobocopyPS/0.2.20) | 0.2.20
 
@@ -1715,7 +1755,7 @@ __Downloads__: 469,167 | __Repository__: https://github.com/solarwinds/OrionSDK
 
 Wrapper for Robocopy
 
-__Downloads__: 5,994,024 | __Repository__: https://github.com/sbergwall/RobocopyPS
+__Downloads__: 5,993,999 | __Repository__: https://github.com/sbergwall/RobocopyPS
 
 ## [OfficeAndAzureTools](https://www.powershellgallery.com/Packages/OfficeAndAzureTools/9.10.10) | 9.10.10
 
@@ -1827,15 +1867,7 @@ __Downloads__: 33 | __Repository__: https://github.com/kevinblumenfeld/GraphTool
 
 Intersight Powershell module provides the cmdlets to manage, analyze, and automate the IT infrastructure in Intersight.
 
-__Downloads__: 3,532 | __Repository__: https://github.com/CiscoDevNet/intersight-powershell
-
-## [PSSymantecCloud](https://www.powershellgallery.com/Packages/PSSymantecCloud/0.72.2) | 0.72.2
-
-### Published: 08/03/2023 14:56:41 by Aurélien BOUMANNE
-
-Common set of tools to interact with Symantec/Broadcom API for SEP Cloud
-
-__Downloads__: 35 | __Repository__: https://github.com/Douda/PSSymantecCloud
+__Downloads__: 3,531 | __Repository__: https://github.com/CiscoDevNet/intersight-powershell
 
 ## [d365fo.tools](https://www.powershellgallery.com/Packages/d365fo.tools/0.7.1) | 0.7.1
 
@@ -1883,7 +1915,7 @@ __Downloads__: 503 | __Repository__:
 
 Helper module for Active Directory with lots of useful functions that simplify supporting Active Directory.
 
-__Downloads__: 150,444 | __Repository__: https://github.com/EvotecIT/ADEssentials
+__Downloads__: 150,442 | __Repository__: https://github.com/EvotecIT/ADEssentials
 
 ## [DattoAPI](https://www.powershellgallery.com/Packages/DattoAPI/2.0.1) | 2.0.1
 
@@ -2013,51 +2045,4 @@ UnifiedContactsPS
 
 __Downloads__: 102 | __Repository__: 
 
-## [AzAppGatewayVisualizer](https://www.powershellgallery.com/Packages/AzAppGatewayVisualizer/0.5) | 0.5
-
-### Published: 08/02/2023 07:18:46 by Mark Farkas
-
-AzAppGatewayVisualizer: PowerShell module to generate Mermaid diagrams for Azure Application Gateway resources, providing a visual overview of listeners, frontend IPs, WAF policies, rules, backend pools, and HTTP settings.
-
-__Downloads__: 13 | __Repository__: https://github.com/MarkFarkas/AzAppGatewayVisualizer
-
-## [psgigr](https://www.powershellgallery.com/Packages/psgigr/0.0.8) | 0.0.8
-
-### Published: 08/02/2023 07:15:23 by Gian Grüninger
-
-Powershell Module by Gian
-
-__Downloads__: 14 | __Repository__: 
-
-## [ChangelogManagement](https://www.powershellgallery.com/Packages/ChangelogManagement/3.1.0) | 3.1.0
-
-### Published: 08/02/2023 03:33:06 by Nate Scherer
-
-ChangelogManagement is a PowerShell module for reading and manipulating changelog files in [Keep a Changelog 1.0.0](https://keepachangelog.com/en/1.0.0/) format.
-
-The primary feature is automatic updating of changelogs at release time in a CI/CD workflow via Update-Changelog.
-
-Other features include:
-
-- Creating new changelog files via New-Changelog
-- Adding data to changelog files via Add-ChangelogData
-- Getting changelog contents (parsed into a PowerShell object) via Get-ChangelogData
-- Converting changelogs into other formats via ConvertFrom-Changelog
-
-__Downloads__: 52,920 | __Repository__: https://github.com/natescherer/ChangelogManagement
-
-## [MASES.KNetPS](https://www.powershellgallery.com/Packages/MASES.KNetPS/2.0.2) | 2.0.2
-
-### Published: 08/02/2023 01:08:32 by MASES s.r.l.
-
-KNet PowerShell command line interface is a PowerShell Module to use Apache Kafka and PowerShell side-by-side. With KNet PowerShell it is possible to:
-- execute all tools of Apache Kafka within a PowerShell shell: Administration tools, Console Consumer, Console Producer, manage Apache Kafka Streams, activate Apache Kafka Connect, server side (start Kafka and ZooKeeper), etc
-- create consumers and producers objects to interact with an Apache Kafka cluster
-- send data to and receive data from an Apache Kafka cluster
-- create a Kafka Admin Client object to manage an Apache Kafka cluster
-
-More information within the project hosted on GitHub. Further information at https://github.com/masesgroup/KNet.
-
-__Downloads__: 335 | __Repository__: https://github.com/masesgroup/KNet
-
-*Updated: Wednesday, 09 August 2023 09:53:34 UTC*
+*Updated: Wednesday, 09 August 2023 17:53:36 UTC*

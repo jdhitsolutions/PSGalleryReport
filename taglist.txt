@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Wednesday, 09 August 2023 09:53:49 UTC
+Updated: Wednesday, 09 August 2023 17:53:55 UTC
 
 .bat
 .env
@@ -244,7 +244,6 @@ aivision
 ajustee
 aka.ms
 aks
-aks-hci
 akscluster
 al
 alac
@@ -311,6 +310,7 @@ analyzerrules
 anchor
 and
 android
+anet
 anf
 anglesharp
 angular
@@ -653,7 +653,6 @@ azuremigrate
 azuremonitor
 azurenetworking
 azurepack
-azurepipelines
 azurepolicy
 azurepowershell
 azurerepos
@@ -808,7 +807,6 @@ blueprints
 blueteam
 bluetraitio
 bmc
-bnm
 boards
 bofh
 boilerplate
@@ -870,7 +868,6 @@ bugzilla
 build
 build-log
 build-scripts
-builddefinition
 builder
 building
 buildingfile
@@ -897,6 +894,7 @@ businesstime
 bxor
 bydesign
 byexample
+bynarypsmodule
 byovd
 byte
 bytearray
@@ -1828,7 +1826,6 @@ dism
 dismal
 display
 displayresolution
-distance
 distinguishedname
 distributed-systems
 distributedcache
@@ -1977,6 +1974,7 @@ dsclient
 dscresource
 dscresourcekit
 dscresources
+dsctools
 dsl
 dsm
 dsreg
@@ -2680,6 +2678,7 @@ gitlab4
 gitlabpipeline
 gitops
 glob
+globalclipboard
 globaldashboard
 globalentry
 globbing
@@ -2700,6 +2699,7 @@ google-chrome
 google-histogram
 google-sankey
 google-table
+googleadsv2
 googlecloudplatform
 googledrive
 googlemap
@@ -2814,6 +2814,8 @@ hardening
 hardlink
 hardware
 harperdb
+harvest
+harvestforecast
 hash
 hashcat
 hashicorp
@@ -3119,6 +3121,7 @@ initiator
 inline-progress
 inlineprogress
 innerjoin
+innertext
 input
 inputbox
 inputobject
@@ -3234,6 +3237,7 @@ irc
 irkit
 irregular
 isadmin
+isbn
 iscsi
 isdate
 ise
@@ -3460,6 +3464,7 @@ lazywinadmin
 lbd
 lbi
 lbs
+lccn
 lcm
 lcminternals
 ldap
@@ -3744,7 +3749,6 @@ marvellfcpowerkit
 marvellfcprovider
 marvellqlogicfcpowerkit
 mask
-mass
 masstransit
 masterconfiguration
 matcharray
@@ -3931,7 +3935,6 @@ moduleupdateinfo
 moduleupdater
 moduleversion
 mof
-moldova
 moment
 monaco
 monday
@@ -3964,6 +3967,7 @@ mp3
 mp4
 mpc
 mpeg
+mpn
 mrfk
 mrfylke
 mrvl_fc_powerkit
@@ -4154,6 +4158,7 @@ new-rdpsession
 new-samcmapplicationfrompackagedefinitionsms
 new-samcmpackagefrompackagedefinitionsms
 new-system
+new-udmorph
 newpassword
 newrelic
 newspaper
@@ -4455,6 +4460,7 @@ out-default
 out-gridview
 out-json
 outerjoin
+outertext
 outline
 outlook
 output
@@ -5327,7 +5333,6 @@ reinstall
 relational
 relay
 release
-releasedefinition
 releasehealth
 releasemanagement
 releasenotes
@@ -5671,6 +5676,7 @@ sd
 sddl
 sdk
 sdn
+sdp
 search
 search-adminauditlog
 search-engines
@@ -5875,6 +5881,7 @@ shells
 shieldedvm
 ships
 shipsprovider
+shipstation
 shlink
 shodan
 shodanps
@@ -6280,6 +6287,7 @@ subset
 subsystem
 subtitle
 success
+successfactors
 sudo
 sugar
 sugarcrm
@@ -6295,6 +6303,7 @@ support-tool
 support-tools
 suppress
 supress-reboot
+surround
 survey
 surveymonkey
 sushi
@@ -6403,7 +6412,6 @@ task-runner
 task-scheduler
 taskbar
 tasker
-taskgroup
 taskmanagement
 tasks
 taskscheduler
@@ -6791,7 +6799,6 @@ unique-files
 unit
 unit_testing
 unit-testing
-unitconvesion
 unittest
 unittesting
 unity
@@ -6958,6 +6965,7 @@ viewer
 viewgroup
 vigenere
 vim
+vimode
 virole
 virsh
 virtual
@@ -7160,6 +7168,7 @@ websphereappserver
 websphereportal
 webtest
 webtesting
+webtime
 wec
 wecutil
 weekday
@@ -7428,6 +7437,7 @@ xpendingreboot
 xpertdoc
 xpo
 xprotect
+xpt
 xrm
 xsa
 xtremio
