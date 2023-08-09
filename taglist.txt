@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Wednesday, 09 August 2023 02:10:42 UTC
+Updated: Wednesday, 09 August 2023 09:53:49 UTC
 
 .bat
 .env
@@ -311,7 +311,6 @@ analyzerrules
 anchor
 and
 android
-anet
 anf
 anglesharp
 angular
@@ -898,7 +897,6 @@ businesstime
 bxor
 bydesign
 byexample
-bynarypsmodule
 byovd
 byte
 bytearray
@@ -1979,7 +1977,6 @@ dsclient
 dscresource
 dscresourcekit
 dscresources
-dsctools
 dsl
 dsm
 dsreg
@@ -2683,7 +2680,6 @@ gitlab4
 gitlabpipeline
 gitops
 glob
-globalclipboard
 globaldashboard
 globalentry
 globbing
@@ -2704,7 +2700,6 @@ google-chrome
 google-histogram
 google-sankey
 google-table
-googleadsv2
 googlecloudplatform
 googledrive
 googlemap
@@ -2819,8 +2814,6 @@ hardening
 hardlink
 hardware
 harperdb
-harvest
-harvestforecast
 hash
 hashcat
 hashicorp
@@ -3126,7 +3119,6 @@ initiator
 inline-progress
 inlineprogress
 innerjoin
-innertext
 input
 inputbox
 inputobject
@@ -3242,7 +3234,6 @@ irc
 irkit
 irregular
 isadmin
-isbn
 iscsi
 isdate
 ise
@@ -3289,6 +3280,7 @@ java
 javamanager
 javascript
 javaversion
+jboss
 jdbc
 jde
 jdedwards
@@ -3468,7 +3460,6 @@ lazywinadmin
 lbd
 lbi
 lbs
-lccn
 lcm
 lcminternals
 ldap
@@ -3973,7 +3964,6 @@ mp3
 mp4
 mpc
 mpeg
-mpn
 mrfk
 mrfylke
 mrvl_fc_powerkit
@@ -4164,7 +4154,6 @@ new-rdpsession
 new-samcmapplicationfrompackagedefinitionsms
 new-samcmpackagefrompackagedefinitionsms
 new-system
-new-udmorph
 newpassword
 newrelic
 newspaper
@@ -4466,7 +4455,6 @@ out-default
 out-gridview
 out-json
 outerjoin
-outertext
 outline
 outlook
 output
@@ -5134,6 +5122,7 @@ pulseway
 pulumi
 punycode
 puppet
+puppetdb
 puppy
 pure
 pure1
@@ -5463,7 +5452,6 @@ rhapsody
 ribbon
 ribcl
 rightjoin
-rights
 rightsizing
 rightsmanagement
 ripe
@@ -5683,7 +5671,6 @@ sd
 sddl
 sdk
 sdn
-sdp
 search
 search-adminauditlog
 search-engines
@@ -5888,7 +5875,6 @@ shells
 shieldedvm
 ships
 shipsprovider
-shipstation
 shlink
 shodan
 shodanps
@@ -6309,7 +6295,6 @@ support-tool
 support-tools
 suppress
 supress-reboot
-surround
 survey
 surveymonkey
 sushi
@@ -6973,7 +6958,6 @@ viewer
 viewgroup
 vigenere
 vim
-vimode
 virole
 virsh
 virtual
@@ -7176,7 +7160,6 @@ websphereappserver
 websphereportal
 webtest
 webtesting
-webtime
 wec
 wecutil
 weekday
@@ -7207,6 +7190,7 @@ wif
 wifi
 wiki
 wildcard
+wildfly
 wim
 wim2vhd
 win
@@ -7444,7 +7428,6 @@ xpendingreboot
 xpertdoc
 xpo
 xprotect
-xpt
 xrm
 xsa
 xtremio
