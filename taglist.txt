@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Tuesday, 08 August 2023 17:54:03 UTC
+Updated: Wednesday, 09 August 2023 02:10:42 UTC
 
 .bat
 .env
@@ -120,6 +120,7 @@ activedirectoryfederationservices
 activedirectry-html
 activeefficiency
 activeresponse
+activesession
 activiti
 activity
 activitycount
@@ -690,6 +691,7 @@ backup_validation
 bamboo
 bamboohr
 bandwidth
+bank
 banking
 banner
 bar
@@ -1511,6 +1513,7 @@ culture
 cumulative
 cumulativeupdate
 cumulocity
+curious
 curl
 curlie
 currency
@@ -3163,6 +3166,7 @@ integrationruntimedependency
 integrationservicescatalog
 integrity
 intel
+inteligo
 intelligence
 intelligence"
 intellisearch
@@ -3285,7 +3289,6 @@ java
 javamanager
 javascript
 javaversion
-jboss
 jdbc
 jde
 jdedwards
@@ -3433,6 +3436,7 @@ labsnippet
 labtech
 labtest
 labworker
+lake
 lambda
 lame
 lametrictime
@@ -3784,6 +3788,7 @@ mdb
 mdbc
 mde
 mdm
+mdop
 mdt
 mdx
 me4024
@@ -4557,6 +4562,7 @@ passwordspray
 passwordstate
 passwordtool
 passwordvault
+passwordwolf
 paste
 patch
 patches
@@ -5128,7 +5134,6 @@ pulseway
 pulumi
 punycode
 puppet
-puppetdb
 puppy
 pure
 pure1
@@ -5252,6 +5257,7 @@ rdg
 rdl
 rdm
 rdp
+rdpsession
 rdpsign
 rds
 rdsgw
@@ -5358,7 +5364,9 @@ remotedesktopservices
 remotefiles
 remoteforensics
 remotehost
+remotelogoff
 remotemanagement
+remotesession
 remoting
 remove
 remove-githubsecrets
@@ -6286,7 +6294,6 @@ subset
 subsystem
 subtitle
 success
-successfactors
 sudo
 sugar
 sugarcrm
@@ -7200,7 +7207,6 @@ wif
 wifi
 wiki
 wildcard
-wildfly
 wim
 wim2vhd
 win
