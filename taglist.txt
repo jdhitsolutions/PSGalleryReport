@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Thursday, 10 August 2023 09:52:44 UTC
+Updated: Thursday, 10 August 2023 17:54:06 UTC
 
 .bat
 .env
@@ -54,7 +54,6 @@ Updated: Thursday, 10 August 2023 09:52:44 UTC
 8ball
 9
 aa
-aac
 aad
 aad-graph
 aadc
@@ -239,6 +238,7 @@ aircall
 airpower
 airpwr
 airtable
+ais
 aispeech
 aivision
 ajustee
@@ -247,7 +247,6 @@ aks
 aks-hci
 akscluster
 al
-alac
 alarm
 alb
 albums
@@ -417,6 +416,9 @@ architecuture
 archive
 archivedteams
 archivematica
+archivial
+archivial-backup
+archivial-cloud-backup
 archlinux
 arcresourcebridge
 arcus
@@ -608,6 +610,7 @@ azure
 azure_ad
 azure_security
 azure-adx
+azure-backup
 azure-cli
 azure-data-explorer
 azure-devops
@@ -894,7 +897,6 @@ businesstime
 bxor
 bydesign
 byexample
-bynarypsmodule
 byovd
 byte
 bytearray
@@ -1133,6 +1135,7 @@ clone
 close-openfile
 cloud
 cloud_data_management
+cloud-backup
 cloud-computing
 cloud-init
 cloud-iq
@@ -1416,7 +1419,6 @@ counter
 countries
 country
 countrycode
-cover
 coverage
 coveralls
 coveralls.io
@@ -1446,7 +1448,6 @@ creationworkflowsimplification
 creator
 cred
 credential
-credential-dialog
 credential-file
 credential-files
 credential-manager
@@ -1479,7 +1480,6 @@ crossover
 crossplatform
 crossplatformdevelopment
 crowdstrike
-crt.sh
 crud
 crypto
 cryptocompare
@@ -1498,7 +1498,6 @@ csv2adx
 csvhelper
 ctf
 ctglobal
-ctl
 ctrl+c
 ctx
 ctype
@@ -1576,6 +1575,8 @@ dashboardservice
 dast
 data
 data_protection
+data-archive
+data-backup
 data-tier
 data-uri
 data-uri-converter
@@ -1862,7 +1863,6 @@ dnsdumpster
 dnsentry
 dnsimple
 dnslookup
-dnsmadeeasy
 dnsoverhttps
 dnsrecord
 dnsresolver
@@ -2022,6 +2022,7 @@ dynatrace
 dynatraceobservability
 dz
 e-mail
+e1
 easy
 easy-to-use
 easylife365
@@ -2029,7 +2030,6 @@ easyvista
 eaton
 ebay
 ebooks
-ebur128
 ec2
 ecommerce
 ecovadis
@@ -2072,6 +2072,7 @@ emacs
 email
 email-address
 emailaddressupdate
+emailautomation
 emailmanagment
 emailnotification
 emailnotificationcomponent
@@ -2275,7 +2276,6 @@ exponentiation
 export
 export-cmhealthreport
 export-data
-export-passlist
 exportcertificate
 exportcertificates
 exporter
@@ -2441,7 +2441,6 @@ fix-log
 fix-protocol
 fixlet
 fixpack
-flac
 flash
 flasharray
 flashblade
@@ -2627,9 +2626,7 @@ get-history
 get-iislog
 get-openfile
 get-openfiles
-get-pass
 get-passivetrippoint
-get-passlist
 get-path
 get-pinneditem
 get-samcmassignedsite
@@ -3009,7 +3006,6 @@ icraftsoftware
 ics
 icws
 id
-id3
 idabus
 ide
 identifier
@@ -3075,7 +3071,6 @@ import
 import-csv
 import-dtdriverpackpackagedefinitionsms
 import-modulefrompath
-import-passlist
 import-sampackagedefinitionsms
 importer
 importexport
@@ -3212,7 +3207,6 @@ ip-scanner
 ipa
 ipaddress
 ipam
-ipbroadcast
 ipc
 ipcalc
 ipcalculator
@@ -3281,6 +3275,7 @@ javascript
 javaversion
 jboss
 jdbc
+jde
 jdedwards
 jdt
 jea
@@ -3428,7 +3423,6 @@ labtest
 labworker
 lake
 lambda
-lame
 lametrictime
 lamp
 lan
@@ -3791,7 +3785,6 @@ media
 mediant
 mediaplayer
 mediaservices
-mediawiki
 meditation
 meeting
 meetup
@@ -4057,6 +4050,7 @@ myitprocess
 myjson
 myjson.com
 myob
+myposh
 mysql
 mysql-database
 mytest
@@ -4307,7 +4301,6 @@ officertool
 offline
 offlinewimservicing
 ofx
-ogg
 oh-my-posh
 oh-my-zsh
 oidc
@@ -4343,6 +4336,7 @@ onesubscription
 onetimesecret
 oneviewglobaldashboard
 online
+online-backup
 onlinebackup
 onprem
 onpremisesdatagatewayhamgmt
@@ -4357,7 +4351,6 @@ onyphe
 onyphe.io
 oob
 oop
-op
 opa
 opc
 open
@@ -4403,7 +4396,6 @@ optimizer
 option
 options
 optionstring
-opus
 oracle
 oraclecloudinfrastructure
 orbital
@@ -4745,7 +4737,9 @@ postgresql
 pow
 powdrgit
 power
+power-apps
 power-cbr
+power-platform
 power-shell
 powerapps
 powerappsportal
@@ -4817,6 +4811,7 @@ powershelluniversal
 powershellv5
 powerstig
 powerstore
+powertab
 powertoolcmdlets
 powertooldsc
 ppdm
@@ -5000,7 +4995,6 @@ psedition_psedition_core
 psedition_psedition_desktop
 psedition_windows
 psedition-desktop
-psediton_desktop
 psenv
 pses
 psexcel
@@ -5314,6 +5308,7 @@ region
 regions
 regiser-argumentcompleter
 register
+register-argumentcompleter
 registration
 registry
 regression
@@ -5355,7 +5350,6 @@ remotesession
 remoting
 remove
 remove-githubsecrets
-remove-pass
 remove-path
 remove-pinneditem
 remove-tempfiles
@@ -5367,7 +5361,6 @@ reparsepoint
 repeat
 repl
 replace
-replaygain
 replication
 repoo
 report
@@ -5813,10 +5806,8 @@ set-githubsecrets
 set-location
 set-openfiles
 set-ownership
-set-pass
 set-psbreakpoint
 set-psenv
-set-randompass
 set-type
 setbios
 sets
@@ -5886,7 +5877,6 @@ shotgun
 show
 show-command
 show-on-command
-showdemo
 showoncommand
 shred
 shutdown
@@ -6551,8 +6541,6 @@ tinymce
 tips
 title
 tls
-tls11
-tls12
 tlsprotocol
 to-do
 toast
@@ -6620,7 +6608,6 @@ translation
 translit
 transliteration
 transmission
-transparency
 transpilation
 trap
 travel
@@ -6745,7 +6732,6 @@ ud-slider
 ud-speechbubble
 ud-step
 ud-stepbar
-ud-stickynavbar
 ud-tagcloud
 ud-timeline
 ud-timeout
@@ -6758,7 +6744,6 @@ ud-wordtree
 udcm
 udfeedback
 udp
-udpclient
 udptest
 udr
 udthememode
@@ -7037,7 +7022,6 @@ volta
 volume
 volumeshadowcopy
 volumio
-vorbis
 vovin
 vpas
 vpasmodule
