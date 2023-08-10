@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Thursday, 10 August 2023 02:12:18 UTC
+Updated: Thursday, 10 August 2023 09:52:44 UTC
 
 .bat
 .env
@@ -239,12 +239,12 @@ aircall
 airpower
 airpwr
 airtable
-ais
 aispeech
 aivision
 ajustee
 aka.ms
 aks
+aks-hci
 akscluster
 al
 alac
@@ -417,9 +417,6 @@ architecuture
 archive
 archivedteams
 archivematica
-archivial
-archivial-backup
-archivial-cloud-backup
 archlinux
 arcresourcebridge
 arcus
@@ -611,7 +608,6 @@ azure
 azure_ad
 azure_security
 azure-adx
-azure-backup
 azure-cli
 azure-data-explorer
 azure-devops
@@ -1137,7 +1133,6 @@ clone
 close-openfile
 cloud
 cloud_data_management
-cloud-backup
 cloud-computing
 cloud-init
 cloud-iq
@@ -1236,6 +1231,7 @@ colour
 column
 columns
 com
+combinations
 combine
 comdata
 comic
@@ -1520,7 +1516,6 @@ currency-convereter
 currency-exchange
 currencyconverterapi
 current
-curseforge
 custom
 customchecks
 customdns
@@ -1581,8 +1576,6 @@ dashboardservice
 dast
 data
 data_protection
-data-archive
-data-backup
 data-tier
 data-uri
 data-uri-converter
@@ -1622,6 +1615,7 @@ dataplatform
 datapro
 dataprotection
 dataquality
+datarow
 datasafe
 datascience
 dataset
@@ -2028,7 +2022,6 @@ dynatrace
 dynatraceobservability
 dz
 e-mail
-e1
 easy
 easy-to-use
 easylife365
@@ -2079,7 +2072,6 @@ emacs
 email
 email-address
 emailaddressupdate
-emailautomation
 emailmanagment
 emailnotification
 emailnotificationcomponent
@@ -3289,7 +3281,6 @@ javascript
 javaversion
 jboss
 jdbc
-jde
 jdedwards
 jdt
 jea
@@ -4066,7 +4057,6 @@ myitprocess
 myjson
 myjson.com
 myob
-myposh
 mysql
 mysql-database
 mytest
@@ -4353,7 +4343,6 @@ onesubscription
 onetimesecret
 oneviewglobaldashboard
 online
-online-backup
 onlinebackup
 onprem
 onpremisesdatagatewayhamgmt
@@ -4368,6 +4357,7 @@ onyphe
 onyphe.io
 oob
 oop
+op
 opa
 opc
 open
@@ -4594,6 +4584,7 @@ peheader
 pem
 pemfile
 pendingreboot
+penetration
 penetrationtesting
 pentesting
 pentia
@@ -4604,6 +4595,7 @@ performancemonitoring
 perl
 permission
 permissions
+permutations
 persistence
 persistent
 personal
@@ -4753,9 +4745,7 @@ postgresql
 pow
 powdrgit
 power
-power-apps
 power-cbr
-power-platform
 power-shell
 powerapps
 powerappsportal
@@ -4827,7 +4817,6 @@ powershelluniversal
 powershellv5
 powerstig
 powerstore
-powertab
 powertoolcmdlets
 powertooldsc
 ppdm
@@ -5011,6 +5000,7 @@ psedition_psedition_core
 psedition_psedition_desktop
 psedition_windows
 psedition-desktop
+psediton_desktop
 psenv
 pses
 psexcel
@@ -5058,6 +5048,7 @@ psnavigation
 psnexosisclient
 psngenposh
 psobject
+psoutlog
 pspath
 pspersonio
 pspowerhour
@@ -5159,6 +5150,7 @@ pyranja
 python
 python-for-dotnet
 qcloud
+qconvergeconsolepowerkit
 qemu
 qlgc_fc_powerkit
 qlik
@@ -5322,7 +5314,6 @@ region
 regions
 regiser-argumentcompleter
 register
-register-argumentcompleter
 registration
 registry
 regression
@@ -5918,6 +5909,7 @@ simplecontainers
 simplepassword
 simplepasswordgenerator
 simplivity
+simplysql
 sin
 single
 singlestore
@@ -6301,6 +6293,7 @@ supermarket
 support
 support-tool
 support-tools
+suppress
 supress-reboot
 surround
 survey
