@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Wednesday, 09 August 2023 17:53:55 UTC
+Updated: Thursday, 10 August 2023 02:12:18 UTC
 
 .bat
 .env
@@ -119,6 +119,7 @@ activedirectorycertificateservices
 activedirectoryfederationservices
 activedirectry-html
 activeefficiency
+activehours
 activeresponse
 activesession
 activiti
@@ -653,6 +654,7 @@ azuremigrate
 azuremonitor
 azurenetworking
 azurepack
+azurepipelines
 azurepolicy
 azurepowershell
 azurerepos
@@ -807,6 +809,7 @@ blueprints
 blueteam
 bluetraitio
 bmc
+bnm
 boards
 bofh
 boilerplate
@@ -868,6 +871,7 @@ bugzilla
 build
 build-log
 build-scripts
+builddefinition
 builder
 building
 buildingfile
@@ -1232,7 +1236,6 @@ colour
 column
 columns
 com
-combinations
 combine
 comdata
 comic
@@ -1619,7 +1622,6 @@ dataplatform
 datapro
 dataprotection
 dataquality
-datarow
 datasafe
 datascience
 dataset
@@ -1826,6 +1828,7 @@ dism
 dismal
 display
 displayresolution
+distance
 distinguishedname
 distributed-systems
 distributedcache
@@ -3749,6 +3752,7 @@ marvellfcpowerkit
 marvellfcprovider
 marvellqlogicfcpowerkit
 mask
+mass
 masstransit
 masterconfiguration
 matcharray
@@ -3935,6 +3939,7 @@ moduleupdateinfo
 moduleupdater
 moduleversion
 mof
+moldova
 moment
 monaco
 monday
@@ -4363,7 +4368,6 @@ onyphe
 onyphe.io
 oob
 oop
-op
 opa
 opc
 open
@@ -4590,7 +4594,6 @@ peheader
 pem
 pemfile
 pendingreboot
-penetration
 penetrationtesting
 pentesting
 pentia
@@ -4601,7 +4604,6 @@ performancemonitoring
 perl
 permission
 permissions
-permutations
 persistence
 persistent
 personal
@@ -5009,7 +5011,6 @@ psedition_psedition_core
 psedition_psedition_desktop
 psedition_windows
 psedition-desktop
-psediton_desktop
 psenv
 pses
 psexcel
@@ -5057,7 +5058,6 @@ psnavigation
 psnexosisclient
 psngenposh
 psobject
-psoutlog
 pspath
 pspersonio
 pspowerhour
@@ -5159,7 +5159,6 @@ pyranja
 python
 python-for-dotnet
 qcloud
-qconvergeconsolepowerkit
 qemu
 qlgc_fc_powerkit
 qlik
@@ -5333,6 +5332,7 @@ reinstall
 relational
 relay
 release
+releasedefinition
 releasehealth
 releasemanagement
 releasenotes
@@ -5457,6 +5457,7 @@ rhapsody
 ribbon
 ribcl
 rightjoin
+rights
 rightsizing
 rightsmanagement
 ripe
@@ -5917,7 +5918,6 @@ simplecontainers
 simplepassword
 simplepasswordgenerator
 simplivity
-simplysql
 sin
 single
 singlestore
@@ -6301,7 +6301,6 @@ supermarket
 support
 support-tool
 support-tools
-suppress
 supress-reboot
 surround
 survey
@@ -6412,6 +6411,7 @@ task-runner
 task-scheduler
 taskbar
 tasker
+taskgroup
 taskmanagement
 tasks
 taskscheduler
@@ -6799,6 +6799,7 @@ unique-files
 unit
 unit_testing
 unit-testing
+unitconvesion
 unittest
 unittesting
 unity
@@ -6819,6 +6820,7 @@ update
 update-module
 update-moduletests
 update-typedata
+updatedeferral
 updatemanagement
 updatemgmt
 updater

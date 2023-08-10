@@ -3,6 +3,66 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [celin.ais.pwsh](https://www.powershellgallery.com/Packages/celin.ais.pwsh/1.0.6) | 1.0.6
+
+### Published: 08/10/2023 01:57:45 by Finnur Bragason
+
+Query and Script Module for Oracle E1/JDE AIS.
+
+__Downloads__: 500 | __Repository__: https://celin.io/ais.pwsh/
+
+## [Nevergreen](https://www.powershellgallery.com/Packages/Nevergreen/2308.1) | 2308.1
+
+### Published: 08/10/2023 00:25:13 by Dan Gough
+
+This module is an alternative to Evergreen, and allows you to find the latest version and download URL for various Windows apps. Evergreen uses API queries to obtain its data whereas this module is more focussed on web scraping. This is more prone to breaking when websites are changed, hence the name!
+
+__Downloads__: 56,415 | __Repository__: https://github.com/DanGough/Nevergreen
+
+## [Harden-Windows-Security-Module](https://www.powershellgallery.com/Packages/Harden-Windows-Security-Module/0.0.7) | 0.0.7
+
+### Published: 08/09/2023 22:24:10 by HotCakeX
+
+✅ This is a PowerShell module for Harden Windows Security script.
+✅ It offers System Compliance checking in addition to hardening.
+✅ You can check and validate a system to see whether it conforms to the Harden Windows Security guidelines or not.
+
+💠 The module generates a nice output on the screen as well as giving users an option to export the results in a CSV file.
+
+💠 If you use the "Protect-WindowsSecurity" Cmdlet, it will download and run the Harden Windows Security PowerShell script from the official repository
+
+🟡 Refer to this GitHub repository for more info: https://github.com/HotCakeX/Harden-Windows-Security
+
+🏴 Module's documentation: https://github.com/HotCakeX/Harden-Windows-Security/wiki/Harden%E2%80%90Windows%E2%80%90Security%E2%80%90Module
+
+💎 If you have any questions, requests, suggestions etc. about this module, please open a new Discussion or Issue on GitHub
+
+__Downloads__: 189 | __Repository__: https://github.com/HotCakeX/Harden-Windows-Security
+
+## [WindowsUpdateSetting](https://www.powershellgallery.com/Packages/WindowsUpdateSetting/1.0.0) | 1.0.0
+
+### Published: 08/09/2023 20:47:52 by Jeff Hicks
+
+A set of PowerShell functions to managing Windows Update settings such as pausing, on Windows 10 or Windows 11. This module should work in Windows PowerShell and PowerShell 7 on a Windows platform.
+
+__Downloads__: 1,059 | __Repository__: https://github.com/jdhitsolutions/WindowsUpdateSetting
+
+## [finnget](https://www.powershellgallery.com/Packages/finnget/1.4) | 1.4
+
+### Published: 08/09/2023 19:46:31 by Aleksandre Nozadze(FinnTheHero)
+
+FinnGet is a Windows Powershell system information display tool
+
+__Downloads__: 1 | __Repository__: 
+
+## [PSEasy.Utility](https://www.powershellgallery.com/Packages/PSEasy.Utility/1.5.0) | 1.5.0
+
+### Published: 08/09/2023 18:43:38 by Brett Gerhardi
+
+Lightweight army of helpers for general powershell activities
+
+__Downloads__: 4,699 | __Repository__: https://github.com/o-o00o-o/PSEasy.Utility
+
 ## [Nutstone.Devops](https://www.powershellgallery.com/Packages/Nutstone.Devops/1.0.10) | 1.0.10
 
 ### Published: 08/09/2023 16:32:07 by David Nuttall
@@ -33,7 +93,7 @@ __Downloads__: 13,448 | __Repository__: https://github.com/chris-peterson/pwsh-g
 
 Hot August Edition
 
-__Downloads__: 837,727 | __Repository__: https://github.com/OSDeploy/OSD
+__Downloads__: 837,734 | __Repository__: https://github.com/OSDeploy/OSD
 
 ## [PPDM-pwsh](https://www.powershellgallery.com/Packages/PPDM-pwsh/19.14.20.57) | 19.14.20.57
 
@@ -75,26 +135,6 @@ Common set of tools to interact with Symantec/Broadcom API for SEP Cloud
 
 __Downloads__: 35 | __Repository__: https://github.com/Douda/PSSymantecCloud
 
-## [Harden-Windows-Security-Module](https://www.powershellgallery.com/Packages/Harden-Windows-Security-Module/0.0.6) | 0.0.6
-
-### Published: 08/09/2023 05:42:04 by HotCakeX
-
-✅ This is a PowerShell module for Harden Windows Security script.
-✅ It offers System Compliance checking in addition to hardening.
-✅ You can check and validate a system to see whether it conforms to the Harden Windows Security guidelines or not.
-
-💠 The module generates a nice output on the screen as well as giving users an option to export the results in a CSV file.
-
-💠 If you use the "Protect-WindowsSecurity" Cmdlet, it will download and run the Harden Windows Security PowerShell script from the official repository
-
-🟡 Refer to this GitHub repository for more info: https://github.com/HotCakeX/Harden-Windows-Security
-
-🏴 Module's documentation: https://github.com/HotCakeX/Harden-Windows-Security/wiki/Harden%E2%80%90Windows%E2%80%90Security%E2%80%90Module
-
-💎 If you have any questions, requests, suggestions etc. about this module, please open a new Discussion or Issue on GitHub
-
-__Downloads__: 187 | __Repository__: https://github.com/HotCakeX/Harden-Windows-Security
-
 ## [TM-DockerUtility](https://www.powershellgallery.com/Packages/TM-DockerUtility/0.0.7) | 0.0.7
 
 ### Published: 08/09/2023 02:26:03 by Taylor Marvin
@@ -125,7 +165,7 @@ __Downloads__: 2 | __Repository__:
 
 Module for installing basic programs: This module provides functions for downloading installers from specified links, installing the programs, verifying the installed programs/services, and cleaning up the installer files.
 
-__Downloads__: 101,993 | __Repository__: 
+__Downloads__: 101,999 | __Repository__: 
 
 ## [fmt](https://www.powershellgallery.com/Packages/fmt/0.6.1) | 0.6.1
 
@@ -158,7 +198,7 @@ __Downloads__: 2,566 | __Repository__: https://github.com/oracle/oci-powershell-
 
 PSTeams is a PowerShell Module working on Windows / Linux and Mac. It allows sending notifications to Microsoft Teams via WebHook Notifications. It's pretty flexible and provides a bunch of options. Initially, it only supported one sort of Team Cards but since version 2.X.X it supports Adaptive Cards, Hero Cards, List Cards, and Thumbnail Cards. All those new cards have their own cmdlets and the old version of creating Teams Cards stays as-is for compatibility reasons.
 
-__Downloads__: 397,698 | __Repository__: https://github.com/EvotecIT/PSTeams
+__Downloads__: 397,708 | __Repository__: https://github.com/EvotecIT/PSTeams
 
 ## [OCI.PSModules.Workrequests](https://www.powershellgallery.com/Packages/OCI.PSModules.Workrequests/65.0.0) | 65.0.0
 
@@ -1326,7 +1366,7 @@ __Downloads__: 4,604 | __Repository__:
 
 A PowerShell module to generate an as built report on the configuration of NetApp ONTAP.
 
-__Downloads__: 1,425 | __Repository__: https://github.com/AsBuiltReport/AsBuiltReport.NetApp.ONTAP
+__Downloads__: 1,426 | __Repository__: https://github.com/AsBuiltReport/AsBuiltReport.NetApp.ONTAP
 
 ## [K8sShell](https://www.powershellgallery.com/Packages/K8sShell/1.0.4) | 1.0.4
 
@@ -1344,15 +1384,7 @@ __Downloads__: 10 | __Repository__: https://github.com/anongitmous/k8sShell/wiki
 
 Provide a better and easier way for GitHub Actions to communicate with the runner machine, and the toolkit for developing GitHub Actions in PowerShell.
 
-__Downloads__: 69,963 | __Repository__: https://github.com/hugoalh-studio/ghactions-toolkit-powershell
-
-## [celin.ais.pwsh](https://www.powershellgallery.com/Packages/celin.ais.pwsh/1.0.5) | 1.0.5
-
-### Published: 08/08/2023 00:30:21 by Finnur Bragason
-
-Query and Script Module for Oracle E1/JDE AIS.
-
-__Downloads__: 500 | __Repository__: https://celin.io/ais.pwsh/
+__Downloads__: 69,965 | __Repository__: https://github.com/hugoalh-studio/ghactions-toolkit-powershell
 
 ## [WinGet-Essentials](https://www.powershellgallery.com/Packages/WinGet-Essentials/1.0.2) | 1.0.2
 
@@ -1432,7 +1464,7 @@ __Downloads__: 7,517 | __Repository__: https://github.com/srozemuller/AzAvd
 
 Automation tools for production quality database deployment
 
-__Downloads__: 4,388,689 | __Repository__: https://www.red-gate.com/sca/productpage
+__Downloads__: 4,388,721 | __Repository__: https://www.red-gate.com/sca/productpage
 
 ## [TUN.CredentialManager](https://www.powershellgallery.com/Packages/TUN.CredentialManager/3.0.1) | 3.0.1
 
@@ -1502,7 +1534,7 @@ __Downloads__: 46 | __Repository__:
 
 Powershell module for creating and extracting 7-Zip archives
 
-__Downloads__: 11,429,580 | __Repository__: https://github.com/thoemmi/7Zip4Powershell
+__Downloads__: 11,430,141 | __Repository__: https://github.com/thoemmi/7Zip4Powershell
 
 ## [QuickFix](https://www.powershellgallery.com/Packages/QuickFix/0.2.1) | 0.2.1
 
@@ -1598,7 +1630,7 @@ __Downloads__: 15 | __Repository__:
 
 Mailozaurr is a PowerShell module that aims to provide SMTP, POP3, IMAP and few other ways to interact with Email. Underneath it uses MimeKit and MailKit and EmailValidation libraries written by Jeffrey Stedfast.
 
-__Downloads__: 864,381 | __Repository__: https://github.com/EvotecIT/MailoZaurr
+__Downloads__: 864,386 | __Repository__: https://github.com/EvotecIT/MailoZaurr
 
 ## [CoreePower.Lib](https://www.powershellgallery.com/Packages/CoreePower.Lib/0.0.2.4) | 0.0.2.4
 
@@ -1699,7 +1731,7 @@ __Downloads__: 26 | __Repository__: https://github.com/bastien-w/SimplePSLog
 
 PowerShell module containing several Azure tools by Sam Boutros
 
-__Downloads__: 27,741 | __Repository__: https://superwidgets.wordpress.com/
+__Downloads__: 27,742 | __Repository__: https://superwidgets.wordpress.com/
 
 ## [Cofl.Util](https://www.powershellgallery.com/Packages/Cofl.Util/1.4.1) | 1.4.1
 
@@ -1747,7 +1779,7 @@ __Downloads__: 718 | __Repository__: https://github.com/codaamok/PSFront
 
 This PowerShell module contains cmdlets for managing SolarWinds Orion.
 
-__Downloads__: 469,165 | __Repository__: https://github.com/solarwinds/OrionSDK
+__Downloads__: 469,168 | __Repository__: https://github.com/solarwinds/OrionSDK
 
 ## [RobocopyPS](https://www.powershellgallery.com/Packages/RobocopyPS/0.2.20) | 0.2.20
 
@@ -1755,7 +1787,7 @@ __Downloads__: 469,165 | __Repository__: https://github.com/solarwinds/OrionSDK
 
 Wrapper for Robocopy
 
-__Downloads__: 5,993,999 | __Repository__: https://github.com/sbergwall/RobocopyPS
+__Downloads__: 5,994,024 | __Repository__: https://github.com/sbergwall/RobocopyPS
 
 ## [OfficeAndAzureTools](https://www.powershellgallery.com/Packages/OfficeAndAzureTools/9.10.10) | 9.10.10
 
@@ -1867,7 +1899,7 @@ __Downloads__: 33 | __Repository__: https://github.com/kevinblumenfeld/GraphTool
 
 Intersight Powershell module provides the cmdlets to manage, analyze, and automate the IT infrastructure in Intersight.
 
-__Downloads__: 3,531 | __Repository__: https://github.com/CiscoDevNet/intersight-powershell
+__Downloads__: 3,532 | __Repository__: https://github.com/CiscoDevNet/intersight-powershell
 
 ## [d365fo.tools](https://www.powershellgallery.com/Packages/d365fo.tools/0.7.1) | 0.7.1
 
@@ -1875,7 +1907,7 @@ __Downloads__: 3,531 | __Repository__: https://github.com/CiscoDevNet/intersight
 
 A set of tools that will assist you when working with Dynamics 365 Finance & Operations development / demo machines.
 
-__Downloads__: 168,350 | __Repository__: https://github.com/d365collaborative/d365fo.tools
+__Downloads__: 168,355 | __Repository__: https://github.com/d365collaborative/d365fo.tools
 
 ## [RiverMeadow.Development.Migrate](https://www.powershellgallery.com/Packages/RiverMeadow.Development.Migrate/1.0.116.279) | 1.0.116.279
 
@@ -1915,7 +1947,7 @@ __Downloads__: 503 | __Repository__:
 
 Helper module for Active Directory with lots of useful functions that simplify supporting Active Directory.
 
-__Downloads__: 150,442 | __Repository__: https://github.com/EvotecIT/ADEssentials
+__Downloads__: 150,447 | __Repository__: https://github.com/EvotecIT/ADEssentials
 
 ## [DattoAPI](https://www.powershellgallery.com/Packages/DattoAPI/2.0.1) | 2.0.1
 
@@ -2013,36 +2045,4 @@ Module for building Windows unattend XML documents.
 
 __Downloads__: 20 | __Repository__: https://github.com/MartinGC94/UnattendXmlBuilder
 
-## [Endjin.RecommendedPractices.Build](https://www.powershellgallery.com/Packages/Endjin.RecommendedPractices.Build/1.3.8) | 1.3.8
-
-### Published: 08/02/2023 14:21:51 by Endjineers
-
-Provides automated build features using on the InvokeBuild module
-
-__Downloads__: 19,017 | __Repository__: https://github.com/endjin/Endjin.RecommendedPractices.Build
-
-## [SamplePsModule](https://www.powershellgallery.com/Packages/SamplePsModule/1.3.8) | 1.3.8
-
-### Published: 08/02/2023 14:21:45 by Endjineers
-
-A sample module with no functional value used to validate CI/CD module publishing functionality
-
-__Downloads__: 220 | __Repository__: https://github.com/endjin/Endjin.RecommendedPractices.Build/tree/main/tests/module
-
-## [VenafiPS](https://www.powershellgallery.com/Packages/VenafiPS/5.8.1) | 5.8.1
-
-### Published: 08/02/2023 13:54:25 by Venafi
-
-Automate your Venafi Trust Protection Platform and Venafi as a Service platforms!
-
-__Downloads__: 5,683 | __Repository__: https://github.com/Venafi/VenafiPS
-
-## [UnifiedContactsPS](https://www.powershellgallery.com/Packages/UnifiedContactsPS/1.1.0) | 1.1.0
-
-### Published: 08/02/2023 12:27:37 by glueckkanja-gab
-
-UnifiedContactsPS
-
-__Downloads__: 102 | __Repository__: 
-
-*Updated: Wednesday, 09 August 2023 17:53:36 UTC*
+*Updated: Thursday, 10 August 2023 02:12:04 UTC*
