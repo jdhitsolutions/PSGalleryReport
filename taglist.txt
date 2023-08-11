@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Friday, 11 August 2023 09:53:47 UTC
+Updated: Friday, 11 August 2023 17:52:58 UTC
 
 .bat
 .env
@@ -71,7 +71,6 @@ abc_testing
 abe
 about
 abr
-abstractsyntaxtree
 abuse
 abuseipdb
 acas
@@ -209,7 +208,6 @@ advice
 advisor
 adwords
 adx
-adxingestion
 aem
 aeries
 aeriessis
@@ -267,7 +265,6 @@ alias
 alias-hint
 alias-tips
 aliases
-aliens
 all
 alletra
 alloydb
@@ -344,6 +341,7 @@ api-client
 api-gateway
 api-rest
 apichecks
+apiclient
 apigateway
 apigee
 apigeeedge
@@ -367,6 +365,7 @@ appcmd
 appconfiguration
 appdynamics
 appearance
+appender
 appian
 appinsights
 applayering
@@ -852,6 +851,7 @@ britannicaknowledgesystems
 british-gas
 brk4452
 broadcast
+broadcom
 broot
 brownserve-uk
 browser
@@ -913,6 +913,7 @@ calculator
 calendar
 callingcode
 callqueue
+calvin-and-hobbes
 cam
 camera
 campaign
@@ -1495,7 +1496,6 @@ csp
 csproj
 css
 csv
-csv2adx
 csvhelper
 ctf
 ctglobal
@@ -1923,8 +1923,6 @@ downloadfacebookvideo
 downloadfilefromsite
 downloadinfo
 downloading
-downloadoffice
-downloadofficertool
 downloads
 downloadyoutubevideo
 dpa
@@ -2037,7 +2035,6 @@ ebur128
 ec2
 ecommerce
 ecovadis
-edgaronline
 edge
 edgebackup
 edgeexport
@@ -2165,6 +2162,7 @@ escapesequences
 escaping
 ese
 esent
+esoteric
 esp
 esp-idf
 esp32
@@ -2563,7 +2561,6 @@ gainz-keepass
 gainz-sqldb
 gallery
 game
-gamecategory:cards
 games
 gameserver
 gaming
@@ -3096,6 +3093,7 @@ indexdb
 indicator
 inedo
 inetfwrule
+infinity
 influx
 influxdb
 info
@@ -3142,8 +3140,6 @@ installationmanager
 installedapplications
 installer
 installers
-installoffice
-installofficertool
 installwindows
 instance
 instant
@@ -3211,6 +3207,7 @@ iothub
 iothubproperties
 ip
 ip-address
+ip-scanner
 ipa
 ipaddress
 ipam
@@ -3297,7 +3294,6 @@ jnet
 jnetps
 joat
 job
-jobcan
 jobs
 jobscheduler
 johnshopkins
@@ -3305,6 +3301,7 @@ join
 join-object
 jojoba
 joke
+jotform
 journal
 joyride
 jpg
@@ -3444,6 +3441,8 @@ laps
 laragon
 laserbeams
 last
+last.fm
+lastfm
 lastlogon
 lastpass
 latency
@@ -3583,6 +3582,7 @@ log-mail
 log-mails
 log-management
 log-rotation
+log4net
 loganalytics
 logbook
 logcat
@@ -3790,6 +3790,7 @@ media
 mediant
 mediaplayer
 mediaservices
+mediawiki
 meditation
 meeting
 meetup
@@ -4137,6 +4138,7 @@ networkloadbalancer
 networkpolicyserver
 networkscan
 networksecurity
+networksecuritygroup
 networkshares
 netwrix
 new
@@ -4174,7 +4176,6 @@ ninjaone
 ninjarmm
 nios
 nitrox
-njclipsh
 nl
 nla
 nlm
@@ -4215,6 +4216,7 @@ nprintingapi
 nps
 npslog
 npslogfile
+nql
 nrc
 nrql
 ns
@@ -4355,6 +4357,7 @@ onyphe
 onyphe.io
 oob
 oop
+op
 opa
 opc
 open
@@ -4705,6 +4708,7 @@ popd
 population
 popup
 port
+port-scanner
 port70
 portal
 ports
@@ -4719,6 +4723,7 @@ posh-chocobear
 posh-direnv
 posh-git
 posh-ribbon
+posh-ssh
 poshbot
 poshcommence
 poshevents
@@ -4740,7 +4745,9 @@ postgresql
 pow
 powdrgit
 power
+power-apps
 power-cbr
+power-platform
 power-shell
 powerapps
 powerappsportal
@@ -4996,6 +5003,7 @@ psedition_psedition_core
 psedition_psedition_desktop
 psedition_windows
 psedition-desktop
+psediton_desktop
 psenv
 pses
 psexcel
@@ -5011,7 +5019,6 @@ psgallery
 psget
 psgitlab
 psgraph
-psgraylog
 pshot
 pshtml
 psincludes_cmdlet
@@ -5217,6 +5224,7 @@ raspberrypi
 raspbian
 rate
 rate-limit
+rates
 rating
 ratings
 ravendb
@@ -5634,7 +5642,6 @@ screencapture
 screenconnect
 screenfetch
 screenresolution
-screensaver
 screenshot
 script
 script_version
@@ -5818,6 +5825,7 @@ sets
 setting
 settings
 setup
+setupbase.certificate
 setupbase.env
 setupbase.install
 setupbase.publish
@@ -5968,6 +5976,9 @@ smorgasbord
 sms
 smtp
 smtpaddressupdate psmodule
+smtpauth
+smtpoauth
+smtpsasl
 smtpsecure
 snap
 snapchat
@@ -6243,7 +6254,6 @@ stripe
 strongname
 structure
 sts
-stt
 studio
 style
 su
@@ -6483,7 +6493,6 @@ testusers
 text
 text-to-image
 text-to-speach"
-text-to-speech
 text2image
 textanalysis
 textbuffer
@@ -6646,6 +6655,7 @@ trx
 ts
 tsa
 tsd
+tsheets
 tsqlbestpractice
 tst
 tst1
@@ -7322,6 +7332,7 @@ workrequests
 worksheet
 workshop
 workspace
+workspacemanager
 workspaceone
 workspaces
 workstation
