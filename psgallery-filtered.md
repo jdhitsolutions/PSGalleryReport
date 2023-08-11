@@ -3,6 +3,22 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [RiverMeadow.Development.Migrate](https://www.powershellgallery.com/Packages/RiverMeadow.Development.Migrate/1.0.116.281) | 1.0.116.281
+
+### Published: 08/11/2023 08:53:51 by RiverMeadow Engineering Team
+
+Provides cmdlets for starting migration of applications to supported clouds using the RiverMeadow platform.
+
+__Downloads__: 371 | __Repository__: https://migrate.rivermeadow.com/
+
+## [HuduAPI](https://www.powershellgallery.com/Packages/HuduAPI/2.4.6) | 2.4.6
+
+### Published: 08/11/2023 03:32:56 by Luke Whitelock
+
+This module provides an interface to the Hudu Rest API further information can be found at https://github.com/lwhitelock/HuduAPI
+
+__Downloads__: 553,190 | __Repository__: 
+
 ## [AnyChain](https://www.powershellgallery.com/Packages/AnyChain/2.5.1) | 2.5.1
 
 ### Published: 08/10/2023 23:59:40 by Forte Labs Inc Richard Andersen
@@ -85,6 +101,14 @@ JaapsTools
 
 __Downloads__: 503 | __Repository__: 
 
+## [finnget](https://www.powershellgallery.com/Packages/finnget/1.7) | 1.7
+
+### Published: 08/10/2023 13:00:16 by Aleksandre Nozadze(FinnTheHero)
+
+FinnGet is a Windows Powershell system information display tool
+
+__Downloads__: 8 | __Repository__: 
+
 ## [PPDM-pwsh](https://www.powershellgallery.com/Packages/PPDM-pwsh/19.14.20.64) | 19.14.20.64
 
 ### Published: 08/10/2023 12:03:08 by karsten.bott@dell.com
@@ -131,7 +155,7 @@ __Downloads__: 1,588,026 | __Repository__: https://github.com/MethodsAndPractice
 
 Query and Script Module for Oracle E1/JDE AIS.
 
-__Downloads__: 530 | __Repository__: https://celin.io/ais.pwsh/
+__Downloads__: 521 | __Repository__: https://celin.io/ais.pwsh/
 
 ## [Nevergreen](https://www.powershellgallery.com/Packages/Nevergreen/2308.1) | 2308.1
 
@@ -139,7 +163,7 @@ __Downloads__: 530 | __Repository__: https://celin.io/ais.pwsh/
 
 This module is an alternative to Evergreen, and allows you to find the latest version and download URL for various Windows apps. Evergreen uses API queries to obtain its data whereas this module is more focussed on web scraping. This is more prone to breaking when websites are changed, hence the name!
 
-__Downloads__: 59,586 | __Repository__: https://github.com/DanGough/Nevergreen
+__Downloads__: 59,488 | __Repository__: https://github.com/DanGough/Nevergreen
 
 ## [Harden-Windows-Security-Module](https://www.powershellgallery.com/Packages/Harden-Windows-Security-Module/0.0.7) | 0.0.7
 
@@ -159,7 +183,7 @@ __Downloads__: 59,586 | __Repository__: https://github.com/DanGough/Nevergreen
 
 💎 If you have any questions, requests, suggestions etc. about this module, please open a new Discussion or Issue on GitHub
 
-__Downloads__: 238 | __Repository__: https://github.com/HotCakeX/Harden-Windows-Security
+__Downloads__: 239 | __Repository__: https://github.com/HotCakeX/Harden-Windows-Security
 
 ## [WindowsUpdateSetting](https://www.powershellgallery.com/Packages/WindowsUpdateSetting/1.0.0) | 1.0.0
 
@@ -207,7 +231,7 @@ __Downloads__: 13,456 | __Repository__: https://github.com/chris-peterson/pwsh-g
 
 Hot August Edition
 
-__Downloads__: 841,076 | __Repository__: https://github.com/OSDeploy/OSD
+__Downloads__: 841,159 | __Repository__: https://github.com/OSDeploy/OSD
 
 ## [PAF](https://www.powershellgallery.com/Packages/PAF/0.2.5) | 0.2.5
 
@@ -215,7 +239,7 @@ __Downloads__: 841,076 | __Repository__: https://github.com/OSDeploy/OSD
 
 The PowerShell Awesome Framework is a versatile and user-friendly PowerShell module that empowers users to streamline their scripting experience with a collection of useful code snippets. This framework is designed to enhance productivity and simplify the execution of various PowerShell tasks, making it a valuable tool for both beginners and experienced PowerShell users.
 
-__Downloads__: 50 | __Repository__: https://github.com/voytas75/PowershellFramework
+__Downloads__: 47 | __Repository__: https://github.com/voytas75/PowershellFramework
 
 ## [TrustyTools](https://www.powershellgallery.com/Packages/TrustyTools/1.0.0) | 1.0.0
 
@@ -232,14 +256,6 @@ __Downloads__: 10 | __Repository__: https://github.com/TrustyTristan/TrustyTools
 A module containing helper functions for common tasks involving Azure AD and M365
 
 __Downloads__: 19 | __Repository__: 
-
-## [PSSymantecCloud](https://www.powershellgallery.com/Packages/PSSymantecCloud/0.73.1) | 0.73.1
-
-### Published: 08/09/2023 10:59:31 by Aurélien BOUMANNE
-
-Common set of tools to interact with Symantec/Broadcom API for SEP Cloud
-
-__Downloads__: 37 | __Repository__: https://github.com/Douda/PSSymantecCloud
 
 ## [TM-DockerUtility](https://www.powershellgallery.com/Packages/TM-DockerUtility/0.0.7) | 0.0.7
 
@@ -263,7 +279,7 @@ __Downloads__: 55 | __Repository__:
 
 Module for installing basic programs: This module provides functions for downloading installers from specified links, installing the programs, verifying the installed programs/services, and cleaning up the installer files.
 
-__Downloads__: 102,335 | __Repository__: 
+__Downloads__: 102,338 | __Repository__: 
 
 ## [MepAppsPowerTools](https://www.powershellgallery.com/Packages/MepAppsPowerTools/1.1.2) | 1.1.2
 
@@ -271,7 +287,7 @@ __Downloads__: 102,335 | __Repository__:
 
 Tools To Help With MEP Related Development Tasks
 
-__Downloads__: 46 | __Repository__: 
+__Downloads__: 45 | __Repository__: 
 
 ## [OCI.PSModules](https://www.powershellgallery.com/Packages/OCI.PSModules/65.0.0) | 65.0.0
 
@@ -288,7 +304,7 @@ __Downloads__: 2,576 | __Repository__: https://github.com/oracle/oci-powershell-
 
 PSTeams is a PowerShell Module working on Windows / Linux and Mac. It allows sending notifications to Microsoft Teams via WebHook Notifications. It's pretty flexible and provides a bunch of options. Initially, it only supported one sort of Team Cards but since version 2.X.X it supports Adaptive Cards, Hero Cards, List Cards, and Thumbnail Cards. All those new cards have their own cmdlets and the old version of creating Teams Cards stays as-is for compatibility reasons.
 
-__Downloads__: 398,517 | __Repository__: https://github.com/EvotecIT/PSTeams
+__Downloads__: 398,532 | __Repository__: https://github.com/EvotecIT/PSTeams
 
 ## [OCI.PSModules.Workrequests](https://www.powershellgallery.com/Packages/OCI.PSModules.Workrequests/65.0.0) | 65.0.0
 
@@ -672,7 +688,7 @@ __Downloads__: 1,491 | __Repository__: https://github.com/oracle/oci-powershell-
 
 This modules provides Cmdlets for OCI Mysql Service
 
-__Downloads__: 14,787 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+__Downloads__: 14,788 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
 ## [OCI.PSModules.Monitoring](https://www.powershellgallery.com/Packages/OCI.PSModules.Monitoring/65.0.0) | 65.0.0
 
@@ -1336,7 +1352,7 @@ __Downloads__: 28,823 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions that generate configuration scripts and manage FortiOS.
 
-__Downloads__: 7,865 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 7,866 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.VMWareAutomate](https://www.powershellgallery.com/Packages/AdminToolbox.VMWareAutomate/4.8.96) | 4.8.96
 
@@ -1400,7 +1416,7 @@ __Downloads__: 15,186 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Expedite simple ffmpeg actions
 
-__Downloads__: 15,096 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 15,097 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.Exchange](https://www.powershellgallery.com/Packages/AdminToolbox.Exchange/1.9.100) | 1.9.100
 
@@ -1616,7 +1632,7 @@ __Downloads__: 46 | __Repository__:
 
 Powershell module for creating and extracting 7-Zip archives
 
-__Downloads__: 11,474,199 | __Repository__: https://github.com/thoemmi/7Zip4Powershell
+__Downloads__: 11,473,093 | __Repository__: https://github.com/thoemmi/7Zip4Powershell
 
 ## [QuickFix](https://www.powershellgallery.com/Packages/QuickFix/0.2.1) | 0.2.1
 
@@ -1712,7 +1728,7 @@ __Downloads__: 18 | __Repository__:
 
 Mailozaurr is a PowerShell module that aims to provide SMTP, POP3, IMAP and few other ways to interact with Email. Underneath it uses MimeKit and MailKit and EmailValidation libraries written by Jeffrey Stedfast.
 
-__Downloads__: 864,490 | __Repository__: https://github.com/EvotecIT/MailoZaurr
+__Downloads__: 864,492 | __Repository__: https://github.com/EvotecIT/MailoZaurr
 
 ## [CoreePower.Lib](https://www.powershellgallery.com/Packages/CoreePower.Lib/0.0.2.4) | 0.0.2.4
 
@@ -1861,7 +1877,7 @@ __Downloads__: 719 | __Repository__: https://github.com/codaamok/PSFront
 
 This PowerShell module contains cmdlets for managing SolarWinds Orion.
 
-__Downloads__: 469,421 | __Repository__: https://github.com/solarwinds/OrionSDK
+__Downloads__: 469,427 | __Repository__: https://github.com/solarwinds/OrionSDK
 
 ## [RobocopyPS](https://www.powershellgallery.com/Packages/RobocopyPS/0.2.20) | 0.2.20
 
@@ -1949,7 +1965,7 @@ __Downloads__: 71 | __Repository__: https://github.com/CLEAResult/it.devops.psm.
 
 The Devolutions.PowerShell module is a set of cmdlets that allow administrators to manage Remote Desktop Manager, Devolutions Server and Devolutions Hub Business using PowerShell. This module provides a simple and consistent interface for interacting with these products, making it easy to automate various tasks, such as creating and managing connections, sessions, and credentials, configuring security settings, and generating reports. The module can be easily integrated with other PowerShell modules, allowing administrators to automate tasks across multiple products and platforms, streamline their workflows and increase efficiency.
 
-__Downloads__: 4,175 | __Repository__: 
+__Downloads__: 4,176 | __Repository__: 
 
 ## [AutoMatePS](https://www.powershellgallery.com/Packages/AutoMatePS/5.2.0) | 5.2.0
 
@@ -1965,7 +1981,7 @@ __Downloads__: 1,688 | __Repository__: https://github.com/AutomatePS/AutomatePS
 
 PowerShellAI Functions Module a PowerShell module designed to work as a bridge between PowerShell functions and OpenAI.
 
-__Downloads__: 965 | __Repository__: https://github.com/dfinke/PowerShellAI.Functions
+__Downloads__: 967 | __Repository__: https://github.com/dfinke/PowerShellAI.Functions
 
 ## [GraphTools](https://www.powershellgallery.com/Packages/GraphTools/0.0.9) | 0.0.9
 
@@ -1981,7 +1997,7 @@ __Downloads__: 33 | __Repository__: https://github.com/kevinblumenfeld/GraphTool
 
 Intersight Powershell module provides the cmdlets to manage, analyze, and automate the IT infrastructure in Intersight.
 
-__Downloads__: 3,596 | __Repository__: https://github.com/CiscoDevNet/intersight-powershell
+__Downloads__: 3,598 | __Repository__: https://github.com/CiscoDevNet/intersight-powershell
 
 ## [d365fo.tools](https://www.powershellgallery.com/Packages/d365fo.tools/0.7.1) | 0.7.1
 
@@ -1989,15 +2005,7 @@ __Downloads__: 3,596 | __Repository__: https://github.com/CiscoDevNet/intersight
 
 A set of tools that will assist you when working with Dynamics 365 Finance & Operations development / demo machines.
 
-__Downloads__: 168,826 | __Repository__: https://github.com/d365collaborative/d365fo.tools
-
-## [RiverMeadow.Development.Migrate](https://www.powershellgallery.com/Packages/RiverMeadow.Development.Migrate/1.0.116.279) | 1.0.116.279
-
-### Published: 08/03/2023 07:43:39 by RiverMeadow Engineering Team
-
-Provides cmdlets for starting migration of applications to supported clouds using the RiverMeadow platform.
-
-__Downloads__: 371 | __Repository__: https://migrate.rivermeadow.com/
+__Downloads__: 168,831 | __Repository__: https://github.com/d365collaborative/d365fo.tools
 
 ## [PsSqlClient](https://www.powershellgallery.com/Packages/PsSqlClient/2.1.0) | 2.1.0
 
@@ -2013,7 +2021,7 @@ __Downloads__: 7,071 | __Repository__: https://abbgrade.github.io/PsSqlClient/
 
 Helper module for Active Directory with lots of useful functions that simplify supporting Active Directory.
 
-__Downloads__: 150,682 | __Repository__: https://github.com/EvotecIT/ADEssentials
+__Downloads__: 150,680 | __Repository__: https://github.com/EvotecIT/ADEssentials
 
 ## [DattoAPI](https://www.powershellgallery.com/Packages/DattoAPI/2.0.1) | 2.0.1
 
@@ -2039,12 +2047,4 @@ PowerShell functions for administration of Microsoft 365 services using Graph en
 
 __Downloads__: 56 | __Repository__: https://github.com/themodulecollective/OGraph
 
-## [PSDetour](https://www.powershellgallery.com/Packages/PSDetour/0.4.1) | 0.4.1
-
-### Published: 08/03/2023 00:25:44 by Jordan Borean
-
-Hook Win32 APIs in PowerShell.`nSee https://github.com/jborean93/PSDetour for more info
-
-__Downloads__: 138 | __Repository__: https://github.com/jborean93/PSDetour
-
-*Updated: Friday, 11 August 2023 02:01:42 UTC*
+*Updated: Friday, 11 August 2023 09:53:31 UTC*

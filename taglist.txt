@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Friday, 11 August 2023 02:02:00 UTC
+Updated: Friday, 11 August 2023 09:53:47 UTC
 
 .bat
 .env
@@ -121,6 +121,7 @@ activedirectry-html
 activeefficiency
 activehours
 activeresponse
+activesession
 activiti
 activity
 activitycount
@@ -366,7 +367,6 @@ appcmd
 appconfiguration
 appdynamics
 appearance
-appender
 appian
 appinsights
 applayering
@@ -852,7 +852,6 @@ britannicaknowledgesystems
 british-gas
 brk4452
 broadcast
-broadcom
 broot
 brownserve-uk
 browser
@@ -882,6 +881,7 @@ builds
 buildtool
 bulk
 bulletin
+bullhorn
 bundle
 bup
 burpsuite
@@ -890,11 +890,13 @@ business
 businesscentral
 businessdays
 businesshours
+businessobjects
 businessrulesengine
 businesstime
 bxor
 bydesign
 byexample
+bynarypsmodule
 byovd
 byte
 bytearray
@@ -911,7 +913,6 @@ calculator
 calendar
 callingcode
 callqueue
-calvin-and-hobbes
 cam
 camera
 campaign
@@ -1326,6 +1327,7 @@ connectedmachine
 connectednetwork
 connectexchange
 connection
+connectionmonitor
 connections
 connectionsmanager
 connectionstring
@@ -1479,7 +1481,6 @@ crossover
 crossplatform
 crossplatformdevelopment
 crowdstrike
-crt.sh
 crud
 crypto
 cryptocompare
@@ -1498,7 +1499,6 @@ csv2adx
 csvhelper
 ctf
 ctglobal
-ctl
 ctrl+c
 ctx
 ctype
@@ -1865,6 +1865,7 @@ dnsdumpster
 dnsentry
 dnsimple
 dnslookup
+dnsmadeeasy
 dnsoverhttps
 dnsrecord
 dnsresolver
@@ -2063,6 +2064,7 @@ elevate
 elevated
 elevatedconsole
 elevatedmode
+elgato
 elk
 elm
 elmah-io
@@ -2163,7 +2165,6 @@ escapesequences
 escaping
 ese
 esent
-esoteric
 esp
 esp-idf
 esp32
@@ -2205,6 +2206,7 @@ eventlogchannel
 eventlogchannels
 eventlogmanifest
 eventlogs
+eventmonitor
 eventmonitoring
 eventprocessor
 events
@@ -2784,6 +2786,7 @@ hack
 hacking
 hacktoberfest
 hadoop
+hafr
 hailstone
 haipa
 halo
@@ -3093,7 +3096,6 @@ indexdb
 indicator
 inedo
 inetfwrule
-infinity
 influx
 influxdb
 info
@@ -3303,7 +3305,6 @@ join
 join-object
 jojoba
 joke
-jotform
 journal
 joyride
 jpg
@@ -3443,8 +3444,6 @@ laps
 laragon
 laserbeams
 last
-last.fm
-lastfm
 lastlogon
 lastpass
 latency
@@ -3584,7 +3583,6 @@ log-mail
 log-mails
 log-management
 log-rotation
-log4net
 loganalytics
 logbook
 logcat
@@ -3636,6 +3634,7 @@ longfiles
 longitude
 look
 lookup
+loop
 loopback
 loremipsum
 love
@@ -3728,6 +3727,7 @@ mariadb
 mark
 markdig
 markdown
+markdownrender
 marketing
 marketo
 marketplace
@@ -4137,7 +4137,6 @@ networkloadbalancer
 networkpolicyserver
 networkscan
 networksecurity
-networksecuritygroup
 networkshares
 netwrix
 new
@@ -4216,7 +4215,6 @@ nprintingapi
 nps
 npslog
 npslogfile
-nql
 nrc
 nrql
 ns
@@ -4357,7 +4355,6 @@ onyphe
 onyphe.io
 oob
 oop
-op
 opa
 opc
 open
@@ -4521,6 +4518,7 @@ partition
 partitions
 partner
 partnercenter
+partnerportal
 pas
 pass
 passcode
@@ -4721,7 +4719,6 @@ posh-chocobear
 posh-direnv
 posh-git
 posh-ribbon
-posh-ssh
 poshbot
 poshcommence
 poshevents
@@ -4743,9 +4740,7 @@ postgresql
 pow
 powdrgit
 power
-power-apps
 power-cbr
-power-platform
 power-shell
 powerapps
 powerappsportal
@@ -5001,7 +4996,6 @@ psedition_psedition_core
 psedition_psedition_desktop
 psedition_windows
 psedition-desktop
-psediton_desktop
 psenv
 pses
 psexcel
@@ -5223,7 +5217,6 @@ raspberrypi
 raspbian
 rate
 rate-limit
-rates
 rating
 ratings
 ravendb
@@ -5244,6 +5237,7 @@ rdg
 rdl
 rdm
 rdp
+rdpsession
 rdpsign
 rds
 rdsgw
@@ -5350,7 +5344,9 @@ remotedesktopservices
 remotefiles
 remoteforensics
 remotehost
+remotelogoff
 remotemanagement
+remotesession
 remoting
 remove
 remove-githubsecrets
@@ -5822,7 +5818,6 @@ sets
 setting
 settings
 setup
-setupbase.certificate
 setupbase.env
 setupbase.install
 setupbase.publish
@@ -5973,9 +5968,6 @@ smorgasbord
 sms
 smtp
 smtpaddressupdate psmodule
-smtpauth
-smtpoauth
-smtpsasl
 smtpsecure
 snap
 snapchat
@@ -6424,6 +6416,7 @@ team
 teamcity
 teamfoundationserver
 teams
+teamsdevices
 teamservices
 teamspolicy
 teamviewer
@@ -6618,7 +6611,6 @@ translation
 translit
 transliteration
 transmission
-transparency
 transpilation
 trap
 travel
@@ -6654,7 +6646,6 @@ trx
 ts
 tsa
 tsd
-tsheets
 tsqlbestpractice
 tst
 tst1
@@ -6974,6 +6965,7 @@ virtualenvironment
 virtualenvwrapper
 virtualization
 virtualmachine
+virtualmachinemonitor
 virtualmachines
 virtualmachne
 virtualnetwork
