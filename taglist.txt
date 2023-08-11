@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Thursday, 10 August 2023 17:54:06 UTC
+Updated: Friday, 11 August 2023 02:02:00 UTC
 
 .bat
 .env
@@ -54,6 +54,7 @@ Updated: Thursday, 10 August 2023 17:54:06 UTC
 8ball
 9
 aa
+aac
 aad
 aad-graph
 aadc
@@ -120,7 +121,6 @@ activedirectry-html
 activeefficiency
 activehours
 activeresponse
-activesession
 activiti
 activity
 activitycount
@@ -247,6 +247,7 @@ aks
 aks-hci
 akscluster
 al
+alac
 alarm
 alb
 albums
@@ -342,7 +343,6 @@ api-client
 api-gateway
 api-rest
 apichecks
-apiclient
 apigateway
 apigee
 apigeeedge
@@ -882,7 +882,6 @@ builds
 buildtool
 bulk
 bulletin
-bullhorn
 bundle
 bup
 burpsuite
@@ -891,7 +890,6 @@ business
 businesscentral
 businessdays
 businesshours
-businessobjects
 businessrulesengine
 businesstime
 bxor
@@ -1328,7 +1326,6 @@ connectedmachine
 connectednetwork
 connectexchange
 connection
-connectionmonitor
 connections
 connectionsmanager
 connectionstring
@@ -1419,6 +1416,7 @@ counter
 countries
 country
 countrycode
+cover
 coverage
 coveralls
 coveralls.io
@@ -1448,6 +1446,7 @@ creationworkflowsimplification
 creator
 cred
 credential
+credential-dialog
 credential-file
 credential-files
 credential-manager
@@ -1480,6 +1479,7 @@ crossover
 crossplatform
 crossplatformdevelopment
 crowdstrike
+crt.sh
 crud
 crypto
 cryptocompare
@@ -1498,6 +1498,7 @@ csv2adx
 csvhelper
 ctf
 ctglobal
+ctl
 ctrl+c
 ctx
 ctype
@@ -1515,6 +1516,7 @@ currency-convereter
 currency-exchange
 currencyconverterapi
 current
+curseforge
 custom
 customchecks
 customdns
@@ -2030,6 +2032,7 @@ easyvista
 eaton
 ebay
 ebooks
+ebur128
 ec2
 ecommerce
 ecovadis
@@ -2060,7 +2063,6 @@ elevate
 elevated
 elevatedconsole
 elevatedmode
-elgato
 elk
 elm
 elmah-io
@@ -2203,7 +2205,6 @@ eventlogchannel
 eventlogchannels
 eventlogmanifest
 eventlogs
-eventmonitor
 eventmonitoring
 eventprocessor
 events
@@ -2276,6 +2277,7 @@ exponentiation
 export
 export-cmhealthreport
 export-data
+export-passlist
 exportcertificate
 exportcertificates
 exporter
@@ -2441,6 +2443,7 @@ fix-log
 fix-protocol
 fixlet
 fixpack
+flac
 flash
 flasharray
 flashblade
@@ -2626,7 +2629,9 @@ get-history
 get-iislog
 get-openfile
 get-openfiles
+get-pass
 get-passivetrippoint
+get-passlist
 get-path
 get-pinneditem
 get-samcmassignedsite
@@ -2779,7 +2784,6 @@ hack
 hacking
 hacktoberfest
 hadoop
-hafr
 hailstone
 haipa
 halo
@@ -3006,6 +3010,7 @@ icraftsoftware
 ics
 icws
 id
+id3
 idabus
 ide
 identifier
@@ -3071,6 +3076,7 @@ import
 import-csv
 import-dtdriverpackpackagedefinitionsms
 import-modulefrompath
+import-passlist
 import-sampackagedefinitionsms
 importer
 importexport
@@ -3203,10 +3209,10 @@ iothub
 iothubproperties
 ip
 ip-address
-ip-scanner
 ipa
 ipaddress
 ipam
+ipbroadcast
 ipc
 ipcalc
 ipcalculator
@@ -3423,6 +3429,7 @@ labtest
 labworker
 lake
 lambda
+lame
 lametrictime
 lamp
 lan
@@ -3629,7 +3636,6 @@ longfiles
 longitude
 look
 lookup
-loop
 loopback
 loremipsum
 love
@@ -3722,7 +3728,6 @@ mariadb
 mark
 markdig
 markdown
-markdownrender
 marketing
 marketo
 marketplace
@@ -4301,6 +4306,7 @@ officertool
 offline
 offlinewimservicing
 ofx
+ogg
 oh-my-posh
 oh-my-zsh
 oidc
@@ -4351,6 +4357,7 @@ onyphe
 onyphe.io
 oob
 oop
+op
 opa
 opc
 open
@@ -4396,6 +4403,7 @@ optimizer
 option
 options
 optionstring
+opus
 oracle
 oraclecloudinfrastructure
 orbital
@@ -4513,7 +4521,6 @@ partition
 partitions
 partner
 partnercenter
-partnerportal
 pas
 pass
 passcode
@@ -4700,7 +4707,6 @@ popd
 population
 popup
 port
-port-scanner
 port70
 portal
 ports
@@ -4995,6 +5001,7 @@ psedition_psedition_core
 psedition_psedition_desktop
 psedition_windows
 psedition-desktop
+psediton_desktop
 psenv
 pses
 psexcel
@@ -5237,7 +5244,6 @@ rdg
 rdl
 rdm
 rdp
-rdpsession
 rdpsign
 rds
 rdsgw
@@ -5344,12 +5350,11 @@ remotedesktopservices
 remotefiles
 remoteforensics
 remotehost
-remotelogoff
 remotemanagement
-remotesession
 remoting
 remove
 remove-githubsecrets
+remove-pass
 remove-path
 remove-pinneditem
 remove-tempfiles
@@ -5361,6 +5366,7 @@ reparsepoint
 repeat
 repl
 replace
+replaygain
 replication
 repoo
 report
@@ -5806,8 +5812,10 @@ set-githubsecrets
 set-location
 set-openfiles
 set-ownership
+set-pass
 set-psbreakpoint
 set-psenv
+set-randompass
 set-type
 setbios
 sets
@@ -5877,6 +5885,7 @@ shotgun
 show
 show-command
 show-on-command
+showdemo
 showoncommand
 shred
 shutdown
@@ -6415,7 +6424,6 @@ team
 teamcity
 teamfoundationserver
 teams
-teamsdevices
 teamservices
 teamspolicy
 teamviewer
@@ -6541,6 +6549,8 @@ tinymce
 tips
 title
 tls
+tls11
+tls12
 tlsprotocol
 to-do
 toast
@@ -6608,6 +6618,7 @@ translation
 translit
 transliteration
 transmission
+transparency
 transpilation
 trap
 travel
@@ -6732,6 +6743,7 @@ ud-slider
 ud-speechbubble
 ud-step
 ud-stepbar
+ud-stickynavbar
 ud-tagcloud
 ud-timeline
 ud-timeout
@@ -6744,6 +6756,7 @@ ud-wordtree
 udcm
 udfeedback
 udp
+udpclient
 udptest
 udr
 udthememode
@@ -6961,7 +6974,6 @@ virtualenvironment
 virtualenvwrapper
 virtualization
 virtualmachine
-virtualmachinemonitor
 virtualmachines
 virtualmachne
 virtualnetwork
@@ -7022,6 +7034,7 @@ volta
 volume
 volumeshadowcopy
 volumio
+vorbis
 vovin
 vpas
 vpasmodule
