@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Saturday, 12 August 2023 09:52:52 UTC
+Updated: Saturday, 12 August 2023 17:53:28 UTC
 
 .bat
 .env
@@ -344,7 +344,6 @@ api-client
 api-gateway
 api-rest
 apichecks
-apiclient
 apigateway
 apigee
 apigeeedge
@@ -360,7 +359,6 @@ aportal
 app
 app-only
 app-v
-app-volumes
 app.config
 appattach
 appclusive
@@ -395,7 +393,6 @@ appservices
 appsetting
 appv
 appveyor
-appvolumes
 appx
 appxmanifest
 aprs
@@ -782,6 +779,7 @@ bitcoin
 bitlocker
 bitwarden
 bitwig
+bitwise
 biztalk
 biztalkalm
 biztalkdeploymentframework
@@ -883,7 +881,9 @@ builds
 buildtool
 bulk
 bulletin
+bullhorn
 bundle
+bup
 burpsuite
 bus
 business
@@ -893,6 +893,7 @@ businesshours
 businessobjects
 businessrulesengine
 businesstime
+bxor
 bydesign
 byexample
 bynarypsmodule
@@ -1581,8 +1582,6 @@ data_protection
 data-archive
 data-backup
 data-tier
-data-uri
-data-uri-converter
 database
 database-migrations
 databaseautomation
@@ -2065,6 +2064,7 @@ elevate
 elevated
 elevatedconsole
 elevatedmode
+elgato
 elk
 elm
 elmah-io
@@ -2076,6 +2076,7 @@ emacs
 email
 email-address
 emailaddressupdate
+emailautomation
 emailmanagment
 emailnotification
 emailnotificationcomponent
@@ -2420,6 +2421,7 @@ find
 find-call
 find-caller
 find-file
+find-path
 finddownloadlinkfromwebsite
 findfile
 findlocation
@@ -2632,6 +2634,7 @@ get-openfiles
 get-pass
 get-passivetrippoint
 get-passlist
+get-path
 get-pinneditem
 get-samcmassignedsite
 get-samcmcurrentmanagementpoint
@@ -2905,7 +2908,6 @@ homelandsecurity
 homeschooling
 hon
 hooking
-horizon
 horizontal
 hornbill
 host
@@ -3013,6 +3015,7 @@ id
 id3
 idabus
 ide
+identifier
 identity
 identity-management
 identitydataplane
@@ -3044,7 +3047,6 @@ ilo5
 ilocmdlets
 im
 image
-image-converter
 image-creation
 image-generation
 image-process
@@ -3402,7 +3404,6 @@ kubectl
 kubectx
 kubens
 kubernetes
-kubernetesconfiguration
 kubespray
 kudu
 kurukuru
@@ -3505,8 +3506,6 @@ lifequotes
 lifestyle
 light
 lights
-lime
-limesurvey
 limit-job
 limits
 lina
@@ -3763,6 +3762,7 @@ mb
 mbc
 mbs
 mc
+mcafee
 mcas
 mchapv2
 mct
@@ -4312,6 +4312,7 @@ oidc
 ok
 okta
 old
+ole
 oledb
 omaha
 ome
@@ -4846,7 +4847,6 @@ presentation
 presenter
 presto
 preston-k-parsard
-prettifier
 pretty
 prettyprinter
 preview
@@ -4895,7 +4895,6 @@ profile
 profiler
 profiles
 proget
-program
 program-association
 programs
 progress
@@ -4983,7 +4982,6 @@ psdesiredstateconfiguration
 psdevops
 psdocs
 psdocs-documents
-psdocsgenerator
 psdrawio
 psdrive
 psdrives
@@ -5059,6 +5057,7 @@ psprojectcreator
 psprojectgenerator
 psprovider
 psprtg
+pspublicapi
 psql
 psraw
 psreadexif
@@ -5101,6 +5100,7 @@ pubg
 public
 public-key
 public-transport
+publicapi
 publicclient
 publicfolder
 publicip
@@ -5174,7 +5174,7 @@ qrs
 quality
 qualys
 quandl
-quantum
+quarantine
 queries
 query
 queue
@@ -5310,6 +5310,7 @@ regex
 region
 regions
 regiser-argumentcompleter
+register
 register-argumentcompleter
 registration
 registry
@@ -5353,6 +5354,7 @@ remoting
 remove
 remove-githubsecrets
 remove-pass
+remove-path
 remove-pinneditem
 remove-tempfiles
 removetypeaccelerators
@@ -6073,6 +6075,7 @@ spellcheck
 spelling
 spf
 spi
+spicetify
 spinnaker
 splash
 splat
@@ -6291,7 +6294,6 @@ support-tools
 suppress
 supress-reboot
 surround
-survey
 surveymonkey
 sushi
 suspensive
@@ -6409,6 +6411,7 @@ tcp
 tcp/ip
 tcpip
 tcpport
+tcprjmgmt
 tcpserver
 tcptest
 tcx
@@ -6779,7 +6782,6 @@ unified
 unifiedauditlog
 unifiedlabeling
 uninstall
-uninstaller
 union
 unique
 unique-files
@@ -6823,6 +6825,7 @@ ups
 upsource
 upstream
 uptime
+uptimerobot
 uptobox
 uri
 uri-scheme
@@ -6873,6 +6876,7 @@ uudecode
 uuencode
 uuid
 uup
+uw
 uwp
 ux
 vaas
@@ -7025,6 +7029,7 @@ voiceconfig
 voiceservices
 voidtools
 volkskrant
+volta
 volume
 volumeshadowcopy
 volumio
@@ -7281,6 +7286,11 @@ winui
 wireless
 wirelessnetwork
 wireshark
+wisc
+wiscmail
+wisco365
+wisconsin-madison
+wisconsin'uw-madison
 wisdom
 with
 wizard
@@ -7342,6 +7352,7 @@ write-color
 write-colour
 write-debug
 write-host
+write-information
 write-log
 write-loganalytics
 write-message
@@ -7411,6 +7422,7 @@ xmla
 xmlrpc
 xmlutils
 xoauth2
+xor
 xpath
 xpendingreboot
 xpertdoc
