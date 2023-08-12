@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Friday, 11 August 2023 17:52:58 UTC
+Updated: Saturday, 12 August 2023 02:00:22 UTC
 
 .bat
 .env
@@ -71,6 +71,7 @@ abc_testing
 abe
 about
 abr
+abstractsyntaxtree
 abuse
 abuseipdb
 acas
@@ -208,6 +209,7 @@ advice
 advisor
 adwords
 adx
+adxingestion
 aem
 aeries
 aeriessis
@@ -265,6 +267,7 @@ alias
 alias-hint
 alias-tips
 aliases
+aliens
 all
 alletra
 alloydb
@@ -826,7 +829,6 @@ bop
 bot
 bots
 botservice
-bouncer
 boundaries
 boundarygroups
 bounty
@@ -881,7 +883,6 @@ builds
 buildtool
 bulk
 bulletin
-bullhorn
 bundle
 bup
 burpsuite
@@ -920,7 +921,6 @@ campaign
 camtasia
 canarie
 cancel
-cancellation
 canonical
 cantara
 capability
@@ -1428,8 +1428,6 @@ covid-19
 cpm
 cppm
 cpu
-cpuid
-cpuid-information
 cq
 cqd
 cqdpowershell
@@ -1482,6 +1480,7 @@ crossover
 crossplatform
 crossplatformdevelopment
 crowdstrike
+crt.sh
 crud
 crypto
 cryptocompare
@@ -1496,10 +1495,11 @@ csp
 csproj
 css
 csv
+csv2adx
 csvhelper
 ctf
 ctglobal
-ctrl+c
+ctl
 ctx
 ctype
 cubes
@@ -1923,6 +1923,8 @@ downloadfacebookvideo
 downloadfilefromsite
 downloadinfo
 downloading
+downloadoffice
+downloadofficertool
 downloads
 downloadyoutubevideo
 dpa
@@ -2035,6 +2037,7 @@ ebur128
 ec2
 ecommerce
 ecovadis
+edgaronline
 edge
 edgebackup
 edgeexport
@@ -2310,7 +2313,6 @@ factoryorchestrator
 factoryorchestratorclient
 facts
 faf
-failedlogin
 failure
 falcon
 fallbackstatuspoint
@@ -2561,6 +2563,7 @@ gainz-keepass
 gainz-sqldb
 gallery
 game
+gamecategory:cards
 games
 gameserver
 gaming
@@ -2605,7 +2608,6 @@ geolocation
 geosearching
 geotagging
 get
-get_random_password
 get-admodernreport
 get-childitem
 get-cmhealthcheck
@@ -3023,7 +3025,6 @@ identitynow
 idf
 idm
 idna
-ids
 ie
 iem
 ifconfig
@@ -3140,6 +3141,8 @@ installationmanager
 installedapplications
 installer
 installers
+installoffice
+installofficertool
 installwindows
 instance
 instant
@@ -3261,7 +3264,6 @@ iterate
 iteration
 itg
 itglue
-itin
 itop
 itsm
 itstore
@@ -3294,6 +3296,7 @@ jnet
 jnetps
 joat
 job
+jobcan
 jobs
 jobscheduler
 johnshopkins
@@ -3461,7 +3464,6 @@ lccn
 lcm
 lcminternals
 ldap
-leafs
 league
 lean
 learn
@@ -3780,7 +3782,6 @@ mdm
 mdop
 mdt
 mdx
-me4024
 mean
 measure
 measure-loc
@@ -4176,6 +4177,7 @@ ninjaone
 ninjarmm
 nios
 nitrox
+njclipsh
 nl
 nla
 nlm
@@ -4217,7 +4219,6 @@ nps
 npslog
 npslogfile
 nql
-nrc
 nrql
 ns
 ns.nl
@@ -4373,7 +4374,6 @@ openhere
 openid
 openidconnect
 openinghours
-openport
 openprovider
 openscad
 opensearch
@@ -4530,7 +4530,6 @@ passphrase
 passphraser passphrase password generator entropy
 passwd
 password
-password_generation
 password-generator
 password-less
 password-manager
@@ -4546,7 +4545,6 @@ passwordmanagement
 passwordmanager
 passwords
 passwordsecure
-passwordspray
 passwordstate
 passwordtool
 passwordvault
@@ -5019,6 +5017,7 @@ psgallery
 psget
 psgitlab
 psgraph
+psgraylog
 pshot
 pshtml
 psincludes_cmdlet
@@ -5060,7 +5059,6 @@ psprojectcreator
 psprojectgenerator
 psprovider
 psprtg
-pspublicapi
 psql
 psraw
 psreadexif
@@ -5103,7 +5101,6 @@ pubg
 public
 public-key
 public-transport
-publicapi
 publicclient
 publicfolder
 publicip
@@ -5565,7 +5562,6 @@ saml psmodule
 saml2
 sample
 sampler
-san
 sandbox
 sanitization
 sanitizer
@@ -5642,6 +5638,7 @@ screencapture
 screenconnect
 screenfetch
 screenresolution
+screensaver
 screenshot
 script
 script_version
@@ -6140,7 +6137,6 @@ squire
 srcds
 srcsrv
 srm
-srylius-write
 ssas
 ssc
 ssdt
@@ -6254,6 +6250,7 @@ stripe
 strongname
 structure
 sts
+stt
 studio
 style
 su
@@ -6414,7 +6411,6 @@ taxonomy
 tcp
 tcp/ip
 tcpip
-tcpport
 tcprjmgmt
 tcpserver
 tcptest
@@ -6493,6 +6489,7 @@ testusers
 text
 text-to-image
 text-to-speach"
+text-to-speech
 text2image
 textanalysis
 textbuffer
@@ -6547,7 +6544,6 @@ timesheets
 timespan
 timezone
 tinkerpop
-tinymce
 tips
 title
 tls
@@ -6620,6 +6616,7 @@ translation
 translit
 transliteration
 transmission
+transparency
 transpilation
 trap
 travel
@@ -7085,7 +7082,6 @@ vvx
 vxrail
 w32time
 w365
-w3svc
 w3w
 waa
 waas
@@ -7276,7 +7272,6 @@ winform
 winforms
 winget
 wingetbridge
-winrar
 winrm
 winrs
 winrt

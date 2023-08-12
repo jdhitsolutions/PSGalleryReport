@@ -3,6 +3,61 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [Harden-Windows-Security-Module](https://www.powershellgallery.com/Packages/Harden-Windows-Security-Module/0.0.8) | 0.0.8
+
+### Published: 08/11/2023 23:11:43 by HotCakeX
+
+✅ This is a PowerShell module for Harden Windows Security script.
+✅ It offers System Compliance checking in addition to hardening.
+✅ You can check and validate a system to see whether it conforms to the Harden Windows Security guidelines or not.
+
+💠 The module generates a nice output on the screen as well as giving users an option to export the results in a CSV file.
+
+💠 If you use the "Protect-WindowsSecurity" Cmdlet, it will download and run the Harden Windows Security PowerShell script from the official repository
+
+🟡 Refer to this GitHub repository for more info: https://github.com/HotCakeX/Harden-Windows-Security
+
+🏴 Module's documentation: https://github.com/HotCakeX/Harden-Windows-Security/wiki/Harden%E2%80%90Windows%E2%80%90Security%E2%80%90Module
+
+💎 If you have any questions, requests, suggestions etc. about this module, please open a new Discussion or Issue on GitHub
+
+__Downloads__: 266 | __Repository__: https://github.com/HotCakeX/Harden-Windows-Security
+
+## [CoreePower.Lib](https://www.powershellgallery.com/Packages/CoreePower.Lib/0.0.2.5) | 0.0.2.5
+
+### Published: 08/11/2023 22:06:22 by Carsten Riedel
+
+The "CoreePower.Lib" module is the a part of the CoreePower project.
+It adds command-line programs like 7-Zip, Git, GitHub CLI, NuGet, dotnet, and Visual Studio Code from the original sources.
+See full readme at https://github.com/carsten-riedel/CoreePower.Lib/#readme
+Note: the "Initialize-CorePowerLatest" command may conflict with existing installations. Use with caution.
+
+__Downloads__: 763 | __Repository__: https://github.com/carsten-riedel/CoreePower.Lib
+
+## [AzWorkspaceManager](https://www.powershellgallery.com/Packages/AzWorkspaceManager/0.2.0) | 0.2.0
+
+### Published: 08/11/2023 21:49:19 by Rogier Dijkman
+
+Helper module to manage and configure Microsoft Sentinel workspace manager
+
+__Downloads__: 1 | __Repository__: https://github.com/securehats/AzWorkspaceManager
+
+## [AzureHelper](https://www.powershellgallery.com/Packages/AzureHelper/1.0.53) | 1.0.53
+
+### Published: 08/11/2023 19:09:24 by Paul Harrison
+
+This module provides cmdlets to help in daily work, find cost savings, and report on Azure Policy compliance
+
+__Downloads__: 2,141 | __Repository__: 
+
+## [PureStoragePowerShellSDK2](https://www.powershellgallery.com/Packages/PureStoragePowerShellSDK2/2.16.17.0) | 2.16.17.0
+
+### Published: 08/11/2023 18:29:18 by Pure Storage Inc.
+
+Pure Storage FlashArray REST 2.16 API integration with Windows PowerShell.
+
+__Downloads__: 6,559 | __Repository__: https://github.com/PureStorage-Connect/PowerShellSDK2
+
 ## [QuantaStor.PowerShell](https://www.powershellgallery.com/Packages/QuantaStor.PowerShell/6.1.6) | 6.1.6
 
 ### Published: 08/11/2023 17:29:44 by osnexus
@@ -10,14 +65,6 @@ These are the latest 250 modules published to the [PowerShell Gallery](https://p
 PowerShell module for OSNexus QuantaStor
 
 __Downloads__: 116 | __Repository__: 
-
-## [AnyChain](https://www.powershellgallery.com/Packages/AnyChain/2.5.1.2) | 2.5.1.2
-
-### Published: 08/11/2023 17:25:41 by Forte Labs Inc Richard Andersen
-
-Provides access to the Forte AnyChain API service.
-
-__Downloads__: 1 | __Repository__: https://github.com/fortelabsinc/AnyChainPSModule
 
 ## [finnget](https://www.powershellgallery.com/Packages/finnget/1.8) | 1.8
 
@@ -43,14 +90,6 @@ A set of functions for managing websites built on the DNN Platform.
 
 __Downloads__: 1,648 | __Repository__: https://github.com/bdukes/PowerShellModules
 
-## [AzWorkspaceManager](https://www.powershellgallery.com/Packages/AzWorkspaceManager/0.1.3) | 0.1.3
-
-### Published: 08/11/2023 15:12:58 by Rogier Dijkman
-
-Helper module to manage and configure Microsoft Sentinel workspace manager
-
-__Downloads__: 1 | __Repository__: https://github.com/securehats/AzWorkspaceManager
-
 ## [tcdbtools](https://www.powershellgallery.com/Packages/tcdbtools/1.0.54) | 1.0.54
 
 ### Published: 08/11/2023 15:12:12 by Tim Cartwright
@@ -66,6 +105,14 @@ __Downloads__: 432 | __Repository__: https://github.com/tcartwright/tcdbtools
 A PowerShell wrapper for Chocolatey
 
 __Downloads__: 959 | __Repository__: https://github.com/regg00/ChocoMan
+
+## [ExchangeEssentials](https://www.powershellgallery.com/Packages/ExchangeEssentials/0.4.0) | 0.4.0
+
+### Published: 08/11/2023 14:22:35 by Przemyslaw Klys
+
+ExchangeEssentials
+
+__Downloads__: 18 | __Repository__: https://github.com/EvotecIT/ExchangeEssentials
 
 ## [BitwardenPS](https://www.powershellgallery.com/Packages/BitwardenPS/1.2.2) | 1.2.2
 
@@ -97,7 +144,7 @@ __Downloads__: 372 | __Repository__: https://migrate.rivermeadow.com/
 
 This module provides an interface to the Hudu Rest API further information can be found at https://github.com/lwhitelock/HuduAPI
 
-__Downloads__: 555,591 | __Repository__: 
+__Downloads__: 555,585 | __Repository__: 
 
 ## [Brownserve.PSTools](https://www.powershellgallery.com/Packages/Brownserve.PSTools/0.15.0) | 0.15.0
 
@@ -195,7 +242,7 @@ __Downloads__: 18 | __Repository__:
 
 Automation tools for production quality database deployment
 
-__Downloads__: 4,403,128 | __Repository__: https://www.red-gate.com/sca/productpage
+__Downloads__: 4,402,841 | __Repository__: https://www.red-gate.com/sca/productpage
 
 ## [VSTeam](https://www.powershellgallery.com/Packages/VSTeam/7.13.3) | 7.13.3
 
@@ -203,7 +250,7 @@ __Downloads__: 4,403,128 | __Repository__: https://www.red-gate.com/sca/productp
 
 Adds functionality for working with Azure DevOps and Team Foundation Server.
 
-__Downloads__: 1,589,950 | __Repository__: https://github.com/MethodsAndPractices/vsteam
+__Downloads__: 1,589,944 | __Repository__: https://github.com/MethodsAndPractices/vsteam
 
 ## [celin.ais.pwsh](https://www.powershellgallery.com/Packages/celin.ais.pwsh/1.0.6) | 1.0.6
 
@@ -221,26 +268,6 @@ This module is an alternative to Evergreen, and allows you to find the latest ve
 
 __Downloads__: 59,860 | __Repository__: https://github.com/DanGough/Nevergreen
 
-## [Harden-Windows-Security-Module](https://www.powershellgallery.com/Packages/Harden-Windows-Security-Module/0.0.7) | 0.0.7
-
-### Published: 08/09/2023 22:24:10 by HotCakeX
-
-✅ This is a PowerShell module for Harden Windows Security script.
-✅ It offers System Compliance checking in addition to hardening.
-✅ You can check and validate a system to see whether it conforms to the Harden Windows Security guidelines or not.
-
-💠 The module generates a nice output on the screen as well as giving users an option to export the results in a CSV file.
-
-💠 If you use the "Protect-WindowsSecurity" Cmdlet, it will download and run the Harden Windows Security PowerShell script from the official repository
-
-🟡 Refer to this GitHub repository for more info: https://github.com/HotCakeX/Harden-Windows-Security
-
-🏴 Module's documentation: https://github.com/HotCakeX/Harden-Windows-Security/wiki/Harden%E2%80%90Windows%E2%80%90Security%E2%80%90Module
-
-💎 If you have any questions, requests, suggestions etc. about this module, please open a new Discussion or Issue on GitHub
-
-__Downloads__: 266 | __Repository__: https://github.com/HotCakeX/Harden-Windows-Security
-
 ## [WindowsUpdateSetting](https://www.powershellgallery.com/Packages/WindowsUpdateSetting/1.0.0) | 1.0.0
 
 ### Published: 08/09/2023 20:47:52 by Jeff Hicks
@@ -255,7 +282,7 @@ __Downloads__: 1,071 | __Repository__: https://github.com/jdhitsolutions/Windows
 
 Lightweight army of helpers for general powershell activities
 
-__Downloads__: 4,800 | __Repository__: https://github.com/o-o00o-o/PSEasy.Utility
+__Downloads__: 4,802 | __Repository__: https://github.com/o-o00o-o/PSEasy.Utility
 
 ## [Nutstone.Devops](https://www.powershellgallery.com/Packages/Nutstone.Devops/1.0.10) | 1.0.10
 
@@ -287,7 +314,7 @@ __Downloads__: 13,463 | __Repository__: https://github.com/chris-peterson/pwsh-g
 
 Hot August Edition
 
-__Downloads__: 845,098 | __Repository__: https://github.com/OSDeploy/OSD
+__Downloads__: 845,058 | __Repository__: https://github.com/OSDeploy/OSD
 
 ## [PAF](https://www.powershellgallery.com/Packages/PAF/0.2.5) | 0.2.5
 
@@ -360,7 +387,7 @@ __Downloads__: 2,582 | __Repository__: https://github.com/oracle/oci-powershell-
 
 PSTeams is a PowerShell Module working on Windows / Linux and Mac. It allows sending notifications to Microsoft Teams via WebHook Notifications. It's pretty flexible and provides a bunch of options. Initially, it only supported one sort of Team Cards but since version 2.X.X it supports Adaptive Cards, Hero Cards, List Cards, and Thumbnail Cards. All those new cards have their own cmdlets and the old version of creating Teams Cards stays as-is for compatibility reasons.
 
-__Downloads__: 399,258 | __Repository__: https://github.com/EvotecIT/PSTeams
+__Downloads__: 399,249 | __Repository__: https://github.com/EvotecIT/PSTeams
 
 ## [OCI.PSModules.Workrequests](https://www.powershellgallery.com/Packages/OCI.PSModules.Workrequests/65.0.0) | 65.0.0
 
@@ -1408,7 +1435,7 @@ __Downloads__: 28,831 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions that generate configuration scripts and manage FortiOS.
 
-__Downloads__: 7,876 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 7,875 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.VMWareAutomate](https://www.powershellgallery.com/Packages/AdminToolbox.VMWareAutomate/4.8.96) | 4.8.96
 
@@ -1440,7 +1467,7 @@ __Downloads__: 15,802 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Network Troubleshooting Functions
 
-__Downloads__: 24,156 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 24,154 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.MSGraph](https://www.powershellgallery.com/Packages/AdminToolbox.MSGraph/1.2.99) | 1.2.99
 
@@ -1496,7 +1523,7 @@ __Downloads__: 16,738 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions for Active Directory
 
-__Downloads__: 18,318 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 18,319 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [ShaCrypt](https://www.powershellgallery.com/Packages/ShaCrypt/0.1) | 0.1
 
@@ -1512,7 +1539,7 @@ __Downloads__: 2 | __Repository__: https://github.com/thordreier/ShaCrypt
 
 This PS Module contains functions necessary to use 4PS general tasks
 
-__Downloads__: 4,662 | __Repository__: 
+__Downloads__: 4,663 | __Repository__: 
 
 ## [AsBuiltReport.NetApp.ONTAP](https://www.powershellgallery.com/Packages/AsBuiltReport.NetApp.ONTAP/0.6.6) | 0.6.6
 
@@ -1580,14 +1607,6 @@ This module contains tools to manage module dependencies.
 
 __Downloads__: 12 | __Repository__: https://github.com/FranciscoNabas/LibSnitcher
 
-## [AzureHelper](https://www.powershellgallery.com/Packages/AzureHelper/1.0.51) | 1.0.51
-
-### Published: 08/07/2023 18:33:28 by Paul Harrison
-
-This module provides cmdlets to help in daily work, find cost savings, and report on Azure Policy compliance
-
-__Downloads__: 2,141 | __Repository__: 
-
 ## [PSQuizMaster](https://www.powershellgallery.com/Packages/PSQuizMaster/1.0.0) | 1.0.0
 
 ### Published: 08/07/2023 14:48:43 by Jeff Hicks
@@ -1610,7 +1629,7 @@ __Downloads__: 304 | __Repository__:
 
 For managing and automate Azure Virtual Desktop environments. This module can also be used for housekeeping and manageing all the AVD related Azure resources.
 
-__Downloads__: 7,558 | __Repository__: https://github.com/srozemuller/AzAvd
+__Downloads__: 7,557 | __Repository__: https://github.com/srozemuller/AzAvd
 
 ## [TUN.CredentialManager](https://www.powershellgallery.com/Packages/TUN.CredentialManager/3.0.1) | 3.0.1
 
@@ -1618,7 +1637,7 @@ __Downloads__: 7,558 | __Repository__: https://github.com/srozemuller/AzAvd
 
 Provides access to credentials in the Windows Credential Manager (continuation of CredentialManager by Dave Garnar)
 
-__Downloads__: 10,339 | __Repository__: https://github.com/echalone/PowerShell_Credential_Manager
+__Downloads__: 10,333 | __Repository__: https://github.com/echalone/PowerShell_Credential_Manager
 
 ## [poc3](https://www.powershellgallery.com/Packages/poc3/0.0.1) | 0.0.1
 
@@ -1680,7 +1699,7 @@ __Downloads__: 46 | __Repository__:
 
 Powershell module for creating and extracting 7-Zip archives
 
-__Downloads__: 11,520,530 | __Repository__: https://github.com/thoemmi/7Zip4Powershell
+__Downloads__: 11,519,230 | __Repository__: https://github.com/thoemmi/7Zip4Powershell
 
 ## [QuickFix](https://www.powershellgallery.com/Packages/QuickFix/0.2.1) | 0.2.1
 
@@ -1776,18 +1795,7 @@ __Downloads__: 18 | __Repository__:
 
 Mailozaurr is a PowerShell module that aims to provide SMTP, POP3, IMAP and few other ways to interact with Email. Underneath it uses MimeKit and MailKit and EmailValidation libraries written by Jeffrey Stedfast.
 
-__Downloads__: 864,627 | __Repository__: https://github.com/EvotecIT/MailoZaurr
-
-## [CoreePower.Lib](https://www.powershellgallery.com/Packages/CoreePower.Lib/0.0.2.4) | 0.0.2.4
-
-### Published: 08/05/2023 05:58:52 by Carsten Riedel
-
-The "CoreePower.Lib" module is the a part of the CoreePower project.
-It adds command-line programs like 7-Zip, Git, GitHub CLI, NuGet, dotnet, and Visual Studio Code from the original sources.
-See full readme at https://github.com/carsten-riedel/CoreePower.Lib/#readme
-Note: the "Initialize-CorePowerLatest" command may conflict with existing installations. Use with caution.
-
-__Downloads__: 763 | __Repository__: https://github.com/carsten-riedel/CoreePower.Lib
+__Downloads__: 864,626 | __Repository__: https://github.com/EvotecIT/MailoZaurr
 
 ## [Prelude](https://www.powershellgallery.com/Packages/Prelude/0.2.9) | 0.2.9
 
@@ -1811,7 +1819,7 @@ __Downloads__: 12,738 | __Repository__: https://mem.zone/PSWmiToolKit
 
 Powershell Module to run JumpCloud Active Directory Migration Utility.
 
-__Downloads__: 8,688 | __Repository__: 
+__Downloads__: 8,690 | __Repository__: 
 
 ## [PSParallelPipeline](https://www.powershellgallery.com/Packages/PSParallelPipeline/1.1.3) | 1.1.3
 
@@ -1877,7 +1885,7 @@ __Downloads__: 26 | __Repository__: https://github.com/bastien-w/SimplePSLog
 
 PowerShell module containing several Azure tools by Sam Boutros
 
-__Downloads__: 27,803 | __Repository__: https://superwidgets.wordpress.com/
+__Downloads__: 27,802 | __Repository__: https://superwidgets.wordpress.com/
 
 ## [Cofl.Util](https://www.powershellgallery.com/Packages/Cofl.Util/1.4.1) | 1.4.1
 
@@ -1925,7 +1933,7 @@ __Downloads__: 720 | __Repository__: https://github.com/codaamok/PSFront
 
 This PowerShell module contains cmdlets for managing SolarWinds Orion.
 
-__Downloads__: 469,601 | __Repository__: https://github.com/solarwinds/OrionSDK
+__Downloads__: 469,600 | __Repository__: https://github.com/solarwinds/OrionSDK
 
 ## [RobocopyPS](https://www.powershellgallery.com/Packages/RobocopyPS/0.2.20) | 0.2.20
 
@@ -1933,7 +1941,7 @@ __Downloads__: 469,601 | __Repository__: https://github.com/solarwinds/OrionSDK
 
 Wrapper for Robocopy
 
-__Downloads__: 6,008,149 | __Repository__: https://github.com/sbergwall/RobocopyPS
+__Downloads__: 6,007,845 | __Repository__: https://github.com/sbergwall/RobocopyPS
 
 ## [OfficeAndAzureTools](https://www.powershellgallery.com/Packages/OfficeAndAzureTools/9.10.10) | 9.10.10
 
@@ -2039,12 +2047,4 @@ GraphTools module
 
 __Downloads__: 33 | __Repository__: https://github.com/kevinblumenfeld/GraphTools
 
-## [Intersight.PowerShell](https://www.powershellgallery.com/Packages/Intersight.PowerShell/1.0.11.13236) | 1.0.11.13236
-
-### Published: 08/03/2023 16:40:28 by Cisco Systems
-
-Intersight Powershell module provides the cmdlets to manage, analyze, and automate the IT infrastructure in Intersight.
-
-__Downloads__: 3,663 | __Repository__: https://github.com/CiscoDevNet/intersight-powershell
-
-*Updated: Friday, 11 August 2023 17:52:45 UTC*
+*Updated: Saturday, 12 August 2023 02:00:10 UTC*
