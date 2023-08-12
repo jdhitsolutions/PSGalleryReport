@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Saturday, 12 August 2023 02:00:22 UTC
+Updated: Saturday, 12 August 2023 09:52:52 UTC
 
 .bat
 .env
@@ -782,7 +782,6 @@ bitcoin
 bitlocker
 bitwarden
 bitwig
-bitwise
 biztalk
 biztalkalm
 biztalkdeploymentframework
@@ -829,6 +828,7 @@ bop
 bot
 bots
 botservice
+bouncer
 boundaries
 boundarygroups
 bounty
@@ -884,7 +884,6 @@ buildtool
 bulk
 bulletin
 bundle
-bup
 burpsuite
 bus
 business
@@ -894,7 +893,6 @@ businesshours
 businessobjects
 businessrulesengine
 businesstime
-bxor
 bydesign
 byexample
 bynarypsmodule
@@ -921,6 +919,7 @@ campaign
 camtasia
 canarie
 cancel
+cancellation
 canonical
 cantara
 capability
@@ -1278,7 +1277,6 @@ compliant
 component
 composer
 composite
-compoundproperty
 compress
 compression
 compute
@@ -1428,6 +1426,8 @@ covid-19
 cpm
 cppm
 cpu
+cpuid
+cpuid-information
 cq
 cqd
 cqdpowershell
@@ -1500,6 +1500,7 @@ csvhelper
 ctf
 ctglobal
 ctl
+ctrl+c
 ctx
 ctype
 cubes
@@ -2064,7 +2065,6 @@ elevate
 elevated
 elevatedconsole
 elevatedmode
-elgato
 elk
 elm
 elmah-io
@@ -2076,7 +2076,6 @@ emacs
 email
 email-address
 emailaddressupdate
-emailautomation
 emailmanagment
 emailnotification
 emailnotificationcomponent
@@ -2146,7 +2145,6 @@ epicor
 episode
 epplus
 eprosima
-epub
 epv
 equality
 erb
@@ -2313,6 +2311,7 @@ factoryorchestrator
 factoryorchestratorclient
 facts
 faf
+failedlogin
 failure
 falcon
 fallbackstatuspoint
@@ -2421,7 +2420,6 @@ find
 find-call
 find-caller
 find-file
-find-path
 finddownloadlinkfromwebsite
 findfile
 findlocation
@@ -2608,6 +2606,7 @@ geolocation
 geosearching
 geotagging
 get
+get_random_password
 get-admodernreport
 get-childitem
 get-cmhealthcheck
@@ -2633,7 +2632,6 @@ get-openfiles
 get-pass
 get-passivetrippoint
 get-passlist
-get-path
 get-pinneditem
 get-samcmassignedsite
 get-samcmcurrentmanagementpoint
@@ -3015,7 +3013,6 @@ id
 id3
 idabus
 ide
-identifier
 identity
 identity-management
 identitydataplane
@@ -3025,6 +3022,7 @@ identitynow
 idf
 idm
 idna
+ids
 ie
 iem
 ifconfig
@@ -3257,13 +3255,11 @@ it-support
 it-tool
 it-tools
 item
-itemlist
-itemobject
-itemstack
 iterate
 iteration
 itg
 itglue
+itin
 itop
 itsm
 itstore
@@ -3464,6 +3460,7 @@ lccn
 lcm
 lcminternals
 ldap
+leafs
 league
 lean
 learn
@@ -3766,7 +3763,6 @@ mb
 mbc
 mbs
 mc
-mcafee
 mcas
 mchapv2
 mct
@@ -3782,6 +3778,7 @@ mdm
 mdop
 mdt
 mdx
+me4024
 mean
 measure
 measure-loc
@@ -4219,6 +4216,7 @@ nps
 npslog
 npslogfile
 nql
+nrc
 nrql
 ns
 ns.nl
@@ -4314,7 +4312,6 @@ oidc
 ok
 okta
 old
-ole
 oledb
 omaha
 ome
@@ -4374,6 +4371,7 @@ openhere
 openid
 openidconnect
 openinghours
+openport
 openprovider
 openscad
 opensearch
@@ -4530,6 +4528,7 @@ passphrase
 passphraser passphrase password generator entropy
 passwd
 password
+password_generation
 password-generator
 password-less
 password-manager
@@ -4545,6 +4544,7 @@ passwordmanagement
 passwordmanager
 passwords
 passwordsecure
+passwordspray
 passwordstate
 passwordtool
 passwordvault
@@ -5175,7 +5175,6 @@ quality
 qualys
 quandl
 quantum
-quarantine
 queries
 query
 queue
@@ -5250,7 +5249,6 @@ react-stockcharts
 read
 read-slog
 readable
-reader
 readiness
 readme
 readpdf
@@ -5312,7 +5310,6 @@ regex
 region
 regions
 regiser-argumentcompleter
-register
 register-argumentcompleter
 registration
 registry
@@ -5356,7 +5353,6 @@ remoting
 remove
 remove-githubsecrets
 remove-pass
-remove-path
 remove-pinneditem
 remove-tempfiles
 removetypeaccelerators
@@ -5562,6 +5558,7 @@ saml psmodule
 saml2
 sample
 sampler
+san
 sandbox
 sanitization
 sanitizer
@@ -6076,7 +6073,6 @@ spellcheck
 spelling
 spf
 spi
-spicetify
 spinnaker
 splash
 splat
@@ -6137,6 +6133,7 @@ squire
 srcds
 srcsrv
 srm
+srylius-write
 ssas
 ssc
 ssdt
@@ -6411,7 +6408,7 @@ taxonomy
 tcp
 tcp/ip
 tcpip
-tcprjmgmt
+tcpport
 tcpserver
 tcptest
 tcx
@@ -6544,6 +6541,7 @@ timesheets
 timespan
 timezone
 tinkerpop
+tinymce
 tips
 title
 tls
@@ -6825,7 +6823,6 @@ ups
 upsource
 upstream
 uptime
-uptimerobot
 uptobox
 uri
 uri-scheme
@@ -6876,7 +6873,6 @@ uudecode
 uuencode
 uuid
 uup
-uw
 uwp
 ux
 vaas
@@ -7029,7 +7025,6 @@ voiceconfig
 voiceservices
 voidtools
 volkskrant
-volta
 volume
 volumeshadowcopy
 volumio
@@ -7082,6 +7077,7 @@ vvx
 vxrail
 w32time
 w365
+w3svc
 w3w
 waa
 waas
@@ -7272,6 +7268,7 @@ winform
 winforms
 winget
 wingetbridge
+winrar
 winrm
 winrs
 winrt
@@ -7284,11 +7281,6 @@ winui
 wireless
 wirelessnetwork
 wireshark
-wisc
-wiscmail
-wisco365
-wisconsin-madison
-wisconsin'uw-madison
 wisdom
 with
 wizard
@@ -7350,7 +7342,6 @@ write-color
 write-colour
 write-debug
 write-host
-write-information
 write-log
 write-loganalytics
 write-message
@@ -7361,7 +7352,6 @@ writeaccess
 writelog
 writemanager
 writeprogress
-writer
 ws-federation
 wsapi
 wsb
@@ -7421,7 +7411,6 @@ xmla
 xmlrpc
 xmlutils
 xoauth2
-xor
 xpath
 xpendingreboot
 xpertdoc
