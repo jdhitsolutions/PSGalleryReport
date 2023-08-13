@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Saturday, 12 August 2023 17:53:28 UTC
+Updated: Sunday, 13 August 2023 02:01:26 UTC
 
 .bat
 .env
@@ -344,6 +344,7 @@ api-client
 api-gateway
 api-rest
 apichecks
+apiclient
 apigateway
 apigee
 apigeeedge
@@ -359,6 +360,7 @@ aportal
 app
 app-only
 app-v
+app-volumes
 app.config
 appattach
 appclusive
@@ -393,6 +395,7 @@ appservices
 appsetting
 appv
 appveyor
+appvolumes
 appx
 appxmanifest
 aprs
@@ -512,7 +515,6 @@ authentication
 authenticationcertificate
 authenticode
 authn
-author
 authoring
 authoringtools
 authority
@@ -718,8 +720,6 @@ bayern
 bb
 bbp
 bc
-bcd
-bcdedit
 bcdr
 bd
 bdd
@@ -819,7 +819,6 @@ bookmark
 bookmarks
 books
 bool
-bootloader psmodule
 bootstrap
 bootstrapping
 bop
@@ -867,7 +866,6 @@ budget
 bugbounty
 bugzilla
 build
-build-log
 build-scripts
 builddefinition
 builder
@@ -1242,7 +1240,6 @@ comical
 comics
 command
 command_line
-command-line-interface
 command-validation
 commandcoverage
 commandlets
@@ -1251,7 +1248,6 @@ commands
 commandsandresource
 commence
 comment
-comments
 commerce
 commfort
 commit
@@ -1278,6 +1274,7 @@ compliant
 component
 composer
 composite
+compoundproperty
 compress
 compression
 compute
@@ -1394,7 +1391,6 @@ coordinates
 copilot
 copy
 copy-item
-copyright
 core
 coreepower
 coreepower.module
@@ -1452,7 +1448,6 @@ credential-dialog
 credential-file
 credential-files
 credential-manager
-credentiallocker
 credentialmanagement
 credentialmanager
 credentialprovider
@@ -1571,7 +1566,6 @@ dagger
 dangling
 dapr
 dark
-darwin
 dash
 dashboard
 dashboardapi
@@ -1582,6 +1576,8 @@ data_protection
 data-archive
 data-backup
 data-tier
+data-uri
+data-uri-converter
 database
 database-migrations
 databaseautomation
@@ -1639,7 +1635,6 @@ dattormm
 datum
 dave
 davinci
-dax
 dayinweek
 days-week
 db
@@ -1776,7 +1771,6 @@ dictionary
 diff
 difference
 dig
-digikam
 digital
 digital-forensics
 digitalforensics
@@ -1850,7 +1844,6 @@ dlp
 dmarc
 dmgr
 dmi
-dmx
 dnd
 dns
 dns-01
@@ -2146,6 +2139,7 @@ epicor
 episode
 epplus
 eprosima
+epub
 epv
 equality
 erb
@@ -2254,7 +2248,6 @@ executables
 execute
 exexml
 exif
-exiftool
 exists
 exitcode
 exitprocessrequest
@@ -2279,7 +2272,6 @@ exponentiation
 export
 export-cmhealthreport
 export-data
-export-passlist
 exportcertificate
 exportcertificates
 exporter
@@ -2427,7 +2419,6 @@ findfile
 findlocation
 findplace
 findproxyforurl
-fine-print
 firebird
 firefox
 firewall
@@ -2508,7 +2499,6 @@ foudil
 fox
 foxpro
 fqdn
-frame
 framework
 france
 freeipa
@@ -2631,9 +2621,7 @@ get-history
 get-iislog
 get-openfile
 get-openfiles
-get-pass
 get-passivetrippoint
-get-passlist
 get-path
 get-pinneditem
 get-samcmassignedsite
@@ -2908,6 +2896,7 @@ homelandsecurity
 homeschooling
 hon
 hooking
+horizon
 horizontal
 hornbill
 host
@@ -3047,6 +3036,7 @@ ilo5
 ilocmdlets
 im
 image
+image-converter
 image-creation
 image-generation
 image-process
@@ -3077,7 +3067,6 @@ import
 import-csv
 import-dtdriverpackpackagedefinitionsms
 import-modulefrompath
-import-passlist
 import-sampackagedefinitionsms
 importer
 importexport
@@ -3257,6 +3246,9 @@ it-support
 it-tool
 it-tools
 item
+itemlist
+itemobject
+itemstack
 iterate
 iteration
 itg
@@ -3326,7 +3318,6 @@ jumpcloud
 jumpstart
 junction
 junctions
-junit
 jupyter
 jupytor
 justenoughadministration
@@ -3404,6 +3395,7 @@ kubectl
 kubectx
 kubens
 kubernetes
+kubernetesconfiguration
 kubespray
 kudu
 kurukuru
@@ -3506,6 +3498,8 @@ lifequotes
 lifestyle
 light
 lights
+lime
+limesurvey
 limit-job
 limits
 lina
@@ -3603,7 +3597,6 @@ login-azurermaccount
 login-rdp
 logingestion
 loginscreen
-loginsight
 logiphys
 logistic
 logitech
@@ -3732,7 +3725,6 @@ marketplace
 marketplaceordering
 marking
 marklogic
-marquee
 marvel
 marvell
 marvell_semiconductor_inc
@@ -3777,7 +3769,6 @@ mde
 mdm
 mdop
 mdt
-mdx
 me4024
 mean
 measure
@@ -4091,8 +4082,6 @@ nedyalkov
 neo4j
 neptune
 nerdfonts
-nerdio
-nerdioapi
 nerdymishka
 nessus
 nested
@@ -4181,7 +4170,6 @@ nlm
 nlog
 nmap
 nmbell
-nmm
 nntp
 node
 nodejs
@@ -4209,7 +4197,6 @@ notify-send
 nova
 npgsql
 npm
-npm-upgrade
 nprinting
 nprintingapi
 nps
@@ -4733,7 +4720,6 @@ poshkeepass
 poshlog
 poshorigin
 poshproject
-poshprtg
 poshrsjob
 poshtemplate
 poshwsus
@@ -4847,6 +4833,7 @@ presentation
 presenter
 presto
 preston-k-parsard
+prettifier
 pretty
 prettyprinter
 preview
@@ -4895,6 +4882,7 @@ profile
 profiler
 profiles
 proget
+program
 program-association
 programs
 progress
@@ -4940,8 +4928,6 @@ proxy
 proxyfunction
 proxyfunctions
 prtg
-prtg_network_monitor
-prtgnetworkmonitor
 ps
 ps-ncentral
 ps.credentialmanager
@@ -4969,7 +4955,6 @@ pscmdlet
 pscommander
 psconfasia
 psconfeu
-psconfig
 pscore
 pscredential
 pscribo
@@ -4982,6 +4967,7 @@ psdesiredstateconfiguration
 psdevops
 psdocs
 psdocs-documents
+psdocsgenerator
 psdrawio
 psdrive
 psdrives
@@ -5056,7 +5042,6 @@ psproject
 psprojectcreator
 psprojectgenerator
 psprovider
-psprtg
 pspublicapi
 psql
 psraw
@@ -5174,6 +5159,7 @@ qrs
 quality
 qualys
 quandl
+quantum
 quarantine
 queries
 query
@@ -5184,7 +5170,6 @@ quickaccess
 quickbase
 quickbooks
 quicksetup
-quiz
 qumulo
 quota
 quote
@@ -5249,6 +5234,7 @@ react-stockcharts
 read
 read-slog
 readable
+reader
 readiness
 readme
 readpdf
@@ -5353,7 +5339,6 @@ remotesession
 remoting
 remove
 remove-githubsecrets
-remove-pass
 remove-path
 remove-pinneditem
 remove-tempfiles
@@ -5775,7 +5760,6 @@ servermanagement
 servers
 service
 service-bus
-service-messages
 servicebus
 servicebusforwindowsserver
 servicecatalog
@@ -5811,10 +5795,8 @@ set-githubsecrets
 set-location
 set-openfiles
 set-ownership
-set-pass
 set-psbreakpoint
 set-psenv
-set-randompass
 set-type
 setbios
 sets
@@ -5855,9 +5837,7 @@ shared
 sharefile
 sharepoint
 sharepoint_online
-sharepoint-on-prem
 sharepoint-online
-sharepoint-product-configuration-wizard
 sharepoint2013
 sharepointdevelopmentcommunity
 sharepointonline
@@ -6075,7 +6055,6 @@ spellcheck
 spelling
 spf
 spi
-spicetify
 spinnaker
 splash
 splat
@@ -6294,6 +6273,7 @@ support-tools
 suppress
 supress-reboot
 surround
+survey
 surveymonkey
 sushi
 suspensive
@@ -6305,7 +6285,6 @@ svt
 swagger
 swamid
 swarm
-swedish
 swimlane
 swis
 switch
@@ -6692,7 +6671,6 @@ types.ps1xml
 typescript
 tzutil
 uac
-uberagent
 ubiquiti
 ubnt
 ubuntu
@@ -6708,7 +6686,6 @@ ud-button
 ud-buttonloader
 ud-buttonparticle
 ud-calendar
-ud-circle
 ud-component
 ud-confetti
 ud-control
@@ -6782,6 +6759,7 @@ unified
 unifiedauditlog
 unifiedlabeling
 uninstall
+uninstaller
 union
 unique
 unique-files
@@ -6897,7 +6875,6 @@ variable
 variables
 variance
 variants
-vastlimits
 vault
 vaultextension
 vaultstore
@@ -7363,6 +7340,7 @@ writeaccess
 writelog
 writemanager
 writeprogress
+writer
 ws-federation
 wsapi
 wsb
