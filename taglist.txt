@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Sunday, 13 August 2023 09:53:47 UTC
+Updated: Sunday, 13 August 2023 17:52:45 UTC
 
 .bat
 .env
@@ -427,7 +427,6 @@ arcus
 area
 arg
 argument
-argumentcompleter
 arguments
 arm
 arm-json
@@ -542,6 +541,7 @@ automatedlab
 automaticpacketreportingsystem
 automation
 automation psmodule
+automationanywhere
 autopilot
 autoscaling
 autostart
@@ -781,7 +781,6 @@ bitcoin
 bitlocker
 bitwarden
 bitwig
-bitwise
 biztalk
 biztalkalm
 biztalkdeploymentframework
@@ -885,7 +884,6 @@ bulk
 bulletin
 bullhorn
 bundle
-bup
 burpsuite
 bus
 business
@@ -895,7 +893,6 @@ businesshours
 businessobjects
 businessrulesengine
 businesstime
-bxor
 bydesign
 byexample
 bynarypsmodule
@@ -1368,6 +1365,7 @@ continuousdeployment
 continuousintegration
 control
 controller
+controlroom
 convereter
 converged_data_management
 conversational
@@ -1795,7 +1793,6 @@ directory
 directory psedition_core psedition_desktop
 directory-transform
 directorymarks
-directoryname
 directorysearcher
 directorysecurity
 directrouting
@@ -3452,8 +3449,6 @@ laps
 laragon
 laserbeams
 last
-last.fm
-lastfm
 lastlogon
 lastpass
 latency
@@ -3689,8 +3684,6 @@ magnet
 mail
 mailbox
 mailchimp
-mailgroup
-mailgroupmember
 mailing
 mailkit
 mails
@@ -3775,7 +3768,6 @@ mb
 mbc
 mbs
 mc
-mcafee
 mcas
 mchapv2
 mct
@@ -4222,7 +4214,6 @@ notify-send
 nova
 npgsql
 npm
-npm-upgrade
 nprinting
 nprintingapi
 nps
@@ -4583,6 +4574,7 @@ pci-dss
 pcloud
 pcsetup
 pcsv
+pdb
 pdf
 pdf-document-processor
 pdf-files
@@ -4625,6 +4617,7 @@ phabricator
 philips
 philosophical
 philpritchett
+phishing
 phoenix
 phoneautomation
 photo
@@ -4982,6 +4975,7 @@ pscmdlet
 pscommander
 psconfasia
 psconfeu
+psconfig
 pscore
 pscredential
 pscribo
@@ -5188,7 +5182,6 @@ quality
 qualys
 quandl
 quantum
-quarantine
 queries
 query
 queue
@@ -5870,7 +5863,9 @@ shared
 sharefile
 sharepoint
 sharepoint_online
+sharepoint-on-prem
 sharepoint-online
+sharepoint-product-configuration-wizard
 sharepoint2013
 sharepointdevelopmentcommunity
 sharepointonline
@@ -6016,6 +6011,7 @@ social
 social-media
 socialmedia
 socketlabs
+sockets
 sodium
 software
 softwarecenter
@@ -6383,7 +6379,6 @@ tab-completion
 tab-expansion
 tabcompletion
 tabexpansion
-tabexpansion2
 tablacus
 table
 tableau
@@ -6726,6 +6721,7 @@ ud-component
 ud-confetti
 ud-control
 ud-dashboard
+ud-datepicker
 ud-field
 ud-flexytable
 ud-funnel
@@ -6968,7 +6964,6 @@ vie
 viewer
 viewgroup
 vigenere
-vim
 vimode
 virole
 virsh
@@ -7096,7 +7091,6 @@ vxrail
 w32time
 w365
 w3svc
-w3w
 waa
 waas
 wac
@@ -7182,7 +7176,6 @@ well-known
 wem
 wemsdk
 wer
-what3words
 whatismyip
 whatsnew
 whatsupgold
@@ -7436,7 +7429,6 @@ xmla
 xmlrpc
 xmlutils
 xoauth2
-xor
 xpath
 xpendingreboot
 xpertdoc
@@ -7454,7 +7446,6 @@ yahoo
 yahw
 yamaha
 yaml
-yandex
 yapg
 yarn
 yetanotherhelloworld
@@ -7476,6 +7467,7 @@ zigbee
 zip
 zip-compression
 zipfile-transform
+zisson
 zoho
 zone
 zookeeper

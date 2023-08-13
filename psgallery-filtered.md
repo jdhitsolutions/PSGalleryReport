@@ -3,6 +3,70 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [F7History](https://www.powershellgallery.com/Packages/F7History/1.3.0) | 1.3.0
+
+### Published: 08/13/2023 15:45:10 by Tig Kindel
+
+Press F7 to get a graphical Command History in Powershell.
+
+__Downloads__: 219 | __Repository__: https://github.com/gui-cs/F7History/
+
+## [PowerShellProTools](https://www.powershellgallery.com/Packages/PowerShellProTools/2023.8.0) | 2023.8.0
+
+### Published: 08/13/2023 14:24:05 by Ironman Software LLC
+
+PowerShell script packaging, profiling, WPF and Windows Forms design, and desktop automation.
+
+__Downloads__: 23,720 | __Repository__: 
+
+## [AzWorkspaceManager](https://www.powershellgallery.com/Packages/AzWorkspaceManager/0.2.1) | 0.2.1
+
+### Published: 08/13/2023 14:21:48 by Rogier Dijkman
+
+Helper module to manage and configure Microsoft Sentinel workspace manager
+
+__Downloads__: 7 | __Repository__: https://github.com/securehats/AzWorkspaceManager
+
+## [Nutstone.Devops](https://www.powershellgallery.com/Packages/Nutstone.Devops/1.0.11) | 1.0.11
+
+### Published: 08/13/2023 12:53:49 by David Nuttall
+
+Provides Methods to interact with Azure devops (Repositories/pipelines) and local GIT/Nuget (have to be installed separately)
+
+__Downloads__: 51 | __Repository__: 
+
+## [PSPublishModule](https://www.powershellgallery.com/Packages/PSPublishModule/2.0.3) | 2.0.3
+
+### Published: 08/13/2023 12:48:03 by Przemyslaw Klys
+
+Simple project allowing preparing, managing, building and publishing modules to PowerShellGallery
+
+__Downloads__: 1,392 | __Repository__: https://github.com/EvotecIT/PSPublishModule
+
+## [PSSYSAdm](https://www.powershellgallery.com/Packages/PSSYSAdm/0.0.7) | 0.0.7
+
+### Published: 08/13/2023 12:12:29 by LIENHARD Laurent
+
+Lot Of Stuff for admin day job
+
+__Downloads__: 18 | __Repository__: 
+
+## [AtlassianCloudPS](https://www.powershellgallery.com/Packages/AtlassianCloudPS/0.13) | 0.13
+
+### Published: 08/13/2023 10:12:12 by Andy Lyonette
+
+Interact with the Atlassian Cloud APIs using PowerShell
+
+__Downloads__: 0 | __Repository__: 
+
+## [Rpic.PowerShell](https://www.powershellgallery.com/Packages/Rpic.PowerShell/1.4.1) | 1.4.1
+
+### Published: 08/13/2023 09:49:55 by tobiaslekman
+
+Contains a set of resuable PowerShell functions for working with Azure Resource Manager and Bicep.
+
+__Downloads__: 16 | __Repository__: 
+
 ## [Alt3.Docusaurus.Powershell](https://www.powershellgallery.com/Packages/Alt3.Docusaurus.Powershell/1.0.35) | 1.0.35
 
 ### Published: 08/13/2023 09:40:28 by R. van Erkel
@@ -13,21 +77,13 @@ Live demo at https://docusaurus-powershell.vercel.app/
 
 __Downloads__: 3,607 | __Repository__: https://www.github.com/alt3/Docusaurus.Powershell
 
-## [Rpic.PowerShell](https://www.powershellgallery.com/Packages/Rpic.PowerShell/1.4.0) | 1.4.0
-
-### Published: 08/13/2023 09:29:28 by tobiaslekman
-
-Contains a set of resuable PowerShell functions for working with Azure Resource Manager and Bicep.
-
-__Downloads__: 16 | __Repository__: 
-
 ## [Get-ActiveSession](https://www.powershellgallery.com/Packages/Get-ActiveSession/1.0.4) | 1.0.4
 
 ### Published: 08/13/2023 07:32:51 by Faris Malaeb
 
 Get infomration about remote Windows logged in users, with the support of logging off a single user or all users from a single or multiple servers
 
-__Downloads__: 55,824 | __Repository__: https://github.com/farismalaeb/Powershell/tree/master/Get-ActiveSession
+__Downloads__: 55,877 | __Repository__: https://github.com/farismalaeb/Powershell/tree/master/Get-ActiveSession
 
 ## [ADEssentials](https://www.powershellgallery.com/Packages/ADEssentials/0.0.164) | 0.0.164
 
@@ -35,7 +91,7 @@ __Downloads__: 55,824 | __Repository__: https://github.com/farismalaeb/Powershel
 
 Helper module for Active Directory with lots of useful functions that simplify supporting Active Directory.
 
-__Downloads__: 151,121 | __Repository__: https://github.com/EvotecIT/ADEssentials
+__Downloads__: 151,118 | __Repository__: https://github.com/EvotecIT/ADEssentials
 
 ## [PSWriteHTML](https://www.powershellgallery.com/Packages/PSWriteHTML/1.2.0) | 1.2.0
 
@@ -43,7 +99,7 @@ __Downloads__: 151,121 | __Repository__: https://github.com/EvotecIT/ADEssential
 
 PSWriteHTML is PowerShell Module to generate beautiful HTML reports, pages, emails without any knowledge of HTML, CSS or JavaScript. To get started basics PowerShell knowledge is required.
 
-__Downloads__: 1,938,284 | __Repository__: https://github.com/EvotecIT/PSWriteHTML
+__Downloads__: 1,938,263 | __Repository__: https://github.com/EvotecIT/PSWriteHTML
 
 ## [TitanApi](https://www.powershellgallery.com/Packages/TitanApi/0.1.1) | 0.1.1
 
@@ -52,14 +108,6 @@ __Downloads__: 1,938,284 | __Repository__: https://github.com/EvotecIT/PSWriteHT
 Sdk to access Titan Server REST API
 
 __Downloads__: 2 | __Repository__: https://github.com/southrivertech/titanapi.pub
-
-## [AtlassianCloudPS](https://www.powershellgallery.com/Packages/AtlassianCloudPS/0.12) | 0.12
-
-### Published: 08/12/2023 22:50:55 by Andy Lyonette
-
-Interact with the Atlassian Cloud APIs using PowerShell
-
-__Downloads__: 0 | __Repository__: 
 
 ## [PdfLexer](https://www.powershellgallery.com/Packages/PdfLexer/0.1.2) | 0.1.2
 
@@ -167,14 +215,6 @@ Note: the "Initialize-CorePowerLatest" command may conflict with existing instal
 
 __Downloads__: 767 | __Repository__: https://github.com/carsten-riedel/CoreePower.Lib
 
-## [AzWorkspaceManager](https://www.powershellgallery.com/Packages/AzWorkspaceManager/0.2.0) | 0.2.0
-
-### Published: 08/11/2023 21:49:19 by Rogier Dijkman
-
-Helper module to manage and configure Microsoft Sentinel workspace manager
-
-__Downloads__: 7 | __Repository__: https://github.com/securehats/AzWorkspaceManager
-
 ## [AzureHelper](https://www.powershellgallery.com/Packages/AzureHelper/1.0.53) | 1.0.53
 
 ### Published: 08/11/2023 19:09:24 by Paul Harrison
@@ -269,7 +309,7 @@ __Downloads__: 372 | __Repository__: https://migrate.rivermeadow.com/
 
 This module provides an interface to the Hudu Rest API further information can be found at https://github.com/lwhitelock/HuduAPI
 
-__Downloads__: 557,156 | __Repository__: 
+__Downloads__: 557,151 | __Repository__: 
 
 ## [Brownserve.PSTools](https://www.powershellgallery.com/Packages/Brownserve.PSTools/0.15.0) | 0.15.0
 
@@ -353,21 +393,13 @@ The Cayosoft Graph (cGraph) Module for Microsoft PowerShell is a FREE SOLUTION t
 
 __Downloads__: 9,166 | __Repository__: https://www.cayosoft.com/cgraph
 
-## [PSSYSAdm](https://www.powershellgallery.com/Packages/PSSYSAdm/0.0.5) | 0.0.5
-
-### Published: 08/10/2023 10:16:34 by LIENHARD Laurent
-
-Lot Of Stuff for admin day job
-
-__Downloads__: 18 | __Repository__: 
-
 ## [SqlChangeAutomation](https://www.powershellgallery.com/Packages/SqlChangeAutomation/4.6.23220.1928) | 4.6.23220.1928
 
 ### Published: 08/10/2023 07:28:14 by Red Gate Software Ltd.
 
 Automation tools for production quality database deployment
 
-__Downloads__: 4,406,589 | __Repository__: https://www.red-gate.com/sca/productpage
+__Downloads__: 4,406,584 | __Repository__: https://www.red-gate.com/sca/productpage
 
 ## [VSTeam](https://www.powershellgallery.com/Packages/VSTeam/7.13.3) | 7.13.3
 
@@ -375,7 +407,7 @@ __Downloads__: 4,406,589 | __Repository__: https://www.red-gate.com/sca/productp
 
 Adds functionality for working with Azure DevOps and Team Foundation Server.
 
-__Downloads__: 1,591,527 | __Repository__: https://github.com/MethodsAndPractices/vsteam
+__Downloads__: 1,591,515 | __Repository__: https://github.com/MethodsAndPractices/vsteam
 
 ## [celin.ais.pwsh](https://www.powershellgallery.com/Packages/celin.ais.pwsh/1.0.6) | 1.0.6
 
@@ -409,14 +441,6 @@ Lightweight army of helpers for general powershell activities
 
 __Downloads__: 4,832 | __Repository__: https://github.com/o-o00o-o/PSEasy.Utility
 
-## [Nutstone.Devops](https://www.powershellgallery.com/Packages/Nutstone.Devops/1.0.10) | 1.0.10
-
-### Published: 08/09/2023 16:32:07 by David Nuttall
-
-Provides Methods to interact with Azure devops (Repositories/pipelines) and local GIT/Nuget (have to be installed separately)
-
-__Downloads__: 51 | __Repository__: 
-
 ## [verkadaModule](https://www.powershellgallery.com/Packages/verkadaModule/0.5.13) | 0.5.13
 
 ### Published: 08/09/2023 16:18:55 by Brad Parker
@@ -439,7 +463,7 @@ __Downloads__: 13,467 | __Repository__: https://github.com/chris-peterson/pwsh-g
 
 Hot August Edition
 
-__Downloads__: 846,052 | __Repository__: https://github.com/OSDeploy/OSD
+__Downloads__: 846,049 | __Repository__: https://github.com/OSDeploy/OSD
 
 ## [PAF](https://www.powershellgallery.com/Packages/PAF/0.2.5) | 0.2.5
 
@@ -512,7 +536,7 @@ __Downloads__: 2,591 | __Repository__: https://github.com/oracle/oci-powershell-
 
 PSTeams is a PowerShell Module working on Windows / Linux and Mac. It allows sending notifications to Microsoft Teams via WebHook Notifications. It's pretty flexible and provides a bunch of options. Initially, it only supported one sort of Team Cards but since version 2.X.X it supports Adaptive Cards, Hero Cards, List Cards, and Thumbnail Cards. All those new cards have their own cmdlets and the old version of creating Teams Cards stays as-is for compatibility reasons.
 
-__Downloads__: 399,745 | __Repository__: https://github.com/EvotecIT/PSTeams
+__Downloads__: 399,737 | __Repository__: https://github.com/EvotecIT/PSTeams
 
 ## [OCI.PSModules.Workrequests](https://www.powershellgallery.com/Packages/OCI.PSModules.Workrequests/65.0.0) | 65.0.0
 
@@ -1552,7 +1576,7 @@ __Downloads__: 481 | __Repository__: https://github.com/pcgeek86/youtube/
 
 Master module for a collection of modules. These modules are varied in their tasks. The overall purpose of them being to provide a powerfull Toolset to improve IT Admin workflows.
 
-__Downloads__: 28,834 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox
+__Downloads__: 28,833 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox
 
 ## [AdminToolbox.FortiWizard](https://www.powershellgallery.com/Packages/AdminToolbox.FortiWizard/2.18.5) | 2.18.5
 
@@ -1824,7 +1848,7 @@ __Downloads__: 46 | __Repository__:
 
 Powershell module for creating and extracting 7-Zip archives
 
-__Downloads__: 11,547,910 | __Repository__: https://github.com/thoemmi/7Zip4Powershell
+__Downloads__: 11,547,573 | __Repository__: https://github.com/thoemmi/7Zip4Powershell
 
 ## [QuickFix](https://www.powershellgallery.com/Packages/QuickFix/0.2.1) | 0.2.1
 
@@ -1858,14 +1882,6 @@ ShellServer Client. More in https://github.com/HenriquedoVal/shellserver
 
 __Downloads__: 82 | __Repository__: https://github.com/HenriquedoVal/shellserver
 
-## [PSPublishModule](https://www.powershellgallery.com/Packages/PSPublishModule/2.0.2) | 2.0.2
-
-### Published: 08/06/2023 06:28:44 by Przemyslaw Klys
-
-Simple project allowing preparing, managing, building and publishing modules to PowerShellGallery
-
-__Downloads__: 1,392 | __Repository__: https://github.com/EvotecIT/PSPublishModule
-
 ## [PoshToolbox](https://www.powershellgallery.com/Packages/PoshToolbox/4.1.0) | 4.1.0
 
 ### Published: 08/05/2023 22:20:55 by Anthony J. Raymond
@@ -1881,14 +1897,6 @@ __Downloads__: 59 | __Repository__: https://github.com/PoshAJ/PoshToolbox
 Drm Template Tools allow you to generate and deploy configuration templates to your Microsoft Dynamics 365 online environments. DRM is a wrapper utility based around the Dynamics 365 online web api that allows you to configure and maintain many Dynamics entities. https://docs.drmtemplates.io/drmtemplates/supported-web-api-entities.html Check out the documentation here https://docs.drmtemplates.io/ to see how easy it is to get up and running quickly.
 
 __Downloads__: 572 | __Repository__: https://docs.drmtemplates.io/
-
-## [F7History](https://www.powershellgallery.com/Packages/F7History/1.2.0) | 1.2.0
-
-### Published: 08/05/2023 16:53:24 by Tig Kindel
-
-Press F7 to get a graphical Command History in Powershell.
-
-__Downloads__: 219 | __Repository__: https://github.com/gui-cs/F7History/
 
 ## [AzureAdDeployer](https://www.powershellgallery.com/Packages/AzureAdDeployer/2.16.7) | 2.16.7
 
@@ -2052,12 +2060,4 @@ An unofficial PowerShell module for Front's Core API
 
 __Downloads__: 721 | __Repository__: https://github.com/codaamok/PSFront
 
-## [SwisPowerShell](https://www.powershellgallery.com/Packages/SwisPowerShell/3.2.0.50049) | 3.2.0.50049
-
-### Published: 08/04/2023 10:11:03 by SolarWinds Worldwide LLC.
-
-This PowerShell module contains cmdlets for managing SolarWinds Orion.
-
-__Downloads__: 469,778 | __Repository__: https://github.com/solarwinds/OrionSDK
-
-*Updated: Sunday, 13 August 2023 09:53:31 UTC*
+*Updated: Sunday, 13 August 2023 17:52:33 UTC*
