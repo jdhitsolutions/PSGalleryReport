@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Sunday, 13 August 2023 02:01:26 UTC
+Updated: Sunday, 13 August 2023 09:53:47 UTC
 
 .bat
 .env
@@ -515,6 +515,7 @@ authentication
 authenticationcertificate
 authenticode
 authn
+author
 authoring
 authoringtools
 authority
@@ -541,7 +542,6 @@ automatedlab
 automaticpacketreportingsystem
 automation
 automation psmodule
-automationanywhere
 autopilot
 autoscaling
 autostart
@@ -720,6 +720,8 @@ bayern
 bb
 bbp
 bc
+bcd
+bcdedit
 bcdr
 bd
 bdd
@@ -819,6 +821,7 @@ bookmark
 bookmarks
 books
 bool
+bootloader psmodule
 bootstrap
 bootstrapping
 bop
@@ -866,6 +869,7 @@ budget
 bugbounty
 bugzilla
 build
+build-log
 build-scripts
 builddefinition
 builder
@@ -1240,6 +1244,7 @@ comical
 comics
 command
 command_line
+command-line-interface
 command-validation
 commandcoverage
 commandlets
@@ -1248,6 +1253,7 @@ commands
 commandsandresource
 commence
 comment
+comments
 commerce
 commfort
 commit
@@ -1362,7 +1368,6 @@ continuousdeployment
 continuousintegration
 control
 controller
-controlroom
 convereter
 converged_data_management
 conversational
@@ -1391,6 +1396,7 @@ coordinates
 copilot
 copy
 copy-item
+copyright
 core
 coreepower
 coreepower.module
@@ -1448,6 +1454,7 @@ credential-dialog
 credential-file
 credential-files
 credential-manager
+credentiallocker
 credentialmanagement
 credentialmanager
 credentialprovider
@@ -1566,6 +1573,7 @@ dagger
 dangling
 dapr
 dark
+darwin
 dash
 dashboard
 dashboardapi
@@ -1635,6 +1643,7 @@ dattormm
 datum
 dave
 davinci
+dax
 dayinweek
 days-week
 db
@@ -1771,6 +1780,7 @@ dictionary
 diff
 difference
 dig
+digikam
 digital
 digital-forensics
 digitalforensics
@@ -1844,6 +1854,7 @@ dlp
 dmarc
 dmgr
 dmi
+dmx
 dnd
 dns
 dns-01
@@ -2248,6 +2259,7 @@ executables
 execute
 exexml
 exif
+exiftool
 exists
 exitcode
 exitprocessrequest
@@ -2272,6 +2284,7 @@ exponentiation
 export
 export-cmhealthreport
 export-data
+export-passlist
 exportcertificate
 exportcertificates
 exporter
@@ -2419,6 +2432,7 @@ findfile
 findlocation
 findplace
 findproxyforurl
+fine-print
 firebird
 firefox
 firewall
@@ -2499,6 +2513,7 @@ foudil
 fox
 foxpro
 fqdn
+frame
 framework
 france
 freeipa
@@ -2621,7 +2636,9 @@ get-history
 get-iislog
 get-openfile
 get-openfiles
+get-pass
 get-passivetrippoint
+get-passlist
 get-path
 get-pinneditem
 get-samcmassignedsite
@@ -3067,6 +3084,7 @@ import
 import-csv
 import-dtdriverpackpackagedefinitionsms
 import-modulefrompath
+import-passlist
 import-sampackagedefinitionsms
 importer
 importexport
@@ -3318,6 +3336,7 @@ jumpcloud
 jumpstart
 junction
 junctions
+junit
 jupyter
 jupytor
 justenoughadministration
@@ -3597,6 +3616,7 @@ login-azurermaccount
 login-rdp
 logingestion
 loginscreen
+loginsight
 logiphys
 logistic
 logitech
@@ -3725,6 +3745,7 @@ marketplace
 marketplaceordering
 marking
 marklogic
+marquee
 marvel
 marvell
 marvell_semiconductor_inc
@@ -3769,6 +3790,7 @@ mde
 mdm
 mdop
 mdt
+mdx
 me4024
 mean
 measure
@@ -4082,6 +4104,8 @@ nedyalkov
 neo4j
 neptune
 nerdfonts
+nerdio
+nerdioapi
 nerdymishka
 nessus
 nested
@@ -4170,6 +4194,7 @@ nlm
 nlog
 nmap
 nmbell
+nmm
 nntp
 node
 nodejs
@@ -4197,6 +4222,7 @@ notify-send
 nova
 npgsql
 npm
+npm-upgrade
 nprinting
 nprintingapi
 nps
@@ -4557,7 +4583,6 @@ pci-dss
 pcloud
 pcsetup
 pcsv
-pdb
 pdf
 pdf-document-processor
 pdf-files
@@ -4600,7 +4625,6 @@ phabricator
 philips
 philosophical
 philpritchett
-phishing
 phoenix
 phoneautomation
 photo
@@ -4720,6 +4744,7 @@ poshkeepass
 poshlog
 poshorigin
 poshproject
+poshprtg
 poshrsjob
 poshtemplate
 poshwsus
@@ -4928,6 +4953,8 @@ proxy
 proxyfunction
 proxyfunctions
 prtg
+prtg_network_monitor
+prtgnetworkmonitor
 ps
 ps-ncentral
 ps.credentialmanager
@@ -5042,6 +5069,7 @@ psproject
 psprojectcreator
 psprojectgenerator
 psprovider
+psprtg
 pspublicapi
 psql
 psraw
@@ -5170,6 +5198,7 @@ quickaccess
 quickbase
 quickbooks
 quicksetup
+quiz
 qumulo
 quota
 quote
@@ -5339,6 +5368,7 @@ remotesession
 remoting
 remove
 remove-githubsecrets
+remove-pass
 remove-path
 remove-pinneditem
 remove-tempfiles
@@ -5760,6 +5790,7 @@ servermanagement
 servers
 service
 service-bus
+service-messages
 servicebus
 servicebusforwindowsserver
 servicecatalog
@@ -5795,8 +5826,10 @@ set-githubsecrets
 set-location
 set-openfiles
 set-ownership
+set-pass
 set-psbreakpoint
 set-psenv
+set-randompass
 set-type
 setbios
 sets
@@ -5983,7 +6016,6 @@ social
 social-media
 socialmedia
 socketlabs
-sockets
 sodium
 software
 softwarecenter
@@ -6055,6 +6087,7 @@ spellcheck
 spelling
 spf
 spi
+spicetify
 spinnaker
 splash
 splat
@@ -6285,6 +6318,7 @@ svt
 swagger
 swamid
 swarm
+swedish
 swimlane
 swis
 switch
@@ -6671,6 +6705,7 @@ types.ps1xml
 typescript
 tzutil
 uac
+uberagent
 ubiquiti
 ubnt
 ubuntu
@@ -6686,11 +6721,11 @@ ud-button
 ud-buttonloader
 ud-buttonparticle
 ud-calendar
+ud-circle
 ud-component
 ud-confetti
 ud-control
 ud-dashboard
-ud-datepicker
 ud-field
 ud-flexytable
 ud-funnel
@@ -6875,6 +6910,7 @@ variable
 variables
 variance
 variants
+vastlimits
 vault
 vaultextension
 vaultstore
@@ -7440,7 +7476,6 @@ zigbee
 zip
 zip-compression
 zipfile-transform
-zisson
 zoho
 zone
 zookeeper

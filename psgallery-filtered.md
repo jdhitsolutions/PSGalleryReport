@@ -3,6 +3,48 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [Alt3.Docusaurus.Powershell](https://www.powershellgallery.com/Packages/Alt3.Docusaurus.Powershell/1.0.35) | 1.0.35
+
+### Published: 08/13/2023 09:40:28 by R. van Erkel
+
+Feature-rich websites for PowerShell Modules.
+
+Live demo at https://docusaurus-powershell.vercel.app/
+
+__Downloads__: 3,607 | __Repository__: https://www.github.com/alt3/Docusaurus.Powershell
+
+## [Rpic.PowerShell](https://www.powershellgallery.com/Packages/Rpic.PowerShell/1.4.0) | 1.4.0
+
+### Published: 08/13/2023 09:29:28 by tobiaslekman
+
+Contains a set of resuable PowerShell functions for working with Azure Resource Manager and Bicep.
+
+__Downloads__: 16 | __Repository__: 
+
+## [Get-ActiveSession](https://www.powershellgallery.com/Packages/Get-ActiveSession/1.0.4) | 1.0.4
+
+### Published: 08/13/2023 07:32:51 by Faris Malaeb
+
+Get infomration about remote Windows logged in users, with the support of logging off a single user or all users from a single or multiple servers
+
+__Downloads__: 55,824 | __Repository__: https://github.com/farismalaeb/Powershell/tree/master/Get-ActiveSession
+
+## [ADEssentials](https://www.powershellgallery.com/Packages/ADEssentials/0.0.164) | 0.0.164
+
+### Published: 08/13/2023 06:45:53 by Przemyslaw Klys
+
+Helper module for Active Directory with lots of useful functions that simplify supporting Active Directory.
+
+__Downloads__: 151,121 | __Repository__: https://github.com/EvotecIT/ADEssentials
+
+## [PSWriteHTML](https://www.powershellgallery.com/Packages/PSWriteHTML/1.2.0) | 1.2.0
+
+### Published: 08/13/2023 06:36:07 by Przemyslaw Klys
+
+PSWriteHTML is PowerShell Module to generate beautiful HTML reports, pages, emails without any knowledge of HTML, CSS or JavaScript. To get started basics PowerShell knowledge is required.
+
+__Downloads__: 1,938,284 | __Repository__: https://github.com/EvotecIT/PSWriteHTML
+
 ## [TitanApi](https://www.powershellgallery.com/Packages/TitanApi/0.1.1) | 0.1.1
 
 ### Published: 08/13/2023 01:12:12 by South River Technologies
@@ -149,6 +191,14 @@ Pure Storage FlashArray REST 2.16 API integration with Windows PowerShell.
 
 __Downloads__: 6,589 | __Repository__: https://github.com/PureStorage-Connect/PowerShellSDK2
 
+## [QuantaStor.PowerShell](https://www.powershellgallery.com/Packages/QuantaStor.PowerShell/6.1.6) | 6.1.6
+
+### Published: 08/11/2023 17:29:44 by osnexus
+
+PowerShell module for OSNexus QuantaStor
+
+__Downloads__: 119 | __Repository__: 
+
 ## [PSSymantecCloud](https://www.powershellgallery.com/Packages/PSSymantecCloud/0.73.2) | 0.73.2
 
 ### Published: 08/11/2023 16:14:25 by Aurélien BOUMANNE
@@ -219,7 +269,7 @@ __Downloads__: 372 | __Repository__: https://migrate.rivermeadow.com/
 
 This module provides an interface to the Hudu Rest API further information can be found at https://github.com/lwhitelock/HuduAPI
 
-__Downloads__: 557,152 | __Repository__: 
+__Downloads__: 557,156 | __Repository__: 
 
 ## [Brownserve.PSTools](https://www.powershellgallery.com/Packages/Brownserve.PSTools/0.15.0) | 0.15.0
 
@@ -301,7 +351,7 @@ __Downloads__: 504 | __Repository__:
 
 The Cayosoft Graph (cGraph) Module for Microsoft PowerShell is a FREE SOLUTION that allows administrators to use PowerShell to call the Microsoft Graph API to manage any Graph accessible resource such as, Azure AD, Office 365, Outlook, OneDrive, Intune and more...
 
-__Downloads__: 9,167 | __Repository__: https://www.cayosoft.com/cgraph
+__Downloads__: 9,166 | __Repository__: https://www.cayosoft.com/cgraph
 
 ## [PSSYSAdm](https://www.powershellgallery.com/Packages/PSSYSAdm/0.0.5) | 0.0.5
 
@@ -317,7 +367,7 @@ __Downloads__: 18 | __Repository__:
 
 Automation tools for production quality database deployment
 
-__Downloads__: 4,406,825 | __Repository__: https://www.red-gate.com/sca/productpage
+__Downloads__: 4,406,589 | __Repository__: https://www.red-gate.com/sca/productpage
 
 ## [VSTeam](https://www.powershellgallery.com/Packages/VSTeam/7.13.3) | 7.13.3
 
@@ -341,7 +391,7 @@ __Downloads__: 540 | __Repository__: https://celin.io/ais.pwsh/
 
 This module is an alternative to Evergreen, and allows you to find the latest version and download URL for various Windows apps. Evergreen uses API queries to obtain its data whereas this module is more focussed on web scraping. This is more prone to breaking when websites are changed, hence the name!
 
-__Downloads__: 59,976 | __Repository__: https://github.com/DanGough/Nevergreen
+__Downloads__: 59,974 | __Repository__: https://github.com/DanGough/Nevergreen
 
 ## [WindowsUpdateSetting](https://www.powershellgallery.com/Packages/WindowsUpdateSetting/1.0.0) | 1.0.0
 
@@ -389,7 +439,7 @@ __Downloads__: 13,467 | __Repository__: https://github.com/chris-peterson/pwsh-g
 
 Hot August Edition
 
-__Downloads__: 846,050 | __Repository__: https://github.com/OSDeploy/OSD
+__Downloads__: 846,052 | __Repository__: https://github.com/OSDeploy/OSD
 
 ## [PAF](https://www.powershellgallery.com/Packages/PAF/0.2.5) | 0.2.5
 
@@ -398,6 +448,14 @@ __Downloads__: 846,050 | __Repository__: https://github.com/OSDeploy/OSD
 The PowerShell Awesome Framework is a versatile and user-friendly PowerShell module that empowers users to streamline their scripting experience with a collection of useful code snippets. This framework is designed to enhance productivity and simplify the execution of various PowerShell tasks, making it a valuable tool for both beginners and experienced PowerShell users.
 
 __Downloads__: 69 | __Repository__: https://github.com/voytas75/PowershellFramework
+
+## [TrustyTools](https://www.powershellgallery.com/Packages/TrustyTools/1.0.0) | 1.0.0
+
+### Published: 08/09/2023 11:51:08 by Tristan Brazier
+
+A collection of handy tools
+
+__Downloads__: 11 | __Repository__: https://github.com/TrustyTristan/TrustyTools
 
 ## [IDandCollabTools](https://www.powershellgallery.com/Packages/IDandCollabTools/0.8) | 0.8
 
@@ -1502,7 +1560,7 @@ __Downloads__: 28,834 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions that generate configuration scripts and manage FortiOS.
 
-__Downloads__: 7,879 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 7,878 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.VMWareAutomate](https://www.powershellgallery.com/Packages/AdminToolbox.VMWareAutomate/4.8.96) | 4.8.96
 
@@ -1542,7 +1600,7 @@ __Downloads__: 24,163 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Microsoft Graph interactive API Functions
 
-__Downloads__: 4,923 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 4,922 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.Fun](https://www.powershellgallery.com/Packages/AdminToolbox.Fun/1.6.100) | 1.6.100
 
@@ -1606,7 +1664,7 @@ __Downloads__: 2 | __Repository__: https://github.com/thordreier/ShaCrypt
 
 This PS Module contains functions necessary to use 4PS general tasks
 
-__Downloads__: 4,669 | __Repository__: 
+__Downloads__: 4,668 | __Repository__: 
 
 ## [AsBuiltReport.NetApp.ONTAP](https://www.powershellgallery.com/Packages/AsBuiltReport.NetApp.ONTAP/0.6.6) | 0.6.6
 
@@ -1632,7 +1690,7 @@ __Downloads__: 13 | __Repository__: https://github.com/anongitmous/k8sShell/wiki
 
 Provide a better and easier way for GitHub Actions to communicate with the runner machine, and the toolkit for developing GitHub Actions in PowerShell.
 
-__Downloads__: 71,430 | __Repository__: https://github.com/hugoalh-studio/ghactions-toolkit-powershell
+__Downloads__: 71,427 | __Repository__: https://github.com/hugoalh-studio/ghactions-toolkit-powershell
 
 ## [WinGet-Essentials](https://www.powershellgallery.com/Packages/WinGet-Essentials/1.0.2) | 1.0.2
 
@@ -1674,6 +1732,14 @@ This module contains tools to manage module dependencies.
 
 __Downloads__: 13 | __Repository__: https://github.com/FranciscoNabas/LibSnitcher
 
+## [PSQuizMaster](https://www.powershellgallery.com/Packages/PSQuizMaster/1.0.0) | 1.0.0
+
+### Published: 08/07/2023 14:48:43 by Jeff Hicks
+
+A module for running and creating quizzes to learn PowerShell. Quizzes are stored as JSON files.
+
+__Downloads__: 8 | __Repository__: https://github.com/jdhitsolutions/PSQuizMaster
+
 ## [KeDo_AZTableAPI](https://www.powershellgallery.com/Packages/KeDo_AZTableAPI/3.2.1) | 3.2.1
 
 ### Published: 08/07/2023 12:46:34 by Ken Dobrunz
@@ -1696,7 +1762,7 @@ __Downloads__: 7,569 | __Repository__: https://github.com/srozemuller/AzAvd
 
 Provides access to credentials in the Windows Credential Manager (continuation of CredentialManager by Dave Garnar)
 
-__Downloads__: 10,775 | __Repository__: https://github.com/echalone/PowerShell_Credential_Manager
+__Downloads__: 10,758 | __Repository__: https://github.com/echalone/PowerShell_Credential_Manager
 
 ## [poc3](https://www.powershellgallery.com/Packages/poc3/0.0.1) | 0.0.1
 
@@ -1758,7 +1824,15 @@ __Downloads__: 46 | __Repository__:
 
 Powershell module for creating and extracting 7-Zip archives
 
-__Downloads__: 11,551,742 | __Repository__: https://github.com/thoemmi/7Zip4Powershell
+__Downloads__: 11,547,910 | __Repository__: https://github.com/thoemmi/7Zip4Powershell
+
+## [QuickFix](https://www.powershellgallery.com/Packages/QuickFix/0.2.1) | 0.2.1
+
+### Published: 08/06/2023 13:34:15 by chris.mcdonald19@pm.me
+
+This script is designed to minimise the impact on helpdesk by automatically testing and resolving issues where possible and flagging potential future issues to helpdesk before it becomes an issue.
+
+__Downloads__: 8 | __Repository__: 
 
 ## [ScriptFramework](https://www.powershellgallery.com/Packages/ScriptFramework/1.3.0) | 1.3.0
 
@@ -1986,76 +2060,4 @@ This PowerShell module contains cmdlets for managing SolarWinds Orion.
 
 __Downloads__: 469,778 | __Repository__: https://github.com/solarwinds/OrionSDK
 
-## [RobocopyPS](https://www.powershellgallery.com/Packages/RobocopyPS/0.2.20) | 0.2.20
-
-### Published: 08/04/2023 09:57:21 by Simon Bergwall
-
-Wrapper for Robocopy
-
-__Downloads__: 6,010,880 | __Repository__: https://github.com/sbergwall/RobocopyPS
-
-## [OfficeAndAzureTools](https://www.powershellgallery.com/Packages/OfficeAndAzureTools/9.10.10) | 9.10.10
-
-### Published: 08/04/2023 08:00:02 by JT
-
-OfficeAndAzureTools
-
-__Downloads__: 7 | __Repository__: 
-
-## [DockerCompletion](https://www.powershellgallery.com/Packages/DockerCompletion/1.2300.0.230804) | 1.2300.0.230804
-
-### Published: 08/04/2023 07:54:01 by Masatoshi Higuchi
-
-Docker command completion for PowerShell.
-
-__Downloads__: 21,698 | __Repository__: https://github.com/matt9ucci/DockerCompletion
-
-## [HyperVTools](https://www.powershellgallery.com/Packages/HyperVTools/4.7.3) | 4.7.3
-
-### Published: 08/04/2023 07:17:45 by JT
-
-HyperVTools
-
-__Downloads__: 152 | __Repository__: 
-
-## [7ZipArchiveDsc](https://www.powershellgallery.com/Packages/7ZipArchiveDsc/1.9.1) | 1.9.1
-
-### Published: 08/04/2023 06:29:56 by mkht
-
-PowerShell DSC Resource to expand an archive file to a specific path.
-
-__Downloads__: 15,377 | __Repository__: https://github.com/mkht/7ZipArchiveDsc
-
-## [SPClientCore](https://www.powershellgallery.com/Packages/SPClientCore/5.3.0.120) | 5.3.0.120
-
-### Published: 08/04/2023 05:57:44 by karamem0
-
-SharePoint Service Module for PowerShell
-
-__Downloads__: 2,537 | __Repository__: https://github.com/karamem0/sp-client-core
-
-## [Fly.Client](https://www.powershellgallery.com/Packages/Fly.Client/3.8.2) | 3.8.2
-
-### Published: 08/04/2023 03:05:02 by AvePointInc
-
-Fly.Client - the PowerShell module for Fly SDK API
-
-__Downloads__: 83 | __Repository__: https://github.com/AvePoint/fly-client
-
-## [Get-LoggedUser](https://www.powershellgallery.com/Packages/Get-LoggedUser/0.0.2) | 0.0.2
-
-### Published: 08/04/2023 01:39:08 by Erick Torres do Vale
-
-This module converts quser results to object
-
-__Downloads__: 17 | __Repository__: 
-
-## [cr-devops-rest](https://www.powershellgallery.com/Packages/cr-devops-rest/2023.8.279) | 2023.8.279
-
-### Published: 08/03/2023 23:08:24 by Ryan.Phay@clearesult.com
-
-Create straight forward REST calls in PowerShell based on API endpoints defined in .json files.  Add your own REST API endpoints by simply creating new .json files.
-
-__Downloads__: 71 | __Repository__: https://github.com/CLEAResult/it.devops.psm.rest
-
-*Updated: Sunday, 13 August 2023 02:01:14 UTC*
+*Updated: Sunday, 13 August 2023 09:53:31 UTC*
