@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Sunday, 13 August 2023 17:52:45 UTC
+Updated: Monday, 14 August 2023 02:01:42 UTC
 
 .bat
 .env
@@ -73,7 +73,6 @@ about
 abr
 abstractsyntaxtree
 abuse
-abuseipdb
 acas
 accelerator
 access
@@ -427,6 +426,7 @@ arcus
 area
 arg
 argument
+argumentcompleter
 arguments
 arm
 arm-json
@@ -781,6 +781,7 @@ bitcoin
 bitlocker
 bitwarden
 bitwig
+bitwise
 biztalk
 biztalkalm
 biztalkdeploymentframework
@@ -884,6 +885,7 @@ bulk
 bulletin
 bullhorn
 bundle
+bup
 burpsuite
 bus
 business
@@ -893,6 +895,7 @@ businesshours
 businessobjects
 businessrulesengine
 businesstime
+bxor
 bydesign
 byexample
 bynarypsmodule
@@ -1793,6 +1796,7 @@ directory
 directory psedition_core psedition_desktop
 directory-transform
 directorymarks
+directoryname
 directorysearcher
 directorysecurity
 directrouting
@@ -2556,7 +2560,6 @@ funny
 fusion
 fusionapps
 fuzzy
-fyi
 fzf
 gac
 gainz
@@ -2785,7 +2788,6 @@ gzip-compression
 ha
 haarlemsdagblad
 hack
-hacking
 hacktoberfest
 hadoop
 hafr
@@ -3170,7 +3172,6 @@ intellisense
 interactive
 interactive-brokers
 interface
-interlogix
 internet
 internet-explorer
 internetconnection
@@ -3449,6 +3450,8 @@ laps
 laragon
 laserbeams
 last
+last.fm
+lastfm
 lastlogon
 lastpass
 latency
@@ -3684,6 +3687,8 @@ magnet
 mail
 mailbox
 mailchimp
+mailgroup
+mailgroupmember
 mailing
 mailkit
 mails
@@ -3768,6 +3773,7 @@ mb
 mbc
 mbs
 mc
+mcafee
 mcas
 mchapv2
 mct
@@ -4214,6 +4220,7 @@ notify-send
 nova
 npgsql
 npm
+npm-upgrade
 nprinting
 nprintingapi
 nps
@@ -5059,9 +5066,6 @@ pspath
 pspersonio
 pspowerhour
 psprofiler
-psproject
-psprojectcreator
-psprojectgenerator
 psprovider
 psprtg
 pspublicapi
@@ -5182,6 +5186,7 @@ quality
 qualys
 quandl
 quantum
+quarantine
 queries
 query
 queue
@@ -6379,6 +6384,7 @@ tab-completion
 tab-expansion
 tabcompletion
 tabexpansion
+tabexpansion2
 tablacus
 table
 tableau
@@ -6650,7 +6656,6 @@ troubleshooting
 trouw
 truecrypt
 truenas
-truportal
 trusted
 trusted-host
 trustedhosts
@@ -6964,6 +6969,7 @@ vie
 viewer
 viewgroup
 vigenere
+vim
 vimode
 virole
 virsh
@@ -7091,6 +7097,7 @@ vxrail
 w32time
 w365
 w3svc
+w3w
 waa
 waas
 wac
@@ -7176,6 +7183,7 @@ well-known
 wem
 wemsdk
 wer
+what3words
 whatismyip
 whatsnew
 whatsupgold
@@ -7429,6 +7437,7 @@ xmla
 xmlrpc
 xmlutils
 xoauth2
+xor
 xpath
 xpendingreboot
 xpertdoc
@@ -7446,6 +7455,7 @@ yahoo
 yahw
 yamaha
 yaml
+yandex
 yapg
 yarn
 yetanotherhelloworld
