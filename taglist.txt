@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 14 August 2023 09:52:50 UTC
+Updated: Monday, 14 August 2023 17:53:32 UTC
 
 .bat
 .env
@@ -260,7 +260,6 @@ alertmail
 alertmanagement
 alerts
 alertsmanagement
-alfresco
 algorithm
 algorithms
 alias
@@ -352,7 +351,6 @@ apimanagement
 apis
 aplication
 apm
-apmconfig
 apmcontrolplane
 apmsynthetics
 apmtraces
@@ -2398,7 +2396,6 @@ fileserver
 fileserverresourcemanager
 fileshare
 filesharing
-filestorage
 filestream
 filesystem
 filesystementry-matcher
@@ -2815,6 +2812,7 @@ har
 hard
 hardblock
 harden
+harden-windows-security
 hardening
 hardlink
 hardware
@@ -2866,6 +2864,7 @@ helpdesk
 helpdoc
 helper
 helper-functions
+helperfunctions
 helpers
 helpfile
 heml
@@ -2874,7 +2873,6 @@ hewlett
 hewlett-packard
 hewlett-packardenterprise
 hex
-hg
 hibernate
 hibernation
 hibp
@@ -2895,6 +2893,7 @@ hipchat
 hiragana
 histogram
 history
+historyninja
 hitrust
 hive
 hivehome
@@ -3190,6 +3189,7 @@ inventory
 investigation
 investment
 investments
+invitation
 invocation
 invoice
 invoke
@@ -3352,6 +3352,7 @@ karabiner-elements
 karma
 kaseya
 kaseyavsa
+kaspersky
 katakana
 kb
 kbarticle
@@ -3775,6 +3776,7 @@ mc
 mcafee
 mcas
 mchapv2
+mct
 md5
 md5_v2-afbf3dae88c049d004174f2d610ee134
 md5sum
@@ -3819,7 +3821,6 @@ menu
 menus
 meraki
 merakiapi
-mercurial
 merge
 mermaid
 message
@@ -4218,7 +4219,6 @@ notify-send
 nova
 npgsql
 npm
-npm-upgrade
 nprinting
 nprintingapi
 nps
@@ -4310,6 +4310,7 @@ office365
 officedev
 officegraph
 officemessageencryption
+officertool
 offline
 offlinewimservicing
 ofx
@@ -4972,12 +4973,14 @@ psappdeploytoolkit
 psat
 psazd
 psbackup
+psbbix
 psbicep
 psclient
 pscmdlet
 pscommander
 psconfasia
 psconfeu
+psconfig
 pscore
 pscredential
 pscribo
@@ -5103,6 +5106,7 @@ pswinreportingv2
 psword
 pswriteword
 psyaml
+pszabbix
 pubg
 public
 public-key
@@ -5712,6 +5716,7 @@ securestring
 security
 security-awareness-training
 security-policy
+security-score
 security-txt
 security.txt
 securityassertionmarkuplanguage
@@ -5863,7 +5868,9 @@ shared
 sharefile
 sharepoint
 sharepoint_online
+sharepoint-on-prem
 sharepoint-online
+sharepoint-product-configuration-wizard
 sharepoint2013
 sharepointdevelopmentcommunity
 sharepointonline
@@ -6081,6 +6088,7 @@ spellcheck
 spelling
 spf
 spi
+spicetify
 spinnaker
 splash
 splat
@@ -6497,6 +6505,7 @@ text-to-image
 text-to-speach"
 text-to-speech
 text2image
+textanalysis
 textbuffer
 texting
 textprocessing
@@ -6664,6 +6673,7 @@ tst1
 tst3
 ttrpg
 tts
+tubedownloader
 tui
 tulpep
 tuner
@@ -6695,6 +6705,7 @@ types.ps1xml
 typescript
 tzutil
 uac
+uberagent
 ubiquiti
 ubnt
 ubuntu
@@ -6715,12 +6726,11 @@ ud-component
 ud-confetti
 ud-control
 ud-dashboard
-ud-field
+ud-datepicker
 ud-flexytable
 ud-funnel
 ud-hero
 ud-illustration
-ud-input
 ud-licensed
 ud-loadingoverlay
 ud-minesweeper
@@ -6767,6 +6777,7 @@ ui7
 uk
 ul
 ulid
+ultimatetool
 um
 uml
 umn
@@ -6898,13 +6909,13 @@ variable
 variables
 variance
 variants
+vastlimits
 vault
 vaultextension
 vaultstore
 vb365
 vba
 vbaproject
-vbproj
 vbr
 vbscript
 vbsinst
@@ -7245,6 +7256,7 @@ windowsinstaller
 windowsinternaldatabase
 windowsinternals
 windowsiotservices
+windowsiso
 windowsmanagementframework
 windowspackagemanager
 windowsplugins
@@ -7272,6 +7284,7 @@ winform
 winforms
 winget
 wingetbridge
+winrar
 winrm
 winrs
 winrt
@@ -7341,6 +7354,7 @@ wql
 wrap
 wrap-text
 wrapper
+wrapperfunctions
 wrc
 wrike
 write
@@ -7451,6 +7465,7 @@ yq
 yubaba
 z
 zabbix
+zabbixps
 zap
 zcat
 zendesk
