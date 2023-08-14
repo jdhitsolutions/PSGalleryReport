@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 14 August 2023 02:01:42 UTC
+Updated: Monday, 14 August 2023 09:52:50 UTC
 
 .bat
 .env
@@ -73,6 +73,7 @@ about
 abr
 abstractsyntaxtree
 abuse
+abuseipdb
 acas
 accelerator
 access
@@ -2560,6 +2561,7 @@ funny
 fusion
 fusionapps
 fuzzy
+fyi
 fzf
 gac
 gainz
@@ -2788,6 +2790,7 @@ gzip-compression
 ha
 haarlemsdagblad
 hack
+hacking
 hacktoberfest
 hadoop
 hafr
@@ -2812,7 +2815,6 @@ har
 hard
 hardblock
 harden
-harden-windows-security
 hardening
 hardlink
 hardware
@@ -2864,7 +2866,6 @@ helpdesk
 helpdoc
 helper
 helper-functions
-helperfunctions
 helpers
 helpfile
 heml
@@ -2894,7 +2895,6 @@ hipchat
 hiragana
 histogram
 history
-historyninja
 hitrust
 hive
 hivehome
@@ -3352,7 +3352,6 @@ karabiner-elements
 karma
 kaseya
 kaseyavsa
-kaspersky
 katakana
 kb
 kbarticle
@@ -3776,7 +3775,6 @@ mc
 mcafee
 mcas
 mchapv2
-mct
 md5
 md5_v2-afbf3dae88c049d004174f2d610ee134
 md5sum
@@ -4312,7 +4310,6 @@ office365
 officedev
 officegraph
 officemessageencryption
-officertool
 offline
 offlinewimservicing
 ofx
@@ -4975,14 +4972,12 @@ psappdeploytoolkit
 psat
 psazd
 psbackup
-psbbix
 psbicep
 psclient
 pscmdlet
 pscommander
 psconfasia
 psconfeu
-psconfig
 pscore
 pscredential
 pscribo
@@ -5066,10 +5061,12 @@ pspath
 pspersonio
 pspowerhour
 psprofiler
+psproject
+psprojectcreator
+psprojectgenerator
 psprovider
 psprtg
 pspublicapi
-psql
 psraw
 psreadexif
 psreadline
@@ -5106,7 +5103,6 @@ pswinreportingv2
 psword
 pswriteword
 psyaml
-pszabbix
 pubg
 public
 public-key
@@ -5716,7 +5712,6 @@ securestring
 security
 security-awareness-training
 security-policy
-security-score
 security-txt
 security.txt
 securityassertionmarkuplanguage
@@ -5868,9 +5863,7 @@ shared
 sharefile
 sharepoint
 sharepoint_online
-sharepoint-on-prem
 sharepoint-online
-sharepoint-product-configuration-wizard
 sharepoint2013
 sharepointdevelopmentcommunity
 sharepointonline
@@ -6088,7 +6081,6 @@ spellcheck
 spelling
 spf
 spi
-spicetify
 spinnaker
 splash
 splat
@@ -6505,7 +6497,6 @@ text-to-image
 text-to-speach"
 text-to-speech
 text2image
-textanalysis
 textbuffer
 texting
 textprocessing
@@ -6673,7 +6664,6 @@ tst1
 tst3
 ttrpg
 tts
-tubedownloader
 tui
 tulpep
 tuner
@@ -6705,7 +6695,6 @@ types.ps1xml
 typescript
 tzutil
 uac
-uberagent
 ubiquiti
 ubnt
 ubuntu
@@ -6726,7 +6715,6 @@ ud-component
 ud-confetti
 ud-control
 ud-dashboard
-ud-datepicker
 ud-field
 ud-flexytable
 ud-funnel
@@ -6779,7 +6767,6 @@ ui7
 uk
 ul
 ulid
-ultimatetool
 um
 uml
 umn
@@ -6911,7 +6898,6 @@ variable
 variables
 variance
 variants
-vastlimits
 vault
 vaultextension
 vaultstore
@@ -7259,7 +7245,6 @@ windowsinstaller
 windowsinternaldatabase
 windowsinternals
 windowsiotservices
-windowsiso
 windowsmanagementframework
 windowspackagemanager
 windowsplugins
@@ -7287,7 +7272,6 @@ winform
 winforms
 winget
 wingetbridge
-winrar
 winrm
 winrs
 winrt
@@ -7357,7 +7341,6 @@ wql
 wrap
 wrap-text
 wrapper
-wrapperfunctions
 wrc
 wrike
 write
@@ -7468,7 +7451,6 @@ yq
 yubaba
 z
 zabbix
-zabbixps
 zap
 zcat
 zendesk
