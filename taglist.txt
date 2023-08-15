@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 14 August 2023 17:53:32 UTC
+Updated: Tuesday, 15 August 2023 02:01:19 UTC
 
 .bat
 .env
@@ -84,7 +84,6 @@ accesscontroldsc
 accessgovernancecp
 accesspoint
 accessrights
-accesstoken
 accord
 accord.net
 accordian
@@ -260,6 +259,7 @@ alertmail
 alertmanagement
 alerts
 alertsmanagement
+alfresco
 algorithm
 algorithms
 alias
@@ -356,7 +356,6 @@ apmsynthetics
 apmtraces
 aportal
 app
-app-only
 app-v
 app-volumes
 app.config
@@ -758,7 +757,6 @@ bikeshed
 billing
 billingbenefits
 bin
-bin-obj
 binary
 binaryip
 bind
@@ -1664,7 +1662,6 @@ dcom
 dcr
 debian
 debug
-debug-files
 debugger
 debugging
 decimal
@@ -1698,7 +1695,6 @@ defenderast
 defenderforendpoint
 defense
 deflate
-delegated
 delegationmodel
 delete
 delete-orphan-branches
@@ -1749,7 +1745,6 @@ devenv
 devexpress
 deviation
 device
-devicecode
 deviceid
 deviceprovisioningservice
 devices
@@ -2041,7 +2036,6 @@ ebur128
 ec2
 ecommerce
 ecovadis
-edgaronline
 edge
 edgebackup
 edgeexport
@@ -2737,7 +2731,6 @@ granttype
 graph
 graph-api
 graphapi
-graphapirequests
 graphexplorer
 graphic
 graphics
@@ -2873,6 +2866,7 @@ hewlett
 hewlett-packard
 hewlett-packardenterprise
 hex
+hg
 hibernate
 hibernation
 hibp
@@ -3171,6 +3165,7 @@ intellisense
 interactive
 interactive-brokers
 interface
+interlogix
 internet
 internet-explorer
 internetconnection
@@ -3352,7 +3347,6 @@ karabiner-elements
 karma
 kaseya
 kaseyavsa
-kaspersky
 katakana
 kb
 kbarticle
@@ -3776,7 +3770,6 @@ mc
 mcafee
 mcas
 mchapv2
-mct
 md5
 md5_v2-afbf3dae88c049d004174f2d610ee134
 md5sum
@@ -3821,6 +3814,7 @@ menu
 menus
 meraki
 merakiapi
+mercurial
 merge
 mermaid
 message
@@ -3928,7 +3922,6 @@ mocking
 modify
 module
 module-maintenance
-modulebuild
 modulecreation
 modulemanagement
 modules
@@ -4101,8 +4094,6 @@ nedyalkov
 neo4j
 neptune
 nerdfonts
-nerdio
-nerdioapi
 nerdymishka
 nessus
 nested
@@ -4191,7 +4182,6 @@ nlm
 nlog
 nmap
 nmbell
-nmm
 nntp
 node
 nodejs
@@ -4219,6 +4209,7 @@ notify-send
 nova
 npgsql
 npm
+npm-upgrade
 nprinting
 nprintingapi
 nps
@@ -4310,7 +4301,6 @@ office365
 officedev
 officegraph
 officemessageencryption
-officertool
 offline
 offlinewimservicing
 ofx
@@ -4381,7 +4371,6 @@ openhere
 openid
 openidconnect
 openinghours
-openport
 openprovider
 openscad
 opensearch
@@ -5017,7 +5006,6 @@ pses
 psexcel
 psexec
 psexec.exe
-psexpandline
 psfciv
 psfitbit
 psfive9
@@ -5315,7 +5303,6 @@ reference
 reflect
 reflection
 refresh
-refreshtoken
 reg
 regardscitoyen
 regcli
@@ -6088,7 +6075,6 @@ spellcheck
 spelling
 spf
 spi
-spicetify
 spinnaker
 splash
 splat
@@ -6424,7 +6410,6 @@ taxonomy
 tcp
 tcp/ip
 tcpip
-tcpport
 tcprjmgmt
 tcpserver
 tcptest
@@ -6638,7 +6623,6 @@ travel
 trec
 tree
 treesize
-treffynnon
 trein
 trello
 trellops
@@ -6656,6 +6640,7 @@ troubleshooting
 trouw
 truecrypt
 truenas
+truportal
 trusted
 trusted-host
 trustedhosts
@@ -6673,7 +6658,6 @@ tst1
 tst3
 ttrpg
 tts
-tubedownloader
 tui
 tulpep
 tuner
@@ -6727,10 +6711,12 @@ ud-confetti
 ud-control
 ud-dashboard
 ud-datepicker
+ud-field
 ud-flexytable
 ud-funnel
 ud-hero
 ud-illustration
+ud-input
 ud-licensed
 ud-loadingoverlay
 ud-minesweeper
@@ -6777,7 +6763,6 @@ ui7
 uk
 ul
 ulid
-ultimatetool
 um
 uml
 umn
@@ -6862,7 +6847,6 @@ user-environment
 userdiscovery
 usergroup
 userinterface
-usermanagement
 username
 userprofile
 userright
@@ -6916,6 +6900,7 @@ vaultstore
 vb365
 vba
 vbaproject
+vbproj
 vbr
 vbscript
 vbsinst
@@ -6995,7 +6980,6 @@ virus
 virustotal
 visio
 visual
-visual-studio
 visualbuilder
 visualc
 visualization
@@ -7256,7 +7240,6 @@ windowsinstaller
 windowsinternaldatabase
 windowsinternals
 windowsiotservices
-windowsiso
 windowsmanagementframework
 windowspackagemanager
 windowsplugins
