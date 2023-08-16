@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Wednesday, 16 August 2023 02:01:24 UTC
+Updated: Wednesday, 16 August 2023 09:52:52 UTC
 
 .bat
 .env
@@ -78,6 +78,7 @@ acas
 accelerator
 access
 access-control
+access-points
 accesscontrol
 accesscontroldsc
 accessgovernancecp
@@ -244,12 +245,12 @@ aivision
 ajustee
 aka.ms
 aks
-aks-hci
 akscluster
 al
 alac
 alarm
 alb
+albums
 alc
 alero
 alert
@@ -410,6 +411,7 @@ arangodb
 arc
 arcade
 arcgis
+arch
 architecture
 architecuture
 archive
@@ -915,6 +917,7 @@ calendar
 callingcode
 callqueue
 calvin-and-hobbes
+cam
 camera
 campaign
 camtasia
@@ -1072,6 +1075,7 @@ cipher
 circuit-breaker
 circumlunar
 cireson
+ciresonassetmanagement
 ciresonportal
 cis
 cisco
@@ -2008,6 +2012,7 @@ dutch
 dvls
 dxexpeditions
 dynamic
+dynamic-host-configuration-protocol
 dynamicdistributiongroups
 dynamicdnsoverhttps
 dynamicparam
@@ -2333,6 +2338,7 @@ fastgit
 fastlinq
 fastlookup
 fastping
+fasttrack
 favorites
 fb-pro
 fciv
@@ -2722,6 +2728,8 @@ gping
 gpio
 gplink
 gpo
+gpo-maintenance
+gpo-tools
 gpodoc
 gpolinks
 gpp
@@ -3219,7 +3227,6 @@ ip-scanner
 ipa
 ipaddress
 ipam
-ipbroadcast
 ipc
 ipcalc
 ipcalculator
@@ -3266,7 +3273,6 @@ itemlist
 itemobject
 itemstack
 iterate
-iteration
 itg
 itglue
 itin
@@ -3315,6 +3321,7 @@ journal
 joyride
 jpg
 jq
+js7
 jsm
 jsm.insight
 json
@@ -3550,7 +3557,6 @@ litedb
 literature
 live
 lldp
-lmhost
 lmhosts
 lms
 load
@@ -3765,7 +3771,6 @@ matrix
 maven
 max
 max_path
-maximum
 maxoffice
 mazerat
 mb
@@ -3850,7 +3855,6 @@ microservices
 microsoft
 microsoft_365
 microsoft_azure
-microsoft_endpoint_manager
 microsoft_online
 microsoft_teams
 microsoft-graph
@@ -3902,7 +3906,6 @@ minecraft
 miniconda
 minifier
 minimal
-minimum
 mip
 mipsdk
 miration-step
@@ -3939,6 +3942,7 @@ moduleupdater
 moduleversion
 mof
 moldova
+moment
 monaco
 monday
 mondoo
@@ -4652,6 +4656,7 @@ pipeline
 pipelines
 pipescript
 piraeus
+pivot
 pivotal
 pivottable
 pixoo
@@ -4671,6 +4676,7 @@ play
 playback
 playbook
 player
+playlists
 pleasant
 pleasantpasswordserver
 plex
@@ -5187,7 +5193,6 @@ qualys
 quandl
 quantum
 quarantine
-queries
 query
 queue
 queues
@@ -5264,6 +5269,7 @@ readable
 reader
 readiness
 readme
+readpdf
 readthedocs
 realschule
 realtimeprotection
@@ -5555,6 +5561,7 @@ safari
 safe
 safeguard
 sage
+saggiehaim
 sailpoint
 sale
 sales
@@ -6070,7 +6077,6 @@ speak
 speaker
 spec
 specification
-specify
 spectre
 spectrumconnect
 spectrumcontrolbase
@@ -6384,6 +6390,7 @@ tabexpansion
 tabexpansion2
 tablacus
 table
+tableau
 tabler
 tables
 tablestorage
@@ -6761,10 +6768,10 @@ ud-toploader
 ud-trendline
 ud-typing
 ud-window
+ud-wordtree
 udcm
 udfeedback
 udp
-udpclient
 udptest
 udr
 udthememode
@@ -7071,6 +7078,7 @@ vscode
 vsdevcmd
 vsdevshell
 vsenvironment
+vsm
 vso
 vsphere
 vsphere+
@@ -7255,6 +7263,7 @@ windowsinternaldatabase
 windowsinternals
 windowsiotservices
 windowsiso
+windowsmanagementframework
 windowspackagemanager
 windowsplugins
 windowspowershell
@@ -7304,6 +7313,7 @@ with
 wizard
 wkhtmltopdf
 wlan
+wmf
 wmf5
 wmi
 wmifilter
@@ -7432,6 +7442,7 @@ xmlutils
 xoauth2
 xor
 xpath
+xpendingreboot
 xpertdoc
 xpo
 xprotect
@@ -7442,6 +7453,7 @@ xtremio
 xtrude
 xunit
 xwiki
+xwindowsupdate
 yahoo
 yahw
 yamaha

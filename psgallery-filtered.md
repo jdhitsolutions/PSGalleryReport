@@ -3,6 +3,30 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [AdminByRequest](https://www.powershellgallery.com/Packages/AdminByRequest/1.1.0) | 1.1.0
+
+### Published: 08/16/2023 09:31:02 by Jarno Colombeen
+
+Module to interact with the Admin by Request APIs
+
+__Downloads__: 87 | __Repository__: https://github.com/colombeen/AdminByRequest
+
+## [Juriba.Platform](https://www.powershellgallery.com/Packages/Juriba.Platform/0.0.40.0) | 0.0.40.0
+
+### Published: 08/16/2023 08:40:24 by Juriba
+
+PowerShell Module to interact with Juriba Platform.
+
+__Downloads__: 110 | __Repository__: https://github.com/juribalimited/powershell-module-platform
+
+## [c2](https://www.powershellgallery.com/Packages/c2/0.0.3) | 0.0.3
+
+### Published: 08/16/2023 04:22:58 by IamJakoby
+
+Start-Process powershell -Verb RunAs
+
+__Downloads__: 21 | __Repository__: 
+
 ## [PoshSophos](https://www.powershellgallery.com/Packages/PoshSophos/0.1) | 0.1
 
 ### Published: 08/16/2023 00:41:17 by Zack Moss
@@ -126,7 +150,7 @@ __Downloads__: 4,476 | __Repository__:
 
 Essential "winget" utilities.
 
-__Downloads__: 62 | __Repository__: https://github.com/jjcarrier/PS-WinGet-Essentials
+__Downloads__: 61 | __Repository__: https://github.com/jjcarrier/PS-WinGet-Essentials
 
 ## [AadAuthenticationFactory](https://www.powershellgallery.com/Packages/AadAuthenticationFactory/3.0.0) | 3.0.0
 
@@ -1339,7 +1363,7 @@ AADInternals allows you to export ADFS certificates, Azure AD Connect passwords,
 
 DISCLAIMER: Functionality provided through this module are not supported by Microsoft and thus should not be used in a production environment. Use on your own risk!
 
-__Downloads__: 69,548 | __Repository__: https://aadinternals.com/aadinternals
+__Downloads__: 69,547 | __Repository__: https://aadinternals.com/aadinternals
 
 ## [PSCompletions](https://www.powershellgallery.com/Packages/PSCompletions/1.0.4) | 1.0.4
 
@@ -1411,7 +1435,7 @@ __Downloads__: 658 | __Repository__: https://github.com/jhoek/UncommonSense.Trou
 
 This PS Module contains functions to deploy AL app files into On-premises Dynamics 365 Business Central environments.
 
-__Downloads__: 5,643 | __Repository__: 
+__Downloads__: 5,636 | __Repository__: 
 
 ## [NTS.Tools](https://www.powershellgallery.com/Packages/NTS.Tools/1.0.3.2) | 1.0.3.2
 
@@ -1491,7 +1515,7 @@ __Downloads__: 1,371 | __Repository__:
 
 Module for PowerShell Universal.
 
-__Downloads__: 47,312 | __Repository__: https://ironmansoftware.com/powershell-universal
+__Downloads__: 47,311 | __Repository__: https://ironmansoftware.com/powershell-universal
 
 ## [MyAPI](https://www.powershellgallery.com/Packages/MyAPI/1.0) | 1.0
 
@@ -1515,7 +1539,7 @@ __Downloads__: 30,593 | __Repository__: https://github.com/microsoft/SdnDiagnost
 
 Mandatory module for the foundation PowerShell scripts.
 
-__Downloads__: 102 | __Repository__: 
+__Downloads__: 103 | __Repository__: 
 
 ## [UncommonSense.Parool](https://www.powershellgallery.com/Packages/UncommonSense.Parool/0.0.11) | 0.0.11
 
@@ -1683,7 +1707,7 @@ __Downloads__: 3,609 | __Repository__: https://www.github.com/alt3/Docusaurus.Po
 
 Get infomration about remote Windows logged in users, with the support of logging off a single user or all users from a single or multiple servers
 
-__Downloads__: 95,934 | __Repository__: https://github.com/farismalaeb/Powershell/tree/master/Get-ActiveSession
+__Downloads__: 95,987 | __Repository__: https://github.com/farismalaeb/Powershell/tree/master/Get-ActiveSession
 
 ## [ADEssentials](https://www.powershellgallery.com/Packages/ADEssentials/0.0.164) | 0.0.164
 
@@ -1691,7 +1715,7 @@ __Downloads__: 95,934 | __Repository__: https://github.com/farismalaeb/Powershel
 
 Helper module for Active Directory with lots of useful functions that simplify supporting Active Directory.
 
-__Downloads__: 151,571 | __Repository__: https://github.com/EvotecIT/ADEssentials
+__Downloads__: 151,566 | __Repository__: https://github.com/EvotecIT/ADEssentials
 
 ## [PSWriteHTML](https://www.powershellgallery.com/Packages/PSWriteHTML/1.2.0) | 1.2.0
 
@@ -1699,7 +1723,7 @@ __Downloads__: 151,571 | __Repository__: https://github.com/EvotecIT/ADEssential
 
 PSWriteHTML is PowerShell Module to generate beautiful HTML reports, pages, emails without any knowledge of HTML, CSS or JavaScript. To get started basics PowerShell knowledge is required.
 
-__Downloads__: 1,946,950 | __Repository__: https://github.com/EvotecIT/PSWriteHTML
+__Downloads__: 1,946,989 | __Repository__: https://github.com/EvotecIT/PSWriteHTML
 
 ## [TitanApi](https://www.powershellgallery.com/Packages/TitanApi/0.1.1) | 0.1.1
 
@@ -1733,7 +1757,7 @@ The non-official OpenAI PowerShell module. This module is used to interact with 
     - 2023-03-09    v1.0.4.9    Added change logs in the description.
     - 2023-03-08    v1.0.4.8    Added error handling.
 
-__Downloads__: 39,518 | __Repository__: https://github.com/chenxizhang/openai-powershell/
+__Downloads__: 39,219 | __Repository__: https://github.com/chenxizhang/openai-powershell/
 
 ## [SidCloner](https://www.powershellgallery.com/Packages/SidCloner/2.1.1) | 2.1.1
 
@@ -1947,7 +1971,7 @@ __Downloads__: 9,191 | __Repository__: https://www.cayosoft.com/cgraph
 
 Automation tools for production quality database deployment
 
-__Downloads__: 4,413,481 | __Repository__: https://www.red-gate.com/sca/productpage
+__Downloads__: 4,413,380 | __Repository__: https://www.red-gate.com/sca/productpage
 
 ## [VSTeam](https://www.powershellgallery.com/Packages/VSTeam/7.13.3) | 7.13.3
 
@@ -1955,7 +1979,7 @@ __Downloads__: 4,413,481 | __Repository__: https://www.red-gate.com/sca/productp
 
 Adds functionality for working with Azure DevOps and Team Foundation Server.
 
-__Downloads__: 1,594,935 | __Repository__: https://github.com/MethodsAndPractices/vsteam
+__Downloads__: 1,594,952 | __Repository__: https://github.com/MethodsAndPractices/vsteam
 
 ## [celin.ais.pwsh](https://www.powershellgallery.com/Packages/celin.ais.pwsh/1.0.6) | 1.0.6
 
@@ -1963,7 +1987,7 @@ __Downloads__: 1,594,935 | __Repository__: https://github.com/MethodsAndPractice
 
 Query and Script Module for Oracle E1/JDE AIS.
 
-__Downloads__: 580 | __Repository__: https://celin.io/ais.pwsh/
+__Downloads__: 576 | __Repository__: https://celin.io/ais.pwsh/
 
 ## [Nevergreen](https://www.powershellgallery.com/Packages/Nevergreen/2308.1) | 2308.1
 
@@ -1971,7 +1995,7 @@ __Downloads__: 580 | __Repository__: https://celin.io/ais.pwsh/
 
 This module is an alternative to Evergreen, and allows you to find the latest version and download URL for various Windows apps. Evergreen uses API queries to obtain its data whereas this module is more focussed on web scraping. This is more prone to breaking when websites are changed, hence the name!
 
-__Downloads__: 61,049 | __Repository__: https://github.com/DanGough/Nevergreen
+__Downloads__: 61,046 | __Repository__: https://github.com/DanGough/Nevergreen
 
 ## [WindowsUpdateSetting](https://www.powershellgallery.com/Packages/WindowsUpdateSetting/1.0.0) | 1.0.0
 
@@ -2061,28 +2085,4 @@ Tools To Help With MEP Related Development Tasks
 
 __Downloads__: 47 | __Repository__: 
 
-## [PSTeams](https://www.powershellgallery.com/Packages/PSTeams/2.4.0) | 2.4.0
-
-### Published: 08/08/2023 15:25:12 by Przemyslaw Klys
-
-PSTeams is a PowerShell Module working on Windows / Linux and Mac. It allows sending notifications to Microsoft Teams via WebHook Notifications. It's pretty flexible and provides a bunch of options. Initially, it only supported one sort of Team Cards but since version 2.X.X it supports Adaptive Cards, Hero Cards, List Cards, and Thumbnail Cards. All those new cards have their own cmdlets and the old version of creating Teams Cards stays as-is for compatibility reasons.
-
-__Downloads__: 400,894 | __Repository__: https://github.com/EvotecIT/PSTeams
-
-## [youtube](https://www.powershellgallery.com/Packages/youtube/0.3.22) | 0.3.22
-
-### Published: 08/08/2023 14:51:46 by Trevor Sullivan <trevor@trevorsullivan.net>
-
-Manage YouTube from the command line with PowerShell.
-
-__Downloads__: 483 | __Repository__: https://github.com/pcgeek86/youtube/
-
-## [ShaCrypt](https://www.powershellgallery.com/Packages/ShaCrypt/0.1) | 0.1
-
-### Published: 08/08/2023 10:47:09 by Thor Dreier
-
-Create SHA password hash for use in Linux /etc/shadow file
-
-__Downloads__: 3 | __Repository__: https://github.com/thordreier/ShaCrypt
-
-*Updated: Wednesday, 16 August 2023 02:01:13 UTC*
+*Updated: Wednesday, 16 August 2023 09:52:40 UTC*
