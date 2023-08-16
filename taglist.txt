@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Tuesday, 15 August 2023 17:53:00 UTC
+Updated: Wednesday, 16 August 2023 02:01:24 UTC
 
 .bat
 .env
@@ -33,6 +33,7 @@ Updated: Tuesday, 15 August 2023 17:53:00 UTC
 2016
 2018
 2019
+21vianet
 24-bit
 2fa
 300
@@ -77,7 +78,6 @@ acas
 accelerator
 access
 access-control
-access-points
 accesscontrol
 accesscontroldsc
 accessgovernancecp
@@ -250,7 +250,6 @@ al
 alac
 alarm
 alb
-albums
 alc
 alero
 alert
@@ -411,7 +410,6 @@ arangodb
 arc
 arcade
 arcgis
-arch
 architecture
 architecuture
 archive
@@ -490,6 +488,7 @@ atlassian
 atlassiancli
 atlassianps
 atmosphere
+atom
 atp
 atrium
 att&ck
@@ -916,7 +915,6 @@ calendar
 callingcode
 callqueue
 calvin-and-hobbes
-cam
 camera
 campaign
 camtasia
@@ -1036,6 +1034,7 @@ chef-server
 chefconf2016
 chenxizhang
 cherrypy
+cherwell
 chfs
 chi
 china
@@ -1073,7 +1072,6 @@ cipher
 circuit-breaker
 circumlunar
 cireson
-ciresonassetmanagement
 ciresonportal
 cis
 cisco
@@ -2010,7 +2008,6 @@ dutch
 dvls
 dxexpeditions
 dynamic
-dynamic-host-configuration-protocol
 dynamicdistributiongroups
 dynamicdnsoverhttps
 dynamicparam
@@ -2243,6 +2240,7 @@ exchange2010
 exchange2013
 exchange2016
 exchangecluster
+exchangehybrid
 exchangemigration
 exchangeon-premise
 exchangeon-premises
@@ -2703,6 +2701,7 @@ google
 google-chrome
 google-histogram
 google-sankey
+google-table
 googleadsv2
 googlecloudplatform
 googledrive
@@ -2723,8 +2722,6 @@ gping
 gpio
 gplink
 gpo
-gpo-maintenance
-gpo-tools
 gpodoc
 gpolinks
 gpp
@@ -2738,6 +2735,7 @@ granttype
 graph
 graph-api
 graphapi
+graphapirequests
 graphexplorer
 graphic
 graphics
@@ -3826,6 +3824,7 @@ mercurial
 merge
 mermaid
 message
+messagebox
 messageoftheday
 messages
 messaging
@@ -3930,6 +3929,7 @@ modifiable-completion
 modify
 module
 module-maintenance
+modulebuild
 modulecreation
 modulemanagement
 modules
@@ -3939,7 +3939,6 @@ moduleupdater
 moduleversion
 mof
 moldova
-moment
 monaco
 monday
 mondoo
@@ -4653,7 +4652,6 @@ pipeline
 pipelines
 pipescript
 piraeus
-pivot
 pivotal
 pivottable
 pixoo
@@ -4673,7 +4671,6 @@ play
 playback
 playbook
 player
-playlists
 pleasant
 pleasantpasswordserver
 plex
@@ -4802,7 +4799,6 @@ powershell-script
 powershell-terminal
 powershell-terminal-copilot
 powershell-training
-powershell.module.invokewinget
 powershell.one
 powershell.persistentpathstack
 powershell7
@@ -5268,7 +5264,6 @@ readable
 reader
 readiness
 readme
-readpdf
 readthedocs
 realschule
 realtimeprotection
@@ -5560,7 +5555,6 @@ safari
 safe
 safeguard
 sage
-saggiehaim
 sailpoint
 sale
 sales
@@ -5798,6 +5792,7 @@ servicebusforwindowsserver
 servicecatalog
 serviceconnectionpoint
 servicecontrol
+servicedesk
 servicedeskplus
 serviceendpoints
 servicefabric
@@ -5959,7 +5954,6 @@ skype4business
 skypeforbusiness
 skypeforbusinessonline
 skypeonline
-skytap
 slack
 sln
 slugify
@@ -6322,6 +6316,7 @@ svt
 swagger
 swamid
 swarm
+swedish
 swimlane
 swis
 switch
@@ -6389,7 +6384,6 @@ tabexpansion
 tabexpansion2
 tablacus
 table
-tableau
 tabler
 tables
 tablestorage
@@ -6734,6 +6728,7 @@ ud-field
 ud-flexytable
 ud-funnel
 ud-hero
+ud-illustration
 ud-input
 ud-licensed
 ud-loadingoverlay
@@ -6766,7 +6761,6 @@ ud-toploader
 ud-trendline
 ud-typing
 ud-window
-ud-wordtree
 udcm
 udfeedback
 udp
@@ -7077,7 +7071,6 @@ vscode
 vsdevcmd
 vsdevshell
 vsenvironment
-vsm
 vso
 vsphere
 vsphere+
@@ -7262,7 +7255,6 @@ windowsinternaldatabase
 windowsinternals
 windowsiotservices
 windowsiso
-windowsmanagementframework
 windowspackagemanager
 windowsplugins
 windowspowershell
@@ -7285,6 +7277,7 @@ windowstimezone
 windowsupdate
 windowsupdates
 windowsvirtualdesktop
+winform
 winforms
 winget
 wingetbridge
@@ -7311,7 +7304,6 @@ with
 wizard
 wkhtmltopdf
 wlan
-wmf
 wmf5
 wmi
 wmifilter
@@ -7440,7 +7432,6 @@ xmlutils
 xoauth2
 xor
 xpath
-xpendingreboot
 xpertdoc
 xpo
 xprotect
@@ -7451,7 +7442,6 @@ xtremio
 xtrude
 xunit
 xwiki
-xwindowsupdate
 yahoo
 yahw
 yamaha
