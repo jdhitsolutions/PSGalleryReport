@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Wednesday, 16 August 2023 09:52:52 UTC
+Updated: Wednesday, 16 August 2023 17:53:46 UTC
 
 .bat
 .env
@@ -13,7 +13,6 @@ Updated: Wednesday, 16 August 2023 09:52:52 UTC
 'files
 'provider'
 "interactive
-🍄
 🍣
 💩
 10
@@ -245,6 +244,7 @@ aivision
 ajustee
 aka.ms
 aks
+aks-hci
 akscluster
 al
 alac
@@ -585,7 +585,6 @@ axium
 az
 az-cli
 az.automation
-azautomation
 azcli
 azcompute
 azd
@@ -593,7 +592,6 @@ azdisk
 azdo
 azereo
 azforensics
-azkeyvault
 aznetworking
 aznetworkinterface
 aznicdetails
@@ -1417,8 +1415,6 @@ couchbase
 couchdb
 couchpotato
 count
-count-lines-of-code
-count-loc
 countdown
 counter
 countries
@@ -1473,7 +1469,6 @@ credmanager
 crescendo
 crescendobuilt
 cresendo
-crestron
 crime
 crlf
 crm
@@ -2659,7 +2654,6 @@ ggplot
 gh-actions
 ghactions
 ghc
-ghibli
 ghost
 gif
 gifs
@@ -2668,7 +2662,6 @@ gist
 git
 git-client
 git-clone
-git-stat
 gitcmdline
 gitdesktop
 gitea
@@ -3227,6 +3220,7 @@ ip-scanner
 ipa
 ipaddress
 ipam
+ipbroadcast
 ipc
 ipcalc
 ipcalculator
@@ -3273,6 +3267,7 @@ itemlist
 itemobject
 itemstack
 iterate
+iteration
 itg
 itglue
 itin
@@ -3557,6 +3552,7 @@ litedb
 literature
 live
 lldp
+lmhost
 lmhosts
 lms
 load
@@ -3565,7 +3561,6 @@ loadbalancer.org
 loadtesting
 loanddepot
 loandepot
-loc
 local
 local-caching
 local-policy
@@ -3714,7 +3709,6 @@ manage-wmi
 manageability
 managed-identity
 manageddisks
-managedidentities
 managedserviceidenity
 managedserviceidentity
 managedserviceprovider
@@ -3771,6 +3765,7 @@ matrix
 maven
 max
 max_path
+maximum
 maxoffice
 mazerat
 mb
@@ -3796,7 +3791,6 @@ mdx
 me4024
 mean
 measure
-measure-loc
 measure-process
 mecm
 media
@@ -3855,6 +3849,7 @@ microservices
 microsoft
 microsoft_365
 microsoft_azure
+microsoft_endpoint_manager
 microsoft_online
 microsoft_teams
 microsoft-graph
@@ -3906,6 +3901,7 @@ minecraft
 miniconda
 minifier
 minimal
+minimum
 mip
 mipsdk
 miration-step
@@ -4805,6 +4801,7 @@ powershell-script
 powershell-terminal
 powershell-terminal-copilot
 powershell-training
+powershell.module.invokewinget
 powershell.one
 powershell.persistentpathstack
 powershell7
@@ -5193,6 +5190,7 @@ qualys
 quandl
 quantum
 quarantine
+queries
 query
 queue
 queues
@@ -5398,7 +5396,6 @@ repos
 repositories
 repository
 request
-requestfiltering
 requiredmodules
 requirements
 res
@@ -5961,6 +5958,7 @@ skype4business
 skypeforbusiness
 skypeforbusinessonline
 skypeonline
+skytap
 slack
 sln
 slugify
@@ -6077,6 +6075,7 @@ speak
 speaker
 spec
 specification
+specify
 spectre
 spectrumconnect
 spectrumcontrolbase
@@ -6226,7 +6225,6 @@ sticker
 sticker-pack
 stickers
 stig
-stigrepo
 stingar
 stock
 stockcharts
@@ -6748,7 +6746,6 @@ ud-piechart3d
 ud-pivottable
 ud-progressstepbar
 ud-rangeslider
-ud-readingbar
 ud-scrollspy
 ud-selectdatetime
 ud-selector
@@ -6772,6 +6769,7 @@ ud-wordtree
 udcm
 udfeedback
 udp
+udpclient
 udptest
 udr
 udthememode
@@ -7468,7 +7466,6 @@ youtube
 youtube-dl
 youtubeextractor
 yq
-yubaba
 z
 zabbix
 zabbixps
@@ -7499,4 +7496,3 @@ zvmlinux
 全角半角変換
 寿司
 日本語
-湯婆婆
