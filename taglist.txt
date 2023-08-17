@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Wednesday, 16 August 2023 17:53:46 UTC
+Updated: Thursday, 17 August 2023 02:00:54 UTC
 
 .bat
 .env
@@ -13,6 +13,7 @@ Updated: Wednesday, 16 August 2023 17:53:46 UTC
 'files
 'provider'
 "interactive
+🍄
 🍣
 💩
 10
@@ -69,7 +70,6 @@ abc
 abc_testing
 abe
 about
-abr
 abstractsyntaxtree
 abuse
 abuseipdb
@@ -171,7 +171,6 @@ adm
 admf
 admin
 admin-tools
-adminbyrequest
 admindirectory
 administration
 administrative
@@ -416,7 +415,6 @@ architecture
 architecuture
 archive
 archivedteams
-archivematica
 archivial
 archivial-backup
 archivial-cloud-backup
@@ -438,7 +436,6 @@ arp
 array
 arrays
 art
-artefactual
 artifact
 artifactory
 artifacts
@@ -585,6 +582,7 @@ axium
 az
 az-cli
 az.automation
+azautomation
 azcli
 azcompute
 azd
@@ -592,6 +590,7 @@ azdisk
 azdo
 azereo
 azforensics
+azkeyvault
 aznetworking
 aznetworkinterface
 aznicdetails
@@ -655,7 +654,6 @@ azurenetworking
 azurepack
 azurepipelines
 azurepolicy
-azurepowershell
 azurerepos
 azureresourcemanager
 azureresources
@@ -685,6 +683,8 @@ azvm
 b2
 back
 backblaze
+backconnection
+backconnectionhostname
 backup
 backup_validation
 bamboo
@@ -763,6 +763,7 @@ binary
 binaryip
 bind
 binding
+bindings
 bing
 bingmap
 bingmaps
@@ -915,7 +916,6 @@ calendar
 callingcode
 callqueue
 calvin-and-hobbes
-cam
 camera
 campaign
 camtasia
@@ -1028,10 +1028,6 @@ checklists
 checkpoint
 checks
 checksum
-chef
-chef-automate
-chef-compliance
-chef-server
 chefconf2016
 chenxizhang
 cherrypy
@@ -1073,7 +1069,6 @@ cipher
 circuit-breaker
 circumlunar
 cireson
-ciresonassetmanagement
 ciresonportal
 cis
 cisco
@@ -1415,6 +1410,8 @@ couchbase
 couchdb
 couchpotato
 count
+count-lines-of-code
+count-loc
 countdown
 counter
 countries
@@ -1469,6 +1466,7 @@ credmanager
 crescendo
 crescendobuilt
 cresendo
+crestron
 crime
 crlf
 crm
@@ -2005,6 +2003,7 @@ durabletask
 dust
 dutch
 dvls
+dword
 dxexpeditions
 dynamic
 dynamic-host-configuration-protocol
@@ -2093,7 +2092,6 @@ emoji
 emotion
 empire
 empty
-emwarehouse
 enable
 enable-internet
 enable-psremoting
@@ -2333,7 +2331,6 @@ fastgit
 fastlinq
 fastlookup
 fastping
-fasttrack
 favorites
 fb-pro
 fciv
@@ -2396,7 +2393,6 @@ fileserver
 fileserverresourcemanager
 fileshare
 filesharing
-filestorage
 filestream
 filesystem
 filesystementry-matcher
@@ -2456,7 +2452,6 @@ flasharray
 flashblade
 flatfile
 flatten
-fleetsoftwareupdate
 flex
 flex-query
 flexdesk
@@ -2654,6 +2649,7 @@ ggplot
 gh-actions
 ghactions
 ghc
+ghibli
 ghost
 gif
 gifs
@@ -2662,6 +2658,7 @@ gist
 git
 git-client
 git-clone
+git-stat
 gitcmdline
 gitdesktop
 gitea
@@ -2815,7 +2812,6 @@ harden-windows-security
 hardening
 hardlink
 hardware
-harperdb
 harvest
 harvestforecast
 hash
@@ -2898,6 +2894,13 @@ hitrust
 hive
 hivehome
 hjson
+hkcu
+hkey_classes_root
+hkey_current_config
+hkey_current_user
+hkey_local_machine
+hkey_users
+hklm
 hl7
 hlds
 hls
@@ -3561,6 +3564,7 @@ loadbalancer.org
 loadtesting
 loanddepot
 loandepot
+loc
 local
 local-caching
 local-policy
@@ -3709,6 +3713,7 @@ manage-wmi
 manageability
 managed-identity
 manageddisks
+managedidentities
 managedserviceidenity
 managedserviceidentity
 managedserviceprovider
@@ -3791,6 +3796,7 @@ mdx
 me4024
 mean
 measure
+measure-loc
 measure-process
 mecm
 media
@@ -4043,6 +4049,7 @@ multios
 multipass
 multiple
 multiserver
+multistring
 multithread
 multithreaded
 multithreaded-helpers
@@ -4156,6 +4163,7 @@ new-dtcmtasksequencefromdriverpackpackagedefinitionsms
 new-dynamicdictionary
 new-dynamicparameter
 new-githubrelease
+new-itemproperty
 new-pinneditem
 new-rdpsession
 new-samcmapplicationfrompackagedefinitionsms
@@ -5208,6 +5216,7 @@ quotes
 quotestoliveby
 quoting
 quser
+qword
 r
 r53
 rabbit
@@ -5267,7 +5276,6 @@ readable
 reader
 readiness
 readme
-readpdf
 readthedocs
 realschule
 realtimeprotection
@@ -5320,8 +5328,15 @@ reflection
 refresh
 refreshtoken
 reg
+reg_binary
+reg_dword
+reg_expand_sz
+reg_multi_sz
+reg_qword
+reg_sz
 regardscitoyen
 regcli
+regedit
 regex
 region
 regions
@@ -5369,6 +5384,7 @@ remotesession
 remoting
 remove
 remove-githubsecrets
+remove-itemproperty
 remove-pass
 remove-path
 remove-pinneditem
@@ -5823,6 +5839,7 @@ set_bios
 set-alias
 set-dnsservers
 set-githubsecrets
+set-itemproperty
 set-location
 set-openfiles
 set-ownership
@@ -5996,6 +6013,7 @@ snapchat
 snapping
 snapshot
 snapshots
+sni
 snipe-it
 snippet
 snippets
@@ -6164,6 +6182,7 @@ ssis
 ssl
 sslcert
 sslcertificate
+sslflags
 ssllabs
 ssllabs-scan
 sslprotocol
@@ -6225,6 +6244,7 @@ sticker
 sticker-pack
 stickers
 stig
+stigrepo
 stingar
 stock
 stockcharts
@@ -6733,7 +6753,6 @@ ud-field
 ud-flexytable
 ud-funnel
 ud-hero
-ud-illustration
 ud-input
 ud-licensed
 ud-loadingoverlay
@@ -6746,6 +6765,7 @@ ud-piechart3d
 ud-pivottable
 ud-progressstepbar
 ud-rangeslider
+ud-readingbar
 ud-scrollspy
 ud-selectdatetime
 ud-selector
@@ -6773,6 +6793,7 @@ udpclient
 udptest
 udr
 udthememode
+udword
 uefi
 ui
 ui/ux
@@ -6842,6 +6863,7 @@ upstream
 uptime
 uptimerobot
 uptobox
+uqword
 uri
 uri-scheme
 url
@@ -7466,6 +7488,7 @@ youtube
 youtube-dl
 youtubeextractor
 yq
+yubaba
 z
 zabbix
 zabbixps
@@ -7496,3 +7519,4 @@ zvmlinux
 全角半角変換
 寿司
 日本語
+湯婆婆
