@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Thursday, 17 August 2023 02:00:54 UTC
+Updated: Thursday, 17 August 2023 09:52:57 UTC
 
 .bat
 .env
@@ -70,6 +70,7 @@ abc
 abc_testing
 abe
 about
+abr
 abstractsyntaxtree
 abuse
 abuseipdb
@@ -171,6 +172,7 @@ adm
 admf
 admin
 admin-tools
+adminbyrequest
 admindirectory
 administration
 administrative
@@ -415,6 +417,7 @@ architecture
 architecuture
 archive
 archivedteams
+archivematica
 archivial
 archivial-backup
 archivial-cloud-backup
@@ -436,6 +439,7 @@ arp
 array
 arrays
 art
+artefactual
 artifact
 artifactory
 artifacts
@@ -916,6 +920,7 @@ calendar
 callingcode
 callqueue
 calvin-and-hobbes
+cam
 camera
 campaign
 camtasia
@@ -1028,6 +1033,10 @@ checklists
 checkpoint
 checks
 checksum
+chef
+chef-automate
+chef-compliance
+chef-server
 chefconf2016
 chenxizhang
 cherrypy
@@ -1069,6 +1078,7 @@ cipher
 circuit-breaker
 circumlunar
 cireson
+ciresonassetmanagement
 ciresonportal
 cis
 cisco
@@ -1601,7 +1611,6 @@ datacollectionrule
 dataconduit
 dataconnectivity
 datadog
-dataexchange
 dataexplorer
 datafactory
 dataflow
@@ -2092,6 +2101,7 @@ emoji
 emotion
 empire
 empty
+emwarehouse
 enable
 enable-internet
 enable-psremoting
@@ -2331,6 +2341,7 @@ fastgit
 fastlinq
 fastlookup
 fastping
+fasttrack
 favorites
 fb-pro
 fciv
@@ -2385,14 +2396,12 @@ filenames
 fileproperties
 filereplication
 files
-files-cli
-files-cli.exe
-files.com
 filesecurity
 fileserver
 fileserverresourcemanager
 fileshare
 filesharing
+filestorage
 filestream
 filesystem
 filesystementry-matcher
@@ -2452,6 +2461,7 @@ flasharray
 flashblade
 flatfile
 flatten
+fleetsoftwareupdate
 flex
 flex-query
 flexdesk
@@ -2554,7 +2564,6 @@ funny
 fusion
 fusionapps
 fuzzy
-fyi
 fzf
 gac
 gainz
@@ -2764,7 +2773,6 @@ gtx1080ti
 guardedfabric
 guardicore
 gubbins
-guest
 guestconfiguration
 gui
 gui.cs
@@ -2812,6 +2820,7 @@ harden-windows-security
 hardening
 hardlink
 hardware
+harperdb
 harvest
 harvestforecast
 hash
@@ -3422,7 +3431,6 @@ kudu
 kurukuru
 kusto
 kvm
-kvp
 l1tf
 l2tp
 lab
@@ -5003,7 +5011,6 @@ psdesiredstateconfiguration
 psdevops
 psdocs
 psdocs-documents
-psdocsgenerator
 psdrawio
 psdrive
 psdrives
@@ -5276,6 +5283,7 @@ readable
 reader
 readiness
 readme
+readpdf
 readthedocs
 realschule
 realtimeprotection
@@ -5412,6 +5420,7 @@ repos
 repositories
 repository
 request
+requestfiltering
 requiredmodules
 requirements
 res
@@ -6340,7 +6349,6 @@ svt
 swagger
 swamid
 swarm
-swedish
 swimlane
 swis
 switch
@@ -6753,6 +6761,7 @@ ud-field
 ud-flexytable
 ud-funnel
 ud-hero
+ud-illustration
 ud-input
 ud-licensed
 ud-loadingoverlay
@@ -7098,7 +7107,6 @@ vscode
 vsdevcmd
 vsdevshell
 vsenvironment
-vsm
 vso
 vsphere
 vsphere+
@@ -7472,7 +7480,6 @@ xsa
 xtremio
 xtrude
 xunit
-xwiki
 xwindowsupdate
 yahoo
 yahw
