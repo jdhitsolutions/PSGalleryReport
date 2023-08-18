@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Friday, 18 August 2023 02:02:10 UTC
+Updated: Friday, 18 August 2023 09:53:50 UTC
 
 .bat
 .env
@@ -600,7 +600,6 @@ aznetworkinterface
 aznicdetails
 azops
 azpublicipaddress
-azresources
 azsdk
 azsk
 azsql
@@ -661,7 +660,6 @@ azurepolicy
 azurepowershell
 azurerepos
 azureresourcemanager
-azureresources
 azurerestapispecs
 azurerm
 azurerms
@@ -981,7 +979,6 @@ cdx
 ce
 celcat
 celerium
-censor
 center
 centra
 central
@@ -1015,7 +1012,6 @@ changeanalysis
 changelog
 channel
 channel9
-char
 character
 chart
 charting
@@ -1095,7 +1091,6 @@ class
 classes
 classic
 classification
-classified
 clccontrol
 clccontrolapiv1
 clccontrolapiv2
@@ -1147,6 +1142,7 @@ cloud-computing
 cloud-init
 cloud-iq
 cloudant
+cloudbees
 cloudberry
 cloudblue
 cloudbolt
@@ -1183,6 +1179,7 @@ cmdb
 cmdkey
 cmdlet
 cmdlets
+cmdstan
 cmgroupdiscovery
 cmhealth
 cmhealthcheck
@@ -1209,7 +1206,6 @@ codecoverage
 codegen
 codegeneration
 codegenerator
-codepoint
 codereview
 codes
 codesign
@@ -1301,6 +1297,7 @@ concurrent
 conda
 condition
 conditionalaccess
+conduit
 conference
 confidentialclient
 confidentialledger
@@ -1680,7 +1677,6 @@ declarative
 decline
 decode
 decode64
-decoding
 decompiler
 decrypt
 decryption
@@ -1949,8 +1945,6 @@ drawio
 dreams
 dreamweaver
 dreary
-drift
-driftmonitor
 drive
 drive letter
 driver
@@ -1981,7 +1975,6 @@ dsc-resource
 dsc-resources
 dsccertificates
 dscconcepts
-dscdriftmonitor
 dsclient
 dscresource
 dscresourcekit
@@ -2004,6 +1997,7 @@ duf
 dummy
 dummyusers
 dump
+dupes
 duplicate
 duplicate-files
 duplicatioin
@@ -2299,6 +2293,7 @@ exportcertificates
 exporter
 exportexcel
 exportteams
+expression
 extend
 extended
 extendedattributes
@@ -3136,7 +3131,6 @@ inheritance
 ini
 inifile
 initialization
-initials-avatar
 initiator
 inline-progress
 inlineprogress
@@ -3499,6 +3493,7 @@ learning
 learning-powershell
 learningpowershell
 learnpowershell
+lease
 leetabit
 leftjoin
 legacy
@@ -4119,7 +4114,6 @@ ncal
 ndes
 nebulon
 nec-infrared-transmission-protocol
-nederland
 nedyalkov
 neo4j
 neptune
@@ -4253,7 +4247,6 @@ nql
 nrc
 nrql
 ns
-ns.nl
 nsg
 nslookup
 nsx
@@ -4643,6 +4636,7 @@ pfsense
 pfx
 pfy
 pgp
+phabricator
 philips
 philosophical
 philpritchett
@@ -4675,6 +4669,7 @@ pipeline
 pipelines
 pipescript
 piraeus
+pivot
 pivotal
 pivottable
 pixoo
@@ -4729,6 +4724,7 @@ poll
 polly
 polycom
 pomodoro
+ponduit
 pool
 poop
 pop
@@ -4853,6 +4849,7 @@ powertab
 powertoolcmdlets
 powertooldsc
 ppdm
+ppk
 pposh
 pps
 ppt
@@ -4993,6 +4990,7 @@ psake
 psappdeploytoolkit
 psat
 psazd
+psbackup
 psbbix
 psbicep
 psclient
@@ -5091,6 +5089,7 @@ psprojectgenerator
 psprovider
 psprtg
 pspublicapi
+psql
 psraw
 psreadexif
 psreadline
@@ -5308,8 +5307,6 @@ recursivefilesandfoldersdownload
 recursivefilesandfoldersupload
 recyclebin
 red
-redact
-redaction
 reddit
 redfield
 redfish
@@ -5446,7 +5443,6 @@ resourceaccount
 resourcecontroller
 resourcegraph
 resourcegroup
-resourceid
 resourcekit
 resourcemanager
 resourcemover
@@ -5469,6 +5465,7 @@ reuse
 reverse-engineer
 reverse-string
 reversedsc
+reverseengineering
 revision
 reword
 rewrite
@@ -5594,6 +5591,8 @@ salesloft
 salt
 salt-api
 saltstack
+saltstackconfig
+saltstackenterprise
 sam
 saml
 saml psmodule
@@ -5602,7 +5601,6 @@ sample
 sampler
 san
 sandbox
-sanitization
 sanitizer
 sap
 sapazure
@@ -5821,7 +5819,6 @@ servicebusforwindowsserver
 servicecatalog
 serviceconnectionpoint
 servicecontrol
-servicedesk
 servicedeskplus
 serviceendpoints
 servicefabric
@@ -5863,6 +5860,7 @@ setting
 settings
 setup
 setupbase.certificate
+setupbase.env
 setupbase.install
 setupbase.publish
 setupbase.taskscheduler
@@ -6182,6 +6180,7 @@ srylius-write
 ssas
 ssc
 ssdt
+sse
 ssh
 ssh-keygen
 sshmanagement
@@ -6210,9 +6209,12 @@ stackoverflow
 staffhub
 staging
 stale
+stan
+stanc
 standard
 standarderror
 standardoutput
+stansummary
 start
 start-job
 start-jobthread
@@ -6237,7 +6239,6 @@ statuscake
 statuscode
 statusmonitor
 statusreportingcomponent
-staytus
 stderr
 stdio
 stdout
@@ -6314,7 +6315,6 @@ subscription
 subscriptiondefinition
 subset
 subsystem
-subtitle
 success
 successfactors
 sudo
@@ -6573,6 +6573,7 @@ tibber
 tic-tac-toe
 tickle
 ticks
+tictactoe
 tiermodel
 time
 timeout
@@ -6637,7 +6638,6 @@ trading
 trafficfiltering
 trafficmanager
 trafficmarking
-train
 training
 training-course
 tram
@@ -6664,7 +6664,6 @@ trec
 tree
 treesize
 treffynnon
-trein
 trello
 trellops
 trend-micro
@@ -6740,6 +6739,7 @@ ucspowertool
 ud-avataaar
 ud-badgebutton
 ud-badgelink
+ud-breadcrumb
 ud-breadcrumbitem
 ud-burger
 ud-button

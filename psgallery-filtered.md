@@ -3,6 +3,79 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [OSD](https://www.powershellgallery.com/Packages/OSD/23.8.18.1) | 23.8.18.1
+
+### Published: 08/18/2023 08:04:55 by David Segura . Gary Blok . Jérôme Bezet-Torres . Damien Van Robaeys . Mike Marable . Akos Bakos
+
+Hot August Edition
+
+__Downloads__: 857,170 | __Repository__: https://github.com/OSDeploy/OSD
+
+## [xDhcpServer](https://www.powershellgallery.com/Packages/xDhcpServer/3.1.1) | 3.1.1
+
+### Published: 08/18/2023 07:24:40 by DSC Community
+
+This module contains DSC resources for deployment and configuration of Microsoft DHCP Server.
+
+__Downloads__: 280,476 | __Repository__: https://github.com/dsccommunity/xDhcpServer
+
+## [TitanApi](https://www.powershellgallery.com/Packages/TitanApi/0.1.3) | 0.1.3
+
+### Published: 08/18/2023 06:13:36 by South River Technologies
+
+Titan API Powershell SDK
+
+__Downloads__: 8 | __Repository__: https://github.com/southrivertech/titanapi.pub
+
+## [BLRecoveryPassword](https://www.powershellgallery.com/Packages/BLRecoveryPassword/1.0.1) | 1.0.1
+
+### Published: 08/18/2023 05:08:06 by Dawid Prowadzisz
+
+Get the BitLocker recovery password from Active Directory.
+
+__Downloads__: 0 | __Repository__: 
+
+## [FormatColumn](https://www.powershellgallery.com/Packages/FormatColumn/1.1.0) | 1.1.0
+
+### Published: 08/18/2023 04:37:23 by Per Allner
+
+FormatColumn module contains the function Format-Column that formats object data as columns, 
+ordering data column by column as default.
+
+__Downloads__: 55 | __Repository__: https://github.com/loxia01/FormatColumn
+
+## [ShowDemo](https://www.powershellgallery.com/Packages/ShowDemo/0.1.4) | 0.1.4
+
+### Published: 08/18/2023 04:26:38 by James Brundage
+
+A simple tool to showcase your scripts.
+
+__Downloads__: 88 | __Repository__: https://github.com/StartAutomating/ShowDemo
+
+## [Airpower](https://www.powershellgallery.com/Packages/Airpower/0.6.2) | 0.6.2
+
+### Published: 08/18/2023 03:43:09 by Airpower Team
+
+A package manager and environment to provide consistent tooling for software teams.
+
+__Downloads__: 2,470 | __Repository__: https://github.com/airpwr/airpwr
+
+## [PSKubernetesSecretsManagement](https://www.powershellgallery.com/Packages/PSKubernetesSecretsManagement/0.5.0) | 0.5.0
+
+### Published: 08/18/2023 02:45:09 by Tony Guimelli
+
+This PowerShell module contains functions that facilitate the creation, rotation, auditing, and viewing the metadata of Kubernetes secrets.
+
+__Downloads__: 0 | __Repository__: https://github.com/anthonyg-1/PSKubernetesSecretsManagement
+
+## [CentralADTools](https://www.powershellgallery.com/Packages/CentralADTools/1.0) | 1.0
+
+### Published: 08/18/2023 02:18:40 by ManuKumar K M
+
+PowerShell module for Active Directory administrators day to day activities
+
+__Downloads__: 1 | __Repository__: 
+
 ## [SysAdmin-Extras](https://www.powershellgallery.com/Packages/SysAdmin-Extras/1.0.2) | 1.0.2
 
 ### Published: 08/17/2023 23:22:43 by Luis Carrillo
@@ -27,14 +100,6 @@ This modules allows you to get, add, remove local group memberships on remote sy
 
 __Downloads__: 0 | __Repository__: https://github.com/LuisCarrilloTech
 
-## [BLRecoveryPassword](https://www.powershellgallery.com/Packages/BLRecoveryPassword/1.0.0) | 1.0.0
-
-### Published: 08/17/2023 23:02:13 by Dawid Prowadzisz
-
-Get the BitLocker recovery password from Active Directory.
-
-__Downloads__: 1 | __Repository__: 
-
 ## [PoshWUG](https://www.powershellgallery.com/Packages/PoshWUG/0.4) | 0.4
 
 ### Published: 08/17/2023 21:20:00 by Zack Moss
@@ -57,7 +122,7 @@ __Downloads__: 16,811 | __Repository__:
 
 This module exposes functionality to easily connect and/or maintain connections to DevOps Artifacts Feeds through PowerShell.
 
-__Downloads__: 557 | __Repository__: https://github.com/peter-de-wit/DevOpsFeedHelper
+__Downloads__: 556 | __Repository__: https://github.com/peter-de-wit/DevOpsFeedHelper
 
 ## [XD-PSTools](https://www.powershellgallery.com/Packages/XD-PSTools/1.9.1) | 1.9.1
 
@@ -65,7 +130,7 @@ __Downloads__: 557 | __Repository__: https://github.com/peter-de-wit/DevOpsFeedH
 
 Contains function toolset for Xpressducks IT personnel.
 
-__Downloads__: 117 | __Repository__: 
+__Downloads__: 116 | __Repository__: 
 
 ## [AptecoPSFramework](https://www.powershellgallery.com/Packages/AptecoPSFramework/0.0.13) | 0.0.13
 
@@ -108,7 +173,7 @@ Carbon is a PowerShell module for automating the configuration Windows 7, 8, 200
 
 All functions are idempotent: when run multiple times with the same arguments, your system will be in the same state without failing or producing errors.
 
-__Downloads__: 64,194,888 | __Repository__: http://get-carbon.org/
+__Downloads__: 64,195,605 | __Repository__: http://get-carbon.org/
 
 ## [Endjin.CodeOps](https://www.powershellgallery.com/Packages/Endjin.CodeOps/0.2.12) | 0.2.12
 
@@ -132,7 +197,7 @@ __Downloads__: 1,412 | __Repository__: https://github.com/EvotecIT/PSPublishModu
 
 Interact with the Atlassian Cloud APIs using PowerShell
 
-__Downloads__: 67 | __Repository__: https://github.com/andylyonette/AtlassianCloudPS
+__Downloads__: 64 | __Repository__: https://github.com/andylyonette/AtlassianCloudPS
 
 ## [WinGet-Essentials](https://www.powershellgallery.com/Packages/WinGet-Essentials/1.2.1) | 1.2.1
 
@@ -192,7 +257,7 @@ __Downloads__: 25 | __Repository__: https://github.com/abbgrade/PSDependHelper
 
 Interact with the Atlassian Cloud APIs using PowerShell
 
-__Downloads__: 41 | __Repository__: https://github.com/andylyonette/CitrixShareFilePS
+__Downloads__: 43 | __Repository__: https://github.com/andylyonette/CitrixShareFilePS
 
 ## [PSCompletions](https://www.powershellgallery.com/Packages/PSCompletions/1.0.13) | 1.0.13
 
@@ -250,15 +315,7 @@ Various helper functions for modules IntuneStuff, AzureADStuff etc. Some of them
     - Uninstall-ApplicationViaUninstallString - uninstalls application using information retrieved from system registry
     - ...
 
-__Downloads__: 79,341 | __Repository__: https://github.com/ztrhgf/useful_powershell_modules
-
-## [TitanApi](https://www.powershellgallery.com/Packages/TitanApi/0.1.2) | 0.1.2
-
-### Published: 08/17/2023 07:40:36 by South River Technologies
-
-Sdk to access Titan Server REST API
-
-__Downloads__: 8 | __Repository__: https://github.com/southrivertech/titanapi.pub
+__Downloads__: 79,327 | __Repository__: https://github.com/ztrhgf/useful_powershell_modules
 
 ## [MilestonePSTools](https://www.powershellgallery.com/Packages/MilestonePSTools/23.2.1) | 23.2.1
 
@@ -266,7 +323,7 @@ __Downloads__: 8 | __Repository__: https://github.com/southrivertech/titanapi.pu
 
 Milestone XProtect VMS configuration and automation powered by the Milestone MIP SDK.
 
-__Downloads__: 193,680 | __Repository__: https://www.milestonepstools.com/
+__Downloads__: 193,681 | __Repository__: https://www.milestonepstools.com/
 
 ## [Voicemeeter](https://www.powershellgallery.com/Packages/Voicemeeter/3.2.0) | 3.2.0
 
@@ -346,7 +403,7 @@ __Downloads__: 1,345 | __Repository__: https://github.com/pschaeflein/MagicToolt
 
 Lightweight army of helpers for general powershell activities
 
-__Downloads__: 5,056 | __Repository__: https://github.com/o-o00o-o/PSEasy.Utility
+__Downloads__: 5,054 | __Repository__: https://github.com/o-o00o-o/PSEasy.Utility
 
 ## [ADPFunctions](https://www.powershellgallery.com/Packages/ADPFunctions/2308.9) | 2308.9
 
@@ -434,7 +491,7 @@ __Downloads__: 6 | __Repository__: https://github.com/zackmoss/PoshSophos
 
 Automation tools for production quality database deployment
 
-__Downloads__: 4,424,131 | __Repository__: https://www.red-gate.com/sca/productpage
+__Downloads__: 4,424,168 | __Repository__: https://www.red-gate.com/sca/productpage
 
 ## [AdminByRequest](https://www.powershellgallery.com/Packages/AdminByRequest/1.1.0) | 1.1.0
 
@@ -1740,7 +1797,7 @@ AADInternals allows you to export ADFS certificates, Azure AD Connect passwords,
 
 DISCLAIMER: Functionality provided through this module are not supported by Microsoft and thus should not be used in a production environment. Use on your own risk!
 
-__Downloads__: 69,817 | __Repository__: https://aadinternals.com/aadinternals
+__Downloads__: 69,815 | __Repository__: https://aadinternals.com/aadinternals
 
 ## [PSEasy.Module](https://www.powershellgallery.com/Packages/PSEasy.Module/1.6.14) | 1.6.14
 
@@ -1748,7 +1805,7 @@ __Downloads__: 69,817 | __Repository__: https://aadinternals.com/aadinternals
 
 Push and Get Powershell and Nuget Modules
 
-__Downloads__: 2,542 | __Repository__: https://github.com/o-o00o-o/PSEasy.Module
+__Downloads__: 2,541 | __Repository__: https://github.com/o-o00o-o/PSEasy.Module
 
 ## [RiverMeadow.Development.Migrate](https://www.powershellgallery.com/Packages/RiverMeadow.Development.Migrate/1.0.117.283) | 1.0.117.283
 
@@ -1804,7 +1861,7 @@ __Downloads__: 5,700 | __Repository__:
 
 Module for PowerShell Universal.
 
-__Downloads__: 47,412 | __Repository__: https://ironmansoftware.com/powershell-universal
+__Downloads__: 47,413 | __Repository__: https://ironmansoftware.com/powershell-universal
 
 ## [MyAPI](https://www.powershellgallery.com/Packages/MyAPI/1.0) | 1.0
 
@@ -1930,7 +1987,7 @@ __Downloads__: 3 | __Repository__:
 
 Press F7 to get a graphical Command History in Powershell.
 
-__Downloads__: 267 | __Repository__: https://github.com/gui-cs/F7History/
+__Downloads__: 268 | __Repository__: https://github.com/gui-cs/F7History/
 
 ## [PowerShellProTools](https://www.powershellgallery.com/Packages/PowerShellProTools/2023.8.0) | 2023.8.0
 
@@ -1980,7 +2037,7 @@ __Downloads__: 3,611 | __Repository__: https://www.github.com/alt3/Docusaurus.Po
 
 Get infomration about remote Windows logged in users, with the support of logging off a single user or all users from a single or multiple servers
 
-__Downloads__: 141,793 | __Repository__: https://github.com/farismalaeb/Powershell/tree/master/Get-ActiveSession
+__Downloads__: 141,428 | __Repository__: https://github.com/farismalaeb/Powershell/tree/master/Get-ActiveSession
 
 ## [ADEssentials](https://www.powershellgallery.com/Packages/ADEssentials/0.0.164) | 0.0.164
 
@@ -1988,7 +2045,7 @@ __Downloads__: 141,793 | __Repository__: https://github.com/farismalaeb/Powershe
 
 Helper module for Active Directory with lots of useful functions that simplify supporting Active Directory.
 
-__Downloads__: 152,035 | __Repository__: https://github.com/EvotecIT/ADEssentials
+__Downloads__: 152,032 | __Repository__: https://github.com/EvotecIT/ADEssentials
 
 ## [PSWriteHTML](https://www.powershellgallery.com/Packages/PSWriteHTML/1.2.0) | 1.2.0
 
@@ -1996,7 +2053,7 @@ __Downloads__: 152,035 | __Repository__: https://github.com/EvotecIT/ADEssential
 
 PSWriteHTML is PowerShell Module to generate beautiful HTML reports, pages, emails without any knowledge of HTML, CSS or JavaScript. To get started basics PowerShell knowledge is required.
 
-__Downloads__: 1,954,480 | __Repository__: https://github.com/EvotecIT/PSWriteHTML
+__Downloads__: 1,954,401 | __Repository__: https://github.com/EvotecIT/PSWriteHTML
 
 ## [PersistenceSniper](https://www.powershellgallery.com/Packages/PersistenceSniper/1.12.1) | 1.12.1
 
@@ -2062,62 +2119,6 @@ __Downloads__: 2,163 | __Repository__:
 
 Pure Storage FlashArray REST 2.16 API integration with Windows PowerShell.
 
-__Downloads__: 6,641 | __Repository__: https://github.com/PureStorage-Connect/PowerShellSDK2
+__Downloads__: 6,642 | __Repository__: https://github.com/PureStorage-Connect/PowerShellSDK2
 
-## [QuantaStor.PowerShell](https://www.powershellgallery.com/Packages/QuantaStor.PowerShell/6.1.6) | 6.1.6
-
-### Published: 08/11/2023 17:29:44 by osnexus
-
-PowerShell module for OSNexus QuantaStor
-
-__Downloads__: 120 | __Repository__: 
-
-## [DnnWebsiteManagement](https://www.powershellgallery.com/Packages/DnnWebsiteManagement/2.0.3) | 2.0.3
-
-### Published: 08/11/2023 15:25:36 by Brian Dukes
-
-A set of functions for managing websites built on the DNN Platform.
-
-__Downloads__: 1,652 | __Repository__: https://github.com/bdukes/PowerShellModules
-
-## [tcdbtools](https://www.powershellgallery.com/Packages/tcdbtools/1.0.54) | 1.0.54
-
-### Published: 08/11/2023 15:12:12 by Tim Cartwright
-
-A collection of SQL Server automation functionality
-
-__Downloads__: 447 | __Repository__: https://github.com/tcartwright/tcdbtools
-
-## [ChocoMan](https://www.powershellgallery.com/Packages/ChocoMan/1.0.0) | 1.0.0
-
-### Published: 08/11/2023 14:57:01 by regg00
-
-A PowerShell wrapper for Chocolatey
-
-__Downloads__: 970 | __Repository__: https://github.com/regg00/ChocoMan
-
-## [ExchangeEssentials](https://www.powershellgallery.com/Packages/ExchangeEssentials/0.4.0) | 0.4.0
-
-### Published: 08/11/2023 14:22:35 by Przemyslaw Klys
-
-ExchangeEssentials
-
-__Downloads__: 30 | __Repository__: https://github.com/EvotecIT/ExchangeEssentials
-
-## [BitwardenPS](https://www.powershellgallery.com/Packages/BitwardenPS/1.2.2) | 1.2.2
-
-### Published: 08/11/2023 13:25:16 by John Duprey
-
-Bitwarden REST API module
-
-__Downloads__: 213 | __Repository__: https://github.com/johnduprey/BitwardenPS
-
-## [HuduAPI](https://www.powershellgallery.com/Packages/HuduAPI/2.4.6) | 2.4.6
-
-### Published: 08/11/2023 03:32:56 by Luke Whitelock
-
-This module provides an interface to the Hudu Rest API further information can be found at https://github.com/lwhitelock/HuduAPI
-
-__Downloads__: 570,293 | __Repository__: 
-
-*Updated: Friday, 18 August 2023 02:01:53 UTC*
+*Updated: Friday, 18 August 2023 09:53:35 UTC*
