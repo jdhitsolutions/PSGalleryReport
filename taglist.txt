@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Friday, 18 August 2023 09:53:50 UTC
+Updated: Friday, 18 August 2023 17:53:59 UTC
 
 .bat
 .env
@@ -600,6 +600,7 @@ aznetworkinterface
 aznicdetails
 azops
 azpublicipaddress
+azresources
 azsdk
 azsk
 azsql
@@ -660,6 +661,7 @@ azurepolicy
 azurepowershell
 azurerepos
 azureresourcemanager
+azureresources
 azurerestapispecs
 azurerm
 azurerms
@@ -979,6 +981,7 @@ cdx
 ce
 celcat
 celerium
+censor
 center
 centra
 central
@@ -1012,6 +1015,7 @@ changeanalysis
 changelog
 channel
 channel9
+char
 character
 chart
 charting
@@ -1091,6 +1095,7 @@ class
 classes
 classic
 classification
+classified
 clccontrol
 clccontrolapiv1
 clccontrolapiv2
@@ -1206,6 +1211,7 @@ codecoverage
 codegen
 codegeneration
 codegenerator
+codepoint
 codereview
 codes
 codesign
@@ -1254,7 +1260,6 @@ commence
 comment
 comments
 commerce
-commfort
 commit
 common
 common-data-service
@@ -1677,14 +1682,13 @@ declarative
 decline
 decode
 decode64
+decoding
 decompiler
 decrypt
 decryption
 dedicatedhsm
 deduplication
 deep
-deep-security
-deep-security-manager
 deepl
 deepvisibility
 def
@@ -1945,6 +1949,8 @@ drawio
 dreams
 dreamweaver
 dreary
+drift
+driftmonitor
 drive
 drive letter
 driver
@@ -1975,6 +1981,7 @@ dsc-resource
 dsc-resources
 dsccertificates
 dscconcepts
+dscdriftmonitor
 dsclient
 dscresource
 dscresourcekit
@@ -3131,6 +3138,7 @@ inheritance
 ini
 inifile
 initialization
+initials-avatar
 initiator
 inline-progress
 inlineprogress
@@ -3171,7 +3179,6 @@ integratedscriptingeditor
 integration
 integrationaccount
 integrationruntime
-integrationruntimedependency
 integrationservicescatalog
 integrity
 intel
@@ -3493,7 +3500,6 @@ learning
 learning-powershell
 learningpowershell
 learnpowershell
-lease
 leetabit
 leftjoin
 legacy
@@ -3567,7 +3573,6 @@ lldp
 lmhost
 lmhosts
 lms
-load
 loadbalancer
 loadbalancer.org
 loadtesting
@@ -3941,6 +3946,7 @@ mobilenetwork
 mobilitycontroller
 mock
 mocking
+model
 modifiable-completion
 modify
 module
@@ -3957,7 +3963,6 @@ mof
 moldova
 moment
 monaco
-monday
 mondoo
 money
 moneyforward
@@ -4114,6 +4119,7 @@ ncal
 ndes
 nebulon
 nec-infrared-transmission-protocol
+nederland
 nedyalkov
 neo4j
 neptune
@@ -4247,6 +4253,7 @@ nql
 nrc
 nrql
 ns
+ns.nl
 nsg
 nslookup
 nsx
@@ -4427,7 +4434,6 @@ optics
 optimization
 optimizer
 option
-options
 optionstring
 opus
 oracle
@@ -5307,6 +5313,8 @@ recursivefilesandfoldersdownload
 recursivefilesandfoldersupload
 recyclebin
 red
+redact
+redaction
 reddit
 redfield
 redfish
@@ -5443,6 +5451,7 @@ resourceaccount
 resourcecontroller
 resourcegraph
 resourcegroup
+resourceid
 resourcekit
 resourcemanager
 resourcemover
@@ -5601,6 +5610,7 @@ sample
 sampler
 san
 sandbox
+sanitization
 sanitizer
 sap
 sapazure
@@ -5819,6 +5829,7 @@ servicebusforwindowsserver
 servicecatalog
 serviceconnectionpoint
 servicecontrol
+servicedesk
 servicedeskplus
 serviceendpoints
 servicefabric
@@ -6239,6 +6250,7 @@ statuscake
 statuscode
 statusmonitor
 statusreportingcomponent
+staytus
 stderr
 stdio
 stdout
@@ -6315,6 +6327,7 @@ subscription
 subscriptiondefinition
 subset
 subsystem
+subtitle
 success
 successfactors
 sudo
@@ -6451,7 +6464,6 @@ tcp
 tcp/ip
 tcpip
 tcpport
-tcprjmgmt
 tcpserver
 tcptest
 tcx
@@ -6638,6 +6650,7 @@ trading
 trafficfiltering
 trafficmanager
 trafficmarking
+train
 training
 training-course
 tram
@@ -6664,9 +6677,9 @@ trec
 tree
 treesize
 treffynnon
+trein
 trello
 trellops
-trend-micro
 trendmicro
 trevor
 trevorsullivan

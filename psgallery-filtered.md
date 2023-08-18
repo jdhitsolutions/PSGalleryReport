@@ -3,13 +3,276 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [RemoteLocalGroups](https://www.powershellgallery.com/Packages/RemoteLocalGroups/1.0.3) | 1.0.3
+
+### Published: 08/18/2023 17:24:38 by Luis Carrillo
+
+Effortlessly manage local group memberships on remote systems with the RemoteLocalGroups module. Add, remove, and retrieve user/group information with ease. Compatible with Windows Server 2016 and later.
+
+__Downloads__: 0 | __Repository__: https://github.com/LuisCarrilloTech
+
+## [CommvaultPowerShell](https://www.powershellgallery.com/Packages/CommvaultPowerShell/0.2.14) | 0.2.14
+
+### Published: 08/18/2023 17:24:37 by COMMVAULT
+
+COMMVAULT POWERSHELL SDK for 11.32
+
+__Downloads__: 469 | __Repository__: https://github.com/Commvault/CVPowershellSDKV2/tree/main
+
+## [PoshWUG](https://www.powershellgallery.com/Packages/PoshWUG/0.4.1) | 0.4.1
+
+### Published: 08/18/2023 17:23:41 by Zack Moss
+
+Module to work with Progress WhatsUp Gold 2022
+
+__Downloads__: 24 | __Repository__: https://github.com/zackmoss/PoshWUG
+
+## [PSEasy.Utility](https://www.powershellgallery.com/Packages/PSEasy.Utility/1.5.5) | 1.5.5
+
+### Published: 08/18/2023 17:18:53 by Brett Gerhardi
+
+Lightweight army of helpers for general powershell activities
+
+__Downloads__: 5,056 | __Repository__: https://github.com/o-o00o-o/PSEasy.Utility
+
+## [Cohesity.PowerShell.Core](https://www.powershellgallery.com/Packages/Cohesity.PowerShell.Core/1.9.3) | 1.9.3
+
+### Published: 08/18/2023 17:16:31 by Cohesity
+
+Cohesity PowerShell Module provides cmdlets to manage and create workflows using Cohesity DataPlatform.
+
+__Downloads__: 6,735 | __Repository__: https://cohesity.github.io/cohesity-powershell-module
+
+## [Cohesity.PowerShell](https://www.powershellgallery.com/Packages/Cohesity.PowerShell/1.9.3) | 1.9.3
+
+### Published: 08/18/2023 17:16:07 by Cohesity
+
+Cohesity PowerShell Module provides cmdlets to manage and create workflows using Cohesity DataPlatform.
+
+__Downloads__: 46,694 | __Repository__: https://cohesity.github.io/cohesity-powershell-module
+
+## [PoshSophos](https://www.powershellgallery.com/Packages/PoshSophos/0.3.1) | 0.3.1
+
+### Published: 08/18/2023 17:06:08 by Zack Moss
+
+Module to work with the Sophos Central Tenant API
+
+__Downloads__: 6 | __Repository__: https://github.com/zackmoss/PoshSophos
+
+## [PSKubernetesSecretsManagement](https://www.powershellgallery.com/Packages/PSKubernetesSecretsManagement/0.6.0) | 0.6.0
+
+### Published: 08/18/2023 16:17:44 by Tony Guimelli
+
+This PowerShell module contains functions that facilitate the creation, rotation, auditing, and viewing the metadata of Kubernetes secrets.
+
+__Downloads__: 0 | __Repository__: https://github.com/anthonyg-1/PSKubernetesSecretsManagement
+
+## [Devolutions.PowerShell](https://www.powershellgallery.com/Packages/Devolutions.PowerShell/2023.2.0.5) | 2023.2.0.5
+
+### Published: 08/18/2023 14:30:49 by Devolutions
+
+The Devolutions.PowerShell module is a set of cmdlets that allow administrators to manage Remote Desktop Manager, Devolutions Server and Devolutions Hub Business using PowerShell. This module provides a simple and consistent interface for interacting with these products, making it easy to automate various tasks, such as creating and managing connections, sessions, and credentials, configuring security settings, and generating reports. The module can be easily integrated with other PowerShell modules, allowing administrators to automate tasks across multiple products and platforms, streamline their workflows and increase efficiency.
+
+__Downloads__: 4,444 | __Repository__: 
+
+## [MSPToolBox](https://www.powershellgallery.com/Packages/MSPToolBox/1.0.0) | 1.0.0
+
+### Published: 08/18/2023 14:15:13 by Jeshua Edgar
+
+This module leverages Secure App Model and PartnerCenter to connect to all your Partner Center tenants
+
+__Downloads__: 25 | __Repository__: https://github.com/JeshuaEdgar/MSPToolbox
+
+## [PPDM-pwsh](https://www.powershellgallery.com/Packages/PPDM-pwsh/19.14.20.74) | 19.14.20.74
+
+### Published: 08/18/2023 12:10:28 by karsten.bott@dell.com
+
+Powershell Module to interact with the PowerProdect Data Manager (PPDM) API
+
+__Downloads__: 3,340 | __Repository__: https://github.com/bottkars/PPDM-pwsh
+
+## [NTS.Tools](https://www.powershellgallery.com/Packages/NTS.Tools/1.0.3.9) | 1.0.3.9
+
+### Published: 08/18/2023 11:45:29 by Moritz Wiedmann
+
+NTS.Tools module contains tools for ConfigMgr and course deployment
+
+__Downloads__: 1,388 | __Repository__: 
+
+## [NTS.Tools.MSSQL](https://www.powershellgallery.com/Packages/NTS.Tools.MSSQL/1.0.3.9) | 1.0.3.9
+
+### Published: 08/18/2023 11:45:10 by Moritz Wiedmann
+
+NTS.Tools.MSSQL module contains functions that are mainly related to Microsoft SQL Server
+
+__Downloads__: 1,326 | __Repository__: 
+
+## [NTS.Tools.MSExchange](https://www.powershellgallery.com/Packages/NTS.Tools.MSExchange/1.0.3.9) | 1.0.3.9
+
+### Published: 08/18/2023 11:44:56 by Moritz Wiedmann
+
+NTS.Tools.MSExchange module contains functions that are mainly related to around Microsoft Exchange
+
+__Downloads__: 1,322 | __Repository__: 
+
+## [NTS.Tools.MSConfigMgr](https://www.powershellgallery.com/Packages/NTS.Tools.MSConfigMgr/1.0.3.9) | 1.0.3.9
+
+### Published: 08/18/2023 11:44:46 by Moritz Wiedmann
+
+NTS.Tools.MSConfigMgr module contains functions that are mainly related to Microsoft Endpoint Configuration Manger
+
+__Downloads__: 1,329 | __Repository__: 
+
+## [NTS.Tools.MSADDS](https://www.powershellgallery.com/Packages/NTS.Tools.MSADDS/1.0.3.9) | 1.0.3.9
+
+### Published: 08/18/2023 11:44:36 by Moritz Wiedmann
+
+NTS.Tools.MSADDS module contains functions that are mainly related to Microsoft Active Directory Domain Services
+
+__Downloads__: 1,307 | __Repository__: 
+
+## [NTS.Tools.MSADCS](https://www.powershellgallery.com/Packages/NTS.Tools.MSADCS/1.0.3.9) | 1.0.3.9
+
+### Published: 08/18/2023 11:44:19 by Moritz Wiedmann
+
+NTS.Tools.MSADCS module contains functions that are mainly related to Microsoft Active Directory Certification Services
+
+__Downloads__: 1,323 | __Repository__: 
+
+## [NTS.Tools.Application](https://www.powershellgallery.com/Packages/NTS.Tools.Application/1.0.3.9) | 1.0.3.9
+
+### Published: 08/18/2023 11:44:09 by Moritz Wiedmann
+
+NTS.Tools.Application module contains functions to install applications
+
+__Downloads__: 334 | __Repository__: 
+
+## [NTS.Tools.General](https://www.powershellgallery.com/Packages/NTS.Tools.General/1.0.3.9) | 1.0.3.9
+
+### Published: 08/18/2023 11:44:00 by Moritz Wiedmann
+
+NTS.Tools.General module contains functions that are used for general purpose
+
+__Downloads__: 1,466 | __Repository__: 
+
+## [Harden-Windows-Security-Module](https://www.powershellgallery.com/Packages/Harden-Windows-Security-Module/0.1.0) | 0.1.0
+
+### Published: 08/18/2023 11:03:37 by HotCakeX
+
+✅ This is a PowerShell module for Harden Windows Security script.
+✅ It offers System Compliance checking in addition to hardening.
+✅ You can check and validate a system to see whether it conforms to the Harden Windows Security guidelines or not.
+
+💠 The module generates a nice output on the screen as well as giving users an option to export the results in a CSV file.
+
+💠 If you use the "Protect-WindowsSecurity" Cmdlet, it will download and run the Harden Windows Security PowerShell script from the official repository
+
+🟡 Refer to this GitHub repository for more info: https://github.com/HotCakeX/Harden-Windows-Security
+
+🏴 Module's documentation: https://github.com/HotCakeX/Harden-Windows-Security/wiki/Harden%E2%80%90Windows%E2%80%90Security%E2%80%90Module
+
+💎 If you have any questions, requests, suggestions etc. about this module, please open a new Discussion or Issue on GitHub
+
+__Downloads__: 348 | __Repository__: https://github.com/HotCakeX/Harden-Windows-Security
+
+## [MergeHashtable](https://www.powershellgallery.com/Packages/MergeHashtable/0.0.3) | 0.0.3
+
+### Published: 08/18/2023 10:16:41 by florian.von.bracht@apteco.de
+
+Apteco PS Modules - PowerShell merge Hashtable
+
+This module merges two hashtables into one. It is able to handle nested structures like hashtables, arrays and PSCustomObjects. Please see the examples below.
+
+Just use
+
+```PowerShell
+$left = [hashtable]@{
+    "firstname" = "Florian"
+    "lastname" = "Friedrichs"
+    "address" = [hashtable]@{
+        "Street" = "Kaiserstraße 35"
+    }
+    "tags" = [Array]@("nice","company")
+    "product" = [PSCustomObject]@{
+        "name" = "Orbit"
+        "owner" = "Apteco Ltd."
+    }
+}
+
+$right = [hashtable]@{
+    "lastname" = "von Bracht"
+    "Street" = "Schaumainkai 87"
+    "address" = [hashtable]@{
+        "Street" = "Schaumainkai 87"
+        "Postcode" = 60596
+    }
+    "tags" = [Array]@("wow")
+    "product" = [PSCustomObject]@{
+        "sprint" = 106
+    }
+}
+
+
+Merge-Hashtable -Left $left -right $right -AddKeysFromRight -MergeArrays -MergePSCustomObjects -MergeHashtables
+
+```
+
+to merge two nested hashtables into one where the "right" will overwrite existing values from "left".
+
+__Downloads__: 0 | __Repository__: https://github.com/Apteco/AptecoPSModules/tree/main/MergeHashtable
+
+## [MergePSCustomObject](https://www.powershellgallery.com/Packages/MergePSCustomObject/0.0.2) | 0.0.2
+
+### Published: 08/18/2023 09:58:12 by florian.von.bracht@apteco.de
+
+Apteco PS Modules - PowerShell merge PSCustomObject
+
+This module merges two PSCustomObjects into one. It is able to handle nested structures like hashtables, arrays and PSCustomObjects. Please see the examples below.
+
+Just use
+
+```PowerShell
+$left = [PSCustomObject]@{
+    "firstname" = "Florian"
+    "lastname" = "Friedrichs"
+    "address" = [hashtable]@{
+        "Street" = "Kaiserstraße 35"
+    }
+    "tags" = [Array]@("nice","company")
+    "product" = [PSCustomObject]@{
+        "name" = "Orbit"
+        "owner" = "Apteco Ltd."
+    }
+}
+
+$right = [PSCustomObject]@{
+    "lastname" = "von Bracht"
+    "Street" = "Schaumainkai 87"
+    "address" = [hashtable]@{
+        "Street" = "Schaumainkai 87"
+        "Postcode" = 60596
+    }
+    "tags" = [Array]@("wow")
+    "product" = [PSCustomObject]@{
+        "sprint" = 106
+    }
+}
+
+Merge-PSCustomObject -Left $left -right $right -AddPropertiesFromRight -MergeArrays -MergePSCustomObjects -MergeHashtables
+
+```
+
+to merge two nested PSCustomObjects into one where the "right" will overwrite existing values from "left".
+
+__Downloads__: 0 | __Repository__: https://github.com/Apteco/AptecoPSModules/tree/main/MergeHashtable
+
 ## [OSD](https://www.powershellgallery.com/Packages/OSD/23.8.18.1) | 23.8.18.1
 
 ### Published: 08/18/2023 08:04:55 by David Segura . Gary Blok . Jérôme Bezet-Torres . Damien Van Robaeys . Mike Marable . Akos Bakos
 
 Hot August Edition
 
-__Downloads__: 857,170 | __Repository__: https://github.com/OSDeploy/OSD
+__Downloads__: 857,247 | __Repository__: https://github.com/OSDeploy/OSD
 
 ## [xDhcpServer](https://www.powershellgallery.com/Packages/xDhcpServer/3.1.1) | 3.1.1
 
@@ -60,14 +323,6 @@ A package manager and environment to provide consistent tooling for software tea
 
 __Downloads__: 2,470 | __Repository__: https://github.com/airpwr/airpwr
 
-## [PSKubernetesSecretsManagement](https://www.powershellgallery.com/Packages/PSKubernetesSecretsManagement/0.5.0) | 0.5.0
-
-### Published: 08/18/2023 02:45:09 by Tony Guimelli
-
-This PowerShell module contains functions that facilitate the creation, rotation, auditing, and viewing the metadata of Kubernetes secrets.
-
-__Downloads__: 0 | __Repository__: https://github.com/anthonyg-1/PSKubernetesSecretsManagement
-
 ## [CentralADTools](https://www.powershellgallery.com/Packages/CentralADTools/1.0) | 1.0
 
 ### Published: 08/18/2023 02:18:40 by ManuKumar K M
@@ -92,22 +347,6 @@ Auto completions for Power Platform CLI
 
 __Downloads__: 33 | __Repository__: https://github.com/rajyraman/power-platform-cli-completion
 
-## [RemoteLocalGroups](https://www.powershellgallery.com/Packages/RemoteLocalGroups/1.0.1) | 1.0.1
-
-### Published: 08/17/2023 23:09:59 by Luis Carrillo
-
-This modules allows you to get, add, remove local group memberships on remote systems. This module requires the following OSes to be Windows 2016 or later.
-
-__Downloads__: 0 | __Repository__: https://github.com/LuisCarrilloTech
-
-## [PoshWUG](https://www.powershellgallery.com/Packages/PoshWUG/0.4) | 0.4
-
-### Published: 08/17/2023 21:20:00 by Zack Moss
-
-Module to work with Progress WhatsUp Gold 2022
-
-__Downloads__: 24 | __Repository__: https://github.com/zackmoss/PoshWUG
-
 ## [DesktopSharedMod](https://www.powershellgallery.com/Packages/DesktopSharedMod/2.0.24) | 2.0.24
 
 ### Published: 08/17/2023 21:04:12 by Tanner Schmidt
@@ -122,7 +361,7 @@ __Downloads__: 16,811 | __Repository__:
 
 This module exposes functionality to easily connect and/or maintain connections to DevOps Artifacts Feeds through PowerShell.
 
-__Downloads__: 556 | __Repository__: https://github.com/peter-de-wit/DevOpsFeedHelper
+__Downloads__: 557 | __Repository__: https://github.com/peter-de-wit/DevOpsFeedHelper
 
 ## [XD-PSTools](https://www.powershellgallery.com/Packages/XD-PSTools/1.9.1) | 1.9.1
 
@@ -173,7 +412,7 @@ Carbon is a PowerShell module for automating the configuration Windows 7, 8, 200
 
 All functions are idempotent: when run multiple times with the same arguments, your system will be in the same state without failing or producing errors.
 
-__Downloads__: 64,195,605 | __Repository__: http://get-carbon.org/
+__Downloads__: 64,195,246 | __Repository__: http://get-carbon.org/
 
 ## [Endjin.CodeOps](https://www.powershellgallery.com/Packages/Endjin.CodeOps/0.2.12) | 0.2.12
 
@@ -207,14 +446,6 @@ Essential "winget" utilities.
 
 __Downloads__: 75 | __Repository__: https://github.com/jjcarrier/PS-WinGet-Essentials
 
-## [PPDM-pwsh](https://www.powershellgallery.com/Packages/PPDM-pwsh/19.14.20.73) | 19.14.20.73
-
-### Published: 08/17/2023 13:37:19 by karsten.bott@dell.com
-
-Powershell Module to interact with the PowerProdect Data Manager (PPDM) API
-
-__Downloads__: 3,340 | __Repository__: https://github.com/bottkars/PPDM-pwsh
-
 ## [ACGCore](https://www.powershellgallery.com/Packages/ACGCore/0.23.0) | 0.23.0
 
 ### Published: 08/17/2023 12:08:49 by Joakim Olsson <joakim.olsson@adicitus.cloud>
@@ -222,26 +453,6 @@ __Downloads__: 3,340 | __Repository__: https://github.com/bottkars/PPDM-pwsh
 Set of core tools used in projects @ Cornerstone Group AB (Formerly ACGroup).
 
 __Downloads__: 13,665 | __Repository__: https://github.com/Adicitus/acgcore
-
-## [Harden-Windows-Security-Module](https://www.powershellgallery.com/Packages/Harden-Windows-Security-Module/0.0.9) | 0.0.9
-
-### Published: 08/17/2023 12:03:44 by HotCakeX
-
-✅ This is a PowerShell module for Harden Windows Security script.
-✅ It offers System Compliance checking in addition to hardening.
-✅ You can check and validate a system to see whether it conforms to the Harden Windows Security guidelines or not.
-
-💠 The module generates a nice output on the screen as well as giving users an option to export the results in a CSV file.
-
-💠 If you use the "Protect-WindowsSecurity" Cmdlet, it will download and run the Harden Windows Security PowerShell script from the official repository
-
-🟡 Refer to this GitHub repository for more info: https://github.com/HotCakeX/Harden-Windows-Security
-
-🏴 Module's documentation: https://github.com/HotCakeX/Harden-Windows-Security/wiki/Harden%E2%80%90Windows%E2%80%90Security%E2%80%90Module
-
-💎 If you have any questions, requests, suggestions etc. about this module, please open a new Discussion or Issue on GitHub
-
-__Downloads__: 348 | __Repository__: https://github.com/HotCakeX/Harden-Windows-Security
 
 ## [PSDependHelper](https://www.powershellgallery.com/Packages/PSDependHelper/0.0.2) | 0.0.2
 
@@ -257,7 +468,7 @@ __Downloads__: 25 | __Repository__: https://github.com/abbgrade/PSDependHelper
 
 Interact with the Atlassian Cloud APIs using PowerShell
 
-__Downloads__: 43 | __Repository__: https://github.com/andylyonette/CitrixShareFilePS
+__Downloads__: 41 | __Repository__: https://github.com/andylyonette/CitrixShareFilePS
 
 ## [PSCompletions](https://www.powershellgallery.com/Packages/PSCompletions/1.0.13) | 1.0.13
 
@@ -266,14 +477,6 @@ __Downloads__: 43 | __Repository__: https://github.com/andylyonette/CitrixShareF
 A completion manager for better and simpler use and Manage completions. For more information, please visit the project: https://github.com/abgox/PSCompletions
 
 __Downloads__: 25 | __Repository__: https://github.com/abgox/PSCompletions
-
-## [NTS.Tools](https://www.powershellgallery.com/Packages/NTS.Tools/1.0.3.8) | 1.0.3.8
-
-### Published: 08/17/2023 09:39:49 by Moritz Wiedmann
-
-NTS.Tools module contains tools for ConfigMgr and course deployment
-
-__Downloads__: 1,388 | __Repository__: 
 
 ## [NTS.Tools.MSHyperV](https://www.powershellgallery.com/Packages/NTS.Tools.MSHyperV/1.0.5.0) | 1.0.5.0
 
@@ -315,7 +518,7 @@ Various helper functions for modules IntuneStuff, AzureADStuff etc. Some of them
     - Uninstall-ApplicationViaUninstallString - uninstalls application using information retrieved from system registry
     - ...
 
-__Downloads__: 79,327 | __Repository__: https://github.com/ztrhgf/useful_powershell_modules
+__Downloads__: 79,326 | __Repository__: https://github.com/ztrhgf/useful_powershell_modules
 
 ## [MilestonePSTools](https://www.powershellgallery.com/Packages/MilestonePSTools/23.2.1) | 23.2.1
 
@@ -323,7 +526,7 @@ __Downloads__: 79,327 | __Repository__: https://github.com/ztrhgf/useful_powersh
 
 Milestone XProtect VMS configuration and automation powered by the Milestone MIP SDK.
 
-__Downloads__: 193,681 | __Repository__: https://www.milestonepstools.com/
+__Downloads__: 193,680 | __Repository__: https://www.milestonepstools.com/
 
 ## [Voicemeeter](https://www.powershellgallery.com/Packages/Voicemeeter/3.2.0) | 3.2.0
 
@@ -397,14 +600,6 @@ Show contextual information about the command as you are entering it
 
 __Downloads__: 1,345 | __Repository__: https://github.com/pschaeflein/MagicTooltips
 
-## [PSEasy.Utility](https://www.powershellgallery.com/Packages/PSEasy.Utility/1.5.4) | 1.5.4
-
-### Published: 08/16/2023 17:12:30 by Brett Gerhardi
-
-Lightweight army of helpers for general powershell activities
-
-__Downloads__: 5,054 | __Repository__: https://github.com/o-o00o-o/PSEasy.Utility
-
 ## [ADPFunctions](https://www.powershellgallery.com/Packages/ADPFunctions/2308.9) | 2308.9
 
 ### Published: 08/16/2023 16:41:02 by Chris Darais
@@ -421,77 +616,13 @@ Provides AAD authentication factory for easy Public Client, Confidential Client 
 
 __Downloads__: 16,379 | __Repository__: https://github.com/GreyCorbel/AadAuthenticationFactory
 
-## [NTS.Tools.MSSQL](https://www.powershellgallery.com/Packages/NTS.Tools.MSSQL/1.0.0.14) | 1.0.0.14
-
-### Published: 08/16/2023 14:40:02 by Moritz Wiedmann
-
-NTS.Tools.MSSQL module contains functions that are mainly related to Microsoft SQL Server
-
-__Downloads__: 1,326 | __Repository__: 
-
-## [NTS.Tools.MSExchange](https://www.powershellgallery.com/Packages/NTS.Tools.MSExchange/1.0.0.9) | 1.0.0.9
-
-### Published: 08/16/2023 14:39:43 by Moritz Wiedmann
-
-NTS.Tools.MSExchange module contains functions that are mainly related to around Microsoft Exchange
-
-__Downloads__: 1,322 | __Repository__: 
-
-## [NTS.Tools.MSConfigMgr](https://www.powershellgallery.com/Packages/NTS.Tools.MSConfigMgr/1.0.1.5) | 1.0.1.5
-
-### Published: 08/16/2023 14:39:34 by Moritz Wiedmann
-
-NTS.Tools.MSConfigMgr module contains functions that are mainly related to Microsoft Endpoint Configuration Manger
-
-__Downloads__: 1,329 | __Repository__: 
-
-## [NTS.Tools.MSADDS](https://www.powershellgallery.com/Packages/NTS.Tools.MSADDS/1.0.0.9) | 1.0.0.9
-
-### Published: 08/16/2023 14:39:24 by Moritz Wiedmann
-
-NTS.Tools.MSADDS module contains functions that are mainly related to Microsoft Active Directory Domain Services
-
-__Downloads__: 1,307 | __Repository__: 
-
-## [NTS.Tools.MSADCS](https://www.powershellgallery.com/Packages/NTS.Tools.MSADCS/1.0.1.6) | 1.0.1.6
-
-### Published: 08/16/2023 14:39:14 by Moritz Wiedmann
-
-NTS.Tools.MSADCS module contains functions that are mainly related to Microsoft Active Directory Certification Services
-
-__Downloads__: 1,323 | __Repository__: 
-
-## [NTS.Tools.Application](https://www.powershellgallery.com/Packages/NTS.Tools.Application/1.0.1.6) | 1.0.1.6
-
-### Published: 08/16/2023 14:39:04 by Moritz Wiedmann
-
-NTS.Tools.Application module contains functions to install applications
-
-__Downloads__: 334 | __Repository__: 
-
-## [NTS.Tools.General](https://www.powershellgallery.com/Packages/NTS.Tools.General/1.0.0.8) | 1.0.0.8
-
-### Published: 08/16/2023 14:38:54 by Moritz Wiedmann
-
-NTS.Tools.General module contains functions that are used for general purpose
-
-__Downloads__: 1,466 | __Repository__: 
-
-## [PoshSophos](https://www.powershellgallery.com/Packages/PoshSophos/0.2) | 0.2
-
-### Published: 08/16/2023 12:48:24 by Zack Moss
-
-Module to work with the Sophos Central Tenant API
-
-__Downloads__: 6 | __Repository__: https://github.com/zackmoss/PoshSophos
-
 ## [SqlChangeAutomation](https://www.powershellgallery.com/Packages/SqlChangeAutomation/4.6.23226.1998) | 4.6.23226.1998
 
 ### Published: 08/16/2023 11:13:22 by Red Gate Software Ltd.
 
 Automation tools for production quality database deployment
 
-__Downloads__: 4,424,168 | __Repository__: https://www.red-gate.com/sca/productpage
+__Downloads__: 4,424,281 | __Repository__: https://www.red-gate.com/sca/productpage
 
 ## [AdminByRequest](https://www.powershellgallery.com/Packages/AdminByRequest/1.1.0) | 1.1.0
 
@@ -1761,7 +1892,7 @@ __Downloads__: 16,774 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions for Active Directory
 
-__Downloads__: 18,368 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 18,369 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [VMware.CloudFoundation.PasswordManagement](https://www.powershellgallery.com/Packages/VMware.CloudFoundation.PasswordManagement/1.3.0.1005) | 1.3.0.1005
 
@@ -1805,7 +1936,7 @@ __Downloads__: 69,815 | __Repository__: https://aadinternals.com/aadinternals
 
 Push and Get Powershell and Nuget Modules
 
-__Downloads__: 2,541 | __Repository__: https://github.com/o-o00o-o/PSEasy.Module
+__Downloads__: 2,539 | __Repository__: https://github.com/o-o00o-o/PSEasy.Module
 
 ## [RiverMeadow.Development.Migrate](https://www.powershellgallery.com/Packages/RiverMeadow.Development.Migrate/1.0.117.283) | 1.0.117.283
 
@@ -1831,14 +1962,6 @@ Manage fonts on a Windows system
 
 __Downloads__: 2 | __Repository__: 
 
-## [BruhArmy](https://www.powershellgallery.com/Packages/BruhArmy/1.2.8) | 1.2.8
-
-### Published: 08/14/2023 19:34:59 by Evan Deters
-
-This module includes several commands that help with the deployment of virtual environments on vSphere.
-
-__Downloads__: 83 | __Repository__: https://github.com/evanjd711/bruharmy
-
 ## [UncommonSense.Trouw](https://www.powershellgallery.com/Packages/UncommonSense.Trouw/0.0.23.0) | 0.0.23.0
 
 ### Published: 08/14/2023 17:08:07 by Jan Hoek
@@ -1861,7 +1984,7 @@ __Downloads__: 5,700 | __Repository__:
 
 Module for PowerShell Universal.
 
-__Downloads__: 47,413 | __Repository__: https://ironmansoftware.com/powershell-universal
+__Downloads__: 47,412 | __Repository__: https://ironmansoftware.com/powershell-universal
 
 ## [MyAPI](https://www.powershellgallery.com/Packages/MyAPI/1.0) | 1.0
 
@@ -1877,7 +2000,7 @@ __Downloads__: 3 | __Repository__:
 
 SdnDiagnostics is a tool used to simplify the data collection and diagnostics of Windows Software Defined Networking.
 
-__Downloads__: 30,646 | __Repository__: https://github.com/microsoft/SdnDiagnostics
+__Downloads__: 30,645 | __Repository__: https://github.com/microsoft/SdnDiagnostics
 
 ## [SpecBaseModule](https://www.powershellgallery.com/Packages/SpecBaseModule/1.0.5) | 1.0.5
 
@@ -2037,7 +2160,7 @@ __Downloads__: 3,611 | __Repository__: https://www.github.com/alt3/Docusaurus.Po
 
 Get infomration about remote Windows logged in users, with the support of logging off a single user or all users from a single or multiple servers
 
-__Downloads__: 141,428 | __Repository__: https://github.com/farismalaeb/Powershell/tree/master/Get-ActiveSession
+__Downloads__: 141,209 | __Repository__: https://github.com/farismalaeb/Powershell/tree/master/Get-ActiveSession
 
 ## [ADEssentials](https://www.powershellgallery.com/Packages/ADEssentials/0.0.164) | 0.0.164
 
@@ -2045,7 +2168,7 @@ __Downloads__: 141,428 | __Repository__: https://github.com/farismalaeb/Powershe
 
 Helper module for Active Directory with lots of useful functions that simplify supporting Active Directory.
 
-__Downloads__: 152,032 | __Repository__: https://github.com/EvotecIT/ADEssentials
+__Downloads__: 152,030 | __Repository__: https://github.com/EvotecIT/ADEssentials
 
 ## [PSWriteHTML](https://www.powershellgallery.com/Packages/PSWriteHTML/1.2.0) | 1.2.0
 
@@ -2053,7 +2176,7 @@ __Downloads__: 152,032 | __Repository__: https://github.com/EvotecIT/ADEssential
 
 PSWriteHTML is PowerShell Module to generate beautiful HTML reports, pages, emails without any knowledge of HTML, CSS or JavaScript. To get started basics PowerShell knowledge is required.
 
-__Downloads__: 1,954,401 | __Repository__: https://github.com/EvotecIT/PSWriteHTML
+__Downloads__: 1,954,497 | __Repository__: https://github.com/EvotecIT/PSWriteHTML
 
 ## [PersistenceSniper](https://www.powershellgallery.com/Packages/PersistenceSniper/1.12.1) | 1.12.1
 
@@ -2063,62 +2186,4 @@ This module tries to enumerate all the persistence methods implanted on a compro
 
 __Downloads__: 1,953 | __Repository__: https://github.com/last-byte/PersistenceSniper
 
-## [code365scripts.openai](https://www.powershellgallery.com/Packages/code365scripts.openai/1.1.0.4) | 1.1.0.4
-
-### Published: 08/12/2023 12:28:19 by chenxizhang
-
-The non-official OpenAI PowerShell module. This module is used to interact with OpenAI API.
-    
-    Changelogs:
-    - 2023-08-12    v1.1.0.4    Added stream support for chat
-    - 2021-05-13    v1.1.0.3    Small enhancements (save result to clipboard, print the system prompt, etc.)
-    - 2021-05-13    v1.1.0.0    Simplify the module structure
-    - 2023-05-07    v1.0.4.12   Fixed the network connectivity test logic
-    - 2023-05-07    v1.0.4.11   Added azure OpenAI supporrt for New-ChatGPTConversation function
-    - 2023-05-07    v1.0.4.10   Added network connectivity test logic
-    - 2023-03-09    v1.0.4.9    Added change logs in the description.
-    - 2023-03-08    v1.0.4.8    Added error handling.
-
-__Downloads__: 54,417 | __Repository__: https://github.com/chenxizhang/openai-powershell/
-
-## [SidCloner](https://www.powershellgallery.com/Packages/SidCloner/2.1.1) | 2.1.1
-
-### Published: 08/12/2023 09:45:52 by JiriFormacek
-
-Module for cloning of SID History for cross-forest migrations of users and security groups
-
-__Downloads__: 1,045 | __Repository__: 
-
-## [PSJobCanAttendance](https://www.powershellgallery.com/Packages/PSJobCanAttendance/1.0.2) | 1.0.2
-
-### Published: 08/12/2023 06:40:55 by Takatoshi Kuriyama
-
-Simple automation for JobCan Attendance.
-
-__Downloads__: 35 | __Repository__: https://github.com/krymtkts/PSJobCanAttendance
-
-## [PSElvUI](https://www.powershellgallery.com/Packages/PSElvUI/1.5.0) | 1.5.0
-
-### Published: 08/12/2023 02:58:58 by Mike Roberts
-
-This module provides an easy way to update/install ElvUI. Currently only working on Windows! Github repo: https://github.com/gngrninja/PSElvUI
-
-__Downloads__: 691 | __Repository__: 
-
-## [AzureHelper](https://www.powershellgallery.com/Packages/AzureHelper/1.0.53) | 1.0.53
-
-### Published: 08/11/2023 19:09:24 by Paul Harrison
-
-This module provides cmdlets to help in daily work, find cost savings, and report on Azure Policy compliance
-
-__Downloads__: 2,163 | __Repository__: 
-
-## [PureStoragePowerShellSDK2](https://www.powershellgallery.com/Packages/PureStoragePowerShellSDK2/2.16.17.0) | 2.16.17.0
-
-### Published: 08/11/2023 18:29:18 by Pure Storage Inc.
-
-Pure Storage FlashArray REST 2.16 API integration with Windows PowerShell.
-
-__Downloads__: 6,642 | __Repository__: https://github.com/PureStorage-Connect/PowerShellSDK2
-
-*Updated: Friday, 18 August 2023 09:53:35 UTC*
+*Updated: Friday, 18 August 2023 17:53:44 UTC*
