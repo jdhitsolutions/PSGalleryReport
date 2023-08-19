@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Friday, 18 August 2023 17:53:59 UTC
+Updated: Saturday, 19 August 2023 02:00:31 UTC
 
 .bat
 .env
@@ -34,7 +34,6 @@ Updated: Friday, 18 August 2023 17:53:59 UTC
 2018
 2019
 21vianet
-24-bit
 2fa
 300
 365
@@ -61,7 +60,6 @@ aadc
 aadconnect
 aadgraph
 aadrm
-aadsc
 aadsecurity
 aadsts
 aam
@@ -585,7 +583,6 @@ axis
 axium
 az
 az-cli
-az.automation
 azautomation
 azcli
 azcompute
@@ -724,8 +721,6 @@ bayern
 bb
 bbp
 bc
-bcd
-bcdedit
 bcdr
 bd
 bdd
@@ -826,7 +821,6 @@ bookmark
 bookmarks
 books
 bool
-bootloader psmodule
 bootstrap
 bootstrapping
 bop
@@ -1227,7 +1221,6 @@ collatz
 collection
 collectionmembershipevaluationcomponent
 collections
-collector
 color
 color-hex
 color-rgb
@@ -1260,6 +1253,7 @@ commence
 comment
 comments
 commerce
+commfort
 commit
 common
 common-data-service
@@ -1470,7 +1464,6 @@ credentials-cache
 credentialsmanager
 credentialstore
 credentialutility
-credit
 credman
 credmanager
 crescendo
@@ -1689,6 +1682,8 @@ decryption
 dedicatedhsm
 deduplication
 deep
+deep-security
+deep-security-manager
 deepl
 deepvisibility
 def
@@ -2774,7 +2769,6 @@ groupmembership
 grouppolicy
 groups
 grouvee
-grr
 gsuite
 gtx1080ti
 guardedfabric
@@ -3179,6 +3173,7 @@ integratedscriptingeditor
 integration
 integrationaccount
 integrationruntime
+integrationruntimedependency
 integrationservicescatalog
 integrity
 intel
@@ -3500,6 +3495,7 @@ learning
 learning-powershell
 learningpowershell
 learnpowershell
+lease
 leetabit
 leftjoin
 legacy
@@ -3573,6 +3569,7 @@ lldp
 lmhost
 lmhosts
 lms
+load
 loadbalancer
 loadbalancer.org
 loadtesting
@@ -3963,6 +3960,7 @@ mof
 moldova
 moment
 monaco
+monday
 mondoo
 money
 moneyforward
@@ -4004,7 +4002,6 @@ msaccess
 msacpi_thermalzonetemperature
 msal
 msband
-msbi
 msbuild
 mschart
 msdeploy
@@ -4434,6 +4431,7 @@ optics
 optimization
 optimizer
 option
+options
 optionstring
 opus
 oracle
@@ -5392,7 +5390,6 @@ remotedesktopgateway
 remotedesktopmanager
 remotedesktopservices
 remotefiles
-remoteforensics
 remotehost
 remotelogoff
 remotemanagement
@@ -6035,7 +6032,6 @@ sni
 snipe-it
 snippet
 snippets
-snippets-manager
 snippit
 snmp
 snmpget
@@ -6175,7 +6171,6 @@ sqlproj
 sqlproject
 sqlps
 sqlserver
-sqlserveragent
 sqlserverbynarymodule
 sqlserverbynarypsmodule
 sqlservermodule
@@ -6464,6 +6459,7 @@ tcp
 tcp/ip
 tcpip
 tcpport
+tcprjmgmt
 tcpserver
 tcptest
 tcx
@@ -6680,6 +6676,7 @@ treffynnon
 trein
 trello
 trellops
+trend-micro
 trendmicro
 trevor
 trevorsullivan
