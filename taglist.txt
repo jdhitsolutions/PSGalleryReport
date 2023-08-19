@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Saturday, 19 August 2023 09:53:20 UTC
+Updated: Saturday, 19 August 2023 17:53:28 UTC
 
 .bat
 .env
@@ -34,6 +34,7 @@ Updated: Saturday, 19 August 2023 09:53:20 UTC
 2018
 2019
 21vianet
+24-bit
 2fa
 300
 365
@@ -347,6 +348,7 @@ apigateway
 apigee
 apigeeedge
 apimanagement
+apis
 aplication
 apm
 apmconfig
@@ -723,6 +725,7 @@ bc
 bcd
 bcdedit
 bcdr
+bd
 bdd
 bds
 be.stateless
@@ -803,6 +806,7 @@ blog
 blogs
 bls
 blue
+bluedolhin
 blueprint
 blueprints
 blueteam
@@ -1221,6 +1225,7 @@ collatz
 collection
 collectionmembershipevaluationcomponent
 collections
+collector
 color
 color-hex
 color-rgb
@@ -3319,6 +3324,7 @@ jnet
 jnetps
 joat
 job
+jobcan
 jobs
 jobscheduler
 johnshopkins
@@ -4841,6 +4847,7 @@ powershellgetformatversion_2.0
 powershellise
 powershelllogger
 powershellmodule
+powershellmoduleupdate
 powershellpr0mpt
 powershellscript
 powershelltemplate
@@ -6795,6 +6802,7 @@ ud-speechbubble
 ud-step
 ud-stepbar
 ud-stickynavbar
+ud-tagcloud
 ud-timeline
 ud-timeout
 ud-tool
@@ -6929,6 +6937,7 @@ utm
 uudecode
 uuencode
 uuid
+uup
 uw
 uwp
 ux
@@ -6956,6 +6965,7 @@ vaultextension
 vaultstore
 vb365
 vba
+vbaproject
 vbproj
 vbr
 vbscript
