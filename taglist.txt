@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Saturday, 19 August 2023 02:00:31 UTC
+Updated: Saturday, 19 August 2023 09:53:20 UTC
 
 .bat
 .env
@@ -347,7 +347,6 @@ apigateway
 apigee
 apigeeedge
 apimanagement
-apis
 aplication
 apm
 apmconfig
@@ -721,8 +720,9 @@ bayern
 bb
 bbp
 bc
+bcd
+bcdedit
 bcdr
-bd
 bdd
 bds
 be.stateless
@@ -803,7 +803,6 @@ blog
 blogs
 bls
 blue
-bluedolhin
 blueprint
 blueprints
 blueteam
@@ -821,6 +820,7 @@ bookmark
 bookmarks
 books
 bool
+bootloader psmodule
 bootstrap
 bootstrapping
 bop
@@ -1464,6 +1464,7 @@ credentials-cache
 credentialsmanager
 credentialstore
 credentialutility
+credit
 credman
 credmanager
 crescendo
@@ -2769,6 +2770,7 @@ groupmembership
 grouppolicy
 groups
 grouvee
+grr
 gsuite
 gtx1080ti
 guardedfabric
@@ -3317,7 +3319,6 @@ jnet
 jnetps
 joat
 job
-jobcan
 jobs
 jobscheduler
 johnshopkins
@@ -4002,6 +4003,7 @@ msaccess
 msacpi_thermalzonetemperature
 msal
 msband
+msbi
 msbuild
 mschart
 msdeploy
@@ -4839,7 +4841,6 @@ powershellgetformatversion_2.0
 powershellise
 powershelllogger
 powershellmodule
-powershellmoduleupdate
 powershellpr0mpt
 powershellscript
 powershelltemplate
@@ -5390,6 +5391,7 @@ remotedesktopgateway
 remotedesktopmanager
 remotedesktopservices
 remotefiles
+remoteforensics
 remotehost
 remotelogoff
 remotemanagement
@@ -6032,6 +6034,7 @@ sni
 snipe-it
 snippet
 snippets
+snippets-manager
 snippit
 snmp
 snmpget
@@ -6171,6 +6174,7 @@ sqlproj
 sqlproject
 sqlps
 sqlserver
+sqlserveragent
 sqlserverbynarymodule
 sqlserverbynarypsmodule
 sqlservermodule
@@ -6791,7 +6795,6 @@ ud-speechbubble
 ud-step
 ud-stepbar
 ud-stickynavbar
-ud-tagcloud
 ud-timeline
 ud-timeout
 ud-tool
@@ -6926,7 +6929,6 @@ utm
 uudecode
 uuencode
 uuid
-uup
 uw
 uwp
 ux
@@ -6954,7 +6956,6 @@ vaultextension
 vaultstore
 vb365
 vba
-vbaproject
 vbproj
 vbr
 vbscript
