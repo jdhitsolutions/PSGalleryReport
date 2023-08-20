@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Saturday, 19 August 2023 17:53:28 UTC
+Updated: Sunday, 20 August 2023 02:01:38 UTC
 
 .bat
 .env
@@ -3139,7 +3139,6 @@ inheritance
 ini
 inifile
 initialization
-initials-avatar
 initiator
 inline-progress
 inlineprogress
@@ -3241,10 +3240,10 @@ ip-scanner
 ipa
 ipaddress
 ipam
-ipbroadcast
 ipc
 ipcalc
 ipcalculator
+ipconfig
 iperf
 ipfy.org
 iphone
@@ -4124,7 +4123,6 @@ ncal
 ndes
 nebulon
 nec-infrared-transmission-protocol
-nederland
 nedyalkov
 neo4j
 neptune
@@ -4258,7 +4256,6 @@ nql
 nrc
 nrql
 ns
-ns.nl
 nsg
 nslookup
 nsx
@@ -4681,7 +4678,6 @@ pipeline
 pipelines
 pipescript
 piraeus
-pivot
 pivotal
 pivottable
 pixoo
@@ -4847,7 +4843,6 @@ powershellgetformatversion_2.0
 powershellise
 powershelllogger
 powershellmodule
-powershellmoduleupdate
 powershellpr0mpt
 powershellscript
 powershelltemplate
@@ -4861,7 +4856,6 @@ powertab
 powertoolcmdlets
 powertooldsc
 ppdm
-ppk
 pposh
 pps
 ppt
@@ -6657,7 +6651,6 @@ trading
 trafficfiltering
 trafficmanager
 trafficmarking
-train
 training
 training-course
 tram
@@ -6684,7 +6677,6 @@ trec
 tree
 treesize
 treffynnon
-trein
 trello
 trellops
 trend-micro
@@ -6814,7 +6806,6 @@ ud-wordtree
 udcm
 udfeedback
 udp
-udpclient
 udptest
 udr
 udthememode
