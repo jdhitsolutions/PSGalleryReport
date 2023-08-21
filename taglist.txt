@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 21 August 2023 09:52:47 UTC
+Updated: Monday, 21 August 2023 17:53:22 UTC
 
 .bat
 .env
@@ -235,6 +235,8 @@ aim
 aip
 aipscanner
 aircall
+airpower
+airpwr
 airtable
 ais
 aispeech
@@ -244,7 +246,6 @@ aka.ms
 aks
 aks-hci
 akscluster
-al
 alac
 alarm
 alb
@@ -371,7 +372,9 @@ appinsights
 applayering
 apple
 application
+application-control
 application-transformer
+application-whitelisting
 applicationgateway
 applicationgrid
 applicationhost.config
@@ -447,6 +450,7 @@ asbuiltreport
 asc
 ascii
 ascii85
+asciiart
 asdatabase
 asigra
 asjob
@@ -665,8 +669,6 @@ azuresecuritycenter
 azureservicebus
 azuresigntool
 azuresql
-azuresqlexport
-azuresqlimport
 azuressas
 azurestack
 azurestackhci
@@ -716,7 +718,6 @@ battery
 bayern
 bb
 bbp
-bc
 bcd
 bcdedit
 bcdr
@@ -754,6 +755,7 @@ bigfix
 bigquery
 bikeshed
 billing
+billingbenefits
 bin
 bin-obj
 binary
@@ -813,6 +815,7 @@ boilerplate
 boinc
 bolt
 bom
+book
 bookmark
 bookmarks
 books
@@ -822,6 +825,7 @@ bootstrap
 bootstrapping
 bop
 bot
+bots
 botservice
 bouncer
 boundaries
@@ -894,6 +898,7 @@ bxor
 bydesign
 byexample
 bynarypsmodule
+byovd
 byte
 bytearray
 bzip2
@@ -1142,6 +1147,7 @@ cloudblue
 cloudbolt
 cloudbridge
 cloudendure
+cloudevents
 cloudflare
 cloudforensics
 cloudformation
@@ -1254,6 +1260,7 @@ common
 common-data-service
 commonareaphone
 commondataservice
+commonmark
 commonstuff
 communication
 community
@@ -1266,7 +1273,6 @@ complete
 completer
 completion
 completion-manager
-completionresult
 completions
 complex
 compliance
@@ -1290,7 +1296,6 @@ concurrent
 conda
 condition
 conditionalaccess
-conduit
 conference
 confidentialclient
 confidentialledger
@@ -1377,13 +1382,13 @@ convertfrom
 convertfrom-yaml
 convertto
 convertto-excel
+convertto-hashtable
 convertto-yaml
 converttodocx
 converttohtml
 converttomarkdown
 converttomd
 cookie
-coolq
 cooltag1
 cooltag2
 coordinates
@@ -1397,11 +1402,13 @@ coreepower.module
 coreposh
 corona
 corporate
+cortex
 cos
 cosmos
 cosmosdb
 cost
 costoptimization
+couchbase
 couchdb
 couchpotato
 count
@@ -1423,10 +1430,8 @@ cppm
 cpu
 cpuid
 cpuid-information
-cq
 cqd
 cqdpowershell
-cqhttp
 crack psmodule
 crash
 crayon
@@ -1583,7 +1588,6 @@ data-uri
 data-uri-converter
 database
 database-migrations
-databaseautomation
 databasemanagement
 databasemigration
 databases
@@ -1745,6 +1749,7 @@ devexpress
 deviation
 device
 devicecode
+deviceid
 deviceprovisioningservice
 devices
 deviceupdate
@@ -2082,6 +2087,7 @@ emailmanagment
 emailnotification
 emailnotificationcomponent
 emailsecurity
+embedded
 emc
 emcomm
 emergency
@@ -2166,6 +2172,11 @@ escaping
 ese
 esent
 esoteric
+esp
+esp-idf
+esp32
+esp32s2
+espressif
 esri
 essbase
 estimate
@@ -2228,11 +2239,14 @@ exceptionless
 exchange
 exchange_online
 exchange-rates
+exchange2010
 exchange2013
 exchange2016
 exchangecluster
 exchangehybrid
 exchangemigration
+exchangeon-premise
+exchangeon-premises
 exchangeonline
 exchangeonlineprotection
 exchangeonprem
@@ -2274,6 +2288,7 @@ export
 export-cmhealthreport
 export-data
 export-passlist
+exportcertificate
 exportcertificates
 exporter
 exportexcel
@@ -2816,6 +2831,8 @@ hashset
 hashtable
 hasicorp
 haskell
+haste
+hastebin
 haveibeenpwned
 hba
 hbase
@@ -2844,11 +2861,11 @@ helium
 helix
 hello
 helloid
+helloposhgallery
 helloworld
 helmet
 help
 helpdesk
-helpdoc
 helper
 helper-functions
 helperfunctions
@@ -3006,6 +3023,7 @@ icingawindows
 icloud
 icmp
 icon
+icons
 icraftsoftware
 ics
 icws
@@ -3020,6 +3038,7 @@ identitydataplane
 identitydirector
 identitydomains
 identitynow
+idf
 idm
 idna
 ids
@@ -3249,7 +3268,6 @@ iso-8601
 ispac
 isprime
 ispss
-issues
 isvalidemail
 isvalidip
 it
@@ -3397,6 +3415,7 @@ koans
 korn
 kotlin
 kql
+kraken
 krbtgt
 krick
 kschemaplugin
@@ -3569,6 +3588,7 @@ location
 locationbasedservices
 lock
 lockbox
+lockdisplaytimeout
 lockdown
 locking
 lockoutreport
@@ -3774,6 +3794,7 @@ mct
 md5
 md5_v2-afbf3dae88c049d004174f2d610ee134
 md5sum
+mdac
 mdatp
 mdb
 mdbc
@@ -4410,7 +4431,6 @@ optimization
 optimizer
 option
 options
-optionstring
 opus
 oracle
 oraclecloudinfrastructure
@@ -4460,6 +4480,7 @@ oui-search
 out-consolegridview
 out-default
 out-gridview
+out-json
 outerjoin
 outertext
 outline
@@ -4484,6 +4505,7 @@ pac
 pack
 package
 package-management
+package-manager
 package-transform
 packagemanagement
 packagemanager
@@ -4557,6 +4579,7 @@ passwordstate
 passwordtool
 passwordvault
 passwordwolf
+paste
 patch
 patches
 patching
@@ -4615,7 +4638,6 @@ pfsense
 pfx
 pfy
 pgp
-phabricator
 philips
 philosophical
 philpritchett
@@ -4703,7 +4725,6 @@ poll
 polly
 polycom
 pomodoro
-ponduit
 pool
 poop
 pop
@@ -4802,7 +4823,6 @@ powershell.one
 powershell.persistentpathstack
 powershell7
 powershellai
-powershellazuresql
 powershellconferenceeurope
 powershellcore
 powershellcourse
@@ -4828,7 +4848,6 @@ powertab
 powertoolcmdlets
 powertooldsc
 ppdm
-ppk
 pposh
 pps
 ppt
@@ -4897,6 +4916,7 @@ productid
 productivity
 productmedia
 products
+productstate
 profile
 profiler
 profiles
@@ -4983,7 +5003,6 @@ pscredential
 pscribo
 pscustomobject
 psd1
-psdb
 psdefaultparametervalues
 psdeploy
 psdesiredstateconfiguration
@@ -5174,7 +5193,6 @@ qlogicfcpowerkit
 qlogicfcprovider
 qna
 qol
-qq
 qr
 qrcode
 qrcodes
@@ -5183,7 +5201,6 @@ qrs
 quality
 qualys
 quandl
-quantum
 quarantine
 queries
 query
@@ -5354,6 +5371,8 @@ reminder
 remote
 remote-desktop
 remote'
+remoteadmin
+remotecert
 remoteconnection
 remoteconnectionsmanager
 remotecontrol
@@ -5365,6 +5384,7 @@ remotedesktopservices
 remotefiles
 remoteforensics
 remotehost
+remotelocalgroup
 remotelogoff
 remotemanagement
 remotesession
@@ -6122,18 +6142,15 @@ sql-database
 sql-script
 sql-server
 sqlagent
-sqlautomation
 sqlbits
 sqlbrowser
 sqlchangeautomation
 sqlclient
 sqlcmd
-sqlcodeguard
 sqldatabase
 sqldb
 sqldbatools
 sqldiagapi
-sqlexport
 sqlgateway
 sqlite
 sqlitebynarymodule
@@ -6421,6 +6438,7 @@ tanzu
 tar
 target
 task
+task-runner
 task-scheduler
 taskbar
 tasker
@@ -6490,9 +6508,11 @@ test
 test-dscconfiguration
 test-internetconnection
 test-modulepath
+test-osplatform
 test-psremoting
 test-samcmapplicationexists
 test-samcmpackageexists
+test-userisadministrator
 test-xml
 test123
 testaccount
@@ -6615,6 +6635,7 @@ tracert
 tracing
 tracker
 tracking
+trading
 trafficfiltering
 trafficmanager
 trafficmarking
@@ -6674,7 +6695,6 @@ ts
 tsa
 tsd
 tsheets
-tsqlbestpractice
 tst
 tst1
 tst3
@@ -6736,6 +6756,7 @@ ud-dashboard
 ud-datepicker
 ud-field
 ud-flexytable
+ud-funnel
 ud-hero
 ud-illustration
 ud-input
@@ -6759,6 +6780,7 @@ ud-simpledrawer
 ud-singleselect
 ud-slider
 ud-speechbubble
+ud-step
 ud-stepbar
 ud-stickynavbar
 ud-tagcloud
@@ -6821,6 +6843,7 @@ unix
 unlinked
 unlock
 unprotect
+unsupported
 untis
 unzip
 up
@@ -7136,6 +7159,7 @@ waykbastion
 wbem
 wcf
 wcry
+wdac
 wdapi
 wds
 weather
@@ -7231,6 +7255,7 @@ windows-10
 windows-api
 windows-control-panel
 windows-defender
+windows-defender-application-control
 windows-environment
 windows-explorer
 windows-features
@@ -7330,7 +7355,6 @@ word-wrap
 wordcloud
 wordlist
 wordpress
-wordwrap
 workbook
 workday
 worker
@@ -7358,7 +7382,6 @@ wow
 wpad
 wpf
 wql
-wrap
 wrap-text
 wrapper
 wrapperfunctions
@@ -7418,6 +7441,7 @@ xaf
 xbase
 xbox
 xclarity
+xdr
 xdschelper
 xdscresources
 xdt
