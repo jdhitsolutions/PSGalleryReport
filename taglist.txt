@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 21 August 2023 02:01:11 UTC
+Updated: Monday, 21 August 2023 09:52:47 UTC
 
 .bat
 .env
@@ -33,6 +33,7 @@ Updated: Monday, 21 August 2023 02:01:11 UTC
 2016
 2018
 2019
+21vianet
 24-bit
 2fa
 300
@@ -234,8 +235,6 @@ aim
 aip
 aipscanner
 aircall
-airpower
-airpwr
 airtable
 ais
 aispeech
@@ -291,6 +290,7 @@ amazonmgn
 amazonwebservices
 amend
 ami
+amiga
 amp
 amqp
 amsi
@@ -371,9 +371,7 @@ appinsights
 applayering
 apple
 application
-application-control
 application-transformer
-application-whitelisting
 applicationgateway
 applicationgrid
 applicationhost.config
@@ -449,7 +447,6 @@ asbuiltreport
 asc
 ascii
 ascii85
-asciiart
 asdatabase
 asigra
 asjob
@@ -757,7 +754,6 @@ bigfix
 bigquery
 bikeshed
 billing
-billingbenefits
 bin
 bin-obj
 binary
@@ -817,7 +813,6 @@ boilerplate
 boinc
 bolt
 bom
-book
 bookmark
 bookmarks
 books
@@ -827,7 +822,6 @@ bootstrap
 bootstrapping
 bop
 bot
-bots
 botservice
 bouncer
 boundaries
@@ -900,7 +894,6 @@ bxor
 bydesign
 byexample
 bynarypsmodule
-byovd
 byte
 bytearray
 bzip2
@@ -956,6 +949,7 @@ cavium
 cb
 cblueshell
 cbr
+cbz
 cchoco
 cchocoex
 ccm
@@ -965,6 +959,7 @@ cd-
 cd+
 cdable_vars
 cdata
+cdb
 cdi
 cdm
 cdn
@@ -1147,7 +1142,6 @@ cloudblue
 cloudbolt
 cloudbridge
 cloudendure
-cloudevents
 cloudflare
 cloudforensics
 cloudformation
@@ -1186,6 +1180,7 @@ cminifile
 cmnetworkports
 cms
 cmsiteconfig
+cmsmessage
 cmtrace
 cmwt
 cns
@@ -1259,7 +1254,6 @@ common
 common-data-service
 commonareaphone
 commondataservice
-commonmark
 commonstuff
 communication
 community
@@ -1320,6 +1314,9 @@ conjecture
 connect
 connect-dtcmsite
 connect-exchangeonprem
+connect-mstsc
+connect-rdp
+connect-remotedesktop
 connect-samcmsite
 connected
 connectedkubernetes
@@ -1380,7 +1377,6 @@ convertfrom
 convertfrom-yaml
 convertto
 convertto-excel
-convertto-hashtable
 convertto-yaml
 converttodocx
 converttohtml
@@ -1401,13 +1397,11 @@ coreepower.module
 coreposh
 corona
 corporate
-cortex
 cos
 cosmos
 cosmosdb
 cost
 costoptimization
-couchbase
 couchdb
 couchpotato
 count
@@ -1751,7 +1745,6 @@ devexpress
 deviation
 device
 devicecode
-deviceid
 deviceprovisioningservice
 devices
 deviceupdate
@@ -1845,6 +1838,7 @@ distrubtionpoint
 dividends
 diving
 division
+divoom
 dkim
 dkschrutebeets
 dl
@@ -1894,6 +1888,7 @@ docs
 document
 documentation
 documentdb
+documentencryption
 documenting
 documents
 docusaurus
@@ -2087,7 +2082,6 @@ emailmanagment
 emailnotification
 emailnotificationcomponent
 emailsecurity
-embedded
 emc
 emcomm
 emergency
@@ -2172,11 +2166,6 @@ escaping
 ese
 esent
 esoteric
-esp
-esp-idf
-esp32
-esp32s2
-espressif
 esri
 essbase
 estimate
@@ -2221,6 +2210,7 @@ eventsubscription
 eventviewer
 eventwatch
 evergreen
+evernote
 everydaypowershell
 everydayrewards
 everything
@@ -2238,13 +2228,11 @@ exceptionless
 exchange
 exchange_online
 exchange-rates
-exchange2010
 exchange2013
 exchange2016
 exchangecluster
+exchangehybrid
 exchangemigration
-exchangeon-premise
-exchangeon-premises
 exchangeonline
 exchangeonlineprotection
 exchangeonprem
@@ -2286,7 +2274,6 @@ export
 export-cmhealthreport
 export-data
 export-passlist
-exportcertificate
 exportcertificates
 exporter
 exportexcel
@@ -2319,6 +2306,7 @@ factoryorchestratorclient
 facts
 faf
 failedlogin
+failure
 falcon
 fallbackstatuspoint
 fanarttv
@@ -2606,6 +2594,8 @@ genericartifactscontent
 genetic-algorithm
 genxdev
 geo
+geocache
+geocaching
 geoencode
 geoencoding
 geolocation
@@ -2754,6 +2744,7 @@ greynoise
 grid
 gridfs
 grok
+groundspeak
 group
 group-membership
 group-policy
@@ -2825,8 +2816,6 @@ hashset
 hashtable
 hasicorp
 haskell
-haste
-hastebin
 haveibeenpwned
 hba
 hbase
@@ -2855,7 +2844,6 @@ helium
 helix
 hello
 helloid
-helloposhgallery
 helloworld
 helmet
 help
@@ -3018,7 +3006,6 @@ icingawindows
 icloud
 icmp
 icon
-icons
 icraftsoftware
 ics
 icws
@@ -3033,7 +3020,6 @@ identitydataplane
 identitydirector
 identitydomains
 identitynow
-idf
 idm
 idna
 ids
@@ -3125,6 +3111,7 @@ inheritance
 ini
 inifile
 initialization
+initials-avatar
 initiator
 inline-progress
 inlineprogress
@@ -3200,6 +3187,7 @@ invitation
 invocation
 invoice
 invoke
+invoke-asadmin
 invoke-asadministrator
 invoke-ascurrentuser
 invoke-automation
@@ -3259,6 +3247,7 @@ iso
 iso-3166-1
 iso-8601
 ispac
+isprime
 ispss
 issues
 isvalidemail
@@ -3408,7 +3397,6 @@ koans
 korn
 kotlin
 kql
-kraken
 krbtgt
 krick
 kschemaplugin
@@ -3443,6 +3431,7 @@ labworker
 lake
 lambda
 lame
+lametrictime
 lamp
 lan
 landingzones
@@ -3580,7 +3569,6 @@ location
 locationbasedservices
 lock
 lockbox
-lockdisplaytimeout
 lockdown
 locking
 lockoutreport
@@ -3617,6 +3605,7 @@ logiclesstemplate
 logicmonitor
 login
 login-azurermaccount
+login-rdp
 logingestion
 loginscreen
 loginsight
@@ -3715,6 +3704,7 @@ manageability
 managed-identity
 manageddisks
 managedidentities
+managedserviceidenity
 managedserviceidentity
 managedserviceprovider
 managedserviceproviders
@@ -3784,7 +3774,6 @@ mct
 md5
 md5_v2-afbf3dae88c049d004174f2d610ee134
 md5sum
-mdac
 mdatp
 mdb
 mdbc
@@ -3805,6 +3794,7 @@ mediant
 mediaplayer
 mediaservices
 mediawiki
+meditation
 meeting
 meetup
 meetup.com
@@ -3836,6 +3826,7 @@ messaging
 messenger
 met
 metadata
+metadataservice
 metaprogramming
 method
 methodinfo
@@ -3929,6 +3920,7 @@ mobilenetwork
 mobilitycontroller
 mock
 mocking
+model
 modifiable-completion
 modify
 module
@@ -4088,6 +4080,7 @@ namespace
 naming
 nana
 nano
+nanoleaf
 nartac
 nasdaq
 native
@@ -4163,6 +4156,7 @@ new-dynamicparameter
 new-githubrelease
 new-itemproperty
 new-pinneditem
+new-rdpsession
 new-samcmapplicationfrompackagedefinitionsms
 new-samcmpackagefrompackagedefinitionsms
 new-system
@@ -4466,7 +4460,6 @@ oui-search
 out-consolegridview
 out-default
 out-gridview
-out-json
 outerjoin
 outertext
 outline
@@ -4491,7 +4484,6 @@ pac
 pack
 package
 package-management
-package-manager
 package-transform
 packagemanagement
 packagemanager
@@ -4565,7 +4557,6 @@ passwordstate
 passwordtool
 passwordvault
 passwordwolf
-paste
 patch
 patches
 patching
@@ -4660,6 +4651,7 @@ piraeus
 pivot
 pivotal
 pivottable
+pixoo
 pki
 pki psmodule
 pks
@@ -4795,6 +4787,7 @@ powershell-dsc
 powershell-examples
 powershell-gallery
 powershell-github-repo
+powershell-isprime
 powershell-lightning
 powershell-module
 powershell-modules
@@ -4867,6 +4860,7 @@ preview
 previousversions
 price
 pricelist
+primenumber
 primera
 principal
 principle
@@ -4903,7 +4897,6 @@ productid
 productivity
 productmedia
 products
-productstate
 profile
 profiler
 profiles
@@ -5361,7 +5354,6 @@ reminder
 remote
 remote-desktop
 remote'
-remotecert
 remoteconnection
 remoteconnectionsmanager
 remotecontrol
@@ -5372,6 +5364,7 @@ remotedesktopmanager
 remotedesktopservices
 remotefiles
 remoteforensics
+remotehost
 remotelogoff
 remotemanagement
 remotesession
@@ -5447,6 +5440,7 @@ resume
 retention
 retry
 returnuserprofile
+retype
 reuse
 reverse-engineer
 reverse-string
@@ -5707,6 +5701,7 @@ secret
 secretmanagement
 secretmanagementextension
 secrets
+secretsanta
 secretscanner
 secretserver
 secretsmanager
@@ -5720,6 +5715,7 @@ securedns
 securegopher
 securegopher+
 securemfa
+securerdp
 securescore
 securesphere
 securestring
@@ -5871,6 +5867,7 @@ shadowcopy
 shadowcopybackups
 shadowgroups
 shanghaitech
+shard
 share
 share-permission
 share-stat
@@ -6424,7 +6421,6 @@ tanzu
 tar
 target
 task
-task-runner
 task-scheduler
 taskbar
 tasker
@@ -6494,11 +6490,9 @@ test
 test-dscconfiguration
 test-internetconnection
 test-modulepath
-test-osplatform
 test-psremoting
 test-samcmapplicationexists
 test-samcmpackageexists
-test-userisadministrator
 test-xml
 test123
 testaccount
@@ -6621,7 +6615,6 @@ tracert
 tracing
 tracker
 tracking
-trading
 trafficfiltering
 trafficmanager
 trafficmarking
@@ -6697,6 +6690,7 @@ tweet
 twig
 twilio
 twincat
+twinkly
 twitch
 twitter
 twitter-api
@@ -6742,7 +6736,6 @@ ud-dashboard
 ud-datepicker
 ud-field
 ud-flexytable
-ud-funnel
 ud-hero
 ud-illustration
 ud-input
@@ -6766,11 +6759,11 @@ ud-simpledrawer
 ud-singleselect
 ud-slider
 ud-speechbubble
-ud-step
 ud-stepbar
 ud-stickynavbar
 ud-tagcloud
 ud-timeline
+ud-timeout
 ud-tool
 ud-toploader
 ud-trendline
@@ -6828,7 +6821,6 @@ unix
 unlinked
 unlock
 unprotect
-unsupported
 untis
 unzip
 up
@@ -7060,6 +7052,7 @@ volkskrant
 volta
 volume
 volumeshadowcopy
+volumio
 vorbis
 vovin
 vpas
@@ -7143,7 +7136,6 @@ waykbastion
 wbem
 wcf
 wcry
-wdac
 wdapi
 wds
 weather
@@ -7207,6 +7199,7 @@ whiteboard
 whitespace
 whoami
 whois
+whormi
 wi-fi
 wia
 wia.imagefile
@@ -7238,7 +7231,6 @@ windows-10
 windows-api
 windows-control-panel
 windows-defender
-windows-defender-application-control
 windows-environment
 windows-explorer
 windows-features
@@ -7397,6 +7389,7 @@ wsl
 wsl2
 wsman
 wsmanlistener
+wso2
 wsus
 wt
 wtsapi32
@@ -7425,7 +7418,6 @@ xaf
 xbase
 xbox
 xclarity
-xdr
 xdschelper
 xdscresources
 xdt
@@ -7467,6 +7459,7 @@ yahw
 yamaha
 yaml
 yandex
+yapg
 yarn
 yetanotherhelloworld
 yml
