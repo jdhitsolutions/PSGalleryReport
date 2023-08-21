@@ -3,6 +3,62 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [EZOut](https://www.powershellgallery.com/Packages/EZOut/2.0.1) | 2.0.1
+
+### Published: 08/21/2023 00:28:08 by James Brundage
+
+Easily Author Rich Format Files to Customize PowerShell Output
+
+__Downloads__: 4,668 | __Repository__: https://github.com/StartAutomating/EZOut
+
+## [IdentityCommand](https://www.powershellgallery.com/Packages/IdentityCommand/0.1.29) | 0.1.29
+
+### Published: 08/20/2023 23:26:41 by Pete Maan
+
+Enables user interaction with the API for the CyberArk Identity platform
+
+__Downloads__: 0 | __Repository__: https://github.com/pspete/IdentityCommand/
+
+## [IDandCollabTools](https://www.powershellgallery.com/Packages/IDandCollabTools/0.9) | 0.9
+
+### Published: 08/20/2023 21:37:48 by Stevie Lamb
+
+A module containing helper functions for common tasks involving Azure AD and M365
+
+__Downloads__: 28 | __Repository__: 
+
+## [PSTANSS](https://www.powershellgallery.com/Packages/PSTANSS/0.6.0) | 0.6.0
+
+### Published: 08/20/2023 20:19:34 by Andreas Bellstedt
+
+PowerShell Module for interacting with APP of 3rd party application TANSS
+
+__Downloads__: 28 | __Repository__: https://github.com/AndiBellstedt/PSTANSS
+
+## [CAT](https://www.powershellgallery.com/Packages/CAT/0.16.0.4) | 0.16.0.4
+
+### Published: 08/20/2023 20:11:55 by Joyful Craftsmen CAT Team
+
+Author, run and manage AUTOMATED TESTS for your DATA with minimum effort.
+
+__Downloads__: 206 | __Repository__: https://docs.justcat.it/
+
+## [PSPublishModule](https://www.powershellgallery.com/Packages/PSPublishModule/2.0.5) | 2.0.5
+
+### Published: 08/20/2023 20:07:15 by Przemyslaw Klys
+
+Simple project allowing preparing, managing, building and publishing modules to PowerShellGallery
+
+__Downloads__: 1,416 | __Repository__: https://github.com/EvotecIT/PSPublishModule
+
+## [TitanApi](https://www.powershellgallery.com/Packages/TitanApi/0.1.4) | 0.1.4
+
+### Published: 08/20/2023 18:21:34 by South River Technologies
+
+Titan API Powershell SDK
+
+__Downloads__: 12 | __Repository__: https://github.com/southrivertech/titanapi.pub
+
 ## [PdfLexer](https://www.powershellgallery.com/Packages/PdfLexer/0.1.5) | 0.1.5
 
 ### Published: 08/20/2023 17:41:28 by PdfLexer Authors
@@ -77,14 +133,6 @@ PowerShell Module for GitHub.RateLimit
 
 __Downloads__: 614 | __Repository__: https://github.com/MariusStorhaug/GitHub
 
-## [GitHub.Meta](https://www.powershellgallery.com/Packages/GitHub.Meta/0.0.9) | 0.0.9
-
-### Published: 08/19/2023 21:23:55 by Marius Storhaug
-
-PowerShell Module for GitHub.Meta
-
-__Downloads__: 634 | __Repository__: https://github.com/MariusStorhaug/GitHub
-
 ## [GitHub.CodeScanning](https://www.powershellgallery.com/Packages/GitHub.CodeScanning/0.0.10) | 0.0.10
 
 ### Published: 08/19/2023 21:23:55 by Marius Storhaug
@@ -93,6 +141,14 @@ PowerShell Module for GitHub.CodeScanning
 
 __Downloads__: 579 | __Repository__: https://github.com/MariusStorhaug/GitHub
 
+## [GitHub.Meta](https://www.powershellgallery.com/Packages/GitHub.Meta/0.0.9) | 0.0.9
+
+### Published: 08/19/2023 21:23:55 by Marius Storhaug
+
+PowerShell Module for GitHub.Meta
+
+__Downloads__: 634 | __Repository__: https://github.com/MariusStorhaug/GitHub
+
 ## [GitHub.Apps](https://www.powershellgallery.com/Packages/GitHub.Apps/0.0.10) | 0.0.10
 
 ### Published: 08/19/2023 21:23:55 by Marius Storhaug
@@ -100,6 +156,14 @@ __Downloads__: 579 | __Repository__: https://github.com/MariusStorhaug/GitHub
 PowerShell Module for GitHub.Apps
 
 __Downloads__: 578 | __Repository__: https://github.com/MariusStorhaug/GitHub
+
+## [GitHub.Activity](https://www.powershellgallery.com/Packages/GitHub.Activity/0.0.10) | 0.0.10
+
+### Published: 08/19/2023 21:23:53 by Marius Storhaug
+
+PowerShell Module for GitHub.Activity
+
+__Downloads__: 727 | __Repository__: https://github.com/MariusStorhaug/GitHub
 
 ## [GitHub.Checks](https://www.powershellgallery.com/Packages/GitHub.Checks/0.0.10) | 0.0.10
 
@@ -116,14 +180,6 @@ __Downloads__: 564 | __Repository__: https://github.com/MariusStorhaug/GitHub
 PowerShell Module for GitHub.Interactions
 
 __Downloads__: 552 | __Repository__: https://github.com/MariusStorhaug/GitHub
-
-## [GitHub.Activity](https://www.powershellgallery.com/Packages/GitHub.Activity/0.0.10) | 0.0.10
-
-### Published: 08/19/2023 21:23:53 by Marius Storhaug
-
-PowerShell Module for GitHub.Activity
-
-__Downloads__: 727 | __Repository__: https://github.com/MariusStorhaug/GitHub
 
 ## [GitHub.OAuthAuthorizations](https://www.powershellgallery.com/Packages/GitHub.OAuthAuthorizations/0.0.10) | 0.0.10
 
@@ -165,13 +221,13 @@ PowerShell Module for GitHub.Search
 
 __Downloads__: 582 | __Repository__: https://github.com/MariusStorhaug/GitHub
 
-## [GitHub](https://www.powershellgallery.com/Packages/GitHub/0.0.19) | 0.0.19
+## [GitHub.Search](https://www.powershellgallery.com/Packages/GitHub.Search/0.0.11) | 0.0.11
 
 ### Published: 08/19/2023 21:23:46 by Marius Storhaug
 
-PowerShell Module for GitHub
+PowerShell Module for GitHub.GitIgnore
 
-__Downloads__: 1,353 | __Repository__: https://github.com/MariusStorhaug/GitHub
+__Downloads__: 590 | __Repository__: https://github.com/MariusStorhaug/GitHub
 
 ## [GitHub.Projects](https://www.powershellgallery.com/Packages/GitHub.Projects/0.0.10) | 0.0.10
 
@@ -181,13 +237,13 @@ PowerShell Module for GitHub.Projects
 
 __Downloads__: 543 | __Repository__: https://github.com/MariusStorhaug/GitHub
 
-## [GitHub.Search](https://www.powershellgallery.com/Packages/GitHub.Search/0.0.11) | 0.0.11
+## [GitHub](https://www.powershellgallery.com/Packages/GitHub/0.0.19) | 0.0.19
 
 ### Published: 08/19/2023 21:23:46 by Marius Storhaug
 
-PowerShell Module for GitHub.GitIgnore
+PowerShell Module for GitHub
 
-__Downloads__: 590 | __Repository__: https://github.com/MariusStorhaug/GitHub
+__Downloads__: 1,353 | __Repository__: https://github.com/MariusStorhaug/GitHub
 
 ## [GitHub.Issues](https://www.powershellgallery.com/Packages/GitHub.Issues/0.0.10) | 0.0.10
 
@@ -221,14 +277,6 @@ PowerShell Module for GitHub.Commits
 
 __Downloads__: 531 | __Repository__: https://github.com/MariusStorhaug/GitHub
 
-## [GitHub.SecretScanning](https://www.powershellgallery.com/Packages/GitHub.SecretScanning/0.0.10) | 0.0.10
-
-### Published: 08/19/2023 21:23:42 by Marius Storhaug
-
-PowerShell Module for GitHub.SecretScanning
-
-__Downloads__: 541 | __Repository__: https://github.com/MariusStorhaug/GitHub
-
 ## [GitHub.Codespaces](https://www.powershellgallery.com/Packages/GitHub.Codespaces/0.0.10) | 0.0.10
 
 ### Published: 08/19/2023 21:23:42 by Marius Storhaug
@@ -236,6 +284,14 @@ __Downloads__: 541 | __Repository__: https://github.com/MariusStorhaug/GitHub
 PowerShell Module for GitHub.Codespaces
 
 __Downloads__: 575 | __Repository__: https://github.com/MariusStorhaug/GitHub
+
+## [GitHub.SecretScanning](https://www.powershellgallery.com/Packages/GitHub.SecretScanning/0.0.10) | 0.0.10
+
+### Published: 08/19/2023 21:23:42 by Marius Storhaug
+
+PowerShell Module for GitHub.SecretScanning
+
+__Downloads__: 541 | __Repository__: https://github.com/MariusStorhaug/GitHub
 
 ## [GitHub.Gists](https://www.powershellgallery.com/Packages/GitHub.Gists/0.0.10) | 0.0.10
 
@@ -245,14 +301,6 @@ PowerShell Module for GitHub.Gists
 
 __Downloads__: 554 | __Repository__: https://github.com/MariusStorhaug/GitHub
 
-## [GitHub.Reactions](https://www.powershellgallery.com/Packages/GitHub.Reactions/0.0.10) | 0.0.10
-
-### Published: 08/19/2023 21:23:39 by Marius Storhaug
-
-PowerShell Module for GitHub.Reactions
-
-__Downloads__: 566 | __Repository__: https://github.com/MariusStorhaug/GitHub
-
 ## [GitHub.CodesOfConduct](https://www.powershellgallery.com/Packages/GitHub.CodesOfConduct/0.0.10) | 0.0.10
 
 ### Published: 08/19/2023 21:23:39 by Marius Storhaug
@@ -261,13 +309,13 @@ PowerShell Module for GitHub.CodesOfConduct
 
 __Downloads__: 573 | __Repository__: 
 
-## [GitHub.ServerStatistics](https://www.powershellgallery.com/Packages/GitHub.ServerStatistics/0.0.10) | 0.0.10
+## [GitHub.Reactions](https://www.powershellgallery.com/Packages/GitHub.Reactions/0.0.10) | 0.0.10
 
-### Published: 08/19/2023 21:23:38 by Marius Storhaug
+### Published: 08/19/2023 21:23:39 by Marius Storhaug
 
-PowerShell Module for GitHub.ServerStatistics
+PowerShell Module for GitHub.Reactions
 
-__Downloads__: 524 | __Repository__: https://github.com/MariusStorhaug/GitHub
+__Downloads__: 566 | __Repository__: https://github.com/MariusStorhaug/GitHub
 
 ## [GitHub.Billing](https://www.powershellgallery.com/Packages/GitHub.Billing/0.0.10) | 0.0.10
 
@@ -276,6 +324,14 @@ __Downloads__: 524 | __Repository__: https://github.com/MariusStorhaug/GitHub
 PowerShell Module for GitHub.Billing
 
 __Downloads__: 586 | __Repository__: https://github.com/MariusStorhaug/GitHub
+
+## [GitHub.ServerStatistics](https://www.powershellgallery.com/Packages/GitHub.ServerStatistics/0.0.10) | 0.0.10
+
+### Published: 08/19/2023 21:23:38 by Marius Storhaug
+
+PowerShell Module for GitHub.ServerStatistics
+
+__Downloads__: 524 | __Repository__: https://github.com/MariusStorhaug/GitHub
 
 ## [GitHub.SCIM](https://www.powershellgallery.com/Packages/GitHub.SCIM/0.0.10) | 0.0.10
 
@@ -309,14 +365,6 @@ PowerShell Module for GitHub.Emojis
 
 __Downloads__: 564 | __Repository__: https://github.com/MariusStorhaug/GitHub
 
-## [Github.Dependabot](https://www.powershellgallery.com/Packages/Github.Dependabot/0.0.10) | 0.0.10
-
-### Published: 08/19/2023 21:23:34 by Marius Storhaug
-
-PowerShell Module for GitHub.Dependabot
-
-__Downloads__: 623 | __Repository__: https://github.com/MariusStorhaug/GitHub
-
 ## [GitHub.Markdown](https://www.powershellgallery.com/Packages/GitHub.Markdown/0.0.10) | 0.0.10
 
 ### Published: 08/19/2023 21:23:34 by Marius Storhaug
@@ -324,6 +372,14 @@ __Downloads__: 623 | __Repository__: https://github.com/MariusStorhaug/GitHub
 PowerShell Module for GitHub.Markdown
 
 __Downloads__: 578 | __Repository__: https://github.com/MariusStorhaug/GitHub
+
+## [Github.Dependabot](https://www.powershellgallery.com/Packages/Github.Dependabot/0.0.10) | 0.0.10
+
+### Published: 08/19/2023 21:23:34 by Marius Storhaug
+
+PowerShell Module for GitHub.Dependabot
+
+__Downloads__: 623 | __Repository__: https://github.com/MariusStorhaug/GitHub
 
 ## [GitHub.Packages](https://www.powershellgallery.com/Packages/GitHub.Packages/0.0.10) | 0.0.10
 
@@ -349,14 +405,6 @@ PowerShell Module of Utilities
 
 __Downloads__: 381 | __Repository__: https://github.com/MariusStorhaug/Utilities
 
-## [GitHub.Deployments](https://www.powershellgallery.com/Packages/GitHub.Deployments/0.0.7) | 0.0.7
-
-### Published: 08/19/2023 21:23:28 by Marius Storhaug
-
-PowerShell Module for GitHub.Deployments
-
-__Downloads__: 543 | __Repository__: https://github.com/MariusStorhaug/GitHub
-
 ## [GitHub.EnterpriseAdmin](https://www.powershellgallery.com/Packages/GitHub.EnterpriseAdmin/0.0.10) | 0.0.10
 
 ### Published: 08/19/2023 21:23:28 by Marius Storhaug
@@ -364,6 +412,14 @@ __Downloads__: 543 | __Repository__: https://github.com/MariusStorhaug/GitHub
 PowerShell Module for GitHub.EnterpriseAdmin
 
 __Downloads__: 561 | __Repository__: https://github.com/MariusStorhaug/GitHub
+
+## [GitHub.Deployments](https://www.powershellgallery.com/Packages/GitHub.Deployments/0.0.7) | 0.0.7
+
+### Published: 08/19/2023 21:23:28 by Marius Storhaug
+
+PowerShell Module for GitHub.Deployments
+
+__Downloads__: 543 | __Repository__: https://github.com/MariusStorhaug/GitHub
 
 ## [GitHub.Actions](https://www.powershellgallery.com/Packages/GitHub.Actions/0.0.11) | 0.0.11
 
@@ -403,7 +459,7 @@ __Downloads__: 1 | __Repository__: https://github.com/MariusStorhaug/NerdFonts
 
 Interact with the Atlassian Cloud APIs using PowerShell
 
-__Downloads__: 413 | __Repository__: https://github.com/andylyonette/AtlassianCloudPS
+__Downloads__: 414 | __Repository__: https://github.com/andylyonette/AtlassianCloudPS
 
 ## [PdqStuff](https://www.powershellgallery.com/Packages/PdqStuff/6.2.0) | 6.2.0
 
@@ -808,7 +864,7 @@ The SimpleSystemsManagement module of AWS Tools for PowerShell lets developers a
 The module AWS.Tools.Installer (https://www.powershellgallery.com/packages/AWS.Tools.Installer/) makes it easier to install, update and uninstall the AWS.Tools modules.
 This version of AWS Tools for PowerShell is compatible with Windows PowerShell 5.1+ and PowerShell Core 6+ on Windows, Linux and macOS. When running on Windows PowerShell, .NET Framework 4.7.2 or newer is required. Alternative modules AWSPowerShell.NetCore and AWSPowerShell, provide support for all AWS services from a single module and also support older versions of Windows PowerShell and .NET Framework.
 
-__Downloads__: 1,564,000 | __Repository__: https://github.com/aws/aws-tools-for-powershell
+__Downloads__: 1,563,860 | __Repository__: https://github.com/aws/aws-tools-for-powershell
 
 ## [AWS.Tools.SimpleEmailV2](https://www.powershellgallery.com/Packages/AWS.Tools.SimpleEmailV2/4.1.397) | 4.1.397
 
@@ -918,7 +974,7 @@ The SecretsManager module of AWS Tools for PowerShell lets developers and admini
 The module AWS.Tools.Installer (https://www.powershellgallery.com/packages/AWS.Tools.Installer/) makes it easier to install, update and uninstall the AWS.Tools modules.
 This version of AWS Tools for PowerShell is compatible with Windows PowerShell 5.1+ and PowerShell Core 6+ on Windows, Linux and macOS. When running on Windows PowerShell, .NET Framework 4.7.2 or newer is required. Alternative modules AWSPowerShell.NetCore and AWSPowerShell, provide support for all AWS services from a single module and also support older versions of Windows PowerShell and .NET Framework.
 
-__Downloads__: 1,252,836 | __Repository__: https://github.com/aws/aws-tools-for-powershell
+__Downloads__: 1,252,834 | __Repository__: https://github.com/aws/aws-tools-for-powershell
 
 ## [AWS.Tools.Schemas](https://www.powershellgallery.com/Packages/AWS.Tools.Schemas/4.1.397) | 4.1.397
 
@@ -1038,7 +1094,7 @@ The S3 module of AWS Tools for PowerShell lets developers and administrators man
 The module AWS.Tools.Installer (https://www.powershellgallery.com/packages/AWS.Tools.Installer/) makes it easier to install, update and uninstall the AWS.Tools modules.
 This version of AWS Tools for PowerShell is compatible with Windows PowerShell 5.1+ and PowerShell Core 6+ on Windows, Linux and macOS. When running on Windows PowerShell, .NET Framework 4.7.2 or newer is required. Alternative modules AWSPowerShell.NetCore and AWSPowerShell, provide support for all AWS services from a single module and also support older versions of Windows PowerShell and .NET Framework.
 
-__Downloads__: 3,057,686 | __Repository__: https://github.com/aws/aws-tools-for-powershell
+__Downloads__: 3,058,117 | __Repository__: https://github.com/aws/aws-tools-for-powershell
 
 ## [AWS.Tools.Route53Resolver](https://www.powershellgallery.com/Packages/AWS.Tools.Route53Resolver/4.1.397) | 4.1.397
 
@@ -1098,7 +1154,7 @@ The Route53 module of AWS Tools for PowerShell lets developers and administrator
 The module AWS.Tools.Installer (https://www.powershellgallery.com/packages/AWS.Tools.Installer/) makes it easier to install, update and uninstall the AWS.Tools modules.
 This version of AWS Tools for PowerShell is compatible with Windows PowerShell 5.1+ and PowerShell Core 6+ on Windows, Linux and macOS. When running on Windows PowerShell, .NET Framework 4.7.2 or newer is required. Alternative modules AWSPowerShell.NetCore and AWSPowerShell, provide support for all AWS services from a single module and also support older versions of Windows PowerShell and .NET Framework.
 
-__Downloads__: 249,886 | __Repository__: https://github.com/aws/aws-tools-for-powershell
+__Downloads__: 249,884 | __Repository__: https://github.com/aws/aws-tools-for-powershell
 
 ## [AWS.Tools.RoboMaker](https://www.powershellgallery.com/Packages/AWS.Tools.RoboMaker/4.1.397) | 4.1.397
 
@@ -1128,7 +1184,7 @@ The ResourceGroups module of AWS Tools for PowerShell lets developers and admini
 The module AWS.Tools.Installer (https://www.powershellgallery.com/packages/AWS.Tools.Installer/) makes it easier to install, update and uninstall the AWS.Tools modules.
 This version of AWS Tools for PowerShell is compatible with Windows PowerShell 5.1+ and PowerShell Core 6+ on Windows, Linux and macOS. When running on Windows PowerShell, .NET Framework 4.7.2 or newer is required. Alternative modules AWSPowerShell.NetCore and AWSPowerShell, provide support for all AWS services from a single module and also support older versions of Windows PowerShell and .NET Framework.
 
-__Downloads__: 376,551 | __Repository__: https://github.com/aws/aws-tools-for-powershell
+__Downloads__: 376,503 | __Repository__: https://github.com/aws/aws-tools-for-powershell
 
 ## [AWS.Tools.ResourceExplorer2](https://www.powershellgallery.com/Packages/AWS.Tools.ResourceExplorer2/4.1.397) | 4.1.397
 
@@ -1218,7 +1274,7 @@ The RDS module of AWS Tools for PowerShell lets developers and administrators ma
 The module AWS.Tools.Installer (https://www.powershellgallery.com/packages/AWS.Tools.Installer/) makes it easier to install, update and uninstall the AWS.Tools modules.
 This version of AWS Tools for PowerShell is compatible with Windows PowerShell 5.1+ and PowerShell Core 6+ on Windows, Linux and macOS. When running on Windows PowerShell, .NET Framework 4.7.2 or newer is required. Alternative modules AWSPowerShell.NetCore and AWSPowerShell, provide support for all AWS services from a single module and also support older versions of Windows PowerShell and .NET Framework.
 
-__Downloads__: 217,349 | __Repository__: https://github.com/aws/aws-tools-for-powershell
+__Downloads__: 217,364 | __Repository__: https://github.com/aws/aws-tools-for-powershell
 
 ## [AWS.Tools.RAM](https://www.powershellgallery.com/Packages/AWS.Tools.RAM/4.1.397) | 4.1.397
 
@@ -1448,7 +1504,7 @@ The Organizations module of AWS Tools for PowerShell lets developers and adminis
 The module AWS.Tools.Installer (https://www.powershellgallery.com/packages/AWS.Tools.Installer/) makes it easier to install, update and uninstall the AWS.Tools modules.
 This version of AWS Tools for PowerShell is compatible with Windows PowerShell 5.1+ and PowerShell Core 6+ on Windows, Linux and macOS. When running on Windows PowerShell, .NET Framework 4.7.2 or newer is required. Alternative modules AWSPowerShell.NetCore and AWSPowerShell, provide support for all AWS services from a single module and also support older versions of Windows PowerShell and .NET Framework.
 
-__Downloads__: 764,295 | __Repository__: https://github.com/aws/aws-tools-for-powershell
+__Downloads__: 764,274 | __Repository__: https://github.com/aws/aws-tools-for-powershell
 
 ## [AWS.Tools.OpsWorksCM](https://www.powershellgallery.com/Packages/AWS.Tools.OpsWorksCM/4.1.397) | 4.1.397
 
@@ -1978,7 +2034,7 @@ The Lambda module of AWS Tools for PowerShell lets developers and administrators
 The module AWS.Tools.Installer (https://www.powershellgallery.com/packages/AWS.Tools.Installer/) makes it easier to install, update and uninstall the AWS.Tools modules.
 This version of AWS Tools for PowerShell is compatible with Windows PowerShell 5.1+ and PowerShell Core 6+ on Windows, Linux and macOS. When running on Windows PowerShell, .NET Framework 4.7.2 or newer is required. Alternative modules AWSPowerShell.NetCore and AWSPowerShell, provide support for all AWS services from a single module and also support older versions of Windows PowerShell and .NET Framework.
 
-__Downloads__: 148,176 | __Repository__: https://github.com/aws/aws-tools-for-powershell
+__Downloads__: 148,175 | __Repository__: https://github.com/aws/aws-tools-for-powershell
 
 ## [AWS.Tools.LakeFormation](https://www.powershellgallery.com/Packages/AWS.Tools.LakeFormation/4.1.397) | 4.1.397
 
@@ -2340,72 +2396,4 @@ This version of AWS Tools for PowerShell is compatible with Windows PowerShell 5
 
 __Downloads__: 116,603 | __Repository__: https://github.com/aws/aws-tools-for-powershell
 
-## [EntraExporter](https://www.powershellgallery.com/Packages/EntraExporter/2.0.3) | 2.0.3
-
-### Published: 08/18/2023 23:25:33 by Microsoft Identity
-
-This module exports an Entra tenant's identity related configuration settings and objects and writes them to json files.
-
-__Downloads__: 30 | __Repository__: https://github.com/microsoft/entraexporter
-
-## [AWS.Tools.IdentityManagement](https://www.powershellgallery.com/Packages/AWS.Tools.IdentityManagement/4.1.397) | 4.1.397
-
-### Published: 08/18/2023 23:25:31 by Amazon.com Inc
-
-The IdentityManagement module of AWS Tools for PowerShell lets developers and administrators manage AWS Identity and Access Management from the PowerShell scripting environment. In order to manage each AWS service, install the corresponding module (e.g. AWS.Tools.EC2, AWS.Tools.S3...).
-The module AWS.Tools.Installer (https://www.powershellgallery.com/packages/AWS.Tools.Installer/) makes it easier to install, update and uninstall the AWS.Tools modules.
-This version of AWS Tools for PowerShell is compatible with Windows PowerShell 5.1+ and PowerShell Core 6+ on Windows, Linux and macOS. When running on Windows PowerShell, .NET Framework 4.7.2 or newer is required. Alternative modules AWSPowerShell.NetCore and AWSPowerShell, provide support for all AWS services from a single module and also support older versions of Windows PowerShell and .NET Framework.
-
-__Downloads__: 1,738,621 | __Repository__: https://github.com/aws/aws-tools-for-powershell
-
-## [AWS.Tools.IAMRolesAnywhere](https://www.powershellgallery.com/Packages/AWS.Tools.IAMRolesAnywhere/4.1.397) | 4.1.397
-
-### Published: 08/18/2023 23:25:24 by Amazon.com Inc
-
-The IAMRolesAnywhere module of AWS Tools for PowerShell lets developers and administrators manage IAM Roles Anywhere from the PowerShell scripting environment. In order to manage each AWS service, install the corresponding module (e.g. AWS.Tools.EC2, AWS.Tools.S3...).
-The module AWS.Tools.Installer (https://www.powershellgallery.com/packages/AWS.Tools.Installer/) makes it easier to install, update and uninstall the AWS.Tools modules.
-This version of AWS Tools for PowerShell is compatible with Windows PowerShell 5.1+ and PowerShell Core 6+ on Windows, Linux and macOS. When running on Windows PowerShell, .NET Framework 4.7.2 or newer is required. Alternative modules AWSPowerShell.NetCore and AWSPowerShell, provide support for all AWS services from a single module and also support older versions of Windows PowerShell and .NET Framework.
-
-__Downloads__: 4,489 | __Repository__: https://github.com/aws/aws-tools-for-powershell
-
-## [AWS.Tools.Honeycode](https://www.powershellgallery.com/Packages/AWS.Tools.Honeycode/4.1.397) | 4.1.397
-
-### Published: 08/18/2023 23:25:18 by Amazon.com Inc
-
-The Honeycode module of AWS Tools for PowerShell lets developers and administrators manage Amazon Honeycode from the PowerShell scripting environment. In order to manage each AWS service, install the corresponding module (e.g. AWS.Tools.EC2, AWS.Tools.S3...).
-The module AWS.Tools.Installer (https://www.powershellgallery.com/packages/AWS.Tools.Installer/) makes it easier to install, update and uninstall the AWS.Tools modules.
-This version of AWS Tools for PowerShell is compatible with Windows PowerShell 5.1+ and PowerShell Core 6+ on Windows, Linux and macOS. When running on Windows PowerShell, .NET Framework 4.7.2 or newer is required. Alternative modules AWSPowerShell.NetCore and AWSPowerShell, provide support for all AWS services from a single module and also support older versions of Windows PowerShell and .NET Framework.
-
-__Downloads__: 6,026 | __Repository__: https://github.com/aws/aws-tools-for-powershell
-
-## [AWS.Tools.HealthLake](https://www.powershellgallery.com/Packages/AWS.Tools.HealthLake/4.1.397) | 4.1.397
-
-### Published: 08/18/2023 23:25:12 by Amazon.com Inc
-
-The HealthLake module of AWS Tools for PowerShell lets developers and administrators manage Amazon HealthLake from the PowerShell scripting environment. In order to manage each AWS service, install the corresponding module (e.g. AWS.Tools.EC2, AWS.Tools.S3...).
-The module AWS.Tools.Installer (https://www.powershellgallery.com/packages/AWS.Tools.Installer/) makes it easier to install, update and uninstall the AWS.Tools modules.
-This version of AWS Tools for PowerShell is compatible with Windows PowerShell 5.1+ and PowerShell Core 6+ on Windows, Linux and macOS. When running on Windows PowerShell, .NET Framework 4.7.2 or newer is required. Alternative modules AWSPowerShell.NetCore and AWSPowerShell, provide support for all AWS services from a single module and also support older versions of Windows PowerShell and .NET Framework.
-
-__Downloads__: 6,299 | __Repository__: https://github.com/aws/aws-tools-for-powershell
-
-## [AWS.Tools.GuardDuty](https://www.powershellgallery.com/Packages/AWS.Tools.GuardDuty/4.1.397) | 4.1.397
-
-### Published: 08/18/2023 23:25:06 by Amazon.com Inc
-
-The GuardDuty module of AWS Tools for PowerShell lets developers and administrators manage Amazon GuardDuty from the PowerShell scripting environment. In order to manage each AWS service, install the corresponding module (e.g. AWS.Tools.EC2, AWS.Tools.S3...).
-The module AWS.Tools.Installer (https://www.powershellgallery.com/packages/AWS.Tools.Installer/) makes it easier to install, update and uninstall the AWS.Tools modules.
-This version of AWS Tools for PowerShell is compatible with Windows PowerShell 5.1+ and PowerShell Core 6+ on Windows, Linux and macOS. When running on Windows PowerShell, .NET Framework 4.7.2 or newer is required. Alternative modules AWSPowerShell.NetCore and AWSPowerShell, provide support for all AWS services from a single module and also support older versions of Windows PowerShell and .NET Framework.
-
-__Downloads__: 16,467 | __Repository__: https://github.com/aws/aws-tools-for-powershell
-
-## [AWS.Tools.GroundStation](https://www.powershellgallery.com/Packages/AWS.Tools.GroundStation/4.1.397) | 4.1.397
-
-### Published: 08/18/2023 23:24:59 by Amazon.com Inc
-
-The GroundStation module of AWS Tools for PowerShell lets developers and administrators manage AWS Ground Station from the PowerShell scripting environment. In order to manage each AWS service, install the corresponding module (e.g. AWS.Tools.EC2, AWS.Tools.S3...).
-The module AWS.Tools.Installer (https://www.powershellgallery.com/packages/AWS.Tools.Installer/) makes it easier to install, update and uninstall the AWS.Tools modules.
-This version of AWS Tools for PowerShell is compatible with Windows PowerShell 5.1+ and PowerShell Core 6+ on Windows, Linux and macOS. When running on Windows PowerShell, .NET Framework 4.7.2 or newer is required. Alternative modules AWSPowerShell.NetCore and AWSPowerShell, provide support for all AWS services from a single module and also support older versions of Windows PowerShell and .NET Framework.
-
-__Downloads__: 8,634 | __Repository__: https://github.com/aws/aws-tools-for-powershell
-
-*Updated: Sunday, 20 August 2023 17:52:26 UTC*
+*Updated: Monday, 21 August 2023 02:00:56 UTC*

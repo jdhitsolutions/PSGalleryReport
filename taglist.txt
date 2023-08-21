@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Sunday, 20 August 2023 17:52:40 UTC
+Updated: Monday, 21 August 2023 02:01:11 UTC
 
 .bat
 .env
@@ -33,7 +33,6 @@ Updated: Sunday, 20 August 2023 17:52:40 UTC
 2016
 2018
 2019
-21vianet
 24-bit
 2fa
 300
@@ -250,6 +249,7 @@ al
 alac
 alarm
 alb
+albums
 alc
 alero
 alert
@@ -291,7 +291,6 @@ amazonmgn
 amazonwebservices
 amend
 ami
-amiga
 amp
 amqp
 amsi
@@ -419,6 +418,7 @@ archivematica
 archivial
 archivial-backup
 archivial-cloud-backup
+archlinux
 arcresourcebridge
 arcus
 area
@@ -933,6 +933,8 @@ capslock
 captcha
 capture
 carbon
+carbonawarecomputing
+carbonintensity
 card
 cardwirth
 cargo
@@ -954,7 +956,6 @@ cavium
 cb
 cblueshell
 cbr
-cbz
 cchoco
 cchocoex
 ccm
@@ -964,7 +965,6 @@ cd-
 cd+
 cdable_vars
 cdata
-cdb
 cdi
 cdm
 cdn
@@ -1082,6 +1082,7 @@ ciscoucsdsc
 citation
 cite
 citrix
+citrixoptimizer
 civo
 cix
 class
@@ -1545,6 +1546,8 @@ cvss
 cwi
 cx
 cyberark
+cyberark-api
+cyberark-identity
 cyberdrain
 cybereason
 cybersecurity
@@ -1842,7 +1845,6 @@ distrubtionpoint
 dividends
 diving
 division
-divoom
 dkim
 dkschrutebeets
 dl
@@ -2178,6 +2180,7 @@ espressif
 esri
 essbase
 estimate
+estimation
 esx
 esxi
 eternalblue
@@ -2218,7 +2221,6 @@ eventsubscription
 eventviewer
 eventwatch
 evergreen
-evernote
 everydaypowershell
 everydayrewards
 everything
@@ -2240,7 +2242,6 @@ exchange2010
 exchange2013
 exchange2016
 exchangecluster
-exchangehybrid
 exchangemigration
 exchangeon-premise
 exchangeon-premises
@@ -2318,7 +2319,6 @@ factoryorchestratorclient
 facts
 faf
 failedlogin
-failure
 falcon
 fallbackstatuspoint
 fanarttv
@@ -2507,6 +2507,7 @@ fortinet
 fortinetmanager
 fortios
 fortune
+forum
 forwardcompatibility
 forwardedevents
 foudil
@@ -2787,6 +2788,7 @@ haarlemsdagblad
 hack
 hacking
 hacktoberfest
+hadoop
 hafr
 hailstone
 haipa
@@ -3123,7 +3125,6 @@ inheritance
 ini
 inifile
 initialization
-initials-avatar
 initiator
 inline-progress
 inlineprogress
@@ -3199,7 +3200,6 @@ invitation
 invocation
 invoice
 invoke
-invoke-asadmin
 invoke-asadministrator
 invoke-ascurrentuser
 invoke-automation
@@ -3259,8 +3259,8 @@ iso
 iso-3166-1
 iso-8601
 ispac
-isprime
 ispss
+issues
 isvalidemail
 isvalidip
 it
@@ -3443,7 +3443,6 @@ labworker
 lake
 lambda
 lame
-lametrictime
 lamp
 lan
 landingzones
@@ -3716,7 +3715,6 @@ manageability
 managed-identity
 manageddisks
 managedidentities
-managedserviceidenity
 managedserviceidentity
 managedserviceprovider
 managedserviceproviders
@@ -3807,7 +3805,6 @@ mediant
 mediaplayer
 mediaservices
 mediawiki
-meditation
 meeting
 meetup
 meetup.com
@@ -3839,7 +3836,6 @@ messaging
 messenger
 met
 metadata
-metadataservice
 metaprogramming
 method
 methodinfo
@@ -3933,7 +3929,6 @@ mobilenetwork
 mobilitycontroller
 mock
 mocking
-model
 modifiable-completion
 modify
 module
@@ -4093,7 +4088,6 @@ namespace
 naming
 nana
 nano
-nanoleaf
 nartac
 nasdaq
 native
@@ -4666,7 +4660,6 @@ piraeus
 pivot
 pivotal
 pivottable
-pixoo
 pki
 pki psmodule
 pks
@@ -4683,6 +4676,7 @@ play
 playback
 playbook
 player
+playlists
 pleasant
 pleasantpasswordserver
 plex
@@ -4801,7 +4795,6 @@ powershell-dsc
 powershell-examples
 powershell-gallery
 powershell-github-repo
-powershell-isprime
 powershell-lightning
 powershell-module
 powershell-modules
@@ -4842,6 +4835,7 @@ powertab
 powertoolcmdlets
 powertooldsc
 ppdm
+ppk
 pposh
 pps
 ppt
@@ -4873,7 +4867,6 @@ preview
 previousversions
 price
 pricelist
-primenumber
 primera
 principal
 principle
@@ -5082,6 +5075,7 @@ psprovider
 psprtg
 pspublicapi
 psql
+psraw
 psreadexif
 psreadline
 psremoting
@@ -5453,7 +5447,6 @@ resume
 retention
 retry
 returnuserprofile
-retype
 reuse
 reverse-engineer
 reverse-string
@@ -5714,7 +5707,6 @@ secret
 secretmanagement
 secretmanagementextension
 secrets
-secretsanta
 secretscanner
 secretserver
 secretsmanager
@@ -5879,7 +5871,6 @@ shadowcopy
 shadowcopybackups
 shadowgroups
 shanghaitech
-shard
 share
 share-permission
 share-stat
@@ -5933,6 +5924,7 @@ signed
 signing
 signtool
 silk
+sim
 simple
 simplecontainers
 simplepassword
@@ -6034,6 +6026,7 @@ soc
 soccer
 social
 social-media
+socialmedia
 socketlabs
 sockets
 sodium
@@ -6138,6 +6131,7 @@ sqlbrowser
 sqlchangeautomation
 sqlclient
 sqlcmd
+sqlcodeguard
 sqldatabase
 sqldb
 sqldbatools
@@ -6338,6 +6332,7 @@ svt
 swagger
 swamid
 swarm
+swedish
 swimlane
 swis
 switch
@@ -6686,6 +6681,7 @@ ts
 tsa
 tsd
 tsheets
+tsqlbestpractice
 tst
 tst1
 tst3
@@ -6701,7 +6697,6 @@ tweet
 twig
 twilio
 twincat
-twinkly
 twitch
 twitter
 twitter-api
@@ -6762,6 +6757,7 @@ ud-piechart3d
 ud-pivottable
 ud-progressstepbar
 ud-rangeslider
+ud-readingbar
 ud-scrollspy
 ud-selectdatetime
 ud-selector
@@ -6775,7 +6771,6 @@ ud-stepbar
 ud-stickynavbar
 ud-tagcloud
 ud-timeline
-ud-timeout
 ud-tool
 ud-toploader
 ud-trendline
@@ -7165,6 +7160,7 @@ webcmdlets
 webdav
 webdeploy
 webfrequest
+webhdfs
 webhelpdesk
 webhistory
 webhook
@@ -7211,7 +7207,6 @@ whiteboard
 whitespace
 whoami
 whois
-whormi
 wi-fi
 wia
 wia.imagefile
@@ -7343,6 +7338,7 @@ word-wrap
 wordcloud
 wordlist
 wordpress
+wordwrap
 workbook
 workday
 worker
@@ -7370,6 +7366,7 @@ wow
 wpad
 wpf
 wql
+wrap
 wrap-text
 wrapper
 wrapperfunctions
@@ -7400,7 +7397,6 @@ wsl
 wsl2
 wsman
 wsmanlistener
-wso2
 wsus
 wt
 wtsapi32
@@ -7471,7 +7467,6 @@ yahw
 yamaha
 yaml
 yandex
-yapg
 yarn
 yetanotherhelloworld
 yml
