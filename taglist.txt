@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Tuesday, 22 August 2023 02:01:37 UTC
+Updated: Tuesday, 22 August 2023 09:53:46 UTC
 
 .bat
 .env
@@ -31,8 +31,8 @@ Updated: Tuesday, 22 August 2023 02:01:37 UTC
 2010
 2013
 2016
+2018
 2019
-21vianet
 24-bit
 2fa
 300
@@ -70,7 +70,6 @@ abe
 about
 abr
 abstractsyntaxtree
-abuse
 abuseipdb
 acas
 accelerator
@@ -268,7 +267,6 @@ aliases
 aliens
 all
 alletra
-alloydb
 alm
 almrangers
 alpha
@@ -927,7 +925,6 @@ cancel
 cancellation
 canonical
 cantara
-capability
 capacity
 capgemini
 capslock
@@ -1257,6 +1254,7 @@ commence
 comment
 comments
 commerce
+commfort
 commit
 common
 common-data-service
@@ -1333,7 +1331,6 @@ connectedmachine
 connectednetwork
 connectexchange
 connection
-connectionmonitor
 connections
 connectionsmanager
 connectionstring
@@ -1393,7 +1390,6 @@ converttohtml
 converttomarkdown
 converttomd
 cookie
-coolq
 cooltag1
 cooltag2
 coordinates
@@ -1433,12 +1429,8 @@ covid-19
 cpm
 cppm
 cpu
-cpuid
-cpuid-information
-cq
 cqd
 cqdpowershell
-cqhttp
 crack psmodule
 crash
 crayon
@@ -1676,7 +1668,6 @@ debugger
 debugging
 decimal
 decimalip
-decimalzero
 declarative
 decline
 decode
@@ -1687,7 +1678,6 @@ decrypt
 decryption
 dedicatedhsm
 deduplication
-deep
 deep-security
 deep-security-manager
 deepl
@@ -1695,7 +1685,6 @@ deepvisibility
 def
 default
 defaultparameter
-defaultroutes
 defaults
 defence
 defender
@@ -1877,7 +1866,6 @@ dnsclient
 dnsdumpster
 dnsentry
 dnsimple
-dnslookup
 dnsmadeeasy
 dnsoverhttps
 dnsrecord
@@ -2037,7 +2025,6 @@ dynamicsnav
 dynamodb
 dynatrace
 dynatraceobservability
-dz
 e-mail
 e1
 easy
@@ -2065,7 +2052,6 @@ editorservices
 edr
 education
 educational
-effectiveroutes
 efi
 eigencontroles
 einstein
@@ -2187,7 +2173,6 @@ espressif
 esri
 essbase
 estimate
-estimation
 esx
 esxi
 eternalblue
@@ -2220,7 +2205,6 @@ eventlogchannel
 eventlogchannels
 eventlogmanifest
 eventlogs
-eventmonitor
 eventmonitoring
 eventprocessor
 events
@@ -2239,7 +2223,6 @@ evtx
 ews
 exact
 example
-examples
 excel
 exception
 exceptionless
@@ -2250,7 +2233,6 @@ exchange2010
 exchange2013
 exchange2016
 exchangecluster
-exchangehybrid
 exchangemigration
 exchangeon-premise
 exchangeon-premises
@@ -2367,6 +2349,7 @@ fiddler
 fido
 fido2
 fieldglass
+fifa
 figlet
 file
 file-association
@@ -2486,6 +2469,7 @@ folders
 font
 fonts
 foo
+football
 for
 force
 forcedelete
@@ -2614,8 +2598,6 @@ genericartifactscontent
 genetic-algorithm
 genxdev
 geo
-geocache
-geocaching
 geoencode
 geoencoding
 geolocation
@@ -2764,14 +2746,12 @@ greynoise
 grid
 gridfs
 grok
-groundspeak
 group
 group-membership
 group-policy
 groupmembership
 grouppolicy
 groups
-grouvee
 grr
 gsuite
 gtx1080ti
@@ -2800,7 +2780,6 @@ hack
 hacking
 hacktoberfest
 hadoop
-hafr
 hailstone
 haipa
 halo
@@ -2836,8 +2815,6 @@ hashset
 hashtable
 hasicorp
 haskell
-haste
-hastebin
 haveibeenpwned
 hba
 hbase
@@ -2895,7 +2872,6 @@ hierarchialdistributionlist
 hierarchical
 hierarchy
 high-availability
-highlight
 highlighting
 highrise
 hipaa
@@ -2999,8 +2975,6 @@ hyperv
 hypervisor
 hypervplugins
 hypothesis
-hysolate
-hysolatemangementconsole
 i-doit
 i2c
 ia
@@ -3192,7 +3166,6 @@ interface
 interlogix
 internet
 internet-explorer
-internetconnection
 internetexplorer
 intersight
 intersightcmdlets
@@ -3367,8 +3340,6 @@ k8s
 k8sshell
 kafka
 kaminario
-karabiner
-karabiner-elements
 karma
 kaseya
 kaseyavsa
@@ -3391,14 +3362,11 @@ key
 key-vault
 key2wocas
 keybase
-keybinding
 keyboard
 keyboardstartkey
 keycipher
 keylight
 keymanagement
-keymap
-keymapping
 keypair
 keysms
 keyvault
@@ -3490,16 +3458,11 @@ lccn
 lcm
 lcminternals
 ldap
-leafs
 league
 lean
 learn
-learn-powershell
-learn-powershell-series
 learning
-learning-powershell
 learningpowershell
-learnpowershell
 lease
 leetabit
 leftjoin
@@ -3557,7 +3520,6 @@ lint
 linting
 linux
 linux-command
-linuxssh
 liquid
 liquit
 liquit.com
@@ -3873,6 +3835,7 @@ microservices
 microsoft
 microsoft_365
 microsoft_azure
+microsoft_endpoint_manager
 microsoft_online
 microsoft_teams
 microsoft-graph
@@ -4338,7 +4301,6 @@ officedev
 officegraph
 officemessageencryption
 officertool
-offline
 offlinewimservicing
 ofx
 ogg
@@ -4357,7 +4319,6 @@ omnistack
 oms
 omsagent
 on
-on-demand
 on-premise
 onboard
 onboardadministrator
@@ -4586,7 +4547,6 @@ passwordstate
 passwordtool
 passwordvault
 passwordwolf
-paste
 patch
 patches
 patching
@@ -4811,10 +4771,8 @@ powershell-class
 powershell-cmdlets
 powershell-core
 powershell-core-releases-api
-powershell-course
 powershell-credentials
 powershell-dsc
-powershell-examples
 powershell-gallery
 powershell-github-repo
 powershell-isprime
@@ -4826,7 +4784,6 @@ powershell-remoting
 powershell-script
 powershell-terminal
 powershell-terminal-copilot
-powershell-training
 powershell.module.invokewinget
 powershell.one
 powershell.persistentpathstack
@@ -4835,8 +4792,6 @@ powershellai
 powershellazuresql
 powershellconferenceeurope
 powershellcore
-powershellcourse
-powershellexamples
 powershellfar
 powershellgallery
 powershellget
@@ -4848,7 +4803,6 @@ powershellmoduleupdate
 powershellpr0mpt
 powershellscript
 powershelltemplate
-powershelltraining
 powershelltypeaccelerators
 powershelluniversal
 powershellv5
@@ -5032,7 +4986,6 @@ psdesiredstateconfiguration
 psdevops
 psdocs
 psdocs-documents
-psdocsgenerator
 psdrawio
 psdrive
 psdrives
@@ -5229,7 +5182,6 @@ qlogicfcpowerkit
 qlogicfcprovider
 qna
 qol
-qq
 qr
 qrcode
 qrcodes
@@ -5526,7 +5478,6 @@ rightjoin
 rights
 rightsizing
 rightsmanagement
-ripe
 risk
 riskiq
 riskpro
@@ -5603,6 +5554,7 @@ runspaces
 runtimedefinedparameter
 runtimedefinedparameterdictionary
 runway
+russia
 rust
 rust-lang
 ryanairps
@@ -5847,7 +5799,6 @@ server
 servercertificatevalidationcallback
 serverless
 servermanagement
-servers
 service
 service-bus
 service-messages
@@ -6076,6 +6027,7 @@ snssqlitepsmodule
 sntp
 soap
 soc
+soccer
 social
 social-media
 socialmedia
@@ -6220,8 +6172,6 @@ ssdt
 sse
 ssh
 ssh-keygen
-sshmanagement
-sshservers
 ssis
 ssl
 sslcert
@@ -6544,7 +6494,6 @@ terrafun
 tesla
 test
 test-dscconfiguration
-test-internetconnection
 test-modulepath
 test-osplatform
 test-psremoting
@@ -6618,8 +6567,6 @@ time
 timeout
 timer
 timeseriesinsights
-timesheet
-timesheets
 timespan
 timezone
 tinkerpop
@@ -6679,7 +6626,6 @@ trafficmanager
 trafficmarking
 train
 training
-training-course
 tram
 transact
 transaction
@@ -6797,6 +6743,7 @@ ud-field
 ud-flexytable
 ud-funnel
 ud-hero
+ud-illustration
 ud-input
 ud-licensed
 ud-loadingoverlay
@@ -7052,7 +6999,6 @@ virtualenvironment
 virtualenvwrapper
 virtualization
 virtualmachine
-virtualmachinemonitor
 virtualmachines
 virtualmachne
 virtualnetwork
@@ -7414,6 +7360,7 @@ workspaceone
 workspaces
 workstation
 world
+worldcup
 worryfreebusinesssecurity
 wow
 wpad
@@ -7489,6 +7436,7 @@ xendesktop
 xero
 xevents
 xh
+xi
 xiaomi
 xkcd
 xliff
@@ -7511,8 +7459,8 @@ xpt
 xrm
 xsa
 xtremio
+xtrude
 xunit
-xwiki
 xwindowsupdate
 yahoo
 yahw
