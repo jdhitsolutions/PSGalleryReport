@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Tuesday, 22 August 2023 09:53:46 UTC
+Updated: Tuesday, 22 August 2023 17:52:58 UTC
 
 .bat
 .env
@@ -33,6 +33,7 @@ Updated: Tuesday, 22 August 2023 09:53:46 UTC
 2016
 2018
 2019
+21vianet
 24-bit
 2fa
 300
@@ -70,6 +71,7 @@ abe
 about
 abr
 abstractsyntaxtree
+abuse
 abuseipdb
 acas
 accelerator
@@ -267,6 +269,7 @@ aliases
 aliens
 all
 alletra
+alloydb
 alm
 almrangers
 alpha
@@ -474,7 +477,6 @@ assets
 assistance
 association
 ast
-astronomy
 asv
 asymmetric
 async
@@ -840,7 +842,6 @@ brave
 brawlapi
 brawlstars
 brazencloud
-bre
 breach
 break
 breakpoint
@@ -893,7 +894,6 @@ businesscentral
 businessdays
 businesshours
 businessobjects
-businessrulesengine
 businesstime
 bxor
 bydesign
@@ -1166,7 +1166,6 @@ cloudservice
 clueser
 cluster
 clusterminimumvalues
-clusterplugins
 cmaccounts
 cmake
 cmakepresets.json
@@ -1331,6 +1330,7 @@ connectedmachine
 connectednetwork
 connectexchange
 connection
+connectionmonitor
 connections
 connectionsmanager
 connectionstring
@@ -1390,6 +1390,7 @@ converttohtml
 converttomarkdown
 converttomd
 cookie
+coolq
 cooltag1
 cooltag2
 coordinates
@@ -1429,8 +1430,12 @@ covid-19
 cpm
 cppm
 cpu
+cpuid
+cpuid-information
+cq
 cqd
 cqdpowershell
+cqhttp
 crack psmodule
 crash
 crayon
@@ -1668,6 +1673,7 @@ debugger
 debugging
 decimal
 decimalip
+decimalzero
 declarative
 decline
 decode
@@ -1678,6 +1684,7 @@ decrypt
 decryption
 dedicatedhsm
 deduplication
+deep
 deep-security
 deep-security-manager
 deepl
@@ -1685,6 +1692,7 @@ deepvisibility
 def
 default
 defaultparameter
+defaultroutes
 defaults
 defence
 defender
@@ -1862,10 +1870,10 @@ dns-client
 dns-over-https
 dns-resolver
 dnsbl
-dnsclient
 dnsdumpster
 dnsentry
 dnsimple
+dnslookup
 dnsmadeeasy
 dnsoverhttps
 dnsrecord
@@ -2025,6 +2033,7 @@ dynamicsnav
 dynamodb
 dynatrace
 dynatraceobservability
+dz
 e-mail
 e1
 easy
@@ -2052,6 +2061,7 @@ editorservices
 edr
 education
 educational
+effectiveroutes
 efi
 eigencontroles
 einstein
@@ -2064,6 +2074,7 @@ elevate
 elevated
 elevatedconsole
 elevatedmode
+elgato
 elk
 elm
 elmah-io
@@ -2173,6 +2184,7 @@ espressif
 esri
 essbase
 estimate
+estimation
 esx
 esxi
 eternalblue
@@ -2205,6 +2217,7 @@ eventlogchannel
 eventlogchannels
 eventlogmanifest
 eventlogs
+eventmonitor
 eventmonitoring
 eventprocessor
 events
@@ -2223,6 +2236,7 @@ evtx
 ews
 exact
 example
+examples
 excel
 exception
 exceptionless
@@ -2233,6 +2247,7 @@ exchange2010
 exchange2013
 exchange2016
 exchangecluster
+exchangehybrid
 exchangemigration
 exchangeon-premise
 exchangeon-premises
@@ -2253,7 +2268,6 @@ exif
 exiftool
 exists
 exitcode
-exitprocessrequest
 exo
 exock
 exov2
@@ -2436,7 +2450,6 @@ first
 fisher
 fissionproducts
 fitbit
-fits
 five
 five9
 fix-log
@@ -2598,6 +2611,8 @@ genericartifactscontent
 genetic-algorithm
 genxdev
 geo
+geocache
+geocaching
 geoencode
 geoencoding
 geolocation
@@ -2746,12 +2761,14 @@ greynoise
 grid
 gridfs
 grok
+groundspeak
 group
 group-membership
 group-policy
 groupmembership
 grouppolicy
 groups
+grouvee
 grr
 gsuite
 gtx1080ti
@@ -2780,6 +2797,7 @@ hack
 hacking
 hacktoberfest
 hadoop
+hafr
 hailstone
 haipa
 halo
@@ -2815,6 +2833,8 @@ hashset
 hashtable
 hasicorp
 haskell
+haste
+hastebin
 haveibeenpwned
 hba
 hbase
@@ -2872,6 +2892,7 @@ hierarchialdistributionlist
 hierarchical
 hierarchy
 high-availability
+highlight
 highlighting
 highrise
 hipaa
@@ -2975,6 +2996,8 @@ hyperv
 hypervisor
 hypervplugins
 hypothesis
+hysolate
+hysolatemangementconsole
 i-doit
 i2c
 ia
@@ -3166,6 +3189,7 @@ interface
 interlogix
 internet
 internet-explorer
+internetconnection
 internetexplorer
 intersight
 intersightcmdlets
@@ -3340,6 +3364,8 @@ k8s
 k8sshell
 kafka
 kaminario
+karabiner
+karabiner-elements
 karma
 kaseya
 kaseyavsa
@@ -3362,11 +3388,14 @@ key
 key-vault
 key2wocas
 keybase
+keybinding
 keyboard
 keyboardstartkey
 keycipher
 keylight
 keymanagement
+keymap
+keymapping
 keypair
 keysms
 keyvault
@@ -3458,11 +3487,16 @@ lccn
 lcm
 lcminternals
 ldap
+leafs
 league
 lean
 learn
+learn-powershell
+learn-powershell-series
 learning
+learning-powershell
 learningpowershell
+learnpowershell
 lease
 leetabit
 leftjoin
@@ -3520,6 +3554,7 @@ lint
 linting
 linux
 linux-command
+linuxssh
 liquid
 liquit
 liquit.com
@@ -3741,7 +3776,6 @@ matcharray
 matchhashtable
 materialdesign
 materialui
-mateso
 math
 mathematics
 matplotlib
@@ -4051,7 +4085,6 @@ myhub
 myitprocess
 myjson
 myjson.com
-myob
 myposh
 mysql
 mysql-database
@@ -4136,7 +4169,6 @@ networkscan
 networksecurity
 networksecuritygroup
 networkshares
-netwrix
 new
 new-completionresult
 new-dtcmpackagefromdriverpackpackagedefinitionsms
@@ -4541,12 +4573,12 @@ passwordlockoutreport
 passwordmanagement
 passwordmanager
 passwords
-passwordsecure
 passwordspray
 passwordstate
 passwordtool
 passwordvault
 passwordwolf
+paste
 patch
 patches
 patching
@@ -4596,6 +4628,7 @@ persistent
 personal
 personalisation
 personalization
+personalvault
 personio
 pester
 pf
@@ -4771,8 +4804,10 @@ powershell-class
 powershell-cmdlets
 powershell-core
 powershell-core-releases-api
+powershell-course
 powershell-credentials
 powershell-dsc
+powershell-examples
 powershell-gallery
 powershell-github-repo
 powershell-isprime
@@ -4784,6 +4819,7 @@ powershell-remoting
 powershell-script
 powershell-terminal
 powershell-terminal-copilot
+powershell-training
 powershell.module.invokewinget
 powershell.one
 powershell.persistentpathstack
@@ -4792,6 +4828,8 @@ powershellai
 powershellazuresql
 powershellconferenceeurope
 powershellcore
+powershellcourse
+powershellexamples
 powershellfar
 powershellgallery
 powershellget
@@ -4803,6 +4841,7 @@ powershellmoduleupdate
 powershellpr0mpt
 powershellscript
 powershelltemplate
+powershelltraining
 powershelltypeaccelerators
 powershelluniversal
 powershellv5
@@ -4986,6 +5025,7 @@ psdesiredstateconfiguration
 psdevops
 psdocs
 psdocs-documents
+psdocsgenerator
 psdrawio
 psdrive
 psdrives
@@ -5045,7 +5085,6 @@ psjob
 psjobs
 psjobthreads
 pskeepass
-pslocalgallery
 psloganalytics
 psm
 psm1
@@ -5156,7 +5195,6 @@ pvs
 pwa
 pwned
 pwpush
-pwsafe
 pwsh
 pwsh.fw
 pwshake
@@ -5182,6 +5220,7 @@ qlogicfcpowerkit
 qlogicfcprovider
 qna
 qol
+qq
 qr
 qrcode
 qrcodes
@@ -5478,6 +5517,7 @@ rightjoin
 rights
 rightsizing
 rightsmanagement
+ripe
 risk
 riskiq
 riskpro
@@ -5539,7 +5579,6 @@ rubber
 rubrik
 ruby
 rule
-rulesengine
 run
 run-as-user
 runas
@@ -5713,6 +5752,7 @@ secrets
 secretsanta
 secretscanner
 secretserver
+secretsmanager
 secretvault
 section
 secur32
@@ -5799,6 +5839,7 @@ server
 servercertificatevalidationcallback
 serverless
 servermanagement
+servers
 service
 service-bus
 service-messages
@@ -6172,6 +6213,8 @@ ssdt
 sse
 ssh
 ssh-keygen
+sshmanagement
+sshservers
 ssis
 ssl
 sslcert
@@ -6494,6 +6537,7 @@ terrafun
 tesla
 test
 test-dscconfiguration
+test-internetconnection
 test-modulepath
 test-osplatform
 test-psremoting
@@ -6567,6 +6611,8 @@ time
 timeout
 timer
 timeseriesinsights
+timesheet
+timesheets
 timespan
 timezone
 tinkerpop
@@ -6626,6 +6672,7 @@ trafficmanager
 trafficmarking
 train
 training
+training-course
 tram
 transact
 transaction
@@ -6795,7 +6842,6 @@ ulid
 ultimatetool
 um
 uml
-umn
 ums
 unattend
 unattendedfile
@@ -6928,6 +6974,7 @@ variants
 vastlimits
 vault
 vaultextension
+vaultstore
 vb365
 vba
 vbaproject
@@ -6999,6 +7046,7 @@ virtualenvironment
 virtualenvwrapper
 virtualization
 virtualmachine
+virtualmachinemonitor
 virtualmachines
 virtualmachne
 virtualnetwork
@@ -7049,7 +7097,6 @@ vnet
 vnmonitoring
 vnugglets
 vnugglets.com
-vocabularies
 voice
 voiceconfig
 voiceservices
@@ -7461,6 +7508,7 @@ xsa
 xtremio
 xtrude
 xunit
+xwiki
 xwindowsupdate
 yahoo
 yahw
