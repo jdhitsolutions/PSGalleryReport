@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 21 August 2023 17:53:22 UTC
+Updated: Tuesday, 22 August 2023 02:01:37 UTC
 
 .bat
 .env
@@ -31,7 +31,6 @@ Updated: Monday, 21 August 2023 17:53:22 UTC
 2010
 2013
 2016
-2018
 2019
 21vianet
 24-bit
@@ -246,6 +245,7 @@ aka.ms
 aks
 aks-hci
 akscluster
+al
 alac
 alarm
 alb
@@ -669,6 +669,8 @@ azuresecuritycenter
 azureservicebus
 azuresigntool
 azuresql
+azuresqlexport
+azuresqlimport
 azuressas
 azurestack
 azurestackhci
@@ -718,6 +720,7 @@ battery
 bayern
 bb
 bbp
+bc
 bcd
 bcdedit
 bcdr
@@ -1254,7 +1257,6 @@ commence
 comment
 comments
 commerce
-commfort
 commit
 common
 common-data-service
@@ -1273,6 +1275,7 @@ complete
 completer
 completion
 completion-manager
+completionresult
 completions
 complex
 compliance
@@ -1296,6 +1299,7 @@ concurrent
 conda
 condition
 conditionalaccess
+conduit
 conference
 confidentialclient
 confidentialledger
@@ -1389,6 +1393,7 @@ converttohtml
 converttomarkdown
 converttomd
 cookie
+coolq
 cooltag1
 cooltag2
 coordinates
@@ -1430,8 +1435,10 @@ cppm
 cpu
 cpuid
 cpuid-information
+cq
 cqd
 cqdpowershell
+cqhttp
 crack psmodule
 crash
 crayon
@@ -1588,6 +1595,7 @@ data-uri
 data-uri-converter
 database
 database-migrations
+databaseautomation
 databasemanagement
 databasemigration
 databases
@@ -2070,7 +2078,6 @@ elevate
 elevated
 elevatedconsole
 elevatedmode
-elgato
 elk
 elm
 elmah-io
@@ -2360,7 +2367,6 @@ fiddler
 fido
 fido2
 fieldglass
-fifa
 figlet
 file
 file-association
@@ -2480,7 +2486,6 @@ folders
 font
 fonts
 foo
-football
 for
 force
 forcedelete
@@ -2866,6 +2871,7 @@ helloworld
 helmet
 help
 helpdesk
+helpdoc
 helper
 helper-functions
 helperfunctions
@@ -3268,6 +3274,7 @@ iso-8601
 ispac
 isprime
 ispss
+issues
 isvalidemail
 isvalidip
 it
@@ -3866,7 +3873,6 @@ microservices
 microsoft
 microsoft_365
 microsoft_azure
-microsoft_endpoint_manager
 microsoft_online
 microsoft_teams
 microsoft-graph
@@ -4431,6 +4437,7 @@ optimization
 optimizer
 option
 options
+optionstring
 opus
 oracle
 oraclecloudinfrastructure
@@ -4629,7 +4636,6 @@ persistent
 personal
 personalisation
 personalization
-personalvault
 personio
 pester
 pf
@@ -4638,6 +4644,7 @@ pfsense
 pfx
 pfy
 pgp
+phabricator
 philips
 philosophical
 philpritchett
@@ -4725,6 +4732,7 @@ poll
 polly
 polycom
 pomodoro
+ponduit
 pool
 poop
 pop
@@ -4764,6 +4772,7 @@ poshprtg
 poshrsjob
 poshtemplate
 poshwsus
+poshy-env-var
 position
 postgre
 postgres
@@ -4823,6 +4832,7 @@ powershell.one
 powershell.persistentpathstack
 powershell7
 powershellai
+powershellazuresql
 powershellconferenceeurope
 powershellcore
 powershellcourse
@@ -4848,6 +4858,7 @@ powertab
 powertoolcmdlets
 powertooldsc
 ppdm
+ppk
 pposh
 pps
 ppt
@@ -4993,6 +5004,17 @@ psbbix
 psbicep
 psclient
 pscmdlet
+pscommand_add-envpathitem
+pscommand_add-envvarpathitem
+pscommand_get-envpathitem
+pscommand_get-envvar
+pscommand_get-envvarpathitem
+pscommand_measure-envvarchanges
+pscommand_read-dotenv
+pscommand_remove-envpathitem
+pscommand_remove-envvar
+pscommand_remove-envvarpathitem
+pscommand_set-envvar
 pscommander
 pscompletions
 psconfasia
@@ -5003,6 +5025,7 @@ pscredential
 pscribo
 pscustomobject
 psd1
+psdb
 psdefaultparametervalues
 psdeploy
 psdesiredstateconfiguration
@@ -5039,6 +5062,17 @@ psfitbit
 psfive9
 psfive9admin
 psfoldersize
+psfunction_add-envpathitem
+psfunction_add-envvarpathitem
+psfunction_get-envpathitem
+psfunction_get-envvar
+psfunction_get-envvarpathitem
+psfunction_measure-envvarchanges
+psfunction_read-dotenv
+psfunction_remove-envpathitem
+psfunction_remove-envvar
+psfunction_remove-envvarpathitem
+psfunction_set-envvar
 psgallery
 psget
 psgitlab
@@ -5047,6 +5081,8 @@ psgraylog
 pshot
 pshtml
 psincludes_cmdlet
+psincludes_command
+psincludes_function
 psini
 psinsight
 psintune
@@ -5193,6 +5229,7 @@ qlogicfcpowerkit
 qlogicfcprovider
 qna
 qol
+qq
 qr
 qrcode
 qrcodes
@@ -5201,6 +5238,7 @@ qrs
 quality
 qualys
 quandl
+quantum
 quarantine
 queries
 query
@@ -5565,7 +5603,6 @@ runspaces
 runtimedefinedparameter
 runtimedefinedparameterdictionary
 runway
-russia
 rust
 rust-lang
 ryanairps
@@ -5724,7 +5761,6 @@ secrets
 secretsanta
 secretscanner
 secretserver
-secretsmanager
 secretvault
 section
 secur32
@@ -6040,7 +6076,6 @@ snssqlitepsmodule
 sntp
 soap
 soc
-soccer
 social
 social-media
 socialmedia
@@ -6142,15 +6177,18 @@ sql-database
 sql-script
 sql-server
 sqlagent
+sqlautomation
 sqlbits
 sqlbrowser
 sqlchangeautomation
 sqlclient
 sqlcmd
+sqlcodeguard
 sqldatabase
 sqldb
 sqldbatools
 sqldiagapi
+sqlexport
 sqlgateway
 sqlite
 sqlitebynarymodule
@@ -6695,6 +6733,7 @@ ts
 tsa
 tsd
 tsheets
+tsqlbestpractice
 tst
 tst1
 tst3
@@ -6758,7 +6797,6 @@ ud-field
 ud-flexytable
 ud-funnel
 ud-hero
-ud-illustration
 ud-input
 ud-licensed
 ud-loadingoverlay
@@ -6943,7 +6981,6 @@ variants
 vastlimits
 vault
 vaultextension
-vaultstore
 vb365
 vba
 vbaproject
@@ -7355,6 +7392,7 @@ word-wrap
 wordcloud
 wordlist
 wordpress
+wordwrap
 workbook
 workday
 worker
@@ -7376,12 +7414,12 @@ workspaceone
 workspaces
 workstation
 world
-worldcup
 worryfreebusinesssecurity
 wow
 wpad
 wpf
 wql
+wrap
 wrap-text
 wrapper
 wrapperfunctions
@@ -7451,7 +7489,6 @@ xendesktop
 xero
 xevents
 xh
-xi
 xiaomi
 xkcd
 xliff
@@ -7474,7 +7511,6 @@ xpt
 xrm
 xsa
 xtremio
-xtrude
 xunit
 xwiki
 xwindowsupdate
