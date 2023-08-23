@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Tuesday, 22 August 2023 17:52:58 UTC
+Updated: Wednesday, 23 August 2023 02:01:30 UTC
 
 .bat
 .env
@@ -275,7 +275,6 @@ almrangers
 alpha
 alphafs
 alpine
-alpr
 alt3
 alter
 alteryx
@@ -477,6 +476,7 @@ assets
 assistance
 association
 ast
+astronomy
 asv
 asymmetric
 async
@@ -842,6 +842,7 @@ brave
 brawlapi
 brawlstars
 brazencloud
+bre
 breach
 break
 breakpoint
@@ -894,6 +895,7 @@ businesscentral
 businessdays
 businesshours
 businessobjects
+businessrulesengine
 businesstime
 bxor
 bydesign
@@ -925,6 +927,7 @@ cancel
 cancellation
 canonical
 cantara
+capability
 capacity
 capgemini
 capslock
@@ -975,7 +978,6 @@ cdx
 ce
 celcat
 celerium
-censor
 center
 centra
 central
@@ -1089,7 +1091,6 @@ class
 classes
 classic
 classification
-classified
 clccontrol
 clccontrolapiv1
 clccontrolapiv2
@@ -1284,6 +1285,7 @@ compoundproperty
 compress
 compression
 compute
+computecloudatcustomer
 computeinstanceagent
 computer
 computer-site
@@ -1403,7 +1405,6 @@ coreepower
 coreepower.module
 coreposh
 corona
-corporate
 cortex
 cos
 cosmos
@@ -1870,6 +1871,7 @@ dns-client
 dns-over-https
 dns-resolver
 dnsbl
+dnsclient
 dnsdumpster
 dnsentry
 dnsimple
@@ -2014,7 +2016,6 @@ dvls
 dword
 dxexpeditions
 dynamic
-dynamic-host-configuration-protocol
 dynamicdistributiongroups
 dynamicdnsoverhttps
 dynamicparam
@@ -2074,7 +2075,6 @@ elevate
 elevated
 elevatedconsole
 elevatedmode
-elgato
 elk
 elm
 elmah-io
@@ -2229,7 +2229,6 @@ evernote
 everydaypowershell
 everydayrewards
 everything
-evidencelock
 evolutionary-algorithms
 evolutionary-database
 evtx
@@ -2450,6 +2449,7 @@ first
 fisher
 fissionproducts
 fitbit
+fits
 five
 five9
 fix-log
@@ -2514,7 +2514,6 @@ fortios
 fortune
 forum
 forwardcompatibility
-forwardedevents
 foudil
 fox
 foxpro
@@ -2616,8 +2615,6 @@ geocaching
 geoencode
 geoencoding
 geolocation
-geosearching
-geotagging
 get
 get_random_password
 get-admodernreport
@@ -2708,7 +2705,6 @@ google
 google-chrome
 google-histogram
 google-sankey
-google-table
 googleadsv2
 googlecloudplatform
 googledrive
@@ -2751,7 +2747,6 @@ graphics
 graphite
 graphql
 graphs
-graphservices
 graphviz
 graylog
 greenplum
@@ -2892,7 +2887,6 @@ hierarchialdistributionlist
 hierarchical
 hierarchy
 high-availability
-highlight
 highlighting
 highrise
 hipaa
@@ -3373,7 +3367,6 @@ kaspersky
 katakana
 kb
 kbarticle
-kdbx
 keenetic
 keepachangelog
 keepass
@@ -3666,7 +3659,6 @@ loopback
 loremipsum
 love
 lovequotes
-lpr
 lpsiamol
 ls
 lsa
@@ -3728,7 +3720,6 @@ manageability
 managed-identity
 manageddisks
 managedidentities
-managedserviceidenity
 managedserviceidentity
 managedserviceprovider
 managedserviceproviders
@@ -3776,6 +3767,7 @@ matcharray
 matchhashtable
 materialdesign
 materialui
+mateso
 math
 mathematics
 matplotlib
@@ -3850,7 +3842,6 @@ messaging
 messenger
 met
 metadata
-metadataservice
 metaprogramming
 method
 methodinfo
@@ -3911,7 +3902,6 @@ migration
 migration-tool
 migrations
 milestone
-milestonepstools
 mim
 mime
 mimekit
@@ -4085,6 +4075,7 @@ myhub
 myitprocess
 myjson
 myjson.com
+myob
 myposh
 mysql
 mysql-database
@@ -4146,7 +4137,6 @@ nets
 netsapiens
 netscaler
 netscape
-netsec
 netsh
 netspell
 netstat
@@ -4169,6 +4159,7 @@ networkscan
 networksecurity
 networksecuritygroup
 networkshares
+netwrix
 new
 new-completionresult
 new-dtcmpackagefromdriverpackpackagedefinitionsms
@@ -4310,7 +4301,6 @@ octopus
 octopus-deploy
 octopus.client
 octopusdeploy
-octopusenergy
 ocvp
 od4b
 oda
@@ -4333,6 +4323,7 @@ officedev
 officegraph
 officemessageencryption
 officertool
+offline
 offlinewimservicing
 ofx
 ogg
@@ -4351,6 +4342,7 @@ omnistack
 oms
 omsagent
 on
+on-demand
 on-premise
 onboard
 onboardadministrator
@@ -4573,6 +4565,7 @@ passwordlockoutreport
 passwordmanagement
 passwordmanager
 passwords
+passwordsecure
 passwordspray
 passwordstate
 passwordtool
@@ -4665,7 +4658,6 @@ pinterest
 pinvoke
 pip
 pipe
-pipedrive
 pipeline
 pipelines
 pipescript
@@ -4925,7 +4917,6 @@ profile
 profiler
 profiles
 proget
-program
 program-association
 programs
 progress
@@ -5025,7 +5016,6 @@ psdesiredstateconfiguration
 psdevops
 psdocs
 psdocs-documents
-psdocsgenerator
 psdrawio
 psdrive
 psdrives
@@ -5085,6 +5075,7 @@ psjob
 psjobs
 psjobthreads
 pskeepass
+pslocalgallery
 psloganalytics
 psm
 psm1
@@ -5195,6 +5186,7 @@ pvs
 pwa
 pwned
 pwpush
+pwsafe
 pwsh
 pwsh.fw
 pwshake
@@ -5331,8 +5323,6 @@ recursivefilesandfoldersdownload
 recursivefilesandfoldersupload
 recyclebin
 red
-redact
-redaction
 reddit
 redfield
 redfish
@@ -5521,7 +5511,6 @@ ripe
 risk
 riskiq
 riskpro
-risksense
 rivermeadow
 rlan
 rmcp
@@ -5579,6 +5568,7 @@ rubber
 rubrik
 ruby
 rule
+rulesengine
 run
 run-as-user
 runas
@@ -5629,7 +5619,6 @@ sample
 sampler
 san
 sandbox
-sanitization
 sanitizer
 sap
 sapazure
@@ -6372,7 +6361,6 @@ suspensive
 svesavov
 svetoslav
 svg
-svn
 svt
 swagger
 swamid
@@ -6478,7 +6466,6 @@ taskmanagement
 tasks
 taskscheduler
 taxjar
-taxonomy
 tcp
 tcp/ip
 tcpip
@@ -6530,7 +6517,6 @@ terminal-interface
 terminal-services
 terminal.gui
 terminalvelocity
-termset
 terraform
 terraformcloud
 terrafun
@@ -6842,6 +6828,7 @@ ulid
 ultimatetool
 um
 uml
+umn
 ums
 unattend
 unattendedfile
@@ -6854,7 +6841,6 @@ unified
 unifiedauditlog
 unifiedlabeling
 uninstall
-uninstaller
 union
 unique
 unique-files
@@ -7027,7 +7013,6 @@ video
 videos
 vie
 viewer
-viewgroup
 vigenere
 vim
 vimode
@@ -7080,7 +7065,6 @@ vmhostnetworkadapater
 vmmanagement
 vmnic
 vmrole
-vms
 vmss
 vmtovmhostrule
 vmtovmrule
@@ -7097,6 +7081,7 @@ vnet
 vnmonitoring
 vnugglets
 vnugglets.com
+vocabularies
 voice
 voiceconfig
 voiceservices
@@ -7253,7 +7238,6 @@ whiteboard
 whitespace
 whoami
 whois
-whormi
 wi-fi
 wia
 wia.imagefile
@@ -7396,7 +7380,6 @@ workingdays
 workinghours
 workingtime
 workload-automation
-workloads
 workpoint
 workrequests
 worksheet
@@ -7515,7 +7498,6 @@ yahw
 yamaha
 yaml
 yandex
-yapg
 yarn
 yetanotherhelloworld
 yml
