@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Thursday, 24 August 2023 09:54:06 UTC
+Updated: Thursday, 24 August 2023 17:53:16 UTC
 
 .bat
 .env
@@ -217,8 +217,6 @@ afd
 affinity
 affinity-co
 affinity-crm
-after-effects
-aftereffects
 agenda
 agent
 aggregates
@@ -291,7 +289,6 @@ amazonmgn
 amazonwebservices
 amend
 ami
-amiga
 amp
 amqp
 amsi
@@ -710,6 +707,7 @@ base85
 basecamp
 based
 baseline
+basename
 bash
 basic
 bastion
@@ -755,6 +753,7 @@ big-ip
 big-iq
 bigcommerce
 bigeval
+bigfix
 bigquery
 bikeshed
 billing
@@ -928,7 +927,7 @@ canarie
 cancel
 cancellation
 canonical
-capability
+cantara
 capacity
 capgemini
 capslock
@@ -1047,6 +1046,7 @@ cherwell
 chfs
 chi
 china
+chmod
 choco
 choco-bear
 chocobear
@@ -1412,6 +1412,7 @@ core
 coreepower
 coreepower.module
 coreposh
+coreutils
 corona
 cortex
 cos
@@ -1472,7 +1473,6 @@ credentials
 credentials-cache
 credentialsmanager
 credentialstore
-credentialutility
 credit
 credman
 credmanager
@@ -1535,7 +1535,6 @@ custom
 customchecks
 customdns
 customer
-customerengagement
 customers
 customeventchannel
 customeventlog
@@ -1571,7 +1570,6 @@ cylance
 cypher
 cyrillic
 d365
-d365ce
 d365f&o
 d365fo
 d365lbd
@@ -1814,6 +1812,7 @@ directorysecurity
 directrouting
 direnv
 dirkjan
+dirname
 dirsync
 disa
 disable
@@ -1832,6 +1831,7 @@ discover
 discovery
 discutils
 disk
+disk_to_disk
 disk-space
 diskfree
 diskimage
@@ -1893,6 +1893,7 @@ dnssuffix
 dnvm
 doc
 docfx
+dock
 docker
 docker-compose
 docker-image
@@ -1901,6 +1902,7 @@ docker-volumes
 dockerfile
 dockerize
 dockerswarm
+docking
 docs
 document
 documentation
@@ -2009,6 +2011,7 @@ duf
 dummy
 dummyusers
 dump
+dupes
 duplicate
 duplicate-files
 duplicatioin
@@ -2030,9 +2033,7 @@ dynamics
 dynamics-365
 dynamics-crm
 dynamics365
-dynamics365ce
 dynamics365fo
-dynamics365sales
 dynamics365server
 dynamicsax
 dynamicsecuritygroups
@@ -2082,6 +2083,7 @@ elevate
 elevated
 elevatedconsole
 elevatedmode
+elevation
 elgato
 elk
 elm
@@ -2148,6 +2150,7 @@ enum
 enumerable
 env
 environment
+environment-variables
 environmentmanagent
 environmentmodules
 environments
@@ -2182,7 +2185,6 @@ escapesequences
 escaping
 ese
 esent
-esoteric
 esp
 esp-idf
 esp32
@@ -2310,7 +2312,6 @@ extendedattributes
 extendedevents
 extendedproperties
 extendedproperty
-extendscript
 extensibility
 extension
 extensionmethods
@@ -2331,7 +2332,6 @@ factoryorchestratorclient
 facts
 faf
 failedlogin
-failure
 falcon
 fallbackstatuspoint
 fanarttv
@@ -2462,6 +2462,7 @@ five
 five9
 fix-log
 fix-protocol
+fixlet
 fixpack
 flac
 flash
@@ -2538,7 +2539,6 @@ freshservice
 freshservice-api
 freshserviceps
 freshworks
-friendly
 fritz
 fritzbox
 front
@@ -2676,6 +2676,7 @@ gist
 git
 git-client
 git-clone
+git-proxy
 git-stat
 gitcmdline
 gitdesktop
@@ -2715,6 +2716,7 @@ google
 google-chrome
 google-histogram
 google-sankey
+google-table
 googleadsv2
 googlecloudplatform
 googledrive
@@ -2973,9 +2975,11 @@ hsdp
 hsl
 html
 http
+http_proxy
 httpclient
 httplistener
 https
+https_proxy
 httpserver
 huawei
 huawei-ibmc-cmdlets
@@ -3055,6 +3059,7 @@ idm
 idna
 ids
 ie
+iem
 ifconfig
 ifttt
 igel
@@ -3416,6 +3421,7 @@ kidrsa
 kill
 kindle
 kinetic
+kintone
 klantcontroles
 kms
 knapsack
@@ -3551,6 +3557,7 @@ line-endings
 linear
 linearalgebra
 link
+link-capability
 link-preview
 linkedin
 linkedservice
@@ -3760,7 +3767,6 @@ maps
 mapsapi
 mariadb
 mark
-markdig
 markdown
 markdownrender
 marketing
@@ -3828,7 +3834,6 @@ mediant
 mediaplayer
 mediaservices
 mediawiki
-meditation
 meeting
 meetup
 meetup.com
@@ -4095,7 +4100,6 @@ myip
 myitprocess
 myjson
 myjson.com
-myob
 myposh
 mysql
 mysql-database
@@ -4174,6 +4178,7 @@ networkfunction
 networkinfo
 networking
 networkinterfaces
+networkloadbalancer
 networkpolicyserver
 networkscan
 networksecurity
@@ -4232,6 +4237,7 @@ non-volatile
 none
 noneimages
 noninteractive
+noproxy
 nord
 nordtools
 normal
@@ -4252,6 +4258,7 @@ notify-send
 nova
 npgsql
 npm
+npm-proxy
 npm-upgrade
 nprinting
 nprintingapi
@@ -4345,7 +4352,6 @@ officedev
 officegraph
 officemessageencryption
 officertool
-offline
 offlinewimservicing
 ofx
 ogg
@@ -4364,7 +4370,6 @@ omnistack
 oms
 omsagent
 on
-on-demand
 on-premise
 onboard
 onboardadministrator
@@ -4783,9 +4788,12 @@ poshtemplate
 poshwsus
 poshy-code-search
 poshy-colors
+poshy-coreutils-ish
 poshy-dir-nav
 poshy-ecks
+poshy-env-proxy
 poshy-env-var
+poshy-lucidity
 poshy-multimedia
 poshy-net
 poshy-sh-isms
@@ -4794,8 +4802,10 @@ poshy-wrap
 poshy-wrap-argcomplete
 poshy-wrap-ruby
 poshy-wrap-terraform
+poshy-wrap-terragrunt
 poshy-wrap-tmux
 poshy-wrap-vagrant
+poshy-wrap-vault
 poshy-wrap-wget
 poshy-wrap-wt
 position
@@ -5048,6 +5058,8 @@ pscommand_9
 pscommand_add_ssh
 pscommand_add-envpathitem
 pscommand_add-envvarpathitem
+pscommand_arch
+pscommand_basename
 pscommand_bgblack
 pscommand_bgblue
 pscommand_bgbrightblack
@@ -5077,8 +5089,11 @@ pscommand_d64
 pscommand_decode64
 pscommand_decodefile64
 pscommand_df64
+pscommand_dirname
+pscommand_disable-proxy
 pscommand_e64
 pscommand_ef64
+pscommand_enable-proxy
 pscommand_encode64
 pscommand_encodefile64
 pscommand_extract
@@ -5120,10 +5135,18 @@ pscommand_fmtunderlineoff
 pscommand_get-envpathitem
 pscommand_get-envvar
 pscommand_get-envvarpathitem
+pscommand_get-itemnixmode
 pscommand_get-netipaddresspublic
 pscommand_get-netipaddresssimple
 pscommand_get-pwshaliasdefinition
 pscommand_get-pwshfunctiondefinition
+pscommand_git-disable-proxy
+pscommand_git-enable-proxy
+pscommand_git-global-disable-proxy
+pscommand_git-global-enable-proxy
+pscommand_git-global-show-proxy
+pscommand_git-show-proxy
+pscommand_hostname
 pscommand_invoke-ruby
 pscommand_invoke-rubyexecute
 pscommand_invoke-rubyexecutehttpdhere
@@ -5136,6 +5159,15 @@ pscommand_invoke-terraforminit
 pscommand_invoke-terraformoutput
 pscommand_invoke-terraformplan
 pscommand_invoke-terraformvalidate
+pscommand_invoke-terragrunt
+pscommand_invoke-terragruntapply
+pscommand_invoke-terragruntapplyall
+pscommand_invoke-terragruntdestroy
+pscommand_invoke-terragruntdestroyall
+pscommand_invoke-terragruntplan
+pscommand_invoke-terragruntplanall
+pscommand_invoke-terragruntvalidate
+pscommand_invoke-terragruntvalidateall
 pscommand_invoke-tmuxattachforterminal
 pscommand_invoke-tmuxattachforterminaldetachingothers
 pscommand_invoke-tmuxeditconfig
@@ -5159,6 +5191,17 @@ pscommand_invoke-vagrantstatus
 pscommand_invoke-vagrantsuspend
 pscommand_invoke-vagrantup
 pscommand_invoke-vagrantuplogged
+pscommand_invoke-vaultdelete
+pscommand_invoke-vaultlist
+pscommand_invoke-vaultloginviagithub
+pscommand_invoke-vaultread
+pscommand_invoke-vaultreadfieldvalue
+pscommand_invoke-vaultrenew
+pscommand_invoke-vaultrevoke
+pscommand_invoke-vaultserver
+pscommand_invoke-vaultstatus
+pscommand_invoke-vaultversion
+pscommand_invoke-vaultwrite
 pscommand_ips
 pscommand_jump
 pscommand_mcd
@@ -5168,9 +5211,14 @@ pscommand_myip
 pscommand_new-isofile
 pscommand_new-windowsterminalpane
 pscommand_new-windowsterminaltab
+pscommand_npm-disable-proxy
+pscommand_npm-enable-proxy
+pscommand_npm-show-proxy
 pscommand_open_command
 pscommand_peek
 pscommand_ping
+pscommand_proxy-help
+pscommand_pwshrc-show-proxy
 pscommand_rb
 pscommand_read-dotenv
 pscommand_register-argcompleteargumentcompleter
@@ -5179,8 +5227,10 @@ pscommand_remove-envvar
 pscommand_remove-envvarpathitem
 pscommand_rrun
 pscommand_rserver
+pscommand_search-commandpath
 pscommand_search-ruby
 pscommand_set-envvar
+pscommand_set-itemnixmode
 pscommand_set-locationback1
 pscommand_set-locationback2
 pscommand_set-locationback3
@@ -5199,13 +5249,23 @@ pscommand_set-locationup2
 pscommand_set-locationup3
 pscommand_set-locationup4
 pscommand_set-locationup5
+pscommand_show-proxy
+pscommand_shuf
 pscommand_ssh-add-all
+pscommand_ssh-disable-proxy
+pscommand_ssh-enable-proxy
+pscommand_ssh-show-proxy
 pscommand_sshlist
 pscommand_ta
 pscommand_tad
+pscommand_test-command
 pscommand_test-d
+pscommand_test-elevation
 pscommand_test-f
+pscommand_test-linkcapability
 pscommand_test-o
+pscommand_test-reparsepoint
+pscommand_test-sessioninteractivity
 pscommand_test-x
 pscommand_tf
 pscommand_tfa
@@ -5216,6 +5276,15 @@ pscommand_tfi
 pscommand_tfo
 pscommand_tfp
 pscommand_tfv
+pscommand_tg
+pscommand_tga
+pscommand_tgaa
+pscommand_tgd
+pscommand_tgda
+pscommand_tgp
+pscommand_tgpa
+pscommand_tgv
+pscommand_tgva
 pscommand_tkss
 pscommand_tksv
 pscommand_tl
@@ -5231,6 +5300,16 @@ pscommand_uuid
 pscommand_uuidgen
 pscommand_uuidl
 pscommand_uuidu
+pscommand_vad
+pscommand_vag
+pscommand_val
+pscommand_var
+pscommand_varn
+pscommand_varv
+pscommand_vas
+pscommand_vasrv
+pscommand_vav
+pscommand_vaw
 pscommand_vdstr
 pscommand_vh
 pscommand_vhl
@@ -5298,6 +5377,8 @@ psfoldersize
 psfunction_add_ssh
 psfunction_add-envpathitem
 psfunction_add-envvarpathitem
+psfunction_arch
+psfunction_basename
 psfunction_bgblack
 psfunction_bgblue
 psfunction_bgbrightblack
@@ -5322,6 +5403,9 @@ psfunction_convertto-rgb
 psfunction_d
 psfunction_decode64
 psfunction_decodefile64
+psfunction_dirname
+psfunction_disable-proxy
+psfunction_enable-proxy
 psfunction_encode64
 psfunction_encodefile64
 psfunction_extract
@@ -5363,10 +5447,18 @@ psfunction_fmtunderlineoff
 psfunction_get-envpathitem
 psfunction_get-envvar
 psfunction_get-envvarpathitem
+psfunction_get-itemnixmode
 psfunction_get-netipaddresspublic
 psfunction_get-netipaddresssimple
 psfunction_get-pwshaliasdefinition
 psfunction_get-pwshfunctiondefinition
+psfunction_git-disable-proxy
+psfunction_git-enable-proxy
+psfunction_git-global-disable-proxy
+psfunction_git-global-enable-proxy
+psfunction_git-global-show-proxy
+psfunction_git-show-proxy
+psfunction_hostname
 psfunction_invoke-ruby
 psfunction_invoke-rubyexecute
 psfunction_invoke-rubyexecutehttpdhere
@@ -5379,6 +5471,15 @@ psfunction_invoke-terraforminit
 psfunction_invoke-terraformoutput
 psfunction_invoke-terraformplan
 psfunction_invoke-terraformvalidate
+psfunction_invoke-terragrunt
+psfunction_invoke-terragruntapply
+psfunction_invoke-terragruntapplyall
+psfunction_invoke-terragruntdestroy
+psfunction_invoke-terragruntdestroyall
+psfunction_invoke-terragruntplan
+psfunction_invoke-terragruntplanall
+psfunction_invoke-terragruntvalidate
+psfunction_invoke-terragruntvalidateall
 psfunction_invoke-tmuxattachforterminal
 psfunction_invoke-tmuxattachforterminaldetachingothers
 psfunction_invoke-tmuxeditconfig
@@ -5402,21 +5503,39 @@ psfunction_invoke-vagrantstatus
 psfunction_invoke-vagrantsuspend
 psfunction_invoke-vagrantup
 psfunction_invoke-vagrantuplogged
+psfunction_invoke-vaultdelete
+psfunction_invoke-vaultlist
+psfunction_invoke-vaultloginviagithub
+psfunction_invoke-vaultread
+psfunction_invoke-vaultreadfieldvalue
+psfunction_invoke-vaultrenew
+psfunction_invoke-vaultrevoke
+psfunction_invoke-vaultserver
+psfunction_invoke-vaultstatus
+psfunction_invoke-vaultversion
+psfunction_invoke-vaultwrite
 psfunction_jump
 psfunction_measure-envvarchanges
 psfunction_mirrorsite
 psfunction_new-isofile
 psfunction_new-windowsterminalpane
 psfunction_new-windowsterminaltab
+psfunction_npm-disable-proxy
+psfunction_npm-enable-proxy
+psfunction_npm-show-proxy
 psfunction_open_command
 psfunction_peek
+psfunction_proxy-help
+psfunction_pwshrc-show-proxy
 psfunction_read-dotenv
 psfunction_register-argcompleteargumentcompleter
 psfunction_remove-envpathitem
 psfunction_remove-envvar
 psfunction_remove-envvarpathitem
+psfunction_search-commandpath
 psfunction_search-ruby
 psfunction_set-envvar
+psfunction_set-itemnixmode
 psfunction_set-locationback1
 psfunction_set-locationback2
 psfunction_set-locationback3
@@ -5435,11 +5554,21 @@ psfunction_set-locationup2
 psfunction_set-locationup3
 psfunction_set-locationup4
 psfunction_set-locationup5
+psfunction_show-proxy
+psfunction_shuf
 psfunction_ssh-add-all
+psfunction_ssh-disable-proxy
+psfunction_ssh-enable-proxy
+psfunction_ssh-show-proxy
 psfunction_sshlist
+psfunction_test-command
 psfunction_test-d
+psfunction_test-elevation
 psfunction_test-f
+psfunction_test-linkcapability
 psfunction_test-o
+psfunction_test-reparsepoint
+psfunction_test-sessioninteractivity
 psfunction_test-x
 psfunction_universalarchive
 psfunction_urldecode
@@ -5467,6 +5596,7 @@ psjob
 psjobs
 psjobthreads
 pskeepass
+pslocalgallery
 psloganalytics
 psm
 psm1
@@ -5486,7 +5616,6 @@ psnexosisclient
 psngenposh
 psobject
 psoutlog
-pspath
 pspersonio
 pspowerhour
 psprofiler
@@ -5602,6 +5731,7 @@ qlogic
 qlogicfastlinqpowerkit
 qlogicfcpowerkit
 qlogicfcprovider
+qna
 qol
 qq
 qr
@@ -5773,6 +5903,7 @@ releasedefinition
 releasehealth
 releasemanagement
 releasenotes
+relevance
 relic
 reload
 remediation
@@ -6124,7 +6255,6 @@ search-adminauditlog
 search-engines
 searchengine
 searcher
-searching
 searchplace
 searchquery
 searchstring
@@ -6291,7 +6421,6 @@ sgw
 sha-256
 sha-512
 sha-crypt
-sha256
 sha256crypt
 sha512crypt
 shacrypt
@@ -6340,6 +6469,7 @@ show-on-command
 showdemo
 showoncommand
 shred
+shuf
 shutdown
 sid
 sidecar
@@ -6430,7 +6560,9 @@ smtpauth
 smtpoauth
 smtpsasl
 smtpsecure
+snap
 snapchat
+snapping
 snapshot
 snapshots
 sni
@@ -6920,6 +7052,7 @@ termset
 terraform
 terraformcloud
 terrafun
+terragrunt
 tesla
 test
 test-dscconfiguration
@@ -7315,6 +7448,7 @@ usap
 usb
 useful
 user
+user-environment
 userdiscovery
 usergroup
 userinterface
@@ -7394,6 +7528,7 @@ vduplink
 ve7cc
 vector
 veeam
+veeampn
 veeva
 venafi
 vencord
@@ -7608,6 +7743,7 @@ webmanagement
 webmanagementservice
 webpage
 webpi
+webreport
 webrequest
 webresponse
 webroot
@@ -7678,6 +7814,7 @@ windows-api
 windows-control-panel
 windows-defender
 windows-defender-application-control
+windows-environment
 windows-explorer
 windows-features
 windows-firewall
@@ -7804,7 +7941,6 @@ worryfreebusinesssecurity
 wow
 wpad
 wpf
-wql
 wrap
 wrap-text
 wrapper
