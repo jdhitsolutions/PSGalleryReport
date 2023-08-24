@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Wednesday, 23 August 2023 17:53:56 UTC
+Updated: Thursday, 24 August 2023 02:00:57 UTC
 
 .bat
 .env
@@ -88,7 +88,6 @@ accord
 accord.net
 accordian
 account
-accounting
 accounts
 ace
 ack
@@ -217,6 +216,8 @@ afd
 affinity
 affinity-co
 affinity-crm
+after-effects
+aftereffects
 agenda
 agent
 aggregates
@@ -339,6 +340,7 @@ api
 api-client
 api-gateway
 api-rest
+apichecks
 apiclient
 apigateway
 apigee
@@ -506,6 +508,7 @@ auditpolicy
 audits
 aumid
 aut
+auth0
 authenticate
 authentication
 authenticationcertificate
@@ -706,7 +709,6 @@ base85
 basecamp
 based
 baseline
-basename
 bash
 basic
 bastion
@@ -878,7 +880,6 @@ builder
 building
 buildingfile
 buildingmapping
-buildkit
 buildkite
 buildmaster
 builds
@@ -958,6 +959,7 @@ cavium
 cb
 cblueshell
 cbr
+cbz
 cchoco
 cchocoex
 ccm
@@ -1045,7 +1047,6 @@ cherwell
 chfs
 chi
 china
-chmod
 choco
 choco-bear
 chocobear
@@ -1261,7 +1262,6 @@ commence
 comment
 comments
 commerce
-commfort
 commit
 common
 common-data-service
@@ -1411,7 +1411,6 @@ core
 coreepower
 coreepower.module
 coreposh
-coreutils
 corona
 cortex
 cos
@@ -1581,7 +1580,6 @@ dacfx
 dacl
 dacpac
 dacpackage
-dagger
 dangling
 dapr
 dare
@@ -1682,6 +1680,7 @@ debugger
 debugging
 decimal
 decimalip
+decimalzero
 declarative
 decline
 decode
@@ -1693,6 +1692,8 @@ decryption
 dedicatedhsm
 deduplication
 deep
+deep-security
+deep-security-manager
 deepl
 deepvisibility
 def
@@ -1811,7 +1812,6 @@ directorysecurity
 directrouting
 direnv
 dirkjan
-dirname
 dirsync
 disa
 disable
@@ -1882,6 +1882,7 @@ dnsclient
 dnsdumpster
 dnsentry
 dnsimple
+dnslookup
 dnsmadeeasy
 dnsoverhttps
 dnsrecord
@@ -2041,6 +2042,7 @@ dynamicsnav
 dynamodb
 dynatrace
 dynatraceobservability
+dz
 e-mail
 e1
 easy
@@ -2184,7 +2186,6 @@ escapesequences
 escaping
 ese
 esent
-esoteric
 esp
 esp-idf
 esp32
@@ -2193,7 +2194,6 @@ espressif
 esri
 essbase
 estimate
-estimation
 esx
 esxi
 eternalblue
@@ -2247,6 +2247,7 @@ example
 examples
 excel
 exception
+exceptionless
 exchange
 exchange_online
 exchange-rates
@@ -2311,6 +2312,7 @@ extendedattributes
 extendedevents
 extendedproperties
 extendedproperty
+extendscript
 extensibility
 extension
 extensionmethods
@@ -2539,7 +2541,6 @@ freshservice
 freshservice-api
 freshserviceps
 freshworks
-friendly
 fritz
 fritzbox
 front
@@ -2564,6 +2565,7 @@ fullmetalgnome
 fullscreen
 fun
 function
+function_calling
 functionality
 functionalprogramming
 functions
@@ -2618,6 +2620,8 @@ genericartifactscontent
 genetic-algorithm
 genxdev
 geo
+geocache
+geocaching
 geoencode
 geoencoding
 geolocation
@@ -2674,6 +2678,7 @@ gist
 git
 git-client
 git-clone
+git-proxy
 git-stat
 gitcmdline
 gitdesktop
@@ -2766,6 +2771,7 @@ greynoise
 grid
 gridfs
 grok
+groundspeak
 group
 group-membership
 group-policy
@@ -2971,9 +2977,11 @@ hsdp
 hsl
 html
 http
+http_proxy
 httpclient
 httplistener
 https
+https_proxy
 httpserver
 huawei
 huawei-ibmc-cmdlets
@@ -3022,6 +3030,7 @@ icinga
 icinga2
 icinga2mssql
 icinga2plugins
+icingachecks
 icingaforwindows
 icingainventory
 icingamssql
@@ -3105,6 +3114,7 @@ import-dtdriverpackpackagedefinitionsms
 import-modulefrompath
 import-passlist
 import-sampackagedefinitionsms
+importer
 importexport
 importteams
 inactive
@@ -3194,6 +3204,7 @@ interface
 interlogix
 internet
 internet-explorer
+internetconnection
 internetexplorer
 intersight
 intersightcmdlets
@@ -3412,7 +3423,6 @@ kidrsa
 kill
 kindle
 kinetic
-kintone
 klantcontroles
 kms
 knapsack
@@ -3734,7 +3744,6 @@ manageability
 managed-identity
 manageddisks
 managedidentities
-managedserviceidenity
 managedserviceidentity
 managedserviceprovider
 managedserviceproviders
@@ -3858,7 +3867,6 @@ messaging
 messenger
 met
 metadata
-metadataservice
 metaprogramming
 method
 methodinfo
@@ -3951,6 +3959,7 @@ mobilenetwork
 mobilitycontroller
 mock
 mocking
+model
 modifiable-completion
 modify
 module
@@ -4092,7 +4101,6 @@ myip
 myitprocess
 myjson
 myjson.com
-myob
 myposh
 mysql
 mysql-database
@@ -4230,6 +4238,7 @@ non-volatile
 none
 noneimages
 noninteractive
+noproxy
 nord
 nordtools
 normal
@@ -4250,6 +4259,7 @@ notify-send
 nova
 npgsql
 npm
+npm-proxy
 npm-upgrade
 nprinting
 nprintingapi
@@ -4781,9 +4791,9 @@ poshtemplate
 poshwsus
 poshy-code-search
 poshy-colors
-poshy-coreutils-ish
 poshy-dir-nav
 poshy-ecks
+poshy-env-proxy
 poshy-env-var
 poshy-lucidity
 poshy-multimedia
@@ -4796,8 +4806,8 @@ poshy-wrap-ruby
 poshy-wrap-terraform
 poshy-wrap-terragrunt
 poshy-wrap-tmux
+poshy-wrap-vagrant
 poshy-wrap-vault
-poshy-wrap-wget
 poshy-wrap-wt
 position
 postgre
@@ -4857,6 +4867,7 @@ powershell.module.invokewinget
 powershell.one
 powershell.persistentpathstack
 powershell7
+powershellai
 powershellazuresql
 powershellconferenceeurope
 powershellcore
@@ -5048,8 +5059,6 @@ pscommand_9
 pscommand_add_ssh
 pscommand_add-envpathitem
 pscommand_add-envvarpathitem
-pscommand_arch
-pscommand_basename
 pscommand_bgblack
 pscommand_bgblue
 pscommand_bgbrightblack
@@ -5079,9 +5088,10 @@ pscommand_d64
 pscommand_decode64
 pscommand_decodefile64
 pscommand_df64
-pscommand_dirname
+pscommand_disable-proxy
 pscommand_e64
 pscommand_ef64
+pscommand_enable-proxy
 pscommand_encode64
 pscommand_encodefile64
 pscommand_extract
@@ -5123,12 +5133,16 @@ pscommand_fmtunderlineoff
 pscommand_get-envpathitem
 pscommand_get-envvar
 pscommand_get-envvarpathitem
-pscommand_get-itemnixmode
 pscommand_get-netipaddresspublic
 pscommand_get-netipaddresssimple
 pscommand_get-pwshaliasdefinition
 pscommand_get-pwshfunctiondefinition
-pscommand_hostname
+pscommand_git-disable-proxy
+pscommand_git-enable-proxy
+pscommand_git-global-disable-proxy
+pscommand_git-global-enable-proxy
+pscommand_git-global-show-proxy
+pscommand_git-show-proxy
 pscommand_invoke-ruby
 pscommand_invoke-rubyexecute
 pscommand_invoke-rubyexecutehttpdhere
@@ -5157,6 +5171,22 @@ pscommand_invoke-tmuxkillserver
 pscommand_invoke-tmuxkillsessionforterminal
 pscommand_invoke-tmuxlistsessions
 pscommand_invoke-tmuxnewsessionfromsource
+pscommand_invoke-vagrantdestroy
+pscommand_invoke-vagranthalt
+pscommand_invoke-vagranthostmanager
+pscommand_invoke-vagranthostslist
+pscommand_invoke-vagrantlist
+pscommand_invoke-vagrantprovision
+pscommand_invoke-vagrantreload
+pscommand_invoke-vagrantresume
+pscommand_invoke-vagrantscp
+pscommand_invoke-vagrantsnapshotlist
+pscommand_invoke-vagrantsnapshottake
+pscommand_invoke-vagrantssh
+pscommand_invoke-vagrantstatus
+pscommand_invoke-vagrantsuspend
+pscommand_invoke-vagrantup
+pscommand_invoke-vagrantuplogged
 pscommand_invoke-vaultdelete
 pscommand_invoke-vaultlist
 pscommand_invoke-vaultloginviagithub
@@ -5172,14 +5202,18 @@ pscommand_ips
 pscommand_jump
 pscommand_mcd
 pscommand_measure-envvarchanges
-pscommand_mirrorsite
 pscommand_myip
 pscommand_new-isofile
 pscommand_new-windowsterminalpane
 pscommand_new-windowsterminaltab
+pscommand_npm-disable-proxy
+pscommand_npm-enable-proxy
+pscommand_npm-show-proxy
 pscommand_open_command
 pscommand_peek
 pscommand_ping
+pscommand_proxy-help
+pscommand_pwshrc-show-proxy
 pscommand_rb
 pscommand_read-dotenv
 pscommand_register-argcompleteargumentcompleter
@@ -5191,7 +5225,6 @@ pscommand_rserver
 pscommand_search-commandpath
 pscommand_search-ruby
 pscommand_set-envvar
-pscommand_set-itemnixmode
 pscommand_set-locationback1
 pscommand_set-locationback2
 pscommand_set-locationback3
@@ -5210,8 +5243,11 @@ pscommand_set-locationup2
 pscommand_set-locationup3
 pscommand_set-locationup4
 pscommand_set-locationup5
-pscommand_shuf
+pscommand_show-proxy
 pscommand_ssh-add-all
+pscommand_ssh-disable-proxy
+pscommand_ssh-enable-proxy
+pscommand_ssh-show-proxy
 pscommand_sshlist
 pscommand_ta
 pscommand_tad
@@ -5267,6 +5303,21 @@ pscommand_vas
 pscommand_vasrv
 pscommand_vav
 pscommand_vaw
+pscommand_vdstr
+pscommand_vh
+pscommand_vhl
+pscommand_vhst
+pscommand_vl
+pscommand_vp
+pscommand_vr
+pscommand_vrl
+pscommand_vs
+pscommand_vscp
+pscommand_vsl
+pscommand_vssh
+pscommand_vst
+pscommand_vup
+pscommand_vupl
 pscommand_xin
 pscommand_xwith
 pscommander
@@ -5319,8 +5370,6 @@ psfoldersize
 psfunction_add_ssh
 psfunction_add-envpathitem
 psfunction_add-envvarpathitem
-psfunction_arch
-psfunction_basename
 psfunction_bgblack
 psfunction_bgblue
 psfunction_bgbrightblack
@@ -5345,7 +5394,8 @@ psfunction_convertto-rgb
 psfunction_d
 psfunction_decode64
 psfunction_decodefile64
-psfunction_dirname
+psfunction_disable-proxy
+psfunction_enable-proxy
 psfunction_encode64
 psfunction_encodefile64
 psfunction_extract
@@ -5387,12 +5437,16 @@ psfunction_fmtunderlineoff
 psfunction_get-envpathitem
 psfunction_get-envvar
 psfunction_get-envvarpathitem
-psfunction_get-itemnixmode
 psfunction_get-netipaddresspublic
 psfunction_get-netipaddresssimple
 psfunction_get-pwshaliasdefinition
 psfunction_get-pwshfunctiondefinition
-psfunction_hostname
+psfunction_git-disable-proxy
+psfunction_git-enable-proxy
+psfunction_git-global-disable-proxy
+psfunction_git-global-enable-proxy
+psfunction_git-global-show-proxy
+psfunction_git-show-proxy
 psfunction_invoke-ruby
 psfunction_invoke-rubyexecute
 psfunction_invoke-rubyexecutehttpdhere
@@ -5421,6 +5475,22 @@ psfunction_invoke-tmuxkillserver
 psfunction_invoke-tmuxkillsessionforterminal
 psfunction_invoke-tmuxlistsessions
 psfunction_invoke-tmuxnewsessionfromsource
+psfunction_invoke-vagrantdestroy
+psfunction_invoke-vagranthalt
+psfunction_invoke-vagranthostmanager
+psfunction_invoke-vagranthostslist
+psfunction_invoke-vagrantlist
+psfunction_invoke-vagrantprovision
+psfunction_invoke-vagrantreload
+psfunction_invoke-vagrantresume
+psfunction_invoke-vagrantscp
+psfunction_invoke-vagrantsnapshotlist
+psfunction_invoke-vagrantsnapshottake
+psfunction_invoke-vagrantssh
+psfunction_invoke-vagrantstatus
+psfunction_invoke-vagrantsuspend
+psfunction_invoke-vagrantup
+psfunction_invoke-vagrantuplogged
 psfunction_invoke-vaultdelete
 psfunction_invoke-vaultlist
 psfunction_invoke-vaultloginviagithub
@@ -5434,12 +5504,16 @@ psfunction_invoke-vaultversion
 psfunction_invoke-vaultwrite
 psfunction_jump
 psfunction_measure-envvarchanges
-psfunction_mirrorsite
 psfunction_new-isofile
 psfunction_new-windowsterminalpane
 psfunction_new-windowsterminaltab
+psfunction_npm-disable-proxy
+psfunction_npm-enable-proxy
+psfunction_npm-show-proxy
 psfunction_open_command
 psfunction_peek
+psfunction_proxy-help
+psfunction_pwshrc-show-proxy
 psfunction_read-dotenv
 psfunction_register-argcompleteargumentcompleter
 psfunction_remove-envpathitem
@@ -5448,7 +5522,6 @@ psfunction_remove-envvarpathitem
 psfunction_search-commandpath
 psfunction_search-ruby
 psfunction_set-envvar
-psfunction_set-itemnixmode
 psfunction_set-locationback1
 psfunction_set-locationback2
 psfunction_set-locationback3
@@ -5467,8 +5540,11 @@ psfunction_set-locationup2
 psfunction_set-locationup3
 psfunction_set-locationup4
 psfunction_set-locationup5
-psfunction_shuf
+psfunction_show-proxy
 psfunction_ssh-add-all
+psfunction_ssh-disable-proxy
+psfunction_ssh-enable-proxy
+psfunction_ssh-show-proxy
 psfunction_sshlist
 psfunction_test-command
 psfunction_test-d
@@ -5810,6 +5886,7 @@ relational
 relay
 release
 releasedefinition
+releasehealth
 releasemanagement
 releasenotes
 relevance
@@ -6379,7 +6456,6 @@ show-on-command
 showdemo
 showoncommand
 shred
-shuf
 shutdown
 sid
 sidecar
@@ -6499,6 +6575,7 @@ social-media
 socialmedia
 socketlabs
 sockets
+sodium
 software
 softwarecenter
 softwaredistributioncomponent
@@ -6799,6 +6876,7 @@ suspensive
 svesavov
 svetoslav
 svg
+svn
 svt
 swagger
 swamid
@@ -6964,6 +7042,7 @@ terragrunt
 tesla
 test
 test-dscconfiguration
+test-internetconnection
 test-modulepath
 test-osplatform
 test-psremoting
@@ -7128,6 +7207,7 @@ treffynnon
 trein
 trello
 trellops
+trend-micro
 trendmicro
 trevor
 trevorsullivan
@@ -7232,7 +7312,6 @@ ud-orgchart
 ud-piechart3d
 ud-pivottable
 ud-progressstepbar
-ud-rangeslider
 ud-readingbar
 ud-scrollspy
 ud-selectdatetime
@@ -7240,7 +7319,6 @@ ud-selector
 ud-signature
 ud-simpledrawer
 ud-singleselect
-ud-slider
 ud-speechbubble
 ud-step
 ud-stepbar
@@ -7675,7 +7753,6 @@ well-known
 wem
 wemsdk
 wer
-wget
 what3words
 whatismyip
 whatsnew
@@ -7687,7 +7764,6 @@ whiteboard
 whitespace
 whoami
 whois
-whormi
 wi-fi
 wia
 wia.imagefile
@@ -7736,6 +7812,7 @@ windows10mui
 windows11
 windows365
 windowsadmincenter
+windowsbuilds
 windowscredential
 windowscredentialmanager
 windowscredentials
@@ -7758,6 +7835,7 @@ windowspackagemanager
 windowsplugins
 windowspowershell
 windowspresentationfoundation
+windowsreleasehealth
 windowsrest
 windowssandbox
 windowsserver
@@ -7845,7 +7923,6 @@ worryfreebusinesssecurity
 wow
 wpad
 wpf
-wql
 wrap
 wrap-text
 wrapper
