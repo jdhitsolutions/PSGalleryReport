@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Saturday, 26 August 2023 09:53:19 UTC
+Updated: Saturday, 26 August 2023 17:52:53 UTC
 
 .bat
 .env
@@ -167,6 +167,7 @@ adfsendpoint
 adfstoolkit
 adfstools
 adgroupmemberobjects
+adgroupmembers
 adgroups
 adif
 adm
@@ -280,6 +281,7 @@ alpine
 alt3
 alter
 alteryx
+alwaysontop
 alwaysonvpn
 alz
 amateur
@@ -847,7 +849,6 @@ brave
 brawlapi
 brawlstars
 brazencloud
-bre
 breach
 break
 breakpoint
@@ -900,7 +901,6 @@ businesscentral
 businessdays
 businesshours
 businessobjects
-businessrulesengine
 businesstime
 bxor
 bydesign
@@ -1487,7 +1487,6 @@ crescendobuilt
 cresendo
 crestron
 crime
-crlf
 crm
 crm2016
 cron
@@ -1837,7 +1836,6 @@ discordrpc
 discount
 discover
 discovery
-discutils
 disk
 disk_to_disk
 disk-space
@@ -2013,6 +2011,7 @@ dtsx
 dtx
 du
 dual-stack
+duck
 dudckduckgo
 duf
 dummy
@@ -2083,7 +2082,6 @@ efi
 egrep
 eigencontroles
 einstein
-eklient psedition_core psedition_desktop
 elastic
 elasticsan
 elasticsearch
@@ -2132,7 +2130,6 @@ encodetext
 encoding
 encrypt
 encryption
-end-of-line
 endomondo
 endpoint
 endpoints
@@ -2635,6 +2632,8 @@ geocaching
 geoencode
 geoencoding
 geolocation
+geosearching
+geotagging
 get
 get_random_password
 get-admodernreport
@@ -2692,6 +2691,7 @@ gitcmdline
 gitdesktop
 gitea
 gitflow
+gitforwindows
 github
 github-actions
 githubactions
@@ -3376,6 +3376,7 @@ jumpcloud
 jumpstart
 junction
 junctions
+junit
 jupyter
 jupytor
 justenoughadministration
@@ -3535,7 +3536,6 @@ length
 lenovo
 lesspass
 letsencrypt
-lf
 lgpo
 lib
 libgit2
@@ -4065,6 +4065,9 @@ msproject
 msrc
 msrdc
 mssql
+mssqlbynarymodule
+mssqlbynarypsmodule
+mssqlmodule
 mssqlplugins
 mssqlserver
 msteams
@@ -5042,6 +5045,7 @@ ps6
 ps7
 psa
 psadbscreencap
+psadgroupmembers
 psadt
 psake
 psappdeploytoolkit
@@ -5620,12 +5624,16 @@ psmodules
 psmp
 psmsgraph
 psmsgraphapi
+psmssql
+psmssqlbynarymodule
+psmssqlmodule
 psmvp
 psnavigation
 psnexosisclient
 psngenposh
 psobject
 psoutlog
+pspath
 pspersonio
 pspowerhour
 psprofiler
@@ -5655,6 +5663,9 @@ psslack
 pssqlite
 pssqlitebynarymodule
 pssqlitemodule
+pssqlserver
+pssqlserverbynarymodule
+pssqlservermodule
 psst
 psstgenerator
 pstablacus
@@ -5748,6 +5759,7 @@ qrp
 qrs
 quality
 qualys
+quandl
 quantum
 quarantine
 queries
@@ -6037,6 +6049,7 @@ ribcl
 rightjoin
 rights
 rightsizing
+rightsmanagement
 ripe
 risk
 riskiq
@@ -6095,10 +6108,10 @@ rsop
 rss
 rt
 rtu
+rubber
 rubrik
 ruby
 rule
-rulesengine
 run
 run-as-user
 runas
@@ -6427,6 +6440,7 @@ sgw
 sha-256
 sha-512
 sha-crypt
+sha256
 sha256crypt
 sha512crypt
 shacrypt
@@ -6472,7 +6486,6 @@ shotgun
 show
 show-command
 show-on-command
-showdemo
 showoncommand
 shred
 shuf
@@ -6583,6 +6596,8 @@ snmpset
 snmpv3
 snmpwalk
 snowflake
+snsmssqlpsmodule
+snspsadgroupmembers
 snspsscriptsmonitoring
 snssqlitepsmodule
 sntp
@@ -6715,6 +6730,9 @@ sqlproject
 sqlps
 sqlserver
 sqlserveragent
+sqlserverbynarymodule
+sqlserverbynarypsmodule
+sqlservermodule
 sqlvirtualmachine
 sqr
 sqrt
@@ -6932,7 +6950,6 @@ sysinfocmdlets
 sysinternals
 syskit
 syslog
-sysman
 sysmon
 sysop
 syspass
@@ -6998,6 +7015,7 @@ taskmanagement
 tasks
 taskscheduler
 taxjar
+taxonomy
 tcp
 tcp/ip
 tcpip
@@ -7049,6 +7067,7 @@ terminal-interface
 terminal-services
 terminal.gui
 terminalvelocity
+termset
 terraform
 terraformcloud
 terrafun
@@ -7371,7 +7390,6 @@ ums
 unattend
 unattendedfile
 unblock
-unc
 underlined-text
 unicode
 unidesk
@@ -7623,7 +7641,6 @@ vnet
 vnmonitoring
 vnugglets
 vnugglets.com
-vocabularies
 voice
 voiceconfig
 voiceservices
@@ -7710,7 +7727,6 @@ wasabi
 watch
 watchmen
 watery
-wave
 wayk
 waykbastion
 wbem
