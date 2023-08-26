@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Saturday, 26 August 2023 02:00:34 UTC
+Updated: Saturday, 26 August 2023 09:53:19 UTC
 
 .bat
 .env
@@ -280,9 +280,9 @@ alpine
 alt3
 alter
 alteryx
-alwaysontop
 alwaysonvpn
 alz
+amateur
 amateur-data-interchange-format
 amateur-radio
 amateurradio
@@ -292,6 +292,7 @@ amazonmgn
 amazonwebservices
 amend
 ami
+amiga
 amp
 amqp
 amsi
@@ -318,6 +319,7 @@ animate-svg
 animation
 animations
 annotated
+announcement
 announcementsservice
 anonymous
 anova
@@ -396,6 +398,9 @@ appvolumes
 appx
 appxmanifest
 aprs
+aprs-is
+aprsis
+aprsthursday
 aps
 apt
 apt-get
@@ -533,6 +538,7 @@ autoload
 autologon
 automanage
 automate
+automated
 automatedlab
 automaticpacketreportingsystem
 automation
@@ -655,6 +661,7 @@ azurepowershell
 azurerepos
 azureresourcemanager
 azureresources
+azurerestapispecs
 azurerm
 azurerms
 azurerunasconnection
@@ -664,6 +671,8 @@ azuresecuritycenter
 azureservicebus
 azuresigntool
 azuresql
+azuresqlexport
+azuresqlimport
 azuressas
 azurestack
 azurestackhci
@@ -880,6 +889,7 @@ buildmaster
 builds
 buildtool
 bulk
+bulletin
 bullhorn
 bundle
 bup
@@ -1074,6 +1084,7 @@ cinema
 cinst
 cipher
 circuit-breaker
+circumlunar
 cireson
 ciresonassetmanagement
 ciresonportal
@@ -1231,6 +1242,7 @@ color-show
 colored
 colorful
 colorized
+colorpicker
 colors
 colour
 column
@@ -1333,6 +1345,7 @@ connectedmachine
 connectednetwork
 connectexchange
 connection
+connectionmonitor
 connections
 connectionsmanager
 connectionstring
@@ -1594,6 +1607,7 @@ data-uri
 data-uri-converter
 database
 database-migrations
+databaseautomation
 databasemanagement
 databasemigration
 databases
@@ -1999,7 +2013,6 @@ dtsx
 dtx
 du
 dual-stack
-duck
 dudckduckgo
 duf
 dummy
@@ -2094,10 +2107,12 @@ email-address
 emailaddressupdate
 emailautomation
 emailmanagment
+emailnotification
 emailnotificationcomponent
 emailsecurity
 embedded
 emc
+emcomm
 emergency
 emissions
 emoji
@@ -2221,6 +2236,7 @@ eventlogchannel
 eventlogchannels
 eventlogmanifest
 eventlogs
+eventmonitor
 eventmonitoring
 eventprocessor
 events
@@ -2268,7 +2284,6 @@ execute
 exexml
 exif
 exiftool
-exists
 exitcode
 exitprocessrequest
 exo
@@ -2294,6 +2309,7 @@ export
 export-cmhealthreport
 export-data
 export-passlist
+exportcertificate
 exportcertificates
 exporter
 exportexcel
@@ -2326,6 +2342,7 @@ factoryorchestratorclient
 facts
 faf
 failedlogin
+failure
 falcon
 fallbackstatuspoint
 fanarttv
@@ -2595,6 +2612,10 @@ gcloud
 gcp
 gcs
 gdpr
+gemini
+geminiprotocol
+gemlog
+gemtext
 general
 generate
 generate-password
@@ -2614,8 +2635,6 @@ geocaching
 geoencode
 geoencoding
 geolocation
-geosearching
-geotagging
 get
 get_random_password
 get-admodernreport
@@ -2673,7 +2692,6 @@ gitcmdline
 gitdesktop
 gitea
 gitflow
-gitforwindows
 github
 github-actions
 githubactions
@@ -2733,6 +2751,7 @@ gpo-tools
 gpodoc
 gpolinks
 gpp
+gps
 gpt
 gpt3
 gpx
@@ -2803,6 +2822,8 @@ haloitsm
 halopsa
 haloservicedesk
 haloservicesolutions
+ham
+hamradio
 hamradiodeluxe
 hana
 hanaon
@@ -3241,6 +3262,7 @@ ipbroadcast
 ipc
 ipcalc
 ipcalculator
+ipconfig
 iperf
 ipfy.org
 iphone
@@ -3255,6 +3277,7 @@ ipv6
 ipynb
 ir
 irc
+irkit
 irregular
 isadmin
 isbn
@@ -3353,7 +3376,6 @@ jumpcloud
 jumpstart
 junction
 junctions
-junit
 jupyter
 jupytor
 justenoughadministration
@@ -3361,6 +3383,7 @@ jvm
 jwk
 jws
 jwt
+jwttoken
 k8s
 k8sshell
 kafka
@@ -3822,6 +3845,7 @@ mediant
 mediaplayer
 mediaservices
 mediawiki
+meditation
 meeting
 meetup
 meetup.com
@@ -3937,6 +3961,7 @@ mittelschule
 mixedreality
 mixer
 mkdocs
+mkpasswd
 ml
 mlflow
 mmdc
@@ -4040,9 +4065,6 @@ msproject
 msrc
 msrdc
 mssql
-mssqlbynarymodule
-mssqlbynarypsmodule
-mssqlmodule
 mssqlplugins
 mssqlserver
 msteams
@@ -4119,6 +4141,7 @@ nbi
 ncal
 ndes
 nebulon
+nec-infrared-transmission-protocol
 nederland
 nedyalkov
 neo4j
@@ -4288,6 +4311,7 @@ nxt
 nyse
 nzb
 o365
+o365mailnotification
 oa
 oacli
 oacmdlets
@@ -4363,6 +4387,7 @@ onboard
 onboardadministrator
 onboarding
 oncommand-insight
+ondemand
 one
 onedrive
 onedriveforbusiness
@@ -4563,11 +4588,13 @@ passcode
 passivetotal
 passphrase
 passphraser passphrase password generator entropy
+passwd
 password
 password_generation
 password-generator
 password-less
 password-manager
+passwordexpiration
 passwordexpiry
 passwordgeneration
 passwordgenerator
@@ -4853,6 +4880,7 @@ powershell.one
 powershell.persistentpathstack
 powershell7
 powershellai
+powershellazuresql
 powershellconferenceeurope
 powershellcore
 powershellcourse
@@ -5322,6 +5350,7 @@ pscredential
 pscribo
 pscustomobject
 psd1
+psdb
 psdefaultparametervalues
 psdeploy
 psdesiredstateconfiguration
@@ -5591,16 +5620,12 @@ psmodules
 psmp
 psmsgraph
 psmsgraphapi
-psmssql
-psmssqlbynarymodule
-psmssqlmodule
 psmvp
 psnavigation
 psnexosisclient
 psngenposh
 psobject
 psoutlog
-pspath
 pspersonio
 pspowerhour
 psprofiler
@@ -5630,9 +5655,6 @@ psslack
 pssqlite
 pssqlitebynarymodule
 pssqlitemodule
-pssqlserver
-pssqlserverbynarymodule
-pssqlservermodule
 psst
 psstgenerator
 pstablacus
@@ -5726,7 +5748,6 @@ qrp
 qrs
 quality
 qualys
-quandl
 quantum
 quarantine
 queries
@@ -5878,6 +5899,7 @@ register-argumentcompleter
 registration
 registry
 regression
+regularexpression
 regularexpressions
 reinstall
 relational
@@ -5898,6 +5920,7 @@ remote
 remote-desktop
 remote'
 remoteadmin
+remotecert
 remoteconnection
 remoteconnectionsmanager
 remotecontrol
@@ -6014,7 +6037,6 @@ ribcl
 rightjoin
 rights
 rightsizing
-rightsmanagement
 ripe
 risk
 riskiq
@@ -6073,7 +6095,6 @@ rsop
 rss
 rt
 rtu
-rubber
 rubrik
 ruby
 rule
@@ -6403,7 +6424,12 @@ sftp
 sfx
 sgopher
 sgw
-sha256
+sha-256
+sha-512
+sha-crypt
+sha256crypt
+sha512crypt
+shacrypt
 shadow
 shadowcopy
 shadowcopybackups
@@ -6557,7 +6583,6 @@ snmpset
 snmpv3
 snmpwalk
 snowflake
-snsmssqlpsmodule
 snspsscriptsmonitoring
 snssqlitepsmodule
 sntp
@@ -6665,6 +6690,7 @@ sql-database
 sql-script
 sql-server
 sqlagent
+sqlautomation
 sqlbits
 sqlbrowser
 sqlchangeautomation
@@ -6675,6 +6701,7 @@ sqldatabase
 sqldb
 sqldbatools
 sqldiagapi
+sqlexport
 sqlgateway
 sqlite
 sqlitebynarymodule
@@ -6688,9 +6715,6 @@ sqlproject
 sqlps
 sqlserver
 sqlserveragent
-sqlserverbynarymodule
-sqlserverbynarypsmodule
-sqlservermodule
 sqlvirtualmachine
 sqr
 sqrt
@@ -6974,7 +6998,6 @@ taskmanagement
 tasks
 taskscheduler
 taxjar
-taxonomy
 tcp
 tcp/ip
 tcpip
@@ -7026,7 +7049,6 @@ terminal-interface
 terminal-services
 terminal.gui
 terminalvelocity
-termset
 terraform
 terraformcloud
 terrafun
@@ -7551,6 +7573,7 @@ virtualenvironment
 virtualenvwrapper
 virtualization
 virtualmachine
+virtualmachinemonitor
 virtualmachines
 virtualmachne
 virtualnetwork
@@ -7669,6 +7692,7 @@ wait4x
 waitforobject
 wakeonlan
 wakeup
+walk
 wallet
 wallpaper
 wallpapers
@@ -8014,6 +8038,7 @@ xsa
 xtremio
 xtrude
 xunit
+xwiki
 xwindowsupdate
 xwith
 yahoo
