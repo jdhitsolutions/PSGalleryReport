@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Saturday, 26 August 2023 17:52:53 UTC
+Updated: Sunday, 27 August 2023 02:03:00 UTC
 
 .bat
 .env
@@ -207,7 +207,6 @@ adv190013
 adv220002
 advanced
 advapi32
-advice
 advisor
 adwords
 adx
@@ -849,6 +848,7 @@ brave
 brawlapi
 brawlstars
 brazencloud
+bre
 breach
 break
 breakpoint
@@ -901,6 +901,7 @@ businesscentral
 businessdays
 businesshours
 businessobjects
+businessrulesengine
 businesstime
 bxor
 bydesign
@@ -1092,8 +1093,6 @@ cis
 cisco
 ciscoucscmdlets
 ciscoucsdsc
-citation
-cite
 citrix
 citrixoptimizer
 civo
@@ -1661,7 +1660,6 @@ dattormm
 datum
 dave
 davinci
-dax
 dayinweek
 days-week
 db
@@ -1836,6 +1834,7 @@ discordrpc
 discount
 discover
 discovery
+discutils
 disk
 disk_to_disk
 disk-space
@@ -1875,7 +1874,6 @@ dmarc
 dmgr
 dmi
 dmtf
-dmx
 dnd
 dns
 dns-01
@@ -1959,7 +1957,6 @@ dq
 dr
 draw
 drawio
-dreams
 dreamweaver
 dreary
 drift
@@ -2082,6 +2079,7 @@ efi
 egrep
 eigencontroles
 einstein
+eklient psedition_core psedition_desktop
 elastic
 elasticsan
 elasticsearch
@@ -2198,7 +2196,6 @@ esp32
 esp32s2
 espressif
 esri
-essbase
 estimate
 estimation
 esx
@@ -2281,6 +2278,7 @@ execute
 exexml
 exif
 exiftool
+exists
 exitcode
 exitprocessrequest
 exo
@@ -2293,7 +2291,6 @@ expand-string
 expand-tab
 expandframework
 expect
-experience
 experiments
 expired
 expiring
@@ -2306,7 +2303,6 @@ export
 export-cmhealthreport
 export-data
 export-passlist
-exportcertificate
 exportcertificates
 exporter
 exportexcel
@@ -2509,7 +2505,6 @@ forensic
 forensics
 forest
 forestdiscovery
-forgiveness
 form
 format
 format-numberedlist
@@ -2715,7 +2710,6 @@ gmap
 gmaps
 gmsa
 gnucash
-gnuwin32
 gobright
 godaddy
 goldengate
@@ -3107,7 +3101,6 @@ imageslide
 imagevalidate
 imagevalidation
 imagga
-imagination
 imaging
 imap
 imb
@@ -3171,9 +3164,6 @@ insight
 insightanalytics
 insights
 inspect
-inspiration
-inspirationalquotes
-inspire
 inspur
 instagram
 install
@@ -3202,7 +3192,6 @@ integrationservicescatalog
 integrity
 intel
 inteligo
-intelligence
 intelligence"
 intellisearch
 intellisense
@@ -3551,9 +3540,6 @@ licensemanager
 licensereport
 licenses
 licensing
-life
-lifequotes
-lifestyle
 light
 lights
 lime
@@ -3689,8 +3675,6 @@ lookup
 loop
 loopback
 loremipsum
-love
-lovequotes
 lpsiamol
 ls
 lsa
@@ -3811,7 +3795,6 @@ max
 max_path
 maximum
 maxoffice
-mazerat
 mb
 mbc
 mbs
@@ -3833,7 +3816,6 @@ mdep
 mdm
 mdop
 mdt
-mdx
 me4024
 mean
 measure
@@ -3861,7 +3843,6 @@ memcm
 memory
 memorydump
 memorystream
-mention
 menu
 menus
 meraki
@@ -4006,8 +3987,6 @@ moodle
 moonshot
 mosaic
 motd
-motivation
-motivationalquotes
 mount
 mouse
 move
@@ -4367,7 +4346,6 @@ officemessageencryption
 officertool
 offline
 offlinewimservicing
-ofx
 ogg
 oh-my-posh
 oh-my-zsh
@@ -4500,7 +4478,6 @@ osp
 ospgateway
 osprovision
 osprovisioning
-osr
 oss
 ossec
 osubbillingschedule
@@ -4743,8 +4720,6 @@ pnp
 pnpm
 pode
 poe
-poem
-poetry
 point
 point-to-site
 pointer
@@ -5012,7 +4987,6 @@ protection
 protocol
 protocols
 provance
-proverb
 provider
 providerhub
 provision
@@ -5775,9 +5749,7 @@ quiz
 qumulo
 quota
 quote
-quoteoftheday
 quotes
-quotestoliveby
 quoting
 quser
 qword
@@ -5887,7 +5859,6 @@ refactoring
 refeds
 refeds-mfa
 refedsmfa
-reference
 reflect
 reflection
 refresh
@@ -5932,7 +5903,6 @@ remote
 remote-desktop
 remote'
 remoteadmin
-remotecert
 remoteconnection
 remoteconnectionsmanager
 remotecontrol
@@ -6112,6 +6082,7 @@ rubber
 rubrik
 ruby
 rule
+rulesengine
 run
 run-as-user
 runas
@@ -6486,6 +6457,7 @@ shotgun
 show
 show-command
 show-on-command
+showdemo
 showoncommand
 shred
 shuf
@@ -6881,10 +6853,8 @@ subnetting
 subscribedskus
 subscription
 subscriptiondefinition
-subset
 subsystem
 subtitle
-success
 successfactors
 sudo
 sugar
@@ -6950,6 +6920,7 @@ sysinfocmdlets
 sysinternals
 syskit
 syslog
+sysman
 sysmon
 sysop
 syspass
@@ -6972,7 +6943,6 @@ systems
 systemsplash
 systray
 t
-t-sql
 tab
 tab-comletion
 tab-completion
@@ -7232,7 +7202,6 @@ transmission
 transparency
 transpilation
 trap
-travel
 trec
 tree
 treesize
@@ -7263,7 +7232,6 @@ trusted-host
 trustedhosts
 trustedrootcertificate
 trustprotectionplatform
-truth
 trx
 ts
 tsa
@@ -7273,7 +7241,6 @@ tsqlbestpractice
 tst
 tst1
 tst3
-ttrpg
 tts
 tubedownloader
 tui
@@ -7390,6 +7357,7 @@ ums
 unattend
 unattendedfile
 unblock
+unc
 underlined-text
 unicode
 unidesk
@@ -7641,6 +7609,7 @@ vnet
 vnmonitoring
 vnugglets
 vnugglets.com
+vocabularies
 voice
 voiceconfig
 voiceservices
@@ -7727,6 +7696,7 @@ wasabi
 watch
 watchmen
 watery
+wave
 wayk
 waykbastion
 wbem
