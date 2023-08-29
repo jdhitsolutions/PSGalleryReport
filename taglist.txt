@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Tuesday, 29 August 2023 09:52:53 UTC
+Updated: Tuesday, 29 August 2023 17:53:06 UTC
 
 .bat
 .env
@@ -253,7 +253,6 @@ al
 alac
 alarm
 alb
-albums
 alc
 alero
 alert
@@ -339,7 +338,6 @@ anypoint
 anywhere
 aovpn psmodule
 apache
-apachekafka
 api
 api-client
 api-gateway
@@ -454,6 +452,7 @@ asana
 asbuiltreport
 asc
 ascii
+ascii85
 asciiart
 asdatabase
 asigra
@@ -677,6 +676,7 @@ azuresqlexport
 azuresqlimport
 azuressas
 azurestack
+azurestackhci
 azurestate
 azurestorage
 azurestorageservices
@@ -702,10 +702,13 @@ bar
 barcodes
 baremetal
 base
+base16
 base26
+base32
 base64
 base64string
 base64url
+base85
 basecamp
 based
 baseline
@@ -775,6 +778,7 @@ binomial
 bios
 bios_settings
 bios-settings
+bit
 bitbucket
 bitbucket-api
 bitbucket-server
@@ -999,7 +1003,6 @@ centurylink
 centurylinkcloud
 cer
 cert
-certbasedauth
 certera
 certes
 certificate
@@ -1200,6 +1203,7 @@ cms
 cmsiteconfig
 cmsmessage
 cmtrace
+cmwt
 cns
 coa
 cockroachdb
@@ -1354,7 +1358,6 @@ console
 consoleguitools
 consolemenu
 consolemusic
-consumer
 consumption
 contact
 contacts
@@ -1398,10 +1401,6 @@ convertto
 convertto-excel
 convertto-hashtable
 convertto-yaml
-converttodocx
-converttohtml
-converttomarkdown
-converttomd
 cookie
 coolq
 cooltag1
@@ -1493,6 +1492,7 @@ crontab
 cropping
 cross-platform
 crossjoin
+crossover
 crossplatform
 crossplatformdevelopment
 crowdstrike
@@ -1502,6 +1502,7 @@ crypto
 cryptocompare
 cryptocurrency
 cryptography
+cs137
 csc
 csharp
 csharp-watch
@@ -2106,7 +2107,6 @@ email-address
 emailaddressupdate
 emailautomation
 emailmanagment
-emailnotification
 emailnotificationcomponent
 emailsecurity
 embedded
@@ -2247,6 +2247,7 @@ evernote
 everydaypowershell
 everydayrewards
 everything
+evolutionary-algorithms
 evolutionary-database
 evtx
 ews
@@ -2465,6 +2466,7 @@ firewallrule
 firmware
 first
 fisher
+fissionproducts
 fitbit
 fits
 five
@@ -2520,7 +2522,6 @@ formatformat-tableformat-listformat-wideformat-customformat-defaultout-defaultou
 formatting
 forms
 fortiauth
-forticlient
 fortify
 fortifyondemand
 fortigate
@@ -2628,6 +2629,7 @@ generation
 generator
 generic
 genericartifactscontent
+genetic-algorithm
 genxdev
 geo
 geocache
@@ -2638,6 +2640,7 @@ geolocation
 geosearching
 geotagging
 get
+get_random_password
 get-admodernreport
 get-childitem
 get-cmhealthcheck
@@ -2722,10 +2725,8 @@ gmaps
 gmsa
 gnucash
 gnuwin32
-go
 gobright
 godaddy
-golang
 goldengate
 goldsource
 goldsource-dedicated-server
@@ -2859,8 +2860,6 @@ hashset
 hashtable
 hasicorp
 haskell
-haste
-hastebin
 haveibeenpwned
 hba
 hbase
@@ -2887,6 +2886,7 @@ heating
 heavenbay
 helium
 helix
+hello
 helloid
 helloposhgallery
 helloworld
@@ -3145,7 +3145,6 @@ incontact
 indents
 index
 indexdb
-indicator
 inedo
 inetfwrule
 infinity
@@ -3447,7 +3446,6 @@ kintone
 klantcontroles
 kms
 knapsack
-knetps
 knob
 knowbe4
 knowledge
@@ -3471,6 +3469,7 @@ kubespray
 kudu
 kurukuru
 kusto
+kvm
 kvp
 l1tf
 l2tp
@@ -3554,11 +3553,11 @@ lib
 libgit2
 libraries
 library
+libvirt
 licence
 license
 license-generator
 licenseautomation
-licensemanagement
 licensemanager
 licensereport
 licenses
@@ -3728,7 +3727,6 @@ machine
 machinelearning
 machinelearningcompute
 machinelearningservices
-macmon
 macos
 macosx
 macro
@@ -3883,6 +3881,7 @@ mercurial
 merge
 mermaid
 message
+messagebox
 messageoftheday
 messages
 messaging
@@ -4027,6 +4026,7 @@ movies
 mozilla
 mp3
 mp4
+mpc
 mpeg
 mpn
 mrfk
@@ -4109,6 +4109,7 @@ multithreading
 music
 musiccast
 mustache
+mutation
 mute
 mutex
 mva
@@ -4130,7 +4131,6 @@ mytest
 n-able
 n-central
 nabu
-nac
 nagios
 name
 name-of-dogs
@@ -4148,6 +4148,7 @@ nasdaq
 native
 natpool
 natural-language-to-code
+natural-selection
 nav
 navigation
 nbi
@@ -4187,7 +4188,6 @@ netscaler
 netscape
 netsec
 netsh
-netspell
 netstat
 netsuite
 network
@@ -4328,7 +4328,6 @@ nxt
 nyse
 nzb
 o365
-o365mailnotification
 oa
 oacli
 oacmdlets
@@ -4450,7 +4449,6 @@ openid
 openidconnect
 openinghours
 openport
-openprovider
 openscad
 opensearch
 opensource
@@ -4474,6 +4472,7 @@ ops
 opsi
 opsmgr
 optics
+optimization
 optimizer
 option
 option119
@@ -4606,10 +4605,10 @@ passphrase
 passphraser passphrase password generator entropy
 passwd
 password
+password_generation
 password-generator
 password-less
 password-manager
-passwordexpiration
 passwordexpiry
 passwordgeneration
 passwordgenerator
@@ -4626,7 +4625,6 @@ passwordstate
 passwordtool
 passwordvault
 passwordwolf
-paste
 patch
 patches
 patching
@@ -4676,7 +4674,6 @@ persistent
 personal
 personalisation
 personalization
-personalvault
 personio
 pester
 pf
@@ -4726,7 +4723,6 @@ pivotal
 pivottable
 pixoo
 pki
-pki psmodule
 pks
 place
 places
@@ -4741,7 +4737,7 @@ play
 playback
 playbook
 player
-playlists
+pleasant
 pleasantpasswordserver
 plex
 plist
@@ -4783,6 +4779,7 @@ pop
 pop-location
 pop3
 popd
+population
 popup
 port
 port-scanner
@@ -4845,7 +4842,6 @@ poshy-wrap-git
 poshy-wrap-git-flow
 poshy-wrap-git-hf
 poshy-wrap-git-lfs
-poshy-wrap-golang
 poshy-wrap-helm
 poshy-wrap-kubectl
 poshy-wrap-maven
@@ -4893,6 +4889,7 @@ powercligoodies
 powerdex
 powerforensics
 powergraph
+powergui
 powermax
 powerplan
 powerplateform
@@ -4955,6 +4952,7 @@ powertooldsc
 ppdm
 ppk
 pposh
+pps
 ppt
 pptp
 pptx
@@ -5015,7 +5013,6 @@ processing
 processmitigation
 processor
 procs
-producer
 product
 productid
 productivity
@@ -5690,31 +5687,6 @@ pscommand_gmu
 pscommand_gmum
 pscommand_gmv
 pscommand_gnew
-pscommand_gob
-pscommand_goc
-pscommand_god
-pscommand_goe
-pscommand_gof
-pscommand_gofa
-pscommand_gofx
-pscommand_gog
-pscommand_goga
-pscommand_goi
-pscommand_gol
-pscommand_gom
-pscommand_gopa
-pscommand_gopb
-pscommand_gops
-pscommand_gor
-pscommand_got
-pscommand_gota
-pscommand_goto
-pscommand_gotoc
-pscommand_gotod
-pscommand_gotofx
-pscommand_gov
-pscommand_gove
-pscommand_gow
 pscommand_gp
 pscommand_gpatch
 pscommand_gpd
@@ -5941,28 +5913,6 @@ pscommand_invoke-gitsubmoduleallpullorigin
 pscommand_invoke-gitswitch
 pscommand_invoke-gittag
 pscommand_invoke-gitwhatchanged
-pscommand_invoke-gobuild
-pscommand_invoke-goclean
-pscommand_invoke-godoc
-pscommand_invoke-goenv
-pscommand_invoke-gofix
-pscommand_invoke-gofmt
-pscommand_invoke-gofmtellipsis
-pscommand_invoke-goget
-pscommand_invoke-gogetellipsis
-pscommand_invoke-goinstall
-pscommand_invoke-golist
-pscommand_invoke-gomod
-pscommand_invoke-gorun
-pscommand_invoke-gotest
-pscommand_invoke-gotestellipsis
-pscommand_invoke-gotool
-pscommand_invoke-gotoolcompile
-pscommand_invoke-gotooldist
-pscommand_invoke-gotoolfix
-pscommand_invoke-goversion
-pscommand_invoke-govet
-pscommand_invoke-gowork
 pscommand_invoke-helm
 pscommand_invoke-helminstall
 pscommand_invoke-helmsearch
@@ -6673,9 +6623,6 @@ pscommand_set-locationdown1
 pscommand_set-locationforward1
 pscommand_set-locationgithome
 pscommand_set-locationgitroot
-pscommand_set-locationgopath
-pscommand_set-locationgopathbin
-pscommand_set-locationgopathsrc
 pscommand_set-locationnewdirectory
 pscommand_set-locationup
 pscommand_set-locationup1
@@ -6896,7 +6843,6 @@ pscommand_zvcmp
 pscommand_zve
 pscommand_zwp
 pscommander
-pscompletions
 psconfasia
 psconfeu
 psconfig
@@ -7357,28 +7303,6 @@ psfunction_invoke-gitsubmoduleallpullorigin
 psfunction_invoke-gitswitch
 psfunction_invoke-gittag
 psfunction_invoke-gitwhatchanged
-psfunction_invoke-gobuild
-psfunction_invoke-goclean
-psfunction_invoke-godoc
-psfunction_invoke-goenv
-psfunction_invoke-gofix
-psfunction_invoke-gofmt
-psfunction_invoke-gofmtellipsis
-psfunction_invoke-goget
-psfunction_invoke-gogetellipsis
-psfunction_invoke-goinstall
-psfunction_invoke-golist
-psfunction_invoke-gomod
-psfunction_invoke-gorun
-psfunction_invoke-gotest
-psfunction_invoke-gotestellipsis
-psfunction_invoke-gotool
-psfunction_invoke-gotoolcompile
-psfunction_invoke-gotooldist
-psfunction_invoke-gotoolfix
-psfunction_invoke-goversion
-psfunction_invoke-govet
-psfunction_invoke-gowork
 psfunction_invoke-helm
 psfunction_invoke-helminstall
 psfunction_invoke-helmsearch
@@ -7891,9 +7815,6 @@ psfunction_set-locationdown1
 psfunction_set-locationforward1
 psfunction_set-locationgithome
 psfunction_set-locationgitroot
-psfunction_set-locationgopath
-psfunction_set-locationgopathbin
-psfunction_set-locationgopathsrc
 psfunction_set-locationnewdirectory
 psfunction_set-locationup
 psfunction_set-locationup1
@@ -8126,6 +8047,7 @@ python-for-dotnet
 python3
 qcloud
 qconvergeconsolepowerkit
+qemu
 qlgc_fc_powerkit
 qlik
 qlik-api
@@ -8149,7 +8071,6 @@ qrs
 quality
 qualys
 quandl
-quantum
 quarantine
 queries
 query
@@ -8373,7 +8294,6 @@ requiredmodules
 requirements
 res
 rescan
-rescuetime
 reservation
 reservations
 reset
@@ -8450,10 +8370,12 @@ rlan
 rmcp
 rmm
 rms
+rng
 roarwrecker
 robbyrussel
 robocopy
 robot
+robust
 roca
 rock
 rocket
@@ -8609,6 +8531,7 @@ scissors
 scm
 scmanager
 scom
+sconfig
 scoop
 scope
 score
@@ -8642,7 +8565,6 @@ scriptedui
 scripting
 scriptlogging
 scriptoform
-scriptrunner
 scripts
 scriptsmonitoring
 scrolllock
@@ -8674,7 +8596,6 @@ secrets
 secretsanta
 secretscanner
 secretserver
-secretsmanager
 secretvault
 section
 secur32
@@ -9065,7 +8986,6 @@ speed
 speedometer
 speedtest
 speedtester
-spellcheck
 spelling
 spf
 spi
@@ -9529,6 +9449,7 @@ threat
 threat-hunting
 threathunting
 threatintelligence
+throttle
 thumbprint
 thunderbird
 thycotic
@@ -9568,7 +9489,6 @@ toggle
 token
 tokenlifetime
 tokens
-toml
 tookit
 tool
 toolbox
@@ -9751,7 +9671,6 @@ ud-speechbubble
 ud-step
 ud-stepbar
 ud-stickynavbar
-ud-tagcloud
 ud-timeline
 ud-timeout
 ud-tool
@@ -9886,6 +9805,8 @@ utilities
 utility
 utils
 utm
+uudecode
+uuencode
 uuid
 uup
 uw
@@ -9912,7 +9833,6 @@ variants
 vastlimits
 vault
 vaultextension
-vaultstore
 vb365
 vba
 vbaproject
@@ -9969,6 +9889,7 @@ vigenere
 vim
 vimode
 virole
+virsh
 virtual
 virtualappliance
 virtualbox
@@ -10154,6 +10075,7 @@ webpage
 webpi
 webreport
 webrequest
+webresponse
 webroot
 webserver
 webservice
@@ -10170,7 +10092,6 @@ webtesting
 webtime
 wec
 wecutil
-weekday
 wef
 weixin
 well-known
@@ -10279,6 +10200,7 @@ windowstimezone
 windowsupdate
 windowsupdates
 windowsvirtualdesktop
+winform
 winforms
 winget
 wingetbridge
@@ -10342,6 +10264,7 @@ workspacemanager
 workspaceone
 workspaces
 workstation
+world
 worldcup
 worryfreebusinesssecurity
 wow
@@ -10376,7 +10299,6 @@ ws-federation
 wsapi
 wsb
 wsl
-wsl2
 wsman
 wsmanlistener
 wso2
@@ -10457,6 +10379,7 @@ yetanotherhelloworld
 yml
 ynab
 youtube
+youtube-dl
 youtubeextractor
 yq
 yubaba
@@ -10475,7 +10398,6 @@ zipfile-transform
 zisson
 zoho
 zone
-zookeeper
 zoom
 zoomapi
 zoommeeting
