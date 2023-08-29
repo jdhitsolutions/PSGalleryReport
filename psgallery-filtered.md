@@ -3,13 +3,237 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
-## [poshy-ecks](https://www.powershellgallery.com/Packages/poshy-ecks/0.5.5.0) | 0.5.5.0
+## [poshy-wrap-wget](https://www.powershellgallery.com/Packages/poshy-wrap-wget/0.3.4.0) | 0.3.4.0
 
-### Published: 08/28/2023 17:31:39 by Pwshrc Maintainers
+### Published: 08/29/2023 01:39:59 by Pwshrc Maintainers
+
+Convenient cmdlets and aliases which wrap `wget`.
+
+__Downloads__: 16 | __Repository__: https://github.com/pwshrc/poshy-wrap-wget
+
+## [poshy-wrap-vscode](https://www.powershellgallery.com/Packages/poshy-wrap-vscode/0.2.3.0) | 0.2.3.0
+
+### Published: 08/29/2023 01:39:25 by Pwshrc Maintainers
+
+Convenient cmdlets and aliases for interacting with VSCode from within your PowerShell session.
+
+__Downloads__: 3 | __Repository__: https://github.com/pwshrc/poshy-wrap-vscode
+
+## [poshy-wrap-wt](https://www.powershellgallery.com/Packages/poshy-wrap-wt/0.3.4.0) | 0.3.4.0
+
+### Published: 08/29/2023 01:39:24 by Pwshrc Maintainers
+
+Convenient cmdlets and aliases for interacting with Windows Terminal from within your PowerShell session.
+
+__Downloads__: 8 | __Repository__: https://github.com/pwshrc/poshy-wrap-wt
+
+## [poshy-wrap-vault](https://www.powershellgallery.com/Packages/poshy-wrap-vault/0.3.4.0) | 0.3.4.0
+
+### Published: 08/29/2023 01:39:24 by Pwshrc Maintainers
+
+Convenient cmdlets and aliases which wrap `vault`.
+
+__Downloads__: 12 | __Repository__: https://github.com/pwshrc/poshy-wrap-vault
+
+## [poshy-wrap-zypper](https://www.powershellgallery.com/Packages/poshy-wrap-zypper/0.2.3.0) | 0.2.3.0
+
+### Published: 08/29/2023 01:38:44 by Pwshrc Maintainers
+
+Convenient cmdlets and aliases which wrap `zypper`.
+
+__Downloads__: 3 | __Repository__: https://github.com/pwshrc/poshy-wrap-zypper
+
+## [poshy-wrap-tmux](https://www.powershellgallery.com/Packages/poshy-wrap-tmux/0.3.4.0) | 0.3.4.0
+
+### Published: 08/29/2023 01:38:35 by Pwshrc Maintainers
+
+Convenient cmdlets and aliases which wrap `tmux`.
+
+__Downloads__: 12 | __Repository__: https://github.com/pwshrc/poshy-wrap-tmux
+
+## [poshy-wrap-vagrant](https://www.powershellgallery.com/Packages/poshy-wrap-vagrant/0.3.4.0) | 0.3.4.0
+
+### Published: 08/29/2023 01:38:23 by Pwshrc Maintainers
+
+Convenient cmdlets and aliases which wrap `vagrant`.
+
+__Downloads__: 11 | __Repository__: https://github.com/pwshrc/poshy-wrap-vagrant
+
+## [poshy-wrap-yum](https://www.powershellgallery.com/Packages/poshy-wrap-yum/0.2.3.0) | 0.2.3.0
+
+### Published: 08/29/2023 01:38:16 by Pwshrc Maintainers
+
+Convenient cmdlets and aliases which wrap `yum`.
+
+__Downloads__: 3 | __Repository__: https://github.com/pwshrc/poshy-wrap-yum
+
+## [poshy-wrap-terragrunt](https://www.powershellgallery.com/Packages/poshy-wrap-terragrunt/0.3.4.0) | 0.3.4.0
+
+### Published: 08/29/2023 01:37:53 by Pwshrc Maintainers
+
+Convenient cmdlets and aliases which wrap `terragrunt`.
+
+__Downloads__: 11 | __Repository__: https://github.com/pwshrc/poshy-wrap-terragrunt
+
+## [poshy-wrap-ruby](https://www.powershellgallery.com/Packages/poshy-wrap-ruby/0.3.4.0) | 0.3.4.0
+
+### Published: 08/29/2023 01:37:48 by Pwshrc Maintainers
+
+Convenient cmdlets and aliases which wrap `ruby`.
+
+__Downloads__: 11 | __Repository__: https://github.com/pwshrc/poshy-wrap-ruby
+
+## [poshy-wrap-terraform](https://www.powershellgallery.com/Packages/poshy-wrap-terraform/0.3.4.0) | 0.3.4.0
+
+### Published: 08/29/2023 01:37:39 by Pwshrc Maintainers
+
+Convenient cmdlets and aliases which wrap `terraform`.
+
+__Downloads__: 11 | __Repository__: https://github.com/pwshrc/poshy-wrap-terraform
+
+## [poshy-wrap-systemctl](https://www.powershellgallery.com/Packages/poshy-wrap-systemctl/0.2.3.0) | 0.2.3.0
+
+### Published: 08/29/2023 01:37:16 by Pwshrc Maintainers
+
+Convenient cmdlets and aliases which wrap `systemctl`.
+
+__Downloads__: 3 | __Repository__: https://github.com/pwshrc/poshy-wrap-systemctl
+
+## [poshy-wrap-python](https://www.powershellgallery.com/Packages/poshy-wrap-python/0.2.3.0) | 0.2.3.0
+
+### Published: 08/29/2023 01:36:53 by Pwshrc Maintainers
+
+Convenient cmdlets and aliases which wrap `python3`.
+
+__Downloads__: 3 | __Repository__: https://github.com/pwshrc/poshy-wrap-python
+
+## [poshy-wrap-pylint](https://www.powershellgallery.com/Packages/poshy-wrap-pylint/0.2.3.0) | 0.2.3.0
+
+### Published: 08/29/2023 01:36:29 by Pwshrc Maintainers
+
+Convenient cmdlets and aliases which wrap `pylint`.
+
+__Downloads__: 3 | __Repository__: https://github.com/pwshrc/poshy-wrap-pylint
+
+## [poshy-wrap-pyenv](https://www.powershellgallery.com/Packages/poshy-wrap-pyenv/0.2.3.0) | 0.2.3.0
+
+### Published: 08/29/2023 01:36:10 by Pwshrc Maintainers
+
+Convenient cmdlets and aliases which wrap `pyenv`.
+
+__Downloads__: 3 | __Repository__: https://github.com/pwshrc/poshy-wrap-pyenv
+
+## [poshy-wrap-npm](https://www.powershellgallery.com/Packages/poshy-wrap-npm/0.2.3.0) | 0.2.3.0
+
+### Published: 08/29/2023 01:34:34 by Pwshrc Maintainers
+
+Convenient cmdlets and aliases which wrap `npm`.
+
+__Downloads__: 3 | __Repository__: https://github.com/pwshrc/poshy-wrap-npm
+
+## [poshy-wrap-nginx](https://www.powershellgallery.com/Packages/poshy-wrap-nginx/0.2.3.0) | 0.2.3.0
+
+### Published: 08/29/2023 01:34:32 by Pwshrc Maintainers
+
+Convenient cmdlets and aliases which wrap `nginx`.
+
+__Downloads__: 3 | __Repository__: https://github.com/pwshrc/poshy-wrap-nginx
+
+## [poshy-wrap-nmap](https://www.powershellgallery.com/Packages/poshy-wrap-nmap/0.2.3.0) | 0.2.3.0
+
+### Published: 08/29/2023 01:34:06 by Pwshrc Maintainers
+
+Convenient cmdlets and aliases which wrap `nmap`.
+
+__Downloads__: 3 | __Repository__: https://github.com/pwshrc/poshy-wrap-nmap
+
+## [poshy-wrap-maven](https://www.powershellgallery.com/Packages/poshy-wrap-maven/0.2.3.0) | 0.2.3.0
+
+### Published: 08/29/2023 01:34:06 by Pwshrc Maintainers
+
+Convenient cmdlets and aliases which wrap `maven`.
+
+__Downloads__: 3 | __Repository__: https://github.com/pwshrc/poshy-wrap-maven
+
+## [poshy-wrap-kubectl](https://www.powershellgallery.com/Packages/poshy-wrap-kubectl/0.2.3.0) | 0.2.3.0
+
+### Published: 08/29/2023 01:33:57 by Pwshrc Maintainers
+
+Convenient cmdlets and aliases which wrap `kubectl`.
+
+__Downloads__: 3 | __Repository__: https://github.com/pwshrc/poshy-wrap-kubectl
+
+## [poshy-wrap-helm](https://www.powershellgallery.com/Packages/poshy-wrap-helm/0.2.3.0) | 0.2.3.0
+
+### Published: 08/29/2023 01:33:38 by Pwshrc Maintainers
+
+Convenient cmdlets and aliases which wrap `helm`.
+
+__Downloads__: 3 | __Repository__: https://github.com/pwshrc/poshy-wrap-helm
+
+## [OpenDriverTool](https://www.powershellgallery.com/Packages/OpenDriverTool/0.3.1) | 0.3.1
+
+### Published: 08/29/2023 01:30:04 by w0
+
+Automate the creation of driver and bios packages in configmgr.
+
+__Downloads__: 13 | __Repository__: https://github.com/w0/OpenDriverTool
+
+## [poshy-colors](https://www.powershellgallery.com/Packages/poshy-colors/0.3.4.0) | 0.3.4.0
+
+### Published: 08/29/2023 01:03:07 by Pwshrc Maintainers
+
+Functions for generating ANSI terminal formatting sequences, including: blinking text, italic text, bold text, underlined text, strike-through text, reversed-color text, hyperlinked text, and 24-bit true color foreground and background coloring in RGB and HSL.
+
+__Downloads__: 41 | __Repository__: https://github.com/pwshrc/poshy-colors
+
+## [poshy-ecks](https://www.powershellgallery.com/Packages/poshy-ecks/0.5.8.0) | 0.5.8.0
+
+### Published: 08/29/2023 01:00:25 by Pwshrc Maintainers
 
 Convenient cmdlets for executing arbitrary commands under exotic circumstances, including temporarily-altered environment variables and working directories.
 
 __Downloads__: 80 | __Repository__: https://github.com/pwshrc/poshy-ecks
+
+## [PokerSummary](https://www.powershellgallery.com/Packages/PokerSummary/1.0.8) | 1.0.8
+
+### Published: 08/29/2023 00:01:07 by Paul Harrison
+
+Generates Tournament summary data for Poker Maves touraments
+
+__Downloads__: 84 | __Repository__: 
+
+## [test_module10](https://www.powershellgallery.com/Packages/test_module10/2.0.0) | 2.0.0
+
+### Published: 08/28/2023 22:16:22 by annavied
+
+my test module
+
+__Downloads__: 0 | __Repository__: 
+
+## [SafeInvokeModule](https://www.powershellgallery.com/Packages/SafeInvokeModule/1.4.0) | 1.4.0
+
+### Published: 08/28/2023 20:57:42 by Jean-Pierre Planas
+
+This module contains a function Invoke-SafeCommand that will raise an error if the command is already on error
+
+__Downloads__: 12 | __Repository__: 
+
+## [tiPS](https://www.powershellgallery.com/Packages/tiPS/0.0.24) | 0.0.24
+
+### Published: 08/28/2023 20:16:11 by Daniel Schroeder
+
+PowerShell tips delivered straight to your terminal.
+
+__Downloads__: 58 | __Repository__: https://github.com/deadlydog/PowerShell.tiPS
+
+## [Logic.Monitor](https://www.powershellgallery.com/Packages/Logic.Monitor/4.4) | 4.4
+
+### Published: 08/28/2023 18:48:18 by Steven Villardi
+
+PowerShell module to query the Logic Monitor API. This is a personal project and is not an offically supported LogicMonitor integration.
+
+__Downloads__: 2,188 | __Repository__: https://github.com/stevevillardi/Logic.Monitor
 
 ## [Universal.Components.Loader](https://www.powershellgallery.com/Packages/Universal.Components.Loader/0.0.1) | 0.0.1
 
@@ -25,7 +249,7 @@ __Downloads__: 0 | __Repository__: https://github.com/ironmansoftware/universal-
 
 Provides ways to validate a ActiveDirectory environment
 
-__Downloads__: 19 | __Repository__: https://github.com/ActiveDirectoryStructure/ActiveDirectoryStructure
+__Downloads__: 16 | __Repository__: https://github.com/ActiveDirectoryStructure/ActiveDirectoryStructure
 
 ## [NerdioManagerPowerShell](https://www.powershellgallery.com/Packages/NerdioManagerPowerShell/0.4.3) | 0.4.3
 
@@ -49,7 +273,7 @@ __Downloads__: 47,676 | __Repository__: https://ironmansoftware.com/powershell-u
 
 This PS Module contains functions to deploy AL app files into On-premises Dynamics 365 Business Central environments.
 
-__Downloads__: 5,957 | __Repository__: 
+__Downloads__: 5,959 | __Repository__: 
 
 ## [PSConfig.Crescendo](https://www.powershellgallery.com/Packages/PSConfig.Crescendo/0.2.0) | 0.2.0
 
@@ -68,7 +292,7 @@ It adds command-line programs like 7-Zip, Git, GitHub CLI, NuGet, dotnet, and Vi
 See full readme at https://github.com/carsten-riedel/CoreePower.Lib/#readme
 Note: the "Initialize-CorePowerLatest" command may conflict with existing installations. Use with caution.
 
-__Downloads__: 810 | __Repository__: https://github.com/carsten-riedel/CoreePower.Lib
+__Downloads__: 821 | __Repository__: https://github.com/carsten-riedel/CoreePower.Lib
 
 ## [FormatColumn](https://www.powershellgallery.com/Packages/FormatColumn/1.1.4) | 1.1.4
 
@@ -77,7 +301,15 @@ __Downloads__: 810 | __Repository__: https://github.com/carsten-riedel/CoreePowe
 FormatColumn module contains the function Format-Column that formats object data as columns, 
 ordering data column by column as default.
 
-__Downloads__: 79 | __Repository__: https://github.com/loxia01/FormatColumn
+__Downloads__: 84 | __Repository__: https://github.com/loxia01/FormatColumn
+
+## [CoreePower.Common](https://www.powershellgallery.com/Packages/CoreePower.Common/0.0.0.7) | 0.0.0.7
+
+### Published: 08/28/2023 08:57:43 by Carsten Riedel
+
+Basic library.
+
+__Downloads__: 8 | __Repository__: 
 
 ## [CoreePower.Module](https://www.powershellgallery.com/Packages/CoreePower.Module/0.0.0.62) | 0.0.0.62
 
@@ -85,7 +317,7 @@ __Downloads__: 79 | __Repository__: https://github.com/loxia01/FormatColumn
 
 A library for fast module creation
 
-__Downloads__: 179 | __Repository__: 
+__Downloads__: 185 | __Repository__: 
 
 ## [AzOps](https://www.powershellgallery.com/Packages/AzOps/2.3.0) | 2.3.0
 
@@ -93,7 +325,7 @@ __Downloads__: 179 | __Repository__:
 
 Integrated CI/CD Solution for Microsoft Azure.
 
-__Downloads__: 1,544,381 | __Repository__: https://github.com/Azure/AzOps
+__Downloads__: 1,544,374 | __Repository__: https://github.com/Azure/AzOps
 
 ## [Cohesity.PowerShell.Core](https://www.powershellgallery.com/Packages/Cohesity.PowerShell.Core/1.9.4) | 1.9.4
 
@@ -117,7 +349,7 @@ __Downloads__: 46,961 | __Repository__: https://cohesity.github.io/cohesity-powe
 
 This module uses the REST API in the F5 LTM v11.6 and higher to query and manipulate the F5 LTM device.
 
-__Downloads__: 160,635 | __Repository__: https://github.com/joel74/POSH-LTM-Rest
+__Downloads__: 160,602 | __Repository__: https://github.com/joel74/POSH-LTM-Rest
 
 ## [PwshAzCosmosDB](https://www.powershellgallery.com/Packages/PwshAzCosmosDB/1.0.6) | 1.0.6
 
@@ -127,93 +359,13 @@ PowerShell module for Azure CosmosDB document operations
 
 __Downloads__: 9 | __Repository__: https://github.com/Cyb3rWard0g/PwshAzCosmosDB
 
-## [poshy-wrap-wt](https://www.powershellgallery.com/Packages/poshy-wrap-wt/0.3.3.0) | 0.3.3.0
+## [poshy-wrap-git-flow](https://www.powershellgallery.com/Packages/poshy-wrap-git-flow/0.2.2.0) | 0.2.2.0
 
-### Published: 08/28/2023 02:57:05 by Pwshrc Maintainers
+### Published: 08/28/2023 02:33:09 by Pwshrc Maintainers
 
-Convenient cmdlets and aliases for interacting with Windows Terminal from within your PowerShell session.
+Convenient cmdlets and aliases which wrap `git-flow`.
 
-__Downloads__: 6 | __Repository__: https://github.com/pwshrc/poshy-wrap-wt
-
-## [poshy-wrap-terragrunt](https://www.powershellgallery.com/Packages/poshy-wrap-terragrunt/0.3.3.0) | 0.3.3.0
-
-### Published: 08/28/2023 02:56:28 by Pwshrc Maintainers
-
-Convenient cmdlets and aliases which wrap `terragrunt`.
-
-__Downloads__: 11 | __Repository__: https://github.com/pwshrc/poshy-wrap-terragrunt
-
-## [poshy-wrap-wget](https://www.powershellgallery.com/Packages/poshy-wrap-wget/0.3.3.0) | 0.3.3.0
-
-### Published: 08/28/2023 02:54:33 by Pwshrc Maintainers
-
-Convenient cmdlets and aliases which wrap `wget`.
-
-__Downloads__: 14 | __Repository__: https://github.com/pwshrc/poshy-wrap-wget
-
-## [poshy-wrap-vscode](https://www.powershellgallery.com/Packages/poshy-wrap-vscode/0.2.2.0) | 0.2.2.0
-
-### Published: 08/28/2023 02:54:14 by Pwshrc Maintainers
-
-Convenient cmdlets and aliases for interacting with VSCode from within your PowerShell session.
-
-__Downloads__: 3 | __Repository__: https://github.com/pwshrc/poshy-wrap-vscode
-
-## [poshy-wrap-tmux](https://www.powershellgallery.com/Packages/poshy-wrap-tmux/0.3.3.0) | 0.3.3.0
-
-### Published: 08/28/2023 02:54:06 by Pwshrc Maintainers
-
-Convenient cmdlets and aliases which wrap `tmux`.
-
-__Downloads__: 12 | __Repository__: https://github.com/pwshrc/poshy-wrap-tmux
-
-## [poshy-wrap-terraform](https://www.powershellgallery.com/Packages/poshy-wrap-terraform/0.3.3.0) | 0.3.3.0
-
-### Published: 08/28/2023 02:53:24 by Pwshrc Maintainers
-
-Convenient cmdlets and aliases which wrap `terraform`.
-
-__Downloads__: 11 | __Repository__: https://github.com/pwshrc/poshy-wrap-terraform
-
-## [poshy-wrap-pipenv](https://www.powershellgallery.com/Packages/poshy-wrap-pipenv/0.2.2.0) | 0.2.2.0
-
-### Published: 08/28/2023 02:53:21 by Pwshrc Maintainers
-
-Convenient cmdlets and aliases which wrap `pipenv`.
-
-__Downloads__: 1 | __Repository__: https://github.com/pwshrc/poshy-wrap-pipenv
-
-## [poshy-wrap-systemctl](https://www.powershellgallery.com/Packages/poshy-wrap-systemctl/0.2.2.0) | 0.2.2.0
-
-### Published: 08/28/2023 02:53:10 by Pwshrc Maintainers
-
-Convenient cmdlets and aliases which wrap `systemctl`.
-
-__Downloads__: 1 | __Repository__: https://github.com/pwshrc/poshy-wrap-systemctl
-
-## [poshy-wrap-vagrant](https://www.powershellgallery.com/Packages/poshy-wrap-vagrant/0.3.3.0) | 0.3.3.0
-
-### Published: 08/28/2023 02:53:04 by Pwshrc Maintainers
-
-Convenient cmdlets and aliases which wrap `vagrant`.
-
-__Downloads__: 11 | __Repository__: https://github.com/pwshrc/poshy-wrap-vagrant
-
-## [poshy-wrap-pyenv](https://www.powershellgallery.com/Packages/poshy-wrap-pyenv/0.2.2.0) | 0.2.2.0
-
-### Published: 08/28/2023 02:52:33 by Pwshrc Maintainers
-
-Convenient cmdlets and aliases which wrap `pyenv`.
-
-__Downloads__: 3 | __Repository__: https://github.com/pwshrc/poshy-wrap-pyenv
-
-## [poshy-wrap-ruby](https://www.powershellgallery.com/Packages/poshy-wrap-ruby/0.3.3.0) | 0.3.3.0
-
-### Published: 08/28/2023 02:51:54 by Pwshrc Maintainers
-
-Convenient cmdlets and aliases which wrap `ruby`.
-
-__Downloads__: 11 | __Repository__: https://github.com/pwshrc/poshy-wrap-ruby
+__Downloads__: 3 | __Repository__: https://github.com/pwshrc/poshy-wrap-git-flow
 
 ## [poshy-wrap-dotnet](https://www.powershellgallery.com/Packages/poshy-wrap-dotnet/0.2.2.0) | 0.2.2.0
 
@@ -223,22 +375,6 @@ Convenient cmdlets and aliases which wrap `dotnet`.
 
 __Downloads__: 3 | __Repository__: https://github.com/pwshrc/poshy-wrap-dotnet
 
-## [poshy-wrap-kubectl](https://www.powershellgallery.com/Packages/poshy-wrap-kubectl/0.2.2.0) | 0.2.2.0
-
-### Published: 08/28/2023 02:33:07 by Pwshrc Maintainers
-
-Convenient cmdlets and aliases which wrap `kubectl`.
-
-__Downloads__: 3 | __Repository__: https://github.com/pwshrc/poshy-wrap-kubectl
-
-## [poshy-wrap-git-lfs](https://www.powershellgallery.com/Packages/poshy-wrap-git-lfs/0.2.2.0) | 0.2.2.0
-
-### Published: 08/28/2023 02:32:39 by Pwshrc Maintainers
-
-Convenient cmdlets and aliases which wrap `git-lfs`.
-
-__Downloads__: 3 | __Repository__: https://github.com/pwshrc/poshy-wrap-git-lfs
-
 ## [poshy-wrap-gem](https://www.powershellgallery.com/Packages/poshy-wrap-gem/0.2.2.0) | 0.2.2.0
 
 ### Published: 08/28/2023 02:32:35 by Pwshrc Maintainers
@@ -247,21 +383,13 @@ Convenient cmdlets and aliases which wrap `gem`.
 
 __Downloads__: 3 | __Repository__: https://github.com/pwshrc/poshy-wrap-gem
 
-## [poshy-wrap-helm](https://www.powershellgallery.com/Packages/poshy-wrap-helm/0.2.2.0) | 0.2.2.0
-
-### Published: 08/28/2023 02:32:19 by Pwshrc Maintainers
-
-Convenient cmdlets and aliases which wrap `helm`.
-
-__Downloads__: 1 | __Repository__: https://github.com/pwshrc/poshy-wrap-helm
-
 ## [poshy-wrap-docker-compose](https://www.powershellgallery.com/Packages/poshy-wrap-docker-compose/0.2.2.0) | 0.2.2.0
 
 ### Published: 08/28/2023 02:32:18 by Pwshrc Maintainers
 
 Convenient cmdlets and aliases which wrap `docker-compose`.
 
-__Downloads__: 1 | __Repository__: https://github.com/pwshrc/poshy-wrap-docker-compose
+__Downloads__: 3 | __Repository__: https://github.com/pwshrc/poshy-wrap-docker-compose
 
 ## [poshy-wrap-git-hf](https://www.powershellgallery.com/Packages/poshy-wrap-git-hf/0.2.2.0) | 0.2.2.0
 
@@ -269,7 +397,55 @@ __Downloads__: 1 | __Repository__: https://github.com/pwshrc/poshy-wrap-docker-c
 
 Convenient cmdlets and aliases which wrap `git-hf`.
 
-__Downloads__: 1 | __Repository__: https://github.com/pwshrc/poshy-wrap-git-hf
+__Downloads__: 3 | __Repository__: https://github.com/pwshrc/poshy-wrap-git-hf
+
+## [poshy-wrap-git](https://www.powershellgallery.com/Packages/poshy-wrap-git/0.2.2.0) | 0.2.2.0
+
+### Published: 08/28/2023 02:31:24 by Pwshrc Maintainers
+
+Convenient cmdlets and aliases which wrap `git`.
+
+__Downloads__: 3 | __Repository__: https://github.com/pwshrc/poshy-wrap-git
+
+## [poshy-wrap-dnf](https://www.powershellgallery.com/Packages/poshy-wrap-dnf/0.2.2.0) | 0.2.2.0
+
+### Published: 08/28/2023 02:31:13 by Pwshrc Maintainers
+
+Convenient cmdlets and aliases which wrap `dnf`.
+
+__Downloads__: 3 | __Repository__: https://github.com/pwshrc/poshy-wrap-dnf
+
+## [poshy-wrap-docker](https://www.powershellgallery.com/Packages/poshy-wrap-docker/0.2.2.0) | 0.2.2.0
+
+### Published: 08/28/2023 02:30:47 by Pwshrc Maintainers
+
+Convenient cmdlets and aliases which wrap `docker`.
+
+__Downloads__: 3 | __Repository__: https://github.com/pwshrc/poshy-wrap-docker
+
+## [poshy-wrap-golang](https://www.powershellgallery.com/Packages/poshy-wrap-golang/0.2.2.0) | 0.2.2.0
+
+### Published: 08/28/2023 02:30:40 by Pwshrc Maintainers
+
+Convenient cmdlets and aliases which wrap `go`.
+
+__Downloads__: 3 | __Repository__: https://github.com/pwshrc/poshy-wrap-golang
+
+## [poshy-wrap-brew](https://www.powershellgallery.com/Packages/poshy-wrap-brew/0.2.2.0) | 0.2.2.0
+
+### Published: 08/28/2023 02:30:25 by Pwshrc Maintainers
+
+Convenient cmdlets and aliases which wrap `brew`.
+
+__Downloads__: 3 | __Repository__: https://github.com/pwshrc/poshy-wrap-brew
+
+## [poshy-wrap-forgit](https://www.powershellgallery.com/Packages/poshy-wrap-forgit/0.2.2.0) | 0.2.2.0
+
+### Published: 08/28/2023 02:30:08 by Pwshrc Maintainers
+
+Convenient cmdlets and aliases which wrap `forgit`.
+
+__Downloads__: 3 | __Repository__: https://github.com/pwshrc/poshy-wrap-forgit
 
 ## [poshy-sh-isms](https://www.powershellgallery.com/Packages/poshy-sh-isms/0.3.3.0) | 0.3.3.0
 
@@ -287,29 +463,29 @@ A convenient function for registering `argcomplete` completions in your PowerShe
 
 __Downloads__: 9 | __Repository__: https://github.com/pwshrc/poshy-wrap-argcomplete
 
-## [poshy-wrap-apt](https://www.powershellgallery.com/Packages/poshy-wrap-apt/0.2.2.0) | 0.2.2.0
+## [poshy-viewer-finder](https://www.powershellgallery.com/Packages/poshy-viewer-finder/0.2.2.0) | 0.2.2.0
 
-### Published: 08/28/2023 02:29:12 by Pwshrc Maintainers
+### Published: 08/28/2023 02:29:42 by Pwshrc Maintainers
 
-Convenient cmdlets and aliases which wrap the `apt-get`, `apt`, and `aptitude` package managers.
+An experimental cross-platform library for enumerating the user's installed text viewers & editors, with capability filtering & execution argument configuration all baked in.
 
-__Downloads__: 3 | __Repository__: https://github.com/pwshrc/poshy-wrap-apt
+__Downloads__: 3 | __Repository__: https://github.com/pwshrc/poshy-viewer-finder
 
-## [poshy-notify-send](https://www.powershellgallery.com/Packages/poshy-notify-send/0.2.2.0) | 0.2.2.0
+## [poshy-sshconfig](https://www.powershellgallery.com/Packages/poshy-sshconfig/0.5.2.0) | 0.5.2.0
 
-### Published: 08/28/2023 02:29:04 by Pwshrc Maintainers
+### Published: 08/28/2023 02:29:15 by Pwshrc Maintainers
 
-A unified cross-platform wrapper function for generating desktop toast notifications from within your PowerShell session - using whichever toast notification system you have installed.
+Convnience cmdlets for making changes to your SSH configuration.
 
-__Downloads__: 3 | __Repository__: https://github.com/pwshrc/poshy-notify-send
+__Downloads__: 14 | __Repository__: https://github.com/pwshrc/poshy-sshconfig
 
-## [poshy-wrap-curl](https://www.powershellgallery.com/Packages/poshy-wrap-curl/0.2.2.0) | 0.2.2.0
+## [poshy-net](https://www.powershellgallery.com/Packages/poshy-net/0.3.3.0) | 0.3.3.0
 
-### Published: 08/28/2023 02:28:49 by Pwshrc Maintainers
+### Published: 08/28/2023 02:28:33 by Pwshrc Maintainers
 
-Convenient cmdlets and aliases which wrap `curl`.
+Convenient cmdlets and aliases for performing various network activities, including getting your current external IP address - right from your PowerShell terminal.
 
-__Downloads__: 1 | __Repository__: https://github.com/pwshrc/poshy-wrap-curl
+__Downloads__: 12 | __Repository__: https://github.com/pwshrc/poshy-net
 
 ## [poshy-multimedia](https://www.powershellgallery.com/Packages/poshy-multimedia/0.6.1.0) | 0.6.1.0
 
@@ -317,7 +493,7 @@ __Downloads__: 1 | __Repository__: https://github.com/pwshrc/poshy-wrap-curl
 
 Convenient cmdlets for working with various archive, multimedia, and data-encoding formats directly in your PowerShell terminal.
 
-__Downloads__: 11 | __Repository__: https://github.com/pwshrc/poshy-multimedia
+__Downloads__: 13 | __Repository__: https://github.com/pwshrc/poshy-multimedia
 
 ## [poshy-lucidity](https://www.powershellgallery.com/Packages/poshy-lucidity/0.3.5.0) | 0.3.5.0
 
@@ -325,23 +501,7 @@ __Downloads__: 11 | __Repository__: https://github.com/pwshrc/poshy-multimedia
 
 Convenient general-purpose cmdlets to help you write your PowerShell scripts - the "batteries" that should have been included in the original packaging.
 
-__Downloads__: 350 | __Repository__: https://github.com/pwshrc/poshy-lucidity
-
-## [poshy-ls-isms](https://www.powershellgallery.com/Packages/poshy-ls-isms/0.2.2.0) | 0.2.2.0
-
-### Published: 08/28/2023 02:26:30 by Pwshrc Maintainers
-
-Convenient functions and aliases for performing directory listings in the style of popular Bash/ZSH aliases for ls.
-
-__Downloads__: 3 | __Repository__: https://github.com/pwshrc/poshy-ls-isms
-
-## [poshy-env-var](https://www.powershellgallery.com/Packages/poshy-env-var/0.5.3.0) | 0.5.3.0
-
-### Published: 08/28/2023 02:26:01 by Pwshrc Maintainers
-
-Ergonomic cmdlets for assigning, retrieving, and deleting environment variables - including path-munging for arbitrary PATH variables.
-
-__Downloads__: 77 | __Repository__: https://github.com/pwshrc/poshy-env-var
+__Downloads__: 365 | __Repository__: https://github.com/pwshrc/poshy-lucidity
 
 ## [poshy-env-proxy](https://www.powershellgallery.com/Packages/poshy-env-proxy/0.5.2.0) | 0.5.2.0
 
@@ -359,14 +519,6 @@ Convenient functions and aliases for changing the current directory in various w
 
 __Downloads__: 11 | __Repository__: https://github.com/pwshrc/poshy-dir-nav
 
-## [poshy-colors](https://www.powershellgallery.com/Packages/poshy-colors/0.3.3.0) | 0.3.3.0
-
-### Published: 08/28/2023 02:25:07 by Pwshrc Maintainers
-
-Functions for generating ANSI terminal formatting sequences, including: blinking text, italic text, bold text, underlined text, strike-through text, reversed-color text, hyperlinked text, and 24-bit true color foreground and background coloring in RGB and HSL.
-
-__Downloads__: 30 | __Repository__: https://github.com/pwshrc/poshy-colors
-
 ## [poshy-coreutils-ish](https://www.powershellgallery.com/Packages/poshy-coreutils-ish/0.3.3.0) | 0.3.3.0
 
 ### Published: 08/28/2023 02:24:47 by Pwshrc Maintainers
@@ -374,6 +526,14 @@ __Downloads__: 30 | __Repository__: https://github.com/pwshrc/poshy-colors
 Cmdlets that are semantically equivalent to GNU coreutils - useful when converting shell scripts to PowerShell.
 
 __Downloads__: 11 | __Repository__: https://github.com/pwshrc/poshy-coreutils-ish
+
+## [poshy-code-search](https://www.powershellgallery.com/Packages/poshy-code-search/0.3.3.0) | 0.3.3.0
+
+### Published: 08/28/2023 02:24:27 by Pwshrc Maintainers
+
+Convenient cmdlets for text searches against source code files.
+
+__Downloads__: 13 | __Repository__: https://github.com/pwshrc/poshy-code-search
 
 ## [NabuNetManager](https://www.powershellgallery.com/Packages/NabuNetManager/0.0.9) | 0.0.9
 
@@ -389,7 +549,7 @@ __Downloads__: 2 | __Repository__: https://github.com/Atkelar/nabunet
 
 Manage certificates and their permissions on a Windows server.
 
-__Downloads__: 525 | __Repository__: https://github.com/brianary/CertAdmin/
+__Downloads__: 527 | __Repository__: https://github.com/brianary/CertAdmin/
 
 ## [NerdFonts](https://www.powershellgallery.com/Packages/NerdFonts/0.0.8) | 0.0.8
 
@@ -397,7 +557,7 @@ __Downloads__: 525 | __Repository__: https://github.com/brianary/CertAdmin/
 
 A PowerShell module to manage NerdFonts
 
-__Downloads__: 37 | __Repository__: https://github.com/MariusStorhaug/NerdFonts
+__Downloads__: 41 | __Repository__: https://github.com/MariusStorhaug/NerdFonts
 
 ## [GitHub](https://www.powershellgallery.com/Packages/GitHub/0.0.22) | 0.0.22
 
@@ -421,15 +581,7 @@ __Downloads__: 77 | __Repository__: https://github.com/MariusStorhaug/Fonts
 
 PowerShell made Posh - Spice up Your Shell
 
-__Downloads__: 180 | __Repository__: https://github.com/StartAutomating/Posh
-
-## [tiPS](https://www.powershellgallery.com/Packages/tiPS/0.0.19) | 0.0.19
-
-### Published: 08/27/2023 19:35:51 by Daniel Schroeder
-
-PowerShell tips delivered straight to your terminal 💻.
-
-__Downloads__: 62 | __Repository__: https://github.com/deadlydog/PowerShell.tiPS
+__Downloads__: 177 | __Repository__: https://github.com/StartAutomating/Posh
 
 ## [LogicMonitor](https://www.powershellgallery.com/Packages/LogicMonitor/2023.8.27.0) | 2023.8.27.0
 
@@ -439,13 +591,21 @@ LogicMonitor REST API-related functions.
 
 __Downloads__: 9,988 | __Repository__: https://github.com/wetling23/logicmonitor-posh-module
 
+## [malu](https://www.powershellgallery.com/Packages/malu/1.0) | 1.0
+
+### Published: 08/27/2023 18:12:15 by Mario Luechinger
+
+Powershell Module created by Mario Luechinger
+
+__Downloads__: 4 | __Repository__: 
+
 ## [GitlabCli](https://www.powershellgallery.com/Packages/GitlabCli/1.101.2) | 1.101.2
 
 ### Published: 08/27/2023 17:44:24 by Chris Peterson
 
 Interact with GitLab via PowerShell
 
-__Downloads__: 13,570 | __Repository__: https://github.com/chris-peterson/pwsh-gitlab
+__Downloads__: 13,576 | __Repository__: https://github.com/chris-peterson/pwsh-gitlab
 
 ## [GetLicenseInfo](https://www.powershellgallery.com/Packages/GetLicenseInfo/1.0.6) | 1.0.6
 
@@ -453,7 +613,7 @@ __Downloads__: 13,570 | __Repository__: https://github.com/chris-peterson/pwsh-g
 
 Simple PS module that retrieves and displays (possibly as report) information about licenses assigned to user. Makes use of display names provided by Microsoft in separate CSV file, and displays when product was assigned to user
 
-__Downloads__: 72 | __Repository__: https://github.com/jformacek/GetLicenseInfo
+__Downloads__: 73 | __Repository__: https://github.com/jformacek/GetLicenseInfo
 
 ## [VirtualDesktop](https://www.powershellgallery.com/Packages/VirtualDesktop/1.5.4) | 1.5.4
 
@@ -468,7 +628,7 @@ VirtualDesktop is a module that provides commandlets to manage virtual desktops 
 * only Windows 11: Move-Desktop, Remove-AllDesktops, Set-DesktopWallpaper and Set-AllDesktopWallpapers
 and other commandlets
 
-__Downloads__: 10,750 | __Repository__: https://github.com/MScholtes/PSVirtualDesktop
+__Downloads__: 10,747 | __Repository__: https://github.com/MScholtes/PSVirtualDesktop
 
 ## [AppManiProgramManager](https://www.powershellgallery.com/Packages/AppManiProgramManager/1.36.3) | 1.36.3
 
@@ -484,7 +644,7 @@ __Downloads__: 104,616 | __Repository__:
 
 Wrapper for Robocopy
 
-__Downloads__: 6,074,049 | __Repository__: https://github.com/sbergwall/RobocopyPS
+__Downloads__: 6,073,884 | __Repository__: https://github.com/sbergwall/RobocopyPS
 
 ## [AadAuthenticationFactory](https://www.powershellgallery.com/Packages/AadAuthenticationFactory/3.0.3) | 3.0.3
 
@@ -500,7 +660,7 @@ __Downloads__: 16,466 | __Repository__: https://github.com/GreyCorbel/AadAuthent
 
 PSWriteHTML is PowerShell Module to generate beautiful HTML reports, pages, emails without any knowledge of HTML, CSS or JavaScript. To get started basics PowerShell knowledge is required.
 
-__Downloads__: 1,989,723 | __Repository__: https://github.com/EvotecIT/PSWriteHTML
+__Downloads__: 1,989,569 | __Repository__: https://github.com/EvotecIT/PSWriteHTML
 
 ## [PSPuTTYCfg](https://www.powershellgallery.com/Packages/PSPuTTYCfg/0.2.12) | 0.2.12
 
@@ -516,7 +676,7 @@ __Downloads__: 406 | __Repository__: https://github.com/ralish/PSPuTTYCfg
 
 Create evergreen Windows image builds with the latest versions of applications. Evergreen is a simple PowerShell module that retrieves the latest version numbers and download URLs for various software products directly from the vendor source.
 
-__Downloads__: 1,882,849 | __Repository__: https://stealthpuppy.com/evergreen/
+__Downloads__: 1,882,598 | __Repository__: https://stealthpuppy.com/evergreen/
 
 ## [Airpower](https://www.powershellgallery.com/Packages/Airpower/0.6.3) | 0.6.3
 
@@ -550,14 +710,6 @@ This module contains SACRED logic for rotating Azure Cosmos DB keys.
 
 __Downloads__: 5 | __Repository__: https://github.com/ccdigix/SACRED
 
-## [DISMTasks](https://www.powershellgallery.com/Packages/DISMTasks/0.1) | 0.1
-
-### Published: 08/26/2023 18:09:32 by https://github.com/sharedstuff
-
-PowerShell module to build provisioned Windows zero-touch Images (with zero human interaction)
-
-__Downloads__: 3 | __Repository__: 
-
 ## [Posh-ACME.net46](https://www.powershellgallery.com/Packages/Posh-ACME.net46/4.19.0) | 4.19.0
 
 ### Published: 08/26/2023 17:08:42 by Ryan Bolger
@@ -573,7 +725,7 @@ __Downloads__: 6,850 | __Repository__: https://github.com/rmbolger/Posh-ACME
 
 ACME protocol client for obtaining certificates using Let's Encrypt (or other ACME compliant CA)
 
-__Downloads__: 1,114,092 | __Repository__: https://github.com/rmbolger/Posh-ACME
+__Downloads__: 1,114,044 | __Repository__: https://github.com/rmbolger/Posh-ACME
 
 ## [GitHub.Copilot](https://www.powershellgallery.com/Packages/GitHub.Copilot/0.0.1) | 0.0.1
 
@@ -581,7 +733,7 @@ __Downloads__: 1,114,092 | __Repository__: https://github.com/rmbolger/Posh-ACME
 
 PowerShell Module for GitHub.Repos
 
-__Downloads__: 3 | __Repository__: https://github.com/MariusStorhaug/GitHub
+__Downloads__: 2 | __Repository__: https://github.com/MariusStorhaug/GitHub
 
 ## [CosmosLite](https://www.powershellgallery.com/Packages/CosmosLite/3.0.0) | 3.0.0
 
@@ -632,6 +784,14 @@ A PowerShell module to generate an as built report on the configuration of VMwar
 
 __Downloads__: 616 | __Repository__: https://github.com/AsBuiltReport/AsBuiltReport.VMware.SRM
 
+## [AtlassianCloudPS](https://www.powershellgallery.com/Packages/AtlassianCloudPS/0.6.7) | 0.6.7
+
+### Published: 08/25/2023 21:26:30 by Andy Lyonette
+
+Interact with the Atlassian Cloud APIs using PowerShell
+
+__Downloads__: 1,619 | __Repository__: https://github.com/andylyonette/AtlassianCloudPS
+
 ## [CircleCIDSCW](https://www.powershellgallery.com/Packages/CircleCIDSCW/1.0.129) | 1.0.129
 
 ### Published: 08/25/2023 21:09:19 by CircleCI
@@ -654,15 +814,7 @@ __Downloads__: 7 | __Repository__:
 
 This module allows the usage oft the SharePoint Online Client Side Object Model (CSOM) libraries at Azure Runbooks.This module uses the libraries from the NuGet package "Microsoft.SharePointOnline.CSOM.16.1.23912.12000".
 
-__Downloads__: 18,513 | __Repository__: https://github.com/sbattenberg/SharePointOnline.CSOM
-
-## [SafeInvokeModule](https://www.powershellgallery.com/Packages/SafeInvokeModule/1.3.0) | 1.3.0
-
-### Published: 08/25/2023 20:42:42 by Jean-Pierre Planas
-
-This module contains a function Invoke-SafeCommand that will raise an error if the command is already on error
-
-__Downloads__: 12 | __Repository__: 
+__Downloads__: 18,528 | __Repository__: https://github.com/sbattenberg/SharePointOnline.CSOM
 
 ## [Utilities](https://www.powershellgallery.com/Packages/Utilities/0.0.15) | 0.0.15
 
@@ -702,7 +854,7 @@ __Downloads__: 2 | __Repository__:
 
 A module for running and creating quizzes to learn PowerShell. Quizzes are stored as JSON files.
 
-__Downloads__: 20 | __Repository__: https://github.com/jdhitsolutions/PSQuizMaster
+__Downloads__: 19 | __Repository__: https://github.com/jdhitsolutions/PSQuizMaster
 
 ## [Rpic.PowerShell](https://www.powershellgallery.com/Packages/Rpic.PowerShell/1.7.1) | 1.7.1
 
@@ -710,7 +862,7 @@ __Downloads__: 20 | __Repository__: https://github.com/jdhitsolutions/PSQuizMast
 
 Contains a set of resuable PowerShell functions for working with Azure Resource Manager and Bicep.
 
-__Downloads__: 98 | __Repository__: 
+__Downloads__: 106 | __Repository__: 
 
 ## [Liquit.Server.PowerShell](https://www.powershellgallery.com/Packages/Liquit.Server.PowerShell/4.0.3252.5660) | 4.0.3252.5660
 
@@ -750,7 +902,7 @@ __Downloads__: 3 | __Repository__: https://github.com/ccdigix/SACRED
 
 Functions to support Microsoft Dynamics 365 Business Central / Dynamics NAV development and integration with the Azure DevOps REST API
 
-__Downloads__: 2,410 | __Repository__: 
+__Downloads__: 2,411 | __Repository__: 
 
 ## [Puppet.Dsc](https://www.powershellgallery.com/Packages/Puppet.Dsc/1.0.6) | 1.0.6
 
@@ -774,7 +926,7 @@ __Downloads__: 35 | __Repository__:
 
 Provide a better and easier way for GitHub Actions to communicate with the runner machine, and the toolkit for developing GitHub Actions in PowerShell.
 
-__Downloads__: 76,786 | __Repository__: https://github.com/hugoalh-studio/ghactions-toolkit-powershell
+__Downloads__: 76,797 | __Repository__: https://github.com/hugoalh-studio/ghactions-toolkit-powershell
 
 ## [RiverMeadow.Release.Migrate](https://www.powershellgallery.com/Packages/RiverMeadow.Release.Migrate/1.0.116.318) | 1.0.116.318
 
@@ -790,7 +942,7 @@ __Downloads__: 124 | __Repository__: https://migrate.rivermeadow.com/
 
 Provides cmdlets for starting migration of applications to supported clouds using the RiverMeadow platform.
 
-__Downloads__: 391 | __Repository__: https://migrate.rivermeadow.com/
+__Downloads__: 392 | __Repository__: https://migrate.rivermeadow.com/
 
 ## [JiraPS](https://www.powershellgallery.com/Packages/JiraPS/2.14.7) | 2.14.7
 
@@ -798,7 +950,7 @@ __Downloads__: 391 | __Repository__: https://migrate.rivermeadow.com/
 
 Windows PowerShell module to interact with Atlassian JIRA
 
-__Downloads__: 1,421,873 | __Repository__: https://atlassianps.org/module/JiraPS
+__Downloads__: 1,421,806 | __Repository__: https://atlassianps.org/module/JiraPS
 
 ## [xDhcpServerOption119](https://www.powershellgallery.com/Packages/xDhcpServerOption119/0.9) | 0.9
 
@@ -822,7 +974,7 @@ __Downloads__: 77 | __Repository__: https://github.com/CriticalSolutionsNetwork/
 
 Provides helper functions for Microsoft Azure.
 
-__Downloads__: 1,794 | __Repository__: https://devdeer.com/
+__Downloads__: 1,795 | __Repository__: https://devdeer.com/
 
 ## [IDandCollabTools](https://www.powershellgallery.com/Packages/IDandCollabTools/1.3) | 1.3
 
@@ -830,7 +982,7 @@ __Downloads__: 1,794 | __Repository__: https://devdeer.com/
 
 A module containing helper functions for common tasks involving Azure AD and M365
 
-__Downloads__: 48 | __Repository__: 
+__Downloads__: 49 | __Repository__: 
 
 ## [SACRED.Util.Azure](https://www.powershellgallery.com/Packages/SACRED.Util.Azure/0.0.1) | 0.0.1
 
@@ -886,7 +1038,7 @@ __Downloads__: 2 | __Repository__:
 
 PowerShellAI Functions Module a PowerShell module designed to work as a bridge between PowerShell functions and OpenAI.
 
-__Downloads__: 1,634 | __Repository__: https://github.com/dfinke/PowerShellAI.Functions
+__Downloads__: 1,631 | __Repository__: https://github.com/dfinke/PowerShellAI.Functions
 
 ## [ActiveDirectoryDsc](https://www.powershellgallery.com/Packages/ActiveDirectoryDsc/6.3.0) | 6.3.0
 
@@ -896,7 +1048,7 @@ The ActiveDirectoryDsc module contains DSC resources for deployment and configur
 
 These DSC resources allow you to configure new domains, child domains, and high availability domain controllers, establish cross-domain trusts and manage users, groups and OUs.
 
-__Downloads__: 5,170,472 | __Repository__: https://github.com/dsccommunity/ActiveDirectoryDsc
+__Downloads__: 5,170,417 | __Repository__: https://github.com/dsccommunity/ActiveDirectoryDsc
 
 ## [PsDac](https://www.powershellgallery.com/Packages/PsDac/1.6.0) | 1.6.0
 
@@ -904,7 +1056,7 @@ __Downloads__: 5,170,472 | __Repository__: https://github.com/dsccommunity/Activ
 
 PsDac connects DacFx and PowerShell. It gives you PowerShell Cmdlets with the power of Microsoft.SqlServer.DacFx.
 
-__Downloads__: 2,780 | __Repository__: https://abbgrade.github.io/PsDac/
+__Downloads__: 2,762 | __Repository__: https://abbgrade.github.io/PsDac/
 
 ## [PsSmo](https://www.powershellgallery.com/Packages/PsSmo/1.2.0) | 1.2.0
 
@@ -912,7 +1064,7 @@ __Downloads__: 2,780 | __Repository__: https://abbgrade.github.io/PsDac/
 
 The PowerShell SQL Client module replaces the SQL Server utilities SQLCMD with native PowerShell commands.
 
-__Downloads__: 1,131 | __Repository__: https://github.com/abbgrade/PsSmo
+__Downloads__: 1,137 | __Repository__: https://github.com/abbgrade/PsSmo
 
 ## [Easit.GO.Webservice](https://www.powershellgallery.com/Packages/Easit.GO.Webservice/1.0.0) | 1.0.0
 
@@ -920,7 +1072,7 @@ __Downloads__: 1,131 | __Repository__: https://github.com/abbgrade/PsSmo
 
 Module to be used with Easit GO WebAPI
 
-__Downloads__: 2 | __Repository__: https://github.com/easitab/Easit.GO.Webservice
+__Downloads__: 3 | __Repository__: https://github.com/easitab/Easit.GO.Webservice
 
 ## [DevOpsFeedHelper](https://www.powershellgallery.com/Packages/DevOpsFeedHelper/0.3.0) | 0.3.0
 
@@ -928,7 +1080,7 @@ __Downloads__: 2 | __Repository__: https://github.com/easitab/Easit.GO.Webservic
 
 This module exposes functionality to easily connect and/or maintain connections to DevOps Artifacts Feeds through PowerShell.
 
-__Downloads__: 576 | __Repository__: https://github.com/peter-de-wit/DevOpsFeedHelper
+__Downloads__: 580 | __Repository__: https://github.com/peter-de-wit/DevOpsFeedHelper
 
 ## [PPDM-pwsh](https://www.powershellgallery.com/Packages/PPDM-pwsh/19.14.20.77) | 19.14.20.77
 
@@ -936,7 +1088,7 @@ __Downloads__: 576 | __Repository__: https://github.com/peter-de-wit/DevOpsFeedH
 
 Powershell Module to interact with the PowerProdect Data Manager (PPDM) API
 
-__Downloads__: 3,366 | __Repository__: https://github.com/bottkars/PPDM-pwsh
+__Downloads__: 3,367 | __Repository__: https://github.com/bottkars/PPDM-pwsh
 
 ## [InActiveOwners](https://www.powershellgallery.com/Packages/InActiveOwners/1.0.29) | 1.0.29
 
@@ -1112,7 +1264,7 @@ __Downloads__: 110 | __Repository__: https://scripting.arcus-azure.net/
 
 A module for storing and reading configuration values, with full PS Data serialization, automatic configuration for modules and scripts, etc.
 
-__Downloads__: 361,560 | __Repository__: https://github.com/PoshCode/Configuration
+__Downloads__: 361,571 | __Repository__: https://github.com/PoshCode/Configuration
 
 ## [DupreeFunctions](https://www.powershellgallery.com/Packages/DupreeFunctions/2.0.13) | 2.0.13
 
@@ -1162,7 +1314,7 @@ __Downloads__: 4 | __Repository__: https://github.com/widedata/scripts/tree/main
 
 Powershell module to interact with the ServiceNow REST API
 
-__Downloads__: 198 | __Repository__: https://github.com/insomniacc/PSSnow
+__Downloads__: 199 | __Repository__: https://github.com/insomniacc/PSSnow
 
 ## [DialogBoxes](https://www.powershellgallery.com/Packages/DialogBoxes/0.2.3) | 0.2.3
 
@@ -1171,6 +1323,14 @@ __Downloads__: 198 | __Repository__: https://github.com/insomniacc/PSSnow
 Interact with the user via pop up boxes and confirmations.
 
 __Downloads__: 32 | __Repository__: 
+
+## [Nectar10](https://www.powershellgallery.com/Packages/Nectar10/3.59) | 3.59
+
+### Published: 08/23/2023 18:19:40 by Ken Lasko
+
+PowerShell module for Nectar DXP
+
+__Downloads__: 1,019 | __Repository__: 
 
 ## [snek](https://www.powershellgallery.com/Packages/snek/2.0) | 2.0
 
@@ -1219,7 +1379,7 @@ __Downloads__: 43 | __Repository__: https://github.com/JeshuaEdgar/msp-toolbox
 
 Qumulo Powershell Toolkit will help the Qumulo customers who uses Microsoft PowerShell for their daily operations.
 
-__Downloads__: 313 | __Repository__: 
+__Downloads__: 314 | __Repository__: 
 
 ## [PSDev](https://www.powershellgallery.com/Packages/PSDev/1.4.1) | 1.4.1
 
@@ -1283,7 +1443,7 @@ __Downloads__: 16,639 | __Repository__: https://github.com/jformacek/S.DS.P
 
 A collection of handy tools
 
-__Downloads__: 19 | __Repository__: https://github.com/TrustyTristan/TrustyTools
+__Downloads__: 21 | __Repository__: https://github.com/TrustyTristan/TrustyTools
 
 ## [PSDotLiquid](https://www.powershellgallery.com/Packages/PSDotLiquid/1.0.4) | 1.0.4
 
@@ -1300,7 +1460,7 @@ __Downloads__: 17 | __Repository__:
 
 PowerShell Module for GitHub.Gists
 
-__Downloads__: 568 | __Repository__: https://github.com/MariusStorhaug/GitHub
+__Downloads__: 574 | __Repository__: https://github.com/MariusStorhaug/GitHub
 
 ## [GitHub.Users](https://www.powershellgallery.com/Packages/GitHub.Users/0.0.11) | 0.0.11
 
@@ -1308,7 +1468,15 @@ __Downloads__: 568 | __Repository__: https://github.com/MariusStorhaug/GitHub
 
 PowerShell Module for GitHub.Users
 
-__Downloads__: 559 | __Repository__: https://github.com/MariusStorhaug/GitHub
+__Downloads__: 565 | __Repository__: https://github.com/MariusStorhaug/GitHub
+
+## [GitHub.Deployments](https://www.powershellgallery.com/Packages/GitHub.Deployments/0.0.8) | 0.0.8
+
+### Published: 08/23/2023 00:55:05 by Marius Storhaug
+
+PowerShell Module for GitHub.Deployments
+
+__Downloads__: 563 | __Repository__: https://github.com/MariusStorhaug/GitHub
 
 ## [GitHub.ServerStatistics](https://www.powershellgallery.com/Packages/GitHub.ServerStatistics/0.0.11) | 0.0.11
 
@@ -1326,37 +1494,21 @@ PowerShell Module for GitHub.Teams
 
 __Downloads__: 549 | __Repository__: https://github.com/MariusStorhaug/GitHub
 
-## [GitHub.OAuthAuthorizations](https://www.powershellgallery.com/Packages/GitHub.OAuthAuthorizations/0.0.11) | 0.0.11
-
-### Published: 08/23/2023 00:55:03 by Marius Storhaug
-
-PowerShell Module for GitHub.OAuthAuthorizations
-
-__Downloads__: 792 | __Repository__: https://github.com/MariusStorhaug/GitHub
-
 ## [GitHub.Meta](https://www.powershellgallery.com/Packages/GitHub.Meta/0.0.10) | 0.0.10
 
 ### Published: 08/23/2023 00:55:03 by Marius Storhaug
 
 PowerShell Module for GitHub.Meta
 
-__Downloads__: 648 | __Repository__: https://github.com/MariusStorhaug/GitHub
+__Downloads__: 654 | __Repository__: https://github.com/MariusStorhaug/GitHub
 
-## [Github.Dependabot](https://www.powershellgallery.com/Packages/Github.Dependabot/0.0.11) | 0.0.11
+## [GitHub.OAuthAuthorizations](https://www.powershellgallery.com/Packages/GitHub.OAuthAuthorizations/0.0.11) | 0.0.11
 
-### Published: 08/23/2023 00:55:02 by Marius Storhaug
+### Published: 08/23/2023 00:55:03 by Marius Storhaug
 
-PowerShell Module for GitHub.Dependabot
+PowerShell Module for GitHub.OAuthAuthorizations
 
-__Downloads__: 637 | __Repository__: https://github.com/MariusStorhaug/GitHub
-
-## [GitHub.Checks](https://www.powershellgallery.com/Packages/GitHub.Checks/0.0.11) | 0.0.11
-
-### Published: 08/23/2023 00:55:02 by Marius Storhaug
-
-PowerShell Module for GitHub.Checks
-
-__Downloads__: 579 | __Repository__: https://github.com/MariusStorhaug/GitHub
+__Downloads__: 798 | __Repository__: https://github.com/MariusStorhaug/GitHub
 
 ## [GitHub.Billing](https://www.powershellgallery.com/Packages/GitHub.Billing/0.0.11) | 0.0.11
 
@@ -1364,15 +1516,23 @@ __Downloads__: 579 | __Repository__: https://github.com/MariusStorhaug/GitHub
 
 PowerShell Module for GitHub.Billing
 
-__Downloads__: 601 | __Repository__: https://github.com/MariusStorhaug/GitHub
+__Downloads__: 607 | __Repository__: https://github.com/MariusStorhaug/GitHub
 
-## [GitHub.Licenses](https://www.powershellgallery.com/Packages/GitHub.Licenses/0.0.11) | 0.0.11
+## [GitHub.Checks](https://www.powershellgallery.com/Packages/GitHub.Checks/0.0.11) | 0.0.11
 
-### Published: 08/23/2023 00:55:00 by Marius Storhaug
+### Published: 08/23/2023 00:55:02 by Marius Storhaug
 
-PowerShell Module for GitHub.Licenses
+PowerShell Module for GitHub.Checks
 
-__Downloads__: 560 | __Repository__: https://github.com/MariusStorhaug/GitHub
+__Downloads__: 585 | __Repository__: https://github.com/MariusStorhaug/GitHub
+
+## [Github.Dependabot](https://www.powershellgallery.com/Packages/Github.Dependabot/0.0.11) | 0.0.11
+
+### Published: 08/23/2023 00:55:02 by Marius Storhaug
+
+PowerShell Module for GitHub.Dependabot
+
+__Downloads__: 643 | __Repository__: https://github.com/MariusStorhaug/GitHub
 
 ## [GitHub.GitIgnore](https://www.powershellgallery.com/Packages/GitHub.GitIgnore/0.0.12) | 0.0.12
 
@@ -1380,7 +1540,7 @@ __Downloads__: 560 | __Repository__: https://github.com/MariusStorhaug/GitHub
 
 PowerShell Module for GitHub.Search
 
-__Downloads__: 596 | __Repository__: https://github.com/MariusStorhaug/GitHub
+__Downloads__: 602 | __Repository__: https://github.com/MariusStorhaug/GitHub
 
 ## [GitHub.Reactions](https://www.powershellgallery.com/Packages/GitHub.Reactions/0.0.11) | 0.0.11
 
@@ -1388,7 +1548,15 @@ __Downloads__: 596 | __Repository__: https://github.com/MariusStorhaug/GitHub
 
 PowerShell Module for GitHub.Reactions
 
-__Downloads__: 580 | __Repository__: https://github.com/MariusStorhaug/GitHub
+__Downloads__: 586 | __Repository__: https://github.com/MariusStorhaug/GitHub
+
+## [GitHub.Licenses](https://www.powershellgallery.com/Packages/GitHub.Licenses/0.0.11) | 0.0.11
+
+### Published: 08/23/2023 00:55:00 by Marius Storhaug
+
+PowerShell Module for GitHub.Licenses
+
+__Downloads__: 566 | __Repository__: https://github.com/MariusStorhaug/GitHub
 
 ## [GitHub.CodesOfConduct](https://www.powershellgallery.com/Packages/GitHub.CodesOfConduct/0.0.11) | 0.0.11
 
@@ -1396,7 +1564,15 @@ __Downloads__: 580 | __Repository__: https://github.com/MariusStorhaug/GitHub
 
 PowerShell Module for GitHub.CodesOfConduct
 
-__Downloads__: 588 | __Repository__: 
+__Downloads__: 594 | __Repository__: 
+
+## [GitHub.Projects](https://www.powershellgallery.com/Packages/GitHub.Projects/0.0.11) | 0.0.11
+
+### Published: 08/23/2023 00:54:59 by Marius Storhaug
+
+PowerShell Module for GitHub.Projects
+
+__Downloads__: 561 | __Repository__: https://github.com/MariusStorhaug/GitHub
 
 ## [GitHub.Commits](https://www.powershellgallery.com/Packages/GitHub.Commits/0.0.9) | 0.0.9
 
@@ -1406,29 +1582,21 @@ PowerShell Module for GitHub.Commits
 
 __Downloads__: 551 | __Repository__: https://github.com/MariusStorhaug/GitHub
 
+## [GitHub.Migrations](https://www.powershellgallery.com/Packages/GitHub.Migrations/0.0.11) | 0.0.11
+
+### Published: 08/23/2023 00:54:58 by Marius Storhaug
+
+PowerShell Module for GitHub.Migrations
+
+__Downloads__: 564 | __Repository__: https://github.com/MariusStorhaug/GitHub
+
 ## [GitHub.Apps](https://www.powershellgallery.com/Packages/GitHub.Apps/0.0.11) | 0.0.11
 
 ### Published: 08/23/2023 00:54:58 by Marius Storhaug
 
 PowerShell Module for GitHub.Apps
 
-__Downloads__: 593 | __Repository__: https://github.com/MariusStorhaug/GitHub
-
-## [GitHub.Search](https://www.powershellgallery.com/Packages/GitHub.Search/0.0.12) | 0.0.12
-
-### Published: 08/23/2023 00:54:57 by Marius Storhaug
-
-PowerShell Module for GitHub.GitIgnore
-
-__Downloads__: 606 | __Repository__: https://github.com/MariusStorhaug/GitHub
-
-## [GitHub.Activity](https://www.powershellgallery.com/Packages/GitHub.Activity/0.0.11) | 0.0.11
-
-### Published: 08/23/2023 00:54:57 by Marius Storhaug
-
-PowerShell Module for GitHub.Activity
-
-__Downloads__: 742 | __Repository__: https://github.com/MariusStorhaug/GitHub
+__Downloads__: 599 | __Repository__: https://github.com/MariusStorhaug/GitHub
 
 ## [GitHub.Markdown](https://www.powershellgallery.com/Packages/GitHub.Markdown/0.0.11) | 0.0.11
 
@@ -1436,7 +1604,23 @@ __Downloads__: 742 | __Repository__: https://github.com/MariusStorhaug/GitHub
 
 PowerShell Module for GitHub.Markdown
 
-__Downloads__: 592 | __Repository__: https://github.com/MariusStorhaug/GitHub
+__Downloads__: 598 | __Repository__: https://github.com/MariusStorhaug/GitHub
+
+## [GitHub.Activity](https://www.powershellgallery.com/Packages/GitHub.Activity/0.0.11) | 0.0.11
+
+### Published: 08/23/2023 00:54:57 by Marius Storhaug
+
+PowerShell Module for GitHub.Activity
+
+__Downloads__: 748 | __Repository__: https://github.com/MariusStorhaug/GitHub
+
+## [GitHub.Search](https://www.powershellgallery.com/Packages/GitHub.Search/0.0.12) | 0.0.12
+
+### Published: 08/23/2023 00:54:57 by Marius Storhaug
+
+PowerShell Module for GitHub.GitIgnore
+
+__Downloads__: 612 | __Repository__: https://github.com/MariusStorhaug/GitHub
 
 ## [GitHub.Webhooks](https://www.powershellgallery.com/Packages/GitHub.Webhooks/0.0.8) | 0.0.8
 
@@ -1452,7 +1636,7 @@ __Downloads__: 547 | __Repository__: https://github.com/MariusStorhaug/GitHub
 
 PowerShell Module for GitHub.RateLimit
 
-__Downloads__: 628 | __Repository__: https://github.com/MariusStorhaug/GitHub
+__Downloads__: 634 | __Repository__: https://github.com/MariusStorhaug/GitHub
 
 ## [GitHub.Interactions](https://www.powershellgallery.com/Packages/GitHub.Interactions/0.0.11) | 0.0.11
 
@@ -1460,7 +1644,7 @@ __Downloads__: 628 | __Repository__: https://github.com/MariusStorhaug/GitHub
 
 PowerShell Module for GitHub.Interactions
 
-__Downloads__: 566 | __Repository__: https://github.com/MariusStorhaug/GitHub
+__Downloads__: 572 | __Repository__: https://github.com/MariusStorhaug/GitHub
 
 ## [GitHub.Issues](https://www.powershellgallery.com/Packages/GitHub.Issues/0.0.11) | 0.0.11
 
@@ -1468,7 +1652,7 @@ __Downloads__: 566 | __Repository__: https://github.com/MariusStorhaug/GitHub
 
 PowerShell Module for GitHub.Issues
 
-__Downloads__: 560 | __Repository__: https://github.com/MariusStorhaug/GitHub
+__Downloads__: 566 | __Repository__: https://github.com/MariusStorhaug/GitHub
 
 ## [GitHub.Repos](https://www.powershellgallery.com/Packages/GitHub.Repos/0.0.12) | 0.0.12
 
@@ -1476,7 +1660,7 @@ __Downloads__: 560 | __Repository__: https://github.com/MariusStorhaug/GitHub
 
 PowerShell Module for GitHub.Repos
 
-__Downloads__: 568 | __Repository__: https://github.com/MariusStorhaug/GitHub
+__Downloads__: 574 | __Repository__: https://github.com/MariusStorhaug/GitHub
 
 ## [GitHub.Packages](https://www.powershellgallery.com/Packages/GitHub.Packages/0.0.11) | 0.0.11
 
@@ -1484,7 +1668,23 @@ __Downloads__: 568 | __Repository__: https://github.com/MariusStorhaug/GitHub
 
 PowerShell Module for GitHub.Packages
 
-__Downloads__: 572 | __Repository__: https://github.com/MariusStorhaug/GitHub
+__Downloads__: 578 | __Repository__: https://github.com/MariusStorhaug/GitHub
+
+## [GitHub.Emojis](https://www.powershellgallery.com/Packages/GitHub.Emojis/0.0.11) | 0.0.11
+
+### Published: 08/23/2023 00:54:50 by Marius Storhaug
+
+PowerShell Module for GitHub.Emojis
+
+__Downloads__: 584 | __Repository__: https://github.com/MariusStorhaug/GitHub
+
+## [GitHub.SecretScanning](https://www.powershellgallery.com/Packages/GitHub.SecretScanning/0.0.11) | 0.0.11
+
+### Published: 08/23/2023 00:54:50 by Marius Storhaug
+
+PowerShell Module for GitHub.SecretScanning
+
+__Downloads__: 564 | __Repository__: https://github.com/MariusStorhaug/GitHub
 
 ## [GitHub.Branches](https://www.powershellgallery.com/Packages/GitHub.Branches/0.0.9) | 0.0.9
 
@@ -1494,29 +1694,13 @@ PowerShell Module for GitHub.Branches
 
 __Downloads__: 560 | __Repository__: https://github.com/MariusStorhaug/GitHub
 
-## [GitHub.Emojis](https://www.powershellgallery.com/Packages/GitHub.Emojis/0.0.11) | 0.0.11
-
-### Published: 08/23/2023 00:54:50 by Marius Storhaug
-
-PowerShell Module for GitHub.Emojis
-
-__Downloads__: 578 | __Repository__: https://github.com/MariusStorhaug/GitHub
-
 ## [GitHub.SCIM](https://www.powershellgallery.com/Packages/GitHub.SCIM/0.0.11) | 0.0.11
 
 ### Published: 08/23/2023 00:54:49 by Marius Storhaug
 
 PowerShell Module for GitHub.SCIM
 
-__Downloads__: 626 | __Repository__: https://github.com/MariusStorhaug/GitHub
-
-## [GitHub.CodeScanning](https://www.powershellgallery.com/Packages/GitHub.CodeScanning/0.0.11) | 0.0.11
-
-### Published: 08/23/2023 00:54:49 by Marius Storhaug
-
-PowerShell Module for GitHub.CodeScanning
-
-__Downloads__: 594 | __Repository__: https://github.com/MariusStorhaug/GitHub
+__Downloads__: 632 | __Repository__: https://github.com/MariusStorhaug/GitHub
 
 ## [GitHub.Git](https://www.powershellgallery.com/Packages/GitHub.Git/0.0.11) | 0.0.11
 
@@ -1524,7 +1708,15 @@ __Downloads__: 594 | __Repository__: https://github.com/MariusStorhaug/GitHub
 
 PowerShell Module for GitHub.Git
 
-__Downloads__: 591 | __Repository__: https://github.com/MariusStorhaug/GitHub
+__Downloads__: 597 | __Repository__: https://github.com/MariusStorhaug/GitHub
+
+## [GitHub.CodeScanning](https://www.powershellgallery.com/Packages/GitHub.CodeScanning/0.0.11) | 0.0.11
+
+### Published: 08/23/2023 00:54:49 by Marius Storhaug
+
+PowerShell Module for GitHub.CodeScanning
+
+__Downloads__: 600 | __Repository__: https://github.com/MariusStorhaug/GitHub
 
 ## [GitHub.EnterpriseAdmin](https://www.powershellgallery.com/Packages/GitHub.EnterpriseAdmin/0.0.11) | 0.0.11
 
@@ -1532,15 +1724,7 @@ __Downloads__: 591 | __Repository__: https://github.com/MariusStorhaug/GitHub
 
 PowerShell Module for GitHub.EnterpriseAdmin
 
-__Downloads__: 575 | __Repository__: https://github.com/MariusStorhaug/GitHub
-
-## [GitHub.Collaborators](https://www.powershellgallery.com/Packages/GitHub.Collaborators/0.0.9) | 0.0.9
-
-### Published: 08/23/2023 00:54:48 by Marius Storhaug
-
-PowerShell Module for GitHub.Collaborators
-
-__Downloads__: 564 | __Repository__: https://github.com/MariusStorhaug/GitHub
+__Downloads__: 581 | __Repository__: https://github.com/MariusStorhaug/GitHub
 
 ## [GitHub.Codespaces](https://www.powershellgallery.com/Packages/GitHub.Codespaces/0.0.11) | 0.0.11
 
@@ -1548,7 +1732,7 @@ __Downloads__: 564 | __Repository__: https://github.com/MariusStorhaug/GitHub
 
 PowerShell Module for GitHub.Codespaces
 
-__Downloads__: 589 | __Repository__: https://github.com/MariusStorhaug/GitHub
+__Downloads__: 595 | __Repository__: https://github.com/MariusStorhaug/GitHub
 
 ## [GitHub.Actions](https://www.powershellgallery.com/Packages/GitHub.Actions/0.0.12) | 0.0.12
 
@@ -1556,7 +1740,15 @@ __Downloads__: 589 | __Repository__: https://github.com/MariusStorhaug/GitHub
 
 PowerShell Module for GitHub.Actions
 
-__Downloads__: 636 | __Repository__: https://github.com/MariusStorhaug/GitHub
+__Downloads__: 642 | __Repository__: https://github.com/MariusStorhaug/GitHub
+
+## [GitHub.Collaborators](https://www.powershellgallery.com/Packages/GitHub.Collaborators/0.0.9) | 0.0.9
+
+### Published: 08/23/2023 00:54:48 by Marius Storhaug
+
+PowerShell Module for GitHub.Collaborators
+
+__Downloads__: 570 | __Repository__: https://github.com/MariusStorhaug/GitHub
 
 ## [GitHub.Pulls](https://www.powershellgallery.com/Packages/GitHub.Pulls/0.0.10) | 0.0.10
 
@@ -1572,7 +1764,7 @@ __Downloads__: 560 | __Repository__: https://github.com/MariusStorhaug/GitHub
 
 PowerShell Module for Public IP
 
-__Downloads__: 69 | __Repository__: https://github.com/MariusStorhaug/PublicIP
+__Downloads__: 70 | __Repository__: https://github.com/MariusStorhaug/PublicIP
 
 ## [RemoteGroup](https://www.powershellgallery.com/Packages/RemoteGroup/1.0.3) | 1.0.3
 
@@ -1580,7 +1772,7 @@ __Downloads__: 69 | __Repository__: https://github.com/MariusStorhaug/PublicIP
 
 Allows a Windows administrator to get/add/remove local group membership on a remote system using ADSI/Powershell functions. This module assumes that Administrator has the appropriate permissions to modify the group membership on a remote system.
 
-__Downloads__: 14 | __Repository__: 
+__Downloads__: 15 | __Repository__: 
 
 ## [psPAS](https://www.powershellgallery.com/Packages/psPAS/6.0.2) | 6.0.2
 
@@ -1596,7 +1788,7 @@ __Downloads__: 75,544 | __Repository__: https://pspas.pspete.dev/
 
 A PowerShell module for managing the PATH environment variable.
 
-__Downloads__: 28 | __Repository__: https://github.com/MariusStorhaug/PATH
+__Downloads__: 30 | __Repository__: https://github.com/MariusStorhaug/PATH
 
 ## [psFilesCli](https://www.powershellgallery.com/Packages/psFilesCli/0.1.1) | 0.1.1
 
@@ -1604,7 +1796,7 @@ __Downloads__: 28 | __Repository__: https://github.com/MariusStorhaug/PATH
 
 A PowerShell wrapper for files-cli.exe
 
-__Downloads__: 53 | __Repository__: https://github.com/victormaso/psFilesCLI
+__Downloads__: 54 | __Repository__: https://github.com/victormaso/psFilesCLI
 
 ## [TitanApi](https://www.powershellgallery.com/Packages/TitanApi/0.1.5) | 0.1.5
 
@@ -1612,7 +1804,7 @@ __Downloads__: 53 | __Repository__: https://github.com/victormaso/psFilesCLI
 
 Titan API Powershell SDK
 
-__Downloads__: 20 | __Repository__: https://github.com/southrivertech/titanapi.pub
+__Downloads__: 21 | __Repository__: https://github.com/southrivertech/titanapi.pub
 
 ## [OCI.PSModules](https://www.powershellgallery.com/Packages/OCI.PSModules/65.2.0) | 65.2.0
 
@@ -1863,196 +2055,4 @@ This modules provides Cmdlets for OCI Osuborganizationsubscription Service
 
 __Downloads__: 3,951 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-## [OCI.PSModules.Osubbillingschedule](https://www.powershellgallery.com/Packages/OCI.PSModules.Osubbillingschedule/65.2.0) | 65.2.0
-
-### Published: 08/22/2023 19:03:45 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Osubbillingschedule Service
-
-__Downloads__: 2,182 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Ospgateway](https://www.powershellgallery.com/Packages/OCI.PSModules.Ospgateway/65.2.0) | 65.2.0
-
-### Published: 08/22/2023 19:03:38 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Ospgateway Service
-
-__Downloads__: 2,249 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Osmanagementhub](https://www.powershellgallery.com/Packages/OCI.PSModules.Osmanagementhub/65.2.0) | 65.2.0
-
-### Published: 08/22/2023 19:03:32 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Osmanagementhub Service
-
-__Downloads__: 340 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Osmanagement](https://www.powershellgallery.com/Packages/OCI.PSModules.Osmanagement/65.2.0) | 65.2.0
-
-### Published: 08/22/2023 19:03:25 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Osmanagement Service
-
-__Downloads__: 3,546 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Optimizer](https://www.powershellgallery.com/Packages/OCI.PSModules.Optimizer/65.2.0) | 65.2.0
-
-### Published: 08/22/2023 19:03:18 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Optimizer Service
-
-__Downloads__: 3,675 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Opsi](https://www.powershellgallery.com/Packages/OCI.PSModules.Opsi/65.2.0) | 65.2.0
-
-### Published: 08/22/2023 19:03:12 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Opsi Service
-
-__Downloads__: 3,434 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Operatoraccesscontrol](https://www.powershellgallery.com/Packages/OCI.PSModules.Operatoraccesscontrol/65.2.0) | 65.2.0
-
-### Published: 08/22/2023 19:03:05 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Operatoraccesscontrol Service
-
-__Downloads__: 3,357 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Opensearch](https://www.powershellgallery.com/Packages/OCI.PSModules.Opensearch/65.2.0) | 65.2.0
-
-### Published: 08/22/2023 19:02:58 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Opensearch Service
-
-__Downloads__: 1,580 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Opa](https://www.powershellgallery.com/Packages/OCI.PSModules.Opa/65.2.0) | 65.2.0
-
-### Published: 08/22/2023 19:02:52 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Opa Service
-
-__Downloads__: 1,478 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Ons](https://www.powershellgallery.com/Packages/OCI.PSModules.Ons/65.2.0) | 65.2.0
-
-### Published: 08/22/2023 19:02:45 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Ons Service
-
-__Downloads__: 3,550 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Onesubscription](https://www.powershellgallery.com/Packages/OCI.PSModules.Onesubscription/65.2.0) | 65.2.0
-
-### Published: 08/22/2023 19:02:39 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Onesubscription Service
-
-__Downloads__: 1,606 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Oda](https://www.powershellgallery.com/Packages/OCI.PSModules.Oda/65.2.0) | 65.2.0
-
-### Published: 08/22/2023 19:02:32 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Oda Service
-
-__Downloads__: 3,537 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Ocvp](https://www.powershellgallery.com/Packages/OCI.PSModules.Ocvp/65.2.0) | 65.2.0
-
-### Published: 08/22/2023 19:02:26 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Ocvp Service
-
-__Downloads__: 4,396 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Ocicontrolcenter](https://www.powershellgallery.com/Packages/OCI.PSModules.Ocicontrolcenter/65.2.0) | 65.2.0
-
-### Published: 08/22/2023 19:02:20 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Ocicontrolcenter Service
-
-__Downloads__: 379 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Oce](https://www.powershellgallery.com/Packages/OCI.PSModules.Oce/65.2.0) | 65.2.0
-
-### Published: 08/22/2023 19:02:14 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Oce Service
-
-__Downloads__: 3,583 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Objectstorage](https://www.powershellgallery.com/Packages/OCI.PSModules.Objectstorage/65.2.0) | 65.2.0
-
-### Published: 08/22/2023 19:02:07 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Objectstorage Service
-
-__Downloads__: 8,296 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Nosql](https://www.powershellgallery.com/Packages/OCI.PSModules.Nosql/65.2.0) | 65.2.0
-
-### Published: 08/22/2023 19:02:01 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Nosql Service
-
-__Downloads__: 4,377 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Networkloadbalancer](https://www.powershellgallery.com/Packages/OCI.PSModules.Networkloadbalancer/65.2.0) | 65.2.0
-
-### Published: 08/22/2023 19:01:54 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Networkloadbalancer Service
-
-__Downloads__: 3,220 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Networkfirewall](https://www.powershellgallery.com/Packages/OCI.PSModules.Networkfirewall/65.2.0) | 65.2.0
-
-### Published: 08/22/2023 19:01:46 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Networkfirewall Service
-
-__Downloads__: 1,592 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Mysql](https://www.powershellgallery.com/Packages/OCI.PSModules.Mysql/65.2.0) | 65.2.0
-
-### Published: 08/22/2023 19:01:05 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Mysql Service
-
-__Downloads__: 15,127 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Monitoring](https://www.powershellgallery.com/Packages/OCI.PSModules.Monitoring/65.2.0) | 65.2.0
-
-### Published: 08/22/2023 19:00:58 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Monitoring Service
-
-__Downloads__: 3,556 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Mediaservices](https://www.powershellgallery.com/Packages/OCI.PSModules.Mediaservices/65.2.0) | 65.2.0
-
-### Published: 08/22/2023 19:00:52 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Mediaservices Service
-
-__Downloads__: 1,499 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Marketplace](https://www.powershellgallery.com/Packages/OCI.PSModules.Marketplace/65.2.0) | 65.2.0
-
-### Published: 08/22/2023 19:00:45 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Marketplace Service
-
-__Downloads__: 3,541 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Managementdashboard](https://www.powershellgallery.com/Packages/OCI.PSModules.Managementdashboard/65.2.0) | 65.2.0
-
-### Published: 08/22/2023 19:00:38 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Managementdashboard Service
-
-__Downloads__: 4,524 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-*Updated: Monday, 28 August 2023 17:53:32 UTC*
+*Updated: Tuesday, 29 August 2023 02:33:42 UTC*
