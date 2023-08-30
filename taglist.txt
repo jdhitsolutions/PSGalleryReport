@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Wednesday, 30 August 2023 02:02:41 UTC
+Updated: Wednesday, 30 August 2023 09:54:01 UTC
 
 .bat
 .env
@@ -835,7 +835,6 @@ bop
 bot
 bots
 botservice
-bouncer
 boundaries
 boundarygroups
 bounty
@@ -930,7 +929,6 @@ campaign
 camtasia
 canarie
 cancel
-cancellation
 canonical
 cantara
 capability
@@ -1006,7 +1004,6 @@ certera
 certes
 certificate
 certificateauthority
-certificatechain
 certificatemanager
 certificatepolicy
 certificates
@@ -1499,6 +1496,7 @@ crossover
 crossplatform
 crossplatformdevelopment
 crowdstrike
+crt.sh
 crud
 crypto
 cryptocompare
@@ -1516,7 +1514,7 @@ csv
 csv2adx
 ctf
 ctglobal
-ctrl+c
+ctl
 ctx
 ctype
 cubes
@@ -1540,6 +1538,11 @@ customdns
 customer
 customerengagement
 customers
+customeventchannel
+customeventlog
+customeventlogchannel
+customeventlogfile
+customeventlogfiles
 customevents
 custominformationservices
 customis
@@ -1602,7 +1605,6 @@ databaseautomation
 databasemanagement
 databasemigration
 databases
-databasetools
 databooster
 databox
 databoxedge
@@ -1693,6 +1695,7 @@ deduplication
 deep
 deep-security
 deep-security-manager
+deepl
 deepvisibility
 def
 default
@@ -1824,6 +1827,7 @@ disasterrecovery
 disconnect
 discord
 discordrpc
+discount
 discover
 discovery
 discutils
@@ -2051,6 +2055,7 @@ easylife365
 easyvista
 eaton
 ebay
+ebooks
 ebur128
 ec2
 ecommerce
@@ -2139,7 +2144,6 @@ enteo
 enter
 enterprise
 enterprise-scale
-enterprisedb
 enterprisemanager
 enterprisevoice
 entity
@@ -2214,6 +2218,8 @@ event
 event_id
 event_list
 event-timeline
+eventchannel
+eventchannels
 eventcollector
 eventful
 eventgrid
@@ -2221,6 +2227,9 @@ eventhub
 eventing
 eventlist
 eventlog
+eventlogchannel
+eventlogchannels
+eventlogmanifest
 eventlogs
 eventmonitor
 eventmonitoring
@@ -2857,6 +2866,7 @@ hba
 hbase
 hci
 hcl
+hcm
 hcx
 hdfs
 hdinsight
@@ -3048,6 +3058,7 @@ icingaplugins
 icingapowershell
 icingapowershellframework
 icingawindows
+icloud
 icmp
 icon
 icons
@@ -4463,7 +4474,6 @@ operationsmanagementsuiteagent
 operationvalidation
 operatoraccesscontrol
 opml
-ops
 opsi
 opsmgr
 optics
@@ -8076,6 +8086,7 @@ publicip
 publish
 publishedmodules
 publisher
+publishers
 publishing
 pubsub
 pubxml
@@ -8122,6 +8133,7 @@ python
 python-for-dotnet
 python3
 qcloud
+qconvergeconsolepowerkit
 qemu
 qlgc_fc_powerkit
 qlik
@@ -8153,6 +8165,7 @@ query
 queue
 queues
 queuing
+quickaccess
 quickbase
 quickbooks
 quicksetup
@@ -8532,6 +8545,7 @@ safeguard
 sage
 saggiehaim
 sailpoint
+sale
 sales
 salesforce
 salesloft
@@ -9515,6 +9529,7 @@ thermostat
 thinprint
 third-party-libraries
 third-party-notice
+thispc
 thoughtfortheday
 thousandeyes
 thread
@@ -9620,6 +9635,7 @@ translation
 translit
 transliteration
 transmission
+transparency
 transpilation
 trap
 travel
@@ -9728,6 +9744,7 @@ ud-input
 ud-licensed
 ud-loadingoverlay
 ud-minesweeper
+ud-mouseparticle
 ud-navbarsearch
 ud-numbermask
 ud-orgchart
@@ -10067,6 +10084,7 @@ vsan
 vsan+
 vscode
 vsdevcmd
+vsdevshell
 vsenvironment
 vsm
 vso
@@ -10245,6 +10263,7 @@ windowscredentialsmanager
 windowsdataprotectionapi
 windowsdefender
 windowsdesktopsearch
+windowsevent
 windowseventlog
 windowsform
 windowsforms
@@ -10396,11 +10415,8 @@ x.509
 x1
 x2
 x509
-x509cerificate
-x509cerificate2
 x509certificate
 x509certificates
-x509chain
 x64
 x86
 xa
