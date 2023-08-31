@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Thursday, 31 August 2023 02:02:38 UTC
+Updated: Thursday, 31 August 2023 09:53:50 UTC
 
 .bat
 .env
@@ -36,7 +36,6 @@ Updated: Thursday, 31 August 2023 02:02:38 UTC
 21vianet
 24-bit
 2fa
-300
 365
 36867
 3d
@@ -463,9 +462,11 @@ asm
 asn.1
 asn1
 asnbank
+asp
 asp.net
 aspnet
 aspnet_regiis
+asr
 assembleenationale
 assembly
 assemblyloadcontext
@@ -920,7 +921,6 @@ cache
 caf
 cal
 calc
-calculate
 calculator
 calendar
 callingcode
@@ -1639,7 +1639,6 @@ datalabelingservice
 datalabelingservicedataplane
 datalake
 datamanipulation
-datamodel
 datanorm
 dataplatform
 datapro
@@ -1893,7 +1892,6 @@ dns-over-https
 dns-resolver
 dnsbl
 dnsclient
-dnsdumpster
 dnsentry
 dnsimple
 dnslookup
@@ -2155,6 +2153,7 @@ enteo
 enter
 enterprise
 enterprise-scale
+enterprisedb
 enterprisemanager
 enterprisevoice
 entity
@@ -2175,6 +2174,7 @@ envvar
 envvars
 eol
 eop
+eperl
 ephesoft
 epicor
 episode
@@ -2183,6 +2183,7 @@ eprosima
 epub
 epv
 equality
+erb
 erp
 error
 error-log
@@ -2526,6 +2527,7 @@ formatdata
 formatformat-tableformat-listformat-wideformat-customformat-defaultout-defaultout-fileout-hostout-printerout-string
 formatting
 forms
+fortiauth
 forticlient
 fortify
 fortifyondemand
@@ -2985,7 +2987,6 @@ hpc
 hpcc
 hpccache
 hpe
-hpealletra6000andnimblestoragepowershelltoolkit
 hpebioscmdlets
 hpeilocmdlets
 hpemigrationadvisorycmdlets
@@ -3388,6 +3389,7 @@ jsonplus
 jsonwebkey
 jsonwebsignature
 jsonwebtoken
+jsp
 jumbo
 jump
 jump-location
@@ -3520,7 +3522,6 @@ latency
 latestupdate
 latin
 latitude
-launcher
 layer
 layman
 layout
@@ -3613,7 +3614,6 @@ listener
 litecoin
 litedb
 literature
-live
 lldp
 lmhost
 lmhosts
@@ -4056,7 +4056,6 @@ msbi
 msbuild
 mschart
 msdeploy
-msdn
 msdtc
 msedge
 msexcel
@@ -4159,7 +4158,6 @@ nanoleaf
 nartac
 nasdaq
 native
-natpool
 natural-language-to-code
 natural-selection
 nav
@@ -4326,7 +4324,6 @@ nuget-references
 nuget.exe
 nuget.org
 nugetpackageprovider
-number
 numlock
 nunit
 nupkg
@@ -4737,6 +4734,7 @@ pipelines
 pipenv
 pipescript
 piraeus
+pivot
 pivotal
 pivottable
 pixoo
@@ -4990,6 +4988,8 @@ preparead
 preparealldomains
 prepareschema
 prepend
+preprocessing
+preprocessor
 presentation
 presenter
 presto
@@ -6948,6 +6948,7 @@ psedition_windows
 psedition-desktop
 psediton_desktop
 psenv
+pses
 psexcel
 psexec
 psexec.exe
@@ -9334,13 +9335,13 @@ symantec
 symbolic
 symbolic_link
 symboliclink
-symbols
 symbolservers
 symlink
 symmetric
 synapse
 sync
 synchronization
+synchronize
 syndication
 synergy
 syntax
@@ -9586,6 +9587,7 @@ toggl
 toggle
 token
 tokenlifetime
+tokens
 toml
 tookit
 tool
@@ -9693,6 +9695,7 @@ tuner
 tutorial
 tv
 tweet
+twig
 twilio
 twincat
 twinkly
@@ -9973,7 +9976,6 @@ verify
 version
 versioning
 versionmanager
-versionnumber
 vertical
 vester
 vhd
