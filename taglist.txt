@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Thursday, 31 August 2023 09:53:50 UTC
+Updated: Thursday, 31 August 2023 17:52:41 UTC
 
 .bat
 .env
@@ -36,6 +36,7 @@ Updated: Thursday, 31 August 2023 09:53:50 UTC
 21vianet
 24-bit
 2fa
+300
 365
 36867
 3d
@@ -921,6 +922,7 @@ cache
 caf
 cal
 calc
+calculate
 calculator
 calendar
 callingcode
@@ -1639,6 +1641,7 @@ datalabelingservice
 datalabelingservicedataplane
 datalake
 datamanipulation
+datamodel
 datanorm
 dataplatform
 datapro
@@ -1892,6 +1895,7 @@ dns-over-https
 dns-resolver
 dnsbl
 dnsclient
+dnsdumpster
 dnsentry
 dnsimple
 dnslookup
@@ -2395,8 +2399,6 @@ file-encoding
 file-extension
 file-extension-association
 file-invalidchar
-file-matcher
-file-matching
 file-monitoring
 file-name
 file-name-extension
@@ -2413,7 +2415,6 @@ filelist
 filelog
 filelogger
 filemanagement
-filematcher
 filename
 filenames
 fileproperties
@@ -2430,9 +2431,6 @@ filesharing
 filestorage
 filestream
 filesystem
-filesystementry-matcher
-filesystementry-matching
-filesystementrymatcher
 filesystemrights
 filesystemsecurity
 filesystemwatcher
@@ -2987,6 +2985,7 @@ hpc
 hpcc
 hpccache
 hpe
+hpealletra6000andnimblestoragepowershelltoolkit
 hpebioscmdlets
 hpeilocmdlets
 hpemigrationadvisorycmdlets
@@ -3522,6 +3521,7 @@ latency
 latestupdate
 latin
 latitude
+launcher
 layer
 layman
 layout
@@ -3614,6 +3614,7 @@ listener
 litecoin
 litedb
 literature
+live
 lldp
 lmhost
 lmhosts
@@ -4056,6 +4057,7 @@ msbi
 msbuild
 mschart
 msdeploy
+msdn
 msdtc
 msedge
 msexcel
@@ -4158,6 +4160,7 @@ nanoleaf
 nartac
 nasdaq
 native
+natpool
 natural-language-to-code
 natural-selection
 nav
@@ -4324,6 +4327,7 @@ nuget-references
 nuget.exe
 nuget.org
 nugetpackageprovider
+number
 numlock
 nunit
 nupkg
@@ -4734,7 +4738,6 @@ pipelines
 pipenv
 pipescript
 piraeus
-pivot
 pivotal
 pivottable
 pixoo
@@ -5086,7 +5089,6 @@ proxmox
 proxmoxve
 proxsys
 proxy
-proxyfunction
 proxyfunctions
 prtg
 prtg_network_monitor
@@ -6948,7 +6950,6 @@ psedition_windows
 psedition-desktop
 psediton_desktop
 psenv
-pses
 psexcel
 psexec
 psexec.exe
@@ -9335,13 +9336,13 @@ symantec
 symbolic
 symbolic_link
 symboliclink
+symbols
 symbolservers
 symlink
 symmetric
 synapse
 sync
 synchronization
-synchronize
 syndication
 synergy
 syntax
@@ -9631,8 +9632,6 @@ transact
 transaction
 transactions
 transcode
-transcript
-transcripts
 transform
 transformation
 transforms
@@ -9643,7 +9642,6 @@ translit
 transliteration
 transmission
 transparency
-transpilation
 trap
 travel
 trec
@@ -9652,7 +9650,6 @@ treesize
 treffynnon
 trein
 trello
-trellops
 trend-micro
 trendmicro
 trevor
@@ -9863,7 +9860,6 @@ uqword
 uri
 uri-scheme
 url
-url-encode
 url-shortener
 urldecode
 urlencode
@@ -9976,6 +9972,7 @@ verify
 version
 versioning
 versionmanager
+versionnumber
 vertical
 vester
 vhd
@@ -10221,7 +10218,6 @@ widedata
 wif
 wifi
 wiki
-wildcard
 wildfly
 wim
 wim2vhd
@@ -10430,7 +10426,6 @@ x64
 x86
 xa
 xaf
-xbase
 xbox
 xclarity
 xdr
