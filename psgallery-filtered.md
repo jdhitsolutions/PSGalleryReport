@@ -3,6 +3,129 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [CoreePower.Lib](https://www.powershellgallery.com/Packages/CoreePower.Lib/0.0.2.21) | 0.0.2.21
+
+### Published: 09/01/2023 07:21:48 by Carsten Riedel
+
+The "CoreePower.Lib" module is the a part of the CoreePower project.
+It adds command-line programs like 7-Zip, Git, GitHub CLI, NuGet, dotnet, and Visual Studio Code from the original sources.
+See full readme at https://github.com/carsten-riedel/CoreePower.Lib/#readme
+Note: the "Initialize-CorePowerLatest" command may conflict with existing installations. Use with caution.
+
+__Downloads__: 833 | __Repository__: https://github.com/carsten-riedel/CoreePower.Lib
+
+## [CoreePower.Common](https://www.powershellgallery.com/Packages/CoreePower.Common/0.0.0.14) | 0.0.0.14
+
+### Published: 09/01/2023 07:20:44 by Carsten Riedel
+
+Basic library.
+
+__Downloads__: 24 | __Repository__: 
+
+## [NTS.Tools](https://www.powershellgallery.com/Packages/NTS.Tools/1.1.0.6) | 1.1.0.6
+
+### Published: 09/01/2023 07:13:12 by Moritz Wiedmann
+
+NTS.Tools module contains tools for ConfigMgr and course deployment
+
+__Downloads__: 1,431 | __Repository__: 
+
+## [NTS.Tools.MSSQL](https://www.powershellgallery.com/Packages/NTS.Tools.MSSQL/1.1.0.6) | 1.1.0.6
+
+### Published: 09/01/2023 07:12:56 by Moritz Wiedmann
+
+NTS.Tools.MSSQL module contains functions that are mainly related to Microsoft SQL Server
+
+__Downloads__: 1,362 | __Repository__: 
+
+## [NTS.Tools.MSHyperV](https://www.powershellgallery.com/Packages/NTS.Tools.MSHyperV/1.1.0.6) | 1.1.0.6
+
+### Published: 09/01/2023 07:12:47 by Moritz Wiedmann
+
+NTS.Tools.MSHyperV module contains functions that are mainly related to Microsoft Hyper-V
+
+__Downloads__: 1,400 | __Repository__: 
+
+## [NTS.Tools.MSExchange](https://www.powershellgallery.com/Packages/NTS.Tools.MSExchange/1.1.0.6) | 1.1.0.6
+
+### Published: 09/01/2023 07:12:37 by Moritz Wiedmann
+
+NTS.Tools.MSExchange module contains functions that are mainly related to around Microsoft Exchange
+
+__Downloads__: 1,357 | __Repository__: 
+
+## [NTS.Tools.MSConfigMgr](https://www.powershellgallery.com/Packages/NTS.Tools.MSConfigMgr/1.1.0.6) | 1.1.0.6
+
+### Published: 09/01/2023 07:11:47 by Moritz Wiedmann
+
+NTS.Tools.MSConfigMgr module contains functions that are mainly related to Microsoft Endpoint Configuration Manger
+
+__Downloads__: 1,364 | __Repository__: 
+
+## [NTS.Tools.MSADDS](https://www.powershellgallery.com/Packages/NTS.Tools.MSADDS/1.1.0.6) | 1.1.0.6
+
+### Published: 09/01/2023 07:11:37 by Moritz Wiedmann
+
+NTS.Tools.MSADDS module contains functions that are mainly related to Microsoft Active Directory Domain Services
+
+__Downloads__: 1,342 | __Repository__: 
+
+## [NTS.Tools.MSADCS](https://www.powershellgallery.com/Packages/NTS.Tools.MSADCS/1.1.0.6) | 1.1.0.6
+
+### Published: 09/01/2023 07:11:27 by Moritz Wiedmann
+
+NTS.Tools.MSADCS module contains functions that are mainly related to Microsoft Active Directory Certification Services
+
+__Downloads__: 1,358 | __Repository__: 
+
+## [NTS.Tools.Application](https://www.powershellgallery.com/Packages/NTS.Tools.Application/1.1.0.6) | 1.1.0.6
+
+### Published: 09/01/2023 07:11:17 by Moritz Wiedmann
+
+NTS.Tools.Application module contains functions to install applications
+
+__Downloads__: 372 | __Repository__: 
+
+## [NTS.Tools.General](https://www.powershellgallery.com/Packages/NTS.Tools.General/1.1.0.6) | 1.1.0.6
+
+### Published: 09/01/2023 07:11:05 by Moritz Wiedmann
+
+NTS.Tools.General module contains functions that are used for general purpose
+
+__Downloads__: 1,517 | __Repository__: 
+
+## [DFSDsc](https://www.powershellgallery.com/Packages/DFSDsc/5.0.0) | 5.0.0
+
+### Published: 09/01/2023 07:01:38 by DSC Community
+
+DSC resources for configuring Distributed File System Replication and Namespaces.
+
+__Downloads__: 268,103 | __Repository__: https://github.com/dsccommunity/DFSDsc
+
+## [CoreePower.Module](https://www.powershellgallery.com/Packages/CoreePower.Module/0.0.0.66) | 0.0.0.66
+
+### Published: 09/01/2023 06:46:53 by Carsten Riedel
+
+A library for fast module creation
+
+__Downloads__: 190 | __Repository__: 
+
+## [Rpic.PowerShell](https://www.powershellgallery.com/Packages/Rpic.PowerShell/1.8.0) | 1.8.0
+
+### Published: 09/01/2023 05:38:54 by tobiaslekman
+
+Contains a set of resuable PowerShell functions for working with Azure Resource Manager and Bicep.
+
+__Downloads__: 155 | __Repository__: 
+
+## [CoreePower.Config](https://www.powershellgallery.com/Packages/CoreePower.Config/0.0.0.58) | 0.0.0.58
+
+### Published: 09/01/2023 05:18:43 by Carsten Riedel
+
+Powershell module for basic configuration
+
+__Downloads__: 127 | __Repository__: 
+
 ## [BruhArmy](https://www.powershellgallery.com/Packages/BruhArmy/1.3.0) | 1.3.0
 
 ### Published: 09/01/2023 01:42:20 by Evan Deters
@@ -58,14 +181,6 @@ __Downloads__: 8 | __Repository__: https://github.com/pwshrc/poshy-wrap-yum
 Convenient cmdlets and aliases for interacting with Windows Terminal from within your PowerShell session.
 
 __Downloads__: 13 | __Repository__: https://github.com/pwshrc/poshy-wrap-wt
-
-## [poshy-wrap-vscode](https://www.powershellgallery.com/Packages/poshy-wrap-vscode/0.2.8.0) | 0.2.8.0
-
-### Published: 08/31/2023 19:19:21 by Pwshrc Maintainers
-
-Convenient cmdlets and aliases for interacting with VSCode from within your PowerShell session.
-
-__Downloads__: 8 | __Repository__: https://github.com/pwshrc/poshy-wrap-vscode
 
 ## [poshy-wrap-wget](https://www.powershellgallery.com/Packages/poshy-wrap-wget/0.3.11.0) | 0.3.11.0
 
@@ -187,14 +302,6 @@ Convenient cmdlets and aliases which wrap `pip3`.
 
 __Downloads__: 8 | __Repository__: https://github.com/pwshrc/poshy-wrap-pip
 
-## [poshy-wrap-nmap](https://www.powershellgallery.com/Packages/poshy-wrap-nmap/0.2.10.0) | 0.2.10.0
-
-### Published: 08/31/2023 19:17:40 by Pwshrc Maintainers
-
-Convenient cmdlets and aliases which wrap `nmap`.
-
-__Downloads__: 8 | __Repository__: https://github.com/pwshrc/poshy-wrap-nmap
-
 ## [poshy-wrap-golang](https://www.powershellgallery.com/Packages/poshy-wrap-golang/0.2.11.0) | 0.2.11.0
 
 ### Published: 08/31/2023 19:17:39 by Pwshrc Maintainers
@@ -267,14 +374,6 @@ Convenient cmdlets and aliases which wrap `dotnet`.
 
 __Downloads__: 9 | __Repository__: https://github.com/pwshrc/poshy-wrap-dotnet
 
-## [poshy-wrap-forgit](https://www.powershellgallery.com/Packages/poshy-wrap-forgit/0.2.10.0) | 0.2.10.0
-
-### Published: 08/31/2023 19:16:26 by Pwshrc Maintainers
-
-Convenient cmdlets and aliases which wrap `forgit`.
-
-__Downloads__: 8 | __Repository__: https://github.com/pwshrc/poshy-wrap-forgit
-
 ## [poshy-multimedia](https://www.powershellgallery.com/Packages/poshy-multimedia/0.6.9.0) | 0.6.9.0
 
 ### Published: 08/31/2023 19:16:26 by Pwshrc Maintainers
@@ -282,6 +381,14 @@ __Downloads__: 8 | __Repository__: https://github.com/pwshrc/poshy-wrap-forgit
 Convenient cmdlets for working with various archive, multimedia, and data-encoding formats directly in your PowerShell terminal.
 
 __Downloads__: 18 | __Repository__: https://github.com/pwshrc/poshy-multimedia
+
+## [poshy-wrap-forgit](https://www.powershellgallery.com/Packages/poshy-wrap-forgit/0.2.10.0) | 0.2.10.0
+
+### Published: 08/31/2023 19:16:26 by Pwshrc Maintainers
+
+Convenient cmdlets and aliases which wrap `forgit`.
+
+__Downloads__: 8 | __Repository__: https://github.com/pwshrc/poshy-wrap-forgit
 
 ## [poshy-wrap-gem](https://www.powershellgallery.com/Packages/poshy-wrap-gem/0.2.10.0) | 0.2.10.0
 
@@ -306,22 +413,6 @@ __Downloads__: 8 | __Repository__: https://github.com/pwshrc/poshy-wrap-docker-c
 Convenient cmdlets and aliases for performing various network activities, including getting your current external IP address - right from your PowerShell terminal.
 
 __Downloads__: 17 | __Repository__: https://github.com/pwshrc/poshy-net
-
-## [poshy-viewer-finder](https://www.powershellgallery.com/Packages/poshy-viewer-finder/0.2.10.0) | 0.2.10.0
-
-### Published: 08/31/2023 19:15:35 by Pwshrc Maintainers
-
-An experimental cross-platform library for enumerating the user's installed text viewers & editors, with capability filtering & execution argument configuration all baked in.
-
-__Downloads__: 8 | __Repository__: https://github.com/pwshrc/poshy-viewer-finder
-
-## [poshy-wrap-git](https://www.powershellgallery.com/Packages/poshy-wrap-git/0.2.10.0) | 0.2.10.0
-
-### Published: 08/31/2023 19:15:26 by Pwshrc Maintainers
-
-Convenient cmdlets and aliases which wrap `git`.
-
-__Downloads__: 8 | __Repository__: https://github.com/pwshrc/poshy-wrap-git
 
 ## [poshy-lucidity](https://www.powershellgallery.com/Packages/poshy-lucidity/0.3.13.0) | 0.3.13.0
 
@@ -443,14 +534,6 @@ Convenient cmdlets and aliases which wrap `vault`.
 
 __Downloads__: 17 | __Repository__: https://github.com/pwshrc/poshy-wrap-vault
 
-## [poshy-wrap-maven](https://www.powershellgallery.com/Packages/poshy-wrap-maven/0.2.9.0) | 0.2.9.0
-
-### Published: 08/31/2023 18:46:32 by Pwshrc Maintainers
-
-Convenient cmdlets and aliases which wrap `maven`.
-
-__Downloads__: 8 | __Repository__: https://github.com/pwshrc/poshy-wrap-maven
-
 ## [poshy-wrap-argcomplete](https://www.powershellgallery.com/Packages/poshy-wrap-argcomplete/0.3.11.0) | 0.3.11.0
 
 ### Published: 08/31/2023 18:44:45 by Pwshrc Maintainers
@@ -534,78 +617,6 @@ JaapsTools
 
 __Downloads__: 518 | __Repository__: 
 
-## [NTS.Tools](https://www.powershellgallery.com/Packages/NTS.Tools/1.1.0.5) | 1.1.0.5
-
-### Published: 08/31/2023 11:45:54 by Moritz Wiedmann
-
-NTS.Tools module contains tools for ConfigMgr and course deployment
-
-__Downloads__: 1,431 | __Repository__: 
-
-## [NTS.Tools.MSSQL](https://www.powershellgallery.com/Packages/NTS.Tools.MSSQL/1.1.0.5) | 1.1.0.5
-
-### Published: 08/31/2023 11:45:38 by Moritz Wiedmann
-
-NTS.Tools.MSSQL module contains functions that are mainly related to Microsoft SQL Server
-
-__Downloads__: 1,362 | __Repository__: 
-
-## [NTS.Tools.MSHyperV](https://www.powershellgallery.com/Packages/NTS.Tools.MSHyperV/1.1.0.5) | 1.1.0.5
-
-### Published: 08/31/2023 11:45:29 by Moritz Wiedmann
-
-NTS.Tools.MSHyperV module contains functions that are mainly related to Microsoft Hyper-V
-
-__Downloads__: 1,400 | __Repository__: 
-
-## [NTS.Tools.MSExchange](https://www.powershellgallery.com/Packages/NTS.Tools.MSExchange/1.1.0.5) | 1.1.0.5
-
-### Published: 08/31/2023 11:45:20 by Moritz Wiedmann
-
-NTS.Tools.MSExchange module contains functions that are mainly related to around Microsoft Exchange
-
-__Downloads__: 1,357 | __Repository__: 
-
-## [NTS.Tools.MSConfigMgr](https://www.powershellgallery.com/Packages/NTS.Tools.MSConfigMgr/1.1.0.5) | 1.1.0.5
-
-### Published: 08/31/2023 11:45:11 by Moritz Wiedmann
-
-NTS.Tools.MSConfigMgr module contains functions that are mainly related to Microsoft Endpoint Configuration Manger
-
-__Downloads__: 1,364 | __Repository__: 
-
-## [NTS.Tools.MSADDS](https://www.powershellgallery.com/Packages/NTS.Tools.MSADDS/1.1.0.5) | 1.1.0.5
-
-### Published: 08/31/2023 11:45:02 by Moritz Wiedmann
-
-NTS.Tools.MSADDS module contains functions that are mainly related to Microsoft Active Directory Domain Services
-
-__Downloads__: 1,342 | __Repository__: 
-
-## [NTS.Tools.MSADCS](https://www.powershellgallery.com/Packages/NTS.Tools.MSADCS/1.1.0.5) | 1.1.0.5
-
-### Published: 08/31/2023 11:44:53 by Moritz Wiedmann
-
-NTS.Tools.MSADCS module contains functions that are mainly related to Microsoft Active Directory Certification Services
-
-__Downloads__: 1,358 | __Repository__: 
-
-## [NTS.Tools.Application](https://www.powershellgallery.com/Packages/NTS.Tools.Application/1.1.0.5) | 1.1.0.5
-
-### Published: 08/31/2023 11:44:44 by Moritz Wiedmann
-
-NTS.Tools.Application module contains functions to install applications
-
-__Downloads__: 372 | __Repository__: 
-
-## [NTS.Tools.General](https://www.powershellgallery.com/Packages/NTS.Tools.General/1.1.0.5) | 1.1.0.5
-
-### Published: 08/31/2023 11:44:33 by Moritz Wiedmann
-
-NTS.Tools.General module contains functions that are used for general purpose
-
-__Downloads__: 1,517 | __Repository__: 
-
 ## [PSCompletions](https://www.powershellgallery.com/Packages/PSCompletions/2.0.5) | 2.0.5
 
 ### Published: 08/31/2023 11:12:51 by abgox
@@ -677,25 +688,6 @@ __Downloads__: 84 | __Repository__: https://github.com/EvotecIT/TheDashboard
 Helper functions for Azure Automation Runbooks
 
 __Downloads__: 102 | __Repository__: 
-
-## [CoreePower.Lib](https://www.powershellgallery.com/Packages/CoreePower.Lib/0.0.2.19) | 0.0.2.19
-
-### Published: 08/31/2023 05:03:04 by Carsten Riedel
-
-The "CoreePower.Lib" module is the a part of the CoreePower project.
-It adds command-line programs like 7-Zip, Git, GitHub CLI, NuGet, dotnet, and Visual Studio Code from the original sources.
-See full readme at https://github.com/carsten-riedel/CoreePower.Lib/#readme
-Note: the "Initialize-CorePowerLatest" command may conflict with existing installations. Use with caution.
-
-__Downloads__: 833 | __Repository__: https://github.com/carsten-riedel/CoreePower.Lib
-
-## [CoreePower.Common](https://www.powershellgallery.com/Packages/CoreePower.Common/0.0.0.12) | 0.0.0.12
-
-### Published: 08/31/2023 05:01:40 by Carsten Riedel
-
-Basic library.
-
-__Downloads__: 24 | __Repository__: 
 
 ## [Exchange_AddIn](https://www.powershellgallery.com/Packages/Exchange_AddIn/2.0.7) | 2.0.7
 
@@ -1491,14 +1483,6 @@ This modules provides Cmdlets for OCI Identity Service
 
 __Downloads__: 5,997 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-## [GitHub.DeployKeys](https://www.powershellgallery.com/Packages/GitHub.DeployKeys/0.0.1) | 0.0.1
-
-### Published: 08/29/2023 19:49:31 by Marius Storhaug
-
-PowerShell Module for GitHub.DeployKeys
-
-__Downloads__: 1 | __Repository__: https://github.com/MariusStorhaug/GitHub
-
 ## [OCI.PSModules.Healthchecks](https://www.powershellgallery.com/Packages/OCI.PSModules.Healthchecks/66.0.0) | 66.0.0
 
 ### Published: 08/29/2023 19:49:31 by Oracle Cloud Infrastructure
@@ -1506,6 +1490,14 @@ __Downloads__: 1 | __Repository__: https://github.com/MariusStorhaug/GitHub
 This modules provides Cmdlets for OCI Healthchecks Service
 
 __Downloads__: 16,339 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+
+## [GitHub.DeployKeys](https://www.powershellgallery.com/Packages/GitHub.DeployKeys/0.0.1) | 0.0.1
+
+### Published: 08/29/2023 19:49:31 by Marius Storhaug
+
+PowerShell Module for GitHub.DeployKeys
+
+__Downloads__: 1 | __Repository__: https://github.com/MariusStorhaug/GitHub
 
 ## [OCI.PSModules.Governancerulescontrolplane](https://www.powershellgallery.com/Packages/OCI.PSModules.Governancerulescontrolplane/66.0.0) | 66.0.0
 
@@ -1538,14 +1530,6 @@ __Downloads__: 3,089 | __Repository__: https://github.com/oracle/oci-powershell-
 This modules provides Cmdlets for OCI Fusionapps Service
 
 __Downloads__: 1,547 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [GitHub.DependencyGraph](https://www.powershellgallery.com/Packages/GitHub.DependencyGraph/0.0.1) | 0.0.1
-
-### Published: 08/29/2023 19:49:05 by Marius Storhaug
-
-PowerShell Module for GitHub.DependencyGraph
-
-__Downloads__: 1 | __Repository__: https://github.com/MariusStorhaug/GitHub
 
 ## [OCI.PSModules.Functions](https://www.powershellgallery.com/Packages/OCI.PSModules.Functions/66.0.0) | 66.0.0
 
@@ -2011,4 +1995,20 @@ OCI Common module exports Cmdlets that manages features offered by OCI Modules f
 
 __Downloads__: 73,667 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-*Updated: Friday, 01 September 2023 02:04:55 UTC*
+## [BinaryTree.Internal.Power365.Dev](https://www.powershellgallery.com/Packages/BinaryTree.Internal.Power365.Dev/20.12.10.36216) | 20.12.10.36216
+
+### Published: 08/29/2023 16:32:19 by BinaryTreePackagePublisher
+
+PowerShell Management cmdlets for Binary Tree Power365
+
+__Downloads__: 6,217 | __Repository__: 
+
+## [ItGlue](https://www.powershellgallery.com/Packages/ItGlue/2023.8.29.0) | 2023.8.29.0
+
+### Published: 08/29/2023 16:25:03 by Mike Hashemi
+
+ITGlue REST API-related functions.
+
+__Downloads__: 394,970 | __Repository__: https://github.com/wetling23/Public.ItGlue.PowerShellModule
+
+*Updated: Friday, 01 September 2023 09:52:37 UTC*
