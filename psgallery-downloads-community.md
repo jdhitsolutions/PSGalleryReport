@@ -108,6 +108,162 @@ Module to manage systems using SNMP.
 
 __Downloads__: 20,818,165 | __Repository__: 
 
+## [CredentialManager](https://www.powershellgallery.com/Packages/CredentialManager/2.0) | 2.0
+
+### Published: 06/17/2016 16:56:46 by Dave Garnar
+
+Provides access to credentials in the Windows Credential Manager
+
+__Downloads__: 18,740,200 | __Repository__: 
+
+## [Pester](https://www.powershellgallery.com/Packages/Pester/5.5.0) | 5.5.0
+
+### Published: 06/27/2023 16:09:16 by Pester Team
+
+Pester provides a framework for running BDD style Tests to execute and validate PowerShell commands inside of PowerShell and offers a powerful set of Mocking Functions that allow tests to mimic and mock the functionality of any command inside of a piece of PowerShell code being tested. Pester tests can execute any command or script that is accessible to a pester test file. This can include functions, Cmdlets, Modules and scripts. Pester can be run in ad hoc style in a console or it can be integrated into the Build scripts of a Continuous Integration system.
+
+__Downloads__: 15,823,910 | __Repository__: https://github.com/Pester/Pester
+
+## [LSUClient](https://www.powershellgallery.com/Packages/LSUClient/1.6.0) | 1.6.0
+
+### Published: 07/31/2023 17:27:03 by jantari
+
+Orchestrate driver, BIOS/UEFI and firmware updates for Lenovo computers 👨‍💻
+
+__Downloads__: 15,623,936 | __Repository__: https://www.github.com/jantari/LSUClient
+
+## [7Zip4Powershell](https://www.powershellgallery.com/Packages/7Zip4Powershell/2.4.0) | 2.4.0
+
+### Published: 08/06/2023 20:25:32 by Thomas Freudenberg
+
+Powershell module for creating and extracting 7-Zip archives
+
+__Downloads__: 12,014,195 | __Repository__: https://github.com/thoemmi/7Zip4Powershell
+
+## [BurntToast](https://www.powershellgallery.com/Packages/BurntToast/0.8.5) | 0.8.5
+
+### Published: 12/30/2020 21:00:59 by Joshua (Windos) King
+
+Module for creating and displaying Toast Notifications on Microsoft Windows 10.
+
+__Downloads__: 12,009,277 | __Repository__: https://github.com/Windos/BurntToast
+
+## [AzTable](https://www.powershellgallery.com/Packages/AzTable/2.1.0) | 2.1.0
+
+### Published: 04/09/2021 22:10:34 by Paulo Marques (MSFT)
+
+Sample functions to add/retrieve/update entities on Azure Storage Tables from PowerShell (This is the same as AzureRmStorageTable module but with a new module name). It requires latest PowerShell Az module installed. Instructions at https://docs.microsoft.com/en-us/powershell/azure/install-az-ps?view=azps-1.6.0. For documentation, please visit https://paulomarquesc.github.io/working-with-azure-storage-tables-from-powershell/.
+
+__Downloads__: 10,849,219 | __Repository__: 
+
+## [PSSlack](https://www.powershellgallery.com/Packages/PSSlack/1.0.6) | 1.0.6
+
+### Published: 07/01/2021 00:46:21 by Warren Frame
+
+PowerShell module for the Slack API
+
+__Downloads__: 10,516,994 | __Repository__: https://github.com/RamblingCookieMonster/PSSlack/
+
+## [GetBIOS](https://www.powershellgallery.com/Packages/GetBIOS/1.3.3) | 1.3.3
+
+### Published: 06/08/2022 07:15:18 by Damien Van Robaeys
+
+List local or remote BIOS settings (for Lenovo, Dell, HP and Toshiba)
+
+__Downloads__: 9,930,331 | __Repository__: https://www.systanddeploy.com/2022/06/getbios-module-list-bios-settings-from.html
+
+## [ChocolateyGet](https://www.powershellgallery.com/Packages/ChocolateyGet/4.1.0) | 4.1.0
+
+### Published: 02/12/2023 12:21:50 by Jianyun
+
+Package Management (OneGet) provider that facilitates installing Chocolatey packages from any NuGet repository.
+
+__Downloads__: 9,029,758 | __Repository__: https://github.com/Jianyunt/ChocolateyGet
+
+## [Write-ObjectToSQL](https://www.powershellgallery.com/Packages/Write-ObjectToSQL/1.13) | 1.13
+
+### Published: 02/11/2017 21:09:56 by John Roos
+
+Writes an object into a database table. If the table does not exist it will be created based on the properties of the object. For every property of the object a column will be created. The data type for each column will be converted from .Net data types into SQL Server data types.
+
+Not all data types are supported. Unsupported data types will be ignored (but can be listed). If several objects are sent through the pipeline only the first object will be used for creating the template for the table.
+
+Make sure that all objects in the pipeline have the exact same properties (this is usually the case). While creating the table the script will also add two default columns. One called 'id' which is a regular auto counter (integer which increases with 1 for every row) and another column called 'inserted_at' which will have a default value of GetDate() which represents the timestamp for when the row was inserted. If a property is named the same as one of these default columns then a 'x' will be added before the name of those columns to avoid duplication. (if propertyname=id, then propertyname=xid, etc.)
+
+Hashtables are handled slightly different. When using hashtables the script will simply use the keys as columns.
+       
+Keep in mind that properties on the objects are used. Some objects, like strings, might only have a length property but what you really want to insert into the table is the value of the string.
+    
+The following command would generate a table with one column called Length which would contain the length of the strings (probably not what you want):
+    
+'oink','meo' | Write-ObjectToSQL -Server localhost\sqlexpress -Database MyDB -TableName myTable
+    
+The following command is a better way to do it. Instead of piping the strings directly you should create custom objects or, as in this example, hash tables. This will generate a table with a column called 'text' which will contain the values 'oink' and 'meo':
+
+@{'text'='oink'}, @{'text'='meo'} | Write-ObjectToSQL -Server localhost\sqlexpress -Database MyDB -TableName myTable
+
+Another thing to note is that this script will only take Property and NoteProperty into consideration. So for example ScriptProperty and ParameterizedProperty will be ignored. You can verify your objects with the Get-Member cmdlet and check the MemberType.
+
+Currently the script supports the following data types:
+
+Int32
+UInt32
+Int16
+UInt16
+Int64
+UInt64
+long
+int
+Decimal
+Single
+Double
+Byte
+SByte
+String
+DateTime
+TimeSpan
+datetime
+string
+bool
+Boolean
+GUID
+
+__Downloads__: 8,698,069 | __Repository__: https://github.com/JohnRoos/PowerShell/tree/master/Modules/Write-ObjectToSQL
+
+## [Foil](https://www.powershellgallery.com/Packages/Foil/0.3.0) | 0.3.0
+
+### Published: 02/11/2023 16:43:41 by Ethan Bergstrom
+
+A PowerShell Crescendo wrapper for Chocolatey
+
+__Downloads__: 8,453,558 | __Repository__: https://github.com/ethanbergstrom/Foil
+
+## [MSAL.PS](https://www.powershellgallery.com/Packages/MSAL.PS/4.37.0.0) | 4.37.0.0
+
+### Published: 11/19/2021 02:44:41 by Jason Thompson
+
+The MSAL.PS PowerShell module wraps MSAL.NET functionality into PowerShell-friendly cmdlets and is not supported by Microsoft. Microsoft support does not extend beyond the underlying MSAL.NET library. For any inquiries regarding the PowerShell module itself, you may contact the author on GitHub or PowerShell Gallery.
+
+MSAL.NET (Microsoft.Identity.Client) is an authentication library which enables you to acquire tokens from Azure AD, to access protected Web APIs (Microsoft APIs or applications registered with Azure Active Directory).
+
+__Downloads__: 7,785,246 | __Repository__: https://github.com/jasoth/MSAL.PS
+
+## [newtonsoft.json](https://www.powershellgallery.com/Packages/newtonsoft.json/1.0.2.201) | 1.0.2.201
+
+### Published: 05/11/2019 04:54:09 by jakub.pawlowski
+
+Serialize/Deserialize Json using Newtonsoft.json
+
+__Downloads__: 7,317,081 | __Repository__: https://github.com/qbikez/ps-entropy/tree/master/src/newtonsoft.json
+
+## [WindowsAutoPilotIntune](https://www.powershellgallery.com/Packages/WindowsAutoPilotIntune/5.6) | 5.6
+
+### Published: 07/07/2023 19:02:56 by Windows Autopilot
+
+Sample module to manage AutoPilot devices using the Intune Graph API
+
+__Downloads__: 7,245,581 | __Repository__: 
+
 ## [MSCatalog](https://www.powershellgallery.com/Packages/MSCatalog/0.27.0) | 0.27.0
 
 ### Published: 10/05/2021 13:40:12 by Ryan Kowalewski
@@ -1982,116 +2138,4 @@ This module uses the REST API in the F5 LTM v11.6 and higher to query and manipu
 
 __Downloads__: 162,317 | __Repository__: https://github.com/joel74/POSH-LTM-Rest
 
-## [ACMESharp](https://www.powershellgallery.com/Packages/ACMESharp/0.9.1.326) | 0.9.1.326
-
-### Published: 10/26/2017 20:53:25 by https://github.com/ebekker
-
-Client library for the ACME protocol, which is used to interoperate with the Let's Encrypt project's CA server and any other ACME-compliant server.
-
-__Downloads__: 160,459 | __Repository__: https://github.com/ebekker/ACMESharp
-
-## [Logeto](https://www.powershellgallery.com/Packages/Logeto/9.0.7.4596) | 9.0.7.4596
-
-### Published: 08/16/2021 13:01:26 by David Petrik
-
-Logeto Management Public
-
-__Downloads__: 158,491 | __Repository__: 
-
-## [AzureRmStorageQueue](https://www.powershellgallery.com/Packages/AzureRmStorageQueue/1.0.0.4) | 1.0.0.4
-
-### Published: 01/11/2018 00:47:28 by Paulo Marques (MSFT)
-
-Sample functions to work with Azure Storage Queues from PowerShell. It requires latest Azure PowerShell module installed, which can be downloaded from http://aka.ms/webpi-azps.
-
-__Downloads__: 154,533 | __Repository__: 
-
-## [ADEssentials](https://www.powershellgallery.com/Packages/ADEssentials/0.0.164) | 0.0.164
-
-### Published: 08/13/2023 06:45:53 by Przemyslaw Klys
-
-Helper module for Active Directory with lots of useful functions that simplify supporting Active Directory.
-
-__Downloads__: 154,034 | __Repository__: https://github.com/EvotecIT/ADEssentials
-
-## [OMSDataInjection](https://www.powershellgallery.com/Packages/OMSDataInjection/1.3.0) | 1.3.0
-
-### Published: 06/24/2020 10:51:36 by Tao Yang
-
-This module contains functions to inject custom data into Log Analytics using the Log Analytics HTTP Data Collector API. Github Repo: https://github.com/tyconsulting/OMSDataInjection-PSModule
-
-__Downloads__: 153,217 | __Repository__: https://github.com/tyconsulting/OMSDataInjection-PSModule
-
-## [AzureHelpers](https://www.powershellgallery.com/Packages/AzureHelpers/0.6.8) | 0.6.8
-
-### Published: 11/09/2020 11:41:36 by Adam Coulter
-
-Helper functions for Azure
-
-__Downloads__: 152,902 | __Repository__: http://github.com/adamCoulterOz/AzureHelpers
-
-## [UnitySetup](https://www.powershellgallery.com/Packages/UnitySetup/5.5.151) | 5.5.151
-
-### Published: 12/28/2022 18:08:28 by Josh Wittner
-
-Tools for managing and automating your Unity installs and projects.
-
-__Downloads__: 151,862 | __Repository__: https://github.com/Microsoft/unitysetup.powershell
-
-## [DeviceManagement](https://www.powershellgallery.com/Packages/DeviceManagement/1.3.0) | 1.3.0
-
-### Published: 04/23/2020 13:01:39 by Ricardo Mendes Tobias Weltner
-
-Windows PowerShell Module for managing devices
-
-__Downloads__: 146,575 | __Repository__: https://github.com/TobiasPSP/Modules.DeviceManagement
-
-## [ProGetAutomation](https://www.powershellgallery.com/Packages/ProGetAutomation/2.0.0) | 2.0.0
-
-### Published: 04/12/2023 02:59:27 by WebMD Health Services
-
-The ProGetAutomation module is used to automate Inedo's ProGet, a universal package manager. It can host your own NuGet, Docker, PowerShell, Ruby Gems, Visual Studio Extensions, Maven, NPM, Bower, and Chocolatey repositories. It has its own proprietary universal package repositories.
-
-__Downloads__: 145,598 | __Repository__: https://github.com/webmd-health-services/ProGetAutomation
-
-## [Outsystems.SetupTools](https://www.powershellgallery.com/Packages/Outsystems.SetupTools/3.16.3.0) | 3.16.3.0
-
-### Published: 05/08/2023 07:10:50 by OutSystems
-
-Tools for installing and manage the OutSystems platform installation
-
-__Downloads__: 144,003 | __Repository__: https://github.com/OutSystems/OutSystems.SetupTools
-
-## [Selenium](https://www.powershellgallery.com/Packages/Selenium/3.0.1) | 3.0.1
-
-### Published: 07/27/2020 13:12:55 by Adam Driscoll
-
-Web automation using the Selenium Web Driver
-
-__Downloads__: 143,696 | __Repository__: https://github.com/adamdriscoll/selenium-powershell
-
-## [ConnectWiseManageAPI-Evident](https://www.powershellgallery.com/Packages/ConnectWiseManageAPI-Evident/0.4.7.6) | 0.4.7.6
-
-### Published: 01/18/2023 20:19:36 by Chris Taylor
-
-PowerShell wrapper for the ConnectWise Manage REST API
-
-__Downloads__: 141,391 | __Repository__: https://github.com/christaylorcodes/ConnectWiseManageAPI
-
-## [Requirements](https://www.powershellgallery.com/Packages/Requirements/2.3.6) | 2.3.6
-
-### Published: 03/12/2020 23:42:41 by Chris Kuech
-
-PowerShell framework for declaratively defining and idempotently imposing system configurations
-
-__Downloads__: 140,860 | __Repository__: https://github.com/Microsoft/Requirements
-
-## [PSScriptTools](https://www.powershellgallery.com/Packages/PSScriptTools/2.48.0) | 2.48.0
-
-### Published: 07/28/2023 17:02:28 by Jeff Hicks
-
-A collection of PowerShell functions designed to enhance your own functions and scripts or to facilitate working in the console. Most of the commands should work in Windows PowerShell and PowerShell 7, even cross-platform. Any operating system limitations should be handled on a per-command basis.
-
-__Downloads__: 139,163 | __Repository__: https://github.com/jdhitsolutions/PSScriptTools
-
-*Updated: Saturday, 02 September 2023 09:51:33 UTC*
+*Updated: Saturday, 02 September 2023 17:53:21 UTC*
