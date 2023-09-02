@@ -1417,372 +1417,6 @@ Microsoft Azure PowerShell - Azure Policy Insights cmdlets. Allows querying poli
 
 __Downloads__: 19,159,518 | __Repository__: https://github.com/Azure/azure-powershell
 
-## [CredentialManager](https://www.powershellgallery.com/Packages/CredentialManager/2.0) | 2.0
-
-### Published: 06/17/2016 16:56:46 by Dave Garnar
-
-Provides access to credentials in the Windows Credential Manager
-
-__Downloads__: 18,740,200 | __Repository__: 
-
-## [AzureRM.SignalR](https://www.powershellgallery.com/Packages/AzureRM.SignalR/1.0.1) | 1.0.1
-
-### Published: 03/23/2021 12:52:27 by Microsoft Corporation
-
-Microsoft Azure PowerShell - Azure SignalR service commands
-
-__Downloads__: 18,173,436 | __Repository__: https://github.com/Azure/azure-powershell
-
-## [Pester](https://www.powershellgallery.com/Packages/Pester/5.5.0) | 5.5.0
-
-### Published: 06/27/2023 16:09:16 by Pester Team
-
-Pester provides a framework for running BDD style Tests to execute and validate PowerShell commands inside of PowerShell and offers a powerful set of Mocking Functions that allow tests to mimic and mock the functionality of any command inside of a piece of PowerShell code being tested. Pester tests can execute any command or script that is accessible to a pester test file. This can include functions, Cmdlets, Modules and scripts. Pester can be run in ad hoc style in a console or it can be integrated into the Build scripts of a Continuous Integration system.
-
-__Downloads__: 15,823,910 | __Repository__: https://github.com/Pester/Pester
-
-## [LSUClient](https://www.powershellgallery.com/Packages/LSUClient/1.6.0) | 1.6.0
-
-### Published: 07/31/2023 17:27:03 by jantari
-
-Orchestrate driver, BIOS/UEFI and firmware updates for Lenovo computers 👨‍💻
-
-__Downloads__: 15,623,936 | __Repository__: https://www.github.com/jantari/LSUClient
-
-## [Az.ConfidentialLedger](https://www.powershellgallery.com/Packages/Az.ConfidentialLedger/1.0.0) | 1.0.0
-
-### Published: 08/02/2022 03:28:11 by Microsoft Corporation
-
-Microsoft Azure PowerShell: ConfidentialLedger cmdlets
-
-__Downloads__: 15,191,175 | __Repository__: https://github.com/Azure/azure-powershell
-
-## [xPSDesiredStateConfiguration](https://www.powershellgallery.com/Packages/xPSDesiredStateConfiguration/9.1.0) | 9.1.0
-
-### Published: 02/19/2020 21:11:31 by DSC Community
-
-DSC resources for configuring common operating systems features, files and settings.
-
-__Downloads__: 15,149,674 | __Repository__: https://github.com/dsccommunity/xPSDesiredStateConfiguration
-
-## [VMware.VimAutomation.Sdk](https://www.powershellgallery.com/Packages/VMware.VimAutomation.Sdk/13.1.0.21605170) | 13.1.0.21605170
-
-### Published: 04/18/2023 12:52:58 by VMware
-
-This PowerShell module contains PowerCLI Sdk.
-
-__Downloads__: 13,308,735 | __Repository__: https://developer.vmware.com/powercli
-
-## [VMware.VimAutomation.Common](https://www.powershellgallery.com/Packages/VMware.VimAutomation.Common/13.1.0.21605386) | 13.1.0.21605386
-
-### Published: 04/18/2023 13:00:14 by VMware
-
-This PowerShell module contains functionality required by multiple PowerCLI modules.
-
-__Downloads__: 12,706,560 | __Repository__: https://developer.vmware.com/powercli
-
-## [Microsoft.Graph.Authentication](https://www.powershellgallery.com/Packages/Microsoft.Graph.Authentication/2.4.0) | 2.4.0
-
-### Published: 08/24/2023 15:17:47 by Microsoft
-
-Microsoft Graph PowerShell Authentication Module.
-
-__Downloads__: 12,675,220 | __Repository__: https://github.com/microsoftgraph/msgraph-sdk-powershell
-
-## [7Zip4Powershell](https://www.powershellgallery.com/Packages/7Zip4Powershell/2.4.0) | 2.4.0
-
-### Published: 08/06/2023 20:25:32 by Thomas Freudenberg
-
-Powershell module for creating and extracting 7-Zip archives
-
-__Downloads__: 12,014,195 | __Repository__: https://github.com/thoemmi/7Zip4Powershell
-
-## [BurntToast](https://www.powershellgallery.com/Packages/BurntToast/0.8.5) | 0.8.5
-
-### Published: 12/30/2020 21:00:59 by Joshua (Windos) King
-
-Module for creating and displaying Toast Notifications on Microsoft Windows 10.
-
-__Downloads__: 12,009,277 | __Repository__: https://github.com/Windos/BurntToast
-
-## [VMware.Vim](https://www.powershellgallery.com/Packages/VMware.Vim/8.1.0.21605554) | 8.1.0.21605554
-
-### Published: 04/18/2023 13:00:43 by VMware
-
-This PowerShell module contains PowerCLI Vim.
-
-__Downloads__: 11,852,965 | __Repository__: https://developer.vmware.com/powercli
-
-## [Az.DataProtection](https://www.powershellgallery.com/Packages/Az.DataProtection/2.0.0) | 2.0.0
-
-### Published: 05/23/2023 04:40:09 by Microsoft Corporation
-
-Microsoft Azure PowerShell: DataProtection cmdlets
-
-__Downloads__: 11,717,474 | __Repository__: https://github.com/Azure/azure-powershell
-
-## [Azure](https://www.powershellgallery.com/Packages/Azure/5.3.1) | 5.3.1
-
-### Published: 11/26/2020 11:40:20 by Microsoft Corporation
-
-Microsoft Azure PowerShell - Service Management
-
-__Downloads__: 11,221,728 | __Repository__: https://github.com/Azure/azure-powershell
-
-## [VMware.VimAutomation.Core](https://www.powershellgallery.com/Packages/VMware.VimAutomation.Core/13.1.0.21606170) | 13.1.0.21606170
-
-### Published: 04/18/2023 13:02:57 by VMware
-
-This PowerShell module contains Windows PowerShell cmdlets for managing vSphere.
-
-__Downloads__: 11,021,277 | __Repository__: https://developer.vmware.com/powercli
-
-## [VMware.VimAutomation.Cis.Core](https://www.powershellgallery.com/Packages/VMware.VimAutomation.Cis.Core/13.1.0.21605976) | 13.1.0.21605976
-
-### Published: 04/18/2023 13:02:47 by VMware
-
-This PowerShell module contains PowerCLI Cloud Infrastructure Suite cmdlets.
-
-__Downloads__: 10,884,164 | __Repository__: https://developer.vmware.com/powercli
-
-## [Microsoft.Graph.Intune](https://www.powershellgallery.com/Packages/Microsoft.Graph.Intune/6.1907.1.0) | 6.1907.1.0
-
-### Published: 07/11/2019 05:12:40 by Microsoft Corporation
-
-PowerShell SDK for Microsoft Intune Graph API
-
-__Downloads__: 10,873,825 | __Repository__: https://github.com/Microsoft/Intune-PowerShell-SDK
-
-## [AzTable](https://www.powershellgallery.com/Packages/AzTable/2.1.0) | 2.1.0
-
-### Published: 04/09/2021 22:10:34 by Paulo Marques (MSFT)
-
-Sample functions to add/retrieve/update entities on Azure Storage Tables from PowerShell (This is the same as AzureRmStorageTable module but with a new module name). It requires latest PowerShell Az module installed. Instructions at https://docs.microsoft.com/en-us/powershell/azure/install-az-ps?view=azps-1.6.0. For documentation, please visit https://paulomarquesc.github.io/working-with-azure-storage-tables-from-powershell/.
-
-__Downloads__: 10,849,219 | __Repository__: 
-
-## [AzureRM.Backup](https://www.powershellgallery.com/Packages/AzureRM.Backup/4.0.11) | 4.0.11
-
-### Published: 10/23/2018 17:08:59 by Microsoft Corporation
-
-Microsoft Azure PowerShell - Azure Backup service cmdlets for Azure Resource Manager
-
-__Downloads__: 10,698,556 | __Repository__: https://github.com/Azure/azure-powershell
-
-## [PSSlack](https://www.powershellgallery.com/Packages/PSSlack/1.0.6) | 1.0.6
-
-### Published: 07/01/2021 00:46:21 by Warren Frame
-
-PowerShell module for the Slack API
-
-__Downloads__: 10,516,994 | __Repository__: https://github.com/RamblingCookieMonster/PSSlack/
-
-## [GetBIOS](https://www.powershellgallery.com/Packages/GetBIOS/1.3.3) | 1.3.3
-
-### Published: 06/08/2022 07:15:18 by Damien Van Robaeys
-
-List local or remote BIOS settings (for Lenovo, Dell, HP and Toshiba)
-
-__Downloads__: 9,930,331 | __Repository__: https://www.systanddeploy.com/2022/06/getbios-module-list-bios-settings-from.html
-
-## [AzureRM.MachineLearningCompute](https://www.powershellgallery.com/Packages/AzureRM.MachineLearningCompute/0.4.8) | 0.4.8
-
-### Published: 08/29/2018 22:41:56 by Microsoft Corporation
-
-Microsoft Azure PowerShell - Machine Learning Compute cmdlets for Azure Resource Manager
-
-__Downloads__: 9,624,297 | __Repository__: https://github.com/Azure/azure-powershell
-
-## [VMware.VimAutomation.Vds](https://www.powershellgallery.com/Packages/VMware.VimAutomation.Vds/13.1.0.21610933) | 13.1.0.21610933
-
-### Published: 04/18/2023 13:04:09 by VMware
-
-This PowerShell module contains PowerCLI VDS cmdlets.
-
-__Downloads__: 9,353,916 | __Repository__: https://developer.vmware.com/powercli
-
-## [ChocolateyGet](https://www.powershellgallery.com/Packages/ChocolateyGet/4.1.0) | 4.1.0
-
-### Published: 02/12/2023 12:21:50 by Jianyun
-
-Package Management (OneGet) provider that facilitates installing Chocolatey packages from any NuGet repository.
-
-__Downloads__: 9,029,758 | __Repository__: https://github.com/Jianyunt/ChocolateyGet
-
-## [WindowsDefender](https://www.powershellgallery.com/Packages/WindowsDefender/1.0.0.4) | 1.0.0.4
-
-### Published: 09/14/2017 19:12:01 by Microsoft Corporation
-
-Windows Defender module allows you to configure Windows Defender settings.
-
-__Downloads__: 9,012,061 | __Repository__: 
-
-## [AzureRM.Scheduler](https://www.powershellgallery.com/Packages/AzureRM.Scheduler/0.16.10) | 0.16.10
-
-### Published: 08/29/2018 22:42:53 by Microsoft Corporation
-
-Microsoft Azure PowerShell - Scheduler cmdlets for Azure Resource Manager
-
-__Downloads__: 8,946,993 | __Repository__: https://github.com/Azure/azure-powershell
-
-## [Write-ObjectToSQL](https://www.powershellgallery.com/Packages/Write-ObjectToSQL/1.13) | 1.13
-
-### Published: 02/11/2017 21:09:56 by John Roos
-
-Writes an object into a database table. If the table does not exist it will be created based on the properties of the object. For every property of the object a column will be created. The data type for each column will be converted from .Net data types into SQL Server data types.
-
-Not all data types are supported. Unsupported data types will be ignored (but can be listed). If several objects are sent through the pipeline only the first object will be used for creating the template for the table.
-
-Make sure that all objects in the pipeline have the exact same properties (this is usually the case). While creating the table the script will also add two default columns. One called 'id' which is a regular auto counter (integer which increases with 1 for every row) and another column called 'inserted_at' which will have a default value of GetDate() which represents the timestamp for when the row was inserted. If a property is named the same as one of these default columns then a 'x' will be added before the name of those columns to avoid duplication. (if propertyname=id, then propertyname=xid, etc.)
-
-Hashtables are handled slightly different. When using hashtables the script will simply use the keys as columns.
-       
-Keep in mind that properties on the objects are used. Some objects, like strings, might only have a length property but what you really want to insert into the table is the value of the string.
-    
-The following command would generate a table with one column called Length which would contain the length of the strings (probably not what you want):
-    
-'oink','meo' | Write-ObjectToSQL -Server localhost\sqlexpress -Database MyDB -TableName myTable
-    
-The following command is a better way to do it. Instead of piping the strings directly you should create custom objects or, as in this example, hash tables. This will generate a table with a column called 'text' which will contain the values 'oink' and 'meo':
-
-@{'text'='oink'}, @{'text'='meo'} | Write-ObjectToSQL -Server localhost\sqlexpress -Database MyDB -TableName myTable
-
-Another thing to note is that this script will only take Property and NoteProperty into consideration. So for example ScriptProperty and ParameterizedProperty will be ignored. You can verify your objects with the Get-Member cmdlet and check the MemberType.
-
-Currently the script supports the following data types:
-
-Int32
-UInt32
-Int16
-UInt16
-Int64
-UInt64
-long
-int
-Decimal
-Single
-Double
-Byte
-SByte
-String
-DateTime
-TimeSpan
-datetime
-string
-bool
-Boolean
-GUID
-
-__Downloads__: 8,698,069 | __Repository__: https://github.com/JohnRoos/PowerShell/tree/master/Modules/Write-ObjectToSQL
-
-## [SqlServerDsc](https://www.powershellgallery.com/Packages/SqlServerDsc/16.4.0) | 16.4.0
-
-### Published: 08/22/2023 12:00:21 by DSC Community
-
-Module with DSC resources for deployment and configuration of Microsoft SQL Server.
-
-__Downloads__: 8,681,679 | __Repository__: https://github.com/dsccommunity/SqlServerDsc
-
-## [PnP.PowerShell](https://www.powershellgallery.com/Packages/PnP.PowerShell/2.2.0) | 2.2.0
-
-### Published: 06/30/2023 13:31:26 by Microsoft 365 Patterns and Practices
-
-Microsoft 365 Patterns and Practices PowerShell Cmdlets
-
-__Downloads__: 8,545,702 | __Repository__: https://aka.ms/sppnp
-
-## [VMware.VimAutomation.Storage](https://www.powershellgallery.com/Packages/VMware.VimAutomation.Storage/13.1.0.21606282) | 13.1.0.21606282
-
-### Published: 04/18/2023 13:03:17 by VMware
-
-This Windows PowerShell module contains PowerCLI storage management cmdlets.
-
-__Downloads__: 8,517,266 | __Repository__: https://developer.vmware.com/powercli
-
-## [Foil](https://www.powershellgallery.com/Packages/Foil/0.3.0) | 0.3.0
-
-### Published: 02/11/2023 16:43:41 by Ethan Bergstrom
-
-A PowerShell Crescendo wrapper for Chocolatey
-
-__Downloads__: 8,453,558 | __Repository__: https://github.com/ethanbergstrom/Foil
-
-## [MSAL.PS](https://www.powershellgallery.com/Packages/MSAL.PS/4.37.0.0) | 4.37.0.0
-
-### Published: 11/19/2021 02:44:41 by Jason Thompson
-
-The MSAL.PS PowerShell module wraps MSAL.NET functionality into PowerShell-friendly cmdlets and is not supported by Microsoft. Microsoft support does not extend beyond the underlying MSAL.NET library. For any inquiries regarding the PowerShell module itself, you may contact the author on GitHub or PowerShell Gallery.
-
-MSAL.NET (Microsoft.Identity.Client) is an authentication library which enables you to acquire tokens from Azure AD, to access protected Web APIs (Microsoft APIs or applications registered with Azure Active Directory).
-
-__Downloads__: 7,785,246 | __Repository__: https://github.com/jasoth/MSAL.PS
-
-## [VMware.VimAutomation.Srm](https://www.powershellgallery.com/Packages/VMware.VimAutomation.Srm/12.7.0.20091290) | 12.7.0.20091290
-
-### Published: 07/12/2022 13:05:18 by VMware
-
-This Windows PowerShell module contains PowerCLI SRM cmdlets.
-
-__Downloads__: 7,534,216 | __Repository__: 
-
-## [Az.ResourceGraph](https://www.powershellgallery.com/Packages/Az.ResourceGraph/0.13.0) | 0.13.0
-
-### Published: 08/02/2022 03:33:47 by Microsoft Corporation
-
-Microsoft Azure PowerShell - Azure Resource Graph cmdlets in Windows PowerShell and PowerShell Core. Allows querying resources with a powerful query language.
-
-For more information on Resource Graph, please visit the following: https://docs.microsoft.com/azure/governance/resource-graph/
-
-__Downloads__: 7,443,114 | __Repository__: https://github.com/Azure/azure-powershell
-
-## [VMware.VimAutomation.License](https://www.powershellgallery.com/Packages/VMware.VimAutomation.License/12.0.0.15939670) | 12.0.0.15939670
-
-### Published: 03/31/2020 14:36:20 by VMware
-
-This Windows PowerShell module contains PowerCLI cmdlets for managing VMware product licenses.
-
-__Downloads__: 7,433,104 | __Repository__: 
-
-## [newtonsoft.json](https://www.powershellgallery.com/Packages/newtonsoft.json/1.0.2.201) | 1.0.2.201
-
-### Published: 05/11/2019 04:54:09 by jakub.pawlowski
-
-Serialize/Deserialize Json using Newtonsoft.json
-
-__Downloads__: 7,317,081 | __Repository__: https://github.com/qbikez/ps-entropy/tree/master/src/newtonsoft.json
-
-## [WindowsAutoPilotIntune](https://www.powershellgallery.com/Packages/WindowsAutoPilotIntune/5.6) | 5.6
-
-### Published: 07/07/2023 19:02:56 by Windows Autopilot
-
-Sample module to manage AutoPilot devices using the Intune Graph API
-
-__Downloads__: 7,245,581 | __Repository__: 
-
-## [VMware.VimAutomation.HorizonView](https://www.powershellgallery.com/Packages/VMware.VimAutomation.HorizonView/13.1.0.21610272) | 13.1.0.21610272
-
-### Published: 04/18/2023 13:07:12 by VMware
-
-This PowerShell module contains Connect/Disconnect cmdlets for View API service.
-
-__Downloads__: 7,235,652 | __Repository__: https://developer.vmware.com/powercli
-
-## [VMware.VimAutomation.Nsxt](https://www.powershellgallery.com/Packages/VMware.VimAutomation.Nsxt/13.1.0.21606089) | 13.1.0.21606089
-
-### Published: 04/18/2023 13:06:24 by VMware
-
-This PowerShell module contains PowerCLI NSXT cmdlets.
-
-__Downloads__: 7,233,894 | __Repository__: https://developer.vmware.com/powercli
-
-## [VMware.VimAutomation.vROps](https://www.powershellgallery.com/Packages/VMware.VimAutomation.vROps/13.1.0.21611158) | 13.1.0.21611158
-
-### Published: 04/18/2023 13:06:17 by VMware
-
-This PowerShell module contains PowerCLI vROps cmdlets.
-
-__Downloads__: 7,232,942 | __Repository__: https://developer.vmware.com/powercli
-
 ## [VMware.VimAutomation.Cloud](https://www.powershellgallery.com/Packages/VMware.VimAutomation.Cloud/13.1.0.21611174) | 13.1.0.21611174
 
 ### Published: 04/18/2023 13:07:19 by VMware
@@ -2229,4 +1863,328 @@ This module contains DSC resources for the management and configuration of Windo
 
 __Downloads__: 3,324,302 | __Repository__: https://github.com/dsccommunity/xDnsServer
 
-*Updated: Saturday, 02 September 2023 02:00:57 UTC*
+## [AWS.Tools.EC2](https://www.powershellgallery.com/Packages/AWS.Tools.EC2/4.1.407) | 4.1.407
+
+### Published: 09/01/2023 23:07:28 by Amazon.com Inc
+
+The EC2 module of AWS Tools for PowerShell lets developers and administrators manage Amazon Elastic Compute Cloud (EC2) from the PowerShell scripting environment. In order to manage each AWS service, install the corresponding module (e.g. AWS.Tools.EC2, AWS.Tools.S3...).
+The module AWS.Tools.Installer (https://www.powershellgallery.com/packages/AWS.Tools.Installer/) makes it easier to install, update and uninstall the AWS.Tools modules.
+This version of AWS Tools for PowerShell is compatible with Windows PowerShell 5.1+ and PowerShell Core 6+ on Windows, Linux and macOS. When running on Windows PowerShell, .NET Framework 4.7.2 or newer is required. Alternative modules AWSPowerShell.NetCore and AWSPowerShell, provide support for all AWS services from a single module and also support older versions of Windows PowerShell and .NET Framework.
+
+__Downloads__: 3,210,588 | __Repository__: https://github.com/aws/aws-tools-for-powershell
+
+## [dbatools](https://www.powershellgallery.com/Packages/dbatools/2.0.4) | 2.0.4
+
+### Published: 06/07/2023 17:48:51 by the dbatools team
+
+The community module that enables SQL Server Pros to automate database development and server administration
+
+__Downloads__: 3,036,266 | __Repository__: https://dbatools.io/
+
+## [xNetworking](https://www.powershellgallery.com/Packages/xNetworking/5.7.0.0) | 5.7.0.0
+
+### Published: 05/03/2018 00:04:14 by Microsoft Corporation
+
+Module with DSC Resources for Networking area
+
+__Downloads__: 3,023,023 | __Repository__: https://github.com/PowerShell/xNetworking
+
+## [Microsoft.Xrm.Data.Powershell](https://www.powershellgallery.com/Packages/Microsoft.Xrm.Data.Powershell/2.8.19) | 2.8.19
+
+### Published: 11/15/2022 15:29:34 by Sean McNellis Kenichiro Nakamura
+
+This module applies many helpful functions which use the Microsoft.Xrm.Tooling.CrmConnector.Powershell CrmServiceClient. Functions are included to create, delete, query, and update data as well as functions for common tasks such as publishing, and manipulating System and DataVerse User Settings, etc. The module should function for both Dynamics Customer Engagement Online, DataVerse environments, and On-Premise environments.
+
+__Downloads__: 2,997,069 | __Repository__: https://github.com/seanmcne/Microsoft.Xrm.Data.PowerShell
+
+## [QuserObject](https://www.powershellgallery.com/Packages/QuserObject/1.0.50) | 1.0.50
+
+### Published: 07/06/2021 14:17:37 by Raymond Piller
+
+Query `quser.exe` and return a proper PowerShell Object.
+
+__Downloads__: 2,944,942 | __Repository__: 
+
+## [NtpTime](https://www.powershellgallery.com/Packages/NtpTime/1.1) | 1.1
+
+### Published: 10/02/2015 20:16:24 by Chris Warwick
+
+Get NTP Time from a specified NTP Server
+
+__Downloads__: 2,935,056 | __Repository__: https://github.com/ChrisWarwick/PowerShell-NTP-Time
+
+## [AuditPolicyDsc](https://www.powershellgallery.com/Packages/AuditPolicyDsc/1.4.0.0) | 1.4.0.0
+
+### Published: 01/10/2019 00:20:24 by Microsoft Corporation
+
+The AuditPolicyDsc module allows you to configure and manage the advanced audit policy on all currently supported versions of Windows.
+
+__Downloads__: 2,920,258 | __Repository__: https://github.com/PowerShell/AuditPolicyDsc
+
+## [Microsoft.Graph.Applications](https://www.powershellgallery.com/Packages/Microsoft.Graph.Applications/2.4.0) | 2.4.0
+
+### Published: 08/24/2023 15:17:42 by Microsoft Corporation
+
+Microsoft Graph PowerShell Cmdlets
+
+__Downloads__: 2,894,651 | __Repository__: https://github.com/microsoftgraph/msgraph-sdk-powershell
+
+## [SecurityPolicyDsc](https://www.powershellgallery.com/Packages/SecurityPolicyDsc/2.10.0.0) | 2.10.0.0
+
+### Published: 09/19/2019 02:32:09 by Microsoft Corporation
+
+This module is a wrapper around secedit.exe which provides the ability to configure user rights assignments
+
+__Downloads__: 2,869,810 | __Repository__: https://github.com/PowerShell/SecurityPolicyDsc
+
+## [MicrosoftPowerBIMgmt.Profile](https://www.powershellgallery.com/Packages/MicrosoftPowerBIMgmt.Profile/1.2.1111) | 1.2.1111
+
+### Published: 11/15/2022 00:42:08 by Microsoft Corporation
+
+Microsoft Power BI PowerShell - Profile credential management cmdlets for Microsoft Power BI
+
+__Downloads__: 2,774,642 | __Repository__: https://github.com/Microsoft/powerbi-powershell
+
+## [HPWarranty](https://www.powershellgallery.com/Packages/HPWarranty/2.6.2) | 2.6.2
+
+### Published: 08/22/2016 19:59:24 by Thomas J. Malkewitz @dotps1 and Ben @beanska
+
+PowerShell Module designed to retrieve Hewlett-Packard Warranty Information.
+
+__Downloads__: 2,760,250 | __Repository__: http://dotps1.github.io/HPWarranty
+
+## [Microsoft.Graph](https://www.powershellgallery.com/Packages/Microsoft.Graph/2.4.0) | 2.4.0
+
+### Published: 08/24/2023 15:20:13 by Microsoft
+
+Microsoft Graph PowerShell module
+
+__Downloads__: 2,632,063 | __Repository__: https://github.com/microsoftgraph/msgraph-sdk-powershell
+
+## [VcRedist](https://www.powershellgallery.com/Packages/VcRedist/4.1.484) | 4.1.484
+
+### Published: 06/03/2023 05:40:00 by Aaron Parker
+
+A module for lifecycle management of the Microsoft Visual C++ Redistributables. VcRedist downloads, installs and uninstalls the supported (and unsupported) Redistributables. Use for local install, gold image creation and update, or importing as applications into the Microsoft Deployment Toolkit, Microsoft Configuration Manager or Microsoft Intune. Supports passive and silent installs, and uninstalls of the Visual C++ Redistributables.
+
+__Downloads__: 2,603,731 | __Repository__: https://vcredist.com/
+
+## [Microsoft.Graph.Identity.SignIns](https://www.powershellgallery.com/Packages/Microsoft.Graph.Identity.SignIns/2.4.0) | 2.4.0
+
+### Published: 08/24/2023 15:19:15 by Microsoft Corporation
+
+Microsoft Graph PowerShell Cmdlets
+
+__Downloads__: 2,591,999 | __Repository__: https://github.com/microsoftgraph/msgraph-sdk-powershell
+
+## [PSDiscoveryProtocol](https://www.powershellgallery.com/Packages/PSDiscoveryProtocol/1.4.3) | 1.4.3
+
+### Published: 04/14/2023 21:26:37 by lahell
+
+Capture and parse CDP and LLDP packets on local or remote computers
+
+__Downloads__: 2,586,346 | __Repository__: https://github.com/lahell/PSDiscoveryProtocol
+
+## [Microsoft.Graph.DeviceManagement](https://www.powershellgallery.com/Packages/Microsoft.Graph.DeviceManagement/2.4.0) | 2.4.0
+
+### Published: 08/24/2023 15:18:27 by Microsoft Corporation
+
+Microsoft Graph PowerShell Cmdlets
+
+__Downloads__: 2,585,278 | __Repository__: https://github.com/microsoftgraph/msgraph-sdk-powershell
+
+## [WifiTools](https://www.powershellgallery.com/Packages/WifiTools/1.8.4) | 1.8.4
+
+### Published: 12/29/2022 22:01:01 by Krisztian Buscsei
+
+A set of tools that can simplify handle Wi-Fi profiles, connection. Also additional tools that closely related to networking and Wi-Fi.
+
+__Downloads__: 2,572,408 | __Repository__: https://github.com/buscseik/WifiTools/
+
+## [Microsoft.Graph.Users.Actions](https://www.powershellgallery.com/Packages/Microsoft.Graph.Users.Actions/2.4.0) | 2.4.0
+
+### Published: 08/24/2023 15:20:02 by Microsoft Corporation
+
+Microsoft Graph PowerShell Cmdlets
+
+__Downloads__: 2,564,721 | __Repository__: https://github.com/microsoftgraph/msgraph-sdk-powershell
+
+## [PSAtera](https://www.powershellgallery.com/Packages/PSAtera/1.5.7) | 1.5.7
+
+### Published: 03/31/2021 14:47:12 by Dave Long
+
+PowerShell Module for interacting with the Atera API
+
+__Downloads__: 2,560,380 | __Repository__: https://github.com/davejlong/PSAtera
+
+## [AudioDeviceCmdlets](https://www.powershellgallery.com/Packages/AudioDeviceCmdlets/3.1.0.2) | 3.1.0.2
+
+### Published: 05/28/2022 18:44:10 by Francois Gendron <fg@frgn.ca>
+
+AudioDeviceCmdlets is a suite of PowerShell Cmdlets to control audio devices on Windows
+
+__Downloads__: 2,557,153 | __Repository__: https://github.com/frgnca/AudioDeviceCmdlets
+
+## [Microsoft.Graph.Devices.CorporateManagement](https://www.powershellgallery.com/Packages/Microsoft.Graph.Devices.CorporateManagement/2.4.0) | 2.4.0
+
+### Published: 08/24/2023 15:18:35 by Microsoft Corporation
+
+Microsoft Graph PowerShell Cmdlets
+
+__Downloads__: 2,538,283 | __Repository__: https://github.com/microsoftgraph/msgraph-sdk-powershell
+
+## [Microsoft.Graph.DeviceManagement.Administration](https://www.powershellgallery.com/Packages/Microsoft.Graph.DeviceManagement.Administration/2.4.0) | 2.4.0
+
+### Published: 08/24/2023 15:18:15 by Microsoft Corporation
+
+Microsoft Graph PowerShell Cmdlets
+
+__Downloads__: 2,509,246 | __Repository__: https://github.com/microsoftgraph/msgraph-sdk-powershell
+
+## [MSI](https://www.powershellgallery.com/Packages/MSI/3.3.4) | 3.3.4
+
+### Published: 02/17/2020 04:35:44 by Heath Stewart
+
+Exposes Windows Installer functionality to Windows PowerShell
+
+__Downloads__: 2,473,649 | __Repository__: https://github.com/heaths/psmsi
+
+## [VMware.Sdk.Runtime](https://www.powershellgallery.com/Packages/VMware.Sdk.Runtime/1.0.1111.21624264) | 1.0.1111.21624264
+
+### Published: 04/18/2023 15:33:01 by VMware
+
+This PowerShell module contains PowerShell Advanced functions for VMware.Sdk.Runtime.
+
+__Downloads__: 2,449,683 | __Repository__: 
+
+## [Proxx.SNMP](https://www.powershellgallery.com/Packages/Proxx.SNMP/1.1.1.6) | 1.1.1.6
+
+### Published: 12/04/2020 08:45:06 by Marco van Gaal
+
+SNMP Functions for Get and Walk both pipeline aware
+
+__Downloads__: 2,434,162 | __Repository__: http://www.proxx.nl/Module/SNMP/
+
+## [VMware.Sdk.vSphereRuntime](https://www.powershellgallery.com/Packages/VMware.Sdk.vSphereRuntime/8.0.1111.21624264) | 8.0.1111.21624264
+
+### Published: 04/18/2023 15:33:07 by VMware
+
+This PowerShell module contains PowerShell Advanced functions for VMware.Sdk.vSphereRuntime.
+
+__Downloads__: 2,428,598 | __Repository__: 
+
+## [Microsoft.Graph.Identity.Governance](https://www.powershellgallery.com/Packages/Microsoft.Graph.Identity.Governance/2.4.0) | 2.4.0
+
+### Published: 08/24/2023 15:19:08 by Microsoft Corporation
+
+Microsoft Graph PowerShell Cmdlets
+
+__Downloads__: 2,428,018 | __Repository__: https://github.com/microsoftgraph/msgraph-sdk-powershell
+
+## [Microsoft.Xrm.Tooling.CrmConnector.PowerShell](https://www.powershellgallery.com/Packages/Microsoft.Xrm.Tooling.CrmConnector.PowerShell/3.3.0.1003) | 3.3.0.1003
+
+### Published: 07/20/2023 18:17:07 by Microsoft Common Data Service Team
+
+PowerShell wrapper for CDS CrmServiceClient
+
+__Downloads__: 2,397,056 | __Repository__: https://docs.microsoft.com/powershell/module/microsoft.xrm.tooling.crmconnector.powershell/?view=dynamics365ce-ps
+
+## [Microsoft.Graph.People](https://www.powershellgallery.com/Packages/Microsoft.Graph.People/2.4.0) | 2.4.0
+
+### Published: 08/24/2023 15:19:27 by Microsoft Corporation
+
+Microsoft Graph PowerShell Cmdlets
+
+__Downloads__: 2,391,999 | __Repository__: https://github.com/microsoftgraph/msgraph-sdk-powershell
+
+## [wifiprofilemanagement](https://www.powershellgallery.com/Packages/wifiprofilemanagement/1.1.0.0) | 1.1.0.0
+
+### Published: 05/08/2023 20:12:51 by Jason Walker
+
+Leverages the native WiFi functions to manage WiFi profiles.
+
+__Downloads__: 2,384,591 | __Repository__: https://github.com/jcwalker/WiFiProfileManagement
+
+## [Microsoft.Graph.Mail](https://www.powershellgallery.com/Packages/Microsoft.Graph.Mail/2.4.0) | 2.4.0
+
+### Published: 08/24/2023 15:19:19 by Microsoft Corporation
+
+Microsoft Graph PowerShell Cmdlets
+
+__Downloads__: 2,379,903 | __Repository__: https://github.com/microsoftgraph/msgraph-sdk-powershell
+
+## [Microsoft.Graph.Sites](https://www.powershellgallery.com/Packages/Microsoft.Graph.Sites/2.4.0) | 2.4.0
+
+### Published: 08/24/2023 15:19:53 by Microsoft Corporation
+
+Microsoft Graph PowerShell Cmdlets
+
+__Downloads__: 2,379,158 | __Repository__: https://github.com/microsoftgraph/msgraph-sdk-powershell
+
+## [Microsoft.Graph.Security](https://www.powershellgallery.com/Packages/Microsoft.Graph.Security/2.4.0) | 2.4.0
+
+### Published: 08/24/2023 15:19:48 by Microsoft Corporation
+
+Microsoft Graph PowerShell Cmdlets
+
+__Downloads__: 2,370,815 | __Repository__: https://github.com/microsoftgraph/msgraph-sdk-powershell
+
+## [Microsoft.Graph.Bookings](https://www.powershellgallery.com/Packages/Microsoft.Graph.Bookings/2.4.0) | 2.4.0
+
+### Published: 08/24/2023 15:17:51 by Microsoft Corporation
+
+Microsoft Graph PowerShell Cmdlets
+
+__Downloads__: 2,366,574 | __Repository__: https://github.com/microsoftgraph/msgraph-sdk-powershell
+
+## [WallpaperManager](https://www.powershellgallery.com/Packages/WallpaperManager/0.1.22) | 0.1.22
+
+### Published: 09/09/2019 16:47:32 by Kendal Ballard Raymond Piller
+
+Allows for an image to be dynamically set as the lockscreen image based off of the resolution of the primary monitor.
+
+__Downloads__: 2,357,229 | __Repository__: 
+
+## [AWS.Tools.Installer](https://www.powershellgallery.com/Packages/AWS.Tools.Installer/1.0.2.4) | 1.0.2.4
+
+### Published: 02/28/2022 23:27:54 by Amazon.com Inc
+
+The AWS.Tools.Installer module makes it easier to install, update and uninstall other AWS.Tools modules (see https://www.powershellgallery.com/packages/AWS.Tools.Common/).
+You can use a single command like 'Install-AWSToolsModule EC2,S3' to install multiple modules.
+You can also update all your installed AWS.Tools modules and remove old versions by running `Update-AWSToolsModule -CleanUp`.
+
+__Downloads__: 2,355,653 | __Repository__: https://github.com/aws/aws-tools-for-powershell
+
+## [Microsoft.Graph.Notes](https://www.powershellgallery.com/Packages/Microsoft.Graph.Notes/2.4.0) | 2.4.0
+
+### Published: 08/24/2023 15:19:24 by Microsoft Corporation
+
+Microsoft Graph PowerShell Cmdlets
+
+__Downloads__: 2,352,943 | __Repository__: https://github.com/microsoftgraph/msgraph-sdk-powershell
+
+## [Microsoft.Graph.CrossDeviceExperiences](https://www.powershellgallery.com/Packages/Microsoft.Graph.CrossDeviceExperiences/2.4.0) | 2.4.0
+
+### Published: 08/24/2023 15:18:08 by Microsoft Corporation
+
+Microsoft Graph PowerShell Cmdlets
+
+__Downloads__: 2,352,058 | __Repository__: https://github.com/microsoftgraph/msgraph-sdk-powershell
+
+## [Microsoft.Graph.SchemaExtensions](https://www.powershellgallery.com/Packages/Microsoft.Graph.SchemaExtensions/2.4.0) | 2.4.0
+
+### Published: 08/24/2023 15:19:40 by Microsoft Corporation
+
+Microsoft Graph PowerShell Cmdlets
+
+__Downloads__: 2,350,199 | __Repository__: https://github.com/microsoftgraph/msgraph-sdk-powershell
+
+## [AccessControlDSC](https://www.powershellgallery.com/Packages/AccessControlDSC/1.4.3) | 1.4.3
+
+### Published: 09/29/2022 14:14:55 by Microsoft Corporation
+
+Module with DSC resource to manage Registry and NTFS access entries and manage Active Directory SACL
+
+__Downloads__: 2,350,096 | __Repository__: https://github.com/mcollera/AccessControlDsc
+
+*Updated: Saturday, 02 September 2023 09:51:32 UTC*
