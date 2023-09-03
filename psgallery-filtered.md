@@ -3,6 +3,70 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [Log4NetParse](https://www.powershellgallery.com/Packages/Log4NetParse/0.2.0) | 0.2.0
+
+### Published: 09/02/2023 23:20:28 by Gilbert Sanchez
+
+A module to parse log4net logs.
+
+__Downloads__: 0 | __Repository__: 
+
+## [Fonts](https://www.powershellgallery.com/Packages/Fonts/0.0.17) | 0.0.17
+
+### Published: 09/02/2023 23:16:32 by Marius Storhaug
+
+Manage fonts on a Windows system
+
+__Downloads__: 93 | __Repository__: https://github.com/MariusStorhaug/Fonts
+
+## [Utilities](https://www.powershellgallery.com/Packages/Utilities/0.0.16) | 0.0.16
+
+### Published: 09/02/2023 23:13:21 by Marius Storhaug
+
+PowerShell Module of Utilities
+
+__Downloads__: 523 | __Repository__: https://github.com/MariusStorhaug/Utilities
+
+## [tiPS](https://www.powershellgallery.com/Packages/tiPS/0.0.27) | 0.0.27
+
+### Published: 09/02/2023 20:56:50 by Daniel Schroeder
+
+PowerShell tips delivered straight to your terminal.
+
+__Downloads__: 90 | __Repository__: https://github.com/deadlydog/PowerShell.tiPS
+
+## [SACRED](https://www.powershellgallery.com/Packages/SACRED/0.0.5) | 0.0.5
+
+### Published: 09/02/2023 18:47:57 by Chris Clohosy
+
+This is the top-level module for SACRED. It enables a combination of sub modules to be installed at once from one global version.
+
+__Downloads__: 7 | __Repository__: https://github.com/ccdigix/SACRED
+
+## [SACRED.Store](https://www.powershellgallery.com/Packages/SACRED.Store/0.0.3) | 0.0.3
+
+### Published: 09/02/2023 18:47:10 by Chris Clohosy
+
+This module contains general logic for storing and retrieving data from a SACRED store.
+
+__Downloads__: 3 | __Repository__: https://github.com/ccdigix/SACRED
+
+## [SACRED.Job](https://www.powershellgallery.com/Packages/SACRED.Job/0.0.3) | 0.0.3
+
+### Published: 09/02/2023 18:46:47 by Chris Clohosy
+
+This module contains logic for running a SACRED job either directly, or as part of a wider schedule of jobs.
+
+__Downloads__: 3 | __Repository__: https://github.com/ccdigix/SACRED
+
+## [PoshDotnetDumpAnalyzeViewerModule](https://www.powershellgallery.com/Packages/PoshDotnetDumpAnalyzeViewerModule/0.0.6) | 0.0.6
+
+### Published: 09/02/2023 18:21:34 by Igor Bagdamyan
+
+Micro UI for dotnet dump analyze command
+
+__Downloads__: 76 | __Repository__: https://github.com/En3Tho/PoshDotnetDumpAnalyzeViewer
+
 ## [PSPlex](https://www.powershellgallery.com/Packages/PSPlex/1.0.13) | 1.0.13
 
 ### Published: 09/02/2023 15:15:14 by Robin Malik
@@ -131,14 +195,6 @@ This module contain tools to facilitate the administration of Windows computers.
 
 __Downloads__: 288 | __Repository__: https://github.com/FranciscoNabas/WindowsUtils
 
-## [SACRED](https://www.powershellgallery.com/Packages/SACRED/0.0.4) | 0.0.4
-
-### Published: 09/01/2023 15:04:55 by Chris Clohosy
-
-This is the top-level module for SACRED. It enables a combination of sub modules to be installed at once from one global version.
-
-__Downloads__: 7 | __Repository__: https://github.com/ccdigix/SACRED
-
 ## [SACRED.Util.Azure](https://www.powershellgallery.com/Packages/SACRED.Util.Azure/0.0.2) | 0.0.2
 
 ### Published: 09/01/2023 15:04:09 by Chris Clohosy
@@ -155,14 +211,6 @@ This module contains SACRED logic for updating Azure Key Vault secrets and certi
 
 __Downloads__: 5 | __Repository__: https://github.com/ccdigix/SACRED
 
-## [SACRED.Store](https://www.powershellgallery.com/Packages/SACRED.Store/0.0.2) | 0.0.2
-
-### Published: 09/01/2023 15:01:25 by Chris Clohosy
-
-This module contains general logic for storing and retrieving data from a SACRED store.
-
-__Downloads__: 3 | __Repository__: https://github.com/ccdigix/SACRED
-
 ## [SACRED.Rotate.Azure.ServicePrincipal](https://www.powershellgallery.com/Packages/SACRED.Rotate.Azure.ServicePrincipal/0.0.1) | 0.0.1
 
 ### Published: 09/01/2023 15:01:05 by Chris Clohosy
@@ -178,14 +226,6 @@ __Downloads__: 0 | __Repository__: https://github.com/ccdigix/SACRED
 This module contains SACRED logic for rotating Azure Cosmos DB keys.
 
 __Downloads__: 5 | __Repository__: https://github.com/ccdigix/SACRED
-
-## [SACRED.Job](https://www.powershellgallery.com/Packages/SACRED.Job/0.0.2) | 0.0.2
-
-### Published: 09/01/2023 14:58:59 by Chris Clohosy
-
-This module contains logic for running a SACRED job either directly, or as part of a wider schedule of jobs.
-
-__Downloads__: 3 | __Repository__: https://github.com/ccdigix/SACRED
 
 ## [SpecComPortManager](https://www.powershellgallery.com/Packages/SpecComPortManager/1.0.3) | 1.0.3
 
@@ -454,38 +494,6 @@ Convenient cmdlets and aliases which wrap `ruby`.
 
 __Downloads__: 16 | __Repository__: https://github.com/pwshrc/poshy-wrap-ruby
 
-## [poshy-wrap-pipenv](https://www.powershellgallery.com/Packages/poshy-wrap-pipenv/0.2.10.0) | 0.2.10.0
-
-### Published: 08/31/2023 19:18:12 by Pwshrc Maintainers
-
-Convenient cmdlets and aliases which wrap `pipenv`.
-
-__Downloads__: 8 | __Repository__: https://github.com/pwshrc/poshy-wrap-pipenv
-
-## [poshy-wrap-pyenv](https://www.powershellgallery.com/Packages/poshy-wrap-pyenv/0.2.10.0) | 0.2.10.0
-
-### Published: 08/31/2023 19:18:08 by Pwshrc Maintainers
-
-Convenient cmdlets and aliases which wrap `pyenv`.
-
-__Downloads__: 8 | __Repository__: https://github.com/pwshrc/poshy-wrap-pyenv
-
-## [poshy-wrap-pylint](https://www.powershellgallery.com/Packages/poshy-wrap-pylint/0.2.10.0) | 0.2.10.0
-
-### Published: 08/31/2023 19:18:01 by Pwshrc Maintainers
-
-Convenient cmdlets and aliases which wrap `pylint`.
-
-__Downloads__: 8 | __Repository__: https://github.com/pwshrc/poshy-wrap-pylint
-
-## [poshy-wrap-systemctl](https://www.powershellgallery.com/Packages/poshy-wrap-systemctl/0.2.10.0) | 0.2.10.0
-
-### Published: 08/31/2023 19:17:49 by Pwshrc Maintainers
-
-Convenient cmdlets and aliases which wrap `systemctl`.
-
-__Downloads__: 8 | __Repository__: https://github.com/pwshrc/poshy-wrap-systemctl
-
 ## [poshy-wrap-terraform](https://www.powershellgallery.com/Packages/poshy-wrap-terraform/0.3.12.0) | 0.3.12.0
 
 ### Published: 08/31/2023 19:17:48 by Pwshrc Maintainers
@@ -517,6 +525,30 @@ __Downloads__: 8 | __Repository__: https://github.com/pwshrc/poshy-wrap-kubectl
 Convenient cmdlets and aliases which wrap `pip3`.
 
 __Downloads__: 8 | __Repository__: https://github.com/pwshrc/poshy-wrap-pip
+
+## [poshy-wrap-nmap](https://www.powershellgallery.com/Packages/poshy-wrap-nmap/0.2.10.0) | 0.2.10.0
+
+### Published: 08/31/2023 19:17:40 by Pwshrc Maintainers
+
+Convenient cmdlets and aliases which wrap `nmap`.
+
+__Downloads__: 8 | __Repository__: https://github.com/pwshrc/poshy-wrap-nmap
+
+## [poshy-wrap-golang](https://www.powershellgallery.com/Packages/poshy-wrap-golang/0.2.11.0) | 0.2.11.0
+
+### Published: 08/31/2023 19:17:39 by Pwshrc Maintainers
+
+Convenient cmdlets and aliases which wrap `go`.
+
+__Downloads__: 8 | __Repository__: https://github.com/pwshrc/poshy-wrap-golang
+
+## [poshy-wrap-git-lfs](https://www.powershellgallery.com/Packages/poshy-wrap-git-lfs/0.2.10.0) | 0.2.10.0
+
+### Published: 08/31/2023 19:17:38 by Pwshrc Maintainers
+
+Convenient cmdlets and aliases which wrap `git-lfs`.
+
+__Downloads__: 8 | __Repository__: https://github.com/pwshrc/poshy-wrap-git-lfs
 
 ## [poshy-wrap-git-flow](https://www.powershellgallery.com/Packages/poshy-wrap-git-flow/0.2.10.0) | 0.2.10.0
 
@@ -550,22 +582,6 @@ Convenient cmdlets and aliases which wrap `helm`.
 
 __Downloads__: 8 | __Repository__: https://github.com/pwshrc/poshy-wrap-helm
 
-## [poshy-wrap-curl](https://www.powershellgallery.com/Packages/poshy-wrap-curl/0.2.10.0) | 0.2.10.0
-
-### Published: 08/31/2023 19:16:56 by Pwshrc Maintainers
-
-Convenient cmdlets and aliases which wrap `curl`.
-
-__Downloads__: 8 | __Repository__: https://github.com/pwshrc/poshy-wrap-curl
-
-## [poshy-wrap-apt](https://www.powershellgallery.com/Packages/poshy-wrap-apt/0.2.10.0) | 0.2.10.0
-
-### Published: 08/31/2023 19:16:33 by Pwshrc Maintainers
-
-Convenient cmdlets and aliases which wrap the `apt-get`, `apt`, and `aptitude` package managers.
-
-__Downloads__: 8 | __Repository__: https://github.com/pwshrc/poshy-wrap-apt
-
 ## [poshy-wrap-dotnet](https://www.powershellgallery.com/Packages/poshy-wrap-dotnet/0.2.11.0) | 0.2.11.0
 
 ### Published: 08/31/2023 19:16:29 by Pwshrc Maintainers
@@ -573,14 +589,6 @@ __Downloads__: 8 | __Repository__: https://github.com/pwshrc/poshy-wrap-apt
 Convenient cmdlets and aliases which wrap `dotnet`.
 
 __Downloads__: 9 | __Repository__: https://github.com/pwshrc/poshy-wrap-dotnet
-
-## [poshy-wrap-forgit](https://www.powershellgallery.com/Packages/poshy-wrap-forgit/0.2.10.0) | 0.2.10.0
-
-### Published: 08/31/2023 19:16:26 by Pwshrc Maintainers
-
-Convenient cmdlets and aliases which wrap `forgit`.
-
-__Downloads__: 8 | __Repository__: https://github.com/pwshrc/poshy-wrap-forgit
 
 ## [poshy-multimedia](https://www.powershellgallery.com/Packages/poshy-multimedia/0.6.9.0) | 0.6.9.0
 
@@ -614,6 +622,22 @@ Convenient cmdlets and aliases for performing various network activities, includ
 
 __Downloads__: 17 | __Repository__: https://github.com/pwshrc/poshy-net
 
+## [poshy-viewer-finder](https://www.powershellgallery.com/Packages/poshy-viewer-finder/0.2.10.0) | 0.2.10.0
+
+### Published: 08/31/2023 19:15:35 by Pwshrc Maintainers
+
+An experimental cross-platform library for enumerating the user's installed text viewers & editors, with capability filtering & execution argument configuration all baked in.
+
+__Downloads__: 8 | __Repository__: https://github.com/pwshrc/poshy-viewer-finder
+
+## [poshy-wrap-git](https://www.powershellgallery.com/Packages/poshy-wrap-git/0.2.10.0) | 0.2.10.0
+
+### Published: 08/31/2023 19:15:26 by Pwshrc Maintainers
+
+Convenient cmdlets and aliases which wrap `git`.
+
+__Downloads__: 8 | __Repository__: https://github.com/pwshrc/poshy-wrap-git
+
 ## [poshy-lucidity](https://www.powershellgallery.com/Packages/poshy-lucidity/0.3.13.0) | 0.3.13.0
 
 ### Published: 08/31/2023 19:15:23 by Pwshrc Maintainers
@@ -638,14 +662,6 @@ Convenient functions and aliases for performing directory listings in the style 
 
 __Downloads__: 7 | __Repository__: https://github.com/pwshrc/poshy-ls-isms
 
-## [poshy-colors](https://www.powershellgallery.com/Packages/poshy-colors/0.3.11.0) | 0.3.11.0
-
-### Published: 08/31/2023 19:14:51 by Pwshrc Maintainers
-
-Functions for generating ANSI terminal formatting sequences, including: blinking text, italic text, bold text, underlined text, strike-through text, reversed-color text, hyperlinked text, and 24-bit true color foreground and background coloring in RGB and HSL.
-
-__Downloads__: 52 | __Repository__: https://github.com/pwshrc/poshy-colors
-
 ## [poshy-notify-send](https://www.powershellgallery.com/Packages/poshy-notify-send/0.2.11.0) | 0.2.11.0
 
 ### Published: 08/31/2023 19:14:51 by Pwshrc Maintainers
@@ -654,6 +670,22 @@ A unified cross-platform wrapper function for generating desktop toast notificat
 
 __Downloads__: 9 | __Repository__: https://github.com/pwshrc/poshy-notify-send
 
+## [poshy-colors](https://www.powershellgallery.com/Packages/poshy-colors/0.3.11.0) | 0.3.11.0
+
+### Published: 08/31/2023 19:14:51 by Pwshrc Maintainers
+
+Functions for generating ANSI terminal formatting sequences, including: blinking text, italic text, bold text, underlined text, strike-through text, reversed-color text, hyperlinked text, and 24-bit true color foreground and background coloring in RGB and HSL.
+
+__Downloads__: 52 | __Repository__: https://github.com/pwshrc/poshy-colors
+
+## [poshy-ecks](https://www.powershellgallery.com/Packages/poshy-ecks/0.5.18.0) | 0.5.18.0
+
+### Published: 08/31/2023 19:14:47 by Pwshrc Maintainers
+
+Convenient cmdlets for executing arbitrary commands under exotic circumstances, including temporarily-altered environment variables and working directories.
+
+__Downloads__: 108 | __Repository__: https://github.com/pwshrc/poshy-ecks
+
 ## [poshy-env-var](https://www.powershellgallery.com/Packages/poshy-env-var/0.5.10.0) | 0.5.10.0
 
 ### Published: 08/31/2023 19:14:44 by Pwshrc Maintainers
@@ -661,14 +693,6 @@ __Downloads__: 9 | __Repository__: https://github.com/pwshrc/poshy-notify-send
 Ergonomic cmdlets for assigning, retrieving, and deleting environment variables - including path-munging for arbitrary PATH variables.
 
 __Downloads__: 87 | __Repository__: https://github.com/pwshrc/poshy-env-var
-
-## [poshy-wrap-docker](https://www.powershellgallery.com/Packages/poshy-wrap-docker/0.2.10.0) | 0.2.10.0
-
-### Published: 08/31/2023 19:14:43 by Pwshrc Maintainers
-
-Convenient cmdlets and aliases which wrap `docker`.
-
-__Downloads__: 8 | __Repository__: https://github.com/pwshrc/poshy-wrap-docker
 
 ## [poshy-dir-nav](https://www.powershellgallery.com/Packages/poshy-dir-nav/0.3.10.0) | 0.3.10.0
 
@@ -685,14 +709,6 @@ __Downloads__: 15 | __Repository__: https://github.com/pwshrc/poshy-dir-nav
 Convenient cmdlets for text searches against source code files.
 
 __Downloads__: 17 | __Repository__: https://github.com/pwshrc/poshy-code-search
-
-## [poshy-wrap-brew](https://www.powershellgallery.com/Packages/poshy-wrap-brew/0.2.11.0) | 0.2.11.0
-
-### Published: 08/31/2023 19:14:36 by Pwshrc Maintainers
-
-Convenient cmdlets and aliases which wrap `brew`.
-
-__Downloads__: 8 | __Repository__: https://github.com/pwshrc/poshy-wrap-brew
 
 ## [poshy-coreutils-ish](https://www.powershellgallery.com/Packages/poshy-coreutils-ish/0.3.10.0) | 0.3.10.0
 
@@ -725,6 +741,14 @@ __Downloads__: 619 | __Repository__: https://github.com/skywayskase/PSSmartsheet
 Convenient cmdlets and aliases which wrap `vault`.
 
 __Downloads__: 17 | __Repository__: https://github.com/pwshrc/poshy-wrap-vault
+
+## [poshy-wrap-maven](https://www.powershellgallery.com/Packages/poshy-wrap-maven/0.2.9.0) | 0.2.9.0
+
+### Published: 08/31/2023 18:46:32 by Pwshrc Maintainers
+
+Convenient cmdlets and aliases which wrap `maven`.
+
+__Downloads__: 8 | __Repository__: https://github.com/pwshrc/poshy-wrap-maven
 
 ## [poshy-wrap-argcomplete](https://www.powershellgallery.com/Packages/poshy-wrap-argcomplete/0.3.11.0) | 0.3.11.0
 
@@ -1098,6 +1122,14 @@ __Downloads__: 2,693 | __Repository__: https://github.com/oracle/oci-powershell-
 PowerShell Module for GitHub.Repositories
 
 __Downloads__: 14 | __Repository__: 
+
+## [GitHub.Pages](https://www.powershellgallery.com/Packages/GitHub.Pages/0.0.1) | 0.0.1
+
+### Published: 08/29/2023 20:02:07 by Marius Storhaug
+
+PowerShell Module for GitHub.Pages
+
+__Downloads__: 1 | __Repository__: https://github.com/MariusStorhaug/GitHub
 
 ## [GitHub.Releases](https://www.powershellgallery.com/Packages/GitHub.Releases/0.0.1) | 0.0.1
 
@@ -1659,14 +1691,6 @@ This modules provides Cmdlets for OCI Identity Service
 
 __Downloads__: 5,997 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-## [GitHub.DeployKeys](https://www.powershellgallery.com/Packages/GitHub.DeployKeys/0.0.1) | 0.0.1
-
-### Published: 08/29/2023 19:49:31 by Marius Storhaug
-
-PowerShell Module for GitHub.DeployKeys
-
-__Downloads__: 1 | __Repository__: https://github.com/MariusStorhaug/GitHub
-
 ## [OCI.PSModules.Healthchecks](https://www.powershellgallery.com/Packages/OCI.PSModules.Healthchecks/66.0.0) | 66.0.0
 
 ### Published: 08/29/2023 19:49:31 by Oracle Cloud Infrastructure
@@ -1674,6 +1698,14 @@ __Downloads__: 1 | __Repository__: https://github.com/MariusStorhaug/GitHub
 This modules provides Cmdlets for OCI Healthchecks Service
 
 __Downloads__: 16,339 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+
+## [GitHub.DeployKeys](https://www.powershellgallery.com/Packages/GitHub.DeployKeys/0.0.1) | 0.0.1
+
+### Published: 08/29/2023 19:49:31 by Marius Storhaug
+
+PowerShell Module for GitHub.DeployKeys
+
+__Downloads__: 1 | __Repository__: https://github.com/MariusStorhaug/GitHub
 
 ## [OCI.PSModules.Governancerulescontrolplane](https://www.powershellgallery.com/Packages/OCI.PSModules.Governancerulescontrolplane/66.0.0) | 66.0.0
 
@@ -1995,36 +2027,4 @@ This modules provides Cmdlets for OCI Budget Service
 
 __Downloads__: 3,588 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-## [OCI.PSModules.Blockchain](https://www.powershellgallery.com/Packages/OCI.PSModules.Blockchain/66.0.0) | 66.0.0
-
-### Published: 08/29/2023 19:44:35 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Blockchain Service
-
-__Downloads__: 3,601 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Bds](https://www.powershellgallery.com/Packages/OCI.PSModules.Bds/66.0.0) | 66.0.0
-
-### Published: 08/29/2023 19:44:28 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Bds Service
-
-__Downloads__: 3,671 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Bastion](https://www.powershellgallery.com/Packages/OCI.PSModules.Bastion/66.0.0) | 66.0.0
-
-### Published: 08/29/2023 19:44:20 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Bastion Service
-
-__Downloads__: 2,957 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Autoscaling](https://www.powershellgallery.com/Packages/OCI.PSModules.Autoscaling/66.0.0) | 66.0.0
-
-### Published: 08/29/2023 19:44:13 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Autoscaling Service
-
-__Downloads__: 3,600 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-*Updated: Saturday, 02 September 2023 17:53:12 UTC*
+*Updated: Sunday, 03 September 2023 02:02:24 UTC*
