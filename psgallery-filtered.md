@@ -3,6 +3,46 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [NerdFonts](https://www.powershellgallery.com/Packages/NerdFonts/0.0.9) | 0.0.9
+
+### Published: 09/03/2023 08:19:33 by Marius Storhaug
+
+A PowerShell module to manage NerdFonts
+
+__Downloads__: 49 | __Repository__: https://github.com/MariusStorhaug/NerdFonts
+
+## [Fonts](https://www.powershellgallery.com/Packages/Fonts/0.0.18) | 0.0.18
+
+### Published: 09/03/2023 08:17:38 by Marius Storhaug
+
+Manage fonts on a Windows system
+
+__Downloads__: 93 | __Repository__: https://github.com/MariusStorhaug/Fonts
+
+## [PATH](https://www.powershellgallery.com/Packages/PATH/0.0.5) | 0.0.5
+
+### Published: 09/03/2023 08:15:25 by Marius Storhaug
+
+A PowerShell module for managing the PATH environment variable.
+
+__Downloads__: 34 | __Repository__: https://github.com/MariusStorhaug/PATH
+
+## [Utilities](https://www.powershellgallery.com/Packages/Utilities/0.0.17) | 0.0.17
+
+### Published: 09/03/2023 08:13:20 by Marius Storhaug
+
+PowerShell Module of Utilities
+
+__Downloads__: 523 | __Repository__: https://github.com/MariusStorhaug/Utilities
+
+## [ChocoLogParse](https://www.powershellgallery.com/Packages/ChocoLogParse/0.1.0) | 0.1.0
+
+### Published: 09/03/2023 04:13:18 by Gilbert Sanchez
+
+Parses Chocolatey logs into easy to use objects.
+
+__Downloads__: 0 | __Repository__: 
+
 ## [Log4NetParse](https://www.powershellgallery.com/Packages/Log4NetParse/0.2.0) | 0.2.0
 
 ### Published: 09/02/2023 23:20:28 by Gilbert Sanchez
@@ -10,22 +50,6 @@ These are the latest 250 modules published to the [PowerShell Gallery](https://p
 A module to parse log4net logs.
 
 __Downloads__: 0 | __Repository__: 
-
-## [Fonts](https://www.powershellgallery.com/Packages/Fonts/0.0.17) | 0.0.17
-
-### Published: 09/02/2023 23:16:32 by Marius Storhaug
-
-Manage fonts on a Windows system
-
-__Downloads__: 93 | __Repository__: https://github.com/MariusStorhaug/Fonts
-
-## [Utilities](https://www.powershellgallery.com/Packages/Utilities/0.0.16) | 0.0.16
-
-### Published: 09/02/2023 23:13:21 by Marius Storhaug
-
-PowerShell Module of Utilities
-
-__Downloads__: 523 | __Repository__: https://github.com/MariusStorhaug/Utilities
 
 ## [tiPS](https://www.powershellgallery.com/Packages/tiPS/0.0.27) | 0.0.27
 
@@ -366,14 +390,6 @@ Contains a set of resuable PowerShell functions for working with Azure Resource 
 
 __Downloads__: 155 | __Repository__: 
 
-## [CoreePower.Config](https://www.powershellgallery.com/Packages/CoreePower.Config/0.0.0.58) | 0.0.0.58
-
-### Published: 09/01/2023 05:18:43 by Carsten Riedel
-
-Powershell module for basic configuration
-
-__Downloads__: 127 | __Repository__: 
-
 ## [BruhArmy](https://www.powershellgallery.com/Packages/BruhArmy/1.3.0) | 1.3.0
 
 ### Published: 09/01/2023 01:42:20 by Evan Deters
@@ -494,6 +510,38 @@ Convenient cmdlets and aliases which wrap `ruby`.
 
 __Downloads__: 16 | __Repository__: https://github.com/pwshrc/poshy-wrap-ruby
 
+## [poshy-wrap-pipenv](https://www.powershellgallery.com/Packages/poshy-wrap-pipenv/0.2.10.0) | 0.2.10.0
+
+### Published: 08/31/2023 19:18:12 by Pwshrc Maintainers
+
+Convenient cmdlets and aliases which wrap `pipenv`.
+
+__Downloads__: 8 | __Repository__: https://github.com/pwshrc/poshy-wrap-pipenv
+
+## [poshy-wrap-pyenv](https://www.powershellgallery.com/Packages/poshy-wrap-pyenv/0.2.10.0) | 0.2.10.0
+
+### Published: 08/31/2023 19:18:08 by Pwshrc Maintainers
+
+Convenient cmdlets and aliases which wrap `pyenv`.
+
+__Downloads__: 8 | __Repository__: https://github.com/pwshrc/poshy-wrap-pyenv
+
+## [poshy-wrap-pylint](https://www.powershellgallery.com/Packages/poshy-wrap-pylint/0.2.10.0) | 0.2.10.0
+
+### Published: 08/31/2023 19:18:01 by Pwshrc Maintainers
+
+Convenient cmdlets and aliases which wrap `pylint`.
+
+__Downloads__: 8 | __Repository__: https://github.com/pwshrc/poshy-wrap-pylint
+
+## [poshy-wrap-systemctl](https://www.powershellgallery.com/Packages/poshy-wrap-systemctl/0.2.10.0) | 0.2.10.0
+
+### Published: 08/31/2023 19:17:49 by Pwshrc Maintainers
+
+Convenient cmdlets and aliases which wrap `systemctl`.
+
+__Downloads__: 8 | __Repository__: https://github.com/pwshrc/poshy-wrap-systemctl
+
 ## [poshy-wrap-terraform](https://www.powershellgallery.com/Packages/poshy-wrap-terraform/0.3.12.0) | 0.3.12.0
 
 ### Published: 08/31/2023 19:17:48 by Pwshrc Maintainers
@@ -582,6 +630,22 @@ Convenient cmdlets and aliases which wrap `helm`.
 
 __Downloads__: 8 | __Repository__: https://github.com/pwshrc/poshy-wrap-helm
 
+## [poshy-wrap-curl](https://www.powershellgallery.com/Packages/poshy-wrap-curl/0.2.10.0) | 0.2.10.0
+
+### Published: 08/31/2023 19:16:56 by Pwshrc Maintainers
+
+Convenient cmdlets and aliases which wrap `curl`.
+
+__Downloads__: 8 | __Repository__: https://github.com/pwshrc/poshy-wrap-curl
+
+## [poshy-wrap-apt](https://www.powershellgallery.com/Packages/poshy-wrap-apt/0.2.10.0) | 0.2.10.0
+
+### Published: 08/31/2023 19:16:33 by Pwshrc Maintainers
+
+Convenient cmdlets and aliases which wrap the `apt-get`, `apt`, and `aptitude` package managers.
+
+__Downloads__: 8 | __Repository__: https://github.com/pwshrc/poshy-wrap-apt
+
 ## [poshy-wrap-dotnet](https://www.powershellgallery.com/Packages/poshy-wrap-dotnet/0.2.11.0) | 0.2.11.0
 
 ### Published: 08/31/2023 19:16:29 by Pwshrc Maintainers
@@ -597,6 +661,14 @@ __Downloads__: 9 | __Repository__: https://github.com/pwshrc/poshy-wrap-dotnet
 Convenient cmdlets for working with various archive, multimedia, and data-encoding formats directly in your PowerShell terminal.
 
 __Downloads__: 18 | __Repository__: https://github.com/pwshrc/poshy-multimedia
+
+## [poshy-wrap-forgit](https://www.powershellgallery.com/Packages/poshy-wrap-forgit/0.2.10.0) | 0.2.10.0
+
+### Published: 08/31/2023 19:16:26 by Pwshrc Maintainers
+
+Convenient cmdlets and aliases which wrap `forgit`.
+
+__Downloads__: 8 | __Repository__: https://github.com/pwshrc/poshy-wrap-forgit
 
 ## [poshy-wrap-gem](https://www.powershellgallery.com/Packages/poshy-wrap-gem/0.2.10.0) | 0.2.10.0
 
@@ -694,6 +766,14 @@ Ergonomic cmdlets for assigning, retrieving, and deleting environment variables 
 
 __Downloads__: 87 | __Repository__: https://github.com/pwshrc/poshy-env-var
 
+## [poshy-wrap-docker](https://www.powershellgallery.com/Packages/poshy-wrap-docker/0.2.10.0) | 0.2.10.0
+
+### Published: 08/31/2023 19:14:43 by Pwshrc Maintainers
+
+Convenient cmdlets and aliases which wrap `docker`.
+
+__Downloads__: 8 | __Repository__: https://github.com/pwshrc/poshy-wrap-docker
+
 ## [poshy-dir-nav](https://www.powershellgallery.com/Packages/poshy-dir-nav/0.3.10.0) | 0.3.10.0
 
 ### Published: 08/31/2023 19:14:42 by Pwshrc Maintainers
@@ -709,6 +789,14 @@ __Downloads__: 15 | __Repository__: https://github.com/pwshrc/poshy-dir-nav
 Convenient cmdlets for text searches against source code files.
 
 __Downloads__: 17 | __Repository__: https://github.com/pwshrc/poshy-code-search
+
+## [poshy-wrap-brew](https://www.powershellgallery.com/Packages/poshy-wrap-brew/0.2.11.0) | 0.2.11.0
+
+### Published: 08/31/2023 19:14:36 by Pwshrc Maintainers
+
+Convenient cmdlets and aliases which wrap `brew`.
+
+__Downloads__: 8 | __Repository__: https://github.com/pwshrc/poshy-wrap-brew
 
 ## [poshy-coreutils-ish](https://www.powershellgallery.com/Packages/poshy-coreutils-ish/0.3.10.0) | 0.3.10.0
 
@@ -1699,14 +1787,6 @@ This modules provides Cmdlets for OCI Healthchecks Service
 
 __Downloads__: 16,339 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-## [GitHub.DeployKeys](https://www.powershellgallery.com/Packages/GitHub.DeployKeys/0.0.1) | 0.0.1
-
-### Published: 08/29/2023 19:49:31 by Marius Storhaug
-
-PowerShell Module for GitHub.DeployKeys
-
-__Downloads__: 1 | __Repository__: https://github.com/MariusStorhaug/GitHub
-
 ## [OCI.PSModules.Governancerulescontrolplane](https://www.powershellgallery.com/Packages/OCI.PSModules.Governancerulescontrolplane/66.0.0) | 66.0.0
 
 ### Published: 08/29/2023 19:49:25 by Oracle Cloud Infrastructure
@@ -1738,14 +1818,6 @@ __Downloads__: 3,089 | __Repository__: https://github.com/oracle/oci-powershell-
 This modules provides Cmdlets for OCI Fusionapps Service
 
 __Downloads__: 1,547 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [GitHub.DependencyGraph](https://www.powershellgallery.com/Packages/GitHub.DependencyGraph/0.0.1) | 0.0.1
-
-### Published: 08/29/2023 19:49:05 by Marius Storhaug
-
-PowerShell Module for GitHub.DependencyGraph
-
-__Downloads__: 1 | __Repository__: https://github.com/MariusStorhaug/GitHub
 
 ## [OCI.PSModules.Functions](https://www.powershellgallery.com/Packages/OCI.PSModules.Functions/66.0.0) | 66.0.0
 
@@ -1955,76 +2027,4 @@ This modules provides Cmdlets for OCI Containerengine Service
 
 __Downloads__: 3,584 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-## [OCI.PSModules.Computeinstanceagent](https://www.powershellgallery.com/Packages/OCI.PSModules.Computeinstanceagent/66.0.0) | 66.0.0
-
-### Published: 08/29/2023 19:45:55 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Computeinstanceagent Service
-
-__Downloads__: 3,789 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Computecloudatcustomer](https://www.powershellgallery.com/Packages/OCI.PSModules.Computecloudatcustomer/66.0.0) | 66.0.0
-
-### Published: 08/29/2023 19:45:48 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Computecloudatcustomer Service
-
-__Downloads__: 55 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Cloudmigrations](https://www.powershellgallery.com/Packages/OCI.PSModules.Cloudmigrations/66.0.0) | 66.0.0
-
-### Published: 08/29/2023 19:45:41 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Cloudmigrations Service
-
-__Downloads__: 1,259 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Cloudguard](https://www.powershellgallery.com/Packages/OCI.PSModules.Cloudguard/66.0.0) | 66.0.0
-
-### Published: 08/29/2023 19:45:34 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Cloudguard Service
-
-__Downloads__: 3,510 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Cloudbridge](https://www.powershellgallery.com/Packages/OCI.PSModules.Cloudbridge/66.0.0) | 66.0.0
-
-### Published: 08/29/2023 19:45:28 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Cloudbridge Service
-
-__Downloads__: 1,261 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Cims](https://www.powershellgallery.com/Packages/OCI.PSModules.Cims/66.0.0) | 66.0.0
-
-### Published: 08/29/2023 19:45:21 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Cims Service
-
-__Downloads__: 3,773 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Certificatesmanagement](https://www.powershellgallery.com/Packages/OCI.PSModules.Certificatesmanagement/66.0.0) | 66.0.0
-
-### Published: 08/29/2023 19:45:14 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Certificatesmanagement Service
-
-__Downloads__: 2,758 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Certificates](https://www.powershellgallery.com/Packages/OCI.PSModules.Certificates/66.0.0) | 66.0.0
-
-### Published: 08/29/2023 19:45:07 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Certificates Service
-
-__Downloads__: 2,527 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Budget](https://www.powershellgallery.com/Packages/OCI.PSModules.Budget/66.0.0) | 66.0.0
-
-### Published: 08/29/2023 19:45:01 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Budget Service
-
-__Downloads__: 3,588 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-*Updated: Sunday, 03 September 2023 02:02:24 UTC*
+*Updated: Sunday, 03 September 2023 09:52:49 UTC*

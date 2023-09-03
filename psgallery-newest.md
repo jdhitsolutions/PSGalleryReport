@@ -3,6 +3,46 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [NerdFonts](https://www.powershellgallery.com/Packages/NerdFonts/0.0.9) | 0.0.9
+
+### Published: 09/03/2023 08:19:33 by Marius Storhaug
+
+A PowerShell module to manage NerdFonts
+
+__Downloads__: 49 | __Repository__: https://github.com/MariusStorhaug/NerdFonts
+
+## [Fonts](https://www.powershellgallery.com/Packages/Fonts/0.0.18) | 0.0.18
+
+### Published: 09/03/2023 08:17:38 by Marius Storhaug
+
+Manage fonts on a Windows system
+
+__Downloads__: 93 | __Repository__: https://github.com/MariusStorhaug/Fonts
+
+## [PATH](https://www.powershellgallery.com/Packages/PATH/0.0.5) | 0.0.5
+
+### Published: 09/03/2023 08:15:25 by Marius Storhaug
+
+A PowerShell module for managing the PATH environment variable.
+
+__Downloads__: 34 | __Repository__: https://github.com/MariusStorhaug/PATH
+
+## [Utilities](https://www.powershellgallery.com/Packages/Utilities/0.0.17) | 0.0.17
+
+### Published: 09/03/2023 08:13:20 by Marius Storhaug
+
+PowerShell Module of Utilities
+
+__Downloads__: 523 | __Repository__: https://github.com/MariusStorhaug/Utilities
+
+## [ChocoLogParse](https://www.powershellgallery.com/Packages/ChocoLogParse/0.1.0) | 0.1.0
+
+### Published: 09/03/2023 04:13:18 by Gilbert Sanchez
+
+Parses Chocolatey logs into easy to use objects.
+
+__Downloads__: 0 | __Repository__: 
+
 ## [Log4NetParse](https://www.powershellgallery.com/Packages/Log4NetParse/0.2.0) | 0.2.0
 
 ### Published: 09/02/2023 23:20:28 by Gilbert Sanchez
@@ -11,14 +51,6 @@ A module to parse log4net logs.
 
 __Downloads__: 0 | __Repository__: 
 
-## [Fonts](https://www.powershellgallery.com/Packages/Fonts/0.0.17) | 0.0.17
-
-### Published: 09/02/2023 23:16:32 by Marius Storhaug
-
-Manage fonts on a Windows system
-
-__Downloads__: 93 | __Repository__: https://github.com/MariusStorhaug/Fonts
-
 ## [SOA](https://www.powershellgallery.com/Packages/SOA/3.1.2) | 3.1.2
 
 ### Published: 09/02/2023 23:15:10 by Microsoft
@@ -26,14 +58,6 @@ __Downloads__: 93 | __Repository__: https://github.com/MariusStorhaug/Fonts
 Scripts required for the SOA Delivery
 
 __Downloads__: 17,632 | __Repository__: 
-
-## [Utilities](https://www.powershellgallery.com/Packages/Utilities/0.0.16) | 0.0.16
-
-### Published: 09/02/2023 23:13:21 by Marius Storhaug
-
-PowerShell Module of Utilities
-
-__Downloads__: 523 | __Repository__: https://github.com/MariusStorhaug/Utilities
 
 ## [tiPS](https://www.powershellgallery.com/Packages/tiPS/0.0.27) | 0.0.27
 
@@ -2451,34 +2475,4 @@ This version of AWS Tools for PowerShell is compatible with Windows PowerShell 5
 
 __Downloads__: 31,087 | __Repository__: https://github.com/aws/aws-tools-for-powershell
 
-## [AWS.Tools.EKS](https://www.powershellgallery.com/Packages/AWS.Tools.EKS/4.1.407) | 4.1.407
-
-### Published: 09/01/2023 23:08:01 by Amazon.com Inc
-
-The EKS module of AWS Tools for PowerShell lets developers and administrators manage Amazon Elastic Container Service for Kubernetes from the PowerShell scripting environment. In order to manage each AWS service, install the corresponding module (e.g. AWS.Tools.EC2, AWS.Tools.S3...).
-The module AWS.Tools.Installer (https://www.powershellgallery.com/packages/AWS.Tools.Installer/) makes it easier to install, update and uninstall the AWS.Tools modules.
-This version of AWS Tools for PowerShell is compatible with Windows PowerShell 5.1+ and PowerShell Core 6+ on Windows, Linux and macOS. When running on Windows PowerShell, .NET Framework 4.7.2 or newer is required. Alternative modules AWSPowerShell.NetCore and AWSPowerShell, provide support for all AWS services from a single module and also support older versions of Windows PowerShell and .NET Framework.
-
-__Downloads__: 20,760 | __Repository__: https://github.com/aws/aws-tools-for-powershell
-
-## [AWS.Tools.ECS](https://www.powershellgallery.com/Packages/AWS.Tools.ECS/4.1.407) | 4.1.407
-
-### Published: 09/01/2023 23:07:55 by Amazon.com Inc
-
-The ECS module of AWS Tools for PowerShell lets developers and administrators manage Amazon EC2 Container Service from the PowerShell scripting environment. In order to manage each AWS service, install the corresponding module (e.g. AWS.Tools.EC2, AWS.Tools.S3...).
-The module AWS.Tools.Installer (https://www.powershellgallery.com/packages/AWS.Tools.Installer/) makes it easier to install, update and uninstall the AWS.Tools modules.
-This version of AWS Tools for PowerShell is compatible with Windows PowerShell 5.1+ and PowerShell Core 6+ on Windows, Linux and macOS. When running on Windows PowerShell, .NET Framework 4.7.2 or newer is required. Alternative modules AWSPowerShell.NetCore and AWSPowerShell, provide support for all AWS services from a single module and also support older versions of Windows PowerShell and .NET Framework.
-
-__Downloads__: 95,304 | __Repository__: https://github.com/aws/aws-tools-for-powershell
-
-## [AWS.Tools.ECRPublic](https://www.powershellgallery.com/Packages/AWS.Tools.ECRPublic/4.1.407) | 4.1.407
-
-### Published: 09/01/2023 23:07:48 by Amazon.com Inc
-
-The ECRPublic module of AWS Tools for PowerShell lets developers and administrators manage Amazon Elastic Container Registry Public from the PowerShell scripting environment. In order to manage each AWS service, install the corresponding module (e.g. AWS.Tools.EC2, AWS.Tools.S3...).
-The module AWS.Tools.Installer (https://www.powershellgallery.com/packages/AWS.Tools.Installer/) makes it easier to install, update and uninstall the AWS.Tools modules.
-This version of AWS Tools for PowerShell is compatible with Windows PowerShell 5.1+ and PowerShell Core 6+ on Windows, Linux and macOS. When running on Windows PowerShell, .NET Framework 4.7.2 or newer is required. Alternative modules AWSPowerShell.NetCore and AWSPowerShell, provide support for all AWS services from a single module and also support older versions of Windows PowerShell and .NET Framework.
-
-__Downloads__: 6,632 | __Repository__: https://github.com/aws/aws-tools-for-powershell
-
-*Updated: Sunday, 03 September 2023 02:02:22 UTC*
+*Updated: Sunday, 03 September 2023 09:52:46 UTC*
