@@ -3,6 +3,38 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [Log4NetParse](https://www.powershellgallery.com/Packages/Log4NetParse/0.3.0) | 0.3.0
+
+### Published: 09/04/2023 01:29:34 by Gilbert Sanchez
+
+A module to parse log4net logs.
+
+__Downloads__: 0 | __Repository__: https://github.com/HeyItsGilbert/Log4NetParse/
+
+## [PSLocationTrigger](https://www.powershellgallery.com/Packages/PSLocationTrigger/1.0.1) | 1.0.1
+
+### Published: 09/03/2023 23:51:06 by Rojas Roberto
+
+This module helps you run a script when you enter or exit a folder
+
+__Downloads__: 11 | __Repository__: https://github.com/RobertoRojas/PSLocationTrigger
+
+## [WindowsUtils](https://www.powershellgallery.com/Packages/WindowsUtils/1.8.2) | 1.8.2
+
+### Published: 09/03/2023 23:30:22 by Francisco Nabas
+
+This module contain tools to facilitate the administration of Windows computers.
+
+__Downloads__: 288 | __Repository__: https://github.com/FranciscoNabas/WindowsUtils
+
+## [Generate-DockerImageVariantsHelpers](https://www.powershellgallery.com/Packages/Generate-DockerImageVariantsHelpers/0.1.0) | 0.1.0
+
+### Published: 09/03/2023 23:22:24 by The Oh Brothers
+
+Helpers to use with Generate-DockerImageVariants.
+
+__Downloads__: 0 | __Repository__: https://github.com/theohbrothers/Generate-DockerImageVariantsHelpers
+
 ## [PSDllCompiler](https://www.powershellgallery.com/Packages/PSDllCompiler/1.0.1.1) | 1.0.1.1
 
 ### Published: 09/03/2023 17:40:50 by UltraAlex0
@@ -29,14 +61,6 @@ __Downloads__: 528 | __Repository__:
 A completion manager for better and simpler use and Manage completions. For more information, please visit the project: https://github.com/abgox/PSCompletions
 
 __Downloads__: 48 | __Repository__: https://github.com/abgox/PSCompletions
-
-## [PSSymantecCloud](https://www.powershellgallery.com/Packages/PSSymantecCloud/0.75.1) | 0.75.1
-
-### Published: 09/03/2023 16:20:06 by Aurélien BOUMANNE
-
-Common set of tools to interact with Symantec/Broadcom API for SEP Cloud
-
-__Downloads__: 51 | __Repository__: https://github.com/Douda/PSSymantecCloud
 
 ## [PSJobLogger](https://www.powershellgallery.com/Packages/PSJobLogger/0.4.0) | 0.4.0
 
@@ -100,14 +124,6 @@ __Downloads__: 523 | __Repository__: https://github.com/MariusStorhaug/Utilities
 ### Published: 09/03/2023 04:13:18 by Gilbert Sanchez
 
 Parses Chocolatey logs into easy to use objects.
-
-__Downloads__: 0 | __Repository__: 
-
-## [Log4NetParse](https://www.powershellgallery.com/Packages/Log4NetParse/0.2.0) | 0.2.0
-
-### Published: 09/02/2023 23:20:28 by Gilbert Sanchez
-
-A module to parse log4net logs.
 
 __Downloads__: 0 | __Repository__: 
 
@@ -2445,24 +2461,4 @@ This version of AWS Tools for PowerShell is compatible with Windows PowerShell 5
 
 __Downloads__: 9,119 | __Repository__: https://github.com/aws/aws-tools-for-powershell
 
-## [AWS.Tools.ElasticTranscoder](https://www.powershellgallery.com/Packages/AWS.Tools.ElasticTranscoder/4.1.407) | 4.1.407
-
-### Published: 09/01/2023 23:09:00 by Amazon.com Inc
-
-The ElasticTranscoder module of AWS Tools for PowerShell lets developers and administrators manage Amazon Elastic Transcoder from the PowerShell scripting environment. In order to manage each AWS service, install the corresponding module (e.g. AWS.Tools.EC2, AWS.Tools.S3...).
-The module AWS.Tools.Installer (https://www.powershellgallery.com/packages/AWS.Tools.Installer/) makes it easier to install, update and uninstall the AWS.Tools modules.
-This version of AWS Tools for PowerShell is compatible with Windows PowerShell 5.1+ and PowerShell Core 6+ on Windows, Linux and macOS. When running on Windows PowerShell, .NET Framework 4.7.2 or newer is required. Alternative modules AWSPowerShell.NetCore and AWSPowerShell, provide support for all AWS services from a single module and also support older versions of Windows PowerShell and .NET Framework.
-
-__Downloads__: 13,547 | __Repository__: https://github.com/aws/aws-tools-for-powershell
-
-## [AWS.Tools.Elasticsearch](https://www.powershellgallery.com/Packages/AWS.Tools.Elasticsearch/4.1.407) | 4.1.407
-
-### Published: 09/01/2023 23:08:54 by Amazon.com Inc
-
-The Elasticsearch module of AWS Tools for PowerShell lets developers and administrators manage Amazon Elasticsearch from the PowerShell scripting environment. In order to manage each AWS service, install the corresponding module (e.g. AWS.Tools.EC2, AWS.Tools.S3...).
-The module AWS.Tools.Installer (https://www.powershellgallery.com/packages/AWS.Tools.Installer/) makes it easier to install, update and uninstall the AWS.Tools modules.
-This version of AWS Tools for PowerShell is compatible with Windows PowerShell 5.1+ and PowerShell Core 6+ on Windows, Linux and macOS. When running on Windows PowerShell, .NET Framework 4.7.2 or newer is required. Alternative modules AWSPowerShell.NetCore and AWSPowerShell, provide support for all AWS services from a single module and also support older versions of Windows PowerShell and .NET Framework.
-
-__Downloads__: 53,898 | __Repository__: https://github.com/aws/aws-tools-for-powershell
-
-*Updated: Sunday, 03 September 2023 17:52:56 UTC*
+*Updated: Monday, 04 September 2023 02:02:15 UTC*
