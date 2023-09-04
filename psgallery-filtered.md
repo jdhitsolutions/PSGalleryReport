@@ -3,6 +3,70 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [PSWriteHTML](https://www.powershellgallery.com/Packages/PSWriteHTML/1.8.0) | 1.8.0
+
+### Published: 09/04/2023 09:00:39 by Przemyslaw Klys
+
+PSWriteHTML is PowerShell Module to generate beautiful HTML reports, pages, emails without any knowledge of HTML, CSS or JavaScript. To get started basics PowerShell knowledge is required.
+
+__Downloads__: 1,995,746 | __Repository__: https://github.com/EvotecIT/PSWriteHTML
+
+## [FilesToFolders](https://www.powershellgallery.com/Packages/FilesToFolders/1.0.0) | 1.0.0
+
+### Published: 09/04/2023 08:47:08 by ehmiiz
+
+Creates folders based on date, moves files there.
+
+__Downloads__: 0 | __Repository__: https://github.com/ehmiiz/FilesToFolders
+
+## [JaapsTools](https://www.powershellgallery.com/Packages/JaapsTools/18.6.7) | 18.6.7
+
+### Published: 09/04/2023 07:44:53 by JT
+
+JaapsTools
+
+__Downloads__: 518 | __Repository__: 
+
+## [RiverMeadow.Release.Migrate](https://www.powershellgallery.com/Packages/RiverMeadow.Release.Migrate/1.0.116.342) | 1.0.116.342
+
+### Published: 09/04/2023 07:36:36 by RiverMeadow Engineering Team
+
+Provides cmdlets for starting migration of applications to supported clouds using the RiverMeadow platform.
+
+__Downloads__: 142 | __Repository__: https://migrate.rivermeadow.com/
+
+## [RiverMeadow.Development.Migrate](https://www.powershellgallery.com/Packages/RiverMeadow.Development.Migrate/1.0.117.340) | 1.0.117.340
+
+### Published: 09/04/2023 07:35:42 by RiverMeadow Engineering Team
+
+Provides cmdlets for starting migration of applications to supported clouds using the RiverMeadow platform.
+
+__Downloads__: 407 | __Repository__: https://migrate.rivermeadow.com/
+
+## [Generate-DockerImageVariantsHelpers](https://www.powershellgallery.com/Packages/Generate-DockerImageVariantsHelpers/0.2.1) | 0.2.1
+
+### Published: 09/04/2023 04:29:37 by The Oh Brothers
+
+Helpers to use with Generate-DockerImageVariants.
+
+__Downloads__: 0 | __Repository__: https://github.com/theohbrothers/Generate-DockerImageVariantsHelpers
+
+## [PwshAzContainerApp](https://www.powershellgallery.com/Packages/PwshAzContainerApp/1.0.4) | 1.0.4
+
+### Published: 09/04/2023 03:30:29 by Roberto Rodriguez @Cyb3rWard0g
+
+PowerShell module for Azure Container Apps
+
+__Downloads__: 0 | __Repository__: https://github.com/Cyb3rWard0g/PwshAzContainerApp
+
+## [ChocoLogParse](https://www.powershellgallery.com/Packages/ChocoLogParse/0.2.0) | 0.2.0
+
+### Published: 09/04/2023 02:43:32 by Gilbert Sanchez
+
+Parses Chocolatey logs into easy to use objects.
+
+__Downloads__: 0 | __Repository__: https://github.com/HeyItsGilbert/ChocoLogParse/
+
 ## [Log4NetParse](https://www.powershellgallery.com/Packages/Log4NetParse/0.3.0) | 0.3.0
 
 ### Published: 09/04/2023 01:29:34 by Gilbert Sanchez
@@ -26,14 +90,6 @@ __Downloads__: 11 | __Repository__: https://github.com/RobertoRojas/PSLocationTr
 This module contain tools to facilitate the administration of Windows computers.
 
 __Downloads__: 288 | __Repository__: https://github.com/FranciscoNabas/WindowsUtils
-
-## [Generate-DockerImageVariantsHelpers](https://www.powershellgallery.com/Packages/Generate-DockerImageVariantsHelpers/0.1.0) | 0.1.0
-
-### Published: 09/03/2023 23:22:24 by The Oh Brothers
-
-Helpers to use with Generate-DockerImageVariants.
-
-__Downloads__: 0 | __Repository__: https://github.com/theohbrothers/Generate-DockerImageVariantsHelpers
 
 ## [PSDllCompiler](https://www.powershellgallery.com/Packages/PSDllCompiler/1.0.1.1) | 1.0.1.1
 
@@ -61,6 +117,14 @@ __Downloads__: 528 | __Repository__:
 A completion manager for better and simpler use and Manage completions. For more information, please visit the project: https://github.com/abgox/PSCompletions
 
 __Downloads__: 48 | __Repository__: https://github.com/abgox/PSCompletions
+
+## [PSSymantecCloud](https://www.powershellgallery.com/Packages/PSSymantecCloud/0.75.1) | 0.75.1
+
+### Published: 09/03/2023 16:20:06 by Aurélien BOUMANNE
+
+Common set of tools to interact with Symantec/Broadcom API for SEP Cloud
+
+__Downloads__: 51 | __Repository__: https://github.com/Douda/PSSymantecCloud
 
 ## [PSJobLogger](https://www.powershellgallery.com/Packages/PSJobLogger/0.4.0) | 0.4.0
 
@@ -118,14 +182,6 @@ __Downloads__: 34 | __Repository__: https://github.com/MariusStorhaug/PATH
 PowerShell Module of Utilities
 
 __Downloads__: 523 | __Repository__: https://github.com/MariusStorhaug/Utilities
-
-## [ChocoLogParse](https://www.powershellgallery.com/Packages/ChocoLogParse/0.1.0) | 0.1.0
-
-### Published: 09/03/2023 04:13:18 by Gilbert Sanchez
-
-Parses Chocolatey logs into easy to use objects.
-
-__Downloads__: 0 | __Repository__: 
 
 ## [tiPS](https://www.powershellgallery.com/Packages/tiPS/0.0.27) | 0.0.27
 
@@ -246,14 +302,6 @@ __Downloads__: 1,655 | __Repository__: https://github.com/andylyonette/Atlassian
 A library for fast module creation
 
 __Downloads__: 190 | __Repository__: 
-
-## [PwshAzContainerApp](https://www.powershellgallery.com/Packages/PwshAzContainerApp/1.0.3) | 1.0.3
-
-### Published: 09/02/2023 06:44:29 by Roberto Rodriguez @Cyb3rWard0g
-
-PowerShell module for Azure Container Apps
-
-__Downloads__: 0 | __Repository__: https://github.com/Cyb3rWard0g/PwshAzContainerApp
 
 ## [AZSBTools](https://www.powershellgallery.com/Packages/AZSBTools/1.263.100) | 1.263.100
 
@@ -730,14 +778,6 @@ Convenient cmdlets and aliases which wrap `dotnet`.
 
 __Downloads__: 9 | __Repository__: https://github.com/pwshrc/poshy-wrap-dotnet
 
-## [poshy-multimedia](https://www.powershellgallery.com/Packages/poshy-multimedia/0.6.9.0) | 0.6.9.0
-
-### Published: 08/31/2023 19:16:26 by Pwshrc Maintainers
-
-Convenient cmdlets for working with various archive, multimedia, and data-encoding formats directly in your PowerShell terminal.
-
-__Downloads__: 18 | __Repository__: https://github.com/pwshrc/poshy-multimedia
-
 ## [poshy-wrap-forgit](https://www.powershellgallery.com/Packages/poshy-wrap-forgit/0.2.10.0) | 0.2.10.0
 
 ### Published: 08/31/2023 19:16:26 by Pwshrc Maintainers
@@ -745,6 +785,14 @@ __Downloads__: 18 | __Repository__: https://github.com/pwshrc/poshy-multimedia
 Convenient cmdlets and aliases which wrap `forgit`.
 
 __Downloads__: 8 | __Repository__: https://github.com/pwshrc/poshy-wrap-forgit
+
+## [poshy-multimedia](https://www.powershellgallery.com/Packages/poshy-multimedia/0.6.9.0) | 0.6.9.0
+
+### Published: 08/31/2023 19:16:26 by Pwshrc Maintainers
+
+Convenient cmdlets for working with various archive, multimedia, and data-encoding formats directly in your PowerShell terminal.
+
+__Downloads__: 18 | __Repository__: https://github.com/pwshrc/poshy-multimedia
 
 ## [poshy-wrap-gem](https://www.powershellgallery.com/Packages/poshy-wrap-gem/0.2.10.0) | 0.2.10.0
 
@@ -825,6 +873,14 @@ __Downloads__: 9 | __Repository__: https://github.com/pwshrc/poshy-notify-send
 Functions for generating ANSI terminal formatting sequences, including: blinking text, italic text, bold text, underlined text, strike-through text, reversed-color text, hyperlinked text, and 24-bit true color foreground and background coloring in RGB and HSL.
 
 __Downloads__: 52 | __Repository__: https://github.com/pwshrc/poshy-colors
+
+## [poshy-ecks](https://www.powershellgallery.com/Packages/poshy-ecks/0.5.18.0) | 0.5.18.0
+
+### Published: 08/31/2023 19:14:47 by Pwshrc Maintainers
+
+Convenient cmdlets for executing arbitrary commands under exotic circumstances, including temporarily-altered environment variables and working directories.
+
+__Downloads__: 108 | __Repository__: https://github.com/pwshrc/poshy-ecks
 
 ## [poshy-env-var](https://www.powershellgallery.com/Packages/poshy-env-var/0.5.10.0) | 0.5.10.0
 
@@ -930,22 +986,6 @@ Convenient cmdlets for enabling, disabling, and configuring HTTP/HTTPS proxy usa
 
 __Downloads__: 14 | __Repository__: https://github.com/pwshrc/poshy-env-proxy
 
-## [RiverMeadow.Release.Migrate](https://www.powershellgallery.com/Packages/RiverMeadow.Release.Migrate/1.0.116.338) | 1.0.116.338
-
-### Published: 08/31/2023 17:53:50 by RiverMeadow Engineering Team
-
-Provides cmdlets for starting migration of applications to supported clouds using the RiverMeadow platform.
-
-__Downloads__: 142 | __Repository__: https://migrate.rivermeadow.com/
-
-## [RiverMeadow.Development.Migrate](https://www.powershellgallery.com/Packages/RiverMeadow.Development.Migrate/1.0.117.336) | 1.0.117.336
-
-### Published: 08/31/2023 17:53:06 by RiverMeadow Engineering Team
-
-Provides cmdlets for starting migration of applications to supported clouds using the RiverMeadow platform.
-
-__Downloads__: 407 | __Repository__: https://migrate.rivermeadow.com/
-
 ## [BitTitanManagement](https://www.powershellgallery.com/Packages/BitTitanManagement/0.0.135) | 0.0.135
 
 ### Published: 08/31/2023 17:01:55 by BitTitan
@@ -980,14 +1020,6 @@ For more information on the MOVEit Transfer REST API, please visit the following
 https://docs.ipswitch.com/MOVEit/Transfer2023/Api/rest/
 
 __Downloads__: 325 | __Repository__: https://github.com/Tony-Perri/MOVEit.MIT
-
-## [JaapsTools](https://www.powershellgallery.com/Packages/JaapsTools/18.6.5) | 18.6.5
-
-### Published: 08/31/2023 14:43:15 by JT
-
-JaapsTools
-
-__Downloads__: 518 | __Repository__: 
 
 ## [PS.Teamwork](https://www.powershellgallery.com/Packages/PS.Teamwork/1.0) | 1.0
 
@@ -1133,14 +1165,6 @@ __Downloads__: 25 | __Repository__:
 Azure API call handler for Microsoft Graph, Azure Resource Management, KeyVault and Log Analytics. Visit aka.ms/AzAPICall
 
 __Downloads__: 103,300 | __Repository__: https://aka.ms/AzAPICall
-
-## [PSWriteHTML](https://www.powershellgallery.com/Packages/PSWriteHTML/1.7.0) | 1.7.0
-
-### Published: 08/30/2023 12:42:06 by Przemyslaw Klys
-
-PSWriteHTML is PowerShell Module to generate beautiful HTML reports, pages, emails without any knowledge of HTML, CSS or JavaScript. To get started basics PowerShell knowledge is required.
-
-__Downloads__: 1,995,746 | __Repository__: https://github.com/EvotecIT/PSWriteHTML
 
 ## [AsBuiltReport.Fortinet.FortiGate](https://www.powershellgallery.com/Packages/AsBuiltReport.Fortinet.FortiGate/0.2.1) | 0.2.1
 
@@ -1823,14 +1847,6 @@ This modules provides Cmdlets for OCI Identity Service
 
 __Downloads__: 5,997 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-## [OCI.PSModules.Healthchecks](https://www.powershellgallery.com/Packages/OCI.PSModules.Healthchecks/66.0.0) | 66.0.0
-
-### Published: 08/29/2023 19:49:31 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Healthchecks Service
-
-__Downloads__: 16,339 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
 ## [GitHub.DeployKeys](https://www.powershellgallery.com/Packages/GitHub.DeployKeys/0.0.1) | 0.0.1
 
 ### Published: 08/29/2023 19:49:31 by Marius Storhaug
@@ -1838,6 +1854,14 @@ __Downloads__: 16,339 | __Repository__: https://github.com/oracle/oci-powershell
 PowerShell Module for GitHub.DeployKeys
 
 __Downloads__: 1 | __Repository__: https://github.com/MariusStorhaug/GitHub
+
+## [OCI.PSModules.Healthchecks](https://www.powershellgallery.com/Packages/OCI.PSModules.Healthchecks/66.0.0) | 66.0.0
+
+### Published: 08/29/2023 19:49:31 by Oracle Cloud Infrastructure
+
+This modules provides Cmdlets for OCI Healthchecks Service
+
+__Downloads__: 16,339 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
 ## [OCI.PSModules.Governancerulescontrolplane](https://www.powershellgallery.com/Packages/OCI.PSModules.Governancerulescontrolplane/66.0.0) | 66.0.0
 
@@ -2007,28 +2031,4 @@ This modules provides Cmdlets for OCI Dataintegration Service
 
 __Downloads__: 3,899 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-## [OCI.PSModules.Dataflow](https://www.powershellgallery.com/Packages/OCI.PSModules.Dataflow/66.0.0) | 66.0.0
-
-### Published: 08/29/2023 19:47:02 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Dataflow Service
-
-__Downloads__: 5,148 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Datacatalog](https://www.powershellgallery.com/Packages/OCI.PSModules.Datacatalog/66.0.0) | 66.0.0
-
-### Published: 08/29/2023 19:46:56 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Datacatalog Service
-
-__Downloads__: 3,876 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Databasetools](https://www.powershellgallery.com/Packages/OCI.PSModules.Databasetools/66.0.0) | 66.0.0
-
-### Published: 08/29/2023 19:46:49 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Databasetools Service
-
-__Downloads__: 2,527 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-*Updated: Monday, 04 September 2023 02:02:17 UTC*
+*Updated: Monday, 04 September 2023 09:53:52 UTC*

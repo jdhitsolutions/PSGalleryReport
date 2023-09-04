@@ -583,9 +583,9 @@ Provides a function to retrieve an authentication token for Intune Graph API cal
 
 __Downloads__: 2,010,814 | __Repository__: https://github.com/MSEndpointMgr/Intune/tree/master/Modules/PSIntuneAuth
 
-## [PSWriteHTML](https://www.powershellgallery.com/Packages/PSWriteHTML/1.7.0) | 1.7.0
+## [PSWriteHTML](https://www.powershellgallery.com/Packages/PSWriteHTML/1.8.0) | 1.8.0
 
-### Published: 08/30/2023 12:42:06 by Przemyslaw Klys
+### Published: 09/04/2023 09:00:39 by Przemyslaw Klys
 
 PSWriteHTML is PowerShell Module to generate beautiful HTML reports, pages, emails without any knowledge of HTML, CSS or JavaScript. To get started basics PowerShell knowledge is required.
 
@@ -2138,4 +2138,4 @@ This module uses the REST API in the F5 LTM v11.6 and higher to query and manipu
 
 __Downloads__: 162,317 | __Repository__: https://github.com/joel74/POSH-LTM-Rest
 
-*Updated: Monday, 04 September 2023 02:02:25 UTC*
+*Updated: Monday, 04 September 2023 09:54:03 UTC*
