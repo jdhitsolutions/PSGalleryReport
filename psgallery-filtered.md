@@ -3,6 +3,65 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [PSSymantecSEPM](https://www.powershellgallery.com/Packages/PSSymantecSEPM/0.2.2) | 0.2.2
+
+### Published: 09/05/2023 08:20:39 by Aurélien BOUMANNE
+
+Common set of tools to interact with Symantec Endpoint Protection Manager (SEPM) product
+
+__Downloads__: 0 | __Repository__: https://github.com/Douda/PSSymantecSEPM
+
+## [DCToolbox](https://www.powershellgallery.com/Packages/DCToolbox/2.0.1) | 2.0.1
+
+### Published: 09/05/2023 08:12:37 by Daniel Chronlund
+
+A PowerShell toolbox for Microsoft 365 security fans.
+
+__Downloads__: 17,581 | __Repository__: https://github.com/DanielChronlund/DCToolbox
+
+## [PhpManager](https://www.powershellgallery.com/Packages/PhpManager/1.29.0) | 1.29.0
+
+### Published: 09/05/2023 07:55:10 by Michele Locati
+
+A PowerShell module to install/update PHP, PHP extensions and Composer
+
+__Downloads__: 170,288 | __Repository__: https://github.com/mlocati/powershell-phpmanager
+
+## [CoreePower.Lib](https://www.powershellgallery.com/Packages/CoreePower.Lib/0.0.2.24) | 0.0.2.24
+
+### Published: 09/05/2023 05:50:45 by Carsten Riedel
+
+The "CoreePower.Lib" module is the a part of the CoreePower project.
+It adds command-line programs like 7-Zip, Git, GitHub CLI, NuGet, dotnet, and Visual Studio Code from the original sources.
+See full readme at https://github.com/carsten-riedel/CoreePower.Lib/#readme
+Note: the "Initialize-CorePowerLatest" command may conflict with existing installations. Use with caution.
+
+__Downloads__: 833 | __Repository__: https://github.com/carsten-riedel/CoreePower.Lib
+
+## [ActiveDirectoryStructure](https://www.powershellgallery.com/Packages/ActiveDirectoryStructure/1.0.8) | 1.0.8
+
+### Published: 09/05/2023 05:17:55 by Gerald Doeserich
+
+Provides ways to validate a ActiveDirectory environment
+
+__Downloads__: 29 | __Repository__: https://github.com/ActiveDirectoryStructure/ActiveDirectoryStructure
+
+## [Oraculum](https://www.powershellgallery.com/Packages/Oraculum/1.0) | 1.0
+
+### Published: 09/05/2023 04:32:58 by Antonio Cisternino
+
+Oraculum command line interface
+
+__Downloads__: 0 | __Repository__: https://github.com/Unipisa/Oraculum
+
+## [JamfPSPro](https://www.powershellgallery.com/Packages/JamfPSPro/0.0.4) | 0.0.4
+
+### Published: 09/05/2023 03:10:20 by Tristan Brazier
+
+A PowerShell module for the Jamf classic api
+
+__Downloads__: 9 | __Repository__: https://github.com/TrustyTristan/JamfPSPro
+
 ## [WindowsUtils](https://www.powershellgallery.com/Packages/WindowsUtils/1.8.4) | 1.8.4
 
 ### Published: 09/05/2023 01:44:03 by Francisco Nabas
@@ -34,14 +93,6 @@ __Downloads__: 40,759 | __Repository__: https://github.com/AshleyHow/WindowsOSBu
 This module contains tools to manage module dependencies.
 
 __Downloads__: 21 | __Repository__: https://github.com/FranciscoNabas/LibSnitcher
-
-## [JamfPSPro](https://www.powershellgallery.com/Packages/JamfPSPro/0.0.3) | 0.0.3
-
-### Published: 09/04/2023 21:32:50 by Tristan Brazier
-
-A PowerShell module for the Jamf classic api
-
-__Downloads__: 9 | __Repository__: https://github.com/TrustyTristan/JamfPSPro
 
 ## [AzAPICall](https://www.powershellgallery.com/Packages/AzAPICall/1.1.78) | 1.1.78
 
@@ -125,6 +176,14 @@ __Downloads__: 288 | __Repository__: https://github.com/ncavare/powershell-phpco
 Interact with the Atlassian Cloud APIs using PowerShell
 
 __Downloads__: 1,616 | __Repository__: https://github.com/andylyonette/CitrixShareFilePS
+
+## [PSSymantecCloud](https://www.powershellgallery.com/Packages/PSSymantecCloud/0.75.2) | 0.75.2
+
+### Published: 09/04/2023 13:47:24 by Aurélien BOUMANNE
+
+Common set of tools to interact with Symantec/Broadcom API for SEP Cloud
+
+__Downloads__: 51 | __Repository__: https://github.com/Douda/PSSymantecCloud
 
 ## [PsXisfReader](https://www.powershellgallery.com/Packages/PsXisfReader/1.0.51) | 1.0.51
 
@@ -570,17 +629,6 @@ Calculate the distance (geodesic length) between two points on the spheroid usin
 
 __Downloads__: 5 | __Repository__: 
 
-## [CoreePower.Lib](https://www.powershellgallery.com/Packages/CoreePower.Lib/0.0.2.21) | 0.0.2.21
-
-### Published: 09/01/2023 07:21:48 by Carsten Riedel
-
-The "CoreePower.Lib" module is the a part of the CoreePower project.
-It adds command-line programs like 7-Zip, Git, GitHub CLI, NuGet, dotnet, and Visual Studio Code from the original sources.
-See full readme at https://github.com/carsten-riedel/CoreePower.Lib/#readme
-Note: the "Initialize-CorePowerLatest" command may conflict with existing installations. Use with caution.
-
-__Downloads__: 833 | __Repository__: https://github.com/carsten-riedel/CoreePower.Lib
-
 ## [CoreePower.Common](https://www.powershellgallery.com/Packages/CoreePower.Common/0.0.0.14) | 0.0.0.14
 
 ### Published: 09/01/2023 07:20:44 by Carsten Riedel
@@ -604,14 +652,6 @@ __Downloads__: 268,103 | __Repository__: https://github.com/dsccommunity/DFSDsc
 Contains a set of resuable PowerShell functions for working with Azure Resource Manager and Bicep.
 
 __Downloads__: 155 | __Repository__: 
-
-## [CoreePower.Config](https://www.powershellgallery.com/Packages/CoreePower.Config/0.0.0.58) | 0.0.0.58
-
-### Published: 09/01/2023 05:18:43 by Carsten Riedel
-
-Powershell module for basic configuration
-
-__Downloads__: 127 | __Repository__: 
 
 ## [BruhArmy](https://www.powershellgallery.com/Packages/BruhArmy/1.3.0) | 1.3.0
 
@@ -644,14 +684,6 @@ __Downloads__: 6,812 | __Repository__: https://github.com/PureStorage-Connect/Po
 Interface with Solarwinds RMM API
 
 __Downloads__: 0 | __Repository__: 
-
-## [poshy-wrap-zypper](https://www.powershellgallery.com/Packages/poshy-wrap-zypper/0.2.9.0) | 0.2.9.0
-
-### Published: 08/31/2023 19:21:06 by Pwshrc Maintainers
-
-Convenient cmdlets and aliases which wrap `zypper`.
-
-__Downloads__: 8 | __Repository__: https://github.com/pwshrc/poshy-wrap-zypper
 
 ## [poshy-wrap-yum](https://www.powershellgallery.com/Packages/poshy-wrap-yum/0.2.10.0) | 0.2.10.0
 
@@ -749,22 +781,6 @@ Convenient cmdlets and aliases which wrap `pyenv`.
 
 __Downloads__: 8 | __Repository__: https://github.com/pwshrc/poshy-wrap-pyenv
 
-## [poshy-wrap-pylint](https://www.powershellgallery.com/Packages/poshy-wrap-pylint/0.2.10.0) | 0.2.10.0
-
-### Published: 08/31/2023 19:18:01 by Pwshrc Maintainers
-
-Convenient cmdlets and aliases which wrap `pylint`.
-
-__Downloads__: 8 | __Repository__: https://github.com/pwshrc/poshy-wrap-pylint
-
-## [poshy-wrap-systemctl](https://www.powershellgallery.com/Packages/poshy-wrap-systemctl/0.2.10.0) | 0.2.10.0
-
-### Published: 08/31/2023 19:17:49 by Pwshrc Maintainers
-
-Convenient cmdlets and aliases which wrap `systemctl`.
-
-__Downloads__: 8 | __Repository__: https://github.com/pwshrc/poshy-wrap-systemctl
-
 ## [poshy-wrap-terraform](https://www.powershellgallery.com/Packages/poshy-wrap-terraform/0.3.12.0) | 0.3.12.0
 
 ### Published: 08/31/2023 19:17:48 by Pwshrc Maintainers
@@ -772,14 +788,6 @@ __Downloads__: 8 | __Repository__: https://github.com/pwshrc/poshy-wrap-systemct
 Convenient cmdlets and aliases which wrap `terraform`.
 
 __Downloads__: 16 | __Repository__: https://github.com/pwshrc/poshy-wrap-terraform
-
-## [poshy-wrap-npm](https://www.powershellgallery.com/Packages/poshy-wrap-npm/0.2.11.0) | 0.2.11.0
-
-### Published: 08/31/2023 19:17:46 by Pwshrc Maintainers
-
-Convenient cmdlets and aliases which wrap `npm`.
-
-__Downloads__: 8 | __Repository__: https://github.com/pwshrc/poshy-wrap-npm
 
 ## [poshy-wrap-kubectl](https://www.powershellgallery.com/Packages/poshy-wrap-kubectl/0.2.10.0) | 0.2.10.0
 
@@ -877,14 +885,6 @@ Convenient cmdlets and aliases which wrap `dotnet`.
 
 __Downloads__: 9 | __Repository__: https://github.com/pwshrc/poshy-wrap-dotnet
 
-## [poshy-wrap-forgit](https://www.powershellgallery.com/Packages/poshy-wrap-forgit/0.2.10.0) | 0.2.10.0
-
-### Published: 08/31/2023 19:16:26 by Pwshrc Maintainers
-
-Convenient cmdlets and aliases which wrap `forgit`.
-
-__Downloads__: 8 | __Repository__: https://github.com/pwshrc/poshy-wrap-forgit
-
 ## [poshy-multimedia](https://www.powershellgallery.com/Packages/poshy-multimedia/0.6.9.0) | 0.6.9.0
 
 ### Published: 08/31/2023 19:16:26 by Pwshrc Maintainers
@@ -892,6 +892,14 @@ __Downloads__: 8 | __Repository__: https://github.com/pwshrc/poshy-wrap-forgit
 Convenient cmdlets for working with various archive, multimedia, and data-encoding formats directly in your PowerShell terminal.
 
 __Downloads__: 18 | __Repository__: https://github.com/pwshrc/poshy-multimedia
+
+## [poshy-wrap-forgit](https://www.powershellgallery.com/Packages/poshy-wrap-forgit/0.2.10.0) | 0.2.10.0
+
+### Published: 08/31/2023 19:16:26 by Pwshrc Maintainers
+
+Convenient cmdlets and aliases which wrap `forgit`.
+
+__Downloads__: 8 | __Repository__: https://github.com/pwshrc/poshy-wrap-forgit
 
 ## [poshy-wrap-gem](https://www.powershellgallery.com/Packages/poshy-wrap-gem/0.2.10.0) | 0.2.10.0
 
@@ -901,14 +909,6 @@ Convenient cmdlets and aliases which wrap `gem`.
 
 __Downloads__: 8 | __Repository__: https://github.com/pwshrc/poshy-wrap-gem
 
-## [poshy-wrap-docker-compose](https://www.powershellgallery.com/Packages/poshy-wrap-docker-compose/0.2.10.0) | 0.2.10.0
-
-### Published: 08/31/2023 19:16:05 by Pwshrc Maintainers
-
-Convenient cmdlets and aliases which wrap `docker-compose`.
-
-__Downloads__: 8 | __Repository__: https://github.com/pwshrc/poshy-wrap-docker-compose
-
 ## [poshy-net](https://www.powershellgallery.com/Packages/poshy-net/0.3.11.0) | 0.3.11.0
 
 ### Published: 08/31/2023 19:15:52 by Pwshrc Maintainers
@@ -916,22 +916,6 @@ __Downloads__: 8 | __Repository__: https://github.com/pwshrc/poshy-wrap-docker-c
 Convenient cmdlets and aliases for performing various network activities, including getting your current external IP address - right from your PowerShell terminal.
 
 __Downloads__: 17 | __Repository__: https://github.com/pwshrc/poshy-net
-
-## [poshy-viewer-finder](https://www.powershellgallery.com/Packages/poshy-viewer-finder/0.2.10.0) | 0.2.10.0
-
-### Published: 08/31/2023 19:15:35 by Pwshrc Maintainers
-
-An experimental cross-platform library for enumerating the user's installed text viewers & editors, with capability filtering & execution argument configuration all baked in.
-
-__Downloads__: 8 | __Repository__: https://github.com/pwshrc/poshy-viewer-finder
-
-## [poshy-wrap-git](https://www.powershellgallery.com/Packages/poshy-wrap-git/0.2.10.0) | 0.2.10.0
-
-### Published: 08/31/2023 19:15:26 by Pwshrc Maintainers
-
-Convenient cmdlets and aliases which wrap `git`.
-
-__Downloads__: 8 | __Repository__: https://github.com/pwshrc/poshy-wrap-git
 
 ## [poshy-lucidity](https://www.powershellgallery.com/Packages/poshy-lucidity/0.3.13.0) | 0.3.13.0
 
@@ -957,14 +941,6 @@ Convenient functions and aliases for performing directory listings in the style 
 
 __Downloads__: 7 | __Repository__: https://github.com/pwshrc/poshy-ls-isms
 
-## [poshy-notify-send](https://www.powershellgallery.com/Packages/poshy-notify-send/0.2.11.0) | 0.2.11.0
-
-### Published: 08/31/2023 19:14:51 by Pwshrc Maintainers
-
-A unified cross-platform wrapper function for generating desktop toast notifications from within your PowerShell session - using whichever toast notification system you have installed.
-
-__Downloads__: 9 | __Repository__: https://github.com/pwshrc/poshy-notify-send
-
 ## [poshy-colors](https://www.powershellgallery.com/Packages/poshy-colors/0.3.11.0) | 0.3.11.0
 
 ### Published: 08/31/2023 19:14:51 by Pwshrc Maintainers
@@ -973,13 +949,13 @@ Functions for generating ANSI terminal formatting sequences, including: blinking
 
 __Downloads__: 52 | __Repository__: https://github.com/pwshrc/poshy-colors
 
-## [poshy-ecks](https://www.powershellgallery.com/Packages/poshy-ecks/0.5.18.0) | 0.5.18.0
+## [poshy-notify-send](https://www.powershellgallery.com/Packages/poshy-notify-send/0.2.11.0) | 0.2.11.0
 
-### Published: 08/31/2023 19:14:47 by Pwshrc Maintainers
+### Published: 08/31/2023 19:14:51 by Pwshrc Maintainers
 
-Convenient cmdlets for executing arbitrary commands under exotic circumstances, including temporarily-altered environment variables and working directories.
+A unified cross-platform wrapper function for generating desktop toast notifications from within your PowerShell session - using whichever toast notification system you have installed.
 
-__Downloads__: 108 | __Repository__: https://github.com/pwshrc/poshy-ecks
+__Downloads__: 9 | __Repository__: https://github.com/pwshrc/poshy-notify-send
 
 ## [poshy-env-var](https://www.powershellgallery.com/Packages/poshy-env-var/0.5.10.0) | 0.5.10.0
 
@@ -1013,14 +989,6 @@ Convenient cmdlets for text searches against source code files.
 
 __Downloads__: 17 | __Repository__: https://github.com/pwshrc/poshy-code-search
 
-## [poshy-wrap-brew](https://www.powershellgallery.com/Packages/poshy-wrap-brew/0.2.11.0) | 0.2.11.0
-
-### Published: 08/31/2023 19:14:36 by Pwshrc Maintainers
-
-Convenient cmdlets and aliases which wrap `brew`.
-
-__Downloads__: 8 | __Repository__: https://github.com/pwshrc/poshy-wrap-brew
-
 ## [poshy-coreutils-ish](https://www.powershellgallery.com/Packages/poshy-coreutils-ish/0.3.10.0) | 0.3.10.0
 
 ### Published: 08/31/2023 19:14:21 by Pwshrc Maintainers
@@ -1036,14 +1004,6 @@ __Downloads__: 15 | __Repository__: https://github.com/pwshrc/poshy-coreutils-is
 PowerShell module for Nectar DXP
 
 __Downloads__: 1,027 | __Repository__: 
-
-## [PSSmartsheet](https://www.powershellgallery.com/Packages/PSSmartsheet/0.2.1) | 0.2.1
-
-### Published: 08/31/2023 18:50:11 by Skylar Ragan
-
-A Powershell wrapper for the Smartsheet C# SDK
-
-__Downloads__: 619 | __Repository__: https://github.com/skywayskase/PSSmartsheet
 
 ## [poshy-wrap-vault](https://www.powershellgallery.com/Packages/poshy-wrap-vault/0.3.9.0) | 0.3.9.0
 
@@ -2050,4 +2010,44 @@ This modules provides Cmdlets for OCI Dts Service
 
 __Downloads__: 3,938 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-*Updated: Tuesday, 05 September 2023 02:01:37 UTC*
+## [OCI.PSModules.Dns](https://www.powershellgallery.com/Packages/OCI.PSModules.Dns/66.0.0) | 66.0.0
+
+### Published: 08/29/2023 19:48:15 by Oracle Cloud Infrastructure
+
+This modules provides Cmdlets for OCI Dns Service
+
+__Downloads__: 3,603 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+
+## [OCI.PSModules.Disasterrecovery](https://www.powershellgallery.com/Packages/OCI.PSModules.Disasterrecovery/66.0.0) | 66.0.0
+
+### Published: 08/29/2023 19:47:49 by Oracle Cloud Infrastructure
+
+This modules provides Cmdlets for OCI Disasterrecovery Service
+
+__Downloads__: 1,160 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+
+## [OCI.PSModules.Devops](https://www.powershellgallery.com/Packages/OCI.PSModules.Devops/66.0.0) | 66.0.0
+
+### Published: 08/29/2023 19:47:43 by Oracle Cloud Infrastructure
+
+This modules provides Cmdlets for OCI Devops Service
+
+__Downloads__: 2,848 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+
+## [OCI.PSModules.Datascience](https://www.powershellgallery.com/Packages/OCI.PSModules.Datascience/66.0.0) | 66.0.0
+
+### Published: 08/29/2023 19:47:36 by Oracle Cloud Infrastructure
+
+This modules provides Cmdlets for OCI Datascience Service
+
+__Downloads__: 4,720 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+
+## [GitHub.SCIM](https://www.powershellgallery.com/Packages/GitHub.SCIM/0.0.12) | 0.0.12
+
+### Published: 08/29/2023 19:47:29 by Marius Storhaug
+
+PowerShell Module for GitHub.SCIM
+
+__Downloads__: 636 | __Repository__: https://github.com/MariusStorhaug/GitHub
+
+*Updated: Tuesday, 05 September 2023 09:52:47 UTC*

@@ -2082,9 +2082,9 @@ Sample Module with Pipeline scripts and its Plaster template to create a module 
 
 __Downloads__: 171,470 | __Repository__: https://github.com/gaelcolas/Sampler
 
-## [PhpManager](https://www.powershellgallery.com/Packages/PhpManager/1.28.2) | 1.28.2
+## [PhpManager](https://www.powershellgallery.com/Packages/PhpManager/1.29.0) | 1.29.0
 
-### Published: 07/06/2023 09:48:51 by Michele Locati
+### Published: 09/05/2023 07:55:10 by Michele Locati
 
 A PowerShell module to install/update PHP, PHP extensions and Composer
 
@@ -2138,4 +2138,4 @@ This module uses the REST API in the F5 LTM v11.6 and higher to query and manipu
 
 __Downloads__: 162,317 | __Repository__: https://github.com/joel74/POSH-LTM-Rest
 
-*Updated: Tuesday, 05 September 2023 02:01:46 UTC*
+*Updated: Tuesday, 05 September 2023 09:52:55 UTC*
