@@ -3,6 +3,62 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [WindowsUtils](https://www.powershellgallery.com/Packages/WindowsUtils/1.8.4) | 1.8.4
+
+### Published: 09/05/2023 01:44:03 by Francisco Nabas
+
+This module contain tools to facilitate the administration of Windows computers.
+
+__Downloads__: 288 | __Repository__: https://github.com/FranciscoNabas/WindowsUtils
+
+## [PSOpenAD](https://www.powershellgallery.com/Packages/PSOpenAD/0.4.0) | 0.4.0
+
+### Published: 09/05/2023 01:13:20 by Jordan Borean
+
+Cross platform module that can get/set information in Active Directory.`nSee https://github.com/jborean93/PSOpenAD for more info
+
+__Downloads__: 723 | __Repository__: https://github.com/jborean93/PSOpenAD
+
+## [WindowsOSBuild](https://www.powershellgallery.com/Packages/WindowsOSBuild/2309.2) | 2309.2
+
+### Published: 09/04/2023 22:06:52 by Ashley How
+
+Gets Windows patch release information (Version, Build, Availability date, Preview, Out-of-band, Servicing option, KB article, KB URL and Catalog URL) for Windows client and server versions. Useful for scripting and automation purposes. Supports Windows 10 and Windows Server 2016 onwards.
+
+__Downloads__: 40,759 | __Repository__: https://github.com/AshleyHow/WindowsOSBuild
+
+## [LibSnitcher](https://www.powershellgallery.com/Packages/LibSnitcher/1.2.0) | 1.2.0
+
+### Published: 09/04/2023 21:37:38 by Francisco Nabas
+
+This module contains tools to manage module dependencies.
+
+__Downloads__: 21 | __Repository__: https://github.com/FranciscoNabas/LibSnitcher
+
+## [JamfPSPro](https://www.powershellgallery.com/Packages/JamfPSPro/0.0.3) | 0.0.3
+
+### Published: 09/04/2023 21:32:50 by Tristan Brazier
+
+A PowerShell module for the Jamf classic api
+
+__Downloads__: 9 | __Repository__: https://github.com/TrustyTristan/JamfPSPro
+
+## [AzAPICall](https://www.powershellgallery.com/Packages/AzAPICall/1.1.78) | 1.1.78
+
+### Published: 09/04/2023 20:00:56 by Julian Hayward Kai Schulz
+
+Azure API call handler for Microsoft Graph, Azure Resource Management, KeyVault and Log Analytics. Visit aka.ms/AzAPICall
+
+__Downloads__: 103,300 | __Repository__: https://aka.ms/AzAPICall
+
+## [PSLogs](https://www.powershellgallery.com/Packages/PSLogs/5.0.1) | 5.0.1
+
+### Published: 09/04/2023 18:51:16 by Hannes Palmquist
+
+Powershell Logging Module. Support multiple logging targets, including console, file, sqlite, winevent, gelf, slack etc.
+
+__Downloads__: 0 | __Repository__: https://getps.dev/modules/PSLogs/getstarted
+
 ## [ISEScriptRunner](https://www.powershellgallery.com/Packages/ISEScriptRunner/6.9.2718.0) | 6.9.2718.0
 
 ### Published: 09/04/2023 17:32:57 by ScriptRunner Software GmbH
@@ -69,14 +125,6 @@ __Downloads__: 288 | __Repository__: https://github.com/ncavare/powershell-phpco
 Interact with the Atlassian Cloud APIs using PowerShell
 
 __Downloads__: 1,616 | __Repository__: https://github.com/andylyonette/CitrixShareFilePS
-
-## [PSSymantecCloud](https://www.powershellgallery.com/Packages/PSSymantecCloud/0.75.2) | 0.75.2
-
-### Published: 09/04/2023 13:47:24 by Aurélien BOUMANNE
-
-Common set of tools to interact with Symantec/Broadcom API for SEP Cloud
-
-__Downloads__: 51 | __Repository__: https://github.com/Douda/PSSymantecCloud
 
 ## [PsXisfReader](https://www.powershellgallery.com/Packages/PsXisfReader/1.0.51) | 1.0.51
 
@@ -245,14 +293,6 @@ __Downloads__: 0 | __Repository__: https://github.com/HeyItsGilbert/Log4NetParse
 This module helps you run a script when you enter or exit a folder
 
 __Downloads__: 11 | __Repository__: https://github.com/RobertoRojas/PSLocationTrigger
-
-## [WindowsUtils](https://www.powershellgallery.com/Packages/WindowsUtils/1.8.2) | 1.8.2
-
-### Published: 09/03/2023 23:30:22 by Francisco Nabas
-
-This module contain tools to facilitate the administration of Windows computers.
-
-__Downloads__: 288 | __Repository__: https://github.com/FranciscoNabas/WindowsUtils
 
 ## [PSDllCompiler](https://www.powershellgallery.com/Packages/PSDllCompiler/1.0.1.1) | 1.0.1.1
 
@@ -2390,54 +2430,4 @@ This version of AWS Tools for PowerShell is compatible with Windows PowerShell 5
 
 __Downloads__: 6,130 | __Repository__: https://github.com/aws/aws-tools-for-powershell
 
-## [AWS.Tools.HealthLake](https://www.powershellgallery.com/Packages/AWS.Tools.HealthLake/4.1.407) | 4.1.407
-
-### Published: 09/01/2023 23:12:07 by Amazon.com Inc
-
-The HealthLake module of AWS Tools for PowerShell lets developers and administrators manage Amazon HealthLake from the PowerShell scripting environment. In order to manage each AWS service, install the corresponding module (e.g. AWS.Tools.EC2, AWS.Tools.S3...).
-The module AWS.Tools.Installer (https://www.powershellgallery.com/packages/AWS.Tools.Installer/) makes it easier to install, update and uninstall the AWS.Tools modules.
-This version of AWS Tools for PowerShell is compatible with Windows PowerShell 5.1+ and PowerShell Core 6+ on Windows, Linux and macOS. When running on Windows PowerShell, .NET Framework 4.7.2 or newer is required. Alternative modules AWSPowerShell.NetCore and AWSPowerShell, provide support for all AWS services from a single module and also support older versions of Windows PowerShell and .NET Framework.
-
-__Downloads__: 6,405 | __Repository__: https://github.com/aws/aws-tools-for-powershell
-
-## [AWS.Tools.GuardDuty](https://www.powershellgallery.com/Packages/AWS.Tools.GuardDuty/4.1.407) | 4.1.407
-
-### Published: 09/01/2023 23:12:01 by Amazon.com Inc
-
-The GuardDuty module of AWS Tools for PowerShell lets developers and administrators manage Amazon GuardDuty from the PowerShell scripting environment. In order to manage each AWS service, install the corresponding module (e.g. AWS.Tools.EC2, AWS.Tools.S3...).
-The module AWS.Tools.Installer (https://www.powershellgallery.com/packages/AWS.Tools.Installer/) makes it easier to install, update and uninstall the AWS.Tools modules.
-This version of AWS Tools for PowerShell is compatible with Windows PowerShell 5.1+ and PowerShell Core 6+ on Windows, Linux and macOS. When running on Windows PowerShell, .NET Framework 4.7.2 or newer is required. Alternative modules AWSPowerShell.NetCore and AWSPowerShell, provide support for all AWS services from a single module and also support older versions of Windows PowerShell and .NET Framework.
-
-__Downloads__: 16,580 | __Repository__: https://github.com/aws/aws-tools-for-powershell
-
-## [AWS.Tools.GroundStation](https://www.powershellgallery.com/Packages/AWS.Tools.GroundStation/4.1.407) | 4.1.407
-
-### Published: 09/01/2023 23:11:54 by Amazon.com Inc
-
-The GroundStation module of AWS Tools for PowerShell lets developers and administrators manage AWS Ground Station from the PowerShell scripting environment. In order to manage each AWS service, install the corresponding module (e.g. AWS.Tools.EC2, AWS.Tools.S3...).
-The module AWS.Tools.Installer (https://www.powershellgallery.com/packages/AWS.Tools.Installer/) makes it easier to install, update and uninstall the AWS.Tools modules.
-This version of AWS Tools for PowerShell is compatible with Windows PowerShell 5.1+ and PowerShell Core 6+ on Windows, Linux and macOS. When running on Windows PowerShell, .NET Framework 4.7.2 or newer is required. Alternative modules AWSPowerShell.NetCore and AWSPowerShell, provide support for all AWS services from a single module and also support older versions of Windows PowerShell and .NET Framework.
-
-__Downloads__: 8,741 | __Repository__: https://github.com/aws/aws-tools-for-powershell
-
-## [AWS.Tools.GreengrassV2](https://www.powershellgallery.com/Packages/AWS.Tools.GreengrassV2/4.1.407) | 4.1.407
-
-### Published: 09/01/2023 23:11:47 by Amazon.com Inc
-
-The GreengrassV2 module of AWS Tools for PowerShell lets developers and administrators manage AWS GreengrassV2 from the PowerShell scripting environment. In order to manage each AWS service, install the corresponding module (e.g. AWS.Tools.EC2, AWS.Tools.S3...).
-The module AWS.Tools.Installer (https://www.powershellgallery.com/packages/AWS.Tools.Installer/) makes it easier to install, update and uninstall the AWS.Tools modules.
-This version of AWS Tools for PowerShell is compatible with Windows PowerShell 5.1+ and PowerShell Core 6+ on Windows, Linux and macOS. When running on Windows PowerShell, .NET Framework 4.7.2 or newer is required. Alternative modules AWSPowerShell.NetCore and AWSPowerShell, provide support for all AWS services from a single module and also support older versions of Windows PowerShell and .NET Framework.
-
-__Downloads__: 6,616 | __Repository__: https://github.com/aws/aws-tools-for-powershell
-
-## [AWS.Tools.Greengrass](https://www.powershellgallery.com/Packages/AWS.Tools.Greengrass/4.1.407) | 4.1.407
-
-### Published: 09/01/2023 23:11:41 by Amazon.com Inc
-
-The Greengrass module of AWS Tools for PowerShell lets developers and administrators manage AWS Greengrass from the PowerShell scripting environment. In order to manage each AWS service, install the corresponding module (e.g. AWS.Tools.EC2, AWS.Tools.S3...).
-The module AWS.Tools.Installer (https://www.powershellgallery.com/packages/AWS.Tools.Installer/) makes it easier to install, update and uninstall the AWS.Tools modules.
-This version of AWS Tools for PowerShell is compatible with Windows PowerShell 5.1+ and PowerShell Core 6+ on Windows, Linux and macOS. When running on Windows PowerShell, .NET Framework 4.7.2 or newer is required. Alternative modules AWSPowerShell.NetCore and AWSPowerShell, provide support for all AWS services from a single module and also support older versions of Windows PowerShell and .NET Framework.
-
-__Downloads__: 16,458 | __Repository__: https://github.com/aws/aws-tools-for-powershell
-
-*Updated: Monday, 04 September 2023 17:52:41 UTC*
+*Updated: Tuesday, 05 September 2023 02:01:34 UTC*
