@@ -3,6 +3,38 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [ChocoLogParse](https://www.powershellgallery.com/Packages/ChocoLogParse/0.3.0) | 0.3.0
+
+### Published: 09/06/2023 00:36:15 by Gilbert Sanchez
+
+Parses Chocolatey logs into easy to use objects.
+
+__Downloads__: 0 | __Repository__: https://github.com/HeyItsGilbert/ChocoLogParse/
+
+## [AzureBasicLoadBalancerUpgrade](https://www.powershellgallery.com/Packages/AzureBasicLoadBalancerUpgrade/2.0.22) | 2.0.22
+
+### Published: 09/05/2023 22:50:36 by FastTrack for Azure
+
+This module will migrate a Basic SKU load balancer connected to a Virtual Machine Scaleset (VMSS) or VMs to a Standard SKU load balancer, preserving the existing configuration and functionality.
+
+__Downloads__: 969 | __Repository__: https://github.com/Azure/AzLoadBalancerMigration
+
+## [tiPS](https://www.powershellgallery.com/Packages/tiPS/0.0.33) | 0.0.33
+
+### Published: 09/05/2023 21:44:48 by Daniel Schroeder
+
+PowerShell tips delivered straight to your terminal.
+
+__Downloads__: 90 | __Repository__: https://github.com/deadlydog/PowerShell.tiPS
+
+## [AppVeyorTestPsGallery](https://www.powershellgallery.com/Packages/AppVeyorTestPsGallery/1.0.507) | 1.0.507
+
+### Published: 09/05/2023 20:42:00 by Feodor Fitsner
+
+The test module to verify publishing to PSGallery from AppVeyor.
+
+__Downloads__: 40,033 | __Repository__: 
+
 ## [OGraph](https://www.powershellgallery.com/Packages/OGraph/0.0.1.7) | 0.0.1.7
 
 ### Published: 09/05/2023 17:49:56 by Ben Pulido Mike Campbell
@@ -34,14 +66,6 @@ Lenovo XClarity Administrator REST APIs used in this module:
 https://sysmgt.lenovofiles.com/help/topic/com.lenovo.lxca_restapis.doc/rest_apis.html
 
 __Downloads__: 6,389 | __Repository__: 
-
-## [AppVeyorTestPsGallery](https://www.powershellgallery.com/Packages/AppVeyorTestPsGallery/1.0.504) | 1.0.504
-
-### Published: 09/05/2023 17:16:51 by Feodor Fitsner
-
-The test module to verify publishing to PSGallery from AppVeyor.
-
-__Downloads__: 40,033 | __Repository__: 
 
 ## [AutopilotQuick](https://www.powershellgallery.com/Packages/AutopilotQuick/1.5.1) | 1.5.1
 
@@ -1645,14 +1669,6 @@ PowerShell module for Azure Container Apps
 
 __Downloads__: 0 | __Repository__: https://github.com/Cyb3rWard0g/PwshAzContainerApp
 
-## [ChocoLogParse](https://www.powershellgallery.com/Packages/ChocoLogParse/0.2.0) | 0.2.0
-
-### Published: 09/04/2023 02:43:32 by Gilbert Sanchez
-
-Parses Chocolatey logs into easy to use objects.
-
-__Downloads__: 0 | __Repository__: https://github.com/HeyItsGilbert/ChocoLogParse/
-
 ## [Log4NetParse](https://www.powershellgallery.com/Packages/Log4NetParse/0.3.0) | 0.3.0
 
 ### Published: 09/04/2023 01:29:34 by Gilbert Sanchez
@@ -1744,14 +1760,6 @@ __Downloads__: 34 | __Repository__: https://github.com/MariusStorhaug/PATH
 PowerShell Module of Utilities
 
 __Downloads__: 523 | __Repository__: https://github.com/MariusStorhaug/Utilities
-
-## [tiPS](https://www.powershellgallery.com/Packages/tiPS/0.0.27) | 0.0.27
-
-### Published: 09/02/2023 20:56:50 by Daniel Schroeder
-
-PowerShell tips delivered straight to your terminal.
-
-__Downloads__: 90 | __Repository__: https://github.com/deadlydog/PowerShell.tiPS
 
 ## [SACRED](https://www.powershellgallery.com/Packages/SACRED/0.0.5) | 0.0.5
 
@@ -2057,6 +2065,14 @@ Convenient cmdlets and aliases which wrap `terragrunt`.
 
 __Downloads__: 16 | __Repository__: https://github.com/pwshrc/poshy-wrap-terragrunt
 
+## [poshy-wrap-python](https://www.powershellgallery.com/Packages/poshy-wrap-python/0.2.11.0) | 0.2.11.0
+
+### Published: 08/31/2023 19:18:28 by Pwshrc Maintainers
+
+Convenient cmdlets and aliases which wrap `python3`.
+
+__Downloads__: 8 | __Repository__: https://github.com/pwshrc/poshy-wrap-python
+
 ## [poshy-wrap-tmux](https://www.powershellgallery.com/Packages/poshy-wrap-tmux/0.3.11.0) | 0.3.11.0
 
 ### Published: 08/31/2023 19:18:21 by Pwshrc Maintainers
@@ -2097,20 +2113,4 @@ Convenient cmdlets and aliases which wrap `pyenv`.
 
 __Downloads__: 8 | __Repository__: https://github.com/pwshrc/poshy-wrap-pyenv
 
-## [poshy-wrap-pylint](https://www.powershellgallery.com/Packages/poshy-wrap-pylint/0.2.10.0) | 0.2.10.0
-
-### Published: 08/31/2023 19:18:01 by Pwshrc Maintainers
-
-Convenient cmdlets and aliases which wrap `pylint`.
-
-__Downloads__: 8 | __Repository__: https://github.com/pwshrc/poshy-wrap-pylint
-
-## [poshy-wrap-systemctl](https://www.powershellgallery.com/Packages/poshy-wrap-systemctl/0.2.10.0) | 0.2.10.0
-
-### Published: 08/31/2023 19:17:49 by Pwshrc Maintainers
-
-Convenient cmdlets and aliases which wrap `systemctl`.
-
-__Downloads__: 8 | __Repository__: https://github.com/pwshrc/poshy-wrap-systemctl
-
-*Updated: Tuesday, 05 September 2023 17:53:02 UTC*
+*Updated: Wednesday, 06 September 2023 02:02:06 UTC*
