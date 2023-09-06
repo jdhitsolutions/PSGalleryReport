@@ -2034,9 +2034,9 @@ PowerShell module with commands for discovering, installing, and updating Docker
 
 __Downloads__: 4,759,068 | __Repository__: https://github.com/OneGet/MicrosoftDockerProvider
 
-## [SqlChangeAutomation](https://www.powershellgallery.com/Packages/SqlChangeAutomation/4.6.23242.2086) | 4.6.23242.2086
+## [SqlChangeAutomation](https://www.powershellgallery.com/Packages/SqlChangeAutomation/4.6.23249.2128) | 4.6.23249.2128
 
-### Published: 08/30/2023 15:39:32 by Red Gate Software Ltd.
+### Published: 09/06/2023 16:53:40 by Red Gate Software Ltd.
 
 Automation tools for production quality database deployment
 
@@ -2229,4 +2229,4 @@ This module contains DSC resources for the management and configuration of Windo
 
 __Downloads__: 3,324,302 | __Repository__: https://github.com/dsccommunity/xDnsServer
 
-*Updated: Wednesday, 06 September 2023 09:52:31 UTC*
+*Updated: Wednesday, 06 September 2023 17:52:56 UTC*
