@@ -3,6 +3,78 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [SysAdmin-Extras](https://www.powershellgallery.com/Packages/SysAdmin-Extras/1.0.3) | 1.0.3
+
+### Published: 09/07/2023 17:36:45 by Luis Carrillo
+
+This modules contains useful cmdlets for Windows Systems Administrators.
+
+__Downloads__: 17 | __Repository__: https://github.com/LuisCarrilloTech
+
+## [PowerShellProTools](https://www.powershellgallery.com/Packages/PowerShellProTools/2023.9.0) | 2023.9.0
+
+### Published: 09/07/2023 17:19:20 by Ironman Software LLC
+
+PowerShell script packaging, profiling, WPF and Windows Forms design, and desktop automation.
+
+__Downloads__: 23,884 | __Repository__: 
+
+## [tiPS](https://www.powershellgallery.com/Packages/tiPS/0.0.38) | 0.0.38
+
+### Published: 09/07/2023 17:17:47 by Daniel Schroeder
+
+PowerShell tips delivered straight to your terminal.
+
+__Downloads__: 90 | __Repository__: https://github.com/deadlydog/PowerShell.tiPS
+
+## [PSSWAPI](https://www.powershellgallery.com/Packages/PSSWAPI/0.1.2) | 0.1.2
+
+### Published: 09/07/2023 14:55:01 by Rob "Ephos" Pleau
+
+PowerShell module as a proof of concept for interacting with the Star Wars API (SWAPI).
+
+__Downloads__: 0 | __Repository__: 
+
+## [ChocoLogParse](https://www.powershellgallery.com/Packages/ChocoLogParse/0.4.0) | 0.4.0
+
+### Published: 09/07/2023 14:31:47 by Gilbert Sanchez
+
+Parses Chocolatey logs into easy to use objects.
+
+__Downloads__: 0 | __Repository__: https://github.com/HeyItsGilbert/ChocoLogParse/
+
+## [PSLogs](https://www.powershellgallery.com/Packages/PSLogs/5.0.3) | 5.0.3
+
+### Published: 09/07/2023 14:06:39 by Hannes Palmquist
+
+Powershell Logging Module. Support multiple logging targets, including console, file, sqlite, winevent, gelf, slack etc.
+
+__Downloads__: 0 | __Repository__: https://getps.dev/modules/PSLogs/getstarted
+
+## [SpecIRLHelper](https://www.powershellgallery.com/Packages/SpecIRLHelper/1.0.0) | 1.0.0
+
+### Published: 09/07/2023 14:01:29 by owen.heaume
+
+A module to help format data required by other functions
+
+__Downloads__: 0 | __Repository__: 
+
+## [SpecBaseModule](https://www.powershellgallery.com/Packages/SpecBaseModule/1.0.9) | 1.0.9
+
+### Published: 09/07/2023 12:40:28 by owen.heaume
+
+Mandatory module for the foundation PowerShell scripts.
+
+__Downloads__: 123 | __Repository__: 
+
+## [LampSettingLib](https://www.powershellgallery.com/Packages/LampSettingLib/0.1.1) | 0.1.1
+
+### Published: 09/07/2023 11:41:40 by CR
+
+Helper module to TisaneLampClient, manages setting values to the variables
+
+__Downloads__: 142 | __Repository__: 
+
 ## [WilmaPSWorker](https://www.powershellgallery.com/Packages/WilmaPSWorker/0.3.136) | 0.3.136
 
 ### Published: 09/07/2023 08:59:51 by Petri Asikainen
@@ -151,14 +223,6 @@ PowerShell module for Nectar DXP
 
 __Downloads__: 1,027 | __Repository__: 
 
-## [tiPS](https://www.powershellgallery.com/Packages/tiPS/0.0.35) | 0.0.35
-
-### Published: 09/06/2023 17:45:08 by Daniel Schroeder
-
-PowerShell tips delivered straight to your terminal.
-
-__Downloads__: 90 | __Repository__: https://github.com/deadlydog/PowerShell.tiPS
-
 ## [AppVeyorTestPsGallery](https://www.powershellgallery.com/Packages/AppVeyorTestPsGallery/1.0.509) | 1.0.509
 
 ### Published: 09/06/2023 17:37:26 by Feodor Fitsner
@@ -266,14 +330,6 @@ __Downloads__: 16 | __Repository__: https://github.com/EvotecIT/PowerJamf
 This is a set of tools to help Lumify trainers with home based classrooms
 
 __Downloads__: 940 | __Repository__: 
-
-## [ChocoLogParse](https://www.powershellgallery.com/Packages/ChocoLogParse/0.3.0) | 0.3.0
-
-### Published: 09/06/2023 00:36:15 by Gilbert Sanchez
-
-Parses Chocolatey logs into easy to use objects.
-
-__Downloads__: 0 | __Repository__: https://github.com/HeyItsGilbert/ChocoLogParse/
 
 ## [AzureBasicLoadBalancerUpgrade](https://www.powershellgallery.com/Packages/AzureBasicLoadBalancerUpgrade/2.0.22) | 2.0.22
 
@@ -1671,14 +1727,6 @@ Azure API call handler for Microsoft Graph, Azure Resource Management, KeyVault 
 
 __Downloads__: 103,300 | __Repository__: https://aka.ms/AzAPICall
 
-## [PSLogs](https://www.powershellgallery.com/Packages/PSLogs/5.0.1) | 5.0.1
-
-### Published: 09/04/2023 18:51:16 by Hannes Palmquist
-
-Powershell Logging Module. Support multiple logging targets, including console, file, sqlite, winevent, gelf, slack etc.
-
-__Downloads__: 0 | __Repository__: https://getps.dev/modules/PSLogs/getstarted
-
 ## [ISEScriptRunner](https://www.powershellgallery.com/Packages/ISEScriptRunner/6.9.2718.0) | 6.9.2718.0
 
 ### Published: 09/04/2023 17:32:57 by ScriptRunner Software GmbH
@@ -2078,52 +2126,4 @@ ProjectWise PowerShell Cmdlets from System Architecture Group
 
 __Downloads__: 76,877 | __Repository__: 
 
-## [DailyBackup](https://www.powershellgallery.com/Packages/DailyBackup/1.2.1) | 1.2.1
-
-### Published: 09/01/2023 16:33:40 by Jon LaBelle
-
-Perform simple, daily backups.
-
-__Downloads__: 6 | __Repository__: https://github.com/jonlabelle/pwsh-daily-backup
-
-## [SACRED.Util.Azure](https://www.powershellgallery.com/Packages/SACRED.Util.Azure/0.0.2) | 0.0.2
-
-### Published: 09/01/2023 15:04:09 by Chris Clohosy
-
-This module contains Azure-specific utility logic for SACRED.
-
-__Downloads__: 3 | __Repository__: https://github.com/ccdigix/SACRED
-
-## [SACRED.Update.Azure.KeyVault](https://www.powershellgallery.com/Packages/SACRED.Update.Azure.KeyVault/0.0.3) | 0.0.3
-
-### Published: 09/01/2023 15:03:45 by Chris Clohosy
-
-This module contains SACRED logic for updating Azure Key Vault secrets and certificates.
-
-__Downloads__: 5 | __Repository__: https://github.com/ccdigix/SACRED
-
-## [SACRED.Rotate.Azure.ServicePrincipal](https://www.powershellgallery.com/Packages/SACRED.Rotate.Azure.ServicePrincipal/0.0.1) | 0.0.1
-
-### Published: 09/01/2023 15:01:05 by Chris Clohosy
-
-This module contains SACRED logic for rotating Entra Service Principal secrets and certificates.
-
-__Downloads__: 0 | __Repository__: https://github.com/ccdigix/SACRED
-
-## [SACRED.Rotate.Azure.CosmosDB](https://www.powershellgallery.com/Packages/SACRED.Rotate.Azure.CosmosDB/0.0.3) | 0.0.3
-
-### Published: 09/01/2023 15:00:44 by Chris Clohosy
-
-This module contains SACRED logic for rotating Azure Cosmos DB keys.
-
-__Downloads__: 5 | __Repository__: https://github.com/ccdigix/SACRED
-
-## [SpecComPortManager](https://www.powershellgallery.com/Packages/SpecComPortManager/1.0.3) | 1.0.3
-
-### Published: 09/01/2023 14:28:57 by owen.heaume
-
-"COMPortManager: A PowerShell module for handling and relocating COM ports efficiently. Simplify COM port management tasks with this versatile utility."
-
-__Downloads__: 0 | __Repository__: 
-
-*Updated: Thursday, 07 September 2023 09:53:45 UTC*
+*Updated: Thursday, 07 September 2023 17:53:32 UTC*

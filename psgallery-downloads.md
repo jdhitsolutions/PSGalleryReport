@@ -1481,9 +1481,9 @@ This PowerShell module contains functionality required by multiple PowerCLI modu
 
 __Downloads__: 12,706,560 | __Repository__: https://developer.vmware.com/powercli
 
-## [Microsoft.Graph.Authentication](https://www.powershellgallery.com/Packages/Microsoft.Graph.Authentication/2.4.0) | 2.4.0
+## [Microsoft.Graph.Authentication](https://www.powershellgallery.com/Packages/Microsoft.Graph.Authentication/2.5.0) | 2.5.0
 
-### Published: 08/24/2023 15:17:47 by Microsoft
+### Published: 09/07/2023 16:31:35 by Microsoft
 
 Microsoft Graph PowerShell Authentication Module.
 
@@ -2117,17 +2117,17 @@ Check out the How To Videos https://www.youtube.com/watch?v=U3Ne_yX4tYo&list=PL5
 
 __Downloads__: 3,510,311 | __Repository__: https://github.com/dfinke/ImportExcel
 
-## [Microsoft.Graph.Groups](https://www.powershellgallery.com/Packages/Microsoft.Graph.Groups/2.4.0) | 2.4.0
+## [Microsoft.Graph.Groups](https://www.powershellgallery.com/Packages/Microsoft.Graph.Groups/2.5.0) | 2.5.0
 
-### Published: 08/24/2023 15:18:59 by Microsoft Corporation
+### Published: 09/07/2023 16:32:31 by Microsoft Corporation
 
 Microsoft Graph PowerShell Cmdlets
 
 __Downloads__: 3,481,774 | __Repository__: https://github.com/microsoftgraph/msgraph-sdk-powershell
 
-## [Microsoft.Graph.Teams](https://www.powershellgallery.com/Packages/Microsoft.Graph.Teams/2.4.0) | 2.4.0
+## [Microsoft.Graph.Teams](https://www.powershellgallery.com/Packages/Microsoft.Graph.Teams/2.5.0) | 2.5.0
 
-### Published: 08/24/2023 15:19:58 by Microsoft Corporation
+### Published: 09/07/2023 16:33:18 by Microsoft Corporation
 
 Microsoft Graph PowerShell Cmdlets
 
@@ -2171,17 +2171,17 @@ Added help URI to module.
 
 __Downloads__: 3,462,854 | __Repository__: 
 
-## [Microsoft.Graph.Planner](https://www.powershellgallery.com/Packages/Microsoft.Graph.Planner/2.4.0) | 2.4.0
+## [Microsoft.Graph.Planner](https://www.powershellgallery.com/Packages/Microsoft.Graph.Planner/2.5.0) | 2.5.0
 
-### Published: 08/24/2023 15:19:34 by Microsoft Corporation
+### Published: 09/07/2023 16:32:59 by Microsoft Corporation
 
 Microsoft Graph PowerShell Cmdlets
 
 __Downloads__: 3,462,162 | __Repository__: https://github.com/microsoftgraph/msgraph-sdk-powershell
 
-## [Microsoft.Graph.Users](https://www.powershellgallery.com/Packages/Microsoft.Graph.Users/2.4.0) | 2.4.0
+## [Microsoft.Graph.Users](https://www.powershellgallery.com/Packages/Microsoft.Graph.Users/2.5.0) | 2.5.0
 
-### Published: 08/24/2023 15:20:10 by Microsoft Corporation
+### Published: 09/07/2023 16:33:27 by Microsoft Corporation
 
 Microsoft Graph PowerShell Cmdlets
 
@@ -2205,9 +2205,9 @@ This version of AWS Tools for PowerShell is compatible with Windows PowerShell 5
 
 __Downloads__: 3,397,605 | __Repository__: https://github.com/aws/aws-tools-for-powershell
 
-## [Microsoft.Graph.Identity.DirectoryManagement](https://www.powershellgallery.com/Packages/Microsoft.Graph.Identity.DirectoryManagement/2.4.0) | 2.4.0
+## [Microsoft.Graph.Identity.DirectoryManagement](https://www.powershellgallery.com/Packages/Microsoft.Graph.Identity.DirectoryManagement/2.5.0) | 2.5.0
 
-### Published: 08/24/2023 15:19:03 by Microsoft Corporation
+### Published: 09/07/2023 16:32:34 by Microsoft Corporation
 
 Microsoft Graph PowerShell Cmdlets
 
@@ -2229,4 +2229,4 @@ This module contains DSC resources for the management and configuration of Windo
 
 __Downloads__: 3,324,302 | __Repository__: https://github.com/dsccommunity/xDnsServer
 
-*Updated: Thursday, 07 September 2023 09:53:52 UTC*
+*Updated: Thursday, 07 September 2023 17:53:38 UTC*
