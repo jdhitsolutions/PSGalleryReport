@@ -3,6 +3,78 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [FC_Core](https://www.powershellgallery.com/Packages/FC_Core/5.4.1) | 5.4.1
+
+### Published: 09/07/2023 01:53:46 by Brandon McClure
+
+Core functions required for all of the other friendly chainsaw modules
+
+__Downloads__: 776 | __Repository__: 
+
+## [JamfPSPro](https://www.powershellgallery.com/Packages/JamfPSPro/0.0.5) | 0.0.5
+
+### Published: 09/06/2023 23:03:00 by Tristan Brazier
+
+A PowerShell module for the Jamf classic api
+
+__Downloads__: 9 | __Repository__: https://github.com/TrustyTristan/JamfPSPro
+
+## [SmtpClientDiag](https://www.powershellgallery.com/Packages/SmtpClientDiag/1.2.0.1) | 1.2.0.1
+
+### Published: 09/06/2023 22:20:47 by Richard Fajardo
+
+Smtp client diagnostic modules for troubleshoting SMTP client submission
+
+__Downloads__: 446 | __Repository__: https://github.com/richfaj/SmtpClientDiag
+
+## [Nevergreen](https://www.powershellgallery.com/Packages/Nevergreen/2309.1) | 2309.1
+
+### Published: 09/06/2023 21:55:54 by Dan Gough
+
+This module is an alternative to Evergreen, and allows you to find the latest version and download URL for various Windows apps. Evergreen uses API queries to obtain its data whereas this module is more focussed on web scraping. This is more prone to breaking when websites are changed, hence the name!
+
+__Downloads__: 63,705 | __Repository__: https://github.com/DanGough/Nevergreen
+
+## [psPAS](https://www.powershellgallery.com/Packages/psPAS/6.0.4) | 6.0.4
+
+### Published: 09/06/2023 21:14:41 by Pete Maan
+
+Module for CyberArk Privileged Access Security Web Service REST API
+
+__Downloads__: 75,734 | __Repository__: https://pspas.pspete.dev/
+
+## [ALH](https://www.powershellgallery.com/Packages/ALH/2.3.0) | 2.3.0
+
+### Published: 09/06/2023 19:29:43 by Dieter Koch
+
+Admins Little Helper - a collection of helpful PowerShell scripts.
+
+__Downloads__: 175 | __Repository__: https://github.com/admins-little-helper/ALH
+
+## [WindowsUtils](https://www.powershellgallery.com/Packages/WindowsUtils/1.8.5) | 1.8.5
+
+### Published: 09/06/2023 19:05:23 by Francisco Nabas
+
+This module contain tools to facilitate the administration of Windows computers.
+
+__Downloads__: 288 | __Repository__: https://github.com/FranciscoNabas/WindowsUtils
+
+## [Nectar10](https://www.powershellgallery.com/Packages/Nectar10/3.66) | 3.66
+
+### Published: 09/06/2023 18:36:19 by Ken Lasko
+
+PowerShell module for Nectar DXP
+
+__Downloads__: 1,027 | __Repository__: 
+
+## [tiPS](https://www.powershellgallery.com/Packages/tiPS/0.0.35) | 0.0.35
+
+### Published: 09/06/2023 17:45:08 by Daniel Schroeder
+
+PowerShell tips delivered straight to your terminal.
+
+__Downloads__: 90 | __Repository__: https://github.com/deadlydog/PowerShell.tiPS
+
 ## [AppVeyorTestPsGallery](https://www.powershellgallery.com/Packages/AppVeyorTestPsGallery/1.0.509) | 1.0.509
 
 ### Published: 09/06/2023 17:37:26 by Feodor Fitsner
@@ -145,14 +217,6 @@ __Downloads__: 0 | __Repository__: https://github.com/HeyItsGilbert/ChocoLogPars
 This module will migrate a Basic SKU load balancer connected to a Virtual Machine Scaleset (VMSS) or VMs to a Standard SKU load balancer, preserving the existing configuration and functionality.
 
 __Downloads__: 969 | __Repository__: https://github.com/Azure/AzLoadBalancerMigration
-
-## [tiPS](https://www.powershellgallery.com/Packages/tiPS/0.0.33) | 0.0.33
-
-### Published: 09/05/2023 21:44:48 by Daniel Schroeder
-
-PowerShell tips delivered straight to your terminal.
-
-__Downloads__: 90 | __Repository__: https://github.com/deadlydog/PowerShell.tiPS
 
 ## [OGraph](https://www.powershellgallery.com/Packages/OGraph/0.0.1.7) | 0.0.1.7
 
@@ -1510,22 +1574,6 @@ Oraculum command line interface
 
 __Downloads__: 0 | __Repository__: https://github.com/Unipisa/Oraculum
 
-## [JamfPSPro](https://www.powershellgallery.com/Packages/JamfPSPro/0.0.4) | 0.0.4
-
-### Published: 09/05/2023 03:10:20 by Tristan Brazier
-
-A PowerShell module for the Jamf classic api
-
-__Downloads__: 9 | __Repository__: https://github.com/TrustyTristan/JamfPSPro
-
-## [WindowsUtils](https://www.powershellgallery.com/Packages/WindowsUtils/1.8.4) | 1.8.4
-
-### Published: 09/05/2023 01:44:03 by Francisco Nabas
-
-This module contain tools to facilitate the administration of Windows computers.
-
-__Downloads__: 288 | __Repository__: https://github.com/FranciscoNabas/WindowsUtils
-
 ## [PSOpenAD](https://www.powershellgallery.com/Packages/PSOpenAD/0.4.0) | 0.4.0
 
 ### Published: 09/05/2023 01:13:20 by Jordan Borean
@@ -2061,6 +2109,14 @@ Contains a set of resuable PowerShell functions for working with Azure Resource 
 
 __Downloads__: 155 | __Repository__: 
 
+## [CoreePower.Config](https://www.powershellgallery.com/Packages/CoreePower.Config/0.0.0.58) | 0.0.0.58
+
+### Published: 09/01/2023 05:18:43 by Carsten Riedel
+
+Powershell module for basic configuration
+
+__Downloads__: 127 | __Repository__: 
+
 ## [BruhArmy](https://www.powershellgallery.com/Packages/BruhArmy/1.3.0) | 1.3.0
 
 ### Published: 09/01/2023 01:42:20 by Evan Deters
@@ -2069,60 +2125,4 @@ This module includes several commands that help with the deployment of virtual e
 
 __Downloads__: 109 | __Repository__: https://github.com/evanjd711/bruharmy
 
-## [PureStoragePowerShellSDK2](https://www.powershellgallery.com/Packages/PureStoragePowerShellSDK2/2.24.70) | 2.24.70
-
-### Published: 08/31/2023 23:26:11 by Pure Storage Inc.
-
-Pure Storage FlashArray REST 2.24 API integration with Windows PowerShell.
-
-__Downloads__: 6,812 | __Repository__: https://github.com/PureStorage-Connect/PowerShellSDK2
-
-## [LogicNowRMM](https://www.powershellgallery.com/Packages/LogicNowRMM/1.0.0) | 1.0.0
-
-### Published: 08/31/2023 20:15:44 by Jason Leonard
-
-Interface with Solarwinds RMM API
-
-__Downloads__: 0 | __Repository__: 
-
-## [poshy-wrap-zypper](https://www.powershellgallery.com/Packages/poshy-wrap-zypper/0.2.9.0) | 0.2.9.0
-
-### Published: 08/31/2023 19:21:06 by Pwshrc Maintainers
-
-Convenient cmdlets and aliases which wrap `zypper`.
-
-__Downloads__: 8 | __Repository__: https://github.com/pwshrc/poshy-wrap-zypper
-
-## [poshy-wrap-yum](https://www.powershellgallery.com/Packages/poshy-wrap-yum/0.2.10.0) | 0.2.10.0
-
-### Published: 08/31/2023 19:20:43 by Pwshrc Maintainers
-
-Convenient cmdlets and aliases which wrap `yum`.
-
-__Downloads__: 8 | __Repository__: https://github.com/pwshrc/poshy-wrap-yum
-
-## [poshy-wrap-wt](https://www.powershellgallery.com/Packages/poshy-wrap-wt/0.3.10.0) | 0.3.10.0
-
-### Published: 08/31/2023 19:20:31 by Pwshrc Maintainers
-
-Convenient cmdlets and aliases for interacting with Windows Terminal from within your PowerShell session.
-
-__Downloads__: 13 | __Repository__: https://github.com/pwshrc/poshy-wrap-wt
-
-## [poshy-wrap-vscode](https://www.powershellgallery.com/Packages/poshy-wrap-vscode/0.2.8.0) | 0.2.8.0
-
-### Published: 08/31/2023 19:19:21 by Pwshrc Maintainers
-
-Convenient cmdlets and aliases for interacting with VSCode from within your PowerShell session.
-
-__Downloads__: 8 | __Repository__: https://github.com/pwshrc/poshy-wrap-vscode
-
-## [poshy-wrap-wget](https://www.powershellgallery.com/Packages/poshy-wrap-wget/0.3.11.0) | 0.3.11.0
-
-### Published: 08/31/2023 19:18:59 by Pwshrc Maintainers
-
-Convenient cmdlets and aliases which wrap `wget`.
-
-__Downloads__: 21 | __Repository__: https://github.com/pwshrc/poshy-wrap-wget
-
-*Updated: Wednesday, 06 September 2023 17:52:50 UTC*
+*Updated: Thursday, 07 September 2023 02:01:41 UTC*
