@@ -3,6 +3,90 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [WilmaPSWorker](https://www.powershellgallery.com/Packages/WilmaPSWorker/0.3.136) | 0.3.136
+
+### Published: 09/07/2023 08:59:51 by Petri Asikainen
+
+Tools for Visma Wilma
+
+__Downloads__: 363 | __Repository__: 
+
+## [BicepNet.PS](https://www.powershellgallery.com/Packages/BicepNet.PS/2.2.1) | 2.2.1
+
+### Published: 09/07/2023 07:31:11 by Simon Wåhlin
+
+A thin wrapper around bicep that will load all Bicep assemblies in a separate context to avoid conflicts with other modules.
+BicepNet is developed for the Bicep PowerShell module but could be used for any other project where you want to leverage Bicep functionality in PowerShell or .NET.
+
+__Downloads__: 38 | __Repository__: https://github.com/PSBicep/BicepNet
+
+## [IAMClient](https://www.powershellgallery.com/Packages/IAMClient/2.2.0) | 2.2.0
+
+### Published: 09/07/2023 06:53:35 by Aurel Schwitter & Joel Grand
+
+PowerShell module to access the IAM API
+
+__Downloads__: 814 | __Repository__: https://gitlab.ethz.ch/iamclient/iam-powershell
+
+## [PsSmo](https://www.powershellgallery.com/Packages/PsSmo/1.2.1) | 1.2.1
+
+### Published: 09/07/2023 06:37:30 by Steffen Kampmann
+
+The PowerShell SQL Client module replaces the SQL Server utilities SQLCMD with native PowerShell commands.
+
+__Downloads__: 1,159 | __Repository__: https://github.com/abbgrade/PsSmo
+
+## [CoreePower.Lib](https://www.powershellgallery.com/Packages/CoreePower.Lib/0.0.4) | 0.0.4
+
+### Published: 09/07/2023 05:12:53 by Carsten Riedel
+
+The "CoreePower.Lib" module is the a part of the CoreePower project.
+It adds command-line programs like 7-Zip, Git, GitHub CLI, NuGet, dotnet, and Visual Studio Code from the original sources.
+See full readme at https://github.com/carsten-riedel/CoreePower.Lib/#readme
+Note: the "Initialize-CorePowerLatest" command may conflict with existing installations. Use with caution.
+
+__Downloads__: 833 | __Repository__: https://github.com/carsten-riedel/CoreePower.Lib
+
+## [CoreePower.Config](https://www.powershellgallery.com/Packages/CoreePower.Config/0.0.2) | 0.0.2
+
+### Published: 09/07/2023 05:12:05 by Carsten Riedel
+
+Powershell module for basic configuration
+
+__Downloads__: 127 | __Repository__: 
+
+## [CoreePower.Common](https://www.powershellgallery.com/Packages/CoreePower.Common/0.0.1) | 0.0.1
+
+### Published: 09/07/2023 04:54:18 by Carsten Riedel
+
+Basic library.
+
+__Downloads__: 24 | __Repository__: 
+
+## [CoreePower.Module](https://www.powershellgallery.com/Packages/CoreePower.Module/0.0.3) | 0.0.3
+
+### Published: 09/07/2023 04:47:03 by Carsten Riedel
+
+A library for fast module creation
+
+__Downloads__: 190 | __Repository__: 
+
+## [MecaAppsToolsAnsibleVault](https://www.powershellgallery.com/Packages/MecaAppsToolsAnsibleVault/0.0.1) | 0.0.1
+
+### Published: 09/07/2023 04:34:51 by dev dqlr
+
+PowerShell commands for ansible vault file generation and transformation.
+
+__Downloads__: 0 | __Repository__: 
+
+## [Posh](https://www.powershellgallery.com/Packages/Posh/0.1.7) | 0.1.7
+
+### Published: 09/07/2023 02:01:38 by James Brundage
+
+PowerShell made Posh - Spice up Your Shell
+
+__Downloads__: 250 | __Repository__: https://github.com/StartAutomating/Posh
+
 ## [FC_Core](https://www.powershellgallery.com/Packages/FC_Core/5.4.1) | 5.4.1
 
 ### Published: 09/07/2023 01:53:46 by Brandon McClure
@@ -182,25 +266,6 @@ __Downloads__: 16 | __Repository__: https://github.com/EvotecIT/PowerJamf
 This is a set of tools to help Lumify trainers with home based classrooms
 
 __Downloads__: 940 | __Repository__: 
-
-## [CoreePower.Module](https://www.powershellgallery.com/Packages/CoreePower.Module/0.0.0.92) | 0.0.0.92
-
-### Published: 09/06/2023 05:03:45 by Carsten Riedel
-
-A library for fast module creation
-
-__Downloads__: 190 | __Repository__: 
-
-## [CoreePower.Lib](https://www.powershellgallery.com/Packages/CoreePower.Lib/0.0.2.25) | 0.0.2.25
-
-### Published: 09/06/2023 04:40:32 by Carsten Riedel
-
-The "CoreePower.Lib" module is the a part of the CoreePower project.
-It adds command-line programs like 7-Zip, Git, GitHub CLI, NuGet, dotnet, and Visual Studio Code from the original sources.
-See full readme at https://github.com/carsten-riedel/CoreePower.Lib/#readme
-Note: the "Initialize-CorePowerLatest" command may conflict with existing installations. Use with caution.
-
-__Downloads__: 833 | __Repository__: https://github.com/carsten-riedel/CoreePower.Lib
 
 ## [ChocoLogParse](https://www.powershellgallery.com/Packages/ChocoLogParse/0.3.0) | 0.3.0
 
@@ -2061,68 +2126,4 @@ __Downloads__: 5 | __Repository__: https://github.com/ccdigix/SACRED
 
 __Downloads__: 0 | __Repository__: 
 
-## [PSDev](https://www.powershellgallery.com/Packages/PSDev/1.4.2) | 1.4.2
-
-### Published: 09/01/2023 13:58:03 by Hannes Palmquist
-
-Various tools
-
-__Downloads__: 105 | __Repository__: https://getps.dev/modules/PSDev/getstarted
-
-## [Devolutions.PowerShell](https://www.powershellgallery.com/Packages/Devolutions.PowerShell/2023.2.0.6) | 2023.2.0.6
-
-### Published: 09/01/2023 13:52:40 by Devolutions
-
-The Devolutions.PowerShell module is a set of cmdlets that allow administrators to manage Remote Desktop Manager, Devolutions Server and Devolutions Hub Business using PowerShell. This module provides a simple and consistent interface for interacting with these products, making it easy to automate various tasks, such as creating and managing connections, sessions, and credentials, configuring security settings, and generating reports. The module can be easily integrated with other PowerShell modules, allowing administrators to automate tasks across multiple products and platforms, streamline their workflows and increase efficiency.
-
-__Downloads__: 4,799 | __Repository__: 
-
-## [VincentyFormulae](https://www.powershellgallery.com/Packages/VincentyFormulae/0.0.2) | 0.0.2
-
-### Published: 09/01/2023 12:40:22 by miyamiya
-
-Calculate the distance (geodesic length) between two points on the spheroid using "Vincenty's Formulae"
-
-__Downloads__: 5 | __Repository__: 
-
-## [CoreePower.Common](https://www.powershellgallery.com/Packages/CoreePower.Common/0.0.0.14) | 0.0.0.14
-
-### Published: 09/01/2023 07:20:44 by Carsten Riedel
-
-Basic library.
-
-__Downloads__: 24 | __Repository__: 
-
-## [DFSDsc](https://www.powershellgallery.com/Packages/DFSDsc/5.0.0) | 5.0.0
-
-### Published: 09/01/2023 07:01:38 by DSC Community
-
-DSC resources for configuring Distributed File System Replication and Namespaces.
-
-__Downloads__: 268,103 | __Repository__: https://github.com/dsccommunity/DFSDsc
-
-## [Rpic.PowerShell](https://www.powershellgallery.com/Packages/Rpic.PowerShell/1.8.0) | 1.8.0
-
-### Published: 09/01/2023 05:38:54 by tobiaslekman
-
-Contains a set of resuable PowerShell functions for working with Azure Resource Manager and Bicep.
-
-__Downloads__: 155 | __Repository__: 
-
-## [CoreePower.Config](https://www.powershellgallery.com/Packages/CoreePower.Config/0.0.0.58) | 0.0.0.58
-
-### Published: 09/01/2023 05:18:43 by Carsten Riedel
-
-Powershell module for basic configuration
-
-__Downloads__: 127 | __Repository__: 
-
-## [BruhArmy](https://www.powershellgallery.com/Packages/BruhArmy/1.3.0) | 1.3.0
-
-### Published: 09/01/2023 01:42:20 by Evan Deters
-
-This module includes several commands that help with the deployment of virtual environments on vSphere.
-
-__Downloads__: 109 | __Repository__: https://github.com/evanjd711/bruharmy
-
-*Updated: Thursday, 07 September 2023 02:01:41 UTC*
+*Updated: Thursday, 07 September 2023 09:53:45 UTC*

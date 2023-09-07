@@ -1399,9 +1399,9 @@ Alternative modules, AWSPowerShell.NetCore and AWSPowerShell, provide support fo
 
 __Downloads__: 19,950,389 | __Repository__: https://github.com/aws/aws-tools-for-powershell
 
-## [ExchangeOnlineManagement](https://www.powershellgallery.com/Packages/ExchangeOnlineManagement/3.2.0) | 3.2.0
+## [ExchangeOnlineManagement](https://www.powershellgallery.com/Packages/ExchangeOnlineManagement/3.3.0) | 3.3.0
 
-### Published: 06/21/2023 06:45:39 by Microsoft Corporation
+### Published: 09/07/2023 06:37:45 by Microsoft Corporation
 
 This is a General Availability (GA) release of the Exchange Online Powershell V3 module. Exchange Online cmdlets in this module are REST-backed and do not require Basic Authentication to be enabled in WinRM.
 Please check the documentation here - https://aka.ms/exov3-module.
@@ -2229,4 +2229,4 @@ This module contains DSC resources for the management and configuration of Windo
 
 __Downloads__: 3,324,302 | __Repository__: https://github.com/dsccommunity/xDnsServer
 
-*Updated: Thursday, 07 September 2023 02:01:46 UTC*
+*Updated: Thursday, 07 September 2023 09:53:52 UTC*
