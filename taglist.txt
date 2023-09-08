@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Friday, 08 September 2023 09:52:57 UTC
+Updated: Friday, 08 September 2023 17:53:58 UTC
 
 .bat
 .env
@@ -36,6 +36,7 @@ Updated: Friday, 08 September 2023 09:52:57 UTC
 21vianet
 24-bit
 2fa
+300
 365
 36867
 3d
@@ -182,7 +183,6 @@ administrativeuser
 administrator
 admintools
 adml
-admpwd
 admx
 ado
 ado_security
@@ -397,7 +397,6 @@ appv
 appveyor
 appvolumes
 appx
-appxmanifest
 aprs
 aprs-is
 aprsis
@@ -805,6 +804,7 @@ blaze
 blinking-text
 blob
 blobstorage
+block
 block-kit
 blockchain
 blocks
@@ -863,6 +863,7 @@ britannicaknowledgesystems
 british-gas
 brk4452
 broadcast
+broadcom
 broot
 brownserve-uk
 browser
@@ -1049,6 +1050,7 @@ chef-compliance
 chef-server
 chefconf2016
 chenxizhang
+cherrypy
 cherwell
 chfs
 chi
@@ -1445,6 +1447,7 @@ cover
 coverage
 coveralls
 coveralls.io
+covid
 covid-19
 cpm
 cppm
@@ -1741,7 +1744,6 @@ dependencies
 dependency
 deploy
 deployment
-deploymentconfig
 deploymentmanager
 deploymentresourceprovider
 depute
@@ -1833,6 +1835,8 @@ disable
 disable-internet
 disable-psremoting
 disablefilesyncngsc
+disablestartbutton
+disablestartkey
 disasm
 disasterrecovery
 disconnect
@@ -2114,6 +2118,7 @@ email
 email-address
 emailaddressupdate
 emailautomation
+emailmanagment
 emailnotification
 emailnotificationcomponent
 emailsecurity
@@ -3089,6 +3094,7 @@ identity-management
 identitydataplane
 identitydirector
 identitydomains
+identitynow
 idf
 idm
 idna
@@ -3140,7 +3146,6 @@ imei
 imi
 impala
 impersonation
-imperva
 import
 import-csv
 import-dtdriverpackpackagedefinitionsms
@@ -3373,6 +3378,7 @@ job
 jobcan
 jobs
 jobscheduler
+johnshopkins
 join
 join-object
 jojoba
@@ -3414,6 +3420,8 @@ k8s
 k8sshell
 kafka
 kaminario
+karabiner
+karabiner-elements
 karma
 kaseya
 kaseyavsa
@@ -3437,10 +3445,14 @@ key
 key-vault
 key2wocas
 keybase
+keybinding
 keyboard
+keyboardstartkey
 keycipher
 keylight
 keymanagement
+keymap
+keymapping
 keypair
 keysms
 keyvault
@@ -3997,6 +4009,7 @@ model
 modify
 module
 module-maintenance
+modulebuild
 modulecreation
 modulemanagement
 modules
@@ -4301,6 +4314,7 @@ npm
 npm-proxy
 npm-upgrade
 nprinting
+nprintingapi
 nps
 npslog
 npslogfile
@@ -4736,7 +4750,6 @@ pipelines
 pipenv
 pipescript
 piraeus
-pivot
 pivotal
 pivottable
 pixoo
@@ -5095,7 +5108,6 @@ prtg_network_monitor
 prtgnetworkmonitor
 ps
 ps-ncentral
-ps.credentialmanager
 ps1
 ps1xml
 ps1xmlgen
@@ -8164,6 +8176,7 @@ qq
 qr
 qrcode
 qrcodes
+qrp
 qrs
 quality
 qualys
@@ -8363,7 +8376,6 @@ remove-itemproperty
 remove-pass
 remove-path
 remove-pinneditem
-remove-tempfiles
 removetypeaccelerators
 remux
 ren-isac
@@ -8392,6 +8404,7 @@ requiredmodules
 requirements
 res
 rescan
+rescuetime
 reservation
 reservations
 reset
@@ -8417,6 +8430,7 @@ resources
 resourcesearch
 response
 rest
+rest_cherrypy
 rest-api
 restapi
 restart
@@ -8552,10 +8566,12 @@ safe
 safeguard
 sage
 saggiehaim
+sailpoint
 sale
 sales
 salesforce
-salesloft
+salt
+salt-api
 saltstack
 saltstackconfig
 saltstackenterprise
@@ -8704,7 +8720,6 @@ securegopher+
 securemfa
 securerdp
 securescore
-securesphere
 securestring
 security
 security-awareness-training
@@ -9051,6 +9066,7 @@ sourcecontrol
 sourceforge
 sourcegraph
 sourcemod
+sourceone
 sourcepawn
 sourcequery
 sovcloud
@@ -9193,6 +9209,7 @@ start
 start-job
 start-jobthread
 start-threadjob
+startkey
 startmen
 startmenu
 starwars
@@ -9643,6 +9660,7 @@ translit
 transliteration
 transmission
 transparency
+transpilation
 trap
 travel
 trec
@@ -9708,6 +9726,7 @@ twitter-hashtag
 twitter-mention
 twitter-share
 twitter-timeline
+twitter-tweet
 txt
 type
 typeaccelerators
@@ -9743,6 +9762,7 @@ ud-datepicker
 ud-field
 ud-flexytable
 ud-funnel
+ud-hero
 ud-illustration
 ud-input
 ud-licensed
@@ -9860,7 +9880,6 @@ uqword
 uri
 uri-scheme
 url
-url-encode
 url-shortener
 urldecode
 urlencode
@@ -10146,7 +10165,6 @@ wbem
 wcf
 wcry
 wdac
-wdapi
 wds
 weather
 weaviate
@@ -10266,7 +10284,6 @@ windowscredential
 windowscredentialmanager
 windowscredentials
 windowscredentialsmanager
-windowsdataprotectionapi
 windowsdefender
 windowsdesktopsearch
 windowsevent
@@ -10430,6 +10447,7 @@ x64
 x86
 xa
 xaf
+xbase
 xbox
 xclarity
 xdr

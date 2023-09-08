@@ -3,6 +3,86 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [Utilities](https://www.powershellgallery.com/Packages/Utilities/0.0.18) | 0.0.18
+
+### Published: 09/08/2023 17:44:27 by Marius Storhaug
+
+PowerShell Module of Utilities
+
+__Downloads__: 523 | __Repository__: https://github.com/MariusStorhaug/Utilities
+
+## [Generate-DockerImageVariantsHelpers](https://www.powershellgallery.com/Packages/Generate-DockerImageVariantsHelpers/0.4.0) | 0.4.0
+
+### Published: 09/08/2023 17:43:19 by The Oh Brothers
+
+Helpers to use with Generate-DockerImageVariants.
+
+__Downloads__: 0 | __Repository__: https://github.com/theohbrothers/Generate-DockerImageVariantsHelpers
+
+## [tiPS](https://www.powershellgallery.com/Packages/tiPS/0.0.45) | 0.0.45
+
+### Published: 09/08/2023 17:06:29 by Daniel Schroeder
+
+PowerShell tips delivered straight to your terminal.
+
+__Downloads__: 90 | __Repository__: https://github.com/deadlydog/PowerShell.tiPS
+
+## [Corsinvest.ProxmoxVE.Api](https://www.powershellgallery.com/Packages/Corsinvest.ProxmoxVE.Api/8.0.2) | 8.0.2
+
+### Published: 09/08/2023 16:32:41 by Daniele Corsini
+
+PowerShell for Proxmox VE
+
+__Downloads__: 1,510 | __Repository__: https://github.com/Corsinvest/cv4pve-api-powershell
+
+## [ConventionalVersioning](https://www.powershellgallery.com/Packages/ConventionalVersioning/0.1.3) | 0.1.3
+
+### Published: 09/08/2023 16:06:49 by Arwyn
+
+A powerhsell module dedicated to publishing GitHub releases based on conventional commits
+
+__Downloads__: 0 | __Repository__: https://github.com/ArwynFr/pwsh-ConventionalVersioning
+
+## [DellOpenManage](https://www.powershellgallery.com/Packages/DellOpenManage/3.6.2) | 3.6.2
+
+### Published: 09/08/2023 15:51:14 by Trevor Squillario <Trevor.Squillario@Dell.com>
+
+Dell OpenManage Enterprise PowerShell Module
+
+__Downloads__: 5,398 | __Repository__: https://github.com/dell/OpenManage-PowerShell-Modules
+
+## [Nectar10](https://www.powershellgallery.com/Packages/Nectar10/3.67) | 3.67
+
+### Published: 09/08/2023 15:23:41 by Ken Lasko
+
+PowerShell module for Nectar DXP
+
+__Downloads__: 1,027 | __Repository__: 
+
+## [UniversalDashboard.UDQueryBuilder](https://www.powershellgallery.com/Packages/UniversalDashboard.UDQueryBuilder/0.0.1) | 0.0.1
+
+### Published: 09/08/2023 13:53:50 by Adam Bacon
+
+Dynamic SQL Query Builder
+
+__Downloads__: 0 | __Repository__: https://adam-bacon.netlify.app/
+
+## [SpecCreateModule](https://www.powershellgallery.com/Packages/SpecCreateModule/1.0.7) | 1.0.7
+
+### Published: 09/08/2023 13:17:23 by owen.heaume
+
+A module to create the base module structure.
+
+__Downloads__: 11 | __Repository__: 
+
+## [HomeBasedDDLSClassTools](https://www.powershellgallery.com/Packages/HomeBasedDDLSClassTools/2.0.4) | 2.0.4
+
+### Published: 09/08/2023 10:18:17 by Brent Denny
+
+This is a set of tools to help Lumify trainers with home based classrooms
+
+__Downloads__: 940 | __Repository__: 
+
 ## [PSFramework](https://www.powershellgallery.com/Packages/PSFramework/1.9.308) | 1.9.308
 
 ### Published: 09/08/2023 09:08:33 by Friedrich Weinmann
@@ -19,14 +99,6 @@ A completion manager for better and simpler use and Manage completions. For more
 
 __Downloads__: 48 | __Repository__: https://github.com/abgox/PSCompletions
 
-## [SpecCreateModule](https://www.powershellgallery.com/Packages/SpecCreateModule/1.0.4) | 1.0.4
-
-### Published: 09/08/2023 08:53:09 by owen.heaume
-
-A module to create the base module structure.
-
-__Downloads__: 11 | __Repository__: 
-
 ## [NTware.Ufo.PowerShell.ObjectManagement](https://www.powershellgallery.com/Packages/NTware.Ufo.PowerShell.ObjectManagement/2023.3.0.0) | 2023.3.0.0
 
 ### Published: 09/08/2023 08:25:56 by NT-ware Systemprogrammierungs-GmbH
@@ -42,14 +114,6 @@ __Downloads__: 2,580 | __Repository__:
 Tools for implementing a regular component-based RBAC structure in Active Directory
 
 __Downloads__: 0 | __Repository__: https://gitlab.com/breakwaterlabs/ad-rbac
-
-## [Generate-DockerImageVariantsHelpers](https://www.powershellgallery.com/Packages/Generate-DockerImageVariantsHelpers/0.2.2) | 0.2.2
-
-### Published: 09/08/2023 07:45:17 by The Oh Brothers
-
-Helpers to use with Generate-DockerImageVariants.
-
-__Downloads__: 0 | __Repository__: https://github.com/theohbrothers/Generate-DockerImageVariantsHelpers
 
 ## [HighWinds](https://www.powershellgallery.com/Packages/HighWinds/0.0.1) | 0.0.1
 
@@ -112,14 +176,6 @@ The module includes three functions:
 - Disable-Ics
 
 __Downloads__: 1,239,013 | __Repository__: https://github.com/loxia01/PSInternetConnectionSharing
-
-## [tiPS](https://www.powershellgallery.com/Packages/tiPS/0.0.43) | 0.0.43
-
-### Published: 09/07/2023 23:41:19 by Daniel Schroeder
-
-PowerShell tips delivered straight to your terminal.
-
-__Downloads__: 90 | __Repository__: https://github.com/deadlydog/PowerShell.tiPS
 
 ## [AnyChain](https://www.powershellgallery.com/Packages/AnyChain/2.5.7.2) | 2.5.7.2
 
@@ -417,14 +473,6 @@ Admins Little Helper - a collection of helpful PowerShell scripts.
 
 __Downloads__: 175 | __Repository__: https://github.com/admins-little-helper/ALH
 
-## [Nectar10](https://www.powershellgallery.com/Packages/Nectar10/3.66) | 3.66
-
-### Published: 09/06/2023 18:36:19 by Ken Lasko
-
-PowerShell module for Nectar DXP
-
-__Downloads__: 1,027 | __Repository__: 
-
 ## [SqlChangeAutomation](https://www.powershellgallery.com/Packages/SqlChangeAutomation/4.6.23249.2128) | 4.6.23249.2128
 
 ### Published: 09/06/2023 16:53:40 by Red Gate Software Ltd.
@@ -493,6 +541,14 @@ Module to be used with Easit GO WebAPI
 
 __Downloads__: 4 | __Repository__: https://github.com/easitab/Easit.GO.Webservice
 
+## [PSSymantecCloud](https://www.powershellgallery.com/Packages/PSSymantecCloud/0.75.3) | 0.75.3
+
+### Published: 09/06/2023 08:42:55 by Aurélien BOUMANNE
+
+Common set of tools to interact with Symantec/Broadcom API for SEP Cloud
+
+__Downloads__: 51 | __Repository__: https://github.com/Douda/PSSymantecCloud
+
 ## [PowerJamf](https://www.powershellgallery.com/Packages/PowerJamf/0.3.0) | 0.3.0
 
 ### Published: 09/06/2023 06:37:49 by Przemyslaw Klys
@@ -500,14 +556,6 @@ __Downloads__: 4 | __Repository__: https://github.com/easitab/Easit.GO.Webservic
 PowerJamf is an unofficial PowerShell module for Jamf Pro.
 
 __Downloads__: 16 | __Repository__: https://github.com/EvotecIT/PowerJamf
-
-## [HomeBasedDDLSClassTools](https://www.powershellgallery.com/Packages/HomeBasedDDLSClassTools/2.0.3) | 2.0.3
-
-### Published: 09/06/2023 05:26:20 by Brent Denny
-
-This is a set of tools to help Lumify trainers with home based classrooms
-
-__Downloads__: 940 | __Repository__: 
 
 ## [AzureBasicLoadBalancerUpgrade](https://www.powershellgallery.com/Packages/AzureBasicLoadBalancerUpgrade/2.0.22) | 2.0.22
 
@@ -2076,55 +2124,4 @@ Provides cmdlets for starting migration of applications to supported clouds usin
 
 __Downloads__: 142 | __Repository__: https://migrate.rivermeadow.com/
 
-## [RiverMeadow.Development.Migrate](https://www.powershellgallery.com/Packages/RiverMeadow.Development.Migrate/1.0.117.340) | 1.0.117.340
-
-### Published: 09/04/2023 07:35:42 by RiverMeadow Engineering Team
-
-Provides cmdlets for starting migration of applications to supported clouds using the RiverMeadow platform.
-
-__Downloads__: 407 | __Repository__: https://migrate.rivermeadow.com/
-
-## [PwshAzContainerApp](https://www.powershellgallery.com/Packages/PwshAzContainerApp/1.0.4) | 1.0.4
-
-### Published: 09/04/2023 03:30:29 by Roberto Rodriguez @Cyb3rWard0g
-
-PowerShell module for Azure Container Apps
-
-__Downloads__: 0 | __Repository__: https://github.com/Cyb3rWard0g/PwshAzContainerApp
-
-## [Log4NetParse](https://www.powershellgallery.com/Packages/Log4NetParse/0.3.0) | 0.3.0
-
-### Published: 09/04/2023 01:29:34 by Gilbert Sanchez
-
-A module to parse log4net logs.
-
-__Downloads__: 0 | __Repository__: https://github.com/HeyItsGilbert/Log4NetParse/
-
-## [PSLocationTrigger](https://www.powershellgallery.com/Packages/PSLocationTrigger/1.0.1) | 1.0.1
-
-### Published: 09/03/2023 23:51:06 by Rojas Roberto
-
-This module helps you run a script when you enter or exit a folder
-
-__Downloads__: 11 | __Repository__: https://github.com/RobertoRojas/PSLocationTrigger
-
-## [PSDllCompiler](https://www.powershellgallery.com/Packages/PSDllCompiler/1.0.1.1) | 1.0.1.1
-
-### Published: 09/03/2023 17:40:50 by UltraAlex0
-
-Translates a Powershell Class into a C# Class and then compiles it. The class can be referenced across all .NET Languages.
-Additionally all Installed-Modules can be referenced and used!
-
-Discord: ultraalex0
-
-__Downloads__: 5 | __Repository__: https://github.com/UltraAlex00/Powershell-Dll-Compiler
-
-## [PSJobLogger](https://www.powershellgallery.com/Packages/PSJobLogger/0.4.0) | 0.4.0
-
-### Published: 09/03/2023 15:26:16 by Alan Lew
-
-A logging class suitable for use with ForEach-Object -Parallel -AsJob
-
-__Downloads__: 17 | __Repository__: https://github.com/neflyte/PSJobLogger
-
-*Updated: Friday, 08 September 2023 09:52:44 UTC*
+*Updated: Friday, 08 September 2023 17:53:43 UTC*
