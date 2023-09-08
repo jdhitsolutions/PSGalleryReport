@@ -3,6 +3,86 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [PSFramework](https://www.powershellgallery.com/Packages/PSFramework/1.9.308) | 1.9.308
+
+### Published: 09/08/2023 09:08:33 by Friedrich Weinmann
+
+General Scripting Framework, providing PowerShell-specific infrastructure for other modules.
+
+__Downloads__: 3,840,955 | __Repository__: http://psframework.org/
+
+## [PSCompletions](https://www.powershellgallery.com/Packages/PSCompletions/2.0.8) | 2.0.8
+
+### Published: 09/08/2023 08:59:13 by abgox
+
+A completion manager for better and simpler use and Manage completions. For more information, please visit the project: https://github.com/abgox/PSCompletions
+
+__Downloads__: 48 | __Repository__: https://github.com/abgox/PSCompletions
+
+## [SpecCreateModule](https://www.powershellgallery.com/Packages/SpecCreateModule/1.0.4) | 1.0.4
+
+### Published: 09/08/2023 08:53:09 by owen.heaume
+
+A module to create the base module structure.
+
+__Downloads__: 11 | __Repository__: 
+
+## [NTware.Ufo.PowerShell.ObjectManagement](https://www.powershellgallery.com/Packages/NTware.Ufo.PowerShell.ObjectManagement/2023.3.0.0) | 2023.3.0.0
+
+### Published: 09/08/2023 08:25:56 by NT-ware Systemprogrammierungs-GmbH
+
+PowerShell cmdlets which allow to manage uniFLOW Online
+
+__Downloads__: 2,580 | __Repository__: 
+
+## [ad-rbac](https://www.powershellgallery.com/Packages/ad-rbac/1.0.5) | 1.0.5
+
+### Published: 09/08/2023 07:57:57 by John@breakwaterlabs.net
+
+Tools for implementing a regular component-based RBAC structure in Active Directory
+
+__Downloads__: 0 | __Repository__: https://gitlab.com/breakwaterlabs/ad-rbac
+
+## [Generate-DockerImageVariantsHelpers](https://www.powershellgallery.com/Packages/Generate-DockerImageVariantsHelpers/0.2.2) | 0.2.2
+
+### Published: 09/08/2023 07:45:17 by The Oh Brothers
+
+Helpers to use with Generate-DockerImageVariants.
+
+__Downloads__: 0 | __Repository__: https://github.com/theohbrothers/Generate-DockerImageVariantsHelpers
+
+## [HighWinds](https://www.powershellgallery.com/Packages/HighWinds/0.0.1) | 0.0.1
+
+### Published: 09/08/2023 04:38:54 by Akamai Technologies Ltd.
+
+Basic functions to interact with the HighWinds API
+
+__Downloads__: 0 | __Repository__: 
+
+## [celin.ais.pwsh](https://www.powershellgallery.com/Packages/celin.ais.pwsh/2.0.0) | 2.0.0
+
+### Published: 09/08/2023 04:33:25 by Finnur Bragason
+
+Query and Script Module for Oracle E1/JDE AIS.
+
+__Downloads__: 661 | __Repository__: https://celin.io/ais.pwsh/
+
+## [BruhArmy](https://www.powershellgallery.com/Packages/BruhArmy/1.3.2) | 1.3.2
+
+### Published: 09/08/2023 03:43:25 by Evan Deters
+
+This module includes several commands that help with the deployment of virtual environments on vSphere.
+
+__Downloads__: 109 | __Repository__: https://github.com/evanjd711/bruharmy
+
+## [Logic.Monitor](https://www.powershellgallery.com/Packages/Logic.Monitor/4.5) | 4.5
+
+### Published: 09/08/2023 02:49:17 by Steven Villardi
+
+PowerShell module to query the Logic Monitor API. This is a personal project and is not an offically supported LogicMonitor integration.
+
+__Downloads__: 2,200 | __Repository__: https://github.com/stevevillardi/Logic.Monitor
+
 ## [JamfPSPro](https://www.powershellgallery.com/Packages/JamfPSPro/0.0.6) | 0.0.6
 
 ### Published: 09/08/2023 01:51:27 by Tristan Brazier
@@ -48,14 +128,6 @@ __Downloads__: 90 | __Repository__: https://github.com/deadlydog/PowerShell.tiPS
 Provides access to the Forte AnyChain API service.
 
 __Downloads__: 33 | __Repository__: https://github.com/fortelabsinc/AnyChainPSModule
-
-## [ad-rbac](https://www.powershellgallery.com/Packages/ad-rbac/1.0.3) | 1.0.3
-
-### Published: 09/07/2023 22:12:53 by John@breakwaterlabs.net
-
-Tools for implementing a regular component-based RBAC structure in Active Directory
-
-__Downloads__: 0 | __Repository__: https://gitlab.com/breakwaterlabs/ad-rbac
 
 ## [Harden-Windows-Security-Module](https://www.powershellgallery.com/Packages/Harden-Windows-Security-Module/0.1.3) | 0.1.3
 
@@ -172,14 +244,6 @@ __Downloads__: 288 | __Repository__: https://github.com/FranciscoNabas/WindowsUt
 Update all HP device drivers with a single command.
 
 __Downloads__: 12,517 | __Repository__: https://github.com/UsefulScripts01/HPDrivers
-
-## [SpecCreateModule](https://www.powershellgallery.com/Packages/SpecCreateModule/1.0.2) | 1.0.2
-
-### Published: 09/07/2023 18:01:28 by owen.heaume
-
-A module to create the base module structure.
-
-__Downloads__: 11 | __Repository__: 
 
 ## [SysAdmin-Extras](https://www.powershellgallery.com/Packages/SysAdmin-Extras/1.0.3) | 1.0.3
 
@@ -405,14 +469,6 @@ The non-official OpenAI PowerShell module. This module is used to interact with 
 
 __Downloads__: 54,424 | __Repository__: https://github.com/chenxizhang/openai-powershell/
 
-## [Logic.Monitor](https://www.powershellgallery.com/Packages/Logic.Monitor/4.4.1) | 4.4.1
-
-### Published: 09/06/2023 13:42:56 by Steven Villardi
-
-PowerShell module to query the Logic Monitor API. This is a personal project and is not an offically supported LogicMonitor integration.
-
-__Downloads__: 2,200 | __Repository__: https://github.com/stevevillardi/Logic.Monitor
-
 ## [Liquit.Server.PowerShell](https://www.powershellgallery.com/Packages/Liquit.Server.PowerShell/4.0.3264.5264) | 4.0.3264.5264
 
 ### Published: 09/06/2023 13:01:35 by Liquit Software B.V.
@@ -436,14 +492,6 @@ __Downloads__: 138 | __Repository__: https://github.com/EvotecIT/CleanupMonster
 Module to be used with Easit GO WebAPI
 
 __Downloads__: 4 | __Repository__: https://github.com/easitab/Easit.GO.Webservice
-
-## [PSSymantecCloud](https://www.powershellgallery.com/Packages/PSSymantecCloud/0.75.3) | 0.75.3
-
-### Published: 09/06/2023 08:42:55 by Aurélien BOUMANNE
-
-Common set of tools to interact with Symantec/Broadcom API for SEP Cloud
-
-__Downloads__: 51 | __Repository__: https://github.com/Douda/PSSymantecCloud
 
 ## [PowerJamf](https://www.powershellgallery.com/Packages/PowerJamf/0.3.0) | 0.3.0
 
@@ -2036,14 +2084,6 @@ Provides cmdlets for starting migration of applications to supported clouds usin
 
 __Downloads__: 407 | __Repository__: https://migrate.rivermeadow.com/
 
-## [Generate-DockerImageVariantsHelpers](https://www.powershellgallery.com/Packages/Generate-DockerImageVariantsHelpers/0.2.1) | 0.2.1
-
-### Published: 09/04/2023 04:29:37 by The Oh Brothers
-
-Helpers to use with Generate-DockerImageVariants.
-
-__Downloads__: 0 | __Repository__: https://github.com/theohbrothers/Generate-DockerImageVariantsHelpers
-
 ## [PwshAzContainerApp](https://www.powershellgallery.com/Packages/PwshAzContainerApp/1.0.4) | 1.0.4
 
 ### Published: 09/04/2023 03:30:29 by Roberto Rodriguez @Cyb3rWard0g
@@ -2079,14 +2119,6 @@ Discord: ultraalex0
 
 __Downloads__: 5 | __Repository__: https://github.com/UltraAlex00/Powershell-Dll-Compiler
 
-## [PSCompletions](https://www.powershellgallery.com/Packages/PSCompletions/2.0.7) | 2.0.7
-
-### Published: 09/03/2023 16:49:26 by abgox
-
-A completion manager for better and simpler use and Manage completions. For more information, please visit the project: https://github.com/abgox/PSCompletions
-
-__Downloads__: 48 | __Repository__: https://github.com/abgox/PSCompletions
-
 ## [PSJobLogger](https://www.powershellgallery.com/Packages/PSJobLogger/0.4.0) | 0.4.0
 
 ### Published: 09/03/2023 15:26:16 by Alan Lew
@@ -2095,37 +2127,4 @@ A logging class suitable for use with ForEach-Object -Parallel -AsJob
 
 __Downloads__: 17 | __Repository__: https://github.com/neflyte/PSJobLogger
 
-## [ThirdPartyLibraries](https://www.powershellgallery.com/Packages/ThirdPartyLibraries/3.4.0) | 3.4.0
-
-### Published: 09/03/2023 12:41:10 by Max Ieremenko
-
-This module helps to manage third party libraries and their licenses in .net applications.
-PowerShell versions: core 7.0+.
-
-__Downloads__: 656 | __Repository__: https://github.com/max-ieremenko/ThirdPartyLibraries
-
-## [Evergreen](https://www.powershellgallery.com/Packages/Evergreen/2309.840) | 2309.840
-
-### Published: 09/03/2023 11:45:31 by Aaron Parker
-
-Create evergreen Windows image builds with the latest versions of applications. Evergreen is a simple PowerShell module that retrieves the latest version numbers and download URLs for various software products directly from the vendor source.
-
-__Downloads__: 1,901,868 | __Repository__: https://stealthpuppy.com/evergreen/
-
-## [NerdFonts](https://www.powershellgallery.com/Packages/NerdFonts/0.0.9) | 0.0.9
-
-### Published: 09/03/2023 08:19:33 by Marius Storhaug
-
-A PowerShell module to manage NerdFonts
-
-__Downloads__: 49 | __Repository__: https://github.com/MariusStorhaug/NerdFonts
-
-## [Fonts](https://www.powershellgallery.com/Packages/Fonts/0.0.18) | 0.0.18
-
-### Published: 09/03/2023 08:17:38 by Marius Storhaug
-
-Manage fonts on a Windows system
-
-__Downloads__: 93 | __Repository__: https://github.com/MariusStorhaug/Fonts
-
-*Updated: Friday, 08 September 2023 02:02:24 UTC*
+*Updated: Friday, 08 September 2023 09:52:44 UTC*

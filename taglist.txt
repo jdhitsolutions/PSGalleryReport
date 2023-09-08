@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Friday, 08 September 2023 02:02:36 UTC
+Updated: Friday, 08 September 2023 09:52:57 UTC
 
 .bat
 .env
@@ -38,6 +38,7 @@ Updated: Friday, 08 September 2023 02:02:36 UTC
 2fa
 365
 36867
+3d
 3dprinting
 3par
 50
@@ -804,7 +805,6 @@ blaze
 blinking-text
 blob
 blobstorage
-block
 block-kit
 blockchain
 blocks
@@ -863,7 +863,6 @@ britannicaknowledgesystems
 british-gas
 brk4452
 broadcast
-broadcom
 broot
 brownserve-uk
 browser
@@ -1050,7 +1049,6 @@ chef-compliance
 chef-server
 chefconf2016
 chenxizhang
-cherrypy
 cherwell
 chfs
 chi
@@ -1447,7 +1445,6 @@ cover
 coverage
 coveralls
 coveralls.io
-covid
 covid-19
 cpm
 cppm
@@ -1550,6 +1547,11 @@ customdns
 customer
 customerengagement
 customers
+customeventchannel
+customeventlog
+customeventlogchannel
+customeventlogfile
+customeventlogfiles
 customevents
 custominformationservices
 customis
@@ -1831,8 +1833,6 @@ disable
 disable-internet
 disable-psremoting
 disablefilesyncngsc
-disablestartbutton
-disablestartkey
 disasm
 disasterrecovery
 disconnect
@@ -2114,7 +2114,6 @@ email
 email-address
 emailaddressupdate
 emailautomation
-emailmanagment
 emailnotification
 emailnotificationcomponent
 emailsecurity
@@ -2232,6 +2231,8 @@ event
 event_id
 event_list
 event-timeline
+eventchannel
+eventchannels
 eventcollector
 eventful
 eventgrid
@@ -2239,6 +2240,9 @@ eventhub
 eventing
 eventlist
 eventlog
+eventlogchannel
+eventlogchannels
+eventlogmanifest
 eventlogs
 eventmonitor
 eventmonitoring
@@ -2527,6 +2531,7 @@ formatformat-tableformat-listformat-wideformat-customformat-defaultout-defaultou
 formatting
 forms
 fortiauth
+forticlient
 fortify
 fortifyondemand
 fortigate
@@ -3084,7 +3089,6 @@ identity-management
 identitydataplane
 identitydirector
 identitydomains
-identitynow
 idf
 idm
 idna
@@ -3369,7 +3373,6 @@ job
 jobcan
 jobs
 jobscheduler
-johnshopkins
 join
 join-object
 jojoba
@@ -3411,8 +3414,6 @@ k8s
 k8sshell
 kafka
 kaminario
-karabiner
-karabiner-elements
 karma
 kaseya
 kaseyavsa
@@ -3436,14 +3437,10 @@ key
 key-vault
 key2wocas
 keybase
-keybinding
 keyboard
-keyboardstartkey
 keycipher
 keylight
 keymanagement
-keymap
-keymapping
 keypair
 keysms
 keyvault
@@ -4000,7 +3997,6 @@ model
 modify
 module
 module-maintenance
-modulebuild
 modulecreation
 modulemanagement
 modules
@@ -4305,7 +4301,6 @@ npm
 npm-proxy
 npm-upgrade
 nprinting
-nprintingapi
 nps
 npslog
 npslogfile
@@ -4355,6 +4350,7 @@ oauth
 oauth2
 oauth2.0
 oberstufe
+obj
 object
 objectid
 objectstorage
@@ -4770,6 +4766,7 @@ plot
 plugin
 plugins
 pluralsight
+ply
 pmp
 pncit
 pnp
@@ -4778,6 +4775,7 @@ pode
 poe
 poem
 poetry
+point
 point-to-site
 pointer
 pokeapi
@@ -8166,7 +8164,6 @@ qq
 qr
 qrcode
 qrcodes
-qrp
 qrs
 quality
 qualys
@@ -8395,7 +8392,6 @@ requiredmodules
 requirements
 res
 rescan
-rescuetime
 reservation
 reservations
 reset
@@ -8421,7 +8417,6 @@ resources
 resourcesearch
 response
 rest
-rest_cherrypy
 rest-api
 restapi
 restart
@@ -8557,13 +8552,10 @@ safe
 safeguard
 sage
 saggiehaim
-sailpoint
 sale
 sales
 salesforce
 salesloft
-salt
-salt-api
 saltstack
 saltstackconfig
 saltstackenterprise
@@ -8892,6 +8884,7 @@ shlink
 shodan
 shodanps
 shop
+shopify
 shortcut
 shortcuts
 shortpath
@@ -9058,7 +9051,6 @@ sourcecontrol
 sourceforge
 sourcegraph
 sourcemod
-sourceone
 sourcepawn
 sourcequery
 sovcloud
@@ -9201,7 +9193,6 @@ start
 start-job
 start-jobthread
 start-threadjob
-startkey
 startmen
 startmenu
 starwars
@@ -9652,7 +9643,6 @@ translit
 transliteration
 transmission
 transparency
-transpilation
 trap
 travel
 trec
@@ -9718,7 +9708,6 @@ twitter-hashtag
 twitter-mention
 twitter-share
 twitter-timeline
-twitter-tweet
 txt
 type
 typeaccelerators
@@ -9754,7 +9743,6 @@ ud-datepicker
 ud-field
 ud-flexytable
 ud-funnel
-ud-hero
 ud-illustration
 ud-input
 ud-licensed
@@ -9780,6 +9768,7 @@ ud-speechbubble
 ud-step
 ud-stepbar
 ud-stickynavbar
+ud-tagcloud
 ud-timeline
 ud-timeout
 ud-tool
@@ -9871,6 +9860,7 @@ uqword
 uri
 uri-scheme
 url
+url-encode
 url-shortener
 urldecode
 urlencode
@@ -10279,6 +10269,7 @@ windowscredentialsmanager
 windowsdataprotectionapi
 windowsdefender
 windowsdesktopsearch
+windowsevent
 windowseventlog
 windowsform
 windowsforms

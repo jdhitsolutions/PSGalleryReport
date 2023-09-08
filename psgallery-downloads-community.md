@@ -338,9 +338,9 @@ View the source @ https://github.com/PowerShellOrg/NuGet to raise issues or modi
 
 __Downloads__: 3,999,031 | __Repository__: https://github.com/PowerShellOrg/NuGet
 
-## [PSFramework](https://www.powershellgallery.com/Packages/PSFramework/1.8.291) | 1.8.291
+## [PSFramework](https://www.powershellgallery.com/Packages/PSFramework/1.9.308) | 1.9.308
 
-### Published: 07/11/2023 17:11:19 by Friedrich Weinmann
+### Published: 09/08/2023 09:08:33 by Friedrich Weinmann
 
 General Scripting Framework, providing PowerShell-specific infrastructure for other modules.
 
@@ -2138,4 +2138,4 @@ This module uses the REST API in the F5 LTM v11.6 and higher to query and manipu
 
 __Downloads__: 162,317 | __Repository__: https://github.com/joel74/POSH-LTM-Rest
 
-*Updated: Friday, 08 September 2023 02:02:32 UTC*
+*Updated: Friday, 08 September 2023 09:52:53 UTC*

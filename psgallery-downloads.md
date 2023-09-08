@@ -2076,9 +2076,9 @@ View the source @ https://github.com/PowerShellOrg/NuGet to raise issues or modi
 
 __Downloads__: 3,999,031 | __Repository__: https://github.com/PowerShellOrg/NuGet
 
-## [PSFramework](https://www.powershellgallery.com/Packages/PSFramework/1.8.291) | 1.8.291
+## [PSFramework](https://www.powershellgallery.com/Packages/PSFramework/1.9.308) | 1.9.308
 
-### Published: 07/11/2023 17:11:19 by Friedrich Weinmann
+### Published: 09/08/2023 09:08:33 by Friedrich Weinmann
 
 General Scripting Framework, providing PowerShell-specific infrastructure for other modules.
 
@@ -2195,9 +2195,9 @@ View and modify the Global Assembly Cache (GAC)
 
 __Downloads__: 3,404,107 | __Repository__: https://github.com/LTruijens/powershell-gac
 
-## [AWS.Tools.S3](https://www.powershellgallery.com/Packages/AWS.Tools.S3/4.1.409) | 4.1.409
+## [AWS.Tools.S3](https://www.powershellgallery.com/Packages/AWS.Tools.S3/4.1.410) | 4.1.410
 
-### Published: 09/06/2023 23:22:40 by Amazon.com Inc
+### Published: 09/08/2023 02:23:53 by Amazon.com Inc
 
 The S3 module of AWS Tools for PowerShell lets developers and administrators manage Amazon Simple Storage Service (S3) from the PowerShell scripting environment. In order to manage each AWS service, install the corresponding module (e.g. AWS.Tools.EC2, AWS.Tools.S3...).
 The module AWS.Tools.Installer (https://www.powershellgallery.com/packages/AWS.Tools.Installer/) makes it easier to install, update and uninstall the AWS.Tools modules.
@@ -2229,4 +2229,4 @@ This module contains DSC resources for the management and configuration of Windo
 
 __Downloads__: 3,324,302 | __Repository__: https://github.com/dsccommunity/xDnsServer
 
-*Updated: Friday, 08 September 2023 02:02:29 UTC*
+*Updated: Friday, 08 September 2023 09:52:50 UTC*
