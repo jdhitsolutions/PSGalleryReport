@@ -959,9 +959,9 @@ Microsoft Azure PowerShell - Api Management service cmdlets for Azure Resource M
 
 __Downloads__: 23,545,900 | __Repository__: https://github.com/Azure/azure-powershell
 
-## [AWSPowerShell](https://www.powershellgallery.com/Packages/AWSPowerShell/4.1.409) | 4.1.409
+## [AWSPowerShell](https://www.powershellgallery.com/Packages/AWSPowerShell/4.1.410) | 4.1.410
 
-### Published: 09/06/2023 22:47:04 by Amazon.com Inc
+### Published: 09/08/2023 01:47:22 by Amazon.com Inc
 
 The AWS Tools for Windows PowerShell lets developers and administrators manage their AWS services from the Windows PowerShell scripting environment.
 This version of AWS Tools for Windows PowerShell is compatible with Windows PowerShell 2-5.1. An alternative module, AWSPowerShell.NetCore, provides support for Windows PowerShell 3+ and PowerShell Core 6+ on Windows, Linux and macOS.
@@ -1388,9 +1388,9 @@ Microsoft Azure PowerShell: ManagedServiceIdentity cmdlets
 
 __Downloads__: 19,968,144 | __Repository__: https://github.com/Azure/azure-powershell
 
-## [AWS.Tools.Common](https://www.powershellgallery.com/Packages/AWS.Tools.Common/4.1.409) | 4.1.409
+## [AWS.Tools.Common](https://www.powershellgallery.com/Packages/AWS.Tools.Common/4.1.410) | 4.1.410
 
-### Published: 09/06/2023 22:48:05 by Amazon.com Inc
+### Published: 09/08/2023 01:49:09 by Amazon.com Inc
 
 The AWS Tools for PowerShell lets developers and administrators manage their AWS services from the PowerShell scripting environment. In order to manage each AWS service, install the corresponding module (e.g. AWS.Tools.EC2, AWS.Tools.S3...).
 The module AWS.Tools.Installer (https://www.powershellgallery.com/packages/AWS.Tools.Installer/) makes it easier to install, update and uninstall the AWS.Tools modules.
@@ -2000,9 +2000,9 @@ Microsoft Azure PowerShell: LoadTesting cmdlets
 
 __Downloads__: 4,946,369 | __Repository__: https://github.com/Azure/azure-powershell
 
-## [AWSPowerShell.NetCore](https://www.powershellgallery.com/Packages/AWSPowerShell.NetCore/4.1.409) | 4.1.409
+## [AWSPowerShell.NetCore](https://www.powershellgallery.com/Packages/AWSPowerShell.NetCore/4.1.410) | 4.1.410
 
-### Published: 09/06/2023 22:47:58 by Amazon.com Inc
+### Published: 09/08/2023 01:48:39 by Amazon.com Inc
 
 The AWS Tools for PowerShell lets developers and administrators manage their AWS services from the PowerShell scripting environment.
 This version of AWS Tools for PowerShell is compatible with Windows PowerShell 3+ and PowerShell Core 6+ on Windows, Linux and macOS. When running on Windows PowerShell, .NET Framework 4.7.2 or newer is required. An alternative module, AWSPowerShell, provides support for older versions of Windows PowerShell and .NET Framework.
@@ -2229,4 +2229,4 @@ This module contains DSC resources for the management and configuration of Windo
 
 __Downloads__: 3,324,302 | __Repository__: https://github.com/dsccommunity/xDnsServer
 
-*Updated: Thursday, 07 September 2023 17:53:38 UTC*
+*Updated: Friday, 08 September 2023 02:02:29 UTC*

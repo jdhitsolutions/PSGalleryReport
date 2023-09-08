@@ -843,9 +843,9 @@ PowerShell module, which makes it easier to work with Business Central Container
 
 __Downloads__: 1,315,070 | __Repository__: 
 
-## [PSInternetConnectionSharing](https://www.powershellgallery.com/Packages/PSInternetConnectionSharing/1.2.4) | 1.2.4
+## [PSInternetConnectionSharing](https://www.powershellgallery.com/Packages/PSInternetConnectionSharing/1.3) | 1.3
 
-### Published: 07/29/2023 19:01:41 by Per Allner
+### Published: 09/08/2023 01:03:42 by Per Allner
 
 PSInternetConnectionSharing is a PowerShell module that provides simple functions
 to control Windows Internet Connection Sharing (ICS) from command line.
@@ -2138,4 +2138,4 @@ This module uses the REST API in the F5 LTM v11.6 and higher to query and manipu
 
 __Downloads__: 162,317 | __Repository__: https://github.com/joel74/POSH-LTM-Rest
 
-*Updated: Thursday, 07 September 2023 17:53:42 UTC*
+*Updated: Friday, 08 September 2023 02:02:32 UTC*
