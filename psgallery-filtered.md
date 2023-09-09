@@ -3,6 +3,30 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [AppVeyorTestPsGallery](https://www.powershellgallery.com/Packages/AppVeyorTestPsGallery/1.0.512) | 1.0.512
+
+### Published: 09/09/2023 06:16:30 by Feodor Fitsner
+
+The test module to verify publishing to PSGallery from AppVeyor.
+
+__Downloads__: 40,033 | __Repository__: 
+
+## [celin.ais.pwsh](https://www.powershellgallery.com/Packages/celin.ais.pwsh/2.0.1) | 2.0.1
+
+### Published: 09/09/2023 04:42:50 by Finnur Bragason
+
+Query and Script Module for Oracle E1/JDE AIS.
+
+__Downloads__: 661 | __Repository__: https://celin.io/ais.pwsh/
+
+## [Generate-DockerImageVariantsHelpers](https://www.powershellgallery.com/Packages/Generate-DockerImageVariantsHelpers/0.6.0) | 0.6.0
+
+### Published: 09/09/2023 04:39:29 by The Oh Brothers
+
+Helpers to use with Generate-DockerImageVariants.
+
+__Downloads__: 0 | __Repository__: https://github.com/theohbrothers/Generate-DockerImageVariantsHelpers
+
 ## [nxtools](https://www.powershellgallery.com/Packages/nxtools/1.2.0) | 1.2.0
 
 ### Published: 09/08/2023 23:52:44 by Gael Colas
@@ -42,14 +66,6 @@ __Downloads__: 11 | __Repository__: https://github.com/ahuca/TcPrjMgmt/tree/main
 AzureTableStorageHelper: PowerShell module for simplifying interactions with Azure Table Storage, including data retrieval using Shared Access Signatures (SAS).
 
 __Downloads__: 0 | __Repository__: 
-
-## [Generate-DockerImageVariantsHelpers](https://www.powershellgallery.com/Packages/Generate-DockerImageVariantsHelpers/0.5.0) | 0.5.0
-
-### Published: 09/08/2023 19:55:07 by The Oh Brothers
-
-Helpers to use with Generate-DockerImageVariants.
-
-__Downloads__: 0 | __Repository__: https://github.com/theohbrothers/Generate-DockerImageVariantsHelpers
 
 ## [PublicIP](https://www.powershellgallery.com/Packages/PublicIP/0.0.6) | 0.0.6
 
@@ -170,14 +186,6 @@ __Downloads__: 0 | __Repository__: https://gitlab.com/breakwaterlabs/ad-rbac
 Basic functions to interact with the HighWinds API
 
 __Downloads__: 0 | __Repository__: 
-
-## [celin.ais.pwsh](https://www.powershellgallery.com/Packages/celin.ais.pwsh/2.0.0) | 2.0.0
-
-### Published: 09/08/2023 04:33:25 by Finnur Bragason
-
-Query and Script Module for Oracle E1/JDE AIS.
-
-__Downloads__: 661 | __Repository__: https://celin.io/ais.pwsh/
 
 ## [BruhArmy](https://www.powershellgallery.com/Packages/BruhArmy/1.3.2) | 1.3.2
 
@@ -300,14 +308,6 @@ __Downloads__: 448 | __Repository__: https://github.com/BaTarrY/FoxHelper
 Get the BitLocker recovery password from Active Directory.
 
 __Downloads__: 41 | __Repository__: 
-
-## [AppVeyorTestPsGallery](https://www.powershellgallery.com/Packages/AppVeyorTestPsGallery/1.0.510) | 1.0.510
-
-### Published: 09/07/2023 18:30:25 by Feodor Fitsner
-
-The test module to verify publishing to PSGallery from AppVeyor.
-
-__Downloads__: 40,033 | __Repository__: 
 
 ## [SmtpClientDiag](https://www.powershellgallery.com/Packages/SmtpClientDiag/1.2.0.3) | 1.2.0.3
 
@@ -2124,4 +2124,4 @@ NTS.Tools.General module contains functions that are used for general purpose
 
 __Downloads__: 1,517 | __Repository__: 
 
-*Updated: Saturday, 09 September 2023 02:00:31 UTC*
+*Updated: Saturday, 09 September 2023 09:52:37 UTC*
