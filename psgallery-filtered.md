@@ -3,6 +3,62 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [nxtools](https://www.powershellgallery.com/Packages/nxtools/1.2.0) | 1.2.0
+
+### Published: 09/08/2023 23:52:44 by Gael Colas
+
+Collection of Posix tools wrappers.
+
+__Downloads__: 1,435 | __Repository__: https://github.com/Azure/nxtools/
+
+## [Altazion.Shell](https://www.powershellgallery.com/Packages/Altazion.Shell/23.807.21) | 23.807.21
+
+### Published: 09/08/2023 21:13:19 by Altazion
+
+Module for local admininistration of an Altazion Device Shell
+
+__Downloads__: 8 | __Repository__: https://www.altazion.com/
+
+## [PSSymantecCloud](https://www.powershellgallery.com/Packages/PSSymantecCloud/0.76.0) | 0.76.0
+
+### Published: 09/08/2023 20:59:42 by Aurélien BOUMANNE
+
+Common set of tools to interact with Symantec/Broadcom API for SEP Cloud
+
+__Downloads__: 51 | __Repository__: https://github.com/Douda/PSSymantecCloud
+
+## [TcPrjMgmt](https://www.powershellgallery.com/Packages/TcPrjMgmt/0.2.0) | 0.2.0
+
+### Published: 09/08/2023 20:21:21 by Giang Nguyen
+
+Utilities for managing TwinCAT solutions and projects. Including PLC project exporting, and library installation and uninstallation. NOTE: This module requires >= TwinCAT 3.1.4024.10 (XAR Runtime or Full) (local installation)
+
+__Downloads__: 11 | __Repository__: https://github.com/ahuca/TcPrjMgmt/tree/main
+
+## [SpecAzTableStorageTools](https://www.powershellgallery.com/Packages/SpecAzTableStorageTools/1.0.0) | 1.0.0
+
+### Published: 09/08/2023 20:13:21 by owen.heaume
+
+AzureTableStorageHelper: PowerShell module for simplifying interactions with Azure Table Storage, including data retrieval using Shared Access Signatures (SAS).
+
+__Downloads__: 0 | __Repository__: 
+
+## [Generate-DockerImageVariantsHelpers](https://www.powershellgallery.com/Packages/Generate-DockerImageVariantsHelpers/0.5.0) | 0.5.0
+
+### Published: 09/08/2023 19:55:07 by The Oh Brothers
+
+Helpers to use with Generate-DockerImageVariants.
+
+__Downloads__: 0 | __Repository__: https://github.com/theohbrothers/Generate-DockerImageVariantsHelpers
+
+## [PublicIP](https://www.powershellgallery.com/Packages/PublicIP/0.0.6) | 0.0.6
+
+### Published: 09/08/2023 18:47:11 by Marius Storhaug
+
+PowerShell Module for Public IP
+
+__Downloads__: 73 | __Repository__: https://github.com/MariusStorhaug/PublicIP
+
 ## [Utilities](https://www.powershellgallery.com/Packages/Utilities/0.0.18) | 0.0.18
 
 ### Published: 09/08/2023 17:44:27 by Marius Storhaug
@@ -10,14 +66,6 @@ These are the latest 250 modules published to the [PowerShell Gallery](https://p
 PowerShell Module of Utilities
 
 __Downloads__: 523 | __Repository__: https://github.com/MariusStorhaug/Utilities
-
-## [Generate-DockerImageVariantsHelpers](https://www.powershellgallery.com/Packages/Generate-DockerImageVariantsHelpers/0.4.0) | 0.4.0
-
-### Published: 09/08/2023 17:43:19 by The Oh Brothers
-
-Helpers to use with Generate-DockerImageVariants.
-
-__Downloads__: 0 | __Repository__: https://github.com/theohbrothers/Generate-DockerImageVariantsHelpers
 
 ## [tiPS](https://www.powershellgallery.com/Packages/tiPS/0.0.45) | 0.0.45
 
@@ -176,14 +224,6 @@ The module includes three functions:
 - Disable-Ics
 
 __Downloads__: 1,239,013 | __Repository__: https://github.com/loxia01/PSInternetConnectionSharing
-
-## [AnyChain](https://www.powershellgallery.com/Packages/AnyChain/2.5.7.2) | 2.5.7.2
-
-### Published: 09/07/2023 23:06:19 by Richard Andersen
-
-Provides access to the Forte AnyChain API service.
-
-__Downloads__: 33 | __Repository__: https://github.com/fortelabsinc/AnyChainPSModule
 
 ## [Harden-Windows-Security-Module](https://www.powershellgallery.com/Packages/Harden-Windows-Security-Module/0.1.3) | 0.1.3
 
@@ -540,14 +580,6 @@ __Downloads__: 138 | __Repository__: https://github.com/EvotecIT/CleanupMonster
 Module to be used with Easit GO WebAPI
 
 __Downloads__: 4 | __Repository__: https://github.com/easitab/Easit.GO.Webservice
-
-## [PSSymantecCloud](https://www.powershellgallery.com/Packages/PSSymantecCloud/0.75.3) | 0.75.3
-
-### Published: 09/06/2023 08:42:55 by Aurélien BOUMANNE
-
-Common set of tools to interact with Symantec/Broadcom API for SEP Cloud
-
-__Downloads__: 51 | __Repository__: https://github.com/Douda/PSSymantecCloud
 
 ## [PowerJamf](https://www.powershellgallery.com/Packages/PowerJamf/0.3.0) | 0.3.0
 
@@ -2092,36 +2124,4 @@ NTS.Tools.General module contains functions that are used for general purpose
 
 __Downloads__: 1,517 | __Repository__: 
 
-## [PoshDotnetDumpAnalyzeViewerModule](https://www.powershellgallery.com/Packages/PoshDotnetDumpAnalyzeViewerModule/0.0.7) | 0.0.7
-
-### Published: 09/04/2023 09:09:41 by Igor Bagdamyan
-
-Micro UI for dotnet dump analyze command
-
-__Downloads__: 76 | __Repository__: https://github.com/En3Tho/PoshDotnetDumpAnalyzeViewer
-
-## [PSWriteHTML](https://www.powershellgallery.com/Packages/PSWriteHTML/1.8.0) | 1.8.0
-
-### Published: 09/04/2023 09:00:39 by Przemyslaw Klys
-
-PSWriteHTML is PowerShell Module to generate beautiful HTML reports, pages, emails without any knowledge of HTML, CSS or JavaScript. To get started basics PowerShell knowledge is required.
-
-__Downloads__: 1,995,746 | __Repository__: https://github.com/EvotecIT/PSWriteHTML
-
-## [JaapsTools](https://www.powershellgallery.com/Packages/JaapsTools/18.6.7) | 18.6.7
-
-### Published: 09/04/2023 07:44:53 by JT
-
-JaapsTools
-
-__Downloads__: 518 | __Repository__: 
-
-## [RiverMeadow.Release.Migrate](https://www.powershellgallery.com/Packages/RiverMeadow.Release.Migrate/1.0.116.342) | 1.0.116.342
-
-### Published: 09/04/2023 07:36:36 by RiverMeadow Engineering Team
-
-Provides cmdlets for starting migration of applications to supported clouds using the RiverMeadow platform.
-
-__Downloads__: 142 | __Repository__: https://migrate.rivermeadow.com/
-
-*Updated: Friday, 08 September 2023 17:53:43 UTC*
+*Updated: Saturday, 09 September 2023 02:00:31 UTC*
