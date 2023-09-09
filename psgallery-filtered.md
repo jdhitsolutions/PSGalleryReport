@@ -3,13 +3,29 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
-## [AppVeyorTestPsGallery](https://www.powershellgallery.com/Packages/AppVeyorTestPsGallery/1.0.512) | 1.0.512
+## [AppVeyorTestPsGallery](https://www.powershellgallery.com/Packages/AppVeyorTestPsGallery/1.0.513) | 1.0.513
 
-### Published: 09/09/2023 06:16:30 by Feodor Fitsner
+### Published: 09/09/2023 16:03:00 by Feodor Fitsner
 
 The test module to verify publishing to PSGallery from AppVeyor.
 
 __Downloads__: 40,033 | __Repository__: 
+
+## [CoreePower.Net](https://www.powershellgallery.com/Packages/CoreePower.Net/0.0.1) | 0.0.1
+
+### Published: 09/09/2023 10:05:22 by Carsten Riedel
+
+Powershell module CoreePower.Net. This module is under construction and just uploaded for testing purposes.
+
+__Downloads__: 0 | __Repository__: https://www.powershellgallery.com/packages/CoreePower.Net
+
+## [Brownserve.PSTools](https://www.powershellgallery.com/Packages/Brownserve.PSTools/0.16.0) | 0.16.0
+
+### Published: 09/09/2023 09:44:10 by Brownserve UK
+
+A collection of common tools for use in Brownserve projects
+
+__Downloads__: 306 | __Repository__: https://github.com/Brownserve-UK/Brownserve.PSTools
 
 ## [celin.ais.pwsh](https://www.powershellgallery.com/Packages/celin.ais.pwsh/2.0.1) | 2.0.1
 
@@ -2108,20 +2124,4 @@ NTS.Tools.MSADCS module contains functions that are mainly related to Microsoft 
 
 __Downloads__: 1,358 | __Repository__: 
 
-## [NTS.Tools.Application](https://www.powershellgallery.com/Packages/NTS.Tools.Application/1.1.0.7) | 1.1.0.7
-
-### Published: 09/04/2023 09:57:37 by Moritz Wiedmann
-
-NTS.Tools.Application module contains functions to install applications
-
-__Downloads__: 372 | __Repository__: 
-
-## [NTS.Tools.General](https://www.powershellgallery.com/Packages/NTS.Tools.General/1.1.0.7) | 1.1.0.7
-
-### Published: 09/04/2023 09:57:25 by Moritz Wiedmann
-
-NTS.Tools.General module contains functions that are used for general purpose
-
-__Downloads__: 1,517 | __Repository__: 
-
-*Updated: Saturday, 09 September 2023 09:52:37 UTC*
+*Updated: Saturday, 09 September 2023 17:53:52 UTC*
