@@ -3,6 +3,46 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [PSADTree](https://www.powershellgallery.com/Packages/PSADTree/1.1.2) | 1.1.2
+
+### Published: 09/09/2023 22:52:06 by Santiago Squarzon
+
+tree commands for Active Directory
+
+__Downloads__: 0 | __Repository__: https://github.com/santisq/PSADTree
+
+## [WindowsUtils](https://www.powershellgallery.com/Packages/WindowsUtils/1.8.7) | 1.8.7
+
+### Published: 09/09/2023 22:17:39 by Francisco Nabas
+
+This module contain tools to facilitate the administration of Windows computers.
+
+__Downloads__: 288 | __Repository__: https://github.com/FranciscoNabas/WindowsUtils
+
+## [PwshAzContainer](https://www.powershellgallery.com/Packages/PwshAzContainer/1.0.5) | 1.0.5
+
+### Published: 09/09/2023 19:14:25 by Roberto Rodriguez @Cyb3rWard0g
+
+PowerShell module for Azure Container services
+
+__Downloads__: 0 | __Repository__: https://github.com/Cyb3rWard0g/PwshAzContainer
+
+## [BruhArmy](https://www.powershellgallery.com/Packages/BruhArmy/1.3.3) | 1.3.3
+
+### Published: 09/09/2023 18:55:29 by Evan Deters
+
+This module includes several commands that help with the deployment of virtual environments on vSphere.
+
+__Downloads__: 109 | __Repository__: https://github.com/evanjd711/bruharmy
+
+## [tiPS](https://www.powershellgallery.com/Packages/tiPS/0.0.46) | 0.0.46
+
+### Published: 09/09/2023 17:45:33 by Daniel Schroeder
+
+PowerShell tips delivered straight to your terminal.
+
+__Downloads__: 90 | __Repository__: https://github.com/deadlydog/PowerShell.tiPS
+
 ## [AppVeyorTestPsGallery](https://www.powershellgallery.com/Packages/AppVeyorTestPsGallery/1.0.513) | 1.0.513
 
 ### Published: 09/09/2023 16:03:00 by Feodor Fitsner
@@ -99,14 +139,6 @@ PowerShell Module of Utilities
 
 __Downloads__: 523 | __Repository__: https://github.com/MariusStorhaug/Utilities
 
-## [tiPS](https://www.powershellgallery.com/Packages/tiPS/0.0.45) | 0.0.45
-
-### Published: 09/08/2023 17:06:29 by Daniel Schroeder
-
-PowerShell tips delivered straight to your terminal.
-
-__Downloads__: 90 | __Repository__: https://github.com/deadlydog/PowerShell.tiPS
-
 ## [Corsinvest.ProxmoxVE.Api](https://www.powershellgallery.com/Packages/Corsinvest.ProxmoxVE.Api/8.0.2) | 8.0.2
 
 ### Published: 09/08/2023 16:32:41 by Daniele Corsini
@@ -202,14 +234,6 @@ __Downloads__: 0 | __Repository__: https://gitlab.com/breakwaterlabs/ad-rbac
 Basic functions to interact with the HighWinds API
 
 __Downloads__: 0 | __Repository__: 
-
-## [BruhArmy](https://www.powershellgallery.com/Packages/BruhArmy/1.3.2) | 1.3.2
-
-### Published: 09/08/2023 03:43:25 by Evan Deters
-
-This module includes several commands that help with the deployment of virtual environments on vSphere.
-
-__Downloads__: 109 | __Repository__: https://github.com/evanjd711/bruharmy
 
 ## [Logic.Monitor](https://www.powershellgallery.com/Packages/Logic.Monitor/4.5) | 4.5
 
@@ -340,14 +364,6 @@ __Downloads__: 446 | __Repository__: https://github.com/richfaj/SmtpClientDiag
 DSC resources for configuring Distributed File System Replication and Namespaces.
 
 __Downloads__: 268,103 | __Repository__: https://github.com/dsccommunity/DFSDsc
-
-## [WindowsUtils](https://www.powershellgallery.com/Packages/WindowsUtils/1.8.6) | 1.8.6
-
-### Published: 09/07/2023 18:17:25 by Francisco Nabas
-
-This module contain tools to facilitate the administration of Windows computers.
-
-__Downloads__: 288 | __Repository__: https://github.com/FranciscoNabas/WindowsUtils
 
 ## [HPDrivers](https://www.powershellgallery.com/Packages/HPDrivers/1.2.0) | 1.2.0
 
@@ -2108,20 +2124,4 @@ NTS.Tools.MSConfigMgr module contains functions that are mainly related to Micro
 
 __Downloads__: 1,364 | __Repository__: 
 
-## [NTS.Tools.MSADDS](https://www.powershellgallery.com/Packages/NTS.Tools.MSADDS/1.1.0.7) | 1.1.0.7
-
-### Published: 09/04/2023 09:57:56 by Moritz Wiedmann
-
-NTS.Tools.MSADDS module contains functions that are mainly related to Microsoft Active Directory Domain Services
-
-__Downloads__: 1,342 | __Repository__: 
-
-## [NTS.Tools.MSADCS](https://www.powershellgallery.com/Packages/NTS.Tools.MSADCS/1.1.0.7) | 1.1.0.7
-
-### Published: 09/04/2023 09:57:47 by Moritz Wiedmann
-
-NTS.Tools.MSADCS module contains functions that are mainly related to Microsoft Active Directory Certification Services
-
-__Downloads__: 1,358 | __Repository__: 
-
-*Updated: Saturday, 09 September 2023 17:53:52 UTC*
+*Updated: Sunday, 10 September 2023 02:02:56 UTC*
