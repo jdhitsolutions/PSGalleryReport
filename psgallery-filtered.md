@@ -3,6 +3,30 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [SpecCreateModule](https://www.powershellgallery.com/Packages/SpecCreateModule/1.0.8) | 1.0.8
+
+### Published: 09/10/2023 09:24:40 by owen.heaume
+
+A module to create the base module structure.
+
+__Downloads__: 11 | __Repository__: 
+
+## [Generate-DockerImageVariantsHelpers](https://www.powershellgallery.com/Packages/Generate-DockerImageVariantsHelpers/0.7.1) | 0.7.1
+
+### Published: 09/10/2023 08:48:55 by The Oh Brothers
+
+Helpers to use with Generate-DockerImageVariants.
+
+__Downloads__: 0 | __Repository__: https://github.com/theohbrothers/Generate-DockerImageVariantsHelpers
+
+## [AppVeyorTestPsGallery](https://www.powershellgallery.com/Packages/AppVeyorTestPsGallery/1.0.514) | 1.0.514
+
+### Published: 09/10/2023 03:33:57 by Feodor Fitsner
+
+The test module to verify publishing to PSGallery from AppVeyor.
+
+__Downloads__: 40,033 | __Repository__: 
+
 ## [PSADTree](https://www.powershellgallery.com/Packages/PSADTree/1.1.2) | 1.1.2
 
 ### Published: 09/09/2023 22:52:06 by Santiago Squarzon
@@ -43,14 +67,6 @@ PowerShell tips delivered straight to your terminal.
 
 __Downloads__: 90 | __Repository__: https://github.com/deadlydog/PowerShell.tiPS
 
-## [AppVeyorTestPsGallery](https://www.powershellgallery.com/Packages/AppVeyorTestPsGallery/1.0.513) | 1.0.513
-
-### Published: 09/09/2023 16:03:00 by Feodor Fitsner
-
-The test module to verify publishing to PSGallery from AppVeyor.
-
-__Downloads__: 40,033 | __Repository__: 
-
 ## [CoreePower.Net](https://www.powershellgallery.com/Packages/CoreePower.Net/0.0.1) | 0.0.1
 
 ### Published: 09/09/2023 10:05:22 by Carsten Riedel
@@ -74,14 +90,6 @@ __Downloads__: 306 | __Repository__: https://github.com/Brownserve-UK/Brownserve
 Query and Script Module for Oracle E1/JDE AIS.
 
 __Downloads__: 661 | __Repository__: https://celin.io/ais.pwsh/
-
-## [Generate-DockerImageVariantsHelpers](https://www.powershellgallery.com/Packages/Generate-DockerImageVariantsHelpers/0.6.0) | 0.6.0
-
-### Published: 09/09/2023 04:39:29 by The Oh Brothers
-
-Helpers to use with Generate-DockerImageVariants.
-
-__Downloads__: 0 | __Repository__: https://github.com/theohbrothers/Generate-DockerImageVariantsHelpers
 
 ## [nxtools](https://www.powershellgallery.com/Packages/nxtools/1.2.0) | 1.2.0
 
@@ -178,14 +186,6 @@ __Downloads__: 1,027 | __Repository__:
 Dynamic SQL Query Builder
 
 __Downloads__: 0 | __Repository__: https://adam-bacon.netlify.app/
-
-## [SpecCreateModule](https://www.powershellgallery.com/Packages/SpecCreateModule/1.0.7) | 1.0.7
-
-### Published: 09/08/2023 13:17:23 by owen.heaume
-
-A module to create the base module structure.
-
-__Downloads__: 11 | __Repository__: 
 
 ## [HomeBasedDDLSClassTools](https://www.powershellgallery.com/Packages/HomeBasedDDLSClassTools/2.0.4) | 2.0.4
 
@@ -472,14 +472,6 @@ See full readme at https://github.com/carsten-riedel/CoreePower.Lib/#readme
 Note: the "Initialize-CorePowerLatest" command may conflict with existing installations. Use with caution.
 
 __Downloads__: 833 | __Repository__: https://github.com/carsten-riedel/CoreePower.Lib
-
-## [CoreePower.Config](https://www.powershellgallery.com/Packages/CoreePower.Config/0.0.2) | 0.0.2
-
-### Published: 09/07/2023 05:12:05 by Carsten Riedel
-
-Powershell module for basic configuration
-
-__Downloads__: 127 | __Repository__: 
 
 ## [CoreePower.Common](https://www.powershellgallery.com/Packages/CoreePower.Common/0.0.1) | 0.0.1
 
@@ -2124,4 +2116,12 @@ NTS.Tools.MSConfigMgr module contains functions that are mainly related to Micro
 
 __Downloads__: 1,364 | __Repository__: 
 
-*Updated: Sunday, 10 September 2023 02:02:56 UTC*
+## [NTS.Tools.MSADDS](https://www.powershellgallery.com/Packages/NTS.Tools.MSADDS/1.1.0.7) | 1.1.0.7
+
+### Published: 09/04/2023 09:57:56 by Moritz Wiedmann
+
+NTS.Tools.MSADDS module contains functions that are mainly related to Microsoft Active Directory Domain Services
+
+__Downloads__: 1,342 | __Repository__: 
+
+*Updated: Sunday, 10 September 2023 09:52:36 UTC*
