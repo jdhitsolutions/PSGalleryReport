@@ -3,6 +3,43 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [tiPS](https://www.powershellgallery.com/Packages/tiPS/0.0.47) | 0.0.47
+
+### Published: 09/10/2023 17:10:34 by Daniel Schroeder
+
+PowerShell tips delivered straight to your terminal.
+
+__Downloads__: 90 | __Repository__: https://github.com/deadlydog/PowerShell.tiPS
+
+## [CoreePower.Net](https://www.powershellgallery.com/Packages/CoreePower.Net/0.0.2) | 0.0.2
+
+### Published: 09/10/2023 14:57:15 by Carsten Riedel
+
+Powershell module CoreePower.Net. This module is under construction and just uploaded for testing purposes.
+
+__Downloads__: 0 | __Repository__: https://www.powershellgallery.com/packages/CoreePower.Net
+
+## [code365scripts.openai](https://www.powershellgallery.com/Packages/code365scripts.openai/1.1.0.7) | 1.1.0.7
+
+### Published: 09/10/2023 13:44:03 by chenxizhang
+
+The non-official OpenAI PowerShell module. This module is used to interact with OpenAI API.
+    
+    Changelogs:
+    - 2023-09-10    v1.1.0.7    Fix the help doc for New-ChatGPTConversation
+    - 2023-09-06    v1.1.0.6    Bug fix
+    - 2023-09-06    v1.1.0.5    Added chat completion support.
+    - 2023-08-12    v1.1.0.4    Added stream support for chat
+    - 2021-05-13    v1.1.0.3    Small enhancements (save result to clipboard, print the system prompt, etc.)
+    - 2021-05-13    v1.1.0.0    Simplify the module structure
+    - 2023-05-07    v1.0.4.12   Fixed the network connectivity test logic
+    - 2023-05-07    v1.0.4.11   Added azure OpenAI supporrt for New-ChatGPTConversation function
+    - 2023-05-07    v1.0.4.10   Added network connectivity test logic
+    - 2023-03-09    v1.0.4.9    Added change logs in the description.
+    - 2023-03-08    v1.0.4.8    Added error handling.
+
+__Downloads__: 54,424 | __Repository__: https://github.com/chenxizhang/openai-powershell/
+
 ## [SpecCreateModule](https://www.powershellgallery.com/Packages/SpecCreateModule/1.0.8) | 1.0.8
 
 ### Published: 09/10/2023 09:24:40 by owen.heaume
@@ -58,22 +95,6 @@ __Downloads__: 0 | __Repository__: https://github.com/Cyb3rWard0g/PwshAzContaine
 This module includes several commands that help with the deployment of virtual environments on vSphere.
 
 __Downloads__: 109 | __Repository__: https://github.com/evanjd711/bruharmy
-
-## [tiPS](https://www.powershellgallery.com/Packages/tiPS/0.0.46) | 0.0.46
-
-### Published: 09/09/2023 17:45:33 by Daniel Schroeder
-
-PowerShell tips delivered straight to your terminal.
-
-__Downloads__: 90 | __Repository__: https://github.com/deadlydog/PowerShell.tiPS
-
-## [CoreePower.Net](https://www.powershellgallery.com/Packages/CoreePower.Net/0.0.1) | 0.0.1
-
-### Published: 09/09/2023 10:05:22 by Carsten Riedel
-
-Powershell module CoreePower.Net. This module is under construction and just uploaded for testing purposes.
-
-__Downloads__: 0 | __Repository__: https://www.powershellgallery.com/packages/CoreePower.Net
 
 ## [Brownserve.PSTools](https://www.powershellgallery.com/Packages/Brownserve.PSTools/0.16.0) | 0.16.0
 
@@ -2469,14 +2490,4 @@ This version of AWS Tools for PowerShell is compatible with Windows PowerShell 5
 
 __Downloads__: 5,240 | __Repository__: https://github.com/aws/aws-tools-for-powershell
 
-## [AWS.Tools.DocDBElastic](https://www.powershellgallery.com/Packages/AWS.Tools.DocDBElastic/4.1.411) | 4.1.411
-
-### Published: 09/08/2023 23:18:25 by Amazon.com Inc
-
-The DocDBElastic module of AWS Tools for PowerShell lets developers and administrators manage Amazon DocumentDB Elastic Clusters from the PowerShell scripting environment. In order to manage each AWS service, install the corresponding module (e.g. AWS.Tools.EC2, AWS.Tools.S3...).
-The module AWS.Tools.Installer (https://www.powershellgallery.com/packages/AWS.Tools.Installer/) makes it easier to install, update and uninstall the AWS.Tools modules.
-This version of AWS Tools for PowerShell is compatible with Windows PowerShell 5.1+ and PowerShell Core 6+ on Windows, Linux and macOS. When running on Windows PowerShell, .NET Framework 4.7.2 or newer is required. Alternative modules AWSPowerShell.NetCore and AWSPowerShell, provide support for all AWS services from a single module and also support older versions of Windows PowerShell and .NET Framework.
-
-__Downloads__: 1,963 | __Repository__: https://github.com/aws/aws-tools-for-powershell
-
-*Updated: Sunday, 10 September 2023 09:52:33 UTC*
+*Updated: Sunday, 10 September 2023 17:52:36 UTC*

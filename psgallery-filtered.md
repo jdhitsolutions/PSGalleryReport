@@ -3,6 +3,43 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [tiPS](https://www.powershellgallery.com/Packages/tiPS/0.0.47) | 0.0.47
+
+### Published: 09/10/2023 17:10:34 by Daniel Schroeder
+
+PowerShell tips delivered straight to your terminal.
+
+__Downloads__: 90 | __Repository__: https://github.com/deadlydog/PowerShell.tiPS
+
+## [CoreePower.Net](https://www.powershellgallery.com/Packages/CoreePower.Net/0.0.2) | 0.0.2
+
+### Published: 09/10/2023 14:57:15 by Carsten Riedel
+
+Powershell module CoreePower.Net. This module is under construction and just uploaded for testing purposes.
+
+__Downloads__: 0 | __Repository__: https://www.powershellgallery.com/packages/CoreePower.Net
+
+## [code365scripts.openai](https://www.powershellgallery.com/Packages/code365scripts.openai/1.1.0.7) | 1.1.0.7
+
+### Published: 09/10/2023 13:44:03 by chenxizhang
+
+The non-official OpenAI PowerShell module. This module is used to interact with OpenAI API.
+    
+    Changelogs:
+    - 2023-09-10    v1.1.0.7    Fix the help doc for New-ChatGPTConversation
+    - 2023-09-06    v1.1.0.6    Bug fix
+    - 2023-09-06    v1.1.0.5    Added chat completion support.
+    - 2023-08-12    v1.1.0.4    Added stream support for chat
+    - 2021-05-13    v1.1.0.3    Small enhancements (save result to clipboard, print the system prompt, etc.)
+    - 2021-05-13    v1.1.0.0    Simplify the module structure
+    - 2023-05-07    v1.0.4.12   Fixed the network connectivity test logic
+    - 2023-05-07    v1.0.4.11   Added azure OpenAI supporrt for New-ChatGPTConversation function
+    - 2023-05-07    v1.0.4.10   Added network connectivity test logic
+    - 2023-03-09    v1.0.4.9    Added change logs in the description.
+    - 2023-03-08    v1.0.4.8    Added error handling.
+
+__Downloads__: 54,424 | __Repository__: https://github.com/chenxizhang/openai-powershell/
+
 ## [SpecCreateModule](https://www.powershellgallery.com/Packages/SpecCreateModule/1.0.8) | 1.0.8
 
 ### Published: 09/10/2023 09:24:40 by owen.heaume
@@ -59,22 +96,6 @@ This module includes several commands that help with the deployment of virtual e
 
 __Downloads__: 109 | __Repository__: https://github.com/evanjd711/bruharmy
 
-## [tiPS](https://www.powershellgallery.com/Packages/tiPS/0.0.46) | 0.0.46
-
-### Published: 09/09/2023 17:45:33 by Daniel Schroeder
-
-PowerShell tips delivered straight to your terminal.
-
-__Downloads__: 90 | __Repository__: https://github.com/deadlydog/PowerShell.tiPS
-
-## [CoreePower.Net](https://www.powershellgallery.com/Packages/CoreePower.Net/0.0.1) | 0.0.1
-
-### Published: 09/09/2023 10:05:22 by Carsten Riedel
-
-Powershell module CoreePower.Net. This module is under construction and just uploaded for testing purposes.
-
-__Downloads__: 0 | __Repository__: https://www.powershellgallery.com/packages/CoreePower.Net
-
 ## [Brownserve.PSTools](https://www.powershellgallery.com/Packages/Brownserve.PSTools/0.16.0) | 0.16.0
 
 ### Published: 09/09/2023 09:44:10 by Brownserve UK
@@ -106,14 +127,6 @@ __Downloads__: 1,435 | __Repository__: https://github.com/Azure/nxtools/
 Module for local admininistration of an Altazion Device Shell
 
 __Downloads__: 8 | __Repository__: https://www.altazion.com/
-
-## [PSSymantecCloud](https://www.powershellgallery.com/Packages/PSSymantecCloud/0.76.0) | 0.76.0
-
-### Published: 09/08/2023 20:59:42 by Aurélien BOUMANNE
-
-Common set of tools to interact with Symantec/Broadcom API for SEP Cloud
-
-__Downloads__: 51 | __Repository__: https://github.com/Douda/PSSymantecCloud
 
 ## [TcPrjMgmt](https://www.powershellgallery.com/Packages/TcPrjMgmt/0.2.0) | 0.2.0
 
@@ -473,6 +486,14 @@ Note: the "Initialize-CorePowerLatest" command may conflict with existing instal
 
 __Downloads__: 833 | __Repository__: https://github.com/carsten-riedel/CoreePower.Lib
 
+## [CoreePower.Config](https://www.powershellgallery.com/Packages/CoreePower.Config/0.0.2) | 0.0.2
+
+### Published: 09/07/2023 05:12:05 by Carsten Riedel
+
+Powershell module for basic configuration
+
+__Downloads__: 127 | __Repository__: 
+
 ## [CoreePower.Common](https://www.powershellgallery.com/Packages/CoreePower.Common/0.0.1) | 0.0.1
 
 ### Published: 09/07/2023 04:54:18 by Carsten Riedel
@@ -560,26 +581,6 @@ __Downloads__: 30,958 | __Repository__: https://github.com/microsoft/SdnDiagnost
 Module for installing basic programs: This module provides functions for downloading installers from specified links, installing the programs, verifying the installed programs/services, and cleaning up the installer files.
 
 __Downloads__: 104,692 | __Repository__: 
-
-## [code365scripts.openai](https://www.powershellgallery.com/Packages/code365scripts.openai/1.1.0.6) | 1.1.0.6
-
-### Published: 09/06/2023 14:14:55 by chenxizhang
-
-The non-official OpenAI PowerShell module. This module is used to interact with OpenAI API.
-    
-    Changelogs:
-    - 2023-09-06    v1.1.0.6    Bug fix
-    - 2023-09-06    v1.1.0.5    Added chat completion support.
-    - 2023-08-12    v1.1.0.4    Added stream support for chat
-    - 2021-05-13    v1.1.0.3    Small enhancements (save result to clipboard, print the system prompt, etc.)
-    - 2021-05-13    v1.1.0.0    Simplify the module structure
-    - 2023-05-07    v1.0.4.12   Fixed the network connectivity test logic
-    - 2023-05-07    v1.0.4.11   Added azure OpenAI supporrt for New-ChatGPTConversation function
-    - 2023-05-07    v1.0.4.10   Added network connectivity test logic
-    - 2023-03-09    v1.0.4.9    Added change logs in the description.
-    - 2023-03-08    v1.0.4.8    Added error handling.
-
-__Downloads__: 54,424 | __Repository__: https://github.com/chenxizhang/openai-powershell/
 
 ## [Liquit.Server.PowerShell](https://www.powershellgallery.com/Packages/Liquit.Server.PowerShell/4.0.3264.5264) | 4.0.3264.5264
 
@@ -2124,4 +2125,4 @@ NTS.Tools.MSADDS module contains functions that are mainly related to Microsoft 
 
 __Downloads__: 1,342 | __Repository__: 
 
-*Updated: Sunday, 10 September 2023 09:52:36 UTC*
+*Updated: Sunday, 10 September 2023 17:52:38 UTC*
