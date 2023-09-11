@@ -1028,9 +1028,9 @@ Microsoft Azure PowerShell - Dns service cmdlets for Azure Resource Manager
 
 __Downloads__: 22,845,594 | __Repository__: https://github.com/Azure/azure-powershell
 
-## [Az.StackHCI](https://www.powershellgallery.com/Packages/Az.StackHCI/2.1.2) | 2.1.2
+## [Az.StackHCI](https://www.powershellgallery.com/Packages/Az.StackHCI/2.2.0) | 2.2.0
 
-### Published: 09/05/2023 02:12:55 by Microsoft Corporation
+### Published: 09/11/2023 06:41:57 by Microsoft Corporation
 
 Microsoft Azure PowerShell: StackHci cmdlets
 
@@ -2229,4 +2229,4 @@ This module contains DSC resources for the management and configuration of Windo
 
 __Downloads__: 3,324,302 | __Repository__: https://github.com/dsccommunity/xDnsServer
 
-*Updated: Monday, 11 September 2023 02:02:33 UTC*
+*Updated: Monday, 11 September 2023 09:53:32 UTC*

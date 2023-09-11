@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 11 September 2023 02:02:40 UTC
+Updated: Monday, 11 September 2023 09:53:40 UTC
 
 .bat
 .env
@@ -36,6 +36,7 @@ Updated: Monday, 11 September 2023 02:02:40 UTC
 21vianet
 24-bit
 2fa
+300
 365
 36867
 3d
@@ -625,7 +626,6 @@ azure-resource-graph
 azure-ssis
 azureactivedirectory
 azuread
-azureadbackupandrestore
 azureadconnect
 azureadgraph
 azureadtoolkit
@@ -923,6 +923,7 @@ cache
 caf
 cal
 calc
+calculate
 calculator
 calendar
 callingcode
@@ -1051,7 +1052,6 @@ chef-compliance
 chef-server
 chefconf2016
 chenxizhang
-cherrypy
 cherwell
 chfs
 chi
@@ -1599,6 +1599,7 @@ dagger
 daily
 dangling
 dapr
+dare
 dark
 darwin
 dash
@@ -1843,7 +1844,6 @@ disasterrecovery
 disconnect
 discord
 discordrpc
-discount
 discover
 discovery
 discutils
@@ -2069,7 +2069,6 @@ easylife365
 easyvista
 eaton
 ebay
-ebooks
 ebur128
 ec2
 ecommerce
@@ -2213,7 +2212,6 @@ esp32s2
 espressif
 esri
 essbase
-estimate
 estimation
 esx
 esxi
@@ -2299,6 +2297,7 @@ exists
 exitcode
 exitprocessrequest
 exo
+exock
 exov2
 exov3
 exp
@@ -2801,7 +2800,6 @@ grep
 greynoise
 grid
 gridfs
-grok
 groundspeak
 group
 group-membership
@@ -2839,7 +2837,6 @@ hack
 hacking
 hacktoberfest
 hadoop
-hafr
 hailstone
 haipa
 halo
@@ -3091,6 +3088,7 @@ identity-management
 identitydataplane
 identitydirector
 identitydomains
+identitynow
 idf
 idm
 idna
@@ -3861,6 +3859,7 @@ mdatp
 mdb
 mdbc
 mde
+mdep
 mdm
 mdop
 mdt
@@ -4018,7 +4017,6 @@ moldova
 moment
 monaco
 monday
-mondoo
 money
 moneyforward
 mongo
@@ -4334,6 +4332,7 @@ nuget-references
 nuget.exe
 nuget.org
 nugetpackageprovider
+number
 numlock
 nunit
 nupkg
@@ -4697,7 +4696,6 @@ permissions
 permutations
 persistence
 persistent
-personal
 personalisation
 personalization
 personalvault
@@ -4845,7 +4843,6 @@ poshy-code-search
 poshy-colors
 poshy-coreutils-ish
 poshy-dir-nav
-poshy-ecks
 poshy-env-proxy
 poshy-env-var
 poshy-ls-isms
@@ -4892,6 +4889,7 @@ poshy-wrap-vagrant
 poshy-wrap-vault
 poshy-wrap-vscode
 poshy-wrap-wget
+poshy-wrap-wt
 poshy-wrap-yum
 poshy-wrap-zypper
 position
@@ -5085,7 +5083,6 @@ provance
 proverb
 provider
 providerhub
-provision
 provisioning
 provisioningpackage
 provisonedpackage
@@ -5107,7 +5104,6 @@ ps.credentialmanager
 ps1
 ps1xml
 ps1xmlgen
-ps2dll
 ps2exe
 ps3
 ps4
@@ -6549,6 +6545,8 @@ pscommand_new-gitbranchtracked
 pscommand_new-gitpatchfile
 pscommand_new-isofile
 pscommand_new-viewerinvocationfunction
+pscommand_new-windowsterminalpane
+pscommand_new-windowsterminaltab
 pscommand_nginx_reload
 pscommand_nginx_restart
 pscommand_nginx_start
@@ -6861,8 +6859,6 @@ pscommand_write-gitcommitgpgsignedbykey
 pscommand_write-gitcommithelpfullyverbose
 pscommand_write-gitcommitinteractively
 pscommand_write-gitcommitsignedoff
-pscommand_xin
-pscommand_xwith
 pscommand_yc
 pscommand_ygi
 pscommand_ygl
@@ -7816,6 +7812,8 @@ psfunction_new-gitbranchtracked
 psfunction_new-gitpatchfile
 psfunction_new-isofile
 psfunction_new-viewerinvocationfunction
+psfunction_new-windowsterminalpane
+psfunction_new-windowsterminaltab
 psfunction_nginx_reload
 psfunction_nginx_restart
 psfunction_nginx_start
@@ -8001,8 +7999,6 @@ psfunction_write-gitcommitgpgsignedbykey
 psfunction_write-gitcommithelpfullyverbose
 psfunction_write-gitcommitinteractively
 psfunction_write-gitcommitsignedoff
-psfunction_xin
-psfunction_xwith
 psgallery
 psget
 psgitlab
@@ -8101,7 +8097,6 @@ publicip
 publish
 publishedmodules
 publisher
-publishers
 publishing
 pubsub
 pubxml
@@ -8143,7 +8138,6 @@ pxedistributionpoint
 pyenv
 pygmentize
 pylint
-pyranja
 python
 python-for-dotnet
 python3
@@ -8424,7 +8418,6 @@ resources
 resourcesearch
 response
 rest
-rest_cherrypy
 rest-api
 restapi
 restart
@@ -8485,8 +8478,6 @@ roca
 rock
 rocket
 rocketcyber
-roco
-rocolatey
 role
 roles
 rollingfile
@@ -8560,12 +8551,10 @@ safe
 safeguard
 sage
 saggiehaim
-sale
+sailpoint
 sales
 salesforce
 salesloft
-salt
-salt-api
 saltstack
 saltstackconfig
 saltstackenterprise
@@ -9161,7 +9150,6 @@ srcsrv
 srm
 srylius-write
 ssas
-ssc
 ssdt
 sse
 ssh
@@ -9352,7 +9340,6 @@ symmetric
 synapse
 sync
 synchronization
-synchronize
 syndication
 synergy
 syntax
@@ -9671,6 +9658,7 @@ trendmicro
 trevor
 trevorsullivan
 triangle
+tribeloo
 trick
 tricks
 trigger
@@ -9790,7 +9778,6 @@ ud-tool
 ud-toploader
 ud-trendline
 ud-typing
-ud-window
 ud-wordtree
 udcm
 udfeedback
@@ -9875,6 +9862,7 @@ uqword
 uri
 uri-scheme
 url
+url-encode
 url-shortener
 urldecode
 urlencode
@@ -9987,6 +9975,7 @@ verify
 version
 versioning
 versionmanager
+versionnumber
 vertical
 vester
 vhd
@@ -10266,6 +10255,7 @@ windows-powershell
 windows-registry
 windows-remoting
 windows-server-2016
+windows-terminal
 windows-user-folder
 windows-user-profile
 windows10
@@ -10457,7 +10447,6 @@ xevents
 xh
 xi
 xiaomi
-xin
 xkcd
 xliff
 xlsx
@@ -10483,7 +10472,6 @@ xtrude
 xunit
 xwiki
 xwindowsupdate
-xwith
 yahoo
 yahw
 yamaha
@@ -10495,7 +10483,6 @@ yetanotherhelloworld
 yml
 ynab
 youtube
-youtube-dl
 youtubeextractor
 yq
 yubaba

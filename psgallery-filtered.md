@@ -3,13 +3,85 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
-## [Generate-DockerImageVariantsHelpers](https://www.powershellgallery.com/Packages/Generate-DockerImageVariantsHelpers/0.12.0) | 0.12.0
+## [BLRecoveryPassword](https://www.powershellgallery.com/Packages/BLRecoveryPassword/1.1.2) | 1.1.2
 
-### Published: 09/11/2023 01:52:03 by The Oh Brothers
+### Published: 09/11/2023 09:09:44 by Dawid Prowadzisz
+
+Get the BitLocker recovery password from Active Directory.
+
+__Downloads__: 41 | __Repository__: 
+
+## [HPDrivers](https://www.powershellgallery.com/Packages/HPDrivers/1.2.2) | 1.2.2
+
+### Published: 09/11/2023 08:59:34 by Dawid Prowadzisz
+
+Update all HP device drivers with a single command.
+
+__Downloads__: 12,517 | __Repository__: https://github.com/UsefulScripts01/HPDrivers
+
+## [PsDownload](https://www.powershellgallery.com/Packages/PsDownload/0.1.0) | 0.1.0
+
+### Published: 09/11/2023 08:47:04 by Dan Gough
+
+A PowerShell module for downloading files.
+
+__Downloads__: 0 | __Repository__: https://github.com/DanGough/PsDownload
+
+## [CoreePower.Net](https://www.powershellgallery.com/Packages/CoreePower.Net/0.0.14) | 0.0.14
+
+### Published: 09/11/2023 08:44:20 by Carsten Riedel
+
+Powershell module CoreePower.Net. This module is under construction and just uploaded for testing purposes.
+
+__Downloads__: 0 | __Repository__: https://www.powershellgallery.com/packages/CoreePower.Net
+
+## [Generate-DockerImageVariantsHelpers](https://www.powershellgallery.com/Packages/Generate-DockerImageVariantsHelpers/0.13.0) | 0.13.0
+
+### Published: 09/11/2023 08:23:38 by The Oh Brothers
 
 Helpers to use with Generate-DockerImageVariants.
 
 __Downloads__: 0 | __Repository__: https://github.com/theohbrothers/Generate-DockerImageVariantsHelpers
+
+## [PSCompletions](https://www.powershellgallery.com/Packages/PSCompletions/2.0.9) | 2.0.9
+
+### Published: 09/11/2023 08:12:54 by abgox
+
+A completion manager for better and simpler use and Manage completions. For more information, please visit the project: https://github.com/abgox/PSCompletions
+
+__Downloads__: 48 | __Repository__: https://github.com/abgox/PSCompletions
+
+## [JamfPSPro](https://www.powershellgallery.com/Packages/JamfPSPro/0.0.7) | 0.0.7
+
+### Published: 09/11/2023 06:30:15 by Tristan Brazier
+
+A PowerShell module for the Jamf classic api
+
+__Downloads__: 9 | __Repository__: https://github.com/TrustyTristan/JamfPSPro
+
+## [TisaneLampClient](https://www.powershellgallery.com/Packages/TisaneLampClient/7.0.2) | 7.0.2
+
+### Published: 09/11/2023 06:00:09 by CR
+
+Client side scripts for Tisane to modify language models
+
+__Downloads__: 290 | __Repository__: 
+
+## [LampSettingLib](https://www.powershellgallery.com/Packages/LampSettingLib/7.0.1) | 7.0.1
+
+### Published: 09/11/2023 05:28:55 by CR
+
+Helper module to TisaneLampClient, manages setting values to the variables
+
+__Downloads__: 142 | __Repository__: 
+
+## [PowervRLICloud](https://www.powershellgallery.com/Packages/PowervRLICloud/1.2.0) | 1.2.0
+
+### Published: 09/11/2023 04:05:30 by Munishpal Makhija
+
+PowerShell Module for managing vRLI Cloud
+
+__Downloads__: 49 | __Repository__: 
 
 ## [BruhArmy](https://www.powershellgallery.com/Packages/BruhArmy/1.5.0) | 1.5.0
 
@@ -42,14 +114,6 @@ __Downloads__: 8 | __Repository__: https://www.altazion.com/
 PowerShell tips delivered straight to your terminal.
 
 __Downloads__: 90 | __Repository__: https://github.com/deadlydog/PowerShell.tiPS
-
-## [CoreePower.Net](https://www.powershellgallery.com/Packages/CoreePower.Net/0.0.2) | 0.0.2
-
-### Published: 09/10/2023 14:57:15 by Carsten Riedel
-
-Powershell module CoreePower.Net. This module is under construction and just uploaded for testing purposes.
-
-__Downloads__: 0 | __Repository__: https://www.powershellgallery.com/packages/CoreePower.Net
 
 ## [code365scripts.openai](https://www.powershellgallery.com/Packages/code365scripts.openai/1.1.0.7) | 1.1.0.7
 
@@ -232,14 +296,6 @@ General Scripting Framework, providing PowerShell-specific infrastructure for ot
 
 __Downloads__: 3,840,955 | __Repository__: http://psframework.org/
 
-## [PSCompletions](https://www.powershellgallery.com/Packages/PSCompletions/2.0.8) | 2.0.8
-
-### Published: 09/08/2023 08:59:13 by abgox
-
-A completion manager for better and simpler use and Manage completions. For more information, please visit the project: https://github.com/abgox/PSCompletions
-
-__Downloads__: 48 | __Repository__: https://github.com/abgox/PSCompletions
-
 ## [NTware.Ufo.PowerShell.ObjectManagement](https://www.powershellgallery.com/Packages/NTware.Ufo.PowerShell.ObjectManagement/2023.3.0.0) | 2023.3.0.0
 
 ### Published: 09/08/2023 08:25:56 by NT-ware Systemprogrammierungs-GmbH
@@ -271,14 +327,6 @@ __Downloads__: 0 | __Repository__:
 PowerShell module to query the Logic Monitor API. This is a personal project and is not an offically supported LogicMonitor integration.
 
 __Downloads__: 2,200 | __Repository__: https://github.com/stevevillardi/Logic.Monitor
-
-## [JamfPSPro](https://www.powershellgallery.com/Packages/JamfPSPro/0.0.6) | 0.0.6
-
-### Published: 09/08/2023 01:51:27 by Tristan Brazier
-
-A PowerShell module for the Jamf classic api
-
-__Downloads__: 9 | __Repository__: https://github.com/TrustyTristan/JamfPSPro
 
 ## [BenchPress.Azure](https://www.powershellgallery.com/Packages/BenchPress.Azure/0.2.2) | 0.2.2
 
@@ -322,6 +370,14 @@ __Downloads__: 1,239,013 | __Repository__: https://github.com/loxia01/PSInternet
 
 __Downloads__: 596 | __Repository__: https://github.com/HotCakeX/Harden-Windows-Security
 
+## [OGraph](https://www.powershellgallery.com/Packages/OGraph/0.0.1.10) | 0.0.1.10
+
+### Published: 09/07/2023 20:48:58 by Ben Pulido Mike Campbell
+
+PowerShell functions for administration of Microsoft 365 services using Graph endpoints
+
+__Downloads__: 58 | __Repository__: https://github.com/themodulecollective/OGraph
+
 ## [WebKitDev](https://www.powershellgallery.com/Packages/WebKitDev/0.5.2) | 0.5.2
 
 ### Published: 09/07/2023 20:32:16 by Don Olmstead
@@ -362,14 +418,6 @@ Functions and Scripts for Britannica Fox Product
 
 __Downloads__: 448 | __Repository__: https://github.com/BaTarrY/FoxHelper
 
-## [BLRecoveryPassword](https://www.powershellgallery.com/Packages/BLRecoveryPassword/1.1.0) | 1.1.0
-
-### Published: 09/07/2023 18:36:45 by Dawid Prowadzisz
-
-Get the BitLocker recovery password from Active Directory.
-
-__Downloads__: 41 | __Repository__: 
-
 ## [SmtpClientDiag](https://www.powershellgallery.com/Packages/SmtpClientDiag/1.2.0.3) | 1.2.0.3
 
 ### Published: 09/07/2023 18:23:45 by Richard Fajardo
@@ -385,14 +433,6 @@ __Downloads__: 446 | __Repository__: https://github.com/richfaj/SmtpClientDiag
 DSC resources for configuring Distributed File System Replication and Namespaces.
 
 __Downloads__: 268,103 | __Repository__: https://github.com/dsccommunity/DFSDsc
-
-## [HPDrivers](https://www.powershellgallery.com/Packages/HPDrivers/1.2.0) | 1.2.0
-
-### Published: 09/07/2023 18:07:50 by Dawid Prowadzisz
-
-Update all HP device drivers with a single command.
-
-__Downloads__: 12,517 | __Repository__: https://github.com/UsefulScripts01/HPDrivers
 
 ## [SysAdmin-Extras](https://www.powershellgallery.com/Packages/SysAdmin-Extras/1.0.3) | 1.0.3
 
@@ -441,14 +481,6 @@ __Downloads__: 0 | __Repository__:
 Mandatory module for the foundation PowerShell scripts.
 
 __Downloads__: 123 | __Repository__: 
-
-## [LampSettingLib](https://www.powershellgallery.com/Packages/LampSettingLib/0.1.1) | 0.1.1
-
-### Published: 09/07/2023 11:41:40 by CR
-
-Helper module to TisaneLampClient, manages setting values to the variables
-
-__Downloads__: 142 | __Repository__: 
 
 ## [WilmaPSWorker](https://www.powershellgallery.com/Packages/WilmaPSWorker/0.3.136) | 0.3.136
 
@@ -2085,44 +2117,12 @@ NTS.Tools module contains tools for ConfigMgr and course deployment
 
 __Downloads__: 1,431 | __Repository__: 
 
-## [NTS.Tools.MSHyperV](https://www.powershellgallery.com/Packages/NTS.Tools.MSHyperV/1.1.0.7) | 1.1.0.7
+## [NTS.Tools.MSSQL](https://www.powershellgallery.com/Packages/NTS.Tools.MSSQL/1.1.0.7) | 1.1.0.7
 
-### Published: 09/04/2023 09:58:24 by Moritz Wiedmann
+### Published: 09/04/2023 09:59:06 by Moritz Wiedmann
 
-NTS.Tools.MSHyperV module contains functions that are mainly related to Microsoft Hyper-V
+NTS.Tools.MSSQL module contains functions that are mainly related to Microsoft SQL Server
 
-__Downloads__: 1,400 | __Repository__: 
+__Downloads__: 1,362 | __Repository__: 
 
-## [NTS.Tools.MSExchange](https://www.powershellgallery.com/Packages/NTS.Tools.MSExchange/1.1.0.7) | 1.1.0.7
-
-### Published: 09/04/2023 09:58:15 by Moritz Wiedmann
-
-NTS.Tools.MSExchange module contains functions that are mainly related to around Microsoft Exchange
-
-__Downloads__: 1,357 | __Repository__: 
-
-## [NTS.Tools.MSConfigMgr](https://www.powershellgallery.com/Packages/NTS.Tools.MSConfigMgr/1.1.0.7) | 1.1.0.7
-
-### Published: 09/04/2023 09:58:05 by Moritz Wiedmann
-
-NTS.Tools.MSConfigMgr module contains functions that are mainly related to Microsoft Endpoint Configuration Manger
-
-__Downloads__: 1,364 | __Repository__: 
-
-## [NTS.Tools.MSADDS](https://www.powershellgallery.com/Packages/NTS.Tools.MSADDS/1.1.0.7) | 1.1.0.7
-
-### Published: 09/04/2023 09:57:56 by Moritz Wiedmann
-
-NTS.Tools.MSADDS module contains functions that are mainly related to Microsoft Active Directory Domain Services
-
-__Downloads__: 1,342 | __Repository__: 
-
-## [NTS.Tools.MSADCS](https://www.powershellgallery.com/Packages/NTS.Tools.MSADCS/1.1.0.7) | 1.1.0.7
-
-### Published: 09/04/2023 09:57:47 by Moritz Wiedmann
-
-NTS.Tools.MSADCS module contains functions that are mainly related to Microsoft Active Directory Certification Services
-
-__Downloads__: 1,358 | __Repository__: 
-
-*Updated: Monday, 11 September 2023 02:02:27 UTC*
+*Updated: Monday, 11 September 2023 09:53:25 UTC*
