@@ -3,6 +3,88 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [ConnectWiseManageAPI](https://www.powershellgallery.com/Packages/ConnectWiseManageAPI/0.4.13.0) | 0.4.13.0
+
+### Published: 09/11/2023 17:39:36 by Chris Taylor
+
+PowerShell wrapper for the ConnectWise Manage REST API
+
+__Downloads__: 119,817 | __Repository__: https://github.com/christaylorcodes/ConnectWiseManageAPI
+
+## [DesktopSharedMod](https://www.powershellgallery.com/Packages/DesktopSharedMod/2.0.25) | 2.0.25
+
+### Published: 09/11/2023 17:19:27 by Tanner Schmidt
+
+This module does stuff
+
+__Downloads__: 16,819 | __Repository__: 
+
+## [AptecoPSFramework](https://www.powershellgallery.com/Packages/AptecoPSFramework/0.0.17) | 0.0.17
+
+### Published: 09/11/2023 16:58:03 by florian.von.bracht@apteco.de
+
+Apteco PS Modules - Framework
+
+More description to follow...
+
+__Downloads__: 77 | __Repository__: https://github.com/Apteco/AptecoPSModules/tree/dev/AptecoPSFramework
+
+## [PSLogs](https://www.powershellgallery.com/Packages/PSLogs/5.1.0) | 5.1.0
+
+### Published: 09/11/2023 16:22:07 by Hannes Palmquist
+
+Powershell Logging Module. Support multiple logging targets, including console, file, sqlite, winevent, gelf, slack etc.
+
+__Downloads__: 0 | __Repository__: https://getps.dev/modules/PSLogs/getstarted
+
+## [AzAPICall](https://www.powershellgallery.com/Packages/AzAPICall/1.1.79) | 1.1.79
+
+### Published: 09/11/2023 15:57:18 by Julian Hayward Kai Schulz
+
+Azure API call handler for Microsoft Graph, Azure Resource Management, KeyVault and Log Analytics. Visit aka.ms/AzAPICall
+
+__Downloads__: 103,300 | __Repository__: https://aka.ms/AzAPICall
+
+## [pwsh-environment](https://www.powershellgallery.com/Packages/pwsh-environment/1.0.0) | 1.0.0
+
+### Published: 09/11/2023 14:07:06 by sawamura
+
+This is a module designed for manipulating environment variables.
+
+__Downloads__: 0 | __Repository__: https://gitlab.com/kamiyonanayo/pwsh-environment
+
+## [ConventionalVersioning](https://www.powershellgallery.com/Packages/ConventionalVersioning/0.1.4) | 0.1.4
+
+### Published: 09/11/2023 13:52:09 by Arwyn
+
+A powerhsell module dedicated to publishing GitHub releases based on conventional commits
+
+__Downloads__: 0 | __Repository__: https://github.com/ArwynFr/pwsh-ConventionalVersioning
+
+## [Easit.ProcessRunner.GlobalFunctions](https://www.powershellgallery.com/Packages/Easit.ProcessRunner.GlobalFunctions/1.1.0) | 1.1.0
+
+### Published: 09/11/2023 13:32:42 by Anders Thyrsson
+
+Functions module to be used in script executed by EasitProcessRunner
+
+__Downloads__: 0 | __Repository__: https://github.com/easitab/Easit.ProcessRunner.GlobalFunctions
+
+## [Nectar10](https://www.powershellgallery.com/Packages/Nectar10/3.68) | 3.68
+
+### Published: 09/11/2023 12:59:56 by Ken Lasko
+
+PowerShell module for Nectar DXP
+
+__Downloads__: 1,027 | __Repository__: 
+
+## [TisaneLampClient](https://www.powershellgallery.com/Packages/TisaneLampClient/7.0.3) | 7.0.3
+
+### Published: 09/11/2023 11:35:38 by CR
+
+Client side scripts for Tisane to modify language models
+
+__Downloads__: 290 | __Repository__: 
+
 ## [BLRecoveryPassword](https://www.powershellgallery.com/Packages/BLRecoveryPassword/1.1.2) | 1.1.2
 
 ### Published: 09/11/2023 09:09:44 by Dawid Prowadzisz
@@ -58,14 +140,6 @@ __Downloads__: 48 | __Repository__: https://github.com/abgox/PSCompletions
 A PowerShell module for the Jamf classic api
 
 __Downloads__: 9 | __Repository__: https://github.com/TrustyTristan/JamfPSPro
-
-## [TisaneLampClient](https://www.powershellgallery.com/Packages/TisaneLampClient/7.0.2) | 7.0.2
-
-### Published: 09/11/2023 06:00:09 by CR
-
-Client side scripts for Tisane to modify language models
-
-__Downloads__: 290 | __Repository__: 
 
 ## [LampSettingLib](https://www.powershellgallery.com/Packages/LampSettingLib/7.0.1) | 7.0.1
 
@@ -248,14 +322,6 @@ PowerShell for Proxmox VE
 
 __Downloads__: 1,510 | __Repository__: https://github.com/Corsinvest/cv4pve-api-powershell
 
-## [ConventionalVersioning](https://www.powershellgallery.com/Packages/ConventionalVersioning/0.1.3) | 0.1.3
-
-### Published: 09/08/2023 16:06:49 by Arwyn
-
-A powerhsell module dedicated to publishing GitHub releases based on conventional commits
-
-__Downloads__: 0 | __Repository__: https://github.com/ArwynFr/pwsh-ConventionalVersioning
-
 ## [DellOpenManage](https://www.powershellgallery.com/Packages/DellOpenManage/3.6.2) | 3.6.2
 
 ### Published: 09/08/2023 15:51:14 by Trevor Squillario <Trevor.Squillario@Dell.com>
@@ -263,14 +329,6 @@ __Downloads__: 0 | __Repository__: https://github.com/ArwynFr/pwsh-ConventionalV
 Dell OpenManage Enterprise PowerShell Module
 
 __Downloads__: 5,398 | __Repository__: https://github.com/dell/OpenManage-PowerShell-Modules
-
-## [Nectar10](https://www.powershellgallery.com/Packages/Nectar10/3.67) | 3.67
-
-### Published: 09/08/2023 15:23:41 by Ken Lasko
-
-PowerShell module for Nectar DXP
-
-__Downloads__: 1,027 | __Repository__: 
 
 ## [UniversalDashboard.UDQueryBuilder](https://www.powershellgallery.com/Packages/UniversalDashboard.UDQueryBuilder/0.0.1) | 0.0.1
 
@@ -458,14 +516,6 @@ Parses Chocolatey logs into easy to use objects.
 
 __Downloads__: 0 | __Repository__: https://github.com/HeyItsGilbert/ChocoLogParse/
 
-## [PSLogs](https://www.powershellgallery.com/Packages/PSLogs/5.0.3) | 5.0.3
-
-### Published: 09/07/2023 14:06:39 by Hannes Palmquist
-
-Powershell Logging Module. Support multiple logging targets, including console, file, sqlite, winevent, gelf, slack etc.
-
-__Downloads__: 0 | __Repository__: https://getps.dev/modules/PSLogs/getstarted
-
 ## [SpecIRLHelper](https://www.powershellgallery.com/Packages/SpecIRLHelper/1.0.0) | 1.0.0
 
 ### Published: 09/07/2023 14:01:29 by owen.heaume
@@ -481,6 +531,38 @@ __Downloads__: 0 | __Repository__:
 Mandatory module for the foundation PowerShell scripts.
 
 __Downloads__: 123 | __Repository__: 
+
+## [TisaneWeb](https://www.powershellgallery.com/Packages/TisaneWeb/7.0.0) | 7.0.0
+
+### Published: 09/07/2023 11:19:34 by CR
+
+Scripts for tisane web/api
+
+__Downloads__: 43 | __Repository__: 
+
+## [TisaneOnprem](https://www.powershellgallery.com/Packages/TisaneOnprem/7.0.0) | 7.0.0
+
+### Published: 09/07/2023 11:19:18 by CR
+
+Module for on premise installtion of Tisane
+
+__Downloads__: 180 | __Repository__: 
+
+## [TisaneLocal](https://www.powershellgallery.com/Packages/TisaneLocal/7.0.0) | 7.0.0
+
+### Published: 09/07/2023 11:19:01 by CR
+
+Scripts for local Tisane Use
+
+__Downloads__: 65 | __Repository__: 
+
+## [TisaneLampServer](https://www.powershellgallery.com/Packages/TisaneLampServer/7.0.0) | 7.0.0
+
+### Published: 09/07/2023 11:18:45 by CR
+
+Client side libs for Lamp Server
+
+__Downloads__: 122 | __Repository__: 
 
 ## [WilmaPSWorker](https://www.powershellgallery.com/Packages/WilmaPSWorker/0.3.136) | 0.3.136
 
@@ -2026,103 +2108,4 @@ This module contains tools to manage module dependencies.
 
 __Downloads__: 21 | __Repository__: https://github.com/FranciscoNabas/LibSnitcher
 
-## [AzAPICall](https://www.powershellgallery.com/Packages/AzAPICall/1.1.78) | 1.1.78
-
-### Published: 09/04/2023 20:00:56 by Julian Hayward Kai Schulz
-
-Azure API call handler for Microsoft Graph, Azure Resource Management, KeyVault and Log Analytics. Visit aka.ms/AzAPICall
-
-__Downloads__: 103,300 | __Repository__: https://aka.ms/AzAPICall
-
-## [ISEScriptRunner](https://www.powershellgallery.com/Packages/ISEScriptRunner/6.9.2718.0) | 6.9.2718.0
-
-### Published: 09/04/2023 17:32:57 by ScriptRunner Software GmbH
-
-The ScriptRunner ISE add-on provides you with all the necessary features for professional script development.
-The add-on is mainly designed for administrators in smaller teams and establishes a direct connection from
-Windows PowerShell ISE to the ScriptRunner repository.
-
-The ScriptRunner add-on for Windows PowerShell ISE includes the following functions for script development:
-
-- View PowerShell script metadata
-- Upload local PowerShell scripts to your ScriptRunner script repository
-- Use PowerShell 7 in the ISE console pane
-- Check out scripts
-- Edit scripts
-- Check in scripts
-- Filter for scripts that you are allowed to edit
-- Discard changes and revert checkout
-- Builtin SRXEnv variable
-
-IMPORTANT
-This version of the ScriptRunner ISE add-on only supports ScriptRunner WebAPI Service of major version 6 starting from version 6.8.
-
-__Downloads__: 0 | __Repository__: https://support.scriptrunner.com/articles/#!coding/ise-add-on/
-
-## [PSComputerManagementZp](https://www.powershellgallery.com/Packages/PSComputerManagementZp/0.0.2) | 0.0.2
-
-### Published: 09/04/2023 16:40:00 by Pu Zhao
-
-A PowerShell module that derives from personal scenarios, 
-    can help users configure the Windows PCs easily to realize many useful operations, 
-    involving authorization, env, links, proxy, etc. Some features are also available on WSL2 and Linux.
-
-__Downloads__: 0 | __Repository__: https://github.com/Zhaopudark/PSComputerManagementZp
-
-## [FinancialPackage.PowershellGalleryModule](https://www.powershellgallery.com/Packages/FinancialPackage.PowershellGalleryModule/1.0.1) | 1.0.1
-
-### Published: 09/04/2023 15:34:09 by FastTrack In-Product Experiences Team
-
-Financial package to create new Sensitive Information Types for MIP
-
-__Downloads__: 0 | __Repository__: 
-
-## [DbBackupControl](https://www.powershellgallery.com/Packages/DbBackupControl/1.0.4) | 1.0.4
-
-### Published: 09/04/2023 14:23:12 by SAGSA
-
-Powershell module helps maintenance sql backup
-
-__Downloads__: 40 | __Repository__: https://github.com/SAGSA/DbBackupControl
-
-## [PhpConfig](https://www.powershellgallery.com/Packages/PhpConfig/1.3.5) | 1.3.5
-
-### Published: 09/04/2023 14:15:16 by Nicolas Cavare
-
-A PowerShell module to configure PHP
-
-__Downloads__: 288 | __Repository__: https://github.com/ncavare/powershell-phpconfig
-
-## [CitrixShareFilePS](https://www.powershellgallery.com/Packages/CitrixShareFilePS/0.2.2) | 0.2.2
-
-### Published: 09/04/2023 13:56:55 by Andy Lyonette
-
-Interact with the Atlassian Cloud APIs using PowerShell
-
-__Downloads__: 1,616 | __Repository__: https://github.com/andylyonette/CitrixShareFilePS
-
-## [FilesToFolders](https://www.powershellgallery.com/Packages/FilesToFolders/1.0.2) | 1.0.2
-
-### Published: 09/04/2023 11:41:44 by ehmiiz
-
-Creates folders based on date, moves files there.
-
-__Downloads__: 0 | __Repository__: https://github.com/ehmiiz/FilesToFolders
-
-## [NTS.Tools](https://www.powershellgallery.com/Packages/NTS.Tools/1.1.0.7) | 1.1.0.7
-
-### Published: 09/04/2023 09:59:25 by Moritz Wiedmann
-
-NTS.Tools module contains tools for ConfigMgr and course deployment
-
-__Downloads__: 1,431 | __Repository__: 
-
-## [NTS.Tools.MSSQL](https://www.powershellgallery.com/Packages/NTS.Tools.MSSQL/1.1.0.7) | 1.1.0.7
-
-### Published: 09/04/2023 09:59:06 by Moritz Wiedmann
-
-NTS.Tools.MSSQL module contains functions that are mainly related to Microsoft SQL Server
-
-__Downloads__: 1,362 | __Repository__: 
-
-*Updated: Monday, 11 September 2023 09:53:25 UTC*
+*Updated: Monday, 11 September 2023 17:52:38 UTC*

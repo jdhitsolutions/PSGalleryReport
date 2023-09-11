@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 11 September 2023 09:53:40 UTC
+Updated: Monday, 11 September 2023 17:52:50 UTC
 
 .bat
 .env
@@ -605,7 +605,6 @@ azpublicipaddress
 azresources
 azsdk
 azsk
-azsql
 azstackhci
 azstate
 azsubnet
@@ -626,6 +625,7 @@ azure-resource-graph
 azure-ssis
 azureactivedirectory
 azuread
+azureadbackupandrestore
 azureadconnect
 azureadgraph
 azureadtoolkit
@@ -1052,6 +1052,7 @@ chef-compliance
 chef-server
 chefconf2016
 chenxizhang
+cherrypy
 cherwell
 chfs
 chi
@@ -1350,7 +1351,6 @@ connectedmachine
 connectednetwork
 connectexchange
 connection
-connectionmonitor
 connections
 connectionsmanager
 connectionstring
@@ -1395,6 +1395,7 @@ conversational
 conversion
 convert
 convert-dtexceptiontomessage
+convert-movietogif
 convert-sid
 convert-windowsimage
 converter
@@ -1599,7 +1600,6 @@ dagger
 daily
 dangling
 dapr
-dare
 dark
 darwin
 dash
@@ -1831,7 +1831,6 @@ directrouting
 direnv
 dirkjan
 dirname
-dirsync
 disa
 disable
 disable-internet
@@ -1844,6 +1843,7 @@ disasterrecovery
 disconnect
 discord
 discordrpc
+discount
 discover
 discovery
 discutils
@@ -1892,6 +1892,7 @@ dnd
 dnf
 dns
 dns-01
+dns-administration
 dns-async
 dns-client
 dns-over-https
@@ -1899,12 +1900,14 @@ dns-resolver
 dnsbl
 dnsclient
 dnsdumpster
+dnsentry
 dnsimple
 dnslookup
 dnsmadeeasy
 dnsoverhttps
 dnsrecord
 dnsresolver
+dnsserver
 dnssuffix
 dnvm
 doc
@@ -2069,6 +2072,7 @@ easylife365
 easyvista
 eaton
 ebay
+ebooks
 ebur128
 ec2
 ecommerce
@@ -2212,6 +2216,7 @@ esp32s2
 espressif
 esri
 essbase
+estimate
 estimation
 esx
 esxi
@@ -2245,7 +2250,6 @@ eventlogchannel
 eventlogchannels
 eventlogmanifest
 eventlogs
-eventmonitor
 eventmonitoring
 eventprocessor
 events
@@ -2297,7 +2301,6 @@ exists
 exitcode
 exitprocessrequest
 exo
-exock
 exov2
 exov3
 exp
@@ -2797,9 +2800,9 @@ graylog
 greenplum
 gremlin
 grep
-greynoise
 grid
 gridfs
+grok
 groundspeak
 group
 group-membership
@@ -2837,6 +2840,7 @@ hack
 hacking
 hacktoberfest
 hadoop
+hafr
 hailstone
 haipa
 halo
@@ -3088,7 +3092,6 @@ identity-management
 identitydataplane
 identitydirector
 identitydomains
-identitynow
 idf
 idm
 idna
@@ -3859,7 +3862,6 @@ mdatp
 mdb
 mdbc
 mde
-mdep
 mdm
 mdop
 mdt
@@ -4017,6 +4019,7 @@ moldova
 moment
 monaco
 monday
+mondoo
 money
 moneyforward
 mongo
@@ -4696,6 +4699,7 @@ permissions
 permutations
 persistence
 persistent
+personal
 personalisation
 personalization
 personalvault
@@ -4743,7 +4747,6 @@ pipelines
 pipenv
 pipescript
 piraeus
-pivot
 pivotal
 pivottable
 pixoo
@@ -4843,6 +4846,7 @@ poshy-code-search
 poshy-colors
 poshy-coreutils-ish
 poshy-dir-nav
+poshy-ecks
 poshy-env-proxy
 poshy-env-var
 poshy-ls-isms
@@ -5083,6 +5087,7 @@ provance
 proverb
 provider
 providerhub
+provision
 provisioning
 provisioningpackage
 provisonedpackage
@@ -5104,6 +5109,7 @@ ps.credentialmanager
 ps1
 ps1xml
 ps1xmlgen
+ps2dll
 ps2exe
 ps3
 ps4
@@ -6859,6 +6865,8 @@ pscommand_write-gitcommitgpgsignedbykey
 pscommand_write-gitcommithelpfullyverbose
 pscommand_write-gitcommitinteractively
 pscommand_write-gitcommitsignedoff
+pscommand_xin
+pscommand_xwith
 pscommand_yc
 pscommand_ygi
 pscommand_ygl
@@ -7999,6 +8007,8 @@ psfunction_write-gitcommitgpgsignedbykey
 psfunction_write-gitcommithelpfullyverbose
 psfunction_write-gitcommitinteractively
 psfunction_write-gitcommitsignedoff
+psfunction_xin
+psfunction_xwith
 psgallery
 psget
 psgitlab
@@ -8097,6 +8107,7 @@ publicip
 publish
 publishedmodules
 publisher
+publishers
 publishing
 pubsub
 pubxml
@@ -8138,6 +8149,7 @@ pxedistributionpoint
 pyenv
 pygmentize
 pylint
+pyranja
 python
 python-for-dotnet
 python3
@@ -8418,6 +8430,7 @@ resources
 resourcesearch
 response
 rest
+rest_cherrypy
 rest-api
 restapi
 restart
@@ -8478,8 +8491,9 @@ roca
 rock
 rocket
 rocketcyber
+roco
+rocolatey
 role
-roles
 rollingfile
 romaji
 ropc
@@ -8551,10 +8565,12 @@ safe
 safeguard
 sage
 saggiehaim
-sailpoint
+sale
 sales
 salesforce
 salesloft
+salt
+salt-api
 saltstack
 saltstackconfig
 saltstackenterprise
@@ -8853,7 +8869,6 @@ shadow
 shadowcopy
 shadowcopybackups
 shadowgroups
-shanghaitech
 shard
 share
 share-permission
@@ -9120,11 +9135,9 @@ sqlclient
 sqlcmd
 sqlcodeguard
 sqldatabase
-sqldb
 sqldbatools
 sqldiagapi
 sqlexport
-sqlgateway
 sqlite
 sqlitebynarymodule
 sqlitebynarypsmodule
@@ -9148,7 +9161,6 @@ squire
 srcds
 srcsrv
 srm
-srylius-write
 ssas
 ssdt
 sse
@@ -9652,7 +9664,6 @@ treesize
 treffynnon
 trein
 trello
-trellops
 trend-micro
 trendmicro
 trevor
@@ -10004,7 +10015,6 @@ virtualenvironment
 virtualenvwrapper
 virtualization
 virtualmachine
-virtualmachinemonitor
 virtualmachines
 virtualmachne
 virtualnetwork
@@ -10447,6 +10457,7 @@ xevents
 xh
 xi
 xiaomi
+xin
 xkcd
 xliff
 xlsx
@@ -10472,6 +10483,7 @@ xtrude
 xunit
 xwiki
 xwindowsupdate
+xwith
 yahoo
 yahw
 yamaha
@@ -10483,6 +10495,7 @@ yetanotherhelloworld
 yml
 ynab
 youtube
+youtube-dl
 youtubeextractor
 yq
 yubaba
