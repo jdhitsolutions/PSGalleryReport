@@ -3,6 +3,38 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [Generate-DockerImageVariantsHelpers](https://www.powershellgallery.com/Packages/Generate-DockerImageVariantsHelpers/0.12.0) | 0.12.0
+
+### Published: 09/11/2023 01:52:03 by The Oh Brothers
+
+Helpers to use with Generate-DockerImageVariants.
+
+__Downloads__: 0 | __Repository__: https://github.com/theohbrothers/Generate-DockerImageVariantsHelpers
+
+## [BruhArmy](https://www.powershellgallery.com/Packages/BruhArmy/1.5.0) | 1.5.0
+
+### Published: 09/10/2023 23:29:51 by Evan Deters
+
+This module includes several commands that help with the deployment of virtual environments on vSphere.
+
+__Downloads__: 109 | __Repository__: https://github.com/evanjd711/bruharmy
+
+## [Posh](https://www.powershellgallery.com/Packages/Posh/0.1.8) | 0.1.8
+
+### Published: 09/10/2023 22:40:31 by James Brundage
+
+PowerShell made Posh - Spice up Your Shell
+
+__Downloads__: 250 | __Repository__: https://github.com/StartAutomating/Posh
+
+## [Altazion.Shell](https://www.powershellgallery.com/Packages/Altazion.Shell/23.809.19) | 23.809.19
+
+### Published: 09/10/2023 19:22:29 by Altazion
+
+Module for local admininistration of an Altazion Device Shell
+
+__Downloads__: 8 | __Repository__: https://www.altazion.com/
+
 ## [tiPS](https://www.powershellgallery.com/Packages/tiPS/0.0.47) | 0.0.47
 
 ### Published: 09/10/2023 17:10:34 by Daniel Schroeder
@@ -48,14 +80,6 @@ A module to create the base module structure.
 
 __Downloads__: 11 | __Repository__: 
 
-## [Generate-DockerImageVariantsHelpers](https://www.powershellgallery.com/Packages/Generate-DockerImageVariantsHelpers/0.7.1) | 0.7.1
-
-### Published: 09/10/2023 08:48:55 by The Oh Brothers
-
-Helpers to use with Generate-DockerImageVariants.
-
-__Downloads__: 0 | __Repository__: https://github.com/theohbrothers/Generate-DockerImageVariantsHelpers
-
 ## [AppVeyorTestPsGallery](https://www.powershellgallery.com/Packages/AppVeyorTestPsGallery/1.0.514) | 1.0.514
 
 ### Published: 09/10/2023 03:33:57 by Feodor Fitsner
@@ -87,14 +111,6 @@ __Downloads__: 288 | __Repository__: https://github.com/FranciscoNabas/WindowsUt
 PowerShell module for Azure Container services
 
 __Downloads__: 0 | __Repository__: https://github.com/Cyb3rWard0g/PwshAzContainer
-
-## [BruhArmy](https://www.powershellgallery.com/Packages/BruhArmy/1.3.3) | 1.3.3
-
-### Published: 09/09/2023 18:55:29 by Evan Deters
-
-This module includes several commands that help with the deployment of virtual environments on vSphere.
-
-__Downloads__: 109 | __Repository__: https://github.com/evanjd711/bruharmy
 
 ## [Brownserve.PSTools](https://www.powershellgallery.com/Packages/Brownserve.PSTools/0.16.0) | 0.16.0
 
@@ -2470,24 +2486,4 @@ This version of AWS Tools for PowerShell is compatible with Windows PowerShell 5
 
 __Downloads__: 14,900 | __Repository__: https://github.com/aws/aws-tools-for-powershell
 
-## [AWS.Tools.DynamoDBv2](https://www.powershellgallery.com/Packages/AWS.Tools.DynamoDBv2/4.1.411) | 4.1.411
-
-### Published: 09/08/2023 23:18:39 by Amazon.com Inc
-
-The DynamoDBv2 module of AWS Tools for PowerShell lets developers and administrators manage Amazon DynamoDB from the PowerShell scripting environment. In order to manage each AWS service, install the corresponding module (e.g. AWS.Tools.EC2, AWS.Tools.S3...).
-The module AWS.Tools.Installer (https://www.powershellgallery.com/packages/AWS.Tools.Installer/) makes it easier to install, update and uninstall the AWS.Tools modules.
-This version of AWS Tools for PowerShell is compatible with Windows PowerShell 5.1+ and PowerShell Core 6+ on Windows, Linux and macOS. When running on Windows PowerShell, .NET Framework 4.7.2 or newer is required. Alternative modules AWSPowerShell.NetCore and AWSPowerShell, provide support for all AWS services from a single module and also support older versions of Windows PowerShell and .NET Framework.
-
-__Downloads__: 112,341 | __Repository__: https://github.com/aws/aws-tools-for-powershell
-
-## [AWS.Tools.Drs](https://www.powershellgallery.com/Packages/AWS.Tools.Drs/4.1.411) | 4.1.411
-
-### Published: 09/08/2023 23:18:32 by Amazon.com Inc
-
-The Drs module of AWS Tools for PowerShell lets developers and administrators manage Elastic Disaster Recovery Service from the PowerShell scripting environment. In order to manage each AWS service, install the corresponding module (e.g. AWS.Tools.EC2, AWS.Tools.S3...).
-The module AWS.Tools.Installer (https://www.powershellgallery.com/packages/AWS.Tools.Installer/) makes it easier to install, update and uninstall the AWS.Tools modules.
-This version of AWS Tools for PowerShell is compatible with Windows PowerShell 5.1+ and PowerShell Core 6+ on Windows, Linux and macOS. When running on Windows PowerShell, .NET Framework 4.7.2 or newer is required. Alternative modules AWSPowerShell.NetCore and AWSPowerShell, provide support for all AWS services from a single module and also support older versions of Windows PowerShell and .NET Framework.
-
-__Downloads__: 5,240 | __Repository__: https://github.com/aws/aws-tools-for-powershell
-
-*Updated: Sunday, 10 September 2023 17:52:36 UTC*
+*Updated: Monday, 11 September 2023 02:02:24 UTC*

@@ -3,6 +3,38 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [Generate-DockerImageVariantsHelpers](https://www.powershellgallery.com/Packages/Generate-DockerImageVariantsHelpers/0.12.0) | 0.12.0
+
+### Published: 09/11/2023 01:52:03 by The Oh Brothers
+
+Helpers to use with Generate-DockerImageVariants.
+
+__Downloads__: 0 | __Repository__: https://github.com/theohbrothers/Generate-DockerImageVariantsHelpers
+
+## [BruhArmy](https://www.powershellgallery.com/Packages/BruhArmy/1.5.0) | 1.5.0
+
+### Published: 09/10/2023 23:29:51 by Evan Deters
+
+This module includes several commands that help with the deployment of virtual environments on vSphere.
+
+__Downloads__: 109 | __Repository__: https://github.com/evanjd711/bruharmy
+
+## [Posh](https://www.powershellgallery.com/Packages/Posh/0.1.8) | 0.1.8
+
+### Published: 09/10/2023 22:40:31 by James Brundage
+
+PowerShell made Posh - Spice up Your Shell
+
+__Downloads__: 250 | __Repository__: https://github.com/StartAutomating/Posh
+
+## [Altazion.Shell](https://www.powershellgallery.com/Packages/Altazion.Shell/23.809.19) | 23.809.19
+
+### Published: 09/10/2023 19:22:29 by Altazion
+
+Module for local admininistration of an Altazion Device Shell
+
+__Downloads__: 8 | __Repository__: https://www.altazion.com/
+
 ## [tiPS](https://www.powershellgallery.com/Packages/tiPS/0.0.47) | 0.0.47
 
 ### Published: 09/10/2023 17:10:34 by Daniel Schroeder
@@ -48,14 +80,6 @@ A module to create the base module structure.
 
 __Downloads__: 11 | __Repository__: 
 
-## [Generate-DockerImageVariantsHelpers](https://www.powershellgallery.com/Packages/Generate-DockerImageVariantsHelpers/0.7.1) | 0.7.1
-
-### Published: 09/10/2023 08:48:55 by The Oh Brothers
-
-Helpers to use with Generate-DockerImageVariants.
-
-__Downloads__: 0 | __Repository__: https://github.com/theohbrothers/Generate-DockerImageVariantsHelpers
-
 ## [AppVeyorTestPsGallery](https://www.powershellgallery.com/Packages/AppVeyorTestPsGallery/1.0.514) | 1.0.514
 
 ### Published: 09/10/2023 03:33:57 by Feodor Fitsner
@@ -88,14 +112,6 @@ PowerShell module for Azure Container services
 
 __Downloads__: 0 | __Repository__: https://github.com/Cyb3rWard0g/PwshAzContainer
 
-## [BruhArmy](https://www.powershellgallery.com/Packages/BruhArmy/1.3.3) | 1.3.3
-
-### Published: 09/09/2023 18:55:29 by Evan Deters
-
-This module includes several commands that help with the deployment of virtual environments on vSphere.
-
-__Downloads__: 109 | __Repository__: https://github.com/evanjd711/bruharmy
-
 ## [Brownserve.PSTools](https://www.powershellgallery.com/Packages/Brownserve.PSTools/0.16.0) | 0.16.0
 
 ### Published: 09/09/2023 09:44:10 by Brownserve UK
@@ -120,13 +136,13 @@ Collection of Posix tools wrappers.
 
 __Downloads__: 1,435 | __Repository__: https://github.com/Azure/nxtools/
 
-## [Altazion.Shell](https://www.powershellgallery.com/Packages/Altazion.Shell/23.807.21) | 23.807.21
+## [PSSymantecCloud](https://www.powershellgallery.com/Packages/PSSymantecCloud/0.76.0) | 0.76.0
 
-### Published: 09/08/2023 21:13:19 by Altazion
+### Published: 09/08/2023 20:59:42 by Aurélien BOUMANNE
 
-Module for local admininistration of an Altazion Device Shell
+Common set of tools to interact with Symantec/Broadcom API for SEP Cloud
 
-__Downloads__: 8 | __Repository__: https://www.altazion.com/
+__Downloads__: 51 | __Repository__: https://github.com/Douda/PSSymantecCloud
 
 ## [TcPrjMgmt](https://www.powershellgallery.com/Packages/TcPrjMgmt/0.2.0) | 0.2.0
 
@@ -305,14 +321,6 @@ __Downloads__: 1,239,013 | __Repository__: https://github.com/loxia01/PSInternet
 💎 If you have any questions, requests, suggestions etc. about this module, please open a new Discussion or Issue on GitHub
 
 __Downloads__: 596 | __Repository__: https://github.com/HotCakeX/Harden-Windows-Security
-
-## [OGraph](https://www.powershellgallery.com/Packages/OGraph/0.0.1.10) | 0.0.1.10
-
-### Published: 09/07/2023 20:48:58 by Ben Pulido Mike Campbell
-
-PowerShell functions for administration of Microsoft 365 services using Graph endpoints
-
-__Downloads__: 58 | __Repository__: https://github.com/themodulecollective/OGraph
 
 ## [WebKitDev](https://www.powershellgallery.com/Packages/WebKitDev/0.5.2) | 0.5.2
 
@@ -517,14 +525,6 @@ __Downloads__: 190 | __Repository__:
 PowerShell commands for ansible vault file generation and transformation.
 
 __Downloads__: 0 | __Repository__: 
-
-## [Posh](https://www.powershellgallery.com/Packages/Posh/0.1.7) | 0.1.7
-
-### Published: 09/07/2023 02:01:38 by James Brundage
-
-PowerShell made Posh - Spice up Your Shell
-
-__Downloads__: 250 | __Repository__: https://github.com/StartAutomating/Posh
 
 ## [FC_Core](https://www.powershellgallery.com/Packages/FC_Core/5.4.1) | 5.4.1
 
@@ -2085,14 +2085,6 @@ NTS.Tools module contains tools for ConfigMgr and course deployment
 
 __Downloads__: 1,431 | __Repository__: 
 
-## [NTS.Tools.MSSQL](https://www.powershellgallery.com/Packages/NTS.Tools.MSSQL/1.1.0.7) | 1.1.0.7
-
-### Published: 09/04/2023 09:59:06 by Moritz Wiedmann
-
-NTS.Tools.MSSQL module contains functions that are mainly related to Microsoft SQL Server
-
-__Downloads__: 1,362 | __Repository__: 
-
 ## [NTS.Tools.MSHyperV](https://www.powershellgallery.com/Packages/NTS.Tools.MSHyperV/1.1.0.7) | 1.1.0.7
 
 ### Published: 09/04/2023 09:58:24 by Moritz Wiedmann
@@ -2125,4 +2117,12 @@ NTS.Tools.MSADDS module contains functions that are mainly related to Microsoft 
 
 __Downloads__: 1,342 | __Repository__: 
 
-*Updated: Sunday, 10 September 2023 17:52:38 UTC*
+## [NTS.Tools.MSADCS](https://www.powershellgallery.com/Packages/NTS.Tools.MSADCS/1.1.0.7) | 1.1.0.7
+
+### Published: 09/04/2023 09:57:47 by Moritz Wiedmann
+
+NTS.Tools.MSADCS module contains functions that are mainly related to Microsoft Active Directory Certification Services
+
+__Downloads__: 1,358 | __Repository__: 
+
+*Updated: Monday, 11 September 2023 02:02:27 UTC*
