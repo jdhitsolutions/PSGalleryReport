@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 11 September 2023 17:52:50 UTC
+Updated: Tuesday, 12 September 2023 02:01:37 UTC
 
 .bat
 .env
@@ -557,7 +557,6 @@ autounattend
 autoupdate
 autoupdate-script
 autoyast
-availability
 availabilityset
 avalara
 avalonia
@@ -582,7 +581,6 @@ aws-lambda
 aws-vault
 awscli
 awspricelist
-axapta
 axinom
 axis
 axium
@@ -605,6 +603,7 @@ azpublicipaddress
 azresources
 azsdk
 azsk
+azsql
 azstackhci
 azstate
 azsubnet
@@ -851,7 +850,6 @@ branch
 brave
 brawlapi
 brawlstars
-brazencloud
 bre
 breach
 break
@@ -1351,6 +1349,7 @@ connectedmachine
 connectednetwork
 connectexchange
 connection
+connectionmonitor
 connections
 connectionsmanager
 connectionstring
@@ -1600,6 +1599,7 @@ dagger
 daily
 dangling
 dapr
+dare
 dark
 darwin
 dash
@@ -1809,7 +1809,6 @@ dictionary
 diff
 difference
 dig
-digikam
 digital
 digital-forensics
 digitalforensics
@@ -2057,7 +2056,6 @@ dynamics365ce
 dynamics365fo
 dynamics365sales
 dynamics365server
-dynamicsax
 dynamicsecuritygroups
 dynamicsnav
 dynamodb
@@ -2250,6 +2248,7 @@ eventlogchannel
 eventlogchannels
 eventlogmanifest
 eventlogs
+eventmonitor
 eventmonitoring
 eventprocessor
 events
@@ -2296,11 +2295,11 @@ executables
 execute
 exexml
 exif
-exiftool
 exists
 exitcode
 exitprocessrequest
 exo
+exock
 exov2
 exov3
 exp
@@ -2800,6 +2799,7 @@ graylog
 greenplum
 gremlin
 grep
+greynoise
 grid
 gridfs
 grok
@@ -3092,6 +3092,7 @@ identity-management
 identitydataplane
 identitydirector
 identitydomains
+identitynow
 idf
 idm
 idna
@@ -3150,7 +3151,6 @@ import-dtdriverpackpackagedefinitionsms
 import-modulefrompath
 import-passlist
 import-sampackagedefinitionsms
-importer
 importexport
 importteams
 inactive
@@ -3366,7 +3366,6 @@ jea
 jenkins
 jetbrains
 jira
-jiraservicemanagement
 jitbit
 jms
 jnet
@@ -3387,8 +3386,6 @@ joyride
 jpg
 jq
 js7
-jsm
-jsm.insight
 json
 json-converter
 json-transform
@@ -3556,7 +3553,6 @@ lease
 leetabit
 leftjoin
 legacy
-legacyad
 legends
 lego
 lein
@@ -3862,6 +3858,7 @@ mdatp
 mdb
 mdbc
 mde
+mdep
 mdm
 mdop
 mdt
@@ -4747,6 +4744,7 @@ pipelines
 pipenv
 pipescript
 piraeus
+pivot
 pivotal
 pivottable
 pixoo
@@ -8494,6 +8492,7 @@ rocketcyber
 roco
 rocolatey
 role
+roles
 rollingfile
 romaji
 ropc
@@ -8565,6 +8564,7 @@ safe
 safeguard
 sage
 saggiehaim
+sailpoint
 sale
 sales
 salesforce
@@ -8648,7 +8648,6 @@ scouterna
 scouternasetjanster
 scoutnet
 scp
-scrap
 scrape
 scraper
 screen
@@ -8869,6 +8868,7 @@ shadow
 shadowcopy
 shadowcopybackups
 shadowgroups
+shanghaitech
 shard
 share
 share-permission
@@ -9035,6 +9035,7 @@ sodium
 software
 softwarecenter
 softwaredistributioncomponent
+softwaregeneration
 softwaremanagement
 softwarepackagedataexchange
 softwareupdatepoint
@@ -9102,7 +9103,6 @@ spellcheck
 spelling
 spf
 spi
-spicetify
 spinnaker
 splash
 splat
@@ -9135,9 +9135,11 @@ sqlclient
 sqlcmd
 sqlcodeguard
 sqldatabase
+sqldb
 sqldbatools
 sqldiagapi
 sqlexport
+sqlgateway
 sqlite
 sqlitebynarymodule
 sqlitebynarypsmodule
@@ -9161,7 +9163,9 @@ squire
 srcds
 srcsrv
 srm
+srylius-write
 ssas
+ssc
 ssdt
 sse
 ssh
@@ -9329,7 +9333,6 @@ suspensive
 svesavov
 svetoslav
 svg
-svn
 svt
 swagger
 swamid
@@ -9352,6 +9355,7 @@ symmetric
 synapse
 sync
 synchronization
+synchronize
 syndication
 synergy
 syntax
@@ -9664,6 +9668,7 @@ treesize
 treffynnon
 trein
 trello
+trellops
 trend-micro
 trendmicro
 trevor
@@ -9789,6 +9794,7 @@ ud-tool
 ud-toploader
 ud-trendline
 ud-typing
+ud-window
 ud-wordtree
 udcm
 udfeedback
@@ -9936,7 +9942,6 @@ validator
 value
 valve
 vami
-vao
 variable
 variables
 variance
@@ -10015,6 +10020,7 @@ virtualenvironment
 virtualenvwrapper
 virtualization
 virtualmachine
+virtualmachinemonitor
 virtualmachines
 virtualmachne
 virtualnetwork
@@ -10416,7 +10422,6 @@ wsl
 wsl2
 wsman
 wsmanlistener
-wso2
 wsus
 wt
 wtsapi32
@@ -10473,7 +10478,6 @@ xor
 xpath
 xpendingreboot
 xpertdoc
-xpo
 xprotect
 xpt
 xrm
