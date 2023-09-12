@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Tuesday, 12 September 2023 02:01:37 UTC
+Updated: Tuesday, 12 September 2023 09:53:05 UTC
 
 .bat
 .env
@@ -270,7 +270,6 @@ alias-hint
 alias-tips
 aliases
 aliens
-all
 alletra
 alloydb
 alm
@@ -332,7 +331,6 @@ ansiblecontrolnode
 antimalwarescaninterface
 antispam
 antivirus
-any
 anyconnect
 anypackage
 anypoint
@@ -557,6 +555,7 @@ autounattend
 autoupdate
 autoupdate-script
 autoyast
+availability
 availabilityset
 avalara
 avalonia
@@ -581,6 +580,7 @@ aws-lambda
 aws-vault
 awscli
 awspricelist
+axapta
 axinom
 axis
 axium
@@ -607,6 +607,7 @@ azsql
 azstackhci
 azstate
 azsubnet
+aztools
 azts
 azuead
 azure
@@ -831,7 +832,6 @@ book
 bookmark
 bookmarks
 books
-bool
 bootloader psmodule
 bootstrap
 bootstrapping
@@ -842,7 +842,6 @@ botservice
 bouncer
 boundaries
 boundarygroups
-bounty
 box
 bpmn
 brainy
@@ -850,6 +849,7 @@ branch
 brave
 brawlapi
 brawlstars
+brazencloud
 bre
 breach
 break
@@ -876,7 +876,6 @@ bson
 btdf
 btm
 budget
-bugbounty
 bugzilla
 build
 build-log
@@ -1313,7 +1312,6 @@ concur
 concurrency
 concurrent
 conda
-condition
 conditionalaccess
 conduit
 conference
@@ -1409,7 +1407,6 @@ converttohtml
 converttomarkdown
 converttomd
 cookie
-coolq
 cooltag1
 cooltag2
 coordinates
@@ -1455,10 +1452,8 @@ cppm
 cpu
 cpuid
 cpuid-information
-cq
 cqd
 cqdpowershell
-cqhttp
 crack psmodule
 crash
 crayon
@@ -1809,6 +1804,7 @@ dictionary
 diff
 difference
 dig
+digikam
 digital
 digital-forensics
 digitalforensics
@@ -2056,6 +2052,7 @@ dynamics365ce
 dynamics365fo
 dynamics365sales
 dynamics365server
+dynamicsax
 dynamicsecuritygroups
 dynamicsnav
 dynamodb
@@ -2168,7 +2165,6 @@ entra
 entraid
 entropy
 enum
-enumerable
 env
 environment
 environment-variables
@@ -2295,6 +2291,7 @@ executables
 execute
 exexml
 exif
+exiftool
 exists
 exitcode
 exitprocessrequest
@@ -2391,7 +2388,6 @@ fhirservice
 fiche
 fiddler
 fido
-fido2
 fieldglass
 fifa
 figlet
@@ -2547,7 +2543,6 @@ fortune
 forum
 forwardcompatibility
 forwardedevents
-foudil
 fox
 foxpro
 fqdn
@@ -2872,7 +2867,6 @@ harvestforecast
 hash
 hashcat
 hashicorp
-hashset
 hashtable
 hasicorp
 haskell
@@ -3151,6 +3145,7 @@ import-dtdriverpackpackagedefinitionsms
 import-modulefrompath
 import-passlist
 import-sampackagedefinitionsms
+importer
 importexport
 importteams
 inactive
@@ -3366,6 +3361,7 @@ jea
 jenkins
 jetbrains
 jira
+jiraservicemanagement
 jitbit
 jms
 jnet
@@ -3386,6 +3382,8 @@ joyride
 jpg
 jq
 js7
+jsm
+jsm.insight
 json
 json-converter
 json-transform
@@ -3553,6 +3551,7 @@ lease
 leetabit
 leftjoin
 legacy
+legacyad
 legends
 lego
 lein
@@ -3781,7 +3780,6 @@ manageability
 managed-identity
 manageddisks
 managedidentities
-managedserviceidenity
 managedserviceidentity
 managedserviceprovider
 managedserviceproviders
@@ -3906,7 +3904,6 @@ messaging
 messenger
 met
 metadata
-metadataservice
 metaprogramming
 method
 methodinfo
@@ -4000,7 +3997,6 @@ mobilitycontroller
 mock
 mocking
 model
-modify
 module
 module-maintenance
 modulebuild
@@ -4466,7 +4462,6 @@ opendata
 openedge
 openfiles
 openhere
-openid
 openidconnect
 openinghours
 openport
@@ -4987,7 +4982,6 @@ pptp
 pptx
 pq
 pranks
-predicate
 prediction
 predictive
 predictive-text
@@ -8168,7 +8162,6 @@ qlogicfcpowerkit
 qlogicfcprovider
 qna
 qol
-qq
 qr
 qrcode
 qrcodes
@@ -8459,7 +8452,6 @@ rfc4266
 rfc4291
 rfc5952
 rfc826
-rfc9116
 rg
 rgb
 rhapsody
@@ -8538,6 +8530,7 @@ runas
 runbook
 runbooks
 runbookstudio
+runcommand
 rundeck
 runner
 runspace
@@ -8648,6 +8641,7 @@ scouterna
 scouternasetjanster
 scoutnet
 scp
+scrap
 scrape
 scraper
 screen
@@ -8724,8 +8718,6 @@ security
 security-awareness-training
 security-policy
 security-score
-security-txt
-security.txt
 securityassertionmarkuplanguage
 securitycenter
 securitycompliancecenter
@@ -8736,7 +8728,6 @@ securityoptions
 securitypolicydsc
 securityroles
 securityscopes
-securitytxt
 sed
 seed
 seek
@@ -9103,6 +9094,7 @@ spellcheck
 spelling
 spf
 spi
+spicetify
 spinnaker
 splash
 splat
@@ -9247,7 +9239,6 @@ stockcharts
 stocks
 stoicism
 stoics
-stop
 storablecolortheme
 storage
 storageaccount
@@ -9265,8 +9256,6 @@ streak
 stream
 streamanalytics
 streaming
-streamreader
-streamwriter
 stretch
 strictmode
 strikethrough-text
@@ -9333,11 +9322,11 @@ suspensive
 svesavov
 svetoslav
 svg
+svn
 svt
 swagger
 swamid
 swarm
-swedish
 swimlane
 swis
 switch
@@ -9597,7 +9586,6 @@ tobias
 toc
 todo
 todo.txt
-toggl
 toggle
 token
 tokenlifetime
@@ -9745,7 +9733,6 @@ ucspowertool
 ud-avataaar
 ud-badgebutton
 ud-badgelink
-ud-breadcrumb
 ud-breadcrumbitem
 ud-burger
 ud-button
@@ -9942,6 +9929,7 @@ validator
 value
 valve
 vami
+vao
 variable
 variables
 variance
@@ -10224,13 +10212,11 @@ whatismyip
 whatsnew
 whatsupgold
 whd
-where
 whfb
 whiteboard
 whitespace
 whoami
 whois
-whormi
 wi-fi
 wia
 wia.imagefile
@@ -10422,6 +10408,7 @@ wsl
 wsl2
 wsman
 wsmanlistener
+wso2
 wsus
 wt
 wtsapi32
@@ -10478,6 +10465,7 @@ xor
 xpath
 xpendingreboot
 xpertdoc
+xpo
 xprotect
 xpt
 xrm

@@ -3,6 +3,46 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [ConventionalCommits](https://www.powershellgallery.com/Packages/ConventionalCommits/0.2.1) | 0.2.1
+
+### Published: 09/12/2023 09:31:06 by Arwyn
+
+A powerhsell module dedicated to parsing conventional commits messages
+
+__Downloads__: 239 | __Repository__: https://github.com/ArwynFr/pwsh-ConventionalCommits
+
+## [PsDownload](https://www.powershellgallery.com/Packages/PsDownload/0.1.1) | 0.1.1
+
+### Published: 09/12/2023 08:18:42 by Dan Gough
+
+A PowerShell module for downloading files.
+
+__Downloads__: 2 | __Repository__: https://github.com/DanGough/PsDownload
+
+## [AppVeyorTestPsGallery](https://www.powershellgallery.com/Packages/AppVeyorTestPsGallery/1.0.515) | 1.0.515
+
+### Published: 09/12/2023 04:53:22 by Feodor Fitsner
+
+The test module to verify publishing to PSGallery from AppVeyor.
+
+__Downloads__: 40,069 | __Repository__: 
+
+## [aztools](https://www.powershellgallery.com/Packages/aztools/1.0.0) | 1.0.0
+
+### Published: 09/12/2023 02:43:17 by Skatterbrainz
+
+Azure PowerShell Tools
+
+__Downloads__: 236 | __Repository__: https://github.com/Skatterbrainz/aztools
+
+## [tiPS](https://www.powershellgallery.com/Packages/tiPS/0.0.50) | 0.0.50
+
+### Published: 09/12/2023 02:39:02 by Daniel Schroeder
+
+PowerShell tips delivered straight to your terminal.
+
+__Downloads__: 345 | __Repository__: https://github.com/deadlydog/PowerShell.tiPS
+
 ## [NtObjectManager](https://www.powershellgallery.com/Packages/NtObjectManager/2.0.0) | 2.0.0
 
 ### Published: 09/12/2023 01:48:29 by James Forshaw
@@ -149,14 +189,6 @@ Update all HP device drivers with a single command.
 
 __Downloads__: 12,730 | __Repository__: https://github.com/UsefulScripts01/HPDrivers
 
-## [PsDownload](https://www.powershellgallery.com/Packages/PsDownload/0.1.0) | 0.1.0
-
-### Published: 09/11/2023 08:47:04 by Dan Gough
-
-A PowerShell module for downloading files.
-
-__Downloads__: 2 | __Repository__: https://github.com/DanGough/PsDownload
-
 ## [CoreePower.Net](https://www.powershellgallery.com/Packages/CoreePower.Net/0.0.14) | 0.0.14
 
 ### Published: 09/11/2023 08:44:20 by Carsten Riedel
@@ -229,14 +261,6 @@ Module for local admininistration of an Altazion Device Shell
 
 __Downloads__: 13 | __Repository__: https://www.altazion.com/
 
-## [tiPS](https://www.powershellgallery.com/Packages/tiPS/0.0.47) | 0.0.47
-
-### Published: 09/10/2023 17:10:34 by Daniel Schroeder
-
-PowerShell tips delivered straight to your terminal.
-
-__Downloads__: 345 | __Repository__: https://github.com/deadlydog/PowerShell.tiPS
-
 ## [code365scripts.openai](https://www.powershellgallery.com/Packages/code365scripts.openai/1.1.0.7) | 1.1.0.7
 
 ### Published: 09/10/2023 13:44:03 by chenxizhang
@@ -265,14 +289,6 @@ __Downloads__: 54,459 | __Repository__: https://github.com/chenxizhang/openai-po
 A module to create the base module structure.
 
 __Downloads__: 29 | __Repository__: 
-
-## [AppVeyorTestPsGallery](https://www.powershellgallery.com/Packages/AppVeyorTestPsGallery/1.0.514) | 1.0.514
-
-### Published: 09/10/2023 03:33:57 by Feodor Fitsner
-
-The test module to verify publishing to PSGallery from AppVeyor.
-
-__Downloads__: 40,069 | __Repository__: 
 
 ## [PSADTree](https://www.powershellgallery.com/Packages/PSADTree/1.1.2) | 1.1.2
 
@@ -2092,20 +2108,4 @@ Get or Set the value of HKLM:\Software\WOW6432Node\Visma\Visma Business\CurrentV
 
 __Downloads__: 4 | __Repository__: 
 
-## [DscConfig.M365](https://www.powershellgallery.com/Packages/DscConfig.M365/0.2.3) | 0.2.3
-
-### Published: 09/05/2023 09:57:29 by DSC Community
-
-DSC composite resource for https://github.com/dsccommunity/DscWorkshop
-
-__Downloads__: 415 | __Repository__: https://github.com/dsccommunity/DscConfig.M365
-
-## [PSSymantecSEPM](https://www.powershellgallery.com/Packages/PSSymantecSEPM/0.2.2) | 0.2.2
-
-### Published: 09/05/2023 08:20:39 by Aurélien BOUMANNE
-
-Common set of tools to interact with Symantec Endpoint Protection Manager (SEPM) product
-
-__Downloads__: 4 | __Repository__: https://github.com/Douda/PSSymantecSEPM
-
-*Updated: Tuesday, 12 September 2023 02:01:24 UTC*
+*Updated: Tuesday, 12 September 2023 09:52:52 UTC*
