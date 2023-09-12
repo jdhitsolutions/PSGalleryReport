@@ -3,13 +3,298 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
-## [ConventionalCommits](https://www.powershellgallery.com/Packages/ConventionalCommits/0.2.1) | 0.2.1
+## [tiPS](https://www.powershellgallery.com/Packages/tiPS/0.0.54) | 0.0.54
 
-### Published: 09/12/2023 09:31:06 by Arwyn
+### Published: 09/12/2023 17:35:13 by Daniel Schroeder
+
+PowerShell tips delivered straight to your terminal.
+
+__Downloads__: 345 | __Repository__: https://github.com/deadlydog/PowerShell.tiPS
+
+## [UncommonSense.Volkskrant](https://www.powershellgallery.com/Packages/UncommonSense.Volkskrant/0.0.44.0) | 0.0.44.0
+
+### Published: 09/12/2023 15:32:47 by Jan Hoek
+
+PowerShell module for listing Volkskrant articles
+
+__Downloads__: 3,265 | __Repository__: https://github.com/jhoek/UncommonSense.Volkskrant
+
+## [ConventionalCommits](https://www.powershellgallery.com/Packages/ConventionalCommits/0.2.2) | 0.2.2
+
+### Published: 09/12/2023 15:14:28 by Arwyn
 
 A powerhsell module dedicated to parsing conventional commits messages
 
 __Downloads__: 239 | __Repository__: https://github.com/ArwynFr/pwsh-ConventionalCommits
+
+## [ConventionalVersioning](https://www.powershellgallery.com/Packages/ConventionalVersioning/0.1.5) | 0.1.5
+
+### Published: 09/12/2023 15:13:54 by Arwyn
+
+A powerhsell module dedicated to publishing GitHub releases based on conventional commits
+
+__Downloads__: 14 | __Repository__: https://github.com/ArwynFr/pwsh-ConventionalVersioning
+
+## [Generate-DockerImageVariantsHelpers](https://www.powershellgallery.com/Packages/Generate-DockerImageVariantsHelpers/0.14.0) | 0.14.0
+
+### Published: 09/12/2023 14:41:48 by The Oh Brothers
+
+Helpers to use with Generate-DockerImageVariants.
+
+__Downloads__: 145 | __Repository__: https://github.com/theohbrothers/Generate-DockerImageVariantsHelpers
+
+## [AdminToolbox](https://www.powershellgallery.com/Packages/AdminToolbox/11.0.112) | 11.0.112
+
+### Published: 09/12/2023 14:22:24 by Taylor Lee
+
+Master module for a collection of modules. These modules are varied in their tasks. The overall purpose of them being to provide a powerfull Toolset to improve IT Admin workflows.
+
+__Downloads__: 29,053 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox
+
+## [AdminToolbox.FortiWizard](https://www.powershellgallery.com/Packages/AdminToolbox.FortiWizard/2.18.10) | 2.18.10
+
+### Published: 09/12/2023 14:21:01 by Taylor Lee
+
+Functions that generate configuration scripts and manage FortiOS.
+
+__Downloads__: 8,144 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [AdminToolbox.VMWareAutomate](https://www.powershellgallery.com/Packages/AdminToolbox.VMWareAutomate/4.8.101) | 4.8.101
+
+### Published: 09/12/2023 14:20:23 by Taylor Lee
+
+Functions to Automate Bulk VMWare Tasks
+
+__Downloads__: 14,927 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [AdminToolbox.Office365](https://www.powershellgallery.com/Packages/AdminToolbox.Office365/3.1.54) | 3.1.54
+
+### Published: 09/12/2023 14:19:14 by Taylor Lee
+
+Functions for working with Office365 and Azure modules
+
+__Downloads__: 16,082 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [AdminToolbox.Networking](https://www.powershellgallery.com/Packages/AdminToolbox.Networking/2.18.12) | 2.18.12
+
+### Published: 09/12/2023 14:18:40 by Taylor Lee
+
+Network Troubleshooting Functions
+
+__Downloads__: 26,470 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [AdminToolbox.MSGraph](https://www.powershellgallery.com/Packages/AdminToolbox.MSGraph/1.2.104) | 1.2.104
+
+### Published: 09/12/2023 14:18:03 by Taylor Lee
+
+Microsoft Graph interactive API Functions
+
+__Downloads__: 5,179 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [AdminToolbox.Fun](https://www.powershellgallery.com/Packages/AdminToolbox.Fun/1.6.105) | 1.6.105
+
+### Published: 09/12/2023 14:17:29 by Taylor Lee
+
+Functions that have no purpose
+
+__Downloads__: 14,827 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [AdminToolbox.FileManagement](https://www.powershellgallery.com/Packages/AdminToolbox.FileManagement/1.15.95) | 1.15.95
+
+### Published: 09/12/2023 14:16:54 by Taylor Lee
+
+File Management Functions
+
+__Downloads__: 15,478 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [AdminToolbox.FFTools](https://www.powershellgallery.com/Packages/AdminToolbox.FFTools/4.16.54) | 4.16.54
+
+### Published: 09/12/2023 14:16:19 by Taylor Lee
+
+Expedite simple ffmpeg actions
+
+__Downloads__: 15,385 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [AdminToolbox.Exchange](https://www.powershellgallery.com/Packages/AdminToolbox.Exchange/1.9.105) | 1.9.105
+
+### Published: 09/12/2023 14:15:45 by Taylor Lee
+
+Functions for Exchange Management
+
+__Downloads__: 16,424 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [AdminToolbox.EndpointManagement](https://www.powershellgallery.com/Packages/AdminToolbox.EndpointManagement/4.9.97) | 4.9.97
+
+### Published: 09/12/2023 14:15:10 by Taylor Lee
+
+Functions for management of endpoints
+
+__Downloads__: 17,026 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [AdminToolbox.ActiveDirectory](https://www.powershellgallery.com/Packages/AdminToolbox.ActiveDirectory/1.9.102) | 1.9.102
+
+### Published: 09/12/2023 14:14:34 by Taylor Lee
+
+Functions for Active Directory
+
+__Downloads__: 18,662 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [Harden-Windows-Security-Module](https://www.powershellgallery.com/Packages/Harden-Windows-Security-Module/0.1.4) | 0.1.4
+
+### Published: 09/12/2023 13:27:13 by HotCakeX
+
+Harden Windows Safely, Securely, only with Official Microsoft methods
+
+⭕ This module provides 3 main features: Hardening, Auditing/checking the system compliance, and undoing the Hardening
+
+⭕ Please read the GitHub's readme before running this module: https://github.com/HotCakeX/Harden-Windows-Security
+
+💠 Features of this module:
+
+  ✅ Everything always stays up-to-date with the newest proactive security measures
+  ✅ Everything is in plain text, nothing hidden, no 3rd party executable or pre-compiled binary is involved.
+  ✅ No Windows functionality is removed/disabled against Microsoft's recommendations.
+  ✅ The module primarily uses Group policies, the Microsoft recommended way of configuring Windows. It also uses PowerShell cmdlets where Group Policies aren't available, and finally uses a few registry keys to configure security measures that can neither be configured using Group Policies nor PowerShell cmdlets. This is why the module doesn't break anything or cause unwanted behavior.
+  ✅ When a hardening measure is no longer necessary because it's applied by default by Microsoft on new builds of Windows, it will also be removed from the module in order to prevent any problems and because it won't be necessary anymore.
+  ✅ The module can be run infinite number of times, it's made in a way that it won't make any duplicate changes.
+  ✅ The module prompts for confirmation before running each hardening category.
+  ✅ Applying these hardening measures makes your PC compliant with Microsoft Security Baselines and Secured-core PC specifications (provided that you use modern hardware that supports the latest Windows security features)
+
+💠 Hardening Categories from top to bottom: (🔻Detailed info about each of them at my Github🔻)
+
+⏹ Commands that require Administrator Privileges
+  ✅ Microsoft Security Baselines
+  ✅ Microsoft 365 Apps Security Baselines
+  ✅ Microsoft Defender
+  ✅ Attack surface reduction rules
+  ✅ Bitlocker Settings
+  ✅ TLS Security
+  ✅ Lock Screen
+  ✅ UAC (User Account Control)
+  ✅ Device Guard
+  ✅ Windows Firewall
+  ✅ Optional Windows Features
+  ✅ Windows Networking
+  ✅ Miscellaneous Configurations
+  ✅ Windows Update Configurations
+  ✅ Edge Browser Configurations
+  ✅ Certificate Checking Commands
+  ✅ Country IP Blocking
+⏹ Commands that don't require Administrator Privileges
+  ✅ Non-Admin Commands that only affect the current user and do not make machine-wide changes.
+
+
+💎 Note: If you have multiple accounts on your device, you only need to apply the hardening measures 1 time with Admin privileges, that will make system-wide changes. Then you can optionally run the module, without Admin privileges, for each standard user to apply the Non-Admin category.
+
+🏴 If you have any questions, requests, suggestions etc. about this script, please open a new Discussion or Issue on GitHub
+
+🟡 The module generates a nice output on the screen as well as giving users an option to export the results in a CSV file.
+
+__Downloads__: 762 | __Repository__: https://github.com/HotCakeX/Harden-Windows-Security
+
+## [BCSPowershellModule](https://www.powershellgallery.com/Packages/BCSPowershellModule/1.0.138) | 1.0.138
+
+### Published: 09/12/2023 13:26:39 by Mathias Stjernfelt
+
+BrightCom Solutions AB powershell helper.
+
+__Downloads__: 26,299 | __Repository__: 
+
+## [GeoIP](https://www.powershellgallery.com/Packages/GeoIP/0.0.2) | 0.0.2
+
+### Published: 09/12/2023 11:57:36 by regg00
+
+A PowerShell module to query GeoIP databases.
+
+__Downloads__: 0 | __Repository__: https://github.com/regg00/pwsh-ip-location
+
+## [UncommonSense.Trouw](https://www.powershellgallery.com/Packages/UncommonSense.Trouw/0.0.24.0) | 0.0.24.0
+
+### Published: 09/12/2023 11:40:10 by Jan Hoek
+
+PowerShell module for listing Trouw articles
+
+__Downloads__: 696 | __Repository__: https://github.com/jhoek/UncommonSense.Trouw
+
+## [NTS.Tools](https://www.powershellgallery.com/Packages/NTS.Tools/1.1.0.8) | 1.1.0.8
+
+### Published: 09/12/2023 09:59:19 by Moritz Wiedmann
+
+NTS.Tools module contains tools for ConfigMgr and course deployment
+
+__Downloads__: 1,552 | __Repository__: 
+
+## [NTS.Tools.MSSQL](https://www.powershellgallery.com/Packages/NTS.Tools.MSSQL/1.1.0.8) | 1.1.0.8
+
+### Published: 09/12/2023 09:59:05 by Moritz Wiedmann
+
+NTS.Tools.MSSQL module contains functions that are mainly related to Microsoft SQL Server
+
+__Downloads__: 1,487 | __Repository__: 
+
+## [NTS.Tools.MSHyperV](https://www.powershellgallery.com/Packages/NTS.Tools.MSHyperV/1.1.0.8) | 1.1.0.8
+
+### Published: 09/12/2023 09:58:57 by Moritz Wiedmann
+
+NTS.Tools.MSHyperV module contains functions that are mainly related to Microsoft Hyper-V
+
+__Downloads__: 1,522 | __Repository__: 
+
+## [NTS.Tools.MSExchange](https://www.powershellgallery.com/Packages/NTS.Tools.MSExchange/1.1.0.8) | 1.1.0.8
+
+### Published: 09/12/2023 09:58:49 by Moritz Wiedmann
+
+NTS.Tools.MSExchange module contains functions that are mainly related to around Microsoft Exchange
+
+__Downloads__: 1,482 | __Repository__: 
+
+## [NTS.Tools.MSConfigMgr](https://www.powershellgallery.com/Packages/NTS.Tools.MSConfigMgr/1.1.0.8) | 1.1.0.8
+
+### Published: 09/12/2023 09:58:41 by Moritz Wiedmann
+
+NTS.Tools.MSConfigMgr module contains functions that are mainly related to Microsoft Endpoint Configuration Manger
+
+__Downloads__: 1,488 | __Repository__: 
+
+## [NTS.Tools.MSADDS](https://www.powershellgallery.com/Packages/NTS.Tools.MSADDS/1.1.0.8) | 1.1.0.8
+
+### Published: 09/12/2023 09:58:33 by Moritz Wiedmann
+
+NTS.Tools.MSADDS module contains functions that are mainly related to Microsoft Active Directory Domain Services
+
+__Downloads__: 1,467 | __Repository__: 
+
+## [NTS.Tools.MSADCS](https://www.powershellgallery.com/Packages/NTS.Tools.MSADCS/1.1.0.8) | 1.1.0.8
+
+### Published: 09/12/2023 09:58:25 by Moritz Wiedmann
+
+NTS.Tools.MSADCS module contains functions that are mainly related to Microsoft Active Directory Certification Services
+
+__Downloads__: 1,483 | __Repository__: 
+
+## [NTS.Tools.Application](https://www.powershellgallery.com/Packages/NTS.Tools.Application/1.1.0.8) | 1.1.0.8
+
+### Published: 09/12/2023 09:58:14 by Moritz Wiedmann
+
+NTS.Tools.Application module contains functions to install applications
+
+__Downloads__: 497 | __Repository__: 
+
+## [NTS.Tools.General](https://www.powershellgallery.com/Packages/NTS.Tools.General/1.1.0.8) | 1.1.0.8
+
+### Published: 09/12/2023 09:55:17 by Moritz Wiedmann
+
+NTS.Tools.General module contains functions that are used for general purpose
+
+__Downloads__: 1,653 | __Repository__: 
+
+## [StepSemVer](https://www.powershellgallery.com/Packages/StepSemVer/0.2.4) | 0.2.4
+
+### Published: 09/12/2023 09:48:08 by Arwyn
+
+StepSemVer pwsh module used to increment semantic versions number.
+
+__Downloads__: 757 | __Repository__: https://github.com/ArwynFr/pwsh-StepSemVer
 
 ## [PsDownload](https://www.powershellgallery.com/Packages/PsDownload/0.1.1) | 0.1.1
 
@@ -34,14 +319,6 @@ __Downloads__: 40,069 | __Repository__:
 Azure PowerShell Tools
 
 __Downloads__: 236 | __Repository__: https://github.com/Skatterbrainz/aztools
-
-## [tiPS](https://www.powershellgallery.com/Packages/tiPS/0.0.50) | 0.0.50
-
-### Published: 09/12/2023 02:39:02 by Daniel Schroeder
-
-PowerShell tips delivered straight to your terminal.
-
-__Downloads__: 345 | __Repository__: https://github.com/deadlydog/PowerShell.tiPS
 
 ## [NtObjectManager](https://www.powershellgallery.com/Packages/NtObjectManager/2.0.0) | 2.0.0
 
@@ -141,14 +418,6 @@ This is a module designed for manipulating environment variables.
 
 __Downloads__: 0 | __Repository__: https://gitlab.com/kamiyonanayo/pwsh-environment
 
-## [ConventionalVersioning](https://www.powershellgallery.com/Packages/ConventionalVersioning/0.1.4) | 0.1.4
-
-### Published: 09/11/2023 13:52:09 by Arwyn
-
-A powerhsell module dedicated to publishing GitHub releases based on conventional commits
-
-__Downloads__: 14 | __Repository__: https://github.com/ArwynFr/pwsh-ConventionalVersioning
-
 ## [Easit.ProcessRunner.GlobalFunctions](https://www.powershellgallery.com/Packages/Easit.ProcessRunner.GlobalFunctions/1.1.0) | 1.1.0
 
 ### Published: 09/11/2023 13:32:42 by Anders Thyrsson
@@ -196,14 +465,6 @@ __Downloads__: 12,730 | __Repository__: https://github.com/UsefulScripts01/HPDri
 Powershell module CoreePower.Net. This module is under construction and just uploaded for testing purposes.
 
 __Downloads__: 36 | __Repository__: https://www.powershellgallery.com/packages/CoreePower.Net
-
-## [Generate-DockerImageVariantsHelpers](https://www.powershellgallery.com/Packages/Generate-DockerImageVariantsHelpers/0.13.0) | 0.13.0
-
-### Published: 09/11/2023 08:23:38 by The Oh Brothers
-
-Helpers to use with Generate-DockerImageVariants.
-
-__Downloads__: 145 | __Repository__: https://github.com/theohbrothers/Generate-DockerImageVariantsHelpers
 
 ## [PSCompletions](https://www.powershellgallery.com/Packages/PSCompletions/2.0.9) | 2.0.9
 
@@ -346,14 +607,6 @@ Common set of tools to interact with Symantec/Broadcom API for SEP Cloud
 
 __Downloads__: 95 | __Repository__: https://github.com/Douda/PSSymantecCloud
 
-## [TcPrjMgmt](https://www.powershellgallery.com/Packages/TcPrjMgmt/0.2.0) | 0.2.0
-
-### Published: 09/08/2023 20:21:21 by Giang Nguyen
-
-Utilities for managing TwinCAT solutions and projects. Including PLC project exporting, and library installation and uninstallation. NOTE: This module requires >= TwinCAT 3.1.4024.10 (XAR Runtime or Full) (local installation)
-
-__Downloads__: 15 | __Repository__: https://github.com/ahuca/TcPrjMgmt/tree/main
-
 ## [SpecAzTableStorageTools](https://www.powershellgallery.com/Packages/SpecAzTableStorageTools/1.0.0) | 1.0.0
 
 ### Published: 09/08/2023 20:13:21 by owen.heaume
@@ -471,26 +724,6 @@ The module includes three functions:
 - Disable-Ics
 
 __Downloads__: 1,355,634 | __Repository__: https://github.com/loxia01/PSInternetConnectionSharing
-
-## [Harden-Windows-Security-Module](https://www.powershellgallery.com/Packages/Harden-Windows-Security-Module/0.1.3) | 0.1.3
-
-### Published: 09/07/2023 21:20:07 by HotCakeX
-
-✅ This is a PowerShell module for Harden Windows Security script.
-✅ It offers System Compliance checking in addition to hardening.
-✅ You can check and validate a system to see whether it conforms to the Harden Windows Security guidelines or not.
-
-💠 The module generates a nice output on the screen as well as giving users an option to export the results in a CSV file.
-
-💠 If you use the "Protect-WindowsSecurity" Cmdlet, it will download and run the Harden Windows Security PowerShell script from the official repository
-
-🟡 Refer to this GitHub repository for more info: https://github.com/HotCakeX/Harden-Windows-Security
-
-🏴 Module's documentation: https://github.com/HotCakeX/Harden-Windows-Security/wiki/Harden%E2%80%90Windows%E2%80%90Security%E2%80%90Module
-
-💎 If you have any questions, requests, suggestions etc. about this module, please open a new Discussion or Issue on GitHub
-
-__Downloads__: 762 | __Repository__: https://github.com/HotCakeX/Harden-Windows-Security
 
 ## [OGraph](https://www.powershellgallery.com/Packages/OGraph/0.0.1.10) | 0.0.1.10
 
@@ -1857,255 +2090,4 @@ This modules provides Cmdlets for OCI Aianomalydetection Service
 
 __Downloads__: 3,049 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-## [OCI.PSModules.Adm](https://www.powershellgallery.com/Packages/OCI.PSModules.Adm/67.0.0) | 67.0.0
-
-### Published: 09/05/2023 16:20:55 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Adm Service
-
-__Downloads__: 1,946 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Accessgovernancecp](https://www.powershellgallery.com/Packages/OCI.PSModules.Accessgovernancecp/67.0.0) | 67.0.0
-
-### Published: 09/05/2023 16:20:47 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Accessgovernancecp Service
-
-__Downloads__: 721 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Common](https://www.powershellgallery.com/Packages/OCI.PSModules.Common/67.0.0) | 67.0.0
-
-### Published: 09/05/2023 16:18:23 by Oracle Cloud Infrastructure
-
-OCI Common module exports Cmdlets that manages features offered by OCI Modules for Powershell like History Store, OCI Configuration file setup and Per-Session Region/Config/Profile preferences. Common module also contains some functionalties that are common to all OCI Service modules, therefore all OCI Service modules depends on Common module.
-
-__Downloads__: 76,675 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [DCToolbox](https://www.powershellgallery.com/Packages/DCToolbox/2.0.2) | 2.0.2
-
-### Published: 09/05/2023 16:16:18 by Daniel Chronlund
-
-A PowerShell toolbox for Microsoft 365 security fans.
-
-__Downloads__: 18,112 | __Repository__: https://github.com/DanielChronlund/DCToolbox
-
-## [Atempo.Lina](https://www.powershellgallery.com/Packages/Atempo.Lina/6.1.0.2) | 6.1.0.2
-
-### Published: 09/05/2023 15:48:31 by Atempo
-
-PowerShell module for managing and monitoring Atempo Lina continuous data protection solution
-
-__Downloads__: 1,697 | __Repository__: 
-
-## [AGMPowerLib](https://www.powershellgallery.com/Packages/AGMPowerLib/0.0.0.74) | 0.0.0.74
-
-### Published: 09/05/2023 14:54:58 by Anthony Vandewerdt
-
-This is a community generated PowerShell Module for Actifio Global Manager (AGM).  
-It provides composite functions that combine commands to various AGM API endpoints, to achieve specific outcomes. 
-Examples include mounting a database, creating a new VM or running a workflow.
-More information about this module can be found here:   https://github.com/Actifio/AGMPowerLib
-
-__Downloads__: 9,541 | __Repository__: https://github.com/Actifio/AGMPowerLib
-
-## [AGMPowerCLI](https://www.powershellgallery.com/Packages/AGMPowerCLI/0.0.0.59) | 0.0.0.59
-
-### Published: 09/05/2023 14:53:06 by Anthony Vandewerdt
-
-This is a community generated PowerShell Module for Management Console.
-It provides a method to issue commands to AGM API endpoints, like "Application" and "Host".
-This lets you create automation with AGM, or generate your own composite functions.
-More information can be found here:  https://github.com/Actifio/AGMPowerCLI
-
-__Downloads__: 10,303 | __Repository__: https://github.com/Actifio/AGMPowerCLI
-
-## [WDACConfig](https://www.powershellgallery.com/Packages/WDACConfig/0.2.2) | 0.2.2
-
-### Published: 09/05/2023 14:50:58 by HotCakeX
-
-This is an advanced PowerShell module for WDAC (Windows Defender Application Control) and automates a lot of tasks.
-
-
-🟢 Please see the GitHub page for Full details and everything about the module: https://github.com/HotCakeX/Harden-Windows-Security/wiki/WDACConfig
-
-
-🛡️ Here is the list of module's cmdlets
-
-✔️ New-WDACConfig: https://github.com/HotCakeX/Harden-Windows-Security/wiki/New-WDACConfig
-
-✔️ New-SupplementalWDACConfig: https://github.com/HotCakeX/Harden-Windows-Security/wiki/New-SupplementalWDACConfig
-
-✔️ Remove-WDACConfig: https://github.com/HotCakeX/Harden-Windows-Security/wiki/Remove-WDACConfig
-
-✔️ Edit-WDACConfig: https://github.com/HotCakeX/Harden-Windows-Security/wiki/Edit-WDACConfig
-
-✔️ Edit-SignedWDACConfig: https://github.com/HotCakeX/Harden-Windows-Security/wiki/Edit-SignedWDACConfig
-
-✔️ Deploy-SignedWDACConfig: https://github.com/HotCakeX/Harden-Windows-Security/wiki/Deploy-SignedWDACConfig
-
-✔️ Confirm-WDACConfig: https://github.com/HotCakeX/Harden-Windows-Security/wiki/Confirm-WDACConfig
-
-✔️ New-DenyWDACConfig: https://github.com/HotCakeX/Harden-Windows-Security/wiki/New-DenyWDACConfig
-
-✔️ Set-CommonWDACConfig: https://github.com/HotCakeX/Harden-Windows-Security/wiki/Set-CommonWDACConfig
-
-✔️ New-KernelModeWDACConfig: https://github.com/HotCakeX/Harden-Windows-Security/wiki/New%E2%80%90KernelModeWDACConfig
-
-✔️ Get-CommonWDACConfig: https://github.com/HotCakeX/Harden-Windows-Security/wiki/Get-CommonWDACConfig
-
-✔️ Invoke-WDACSimulation: https://github.com/HotCakeX/Harden-Windows-Security/wiki/Invoke-WDACSimulation
-
-To get help and syntax on PowerShell console, type:
-"Get-Command -Module WDACConfig"
-"Get-Help New-WDACConfig"
-"Get-Help New-SupplementalWDACConfig"
-"Get-Help Remove-WDACConfig"
-"Get-Help Edit-WDACConfig"
-"Get-Help Edit-SignedWDACConfig"
-"Get-Help Deploy-SignedWDACConfig"
-"Get-Help Confirm-WDACConfig"
-"Get-Help New-DenyWDACConfig"
-"Get-Help Set-CommonWDACConfig"
-"Get-help New-KernelModeWDACConfig"
-"Get-help Get-CommonWDACConfig"
-"Get-help Invoke-WDACSimulation"
-
-__Downloads__: 575 | __Repository__: https://github.com/HotCakeX/Harden-Windows-Security/wiki/WDACConfig
-
-## [Quantum.DMS.PowerShell](https://www.powershellgallery.com/Packages/Quantum.DMS.PowerShell/2.0.2) | 2.0.2
-
-### Published: 09/05/2023 14:44:31 by Radi Atanassov
-
-A set of PowerShell cmdlets for administering Quantum DMS.
-
-__Downloads__: 452 | __Repository__: 
-
-## [BinaryPasswordGenerator](https://www.powershellgallery.com/Packages/BinaryPasswordGenerator/1.0.3) | 1.0.3
-
-### Published: 09/05/2023 14:32:55 by Ehmiiz
-
-A binary password generator rewritten from of the popular PasswordGenerator nuget package.
-
-__Downloads__: 412 | __Repository__: https://github.com/ehmiiz/PasswordGenerator/
-
-## [AdminToolbox](https://www.powershellgallery.com/Packages/AdminToolbox/11.0.111) | 11.0.111
-
-### Published: 09/05/2023 14:22:31 by Taylor Lee
-
-Master module for a collection of modules. These modules are varied in their tasks. The overall purpose of them being to provide a powerfull Toolset to improve IT Admin workflows.
-
-__Downloads__: 29,053 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox
-
-## [PsXisfReader](https://www.powershellgallery.com/Packages/PsXisfReader/1.0.52) | 1.0.52
-
-### Published: 09/05/2023 14:22:22 by Jonathan W. MacCollum
-
-A set of Cmdlets for maintaining images acquired and saved in XISF format with the goal of automating pre-processing processing workflows.
-
-__Downloads__: 550 | __Repository__: 
-
-## [AdminToolbox.FortiWizard](https://www.powershellgallery.com/Packages/AdminToolbox.FortiWizard/2.18.9) | 2.18.9
-
-### Published: 09/05/2023 14:20:56 by Taylor Lee
-
-Functions that generate configuration scripts and manage FortiOS.
-
-__Downloads__: 8,144 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-## [AdminToolbox.VMWareAutomate](https://www.powershellgallery.com/Packages/AdminToolbox.VMWareAutomate/4.8.100) | 4.8.100
-
-### Published: 09/05/2023 14:20:12 by Taylor Lee
-
-Functions to Automate Bulk VMWare Tasks
-
-__Downloads__: 14,927 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-## [AdminToolbox.Remoting](https://www.powershellgallery.com/Packages/AdminToolbox.Remoting/1.9.103) | 1.9.103
-
-### Published: 09/05/2023 14:19:35 by Taylor Lee
-
-Functions for remote management and access.
-
-__Downloads__: 14,827 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-## [AdminToolbox.Office365](https://www.powershellgallery.com/Packages/AdminToolbox.Office365/3.1.53) | 3.1.53
-
-### Published: 09/05/2023 14:18:59 by Taylor Lee
-
-Functions for working with Office365 and Azure modules
-
-__Downloads__: 16,082 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-## [AdminToolbox.Networking](https://www.powershellgallery.com/Packages/AdminToolbox.Networking/2.18.11) | 2.18.11
-
-### Published: 09/05/2023 14:18:23 by Taylor Lee
-
-Network Troubleshooting Functions
-
-__Downloads__: 26,470 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-## [AdminToolbox.MSGraph](https://www.powershellgallery.com/Packages/AdminToolbox.MSGraph/1.2.103) | 1.2.103
-
-### Published: 09/05/2023 14:17:46 by Taylor Lee
-
-Microsoft Graph interactive API Functions
-
-__Downloads__: 5,179 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-## [AdminToolbox.Fun](https://www.powershellgallery.com/Packages/AdminToolbox.Fun/1.6.104) | 1.6.104
-
-### Published: 09/05/2023 14:17:11 by Taylor Lee
-
-Functions that have no purpose
-
-__Downloads__: 14,827 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-## [AdminToolbox.FileManagement](https://www.powershellgallery.com/Packages/AdminToolbox.FileManagement/1.15.94) | 1.15.94
-
-### Published: 09/05/2023 14:16:36 by Taylor Lee
-
-File Management Functions
-
-__Downloads__: 15,478 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-## [AdminToolbox.FFTools](https://www.powershellgallery.com/Packages/AdminToolbox.FFTools/4.16.53) | 4.16.53
-
-### Published: 09/05/2023 14:16:00 by Taylor Lee
-
-Expedite simple ffmpeg actions
-
-__Downloads__: 15,385 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-## [AdminToolbox.Exchange](https://www.powershellgallery.com/Packages/AdminToolbox.Exchange/1.9.104) | 1.9.104
-
-### Published: 09/05/2023 14:15:23 by Taylor Lee
-
-Functions for Exchange Management
-
-__Downloads__: 16,424 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-## [AdminToolbox.EndpointManagement](https://www.powershellgallery.com/Packages/AdminToolbox.EndpointManagement/4.9.96) | 4.9.96
-
-### Published: 09/05/2023 14:14:47 by Taylor Lee
-
-Functions for management of endpoints
-
-__Downloads__: 17,026 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-## [AdminToolbox.ActiveDirectory](https://www.powershellgallery.com/Packages/AdminToolbox.ActiveDirectory/1.9.101) | 1.9.101
-
-### Published: 09/05/2023 14:14:10 by Taylor Lee
-
-Functions for Active Directory
-
-__Downloads__: 18,662 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-## [exDoNotUpgrade](https://www.powershellgallery.com/Packages/exDoNotUpgrade/0.0.1) | 0.0.1
-
-### Published: 09/05/2023 13:49:43 by Ørjan Berg
-
-Get or Set the value of HKLM:\Software\WOW6432Node\Visma\Visma Business\CurrentVersion\Database\DO_NOT_UPGRADE
-
-__Downloads__: 4 | __Repository__: 
-
-*Updated: Tuesday, 12 September 2023 09:52:52 UTC*
+*Updated: Tuesday, 12 September 2023 17:53:11 UTC*

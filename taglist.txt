@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Tuesday, 12 September 2023 09:53:05 UTC
+Updated: Tuesday, 12 September 2023 17:53:26 UTC
 
 .bat
 .env
@@ -842,6 +842,7 @@ botservice
 bouncer
 boundaries
 boundarygroups
+bounty
 box
 bpmn
 brainy
@@ -876,6 +877,7 @@ bson
 btdf
 btm
 budget
+bugbounty
 bugzilla
 build
 build-log
@@ -1407,6 +1409,7 @@ converttohtml
 converttomarkdown
 converttomd
 cookie
+coolq
 cooltag1
 cooltag2
 coordinates
@@ -1452,8 +1455,10 @@ cppm
 cpu
 cpuid
 cpuid-information
+cq
 cqd
 cqdpowershell
+cqhttp
 crack psmodule
 crash
 crayon
@@ -2318,7 +2323,6 @@ export
 export-cmhealthreport
 export-data
 export-passlist
-exportcertificate
 exportcertificates
 exporter
 exportexcel
@@ -2388,6 +2392,7 @@ fhirservice
 fiche
 fiddler
 fido
+fido2
 fieldglass
 fifa
 figlet
@@ -2543,6 +2548,7 @@ fortune
 forum
 forwardcompatibility
 forwardedevents
+foudil
 fox
 foxpro
 fqdn
@@ -2645,6 +2651,7 @@ geocache
 geocaching
 geoencode
 geoencoding
+geoip
 geolocation
 geosearching
 geotagging
@@ -2807,7 +2814,6 @@ grouppolicy
 groups
 grouvee
 growlnotify
-grr
 gsuite
 gtx1080ti
 guardedfabric
@@ -3361,7 +3367,6 @@ jea
 jenkins
 jetbrains
 jira
-jiraservicemanagement
 jitbit
 jms
 jnet
@@ -3382,8 +3387,6 @@ joyride
 jpg
 jq
 js7
-jsm
-jsm.insight
 json
 json-converter
 json-transform
@@ -3547,7 +3550,6 @@ learning
 learning-powershell
 learningpowershell
 learnpowershell
-lease
 leetabit
 leftjoin
 legacy
@@ -3780,6 +3782,7 @@ manageability
 managed-identity
 manageddisks
 managedidentities
+managedserviceidenity
 managedserviceidentity
 managedserviceprovider
 managedserviceproviders
@@ -3811,7 +3814,6 @@ marketo
 marketplace
 marketplaceordering
 marking
-marklogic
 marquee
 marvel
 marvell
@@ -3904,6 +3906,7 @@ messaging
 messenger
 met
 metadata
+metadataservice
 metaprogramming
 method
 methodinfo
@@ -4462,6 +4465,7 @@ opendata
 openedge
 openfiles
 openhere
+openid
 openidconnect
 openinghours
 openport
@@ -4484,7 +4488,6 @@ operationsmanagementsuite
 operationsmanagementsuiteagent
 operationvalidation
 operatoraccesscontrol
-opml
 ops
 opsi
 opsmgr
@@ -4548,7 +4551,6 @@ out-gridview
 out-json
 outerjoin
 outertext
-outline
 outlook
 output
 output-to-image
@@ -5098,7 +5100,6 @@ prtgnetworkmonitor
 ps
 ps-ncentral
 ps.credentialmanager
-ps1
 ps1xml
 ps1xmlgen
 ps2dll
@@ -8162,6 +8163,7 @@ qlogicfcpowerkit
 qlogicfcprovider
 qna
 qol
+qq
 qr
 qrcode
 qrcodes
@@ -8343,7 +8345,6 @@ remote
 remote-desktop
 remote'
 remoteadmin
-remotecert
 remoteconnection
 remoteconnectionsmanager
 remotecontrol
@@ -8353,7 +8354,6 @@ remotedesktopgateway
 remotedesktopmanager
 remotedesktopservices
 remotefiles
-remoteforensics
 remotehost
 remotelocalgroup
 remotelogoff
@@ -8452,6 +8452,7 @@ rfc4266
 rfc4291
 rfc5952
 rfc826
+rfc9116
 rg
 rgb
 rhapsody
@@ -8718,6 +8719,8 @@ security
 security-awareness-training
 security-policy
 security-score
+security-txt
+security.txt
 securityassertionmarkuplanguage
 securitycenter
 securitycompliancecenter
@@ -8728,6 +8731,7 @@ securityoptions
 securitypolicydsc
 securityroles
 securityscopes
+securitytxt
 sed
 seed
 seek
@@ -9239,6 +9243,7 @@ stockcharts
 stocks
 stoicism
 stoics
+stop
 storablecolortheme
 storage
 storageaccount
@@ -9256,6 +9261,8 @@ streak
 stream
 streamanalytics
 streaming
+streamreader
+streamwriter
 stretch
 strictmode
 strikethrough-text
@@ -9322,11 +9329,11 @@ suspensive
 svesavov
 svetoslav
 svg
-svn
 svt
 swagger
 swamid
 swarm
+swedish
 swimlane
 swis
 switch
@@ -9435,7 +9442,6 @@ tcp
 tcp/ip
 tcpip
 tcpport
-tcprjmgmt
 tcpserver
 tcptest
 tcx
@@ -9586,6 +9592,7 @@ tobias
 toc
 todo
 todo.txt
+toggl
 toggle
 token
 tokenlifetime
@@ -9733,6 +9740,7 @@ ucspowertool
 ud-avataaar
 ud-badgebutton
 ud-badgelink
+ud-breadcrumb
 ud-breadcrumbitem
 ud-burger
 ud-button
@@ -10169,7 +10177,6 @@ webcamera
 webcmdlets
 webdav
 webdeploy
-webfrequest
 webhdfs
 webhelpdesk
 webhistory
@@ -10217,6 +10224,7 @@ whiteboard
 whitespace
 whoami
 whois
+whormi
 wi-fi
 wia
 wia.imagefile
@@ -10299,7 +10307,6 @@ windowsserver2019
 windowsservercoresecurity
 windowsserverguisecurity
 windowsservice
-windowsservices
 windowsstore
 windowsterminal
 windowstimezone
