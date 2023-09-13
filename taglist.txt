@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Tuesday, 12 September 2023 17:53:26 UTC
+Updated: Wednesday, 13 September 2023 02:02:35 UTC
 
 .bat
 .env
@@ -247,7 +247,6 @@ aivision
 ajustee
 aka.ms
 aks
-aks-hci
 akscluster
 al
 alac
@@ -270,6 +269,7 @@ alias-hint
 alias-tips
 aliases
 aliens
+all
 alletra
 alloydb
 alm
@@ -331,6 +331,7 @@ ansiblecontrolnode
 antimalwarescaninterface
 antispam
 antivirus
+any
 anyconnect
 anypackage
 anypoint
@@ -448,7 +449,6 @@ aruba
 as
 asa
 asa.unittest
-asana
 asbuiltreport
 asc
 ascii
@@ -703,7 +703,6 @@ banking
 banner
 bar
 barcodes
-baremetal
 base
 base16
 base26
@@ -832,6 +831,7 @@ book
 bookmark
 bookmarks
 books
+bool
 bootloader psmodule
 bootstrap
 bootstrapping
@@ -1314,6 +1314,7 @@ concur
 concurrency
 concurrent
 conda
+condition
 conditionalaccess
 conduit
 conference
@@ -2170,6 +2171,7 @@ entra
 entraid
 entropy
 enum
+enumerable
 env
 environment
 environment-variables
@@ -2323,6 +2325,7 @@ export
 export-cmhealthreport
 export-data
 export-passlist
+exportcertificate
 exportcertificates
 exporter
 exportexcel
@@ -2814,6 +2817,7 @@ grouppolicy
 groups
 grouvee
 growlnotify
+grr
 gsuite
 gtx1080ti
 guardedfabric
@@ -2873,6 +2877,7 @@ harvestforecast
 hash
 hashcat
 hashicorp
+hashset
 hashtable
 hasicorp
 haskell
@@ -3367,6 +3372,7 @@ jea
 jenkins
 jetbrains
 jira
+jiraservicemanagement
 jitbit
 jms
 jnet
@@ -3387,6 +3393,8 @@ joyride
 jpg
 jq
 js7
+jsm
+jsm.insight
 json
 json-converter
 json-transform
@@ -3550,6 +3558,7 @@ learning
 learning-powershell
 learningpowershell
 learnpowershell
+lease
 leetabit
 leftjoin
 legacy
@@ -3814,6 +3823,7 @@ marketo
 marketplace
 marketplaceordering
 marking
+marklogic
 marquee
 marvel
 marvell
@@ -4000,6 +4010,7 @@ mobilitycontroller
 mock
 mocking
 model
+modify
 module
 module-maintenance
 modulebuild
@@ -4488,6 +4499,7 @@ operationsmanagementsuite
 operationsmanagementsuiteagent
 operationvalidation
 operatoraccesscontrol
+opml
 ops
 opsi
 opsmgr
@@ -4551,6 +4563,7 @@ out-gridview
 out-json
 outerjoin
 outertext
+outline
 outlook
 output
 output-to-image
@@ -4984,6 +4997,7 @@ pptp
 pptx
 pq
 pranks
+predicate
 prediction
 predictive
 predictive-text
@@ -5100,6 +5114,7 @@ prtgnetworkmonitor
 ps
 ps-ncentral
 ps.credentialmanager
+ps1
 ps1xml
 ps1xmlgen
 ps2dll
@@ -8015,7 +8030,6 @@ psincludes_function
 psini
 psinsight
 psintune
-psise
 psitem
 psjob
 psjobs
@@ -8345,6 +8359,7 @@ remote
 remote-desktop
 remote'
 remoteadmin
+remotecert
 remoteconnection
 remoteconnectionsmanager
 remotecontrol
@@ -8354,6 +8369,7 @@ remotedesktopgateway
 remotedesktopmanager
 remotedesktopservices
 remotefiles
+remoteforensics
 remotehost
 remotelocalgroup
 remotelogoff
@@ -9329,6 +9345,7 @@ suspensive
 svesavov
 svetoslav
 svg
+svn
 svt
 swagger
 swamid
@@ -9436,12 +9453,12 @@ taskgroup
 taskmanagement
 tasks
 taskscheduler
-taxjar
 taxonomy
 tcp
 tcp/ip
 tcpip
 tcpport
+tcprjmgmt
 tcpserver
 tcptest
 tcx
@@ -9770,7 +9787,6 @@ ud-piechart3d
 ud-pivottable
 ud-progressstepbar
 ud-rangeslider
-ud-readingbar
 ud-scrollspy
 ud-selectdatetime
 ud-selector
@@ -10177,6 +10193,7 @@ webcamera
 webcmdlets
 webdav
 webdeploy
+webfrequest
 webhdfs
 webhelpdesk
 webhistory
@@ -10219,6 +10236,7 @@ whatismyip
 whatsnew
 whatsupgold
 whd
+where
 whfb
 whiteboard
 whitespace
@@ -10307,6 +10325,7 @@ windowsserver2019
 windowsservercoresecurity
 windowsserverguisecurity
 windowsservice
+windowsservices
 windowsstore
 windowsterminal
 windowstimezone
