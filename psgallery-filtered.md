@@ -3,6 +3,126 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [HGV.Automation.Tools](https://www.powershellgallery.com/Packages/HGV.Automation.Tools/1.0.0) | 1.0.0
+
+### Published: 09/13/2023 17:37:15 by SRE Team
+
+This is a compilation of common scripts used when putting up a new server.
+
+__Downloads__: 0 | __Repository__: 
+
+## [PsDownload](https://www.powershellgallery.com/Packages/PsDownload/0.1.2) | 0.1.2
+
+### Published: 09/13/2023 17:22:13 by Dan Gough
+
+A PowerShell module for downloading files.
+
+__Downloads__: 2 | __Repository__: https://github.com/DanGough/PsDownload
+
+## [tiPS](https://www.powershellgallery.com/Packages/tiPS/0.0.60) | 0.0.60
+
+### Published: 09/13/2023 17:07:13 by Daniel Schroeder
+
+PowerShell tips delivered straight to your terminal.
+
+__Downloads__: 345 | __Repository__: https://github.com/deadlydog/PowerShell.tiPS
+
+## [PSComputerManagementZp](https://www.powershellgallery.com/Packages/PSComputerManagementZp/0.0.3) | 0.0.3
+
+### Published: 09/13/2023 15:57:38 by Pu Zhao
+
+A PowerShell module that derives from personal scenarios, can help users configure the Windows PCs easily to realize many useful operations, involving authorization, env, links, proxy, etc. Some features are also available on WSL2 and Linux.
+
+__Downloads__: 20 | __Repository__: https://github.com/Zhaopudark/PSComputerManagementZp
+
+## [Altazion.Shell](https://www.powershellgallery.com/Packages/Altazion.Shell/23.812.15) | 23.812.15
+
+### Published: 09/13/2023 15:24:56 by Altazion
+
+Module for local admininistration of an Altazion Device Shell
+
+__Downloads__: 13 | __Repository__: https://www.altazion.com/
+
+## [PS.Teamwork](https://www.powershellgallery.com/Packages/PS.Teamwork/1.1) | 1.1
+
+### Published: 09/13/2023 15:03:32 by V.Minon & E.Metral
+
+Powershell module for Teamwork company
+
+__Downloads__: 4 | __Repository__: 
+
+## [ActiveDirectoryStructure](https://www.powershellgallery.com/Packages/ActiveDirectoryStructure/1.0.9) | 1.0.9
+
+### Published: 09/13/2023 15:02:14 by Gerald Doeserich
+
+Provides ways to validate a ActiveDirectory environment
+
+__Downloads__: 78 | __Repository__: https://github.com/ActiveDirectoryStructure/ActiveDirectoryStructure
+
+## [PSFramework](https://www.powershellgallery.com/Packages/PSFramework/1.9.310) | 1.9.310
+
+### Published: 09/13/2023 14:38:12 by Friedrich Weinmann
+
+General Scripting Framework, providing PowerShell-specific infrastructure for other modules.
+
+__Downloads__: 3,886,732 | __Repository__: http://psframework.org/
+
+## [PSSymantecCloud](https://www.powershellgallery.com/Packages/PSSymantecCloud/0.76.1) | 0.76.1
+
+### Published: 09/13/2023 14:32:58 by Aurélien BOUMANNE
+
+Common set of tools to interact with Symantec/Broadcom API for SEP Cloud
+
+__Downloads__: 95 | __Repository__: https://github.com/Douda/PSSymantecCloud
+
+## [Logic.Monitor](https://www.powershellgallery.com/Packages/Logic.Monitor/4.5.1) | 4.5.1
+
+### Published: 09/13/2023 13:55:11 by Steven Villardi
+
+PowerShell module to query the Logic Monitor API. This is a personal project and is not an offically supported LogicMonitor integration.
+
+__Downloads__: 2,254 | __Repository__: https://github.com/stevevillardi/Logic.Monitor
+
+## [AzureHelper](https://www.powershellgallery.com/Packages/AzureHelper/1.0.55) | 1.0.55
+
+### Published: 09/13/2023 13:55:11 by Paul Harrison
+
+This module provides cmdlets to help in daily work, find cost savings, and report on Azure Policy compliance
+
+__Downloads__: 2,226 | __Repository__: 
+
+## [SqlChangeAutomation](https://www.powershellgallery.com/Packages/SqlChangeAutomation/4.6.23255.2159) | 4.6.23255.2159
+
+### Published: 09/13/2023 12:38:43 by Red Gate Software Ltd.
+
+Automation tools for production quality database deployment
+
+__Downloads__: 4,510,613 | __Repository__: https://www.red-gate.com/sca/productpage
+
+## [DTX.Tools.Installer](https://www.powershellgallery.com/Packages/DTX.Tools.Installer/0.0.13) | 0.0.13
+
+### Published: 09/13/2023 12:37:16 by Platform Operations Team
+
+Dotmatics module installer tool.
+
+__Downloads__: 0 | __Repository__: 
+
+## [ChocoMan](https://www.powershellgallery.com/Packages/ChocoMan/1.2.1) | 1.2.1
+
+### Published: 09/13/2023 10:58:15 by regg00
+
+A PowerShell wrapper for Chocolatey
+
+__Downloads__: 1,002 | __Repository__: https://github.com/regg00/ChocoMan
+
+## [AtlassianCloudPS](https://www.powershellgallery.com/Packages/AtlassianCloudPS/0.7.2) | 0.7.2
+
+### Published: 09/13/2023 09:49:03 by Andy Lyonette
+
+Interact with the Atlassian Cloud APIs using PowerShell
+
+__Downloads__: 3,232 | __Repository__: https://github.com/andylyonette/AtlassianCloudPS
+
 ## [Microsoft-Extractor-Suite](https://www.powershellgallery.com/Packages/Microsoft-Extractor-Suite/1.1.1) | 1.1.1
 
 ### Published: 09/13/2023 09:20:50 by Joey Rentenaar & Korstiaan Stam
@@ -26,14 +146,6 @@ __Downloads__: 2,441 | __Repository__:
 Helper module for Active Directory with lots of useful functions that simplify supporting Active Directory.
 
 __Downloads__: 154,469 | __Repository__: https://github.com/EvotecIT/ADEssentials
-
-## [AtlassianCloudPS](https://www.powershellgallery.com/Packages/AtlassianCloudPS/0.7.1) | 0.7.1
-
-### Published: 09/13/2023 08:20:05 by Andy Lyonette
-
-Interact with the Atlassian Cloud APIs using PowerShell
-
-__Downloads__: 3,232 | __Repository__: https://github.com/andylyonette/AtlassianCloudPS
 
 ## [GraphEssentials](https://www.powershellgallery.com/Packages/GraphEssentials/0.0.34) | 0.0.34
 
@@ -1180,14 +1292,6 @@ This modules contains useful cmdlets for Windows Systems Administrators.
 
 __Downloads__: 23 | __Repository__: https://github.com/LuisCarrilloTech
 
-## [tiPS](https://www.powershellgallery.com/Packages/tiPS/0.0.55) | 0.0.55
-
-### Published: 09/12/2023 21:29:13 by Daniel Schroeder
-
-PowerShell tips delivered straight to your terminal.
-
-__Downloads__: 345 | __Repository__: https://github.com/deadlydog/PowerShell.tiPS
-
 ## [AptecoPSFramework](https://www.powershellgallery.com/Packages/AptecoPSFramework/0.0.18) | 0.0.18
 
 ### Published: 09/12/2023 21:19:53 by florian.von.bracht@apteco.de
@@ -1586,14 +1690,6 @@ StepSemVer pwsh module used to increment semantic versions number.
 
 __Downloads__: 757 | __Repository__: https://github.com/ArwynFr/pwsh-StepSemVer
 
-## [PsDownload](https://www.powershellgallery.com/Packages/PsDownload/0.1.1) | 0.1.1
-
-### Published: 09/12/2023 08:18:42 by Dan Gough
-
-A PowerShell module for downloading files.
-
-__Downloads__: 2 | __Repository__: https://github.com/DanGough/PsDownload
-
 ## [AppVeyorTestPsGallery](https://www.powershellgallery.com/Packages/AppVeyorTestPsGallery/1.0.515) | 1.0.515
 
 ### Published: 09/12/2023 04:53:22 by Feodor Fitsner
@@ -1786,14 +1882,6 @@ PowerShell made Posh - Spice up Your Shell
 
 __Downloads__: 363 | __Repository__: https://github.com/StartAutomating/Posh
 
-## [Altazion.Shell](https://www.powershellgallery.com/Packages/Altazion.Shell/23.809.19) | 23.809.19
-
-### Published: 09/10/2023 19:22:29 by Altazion
-
-Module for local admininistration of an Altazion Device Shell
-
-__Downloads__: 13 | __Repository__: https://www.altazion.com/
-
 ## [code365scripts.openai](https://www.powershellgallery.com/Packages/code365scripts.openai/1.1.0.7) | 1.1.0.7
 
 ### Published: 09/10/2023 13:44:03 by chenxizhang
@@ -1871,14 +1959,6 @@ Collection of Posix tools wrappers.
 
 __Downloads__: 1,608 | __Repository__: https://github.com/Azure/nxtools/
 
-## [PSSymantecCloud](https://www.powershellgallery.com/Packages/PSSymantecCloud/0.76.0) | 0.76.0
-
-### Published: 09/08/2023 20:59:42 by Aurélien BOUMANNE
-
-Common set of tools to interact with Symantec/Broadcom API for SEP Cloud
-
-__Downloads__: 95 | __Repository__: https://github.com/Douda/PSSymantecCloud
-
 ## [TcPrjMgmt](https://www.powershellgallery.com/Packages/TcPrjMgmt/0.2.0) | 0.2.0
 
 ### Published: 09/08/2023 20:21:21 by Giang Nguyen
@@ -1935,14 +2015,6 @@ Dynamic SQL Query Builder
 
 __Downloads__: 2 | __Repository__: https://adam-bacon.netlify.app/
 
-## [PSFramework](https://www.powershellgallery.com/Packages/PSFramework/1.9.308) | 1.9.308
-
-### Published: 09/08/2023 09:08:33 by Friedrich Weinmann
-
-General Scripting Framework, providing PowerShell-specific infrastructure for other modules.
-
-__Downloads__: 3,886,732 | __Repository__: http://psframework.org/
-
 ## [NTware.Ufo.PowerShell.ObjectManagement](https://www.powershellgallery.com/Packages/NTware.Ufo.PowerShell.ObjectManagement/2023.3.0.0) | 2023.3.0.0
 
 ### Published: 09/08/2023 08:25:56 by NT-ware Systemprogrammierungs-GmbH
@@ -1966,14 +2038,6 @@ __Downloads__: 13 | __Repository__: https://gitlab.com/breakwaterlabs/ad-rbac
 Basic functions to interact with the HighWinds API
 
 __Downloads__: 7 | __Repository__: 
-
-## [Logic.Monitor](https://www.powershellgallery.com/Packages/Logic.Monitor/4.5) | 4.5
-
-### Published: 09/08/2023 02:49:17 by Steven Villardi
-
-PowerShell module to query the Logic Monitor API. This is a personal project and is not an offically supported LogicMonitor integration.
-
-__Downloads__: 2,254 | __Repository__: https://github.com/stevevillardi/Logic.Monitor
 
 ## [BenchPress.Azure](https://www.powershellgallery.com/Packages/BenchPress.Azure/0.2.2) | 0.2.2
 
@@ -2077,69 +2141,4 @@ Parses Chocolatey logs into easy to use objects.
 
 __Downloads__: 23 | __Repository__: https://github.com/HeyItsGilbert/ChocoLogParse/
 
-## [SpecIRLHelper](https://www.powershellgallery.com/Packages/SpecIRLHelper/1.0.0) | 1.0.0
-
-### Published: 09/07/2023 14:01:29 by owen.heaume
-
-A module to help format data required by other functions
-
-__Downloads__: 5 | __Repository__: 
-
-## [SpecBaseModule](https://www.powershellgallery.com/Packages/SpecBaseModule/1.0.9) | 1.0.9
-
-### Published: 09/07/2023 12:40:28 by owen.heaume
-
-Mandatory module for the foundation PowerShell scripts.
-
-__Downloads__: 141 | __Repository__: 
-
-## [TisaneWeb](https://www.powershellgallery.com/Packages/TisaneWeb/7.0.0) | 7.0.0
-
-### Published: 09/07/2023 11:19:34 by CR
-
-Scripts for tisane web/api
-
-__Downloads__: 45 | __Repository__: 
-
-## [TisaneOnprem](https://www.powershellgallery.com/Packages/TisaneOnprem/7.0.0) | 7.0.0
-
-### Published: 09/07/2023 11:19:18 by CR
-
-Module for on premise installtion of Tisane
-
-__Downloads__: 184 | __Repository__: 
-
-## [TisaneLocal](https://www.powershellgallery.com/Packages/TisaneLocal/7.0.0) | 7.0.0
-
-### Published: 09/07/2023 11:19:01 by CR
-
-Scripts for local Tisane Use
-
-__Downloads__: 67 | __Repository__: 
-
-## [TisaneLampServer](https://www.powershellgallery.com/Packages/TisaneLampServer/7.0.0) | 7.0.0
-
-### Published: 09/07/2023 11:18:45 by CR
-
-Client side libs for Lamp Server
-
-__Downloads__: 124 | __Repository__: 
-
-## [WilmaPSWorker](https://www.powershellgallery.com/Packages/WilmaPSWorker/0.3.136) | 0.3.136
-
-### Published: 09/07/2023 08:59:51 by Petri Asikainen
-
-Tools for Visma Wilma
-
-__Downloads__: 365 | __Repository__: 
-
-## [BicepNet.PS](https://www.powershellgallery.com/Packages/BicepNet.PS/2.2.1) | 2.2.1
-
-### Published: 09/07/2023 07:31:11 by Simon Wåhlin
-
-A thin wrapper around bicep that will load all Bicep assemblies in a separate context to avoid conflicts with other modules.
-BicepNet is developed for the Bicep PowerShell module but could be used for any other project where you want to leverage Bicep functionality in PowerShell or .NET.
-
-__Downloads__: 64 | __Repository__: https://github.com/PSBicep/BicepNet
-
-*Updated: Wednesday, 13 September 2023 09:53:38 UTC*
+*Updated: Wednesday, 13 September 2023 17:52:52 UTC*
