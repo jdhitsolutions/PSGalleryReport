@@ -3,6 +3,110 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [Microsoft-Extractor-Suite](https://www.powershellgallery.com/Packages/Microsoft-Extractor-Suite/1.1.1) | 1.1.1
+
+### Published: 09/13/2023 09:20:50 by Joey Rentenaar & Korstiaan Stam
+
+Microsoft-Extractor-Suite is a fully-featured, actively-maintained, Powershell tool designed to streamline the process of collecting all necessary data and information from various sources within Microsoft.
+
+__Downloads__: 0 | __Repository__: 
+
+## [Tecman.Tfs.Tools](https://www.powershellgallery.com/Packages/Tecman.Tfs.Tools/1.1.66.0) | 1.1.66.0
+
+### Published: 09/13/2023 09:04:30 by James Pearson
+
+Functions to support Microsoft Dynamics 365 Business Central / Dynamics NAV development and integration with the Azure DevOps REST API
+
+__Downloads__: 2,441 | __Repository__: 
+
+## [ADEssentials](https://www.powershellgallery.com/Packages/ADEssentials/0.0.165) | 0.0.165
+
+### Published: 09/13/2023 08:47:27 by Przemyslaw Klys
+
+Helper module for Active Directory with lots of useful functions that simplify supporting Active Directory.
+
+__Downloads__: 154,469 | __Repository__: https://github.com/EvotecIT/ADEssentials
+
+## [AtlassianCloudPS](https://www.powershellgallery.com/Packages/AtlassianCloudPS/0.7.1) | 0.7.1
+
+### Published: 09/13/2023 08:20:05 by Andy Lyonette
+
+Interact with the Atlassian Cloud APIs using PowerShell
+
+__Downloads__: 3,232 | __Repository__: https://github.com/andylyonette/AtlassianCloudPS
+
+## [GraphEssentials](https://www.powershellgallery.com/Packages/GraphEssentials/0.0.34) | 0.0.34
+
+### Published: 09/13/2023 08:03:53 by Przemyslaw Klys
+
+GraphEssentials is a PowerShell module that helps with Office 365 / Azure AD using mostly Graph
+
+__Downloads__: 195 | __Repository__: 
+
+## [Meca.Apps.Tools.AnsibleVault](https://www.powershellgallery.com/Packages/Meca.Apps.Tools.AnsibleVault/0.0.1) | 0.0.1
+
+### Published: 09/13/2023 07:56:44 by dqlr
+
+PowerShell commands for ansible vault file generation and transformation.
+
+__Downloads__: 0 | __Repository__: 
+
+## [ExchangeEssentials](https://www.powershellgallery.com/Packages/ExchangeEssentials/0.5.0) | 0.5.0
+
+### Published: 09/13/2023 07:28:34 by Przemyslaw Klys
+
+ExchangeEssentials
+
+__Downloads__: 44 | __Repository__: https://github.com/EvotecIT/ExchangeEssentials
+
+## [LumifyTrainerTools](https://www.powershellgallery.com/Packages/LumifyTrainerTools/2.0.3) | 2.0.3
+
+### Published: 09/13/2023 05:19:15 by Brent Denny
+
+This is a set of tools to help Lumify trainers with home based classrooms
+
+__Downloads__: 0 | __Repository__: 
+
+## [Intersight.PowerShell](https://www.powershellgallery.com/Packages/Intersight.PowerShell/1.0.11.13515) | 1.0.11.13515
+
+### Published: 09/13/2023 05:08:59 by Cisco Systems
+
+Intersight Powershell module provides the cmdlets to manage, analyze, and automate the IT infrastructure in Intersight.
+
+__Downloads__: 5,111 | __Repository__: https://github.com/CiscoDevNet/intersight-powershell
+
+## [ModuleBuilder](https://www.powershellgallery.com/Packages/ModuleBuilder/3.0.1) | 3.0.1
+
+### Published: 09/13/2023 05:02:30 by Joel Bennett
+
+A module for authoring and building PowerShell modules
+
+__Downloads__: 121,022 | __Repository__: https://github.com/PoshCode/ModuleBuilder
+
+## [PSMutagen.Skyrim](https://www.powershellgallery.com/Packages/PSMutagen.Skyrim/0.0.2) | 0.0.2
+
+### Published: 09/13/2023 03:05:10 by ThePoShWolf
+
+A PowerShell module for working with Bethesda mods.
+
+__Downloads__: 0 | __Repository__: https://github.com/ThePoShWolf/PSMutagen
+
+## [PSMutagen.Fallout4](https://www.powershellgallery.com/Packages/PSMutagen.Fallout4/0.0.2) | 0.0.2
+
+### Published: 09/13/2023 03:03:50 by ThePoShWolf
+
+A PowerShell module for working with Bethesda mods.
+
+__Downloads__: 0 | __Repository__: https://github.com/ThePoShWolf/PSMutagen
+
+## [PSMutagen](https://www.powershellgallery.com/Packages/PSMutagen/0.0.2) | 0.0.2
+
+### Published: 09/13/2023 03:03:41 by ThePoShWolf
+
+A PowerShell module for working with Bethesda mods.
+
+__Downloads__: 0 | __Repository__: https://github.com/ThePoShWolf/PSMutagen
+
 ## [OCI.PSModules](https://www.powershellgallery.com/Packages/OCI.PSModules/67.1.0) | 67.1.0
 
 ### Published: 09/13/2023 00:22:21 by Oracle Cloud Infrastructure
@@ -363,6 +467,14 @@ __Downloads__: 488 | __Repository__: https://github.com/oracle/oci-powershell-mo
 This modules provides Cmdlets for OCI Oce Service
 
 __Downloads__: 3,693 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+
+## [OCI.PSModules.Objectstorage](https://www.powershellgallery.com/Packages/OCI.PSModules.Objectstorage/67.1.0) | 67.1.0
+
+### Published: 09/12/2023 23:59:35 by Oracle Cloud Infrastructure
+
+This modules provides Cmdlets for OCI Objectstorage Service
+
+__Downloads__: 8,410 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
 ## [OCI.PSModules.Nosql](https://www.powershellgallery.com/Packages/OCI.PSModules.Nosql/67.1.0) | 67.1.0
 
@@ -1101,6 +1213,14 @@ Your help is appreciated. Just contact me.
 
 __Downloads__: 81 | __Repository__: https://github.com/Apteco/AptecoPSModules/tree/dev/AptecoPSFramework
 
+## [ExtendedHistory](https://www.powershellgallery.com/Packages/ExtendedHistory/1.0) | 1.0
+
+### Published: 09/12/2023 20:07:24 by Ole Rand-Hendriksen
+
+A module for working with extended PowerShell command history. It lets you get history from previous sessions, get multi-line commands, and invoke them from history.
+
+__Downloads__: 0 | __Repository__: https://github.com/randriksen/ExtendedHistory
+
 ## [ISEScriptRunner](https://www.powershellgallery.com/Packages/ISEScriptRunner/6.9.2748.0) | 6.9.2748.0
 
 ### Published: 09/12/2023 18:40:37 by ScriptRunner Software GmbH
@@ -1228,6 +1348,14 @@ __Downloads__: 8,144 | __Repository__: https://github.com/TheTaylorLee/AdminTool
 Functions to Automate Bulk VMWare Tasks
 
 __Downloads__: 14,927 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [AdminToolbox.Remoting](https://www.powershellgallery.com/Packages/AdminToolbox.Remoting/1.9.104) | 1.9.104
+
+### Published: 09/12/2023 14:19:49 by Taylor Lee
+
+Functions for remote management and access.
+
+__Downloads__: 14,827 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.Office365](https://www.powershellgallery.com/Packages/AdminToolbox.Office365/3.1.54) | 3.1.54
 
@@ -1514,14 +1642,6 @@ LogicMonitor REST API-related functions.
 
 __Downloads__: 10,018 | __Repository__: https://github.com/wetling23/logicmonitor-posh-module
 
-## [LumifyTrainerTools](https://www.powershellgallery.com/Packages/LumifyTrainerTools/1.0.1) | 1.0.1
-
-### Published: 09/11/2023 21:54:11 by Brent Denny
-
-This is a set of tools to help Lumify trainers with home based classrooms
-
-__Downloads__: 0 | __Repository__: 
-
 ## [AzAppGatewayVisualizer](https://www.powershellgallery.com/Packages/AzAppGatewayVisualizer/1.0.0) | 1.0.0
 
 ### Published: 09/11/2023 18:34:59 by Mark Farkas
@@ -1561,6 +1681,14 @@ __Downloads__: 31 | __Repository__: https://getps.dev/modules/PSLogs/getstarted
 Azure API call handler for Microsoft Graph, Azure Resource Management, KeyVault and Log Analytics. Visit aka.ms/AzAPICall
 
 __Downloads__: 106,704 | __Repository__: https://aka.ms/AzAPICall
+
+## [pwsh-environment](https://www.powershellgallery.com/Packages/pwsh-environment/1.0.0) | 1.0.0
+
+### Published: 09/11/2023 14:07:06 by sawamura
+
+This is a module designed for manipulating environment variables.
+
+__Downloads__: 0 | __Repository__: https://gitlab.com/kamiyonanayo/pwsh-environment
 
 ## [Easit.ProcessRunner.GlobalFunctions](https://www.powershellgallery.com/Packages/Easit.ProcessRunner.GlobalFunctions/1.1.0) | 1.1.0
 
@@ -1807,14 +1935,6 @@ Dynamic SQL Query Builder
 
 __Downloads__: 2 | __Repository__: https://adam-bacon.netlify.app/
 
-## [HomeBasedDDLSClassTools](https://www.powershellgallery.com/Packages/HomeBasedDDLSClassTools/2.0.4) | 2.0.4
-
-### Published: 09/08/2023 10:18:17 by Brent Denny
-
-This is a set of tools to help Lumify trainers with home based classrooms
-
-__Downloads__: 957 | __Repository__: 
-
 ## [PSFramework](https://www.powershellgallery.com/Packages/PSFramework/1.9.308) | 1.9.308
 
 ### Published: 09/08/2023 09:08:33 by Friedrich Weinmann
@@ -1981,6 +2101,14 @@ Scripts for tisane web/api
 
 __Downloads__: 45 | __Repository__: 
 
+## [TisaneOnprem](https://www.powershellgallery.com/Packages/TisaneOnprem/7.0.0) | 7.0.0
+
+### Published: 09/07/2023 11:19:18 by CR
+
+Module for on premise installtion of Tisane
+
+__Downloads__: 184 | __Repository__: 
+
 ## [TisaneLocal](https://www.powershellgallery.com/Packages/TisaneLocal/7.0.0) | 7.0.0
 
 ### Published: 09/07/2023 11:19:01 by CR
@@ -2014,135 +2142,4 @@ BicepNet is developed for the Bicep PowerShell module but could be used for any 
 
 __Downloads__: 64 | __Repository__: https://github.com/PSBicep/BicepNet
 
-## [IAMClient](https://www.powershellgallery.com/Packages/IAMClient/2.2.0) | 2.2.0
-
-### Published: 09/07/2023 06:53:35 by Aurel Schwitter & Joel Grand
-
-PowerShell module to access the IAM API
-
-__Downloads__: 821 | __Repository__: https://gitlab.ethz.ch/iamclient/iam-powershell
-
-## [PsSmo](https://www.powershellgallery.com/Packages/PsSmo/1.2.1) | 1.2.1
-
-### Published: 09/07/2023 06:37:30 by Steffen Kampmann
-
-The PowerShell SQL Client module replaces the SQL Server utilities SQLCMD with native PowerShell commands.
-
-__Downloads__: 1,233 | __Repository__: https://github.com/abbgrade/PsSmo
-
-## [CoreePower.Lib](https://www.powershellgallery.com/Packages/CoreePower.Lib/0.0.4) | 0.0.4
-
-### Published: 09/07/2023 05:12:53 by Carsten Riedel
-
-The "CoreePower.Lib" module is the a part of the CoreePower project.
-It adds command-line programs like 7-Zip, Git, GitHub CLI, NuGet, dotnet, and Visual Studio Code from the original sources.
-See full readme at https://github.com/carsten-riedel/CoreePower.Lib/#readme
-Note: the "Initialize-CorePowerLatest" command may conflict with existing installations. Use with caution.
-
-__Downloads__: 896 | __Repository__: https://github.com/carsten-riedel/CoreePower.Lib
-
-## [CoreePower.Config](https://www.powershellgallery.com/Packages/CoreePower.Config/0.0.2) | 0.0.2
-
-### Published: 09/07/2023 05:12:05 by Carsten Riedel
-
-Powershell module for basic configuration
-
-__Downloads__: 138 | __Repository__: 
-
-## [CoreePower.Common](https://www.powershellgallery.com/Packages/CoreePower.Common/0.0.1) | 0.0.1
-
-### Published: 09/07/2023 04:54:18 by Carsten Riedel
-
-Basic library.
-
-__Downloads__: 120 | __Repository__: 
-
-## [CoreePower.Module](https://www.powershellgallery.com/Packages/CoreePower.Module/0.0.3) | 0.0.3
-
-### Published: 09/07/2023 04:47:03 by Carsten Riedel
-
-A library for fast module creation
-
-__Downloads__: 249 | __Repository__: 
-
-## [MecaAppsToolsAnsibleVault](https://www.powershellgallery.com/Packages/MecaAppsToolsAnsibleVault/0.0.1) | 0.0.1
-
-### Published: 09/07/2023 04:34:51 by dev dqlr
-
-PowerShell commands for ansible vault file generation and transformation.
-
-__Downloads__: 6 | __Repository__: 
-
-## [FC_Core](https://www.powershellgallery.com/Packages/FC_Core/5.4.1) | 5.4.1
-
-### Published: 09/07/2023 01:53:46 by Brandon McClure
-
-Core functions required for all of the other friendly chainsaw modules
-
-__Downloads__: 784 | __Repository__: 
-
-## [Nevergreen](https://www.powershellgallery.com/Packages/Nevergreen/2309.1) | 2309.1
-
-### Published: 09/06/2023 21:55:54 by Dan Gough
-
-This module is an alternative to Evergreen, and allows you to find the latest version and download URL for various Windows apps. Evergreen uses API queries to obtain its data whereas this module is more focussed on web scraping. This is more prone to breaking when websites are changed, hence the name!
-
-__Downloads__: 68,259 | __Repository__: https://github.com/DanGough/Nevergreen
-
-## [psPAS](https://www.powershellgallery.com/Packages/psPAS/6.0.4) | 6.0.4
-
-### Published: 09/06/2023 21:14:41 by Pete Maan
-
-Module for CyberArk Privileged Access Security Web Service REST API
-
-__Downloads__: 76,809 | __Repository__: https://pspas.pspete.dev/
-
-## [ALH](https://www.powershellgallery.com/Packages/ALH/2.3.0) | 2.3.0
-
-### Published: 09/06/2023 19:29:43 by Dieter Koch
-
-Admins Little Helper - a collection of helpful PowerShell scripts.
-
-__Downloads__: 193 | __Repository__: https://github.com/admins-little-helper/ALH
-
-## [SqlChangeAutomation](https://www.powershellgallery.com/Packages/SqlChangeAutomation/4.6.23249.2128) | 4.6.23249.2128
-
-### Published: 09/06/2023 16:53:40 by Red Gate Software Ltd.
-
-Automation tools for production quality database deployment
-
-__Downloads__: 4,510,613 | __Repository__: https://www.red-gate.com/sca/productpage
-
-## [SdnDiagnostics](https://www.powershellgallery.com/Packages/SdnDiagnostics/3.2309.783.152651) | 3.2309.783.152651
-
-### Published: 09/06/2023 15:27:22 by Adam Rudell Luyao Feng
-
-SdnDiagnostics is a tool used to simplify the data collection and diagnostics of Windows Software Defined Networking.
-
-__Downloads__: 31,203 | __Repository__: https://github.com/microsoft/SdnDiagnostics
-
-## [AppManiProgramManager](https://www.powershellgallery.com/Packages/AppManiProgramManager/1.37.2) | 1.37.2
-
-### Published: 09/06/2023 15:07:55 by AppMani
-
-Module for installing basic programs: This module provides functions for downloading installers from specified links, installing the programs, verifying the installed programs/services, and cleaning up the installer files.
-
-__Downloads__: 106,476 | __Repository__: 
-
-## [Liquit.Server.PowerShell](https://www.powershellgallery.com/Packages/Liquit.Server.PowerShell/4.0.3264.5264) | 4.0.3264.5264
-
-### Published: 09/06/2023 13:01:35 by Liquit Software B.V.
-
-Liquit Workspace PowerShell Module
-
-__Downloads__: 1,601 | __Repository__: 
-
-## [CleanupMonster](https://www.powershellgallery.com/Packages/CleanupMonster/2.6.0) | 2.6.0
-
-### Published: 09/06/2023 11:26:18 by Przemyslaw Klys
-
-This module provides an easy way to cleanup Active Directory from dead/old objects based on various criteria. It can also disable, move or delete objects. It can utilize Azure AD, Intune and Jamf to get additional information about objects before deleting them.
-
-__Downloads__: 157 | __Repository__: https://github.com/EvotecIT/CleanupMonster
-
-*Updated: Wednesday, 13 September 2023 02:02:23 UTC*
+*Updated: Wednesday, 13 September 2023 09:53:38 UTC*
