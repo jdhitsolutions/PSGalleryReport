@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Wednesday, 13 September 2023 17:53:05 UTC
+Updated: Thursday, 14 September 2023 02:02:26 UTC
 
 .bat
 .env
@@ -175,7 +175,6 @@ admf
 admin
 admin-tools
 adminbyrequest
-admindirectory
 administration
 administrative
 administrativeunit
@@ -714,6 +713,7 @@ base64
 base64string
 base64url
 base85
+basecamp
 based
 baseline
 basename
@@ -1362,7 +1362,6 @@ conservation
 console
 consoleguitools
 consolemenu
-consolemusic
 consumer
 consumption
 contact
@@ -1498,6 +1497,7 @@ crescendobuilt
 cresendo
 crestron
 crime
+crlf
 crm
 crm2016
 cron
@@ -1756,7 +1756,6 @@ description
 deserialize
 design
 desired
-desiredstate
 desiredstateconfiguration
 desk
 desktop
@@ -1770,6 +1769,7 @@ deutschland
 dev
 dev-tools
 devart
+devcenter
 devdeer
 developer
 developer_command_prompt
@@ -1883,7 +1883,6 @@ dl
 dll
 dlmautomation
 dlmigration
-dlp
 dmarc
 dmgr
 dmi
@@ -1941,6 +1940,7 @@ dogstatsd
 dok
 dokuwiki
 domain
+domains
 domino
 donothing
 dos
@@ -2145,6 +2145,7 @@ encodetext
 encoding
 encrypt
 encryption
+end-of-line
 endomondo
 endpoint
 endpoints
@@ -2172,7 +2173,6 @@ enum
 enumerable
 env
 environment
-environment-variables
 environmentmanagent
 environmentmodules
 environments
@@ -3147,6 +3147,7 @@ imei
 imi
 impala
 impersonation
+imperva
 import
 import-csv
 import-dtdriverpackpackagedefinitionsms
@@ -3376,6 +3377,7 @@ jnet
 jnetps
 joat
 job
+jobcan
 jobs
 jobscheduler
 johnshopkins
@@ -3407,7 +3409,6 @@ jumpcloud
 jumpstart
 junction
 junctions
-junit
 jupyter
 jupytor
 justenoughadministration
@@ -3558,6 +3559,7 @@ lease
 leetabit
 leftjoin
 legacy
+legacyad
 legends
 lego
 lein
@@ -3568,9 +3570,11 @@ lenovo
 less
 lesspass
 letsencrypt
+lf
 lgpo
 lib
 libgit2
+libraries
 library
 libvirt
 licence
@@ -4146,6 +4150,7 @@ myjson
 myjson.com
 myob
 myposh
+mypstag
 mysql
 mysql-database
 mytest
@@ -4885,7 +4890,6 @@ poshy-wrap-pipenv
 poshy-wrap-pyenv
 poshy-wrap-pylint
 poshy-wrap-python
-poshy-wrap-ruby
 poshy-wrap-systemctl
 poshy-wrap-terraform
 poshy-wrap-terragrunt
@@ -4989,7 +4993,6 @@ ppt
 pptp
 pptx
 pq
-pranks
 predicate
 prediction
 predictive
@@ -6156,9 +6159,6 @@ pscommand_invoke-pipenvvenv
 pscommand_invoke-pipenvwhere
 pscommand_invoke-pyenv
 pscommand_invoke-pylintreportsdisabled
-pscommand_invoke-ruby
-pscommand_invoke-rubyexecute
-pscommand_invoke-rubyexecutehttpdhere
 pscommand_invoke-systemctl-add-requires
 pscommand_invoke-systemctl-add-wants
 pscommand_invoke-systemctl-cancel
@@ -6649,7 +6649,6 @@ pscommand_pylint-quick
 pscommand_pyserver
 pscommand_python
 pscommand_python3
-pscommand_rb
 pscommand_read-dotenv
 pscommand_register-argcompleteargumentcompleter
 pscommand_remove_gem
@@ -6678,8 +6677,6 @@ pscommand_reset-gitworkingtreetolastcommitlosechanges
 pscommand_reset-gitworkingtreetolastcommitlosechangesandcleanfully
 pscommand_resume-gitbranchbaseupdate
 pscommand_resume-gitcherrypick
-pscommand_rrun
-pscommand_rserver
 pscommand_sc-disable-now
 pscommand_sc-enable-now
 pscommand_sc-mask-now
@@ -6942,7 +6939,6 @@ psdesiredstateconfiguration
 psdevops
 psdocs
 psdocs-documents
-psdocsgenerator
 psdrawio
 psdrive
 psdrives
@@ -6966,7 +6962,6 @@ pses
 psexcel
 psexec
 psexec.exe
-psexpandline
 psfciv
 psfitbit
 psfive9
@@ -7571,9 +7566,6 @@ psfunction_invoke-pipenvvenv
 psfunction_invoke-pipenvwhere
 psfunction_invoke-pyenv
 psfunction_invoke-pylintreportsdisabled
-psfunction_invoke-ruby
-psfunction_invoke-rubyexecute
-psfunction_invoke-rubyexecutehttpdhere
 psfunction_invoke-systemctl-add-requires
 psfunction_invoke-systemctl-add-wants
 psfunction_invoke-systemctl-cancel
@@ -8723,6 +8715,7 @@ securegopher+
 securemfa
 securerdp
 securescore
+securesphere
 securestring
 security
 security-awareness-training
@@ -9270,6 +9263,8 @@ streak
 stream
 streamanalytics
 streaming
+streamreader
+streamwriter
 stretch
 strictmode
 strikethrough-text
@@ -9444,6 +9439,7 @@ taskgroup
 taskmanagement
 tasks
 taskscheduler
+taxjar
 taxonomy
 tcp
 tcp/ip
@@ -9589,8 +9585,6 @@ tip
 tips
 title
 tls
-tls11
-tls12
 tlsprotocol
 tmux
 to-do
@@ -9761,12 +9755,10 @@ ud-confetti
 ud-control
 ud-dashboard
 ud-datepicker
-ud-field
 ud-flexytable
 ud-funnel
 ud-hero
 ud-illustration
-ud-input
 ud-licensed
 ud-loadingoverlay
 ud-minesweeper
@@ -9778,6 +9770,7 @@ ud-piechart3d
 ud-pivottable
 ud-progressstepbar
 ud-rangeslider
+ud-readingbar
 ud-scrollspy
 ud-selectdatetime
 ud-selector
@@ -9898,7 +9891,6 @@ usap
 usb
 useful
 user
-user-environment
 userdiscovery
 usergroup
 userinterface
@@ -10079,7 +10071,6 @@ voiceconfig
 voiceservices
 voidtools
 volkskrant
-volta
 volume
 volumeshadowcopy
 volumio
@@ -10266,7 +10257,6 @@ windows-api
 windows-control-panel
 windows-defender
 windows-defender-application-control
-windows-environment
 windows-explorer
 windows-features
 windows-firewall

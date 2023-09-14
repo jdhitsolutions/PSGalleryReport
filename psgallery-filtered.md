@@ -3,13 +3,81 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
-## [HGV.Automation.Tools](https://www.powershellgallery.com/Packages/HGV.Automation.Tools/1.0.0) | 1.0.0
+## [tiPS](https://www.powershellgallery.com/Packages/tiPS/0.0.61) | 0.0.61
 
-### Published: 09/13/2023 17:37:15 by SRE Team
+### Published: 09/14/2023 00:31:00 by Daniel Schroeder
+
+PowerShell tips delivered straight to your terminal.
+
+__Downloads__: 345 | __Repository__: https://github.com/deadlydog/PowerShell.tiPS
+
+## [tenthirtyam.module.test](https://www.powershellgallery.com/Packages/tenthirtyam.module.test/1.1.3.1000) | 1.1.3.1000
+
+### Published: 09/13/2023 23:28:58 by Ryan Johnson
+
+Test Module
+
+__Downloads__: 0 | __Repository__: 
+
+## [CATEncryptor](https://www.powershellgallery.com/Packages/CATEncryptor/0.0.1) | 0.0.1
+
+### Published: 09/13/2023 21:39:28 by Thomas Rayner
+
+Functions for encrypting and decrypting files using certificates installed on the system.
+
+    To make a cert that works with these functions:
+
+    New-SelfSignedCertificate -DnsName $CertName -CertStoreLocation $CertificateStoreLocation  -KeyAlgorithm RSA -KeyLength 4096 -KeyExportPolicy Exportable -KeyProtection None -Provider 'Microsoft Enhanced RSA and AES Cryptographic Provider'
+
+__Downloads__: 0 | __Repository__: 
+
+## [PSmRemoteNG](https://www.powershellgallery.com/Packages/PSmRemoteNG/23.9.13.1545) | 23.9.13.1545
+
+### Published: 09/13/2023 20:45:16 by Shannon Graybrook
+
+A module to create mRemoteNG connection files from PowerShell.
+
+__Downloads__: 2,133 | __Repository__: 
+
+## [Log4NetParse](https://www.powershellgallery.com/Packages/Log4NetParse/0.4.0) | 0.4.0
+
+### Published: 09/13/2023 20:37:01 by Gilbert Sanchez
+
+A module to parse log4net logs.
+
+__Downloads__: 88 | __Repository__: https://github.com/HeyItsGilbert/Log4NetParse/
+
+## [test_tagmodule1](https://www.powershellgallery.com/Packages/test_tagmodule1/1.0.0) | 1.0.0
+
+### Published: 09/13/2023 20:10:10 by annavied
+
+my test module
+
+__Downloads__: 0 | __Repository__: 
+
+## [DTX.Tools.Installer](https://www.powershellgallery.com/Packages/DTX.Tools.Installer/0.0.17) | 0.0.17
+
+### Published: 09/13/2023 18:49:36 by Platform Operations Team
+
+Dotmatics module installer tool.
+
+__Downloads__: 0 | __Repository__: 
+
+## [HGV.Automation.Tools](https://www.powershellgallery.com/Packages/HGV.Automation.Tools/2023.9.13.3) | 2023.9.13.3
+
+### Published: 09/13/2023 18:43:41 by SRE Team
 
 This is a compilation of common scripts used when putting up a new server.
 
 __Downloads__: 0 | __Repository__: 
+
+## [AzureHelper](https://www.powershellgallery.com/Packages/AzureHelper/1.0.56) | 1.0.56
+
+### Published: 09/13/2023 18:30:43 by Paul Harrison
+
+This module provides cmdlets to help in daily work, find cost savings, and report on Azure Policy compliance
+
+__Downloads__: 2,226 | __Repository__: 
 
 ## [PsDownload](https://www.powershellgallery.com/Packages/PsDownload/0.1.2) | 0.1.2
 
@@ -18,14 +86,6 @@ __Downloads__: 0 | __Repository__:
 A PowerShell module for downloading files.
 
 __Downloads__: 2 | __Repository__: https://github.com/DanGough/PsDownload
-
-## [tiPS](https://www.powershellgallery.com/Packages/tiPS/0.0.60) | 0.0.60
-
-### Published: 09/13/2023 17:07:13 by Daniel Schroeder
-
-PowerShell tips delivered straight to your terminal.
-
-__Downloads__: 345 | __Repository__: https://github.com/deadlydog/PowerShell.tiPS
 
 ## [PSComputerManagementZp](https://www.powershellgallery.com/Packages/PSComputerManagementZp/0.0.3) | 0.0.3
 
@@ -83,14 +143,6 @@ PowerShell module to query the Logic Monitor API. This is a personal project and
 
 __Downloads__: 2,254 | __Repository__: https://github.com/stevevillardi/Logic.Monitor
 
-## [AzureHelper](https://www.powershellgallery.com/Packages/AzureHelper/1.0.55) | 1.0.55
-
-### Published: 09/13/2023 13:55:11 by Paul Harrison
-
-This module provides cmdlets to help in daily work, find cost savings, and report on Azure Policy compliance
-
-__Downloads__: 2,226 | __Repository__: 
-
 ## [SqlChangeAutomation](https://www.powershellgallery.com/Packages/SqlChangeAutomation/4.6.23255.2159) | 4.6.23255.2159
 
 ### Published: 09/13/2023 12:38:43 by Red Gate Software Ltd.
@@ -98,14 +150,6 @@ __Downloads__: 2,226 | __Repository__:
 Automation tools for production quality database deployment
 
 __Downloads__: 4,510,613 | __Repository__: https://www.red-gate.com/sca/productpage
-
-## [DTX.Tools.Installer](https://www.powershellgallery.com/Packages/DTX.Tools.Installer/0.0.13) | 0.0.13
-
-### Published: 09/13/2023 12:37:16 by Platform Operations Team
-
-Dotmatics module installer tool.
-
-__Downloads__: 0 | __Repository__: 
 
 ## [ChocoMan](https://www.powershellgallery.com/Packages/ChocoMan/1.2.1) | 1.2.1
 
@@ -162,14 +206,6 @@ __Downloads__: 195 | __Repository__:
 PowerShell commands for ansible vault file generation and transformation.
 
 __Downloads__: 0 | __Repository__: 
-
-## [ExchangeEssentials](https://www.powershellgallery.com/Packages/ExchangeEssentials/0.5.0) | 0.5.0
-
-### Published: 09/13/2023 07:28:34 by Przemyslaw Klys
-
-ExchangeEssentials
-
-__Downloads__: 44 | __Repository__: https://github.com/EvotecIT/ExchangeEssentials
 
 ## [LumifyTrainerTools](https://www.powershellgallery.com/Packages/LumifyTrainerTools/2.0.3) | 2.0.3
 
@@ -1485,14 +1521,6 @@ Microsoft Graph interactive API Functions
 
 __Downloads__: 5,179 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
-## [AdminToolbox.Fun](https://www.powershellgallery.com/Packages/AdminToolbox.Fun/1.6.105) | 1.6.105
-
-### Published: 09/12/2023 14:17:29 by Taylor Lee
-
-Functions that have no purpose
-
-__Downloads__: 14,827 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
 ## [AdminToolbox.FileManagement](https://www.powershellgallery.com/Packages/AdminToolbox.FileManagement/1.15.95) | 1.15.95
 
 ### Published: 09/12/2023 14:16:54 by Taylor Lee
@@ -2117,28 +2145,4 @@ Smtp client diagnostic modules for troubleshoting SMTP client submission
 
 __Downloads__: 473 | __Repository__: https://github.com/richfaj/SmtpClientDiag
 
-## [DFSDsc](https://www.powershellgallery.com/Packages/DFSDsc/5.0.1) | 5.0.1
-
-### Published: 09/07/2023 18:18:16 by DSC Community
-
-DSC resources for configuring Distributed File System Replication and Namespaces.
-
-__Downloads__: 268,373 | __Repository__: https://github.com/dsccommunity/DFSDsc
-
-## [PowerShellProTools](https://www.powershellgallery.com/Packages/PowerShellProTools/2023.9.0) | 2023.9.0
-
-### Published: 09/07/2023 17:19:20 by Ironman Software LLC
-
-PowerShell script packaging, profiling, WPF and Windows Forms design, and desktop automation.
-
-__Downloads__: 23,979 | __Repository__: 
-
-## [ChocoLogParse](https://www.powershellgallery.com/Packages/ChocoLogParse/0.4.0) | 0.4.0
-
-### Published: 09/07/2023 14:31:47 by Gilbert Sanchez
-
-Parses Chocolatey logs into easy to use objects.
-
-__Downloads__: 23 | __Repository__: https://github.com/HeyItsGilbert/ChocoLogParse/
-
-*Updated: Wednesday, 13 September 2023 17:52:52 UTC*
+*Updated: Thursday, 14 September 2023 02:02:12 UTC*
