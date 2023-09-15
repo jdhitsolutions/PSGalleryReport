@@ -3,6 +3,78 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [UncommonSense.Nrc](https://www.powershellgallery.com/Packages/UncommonSense.Nrc/0.1.0.26) | 0.1.0.26
+
+### Published: 09/15/2023 09:32:03 by Jan Hoek
+
+PowerShell module for listing NRC articles
+
+__Downloads__: 5,864 | __Repository__: https://github.com/jhoek/UncommonSense.Nrc
+
+## [ConventionalCommits](https://www.powershellgallery.com/Packages/ConventionalCommits/0.2.3) | 0.2.3
+
+### Published: 09/15/2023 09:12:39 by Arwyn
+
+A powerhsell module dedicated to parsing conventional commits messages
+
+__Downloads__: 239 | __Repository__: https://github.com/ArwynFr/pwsh-ConventionalCommits
+
+## [ConventionalVersioning](https://www.powershellgallery.com/Packages/ConventionalVersioning/0.1.6) | 0.1.6
+
+### Published: 09/15/2023 09:11:54 by Arwyn
+
+A powerhsell module dedicated to publishing GitHub releases based on conventional commits
+
+__Downloads__: 14 | __Repository__: https://github.com/ArwynFr/pwsh-ConventionalVersioning
+
+## [StepSemVer](https://www.powershellgallery.com/Packages/StepSemVer/0.2.5) | 0.2.5
+
+### Published: 09/15/2023 09:08:48 by Arwyn
+
+StepSemVer pwsh module used to increment semantic versions number.
+
+__Downloads__: 757 | __Repository__: https://github.com/ArwynFr/pwsh-StepSemVer
+
+## [BruhArmy](https://www.powershellgallery.com/Packages/BruhArmy/1.5.3) | 1.5.3
+
+### Published: 09/15/2023 08:46:54 by Evan Deters
+
+This module includes several commands that help with the deployment of virtual environments on vSphere.
+
+__Downloads__: 157 | __Repository__: https://github.com/evanjd711/bruharmy
+
+## [Generate-DockerImageVariantsHelpers](https://www.powershellgallery.com/Packages/Generate-DockerImageVariantsHelpers/0.15.0) | 0.15.0
+
+### Published: 09/15/2023 07:47:22 by The Oh Brothers
+
+Helpers to use with Generate-DockerImageVariants.
+
+__Downloads__: 145 | __Repository__: https://github.com/theohbrothers/Generate-DockerImageVariantsHelpers
+
+## [SMART-BcBuildHelper](https://www.powershellgallery.com/Packages/SMART-BcBuildHelper/1.0) | 1.0
+
+### Published: 09/15/2023 07:24:56 by rodav
+
+SMART-BcBuildHelper
+
+__Downloads__: 0 | __Repository__: 
+
+## [HGV.Automation.Tools](https://www.powershellgallery.com/Packages/HGV.Automation.Tools/23.9.15.1) | 23.9.15.1
+
+### Published: 09/15/2023 05:57:44 by SRE Team
+
+This is a compilation of common scripts used when putting up a new server.
+
+__Downloads__: 0 | __Repository__: 
+
+## [PSCiscoSupportAPIs](https://www.powershellgallery.com/Packages/PSCiscoSupportAPIs/0.3.3) | 0.3.3
+
+### Published: 09/15/2023 05:43:33 by Samuel Leslie
+
+PowerShell interface to the Cisco Support APIs
+
+__Downloads__: 361 | __Repository__: https://github.com/ralish/PSCiscoSupportAPIs
+
 ## [tiPS](https://www.powershellgallery.com/Packages/tiPS/0.0.68) | 0.0.68
 
 ### Published: 09/15/2023 01:52:07 by Daniel Schroeder
@@ -10,14 +82,6 @@ These are the latest 250 modules published to the [PowerShell Gallery](https://p
 PowerShell tips delivered straight to your terminal.
 
 __Downloads__: 345 | __Repository__: https://github.com/deadlydog/PowerShell.tiPS
-
-## [JamfPSPro](https://www.powershellgallery.com/Packages/JamfPSPro/0.0.8) | 0.0.8
-
-### Published: 09/15/2023 00:53:10 by Tristan Brazier
-
-A PowerShell module for the Jamf classic api
-
-__Downloads__: 37 | __Repository__: https://github.com/TrustyTristan/JamfPSPro
 
 ## [AppVeyorTestPsGallery](https://www.powershellgallery.com/Packages/AppVeyorTestPsGallery/1.0.517) | 1.0.517
 
@@ -34,6 +98,14 @@ __Downloads__: 40,069 | __Repository__:
 PowerShell module for configuring and optimizing Windows Server Routing and Remote Access Service (RRAS) for Always On VPN.
 
 __Downloads__: 1,571 | __Repository__: 
+
+## [LumifyTrainerTools](https://www.powershellgallery.com/Packages/LumifyTrainerTools/2.0.4) | 2.0.4
+
+### Published: 09/14/2023 21:57:34 by Brent Denny
+
+This is a set of tools to help Lumify trainers with home based classrooms
+
+__Downloads__: 0 | __Repository__: 
 
 ## [tenthirtyam.module.test](https://www.powershellgallery.com/Packages/tenthirtyam.module.test/1.6.0.1000) | 1.6.0.1000
 
@@ -147,6 +219,14 @@ PowerShell Module to create Mermaid diagrams.
 
 __Downloads__: 1,766 | __Repository__: https://abbgrade.github.io/PsMermaidTools/
 
+## [AzureDevOpsHousekeeping](https://www.powershellgallery.com/Packages/AzureDevOpsHousekeeping/1.0.0) | 1.0.0
+
+### Published: 09/14/2023 08:55:11 by Aamir Mirza Baig
+
+This module simplifies the housekeeping activities for Azure DevOps compliance and vulnerability management.
+
+__Downloads__: 0 | __Repository__: 
+
 ## [ad-rbac](https://www.powershellgallery.com/Packages/ad-rbac/1.1.1) | 1.1.1
 
 ### Published: 09/14/2023 08:18:43 by John@breakwaterlabs.net
@@ -186,14 +266,6 @@ __Downloads__: 0 | __Repository__: https://github.com/ThePoShWolf/Modrify
 A PowerShell module for working with Bethesda mods.
 
 __Downloads__: 0 | __Repository__: https://github.com/ThePoShWolf/Modrify
-
-## [HGV.Automation.Tools](https://www.powershellgallery.com/Packages/HGV.Automation.Tools/2023.9.13.7) | 2023.9.13.7
-
-### Published: 09/14/2023 02:13:19 by SRE Team
-
-This is a compilation of common scripts used when putting up a new server.
-
-__Downloads__: 0 | __Repository__: 
 
 ## [CATEncryptor](https://www.powershellgallery.com/Packages/CATEncryptor/0.0.1) | 0.0.1
 
@@ -1424,14 +1496,6 @@ This modules provides Cmdlets for OCI Adm Service
 
 __Downloads__: 1,946 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-## [OCI.PSModules.Accessgovernancecp](https://www.powershellgallery.com/Packages/OCI.PSModules.Accessgovernancecp/67.1.0) | 67.1.0
-
-### Published: 09/12/2023 23:48:03 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Accessgovernancecp Service
-
-__Downloads__: 721 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
 ## [OCI.PSModules.Common](https://www.powershellgallery.com/Packages/OCI.PSModules.Common/67.1.0) | 67.1.0
 
 ### Published: 09/12/2023 23:45:37 by Oracle Cloud Infrastructure
@@ -1577,30 +1641,6 @@ PowerShell module for listing Volkskrant articles
 
 __Downloads__: 3,265 | __Repository__: https://github.com/jhoek/UncommonSense.Volkskrant
 
-## [ConventionalCommits](https://www.powershellgallery.com/Packages/ConventionalCommits/0.2.2) | 0.2.2
-
-### Published: 09/12/2023 15:14:28 by Arwyn
-
-A powerhsell module dedicated to parsing conventional commits messages
-
-__Downloads__: 239 | __Repository__: https://github.com/ArwynFr/pwsh-ConventionalCommits
-
-## [ConventionalVersioning](https://www.powershellgallery.com/Packages/ConventionalVersioning/0.1.5) | 0.1.5
-
-### Published: 09/12/2023 15:13:54 by Arwyn
-
-A powerhsell module dedicated to publishing GitHub releases based on conventional commits
-
-__Downloads__: 14 | __Repository__: https://github.com/ArwynFr/pwsh-ConventionalVersioning
-
-## [Generate-DockerImageVariantsHelpers](https://www.powershellgallery.com/Packages/Generate-DockerImageVariantsHelpers/0.14.0) | 0.14.0
-
-### Published: 09/12/2023 14:41:48 by The Oh Brothers
-
-Helpers to use with Generate-DockerImageVariants.
-
-__Downloads__: 145 | __Repository__: https://github.com/theohbrothers/Generate-DockerImageVariantsHelpers
-
 ## [AdminToolbox](https://www.powershellgallery.com/Packages/AdminToolbox/11.0.112) | 11.0.112
 
 ### Published: 09/12/2023 14:22:24 by Taylor Lee
@@ -1656,14 +1696,6 @@ __Downloads__: 26,470 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 Microsoft Graph interactive API Functions
 
 __Downloads__: 5,179 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-## [AdminToolbox.Fun](https://www.powershellgallery.com/Packages/AdminToolbox.Fun/1.6.105) | 1.6.105
-
-### Published: 09/12/2023 14:17:29 by Taylor Lee
-
-Functions that have no purpose
-
-__Downloads__: 14,827 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.FileManagement](https://www.powershellgallery.com/Packages/AdminToolbox.FileManagement/1.15.95) | 1.15.95
 
@@ -1766,6 +1798,14 @@ BrightCom Solutions AB powershell helper.
 
 __Downloads__: 26,299 | __Repository__: 
 
+## [GeoIP](https://www.powershellgallery.com/Packages/GeoIP/0.0.2) | 0.0.2
+
+### Published: 09/12/2023 11:57:36 by regg00
+
+A PowerShell module to query GeoIP databases.
+
+__Downloads__: 0 | __Repository__: https://github.com/regg00/pwsh-ip-location
+
 ## [UncommonSense.Trouw](https://www.powershellgallery.com/Packages/UncommonSense.Trouw/0.0.24.0) | 0.0.24.0
 
 ### Published: 09/12/2023 11:40:10 by Jan Hoek
@@ -1845,14 +1885,6 @@ __Downloads__: 497 | __Repository__:
 NTS.Tools.General module contains functions that are used for general purpose
 
 __Downloads__: 1,653 | __Repository__: 
-
-## [StepSemVer](https://www.powershellgallery.com/Packages/StepSemVer/0.2.4) | 0.2.4
-
-### Published: 09/12/2023 09:48:08 by Arwyn
-
-StepSemVer pwsh module used to increment semantic versions number.
-
-__Downloads__: 757 | __Repository__: https://github.com/ArwynFr/pwsh-StepSemVer
 
 ## [aztools](https://www.powershellgallery.com/Packages/aztools/1.0.0) | 1.0.0
 
@@ -1934,22 +1966,6 @@ Azure API call handler for Microsoft Graph, Azure Resource Management, KeyVault 
 
 __Downloads__: 106,704 | __Repository__: https://aka.ms/AzAPICall
 
-## [pwsh-environment](https://www.powershellgallery.com/Packages/pwsh-environment/1.0.0) | 1.0.0
-
-### Published: 09/11/2023 14:07:06 by sawamura
-
-This is a module designed for manipulating environment variables.
-
-__Downloads__: 0 | __Repository__: https://gitlab.com/kamiyonanayo/pwsh-environment
-
-## [Easit.ProcessRunner.GlobalFunctions](https://www.powershellgallery.com/Packages/Easit.ProcessRunner.GlobalFunctions/1.1.0) | 1.1.0
-
-### Published: 09/11/2023 13:32:42 by Anders Thyrsson
-
-Functions module to be used in script executed by EasitProcessRunner
-
-__Downloads__: 0 | __Repository__: https://github.com/easitab/Easit.ProcessRunner.GlobalFunctions
-
 ## [Nectar10](https://www.powershellgallery.com/Packages/Nectar10/3.68) | 3.68
 
 ### Published: 09/11/2023 12:59:56 by Ken Lasko
@@ -2013,14 +2029,6 @@ __Downloads__: 172 | __Repository__:
 PowerShell Module for managing vRLI Cloud
 
 __Downloads__: 51 | __Repository__: 
-
-## [BruhArmy](https://www.powershellgallery.com/Packages/BruhArmy/1.5.0) | 1.5.0
-
-### Published: 09/10/2023 23:29:51 by Evan Deters
-
-This module includes several commands that help with the deployment of virtual environments on vSphere.
-
-__Downloads__: 157 | __Repository__: https://github.com/evanjd711/bruharmy
 
 ## [Posh](https://www.powershellgallery.com/Packages/Posh/0.1.8) | 0.1.8
 
@@ -2131,12 +2139,4 @@ PowerShell Module of Utilities
 
 __Downloads__: 692 | __Repository__: https://github.com/MariusStorhaug/Utilities
 
-## [Corsinvest.ProxmoxVE.Api](https://www.powershellgallery.com/Packages/Corsinvest.ProxmoxVE.Api/8.0.2) | 8.0.2
-
-### Published: 09/08/2023 16:32:41 by Daniele Corsini
-
-PowerShell for Proxmox VE
-
-__Downloads__: 1,537 | __Repository__: https://github.com/Corsinvest/cv4pve-api-powershell
-
-*Updated: Friday, 15 September 2023 02:02:44 UTC*
+*Updated: Friday, 15 September 2023 09:52:47 UTC*
