@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Thursday, 14 September 2023 17:53:09 UTC
+Updated: Friday, 15 September 2023 02:02:57 UTC
 
 .bat
 .env
@@ -408,6 +408,7 @@ apt
 apt-get
 apt-get-update
 apteco
+aptitude
 aql
 arangodb
 arc
@@ -449,6 +450,7 @@ aruba
 as
 asa
 asa.unittest
+asana
 asbuiltreport
 asc
 ascii
@@ -712,7 +714,6 @@ base64
 base64string
 base64url
 base85
-basecamp
 based
 baseline
 basename
@@ -1256,6 +1257,7 @@ columns
 com
 combinations
 combine
+comdata
 comic
 comical
 comics
@@ -1496,6 +1498,7 @@ crescendobuilt
 cresendo
 crestron
 crime
+crlf
 crm
 crm2016
 cron
@@ -1809,6 +1812,7 @@ dictionary
 diff
 difference
 dig
+digikam
 digital
 digital-forensics
 digitalforensics
@@ -2144,6 +2148,7 @@ encodetext
 encoding
 encrypt
 encryption
+end-of-line
 endomondo
 endpoint
 endpoints
@@ -2295,6 +2300,7 @@ executables
 execute
 exexml
 exif
+exiftool
 exists
 exitcode
 exitprocessrequest
@@ -2458,6 +2464,7 @@ financeandoperations
 financeoperations
 financial
 financialedge
+financials
 find
 find-call
 find-caller
@@ -2649,7 +2656,6 @@ geocache
 geocaching
 geoencode
 geoencoding
-geoip
 geolocation
 geosearching
 geotagging
@@ -3159,7 +3165,6 @@ inboxrule
 incident
 incident-response
 incidentresponse
-incontact
 indents
 index
 indexdb
@@ -3297,6 +3302,7 @@ iperf
 ipfy.org
 iphone
 ipilot
+iplookup
 ipmaths
 ipp
 iprange
@@ -3568,6 +3574,7 @@ lenovo
 less
 lesspass
 letsencrypt
+lf
 lgpo
 lib
 libgit2
@@ -4494,6 +4501,7 @@ operationsmanagementsuite
 operationsmanagementsuiteagent
 operationvalidation
 operatoraccesscontrol
+opml
 ops
 opsi
 opsmgr
@@ -4557,6 +4565,7 @@ out-gridview
 out-json
 outerjoin
 outertext
+outline
 outlook
 output
 output-to-image
@@ -4703,7 +4712,6 @@ personal
 personalisation
 personalization
 personalvault
-personio
 pester
 pf
 pfe
@@ -4859,8 +4867,8 @@ poshy-sh-isms
 poshy-sshconfig
 poshy-viewer-finder
 poshy-wrap
+poshy-wrap-apt
 poshy-wrap-argcomplete
-poshy-wrap-brew
 poshy-wrap-curl
 poshy-wrap-dnf
 poshy-wrap-docker
@@ -5106,7 +5114,6 @@ prtgnetworkmonitor
 ps
 ps-ncentral
 ps.credentialmanager
-ps1
 ps1xml
 ps1xmlgen
 ps2dll
@@ -5150,6 +5157,10 @@ pscommand_6
 pscommand_7
 pscommand_8
 pscommand_9
+pscommand_aar
+pscommand_acp
+pscommand_acse
+pscommand_acsp
 pscommand_add_ssh
 pscommand_add-envpathitem
 pscommand_add-envvarpathitem
@@ -5163,11 +5174,17 @@ pscommand_add-gittrackedfiles
 pscommand_add-gittrackedfilesall
 pscommand_add-gittrackedfilesinteractively
 pscommand_add-gittrackedfilesverbosely
+pscommand_afs
+pscommand_age
+pscommand_agli
+pscommand_aglu
+pscommand_allpkgs
+pscommand_app
+pscommand_apt-history
+pscommand_apt-list-packages
 pscommand_arch
+pscommand_asrc
 pscommand_basename
-pscommand_bcubc
-pscommand_bcubo
-pscommand_bfu
 pscommand_bgblack
 pscommand_bgblue
 pscommand_bgbrightblack
@@ -5187,14 +5204,6 @@ pscommand_bgred
 pscommand_bgrgb
 pscommand_bgwhite
 pscommand_bgyellow
-pscommand_brewp
-pscommand_brewsp
-pscommand_bubc
-pscommand_bubo
-pscommand_bubu
-pscommand_bubug
-pscommand_bugbc
-pscommand_buz
 pscommand_catimg
 pscommand_cd-
 pscommand_cd..
@@ -5536,6 +5545,7 @@ pscommand_geli
 pscommand_geo
 pscommand_geoe
 pscommand_get
+pscommand_get-aptinstalledpackages
 pscommand_get-childitemcolorfully
 pscommand_get-childitemcolorfullycramped
 pscommand_get-childitemcolorfullyrevealingly
@@ -5828,17 +5838,14 @@ pscommand_hin
 pscommand_hostname
 pscommand_hse
 pscommand_hup
-pscommand_invoke-brewlistpinned
-pscommand_invoke-brewpin
-pscommand_invoke-brewuninstallzap
-pscommand_invoke-brewupdateandoutdated
-pscommand_invoke-brewupdateandoutdatedandupgradeandcleanup
-pscommand_invoke-brewupdateandoutdatedandupgradegreedyandcleanup
-pscommand_invoke-brewupdateandoutdatedcask
-pscommand_invoke-brewupgradeandcleanup
-pscommand_invoke-brewupgradecaskandcleanup
-pscommand_invoke-brewupgradeformula
-pscommand_invoke-brewupgradegreedyandcleanup
+pscommand_invoke-aptcachepolicy
+pscommand_invoke-aptcachesearch
+pscommand_invoke-aptcacheshowpkg
+pscommand_invoke-aptfilesearchbyregex
+pscommand_invoke-aptgetsource
+pscommand_invoke-aptlistinstalled
+pscommand_invoke-aptlistupgradable
+pscommand_invoke-aptpreferred
 pscommand_invoke-curlfollowingredirects
 pscommand_invoke-curlfollowingredirectsdownloadasnamed
 pscommand_invoke-curlfollowingredirectsdownloadasnamedcontinue
@@ -6434,6 +6441,7 @@ pscommand_keno
 pscommand_kens
 pscommand_kep
 pscommand_kepvc
+pscommand_kerndeb
 pscommand_kers
 pscommand_kes
 pscommand_kess
@@ -6942,7 +6950,6 @@ pses
 psexcel
 psexec
 psexec.exe
-psexpandline
 psfciv
 psfitbit
 psfive9
@@ -6953,6 +6960,7 @@ psfunction__pip3_package_location
 psfunction__python3
 psfunction__syspip3
 psfunction__syspip3_package_location
+psfunction_aar
 psfunction_add_ssh
 psfunction_add-envpathitem
 psfunction_add-envvarpathitem
@@ -6966,6 +6974,8 @@ psfunction_add-gittrackedfiles
 psfunction_add-gittrackedfilesall
 psfunction_add-gittrackedfilesinteractively
 psfunction_add-gittrackedfilesverbosely
+psfunction_apt-history
+psfunction_apt-list-packages
 psfunction_arch
 psfunction_basename
 psfunction_bgblack
@@ -7129,6 +7139,7 @@ psfunction_format-gitrepository
 psfunction_format-lesstermcapenv
 psfunction_format-viewerinvocationsh
 psfunction_gdv
+psfunction_get-aptinstalledpackages
 psfunction_get-childitemcolorfully
 psfunction_get-childitemcolorfullycramped
 psfunction_get-childitemcolorfullyrevealingly
@@ -7230,17 +7241,14 @@ psfunction_gitignore-reload
 psfunction_gittowork
 psfunction_gplfs
 psfunction_hostname
-psfunction_invoke-brewlistpinned
-psfunction_invoke-brewpin
-psfunction_invoke-brewuninstallzap
-psfunction_invoke-brewupdateandoutdated
-psfunction_invoke-brewupdateandoutdatedandupgradeandcleanup
-psfunction_invoke-brewupdateandoutdatedandupgradegreedyandcleanup
-psfunction_invoke-brewupdateandoutdatedcask
-psfunction_invoke-brewupgradeandcleanup
-psfunction_invoke-brewupgradecaskandcleanup
-psfunction_invoke-brewupgradeformula
-psfunction_invoke-brewupgradegreedyandcleanup
+psfunction_invoke-aptcachepolicy
+psfunction_invoke-aptcachesearch
+psfunction_invoke-aptcacheshowpkg
+psfunction_invoke-aptfilesearchbyregex
+psfunction_invoke-aptgetsource
+psfunction_invoke-aptlistinstalled
+psfunction_invoke-aptlistupgradable
+psfunction_invoke-aptpreferred
 psfunction_invoke-curlfollowingredirects
 psfunction_invoke-curlfollowingredirectsdownloadasnamed
 psfunction_invoke-curlfollowingredirectsdownloadasnamedcontinue
@@ -7772,6 +7780,7 @@ psfunction_invoke-zypperversioncompare
 psfunction_invoke-zypperwhatprovides
 psfunction_invokeyumgrouplist
 psfunction_jump
+psfunction_kerndeb
 psfunction_kres
 psfunction_local-ignore
 psfunction_measure-envvarchanges
@@ -8013,7 +8022,6 @@ psngenposh
 psobject
 psoutlog
 pspath
-pspersonio
 pspowerhour
 psprofiler
 psproject
@@ -9297,6 +9305,7 @@ supress-reboot
 surround
 survey
 surveymonkey
+sus
 sushi
 suspensive
 svesavov
@@ -9765,7 +9774,6 @@ ud-toploader
 ud-trendline
 ud-typing
 ud-window
-ud-wordtree
 udcm
 udfeedback
 udp
@@ -10047,6 +10055,7 @@ voiceconfig
 voiceservices
 voidtools
 volkskrant
+volta
 volume
 volumeshadowcopy
 volumio
@@ -10151,7 +10160,6 @@ webcamera
 webcmdlets
 webdav
 webdeploy
-webfrequest
 webhdfs
 webhelpdesk
 webhistory
@@ -10401,6 +10409,7 @@ wtx
 wu
 wug
 wunderlist
+wus
 wvd
 www
 x-cart

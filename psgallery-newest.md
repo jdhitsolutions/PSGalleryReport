@@ -3,21 +3,69 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
-## [tenthirtyam.module.test](https://www.powershellgallery.com/Packages/tenthirtyam.module.test/1.3.4.1001) | 1.3.4.1001
+## [tiPS](https://www.powershellgallery.com/Packages/tiPS/0.0.68) | 0.0.68
 
-### Published: 09/14/2023 17:20:35 by Ryan Johnson
+### Published: 09/15/2023 01:52:07 by Daniel Schroeder
+
+PowerShell tips delivered straight to your terminal.
+
+__Downloads__: 345 | __Repository__: https://github.com/deadlydog/PowerShell.tiPS
+
+## [JamfPSPro](https://www.powershellgallery.com/Packages/JamfPSPro/0.0.8) | 0.0.8
+
+### Published: 09/15/2023 00:53:10 by Tristan Brazier
+
+A PowerShell module for the Jamf classic api
+
+__Downloads__: 37 | __Repository__: https://github.com/TrustyTristan/JamfPSPro
+
+## [AppVeyorTestPsGallery](https://www.powershellgallery.com/Packages/AppVeyorTestPsGallery/1.0.517) | 1.0.517
+
+### Published: 09/14/2023 23:43:09 by Feodor Fitsner
+
+The test module to verify publishing to PSGallery from AppVeyor.
+
+__Downloads__: 40,069 | __Repository__: 
+
+## [AOVPNTools](https://www.powershellgallery.com/Packages/AOVPNTools/1.7.1) | 1.7.1
+
+### Published: 09/14/2023 22:37:50 by Richard M. Hicks
+
+PowerShell module for configuring and optimizing Windows Server Routing and Remote Access Service (RRAS) for Always On VPN.
+
+__Downloads__: 1,571 | __Repository__: 
+
+## [tenthirtyam.module.test](https://www.powershellgallery.com/Packages/tenthirtyam.module.test/1.6.0.1000) | 1.6.0.1000
+
+### Published: 09/14/2023 21:04:02 by Ryan Johnson
 
 Test Module
 
 __Downloads__: 0 | __Repository__: 
 
-## [tiPS](https://www.powershellgallery.com/Packages/tiPS/0.0.65) | 0.0.65
+## [ConvertOfficeSKU](https://www.powershellgallery.com/Packages/ConvertOfficeSKU/0.0.2) | 0.0.2
 
-### Published: 09/14/2023 17:06:13 by Daniel Schroeder
+### Published: 09/14/2023 20:40:32 by Erick Torres do Vale
 
-PowerShell tips delivered straight to your terminal.
+This module converts Microsoft Office SkuIDs to friendly names based on Microsoft documentation
 
-__Downloads__: 345 | __Repository__: https://github.com/deadlydog/PowerShell.tiPS
+__Downloads__: 0 | __Repository__: 
+
+## [Import-WsusUpdate](https://www.powershellgallery.com/Packages/Import-WsusUpdate/2023.9.14) | 2023.9.14
+
+### Published: 09/14/2023 19:14:59 by AJ Tek Corporation
+
+Import-WsusUpdate provides an alternate way of importing updates from the Microsoft Update Catalog into your local WSUS server.
+
+__Downloads__: 48 | __Repository__: https://www.ajtek.ca/
+
+## [Get-Version](https://www.powershellgallery.com/Packages/Get-Version/1.0.2) | 1.0.2
+
+### Published: 09/14/2023 17:48:29 by Alexander Sutter
+
+Get the current PS Version Table
+
+__Downloads__: 37 | __Repository__: https://github.com/SutterStudios/Get-Version
 
 ## [DTX.Tools.Installer](https://www.powershellgallery.com/Packages/DTX.Tools.Installer/0.0.27) | 0.0.27
 
@@ -67,14 +115,6 @@ This DSC module is used to configure and monitor Microsoft tenants, including Sh
 
 __Downloads__: 1,604,243 | __Repository__: https://github.com/Microsoft/Microsoft365DSC
 
-## [AnyChain](https://www.powershellgallery.com/Packages/AnyChain/2.5.7.4) | 2.5.7.4
-
-### Published: 09/14/2023 14:24:04 by Richard Andersen
-
-Provides access to the Forte AnyChain API service.
-
-__Downloads__: 48 | __Repository__: https://github.com/fortelabsinc/AnyChainPSModule
-
 ## [Airpower](https://www.powershellgallery.com/Packages/Airpower/0.6.4) | 0.6.4
 
 ### Published: 09/14/2023 14:14:07 by Airpower Team
@@ -82,14 +122,6 @@ __Downloads__: 48 | __Repository__: https://github.com/fortelabsinc/AnyChainPSMo
 A package manager and environment to provide consistent tooling for software teams.
 
 __Downloads__: 2,738 | __Repository__: https://github.com/airpwr/airpwr
-
-## [DTX.Tools.Installer](https://www.powershellgallery.com/Packages/DTX.Tools.Installer/0.0.26) | 0.0.26
-
-### Published: 09/14/2023 12:23:22 by Platform Operations Team
-
-Dotmatics module installer tool.
-
-__Downloads__: 0 | __Repository__: 
 
 ## [PrtgAPI](https://www.powershellgallery.com/Packages/PrtgAPI/0.9.19) | 0.9.19
 
@@ -122,14 +154,6 @@ __Downloads__: 0 | __Repository__:
 PowerShell Module to create Mermaid diagrams.
 
 __Downloads__: 1,766 | __Repository__: https://abbgrade.github.io/PsMermaidTools/
-
-## [AzureDevOpsHousekeeping](https://www.powershellgallery.com/Packages/AzureDevOpsHousekeeping/1.0.0) | 1.0.0
-
-### Published: 09/14/2023 08:55:11 by Aamir Mirza Baig
-
-This module simplifies the housekeeping activities for Azure DevOps compliance and vulnerability management.
-
-__Downloads__: 0 | __Repository__: 
 
 ## [ad-rbac](https://www.powershellgallery.com/Packages/ad-rbac/1.1.1) | 1.1.1
 
@@ -2429,34 +2453,4 @@ This version of AWS Tools for PowerShell is compatible with Windows PowerShell 5
 
 __Downloads__: 67,181 | __Repository__: https://github.com/aws/aws-tools-for-powershell
 
-## [AWS.Tools.ElasticInference](https://www.powershellgallery.com/Packages/AWS.Tools.ElasticInference/4.1.414) | 4.1.414
-
-### Published: 09/13/2023 23:29:42 by Amazon.com Inc
-
-The ElasticInference module of AWS Tools for PowerShell lets developers and administrators manage Amazon Elastic Inference from the PowerShell scripting environment. In order to manage each AWS service, install the corresponding module (e.g. AWS.Tools.EC2, AWS.Tools.S3...).
-The module AWS.Tools.Installer (https://www.powershellgallery.com/packages/AWS.Tools.Installer/) makes it easier to install, update and uninstall the AWS.Tools modules.
-This version of AWS Tools for PowerShell is compatible with Windows PowerShell 5.1+ and PowerShell Core 6+ on Windows, Linux and macOS. When running on Windows PowerShell, .NET Framework 4.7.2 or newer is required. Alternative modules AWSPowerShell.NetCore and AWSPowerShell, provide support for all AWS services from a single module and also support older versions of Windows PowerShell and .NET Framework.
-
-__Downloads__: 9,461 | __Repository__: https://github.com/aws/aws-tools-for-powershell
-
-## [AWS.Tools.ElasticFileSystem](https://www.powershellgallery.com/Packages/AWS.Tools.ElasticFileSystem/4.1.414) | 4.1.414
-
-### Published: 09/13/2023 23:29:36 by Amazon.com Inc
-
-The ElasticFileSystem module of AWS Tools for PowerShell lets developers and administrators manage Amazon Elastic File System from the PowerShell scripting environment. In order to manage each AWS service, install the corresponding module (e.g. AWS.Tools.EC2, AWS.Tools.S3...).
-The module AWS.Tools.Installer (https://www.powershellgallery.com/packages/AWS.Tools.Installer/) makes it easier to install, update and uninstall the AWS.Tools modules.
-This version of AWS Tools for PowerShell is compatible with Windows PowerShell 5.1+ and PowerShell Core 6+ on Windows, Linux and macOS. When running on Windows PowerShell, .NET Framework 4.7.2 or newer is required. Alternative modules AWSPowerShell.NetCore and AWSPowerShell, provide support for all AWS services from a single module and also support older versions of Windows PowerShell and .NET Framework.
-
-__Downloads__: 16,573 | __Repository__: https://github.com/aws/aws-tools-for-powershell
-
-## [AWS.Tools.ElasticBeanstalk](https://www.powershellgallery.com/Packages/AWS.Tools.ElasticBeanstalk/4.1.414) | 4.1.414
-
-### Published: 09/13/2023 23:29:29 by Amazon.com Inc
-
-The ElasticBeanstalk module of AWS Tools for PowerShell lets developers and administrators manage AWS Elastic Beanstalk from the PowerShell scripting environment. In order to manage each AWS service, install the corresponding module (e.g. AWS.Tools.EC2, AWS.Tools.S3...).
-The module AWS.Tools.Installer (https://www.powershellgallery.com/packages/AWS.Tools.Installer/) makes it easier to install, update and uninstall the AWS.Tools modules.
-This version of AWS Tools for PowerShell is compatible with Windows PowerShell 5.1+ and PowerShell Core 6+ on Windows, Linux and macOS. When running on Windows PowerShell, .NET Framework 4.7.2 or newer is required. Alternative modules AWSPowerShell.NetCore and AWSPowerShell, provide support for all AWS services from a single module and also support older versions of Windows PowerShell and .NET Framework.
-
-__Downloads__: 20,760 | __Repository__: https://github.com/aws/aws-tools-for-powershell
-
-*Updated: Thursday, 14 September 2023 17:52:55 UTC*
+*Updated: Friday, 15 September 2023 02:02:41 UTC*

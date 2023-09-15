@@ -3,21 +3,69 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
-## [tenthirtyam.module.test](https://www.powershellgallery.com/Packages/tenthirtyam.module.test/1.3.4.1001) | 1.3.4.1001
+## [tiPS](https://www.powershellgallery.com/Packages/tiPS/0.0.68) | 0.0.68
 
-### Published: 09/14/2023 17:20:35 by Ryan Johnson
+### Published: 09/15/2023 01:52:07 by Daniel Schroeder
+
+PowerShell tips delivered straight to your terminal.
+
+__Downloads__: 345 | __Repository__: https://github.com/deadlydog/PowerShell.tiPS
+
+## [JamfPSPro](https://www.powershellgallery.com/Packages/JamfPSPro/0.0.8) | 0.0.8
+
+### Published: 09/15/2023 00:53:10 by Tristan Brazier
+
+A PowerShell module for the Jamf classic api
+
+__Downloads__: 37 | __Repository__: https://github.com/TrustyTristan/JamfPSPro
+
+## [AppVeyorTestPsGallery](https://www.powershellgallery.com/Packages/AppVeyorTestPsGallery/1.0.517) | 1.0.517
+
+### Published: 09/14/2023 23:43:09 by Feodor Fitsner
+
+The test module to verify publishing to PSGallery from AppVeyor.
+
+__Downloads__: 40,069 | __Repository__: 
+
+## [AOVPNTools](https://www.powershellgallery.com/Packages/AOVPNTools/1.7.1) | 1.7.1
+
+### Published: 09/14/2023 22:37:50 by Richard M. Hicks
+
+PowerShell module for configuring and optimizing Windows Server Routing and Remote Access Service (RRAS) for Always On VPN.
+
+__Downloads__: 1,571 | __Repository__: 
+
+## [tenthirtyam.module.test](https://www.powershellgallery.com/Packages/tenthirtyam.module.test/1.6.0.1000) | 1.6.0.1000
+
+### Published: 09/14/2023 21:04:02 by Ryan Johnson
 
 Test Module
 
 __Downloads__: 0 | __Repository__: 
 
-## [tiPS](https://www.powershellgallery.com/Packages/tiPS/0.0.65) | 0.0.65
+## [ConvertOfficeSKU](https://www.powershellgallery.com/Packages/ConvertOfficeSKU/0.0.2) | 0.0.2
 
-### Published: 09/14/2023 17:06:13 by Daniel Schroeder
+### Published: 09/14/2023 20:40:32 by Erick Torres do Vale
 
-PowerShell tips delivered straight to your terminal.
+This module converts Microsoft Office SkuIDs to friendly names based on Microsoft documentation
 
-__Downloads__: 345 | __Repository__: https://github.com/deadlydog/PowerShell.tiPS
+__Downloads__: 0 | __Repository__: 
+
+## [Import-WsusUpdate](https://www.powershellgallery.com/Packages/Import-WsusUpdate/2023.9.14) | 2023.9.14
+
+### Published: 09/14/2023 19:14:59 by AJ Tek Corporation
+
+Import-WsusUpdate provides an alternate way of importing updates from the Microsoft Update Catalog into your local WSUS server.
+
+__Downloads__: 48 | __Repository__: https://www.ajtek.ca/
+
+## [Get-Version](https://www.powershellgallery.com/Packages/Get-Version/1.0.2) | 1.0.2
+
+### Published: 09/14/2023 17:48:29 by Alexander Sutter
+
+Get the current PS Version Table
+
+__Downloads__: 37 | __Repository__: https://github.com/SutterStudios/Get-Version
 
 ## [DTX.Tools.Installer](https://www.powershellgallery.com/Packages/DTX.Tools.Installer/0.0.27) | 0.0.27
 
@@ -59,14 +107,6 @@ Allows command line interaction with Autotask using the Rest API.
 
 __Downloads__: 314 | __Repository__: https://github.com/SergLGP/AutotaskRestAPI
 
-## [AnyChain](https://www.powershellgallery.com/Packages/AnyChain/2.5.7.4) | 2.5.7.4
-
-### Published: 09/14/2023 14:24:04 by Richard Andersen
-
-Provides access to the Forte AnyChain API service.
-
-__Downloads__: 48 | __Repository__: https://github.com/fortelabsinc/AnyChainPSModule
-
 ## [Airpower](https://www.powershellgallery.com/Packages/Airpower/0.6.4) | 0.6.4
 
 ### Published: 09/14/2023 14:14:07 by Airpower Team
@@ -74,14 +114,6 @@ __Downloads__: 48 | __Repository__: https://github.com/fortelabsinc/AnyChainPSMo
 A package manager and environment to provide consistent tooling for software teams.
 
 __Downloads__: 2,738 | __Repository__: https://github.com/airpwr/airpwr
-
-## [DTX.Tools.Installer](https://www.powershellgallery.com/Packages/DTX.Tools.Installer/0.0.26) | 0.0.26
-
-### Published: 09/14/2023 12:23:22 by Platform Operations Team
-
-Dotmatics module installer tool.
-
-__Downloads__: 0 | __Repository__: 
 
 ## [PrtgAPI](https://www.powershellgallery.com/Packages/PrtgAPI/0.9.19) | 0.9.19
 
@@ -114,14 +146,6 @@ __Downloads__: 0 | __Repository__:
 PowerShell Module to create Mermaid diagrams.
 
 __Downloads__: 1,766 | __Repository__: https://abbgrade.github.io/PsMermaidTools/
-
-## [AzureDevOpsHousekeeping](https://www.powershellgallery.com/Packages/AzureDevOpsHousekeeping/1.0.0) | 1.0.0
-
-### Published: 09/14/2023 08:55:11 by Aamir Mirza Baig
-
-This module simplifies the housekeeping activities for Azure DevOps compliance and vulnerability management.
-
-__Downloads__: 0 | __Repository__: 
 
 ## [ad-rbac](https://www.powershellgallery.com/Packages/ad-rbac/1.1.1) | 1.1.1
 
@@ -303,6 +327,14 @@ Interact with the Atlassian Cloud APIs using PowerShell
 
 __Downloads__: 3,232 | __Repository__: https://github.com/andylyonette/AtlassianCloudPS
 
+## [Microsoft-Extractor-Suite](https://www.powershellgallery.com/Packages/Microsoft-Extractor-Suite/1.1.1) | 1.1.1
+
+### Published: 09/13/2023 09:20:50 by Joey Rentenaar & Korstiaan Stam
+
+Microsoft-Extractor-Suite is a fully-featured, actively-maintained, Powershell tool designed to streamline the process of collecting all necessary data and information from various sources within Microsoft.
+
+__Downloads__: 0 | __Repository__: 
+
 ## [Tecman.Tfs.Tools](https://www.powershellgallery.com/Packages/Tecman.Tfs.Tools/1.1.66.0) | 1.1.66.0
 
 ### Published: 09/13/2023 09:04:30 by James Pearson
@@ -342,14 +374,6 @@ __Downloads__: 0 | __Repository__:
 ExchangeEssentials
 
 __Downloads__: 44 | __Repository__: https://github.com/EvotecIT/ExchangeEssentials
-
-## [LumifyTrainerTools](https://www.powershellgallery.com/Packages/LumifyTrainerTools/2.0.3) | 2.0.3
-
-### Published: 09/13/2023 05:19:15 by Brent Denny
-
-This is a set of tools to help Lumify trainers with home based classrooms
-
-__Downloads__: 0 | __Repository__: 
 
 ## [Intersight.PowerShell](https://www.powershellgallery.com/Packages/Intersight.PowerShell/1.0.11.13515) | 1.0.11.13515
 
@@ -1742,14 +1766,6 @@ BrightCom Solutions AB powershell helper.
 
 __Downloads__: 26,299 | __Repository__: 
 
-## [GeoIP](https://www.powershellgallery.com/Packages/GeoIP/0.0.2) | 0.0.2
-
-### Published: 09/12/2023 11:57:36 by regg00
-
-A PowerShell module to query GeoIP databases.
-
-__Downloads__: 0 | __Repository__: https://github.com/regg00/pwsh-ip-location
-
 ## [UncommonSense.Trouw](https://www.powershellgallery.com/Packages/UncommonSense.Trouw/0.0.24.0) | 0.0.24.0
 
 ### Published: 09/12/2023 11:40:10 by Jan Hoek
@@ -1838,14 +1854,6 @@ StepSemVer pwsh module used to increment semantic versions number.
 
 __Downloads__: 757 | __Repository__: https://github.com/ArwynFr/pwsh-StepSemVer
 
-## [AppVeyorTestPsGallery](https://www.powershellgallery.com/Packages/AppVeyorTestPsGallery/1.0.515) | 1.0.515
-
-### Published: 09/12/2023 04:53:22 by Feodor Fitsner
-
-The test module to verify publishing to PSGallery from AppVeyor.
-
-__Downloads__: 40,069 | __Repository__: 
-
 ## [aztools](https://www.powershellgallery.com/Packages/aztools/1.0.0) | 1.0.0
 
 ### Published: 09/12/2023 02:43:17 by Skatterbrainz
@@ -1925,6 +1933,22 @@ __Downloads__: 31 | __Repository__: https://getps.dev/modules/PSLogs/getstarted
 Azure API call handler for Microsoft Graph, Azure Resource Management, KeyVault and Log Analytics. Visit aka.ms/AzAPICall
 
 __Downloads__: 106,704 | __Repository__: https://aka.ms/AzAPICall
+
+## [pwsh-environment](https://www.powershellgallery.com/Packages/pwsh-environment/1.0.0) | 1.0.0
+
+### Published: 09/11/2023 14:07:06 by sawamura
+
+This is a module designed for manipulating environment variables.
+
+__Downloads__: 0 | __Repository__: https://gitlab.com/kamiyonanayo/pwsh-environment
+
+## [Easit.ProcessRunner.GlobalFunctions](https://www.powershellgallery.com/Packages/Easit.ProcessRunner.GlobalFunctions/1.1.0) | 1.1.0
+
+### Published: 09/11/2023 13:32:42 by Anders Thyrsson
+
+Functions module to be used in script executed by EasitProcessRunner
+
+__Downloads__: 0 | __Repository__: https://github.com/easitab/Easit.ProcessRunner.GlobalFunctions
 
 ## [Nectar10](https://www.powershellgallery.com/Packages/Nectar10/3.68) | 3.68
 
@@ -2115,28 +2139,4 @@ PowerShell for Proxmox VE
 
 __Downloads__: 1,537 | __Repository__: https://github.com/Corsinvest/cv4pve-api-powershell
 
-## [DellOpenManage](https://www.powershellgallery.com/Packages/DellOpenManage/3.6.2) | 3.6.2
-
-### Published: 09/08/2023 15:51:14 by Trevor Squillario <Trevor.Squillario@Dell.com>
-
-Dell OpenManage Enterprise PowerShell Module
-
-__Downloads__: 5,474 | __Repository__: https://github.com/dell/OpenManage-PowerShell-Modules
-
-## [UniversalDashboard.UDQueryBuilder](https://www.powershellgallery.com/Packages/UniversalDashboard.UDQueryBuilder/0.0.1) | 0.0.1
-
-### Published: 09/08/2023 13:53:50 by Adam Bacon
-
-Dynamic SQL Query Builder
-
-__Downloads__: 2 | __Repository__: https://adam-bacon.netlify.app/
-
-## [NTware.Ufo.PowerShell.ObjectManagement](https://www.powershellgallery.com/Packages/NTware.Ufo.PowerShell.ObjectManagement/2023.3.0.0) | 2023.3.0.0
-
-### Published: 09/08/2023 08:25:56 by NT-ware Systemprogrammierungs-GmbH
-
-PowerShell cmdlets which allow to manage uniFLOW Online
-
-__Downloads__: 2,677 | __Repository__: 
-
-*Updated: Thursday, 14 September 2023 17:52:57 UTC*
+*Updated: Friday, 15 September 2023 02:02:44 UTC*
