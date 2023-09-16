@@ -3,6 +3,30 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [powershell-windows-autoproxy](https://www.powershellgallery.com/Packages/powershell-windows-autoproxy/2.1.0) | 2.1.0
+
+### Published: 09/16/2023 08:53:02 by HuaDeity ChatGPT and Github Copilot
+
+Auto Set Proxy for Windows PowerShell, WSL and WSA
+
+__Downloads__: 57 | __Repository__: 
+
+## [CopySSHKey](https://www.powershellgallery.com/Packages/CopySSHKey/1.3) | 1.3
+
+### Published: 09/16/2023 08:40:17 by SeryiBaran
+
+Tiny PowerShell module for copy public SSH key to remote server (`ssh-copy-id` analog for Windows).
+
+__Downloads__: 11 | __Repository__: https://github.com/SeryiBaran/CopySSHKey-PS
+
+## [Import-WsusUpdate](https://www.powershellgallery.com/Packages/Import-WsusUpdate/2023.9.17) | 2023.9.17
+
+### Published: 09/16/2023 02:11:15 by AJ Tek Corporation
+
+Import-WsusUpdate provides an alternate way of importing updates from the Microsoft Update Catalog into your local WSUS server.
+
+__Downloads__: 48 | __Repository__: https://www.ajtek.ca/
+
 ## [WinGet-Essentials](https://www.powershellgallery.com/Packages/WinGet-Essentials/1.3.1) | 1.3.1
 
 ### Published: 09/16/2023 01:27:47 by Jon Carrier
@@ -58,14 +82,6 @@ __Downloads__: 335 | __Repository__: https://github.com/Scouterna/Office365-Scou
 Extracts content from an HTML document using an XPath expression.
 
 __Downloads__: 171 | __Repository__: https://github.com/brianary/SelectHtml/
-
-## [Import-WsusUpdate](https://www.powershellgallery.com/Packages/Import-WsusUpdate/2023.9.15) | 2023.9.15
-
-### Published: 09/15/2023 15:47:32 by AJ Tek Corporation
-
-Import-WsusUpdate provides an alternate way of importing updates from the Microsoft Update Catalog into your local WSUS server.
-
-__Downloads__: 48 | __Repository__: https://www.ajtek.ca/
 
 ## [ISEScriptRunner](https://www.powershellgallery.com/Packages/ISEScriptRunner/6.9.2769.0) | 6.9.2769.0
 
@@ -277,6 +293,14 @@ This module converts Microsoft Office SkuIDs to friendly names based on Microsof
 
 __Downloads__: 0 | __Repository__: 
 
+## [Get-Version](https://www.powershellgallery.com/Packages/Get-Version/1.0.2) | 1.0.2
+
+### Published: 09/14/2023 17:48:29 by Alexander Sutter
+
+Get the current PS Version Table
+
+__Downloads__: 37 | __Repository__: https://github.com/SutterStudios/Get-Version
+
 ## [DTX.Tools.Installer](https://www.powershellgallery.com/Packages/DTX.Tools.Installer/0.0.27) | 0.0.27
 
 ### Published: 09/14/2023 16:54:26 by Platform Operations Team
@@ -372,14 +396,6 @@ __Downloads__: 0 | __Repository__:
 Tools for implementing a regular component-based RBAC structure in Active Directory
 
 __Downloads__: 13 | __Repository__: https://gitlab.com/breakwaterlabs/ad-rbac
-
-## [ADUserMgmt](https://www.powershellgallery.com/Packages/ADUserMgmt/0.0.9) | 0.0.9
-
-### Published: 09/14/2023 03:55:00 by nikchikersal
-
-This Module is used to ease the tasks of AD User Management
-
-__Downloads__: 0 | __Repository__: 
 
 ## [Modrify.Fallout4](https://www.powershellgallery.com/Packages/Modrify.Fallout4/0.0.3) | 0.0.3
 
@@ -576,14 +592,6 @@ __Downloads__: 195 | __Repository__:
 PowerShell commands for ansible vault file generation and transformation.
 
 __Downloads__: 0 | __Repository__: 
-
-## [ExchangeEssentials](https://www.powershellgallery.com/Packages/ExchangeEssentials/0.5.0) | 0.5.0
-
-### Published: 09/13/2023 07:28:34 by Przemyslaw Klys
-
-ExchangeEssentials
-
-__Downloads__: 44 | __Repository__: https://github.com/EvotecIT/ExchangeEssentials
 
 ## [Intersight.PowerShell](https://www.powershellgallery.com/Packages/Intersight.PowerShell/1.0.11.13515) | 1.0.11.13515
 
@@ -2056,6 +2064,22 @@ Azure API call handler for Microsoft Graph, Azure Resource Management, KeyVault 
 
 __Downloads__: 106,704 | __Repository__: https://aka.ms/AzAPICall
 
+## [pwsh-environment](https://www.powershellgallery.com/Packages/pwsh-environment/1.0.0) | 1.0.0
+
+### Published: 09/11/2023 14:07:06 by sawamura
+
+This is a module designed for manipulating environment variables.
+
+__Downloads__: 0 | __Repository__: https://gitlab.com/kamiyonanayo/pwsh-environment
+
+## [Easit.ProcessRunner.GlobalFunctions](https://www.powershellgallery.com/Packages/Easit.ProcessRunner.GlobalFunctions/1.1.0) | 1.1.0
+
+### Published: 09/11/2023 13:32:42 by Anders Thyrsson
+
+Functions module to be used in script executed by EasitProcessRunner
+
+__Downloads__: 0 | __Repository__: https://github.com/easitab/Easit.ProcessRunner.GlobalFunctions
+
 ## [Nectar10](https://www.powershellgallery.com/Packages/Nectar10/3.68) | 3.68
 
 ### Published: 09/11/2023 12:59:56 by Ken Lasko
@@ -2104,41 +2128,4 @@ A completion manager for better and simpler use and Manage completions. For more
 
 __Downloads__: 75 | __Repository__: https://github.com/abgox/PSCompletions
 
-## [LampSettingLib](https://www.powershellgallery.com/Packages/LampSettingLib/7.0.1) | 7.0.1
-
-### Published: 09/11/2023 05:28:55 by CR
-
-Helper module to TisaneLampClient, manages setting values to the variables
-
-__Downloads__: 172 | __Repository__: 
-
-## [PowervRLICloud](https://www.powershellgallery.com/Packages/PowervRLICloud/1.2.0) | 1.2.0
-
-### Published: 09/11/2023 04:05:30 by Munishpal Makhija
-
-PowerShell Module for managing vRLI Cloud
-
-__Downloads__: 51 | __Repository__: 
-
-## [code365scripts.openai](https://www.powershellgallery.com/Packages/code365scripts.openai/1.1.0.7) | 1.1.0.7
-
-### Published: 09/10/2023 13:44:03 by chenxizhang
-
-The non-official OpenAI PowerShell module. This module is used to interact with OpenAI API.
-    
-    Changelogs:
-    - 2023-09-10    v1.1.0.7    Fix the help doc for New-ChatGPTConversation
-    - 2023-09-06    v1.1.0.6    Bug fix
-    - 2023-09-06    v1.1.0.5    Added chat completion support.
-    - 2023-08-12    v1.1.0.4    Added stream support for chat
-    - 2021-05-13    v1.1.0.3    Small enhancements (save result to clipboard, print the system prompt, etc.)
-    - 2021-05-13    v1.1.0.0    Simplify the module structure
-    - 2023-05-07    v1.0.4.12   Fixed the network connectivity test logic
-    - 2023-05-07    v1.0.4.11   Added azure OpenAI supporrt for New-ChatGPTConversation function
-    - 2023-05-07    v1.0.4.10   Added network connectivity test logic
-    - 2023-03-09    v1.0.4.9    Added change logs in the description.
-    - 2023-03-08    v1.0.4.8    Added error handling.
-
-__Downloads__: 54,459 | __Repository__: https://github.com/chenxizhang/openai-powershell/
-
-*Updated: Saturday, 16 September 2023 02:01:09 UTC*
+*Updated: Saturday, 16 September 2023 09:52:49 UTC*
