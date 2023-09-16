@@ -3,9 +3,50 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
-## [powershell-windows-autoproxy](https://www.powershellgallery.com/Packages/powershell-windows-autoproxy/2.1.0) | 2.1.0
+## [tiPS](https://www.powershellgallery.com/Packages/tiPS/0.2.0) | 0.2.0
 
-### Published: 09/16/2023 08:53:02 by HuaDeity ChatGPT and Github Copilot
+### Published: 09/16/2023 17:42:52 by Daniel Schroeder
+
+PowerShell tips delivered straight to your terminal.
+
+__Downloads__: 345 | __Repository__: https://github.com/deadlydog/PowerShell.tiPS
+
+## [Dynamics365Configuration](https://www.powershellgallery.com/Packages/Dynamics365Configuration/2.30.0) | 2.30.0
+
+### Published: 09/16/2023 15:29:53 by Aleksandr Sapozhkov
+
+A module to ease infrastructure as code tasks for Dynamics 365.
+
+__Downloads__: 4,323 | __Repository__: https://github.com/shurick81/Dynamics365Configuration
+
+## [AZSBTools](https://www.powershellgallery.com/Packages/AZSBTools/1.264.104) | 1.264.104
+
+### Published: 09/16/2023 14:50:13 by Sam Boutros
+
+PowerShell module containing several Azure tools by Sam Boutros
+
+__Downloads__: 28,249 | __Repository__: https://superwidgets.wordpress.com/
+
+## [ThirdPartyLibraries](https://www.powershellgallery.com/Packages/ThirdPartyLibraries/3.4.1) | 3.4.1
+
+### Published: 09/16/2023 12:43:07 by Max Ieremenko
+
+This module helps to manage third party libraries and their licenses in .net applications.
+PowerShell versions: core 7.0+.
+
+__Downloads__: 692 | __Repository__: https://github.com/max-ieremenko/ThirdPartyLibraries
+
+## [MSGraph](https://www.powershellgallery.com/Packages/MSGraph/1.3.0.2) | 1.3.0.2
+
+### Published: 09/16/2023 10:11:17 by Andreas Bellstedt Friedrich Weinmann
+
+Tools for interacting with the Microsoft Graph Api
+
+__Downloads__: 22,745 | __Repository__: https://github.com/AndiBellstedt/MSGraph
+
+## [powershell-windows-autoproxy](https://www.powershellgallery.com/Packages/powershell-windows-autoproxy/2.1.1) | 2.1.1
+
+### Published: 09/16/2023 09:54:58 by HuaDeity ChatGPT and Github Copilot
 
 Auto Set Proxy for Windows PowerShell, WSL and WSA
 
@@ -42,14 +83,6 @@ __Downloads__: 108 | __Repository__: https://github.com/jjcarrier/PS-WinGet-Esse
 PowerShell made Posh - Spice up Your Shell
 
 __Downloads__: 363 | __Repository__: https://github.com/StartAutomating/Posh
-
-## [tiPS](https://www.powershellgallery.com/Packages/tiPS/0.1.1) | 0.1.1
-
-### Published: 09/15/2023 23:54:09 by Daniel Schroeder
-
-PowerShell tips delivered straight to your terminal.
-
-__Downloads__: 345 | __Repository__: https://github.com/deadlydog/PowerShell.tiPS
 
 ## [PSA](https://www.powershellgallery.com/Packages/PSA/0.1.4) | 0.1.4
 
@@ -245,14 +278,6 @@ PowerShell interface to the Cisco Support APIs
 
 __Downloads__: 361 | __Repository__: https://github.com/ralish/PSCiscoSupportAPIs
 
-## [JamfPSPro](https://www.powershellgallery.com/Packages/JamfPSPro/0.0.8) | 0.0.8
-
-### Published: 09/15/2023 00:53:10 by Tristan Brazier
-
-A PowerShell module for the Jamf classic api
-
-__Downloads__: 37 | __Repository__: https://github.com/TrustyTristan/JamfPSPro
-
 ## [AppVeyorTestPsGallery](https://www.powershellgallery.com/Packages/AppVeyorTestPsGallery/1.0.517) | 1.0.517
 
 ### Published: 09/14/2023 23:43:09 by Feodor Fitsner
@@ -397,6 +422,14 @@ Tools for implementing a regular component-based RBAC structure in Active Direct
 
 __Downloads__: 13 | __Repository__: https://gitlab.com/breakwaterlabs/ad-rbac
 
+## [ADUserMgmt](https://www.powershellgallery.com/Packages/ADUserMgmt/0.0.9) | 0.0.9
+
+### Published: 09/14/2023 03:55:00 by nikchikersal
+
+This Module is used to ease the tasks of AD User Management
+
+__Downloads__: 0 | __Repository__: 
+
 ## [Modrify.Fallout4](https://www.powershellgallery.com/Packages/Modrify.Fallout4/0.0.3) | 0.0.3
 
 ### Published: 09/14/2023 03:23:44 by ThePoShWolf
@@ -440,14 +473,6 @@ __Downloads__: 0 | __Repository__:
 A module to create mRemoteNG connection files from PowerShell.
 
 __Downloads__: 2,133 | __Repository__: 
-
-## [Log4NetParse](https://www.powershellgallery.com/Packages/Log4NetParse/0.4.0) | 0.4.0
-
-### Published: 09/13/2023 20:37:01 by Gilbert Sanchez
-
-A module to parse log4net logs.
-
-__Downloads__: 88 | __Repository__: https://github.com/HeyItsGilbert/Log4NetParse/
 
 ## [test_tagmodule1](https://www.powershellgallery.com/Packages/test_tagmodule1/1.0.0) | 1.0.0
 
@@ -592,6 +617,14 @@ __Downloads__: 195 | __Repository__:
 PowerShell commands for ansible vault file generation and transformation.
 
 __Downloads__: 0 | __Repository__: 
+
+## [ExchangeEssentials](https://www.powershellgallery.com/Packages/ExchangeEssentials/0.5.0) | 0.5.0
+
+### Published: 09/13/2023 07:28:34 by Przemyslaw Klys
+
+ExchangeEssentials
+
+__Downloads__: 44 | __Repository__: https://github.com/EvotecIT/ExchangeEssentials
 
 ## [Intersight.PowerShell](https://www.powershellgallery.com/Packages/Intersight.PowerShell/1.0.11.13515) | 1.0.11.13515
 
@@ -1715,14 +1748,6 @@ A module for working with extended PowerShell command history. It lets you get h
 
 __Downloads__: 0 | __Repository__: https://github.com/randriksen/ExtendedHistory
 
-## [AZSBTools](https://www.powershellgallery.com/Packages/AZSBTools/1.264.102) | 1.264.102
-
-### Published: 09/12/2023 18:36:21 by Sam Boutros
-
-PowerShell module containing several Azure tools by Sam Boutros
-
-__Downloads__: 28,249 | __Repository__: https://superwidgets.wordpress.com/
-
 ## [UncommonSense.Volkskrant](https://www.powershellgallery.com/Packages/UncommonSense.Volkskrant/0.0.44.0) | 0.0.44.0
 
 ### Published: 09/12/2023 15:32:47 by Jan Hoek
@@ -2104,28 +2129,4 @@ Get the BitLocker recovery password from Active Directory.
 
 __Downloads__: 48 | __Repository__: 
 
-## [HPDrivers](https://www.powershellgallery.com/Packages/HPDrivers/1.2.2) | 1.2.2
-
-### Published: 09/11/2023 08:59:34 by Dawid Prowadzisz
-
-Update all HP device drivers with a single command.
-
-__Downloads__: 12,730 | __Repository__: https://github.com/UsefulScripts01/HPDrivers
-
-## [CoreePower.Net](https://www.powershellgallery.com/Packages/CoreePower.Net/0.0.14) | 0.0.14
-
-### Published: 09/11/2023 08:44:20 by Carsten Riedel
-
-Powershell module CoreePower.Net. This module is under construction and just uploaded for testing purposes.
-
-__Downloads__: 36 | __Repository__: https://www.powershellgallery.com/packages/CoreePower.Net
-
-## [PSCompletions](https://www.powershellgallery.com/Packages/PSCompletions/2.0.9) | 2.0.9
-
-### Published: 09/11/2023 08:12:54 by abgox
-
-A completion manager for better and simpler use and Manage completions. For more information, please visit the project: https://github.com/abgox/PSCompletions
-
-__Downloads__: 75 | __Repository__: https://github.com/abgox/PSCompletions
-
-*Updated: Saturday, 16 September 2023 09:52:49 UTC*
+*Updated: Saturday, 16 September 2023 17:52:43 UTC*

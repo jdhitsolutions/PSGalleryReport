@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Saturday, 16 September 2023 09:53:02 UTC
+Updated: Saturday, 16 September 2023 17:52:56 UTC
 
 .bat
 .env
@@ -15,7 +15,6 @@ Updated: Saturday, 16 September 2023 09:53:02 UTC
 "interactive
 🍄
 🍣
-💩
 10
 11
 1607
@@ -175,6 +174,7 @@ admf
 admin
 admin-tools
 adminbyrequest
+admindirectory
 administration
 administrative
 administrativeunit
@@ -206,7 +206,6 @@ adv190013
 adv220002
 advanced
 advapi32
-advice
 advisor
 adwords
 adx
@@ -721,6 +720,7 @@ bash
 basic
 bastion
 bat
+batcat
 batch
 batchclass
 batman
@@ -932,7 +932,6 @@ calvin-and-hobbes
 cam
 camera
 campaign
-camtasia
 canarie
 cancel
 cancellation
@@ -1098,8 +1097,6 @@ cis
 cisco
 ciscoucscmdlets
 ciscoucsdsc
-citation
-cite
 citrix
 citrixoptimizer
 civo
@@ -1526,7 +1523,6 @@ css
 csv
 csv2adx
 csvhelper
-ctf
 ctglobal
 ctl
 ctrl+c
@@ -1884,6 +1880,7 @@ dl
 dll
 dlmautomation
 dlmigration
+dlp
 dmarc
 dmgr
 dmi
@@ -1913,7 +1910,6 @@ dnssuffix
 dnvm
 doc
 docfx
-dock
 docker
 docker-compose
 docker-image
@@ -1922,7 +1918,6 @@ docker-volumes
 dockerfile
 dockerize
 dockerswarm
-docking
 docs
 document
 documentation
@@ -1973,7 +1968,6 @@ dq
 dr
 draw
 drawio
-dreams
 dreamweaver
 dreary
 drift
@@ -2312,7 +2306,6 @@ expand-string
 expand-tab
 expandframework
 expect
-experience
 experiments
 expired
 expiring
@@ -2529,7 +2522,6 @@ forensics
 forest
 forestdiscovery
 forgit
-forgiveness
 form
 format
 format-numberedlist
@@ -2629,6 +2621,7 @@ gcloud
 gcp
 gcs
 gdpr
+gedit
 gem
 gemini
 geminiprotocol
@@ -2928,6 +2921,7 @@ hewlett
 hewlett-packard
 hewlett-packardenterprise
 hex
+hexdump
 hg
 hibernate
 hibernation
@@ -3139,7 +3133,6 @@ imageslide
 imagevalidate
 imagevalidation
 imagga
-imagination
 imaging
 imap
 imb
@@ -3204,9 +3197,6 @@ insight
 insightanalytics
 insights
 inspect
-inspiration
-inspirationalquotes
-inspire
 inspur
 instagram
 install
@@ -3235,7 +3225,6 @@ integrationservicescatalog
 integrity
 intel
 inteligo
-intelligence
 intelligence"
 intellisearch
 intellisense
@@ -3385,7 +3374,6 @@ johnshopkins
 join
 join-object
 jojoba
-joke
 jotform
 journal
 joyride
@@ -3561,6 +3549,7 @@ lease
 leetabit
 leftjoin
 legacy
+legacyad
 legends
 lego
 lein
@@ -3568,12 +3557,14 @@ leiningnen
 lenel
 length
 lenovo
+less
 lesspass
 letsencrypt
 lf
 lgpo
 lib
 libgit2
+libraries
 library
 libvirt
 licence
@@ -3585,9 +3576,6 @@ licensemanager
 licensereport
 licenses
 licensing
-life
-lifequotes
-lifestyle
 light
 lights
 lime
@@ -3724,8 +3712,6 @@ lookup
 loop
 loopback
 loremipsum
-love
-lovequotes
 lpsiamol
 ls
 lsa
@@ -3896,7 +3882,6 @@ memcm
 memory
 memorydump
 memorystream
-mention
 menu
 menus
 meraki
@@ -4038,10 +4023,9 @@ monitoringsolutions
 monthlyupdate
 moodle
 moonshot
+more
 mosaic
 motd
-motivation
-motivationalquotes
 mount
 mouse
 move
@@ -4146,6 +4130,7 @@ myip
 myitprocess
 myjson
 myjson.com
+myob
 myposh
 mypstag
 mysql
@@ -4183,6 +4168,7 @@ nec-infrared-transmission-protocol
 nederland
 nedyalkov
 neo4j
+neovim
 neptune
 nerdfonts
 nerdio
@@ -4296,6 +4282,7 @@ nosql
 note
 notebook
 notepad
+notepad2
 noteproperty
 notes
 notification
@@ -4560,7 +4547,6 @@ outline
 outlook
 output
 output-to-image
-outreach
 outsystems
 overbite
 ovf
@@ -4725,6 +4711,7 @@ php
 phpapam
 pi
 picker
+pico
 picture
 pictures
 pid
@@ -4738,6 +4725,7 @@ pinneditem
 pinterest
 pinvoke
 pip
+pip3
 pipe
 pipedrive
 pipeline
@@ -4782,8 +4770,6 @@ pnp
 pnpm
 pode
 poe
-poem
-poetry
 point
 point-to-site
 pointer
@@ -4803,7 +4789,6 @@ polycom
 pomodoro
 ponduit
 pool
-poop
 pop
 pop-location
 pop3
@@ -4855,6 +4840,7 @@ poshy-net
 poshy-notify-send
 poshy-sh-isms
 poshy-sshconfig
+poshy-viewer-finder
 poshy-wrap
 poshy-wrap-apt
 poshy-wrap-argcomplete
@@ -4877,6 +4863,7 @@ poshy-wrap-maven
 poshy-wrap-nginx
 poshy-wrap-nmap
 poshy-wrap-npm
+poshy-wrap-pip
 poshy-wrap-pipenv
 poshy-wrap-pyenv
 poshy-wrap-pylint
@@ -4891,6 +4878,7 @@ poshy-wrap-vault
 poshy-wrap-vscode
 poshy-wrap-wget
 poshy-wrap-wt
+poshy-wrap-yum
 poshy-wrap-zypper
 position
 postgre
@@ -5080,7 +5068,6 @@ protection
 protocol
 protocols
 provance
-proverb
 provider
 providerhub
 provision
@@ -5125,7 +5112,11 @@ psbbix
 psbicep
 psclient
 pscmdlet
+pscommand__pip3
+pscommand__pip3_package_location
 pscommand__python3
+pscommand__syspip3
+pscommand__syspip3_package_location
 pscommand_--
 pscommand_..
 pscommand_...
@@ -5444,7 +5435,10 @@ pscommand_forgit-reset-head
 pscommand_forgit-revert-commit
 pscommand_forgit-stash-push
 pscommand_forgit-stash-show
+pscommand_format-batcatstyle
 pscommand_format-gitrepository
+pscommand_format-lesstermcapenv
+pscommand_format-viewerinvocationsh
 pscommand_g
 pscommand_ga
 pscommand_gaa
@@ -5604,6 +5598,7 @@ pscommand_get-netipaddresspublic
 pscommand_get-netipaddresssimple
 pscommand_get-pwshaliasdefinition
 pscommand_get-pwshfunctiondefinition
+pscommand_get-viewer
 pscommand_geun
 pscommand_gexport
 pscommand_gf
@@ -6320,6 +6315,18 @@ pscommand_invoke-vscodewithextensionsdir
 pscommand_invoke-vscodewithlog
 pscommand_invoke-vscodewithuserdatadir
 pscommand_invoke-vscodewithwait
+pscommand_invoke-yumcleanall
+pscommand_invoke-yumgroupinstall
+pscommand_invoke-yumgroupremove
+pscommand_invoke-yuminfo
+pscommand_invoke-yuminstall
+pscommand_invoke-yumlist
+pscommand_invoke-yumlistinstalled
+pscommand_invoke-yummakecache
+pscommand_invoke-yumremove
+pscommand_invoke-yumremoveleaves
+pscommand_invoke-yumsearch
+pscommand_invoke-yumupdate
 pscommand_invoke-zypper
 pscommand_invoke-zypperaddlock
 pscommand_invoke-zypperaddservice
@@ -6366,6 +6373,7 @@ pscommand_invoke-zypperupdate
 pscommand_invoke-zypperverify
 pscommand_invoke-zypperversioncompare
 pscommand_invoke-zypperwhatprovides
+pscommand_invokeyumgrouplist
 pscommand_ips
 pscommand_ipy
 pscommand_ipython
@@ -6525,6 +6533,7 @@ pscommand_new-gitbranchfromstash
 pscommand_new-gitbranchtracked
 pscommand_new-gitpatchfile
 pscommand_new-isofile
+pscommand_new-viewerinvocationfunction
 pscommand_new-windowsterminalpane
 pscommand_new-windowsterminaltab
 pscommand_nginx_reload
@@ -6575,6 +6584,22 @@ pscommand_pgr
 pscommand_pi
 pscommand_pidev
 pscommand_ping
+pscommand_pip
+pscommand_pip_package_location
+pscommand_pip3
+pscommand_pip3_package_location
+pscommand_pipgi
+pscommand_pipi
+pscommand_pipig
+pscommand_pipigb
+pscommand_pipigp
+pscommand_pipir
+pscommand_piplo
+pscommand_pipreq
+pscommand_pipu
+pscommand_pipun
+pscommand_pipunall
+pscommand_pipupall
 pscommand_pl
 pscommand_po
 pscommand_pop-gitstashentry
@@ -6690,6 +6715,10 @@ pscommand_stop-gitcherrypick
 pscommand_switch-gitbranchandtrack
 pscommand_switch-gitbranchmain
 pscommand_switch-gitbranchnew
+pscommand_syspip
+pscommand_syspip_package_location
+pscommand_syspip3
+pscommand_syspip3_package_location
 pscommand_ta
 pscommand_tad
 pscommand_test-command
@@ -6821,6 +6850,19 @@ pscommand_write-gitcommitinteractively
 pscommand_write-gitcommitsignedoff
 pscommand_xin
 pscommand_xwith
+pscommand_yc
+pscommand_ygi
+pscommand_ygl
+pscommand_ygr
+pscommand_yi
+pscommand_yl
+pscommand_yli
+pscommand_ymc
+pscommand_yp
+pscommand_yr
+pscommand_yrl
+pscommand_ys
+pscommand_yu
 pscommand_z
 pscommand_zal
 pscommand_zar
@@ -6906,13 +6948,16 @@ pses
 psexcel
 psexec
 psexec.exe
-psexpandline
 psfciv
 psfitbit
 psfive9
 psfive9admin
 psfoldersize
+psfunction__pip3
+psfunction__pip3_package_location
 psfunction__python3
+psfunction__syspip3
+psfunction__syspip3_package_location
 psfunction_aar
 psfunction_add_ssh
 psfunction_add-envpathitem
@@ -7087,7 +7132,10 @@ psfunction_forgit-reset-head
 psfunction_forgit-revert-commit
 psfunction_forgit-stash-push
 psfunction_forgit-stash-show
+psfunction_format-batcatstyle
 psfunction_format-gitrepository
+psfunction_format-lesstermcapenv
+psfunction_format-viewerinvocationsh
 psfunction_gdv
 psfunction_get-aptinstalledpackages
 psfunction_get-childitemcolorfully
@@ -7155,6 +7203,7 @@ psfunction_get-netipaddresspublic
 psfunction_get-netipaddresssimple
 psfunction_get-pwshaliasdefinition
 psfunction_get-pwshfunctiondefinition
+psfunction_get-viewer
 psfunction_gh_fetch_pr
 psfunction_git_blame_line
 psfunction_git_checkout_child
@@ -7680,6 +7729,18 @@ psfunction_invoke-vscodewithextensionsdir
 psfunction_invoke-vscodewithlog
 psfunction_invoke-vscodewithuserdatadir
 psfunction_invoke-vscodewithwait
+psfunction_invoke-yumcleanall
+psfunction_invoke-yumgroupinstall
+psfunction_invoke-yumgroupremove
+psfunction_invoke-yuminfo
+psfunction_invoke-yuminstall
+psfunction_invoke-yumlist
+psfunction_invoke-yumlistinstalled
+psfunction_invoke-yummakecache
+psfunction_invoke-yumremove
+psfunction_invoke-yumremoveleaves
+psfunction_invoke-yumsearch
+psfunction_invoke-yumupdate
 psfunction_invoke-zypper
 psfunction_invoke-zypperaddlock
 psfunction_invoke-zypperaddservice
@@ -7726,6 +7787,7 @@ psfunction_invoke-zypperupdate
 psfunction_invoke-zypperverify
 psfunction_invoke-zypperversioncompare
 psfunction_invoke-zypperwhatprovides
+psfunction_invokeyumgrouplist
 psfunction_jump
 psfunction_kerndeb
 psfunction_kres
@@ -7739,6 +7801,7 @@ psfunction_new-gitbranchfromstash
 psfunction_new-gitbranchtracked
 psfunction_new-gitpatchfile
 psfunction_new-isofile
+psfunction_new-viewerinvocationfunction
 psfunction_new-windowsterminalpane
 psfunction_new-windowsterminaltab
 psfunction_nginx_reload
@@ -7766,6 +7829,13 @@ psfunction_npm-enable-proxy
 psfunction_npm-show-proxy
 psfunction_open_command
 psfunction_peek
+psfunction_pipig
+psfunction_pipigb
+psfunction_pipigp
+psfunction_pipir
+psfunction_pipreq
+psfunction_pipunall
+psfunction_pipupall
 psfunction_pop-gitstashentry
 psfunction_proxy-help
 psfunction_publish-gitcommitsforcefullywithlease
@@ -8059,6 +8129,7 @@ pwshfw
 pwshrc
 pxedistributionpoint
 pyenv
+pygmentize
 pylint
 pyranja
 python
@@ -8105,9 +8176,7 @@ quiz
 qumulo
 quota
 quote
-quoteoftheday
 quotes
-quotestoliveby
 quoting
 quser
 qword
@@ -8218,7 +8287,6 @@ refactoring
 refeds
 refeds-mfa
 refedsmfa
-reference
 reflect
 reflection
 refresh
@@ -8803,7 +8871,6 @@ sharepointpnppowershellonline.add-on.module
 shares
 sheets
 shell
-shell-art
 shells
 shieldedvm
 ships
@@ -8848,6 +8915,7 @@ simplivity
 simplysql
 sin
 single
+singlestore
 singleton
 sinks
 sintez
@@ -8915,9 +8983,7 @@ smtpauth
 smtpoauth
 smtpsasl
 smtpsecure
-snap
 snapchat
-snapping
 snapshot
 snapshots
 sni
@@ -9221,7 +9287,6 @@ subscriptiondefinition
 subset
 subsystem
 subtitle
-success
 successfactors
 sudo
 sugar
@@ -9253,6 +9318,7 @@ svt
 swagger
 swamid
 swarm
+swedish
 swimlane
 swis
 switch
@@ -9291,6 +9357,8 @@ sysman
 sysmon
 sysop
 syspass
+syspip
+syspip3
 sysprep
 system
 system information 1394 controller baseboard motherboard systemboard battery bios bus cache memory cd dvd rom drive compact disc desktop monitor disk partition fan floppy glide point heatpipe ide infrared device keyboard local logical array mouse'
@@ -9378,7 +9446,6 @@ techdirect
 techedna2014
 techlog
 technology
-techsmith
 tel
 telegram
 telegram-bot
@@ -9573,8 +9640,6 @@ transmission
 transparency
 transpilation
 trap
-travel
-trec
 tree
 tree-structure
 treesize
@@ -9605,7 +9670,6 @@ trusted-host
 trustedhosts
 trustedrootcertificate
 trustprotectionplatform
-truth
 trx
 ts
 tsa
@@ -10336,6 +10400,7 @@ wsl
 wsl2
 wsman
 wsmanlistener
+wso2
 wsus
 wt
 wtsapi32
@@ -10419,6 +10484,7 @@ youtube-dl
 youtubeextractor
 yq
 yubaba
+yum
 z
 zabbix
 zabbixps
