@@ -499,9 +499,9 @@ Windows PowerShell Module for managing file and folder security on NTFS volumes
 
 __Downloads__: 2,375,791 | __Repository__: https://github.com/raandree/NTFSSecurity
 
-## [DSInternals](https://www.powershellgallery.com/Packages/DSInternals/4.9) | 4.9
+## [DSInternals](https://www.powershellgallery.com/Packages/DSInternals/4.10) | 4.10
 
-### Published: 02/25/2023 08:50:00 by Michael Grafnetter
+### Published: 09/16/2023 21:40:10 by Michael Grafnetter
 
 The DSInternals PowerShell Module exposes several internal features of Active Directory and Azure Active Directory. These include FIDO2 and NGC key auditing, offline ntds.dit file manipulation, password auditing, DC recovery from IFM backups and password hash calculation.
 
@@ -2138,4 +2138,4 @@ This module uses the REST API in the F5 LTM v11.6 and higher to query and manipu
 
 __Downloads__: 164,307 | __Repository__: https://github.com/joel74/POSH-LTM-Rest
 
-*Updated: Saturday, 16 September 2023 17:52:51 UTC*
+*Updated: Sunday, 17 September 2023 02:02:49 UTC*

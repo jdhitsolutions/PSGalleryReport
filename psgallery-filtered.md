@@ -3,9 +3,83 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
-## [tiPS](https://www.powershellgallery.com/Packages/tiPS/0.2.0) | 0.2.0
+## [PATH](https://www.powershellgallery.com/Packages/PATH/0.0.9) | 0.0.9
 
-### Published: 09/16/2023 17:42:52 by Daniel Schroeder
+### Published: 09/17/2023 00:55:51 by Marius Storhaug
+
+A PowerShell module for managing the PATH environment variable.
+
+__Downloads__: 80 | __Repository__: https://github.com/MariusStorhaug/PATH
+
+## [Utilities](https://www.powershellgallery.com/Packages/Utilities/0.0.19) | 0.0.19
+
+### Published: 09/17/2023 00:55:25 by Marius Storhaug
+
+PowerShell Module of Utilities
+
+__Downloads__: 692 | __Repository__: https://github.com/MariusStorhaug/Utilities
+
+## [Fonts](https://www.powershellgallery.com/Packages/Fonts/0.0.21) | 0.0.21
+
+### Published: 09/17/2023 00:30:52 by Marius Storhaug
+
+Manage fonts on a Windows system
+
+__Downloads__: 182 | __Repository__: https://github.com/MariusStorhaug/Fonts
+
+## [NerdFonts](https://www.powershellgallery.com/Packages/NerdFonts/0.0.11) | 0.0.11
+
+### Published: 09/17/2023 00:30:42 by Marius Storhaug
+
+A PowerShell module to manage NerdFonts
+
+__Downloads__: 89 | __Repository__: https://github.com/MariusStorhaug/NerdFonts
+
+## [PublicIP](https://www.powershellgallery.com/Packages/PublicIP/0.0.8) | 0.0.8
+
+### Published: 09/17/2023 00:30:20 by Marius Storhaug
+
+PowerShell Module for Public IP
+
+__Downloads__: 76 | __Repository__: https://github.com/MariusStorhaug/PublicIP
+
+## [DSInternals](https://www.powershellgallery.com/Packages/DSInternals/4.10) | 4.10
+
+### Published: 09/16/2023 21:40:10 by Michael Grafnetter
+
+The DSInternals PowerShell Module exposes several internal features of Active Directory and Azure Active Directory. These include FIDO2 and NGC key auditing, offline ntds.dit file manipulation, password auditing, DC recovery from IFM backups and password hash calculation.
+
+DISCLAIMER: Features exposed through this module are not supported by Microsoft and it is therefore not intended to be used in production environments. Improper use might cause irreversible damage to domain controllers or negatively impact domain security.
+
+__Downloads__: 2,351,702 | __Repository__: https://github.com/MichaelGrafnetter/DSInternals
+
+## [FileShareUtils](https://www.powershellgallery.com/Packages/FileShareUtils/1.0.24) | 1.0.24
+
+### Published: 09/16/2023 20:48:56 by Jean-Marc Ulrich (CamFlyerCH)
+
+PowerShell module to work on file shares on Windows servers and NAS (like NetApp) WITHOUT using WMI.
+
+__Downloads__: 18,212 | __Repository__: https://github.com/CamFlyerCH/FileShareUtils
+
+## [PSRule.Rules.AzureDevOps](https://www.powershellgallery.com/Packages/PSRule.Rules.AzureDevOps/0.0.2) | 0.0.2
+
+### Published: 09/16/2023 19:39:04 by Roderick Bant
+
+PSRule rules for Azure DevOps project configuration best practices
+
+__Downloads__: 0 | __Repository__: https://github.com/cloudyspells/PSRule.Rules.AzureDevOps
+
+## [PoshSonarr](https://www.powershellgallery.com/Packages/PoshSonarr/1.4.6) | 1.4.6
+
+### Published: 09/16/2023 18:49:24 by Mike Garvey
+
+A PowerShell module for querying and managing Sonarr PVR through its API's.
+
+__Downloads__: 2,340 | __Repository__: https://github.com/Yevrag35/PoshSonarr
+
+## [tiPS](https://www.powershellgallery.com/Packages/tiPS/0.2.1) | 0.2.1
+
+### Published: 09/16/2023 17:51:27 by Daniel Schroeder
 
 PowerShell tips delivered straight to your terminal.
 
@@ -278,6 +352,14 @@ PowerShell interface to the Cisco Support APIs
 
 __Downloads__: 361 | __Repository__: https://github.com/ralish/PSCiscoSupportAPIs
 
+## [JamfPSPro](https://www.powershellgallery.com/Packages/JamfPSPro/0.0.8) | 0.0.8
+
+### Published: 09/15/2023 00:53:10 by Tristan Brazier
+
+A PowerShell module for the Jamf classic api
+
+__Downloads__: 37 | __Repository__: https://github.com/TrustyTristan/JamfPSPro
+
 ## [AppVeyorTestPsGallery](https://www.powershellgallery.com/Packages/AppVeyorTestPsGallery/1.0.517) | 1.0.517
 
 ### Published: 09/14/2023 23:43:09 by Feodor Fitsner
@@ -315,22 +397,6 @@ __Downloads__: 0 | __Repository__:
 ### Published: 09/14/2023 20:40:32 by Erick Torres do Vale
 
 This module converts Microsoft Office SkuIDs to friendly names based on Microsoft documentation
-
-__Downloads__: 0 | __Repository__: 
-
-## [Get-Version](https://www.powershellgallery.com/Packages/Get-Version/1.0.2) | 1.0.2
-
-### Published: 09/14/2023 17:48:29 by Alexander Sutter
-
-Get the current PS Version Table
-
-__Downloads__: 37 | __Repository__: https://github.com/SutterStudios/Get-Version
-
-## [DTX.Tools.Installer](https://www.powershellgallery.com/Packages/DTX.Tools.Installer/0.0.27) | 0.0.27
-
-### Published: 09/14/2023 16:54:26 by Platform Operations Team
-
-Dotmatics module installer tool.
 
 __Downloads__: 0 | __Repository__: 
 
@@ -422,22 +488,6 @@ Tools for implementing a regular component-based RBAC structure in Active Direct
 
 __Downloads__: 13 | __Repository__: https://gitlab.com/breakwaterlabs/ad-rbac
 
-## [ADUserMgmt](https://www.powershellgallery.com/Packages/ADUserMgmt/0.0.9) | 0.0.9
-
-### Published: 09/14/2023 03:55:00 by nikchikersal
-
-This Module is used to ease the tasks of AD User Management
-
-__Downloads__: 0 | __Repository__: 
-
-## [Modrify.Fallout4](https://www.powershellgallery.com/Packages/Modrify.Fallout4/0.0.3) | 0.0.3
-
-### Published: 09/14/2023 03:23:44 by ThePoShWolf
-
-A PowerShell module for working with Bethesda mods.
-
-__Downloads__: 0 | __Repository__: https://github.com/ThePoShWolf/Modrify
-
 ## [Modrify.Skyrim](https://www.powershellgallery.com/Packages/Modrify.Skyrim/0.0.3) | 0.0.3
 
 ### Published: 09/14/2023 03:22:56 by ThePoShWolf
@@ -473,6 +523,14 @@ __Downloads__: 0 | __Repository__:
 A module to create mRemoteNG connection files from PowerShell.
 
 __Downloads__: 2,133 | __Repository__: 
+
+## [Log4NetParse](https://www.powershellgallery.com/Packages/Log4NetParse/0.4.0) | 0.4.0
+
+### Published: 09/13/2023 20:37:01 by Gilbert Sanchez
+
+A module to parse log4net logs.
+
+__Downloads__: 88 | __Repository__: https://github.com/HeyItsGilbert/Log4NetParse/
 
 ## [test_tagmodule1](https://www.powershellgallery.com/Packages/test_tagmodule1/1.0.0) | 1.0.0
 
@@ -1780,14 +1838,6 @@ Functions to Automate Bulk VMWare Tasks
 
 __Downloads__: 14,927 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
-## [AdminToolbox.Remoting](https://www.powershellgallery.com/Packages/AdminToolbox.Remoting/1.9.104) | 1.9.104
-
-### Published: 09/12/2023 14:19:49 by Taylor Lee
-
-Functions for remote management and access.
-
-__Downloads__: 14,827 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
 ## [AdminToolbox.Office365](https://www.powershellgallery.com/Packages/AdminToolbox.Office365/3.1.54) | 3.1.54
 
 ### Published: 09/12/2023 14:19:14 by Taylor Lee
@@ -2081,52 +2131,4 @@ Powershell Logging Module. Support multiple logging targets, including console, 
 
 __Downloads__: 31 | __Repository__: https://getps.dev/modules/PSLogs/getstarted
 
-## [AzAPICall](https://www.powershellgallery.com/Packages/AzAPICall/1.1.79) | 1.1.79
-
-### Published: 09/11/2023 15:57:18 by Julian Hayward Kai Schulz
-
-Azure API call handler for Microsoft Graph, Azure Resource Management, KeyVault and Log Analytics. Visit aka.ms/AzAPICall
-
-__Downloads__: 106,704 | __Repository__: https://aka.ms/AzAPICall
-
-## [pwsh-environment](https://www.powershellgallery.com/Packages/pwsh-environment/1.0.0) | 1.0.0
-
-### Published: 09/11/2023 14:07:06 by sawamura
-
-This is a module designed for manipulating environment variables.
-
-__Downloads__: 0 | __Repository__: https://gitlab.com/kamiyonanayo/pwsh-environment
-
-## [Easit.ProcessRunner.GlobalFunctions](https://www.powershellgallery.com/Packages/Easit.ProcessRunner.GlobalFunctions/1.1.0) | 1.1.0
-
-### Published: 09/11/2023 13:32:42 by Anders Thyrsson
-
-Functions module to be used in script executed by EasitProcessRunner
-
-__Downloads__: 0 | __Repository__: https://github.com/easitab/Easit.ProcessRunner.GlobalFunctions
-
-## [Nectar10](https://www.powershellgallery.com/Packages/Nectar10/3.68) | 3.68
-
-### Published: 09/11/2023 12:59:56 by Ken Lasko
-
-PowerShell module for Nectar DXP
-
-__Downloads__: 1,060 | __Repository__: 
-
-## [TisaneLampClient](https://www.powershellgallery.com/Packages/TisaneLampClient/7.0.3) | 7.0.3
-
-### Published: 09/11/2023 11:35:38 by CR
-
-Client side scripts for Tisane to modify language models
-
-__Downloads__: 314 | __Repository__: 
-
-## [BLRecoveryPassword](https://www.powershellgallery.com/Packages/BLRecoveryPassword/1.1.2) | 1.1.2
-
-### Published: 09/11/2023 09:09:44 by Dawid Prowadzisz
-
-Get the BitLocker recovery password from Active Directory.
-
-__Downloads__: 48 | __Repository__: 
-
-*Updated: Saturday, 16 September 2023 17:52:43 UTC*
+*Updated: Sunday, 17 September 2023 02:02:41 UTC*
