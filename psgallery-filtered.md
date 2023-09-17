@@ -3,6 +3,54 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [GPOZaurr](https://www.powershellgallery.com/Packages/GPOZaurr/1.0.0) | 1.0.0
+
+### Published: 09/17/2023 08:11:38 by Przemyslaw Klys
+
+Group Policy Eater is a PowerShell module that aims to gather information about Group Policies but also allows fixing issues that you may find in them.
+
+__Downloads__: 73,667 | __Repository__: https://github.com/EvotecIT/GPOZaurr
+
+## [PSPublishModule](https://www.powershellgallery.com/Packages/PSPublishModule/2.0.7) | 2.0.7
+
+### Published: 09/17/2023 07:38:34 by Przemyslaw Klys
+
+Simple project allowing preparing, managing, building and publishing modules to PowerShellGallery
+
+__Downloads__: 1,460 | __Repository__: https://github.com/EvotecIT/PSPublishModule
+
+## [DBeaverCreds](https://www.powershellgallery.com/Packages/DBeaverCreds/0.0.3) | 0.0.3
+
+### Published: 09/17/2023 06:51:00 by Tatsh
+
+Decrypt and display your DBeaver credentials. The output is a JSON string.
+
+__Downloads__: 0 | __Repository__: https://github.com/Tatsh/dbeaver-creds
+
+## [Evergreen](https://www.powershellgallery.com/Packages/Evergreen/2309.850) | 2309.850
+
+### Published: 09/17/2023 06:01:10 by Aaron Parker
+
+Create evergreen Windows image builds with the latest versions of applications. Evergreen is a simple PowerShell module that retrieves the latest version numbers and download URLs for various software products directly from the vendor source.
+
+__Downloads__: 1,956,505 | __Repository__: https://stealthpuppy.com/evergreen/
+
+## [powershell-windows-autoproxy](https://www.powershellgallery.com/Packages/powershell-windows-autoproxy/2.1.2) | 2.1.2
+
+### Published: 09/17/2023 05:48:22 by HuaDeity ChatGPT and Github Copilot
+
+Auto Set Proxy for Windows PowerShell, WSL and WSA
+
+__Downloads__: 57 | __Repository__: 
+
+## [tiPS](https://www.powershellgallery.com/Packages/tiPS/0.2.4) | 0.2.4
+
+### Published: 09/17/2023 02:56:58 by Daniel Schroeder
+
+PowerShell tips delivered straight to your terminal.
+
+__Downloads__: 345 | __Repository__: https://github.com/deadlydog/PowerShell.tiPS
+
 ## [PATH](https://www.powershellgallery.com/Packages/PATH/0.0.9) | 0.0.9
 
 ### Published: 09/17/2023 00:55:51 by Marius Storhaug
@@ -77,14 +125,6 @@ A PowerShell module for querying and managing Sonarr PVR through its API's.
 
 __Downloads__: 2,340 | __Repository__: https://github.com/Yevrag35/PoshSonarr
 
-## [tiPS](https://www.powershellgallery.com/Packages/tiPS/0.2.1) | 0.2.1
-
-### Published: 09/16/2023 17:51:27 by Daniel Schroeder
-
-PowerShell tips delivered straight to your terminal.
-
-__Downloads__: 345 | __Repository__: https://github.com/deadlydog/PowerShell.tiPS
-
 ## [Dynamics365Configuration](https://www.powershellgallery.com/Packages/Dynamics365Configuration/2.30.0) | 2.30.0
 
 ### Published: 09/16/2023 15:29:53 by Aleksandr Sapozhkov
@@ -117,14 +157,6 @@ __Downloads__: 692 | __Repository__: https://github.com/max-ieremenko/ThirdParty
 Tools for interacting with the Microsoft Graph Api
 
 __Downloads__: 22,745 | __Repository__: https://github.com/AndiBellstedt/MSGraph
-
-## [powershell-windows-autoproxy](https://www.powershellgallery.com/Packages/powershell-windows-autoproxy/2.1.1) | 2.1.1
-
-### Published: 09/16/2023 09:54:58 by HuaDeity ChatGPT and Github Copilot
-
-Auto Set Proxy for Windows PowerShell, WSL and WSA
-
-__Downloads__: 57 | __Repository__: 
 
 ## [CopySSHKey](https://www.powershellgallery.com/Packages/CopySSHKey/1.3) | 1.3
 
@@ -352,14 +384,6 @@ PowerShell interface to the Cisco Support APIs
 
 __Downloads__: 361 | __Repository__: https://github.com/ralish/PSCiscoSupportAPIs
 
-## [JamfPSPro](https://www.powershellgallery.com/Packages/JamfPSPro/0.0.8) | 0.0.8
-
-### Published: 09/15/2023 00:53:10 by Tristan Brazier
-
-A PowerShell module for the Jamf classic api
-
-__Downloads__: 37 | __Repository__: https://github.com/TrustyTristan/JamfPSPro
-
 ## [AppVeyorTestPsGallery](https://www.powershellgallery.com/Packages/AppVeyorTestPsGallery/1.0.517) | 1.0.517
 
 ### Published: 09/14/2023 23:43:09 by Feodor Fitsner
@@ -397,6 +421,14 @@ __Downloads__: 0 | __Repository__:
 ### Published: 09/14/2023 20:40:32 by Erick Torres do Vale
 
 This module converts Microsoft Office SkuIDs to friendly names based on Microsoft documentation
+
+__Downloads__: 0 | __Repository__: 
+
+## [DTX.Tools.Installer](https://www.powershellgallery.com/Packages/DTX.Tools.Installer/0.0.27) | 0.0.27
+
+### Published: 09/14/2023 16:54:26 by Platform Operations Team
+
+Dotmatics module installer tool.
 
 __Downloads__: 0 | __Repository__: 
 
@@ -472,14 +504,6 @@ PowerShell Module to create Mermaid diagrams.
 
 __Downloads__: 1,766 | __Repository__: https://abbgrade.github.io/PsMermaidTools/
 
-## [AzureDevOpsHousekeeping](https://www.powershellgallery.com/Packages/AzureDevOpsHousekeeping/1.0.0) | 1.0.0
-
-### Published: 09/14/2023 08:55:11 by Aamir Mirza Baig
-
-This module simplifies the housekeeping activities for Azure DevOps compliance and vulnerability management.
-
-__Downloads__: 0 | __Repository__: 
-
 ## [ad-rbac](https://www.powershellgallery.com/Packages/ad-rbac/1.1.1) | 1.1.1
 
 ### Published: 09/14/2023 08:18:43 by John@breakwaterlabs.net
@@ -487,6 +511,22 @@ __Downloads__: 0 | __Repository__:
 Tools for implementing a regular component-based RBAC structure in Active Directory
 
 __Downloads__: 13 | __Repository__: https://gitlab.com/breakwaterlabs/ad-rbac
+
+## [ADUserMgmt](https://www.powershellgallery.com/Packages/ADUserMgmt/0.0.9) | 0.0.9
+
+### Published: 09/14/2023 03:55:00 by nikchikersal
+
+This Module is used to ease the tasks of AD User Management
+
+__Downloads__: 0 | __Repository__: 
+
+## [Modrify.Fallout4](https://www.powershellgallery.com/Packages/Modrify.Fallout4/0.0.3) | 0.0.3
+
+### Published: 09/14/2023 03:23:44 by ThePoShWolf
+
+A PowerShell module for working with Bethesda mods.
+
+__Downloads__: 0 | __Repository__: https://github.com/ThePoShWolf/Modrify
 
 ## [Modrify.Skyrim](https://www.powershellgallery.com/Packages/Modrify.Skyrim/0.0.3) | 0.0.3
 
@@ -1838,6 +1878,14 @@ Functions to Automate Bulk VMWare Tasks
 
 __Downloads__: 14,927 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
+## [AdminToolbox.Remoting](https://www.powershellgallery.com/Packages/AdminToolbox.Remoting/1.9.104) | 1.9.104
+
+### Published: 09/12/2023 14:19:49 by Taylor Lee
+
+Functions for remote management and access.
+
+__Downloads__: 14,827 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
 ## [AdminToolbox.Office365](https://www.powershellgallery.com/Packages/AdminToolbox.Office365/3.1.54) | 3.1.54
 
 ### Published: 09/12/2023 14:19:14 by Taylor Lee
@@ -2083,52 +2131,4 @@ tree like function for PowerShell
 
 __Downloads__: 1,064 | __Repository__: https://www.github.com/santisq/PSTree
 
-## [Wsl](https://www.powershellgallery.com/Packages/Wsl/2.0.0) | 2.0.0
-
-### Published: 09/11/2023 23:46:02 by Sven Groot
-
-PowerShell cmdlets to manage Windows Subsystem for Linux distributions.
-
-__Downloads__: 3,587 | __Repository__: https://github.com/SvenGroot/WslManagementPS
-
-## [LogicMonitor](https://www.powershellgallery.com/Packages/LogicMonitor/2023.9.11.0) | 2023.9.11.0
-
-### Published: 09/11/2023 23:16:37 by Mike Hashemi
-
-LogicMonitor REST API-related functions.
-
-__Downloads__: 10,018 | __Repository__: https://github.com/wetling23/logicmonitor-posh-module
-
-## [AzAppGatewayVisualizer](https://www.powershellgallery.com/Packages/AzAppGatewayVisualizer/1.0.0) | 1.0.0
-
-### Published: 09/11/2023 18:34:59 by Mark Farkas
-
-AzAppGatewayVisualizer: PowerShell module to generate Mermaid diagrams for Azure Application Gateway resources, providing a visual overview of listeners, frontend IPs, WAF policies, rules, backend pools, and HTTP settings.
-
-__Downloads__: 18 | __Repository__: https://github.com/MarkFarkas/AzAppGatewayVisualizer
-
-## [ConnectWiseManageAPI](https://www.powershellgallery.com/Packages/ConnectWiseManageAPI/0.4.13.0) | 0.4.13.0
-
-### Published: 09/11/2023 17:39:36 by Chris Taylor
-
-PowerShell wrapper for the ConnectWise Manage REST API
-
-__Downloads__: 120,613 | __Repository__: https://github.com/christaylorcodes/ConnectWiseManageAPI
-
-## [DesktopSharedMod](https://www.powershellgallery.com/Packages/DesktopSharedMod/2.0.25) | 2.0.25
-
-### Published: 09/11/2023 17:19:27 by Tanner Schmidt
-
-This module does stuff
-
-__Downloads__: 16,823 | __Repository__: 
-
-## [PSLogs](https://www.powershellgallery.com/Packages/PSLogs/5.1.0) | 5.1.0
-
-### Published: 09/11/2023 16:22:07 by Hannes Palmquist
-
-Powershell Logging Module. Support multiple logging targets, including console, file, sqlite, winevent, gelf, slack etc.
-
-__Downloads__: 31 | __Repository__: https://getps.dev/modules/PSLogs/getstarted
-
-*Updated: Sunday, 17 September 2023 02:02:41 UTC*
+*Updated: Sunday, 17 September 2023 09:52:47 UTC*

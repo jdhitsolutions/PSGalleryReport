@@ -3,6 +3,54 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [GPOZaurr](https://www.powershellgallery.com/Packages/GPOZaurr/1.0.0) | 1.0.0
+
+### Published: 09/17/2023 08:11:38 by Przemyslaw Klys
+
+Group Policy Eater is a PowerShell module that aims to gather information about Group Policies but also allows fixing issues that you may find in them.
+
+__Downloads__: 73,667 | __Repository__: https://github.com/EvotecIT/GPOZaurr
+
+## [PSPublishModule](https://www.powershellgallery.com/Packages/PSPublishModule/2.0.7) | 2.0.7
+
+### Published: 09/17/2023 07:38:34 by Przemyslaw Klys
+
+Simple project allowing preparing, managing, building and publishing modules to PowerShellGallery
+
+__Downloads__: 1,460 | __Repository__: https://github.com/EvotecIT/PSPublishModule
+
+## [DBeaverCreds](https://www.powershellgallery.com/Packages/DBeaverCreds/0.0.3) | 0.0.3
+
+### Published: 09/17/2023 06:51:00 by Tatsh
+
+Decrypt and display your DBeaver credentials. The output is a JSON string.
+
+__Downloads__: 0 | __Repository__: https://github.com/Tatsh/dbeaver-creds
+
+## [Evergreen](https://www.powershellgallery.com/Packages/Evergreen/2309.850) | 2309.850
+
+### Published: 09/17/2023 06:01:10 by Aaron Parker
+
+Create evergreen Windows image builds with the latest versions of applications. Evergreen is a simple PowerShell module that retrieves the latest version numbers and download URLs for various software products directly from the vendor source.
+
+__Downloads__: 1,956,505 | __Repository__: https://stealthpuppy.com/evergreen/
+
+## [powershell-windows-autoproxy](https://www.powershellgallery.com/Packages/powershell-windows-autoproxy/2.1.2) | 2.1.2
+
+### Published: 09/17/2023 05:48:22 by HuaDeity ChatGPT and Github Copilot
+
+Auto Set Proxy for Windows PowerShell, WSL and WSA
+
+__Downloads__: 57 | __Repository__: 
+
+## [tiPS](https://www.powershellgallery.com/Packages/tiPS/0.2.4) | 0.2.4
+
+### Published: 09/17/2023 02:56:58 by Daniel Schroeder
+
+PowerShell tips delivered straight to your terminal.
+
+__Downloads__: 345 | __Repository__: https://github.com/deadlydog/PowerShell.tiPS
+
 ## [PATH](https://www.powershellgallery.com/Packages/PATH/0.0.9) | 0.0.9
 
 ### Published: 09/17/2023 00:55:51 by Marius Storhaug
@@ -77,14 +125,6 @@ A PowerShell module for querying and managing Sonarr PVR through its API's.
 
 __Downloads__: 2,340 | __Repository__: https://github.com/Yevrag35/PoshSonarr
 
-## [tiPS](https://www.powershellgallery.com/Packages/tiPS/0.2.1) | 0.2.1
-
-### Published: 09/16/2023 17:51:27 by Daniel Schroeder
-
-PowerShell tips delivered straight to your terminal.
-
-__Downloads__: 345 | __Repository__: https://github.com/deadlydog/PowerShell.tiPS
-
 ## [Dynamics365Configuration](https://www.powershellgallery.com/Packages/Dynamics365Configuration/2.30.0) | 2.30.0
 
 ### Published: 09/16/2023 15:29:53 by Aleksandr Sapozhkov
@@ -117,14 +157,6 @@ __Downloads__: 692 | __Repository__: https://github.com/max-ieremenko/ThirdParty
 Tools for interacting with the Microsoft Graph Api
 
 __Downloads__: 22,745 | __Repository__: https://github.com/AndiBellstedt/MSGraph
-
-## [powershell-windows-autoproxy](https://www.powershellgallery.com/Packages/powershell-windows-autoproxy/2.1.1) | 2.1.1
-
-### Published: 09/16/2023 09:54:58 by HuaDeity ChatGPT and Github Copilot
-
-Auto Set Proxy for Windows PowerShell, WSL and WSA
-
-__Downloads__: 57 | __Repository__: 
 
 ## [CopySSHKey](https://www.powershellgallery.com/Packages/CopySSHKey/1.3) | 1.3
 
@@ -2428,44 +2460,4 @@ This version of AWS Tools for PowerShell is compatible with Windows PowerShell 5
 
 __Downloads__: 20,760 | __Repository__: https://github.com/aws/aws-tools-for-powershell
 
-## [AWS.Tools.ElastiCache](https://www.powershellgallery.com/Packages/AWS.Tools.ElastiCache/4.1.416) | 4.1.416
-
-### Published: 09/15/2023 23:23:42 by Amazon.com Inc
-
-The ElastiCache module of AWS Tools for PowerShell lets developers and administrators manage Amazon ElastiCache from the PowerShell scripting environment. In order to manage each AWS service, install the corresponding module (e.g. AWS.Tools.EC2, AWS.Tools.S3...).
-The module AWS.Tools.Installer (https://www.powershellgallery.com/packages/AWS.Tools.Installer/) makes it easier to install, update and uninstall the AWS.Tools modules.
-This version of AWS Tools for PowerShell is compatible with Windows PowerShell 5.1+ and PowerShell Core 6+ on Windows, Linux and macOS. When running on Windows PowerShell, .NET Framework 4.7.2 or newer is required. Alternative modules AWSPowerShell.NetCore and AWSPowerShell, provide support for all AWS services from a single module and also support older versions of Windows PowerShell and .NET Framework.
-
-__Downloads__: 31,664 | __Repository__: https://github.com/aws/aws-tools-for-powershell
-
-## [AWS.Tools.EKS](https://www.powershellgallery.com/Packages/AWS.Tools.EKS/4.1.416) | 4.1.416
-
-### Published: 09/15/2023 23:23:37 by Amazon.com Inc
-
-The EKS module of AWS Tools for PowerShell lets developers and administrators manage Amazon Elastic Container Service for Kubernetes from the PowerShell scripting environment. In order to manage each AWS service, install the corresponding module (e.g. AWS.Tools.EC2, AWS.Tools.S3...).
-The module AWS.Tools.Installer (https://www.powershellgallery.com/packages/AWS.Tools.Installer/) makes it easier to install, update and uninstall the AWS.Tools modules.
-This version of AWS Tools for PowerShell is compatible with Windows PowerShell 5.1+ and PowerShell Core 6+ on Windows, Linux and macOS. When running on Windows PowerShell, .NET Framework 4.7.2 or newer is required. Alternative modules AWSPowerShell.NetCore and AWSPowerShell, provide support for all AWS services from a single module and also support older versions of Windows PowerShell and .NET Framework.
-
-__Downloads__: 21,176 | __Repository__: https://github.com/aws/aws-tools-for-powershell
-
-## [AWS.Tools.ECS](https://www.powershellgallery.com/Packages/AWS.Tools.ECS/4.1.416) | 4.1.416
-
-### Published: 09/15/2023 23:23:31 by Amazon.com Inc
-
-The ECS module of AWS Tools for PowerShell lets developers and administrators manage Amazon EC2 Container Service from the PowerShell scripting environment. In order to manage each AWS service, install the corresponding module (e.g. AWS.Tools.EC2, AWS.Tools.S3...).
-The module AWS.Tools.Installer (https://www.powershellgallery.com/packages/AWS.Tools.Installer/) makes it easier to install, update and uninstall the AWS.Tools modules.
-This version of AWS Tools for PowerShell is compatible with Windows PowerShell 5.1+ and PowerShell Core 6+ on Windows, Linux and macOS. When running on Windows PowerShell, .NET Framework 4.7.2 or newer is required. Alternative modules AWSPowerShell.NetCore and AWSPowerShell, provide support for all AWS services from a single module and also support older versions of Windows PowerShell and .NET Framework.
-
-__Downloads__: 96,686 | __Repository__: https://github.com/aws/aws-tools-for-powershell
-
-## [AWS.Tools.ECRPublic](https://www.powershellgallery.com/Packages/AWS.Tools.ECRPublic/4.1.416) | 4.1.416
-
-### Published: 09/15/2023 23:23:26 by Amazon.com Inc
-
-The ECRPublic module of AWS Tools for PowerShell lets developers and administrators manage Amazon Elastic Container Registry Public from the PowerShell scripting environment. In order to manage each AWS service, install the corresponding module (e.g. AWS.Tools.EC2, AWS.Tools.S3...).
-The module AWS.Tools.Installer (https://www.powershellgallery.com/packages/AWS.Tools.Installer/) makes it easier to install, update and uninstall the AWS.Tools modules.
-This version of AWS Tools for PowerShell is compatible with Windows PowerShell 5.1+ and PowerShell Core 6+ on Windows, Linux and macOS. When running on Windows PowerShell, .NET Framework 4.7.2 or newer is required. Alternative modules AWSPowerShell.NetCore and AWSPowerShell, provide support for all AWS services from a single module and also support older versions of Windows PowerShell and .NET Framework.
-
-__Downloads__: 6,722 | __Repository__: https://github.com/aws/aws-tools-for-powershell
-
-*Updated: Sunday, 17 September 2023 02:02:38 UTC*
+*Updated: Sunday, 17 September 2023 09:52:44 UTC*
