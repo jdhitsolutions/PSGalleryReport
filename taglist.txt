@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Sunday, 17 September 2023 09:53:00 UTC
+Updated: Sunday, 17 September 2023 17:53:56 UTC
 
 .bat
 .env
@@ -15,7 +15,6 @@ Updated: Sunday, 17 September 2023 09:53:00 UTC
 "interactive
 🍄
 🍣
-💩
 10
 11
 1607
@@ -72,7 +71,6 @@ about
 abr
 abstractsyntaxtree
 abuse
-abuseipdb
 acas
 accelerator
 access
@@ -112,7 +110,6 @@ active
 active_directory
 active-directory
 active-plug
-activecampaign
 activedirectory
 activedirectory_over_html
 activedirectoryauthenticationlibrary
@@ -138,8 +135,6 @@ ad-report
 ad-site
 adal
 adapter
-adapter-control
-adapters
 adaptivecards
 adb
 adc
@@ -430,7 +425,6 @@ area
 arg
 argcomplete
 argument
-argumentcompleter
 arguments
 arm
 arm-json
@@ -627,6 +621,7 @@ azure-resource-graph
 azure-ssis
 azureactivedirectory
 azuread
+azureadbackupandrestore
 azureadconnect
 azureadgraph
 azureadtoolkit
@@ -721,7 +716,6 @@ bash
 basic
 bastion
 bat
-batcat
 batch
 batchclass
 batman
@@ -1293,6 +1287,7 @@ complete
 completer
 completion
 completion-manager
+completionresult
 completions
 complex
 compliance
@@ -1412,8 +1407,6 @@ converttomarkdown
 converttomd
 cookie
 coolq
-cooltag1
-cooltag2
 coordinates
 copilot
 copy
@@ -1526,7 +1519,6 @@ css
 csv
 csv2adx
 csvhelper
-ctf
 ctglobal
 ctl
 ctrl+c
@@ -1812,6 +1804,7 @@ dictionary
 diff
 difference
 dig
+digikam
 digital
 digital-forensics
 digitalforensics
@@ -1834,8 +1827,6 @@ direnv
 dirkjan
 dirname
 disa
-disable
-disable-internet
 disable-psremoting
 disablefilesyncngsc
 disablestartbutton
@@ -2135,8 +2126,6 @@ emotion
 empire
 empty
 emwarehouse
-enable
-enable-internet
 enable-psremoting
 enable-psremotingremote
 enbrea
@@ -2299,6 +2288,7 @@ executables
 execute
 exexml
 exif
+exiftool
 exists
 exitcode
 exitprocessrequest
@@ -2538,7 +2528,6 @@ formatformat-tableformat-listformat-wideformat-customformat-defaultout-defaultou
 formatting
 forms
 fortiauth
-forticlient
 fortify
 fortifyondemand
 fortigate
@@ -2629,7 +2618,6 @@ gcloud
 gcp
 gcs
 gdpr
-gedit
 gem
 gemini
 geminiprotocol
@@ -2712,7 +2700,6 @@ git-clone
 git-flow
 git-hf
 git-hubflow
-git-lfs
 git-proxy
 git-stat
 gitcmdline
@@ -2842,7 +2829,6 @@ gzip-compression
 ha
 haarlemsdagblad
 hack
-hacking
 hacktoberfest
 hadoop
 hafr
@@ -2917,6 +2903,7 @@ helm
 helmet
 help
 helpdesk
+helpdoc
 helper
 helper-functions
 helperfunctions
@@ -2928,7 +2915,6 @@ hewlett
 hewlett-packard
 hewlett-packardenterprise
 hex
-hexdump
 hg
 hibernate
 hibernation
@@ -3155,7 +3141,6 @@ import-dtdriverpackpackagedefinitionsms
 import-modulefrompath
 import-passlist
 import-sampackagedefinitionsms
-importer
 importexport
 importteams
 inactive
@@ -3386,7 +3371,6 @@ johnshopkins
 join
 join-object
 jojoba
-joke
 jotform
 journal
 joyride
@@ -3570,7 +3554,6 @@ leiningnen
 lenel
 length
 lenovo
-less
 lesspass
 letsencrypt
 lf
@@ -4042,7 +4025,6 @@ monitoringsolutions
 monthlyupdate
 moodle
 moonshot
-more
 mosaic
 motd
 motivation
@@ -4189,7 +4171,6 @@ nec-infrared-transmission-protocol
 nederland
 nedyalkov
 neo4j
-neovim
 neptune
 nerdfonts
 nerdio
@@ -4303,7 +4284,6 @@ nosql
 note
 notebook
 notepad
-notepad2
 noteproperty
 notes
 notification
@@ -4579,7 +4559,6 @@ owner
 oxygen
 oxyplot
 p2000
-p2s
 pa1reg
 paas
 pac
@@ -4733,7 +4712,6 @@ php
 phpapam
 pi
 picker
-pico
 picture
 pictures
 pid
@@ -4795,7 +4773,6 @@ poe
 poem
 poetry
 point
-point-to-site
 pointer
 pokeapi
 pokedex
@@ -4813,7 +4790,6 @@ polycom
 pomodoro
 ponduit
 pool
-poop
 pop
 pop-location
 pop3
@@ -4858,13 +4834,13 @@ poshy-dir-nav
 poshy-ecks
 poshy-env-proxy
 poshy-env-var
+poshy-ls-isms
 poshy-lucidity
 poshy-multimedia
 poshy-net
 poshy-notify-send
 poshy-sh-isms
 poshy-sshconfig
-poshy-viewer-finder
 poshy-wrap
 poshy-wrap-apt
 poshy-wrap-argcomplete
@@ -4878,7 +4854,6 @@ poshy-wrap-forgit
 poshy-wrap-gem
 poshy-wrap-git-flow
 poshy-wrap-git-hf
-poshy-wrap-git-lfs
 poshy-wrap-golang
 poshy-wrap-helm
 poshy-wrap-kubectl
@@ -4891,7 +4866,6 @@ poshy-wrap-pipenv
 poshy-wrap-pyenv
 poshy-wrap-pylint
 poshy-wrap-python
-poshy-wrap-ruby
 poshy-wrap-systemctl
 poshy-wrap-terraform
 poshy-wrap-terragrunt
@@ -5164,7 +5138,6 @@ pscommand_acsp
 pscommand_add_ssh
 pscommand_add-envpathitem
 pscommand_add-envvarpathitem
-pscommand_add-gitlfstrackedfiles
 pscommand_afs
 pscommand_age
 pscommand_agli
@@ -5446,9 +5419,6 @@ pscommand_forgit-reset-head
 pscommand_forgit-revert-commit
 pscommand_forgit-stash-push
 pscommand_forgit-stash-show
-pscommand_format-batcatstyle
-pscommand_format-lesstermcapenv
-pscommand_format-viewerinvocationsh
 pscommand_ga
 pscommand_gbd
 pscommand_gbl
@@ -5476,6 +5446,15 @@ pscommand_geli
 pscommand_geo
 pscommand_geoe
 pscommand_get-aptinstalledpackages
+pscommand_get-childitemcolorfully
+pscommand_get-childitemcolorfullycramped
+pscommand_get-childitemcolorfullyrevealingly
+pscommand_get-childitemcolorfullyrevealinglycramped
+pscommand_get-childitemcolorfullyrevealinglyrecursively
+pscommand_get-childitemcolorfullyrevealinglyrecursivelywithrecency
+pscommand_get-childitemcolorfullyrevealinglywithrecency
+pscommand_get-childitemcolorfullywithrecency
+pscommand_get-childitemnamesonly
 pscommand_get-dockercontainerall
 pscommand_get-dockercontainerlatest
 pscommand_get-dockercontainerlatestipaddress
@@ -5485,13 +5464,11 @@ pscommand_get-dockerimage
 pscommand_get-envpathitem
 pscommand_get-envvar
 pscommand_get-envvarpathitem
-pscommand_get-gitlfstrackedfiles
 pscommand_get-itemnixmode
 pscommand_get-netipaddresspublic
 pscommand_get-netipaddresssimple
 pscommand_get-pwshaliasdefinition
 pscommand_get-pwshfunctiondefinition
-pscommand_get-viewer
 pscommand_geun
 pscommand_gfl
 pscommand_gflf
@@ -5528,10 +5505,6 @@ pscommand_git-global-disable-proxy
 pscommand_git-global-enable-proxy
 pscommand_git-global-show-proxy
 pscommand_git-show-proxy
-pscommand_glfsi
-pscommand_glfsls
-pscommand_glfsmi
-pscommand_glfst
 pscommand_glo
 pscommand_gob
 pscommand_goc
@@ -5558,7 +5531,6 @@ pscommand_gotofx
 pscommand_gov
 pscommand_gove
 pscommand_gow
-pscommand_gplfs
 pscommand_grb
 pscommand_grc
 pscommand_grh
@@ -5669,8 +5641,6 @@ pscommand_invoke-githubflowhotfix
 pscommand_invoke-githubflowrelease
 pscommand_invoke-githubflowsupport
 pscommand_invoke-githubflowupdate
-pscommand_invoke-gitlfsinstall
-pscommand_invoke-gitlfsmigrateimport
 pscommand_invoke-gobuild
 pscommand_invoke-goclean
 pscommand_invoke-godoc
@@ -5854,9 +5824,6 @@ pscommand_invoke-pipenvvenv
 pscommand_invoke-pipenvwhere
 pscommand_invoke-pyenv
 pscommand_invoke-pylintreportsdisabled
-pscommand_invoke-ruby
-pscommand_invoke-rubyexecute
-pscommand_invoke-rubyexecutehttpdhere
 pscommand_invoke-systemctl-add-requires
 pscommand_invoke-systemctl-add-wants
 pscommand_invoke-systemctl-cancel
@@ -6213,6 +6180,19 @@ pscommand_krsss
 pscommand_kru
 pscommand_ksd
 pscommand_ksss
+pscommand_l
+pscommand_l1
+pscommand_la
+pscommand_lart
+pscommand_ldot
+pscommand_lf
+pscommand_ll
+pscommand_lr
+pscommand_lrt
+pscommand_ls
+pscommand_lsn
+pscommand_lsr
+pscommand_lt
 pscommand_mcd
 pscommand_mci
 pscommand_mcisk
@@ -6229,7 +6209,6 @@ pscommand_mrprep
 pscommand_mrrb
 pscommand_myip
 pscommand_new-isofile
-pscommand_new-viewerinvocationfunction
 pscommand_new-windowsterminalpane
 pscommand_new-windowsterminaltab
 pscommand_nginx_reload
@@ -6314,7 +6293,6 @@ pscommand_pylint-quick
 pscommand_pyserver
 pscommand_python
 pscommand_python3
-pscommand_rb
 pscommand_read-dotenv
 pscommand_register-argcompleteargumentcompleter
 pscommand_remove_gem
@@ -6323,8 +6301,6 @@ pscommand_remove-dockerunusedimage
 pscommand_remove-envpathitem
 pscommand_remove-envvar
 pscommand_remove-envvarpathitem
-pscommand_rrun
-pscommand_rserver
 pscommand_sc-disable-now
 pscommand_sc-enable-now
 pscommand_sc-mask-now
@@ -6360,6 +6336,7 @@ pscommand_sgem
 pscommand_show-proxy
 pscommand_shttp
 pscommand_shuf
+pscommand_sl
 pscommand_ssh-add-all
 pscommand_ssh-disable-proxy
 pscommand_ssh-enable-proxy
@@ -6531,7 +6508,6 @@ psdesiredstateconfiguration
 psdevops
 psdocs
 psdocs-documents
-psdocsgenerator
 psdrawio
 psdrive
 psdrives
@@ -6570,7 +6546,6 @@ psfunction_aar
 psfunction_add_ssh
 psfunction_add-envpathitem
 psfunction_add-envvarpathitem
-psfunction_add-gitlfstrackedfiles
 psfunction_apt-history
 psfunction_apt-list-packages
 psfunction_arch
@@ -6728,10 +6703,16 @@ psfunction_forgit-reset-head
 psfunction_forgit-revert-commit
 psfunction_forgit-stash-push
 psfunction_forgit-stash-show
-psfunction_format-batcatstyle
-psfunction_format-lesstermcapenv
-psfunction_format-viewerinvocationsh
 psfunction_get-aptinstalledpackages
+psfunction_get-childitemcolorfully
+psfunction_get-childitemcolorfullycramped
+psfunction_get-childitemcolorfullyrevealingly
+psfunction_get-childitemcolorfullyrevealinglycramped
+psfunction_get-childitemcolorfullyrevealinglyrecursively
+psfunction_get-childitemcolorfullyrevealinglyrecursivelywithrecency
+psfunction_get-childitemcolorfullyrevealinglywithrecency
+psfunction_get-childitemcolorfullywithrecency
+psfunction_get-childitemnamesonly
 psfunction_get-dockercontainerall
 psfunction_get-dockercontainerlatest
 psfunction_get-dockercontainerlatestipaddress
@@ -6741,20 +6722,17 @@ psfunction_get-dockerimage
 psfunction_get-envpathitem
 psfunction_get-envvar
 psfunction_get-envvarpathitem
-psfunction_get-gitlfstrackedfiles
 psfunction_get-itemnixmode
 psfunction_get-netipaddresspublic
 psfunction_get-netipaddresssimple
 psfunction_get-pwshaliasdefinition
 psfunction_get-pwshfunctiondefinition
-psfunction_get-viewer
 psfunction_git-disable-proxy
 psfunction_git-enable-proxy
 psfunction_git-global-disable-proxy
 psfunction_git-global-enable-proxy
 psfunction_git-global-show-proxy
 psfunction_git-show-proxy
-psfunction_gplfs
 psfunction_hostname
 psfunction_invoke-aptcachepolicy
 psfunction_invoke-aptcachesearch
@@ -6856,8 +6834,6 @@ psfunction_invoke-githubflowhotfix
 psfunction_invoke-githubflowrelease
 psfunction_invoke-githubflowsupport
 psfunction_invoke-githubflowupdate
-psfunction_invoke-gitlfsinstall
-psfunction_invoke-gitlfsmigrateimport
 psfunction_invoke-gobuild
 psfunction_invoke-goclean
 psfunction_invoke-godoc
@@ -7041,9 +7017,6 @@ psfunction_invoke-pipenvvenv
 psfunction_invoke-pipenvwhere
 psfunction_invoke-pyenv
 psfunction_invoke-pylintreportsdisabled
-psfunction_invoke-ruby
-psfunction_invoke-rubyexecute
-psfunction_invoke-rubyexecutehttpdhere
 psfunction_invoke-systemctl-add-requires
 psfunction_invoke-systemctl-add-wants
 psfunction_invoke-systemctl-cancel
@@ -7283,7 +7256,6 @@ psfunction_kres
 psfunction_measure-envvarchanges
 psfunction_mirrorsite
 psfunction_new-isofile
-psfunction_new-viewerinvocationfunction
 psfunction_new-windowsterminalpane
 psfunction_new-windowsterminaltab
 psfunction_nginx_reload
@@ -7437,7 +7409,6 @@ psprtg
 pspublicapi
 psql
 psraw
-psreadexif
 psreadline
 psremoting
 psrepository
@@ -7524,7 +7495,6 @@ pwshfw
 pwshrc
 pxedistributionpoint
 pyenv
-pygmentize
 pylint
 pyranja
 python
@@ -7555,6 +7525,7 @@ qrp
 qrs
 quality
 qualys
+quandl
 quantum
 quarantine
 queries
@@ -7563,7 +7534,6 @@ queue
 queues
 queuing
 quickaccess
-quickbase
 quickbooks
 quicksetup
 quiz
@@ -7666,7 +7636,10 @@ redfish
 redforest
 redgate
 redirect
+redirecting
 redirects
+redirectstandarderror
+redirectstandardoutput
 redis
 redisenterprisecache
 redistributables
@@ -8204,7 +8177,6 @@ sessions
 set
 set_bios
 set-alias
-set-dnsservers
 set-githubsecrets
 set-itemproperty
 set-location
@@ -8265,7 +8237,6 @@ sharepointpnppowershellonline.add-on.module
 shares
 sheets
 shell
-shell-art
 shells
 shieldedvm
 ships
@@ -8607,6 +8578,7 @@ statuscode
 statusmonitor
 statusreportingcomponent
 staytus
+stderr
 stdio
 stdout
 steam
@@ -8754,7 +8726,6 @@ syslog
 sysman
 sysmon
 sysop
-syspass
 syspip
 syspip3
 sysprep
@@ -8784,7 +8755,6 @@ tab-completion
 tab-expansion
 tabcompletion
 tabexpansion
-tabexpansion2
 tablacus
 table
 tableau
@@ -8908,7 +8878,6 @@ text-to-speach"
 text-to-speech
 text2image
 textanalysis
-textbuffer
 texting
 textprocessing
 textwrapping
@@ -8976,6 +8945,7 @@ tobias
 toc
 todo
 todo.txt
+toggl
 toggle
 token
 tokenlifetime
@@ -9123,7 +9093,6 @@ ucspowertool
 ud-avataaar
 ud-badgebutton
 ud-badgelink
-ud-breadcrumb
 ud-breadcrumbitem
 ud-burger
 ud-button
@@ -9171,7 +9140,6 @@ ud-toploader
 ud-trendline
 ud-typing
 ud-window
-ud-wordtree
 udcm
 udfeedback
 udp
@@ -9380,7 +9348,6 @@ videos
 vie
 viewer
 vigenere
-vim
 vimode
 virole
 virsh
@@ -9465,7 +9432,6 @@ vpc
 vpg
 vplex
 vpn
-vpn-certificate
 vpro
 vps
 vra
@@ -9690,6 +9656,7 @@ windowsserver2019
 windowsservercoresecurity
 windowsserverguisecurity
 windowsservice
+windowsservices
 windowsstore
 windowsterminal
 windowstimezone
