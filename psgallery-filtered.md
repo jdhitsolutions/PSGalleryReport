@@ -3,13 +3,101 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
-## [tiPS](https://www.powershellgallery.com/Packages/tiPS/0.2.5) | 0.2.5
+## [Test-PowerPing](https://www.powershellgallery.com/Packages/Test-PowerPing/1.0) | 1.0
 
-### Published: 09/17/2023 17:28:57 by Daniel Schroeder
+### Published: 09/18/2023 01:49:30 by Hunter Hirsch
+
+Test-PowerPing sends single pings to IPv4 addresses asynchronously within a given IPv4 address range using PowerShell Runspaces. Can also be used to calculate addresses within a given IPv4 address range using “-AddressOnly” switch and “IPFilter”. Ranges that are consistently used can be saved using “Sites” Parameter Set and can be referenced using “-Site <sitename>” syntax. Each Parameter Set (Address, Targets, Sites) has several control parameters available.
+
+__Downloads__: 0 | __Repository__: 
+
+## [AOVPNTools](https://www.powershellgallery.com/Packages/AOVPNTools/1.7.2) | 1.7.2
+
+### Published: 09/18/2023 00:36:14 by Richard M. Hicks
+
+PowerShell module for configuring and optimizing Windows Server Routing and Remote Access Service (RRAS) for Always On VPN.
+
+__Downloads__: 1,571 | __Repository__: 
+
+## [GitHub](https://www.powershellgallery.com/Packages/GitHub/0.0.26) | 0.0.26
+
+### Published: 09/18/2023 00:24:05 by Marius Storhaug
+
+PowerShell Module for GitHub
+
+__Downloads__: 1,392 | __Repository__: https://github.com/PSModule/GitHub
+
+## [WindowsUtils](https://www.powershellgallery.com/Packages/WindowsUtils/1.9.0) | 1.9.0
+
+### Published: 09/18/2023 00:17:21 by Francisco Nabas
+
+This module contain tools to facilitate the administration of Windows computers.
+
+__Downloads__: 340 | __Repository__: https://github.com/FranciscoNabas/WindowsUtils
+
+## [Fonts](https://www.powershellgallery.com/Packages/Fonts/0.0.25) | 0.0.25
+
+### Published: 09/17/2023 20:47:39 by Marius Storhaug
+
+Manage fonts on a Windows system
+
+__Downloads__: 182 | __Repository__: https://github.com/MariusStorhaug/Fonts
+
+## [PsComplete](https://www.powershellgallery.com/Packages/PsComplete/0.0.21) | 0.0.21
+
+### Published: 09/17/2023 20:43:58 by ieviev
+
+Cross-platform custom powershell autocomplete / tab expansion
+
+__Downloads__: 299 | __Repository__: https://github.com/ieviev/pscomplete/
+
+## [tiPS](https://www.powershellgallery.com/Packages/tiPS/0.3.0) | 0.3.0
+
+### Published: 09/17/2023 19:26:37 by Daniel Schroeder
 
 PowerShell tips delivered straight to your terminal.
 
 __Downloads__: 345 | __Repository__: https://github.com/deadlydog/PowerShell.tiPS
+
+## [NerdFonts](https://www.powershellgallery.com/Packages/NerdFonts/0.0.13) | 0.0.13
+
+### Published: 09/17/2023 19:23:53 by Marius Storhaug
+
+A PowerShell module to manage NerdFonts
+
+__Downloads__: 89 | __Repository__: https://github.com/MariusStorhaug/NerdFonts
+
+## [PATH](https://www.powershellgallery.com/Packages/PATH/0.0.12) | 0.0.12
+
+### Published: 09/17/2023 19:23:40 by Marius Storhaug
+
+A PowerShell module for managing the PATH environment variable.
+
+__Downloads__: 80 | __Repository__: https://github.com/MariusStorhaug/PATH
+
+## [PublicIP](https://www.powershellgallery.com/Packages/PublicIP/0.0.10) | 0.0.10
+
+### Published: 09/17/2023 19:09:07 by Marius Storhaug
+
+PowerShell Module for Public IP
+
+__Downloads__: 76 | __Repository__: https://github.com/MariusStorhaug/PublicIP
+
+## [PowerArubaCX](https://www.powershellgallery.com/Packages/PowerArubaCX/0.6.0) | 0.6.0
+
+### Published: 09/17/2023 19:04:07 by Alexis La Goutte
+
+PowerShell module to query the ArubaCX Switch API
+
+__Downloads__: 844 | __Repository__: https://github.com/PowerAruba/PowerArubaCX
+
+## [Utilities](https://www.powershellgallery.com/Packages/Utilities/0.0.24) | 0.0.24
+
+### Published: 09/17/2023 18:55:56 by Marius Storhaug
+
+PowerShell Module of Utilities
+
+__Downloads__: 692 | __Repository__: https://github.com/MariusStorhaug/Utilities
 
 ## [DattoAPI](https://www.powershellgallery.com/Packages/DattoAPI/2.1.0) | 2.1.0
 
@@ -91,14 +179,6 @@ PowerShell Module for GitHub.Migrations
 
 __Downloads__: 578 | __Repository__: https://github.com/MariusStorhaug/GitHub
 
-## [GitHub.Teams](https://www.powershellgallery.com/Packages/GitHub.Teams/0.0.12) | 0.0.12
-
-### Published: 09/17/2023 17:10:10 by Marius Storhaug
-
-PowerShell Module for GitHub.Teams
-
-__Downloads__: 563 | __Repository__: https://github.com/MariusStorhaug/GitHub
-
 ## [GitHub.Activity](https://www.powershellgallery.com/Packages/GitHub.Activity/0.0.12) | 0.0.12
 
 ### Published: 09/17/2023 17:10:10 by Marius Storhaug
@@ -107,13 +187,13 @@ PowerShell Module for GitHub.Activity
 
 __Downloads__: 762 | __Repository__: https://github.com/MariusStorhaug/GitHub
 
-## [Fonts](https://www.powershellgallery.com/Packages/Fonts/0.0.22) | 0.0.22
+## [GitHub.Teams](https://www.powershellgallery.com/Packages/GitHub.Teams/0.0.12) | 0.0.12
 
-### Published: 09/17/2023 17:10:09 by Marius Storhaug
+### Published: 09/17/2023 17:10:10 by Marius Storhaug
 
-Manage fonts on a Windows system
+PowerShell Module for GitHub.Teams
 
-__Downloads__: 182 | __Repository__: https://github.com/MariusStorhaug/Fonts
+__Downloads__: 563 | __Repository__: https://github.com/MariusStorhaug/GitHub
 
 ## [GitHub.Codespaces](https://www.powershellgallery.com/Packages/GitHub.Codespaces/0.0.12) | 0.0.12
 
@@ -147,14 +227,6 @@ PowerShell Module for GitHub.Branches
 
 __Downloads__: 574 | __Repository__: https://github.com/MariusStorhaug/GitHub
 
-## [GitHub.DependencyGraph](https://www.powershellgallery.com/Packages/GitHub.DependencyGraph/0.0.2) | 0.0.2
-
-### Published: 09/17/2023 17:09:58 by Marius Storhaug
-
-PowerShell Module for GitHub.DependencyGraph
-
-__Downloads__: 4 | __Repository__: https://github.com/MariusStorhaug/GitHub
-
 ## [GitHub.Deployments](https://www.powershellgallery.com/Packages/GitHub.Deployments/0.0.9) | 0.0.9
 
 ### Published: 09/17/2023 17:09:58 by Marius Storhaug
@@ -162,6 +234,14 @@ __Downloads__: 4 | __Repository__: https://github.com/MariusStorhaug/GitHub
 PowerShell Module for GitHub.Deployments
 
 __Downloads__: 577 | __Repository__: https://github.com/MariusStorhaug/GitHub
+
+## [GitHub.DependencyGraph](https://www.powershellgallery.com/Packages/GitHub.DependencyGraph/0.0.2) | 0.0.2
+
+### Published: 09/17/2023 17:09:58 by Marius Storhaug
+
+PowerShell Module for GitHub.DependencyGraph
+
+__Downloads__: 4 | __Repository__: https://github.com/MariusStorhaug/GitHub
 
 ## [GitHub.Users](https://www.powershellgallery.com/Packages/GitHub.Users/0.0.12) | 0.0.12
 
@@ -275,14 +355,6 @@ PowerShell Module for GitHub.Search
 
 __Downloads__: 616 | __Repository__: https://github.com/MariusStorhaug/GitHub
 
-## [GitHub.Billing](https://www.powershellgallery.com/Packages/GitHub.Billing/0.0.12) | 0.0.12
-
-### Published: 09/17/2023 17:09:22 by Marius Storhaug
-
-PowerShell Module for GitHub.Billing
-
-__Downloads__: 621 | __Repository__: https://github.com/MariusStorhaug/GitHub
-
 ## [GitHub.Pulls](https://www.powershellgallery.com/Packages/GitHub.Pulls/0.0.11) | 0.0.11
 
 ### Published: 09/17/2023 17:09:22 by Marius Storhaug
@@ -291,13 +363,13 @@ PowerShell Module for GitHub.Pulls
 
 __Downloads__: 574 | __Repository__: https://github.com/MariusStorhaug/GitHub
 
-## [GitHub.Webhooks](https://www.powershellgallery.com/Packages/GitHub.Webhooks/0.0.9) | 0.0.9
+## [GitHub.Billing](https://www.powershellgallery.com/Packages/GitHub.Billing/0.0.12) | 0.0.12
 
-### Published: 09/17/2023 17:09:21 by Marius Storhaug
+### Published: 09/17/2023 17:09:22 by Marius Storhaug
 
-PowerShell Module for GitHub.Webhooks
+PowerShell Module for GitHub.Billing
 
-__Downloads__: 561 | __Repository__: https://github.com/MariusStorhaug/GitHub
+__Downloads__: 621 | __Repository__: https://github.com/MariusStorhaug/GitHub
 
 ## [GitHub.Issues](https://www.powershellgallery.com/Packages/GitHub.Issues/0.0.12) | 0.0.12
 
@@ -306,6 +378,14 @@ __Downloads__: 561 | __Repository__: https://github.com/MariusStorhaug/GitHub
 PowerShell Module for GitHub.Issues
 
 __Downloads__: 580 | __Repository__: https://github.com/MariusStorhaug/GitHub
+
+## [GitHub.Webhooks](https://www.powershellgallery.com/Packages/GitHub.Webhooks/0.0.9) | 0.0.9
+
+### Published: 09/17/2023 17:09:21 by Marius Storhaug
+
+PowerShell Module for GitHub.Webhooks
+
+__Downloads__: 561 | __Repository__: https://github.com/MariusStorhaug/GitHub
 
 ## [GitHub.Pages](https://www.powershellgallery.com/Packages/GitHub.Pages/0.0.2) | 0.0.2
 
@@ -362,30 +442,6 @@ __Downloads__: 577 | __Repository__: https://github.com/MariusStorhaug/GitHub
 PowerShell Module for GitHub.Commits
 
 __Downloads__: 565 | __Repository__: https://github.com/MariusStorhaug/GitHub
-
-## [PATH](https://www.powershellgallery.com/Packages/PATH/0.0.10) | 0.0.10
-
-### Published: 09/17/2023 17:09:03 by Marius Storhaug
-
-A PowerShell module for managing the PATH environment variable.
-
-__Downloads__: 80 | __Repository__: https://github.com/MariusStorhaug/PATH
-
-## [PublicIP](https://www.powershellgallery.com/Packages/PublicIP/0.0.9) | 0.0.9
-
-### Published: 09/17/2023 17:09:03 by Marius Storhaug
-
-PowerShell Module for Public IP
-
-__Downloads__: 76 | __Repository__: https://github.com/MariusStorhaug/PublicIP
-
-## [Utilities](https://www.powershellgallery.com/Packages/Utilities/0.0.21) | 0.0.21
-
-### Published: 09/17/2023 17:08:31 by Marius Storhaug
-
-PowerShell Module of Utilities
-
-__Downloads__: 692 | __Repository__: https://github.com/MariusStorhaug/Utilities
 
 ## [PSRule.Rules.AzureDevOps](https://www.powershellgallery.com/Packages/PSRule.Rules.AzureDevOps/0.0.5) | 0.0.5
 
@@ -473,14 +529,6 @@ __Downloads__: 1,956,505 | __Repository__: https://stealthpuppy.com/evergreen/
 Auto Set Proxy for Windows PowerShell, WSL and WSA
 
 __Downloads__: 57 | __Repository__: 
-
-## [NerdFonts](https://www.powershellgallery.com/Packages/NerdFonts/0.0.11) | 0.0.11
-
-### Published: 09/17/2023 00:30:42 by Marius Storhaug
-
-A PowerShell module to manage NerdFonts
-
-__Downloads__: 89 | __Repository__: https://github.com/MariusStorhaug/NerdFonts
 
 ## [DSInternals](https://www.powershellgallery.com/Packages/DSInternals/4.10) | 4.10
 
@@ -775,14 +823,6 @@ The test module to verify publishing to PSGallery from AppVeyor.
 
 __Downloads__: 40,069 | __Repository__: 
 
-## [AOVPNTools](https://www.powershellgallery.com/Packages/AOVPNTools/1.7.1) | 1.7.1
-
-### Published: 09/14/2023 22:37:50 by Richard M. Hicks
-
-PowerShell module for configuring and optimizing Windows Server Routing and Remote Access Service (RRAS) for Always On VPN.
-
-__Downloads__: 1,571 | __Repository__: 
-
 ## [LumifyTrainerTools](https://www.powershellgallery.com/Packages/LumifyTrainerTools/2.0.4) | 2.0.4
 
 ### Published: 09/14/2023 21:57:34 by Brent Denny
@@ -790,6 +830,30 @@ __Downloads__: 1,571 | __Repository__:
 This is a set of tools to help Lumify trainers with home based classrooms
 
 __Downloads__: 0 | __Repository__: 
+
+## [tenthirtyam.module.test](https://www.powershellgallery.com/Packages/tenthirtyam.module.test/1.6.0.1000) | 1.6.0.1000
+
+### Published: 09/14/2023 21:04:02 by Ryan Johnson
+
+Test Module
+
+__Downloads__: 0 | __Repository__: 
+
+## [ConvertOfficeSKU](https://www.powershellgallery.com/Packages/ConvertOfficeSKU/0.0.2) | 0.0.2
+
+### Published: 09/14/2023 20:40:32 by Erick Torres do Vale
+
+This module converts Microsoft Office SkuIDs to friendly names based on Microsoft documentation
+
+__Downloads__: 0 | __Repository__: 
+
+## [Get-Version](https://www.powershellgallery.com/Packages/Get-Version/1.0.2) | 1.0.2
+
+### Published: 09/14/2023 17:48:29 by Alexander Sutter
+
+Get the current PS Version Table
+
+__Downloads__: 37 | __Repository__: https://github.com/SutterStudios/Get-Version
 
 ## [DTX.Tools.Installer](https://www.powershellgallery.com/Packages/DTX.Tools.Installer/0.0.27) | 0.0.27
 
@@ -847,14 +911,6 @@ C#/PowerShell interface for PRTG Network Monitor
 
 __Downloads__: 213,536 | __Repository__: https://github.com/lordmilko/PrtgAPI
 
-## [TcPrjMgmt](https://www.powershellgallery.com/Packages/TcPrjMgmt/0.3.1) | 0.3.1
-
-### Published: 09/14/2023 10:20:03 by Giang Nguyen
-
-Utilities for managing TwinCAT solutions and projects. Including PLC project exporting, and library installation and uninstallation. NOTE: This module requires >= TwinCAT 3.1.4024.10 (XAR Runtime or Full) (local installation)
-
-__Downloads__: 15 | __Repository__: https://github.com/ahuca/TcPrjMgmt/tree/main
-
 ## [IntuneResourceLocalization](https://www.powershellgallery.com/Packages/IntuneResourceLocalization/0.1.0) | 0.1.0
 
 ### Published: 09/14/2023 09:43:26 by Inetum Realdolmen
@@ -870,6 +926,14 @@ __Downloads__: 0 | __Repository__:
 PowerShell Module to create Mermaid diagrams.
 
 __Downloads__: 1,766 | __Repository__: https://abbgrade.github.io/PsMermaidTools/
+
+## [AzureDevOpsHousekeeping](https://www.powershellgallery.com/Packages/AzureDevOpsHousekeeping/1.0.0) | 1.0.0
+
+### Published: 09/14/2023 08:55:11 by Aamir Mirza Baig
+
+This module simplifies the housekeeping activities for Azure DevOps compliance and vulnerability management.
+
+__Downloads__: 0 | __Repository__: 
 
 ## [ad-rbac](https://www.powershellgallery.com/Packages/ad-rbac/1.1.1) | 1.1.1
 
@@ -2020,68 +2084,4 @@ This modules provides Cmdlets for OCI Artifacts Service
 
 __Downloads__: 3,334 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-## [OCI.PSModules.Appmgmtcontrol](https://www.powershellgallery.com/Packages/OCI.PSModules.Appmgmtcontrol/67.1.0) | 67.1.0
-
-### Published: 09/12/2023 23:50:08 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Appmgmtcontrol Service
-
-__Downloads__: 2,678 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Applicationmigration](https://www.powershellgallery.com/Packages/OCI.PSModules.Applicationmigration/67.1.0) | 67.1.0
-
-### Published: 09/12/2023 23:49:59 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Applicationmigration Service
-
-__Downloads__: 3,814 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Apmtraces](https://www.powershellgallery.com/Packages/OCI.PSModules.Apmtraces/67.1.0) | 67.1.0
-
-### Published: 09/12/2023 23:49:51 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Apmtraces Service
-
-__Downloads__: 4,443 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Apmsynthetics](https://www.powershellgallery.com/Packages/OCI.PSModules.Apmsynthetics/67.1.0) | 67.1.0
-
-### Published: 09/12/2023 23:49:42 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Apmsynthetics Service
-
-__Downloads__: 3,326 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Apmcontrolplane](https://www.powershellgallery.com/Packages/OCI.PSModules.Apmcontrolplane/67.1.0) | 67.1.0
-
-### Published: 09/12/2023 23:49:34 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Apmcontrolplane Service
-
-__Downloads__: 4,568 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Apmconfig](https://www.powershellgallery.com/Packages/OCI.PSModules.Apmconfig/67.1.0) | 67.1.0
-
-### Published: 09/12/2023 23:49:26 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Apmconfig Service
-
-__Downloads__: 3,225 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Apigateway](https://www.powershellgallery.com/Packages/OCI.PSModules.Apigateway/67.1.0) | 67.1.0
-
-### Published: 09/12/2023 23:49:18 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Apigateway Service
-
-__Downloads__: 3,850 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Announcementsservice](https://www.powershellgallery.com/Packages/OCI.PSModules.Announcementsservice/67.1.0) | 67.1.0
-
-### Published: 09/12/2023 23:49:09 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Announcementsservice Service
-
-__Downloads__: 4,998 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-*Updated: Sunday, 17 September 2023 17:53:41 UTC*
+*Updated: Monday, 18 September 2023 02:03:03 UTC*

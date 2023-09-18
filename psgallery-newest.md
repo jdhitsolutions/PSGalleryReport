@@ -3,13 +3,101 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
-## [tiPS](https://www.powershellgallery.com/Packages/tiPS/0.2.5) | 0.2.5
+## [Test-PowerPing](https://www.powershellgallery.com/Packages/Test-PowerPing/1.0) | 1.0
 
-### Published: 09/17/2023 17:28:57 by Daniel Schroeder
+### Published: 09/18/2023 01:49:30 by Hunter Hirsch
+
+Test-PowerPing sends single pings to IPv4 addresses asynchronously within a given IPv4 address range using PowerShell Runspaces. Can also be used to calculate addresses within a given IPv4 address range using “-AddressOnly” switch and “IPFilter”. Ranges that are consistently used can be saved using “Sites” Parameter Set and can be referenced using “-Site <sitename>” syntax. Each Parameter Set (Address, Targets, Sites) has several control parameters available.
+
+__Downloads__: 0 | __Repository__: 
+
+## [AOVPNTools](https://www.powershellgallery.com/Packages/AOVPNTools/1.7.2) | 1.7.2
+
+### Published: 09/18/2023 00:36:14 by Richard M. Hicks
+
+PowerShell module for configuring and optimizing Windows Server Routing and Remote Access Service (RRAS) for Always On VPN.
+
+__Downloads__: 1,571 | __Repository__: 
+
+## [GitHub](https://www.powershellgallery.com/Packages/GitHub/0.0.26) | 0.0.26
+
+### Published: 09/18/2023 00:24:05 by Marius Storhaug
+
+PowerShell Module for GitHub
+
+__Downloads__: 1,392 | __Repository__: https://github.com/PSModule/GitHub
+
+## [WindowsUtils](https://www.powershellgallery.com/Packages/WindowsUtils/1.9.0) | 1.9.0
+
+### Published: 09/18/2023 00:17:21 by Francisco Nabas
+
+This module contain tools to facilitate the administration of Windows computers.
+
+__Downloads__: 340 | __Repository__: https://github.com/FranciscoNabas/WindowsUtils
+
+## [Fonts](https://www.powershellgallery.com/Packages/Fonts/0.0.25) | 0.0.25
+
+### Published: 09/17/2023 20:47:39 by Marius Storhaug
+
+Manage fonts on a Windows system
+
+__Downloads__: 182 | __Repository__: https://github.com/MariusStorhaug/Fonts
+
+## [PsComplete](https://www.powershellgallery.com/Packages/PsComplete/0.0.21) | 0.0.21
+
+### Published: 09/17/2023 20:43:58 by ieviev
+
+Cross-platform custom powershell autocomplete / tab expansion
+
+__Downloads__: 299 | __Repository__: https://github.com/ieviev/pscomplete/
+
+## [tiPS](https://www.powershellgallery.com/Packages/tiPS/0.3.0) | 0.3.0
+
+### Published: 09/17/2023 19:26:37 by Daniel Schroeder
 
 PowerShell tips delivered straight to your terminal.
 
 __Downloads__: 345 | __Repository__: https://github.com/deadlydog/PowerShell.tiPS
+
+## [NerdFonts](https://www.powershellgallery.com/Packages/NerdFonts/0.0.13) | 0.0.13
+
+### Published: 09/17/2023 19:23:53 by Marius Storhaug
+
+A PowerShell module to manage NerdFonts
+
+__Downloads__: 89 | __Repository__: https://github.com/MariusStorhaug/NerdFonts
+
+## [PATH](https://www.powershellgallery.com/Packages/PATH/0.0.12) | 0.0.12
+
+### Published: 09/17/2023 19:23:40 by Marius Storhaug
+
+A PowerShell module for managing the PATH environment variable.
+
+__Downloads__: 80 | __Repository__: https://github.com/MariusStorhaug/PATH
+
+## [PublicIP](https://www.powershellgallery.com/Packages/PublicIP/0.0.10) | 0.0.10
+
+### Published: 09/17/2023 19:09:07 by Marius Storhaug
+
+PowerShell Module for Public IP
+
+__Downloads__: 76 | __Repository__: https://github.com/MariusStorhaug/PublicIP
+
+## [PowerArubaCX](https://www.powershellgallery.com/Packages/PowerArubaCX/0.6.0) | 0.6.0
+
+### Published: 09/17/2023 19:04:07 by Alexis La Goutte
+
+PowerShell module to query the ArubaCX Switch API
+
+__Downloads__: 844 | __Repository__: https://github.com/PowerAruba/PowerArubaCX
+
+## [Utilities](https://www.powershellgallery.com/Packages/Utilities/0.0.24) | 0.0.24
+
+### Published: 09/17/2023 18:55:56 by Marius Storhaug
+
+PowerShell Module of Utilities
+
+__Downloads__: 692 | __Repository__: https://github.com/MariusStorhaug/Utilities
 
 ## [DattoAPI](https://www.powershellgallery.com/Packages/DattoAPI/2.1.0) | 2.1.0
 
@@ -91,14 +179,6 @@ PowerShell Module for GitHub.Migrations
 
 __Downloads__: 578 | __Repository__: https://github.com/MariusStorhaug/GitHub
 
-## [GitHub.Teams](https://www.powershellgallery.com/Packages/GitHub.Teams/0.0.12) | 0.0.12
-
-### Published: 09/17/2023 17:10:10 by Marius Storhaug
-
-PowerShell Module for GitHub.Teams
-
-__Downloads__: 563 | __Repository__: https://github.com/MariusStorhaug/GitHub
-
 ## [GitHub.Activity](https://www.powershellgallery.com/Packages/GitHub.Activity/0.0.12) | 0.0.12
 
 ### Published: 09/17/2023 17:10:10 by Marius Storhaug
@@ -107,13 +187,13 @@ PowerShell Module for GitHub.Activity
 
 __Downloads__: 762 | __Repository__: https://github.com/MariusStorhaug/GitHub
 
-## [Fonts](https://www.powershellgallery.com/Packages/Fonts/0.0.22) | 0.0.22
+## [GitHub.Teams](https://www.powershellgallery.com/Packages/GitHub.Teams/0.0.12) | 0.0.12
 
-### Published: 09/17/2023 17:10:09 by Marius Storhaug
+### Published: 09/17/2023 17:10:10 by Marius Storhaug
 
-Manage fonts on a Windows system
+PowerShell Module for GitHub.Teams
 
-__Downloads__: 182 | __Repository__: https://github.com/MariusStorhaug/Fonts
+__Downloads__: 563 | __Repository__: https://github.com/MariusStorhaug/GitHub
 
 ## [GitHub.Codespaces](https://www.powershellgallery.com/Packages/GitHub.Codespaces/0.0.12) | 0.0.12
 
@@ -147,14 +227,6 @@ PowerShell Module for GitHub.Branches
 
 __Downloads__: 574 | __Repository__: https://github.com/MariusStorhaug/GitHub
 
-## [GitHub.Deployments](https://www.powershellgallery.com/Packages/GitHub.Deployments/0.0.9) | 0.0.9
-
-### Published: 09/17/2023 17:09:58 by Marius Storhaug
-
-PowerShell Module for GitHub.Deployments
-
-__Downloads__: 577 | __Repository__: https://github.com/MariusStorhaug/GitHub
-
 ## [GitHub.DependencyGraph](https://www.powershellgallery.com/Packages/GitHub.DependencyGraph/0.0.2) | 0.0.2
 
 ### Published: 09/17/2023 17:09:58 by Marius Storhaug
@@ -162,6 +234,14 @@ __Downloads__: 577 | __Repository__: https://github.com/MariusStorhaug/GitHub
 PowerShell Module for GitHub.DependencyGraph
 
 __Downloads__: 4 | __Repository__: https://github.com/MariusStorhaug/GitHub
+
+## [GitHub.Deployments](https://www.powershellgallery.com/Packages/GitHub.Deployments/0.0.9) | 0.0.9
+
+### Published: 09/17/2023 17:09:58 by Marius Storhaug
+
+PowerShell Module for GitHub.Deployments
+
+__Downloads__: 577 | __Repository__: https://github.com/MariusStorhaug/GitHub
 
 ## [GitHub.Users](https://www.powershellgallery.com/Packages/GitHub.Users/0.0.12) | 0.0.12
 
@@ -219,14 +299,6 @@ PowerShell Module for GitHub.GitIgnore
 
 __Downloads__: 626 | __Repository__: https://github.com/MariusStorhaug/GitHub
 
-## [GitHub.Meta](https://www.powershellgallery.com/Packages/GitHub.Meta/0.0.11) | 0.0.11
-
-### Published: 09/17/2023 17:09:34 by Marius Storhaug
-
-PowerShell Module for GitHub.Meta
-
-__Downloads__: 668 | __Repository__: https://github.com/MariusStorhaug/GitHub
-
 ## [GitHub.Organizations](https://www.powershellgallery.com/Packages/GitHub.Organizations/0.0.3) | 0.0.3
 
 ### Published: 09/17/2023 17:09:34 by Marius Storhaug
@@ -234,6 +306,14 @@ __Downloads__: 668 | __Repository__: https://github.com/MariusStorhaug/GitHub
 PowerShell Module for GitHub.Organizations
 
 __Downloads__: 25 | __Repository__: 
+
+## [GitHub.Meta](https://www.powershellgallery.com/Packages/GitHub.Meta/0.0.11) | 0.0.11
+
+### Published: 09/17/2023 17:09:34 by Marius Storhaug
+
+PowerShell Module for GitHub.Meta
+
+__Downloads__: 668 | __Repository__: https://github.com/MariusStorhaug/GitHub
 
 ## [GitHub.Interactions](https://www.powershellgallery.com/Packages/GitHub.Interactions/0.0.12) | 0.0.12
 
@@ -275,14 +355,6 @@ PowerShell Module for GitHub.Search
 
 __Downloads__: 616 | __Repository__: https://github.com/MariusStorhaug/GitHub
 
-## [GitHub.Pulls](https://www.powershellgallery.com/Packages/GitHub.Pulls/0.0.11) | 0.0.11
-
-### Published: 09/17/2023 17:09:22 by Marius Storhaug
-
-PowerShell Module for GitHub.Pulls
-
-__Downloads__: 574 | __Repository__: https://github.com/MariusStorhaug/GitHub
-
 ## [GitHub.Billing](https://www.powershellgallery.com/Packages/GitHub.Billing/0.0.12) | 0.0.12
 
 ### Published: 09/17/2023 17:09:22 by Marius Storhaug
@@ -291,13 +363,13 @@ PowerShell Module for GitHub.Billing
 
 __Downloads__: 621 | __Repository__: https://github.com/MariusStorhaug/GitHub
 
-## [GitHub.Webhooks](https://www.powershellgallery.com/Packages/GitHub.Webhooks/0.0.9) | 0.0.9
+## [GitHub.Pulls](https://www.powershellgallery.com/Packages/GitHub.Pulls/0.0.11) | 0.0.11
 
-### Published: 09/17/2023 17:09:21 by Marius Storhaug
+### Published: 09/17/2023 17:09:22 by Marius Storhaug
 
-PowerShell Module for GitHub.Webhooks
+PowerShell Module for GitHub.Pulls
 
-__Downloads__: 561 | __Repository__: https://github.com/MariusStorhaug/GitHub
+__Downloads__: 574 | __Repository__: https://github.com/MariusStorhaug/GitHub
 
 ## [GitHub.Issues](https://www.powershellgallery.com/Packages/GitHub.Issues/0.0.12) | 0.0.12
 
@@ -306,6 +378,14 @@ __Downloads__: 561 | __Repository__: https://github.com/MariusStorhaug/GitHub
 PowerShell Module for GitHub.Issues
 
 __Downloads__: 580 | __Repository__: https://github.com/MariusStorhaug/GitHub
+
+## [GitHub.Webhooks](https://www.powershellgallery.com/Packages/GitHub.Webhooks/0.0.9) | 0.0.9
+
+### Published: 09/17/2023 17:09:21 by Marius Storhaug
+
+PowerShell Module for GitHub.Webhooks
+
+__Downloads__: 561 | __Repository__: https://github.com/MariusStorhaug/GitHub
 
 ## [GitHub.Pages](https://www.powershellgallery.com/Packages/GitHub.Pages/0.0.2) | 0.0.2
 
@@ -362,30 +442,6 @@ __Downloads__: 577 | __Repository__: https://github.com/MariusStorhaug/GitHub
 PowerShell Module for GitHub.Commits
 
 __Downloads__: 565 | __Repository__: https://github.com/MariusStorhaug/GitHub
-
-## [PublicIP](https://www.powershellgallery.com/Packages/PublicIP/0.0.9) | 0.0.9
-
-### Published: 09/17/2023 17:09:03 by Marius Storhaug
-
-PowerShell Module for Public IP
-
-__Downloads__: 76 | __Repository__: https://github.com/MariusStorhaug/PublicIP
-
-## [PATH](https://www.powershellgallery.com/Packages/PATH/0.0.10) | 0.0.10
-
-### Published: 09/17/2023 17:09:03 by Marius Storhaug
-
-A PowerShell module for managing the PATH environment variable.
-
-__Downloads__: 80 | __Repository__: https://github.com/MariusStorhaug/PATH
-
-## [Utilities](https://www.powershellgallery.com/Packages/Utilities/0.0.21) | 0.0.21
-
-### Published: 09/17/2023 17:08:31 by Marius Storhaug
-
-PowerShell Module of Utilities
-
-__Downloads__: 692 | __Repository__: https://github.com/MariusStorhaug/Utilities
 
 ## [PSRule.Rules.AzureDevOps](https://www.powershellgallery.com/Packages/PSRule.Rules.AzureDevOps/0.0.5) | 0.0.5
 
@@ -473,14 +529,6 @@ __Downloads__: 1,956,505 | __Repository__: https://stealthpuppy.com/evergreen/
 Auto Set Proxy for Windows PowerShell, WSL and WSA
 
 __Downloads__: 57 | __Repository__: 
-
-## [NerdFonts](https://www.powershellgallery.com/Packages/NerdFonts/0.0.11) | 0.0.11
-
-### Published: 09/17/2023 00:30:42 by Marius Storhaug
-
-A PowerShell module to manage NerdFonts
-
-__Downloads__: 89 | __Repository__: https://github.com/MariusStorhaug/NerdFonts
 
 ## [DSInternals](https://www.powershellgallery.com/Packages/DSInternals/4.10) | 4.10
 
@@ -2325,64 +2373,4 @@ This version of AWS Tools for PowerShell is compatible with Windows PowerShell 5
 
 __Downloads__: 7,767 | __Repository__: https://github.com/aws/aws-tools-for-powershell
 
-## [AWS.Tools.IoTSecureTunneling](https://www.powershellgallery.com/Packages/AWS.Tools.IoTSecureTunneling/4.1.416) | 4.1.416
-
-### Published: 09/15/2023 23:29:14 by Amazon.com Inc
-
-The IoTSecureTunneling module of AWS Tools for PowerShell lets developers and administrators manage AWS IoT Secure Tunneling from the PowerShell scripting environment. In order to manage each AWS service, install the corresponding module (e.g. AWS.Tools.EC2, AWS.Tools.S3...).
-The module AWS.Tools.Installer (https://www.powershellgallery.com/packages/AWS.Tools.Installer/) makes it easier to install, update and uninstall the AWS.Tools modules.
-This version of AWS Tools for PowerShell is compatible with Windows PowerShell 5.1+ and PowerShell Core 6+ on Windows, Linux and macOS. When running on Windows PowerShell, .NET Framework 4.7.2 or newer is required. Alternative modules AWSPowerShell.NetCore and AWSPowerShell, provide support for all AWS services from a single module and also support older versions of Windows PowerShell and .NET Framework.
-
-__Downloads__: 7,498 | __Repository__: https://github.com/aws/aws-tools-for-powershell
-
-## [AWS.Tools.IoTRoboRunner](https://www.powershellgallery.com/Packages/AWS.Tools.IoTRoboRunner/4.1.416) | 4.1.416
-
-### Published: 09/15/2023 23:29:09 by Amazon.com Inc
-
-The IoTRoboRunner module of AWS Tools for PowerShell lets developers and administrators manage AWS IoT RoboRunner from the PowerShell scripting environment. In order to manage each AWS service, install the corresponding module (e.g. AWS.Tools.EC2, AWS.Tools.S3...).
-The module AWS.Tools.Installer (https://www.powershellgallery.com/packages/AWS.Tools.Installer/) makes it easier to install, update and uninstall the AWS.Tools modules.
-This version of AWS Tools for PowerShell is compatible with Windows PowerShell 5.1+ and PowerShell Core 6+ on Windows, Linux and macOS. When running on Windows PowerShell, .NET Framework 4.7.2 or newer is required. Alternative modules AWSPowerShell.NetCore and AWSPowerShell, provide support for all AWS services from a single module and also support older versions of Windows PowerShell and .NET Framework.
-
-__Downloads__: 2,158 | __Repository__: https://github.com/aws/aws-tools-for-powershell
-
-## [AWS.Tools.IoTJobsDataPlane](https://www.powershellgallery.com/Packages/AWS.Tools.IoTJobsDataPlane/4.1.416) | 4.1.416
-
-### Published: 09/15/2023 23:29:04 by Amazon.com Inc
-
-The IoTJobsDataPlane module of AWS Tools for PowerShell lets developers and administrators manage AWS IoT Jobs Data Plane from the PowerShell scripting environment. In order to manage each AWS service, install the corresponding module (e.g. AWS.Tools.EC2, AWS.Tools.S3...).
-The module AWS.Tools.Installer (https://www.powershellgallery.com/packages/AWS.Tools.Installer/) makes it easier to install, update and uninstall the AWS.Tools modules.
-This version of AWS Tools for PowerShell is compatible with Windows PowerShell 5.1+ and PowerShell Core 6+ on Windows, Linux and macOS. When running on Windows PowerShell, .NET Framework 4.7.2 or newer is required. Alternative modules AWSPowerShell.NetCore and AWSPowerShell, provide support for all AWS services from a single module and also support older versions of Windows PowerShell and .NET Framework.
-
-__Downloads__: 11,061 | __Repository__: https://github.com/aws/aws-tools-for-powershell
-
-## [AWS.Tools.IoTFleetWise](https://www.powershellgallery.com/Packages/AWS.Tools.IoTFleetWise/4.1.416) | 4.1.416
-
-### Published: 09/15/2023 23:28:59 by Amazon.com Inc
-
-The IoTFleetWise module of AWS Tools for PowerShell lets developers and administrators manage AWS IoT FleetWise from the PowerShell scripting environment. In order to manage each AWS service, install the corresponding module (e.g. AWS.Tools.EC2, AWS.Tools.S3...).
-The module AWS.Tools.Installer (https://www.powershellgallery.com/packages/AWS.Tools.Installer/) makes it easier to install, update and uninstall the AWS.Tools modules.
-This version of AWS Tools for PowerShell is compatible with Windows PowerShell 5.1+ and PowerShell Core 6+ on Windows, Linux and macOS. When running on Windows PowerShell, .NET Framework 4.7.2 or newer is required. Alternative modules AWSPowerShell.NetCore and AWSPowerShell, provide support for all AWS services from a single module and also support older versions of Windows PowerShell and .NET Framework.
-
-__Downloads__: 2,692 | __Repository__: https://github.com/aws/aws-tools-for-powershell
-
-## [AWS.Tools.IoTFleetHub](https://www.powershellgallery.com/Packages/AWS.Tools.IoTFleetHub/4.1.416) | 4.1.416
-
-### Published: 09/15/2023 23:28:53 by Amazon.com Inc
-
-The IoTFleetHub module of AWS Tools for PowerShell lets developers and administrators manage AWS IoT Fleet Hub from the PowerShell scripting environment. In order to manage each AWS service, install the corresponding module (e.g. AWS.Tools.EC2, AWS.Tools.S3...).
-The module AWS.Tools.Installer (https://www.powershellgallery.com/packages/AWS.Tools.Installer/) makes it easier to install, update and uninstall the AWS.Tools modules.
-This version of AWS Tools for PowerShell is compatible with Windows PowerShell 5.1+ and PowerShell Core 6+ on Windows, Linux and macOS. When running on Windows PowerShell, .NET Framework 4.7.2 or newer is required. Alternative modules AWSPowerShell.NetCore and AWSPowerShell, provide support for all AWS services from a single module and also support older versions of Windows PowerShell and .NET Framework.
-
-__Downloads__: 8,819 | __Repository__: https://github.com/aws/aws-tools-for-powershell
-
-## [AWS.Tools.IoTEventsData](https://www.powershellgallery.com/Packages/AWS.Tools.IoTEventsData/4.1.416) | 4.1.416
-
-### Published: 09/15/2023 23:28:48 by Amazon.com Inc
-
-The IoTEventsData module of AWS Tools for PowerShell lets developers and administrators manage AWS IoT Events Data from the PowerShell scripting environment. In order to manage each AWS service, install the corresponding module (e.g. AWS.Tools.EC2, AWS.Tools.S3...).
-The module AWS.Tools.Installer (https://www.powershellgallery.com/packages/AWS.Tools.Installer/) makes it easier to install, update and uninstall the AWS.Tools modules.
-This version of AWS Tools for PowerShell is compatible with Windows PowerShell 5.1+ and PowerShell Core 6+ on Windows, Linux and macOS. When running on Windows PowerShell, .NET Framework 4.7.2 or newer is required. Alternative modules AWSPowerShell.NetCore and AWSPowerShell, provide support for all AWS services from a single module and also support older versions of Windows PowerShell and .NET Framework.
-
-__Downloads__: 8,490 | __Repository__: https://github.com/aws/aws-tools-for-powershell
-
-*Updated: Sunday, 17 September 2023 17:53:38 UTC*
+*Updated: Monday, 18 September 2023 02:03:00 UTC*

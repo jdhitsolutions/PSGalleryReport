@@ -2229,4 +2229,4 @@ This module contains DSC resources for the management and configuration of Windo
 
 __Downloads__: 3,353,514 | __Repository__: https://github.com/dsccommunity/xDnsServer
 
-*Updated: Sunday, 17 September 2023 17:53:48 UTC*
+*Updated: Monday, 18 September 2023 02:03:10 UTC*
