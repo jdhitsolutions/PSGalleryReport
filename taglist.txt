@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 18 September 2023 02:03:18 UTC
+Updated: Monday, 18 September 2023 09:54:03 UTC
 
 .bat
 .env
@@ -112,7 +112,6 @@ active
 active_directory
 active-directory
 active-plug
-activecampaign
 activedirectory
 activedirectory_over_html
 activedirectoryauthenticationlibrary
@@ -176,6 +175,7 @@ admf
 admin
 admin-tools
 adminbyrequest
+admindirectory
 administration
 administrative
 administrativeunit
@@ -408,7 +408,6 @@ apt
 apt-get
 apt-get-update
 apteco
-aptitude
 aql
 arangodb
 arc
@@ -845,6 +844,7 @@ botservice
 bouncer
 boundaries
 boundarygroups
+bounty
 box
 bpmn
 brainy
@@ -879,6 +879,7 @@ bson
 btdf
 btm
 budget
+bugbounty
 bugzilla
 build
 build-log
@@ -926,6 +927,7 @@ calc
 calculate
 calculator
 calendar
+callingcode
 callqueue
 calvin-and-hobbes
 cam
@@ -1112,8 +1114,10 @@ classified
 clccontrol
 clccontrolapiv1
 clccontrolapiv2
+clean-up
 cleanmgr
 cleanup
+cleanup-orphans
 clear
 clear-history
 clearpass
@@ -1298,6 +1302,7 @@ compliant
 component
 composer
 composite
+compoundproperty
 compress
 compression
 compute
@@ -1408,7 +1413,6 @@ converttohtml
 converttomarkdown
 converttomd
 cookie
-coolq
 cooltag1
 cooltag2
 coordinates
@@ -1441,6 +1445,8 @@ count-loc
 countdown
 counter
 countries
+country
+countrycode
 cover
 coverage
 coveralls
@@ -1452,10 +1458,8 @@ cppm
 cpu
 cpuid
 cpuid-information
-cq
 cqd
 cqdpowershell
-cqhttp
 crack psmodule
 crash
 crayon
@@ -1727,6 +1731,7 @@ deflate
 delegated
 delegationmodel
 delete
+delete-orphan-branches
 deleteuserprofile
 delivery
 dell
@@ -2120,7 +2125,6 @@ emailmanagment
 emailnotification
 emailnotificationcomponent
 emailsecurity
-embedded
 emc
 emcomm
 emergency
@@ -2186,6 +2190,7 @@ epicor
 episode
 epplus
 eprosima
+epub
 epv
 equality
 erb
@@ -2205,11 +2210,6 @@ escaping
 ese
 esent
 esoteric
-esp
-esp-idf
-esp32
-esp32s2
-espressif
 esri
 essbase
 estimate
@@ -2546,6 +2546,7 @@ fortune
 forum
 forwardcompatibility
 forwardedevents
+foudil
 fox
 foxpro
 fqdn
@@ -2648,7 +2649,6 @@ geocache
 geocaching
 geoencode
 geoencoding
-geoip
 geolocation
 geosearching
 geotagging
@@ -3092,7 +3092,6 @@ identitydataplane
 identitydirector
 identitydomains
 identitynow
-idf
 idm
 idna
 ids
@@ -3130,6 +3129,7 @@ imageoftheday
 imageprocess
 imageprocessing
 images
+imageservicing
 imageslide
 imagevalidate
 imagevalidation
@@ -3149,7 +3149,6 @@ import-dtdriverpackpackagedefinitionsms
 import-modulefrompath
 import-passlist
 import-sampackagedefinitionsms
-importer
 importexport
 importteams
 inactive
@@ -3157,7 +3156,6 @@ inboxrule
 incident
 incident-response
 incidentresponse
-incontact
 indents
 index
 indexdb
@@ -3335,6 +3333,9 @@ it-tool
 it-tools
 italic-text
 item
+itemlist
+itemobject
+itemstack
 iterate
 iteration
 itg
@@ -3428,7 +3429,7 @@ kb
 kbarticle
 kdbx
 kdialog
-keepachangelog
+keenetic
 keepass
 keepasslib
 keeper
@@ -4403,6 +4404,7 @@ officegraph
 officemessageencryption
 officertool
 offline
+offlinewimservicing
 ofx
 ogg
 oh-my-posh
@@ -4491,7 +4493,6 @@ operationsmanagementsuite
 operationsmanagementsuiteagent
 operationvalidation
 operatoraccesscontrol
-opml
 ops
 opsi
 opsmgr
@@ -4526,6 +4527,7 @@ osdcloud
 osddriver
 osddrivers
 osdeploy
+osdeployment
 osdprogress
 osdsus
 osdupdate
@@ -4554,7 +4556,6 @@ out-gridview
 out-json
 outerjoin
 outertext
-outline
 outlook
 output
 output-to-image
@@ -4662,6 +4663,7 @@ pax8
 payload
 paylocity
 paypal
+pays
 pbench
 pc
 pcapng
@@ -4711,6 +4713,7 @@ pgp
 phabricator
 philips
 philosophical
+philpritchett
 phishing
 phoenix
 phoneautomation
@@ -4740,7 +4743,6 @@ pipe
 pipedrive
 pipeline
 pipelines
-pipenv
 pipescript
 piraeus
 pivot
@@ -4855,10 +4857,8 @@ poshy-sh-isms
 poshy-sshconfig
 poshy-viewer-finder
 poshy-wrap
-poshy-wrap-apt
 poshy-wrap-argcomplete
 poshy-wrap-brew
-poshy-wrap-curl
 poshy-wrap-dnf
 poshy-wrap-docker
 poshy-wrap-docker-compose
@@ -4877,7 +4877,6 @@ poshy-wrap-nginx
 poshy-wrap-nmap
 poshy-wrap-npm
 poshy-wrap-pip
-poshy-wrap-pipenv
 poshy-wrap-pyenv
 poshy-wrap-pylint
 poshy-wrap-python
@@ -5103,7 +5102,6 @@ prtgnetworkmonitor
 ps
 ps-ncentral
 ps.credentialmanager
-ps1
 ps1xml
 ps1xmlgen
 ps2dll
@@ -5147,10 +5145,6 @@ pscommand_6
 pscommand_7
 pscommand_8
 pscommand_9
-pscommand_aar
-pscommand_acp
-pscommand_acse
-pscommand_acsp
 pscommand_add_ssh
 pscommand_add-envpathitem
 pscommand_add-envvarpathitem
@@ -5164,16 +5158,7 @@ pscommand_add-gittrackedfiles
 pscommand_add-gittrackedfilesall
 pscommand_add-gittrackedfilesinteractively
 pscommand_add-gittrackedfilesverbosely
-pscommand_afs
-pscommand_age
-pscommand_agli
-pscommand_aglu
-pscommand_allpkgs
-pscommand_app
-pscommand_apt-history
-pscommand_apt-list-packages
 pscommand_arch
-pscommand_asrc
 pscommand_basename
 pscommand_bcubc
 pscommand_bcubo
@@ -5210,12 +5195,6 @@ pscommand_cd-
 pscommand_cd..
 pscommand_cd+
 pscommand_cdgr
-pscommand_cl
-pscommand_clb
-pscommand_clhead
-pscommand_clo
-pscommand_cloc
-pscommand_clocr
 pscommand_confirm-gitbisectcommitbad
 pscommand_confirm-gitbisectcommitgood
 pscommand_convertto-rgb
@@ -5546,7 +5525,6 @@ pscommand_geli
 pscommand_geo
 pscommand_geoe
 pscommand_get
-pscommand_get-aptinstalledpackages
 pscommand_get-childitemcolorfully
 pscommand_get-childitemcolorfullycramped
 pscommand_get-childitemcolorfullyrevealingly
@@ -5839,14 +5817,6 @@ pscommand_hin
 pscommand_hostname
 pscommand_hse
 pscommand_hup
-pscommand_invoke-aptcachepolicy
-pscommand_invoke-aptcachesearch
-pscommand_invoke-aptcacheshowpkg
-pscommand_invoke-aptfilesearchbyregex
-pscommand_invoke-aptgetsource
-pscommand_invoke-aptlistinstalled
-pscommand_invoke-aptlistupgradable
-pscommand_invoke-aptpreferred
 pscommand_invoke-brewlistpinned
 pscommand_invoke-brewpin
 pscommand_invoke-brewuninstallzap
@@ -5858,12 +5828,6 @@ pscommand_invoke-brewupgradeandcleanup
 pscommand_invoke-brewupgradecaskandcleanup
 pscommand_invoke-brewupgradeformula
 pscommand_invoke-brewupgradegreedyandcleanup
-pscommand_invoke-curlfollowingredirects
-pscommand_invoke-curlfollowingredirectsdownloadasnamed
-pscommand_invoke-curlfollowingredirectsdownloadasnamedcontinue
-pscommand_invoke-curlfollowingredirectsdownloadasnamedcontinueandretry
-pscommand_invoke-curlfollowingredirectsfetchbanner
-pscommand_invoke-curlonlyforgetresponseheaders
 pscommand_invoke-dnfcleanall
 pscommand_invoke-dnfgrouplist
 pscommand_invoke-dnfgrouppinstall
@@ -6135,21 +6099,6 @@ pscommand_invoke-npmstart
 pscommand_invoke-npmtest
 pscommand_invoke-npmupdate
 pscommand_invoke-npmversion
-pscommand_invoke-pipenvcheck
-pscommand_invoke-pipenvclean
-pscommand_invoke-pipenvgraph
-pscommand_invoke-pipenvinstall
-pscommand_invoke-pipenvinstalldev
-pscommand_invoke-pipenvlock
-pscommand_invoke-pipenvopen
-pscommand_invoke-pipenvpy
-pscommand_invoke-pipenvrun
-pscommand_invoke-pipenvshell
-pscommand_invoke-pipenvsync
-pscommand_invoke-pipenvuninstall
-pscommand_invoke-pipenvupdate
-pscommand_invoke-pipenvvenv
-pscommand_invoke-pipenvwhere
 pscommand_invoke-pyenv
 pscommand_invoke-pylintreportsdisabled
 pscommand_invoke-ruby
@@ -6453,7 +6402,6 @@ pscommand_keno
 pscommand_kens
 pscommand_kep
 pscommand_kepvc
-pscommand_kerndeb
 pscommand_kers
 pscommand_kes
 pscommand_kess
@@ -6591,12 +6539,7 @@ pscommand_npmt
 pscommand_npmu
 pscommand_npmv
 pscommand_open_command
-pscommand_pch
-pscommand_pcl
 pscommand_peek
-pscommand_pgr
-pscommand_pi
-pscommand_pidev
 pscommand_ping
 pscommand_pip
 pscommand_pip_package_location
@@ -6614,15 +6557,8 @@ pscommand_pipu
 pscommand_pipun
 pscommand_pipunall
 pscommand_pipupall
-pscommand_pl
-pscommand_po
 pscommand_pop-gitstashentry
-pscommand_ppy
 pscommand_proxy-help
-pscommand_prun
-pscommand_psh
-pscommand_psy
-pscommand_pu
 pscommand_publish-gitcommitsforcefullywithlease
 pscommand_publish-gitcommitssettingupstream
 pscommand_publish-gitcommitssettingupstreamtoorigin
@@ -6631,13 +6567,10 @@ pscommand_publish-gitcommitstooriginfromhead
 pscommand_publish-gitcommitstooriginmain
 pscommand_publish-gitcommitswithtags
 pscommand_publish-gitrepositorytosvn
-pscommand_pupd
 pscommand_push-gitstashentry
 pscommand_push-gitstashentrywithmessage
 pscommand_push-locationgitroot
 pscommand_pushgr
-pscommand_pvenv
-pscommand_pwh
 pscommand_pwshrc-show-proxy
 pscommand_py
 pscommand_pyenv
@@ -6962,6 +6895,7 @@ pses
 psexcel
 psexec
 psexec.exe
+psexpandline
 psfciv
 psfitbit
 psfive9
@@ -6972,7 +6906,6 @@ psfunction__pip3_package_location
 psfunction__python3
 psfunction__syspip3
 psfunction__syspip3_package_location
-psfunction_aar
 psfunction_add_ssh
 psfunction_add-envpathitem
 psfunction_add-envvarpathitem
@@ -6986,8 +6919,6 @@ psfunction_add-gittrackedfiles
 psfunction_add-gittrackedfilesall
 psfunction_add-gittrackedfilesinteractively
 psfunction_add-gittrackedfilesverbosely
-psfunction_apt-history
-psfunction_apt-list-packages
 psfunction_arch
 psfunction_basename
 psfunction_bgblack
@@ -7151,7 +7082,6 @@ psfunction_format-gitrepository
 psfunction_format-lesstermcapenv
 psfunction_format-viewerinvocationsh
 psfunction_gdv
-psfunction_get-aptinstalledpackages
 psfunction_get-childitemcolorfully
 psfunction_get-childitemcolorfullycramped
 psfunction_get-childitemcolorfullyrevealingly
@@ -7253,14 +7183,6 @@ psfunction_gitignore-reload
 psfunction_gittowork
 psfunction_gplfs
 psfunction_hostname
-psfunction_invoke-aptcachepolicy
-psfunction_invoke-aptcachesearch
-psfunction_invoke-aptcacheshowpkg
-psfunction_invoke-aptfilesearchbyregex
-psfunction_invoke-aptgetsource
-psfunction_invoke-aptlistinstalled
-psfunction_invoke-aptlistupgradable
-psfunction_invoke-aptpreferred
 psfunction_invoke-brewlistpinned
 psfunction_invoke-brewpin
 psfunction_invoke-brewuninstallzap
@@ -7272,12 +7194,6 @@ psfunction_invoke-brewupgradeandcleanup
 psfunction_invoke-brewupgradecaskandcleanup
 psfunction_invoke-brewupgradeformula
 psfunction_invoke-brewupgradegreedyandcleanup
-psfunction_invoke-curlfollowingredirects
-psfunction_invoke-curlfollowingredirectsdownloadasnamed
-psfunction_invoke-curlfollowingredirectsdownloadasnamedcontinue
-psfunction_invoke-curlfollowingredirectsdownloadasnamedcontinueandretry
-psfunction_invoke-curlfollowingredirectsfetchbanner
-psfunction_invoke-curlonlyforgetresponseheaders
 psfunction_invoke-dnfcleanall
 psfunction_invoke-dnfgrouplist
 psfunction_invoke-dnfgrouppinstall
@@ -7549,21 +7465,6 @@ psfunction_invoke-npmstart
 psfunction_invoke-npmtest
 psfunction_invoke-npmupdate
 psfunction_invoke-npmversion
-psfunction_invoke-pipenvcheck
-psfunction_invoke-pipenvclean
-psfunction_invoke-pipenvgraph
-psfunction_invoke-pipenvinstall
-psfunction_invoke-pipenvinstalldev
-psfunction_invoke-pipenvlock
-psfunction_invoke-pipenvopen
-psfunction_invoke-pipenvpy
-psfunction_invoke-pipenvrun
-psfunction_invoke-pipenvshell
-psfunction_invoke-pipenvsync
-psfunction_invoke-pipenvuninstall
-psfunction_invoke-pipenvupdate
-psfunction_invoke-pipenvvenv
-psfunction_invoke-pipenvwhere
 psfunction_invoke-pyenv
 psfunction_invoke-pylintreportsdisabled
 psfunction_invoke-ruby
@@ -7803,7 +7704,6 @@ psfunction_invoke-zypperversioncompare
 psfunction_invoke-zypperwhatprovides
 psfunction_invokeyumgrouplist
 psfunction_jump
-psfunction_kerndeb
 psfunction_kres
 psfunction_local-ignore
 psfunction_measure-envvarchanges
@@ -8166,7 +8066,6 @@ qlogicfcpowerkit
 qlogicfcprovider
 qna
 qol
-qq
 qr
 qrcode
 qrcodes
@@ -8174,6 +8073,7 @@ qrp
 qrs
 quality
 qualys
+quandl
 quantum
 quarantine
 queries
@@ -8182,6 +8082,7 @@ queue
 queues
 queuing
 quickaccess
+quickbase
 quickbooks
 quicksetup
 quiz
@@ -8251,6 +8152,7 @@ react-stockcharts
 read
 read-slog
 readable
+reader
 readiness
 readme
 readpdf
@@ -8455,6 +8357,7 @@ rfc4266
 rfc4291
 rfc5952
 rfc826
+rfc9116
 rg
 rgb
 rhapsody
@@ -8721,6 +8624,8 @@ security
 security-awareness-training
 security-policy
 security-score
+security-txt
+security.txt
 securityassertionmarkuplanguage
 securitycenter
 securitycompliancecenter
@@ -8731,6 +8636,7 @@ securityoptions
 securitypolicydsc
 securityroles
 securityscopes
+securitytxt
 sed
 seed
 seek
@@ -8927,7 +8833,6 @@ simplivity
 simplysql
 sin
 single
-singlestore
 singleton
 sinks
 sintez
@@ -9097,7 +9002,6 @@ spellcheck
 spelling
 spf
 spi
-spicetify
 spinnaker
 splash
 splat
@@ -9242,6 +9146,7 @@ stockcharts
 stocks
 stoicism
 stoics
+stop
 storablecolortheme
 storage
 storageaccount
@@ -9442,6 +9347,7 @@ tcp
 tcp/ip
 tcpip
 tcpport
+tcprjmgmt
 tcpserver
 tcptest
 tcx
@@ -9508,7 +9414,6 @@ test-xml
 test123
 testaccount
 testautomation
-testimonial
 testing
 testlab
 testplans
@@ -9524,6 +9429,7 @@ text-to-speach"
 text-to-speech
 text2image
 textanalysis
+textbuffer
 texting
 textprocessing
 textwrapping
@@ -9596,6 +9502,7 @@ toggle
 token
 tokenlifetime
 tokens
+toml
 tookit
 tool
 toolbox
@@ -9738,6 +9645,7 @@ ucspowertool
 ud-avataaar
 ud-badgebutton
 ud-badgelink
+ud-breadcrumb
 ud-breadcrumbitem
 ud-burger
 ud-button
@@ -9750,10 +9658,12 @@ ud-confetti
 ud-control
 ud-dashboard
 ud-datepicker
+ud-field
 ud-flexytable
 ud-funnel
 ud-hero
 ud-illustration
+ud-input
 ud-licensed
 ud-loadingoverlay
 ud-minesweeper
@@ -9765,7 +9675,6 @@ ud-piechart3d
 ud-pivottable
 ud-progressstepbar
 ud-rangeslider
-ud-readingbar
 ud-scrollspy
 ud-selectdatetime
 ud-selector
@@ -10067,7 +9976,6 @@ voiceconfig
 voiceservices
 voidtools
 volkskrant
-volta
 volume
 volumeshadowcopy
 volumio
@@ -10172,7 +10080,6 @@ webcamera
 webcmdlets
 webdav
 webdeploy
-webfrequest
 webhdfs
 webhelpdesk
 webhistory
@@ -10405,6 +10312,7 @@ writeaccess
 writelog
 writemanager
 writeprogress
+writer
 ws-federation
 wsapi
 wsb
@@ -10412,6 +10320,7 @@ wsl
 wsl2
 wsman
 wsmanlistener
+wso2
 wsus
 wt
 wtsapi32

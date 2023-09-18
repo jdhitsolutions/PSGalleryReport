@@ -3,6 +3,83 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [SignPathDocker](https://www.powershellgallery.com/Packages/SignPathDocker/4.3.1) | 4.3.1
+
+### Published: 09/18/2023 08:38:53 by SignPath GmbH
+
+PowerShell module for Docker signing with SignPath.io
+
+__Downloads__: 747 | __Repository__: https://signpath.io/
+
+## [SignPath](https://www.powershellgallery.com/Packages/SignPath/4.3.1) | 4.3.1
+
+### Published: 09/18/2023 08:33:46 by SignPath GmbH
+
+PowerShell module for code-signing with SignPath.io
+
+Supported methods: Authenticode, NuGet, ClickOnce manifest signing, OPC signing, JAR signing, Docker signing, Office Macro signing.
+Supported file formats: EXE, DLL, PowerShell, MSI, CAB, AppX, MSIX, nupkg, Office add-ins, VSIX, Java Archives and more.
+
+You can also use SignPath.io to sign your PowerShell scripts.
+
+__Downloads__: 103,523 | __Repository__: https://signpath.io/
+
+## [CAT](https://www.powershellgallery.com/Packages/CAT/0.17.0.3) | 0.17.0.3
+
+### Published: 09/18/2023 08:12:19 by Joyful Craftsmen CAT Team
+
+Author, run and manage AUTOMATED TESTS for your DATA with minimum effort.
+
+__Downloads__: 347 | __Repository__: https://docs.justcat.it/
+
+## [JaapsTools](https://www.powershellgallery.com/Packages/JaapsTools/18.6.9) | 18.6.9
+
+### Published: 09/18/2023 07:47:45 by JT
+
+JaapsTools
+
+__Downloads__: 536 | __Repository__: 
+
+## [IntuneResourceLocalization](https://www.powershellgallery.com/Packages/IntuneResourceLocalization/0.1.7) | 0.1.7
+
+### Published: 09/18/2023 06:38:35 by Inetum Realdolmen
+
+PowerShell module for managing localization resources on intune-managed devices
+
+__Downloads__: 0 | __Repository__: 
+
+## [PSSharedGoods](https://www.powershellgallery.com/Packages/PSSharedGoods/0.0.266) | 0.0.266
+
+### Published: 09/18/2023 06:20:41 by Przemyslaw Klys
+
+Module covering functions that are shared within multiple projects
+
+__Downloads__: 222,525 | __Repository__: https://github.com/EvotecIT/PSSharedGoods
+
+## [BruhArmy](https://www.powershellgallery.com/Packages/BruhArmy/1.5.6) | 1.5.6
+
+### Published: 09/18/2023 04:13:19 by Evan Deters
+
+This module includes several commands that help with the deployment of virtual environments on vSphere.
+
+__Downloads__: 157 | __Repository__: https://github.com/evanjd711/bruharmy
+
+## [UsersToDevices](https://www.powershellgallery.com/Packages/UsersToDevices/1.0) | 1.0
+
+### Published: 09/18/2023 03:12:01 by David Velasquez
+
+Finds registered devices of users in UserGroup and adds them into DeviceGroup.
+
+__Downloads__: 0 | __Repository__: 
+
+## [JamfPSPro](https://www.powershellgallery.com/Packages/JamfPSPro/0.0.9) | 0.0.9
+
+### Published: 09/18/2023 02:59:34 by Tristan Brazier
+
+A PowerShell module for the Jamf classic api
+
+__Downloads__: 37 | __Repository__: https://github.com/TrustyTristan/JamfPSPro
+
 ## [Test-PowerPing](https://www.powershellgallery.com/Packages/Test-PowerPing/1.0) | 1.0
 
 ### Published: 09/18/2023 01:49:30 by Hunter Hirsch
@@ -42,14 +119,6 @@ __Downloads__: 340 | __Repository__: https://github.com/FranciscoNabas/WindowsUt
 Manage fonts on a Windows system
 
 __Downloads__: 182 | __Repository__: https://github.com/MariusStorhaug/Fonts
-
-## [PsComplete](https://www.powershellgallery.com/Packages/PsComplete/0.0.21) | 0.0.21
-
-### Published: 09/17/2023 20:43:58 by ieviev
-
-Cross-platform custom powershell autocomplete / tab expansion
-
-__Downloads__: 299 | __Repository__: https://github.com/ieviev/pscomplete/
 
 ## [tiPS](https://www.powershellgallery.com/Packages/tiPS/0.3.0) | 0.3.0
 
@@ -179,14 +248,6 @@ PowerShell Module for GitHub.Migrations
 
 __Downloads__: 578 | __Repository__: https://github.com/MariusStorhaug/GitHub
 
-## [GitHub.Activity](https://www.powershellgallery.com/Packages/GitHub.Activity/0.0.12) | 0.0.12
-
-### Published: 09/17/2023 17:10:10 by Marius Storhaug
-
-PowerShell Module for GitHub.Activity
-
-__Downloads__: 762 | __Repository__: https://github.com/MariusStorhaug/GitHub
-
 ## [GitHub.Teams](https://www.powershellgallery.com/Packages/GitHub.Teams/0.0.12) | 0.0.12
 
 ### Published: 09/17/2023 17:10:10 by Marius Storhaug
@@ -195,13 +256,13 @@ PowerShell Module for GitHub.Teams
 
 __Downloads__: 563 | __Repository__: https://github.com/MariusStorhaug/GitHub
 
-## [GitHub.Codespaces](https://www.powershellgallery.com/Packages/GitHub.Codespaces/0.0.12) | 0.0.12
+## [GitHub.Activity](https://www.powershellgallery.com/Packages/GitHub.Activity/0.0.12) | 0.0.12
 
-### Published: 09/17/2023 17:10:08 by Marius Storhaug
+### Published: 09/17/2023 17:10:10 by Marius Storhaug
 
-PowerShell Module for GitHub.Codespaces
+PowerShell Module for GitHub.Activity
 
-__Downloads__: 610 | __Repository__: https://github.com/MariusStorhaug/GitHub
+__Downloads__: 762 | __Repository__: https://github.com/MariusStorhaug/GitHub
 
 ## [GitHub.RateLimit](https://www.powershellgallery.com/Packages/GitHub.RateLimit/0.0.12) | 0.0.12
 
@@ -210,6 +271,14 @@ __Downloads__: 610 | __Repository__: https://github.com/MariusStorhaug/GitHub
 PowerShell Module for GitHub.RateLimit
 
 __Downloads__: 648 | __Repository__: https://github.com/MariusStorhaug/GitHub
+
+## [GitHub.Codespaces](https://www.powershellgallery.com/Packages/GitHub.Codespaces/0.0.12) | 0.0.12
+
+### Published: 09/17/2023 17:10:08 by Marius Storhaug
+
+PowerShell Module for GitHub.Codespaces
+
+__Downloads__: 610 | __Repository__: https://github.com/MariusStorhaug/GitHub
 
 ## [GitHub.GitDatabase](https://www.powershellgallery.com/Packages/GitHub.GitDatabase/0.0.2) | 0.0.2
 
@@ -227,14 +296,6 @@ PowerShell Module for GitHub.Branches
 
 __Downloads__: 574 | __Repository__: https://github.com/MariusStorhaug/GitHub
 
-## [GitHub.Deployments](https://www.powershellgallery.com/Packages/GitHub.Deployments/0.0.9) | 0.0.9
-
-### Published: 09/17/2023 17:09:58 by Marius Storhaug
-
-PowerShell Module for GitHub.Deployments
-
-__Downloads__: 577 | __Repository__: https://github.com/MariusStorhaug/GitHub
-
 ## [GitHub.DependencyGraph](https://www.powershellgallery.com/Packages/GitHub.DependencyGraph/0.0.2) | 0.0.2
 
 ### Published: 09/17/2023 17:09:58 by Marius Storhaug
@@ -242,6 +303,14 @@ __Downloads__: 577 | __Repository__: https://github.com/MariusStorhaug/GitHub
 PowerShell Module for GitHub.DependencyGraph
 
 __Downloads__: 4 | __Repository__: https://github.com/MariusStorhaug/GitHub
+
+## [GitHub.Deployments](https://www.powershellgallery.com/Packages/GitHub.Deployments/0.0.9) | 0.0.9
+
+### Published: 09/17/2023 17:09:58 by Marius Storhaug
+
+PowerShell Module for GitHub.Deployments
+
+__Downloads__: 577 | __Repository__: https://github.com/MariusStorhaug/GitHub
 
 ## [GitHub.Users](https://www.powershellgallery.com/Packages/GitHub.Users/0.0.12) | 0.0.12
 
@@ -719,14 +788,6 @@ The Devolutions.PowerShell module is a set of cmdlets that allow administrators 
 
 __Downloads__: 5,172 | __Repository__: 
 
-## [JaapsTools](https://www.powershellgallery.com/Packages/JaapsTools/18.6.8) | 18.6.8
-
-### Published: 09/15/2023 10:00:53 by JT
-
-JaapsTools
-
-__Downloads__: 536 | __Repository__: 
-
 ## [PentaWork.Xrm.PowerShell](https://www.powershellgallery.com/Packages/PentaWork.Xrm.PowerShell/1.6.4) | 1.6.4
 
 ### Published: 09/15/2023 09:57:21 by Gerrit Gazic
@@ -767,14 +828,6 @@ StepSemVer pwsh module used to increment semantic versions number.
 
 __Downloads__: 757 | __Repository__: https://github.com/ArwynFr/pwsh-StepSemVer
 
-## [BruhArmy](https://www.powershellgallery.com/Packages/BruhArmy/1.5.3) | 1.5.3
-
-### Published: 09/15/2023 08:46:54 by Evan Deters
-
-This module includes several commands that help with the deployment of virtual environments on vSphere.
-
-__Downloads__: 157 | __Repository__: https://github.com/evanjd711/bruharmy
-
 ## [Generate-DockerImageVariantsHelpers](https://www.powershellgallery.com/Packages/Generate-DockerImageVariantsHelpers/0.15.0) | 0.15.0
 
 ### Published: 09/15/2023 07:47:22 by The Oh Brothers
@@ -806,14 +859,6 @@ __Downloads__: 0 | __Repository__:
 PowerShell interface to the Cisco Support APIs
 
 __Downloads__: 361 | __Repository__: https://github.com/ralish/PSCiscoSupportAPIs
-
-## [JamfPSPro](https://www.powershellgallery.com/Packages/JamfPSPro/0.0.8) | 0.0.8
-
-### Published: 09/15/2023 00:53:10 by Tristan Brazier
-
-A PowerShell module for the Jamf classic api
-
-__Downloads__: 37 | __Repository__: https://github.com/TrustyTristan/JamfPSPro
 
 ## [AppVeyorTestPsGallery](https://www.powershellgallery.com/Packages/AppVeyorTestPsGallery/1.0.517) | 1.0.517
 
@@ -911,13 +956,13 @@ C#/PowerShell interface for PRTG Network Monitor
 
 __Downloads__: 213,536 | __Repository__: https://github.com/lordmilko/PrtgAPI
 
-## [IntuneResourceLocalization](https://www.powershellgallery.com/Packages/IntuneResourceLocalization/0.1.0) | 0.1.0
+## [TcPrjMgmt](https://www.powershellgallery.com/Packages/TcPrjMgmt/0.3.1) | 0.3.1
 
-### Published: 09/14/2023 09:43:26 by Inetum Realdolmen
+### Published: 09/14/2023 10:20:03 by Giang Nguyen
 
-PowerShell module for managing localization resources on intune-managed devices
+Utilities for managing TwinCAT solutions and projects. Including PLC project exporting, and library installation and uninstallation. NOTE: This module requires >= TwinCAT 3.1.4024.10 (XAR Runtime or Full) (local installation)
 
-__Downloads__: 0 | __Repository__: 
+__Downloads__: 15 | __Repository__: https://github.com/ahuca/TcPrjMgmt/tree/main
 
 ## [PsMermaidTools](https://www.powershellgallery.com/Packages/PsMermaidTools/0.4.0) | 0.4.0
 
@@ -2044,44 +2089,4 @@ This modules provides Cmdlets for OCI Blockchain Service
 
 __Downloads__: 3,685 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-## [OCI.PSModules.Bds](https://www.powershellgallery.com/Packages/OCI.PSModules.Bds/67.1.0) | 67.1.0
-
-### Published: 09/12/2023 23:50:48 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Bds Service
-
-__Downloads__: 3,755 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Bastion](https://www.powershellgallery.com/Packages/OCI.PSModules.Bastion/67.1.0) | 67.1.0
-
-### Published: 09/12/2023 23:50:40 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Bastion Service
-
-__Downloads__: 3,041 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Autoscaling](https://www.powershellgallery.com/Packages/OCI.PSModules.Autoscaling/67.1.0) | 67.1.0
-
-### Published: 09/12/2023 23:50:32 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Autoscaling Service
-
-__Downloads__: 3,684 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Audit](https://www.powershellgallery.com/Packages/OCI.PSModules.Audit/67.1.0) | 67.1.0
-
-### Published: 09/12/2023 23:50:24 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Audit Service
-
-__Downloads__: 3,786 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Artifacts](https://www.powershellgallery.com/Packages/OCI.PSModules.Artifacts/67.1.0) | 67.1.0
-
-### Published: 09/12/2023 23:50:16 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Artifacts Service
-
-__Downloads__: 3,334 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-*Updated: Monday, 18 September 2023 02:03:03 UTC*
+*Updated: Monday, 18 September 2023 09:53:46 UTC*

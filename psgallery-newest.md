@@ -3,6 +3,83 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [SignPathDocker](https://www.powershellgallery.com/Packages/SignPathDocker/4.3.1) | 4.3.1
+
+### Published: 09/18/2023 08:38:53 by SignPath GmbH
+
+PowerShell module for Docker signing with SignPath.io
+
+__Downloads__: 747 | __Repository__: https://signpath.io/
+
+## [SignPath](https://www.powershellgallery.com/Packages/SignPath/4.3.1) | 4.3.1
+
+### Published: 09/18/2023 08:33:46 by SignPath GmbH
+
+PowerShell module for code-signing with SignPath.io
+
+Supported methods: Authenticode, NuGet, ClickOnce manifest signing, OPC signing, JAR signing, Docker signing, Office Macro signing.
+Supported file formats: EXE, DLL, PowerShell, MSI, CAB, AppX, MSIX, nupkg, Office add-ins, VSIX, Java Archives and more.
+
+You can also use SignPath.io to sign your PowerShell scripts.
+
+__Downloads__: 103,523 | __Repository__: https://signpath.io/
+
+## [CAT](https://www.powershellgallery.com/Packages/CAT/0.17.0.3) | 0.17.0.3
+
+### Published: 09/18/2023 08:12:19 by Joyful Craftsmen CAT Team
+
+Author, run and manage AUTOMATED TESTS for your DATA with minimum effort.
+
+__Downloads__: 347 | __Repository__: https://docs.justcat.it/
+
+## [JaapsTools](https://www.powershellgallery.com/Packages/JaapsTools/18.6.9) | 18.6.9
+
+### Published: 09/18/2023 07:47:45 by JT
+
+JaapsTools
+
+__Downloads__: 536 | __Repository__: 
+
+## [IntuneResourceLocalization](https://www.powershellgallery.com/Packages/IntuneResourceLocalization/0.1.7) | 0.1.7
+
+### Published: 09/18/2023 06:38:35 by Inetum Realdolmen
+
+PowerShell module for managing localization resources on intune-managed devices
+
+__Downloads__: 0 | __Repository__: 
+
+## [PSSharedGoods](https://www.powershellgallery.com/Packages/PSSharedGoods/0.0.266) | 0.0.266
+
+### Published: 09/18/2023 06:20:41 by Przemyslaw Klys
+
+Module covering functions that are shared within multiple projects
+
+__Downloads__: 222,525 | __Repository__: https://github.com/EvotecIT/PSSharedGoods
+
+## [BruhArmy](https://www.powershellgallery.com/Packages/BruhArmy/1.5.6) | 1.5.6
+
+### Published: 09/18/2023 04:13:19 by Evan Deters
+
+This module includes several commands that help with the deployment of virtual environments on vSphere.
+
+__Downloads__: 157 | __Repository__: https://github.com/evanjd711/bruharmy
+
+## [UsersToDevices](https://www.powershellgallery.com/Packages/UsersToDevices/1.0) | 1.0
+
+### Published: 09/18/2023 03:12:01 by David Velasquez
+
+Finds registered devices of users in UserGroup and adds them into DeviceGroup.
+
+__Downloads__: 0 | __Repository__: 
+
+## [JamfPSPro](https://www.powershellgallery.com/Packages/JamfPSPro/0.0.9) | 0.0.9
+
+### Published: 09/18/2023 02:59:34 by Tristan Brazier
+
+A PowerShell module for the Jamf classic api
+
+__Downloads__: 37 | __Repository__: https://github.com/TrustyTristan/JamfPSPro
+
 ## [Test-PowerPing](https://www.powershellgallery.com/Packages/Test-PowerPing/1.0) | 1.0
 
 ### Published: 09/18/2023 01:49:30 by Hunter Hirsch
@@ -42,14 +119,6 @@ __Downloads__: 340 | __Repository__: https://github.com/FranciscoNabas/WindowsUt
 Manage fonts on a Windows system
 
 __Downloads__: 182 | __Repository__: https://github.com/MariusStorhaug/Fonts
-
-## [PsComplete](https://www.powershellgallery.com/Packages/PsComplete/0.0.21) | 0.0.21
-
-### Published: 09/17/2023 20:43:58 by ieviev
-
-Cross-platform custom powershell autocomplete / tab expansion
-
-__Downloads__: 299 | __Repository__: https://github.com/ieviev/pscomplete/
 
 ## [tiPS](https://www.powershellgallery.com/Packages/tiPS/0.3.0) | 0.3.0
 
@@ -195,14 +264,6 @@ PowerShell Module for GitHub.Teams
 
 __Downloads__: 563 | __Repository__: https://github.com/MariusStorhaug/GitHub
 
-## [GitHub.Codespaces](https://www.powershellgallery.com/Packages/GitHub.Codespaces/0.0.12) | 0.0.12
-
-### Published: 09/17/2023 17:10:08 by Marius Storhaug
-
-PowerShell Module for GitHub.Codespaces
-
-__Downloads__: 610 | __Repository__: https://github.com/MariusStorhaug/GitHub
-
 ## [GitHub.RateLimit](https://www.powershellgallery.com/Packages/GitHub.RateLimit/0.0.12) | 0.0.12
 
 ### Published: 09/17/2023 17:10:08 by Marius Storhaug
@@ -210,6 +271,14 @@ __Downloads__: 610 | __Repository__: https://github.com/MariusStorhaug/GitHub
 PowerShell Module for GitHub.RateLimit
 
 __Downloads__: 648 | __Repository__: https://github.com/MariusStorhaug/GitHub
+
+## [GitHub.Codespaces](https://www.powershellgallery.com/Packages/GitHub.Codespaces/0.0.12) | 0.0.12
+
+### Published: 09/17/2023 17:10:08 by Marius Storhaug
+
+PowerShell Module for GitHub.Codespaces
+
+__Downloads__: 610 | __Repository__: https://github.com/MariusStorhaug/GitHub
 
 ## [GitHub.GitDatabase](https://www.powershellgallery.com/Packages/GitHub.GitDatabase/0.0.2) | 0.0.2
 
@@ -299,14 +368,6 @@ PowerShell Module for GitHub.GitIgnore
 
 __Downloads__: 626 | __Repository__: https://github.com/MariusStorhaug/GitHub
 
-## [GitHub.Organizations](https://www.powershellgallery.com/Packages/GitHub.Organizations/0.0.3) | 0.0.3
-
-### Published: 09/17/2023 17:09:34 by Marius Storhaug
-
-PowerShell Module for GitHub.Organizations
-
-__Downloads__: 25 | __Repository__: 
-
 ## [GitHub.Meta](https://www.powershellgallery.com/Packages/GitHub.Meta/0.0.11) | 0.0.11
 
 ### Published: 09/17/2023 17:09:34 by Marius Storhaug
@@ -314,6 +375,14 @@ __Downloads__: 25 | __Repository__:
 PowerShell Module for GitHub.Meta
 
 __Downloads__: 668 | __Repository__: https://github.com/MariusStorhaug/GitHub
+
+## [GitHub.Organizations](https://www.powershellgallery.com/Packages/GitHub.Organizations/0.0.3) | 0.0.3
+
+### Published: 09/17/2023 17:09:34 by Marius Storhaug
+
+PowerShell Module for GitHub.Organizations
+
+__Downloads__: 25 | __Repository__: 
 
 ## [GitHub.Interactions](https://www.powershellgallery.com/Packages/GitHub.Interactions/0.0.12) | 0.0.12
 
@@ -355,14 +424,6 @@ PowerShell Module for GitHub.Search
 
 __Downloads__: 616 | __Repository__: https://github.com/MariusStorhaug/GitHub
 
-## [GitHub.Billing](https://www.powershellgallery.com/Packages/GitHub.Billing/0.0.12) | 0.0.12
-
-### Published: 09/17/2023 17:09:22 by Marius Storhaug
-
-PowerShell Module for GitHub.Billing
-
-__Downloads__: 621 | __Repository__: https://github.com/MariusStorhaug/GitHub
-
 ## [GitHub.Pulls](https://www.powershellgallery.com/Packages/GitHub.Pulls/0.0.11) | 0.0.11
 
 ### Published: 09/17/2023 17:09:22 by Marius Storhaug
@@ -370,6 +431,14 @@ __Downloads__: 621 | __Repository__: https://github.com/MariusStorhaug/GitHub
 PowerShell Module for GitHub.Pulls
 
 __Downloads__: 574 | __Repository__: https://github.com/MariusStorhaug/GitHub
+
+## [GitHub.Billing](https://www.powershellgallery.com/Packages/GitHub.Billing/0.0.12) | 0.0.12
+
+### Published: 09/17/2023 17:09:22 by Marius Storhaug
+
+PowerShell Module for GitHub.Billing
+
+__Downloads__: 621 | __Repository__: https://github.com/MariusStorhaug/GitHub
 
 ## [GitHub.Issues](https://www.powershellgallery.com/Packages/GitHub.Issues/0.0.12) | 0.0.12
 
@@ -2293,84 +2362,4 @@ This version of AWS Tools for PowerShell is compatible with Windows PowerShell 5
 
 __Downloads__: 6,095 | __Repository__: https://github.com/aws/aws-tools-for-powershell
 
-## [AWS.Tools.Kafka](https://www.powershellgallery.com/Packages/AWS.Tools.Kafka/4.1.416) | 4.1.416
-
-### Published: 09/15/2023 23:29:59 by Amazon.com Inc
-
-The Kafka module of AWS Tools for PowerShell lets developers and administrators manage Amazon Managed Streaming for Apache Kafka (MSK) from the PowerShell scripting environment. In order to manage each AWS service, install the corresponding module (e.g. AWS.Tools.EC2, AWS.Tools.S3...).
-The module AWS.Tools.Installer (https://www.powershellgallery.com/packages/AWS.Tools.Installer/) makes it easier to install, update and uninstall the AWS.Tools modules.
-This version of AWS Tools for PowerShell is compatible with Windows PowerShell 5.1+ and PowerShell Core 6+ on Windows, Linux and macOS. When running on Windows PowerShell, .NET Framework 4.7.2 or newer is required. Alternative modules AWSPowerShell.NetCore and AWSPowerShell, provide support for all AWS services from a single module and also support older versions of Windows PowerShell and .NET Framework.
-
-__Downloads__: 18,523 | __Repository__: https://github.com/aws/aws-tools-for-powershell
-
-## [AWS.Tools.IVSRealTime](https://www.powershellgallery.com/Packages/AWS.Tools.IVSRealTime/4.1.416) | 4.1.416
-
-### Published: 09/15/2023 23:29:53 by Amazon.com Inc
-
-The IVSRealTime module of AWS Tools for PowerShell lets developers and administrators manage Amazon Interactive Video Service RealTime from the PowerShell scripting environment. In order to manage each AWS service, install the corresponding module (e.g. AWS.Tools.EC2, AWS.Tools.S3...).
-The module AWS.Tools.Installer (https://www.powershellgallery.com/packages/AWS.Tools.Installer/) makes it easier to install, update and uninstall the AWS.Tools modules.
-This version of AWS Tools for PowerShell is compatible with Windows PowerShell 5.1+ and PowerShell Core 6+ on Windows, Linux and macOS. When running on Windows PowerShell, .NET Framework 4.7.2 or newer is required. Alternative modules AWSPowerShell.NetCore and AWSPowerShell, provide support for all AWS services from a single module and also support older versions of Windows PowerShell and .NET Framework.
-
-__Downloads__: 1,080 | __Repository__: https://github.com/aws/aws-tools-for-powershell
-
-## [AWS.Tools.Ivschat](https://www.powershellgallery.com/Packages/AWS.Tools.Ivschat/4.1.416) | 4.1.416
-
-### Published: 09/15/2023 23:29:48 by Amazon.com Inc
-
-The Ivschat module of AWS Tools for PowerShell lets developers and administrators manage Amazon Interactive Video Service Chat from the PowerShell scripting environment. In order to manage each AWS service, install the corresponding module (e.g. AWS.Tools.EC2, AWS.Tools.S3...).
-The module AWS.Tools.Installer (https://www.powershellgallery.com/packages/AWS.Tools.Installer/) makes it easier to install, update and uninstall the AWS.Tools modules.
-This version of AWS Tools for PowerShell is compatible with Windows PowerShell 5.1+ and PowerShell Core 6+ on Windows, Linux and macOS. When running on Windows PowerShell, .NET Framework 4.7.2 or newer is required. Alternative modules AWSPowerShell.NetCore and AWSPowerShell, provide support for all AWS services from a single module and also support older versions of Windows PowerShell and .NET Framework.
-
-__Downloads__: 4,716 | __Repository__: https://github.com/aws/aws-tools-for-powershell
-
-## [AWS.Tools.IVS](https://www.powershellgallery.com/Packages/AWS.Tools.IVS/4.1.416) | 4.1.416
-
-### Published: 09/15/2023 23:29:43 by Amazon.com Inc
-
-The IVS module of AWS Tools for PowerShell lets developers and administrators manage Amazon Interactive Video Service from the PowerShell scripting environment. In order to manage each AWS service, install the corresponding module (e.g. AWS.Tools.EC2, AWS.Tools.S3...).
-The module AWS.Tools.Installer (https://www.powershellgallery.com/packages/AWS.Tools.Installer/) makes it easier to install, update and uninstall the AWS.Tools modules.
-This version of AWS Tools for PowerShell is compatible with Windows PowerShell 5.1+ and PowerShell Core 6+ on Windows, Linux and macOS. When running on Windows PowerShell, .NET Framework 4.7.2 or newer is required. Alternative modules AWSPowerShell.NetCore and AWSPowerShell, provide support for all AWS services from a single module and also support older versions of Windows PowerShell and .NET Framework.
-
-__Downloads__: 7,439 | __Repository__: https://github.com/aws/aws-tools-for-powershell
-
-## [AWS.Tools.IoTWireless](https://www.powershellgallery.com/Packages/AWS.Tools.IoTWireless/4.1.416) | 4.1.416
-
-### Published: 09/15/2023 23:29:37 by Amazon.com Inc
-
-The IoTWireless module of AWS Tools for PowerShell lets developers and administrators manage AWS IoT Wireless from the PowerShell scripting environment. In order to manage each AWS service, install the corresponding module (e.g. AWS.Tools.EC2, AWS.Tools.S3...).
-The module AWS.Tools.Installer (https://www.powershellgallery.com/packages/AWS.Tools.Installer/) makes it easier to install, update and uninstall the AWS.Tools modules.
-This version of AWS Tools for PowerShell is compatible with Windows PowerShell 5.1+ and PowerShell Core 6+ on Windows, Linux and macOS. When running on Windows PowerShell, .NET Framework 4.7.2 or newer is required. Alternative modules AWSPowerShell.NetCore and AWSPowerShell, provide support for all AWS services from a single module and also support older versions of Windows PowerShell and .NET Framework.
-
-__Downloads__: 7,040 | __Repository__: https://github.com/aws/aws-tools-for-powershell
-
-## [AWS.Tools.IoTTwinMaker](https://www.powershellgallery.com/Packages/AWS.Tools.IoTTwinMaker/4.1.416) | 4.1.416
-
-### Published: 09/15/2023 23:29:32 by Amazon.com Inc
-
-The IoTTwinMaker module of AWS Tools for PowerShell lets developers and administrators manage AWS IoT TwinMaker from the PowerShell scripting environment. In order to manage each AWS service, install the corresponding module (e.g. AWS.Tools.EC2, AWS.Tools.S3...).
-The module AWS.Tools.Installer (https://www.powershellgallery.com/packages/AWS.Tools.Installer/) makes it easier to install, update and uninstall the AWS.Tools modules.
-This version of AWS Tools for PowerShell is compatible with Windows PowerShell 5.1+ and PowerShell Core 6+ on Windows, Linux and macOS. When running on Windows PowerShell, .NET Framework 4.7.2 or newer is required. Alternative modules AWSPowerShell.NetCore and AWSPowerShell, provide support for all AWS services from a single module and also support older versions of Windows PowerShell and .NET Framework.
-
-__Downloads__: 5,753 | __Repository__: https://github.com/aws/aws-tools-for-powershell
-
-## [AWS.Tools.IoTThingsGraph](https://www.powershellgallery.com/Packages/AWS.Tools.IoTThingsGraph/4.1.416) | 4.1.416
-
-### Published: 09/15/2023 23:29:26 by Amazon.com Inc
-
-The IoTThingsGraph module of AWS Tools for PowerShell lets developers and administrators manage AWS IoT Things Graph from the PowerShell scripting environment. In order to manage each AWS service, install the corresponding module (e.g. AWS.Tools.EC2, AWS.Tools.S3...).
-The module AWS.Tools.Installer (https://www.powershellgallery.com/packages/AWS.Tools.Installer/) makes it easier to install, update and uninstall the AWS.Tools modules.
-This version of AWS Tools for PowerShell is compatible with Windows PowerShell 5.1+ and PowerShell Core 6+ on Windows, Linux and macOS. When running on Windows PowerShell, .NET Framework 4.7.2 or newer is required. Alternative modules AWSPowerShell.NetCore and AWSPowerShell, provide support for all AWS services from a single module and also support older versions of Windows PowerShell and .NET Framework.
-
-__Downloads__: 10,471 | __Repository__: https://github.com/aws/aws-tools-for-powershell
-
-## [AWS.Tools.IoTSiteWise](https://www.powershellgallery.com/Packages/AWS.Tools.IoTSiteWise/4.1.416) | 4.1.416
-
-### Published: 09/15/2023 23:29:20 by Amazon.com Inc
-
-The IoTSiteWise module of AWS Tools for PowerShell lets developers and administrators manage AWS IoT SiteWise from the PowerShell scripting environment. In order to manage each AWS service, install the corresponding module (e.g. AWS.Tools.EC2, AWS.Tools.S3...).
-The module AWS.Tools.Installer (https://www.powershellgallery.com/packages/AWS.Tools.Installer/) makes it easier to install, update and uninstall the AWS.Tools modules.
-This version of AWS Tools for PowerShell is compatible with Windows PowerShell 5.1+ and PowerShell Core 6+ on Windows, Linux and macOS. When running on Windows PowerShell, .NET Framework 4.7.2 or newer is required. Alternative modules AWSPowerShell.NetCore and AWSPowerShell, provide support for all AWS services from a single module and also support older versions of Windows PowerShell and .NET Framework.
-
-__Downloads__: 7,767 | __Repository__: https://github.com/aws/aws-tools-for-powershell
-
-*Updated: Monday, 18 September 2023 02:03:00 UTC*
+*Updated: Monday, 18 September 2023 09:53:43 UTC*
