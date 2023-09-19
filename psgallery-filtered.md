@@ -3,6 +3,102 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [PowerCommander](https://www.powershellgallery.com/Packages/PowerCommander/0.9.0) | 0.9.0
+
+### Published: 09/19/2023 01:51:03 by Keeper Security Inc.
+
+PowerShell Commander
+
+__Downloads__: 0 | __Repository__: https://github.com/Keeper-Security/keeper-sdk-dotnet
+
+## [PSTcpIp](https://www.powershellgallery.com/Packages/PSTcpIp/4.3.8) | 4.3.8
+
+### Published: 09/19/2023 00:45:26 by Anthony Guimelli
+
+Provides cmdlets to perform various TCPIP and TLS/SSL related tasks.
+
+__Downloads__: 1,724 | __Repository__: https://github.com/anthonyg-1/PSTcpIp
+
+## [tiPS](https://www.powershellgallery.com/Packages/tiPS/0.3.1) | 0.3.1
+
+### Published: 09/19/2023 00:02:59 by Daniel Schroeder
+
+PowerShell tips delivered straight to your terminal.
+
+__Downloads__: 345 | __Repository__: https://github.com/deadlydog/PowerShell.tiPS
+
+## [Set-DeviceFirmwareSimpleUpdateREDFISH](https://www.powershellgallery.com/Packages/Set-DeviceFirmwareSimpleUpdateREDFISH/8.0.0) | 8.0.0
+
+### Published: 09/18/2023 23:51:56 by Texas Roemer
+
+iDRAC cmdlet using Redfish DMTF action SimpleUpdate to update device firmware using a firmware image stored locally
+
+__Downloads__: 444 | __Repository__: 
+
+## [Test-PowerPing](https://www.powershellgallery.com/Packages/Test-PowerPing/1.0.1.0) | 1.0.1.0
+
+### Published: 09/18/2023 23:46:33 by Hunter Hirsch
+
+Sends single pings asynchronously to remote computers to determine network accessibility. Can be used as IP range scanner, ping utility, CIDR calculator, or address list generator. Returns simple ping results (Status,IPv4Address,DeviceName,Time) with status codes.
+
+__Downloads__: 0 | __Repository__: https://www.powershellgallery.com/packages/Test-PowerPing
+
+## [Set-DeviceFirmwareSimpleUpdateTransferProtocolREDFISH](https://www.powershellgallery.com/Packages/Set-DeviceFirmwareSimpleUpdateTransferProtocolREDFISH/7.0.0) | 7.0.0
+
+### Published: 09/18/2023 23:16:12 by Texas Roemer
+
+iDRAC cmdlet using Redfish DMTF action SimpleUpdate to update one device firmware using a firmware image stored on a supported network share
+
+__Downloads__: 511 | __Repository__: 
+
+## [JS7](https://www.powershellgallery.com/Packages/JS7/2.0.16.0) | 2.0.16.0
+
+### Published: 09/18/2023 20:12:20 by Andreas Pueschel
+
+Manage and Control workflows and jobs with JS7 JobScheduler Controller and Agents, access the JS7 REST Web Service API
+
+__Downloads__: 545 | __Repository__: https://kb.sos-berlin.com/x/PpQwAw
+
+## [PSRule.Rules.AzureDevOps](https://www.powershellgallery.com/Packages/PSRule.Rules.AzureDevOps/0.0.6) | 0.0.6
+
+### Published: 09/18/2023 19:03:34 by Roderick Bant
+
+PSRule rules for Azure DevOps project configuration best practices
+
+__Downloads__: 0 | __Repository__: https://github.com/cloudyspells/PSRule.Rules.AzureDevOps
+
+## [cr-devops-rest](https://www.powershellgallery.com/Packages/cr-devops-rest/2023.9.281) | 2023.9.281
+
+### Published: 09/18/2023 19:01:36 by Ryan.Phay@clearesult.com
+
+Create straight forward REST calls in PowerShell based on API endpoints defined in .json files.  Add your own REST API endpoints by simply creating new .json files.
+
+__Downloads__: 73 | __Repository__: https://github.com/CLEAResult/it.devops.psm.rest
+
+## [BinaryTree.Internal.Power365.Dev](https://www.powershellgallery.com/Packages/BinaryTree.Internal.Power365.Dev/20.12.13.519) | 20.12.13.519
+
+### Published: 09/18/2023 18:32:48 by BinaryTreePackagePublisher
+
+PowerShell Management cmdlets for Binary Tree Power365
+
+__Downloads__: 6,221 | __Repository__: 
+
+## [safeguard-devops](https://www.powershellgallery.com/Packages/safeguard-devops/7.4.225069) | 7.4.225069
+
+### Published: 09/18/2023 18:20:37 by petrsnd
+
+Scripting tools for interacting with the One Identity Safeguard Secrets Broker for DevOps.
+
+__Downloads__: 1,559 | __Repository__: https://github.com/OneIdentity/SafeguardDevOpsService
+
+## [Nectar10](https://www.powershellgallery.com/Packages/Nectar10/3.70) | 3.70
+
+### Published: 09/18/2023 17:44:56 by Ken Lasko
+
+PowerShell module for Nectar DXP
+
+__Downloads__: 1,060 | __Repository__: 
+
 ## [SysAdmin-Extras](https://www.powershellgallery.com/Packages/SysAdmin-Extras/1.0.6) | 1.0.6
 
 ### Published: 09/18/2023 17:16:00 by Luis Carrillo
@@ -11,14 +107,6 @@ This modules contains useful cmdlets for Systems Administrators on Windows opera
 
 __Downloads__: 23 | __Repository__: https://github.com/LuisCarrilloTech
 
-## [Nectar10](https://www.powershellgallery.com/Packages/Nectar10/3.69) | 3.69
-
-### Published: 09/18/2023 17:05:04 by Ken Lasko
-
-PowerShell module for Nectar DXP
-
-__Downloads__: 1,060 | __Repository__: 
-
 ## [XD-PSTools](https://www.powershellgallery.com/Packages/XD-PSTools/1.9.3) | 1.9.3
 
 ### Published: 09/18/2023 16:01:41 by Eric Meinders
@@ -26,14 +114,6 @@ __Downloads__: 1,060 | __Repository__:
 Contains function toolset for Xpressducks IT personnel.
 
 __Downloads__: 138 | __Repository__: 
-
-## [PSTcpIp](https://www.powershellgallery.com/Packages/PSTcpIp/4.3.5) | 4.3.5
-
-### Published: 09/18/2023 16:00:16 by Anthony Guimelli
-
-Provides cmdlets to perform various TCPIP and TLS/SSL related tasks.
-
-__Downloads__: 1,724 | __Repository__: https://github.com/anthonyg-1/PSTcpIp
 
 ## [tenthirtyam.module.test](https://www.powershellgallery.com/Packages/tenthirtyam.module.test/1.9.0.1000) | 1.9.0.1000
 
@@ -192,14 +272,6 @@ A PowerShell module for the Jamf classic api
 
 __Downloads__: 37 | __Repository__: https://github.com/TrustyTristan/JamfPSPro
 
-## [Test-PowerPing](https://www.powershellgallery.com/Packages/Test-PowerPing/1.0) | 1.0
-
-### Published: 09/18/2023 01:49:30 by Hunter Hirsch
-
-Test-PowerPing sends single pings to IPv4 addresses asynchronously within a given IPv4 address range using PowerShell Runspaces. Can also be used to calculate addresses within a given IPv4 address range using “-AddressOnly” switch and “IPFilter”. Ranges that are consistently used can be saved using “Sites” Parameter Set and can be referenced using “-Site <sitename>” syntax. Each Parameter Set (Address, Targets, Sites) has several control parameters available.
-
-__Downloads__: 0 | __Repository__: 
-
 ## [AOVPNTools](https://www.powershellgallery.com/Packages/AOVPNTools/1.7.2) | 1.7.2
 
 ### Published: 09/18/2023 00:36:14 by Richard M. Hicks
@@ -239,14 +311,6 @@ __Downloads__: 182 | __Repository__: https://github.com/MariusStorhaug/Fonts
 Cross-platform custom powershell autocomplete / tab expansion
 
 __Downloads__: 299 | __Repository__: https://github.com/ieviev/pscomplete/
-
-## [tiPS](https://www.powershellgallery.com/Packages/tiPS/0.3.0) | 0.3.0
-
-### Published: 09/17/2023 19:26:37 by Daniel Schroeder
-
-PowerShell tips delivered straight to your terminal.
-
-__Downloads__: 345 | __Repository__: https://github.com/deadlydog/PowerShell.tiPS
 
 ## [NerdFonts](https://www.powershellgallery.com/Packages/NerdFonts/0.0.13) | 0.0.13
 
@@ -384,14 +448,6 @@ PowerShell Module for GitHub.Teams
 
 __Downloads__: 563 | __Repository__: https://github.com/MariusStorhaug/GitHub
 
-## [GitHub.RateLimit](https://www.powershellgallery.com/Packages/GitHub.RateLimit/0.0.12) | 0.0.12
-
-### Published: 09/17/2023 17:10:08 by Marius Storhaug
-
-PowerShell Module for GitHub.RateLimit
-
-__Downloads__: 648 | __Repository__: https://github.com/MariusStorhaug/GitHub
-
 ## [GitHub.Codespaces](https://www.powershellgallery.com/Packages/GitHub.Codespaces/0.0.12) | 0.0.12
 
 ### Published: 09/17/2023 17:10:08 by Marius Storhaug
@@ -399,6 +455,14 @@ __Downloads__: 648 | __Repository__: https://github.com/MariusStorhaug/GitHub
 PowerShell Module for GitHub.Codespaces
 
 __Downloads__: 610 | __Repository__: https://github.com/MariusStorhaug/GitHub
+
+## [GitHub.RateLimit](https://www.powershellgallery.com/Packages/GitHub.RateLimit/0.0.12) | 0.0.12
+
+### Published: 09/17/2023 17:10:08 by Marius Storhaug
+
+PowerShell Module for GitHub.RateLimit
+
+__Downloads__: 648 | __Repository__: https://github.com/MariusStorhaug/GitHub
 
 ## [GitHub.GitDatabase](https://www.powershellgallery.com/Packages/GitHub.GitDatabase/0.0.2) | 0.0.2
 
@@ -544,14 +608,6 @@ PowerShell Module for GitHub.Search
 
 __Downloads__: 616 | __Repository__: https://github.com/MariusStorhaug/GitHub
 
-## [GitHub.Billing](https://www.powershellgallery.com/Packages/GitHub.Billing/0.0.12) | 0.0.12
-
-### Published: 09/17/2023 17:09:22 by Marius Storhaug
-
-PowerShell Module for GitHub.Billing
-
-__Downloads__: 621 | __Repository__: https://github.com/MariusStorhaug/GitHub
-
 ## [GitHub.Pulls](https://www.powershellgallery.com/Packages/GitHub.Pulls/0.0.11) | 0.0.11
 
 ### Published: 09/17/2023 17:09:22 by Marius Storhaug
@@ -559,6 +615,14 @@ __Downloads__: 621 | __Repository__: https://github.com/MariusStorhaug/GitHub
 PowerShell Module for GitHub.Pulls
 
 __Downloads__: 574 | __Repository__: https://github.com/MariusStorhaug/GitHub
+
+## [GitHub.Billing](https://www.powershellgallery.com/Packages/GitHub.Billing/0.0.12) | 0.0.12
+
+### Published: 09/17/2023 17:09:22 by Marius Storhaug
+
+PowerShell Module for GitHub.Billing
+
+__Downloads__: 621 | __Repository__: https://github.com/MariusStorhaug/GitHub
 
 ## [GitHub.Issues](https://www.powershellgallery.com/Packages/GitHub.Issues/0.0.12) | 0.0.12
 
@@ -631,14 +695,6 @@ __Downloads__: 577 | __Repository__: https://github.com/MariusStorhaug/GitHub
 PowerShell Module for GitHub.Commits
 
 __Downloads__: 565 | __Repository__: https://github.com/MariusStorhaug/GitHub
-
-## [PSRule.Rules.AzureDevOps](https://www.powershellgallery.com/Packages/PSRule.Rules.AzureDevOps/0.0.5) | 0.0.5
-
-### Published: 09/17/2023 16:42:05 by Roderick Bant
-
-PSRule rules for Azure DevOps project configuration best practices
-
-__Downloads__: 0 | __Repository__: https://github.com/cloudyspells/PSRule.Rules.AzureDevOps
 
 ## [PoshSonarr](https://www.powershellgallery.com/Packages/PoshSonarr/1.4.7) | 1.4.7
 
@@ -1035,14 +1091,6 @@ __Downloads__: 43 | __Repository__: https://github.com/anthonyg-1/PSKubernetesSe
 Manage https://www.billomat.com/ using the REST interface.
 
 __Downloads__: 681 | __Repository__: 
-
-## [BinaryTree.Internal.Power365.Dev](https://www.powershellgallery.com/Packages/BinaryTree.Internal.Power365.Dev/20.12.13.412) | 20.12.13.412
-
-### Published: 09/14/2023 16:21:29 by BinaryTreePackagePublisher
-
-PowerShell Management cmdlets for Binary Tree Power365
-
-__Downloads__: 6,221 | __Repository__: 
 
 ## [AutotaskRestAPI](https://www.powershellgallery.com/Packages/AutotaskRestAPI/0.4) | 0.4
 
@@ -2041,52 +2089,4 @@ This modules provides Cmdlets for OCI Dataflow Service
 
 __Downloads__: 5,472 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-## [OCI.PSModules.Datacatalog](https://www.powershellgallery.com/Packages/OCI.PSModules.Datacatalog/67.1.0) | 67.1.0
-
-### Published: 09/12/2023 23:53:25 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Datacatalog Service
-
-__Downloads__: 3,960 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Databasetools](https://www.powershellgallery.com/Packages/OCI.PSModules.Databasetools/67.1.0) | 67.1.0
-
-### Published: 09/12/2023 23:53:16 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Databasetools Service
-
-__Downloads__: 2,611 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Databasemigration](https://www.powershellgallery.com/Packages/OCI.PSModules.Databasemigration/67.1.0) | 67.1.0
-
-### Published: 09/12/2023 23:53:08 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Databasemigration Service
-
-__Downloads__: 3,210 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Databasemanagement](https://www.powershellgallery.com/Packages/OCI.PSModules.Databasemanagement/67.1.0) | 67.1.0
-
-### Published: 09/12/2023 23:53:00 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Databasemanagement Service
-
-__Downloads__: 3,416 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Database](https://www.powershellgallery.com/Packages/OCI.PSModules.Database/67.1.0) | 67.1.0
-
-### Published: 09/12/2023 23:52:52 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Database Service
-
-__Downloads__: 4,650 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Dashboardservice](https://www.powershellgallery.com/Packages/OCI.PSModules.Dashboardservice/67.1.0) | 67.1.0
-
-### Published: 09/12/2023 23:52:43 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Dashboardservice Service
-
-__Downloads__: 2,767 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-*Updated: Monday, 18 September 2023 17:54:55 UTC*
+*Updated: Tuesday, 19 September 2023 02:03:09 UTC*
