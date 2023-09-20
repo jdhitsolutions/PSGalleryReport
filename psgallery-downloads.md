@@ -1473,9 +1473,9 @@ This PowerShell module contains PowerCLI Sdk.
 
 __Downloads__: 13,465,546 | __Repository__: https://developer.vmware.com/powercli
 
-## [Microsoft.Graph.Authentication](https://www.powershellgallery.com/Packages/Microsoft.Graph.Authentication/2.5.0) | 2.5.0
+## [Microsoft.Graph.Authentication](https://www.powershellgallery.com/Packages/Microsoft.Graph.Authentication/2.6.0) | 2.6.0
 
-### Published: 09/07/2023 16:31:35 by Microsoft
+### Published: 09/20/2023 04:28:24 by Microsoft
 
 Microsoft Graph PowerShell Authentication Module.
 
@@ -2100,9 +2100,9 @@ The module includes cmdlets to manage MSP360 (CloudBerry) Backup agent, MBS API 
 
 __Downloads__: 3,763,076 | __Repository__: https://mspbackups.com/AP/Help/powershell
 
-## [Microsoft.Graph.Groups](https://www.powershellgallery.com/Packages/Microsoft.Graph.Groups/2.5.0) | 2.5.0
+## [Microsoft.Graph.Groups](https://www.powershellgallery.com/Packages/Microsoft.Graph.Groups/2.6.0) | 2.6.0
 
-### Published: 09/07/2023 16:32:31 by Microsoft Corporation
+### Published: 09/20/2023 04:29:18 by Microsoft Corporation
 
 Microsoft Graph PowerShell Cmdlets
 
@@ -2126,9 +2126,9 @@ PSScriptAnalyzer provides script analysis and checks for potential code defects 
 
 __Downloads__: 3,668,068 | __Repository__: https://github.com/PowerShell/PSScriptAnalyzer
 
-## [Microsoft.Graph.Teams](https://www.powershellgallery.com/Packages/Microsoft.Graph.Teams/2.5.0) | 2.5.0
+## [Microsoft.Graph.Teams](https://www.powershellgallery.com/Packages/Microsoft.Graph.Teams/2.6.0) | 2.6.0
 
-### Published: 09/07/2023 16:33:18 by Microsoft Corporation
+### Published: 09/20/2023 04:30:03 by Microsoft Corporation
 
 Microsoft Graph PowerShell Cmdlets
 
@@ -2181,25 +2181,25 @@ Added help URI to module.
 
 __Downloads__: 3,573,395 | __Repository__: 
 
-## [Microsoft.Graph.Users](https://www.powershellgallery.com/Packages/Microsoft.Graph.Users/2.5.0) | 2.5.0
+## [Microsoft.Graph.Users](https://www.powershellgallery.com/Packages/Microsoft.Graph.Users/2.6.0) | 2.6.0
 
-### Published: 09/07/2023 16:33:27 by Microsoft Corporation
+### Published: 09/20/2023 04:30:11 by Microsoft Corporation
 
 Microsoft Graph PowerShell Cmdlets
 
 __Downloads__: 3,573,226 | __Repository__: https://github.com/microsoftgraph/msgraph-sdk-powershell
 
-## [Microsoft.Graph.Planner](https://www.powershellgallery.com/Packages/Microsoft.Graph.Planner/2.5.0) | 2.5.0
+## [Microsoft.Graph.Planner](https://www.powershellgallery.com/Packages/Microsoft.Graph.Planner/2.6.0) | 2.6.0
 
-### Published: 09/07/2023 16:32:59 by Microsoft Corporation
+### Published: 09/20/2023 04:29:44 by Microsoft Corporation
 
 Microsoft Graph PowerShell Cmdlets
 
 __Downloads__: 3,555,881 | __Repository__: https://github.com/microsoftgraph/msgraph-sdk-powershell
 
-## [Microsoft.Graph.Identity.DirectoryManagement](https://www.powershellgallery.com/Packages/Microsoft.Graph.Identity.DirectoryManagement/2.5.0) | 2.5.0
+## [Microsoft.Graph.Identity.DirectoryManagement](https://www.powershellgallery.com/Packages/Microsoft.Graph.Identity.DirectoryManagement/2.6.0) | 2.6.0
 
-### Published: 09/07/2023 16:32:34 by Microsoft Corporation
+### Published: 09/20/2023 04:29:21 by Microsoft Corporation
 
 Microsoft Graph PowerShell Cmdlets
 
@@ -2229,4 +2229,4 @@ This module contains DSC resources for the management and configuration of Windo
 
 __Downloads__: 3,353,514 | __Repository__: https://github.com/dsccommunity/xDnsServer
 
-*Updated: Wednesday, 20 September 2023 02:02:21 UTC*
+*Updated: Wednesday, 20 September 2023 09:52:44 UTC*
