@@ -3,13 +3,122 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
-## [tiPS](https://www.powershellgallery.com/Packages/tiPS/0.3.2) | 0.3.2
+## [GitHub](https://www.powershellgallery.com/Packages/GitHub/0.0.38) | 0.0.38
 
-### Published: 09/19/2023 17:25:16 by Daniel Schroeder
+### Published: 09/20/2023 01:25:59 by Marius Storhaug
+
+PowerShell Module for GitHub
+
+__Downloads__: 1,392 | __Repository__: https://github.com/PSModule/GitHub
+
+## [DattoAPI](https://www.powershellgallery.com/Packages/DattoAPI/2.2.0) | 2.2.0
+
+### Published: 09/20/2023 01:13:41 by David Schulte
+
+This module provides a PowerShell wrapper for the Datto BCDR & SaaS API.
+
+__Downloads__: 74 | __Repository__: https://github.com/Celerium/Datto-PowerShellWrapper
+
+## [Utilities](https://www.powershellgallery.com/Packages/Utilities/0.0.26) | 0.0.26
+
+### Published: 09/20/2023 00:20:57 by Marius Storhaug
+
+PowerShell Module of Utilities
+
+__Downloads__: 692 | __Repository__: https://github.com/MariusStorhaug/Utilities
+
+## [OGraph](https://www.powershellgallery.com/Packages/OGraph/0.0.1.11) | 0.0.1.11
+
+### Published: 09/19/2023 23:05:48 by Ben Pulido Mike Campbell
+
+PowerShell functions for administration of Microsoft 365 services using Graph endpoints
+
+__Downloads__: 77 | __Repository__: https://github.com/themodulecollective/OGraph
+
+## [WDACConfig](https://www.powershellgallery.com/Packages/WDACConfig/0.2.3) | 0.2.3
+
+### Published: 09/19/2023 21:38:48 by HotCakeX
+
+This is an advanced PowerShell module for WDAC (Windows Defender Application Control) and automates a lot of tasks.
+
+
+🟢 Please see the GitHub page for Full details and everything about the module: https://github.com/HotCakeX/Harden-Windows-Security/wiki/WDACConfig
+
+
+🛡️ Here is the list of module's cmdlets
+
+✔️ New-WDACConfig: https://github.com/HotCakeX/Harden-Windows-Security/wiki/New-WDACConfig
+
+✔️ New-SupplementalWDACConfig: https://github.com/HotCakeX/Harden-Windows-Security/wiki/New-SupplementalWDACConfig
+
+✔️ Remove-WDACConfig: https://github.com/HotCakeX/Harden-Windows-Security/wiki/Remove-WDACConfig
+
+✔️ Edit-WDACConfig: https://github.com/HotCakeX/Harden-Windows-Security/wiki/Edit-WDACConfig
+
+✔️ Edit-SignedWDACConfig: https://github.com/HotCakeX/Harden-Windows-Security/wiki/Edit-SignedWDACConfig
+
+✔️ Deploy-SignedWDACConfig: https://github.com/HotCakeX/Harden-Windows-Security/wiki/Deploy-SignedWDACConfig
+
+✔️ Confirm-WDACConfig: https://github.com/HotCakeX/Harden-Windows-Security/wiki/Confirm-WDACConfig
+
+✔️ New-DenyWDACConfig: https://github.com/HotCakeX/Harden-Windows-Security/wiki/New-DenyWDACConfig
+
+✔️ Set-CommonWDACConfig: https://github.com/HotCakeX/Harden-Windows-Security/wiki/Set-CommonWDACConfig
+
+✔️ New-KernelModeWDACConfig: https://github.com/HotCakeX/Harden-Windows-Security/wiki/New%E2%80%90KernelModeWDACConfig
+
+✔️ Get-CommonWDACConfig: https://github.com/HotCakeX/Harden-Windows-Security/wiki/Get-CommonWDACConfig
+
+✔️ Invoke-WDACSimulation: https://github.com/HotCakeX/Harden-Windows-Security/wiki/Invoke-WDACSimulation
+
+To get help and syntax on PowerShell console, type:
+"Get-Command -Module WDACConfig"
+"Get-Help New-WDACConfig"
+"Get-Help New-SupplementalWDACConfig"
+"Get-Help Remove-WDACConfig"
+"Get-Help Edit-WDACConfig"
+"Get-Help Edit-SignedWDACConfig"
+"Get-Help Deploy-SignedWDACConfig"
+"Get-Help Confirm-WDACConfig"
+"Get-Help New-DenyWDACConfig"
+"Get-Help Set-CommonWDACConfig"
+"Get-help New-KernelModeWDACConfig"
+"Get-help Get-CommonWDACConfig"
+"Get-help Invoke-WDACSimulation"
+
+__Downloads__: 575 | __Repository__: https://github.com/HotCakeX/Harden-Windows-Security/wiki/WDACConfig
+
+## [PSTcpIp](https://www.powershellgallery.com/Packages/PSTcpIp/4.5.2) | 4.5.2
+
+### Published: 09/19/2023 20:06:45 by Anthony Guimelli
+
+Provides cmdlets to perform various TCPIP and TLS/SSL related tasks.
+
+__Downloads__: 1,724 | __Repository__: https://github.com/anthonyg-1/PSTcpIp
+
+## [tiPS](https://www.powershellgallery.com/Packages/tiPS/0.3.5) | 0.3.5
+
+### Published: 09/19/2023 19:06:30 by Daniel Schroeder
 
 PowerShell tips delivered straight to your terminal.
 
 __Downloads__: 345 | __Repository__: https://github.com/deadlydog/PowerShell.tiPS
+
+## [IdentityCommand](https://www.powershellgallery.com/Packages/IdentityCommand/0.1.39) | 0.1.39
+
+### Published: 09/19/2023 18:45:23 by Pete Maan
+
+Enables user interaction with the API for the CyberArk Identity platform
+
+__Downloads__: 33 | __Repository__: https://github.com/pspete/IdentityCommand/
+
+## [O365Essentials](https://www.powershellgallery.com/Packages/O365Essentials/0.0.12) | 0.0.12
+
+### Published: 09/19/2023 17:47:38 by Przemyslaw Klys
+
+A module that helps to manage some tasks on Office 365/Azure via undocumented API
+
+__Downloads__: 1,781 | __Repository__: https://github.com/EvotecIT/O365Essentials
 
 ## [PSZoom](https://www.powershellgallery.com/Packages/PSZoom/2.0.4.0) | 2.0.4.0
 
@@ -66,6 +175,14 @@ __Downloads__: 8,144 | __Repository__: https://github.com/TheTaylorLee/AdminTool
 Functions to Automate Bulk VMWare Tasks
 
 __Downloads__: 14,927 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [AdminToolbox.Remoting](https://www.powershellgallery.com/Packages/AdminToolbox.Remoting/1.9.105) | 1.9.105
+
+### Published: 09/19/2023 14:19:40 by Taylor Lee
+
+Functions for remote management and access.
+
+__Downloads__: 14,827 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.Office365](https://www.powershellgallery.com/Packages/AdminToolbox.Office365/3.1.55) | 3.1.55
 
@@ -211,14 +328,6 @@ This is a compilation of common scripts used when putting up a new server.
 
 __Downloads__: 0 | __Repository__: 
 
-## [ExchangeOnlineMgmt](https://www.powershellgallery.com/Packages/ExchangeOnlineMgmt/1.0) | 1.0
-
-### Published: 09/19/2023 06:31:56 by Nik Chikersal
-
-Custom Exchange Online Module used to ease tasks via Functions
-
-__Downloads__: 0 | __Repository__: 
-
 ## [JamfPSPro](https://www.powershellgallery.com/Packages/JamfPSPro/0.0.10) | 0.0.10
 
 ### Published: 09/19/2023 05:41:25 by Tristan Brazier
@@ -226,22 +335,6 @@ __Downloads__: 0 | __Repository__:
 A PowerShell module for the Jamf classic api
 
 __Downloads__: 37 | __Repository__: https://github.com/TrustyTristan/JamfPSPro
-
-## [PowerCommander](https://www.powershellgallery.com/Packages/PowerCommander/0.9.1) | 0.9.1
-
-### Published: 09/19/2023 04:16:44 by Keeper Security Inc.
-
-PowerShell Commander
-
-__Downloads__: 0 | __Repository__: https://github.com/Keeper-Security/keeper-sdk-dotnet
-
-## [PSTcpIp](https://www.powershellgallery.com/Packages/PSTcpIp/4.3.8) | 4.3.8
-
-### Published: 09/19/2023 00:45:26 by Anthony Guimelli
-
-Provides cmdlets to perform various TCPIP and TLS/SSL related tasks.
-
-__Downloads__: 1,724 | __Repository__: https://github.com/anthonyg-1/PSTcpIp
 
 ## [Set-DeviceFirmwareSimpleUpdateREDFISH](https://www.powershellgallery.com/Packages/Set-DeviceFirmwareSimpleUpdateREDFISH/8.0.0) | 8.0.0
 
@@ -456,14 +549,6 @@ PowerShell module for configuring and optimizing Windows Server Routing and Remo
 
 __Downloads__: 1,571 | __Repository__: 
 
-## [GitHub](https://www.powershellgallery.com/Packages/GitHub/0.0.26) | 0.0.26
-
-### Published: 09/18/2023 00:24:05 by Marius Storhaug
-
-PowerShell Module for GitHub
-
-__Downloads__: 1,392 | __Repository__: https://github.com/PSModule/GitHub
-
 ## [WindowsUtils](https://www.powershellgallery.com/Packages/WindowsUtils/1.9.0) | 1.9.0
 
 ### Published: 09/18/2023 00:17:21 by Francisco Nabas
@@ -519,22 +604,6 @@ __Downloads__: 76 | __Repository__: https://github.com/MariusStorhaug/PublicIP
 PowerShell module to query the ArubaCX Switch API
 
 __Downloads__: 844 | __Repository__: https://github.com/PowerAruba/PowerArubaCX
-
-## [Utilities](https://www.powershellgallery.com/Packages/Utilities/0.0.24) | 0.0.24
-
-### Published: 09/17/2023 18:55:56 by Marius Storhaug
-
-PowerShell Module of Utilities
-
-__Downloads__: 692 | __Repository__: https://github.com/MariusStorhaug/Utilities
-
-## [DattoAPI](https://www.powershellgallery.com/Packages/DattoAPI/2.1.0) | 2.1.0
-
-### Published: 09/17/2023 17:12:42 by David Schulte
-
-This module provides a PowerShell wrapper for the Datto BCDR & SaaS API.
-
-__Downloads__: 74 | __Repository__: https://github.com/Celerium/Datto-PowerShellWrapper
 
 ## [GitHub.SecretScanning](https://www.powershellgallery.com/Packages/GitHub.SecretScanning/0.0.12) | 0.0.12
 
@@ -656,14 +725,6 @@ PowerShell Module for GitHub.Branches
 
 __Downloads__: 574 | __Repository__: https://github.com/MariusStorhaug/GitHub
 
-## [GitHub.DependencyGraph](https://www.powershellgallery.com/Packages/GitHub.DependencyGraph/0.0.2) | 0.0.2
-
-### Published: 09/17/2023 17:09:58 by Marius Storhaug
-
-PowerShell Module for GitHub.DependencyGraph
-
-__Downloads__: 4 | __Repository__: https://github.com/MariusStorhaug/GitHub
-
 ## [GitHub.Deployments](https://www.powershellgallery.com/Packages/GitHub.Deployments/0.0.9) | 0.0.9
 
 ### Published: 09/17/2023 17:09:58 by Marius Storhaug
@@ -671,6 +732,14 @@ __Downloads__: 4 | __Repository__: https://github.com/MariusStorhaug/GitHub
 PowerShell Module for GitHub.Deployments
 
 __Downloads__: 577 | __Repository__: https://github.com/MariusStorhaug/GitHub
+
+## [GitHub.DependencyGraph](https://www.powershellgallery.com/Packages/GitHub.DependencyGraph/0.0.2) | 0.0.2
+
+### Published: 09/17/2023 17:09:58 by Marius Storhaug
+
+PowerShell Module for GitHub.DependencyGraph
+
+__Downloads__: 4 | __Repository__: https://github.com/MariusStorhaug/GitHub
 
 ## [GitHub.Users](https://www.powershellgallery.com/Packages/GitHub.Users/0.0.12) | 0.0.12
 
@@ -784,14 +853,6 @@ PowerShell Module for GitHub.Search
 
 __Downloads__: 616 | __Repository__: https://github.com/MariusStorhaug/GitHub
 
-## [GitHub.Billing](https://www.powershellgallery.com/Packages/GitHub.Billing/0.0.12) | 0.0.12
-
-### Published: 09/17/2023 17:09:22 by Marius Storhaug
-
-PowerShell Module for GitHub.Billing
-
-__Downloads__: 621 | __Repository__: https://github.com/MariusStorhaug/GitHub
-
 ## [GitHub.Pulls](https://www.powershellgallery.com/Packages/GitHub.Pulls/0.0.11) | 0.0.11
 
 ### Published: 09/17/2023 17:09:22 by Marius Storhaug
@@ -799,6 +860,14 @@ __Downloads__: 621 | __Repository__: https://github.com/MariusStorhaug/GitHub
 PowerShell Module for GitHub.Pulls
 
 __Downloads__: 574 | __Repository__: https://github.com/MariusStorhaug/GitHub
+
+## [GitHub.Billing](https://www.powershellgallery.com/Packages/GitHub.Billing/0.0.12) | 0.0.12
+
+### Published: 09/17/2023 17:09:22 by Marius Storhaug
+
+PowerShell Module for GitHub.Billing
+
+__Downloads__: 621 | __Repository__: https://github.com/MariusStorhaug/GitHub
 
 ## [GitHub.Webhooks](https://www.powershellgallery.com/Packages/GitHub.Webhooks/0.0.9) | 0.0.9
 
@@ -1041,14 +1110,6 @@ __Downloads__: 363 | __Repository__: https://github.com/StartAutomating/Posh
 PowerShell Announcements (with AtProtocol).  Shoutout to the Blue Sky!
 
 __Downloads__: 0 | __Repository__: https://github.com/StartAutomating/PSA/
-
-## [QuickFix](https://www.powershellgallery.com/Packages/QuickFix/0.2.3) | 0.2.3
-
-### Published: 09/15/2023 22:49:13 by chris.mcdonald19@pm.me
-
-This script is designed to minimise the impact on helpdesk by automatically testing and resolving issues where possible, including flagging potential future issues to helpdesk before a user raises a ticket.
-
-__Downloads__: 17 | __Repository__: 
 
 ## [Office365-Scoutnet-synk](https://www.powershellgallery.com/Packages/Office365-Scoutnet-synk/2.0.5) | 2.0.5
 
@@ -1511,6 +1572,14 @@ __Downloads__: 195 | __Repository__:
 PowerShell commands for ansible vault file generation and transformation.
 
 __Downloads__: 0 | __Repository__: 
+
+## [ExchangeEssentials](https://www.powershellgallery.com/Packages/ExchangeEssentials/0.5.0) | 0.5.0
+
+### Published: 09/13/2023 07:28:34 by Przemyslaw Klys
+
+ExchangeEssentials
+
+__Downloads__: 44 | __Repository__: https://github.com/EvotecIT/ExchangeEssentials
 
 ## [Intersight.PowerShell](https://www.powershellgallery.com/Packages/Intersight.PowerShell/1.0.11.13515) | 1.0.11.13515
 
@@ -2065,28 +2134,4 @@ This modules provides Cmdlets for OCI Identitydataplane Service
 
 __Downloads__: 2,387 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-## [OCI.PSModules.Identity](https://www.powershellgallery.com/Packages/OCI.PSModules.Identity/67.1.0) | 67.1.0
-
-### Published: 09/12/2023 23:56:25 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Identity Service
-
-__Downloads__: 6,121 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Healthchecks](https://www.powershellgallery.com/Packages/OCI.PSModules.Healthchecks/67.1.0) | 67.1.0
-
-### Published: 09/12/2023 23:56:16 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Healthchecks Service
-
-__Downloads__: 16,424 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Governancerulescontrolplane](https://www.powershellgallery.com/Packages/OCI.PSModules.Governancerulescontrolplane/67.1.0) | 67.1.0
-
-### Published: 09/12/2023 23:56:08 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Governancerulescontrolplane Service
-
-__Downloads__: 1,819 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-*Updated: Tuesday, 19 September 2023 17:52:33 UTC*
+*Updated: Wednesday, 20 September 2023 02:02:16 UTC*
