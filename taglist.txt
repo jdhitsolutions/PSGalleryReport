@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Thursday, 21 September 2023 02:02:15 UTC
+Updated: Thursday, 21 September 2023 09:52:56 UTC
 
 .bat
 .env
@@ -854,7 +854,6 @@ branch
 brave
 brawlapi
 brawlstars
-brazencloud
 bre
 breach
 break
@@ -951,6 +950,7 @@ carbon
 carbonawarecomputing
 carbonintensity
 card
+cardwirth
 cargo
 carousel
 carrier
@@ -1398,6 +1398,7 @@ conversational
 conversion
 convert
 convert-dtexceptiontomessage
+convert-movietogif
 convert-sid
 convert-windowsimage
 converter
@@ -1425,7 +1426,6 @@ coreepower
 coreepower.common
 coreepower.config
 coreepower.lib
-coreepower.module
 coreepower.net
 coreposh
 coreutils
@@ -1611,6 +1611,7 @@ dashboardservice
 dast
 data
 data_protection
+data_security
 data-archive
 data-backup
 data-tier
@@ -1838,6 +1839,7 @@ disa
 disable
 disable-internet
 disable-psremoting
+disablefilesyncngsc
 disablestartbutton
 disablestartkey
 disasm
@@ -2205,7 +2207,6 @@ errorview
 eryph
 esae
 escape
-escapecodes
 escapesequences
 escaping
 ese
@@ -2487,8 +2488,6 @@ fitbit
 fits
 five
 five9
-fix-log
-fix-protocol
 fixlet
 fixpack
 flac
@@ -2806,7 +2805,6 @@ gremlin
 grep
 greynoise
 grid
-gridfs
 grok
 groundspeak
 group
@@ -2970,6 +2968,7 @@ hls
 hockey
 hol
 holiday
+home
 home_automation
 homebrew
 homelandsecurity
@@ -3148,7 +3147,6 @@ imei
 imi
 impala
 impersonation
-imperva
 import
 import-csv
 import-dtdriverpackpackagedefinitionsms
@@ -3306,7 +3304,6 @@ iplookup
 ipmaths
 ipp
 iprange
-ips
 ipscan
 ipv4
 ipv4ping
@@ -3318,7 +3315,6 @@ irkit
 irl
 irregular
 isadmin
-isbn
 iscsi
 isdate
 ise
@@ -3546,7 +3542,6 @@ lazywinadmin
 lbd
 lbi
 lbs
-lccn
 lcm
 lcminternals
 ldap
@@ -3854,7 +3849,6 @@ maximum
 maxoffice
 mazerat
 mb
-mbc
 mbs
 mc
 mcafee
@@ -3916,7 +3910,6 @@ messageoftheday
 messages
 messaging
 messenger
-met
 metadata
 metadataservice
 metaprogramming
@@ -3925,7 +3918,6 @@ methodinfo
 methods
 metric
 metrics
-metrolink
 mfa
 mga
 mgn
@@ -4070,7 +4062,6 @@ msaccess
 msacpi_thermalzonetemperature
 msal
 msband
-msbi
 msbuild
 mschart
 msdeploy
@@ -4149,7 +4140,6 @@ mx
 mxlookup
 mycloudrevolution
 myhub
-myip
 myitprocess
 myjson
 myjson.com
@@ -4298,7 +4288,8 @@ noproxy
 nord
 nordtools
 normal
-norskale
+norway
+norwegian
 nosql
 note
 notebook
@@ -4665,7 +4656,6 @@ patch
 patches
 patching
 path
-pathfinder
 patternmatching
 pause
 pax8
@@ -4861,7 +4851,6 @@ poshy-env-var
 poshy-ls-isms
 poshy-lucidity
 poshy-multimedia
-poshy-net
 poshy-notify-send
 poshy-sh-isms
 poshy-sshconfig
@@ -4979,6 +4968,7 @@ powershelllogger
 powershellmodule
 powershellmoduleupdate
 powershellpr0mpt
+powershellscript
 powershelltemplate
 powershelltraining
 powershelltypeaccelerators
@@ -5620,8 +5610,6 @@ pscommand_get-gituntrackedfiles
 pscommand_get-gitwhatchangedstylized
 pscommand_get-itemnixmode
 pscommand_get-locationgitroot
-pscommand_get-netipaddresspublic
-pscommand_get-netipaddresssimple
 pscommand_get-pwshaliasdefinition
 pscommand_get-pwshfunctiondefinition
 pscommand_get-viewer
@@ -6400,7 +6388,6 @@ pscommand_invoke-zypperverify
 pscommand_invoke-zypperversioncompare
 pscommand_invoke-zypperwhatprovides
 pscommand_invokeyumgrouplist
-pscommand_ips
 pscommand_ipy
 pscommand_ipython
 pscommand_jump
@@ -6554,7 +6541,6 @@ pscommand_mpom
 pscommand_mrperf
 pscommand_mrprep
 pscommand_mrrb
-pscommand_myip
 pscommand_new-gitbranchfromstash
 pscommand_new-gitbranchtracked
 pscommand_new-gitpatchfile
@@ -6609,7 +6595,6 @@ pscommand_peek
 pscommand_pgr
 pscommand_pi
 pscommand_pidev
-pscommand_ping
 pscommand_pip
 pscommand_pip_package_location
 pscommand_pip3
@@ -7228,8 +7213,6 @@ psfunction_get-gituntrackedfiles
 psfunction_get-gitwhatchangedstylized
 psfunction_get-itemnixmode
 psfunction_get-locationgitroot
-psfunction_get-netipaddresspublic
-psfunction_get-netipaddresssimple
 psfunction_get-pwshaliasdefinition
 psfunction_get-pwshfunctiondefinition
 psfunction_get-viewer
@@ -8086,9 +8069,6 @@ pssendgrid
 pssession
 pssharper
 psslack
-pssqlite
-pssqlitebynarymodule
-pssqlitemodule
 pssqlserver
 pssqlserverbynarymodule
 pssqlservermodule
@@ -8110,7 +8090,6 @@ pszabbix
 pubg
 public
 public-key
-public-transport
 publicapi
 publicclient
 publicfolder
@@ -8233,6 +8212,7 @@ randompassword
 randomuser
 randomusers
 rangescan
+ransomware_recovery
 ras
 raspberry-pi
 raspberrypi
@@ -8265,6 +8245,7 @@ rdpsign
 rds
 rdsgw
 react-stockcharts
+read
 read-slog
 readable
 reader
@@ -8354,7 +8335,6 @@ releasemanagement
 releasenotes
 relevance
 relic
-reload
 remediation
 remedy
 remember
@@ -8542,6 +8522,7 @@ rt
 rtu
 rubber
 rubrik
+rubriksecuritycloud
 ruby
 rule
 rulesengine
@@ -8586,6 +8567,8 @@ salesloft
 salt
 salt-api
 saltstack
+saltstackconfig
+saltstackenterprise
 sam
 saml
 saml psmodule
@@ -8672,6 +8655,7 @@ screenresolution
 screensaver
 screenshot
 script
+script_version
 script-to-assembly
 script-to-executable
 scriptanalyzer
@@ -8730,7 +8714,6 @@ securegopher+
 securemfa
 securerdp
 securescore
-securesphere
 securestring
 security
 security-awareness-training
@@ -8981,6 +8964,8 @@ skypeforbusinessonline
 skypeonline
 skytap
 slack
+slash
+slashcommands
 sln
 slugify
 sm
@@ -9033,7 +9018,6 @@ snowflake
 snsmssqlpsmodule
 snspsadgroupmembers
 snspsscriptsmonitoring
-snssqlitepsmodule
 sntp
 soap
 soc
@@ -9154,9 +9138,6 @@ sqldiagapi
 sqlexport
 sqlgateway
 sqlite
-sqlitebynarymodule
-sqlitebynarypsmodule
-sqlitemodule
 sqllocaldb
 sqlpackage
 sqlplus
@@ -9164,7 +9145,6 @@ sqlproj
 sqlproject
 sqlps
 sqlserver
-sqlserveragent
 sqlserverbynarymodule
 sqlserverbynarypsmodule
 sqlservermodule
@@ -9180,6 +9160,7 @@ srylius-write
 ssas
 ssc
 ssdt
+sse
 ssh
 ssh-config
 ssh-keygen
@@ -9211,7 +9192,6 @@ staging
 stale
 stan
 stanc
-standalone
 standard
 standarderror
 standardoutput
@@ -9259,7 +9239,6 @@ stockcharts
 stocks
 stoicism
 stoics
-stop
 storablecolortheme
 storage
 storageaccount
@@ -9655,7 +9634,6 @@ trafficmarking
 train
 training
 training-course
-tram
 transact
 transaction
 transactions
@@ -9693,7 +9671,6 @@ trick
 tricks
 trigger
 triodos
-tripunkt
 troubleshoot
 troubleshooting
 trouw
@@ -9885,6 +9862,7 @@ uplink
 upn
 ups
 upsource
+upstream
 uptime
 uptimerobot
 uptobox
@@ -10025,7 +10003,6 @@ virtualappliance
 virtualbox
 virtualboxguestadditions
 virtualdesktop
-virtualdesktopdevops
 virtualengine
 virtualenv
 virtualenv-manager
@@ -10479,6 +10456,7 @@ xiaomi
 xin
 xkcd
 xliff
+xlsx
 xmc
 xml
 xml-rpc
