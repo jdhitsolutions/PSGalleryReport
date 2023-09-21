@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Thursday, 21 September 2023 09:52:56 UTC
+Updated: Thursday, 21 September 2023 17:53:04 UTC
 
 .bat
 .env
@@ -33,6 +33,7 @@ Updated: Thursday, 21 September 2023 09:52:56 UTC
 2016
 2018
 2019
+21vianet
 24-bit
 2fa
 300
@@ -335,7 +336,6 @@ antivirus
 any
 anyconnect
 anypackage
-anypoint
 anywhere
 aovpn psmodule
 apache
@@ -524,7 +524,6 @@ authoring
 authoringtools
 authority
 authorization
-authorizationheaders
 authorize.net
 authz
 autify
@@ -685,7 +684,6 @@ azurestack
 azurestackhci
 azurestate
 azurestorage
-azurestorageservices
 azuretable
 azurevirtualdesktop
 azurevirtualmachines
@@ -854,6 +852,7 @@ branch
 brave
 brawlapi
 brawlstars
+brazencloud
 bre
 breach
 break
@@ -1426,6 +1425,7 @@ coreepower
 coreepower.common
 coreepower.config
 coreepower.lib
+coreepower.module
 coreepower.net
 coreposh
 coreutils
@@ -1602,7 +1602,6 @@ dagger
 daily
 dangling
 dapr
-dare
 dark
 dash
 dashboard
@@ -1839,7 +1838,6 @@ disa
 disable
 disable-internet
 disable-psremoting
-disablefilesyncngsc
 disablestartbutton
 disablestartkey
 disasm
@@ -1945,7 +1943,6 @@ dok
 dokuwiki
 domain
 domains
-domino
 donothing
 dos
 dot
@@ -2207,6 +2204,7 @@ errorview
 eryph
 esae
 escape
+escapecodes
 escapesequences
 escaping
 ese
@@ -2282,6 +2280,7 @@ exchange2010
 exchange2013
 exchange2016
 exchangecluster
+exchangehybrid
 exchangemigration
 exchangeon-premise
 exchangeon-premises
@@ -2304,7 +2303,6 @@ exists
 exitcode
 exitprocessrequest
 exo
-exock
 exov2
 exov3
 exp
@@ -2488,6 +2486,8 @@ fitbit
 fits
 five
 five9
+fix-log
+fix-protocol
 fixlet
 fixpack
 flac
@@ -2805,6 +2805,7 @@ gremlin
 grep
 greynoise
 grid
+gridfs
 grok
 groundspeak
 group
@@ -2891,7 +2892,6 @@ hcx
 hdfs
 hdinsight
 header
-headhunter
 health
 health_checks
 healthbot
@@ -3304,6 +3304,7 @@ iplookup
 ipmaths
 ipp
 iprange
+ips
 ipscan
 ipv4
 ipv4ping
@@ -3362,6 +3363,7 @@ java
 javamanager
 javascript
 javaversion
+jboss
 jdbc
 jde
 jdedwards
@@ -3377,7 +3379,6 @@ jnet
 jnetps
 joat
 job
-jobcan
 jobs
 jobscheduler
 johnshopkins
@@ -3574,7 +3575,6 @@ lf
 lgpo
 lib
 libgit2
-libraries
 library
 libvirt
 licence
@@ -3653,7 +3653,6 @@ location
 locationbasedservices
 lock
 lockbox
-lockdisplaytimeout
 lockdown
 locking
 lockoutreport
@@ -3722,7 +3721,6 @@ longfiles
 longitude
 look
 lookup
-loop
 loopback
 loremipsum
 love
@@ -3849,6 +3847,7 @@ maximum
 maxoffice
 mazerat
 mb
+mbc
 mbs
 mc
 mcafee
@@ -3864,7 +3863,6 @@ mdatp
 mdb
 mdbc
 mde
-mdep
 mdm
 mdop
 mdt
@@ -3910,6 +3908,7 @@ messageoftheday
 messages
 messaging
 messenger
+met
 metadata
 metadataservice
 metaprogramming
@@ -3918,6 +3917,7 @@ methodinfo
 methods
 metric
 metrics
+metrolink
 mfa
 mga
 mgn
@@ -4108,8 +4108,6 @@ mstsc
 msu
 msvc
 msword
-mule
-mulesoft
 multi-factor
 multi-language
 multi-platform
@@ -4140,6 +4138,7 @@ mx
 mxlookup
 mycloudrevolution
 myhub
+myip
 myitprocess
 myjson
 myjson.com
@@ -4656,6 +4655,7 @@ patch
 patches
 patching
 path
+pathfinder
 patternmatching
 pause
 pax8
@@ -4851,6 +4851,7 @@ poshy-env-var
 poshy-ls-isms
 poshy-lucidity
 poshy-multimedia
+poshy-net
 poshy-notify-send
 poshy-sh-isms
 poshy-sshconfig
@@ -4915,7 +4916,6 @@ powerbiembeddedcapacity
 powerbot
 powercli
 powercligoodies
-powercommander
 powerdex
 powerforensics
 powergraph
@@ -5610,6 +5610,8 @@ pscommand_get-gituntrackedfiles
 pscommand_get-gitwhatchangedstylized
 pscommand_get-itemnixmode
 pscommand_get-locationgitroot
+pscommand_get-netipaddresspublic
+pscommand_get-netipaddresssimple
 pscommand_get-pwshaliasdefinition
 pscommand_get-pwshfunctiondefinition
 pscommand_get-viewer
@@ -6388,6 +6390,7 @@ pscommand_invoke-zypperverify
 pscommand_invoke-zypperversioncompare
 pscommand_invoke-zypperwhatprovides
 pscommand_invokeyumgrouplist
+pscommand_ips
 pscommand_ipy
 pscommand_ipython
 pscommand_jump
@@ -6541,6 +6544,7 @@ pscommand_mpom
 pscommand_mrperf
 pscommand_mrprep
 pscommand_mrrb
+pscommand_myip
 pscommand_new-gitbranchfromstash
 pscommand_new-gitbranchtracked
 pscommand_new-gitpatchfile
@@ -6595,6 +6599,7 @@ pscommand_peek
 pscommand_pgr
 pscommand_pi
 pscommand_pidev
+pscommand_ping
 pscommand_pip
 pscommand_pip_package_location
 pscommand_pip3
@@ -7213,6 +7218,8 @@ psfunction_get-gituntrackedfiles
 psfunction_get-gitwhatchangedstylized
 psfunction_get-itemnixmode
 psfunction_get-locationgitroot
+psfunction_get-netipaddresspublic
+psfunction_get-netipaddresssimple
 psfunction_get-pwshaliasdefinition
 psfunction_get-pwshfunctiondefinition
 psfunction_get-viewer
@@ -8069,6 +8076,9 @@ pssendgrid
 pssession
 pssharper
 psslack
+pssqlite
+pssqlitebynarymodule
+pssqlitemodule
 pssqlserver
 pssqlserverbynarymodule
 pssqlservermodule
@@ -8090,6 +8100,7 @@ pszabbix
 pubg
 public
 public-key
+public-transport
 publicapi
 publicclient
 publicfolder
@@ -8169,7 +8180,6 @@ qrs
 quality
 qualys
 quandl
-quantum
 quarantine
 queries
 query
@@ -8245,7 +8255,6 @@ rdpsign
 rds
 rdsgw
 react-stockcharts
-read
 read-slog
 readable
 reader
@@ -8266,7 +8275,6 @@ record
 recording
 recovery
 recoveryservices
-recruiter
 recrutch
 recurse
 recursion
@@ -8335,6 +8343,7 @@ releasemanagement
 releasenotes
 relevance
 relic
+reload
 remediation
 remedy
 remember
@@ -8504,7 +8513,6 @@ routine
 rover
 royalapps
 royaldocument
-royalserver
 royalts
 royaltsx
 rpa
@@ -8652,7 +8660,6 @@ screencapture
 screenconnect
 screenfetch
 screenresolution
-screensaver
 screenshot
 script
 script_version
@@ -8750,7 +8757,6 @@ self-hosted
 self-service
 self-signed
 selfdispatch
-selfhelp
 selfsigned
 semantic
 semantic-versioning
@@ -8873,7 +8879,6 @@ sharefile
 sharepoint
 sharepoint_online
 sharepoint-on-prem
-sharepoint-online
 sharepoint-product-configuration-wizard
 sharepoint2013
 sharepointdevelopmentcommunity
@@ -9018,6 +9023,7 @@ snowflake
 snsmssqlpsmodule
 snspsadgroupmembers
 snspsscriptsmonitoring
+snssqlitepsmodule
 sntp
 soap
 soc
@@ -9138,6 +9144,9 @@ sqldiagapi
 sqlexport
 sqlgateway
 sqlite
+sqlitebynarymodule
+sqlitebynarypsmodule
+sqlitemodule
 sqllocaldb
 sqlpackage
 sqlplus
@@ -9192,6 +9201,7 @@ staging
 stale
 stan
 stanc
+standalone
 standard
 standarderror
 standardoutput
@@ -9239,6 +9249,7 @@ stockcharts
 stocks
 stoicism
 stoics
+stop
 storablecolortheme
 storage
 storageaccount
@@ -9634,6 +9645,7 @@ trafficmarking
 train
 training
 training-course
+tram
 transact
 transaction
 transactions
@@ -9671,6 +9683,7 @@ trick
 tricks
 trigger
 triodos
+tripunkt
 troubleshoot
 troubleshooting
 trouw
@@ -10230,6 +10243,7 @@ wif
 wifi
 wiki
 wildcard
+wildfly
 wim
 wim2vhd
 win
@@ -10456,7 +10470,6 @@ xiaomi
 xin
 xkcd
 xliff
-xlsx
 xmc
 xml
 xml-rpc
@@ -10488,7 +10501,6 @@ yandex
 yapg
 yarn
 yetanotherhelloworld
-yml
 ynab
 youtube
 youtube-dl
