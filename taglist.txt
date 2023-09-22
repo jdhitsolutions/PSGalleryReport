@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Thursday, 21 September 2023 17:53:04 UTC
+Updated: Friday, 22 September 2023 02:02:29 UTC
 
 .bat
 .env
@@ -379,7 +379,6 @@ application-control
 application-transformer
 application-whitelisting
 applicationgateway
-applicationgrid
 applicationhost.config
 applicationinsights
 applicationmigration
@@ -431,7 +430,6 @@ arg
 argcomplete
 argument
 argumentcompleter
-arguments
 arm
 arm-json
 arm-templates
@@ -524,6 +522,7 @@ authoring
 authoringtools
 authority
 authorization
+authorizationheaders
 authorize.net
 authz
 autify
@@ -684,6 +683,7 @@ azurestack
 azurestackhci
 azurestate
 azurestorage
+azurestorageservices
 azuretable
 azurevirtualdesktop
 azurevirtualmachines
@@ -792,7 +792,6 @@ bitcoin
 bitlocker
 bitwarden
 bitwig
-bitwise
 biztalk
 biztalkalm
 biztalkdeploymentframework
@@ -898,7 +897,6 @@ bulk
 bulletin
 bullhorn
 bundle
-bup
 burnttoast
 burpsuite
 bus
@@ -909,7 +907,6 @@ businesshours
 businessobjects
 businessrulesengine
 businesstime
-bxor
 bydesign
 byexample
 bynarypsmodule
@@ -1184,7 +1181,6 @@ cloudmarque
 cloudmigrations
 cloudpc
 cloudservice
-clueser
 cluster
 clusterminimumvalues
 clusterplugins
@@ -1236,7 +1232,6 @@ cognitiveservice
 cognitiveservices
 cohesity
 coinmarketcap
-collaboration
 collatordso
 collatz
 collection
@@ -1250,7 +1245,6 @@ color-show
 colored
 colorful
 colorized
-colorpicker
 colors
 colour
 column
@@ -1356,7 +1350,6 @@ connectionmonitor
 connections
 connectionsmanager
 connectionstring
-connectivity
 connectwise
 conservation
 console
@@ -1427,6 +1420,7 @@ coreepower.config
 coreepower.lib
 coreepower.module
 coreepower.net
+coreepower.net.soundcloudexplode
 coreposh
 coreutils
 corona
@@ -1838,6 +1832,7 @@ disa
 disable
 disable-internet
 disable-psremoting
+disablefilesyncngsc
 disablestartbutton
 disablestartkey
 disasm
@@ -1943,6 +1938,7 @@ dok
 dokuwiki
 domain
 domains
+domino
 donothing
 dos
 dot
@@ -2069,7 +2065,6 @@ e-mail
 e1
 easy
 easy-to-use
-easylife365
 easyvista
 eaton
 ebay
@@ -2518,7 +2513,6 @@ fonts
 foo
 football
 for
-force
 forcedelete
 foreach
 foreach-object
@@ -2583,7 +2577,6 @@ ftps
 fudge
 fudgepop
 fujitsu
-full
 full-metal-gnome
 fullclr
 fulljoin
@@ -2892,6 +2885,7 @@ hcx
 hdfs
 hdinsight
 header
+headhunter
 health
 health_checks
 healthbot
@@ -2976,7 +2970,6 @@ homeschooling
 hon
 hooking
 horizon
-horizontal
 hornbill
 host
 host-based
@@ -3095,7 +3088,6 @@ identity-management
 identitydataplane
 identitydirector
 identitydomains
-identitynow
 idf
 idm
 idna
@@ -3147,6 +3139,7 @@ imei
 imi
 impala
 impersonation
+imperva
 import
 import-csv
 import-dtdriverpackpackagedefinitionsms
@@ -3196,7 +3189,6 @@ innerjoin
 innertext
 input
 inputbox
-inputobject
 insert
 insiderthreat
 insight
@@ -3538,7 +3530,6 @@ latitude
 launcher
 layer
 layman
-layout
 lazywinadmin
 lbd
 lbi
@@ -3575,6 +3566,7 @@ lf
 lgpo
 lib
 libgit2
+libraries
 library
 libvirt
 licence
@@ -3653,6 +3645,7 @@ location
 locationbasedservices
 lock
 lockbox
+lockdisplaytimeout
 lockdown
 locking
 lockoutreport
@@ -3713,7 +3706,6 @@ logs
 logstash
 logtools
 logz
-loki
 lol
 lolcat
 longfile
@@ -3721,6 +3713,7 @@ longfiles
 longitude
 look
 lookup
+loop
 loopback
 loremipsum
 love
@@ -3850,7 +3843,6 @@ mb
 mbc
 mbs
 mc
-mcafee
 mcas
 mcd
 mchapv2
@@ -4037,7 +4029,6 @@ monthlyupdate
 moodle
 moonshot
 more
-mosaic
 motd
 motivation
 motivationalquotes
@@ -4287,6 +4278,7 @@ noproxy
 nord
 nordtools
 normal
+norskale
 norway
 norwegian
 nosql
@@ -4327,7 +4319,6 @@ ntdll
 ntds
 ntfs
 ntp
-ntsystems
 nuget
 nuget-references
 nuget.exe
@@ -4655,7 +4646,6 @@ patch
 patches
 patching
 path
-pathfinder
 patternmatching
 pause
 pax8
@@ -4916,6 +4906,7 @@ powerbiembeddedcapacity
 powerbot
 powercli
 powercligoodies
+powercommander
 powerdex
 powerforensics
 powergraph
@@ -5093,8 +5084,6 @@ provisonedpackage
 prowl
 prowl-notifications
 prowlapp
-proxmox
-proxmoxve
 proxsys
 proxy
 proxyfunction
@@ -8134,7 +8123,6 @@ pushd
 pushover
 pushoverapi
 putty
-pve
 pvr
 pvs
 pwa
@@ -8180,7 +8168,7 @@ qrs
 quality
 qualys
 quandl
-quarantine
+quantum
 queries
 query
 queue
@@ -8255,6 +8243,7 @@ rdpsign
 rds
 rdsgw
 react-stockcharts
+read
 read-slog
 readable
 reader
@@ -8275,6 +8264,7 @@ record
 recording
 recovery
 recoveryservices
+recruiter
 recrutch
 recurse
 recursion
@@ -8343,7 +8333,6 @@ releasemanagement
 releasenotes
 relevance
 relic
-reload
 remediation
 remedy
 remember
@@ -8513,6 +8502,7 @@ routine
 rover
 royalapps
 royaldocument
+royalserver
 royalts
 royaltsx
 rpa
@@ -8567,7 +8557,6 @@ safe
 safeguard
 sage
 saggiehaim
-sailpoint
 sale
 sales
 salesforce
@@ -8660,6 +8649,7 @@ screencapture
 screenconnect
 screenfetch
 screenresolution
+screensaver
 screenshot
 script
 script_version
@@ -8721,6 +8711,7 @@ securegopher+
 securemfa
 securerdp
 securescore
+securesphere
 securestring
 security
 security-awareness-training
@@ -8757,6 +8748,7 @@ self-hosted
 self-service
 self-signed
 selfdispatch
+selfhelp
 selfsigned
 semantic
 semantic-versioning
@@ -8879,6 +8871,7 @@ sharefile
 sharepoint
 sharepoint_online
 sharepoint-on-prem
+sharepoint-online
 sharepoint-product-configuration-wizard
 sharepoint2013
 sharepointdevelopmentcommunity
@@ -9683,7 +9676,6 @@ trick
 tricks
 trigger
 triodos
-tripunkt
 troubleshoot
 troubleshooting
 trouw
@@ -9920,6 +9912,7 @@ utf-sig
 utf7
 utf8
 utf8-sig
+utf8bom
 util
 utilities
 utility
@@ -9996,7 +9989,6 @@ version
 versioning
 versionmanager
 versionnumber
-vertical
 vester
 vhd
 vhdx
@@ -10016,6 +10008,7 @@ virtualappliance
 virtualbox
 virtualboxguestadditions
 virtualdesktop
+virtualdesktopdevops
 virtualengine
 virtualenv
 virtualenv-manager
@@ -10097,7 +10090,6 @@ vps
 vra
 vrchat
 vrealize
-vrising
 vro
 vrops
 vrsns
@@ -10470,6 +10462,7 @@ xiaomi
 xin
 xkcd
 xliff
+xlsx
 xmc
 xml
 xml-rpc
@@ -10478,7 +10471,6 @@ xmla
 xmlrpc
 xmlutils
 xoauth2
-xor
 xpath
 xpendingreboot
 xpertdoc
@@ -10501,6 +10493,7 @@ yandex
 yapg
 yarn
 yetanotherhelloworld
+yml
 ynab
 youtube
 youtube-dl
