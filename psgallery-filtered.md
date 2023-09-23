@@ -3,6 +3,62 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [GitHub](https://www.powershellgallery.com/Packages/GitHub/0.0.74) | 0.0.74
+
+### Published: 09/23/2023 00:21:06 by Marius Storhaug
+
+PowerShell Module for GitHub
+
+__Downloads__: 1,620 | __Repository__: https://github.com/PSModule/GitHub
+
+## [tiPS](https://www.powershellgallery.com/Packages/tiPS/0.3.8) | 0.3.8
+
+### Published: 09/22/2023 23:32:53 by Daniel Schroeder
+
+PowerShell tips delivered straight to your terminal.
+
+__Downloads__: 814 | __Repository__: https://github.com/deadlydog/PowerShell.tiPS
+
+## [Send-VMKeystrokes](https://www.powershellgallery.com/Packages/Send-VMKeystrokes/23.9.22.1708) | 23.9.22.1708
+
+### Published: 09/22/2023 22:09:40 by Shannon Graybrook
+
+Facilitates automation by sending keystrokes to a VMware virtual machine
+
+__Downloads__: 0 | __Repository__: https://github.com/realslacker/Send-VMKeystrokes
+
+## [HPEOneView.800](https://www.powershellgallery.com/Packages/HPEOneView.800/8.0.3642.2784) | 8.0.3642.2784
+
+### Published: 09/22/2023 21:28:56 by Hewlett-Packard Enterprise
+
+HPE OneView PowerShell Library
+
+__Downloads__: 4,509 | __Repository__: http://hewlettpackard.github.io/POSH-HPEOneView
+
+## [ManageSecretVault](https://www.powershellgallery.com/Packages/ManageSecretVault/1.0.3) | 1.0.3
+
+### Published: 09/22/2023 19:48:31 by William Griffin
+
+Three Functions for Creating, Fetching, & Removing creds from the secure vault for powershell automation.
+
+__Downloads__: 10 | __Repository__: 
+
+## [cr-devops-rest](https://www.powershellgallery.com/Packages/cr-devops-rest/2023.9.283) | 2023.9.283
+
+### Published: 09/22/2023 18:49:21 by Ryan.Phay@clearesult.com
+
+Create straight forward REST calls in PowerShell based on API endpoints defined in .json files.  Add your own REST API endpoints by simply creating new .json files.
+
+__Downloads__: 79 | __Repository__: https://github.com/CLEAResult/it.devops.psm.rest
+
+## [Thycotic.SecretServer](https://www.powershellgallery.com/Packages/Thycotic.SecretServer/0.61.4) | 0.61.4
+
+### Published: 09/22/2023 17:58:41 by Delinea Professional Services
+
+Interact with the Secret Server REST API
+
+__Downloads__: 50,075 | __Repository__: https://github.com/thycotic-ps/thycotic.secretserver
+
 ## [LogicMonitor](https://www.powershellgallery.com/Packages/LogicMonitor/2023.9.22.1) | 2023.9.22.1
 
 ### Published: 09/22/2023 15:34:53 by Mike Hashemi
@@ -108,14 +164,6 @@ Module for on premise installtion of Tisane
 
 __Downloads__: 190 | __Repository__: 
 
-## [GitHub](https://www.powershellgallery.com/Packages/GitHub/0.0.70) | 0.0.70
-
-### Published: 09/22/2023 02:20:27 by Marius Storhaug
-
-PowerShell Module for GitHub
-
-__Downloads__: 1,620 | __Repository__: https://github.com/PSModule/GitHub
-
 ## [ZabbixPS](https://www.powershellgallery.com/Packages/ZabbixPS/1.0.2) | 1.0.2
 
 ### Published: 09/21/2023 22:06:04 by Dejulia489
@@ -163,14 +211,6 @@ __Downloads__: 107,355 | __Repository__:
 a pensive cow
 
 __Downloads__: 2 | __Repository__: https://github.com/maxcai314/cowponder
-
-## [tiPS](https://www.powershellgallery.com/Packages/tiPS/0.3.7) | 0.3.7
-
-### Published: 09/21/2023 17:01:59 by Daniel Schroeder
-
-PowerShell tips delivered straight to your terminal.
-
-__Downloads__: 814 | __Repository__: https://github.com/deadlydog/PowerShell.tiPS
 
 ## [PSWriteHTML](https://www.powershellgallery.com/Packages/PSWriteHTML/1.10.0) | 1.10.0
 
@@ -226,7 +266,7 @@ __Downloads__: 71 | __Repository__:
 
 The community module that enables SQL Server Pros to automate database development and server administration
 
-__Downloads__: 3,112,570 | __Repository__: https://dbatools.io/
+__Downloads__: 3,112,533 | __Repository__: https://dbatools.io/
 
 ## [dbatools.library](https://www.powershellgallery.com/Packages/dbatools.library/2023.9.21) | 2023.9.21
 
@@ -234,7 +274,7 @@ __Downloads__: 3,112,570 | __Repository__: https://dbatools.io/
 
 The library that powers dbatools, the community module for SQL Server Pros
 
-__Downloads__: 313,052 | __Repository__: https://dbatools.io/
+__Downloads__: 312,926 | __Repository__: https://dbatools.io/
 
 ## [TeamViewerPS](https://www.powershellgallery.com/Packages/TeamViewerPS/1.5.2) | 1.5.2
 
@@ -242,7 +282,7 @@ __Downloads__: 313,052 | __Repository__: https://dbatools.io/
 
 TeamViewerPS allows to interact with the TeamViewer Web API as well as a locally installed TeamViewer client.
 
-__Downloads__: 27,100,500 | __Repository__: https://github.com/teamviewer/TeamViewerPS
+__Downloads__: 27,097,337 | __Repository__: https://github.com/teamviewer/TeamViewerPS
 
 ## [VirtualDesktop](https://www.powershellgallery.com/Packages/VirtualDesktop/1.5.6) | 1.5.6
 
@@ -282,14 +322,6 @@ __Downloads__: 4 | __Repository__:
 PowerShell Module for Rubrik Security Cloud. GraphQL schema version: v20230906-37 .
 
 __Downloads__: 229 | __Repository__: https://github.com/rubrikinc/rubrik-powershell-sdk
-
-## [ManageSecretVault](https://www.powershellgallery.com/Packages/ManageSecretVault/1.0.2) | 1.0.2
-
-### Published: 09/21/2023 01:58:00 by William Griffin
-
-Three Functions for Creating, Fetching, & Removing creds from the secure vault for powershell automation.
-
-__Downloads__: 10 | __Repository__: 
 
 ## [SqlChangeAutomation](https://www.powershellgallery.com/Packages/SqlChangeAutomation/4.6.23264.2194) | 4.6.23264.2194
 
@@ -397,6 +429,14 @@ SAP on Azure PowerShell Modules used for automation.
 
 __Downloads__: 1,502 | __Repository__: 
 
+## [Microsoft-Extractor-Suite](https://www.powershellgallery.com/Packages/Microsoft-Extractor-Suite/1.1.2) | 1.1.2
+
+### Published: 09/20/2023 08:06:50 by Joey Rentenaar & Korstiaan Stam
+
+Microsoft-Extractor-Suite is a fully-featured, actively-maintained, Powershell tool designed to streamline the process of collecting all necessary data and information from various sources within Microsoft.
+
+__Downloads__: 33 | __Repository__: 
+
 ## [CoreePower.Common](https://www.powershellgallery.com/Packages/CoreePower.Common/0.0.2) | 0.0.2
 
 ### Published: 09/20/2023 05:39:39 by Carsten Riedel
@@ -425,7 +465,7 @@ These are contained within this PowerShell Module, so regular Module updating is
 ensure you receive the latest Microsoft Updates.  Updates published in WSUS will be different
 from Microsoft Update Catalog website due to Preview Releases
 
-__Downloads__: 341,123 | __Repository__: https://github.com/OSDeploy/OSDSUS
+__Downloads__: 341,121 | __Repository__: https://github.com/OSDeploy/OSDSUS
 
 ## [OSD](https://www.powershellgallery.com/Packages/OSD/23.9.19.1) | 23.9.19.1
 
@@ -433,7 +473,7 @@ __Downloads__: 341,123 | __Repository__: https://github.com/OSDeploy/OSDSUS
 
 Workplace Ninja Summit
 
-__Downloads__: 935,622 | __Repository__: https://github.com/OSDeploy/OSD
+__Downloads__: 935,624 | __Repository__: https://github.com/OSDeploy/OSD
 
 ## [HGV.Automation.Tools](https://www.powershellgallery.com/Packages/HGV.Automation.Tools/23.9.19.15) | 23.9.19.15
 
@@ -654,7 +694,7 @@ __Downloads__: 16,556 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions for management of endpoints
 
-__Downloads__: 17,152 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 17,151 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.ActiveDirectory](https://www.powershellgallery.com/Packages/AdminToolbox.ActiveDirectory/1.9.103) | 1.9.103
 
@@ -718,7 +758,7 @@ __Downloads__: 58 | __Repository__: https://github.com/TrustyTristan/JamfPSPro
 
 PowerShell Commander
 
-__Downloads__: 118 | __Repository__: https://github.com/Keeper-Security/keeper-sdk-dotnet
+__Downloads__: 119 | __Repository__: https://github.com/Keeper-Security/keeper-sdk-dotnet
 
 ## [Set-DeviceFirmwareSimpleUpdateREDFISH](https://www.powershellgallery.com/Packages/Set-DeviceFirmwareSimpleUpdateREDFISH/8.0.0) | 8.0.0
 
@@ -751,14 +791,6 @@ __Downloads__: 514 | __Repository__:
 Manage and Control workflows and jobs with JS7 JobScheduler Controller and Agents, access the JS7 REST Web Service API
 
 __Downloads__: 558 | __Repository__: https://kb.sos-berlin.com/x/PpQwAw
-
-## [cr-devops-rest](https://www.powershellgallery.com/Packages/cr-devops-rest/2023.9.281) | 2023.9.281
-
-### Published: 09/18/2023 19:01:36 by Ryan.Phay@clearesult.com
-
-Create straight forward REST calls in PowerShell based on API endpoints defined in .json files.  Add your own REST API endpoints by simply creating new .json files.
-
-__Downloads__: 79 | __Repository__: https://github.com/CLEAResult/it.devops.psm.rest
 
 ## [BinaryTree.Internal.Power365.Dev](https://www.powershellgallery.com/Packages/BinaryTree.Internal.Power365.Dev/20.12.13.519) | 20.12.13.519
 
@@ -883,7 +915,7 @@ Supported file formats: EXE, DLL, PowerShell, MSI, CAB, AppX, MSIX, nupkg, Offic
 
 You can also use SignPath.io to sign your PowerShell scripts.
 
-__Downloads__: 104,774 | __Repository__: https://signpath.io/
+__Downloads__: 104,773 | __Repository__: https://signpath.io/
 
 ## [PSSharedGoods](https://www.powershellgallery.com/Packages/PSSharedGoods/0.0.266) | 0.0.266
 
@@ -989,14 +1021,6 @@ PowerShell Module for GitHub.Reactions
 
 __Downloads__: 611 | __Repository__: https://github.com/MariusStorhaug/GitHub
 
-## [GitHub.Repositories](https://www.powershellgallery.com/Packages/GitHub.Repositories/0.0.3) | 0.0.3
-
-### Published: 09/17/2023 17:10:22 by Marius Storhaug
-
-PowerShell Module for GitHub.Repositories
-
-__Downloads__: 24 | __Repository__: 
-
 ## [GitHub.Packages](https://www.powershellgallery.com/Packages/GitHub.Packages/0.0.12) | 0.0.12
 
 ### Published: 09/17/2023 17:10:20 by Marius Storhaug
@@ -1037,14 +1061,6 @@ PowerShell Module for GitHub.Migrations
 
 __Downloads__: 589 | __Repository__: https://github.com/MariusStorhaug/GitHub
 
-## [GitHub.Activity](https://www.powershellgallery.com/Packages/GitHub.Activity/0.0.12) | 0.0.12
-
-### Published: 09/17/2023 17:10:10 by Marius Storhaug
-
-PowerShell Module for GitHub.Activity
-
-__Downloads__: 773 | __Repository__: https://github.com/MariusStorhaug/GitHub
-
 ## [GitHub.Teams](https://www.powershellgallery.com/Packages/GitHub.Teams/0.0.12) | 0.0.12
 
 ### Published: 09/17/2023 17:10:10 by Marius Storhaug
@@ -1053,13 +1069,13 @@ PowerShell Module for GitHub.Teams
 
 __Downloads__: 574 | __Repository__: https://github.com/MariusStorhaug/GitHub
 
-## [GitHub.RateLimit](https://www.powershellgallery.com/Packages/GitHub.RateLimit/0.0.12) | 0.0.12
+## [GitHub.Activity](https://www.powershellgallery.com/Packages/GitHub.Activity/0.0.12) | 0.0.12
 
-### Published: 09/17/2023 17:10:08 by Marius Storhaug
+### Published: 09/17/2023 17:10:10 by Marius Storhaug
 
-PowerShell Module for GitHub.RateLimit
+PowerShell Module for GitHub.Activity
 
-__Downloads__: 659 | __Repository__: https://github.com/MariusStorhaug/GitHub
+__Downloads__: 773 | __Repository__: https://github.com/MariusStorhaug/GitHub
 
 ## [GitHub.Codespaces](https://www.powershellgallery.com/Packages/GitHub.Codespaces/0.0.12) | 0.0.12
 
@@ -1068,6 +1084,14 @@ __Downloads__: 659 | __Repository__: https://github.com/MariusStorhaug/GitHub
 PowerShell Module for GitHub.Codespaces
 
 __Downloads__: 621 | __Repository__: https://github.com/MariusStorhaug/GitHub
+
+## [GitHub.RateLimit](https://www.powershellgallery.com/Packages/GitHub.RateLimit/0.0.12) | 0.0.12
+
+### Published: 09/17/2023 17:10:08 by Marius Storhaug
+
+PowerShell Module for GitHub.RateLimit
+
+__Downloads__: 659 | __Repository__: https://github.com/MariusStorhaug/GitHub
 
 ## [GitHub.GitDatabase](https://www.powershellgallery.com/Packages/GitHub.GitDatabase/0.0.2) | 0.0.2
 
@@ -1085,14 +1109,6 @@ PowerShell Module for GitHub.Branches
 
 __Downloads__: 584 | __Repository__: https://github.com/MariusStorhaug/GitHub
 
-## [GitHub.DependencyGraph](https://www.powershellgallery.com/Packages/GitHub.DependencyGraph/0.0.2) | 0.0.2
-
-### Published: 09/17/2023 17:09:58 by Marius Storhaug
-
-PowerShell Module for GitHub.DependencyGraph
-
-__Downloads__: 7 | __Repository__: https://github.com/MariusStorhaug/GitHub
-
 ## [GitHub.Deployments](https://www.powershellgallery.com/Packages/GitHub.Deployments/0.0.9) | 0.0.9
 
 ### Published: 09/17/2023 17:09:58 by Marius Storhaug
@@ -1100,6 +1116,14 @@ __Downloads__: 7 | __Repository__: https://github.com/MariusStorhaug/GitHub
 PowerShell Module for GitHub.Deployments
 
 __Downloads__: 587 | __Repository__: https://github.com/MariusStorhaug/GitHub
+
+## [GitHub.DependencyGraph](https://www.powershellgallery.com/Packages/GitHub.DependencyGraph/0.0.2) | 0.0.2
+
+### Published: 09/17/2023 17:09:58 by Marius Storhaug
+
+PowerShell Module for GitHub.DependencyGraph
+
+__Downloads__: 7 | __Repository__: https://github.com/MariusStorhaug/GitHub
 
 ## [GitHub.Users](https://www.powershellgallery.com/Packages/GitHub.Users/0.0.12) | 0.0.12
 
@@ -1388,7 +1412,7 @@ The DSInternals PowerShell Module exposes several internal features of Active Di
 
 DISCLAIMER: Features exposed through this module are not supported by Microsoft and it is therefore not intended to be used in production environments. Improper use might cause irreversible damage to domain controllers or negatively impact domain security.
 
-__Downloads__: 2,367,523 | __Repository__: https://github.com/MichaelGrafnetter/DSInternals
+__Downloads__: 2,367,588 | __Repository__: https://github.com/MichaelGrafnetter/DSInternals
 
 ## [FileShareUtils](https://www.powershellgallery.com/Packages/FileShareUtils/1.0.24) | 1.0.24
 
@@ -1429,7 +1453,7 @@ __Downloads__: 700 | __Repository__: https://github.com/max-ieremenko/ThirdParty
 
 Tools for interacting with the Microsoft Graph Api
 
-__Downloads__: 24,732 | __Repository__: https://github.com/AndiBellstedt/MSGraph
+__Downloads__: 24,734 | __Repository__: https://github.com/AndiBellstedt/MSGraph
 
 ## [CopySSHKey](https://www.powershellgallery.com/Packages/CopySSHKey/1.3) | 1.3
 
@@ -1445,7 +1469,7 @@ __Downloads__: 18 | __Repository__: https://github.com/SeryiBaran/CopySSHKey-PS
 
 Import-WsusUpdate provides an alternate way of importing updates from the Microsoft Update Catalog into your local WSUS server.
 
-__Downloads__: 182 | __Repository__: https://www.ajtek.ca/
+__Downloads__: 183 | __Repository__: https://www.ajtek.ca/
 
 ## [WinGet-Essentials](https://www.powershellgallery.com/Packages/WinGet-Essentials/1.3.1) | 1.3.1
 
@@ -1576,6 +1600,14 @@ __Downloads__: 1,009 | __Repository__: https://github.com/pentawork-solutions/Pe
 PowerShell module for listing NRC articles
 
 __Downloads__: 5,976 | __Repository__: https://github.com/jhoek/UncommonSense.Nrc
+
+## [ConventionalCommits](https://www.powershellgallery.com/Packages/ConventionalCommits/0.2.3) | 0.2.3
+
+### Published: 09/15/2023 09:12:39 by Arwyn
+
+A powerhsell module dedicated to parsing conventional commits messages
+
+__Downloads__: 283 | __Repository__: https://github.com/ArwynFr/pwsh-ConventionalCommits
 
 ## [ConventionalVersioning](https://www.powershellgallery.com/Packages/ConventionalVersioning/0.1.6) | 0.1.6
 
@@ -1867,7 +1899,7 @@ __Downloads__: 1,010 | __Repository__: https://github.com/regg00/ChocoMan
 
 Interact with the Atlassian Cloud APIs using PowerShell
 
-__Downloads__: 3,938 | __Repository__: https://github.com/andylyonette/AtlassianCloudPS
+__Downloads__: 3,934 | __Repository__: https://github.com/andylyonette/AtlassianCloudPS
 
 ## [Tecman.Tfs.Tools](https://www.powershellgallery.com/Packages/Tecman.Tfs.Tools/1.1.66.0) | 1.1.66.0
 
@@ -1923,7 +1955,7 @@ __Downloads__: 5,242 | __Repository__: https://github.com/CiscoDevNet/intersight
 
 A module for authoring and building PowerShell modules
 
-__Downloads__: 122,293 | __Repository__: https://github.com/PoshCode/ModuleBuilder
+__Downloads__: 122,288 | __Repository__: https://github.com/PoshCode/ModuleBuilder
 
 ## [OCI.PSModules](https://www.powershellgallery.com/Packages/OCI.PSModules/67.1.0) | 67.1.0
 
@@ -2134,36 +2166,4 @@ This modules provides Cmdlets for OCI Queue Service
 
 __Downloads__: 1,172 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-## [OCI.PSModules.Osubusage](https://www.powershellgallery.com/Packages/OCI.PSModules.Osubusage/67.1.0) | 67.1.0
-
-### Published: 09/13/2023 00:02:15 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Osubusage Service
-
-__Downloads__: 2,349 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Osubsubscription](https://www.powershellgallery.com/Packages/OCI.PSModules.Osubsubscription/67.1.0) | 67.1.0
-
-### Published: 09/13/2023 00:02:07 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Osubsubscription Service
-
-__Downloads__: 2,355 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Osuborganizationsubscription](https://www.powershellgallery.com/Packages/OCI.PSModules.Osuborganizationsubscription/67.1.0) | 67.1.0
-
-### Published: 09/13/2023 00:01:59 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Osuborganizationsubscription Service
-
-__Downloads__: 4,139 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Osubbillingschedule](https://www.powershellgallery.com/Packages/OCI.PSModules.Osubbillingschedule/67.1.0) | 67.1.0
-
-### Published: 09/13/2023 00:01:51 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Osubbillingschedule Service
-
-__Downloads__: 2,368 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-*Updated: Friday, 22 September 2023 17:52:37 UTC*
+*Updated: Saturday, 23 September 2023 02:01:27 UTC*
