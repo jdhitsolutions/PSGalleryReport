@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Sunday, 24 September 2023 02:03:19 UTC
+Updated: Sunday, 24 September 2023 09:52:46 UTC
 
 .bat
 .env
@@ -88,6 +88,7 @@ accord
 accord.net
 accordian
 account
+accounting
 accounts
 ace
 ack
@@ -306,7 +307,6 @@ analyst
 analyth
 analytics
 analyticsrules
-analyze
 analyzer
 analyzerrules
 anchor
@@ -427,7 +427,6 @@ arcresourcebridge
 arcus
 area
 arg
-argcomplete
 argument
 argumentcompleter
 arguments
@@ -439,6 +438,7 @@ armtemplate
 armtemplates
 arp
 array
+arrays
 art
 artefactual
 artifact
@@ -593,6 +593,7 @@ azcompute
 azd
 azdisk
 azdo
+azereo
 azforensics
 azkeyvault
 aznetworking
@@ -754,8 +755,6 @@ bestpractices
 beta
 bginfo
 bi
-bibliography
-bibtex
 bicep
 bicepnet
 big-ip
@@ -879,7 +878,6 @@ btdf
 btm
 budget
 bugbounty
-bugzilla
 build
 build-log
 build-scripts
@@ -948,6 +946,7 @@ carbon
 carbonawarecomputing
 carbonintensity
 card
+cardwirth
 cargo
 carousel
 carrier
@@ -1053,6 +1052,7 @@ chefconf2016
 chenxizhang
 cherrypy
 cherwell
+chfs
 chi
 china
 chmod
@@ -1214,7 +1214,6 @@ codaamok
 code
 code-page
 code365
-codeanalysis
 codebuild
 codecommit
 codecomplexity
@@ -1253,6 +1252,7 @@ colour
 column
 columns
 com
+combinations
 combine
 comdata
 comic
@@ -1536,6 +1536,7 @@ culture
 cumulative
 cumulativeupdate
 cumulocity
+curious
 curl
 curlie
 currency
@@ -1543,7 +1544,6 @@ currency-convereter
 currency-exchange
 currencyconverterapi
 current
-curseforge
 custom
 customchecks
 customdns
@@ -1563,6 +1563,7 @@ customization
 customlocation
 customlogs
 customproviders
+cutehttpfileserver
 cvad
 cve-2021-34527
 cvrf
@@ -1670,6 +1671,7 @@ datum
 dave
 davinci
 dax
+dayinweek
 days-week
 db
 db2
@@ -2282,7 +2284,6 @@ exchangemigration
 exchangeon-premise
 exchangeon-premises
 exchangeonline
-exchangeonlineprotection
 exchangeonprem
 exchangeserver
 exchangewebservices
@@ -2312,7 +2313,6 @@ expect
 experience
 experiments
 expired
-expiring
 expiry
 exploit
 exploration
@@ -2369,6 +2369,7 @@ fast-ping
 fastfilepub
 fastgit
 fastlinq
+fastlookup
 fastping
 fasttrack
 favorites
@@ -2460,8 +2461,6 @@ financial
 financialedge
 financials
 find
-find-call
-find-caller
 find-file
 find-path
 finddownloadlinkfromwebsite
@@ -2524,6 +2523,7 @@ forensic
 forensics
 forest
 forestdiscovery
+forgit
 forgiveness
 form
 format
@@ -3592,7 +3592,6 @@ life
 lifequotes
 lifestyle
 light
-lights
 lime
 limesurvey
 limit-job
@@ -3627,7 +3626,6 @@ list-item
 listener
 litecoin
 litedb
-literature
 live
 lldp
 lmhost
@@ -3929,7 +3927,6 @@ mgn
 mi
 micro-orm
 microfocus
-microk8s
 microservices
 microsoft
 microsoft_365
@@ -4459,6 +4456,8 @@ ontap_9.13.1
 ontap_9.8.0
 ontap_pstk_9.13.1
 ontap_pstk_9.8.0
+onyphe
+onyphe.io
 oob
 oop
 op
@@ -4477,7 +4476,6 @@ openhere
 openid
 openidconnect
 openinghours
-openport
 openprovider
 openscad
 opensearch
@@ -4565,6 +4563,7 @@ outline
 outlook
 output
 output-to-image
+outreach
 outsystems
 overbite
 ovf
@@ -4608,7 +4607,6 @@ panther
 panzerbjrn
 pap
 paper
-papis
 paradox
 parallel
 parallel-processing
@@ -4689,6 +4687,7 @@ peheader
 pem
 pemfile
 pendingreboot
+penetration
 penetrationtesting
 pentesting
 pentia
@@ -4699,6 +4698,7 @@ performancemonitoring
 perl
 permission
 permissions
+permutations
 persistence
 persistent
 personal
@@ -4774,6 +4774,7 @@ pleasant
 pleasantpasswordserver
 plex
 plist
+plog
 plot
 plugin
 plugins
@@ -4857,17 +4858,15 @@ poshy-multimedia
 poshy-net
 poshy-notify-send
 poshy-sh-isms
-poshy-sshconfig
 poshy-viewer-finder
 poshy-wrap
 poshy-wrap-apt
-poshy-wrap-argcomplete
 poshy-wrap-brew
 poshy-wrap-curl
 poshy-wrap-dnf
 poshy-wrap-docker
 poshy-wrap-docker-compose
-poshy-wrap-dotnet
+poshy-wrap-forgit
 poshy-wrap-gem
 poshy-wrap-git
 poshy-wrap-git-flow
@@ -4883,6 +4882,7 @@ poshy-wrap-npm
 poshy-wrap-pip
 poshy-wrap-pipenv
 poshy-wrap-pyenv
+poshy-wrap-pylint
 poshy-wrap-python
 poshy-wrap-ruby
 poshy-wrap-terraform
@@ -4965,6 +4965,7 @@ powershellgallery
 powershellget
 powershellgetformatversion_2.0
 powershellise
+powershelllogger
 powershellmodule
 powershellmoduleupdate
 powershellpr0mpt
@@ -5153,7 +5154,6 @@ pscommand_aar
 pscommand_acp
 pscommand_acse
 pscommand_acsp
-pscommand_add_ssh
 pscommand_add-envpathitem
 pscommand_add-envvarpathitem
 pscommand_add-gitlfstrackedfiles
@@ -5356,20 +5356,6 @@ pscommand_docker-volume-inspect
 pscommand_docker-volume-list
 pscommand_docker-volume-prune
 pscommand_docker-volume-prune-forcefully
-pscommand_dotnet-add
-pscommand_dotnet-build
-pscommand_dotnet-new
-pscommand_dotnet-nuget
-pscommand_dotnet-pack
-pscommand_dotnet-run
-pscommand_dotnet-sln
-pscommand_dotnet-test
-pscommand_dotnet-tool-list-global
-pscommand_dotnet-tool-list-local
-pscommand_dotnet-tool-update-all-global
-pscommand_dotnet-watch
-pscommand_dotnet-watch-run
-pscommand_dotnet-watch-test
 pscommand_dpo
 pscommand_dpu
 pscommand_dr
@@ -5428,6 +5414,29 @@ pscommand_fmtstrikethrough
 pscommand_fmtstrikethroughoff
 pscommand_fmtunderline
 pscommand_fmtunderlineoff
+pscommand_forgit-add
+pscommand_forgit-blame
+pscommand_forgit-branch-delete
+pscommand_forgit-checkout-branch
+pscommand_forgit-checkout-commit
+pscommand_forgit-checkout-file
+pscommand_forgit-checkout-tag
+pscommand_forgit-cherry-pick
+pscommand_forgit-cherry-pick-from-branch
+pscommand_forgit-clean
+pscommand_forgit-diff
+pscommand_forgit-fixup
+pscommand_forgit-ignore
+pscommand_forgit-ignore-clean
+pscommand_forgit-ignore-list
+pscommand_forgit-ignore-update
+pscommand_forgit-ignoreget
+pscommand_forgit-log
+pscommand_forgit-rebase
+pscommand_forgit-reset-head
+pscommand_forgit-revert-commit
+pscommand_forgit-stash-push
+pscommand_forgit-stash-show
 pscommand_format-batcatstyle
 pscommand_format-gitrepository
 pscommand_format-lesstermcapenv
@@ -5471,6 +5480,7 @@ pscommand_gcame
 pscommand_gcamg
 pscommand_gcams
 pscommand_gcamu
+pscommand_gcb
 pscommand_gcd
 pscommand_gcem
 pscommand_gcf
@@ -5619,6 +5629,7 @@ pscommand_gflrs
 pscommand_gfo
 pscommand_gft
 pscommand_gftv
+pscommand_gfu
 pscommand_gfv
 pscommand_gg
 pscommand_ggb
@@ -5634,6 +5645,7 @@ pscommand_ghfr
 pscommand_ghfs
 pscommand_ghfu
 pscommand_ghm
+pscommand_gi
 pscommand_gignore
 pscommand_gignored
 pscommand_git
@@ -5743,6 +5755,7 @@ pscommand_gra
 pscommand_grb
 pscommand_grbc
 pscommand_grbm
+pscommand_grc
 pscommand_grem
 pscommand_grema
 pscommand_gremrm
@@ -5767,6 +5780,7 @@ pscommand_gsd
 pscommand_gsh
 pscommand_gshsf
 pscommand_gsl
+pscommand_gsp
 pscommand_gsr
 pscommand_gss
 pscommand_gssll
@@ -6125,6 +6139,7 @@ pscommand_invoke-pipenvupdate
 pscommand_invoke-pipenvvenv
 pscommand_invoke-pipenvwhere
 pscommand_invoke-pyenv
+pscommand_invoke-pylintreportsdisabled
 pscommand_invoke-ruby
 pscommand_invoke-rubyexecute
 pscommand_invoke-rubyexecutehttpdhere
@@ -6506,12 +6521,12 @@ pscommand_pwh
 pscommand_pwshrc-show-proxy
 pscommand_py
 pscommand_pyenv
+pscommand_pylint-quick
 pscommand_pyserver
 pscommand_python
 pscommand_python3
 pscommand_rb
 pscommand_read-dotenv
-pscommand_register-argcompleteargumentcompleter
 pscommand_remove_gem
 pscommand_remove-dockercontainerall
 pscommand_remove-dockerunusedimage
@@ -6575,11 +6590,9 @@ pscommand_shttp
 pscommand_shuf
 pscommand_sl
 pscommand_split-githistory
-pscommand_ssh-add-all
 pscommand_ssh-disable-proxy
 pscommand_ssh-enable-proxy
 pscommand_ssh-show-proxy
-pscommand_sshlist
 pscommand_start-gitbisect
 pscommand_start-gitcherrypick
 pscommand_start-gitcherrypickexplained
@@ -6834,7 +6847,6 @@ psfunction__python3
 psfunction__syspip3
 psfunction__syspip3_package_location
 psfunction_aar
-psfunction_add_ssh
 psfunction_add-envpathitem
 psfunction_add-envvarpathitem
 psfunction_add-gitlfstrackedfiles
@@ -6930,20 +6942,6 @@ psfunction_docker-volume-inspect
 psfunction_docker-volume-list
 psfunction_docker-volume-prune
 psfunction_docker-volume-prune-forcefully
-psfunction_dotnet-add
-psfunction_dotnet-build
-psfunction_dotnet-new
-psfunction_dotnet-nuget
-psfunction_dotnet-pack
-psfunction_dotnet-run
-psfunction_dotnet-sln
-psfunction_dotnet-test
-psfunction_dotnet-tool-list-global
-psfunction_dotnet-tool-list-local
-psfunction_dotnet-tool-update-all-global
-psfunction_dotnet-watch
-psfunction_dotnet-watch-run
-psfunction_dotnet-watch-test
 psfunction_enable-proxy
 psfunction_encode64
 psfunction_encodefile64
@@ -6984,6 +6982,29 @@ psfunction_fmtstrikethrough
 psfunction_fmtstrikethroughoff
 psfunction_fmtunderline
 psfunction_fmtunderlineoff
+psfunction_forgit-add
+psfunction_forgit-blame
+psfunction_forgit-branch-delete
+psfunction_forgit-checkout-branch
+psfunction_forgit-checkout-commit
+psfunction_forgit-checkout-file
+psfunction_forgit-checkout-tag
+psfunction_forgit-cherry-pick
+psfunction_forgit-cherry-pick-from-branch
+psfunction_forgit-clean
+psfunction_forgit-diff
+psfunction_forgit-fixup
+psfunction_forgit-ignore
+psfunction_forgit-ignore-clean
+psfunction_forgit-ignore-list
+psfunction_forgit-ignore-update
+psfunction_forgit-ignoreget
+psfunction_forgit-log
+psfunction_forgit-rebase
+psfunction_forgit-reset-head
+psfunction_forgit-revert-commit
+psfunction_forgit-stash-push
+psfunction_forgit-stash-show
 psfunction_format-batcatstyle
 psfunction_format-gitrepository
 psfunction_format-lesstermcapenv
@@ -7403,6 +7424,7 @@ psfunction_invoke-pipenvupdate
 psfunction_invoke-pipenvvenv
 psfunction_invoke-pipenvwhere
 psfunction_invoke-pyenv
+psfunction_invoke-pylintreportsdisabled
 psfunction_invoke-ruby
 psfunction_invoke-rubyexecute
 psfunction_invoke-rubyexecutehttpdhere
@@ -7595,7 +7617,6 @@ psfunction_push-locationgitroot
 psfunction_pwshrc-show-proxy
 psfunction_pyserver
 psfunction_read-dotenv
-psfunction_register-argcompleteargumentcompleter
 psfunction_remove-dockercontainerall
 psfunction_remove-dockerunusedimage
 psfunction_remove-envpathitem
@@ -7654,11 +7675,9 @@ psfunction_show-proxy
 psfunction_shttp
 psfunction_shuf
 psfunction_split-githistory
-psfunction_ssh-add-all
 psfunction_ssh-disable-proxy
 psfunction_ssh-enable-proxy
 psfunction_ssh-show-proxy
-psfunction_sshlist
 psfunction_start-gitbisect
 psfunction_start-gitcherrypick
 psfunction_start-gitcherrypickexplained
@@ -7867,6 +7886,7 @@ pwshrc
 pxedistributionpoint
 pyenv
 pygmentize
+pylint
 pyranja
 python
 python-for-dotnet
@@ -8023,7 +8043,6 @@ redshift
 redteaming
 redundancy
 refactor
-refactoring
 refeds
 refeds-mfa
 refedsmfa
@@ -8642,6 +8661,7 @@ siem
 sif
 sigma
 sign
+signalfx
 signalr
 signature
 signed
@@ -8736,7 +8756,6 @@ sni
 snipe-it
 snippet
 snippets
-snippets-manager
 snippit
 snmp
 snmpget
@@ -8756,6 +8775,7 @@ social
 social-media
 socialmedia
 socketlabs
+sockets
 sodium
 software
 softwarecenter
@@ -8895,7 +8915,6 @@ ssc
 ssdt
 sse
 ssh
-ssh-config
 ssh-keygen
 sshmanagement
 sshservers
@@ -9065,7 +9084,6 @@ svt
 swagger
 swamid
 swarm
-swedish
 swimlane
 swis
 switch
@@ -9172,7 +9190,6 @@ taxonomy
 tcp
 tcp/ip
 tcpip
-tcpport
 tcprjmgmt
 tcpserver
 tcptest
@@ -9481,6 +9498,7 @@ ud-buttonparticle
 ud-calendar
 ud-circle
 ud-component
+ud-confetti
 ud-control
 ud-dashboard
 ud-datepicker
@@ -9835,6 +9853,7 @@ vscode
 vsdevcmd
 vsdevshell
 vsenvironment
+vsm
 vso
 vsphere
 vsphere+
@@ -9842,6 +9861,7 @@ vss
 vssetup
 vsshell
 vst
+vsteambuilder
 vsteams
 vstest
 vsts
@@ -10121,7 +10141,6 @@ wrap-text
 wrapper
 wrapperfunctions
 wrc
-wrike
 write
 write-ascii
 write-color
