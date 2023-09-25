@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 25 September 2023 02:02:45 UTC
+Updated: Monday, 25 September 2023 09:52:52 UTC
 
 .bat
 .env
@@ -53,7 +53,6 @@ Updated: Monday, 25 September 2023 02:02:45 UTC
 8.1
 8ball
 9
-aa
 aac
 aad
 aad-graph
@@ -88,7 +87,6 @@ accord
 accord.net
 accordian
 account
-accounting
 accounts
 ace
 ack
@@ -451,7 +449,6 @@ aruba
 as
 asa
 asa.unittest
-asana
 asbuiltreport
 asc
 ascii
@@ -562,6 +559,7 @@ availability
 availabilityset
 avalara
 avalonia
+avatar
 avd
 ave
 avepoint
@@ -727,7 +725,6 @@ batcat
 batch
 batchclass
 batman
-battery
 bayern
 bb
 bbp
@@ -757,6 +754,8 @@ bestpractices
 beta
 bginfo
 bi
+bibliography
+bibtex
 bicep
 bicepnet
 big-ip
@@ -791,7 +790,6 @@ bitbucketpipelines
 bitcoin
 bitlocker
 bitwarden
-bitwig
 bitwise
 biztalk
 biztalkalm
@@ -1102,6 +1100,7 @@ ciscoucsdsc
 citation
 cite
 citrix
+citrixoptimizer
 civo
 cix
 class
@@ -1191,6 +1190,7 @@ cmake
 cmakepresets.json
 cmbuild
 cmclibnet
+cmclustermaintenance
 cmd
 cmdb
 cmdkey
@@ -1355,7 +1355,6 @@ connectionsmanager
 connectionstring
 connectivity
 connectwise
-conservation
 console
 consoleguitools
 consolemenu
@@ -1537,7 +1536,6 @@ culture
 cumulative
 cumulativeupdate
 cumulocity
-curious
 curl
 curlie
 currency
@@ -1545,6 +1543,7 @@ currency-convereter
 currency-exchange
 currencyconverterapi
 current
+curseforge
 custom
 customchecks
 customdns
@@ -1571,6 +1570,8 @@ cvss
 cwi
 cx
 cyberark
+cyberark-api
+cyberark-identity
 cyberdrain
 cybereason
 cybersecurity
@@ -1890,7 +1891,6 @@ dnd
 dnf
 dns
 dns-01
-dns-administration
 dns-async
 dns-client
 dns-over-https
@@ -1898,14 +1898,12 @@ dns-resolver
 dnsbl
 dnsclient
 dnsdumpster
-dnsentry
 dnsimple
 dnslookup
 dnsmadeeasy
 dnsoverhttps
 dnsrecord
 dnsresolver
-dnsserver
 dnssuffix
 dnvm
 doc
@@ -2312,6 +2310,7 @@ expect
 experience
 experiments
 expired
+expiring
 expiry
 exploit
 exploration
@@ -2530,6 +2529,7 @@ formatdata
 formatformat-tableformat-listformat-wideformat-customformat-defaultout-defaultout-fileout-hostout-printerout-string
 formatting
 forms
+fortiauth
 forticlient
 fortify
 fortifyondemand
@@ -2923,7 +2923,6 @@ hewlett-packardenterprise
 hex
 hexdump
 hg
-hibernate
 hibernation
 hibp
 hidden
@@ -3083,7 +3082,6 @@ id
 id3
 idabus
 ide
-identifier
 identity
 identity-management
 identitydataplane
@@ -3293,7 +3291,6 @@ ipconfig
 iperf
 ipfy.org
 iphone
-ipilot
 iplookup
 ipmaths
 ipp
@@ -3323,6 +3320,7 @@ iso
 iso-3166-1
 iso-8601
 ispac
+isprime
 ispss
 issues
 isvalidemail
@@ -3357,7 +3355,6 @@ java
 javamanager
 javascript
 javaversion
-jboss
 jdbc
 jde
 jdedwards
@@ -3383,6 +3380,7 @@ jojoba
 joke
 jotform
 journal
+joyride
 jpg
 jq
 js7
@@ -3620,6 +3618,7 @@ list-item
 listener
 litecoin
 litedb
+literature
 live
 lldp
 lmhost
@@ -3814,7 +3813,6 @@ marketo
 marketplace
 marketplaceordering
 marking
-marklogic
 marquee
 marvel
 marvell
@@ -3864,7 +3862,6 @@ mdm
 mdop
 mdt
 mdx
-me4024
 mean
 measure
 measure-loc
@@ -4340,7 +4337,6 @@ nunit
 nupkg
 nuspec
 nutanix
-nuwave
 nva
 nvdimm
 nvdimm-n
@@ -4415,7 +4411,6 @@ ole
 oledb
 omaha
 ome
-omnisphere
 omnistack
 oms
 omsagent
@@ -4471,7 +4466,6 @@ openhere
 openid
 openidconnect
 openinghours
-openport
 openprovider
 openscad
 opensearch
@@ -4512,7 +4506,6 @@ orchestrator
 order
 organization
 orgnetwork
-oriflame
 orion
 orleans
 orm
@@ -4559,6 +4552,7 @@ outline
 outlook
 output
 output-to-image
+outreach
 outsystems
 overbite
 ovf
@@ -4602,6 +4596,7 @@ panther
 panzerbjrn
 pap
 paper
+papis
 paradox
 parallel
 parallel-processing
@@ -4671,10 +4666,6 @@ pcsetup
 pcsv
 pdb
 pdf
-pdf-document-processor
-pdf-files
-pdf-generation
-pdf-redaction
 peek
 peering
 peheader
@@ -4880,7 +4871,6 @@ poshy-wrap-pip
 poshy-wrap-pipenv
 poshy-wrap-pyenv
 poshy-wrap-pylint
-poshy-wrap-python
 poshy-wrap-ruby
 poshy-wrap-systemctl
 poshy-wrap-terraform
@@ -4938,6 +4928,7 @@ powershell-dsc
 powershell-examples
 powershell-gallery
 powershell-github-repo
+powershell-isprime
 powershell-lightning
 powershell-module
 powershell-modules
@@ -5010,6 +5001,7 @@ preview
 previousversions
 price
 pricelist
+primenumber
 primera
 principal
 principle
@@ -5126,7 +5118,6 @@ psclient
 pscmdlet
 pscommand__pip3
 pscommand__pip3_package_location
-pscommand__python3
 pscommand__syspip3
 pscommand__syspip3_package_location
 pscommand_--
@@ -6387,8 +6378,6 @@ pscommand_invoke-zypperversioncompare
 pscommand_invoke-zypperwhatprovides
 pscommand_invokeyumgrouplist
 pscommand_ips
-pscommand_ipy
-pscommand_ipython
 pscommand_jump
 pscommand_k
 pscommand_kaf
@@ -6637,12 +6626,8 @@ pscommand_pushgr
 pscommand_pvenv
 pscommand_pwh
 pscommand_pwshrc-show-proxy
-pscommand_py
 pscommand_pyenv
 pscommand_pylint-quick
-pscommand_pyserver
-pscommand_python
-pscommand_python3
 pscommand_rb
 pscommand_read-dotenv
 pscommand_register-argcompleteargumentcompleter
@@ -6711,7 +6696,6 @@ pscommand_set-locationup5
 pscommand_sgem
 pscommand_show-gitremote
 pscommand_show-proxy
-pscommand_shttp
 pscommand_shuf
 pscommand_sl
 pscommand_split-githistory
@@ -6970,7 +6954,6 @@ psfive9admin
 psfoldersize
 psfunction__pip3
 psfunction__pip3_package_location
-psfunction__python3
 psfunction__syspip3
 psfunction__syspip3_package_location
 psfunction_aar
@@ -7865,7 +7848,6 @@ psfunction_push-gitstashentry
 psfunction_push-gitstashentrywithmessage
 psfunction_push-locationgitroot
 psfunction_pwshrc-show-proxy
-psfunction_pyserver
 psfunction_read-dotenv
 psfunction_register-argcompleteargumentcompleter
 psfunction_remove-dockercontainerall
@@ -7929,7 +7911,6 @@ psfunction_set-locationup4
 psfunction_set-locationup5
 psfunction_show-gitremote
 psfunction_show-proxy
-psfunction_shttp
 psfunction_shuf
 psfunction_split-githistory
 psfunction_ssh-add-all
@@ -8149,7 +8130,6 @@ pylint
 pyranja
 python
 python-for-dotnet
-python3
 qcloud
 qconvergeconsolepowerkit
 qemu
@@ -8583,7 +8563,6 @@ saml psmodule
 saml2
 sample
 sampler
-san
 sandbox
 sanitization
 sanitizer
@@ -8875,6 +8854,7 @@ shadowcopy
 shadowcopybackups
 shadowgroups
 shanghaitech
+shard
 share
 share-permission
 share-stat
@@ -8898,6 +8878,7 @@ shells
 shieldedvm
 ships
 shipsprovider
+shipstation
 shlink
 shodan
 shodanps
@@ -8921,6 +8902,7 @@ siem
 sif
 sigma
 sign
+signalfx
 signalr
 signature
 signed
@@ -8972,6 +8954,8 @@ skypeforbusinessonline
 skypeonline
 skytap
 slack
+slash
+slashcommands
 sln
 slugify
 sm
@@ -9013,7 +8997,6 @@ sni
 snipe-it
 snippet
 snippets
-snippets-manager
 snippit
 snmp
 snmpget
@@ -9344,6 +9327,7 @@ svt
 swagger
 swamid
 swarm
+swedish
 swimlane
 swis
 switch
@@ -9452,7 +9436,6 @@ taxonomy
 tcp
 tcp/ip
 tcpip
-tcpport
 tcprjmgmt
 tcpserver
 tcptest
@@ -9603,10 +9586,12 @@ toasts
 tobias
 toc
 todo
+todo.txt
 toggl
 toggle
 token
 tokenlifetime
+tokens
 toml
 tookit
 tool
@@ -9628,7 +9613,6 @@ totp
 touch
 toughswitch
 tphubps
-tpm
 tpp
 tr-064
 tr064
@@ -9930,6 +9914,7 @@ utm
 uudecode
 uuencode
 uuid
+uup
 uw
 uwp
 ux
@@ -10081,6 +10066,7 @@ voiceconfig
 voiceservices
 voidtools
 volkskrant
+volta
 volume
 volumeshadowcopy
 volumio
@@ -10119,7 +10105,6 @@ vsphere+
 vss
 vssetup
 vsshell
-vst
 vsteambuilder
 vstest
 vsts
@@ -10243,7 +10228,6 @@ wif
 wifi
 wiki
 wildcard
-wildfly
 wim
 wim2vhd
 win
