@@ -5,35 +5,36 @@ This is a report of contributions to the [PowerShell Gallery](https://powershell
 This report does not include pre-release modules and be aware that not every module will have an online repository.
 
 Internal navigation links may not work in the PDF version of this report.
-+ [Przemyslaw Klys](#Przemyslaw-Klys) (37)
++ [Przemyslaw Klys](#Przemyslaw-Klys) (38)
 + [Christos Polydorou](#Christos-Polydorou) (21)
-+ [Michael Haken](#Michael-Haken) (19)
-+ [mkht](#mkht) (18)
++ [Michael Haken](#Michael-Haken) (20)
++ [mkht](#mkht) (19)
++ [Jeff Hicks](#Jeff-Hicks) (16)
 + [Joel Bennett](#Joel-Bennett) (15)
-+ [Jeff Hicks](#Jeff-Hicks) (14)
-+ [jakub.pawlowski](#jakubpawlowski) (13)
++ [Warren Frame](#Warren-Frame) (14)
++ [Chrissy LeMaire](#Chrissy-LeMaire) (13)
 + [Taylor Lee](#Taylor-Lee) (13)
-+ [Adam Driscoll](#Adam-Driscoll) (13)
-+ [Arcus](#Arcus) (12)
++ [jakub.pawlowski](#jakubpawlowski) (13)
 + [Pure Storage](#Pure-Storage) (12)
-+ [Chrissy LeMaire](#Chrissy-LeMaire) (12)
++ [Adam Driscoll](#Adam-Driscoll) (12)
++ [Arcus](#Arcus) (12)
 + [Adam Bertram](#Adam-Bertram) (12)
 + [Pentia Developers](#Pentia-Developers) (12)
-+ [Warren Frame](#Warren-Frame) (12)
-+ [Friedrich Weinmann](#Friedrich-Weinmann) (11)
 + [Tao Yang](#Tao-Yang) (11)
 + [Anam Navied](#Anam-Navied) (11)
-+ [WebMD Health Services](#WebMD-Health-Services) (11)
-+ [Brandon Olin](#Brandon-Olin) (9)
-+ [Daniel Scott-Raynsford](#Daniel-Scott-Raynsford) (9)
++ [WebMD Health Services](#WebMD-Health-Services) (10)
++ [Brandon Olin](#Brandon-Olin) (10)
++ [Friedrich Weinmann](#Friedrich-Weinmann) (10)
++ [Dr. Tobias Weltner](#Dr-Tobias-Weltner) (9)
 + [James Brundage](#James-Brundage) (9)
 + [Gabriel Adrian Samfira Alessandro Pilotti](#Gabriel-Adrian-Samfira-Alessandro-Pilotti) (9)
-+ [Jan Hoek](#Jan-Hoek) (8)
-+ [Cisco Systems](#Cisco-Systems) (8)
++ [Douglas Finke](#Douglas-Finke) (9)
++ [Daniel Scott-Raynsford](#Daniel-Scott-Raynsford) (9)
 
 ## Przemyslaw Klys
 
 + **[PSWriteHTML 1.10.0](https://github.com/EvotecIT/PSWriteHTML)**  - PSWriteHTML is PowerShell Module to generate beautiful HTML reports, pages, emails without any knowledge of HTML, CSS or JavaScript. To get started basics PowerShell knowledge is required. [*09/21/2023 15:56:07*]
++ **[O365Essentials 0.0.12](https://github.com/EvotecIT/O365Essentials)**  - A module that helps to manage some tasks on Office 365/Azure via undocumented API [*09/19/2023 17:47:38*]
 + **[PSSharedGoods 0.0.266](https://github.com/EvotecIT/PSSharedGoods)**  - Module covering functions that are shared within multiple projects [*09/18/2023 06:20:41*]
 + **[GPOZaurr 1.0.0](https://github.com/EvotecIT/GPOZaurr)**  - Group Policy Eater is a PowerShell module that aims to gather information about Group Policies but also allows fixing issues that you may find in them. [*09/17/2023 08:11:38*]
 + **[ADEssentials 0.0.165](https://github.com/EvotecIT/ADEssentials)**  - Helper module for Active Directory with lots of useful functions that simplify supporting Active Directory. [*09/13/2023 08:47:27*]
@@ -106,6 +107,7 @@ In new version you now have ability to send notificatins to Microsoft Teams, Sla
 + **[BAMCIS.DynamicParam 1.0.0.0](https://github.com/bamcisnetworks/BAMCIS.DynamicParams)**  - Provides cmdlets to create dynamic parameters in PowerShell cmdlets. [*02/06/2018 15:29:29*]
 + **[BAMCIS.Base64 1.0.0.0](https://github.com/bamcisnetworks/BAMCIS.Base64)**  - Provides PowerShell cmdlets to do base64 encoding and decoding. [*01/28/2018 01:33:10*]
 + **[ASN.1 1.0.0.5](https://github.com/bamcisnetworks/ASN1)**  - Provides cmdlets to parse data structures in ASN.1 encoding with just PowerShell. [*01/26/2018 18:15:59*]
++ **[BAMCIS.OffensiveSecurity 1.0.1.3](https://github.com/bamcisnetworks/BAMCIS.OffensiveSecurity)**  - Provides security focused PowerShell cmdlets to conduct security testing and forensics. [*01/25/2018 20:19:38*]
 + **[BAMCIS.ByteArrays 1.0.2.1](https://github.com/bamcisnetworks/BAMCIS.ByteArrays)**  - Contains cmdlets to help manipulate byte arrays. [*01/23/2018 04:51:39*]
 + **[BAMCIS.Networking 1.0.0.1](https://github.com/bamcisnetworks/BAMCIS.Networking)**  - This module contains PowerShell cmdlets that conduct network operations. [*10/27/2017 15:15:27*]
 + **[BAMCIS.TokenManipulation 1.0.0.1](https://github.com/bamcisnetworks/BAMCIS.TokenManipulation)**  - Provides PowerShell cmdlets to view and modify the token assigned to a user including their group membership and privileges. [*10/26/2017 17:14:34*]
@@ -127,6 +129,7 @@ Then run the Install-Exchange cmdlet with the necessary parameters. [*03/04/2017
 
 + **[7ZipArchiveDsc 1.9.1](https://github.com/mkht/7ZipArchiveDsc)**  - PowerShell DSC Resource to expand an archive file to a specific path. [*08/04/2023 06:29:56*]
 + **[DSCR_FileContent 3.0.0](https://github.com/mkht/DSCR_FileContent)**  - PowerShell DSC Resource to create TXT / INI / JSON file. [*01/19/2023 16:11:06*]
++ **PSAdvancedJsonCmdlet 1.0.0**  - Json cmdlets for Windows PowerShell 5.1, backporting from PowerShell 7. [*01/19/2023 11:19:03*]
 + **[pspm 1.7.1](https://github.com/mkht/pspm)**  - PowerShell Package Manager [*12/29/2022 15:37:19*]
 + **[DSCR_Application 4.1.1](https://github.com/mkht/DSCR_Application)**  - PowerShell DSC Resource to Install / Uninstall Windows Desktop Applications. [*09/15/2022 04:47:00*]
 + **[AudioVolumeDsc 2.0.0](https://github.com/mkht/AudioVolumeDsc)**  - PowerShell DSC Resource to control audio volume. [*08/20/2022 14:57:25*]
@@ -143,6 +146,25 @@ Then run the Install-Exchange cmdlet with the necessary parameters. [*03/04/2017
 + **[DSCR_AppxPackage 0.3.0](https://github.com/mkht/DSCR_AppxPackage)**  - PowerShell DSC Resource to manage UWP App Packages [*10/08/2017 09:32:40*]
 + **[DSCR_AutoLogon 2.1.0](https://github.com/mkht/DSCR_AutoLogon)**  - PowerShell DSC Resource & Functions to turn on / off automatic logon in Windows. [*07/08/2017 15:40:33*]
 + **[DSCR_MSLicense 0.9.1](https://github.com/mkht/DSCR_MSLicense)**  - PowerShell DSC Resource to set Windows / Office product key. [*06/10/2017 15:58:21*]
+
+## Jeff Hicks
+
++ **[PSScriptTools 2.48.0](https://github.com/jdhitsolutions/PSScriptTools)**  - A collection of PowerShell functions designed to enhance your own functions and scripts or to facilitate working in the console. Most of the commands should work in Windows PowerShell and PowerShell 7, even cross-platform. Any operating system limitations should be handled on a per-command basis. [*07/28/2023 17:02:28*]
++ **[ISEScriptingGeek 3.5.0](https://github.com/jdhitsolutions/ISEScriptingGeek)**  - Functions and add-ons for the Windows PowerShell ISE and later. This module is a kind of resource kit for the PowerShell ISE. [*07/03/2023 15:06:44*]
++ **[MemoryTools 1.1.0](https://github.com/jdhitsolutions/MemoryTools)**  - A set of functions for checking, testing and reporting memory usage using WMI and performance counters. [*03/24/2023 13:46:31*]
++ **[mySQLite 0.11.2](https://github.com/jdhitsolutions/MySQLite)**  - A set of PowerShell commands for working with SQLite database files. This is a simple alternative to installing any version of SQL Server on your desktop. Note that this module will only work on Windows platforms. [*02/23/2023 19:41:06*]
++ **[WingetTools 1.7.0](https://github.com/jdhitsolutions/WingetTools)**  - A set of PowerShell tools for working with the winget package manager. [*01/02/2023 16:18:04*]
++ **[PSCalendar 2.9.0](https://github.com/jdhitsolutions/PSCalendar)**  - A PowerShell module to display a calendar in the console. [*12/19/2022 15:50:13*]
++ **[ADReportingTools 1.4.0](https://github.com/jdhitsolutions/ADReportingTools)**  - A set of PowerShell commands to gather information and create reports from Active Directory. [*07/18/2022 14:27:45*]
++ **[PSReleaseTools 1.12.0](https://github.com/jdhitsolutions/PSReleaseTools)**  - A set of commands for working with PowerShell 7 and later releases. [*06/04/2022 14:08:51*]
++ **[WTToolBox 1.15.0](https://github.com/jdhitsolutions/WTToolbox)**  - A set of PowerShell functions for managing and working with the Windows Terminal application from Microsoft. [*05/25/2022 13:42:58*]
++ **[PSTeachingTools 4.2.0](https://github.com/jdhitsolutions/PSTeachingTools)**  - A set of commands and tools for teaching PowerShell. [*01/11/2022 14:14:18*]
++ **[PSTypeExtensionTools 1.9.0](https://github.com/jdhitsolutions/PSTypeExtensionTools)**  - A set of PowerShell tools for working with type extensions. [*08/10/2021 22:48:17*]
++ **[ISERemoteTab 2.1.0](https://github.com/jdhitsolutions/New-ISERemoteTab)**  - Functions to add new remote tabs in the PowerShell ISE with additional options like SSL. [*07/06/2021 19:03:40*]
++ **[MyTasks 2.4.0](https://github.com/jdhitsolutions/MyTasks/)**  - A tool set for managing tasks or to-do projects in PowerShell. Task data is stored in XML and managed through a PowerShell class. [*10/14/2020 17:29:50*]
++ **[PSHyperVTools 0.5.1](https://github.com/jdhitsolutions/PSHyperV)**  - A set of PowerShell tools for working with Hyper-V [*06/26/2019 15:12:57*]
++ **[MyNumber 1.3.1](https://github.com/jdhitsolutions/MyNumber)**  - A demonstration class-based module that creates a number object [*10/23/2018 17:25:41*]
++ **[DNSSuffix 0.4.1](https://github.com/jdhitsolutions/DNSSuffix)**  - This PowerShell module has two simple commands to that work with the registry to either get or set the primary DNS suffix of a computer. [*10/22/2018 20:21:46*]
 
 ## Joel Bennett
 
@@ -162,22 +184,54 @@ Then run the Install-Exchange cmdlet with the necessary parameters. [*03/04/2017
 + **PoshNet 1.0**  - Get-DNS is "dig" for PowerShell [*05/30/2014 05:24:06*]
 + **ResolveAlias 2.4**  - A function for cleaning up scripts by replacing all aliases with full command names and specifying full parameters, etc. [*05/15/2014 06:45:57*]
 
-## Jeff Hicks
+## Warren Frame
 
-+ **[PSScriptTools 2.48.0](https://github.com/jdhitsolutions/PSScriptTools)**  - A collection of PowerShell functions designed to enhance your own functions and scripts or to facilitate working in the console. Most of the commands should work in Windows PowerShell and PowerShell 7, even cross-platform. Any operating system limitations should be handled on a per-command basis. [*07/28/2023 17:02:28*]
-+ **[ISEScriptingGeek 3.5.0](https://github.com/jdhitsolutions/ISEScriptingGeek)**  - Functions and add-ons for the Windows PowerShell ISE and later. This module is a kind of resource kit for the PowerShell ISE. [*07/03/2023 15:06:44*]
-+ **[MemoryTools 1.1.0](https://github.com/jdhitsolutions/MemoryTools)**  - A set of functions for checking, testing and reporting memory usage using WMI and performance counters. [*03/24/2023 13:46:31*]
-+ **[mySQLite 0.11.2](https://github.com/jdhitsolutions/MySQLite)**  - A set of PowerShell commands for working with SQLite database files. This is a simple alternative to installing any version of SQL Server on your desktop. Note that this module will only work on Windows platforms. [*02/23/2023 19:41:06*]
-+ **[WingetTools 1.7.0](https://github.com/jdhitsolutions/WingetTools)**  - A set of PowerShell tools for working with the winget package manager. [*01/02/2023 16:18:04*]
-+ **[PSCalendar 2.9.0](https://github.com/jdhitsolutions/PSCalendar)**  - A PowerShell module to display a calendar in the console. [*12/19/2022 15:50:13*]
-+ **[ADReportingTools 1.4.0](https://github.com/jdhitsolutions/ADReportingTools)**  - A set of PowerShell commands to gather information and create reports from Active Directory. [*07/18/2022 14:27:45*]
-+ **[PSReleaseTools 1.12.0](https://github.com/jdhitsolutions/PSReleaseTools)**  - A set of commands for working with PowerShell 7 and later releases. [*06/04/2022 14:08:51*]
-+ **[WTToolBox 1.15.0](https://github.com/jdhitsolutions/WTToolbox)**  - A set of PowerShell functions for managing and working with the Windows Terminal application from Microsoft. [*05/25/2022 13:42:58*]
-+ **[PSTeachingTools 4.2.0](https://github.com/jdhitsolutions/PSTeachingTools)**  - A set of commands and tools for teaching PowerShell. [*01/11/2022 14:14:18*]
-+ **[ISERemoteTab 2.1.0](https://github.com/jdhitsolutions/New-ISERemoteTab)**  - Functions to add new remote tabs in the PowerShell ISE with additional options like SSL. [*07/06/2021 19:03:40*]
-+ **[PSHyperVTools 0.5.1](https://github.com/jdhitsolutions/PSHyperV)**  - A set of PowerShell tools for working with Hyper-V [*06/26/2019 15:12:57*]
-+ **[MyNumber 1.3.1](https://github.com/jdhitsolutions/MyNumber)**  - A demonstration class-based module that creates a number object [*10/23/2018 17:25:41*]
-+ **[DNSSuffix 0.4.1](https://github.com/jdhitsolutions/DNSSuffix)**  - This PowerShell module has two simple commands to that work with the registry to either get or set the primary DNS suffix of a computer. [*10/22/2018 20:21:46*]
++ **[PSSlack 1.0.6](https://github.com/RamblingCookieMonster/PSSlack/)**  - PowerShell module for the Slack API [*07/01/2021 00:46:21*]
++ **[BuildHelpers 2.0.16](https://github.com/RamblingCookieMonster/BuildHelpers/)**  - Helper functions for PowerShell CI/CD scenarios. [*12/18/2020 18:32:24*]
++ **Poshbot.Example 0.0.1**  - PoshBot module for a variety of commands [*07/18/2020 17:10:15*]
++ **[PSDepend 0.3.8](https://github.com/RamblingCookieMonster/PSDepend/)**  - PowerShell Dependency Handler [*07/05/2020 00:54:32*]
++ **[PSSQLite 1.1.0](https://github.com/RamblingCookieMonster/PSSQLite)**  - Query SQLite databases [*05/18/2020 13:38:10*]
++ **[PSNeo4j 1.0.1](https://github.com/RamblingCookieMonster/PSNeo4j)**  - Simple Neo4j wrapper for Powershell [*08/09/2019 00:34:24*]
++ **[Dots 0.0.7](https://github.com/RamblingCookieMonster/Dots)**  - PowerShell and Neo4j Based CMDB-lite [*07/12/2018 16:23:13*]
++ **[WFTools 0.1.58](https://github.com/RamblingCookieMonster/PowerShell)**  - Assorted handy, largely unrelated PowerShell functions [*06/04/2018 17:38:18*]
++ **[Invoke-SqlCmd2 1.6.4](https://github.com/RamblingCookieMonster/Invoke-SqlCmd2/)**  - Invoke-SqlCmd2 [*12/01/2016 02:06:22*]
++ **[pshtmltable 0.0.1](https://github.com/RamblingCookieMonster/PSHTMLTable/)**  - Simplify creating HTML tables [*08/25/2016 20:28:58*]
++ **[PSExcel 1.0.2](https://github.com/RamblingCookieMonster/PSExcel/)**  - Work with Excel without installing Excel [*08/09/2016 13:48:07*]
++ **[PSStackExchange 1.0.3](https://github.com/RamblingCookieMonster/PSStackExchange)**  - PowerShell module to query the StackExchange API [*07/26/2016 22:45:54*]
++ **[PSDiskPart 1.0](https://github.com/RamblingCookieMonster/PSDiskPart)**  - Work with DiskPart [*07/08/2015 02:13:18*]
++ **[SecretServer 1.0](https://github.com/RamblingCookieMonster/SecretServer)**  - Work with Secret Server Web Services and SQL Database [*07/08/2015 01:23:19*]
+
+## Chrissy LeMaire
+
++ **kbupdate 2.0.27**  - KB Viewer, Saver, Installer and Uninstaller [*05/12/2023 00:25:49*]
++ **kbupdate-library 1.1.24**  - Database for KB Viewer and Saver [*05/12/2023 00:24:51*]
++ **[discordrpc 0.0.2](https://github.com/potatoqualitee/discordrpc)**  - Tell people you're playing PowerShell, send Rich Presence events to Discord! [*04/11/2022 08:51:16*]
++ **[SPReplicator 0.0.35](https://github.com/potatoqualitee/SPReplicator)**  - SPReplicator helps replicate SharePoint list data from CSV, SQL Server, generic PowerShell objects, and other SharePoint lists. [*09/02/2021 12:51:50*]
++ **[tentools 0.0.14](https://github.com/potatoqualitee/tentools)**  - Automation for DISA ACAS, including tenable.sc, Nessus and more. Based off of Carlos Perez's Posh-Nessus module and commands by Joseph Warren. [*06/15/2021 11:21:14*]
++ **dbadisa 0.1.7**  - DISA STIG Automation for SQL Server [*06/10/2020 14:16:05*]
++ **stigiis 0.0.1**  - DISA STIG Automation for IIS [*04/16/2020 09:46:13*]
++ **[IconExport 2.0.0](https://gallery.technet.microsoft.com/scriptcenter/Export-Icon-from-DLL-and-9d309047)**  - Export-Icon exports high-quality icons stored within .DLL and .EXE files. The function can export to a number of formats, including ico, bmp, png, jpg, gif, emf, exif, icon, tiff, and wmf. It can also export to different sizes. [*06/07/2016 12:17:25*]
++ **TrelloVoteCount 1.0.0.7**  - Displays tallied votes for one Trello board in either a GridView or DataTable [*05/08/2016 08:39:10*]
++ **[SystemColorsGrid 1.0](https://gallery.technet.microsoft.com/scriptcenter/Get-SystemColors-using-WPF-d7c31a8c)**  - Shows a pretty grid filled with system colors, their names, hex codes and rgb codes. [*09/16/2015 22:12:00*]
++ **CsvSqlcmd 1.0.7**  - Query CSV files using SQL syntax [*09/09/2015 15:53:09*]
++ **locate 1.0.1**  - Port of GNU locate and updatedb with bonus du [*09/09/2015 11:29:12*]
++ **CsvSqlimport 1.0.0**  - Quickly import CSV files into SQL Server [*09/08/2015 12:48:36*]
+
+## Taylor Lee
+
++ **[AdminToolbox 11.0.114](https://github.com/TheTaylorLee/AdminToolbox)**  - Master module for a collection of modules. These modules are varied in their tasks. The overall purpose of them being to provide a powerfull Toolset to improve IT Admin workflows. [*09/26/2023 14:23:07*]
++ **[AdminToolbox.FortiWizard 2.18.12](https://github.com/TheTaylorLee/AdminToolbox/)**  - Functions that generate configuration scripts and manage FortiOS. [*09/26/2023 14:21:47*]
++ **[AdminToolbox.VMWareAutomate 4.8.103](https://github.com/TheTaylorLee/AdminToolbox/)**  - Functions to Automate Bulk VMWare Tasks [*09/26/2023 14:21:10*]
++ **[AdminToolbox.Remoting 1.9.106](https://github.com/TheTaylorLee/AdminToolbox/)**  - Functions for remote management and access. [*09/26/2023 14:20:34*]
++ **[AdminToolbox.Office365 3.1.56](https://github.com/TheTaylorLee/AdminToolbox/)**  - Functions for working with Office365 and Azure modules [*09/26/2023 14:20:01*]
++ **[AdminToolbox.Networking 2.18.14](https://github.com/TheTaylorLee/AdminToolbox/)**  - Network Troubleshooting Functions [*09/26/2023 14:19:27*]
++ **[AdminToolbox.MSGraph 1.2.106](https://github.com/TheTaylorLee/AdminToolbox/)**  - Microsoft Graph interactive API Functions [*09/26/2023 14:18:51*]
++ **[AdminToolbox.Fun 1.6.107](https://github.com/TheTaylorLee/AdminToolbox/)**  - Functions that have no purpose [*09/26/2023 14:18:18*]
++ **[AdminToolbox.FileManagement 1.15.97](https://github.com/TheTaylorLee/AdminToolbox/)**  - File Management Functions [*09/26/2023 14:17:44*]
++ **[AdminToolbox.FFTools 4.16.56](https://github.com/TheTaylorLee/AdminToolbox/)**  - Expedite simple ffmpeg actions [*09/26/2023 14:17:10*]
++ **[AdminToolbox.Exchange 1.9.107](https://github.com/TheTaylorLee/AdminToolbox/)**  - Functions for Exchange Management [*09/26/2023 14:16:36*]
++ **[AdminToolbox.EndpointManagement 4.9.99](https://github.com/TheTaylorLee/AdminToolbox/)**  - Functions for management of endpoints [*09/26/2023 14:16:02*]
++ **[AdminToolbox.ActiveDirectory 1.9.104](https://github.com/TheTaylorLee/AdminToolbox/)**  - Functions for Active Directory [*09/26/2023 14:15:27*]
 
 ## jakub.pawlowski
 
@@ -195,21 +249,20 @@ Then run the Install-Exchange cmdlet with the necessary parameters. [*03/04/2017
 + **[PathUtils 1.0.23.109](https://github.com/qbikez/ps-pathutils)**  - utils to manipulate path variable [*11/09/2017 09:32:17*]
 + **[Crayon 1.0.11.16](http://github.com/qbikez/ps-logging)**  - Powershell utilities for colorful logging to console. Inspired by node's chalk. [*08/22/2016 12:02:21*]
 
-## Taylor Lee
+## Pure Storage
 
-+ **[AdminToolbox 11.0.113](https://github.com/TheTaylorLee/AdminToolbox)**  - Master module for a collection of modules. These modules are varied in their tasks. The overall purpose of them being to provide a powerfull Toolset to improve IT Admin workflows. [*09/19/2023 14:22:10*]
-+ **[AdminToolbox.FortiWizard 2.18.11](https://github.com/TheTaylorLee/AdminToolbox/)**  - Functions that generate configuration scripts and manage FortiOS. [*09/19/2023 14:20:52*]
-+ **[AdminToolbox.VMWareAutomate 4.8.102](https://github.com/TheTaylorLee/AdminToolbox/)**  - Functions to Automate Bulk VMWare Tasks [*09/19/2023 14:20:14*]
-+ **[AdminToolbox.Remoting 1.9.105](https://github.com/TheTaylorLee/AdminToolbox/)**  - Functions for remote management and access. [*09/19/2023 14:19:40*]
-+ **[AdminToolbox.Office365 3.1.55](https://github.com/TheTaylorLee/AdminToolbox/)**  - Functions for working with Office365 and Azure modules [*09/19/2023 14:19:06*]
-+ **[AdminToolbox.Networking 2.18.13](https://github.com/TheTaylorLee/AdminToolbox/)**  - Network Troubleshooting Functions [*09/19/2023 14:18:33*]
-+ **[AdminToolbox.MSGraph 1.2.105](https://github.com/TheTaylorLee/AdminToolbox/)**  - Microsoft Graph interactive API Functions [*09/19/2023 14:17:58*]
-+ **[AdminToolbox.Fun 1.6.106](https://github.com/TheTaylorLee/AdminToolbox/)**  - Functions that have no purpose [*09/19/2023 14:17:24*]
-+ **[AdminToolbox.FileManagement 1.15.96](https://github.com/TheTaylorLee/AdminToolbox/)**  - File Management Functions [*09/19/2023 14:16:51*]
-+ **[AdminToolbox.FFTools 4.16.55](https://github.com/TheTaylorLee/AdminToolbox/)**  - Expedite simple ffmpeg actions [*09/19/2023 14:16:17*]
-+ **[AdminToolbox.Exchange 1.9.106](https://github.com/TheTaylorLee/AdminToolbox/)**  - Functions for Exchange Management [*09/19/2023 14:15:43*]
-+ **[AdminToolbox.EndpointManagement 4.9.98](https://github.com/TheTaylorLee/AdminToolbox/)**  - Functions for management of endpoints [*09/19/2023 14:15:09*]
-+ **[AdminToolbox.ActiveDirectory 1.9.103](https://github.com/TheTaylorLee/AdminToolbox/)**  - Functions for Active Directory [*09/19/2023 14:14:34*]
++ **[PureStoragePowerShellToolkit 3.0.1](https://github.com/PureStorage-OpenConnect/PowerShell-Toolkit)**  - PowerShell Toolkit for Pure Storage Flasharray and Initiators. [*06/28/2023 15:52:32*]
++ **PureStorage.Pure1 1.4.4.3**  - Pure Storage Pure1 REST API integration with PowerShell. [*07/22/2022 15:27:44*]
++ **PureStorage.FlashArray.VMware 2.2.1.3**  - Pure Storage FlashArray VMware PowerCLI integration with Windows PowerShell. [*03/17/2022 16:48:19*]
++ **PureStorage.FlashArray.VMware.VVol 2.0.1.1**  - Pure Storage FlashArray VMware PowerShell vVol management. [*03/17/2022 14:28:42*]
++ **PureStorage.FlashArray.VMware.VCF 2.0.0.3**  - Pure Storage FlashArray VMware PowerShell VMFS management. [*03/16/2022 05:19:37*]
++ **PureStorage.FlashArray.VMware.Configuration 2.0.0.3**  - Pure Storage FlashArray VMware PowerShell configuration management. [*03/16/2022 05:19:27*]
++ **PureStorage.FlashArray.VMware.VMFS 2.0.0.2**  - Pure Storage FlashArray VMware PowerShell VMFS management. [*03/16/2022 05:19:19*]
++ **PureStorage.FlashArray.VMware.RDM 2.0.1.1**  - Pure Storage FlashArray VMware PowerShell RDM management. [*03/16/2022 05:18:57*]
++ **PureStorage.FlashArray.VMware.Software 2.0.0.3**  - Pure Storage FlashArray VMware PowerShell software management. [*03/16/2022 05:18:50*]
++ **PureStorage.FlashArray.VMware.VVol.SPBM 1.0.0.2**  - Pure Storage FlashArray VMware PowerShell vVol SPBM management. [*03/16/2022 05:18:41*]
++ **PureStorage.FlashArray.VMware.VVol.Replication 1.0.0.2**  - Pure Storage FlashArray VMware PowerShell vVol Replication management. [*03/16/2022 05:18:31*]
++ **PureStorage.FlashArray.VMware.Pure1 1.0.0.1**  - Pure Storage FlashArray VMware PowerShell Pure1 management. [*12/04/2019 03:53:25*]
 
 ## Adam Driscoll
 
@@ -221,7 +274,6 @@ Then run the Install-Exchange cmdlet with the necessary parameters. [*03/04/2017
 + **[UniversalDashboard.CodeEditor 1.2.0](https://github.com/ironmansoftware/universal-dashboard)**  - Code editor control for Universal Dashboard. [*11/09/2021 00:20:59*]
 + **[UniversalDashboard.Diagrams 1.0.2](https://github.com/ironmansoftware/ud-diagrams)**  - Diagrams for Universal Dashboard. [*09/17/2020 16:46:37*]
 + **[Selenium 3.0.1](https://github.com/adamdriscoll/selenium-powershell)**  - Web automation using the Selenium Web Driver [*07/27/2020 13:12:55*]
-+ **[UniversalDashboard.Community 2.9.0](https://github.com/ironmansoftware/universal-dashboard)**  - Cross-platform module for developing websites and REST APIs. [*02/14/2020 18:37:38*]
 + **[UniversalDashboard.Style 1.0.0](https://github.com/ironmansoftware/ud-style)**  - Easily create stylesheets on the fly. [*09/14/2019 08:50:27*]
 + **[UniversalDashboard.Helmet 1.0.1](https://github.com/ironmansoftware/ud-helmet)**  - React Helmet for Universal Dashboard. [*08/27/2019 21:57:36*]
 + **[PoshInternals 1.0.34](https://github.com/adamdriscoll/poshinternals)**  - Collection of system internals tools for PowerShell. [*10/13/2017 15:20:01*]
@@ -242,42 +294,13 @@ Then run the Install-Exchange cmdlet with the necessary parameters. [*03/04/2017
 + **[Arcus.Scripting.ARM 1.1.2](https://scripting.arcus-azure.net/)**  - Scripts related to Azure Resource Manager [*08/24/2023 06:34:35*]
 + **[Arcus.Scripting.ApiManagement 1.1.2](https://scripting.arcus-azure.net/)**  - Scripts related to Azure API Management [*08/24/2023 06:34:30*]
 
-## Pure Storage
-
-+ **[PureStoragePowerShellToolkit 3.0.1](https://github.com/PureStorage-OpenConnect/PowerShell-Toolkit)**  - PowerShell Toolkit for Pure Storage Flasharray and Initiators. [*06/28/2023 15:52:32*]
-+ **PureStorage.Pure1 1.4.4.3**  - Pure Storage Pure1 REST API integration with PowerShell. [*07/22/2022 15:27:44*]
-+ **PureStorage.FlashArray.VMware 2.2.1.3**  - Pure Storage FlashArray VMware PowerCLI integration with Windows PowerShell. [*03/17/2022 16:48:19*]
-+ **PureStorage.FlashArray.VMware.VVol 2.0.1.1**  - Pure Storage FlashArray VMware PowerShell vVol management. [*03/17/2022 14:28:42*]
-+ **PureStorage.FlashArray.VMware.VCF 2.0.0.3**  - Pure Storage FlashArray VMware PowerShell VMFS management. [*03/16/2022 05:19:37*]
-+ **PureStorage.FlashArray.VMware.Configuration 2.0.0.3**  - Pure Storage FlashArray VMware PowerShell configuration management. [*03/16/2022 05:19:27*]
-+ **PureStorage.FlashArray.VMware.VMFS 2.0.0.2**  - Pure Storage FlashArray VMware PowerShell VMFS management. [*03/16/2022 05:19:19*]
-+ **PureStorage.FlashArray.VMware.RDM 2.0.1.1**  - Pure Storage FlashArray VMware PowerShell RDM management. [*03/16/2022 05:18:57*]
-+ **PureStorage.FlashArray.VMware.Software 2.0.0.3**  - Pure Storage FlashArray VMware PowerShell software management. [*03/16/2022 05:18:50*]
-+ **PureStorage.FlashArray.VMware.VVol.SPBM 1.0.0.2**  - Pure Storage FlashArray VMware PowerShell vVol SPBM management. [*03/16/2022 05:18:41*]
-+ **PureStorage.FlashArray.VMware.VVol.Replication 1.0.0.2**  - Pure Storage FlashArray VMware PowerShell vVol Replication management. [*03/16/2022 05:18:31*]
-+ **PureStorage.FlashArray.VMware.Pure1 1.0.0.1**  - Pure Storage FlashArray VMware PowerShell Pure1 management. [*12/04/2019 03:53:25*]
-
-## Chrissy LeMaire
-
-+ **kbupdate 2.0.27**  - KB Viewer, Saver, Installer and Uninstaller [*05/12/2023 00:25:49*]
-+ **kbupdate-library 1.1.24**  - Database for KB Viewer and Saver [*05/12/2023 00:24:51*]
-+ **[discordrpc 0.0.2](https://github.com/potatoqualitee/discordrpc)**  - Tell people you're playing PowerShell, send Rich Presence events to Discord! [*04/11/2022 08:51:16*]
-+ **[SPReplicator 0.0.35](https://github.com/potatoqualitee/SPReplicator)**  - SPReplicator helps replicate SharePoint list data from CSV, SQL Server, generic PowerShell objects, and other SharePoint lists. [*09/02/2021 12:51:50*]
-+ **[tentools 0.0.14](https://github.com/potatoqualitee/tentools)**  - Automation for DISA ACAS, including tenable.sc, Nessus and more. Based off of Carlos Perez's Posh-Nessus module and commands by Joseph Warren. [*06/15/2021 11:21:14*]
-+ **dbadisa 0.1.7**  - DISA STIG Automation for SQL Server [*06/10/2020 14:16:05*]
-+ **[IconExport 2.0.0](https://gallery.technet.microsoft.com/scriptcenter/Export-Icon-from-DLL-and-9d309047)**  - Export-Icon exports high-quality icons stored within .DLL and .EXE files. The function can export to a number of formats, including ico, bmp, png, jpg, gif, emf, exif, icon, tiff, and wmf. It can also export to different sizes. [*06/07/2016 12:17:25*]
-+ **TrelloVoteCount 1.0.0.7**  - Displays tallied votes for one Trello board in either a GridView or DataTable [*05/08/2016 08:39:10*]
-+ **[SystemColorsGrid 1.0](https://gallery.technet.microsoft.com/scriptcenter/Get-SystemColors-using-WPF-d7c31a8c)**  - Shows a pretty grid filled with system colors, their names, hex codes and rgb codes. [*09/16/2015 22:12:00*]
-+ **CsvSqlcmd 1.0.7**  - Query CSV files using SQL syntax [*09/09/2015 15:53:09*]
-+ **locate 1.0.1**  - Port of GNU locate and updatedb with bonus du [*09/09/2015 11:29:12*]
-+ **CsvSqlimport 1.0.0**  - Quickly import CSV files into SQL Server [*09/08/2015 12:48:36*]
-
 ## Adam Bertram
 
 + **[PSAirTable 1.0.18](https://github.com/adbertram/PSAirTable)**  - PSAirTable is a module that allows you to interact with the AirTable services in a number of different ways with PowerShell. [*09/20/2022 16:53:26*]
 + **[AzureVmSnapshots 1.0.11](https://github.com/adbertram/AzureVmSnapshots)**  - A small PowerShell module to create and restore Azure VMs. [*03/09/2020 20:23:43*]
 + **[PowerTrello 1.7.23](https://github.com/adbertram/PowerTrello)**  - PowerTrello is a module that allows you to interact with Trello a number of different ways with PowerShell. [*01/22/2020 23:50:38*]
 + **[PSShortcut 1.0.6](https://github.com/adbertram/PSShortcut)**  - This module eases working with Windows shortcuts (LNK and URL) files. [*07/05/2019 16:39:23*]
++ **[pswebdeploy 1.0.4](https://github.com/adbertram/PSWebDeploy)**  - A PowerShell module to provide an easier interface to msdeploy [*06/25/2019 21:51:14*]
 + **[pscredentialmanager 1.0.11](https://github.com/adbertram/PSCredentialManager)**  - This module allows management and automation of Windows cached credentials. [*06/25/2019 21:48:19*]
 + **[PSADSync 1.2.88](https://github.com/adbertram/PSADSync)**  - This module expedites the process of syncing a CSV file full of employees with Active Directory. [*06/25/2019 14:11:45*]
 + **[iPerfAutomate 1.0.16](https://www.github.com/adbertram/iPerfAutomate)**  - A module that assists in invoking and creating iPerf network monitor tests on remote computers. [*03/09/2019 15:23:25*]
@@ -285,7 +308,6 @@ Then run the Install-Exchange cmdlet with the necessary parameters. [*03/04/2017
 + **CMClient 1.7.3**  - Configuration Manager Client Action Module [*07/11/2017 17:22:47*]
 + **[PSSoftware 1.0.29](https://github.com/adbertram/PSSoftware)**  - This module assists software deployment administrators in deploying disparate software. It is designed to
 provide a standard interface to treat software installers of all types exactly the same. [*05/29/2017 14:01:25*]
-+ **[NTFSPermissionMigration 1.0](https://github.com/adbertram/Random-PowerShell-Work/blob/master/Security/NTFSPermissionMigration.psm1)**  - This module is used as a wrapper to the popular icacls utility to save permissions to a file and then restore those permissions to a mirror copy of the original folder structure. It is useful in file server migrations. [*03/09/2017 19:59:01*]
 + **[SoftwareInstallManager 1.0.0.0](https://github.com/adbertram/SoftwareInstallManager)**  - This module assists software deployment administrators in deploying disparate software. It is designed to
 provide a standard interface to treat software installers of all types exactly the same. [*04/09/2016 21:36:01*]
 
@@ -303,35 +325,6 @@ provide a standard interface to treat software installers of all types exactly t
 + **[Pentia.Publish-RuntimeDependencyPackage 2.0.0](https://github.com/PentiaLabs/WebSolutionBuildScripts)**  - Publishes well-formed runtime dependency packages. [*03/16/2018 09:57:10*]
 + **[Pentia.Get-RuntimeDependencyPackage 2.0.0](https://github.com/PentiaLabs/WebSolutionBuildScripts)**  - Get runtime dependency package info from a well-formed configuration file. [*03/16/2018 09:56:34*]
 + **[Pentia.Get-ConfigurationTransformFile 2.0.0](https://github.com/PentiaLabs/WebSolutionBuildScripts)**  - Filters and retrieves configuration transform files (XDTs). [*03/16/2018 09:56:15*]
-
-## Warren Frame
-
-+ **[PSSlack 1.0.6](https://github.com/RamblingCookieMonster/PSSlack/)**  - PowerShell module for the Slack API [*07/01/2021 00:46:21*]
-+ **[BuildHelpers 2.0.16](https://github.com/RamblingCookieMonster/BuildHelpers/)**  - Helper functions for PowerShell CI/CD scenarios. [*12/18/2020 18:32:24*]
-+ **Poshbot.Example 0.0.1**  - PoshBot module for a variety of commands [*07/18/2020 17:10:15*]
-+ **[PSDepend 0.3.8](https://github.com/RamblingCookieMonster/PSDepend/)**  - PowerShell Dependency Handler [*07/05/2020 00:54:32*]
-+ **[PSSQLite 1.1.0](https://github.com/RamblingCookieMonster/PSSQLite)**  - Query SQLite databases [*05/18/2020 13:38:10*]
-+ **[PSNeo4j 1.0.1](https://github.com/RamblingCookieMonster/PSNeo4j)**  - Simple Neo4j wrapper for Powershell [*08/09/2019 00:34:24*]
-+ **[Dots 0.0.7](https://github.com/RamblingCookieMonster/Dots)**  - PowerShell and Neo4j Based CMDB-lite [*07/12/2018 16:23:13*]
-+ **[WFTools 0.1.58](https://github.com/RamblingCookieMonster/PowerShell)**  - Assorted handy, largely unrelated PowerShell functions [*06/04/2018 17:38:18*]
-+ **[Invoke-SqlCmd2 1.6.4](https://github.com/RamblingCookieMonster/Invoke-SqlCmd2/)**  - Invoke-SqlCmd2 [*12/01/2016 02:06:22*]
-+ **[pshtmltable 0.0.1](https://github.com/RamblingCookieMonster/PSHTMLTable/)**  - Simplify creating HTML tables [*08/25/2016 20:28:58*]
-+ **[PSExcel 1.0.2](https://github.com/RamblingCookieMonster/PSExcel/)**  - Work with Excel without installing Excel [*08/09/2016 13:48:07*]
-+ **[SecretServer 1.0](https://github.com/RamblingCookieMonster/SecretServer)**  - Work with Secret Server Web Services and SQL Database [*07/08/2015 01:23:19*]
-
-## Friedrich Weinmann
-
-+ **[PSFramework 1.9.310](http://psframework.org/)**  - General Scripting Framework, providing PowerShell-specific infrastructure for other modules. [*09/13/2023 14:38:12*]
-+ **[ADSec 1.0.1](https://github.com/PSSecTools/ADSec)**  - Module to manage Active Directory Security [*06/07/2023 10:32:10*]
-+ **[ForestManagement 1.5.59](https://admf.one/)**  - Infrastructure module to build and maintain forest configuration [*06/01/2023 07:04:45*]
-+ **[PSModuleDevelopment 2.2.11.146](http://psframework.org/)**  - A module designed to speed up the development of PowerShell modules [*05/31/2023 08:50:30*]
-+ **[ADMF.Core 1.1.9](https://admf.one/)**  - Central Tooling used across available across all ADMF Project modules [*05/16/2023 07:05:03*]
-+ **[string 1.1.3](https://github.com/FriedrichWeinmann/string)**  - Module to execute script operations [*01/19/2023 23:40:10*]
-+ **[Azure.Function.Tools 1.0.4](https://github.com/FriedrichWeinmann/Azure.Function.Tools)**  - Lightweight tooling for Function Apps [*12/14/2022 08:37:55*]
-+ **GPWmiFilter 1.0.5**  - Module to manage WMI Filter [*06/05/2022 07:51:34*]
-+ **[PSUtil 2.2.35](https://psframework.org/)**  - Makes the daily PowerShell madness and toil easier to bear [*10/14/2021 04:40:04*]
-+ **GPOTools 0.3.0**  - Tools for GPO Management & Migration [*07/06/2020 04:18:20*]
-+ **MailDaemon 0.1.1**  - Mail Daemon as PowerShell Module [*02/09/2019 10:32:03*]
 
 ## Tao Yang
 
@@ -372,26 +365,6 @@ take the pain out of creating the proper web requests. [*07/21/2023 21:24:28*]
 + **[Whiskey 0.59.0](https://github.com/webmd-health-services/Whiskey)**  - Continuous Integration/Continuous Delivery module. [*04/22/2023 15:28:58*]
 + **[ProGetAutomation 2.0.0](https://github.com/webmd-health-services/ProGetAutomation)**  - The ProGetAutomation module is used to automate Inedo's ProGet, a universal package manager. It can host your own NuGet, Docker, PowerShell, Ruby Gems, Visual Studio Extensions, Maven, NPM, Bower, and Chocolatey repositories. It has its own proprietary universal package repositories. [*04/12/2023 02:59:27*]
 + **[Carbon.Core 1.2.0](https://whsbitbucket.webmd.net/projects/POWERSHELL/repos/Carbon.Core/browse)**  - Functions that make doing things in PowerShell a little easier. We think these should be part of PowerShell itself. Core functions that are used by other Carbon modules. [*02/16/2023 15:34:47*]
-+ **[Carbon.Windows.Installer 2.0.0](https://github.com/webmd-health-services/Carbon.Windows.Installer)**  - The Carbon.Windows.Installer module is a Windows-only module that has functions for reading and installing Windows MSI
-files/packages, and for replicating Windows' "Programs and Features"/"Apps and Features"
-graphical user interface as objects and text.
-
-Functions include:
-
-* `Get-CInstalledProgram`: reads the registry to determine all the programs installed on the local computer. Returns
-an object for each program. Is an object-based and text-based version of Windows' "Programs and Features"/"Apps and
-Features" GUI.
-* `Get-CMsi`: reads an MSI file and returns an object exposing the MSI's internal tables, like product name, product
-code, product version, etc. Let's you inspect an MSI for its metadata without installing it. Can also download the MSI
-file first. This function requires Windows PowerShell or PowerShell 7.1+ on Windows.
-* `Install-CMsi`: installs a program from an MSI file, or other file that can be installed by Windows. Can also download
-the MSI file to install. This function requires Windows PowerShell or PowerShell 7.1+ on Windows.
-
-System Requirements:
-
-* Windows PowerShell 5.1 on .NET 4.5.2+
-* PowerShell 6.2, 7.1, or 7.2
-* Windows Server 2012 R2+ or Windows 8.1+ [*08/26/2022 20:33:46*]
 + **[Prism 0.6.0](https://github.com/webmd-health-services/Prism)**  - Prism is a PowerShell module manager inspired by NuGet. Run `prism install` in a source code repository, and Prism will
 save private modules into a "PSModules" directory in that repository. Prism let's you:
 
@@ -419,18 +392,35 @@ get modules installed. [*08/08/2022 19:34:10*]
 + **[PasswordState 1.3.0](https://github.com/devblackops/PasswordState)**  - PowerShell module for interacting with PasswordState API. [*03/22/2018 04:20:03*]
 + **[POSHOrigin_vSphere 1.4.3](https://github.com/devblackops/POSHOrigin_vSphere)**  - DSC resources to manage VMware vSphere with POSHOrigin. [*08/10/2017 04:39:37*]
 + **[POSHOrigin 1.8.1](https://github.com/devblackops/POSHOrigin)**  - PowerShell framework for defining and invoking custom DSC resources to provision infrastructure. [*08/10/2017 04:12:54*]
++ **[POSHOrigin_ActiveDirectoryDNS 1.1.4](https://github.com/devblackops/POSHOrigin_ActiveDirectoryDNS)**  - POSHOrigin_ActiveDirectoryDNS is a set of PowerShell 5 based DSC resources for managing 
+        Active Directory DNS objects via DSC. These resources are designed to be used with POSHOrigin
+        as a Infrastructure as Code framework, but can be used natively by standard DSC configurations as well.
+        Integration with POSHOrigin is accomplished via a separate Invoke.ps1 script included in the module. [*05/31/2016 19:32:48*]
 
-## Daniel Scott-Raynsford
+## Friedrich Weinmann
 
-+ **[CosmosDB 4.7.0](https://github.com/PlagueHO/CosmosDB)**  - This module provides cmdlets for working with Azure Cosmos DB databases, collections, documents, attachments, offers, users, permissions, triggers, stored procedures and user defined functions. [*01/29/2023 22:01:11*]
-+ **[LoopbackAdapter 1.4.1](https://github.com/PlagueHO/LoopbackAdapter)**  - Module for creating and removing Loopback Network Adapters on Windows using Device Conslole (DevCon.exe) [*02/26/2021 06:46:06*]
-+ **[LabBuilder 1.2.0](https://github.com/PlagueHO/LabBuilder)**  - Builds Hyper-V Windows multi-machine/Active Directory labs using XML configuration files and DSC Resources. [*11/14/2020 06:42:42*]
-+ **[PSAuth 0.1.4.80](https://github.com/PlagueHO/PSAuth)**  - PowerShell module containing functions to make HTTP requests including OAuth 1.0 authentication. [*08/27/2019 05:15:48*]
-+ **[FileContentDsc 1.3.0.151](https://github.com/PlagueHO/FileContentDsc)**  - This module contains the DSC resources for manipulating the content of text files. [*07/20/2019 20:48:47*]
-+ **[iSCSIDsc 1.5.0.41](https://github.com/PlagueHO/iSCSIDsc)**  - DSC resources for configuring Windows iSCSI Targets and Initiators. [*09/02/2017 02:13:56*]
-+ **ACLReportTools 1.30.1.28**  - Provides Cmdlets for reporting on Share ACLs. [*05/20/2016 23:36:54*]
-+ **[ciSCSI 1.2.1.95](https://github.com/PlagueHO/ciSCSI)**  - DSC resources for configuring Windows iSCSI Targets and Initiators. [*05/04/2016 06:00:41*]
-+ **[cWSMan 1.0.1.31](https://github.com/PlagueHO/cWSMan)**  - DSC Resource for configuring WS-Management Listeners [*10/16/2015 00:55:59*]
++ **[PSFramework 1.9.310](http://psframework.org/)**  - General Scripting Framework, providing PowerShell-specific infrastructure for other modules. [*09/13/2023 14:38:12*]
++ **[ADSec 1.0.1](https://github.com/PSSecTools/ADSec)**  - Module to manage Active Directory Security [*06/07/2023 10:32:10*]
++ **[ForestManagement 1.5.59](https://admf.one/)**  - Infrastructure module to build and maintain forest configuration [*06/01/2023 07:04:45*]
++ **[ADMF.Core 1.1.9](https://admf.one/)**  - Central Tooling used across available across all ADMF Project modules [*05/16/2023 07:05:03*]
++ **[string 1.1.3](https://github.com/FriedrichWeinmann/string)**  - Module to execute script operations [*01/19/2023 23:40:10*]
++ **[Azure.Function.Tools 1.0.4](https://github.com/FriedrichWeinmann/Azure.Function.Tools)**  - Lightweight tooling for Function Apps [*12/14/2022 08:37:55*]
++ **GPWmiFilter 1.0.5**  - Module to manage WMI Filter [*06/05/2022 07:51:34*]
++ **[PSUtil 2.2.35](https://psframework.org/)**  - Makes the daily PowerShell madness and toil easier to bear [*10/14/2021 04:40:04*]
++ **GPOTools 0.3.0**  - Tools for GPO Management & Migration [*07/06/2020 04:18:20*]
++ **MailDaemon 0.1.1**  - Mail Daemon as PowerShell Module [*02/09/2019 10:32:03*]
+
+## Dr. Tobias Weltner
+
++ **[QRCodeGenerator 2.6.0](https://github.com/TobiasPSP/Modules.QRCodeGenerator)**  - creates QR codes offline [*07/21/2021 05:27:25*]
++ **[PsCommandDiscovery 1.0.1](https://github.com/TobiasPSP/GetEncoding)**  - Provides cmdlets to search for and discover PowerShell commands [*01/27/2021 13:10:41*]
++ **[PsOcr 1.1.0](https://github.com/TobiasPSP/PsOcr)**  - convert images to text by using the Windows 10 built-in OCR engine [*01/15/2021 14:33:35*]
++ **[ReallySimpleDatabase 1.0.0](https://github.com/TobiasPSP/ReallySimpleDatabase)**  - No-brainer SQLite database wrapper (comes with everything you need to start working with SQLite databases including the database engine. No dependencies. No prerequisites.) [*01/14/2021 11:57:57*]
++ **[EncodingAnalyzer 1.0.3](https://github.com/TobiasPSP/GetEncoding)**  - determines the encoding of any text file [*01/10/2021 00:51:30*]
++ **[PSOneTools 2.4](https://github.com/TobiasPSP/Modules.PSOneTools/tree/master/PSOneTools)**  - commands taken from articles published at https://powershell.one [*04/23/2020 08:34:45*]
++ **[ScriptBlockLoggingAnalyzer 2.0](https://github.com/TobiasPSP/Modules.ScriptBlockLoggingAnalyzer)**  - tools to manage scriptblock logging [*11/06/2019 18:53:21*]
++ **[WienExpertsLive 1.14](http://www.psconf.eu/)**  - sample code from experts live vienna april 2019 [*04/11/2019 15:10:04*]
++ **[ISESteroids 2.7.1.9](http://www.powertheshell.com/isesteroidsmanual/isesteroids-version-history/)**  - Extension for PowerShell ISE 3.0 and better [*01/05/2019 17:56:07*]
 
 ## James Brundage
 
@@ -452,34 +442,38 @@ A powerful PowerShell wrapper for git that lets you extend git, automate multipl
 + **powershell-yaml 0.4.7**  - Powershell module for serializing and deserializing YAML [*03/02/2023 13:18:18*]
 + **[GuiCompletion 1.0.0](https://github.com/nightroman/PS-GuiCompletion)**  - GUI-style tab-completion menu for PowerShell. [*08/18/2022 11:16:15*]
 + **[TelligentInstall 0.0.14](https://github.com/RichMercer/TelligentInstanceManager/)**  - Helper functions for installing Telligent Community [*02/10/2021 10:24:44*]
++ **[IIS10Audit 1.2.1](https://github.com/fbprogmbh/Audit-Test-Automation)**  - A module that benchmarks the current systems settings with current hardening standards such as the CIS Microsoft IIS Benchmarks. This module is specifically designed for Windows Server 2016 with IIS 10. [*01/23/2019 09:53:57*]
 + **[vDocumentation 2.4.7](https://github.com/arielsanchezmora/vDocumentation)**  - PowerShell module that produces documentation of a vSphere environment [*11/30/2018 18:18:07*]
-+ **[SMBBlueprint 8.2.0.3](https://github.com/itnetx/SMBblueprint-PowerShell)**  - Deployment Framework for the Microsoft SMB Azure & O365 solution. [*04/28/2017 14:44:45*]
 + **[Convert-WindowsImage 10.0](https://github.com/Microsoft/Virtualization-Documentation/tree/master/hyperv-tools/Convert-WindowsImage)**  - Convert-WindowsImage is the new version of WIM2VHD designed specifically for Windows 8 and above. Written in PowerShell, this command-line tool allows you to rapidly create sysprepped VHDX and VHDX images from setup media for Windows 7/Server 2008 R2, Windows 8/8.1/Server 2012/R2 [*05/16/2016 14:46:39*]
 + **[PowerShellGetGUI 1.0.0.0](https://github.com/SAPIENTechnologiesInc/PowerShellGet-GUI)**  - A GUI tool for managing PowerShell Gallery modules.
 
 PowerShellGet-GUI is a tool originally developed by Ferdinand Rios of SAPIEN Technologies, Inc. using PowerShell Studio 2015 ® for the PowerShell Asia Conference in September 2015, additional features were added by Devin Leaman of SAPIEN Technologies, Inc. It provides an easy to use interface for managing modules from the PowerShell Gallery. [*11/03/2015 19:44:38*]
 + **[ShowUI 1.5](http://show-ui.org/)**  - ShowUI is a module to help you write user interfaces to interact with PowerShell [*11/23/2014 13:51:02*]
 
-## Jan Hoek
+## Douglas Finke
 
-+ **[UncommonSense.Volkskrant 0.0.45.0](https://github.com/jhoek/UncommonSense.Volkskrant)**  - PowerShell module for listing Volkskrant articles [*09/19/2023 14:55:57*]
-+ **[UncommonSense.Nrc 0.1.0.26](https://github.com/jhoek/UncommonSense.Nrc)**  - PowerShell module for listing NRC articles [*09/15/2023 09:32:03*]
-+ **UncommonSense.P2000 0.1.0.0**  - PowerShell module for P2000 emergency services notifications [*06/12/2023 11:04:25*]
-+ **[UncommonSense.Hap 1.3.0](https://github.com/jhoek/UncommonSense.Hap)**  - PowerShell wrapper for Html Agility Pack [*05/26/2023 07:19:19*]
-+ **UncommonSense.iCalendar 1.2.0.0**  - PowerShell Module for creating iCalendar (ics) files [*08/05/2022 10:59:11*]
-+ **[UncommonSense.Xliff 0.0.3](https://github.com/jhoek/UncommonSense.Xliff)**  - PowerShell module for reading/writing XLIFF files [*06/30/2022 08:11:43*]
-+ **[UncommonSense.Rss 0.0.4](https://github.com/jhoek/UncommonSense.Rss)**  - PowerShell Module for creating RSS feeds [*02/26/2022 18:59:29*]
-+ **UncommonSense.Pushover 0.0.10.0**  - PowerShell module for sending Pushover notifications [*10/02/2019 10:25:03*]
++ **[PowerShellAI.Functions 0.1.2](https://github.com/dfinke/PowerShellAI.Functions)**  - PowerShellAI Functions Module a PowerShell module designed to work as a bridge between PowerShell functions and OpenAI. [*08/24/2023 17:56:22*]
++ **[PowerShellAI 0.9.1](https://github.com/dfinke/PowerShellAI)**  - The PowerShell AI module integrates with the OpenAI API and let's you easily access the GPT models for text completion, image generation and more. [*07/30/2023 15:10:53*]
++ **[ImportExcel 7.8.5](https://github.com/dfinke/ImportExcel)**  - PowerShell module to import/export Excel spreadsheets, without Excel.
+Check out the How To Videos https://www.youtube.com/watch?v=U3Ne_yX4tYo&list=PL5uoqS92stXioZw-u-ze_NtvSo0k0K0kq [*06/14/2023 10:00:02*]
++ **[InstallModuleFromGitHub 1.6.0](https://github.com/dfinke/InstallModuleFromGitHub)**  - PowerShell module that installs modules from GitHub [*11/27/2022 17:01:56*]
++ **[PowerShellNotebook 3.0.0](https://github.com/dfinke/PowerShellNotebook)**  - Lets you automate both PowerShell & SQL Notebooks with PowerShell at the command line, exports to Excel and more.
+For detailed instructions and examples, click through the "Project Site" link or go to https://github.com/dfinke/PowerShellNotebook/blob/master/README.md [*10/21/2022 19:36:34*]
++ **[NPMTabCompletion 1.3](https://github.com/dfinke/NPMTabCompletion)**  - Enables tab completion for npm commands [*02/14/2021 21:22:17*]
++ **[ConvertFromMarkdown 1.2.0](https://github.com/dfinke/ConvertFromMarkdown)**  - From your Markdown to generated chapters, run ScriptAnalyzer on your examples and generate HTML, a Word Doc or PDF. Table of Contents included [*04/18/2019 21:57:50*]
++ **[OutTabulatorView 1.1.0](https://github.com/dfinke/OutTabulatorView)**  - PowerShell - Sending output to an interactive table in a browser [*01/27/2019 16:17:16*]
++ **[ConvertToClass 1.5](https://github.com/dfinke/ConvertToClass)**  - PowerShell module to convert JSON or CSV to a PowerShell class definition [*05/14/2016 19:53:55*]
 
-## Cisco Systems
+## Daniel Scott-Raynsford
 
-+ **[Intersight.PowerShell 1.0.11.13515](https://github.com/CiscoDevNet/intersight-powershell)**  - Intersight Powershell module provides the cmdlets to manage, analyze, and automate the IT infrastructure in Intersight. [*09/13/2023 05:08:59*]
-+ **Cisco.UCSManager 3.0.4.4**  - PowerShell Module for Cisco UCS Manager (UCS Manager module in Cisco PowerTool Suite) [*06/23/2023 08:14:29*]
-+ **Cisco.UCSCentral 3.0.4.4**  - PowerShell Module for Cisco UcsCentral (UcsCentral module in Cisco PowerTool Suite) [*06/23/2023 08:13:45*]
-+ **Cisco.IMC 3.0.4.4**  - PowerShell Module for Cisco IMC (IMC module in Cisco PowerTool Suite) [*06/23/2023 08:12:59*]
-+ **Cisco.UCS.Common 3.0.4.4**  - PowerShell Module for Cisco Core (Core module in Cisco PowerTool Suite) [*06/23/2023 08:12:22*]
-+ **Cisco.HXPowerCLI 5.0.2**  - PowerShell module for Disaster Recovery in Cisco HyperFlex Systems [*10/18/2022 17:59:11*]
-+ **Cisco.UCS.DesiredStateConfiguration 2.5.3.0**  - PowerShell Module for Cisco DSC Resources (DSC module in Cisco PowerTool Suite) [*01/16/2020 06:51:31*]
-+ **Cisco.UCS.Core 2.5.3.0**  - PowerShell Module for Cisco Core (Core module in Cisco PowerTool Suite) [*01/16/2020 06:48:55*]
++ **[CosmosDB 4.7.0](https://github.com/PlagueHO/CosmosDB)**  - This module provides cmdlets for working with Azure Cosmos DB databases, collections, documents, attachments, offers, users, permissions, triggers, stored procedures and user defined functions. [*01/29/2023 22:01:11*]
++ **[LoopbackAdapter 1.4.1](https://github.com/PlagueHO/LoopbackAdapter)**  - Module for creating and removing Loopback Network Adapters on Windows using Device Conslole (DevCon.exe) [*02/26/2021 06:46:06*]
++ **[LabBuilder 1.2.0](https://github.com/PlagueHO/LabBuilder)**  - Builds Hyper-V Windows multi-machine/Active Directory labs using XML configuration files and DSC Resources. [*11/14/2020 06:42:42*]
++ **[PSAuth 0.1.4.80](https://github.com/PlagueHO/PSAuth)**  - PowerShell module containing functions to make HTTP requests including OAuth 1.0 authentication. [*08/27/2019 05:15:48*]
++ **[FileContentDsc 1.3.0.151](https://github.com/PlagueHO/FileContentDsc)**  - This module contains the DSC resources for manipulating the content of text files. [*07/20/2019 20:48:47*]
++ **[iSCSIDsc 1.5.0.41](https://github.com/PlagueHO/iSCSIDsc)**  - DSC resources for configuring Windows iSCSI Targets and Initiators. [*09/02/2017 02:13:56*]
++ **ACLReportTools 1.30.1.28**  - Provides Cmdlets for reporting on Share ACLs. [*05/20/2016 23:36:54*]
++ **[ciSCSI 1.2.1.95](https://github.com/PlagueHO/ciSCSI)**  - DSC resources for configuring Windows iSCSI Targets and Initiators. [*05/04/2016 06:00:41*]
++ **[cWSMan 1.0.1.31](https://github.com/PlagueHO/cWSMan)**  - DSC Resource for configuring WS-Management Listeners [*10/16/2015 00:55:59*]
 
-*Updated: Tuesday, 26 September 2023 09:51:53 UTC*
+*Updated: Tuesday, 26 September 2023 17:51:39 UTC*
