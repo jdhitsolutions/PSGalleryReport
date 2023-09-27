@@ -3,6 +3,38 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [PSMSALNet](https://www.powershellgallery.com/Packages/PSMSALNet/0.0.4) | 0.0.4
+
+### Published: 09/27/2023 07:53:10 by Francois LEON
+
+Module used to interact with Microsoft Authentication library
+
+__Downloads__: 25 | __Repository__: https://github.com/SCOMnewbie/PSMSALNet
+
+## [WindowsUtils](https://www.powershellgallery.com/Packages/WindowsUtils/1.10.0) | 1.10.0
+
+### Published: 09/27/2023 06:33:06 by Francisco Nabas
+
+This module contain tools to facilitate the administration of Windows computers.
+
+__Downloads__: 368 | __Repository__: https://github.com/FranciscoNabas/WindowsUtils
+
+## [VirtualMachineManager](https://www.powershellgallery.com/Packages/VirtualMachineManager/1.0.0.13) | 1.0.0.13
+
+### Published: 09/27/2023 06:09:45 by Patrik Senti
+
+Einfache und schnelle Bereitstellung von VMs.
+
+__Downloads__: 209 | __Repository__: 
+
+## [SdnDiagnostics](https://www.powershellgallery.com/Packages/SdnDiagnostics/3.2309.804.51434) | 3.2309.804.51434
+
+### Published: 09/27/2023 05:15:42 by Adam Rudell Luyao Feng
+
+SdnDiagnostics is a tool used to simplify the data collection and diagnostics of Windows Software Defined Networking.
+
+__Downloads__: 31,447 | __Repository__: https://github.com/microsoft/SdnDiagnostics
+
 ## [JamfPSPro](https://www.powershellgallery.com/Packages/JamfPSPro/1.0.0) | 1.0.0
 
 ### Published: 09/27/2023 01:23:16 by Tristan Brazier
@@ -17,7 +49,7 @@ __Downloads__: 58 | __Repository__: https://github.com/TrustyTristan/JamfPSPro
 
 Workplace Ninja Edition
 
-__Downloads__: 944,783 | __Repository__: https://github.com/OSDeploy/OSD
+__Downloads__: 944,769 | __Repository__: https://github.com/OSDeploy/OSD
 
 ## [SecretManagement.Keeper](https://www.powershellgallery.com/Packages/SecretManagement.Keeper/16.6.4) | 16.6.4
 
@@ -450,7 +482,7 @@ __Downloads__: 1,810 | __Repository__: https://github.com/oracle/oci-powershell-
 
 This modules provides Cmdlets for OCI Mysql Service
 
-__Downloads__: 16,321 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+__Downloads__: 16,322 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
 ## [OCI.PSModules.Monitoring](https://www.powershellgallery.com/Packages/OCI.PSModules.Monitoring/67.2.0) | 67.2.0
 
@@ -1122,7 +1154,7 @@ __Downloads__: 729 | __Repository__: https://github.com/Dejulia489/ZabbixPS
 
 PowerShell Module Wrapper for WinSCP.
 
-__Downloads__: 1,423,095 | __Repository__: https://github.com/tomohulk/WinSCP
+__Downloads__: 1,423,279 | __Repository__: https://github.com/tomohulk/WinSCP
 
 ## [PSTcpIp](https://www.powershellgallery.com/Packages/PSTcpIp/4.7.0) | 4.7.0
 
@@ -1156,7 +1188,7 @@ Compiles Powershell scripts to executables. Overworking of the great script of I
 'Invoke-ps2exe script.ps1' (or 'ps2exe script.ps1') compiles to script.exe. Several control parameters available.
 Or use Win-PS2EXE as a graphical front end to the compiler.
 
-__Downloads__: 293,846 | __Repository__: https://github.com/MScholtes/PS2EXE
+__Downloads__: 293,849 | __Repository__: https://github.com/MScholtes/PS2EXE
 
 ## [Juriba.Platform](https://www.powershellgallery.com/Packages/Juriba.Platform/0.0.42.0) | 0.0.42.0
 
@@ -1276,7 +1308,7 @@ __Downloads__: 17,195 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions for Active Directory
 
-__Downloads__: 18,843 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 18,854 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [Harden-Windows-Security-Module](https://www.powershellgallery.com/Packages/Harden-Windows-Security-Module/0.1.6.1) | 0.1.6.1
 
@@ -1329,15 +1361,7 @@ Harden Windows Safely, Securely, only with Official Microsoft methods
 
 🟡 The module generates a nice output on the screen as well as giving users an option to export the results in a CSV file.
 
-__Downloads__: 993 | __Repository__: https://github.com/HotCakeX/Harden-Windows-Security
-
-## [SdnDiagnostics](https://www.powershellgallery.com/Packages/SdnDiagnostics/3.2309.803.132937) | 3.2309.803.132937
-
-### Published: 09/26/2023 13:30:34 by Adam Rudell Luyao Feng
-
-SdnDiagnostics is a tool used to simplify the data collection and diagnostics of Windows Software Defined Networking.
-
-__Downloads__: 31,447 | __Repository__: https://github.com/microsoft/SdnDiagnostics
+__Downloads__: 999 | __Repository__: https://github.com/HotCakeX/Harden-Windows-Security
 
 ## [poshy-wrap-wget](https://www.powershellgallery.com/Packages/poshy-wrap-wget/0.3.13) | 0.3.13
 
@@ -1473,7 +1497,7 @@ __Downloads__: 241 | __Repository__: https://github.com/endjin/Endjin.Recommende
 
 PowerShell module, which makes it easier to work with Business Central Containers on Docker.
 
-__Downloads__: 1,369,246 | __Repository__: 
+__Downloads__: 1,369,362 | __Repository__: 
 
 ## [PSRule.Rules.AzureDevOps](https://www.powershellgallery.com/Packages/PSRule.Rules.AzureDevOps/0.0.12) | 0.0.12
 
@@ -1667,14 +1691,6 @@ Convenient cmdlets and aliases which wrap `maven`.
 
 __Downloads__: 37 | __Repository__: https://github.com/pwshrc/poshy-wrap-maven
 
-## [poshy-wrap-kubectl](https://www.powershellgallery.com/Packages/poshy-wrap-kubectl/0.2.12) | 0.2.12
-
-### Published: 09/26/2023 00:59:09 by Pwshrc Maintainers
-
-Convenient cmdlets and aliases which wrap `kubectl`.
-
-__Downloads__: 47 | __Repository__: https://github.com/pwshrc/poshy-wrap-kubectl
-
 ## [poshy-wrap-git](https://www.powershellgallery.com/Packages/poshy-wrap-git/0.2.12) | 0.2.12
 
 ### Published: 09/26/2023 00:58:51 by Pwshrc Maintainers
@@ -1691,14 +1707,6 @@ Convenient cmdlets and aliases which wrap `helm`.
 
 __Downloads__: 43 | __Repository__: https://github.com/pwshrc/poshy-wrap-helm
 
-## [poshy-wrap-brew](https://www.powershellgallery.com/Packages/poshy-wrap-brew/0.2.13) | 0.2.13
-
-### Published: 09/26/2023 00:58:49 by Pwshrc Maintainers
-
-Convenient cmdlets and aliases which wrap `brew`.
-
-__Downloads__: 42 | __Repository__: https://github.com/pwshrc/poshy-wrap-brew
-
 ## [poshy-wrap-git-flow](https://www.powershellgallery.com/Packages/poshy-wrap-git-flow/0.2.12) | 0.2.12
 
 ### Published: 09/26/2023 00:58:46 by Pwshrc Maintainers
@@ -1706,14 +1714,6 @@ __Downloads__: 42 | __Repository__: https://github.com/pwshrc/poshy-wrap-brew
 Convenient cmdlets and aliases which wrap `git-flow`.
 
 __Downloads__: 40 | __Repository__: https://github.com/pwshrc/poshy-wrap-git-flow
-
-## [poshy-wrap-docker](https://www.powershellgallery.com/Packages/poshy-wrap-docker/0.2.12) | 0.2.12
-
-### Published: 09/26/2023 00:58:40 by Pwshrc Maintainers
-
-Convenient cmdlets and aliases which wrap `docker`.
-
-__Downloads__: 42 | __Repository__: https://github.com/pwshrc/poshy-wrap-docker
 
 ## [poshy-wrap-python](https://www.powershellgallery.com/Packages/poshy-wrap-python/0.2.13) | 0.2.13
 
@@ -1739,14 +1739,6 @@ Convenient cmdlets and aliases which wrap `forgit`.
 
 __Downloads__: 39 | __Repository__: https://github.com/pwshrc/poshy-wrap-forgit
 
-## [poshy-wrap-docker-compose](https://www.powershellgallery.com/Packages/poshy-wrap-docker-compose/0.2.12) | 0.2.12
-
-### Published: 09/26/2023 00:58:36 by Pwshrc Maintainers
-
-Convenient cmdlets and aliases which wrap `docker-compose`.
-
-__Downloads__: 40 | __Repository__: https://github.com/pwshrc/poshy-wrap-docker-compose
-
 ## [poshy-wrap-curl](https://www.powershellgallery.com/Packages/poshy-wrap-curl/0.2.12) | 0.2.12
 
 ### Published: 09/26/2023 00:58:36 by Pwshrc Maintainers
@@ -1754,6 +1746,14 @@ __Downloads__: 40 | __Repository__: https://github.com/pwshrc/poshy-wrap-docker-
 Convenient cmdlets and aliases which wrap `curl`.
 
 __Downloads__: 40 | __Repository__: https://github.com/pwshrc/poshy-wrap-curl
+
+## [poshy-wrap-docker-compose](https://www.powershellgallery.com/Packages/poshy-wrap-docker-compose/0.2.12) | 0.2.12
+
+### Published: 09/26/2023 00:58:36 by Pwshrc Maintainers
+
+Convenient cmdlets and aliases which wrap `docker-compose`.
+
+__Downloads__: 40 | __Repository__: https://github.com/pwshrc/poshy-wrap-docker-compose
 
 ## [poshy-wrap-git-hf](https://www.powershellgallery.com/Packages/poshy-wrap-git-hf/0.2.13) | 0.2.13
 
@@ -1990,15 +1990,7 @@ __Downloads__: 651 | __Repository__: https://github.com/HotCakeX/Harden-Windows-
 
 This module provides an interface to the NinjaOne API.
 
-__Downloads__: 2,101 | __Repository__: https://github.com/homotechsual/NinjaOne
-
-## [PSMSALNet](https://www.powershellgallery.com/Packages/PSMSALNet/0.0.3) | 0.0.3
-
-### Published: 09/25/2023 16:10:38 by Francois LEON
-
-Module used to interact with Microsoft Authentication library
-
-__Downloads__: 25 | __Repository__: 
+__Downloads__: 2,102 | __Repository__: https://github.com/homotechsual/NinjaOne
 
 ## [BinaryTree.Internal.Power365.Dev](https://www.powershellgallery.com/Packages/BinaryTree.Internal.Power365.Dev/20.12.13.1513) | 20.12.13.1513
 
@@ -2118,4 +2110,12 @@ PdfLexer is a powershell pdf manipulation library for Powershell 7+.
 
 __Downloads__: 127 | __Repository__: https://github.com/pdflexer/pdflexer
 
-*Updated: Wednesday, 27 September 2023 02:03:03 UTC*
+## [Psmd.Bootstrap](https://www.powershellgallery.com/Packages/Psmd.Bootstrap/1.0.3) | 1.0.3
+
+### Published: 09/23/2023 20:06:48 by Friedrich Weinmann
+
+Tools for creating self-expanding bootstrap scripts
+
+__Downloads__: 8 | __Repository__: https://github.com/PowershellFrameworkCollective/Psmd.Bootstrap
+
+*Updated: Wednesday, 27 September 2023 09:52:52 UTC*
