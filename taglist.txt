@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Sunday, 01 October 2023 09:52:58 UTC
+Updated: Sunday, 01 October 2023 17:54:09 UTC
 
 .bat
 .env
@@ -51,6 +51,7 @@ Updated: Sunday, 01 October 2023 09:52:58 UTC
 7z
 7zip
 8.1
+8ball
 9
 aa
 aac
@@ -122,7 +123,6 @@ activeefficiency
 activehours
 activeresponse
 activesession
-activiti
 activity
 activitycount
 actor-model
@@ -262,6 +262,7 @@ alertmail
 alertmanagement
 alerts
 alertsmanagement
+alfresco
 algorithm
 algorithms
 alias
@@ -280,7 +281,6 @@ alpine
 alt3
 alter
 alteryx
-alwaysontop
 alwaysonvpn
 alz
 amateur
@@ -429,7 +429,6 @@ area
 arg
 argcomplete
 argument
-argumentcompleter
 arguments
 arm
 arm-json
@@ -560,7 +559,6 @@ availability
 availabilityset
 avalara
 avalonia
-avatar
 avd
 ave
 avepoint
@@ -641,6 +639,8 @@ azurebasicloadbalancerupgrade
 azurecli
 azurecognitiveservices
 azureconnectedmachine
+azurecontainerapps
+azurecontainers
 azuredatabricks
 azuredataexplorer
 azuredatastudio
@@ -846,14 +846,12 @@ boundaries
 boundarygroups
 bounty
 box
-bpmn
 brainy
 branch
 brave
 brawlapi
 brawlstars
 brazencloud
-bre
 breach
 break
 breakpoint
@@ -907,7 +905,6 @@ businesscentral
 businessdays
 businesshours
 businessobjects
-businessrulesengine
 businesstime
 bxor
 bydesign
@@ -933,7 +930,6 @@ calvin-and-hobbes
 cam
 camera
 campaign
-camtasia
 canarie
 cancel
 cancellation
@@ -1478,6 +1474,7 @@ creationworkflowsimplification
 creator
 cred
 credential
+credential-dialog
 credential-file
 credential-files
 credential-manager
@@ -1599,6 +1596,7 @@ dacl
 dacpac
 dacpackage
 dagger
+daily
 dangling
 dapr
 dare
@@ -2125,7 +2123,6 @@ emailmanagment
 emailnotification
 emailnotificationcomponent
 emailsecurity
-embedded
 emc
 emcomm
 emergency
@@ -2211,11 +2208,6 @@ escaping
 ese
 esent
 esoteric
-esp
-esp-idf
-esp32
-esp32s2
-espressif
 esri
 essbase
 estimate
@@ -2794,7 +2786,6 @@ granttype
 graph
 graph-api
 graphapi
-graphapirequests
 graphexplorer
 graphic
 graphics
@@ -2925,6 +2916,7 @@ helpdesk
 helpdoc
 helper
 helper-functions
+helperfunctions
 helpers
 helpfile
 heml
@@ -3102,8 +3094,8 @@ identitydataplane
 identitydirector
 identitydomains
 identitynow
-idf
 idm
+idna
 ids
 ie
 iem
@@ -3127,12 +3119,22 @@ ilocmdlets
 im
 image
 image-converter
+image-creation
+image-generation
+image-process
+image-validation
 imagebuilder
+imagecreate
+imagecreation
+imagegeneration
 imageoftheday
+imageprocess
 imageprocessing
 images
 imageservicing
 imageslide
+imagevalidate
+imagevalidation
 imagga
 imagination
 imaging
@@ -3237,6 +3239,7 @@ intellisense
 interactive
 interactive-brokers
 interface
+interlogix
 internet
 internet-explorer
 internetconnection
@@ -3250,6 +3253,7 @@ intranet
 intrusion
 intuitive
 intune
+intuneappwinutil
 intunestuff
 inventory
 investigation
@@ -3294,7 +3298,6 @@ iperf
 ipfy.org
 iphone
 ipilot
-iplookup
 ipmaths
 ipp
 iprange
@@ -3374,7 +3377,6 @@ jnet
 jnetps
 joat
 job
-jobcan
 jobs
 jobscheduler
 johnshopkins
@@ -3414,7 +3416,6 @@ jvm
 jwk
 jws
 jwt
-jwttoken
 k8s
 k8sshell
 kafka
@@ -3423,7 +3424,7 @@ karabiner
 karabiner-elements
 karma
 kaseya
-kaseyavsa
+kaspersky
 katakana
 kb
 kbarticle
@@ -3625,7 +3626,6 @@ litedb
 literature
 live
 lldp
-lmhost
 lmhosts
 lms
 load
@@ -3854,6 +3854,7 @@ mcafee
 mcas
 mcd
 mchapv2
+mct
 md5
 md5_v2-afbf3dae88c049d004174f2d610ee134
 md5sum
@@ -3888,6 +3889,7 @@ melamed
 meltdown
 mem
 member
+members
 membership
 memcm
 memory
@@ -4400,7 +4402,9 @@ office2016
 office2019
 office365
 officedev
+officegraph
 officemessageencryption
+officertool
 offline
 offlinewimservicing
 ofx
@@ -4500,6 +4504,7 @@ optimization
 optimizer
 option
 option119
+options
 optionstring
 opus
 oracle
@@ -4558,7 +4563,6 @@ outline
 outlook
 output
 output-to-image
-outreach
 outsystems
 overbite
 ovf
@@ -4836,10 +4840,8 @@ poshgrouppolicy
 poshkeepass
 poshlog
 poshorigin
-poshproject
 poshprtg
 poshrsjob
-poshtemplate
 poshwsus
 poshy-code-search
 poshy-colors
@@ -4876,12 +4878,10 @@ poshy-wrap-golang
 poshy-wrap-helm
 poshy-wrap-kubectl
 poshy-wrap-maven
-poshy-wrap-nginx
 poshy-wrap-nmap
 poshy-wrap-npm
 poshy-wrap-pip
 poshy-wrap-pipenv
-poshy-wrap-pyenv
 poshy-wrap-pylint
 poshy-wrap-python
 poshy-wrap-ruby
@@ -4920,6 +4920,7 @@ powercligoodies
 powercommander
 powerdex
 powerforensics
+powergraph
 powergui
 powermax
 powerplan
@@ -4970,7 +4971,6 @@ powershellmodule
 powershellmoduleupdate
 powershellpr0mpt
 powershellscript
-powershelltemplate
 powershelltraining
 powershelltypeaccelerators
 powershelluniversal
@@ -4981,7 +4981,6 @@ powertab
 powertoolcmdlets
 powertooldsc
 ppdm
-ppk
 pposh
 pps
 ppt
@@ -5066,7 +5065,6 @@ project-management
 projectmanagement
 projectreunion
 projects
-projecttemplate
 projectwise
 proliant
 prometheus
@@ -6159,7 +6157,6 @@ pscommand_invoke-pipenvuninstall
 pscommand_invoke-pipenvupdate
 pscommand_invoke-pipenvvenv
 pscommand_invoke-pipenvwhere
-pscommand_invoke-pyenv
 pscommand_invoke-pylintreportsdisabled
 pscommand_invoke-ruby
 pscommand_invoke-rubyexecute
@@ -6559,10 +6556,6 @@ pscommand_new-isofile
 pscommand_new-viewerinvocationfunction
 pscommand_new-windowsterminalpane
 pscommand_new-windowsterminaltab
-pscommand_nginx_reload
-pscommand_nginx_restart
-pscommand_nginx_start
-pscommand_nginx_stop
 pscommand_nmap_check_for_firewall
 pscommand_nmap_check_for_vulns
 pscommand_nmap_detect_versions
@@ -6649,7 +6642,6 @@ pscommand_pvenv
 pscommand_pwh
 pscommand_pwshrc-show-proxy
 pscommand_py
-pscommand_pyenv
 pscommand_pylint-quick
 pscommand_pyserver
 pscommand_python
@@ -7582,7 +7574,6 @@ psfunction_invoke-pipenvuninstall
 psfunction_invoke-pipenvupdate
 psfunction_invoke-pipenvvenv
 psfunction_invoke-pipenvwhere
-psfunction_invoke-pyenv
 psfunction_invoke-pylintreportsdisabled
 psfunction_invoke-ruby
 psfunction_invoke-rubyexecute
@@ -7836,10 +7827,6 @@ psfunction_new-isofile
 psfunction_new-viewerinvocationfunction
 psfunction_new-windowsterminalpane
 psfunction_new-windowsterminaltab
-psfunction_nginx_reload
-psfunction_nginx_restart
-psfunction_nginx_start
-psfunction_nginx_stop
 psfunction_nmap_check_for_firewall
 psfunction_nmap_check_for_vulns
 psfunction_nmap_detect_versions
@@ -8042,6 +8029,7 @@ psjob
 psjobs
 psjobthreads
 pskeepass
+pslocalgallery
 psloganalytics
 psm
 psm1
@@ -8049,7 +8037,6 @@ psmodule
 psmodule psedition_desktop
 psmodulepath
 psmodules
-psmp
 psmsgraph
 psmsgraphapi
 psmssql
@@ -8077,6 +8064,7 @@ psreadexif
 psreadline
 psremoting
 psrepository
+psresourceget
 psrule
 psrule-rules
 pssa
@@ -8128,6 +8116,7 @@ pullrequest
 pullserver
 pulseway
 pulumi
+punycode
 puppet
 puppetdb
 puppy
@@ -8157,7 +8146,6 @@ pwshake
 pwshfw
 pwshrc
 pxedistributionpoint
-pyenv
 pygmentize
 pylint
 pyranja
@@ -8547,7 +8535,6 @@ rubrik
 rubriksecuritycloud
 ruby
 rule
-rulesengine
 run
 run-as-user
 runas
@@ -8618,7 +8605,6 @@ savov
 sbc
 sc
 scaffold
-scaffoldingtemplate
 scala
 scalable
 scalablevectorgraphics
@@ -9431,7 +9417,6 @@ tab-completion
 tab-expansion
 tabcompletion
 tabexpansion
-tabexpansion2
 tablacus
 table
 tableau
@@ -9466,7 +9451,6 @@ taskgroup
 taskmanagement
 tasks
 taskscheduler
-taxjar
 taxonomy
 tcp
 tcp/ip
@@ -9491,7 +9475,6 @@ techdirect
 techedna2014
 techlog
 technology
-techsmith
 tel
 telegram
 telegram-bot
@@ -9687,7 +9670,6 @@ transparency
 transpilation
 trap
 travel
-trec
 tree
 tree-structure
 treesize
@@ -9712,6 +9694,7 @@ trouw
 true-color
 truecrypt
 truenas
+truportal
 trusted
 trusted-host
 trustedhosts
@@ -9729,6 +9712,7 @@ tst1
 tst3
 ttrpg
 tts
+tubedownloader
 tui
 tulpep
 tuner
@@ -9749,6 +9733,7 @@ twitter-hashtag
 twitter-mention
 twitter-share
 twitter-timeline
+twitter-tweet
 txt
 type
 typeaccelerators
@@ -9834,6 +9819,7 @@ ui7
 uk
 ul
 ulid
+ultimatetool
 um
 uml
 umn
@@ -9980,6 +9966,7 @@ vbaproject
 vbproj
 vbr
 vbscript
+vbsinst
 vc
 vccmdlets
 vcenter
@@ -10093,7 +10080,6 @@ vnet
 vnmonitoring
 vnugglets
 vnugglets.com
-vocabularies
 voice
 voiceconfig
 voiceservices
@@ -10124,7 +10110,6 @@ vrsns
 vrtu
 vs
 vs-shell
-vsa
 vsan
 vsan+
 vscode
@@ -10240,7 +10225,6 @@ weixin
 well-known
 wem
 wemsdk
-wer
 wget
 what3words
 whatismyip
@@ -10319,6 +10303,7 @@ windowsinstaller
 windowsinternaldatabase
 windowsinternals
 windowsiotservices
+windowsiso
 windowsmanagementframework
 windowspackagemanager
 windowsplugins
@@ -10416,6 +10401,7 @@ wql
 wrap
 wrap-text
 wrapper
+wrapperfunctions
 wrc
 wrike
 write
