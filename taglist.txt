@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Sunday, 01 October 2023 17:54:09 UTC
+Updated: Monday, 02 October 2023 02:03:07 UTC
 
 .bat
 .env
@@ -15,7 +15,6 @@ Updated: Sunday, 01 October 2023 17:54:09 UTC
 "interactive
 🍄
 🍣
-💩
 10
 11
 1607
@@ -123,6 +122,7 @@ activeefficiency
 activehours
 activeresponse
 activesession
+activiti
 activity
 activitycount
 actor-model
@@ -150,7 +150,6 @@ add-on.module
 add-one
 add-path
 add-type
-addin
 addlevel
 addomainservices
 addon
@@ -397,7 +396,6 @@ appv
 appveyor
 appvolumes
 appx
-appxmanifest
 aprs
 aprs-is
 aprsis
@@ -429,6 +427,7 @@ area
 arg
 argcomplete
 argument
+argumentcompleter
 arguments
 arm
 arm-json
@@ -559,6 +558,7 @@ availability
 availabilityset
 avalara
 avalonia
+avatar
 avd
 ave
 avepoint
@@ -846,12 +846,14 @@ boundaries
 boundarygroups
 bounty
 box
+bpmn
 brainy
 branch
 brave
 brawlapi
 brawlstars
 brazencloud
+bre
 breach
 break
 breakpoint
@@ -905,6 +907,7 @@ businesscentral
 businessdays
 businesshours
 businessobjects
+businessrulesengine
 businesstime
 bxor
 bydesign
@@ -930,12 +933,12 @@ calvin-and-hobbes
 cam
 camera
 campaign
+camtasia
 canarie
 cancel
 cancellation
 canonical
 cantara
-capability
 capacity
 capgemini
 capslock
@@ -1474,7 +1477,6 @@ creationworkflowsimplification
 creator
 cred
 credential
-credential-dialog
 credential-file
 credential-files
 credential-manager
@@ -1524,7 +1526,6 @@ css
 csv
 csv2adx
 csvhelper
-ctf
 ctglobal
 ctl
 ctrl+c
@@ -1746,7 +1747,6 @@ dependencies
 dependency
 deploy
 deployment
-deploymentconfig
 deploymentmanager
 deploymentresourceprovider
 depute
@@ -1780,6 +1780,7 @@ devexpress
 deviation
 device
 devicecode
+deviceid
 deviceprovisioningservice
 devices
 deviceupdate
@@ -2123,6 +2124,7 @@ emailmanagment
 emailnotification
 emailnotificationcomponent
 emailsecurity
+embedded
 emc
 emcomm
 emergency
@@ -2208,6 +2210,11 @@ escaping
 ese
 esent
 esoteric
+esp
+esp-idf
+esp32
+esp32s2
+espressif
 esri
 essbase
 estimate
@@ -2786,6 +2793,7 @@ granttype
 graph
 graph-api
 graphapi
+graphapirequests
 graphexplorer
 graphic
 graphics
@@ -3049,8 +3057,6 @@ hyperv
 hypervisor
 hypervplugins
 hypothesis
-hysolate
-hysolatemangementconsole
 i-doit
 i2c
 ia
@@ -3094,6 +3100,7 @@ identitydataplane
 identitydirector
 identitydomains
 identitynow
+idf
 idm
 idna
 ids
@@ -3144,7 +3151,6 @@ imei
 imi
 impala
 impersonation
-imperva
 import
 import-csv
 import-dtdriverpackpackagedefinitionsms
@@ -3298,6 +3304,7 @@ iperf
 ipfy.org
 iphone
 ipilot
+iplookup
 ipmaths
 ipp
 iprange
@@ -3377,13 +3384,13 @@ jnet
 jnetps
 joat
 job
+jobcan
 jobs
 jobscheduler
 johnshopkins
 join
 join-object
 jojoba
-joke
 jotform
 journal
 joyride
@@ -3416,6 +3423,7 @@ jvm
 jwk
 jws
 jwt
+jwttoken
 k8s
 k8sshell
 kafka
@@ -3424,6 +3432,7 @@ karabiner
 karabiner-elements
 karma
 kaseya
+kaseyavsa
 kaspersky
 katakana
 kb
@@ -3577,8 +3586,6 @@ library
 libvirt
 licence
 license
-license-generator
-licenseautomation
 licensemanagement
 licensemanager
 licensereport
@@ -3626,12 +3633,12 @@ litedb
 literature
 live
 lldp
+lmhost
 lmhosts
 lms
 load
 loadbalancer
 loadbalancer.org
-loader
 loadtesting
 loanddepot
 loandepot
@@ -3872,7 +3879,6 @@ me4024
 mean
 measure
 measure-loc
-measure-process
 mecm
 media
 mediant
@@ -3889,7 +3895,6 @@ melamed
 meltdown
 mem
 member
-members
 membership
 memcm
 memory
@@ -3904,6 +3909,7 @@ mercurial
 merge
 mermaid
 message
+messagebox
 messageoftheday
 messages
 messaging
@@ -4186,8 +4192,6 @@ neo4j
 neovim
 neptune
 nerdfonts
-nerdio
-nerdioapi
 nerdymishka
 nessus
 nested
@@ -4279,7 +4283,6 @@ nlm
 nlog
 nmap
 nmbell
-nmm
 nntp
 node
 nodejs
@@ -4390,7 +4393,6 @@ odata
 odbc
 odfb
 odin
-odoo
 oem-charset
 offboarding
 offence
@@ -4405,7 +4407,6 @@ officedev
 officegraph
 officemessageencryption
 officertool
-offline
 offlinewimservicing
 ofx
 ogg
@@ -4424,7 +4425,6 @@ omnistack
 oms
 omsagent
 on
-on-demand
 on-premise
 onboard
 onboardadministrator
@@ -4563,6 +4563,7 @@ outline
 outlook
 output
 output-to-image
+outreach
 outsystems
 overbite
 ovf
@@ -4628,7 +4629,6 @@ partnerportal
 pas
 pass
 passcode
-passivetotal
 passphrase
 passphraser passphrase password generator entropy
 passwd
@@ -4667,7 +4667,6 @@ payload
 paylocity
 paypal
 pays
-pbench
 pc
 pcapng
 pci-dss
@@ -4807,7 +4806,6 @@ polycom
 pomodoro
 ponduit
 pool
-poop
 pop
 pop-location
 pop3
@@ -4840,8 +4838,10 @@ poshgrouppolicy
 poshkeepass
 poshlog
 poshorigin
+poshproject
 poshprtg
 poshrsjob
+poshtemplate
 poshwsus
 poshy-code-search
 poshy-colors
@@ -4878,10 +4878,12 @@ poshy-wrap-golang
 poshy-wrap-helm
 poshy-wrap-kubectl
 poshy-wrap-maven
+poshy-wrap-nginx
 poshy-wrap-nmap
 poshy-wrap-npm
 poshy-wrap-pip
 poshy-wrap-pipenv
+poshy-wrap-pyenv
 poshy-wrap-pylint
 poshy-wrap-python
 poshy-wrap-ruby
@@ -4971,6 +4973,7 @@ powershellmodule
 powershellmoduleupdate
 powershellpr0mpt
 powershellscript
+powershelltemplate
 powershelltraining
 powershelltypeaccelerators
 powershelluniversal
@@ -4981,6 +4984,7 @@ powertab
 powertoolcmdlets
 powertooldsc
 ppdm
+ppk
 pposh
 pps
 ppt
@@ -4998,12 +5002,10 @@ prefix
 preparead
 preparealldomains
 prepareschema
-prepend
 preprocessing
 preprocessor
 presentation
 presenter
-presto
 preston-k-parsard
 prettifier
 pretty
@@ -5065,6 +5067,7 @@ project-management
 projectmanagement
 projectreunion
 projects
+projecttemplate
 projectwise
 proliant
 prometheus
@@ -6157,6 +6160,7 @@ pscommand_invoke-pipenvuninstall
 pscommand_invoke-pipenvupdate
 pscommand_invoke-pipenvvenv
 pscommand_invoke-pipenvwhere
+pscommand_invoke-pyenv
 pscommand_invoke-pylintreportsdisabled
 pscommand_invoke-ruby
 pscommand_invoke-rubyexecute
@@ -6556,6 +6560,10 @@ pscommand_new-isofile
 pscommand_new-viewerinvocationfunction
 pscommand_new-windowsterminalpane
 pscommand_new-windowsterminaltab
+pscommand_nginx_reload
+pscommand_nginx_restart
+pscommand_nginx_start
+pscommand_nginx_stop
 pscommand_nmap_check_for_firewall
 pscommand_nmap_check_for_vulns
 pscommand_nmap_detect_versions
@@ -6642,6 +6650,7 @@ pscommand_pvenv
 pscommand_pwh
 pscommand_pwshrc-show-proxy
 pscommand_py
+pscommand_pyenv
 pscommand_pylint-quick
 pscommand_pyserver
 pscommand_python
@@ -7574,6 +7583,7 @@ psfunction_invoke-pipenvuninstall
 psfunction_invoke-pipenvupdate
 psfunction_invoke-pipenvvenv
 psfunction_invoke-pipenvwhere
+psfunction_invoke-pyenv
 psfunction_invoke-pylintreportsdisabled
 psfunction_invoke-ruby
 psfunction_invoke-rubyexecute
@@ -7827,6 +7837,10 @@ psfunction_new-isofile
 psfunction_new-viewerinvocationfunction
 psfunction_new-windowsterminalpane
 psfunction_new-windowsterminaltab
+psfunction_nginx_reload
+psfunction_nginx_restart
+psfunction_nginx_start
+psfunction_nginx_stop
 psfunction_nmap_check_for_firewall
 psfunction_nmap_check_for_vulns
 psfunction_nmap_detect_versions
@@ -8037,6 +8051,7 @@ psmodule
 psmodule psedition_desktop
 psmodulepath
 psmodules
+psmp
 psmsgraph
 psmsgraphapi
 psmssql
@@ -8142,10 +8157,10 @@ pwpush
 pwsafe
 pwsh
 pwsh.fw
-pwshake
 pwshfw
 pwshrc
 pxedistributionpoint
+pyenv
 pygmentize
 pylint
 pyranja
@@ -8474,7 +8489,6 @@ rightsizing
 rightsmanagement
 ripe
 risk
-riskiq
 riskpro
 risksense
 rivermeadow
@@ -8535,8 +8549,8 @@ rubrik
 rubriksecuritycloud
 ruby
 rule
+rulesengine
 run
-run-as-user
 runas
 runbook
 runbooks
@@ -8605,6 +8619,7 @@ savov
 sbc
 sc
 scaffold
+scaffoldingtemplate
 scala
 scalable
 scalablevectorgraphics
@@ -8625,7 +8640,6 @@ schannel
 schannelpolicydsc
 schedule
 scheduled
-scheduled-task
 scheduled-tasks
 scheduledjob
 scheduledtasks
@@ -8723,7 +8737,6 @@ securegopher+
 securemfa
 securerdp
 securescore
-securesphere
 securestring
 security
 security-awareness-training
@@ -8894,7 +8907,6 @@ sharepointpnppowershellonline.add-on.module
 shares
 sheets
 shell
-shell-art
 shells
 shieldedvm
 ships
@@ -9073,6 +9085,7 @@ source
 source-dedicated-server
 sourcecontrol
 sourceforge
+sourcegraph
 sourcemod
 sourceone
 sourcepawn
@@ -9395,8 +9408,6 @@ system
 system information 1394 controller baseboard motherboard systemboard battery bios bus cache memory cd dvd rom drive compact disc desktop monitor disk partition fan floppy glide point heatpipe ide infrared device keyboard local logical array mouse'
 system-administration
 system-group
-system-service
-system-services
 system.directoryservices.protocols
 system.text
 systemcenter
@@ -9417,6 +9428,7 @@ tab-completion
 tab-expansion
 tabcompletion
 tabexpansion
+tabexpansion2
 tablacus
 table
 tableau
@@ -9451,6 +9463,7 @@ taskgroup
 taskmanagement
 tasks
 taskscheduler
+taxjar
 taxonomy
 tcp
 tcp/ip
@@ -9475,6 +9488,7 @@ techdirect
 techedna2014
 techlog
 technology
+techsmith
 tel
 telegram
 telegram-bot
@@ -9670,6 +9684,7 @@ transparency
 transpilation
 trap
 travel
+trec
 tree
 tree-structure
 treesize
@@ -9733,7 +9748,6 @@ twitter-hashtag
 twitter-mention
 twitter-share
 twitter-timeline
-twitter-tweet
 txt
 type
 typeaccelerators
@@ -9876,7 +9890,6 @@ updmgmt
 upgrade
 uplift
 uplink
-upn
 ups
 upsource
 upstream
@@ -10080,6 +10093,7 @@ vnet
 vnmonitoring
 vnugglets
 vnugglets.com
+vocabularies
 voice
 voiceconfig
 voiceservices
@@ -10110,6 +10124,7 @@ vrsns
 vrtu
 vs
 vs-shell
+vsa
 vsan
 vsan+
 vscode
@@ -10225,6 +10240,7 @@ weixin
 well-known
 wem
 wemsdk
+wer
 wget
 what3words
 whatismyip
@@ -10328,6 +10344,7 @@ windowstimezone
 windowsupdate
 windowsupdates
 windowsvirtualdesktop
+winform
 winforms
 winget
 wingetbridge
@@ -10375,7 +10392,6 @@ workbook
 workday
 worker
 workflow
-workflowmax
 workflows
 workingdays
 workinghours
