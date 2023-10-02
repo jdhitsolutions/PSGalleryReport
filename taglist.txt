@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 02 October 2023 09:53:01 UTC
+Updated: Monday, 02 October 2023 17:53:02 UTC
 
 .bat
 .env
@@ -43,7 +43,6 @@ Updated: Monday, 02 October 2023 09:53:01 UTC
 3dprinting
 3par
 50
-64
 650
 650flb
 7
@@ -69,6 +68,7 @@ abc
 abc_testing
 abe
 about
+abr
 abstractsyntaxtree
 abuse
 abuseipdb
@@ -174,6 +174,7 @@ adm
 admf
 admin
 admin-tools
+adminbyrequest
 admindirectory
 administration
 administrative
@@ -258,6 +259,7 @@ alero
 alert
 alerting
 alertmail
+alertmanagement
 alerts
 alertsmanagement
 alfresco
@@ -279,7 +281,6 @@ alpine
 alt3
 alter
 alteryx
-alwaysontop
 alwaysonvpn
 alz
 amateur
@@ -348,6 +349,7 @@ apigateway
 apigee
 apigeeedge
 apimanagement
+apis
 aplication
 apm
 apmconfig
@@ -426,6 +428,7 @@ area
 arg
 argcomplete
 argument
+argumentcompleter
 arguments
 arm
 arm-json
@@ -637,8 +640,6 @@ azurebasicloadbalancerupgrade
 azurecli
 azurecognitiveservices
 azureconnectedmachine
-azurecontainerapps
-azurecontainers
 azuredatabricks
 azuredataexplorer
 azuredatastudio
@@ -819,7 +820,6 @@ blueprints
 blueteam
 bluetraitio
 bmc
-bnm
 boards
 bofh
 boilerplate
@@ -937,7 +937,6 @@ cancel
 cancellation
 canonical
 cantara
-capability
 capacity
 capgemini
 capslock
@@ -1053,6 +1052,7 @@ chefconf2016
 chenxizhang
 cherrypy
 cherwell
+chfs
 chi
 china
 chmod
@@ -1117,7 +1117,6 @@ cleanup
 cleanup-orphans
 clear
 clear-history
-clearpass
 cli
 cli-menu
 cli-menu-helpers
@@ -1224,6 +1223,7 @@ codegen
 codegeneration
 codegenerator
 codepoint
+codereview
 codes
 codesign
 codesigning
@@ -1356,6 +1356,7 @@ connectivity
 connectwise
 conservation
 console
+consoleguitools
 consolemenu
 consolemusic
 consumer
@@ -1450,7 +1451,6 @@ coveralls.io
 covid
 covid-19
 cpm
-cppm
 cpu
 cpuid
 cpuid-information
@@ -1563,6 +1563,7 @@ customization
 customlocation
 customlogs
 customproviders
+cutehttpfileserver
 cvad
 cve-2021-34527
 cvrf
@@ -1808,7 +1809,6 @@ diff
 difference
 dig
 digikam
-digital
 digital-forensics
 digitalforensics
 digitalocean
@@ -2121,7 +2121,6 @@ emailmanagment
 emailnotification
 emailnotificationcomponent
 emailsecurity
-embedded
 emc
 emcomm
 emergency
@@ -2207,11 +2206,6 @@ escaping
 ese
 esent
 esoteric
-esp
-esp-idf
-esp32
-esp32s2
-espressif
 esri
 essbase
 estimate
@@ -2371,6 +2365,7 @@ fastgit
 fastlinq
 fastlookup
 fastping
+fasttrack
 favorites
 fb-pro
 fciv
@@ -2545,7 +2540,6 @@ fortinetmanager
 fortios
 fortune
 forum
-forwardcompatibility
 forwardedevents
 foudil
 fox
@@ -2607,6 +2601,7 @@ gainz-sqldb
 gal
 gallery
 game
+gamecategory:cards
 games
 gameserver
 gaming
@@ -2801,7 +2796,6 @@ graylog
 greenplum
 gremlin
 grep
-greynoise
 grid
 gridfs
 grok
@@ -2816,7 +2810,6 @@ grouvee
 growlnotify
 grr
 gsuite
-gtx1080ti
 guardedfabric
 guardicore
 gubbins
@@ -2873,7 +2866,6 @@ harperdb
 harvest
 harvestforecast
 hash
-hashcat
 hashicorp
 hashset
 hashtable
@@ -2886,6 +2878,7 @@ hba
 hbase
 hci
 hcl
+hcm
 hcx
 hdfs
 hdinsight
@@ -3051,6 +3044,8 @@ hyperv
 hypervisor
 hypervplugins
 hypothesis
+hysolate
+hysolatemangementconsole
 i-doit
 i2c
 ia
@@ -3094,7 +3089,6 @@ identitydataplane
 identitydirector
 identitydomains
 identitynow
-idf
 idm
 idna
 ids
@@ -3347,7 +3341,6 @@ iteration
 itg
 itglue
 itin
-itop
 itsm
 itstore
 ivanti
@@ -3429,7 +3422,6 @@ karabiner-elements
 karma
 kaseya
 kaseyavsa
-kaspersky
 katakana
 kb
 kbarticle
@@ -3628,7 +3620,6 @@ listener
 litecoin
 litedb
 literature
-live
 lldp
 lmhost
 lmhosts
@@ -3636,6 +3627,7 @@ lms
 load
 loadbalancer
 loadbalancer.org
+loader
 loadtesting
 loanddepot
 loandepot
@@ -3790,7 +3782,6 @@ manageability
 managed-identity
 manageddisks
 managedidentities
-managedserviceidenity
 managedserviceidentity
 managedserviceprovider
 managedserviceproviders
@@ -3858,7 +3849,6 @@ mcafee
 mcas
 mcd
 mchapv2
-mct
 md5
 md5_v2-afbf3dae88c049d004174f2d610ee134
 md5sum
@@ -3915,7 +3905,6 @@ messaging
 messenger
 met
 metadata
-metadataservice
 metaprogramming
 method
 methodinfo
@@ -4002,6 +3991,7 @@ mkdocs
 mkpasswd
 ml
 mlflow
+mmdc
 mobile
 mobilenetwork
 mobilitycontroller
@@ -4020,7 +4010,6 @@ moduleupdateinfo
 moduleupdater
 moduleversion
 mof
-moldova
 moment
 monaco
 monday
@@ -4276,7 +4265,6 @@ ninjaone
 ninjarmm
 nios
 nitrox
-njclipsh
 nl
 nla
 nlm
@@ -4377,6 +4365,7 @@ obs
 observeit
 oce
 ocg
+ocgv
 oci
 ocicontrolcenter
 ocr
@@ -4407,8 +4396,6 @@ office365
 officedev
 officegraph
 officemessageencryption
-officertool
-offline
 offlinewimservicing
 ofx
 ogg
@@ -4427,7 +4414,6 @@ omnistack
 oms
 omsagent
 on
-on-demand
 on-premise
 onboard
 onboardadministrator
@@ -4604,6 +4590,7 @@ pagerduty
 pages
 paloaltonetworks
 pam
+panels
 pansies
 panther
 panzerbjrn
@@ -4843,8 +4830,10 @@ poshgrouppolicy
 poshkeepass
 poshlog
 poshorigin
+poshproject
 poshprtg
 poshrsjob
+poshtemplate
 poshwsus
 poshy-code-search
 poshy-colors
@@ -4886,7 +4875,7 @@ poshy-wrap-nmap
 poshy-wrap-npm
 poshy-wrap-pip
 poshy-wrap-pipenv
-poshy-wrap-pyenv
+poshy-wrap-pylint
 poshy-wrap-python
 poshy-wrap-ruby
 poshy-wrap-systemctl
@@ -4975,6 +4964,7 @@ powershellmodule
 powershellmoduleupdate
 powershellpr0mpt
 powershellscript
+powershelltemplate
 powershelltraining
 powershelltypeaccelerators
 powershelluniversal
@@ -5070,6 +5060,7 @@ project-management
 projectmanagement
 projectreunion
 projects
+projecttemplate
 projectwise
 proliant
 prometheus
@@ -6162,7 +6153,7 @@ pscommand_invoke-pipenvuninstall
 pscommand_invoke-pipenvupdate
 pscommand_invoke-pipenvvenv
 pscommand_invoke-pipenvwhere
-pscommand_invoke-pyenv
+pscommand_invoke-pylintreportsdisabled
 pscommand_invoke-ruby
 pscommand_invoke-rubyexecute
 pscommand_invoke-rubyexecutehttpdhere
@@ -6651,7 +6642,7 @@ pscommand_pvenv
 pscommand_pwh
 pscommand_pwshrc-show-proxy
 pscommand_py
-pscommand_pyenv
+pscommand_pylint-quick
 pscommand_pyserver
 pscommand_python
 pscommand_python3
@@ -7583,7 +7574,7 @@ psfunction_invoke-pipenvuninstall
 psfunction_invoke-pipenvupdate
 psfunction_invoke-pipenvvenv
 psfunction_invoke-pipenvwhere
-psfunction_invoke-pyenv
+psfunction_invoke-pylintreportsdisabled
 psfunction_invoke-ruby
 psfunction_invoke-rubyexecute
 psfunction_invoke-rubyexecutehttpdhere
@@ -8042,7 +8033,6 @@ psjob
 psjobs
 psjobthreads
 pskeepass
-pslocalgallery
 psloganalytics
 psm
 psm1
@@ -8078,7 +8068,6 @@ psreadexif
 psreadline
 psremoting
 psrepository
-psresourceget
 psrule
 psrule-rules
 pssa
@@ -8120,7 +8109,6 @@ publicfolder
 publicip
 publish
 publishedmodules
-publisher
 publishers
 publishing
 pubsub
@@ -8160,8 +8148,8 @@ pwshake
 pwshfw
 pwshrc
 pxedistributionpoint
-pyenv
 pygmentize
+pylint
 pyranja
 python
 python-for-dotnet
@@ -8224,6 +8212,7 @@ raidcontrollercmdlets
 rainbow
 raisers
 raisersedge
+raj
 ram
 ram-it
 random
@@ -8619,6 +8608,7 @@ savov
 sbc
 sc
 scaffold
+scaffoldingtemplate
 scala
 scalable
 scalablevectorgraphics
@@ -8793,6 +8783,7 @@ sensitive
 sensitivity
 sensor
 sensors
+sensu
 sentinel
 sentinelone
 sep
@@ -8870,7 +8861,6 @@ setupbase.taskscheduler
 setupbase.template
 setupbase.update
 sevenzip
-sf
 sfb
 sftp
 sfx
@@ -9421,6 +9411,7 @@ systeminfo
 systeminformation
 systemlocale
 systems
+systemsplash
 systray
 t
 t-sql
@@ -9430,10 +9421,10 @@ tab-completion
 tab-expansion
 tabcompletion
 tabexpansion
+tabexpansion2
 tablacus
 table
 tableau
-tabler
 tables
 tablestorage
 tabs
@@ -9464,10 +9455,10 @@ taskgroup
 taskmanagement
 tasks
 taskscheduler
-taxjar
 taxonomy
 tcp
 tcp/ip
+tcpip
 tcpport
 tcprjmgmt
 tcpserver
@@ -9727,7 +9718,6 @@ tst1
 tst3
 ttrpg
 tts
-tubedownloader
 tui
 tulpep
 tuner
@@ -9767,7 +9757,6 @@ ucs
 ucspowertool
 ud-avataaar
 ud-badgebutton
-ud-badgelink
 ud-breadcrumb
 ud-breadcrumbitem
 ud-burger
@@ -9796,6 +9785,7 @@ ud-numbermask
 ud-orgchart
 ud-piechart3d
 ud-pivottable
+ud-progressstepbar
 ud-rangeslider
 ud-readingbar
 ud-scrollspy
@@ -9806,7 +9796,6 @@ ud-simpledrawer
 ud-singleselect
 ud-slider
 ud-speechbubble
-ud-step
 ud-stepbar
 ud-stickynavbar
 ud-tagcloud
@@ -9833,7 +9822,6 @@ ui7
 uk
 ul
 ulid
-ultimatetool
 um
 uml
 umn
@@ -9890,8 +9878,8 @@ updmgmt
 upgrade
 uplift
 uplink
-upn
 ups
+upsource
 upstream
 uptime
 uptimerobot
@@ -10153,7 +10141,6 @@ vxrail
 w32time
 w365
 w3svc
-w3w
 waa
 waas
 wac
@@ -10242,7 +10229,6 @@ wem
 wemsdk
 wer
 wget
-what3words
 whatismyip
 whatsnew
 whatsupgold
@@ -10253,7 +10239,6 @@ whiteboard
 whitespace
 whoami
 whois
-whormi
 wi-fi
 wia
 wia.imagefile
@@ -10319,7 +10304,6 @@ windowsinstaller
 windowsinternaldatabase
 windowsinternals
 windowsiotservices
-windowsiso
 windowsmanagementframework
 windowspackagemanager
 windowsplugins
@@ -10392,6 +10376,7 @@ workbook
 workday
 worker
 workflow
+workflowmax
 workflows
 workingdays
 workinghours
@@ -10418,12 +10403,10 @@ wrap
 wrap-text
 wrapper
 wrapperfunctions
-wrc
 wrike
 write
 write-ascii
 write-color
-write-colour
 write-debug
 write-host
 write-information
