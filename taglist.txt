@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Wednesday, 04 October 2023 02:03:26 UTC
+Updated: Wednesday, 04 October 2023 09:53:12 UTC
 
 .bat
 .env
@@ -227,7 +227,6 @@ agenda
 agent
 aggregates
 aggregation
-agile
 agility
 agm
 agnoster
@@ -281,6 +280,7 @@ alphafs
 alpine
 alt3
 alter
+alteryx
 alwaysontop
 alwaysonvpn
 alz
@@ -561,6 +561,7 @@ availability
 availabilityset
 avalara
 avalonia
+avatar
 avd
 ave
 avepoint
@@ -869,6 +870,7 @@ brk4452
 broadcast
 broadcom
 broot
+brownserve-uk
 browser
 browserextension
 browserhistory
@@ -924,10 +926,12 @@ cache
 caf
 cal
 calc
+calculate
 calculator
 calendar
 callingcode
 callqueue
+calvin-and-hobbes
 cam
 camera
 campaign
@@ -1010,7 +1014,6 @@ certera
 certes
 certificate
 certificateauthority
-certificatechain
 certificatemanager
 certificatepolicy
 certificates
@@ -1159,6 +1162,7 @@ cloud-backup
 cloud-computing
 cloud-init
 cloud-iq
+cloudant
 cloudbees
 cloudberry
 cloudblue
@@ -1857,6 +1861,7 @@ diskimage
 diskpart
 diskpool
 disksize
+diskspace
 diskusage
 dism
 dismal
@@ -2162,6 +2167,7 @@ enteo
 enter
 enterprise
 enterprise-scale
+enterprisedb
 enterprisemanager
 enterprisevoice
 entity
@@ -2610,7 +2616,6 @@ gainz-sqldb
 gal
 gallery
 game
-gamecategory:cards
 games
 gameserver
 gaming
@@ -2820,7 +2825,6 @@ grouvee
 growlnotify
 grr
 gsuite
-gtx1080ti
 guardedfabric
 guardicore
 gubbins
@@ -2877,7 +2881,6 @@ harperdb
 harvest
 harvestforecast
 hash
-hashcat
 hashicorp
 hashset
 hashtable
@@ -2905,6 +2908,7 @@ healthcareapis
 healthcheck
 healthchecks
 healthservice
+healthz
 heartbeatdiscovery
 heat
 heating
@@ -2922,7 +2926,6 @@ helpdesk
 helpdoc
 helper
 helper-functions
-helperfunctions
 helpers
 helpfile
 heml
@@ -3019,7 +3022,6 @@ hsl
 html
 http
 http_proxy
-httpclient
 httplistener
 https
 https_proxy
@@ -3192,7 +3194,6 @@ inheritance
 ini
 inifile
 initialization
-initials-avatar
 initiator
 inline-progress
 inlineprogress
@@ -3380,8 +3381,11 @@ jira
 jiraservicemanagement
 jitbit
 jms
+jnet
+jnetps
 joat
 job
+jobcan
 jobs
 jobscheduler
 johnshopkins
@@ -3417,6 +3421,7 @@ junit
 jupyter
 jupytor
 justenoughadministration
+jvm
 jwk
 jws
 jwt
@@ -3479,6 +3484,7 @@ knowledge
 knowledgebase
 koans
 korn
+kotlin
 kql
 kraken
 krbtgt
@@ -3978,7 +3984,6 @@ migration
 migration-tool
 migrations
 milestone
-mim
 mime
 mimekit
 min
@@ -4026,7 +4031,6 @@ mof
 moldova
 moment
 monaco
-monday
 mondoo
 money
 moneyforward
@@ -4101,7 +4105,6 @@ msonlineext
 msp
 msp360
 mspbackups
-msproject
 msrc
 msrdc
 mssql
@@ -4345,9 +4348,11 @@ nuget-references
 nuget.exe
 nuget.org
 nugetpackageprovider
+number
 numlock
 nunit
 nupkg
+nuspec
 nutanix
 nuwave
 nva
@@ -4463,7 +4468,6 @@ ontap_pstk_9.8.0
 onyphe
 onyphe.io
 oob
-oop
 op
 opa
 opc
@@ -4697,7 +4701,6 @@ penetration
 penetrationtesting
 pentesting
 pentia
-perforce
 performance
 performance-counters
 performancemonitoring
@@ -4770,7 +4773,6 @@ planner
 plantuml
 plaster
 platform
-platyps
 play
 playback
 playbook
@@ -4863,7 +4865,6 @@ poshy-lucidity
 poshy-multimedia
 poshy-net
 poshy-notify-send
-poshy-sh-isms
 poshy-sshconfig
 poshy-viewer-finder
 poshy-wrap
@@ -6748,14 +6749,10 @@ pscommand_syspip3_package_location
 pscommand_ta
 pscommand_tad
 pscommand_test-command
-pscommand_test-d
 pscommand_test-elevation
-pscommand_test-f
 pscommand_test-linkcapability
-pscommand_test-o
 pscommand_test-reparsepoint
 pscommand_test-sessioninteractivity
-pscommand_test-x
 pscommand_tf
 pscommand_tfa
 pscommand_tfc
@@ -7959,14 +7956,10 @@ psfunction_switch-gitbranchandtrack
 psfunction_switch-gitbranchmain
 psfunction_switch-gitbranchnew
 psfunction_test-command
-psfunction_test-d
 psfunction_test-elevation
-psfunction_test-f
 psfunction_test-linkcapability
-psfunction_test-o
 psfunction_test-reparsepoint
 psfunction_test-sessioninteractivity
-psfunction_test-x
 psfunction_universalarchive
 psfunction_update-gitbranchbasefrombranchmain
 psfunction_update-gitbranchbasefrommain
@@ -8125,7 +8118,6 @@ pubxml
 pulldistributionpoint
 pullrequest
 pullserver
-pulseway
 pulumi
 punycode
 puppet
@@ -8567,7 +8559,6 @@ russia
 rust
 rust-lang
 ryanairps
-ryver
 s.ds.p
 s1
 s3
@@ -8619,6 +8610,7 @@ sbc
 sc
 scaffold
 scaffoldingtemplate
+scala
 scalable
 scalablevectorgraphics
 scan
@@ -9284,7 +9276,6 @@ storefront
 storeonce
 storeserv
 strava
-streak
 stream
 streamanalytics
 streaming
@@ -9536,7 +9527,6 @@ test-samcmapplicationexists
 test-samcmpackageexists
 test-userisadministrator
 test-xml
-test123
 testaccount
 testautomation
 testimonial
@@ -9607,6 +9597,7 @@ timesheets
 timespan
 timezone
 tinkerpop
+tinymce
 tip
 tips
 title
@@ -9747,7 +9738,6 @@ twitter-api-v2
 twitter-client
 twitter-follow
 twitter-hashtag
-twitter-mention
 twitter-share
 twitter-timeline
 twitter-tweet
@@ -9791,7 +9781,6 @@ ud-illustration
 ud-input
 ud-licensed
 ud-loadingoverlay
-ud-minesweeper
 ud-mouseparticle
 ud-navbarsearch
 ud-numbermask
@@ -9815,6 +9804,7 @@ ud-tagcloud
 ud-timeline
 ud-timeout
 ud-tool
+ud-toploader
 ud-trendline
 ud-typing
 ud-window
@@ -9932,6 +9922,7 @@ userrightsassignment
 users
 userworkstations
 usg
+usps
 utc
 utf-8
 utf-sig
@@ -10015,6 +10006,7 @@ verify
 version
 versioning
 versionmanager
+versionnumber
 vertical
 vester
 vhd
@@ -10228,6 +10220,7 @@ websocket
 websockets
 websphere
 websphereappserver
+websphereportal
 webtest
 webtesting
 webtime
@@ -10277,7 +10270,6 @@ win32shutdown
 winbuilder
 window
 windows
-windows  server
 windows explorer
 windows_events
 windows-10
@@ -10352,6 +10344,7 @@ winrm
 winrs
 winrt
 wins
+winsat
 winscp
 wintellect
 winterminal
@@ -10396,7 +10389,6 @@ workingdays
 workinghours
 workingtime
 workload-automation
-workloads
 workpoint
 workrequests
 worksheet
@@ -10416,7 +10408,6 @@ wql
 wrap
 wrap-text
 wrapper
-wrapperfunctions
 wrc
 wrike
 write
@@ -10462,11 +10453,8 @@ x.509
 x1
 x2
 x509
-x509cerificate
-x509cerificate2
 x509certificate
 x509certificates
-x509chain
 x64
 x86
 xa
