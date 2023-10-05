@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Wednesday, 04 October 2023 17:53:00 UTC
+Updated: Thursday, 05 October 2023 02:05:29 UTC
 
 .bat
 .env
@@ -869,8 +869,6 @@ britannica
 britannicaknowledgesystems
 british-gas
 brk4452
-broadcast
-broadcom
 broot
 brownserve-uk
 browser
@@ -1987,7 +1985,6 @@ dreary
 drift
 driftmonitor
 drive
-drive letter
 driver
 driverpacks
 drivers
@@ -2899,7 +2896,6 @@ hba
 hbase
 hci
 hcl
-hcm
 hcx
 hdfs
 hdinsight
@@ -3184,7 +3180,6 @@ indicator
 inedo
 inetfwrule
 inetum
-infinity
 influx
 influxdb
 info
@@ -3488,7 +3483,6 @@ klantcontroles
 kms
 knapsack
 knetps
-knob
 knowbe4
 knowledge
 knowledgebase
@@ -3638,7 +3632,6 @@ liquid
 liquit
 liquit.com
 list
-list_files
 list-directory
 list-item
 listener
@@ -3754,6 +3747,7 @@ lsasecrets
 lsd
 ltm
 lucd
+lucene
 lunches
 lwa
 lxca
@@ -4227,7 +4221,6 @@ netcease
 netcore
 netfirewallrule
 netherlands
-netmask
 nets
 netsapiens
 netscaler
@@ -4340,7 +4333,6 @@ nprintingapi
 nps
 npslog
 npslogfile
-nql
 nrc
 nrql
 ns
@@ -4452,6 +4444,7 @@ onboard
 onboardadministrator
 onboarding
 oncommand-insight
+ondemand
 one
 onedrive
 onedriveforbusiness
@@ -4909,7 +4902,6 @@ poshy-wrap-pipenv
 poshy-wrap-pyenv
 poshy-wrap-pylint
 poshy-wrap-python
-poshy-wrap-ruby
 poshy-wrap-systemctl
 poshy-wrap-terraform
 poshy-wrap-terragrunt
@@ -5021,7 +5013,6 @@ predictive
 predictive-text
 predictor
 preferences
-prefix
 preparead
 preparealldomains
 prepareschema
@@ -5074,7 +5065,6 @@ producer
 product
 productid
 productivity
-productmedia
 products
 productstate
 profile
@@ -5117,9 +5107,6 @@ provision
 provisioning
 provisioningpackage
 provisonedpackage
-prowl
-prowl-notifications
-prowlapp
 proxmox
 proxmoxve
 proxsys
@@ -6073,9 +6060,6 @@ pscommand_invoke-piplistoutdated
 pscommand_invoke-pipuninstall
 pscommand_invoke-pyenv
 pscommand_invoke-pylintreportsdisabled
-pscommand_invoke-ruby
-pscommand_invoke-rubyexecute
-pscommand_invoke-rubyexecutehttpdhere
 pscommand_invoke-systemctl-add-requires
 pscommand_invoke-systemctl-add-wants
 pscommand_invoke-systemctl-cancel
@@ -6447,7 +6431,6 @@ pscommand_pylint-quick
 pscommand_pyserver
 pscommand_python
 pscommand_python3
-pscommand_rb
 pscommand_read-dotenv
 pscommand_register-argcompleteargumentcompleter
 pscommand_remove_gem
@@ -6475,8 +6458,6 @@ pscommand_reset-gitworkingtreetolastcommitlosechanges
 pscommand_reset-gitworkingtreetolastcommitlosechangesandcleanfully
 pscommand_resume-gitbranchbaseupdate
 pscommand_resume-gitcherrypick
-pscommand_rrun
-pscommand_rserver
 pscommand_sc-disable-now
 pscommand_sc-enable-now
 pscommand_sc-mask-now
@@ -7261,9 +7242,6 @@ psfunction_invoke-piplistoutdated
 psfunction_invoke-pipuninstall
 psfunction_invoke-pyenv
 psfunction_invoke-pylintreportsdisabled
-psfunction_invoke-ruby
-psfunction_invoke-rubyexecute
-psfunction_invoke-rubyexecutehttpdhere
 psfunction_invoke-systemctl-add-requires
 psfunction_invoke-systemctl-add-wants
 psfunction_invoke-systemctl-cancel
@@ -7800,6 +7778,7 @@ pubxml
 pulldistributionpoint
 pullrequest
 pullserver
+pulseway
 pulumi
 punycode
 puppet
@@ -7813,7 +7792,6 @@ purple
 purview
 push
 push-location
-push-notifications
 pushd
 pushover
 pushoverapi
@@ -8369,8 +8347,6 @@ scriptrunner
 scripts
 scriptsmonitoring
 scrolllock
-scrub
-scrubber
 scsm
 scuba
 sd
@@ -8441,6 +8417,7 @@ select-kubecontext
 select-kubenamespace
 select-string
 selection
+selectxmlinfo
 selenium
 self
 self-hosted
@@ -8474,7 +8451,6 @@ seppmail
 seppmail.cloud
 seq
 sequence
-serial
 serialization
 serialize
 sericemanagement
@@ -8958,6 +8934,7 @@ storefront
 storeonce
 storeserv
 strava
+streak
 stream
 streamanalytics
 streaming
@@ -9142,7 +9119,6 @@ taskscheduler
 taxjar
 taxonomy
 tcp
-tcp/ip
 tcpip
 tcpport
 tcprjmgmt
@@ -9192,7 +9168,6 @@ terminal-interface
 terminal-services
 terminal.gui
 terminalnotifier
-terminalvelocity
 termset
 terraform
 terraformcloud
@@ -9466,6 +9441,7 @@ ud-input
 ud-licensed
 ud-loadingoverlay
 ud-minesweeper
+ud-mouseparticle
 ud-navbarsearch
 ud-numbermask
 ud-orgchart
@@ -9477,8 +9453,6 @@ ud-readingbar
 ud-scrollspy
 ud-selectdatetime
 ud-selector
-ud-signature
-ud-simpledrawer
 ud-singleselect
 ud-slider
 ud-speechbubble
@@ -9790,6 +9764,7 @@ vplex
 vpn
 vpn-certificate
 vpro
+vps
 vra
 vrchat
 vrealize
@@ -9916,7 +9891,6 @@ weixin
 well-known
 wem
 wemsdk
-wer
 wget
 what3words
 whatismyip
@@ -9944,7 +9918,6 @@ wim
 wim2vhd
 win
 win-ps2exe
-win10
 win2k8
 win32
 win32_installedwin32program
@@ -9955,7 +9928,6 @@ winbuilder
 window
 windows
 windows  server
-windows explorer
 windows_events
 windows-10
 windows-api
@@ -10012,7 +9984,6 @@ windowsserver2016
 windowsserver2019
 windowsservercoresecurity
 windowsserverguisecurity
-windowsservice
 windowsservices
 windowsstore
 windowsterminal
@@ -10213,7 +10184,6 @@ zabbixps
 zap
 zcat
 zendesk
-zerotrust
 zerto
 zigbee
 zip
