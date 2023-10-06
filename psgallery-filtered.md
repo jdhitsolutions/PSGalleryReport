@@ -3,6 +3,102 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [WDACConfig](https://www.powershellgallery.com/Packages/WDACConfig/0.2.5) | 0.2.5
+
+### Published: 10/06/2023 09:06:31 by HotCakeX
+
+This is an advanced PowerShell module for WDAC (Windows Defender Application Control) and automates a lot of tasks.
+
+
+🟢 Please see the GitHub page for Full details and everything about the module: https://github.com/HotCakeX/Harden-Windows-Security/wiki/WDACConfig
+
+
+🛡️ Here is the list of module's cmdlets
+
+✔️ New-WDACConfig: https://github.com/HotCakeX/Harden-Windows-Security/wiki/New-WDACConfig
+
+✔️ New-SupplementalWDACConfig: https://github.com/HotCakeX/Harden-Windows-Security/wiki/New-SupplementalWDACConfig
+
+✔️ Remove-WDACConfig: https://github.com/HotCakeX/Harden-Windows-Security/wiki/Remove-WDACConfig
+
+✔️ Edit-WDACConfig: https://github.com/HotCakeX/Harden-Windows-Security/wiki/Edit-WDACConfig
+
+✔️ Edit-SignedWDACConfig: https://github.com/HotCakeX/Harden-Windows-Security/wiki/Edit-SignedWDACConfig
+
+✔️ Deploy-SignedWDACConfig: https://github.com/HotCakeX/Harden-Windows-Security/wiki/Deploy-SignedWDACConfig
+
+✔️ Confirm-WDACConfig: https://github.com/HotCakeX/Harden-Windows-Security/wiki/Confirm-WDACConfig
+
+✔️ New-DenyWDACConfig: https://github.com/HotCakeX/Harden-Windows-Security/wiki/New-DenyWDACConfig
+
+✔️ Set-CommonWDACConfig: https://github.com/HotCakeX/Harden-Windows-Security/wiki/Set-CommonWDACConfig
+
+✔️ New-KernelModeWDACConfig: https://github.com/HotCakeX/Harden-Windows-Security/wiki/New%E2%80%90KernelModeWDACConfig
+
+✔️ Get-CommonWDACConfig: https://github.com/HotCakeX/Harden-Windows-Security/wiki/Get-CommonWDACConfig
+
+✔️ Invoke-WDACSimulation: https://github.com/HotCakeX/Harden-Windows-Security/wiki/Invoke-WDACSimulation
+
+✔️ Remove-CommonWDACConfig: https://github.com/HotCakeX/Harden-Windows-Security/wiki/Remove-CommonWDACConfig
+
+To get help and syntax on PowerShell console, type:
+"Get-Command -Module WDACConfig"
+"Get-Help New-WDACConfig"
+"Get-Help New-SupplementalWDACConfig"
+"Get-Help Remove-WDACConfig"
+"Get-Help Edit-WDACConfig"
+"Get-Help Edit-SignedWDACConfig"
+"Get-Help Deploy-SignedWDACConfig"
+"Get-Help Confirm-WDACConfig"
+"Get-Help New-DenyWDACConfig"
+"Get-Help Set-CommonWDACConfig"
+"Get-Help New-KernelModeWDACConfig"
+"Get-Help Get-CommonWDACConfig"
+"Get-Help Invoke-WDACSimulation"
+"Get-Help Remove-CommonWDACConfig"
+
+__Downloads__: 669 | __Repository__: https://github.com/HotCakeX/Harden-Windows-Security/wiki/WDACConfig
+
+## [SMART-BcBuildHelper](https://www.powershellgallery.com/Packages/SMART-BcBuildHelper/1.1.9) | 1.1.9
+
+### Published: 10/06/2023 08:38:28 by SMART business
+
+SMART-BcBuildHelper
+
+__Downloads__: 36 | __Repository__: 
+
+## [cbsch-pslib](https://www.powershellgallery.com/Packages/cbsch-pslib/1.1.0) | 1.1.0
+
+### Published: 10/06/2023 08:32:55 by Christopher Berg Schwanstrøm
+
+Various helpful cmdlets and functions
+
+__Downloads__: 1,671 | __Repository__: 
+
+## [DCToolbox](https://www.powershellgallery.com/Packages/DCToolbox/2.0.7) | 2.0.7
+
+### Published: 10/06/2023 07:54:23 by Daniel Chronlund
+
+A PowerShell toolbox for Microsoft 365 security fans.
+
+__Downloads__: 19,393 | __Repository__: https://github.com/DanielChronlund/DCToolbox
+
+## [PSTree](https://www.powershellgallery.com/Packages/PSTree/2.1.15) | 2.1.15
+
+### Published: 10/06/2023 03:23:57 by Santiago Squarzon
+
+tree like cmdlet for PowerShell
+
+__Downloads__: 1,168 | __Repository__: https://www.github.com/santisq/PSTree
+
+## [PSTcpIp](https://www.powershellgallery.com/Packages/PSTcpIp/4.10.1) | 4.10.1
+
+### Published: 10/06/2023 02:05:12 by Anthony Guimelli
+
+Provides cmdlets to perform various TCPIP and TLS/SSL related tasks.
+
+__Downloads__: 1,936 | __Repository__: https://github.com/anthonyg-1/PSTcpIp
+
 ## [MASES.KNetPS](https://www.powershellgallery.com/Packages/MASES.KNetPS/2.1.2) | 2.1.2
 
 ### Published: 10/06/2023 00:43:55 by MASES s.r.l.
@@ -31,7 +127,7 @@ __Downloads__: 221 | __Repository__: https://github.com/evanjd711/bruharmy
 
 Module for CyberArk Privileged Access Security Web Service REST API
 
-__Downloads__: 79,089 | __Repository__: https://pspas.pspete.dev/
+__Downloads__: 79,051 | __Repository__: https://pspas.pspete.dev/
 
 ## [MailDaemon](https://www.powershellgallery.com/Packages/MailDaemon/1.0.1) | 1.0.1
 
@@ -63,7 +159,7 @@ __Downloads__: 2,101 | __Repository__: https://github.com/PSModule/GitHub
 
 Interact with GitLab via PowerShell
 
-__Downloads__: 13,951 | __Repository__: https://github.com/chris-peterson/pwsh-gitlab
+__Downloads__: 13,950 | __Repository__: https://github.com/chris-peterson/pwsh-gitlab
 
 ## [pwps_dab](https://www.powershellgallery.com/Packages/pwps_dab/23.2.7) | 23.2.7
 
@@ -71,7 +167,7 @@ __Downloads__: 13,951 | __Repository__: https://github.com/chris-peterson/pwsh-g
 
 ProjectWise PowerShell Cmdlets from System Architecture Group
 
-__Downloads__: 78,527 | __Repository__: 
+__Downloads__: 78,519 | __Repository__: 
 
 ## [WooCommerceCmdlets](https://www.powershellgallery.com/Packages/WooCommerceCmdlets/23.0.8669.1) | 23.0.8669.1
 
@@ -1671,7 +1767,7 @@ __Downloads__: 196 | __Repository__: http://www.cdata.com/powershell/
 
 Module for installing basic programs: This module provides functions for downloading installers from specified links, installing the programs, verifying the installed programs/services, and cleaning up the installer files.
 
-__Downloads__: 109,919 | __Repository__: 
+__Downloads__: 109,922 | __Repository__: 
 
 ## [ExchangeCmdlets](https://www.powershellgallery.com/Packages/ExchangeCmdlets/23.0.8669.1) | 23.0.8669.1
 
@@ -1687,7 +1783,7 @@ __Downloads__: 3,327 | __Repository__: http://www.cdata.com/powershell/
 
 CData Cmdlets for Microsoft Active Directory
 
-__Downloads__: 10,664 | __Repository__: http://www.cdata.com/powershell/
+__Downloads__: 10,663 | __Repository__: http://www.cdata.com/powershell/
 
 ## [SugarCRMCmdlets](https://www.powershellgallery.com/Packages/SugarCRMCmdlets/23.0.8669.1) | 23.0.8669.1
 
@@ -1801,14 +1897,6 @@ CData Cmdlets for Highrise
 
 __Downloads__: 1,064 | __Repository__: http://www.cdata.com/powershell/
 
-## [PSTcpIp](https://www.powershellgallery.com/Packages/PSTcpIp/4.10.0) | 4.10.0
-
-### Published: 10/05/2023 18:51:33 by Anthony Guimelli
-
-Provides cmdlets to perform various TCPIP and TLS/SSL related tasks.
-
-__Downloads__: 1,936 | __Repository__: https://github.com/anthonyg-1/PSTcpIp
-
 ## [SendGridCmdlets](https://www.powershellgallery.com/Packages/SendGridCmdlets/23.0.8669.1) | 23.0.8669.1
 
 ### Published: 10/05/2023 18:40:48 by CData Software Inc.
@@ -1919,7 +2007,7 @@ __Downloads__: 0 | __Repository__:
 
 This module will migrate a Basic SKU load balancer connected to a Virtual Machine Scaleset or Virtual Machines to a Standard SKU load balancer, preserving the existing configuration and functionality.
 
-__Downloads__: 1,050 | __Repository__: https://github.com/Azure/AzLoadBalancerMigration
+__Downloads__: 1,049 | __Repository__: https://github.com/Azure/AzLoadBalancerMigration
 
 ## [AdobeGenP](https://www.powershellgallery.com/Packages/AdobeGenP/1.0.0.0) | 1.0.0.0
 
@@ -1974,7 +2062,7 @@ copied over to other machines.
 
 You can use `Import-Keyfile` to use a keyfile that has been exported before.
 
-__Downloads__: 74 | __Repository__: https://github.com/Apteco/AptecoPSModules/tree/main/EncryptCredential
+__Downloads__: 75 | __Repository__: https://github.com/Apteco/AptecoPSModules/tree/main/EncryptCredential
 
 ## [Nectar10](https://www.powershellgallery.com/Packages/Nectar10/3.73) | 3.73
 
@@ -1983,14 +2071,6 @@ __Downloads__: 74 | __Repository__: https://github.com/Apteco/AptecoPSModules/tr
 PowerShell module for Nectar DXP
 
 __Downloads__: 1,085 | __Repository__: 
-
-## [SMART-BcBuildHelper](https://www.powershellgallery.com/Packages/SMART-BcBuildHelper/1.1.8) | 1.1.8
-
-### Published: 10/05/2023 14:16:26 by SMART
-
-SMART-BcBuildHelper
-
-__Downloads__: 36 | __Repository__: 
 
 ## [HyperVTools](https://www.powershellgallery.com/Packages/HyperVTools/4.8.0) | 4.8.0
 
@@ -2008,54 +2088,4 @@ Mandatory module for the foundation PowerShell scripts.
 
 __Downloads__: 886 | __Repository__: 
 
-## [spec.module.creator](https://www.powershellgallery.com/Packages/spec.module.creator/1.0.9) | 1.0.9
-
-### Published: 10/05/2023 13:03:36 by owen.heaume
-
-A module to create the base module structure.
-
-__Downloads__: 1 | __Repository__: 
-
-## [TestCredential](https://www.powershellgallery.com/Packages/TestCredential/0.0.1) | 0.0.1
-
-### Published: 10/05/2023 12:54:46 by florian.von.bracht@apteco.de
-
-Apteco PS Modules - PowerShell Credentials Test
-
-This module tests your credentials like
-
-# Interactive mode -> this one requests your user and password, uses the current user as default
-Test-Credential
-
-# Define User and password beforehand
-$c = Get-Credential
-Test-Credential -Credentials $c
-
-OR
-
-$c = Get-Credential
-Test-Credential -Credentials $c  -NonInteractive
-
-# OR
-
-Get-Credential | Test-Credential
-
-__Downloads__: 0 | __Repository__: https://github.com/Apteco/AptecoPSModules/tree/main/MergeHashtable
-
-## [SqlServerDsc](https://www.powershellgallery.com/Packages/SqlServerDsc/16.5.0) | 16.5.0
-
-### Published: 10/05/2023 11:40:42 by DSC Community
-
-Module with DSC resources for deployment and configuration of Microsoft SQL Server.
-
-__Downloads__: 8,779,459 | __Repository__: https://github.com/dsccommunity/SqlServerDsc
-
-## [NVRAppDevOps](https://www.powershellgallery.com/Packages/NVRAppDevOps/2.4.0) | 2.4.0
-
-### Published: 10/05/2023 11:37:39 by Kamil Sacek
-
-cmdlets for DevOps for Business Central
-
-__Downloads__: 23,216 | __Repository__: https://www.github.com/kine/NVRAppDevOps
-
-*Updated: Friday, 06 October 2023 02:02:46 UTC*
+*Updated: Friday, 06 October 2023 09:53:18 UTC*
