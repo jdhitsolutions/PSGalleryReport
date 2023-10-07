@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Friday, 06 October 2023 17:53:01 UTC
+Updated: Saturday, 07 October 2023 02:02:08 UTC
 
 .bat
 .env
@@ -248,6 +248,7 @@ aka.ms
 aks
 aks-hci
 akscluster
+al
 alac
 alarm
 alb
@@ -292,7 +293,6 @@ amazonmgn
 amazonwebservices
 amend
 ami
-amiga
 amp
 amqp
 amsi
@@ -402,7 +402,6 @@ aprs
 aprs-is
 aprsis
 aprsthursday
-aps
 apt
 apt-get
 apt-get-update
@@ -642,8 +641,6 @@ azurebasicloadbalancerupgrade
 azurecli
 azurecognitiveservices
 azureconnectedmachine
-azurecontainerapps
-azurecontainers
 azuredatabricks
 azuredataexplorer
 azuredatastudio
@@ -732,6 +729,7 @@ battery
 bayern
 bb
 bbp
+bc
 bcd
 bcdedit
 bcdr
@@ -914,7 +912,6 @@ businesstime
 bxor
 bydesign
 byexample
-bynarypsmodule
 byovd
 byte
 bytearray
@@ -1312,7 +1309,6 @@ computeinstanceagent
 computer
 computer-site
 computername
-computers
 computersite
 concur
 concurrency
@@ -1438,6 +1434,7 @@ cos
 cosmos
 cosmosdb
 cost
+costmanagement
 costoptimization
 couchbase
 couchdb
@@ -1556,7 +1553,6 @@ customchecks
 customdns
 customer
 customerengagement
-customers
 customeventchannel
 customeventlog
 customeventlogchannel
@@ -1772,6 +1768,7 @@ detection
 detectionrule
 deutsch
 deutschland
+dev
 dev-tools
 devart
 devcenter
@@ -1896,7 +1893,6 @@ dmi
 dmtf
 dmx
 dnd
-dnf
 dns
 dns-01
 dns-administration
@@ -1919,6 +1915,7 @@ dnssuffix
 dnvm
 doc
 docfx
+dock
 docker
 docker-compose
 docker-image
@@ -1927,6 +1924,7 @@ docker-volumes
 dockerfile
 dockerize
 dockerswarm
+docking
 docs
 document
 documentation
@@ -2231,7 +2229,6 @@ ethereum
 ethr
 ethz
 etl
-etl2pcapng
 etrade
 ets
 etw
@@ -2245,6 +2242,7 @@ event-timeline
 eventchannel
 eventchannels
 eventcollector
+eventful
 eventgrid
 eventhub
 eventing
@@ -2361,7 +2359,6 @@ factoryorchestratorclient
 facts
 faf
 failedlogin
-failure
 falcon
 fallbackstatuspoint
 fanarttv
@@ -2387,8 +2384,6 @@ feature
 features
 featuresondemand
 featureupdate
-federated
-federateddirectory
 federation
 fedex
 feed
@@ -2477,6 +2472,7 @@ findlocation
 findplace
 findproxyforurl
 fine-print
+finops
 firebird
 firefox
 firewall
@@ -2750,10 +2746,8 @@ gmaps
 gmsa
 gnucash
 gnuwin32
-go
 gobright
 godaddy
-golang
 goldengate
 goldsource
 goldsource-dedicated-server
@@ -2826,7 +2820,6 @@ growlnotify
 grr
 gsuite
 gtx1080ti
-guardedfabric
 guardicore
 gubbins
 guest
@@ -2921,7 +2914,6 @@ hello
 helloid
 helloposhgallery
 helloworld
-helm
 helmet
 help
 helpdesk
@@ -3294,7 +3286,6 @@ iotcentral
 iothub
 iothubproperties
 ip
-ip-address
 ip-scanner
 ipa
 ipaddress
@@ -3399,6 +3390,7 @@ journal
 joyride
 jpg
 jq
+js7
 jsm
 jsm.insight
 json
@@ -3434,7 +3426,6 @@ karabiner
 karabiner-elements
 karma
 kaseya
-kaseyavsa
 kaspersky
 katakana
 kb
@@ -3489,7 +3480,6 @@ kql
 kraken
 krbtgt
 krick
-kschemaplugin
 kubclt
 kube
 kubectl
@@ -3849,7 +3839,6 @@ max
 max_path
 maximum
 maxoffice
-mazerat
 mb
 mbc
 mbs
@@ -3882,7 +3871,6 @@ mediant
 mediaplayer
 mediaservices
 mediawiki
-meditation
 meeting
 meetup
 meetup.com
@@ -3907,7 +3895,6 @@ mercurial
 merge
 mermaid
 message
-messagebox
 messageoftheday
 messages
 messaging
@@ -3951,6 +3938,7 @@ microsoft365
 microsoft365dsc
 microsoftauthenticationlibrary
 microsoftazure
+microsoftcloud
 microsoftdefender
 microsoftdefenderatp
 microsoftdeploymenttoolkit
@@ -4223,6 +4211,7 @@ network
 network adapter configuration operating os optical sensor physical pointing portable printer processor cpu refrigaration cooling cooler removable usb sd ram dimm scsi sound audio card enclosure tape temperature touchpad touch pad touchscreen screen trackball trackpoint video graphics voltage psmodule
 network-credentials
 network-info
+networkcloud
 networkdiscovery
 networkdrives
 networkfirewall
@@ -4234,6 +4223,7 @@ networkloadbalancer
 networkpolicyserver
 networkscan
 networksecurity
+networksecuritygroup
 networkshares
 netwrix
 new
@@ -4504,6 +4494,7 @@ optimizer
 option
 option119
 options
+optionstring
 opus
 oracle
 oraclecloudinfrastructure
@@ -4539,7 +4530,6 @@ osp
 ospgateway
 osprovision
 osprovisioning
-osr
 oss
 ossec
 osubbillingschedule
@@ -4667,7 +4657,6 @@ paypal
 pays
 pbench
 pc
-pcapng
 pci-dss
 pcloud
 pcsetup
@@ -4863,7 +4852,6 @@ poshy-wrap-apt
 poshy-wrap-argcomplete
 poshy-wrap-brew
 poshy-wrap-curl
-poshy-wrap-dnf
 poshy-wrap-docker
 poshy-wrap-docker-compose
 poshy-wrap-dotnet
@@ -4874,8 +4862,6 @@ poshy-wrap-git
 poshy-wrap-git-flow
 poshy-wrap-git-hf
 poshy-wrap-git-lfs
-poshy-wrap-golang
-poshy-wrap-helm
 poshy-wrap-kubectl
 poshy-wrap-maven
 poshy-wrap-nginx
@@ -4936,18 +4922,15 @@ powershell
 powershell-class
 powershell-cmdlets
 powershell-core
-powershell-core-releases-api
 powershell-course
 powershell-credentials
 powershell-dsc
 powershell-examples
 powershell-gallery
-powershell-github-repo
 powershell-isprime
 powershell-lightning
 powershell-module
 powershell-modules
-powershell-releases-api
 powershell-remoting
 powershell-script
 powershell-terminal
@@ -5289,19 +5272,6 @@ pscommand_dlo
 pscommand_dnc
 pscommand_dncn
 pscommand_dndcn
-pscommand_dnfc
-pscommand_dnfgi
-pscommand_dnfgl
-pscommand_dnfgr
-pscommand_dnfi
-pscommand_dnfl
-pscommand_dnfli
-pscommand_dnfmc
-pscommand_dnfp
-pscommand_dnfr
-pscommand_dnfri
-pscommand_dnfs
-pscommand_dnfu
 pscommand_dni
 pscommand_dnls
 pscommand_dnrm
@@ -5716,31 +5686,6 @@ pscommand_gmu
 pscommand_gmum
 pscommand_gmv
 pscommand_gnew
-pscommand_gob
-pscommand_goc
-pscommand_god
-pscommand_goe
-pscommand_gof
-pscommand_gofa
-pscommand_gofx
-pscommand_gog
-pscommand_goga
-pscommand_goi
-pscommand_gol
-pscommand_gom
-pscommand_gopa
-pscommand_gopb
-pscommand_gops
-pscommand_gor
-pscommand_got
-pscommand_gota
-pscommand_goto
-pscommand_gotoc
-pscommand_gotod
-pscommand_gotofx
-pscommand_gov
-pscommand_gove
-pscommand_gow
 pscommand_gp
 pscommand_gpatch
 pscommand_gpdo
@@ -5832,11 +5777,7 @@ pscommand_gup
 pscommand_gus
 pscommand_gwc
 pscommand_gwch
-pscommand_h
-pscommand_hin
 pscommand_hostname
-pscommand_hse
-pscommand_hup
 pscommand_invoke-aptcachepolicy
 pscommand_invoke-aptcachesearch
 pscommand_invoke-aptcacheshowpkg
@@ -5862,19 +5803,6 @@ pscommand_invoke-curlfollowingredirectsdownloadasnamedcontinue
 pscommand_invoke-curlfollowingredirectsdownloadasnamedcontinueandretry
 pscommand_invoke-curlfollowingredirectsfetchbanner
 pscommand_invoke-curlonlyforgetresponseheaders
-pscommand_invoke-dnfcleanall
-pscommand_invoke-dnfgrouplist
-pscommand_invoke-dnfgrouppinstall
-pscommand_invoke-dnfgroupremove
-pscommand_invoke-dnfinfo
-pscommand_invoke-dnfinstall
-pscommand_invoke-dnflist
-pscommand_invoke-dnflistinstalled
-pscommand_invoke-dnfmakecache
-pscommand_invoke-dnfreinstall
-pscommand_invoke-dnfremove
-pscommand_invoke-dnfsearch
-pscommand_invoke-dnfupgrade
 pscommand_invoke-dockercomposebuild
 pscommand_invoke-dockercomposedown
 pscommand_invoke-dockercomposeexec
@@ -5972,33 +5900,7 @@ pscommand_invoke-gitsubmoduleallpullorigin
 pscommand_invoke-gitswitch
 pscommand_invoke-gittag
 pscommand_invoke-gitwhatchanged
-pscommand_invoke-gobuild
-pscommand_invoke-goclean
-pscommand_invoke-godoc
-pscommand_invoke-goenv
-pscommand_invoke-gofix
-pscommand_invoke-gofmt
-pscommand_invoke-gofmtellipsis
-pscommand_invoke-goget
-pscommand_invoke-gogetellipsis
-pscommand_invoke-goinstall
-pscommand_invoke-golist
-pscommand_invoke-gomod
-pscommand_invoke-gorun
-pscommand_invoke-gotest
-pscommand_invoke-gotestellipsis
-pscommand_invoke-gotool
-pscommand_invoke-gotoolcompile
-pscommand_invoke-gotooldist
-pscommand_invoke-gotoolfix
-pscommand_invoke-goversion
-pscommand_invoke-govet
-pscommand_invoke-gowork
 pscommand_invoke-greppipfreeze
-pscommand_invoke-helm
-pscommand_invoke-helminstall
-pscommand_invoke-helmsearch
-pscommand_invoke-helmupgrade
 pscommand_invoke-hub
 pscommand_invoke-kubectl
 pscommand_invoke-kubectlallnamespaces
@@ -6706,9 +6608,6 @@ pscommand_set-locationback9
 pscommand_set-locationdown1
 pscommand_set-locationforward1
 pscommand_set-locationgithome
-pscommand_set-locationgopath
-pscommand_set-locationgopathbin
-pscommand_set-locationgopathsrc
 pscommand_set-locationnewdirectory
 pscommand_set-locationup
 pscommand_set-locationup1
@@ -7279,19 +7178,6 @@ psfunction_invoke-curlfollowingredirectsdownloadasnamedcontinue
 psfunction_invoke-curlfollowingredirectsdownloadasnamedcontinueandretry
 psfunction_invoke-curlfollowingredirectsfetchbanner
 psfunction_invoke-curlonlyforgetresponseheaders
-psfunction_invoke-dnfcleanall
-psfunction_invoke-dnfgrouplist
-psfunction_invoke-dnfgrouppinstall
-psfunction_invoke-dnfgroupremove
-psfunction_invoke-dnfinfo
-psfunction_invoke-dnfinstall
-psfunction_invoke-dnflist
-psfunction_invoke-dnflistinstalled
-psfunction_invoke-dnfmakecache
-psfunction_invoke-dnfreinstall
-psfunction_invoke-dnfremove
-psfunction_invoke-dnfsearch
-psfunction_invoke-dnfupgrade
 psfunction_invoke-dockercomposebuild
 psfunction_invoke-dockercomposedown
 psfunction_invoke-dockercomposeexec
@@ -7389,33 +7275,7 @@ psfunction_invoke-gitsubmoduleallpullorigin
 psfunction_invoke-gitswitch
 psfunction_invoke-gittag
 psfunction_invoke-gitwhatchanged
-psfunction_invoke-gobuild
-psfunction_invoke-goclean
-psfunction_invoke-godoc
-psfunction_invoke-goenv
-psfunction_invoke-gofix
-psfunction_invoke-gofmt
-psfunction_invoke-gofmtellipsis
-psfunction_invoke-goget
-psfunction_invoke-gogetellipsis
-psfunction_invoke-goinstall
-psfunction_invoke-golist
-psfunction_invoke-gomod
-psfunction_invoke-gorun
-psfunction_invoke-gotest
-psfunction_invoke-gotestellipsis
-psfunction_invoke-gotool
-psfunction_invoke-gotoolcompile
-psfunction_invoke-gotooldist
-psfunction_invoke-gotoolfix
-psfunction_invoke-goversion
-psfunction_invoke-govet
-psfunction_invoke-gowork
 psfunction_invoke-greppipfreeze
-psfunction_invoke-helm
-psfunction_invoke-helminstall
-psfunction_invoke-helmsearch
-psfunction_invoke-helmupgrade
 psfunction_invoke-hub
 psfunction_invoke-kubectl
 psfunction_invoke-kubectlallnamespaces
@@ -7925,9 +7785,6 @@ psfunction_set-locationback9
 psfunction_set-locationdown1
 psfunction_set-locationforward1
 psfunction_set-locationgithome
-psfunction_set-locationgopath
-psfunction_set-locationgopathbin
-psfunction_set-locationgopathsrc
 psfunction_set-locationnewdirectory
 psfunction_set-locationup
 psfunction_set-locationup1
@@ -8182,6 +8039,7 @@ qrp
 qrs
 quality
 qualys
+quandl
 quantum
 quarantine
 queries
@@ -8547,7 +8405,6 @@ runbooks
 runbookstudio
 runcommand
 rundeck
-runner
 runspace
 runspacepool
 runspaces
@@ -8899,7 +8756,6 @@ sheets
 shell
 shell-art
 shells
-shieldedvm
 ships
 shipsprovider
 shipstation
@@ -8915,6 +8771,7 @@ shotgun
 show
 show-command
 show-on-command
+showdemo
 showoncommand
 shred
 shuf
@@ -9011,7 +8868,9 @@ smtpauth
 smtpoauth
 smtpsasl
 smtpsecure
+snap
 snapchat
+snapping
 snapshot
 snapshots
 sni
@@ -9019,7 +8878,6 @@ snipe-it
 snippet
 snippets
 snippets-manager
-snippit
 snmp
 snmpget
 snmpset
@@ -9275,6 +9133,8 @@ streak
 stream
 streamanalytics
 streaming
+streamreader
+streamwriter
 stretch
 strictmode
 strikethrough-text
@@ -9458,6 +9318,7 @@ tcpip
 tcpport
 tcprjmgmt
 tcpserver
+tcptest
 tcx
 tcxaemgmt
 tdd
@@ -9638,6 +9499,7 @@ tr064
 trace
 traceevent
 tracer
+tracert
 tracing
 tracker
 tracking
@@ -9681,6 +9543,7 @@ trendmicro
 trevor
 trevorsullivan
 triangle
+tribeloo
 trick
 tricks
 trigger
@@ -9708,7 +9571,6 @@ tsqlbestpractice
 tst
 tst1
 tst3
-ttrpg
 tts
 tubedownloader
 tui
@@ -9806,6 +9668,7 @@ udcm
 udfeedback
 udp
 udpclient
+udptest
 udr
 udthememode
 udword
@@ -10099,6 +9962,7 @@ vpn-certificate
 vpro
 vps
 vra
+vrchat
 vrealize
 vrising
 vro
@@ -10107,7 +9971,6 @@ vrsns
 vrtu
 vs
 vs-shell
-vsa
 vsan
 vsan+
 vscode
@@ -10212,6 +10075,7 @@ websockets
 websphere
 websphereappserver
 websphereportal
+webtest
 webtesting
 webtime
 wec
@@ -10326,10 +10190,8 @@ windowstimezone
 windowsupdate
 windowsupdates
 windowsvirtualdesktop
-winform
 winforms
 winget
-wingetbridge
 winrar
 winrm
 winrs
@@ -10435,7 +10297,6 @@ wt
 wtsapi32
 wttr
 wttr.in
-wtx
 wu
 wug
 wunderlist
@@ -10506,7 +10367,6 @@ yandex
 yapg
 yarn
 yetanotherhelloworld
-yml
 ynab
 youtube
 youtube-dl
