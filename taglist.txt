@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Saturday, 07 October 2023 02:02:08 UTC
+Updated: Saturday, 07 October 2023 09:54:10 UTC
 
 .bat
 .env
@@ -24,6 +24,7 @@ Updated: Saturday, 07 October 2023 02:02:08 UTC
 1803
 1809
 1c
+1e
 1password
 1poshword
 200
@@ -118,6 +119,7 @@ activedirectoryauthenticationlibrary
 activedirectorycertificateservices
 activedirectoryfederationservices
 activedirectry-html
+activeefficiency
 activehours
 activeresponse
 activesession
@@ -402,6 +404,7 @@ aprs
 aprs-is
 aprsis
 aprsthursday
+aps
 apt
 apt-get
 apt-get-update
@@ -571,7 +574,6 @@ avro
 avs
 avset
 await
-awareness
 awesome
 awp
 awpagent
@@ -641,6 +643,8 @@ azurebasicloadbalancerupgrade
 azurecli
 azurecognitiveservices
 azureconnectedmachine
+azurecontainerapps
+azurecontainers
 azuredatabricks
 azuredataexplorer
 azuredatastudio
@@ -796,7 +800,6 @@ bitwise
 biztalk
 biztalkalm
 biztalkdeploymentframework
-bks
 black
 blackbaud
 blackbox
@@ -817,7 +820,6 @@ bls
 blue
 bluedolhin
 blueprint
-blueprints
 blueteam
 bluetraitio
 bmc
@@ -861,8 +863,6 @@ brew
 brickset
 bridge
 brightbooking
-britannica
-britannicaknowledgesystems
 british-gas
 brk4452
 broadcast
@@ -912,6 +912,7 @@ businesstime
 bxor
 bydesign
 byexample
+bynarypsmodule
 byovd
 byte
 bytearray
@@ -1309,6 +1310,7 @@ computeinstanceagent
 computer
 computer-site
 computername
+computers
 computersite
 concur
 concurrency
@@ -1453,7 +1455,6 @@ coveralls
 coveralls.io
 covid
 covid-19
-cpm
 cppm
 cpu
 cpuid
@@ -1553,6 +1554,7 @@ customchecks
 customdns
 customer
 customerengagement
+customers
 customeventchannel
 customeventlog
 customeventlogchannel
@@ -1706,7 +1708,6 @@ decline
 decode
 decode64
 decoding
-decompiler
 decrypt
 decryption
 dedicatedhsm
@@ -1771,7 +1772,6 @@ deutschland
 dev
 dev-tools
 devart
-devcenter
 devdeer
 developer
 developer_command_prompt
@@ -1850,7 +1850,6 @@ discordrpc
 discount
 discover
 discovery
-discutils
 disk
 disk_to_disk
 disk-space
@@ -1893,6 +1892,7 @@ dmi
 dmtf
 dmx
 dnd
+dnf
 dns
 dns-01
 dns-administration
@@ -2193,7 +2193,6 @@ episode
 epplus
 eprosima
 epub
-epv
 equality
 erb
 erp
@@ -2229,6 +2228,7 @@ ethereum
 ethr
 ethz
 etl
+etl2pcapng
 etrade
 ets
 etw
@@ -2348,7 +2348,6 @@ external
 externalip
 extract
 extractor
-extreme-networks
 eztheme
 f
 f#
@@ -2384,6 +2383,8 @@ feature
 features
 featuresondemand
 featureupdate
+federated
+federateddirectory
 federation
 fedex
 feed
@@ -2551,7 +2552,6 @@ forum
 forwardcompatibility
 forwardedevents
 foudil
-fox
 foxpro
 fqdn
 frame
@@ -2746,8 +2746,10 @@ gmaps
 gmsa
 gnucash
 gnuwin32
+go
 gobright
 godaddy
+golang
 goldengate
 goldsource
 goldsource-dedicated-server
@@ -2820,6 +2822,7 @@ growlnotify
 grr
 gsuite
 gtx1080ti
+guardedfabric
 guardicore
 gubbins
 guest
@@ -2956,7 +2959,6 @@ historyninja
 hitrust
 hive
 hivehome
-hjson
 hkcu
 hkey_classes_root
 hkey_current_config
@@ -3178,7 +3180,10 @@ influxdb
 info
 infoblox
 information
+information-technology
 informationbarriers
+informationtechnology
+informationtechnologyoperations
 informix
 infosec
 infrastructure
@@ -3286,6 +3291,7 @@ iotcentral
 iothub
 iothubproperties
 ip
+ip-address
 ip-scanner
 ipa
 ipaddress
@@ -3329,10 +3335,10 @@ iso-3166-1
 iso-8601
 ispac
 isprime
-ispss
 issues
 isvalidemail
 isvalidip
+it
 it-support
 it-tool
 it-tools
@@ -3346,6 +3352,7 @@ iteration
 itg
 itglue
 itin
+itop
 itsm
 itstore
 ivanti
@@ -3480,6 +3487,7 @@ kql
 kraken
 krbtgt
 krick
+kschemaplugin
 kubclt
 kube
 kubectl
@@ -3663,6 +3671,10 @@ lod
 lodasoft
 log
 log-administration
+log-file
+log-files
+log-mail
+log-mails
 log-management
 log-rotation
 log4net
@@ -3693,6 +3705,8 @@ loginsight
 logiphys
 logistic
 logitech
+logmail
+logmails
 logman
 logoff
 logon
@@ -3761,7 +3775,9 @@ mailbox
 mailchimp
 mailgroup
 mailgroupmember
+mailing
 mailkit
+mails
 main
 main-menu
 maintain-module
@@ -3876,7 +3892,6 @@ meetup
 meetup.com
 meewind
 megabyte
-melamed
 meltdown
 mem
 member
@@ -3895,6 +3910,7 @@ mercurial
 merge
 mermaid
 message
+messagebox
 messageoftheday
 messages
 messaging
@@ -4230,6 +4246,8 @@ new
 new-completionresult
 new-dtcmpackagefromdriverpackpackagedefinitionsms
 new-dtcmtasksequencefromdriverpackpackagedefinitionsms
+new-dynamicdictionary
+new-dynamicparameter
 new-githubrelease
 new-itemproperty
 new-pinneditem
@@ -4237,7 +4255,6 @@ new-rdpsession
 new-samcmapplicationfrompackagedefinitionsms
 new-samcmpackagefrompackagedefinitionsms
 new-system
-new-udmorph
 newpassword
 newrelic
 news
@@ -4492,7 +4509,6 @@ optics
 optimization
 optimizer
 option
-option119
 options
 optionstring
 opus
@@ -4614,7 +4630,6 @@ partitions
 partner
 partnercenter
 partnerportal
-pas
 pass
 passcode
 passivetotal
@@ -4630,6 +4645,7 @@ passwordexpiration
 passwordexpiry
 passwordgeneration
 passwordgenerator
+passwordgenerators
 passwordhashing
 passwordlock
 passwordlockoutreport
@@ -4657,8 +4673,8 @@ paypal
 pays
 pbench
 pc
+pcapng
 pci-dss
-pcloud
 pcsetup
 pcsv
 pdb
@@ -4852,6 +4868,7 @@ poshy-wrap-apt
 poshy-wrap-argcomplete
 poshy-wrap-brew
 poshy-wrap-curl
+poshy-wrap-dnf
 poshy-wrap-docker
 poshy-wrap-docker-compose
 poshy-wrap-dotnet
@@ -4862,6 +4879,7 @@ poshy-wrap-git
 poshy-wrap-git-flow
 poshy-wrap-git-hf
 poshy-wrap-git-lfs
+poshy-wrap-golang
 poshy-wrap-kubectl
 poshy-wrap-maven
 poshy-wrap-nginx
@@ -4880,7 +4898,6 @@ poshy-wrap-tmux
 poshy-wrap-vagrant
 poshy-wrap-vault
 poshy-wrap-vscode
-poshy-wrap-wget
 poshy-wrap-wt
 poshy-wrap-yum
 poshy-wrap-zypper
@@ -4922,15 +4939,18 @@ powershell
 powershell-class
 powershell-cmdlets
 powershell-core
+powershell-core-releases-api
 powershell-course
 powershell-credentials
 powershell-dsc
 powershell-examples
 powershell-gallery
+powershell-github-repo
 powershell-isprime
 powershell-lightning
 powershell-module
 powershell-modules
+powershell-releases-api
 powershell-remoting
 powershell-script
 powershell-terminal
@@ -5020,7 +5040,6 @@ privatekey
 privatemethods
 privateprofilestring
 privilege
-privilegecloud
 privileged
 privileges
 pro
@@ -5058,7 +5077,6 @@ proliant
 prometheus
 prompt
 pronounceable
-proofpoint
 properties
 property
 property-list
@@ -5108,9 +5126,7 @@ psadgroupmembers
 psadt
 psake
 psappdeploytoolkit
-psat
 psazd
-psbackup
 psbbix
 psbicep
 psclient
@@ -5272,6 +5288,19 @@ pscommand_dlo
 pscommand_dnc
 pscommand_dncn
 pscommand_dndcn
+pscommand_dnfc
+pscommand_dnfgi
+pscommand_dnfgl
+pscommand_dnfgr
+pscommand_dnfi
+pscommand_dnfl
+pscommand_dnfli
+pscommand_dnfmc
+pscommand_dnfp
+pscommand_dnfr
+pscommand_dnfri
+pscommand_dnfs
+pscommand_dnfu
 pscommand_dni
 pscommand_dnls
 pscommand_dnrm
@@ -5686,6 +5715,31 @@ pscommand_gmu
 pscommand_gmum
 pscommand_gmv
 pscommand_gnew
+pscommand_gob
+pscommand_goc
+pscommand_god
+pscommand_goe
+pscommand_gof
+pscommand_gofa
+pscommand_gofx
+pscommand_gog
+pscommand_goga
+pscommand_goi
+pscommand_gol
+pscommand_gom
+pscommand_gopa
+pscommand_gopb
+pscommand_gops
+pscommand_gor
+pscommand_got
+pscommand_gota
+pscommand_goto
+pscommand_gotoc
+pscommand_gotod
+pscommand_gotofx
+pscommand_gov
+pscommand_gove
+pscommand_gow
 pscommand_gp
 pscommand_gpatch
 pscommand_gpdo
@@ -5803,6 +5857,19 @@ pscommand_invoke-curlfollowingredirectsdownloadasnamedcontinue
 pscommand_invoke-curlfollowingredirectsdownloadasnamedcontinueandretry
 pscommand_invoke-curlfollowingredirectsfetchbanner
 pscommand_invoke-curlonlyforgetresponseheaders
+pscommand_invoke-dnfcleanall
+pscommand_invoke-dnfgrouplist
+pscommand_invoke-dnfgrouppinstall
+pscommand_invoke-dnfgroupremove
+pscommand_invoke-dnfinfo
+pscommand_invoke-dnfinstall
+pscommand_invoke-dnflist
+pscommand_invoke-dnflistinstalled
+pscommand_invoke-dnfmakecache
+pscommand_invoke-dnfreinstall
+pscommand_invoke-dnfremove
+pscommand_invoke-dnfsearch
+pscommand_invoke-dnfupgrade
 pscommand_invoke-dockercomposebuild
 pscommand_invoke-dockercomposedown
 pscommand_invoke-dockercomposeexec
@@ -5900,6 +5967,28 @@ pscommand_invoke-gitsubmoduleallpullorigin
 pscommand_invoke-gitswitch
 pscommand_invoke-gittag
 pscommand_invoke-gitwhatchanged
+pscommand_invoke-gobuild
+pscommand_invoke-goclean
+pscommand_invoke-godoc
+pscommand_invoke-goenv
+pscommand_invoke-gofix
+pscommand_invoke-gofmt
+pscommand_invoke-gofmtellipsis
+pscommand_invoke-goget
+pscommand_invoke-gogetellipsis
+pscommand_invoke-goinstall
+pscommand_invoke-golist
+pscommand_invoke-gomod
+pscommand_invoke-gorun
+pscommand_invoke-gotest
+pscommand_invoke-gotestellipsis
+pscommand_invoke-gotool
+pscommand_invoke-gotoolcompile
+pscommand_invoke-gotooldist
+pscommand_invoke-gotoolfix
+pscommand_invoke-goversion
+pscommand_invoke-govet
+pscommand_invoke-gowork
 pscommand_invoke-greppipfreeze
 pscommand_invoke-hub
 pscommand_invoke-kubectl
@@ -6446,7 +6535,6 @@ pscommand_measure-envvarchanges
 pscommand_merge-gitrepositoryfromoriginbranchmain
 pscommand_merge-gitrepositoryfromupstreambranchmain
 pscommand_mi
-pscommand_mirrorsite
 pscommand_move-gittrackedfiles
 pscommand_mp
 pscommand_mpom
@@ -6608,6 +6696,9 @@ pscommand_set-locationback9
 pscommand_set-locationdown1
 pscommand_set-locationforward1
 pscommand_set-locationgithome
+pscommand_set-locationgopath
+pscommand_set-locationgopathbin
+pscommand_set-locationgopathsrc
 pscommand_set-locationnewdirectory
 pscommand_set-locationup
 pscommand_set-locationup1
@@ -7178,6 +7269,19 @@ psfunction_invoke-curlfollowingredirectsdownloadasnamedcontinue
 psfunction_invoke-curlfollowingredirectsdownloadasnamedcontinueandretry
 psfunction_invoke-curlfollowingredirectsfetchbanner
 psfunction_invoke-curlonlyforgetresponseheaders
+psfunction_invoke-dnfcleanall
+psfunction_invoke-dnfgrouplist
+psfunction_invoke-dnfgrouppinstall
+psfunction_invoke-dnfgroupremove
+psfunction_invoke-dnfinfo
+psfunction_invoke-dnfinstall
+psfunction_invoke-dnflist
+psfunction_invoke-dnflistinstalled
+psfunction_invoke-dnfmakecache
+psfunction_invoke-dnfreinstall
+psfunction_invoke-dnfremove
+psfunction_invoke-dnfsearch
+psfunction_invoke-dnfupgrade
 psfunction_invoke-dockercomposebuild
 psfunction_invoke-dockercomposedown
 psfunction_invoke-dockercomposeexec
@@ -7275,6 +7379,28 @@ psfunction_invoke-gitsubmoduleallpullorigin
 psfunction_invoke-gitswitch
 psfunction_invoke-gittag
 psfunction_invoke-gitwhatchanged
+psfunction_invoke-gobuild
+psfunction_invoke-goclean
+psfunction_invoke-godoc
+psfunction_invoke-goenv
+psfunction_invoke-gofix
+psfunction_invoke-gofmt
+psfunction_invoke-gofmtellipsis
+psfunction_invoke-goget
+psfunction_invoke-gogetellipsis
+psfunction_invoke-goinstall
+psfunction_invoke-golist
+psfunction_invoke-gomod
+psfunction_invoke-gorun
+psfunction_invoke-gotest
+psfunction_invoke-gotestellipsis
+psfunction_invoke-gotool
+psfunction_invoke-gotoolcompile
+psfunction_invoke-gotooldist
+psfunction_invoke-gotoolfix
+psfunction_invoke-goversion
+psfunction_invoke-govet
+psfunction_invoke-gowork
 psfunction_invoke-greppipfreeze
 psfunction_invoke-hub
 psfunction_invoke-kubectl
@@ -7681,7 +7807,6 @@ psfunction_local-ignore
 psfunction_measure-envvarchanges
 psfunction_merge-gitrepositoryfromoriginbranchmain
 psfunction_merge-gitrepositoryfromupstreambranchmain
-psfunction_mirrorsite
 psfunction_move-gittrackedfiles
 psfunction_new-gitbranchfromstash
 psfunction_new-gitbranchtracked
@@ -7785,6 +7910,9 @@ psfunction_set-locationback9
 psfunction_set-locationdown1
 psfunction_set-locationforward1
 psfunction_set-locationgithome
+psfunction_set-locationgopath
+psfunction_set-locationgopathbin
+psfunction_set-locationgopathsrc
 psfunction_set-locationnewdirectory
 psfunction_set-locationup
 psfunction_set-locationup1
@@ -7891,7 +8019,6 @@ psjobthreads
 pskeepass
 pslocalgallery
 psloganalytics
-psm
 psm1
 psmodule
 psmodule psedition_desktop
@@ -8093,6 +8220,7 @@ rate-limit
 rates
 rating
 ratings
+ravendb
 razzle
 rbac
 rbacmodel
@@ -8170,7 +8298,6 @@ refeds
 refeds-mfa
 refedsmfa
 reference
-reflect
 reflection
 refresh
 refreshtoken
@@ -8405,9 +8532,12 @@ runbooks
 runbookstudio
 runcommand
 rundeck
+runner
 runspace
 runspacepool
 runspaces
+runtimedefinedparameter
+runtimedefinedparameterdictionary
 runway
 russia
 rust
@@ -8423,7 +8553,6 @@ sabnzbd
 sabnzbd+
 sacl
 safari
-safe
 safeguard
 sage
 saggiehaim
@@ -8560,7 +8689,6 @@ searchmanager
 searchplace
 searchquery
 searchstring
-searchsuffixlist
 secaas
 secedit
 secret
@@ -8620,7 +8748,6 @@ self-hosted
 self-service
 self-signed
 selfdispatch
-selfhelp
 selfsigned
 semantic
 semantic-versioning
@@ -8682,7 +8809,6 @@ serviceplan
 servicepointmanager
 serviceprincipal
 services
-servicestatus
 servicestore
 servicing
 servicingstack
@@ -8756,6 +8882,7 @@ sheets
 shell
 shell-art
 shells
+shieldedvm
 ships
 shipsprovider
 shipstation
@@ -8817,7 +8944,6 @@ sitesystemserver
 sitethumbprint
 size
 skatterbrainz
-skeleton-loader
 skia
 skiasharp
 skolnilogin
@@ -8878,6 +9004,7 @@ snipe-it
 snippet
 snippets
 snippets-manager
+snippit
 snmp
 snmpget
 snmpset
@@ -9252,6 +9379,7 @@ syspip3
 sysprep
 system
 system information 1394 controller baseboard motherboard systemboard battery bios bus cache memory cd dvd rom drive compact disc desktop monitor disk partition fan floppy glide point heatpipe ide infrared device keyboard local logical array mouse'
+system-administration
 system-group
 system-service
 system-services
@@ -9334,6 +9462,7 @@ teamviewer
 techdirect
 techedna2014
 techlog
+technology
 techsmith
 tel
 telegram
@@ -9543,7 +9672,6 @@ trendmicro
 trevor
 trevorsullivan
 triangle
-tribeloo
 trick
 tricks
 trigger
@@ -9798,7 +9926,6 @@ uw
 uwp
 ux
 vaas
-vadim
 vagrant
 vale
 validate
@@ -9857,7 +9984,6 @@ veracrypt
 verbose
 verbose psmodule
 verification
-verify
 version
 versioning
 versionmanager
@@ -9915,7 +10041,6 @@ vlookup
 vlsm
 vm
 vmc
-vmelamed5
 vmfs
 vmgroup
 vmhost
@@ -9952,8 +10077,6 @@ volumeshadowcopy
 volumio
 vorbis
 vovin
-vpas
-vpasmodule
 vpc
 vpg
 vplex
@@ -10022,7 +10145,6 @@ warplaneporn
 warranty
 warraty
 warrenty
-wasabi
 watch
 watchmen
 watery
@@ -10087,7 +10209,6 @@ well-known
 wem
 wemsdk
 wer
-wget
 what3words
 whatismyip
 whatsnew
@@ -10190,8 +10311,10 @@ windowstimezone
 windowsupdate
 windowsupdates
 windowsvirtualdesktop
+winform
 winforms
 winget
+wingetbridge
 winrar
 winrm
 winrs
@@ -10297,6 +10420,7 @@ wt
 wtsapi32
 wttr
 wttr.in
+wtx
 wu
 wug
 wunderlist
@@ -10336,7 +10460,6 @@ xin
 xkcd
 xliff
 xlsx
-xmc
 xml
 xml-rpc
 xml-transform

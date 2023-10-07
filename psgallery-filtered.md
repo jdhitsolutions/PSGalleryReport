@@ -3,6 +3,30 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [GitHub](https://www.powershellgallery.com/Packages/GitHub/0.2.26) | 0.2.26
+
+### Published: 10/07/2023 09:44:44 by Marius Storhaug
+
+GitHub PowerShell Module
+
+__Downloads__: 2,163 | __Repository__: https://github.com/PSModule/GitHub
+
+## [WinPrefs](https://www.powershellgallery.com/Packages/WinPrefs/0.0.2) | 0.0.2
+
+### Published: 10/07/2023 05:43:41 by Tatsh
+
+Convert a registry path to a series of reg commands.
+
+__Downloads__: 0 | __Repository__: https://github.com/Tatsh/winprefs
+
+## [Fly.Client](https://www.powershellgallery.com/Packages/Fly.Client/3.10.4) | 3.10.4
+
+### Published: 10/07/2023 05:27:19 by AvePointInc
+
+Fly.Client - the PowerShell module for Fly SDK API
+
+__Downloads__: 107 | __Repository__: https://github.com/AvePoint/fly-client
+
 ## [Set-AzAdvancedContext](https://www.powershellgallery.com/Packages/Set-AzAdvancedContext/1.0) | 1.0
 
 ### Published: 10/06/2023 21:35:49 by Christoffer Windahl Madsen
@@ -65,7 +89,7 @@ __Downloads__: 1,052 | __Repository__: https://github.com/Azure/AzLoadBalancerMi
 
 A PowerShell module that makes interfacing with Azure Pipelines a little easier
 
-__Downloads__: 31,225 | __Repository__: https://github.com/Dejulia489/AzurePipelinesPS
+__Downloads__: 31,214 | __Repository__: https://github.com/Dejulia489/AzurePipelinesPS
 
 ## [TestModulePrerelease](https://www.powershellgallery.com/Packages/TestModulePrerelease/0.0.3) | 0.0.3
 
@@ -73,7 +97,7 @@ __Downloads__: 31,225 | __Repository__: https://github.com/Dejulia489/AzurePipel
 
 PSGet team test module with prerelease for docs
 
-__Downloads__: 1 | __Repository__: 
+__Downloads__: 0 | __Repository__: 
 
 ## [TestModule](https://www.powershellgallery.com/Packages/TestModule/1.5.0) | 1.5.0
 
@@ -129,7 +153,7 @@ __Downloads__: 1 | __Repository__:
 
 ProjectWise PowerShell Cmdlets from System Architecture Group
 
-__Downloads__: 78,638 | __Repository__: 
+__Downloads__: 78,605 | __Repository__: 
 
 ## [M365DSCTools](https://www.powershellgallery.com/Packages/M365DSCTools/0.1.2) | 0.1.2
 
@@ -147,7 +171,7 @@ The DSInternals PowerShell Module exposes several internal features of Active Di
 
 DISCLAIMER: Features exposed through this module are not supported by Microsoft and it is therefore not intended to be used in production environments. Improper use might cause irreversible damage to domain controllers or negatively impact domain security.
 
-__Downloads__: 2,401,184 | __Repository__: https://github.com/MichaelGrafnetter/DSInternals
+__Downloads__: 2,401,217 | __Repository__: https://github.com/MichaelGrafnetter/DSInternals
 
 ## [GoodWorkaroundHelpers](https://www.powershellgallery.com/Packages/GoodWorkaroundHelpers/0.0.2) | 0.0.2
 
@@ -219,7 +243,7 @@ To get help and syntax on PowerShell console, type:
 "Get-Help Invoke-WDACSimulation"
 "Get-Help Remove-CommonWDACConfig"
 
-__Downloads__: 673 | __Repository__: https://github.com/HotCakeX/Harden-Windows-Security/wiki/WDACConfig
+__Downloads__: 672 | __Repository__: https://github.com/HotCakeX/Harden-Windows-Security/wiki/WDACConfig
 
 ## [cbsch-pslib](https://www.powershellgallery.com/Packages/cbsch-pslib/1.1.0) | 1.1.0
 
@@ -235,7 +259,7 @@ __Downloads__: 1,676 | __Repository__:
 
 A PowerShell toolbox for Microsoft 365 security fans.
 
-__Downloads__: 19,506 | __Repository__: https://github.com/DanielChronlund/DCToolbox
+__Downloads__: 19,487 | __Repository__: https://github.com/DanielChronlund/DCToolbox
 
 ## [PSTree](https://www.powershellgallery.com/Packages/PSTree/2.1.15) | 2.1.15
 
@@ -273,7 +297,7 @@ __Downloads__: 367 | __Repository__: https://github.com/masesgroup/KNet
 
 This module includes several commands that help with the deployment of virtual environments on vSphere.
 
-__Downloads__: 223 | __Repository__: https://github.com/evanjd711/bruharmy
+__Downloads__: 224 | __Repository__: https://github.com/evanjd711/bruharmy
 
 ## [psPAS](https://www.powershellgallery.com/Packages/psPAS/6.0.18) | 6.0.18
 
@@ -281,7 +305,7 @@ __Downloads__: 223 | __Repository__: https://github.com/evanjd711/bruharmy
 
 Module for CyberArk Privileged Access Security Web Service REST API
 
-__Downloads__: 79,236 | __Repository__: https://pspas.pspete.dev/
+__Downloads__: 79,208 | __Repository__: https://pspas.pspete.dev/
 
 ## [MailDaemon](https://www.powershellgallery.com/Packages/MailDaemon/1.0.1) | 1.0.1
 
@@ -297,15 +321,7 @@ __Downloads__: 3,794 | __Repository__: https://github.com/PowershellFrameworkCol
 
 This module tries to enumerate all the persistence methods implanted on a compromised machine. New techniques may take some time before they are implemented in this script, so don't assume that because the module didn't find anything the machine is clean.
 
-__Downloads__: 2,323 | __Repository__: https://github.com/last-byte/PersistenceSniper
-
-## [GitHub](https://www.powershellgallery.com/Packages/GitHub/0.2.19) | 0.2.19
-
-### Published: 10/05/2023 21:31:40 by Marius Storhaug
-
-GitHub PowerShell Module
-
-__Downloads__: 2,171 | __Repository__: https://github.com/PSModule/GitHub
+__Downloads__: 2,317 | __Repository__: https://github.com/last-byte/PersistenceSniper
 
 ## [GitlabCli](https://www.powershellgallery.com/Packages/GitlabCli/1.103.0) | 1.103.0
 
@@ -313,7 +329,7 @@ __Downloads__: 2,171 | __Repository__: https://github.com/PSModule/GitHub
 
 Interact with GitLab via PowerShell
 
-__Downloads__: 13,968 | __Repository__: https://github.com/chris-peterson/pwsh-gitlab
+__Downloads__: 13,962 | __Repository__: https://github.com/chris-peterson/pwsh-gitlab
 
 ## [WooCommerceCmdlets](https://www.powershellgallery.com/Packages/WooCommerceCmdlets/23.0.8669.1) | 23.0.8669.1
 
@@ -369,7 +385,7 @@ __Downloads__: 709 | __Repository__: http://www.cdata.com/powershell/
 
 CData Cmdlets for Microsoft OneNote
 
-__Downloads__: 1,202 | __Repository__: http://www.cdata.com/powershell/
+__Downloads__: 1,201 | __Repository__: http://www.cdata.com/powershell/
 
 ## [MYOBCmdlets](https://www.powershellgallery.com/Packages/MYOBCmdlets/23.0.8669.1) | 23.0.8669.1
 
@@ -633,7 +649,7 @@ __Downloads__: 4,026 | __Repository__: http://www.cdata.com/powershell/
 
 CData Cmdlets for Google Drive
 
-__Downloads__: 2,218 | __Repository__: http://www.cdata.com/powershell/
+__Downloads__: 2,217 | __Repository__: http://www.cdata.com/powershell/
 
 ## [SalesforceCmdlets](https://www.powershellgallery.com/Packages/SalesforceCmdlets/23.0.8669.1) | 23.0.8669.1
 
@@ -642,14 +658,6 @@ __Downloads__: 2,218 | __Repository__: http://www.cdata.com/powershell/
 CData Cmdlets for Salesforce
 
 __Downloads__: 3,314 | __Repository__: http://www.cdata.com/powershell/
-
-## [EmailCmdlets](https://www.powershellgallery.com/Packages/EmailCmdlets/23.0.8669.1) | 23.0.8669.1
-
-### Published: 10/05/2023 19:13:03 by CData Software Inc.
-
-CData Cmdlets for Email
-
-__Downloads__: 1,197 | __Repository__: http://www.cdata.com/powershell/
 
 ## [ODataCmdlets](https://www.powershellgallery.com/Packages/ODataCmdlets/23.0.8669.1) | 23.0.8669.1
 
@@ -705,7 +713,7 @@ __Downloads__: 662 | __Repository__: http://www.cdata.com/powershell/
 
 CData Cmdlets for Snowflake
 
-__Downloads__: 2,201 | __Repository__: http://www.cdata.com/powershell/
+__Downloads__: 2,200 | __Repository__: http://www.cdata.com/powershell/
 
 ## [ActOnCmdlets](https://www.powershellgallery.com/Packages/ActOnCmdlets/23.0.8669.1) | 23.0.8669.1
 
@@ -1203,6 +1211,14 @@ CData Cmdlets for Bullhorn CRM
 
 __Downloads__: 904 | __Repository__: http://www.cdata.com/powershell/
 
+## [ZohoBooksCmdlets](https://www.powershellgallery.com/Packages/ZohoBooksCmdlets/23.0.8669.1) | 23.0.8669.1
+
+### Published: 10/05/2023 19:05:08 by CData Software Inc.
+
+CData Cmdlets for Zoho Books
+
+__Downloads__: 384 | __Repository__: http://www.cdata.com/powershell/
+
 ## [SybaseIQCmdlets](https://www.powershellgallery.com/Packages/SybaseIQCmdlets/23.0.8669.1) | 23.0.8669.1
 
 ### Published: 10/05/2023 19:05:01 by CData Software Inc.
@@ -1418,6 +1434,14 @@ __Downloads__: 199 | __Repository__: http://www.cdata.com/powershell/
 CData Cmdlets for Amazon Redshift
 
 __Downloads__: 1,017 | __Repository__: http://www.cdata.com/powershell/
+
+## [PostgresqlCmdlets](https://www.powershellgallery.com/Packages/PostgresqlCmdlets/23.0.8669.1) | 23.0.8669.1
+
+### Published: 10/05/2023 19:02:27 by CData Software Inc.
+
+CData Cmdlets for PostgreSQL
+
+__Downloads__: 46,515 | __Repository__: http://www.cdata.com/powershell/
 
 ## [ShopifyCmdlets](https://www.powershellgallery.com/Packages/ShopifyCmdlets/23.0.8669.1) | 23.0.8669.1
 
@@ -1713,7 +1737,7 @@ __Downloads__: 1,142 | __Repository__: http://www.cdata.com/powershell/
 
 CData Cmdlets for MySQL
 
-__Downloads__: 17,824 | __Repository__: http://www.cdata.com/powershell/
+__Downloads__: 17,808 | __Repository__: http://www.cdata.com/powershell/
 
 ## [GmailCmdlets](https://www.powershellgallery.com/Packages/GmailCmdlets/23.0.8669.1) | 23.0.8669.1
 
@@ -1897,7 +1921,7 @@ __Downloads__: 197 | __Repository__: http://www.cdata.com/powershell/
 
 Module for installing basic programs: This module provides functions for downloading installers from specified links, installing the programs, verifying the installed programs/services, and cleaning up the installer files.
 
-__Downloads__: 110,441 | __Repository__: 
+__Downloads__: 110,434 | __Repository__: 
 
 ## [ExchangeCmdlets](https://www.powershellgallery.com/Packages/ExchangeCmdlets/23.0.8669.1) | 23.0.8669.1
 
@@ -2035,28 +2059,4 @@ CData Cmdlets for SendGrid
 
 __Downloads__: 4,262 | __Repository__: http://www.cdata.com/powershell/
 
-## [EbayCmdlets](https://www.powershellgallery.com/Packages/EbayCmdlets/23.0.8669.1) | 23.0.8669.1
-
-### Published: 10/05/2023 18:40:42 by CData Software Inc.
-
-CData Cmdlets for eBay
-
-__Downloads__: 1,288 | __Repository__: http://www.cdata.com/powershell/
-
-## [GoogleAdsManagerCmdlets](https://www.powershellgallery.com/Packages/GoogleAdsManagerCmdlets/23.0.8669.1) | 23.0.8669.1
-
-### Published: 10/05/2023 18:40:37 by CData Software Inc.
-
-CData Cmdlets for Google Ad Manager
-
-__Downloads__: 1,899 | __Repository__: http://www.cdata.com/powershell/
-
-## [BasecampCmdlets](https://www.powershellgallery.com/Packages/BasecampCmdlets/23.0.8669.1) | 23.0.8669.1
-
-### Published: 10/05/2023 18:40:31 by CData Software Inc.
-
-CData Cmdlets for Basecamp
-
-__Downloads__: 1,015 | __Repository__: http://www.cdata.com/powershell/
-
-*Updated: Saturday, 07 October 2023 02:01:55 UTC*
+*Updated: Saturday, 07 October 2023 09:53:53 UTC*
