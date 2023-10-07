@@ -3,13 +3,126 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
-## [GitHub](https://www.powershellgallery.com/Packages/GitHub/0.2.26) | 0.2.26
+## [GitHub](https://www.powershellgallery.com/Packages/GitHub/0.3.2) | 0.3.2
 
-### Published: 10/07/2023 09:44:44 by Marius Storhaug
+### Published: 10/07/2023 17:42:10 by Marius Storhaug
 
 GitHub PowerShell Module
 
 __Downloads__: 2,163 | __Repository__: https://github.com/PSModule/GitHub
+
+## [PSDllCompiler](https://www.powershellgallery.com/Packages/PSDllCompiler/1.0.2.1) | 1.0.2.1
+
+### Published: 10/07/2023 17:37:10 by UltraAlex0
+
+Translates a Powershell Class into a C# Class and then compiles it. The class can be referenced across all .NET Languages.
+Additionally all Installed-Modules can be referenced and used!
+
+Discord: ultraalex0
+
+__Downloads__: 1,987 | __Repository__: https://github.com/UltraAlex00/Powershell-Dll-Compiler
+
+## [WhatIsMyIP](https://www.powershellgallery.com/Packages/WhatIsMyIP/1.1.0) | 1.1.0
+
+### Published: 10/07/2023 17:25:30 by Andy Svintsitsky
+
+Module for getting Public IP of the computer.
+
+__Downloads__: 445 | __Repository__: https://github.com/andysvints/WhatIsMyIP
+
+## [cChocoEx](https://www.powershellgallery.com/Packages/cChocoEx/23.10.7.1) | 23.10.7.1
+
+### Published: 10/07/2023 13:41:51 by Jonathan Yonke <jon.yonke@gmail.com>
+
+Adds some additional functionality to the PowerShell DSC module cChoco
+
+__Downloads__: 856,317 | __Repository__: https://github.com/jyonke/cChocoEx
+
+## [Orbit](https://www.powershellgallery.com/Packages/Orbit/0.9.3) | 0.9.3
+
+### Published: 10/07/2023 13:03:50 by David Eberhardt
+
+Scripts & Functions for Administrators working in the Microsoft 365 Orbit, Microsoft.Graph, MicrosoftTeams covering Resource Accounts, Call Queues, Auto Attendants, Licensing, User Voice Configuration and more.
+For more information, please visit https://github.com/DEberhardt/Orbit or https://davideberhardt.wordpress.com/
+
+__Downloads__: 75 | __Repository__: https://github.com/DEberhardt/Orbit
+
+## [Orbit.Authentication](https://www.powershellgallery.com/Packages/Orbit.Authentication/0.9.3) | 0.9.3
+
+### Published: 10/07/2023 13:03:35 by David Eberhardt
+
+Scripts & Functions for Administrators working in the Microsoft 365 Orbit
+
+__Downloads__: 99 | __Repository__: https://github.com/DEberhardt/Orbit
+
+## [Orbit.Groups](https://www.powershellgallery.com/Packages/Orbit.Groups/0.9.3) | 0.9.3
+
+### Published: 10/07/2023 13:03:32 by David Eberhardt
+
+Scripts & Functions for Administrators working in the Microsoft 365 Orbit
+
+__Downloads__: 99 | __Repository__: https://github.com/DEberhardt/Orbit
+
+## [Orbit.Teams](https://www.powershellgallery.com/Packages/Orbit.Teams/0.9.3) | 0.9.3
+
+### Published: 10/07/2023 13:03:28 by David Eberhardt
+
+Scripts & Functions for Administrators working in the Microsoft 365 Orbit
+
+__Downloads__: 109 | __Repository__: https://github.com/DEberhardt/Orbit
+
+## [Orbit.Tools](https://www.powershellgallery.com/Packages/Orbit.Tools/0.9.3) | 0.9.3
+
+### Published: 10/07/2023 13:03:23 by David Eberhardt
+
+Scripts & Functions for Administrators working in the Microsoft 365 Orbit
+
+__Downloads__: 107 | __Repository__: https://github.com/DEberhardt/Orbit
+
+## [Orbit.Users](https://www.powershellgallery.com/Packages/Orbit.Users/0.9.3) | 0.9.3
+
+### Published: 10/07/2023 13:03:19 by David Eberhardt
+
+Scripts & Functions for Administrators working in the Microsoft 365 Orbit
+
+__Downloads__: 110 | __Repository__: https://github.com/DEberhardt/Orbit
+
+## [TeamsFunctions](https://www.powershellgallery.com/Packages/TeamsFunctions/22.19.5) | 22.19.5
+
+### Published: 10/07/2023 12:09:18 by David Eberhardt
+
+Teams Functions for Administration of Users, Common Area Phones, Resource Accounts, Call Queues and Auto Attendants, incl. Licensing, User Voice Configuration with Calling Plans and Direct Routing,
+For more information, please visit the https://davideberhardt.wordpress.com/ or https://github.com/DEberhardt/TeamsFunctions
+
+__Downloads__: 4,549 | __Repository__: 
+
+## [PSoAuth](https://www.powershellgallery.com/Packages/PSoAuth/0.0.4) | 0.0.4
+
+### Published: 10/07/2023 11:36:30 by florian.von.bracht@apteco.de
+
+Apteco PS Modules - PowerShell oAuth
+
+Support of oAuth v2 in PowerShell! This module allows the oAuth flow to create your first api token for Microsoft Dynamics, Salesforce, CleverReach and much more...
+We support redirect urls to local urls `http://localhost:54321` and app urls (handled via registry) `apttoken://localhost`. The local url is instantly starting up a
+basic webserver on the port you have defined. This module can be used for debugging or server2server communication. Here you can see the two methods than can be used:
+
+__Downloads__: 9 | __Repository__: https://github.com/Apteco/AptecoPSModules/tree/main/PSOAuth
+
+## [AppManiProgramManager](https://www.powershellgallery.com/Packages/AppManiProgramManager/1.43.0) | 1.43.0
+
+### Published: 10/07/2023 10:33:40 by AppMani
+
+Module for installing basic programs: This module provides functions for downloading installers from specified links, installing the programs, verifying the installed programs/services, and cleaning up the installer files.
+
+__Downloads__: 110,435 | __Repository__: 
+
+## [BcContainerHelper](https://www.powershellgallery.com/Packages/BcContainerHelper/6.0.0) | 6.0.0
+
+### Published: 10/07/2023 10:16:10 by Freddy Kristiansen
+
+PowerShell module, which makes it easier to work with Business Central Containers on Docker.
+
+__Downloads__: 1,392,380 | __Repository__: 
 
 ## [WinPrefs](https://www.powershellgallery.com/Packages/WinPrefs/0.0.2) | 0.0.2
 
@@ -18,14 +131,6 @@ __Downloads__: 2,163 | __Repository__: https://github.com/PSModule/GitHub
 Convert a registry path to a series of reg commands.
 
 __Downloads__: 0 | __Repository__: https://github.com/Tatsh/winprefs
-
-## [Fly.Client](https://www.powershellgallery.com/Packages/Fly.Client/3.10.4) | 3.10.4
-
-### Published: 10/07/2023 05:27:19 by AvePointInc
-
-Fly.Client - the PowerShell module for Fly SDK API
-
-__Downloads__: 107 | __Repository__: https://github.com/AvePoint/fly-client
 
 ## [Set-AzAdvancedContext](https://www.powershellgallery.com/Packages/Set-AzAdvancedContext/1.0) | 1.0
 
@@ -121,7 +226,7 @@ __Downloads__: 7 | __Repository__: https://github.com/shiftavenue/shiftavenue-ps
 
 Chocolatey DSC Resources for use with internal packages and the community package repository. Learn more at http://chocolatey.org/
 
-__Downloads__: 1,325,113 | __Repository__: 
+__Downloads__: 1,325,111 | __Repository__: 
 
 ## [SMART-BcBuildHelper](https://www.powershellgallery.com/Packages/SMART-BcBuildHelper/1.2.1) | 1.2.1
 
@@ -171,7 +276,7 @@ The DSInternals PowerShell Module exposes several internal features of Active Di
 
 DISCLAIMER: Features exposed through this module are not supported by Microsoft and it is therefore not intended to be used in production environments. Improper use might cause irreversible damage to domain controllers or negatively impact domain security.
 
-__Downloads__: 2,401,217 | __Repository__: https://github.com/MichaelGrafnetter/DSInternals
+__Downloads__: 2,401,204 | __Repository__: https://github.com/MichaelGrafnetter/DSInternals
 
 ## [GoodWorkaroundHelpers](https://www.powershellgallery.com/Packages/GoodWorkaroundHelpers/0.0.2) | 0.0.2
 
@@ -658,6 +763,14 @@ __Downloads__: 2,217 | __Repository__: http://www.cdata.com/powershell/
 CData Cmdlets for Salesforce
 
 __Downloads__: 3,314 | __Repository__: http://www.cdata.com/powershell/
+
+## [EmailCmdlets](https://www.powershellgallery.com/Packages/EmailCmdlets/23.0.8669.1) | 23.0.8669.1
+
+### Published: 10/05/2023 19:13:03 by CData Software Inc.
+
+CData Cmdlets for Email
+
+__Downloads__: 1,197 | __Repository__: http://www.cdata.com/powershell/
 
 ## [ODataCmdlets](https://www.powershellgallery.com/Packages/ODataCmdlets/23.0.8669.1) | 23.0.8669.1
 
@@ -1211,14 +1324,6 @@ CData Cmdlets for Bullhorn CRM
 
 __Downloads__: 904 | __Repository__: http://www.cdata.com/powershell/
 
-## [ZohoBooksCmdlets](https://www.powershellgallery.com/Packages/ZohoBooksCmdlets/23.0.8669.1) | 23.0.8669.1
-
-### Published: 10/05/2023 19:05:08 by CData Software Inc.
-
-CData Cmdlets for Zoho Books
-
-__Downloads__: 384 | __Repository__: http://www.cdata.com/powershell/
-
 ## [SybaseIQCmdlets](https://www.powershellgallery.com/Packages/SybaseIQCmdlets/23.0.8669.1) | 23.0.8669.1
 
 ### Published: 10/05/2023 19:05:01 by CData Software Inc.
@@ -1441,7 +1546,7 @@ __Downloads__: 1,017 | __Repository__: http://www.cdata.com/powershell/
 
 CData Cmdlets for PostgreSQL
 
-__Downloads__: 46,515 | __Repository__: http://www.cdata.com/powershell/
+__Downloads__: 46,514 | __Repository__: http://www.cdata.com/powershell/
 
 ## [ShopifyCmdlets](https://www.powershellgallery.com/Packages/ShopifyCmdlets/23.0.8669.1) | 23.0.8669.1
 
@@ -1619,14 +1724,6 @@ CData Cmdlets for Azure Cosmos DB
 
 __Downloads__: 2,022 | __Repository__: http://www.cdata.com/powershell/
 
-## [GoogleCalendarCmdlets](https://www.powershellgallery.com/Packages/GoogleCalendarCmdlets/23.0.8669.1) | 23.0.8669.1
-
-### Published: 10/05/2023 18:59:55 by CData Software Inc.
-
-CData Cmdlets for Google Calendar
-
-__Downloads__: 2,012 | __Repository__: http://www.cdata.com/powershell/
-
 ## [ElasticsearchCmdlets](https://www.powershellgallery.com/Packages/ElasticsearchCmdlets/23.0.8669.1) | 23.0.8669.1
 
 ### Published: 10/05/2023 18:59:50 by CData Software Inc.
@@ -1737,7 +1834,7 @@ __Downloads__: 1,142 | __Repository__: http://www.cdata.com/powershell/
 
 CData Cmdlets for MySQL
 
-__Downloads__: 17,808 | __Repository__: http://www.cdata.com/powershell/
+__Downloads__: 17,807 | __Repository__: http://www.cdata.com/powershell/
 
 ## [GmailCmdlets](https://www.powershellgallery.com/Packages/GmailCmdlets/23.0.8669.1) | 23.0.8669.1
 
@@ -1745,7 +1842,7 @@ __Downloads__: 17,808 | __Repository__: http://www.cdata.com/powershell/
 
 CData Cmdlets for Gmail
 
-__Downloads__: 2,500 | __Repository__: http://www.cdata.com/powershell/
+__Downloads__: 2,501 | __Repository__: http://www.cdata.com/powershell/
 
 ## [MarketoCmdlets](https://www.powershellgallery.com/Packages/MarketoCmdlets/23.0.8669.1) | 23.0.8669.1
 
@@ -1915,14 +2012,6 @@ CData Cmdlets for Azure Active Directory
 
 __Downloads__: 197 | __Repository__: http://www.cdata.com/powershell/
 
-## [AppManiProgramManager](https://www.powershellgallery.com/Packages/AppManiProgramManager/1.42.0) | 1.42.0
-
-### Published: 10/05/2023 18:55:31 by AppMani
-
-Module for installing basic programs: This module provides functions for downloading installers from specified links, installing the programs, verifying the installed programs/services, and cleaning up the installer files.
-
-__Downloads__: 110,434 | __Repository__: 
-
 ## [ExchangeCmdlets](https://www.powershellgallery.com/Packages/ExchangeCmdlets/23.0.8669.1) | 23.0.8669.1
 
 ### Published: 10/05/2023 18:55:28 by CData Software Inc.
@@ -1979,84 +2068,4 @@ CData Cmdlets for xBase
 
 __Downloads__: 937 | __Repository__: http://www.cdata.com/powershell/
 
-## [TwilioCmdlets](https://www.powershellgallery.com/Packages/TwilioCmdlets/23.0.8669.1) | 23.0.8669.1
-
-### Published: 10/05/2023 18:54:40 by CData Software Inc.
-
-CData Cmdlets for Twilio
-
-__Downloads__: 2,310 | __Repository__: http://www.cdata.com/powershell/
-
-## [SmartsheetCmdlets](https://www.powershellgallery.com/Packages/SmartsheetCmdlets/23.0.8669.1) | 23.0.8669.1
-
-### Published: 10/05/2023 18:54:32 by CData Software Inc.
-
-CData Cmdlets for Smartsheet
-
-__Downloads__: 1,595 | __Repository__: http://www.cdata.com/powershell/
-
-## [PayPalCmdlets](https://www.powershellgallery.com/Packages/PayPalCmdlets/23.0.8669.1) | 23.0.8669.1
-
-### Published: 10/05/2023 18:54:11 by CData Software Inc.
-
-CData Cmdlets for PayPal
-
-__Downloads__: 1,567 | __Repository__: http://www.cdata.com/powershell/
-
-## [StripeCmdlets](https://www.powershellgallery.com/Packages/StripeCmdlets/23.0.8669.1) | 23.0.8669.1
-
-### Published: 10/05/2023 18:54:05 by CData Software Inc.
-
-CData Cmdlets for Stripe
-
-__Downloads__: 1,239 | __Repository__: http://www.cdata.com/powershell/
-
-## [ServiceNowCmdlets](https://www.powershellgallery.com/Packages/ServiceNowCmdlets/23.0.8669.1) | 23.0.8669.1
-
-### Published: 10/05/2023 18:54:00 by CData Software Inc.
-
-CData Cmdlets for ServiceNow
-
-__Downloads__: 2,622 | __Repository__: http://www.cdata.com/powershell/
-
-## [BingCmdlets](https://www.powershellgallery.com/Packages/BingCmdlets/23.0.8669.1) | 23.0.8669.1
-
-### Published: 10/05/2023 18:53:54 by CData Software Inc.
-
-CData Cmdlets for Microsoft Bing
-
-__Downloads__: 1,275 | __Repository__: http://www.cdata.com/powershell/
-
-## [GoogleSearchCmdlets](https://www.powershellgallery.com/Packages/GoogleSearchCmdlets/23.0.8669.1) | 23.0.8669.1
-
-### Published: 10/05/2023 18:53:49 by CData Software Inc.
-
-CData Cmdlets for Google Search
-
-__Downloads__: 1,755 | __Repository__: http://www.cdata.com/powershell/
-
-## [JIRACmdlets](https://www.powershellgallery.com/Packages/JIRACmdlets/23.0.8669.1) | 23.0.8669.1
-
-### Published: 10/05/2023 18:53:09 by CData Software Inc.
-
-CData Cmdlets for Jira
-
-__Downloads__: 1,396 | __Repository__: http://www.cdata.com/powershell/
-
-## [HighriseCmdlets](https://www.powershellgallery.com/Packages/HighriseCmdlets/23.0.8669.1) | 23.0.8669.1
-
-### Published: 10/05/2023 18:53:02 by CData Software Inc.
-
-CData Cmdlets for Highrise
-
-__Downloads__: 1,065 | __Repository__: http://www.cdata.com/powershell/
-
-## [SendGridCmdlets](https://www.powershellgallery.com/Packages/SendGridCmdlets/23.0.8669.1) | 23.0.8669.1
-
-### Published: 10/05/2023 18:40:48 by CData Software Inc.
-
-CData Cmdlets for SendGrid
-
-__Downloads__: 4,262 | __Repository__: http://www.cdata.com/powershell/
-
-*Updated: Saturday, 07 October 2023 09:53:53 UTC*
+*Updated: Saturday, 07 October 2023 17:53:12 UTC*

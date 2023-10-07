@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Saturday, 07 October 2023 09:54:10 UTC
+Updated: Saturday, 07 October 2023 17:53:27 UTC
 
 .bat
 .env
@@ -254,7 +254,6 @@ al
 alac
 alarm
 alb
-albums
 alc
 alero
 alert
@@ -295,6 +294,7 @@ amazonmgn
 amazonwebservices
 amend
 ami
+amiga
 amp
 amqp
 amsi
@@ -800,6 +800,7 @@ bitwise
 biztalk
 biztalkalm
 biztalkdeploymentframework
+bks
 black
 blackbaud
 blackbox
@@ -820,6 +821,7 @@ bls
 blue
 bluedolhin
 blueprint
+blueprints
 blueteam
 bluetraitio
 bmc
@@ -852,8 +854,6 @@ bpmn
 brainy
 branch
 brave
-brawlapi
-brawlstars
 brazencloud
 bre
 breach
@@ -863,6 +863,8 @@ brew
 brickset
 bridge
 brightbooking
+britannica
+britannicaknowledgesystems
 british-gas
 brk4452
 broadcast
@@ -1455,6 +1457,7 @@ coveralls
 coveralls.io
 covid
 covid-19
+cpm
 cppm
 cpu
 cpuid
@@ -1633,7 +1636,6 @@ datacatalog
 datacenter
 dataclassification
 datacollectionrule
-dataconduit
 dataconnectivity
 datadog
 dataexchange
@@ -1708,6 +1710,7 @@ decline
 decode
 decode64
 decoding
+decompiler
 decrypt
 decryption
 dedicatedhsm
@@ -1769,9 +1772,9 @@ detection
 detectionrule
 deutsch
 deutschland
-dev
 dev-tools
 devart
+devcenter
 devdeer
 developer
 developer_command_prompt
@@ -1850,6 +1853,7 @@ discordrpc
 discount
 discover
 discovery
+discutils
 disk
 disk_to_disk
 disk-space
@@ -2193,6 +2197,7 @@ episode
 epplus
 eprosima
 epub
+epv
 equality
 erb
 erp
@@ -2348,6 +2353,7 @@ external
 externalip
 extract
 extractor
+extreme-networks
 eztheme
 f
 f#
@@ -2358,6 +2364,7 @@ factoryorchestratorclient
 facts
 faf
 failedlogin
+failure
 falcon
 fallbackstatuspoint
 fanarttv
@@ -2552,6 +2559,7 @@ forum
 forwardcompatibility
 forwardedevents
 foudil
+fox
 foxpro
 fqdn
 frame
@@ -2755,7 +2763,6 @@ goldsource
 goldsource-dedicated-server
 google
 google-chrome
-google-histogram
 google-sankey
 google-table
 googleadsv2
@@ -2870,7 +2877,6 @@ har
 hard
 hardblock
 harden
-harden-windows-security
 hardening
 hardlink
 hardware
@@ -2917,6 +2923,7 @@ hello
 helloid
 helloposhgallery
 helloworld
+helm
 helmet
 help
 helpdesk
@@ -2948,7 +2955,6 @@ high-availability
 highlight
 highlighting
 highrise
-hint
 hipaa
 hipb
 hipchat
@@ -2959,6 +2965,7 @@ historyninja
 hitrust
 hive
 hivehome
+hjson
 hkcu
 hkey_classes_root
 hkey_current_config
@@ -3203,7 +3210,6 @@ input
 inputbox
 inputobject
 insert
-insiderthreat
 insight
 insightanalytics
 insights
@@ -3335,6 +3341,7 @@ iso-3166-1
 iso-8601
 ispac
 isprime
+ispss
 issues
 isvalidemail
 isvalidip
@@ -3433,6 +3440,7 @@ karabiner
 karabiner-elements
 karma
 kaseya
+kaseyavsa
 kaspersky
 katakana
 kb
@@ -3571,7 +3579,6 @@ legends
 lego
 lein
 leiningnen
-lenel
 length
 lenovo
 less
@@ -3671,10 +3678,6 @@ lod
 lodasoft
 log
 log-administration
-log-file
-log-files
-log-mail
-log-mails
 log-management
 log-rotation
 log4net
@@ -3705,8 +3708,6 @@ loginsight
 logiphys
 logistic
 logitech
-logmail
-logmails
 logman
 logoff
 logon
@@ -3775,9 +3776,7 @@ mailbox
 mailchimp
 mailgroup
 mailgroupmember
-mailing
 mailkit
-mails
 main
 main-menu
 maintain-module
@@ -3855,6 +3854,7 @@ max
 max_path
 maximum
 maxoffice
+mazerat
 mb
 mbc
 mbs
@@ -3887,11 +3887,13 @@ mediant
 mediaplayer
 mediaservices
 mediawiki
+meditation
 meeting
 meetup
 meetup.com
 meewind
 megabyte
+melamed
 meltdown
 mem
 member
@@ -4228,6 +4230,7 @@ network adapter configuration operating os optical sensor physical pointing port
 network-credentials
 network-info
 networkcloud
+networkcontroller
 networkdiscovery
 networkdrives
 networkfirewall
@@ -4255,9 +4258,9 @@ new-rdpsession
 new-samcmapplicationfrompackagedefinitionsms
 new-samcmpackagefrompackagedefinitionsms
 new-system
+new-udmorph
 newpassword
 newrelic
-news
 newspaper
 newtonsoft
 newtonsoft.json
@@ -4376,7 +4379,6 @@ objectid
 objectstorage
 objecttree
 obs
-observeit
 oce
 ocg
 ocgv
@@ -4509,6 +4511,7 @@ optics
 optimization
 optimizer
 option
+option119
 options
 optionstring
 opus
@@ -4546,6 +4549,7 @@ osp
 ospgateway
 osprovision
 osprovisioning
+osr
 oss
 ossec
 osubbillingschedule
@@ -4630,6 +4634,7 @@ partitions
 partner
 partnercenter
 partnerportal
+pas
 pass
 passcode
 passivetotal
@@ -4675,6 +4680,7 @@ pbench
 pc
 pcapng
 pci-dss
+pcloud
 pcsetup
 pcsv
 pdb
@@ -4772,7 +4778,6 @@ play
 playback
 playbook
 player
-playlists
 pleasant
 pleasantpasswordserver
 plex
@@ -4786,14 +4791,12 @@ ply
 pmp
 pncit
 pnp
-pnpm
 pode
 poe
 poem
 poetry
 point
 point-to-site
-pointer
 pokeapi
 pokedex
 pokemon
@@ -4880,6 +4883,7 @@ poshy-wrap-git-flow
 poshy-wrap-git-hf
 poshy-wrap-git-lfs
 poshy-wrap-golang
+poshy-wrap-helm
 poshy-wrap-kubectl
 poshy-wrap-maven
 poshy-wrap-nginx
@@ -4898,6 +4902,7 @@ poshy-wrap-tmux
 poshy-wrap-vagrant
 poshy-wrap-vault
 poshy-wrap-vscode
+poshy-wrap-wget
 poshy-wrap-wt
 poshy-wrap-yum
 poshy-wrap-zypper
@@ -4956,7 +4961,6 @@ powershell-script
 powershell-terminal
 powershell-terminal-copilot
 powershell-training
-powershell.module.invokewinget
 powershell.one
 powershell.persistentpathstack
 powershell7
@@ -5040,6 +5044,7 @@ privatekey
 privatemethods
 privateprofilestring
 privilege
+privilegecloud
 privileged
 privileges
 pro
@@ -5127,6 +5132,7 @@ psadt
 psake
 psappdeploytoolkit
 psazd
+psbackup
 psbbix
 psbicep
 psclient
@@ -5831,7 +5837,11 @@ pscommand_gup
 pscommand_gus
 pscommand_gwc
 pscommand_gwch
+pscommand_h
+pscommand_hin
 pscommand_hostname
+pscommand_hse
+pscommand_hup
 pscommand_invoke-aptcachepolicy
 pscommand_invoke-aptcachesearch
 pscommand_invoke-aptcacheshowpkg
@@ -5990,6 +6000,10 @@ pscommand_invoke-goversion
 pscommand_invoke-govet
 pscommand_invoke-gowork
 pscommand_invoke-greppipfreeze
+pscommand_invoke-helm
+pscommand_invoke-helminstall
+pscommand_invoke-helmsearch
+pscommand_invoke-helmupgrade
 pscommand_invoke-hub
 pscommand_invoke-kubectl
 pscommand_invoke-kubectlallnamespaces
@@ -6535,6 +6549,7 @@ pscommand_measure-envvarchanges
 pscommand_merge-gitrepositoryfromoriginbranchmain
 pscommand_merge-gitrepositoryfromupstreambranchmain
 pscommand_mi
+pscommand_mirrorsite
 pscommand_move-gittrackedfiles
 pscommand_mp
 pscommand_mpom
@@ -6939,7 +6954,6 @@ psdrive
 psdrives
 psdsc
 psdshook
-psedition_5
 psedition_5.1
 psedition_7.3
 psedition_7.4
@@ -7402,6 +7416,10 @@ psfunction_invoke-goversion
 psfunction_invoke-govet
 psfunction_invoke-gowork
 psfunction_invoke-greppipfreeze
+psfunction_invoke-helm
+psfunction_invoke-helminstall
+psfunction_invoke-helmsearch
+psfunction_invoke-helmupgrade
 psfunction_invoke-hub
 psfunction_invoke-kubectl
 psfunction_invoke-kubectlallnamespaces
@@ -7807,6 +7825,7 @@ psfunction_local-ignore
 psfunction_measure-envvarchanges
 psfunction_merge-gitrepositoryfromoriginbranchmain
 psfunction_merge-gitrepositoryfromupstreambranchmain
+psfunction_mirrorsite
 psfunction_move-gittrackedfiles
 psfunction_new-gitbranchfromstash
 psfunction_new-gitbranchtracked
@@ -8019,6 +8038,7 @@ psjobthreads
 pskeepass
 pslocalgallery
 psloganalytics
+psm
 psm1
 psmodule
 psmodule psedition_desktop
@@ -8100,7 +8120,6 @@ publishing
 pubsub
 pubxml
 pulldistributionpoint
-pullrequest
 pullserver
 pulseway
 pulumi
@@ -8220,7 +8239,6 @@ rate-limit
 rates
 rating
 ratings
-ravendb
 razzle
 rbac
 rbacmodel
@@ -8298,6 +8316,7 @@ refeds
 refeds-mfa
 refedsmfa
 reference
+reflect
 reflection
 refresh
 refreshtoken
@@ -8532,7 +8551,6 @@ runbooks
 runbookstudio
 runcommand
 rundeck
-runner
 runspace
 runspacepool
 runspaces
@@ -8553,6 +8571,7 @@ sabnzbd
 sabnzbd+
 sacl
 safari
+safe
 safeguard
 sage
 saggiehaim
@@ -8689,6 +8708,7 @@ searchmanager
 searchplace
 searchquery
 searchstring
+searchsuffixlist
 secaas
 secedit
 secret
@@ -8716,7 +8736,6 @@ securestring
 security
 security-awareness-training
 security-policy
-security-score
 security-txt
 security.txt
 securityassertionmarkuplanguage
@@ -8748,6 +8767,7 @@ self-hosted
 self-service
 self-signed
 selfdispatch
+selfhelp
 selfsigned
 semantic
 semantic-versioning
@@ -8944,6 +8964,7 @@ sitesystemserver
 sitethumbprint
 size
 skatterbrainz
+skeleton-loader
 skia
 skiasharp
 skolnilogin
@@ -9307,12 +9328,10 @@ successfactors
 sudo
 sugar
 sugarcrm
-suggestion
 suitecrm
 sullivan
 summary
 sumologic
-supercell
 superheros
 supermarket
 support
@@ -9508,7 +9527,6 @@ test-samcmapplicationexists
 test-samcmpackageexists
 test-userisadministrator
 test-xml
-test123
 testaccount
 testautomation
 testimonial
@@ -9580,7 +9598,6 @@ timespan
 timezone
 tinkerpop
 tinymce
-tip
 tips
 title
 tls
@@ -9672,8 +9689,6 @@ trendmicro
 trevor
 trevorsullivan
 triangle
-trick
-tricks
 trigger
 triodos
 tripunkt
@@ -9699,6 +9714,7 @@ tsqlbestpractice
 tst
 tst1
 tst3
+ttrpg
 tts
 tubedownloader
 tui
@@ -9742,7 +9758,6 @@ ud-avataaar
 ud-badgebutton
 ud-badgelink
 ud-breadcrumb
-ud-breadcrumbitem
 ud-burger
 ud-button
 ud-buttonloader
@@ -9926,6 +9941,7 @@ uw
 uwp
 ux
 vaas
+vadim
 vagrant
 vale
 validate
@@ -9984,6 +10000,7 @@ veracrypt
 verbose
 verbose psmodule
 verification
+verify
 version
 versioning
 versionmanager
@@ -10041,6 +10058,7 @@ vlookup
 vlsm
 vm
 vmc
+vmelamed5
 vmfs
 vmgroup
 vmhost
@@ -10077,6 +10095,8 @@ volumeshadowcopy
 volumio
 vorbis
 vovin
+vpas
+vpasmodule
 vpc
 vpg
 vplex
@@ -10094,6 +10114,7 @@ vrsns
 vrtu
 vs
 vs-shell
+vsa
 vsan
 vsan+
 vscode
@@ -10143,8 +10164,8 @@ wapi
 warning
 warplaneporn
 warranty
-warraty
 warrenty
+wasabi
 watch
 watchmen
 watery
@@ -10209,6 +10230,7 @@ well-known
 wem
 wemsdk
 wer
+wget
 what3words
 whatismyip
 whatsnew
@@ -10304,7 +10326,6 @@ windowsserver2019
 windowsservercoresecurity
 windowsserverguisecurity
 windowsservice
-windowsservices
 windowsstore
 windowsterminal
 windowstimezone
@@ -10460,6 +10481,7 @@ xin
 xkcd
 xliff
 xlsx
+xmc
 xml
 xml-rpc
 xml-transform
@@ -10490,6 +10512,7 @@ yandex
 yapg
 yarn
 yetanotherhelloworld
+yml
 ynab
 youtube
 youtube-dl
