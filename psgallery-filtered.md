@@ -3,6 +3,38 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [GitHub](https://www.powershellgallery.com/Packages/GitHub/0.3.11) | 0.3.11
+
+### Published: 10/08/2023 09:45:04 by Marius Storhaug
+
+GitHub PowerShell Module
+
+__Downloads__: 2,175 | __Repository__: https://github.com/PSModule/GitHub
+
+## [Import-Package](https://www.powershellgallery.com/Packages/Import-Package/0.0.3) | 0.0.3
+
+### Published: 10/08/2023 09:32:39 by anonhostpi
+
+Adds ability to import NuGet/Nupkg packages downloaded by PackageManagement
+
+__Downloads__: 0 | __Repository__: https://github.com/pwsh-cs-tools/core
+
+## [ShellServer](https://www.powershellgallery.com/Packages/ShellServer/0.1.2) | 0.1.2
+
+### Published: 10/08/2023 07:16:03 by Henrique do Val
+
+ShellServer Client. More in https://github.com/HenriquedoVal/shellserver
+
+__Downloads__: 85 | __Repository__: https://github.com/HenriquedoVal/shellserver
+
+## [WinPrefs](https://www.powershellgallery.com/Packages/WinPrefs/0.2.1) | 0.2.1
+
+### Published: 10/08/2023 05:42:28 by Tatsh
+
+Convert a registry path to a series of reg commands.
+
+__Downloads__: 4 | __Repository__: https://github.com/Tatsh/winprefs
+
 ## [PokerSummary](https://www.powershellgallery.com/Packages/PokerSummary/1.0.9) | 1.0.9
 
 ### Published: 10/08/2023 00:03:27 by Paul Harrison
@@ -17,15 +49,7 @@ __Downloads__: 88 | __Repository__:
 
 Retrieves all required information needed in order to deploy Azure virtual machines via any IaC tool
 
-__Downloads__: 1 | __Repository__: https://codeterraform.com/
-
-## [WinPrefs](https://www.powershellgallery.com/Packages/WinPrefs/0.1.0) | 0.1.0
-
-### Published: 10/07/2023 23:38:01 by Tatsh
-
-Convert a registry path to a series of reg commands.
-
-__Downloads__: 4 | __Repository__: https://github.com/Tatsh/winprefs
+__Downloads__: 7 | __Repository__: https://codeterraform.com/
 
 ## [PSFzf](https://www.powershellgallery.com/Packages/PSFzf/2.5.19) | 2.5.19
 
@@ -33,7 +57,7 @@ __Downloads__: 4 | __Repository__: https://github.com/Tatsh/winprefs
 
 A thin wrapper around Fzf (https://github.com/junegunn/fzf).  If PSReadline is loaded, this wrapper registers Fzf with the keyboard chord Ctrl+t.
 
-__Downloads__: 50,976 | __Repository__: 
+__Downloads__: 50,980 | __Repository__: 
 
 ## [Set-AzAdvancedContext](https://www.powershellgallery.com/Packages/Set-AzAdvancedContext/1.4) | 1.4
 
@@ -41,15 +65,7 @@ __Downloads__: 50,976 | __Repository__:
 
 Advanced version of the normal Set-AzContext and can always make sure a user or service account is logged in with a valid context to Azure
 
-__Downloads__: 1 | __Repository__: https://codeterraform.com/
-
-## [GitHub](https://www.powershellgallery.com/Packages/GitHub/0.3.5) | 0.3.5
-
-### Published: 10/07/2023 21:52:56 by Marius Storhaug
-
-GitHub PowerShell Module
-
-__Downloads__: 2,175 | __Repository__: https://github.com/PSModule/GitHub
+__Downloads__: 2 | __Repository__: https://codeterraform.com/
 
 ## [DattoAPI](https://www.powershellgallery.com/Packages/DattoAPI/2.2.1) | 2.2.1
 
@@ -65,7 +81,7 @@ __Downloads__: 86 | __Repository__: https://github.com/Celerium/Datto-PowerShell
 
 This module provides a PowerShell wrapper for the Auvik API.
 
-__Downloads__: 0 | __Repository__: https://github.com/Celerium/Auvik-PowerShellWrapper
+__Downloads__: 2 | __Repository__: https://github.com/Celerium/Auvik-PowerShellWrapper
 
 ## [tiPS](https://www.powershellgallery.com/Packages/tiPS/0.7.0) | 0.7.0
 
@@ -73,7 +89,7 @@ __Downloads__: 0 | __Repository__: https://github.com/Celerium/Auvik-PowerShellW
 
 PowerShell tips delivered straight to your terminal.
 
-__Downloads__: 1,122 | __Repository__: https://github.com/deadlydog/PowerShell.tiPS
+__Downloads__: 1,130 | __Repository__: https://github.com/deadlydog/PowerShell.tiPS
 
 ## [PSDllCompiler](https://www.powershellgallery.com/Packages/PSDllCompiler/1.0.2.1) | 1.0.2.1
 
@@ -100,7 +116,7 @@ __Downloads__: 449 | __Repository__: https://github.com/andysvints/WhatIsMyIP
 
 Adds some additional functionality to the PowerShell DSC module cChoco
 
-__Downloads__: 856,445 | __Repository__: https://github.com/jyonke/cChocoEx
+__Downloads__: 856,467 | __Repository__: https://github.com/jyonke/cChocoEx
 
 ## [Orbit](https://www.powershellgallery.com/Packages/Orbit/0.9.3) | 0.9.3
 
@@ -170,7 +186,7 @@ Support of oAuth v2 in PowerShell! This module allows the oAuth flow to create y
 We support redirect urls to local urls `http://localhost:54321` and app urls (handled via registry) `apttoken://localhost`. The local url is instantly starting up a
 basic webserver on the port you have defined. This module can be used for debugging or server2server communication. Here you can see the two methods than can be used:
 
-__Downloads__: 10 | __Repository__: https://github.com/Apteco/AptecoPSModules/tree/main/PSOAuth
+__Downloads__: 15 | __Repository__: https://github.com/Apteco/AptecoPSModules/tree/main/PSOAuth
 
 ## [AppManiProgramManager](https://www.powershellgallery.com/Packages/AppManiProgramManager/1.43.0) | 1.43.0
 
@@ -178,7 +194,7 @@ __Downloads__: 10 | __Repository__: https://github.com/Apteco/AptecoPSModules/tr
 
 Module for installing basic programs: This module provides functions for downloading installers from specified links, installing the programs, verifying the installed programs/services, and cleaning up the installer files.
 
-__Downloads__: 110,786 | __Repository__: 
+__Downloads__: 110,810 | __Repository__: 
 
 ## [BcContainerHelper](https://www.powershellgallery.com/Packages/BcContainerHelper/6.0.0) | 6.0.0
 
@@ -186,7 +202,7 @@ __Downloads__: 110,786 | __Repository__:
 
 PowerShell module, which makes it easier to work with Business Central Containers on Docker.
 
-__Downloads__: 1,393,747 | __Repository__: 
+__Downloads__: 1,393,859 | __Repository__: 
 
 ## [Fly.Client](https://www.powershellgallery.com/Packages/Fly.Client/3.10.4) | 3.10.4
 
@@ -242,7 +258,7 @@ __Downloads__: 1,054 | __Repository__: https://github.com/Azure/AzLoadBalancerMi
 
 A PowerShell module that makes interfacing with Azure Pipelines a little easier
 
-__Downloads__: 31,275 | __Repository__: https://github.com/Dejulia489/AzurePipelinesPS
+__Downloads__: 31,276 | __Repository__: https://github.com/Dejulia489/AzurePipelinesPS
 
 ## [TestModulePrerelease](https://www.powershellgallery.com/Packages/TestModulePrerelease/0.0.3) | 0.0.3
 
@@ -251,6 +267,14 @@ __Downloads__: 31,275 | __Repository__: https://github.com/Dejulia489/AzurePipel
 PSGet team test module with prerelease for docs
 
 __Downloads__: 4 | __Repository__: 
+
+## [TestModule](https://www.powershellgallery.com/Packages/TestModule/1.5.0) | 1.5.0
+
+### Published: 10/06/2023 15:19:04 by annavied
+
+PSGet team test module for docs
+
+__Downloads__: 6 | __Repository__: 
 
 ## [pswslmanage](https://www.powershellgallery.com/Packages/pswslmanage/1.0.160) | 1.0.160
 
@@ -266,7 +290,7 @@ __Downloads__: 9 | __Repository__: https://github.com/shiftavenue/shiftavenue-ps
 
 Chocolatey DSC Resources for use with internal packages and the community package repository. Learn more at http://chocolatey.org/
 
-__Downloads__: 1,325,259 | __Repository__: 
+__Downloads__: 1,325,261 | __Repository__: 
 
 ## [SMART-BcBuildHelper](https://www.powershellgallery.com/Packages/SMART-BcBuildHelper/1.2.1) | 1.2.1
 
@@ -298,7 +322,7 @@ __Downloads__: 2 | __Repository__:
 
 ProjectWise PowerShell Cmdlets from System Architecture Group
 
-__Downloads__: 78,688 | __Repository__: 
+__Downloads__: 78,697 | __Repository__: 
 
 ## [M365DSCTools](https://www.powershellgallery.com/Packages/M365DSCTools/0.1.2) | 0.1.2
 
@@ -316,7 +340,7 @@ The DSInternals PowerShell Module exposes several internal features of Active Di
 
 DISCLAIMER: Features exposed through this module are not supported by Microsoft and it is therefore not intended to be used in production environments. Improper use might cause irreversible damage to domain controllers or negatively impact domain security.
 
-__Downloads__: 2,403,893 | __Repository__: https://github.com/MichaelGrafnetter/DSInternals
+__Downloads__: 2,404,337 | __Repository__: https://github.com/MichaelGrafnetter/DSInternals
 
 ## [GoodWorkaroundHelpers](https://www.powershellgallery.com/Packages/GoodWorkaroundHelpers/0.0.2) | 0.0.2
 
@@ -404,7 +428,7 @@ __Downloads__: 1,676 | __Repository__:
 
 A PowerShell toolbox for Microsoft 365 security fans.
 
-__Downloads__: 19,522 | __Repository__: https://github.com/DanielChronlund/DCToolbox
+__Downloads__: 19,530 | __Repository__: https://github.com/DanielChronlund/DCToolbox
 
 ## [PSTree](https://www.powershellgallery.com/Packages/PSTree/2.1.15) | 2.1.15
 
@@ -450,7 +474,7 @@ __Downloads__: 224 | __Repository__: https://github.com/evanjd711/bruharmy
 
 Module for CyberArk Privileged Access Security Web Service REST API
 
-__Downloads__: 79,280 | __Repository__: https://pspas.pspete.dev/
+__Downloads__: 79,286 | __Repository__: https://pspas.pspete.dev/
 
 ## [MailDaemon](https://www.powershellgallery.com/Packages/MailDaemon/1.0.1) | 1.0.1
 
@@ -1060,14 +1084,6 @@ CData Cmdlets for Oracle Service Cloud
 
 __Downloads__: 40 | __Repository__: http://www.cdata.com/powershell/
 
-## [OracleHCMCmdlets](https://www.powershellgallery.com/Packages/OracleHCMCmdlets/23.0.8669.1) | 23.0.8669.1
-
-### Published: 10/05/2023 19:09:15 by CData Software Inc.
-
-CData Cmdlets for Oracle Fusion Cloud HCM
-
-__Downloads__: 37 | __Repository__: http://www.cdata.com/powershell/
-
 ## [ReckonAccountsHostedCmdlets](https://www.powershellgallery.com/Packages/ReckonAccountsHostedCmdlets/23.0.8669.1) | 23.0.8669.1
 
 ### Published: 10/05/2023 19:09:09 by CData Software Inc.
@@ -1594,7 +1610,7 @@ __Downloads__: 1,020 | __Repository__: http://www.cdata.com/powershell/
 
 CData Cmdlets for PostgreSQL
 
-__Downloads__: 46,522 | __Repository__: http://www.cdata.com/powershell/
+__Downloads__: 46,523 | __Repository__: http://www.cdata.com/powershell/
 
 ## [ShopifyCmdlets](https://www.powershellgallery.com/Packages/ShopifyCmdlets/23.0.8669.1) | 23.0.8669.1
 
@@ -1842,7 +1858,7 @@ __Downloads__: 1,224 | __Repository__: http://www.cdata.com/powershell/
 
 CData Cmdlets for XML
 
-__Downloads__: 1,360 | __Repository__: http://www.cdata.com/powershell/
+__Downloads__: 1,361 | __Repository__: http://www.cdata.com/powershell/
 
 ## [OracleEloquaCmdlets](https://www.powershellgallery.com/Packages/OracleEloquaCmdlets/23.0.8669.1) | 23.0.8669.1
 
@@ -1956,14 +1972,6 @@ CData Cmdlets for Microsoft Access
 
 __Downloads__: 4,764 | __Repository__: http://www.cdata.com/powershell/
 
-## [GoogleBigQueryCmdlets](https://www.powershellgallery.com/Packages/GoogleBigQueryCmdlets/23.0.8669.1) | 23.0.8669.1
-
-### Published: 10/05/2023 18:56:56 by CData Software Inc.
-
-CData Cmdlets for Google BigQuery
-
-__Downloads__: 1,312 | __Repository__: http://www.cdata.com/powershell/
-
 ## [GoogleAnalyticsCmdlets](https://www.powershellgallery.com/Packages/GoogleAnalyticsCmdlets/23.0.8669.1) | 23.0.8669.1
 
 ### Published: 10/05/2023 18:56:46 by CData Software Inc.
@@ -2060,12 +2068,4 @@ CData Cmdlets for Couchbase
 
 __Downloads__: 1,035 | __Repository__: http://www.cdata.com/powershell/
 
-## [AzureADCmdlets](https://www.powershellgallery.com/Packages/AzureADCmdlets/23.0.8669.1) | 23.0.8669.1
-
-### Published: 10/05/2023 18:55:34 by CData Software Inc.
-
-CData Cmdlets for Azure Active Directory
-
-__Downloads__: 197 | __Repository__: http://www.cdata.com/powershell/
-
-*Updated: Sunday, 08 October 2023 02:04:53 UTC*
+*Updated: Sunday, 08 October 2023 09:52:46 UTC*

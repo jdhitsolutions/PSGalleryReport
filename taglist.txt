@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Sunday, 08 October 2023 02:05:07 UTC
+Updated: Sunday, 08 October 2023 09:52:59 UTC
 
 .bat
 .env
@@ -157,6 +157,7 @@ addomainservices
 addon
 address
 addresses
+addressrange
 adds
 addtypeaccelerators
 adf
@@ -220,8 +221,6 @@ afd
 affinity
 affinity-co
 affinity-crm
-after-effects
-aftereffects
 agenda
 agent
 aggregates
@@ -249,6 +248,7 @@ aka.ms
 aks
 aks-hci
 akscluster
+al
 alac
 alarm
 alb
@@ -293,7 +293,6 @@ amazonmgn
 amazonwebservices
 amend
 ami
-amiga
 amp
 amqp
 amsi
@@ -342,7 +341,6 @@ apachekafka
 api
 api-client
 api-gateway
-api-rest
 apichecks
 apiclient
 apigateway
@@ -494,7 +492,6 @@ atlassian
 atlassiancli
 atlassianps
 atmosphere
-atom
 atp
 atrium
 att&ck
@@ -734,6 +731,7 @@ battery
 bayern
 bb
 bbp
+bc
 bcd
 bcdedit
 bcdr
@@ -768,7 +766,6 @@ big-iq
 bigcommerce
 bigeval
 bigfix
-bigquery
 bikeshed
 billing
 billingbenefits
@@ -1080,6 +1077,7 @@ cic
 cicd
 cicdpipeline
 cidr
+cidrcalculator
 cif
 cifv3
 cil
@@ -1321,6 +1319,7 @@ conda
 condition
 conditionalaccess
 conduit
+conference
 confidentialclient
 confidentialledger
 config
@@ -1392,6 +1391,7 @@ continuousintegration
 control
 controller
 controlroom
+convereter
 converged_data_management
 conversational
 conversion
@@ -1480,15 +1480,11 @@ creator
 cred
 credential
 credential-dialog
-credential-file
-credential-files
-credential-manager
 credentiallocker
 credentialmanagement
 credentialmanager
 credentialprovider
 credentials
-credentials-cache
 credentialsmanager
 credentialstore
 credentialutility
@@ -1545,6 +1541,9 @@ curious
 curl
 curlie
 currency
+currency-convereter
+currency-exchange
+currencyconverterapi
 current
 curseforge
 custom
@@ -1825,7 +1824,6 @@ director
 directories
 directory
 directory psedition_core psedition_desktop
-directory-transform
 directorymarks
 directoryname
 directorysearcher
@@ -1998,8 +1996,6 @@ droplet
 droptable
 drs
 drsrule
-drupal
-drush
 dry
 ds
 ds-client
@@ -2081,11 +2077,11 @@ ebur128
 ec2
 ecommerce
 ecovadis
+edgaronline
 edge
 edgebackup
 edgeexport
 edgegateway
-edgeorder
 edgeprofiles
 ediscovery
 edit
@@ -2277,6 +2273,7 @@ exception
 exceptionless
 exchange
 exchange_online
+exchange-rates
 exchange2010
 exchange2013
 exchange2016
@@ -2297,10 +2294,8 @@ exec
 executable
 executables
 execute
-exexml
 exif
 exiftool
-exists
 exitcode
 exitprocessrequest
 exo
@@ -2338,7 +2333,6 @@ extendedattributes
 extendedevents
 extendedproperties
 extendedproperty
-extendscript
 extensibility
 extension
 extensionmethods
@@ -2359,7 +2353,6 @@ factoryorchestratorclient
 facts
 faf
 failedlogin
-failure
 falcon
 fallbackstatuspoint
 fanarttv
@@ -2415,7 +2408,6 @@ file-name-extension-association
 file-server
 file-share
 file-system
-file-transform
 file-type
 file-type-association
 fileattributes
@@ -2540,7 +2532,6 @@ formatformat-tableformat-listformat-wideformat-customformat-defaultout-defaultou
 formatting
 forms
 fortiauth
-forticlient
 fortify
 fortifyondemand
 fortigate
@@ -2566,9 +2557,6 @@ freesoftwarefoundation
 freshbooks
 freshdesk
 freshservice
-freshservice-api
-freshserviceps
-freshworks
 friendly
 fritz
 fritzbox
@@ -2610,7 +2598,6 @@ gainz
 gainz-chocolateysync
 gainz-keepass
 gainz-sqldb
-gal
 gallery
 game
 gamecategory:cards
@@ -2731,7 +2718,6 @@ githubactions
 githubcli
 githubtools
 githubworkflow
-gitignore
 gitlab
 gitlab-runner
 gitlab4
@@ -2801,7 +2787,6 @@ graphics
 graphite
 graphql
 graphs
-graphservices
 graphviz
 graylog
 greenplum
@@ -2827,7 +2812,6 @@ guardicore
 gubbins
 guest
 guestconfiguration
-guests
 gui
 gui.cs
 guid
@@ -2846,6 +2830,7 @@ ha
 haarlemsdagblad
 hack
 hacking
+hacktoberfest
 hadoop
 hafr
 hailstone
@@ -2890,11 +2875,9 @@ hba
 hbase
 hci
 hcl
-hcm
 hcx
 hdfs
 hdinsight
-hdinsightonaks
 header
 headhunter
 health
@@ -3077,7 +3060,6 @@ icinga2mssql
 icinga2plugins
 icingachecks
 icingaforwindows
-icingainventory
 icingamssql
 icingaplugins
 icingapowershell
@@ -3311,7 +3293,9 @@ ipmaths
 ipp
 iprange
 ips
+ipscan
 ipv4
+ipv4ping
 ipv6
 ipynb
 ir
@@ -3352,6 +3336,7 @@ iteration
 itg
 itglue
 itin
+itop
 itsm
 itstore
 ivanti
@@ -3371,7 +3356,6 @@ jboss
 jdbc
 jde
 jdedwards
-jdt
 jea
 jenkins
 jetbrains
@@ -3401,7 +3385,6 @@ jsm
 jsm.insight
 json
 json-converter
-json-transform
 json+
 jsonplus
 jsonwebkey
@@ -3425,6 +3408,7 @@ jws
 jwt
 jwttoken
 k8s
+k8sshell
 kafka
 kaminario
 karabiner
@@ -3487,6 +3471,7 @@ krbtgt
 krick
 kschemaplugin
 kubclt
+kube
 kubectl
 kubectx
 kubens
@@ -3608,6 +3593,7 @@ link
 link-capability
 link-preview
 linkedin
+linkedservice
 linkedservicedependency
 linkid
 links
@@ -3851,7 +3837,6 @@ max
 max_path
 maximum
 maxoffice
-mazerat
 mb
 mbc
 mbs
@@ -3884,7 +3869,6 @@ mediant
 mediaplayer
 mediaservices
 mediawiki
-meditation
 meeting
 meetup
 meetup.com
@@ -4024,7 +4008,6 @@ moduleupdater
 moduleversion
 mof
 moldova
-moment
 monaco
 monday
 mondoo
@@ -4057,6 +4040,7 @@ mp3
 mp4
 mpc
 mpeg
+mpn
 mrfk
 mrfylke
 mrvl_fc_powerkit
@@ -4223,7 +4207,6 @@ netstat
 netsuite
 network
 network adapter configuration operating os optical sensor physical pointing portable printer processor cpu refrigaration cooling cooler removable usb sd ram dimm scsi sound audio card enclosure tape temperature touchpad touch pad touchscreen screen trackball trackpoint video graphics voltage psmodule
-network-credentials
 network-info
 networkcloud
 networkcontroller
@@ -4238,6 +4221,7 @@ networkloadbalancer
 networkpolicyserver
 networkscan
 networksecurity
+networksecuritygroup
 networkshares
 netwrix
 new
@@ -4253,6 +4237,7 @@ new-rdpsession
 new-samcmapplicationfrompackagedefinitionsms
 new-samcmpackagefrompackagedefinitionsms
 new-system
+new-udmorph
 newpassword
 newrelic
 news
@@ -4386,11 +4371,9 @@ octopus.client
 octopusdeploy
 octopusenergy
 ocvp
-od4b
 oda
 odata
 odbc
-odfb
 odin
 odoo
 oem-charset
@@ -4435,7 +4418,6 @@ oncommand-insight
 ondemand
 one
 onedrive
-onedriveforbusiness
 oneget
 oneidentity
 onelogin
@@ -4505,7 +4487,9 @@ optics
 optimization
 optimizer
 option
+option119
 options
+optionstring
 opus
 oracle
 oraclecloudinfrastructure
@@ -4541,7 +4525,6 @@ osp
 ospgateway
 osprovision
 osprovisioning
-osr
 oss
 ossec
 osubbillingschedule
@@ -4582,7 +4565,6 @@ pack
 package
 package-management
 package-manager
-package-transform
 packagemanagement
 packagemanager
 packages
@@ -4702,7 +4684,6 @@ permissions
 permutations
 persistence
 persistent
-personal
 personalisation
 personalization
 personalvault
@@ -4880,7 +4861,6 @@ poshy-wrap-kubectl
 poshy-wrap-maven
 poshy-wrap-nginx
 poshy-wrap-nmap
-poshy-wrap-npm
 poshy-wrap-pip
 poshy-wrap-pipenv
 poshy-wrap-pyenv
@@ -4889,6 +4869,7 @@ poshy-wrap-python
 poshy-wrap-ruby
 poshy-wrap-systemctl
 poshy-wrap-terraform
+poshy-wrap-terragrunt
 poshy-wrap-tmux
 poshy-wrap-vagrant
 poshy-wrap-vault
@@ -4937,18 +4918,15 @@ powershell-cmdlets
 powershell-core
 powershell-core-releases-api
 powershell-course
-powershell-credentials
 powershell-dsc
 powershell-examples
 powershell-gallery
 powershell-github-repo
 powershell-isprime
-powershell-lightning
 powershell-module
 powershell-modules
 powershell-releases-api
 powershell-remoting
-powershell-script
 powershell-terminal
 powershell-terminal-copilot
 powershell-training
@@ -5004,6 +4982,7 @@ prepareschema
 prepend
 preprocessing
 preprocessor
+presentation
 presenter
 presto
 preston-k-parsard
@@ -6073,24 +6052,6 @@ pscommand_invoke-mavenpackage
 pscommand_invoke-mavenreleaseperform
 pscommand_invoke-mavenreleaseprepare
 pscommand_invoke-mavenreleaserollback
-pscommand_invoke-npmbinmungedpath
-pscommand_invoke-npminfo
-pscommand_invoke-npminit
-pscommand_invoke-npminstallforcefully
-pscommand_invoke-npminstallglobally
-pscommand_invoke-npminstallsave
-pscommand_invoke-npminstallsavedev
-pscommand_invoke-npmlist
-pscommand_invoke-npmlistdepth0
-pscommand_invoke-npmoutdated
-pscommand_invoke-npmpublish
-pscommand_invoke-npmrun
-pscommand_invoke-npmrundev
-pscommand_invoke-npmsearch
-pscommand_invoke-npmstart
-pscommand_invoke-npmtest
-pscommand_invoke-npmupdate
-pscommand_invoke-npmversion
 pscommand_invoke-pipenvcheck
 pscommand_invoke-pipenvclean
 pscommand_invoke-pipenvgraph
@@ -6232,6 +6193,15 @@ pscommand_invoke-terraforminit
 pscommand_invoke-terraformoutput
 pscommand_invoke-terraformplan
 pscommand_invoke-terraformvalidate
+pscommand_invoke-terragrunt
+pscommand_invoke-terragruntapply
+pscommand_invoke-terragruntapplyall
+pscommand_invoke-terragruntdestroy
+pscommand_invoke-terragruntdestroyall
+pscommand_invoke-terragruntplan
+pscommand_invoke-terragruntplanall
+pscommand_invoke-terragruntvalidate
+pscommand_invoke-terragruntvalidateall
 pscommand_invoke-tmuxattachforterminal
 pscommand_invoke-tmuxattachforterminaldetachingothers
 pscommand_invoke-tmuxeditconfig
@@ -6523,23 +6493,6 @@ pscommand_nmap_web_safe_osscan
 pscommand_npm-disable-proxy
 pscommand_npm-enable-proxy
 pscommand_npm-show-proxy
-pscommand_npmd
-pscommand_npme
-pscommand_npmf
-pscommand_npmg
-pscommand_npmi
-pscommand_npml
-pscommand_npml0
-pscommand_npmo
-pscommand_npmp
-pscommand_npmr
-pscommand_npmrd
-pscommand_npms
-pscommand_npmse
-pscommand_npmst
-pscommand_npmt
-pscommand_npmu
-pscommand_npmv
 pscommand_open_command
 pscommand_pch
 pscommand_pcl
@@ -6696,6 +6649,15 @@ pscommand_tfi
 pscommand_tfo
 pscommand_tfp
 pscommand_tfv
+pscommand_tg
+pscommand_tga
+pscommand_tgaa
+pscommand_tgd
+pscommand_tgda
+pscommand_tgp
+pscommand_tgpa
+pscommand_tgv
+pscommand_tgva
 pscommand_tkss
 pscommand_tksv
 pscommand_tl
@@ -7446,24 +7408,6 @@ psfunction_invoke-mavenpackage
 psfunction_invoke-mavenreleaseperform
 psfunction_invoke-mavenreleaseprepare
 psfunction_invoke-mavenreleaserollback
-psfunction_invoke-npmbinmungedpath
-psfunction_invoke-npminfo
-psfunction_invoke-npminit
-psfunction_invoke-npminstallforcefully
-psfunction_invoke-npminstallglobally
-psfunction_invoke-npminstallsave
-psfunction_invoke-npminstallsavedev
-psfunction_invoke-npmlist
-psfunction_invoke-npmlistdepth0
-psfunction_invoke-npmoutdated
-psfunction_invoke-npmpublish
-psfunction_invoke-npmrun
-psfunction_invoke-npmrundev
-psfunction_invoke-npmsearch
-psfunction_invoke-npmstart
-psfunction_invoke-npmtest
-psfunction_invoke-npmupdate
-psfunction_invoke-npmversion
 psfunction_invoke-pipenvcheck
 psfunction_invoke-pipenvclean
 psfunction_invoke-pipenvgraph
@@ -7605,6 +7549,15 @@ psfunction_invoke-terraforminit
 psfunction_invoke-terraformoutput
 psfunction_invoke-terraformplan
 psfunction_invoke-terraformvalidate
+psfunction_invoke-terragrunt
+psfunction_invoke-terragruntapply
+psfunction_invoke-terragruntapplyall
+psfunction_invoke-terragruntdestroy
+psfunction_invoke-terragruntdestroyall
+psfunction_invoke-terragruntplan
+psfunction_invoke-terragruntplanall
+psfunction_invoke-terragruntvalidate
+psfunction_invoke-terragruntvalidateall
 psfunction_invoke-tmuxattachforterminal
 psfunction_invoke-tmuxattachforterminaldetachingothers
 psfunction_invoke-tmuxeditconfig
@@ -8046,7 +7999,6 @@ pxedistributionpoint
 pyenv
 pygmentize
 pylint
-pyranja
 python
 python-for-dotnet
 python3
@@ -8118,6 +8070,7 @@ random-password-generator
 randompassword
 randomuser
 randomusers
+rangescan
 ransomware_recovery
 ras
 raspberry-pi
@@ -8546,6 +8499,9 @@ sconfig
 scoop
 scope
 score
+scouterna
+scouternasetjanster
+scoutnet
 scp
 scrap
 scrape
@@ -8596,6 +8552,7 @@ searchmanager
 searchplace
 searchquery
 searchstring
+searchsuffixlist
 secaas
 secedit
 secret
@@ -8807,6 +8764,7 @@ shotgun
 show
 show-command
 show-on-command
+showdemo
 showoncommand
 shred
 shuf
@@ -8845,7 +8803,6 @@ sitecollection
 siteconfiguration
 sitecore
 sitemaintenance
-sitemap
 siterecovery
 sites
 sitesystemserver
@@ -8988,6 +8945,7 @@ spdx-license-identifier:ms-pl
 spe
 speach
 speak
+speaker
 spec
 specification
 specify
@@ -9403,6 +9361,7 @@ termset
 terraform
 terraformcloud
 terrafun
+terragrunt
 tesla
 test
 test-dscconfiguration
@@ -9553,7 +9512,6 @@ transcode
 transcript
 transcripts
 transform
-transformation
 transforms
 transitionmanager
 translate
@@ -9606,7 +9564,6 @@ tsqlbestpractice
 tst
 tst1
 tst3
-ttrpg
 tts
 tubedownloader
 tui
@@ -9781,7 +9738,6 @@ uptimerobot
 uptobox
 uqword
 uri
-uri-scheme
 url
 url-encode
 url-shortener
@@ -9829,7 +9785,6 @@ utm
 uudecode
 uuencode
 uuid
-uup
 uw
 uwp
 ux
@@ -10057,6 +10012,7 @@ wapi
 warning
 warplaneporn
 warranty
+warraty
 warrenty
 wasabi
 watch
@@ -10172,7 +10128,6 @@ windows-environment
 windows-explorer
 windows-features
 windows-firewall
-windows-powershell
 windows-registry
 windows-remoting
 windows-server-2016
@@ -10362,8 +10317,8 @@ xclarity
 xdr
 xdschelper
 xdscresources
-xdt
 xenapp
+xendeskop
 xendesktop
 xero
 xevents
@@ -10377,7 +10332,6 @@ xlsx
 xmc
 xml
 xml-rpc
-xml-transform
 xmla
 xmlrpc
 xmlutils
@@ -10424,7 +10378,6 @@ zerto
 zigbee
 zip
 zip-compression
-zipfile-transform
 zisson
 zoho
 zone
