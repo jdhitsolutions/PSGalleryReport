@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Saturday, 07 October 2023 17:53:27 UTC
+Updated: Sunday, 08 October 2023 02:05:07 UTC
 
 .bat
 .env
@@ -157,7 +157,6 @@ addomainservices
 addon
 address
 addresses
-addressrange
 adds
 addtypeaccelerators
 adf
@@ -250,10 +249,10 @@ aka.ms
 aks
 aks-hci
 akscluster
-al
 alac
 alarm
 alb
+albums
 alc
 alero
 alert
@@ -559,6 +558,7 @@ autounattend
 autoupdate
 autoupdate-script
 autoyast
+auvik
 availability
 availabilityset
 avalara
@@ -574,6 +574,7 @@ avro
 avs
 avset
 await
+awareness
 awesome
 awp
 awpagent
@@ -733,7 +734,6 @@ battery
 bayern
 bb
 bbp
-bc
 bcd
 bcdedit
 bcdr
@@ -854,6 +854,8 @@ bpmn
 brainy
 branch
 brave
+brawlapi
+brawlstars
 brazencloud
 bre
 breach
@@ -901,7 +903,6 @@ bulletin
 bullhorn
 bundle
 bup
-burnttoast
 burpsuite
 bus
 business
@@ -1079,7 +1080,6 @@ cic
 cicd
 cicdpipeline
 cidr
-cidrcalculator
 cif
 cifv3
 cil
@@ -1321,7 +1321,6 @@ conda
 condition
 conditionalaccess
 conduit
-conference
 confidentialclient
 confidentialledger
 config
@@ -1393,7 +1392,6 @@ continuousintegration
 control
 controller
 controlroom
-convereter
 converged_data_management
 conversational
 conversion
@@ -1547,9 +1545,6 @@ curious
 curl
 curlie
 currency
-currency-convereter
-currency-exchange
-currencyconverterapi
 current
 curseforge
 custom
@@ -1636,6 +1631,7 @@ datacatalog
 datacenter
 dataclassification
 datacollectionrule
+dataconduit
 dataconnectivity
 datadog
 dataexchange
@@ -1772,6 +1768,7 @@ detection
 detectionrule
 deutsch
 deutschland
+dev
 dev-tools
 devart
 devcenter
@@ -2084,7 +2081,6 @@ ebur128
 ec2
 ecommerce
 ecovadis
-edgaronline
 edge
 edgebackup
 edgeexport
@@ -2281,7 +2277,6 @@ exception
 exceptionless
 exchange
 exchange_online
-exchange-rates
 exchange2010
 exchange2013
 exchange2016
@@ -2754,15 +2749,14 @@ gmaps
 gmsa
 gnucash
 gnuwin32
-go
 gobright
 godaddy
-golang
 goldengate
 goldsource
 goldsource-dedicated-server
 google
 google-chrome
+google-histogram
 google-sankey
 google-table
 googleadsv2
@@ -2825,7 +2819,6 @@ groupmembership
 grouppolicy
 groups
 grouvee
-growlnotify
 grr
 gsuite
 gtx1080ti
@@ -2853,7 +2846,6 @@ ha
 haarlemsdagblad
 hack
 hacking
-hacktoberfest
 hadoop
 hafr
 hailstone
@@ -2877,6 +2869,7 @@ har
 hard
 hardblock
 harden
+harden-windows-security
 hardening
 hardlink
 hardware
@@ -2955,6 +2948,7 @@ high-availability
 highlight
 highlighting
 highrise
+hint
 hipaa
 hipb
 hipchat
@@ -3210,6 +3204,7 @@ input
 inputbox
 inputobject
 insert
+insiderthreat
 insight
 insightanalytics
 insights
@@ -3316,9 +3311,7 @@ ipmaths
 ipp
 iprange
 ips
-ipscan
 ipv4
-ipv4ping
 ipv6
 ipynb
 ir
@@ -3359,7 +3352,6 @@ iteration
 itg
 itglue
 itin
-itop
 itsm
 itstore
 ivanti
@@ -3433,7 +3425,6 @@ jws
 jwt
 jwttoken
 k8s
-k8sshell
 kafka
 kaminario
 karabiner
@@ -3446,7 +3437,6 @@ katakana
 kb
 kbarticle
 kdbx
-kdialog
 keenetic
 keepachangelog
 keepass
@@ -3497,7 +3487,6 @@ krbtgt
 krick
 kschemaplugin
 kubclt
-kube
 kubectl
 kubectx
 kubens
@@ -3579,6 +3568,7 @@ legends
 lego
 lein
 leiningnen
+lenel
 length
 lenovo
 less
@@ -3618,7 +3608,6 @@ link
 link-capability
 link-preview
 linkedin
-linkedservice
 linkedservicedependency
 linkid
 links
@@ -3678,6 +3667,10 @@ lod
 lodasoft
 log
 log-administration
+log-file
+log-files
+log-mail
+log-mails
 log-management
 log-rotation
 log4net
@@ -3708,6 +3701,8 @@ loginsight
 logiphys
 logistic
 logitech
+logmail
+logmails
 logman
 logoff
 logon
@@ -3776,7 +3771,9 @@ mailbox
 mailchimp
 mailgroup
 mailgroupmember
+mailing
 mailkit
+mails
 main
 main-menu
 maintain-module
@@ -4060,7 +4057,6 @@ mp3
 mp4
 mpc
 mpeg
-mpn
 mrfk
 mrfylke
 mrvl_fc_powerkit
@@ -4242,7 +4238,6 @@ networkloadbalancer
 networkpolicyserver
 networkscan
 networksecurity
-networksecuritygroup
 networkshares
 netwrix
 new
@@ -4258,9 +4253,9 @@ new-rdpsession
 new-samcmapplicationfrompackagedefinitionsms
 new-samcmpackagefrompackagedefinitionsms
 new-system
-new-udmorph
 newpassword
 newrelic
+news
 newspaper
 newtonsoft
 newtonsoft.json
@@ -4313,10 +4308,8 @@ notes
 notification
 notificationhubs
 notifications
-notifu
 notify
 notify-send
-notify-send-wsl
 nova
 npgsql
 npm
@@ -4379,6 +4372,7 @@ objectid
 objectstorage
 objecttree
 obs
+observeit
 oce
 ocg
 ocgv
@@ -4511,9 +4505,7 @@ optics
 optimization
 optimizer
 option
-option119
 options
-optionstring
 opus
 oracle
 oraclecloudinfrastructure
@@ -4778,6 +4770,7 @@ play
 playback
 playbook
 player
+playlists
 pleasant
 pleasantpasswordserver
 plex
@@ -4797,6 +4790,7 @@ poem
 poetry
 point
 point-to-site
+pointer
 pokeapi
 pokedex
 pokemon
@@ -4862,7 +4856,6 @@ poshy-ls-isms
 poshy-lucidity
 poshy-multimedia
 poshy-net
-poshy-notify-send
 poshy-sh-isms
 poshy-sshconfig
 poshy-viewer-finder
@@ -4882,7 +4875,6 @@ poshy-wrap-git
 poshy-wrap-git-flow
 poshy-wrap-git-hf
 poshy-wrap-git-lfs
-poshy-wrap-golang
 poshy-wrap-helm
 poshy-wrap-kubectl
 poshy-wrap-maven
@@ -4897,7 +4889,6 @@ poshy-wrap-python
 poshy-wrap-ruby
 poshy-wrap-systemctl
 poshy-wrap-terraform
-poshy-wrap-terragrunt
 poshy-wrap-tmux
 poshy-wrap-vagrant
 poshy-wrap-vault
@@ -4961,6 +4952,7 @@ powershell-script
 powershell-terminal
 powershell-terminal-copilot
 powershell-training
+powershell.module.invokewinget
 powershell.one
 powershell.persistentpathstack
 powershell7
@@ -5012,7 +5004,6 @@ prepareschema
 prepend
 preprocessing
 preprocessor
-presentation
 presenter
 presto
 preston-k-parsard
@@ -5082,6 +5073,7 @@ proliant
 prometheus
 prompt
 pronounceable
+proofpoint
 properties
 property
 property-list
@@ -5131,6 +5123,7 @@ psadgroupmembers
 psadt
 psake
 psappdeploytoolkit
+psat
 psazd
 psbackup
 psbbix
@@ -5721,31 +5714,6 @@ pscommand_gmu
 pscommand_gmum
 pscommand_gmv
 pscommand_gnew
-pscommand_gob
-pscommand_goc
-pscommand_god
-pscommand_goe
-pscommand_gof
-pscommand_gofa
-pscommand_gofx
-pscommand_gog
-pscommand_goga
-pscommand_goi
-pscommand_gol
-pscommand_gom
-pscommand_gopa
-pscommand_gopb
-pscommand_gops
-pscommand_gor
-pscommand_got
-pscommand_gota
-pscommand_goto
-pscommand_gotoc
-pscommand_gotod
-pscommand_gotofx
-pscommand_gov
-pscommand_gove
-pscommand_gow
 pscommand_gp
 pscommand_gpatch
 pscommand_gpdo
@@ -5977,28 +5945,6 @@ pscommand_invoke-gitsubmoduleallpullorigin
 pscommand_invoke-gitswitch
 pscommand_invoke-gittag
 pscommand_invoke-gitwhatchanged
-pscommand_invoke-gobuild
-pscommand_invoke-goclean
-pscommand_invoke-godoc
-pscommand_invoke-goenv
-pscommand_invoke-gofix
-pscommand_invoke-gofmt
-pscommand_invoke-gofmtellipsis
-pscommand_invoke-goget
-pscommand_invoke-gogetellipsis
-pscommand_invoke-goinstall
-pscommand_invoke-golist
-pscommand_invoke-gomod
-pscommand_invoke-gorun
-pscommand_invoke-gotest
-pscommand_invoke-gotestellipsis
-pscommand_invoke-gotool
-pscommand_invoke-gotoolcompile
-pscommand_invoke-gotooldist
-pscommand_invoke-gotoolfix
-pscommand_invoke-goversion
-pscommand_invoke-govet
-pscommand_invoke-gowork
 pscommand_invoke-greppipfreeze
 pscommand_invoke-helm
 pscommand_invoke-helminstall
@@ -6286,15 +6232,6 @@ pscommand_invoke-terraforminit
 pscommand_invoke-terraformoutput
 pscommand_invoke-terraformplan
 pscommand_invoke-terraformvalidate
-pscommand_invoke-terragrunt
-pscommand_invoke-terragruntapply
-pscommand_invoke-terragruntapplyall
-pscommand_invoke-terragruntdestroy
-pscommand_invoke-terragruntdestroyall
-pscommand_invoke-terragruntplan
-pscommand_invoke-terragruntplanall
-pscommand_invoke-terragruntvalidate
-pscommand_invoke-terragruntvalidateall
 pscommand_invoke-tmuxattachforterminal
 pscommand_invoke-tmuxattachforterminaldetachingothers
 pscommand_invoke-tmuxeditconfig
@@ -6583,7 +6520,6 @@ pscommand_nmap_ping_through_firewall
 pscommand_nmap_slow
 pscommand_nmap_traceroute
 pscommand_nmap_web_safe_osscan
-pscommand_notify-send-fallback
 pscommand_npm-disable-proxy
 pscommand_npm-enable-proxy
 pscommand_npm-show-proxy
@@ -6711,9 +6647,6 @@ pscommand_set-locationback9
 pscommand_set-locationdown1
 pscommand_set-locationforward1
 pscommand_set-locationgithome
-pscommand_set-locationgopath
-pscommand_set-locationgopathbin
-pscommand_set-locationgopathsrc
 pscommand_set-locationnewdirectory
 pscommand_set-locationup
 pscommand_set-locationup1
@@ -6763,15 +6696,6 @@ pscommand_tfi
 pscommand_tfo
 pscommand_tfp
 pscommand_tfv
-pscommand_tg
-pscommand_tga
-pscommand_tgaa
-pscommand_tgd
-pscommand_tgda
-pscommand_tgp
-pscommand_tgpa
-pscommand_tgv
-pscommand_tgva
 pscommand_tkss
 pscommand_tksv
 pscommand_tl
@@ -6954,6 +6878,7 @@ psdrive
 psdrives
 psdsc
 psdshook
+psedition_5
 psedition_5.1
 psedition_7.3
 psedition_7.4
@@ -7393,28 +7318,6 @@ psfunction_invoke-gitsubmoduleallpullorigin
 psfunction_invoke-gitswitch
 psfunction_invoke-gittag
 psfunction_invoke-gitwhatchanged
-psfunction_invoke-gobuild
-psfunction_invoke-goclean
-psfunction_invoke-godoc
-psfunction_invoke-goenv
-psfunction_invoke-gofix
-psfunction_invoke-gofmt
-psfunction_invoke-gofmtellipsis
-psfunction_invoke-goget
-psfunction_invoke-gogetellipsis
-psfunction_invoke-goinstall
-psfunction_invoke-golist
-psfunction_invoke-gomod
-psfunction_invoke-gorun
-psfunction_invoke-gotest
-psfunction_invoke-gotestellipsis
-psfunction_invoke-gotool
-psfunction_invoke-gotoolcompile
-psfunction_invoke-gotooldist
-psfunction_invoke-gotoolfix
-psfunction_invoke-goversion
-psfunction_invoke-govet
-psfunction_invoke-gowork
 psfunction_invoke-greppipfreeze
 psfunction_invoke-helm
 psfunction_invoke-helminstall
@@ -7702,15 +7605,6 @@ psfunction_invoke-terraforminit
 psfunction_invoke-terraformoutput
 psfunction_invoke-terraformplan
 psfunction_invoke-terraformvalidate
-psfunction_invoke-terragrunt
-psfunction_invoke-terragruntapply
-psfunction_invoke-terragruntapplyall
-psfunction_invoke-terragruntdestroy
-psfunction_invoke-terragruntdestroyall
-psfunction_invoke-terragruntplan
-psfunction_invoke-terragruntplanall
-psfunction_invoke-terragruntvalidate
-psfunction_invoke-terragruntvalidateall
 psfunction_invoke-tmuxattachforterminal
 psfunction_invoke-tmuxattachforterminaldetachingothers
 psfunction_invoke-tmuxeditconfig
@@ -7853,7 +7747,6 @@ psfunction_nmap_ping_through_firewall
 psfunction_nmap_slow
 psfunction_nmap_traceroute
 psfunction_nmap_web_safe_osscan
-psfunction_notify-send-fallback
 psfunction_npm-disable-proxy
 psfunction_npm-enable-proxy
 psfunction_npm-show-proxy
@@ -7929,9 +7822,6 @@ psfunction_set-locationback9
 psfunction_set-locationdown1
 psfunction_set-locationforward1
 psfunction_set-locationgithome
-psfunction_set-locationgopath
-psfunction_set-locationgopathbin
-psfunction_set-locationgopathsrc
 psfunction_set-locationnewdirectory
 psfunction_set-locationup
 psfunction_set-locationup1
@@ -8051,7 +7941,6 @@ psmssql
 psmssqlbynarymodule
 psmssqlmodule
 psmvp
-psnavigation
 psnexosisclient
 psngenposh
 psobject
@@ -8120,6 +8009,7 @@ publishing
 pubsub
 pubxml
 pulldistributionpoint
+pullrequest
 pullserver
 pulseway
 pulumi
@@ -8228,7 +8118,6 @@ random-password-generator
 randompassword
 randomuser
 randomusers
-rangescan
 ransomware_recovery
 ras
 raspberry-pi
@@ -8239,6 +8128,7 @@ rate-limit
 rates
 rating
 ratings
+ravendb
 razzle
 rbac
 rbacmodel
@@ -8551,6 +8441,7 @@ runbooks
 runbookstudio
 runcommand
 rundeck
+runner
 runspace
 runspacepool
 runspaces
@@ -8655,9 +8546,6 @@ sconfig
 scoop
 scope
 score
-scouterna
-scouternasetjanster
-scoutnet
 scp
 scrap
 scrape
@@ -8708,7 +8596,6 @@ searchmanager
 searchplace
 searchquery
 searchstring
-searchsuffixlist
 secaas
 secedit
 secret
@@ -8736,6 +8623,7 @@ securestring
 security
 security-awareness-training
 security-policy
+security-score
 security-txt
 security.txt
 securityassertionmarkuplanguage
@@ -8829,6 +8717,7 @@ serviceplan
 servicepointmanager
 serviceprincipal
 services
+servicestatus
 servicestore
 servicing
 servicingstack
@@ -8918,7 +8807,6 @@ shotgun
 show
 show-command
 show-on-command
-showdemo
 showoncommand
 shred
 shuf
@@ -9100,7 +8988,6 @@ spdx-license-identifier:ms-pl
 spe
 speach
 speak
-speaker
 spec
 specification
 specify
@@ -9328,10 +9215,12 @@ successfactors
 sudo
 sugar
 sugarcrm
+suggestion
 suitecrm
 sullivan
 summary
 sumologic
+supercell
 superheros
 supermarket
 support
@@ -9509,13 +9398,11 @@ terminal
 terminal-interface
 terminal-services
 terminal.gui
-terminalnotifier
 terminalvelocity
 termset
 terraform
 terraformcloud
 terrafun
-terragrunt
 tesla
 test
 test-dscconfiguration
@@ -9527,6 +9414,7 @@ test-samcmapplicationexists
 test-samcmpackageexists
 test-userisadministrator
 test-xml
+test123
 testaccount
 testautomation
 testimonial
@@ -9598,6 +9486,7 @@ timespan
 timezone
 tinkerpop
 tinymce
+tip
 tips
 title
 tls
@@ -9689,6 +9578,9 @@ trendmicro
 trevor
 trevorsullivan
 triangle
+tribeloo
+trick
+tricks
 trigger
 triodos
 tripunkt
@@ -9758,6 +9650,7 @@ ud-avataaar
 ud-badgebutton
 ud-badgelink
 ud-breadcrumb
+ud-breadcrumbitem
 ud-burger
 ud-button
 ud-buttonloader
@@ -10326,6 +10219,7 @@ windowsserver2019
 windowsservercoresecurity
 windowsserverguisecurity
 windowsservice
+windowsservices
 windowsstore
 windowsterminal
 windowstimezone
@@ -10470,7 +10364,6 @@ xdschelper
 xdscresources
 xdt
 xenapp
-xendeskop
 xendesktop
 xero
 xevents
