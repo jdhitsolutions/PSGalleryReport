@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 09 October 2023 09:52:49 UTC
+Updated: Monday, 09 October 2023 17:53:13 UTC
 
 .bat
 .env
@@ -71,6 +71,7 @@ abe
 about
 abr
 abstractsyntaxtree
+abuse
 abuseipdb
 acas
 accelerator
@@ -424,10 +425,12 @@ archivematica
 archivial
 archivial-backup
 archivial-cloud-backup
+archlinux
 arcresourcebridge
 arcus
 area
 arg
+argcomplete
 argument
 argumentcompleter
 arguments
@@ -536,12 +539,12 @@ autocomplete
 autocompletion
 autoenv
 autograph
-autoload
 autologon
 automanage
 automate
 automated
 automatedlab
+automatenow
 automaticpacketreportingsystem
 automation
 automation psmodule
@@ -794,7 +797,6 @@ bitcoin
 bitlocker
 bitwarden
 bitwig
-bitwise
 biztalk
 biztalkalm
 biztalkdeploymentframework
@@ -900,8 +902,6 @@ bulk
 bulletin
 bullhorn
 bundle
-bup
-burnttoast
 burpsuite
 bus
 business
@@ -911,7 +911,6 @@ businesshours
 businessobjects
 businessrulesengine
 businesstime
-bxor
 bydesign
 byexample
 bynarypsmodule
@@ -1010,7 +1009,6 @@ centurylinkcloud
 cer
 cert
 certbasedauth
-certera
 certes
 certificate
 certificateauthority
@@ -1284,6 +1282,7 @@ common
 common-data-service
 commonareaphone
 commondataservice
+commonmark
 communication
 community
 compare
@@ -1501,7 +1500,6 @@ crescendo
 crescendobuilt
 cresendo
 crestron
-crime
 crlf
 crm
 crm2016
@@ -1570,6 +1568,7 @@ customisation
 customization
 customlocation
 customlogs
+customproviders
 cutehttpfileserver
 cvad
 cve-2021-34527
@@ -1689,7 +1688,6 @@ dbcommand
 dbeaver
 dbfs
 dbnull
-dbops
 dbup
 dbwebapi
 dc
@@ -1862,7 +1860,9 @@ diskfree
 diskimage
 diskpart
 diskpool
+disksize
 diskspace
+diskusage
 dism
 dismal
 display
@@ -1965,7 +1965,6 @@ download
 downloader
 downloadfacebookvideo
 downloadfilefromsite
-downloadinfo
 downloading
 downloadoffice
 downloadofficertool
@@ -2068,6 +2067,7 @@ dynamicsecuritygroups
 dynamicsnav
 dynamodb
 dynatrace
+dynatraceobservability
 dz
 e-mail
 e1
@@ -2098,6 +2098,7 @@ education
 educational
 effectiveroutes
 efi
+egrep
 eigencontroles
 einstein
 eklient psedition_core psedition_desktop
@@ -2133,6 +2134,7 @@ emcomm
 emergency
 emissions
 emoji
+emotion
 empire
 empty
 emwarehouse
@@ -2161,6 +2163,7 @@ enhancement
 enrichers
 enrichment
 enteo
+enter
 enterprise
 enterprise-scale
 enterprisedb
@@ -2348,6 +2351,7 @@ external
 externalip
 extract
 extractor
+extreme-networks
 eztheme
 f
 f#
@@ -2361,7 +2365,6 @@ failedlogin
 failure
 falcon
 fallbackstatuspoint
-fanarttv
 fancy
 faq
 farm
@@ -2382,6 +2385,7 @@ fd
 feather
 feature
 features
+featuresondemand
 featureupdate
 federated
 federateddirectory
@@ -2599,7 +2603,6 @@ funny
 fusion
 fusionapps
 fuzzy
-fyi
 fzf
 gac
 gainz
@@ -2636,7 +2639,6 @@ gemlog
 gemtext
 general
 generate
-generate-dockerimagevariants
 generate-password
 generate-random-password
 generates
@@ -2814,12 +2816,12 @@ groupmembership
 grouppolicy
 groups
 grouvee
-growlnotify
 grr
 gsuite
 gtx1080ti
 guardedfabric
 guardicore
+gubbins
 guest
 guestconfiguration
 guests
@@ -2969,6 +2971,7 @@ hls
 hockey
 hol
 holiday
+home
 home_automation
 homebrew
 homelandsecurity
@@ -3230,6 +3233,7 @@ integratedscriptingeditor
 integration
 integrationaccount
 integrationruntime
+integrationruntimedependency
 integrationservicescatalog
 integrity
 intel
@@ -3293,6 +3297,7 @@ ipaddress
 ipam
 ipbroadcast
 ipc
+ipcalc
 ipcalculator
 ipconfig
 iperf
@@ -3424,6 +3429,8 @@ k8s
 k8sshell
 kafka
 kaminario
+karabiner
+karabiner-elements
 karma
 kaseya
 kaseyavsa
@@ -3432,7 +3439,6 @@ katakana
 kb
 kbarticle
 kdbx
-kdialog
 keenetic
 keepachangelog
 keepass
@@ -3447,11 +3453,15 @@ key
 key-vault
 key2wocas
 keybase
+keybinding
 keyboard
 keyboardstartkey
 keycipher
 keylight
 keymanagement
+keymap
+keymapping
+keypair
 keysms
 keyvault
 kibana
@@ -3460,6 +3470,7 @@ kidrsa
 kill
 kindle
 kinetic
+kintone
 klantcontroles
 kms
 knapsack
@@ -3469,7 +3480,6 @@ knowbe4
 knowledge
 knowledgebase
 koans
-korn
 kotlin
 kql
 kraken
@@ -3508,9 +3518,12 @@ lake
 lambda
 lame
 lametrictime
+lamp
+lan
 landingzones
 language
 languagedsc
+languageexperiencepack
 languagepack
 lansweeper
 laps
@@ -3840,11 +3853,11 @@ max
 max_path
 maximum
 maxoffice
+mazerat
 mb
 mbc
 mbs
 mc
-mcafee
 mcas
 mcd
 mchapv2
@@ -3951,11 +3964,9 @@ microsoftgraph
 microsoftgraphapi
 microsoftgraphrestapi
 microsofthealth
-microsoftintune
 microsoftmvp
 microsoftoffice
 microsoftonline
-microsoftstaffhub
 microsoftstore
 microsoftteams
 microsoftword
@@ -4120,7 +4131,6 @@ multiserver
 multistring
 multithread
 multithreaded
-multithreaded-helpers
 multithreading
 music
 musiccast
@@ -4285,6 +4295,8 @@ nord
 nordtools
 normal
 norskale
+norway
+norwegian
 nosql
 note
 notebook
@@ -4295,10 +4307,8 @@ notes
 notification
 notificationhubs
 notifications
-notifu
 notify
 notify-send
-notify-send-wsl
 nova
 npgsql
 npm
@@ -4408,7 +4418,6 @@ okta
 old
 ole
 oledb
-omaha
 ome
 omnisphere
 omnistack
@@ -4532,6 +4541,7 @@ osp
 ospgateway
 osprovision
 osprovisioning
+osr
 oss
 ossec
 osubbillingschedule
@@ -4583,7 +4593,6 @@ packard
 packer
 packet
 packing
-pacli
 page
 pageant
 pager
@@ -4626,6 +4635,7 @@ passwd
 password
 password_generation
 password-generator
+password-less
 password-manager
 passwordexpiration
 passwordexpiry
@@ -4675,6 +4685,7 @@ peek
 peering
 peheader
 pem
+pemfile
 pendingreboot
 penetration
 penetrationtesting
@@ -4690,7 +4701,6 @@ permissions
 permutations
 persistence
 persistent
-personal
 personalisation
 personalization
 personalvault
@@ -4834,6 +4844,7 @@ poshprtg
 poshrsjob
 poshtemplate
 poshwsus
+poshy-code-search
 poshy-colors
 poshy-coreutils-ish
 poshy-dir-nav
@@ -4844,12 +4855,11 @@ poshy-ls-isms
 poshy-lucidity
 poshy-multimedia
 poshy-net
-poshy-notify-send
-poshy-sh-isms
 poshy-sshconfig
 poshy-viewer-finder
 poshy-wrap
 poshy-wrap-apt
+poshy-wrap-argcomplete
 poshy-wrap-brew
 poshy-wrap-curl
 poshy-wrap-dnf
@@ -4868,6 +4878,7 @@ poshy-wrap-helm
 poshy-wrap-kubectl
 poshy-wrap-maven
 poshy-wrap-nginx
+poshy-wrap-nmap
 poshy-wrap-npm
 poshy-wrap-pip
 poshy-wrap-pipenv
@@ -5011,14 +5022,17 @@ principle
 print
 printer
 printers
+printershare
 printing
 printnightmare
 printserver
 prism
 prism_element
 privacy
+private
 private-key
 privatedns
+privatekey
 privatemethods
 privateprofilestring
 privilege
@@ -5086,6 +5100,7 @@ proxmox
 proxmoxve
 proxsys
 proxy
+proxyfunction
 proxyfunctions
 prtg
 prtg_network_monitor
@@ -5594,6 +5609,8 @@ pscommand_get-gitwhatchangedstylized
 pscommand_get-itemnixmode
 pscommand_get-netipaddresspublic
 pscommand_get-netipaddresssimple
+pscommand_get-pwshaliasdefinition
+pscommand_get-pwshfunctiondefinition
 pscommand_get-viewer
 pscommand_geun
 pscommand_gexport
@@ -6545,7 +6562,21 @@ pscommand_nginx_reload
 pscommand_nginx_restart
 pscommand_nginx_start
 pscommand_nginx_stop
-pscommand_notify-send-fallback
+pscommand_nmap_check_for_firewall
+pscommand_nmap_check_for_vulns
+pscommand_nmap_detect_versions
+pscommand_nmap_fast
+pscommand_nmap_fin
+pscommand_nmap_full
+pscommand_nmap_full_udp
+pscommand_nmap_full_with_scripts
+pscommand_nmap_list_interfaces
+pscommand_nmap_open_ports
+pscommand_nmap_ping_scan
+pscommand_nmap_ping_through_firewall
+pscommand_nmap_slow
+pscommand_nmap_traceroute
+pscommand_nmap_web_safe_osscan
 pscommand_npm-disable-proxy
 pscommand_npm-enable-proxy
 pscommand_npm-show-proxy
@@ -6622,6 +6653,7 @@ pscommand_python
 pscommand_python3
 pscommand_rb
 pscommand_read-dotenv
+pscommand_register-argcompleteargumentcompleter
 pscommand_remove_gem
 pscommand_remove-dockercontainerall
 pscommand_remove-dockerunusedimage
@@ -6656,6 +6688,7 @@ pscommand_scu-disable-now
 pscommand_scu-enable-now
 pscommand_scu-mask-now
 pscommand_search-commandpath
+pscommand_search-ruby
 pscommand_set-envvar
 pscommand_set-gitremoteurl
 pscommand_set-itemnixmode
@@ -6706,14 +6739,10 @@ pscommand_syspip3_package_location
 pscommand_ta
 pscommand_tad
 pscommand_test-command
-pscommand_test-d
 pscommand_test-elevation
-pscommand_test-f
 pscommand_test-linkcapability
-pscommand_test-o
 pscommand_test-reparsepoint
 pscommand_test-sessioninteractivity
-pscommand_test-x
 pscommand_tf
 pscommand_tfa
 pscommand_tfc
@@ -7182,6 +7211,8 @@ psfunction_get-gitwhatchangedstylized
 psfunction_get-itemnixmode
 psfunction_get-netipaddresspublic
 psfunction_get-netipaddresssimple
+psfunction_get-pwshaliasdefinition
+psfunction_get-pwshfunctiondefinition
 psfunction_get-viewer
 psfunction_git_blame_line
 psfunction_git_checkout_child
@@ -7797,7 +7828,21 @@ psfunction_nginx_reload
 psfunction_nginx_restart
 psfunction_nginx_start
 psfunction_nginx_stop
-psfunction_notify-send-fallback
+psfunction_nmap_check_for_firewall
+psfunction_nmap_check_for_vulns
+psfunction_nmap_detect_versions
+psfunction_nmap_fast
+psfunction_nmap_fin
+psfunction_nmap_full
+psfunction_nmap_full_udp
+psfunction_nmap_full_with_scripts
+psfunction_nmap_list_interfaces
+psfunction_nmap_open_ports
+psfunction_nmap_ping_scan
+psfunction_nmap_ping_through_firewall
+psfunction_nmap_slow
+psfunction_nmap_traceroute
+psfunction_nmap_web_safe_osscan
 psfunction_npm-disable-proxy
 psfunction_npm-enable-proxy
 psfunction_npm-show-proxy
@@ -7825,6 +7870,7 @@ psfunction_push-gitstashentrywithmessage
 psfunction_pwshrc-show-proxy
 psfunction_pyserver
 psfunction_read-dotenv
+psfunction_register-argcompleteargumentcompleter
 psfunction_remove-dockercontainerall
 psfunction_remove-dockerunusedimage
 psfunction_remove-envpathitem
@@ -7856,6 +7902,7 @@ psfunction_scu-disable-now
 psfunction_scu-enable-now
 psfunction_scu-mask-now
 psfunction_search-commandpath
+psfunction_search-ruby
 psfunction_set-envvar
 psfunction_set-gitremoteurl
 psfunction_set-itemnixmode
@@ -7898,14 +7945,10 @@ psfunction_switch-gitbranchandtrack
 psfunction_switch-gitbranchmain
 psfunction_switch-gitbranchnew
 psfunction_test-command
-psfunction_test-d
 psfunction_test-elevation
-psfunction_test-f
 psfunction_test-linkcapability
-psfunction_test-o
 psfunction_test-reparsepoint
 psfunction_test-sessioninteractivity
-psfunction_test-x
 psfunction_universalarchive
 psfunction_update-gitbranchbasefrombranchmain
 psfunction_update-gitbranchbasefrommain
@@ -7979,7 +8022,6 @@ psjobs
 psjobthreads
 pskeepass
 pslocalgallery
-psloganalytics
 psm
 psm1
 psmodule
@@ -7993,7 +8035,6 @@ psmssql
 psmssqlbynarymodule
 psmssqlmodule
 psmvp
-psnavigation
 psnexosisclient
 psngenposh
 psobject
@@ -8099,7 +8140,6 @@ pxedistributionpoint
 pyenv
 pygmentize
 pylint
-pyranja
 python
 python-for-dotnet
 python3
@@ -8130,7 +8170,6 @@ quality
 qualys
 quandl
 quantum
-quarantine
 queries
 query
 queue
@@ -8422,6 +8461,7 @@ rightjoin
 rights
 rightsizing
 rightsmanagement
+ripe
 risk
 riskiq
 riskpro
@@ -8550,6 +8590,7 @@ satirical
 save
 savedcreds
 savefile
+savings
 savov
 sbc
 sc
@@ -8641,7 +8682,6 @@ sdk
 sdn
 sdp
 search
-search-adminauditlog
 searchengine
 searcher
 searching
@@ -9021,7 +9061,6 @@ sorting
 source
 source-dedicated-server
 sourcecontrol
-sourceforge
 sourcegraph
 sourcemod
 sourceone
@@ -9140,6 +9179,7 @@ sslflags
 ssllabs
 ssllabs-scan
 sslprotocol
+ssm
 sso
 sspi
 sspr
@@ -9152,7 +9192,6 @@ stackexchange
 stackhci
 stackmonitoring
 stackoverflow
-staffhub
 staging
 stale
 stan
@@ -9217,7 +9256,6 @@ store
 storedcredentials
 storefront
 storeonce
-storeserv
 strava
 streak
 stream
@@ -9453,7 +9491,6 @@ terminal
 terminal-interface
 terminal-services
 terminal.gui
-terminalnotifier
 terminalvelocity
 termset
 terraform
@@ -9563,6 +9600,7 @@ toggle
 token
 tokenlifetime
 tokens
+toml
 tookit
 tool
 toolbox
@@ -9583,7 +9621,6 @@ totp
 touch
 toughswitch
 tphubps
-tpm
 tpp
 tr-064
 tr064
@@ -9606,6 +9643,8 @@ transact
 transaction
 transactions
 transcode
+transcript
+transcripts
 transform
 transformation
 transforms
@@ -9652,6 +9691,7 @@ trustedrootcertificate
 trustprotectionplatform
 truth
 trx
+ts
 tsa
 tsd
 tsheets
@@ -9659,6 +9699,7 @@ tsqlbestpractice
 tst
 tst1
 tst3
+ttrpg
 tts
 tubedownloader
 tui
@@ -9741,7 +9782,6 @@ ud-singleselect
 ud-slider
 ud-speechbubble
 ud-step
-ud-stepbar
 ud-stickynavbar
 ud-tagcloud
 ud-timeline
@@ -10050,7 +10090,6 @@ vpn-certificate
 vpro
 vps
 vra
-vrchat
 vrealize
 vrising
 vro
@@ -10109,12 +10148,12 @@ wapi
 warning
 warplaneporn
 warranty
+warraty
 warrenty
 wasabi
 watch
 watchmen
 watery
-wave
 wayk
 waykbastion
 wbem
@@ -10231,6 +10270,7 @@ windows-terminal
 windows-user-folder
 windows-user-profile
 windows10
+windows10mui
 windows11
 windows365
 windowsadmincenter
@@ -10282,6 +10322,7 @@ winget
 wingetbridge
 winrar
 winrm
+winrs
 winrt
 wins
 winsat
@@ -10360,7 +10401,6 @@ write-debug
 write-host
 write-information
 write-log
-write-loganalytics
 write-progress
 write-slog
 write-wansi
@@ -10423,6 +10463,7 @@ xin
 xkcd
 xliff
 xlsx
+xmc
 xml
 xml-rpc
 xml-transform
@@ -10430,7 +10471,6 @@ xmla
 xmlrpc
 xmlutils
 xoauth2
-xor
 xpath
 xpendingreboot
 xpertdoc
@@ -10453,7 +10493,6 @@ yandex
 yapg
 yarn
 yetanotherhelloworld
-yml
 ynab
 youtube
 youtube-dl
@@ -10475,7 +10514,6 @@ zip-compression
 zipfile-transform
 zisson
 zoho
-zone
 zookeeper
 zoom
 zoomapi
