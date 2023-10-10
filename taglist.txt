@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 09 October 2023 17:53:13 UTC
+Updated: Tuesday, 10 October 2023 02:03:10 UTC
 
 .bat
 .env
@@ -15,7 +15,6 @@ Updated: Monday, 09 October 2023 17:53:13 UTC
 "interactive
 🍄
 🍣
-💩
 10
 11
 1607
@@ -539,6 +538,7 @@ autocomplete
 autocompletion
 autoenv
 autograph
+autoload
 autologon
 automanage
 automate
@@ -707,6 +707,7 @@ bamboohr
 bandwidth
 bank
 banking
+banner
 bar
 barcodes
 baremetal
@@ -797,6 +798,7 @@ bitcoin
 bitlocker
 bitwarden
 bitwig
+bitwise
 biztalk
 biztalkalm
 biztalkdeploymentframework
@@ -902,6 +904,8 @@ bulk
 bulletin
 bullhorn
 bundle
+bup
+burnttoast
 burpsuite
 bus
 business
@@ -911,6 +915,7 @@ businesshours
 businessobjects
 businessrulesengine
 businesstime
+bxor
 bydesign
 byexample
 bynarypsmodule
@@ -971,7 +976,6 @@ cavium
 cb
 cblueshell
 cbr
-cbz
 cchoco
 cchocoex
 ccm
@@ -1009,6 +1013,7 @@ centurylinkcloud
 cer
 cert
 certbasedauth
+certera
 certes
 certificate
 certificateauthority
@@ -1251,7 +1256,6 @@ color-show
 colored
 colorful
 colorized
-colorpicker
 colors
 colour
 column
@@ -1302,7 +1306,6 @@ compliant
 component
 composer
 composite
-compoundproperty
 compress
 compression
 compute
@@ -1369,7 +1372,6 @@ consumption
 contact
 contacts
 container
-containerengine
 containergroup
 containerinstance
 containerinstances
@@ -1500,6 +1502,7 @@ crescendo
 crescendobuilt
 cresendo
 crestron
+crime
 crlf
 crm
 crm2016
@@ -1529,7 +1532,6 @@ css
 csv
 csv2adx
 csvhelper
-ctf
 ctglobal
 ctl
 ctrl+c
@@ -1688,6 +1690,7 @@ dbcommand
 dbeaver
 dbfs
 dbnull
+dbops
 dbup
 dbwebapi
 dc
@@ -1860,9 +1863,7 @@ diskfree
 diskimage
 diskpart
 diskpool
-disksize
 diskspace
-diskusage
 dism
 dismal
 display
@@ -1965,6 +1966,7 @@ download
 downloader
 downloadfacebookvideo
 downloadfilefromsite
+downloadinfo
 downloading
 downloadoffice
 downloadofficertool
@@ -2173,7 +2175,6 @@ entity
 entityframework
 entra
 entraid
-entropy
 enum
 enumerable
 env
@@ -2194,7 +2195,6 @@ epicor
 episode
 epplus
 eprosima
-epub
 epv
 equality
 erb
@@ -2365,6 +2365,7 @@ failedlogin
 failure
 falcon
 fallbackstatuspoint
+fanarttv
 fancy
 faq
 farm
@@ -2470,6 +2471,7 @@ find
 find-call
 find-caller
 find-file
+find-path
 finddownloadlinkfromwebsite
 findfile
 findlocation
@@ -2541,6 +2543,7 @@ formatformat-tableformat-listformat-wideformat-customformat-defaultout-defaultou
 formatting
 forms
 fortiauth
+forticlient
 fortify
 fortifyondemand
 fortigate
@@ -2603,6 +2606,7 @@ funny
 fusion
 fusionapps
 fuzzy
+fyi
 fzf
 gac
 gainz
@@ -2639,9 +2643,12 @@ gemlog
 gemtext
 general
 generate
+generate-dockerimagevariants
 generate-password
 generate-random-password
+generateaddress
 generates
+generatewif
 generation
 generator
 generic
@@ -2685,6 +2692,7 @@ get-openfiles
 get-pass
 get-passivetrippoint
 get-passlist
+get-path
 get-pinneditem
 get-samcmassignedsite
 get-samcmcurrentmanagementpoint
@@ -2816,6 +2824,7 @@ groupmembership
 grouppolicy
 groups
 grouvee
+growlnotify
 grr
 gsuite
 gtx1080ti
@@ -2908,7 +2917,6 @@ heartbeatdiscovery
 heat
 heating
 heavenbay
-helium
 helix
 hello
 helloid
@@ -3344,9 +3352,6 @@ it-tool
 it-tools
 italic-text
 item
-itemlist
-itemobject
-itemstack
 iterate
 iteration
 itg
@@ -3391,7 +3396,6 @@ johnshopkins
 join
 join-object
 jojoba
-joke
 jotform
 journal
 joyride
@@ -3439,6 +3443,7 @@ katakana
 kb
 kbarticle
 kdbx
+kdialog
 keenetic
 keepachangelog
 keepass
@@ -3464,6 +3469,7 @@ keymapping
 keypair
 keysms
 keyvault
+keywords
 kibana
 kickstart
 kidrsa
@@ -3480,6 +3486,7 @@ knowbe4
 knowledge
 knowledgebase
 koans
+korn
 kotlin
 kql
 kraken
@@ -3858,6 +3865,7 @@ mb
 mbc
 mbs
 mc
+mcafee
 mcas
 mcd
 mchapv2
@@ -3964,9 +3972,11 @@ microsoftgraph
 microsoftgraphapi
 microsoftgraphrestapi
 microsofthealth
+microsoftintune
 microsoftmvp
 microsoftoffice
 microsoftonline
+microsoftstaffhub
 microsoftstore
 microsoftteams
 microsoftword
@@ -4028,6 +4038,7 @@ monaco
 monday
 mondoo
 money
+moneyforward
 mongo
 mongodb
 monitor
@@ -4090,7 +4101,6 @@ msi psmodule
 msiexec
 msil
 msix
-mslab
 msmq
 msol
 msoms
@@ -4131,6 +4141,7 @@ multiserver
 multistring
 multithread
 multithreaded
+multithreaded-helpers
 multithreading
 music
 musiccast
@@ -4253,6 +4264,7 @@ new-samcmapplicationfrompackagedefinitionsms
 new-samcmpackagefrompackagedefinitionsms
 new-system
 new-udmorph
+newpassword
 newrelic
 news
 newspaper
@@ -4287,8 +4299,6 @@ nntp
 node
 nodejs
 non-volatile
-none
-noneimages
 noninteractive
 noproxy
 nord
@@ -4307,8 +4317,10 @@ notes
 notification
 notificationhubs
 notifications
+notifu
 notify
 notify-send
+notify-send-wsl
 nova
 npgsql
 npm
@@ -4418,6 +4430,7 @@ okta
 old
 ole
 oledb
+omaha
 ome
 omnisphere
 omnistack
@@ -4593,6 +4606,7 @@ packard
 packer
 packet
 packing
+pacli
 page
 pageant
 pager
@@ -4626,8 +4640,6 @@ partner
 partnercenter
 partnerportal
 pas
-pass
-passcode
 passivetotal
 passphrase
 passphraser passphrase password generator entropy
@@ -4701,6 +4713,7 @@ permissions
 permutations
 persistence
 persistent
+personal
 personalisation
 personalization
 personalvault
@@ -4806,7 +4819,6 @@ polycom
 pomodoro
 ponduit
 pool
-poop
 pop
 pop-location
 pop3
@@ -4855,7 +4867,7 @@ poshy-ls-isms
 poshy-lucidity
 poshy-multimedia
 poshy-net
-poshy-sshconfig
+poshy-notify-send
 poshy-viewer-finder
 poshy-wrap
 poshy-wrap-apt
@@ -4993,7 +5005,6 @@ pq
 pranks
 predicate
 prediction
-predictive
 predictive-text
 predictor
 preferences
@@ -5152,7 +5163,6 @@ pscommand_aar
 pscommand_acp
 pscommand_acse
 pscommand_acsp
-pscommand_add_ssh
 pscommand_add-envpathitem
 pscommand_add-envvarpathitem
 pscommand_add-gitlfstrackedfiles
@@ -6577,6 +6587,7 @@ pscommand_nmap_ping_through_firewall
 pscommand_nmap_slow
 pscommand_nmap_traceroute
 pscommand_nmap_web_safe_osscan
+pscommand_notify-send-fallback
 pscommand_npm-disable-proxy
 pscommand_npm-enable-proxy
 pscommand_npm-show-proxy
@@ -6720,11 +6731,9 @@ pscommand_show-proxy
 pscommand_shttp
 pscommand_shuf
 pscommand_sl
-pscommand_ssh-add-all
 pscommand_ssh-disable-proxy
 pscommand_ssh-enable-proxy
 pscommand_ssh-show-proxy
-pscommand_sshlist
 pscommand_start-gitbisect
 pscommand_start-gitcherrypick
 pscommand_start-gitcherrypickexplained
@@ -6971,7 +6980,6 @@ psfive9admin
 psfoldersize
 psfunction__python3
 psfunction_aar
-psfunction_add_ssh
 psfunction_add-envpathitem
 psfunction_add-envvarpathitem
 psfunction_add-gitlfstrackedfiles
@@ -7843,6 +7851,7 @@ psfunction_nmap_ping_through_firewall
 psfunction_nmap_slow
 psfunction_nmap_traceroute
 psfunction_nmap_web_safe_osscan
+psfunction_notify-send-fallback
 psfunction_npm-disable-proxy
 psfunction_npm-enable-proxy
 psfunction_npm-show-proxy
@@ -7932,11 +7941,9 @@ psfunction_show-gitremote
 psfunction_show-proxy
 psfunction_shttp
 psfunction_shuf
-psfunction_ssh-add-all
 psfunction_ssh-disable-proxy
 psfunction_ssh-enable-proxy
 psfunction_ssh-show-proxy
-psfunction_sshlist
 psfunction_start-gitbisect
 psfunction_start-gitcherrypick
 psfunction_start-gitcherrypickexplained
@@ -8022,6 +8029,7 @@ psjobs
 psjobthreads
 pskeepass
 pslocalgallery
+psloganalytics
 psm
 psm1
 psmodule
@@ -8035,6 +8043,7 @@ psmssql
 psmssqlbynarymodule
 psmssqlmodule
 psmvp
+psnavigation
 psnexosisclient
 psngenposh
 psobject
@@ -8140,6 +8149,7 @@ pxedistributionpoint
 pyenv
 pygmentize
 pylint
+pyranja
 python
 python-for-dotnet
 python3
@@ -8170,6 +8180,7 @@ quality
 qualys
 quandl
 quantum
+quarantine
 queries
 query
 queue
@@ -8247,7 +8258,6 @@ react-stockcharts
 read
 read-slog
 readable
-reader
 readiness
 readme
 readpdf
@@ -8364,6 +8374,7 @@ remove
 remove-githubsecrets
 remove-itemproperty
 remove-pass
+remove-path
 remove-pinneditem
 remove-tempfiles
 removetypeaccelerators
@@ -8682,6 +8693,8 @@ sdk
 sdn
 sdp
 search
+search-adminauditlog
+search-engines
 searchengine
 searcher
 searching
@@ -8731,7 +8744,6 @@ securitypolicydsc
 securityroles
 securityscopes
 securitytxt
-sed
 seed
 seek
 seekatar
@@ -8883,7 +8895,6 @@ sharepointpnppowershellonline.add-on.module
 shares
 sheets
 shell
-shell-art
 shells
 shieldedvm
 ships
@@ -9061,6 +9072,7 @@ sorting
 source
 source-dedicated-server
 sourcecontrol
+sourceforge
 sourcegraph
 sourcemod
 sourceone
@@ -9167,7 +9179,6 @@ ssc
 ssdt
 sse
 ssh
-ssh-config
 ssh-keygen
 sshmanagement
 sshservers
@@ -9192,6 +9203,7 @@ stackexchange
 stackhci
 stackmonitoring
 stackoverflow
+staffhub
 staging
 stale
 stan
@@ -9256,6 +9268,7 @@ store
 storedcredentials
 storefront
 storeonce
+storeserv
 strava
 streak
 stream
@@ -9491,6 +9504,7 @@ terminal
 terminal-interface
 terminal-services
 terminal.gui
+terminalnotifier
 terminalvelocity
 termset
 terraform
@@ -9621,6 +9635,7 @@ totp
 touch
 toughswitch
 tphubps
+tpm
 tpp
 tr-064
 tr064
@@ -9767,7 +9782,6 @@ ud-minesweeper
 ud-mouseparticle
 ud-navbarsearch
 ud-numbermask
-ud-orgchart
 ud-piechart3d
 ud-pivottable
 ud-progressstepbar
@@ -9782,6 +9796,7 @@ ud-singleselect
 ud-slider
 ud-speechbubble
 ud-step
+ud-stepbar
 ud-stickynavbar
 ud-tagcloud
 ud-timeline
@@ -10154,6 +10169,7 @@ wasabi
 watch
 watchmen
 watery
+wave
 wayk
 waykbastion
 wbem
@@ -10232,6 +10248,7 @@ wia
 wia.imagefile
 wid
 widedata
+wif
 wifi
 wiki
 wildcard
@@ -10357,7 +10374,6 @@ woolworthsrewards
 word
 word-wrap
 wordcloud
-wordlist
 wordpress
 wordwrap
 workbook
@@ -10401,6 +10417,8 @@ write-debug
 write-host
 write-information
 write-log
+write-loganalytics
+write-message
 write-progress
 write-slog
 write-wansi
@@ -10408,7 +10426,6 @@ writeaccess
 writelog
 writemanager
 writeprogress
-writer
 ws-federation
 wsapi
 wsb
@@ -10421,8 +10438,6 @@ wso2
 wsus
 wt
 wtsapi32
-wttr
-wttr.in
 wtx
 wu
 wug
@@ -10471,6 +10486,7 @@ xmla
 xmlrpc
 xmlutils
 xoauth2
+xor
 xpath
 xpendingreboot
 xpertdoc
@@ -10493,6 +10509,7 @@ yandex
 yapg
 yarn
 yetanotherhelloworld
+yml
 ynab
 youtube
 youtube-dl
@@ -10514,6 +10531,7 @@ zip-compression
 zipfile-transform
 zisson
 zoho
+zone
 zookeeper
 zoom
 zoomapi
