@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Tuesday, 10 October 2023 02:03:10 UTC
+Updated: Tuesday, 10 October 2023 09:52:57 UTC
 
 .bat
 .env
@@ -15,6 +15,7 @@ Updated: Tuesday, 10 October 2023 02:03:10 UTC
 "interactive
 🍄
 🍣
+💩
 10
 11
 1607
@@ -237,7 +238,6 @@ ailanguage
 aim
 aip
 aipscanner
-aircall
 airpower
 airpwr
 airtable
@@ -647,7 +647,6 @@ azurecognitiveservices
 azureconnectedmachine
 azurecontainerapps
 azurecontainers
-azuredatabricks
 azuredataexplorer
 azuredatastudio
 azuredevops
@@ -835,7 +834,6 @@ boinc
 bold-text
 bolt
 bom
-book
 bookmark
 bookmarks
 books
@@ -976,6 +974,7 @@ cavium
 cb
 cblueshell
 cbr
+cbz
 cchoco
 cchocoex
 ccm
@@ -1097,7 +1096,6 @@ cinema
 cinst
 cipher
 circuit-breaker
-circumlunar
 cireson
 ciresonassetmanagement
 ciresonportal
@@ -1256,6 +1254,7 @@ color-show
 colored
 colorful
 colorized
+colorpicker
 colors
 colour
 column
@@ -1298,7 +1297,6 @@ complete
 completer
 completion
 completion-manager
-completionresult
 completions
 complex
 compliance
@@ -1306,6 +1304,7 @@ compliant
 component
 composer
 composite
+compoundproperty
 compress
 compression
 compute
@@ -1364,7 +1363,6 @@ connectivity
 connectwise
 conservation
 console
-consoleguitools
 consolemenu
 consolemusic
 consumer
@@ -1372,6 +1370,7 @@ consumption
 contact
 contacts
 container
+containerengine
 containergroup
 containerinstance
 containerinstances
@@ -1532,6 +1531,7 @@ css
 csv
 csv2adx
 csvhelper
+ctf
 ctglobal
 ctl
 ctrl+c
@@ -2175,6 +2175,7 @@ entity
 entityframework
 entra
 entraid
+entropy
 enum
 enumerable
 env
@@ -2195,6 +2196,7 @@ epicor
 episode
 epplus
 eprosima
+epub
 epv
 equality
 erb
@@ -2543,7 +2545,6 @@ formatformat-tableformat-listformat-wideformat-customformat-defaultout-defaultou
 formatting
 forms
 fortiauth
-forticlient
 fortify
 fortifyondemand
 fortigate
@@ -2637,10 +2638,6 @@ gcs
 gdpr
 gedit
 gem
-gemini
-geminiprotocol
-gemlog
-gemtext
 general
 generate
 generate-dockerimagevariants
@@ -2727,7 +2724,6 @@ gitcmdline
 gitdesktop
 gitea
 gitflow
-gitforwindows
 github
 github-actions
 githubactions
@@ -2917,6 +2913,7 @@ heartbeatdiscovery
 heat
 heating
 heavenbay
+helium
 helix
 hello
 helloid
@@ -2926,7 +2923,6 @@ helm
 helmet
 help
 helpdesk
-helpdoc
 helper
 helper-functions
 helperfunctions
@@ -3352,6 +3348,9 @@ it-tool
 it-tools
 italic-text
 item
+itemlist
+itemobject
+itemstack
 iterate
 iteration
 itg
@@ -3396,6 +3395,7 @@ johnshopkins
 join
 join-object
 jojoba
+joke
 jotform
 journal
 joyride
@@ -3825,7 +3825,6 @@ maps
 mapsapi
 mariadb
 mark
-markdig
 markdown
 markdownrender
 marketing
@@ -4101,6 +4100,7 @@ msi psmodule
 msiexec
 msil
 msix
+mslab
 msmq
 msol
 msoms
@@ -4299,6 +4299,8 @@ nntp
 node
 nodejs
 non-volatile
+none
+noneimages
 noninteractive
 noproxy
 nord
@@ -4386,7 +4388,6 @@ obs
 observeit
 oce
 ocg
-ocgv
 oci
 ocicontrolcenter
 ocr
@@ -4640,6 +4641,8 @@ partner
 partnercenter
 partnerportal
 pas
+pass
+passcode
 passivetotal
 passphrase
 passphraser passphrase password generator entropy
@@ -4819,6 +4822,7 @@ polycom
 pomodoro
 ponduit
 pool
+poop
 pop
 pop-location
 pop3
@@ -4868,6 +4872,8 @@ poshy-lucidity
 poshy-multimedia
 poshy-net
 poshy-notify-send
+poshy-sh-isms
+poshy-sshconfig
 poshy-viewer-finder
 poshy-wrap
 poshy-wrap-apt
@@ -4890,7 +4896,6 @@ poshy-wrap-helm
 poshy-wrap-kubectl
 poshy-wrap-maven
 poshy-wrap-nginx
-poshy-wrap-nmap
 poshy-wrap-npm
 poshy-wrap-pip
 poshy-wrap-pipenv
@@ -4916,9 +4921,7 @@ postgresql
 pow
 powdrgit
 power
-power-apps
 power-cbr
-power-platform
 power-shell
 powerapps
 powerappsportal
@@ -5005,6 +5008,7 @@ pq
 pranks
 predicate
 prediction
+predictive
 predictive-text
 predictor
 preferences
@@ -5163,6 +5167,7 @@ pscommand_aar
 pscommand_acp
 pscommand_acse
 pscommand_acsp
+pscommand_add_ssh
 pscommand_add-envpathitem
 pscommand_add-envvarpathitem
 pscommand_add-gitlfstrackedfiles
@@ -6572,21 +6577,6 @@ pscommand_nginx_reload
 pscommand_nginx_restart
 pscommand_nginx_start
 pscommand_nginx_stop
-pscommand_nmap_check_for_firewall
-pscommand_nmap_check_for_vulns
-pscommand_nmap_detect_versions
-pscommand_nmap_fast
-pscommand_nmap_fin
-pscommand_nmap_full
-pscommand_nmap_full_udp
-pscommand_nmap_full_with_scripts
-pscommand_nmap_list_interfaces
-pscommand_nmap_open_ports
-pscommand_nmap_ping_scan
-pscommand_nmap_ping_through_firewall
-pscommand_nmap_slow
-pscommand_nmap_traceroute
-pscommand_nmap_web_safe_osscan
 pscommand_notify-send-fallback
 pscommand_npm-disable-proxy
 pscommand_npm-enable-proxy
@@ -6731,9 +6721,11 @@ pscommand_show-proxy
 pscommand_shttp
 pscommand_shuf
 pscommand_sl
+pscommand_ssh-add-all
 pscommand_ssh-disable-proxy
 pscommand_ssh-enable-proxy
 pscommand_ssh-show-proxy
+pscommand_sshlist
 pscommand_start-gitbisect
 pscommand_start-gitcherrypick
 pscommand_start-gitcherrypickexplained
@@ -6748,10 +6740,14 @@ pscommand_syspip3_package_location
 pscommand_ta
 pscommand_tad
 pscommand_test-command
+pscommand_test-d
 pscommand_test-elevation
+pscommand_test-f
 pscommand_test-linkcapability
+pscommand_test-o
 pscommand_test-reparsepoint
 pscommand_test-sessioninteractivity
+pscommand_test-x
 pscommand_tf
 pscommand_tfa
 pscommand_tfc
@@ -6980,6 +6976,7 @@ psfive9admin
 psfoldersize
 psfunction__python3
 psfunction_aar
+psfunction_add_ssh
 psfunction_add-envpathitem
 psfunction_add-envvarpathitem
 psfunction_add-gitlfstrackedfiles
@@ -7836,21 +7833,6 @@ psfunction_nginx_reload
 psfunction_nginx_restart
 psfunction_nginx_start
 psfunction_nginx_stop
-psfunction_nmap_check_for_firewall
-psfunction_nmap_check_for_vulns
-psfunction_nmap_detect_versions
-psfunction_nmap_fast
-psfunction_nmap_fin
-psfunction_nmap_full
-psfunction_nmap_full_udp
-psfunction_nmap_full_with_scripts
-psfunction_nmap_list_interfaces
-psfunction_nmap_open_ports
-psfunction_nmap_ping_scan
-psfunction_nmap_ping_through_firewall
-psfunction_nmap_slow
-psfunction_nmap_traceroute
-psfunction_nmap_web_safe_osscan
 psfunction_notify-send-fallback
 psfunction_npm-disable-proxy
 psfunction_npm-enable-proxy
@@ -7941,9 +7923,11 @@ psfunction_show-gitremote
 psfunction_show-proxy
 psfunction_shttp
 psfunction_shuf
+psfunction_ssh-add-all
 psfunction_ssh-disable-proxy
 psfunction_ssh-enable-proxy
 psfunction_ssh-show-proxy
+psfunction_sshlist
 psfunction_start-gitbisect
 psfunction_start-gitcherrypick
 psfunction_start-gitcherrypickexplained
@@ -7952,10 +7936,14 @@ psfunction_switch-gitbranchandtrack
 psfunction_switch-gitbranchmain
 psfunction_switch-gitbranchnew
 psfunction_test-command
+psfunction_test-d
 psfunction_test-elevation
+psfunction_test-f
 psfunction_test-linkcapability
+psfunction_test-o
 psfunction_test-reparsepoint
 psfunction_test-sessioninteractivity
+psfunction_test-x
 psfunction_universalarchive
 psfunction_update-gitbranchbasefrombranchmain
 psfunction_update-gitbranchbasefrommain
@@ -8258,6 +8246,7 @@ react-stockcharts
 read
 read-slog
 readable
+reader
 readiness
 readme
 readpdf
@@ -8744,6 +8733,7 @@ securitypolicydsc
 securityroles
 securityscopes
 securitytxt
+sed
 seed
 seek
 seekatar
@@ -8895,6 +8885,7 @@ sharepointpnppowershellonline.add-on.module
 shares
 sheets
 shell
+shell-art
 shells
 shieldedvm
 ships
@@ -9179,6 +9170,7 @@ ssc
 ssdt
 sse
 ssh
+ssh-config
 ssh-keygen
 sshmanagement
 sshservers
@@ -9782,6 +9774,7 @@ ud-minesweeper
 ud-mouseparticle
 ud-navbarsearch
 ud-numbermask
+ud-orgchart
 ud-piechart3d
 ud-pivottable
 ud-progressstepbar
@@ -10105,6 +10098,7 @@ vpn-certificate
 vpro
 vps
 vra
+vrchat
 vrealize
 vrising
 vro
@@ -10374,6 +10368,7 @@ woolworthsrewards
 word
 word-wrap
 wordcloud
+wordlist
 wordpress
 wordwrap
 workbook
@@ -10426,6 +10421,7 @@ writeaccess
 writelog
 writemanager
 writeprogress
+writer
 ws-federation
 wsapi
 wsb
@@ -10438,6 +10434,8 @@ wso2
 wsus
 wt
 wtsapi32
+wttr
+wttr.in
 wtx
 wu
 wug
