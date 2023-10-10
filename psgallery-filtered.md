@@ -3,6 +3,222 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [AppManiProgramManager](https://www.powershellgallery.com/Packages/AppManiProgramManager/1.44.0) | 1.44.0
+
+### Published: 10/10/2023 17:22:39 by AppMani
+
+Module for installing basic programs: This module provides functions for downloading installers from specified links, installing the programs, verifying the installed programs/services, and cleaning up the installer files.
+
+__Downloads__: 111,856 | __Repository__: 
+
+## [WDACConfig](https://www.powershellgallery.com/Packages/WDACConfig/0.2.6) | 0.2.6
+
+### Published: 10/10/2023 16:18:26 by HotCakeX
+
+This is an advanced PowerShell module for WDAC (Windows Defender Application Control) and automates a lot of tasks.
+
+
+🟢 Please see the GitHub page for Full details and everything about the module: https://github.com/HotCakeX/Harden-Windows-Security/wiki/WDACConfig
+
+
+🛡️ Here is the list of module's cmdlets
+
+✔️ New-WDACConfig: https://github.com/HotCakeX/Harden-Windows-Security/wiki/New-WDACConfig
+
+✔️ New-SupplementalWDACConfig: https://github.com/HotCakeX/Harden-Windows-Security/wiki/New-SupplementalWDACConfig
+
+✔️ Remove-WDACConfig: https://github.com/HotCakeX/Harden-Windows-Security/wiki/Remove-WDACConfig
+
+✔️ Edit-WDACConfig: https://github.com/HotCakeX/Harden-Windows-Security/wiki/Edit-WDACConfig
+
+✔️ Edit-SignedWDACConfig: https://github.com/HotCakeX/Harden-Windows-Security/wiki/Edit-SignedWDACConfig
+
+✔️ Deploy-SignedWDACConfig: https://github.com/HotCakeX/Harden-Windows-Security/wiki/Deploy-SignedWDACConfig
+
+✔️ Confirm-WDACConfig: https://github.com/HotCakeX/Harden-Windows-Security/wiki/Confirm-WDACConfig
+
+✔️ New-DenyWDACConfig: https://github.com/HotCakeX/Harden-Windows-Security/wiki/New-DenyWDACConfig
+
+✔️ Set-CommonWDACConfig: https://github.com/HotCakeX/Harden-Windows-Security/wiki/Set-CommonWDACConfig
+
+✔️ New-KernelModeWDACConfig: https://github.com/HotCakeX/Harden-Windows-Security/wiki/New%E2%80%90KernelModeWDACConfig
+
+✔️ Get-CommonWDACConfig: https://github.com/HotCakeX/Harden-Windows-Security/wiki/Get-CommonWDACConfig
+
+✔️ Invoke-WDACSimulation: https://github.com/HotCakeX/Harden-Windows-Security/wiki/Invoke-WDACSimulation
+
+✔️ Remove-CommonWDACConfig: https://github.com/HotCakeX/Harden-Windows-Security/wiki/Remove-CommonWDACConfig
+
+To get help and syntax on PowerShell console, type:
+"Get-Command -Module WDACConfig"
+"Get-Help New-WDACConfig"
+"Get-Help New-SupplementalWDACConfig"
+"Get-Help Remove-WDACConfig"
+"Get-Help Edit-WDACConfig"
+"Get-Help Edit-SignedWDACConfig"
+"Get-Help Deploy-SignedWDACConfig"
+"Get-Help Confirm-WDACConfig"
+"Get-Help New-DenyWDACConfig"
+"Get-Help Set-CommonWDACConfig"
+"Get-Help New-KernelModeWDACConfig"
+"Get-Help Get-CommonWDACConfig"
+"Get-Help Invoke-WDACSimulation"
+"Get-Help Remove-CommonWDACConfig"
+
+__Downloads__: 684 | __Repository__: https://github.com/HotCakeX/Harden-Windows-Security/wiki/WDACConfig
+
+## [SMART-BcBuildHelper](https://www.powershellgallery.com/Packages/SMART-BcBuildHelper/1.2.7) | 1.2.7
+
+### Published: 10/10/2023 14:26:08 by SMART business
+
+SMART-BcBuildHelper
+
+__Downloads__: 56 | __Repository__: 
+
+## [AdminToolbox](https://www.powershellgallery.com/Packages/AdminToolbox/11.0.116) | 11.0.116
+
+### Published: 10/10/2023 14:22:50 by Taylor Lee
+
+Master module for a collection of modules. These modules are varied in their tasks. The overall purpose of them being to provide a powerfull Toolset to improve IT Admin workflows.
+
+__Downloads__: 29,291 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox
+
+## [AdminToolbox.FortiWizard](https://www.powershellgallery.com/Packages/AdminToolbox.FortiWizard/2.18.14) | 2.18.14
+
+### Published: 10/10/2023 14:21:13 by Taylor Lee
+
+Functions that generate configuration scripts and manage FortiOS.
+
+__Downloads__: 8,437 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [AdminToolbox.VMWareAutomate](https://www.powershellgallery.com/Packages/AdminToolbox.VMWareAutomate/4.8.105) | 4.8.105
+
+### Published: 10/10/2023 14:20:34 by Taylor Lee
+
+Functions to Automate Bulk VMWare Tasks
+
+__Downloads__: 15,243 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [AdminToolbox.Remoting](https://www.powershellgallery.com/Packages/AdminToolbox.Remoting/1.9.108) | 1.9.108
+
+### Published: 10/10/2023 14:19:58 by Taylor Lee
+
+Functions for remote management and access.
+
+__Downloads__: 15,117 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [AdminToolbox.Office365](https://www.powershellgallery.com/Packages/AdminToolbox.Office365/3.1.58) | 3.1.58
+
+### Published: 10/10/2023 14:19:22 by Taylor Lee
+
+Functions for working with Office365 and Azure modules
+
+__Downloads__: 16,389 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [AdminToolbox.Networking](https://www.powershellgallery.com/Packages/AdminToolbox.Networking/2.18.16) | 2.18.16
+
+### Published: 10/10/2023 14:18:46 by Taylor Lee
+
+Network Troubleshooting Functions
+
+__Downloads__: 30,736 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [AdminToolbox.MSGraph](https://www.powershellgallery.com/Packages/AdminToolbox.MSGraph/1.2.108) | 1.2.108
+
+### Published: 10/10/2023 14:18:10 by Taylor Lee
+
+Microsoft Graph interactive API Functions
+
+__Downloads__: 5,459 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [AdminToolbox.Fun](https://www.powershellgallery.com/Packages/AdminToolbox.Fun/1.6.109) | 1.6.109
+
+### Published: 10/10/2023 14:17:34 by Taylor Lee
+
+Functions that have no purpose
+
+__Downloads__: 15,120 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [AdminToolbox.FileManagement](https://www.powershellgallery.com/Packages/AdminToolbox.FileManagement/1.15.99) | 1.15.99
+
+### Published: 10/10/2023 14:16:58 by Taylor Lee
+
+File Management Functions
+
+__Downloads__: 15,787 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [AdminToolbox.FFTools](https://www.powershellgallery.com/Packages/AdminToolbox.FFTools/4.16.58) | 4.16.58
+
+### Published: 10/10/2023 14:16:22 by Taylor Lee
+
+Expedite simple ffmpeg actions
+
+__Downloads__: 15,695 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [AdminToolbox.Exchange](https://www.powershellgallery.com/Packages/AdminToolbox.Exchange/1.9.109) | 1.9.109
+
+### Published: 10/10/2023 14:15:46 by Taylor Lee
+
+Functions for Exchange Management
+
+__Downloads__: 16,767 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [AdminToolbox.EndpointManagement](https://www.powershellgallery.com/Packages/AdminToolbox.EndpointManagement/4.9.101) | 4.9.101
+
+### Published: 10/10/2023 14:15:10 by Taylor Lee
+
+Functions for management of endpoints
+
+__Downloads__: 17,348 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [AdminToolbox.ActiveDirectory](https://www.powershellgallery.com/Packages/AdminToolbox.ActiveDirectory/1.9.106) | 1.9.106
+
+### Published: 10/10/2023 14:14:33 by Taylor Lee
+
+Functions for Active Directory
+
+__Downloads__: 19,032 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [NinjaOne](https://www.powershellgallery.com/Packages/NinjaOne/1.11.2) | 1.11.2
+
+### Published: 10/10/2023 14:03:12 by Mikey O'Toole
+
+This module provides an interface to the NinjaOne API.
+
+__Downloads__: 2,205 | __Repository__: https://github.com/homotechsual/NinjaOne
+
+## [PSJumpStart](https://www.powershellgallery.com/Packages/PSJumpStart/1.2.9) | 1.2.9
+
+### Published: 10/10/2023 13:48:01 by Jack Olsson
+
+The PowerShell PSJumpStart module uses the built-in features in PowerShell to create an environment for the Power Administrator. It is a set of files to jump start PowerShell script creation as well as some ready to use functions. The goal is to provide some simple start-up functions. Please visit the project site for documentation
+
+__Downloads__: 1,359 | __Repository__: https://github.com/jaols/PSJumpStart
+
+## [spec.base.utilities](https://www.powershellgallery.com/Packages/spec.base.utilities/1.1.2) | 1.1.2
+
+### Published: 10/10/2023 13:30:37 by owen.heaume
+
+Mandatory module for the foundation PowerShell scripts.
+
+__Downloads__: 0 | __Repository__: 
+
+## [PSBicepApiManagement](https://www.powershellgallery.com/Packages/PSBicepApiManagement/0.2.5) | 0.2.5
+
+### Published: 10/10/2023 13:04:13 by Daniele Francioni
+
+Powershell module to export/import a single api from Azure Api Management using Azure Bicep.
+
+__Downloads__: 186 | __Repository__: https://github.com/sincronicatech/powershell-psbicepapimanagement
+
+## [NexthinkAPI](https://www.powershellgallery.com/Packages/NexthinkAPI/0.0.4) | 0.0.4
+
+### Published: 10/10/2023 12:53:35 by Pat Gudat
+
+Enables easier automation of Nexthink Infinity via API on the PS Platform
+
+__Downloads__: 48 | __Repository__: https://github.com/NexthinkGuru/NexthinkAPI
+
 ## [AutomateNOW](https://www.powershellgallery.com/Packages/AutomateNOW/1.0.5) | 1.0.5
 
 ### Published: 10/10/2023 09:32:55 by AutomateNOW-Fan
@@ -18,14 +234,6 @@ __Downloads__: 8 | __Repository__: https://github.com/AutomateNOW-Fan
 Import and export objects to parquet format
 
 __Downloads__: 1,199 | __Repository__: 
-
-## [SMART-BcBuildHelper](https://www.powershellgallery.com/Packages/SMART-BcBuildHelper/1.2.5) | 1.2.5
-
-### Published: 10/10/2023 08:38:57 by SMART business
-
-SMART-BcBuildHelper
-
-__Downloads__: 56 | __Repository__: 
 
 ## [SCEPman](https://www.powershellgallery.com/Packages/SCEPman/1.12.5.0) | 1.12.5.0
 
@@ -66,14 +274,6 @@ __Downloads__: 2,252 | __Repository__: https://github.com/PSModule/GitHub
 Continuous Integration/Continuous Delivery module.
 
 __Downloads__: 6,971 | __Repository__: https://github.com/webmd-health-services/Whiskey
-
-## [NinjaOne](https://www.powershellgallery.com/Packages/NinjaOne/1.11.1) | 1.11.1
-
-### Published: 10/09/2023 19:12:36 by Mikey O'Toole
-
-This module provides an interface to the NinjaOne API.
-
-__Downloads__: 2,205 | __Repository__: https://github.com/homotechsual/NinjaOne
 
 ## [ccicodefetcherTemp](https://www.powershellgallery.com/Packages/ccicodefetcherTemp/0.3) | 0.3
 
@@ -122,14 +322,6 @@ __Downloads__: 31,771 | __Repository__: https://github.com/microsoft/SdnDiagnost
 PowerShell tips delivered straight to your terminal.
 
 __Downloads__: 1,180 | __Repository__: https://github.com/deadlydog/PowerShell.tiPS
-
-## [AppManiProgramManager](https://www.powershellgallery.com/Packages/AppManiProgramManager/1.43.3) | 1.43.3
-
-### Published: 10/09/2023 15:07:19 by AppMani
-
-Module for installing basic programs: This module provides functions for downloading installers from specified links, installing the programs, verifying the installed programs/services, and cleaning up the installer files.
-
-__Downloads__: 111,856 | __Repository__: 
 
 ## [NTS.Tools](https://www.powershellgallery.com/Packages/NTS.Tools/1.1.0.9) | 1.1.0.9
 
@@ -403,14 +595,6 @@ A thin wrapper around Fzf (https://github.com/junegunn/fzf).  If PSReadline is l
 
 __Downloads__: 51,091 | __Repository__: 
 
-## [Set-AzAdvancedContext](https://www.powershellgallery.com/Packages/Set-AzAdvancedContext/1.4) | 1.4
-
-### Published: 10/07/2023 21:56:44 by Christoffer Windahl Madsen
-
-Advanced version of the normal Set-AzContext and can always make sure a user or service account is logged in with a valid context to Azure
-
-__Downloads__: 3 | __Repository__: https://codeterraform.com/
-
 ## [DattoAPI](https://www.powershellgallery.com/Packages/DattoAPI/2.2.1) | 2.2.1
 
 ### Published: 10/07/2023 21:08:13 by David Schulte
@@ -418,14 +602,6 @@ __Downloads__: 3 | __Repository__: https://codeterraform.com/
 This module provides a PowerShell wrapper for the Datto BCDR & SaaS API.
 
 __Downloads__: 90 | __Repository__: https://github.com/Celerium/Datto-PowerShellWrapper
-
-## [AuvikAPI](https://www.powershellgallery.com/Packages/AuvikAPI/1.0.0) | 1.0.0
-
-### Published: 10/07/2023 20:12:15 by David Schulte
-
-This module provides a PowerShell wrapper for the Auvik API.
-
-__Downloads__: 3 | __Repository__: https://github.com/Celerium/Auvik-PowerShellWrapper
 
 ## [PSDllCompiler](https://www.powershellgallery.com/Packages/PSDllCompiler/1.0.2.1) | 1.0.2.1
 
@@ -452,7 +628,7 @@ __Downloads__: 454 | __Repository__: https://github.com/andysvints/WhatIsMyIP
 
 Adds some additional functionality to the PowerShell DSC module cChoco
 
-__Downloads__: 856,704 | __Repository__: https://github.com/jyonke/cChocoEx
+__Downloads__: 856,706 | __Repository__: https://github.com/jyonke/cChocoEx
 
 ## [Orbit](https://www.powershellgallery.com/Packages/Orbit/0.9.3) | 0.9.3
 
@@ -530,7 +706,7 @@ __Downloads__: 16 | __Repository__: https://github.com/Apteco/AptecoPSModules/tr
 
 PowerShell module, which makes it easier to work with Business Central Containers on Docker.
 
-__Downloads__: 1,398,380 | __Repository__: 
+__Downloads__: 1,398,391 | __Repository__: 
 
 ## [Fly.Client](https://www.powershellgallery.com/Packages/Fly.Client/3.10.4) | 3.10.4
 
@@ -610,7 +786,7 @@ __Downloads__: 10 | __Repository__: https://github.com/shiftavenue/shiftavenue-p
 
 Chocolatey DSC Resources for use with internal packages and the community package repository. Learn more at http://chocolatey.org/
 
-__Downloads__: 1,325,416 | __Repository__: 
+__Downloads__: 1,325,417 | __Repository__: 
 
 ## [PSWorkItem](https://www.powershellgallery.com/Packages/PSWorkItem/1.5.0) | 1.5.0
 
@@ -644,7 +820,7 @@ The DSInternals PowerShell Module exposes several internal features of Active Di
 
 DISCLAIMER: Features exposed through this module are not supported by Microsoft and it is therefore not intended to be used in production environments. Improper use might cause irreversible damage to domain controllers or negatively impact domain security.
 
-__Downloads__: 2,410,245 | __Repository__: https://github.com/MichaelGrafnetter/DSInternals
+__Downloads__: 2,410,253 | __Repository__: https://github.com/MichaelGrafnetter/DSInternals
 
 ## [GoodWorkaroundHelpers](https://www.powershellgallery.com/Packages/GoodWorkaroundHelpers/0.0.2) | 0.0.2
 
@@ -661,62 +837,6 @@ __Downloads__: 5 | __Repository__:
 Tools for Visma Wilma
 
 __Downloads__: 371 | __Repository__: 
-
-## [WDACConfig](https://www.powershellgallery.com/Packages/WDACConfig/0.2.5) | 0.2.5
-
-### Published: 10/06/2023 09:06:31 by HotCakeX
-
-This is an advanced PowerShell module for WDAC (Windows Defender Application Control) and automates a lot of tasks.
-
-
-🟢 Please see the GitHub page for Full details and everything about the module: https://github.com/HotCakeX/Harden-Windows-Security/wiki/WDACConfig
-
-
-🛡️ Here is the list of module's cmdlets
-
-✔️ New-WDACConfig: https://github.com/HotCakeX/Harden-Windows-Security/wiki/New-WDACConfig
-
-✔️ New-SupplementalWDACConfig: https://github.com/HotCakeX/Harden-Windows-Security/wiki/New-SupplementalWDACConfig
-
-✔️ Remove-WDACConfig: https://github.com/HotCakeX/Harden-Windows-Security/wiki/Remove-WDACConfig
-
-✔️ Edit-WDACConfig: https://github.com/HotCakeX/Harden-Windows-Security/wiki/Edit-WDACConfig
-
-✔️ Edit-SignedWDACConfig: https://github.com/HotCakeX/Harden-Windows-Security/wiki/Edit-SignedWDACConfig
-
-✔️ Deploy-SignedWDACConfig: https://github.com/HotCakeX/Harden-Windows-Security/wiki/Deploy-SignedWDACConfig
-
-✔️ Confirm-WDACConfig: https://github.com/HotCakeX/Harden-Windows-Security/wiki/Confirm-WDACConfig
-
-✔️ New-DenyWDACConfig: https://github.com/HotCakeX/Harden-Windows-Security/wiki/New-DenyWDACConfig
-
-✔️ Set-CommonWDACConfig: https://github.com/HotCakeX/Harden-Windows-Security/wiki/Set-CommonWDACConfig
-
-✔️ New-KernelModeWDACConfig: https://github.com/HotCakeX/Harden-Windows-Security/wiki/New%E2%80%90KernelModeWDACConfig
-
-✔️ Get-CommonWDACConfig: https://github.com/HotCakeX/Harden-Windows-Security/wiki/Get-CommonWDACConfig
-
-✔️ Invoke-WDACSimulation: https://github.com/HotCakeX/Harden-Windows-Security/wiki/Invoke-WDACSimulation
-
-✔️ Remove-CommonWDACConfig: https://github.com/HotCakeX/Harden-Windows-Security/wiki/Remove-CommonWDACConfig
-
-To get help and syntax on PowerShell console, type:
-"Get-Command -Module WDACConfig"
-"Get-Help New-WDACConfig"
-"Get-Help New-SupplementalWDACConfig"
-"Get-Help Remove-WDACConfig"
-"Get-Help Edit-WDACConfig"
-"Get-Help Edit-SignedWDACConfig"
-"Get-Help Deploy-SignedWDACConfig"
-"Get-Help Confirm-WDACConfig"
-"Get-Help New-DenyWDACConfig"
-"Get-Help Set-CommonWDACConfig"
-"Get-Help New-KernelModeWDACConfig"
-"Get-Help Get-CommonWDACConfig"
-"Get-Help Invoke-WDACSimulation"
-"Get-Help Remove-CommonWDACConfig"
-
-__Downloads__: 684 | __Repository__: https://github.com/HotCakeX/Harden-Windows-Security/wiki/WDACConfig
 
 ## [cbsch-pslib](https://www.powershellgallery.com/Packages/cbsch-pslib/1.1.0) | 1.1.0
 
@@ -1026,7 +1146,7 @@ __Downloads__: 899 | __Repository__: http://www.cdata.com/powershell/
 
 CData Cmdlets for Microsoft Excel
 
-__Downloads__: 5,827 | __Repository__: http://www.cdata.com/powershell/
+__Downloads__: 5,828 | __Repository__: http://www.cdata.com/powershell/
 
 ## [CSVCmdlets](https://www.powershellgallery.com/Packages/CSVCmdlets/23.0.8669.1) | 23.0.8669.1
 
@@ -1652,6 +1772,14 @@ CData Cmdlets for Certinia
 
 __Downloads__: 328 | __Repository__: http://www.cdata.com/powershell/
 
+## [AzureSynapseCmdlets](https://www.powershellgallery.com/Packages/AzureSynapseCmdlets/23.0.8669.1) | 23.0.8669.1
+
+### Published: 10/05/2023 19:05:32 by CData Software Inc.
+
+CData Cmdlets for Azure Synapse
+
+__Downloads__: 78 | __Repository__: http://www.cdata.com/powershell/
+
 ## [ADLSCmdlets](https://www.powershellgallery.com/Packages/ADLSCmdlets/23.0.8669.1) | 23.0.8669.1
 
 ### Published: 10/05/2023 19:05:26 by CData Software Inc.
@@ -1940,132 +2068,4 @@ CData Cmdlets for Amazon Athena
 
 __Downloads__: 2,016 | __Repository__: http://www.cdata.com/powershell/
 
-## [ApacheHiveCmdlets](https://www.powershellgallery.com/Packages/ApacheHiveCmdlets/23.0.8669.1) | 23.0.8669.1
-
-### Published: 10/05/2023 19:01:56 by CData Software Inc.
-
-CData Cmdlets for Apache Hive
-
-__Downloads__: 1,188 | __Repository__: http://www.cdata.com/powershell/
-
-## [GitHubCmdlets](https://www.powershellgallery.com/Packages/GitHubCmdlets/23.0.8669.1) | 23.0.8669.1
-
-### Published: 10/05/2023 19:01:49 by CData Software Inc.
-
-CData Cmdlets for GitHub
-
-__Downloads__: 150 | __Repository__: http://www.cdata.com/powershell/
-
-## [SFMarketingCloudCmdlets](https://www.powershellgallery.com/Packages/SFMarketingCloudCmdlets/23.0.8669.1) | 23.0.8669.1
-
-### Published: 10/05/2023 19:01:44 by CData Software Inc.
-
-CData Cmdlets for Salesforce Marketing Cloud
-
-__Downloads__: 526 | __Repository__: http://www.cdata.com/powershell/
-
-## [SlackCmdlets](https://www.powershellgallery.com/Packages/SlackCmdlets/23.0.8669.1) | 23.0.8669.1
-
-### Published: 10/05/2023 19:01:38 by CData Software Inc.
-
-CData Cmdlets for Slack
-
-__Downloads__: 577 | __Repository__: http://www.cdata.com/powershell/
-
-## [D365BusinessCentralCmdlets](https://www.powershellgallery.com/Packages/D365BusinessCentralCmdlets/23.0.8669.1) | 23.0.8669.1
-
-### Published: 10/05/2023 19:01:32 by CData Software Inc.
-
-CData Cmdlets for Microsoft Dynamics 365 Business Central
-
-__Downloads__: 787 | __Repository__: http://www.cdata.com/powershell/
-
-## [APICmdlets](https://www.powershellgallery.com/Packages/APICmdlets/23.0.8630.1) | 23.0.8630.1
-
-### Published: 10/05/2023 19:01:27 by CData Software Inc.
-
-CData Cmdlets for API
-
-__Downloads__: 1,039 | __Repository__: http://www.cdata.com/powershell/
-
-## [BingAdsCmdlets](https://www.powershellgallery.com/Packages/BingAdsCmdlets/23.0.8669.1) | 23.0.8669.1
-
-### Published: 10/05/2023 19:01:21 by CData Software Inc.
-
-CData Cmdlets for Microsoft Ads
-
-__Downloads__: 797 | __Repository__: http://www.cdata.com/powershell/
-
-## [CloudantCmdlets](https://www.powershellgallery.com/Packages/CloudantCmdlets/23.0.8669.1) | 23.0.8669.1
-
-### Published: 10/05/2023 19:01:14 by CData Software Inc.
-
-CData Cmdlets for Cloudant
-
-__Downloads__: 682 | __Repository__: http://www.cdata.com/powershell/
-
-## [FTPCmdlets](https://www.powershellgallery.com/Packages/FTPCmdlets/23.0.8669.1) | 23.0.8669.1
-
-### Published: 10/05/2023 19:01:07 by CData Software Inc.
-
-CData Cmdlets for FTP
-
-__Downloads__: 1,756 | __Repository__: http://www.cdata.com/powershell/
-
-## [GoogleDirectoryCmdlets](https://www.powershellgallery.com/Packages/GoogleDirectoryCmdlets/23.0.8669.1) | 23.0.8669.1
-
-### Published: 10/05/2023 19:01:01 by CData Software Inc.
-
-CData Cmdlets for Google Directory
-
-__Downloads__: 701 | __Repository__: http://www.cdata.com/powershell/
-
-## [SuiteCRMCmdlets](https://www.powershellgallery.com/Packages/SuiteCRMCmdlets/23.0.8669.1) | 23.0.8669.1
-
-### Published: 10/05/2023 19:00:53 by CData Software Inc.
-
-CData Cmdlets for SuiteCRM
-
-__Downloads__: 598 | __Repository__: http://www.cdata.com/powershell/
-
-## [SparkSQLCmdlets](https://www.powershellgallery.com/Packages/SparkSQLCmdlets/23.0.8669.1) | 23.0.8669.1
-
-### Published: 10/05/2023 19:00:44 by CData Software Inc.
-
-CData Cmdlets for Spark SQL
-
-__Downloads__: 701 | __Repository__: http://www.cdata.com/powershell/
-
-## [GoogleCMCmdlets](https://www.powershellgallery.com/Packages/GoogleCMCmdlets/23.0.8669.1) | 23.0.8669.1
-
-### Published: 10/05/2023 19:00:36 by CData Software Inc.
-
-CData Cmdlets for Google Campaign Manager
-
-__Downloads__: 499 | __Repository__: http://www.cdata.com/powershell/
-
-## [OracleSalesCloudCmdlets](https://www.powershellgallery.com/Packages/OracleSalesCloudCmdlets/23.0.8669.1) | 23.0.8669.1
-
-### Published: 10/05/2023 19:00:28 by CData Software Inc.
-
-CData Cmdlets for Oracle Sales
-
-__Downloads__: 1,003 | __Repository__: http://www.cdata.com/powershell/
-
-## [InstagramCmdlets](https://www.powershellgallery.com/Packages/InstagramCmdlets/23.0.8669.1) | 23.0.8669.1
-
-### Published: 10/05/2023 19:00:20 by CData Software Inc.
-
-CData Cmdlets for Instagram
-
-__Downloads__: 791 | __Repository__: http://www.cdata.com/powershell/
-
-## [KintoneCmdlets](https://www.powershellgallery.com/Packages/KintoneCmdlets/23.0.8669.1) | 23.0.8669.1
-
-### Published: 10/05/2023 19:00:13 by CData Software Inc.
-
-CData Cmdlets for Kintone
-
-__Downloads__: 532 | __Repository__: http://www.cdata.com/powershell/
-
-*Updated: Tuesday, 10 October 2023 09:52:44 UTC*
+*Updated: Tuesday, 10 October 2023 17:52:41 UTC*

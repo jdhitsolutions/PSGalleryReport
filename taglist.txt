@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Tuesday, 10 October 2023 09:52:57 UTC
+Updated: Tuesday, 10 October 2023 17:52:54 UTC
 
 .bat
 .env
@@ -238,6 +238,7 @@ ailanguage
 aim
 aip
 aipscanner
+aircall
 airpower
 airpwr
 airtable
@@ -533,7 +534,6 @@ auto
 auto_cd
 auto-completion
 autoattendant
-autocloudarc
 autocomplete
 autocompletion
 autoenv
@@ -559,7 +559,6 @@ autounattend
 autoupdate
 autoupdate-script
 autoyast
-auvik
 availability
 availabilityset
 avalara
@@ -647,6 +646,7 @@ azurecognitiveservices
 azureconnectedmachine
 azurecontainerapps
 azurecontainers
+azuredatabricks
 azuredataexplorer
 azuredatastudio
 azuredevops
@@ -797,7 +797,6 @@ bitcoin
 bitlocker
 bitwarden
 bitwig
-bitwise
 biztalk
 biztalkalm
 biztalkdeploymentframework
@@ -902,7 +901,6 @@ bulk
 bulletin
 bullhorn
 bundle
-bup
 burnttoast
 burpsuite
 bus
@@ -913,7 +911,6 @@ businesshours
 businessobjects
 businessrulesengine
 businesstime
-bxor
 bydesign
 byexample
 bynarypsmodule
@@ -1297,6 +1294,7 @@ complete
 completer
 completion
 completion-manager
+completionresult
 completions
 complex
 compliance
@@ -1363,6 +1361,7 @@ connectivity
 connectwise
 conservation
 console
+consoleguitools
 consolemenu
 consolemusic
 consumer
@@ -1863,7 +1862,9 @@ diskfree
 diskimage
 diskpart
 diskpool
+disksize
 diskspace
+diskusage
 dism
 dismal
 display
@@ -2545,6 +2546,7 @@ formatformat-tableformat-listformat-wideformat-customformat-defaultout-defaultou
 formatting
 forms
 fortiauth
+forticlient
 fortify
 fortifyondemand
 fortigate
@@ -2724,6 +2726,7 @@ gitcmdline
 gitdesktop
 gitea
 gitflow
+gitforwindows
 github
 github-actions
 githubactions
@@ -2923,6 +2926,7 @@ helm
 helmet
 help
 helpdesk
+helpdoc
 helper
 helper-functions
 helperfunctions
@@ -3813,7 +3817,6 @@ managementdashboard
 managementgroups
 managementpoint
 manager
-mangement
 manifest
 manual
 map
@@ -3825,6 +3828,7 @@ maps
 mapsapi
 mariadb
 mark
+markdig
 markdown
 markdownrender
 marketing
@@ -3864,7 +3868,6 @@ mb
 mbc
 mbs
 mc
-mcafee
 mcas
 mcd
 mchapv2
@@ -4327,7 +4330,6 @@ nova
 npgsql
 npm
 npm-proxy
-npm-upgrade
 nprinting
 nprintingapi
 nps
@@ -4388,6 +4390,7 @@ obs
 observeit
 oce
 ocg
+ocgv
 oci
 ocicontrolcenter
 ocr
@@ -4867,7 +4870,6 @@ poshy-dir-nav
 poshy-ecks
 poshy-env-proxy
 poshy-env-var
-poshy-ls-isms
 poshy-lucidity
 poshy-multimedia
 poshy-net
@@ -4896,6 +4898,7 @@ poshy-wrap-helm
 poshy-wrap-kubectl
 poshy-wrap-maven
 poshy-wrap-nginx
+poshy-wrap-nmap
 poshy-wrap-npm
 poshy-wrap-pip
 poshy-wrap-pipenv
@@ -4921,7 +4924,9 @@ postgresql
 pow
 powdrgit
 power
+power-apps
 power-cbr
+power-platform
 power-shell
 powerapps
 powerappsportal
@@ -5022,7 +5027,6 @@ preprocessor
 presentation
 presenter
 presto
-preston-k-parsard
 prettifier
 pretty
 prettyprinter
@@ -5562,15 +5566,6 @@ pscommand_geo
 pscommand_geoe
 pscommand_get
 pscommand_get-aptinstalledpackages
-pscommand_get-childitemcolorfully
-pscommand_get-childitemcolorfullycramped
-pscommand_get-childitemcolorfullyrevealingly
-pscommand_get-childitemcolorfullyrevealinglycramped
-pscommand_get-childitemcolorfullyrevealinglyrecursively
-pscommand_get-childitemcolorfullyrevealinglyrecursivelywithrecency
-pscommand_get-childitemcolorfullyrevealinglywithrecency
-pscommand_get-childitemcolorfullywithrecency
-pscommand_get-childitemnamesonly
 pscommand_get-dockercontainerall
 pscommand_get-dockercontainerlatest
 pscommand_get-dockercontainerlatestipaddress
@@ -6534,20 +6529,7 @@ pscommand_krsss
 pscommand_kru
 pscommand_ksd
 pscommand_ksss
-pscommand_l
-pscommand_l1
-pscommand_la
-pscommand_lart
-pscommand_ldot
-pscommand_lf
-pscommand_ll
 pscommand_local-ignore
-pscommand_lr
-pscommand_lrt
-pscommand_ls
-pscommand_lsn
-pscommand_lsr
-pscommand_lt
 pscommand_mcd
 pscommand_mci
 pscommand_mcisk
@@ -6577,6 +6559,21 @@ pscommand_nginx_reload
 pscommand_nginx_restart
 pscommand_nginx_start
 pscommand_nginx_stop
+pscommand_nmap_check_for_firewall
+pscommand_nmap_check_for_vulns
+pscommand_nmap_detect_versions
+pscommand_nmap_fast
+pscommand_nmap_fin
+pscommand_nmap_full
+pscommand_nmap_full_udp
+pscommand_nmap_full_with_scripts
+pscommand_nmap_list_interfaces
+pscommand_nmap_open_ports
+pscommand_nmap_ping_scan
+pscommand_nmap_ping_through_firewall
+pscommand_nmap_slow
+pscommand_nmap_traceroute
+pscommand_nmap_web_safe_osscan
 pscommand_notify-send-fallback
 pscommand_npm-disable-proxy
 pscommand_npm-enable-proxy
@@ -6720,7 +6717,6 @@ pscommand_show-gitremote
 pscommand_show-proxy
 pscommand_shttp
 pscommand_shuf
-pscommand_sl
 pscommand_ssh-add-all
 pscommand_ssh-disable-proxy
 pscommand_ssh-enable-proxy
@@ -7154,15 +7150,6 @@ psfunction_format-lesstermcapenv
 psfunction_format-viewerinvocationsh
 psfunction_gdv
 psfunction_get-aptinstalledpackages
-psfunction_get-childitemcolorfully
-psfunction_get-childitemcolorfullycramped
-psfunction_get-childitemcolorfullyrevealingly
-psfunction_get-childitemcolorfullyrevealinglycramped
-psfunction_get-childitemcolorfullyrevealinglyrecursively
-psfunction_get-childitemcolorfullyrevealinglyrecursivelywithrecency
-psfunction_get-childitemcolorfullyrevealinglywithrecency
-psfunction_get-childitemcolorfullywithrecency
-psfunction_get-childitemnamesonly
 psfunction_get-dockercontainerall
 psfunction_get-dockercontainerlatest
 psfunction_get-dockercontainerlatestipaddress
@@ -7833,6 +7820,21 @@ psfunction_nginx_reload
 psfunction_nginx_restart
 psfunction_nginx_start
 psfunction_nginx_stop
+psfunction_nmap_check_for_firewall
+psfunction_nmap_check_for_vulns
+psfunction_nmap_detect_versions
+psfunction_nmap_fast
+psfunction_nmap_fin
+psfunction_nmap_full
+psfunction_nmap_full_udp
+psfunction_nmap_full_with_scripts
+psfunction_nmap_list_interfaces
+psfunction_nmap_open_ports
+psfunction_nmap_ping_scan
+psfunction_nmap_ping_through_firewall
+psfunction_nmap_slow
+psfunction_nmap_traceroute
+psfunction_nmap_web_safe_osscan
 psfunction_notify-send-fallback
 psfunction_npm-disable-proxy
 psfunction_npm-enable-proxy
@@ -8168,7 +8170,6 @@ quality
 qualys
 quandl
 quantum
-quarantine
 queries
 query
 queue
@@ -8619,6 +8620,7 @@ scheduled
 scheduled-task
 scheduled-tasks
 scheduledjob
+scheduledtask
 scheduledtasks
 scheduler
 schedules-execution
@@ -10484,7 +10486,6 @@ xmla
 xmlrpc
 xmlutils
 xoauth2
-xor
 xpath
 xpendingreboot
 xpertdoc
