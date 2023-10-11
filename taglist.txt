@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Wednesday, 11 October 2023 09:53:23 UTC
+Updated: Wednesday, 11 October 2023 17:53:50 UTC
 
 .bat
 .env
@@ -138,6 +138,8 @@ ad-report
 ad-site
 adal
 adapter
+adapter-control
+adapters
 adaptivecards
 adb
 adc
@@ -182,6 +184,7 @@ administrativeuser
 administrator
 admintools
 adml
+admpwd
 admx
 ado
 ado_security
@@ -696,8 +699,6 @@ azvm
 b2
 back
 backblaze
-backconnection
-backconnectionhostname
 backup
 backup_validation
 bamboo
@@ -796,6 +797,7 @@ bitcoin
 bitlocker
 bitwarden
 bitwig
+bitwise
 biztalk
 biztalkalm
 biztalkdeploymentframework
@@ -832,7 +834,6 @@ boinc
 bold-text
 bolt
 bom
-book
 bookmark
 bookmarks
 books
@@ -901,6 +902,7 @@ bulk
 bulletin
 bullhorn
 bundle
+bup
 burnttoast
 burpsuite
 bus
@@ -911,6 +913,7 @@ businesshours
 businessobjects
 businessrulesengine
 businesstime
+bxor
 bydesign
 byexample
 bynarypsmodule
@@ -1263,7 +1266,6 @@ combine
 comdata
 comic
 comical
-comics
 command
 command_line
 command-line-interface
@@ -1295,7 +1297,6 @@ complete
 completer
 completion
 completion-manager
-completionresult
 completions
 complex
 compliance
@@ -1399,7 +1400,6 @@ conversational
 conversion
 convert
 convert-dtexceptiontomessage
-convert-movietogif
 convert-sid
 convert-windowsimage
 converter
@@ -1438,7 +1438,6 @@ cos
 cosmos
 cosmosdb
 cost
-costmanagement
 costoptimization
 couchbase
 couchdb
@@ -1715,6 +1714,7 @@ decompiler
 decrypt
 decryption
 dedicatedhsm
+deduplication
 deep
 deep-security
 deep-security-manager
@@ -1840,6 +1840,8 @@ dirkjan
 dirname
 dirsync
 disa
+disable
+disable-internet
 disable-psremoting
 disablefilesyncngsc
 disablestartbutton
@@ -1880,7 +1882,6 @@ distributionpointgroupmembers
 distrubtionpoint
 dividends
 diving
-division
 divoom
 dkim
 dkschrutebeets
@@ -2040,13 +2041,13 @@ dupes
 duplicate
 duplicate-files
 duplicatioin
+duplication
 durable
 durabletask
 dust
 dutch
 dvls
 dword
-dxexpeditions
 dynamic
 dynamic-completion
 dynamic-host-configuration-protocol
@@ -2073,7 +2074,6 @@ e-mail
 e1
 easy
 easylife365
-easyvista
 eaton
 ebay
 ebooks
@@ -2137,6 +2137,8 @@ emotion
 empire
 empty
 emwarehouse
+enable
+enable-internet
 enable-psremoting
 enable-psremotingremote
 enbrea
@@ -2300,7 +2302,6 @@ execute
 exexml
 exif
 exiftool
-exists
 exitcode
 exitprocessrequest
 exo
@@ -2362,6 +2363,7 @@ failedlogin
 failure
 falcon
 fallbackstatuspoint
+fanarttv
 fancy
 faq
 farm
@@ -2411,6 +2413,7 @@ file-monitoring
 file-name
 file-name-extension
 file-name-extension-association
+file-server
 file-share
 file-system
 file-transform
@@ -2473,7 +2476,6 @@ findlocation
 findplace
 findproxyforurl
 fine-print
-finops
 firebird
 firefox
 firewall
@@ -2574,6 +2576,7 @@ front
 frontapp
 frontdoor
 frontrange
+fs
 fsf
 fsharp
 fslogix
@@ -2735,7 +2738,6 @@ gitlab4
 gitlabpipeline
 gitops
 glob
-globalclipboard
 globaldashboard
 globalentry
 globbing
@@ -2921,7 +2923,6 @@ helm
 helmet
 help
 helpdesk
-helpdoc
 helper
 helper-functions
 helperfunctions
@@ -3200,7 +3201,6 @@ initiator
 inline-progress
 inlineprogress
 innerjoin
-innertext
 input
 inputbox
 inputobject
@@ -3524,6 +3524,7 @@ lake
 lambda
 lame
 lametrictime
+lamp
 lan
 landingzones
 language
@@ -3818,7 +3819,6 @@ map
 mapapi
 mappeddrives
 mapper24
-mapping
 maps
 mapsapi
 mariadb
@@ -3833,7 +3833,6 @@ marketplaceordering
 marking
 marklogic
 marquee
-marvel
 marvell
 marvell_semiconductor_inc
 marvellfcpowerkit
@@ -3863,6 +3862,7 @@ mb
 mbc
 mbs
 mc
+mcafee
 mcas
 mcd
 mchapv2
@@ -3959,7 +3959,6 @@ microsoft365
 microsoft365dsc
 microsoftauthenticationlibrary
 microsoftazure
-microsoftcloud
 microsoftdefender
 microsoftdefenderatp
 microsoftdeploymenttoolkit
@@ -3972,6 +3971,7 @@ microsofthealth
 microsoftintune
 microsoftmvp
 microsoftoffice
+microsoftonline
 microsoftstaffhub
 microsoftstore
 microsoftteams
@@ -4015,7 +4015,6 @@ mobilenetwork
 mobilitycontroller
 mock
 mocking
-model
 modify
 module
 module-maintenance
@@ -4570,7 +4569,6 @@ out-default
 out-gridview
 out-json
 outerjoin
-outertext
 outline
 outlook
 output
@@ -4598,6 +4596,7 @@ package-transform
 packagemanagement
 packagemanager
 packages
+packagesregistry
 packaging
 packaging psmodule
 packard
@@ -4753,6 +4752,7 @@ pinneditem
 pinterest
 pinvoke
 pip
+pip3
 pipe
 pipedrive
 pipeline
@@ -4894,6 +4894,7 @@ poshy-wrap-maven
 poshy-wrap-nginx
 poshy-wrap-nmap
 poshy-wrap-npm
+poshy-wrap-pip
 poshy-wrap-pipenv
 poshy-wrap-pyenv
 poshy-wrap-pylint
@@ -6006,6 +6007,7 @@ pscommand_invoke-gotoolfix
 pscommand_invoke-goversion
 pscommand_invoke-govet
 pscommand_invoke-gowork
+pscommand_invoke-greppipfreeze
 pscommand_invoke-helm
 pscommand_invoke-helminstall
 pscommand_invoke-helmsearch
@@ -6166,6 +6168,10 @@ pscommand_invoke-pipenvuninstall
 pscommand_invoke-pipenvupdate
 pscommand_invoke-pipenvvenv
 pscommand_invoke-pipenvwhere
+pscommand_invoke-pipinstall
+pscommand_invoke-pipinstallupgrade
+pscommand_invoke-piplistoutdated
+pscommand_invoke-pipuninstall
 pscommand_invoke-pyenv
 pscommand_invoke-pylintreportsdisabled
 pscommand_invoke-ruby
@@ -6614,6 +6620,22 @@ pscommand_pgr
 pscommand_pi
 pscommand_pidev
 pscommand_ping
+pscommand_pip
+pscommand_pip_package_location
+pscommand_pip3
+pscommand_pip3_package_location
+pscommand_pipgi
+pscommand_pipi
+pscommand_pipig
+pscommand_pipigb
+pscommand_pipigp
+pscommand_pipir
+pscommand_piplo
+pscommand_pipreq
+pscommand_pipu
+pscommand_pipun
+pscommand_pipunall
+pscommand_pipupall
 pscommand_pl
 pscommand_po
 pscommand_pop-gitstashentry
@@ -6725,6 +6747,10 @@ pscommand_stop-gitcherrypick
 pscommand_switch-gitbranchandtrack
 pscommand_switch-gitbranchmain
 pscommand_switch-gitbranchnew
+pscommand_syspip
+pscommand_syspip_package_location
+pscommand_syspip3
+pscommand_syspip3_package_location
 pscommand_ta
 pscommand_tad
 pscommand_test-command
@@ -7398,6 +7424,7 @@ psfunction_invoke-gotoolfix
 psfunction_invoke-goversion
 psfunction_invoke-govet
 psfunction_invoke-gowork
+psfunction_invoke-greppipfreeze
 psfunction_invoke-helm
 psfunction_invoke-helminstall
 psfunction_invoke-helmsearch
@@ -7558,6 +7585,10 @@ psfunction_invoke-pipenvuninstall
 psfunction_invoke-pipenvupdate
 psfunction_invoke-pipenvvenv
 psfunction_invoke-pipenvwhere
+psfunction_invoke-pipinstall
+psfunction_invoke-pipinstallupgrade
+psfunction_invoke-piplistoutdated
+psfunction_invoke-pipuninstall
 psfunction_invoke-pyenv
 psfunction_invoke-pylintreportsdisabled
 psfunction_invoke-ruby
@@ -7837,6 +7868,13 @@ psfunction_npm-enable-proxy
 psfunction_npm-show-proxy
 psfunction_open_command
 psfunction_peek
+psfunction_pipig
+psfunction_pipigb
+psfunction_pipigp
+psfunction_pipir
+psfunction_pipreq
+psfunction_pipunall
+psfunction_pipupall
 psfunction_pop-gitstashentry
 psfunction_proxy-help
 psfunction_publish-gitcommitsforcefullywithlease
@@ -8159,6 +8197,7 @@ quality
 qualys
 quandl
 quantum
+quarantine
 queries
 query
 queue
@@ -8489,7 +8528,6 @@ routeconfig
 router
 routes
 routetable
-routine
 rover
 royalapps
 royaldocument
@@ -8552,6 +8590,7 @@ sailpoint
 sale
 sales
 salesforce
+salesloft
 salt
 salt-api
 saltstack
@@ -8782,6 +8821,7 @@ serverless
 servermanagement
 servers
 service
+service-bus
 service-messages
 servicebus
 servicebusforwindowsserver
@@ -8813,6 +8853,7 @@ sessions
 set
 set_bios
 set-alias
+set-dnsservers
 set-githubsecrets
 set-itemproperty
 set-location
@@ -9308,14 +9349,12 @@ sullivan
 summary
 sumologic
 supercell
-superheros
 supermarket
 support
 support-tool
 support-tools
 suppress
 supress-reboot
-surround
 survey
 surveymonkey
 sus
@@ -9368,6 +9407,9 @@ syslog
 sysman
 sysmon
 sysop
+syspass
+syspip
+syspip3
 sysprep
 system
 system information 1394 controller baseboard motherboard systemboard battery bios bus cache memory cd dvd rom drive compact disc desktop monitor disk partition fan floppy glide point heatpipe ide infrared device keyboard local logical array mouse'
@@ -9760,6 +9802,7 @@ ud-minesweeper
 ud-mouseparticle
 ud-navbarsearch
 ud-numbermask
+ud-orgchart
 ud-piechart3d
 ud-pivottable
 ud-progressstepbar
@@ -9963,7 +10006,6 @@ vdp
 vdportgroup
 vdswitch
 vduplink
-ve7cc
 vector
 veeam
 veeampn
@@ -9995,7 +10037,6 @@ vie
 viewer
 vigenere
 vim
-vimode
 virole
 virsh
 virtual
@@ -10466,6 +10507,7 @@ xmla
 xmlrpc
 xmlutils
 xoauth2
+xor
 xpath
 xpendingreboot
 xpertdoc
