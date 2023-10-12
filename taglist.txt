@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Thursday, 12 October 2023 02:02:58 UTC
+Updated: Thursday, 12 October 2023 09:54:17 UTC
 
 .bat
 .env
@@ -183,9 +183,7 @@ administrativeunit
 administrativeuser
 administrator
 admintools
-adml
 admpwd
-admx
 ado
 ado_security
 ado.net
@@ -1258,6 +1256,7 @@ color-show
 colored
 colorful
 colorized
+colorpicker
 colors
 colour
 column
@@ -1506,6 +1505,7 @@ crescendo
 crescendobuilt
 cresendo
 crestron
+crime
 crlf
 crm
 crm2016
@@ -1616,7 +1616,6 @@ dash
 dashboard
 dashboardapi
 dashboardservice
-dast
 data
 data_protection
 data_security
@@ -2174,6 +2173,7 @@ enteo
 enter
 enterprise
 enterprise-scale
+enterprisedb
 enterprisemanager
 enterprisevoice
 entity
@@ -2347,7 +2347,6 @@ extended
 extendedattributes
 extendedevents
 extendedproperties
-extendedproperty
 extendscript
 extensibility
 extension
@@ -2403,7 +2402,6 @@ feed
 fetch
 ffmpeg
 fhirservice
-fiche
 fiddler
 fido
 fido2
@@ -2821,7 +2819,6 @@ gremlin
 grep
 greynoise
 grid
-gridfs
 grok
 groundspeak
 group
@@ -3533,7 +3530,6 @@ labsnippet
 labtech
 labtest
 labworker
-lake
 lambda
 lame
 lametrictime
@@ -3747,7 +3743,6 @@ longfiles
 longitude
 look
 lookup
-loop
 loopback
 loremipsum
 love
@@ -3832,6 +3827,7 @@ map
 mapapi
 mappeddrives
 mapper24
+mapping
 maps
 mapsapi
 mariadb
@@ -3873,7 +3869,6 @@ maximum
 maxoffice
 mazerat
 mb
-mbc
 mbs
 mc
 mcafee
@@ -4062,7 +4057,6 @@ monitoringplugins
 monitoringsolutions
 monthlyupdate
 moodle
-moonshot
 more
 mosaic
 motd
@@ -4282,6 +4276,8 @@ news
 newspaper
 newtonsoft
 newtonsoft.json
+nexenta
+nexentastor
 nexthink
 nexus
 ngen
@@ -8045,6 +8041,7 @@ psgallery
 psget
 psgitlab
 psgraph
+psgraylog
 pshot
 pshtml
 psincludes_cmdlet
@@ -8095,7 +8092,6 @@ psreadexif
 psreadline
 psremoting
 psrepository
-psresourceget
 psrule
 psrule-rules
 pssa
@@ -8542,6 +8538,7 @@ routeconfig
 router
 routes
 routetable
+routine
 rover
 royalapps
 royaldocument
@@ -8729,6 +8726,7 @@ search-adminauditlog
 search-engines
 searchengine
 searcher
+searching
 searchmanager
 searchplace
 searchquery
@@ -8888,7 +8886,6 @@ setupbase.install
 setupbase.publish
 setupbase.taskscheduler
 setupbase.template
-setupbase.update
 sevenzip
 sf
 sfb
@@ -9002,6 +8999,7 @@ skyapi
 skype
 skype_for_business
 skype4b
+skype4business
 skypeforbusiness
 skypeforbusinessonline
 skypeonline
@@ -9533,7 +9531,6 @@ tenable.sc
 tenant
 tenantmanagercontrolplane
 teradata
-termbin
 terminal
 terminal-interface
 terminal-services
@@ -9957,6 +9954,7 @@ userworkstations
 usg
 usps
 utc
+utf-8
 utf-sig
 utf7
 utf8
@@ -10233,7 +10231,6 @@ webhdfs
 webhelpdesk
 webhistory
 webhook
-webinspect
 webjea
 webmanagement
 webmanagementservice
