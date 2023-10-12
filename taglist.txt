@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Wednesday, 11 October 2023 17:53:50 UTC
+Updated: Thursday, 12 October 2023 02:02:58 UTC
 
 .bat
 .env
@@ -699,6 +699,8 @@ azvm
 b2
 back
 backblaze
+backconnection
+backconnectionhostname
 backup
 backup_validation
 bamboo
@@ -834,6 +836,7 @@ boinc
 bold-text
 bolt
 bom
+book
 bookmark
 bookmarks
 books
@@ -1255,7 +1258,6 @@ color-show
 colored
 colorful
 colorized
-colorpicker
 colors
 colour
 column
@@ -1266,6 +1268,7 @@ combine
 comdata
 comic
 comical
+comics
 command
 command_line
 command-line-interface
@@ -1297,6 +1300,7 @@ complete
 completer
 completion
 completion-manager
+completionresult
 completions
 complex
 compliance
@@ -1400,6 +1404,7 @@ conversational
 conversion
 convert
 convert-dtexceptiontomessage
+convert-movietogif
 convert-sid
 convert-windowsimage
 converter
@@ -1438,6 +1443,7 @@ cos
 cosmos
 cosmosdb
 cost
+costmanagement
 costoptimization
 couchbase
 couchdb
@@ -1500,7 +1506,6 @@ crescendo
 crescendobuilt
 cresendo
 crestron
-crime
 crlf
 crm
 crm2016
@@ -1882,6 +1887,7 @@ distributionpointgroupmembers
 distrubtionpoint
 dividends
 diving
+division
 divoom
 dkim
 dkschrutebeets
@@ -2048,6 +2054,7 @@ dust
 dutch
 dvls
 dword
+dxexpeditions
 dynamic
 dynamic-completion
 dynamic-host-configuration-protocol
@@ -2073,7 +2080,9 @@ dz
 e-mail
 e1
 easy
+easy-to-use
 easylife365
+easyvista
 eaton
 ebay
 ebooks
@@ -2165,7 +2174,6 @@ enteo
 enter
 enterprise
 enterprise-scale
-enterprisedb
 enterprisemanager
 enterprisevoice
 entity
@@ -2302,6 +2310,7 @@ execute
 exexml
 exif
 exiftool
+exists
 exitcode
 exitprocessrequest
 exo
@@ -2476,6 +2485,7 @@ findlocation
 findplace
 findproxyforurl
 fine-print
+finops
 firebird
 firefox
 firewall
@@ -2738,6 +2748,7 @@ gitlab4
 gitlabpipeline
 gitops
 glob
+globalclipboard
 globaldashboard
 globalentry
 globbing
@@ -2923,6 +2934,7 @@ helm
 helmet
 help
 helpdesk
+helpdoc
 helper
 helper-functions
 helperfunctions
@@ -3201,6 +3213,7 @@ initiator
 inline-progress
 inlineprogress
 innerjoin
+innertext
 input
 inputbox
 inputobject
@@ -3833,6 +3846,7 @@ marketplaceordering
 marking
 marklogic
 marquee
+marvel
 marvell
 marvell_semiconductor_inc
 marvellfcpowerkit
@@ -3959,6 +3973,7 @@ microsoft365
 microsoft365dsc
 microsoftauthenticationlibrary
 microsoftazure
+microsoftcloud
 microsoftdefender
 microsoftdefenderatp
 microsoftdeploymenttoolkit
@@ -4015,6 +4030,7 @@ mobilenetwork
 mobilitycontroller
 mock
 mocking
+model
 modify
 module
 module-maintenance
@@ -4266,8 +4282,6 @@ news
 newspaper
 newtonsoft
 newtonsoft.json
-nexenta
-nexentastor
 nexthink
 nexus
 ngen
@@ -4569,6 +4583,7 @@ out-default
 out-gridview
 out-json
 outerjoin
+outertext
 outline
 outlook
 output
@@ -8030,7 +8045,6 @@ psgallery
 psget
 psgitlab
 psgraph
-psgraylog
 pshot
 pshtml
 psincludes_cmdlet
@@ -8715,7 +8729,6 @@ search-adminauditlog
 search-engines
 searchengine
 searcher
-searching
 searchmanager
 searchplace
 searchquery
@@ -8989,7 +9002,6 @@ skyapi
 skype
 skype_for_business
 skype4b
-skype4business
 skypeforbusiness
 skypeforbusinessonline
 skypeonline
@@ -9349,12 +9361,14 @@ sullivan
 summary
 sumologic
 supercell
+superheros
 supermarket
 support
 support-tool
 support-tools
 suppress
 supress-reboot
+surround
 survey
 surveymonkey
 sus
@@ -9943,7 +9957,6 @@ userworkstations
 usg
 usps
 utc
-utf-8
 utf-sig
 utf7
 utf8
@@ -10006,6 +10019,7 @@ vdp
 vdportgroup
 vdswitch
 vduplink
+ve7cc
 vector
 veeam
 veeampn
@@ -10037,6 +10051,7 @@ vie
 viewer
 vigenere
 vim
+vimode
 virole
 virsh
 virtual
@@ -10459,6 +10474,8 @@ wso2
 wsus
 wt
 wtsapi32
+wttr
+wttr.in
 wtx
 wu
 wug
