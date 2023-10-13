@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Friday, 13 October 2023 02:05:34 UTC
+Updated: Friday, 13 October 2023 09:53:09 UTC
 
 .bat
 .env
@@ -308,7 +308,6 @@ analyst
 analyth
 analytics
 analyticsrules
-analyze
 analyzer
 analyzerrules
 anchor
@@ -336,7 +335,6 @@ antivirus
 any
 anyconnect
 anypackage
-anypoint
 anywhere
 aovpn psmodule
 apache
@@ -588,7 +586,6 @@ awscli
 awspricelist
 axapta
 axinom
-axis
 axium
 az
 az-cli
@@ -645,8 +642,6 @@ azurebasicloadbalancerupgrade
 azurecli
 azurecognitiveservices
 azureconnectedmachine
-azurecontainerapps
-azurecontainers
 azuredatabricks
 azuredataexplorer
 azuredatastudio
@@ -786,6 +781,7 @@ bingmap
 bingmaps
 binomial
 bios
+bios_settings
 bios-settings
 bit
 bitbucket
@@ -948,12 +944,12 @@ capability
 capacity
 capgemini
 capslock
-captcha
 capture
 carbon
 carbonawarecomputing
 carbonintensity
 card
+cardwirth
 cargo
 carousel
 carrier
@@ -1225,6 +1221,7 @@ code365
 codeanalysis
 codebuild
 codecommit
+codecomplexity
 codecov
 codecoverage
 codegen
@@ -1269,7 +1266,6 @@ comics
 command
 command_line
 command-line-interface
-command-validation
 commandcoverage
 commandlets
 commandline
@@ -1687,7 +1683,6 @@ db
 db2
 dba
 dbaas
-dbase
 dbcommand
 dbeaver
 dbfs
@@ -1872,6 +1867,7 @@ dism
 dismal
 display
 displayresolution
+distance
 distinguishedname
 distributed-systems
 distributedcache
@@ -2120,6 +2116,7 @@ elgato
 elk
 elm
 elmah-io
+elonmusk
 eloqua
 elvui
 em
@@ -2245,7 +2242,6 @@ evc
 event
 event_id
 event_list
-event-timeline
 eventchannel
 eventchannels
 eventcollector
@@ -2293,7 +2289,6 @@ exchangemigration
 exchangeon-premise
 exchangeon-premises
 exchangeonline
-exchangeonlineprotection
 exchangeonprem
 exchangeserver
 exchangewebservices
@@ -2338,6 +2333,7 @@ exportcertificates
 exporter
 exportexcel
 exportteams
+expression
 extend
 extended
 extendedattributes
@@ -2562,7 +2558,6 @@ forwardcompatibility
 forwardedevents
 foudil
 fox
-foxpro
 fqdn
 frame
 framework
@@ -2728,6 +2723,7 @@ gitcmdline
 gitdesktop
 gitea
 gitflow
+gitforwindows
 github
 github-actions
 githubactions
@@ -2741,6 +2737,7 @@ gitlab4
 gitlabpipeline
 gitops
 glob
+globalclipboard
 globaldashboard
 globalentry
 globbing
@@ -2870,7 +2867,6 @@ handle
 handler
 hangouts
 hannelstoolbox
-hanwha
 har
 hard
 hardblock
@@ -2900,6 +2896,7 @@ hcm
 hcx
 hdfs
 hdinsight
+hdinsightonaks
 header
 headhunter
 health
@@ -3204,6 +3201,7 @@ initiator
 inline-progress
 inlineprogress
 innerjoin
+innertext
 input
 inputbox
 inputobject
@@ -3771,7 +3769,6 @@ macos
 macosx
 macro
 macros
-madlib
 magazine
 magento
 magic8ball
@@ -3846,6 +3843,7 @@ marvellfcprovider
 marvellqlogicfcpowerkit
 mas
 mask
+mass
 masstransit
 masterconfiguration
 matcharray
@@ -4128,8 +4126,6 @@ mstsc
 msu
 msvc
 msword
-mule
-mulesoft
 multi-factor
 multi-language
 multi-platform
@@ -4238,6 +4234,7 @@ network
 network adapter configuration operating os optical sensor physical pointing portable printer processor cpu refrigaration cooling cooler removable usb sd ram dimm scsi sound audio card enclosure tape temperature touchpad touch pad touchscreen screen trackball trackpoint video graphics voltage psmodule
 network-credentials
 network-info
+networkcloud
 networkcontroller
 networkdiscovery
 networkdrives
@@ -4575,6 +4572,7 @@ out-default
 out-gridview
 out-json
 outerjoin
+outertext
 outline
 outlook
 output
@@ -4592,7 +4590,6 @@ oxyplot
 p2000
 p2s
 pa1reg
-paas
 pac
 pack
 package
@@ -4902,6 +4899,8 @@ poshy-wrap-nmap
 poshy-wrap-npm
 poshy-wrap-pip
 poshy-wrap-pipenv
+poshy-wrap-pyenv
+poshy-wrap-pylint
 poshy-wrap-python
 poshy-wrap-ruby
 poshy-wrap-systemctl
@@ -4909,7 +4908,6 @@ poshy-wrap-terraform
 poshy-wrap-terragrunt
 poshy-wrap-tmux
 poshy-wrap-vagrant
-poshy-wrap-vault
 poshy-wrap-vscode
 poshy-wrap-wget
 poshy-wrap-wt
@@ -6175,6 +6173,8 @@ pscommand_invoke-pipinstall
 pscommand_invoke-pipinstallupgrade
 pscommand_invoke-piplistoutdated
 pscommand_invoke-pipuninstall
+pscommand_invoke-pyenv
+pscommand_invoke-pylintreportsdisabled
 pscommand_invoke-ruby
 pscommand_invoke-rubyexecute
 pscommand_invoke-rubyexecutehttpdhere
@@ -6327,17 +6327,6 @@ pscommand_invoke-vagrantstatus
 pscommand_invoke-vagrantsuspend
 pscommand_invoke-vagrantup
 pscommand_invoke-vagrantuplogged
-pscommand_invoke-vaultdelete
-pscommand_invoke-vaultlist
-pscommand_invoke-vaultloginviagithub
-pscommand_invoke-vaultread
-pscommand_invoke-vaultreadfieldvalue
-pscommand_invoke-vaultrenew
-pscommand_invoke-vaultrevoke
-pscommand_invoke-vaultserver
-pscommand_invoke-vaultstatus
-pscommand_invoke-vaultversion
-pscommand_invoke-vaultwrite
 pscommand_invoke-vscodeadd
 pscommand_invoke-vscodediff
 pscommand_invoke-vscodeforpwd
@@ -6662,6 +6651,8 @@ pscommand_pvenv
 pscommand_pwh
 pscommand_pwshrc-show-proxy
 pscommand_py
+pscommand_pyenv
+pscommand_pylint-quick
 pscommand_pyserver
 pscommand_python
 pscommand_python3
@@ -6828,16 +6819,6 @@ pscommand_uuid
 pscommand_uuidgen
 pscommand_uuidl
 pscommand_uuidu
-pscommand_vad
-pscommand_vag
-pscommand_val
-pscommand_var
-pscommand_varn
-pscommand_varv
-pscommand_vas
-pscommand_vasrv
-pscommand_vav
-pscommand_vaw
 pscommand_vdstr
 pscommand_vh
 pscommand_vhl
@@ -7588,6 +7569,8 @@ psfunction_invoke-pipinstall
 psfunction_invoke-pipinstallupgrade
 psfunction_invoke-piplistoutdated
 psfunction_invoke-pipuninstall
+psfunction_invoke-pyenv
+psfunction_invoke-pylintreportsdisabled
 psfunction_invoke-ruby
 psfunction_invoke-rubyexecute
 psfunction_invoke-rubyexecutehttpdhere
@@ -7740,17 +7723,6 @@ psfunction_invoke-vagrantstatus
 psfunction_invoke-vagrantsuspend
 psfunction_invoke-vagrantup
 psfunction_invoke-vagrantuplogged
-psfunction_invoke-vaultdelete
-psfunction_invoke-vaultlist
-psfunction_invoke-vaultloginviagithub
-psfunction_invoke-vaultread
-psfunction_invoke-vaultreadfieldvalue
-psfunction_invoke-vaultrenew
-psfunction_invoke-vaultrevoke
-psfunction_invoke-vaultserver
-psfunction_invoke-vaultstatus
-psfunction_invoke-vaultversion
-psfunction_invoke-vaultwrite
 psfunction_invoke-vscodeadd
 psfunction_invoke-vscodediff
 psfunction_invoke-vscodeforpwd
@@ -8161,7 +8133,9 @@ pwshake
 pwshfw
 pwshrc
 pxedistributionpoint
+pyenv
 pygmentize
+pylint
 pyranja
 python
 python-for-dotnet
@@ -8504,6 +8478,7 @@ robot
 robust
 roca
 rock
+rocket
 rocketcyber
 roco
 rocolatey
@@ -8643,6 +8618,7 @@ scheduled
 scheduled-task
 scheduled-tasks
 scheduledjob
+scheduledtask
 scheduledtasks
 scheduler
 schedules-execution
@@ -8679,6 +8655,8 @@ screensaver
 screenshot
 script
 script_version
+script-to-assembly
+script-to-executable
 scriptanalyzer
 scriptblock
 scriptblocklogging
@@ -8689,6 +8667,7 @@ scriptcs
 scriptedui
 scripting
 scriptlogging
+scriptoform
 scriptrunner
 scripts
 scriptsmonitoring
@@ -8842,6 +8821,7 @@ session
 sessionize
 sessions
 set
+set_bios
 set-alias
 set-dnsservers
 set-githubsecrets
@@ -8854,6 +8834,7 @@ set-psbreakpoint
 set-psenv
 set-randompass
 set-type
+setbios
 sets
 setting
 settings
@@ -9091,6 +9072,7 @@ sourcequery
 sovcloud
 space
 spaces
+spacex
 spam
 spanner
 spark
@@ -9344,6 +9326,7 @@ support-tool
 support-tools
 suppress
 supress-reboot
+surround
 survey
 surveymonkey
 sus
@@ -9743,6 +9726,7 @@ twitter-client
 twitter-follow
 twitter-hashtag
 twitter-mention
+twitter-share
 twitter-timeline
 twitter-tweet
 txt
@@ -9854,6 +9838,7 @@ unique-files
 unit
 unit_testing
 unit-testing
+unitconvesion
 unittest
 unittesting
 unity
@@ -9943,7 +9928,6 @@ utm
 uudecode
 uuencode
 uuid
-uup
 uw
 uwp
 ux
@@ -10024,6 +10008,7 @@ vie
 viewer
 vigenere
 vim
+vimode
 virole
 virsh
 virtual
@@ -10149,7 +10134,6 @@ vxrail
 w32time
 w365
 w3svc
-w3w
 waa
 waas
 wac
@@ -10238,7 +10222,6 @@ wem
 wemsdk
 wer
 wget
-what3words
 whatismyip
 whatsnew
 whatsupgold
@@ -10437,7 +10420,6 @@ ws-federation
 wsapi
 wsb
 wsl
-wsl2
 wsl2 psmodule psedition_core
 wsman
 wsmanlistener
