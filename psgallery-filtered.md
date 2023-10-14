@@ -3,13 +3,85 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
-## [Utilities](https://www.powershellgallery.com/Packages/Utilities/0.0.29) | 0.0.29
+## [PSModule.FX](https://www.powershellgallery.com/Packages/PSModule.FX/0.0.19) | 0.0.19
 
-### Published: 10/14/2023 09:44:52 by Marius Storhaug
+### Published: 10/14/2023 17:42:50 by Marius Storhaug
+
+PSModule Framework PowerShell Module
+
+__Downloads__: 6 | __Repository__: https://github.com/PSModule/PSModule.FX
+
+## [PublicIP](https://www.powershellgallery.com/Packages/PublicIP/0.0.11) | 0.0.11
+
+### Published: 10/14/2023 11:05:30 by Marius Storhaug
+
+PowerShell Module for Public IP
+
+__Downloads__: 95 | __Repository__: https://github.com/MariusStorhaug/PublicIP
+
+## [NerdFonts](https://www.powershellgallery.com/Packages/NerdFonts/0.0.14) | 0.0.14
+
+### Published: 10/14/2023 11:05:26 by Marius Storhaug
+
+A PowerShell module to manage NerdFonts
+
+__Downloads__: 130 | __Repository__: https://github.com/MariusStorhaug/NerdFonts
+
+## [Utilities](https://www.powershellgallery.com/Packages/Utilities/0.0.31) | 0.0.31
+
+### Published: 10/14/2023 11:05:25 by Marius Storhaug
 
 PowerShell Module of Utilities
 
 __Downloads__: 845 | __Repository__: https://github.com/MariusStorhaug/Utilities
+
+## [PATH](https://www.powershellgallery.com/Packages/PATH/0.0.13) | 0.0.13
+
+### Published: 10/14/2023 11:05:25 by Marius Storhaug
+
+A PowerShell module for managing the PATH environment variable.
+
+__Downloads__: 122 | __Repository__: https://github.com/MariusStorhaug/PATH
+
+## [Fonts](https://www.powershellgallery.com/Packages/Fonts/0.0.26) | 0.0.26
+
+### Published: 10/14/2023 11:05:16 by Marius Storhaug
+
+Manage fonts on a Windows system
+
+__Downloads__: 257 | __Repository__: https://github.com/MariusStorhaug/Fonts
+
+## [PowerShellGallery](https://www.powershellgallery.com/Packages/PowerShellGallery/0.0.2) | 0.0.2
+
+### Published: 10/14/2023 11:05:11 by Marius Storhaug
+
+A PowerShell module for managing the PowerShell Gallery.
+
+__Downloads__: 12 | __Repository__: https://github.com/PSModule/PowerShellGallery
+
+## [ConvertFrom-RegEx](https://www.powershellgallery.com/Packages/ConvertFrom-RegEx/0.5.2) | 0.5.2
+
+### Published: 10/14/2023 11:05:00 by hmmwhatsthisdo
+
+PowerShell module for deserializing text via Regular Expressions
+
+__Downloads__: 8 | __Repository__: https://github.com/hmmwhatsthisdo/ConvertFrom-RegEx
+
+## [GitHub](https://www.powershellgallery.com/Packages/GitHub/0.3.34) | 0.3.34
+
+### Published: 10/14/2023 10:58:41 by Marius Storhaug
+
+GitHub PowerShell Module
+
+__Downloads__: 2,379 | __Repository__: https://github.com/PSModule/GitHub
+
+## [MacAddress](https://www.powershellgallery.com/Packages/MacAddress/1.2.2) | 1.2.2
+
+### Published: 10/14/2023 10:18:18 by Saw-Friendship
+
+Get Hardware Vendor by MacAddress. Contains Database from IEEE site for offline using. Use Update-MacAddressDatabase commandlet for update Database
+
+__Downloads__: 28 | __Repository__: 
 
 ## [Generate-DockerImageVariantsHelpers](https://www.powershellgallery.com/Packages/Generate-DockerImageVariantsHelpers/0.19.0) | 0.19.0
 
@@ -33,7 +105,7 @@ __Downloads__: 0 | __Repository__: https://github.com/variableresistor/NexusIQ
 
 The community module that enables SQL Server Pros to automate database development and server administration
 
-__Downloads__: 3,201,243 | __Repository__: https://dbatools.io/
+__Downloads__: 3,201,190 | __Repository__: https://dbatools.io/
 
 ## [Get-AzVMSku](https://www.powershellgallery.com/Packages/Get-AzVMSku/1.8) | 1.8
 
@@ -49,15 +121,7 @@ __Downloads__: 14 | __Repository__: https://codeterraform.com/
 
 This PowerShell module contains functions that facilitate querying and create, update, and delete (mutations) operations for GraphQL endpoints.
 
-__Downloads__: 39,519 | __Repository__: https://github.com/anthonyg-1/PSGraphQL
-
-## [PSModule.FX](https://www.powershellgallery.com/Packages/PSModule.FX/0.0.6) | 0.0.6
-
-### Published: 10/13/2023 20:35:33 by Marius Storhaug
-
-PSModule Framework PowerShell Module
-
-__Downloads__: 6 | __Repository__: https://github.com/PSModule/PSModule.FX
+__Downloads__: 39,523 | __Repository__: https://github.com/anthonyg-1/PSGraphQL
 
 ## [GitlabCli](https://www.powershellgallery.com/Packages/GitlabCli/1.104.0) | 1.104.0
 
@@ -231,7 +295,7 @@ __Downloads__: 2,334 | __Repository__:
 PowerShell module to import/export Excel spreadsheets, without Excel.
 Check out the How To Videos https://www.youtube.com/watch?v=U3Ne_yX4tYo&list=PL5uoqS92stXioZw-u-ze_NtvSo0k0K0kq
 
-__Downloads__: 3,744,015 | __Repository__: https://github.com/dfinke/ImportExcel
+__Downloads__: 3,743,961 | __Repository__: https://github.com/dfinke/ImportExcel
 
 ## [PowerPlatformCLIAutoComplete](https://www.powershellgallery.com/Packages/PowerPlatformCLIAutoComplete/1.0.2) | 1.0.2
 
@@ -365,7 +429,7 @@ __Downloads__: 30 | __Repository__: https://github.com/Panzerbjrn/GeneralHelperM
 
 Mandatory module for the foundation PowerShell scripts.
 
-__Downloads__: 13,033 | __Repository__: 
+__Downloads__: 13,029 | __Repository__: 
 
 ## [VegaShell](https://www.powershellgallery.com/Packages/VegaShell/1.2.7) | 1.2.7
 
@@ -397,7 +461,7 @@ __Downloads__: 2 | __Repository__: https://github.com/wietsesas/PowerML
 
 A PowerShell toolbox for Microsoft 365 security fans.
 
-__Downloads__: 19,857 | __Repository__: https://github.com/DanielChronlund/DCToolbox
+__Downloads__: 19,855 | __Repository__: https://github.com/DanielChronlund/DCToolbox
 
 ## [ExchangeOnlineArchiveTransfer](https://www.powershellgallery.com/Packages/ExchangeOnlineArchiveTransfer/1.0.2) | 1.0.2
 
@@ -438,14 +502,6 @@ __Downloads__: 97 | __Repository__: https://github.com/Panzerbjrn/ThoughtForTheD
 Implementation of Test-Json for Powershell 5.1
 
 __Downloads__: 6 | __Repository__: https://github.com/mdlopresti/ValidateJson
-
-## [GitHub](https://www.powershellgallery.com/Packages/GitHub/0.3.33) | 0.3.33
-
-### Published: 10/12/2023 05:49:45 by Marius Storhaug
-
-GitHub PowerShell Module
-
-__Downloads__: 2,379 | __Repository__: https://github.com/PSModule/GitHub
 
 ## [F5-LTM](https://www.powershellgallery.com/Packages/F5-LTM/1.4.338) | 1.4.338
 
@@ -600,7 +656,7 @@ __Downloads__: 1,232 | __Repository__: https://github.com/deadlydog/PowerShell.t
 
 Automation tools for production quality database deployment
 
-__Downloads__: 4,640,154 | __Repository__: https://www.red-gate.com/sca/productpage
+__Downloads__: 4,640,075 | __Repository__: https://www.red-gate.com/sca/productpage
 
 ## [BinaryTree.Internal.Power365.Dev](https://www.powershellgallery.com/Packages/BinaryTree.Internal.Power365.Dev/20.12.13.3112) | 20.12.13.3112
 
@@ -648,7 +704,7 @@ __Downloads__: 288 | __Repository__:
 
 Milestone XProtect VMS configuration and automation powered by the Milestone MIP SDK.
 
-__Downloads__: 208,037 | __Repository__: https://www.milestonepstools.com/
+__Downloads__: 208,038 | __Repository__: https://www.milestonepstools.com/
 
 ## [Import-Package](https://www.powershellgallery.com/Packages/Import-Package/0.0.8) | 0.0.8
 
@@ -678,7 +734,7 @@ These are contained within this PowerShell Module, so regular Module updating is
 ensure you receive the latest Microsoft Updates.  Updates published in WSUS will be different
 from Microsoft Update Catalog website due to Preview Releases
 
-__Downloads__: 344,086 | __Repository__: https://github.com/OSDeploy/OSDSUS
+__Downloads__: 344,084 | __Repository__: https://github.com/OSDeploy/OSDSUS
 
 ## [OSD](https://www.powershellgallery.com/Packages/OSD/23.10.10.1) | 23.10.10.1
 
@@ -1893,7 +1949,7 @@ __Downloads__: 31,450 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Microsoft Graph interactive API Functions
 
-__Downloads__: 5,510 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 5,511 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.Fun](https://www.powershellgallery.com/Packages/AdminToolbox.Fun/1.6.109) | 1.6.109
 
@@ -2127,60 +2183,4 @@ Module for PowerShell Universal.
 
 __Downloads__: 49,187 | __Repository__: https://ironmansoftware.com/powershell-universal
 
-## [DeployLibNorEvo](https://www.powershellgallery.com/Packages/DeployLibNorEvo/1.1) | 1.1
-
-### Published: 10/09/2023 13:31:22 by Mikael Karlsson
-
-Deploy functions library
-
-__Downloads__: 12 | __Repository__: 
-
-## [ResolveEntraID](https://www.powershellgallery.com/Packages/ResolveEntraID/1.0.0) | 1.0.0
-
-### Published: 10/09/2023 13:08:47 by Pascal Haag
-
-Module to Resolve Entra IDs
-
-__Downloads__: 9 | __Repository__: 
-
-## [RDG.Deployment.Utils](https://www.powershellgallery.com/Packages/RDG.Deployment.Utils/0.0.4) | 0.0.4
-
-### Published: 10/09/2023 12:42:37 by kristoffersvanmark
-
-Includes a set of utility functions for deployment
-
-__Downloads__: 100 | __Repository__: 
-
-## [365AutomatedLab](https://www.powershellgallery.com/Packages/365AutomatedLab/0.1.1) | 0.1.1
-
-### Published: 10/09/2023 11:53:48 by Clayton Tyger
-
-This module will allow you to create a 365 Development Environment from an Excel workbook
-
-__Downloads__: 11 | __Repository__: https://github.com/DevClate/365AutomatedLab
-
-## [RiverMeadow.Development.Migrate](https://www.powershellgallery.com/Packages/RiverMeadow.Development.Migrate/1.0.118.378) | 1.0.118.378
-
-### Published: 10/09/2023 06:30:17 by RiverMeadow Engineering Team
-
-Provides cmdlets for starting migration of applications to supported clouds using the RiverMeadow platform.
-
-__Downloads__: 462 | __Repository__: https://migrate.rivermeadow.com/
-
-## [DIDSearcher](https://www.powershellgallery.com/Packages/DIDSearcher/1.0.1) | 1.0.1
-
-### Published: 10/09/2023 06:14:23 by Darren J Robinson
-
-Search the ION and Web networks for DIDs to discover their keys and endpoints
-
-__Downloads__: 76 | __Repository__: https://github.com/darrenjrobinson/decentralized_identity_searcher
-
-## [InstallLatestModule](https://www.powershellgallery.com/Packages/InstallLatestModule/1.0.9) | 1.0.9
-
-### Published: 10/09/2023 00:08:59 by Powershellcrack
-
-A module to update powershell modules
-
-__Downloads__: 79 | __Repository__: https://github.com/PowerShellCrack/InstallLatestModulesPSModule
-
-*Updated: Saturday, 14 October 2023 09:52:44 UTC*
+*Updated: Saturday, 14 October 2023 17:52:58 UTC*
