@@ -3,6 +3,38 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [Utilities](https://www.powershellgallery.com/Packages/Utilities/0.0.29) | 0.0.29
+
+### Published: 10/14/2023 09:44:52 by Marius Storhaug
+
+PowerShell Module of Utilities
+
+__Downloads__: 845 | __Repository__: https://github.com/MariusStorhaug/Utilities
+
+## [Generate-DockerImageVariantsHelpers](https://www.powershellgallery.com/Packages/Generate-DockerImageVariantsHelpers/0.19.0) | 0.19.0
+
+### Published: 10/14/2023 05:48:43 by The Oh Brothers
+
+Helpers to use with Generate-DockerImageVariants.
+
+__Downloads__: 513 | __Repository__: https://github.com/theohbrothers/Generate-DockerImageVariantsHelpers
+
+## [NexusIQ](https://www.powershellgallery.com/Packages/NexusIQ/1.0.0) | 1.0.0
+
+### Published: 10/14/2023 03:52:01 by Neil White
+
+Module acts as a wrapper for the Nexus IQ REST API
+
+__Downloads__: 0 | __Repository__: https://github.com/variableresistor/NexusIQ
+
+## [dbatools](https://www.powershellgallery.com/Packages/dbatools/2.1.4) | 2.1.4
+
+### Published: 10/14/2023 02:24:37 by the dbatools team
+
+The community module that enables SQL Server Pros to automate database development and server administration
+
+__Downloads__: 3,201,243 | __Repository__: https://dbatools.io/
+
 ## [Get-AzVMSku](https://www.powershellgallery.com/Packages/Get-AzVMSku/1.8) | 1.8
 
 ### Published: 10/13/2023 22:15:38 by Christoffer Windahl Madsen
@@ -114,7 +146,7 @@ __Downloads__: 1,992 | __Repository__: https://github.com/anthonyg-1/PSTcpIp
 
 A module for efficient file management, enabling seamless file downloads from Azure Blob storage, file hash comparisons, and a suite of essential file operations.
 
-__Downloads__: 26,611 | __Repository__: 
+__Downloads__: 26,609 | __Repository__: 
 
 ## [TheDashboard](https://www.powershellgallery.com/Packages/TheDashboard/0.0.15) | 0.0.15
 
@@ -333,7 +365,7 @@ __Downloads__: 30 | __Repository__: https://github.com/Panzerbjrn/GeneralHelperM
 
 Mandatory module for the foundation PowerShell scripts.
 
-__Downloads__: 13,038 | __Repository__: 
+__Downloads__: 13,033 | __Repository__: 
 
 ## [VegaShell](https://www.powershellgallery.com/Packages/VegaShell/1.2.7) | 1.2.7
 
@@ -568,7 +600,7 @@ __Downloads__: 1,232 | __Repository__: https://github.com/deadlydog/PowerShell.t
 
 Automation tools for production quality database deployment
 
-__Downloads__: 4,640,094 | __Repository__: https://www.red-gate.com/sca/productpage
+__Downloads__: 4,640,154 | __Repository__: https://www.red-gate.com/sca/productpage
 
 ## [BinaryTree.Internal.Power365.Dev](https://www.powershellgallery.com/Packages/BinaryTree.Internal.Power365.Dev/20.12.13.3112) | 20.12.13.3112
 
@@ -616,7 +648,7 @@ __Downloads__: 288 | __Repository__:
 
 Milestone XProtect VMS configuration and automation powered by the Milestone MIP SDK.
 
-__Downloads__: 208,035 | __Repository__: https://www.milestonepstools.com/
+__Downloads__: 208,037 | __Repository__: https://www.milestonepstools.com/
 
 ## [Import-Package](https://www.powershellgallery.com/Packages/Import-Package/0.0.8) | 0.0.8
 
@@ -654,7 +686,7 @@ __Downloads__: 344,086 | __Repository__: https://github.com/OSDeploy/OSDSUS
 
 October Update 2023
 
-__Downloads__: 988,959 | __Repository__: https://github.com/OSDeploy/OSD
+__Downloads__: 988,934 | __Repository__: https://github.com/OSDeploy/OSD
 
 ## [SdnDiagnostics](https://www.powershellgallery.com/Packages/SdnDiagnostics/3.2310.818.55608) | 3.2310.818.55608
 
@@ -685,14 +717,6 @@ __Downloads__: 375 | __Repository__: https://github.com/masesgroup/KNet
 xProgress module provides functions to enable progress display in Powershell functions, modules, and scripts where progress intervals are used to write progress for intervals other than every record (for performance reasons as Write-Progress is expensive to performance) and to automatically provide counter and timer functionality for percentage complete and seconds remaining calculations.
 
 __Downloads__: 168 | __Repository__: 
-
-## [dbatools](https://www.powershellgallery.com/Packages/dbatools/2.1.3) | 2.1.3
-
-### Published: 10/10/2023 23:27:56 by the dbatools team
-
-The community module that enables SQL Server Pros to automate database development and server administration
-
-__Downloads__: 3,201,243 | __Repository__: https://dbatools.io/
 
 ## [OCI.PSModules](https://www.powershellgallery.com/Packages/OCI.PSModules/67.4.0) | 67.4.0
 
@@ -1869,7 +1893,7 @@ __Downloads__: 31,450 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Microsoft Graph interactive API Functions
 
-__Downloads__: 5,511 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 5,510 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.Fun](https://www.powershellgallery.com/Packages/AdminToolbox.Fun/1.6.109) | 1.6.109
 
@@ -2159,28 +2183,4 @@ A module to update powershell modules
 
 __Downloads__: 79 | __Repository__: https://github.com/PowerShellCrack/InstallLatestModulesPSModule
 
-## [IdentityCommand](https://www.powershellgallery.com/Packages/IdentityCommand/0.1.43) | 0.1.43
-
-### Published: 10/08/2023 20:46:27 by Pete Maan
-
-Enables user interaction with the API for the CyberArk Identity platform
-
-__Downloads__: 82 | __Repository__: https://github.com/pspete/IdentityCommand/
-
-## [PushTeamsMessageUsingIncomingWebhook](https://www.powershellgallery.com/Packages/PushTeamsMessageUsingIncomingWebhook/1.0.0) | 1.0.0
-
-### Published: 10/08/2023 20:42:12 by pr_prakash78@outlook.com
-
-This Crosplatform (Tested on Ubuntu and Windows with Powershell 7.3.6 and above) Module will help you to send Text Messages with Images less than 20 KB to your Teams Channel with Incoming Webhook  confugured. This can be useful when you want to set Server alert to Teams. For more please visit my blog https://prakash78blog.wordpress.com/
-
-__Downloads__: 3 | __Repository__: https://github.com/prax78/Send-Messages-To-Teams-Cross-Platform-Module
-
-## [psPAS](https://www.powershellgallery.com/Packages/psPAS/6.0.21) | 6.0.21
-
-### Published: 10/08/2023 19:34:14 by Pete Maan
-
-Module for CyberArk Privileged Access Security Web Service REST API
-
-__Downloads__: 79,837 | __Repository__: https://pspas.pspete.dev/
-
-*Updated: Saturday, 14 October 2023 02:01:24 UTC*
+*Updated: Saturday, 14 October 2023 09:52:44 UTC*
