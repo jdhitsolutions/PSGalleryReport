@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Sunday, 15 October 2023 09:52:52 UTC
+Updated: Sunday, 15 October 2023 17:52:57 UTC
 
 .bat
 .env
@@ -71,7 +71,6 @@ abe
 about
 abr
 abstractsyntaxtree
-abuse
 abuseipdb
 acas
 accelerator
@@ -329,8 +328,6 @@ anonymous
 anova
 ansi
 ansible
-ansible-control-node
-ansiblecontrolnode
 antimalwarescaninterface
 antispam
 antivirus
@@ -347,6 +344,7 @@ api-client
 api-gateway
 api-rest
 apichecks
+apiclient
 apigateway
 apigee
 apigeeedge
@@ -588,6 +586,7 @@ aws-vault
 awscli
 awspricelist
 axapta
+axinom
 axis
 axium
 az
@@ -645,8 +644,6 @@ azurebasicloadbalancerupgrade
 azurecli
 azurecognitiveservices
 azureconnectedmachine
-azurecontainerapps
-azurecontainers
 azuredatabricks
 azuredataexplorer
 azuredatastudio
@@ -666,6 +663,7 @@ azuremigrate
 azuremonitor
 azurenetworking
 azurepack
+azurepipelines
 azurepolicy
 azurepowershell
 azurerepos
@@ -820,6 +818,7 @@ blocks
 blog
 blogs
 bls
+blue
 bluedolhin
 blueprint
 blueprints
@@ -846,7 +845,6 @@ bop
 bot
 bots
 botservice
-bouncer
 boundaries
 boundarygroups
 bounty
@@ -889,6 +887,7 @@ bugzilla
 build
 build-log
 build-scripts
+builddefinition
 builder
 building
 buildingfile
@@ -940,7 +939,6 @@ campaign
 camtasia
 canarie
 cancel
-cancellation
 canonical
 cantara
 capability
@@ -1222,7 +1220,6 @@ codaamok
 code
 code-page
 code365
-codeanalysis
 codebuild
 codecommit
 codecomplexity
@@ -1447,8 +1444,6 @@ couchbase
 couchdb
 couchpotato
 count
-count-lines-of-code
-count-loc
 countdown
 counter
 countries
@@ -1472,6 +1467,8 @@ cqhttp
 crack psmodule
 crash
 crayon
+crc
+crc32
 create
 createcolumn
 createdatabase
@@ -1535,7 +1532,6 @@ csvhelper
 ctf
 ctglobal
 ctl
-ctrl+c
 ctx
 ctype
 cubes
@@ -1586,6 +1582,8 @@ cyberdrain
 cybereason
 cybersecurity
 cyberwatch
+cyclic
+cyclicredundancycheck
 cygwin
 cylance
 cypher
@@ -1677,6 +1675,7 @@ datto
 dattormm
 datum
 dave
+davinci
 dax
 dayinweek
 days-week
@@ -1882,7 +1881,6 @@ distributionpointgroupmembers
 distrubtionpoint
 dividends
 diving
-division
 divoom
 dkim
 dkschrutebeets
@@ -2250,6 +2248,7 @@ event-timeline
 eventchannel
 eventchannels
 eventcollector
+eventful
 eventgrid
 eventhub
 eventing
@@ -2472,8 +2471,6 @@ financial
 financialedge
 financials
 find
-find-call
-find-caller
 find-file
 find-path
 finddownloadlinkfromwebsite
@@ -2727,7 +2724,6 @@ git-hf
 git-hubflow
 git-lfs
 git-proxy
-git-stat
 gitcmdline
 gitdesktop
 gitea
@@ -3176,6 +3172,7 @@ importexport
 importteams
 inactive
 inboxrule
+incident
 incident-response
 incidentresponse
 incontact
@@ -3246,7 +3243,6 @@ integratedscriptingeditor
 integration
 integrationaccount
 integrationruntime
-integrationruntimedependency
 integrationservicescatalog
 integrity
 intel
@@ -3659,7 +3655,6 @@ loader
 loadtesting
 loanddepot
 loandepot
-loc
 local
 local-caching
 local-policy
@@ -3874,7 +3869,6 @@ mazerat
 mb
 mbc
 mbs
-mc
 mcafee
 mcas
 mcd
@@ -3895,7 +3889,6 @@ mdx
 me4024
 mean
 measure
-measure-loc
 measure-process
 mecm
 media
@@ -4027,7 +4020,6 @@ mlflow
 mmdc
 mobile
 mobilenetwork
-mobilitycontroller
 mock
 mocking
 model
@@ -4134,6 +4126,7 @@ msteams
 mstest
 mstsc
 msu
+msvc
 msword
 mta-sts
 mule
@@ -4377,6 +4370,7 @@ nva
 nvdimm
 nvdimm-n
 nvm
+nvm-window
 nxt
 nyse
 nzb
@@ -4727,6 +4721,7 @@ perl
 permission
 permissions
 permutations
+persistence
 persistent
 personal
 personalisation
@@ -4818,7 +4813,6 @@ poetry
 point
 point-to-site
 pointer
-pokeapi
 pokedex
 pokemon
 poker
@@ -4948,7 +4942,7 @@ powerbiembeddedcapacity
 powerbot
 powercli
 powercligoodies
-powerdex
+powercommander
 powerforensics
 powergraph
 powergui
@@ -5012,7 +5006,6 @@ powertab
 powertoolcmdlets
 powertooldsc
 ppdm
-ppk
 pposh
 pps
 ppt
@@ -8053,7 +8046,6 @@ psincludes_command
 psincludes_function
 psini
 psinsight
-psintune
 psise
 psitem
 psjob
@@ -8157,6 +8149,7 @@ pure
 pure1
 pureservice
 purestorage
+purple
 purview
 push
 push-location
@@ -8315,6 +8308,7 @@ recursion
 recursivefilesandfoldersdownload
 recursivefilesandfoldersupload
 recyclebin
+red
 redact
 redaction
 reddit
@@ -8334,8 +8328,8 @@ redkite
 redseal
 redshift
 redteaming
+redundancy
 refactor
-refactoring
 refeds
 refeds-mfa
 refedsmfa
@@ -8370,6 +8364,7 @@ reinstall
 relational
 relay
 release
+releasedefinition
 releasehealth
 releasemanagement
 releasenotes
@@ -8503,7 +8498,6 @@ rightjoin
 rights
 rightsizing
 rightsmanagement
-ripe
 risk
 riskiq
 riskpro
@@ -9054,7 +9048,6 @@ sni
 snipe-it
 snippet
 snippets
-snippets-manager
 snippit
 snmp
 snmpget
@@ -9128,6 +9121,7 @@ spdockit
 spdx
 spdx-license-identifier:ms-pl
 spe
+speach
 speak
 speaker
 spec
@@ -9318,8 +9312,6 @@ strictmode
 strikethrough-text
 string
 string-template
-stringmanager
-stringmanagertool
 strings
 stringutilities
 strip-ansi
@@ -9485,6 +9477,7 @@ task-runner
 task-scheduler
 taskbar
 tasker
+taskgroup
 taskmanagement
 tasks
 taskscheduler
@@ -9514,7 +9507,6 @@ techedna2014
 techlog
 technology
 techsmith
-tel
 telegram
 telegram-bot
 telegram-bot-api
@@ -9533,7 +9525,6 @@ temporary
 tenable
 tenable.sc
 tenant
-tenantmanagercontrolplane
 teradata
 termbin
 terminal
@@ -9574,6 +9565,7 @@ testtool
 testusers
 text
 text-to-image
+text-to-speach"
 text-to-speech
 text2image
 textanalysis
@@ -9634,6 +9626,8 @@ tip
 tips
 title
 tls
+tls11
+tls12
 tlsa
 tlsprotocol
 tlsrpt
@@ -9658,7 +9652,6 @@ toolkit
 tools
 tools4ever
 topdesk
-topgrade
 topics
 topology
 tor
@@ -9771,7 +9764,6 @@ twitter-client
 twitter-follow
 twitter-hashtag
 twitter-mention
-twitter-share
 twitter-timeline
 twitter-tweet
 txt
@@ -9841,7 +9833,6 @@ ud-timeout
 ud-tool
 ud-toploader
 ud-trendline
-ud-typing
 ud-window
 ud-wordtree
 udcm
@@ -10003,6 +9994,7 @@ vaultwarden
 vb365
 vba
 vbaproject
+vbproj
 vbr
 vbscript
 vbsinst
@@ -10015,6 +10007,7 @@ vcm
 vco
 vcs
 vcsa
+vcvars
 vdi
 vdp
 vdportgroup
@@ -10026,7 +10019,6 @@ veeam
 veeampn
 veeva
 venafi
-vencord
 vendor
 venue
 venvlink
@@ -10187,7 +10179,6 @@ wait4x
 waitforobject
 wakeonlan
 wakeup
-walk
 wallet
 wallpaper
 wallpapers
