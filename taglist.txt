@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 16 October 2023 02:04:46 UTC
+Updated: Monday, 16 October 2023 09:53:03 UTC
 
 .bat
 .env
@@ -412,8 +412,6 @@ apt-get
 apt-get-update
 apteco
 aptitude
-aql
-arangodb
 arc
 arcade
 arcgis
@@ -586,7 +584,6 @@ aws_profile
 aws-codebuild
 aws-lambda
 aws-vault
-awscli
 awspricelist
 axapta
 axinom
@@ -908,6 +905,7 @@ bulletin
 bullhorn
 bundle
 bup
+burnttoast
 burpsuite
 bus
 business
@@ -1451,6 +1449,8 @@ couchbase
 couchdb
 couchpotato
 count
+count-lines-of-code
+count-loc
 countdown
 counter
 countries
@@ -1611,7 +1611,6 @@ dagger
 daily
 dane
 dangling
-dapr
 dare
 dark
 dash
@@ -1829,6 +1828,7 @@ digital-forensics
 digitalforensics
 digitalocean
 digitaltwins
+dilbert
 dimcry
 dircolors
 director
@@ -1875,6 +1875,7 @@ dism
 dismal
 display
 displayresolution
+distance
 distinguishedname
 distributed-systems
 distributedcache
@@ -1922,6 +1923,7 @@ dnsrecord
 dnsresolver
 dnssec
 dnsserver
+dnssuffix
 dnvm
 doc
 docfx
@@ -2126,7 +2128,6 @@ elm
 elmah-io
 elonmusk
 eloqua
-elvui
 em
 emacs
 email
@@ -2282,6 +2283,7 @@ evtx
 ews
 exact
 example
+examples
 excel
 exception
 exceptionless
@@ -2311,6 +2313,7 @@ execute
 exexml
 exif
 exiftool
+exists
 exitcode
 exitprocessrequest
 exo
@@ -2432,6 +2435,7 @@ fileattributes
 fileencryption
 filelist
 filelog
+filelogger
 filemanagement
 filematcher
 filename
@@ -2549,7 +2553,6 @@ formatdata
 formatformat-tableformat-listformat-wideformat-customformat-defaultout-defaultout-fileout-hostout-printerout-string
 formatting
 forms
-fortiauth
 forticlient
 fortify
 fortifyondemand
@@ -2729,6 +2732,7 @@ git-hf
 git-hubflow
 git-lfs
 git-proxy
+git-stat
 gitcmdline
 gitdesktop
 gitea
@@ -2830,6 +2834,7 @@ groupmembership
 grouppolicy
 groups
 grouvee
+growlnotify
 grr
 gsuite
 gtx1080ti
@@ -2938,7 +2943,6 @@ helper-functions
 helperfunctions
 helpers
 helpfile
-heml
 here
 hewlett
 hewlett-packard
@@ -3265,6 +3269,8 @@ internetconnection
 internetexplorer
 intersight
 intersightcmdlets
+interval
+interval-timer
 intigua
 intranet
 intrusion
@@ -3450,6 +3456,7 @@ katakana
 kb
 kbarticle
 kdbx
+kdialog
 keenetic
 keepachangelog
 keepass
@@ -3499,7 +3506,6 @@ kraken
 krbtgt
 krick
 kschemaplugin
-kubclt
 kube
 kubectl
 kubectx
@@ -3567,8 +3573,12 @@ leafs
 league
 lean
 learn
+learn-powershell
+learn-powershell-series
 learning
+learning-powershell
 learningpowershell
+learnpowershell
 lease
 leetabit
 leftjoin
@@ -3652,6 +3662,7 @@ loader
 loadtesting
 loanddepot
 loandepot
+loc
 local
 local-caching
 local-policy
@@ -3845,6 +3856,7 @@ marvellfcprovider
 marvellqlogicfcpowerkit
 mas
 mask
+mass
 masstransit
 masterconfiguration
 matcharray
@@ -3883,8 +3895,10 @@ mdm
 mdop
 mdt
 mdx
+me4024
 mean
 measure
+measure-loc
 measure-process
 mecm
 media
@@ -3939,7 +3953,6 @@ mi
 micro-orm
 microfocus
 microk8s
-microservices
 microsoft
 microsoft_365
 microsoft_azure
@@ -4210,6 +4223,7 @@ nessus
 nested
 net
 net4.8
+netadapter
 netapi32
 netapp
 netapp_ontap_powershell_toolkit
@@ -4321,8 +4335,10 @@ notes
 notification
 notificationhubs
 notifications
+notifu
 notify
 notify-send
+notify-send-wsl
 nova
 npgsql
 npm
@@ -4820,6 +4836,7 @@ policystate
 poll
 polly
 polycom
+pomodoro
 ponduit
 pool
 poop
@@ -4835,6 +4852,7 @@ port70
 portal
 ports
 portscan
+porttest
 pos
 posershellise
 posh
@@ -4870,6 +4888,7 @@ poshy-ls-isms
 poshy-lucidity
 poshy-multimedia
 poshy-net
+poshy-notify-send
 poshy-sh-isms
 poshy-sshconfig
 poshy-viewer-finder
@@ -4907,6 +4926,7 @@ poshy-wrap-terraform
 poshy-wrap-terragrunt
 poshy-wrap-tmux
 poshy-wrap-vagrant
+poshy-wrap-vault
 poshy-wrap-vscode
 poshy-wrap-wget
 poshy-wrap-wt
@@ -4951,8 +4971,10 @@ powershell-class
 powershell-cmdlets
 powershell-core
 powershell-core-releases-api
+powershell-course
 powershell-credentials
 powershell-dsc
+powershell-examples
 powershell-gallery
 powershell-github-repo
 powershell-isprime
@@ -4964,6 +4986,7 @@ powershell-remoting
 powershell-script
 powershell-terminal
 powershell-terminal-copilot
+powershell-training
 powershell.module.invokewinget
 powershell.one
 powershell.persistentpathstack
@@ -4972,6 +4995,8 @@ powershellai
 powershellazuresql
 powershellconferenceeurope
 powershellcore
+powershellcourse
+powershellexamples
 powershellfar
 powershellgallery
 powershellget
@@ -4983,6 +5008,7 @@ powershellmoduleupdate
 powershellpr0mpt
 powershellscript
 powershelltemplate
+powershelltraining
 powershelltypeaccelerators
 powershelluniversal
 powershellv5
@@ -4992,6 +5018,7 @@ powertab
 powertoolcmdlets
 powertooldsc
 ppdm
+ppk
 pposh
 pps
 ppt
@@ -5116,6 +5143,7 @@ prtgnetworkmonitor
 ps
 ps-ncentral
 ps.credentialmanager
+ps1
 ps1xml
 ps1xmlgen
 ps2dll
@@ -6319,6 +6347,17 @@ pscommand_invoke-vagrantstatus
 pscommand_invoke-vagrantsuspend
 pscommand_invoke-vagrantup
 pscommand_invoke-vagrantuplogged
+pscommand_invoke-vaultdelete
+pscommand_invoke-vaultlist
+pscommand_invoke-vaultloginviagithub
+pscommand_invoke-vaultread
+pscommand_invoke-vaultreadfieldvalue
+pscommand_invoke-vaultrenew
+pscommand_invoke-vaultrevoke
+pscommand_invoke-vaultserver
+pscommand_invoke-vaultstatus
+pscommand_invoke-vaultversion
+pscommand_invoke-vaultwrite
 pscommand_invoke-vscodeadd
 pscommand_invoke-vscodediff
 pscommand_invoke-vscodeforpwd
@@ -6573,6 +6612,7 @@ pscommand_nmap_ping_through_firewall
 pscommand_nmap_slow
 pscommand_nmap_traceroute
 pscommand_nmap_web_safe_osscan
+pscommand_notify-send-fallback
 pscommand_npm-disable-proxy
 pscommand_npm-enable-proxy
 pscommand_npm-show-proxy
@@ -6810,6 +6850,16 @@ pscommand_uuid
 pscommand_uuidgen
 pscommand_uuidl
 pscommand_uuidu
+pscommand_vad
+pscommand_vag
+pscommand_val
+pscommand_var
+pscommand_varn
+pscommand_varv
+pscommand_vas
+pscommand_vasrv
+pscommand_vav
+pscommand_vaw
 pscommand_vdstr
 pscommand_vh
 pscommand_vhl
@@ -6927,7 +6977,6 @@ psdesiredstateconfiguration
 psdevops
 psdocs
 psdocs-documents
-psdocsgenerator
 psdrawio
 psdrive
 psdrives
@@ -7714,6 +7763,17 @@ psfunction_invoke-vagrantstatus
 psfunction_invoke-vagrantsuspend
 psfunction_invoke-vagrantup
 psfunction_invoke-vagrantuplogged
+psfunction_invoke-vaultdelete
+psfunction_invoke-vaultlist
+psfunction_invoke-vaultloginviagithub
+psfunction_invoke-vaultread
+psfunction_invoke-vaultreadfieldvalue
+psfunction_invoke-vaultrenew
+psfunction_invoke-vaultrevoke
+psfunction_invoke-vaultserver
+psfunction_invoke-vaultstatus
+psfunction_invoke-vaultversion
+psfunction_invoke-vaultwrite
 psfunction_invoke-vscodeadd
 psfunction_invoke-vscodediff
 psfunction_invoke-vscodeforpwd
@@ -7822,6 +7882,7 @@ psfunction_nmap_ping_through_firewall
 psfunction_nmap_slow
 psfunction_nmap_traceroute
 psfunction_nmap_web_safe_osscan
+psfunction_notify-send-fallback
 psfunction_npm-disable-proxy
 psfunction_npm-enable-proxy
 psfunction_npm-show-proxy
@@ -8011,6 +8072,7 @@ psm1
 psmodule
 psmodule psedition_desktop
 psmodulepath
+psmodulepsedition_desktoppsedition_core
 psmodules
 psmp
 psmsgraph
@@ -8392,6 +8454,7 @@ resize
 resolution
 resolve
 resolve-stache
+resolve-template
 resolver
 resource
 resource_monitor
@@ -8498,6 +8561,7 @@ rpa
 rpc
 rras
 rrd
+rs
 rsa
 rsat
 rshell
@@ -8561,6 +8625,7 @@ saml psmodule
 saml2
 sample
 sampler
+san
 sandbox
 sanitization
 sanitizer
@@ -8638,6 +8703,7 @@ screencapture
 screenconnect
 screenfetch
 screenresolution
+screensaver
 screenshot
 script
 script_version
@@ -8955,7 +9021,6 @@ skytap
 slack
 slash
 slashcommands
-slmgr
 sln
 slugify
 sm
@@ -9432,7 +9497,6 @@ taskgroup
 taskmanagement
 tasks
 taskscheduler
-taxjar
 taxonomy
 tcp
 tcp/ip
@@ -9484,6 +9548,7 @@ terminal
 terminal-interface
 terminal-services
 terminal.gui
+terminalnotifier
 terminalvelocity
 termset
 terraform
@@ -9595,7 +9660,6 @@ toggl
 toggle
 token
 tokenlifetime
-tokens
 toml
 tookit
 tool
@@ -9634,6 +9698,7 @@ trafficmanager
 trafficmarking
 train
 training
+training-course
 tram
 transact
 transaction
@@ -9663,6 +9728,7 @@ trein
 trello
 trellops
 trend-micro
+trendmicro
 trevor
 trevorsullivan
 triangle
@@ -9695,6 +9761,7 @@ tst
 tst1
 tst3
 ttrpg
+tts
 tubedownloader
 tui
 tulpep
@@ -9748,7 +9815,6 @@ ud-component
 ud-confetti
 ud-control
 ud-dashboard
-ud-datepicker
 ud-field
 ud-flexytable
 ud-funnel
@@ -9826,6 +9892,7 @@ unique-files
 unit
 unit_testing
 unit-testing
+unitconvesion
 unittest
 unittesting
 unity
@@ -9945,6 +10012,7 @@ vaultwarden
 vb365
 vba
 vbaproject
+vbproj
 vbr
 vbscript
 vbsinst
@@ -10172,6 +10240,7 @@ webcamera
 webcmdlets
 webdav
 webdeploy
+webfrequest
 webhdfs
 webhelpdesk
 webhistory
@@ -10376,7 +10445,7 @@ workspaces
 workstation
 world
 worldcup
-wow
+worryfreebusinesssecurity
 wpad
 wpf
 wql
