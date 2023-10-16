@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 16 October 2023 09:53:03 UTC
+Updated: Monday, 16 October 2023 17:53:03 UTC
 
 .bat
 .env
@@ -98,7 +98,6 @@ acme
 acmesharp
 acmesharp_ext
 act-on
-act!
 actifio
 actifiogo
 action
@@ -195,7 +194,6 @@ adobject
 adouobject
 adoxio
 adp
-adr
 ads
 adsi
 adsite
@@ -256,7 +254,6 @@ alac
 alarm
 alb
 albums
-alc
 alero
 alert
 alerting
@@ -346,7 +343,6 @@ api
 api-client
 api-gateway
 api-rest
-apichecks
 apiclient
 apigateway
 apigee
@@ -412,6 +408,8 @@ apt-get
 apt-get-update
 apteco
 aptitude
+aql
+arangodb
 arc
 arcade
 arcgis
@@ -429,7 +427,6 @@ arcresourcebridge
 arcus
 area
 arg
-argcomplete
 argument
 argumentcompleter
 arguments
@@ -470,8 +467,6 @@ aspnet
 aspnet_regiis
 asr
 assembleenationale
-assembly
-assemblyloadcontext
 assemblymeta
 assert
 assertion
@@ -528,7 +523,6 @@ authorization
 authorizationheaders
 authorize.net
 authz
-autify
 auto
 auto_cd
 auto-completion
@@ -556,8 +550,6 @@ autotask
 autotaskapi
 autotaskpsa
 autounattend
-autoupdate
-autoupdate-script
 autoyast
 auvik
 availability
@@ -584,6 +576,7 @@ aws_profile
 aws-codebuild
 aws-lambda
 aws-vault
+awscli
 awspricelist
 axapta
 axinom
@@ -772,7 +765,6 @@ bigfix
 bigquery
 bikeshed
 billing
-billingbenefits
 bimi
 bin
 bin-obj
@@ -998,7 +990,6 @@ cdrom
 cds
 cdx
 ce
-celcat
 celerium
 censor
 center
@@ -1344,7 +1335,6 @@ configurationmanagement
 configurationmanager
 configure
 confluence
-confluent
 conjecture
 connect
 connect-dtcmsite
@@ -1382,6 +1372,7 @@ containerinstances
 containerregistry
 containers
 containment
+contentprep
 context
 continious-deploy
 continious-integration
@@ -1603,7 +1594,6 @@ d365fo
 d365lbd
 daas
 dac
-dacfx
 dacl
 dacpac
 dacpackage
@@ -1611,6 +1601,7 @@ dagger
 daily
 dane
 dangling
+dapr
 dare
 dark
 dash
@@ -1785,7 +1776,6 @@ devcenter
 devdeer
 developer
 developer_command_prompt
-developercommandprompt
 development
 devenv
 devexpress
@@ -1862,15 +1852,12 @@ discover
 discovery
 discutils
 disk
-disk_to_disk
 disk-space
 diskfree
 diskimage
 diskpart
 diskpool
-disksize
 diskspace
-diskusage
 dism
 dismal
 display
@@ -2010,8 +1997,6 @@ droplet
 droptable
 drs
 drsrule
-drupal
-drush
 dry
 ds
 ds-client
@@ -2059,7 +2044,6 @@ dvls
 dword
 dxexpeditions
 dynamic
-dynamic-completion
 dynamic-host-configuration-protocol
 dynamicdistributiongroups
 dynamicdnsoverhttps
@@ -2128,6 +2112,7 @@ elm
 elmah-io
 elonmusk
 eloqua
+elvui
 em
 emacs
 email
@@ -2283,7 +2268,6 @@ evtx
 ews
 exact
 example
-examples
 excel
 exception
 exceptionless
@@ -2447,7 +2431,6 @@ files-cli
 files-cli.exe
 files.com
 filesecurity
-fileserver
 fileserverresourcemanager
 fileshare
 filesharing
@@ -2553,6 +2536,7 @@ formatdata
 formatformat-tableformat-listformat-wideformat-customformat-defaultout-defaultout-fileout-hostout-printerout-string
 formatting
 forms
+fortiauth
 forticlient
 fortify
 fortifyondemand
@@ -2638,7 +2622,6 @@ gauge
 gavin
 gavineke
 gc
-gcbdr
 gce
 gci
 gcloud
@@ -2698,7 +2681,6 @@ get-help
 get-history
 get-iislog
 get-openfile
-get-openfiles
 get-pass
 get-passivetrippoint
 get-passlist
@@ -2762,10 +2744,8 @@ gmaps
 gmsa
 gnucash
 gnuwin32
-go
 gobright
 godaddy
-golang
 goldengate
 goldsource
 goldsource-dedicated-server
@@ -2833,7 +2813,6 @@ group-policy
 groupmembership
 grouppolicy
 groups
-grouvee
 growlnotify
 grr
 gsuite
@@ -2943,6 +2922,7 @@ helper-functions
 helperfunctions
 helpers
 helpfile
+heml
 here
 hewlett
 hewlett-packard
@@ -3090,7 +3070,6 @@ icinga
 icinga2
 icinga2mssql
 icinga2plugins
-icingachecks
 icingaforwindows
 icingainventory
 icingamssql
@@ -3385,7 +3364,6 @@ java
 javamanager
 javascript
 javaversion
-jboss
 jdbc
 jde
 jdedwards
@@ -3433,7 +3411,6 @@ jumpcloud
 jumpstart
 junction
 junctions
-junit
 jupyter
 jupytor
 justenoughadministration
@@ -3506,6 +3483,7 @@ kraken
 krbtgt
 krick
 kschemaplugin
+kubclt
 kube
 kubectl
 kubectx
@@ -3573,12 +3551,8 @@ leafs
 league
 lean
 learn
-learn-powershell
-learn-powershell-series
 learning
-learning-powershell
 learningpowershell
-learnpowershell
 lease
 leetabit
 leftjoin
@@ -3953,6 +3927,7 @@ mi
 micro-orm
 microfocus
 microk8s
+microservices
 microsoft
 microsoft_365
 microsoft_azure
@@ -4177,7 +4152,6 @@ myjson
 myjson.com
 myob
 myposh
-mypstag
 mysql
 mysql-database
 mytest
@@ -4284,7 +4258,6 @@ newrelic
 news
 newspaper
 newtonsoft
-newtonsoft.json
 nexenta
 nexentastor
 nexthink
@@ -4501,7 +4474,6 @@ openamt
 openapi
 opendata
 openedge
-openfiles
 openhere
 openid
 openidconnect
@@ -4894,7 +4866,6 @@ poshy-sshconfig
 poshy-viewer-finder
 poshy-wrap
 poshy-wrap-apt
-poshy-wrap-argcomplete
 poshy-wrap-brew
 poshy-wrap-curl
 poshy-wrap-dnf
@@ -4908,7 +4879,6 @@ poshy-wrap-git
 poshy-wrap-git-flow
 poshy-wrap-git-hf
 poshy-wrap-git-lfs
-poshy-wrap-golang
 poshy-wrap-helm
 poshy-wrap-kubectl
 poshy-wrap-maven
@@ -4922,7 +4892,6 @@ poshy-wrap-pylint
 poshy-wrap-python
 poshy-wrap-ruby
 poshy-wrap-systemctl
-poshy-wrap-terraform
 poshy-wrap-terragrunt
 poshy-wrap-tmux
 poshy-wrap-vagrant
@@ -4971,10 +4940,8 @@ powershell-class
 powershell-cmdlets
 powershell-core
 powershell-core-releases-api
-powershell-course
 powershell-credentials
 powershell-dsc
-powershell-examples
 powershell-gallery
 powershell-github-repo
 powershell-isprime
@@ -4986,7 +4953,6 @@ powershell-remoting
 powershell-script
 powershell-terminal
 powershell-terminal-copilot
-powershell-training
 powershell.module.invokewinget
 powershell.one
 powershell.persistentpathstack
@@ -4995,8 +4961,6 @@ powershellai
 powershellazuresql
 powershellconferenceeurope
 powershellcore
-powershellcourse
-powershellexamples
 powershellfar
 powershellgallery
 powershellget
@@ -5008,7 +4972,6 @@ powershellmoduleupdate
 powershellpr0mpt
 powershellscript
 powershelltemplate
-powershelltraining
 powershelltypeaccelerators
 powershelluniversal
 powershellv5
@@ -5750,31 +5713,6 @@ pscommand_gmu
 pscommand_gmum
 pscommand_gmv
 pscommand_gnew
-pscommand_gob
-pscommand_goc
-pscommand_god
-pscommand_goe
-pscommand_gof
-pscommand_gofa
-pscommand_gofx
-pscommand_gog
-pscommand_goga
-pscommand_goi
-pscommand_gol
-pscommand_gom
-pscommand_gopa
-pscommand_gopb
-pscommand_gops
-pscommand_gor
-pscommand_got
-pscommand_gota
-pscommand_goto
-pscommand_gotoc
-pscommand_gotod
-pscommand_gotofx
-pscommand_gov
-pscommand_gove
-pscommand_gow
 pscommand_gp
 pscommand_gpatch
 pscommand_gpdo
@@ -6006,28 +5944,6 @@ pscommand_invoke-gitsubmoduleallpullorigin
 pscommand_invoke-gitswitch
 pscommand_invoke-gittag
 pscommand_invoke-gitwhatchanged
-pscommand_invoke-gobuild
-pscommand_invoke-goclean
-pscommand_invoke-godoc
-pscommand_invoke-goenv
-pscommand_invoke-gofix
-pscommand_invoke-gofmt
-pscommand_invoke-gofmtellipsis
-pscommand_invoke-goget
-pscommand_invoke-gogetellipsis
-pscommand_invoke-goinstall
-pscommand_invoke-golist
-pscommand_invoke-gomod
-pscommand_invoke-gorun
-pscommand_invoke-gotest
-pscommand_invoke-gotestellipsis
-pscommand_invoke-gotool
-pscommand_invoke-gotoolcompile
-pscommand_invoke-gotooldist
-pscommand_invoke-gotoolfix
-pscommand_invoke-goversion
-pscommand_invoke-govet
-pscommand_invoke-gowork
 pscommand_invoke-greppipfreeze
 pscommand_invoke-helm
 pscommand_invoke-helminstall
@@ -6306,15 +6222,6 @@ pscommand_invoke-systemctluser-try-reload-or-restart
 pscommand_invoke-systemctluser-try-restart
 pscommand_invoke-systemctluser-unmask
 pscommand_invoke-systemctluser-unset-environment
-pscommand_invoke-terraform
-pscommand_invoke-terraformapply
-pscommand_invoke-terraformconsole
-pscommand_invoke-terraformdestroy
-pscommand_invoke-terraformformat
-pscommand_invoke-terraforminit
-pscommand_invoke-terraformoutput
-pscommand_invoke-terraformplan
-pscommand_invoke-terraformvalidate
 pscommand_invoke-terragrunt
 pscommand_invoke-terragruntapply
 pscommand_invoke-terragruntapplyall
@@ -6689,7 +6596,6 @@ pscommand_python
 pscommand_python3
 pscommand_rb
 pscommand_read-dotenv
-pscommand_register-argcompleteargumentcompleter
 pscommand_remove_gem
 pscommand_remove-dockercontainerall
 pscommand_remove-dockerunusedimage
@@ -6740,9 +6646,6 @@ pscommand_set-locationback9
 pscommand_set-locationdown1
 pscommand_set-locationforward1
 pscommand_set-locationgithome
-pscommand_set-locationgopath
-pscommand_set-locationgopathbin
-pscommand_set-locationgopathsrc
 pscommand_set-locationnewdirectory
 pscommand_set-locationup
 pscommand_set-locationup1
@@ -6783,15 +6686,6 @@ pscommand_test-o
 pscommand_test-reparsepoint
 pscommand_test-sessioninteractivity
 pscommand_test-x
-pscommand_tf
-pscommand_tfa
-pscommand_tfc
-pscommand_tfd
-pscommand_tff
-pscommand_tfi
-pscommand_tfo
-pscommand_tfp
-pscommand_tfv
 pscommand_tg
 pscommand_tga
 pscommand_tgaa
@@ -6977,6 +6871,7 @@ psdesiredstateconfiguration
 psdevops
 psdocs
 psdocs-documents
+psdocsgenerator
 psdrawio
 psdrive
 psdrives
@@ -7422,28 +7317,6 @@ psfunction_invoke-gitsubmoduleallpullorigin
 psfunction_invoke-gitswitch
 psfunction_invoke-gittag
 psfunction_invoke-gitwhatchanged
-psfunction_invoke-gobuild
-psfunction_invoke-goclean
-psfunction_invoke-godoc
-psfunction_invoke-goenv
-psfunction_invoke-gofix
-psfunction_invoke-gofmt
-psfunction_invoke-gofmtellipsis
-psfunction_invoke-goget
-psfunction_invoke-gogetellipsis
-psfunction_invoke-goinstall
-psfunction_invoke-golist
-psfunction_invoke-gomod
-psfunction_invoke-gorun
-psfunction_invoke-gotest
-psfunction_invoke-gotestellipsis
-psfunction_invoke-gotool
-psfunction_invoke-gotoolcompile
-psfunction_invoke-gotooldist
-psfunction_invoke-gotoolfix
-psfunction_invoke-goversion
-psfunction_invoke-govet
-psfunction_invoke-gowork
 psfunction_invoke-greppipfreeze
 psfunction_invoke-helm
 psfunction_invoke-helminstall
@@ -7722,15 +7595,6 @@ psfunction_invoke-systemctluser-try-reload-or-restart
 psfunction_invoke-systemctluser-try-restart
 psfunction_invoke-systemctluser-unmask
 psfunction_invoke-systemctluser-unset-environment
-psfunction_invoke-terraform
-psfunction_invoke-terraformapply
-psfunction_invoke-terraformconsole
-psfunction_invoke-terraformdestroy
-psfunction_invoke-terraformformat
-psfunction_invoke-terraforminit
-psfunction_invoke-terraformoutput
-psfunction_invoke-terraformplan
-psfunction_invoke-terraformvalidate
 psfunction_invoke-terragrunt
 psfunction_invoke-terragruntapply
 psfunction_invoke-terragruntapplyall
@@ -7910,7 +7774,6 @@ psfunction_push-gitstashentrywithmessage
 psfunction_pwshrc-show-proxy
 psfunction_pyserver
 psfunction_read-dotenv
-psfunction_register-argcompleteargumentcompleter
 psfunction_remove-dockercontainerall
 psfunction_remove-dockerunusedimage
 psfunction_remove-envpathitem
@@ -7958,9 +7821,6 @@ psfunction_set-locationback9
 psfunction_set-locationdown1
 psfunction_set-locationforward1
 psfunction_set-locationgithome
-psfunction_set-locationgopath
-psfunction_set-locationgopathbin
-psfunction_set-locationgopathsrc
 psfunction_set-locationnewdirectory
 psfunction_set-locationup
 psfunction_set-locationup1
@@ -8072,7 +7932,6 @@ psm1
 psmodule
 psmodule psedition_desktop
 psmodulepath
-psmodulepsedition_desktoppsedition_core
 psmodules
 psmp
 psmsgraph
@@ -8881,7 +8740,6 @@ set-dnsservers
 set-githubsecrets
 set-itemproperty
 set-location
-set-openfiles
 set-ownership
 set-pass
 set-psbreakpoint
@@ -9021,6 +8879,7 @@ skytap
 slack
 slash
 slashcommands
+slmgr
 sln
 slugify
 sm
@@ -9062,6 +8921,7 @@ sni
 snipe-it
 snippet
 snippets
+snippets-manager
 snippit
 snmp
 snmpget
@@ -9111,7 +8971,6 @@ soonr
 soonragent
 sophos
 sort
-sorting
 source
 source-dedicated-server
 sourcecontrol
@@ -9216,7 +9075,6 @@ squire
 srcds
 srcsrv
 srm
-srylius-write
 ssas
 ssc
 ssdt
@@ -9416,7 +9274,6 @@ syndication
 synergy
 syntax
 syntax-highlighting
-syntaxcheck
 syntaxhighlighter
 synthesis
 synthetics
@@ -9497,6 +9354,7 @@ taskgroup
 taskmanagement
 tasks
 taskscheduler
+taxjar
 taxonomy
 tcp
 tcp/ip
@@ -9522,7 +9380,6 @@ techedna2014
 techlog
 technology
 techsmith
-tel
 telegram
 telegram-bot
 telegram-bot-api
@@ -9545,7 +9402,6 @@ tenantmanagercontrolplane
 teradata
 termbin
 terminal
-terminal-interface
 terminal-services
 terminal.gui
 terminalnotifier
@@ -9660,6 +9516,7 @@ toggl
 toggle
 token
 tokenlifetime
+tokens
 toml
 tookit
 tool
@@ -9698,7 +9555,6 @@ trafficmanager
 trafficmarking
 train
 training
-training-course
 tram
 transact
 transaction
@@ -9726,7 +9582,6 @@ treesize
 treffynnon
 trein
 trello
-trellops
 trend-micro
 trendmicro
 trevor
@@ -9815,6 +9670,7 @@ ud-component
 ud-confetti
 ud-control
 ud-dashboard
+ud-datepicker
 ud-field
 ud-flexytable
 ud-funnel
@@ -9973,7 +9829,6 @@ utf-sig
 utf7
 utf8
 utf8-sig
-utf8bom
 util
 utilities
 utility
@@ -10175,7 +10030,6 @@ vss
 vssetup
 vsshell
 vst
-vsteambuilder
 vsteams
 vstest
 vsts
@@ -10299,7 +10153,6 @@ wif
 wifi
 wiki
 wildcard
-wildfly
 wim
 wim2vhd
 win
@@ -10446,6 +10299,7 @@ workstation
 world
 worldcup
 worryfreebusinesssecurity
+wow
 wpad
 wpf
 wql
@@ -10590,7 +10444,6 @@ zsh
 zuora
 zvm
 zvml
-zvmlinux
 zypper
 カタカナ
 ひらがな
