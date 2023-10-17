@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 16 October 2023 17:53:03 UTC
+Updated: Tuesday, 17 October 2023 02:03:12 UTC
 
 .bat
 .env
@@ -13,7 +13,6 @@ Updated: Monday, 16 October 2023 17:53:03 UTC
 'files
 'provider'
 "interactive
-🍄
 🍣
 💩
 10
@@ -98,6 +97,7 @@ acme
 acmesharp
 acmesharp_ext
 act-on
+act!
 actifio
 actifiogo
 action
@@ -194,6 +194,7 @@ adobject
 adouobject
 adoxio
 adp
+adr
 ads
 adsi
 adsite
@@ -225,7 +226,6 @@ aftereffects
 agenda
 agent
 aggregates
-aggregation
 agile
 agility
 agm
@@ -254,6 +254,7 @@ alac
 alarm
 alb
 albums
+alc
 alero
 alert
 alerting
@@ -427,6 +428,7 @@ arcresourcebridge
 arcus
 area
 arg
+argcomplete
 argument
 argumentcompleter
 arguments
@@ -467,6 +469,8 @@ aspnet
 aspnet_regiis
 asr
 assembleenationale
+assembly
+assemblyloadcontext
 assemblymeta
 assert
 assertion
@@ -523,6 +527,7 @@ authorization
 authorizationheaders
 authorize.net
 authz
+autify
 auto
 auto_cd
 auto-completion
@@ -550,6 +555,8 @@ autotask
 autotaskapi
 autotaskpsa
 autounattend
+autoupdate
+autoupdate-script
 autoyast
 auvik
 availability
@@ -765,6 +772,7 @@ bigfix
 bigquery
 bikeshed
 billing
+billingbenefits
 bimi
 bin
 bin-obj
@@ -835,9 +843,7 @@ bool
 bootloader psmodule
 bootstrap
 bootstrapping
-bop
 bot
-bots
 botservice
 bouncer
 boundaries
@@ -941,7 +947,6 @@ capability
 capacity
 capgemini
 capslock
-captcha
 capture
 carbon
 carbonawarecomputing
@@ -990,6 +995,7 @@ cdrom
 cds
 cdx
 ce
+celcat
 celerium
 censor
 center
@@ -1335,6 +1341,7 @@ configurationmanagement
 configurationmanager
 configure
 confluence
+confluent
 conjecture
 connect
 connect-dtcmsite
@@ -1601,7 +1608,6 @@ dagger
 daily
 dane
 dangling
-dapr
 dare
 dark
 dash
@@ -1611,7 +1617,6 @@ dashboardservice
 dast
 data
 data_protection
-data_security
 data-archive
 data-backup
 data-tier
@@ -1776,6 +1781,7 @@ devcenter
 devdeer
 developer
 developer_command_prompt
+developercommandprompt
 development
 devenv
 devexpress
@@ -1839,7 +1845,6 @@ disa
 disable
 disable-internet
 disable-psremoting
-disablefilesyncngsc
 disablestartbutton
 disablestartkey
 disasm
@@ -1852,6 +1857,7 @@ discover
 discovery
 discutils
 disk
+disk_to_disk
 disk-space
 diskfree
 diskimage
@@ -1997,6 +2003,8 @@ droplet
 droptable
 drs
 drsrule
+drupal
+drush
 dry
 ds
 ds-client
@@ -2095,7 +2103,6 @@ effectiveroutes
 efi
 egrep
 eigencontroles
-einstein
 eklient psedition_core psedition_desktop
 elastic
 elasticsan
@@ -2227,7 +2234,6 @@ ethr
 ethz
 etl
 etl2pcapng
-etrade
 ets
 etw
 eulanda
@@ -2431,6 +2437,7 @@ files-cli
 files-cli.exe
 files.com
 filesecurity
+fileserver
 fileserverresourcemanager
 fileshare
 filesharing
@@ -2681,6 +2688,7 @@ get-help
 get-history
 get-iislog
 get-openfile
+get-openfiles
 get-pass
 get-passivetrippoint
 get-passlist
@@ -2700,7 +2708,6 @@ gh
 gh-actions
 ghactions
 ghc
-ghibli
 ghost
 gif
 gifs
@@ -2789,7 +2796,6 @@ granttype
 graph
 graph-api
 graphapi
-graphapirequests
 graphexplorer
 graphic
 graphics
@@ -2813,6 +2819,7 @@ group-policy
 groupmembership
 grouppolicy
 groups
+grouvee
 growlnotify
 grr
 gsuite
@@ -2890,7 +2897,6 @@ hcm
 hcx
 hdfs
 hdinsight
-hdinsightonaks
 header
 headhunter
 health
@@ -2922,7 +2928,6 @@ helper-functions
 helperfunctions
 helpers
 helpfile
-heml
 here
 hewlett
 hewlett-packard
@@ -2995,6 +3000,7 @@ hotkeys
 howto
 hp
 hpc
+hpcc
 hpccache
 hpe
 hpealletra6000andnimblestoragepowershelltoolkit
@@ -3168,8 +3174,6 @@ indexdb
 indicator
 inedo
 inetfwrule
-inetum
-infinity
 influx
 influxdb
 info
@@ -3411,6 +3415,7 @@ jumpcloud
 jumpstart
 junction
 junctions
+junit
 jupyter
 jupytor
 justenoughadministration
@@ -3479,11 +3484,9 @@ koans
 korn
 kotlin
 kql
-kraken
 krbtgt
 krick
 kschemaplugin
-kubclt
 kube
 kubectl
 kubectx
@@ -3613,7 +3616,6 @@ linting
 linux
 linux-command
 linuxssh
-liquid
 liquit
 liquit.com
 list
@@ -3693,7 +3695,6 @@ login-rdp
 logingestion
 loginscreen
 loginsight
-logiphys
 logistic
 logitech
 logmail
@@ -3790,7 +3791,6 @@ managedidentities
 managedserviceidenity
 managedserviceidentity
 managedserviceprovider
-managedserviceproviders
 managedservices
 manageengine
 management
@@ -3858,7 +3858,6 @@ mcd
 mchapv2
 mct
 md5
-md5_v2-afbf3dae88c049d004174f2d610ee134
 md5sum
 mdatp
 mdb
@@ -3879,7 +3878,6 @@ media
 mediant
 mediaplayer
 mediaservices
-mediawiki
 meditation
 meeting
 meetup
@@ -3927,7 +3925,6 @@ mi
 micro-orm
 microfocus
 microk8s
-microservices
 microsoft
 microsoft_365
 microsoft_azure
@@ -4023,7 +4020,6 @@ mof
 moldova
 moment
 monaco
-monday
 mondoo
 money
 moneyforward
@@ -4152,6 +4148,7 @@ myjson
 myjson.com
 myob
 myposh
+mypstag
 mysql
 mysql-database
 mytest
@@ -4223,11 +4220,8 @@ network
 network adapter configuration operating os optical sensor physical pointing portable printer processor cpu refrigaration cooling cooler removable usb sd ram dimm scsi sound audio card enclosure tape temperature touchpad touch pad touchscreen screen trackball trackpoint video graphics voltage psmodule
 network-credentials
 network-info
-networkcloud
-networkcontroller
 networkdiscovery
 networkdrives
-networkfirewall
 networkfunction
 networkinfo
 networking
@@ -4258,6 +4252,7 @@ newrelic
 news
 newspaper
 newtonsoft
+newtonsoft.json
 nexenta
 nexentastor
 nexthink
@@ -4322,7 +4317,6 @@ nprintingapi
 nps
 npslog
 npslogfile
-nql
 nrc
 nrql
 ns
@@ -4474,6 +4468,7 @@ openamt
 openapi
 opendata
 openedge
+openfiles
 openhere
 openid
 openidconnect
@@ -4856,7 +4851,6 @@ poshy-dir-nav
 poshy-ecks
 poshy-env-proxy
 poshy-env-var
-poshy-ls-isms
 poshy-lucidity
 poshy-multimedia
 poshy-net
@@ -4866,6 +4860,7 @@ poshy-sshconfig
 poshy-viewer-finder
 poshy-wrap
 poshy-wrap-apt
+poshy-wrap-argcomplete
 poshy-wrap-brew
 poshy-wrap-curl
 poshy-wrap-dnf
@@ -4890,10 +4885,9 @@ poshy-wrap-pipenv
 poshy-wrap-pyenv
 poshy-wrap-pylint
 poshy-wrap-python
-poshy-wrap-ruby
 poshy-wrap-systemctl
+poshy-wrap-terraform
 poshy-wrap-terragrunt
-poshy-wrap-tmux
 poshy-wrap-vagrant
 poshy-wrap-vault
 poshy-wrap-vscode
@@ -4981,7 +4975,6 @@ powertab
 powertoolcmdlets
 powertooldsc
 ppdm
-ppk
 pposh
 pps
 ppt
@@ -5545,15 +5538,6 @@ pscommand_geo
 pscommand_geoe
 pscommand_get
 pscommand_get-aptinstalledpackages
-pscommand_get-childitemcolorfully
-pscommand_get-childitemcolorfullycramped
-pscommand_get-childitemcolorfullyrevealingly
-pscommand_get-childitemcolorfullyrevealinglycramped
-pscommand_get-childitemcolorfullyrevealinglyrecursively
-pscommand_get-childitemcolorfullyrevealinglyrecursivelywithrecency
-pscommand_get-childitemcolorfullyrevealinglywithrecency
-pscommand_get-childitemcolorfullywithrecency
-pscommand_get-childitemnamesonly
 pscommand_get-dockercontainerall
 pscommand_get-dockercontainerlatest
 pscommand_get-dockercontainerlatestipaddress
@@ -6111,9 +6095,6 @@ pscommand_invoke-piplistoutdated
 pscommand_invoke-pipuninstall
 pscommand_invoke-pyenv
 pscommand_invoke-pylintreportsdisabled
-pscommand_invoke-ruby
-pscommand_invoke-rubyexecute
-pscommand_invoke-rubyexecutehttpdhere
 pscommand_invoke-systemctl-add-requires
 pscommand_invoke-systemctl-add-wants
 pscommand_invoke-systemctl-cancel
@@ -6222,6 +6203,15 @@ pscommand_invoke-systemctluser-try-reload-or-restart
 pscommand_invoke-systemctluser-try-restart
 pscommand_invoke-systemctluser-unmask
 pscommand_invoke-systemctluser-unset-environment
+pscommand_invoke-terraform
+pscommand_invoke-terraformapply
+pscommand_invoke-terraformconsole
+pscommand_invoke-terraformdestroy
+pscommand_invoke-terraformformat
+pscommand_invoke-terraforminit
+pscommand_invoke-terraformoutput
+pscommand_invoke-terraformplan
+pscommand_invoke-terraformvalidate
 pscommand_invoke-terragrunt
 pscommand_invoke-terragruntapply
 pscommand_invoke-terragruntapplyall
@@ -6231,13 +6221,6 @@ pscommand_invoke-terragruntplan
 pscommand_invoke-terragruntplanall
 pscommand_invoke-terragruntvalidate
 pscommand_invoke-terragruntvalidateall
-pscommand_invoke-tmuxattachforterminal
-pscommand_invoke-tmuxattachforterminaldetachingothers
-pscommand_invoke-tmuxeditconfig
-pscommand_invoke-tmuxkillserver
-pscommand_invoke-tmuxkillsessionforterminal
-pscommand_invoke-tmuxlistsessions
-pscommand_invoke-tmuxnewsessionfromsource
 pscommand_invoke-vagrantdestroy
 pscommand_invoke-vagranthalt
 pscommand_invoke-vagranthostmanager
@@ -6461,20 +6444,7 @@ pscommand_krsss
 pscommand_kru
 pscommand_ksd
 pscommand_ksss
-pscommand_l
-pscommand_l1
-pscommand_la
-pscommand_lart
-pscommand_ldot
-pscommand_lf
-pscommand_ll
 pscommand_local-ignore
-pscommand_lr
-pscommand_lrt
-pscommand_ls
-pscommand_lsn
-pscommand_lsr
-pscommand_lt
 pscommand_mcd
 pscommand_mci
 pscommand_mcisk
@@ -6594,8 +6564,8 @@ pscommand_pylint-quick
 pscommand_pyserver
 pscommand_python
 pscommand_python3
-pscommand_rb
 pscommand_read-dotenv
+pscommand_register-argcompleteargumentcompleter
 pscommand_remove_gem
 pscommand_remove-dockercontainerall
 pscommand_remove-dockerunusedimage
@@ -6621,8 +6591,6 @@ pscommand_reset-gitworkingtreetolastcommitlosechanges
 pscommand_reset-gitworkingtreetolastcommitlosechangesandcleanfully
 pscommand_resume-gitbranchbaseupdate
 pscommand_resume-gitcherrypick
-pscommand_rrun
-pscommand_rserver
 pscommand_sc-disable-now
 pscommand_sc-enable-now
 pscommand_sc-mask-now
@@ -6658,7 +6626,6 @@ pscommand_show-gitremote
 pscommand_show-proxy
 pscommand_shttp
 pscommand_shuf
-pscommand_sl
 pscommand_ssh-add-all
 pscommand_ssh-disable-proxy
 pscommand_ssh-enable-proxy
@@ -6675,8 +6642,6 @@ pscommand_syspip
 pscommand_syspip_package_location
 pscommand_syspip3
 pscommand_syspip3_package_location
-pscommand_ta
-pscommand_tad
 pscommand_test-command
 pscommand_test-d
 pscommand_test-elevation
@@ -6686,6 +6651,15 @@ pscommand_test-o
 pscommand_test-reparsepoint
 pscommand_test-sessioninteractivity
 pscommand_test-x
+pscommand_tf
+pscommand_tfa
+pscommand_tfc
+pscommand_tfd
+pscommand_tff
+pscommand_tfi
+pscommand_tfo
+pscommand_tfp
+pscommand_tfv
 pscommand_tg
 pscommand_tga
 pscommand_tgaa
@@ -6695,14 +6669,6 @@ pscommand_tgp
 pscommand_tgpa
 pscommand_tgv
 pscommand_tgva
-pscommand_tkss
-pscommand_tksv
-pscommand_tl
-pscommand_tmuxconf
-pscommand_ts
-pscommand_txa
-pscommand_txl
-pscommand_txn
 pscommand_universalarchive
 pscommand_update-gitbranchbasefrombranchmain
 pscommand_update-gitbranchbasefrommain
@@ -7083,15 +7049,6 @@ psfunction_format-lesstermcapenv
 psfunction_format-viewerinvocationsh
 psfunction_gdv
 psfunction_get-aptinstalledpackages
-psfunction_get-childitemcolorfully
-psfunction_get-childitemcolorfullycramped
-psfunction_get-childitemcolorfullyrevealingly
-psfunction_get-childitemcolorfullyrevealinglycramped
-psfunction_get-childitemcolorfullyrevealinglyrecursively
-psfunction_get-childitemcolorfullyrevealinglyrecursivelywithrecency
-psfunction_get-childitemcolorfullyrevealinglywithrecency
-psfunction_get-childitemcolorfullywithrecency
-psfunction_get-childitemnamesonly
 psfunction_get-dockercontainerall
 psfunction_get-dockercontainerlatest
 psfunction_get-dockercontainerlatestipaddress
@@ -7484,9 +7441,6 @@ psfunction_invoke-piplistoutdated
 psfunction_invoke-pipuninstall
 psfunction_invoke-pyenv
 psfunction_invoke-pylintreportsdisabled
-psfunction_invoke-ruby
-psfunction_invoke-rubyexecute
-psfunction_invoke-rubyexecutehttpdhere
 psfunction_invoke-systemctl-add-requires
 psfunction_invoke-systemctl-add-wants
 psfunction_invoke-systemctl-cancel
@@ -7595,6 +7549,15 @@ psfunction_invoke-systemctluser-try-reload-or-restart
 psfunction_invoke-systemctluser-try-restart
 psfunction_invoke-systemctluser-unmask
 psfunction_invoke-systemctluser-unset-environment
+psfunction_invoke-terraform
+psfunction_invoke-terraformapply
+psfunction_invoke-terraformconsole
+psfunction_invoke-terraformdestroy
+psfunction_invoke-terraformformat
+psfunction_invoke-terraforminit
+psfunction_invoke-terraformoutput
+psfunction_invoke-terraformplan
+psfunction_invoke-terraformvalidate
 psfunction_invoke-terragrunt
 psfunction_invoke-terragruntapply
 psfunction_invoke-terragruntapplyall
@@ -7604,13 +7567,6 @@ psfunction_invoke-terragruntplan
 psfunction_invoke-terragruntplanall
 psfunction_invoke-terragruntvalidate
 psfunction_invoke-terragruntvalidateall
-psfunction_invoke-tmuxattachforterminal
-psfunction_invoke-tmuxattachforterminaldetachingothers
-psfunction_invoke-tmuxeditconfig
-psfunction_invoke-tmuxkillserver
-psfunction_invoke-tmuxkillsessionforterminal
-psfunction_invoke-tmuxlistsessions
-psfunction_invoke-tmuxnewsessionfromsource
 psfunction_invoke-vagrantdestroy
 psfunction_invoke-vagranthalt
 psfunction_invoke-vagranthostmanager
@@ -7774,6 +7730,7 @@ psfunction_push-gitstashentrywithmessage
 psfunction_pwshrc-show-proxy
 psfunction_pyserver
 psfunction_read-dotenv
+psfunction_register-argcompleteargumentcompleter
 psfunction_remove-dockercontainerall
 psfunction_remove-dockerunusedimage
 psfunction_remove-envpathitem
@@ -7918,7 +7875,6 @@ psincludes_command
 psincludes_function
 psini
 psinsight
-psintune
 psise
 psitem
 psjob
@@ -7932,6 +7888,7 @@ psm1
 psmodule
 psmodule psedition_desktop
 psmodulepath
+psmodulepsedition_desktoppsedition_core
 psmodules
 psmp
 psmsgraph
@@ -8119,7 +8076,6 @@ randompassword
 randomuser
 randomusers
 rangescan
-ransomware_recovery
 ras
 raspberry-pi
 raspberrypi
@@ -8431,7 +8387,6 @@ rt
 rtu
 rubber
 rubrik
-rubriksecuritycloud
 ruby
 rule
 rulesengine
@@ -8740,6 +8695,7 @@ set-dnsservers
 set-githubsecrets
 set-itemproperty
 set-location
+set-openfiles
 set-ownership
 set-pass
 set-psbreakpoint
@@ -8777,7 +8733,6 @@ shadowcopy
 shadowcopybackups
 shadowgroups
 shanghaitech
-shard
 share
 share-permission
 share-stat
@@ -8846,7 +8801,6 @@ singleton
 sinks
 sintez
 sintez.module.rds
-sit
 site
 site_navigation
 sitecollection
@@ -8971,6 +8925,7 @@ soonr
 soonragent
 sophos
 sort
+sorting
 source
 source-dedicated-server
 sourcecontrol
@@ -9075,6 +9030,7 @@ squire
 srcds
 srcsrv
 srm
+srylius-write
 ssas
 ssc
 ssdt
@@ -9274,6 +9230,7 @@ syndication
 synergy
 syntax
 syntax-highlighting
+syntaxcheck
 syntaxhighlighter
 synthesis
 synthetics
@@ -9354,7 +9311,6 @@ taskgroup
 taskmanagement
 tasks
 taskscheduler
-taxjar
 taxonomy
 tcp
 tcp/ip
@@ -9380,6 +9336,7 @@ techedna2014
 techlog
 technology
 techsmith
+tel
 telegram
 telegram-bot
 telegram-bot-api
@@ -9402,6 +9359,7 @@ tenantmanagercontrolplane
 teradata
 termbin
 terminal
+terminal-interface
 terminal-services
 terminal.gui
 terminalnotifier
@@ -9504,7 +9462,6 @@ tls12
 tlsa
 tlsprotocol
 tlsrpt
-tmux
 to-do
 toast
 toasts
@@ -9549,7 +9506,6 @@ tracert
 tracing
 tracker
 tracking
-trading
 trafficfiltering
 trafficmanager
 trafficmarking
@@ -9582,6 +9538,7 @@ treesize
 treffynnon
 trein
 trello
+trellops
 trend-micro
 trendmicro
 trevor
@@ -9829,6 +9786,7 @@ utf-sig
 utf7
 utf8
 utf8-sig
+utf8bom
 util
 utilities
 utility
@@ -9870,7 +9828,6 @@ vbaproject
 vbproj
 vbr
 vbscript
-vbsinst
 vc
 vccmdlets
 vcenter
@@ -10030,6 +9987,7 @@ vss
 vssetup
 vsshell
 vst
+vsteambuilder
 vsteams
 vstest
 vsts
@@ -10043,7 +10001,6 @@ vxrail
 w32time
 w365
 w3svc
-w3w
 waa
 waas
 wac
@@ -10083,7 +10040,6 @@ weather
 weaviate
 weaviatenet
 web
-web-search
 web.config
 webadministration
 webapi
@@ -10132,7 +10088,6 @@ wem
 wemsdk
 wer
 wget
-what3words
 whatismyip
 whatsnew
 whatsupgold
@@ -10363,7 +10318,6 @@ x86
 xa
 xaf
 xbase
-xbox
 xclarity
 xdr
 xdschelper
@@ -10412,13 +10366,11 @@ yandex
 yapg
 yarn
 yetanotherhelloworld
-yml
 ynab
 youtube
 youtube-dl
 youtubeextractor
 yq
-yubaba
 yum
 z
 zabbix
@@ -10444,6 +10396,7 @@ zsh
 zuora
 zvm
 zvml
+zvmlinux
 zypper
 カタカナ
 ひらがな
@@ -10451,4 +10404,3 @@ zypper
 全角半角変換
 寿司
 日本語
-湯婆婆
