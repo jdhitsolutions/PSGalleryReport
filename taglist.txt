@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Thursday, 19 October 2023 09:53:24 UTC
+Updated: Thursday, 19 October 2023 17:52:38 UTC
 
 .bat
 .env
@@ -152,7 +152,6 @@ add-one
 add-path
 add-type
 addin
-addlevel
 addomainservices
 addon
 address
@@ -276,12 +275,14 @@ all
 alletra
 alloydb
 alm
+almrangers
 alpha
 alphafs
 alpine
 alt3
 alter
 alteryx
+alwaysontop
 alwaysonvpn
 alz
 amateur
@@ -294,6 +295,7 @@ amazonmgn
 amazonwebservices
 amend
 ami
+amiga
 amp
 amqp
 amsi
@@ -317,6 +319,7 @@ anf
 anglesharp
 angular
 animate-svg
+animation
 animations
 annotated
 announcement
@@ -518,6 +521,7 @@ authentication
 authenticationcertificate
 authenticode
 authn
+author
 authoring
 authoringtools
 authority
@@ -561,7 +565,6 @@ availability
 availabilityset
 avalara
 avalonia
-avatar
 avd
 ave
 avepoint
@@ -706,6 +709,7 @@ bank
 banking
 banner
 bar
+barcodes
 baremetal
 base
 base16
@@ -734,7 +738,6 @@ bbp
 bc
 bcd
 bcdedit
-bcdr
 bd
 bdd
 bds
@@ -873,6 +876,7 @@ broadcom
 broot
 brownserve-uk
 browser
+browserextension
 browserhistory
 browsing
 brs
@@ -941,7 +945,6 @@ cancel
 cancellation
 canonical
 cantara
-capability
 capacity
 capgemini
 capslock
@@ -985,7 +988,6 @@ cd-up
 cd+
 cdable_vars
 cdata
-cdb
 cdi
 cdm
 cdn
@@ -1024,12 +1026,10 @@ certinia
 certutil
 cf
 cfn
-ch9
 change
 changeanalysis
 changelog
 channel
-channel9
 char
 character
 chart
@@ -1230,7 +1230,6 @@ codegen
 codegeneration
 codegenerator
 codepoint
-codereview
 codes
 codesign
 codesigning
@@ -1251,6 +1250,7 @@ color-hex
 color-rgb
 color-show
 colored
+colorful
 colorized
 colorpicker
 colors
@@ -1266,6 +1266,7 @@ comical
 comics
 command
 command_line
+command-line-interface
 command-validation
 commandcoverage
 commandlets
@@ -1274,6 +1275,7 @@ commands
 commandsandresource
 commence
 comment
+comments
 commerce
 commfort
 commit
@@ -1345,7 +1347,6 @@ connect-exchangeonprem
 connect-mstsc
 connect-rdp
 connect-remotedesktop
-connect-samcmsite
 connected
 connectedkubernetes
 connectedmachine
@@ -1356,6 +1357,7 @@ connectionmonitor
 connections
 connectionsmanager
 connectionstring
+connectivity
 connectwise
 conservation
 console
@@ -1419,6 +1421,7 @@ coordinates
 copilot
 copy
 copy-item
+copyright
 core
 coreepower
 coreepower.common
@@ -1847,13 +1850,13 @@ disablefilesyncngsc
 disablestartbutton
 disablestartkey
 disasm
+disasterrecovery
 disconnect
 discord
 discordrpc
 discount
 discover
 discovery
-discutils
 disk
 disk_to_disk
 disk-space
@@ -1861,9 +1864,7 @@ diskfree
 diskimage
 diskpart
 diskpool
-disksize
 diskspace
-diskusage
 dism
 dismal
 display
@@ -1906,6 +1907,7 @@ dns-over-https
 dns-resolver
 dnsbl
 dnsclient
+dnsdumpster
 dnsentry
 dnsimple
 dnslookup
@@ -2065,6 +2067,7 @@ dynamics365fo
 dynamics365sales
 dynamics365server
 dynamicsax
+dynamicsecuritygroups
 dynamicsnav
 dynamodb
 dynatrace
@@ -2115,6 +2118,7 @@ elevation
 elgato
 elk
 elm
+elmah-io
 elonmusk
 eloqua
 elvui
@@ -2345,6 +2349,7 @@ extendscript
 extensibility
 extension
 extensionmethods
+extensionrisk
 extensions
 external
 externalip
@@ -2361,6 +2366,7 @@ factoryorchestratorclient
 facts
 faf
 failedlogin
+failure
 falcon
 fallbackstatuspoint
 fanarttv
@@ -2439,6 +2445,7 @@ fileserver
 fileserverresourcemanager
 fileshare
 filesharing
+filestorage
 filestream
 filesystem
 filesystementry-matcher
@@ -2474,6 +2481,7 @@ findfile
 findlocation
 findplace
 findproxyforurl
+fine-print
 finops
 firebird
 firefox
@@ -2498,6 +2506,7 @@ flasharray
 flashblade
 flatfile
 flatten
+fleetsoftwareupdate
 flex
 flex-query
 flexdesk
@@ -2556,8 +2565,10 @@ foudil
 fox
 foxpro
 fqdn
+frame
 framework
 france
+freeipa
 freenas
 freesoftwarefoundation
 freshbooks
@@ -2648,6 +2659,7 @@ generator
 generic
 genericartifactscontent
 genetic-algorithm
+genp
 genxdev
 geo
 geocache
@@ -2687,8 +2699,6 @@ get-passivetrippoint
 get-passlist
 get-path
 get-pinneditem
-get-samcmassignedsite
-get-samcmcurrentmanagementpoint
 get-samplingperiod
 get-stalecomps
 get-staleusers
@@ -2869,6 +2879,7 @@ har
 hard
 hardblock
 harden
+harden-windows-security
 hardening
 hardlink
 hardware
@@ -2945,6 +2956,7 @@ hierarchical
 hierarchy
 high-availability
 highlight
+highlighting
 highrise
 hint
 hipaa
@@ -2967,6 +2979,7 @@ hkey_users
 hklm
 hl7
 hlds
+hls
 hockey
 hol
 holiday
@@ -3093,6 +3106,7 @@ idabus
 ide
 identifier
 identity
+identity-management
 identitydataplane
 identitydirector
 identitydomains
@@ -3154,7 +3168,6 @@ import-csv
 import-dtdriverpackpackagedefinitionsms
 import-modulefrompath
 import-passlist
-import-sampackagedefinitionsms
 importer
 importexport
 importteams
@@ -3290,6 +3303,7 @@ iothubproperties
 ip
 ip-address
 ip-scanner
+ipa
 ipaddress
 ipam
 ipbroadcast
@@ -3475,6 +3489,7 @@ kms
 knapsack
 knetps
 knob
+knowbe4
 knowledge
 knowledgebase
 koans
@@ -3657,7 +3672,6 @@ location
 locationbasedservices
 lock
 lockbox
-lockdisplaytimeout
 lockdown
 locking
 lockoutreport
@@ -3756,6 +3770,7 @@ machine
 machinelearning
 machinelearningcompute
 machinelearningservices
+macmon
 macos
 macosx
 macro
@@ -3824,8 +3839,10 @@ marketing
 marketo
 marketplace
 marketplaceordering
+marketplacepublisher
 marking
 marklogic
+marquee
 marvel
 marvell
 marvell_semiconductor_inc
@@ -3881,8 +3898,10 @@ measure-process
 mecm
 media
 mediant
+mediaplayer
 mediaservices
 mediawiki
+meditation
 meeting
 meetup
 meetup.com
@@ -3980,6 +3999,7 @@ mim
 mime
 mimekit
 min
+mindmeister
 minecraft
 miniconda
 minifier
@@ -4054,6 +4074,7 @@ mozilla
 mp3
 mp4
 mpc
+mpeg
 mpn
 mrfk
 mrfylke
@@ -4159,6 +4180,7 @@ mytest
 n-able
 n-central
 nabu
+nac
 nagios
 name
 name-of-dogs
@@ -4216,6 +4238,7 @@ netscaler
 netscape
 netsec
 netsh
+netspell
 netstat
 netsuite
 network
@@ -4249,8 +4272,6 @@ new-item
 new-itemproperty
 new-pinneditem
 new-rdpsession
-new-samcmapplicationfrompackagedefinitionsms
-new-samcmpackagefrompackagedefinitionsms
 new-system
 new-udmorph
 newpassword
@@ -4410,7 +4431,6 @@ officedev
 officegraph
 officemessageencryption
 officertool
-offline
 offlinewimservicing
 ofx
 ogg
@@ -4429,7 +4449,6 @@ omnistack
 oms
 omsagent
 on
-on-demand
 on-premise
 onboard
 onboardadministrator
@@ -4771,6 +4790,7 @@ plantuml
 plaster
 platform
 platyps
+play
 playback
 playbook
 player
@@ -4789,6 +4809,7 @@ pncit
 pnp
 pnpm
 pode
+poe
 poem
 poetry
 point
@@ -4852,15 +4873,14 @@ poshy-code-search
 poshy-colors
 poshy-coreutils-ish
 poshy-dir-nav
-poshy-ecks
 poshy-env-proxy
-poshy-env-var
 poshy-ls-isms
 poshy-lucidity
 poshy-multimedia
 poshy-net
 poshy-notify-send
 poshy-sh-isms
+poshy-sshconfig
 poshy-viewer-finder
 poshy-wrap
 poshy-wrap-apt
@@ -4923,6 +4943,7 @@ powerbiembeddedcapacity
 powerbot
 powercli
 powercligoodies
+powercommander
 powerdex
 powerforensics
 powergraph
@@ -4952,10 +4973,10 @@ powershell-module
 powershell-modules
 powershell-releases-api
 powershell-remoting
-powershell-script
 powershell-terminal
 powershell-terminal-copilot
 powershell-training
+powershell.module.invokewinget
 powershell.one
 powershell.persistentpathstack
 powershell7
@@ -5113,6 +5134,7 @@ ps.credentialmanager
 ps1
 ps1xml
 ps1xmlgen
+ps2dll
 ps2exe
 ps3
 ps4
@@ -5153,8 +5175,7 @@ pscommand_aar
 pscommand_acp
 pscommand_acse
 pscommand_acsp
-pscommand_add-envpathitem
-pscommand_add-envvarpathitem
+pscommand_add_ssh
 pscommand_add-gitlfstrackedfiles
 pscommand_add-gitremote
 pscommand_add-gitskipworktreeflag
@@ -5562,9 +5583,6 @@ pscommand_get-dockercontainerlatestipaddress
 pscommand_get-dockercontainerlatestquiet
 pscommand_get-dockercontainerrunning
 pscommand_get-dockerimage
-pscommand_get-envpathitem
-pscommand_get-envvar
-pscommand_get-envvarpathitem
 pscommand_get-gitbranchdefault
 pscommand_get-gitbranchlist
 pscommand_get-gitbranchlistall
@@ -6539,7 +6557,6 @@ pscommand_mcisk
 pscommand_mcp
 pscommand_mcpsk
 pscommand_mdep
-pscommand_measure-envvarchanges
 pscommand_merge-gitrepositoryfromoriginbranchmain
 pscommand_merge-gitrepositoryfromupstreambranchmain
 pscommand_mi
@@ -6653,14 +6670,10 @@ pscommand_pyserver
 pscommand_python
 pscommand_python3
 pscommand_rb
-pscommand_read-dotenv
 pscommand_register-argcompleteargumentcompleter
 pscommand_remove_gem
 pscommand_remove-dockercontainerall
 pscommand_remove-dockerunusedimage
-pscommand_remove-envpathitem
-pscommand_remove-envvar
-pscommand_remove-envvarpathitem
 pscommand_remove-gitbranch
 pscommand_remove-gitbranchforcefully
 pscommand_remove-gitremote
@@ -6690,7 +6703,6 @@ pscommand_scu-enable-now
 pscommand_scu-mask-now
 pscommand_search-commandpath
 pscommand_search-ruby
-pscommand_set-envvar
 pscommand_set-gitremoteurl
 pscommand_set-itemnixmode
 pscommand_set-locationback1
@@ -6721,9 +6733,11 @@ pscommand_show-proxy
 pscommand_shttp
 pscommand_shuf
 pscommand_sl
+pscommand_ssh-add-all
 pscommand_ssh-disable-proxy
 pscommand_ssh-enable-proxy
 pscommand_ssh-show-proxy
+pscommand_sshlist
 pscommand_start-gitbisect
 pscommand_start-gitcherrypick
 pscommand_start-gitcherrypickexplained
@@ -6864,8 +6878,6 @@ pscommand_write-gitcommitgpgsignedbykey
 pscommand_write-gitcommithelpfullyverbose
 pscommand_write-gitcommitinteractively
 pscommand_write-gitcommitsignedoff
-pscommand_xin
-pscommand_xwith
 pscommand_yc
 pscommand_ygi
 pscommand_ygl
@@ -6974,8 +6986,7 @@ psfive9admin
 psfoldersize
 psfunction__python3
 psfunction_aar
-psfunction_add-envpathitem
-psfunction_add-envvarpathitem
+psfunction_add_ssh
 psfunction_add-gitlfstrackedfiles
 psfunction_add-gitremote
 psfunction_add-gitskipworktreeflag
@@ -7166,9 +7177,6 @@ psfunction_get-dockercontainerlatestipaddress
 psfunction_get-dockercontainerlatestquiet
 psfunction_get-dockercontainerrunning
 psfunction_get-dockerimage
-psfunction_get-envpathitem
-psfunction_get-envvar
-psfunction_get-envvarpathitem
 psfunction_get-gitbranchdefault
 psfunction_get-gitbranchlist
 psfunction_get-gitbranchlistall
@@ -7814,7 +7822,6 @@ psfunction_jump
 psfunction_kerndeb
 psfunction_kres
 psfunction_local-ignore
-psfunction_measure-envvarchanges
 psfunction_merge-gitrepositoryfromoriginbranchmain
 psfunction_merge-gitrepositoryfromupstreambranchmain
 psfunction_mirrorsite
@@ -7872,13 +7879,9 @@ psfunction_push-gitstashentry
 psfunction_push-gitstashentrywithmessage
 psfunction_pwshrc-show-proxy
 psfunction_pyserver
-psfunction_read-dotenv
 psfunction_register-argcompleteargumentcompleter
 psfunction_remove-dockercontainerall
 psfunction_remove-dockerunusedimage
-psfunction_remove-envpathitem
-psfunction_remove-envvar
-psfunction_remove-envvarpathitem
 psfunction_remove-gitbranch
 psfunction_remove-gitbranchforcefully
 psfunction_remove-gitremote
@@ -7906,7 +7909,6 @@ psfunction_scu-enable-now
 psfunction_scu-mask-now
 psfunction_search-commandpath
 psfunction_search-ruby
-psfunction_set-envvar
 psfunction_set-gitremoteurl
 psfunction_set-itemnixmode
 psfunction_set-locationback1
@@ -7935,9 +7937,11 @@ psfunction_show-gitremote
 psfunction_show-proxy
 psfunction_shttp
 psfunction_shuf
+psfunction_ssh-add-all
 psfunction_ssh-disable-proxy
 psfunction_ssh-enable-proxy
 psfunction_ssh-show-proxy
+psfunction_sshlist
 psfunction_start-gitbisect
 psfunction_start-gitcherrypick
 psfunction_start-gitcherrypickexplained
@@ -8005,8 +8009,6 @@ psfunction_write-gitcommitgpgsignedbykey
 psfunction_write-gitcommithelpfullyverbose
 psfunction_write-gitcommitinteractively
 psfunction_write-gitcommitsignedoff
-psfunction_xin
-psfunction_xwith
 psgallery
 psget
 psgitlab
@@ -8019,6 +8021,7 @@ psincludes_command
 psincludes_function
 psini
 psinsight
+psintune
 psise
 psitem
 psjob
@@ -8080,6 +8083,7 @@ pssqlserver
 pssqlserverbynarymodule
 pssqlservermodule
 psst
+psstgenerator
 pstablacus
 pstanss
 psthread
@@ -8093,6 +8097,7 @@ psword
 pswriteword
 psyaml
 pszabbix
+pubg
 public
 public-key
 public-transport
@@ -8169,6 +8174,7 @@ qol
 qq
 qr
 qrcode
+qrcodes
 qrp
 qrs
 quality
@@ -8186,6 +8192,7 @@ quickbase
 quickbooks
 quicksetup
 quiz
+qumulo
 quota
 quote
 quoteoftheday
@@ -8591,6 +8598,7 @@ sapstartstopazure
 sarcasm
 sarif
 sas
+sat
 satirical
 save
 savedcreds
@@ -8610,10 +8618,7 @@ scatter
 scb
 scc
 sccm
-sccmam
-sccmapplication
 sccminstall
-sccmpackage
 sccmprereqs
 scep
 sch
@@ -8632,7 +8637,6 @@ scheduling
 schema
 schemaextensions
 scheme
-school-information-system
 schulung
 schulverwaltung
 science
@@ -8723,7 +8727,9 @@ securescore
 securesphere
 securestring
 security
+security-awareness-training
 security-policy
+security-score
 security-txt
 security.txt
 securityassertionmarkuplanguage
@@ -8808,6 +8814,7 @@ servicedesk
 servicedeskplus
 serviceendpoints
 servicefabric
+servicelinker
 servicemanagementautomation
 servicemanager
 servicemanagerproxy
@@ -8868,6 +8875,7 @@ shacrypt
 shadow
 shadowcopy
 shadowcopybackups
+shadowgroups
 shanghaitech
 shard
 share
@@ -8955,7 +8963,6 @@ skatterbrainz
 skeleton-loader
 skia
 skiasharp
-skolnilogin
 sku
 skunklab
 sky
@@ -9032,7 +9039,6 @@ soccer
 social
 social-media
 socialmedia
-socketlabs
 sockets
 sodium
 software
@@ -9103,6 +9109,7 @@ speed
 speedometer
 speedtest
 speedtester
+spellcheck
 spelling
 spf
 spi
@@ -9173,6 +9180,7 @@ ssc
 ssdt
 sse
 ssh
+ssh-config
 ssh-keygen
 sshmanagement
 sshservers
@@ -9195,6 +9203,7 @@ stache
 stackedge
 stackexchange
 stackhci
+stackmonitoring
 stackoverflow
 staffhub
 staging
@@ -9215,6 +9224,7 @@ startmen
 startmenu
 starttls
 starwars
+stash
 stat
 state
 static
@@ -9512,8 +9522,6 @@ test-internetconnection
 test-modulepath
 test-osplatform
 test-psremoting
-test-samcmapplicationexists
-test-samcmpackageexists
 test-userisadministrator
 test-xml
 test123
@@ -9534,6 +9542,7 @@ text
 text-to-image
 text-to-speach"
 text-to-speech
+text2image
 textanalysis
 textbuffer
 texting
@@ -9666,6 +9675,7 @@ translit
 transliteration
 transmission
 transparency
+transpilation
 trap
 travel
 trec
@@ -9703,6 +9713,7 @@ truth
 trx
 ts
 tsa
+tsd
 tsheets
 tsqlbestpractice
 tst
@@ -9739,6 +9750,7 @@ typedata
 typeextension
 types
 types.ps1xml
+typescript
 tzutil
 uac
 uberagent
@@ -9749,7 +9761,6 @@ ucs
 ucspowertool
 ud-avataaar
 ud-badgebutton
-ud-badgelink
 ud-breadcrumb
 ud-breadcrumbitem
 ud-burger
@@ -9875,7 +9886,6 @@ uplift
 uplink
 upn
 ups
-upsource
 upstream
 uptime
 uptimerobot
@@ -9943,6 +9953,7 @@ validate-dcb
 validatedsolutions
 validatemapsconnectivity
 validation
+validator
 value
 valve
 vami
@@ -10206,6 +10217,7 @@ webservice
 webservices
 website
 websites
+websocket
 websockets
 websphere
 websphereappserver
@@ -10327,6 +10339,7 @@ windowsvirtualdesktop
 winform
 winforms
 winget
+wingetbridge
 winrar
 winrm
 winrs
@@ -10468,7 +10481,6 @@ xevents
 xh
 xi
 xiaomi
-xin
 xkcd
 xliff
 xlsx
@@ -10494,7 +10506,6 @@ xtrude
 xunit
 xwiki
 xwindowsupdate
-xwith
 yahoo
 yahw
 yamaha
