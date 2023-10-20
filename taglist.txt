@@ -1,8 +1,7 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Thursday, 19 October 2023 17:52:38 UTC
+Updated: Friday, 20 October 2023 02:02:45 UTC
 
-.bat
 .env
 .net
 .prom
@@ -83,7 +82,6 @@ accesscontroldsc
 accessgovernancecp
 accesspoint
 accessrights
-accesstoken
 accord
 accord.net
 accordian
@@ -311,7 +309,6 @@ analyticsrules
 analyze
 analyzer
 analyzerrules
-anchor
 and
 android
 anet
@@ -361,7 +358,6 @@ apmtraces
 aportal
 app
 app-control-for-business
-app-only
 app-v
 app-volumes
 app.config
@@ -484,7 +480,6 @@ assistance
 association
 ast
 astronomy
-asv
 asymmetric
 async
 asynchronous
@@ -565,6 +560,7 @@ availability
 availabilityset
 avalara
 avalonia
+avatar
 avd
 ave
 avepoint
@@ -592,6 +588,7 @@ axis
 axium
 az
 az-cli
+az.stackhci
 azautomation
 azcli
 azcompute
@@ -732,12 +729,12 @@ batch
 batchclass
 batman
 battery
-bayern
 bb
 bbp
 bc
 bcd
 bcdedit
+bcdr
 bd
 bdd
 bds
@@ -803,7 +800,6 @@ biztalk
 biztalkalm
 biztalkdeploymentframework
 bks
-black
 blackbaud
 blackbox
 blacklist
@@ -972,7 +968,6 @@ catimage
 cats
 catty
 cavium
-cb
 cblueshell
 cbr
 cbz
@@ -988,6 +983,7 @@ cd-up
 cd+
 cdable_vars
 cdata
+cdb
 cdi
 cdm
 cdn
@@ -1230,6 +1226,7 @@ codegen
 codegeneration
 codegenerator
 codepoint
+codereview
 codes
 codesign
 codesigning
@@ -1347,6 +1344,7 @@ connect-exchangeonprem
 connect-mstsc
 connect-rdp
 connect-remotedesktop
+connect-samcmsite
 connected
 connectedkubernetes
 connectedmachine
@@ -1432,7 +1430,6 @@ coreepower.net
 coreepower.net.soundcloudexplode
 coreposh
 coreutils
-corona
 cortex
 cos
 cosmos
@@ -1591,7 +1588,6 @@ cyclicredundancycheck
 cygwin
 cylance
 cypher
-cyrillic
 d365
 d365ce
 d365f&o
@@ -1641,7 +1637,6 @@ datacollectionrule
 dataconduit
 dataconnectivity
 datadog
-dataexchange
 dataexplorer
 datafactory
 dataflow
@@ -1736,7 +1731,6 @@ defenderast
 defenderforendpoint
 defense
 deflate
-delegated
 delegationmodel
 delete
 delete-orphan-branches
@@ -1774,7 +1768,6 @@ detect
 detection
 detectionrule
 deutsch
-deutschland
 dev
 dev-tools
 devart
@@ -1788,7 +1781,6 @@ devenv
 devexpress
 deviation
 device
-devicecode
 deviceid
 deviceprovisioningservice
 devices
@@ -1820,7 +1812,6 @@ diff
 difference
 dig
 digikam
-digital
 digital-forensics
 digitalforensics
 digitalocean
@@ -1857,6 +1848,7 @@ discordrpc
 discount
 discover
 discovery
+discutils
 disk
 disk_to_disk
 disk-space
@@ -1864,7 +1856,9 @@ diskfree
 diskimage
 diskpart
 diskpool
+disksize
 diskspace
+diskusage
 dism
 dismal
 display
@@ -2086,6 +2080,7 @@ ebur128
 ec2
 ecommerce
 ecovadis
+ed25519
 edgaronline
 edge
 edgebackup
@@ -2387,7 +2382,6 @@ favorites
 fb-pro
 fciv
 fd
-feather
 feature
 features
 featuresondemand
@@ -2699,6 +2693,8 @@ get-passivetrippoint
 get-passlist
 get-path
 get-pinneditem
+get-samcmassignedsite
+get-samcmcurrentmanagementpoint
 get-samplingperiod
 get-stalecomps
 get-staleusers
@@ -2721,8 +2717,6 @@ git
 git-client
 git-clone
 git-flow
-git-hf
-git-hubflow
 git-lfs
 git-proxy
 git-stat
@@ -2766,7 +2760,6 @@ google
 google-chrome
 google-histogram
 google-sankey
-google-table
 googleadsv2
 googlecloudplatform
 googledrive
@@ -2834,7 +2827,6 @@ gtx1080ti
 guardedfabric
 guardicore
 gubbins
-guest
 guestconfiguration
 guests
 gui
@@ -2847,12 +2839,10 @@ guru
 gvim
 gw2
 gwbasic
-gymnasium
 gz
 gzip
 gzip-compression
 ha
-haarlemsdagblad
 hack
 hacking
 hacktoberfest
@@ -2987,7 +2977,6 @@ home
 home_automation
 homebrew
 homelandsecurity
-homeschooling
 hon
 hooking
 horizon
@@ -3039,7 +3028,6 @@ httpserver
 huawei
 huawei-ibmc-cmdlets
 hub
-hubflow
 hubot
 hubsite
 hubspot
@@ -3168,6 +3156,7 @@ import-csv
 import-dtdriverpackpackagedefinitionsms
 import-modulefrompath
 import-passlist
+import-sampackagedefinitionsms
 importer
 importexport
 importteams
@@ -3270,7 +3259,6 @@ intranet
 intrusion
 intuitive
 intune
-intuneappwinutil
 intunestuff
 inventory
 investigation
@@ -3512,7 +3500,6 @@ kudu
 kurukuru
 kusto
 kvm
-kvp
 l1tf
 l2tp
 lab
@@ -3550,7 +3537,6 @@ lastlogon
 lastpass
 latency
 latestupdate
-latin
 latitude
 launcher
 layer
@@ -3672,6 +3658,7 @@ location
 locationbasedservices
 lock
 lockbox
+lockdisplaytimeout
 lockdown
 locking
 lockoutreport
@@ -3882,7 +3869,6 @@ md5
 md5_v2-afbf3dae88c049d004174f2d610ee134
 md5sum
 mdatp
-mdb
 mdbc
 mde
 mdep
@@ -4014,7 +4000,6 @@ mitigation
 mitre
 mitre_att&ck
 mitrend
-mittelschule
 mixedreality
 mixer
 mkdocs
@@ -4272,6 +4257,8 @@ new-item
 new-itemproperty
 new-pinneditem
 new-rdpsession
+new-samcmapplicationfrompackagedefinitionsms
+new-samcmpackagefrompackagedefinitionsms
 new-system
 new-udmorph
 newpassword
@@ -4389,7 +4376,6 @@ oact
 oauth
 oauth2
 oauth2.0
-oberstufe
 obj
 object
 objectid
@@ -4799,6 +4785,7 @@ pleasant
 pleasantpasswordserver
 plex
 plist
+plog
 plot
 plugin
 plugins
@@ -4873,7 +4860,9 @@ poshy-code-search
 poshy-colors
 poshy-coreutils-ish
 poshy-dir-nav
+poshy-ecks
 poshy-env-proxy
+poshy-env-var
 poshy-ls-isms
 poshy-lucidity
 poshy-multimedia
@@ -4896,7 +4885,6 @@ poshy-wrap-gem
 poshy-wrap-gh
 poshy-wrap-git
 poshy-wrap-git-flow
-poshy-wrap-git-hf
 poshy-wrap-git-lfs
 poshy-wrap-golang
 poshy-wrap-helm
@@ -4930,7 +4918,6 @@ pow
 powdrgit
 power
 power-apps
-power-cbr
 power-platform
 power-shell
 powerapps
@@ -4991,6 +4978,7 @@ powershellgallery
 powershellget
 powershellgetformatversion_2.0
 powershellise
+powershelllogger
 powershellmodule
 powershellmoduleupdate
 powershellpr0mpt
@@ -5176,6 +5164,8 @@ pscommand_acp
 pscommand_acse
 pscommand_acsp
 pscommand_add_ssh
+pscommand_add-envpathitem
+pscommand_add-envvarpathitem
 pscommand_add-gitlfstrackedfiles
 pscommand_add-gitremote
 pscommand_add-gitskipworktreeflag
@@ -5583,6 +5573,9 @@ pscommand_get-dockercontainerlatestipaddress
 pscommand_get-dockercontainerlatestquiet
 pscommand_get-dockercontainerrunning
 pscommand_get-dockerimage
+pscommand_get-envpathitem
+pscommand_get-envvar
+pscommand_get-envvarpathitem
 pscommand_get-gitbranchdefault
 pscommand_get-gitbranchlist
 pscommand_get-gitbranchlistall
@@ -5666,12 +5659,6 @@ pscommand_ggf
 pscommand_ggs
 pscommand_ggui
 pscommand_ggup
-pscommand_ghf
-pscommand_ghff
-pscommand_ghfh
-pscommand_ghfr
-pscommand_ghfs
-pscommand_ghfu
 pscommand_ghm
 pscommand_gi
 pscommand_gignore
@@ -5966,12 +5953,6 @@ pscommand_invoke-githubapi-bodyfields
 pscommand_invoke-githubapi-bodyfile
 pscommand_invoke-githubapi-bodyjson
 pscommand_invoke-githubapi-bodyraw
-pscommand_invoke-githubflow
-pscommand_invoke-githubflowfeature
-pscommand_invoke-githubflowhotfix
-pscommand_invoke-githubflowrelease
-pscommand_invoke-githubflowsupport
-pscommand_invoke-githubflowupdate
 pscommand_invoke-gitlfsinstall
 pscommand_invoke-gitlfsmigrateimport
 pscommand_invoke-gitmerge
@@ -6557,6 +6538,7 @@ pscommand_mcisk
 pscommand_mcp
 pscommand_mcpsk
 pscommand_mdep
+pscommand_measure-envvarchanges
 pscommand_merge-gitrepositoryfromoriginbranchmain
 pscommand_merge-gitrepositoryfromupstreambranchmain
 pscommand_mi
@@ -6670,10 +6652,14 @@ pscommand_pyserver
 pscommand_python
 pscommand_python3
 pscommand_rb
+pscommand_read-dotenv
 pscommand_register-argcompleteargumentcompleter
 pscommand_remove_gem
 pscommand_remove-dockercontainerall
 pscommand_remove-dockerunusedimage
+pscommand_remove-envpathitem
+pscommand_remove-envvar
+pscommand_remove-envvarpathitem
 pscommand_remove-gitbranch
 pscommand_remove-gitbranchforcefully
 pscommand_remove-gitremote
@@ -6703,6 +6689,7 @@ pscommand_scu-enable-now
 pscommand_scu-mask-now
 pscommand_search-commandpath
 pscommand_search-ruby
+pscommand_set-envvar
 pscommand_set-gitremoteurl
 pscommand_set-itemnixmode
 pscommand_set-locationback1
@@ -6878,6 +6865,8 @@ pscommand_write-gitcommitgpgsignedbykey
 pscommand_write-gitcommithelpfullyverbose
 pscommand_write-gitcommitinteractively
 pscommand_write-gitcommitsignedoff
+pscommand_xin
+pscommand_xwith
 pscommand_yc
 pscommand_ygi
 pscommand_ygl
@@ -6987,6 +6976,8 @@ psfoldersize
 psfunction__python3
 psfunction_aar
 psfunction_add_ssh
+psfunction_add-envpathitem
+psfunction_add-envvarpathitem
 psfunction_add-gitlfstrackedfiles
 psfunction_add-gitremote
 psfunction_add-gitskipworktreeflag
@@ -7177,6 +7168,9 @@ psfunction_get-dockercontainerlatestipaddress
 psfunction_get-dockercontainerlatestquiet
 psfunction_get-dockercontainerrunning
 psfunction_get-dockerimage
+psfunction_get-envpathitem
+psfunction_get-envvar
+psfunction_get-envvarpathitem
 psfunction_get-gitbranchdefault
 psfunction_get-gitbranchlist
 psfunction_get-gitbranchlistall
@@ -7370,12 +7364,6 @@ psfunction_invoke-githubapi-bodyfields
 psfunction_invoke-githubapi-bodyfile
 psfunction_invoke-githubapi-bodyjson
 psfunction_invoke-githubapi-bodyraw
-psfunction_invoke-githubflow
-psfunction_invoke-githubflowfeature
-psfunction_invoke-githubflowhotfix
-psfunction_invoke-githubflowrelease
-psfunction_invoke-githubflowsupport
-psfunction_invoke-githubflowupdate
 psfunction_invoke-gitlfsinstall
 psfunction_invoke-gitlfsmigrateimport
 psfunction_invoke-gitmerge
@@ -7822,6 +7810,7 @@ psfunction_jump
 psfunction_kerndeb
 psfunction_kres
 psfunction_local-ignore
+psfunction_measure-envvarchanges
 psfunction_merge-gitrepositoryfromoriginbranchmain
 psfunction_merge-gitrepositoryfromupstreambranchmain
 psfunction_mirrorsite
@@ -7879,9 +7868,13 @@ psfunction_push-gitstashentry
 psfunction_push-gitstashentrywithmessage
 psfunction_pwshrc-show-proxy
 psfunction_pyserver
+psfunction_read-dotenv
 psfunction_register-argcompleteargumentcompleter
 psfunction_remove-dockercontainerall
 psfunction_remove-dockerunusedimage
+psfunction_remove-envpathitem
+psfunction_remove-envvar
+psfunction_remove-envvarpathitem
 psfunction_remove-gitbranch
 psfunction_remove-gitbranchforcefully
 psfunction_remove-gitremote
@@ -7909,6 +7902,7 @@ psfunction_scu-enable-now
 psfunction_scu-mask-now
 psfunction_search-commandpath
 psfunction_search-ruby
+psfunction_set-envvar
 psfunction_set-gitremoteurl
 psfunction_set-itemnixmode
 psfunction_set-locationback1
@@ -8009,6 +8003,8 @@ psfunction_write-gitcommitgpgsignedbykey
 psfunction_write-gitcommithelpfullyverbose
 psfunction_write-gitcommitinteractively
 psfunction_write-gitcommitsignedoff
+psfunction_xin
+psfunction_xwith
 psgallery
 psget
 psgitlab
@@ -8107,7 +8103,6 @@ publicfolder
 publicip
 publish
 publishedmodules
-publisher
 publishers
 publishing
 pubsub
@@ -8143,7 +8138,6 @@ pwpush
 pwsafe
 pwsh
 pwsh.fw
-pwshake
 pwshfw
 pwshrc
 pxedistributionpoint
@@ -8210,7 +8204,6 @@ radarr
 radio
 raidcontrollercmdlets
 rainbow
-raisers
 raisersedge
 raj
 ram
@@ -8264,7 +8257,6 @@ readiness
 readme
 readpdf
 readthedocs
-realschule
 realtimeprotection
 rebase
 reboot
@@ -8314,7 +8306,6 @@ reference
 reflect
 reflection
 refresh
-refreshtoken
 reg
 reg_binary
 reg_dword
@@ -8517,6 +8508,7 @@ routine
 rover
 royalapps
 royaldocument
+royalserver
 royalts
 royaltsx
 rpa
@@ -8618,7 +8610,10 @@ scatter
 scb
 scc
 sccm
+sccmam
+sccmapplication
 sccminstall
+sccmpackage
 sccmprereqs
 scep
 sch
@@ -8637,8 +8632,8 @@ scheduling
 schema
 schemaextensions
 scheme
+school-information-system
 schulung
-schulverwaltung
 science
 scissors
 scm
@@ -8963,6 +8958,7 @@ skatterbrainz
 skeleton-loader
 skia
 skiasharp
+skolnilogin
 sku
 skunklab
 sky
@@ -9039,6 +9035,7 @@ soccer
 social
 social-media
 socialmedia
+socketlabs
 sockets
 sodium
 software
@@ -9522,6 +9519,8 @@ test-internetconnection
 test-modulepath
 test-osplatform
 test-psremoting
+test-samcmapplicationexists
+test-samcmpackageexists
 test-userisadministrator
 test-xml
 test123
@@ -9671,8 +9670,6 @@ transforms
 transitionmanager
 translate
 translation
-translit
-transliteration
 transmission
 transparency
 transpilation
@@ -9761,6 +9758,7 @@ ucs
 ucspowertool
 ud-avataaar
 ud-badgebutton
+ud-badgelink
 ud-breadcrumb
 ud-breadcrumbitem
 ud-burger
@@ -9774,12 +9772,10 @@ ud-confetti
 ud-control
 ud-dashboard
 ud-datepicker
-ud-field
 ud-flexytable
 ud-funnel
 ud-hero
 ud-illustration
-ud-input
 ud-licensed
 ud-loadingoverlay
 ud-minesweeper
@@ -9886,6 +9882,7 @@ uplift
 uplink
 upn
 ups
+upsource
 upstream
 uptime
 uptimerobot
@@ -10438,7 +10435,6 @@ wsl
 wsl2
 wsl2 psmodule psedition_core
 wsman
-wsmanlistener
 wso2
 wsus
 wt
@@ -10481,6 +10477,7 @@ xevents
 xh
 xi
 xiaomi
+xin
 xkcd
 xliff
 xlsx
@@ -10506,6 +10503,7 @@ xtrude
 xunit
 xwiki
 xwindowsupdate
+xwith
 yahoo
 yahw
 yamaha

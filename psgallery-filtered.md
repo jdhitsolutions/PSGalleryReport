@@ -3,6 +3,151 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [MailPolicyExplainer](https://www.powershellgallery.com/Packages/MailPolicyExplainer/1.2.0) | 1.2.0
+
+### Published: 10/20/2023 00:26:53 by Colin Cogle
+
+Explains a domain's email DNS records, including MX, SPF, DKIM, DMARC, and more.
+
+__Downloads__: 12 | __Repository__: https://github.com/rhymeswithmogul/MailPolicyExplainer
+
+## [PowerPlatformCLIAutoComplete](https://www.powershellgallery.com/Packages/PowerPlatformCLIAutoComplete/1.0.3) | 1.0.3
+
+### Published: 10/20/2023 00:15:35 by Natraj Yegnaraman
+
+Auto completions for Power Platform CLI
+
+__Downloads__: 43 | __Repository__: https://github.com/rajyraman/power-platform-cli-completion
+
+## [AppManiProgramManager](https://www.powershellgallery.com/Packages/AppManiProgramManager/1.44.1) | 1.44.1
+
+### Published: 10/19/2023 23:32:16 by AppMani
+
+Module for installing basic programs: This module provides functions for downloading installers from specified links, installing the programs, verifying the installed programs/services, and cleaning up the installer files.
+
+__Downloads__: 112,716 | __Repository__: 
+
+## [BuildMasterAutomation](https://www.powershellgallery.com/Packages/BuildMasterAutomation/3.2.0) | 3.2.0
+
+### Published: 10/19/2023 21:51:42 by WebMD Health Services
+
+BuildMasterAutomation is a PowerShell module for working with BuildMaster web APIs. BuildMaster is an application
+build and deployment automation tool by Inedo software. This module wraps its web APIs in a PowerShell interface. The
+module's functions allow you to read and create applications, releases, builds, etc. If this module doesn't have a
+function for a specific API endpoint, it has generic `Invoke-BMRestMethod` and `Invoke-BMNativeApimethod` functions that
+take the pain out of creating the proper web requests.
+
+__Downloads__: 14,901 | __Repository__: https://github.com/webmd-health-services/BuildMasterAutomation
+
+## [WorkdayApi](https://www.powershellgallery.com/Packages/WorkdayApi/2.3.2) | 2.3.2
+
+### Published: 10/19/2023 21:27:46 by Nathan Hartley
+
+Provides a means to access the Workday SOAP API in a Powershell friendly manner.
+
+__Downloads__: 1,763 | __Repository__: https://github.com/treestryder/powershell_module_workdayapi/
+
+## [Harden-Windows-Security-Module](https://www.powershellgallery.com/Packages/Harden-Windows-Security-Module/0.2.0) | 0.2.0
+
+### Published: 10/19/2023 21:24:17 by HotCakeX
+
+Harden Windows Safely, Securely, only with Official Microsoft methods
+
+⭕ This module provides 3 main features: Hardening, Auditing/checking the system compliance, and undoing the Hardening
+
+⭕ Please read the GitHub's readme before running this module: https://github.com/HotCakeX/Harden-Windows-Security
+
+💠 Features of this module:
+
+  ✅ Everything always stays up-to-date with the newest proactive security measures that are industry standards and scalable.
+  ✅ Everything is in plain text, nothing hidden, no 3rd party executable or pre-compiled binary is involved.
+  ✅ No Windows functionality is removed/disabled against Microsoft's recommendations.
+  ✅ The module primarily uses Group policies, the Microsoft recommended way of configuring Windows. It also uses PowerShell cmdlets where Group Policies aren't available, and finally uses a few registry keys to configure security measures that can neither be configured using Group Policies nor PowerShell cmdlets. This is why the module doesn't break anything or cause unwanted behavior.
+  ✅ When a hardening measure is no longer necessary because it's applied by default by Microsoft on new builds of Windows, it will also be removed from the module in order to prevent any problems and because it won't be necessary anymore.
+  ✅ The module can be run infinite number of times, it's made in a way that it won't make any duplicate changes.
+  ✅ The module prompts for confirmation before running each hardening category.
+  ✅ Applying these hardening measures makes your PC compliant with Microsoft Security Baselines and Secured-core PC specifications (provided that you use modern hardware that supports the latest Windows security features)
+
+💠 Hardening Categories from top to bottom: (🔻Detailed info about each of them at my Github🔻)
+
+⏹ Commands that require Administrator Privileges
+  ✅ Microsoft Security Baselines
+  ✅ Microsoft 365 Apps Security Baselines
+  ✅ Microsoft Defender
+  ✅ Attack surface reduction rules
+  ✅ Bitlocker Settings
+  ✅ TLS Security
+  ✅ Lock Screen
+  ✅ UAC (User Account Control)
+  ✅ Device Guard
+  ✅ Windows Firewall
+  ✅ Optional Windows Features
+  ✅ Windows Networking
+  ✅ Miscellaneous Configurations
+  ✅ Windows Update Configurations
+  ✅ Edge Browser Configurations
+  ✅ Certificate Checking Commands
+  ✅ Country IP Blocking
+⏹ Commands that don't require Administrator Privileges
+  ✅ Non-Admin Commands that only affect the current user and do not make machine-wide changes.
+
+
+💎 Note: If you have multiple accounts on your device, you only need to apply the hardening measures 1 time with Admin privileges, that will make system-wide changes. Then you can optionally run the module, without Admin privileges, for each standard user to apply the Non-Admin category.
+
+🏴 If you have any questions, requests, suggestions etc. about this script, please open a new Discussion or Issue on GitHub
+
+🟡 The module generates a nice output on the screen as well as giving users an option to export the results in a CSV file.
+
+__Downloads__: 1,296 | __Repository__: https://github.com/HotCakeX/Harden-Windows-Security
+
+## [UncommonSense.Parool](https://www.powershellgallery.com/Packages/UncommonSense.Parool/0.0.12) | 0.0.12
+
+### Published: 10/19/2023 20:26:26 by Jan Hoek
+
+PowerShell module for listing Parool articles
+
+__Downloads__: 1,125 | __Repository__: https://github.com/jhoek/UncommonSense.Parool
+
+## [FreshservicePS](https://www.powershellgallery.com/Packages/FreshservicePS/0.1.6) | 0.1.6
+
+### Published: 10/19/2023 20:10:54 by Rob Simmers
+
+A Powershell module to interface with the Freshservice REST API.
+
+__Downloads__: 280 | __Repository__: https://github.com/flycastpartnersinc/FreshservicePS
+
+## [DCToolbox](https://www.powershellgallery.com/Packages/DCToolbox/2.0.10) | 2.0.10
+
+### Published: 10/19/2023 20:00:09 by Daniel Chronlund
+
+A PowerShell toolbox for Microsoft 365 security fans.
+
+__Downloads__: 20,123 | __Repository__: https://github.com/DanielChronlund/DCToolbox
+
+## [TMD.Common](https://www.powershellgallery.com/Packages/TMD.Common/2.5.1) | 2.5.1
+
+### Published: 10/19/2023 18:50:18 by TransitionManager
+
+Provides commands to an end user within TMD PowerShell Scripts.
+
+__Downloads__: 1,093 | __Repository__: 
+
+## [TransitionManager](https://www.powershellgallery.com/Packages/TransitionManager/6.4.3) | 6.4.3
+
+### Published: 10/19/2023 18:44:18 by TransitionManager
+
+Provides TransitionManager Functionality
+
+__Downloads__: 1,227 | __Repository__: 
+
+## [slmgr-ps](https://www.powershellgallery.com/Packages/slmgr-ps/0.2.1) | 0.2.1
+
+### Published: 10/19/2023 18:22:37 by Zafer Balkan
+
+A drop in replacement for slmgr script
+
+__Downloads__: 47 | __Repository__: https://github.com/zbalkan/slmgr-ps
+
 ## [D365BCAppHelper](https://www.powershellgallery.com/Packages/D365BCAppHelper/0.0.0.27) | 0.0.0.27
 
 ### Published: 10/19/2023 17:25:20 by SimonOfHH
@@ -56,14 +201,6 @@ KNet PowerShell command line interface is a PowerShell Module to use Apache Kafk
 More information within the project hosted on GitHub. Further information at https://github.com/masesgroup/KNet.
 
 __Downloads__: 379 | __Repository__: https://github.com/masesgroup/KNet
-
-## [FreshservicePS](https://www.powershellgallery.com/Packages/FreshservicePS/0.1.4) | 0.1.4
-
-### Published: 10/19/2023 14:19:18 by Rob Simmers
-
-A Powershell module to interface with the Freshservice REST API.
-
-__Downloads__: 280 | __Repository__: https://github.com/flycastpartnersinc/FreshservicePS
 
 ## [spec.envvar.management](https://www.powershellgallery.com/Packages/spec.envvar.management/1.0.0) | 1.0.0
 
@@ -143,7 +280,7 @@ __Downloads__: 12 | __Repository__:
 
 PowerShell Module to create Mermaid diagrams.
 
-__Downloads__: 2,602 | __Repository__: https://abbgrade.github.io/PsMermaidTools/
+__Downloads__: 2,606 | __Repository__: https://abbgrade.github.io/PsMermaidTools/
 
 ## [IntuneStuff](https://www.powershellgallery.com/Packages/IntuneStuff/1.4.4) | 1.4.4
 
@@ -170,7 +307,7 @@ Some of the interesting functions:
 - Upload-IntuneAutopilotHash - upload given autopilot hash (owner and hostname) into Intune
 - ...
 
-__Downloads__: 12,973 | __Repository__: https://github.com/ztrhgf/useful_powershell_modules
+__Downloads__: 12,976 | __Repository__: https://github.com/ztrhgf/useful_powershell_modules
 
 ## [MASES.JNetPS](https://www.powershellgallery.com/Packages/MASES.JNetPS/2.0.2) | 2.0.2
 
@@ -206,7 +343,7 @@ __Downloads__: 232 | __Repository__: https://github.com/PSModule/PATH
 
 Azure API call handler for Microsoft Graph, Azure Resource Management, KeyVault and Log Analytics. Visit aka.ms/AzAPICall
 
-__Downloads__: 118,667 | __Repository__: https://aka.ms/AzAPICall
+__Downloads__: 118,672 | __Repository__: https://aka.ms/AzAPICall
 
 ## [ExchangeEssentials](https://www.powershellgallery.com/Packages/ExchangeEssentials/0.8.0) | 0.8.0
 
@@ -270,7 +407,7 @@ __Downloads__: 2,583 | __Repository__: https://github.com/fbprogmbh/Audit-Test-A
 
 Provides cmdlets that compliment the existing WinGet CLI. Primarily, improves the user-experience for software updates and offers a convenient way to install collections of software via WinGet through the use of user-defined tags.
 
-__Downloads__: 7,794 | __Repository__: https://github.com/jjcarrier/PS-WinGet-Essentials
+__Downloads__: 7,798 | __Repository__: https://github.com/jjcarrier/PS-WinGet-Essentials
 
 ## [VCFInstanceRecovery](https://www.powershellgallery.com/Packages/VCFInstanceRecovery/1.0.2) | 1.0.2
 
@@ -416,7 +553,7 @@ __Downloads__: 1,825 | __Repository__:
 
 This module allows the creation of password expiry emails for users, managers, administrators, and security according to defined templates. It's able to work with different rules allowing to fully customize who gets the email and when.
 
-__Downloads__: 1,259 | __Repository__: https://github.com/EvotecIT/PasswordSolution
+__Downloads__: 1,260 | __Repository__: https://github.com/EvotecIT/PasswordSolution
 
 ## [TisaneLampClient](https://www.powershellgallery.com/Packages/TisaneLampClient/7.0.5) | 7.0.5
 
@@ -1537,7 +1674,7 @@ __Downloads__: 14,431 | __Repository__: https://github.com/OneIdentity/safeguard
 
 Master module for a collection of modules. These modules are varied in their tasks. The overall purpose of them being to provide a powerfull Toolset to improve IT Admin workflows.
 
-__Downloads__: 29,384 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox
+__Downloads__: 29,387 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox
 
 ## [AdminToolbox.FortiWizard](https://www.powershellgallery.com/Packages/AdminToolbox.FortiWizard/2.18.15) | 2.18.15
 
@@ -1569,7 +1706,7 @@ __Downloads__: 15,230 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions for working with Office365 and Azure modules
 
-__Downloads__: 16,504 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 16,507 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.Networking](https://www.powershellgallery.com/Packages/AdminToolbox.Networking/2.18.17) | 2.18.17
 
@@ -1577,7 +1714,7 @@ __Downloads__: 16,504 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Network Troubleshooting Functions
 
-__Downloads__: 32,574 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 32,571 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.MSGraph](https://www.powershellgallery.com/Packages/AdminToolbox.MSGraph/1.2.109) | 1.2.109
 
@@ -1585,7 +1722,7 @@ __Downloads__: 32,574 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Microsoft Graph interactive API Functions
 
-__Downloads__: 5,568 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 5,571 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.Fun](https://www.powershellgallery.com/Packages/AdminToolbox.Fun/1.6.110) | 1.6.110
 
@@ -1601,7 +1738,7 @@ __Downloads__: 15,235 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 File Management Functions
 
-__Downloads__: 15,908 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 15,911 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.FFTools](https://www.powershellgallery.com/Packages/AdminToolbox.FFTools/4.16.59) | 4.16.59
 
@@ -1617,7 +1754,7 @@ __Downloads__: 15,819 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions for Exchange Management
 
-__Downloads__: 16,895 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 16,898 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.EndpointManagement](https://www.powershellgallery.com/Packages/AdminToolbox.EndpointManagement/4.9.102) | 4.9.102
 
@@ -1625,7 +1762,7 @@ __Downloads__: 16,895 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions for management of endpoints
 
-__Downloads__: 17,473 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 17,476 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.ActiveDirectory](https://www.powershellgallery.com/Packages/AdminToolbox.ActiveDirectory/1.9.107) | 1.9.107
 
@@ -1665,60 +1802,7 @@ __Downloads__: 25 | __Repository__: https://github.com/Passy121/ResolveEntraID
 
 A module for efficient file management, enabling seamless file downloads from Azure Blob storage, file hash comparisons, and a suite of essential file operations.
 
-__Downloads__: 28,243 | __Repository__: 
-
-## [Harden-Windows-Security-Module](https://www.powershellgallery.com/Packages/Harden-Windows-Security-Module/0.1.9) | 0.1.9
-
-### Published: 10/17/2023 11:51:50 by HotCakeX
-
-Harden Windows Safely, Securely, only with Official Microsoft methods
-
-⭕ This module provides 3 main features: Hardening, Auditing/checking the system compliance, and undoing the Hardening
-
-⭕ Please read the GitHub's readme before running this module: https://github.com/HotCakeX/Harden-Windows-Security
-
-💠 Features of this module:
-
-  ✅ Everything always stays up-to-date with the newest proactive security measures that are industry standards and scalable.
-  ✅ Everything is in plain text, nothing hidden, no 3rd party executable or pre-compiled binary is involved.
-  ✅ No Windows functionality is removed/disabled against Microsoft's recommendations.
-  ✅ The module primarily uses Group policies, the Microsoft recommended way of configuring Windows. It also uses PowerShell cmdlets where Group Policies aren't available, and finally uses a few registry keys to configure security measures that can neither be configured using Group Policies nor PowerShell cmdlets. This is why the module doesn't break anything or cause unwanted behavior.
-  ✅ When a hardening measure is no longer necessary because it's applied by default by Microsoft on new builds of Windows, it will also be removed from the module in order to prevent any problems and because it won't be necessary anymore.
-  ✅ The module can be run infinite number of times, it's made in a way that it won't make any duplicate changes.
-  ✅ The module prompts for confirmation before running each hardening category.
-  ✅ Applying these hardening measures makes your PC compliant with Microsoft Security Baselines and Secured-core PC specifications (provided that you use modern hardware that supports the latest Windows security features)
-
-💠 Hardening Categories from top to bottom: (🔻Detailed info about each of them at my Github🔻)
-
-⏹ Commands that require Administrator Privileges
-  ✅ Microsoft Security Baselines
-  ✅ Microsoft 365 Apps Security Baselines
-  ✅ Microsoft Defender
-  ✅ Attack surface reduction rules
-  ✅ Bitlocker Settings
-  ✅ TLS Security
-  ✅ Lock Screen
-  ✅ UAC (User Account Control)
-  ✅ Device Guard
-  ✅ Windows Firewall
-  ✅ Optional Windows Features
-  ✅ Windows Networking
-  ✅ Miscellaneous Configurations
-  ✅ Windows Update Configurations
-  ✅ Edge Browser Configurations
-  ✅ Certificate Checking Commands
-  ✅ Country IP Blocking
-⏹ Commands that don't require Administrator Privileges
-  ✅ Non-Admin Commands that only affect the current user and do not make machine-wide changes.
-
-
-💎 Note: If you have multiple accounts on your device, you only need to apply the hardening measures 1 time with Admin privileges, that will make system-wide changes. Then you can optionally run the module, without Admin privileges, for each standard user to apply the Non-Admin category.
-
-🏴 If you have any questions, requests, suggestions etc. about this script, please open a new Discussion or Issue on GitHub
-
-🟡 The module generates a nice output on the screen as well as giving users an option to export the results in a CSV file.
-
-__Downloads__: 1,296 | __Repository__: https://github.com/HotCakeX/Harden-Windows-Security
+__Downloads__: 28,245 | __Repository__: 
 
 ## [PlcGhostBuster](https://www.powershellgallery.com/Packages/PlcGhostBuster/1.1) | 1.1
 
@@ -1728,21 +1812,13 @@ Plc controller powershell module
 
 __Downloads__: 11 | __Repository__: https://github.com/Naihan/PlcGhostBuster
 
-## [Aimtec_QRCodeGenerator](https://www.powershellgallery.com/Packages/Aimtec_QRCodeGenerator/2.6.3) | 2.6.3
+## [Qumulo](https://www.powershellgallery.com/Packages/Qumulo/6.2.2.1) | 6.2.2.1
 
-### Published: 10/17/2023 10:50:55 by Dr. Tobias Weltner
+### Published: 10/17/2023 09:27:04 by Berat Ulualan
 
-creates QR codes offline
+Qumulo Powershell Toolkit will help the Qumulo customers who uses Microsoft PowerShell for their daily operations.
 
-__Downloads__: 6 | __Repository__: 
-
-## [slmgr-ps](https://www.powershellgallery.com/Packages/slmgr-ps/0.1) | 0.1
-
-### Published: 10/17/2023 09:35:42 by Zafer Balkan
-
-A drop in replacement for slmgr script
-
-__Downloads__: 47 | __Repository__: https://github.com/zbalkan/slmgr-ps
+__Downloads__: 360 | __Repository__: 
 
 ## [AsBuiltReport.Fortinet.FortiGate](https://www.powershellgallery.com/Packages/AsBuiltReport.Fortinet.FortiGate/0.2.2) | 0.2.2
 
@@ -1858,7 +1934,7 @@ __Downloads__: 12 | __Repository__: http://hewlettpackard.github.io/POSH-HPEOneV
 
 Module for PowerShell Universal.
 
-__Downloads__: 49,402 | __Repository__: https://ironmansoftware.com/powershell-universal
+__Downloads__: 49,400 | __Repository__: https://ironmansoftware.com/powershell-universal
 
 ## [PSSailpoint](https://www.powershellgallery.com/Packages/PSSailpoint/1.1.3) | 1.1.3
 
@@ -1882,7 +1958,7 @@ __Downloads__: 1,095 | __Repository__: https://github.com/Azure/AzLoadBalancerMi
 
 This module will make it easier to use the Datto RMM API in your PowerShell scripts. As all the hard work is done, you can develop your scripts faster and be more efficient. There is no need to go through a big learning curve spending lots of time working out how to use the Datto RMM API. Simply load the module, enter your API keys and get results within minutes!
 
-__Downloads__: 112,023 | __Repository__: https://github.com/aaronengels/DattoRMM
+__Downloads__: 112,027 | __Repository__: https://github.com/aaronengels/DattoRMM
 
 ## [SvRooij.ContentPrep.Cmdlet](https://www.powershellgallery.com/Packages/SvRooij.ContentPrep.Cmdlet/0.1.0) | 0.1.0
 
@@ -1922,7 +1998,7 @@ __Downloads__: 72 | __Repository__: https://github.com/SCOMnewbie/PSMSALNet
 
 Adds functionality for working with Azure DevOps and Team Foundation Server.
 
-__Downloads__: 1,694,321 | __Repository__: https://github.com/MethodsAndPractices/vsteam
+__Downloads__: 1,694,373 | __Repository__: https://github.com/MethodsAndPractices/vsteam
 
 ## [d365fo.tools](https://www.powershellgallery.com/Packages/d365fo.tools/0.7.2) | 0.7.2
 
@@ -1980,13 +2056,21 @@ Cross platform module that can get/set information in Active Directory.`nSee htt
 
 __Downloads__: 832 | __Repository__: https://github.com/jborean93/PSOpenAD
 
+## [SharePointEssentials](https://www.powershellgallery.com/Packages/SharePointEssentials/1.0.0) | 1.0.0
+
+### Published: 10/15/2023 14:22:00 by Przemyslaw Klys
+
+Simple project SharePointEssentials
+
+__Downloads__: 6 | __Repository__: 
+
 ## [PSWriteHTML](https://www.powershellgallery.com/Packages/PSWriteHTML/1.11.0) | 1.11.0
 
 ### Published: 10/15/2023 14:06:49 by Przemyslaw Klys
 
 PSWriteHTML is PowerShell Module to generate beautiful HTML reports, pages, emails without any knowledge of HTML, CSS or JavaScript. To get started basics PowerShell knowledge is required.
 
-__Downloads__: 2,123,146 | __Repository__: https://github.com/EvotecIT/PSWriteHTML
+__Downloads__: 2,123,211 | __Repository__: https://github.com/EvotecIT/PSWriteHTML
 
 ## [FormatColumn](https://www.powershellgallery.com/Packages/FormatColumn/1.1.6) | 1.1.6
 
@@ -2013,14 +2097,6 @@ Helpers to use with Generate-DockerImageVariants.
 
 __Downloads__: 577 | __Repository__: https://github.com/theohbrothers/Generate-DockerImageVariantsHelpers
 
-## [MailPolicyExplainer](https://www.powershellgallery.com/Packages/MailPolicyExplainer/1.0.0) | 1.0.0
-
-### Published: 10/15/2023 03:26:35 by Colin Cogle
-
-Explains a domain's email DNS records, including MX, SPF, DKIM, DMARC, and more.
-
-__Downloads__: 12 | __Repository__: https://github.com/rhymeswithmogul/MailPolicyExplainer
-
 ## [PowerCode.PSTaglib](https://www.powershellgallery.com/Packages/PowerCode.PSTaglib/0.1.0) | 0.1.0
 
 ### Published: 10/14/2023 23:14:38 by Staffan Gustafsson
@@ -2029,76 +2105,4 @@ Simple module for reading and writing tags to music files
 
 __Downloads__: 6 | __Repository__: 
 
-## [MacAddress](https://www.powershellgallery.com/Packages/MacAddress/2.0.1) | 2.0.1
-
-### Published: 10/14/2023 22:33:25 by Saw-Friendship
-
-Get Hardware Vendor by MacAddress. Contains Database from IEEE site for offline using. Use Update-MacAddressDatabase commandlet for update Database
-
-__Downloads__: 41 | __Repository__: 
-
-## [Get-AzVMSku](https://www.powershellgallery.com/Packages/Get-AzVMSku/1.9) | 1.9
-
-### Published: 10/14/2023 19:54:37 by Christoffer Windahl Madsen
-
-Retrieves all required information needed in order to deploy Azure virtual machines via any IaC tool
-
-__Downloads__: 23 | __Repository__: https://codeterraform.com/
-
-## [PublicIP](https://www.powershellgallery.com/Packages/PublicIP/0.0.11) | 0.0.11
-
-### Published: 10/14/2023 11:05:30 by Marius Storhaug
-
-PowerShell Module for Public IP
-
-__Downloads__: 99 | __Repository__: https://github.com/MariusStorhaug/PublicIP
-
-## [NerdFonts](https://www.powershellgallery.com/Packages/NerdFonts/0.0.14) | 0.0.14
-
-### Published: 10/14/2023 11:05:26 by Marius Storhaug
-
-A PowerShell module to manage NerdFonts
-
-__Downloads__: 231 | __Repository__: https://github.com/MariusStorhaug/NerdFonts
-
-## [Utilities](https://www.powershellgallery.com/Packages/Utilities/0.0.31) | 0.0.31
-
-### Published: 10/14/2023 11:05:25 by Marius Storhaug
-
-PowerShell Module of Utilities
-
-__Downloads__: 1,166 | __Repository__: https://github.com/MariusStorhaug/Utilities
-
-## [Fonts](https://www.powershellgallery.com/Packages/Fonts/0.0.26) | 0.0.26
-
-### Published: 10/14/2023 11:05:16 by Marius Storhaug
-
-Manage fonts on a Windows system
-
-__Downloads__: 455 | __Repository__: https://github.com/MariusStorhaug/Fonts
-
-## [PowerShellGallery](https://www.powershellgallery.com/Packages/PowerShellGallery/0.0.2) | 0.0.2
-
-### Published: 10/14/2023 11:05:11 by Marius Storhaug
-
-A PowerShell module for managing the PowerShell Gallery.
-
-__Downloads__: 25 | __Repository__: https://github.com/PSModule/PowerShellGallery
-
-## [ConvertFrom-RegEx](https://www.powershellgallery.com/Packages/ConvertFrom-RegEx/0.5.2) | 0.5.2
-
-### Published: 10/14/2023 11:05:00 by hmmwhatsthisdo
-
-PowerShell module for deserializing text via Regular Expressions
-
-__Downloads__: 23 | __Repository__: https://github.com/hmmwhatsthisdo/ConvertFrom-RegEx
-
-## [GitHub](https://www.powershellgallery.com/Packages/GitHub/0.3.34) | 0.3.34
-
-### Published: 10/14/2023 10:58:41 by Marius Storhaug
-
-GitHub PowerShell Module
-
-__Downloads__: 2,407 | __Repository__: https://github.com/PSModule/GitHub
-
-*Updated: Thursday, 19 October 2023 17:52:26 UTC*
+*Updated: Friday, 20 October 2023 02:02:33 UTC*
