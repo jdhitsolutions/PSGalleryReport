@@ -3,6 +3,14 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [PSModule.FX](https://www.powershellgallery.com/Packages/PSModule.FX/0.0.96) | 0.0.96
+
+### Published: 10/21/2023 09:40:43 by PSModule
+
+PSModule Framework PowerShell Module
+
+__Downloads__: 503 | __Repository__: https://github.com/PSModule/PSModule.FX
+
 ## [Generate-DockerImageVariantsHelpers](https://www.powershellgallery.com/Packages/Generate-DockerImageVariantsHelpers/0.21.0) | 0.21.0
 
 ### Published: 10/21/2023 01:05:14 by The Oh Brothers
@@ -41,7 +49,7 @@ __Downloads__: 52,875 | __Repository__: https://github.com/thycotic-ps/thycotic.
 
 UC Lobby Teams PowerShell Module
 
-__Downloads__: 472 | __Repository__: https://uclobby.com/uclobby-teams-powershell-module/
+__Downloads__: 473 | __Repository__: https://uclobby.com/uclobby-teams-powershell-module/
 
 ## [TMD.Common](https://www.powershellgallery.com/Packages/TMD.Common/2.5.2) | 2.5.2
 
@@ -193,7 +201,7 @@ __Downloads__: 167 | __Repository__:
 
 A convenient PowerShell wrapper for Spectre.Console
 
-__Downloads__: 144 | __Repository__: https://github.com/ShaunLawrie/PwshSpectreConsole
+__Downloads__: 145 | __Repository__: https://github.com/ShaunLawrie/PwshSpectreConsole
 
 ## [Stti](https://www.powershellgallery.com/Packages/Stti/1.0.0.2588) | 1.0.0.2588
 
@@ -225,7 +233,7 @@ __Downloads__: 599 | __Repository__: https://github.com/EvotecIT/Graphimo
 
 October Update 2023
 
-__Downloads__: 1,007,442 | __Repository__: https://github.com/OSDeploy/OSD
+__Downloads__: 1,007,416 | __Repository__: https://github.com/OSDeploy/OSD
 
 ## [wingetposh](https://www.powershellgallery.com/Packages/wingetposh/1.0.0) | 1.0.0
 
@@ -257,7 +265,7 @@ __Downloads__: 46 | __Repository__: https://github.com/rajyraman/power-platform-
 
 Module for installing basic programs: This module provides functions for downloading installers from specified links, installing the programs, verifying the installed programs/services, and cleaning up the installer files.
 
-__Downloads__: 113,144 | __Repository__: 
+__Downloads__: 113,142 | __Repository__: 
 
 ## [BuildMasterAutomation](https://www.powershellgallery.com/Packages/BuildMasterAutomation/3.2.0) | 3.2.0
 
@@ -354,7 +362,7 @@ __Downloads__: 294 | __Repository__: https://github.com/flycastpartnersinc/Fresh
 
 A PowerShell toolbox for Microsoft 365 security fans.
 
-__Downloads__: 20,208 | __Repository__: https://github.com/DanielChronlund/DCToolbox
+__Downloads__: 20,203 | __Repository__: https://github.com/DanielChronlund/DCToolbox
 
 ## [TransitionManager](https://www.powershellgallery.com/Packages/TransitionManager/6.4.3) | 6.4.3
 
@@ -386,7 +394,7 @@ __Downloads__: 3,252 | __Repository__:
 
 PowerShell functions to manage a JumpCloud Directory-as-a-Service
 
-__Downloads__: 5,851,226 | __Repository__: https://github.com/TheJumpCloud/support/wiki
+__Downloads__: 5,851,227 | __Repository__: https://github.com/TheJumpCloud/support/wiki
 
 ## [PSSymantecSEPM](https://www.powershellgallery.com/Packages/PSSymantecSEPM/0.3.0) | 0.3.0
 
@@ -507,7 +515,7 @@ Some of the interesting functions:
 - Upload-IntuneAutopilotHash - upload given autopilot hash (owner and hostname) into Intune
 - ...
 
-__Downloads__: 13,096 | __Repository__: https://github.com/ztrhgf/useful_powershell_modules
+__Downloads__: 13,095 | __Repository__: https://github.com/ztrhgf/useful_powershell_modules
 
 ## [MASES.JNetPS](https://www.powershellgallery.com/Packages/MASES.JNetPS/2.0.2) | 2.0.2
 
@@ -520,14 +528,6 @@ JNet (Java/JVM suite for .NET) PowerShell (aka JNetPS) is a PowerShell Module to
 More information within the project hosted on GitHub at https://github.com/masesgroup/JNet for further information.
 
 __Downloads__: 97 | __Repository__: https://github.com/masesgroup/JNet
-
-## [PSModule.FX](https://www.powershellgallery.com/Packages/PSModule.FX/0.0.93) | 0.0.93
-
-### Published: 10/18/2023 22:18:36 by PSModule
-
-PSModule Framework PowerShell Module
-
-__Downloads__: 503 | __Repository__: https://github.com/PSModule/PSModule.FX
 
 ## [PATH](https://www.powershellgallery.com/Packages/PATH/0.0.16) | 0.0.16
 
@@ -543,7 +543,7 @@ __Downloads__: 232 | __Repository__: https://github.com/PSModule/PATH
 
 Azure API call handler for Microsoft Graph, Azure Resource Management, KeyVault and Log Analytics. Visit aka.ms/AzAPICall
 
-__Downloads__: 119,045 | __Repository__: https://aka.ms/AzAPICall
+__Downloads__: 119,040 | __Repository__: https://aka.ms/AzAPICall
 
 ## [ExchangeEssentials](https://www.powershellgallery.com/Packages/ExchangeEssentials/0.8.0) | 0.8.0
 
@@ -650,6 +650,14 @@ __Downloads__: 119 | __Repository__: https://github.com/Apteco/AptecoPSModules/t
 vsmTools2.0
 
 __Downloads__: 56 | __Repository__: 
+
+## [Touch-For-Powershell](https://www.powershellgallery.com/Packages/Touch-For-Powershell/1.0) | 1.0
+
+### Published: 10/18/2023 13:06:07 by Iliyan Tsvetkov
+
+A simple module for Linux folks who want to use 'touch' to create new files.
+
+__Downloads__: 3 | __Repository__: https://github.com/tusan-tsvetkoff/Touch-For-PowerShell
 
 ## [Omnishell](https://www.powershellgallery.com/Packages/Omnishell/0.0.6) | 0.0.6
 
@@ -2104,12 +2112,4 @@ TheDashboard is a module that allows you to create a dashboard for your HTML rep
 
 __Downloads__: 119 | __Repository__: https://github.com/EvotecIT/TheDashboard
 
-## [HPEOneView.840](https://www.powershellgallery.com/Packages/HPEOneView.840/8.40.3664.2358) | 8.40.3664.2358
-
-### Published: 10/16/2023 17:43:30 by Hewlett-Packard Enterprise
-
-HPE OneView PowerShell Library
-
-__Downloads__: 14 | __Repository__: http://hewlettpackard.github.io/POSH-HPEOneView
-
-*Updated: Saturday, 21 October 2023 02:01:27 UTC*
+*Updated: Saturday, 21 October 2023 09:53:45 UTC*
