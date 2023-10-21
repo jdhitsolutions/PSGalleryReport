@@ -3,13 +3,61 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
-## [PSModule.FX](https://www.powershellgallery.com/Packages/PSModule.FX/0.0.96) | 0.0.96
+## [PSModule.FX](https://www.powershellgallery.com/Packages/PSModule.FX/0.0.127) | 0.0.127
 
-### Published: 10/21/2023 09:40:43 by PSModule
+### Published: 10/21/2023 15:48:36 by PSModule
 
 PSModule Framework PowerShell Module
 
 __Downloads__: 503 | __Repository__: https://github.com/PSModule/PSModule.FX
+
+## [PSSemaphore](https://www.powershellgallery.com/Packages/PSSemaphore/0.0.2) | 0.0.2
+
+### Published: 10/21/2023 14:57:29 by Robin Malik
+
+A module to interact with the Ansible Semaphore API
+
+__Downloads__: 0 | __Repository__: https://github.com/robinmalik/PSSemaphore
+
+## [WoWManagerNext](https://www.powershellgallery.com/Packages/WoWManagerNext/0.0.6) | 0.0.6
+
+### Published: 10/21/2023 13:40:45 by Marius Storhaug
+
+This module is for working with settings and addons in WoW with PowerShell
+
+__Downloads__: 0 | __Repository__: https://dev.azure.com/Claweofthewild/WoWManager/
+
+## [WoWManager](https://www.powershellgallery.com/Packages/WoWManager/0.0.6) | 0.0.6
+
+### Published: 10/21/2023 13:40:39 by PSModule
+
+This module is for working with settings and addons in WoW with PowerShell
+
+__Downloads__: 0 | __Repository__: https://dev.azure.com/Claweofthewild/WoWManager/
+
+## [Pslogg](https://www.powershellgallery.com/Packages/Pslogg/3.0.0) | 3.0.0
+
+### Published: 10/21/2023 13:15:05 by Simon Elms
+
+A PowerShell module for logging messages to the host, to PowerShell streams, or to a log file.
+
+__Downloads__: 392 | __Repository__: https://github.com/AnotherSadGit/Pslogg_PowerShellLogger
+
+## [PSRule.Rules.AzureDevOps](https://www.powershellgallery.com/Packages/PSRule.Rules.AzureDevOps/0.2.0) | 0.2.0
+
+### Published: 10/21/2023 12:45:56 by Roderick Bant
+
+PSRule rules module for Azure DevOps project configuration best practices. This module helps to audit an Azure DevOps project for secure and best practice configuration. The module requires PSRule to be installed.
+
+__Downloads__: 94 | __Repository__: https://github.com/cloudyspells/PSRule.Rules.AzureDevOps
+
+## [365AutomatedLab](https://www.powershellgallery.com/Packages/365AutomatedLab/0.1.3) | 0.1.3
+
+### Published: 10/21/2023 12:41:06 by Clayton Tyger
+
+This module will allow you to create a 365 Development Environment from an Excel workbook
+
+__Downloads__: 16 | __Repository__: https://github.com/DevClate/365AutomatedLab
 
 ## [Generate-DockerImageVariantsHelpers](https://www.powershellgallery.com/Packages/Generate-DockerImageVariantsHelpers/0.21.0) | 0.21.0
 
@@ -33,7 +81,7 @@ __Downloads__: 0 | __Repository__: https://github.com/RobBiddle/Get-WHOIS/
 
 Various cmdlets for adminstrator level tasks in managing Azure VMware Solutions
 
-__Downloads__: 27,058 | __Repository__: https://github.com/Azure/Microsoft.AVS.Management
+__Downloads__: 27,054 | __Repository__: https://github.com/Azure/Microsoft.AVS.Management
 
 ## [Thycotic.SecretServer](https://www.powershellgallery.com/Packages/Thycotic.SecretServer/0.61.5) | 0.61.5
 
@@ -49,7 +97,7 @@ __Downloads__: 52,875 | __Repository__: https://github.com/thycotic-ps/thycotic.
 
 UC Lobby Teams PowerShell Module
 
-__Downloads__: 473 | __Repository__: https://uclobby.com/uclobby-teams-powershell-module/
+__Downloads__: 472 | __Repository__: https://uclobby.com/uclobby-teams-powershell-module/
 
 ## [TMD.Common](https://www.powershellgallery.com/Packages/TMD.Common/2.5.2) | 2.5.2
 
@@ -233,7 +281,7 @@ __Downloads__: 599 | __Repository__: https://github.com/EvotecIT/Graphimo
 
 October Update 2023
 
-__Downloads__: 1,007,416 | __Repository__: https://github.com/OSDeploy/OSD
+__Downloads__: 1,007,442 | __Repository__: https://github.com/OSDeploy/OSD
 
 ## [wingetposh](https://www.powershellgallery.com/Packages/wingetposh/1.0.0) | 1.0.0
 
@@ -265,7 +313,7 @@ __Downloads__: 46 | __Repository__: https://github.com/rajyraman/power-platform-
 
 Module for installing basic programs: This module provides functions for downloading installers from specified links, installing the programs, verifying the installed programs/services, and cleaning up the installer files.
 
-__Downloads__: 113,142 | __Repository__: 
+__Downloads__: 113,143 | __Repository__: 
 
 ## [BuildMasterAutomation](https://www.powershellgallery.com/Packages/BuildMasterAutomation/3.2.0) | 3.2.0
 
@@ -394,7 +442,7 @@ __Downloads__: 3,252 | __Repository__:
 
 PowerShell functions to manage a JumpCloud Directory-as-a-Service
 
-__Downloads__: 5,851,227 | __Repository__: https://github.com/TheJumpCloud/support/wiki
+__Downloads__: 5,851,226 | __Repository__: https://github.com/TheJumpCloud/support/wiki
 
 ## [PSSymantecSEPM](https://www.powershellgallery.com/Packages/PSSymantecSEPM/0.3.0) | 0.3.0
 
@@ -543,7 +591,7 @@ __Downloads__: 232 | __Repository__: https://github.com/PSModule/PATH
 
 Azure API call handler for Microsoft Graph, Azure Resource Management, KeyVault and Log Analytics. Visit aka.ms/AzAPICall
 
-__Downloads__: 119,040 | __Repository__: https://aka.ms/AzAPICall
+__Downloads__: 119,045 | __Repository__: https://aka.ms/AzAPICall
 
 ## [ExchangeEssentials](https://www.powershellgallery.com/Packages/ExchangeEssentials/0.8.0) | 0.8.0
 
@@ -1978,7 +2026,7 @@ __Downloads__: 1,827 | __Repository__:
 
 PowerShell for Proxmox VE
 
-__Downloads__: 1,638 | __Repository__: https://github.com/Corsinvest/cv4pve-api-powershell
+__Downloads__: 1,639 | __Repository__: https://github.com/Corsinvest/cv4pve-api-powershell
 
 ## [ResolveEntraID](https://www.powershellgallery.com/Packages/ResolveEntraID/1.0.1) | 1.0.1
 
@@ -2064,52 +2112,4 @@ Devolutions Gateway PowerShell Module
 
 __Downloads__: 1,155 | __Repository__: https://github.com/Devolutions/devolutions-gateway/tree/master/powershell/
 
-## [HPEOneView.850](https://www.powershellgallery.com/Packages/HPEOneView.850/8.50.3667.2043) | 8.50.3667.2043
-
-### Published: 10/17/2023 01:44:05 by Hewlett-Packard Enterprise
-
-HPE OneView PowerShell Library
-
-__Downloads__: 39 | __Repository__: http://hewlettpackard.github.io/POSH-HPEOneView
-
-## [RY4N](https://www.powershellgallery.com/Packages/RY4N/0.0.2) | 0.0.2
-
-### Published: 10/17/2023 01:39:12 by email@iamryanjdecker.com
-
-PSGallery example
-
-__Downloads__: 6 | __Repository__: https://bitbucket.org/Rhyknowscerious/ry4n/src/master/
-
-## [Microsoft.PowerPlatform.DevOps](https://www.powershellgallery.com/Packages/Microsoft.PowerPlatform.DevOps/2.0.183) | 2.0.183
-
-### Published: 10/16/2023 23:24:29 by Dylan Haskins and Eugene Van Staden
-
-A Toolset for Implementing and Adopting a full ALM strategy for the Microsoft PowerPlatform.
-
-__Downloads__: 48,687 | __Repository__: https://github.com/dylanhaskins/Microsoft.PowerPlatform.DevOps.Documentation
-
-## [Invoke-AtomicRedTeam](https://www.powershellgallery.com/Packages/Invoke-AtomicRedTeam/2.0.6) | 2.0.6
-
-### Published: 10/16/2023 21:14:01 by Casey Smith @subTee Josh Rickard @MSAdministrator Carrie Roberts @OrOneEqualsOne Matt Graeber @mattifestation
-
-A PowerShell module that runs Atomic Red Team tests from yaml definition files.
-
-__Downloads__: 17,500 | __Repository__: https://github.com/redcanaryco/invoke-atomicredteam
-
-## [Eryph.ClientRuntime.Configuration](https://www.powershellgallery.com/Packages/Eryph.ClientRuntime.Configuration/0.5.0) | 0.5.0
-
-### Published: 10/16/2023 18:50:13 by dbosoft GmbH and eryph contributors
-
-Configuration Cmdlets for eryph. These Cmdlets allows you to manage your clients, credentials and endpoints for eryph.
-
-__Downloads__: 223 | __Repository__: https://github.com/eryph-org/dotnet-clientruntime
-
-## [TheDashboard](https://www.powershellgallery.com/Packages/TheDashboard/0.0.16) | 0.0.16
-
-### Published: 10/16/2023 18:29:32 by Przemyslaw Klys
-
-TheDashboard is a module that allows you to create a dashboard for your HTML reports
-
-__Downloads__: 119 | __Repository__: https://github.com/EvotecIT/TheDashboard
-
-*Updated: Saturday, 21 October 2023 09:53:45 UTC*
+*Updated: Saturday, 21 October 2023 17:52:42 UTC*
