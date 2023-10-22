@@ -3,13 +3,93 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
-## [PSModule.FX](https://www.powershellgallery.com/Packages/PSModule.FX/0.0.132) | 0.0.132
+## [AHSUtil](https://www.powershellgallery.com/Packages/AHSUtil/23.10.22.1) | 23.10.22.1
 
-### Published: 10/22/2023 09:36:58 by PSModule
+### Published: 10/22/2023 17:25:00 by Filip Johansson
+
+Adds Audit mode capability to clean install
+
+__Downloads__: 0 | __Repository__: 
+
+## [Utilities](https://www.powershellgallery.com/Packages/Utilities/0.0.42) | 0.0.42
+
+### Published: 10/22/2023 17:08:58 by PSModule
+
+PowerShell Module of Utilities
+
+__Downloads__: 1,188 | __Repository__: https://github.com/PSModule/Utilities
+
+## [PSModule.FX](https://www.powershellgallery.com/Packages/PSModule.FX/0.0.144) | 0.0.144
+
+### Published: 10/22/2023 16:59:30 by PSModule
 
 PSModule Framework PowerShell Module
 
 __Downloads__: 540 | __Repository__: https://github.com/PSModule/PSModule.FX
+
+## [PokePS](https://www.powershellgallery.com/Packages/PokePS/1.4) | 1.4
+
+### Published: 10/22/2023 15:21:16 by Ryan Voice
+
+Module to use PokeAPI via PowerShell
+
+__Downloads__: 24 | __Repository__: 
+
+## [PSSemaphore](https://www.powershellgallery.com/Packages/PSSemaphore/0.0.3) | 0.0.3
+
+### Published: 10/22/2023 15:03:03 by Robin Malik
+
+A module to interact with the Ansible Semaphore API
+
+__Downloads__: 0 | __Repository__: https://github.com/robinmalik/PSSemaphore
+
+## [Oraculum](https://www.powershellgallery.com/Packages/Oraculum/1.1.0.1) | 1.1.0.1
+
+### Published: 10/22/2023 14:53:41 by Antonio Cisternino
+
+Oraculum command line interface
+
+__Downloads__: 25 | __Repository__: https://github.com/Unipisa/Oraculum
+
+## [Rnwood.Dataverse.Data.PowerShell](https://www.powershellgallery.com/Packages/Rnwood.Dataverse.Data.PowerShell/1.0.1) | 1.0.1
+
+### Published: 10/22/2023 14:02:43 by Rob Wood <rob@rnwood.co.uk>
+
+Dataverse data manipulation cmdlets
+
+__Downloads__: 0 | __Repository__: 
+
+## [PwshSpectreConsole](https://www.powershellgallery.com/Packages/PwshSpectreConsole/0.2.5) | 0.2.5
+
+### Published: 10/22/2023 13:39:02 by Shaun Lawrie
+
+A convenient PowerShell wrapper for Spectre.Console
+
+__Downloads__: 146 | __Repository__: https://github.com/ShaunLawrie/PwshSpectreConsole
+
+## [ADEssentials](https://www.powershellgallery.com/Packages/ADEssentials/0.0.170) | 0.0.170
+
+### Published: 10/22/2023 13:14:55 by Przemyslaw Klys
+
+Helper module for Active Directory with lots of useful functions that simplify supporting Active Directory.
+
+__Downloads__: 156,124 | __Repository__: https://github.com/EvotecIT/ADEssentials
+
+## [PSWeaviateNET](https://www.powershellgallery.com/Packages/PSWeaviateNET/0.1.2) | 0.1.2
+
+### Published: 10/22/2023 12:20:13 by Antonio Cisternino
+
+First implementation of a PowerShell module to interact with Weaviate vector DB
+
+__Downloads__: 12 | __Repository__: https://github.com/Unipisa/WeaviateNET
+
+## [PSCompletions](https://www.powershellgallery.com/Packages/PSCompletions/2.2.1) | 2.2.1
+
+### Published: 10/22/2023 10:00:12 by abgox
+
+A completion manager for better and simpler use and Manage completions. For more information, please visit the project: https://github.com/abgox/PSCompletions
+
+__Downloads__: 131 | __Repository__: https://github.com/abgox/PSCompletions
 
 ## [PSPGP](https://www.powershellgallery.com/Packages/PSPGP/0.1.10) | 0.1.10
 
@@ -67,14 +147,6 @@ OpenAI Fine Tuner
 
 __Downloads__: 0 | __Repository__: https://github.com/potatoqualitee/finetuna
 
-## [Utilities](https://www.powershellgallery.com/Packages/Utilities/0.0.34) | 0.0.34
-
-### Published: 10/21/2023 18:59:11 by Marius Storhaug
-
-PowerShell Module of Utilities
-
-__Downloads__: 1,188 | __Repository__: https://github.com/MariusStorhaug/Utilities
-
 ## [tiPS](https://www.powershellgallery.com/Packages/tiPS/1.0.4) | 1.0.4
 
 ### Published: 10/21/2023 17:58:03 by Daniel Schroeder
@@ -82,14 +154,6 @@ __Downloads__: 1,188 | __Repository__: https://github.com/MariusStorhaug/Utiliti
 PowerShell tips delivered straight to your terminal.
 
 __Downloads__: 1,312 | __Repository__: https://github.com/deadlydog/PowerShell.tiPS
-
-## [PSSemaphore](https://www.powershellgallery.com/Packages/PSSemaphore/0.0.2) | 0.0.2
-
-### Published: 10/21/2023 14:57:29 by Robin Malik
-
-A module to interact with the Ansible Semaphore API
-
-__Downloads__: 0 | __Repository__: https://github.com/robinmalik/PSSemaphore
 
 ## [WoWManagerNext](https://www.powershellgallery.com/Packages/WoWManagerNext/0.0.6) | 0.0.6
 
@@ -306,14 +370,6 @@ __Downloads__: 3,546 | __Repository__: https://github.com/microsoft/UnifiedLabel
 Includes a set of utility functions for deployment
 
 __Downloads__: 168 | __Repository__: 
-
-## [PwshSpectreConsole](https://www.powershellgallery.com/Packages/PwshSpectreConsole/0.2.3) | 0.2.3
-
-### Published: 10/20/2023 10:21:24 by Shaun Lawrie
-
-A convenient PowerShell wrapper for Spectre.Console
-
-__Downloads__: 146 | __Repository__: https://github.com/ShaunLawrie/PwshSpectreConsole
 
 ## [Stti](https://www.powershellgallery.com/Packages/Stti/1.0.0.2588) | 1.0.0.2588
 
@@ -2052,60 +2108,4 @@ Expedite simple ffmpeg actions
 
 __Downloads__: 15,833 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
-## [AdminToolbox.Exchange](https://www.powershellgallery.com/Packages/AdminToolbox.Exchange/1.9.110) | 1.9.110
-
-### Published: 10/17/2023 14:15:48 by Taylor Lee
-
-Functions for Exchange Management
-
-__Downloads__: 16,912 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-## [AdminToolbox.EndpointManagement](https://www.powershellgallery.com/Packages/AdminToolbox.EndpointManagement/4.9.102) | 4.9.102
-
-### Published: 10/17/2023 14:15:12 by Taylor Lee
-
-Functions for management of endpoints
-
-__Downloads__: 17,490 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-## [AdminToolbox.ActiveDirectory](https://www.powershellgallery.com/Packages/AdminToolbox.ActiveDirectory/1.9.107) | 1.9.107
-
-### Published: 10/17/2023 14:14:35 by Taylor Lee
-
-Functions for Active Directory
-
-__Downloads__: 19,206 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-## [Liquit.Server.PowerShell](https://www.powershellgallery.com/Packages/Liquit.Server.PowerShell/4.1.3305.5076) | 4.1.3305.5076
-
-### Published: 10/17/2023 13:43:09 by Liquit Software B.V.
-
-Liquit Workspace PowerShell Module
-
-__Downloads__: 1,827 | __Repository__: 
-
-## [Corsinvest.ProxmoxVE.Api](https://www.powershellgallery.com/Packages/Corsinvest.ProxmoxVE.Api/8.0.3) | 8.0.3
-
-### Published: 10/17/2023 13:23:36 by Daniele Corsini
-
-PowerShell for Proxmox VE
-
-__Downloads__: 1,639 | __Repository__: https://github.com/Corsinvest/cv4pve-api-powershell
-
-## [ResolveEntraID](https://www.powershellgallery.com/Packages/ResolveEntraID/1.0.1) | 1.0.1
-
-### Published: 10/17/2023 12:30:36 by Pascal Haag
-
-Module to Resolve Entra IDs into defined names, mails etc.
-
-__Downloads__: 25 | __Repository__: https://github.com/Passy121/ResolveEntraID
-
-## [spec.file.utilities](https://www.powershellgallery.com/Packages/spec.file.utilities/1.0.4) | 1.0.4
-
-### Published: 10/17/2023 12:12:44 by owen.heaume
-
-A module for efficient file management, enabling seamless file downloads from Azure Blob storage, file hash comparisons, and a suite of essential file operations.
-
-__Downloads__: 28,494 | __Repository__: 
-
-*Updated: Sunday, 22 October 2023 09:53:36 UTC*
+*Updated: Sunday, 22 October 2023 17:52:46 UTC*
