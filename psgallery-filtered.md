@@ -3,13 +3,45 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
-## [PSModule.FX](https://www.powershellgallery.com/Packages/PSModule.FX/0.0.127) | 0.0.127
+## [PSModule.FX](https://www.powershellgallery.com/Packages/PSModule.FX/0.0.131) | 0.0.131
 
-### Published: 10/21/2023 15:48:36 by PSModule
+### Published: 10/21/2023 21:20:57 by PSModule
 
 PSModule Framework PowerShell Module
 
 __Downloads__: 503 | __Repository__: https://github.com/PSModule/PSModule.FX
+
+## [AzureRESTAPI](https://www.powershellgallery.com/Packages/AzureRESTAPI/0.0.2) | 0.0.2
+
+### Published: 10/21/2023 21:02:37 by davidfreer@me.com
+
+Suite of Azure Devops REST API wrappers
+
+__Downloads__: 0 | __Repository__: 
+
+## [finetuna](https://www.powershellgallery.com/Packages/finetuna/0.7) | 0.7
+
+### Published: 10/21/2023 20:54:18 by Chrissy LeMaire
+
+OpenAI Fine Tuner
+
+__Downloads__: 0 | __Repository__: https://github.com/potatoqualitee/finetuna
+
+## [Utilities](https://www.powershellgallery.com/Packages/Utilities/0.0.34) | 0.0.34
+
+### Published: 10/21/2023 18:59:11 by Marius Storhaug
+
+PowerShell Module of Utilities
+
+__Downloads__: 1,169 | __Repository__: https://github.com/MariusStorhaug/Utilities
+
+## [tiPS](https://www.powershellgallery.com/Packages/tiPS/1.0.4) | 1.0.4
+
+### Published: 10/21/2023 17:58:03 by Daniel Schroeder
+
+PowerShell tips delivered straight to your terminal.
+
+__Downloads__: 1,309 | __Repository__: https://github.com/deadlydog/PowerShell.tiPS
 
 ## [PSSemaphore](https://www.powershellgallery.com/Packages/PSSemaphore/0.0.2) | 0.0.2
 
@@ -97,7 +129,7 @@ __Downloads__: 52,875 | __Repository__: https://github.com/thycotic-ps/thycotic.
 
 UC Lobby Teams PowerShell Module
 
-__Downloads__: 472 | __Repository__: https://uclobby.com/uclobby-teams-powershell-module/
+__Downloads__: 473 | __Repository__: https://uclobby.com/uclobby-teams-powershell-module/
 
 ## [TMD.Common](https://www.powershellgallery.com/Packages/TMD.Common/2.5.2) | 2.5.2
 
@@ -114,14 +146,6 @@ __Downloads__: 1,097 | __Repository__:
 Provides cmdlets for starting migration of applications to supported clouds using the RiverMeadow platform.
 
 __Downloads__: 155 | __Repository__: https://migrate.rivermeadow.com/
-
-## [tiPS](https://www.powershellgallery.com/Packages/tiPS/1.0.2) | 1.0.2
-
-### Published: 10/20/2023 18:16:33 by Daniel Schroeder
-
-PowerShell tips delivered straight to your terminal.
-
-__Downloads__: 1,309 | __Repository__: https://github.com/deadlydog/PowerShell.tiPS
 
 ## [FU-MSAuth](https://www.powershellgallery.com/Packages/FU-MSAuth/1.0.1.0) | 1.0.1.0
 
@@ -281,7 +305,7 @@ __Downloads__: 599 | __Repository__: https://github.com/EvotecIT/Graphimo
 
 October Update 2023
 
-__Downloads__: 1,007,442 | __Repository__: https://github.com/OSDeploy/OSD
+__Downloads__: 1,007,455 | __Repository__: https://github.com/OSDeploy/OSD
 
 ## [wingetposh](https://www.powershellgallery.com/Packages/wingetposh/1.0.0) | 1.0.0
 
@@ -442,7 +466,7 @@ __Downloads__: 3,252 | __Repository__:
 
 PowerShell functions to manage a JumpCloud Directory-as-a-Service
 
-__Downloads__: 5,851,226 | __Repository__: https://github.com/TheJumpCloud/support/wiki
+__Downloads__: 5,851,227 | __Repository__: https://github.com/TheJumpCloud/support/wiki
 
 ## [PSSymantecSEPM](https://www.powershellgallery.com/Packages/PSSymantecSEPM/0.3.0) | 0.3.0
 
@@ -563,7 +587,7 @@ Some of the interesting functions:
 - Upload-IntuneAutopilotHash - upload given autopilot hash (owner and hostname) into Intune
 - ...
 
-__Downloads__: 13,095 | __Repository__: https://github.com/ztrhgf/useful_powershell_modules
+__Downloads__: 13,096 | __Repository__: https://github.com/ztrhgf/useful_powershell_modules
 
 ## [MASES.JNetPS](https://www.powershellgallery.com/Packages/MASES.JNetPS/2.0.2) | 2.0.2
 
@@ -825,7 +849,7 @@ __Downloads__: 5 | __Repository__:
 
 This module contains a function Invoke-SafeCommand that will raise an error if the command is already on error
 
-__Downloads__: 631 | __Repository__: 
+__Downloads__: 650 | __Repository__: 
 
 ## [Carbon.Cryptography](https://www.powershellgallery.com/Packages/Carbon.Cryptography/3.2.0) | 3.2.0
 
@@ -906,7 +930,7 @@ __Downloads__: 1,911 | __Repository__: https://github.com/oracle/oci-powershell-
 
 This modules provides Cmdlets for OCI Visualbuilder Service
 
-__Downloads__: 2,582 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+__Downloads__: 2,584 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
 ## [OCI.PSModules.Vbsinst](https://www.powershellgallery.com/Packages/OCI.PSModules.Vbsinst/68.0.0) | 68.0.0
 
@@ -1098,7 +1122,7 @@ __Downloads__: 2,558 | __Repository__: https://github.com/oracle/oci-powershell-
 
 This modules provides Cmdlets for OCI Ospgateway Service
 
-__Downloads__: 2,624 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+__Downloads__: 2,626 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
 ## [OCI.PSModules.Osmanagementhub](https://www.powershellgallery.com/Packages/OCI.PSModules.Osmanagementhub/68.0.0) | 68.0.0
 
@@ -1410,7 +1434,7 @@ __Downloads__: 7,868 | __Repository__: https://github.com/oracle/oci-powershell-
 
 This modules provides Cmdlets for OCI Healthchecks Service
 
-__Downloads__: 18,060 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+__Downloads__: 18,062 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
 ## [OCI.PSModules.Governancerulescontrolplane](https://www.powershellgallery.com/Packages/OCI.PSModules.Governancerulescontrolplane/68.0.0) | 68.0.0
 
@@ -2002,7 +2026,7 @@ __Downloads__: 16,910 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions for management of endpoints
 
-__Downloads__: 17,488 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 17,490 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.ActiveDirectory](https://www.powershellgallery.com/Packages/AdminToolbox.ActiveDirectory/1.9.107) | 1.9.107
 
@@ -2084,32 +2108,4 @@ Cmdlets for the eryph compute API.
 
 __Downloads__: 156 | __Repository__: https://github.com/eryph-org/dotnet-computeclient
 
-## [NCache.Professional](https://www.powershellgallery.com/Packages/NCache.Professional/5.3.2) | 5.3.2
-
-### Published: 10/17/2023 07:27:08 by Alachisoft
-
-This module allows NCache Professional users to automate configuration and deployment. This version of the module only works with NCache Professional 5.3.2 cache servers.
-
-For more details, please visit https://www.alachisoft.com/ or contact us at support@alachisoft.com
-
-__Downloads__: 535 | __Repository__: 
-
-## [NCache](https://www.powershellgallery.com/Packages/NCache/5.3.2) | 5.3.2
-
-### Published: 10/17/2023 07:20:13 by Alachisoft
-
-This module allows NCache Enterprise users to automate configuration and deployment. This version of the module only works with NCache Enterprise 5.3.2 cache servers.
-
-For more details, please visit https://www.alachisoft.com/ or contact us at support@alachisoft.com
-
-__Downloads__: 3,767 | __Repository__: 
-
-## [DevolutionsGateway](https://www.powershellgallery.com/Packages/DevolutionsGateway/2023.2.4) | 2023.2.4
-
-### Published: 10/17/2023 01:56:49 by Devolutions
-
-Devolutions Gateway PowerShell Module
-
-__Downloads__: 1,155 | __Repository__: https://github.com/Devolutions/devolutions-gateway/tree/master/powershell/
-
-*Updated: Saturday, 21 October 2023 17:52:42 UTC*
+*Updated: Sunday, 22 October 2023 02:05:10 UTC*
