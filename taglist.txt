@@ -1,8 +1,7 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Sunday, 22 October 2023 02:05:23 UTC
+Updated: Sunday, 22 October 2023 09:53:51 UTC
 
-.bat
 .env
 .net
 .prom
@@ -51,6 +50,7 @@ Updated: Sunday, 22 October 2023 02:05:23 UTC
 7z
 7zip
 8.1
+8ball
 9
 aa
 aac
@@ -124,7 +124,6 @@ activeresponse
 activesession
 activiti
 activity
-activitycount
 actor-model
 actors
 acumatica
@@ -151,7 +150,6 @@ add-one
 add-path
 add-type
 addin
-addlevel
 addomainservices
 addon
 address
@@ -167,6 +165,7 @@ adfsendpoint
 adfstoolkit
 adfstools
 adgroupmemberobjects
+adgroupmembers
 adgroups
 adif
 adm
@@ -280,7 +279,6 @@ alphafs
 alpine
 alt3
 alter
-alteryx
 alwaysontop
 alwaysonvpn
 alz
@@ -294,6 +292,7 @@ amazonmgn
 amazonwebservices
 amend
 ami
+amiga
 amp
 amqp
 amsi
@@ -427,6 +426,7 @@ archlinux
 arcresourcebridge
 arcus
 area
+arg
 argcomplete
 argument
 argumentcompleter
@@ -462,7 +462,6 @@ asm
 asn.1
 asn1
 asnbank
-asp
 asp.net
 aspnet
 aspnet_regiis
@@ -542,7 +541,6 @@ automanage
 automate
 automated
 automatedlab
-automatenow
 automaticpacketreportingsystem
 automation
 automation psmodule
@@ -697,6 +695,8 @@ azvm
 b2
 back
 backblaze
+backconnection
+backconnectionhostname
 backup
 backup_validation
 bamboo
@@ -801,6 +801,7 @@ biztalk
 biztalkalm
 biztalkdeploymentframework
 bks
+black
 blackbaud
 blackbox
 blacklist
@@ -810,6 +811,7 @@ blaze
 blinking-text
 blob
 blobstorage
+block
 block-kit
 blockchain
 blocks
@@ -969,6 +971,7 @@ catimage
 cats
 catty
 cavium
+cb
 cblueshell
 cbr
 cbz
@@ -1021,14 +1024,11 @@ certificateservices
 certificatesmanagement
 certinia
 certutil
-cf
 cfn
-ch9
 change
 changeanalysis
 changelog
 channel
-channel9
 char
 character
 chart
@@ -1056,7 +1056,6 @@ chefconf2016
 chenxizhang
 cherrypy
 cherwell
-chfs
 chi
 china
 chmod
@@ -1339,6 +1338,7 @@ configurationmanagement
 configurationmanager
 configure
 confluence
+confluent
 conjecture
 connect
 connect-dtcmsite
@@ -1469,8 +1469,6 @@ cqhttp
 crack psmodule
 crash
 crayon
-crc
-crc32
 create
 createcolumn
 createdatabase
@@ -1572,10 +1570,10 @@ customization
 customlocation
 customlogs
 customproviders
-cutehttpfileserver
 cvad
 cve-2021-34527
 cvrf
+cvss
 cwi
 cx
 cyberark
@@ -1585,8 +1583,6 @@ cyberdrain
 cybereason
 cybersecurity
 cyberwatch
-cyclic
-cyclicredundancycheck
 cygwin
 cylance
 cypher
@@ -1641,7 +1637,6 @@ dataconduit
 dataconnectivity
 datadog
 dataexchange
-dataexplorer
 datafactory
 dataflow
 dataflowdependency
@@ -1833,7 +1828,6 @@ directory
 directory psedition_core psedition_desktop
 directory-transform
 directorymarks
-directoryname
 directorysearcher
 directorysecurity
 directrouting
@@ -2082,6 +2076,7 @@ easy
 easy-to-use
 easylife365
 easyvista
+eaton
 ebay
 ebooks
 ebur128
@@ -2195,7 +2190,6 @@ envvar
 envvars
 eol
 eop
-eperl
 ephesoft
 epicor
 episode
@@ -2204,7 +2198,6 @@ eprosima
 epub
 epv
 equality
-erb
 erp
 error
 error-log
@@ -2369,6 +2362,7 @@ factoryorchestratorclient
 facts
 faf
 failedlogin
+failure
 falcon
 fallbackstatuspoint
 fanarttv
@@ -2380,7 +2374,6 @@ fast
 fast-dds
 fast-ping
 fastfilepub
-fastgit
 fastlinq
 fastlookup
 fastping
@@ -2408,6 +2401,7 @@ fido
 fido2
 fieldglass
 fifa
+figlet
 file
 file-association
 file-encoding
@@ -2624,6 +2618,7 @@ gainz-sqldb
 gal
 gallery
 game
+gamecategory:cards
 games
 gameserver
 gaming
@@ -2643,6 +2638,7 @@ gcp
 gcs
 gdpr
 gedit
+gem
 gemini
 geminiprotocol
 gemlog
@@ -2790,6 +2786,8 @@ gping
 gpio
 gplink
 gpo
+gpo-maintenance
+gpo-tools
 gpodoc
 gpolinks
 gpp
@@ -3053,7 +3051,6 @@ humanizer
 humanly
 humor
 humorous
-hunter
 hwid
 hybrid
 hybridrunbookworker
@@ -3272,7 +3269,6 @@ intranet
 intrusion
 intuitive
 intune
-intuneappwinutil
 intunestuff
 inventory
 investigation
@@ -3312,7 +3308,6 @@ ipbroadcast
 ipc
 ipcalc
 ipcalculator
-ipconfig
 iperf
 ipfy.org
 iphone
@@ -3421,7 +3416,6 @@ jsonplus
 jsonwebkey
 jsonwebsignature
 jsonwebtoken
-jsp
 jumbo
 jump
 jump-location
@@ -3794,7 +3788,6 @@ mailkit
 mails
 main
 main-menu
-maintain-module
 maintenance
 maintenance-window
 maintenancewindows
@@ -3904,6 +3897,7 @@ mediant
 mediaplayer
 mediaservices
 mediawiki
+meditation
 meeting
 meetup
 meetup.com
@@ -4020,6 +4014,7 @@ mittelschule
 mixedreality
 mixer
 mkdocs
+mkpasswd
 ml
 ml.net
 mlflow
@@ -4033,7 +4028,6 @@ model
 modeling
 modify
 module
-module-maintenance
 modulebuild
 modulecreation
 modulemanagement
@@ -4142,14 +4136,12 @@ mule
 mulesoft
 multi-factor
 multi-language
-multi-platform
 multi-threading
 multi-zone
 multiboxing
 multicloud
 multidimenstional
 multimedia
-multios
 multipass
 multiple
 multiserver
@@ -4664,6 +4656,7 @@ passcode
 passivetotal
 passphrase
 passphraser passphrase password generator entropy
+passwd
 password
 password_generation
 password-generator
@@ -4765,6 +4758,7 @@ pictures
 pid
 pie
 pim
+pin
 ping
 ping-async
 pingsweep
@@ -4901,6 +4895,7 @@ poshy-wrap-docker
 poshy-wrap-docker-compose
 poshy-wrap-dotnet
 poshy-wrap-forgit
+poshy-wrap-gem
 poshy-wrap-gh
 poshy-wrap-git
 poshy-wrap-git-flow
@@ -4914,8 +4909,6 @@ poshy-wrap-nmap
 poshy-wrap-npm
 poshy-wrap-pip
 poshy-wrap-pipenv
-poshy-wrap-pyenv
-poshy-wrap-pylint
 poshy-wrap-python
 poshy-wrap-ruby
 poshy-wrap-systemctl
@@ -4937,6 +4930,7 @@ pow
 powdrgit
 power
 power-apps
+power-cbr
 power-platform
 power-shell
 powerapps
@@ -5032,8 +5026,6 @@ preparead
 preparealldomains
 prepareschema
 prepend
-preprocessing
-preprocessor
 presentation
 presenter
 presto
@@ -5150,6 +5142,7 @@ ps6
 ps7
 psa
 psadbscreencap
+psadgroupmembers
 psadt
 psake
 psappdeploytoolkit
@@ -5561,6 +5554,19 @@ pscommand_gdsth
 pscommand_gdstp
 pscommand_gdt
 pscommand_gdv
+pscommand_geca
+pscommand_gecb
+pscommand_geclup
+pscommand_gecr
+pscommand_gegi
+pscommand_geh
+pscommand_gei
+pscommand_geiall
+pscommand_gein
+pscommand_gel
+pscommand_geli
+pscommand_geo
+pscommand_geoe
 pscommand_get
 pscommand_get-aptinstalledpackages
 pscommand_get-childitemcolorfully
@@ -5628,6 +5634,7 @@ pscommand_get-netipaddresssimple
 pscommand_get-pwshaliasdefinition
 pscommand_get-pwshfunctiondefinition
 pscommand_get-viewer
+pscommand_geun
 pscommand_gexport
 pscommand_gf
 pscommand_gfa
@@ -5908,6 +5915,22 @@ pscommand_invoke-dockercomposeupdetached
 pscommand_invoke-dockercomposeupdetachedwithbuild
 pscommand_invoke-dockercomposeupnostart
 pscommand_invoke-dockercomposeupwithbuild
+pscommand_invoke-gemcertadd
+pscommand_invoke-gemcertbuild
+pscommand_invoke-gemcertremove
+pscommand_invoke-gemcleanupno
+pscommand_invoke-gemgenerateindex
+pscommand_invoke-gemhelp
+pscommand_invoke-geminfo
+pscommand_invoke-geminfoall
+pscommand_invoke-geminstall
+pscommand_invoke-gemlist
+pscommand_invoke-gemlock
+pscommand_invoke-gemopen
+pscommand_invoke-gemopeneditor
+pscommand_invoke-gemremovebypattern
+pscommand_invoke-gemsystem
+pscommand_invoke-gemuninstall
 pscommand_invoke-git
 pscommand_invoke-gitaddinteractivelypatch
 pscommand_invoke-gitbisect
@@ -6046,8 +6069,6 @@ pscommand_invoke-pipinstall
 pscommand_invoke-pipinstallupgrade
 pscommand_invoke-piplistoutdated
 pscommand_invoke-pipuninstall
-pscommand_invoke-pyenv
-pscommand_invoke-pylintreportsdisabled
 pscommand_invoke-ruby
 pscommand_invoke-rubyexecute
 pscommand_invoke-rubyexecutehttpdhere
@@ -6417,14 +6438,13 @@ pscommand_pvenv
 pscommand_pwh
 pscommand_pwshrc-show-proxy
 pscommand_py
-pscommand_pyenv
-pscommand_pylint-quick
 pscommand_pyserver
 pscommand_python
 pscommand_python3
 pscommand_rb
 pscommand_read-dotenv
 pscommand_register-argcompleteargumentcompleter
+pscommand_remove_gem
 pscommand_remove-dockercontainerall
 pscommand_remove-dockerunusedimage
 pscommand_remove-envpathitem
@@ -6484,6 +6504,7 @@ pscommand_set-locationup2
 pscommand_set-locationup3
 pscommand_set-locationup4
 pscommand_set-locationup5
+pscommand_sgem
 pscommand_show-gitremote
 pscommand_show-proxy
 pscommand_shttp
@@ -7078,6 +7099,22 @@ psfunction_invoke-dockercomposeupdetached
 psfunction_invoke-dockercomposeupdetachedwithbuild
 psfunction_invoke-dockercomposeupnostart
 psfunction_invoke-dockercomposeupwithbuild
+psfunction_invoke-gemcertadd
+psfunction_invoke-gemcertbuild
+psfunction_invoke-gemcertremove
+psfunction_invoke-gemcleanupno
+psfunction_invoke-gemgenerateindex
+psfunction_invoke-gemhelp
+psfunction_invoke-geminfo
+psfunction_invoke-geminfoall
+psfunction_invoke-geminstall
+psfunction_invoke-gemlist
+psfunction_invoke-gemlock
+psfunction_invoke-gemopen
+psfunction_invoke-gemopeneditor
+psfunction_invoke-gemremovebypattern
+psfunction_invoke-gemsystem
+psfunction_invoke-gemuninstall
 psfunction_invoke-git
 psfunction_invoke-gitaddinteractivelypatch
 psfunction_invoke-gitbisect
@@ -7216,8 +7253,6 @@ psfunction_invoke-pipinstall
 psfunction_invoke-pipinstallupgrade
 psfunction_invoke-piplistoutdated
 psfunction_invoke-pipuninstall
-psfunction_invoke-pyenv
-psfunction_invoke-pylintreportsdisabled
 psfunction_invoke-ruby
 psfunction_invoke-rubyexecute
 psfunction_invoke-rubyexecutehttpdhere
@@ -7790,9 +7825,7 @@ pwshake
 pwshfw
 pwshrc
 pxedistributionpoint
-pyenv
 pygmentize
-pylint
 pyranja
 python
 python-for-dotnet
@@ -7818,6 +7851,7 @@ qq
 qr
 qrcode
 qrcodes
+qrp
 qrs
 quality
 qualys
@@ -7946,7 +7980,6 @@ redkite
 redseal
 redshift
 redteaming
-redundancy
 refactor
 refactoring
 refeds
@@ -7971,7 +8004,6 @@ regex
 region
 regions
 regiser-argumentcompleter
-register
 register-argumentcompleter
 registered
 registrar
@@ -8068,6 +8100,7 @@ resource_monitor
 resource_watcher
 resourceaccount
 resourcecontroller
+resourcegraph
 resourcegroup
 resourceid
 resourcekit
@@ -8214,6 +8247,7 @@ safari
 safe
 safeguard
 sage
+saggiehaim
 sailpoint
 sale
 sales
@@ -8513,7 +8547,13 @@ sftp
 sfx
 sgopher
 sgw
+sha-256
+sha-512
+sha-crypt
 sha256
+sha256crypt
+sha512crypt
+shacrypt
 shadow
 shadowcopy
 shadowcopybackups
@@ -8672,6 +8712,7 @@ snmpv3
 snmpwalk
 snowflake
 snsmssqlpsmodule
+snspsadgroupmembers
 snspsscriptsmonitoring
 snssqlitepsmodule
 sntp
@@ -8712,6 +8753,7 @@ soonr
 soonragent
 sophos
 sort
+sorting
 source
 source-dedicated-server
 sourcecontrol
@@ -9016,6 +9058,7 @@ syndication
 synergy
 syntax
 syntax-highlighting
+syntaxcheck
 syntaxhighlighter
 synthesis
 synthetics
@@ -9372,7 +9415,6 @@ tuning
 tutorial
 tv
 tweet
-twig
 twilio
 twincat
 twinkly
@@ -9427,12 +9469,14 @@ ud-illustration
 ud-input
 ud-licensed
 ud-loadingoverlay
+ud-minesweeper
 ud-mouseparticle
 ud-navbarsearch
 ud-numbermask
 ud-orgchart
 ud-piechart3d
 ud-pivottable
+ud-progressstepbar
 ud-rangeslider
 ud-readingbar
 ud-scrollspy
