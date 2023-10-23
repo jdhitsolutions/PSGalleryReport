@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Sunday, 22 October 2023 17:52:59 UTC
+Updated: Monday, 23 October 2023 02:03:17 UTC
 
 .bat
 .env
@@ -260,7 +260,6 @@ alc
 alero
 alert
 alerting
-alertmail
 alertmanagement
 alerts
 alertsmanagement
@@ -282,6 +281,7 @@ alphafs
 alpine
 alt3
 alter
+alteryx
 alwaysontop
 alwaysonvpn
 alz
@@ -465,7 +465,6 @@ asm
 asn.1
 asn1
 asnbank
-asp
 asp.net
 aspnet
 aspnet_regiis
@@ -479,6 +478,7 @@ assertion
 assessment
 asset
 assetintelligencepoint
+assets
 assistance
 association
 ast
@@ -804,6 +804,7 @@ biztalk
 biztalkalm
 biztalkdeploymentframework
 bks
+black
 blackbaud
 blackbox
 blacklist
@@ -973,6 +974,7 @@ catimage
 cats
 catty
 cavium
+cb
 cblueshell
 cbr
 cbz
@@ -1033,7 +1035,6 @@ changeanalysis
 changelog
 channel
 channel9
-char
 character
 chart
 charting
@@ -1059,6 +1060,7 @@ chef-server
 chefconf2016
 chenxizhang
 cherrypy
+cherwell
 chi
 china
 chmod
@@ -1230,7 +1232,6 @@ codecoverage
 codegen
 codegeneration
 codegenerator
-codepoint
 codereview
 codes
 codesign
@@ -1260,6 +1261,7 @@ colour
 column
 columns
 com
+combinations
 combine
 comdata
 comic
@@ -1359,6 +1361,7 @@ connectionmonitor
 connections
 connectionsmanager
 connectionstring
+connectivity
 connectwise
 conservation
 console
@@ -1602,6 +1605,7 @@ dac
 dacfx
 dacl
 dacpac
+dacpackage
 dagger
 daily
 dane
@@ -1644,7 +1648,6 @@ dataexchange
 dataexplorer
 datafactory
 dataflow
-dataflowdependency
 datagateway
 dataintegration
 datakwaliteit
@@ -1665,7 +1668,6 @@ dataset
 datasetdependency
 datashare
 datasource
-datastore
 datatable
 dataverse
 date
@@ -1711,7 +1713,6 @@ declarative
 decline
 decode
 decode64
-decoding
 decompiler
 decrypt
 decryption
@@ -1819,6 +1820,7 @@ diff
 difference
 dig
 digikam
+digital
 digital-forensics
 digitalforensics
 digitalocean
@@ -1832,7 +1834,6 @@ directory
 directory psedition_core psedition_desktop
 directory-transform
 directorymarks
-directoryname
 directorysearcher
 directorysecurity
 directrouting
@@ -1855,6 +1856,7 @@ discordrpc
 discount
 discover
 discovery
+discutils
 disk
 disk_to_disk
 disk-space
@@ -1999,7 +2001,6 @@ driverupdates
 drm
 drone.io
 drop
-dropbox
 dropdatabase
 droplet
 droptable
@@ -2080,7 +2081,6 @@ easy
 easy-to-use
 easylife365
 easyvista
-eaton
 ebay
 ebooks
 ebur128
@@ -2172,6 +2172,7 @@ enteo
 enter
 enterprise
 enterprise-scale
+enterprisedb
 enterprisemanager
 enterprisevoice
 entity
@@ -2193,7 +2194,6 @@ envvar
 envvars
 eol
 eop
-eperl
 ephesoft
 epicor
 episode
@@ -2202,7 +2202,6 @@ eprosima
 epub
 epv
 equality
-erb
 erp
 error
 error-log
@@ -2242,7 +2241,6 @@ ets
 etw
 eulanda
 evaluator
-evc
 event
 event_id
 event_list
@@ -2365,7 +2363,6 @@ facebook
 factoryorchestrator
 factoryorchestratorclient
 facts
-faf
 failedlogin
 failure
 falcon
@@ -2378,6 +2375,7 @@ farmanager
 fast
 fast-dds
 fast-ping
+fastfilepub
 fastgit
 fastlinq
 fastlookup
@@ -2420,6 +2418,7 @@ file-name
 file-name-extension
 file-name-extension-association
 file-server
+file-share
 file-system
 file-transform
 file-type
@@ -2642,7 +2641,6 @@ gcp
 gcs
 gdpr
 gedit
-gem
 gemini
 geminiprotocol
 gemlog
@@ -2899,7 +2897,6 @@ haskell
 haste
 hastebin
 haveibeenpwned
-hba
 hbase
 hci
 hcl
@@ -3055,6 +3052,7 @@ humanizer
 humanly
 humor
 humorous
+hunter
 hwid
 hybrid
 hybridrunbookworker
@@ -3134,7 +3132,6 @@ ikev2
 il
 illinois
 ilo
-ilo5
 ilocmdlets
 im
 image
@@ -3422,7 +3419,6 @@ jsonplus
 jsonwebkey
 jsonwebsignature
 jsonwebtoken
-jsp
 jumbo
 jump
 jump-location
@@ -3510,6 +3506,7 @@ kubectx
 kubens
 kubernetes
 kubernetesconfiguration
+kubespray
 kudu
 kurukuru
 kusto
@@ -3950,6 +3947,7 @@ mgn
 mi
 micro-orm
 microfocus
+microk8s
 microservices
 microsoft
 microsoft_365
@@ -4721,6 +4719,7 @@ peheader
 pem
 pemfile
 pendingreboot
+penetration
 penetrationtesting
 pentesting
 pentia
@@ -4731,6 +4730,7 @@ performancemonitoring
 perl
 permission
 permissions
+permutations
 persistence
 persistent
 personal
@@ -4901,7 +4901,6 @@ poshy-wrap-docker
 poshy-wrap-docker-compose
 poshy-wrap-dotnet
 poshy-wrap-forgit
-poshy-wrap-gem
 poshy-wrap-gh
 poshy-wrap-git
 poshy-wrap-git-flow
@@ -4924,6 +4923,8 @@ poshy-wrap-terraform
 poshy-wrap-terragrunt
 poshy-wrap-tmux
 poshy-wrap-vagrant
+poshy-wrap-vault
+poshy-wrap-vscode
 poshy-wrap-wget
 poshy-wrap-wt
 poshy-wrap-yum
@@ -4936,6 +4937,7 @@ pow
 powdrgit
 power
 power-apps
+power-cbr
 power-platform
 power-shell
 powerapps
@@ -5031,8 +5033,6 @@ preparead
 preparealldomains
 prepareschema
 prepend
-preprocessing
-preprocessor
 presentation
 presenter
 presto
@@ -5559,19 +5559,6 @@ pscommand_gdsth
 pscommand_gdstp
 pscommand_gdt
 pscommand_gdv
-pscommand_geca
-pscommand_gecb
-pscommand_geclup
-pscommand_gecr
-pscommand_gegi
-pscommand_geh
-pscommand_gei
-pscommand_geiall
-pscommand_gein
-pscommand_gel
-pscommand_geli
-pscommand_geo
-pscommand_geoe
 pscommand_get
 pscommand_get-aptinstalledpackages
 pscommand_get-childitemcolorfully
@@ -5636,7 +5623,6 @@ pscommand_get-netipaddresssimple
 pscommand_get-pwshaliasdefinition
 pscommand_get-pwshfunctiondefinition
 pscommand_get-viewer
-pscommand_geun
 pscommand_gexport
 pscommand_gf
 pscommand_gfa
@@ -5917,22 +5903,6 @@ pscommand_invoke-dockercomposeupdetached
 pscommand_invoke-dockercomposeupdetachedwithbuild
 pscommand_invoke-dockercomposeupnostart
 pscommand_invoke-dockercomposeupwithbuild
-pscommand_invoke-gemcertadd
-pscommand_invoke-gemcertbuild
-pscommand_invoke-gemcertremove
-pscommand_invoke-gemcleanupno
-pscommand_invoke-gemgenerateindex
-pscommand_invoke-gemhelp
-pscommand_invoke-geminfo
-pscommand_invoke-geminfoall
-pscommand_invoke-geminstall
-pscommand_invoke-gemlist
-pscommand_invoke-gemlock
-pscommand_invoke-gemopen
-pscommand_invoke-gemopeneditor
-pscommand_invoke-gemremovebypattern
-pscommand_invoke-gemsystem
-pscommand_invoke-gemuninstall
 pscommand_invoke-git
 pscommand_invoke-gitaddinteractivelypatch
 pscommand_invoke-gitbisect
@@ -6228,6 +6198,31 @@ pscommand_invoke-vagrantstatus
 pscommand_invoke-vagrantsuspend
 pscommand_invoke-vagrantup
 pscommand_invoke-vagrantuplogged
+pscommand_invoke-vaultdelete
+pscommand_invoke-vaultlist
+pscommand_invoke-vaultloginviagithub
+pscommand_invoke-vaultread
+pscommand_invoke-vaultreadfieldvalue
+pscommand_invoke-vaultrenew
+pscommand_invoke-vaultrevoke
+pscommand_invoke-vaultserver
+pscommand_invoke-vaultstatus
+pscommand_invoke-vaultversion
+pscommand_invoke-vaultwrite
+pscommand_invoke-vscodeadd
+pscommand_invoke-vscodediff
+pscommand_invoke-vscodeforpwd
+pscommand_invoke-vscodegoto
+pscommand_invoke-vscodeinstallextension
+pscommand_invoke-vscodenewwindow
+pscommand_invoke-vscodereusewindow
+pscommand_invoke-vscodeuninstallextension
+pscommand_invoke-vscodeverbose
+pscommand_invoke-vscodewithdisableextensions
+pscommand_invoke-vscodewithextensionsdir
+pscommand_invoke-vscodewithlog
+pscommand_invoke-vscodewithuserdatadir
+pscommand_invoke-vscodewithwait
 pscommand_invoke-yumcleanall
 pscommand_invoke-yumgroupinstall
 pscommand_invoke-yumgroupremove
@@ -6544,7 +6539,6 @@ pscommand_python
 pscommand_python3
 pscommand_rb
 pscommand_register-argcompleteargumentcompleter
-pscommand_remove_gem
 pscommand_remove-dockercontainerall
 pscommand_remove-dockerunusedimage
 pscommand_remove-gitbranch
@@ -6594,7 +6588,6 @@ pscommand_set-locationup2
 pscommand_set-locationup3
 pscommand_set-locationup4
 pscommand_set-locationup5
-pscommand_sgem
 pscommand_show-gitremote
 pscommand_show-proxy
 pscommand_shttp
@@ -6694,6 +6687,16 @@ pscommand_uuid
 pscommand_uuidgen
 pscommand_uuidl
 pscommand_uuidu
+pscommand_vad
+pscommand_vag
+pscommand_val
+pscommand_var
+pscommand_varn
+pscommand_varv
+pscommand_vas
+pscommand_vasrv
+pscommand_vav
+pscommand_vaw
 pscommand_vdstr
 pscommand_vh
 pscommand_vhl
@@ -6703,7 +6706,21 @@ pscommand_vp
 pscommand_vr
 pscommand_vrl
 pscommand_vs
+pscommand_vsc
+pscommand_vsca
+pscommand_vscd
+pscommand_vscde
+pscommand_vsced
+pscommand_vscg
+pscommand_vscie
+pscommand_vscl
+pscommand_vscn
 pscommand_vscp
+pscommand_vscr
+pscommand_vscu
+pscommand_vscue
+pscommand_vscv
+pscommand_vscw
 pscommand_vsl
 pscommand_vssh
 pscommand_vst
@@ -7160,22 +7177,6 @@ psfunction_invoke-dockercomposeupdetached
 psfunction_invoke-dockercomposeupdetachedwithbuild
 psfunction_invoke-dockercomposeupnostart
 psfunction_invoke-dockercomposeupwithbuild
-psfunction_invoke-gemcertadd
-psfunction_invoke-gemcertbuild
-psfunction_invoke-gemcertremove
-psfunction_invoke-gemcleanupno
-psfunction_invoke-gemgenerateindex
-psfunction_invoke-gemhelp
-psfunction_invoke-geminfo
-psfunction_invoke-geminfoall
-psfunction_invoke-geminstall
-psfunction_invoke-gemlist
-psfunction_invoke-gemlock
-psfunction_invoke-gemopen
-psfunction_invoke-gemopeneditor
-psfunction_invoke-gemremovebypattern
-psfunction_invoke-gemsystem
-psfunction_invoke-gemuninstall
 psfunction_invoke-git
 psfunction_invoke-gitaddinteractivelypatch
 psfunction_invoke-gitbisect
@@ -7471,6 +7472,31 @@ psfunction_invoke-vagrantstatus
 psfunction_invoke-vagrantsuspend
 psfunction_invoke-vagrantup
 psfunction_invoke-vagrantuplogged
+psfunction_invoke-vaultdelete
+psfunction_invoke-vaultlist
+psfunction_invoke-vaultloginviagithub
+psfunction_invoke-vaultread
+psfunction_invoke-vaultreadfieldvalue
+psfunction_invoke-vaultrenew
+psfunction_invoke-vaultrevoke
+psfunction_invoke-vaultserver
+psfunction_invoke-vaultstatus
+psfunction_invoke-vaultversion
+psfunction_invoke-vaultwrite
+psfunction_invoke-vscodeadd
+psfunction_invoke-vscodediff
+psfunction_invoke-vscodeforpwd
+psfunction_invoke-vscodegoto
+psfunction_invoke-vscodeinstallextension
+psfunction_invoke-vscodenewwindow
+psfunction_invoke-vscodereusewindow
+psfunction_invoke-vscodeuninstallextension
+psfunction_invoke-vscodeverbose
+psfunction_invoke-vscodewithdisableextensions
+psfunction_invoke-vscodewithextensionsdir
+psfunction_invoke-vscodewithlog
+psfunction_invoke-vscodewithuserdatadir
+psfunction_invoke-vscodewithwait
 psfunction_invoke-yumcleanall
 psfunction_invoke-yumgroupinstall
 psfunction_invoke-yumgroupremove
@@ -7815,6 +7841,7 @@ publicfolder
 publicip
 publish
 publishedmodules
+publisher
 publishers
 publishing
 pubsub
@@ -8161,7 +8188,6 @@ reverse-engineer
 reverse-string
 reversed-color-text
 reversedsc
-reverseengineering
 revision
 reword
 rewrite
@@ -8208,6 +8234,7 @@ rocketcyber
 roco
 rocolatey
 role
+roles
 rollingfile
 romaji
 ropc
@@ -8591,6 +8618,7 @@ shadow
 shadowcopy
 shadowcopybackups
 shadowgroups
+shanghaitech
 shard
 share
 share-permission
@@ -8725,7 +8753,6 @@ smtpaddressupdate psmodule
 smtpauth
 smtpoauth
 smtpsasl
-smtpsecure
 snap
 snapchat
 snapping
@@ -8829,6 +8856,7 @@ spellcheck
 spelling
 spf
 spi
+spicetify
 spinnaker
 splash
 splat
@@ -8874,6 +8902,7 @@ sqllocaldb
 sqlpackage
 sqlplus
 sqlproj
+sqlproject
 sqlps
 sqlserver
 sqlserveragent
@@ -9016,7 +9045,6 @@ sub-directory
 sub-menu
 subatomix
 subjectname
-sublimetext
 submission
 subnet
 subnet-calculator
@@ -9397,7 +9425,6 @@ trec
 tree
 tree-structure
 treesize
-treffynnon
 trein
 trello
 trellops
@@ -9444,7 +9471,6 @@ tuning
 tutorial
 tv
 tweet
-twig
 twilio
 twincat
 twinkly
@@ -9454,7 +9480,6 @@ twitter-api
 twitter-api-v2
 twitter-client
 twitter-follow
-twitter-hashtag
 twitter-mention
 twitter-share
 twitter-timeline
@@ -9505,7 +9530,6 @@ ud-numbermask
 ud-orgchart
 ud-piechart3d
 ud-pivottable
-ud-progressstepbar
 ud-rangeslider
 ud-readingbar
 ud-scrollspy
@@ -9578,7 +9602,6 @@ universalarchive
 universaldashboard
 university
 unix
-unlinked
 unlock
 unprotect
 unsupported
@@ -9620,6 +9643,7 @@ urlredirections
 urlrewrite
 urlscan
 urlupdate
+uru
 usage
 usageaggregates
 usageapi
@@ -9738,7 +9762,6 @@ viewer
 vigenere
 vim
 vimode
-virole
 virsh
 virtual
 virtualappliance
@@ -9758,7 +9781,6 @@ virtualmachines
 virtualmachne
 virtualnetwork
 virtualnetworking
-virtualportgroup
 virtualrtu
 virtualterminal
 virus
@@ -9802,7 +9824,6 @@ vmwvmhost
 vnet
 vnmonitoring
 vnugglets
-vnugglets.com
 vocabularies
 voice
 voiceconfig
@@ -9818,7 +9839,6 @@ vovin
 vpas
 vpasmodule
 vpc
-vpg
 vplex
 vpn
 vpn-certificate
@@ -9829,7 +9849,6 @@ vrchat
 vrealize
 vrising
 vro
-vrops
 vrsns
 vrtu
 vs
@@ -10148,7 +10167,6 @@ writelog
 writemanager
 writeprogress
 writer
-ws-federation
 wsapi
 wsb
 wsl

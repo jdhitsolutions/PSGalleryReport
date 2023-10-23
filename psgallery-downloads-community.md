@@ -84,9 +84,9 @@ TeamViewerPS allows to interact with the TeamViewer Web API as well as a locally
 
 __Downloads__: 29,461,398 | __Repository__: https://github.com/teamviewer/TeamViewerPS
 
-## [Posh-SSH](https://www.powershellgallery.com/Packages/Posh-SSH/3.0.8) | 3.0.8
+## [Posh-SSH](https://www.powershellgallery.com/Packages/Posh-SSH/3.1) | 3.1
 
-### Published: 10/22/2022 23:57:46 by Carlos Perez
+### Published: 10/22/2023 19:41:38 by Carlos Perez
 
 Provide SSH and SCP functionality for executing commands against remote hosts.
 
@@ -696,9 +696,9 @@ Convert hashtable to INI file and back. @ http://lipkau.github.io/PsIni/
 
 __Downloads__: 1,720,939 | __Repository__: http://lipkau.github.io/PsIni
 
-## [VSTeam](https://www.powershellgallery.com/Packages/VSTeam/7.14.0) | 7.14.0
+## [VSTeam](https://www.powershellgallery.com/Packages/VSTeam/7.15.1) | 7.15.1
 
-### Published: 10/16/2023 08:54:45 by Donovan Brown (@DonovanBrown) Sebastian Schütze (@RazorSPoint)
+### Published: 10/22/2023 21:05:15 by Donovan Brown (@DonovanBrown) Sebastian Schütze (@RazorSPoint)
 
 Adds functionality for working with Azure DevOps and Team Foundation Server.
 
@@ -2138,4 +2138,4 @@ Web automation using the Selenium Web Driver
 
 __Downloads__: 171,152 | __Repository__: https://github.com/adamdriscoll/selenium-powershell
 
-*Updated: Sunday, 22 October 2023 17:52:55 UTC*
+*Updated: Monday, 23 October 2023 02:03:13 UTC*

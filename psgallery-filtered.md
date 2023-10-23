@@ -3,6 +3,110 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [Pslogg](https://www.powershellgallery.com/Packages/Pslogg/3.1.0) | 3.1.0
+
+### Published: 10/23/2023 01:14:08 by Simon Elms
+
+A PowerShell module for logging messages to the host, to PowerShell streams, or to a log file.
+
+__Downloads__: 392 | __Repository__: https://github.com/AnotherSadGit/Pslogg_PowerShellLogger
+
+## [WinGet-Essentials](https://www.powershellgallery.com/Packages/WinGet-Essentials/1.8.1) | 1.8.1
+
+### Published: 10/23/2023 00:42:39 by Jon Carrier
+
+Provides cmdlets that compliment the existing WinGet CLI. Primarily, improves the user-experience for software updates and offers a convenient way to install collections of software via WinGet through the use of user-defined tags.
+
+__Downloads__: 8,648 | __Repository__: https://github.com/jjcarrier/PS-WinGet-Essentials
+
+## [TableUI](https://www.powershellgallery.com/Packages/TableUI/1.2.2) | 1.2.2
+
+### Published: 10/23/2023 00:35:53 by Jon Carrier
+
+A simple interface for making selections on an array of PS objects
+
+__Downloads__: 8,573 | __Repository__: https://github.com/jjcarrier/PS-TableUI
+
+## [Prelude](https://www.powershellgallery.com/Packages/Prelude/0.2.10) | 0.2.10
+
+### Published: 10/22/2023 21:59:34 by Jason Wohlgemuth
+
+A "standard" library for PowerShell inspired by the preludes of other languages
+
+__Downloads__: 2,603 | __Repository__: https://github.com/jhwohlgemuth/pwsh-prelude
+
+## [finetuna](https://www.powershellgallery.com/Packages/finetuna/0.8) | 0.8
+
+### Published: 10/22/2023 21:44:03 by Chrissy LeMaire
+
+OpenAI Fine Tuner
+
+__Downloads__: 0 | __Repository__: https://github.com/potatoqualitee/finetuna
+
+## [VSTeam](https://www.powershellgallery.com/Packages/VSTeam/7.15.1) | 7.15.1
+
+### Published: 10/22/2023 21:05:15 by Donovan Brown (@DonovanBrown) Sebastian Schütze (@RazorSPoint)
+
+Adds functionality for working with Azure DevOps and Team Foundation Server.
+
+__Downloads__: 1,697,229 | __Repository__: https://github.com/MethodsAndPractices/vsteam
+
+## [PSModule.FX](https://www.powershellgallery.com/Packages/PSModule.FX/0.0.148) | 0.0.148
+
+### Published: 10/22/2023 20:46:27 by PSModule
+
+PSModule Framework PowerShell Module
+
+__Downloads__: 540 | __Repository__: https://github.com/PSModule/PSModule.FX
+
+## [Utilities](https://www.powershellgallery.com/Packages/Utilities/0.0.45) | 0.0.45
+
+### Published: 10/22/2023 20:39:29 by PSModule
+
+PowerShell Module of Utilities
+
+__Downloads__: 1,188 | __Repository__: https://github.com/PSModule/Utilities
+
+## [PsChat](https://www.powershellgallery.com/Packages/PsChat/0.0.44) | 0.0.44
+
+### Published: 10/22/2023 20:26:41 by boeegh
+
+This module is a simple OpenAI/ChatGPT client for PowerShell
+
+__Downloads__: 522 | __Repository__: https://github.com/boeegh/PsChat/
+
+## [Posh-SSH](https://www.powershellgallery.com/Packages/Posh-SSH/3.1) | 3.1
+
+### Published: 10/22/2023 19:41:38 by Carlos Perez
+
+Provide SSH and SCP functionality for executing commands against remote hosts.
+
+__Downloads__: 26,372,879 | __Repository__: 
+
+## [AzAPICall](https://www.powershellgallery.com/Packages/AzAPICall/1.1.83) | 1.1.83
+
+### Published: 10/22/2023 19:17:48 by Julian Hayward Kai Schulz
+
+Azure API call handler for Microsoft Graph, Azure Resource Management, KeyVault and Log Analytics. Visit aka.ms/AzAPICall
+
+__Downloads__: 119,291 | __Repository__: https://aka.ms/AzAPICall
+
+## [AHSPSUtil](https://www.powershellgallery.com/Packages/AHSPSUtil/23.10.22.5) | 23.10.22.5
+
+### Published: 10/22/2023 18:57:13 by Filip Johansson
+
+Adds Audit Mode capability for clean install
+
+__Downloads__: 0 | __Repository__: 
+
+## [Rnwood.Dataverse.Data.PowerShell](https://www.powershellgallery.com/Packages/Rnwood.Dataverse.Data.PowerShell/1.0.2) | 1.0.2
+
+### Published: 10/22/2023 18:15:15 by Rob Wood <rob@rnwood.co.uk>
+
+Dataverse data manipulation cmdlets
+
+__Downloads__: 0 | __Repository__: 
+
 ## [AHSUtil](https://www.powershellgallery.com/Packages/AHSUtil/23.10.22.1) | 23.10.22.1
 
 ### Published: 10/22/2023 17:25:00 by Filip Johansson
@@ -10,22 +114,6 @@ These are the latest 250 modules published to the [PowerShell Gallery](https://p
 Adds Audit mode capability to clean install
 
 __Downloads__: 0 | __Repository__: 
-
-## [Utilities](https://www.powershellgallery.com/Packages/Utilities/0.0.42) | 0.0.42
-
-### Published: 10/22/2023 17:08:58 by PSModule
-
-PowerShell Module of Utilities
-
-__Downloads__: 1,188 | __Repository__: https://github.com/PSModule/Utilities
-
-## [PSModule.FX](https://www.powershellgallery.com/Packages/PSModule.FX/0.0.144) | 0.0.144
-
-### Published: 10/22/2023 16:59:30 by PSModule
-
-PSModule Framework PowerShell Module
-
-__Downloads__: 540 | __Repository__: https://github.com/PSModule/PSModule.FX
 
 ## [PokePS](https://www.powershellgallery.com/Packages/PokePS/1.4) | 1.4
 
@@ -50,22 +138,6 @@ __Downloads__: 0 | __Repository__: https://github.com/robinmalik/PSSemaphore
 Oraculum command line interface
 
 __Downloads__: 25 | __Repository__: https://github.com/Unipisa/Oraculum
-
-## [Rnwood.Dataverse.Data.PowerShell](https://www.powershellgallery.com/Packages/Rnwood.Dataverse.Data.PowerShell/1.0.1) | 1.0.1
-
-### Published: 10/22/2023 14:02:43 by Rob Wood <rob@rnwood.co.uk>
-
-Dataverse data manipulation cmdlets
-
-__Downloads__: 0 | __Repository__: 
-
-## [PwshSpectreConsole](https://www.powershellgallery.com/Packages/PwshSpectreConsole/0.2.5) | 0.2.5
-
-### Published: 10/22/2023 13:39:02 by Shaun Lawrie
-
-A convenient PowerShell wrapper for Spectre.Console
-
-__Downloads__: 146 | __Repository__: https://github.com/ShaunLawrie/PwshSpectreConsole
 
 ## [ADEssentials](https://www.powershellgallery.com/Packages/ADEssentials/0.0.170) | 0.0.170
 
@@ -139,14 +211,6 @@ Suite of Azure Devops REST API wrappers
 
 __Downloads__: 0 | __Repository__: 
 
-## [finetuna](https://www.powershellgallery.com/Packages/finetuna/0.7) | 0.7
-
-### Published: 10/21/2023 20:54:18 by Chrissy LeMaire
-
-OpenAI Fine Tuner
-
-__Downloads__: 0 | __Repository__: https://github.com/potatoqualitee/finetuna
-
 ## [tiPS](https://www.powershellgallery.com/Packages/tiPS/1.0.4) | 1.0.4
 
 ### Published: 10/21/2023 17:58:03 by Daniel Schroeder
@@ -170,14 +234,6 @@ __Downloads__: 0 | __Repository__: https://dev.azure.com/Claweofthewild/WoWManag
 This module is for working with settings and addons in WoW with PowerShell
 
 __Downloads__: 0 | __Repository__: https://dev.azure.com/Claweofthewild/WoWManager/
-
-## [Pslogg](https://www.powershellgallery.com/Packages/Pslogg/3.0.0) | 3.0.0
-
-### Published: 10/21/2023 13:15:05 by Simon Elms
-
-A PowerShell module for logging messages to the host, to PowerShell streams, or to a log file.
-
-__Downloads__: 392 | __Repository__: https://github.com/AnotherSadGit/Pslogg_PowerShellLogger
 
 ## [PSRule.Rules.AzureDevOps](https://www.powershellgallery.com/Packages/PSRule.Rules.AzureDevOps/0.2.0) | 0.2.0
 
@@ -705,14 +761,6 @@ A PowerShell module for managing the PATH environment variable.
 
 __Downloads__: 238 | __Repository__: https://github.com/PSModule/PATH
 
-## [AzAPICall](https://www.powershellgallery.com/Packages/AzAPICall/1.1.82) | 1.1.82
-
-### Published: 10/18/2023 19:10:04 by Julian Hayward Kai Schulz
-
-Azure API call handler for Microsoft Graph, Azure Resource Management, KeyVault and Log Analytics. Visit aka.ms/AzAPICall
-
-__Downloads__: 119,291 | __Repository__: https://aka.ms/AzAPICall
-
 ## [ExchangeEssentials](https://www.powershellgallery.com/Packages/ExchangeEssentials/0.8.0) | 0.8.0
 
 ### Published: 10/18/2023 18:51:55 by Przemyslaw Klys
@@ -768,14 +816,6 @@ __Downloads__: 5,263 | __Repository__: https://github.com/fbprogmbh/Audit-Test-A
 Allows you to tests your system with the included reports.
 
 __Downloads__: 2,586 | __Repository__: https://github.com/fbprogmbh/Audit-Test-Automation
-
-## [WinGet-Essentials](https://www.powershellgallery.com/Packages/WinGet-Essentials/1.7.2) | 1.7.2
-
-### Published: 10/18/2023 14:10:58 by Jon Carrier
-
-Provides cmdlets that compliment the existing WinGet CLI. Primarily, improves the user-experience for software updates and offers a convenient way to install collections of software via WinGet through the use of user-defined tags.
-
-__Downloads__: 8,648 | __Repository__: https://github.com/jjcarrier/PS-WinGet-Essentials
 
 ## [VMware.CloudFoundation.Reporting](https://www.powershellgallery.com/Packages/VMware.CloudFoundation.Reporting/2.4.2.1000) | 2.4.2.1000
 
@@ -2068,44 +2108,4 @@ Functions for working with Office365 and Azure modules
 
 __Downloads__: 16,521 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
-## [AdminToolbox.Networking](https://www.powershellgallery.com/Packages/AdminToolbox.Networking/2.18.17) | 2.18.17
-
-### Published: 10/17/2023 14:18:44 by Taylor Lee
-
-Network Troubleshooting Functions
-
-__Downloads__: 32,936 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-## [AdminToolbox.MSGraph](https://www.powershellgallery.com/Packages/AdminToolbox.MSGraph/1.2.109) | 1.2.109
-
-### Published: 10/17/2023 14:18:08 by Taylor Lee
-
-Microsoft Graph interactive API Functions
-
-__Downloads__: 5,584 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-## [AdminToolbox.Fun](https://www.powershellgallery.com/Packages/AdminToolbox.Fun/1.6.110) | 1.6.110
-
-### Published: 10/17/2023 14:17:33 by Taylor Lee
-
-Functions that have no purpose
-
-__Downloads__: 15,248 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-## [AdminToolbox.FileManagement](https://www.powershellgallery.com/Packages/AdminToolbox.FileManagement/1.15.100) | 1.15.100
-
-### Published: 10/17/2023 14:16:58 by Taylor Lee
-
-File Management Functions
-
-__Downloads__: 15,925 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-## [AdminToolbox.FFTools](https://www.powershellgallery.com/Packages/AdminToolbox.FFTools/4.16.59) | 4.16.59
-
-### Published: 10/17/2023 14:16:23 by Taylor Lee
-
-Expedite simple ffmpeg actions
-
-__Downloads__: 15,833 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-*Updated: Sunday, 22 October 2023 17:52:46 UTC*
+*Updated: Monday, 23 October 2023 02:03:05 UTC*
