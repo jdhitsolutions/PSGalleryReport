@@ -2034,9 +2034,9 @@ Powershell Modules for VMware Workstation on Windows/Linux and VMware Fusion on 
 
 __Downloads__: 195,191 | __Repository__: 
 
-## [d365fo.tools](https://www.powershellgallery.com/Packages/d365fo.tools/0.7.2) | 0.7.2
+## [d365fo.tools](https://www.powershellgallery.com/Packages/d365fo.tools/0.7.3) | 0.7.3
 
-### Published: 10/16/2023 08:04:15 by Mötz Jensen & Rasmus Andersen
+### Published: 10/23/2023 07:40:47 by Mötz Jensen & Rasmus Andersen
 
 A set of tools that will assist you when working with Dynamics 365 Finance & Operations development / demo machines.
 
@@ -2138,4 +2138,4 @@ Web automation using the Selenium Web Driver
 
 __Downloads__: 171,152 | __Repository__: https://github.com/adamdriscoll/selenium-powershell
 
-*Updated: Monday, 23 October 2023 02:03:13 UTC*
+*Updated: Monday, 23 October 2023 09:52:28 UTC*
