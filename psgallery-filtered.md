@@ -3,13 +3,161 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
-## [Sharpish.PS](https://www.powershellgallery.com/Packages/Sharpish.PS/1.1.8696.28558) | 1.1.8696.28558
+## [New-DispatchThread](https://www.powershellgallery.com/Packages/New-DispatchThread/0.1.2) | 0.1.2
 
-### Published: 10/24/2023 08:35:12 by Jeremy Branton
+### Published: 10/24/2023 16:44:58 by anonhostpi
 
-Generic functions used all over (2023-10-23 15:51:56)
+Adds a thread (runspace) constructor that returns a wrapped dispatcher object
 
-__Downloads__: 0 | __Repository__: 
+__Downloads__: 5 | __Repository__: https://github.com/pwsh-cs-tools/core
+
+## [Import-Package](https://www.powershellgallery.com/Packages/Import-Package/0.1.2) | 0.1.2
+
+### Published: 10/24/2023 16:44:51 by anonhostpi
+
+Adds ability to import NuGet/Nupkg packages downloaded by PackageManagement
+
+__Downloads__: 53 | __Repository__: https://github.com/pwsh-cs-tools/core
+
+## [RiverMeadow.Migrate](https://www.powershellgallery.com/Packages/RiverMeadow.Migrate/1.0.117.408) | 1.0.117.408
+
+### Published: 10/24/2023 15:52:42 by RiverMeadow Engineering Team
+
+Provides cmdlets for starting migration of applications to supported clouds using the RiverMeadow platform.
+
+__Downloads__: 156 | __Repository__: https://migrate.rivermeadow.com/
+
+## [PSNotify](https://www.powershellgallery.com/Packages/PSNotify/0.0.1) | 0.0.1
+
+### Published: 10/24/2023 15:23:19 by florian.von.bracht@apteco.de
+
+Apteco PS Modules - PowerShell Notify
+
+This module allows you to trigger messages via email, Telegram, Slack and Teams. You can use
+the channels separated from each other or combined as a group, when you want to inform via
+multiple different channels.
+
+__Downloads__: 0 | __Repository__: https://github.com/Apteco/AptecoPSModules/tree/main/PSNotifications
+
+## [ACME-PS](https://www.powershellgallery.com/Packages/ACME-PS/1.5.6) | 1.5.6
+
+### Published: 10/24/2023 15:19:15 by https://github.com/PKISharp/ACME-PS/graphs/contributors
+
+PowerShell client module for the ACME protocol Version 2, which can be used to interoperate with the Let's Encrypt(TM) projects certificate servers and any other RFC 8555 compliant server.
+
+__Downloads__: 328,833 | __Repository__: https://github.com/PKISharp/ACME-PS
+
+## [AdminToolbox](https://www.powershellgallery.com/Packages/AdminToolbox/11.0.118) | 11.0.118
+
+### Published: 10/24/2023 14:21:31 by Taylor Lee
+
+Master module for a collection of modules. These modules are varied in their tasks. The overall purpose of them being to provide a powerfull Toolset to improve IT Admin workflows.
+
+__Downloads__: 29,399 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox
+
+## [AdminToolbox.FortiWizard](https://www.powershellgallery.com/Packages/AdminToolbox.FortiWizard/2.18.16) | 2.18.16
+
+### Published: 10/24/2023 14:20:00 by Taylor Lee
+
+Functions that generate configuration scripts and manage FortiOS.
+
+__Downloads__: 8,565 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [AdminToolbox.VMWareAutomate](https://www.powershellgallery.com/Packages/AdminToolbox.VMWareAutomate/4.8.107) | 4.8.107
+
+### Published: 10/24/2023 14:19:21 by Taylor Lee
+
+Functions to Automate Bulk VMWare Tasks
+
+__Downloads__: 15,383 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [AdminToolbox.Remoting](https://www.powershellgallery.com/Packages/AdminToolbox.Remoting/1.9.110) | 1.9.110
+
+### Published: 10/24/2023 14:18:45 by Taylor Lee
+
+Functions for remote management and access.
+
+__Downloads__: 15,243 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [AdminToolbox.Office365](https://www.powershellgallery.com/Packages/AdminToolbox.Office365/3.1.60) | 3.1.60
+
+### Published: 10/24/2023 14:18:10 by Taylor Lee
+
+Functions for working with Office365 and Azure modules
+
+__Downloads__: 16,521 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [AdminToolbox.Networking](https://www.powershellgallery.com/Packages/AdminToolbox.Networking/2.18.18) | 2.18.18
+
+### Published: 10/24/2023 14:17:33 by Taylor Lee
+
+Network Troubleshooting Functions
+
+__Downloads__: 32,936 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [AdminToolbox.MSGraph](https://www.powershellgallery.com/Packages/AdminToolbox.MSGraph/1.2.110) | 1.2.110
+
+### Published: 10/24/2023 14:16:55 by Taylor Lee
+
+Microsoft Graph interactive API Functions
+
+__Downloads__: 5,584 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [AdminToolbox.Fun](https://www.powershellgallery.com/Packages/AdminToolbox.Fun/1.6.111) | 1.6.111
+
+### Published: 10/24/2023 14:16:20 by Taylor Lee
+
+Functions that have no purpose
+
+__Downloads__: 15,248 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [AdminToolbox.FileManagement](https://www.powershellgallery.com/Packages/AdminToolbox.FileManagement/1.15.101) | 1.15.101
+
+### Published: 10/24/2023 14:15:44 by Taylor Lee
+
+File Management Functions
+
+__Downloads__: 15,925 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [AdminToolbox.FFTools](https://www.powershellgallery.com/Packages/AdminToolbox.FFTools/4.16.60) | 4.16.60
+
+### Published: 10/24/2023 14:15:08 by Taylor Lee
+
+Expedite simple ffmpeg actions
+
+__Downloads__: 15,833 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [AdminToolbox.Exchange](https://www.powershellgallery.com/Packages/AdminToolbox.Exchange/1.9.111) | 1.9.111
+
+### Published: 10/24/2023 14:14:32 by Taylor Lee
+
+Functions for Exchange Management
+
+__Downloads__: 16,912 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [AdminToolbox.EndpointManagement](https://www.powershellgallery.com/Packages/AdminToolbox.EndpointManagement/4.9.103) | 4.9.103
+
+### Published: 10/24/2023 14:13:57 by Taylor Lee
+
+Functions for management of endpoints
+
+__Downloads__: 17,490 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [AdminToolbox.ActiveDirectory](https://www.powershellgallery.com/Packages/AdminToolbox.ActiveDirectory/1.9.108) | 1.9.108
+
+### Published: 10/24/2023 14:13:20 by Taylor Lee
+
+Functions for Active Directory
+
+__Downloads__: 19,206 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [Eryph.ComputeClient](https://www.powershellgallery.com/Packages/Eryph.ComputeClient/0.4.1) | 0.4.1
+
+### Published: 10/24/2023 11:42:05 by dbosoft GmbH and eryph contributors
+
+Cmdlets for the eryph compute API.
+
+__Downloads__: 157 | __Repository__: https://github.com/eryph-org/dotnet-computeclient
 
 ## [RiverMeadow.Release.Migrate](https://www.powershellgallery.com/Packages/RiverMeadow.Release.Migrate/1.0.117.408) | 1.0.117.408
 
@@ -34,110 +182,6 @@ __Downloads__: 464 | __Repository__: https://migrate.rivermeadow.com/
 Adds functionality for working with Azure DevOps and Team Foundation Server.
 
 __Downloads__: 1,697,229 | __Repository__: https://github.com/MethodsAndPractices/vsteam
-
-## [VMware.PowerCLI](https://www.powershellgallery.com/Packages/VMware.PowerCLI/13.2.0.22651439) | 13.2.0.22651439
-
-### Published: 10/24/2023 07:34:16 by VMware
-
-This Windows PowerShell module contains VMware.PowerCLI
-
-__Downloads__: 7,376,735 | __Repository__: 
-
-## [VMware.DeployAutomation](https://www.powershellgallery.com/Packages/VMware.DeployAutomation/8.0.2.22643738) | 8.0.2.22643738
-
-### Published: 10/24/2023 07:33:25 by VMware
-
-This PowerShell module contains PowerCLI Auto Deploy cmdlets.
-
-__Downloads__: 7,380,495 | __Repository__: https://developer.vmware.com/powercli
-
-## [VMware.VimAutomation.Vmc](https://www.powershellgallery.com/Packages/VMware.VimAutomation.Vmc/13.2.0.22643729) | 13.2.0.22643729
-
-### Published: 10/24/2023 07:33:17 by VMware
-
-This PowerShell module contains PowerCLI VMC cmdlets.
-
-__Downloads__: 7,502,577 | __Repository__: https://developer.vmware.com/powercli
-
-## [VMware.ImageBuilder](https://www.powershellgallery.com/Packages/VMware.ImageBuilder/8.0.2.22643727) | 8.0.2.22643727
-
-### Published: 10/24/2023 07:32:01 by VMware
-
-This PowerShell module contains PowerCLI ImageBuilder cmdlets.
-
-__Downloads__: 7,507,835 | __Repository__: https://developer.vmware.com/powercli
-
-## [VMware.CloudServices](https://www.powershellgallery.com/Packages/VMware.CloudServices/13.2.0.22643735) | 13.2.0.22643735
-
-### Published: 10/24/2023 07:30:18 by VMware
-
-PowerShell module that contains command for VMware Cloud Services.
-
-__Downloads__: 6,034,908 | __Repository__: https://developer.vmware.com/powercli
-
-## [VMware.VimAutomation.Storage](https://www.powershellgallery.com/Packages/VMware.VimAutomation.Storage/13.2.0.22643728) | 13.2.0.22643728
-
-### Published: 10/24/2023 07:29:18 by VMware
-
-This Windows PowerShell module contains PowerCLI storage management cmdlets.
-
-__Downloads__: 8,865,088 | __Repository__: https://developer.vmware.com/powercli
-
-## [VMware.VimAutomation.Cis.Core](https://www.powershellgallery.com/Packages/VMware.VimAutomation.Cis.Core/13.2.0.22643734) | 13.2.0.22643734
-
-### Published: 10/24/2023 07:28:47 by VMware
-
-This PowerShell module contains PowerCLI Cloud Infrastructure Suite cmdlets.
-
-__Downloads__: 11,356,127 | __Repository__: https://developer.vmware.com/powercli
-
-## [VMware.VimAutomation.HorizonView](https://www.powershellgallery.com/Packages/VMware.VimAutomation.HorizonView/13.2.0.22643736) | 13.2.0.22643736
-
-### Published: 10/24/2023 07:26:33 by VMware
-
-This PowerShell module contains Connect/Disconnect cmdlets for View API service.
-
-__Downloads__: 7,563,023 | __Repository__: https://developer.vmware.com/powercli
-
-## [VMware.Sdk.Vr](https://www.powershellgallery.com/Packages/VMware.Sdk.Vr/8.8.0.22644684) | 8.8.0.22644684
-
-### Published: 10/24/2023 07:25:48 by VMware
-
-This PowerShell module contains cmdlets for managing VMware.Sdk.Vr API.
-
-__Downloads__: 538,240 | __Repository__: 
-
-## [VMware.Sdk.Vcf.CloudBuilder](https://www.powershellgallery.com/Packages/VMware.Sdk.Vcf.CloudBuilder/5.1.0.22644675) | 5.1.0.22644675
-
-### Published: 10/24/2023 07:25:40 by VMware
-
-This PowerShell module contains cmdlets for managing VMware.Sdk.Vcf.CloudBuilder API.
-
-__Downloads__: 0 | __Repository__: 
-
-## [VMware.Sdk.Srm](https://www.powershellgallery.com/Packages/VMware.Sdk.Srm/8.8.0.22644664) | 8.8.0.22644664
-
-### Published: 10/24/2023 07:25:33 by VMware
-
-This PowerShell module contains cmdlets for managing VMware.Sdk.Srm API.
-
-__Downloads__: 538,377 | __Repository__: 
-
-## [VMware.Sdk.Nsx.Policy](https://www.powershellgallery.com/Packages/VMware.Sdk.Nsx.Policy/4.1.2.22644671) | 4.1.2.22644671
-
-### Published: 10/24/2023 07:25:24 by VMware
-
-This PowerShell module contains cmdlets for managing VMware.Sdk.Nsx.Policy API.
-
-__Downloads__: 1,731,878 | __Repository__: 
-
-## [VMware.Sdk.Vcf.SddcManager](https://www.powershellgallery.com/Packages/VMware.Sdk.Vcf.SddcManager/5.1.0.22644670) | 5.1.0.22644670
-
-### Published: 10/24/2023 07:24:14 by VMware
-
-This PowerShell module contains cmdlets for managing VMware.Sdk.Vcf.SddcManager API.
-
-__Downloads__: 0 | __Repository__: 
 
 ## [VMware.Sdk.vSphere.Content](https://www.powershellgallery.com/Packages/VMware.Sdk.vSphere.Content/8.0.1669.22649494) | 8.0.1669.22649494
 
@@ -523,14 +567,6 @@ This PowerShell module contains PowerShell Advanced functions for VMware.Sdk.Run
 
 __Downloads__: 2,622,602 | __Repository__: 
 
-## [VMware.VimAutomation.Common](https://www.powershellgallery.com/Packages/VMware.VimAutomation.Common/13.2.0.22643733) | 13.2.0.22643733
-
-### Published: 10/24/2023 07:16:41 by VMware
-
-This PowerShell module contains functionality required by multiple PowerCLI modules.
-
-__Downloads__: 13,347,166 | __Repository__: https://developer.vmware.com/powercli
-
 ## [RDG.Deployment.Utils](https://www.powershellgallery.com/Packages/RDG.Deployment.Utils/0.0.8) | 0.0.8
 
 ### Published: 10/24/2023 06:44:05 by kristoffersvanmark
@@ -759,14 +795,6 @@ Author, run and manage AUTOMATED TESTS for your DATA with minimum effort.
 
 __Downloads__: 520 | __Repository__: https://docs.justcat.it/
 
-## [ACME-PS](https://www.powershellgallery.com/Packages/ACME-PS/1.5.4) | 1.5.4
-
-### Published: 10/23/2023 10:34:33 by https://github.com/PKISharp/ACME-PS/graphs/contributors
-
-PowerShell client module for the ACME protocol Version 2, which can be used to interoperate with the Let's Encrypt(TM) projects certificate servers and any other RFC 8555 compliant server.
-
-__Downloads__: 328,833 | __Repository__: https://github.com/PKISharp/ACME-PS
-
 ## [365AutomatedLab](https://www.powershellgallery.com/Packages/365AutomatedLab/0.1.4) | 0.1.4
 
 ### Published: 10/23/2023 10:04:33 by Clayton Tyger
@@ -806,14 +834,6 @@ __Downloads__: 473 | __Repository__:
 A module full of useful PowerShell helper functions, making your life easier.
 
 __Downloads__: 10 | __Repository__: 
-
-## [Eryph.ComputeClient](https://www.powershellgallery.com/Packages/Eryph.ComputeClient/0.4.0) | 0.4.0
-
-### Published: 10/23/2023 05:45:54 by dbosoft GmbH and eryph contributors
-
-Cmdlets for the eryph compute API.
-
-__Downloads__: 157 | __Repository__: https://github.com/eryph-org/dotnet-computeclient
 
 ## [Systeminfo](https://www.powershellgallery.com/Packages/Systeminfo/1.3.4) | 1.3.4
 
@@ -983,22 +1003,6 @@ Cmdlets for the eryph Identity API.
 
 __Downloads__: 75 | __Repository__: https://github.com/eryph-org/dotnet-identityclient
 
-## [New-DispatchThread](https://www.powershellgallery.com/Packages/New-DispatchThread/0.1.1) | 0.1.1
-
-### Published: 10/22/2023 07:59:06 by anonhostpi
-
-Adds a thread (runspace) constructor that returns a wrapped dispatcher object
-
-__Downloads__: 5 | __Repository__: https://github.com/pwsh-cs-tools/core
-
-## [Import-Package](https://www.powershellgallery.com/Packages/Import-Package/0.1.1) | 0.1.1
-
-### Published: 10/22/2023 07:58:59 by anonhostpi
-
-Adds ability to import NuGet/Nupkg packages downloaded by PackageManagement
-
-__Downloads__: 53 | __Repository__: https://github.com/pwsh-cs-tools/core
-
 ## [helium](https://www.powershellgallery.com/Packages/helium/1.1.3) | 1.1.3
 
 ### Published: 10/22/2023 05:23:30 by David Stein
@@ -1078,14 +1082,6 @@ __Downloads__: 474 | __Repository__: https://uclobby.com/uclobby-teams-powershel
 Provides commands to an end user within TMD PowerShell Scripts.
 
 __Downloads__: 1,098 | __Repository__: 
-
-## [RiverMeadow.Migrate](https://www.powershellgallery.com/Packages/RiverMeadow.Migrate/1.0.117.374) | 1.0.117.374
-
-### Published: 10/20/2023 18:47:07 by RiverMeadow Engineering Team
-
-Provides cmdlets for starting migration of applications to supported clouds using the RiverMeadow platform.
-
-__Downloads__: 156 | __Repository__: https://migrate.rivermeadow.com/
 
 ## [FU-MSAuth](https://www.powershellgallery.com/Packages/FU-MSAuth/1.0.1.0) | 1.0.1.0
 
@@ -2134,4 +2130,12 @@ This modules provides Cmdlets for OCI Mediaservices Service
 
 __Downloads__: 1,945 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-*Updated: Tuesday, 24 October 2023 09:53:39 UTC*
+## [OCI.PSModules.Marketplacepublisher](https://www.powershellgallery.com/Packages/OCI.PSModules.Marketplacepublisher/68.0.0) | 68.0.0
+
+### Published: 10/17/2023 15:33:47 by Oracle Cloud Infrastructure
+
+This modules provides Cmdlets for OCI Marketplacepublisher Service
+
+__Downloads__: 15 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+
+*Updated: Tuesday, 24 October 2023 17:53:24 UTC*

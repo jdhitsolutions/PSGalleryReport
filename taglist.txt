@@ -1,8 +1,7 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Tuesday, 24 October 2023 09:53:56 UTC
+Updated: Tuesday, 24 October 2023 17:53:39 UTC
 
-.bat
 .env
 .net
 .prom
@@ -460,6 +459,7 @@ asciiart
 asdatabase
 asigra
 asjob
+asm
 asn.1
 asn1
 asnbank
@@ -543,7 +543,6 @@ automanage
 automate
 automated
 automatedlab
-automatenow
 automaticpacketreportingsystem
 automation
 automation psmodule
@@ -813,6 +812,7 @@ blaze
 blinking-text
 blob
 blobstorage
+block
 block-kit
 blockchain
 blocks
@@ -1025,7 +1025,6 @@ certificateservices
 certificatesmanagement
 certinia
 certutil
-cf
 cfn
 ch9
 change
@@ -1609,7 +1608,6 @@ dacl
 dacpac
 dacpackage
 dagger
-daily
 dane
 dangling
 dapr
@@ -1672,7 +1670,6 @@ dataset
 datasetdependency
 datashare
 datasource
-datastore
 datatable
 dataverse
 date
@@ -1784,7 +1781,6 @@ deutschland
 dev
 dev-tools
 devart
-devcenter
 devdeer
 developer
 developer_command_prompt
@@ -1863,7 +1859,6 @@ discordrpc
 discount
 discover
 discovery
-discutils
 disk
 disk_to_disk
 disk-space
@@ -2123,6 +2118,8 @@ elasticsearch
 element
 elevate
 elevated
+elevatedconsole
+elevatedmode
 elevation
 elgato
 elk
@@ -2250,7 +2247,6 @@ ets
 etw
 eulanda
 evaluator
-evc
 event
 event_id
 event_list
@@ -2373,7 +2369,6 @@ facebook
 factoryorchestrator
 factoryorchestratorclient
 facts
-faf
 failedlogin
 failure
 falcon
@@ -2631,6 +2626,7 @@ gainz-sqldb
 gal
 gallery
 game
+gamecategory:cards
 games
 gameserver
 gaming
@@ -2798,6 +2794,8 @@ gping
 gpio
 gplink
 gpo
+gpo-maintenance
+gpo-tools
 gpodoc
 gpolinks
 gpp
@@ -2905,7 +2903,6 @@ haskell
 haste
 hastebin
 haveibeenpwned
-hba
 hbase
 hci
 hcl
@@ -3111,6 +3108,7 @@ ics
 icws
 id
 id3
+idabus
 ide
 identifier
 identity
@@ -3120,6 +3118,7 @@ identitydirector
 identitydomains
 identitynow
 idf
+idm
 idna
 ids
 ie
@@ -3167,8 +3166,8 @@ imap
 imb
 imei
 imi
+impala
 impersonation
-imperva
 import
 import-csv
 import-dtdriverpackpackagedefinitionsms
@@ -3342,6 +3341,7 @@ isbn
 iscsi
 isdate
 ise
+iselevated
 isesteroids
 ish
 ishexstring
@@ -3980,6 +3980,7 @@ microsoftcloud
 microsoftdefender
 microsoftdefenderatp
 microsoftdeploymenttoolkit
+microsoftendpointmanager
 microsoftexchangeserver
 microsoftgraph
 microsoftgraphapi
@@ -4408,6 +4409,7 @@ objecttree
 obs
 observeit
 oce
+ocg
 ocgv
 oci
 ocicontrolcenter
@@ -4808,6 +4810,7 @@ player
 playlists
 pleasant
 pleasantpasswordserver
+plex
 plist
 plog
 plot
@@ -4884,6 +4887,7 @@ poshy-code-search
 poshy-colors
 poshy-coreutils-ish
 poshy-dir-nav
+poshy-ecks
 poshy-env-proxy
 poshy-env-var
 poshy-ls-isms
@@ -4919,7 +4923,6 @@ poshy-wrap-nmap
 poshy-wrap-npm
 poshy-wrap-pip
 poshy-wrap-pipenv
-poshy-wrap-pyenv
 poshy-wrap-pylint
 poshy-wrap-python
 poshy-wrap-ruby
@@ -5102,7 +5105,6 @@ progressbars
 project
 project-management
 projectmanagement
-projectreunion
 projects
 projecttemplate
 projectwise
@@ -6192,7 +6194,6 @@ pscommand_invoke-pipinstall
 pscommand_invoke-pipinstallupgrade
 pscommand_invoke-piplistoutdated
 pscommand_invoke-pipuninstall
-pscommand_invoke-pyenv
 pscommand_invoke-pylintreportsdisabled
 pscommand_invoke-ruby
 pscommand_invoke-rubyexecute
@@ -6681,7 +6682,6 @@ pscommand_pvenv
 pscommand_pwh
 pscommand_pwshrc-show-proxy
 pscommand_py
-pscommand_pyenv
 pscommand_pylint-quick
 pscommand_pyserver
 pscommand_python
@@ -6900,6 +6900,8 @@ pscommand_write-gitcommitgpgsignedbykey
 pscommand_write-gitcommithelpfullyverbose
 pscommand_write-gitcommitinteractively
 pscommand_write-gitcommitsignedoff
+pscommand_xin
+pscommand_xwith
 pscommand_yc
 pscommand_ygi
 pscommand_ygl
@@ -7607,7 +7609,6 @@ psfunction_invoke-pipinstall
 psfunction_invoke-pipinstallupgrade
 psfunction_invoke-piplistoutdated
 psfunction_invoke-pipuninstall
-psfunction_invoke-pyenv
 psfunction_invoke-pylintreportsdisabled
 psfunction_invoke-ruby
 psfunction_invoke-rubyexecute
@@ -8042,6 +8043,8 @@ psfunction_write-gitcommitgpgsignedbykey
 psfunction_write-gitcommithelpfullyverbose
 psfunction_write-gitcommitinteractively
 psfunction_write-gitcommitsignedoff
+psfunction_xin
+psfunction_xwith
 psgallery
 psget
 psgitlab
@@ -8180,7 +8183,6 @@ pwshake
 pwshfw
 pwshrc
 pxedistributionpoint
-pyenv
 pygmentize
 pylint
 pyranja
@@ -8208,6 +8210,7 @@ qq
 qr
 qrcode
 qrcodes
+qrp
 qrs
 quality
 qualys
@@ -8442,6 +8445,7 @@ requiredmodules
 requirements
 res
 rescan
+rescuetime
 reservation
 reservations
 reset
@@ -8532,6 +8536,7 @@ rocketcyber
 roco
 rocolatey
 role
+roles
 rollingfile
 romaji
 ropc
@@ -8604,6 +8609,7 @@ safari
 safe
 safeguard
 sage
+saggiehaim
 sailpoint
 sale
 sales
@@ -8761,7 +8767,6 @@ securegopher+
 securemfa
 securerdp
 securescore
-securesphere
 securestring
 security
 security-awareness-training
@@ -9051,12 +9056,10 @@ smtpoauth
 smtpsasl
 smtpsecure
 snap
-snapchat
 snapping
 snapshot
 snapshots
 sni
-snipe-it
 snippet
 snippets
 snippets-manager
@@ -9297,8 +9300,6 @@ stingar
 stock
 stockcharts
 stocks
-stoicism
-stoics
 stop
 storablecolortheme
 storage
@@ -9596,7 +9597,6 @@ tflint
 tfs
 tfscmdlets
 tfsec
-tftd
 tftp
 tfvc
 thecrushingemptinessofquotidianexistence
@@ -9608,7 +9608,6 @@ thinprint
 third-party-libraries
 third-party-notice
 thispc
-thoughtfortheday
 thousandeyes
 thread
 threading
@@ -9781,7 +9780,6 @@ twitter-api
 twitter-api-v2
 twitter-client
 twitter-follow
-twitter-hashtag
 twitter-mention
 twitter-share
 twitter-timeline
@@ -9804,7 +9802,6 @@ ucs
 ucspowertool
 ud-avataaar
 ud-badgebutton
-ud-badgelink
 ud-breadcrumb
 ud-breadcrumbitem
 ud-burger
@@ -9818,12 +9815,10 @@ ud-confetti
 ud-control
 ud-dashboard
 ud-datepicker
-ud-field
 ud-flexytable
 ud-funnel
 ud-hero
 ud-illustration
-ud-input
 ud-licensed
 ud-loadingoverlay
 ud-minesweeper
@@ -9843,7 +9838,6 @@ ud-signature
 ud-simpledrawer
 ud-singleselect
 ud-slider
-ud-speechbubble
 ud-step
 ud-stepbar
 ud-stickynavbar
@@ -10067,7 +10061,6 @@ viewer
 vigenere
 vim
 vimode
-virole
 virsh
 virtual
 virtualappliance
@@ -10087,7 +10080,6 @@ virtualmachines
 virtualmachne
 virtualnetwork
 virtualnetworking
-virtualportgroup
 virtualrtu
 virtualterminal
 virus
@@ -10131,7 +10123,6 @@ vmwvmhost
 vnet
 vnmonitoring
 vnugglets
-vnugglets.com
 vocabularies
 voice
 voiceconfig
@@ -10147,7 +10138,6 @@ vovin
 vpas
 vpasmodule
 vpc
-vpg
 vplex
 vpn
 vpn-certificate
@@ -10158,6 +10148,7 @@ vrchat
 vrealize
 vrising
 vro
+vrops
 vrsns
 vrtu
 vs
@@ -10394,7 +10385,6 @@ winsat
 winscp
 wintellect
 winterminal
-winui
 wireless
 wirelessnetwork
 wireshark
@@ -10403,7 +10393,6 @@ wiscmail
 wisco365
 wisconsin-madison
 wisconsin'uw-madison
-wisdom
 with
 wizard
 wkhtmltopdf
@@ -10476,6 +10465,7 @@ writelog
 writemanager
 writeprogress
 writer
+ws-federation
 wsapi
 wsb
 wsl
@@ -10525,6 +10515,7 @@ xevents
 xh
 xi
 xiaomi
+xin
 xkcd
 xliff
 xlsx
@@ -10550,6 +10541,7 @@ xtrude
 xunit
 xwiki
 xwindowsupdate
+xwith
 yahoo
 yahw
 yamaha
