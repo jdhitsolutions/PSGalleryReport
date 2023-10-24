@@ -3,6 +3,46 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [FinancialPackage.PowershellGalleryModule](https://www.powershellgallery.com/Packages/FinancialPackage.PowershellGalleryModule/1.0.2) | 1.0.2
+
+### Published: 10/23/2023 22:40:41 by FastTrack In-Product Experiences Team
+
+Financial package to create new Sensitive Information Types for MIP
+
+__Downloads__: 5 | __Repository__: 
+
+## [Universal](https://www.powershellgallery.com/Packages/Universal/4.1.7) | 4.1.7
+
+### Published: 10/23/2023 21:36:06 by Ironman Software
+
+Module for PowerShell Universal.
+
+__Downloads__: 49,511 | __Repository__: https://ironmansoftware.com/powershell-universal
+
+## [finetuna](https://www.powershellgallery.com/Packages/finetuna/1.0) | 1.0
+
+### Published: 10/23/2023 20:02:02 by Chrissy LeMaire
+
+OpenAI Fine Tuner
+
+__Downloads__: 0 | __Repository__: https://github.com/potatoqualitee/finetuna
+
+## [XD-PSTools](https://www.powershellgallery.com/Packages/XD-PSTools/1.9.4) | 1.9.4
+
+### Published: 10/23/2023 18:21:24 by Eric Meinders
+
+Contains function toolset for Xpressducks IT personnel.
+
+__Downloads__: 146 | __Repository__: 
+
+## [HttpUnitPS](https://www.powershellgallery.com/Packages/HttpUnitPS/0.3.2) | 0.3.2
+
+### Published: 10/23/2023 18:14:37 by Chris Hunt
+
+A PowerShell port of httpunit.
+
+__Downloads__: 3 | __Repository__: https://github.com/cdhunt/httpunitPS
+
 ## [PSModule.FX](https://www.powershellgallery.com/Packages/PSModule.FX/0.0.152) | 0.0.152
 
 ### Published: 10/23/2023 17:33:51 by PSModule
@@ -18,14 +58,6 @@ __Downloads__: 540 | __Repository__: https://github.com/PSModule/PSModule.FX
 Integrate and maintain Exchange Online with SEPPmail.Cloud
 
 __Downloads__: 1,239 | __Repository__: https://github.com/SEPPmail/SEPPmail365cloud
-
-## [HttpUnitPS](https://www.powershellgallery.com/Packages/HttpUnitPS/0.3.1) | 0.3.1
-
-### Published: 10/23/2023 17:02:18 by Chris Hunt
-
-A PowerShell port of httpunit.
-
-__Downloads__: 3 | __Repository__: https://github.com/cdhunt/httpunitPS
 
 ## [AptecoPSFramework](https://www.powershellgallery.com/Packages/AptecoPSFramework/0.1.2) | 0.1.2
 
@@ -158,14 +190,6 @@ __Downloads__: 328,833 | __Repository__: https://github.com/PKISharp/ACME-PS
 This module will allow you to create a 365 Development Environment from an Excel workbook
 
 __Downloads__: 17 | __Repository__: https://github.com/DevClate/365AutomatedLab
-
-## [finetuna](https://www.powershellgallery.com/Packages/finetuna/0.9) | 0.9
-
-### Published: 10/23/2023 10:03:16 by Chrissy LeMaire
-
-OpenAI Fine Tuner
-
-__Downloads__: 0 | __Repository__: https://github.com/potatoqualitee/finetuna
 
 ## [AtlassianCloudPS](https://www.powershellgallery.com/Packages/AtlassianCloudPS/0.8.0) | 0.8.0
 
@@ -2102,28 +2126,4 @@ This modules provides Cmdlets for OCI Apmconfig Service
 
 __Downloads__: 3,493 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-## [OCI.PSModules.Apigateway](https://www.powershellgallery.com/Packages/OCI.PSModules.Apigateway/68.0.0) | 68.0.0
-
-### Published: 10/17/2023 15:22:45 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Apigateway Service
-
-__Downloads__: 4,122 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Announcementsservice](https://www.powershellgallery.com/Packages/OCI.PSModules.Announcementsservice/68.0.0) | 68.0.0
-
-### Published: 10/17/2023 15:22:36 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Announcementsservice Service
-
-__Downloads__: 6,463 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Analytics](https://www.powershellgallery.com/Packages/OCI.PSModules.Analytics/68.0.0) | 68.0.0
-
-### Published: 10/17/2023 15:22:28 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Analytics Service
-
-__Downloads__: 3,995 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-*Updated: Monday, 23 October 2023 17:53:16 UTC*
+*Updated: Tuesday, 24 October 2023 02:03:36 UTC*
