@@ -696,9 +696,9 @@ Convert hashtable to INI file and back. @ http://lipkau.github.io/PsIni/
 
 __Downloads__: 1,720,939 | __Repository__: http://lipkau.github.io/PsIni
 
-## [VSTeam](https://www.powershellgallery.com/Packages/VSTeam/7.15.1) | 7.15.1
+## [VSTeam](https://www.powershellgallery.com/Packages/VSTeam/7.15.2) | 7.15.2
 
-### Published: 10/22/2023 21:05:15 by Donovan Brown (@DonovanBrown) Sebastian Schütze (@RazorSPoint)
+### Published: 10/24/2023 08:21:47 by Donovan Brown (@DonovanBrown) Sebastian Schütze (@RazorSPoint)
 
 Adds functionality for working with Azure DevOps and Team Foundation Server.
 
@@ -2034,9 +2034,9 @@ Powershell Modules for VMware Workstation on Windows/Linux and VMware Fusion on 
 
 __Downloads__: 195,191 | __Repository__: 
 
-## [d365fo.tools](https://www.powershellgallery.com/Packages/d365fo.tools/0.7.3) | 0.7.3
+## [d365fo.tools](https://www.powershellgallery.com/Packages/d365fo.tools/0.7.4) | 0.7.4
 
-### Published: 10/23/2023 07:40:47 by Mötz Jensen & Rasmus Andersen
+### Published: 10/24/2023 04:37:40 by Mötz Jensen & Rasmus Andersen
 
 A set of tools that will assist you when working with Dynamics 365 Finance & Operations development / demo machines.
 
@@ -2138,4 +2138,4 @@ Web automation using the Selenium Web Driver
 
 __Downloads__: 171,152 | __Repository__: https://github.com/adamdriscoll/selenium-powershell
 
-*Updated: Tuesday, 24 October 2023 02:03:46 UTC*
+*Updated: Tuesday, 24 October 2023 09:53:50 UTC*

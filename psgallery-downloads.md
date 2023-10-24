@@ -1497,9 +1497,9 @@ Powershell module for creating and extracting 7-Zip archives
 
 __Downloads__: 13,828,960 | __Repository__: https://github.com/thoemmi/7Zip4Powershell
 
-## [VMware.VimAutomation.Common](https://www.powershellgallery.com/Packages/VMware.VimAutomation.Common/13.1.0.21605386) | 13.1.0.21605386
+## [VMware.VimAutomation.Common](https://www.powershellgallery.com/Packages/VMware.VimAutomation.Common/13.2.0.22643733) | 13.2.0.22643733
 
-### Published: 04/18/2023 13:00:14 by VMware
+### Published: 10/24/2023 07:16:41 by VMware
 
 This PowerShell module contains functionality required by multiple PowerCLI modules.
 
@@ -1553,9 +1553,9 @@ This PowerShell module contains Windows PowerShell cmdlets for managing vSphere.
 
 __Downloads__: 11,479,633 | __Repository__: https://developer.vmware.com/powercli
 
-## [VMware.VimAutomation.Cis.Core](https://www.powershellgallery.com/Packages/VMware.VimAutomation.Cis.Core/13.1.0.21605976) | 13.1.0.21605976
+## [VMware.VimAutomation.Cis.Core](https://www.powershellgallery.com/Packages/VMware.VimAutomation.Cis.Core/13.2.0.22643734) | 13.2.0.22643734
 
-### Published: 04/18/2023 13:02:47 by VMware
+### Published: 10/24/2023 07:28:47 by VMware
 
 This PowerShell module contains PowerCLI Cloud Infrastructure Suite cmdlets.
 
@@ -1667,9 +1667,9 @@ Microsoft Azure PowerShell - Scheduler cmdlets for Azure Resource Manager
 
 __Downloads__: 8,966,707 | __Repository__: https://github.com/Azure/azure-powershell
 
-## [VMware.VimAutomation.Storage](https://www.powershellgallery.com/Packages/VMware.VimAutomation.Storage/13.1.0.21606282) | 13.1.0.21606282
+## [VMware.VimAutomation.Storage](https://www.powershellgallery.com/Packages/VMware.VimAutomation.Storage/13.2.0.22643728) | 13.2.0.22643728
 
-### Published: 04/18/2023 13:03:17 by VMware
+### Published: 10/24/2023 07:29:18 by VMware
 
 This Windows PowerShell module contains PowerCLI storage management cmdlets.
 
@@ -1775,9 +1775,9 @@ Sample module to manage AutoPilot devices using the Intune Graph API
 
 __Downloads__: 7,765,903 | __Repository__: 
 
-## [VMware.VimAutomation.HorizonView](https://www.powershellgallery.com/Packages/VMware.VimAutomation.HorizonView/13.1.0.21610272) | 13.1.0.21610272
+## [VMware.VimAutomation.HorizonView](https://www.powershellgallery.com/Packages/VMware.VimAutomation.HorizonView/13.2.0.22643736) | 13.2.0.22643736
 
-### Published: 04/18/2023 13:07:12 by VMware
+### Published: 10/24/2023 07:26:33 by VMware
 
 This PowerShell module contains Connect/Disconnect cmdlets for View API service.
 
@@ -1807,21 +1807,21 @@ This PowerShell module contains PowerCLI Cloud cmdlets.
 
 __Downloads__: 7,533,144 | __Repository__: https://developer.vmware.com/powercli
 
-## [VMware.ImageBuilder](https://www.powershellgallery.com/Packages/VMware.ImageBuilder/8.0.0.21610262) | 8.0.0.21610262
+## [VMware.ImageBuilder](https://www.powershellgallery.com/Packages/VMware.ImageBuilder/8.0.2.22643727) | 8.0.2.22643727
 
-### Published: 04/18/2023 13:05:09 by VMware
+### Published: 10/24/2023 07:32:01 by VMware
 
 This PowerShell module contains PowerCLI ImageBuilder cmdlets.
 
 __Downloads__: 7,507,835 | __Repository__: https://developer.vmware.com/powercli
 
-## [VMware.VimAutomation.Vmc](https://www.powershellgallery.com/Packages/VMware.VimAutomation.Vmc/13.0.0.20797723) | 13.0.0.20797723
+## [VMware.VimAutomation.Vmc](https://www.powershellgallery.com/Packages/VMware.VimAutomation.Vmc/13.2.0.22643729) | 13.2.0.22643729
 
-### Published: 11/21/2022 14:13:37 by VMware
+### Published: 10/24/2023 07:33:17 by VMware
 
-This Windows PowerShell module contains PowerCLI VMC cmdlets.
+This PowerShell module contains PowerCLI VMC cmdlets.
 
-__Downloads__: 7,502,577 | __Repository__: 
+__Downloads__: 7,502,577 | __Repository__: https://developer.vmware.com/powercli
 
 ## [Az.LoadTesting](https://www.powershellgallery.com/Packages/Az.LoadTesting/1.0.0) | 1.0.0
 
@@ -1831,17 +1831,17 @@ Microsoft Azure PowerShell: LoadTesting cmdlets
 
 __Downloads__: 7,388,353 | __Repository__: https://github.com/Azure/azure-powershell
 
-## [VMware.DeployAutomation](https://www.powershellgallery.com/Packages/VMware.DeployAutomation/8.0.0.21610665) | 8.0.0.21610665
+## [VMware.DeployAutomation](https://www.powershellgallery.com/Packages/VMware.DeployAutomation/8.0.2.22643738) | 8.0.2.22643738
 
-### Published: 04/18/2023 13:06:04 by VMware
+### Published: 10/24/2023 07:33:25 by VMware
 
 This PowerShell module contains PowerCLI Auto Deploy cmdlets.
 
 __Downloads__: 7,380,495 | __Repository__: https://developer.vmware.com/powercli
 
-## [VMware.PowerCLI](https://www.powershellgallery.com/Packages/VMware.PowerCLI/13.1.0.21624340) | 13.1.0.21624340
+## [VMware.PowerCLI](https://www.powershellgallery.com/Packages/VMware.PowerCLI/13.2.0.22651439) | 13.2.0.22651439
 
-### Published: 04/18/2023 15:39:09 by VMware
+### Published: 10/24/2023 07:34:16 by VMware
 
 This Windows PowerShell module contains VMware.PowerCLI
 
@@ -1931,13 +1931,13 @@ This product provides support for all AWS services in a single module. As an alt
 
 __Downloads__: 6,045,732 | __Repository__: https://github.com/aws/aws-tools-for-powershell
 
-## [VMware.CloudServices](https://www.powershellgallery.com/Packages/VMware.CloudServices/12.6.0.19606210) | 12.6.0.19606210
+## [VMware.CloudServices](https://www.powershellgallery.com/Packages/VMware.CloudServices/13.2.0.22643735) | 13.2.0.22643735
 
-### Published: 04/06/2022 13:46:10 by VMware
+### Published: 10/24/2023 07:30:18 by VMware
 
-PowerCLI CloudServices sample module.
+PowerShell module that contains command for VMware Cloud Services.
 
-__Downloads__: 6,034,908 | __Repository__: 
+__Downloads__: 6,034,908 | __Repository__: https://developer.vmware.com/powercli
 
 ## [Az.MachineLearningServices](https://www.powershellgallery.com/Packages/Az.MachineLearningServices/1.0.0) | 1.0.0
 
@@ -2229,4 +2229,4 @@ View and modify the Global Assembly Cache (GAC)
 
 __Downloads__: 3,528,672 | __Repository__: https://github.com/LTruijens/powershell-gac
 
-*Updated: Tuesday, 24 October 2023 02:03:43 UTC*
+*Updated: Tuesday, 24 October 2023 09:53:47 UTC*
