@@ -3,6 +3,70 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [WC-BlackberryUEM](https://www.powershellgallery.com/Packages/WC-BlackberryUEM/1.0.9) | 1.0.9
+
+### Published: 10/25/2023 17:47:24 by Phillip Marshall
+
+Module to interact with the Blackberry UEM API.
+
+__Downloads__: 0 | __Repository__: https://github.com/hematic/psBlackberryUEM
+
+## [NinjaOne](https://www.powershellgallery.com/Packages/NinjaOne/1.12.2) | 1.12.2
+
+### Published: 10/25/2023 16:16:58 by Mikey O'Toole
+
+This module provides an interface to the NinjaOne API.
+
+__Downloads__: 2,336 | __Repository__: https://github.com/homotechsual/NinjaOne
+
+## [PSMSALNet](https://www.powershellgallery.com/Packages/PSMSALNet/0.0.8) | 0.0.8
+
+### Published: 10/25/2023 16:10:50 by Francois LEON
+
+Module used to interact with Microsoft Authentication library
+
+__Downloads__: 75 | __Repository__: https://github.com/SCOMnewbie/PSMSALNet
+
+## [AppManiProgramManager](https://www.powershellgallery.com/Packages/AppManiProgramManager/1.44.2) | 1.44.2
+
+### Published: 10/25/2023 15:41:37 by AppMani
+
+Module for installing basic programs: This module provides functions for downloading installers from specified links, installing the programs, verifying the installed programs/services, and cleaning up the installer files.
+
+__Downloads__: 113,161 | __Repository__: 
+
+## [AppVeyorTestPsGallery](https://www.powershellgallery.com/Packages/AppVeyorTestPsGallery/1.0.521) | 1.0.521
+
+### Published: 10/25/2023 14:17:50 by Feodor Fitsner
+
+The test module to verify publishing to PSGallery from AppVeyor.
+
+__Downloads__: 40,093 | __Repository__: 
+
+## [PSGraphite](https://www.powershellgallery.com/Packages/PSGraphite/0.1.10) | 0.1.10
+
+### Published: 10/25/2023 14:00:55 by Stefan Eskelid
+
+PowerShell module for publishing metrics to Graphite
+
+__Downloads__: 39,140 | __Repository__: https://github.com/stefanes/PSGraphite
+
+## [Devolutions.PowerShell](https://www.powershellgallery.com/Packages/Devolutions.PowerShell/2023.2.0.9) | 2023.2.0.9
+
+### Published: 10/25/2023 13:30:31 by Devolutions
+
+The Devolutions.PowerShell module is a set of cmdlets that allow administrators to manage Remote Desktop Manager, Devolutions Server and Devolutions Hub Business using PowerShell. This module provides a simple and consistent interface for interacting with these products, making it easy to automate various tasks, such as creating and managing connections, sessions, and credentials, configuring security settings, and generating reports. The module can be easily integrated with other PowerShell modules, allowing administrators to automate tasks across multiple products and platforms, streamline their workflows and increase efficiency.
+
+__Downloads__: 6,729 | __Repository__: 
+
+## [Intune-App-Sandbox](https://www.powershellgallery.com/Packages/Intune-App-Sandbox/1.3.2) | 1.3.2
+
+### Published: 10/25/2023 10:06:30 by Maciej Horbacz
+
+This tool is for testing Powershell Script which is packed using Win32 Content Prep Tool for installing software using Win32 Deployment profile in Intune.
+
+__Downloads__: 1,434 | __Repository__: https://github.com/UniverseCitiz3n/Intune-App-Sandbox
+
 ## [Oraculum](https://www.powershellgallery.com/Packages/Oraculum/1.1.0.2) | 1.1.0.2
 
 ### Published: 10/25/2023 09:12:19 by Antonio Cisternino
@@ -26,14 +90,6 @@ __Downloads__: 393 | __Repository__: https://github.com/ActiveDirectoryStructure
 Intersight Powershell module provides the cmdlets to manage, analyze, and automate the IT infrastructure in Intersight.
 
 __Downloads__: 5,464 | __Repository__: https://github.com/CiscoDevNet/intersight-powershell
-
-## [AppVeyorTestPsGallery](https://www.powershellgallery.com/Packages/AppVeyorTestPsGallery/1.0.519) | 1.0.519
-
-### Published: 10/25/2023 06:09:01 by Feodor Fitsner
-
-The test module to verify publishing to PSGallery from AppVeyor.
-
-__Downloads__: 40,093 | __Repository__: 
 
 ## [tiPS](https://www.powershellgallery.com/Packages/tiPS/1.0.7) | 1.0.7
 
@@ -1288,14 +1344,6 @@ Cmdlets for the eryph compute API.
 
 __Downloads__: 157 | __Repository__: https://github.com/eryph-org/dotnet-computeclient
 
-## [RiverMeadow.Release.Migrate](https://www.powershellgallery.com/Packages/RiverMeadow.Release.Migrate/1.0.117.408) | 1.0.117.408
-
-### Published: 10/24/2023 08:25:53 by RiverMeadow Engineering Team
-
-Provides cmdlets for starting migration of applications to supported clouds using the RiverMeadow platform.
-
-__Downloads__: 232 | __Repository__: https://migrate.rivermeadow.com/
-
 ## [RiverMeadow.Development.Migrate](https://www.powershellgallery.com/Packages/RiverMeadow.Development.Migrate/1.0.118.406) | 1.0.118.406
 
 ### Published: 10/24/2023 08:25:10 by RiverMeadow Engineering Team
@@ -1768,14 +1816,6 @@ OpenAI Fine Tuner
 
 __Downloads__: 0 | __Repository__: https://github.com/potatoqualitee/finetuna
 
-## [XD-PSTools](https://www.powershellgallery.com/Packages/XD-PSTools/1.9.4) | 1.9.4
-
-### Published: 10/23/2023 18:21:24 by Eric Meinders
-
-Contains function toolset for Xpressducks IT personnel.
-
-__Downloads__: 146 | __Repository__: 
-
 ## [HttpUnitPS](https://www.powershellgallery.com/Packages/HttpUnitPS/0.3.2) | 0.3.2
 
 ### Published: 10/23/2023 18:14:37 by Chris Hunt
@@ -2012,44 +2052,4 @@ PowerShell Module of Utilities
 
 __Downloads__: 1,188 | __Repository__: https://github.com/PSModule/Utilities
 
-## [PsChat](https://www.powershellgallery.com/Packages/PsChat/0.0.44) | 0.0.44
-
-### Published: 10/22/2023 20:26:41 by boeegh
-
-This module is a simple OpenAI/ChatGPT client for PowerShell
-
-__Downloads__: 522 | __Repository__: https://github.com/boeegh/PsChat/
-
-## [AzAPICall](https://www.powershellgallery.com/Packages/AzAPICall/1.1.83) | 1.1.83
-
-### Published: 10/22/2023 19:17:48 by Julian Hayward Kai Schulz
-
-Azure API call handler for Microsoft Graph, Azure Resource Management, KeyVault and Log Analytics. Visit aka.ms/AzAPICall
-
-__Downloads__: 119,291 | __Repository__: https://aka.ms/AzAPICall
-
-## [AHSPSUtil](https://www.powershellgallery.com/Packages/AHSPSUtil/23.10.22.5) | 23.10.22.5
-
-### Published: 10/22/2023 18:57:13 by Filip Johansson
-
-Adds Audit Mode capability for clean install
-
-__Downloads__: 0 | __Repository__: 
-
-## [Rnwood.Dataverse.Data.PowerShell](https://www.powershellgallery.com/Packages/Rnwood.Dataverse.Data.PowerShell/1.0.2) | 1.0.2
-
-### Published: 10/22/2023 18:15:15 by Rob Wood <rob@rnwood.co.uk>
-
-Dataverse data manipulation cmdlets
-
-__Downloads__: 0 | __Repository__: 
-
-## [AHSUtil](https://www.powershellgallery.com/Packages/AHSUtil/23.10.22.1) | 23.10.22.1
-
-### Published: 10/22/2023 17:25:00 by Filip Johansson
-
-Adds Audit mode capability to clean install
-
-__Downloads__: 0 | __Repository__: 
-
-*Updated: Wednesday, 25 October 2023 09:53:03 UTC*
+*Updated: Wednesday, 25 October 2023 17:53:34 UTC*
