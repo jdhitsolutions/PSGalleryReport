@@ -3,6 +3,46 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [Oraculum](https://www.powershellgallery.com/Packages/Oraculum/1.1.0.2) | 1.1.0.2
+
+### Published: 10/25/2023 09:12:19 by Antonio Cisternino
+
+Oraculum command line interface
+
+__Downloads__: 25 | __Repository__: https://github.com/Unipisa/Oraculum
+
+## [ActiveDirectoryStructure](https://www.powershellgallery.com/Packages/ActiveDirectoryStructure/1.0.11) | 1.0.11
+
+### Published: 10/25/2023 06:23:26 by Gerald Doeserich
+
+Provides ways to validate a ActiveDirectory environment
+
+__Downloads__: 393 | __Repository__: https://github.com/ActiveDirectoryStructure/ActiveDirectoryStructure
+
+## [Intersight.PowerShell](https://www.powershellgallery.com/Packages/Intersight.PowerShell/1.0.11.13892) | 1.0.11.13892
+
+### Published: 10/25/2023 06:15:02 by Cisco Systems
+
+Intersight Powershell module provides the cmdlets to manage, analyze, and automate the IT infrastructure in Intersight.
+
+__Downloads__: 5,464 | __Repository__: https://github.com/CiscoDevNet/intersight-powershell
+
+## [AppVeyorTestPsGallery](https://www.powershellgallery.com/Packages/AppVeyorTestPsGallery/1.0.519) | 1.0.519
+
+### Published: 10/25/2023 06:09:01 by Feodor Fitsner
+
+The test module to verify publishing to PSGallery from AppVeyor.
+
+__Downloads__: 40,093 | __Repository__: 
+
+## [tiPS](https://www.powershellgallery.com/Packages/tiPS/1.0.7) | 1.0.7
+
+### Published: 10/25/2023 02:37:56 by Daniel Schroeder
+
+PowerShell tips delivered straight to your terminal.
+
+__Downloads__: 1,312 | __Repository__: https://github.com/deadlydog/PowerShell.tiPS
+
 ## [Microsoft.PowerShell.ConsoleGuiTools](https://www.powershellgallery.com/Packages/Microsoft.PowerShell.ConsoleGuiTools/0.7.5.35) | 0.7.5.35
 
 ### Published: 10/25/2023 01:34:19 by PowerShell Team
@@ -1664,14 +1704,6 @@ Includes a set of utility functions for deployment
 
 __Downloads__: 168 | __Repository__: 
 
-## [ActiveDirectoryStructure](https://www.powershellgallery.com/Packages/ActiveDirectoryStructure/1.0.10) | 1.0.10
-
-### Published: 10/24/2023 06:00:17 by Gerald Doeserich
-
-Provides ways to validate a ActiveDirectory environment
-
-__Downloads__: 393 | __Repository__: https://github.com/ActiveDirectoryStructure/ActiveDirectoryStructure
-
 ## [Log-Rotate](https://www.powershellgallery.com/Packages/Log-Rotate/1.6.0) | 1.6.0
 
 ### Published: 10/24/2023 04:37:52 by The Oh Brothers
@@ -1735,6 +1767,14 @@ __Downloads__: 49,511 | __Repository__: https://ironmansoftware.com/powershell-u
 OpenAI Fine Tuner
 
 __Downloads__: 0 | __Repository__: https://github.com/potatoqualitee/finetuna
+
+## [XD-PSTools](https://www.powershellgallery.com/Packages/XD-PSTools/1.9.4) | 1.9.4
+
+### Published: 10/23/2023 18:21:24 by Eric Meinders
+
+Contains function toolset for Xpressducks IT personnel.
+
+__Downloads__: 146 | __Repository__: 
 
 ## [HttpUnitPS](https://www.powershellgallery.com/Packages/HttpUnitPS/0.3.2) | 0.3.2
 
@@ -1932,14 +1972,6 @@ A module for authoring and building PowerShell modules
 
 __Downloads__: 124,852 | __Repository__: https://github.com/PoshCode/ModuleBuilder
 
-## [tiPS](https://www.powershellgallery.com/Packages/tiPS/1.0.6) | 1.0.6
-
-### Published: 10/23/2023 02:31:40 by Daniel Schroeder
-
-PowerShell tips delivered straight to your terminal.
-
-__Downloads__: 1,312 | __Repository__: https://github.com/deadlydog/PowerShell.tiPS
-
 ## [Pslogg](https://www.powershellgallery.com/Packages/Pslogg/3.1.0) | 3.1.0
 
 ### Published: 10/23/2023 01:14:08 by Simon Elms
@@ -2020,36 +2052,4 @@ Adds Audit mode capability to clean install
 
 __Downloads__: 0 | __Repository__: 
 
-## [PokePS](https://www.powershellgallery.com/Packages/PokePS/1.4) | 1.4
-
-### Published: 10/22/2023 15:21:16 by Ryan Voice
-
-Module to use PokeAPI via PowerShell
-
-__Downloads__: 24 | __Repository__: 
-
-## [PSSemaphore](https://www.powershellgallery.com/Packages/PSSemaphore/0.0.3) | 0.0.3
-
-### Published: 10/22/2023 15:03:03 by Robin Malik
-
-A module to interact with the Ansible Semaphore API
-
-__Downloads__: 0 | __Repository__: https://github.com/robinmalik/PSSemaphore
-
-## [Oraculum](https://www.powershellgallery.com/Packages/Oraculum/1.1.0.1) | 1.1.0.1
-
-### Published: 10/22/2023 14:53:41 by Antonio Cisternino
-
-Oraculum command line interface
-
-__Downloads__: 25 | __Repository__: https://github.com/Unipisa/Oraculum
-
-## [ADEssentials](https://www.powershellgallery.com/Packages/ADEssentials/0.0.170) | 0.0.170
-
-### Published: 10/22/2023 13:14:55 by Przemyslaw Klys
-
-Helper module for Active Directory with lots of useful functions that simplify supporting Active Directory.
-
-__Downloads__: 156,124 | __Repository__: https://github.com/EvotecIT/ADEssentials
-
-*Updated: Wednesday, 25 October 2023 02:03:36 UTC*
+*Updated: Wednesday, 25 October 2023 09:53:03 UTC*
