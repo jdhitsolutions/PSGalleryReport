@@ -304,9 +304,9 @@ Zero Install is a decentralized cross-platform software-installation system.
 
 __Downloads__: 4,813,235 | __Repository__: https://0install.net/
 
-## [SqlChangeAutomation](https://www.powershellgallery.com/Packages/SqlChangeAutomation/4.6.23282.2291) | 4.6.23282.2291
+## [SqlChangeAutomation](https://www.powershellgallery.com/Packages/SqlChangeAutomation/4.6.23298.2367) | 4.6.23298.2367
 
-### Published: 10/11/2023 15:41:37 by Red Gate Software Ltd.
+### Published: 10/26/2023 12:08:55 by Red Gate Software Ltd.
 
 Automation tools for production quality database deployment
 
@@ -2138,4 +2138,4 @@ Web automation using the Selenium Web Driver
 
 __Downloads__: 171,152 | __Repository__: https://github.com/adamdriscoll/selenium-powershell
 
-*Updated: Thursday, 26 October 2023 09:53:35 UTC*
+*Updated: Thursday, 26 October 2023 17:53:21 UTC*

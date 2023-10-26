@@ -3,6 +3,88 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [BRSOps](https://www.powershellgallery.com/Packages/BRSOps/1.0.0) | 1.0.0
+
+### Published: 10/26/2023 16:56:00 by Boston Red Sox Operations Team
+
+Mixed functionality based on the BRS Ops Team Requirements.  Please read each .PS1 file for more information
+
+__Downloads__: 0 | __Repository__: 
+
+## [AptecoPSFramework](https://www.powershellgallery.com/Packages/AptecoPSFramework/0.1.3) | 0.1.3
+
+### Published: 10/26/2023 15:51:40 by florian.von.bracht@apteco.de
+
+Apteco PS Modules - Framework
+
+This module allows Apteco, partners and customers to develop their own integrations.
+This framework brings lots of useful features with it like
+- Logging + Send information to Orbit UI
+- Standardised settings management saved in json files
+- Update upward compatibility when there are new features and setting possibilites
+- Errorhandling and causing stop of campaigns on problems
+- Installation of dependencies
+- Developer mode to quickly create own integrations
+- Secure encryption of tokens and credentials
+- Possibility to develop cmdlets that can be executed directly in PowerShell e.g. to start clean up jobs or download specific data from an integration...
+- Easy boilerplate, documentation on GitHub and Demo-Channel to start quickly
+- Easy updates via PowerShellGallery
+- Easy integration of proxies, custom headers, REST handling
+- Using secure oAuth for connected apps like Microsoft Dynamics, Salesforce SalesCloud and CleverReach
+- Much more to follow...
+
+Your help is appreciated. Just contact me.
+
+__Downloads__: 119 | __Repository__: https://github.com/Apteco/AptecoPSModules/tree/dev/AptecoPSFramework
+
+## [Liquit.Server.PowerShell](https://www.powershellgallery.com/Packages/Liquit.Server.PowerShell/4.1.3314.5928) | 4.1.3314.5928
+
+### Published: 10/26/2023 15:37:34 by Liquit Software B.V.
+
+Liquit Workspace PowerShell Module
+
+__Downloads__: 1,827 | __Repository__: 
+
+## [PSKubernetesSecretsManagement](https://www.powershellgallery.com/Packages/PSKubernetesSecretsManagement/0.9.0) | 0.9.0
+
+### Published: 10/26/2023 15:20:22 by Tony Guimelli
+
+This PowerShell module contains functions that facilitate the creation, rotation, auditing, and viewing the metadata of Kubernetes secrets.
+
+__Downloads__: 121 | __Repository__: https://github.com/anthonyg-1/PSKubernetesSecretsManagement
+
+## [Oraculum](https://www.powershellgallery.com/Packages/Oraculum/1.1.0.3) | 1.1.0.3
+
+### Published: 10/26/2023 13:42:57 by Antonio Cisternino
+
+Oraculum command line interface
+
+__Downloads__: 25 | __Repository__: https://github.com/Unipisa/Oraculum
+
+## [ActiveDirectoryStructure](https://www.powershellgallery.com/Packages/ActiveDirectoryStructure/1.1.0) | 1.1.0
+
+### Published: 10/26/2023 12:59:41 by Gerald Doeserich
+
+Provides ways to validate a ActiveDirectory environment
+
+__Downloads__: 393 | __Repository__: https://github.com/ActiveDirectoryStructure/ActiveDirectoryStructure
+
+## [SqlChangeAutomation](https://www.powershellgallery.com/Packages/SqlChangeAutomation/4.6.23298.2367) | 4.6.23298.2367
+
+### Published: 10/26/2023 12:08:55 by Red Gate Software Ltd.
+
+Automation tools for production quality database deployment
+
+__Downloads__: 4,667,250 | __Repository__: https://www.red-gate.com/sca/productpage
+
+## [MSPToolBox](https://www.powershellgallery.com/Packages/MSPToolBox/1.2.1) | 1.2.1
+
+### Published: 10/26/2023 10:16:21 by Jeshua Edgar
+
+This module leverages Secure App Model and PartnerCenter to connect to all your Partner Center tenants
+
+__Downloads__: 55 | __Repository__: https://github.com/JeshuaEdgar/msp-toolbox
+
 ## [DattoRMM](https://www.powershellgallery.com/Packages/DattoRMM/1.0.0.31) | 1.0.0.31
 
 ### Published: 10/26/2023 08:47:16 by Aaron Engels
@@ -91,14 +173,6 @@ Main module used to import all individual iDRAC Redfish modules listed in the Po
 
 __Downloads__: 1,676 | __Repository__: 
 
-## [which-command-GPT](https://www.powershellgallery.com/Packages/which-command-GPT/0.0.1) | 0.0.1
-
-### Published: 10/25/2023 18:52:34 by Jaswir Raghoe
-
-Answers which command will fulfill your request
-
-__Downloads__: 0 | __Repository__: 
-
 ## [PSDataverse](https://www.powershellgallery.com/Packages/PSDataverse/0.0.8) | 0.0.8
 
 ### Published: 10/25/2023 18:47:37 by Reza Niroomand
@@ -154,22 +228,6 @@ __Downloads__: 6,729 | __Repository__:
 This tool is for testing Powershell Script which is packed using Win32 Content Prep Tool for installing software using Win32 Deployment profile in Intune.
 
 __Downloads__: 1,434 | __Repository__: https://github.com/UniverseCitiz3n/Intune-App-Sandbox
-
-## [Oraculum](https://www.powershellgallery.com/Packages/Oraculum/1.1.0.2) | 1.1.0.2
-
-### Published: 10/25/2023 09:12:19 by Antonio Cisternino
-
-Oraculum command line interface
-
-__Downloads__: 25 | __Repository__: https://github.com/Unipisa/Oraculum
-
-## [ActiveDirectoryStructure](https://www.powershellgallery.com/Packages/ActiveDirectoryStructure/1.0.11) | 1.0.11
-
-### Published: 10/25/2023 06:23:26 by Gerald Doeserich
-
-Provides ways to validate a ActiveDirectory environment
-
-__Downloads__: 393 | __Repository__: https://github.com/ActiveDirectoryStructure/ActiveDirectoryStructure
 
 ## [Intersight.PowerShell](https://www.powershellgallery.com/Packages/Intersight.PowerShell/1.0.11.13892) | 1.0.11.13892
 
@@ -1944,32 +2002,6 @@ Integrate and maintain Exchange Online with SEPPmail.Cloud
 
 __Downloads__: 1,239 | __Repository__: https://github.com/SEPPmail/SEPPmail365cloud
 
-## [AptecoPSFramework](https://www.powershellgallery.com/Packages/AptecoPSFramework/0.1.2) | 0.1.2
-
-### Published: 10/23/2023 17:00:48 by florian.von.bracht@apteco.de
-
-Apteco PS Modules - Framework
-
-This module allows Apteco, partners and customers to develop their own integrations.
-This framework brings lots of useful features with it like
-- Logging + Send information to Orbit UI
-- Standardised settings management saved in json files
-- Update upward compatibility when there are new features and setting possibilites
-- Errorhandling and causing stop of campaigns on problems
-- Installation of dependencies
-- Developer mode to quickly create own integrations
-- Secure encryption of tokens and credentials
-- Possibility to develop cmdlets that can be executed directly in PowerShell e.g. to start clean up jobs or download specific data from an integration...
-- Easy boilerplate, documentation on GitHub and Demo-Channel to start quickly
-- Easy updates via PowerShellGallery
-- Easy integration of proxies, custom headers, REST handling
-- Using secure oAuth for connected apps like Microsoft Dynamics, Salesforce SalesCloud and CleverReach
-- Much more to follow...
-
-Your help is appreciated. Just contact me.
-
-__Downloads__: 119 | __Repository__: https://github.com/Apteco/AptecoPSModules/tree/dev/AptecoPSFramework
-
 ## [Microsoft.AVS.Management](https://www.powershellgallery.com/Packages/Microsoft.AVS.Management/5.3.99) | 5.3.99
 
 ### Published: 10/23/2023 16:19:05 by David Becher
@@ -2020,36 +2052,4 @@ The non-official OpenAI PowerShell module. This module is used to interact with 
 
 __Downloads__: 54,690 | __Repository__: https://github.com/chenxizhang/openai-powershell/
 
-## [ATAPAuditor](https://www.powershellgallery.com/Packages/ATAPAuditor/5.6.3) | 5.6.3
-
-### Published: 10/23/2023 13:14:26 by Benedikt Böhme Patrick Helbach Steffen Winternheimer Phan Quang Nguyen Daniel Ströher
-
-Allows you to tests your system with the included reports.
-
-__Downloads__: 2,586 | __Repository__: https://github.com/fbprogmbh/Audit-Test-Automation
-
-## [Posh-SSH](https://www.powershellgallery.com/Packages/Posh-SSH/3.1.1) | 3.1.1
-
-### Published: 10/23/2023 12:02:47 by Carlos Perez
-
-Provide SSH and SCP functionality for executing commands against remote hosts.
-
-__Downloads__: 26,372,879 | __Repository__: 
-
-## [HaloAPI](https://www.powershellgallery.com/Packages/HaloAPI/1.15.0) | 1.15.0
-
-### Published: 10/23/2023 11:28:04 by Mikey O'Toole / Luke Whitelock
-
-This module provides an interface to the Halo API.
-
-__Downloads__: 144,476 | __Repository__: https://github.com/homotechsual/HaloAPI
-
-## [CAT](https://www.powershellgallery.com/Packages/CAT/0.21.0.7) | 0.21.0.7
-
-### Published: 10/23/2023 11:26:05 by Joyful Craftsmen CAT Team
-
-Author, run and manage AUTOMATED TESTS for your DATA with minimum effort.
-
-__Downloads__: 520 | __Repository__: https://docs.justcat.it/
-
-*Updated: Thursday, 26 October 2023 09:53:25 UTC*
+*Updated: Thursday, 26 October 2023 17:53:11 UTC*

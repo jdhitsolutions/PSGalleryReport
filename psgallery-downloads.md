@@ -1409,9 +1409,9 @@ IIS Configuration management module
 
 __Downloads__: 21,369,640 | __Repository__: 
 
-## [MSOnline](https://www.powershellgallery.com/Packages/MSOnline/1.1.183.80) | 1.1.183.80
+## [MSOnline](https://www.powershellgallery.com/Packages/MSOnline/1.1.183.81) | 1.1.183.81
 
-### Published: 10/10/2023 17:02:37 by Microsoft Corporation
+### Published: 10/26/2023 15:36:52 by Microsoft Corporation
 
 Microsoft Azure Active Directory Module for Windows PowerShell
 
@@ -2042,9 +2042,9 @@ Zero Install is a decentralized cross-platform software-installation system.
 
 __Downloads__: 4,813,235 | __Repository__: https://0install.net/
 
-## [SqlChangeAutomation](https://www.powershellgallery.com/Packages/SqlChangeAutomation/4.6.23282.2291) | 4.6.23282.2291
+## [SqlChangeAutomation](https://www.powershellgallery.com/Packages/SqlChangeAutomation/4.6.23298.2367) | 4.6.23298.2367
 
-### Published: 10/11/2023 15:41:37 by Red Gate Software Ltd.
+### Published: 10/26/2023 12:08:55 by Red Gate Software Ltd.
 
 Automation tools for production quality database deployment
 
@@ -2229,4 +2229,4 @@ View and modify the Global Assembly Cache (GAC)
 
 __Downloads__: 3,528,672 | __Repository__: https://github.com/LTruijens/powershell-gac
 
-*Updated: Thursday, 26 October 2023 09:53:31 UTC*
+*Updated: Thursday, 26 October 2023 17:53:17 UTC*
