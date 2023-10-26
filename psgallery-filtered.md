@@ -3,21 +3,77 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
-## [WC-BlackberryUEM](https://www.powershellgallery.com/Packages/WC-BlackberryUEM/1.0.9) | 1.0.9
+## [AppVeyorTestPsGallery](https://www.powershellgallery.com/Packages/AppVeyorTestPsGallery/1.0.523) | 1.0.523
 
-### Published: 10/25/2023 17:47:24 by Phillip Marshall
+### Published: 10/26/2023 00:39:56 by Feodor Fitsner
 
-Module to interact with the Blackberry UEM API.
+The test module to verify publishing to PSGallery from AppVeyor.
 
-__Downloads__: 0 | __Repository__: https://github.com/hematic/psBlackberryUEM
+__Downloads__: 40,093 | __Repository__: 
 
-## [NinjaOne](https://www.powershellgallery.com/Packages/NinjaOne/1.12.2) | 1.12.2
+## [PlcGhostBuster](https://www.powershellgallery.com/Packages/PlcGhostBuster/1.3) | 1.3
 
-### Published: 10/25/2023 16:16:58 by Mikey O'Toole
+### Published: 10/25/2023 21:44:31 by Nimrod Ken Dror
+
+Plc controller powershell module
+
+__Downloads__: 11 | __Repository__: https://github.com/Naihan/PlcGhostBuster
+
+## [NinjaOne](https://www.powershellgallery.com/Packages/NinjaOne/1.12.3) | 1.12.3
+
+### Published: 10/25/2023 20:13:14 by Mikey O'Toole
 
 This module provides an interface to the NinjaOne API.
 
 __Downloads__: 2,336 | __Repository__: https://github.com/homotechsual/NinjaOne
+
+## [Get-IdracLifecycleLogsREDFISH](https://www.powershellgallery.com/Packages/Get-IdracLifecycleLogsREDFISH/9.0.0) | 9.0.0
+
+### Published: 10/25/2023 19:59:04 by Texas Roemer
+
+iDRAC cmdlet using Redfish API with OEM extension to get complete iDRAC Lifecycle logs, echo to the screen. NOTE: Recommended to redirect output to a file due to large amount of data returned
+
+__Downloads__: 305 | __Repository__: 
+
+## [Invoke-IdracRemoteKvmHtmlSessionREDFISH](https://www.powershellgallery.com/Packages/Invoke-IdracRemoteKvmHtmlSessionREDFISH/9.0.0) | 9.0.0
+
+### Published: 10/25/2023 19:58:28 by Texas Roemer
+
+iDRAC cmdlet using Redfish API with OEM extension to launch virtual console KVM session using your default browser.
+
+__Downloads__: 108 | __Repository__: 
+
+## [IdracRedfishSupport](https://www.powershellgallery.com/Packages/IdracRedfishSupport/22.7.0.0) | 22.7.0.0
+
+### Published: 10/25/2023 19:58:02 by Texas Roemer
+
+Main module used to import all individual iDRAC Redfish modules listed in the Powershell gallery. For more details and examples for each module, execute get-help on the specific module.
+
+__Downloads__: 1,676 | __Repository__: 
+
+## [which-command-GPT](https://www.powershellgallery.com/Packages/which-command-GPT/0.0.1) | 0.0.1
+
+### Published: 10/25/2023 18:52:34 by Jaswir Raghoe
+
+Answers which command will fulfill your request
+
+__Downloads__: 0 | __Repository__: 
+
+## [PSDataverse](https://www.powershellgallery.com/Packages/PSDataverse/0.0.8) | 0.0.8
+
+### Published: 10/25/2023 18:47:37 by Reza Niroomand
+
+Bring Dataverse's Web API to PowerShell.
+
+__Downloads__: 327 | __Repository__: https://github.com/rezanid/PSDataverse
+
+## [psBlackberryUEM](https://www.powershellgallery.com/Packages/psBlackberryUEM/1.0.9) | 1.0.9
+
+### Published: 10/25/2023 18:11:57 by Phillip Marshall
+
+Module to interact with the Blackberry UEM API.
+
+__Downloads__: 0 | __Repository__: https://github.com/hematic/psBlackberryUEM
 
 ## [PSMSALNet](https://www.powershellgallery.com/Packages/PSMSALNet/0.0.8) | 0.0.8
 
@@ -34,14 +90,6 @@ __Downloads__: 75 | __Repository__: https://github.com/SCOMnewbie/PSMSALNet
 Module for installing basic programs: This module provides functions for downloading installers from specified links, installing the programs, verifying the installed programs/services, and cleaning up the installer files.
 
 __Downloads__: 113,161 | __Repository__: 
-
-## [AppVeyorTestPsGallery](https://www.powershellgallery.com/Packages/AppVeyorTestPsGallery/1.0.521) | 1.0.521
-
-### Published: 10/25/2023 14:17:50 by Feodor Fitsner
-
-The test module to verify publishing to PSGallery from AppVeyor.
-
-__Downloads__: 40,093 | __Repository__: 
 
 ## [PSGraphite](https://www.powershellgallery.com/Packages/PSGraphite/0.1.10) | 0.1.10
 
@@ -1344,6 +1392,14 @@ Cmdlets for the eryph compute API.
 
 __Downloads__: 157 | __Repository__: https://github.com/eryph-org/dotnet-computeclient
 
+## [RiverMeadow.Release.Migrate](https://www.powershellgallery.com/Packages/RiverMeadow.Release.Migrate/1.0.117.408) | 1.0.117.408
+
+### Published: 10/24/2023 08:25:53 by RiverMeadow Engineering Team
+
+Provides cmdlets for starting migration of applications to supported clouds using the RiverMeadow platform.
+
+__Downloads__: 232 | __Repository__: https://migrate.rivermeadow.com/
+
 ## [RiverMeadow.Development.Migrate](https://www.powershellgallery.com/Packages/RiverMeadow.Development.Migrate/1.0.118.406) | 1.0.118.406
 
 ### Published: 10/24/2023 08:25:10 by RiverMeadow Engineering Team
@@ -1816,6 +1872,14 @@ OpenAI Fine Tuner
 
 __Downloads__: 0 | __Repository__: https://github.com/potatoqualitee/finetuna
 
+## [XD-PSTools](https://www.powershellgallery.com/Packages/XD-PSTools/1.9.4) | 1.9.4
+
+### Published: 10/23/2023 18:21:24 by Eric Meinders
+
+Contains function toolset for Xpressducks IT personnel.
+
+__Downloads__: 146 | __Repository__: 
+
 ## [HttpUnitPS](https://www.powershellgallery.com/Packages/HttpUnitPS/0.3.2) | 0.3.2
 
 ### Published: 10/23/2023 18:14:37 by Chris Hunt
@@ -1988,68 +2052,4 @@ This module automates the cost savings approach for Azure Web Apps and Azure SQL
 
 __Downloads__: 473 | __Repository__: 
 
-## [GoodWorkaroundHelpers](https://www.powershellgallery.com/Packages/GoodWorkaroundHelpers/0.0.3) | 0.0.3
-
-### Published: 10/23/2023 06:28:03 by Marius Solbakken Mellum
-
-A module full of useful PowerShell helper functions, making your life easier.
-
-__Downloads__: 10 | __Repository__: 
-
-## [Systeminfo](https://www.powershellgallery.com/Packages/Systeminfo/1.3.4) | 1.3.4
-
-### Published: 10/23/2023 03:00:18 by SAGSa
-
-Multithreading system information module for powershell
-
-__Downloads__: 43,807 | __Repository__: https://github.com/SAGSA/SystemInfo
-
-## [ModuleBuilder](https://www.powershellgallery.com/Packages/ModuleBuilder/3.0.2) | 3.0.2
-
-### Published: 10/23/2023 02:36:00 by Joel Bennett
-
-A module for authoring and building PowerShell modules
-
-__Downloads__: 124,852 | __Repository__: https://github.com/PoshCode/ModuleBuilder
-
-## [Pslogg](https://www.powershellgallery.com/Packages/Pslogg/3.1.0) | 3.1.0
-
-### Published: 10/23/2023 01:14:08 by Simon Elms
-
-A PowerShell module for logging messages to the host, to PowerShell streams, or to a log file.
-
-__Downloads__: 392 | __Repository__: https://github.com/AnotherSadGit/Pslogg_PowerShellLogger
-
-## [WinGet-Essentials](https://www.powershellgallery.com/Packages/WinGet-Essentials/1.8.1) | 1.8.1
-
-### Published: 10/23/2023 00:42:39 by Jon Carrier
-
-Provides cmdlets that compliment the existing WinGet CLI. Primarily, improves the user-experience for software updates and offers a convenient way to install collections of software via WinGet through the use of user-defined tags.
-
-__Downloads__: 8,648 | __Repository__: https://github.com/jjcarrier/PS-WinGet-Essentials
-
-## [TableUI](https://www.powershellgallery.com/Packages/TableUI/1.2.2) | 1.2.2
-
-### Published: 10/23/2023 00:35:53 by Jon Carrier
-
-A simple interface for making selections on an array of PS objects
-
-__Downloads__: 8,573 | __Repository__: https://github.com/jjcarrier/PS-TableUI
-
-## [Prelude](https://www.powershellgallery.com/Packages/Prelude/0.2.10) | 0.2.10
-
-### Published: 10/22/2023 21:59:34 by Jason Wohlgemuth
-
-A "standard" library for PowerShell inspired by the preludes of other languages
-
-__Downloads__: 2,603 | __Repository__: https://github.com/jhwohlgemuth/pwsh-prelude
-
-## [Utilities](https://www.powershellgallery.com/Packages/Utilities/0.0.45) | 0.0.45
-
-### Published: 10/22/2023 20:39:29 by PSModule
-
-PowerShell Module of Utilities
-
-__Downloads__: 1,188 | __Repository__: https://github.com/PSModule/Utilities
-
-*Updated: Wednesday, 25 October 2023 17:53:34 UTC*
+*Updated: Thursday, 26 October 2023 02:01:53 UTC*
