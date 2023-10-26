@@ -3,13 +3,45 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
-## [AppVeyorTestPsGallery](https://www.powershellgallery.com/Packages/AppVeyorTestPsGallery/1.0.523) | 1.0.523
+## [DattoRMM](https://www.powershellgallery.com/Packages/DattoRMM/1.0.0.31) | 1.0.0.31
 
-### Published: 10/26/2023 00:39:56 by Feodor Fitsner
+### Published: 10/26/2023 08:47:16 by Aaron Engels
+
+This module will make it easier to use the Datto RMM API in your PowerShell scripts. As all the hard work is done, you can develop your scripts faster and be more efficient. There is no need to go through a big learning curve spending lots of time working out how to use the Datto RMM API. Simply load the module, enter your API keys and get results within minutes!
+
+__Downloads__: 112,677 | __Repository__: https://github.com/aaronengels/DattoRMM
+
+## [RubrikSecurityCloud](https://www.powershellgallery.com/Packages/RubrikSecurityCloud/0.17.0) | 0.17.0
+
+### Published: 10/26/2023 08:04:53 by Rubrik
+
+PowerShell Module for Rubrik Security Cloud. GraphQL schema version: v20231011-41 .
+
+__Downloads__: 324 | __Repository__: https://github.com/rubrikinc/rubrik-powershell-sdk
+
+## [JaapsTools](https://www.powershellgallery.com/Packages/JaapsTools/18.9.1) | 18.9.1
+
+### Published: 10/26/2023 07:40:35 by JT
+
+JaapsTools
+
+__Downloads__: 587 | __Repository__: 
+
+## [AppVeyorTestPsGallery](https://www.powershellgallery.com/Packages/AppVeyorTestPsGallery/1.0.524) | 1.0.524
+
+### Published: 10/26/2023 06:19:10 by Feodor Fitsner
 
 The test module to verify publishing to PSGallery from AppVeyor.
 
 __Downloads__: 40,093 | __Repository__: 
+
+## [GitlabCli](https://www.powershellgallery.com/Packages/GitlabCli/1.105.2) | 1.105.2
+
+### Published: 10/26/2023 03:56:24 by Chris Peterson
+
+Interact with GitLab via PowerShell
+
+__Downloads__: 14,121 | __Repository__: https://github.com/chris-peterson/pwsh-gitlab
 
 ## [PlcGhostBuster](https://www.powershellgallery.com/Packages/PlcGhostBuster/1.3) | 1.3
 
@@ -18,6 +50,14 @@ __Downloads__: 40,093 | __Repository__:
 Plc controller powershell module
 
 __Downloads__: 11 | __Repository__: https://github.com/Naihan/PlcGhostBuster
+
+## [IntuneResourceLocalization](https://www.powershellgallery.com/Packages/IntuneResourceLocalization/0.2.36) | 0.2.36
+
+### Published: 10/25/2023 21:30:23 by Inetum Realdolmen
+
+PowerShell module for managing localization resources on intune-managed devices
+
+__Downloads__: 169 | __Repository__: 
 
 ## [NinjaOne](https://www.powershellgallery.com/Packages/NinjaOne/1.12.3) | 1.12.3
 
@@ -1938,14 +1978,6 @@ Various cmdlets for adminstrator level tasks in managing Azure VMware Solutions
 
 __Downloads__: 27,060 | __Repository__: https://github.com/Azure/Microsoft.AVS.Management
 
-## [GitlabCli](https://www.powershellgallery.com/Packages/GitlabCli/1.105.1) | 1.105.1
-
-### Published: 10/23/2023 15:57:58 by Chris Peterson
-
-Interact with GitLab via PowerShell
-
-__Downloads__: 14,121 | __Repository__: https://github.com/chris-peterson/pwsh-gitlab
-
 ## [SvRooij.ContentPrep.Cmdlet](https://www.powershellgallery.com/Packages/SvRooij.ContentPrep.Cmdlet/0.1.2) | 0.1.2
 
 ### Published: 10/23/2023 15:31:01 by Stephan van Rooij
@@ -2020,36 +2052,4 @@ Author, run and manage AUTOMATED TESTS for your DATA with minimum effort.
 
 __Downloads__: 520 | __Repository__: https://docs.justcat.it/
 
-## [365AutomatedLab](https://www.powershellgallery.com/Packages/365AutomatedLab/0.1.4) | 0.1.4
-
-### Published: 10/23/2023 10:04:33 by Clayton Tyger
-
-This module will allow you to create a 365 Development Environment from an Excel workbook
-
-__Downloads__: 17 | __Repository__: https://github.com/DevClate/365AutomatedLab
-
-## [AtlassianCloudPS](https://www.powershellgallery.com/Packages/AtlassianCloudPS/0.8.0) | 0.8.0
-
-### Published: 10/23/2023 09:38:41 by Andy Lyonette
-
-Interact with the Atlassian Cloud APIs using PowerShell
-
-__Downloads__: 5,675 | __Repository__: https://github.com/andylyonette/AtlassianCloudPS
-
-## [PwshSpectreConsole](https://www.powershellgallery.com/Packages/PwshSpectreConsole/0.3.7) | 0.3.7
-
-### Published: 10/23/2023 09:05:39 by Shaun Lawrie
-
-A convenient PowerShell wrapper for Spectre.Console
-
-__Downloads__: 146 | __Repository__: https://github.com/ShaunLawrie/PwshSpectreConsole
-
-## [AzCostOptimization](https://www.powershellgallery.com/Packages/AzCostOptimization/1.0.23) | 1.0.23
-
-### Published: 10/23/2023 08:07:53 by Aammir Mirza Baig
-
-This module automates the cost savings approach for Azure Web Apps and Azure SQL DB
-
-__Downloads__: 473 | __Repository__: 
-
-*Updated: Thursday, 26 October 2023 02:01:53 UTC*
+*Updated: Thursday, 26 October 2023 09:53:25 UTC*
