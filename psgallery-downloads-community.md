@@ -1514,9 +1514,9 @@ PowerShell client module for the ACME protocol Version 2, which can be used to i
 
 __Downloads__: 328,833 | __Repository__: https://github.com/PKISharp/ACME-PS
 
-## [Transferetto](https://www.powershellgallery.com/Packages/Transferetto/0.0.17) | 0.0.17
+## [Transferetto](https://www.powershellgallery.com/Packages/Transferetto/0.0.18) | 0.0.18
 
-### Published: 12/04/2022 14:17:13 by Przemyslaw Klys
+### Published: 10/26/2023 18:18:53 by Przemyslaw Klys
 
 Module which allows ftp, ftps, sftp file transfers with advanced features. It also allows to transfer files and directorires between servers using fxp protocol. As a side feature it allows to conenct to SSH and executes commands on it.
 
@@ -2138,4 +2138,4 @@ Web automation using the Selenium Web Driver
 
 __Downloads__: 171,152 | __Repository__: https://github.com/adamdriscoll/selenium-powershell
 
-*Updated: Thursday, 26 October 2023 17:53:21 UTC*
+*Updated: Friday, 27 October 2023 02:02:33 UTC*

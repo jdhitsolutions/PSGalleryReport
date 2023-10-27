@@ -3,13 +3,101 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
-## [BRSOps](https://www.powershellgallery.com/Packages/BRSOps/1.0.0) | 1.0.0
+## [BRSOps](https://www.powershellgallery.com/Packages/BRSOps/1.1.3) | 1.1.3
 
-### Published: 10/26/2023 16:56:00 by Boston Red Sox Operations Team
+### Published: 10/27/2023 01:49:16 by Boston Red Sox Operations Team
 
 Mixed functionality based on the BRS Ops Team Requirements.  Please read each .PS1 file for more information
 
 __Downloads__: 0 | __Repository__: 
+
+## [pwps_dab](https://www.powershellgallery.com/Packages/pwps_dab/23.3.2) | 23.3.2
+
+### Published: 10/26/2023 23:15:37 by Bentley Systems Incorporated
+
+ProjectWise PowerShell Cmdlets from System Architecture Group
+
+__Downloads__: 79,494 | __Repository__: 
+
+## [Minizinc](https://www.powershellgallery.com/Packages/Minizinc/0.0.1) | 0.0.1
+
+### Published: 10/26/2023 22:07:06 by eosfor
+
+A Crescendo Module wrapping a few minizinc parameters
+
+__Downloads__: 0 | __Repository__: 
+
+## [PsChat](https://www.powershellgallery.com/Packages/PsChat/0.0.46) | 0.0.46
+
+### Published: 10/26/2023 20:46:49 by boeegh
+
+This module is a simple OpenAI/ChatGPT client for PowerShell
+
+__Downloads__: 522 | __Repository__: https://github.com/boeegh/PsChat/
+
+## [VkTyukalov.MyTestModule](https://www.powershellgallery.com/Packages/VkTyukalov.MyTestModule/0.0.1) | 0.0.1
+
+### Published: 10/26/2023 20:35:01 by v-ktyukalov
+
+test module. do not install.
+
+__Downloads__: 0 | __Repository__: 
+
+## [VMware.CloudFoundation.PasswordManagement](https://www.powershellgallery.com/Packages/VMware.CloudFoundation.PasswordManagement/1.5.0.1004) | 1.5.0.1004
+
+### Published: 10/26/2023 20:25:46 by VMware
+
+PowerShell Module for VMware Cloud Foundation Password Management
+
+__Downloads__: 310 | __Repository__: https://vmware.github.io/powershell-module-for-vmware-cloud-foundation-password-management
+
+## [UsefulArgumentCompleters](https://www.powershellgallery.com/Packages/UsefulArgumentCompleters/1.0.11) | 1.0.11
+
+### Published: 10/26/2023 20:10:43 by MartinGC94
+
+Module with lots of argument completers for popular commands.
+
+__Downloads__: 184 | __Repository__: https://github.com/MartinGC94/UsefulArgumentCompleters
+
+## [psBlackberryUEM](https://www.powershellgallery.com/Packages/psBlackberryUEM/1.0.10) | 1.0.10
+
+### Published: 10/26/2023 18:48:23 by Phillip Marshall
+
+Module to interact with the Blackberry UEM API.
+
+__Downloads__: 0 | __Repository__: https://github.com/hematic/psBlackberryUEM
+
+## [Transferetto](https://www.powershellgallery.com/Packages/Transferetto/0.0.18) | 0.0.18
+
+### Published: 10/26/2023 18:18:53 by Przemyslaw Klys
+
+Module which allows ftp, ftps, sftp file transfers with advanced features. It also allows to transfer files and directorires between servers using fxp protocol. As a side feature it allows to conenct to SSH and executes commands on it.
+
+__Downloads__: 328,193 | __Repository__: https://github.com/EvotecIT/Transferetto
+
+## [sdp](https://www.powershellgallery.com/Packages/sdp/1.2.5) | 1.2.5
+
+### Published: 10/26/2023 18:15:36 by J.R. Phillips
+
+Powershell SDK for Kaminario / Silk cloud data platform.
+
+__Downloads__: 476 | __Repository__: https://github.com/JayAreP/SDP
+
+## [NerdioManagerPowerShell](https://www.powershellgallery.com/Packages/NerdioManagerPowerShell/0.5.0) | 0.5.0
+
+### Published: 10/26/2023 17:53:33 by Nick Wagner
+
+A PowerShell module for managing Nerdio Manager for Enterprise (NME)
+
+__Downloads__: 88 | __Repository__: 
+
+## [helium](https://www.powershellgallery.com/Packages/helium/1.1.4) | 1.1.4
+
+### Published: 10/26/2023 17:46:31 by David Stein
+
+Assorted Utilities to make your day happier than inhaling a party balloon.
+
+__Downloads__: 283 | __Repository__: https://github.com/Skatterbrainz/helium
 
 ## [AptecoPSFramework](https://www.powershellgallery.com/Packages/AptecoPSFramework/0.1.3) | 0.1.3
 
@@ -180,14 +268,6 @@ __Downloads__: 1,676 | __Repository__:
 Bring Dataverse's Web API to PowerShell.
 
 __Downloads__: 327 | __Repository__: https://github.com/rezanid/PSDataverse
-
-## [psBlackberryUEM](https://www.powershellgallery.com/Packages/psBlackberryUEM/1.0.9) | 1.0.9
-
-### Published: 10/25/2023 18:11:57 by Phillip Marshall
-
-Module to interact with the Blackberry UEM API.
-
-__Downloads__: 0 | __Repository__: https://github.com/hematic/psBlackberryUEM
 
 ## [PSMSALNet](https://www.powershellgallery.com/Packages/PSMSALNet/0.0.8) | 0.0.8
 
@@ -1490,14 +1570,6 @@ Cmdlets for the eryph compute API.
 
 __Downloads__: 157 | __Repository__: https://github.com/eryph-org/dotnet-computeclient
 
-## [RiverMeadow.Release.Migrate](https://www.powershellgallery.com/Packages/RiverMeadow.Release.Migrate/1.0.117.408) | 1.0.117.408
-
-### Published: 10/24/2023 08:25:53 by RiverMeadow Engineering Team
-
-Provides cmdlets for starting migration of applications to supported clouds using the RiverMeadow platform.
-
-__Downloads__: 232 | __Repository__: https://migrate.rivermeadow.com/
-
 ## [RiverMeadow.Development.Migrate](https://www.powershellgallery.com/Packages/RiverMeadow.Development.Migrate/1.0.118.406) | 1.0.118.406
 
 ### Published: 10/24/2023 08:25:10 by RiverMeadow Engineering Team
@@ -1962,94 +2034,4 @@ Module for PowerShell Universal.
 
 __Downloads__: 49,511 | __Repository__: https://ironmansoftware.com/powershell-universal
 
-## [finetuna](https://www.powershellgallery.com/Packages/finetuna/1.0) | 1.0
-
-### Published: 10/23/2023 20:02:02 by Chrissy LeMaire
-
-OpenAI Fine Tuner
-
-__Downloads__: 0 | __Repository__: https://github.com/potatoqualitee/finetuna
-
-## [XD-PSTools](https://www.powershellgallery.com/Packages/XD-PSTools/1.9.4) | 1.9.4
-
-### Published: 10/23/2023 18:21:24 by Eric Meinders
-
-Contains function toolset for Xpressducks IT personnel.
-
-__Downloads__: 146 | __Repository__: 
-
-## [HttpUnitPS](https://www.powershellgallery.com/Packages/HttpUnitPS/0.3.2) | 0.3.2
-
-### Published: 10/23/2023 18:14:37 by Chris Hunt
-
-A PowerShell port of httpunit.
-
-__Downloads__: 3 | __Repository__: https://github.com/cdhunt/httpunitPS
-
-## [PSModule.FX](https://www.powershellgallery.com/Packages/PSModule.FX/0.0.152) | 0.0.152
-
-### Published: 10/23/2023 17:33:51 by PSModule
-
-PSModule Framework PowerShell Module
-
-__Downloads__: 540 | __Repository__: https://github.com/PSModule/PSModule.FX
-
-## [SEPPmail365cloud](https://www.powershellgallery.com/Packages/SEPPmail365cloud/1.3.7) | 1.3.7
-
-### Published: 10/23/2023 17:21:57 by SEPPmail Dev-Team
-
-Integrate and maintain Exchange Online with SEPPmail.Cloud
-
-__Downloads__: 1,239 | __Repository__: https://github.com/SEPPmail/SEPPmail365cloud
-
-## [Microsoft.AVS.Management](https://www.powershellgallery.com/Packages/Microsoft.AVS.Management/5.3.99) | 5.3.99
-
-### Published: 10/23/2023 16:19:05 by David Becher
-
-Various cmdlets for adminstrator level tasks in managing Azure VMware Solutions
-
-__Downloads__: 27,060 | __Repository__: https://github.com/Azure/Microsoft.AVS.Management
-
-## [SvRooij.ContentPrep.Cmdlet](https://www.powershellgallery.com/Packages/SvRooij.ContentPrep.Cmdlet/0.1.2) | 0.1.2
-
-### Published: 10/23/2023 15:31:01 by Stephan van Rooij
-
-An open-source re-implementation of the ContentPrepTool for Intune Win32 apps.
-
-__Downloads__: 7 | __Repository__: https://github.com/svrooij/ContentPrep/
-
-## [verkadaModule](https://www.powershellgallery.com/Packages/verkadaModule/0.6.1) | 0.6.1
-
-### Published: 10/23/2023 14:58:46 by Brad Parker
-
-Verkada Module
-
-__Downloads__: 145 | __Repository__: https://github.com/bepsoccer/verkadaModule
-
-## [code365scripts.openai](https://www.powershellgallery.com/Packages/code365scripts.openai/1.1.1.2) | 1.1.1.2
-
-### Published: 10/23/2023 14:09:17 by chenxizhang
-
-The non-official OpenAI PowerShell module. This module is used to interact with OpenAI API.
-    
-    Changelogs:
-    - 2023-10-23    v1.1.1.2    Fix a bug (ConvertTo-Json truncate the result)
-    - 2023-09-25    v1.1.1.1    Fix a bug (New-ImageGeneration, or image alias)
-    - 2023-09-24    v1.1.1.0    Add image generation support (New-ImageGeneration, or image alias)
-    - 2023-09-23    v1.1.0.9    Add dynamic configuration support for New-ChatGPTConversation,see -config parameter
-    - 2023-09-17    v1.1.0.8    Add verbose support
-    - 2023-09-10    v1.1.0.7    Fix the help doc for New-ChatGPTConversation
-    - 2023-09-06    v1.1.0.6    Bug fix
-    - 2023-09-06    v1.1.0.5    Added chat completion support.
-    - 2023-08-12    v1.1.0.4    Added stream support for chat
-    - 2021-05-13    v1.1.0.3    Small enhancements (save result to clipboard, print the system prompt, etc.)
-    - 2021-05-13    v1.1.0.0    Simplify the module structure
-    - 2023-05-07    v1.0.4.12   Fixed the network connectivity test logic
-    - 2023-05-07    v1.0.4.11   Added azure OpenAI supporrt for New-ChatGPTConversation function
-    - 2023-05-07    v1.0.4.10   Added network connectivity test logic
-    - 2023-03-09    v1.0.4.9    Added change logs in the description.
-    - 2023-03-08    v1.0.4.8    Added error handling.
-
-__Downloads__: 54,690 | __Repository__: https://github.com/chenxizhang/openai-powershell/
-
-*Updated: Thursday, 26 October 2023 17:53:11 UTC*
+*Updated: Friday, 27 October 2023 02:02:24 UTC*
