@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Friday, 27 October 2023 02:02:38 UTC
+Updated: Friday, 27 October 2023 09:53:05 UTC
 
 .bat
 .env
@@ -69,7 +69,6 @@ abc
 abc_testing
 abe
 about
-abr
 abstractsyntaxtree
 abuse
 abuseipdb
@@ -175,7 +174,6 @@ adm
 admf
 admin
 admin-tools
-adminbyrequest
 admindirectory
 administration
 administrative
@@ -260,7 +258,6 @@ alc
 alero
 alert
 alerting
-alertmail
 alertmanagement
 alerts
 alertsmanagement
@@ -562,7 +559,6 @@ autoupdate
 autoupdate-script
 autoyast
 auvik
-availability
 availabilityset
 avalara
 avalonia
@@ -1614,7 +1610,6 @@ dac
 dacfx
 dacl
 dacpac
-dacpackage
 dagger
 daily
 dane
@@ -1791,7 +1786,6 @@ deutschland
 dev
 dev-tools
 devart
-devcenter
 devdeer
 developer
 developer_command_prompt
@@ -1847,11 +1841,11 @@ directory
 directory psedition_core psedition_desktop
 directory-transform
 directorymarks
+directoryname
 directorysearcher
 directorysecurity
 directrouting
 direnv
-dirkjan
 dirname
 dirsync
 disa
@@ -2068,6 +2062,7 @@ dvls
 dword
 dxexpeditions
 dynamic
+dynamic-host-configuration-protocol
 dynamicdistributiongroups
 dynamicdnsoverhttps
 dynamicparam
@@ -2198,7 +2193,6 @@ enumerable
 env
 environment
 environment-variables
-environmentmanagent
 environmentmodules
 environments
 environmentvariable
@@ -2392,12 +2386,9 @@ farmanager
 fast
 fast-dds
 fast-ping
-fastfilepub
-fastgit
 fastlinq
 fastlookup
 fastping
-fasttrack
 favorites
 fb-pro
 fciv
@@ -2435,7 +2426,6 @@ file-name
 file-name-extension
 file-name-extension-association
 file-server
-file-share
 file-system
 file-transform
 file-type
@@ -2912,6 +2902,8 @@ hashset
 hashtable
 hasicorp
 haskell
+haste
+hastebin
 haveibeenpwned
 hba
 hbase
@@ -3069,7 +3061,6 @@ humanizer
 humanly
 humor
 humorous
-hunter
 hwid
 hybrid
 hybridrunbookworker
@@ -3119,6 +3110,7 @@ ics
 icws
 id
 id3
+idabus
 ide
 identifier
 identity
@@ -3128,6 +3120,7 @@ identitydirector
 identitydomains
 identitynow
 idf
+idm
 idna
 ids
 ie
@@ -3147,7 +3140,6 @@ ikev2
 il
 illinois
 ilo
-ilo5
 ilocmdlets
 im
 image
@@ -3210,6 +3202,7 @@ information-technology
 informationbarriers
 informationtechnology
 informationtechnologyoperations
+informix
 infosec
 infrastructure
 infrastructureascode
@@ -3786,7 +3779,6 @@ machine
 machinelearning
 machinelearningcompute
 machinelearningservices
-macmon
 macos
 macosx
 macro
@@ -3963,6 +3955,7 @@ mgn
 mi
 micro-orm
 microfocus
+microk8s
 microservices
 microsoft
 microsoft_365
@@ -3989,7 +3982,6 @@ microsoftcloud
 microsoftdefender
 microsoftdefenderatp
 microsoftdeploymenttoolkit
-microsoftendpointmanager
 microsoftexchangeserver
 microsoftgraph
 microsoftgraphapi
@@ -4198,7 +4190,6 @@ mytest
 n-able
 n-central
 nabu
-nac
 nagios
 name
 name-of-dogs
@@ -4418,6 +4409,7 @@ objecttree
 obs
 observeit
 oce
+ocg
 ocgv
 oci
 ocicontrolcenter
@@ -4670,6 +4662,7 @@ partition
 partitions
 partner
 partnercenter
+partnerportal
 pas
 pass
 passcode
@@ -4699,6 +4692,7 @@ passwordstate
 passwordtool
 passwordvault
 passwordwolf
+paste
 patch
 patches
 patching
@@ -4893,6 +4887,7 @@ poshy-code-search
 poshy-colors
 poshy-coreutils-ish
 poshy-dir-nav
+poshy-ecks
 poshy-env-proxy
 poshy-env-var
 poshy-ls-isms
@@ -4927,14 +4922,12 @@ poshy-wrap-nmap
 poshy-wrap-npm
 poshy-wrap-pip
 poshy-wrap-pipenv
-poshy-wrap-pyenv
 poshy-wrap-pylint
 poshy-wrap-python
 poshy-wrap-ruby
 poshy-wrap-systemctl
 poshy-wrap-terraform
 poshy-wrap-terragrunt
-poshy-wrap-tmux
 poshy-wrap-vagrant
 poshy-wrap-vault
 poshy-wrap-vscode
@@ -6091,7 +6084,6 @@ pscommand_invoke-pipinstall
 pscommand_invoke-pipinstallupgrade
 pscommand_invoke-piplistoutdated
 pscommand_invoke-pipuninstall
-pscommand_invoke-pyenv
 pscommand_invoke-pylintreportsdisabled
 pscommand_invoke-ruby
 pscommand_invoke-rubyexecute
@@ -6222,13 +6214,6 @@ pscommand_invoke-terragruntplan
 pscommand_invoke-terragruntplanall
 pscommand_invoke-terragruntvalidate
 pscommand_invoke-terragruntvalidateall
-pscommand_invoke-tmuxattachforterminal
-pscommand_invoke-tmuxattachforterminaldetachingothers
-pscommand_invoke-tmuxeditconfig
-pscommand_invoke-tmuxkillserver
-pscommand_invoke-tmuxkillsessionforterminal
-pscommand_invoke-tmuxlistsessions
-pscommand_invoke-tmuxnewsessionfromsource
 pscommand_invoke-vagrantdestroy
 pscommand_invoke-vagranthalt
 pscommand_invoke-vagranthostmanager
@@ -6462,7 +6447,6 @@ pscommand_pvenv
 pscommand_pwh
 pscommand_pwshrc-show-proxy
 pscommand_py
-pscommand_pyenv
 pscommand_pylint-quick
 pscommand_pyserver
 pscommand_python
@@ -6552,8 +6536,6 @@ pscommand_syspip
 pscommand_syspip_package_location
 pscommand_syspip3
 pscommand_syspip3_package_location
-pscommand_ta
-pscommand_tad
 pscommand_test-command
 pscommand_test-d
 pscommand_test-elevation
@@ -6581,14 +6563,6 @@ pscommand_tgp
 pscommand_tgpa
 pscommand_tgv
 pscommand_tgva
-pscommand_tkss
-pscommand_tksv
-pscommand_tl
-pscommand_tmuxconf
-pscommand_ts
-pscommand_txa
-pscommand_txl
-pscommand_txn
 pscommand_universalarchive
 pscommand_update-gitbranchbasefrombranchmain
 pscommand_update-gitbranchbasefrommain
@@ -6681,6 +6655,8 @@ pscommand_write-gitcommitgpgsignedbykey
 pscommand_write-gitcommithelpfullyverbose
 pscommand_write-gitcommitinteractively
 pscommand_write-gitcommitsignedoff
+pscommand_xin
+pscommand_xwith
 pscommand_yc
 pscommand_ygi
 pscommand_ygl
@@ -7277,7 +7253,6 @@ psfunction_invoke-pipinstall
 psfunction_invoke-pipinstallupgrade
 psfunction_invoke-piplistoutdated
 psfunction_invoke-pipuninstall
-psfunction_invoke-pyenv
 psfunction_invoke-pylintreportsdisabled
 psfunction_invoke-ruby
 psfunction_invoke-rubyexecute
@@ -7408,13 +7383,6 @@ psfunction_invoke-terragruntplan
 psfunction_invoke-terragruntplanall
 psfunction_invoke-terragruntvalidate
 psfunction_invoke-terragruntvalidateall
-psfunction_invoke-tmuxattachforterminal
-psfunction_invoke-tmuxattachforterminaldetachingothers
-psfunction_invoke-tmuxeditconfig
-psfunction_invoke-tmuxkillserver
-psfunction_invoke-tmuxkillsessionforterminal
-psfunction_invoke-tmuxlistsessions
-psfunction_invoke-tmuxnewsessionfromsource
 psfunction_invoke-vagrantdestroy
 psfunction_invoke-vagranthalt
 psfunction_invoke-vagranthostmanager
@@ -7711,6 +7679,8 @@ psfunction_write-gitcommitgpgsignedbykey
 psfunction_write-gitcommithelpfullyverbose
 psfunction_write-gitcommitinteractively
 psfunction_write-gitcommitsignedoff
+psfunction_xin
+psfunction_xwith
 psgallery
 psget
 psgitlab
@@ -7849,7 +7819,6 @@ pwshake
 pwshfw
 pwshrc
 pxedistributionpoint
-pyenv
 pygmentize
 pylint
 pyranja
@@ -8587,6 +8556,7 @@ shadow
 shadowcopy
 shadowcopybackups
 shadowgroups
+shanghaitech
 shard
 share
 share-permission
@@ -8722,9 +8692,7 @@ smtpaddressupdate psmodule
 smtpauth
 smtpoauth
 smtpsasl
-smtpsecure
 snap
-snapchat
 snapping
 snapshot
 snapshots
@@ -8872,7 +8840,6 @@ sqllocaldb
 sqlpackage
 sqlplus
 sqlproj
-sqlproject
 sqlps
 sqlserver
 sqlserveragent
@@ -8985,7 +8952,6 @@ storedcredentials
 storefront
 storeonce
 storeserv
-strava
 streak
 stream
 streamanalytics
@@ -9321,7 +9287,6 @@ tls12
 tlsa
 tlsprotocol
 tlsrpt
-tmux
 to-do
 toast
 toasts
@@ -9499,6 +9464,7 @@ ud-illustration
 ud-input
 ud-licensed
 ud-loadingoverlay
+ud-minesweeper
 ud-mouseparticle
 ud-navbarsearch
 ud-numbermask
@@ -9579,7 +9545,6 @@ universalarchive
 universaldashboard
 university
 unix
-unlinked
 unlock
 unprotect
 unsupported
@@ -9675,7 +9640,6 @@ validator
 value
 valve
 vami
-vao
 variable
 variables
 variance
@@ -9831,6 +9795,7 @@ vrchat
 vrealize
 vrising
 vro
+vrops
 vrsns
 vrtu
 vs
@@ -10199,6 +10164,7 @@ xevents
 xh
 xi
 xiaomi
+xin
 xkcd
 xliff
 xlsx
@@ -10224,6 +10190,7 @@ xtrude
 xunit
 xwiki
 xwindowsupdate
+xwith
 yahoo
 yahw
 yamaha

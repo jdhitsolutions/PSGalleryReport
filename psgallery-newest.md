@@ -3,9 +3,58 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
-## [BRSOps](https://www.powershellgallery.com/Packages/BRSOps/1.1.3) | 1.1.3
+## [ConvertStrings](https://www.powershellgallery.com/Packages/ConvertStrings/0.0.2) | 0.0.2
 
-### Published: 10/27/2023 01:49:16 by Boston Red Sox Operations Team
+### Published: 10/27/2023 09:16:16 by florian.von.bracht@apteco.de
+
+Apteco PS Modules - PowerShell String Conversion
+
+Multiple functions to convert strings, e.g. to change the encoding or to hash a string
+
+- Replace-Tokens
+- Get-StringHash
+- Convert-StringEncoding
+- Get-RandomString
+
+Please have a look at the help of the functions for more information or the github repository
+
+__Downloads__: 24 | __Repository__: https://github.com/Apteco/AptecoPSModules/tree/main/ConvertStrings
+
+## [DCToolbox](https://www.powershellgallery.com/Packages/DCToolbox/2.0.11) | 2.0.11
+
+### Published: 10/27/2023 06:54:46 by Daniel Chronlund
+
+A PowerShell toolbox for Microsoft 365 security fans.
+
+__Downloads__: 20,213 | __Repository__: https://github.com/DanielChronlund/DCToolbox
+
+## [DSCR_AppxPackage](https://www.powershellgallery.com/Packages/DSCR_AppxPackage/0.4.0) | 0.4.0
+
+### Published: 10/27/2023 05:56:55 by mkht
+
+PowerShell DSC Resource to manage UWP App Packages
+
+__Downloads__: 5,677 | __Repository__: https://github.com/mkht/DSCR_AppxPackage
+
+## [AzureADAssessment](https://www.powershellgallery.com/Packages/AzureADAssessment/2.5.1) | 2.5.1
+
+### Published: 10/27/2023 05:41:32 by Microsoft Identity
+
+This module analyzes your Azure Active Directory configuration and provides best practice recommendations.
+
+__Downloads__: 10,909 | __Repository__: https://github.com/AzureAD/AzureADAssessment
+
+## [Logic.Monitor](https://www.powershellgallery.com/Packages/Logic.Monitor/4.5.5) | 4.5.5
+
+### Published: 10/27/2023 05:12:13 by Steven Villardi
+
+PowerShell module to query the Logic Monitor API. This is a personal project and is not an offically supported LogicMonitor integration.
+
+__Downloads__: 2,434 | __Repository__: https://github.com/stevevillardi/Logic.Monitor
+
+## [BRSOps](https://www.powershellgallery.com/Packages/BRSOps/1.1.7) | 1.1.7
+
+### Published: 10/27/2023 04:20:43 by Boston Red Sox Operations Team
 
 Mixed functionality based on the BRS Ops Team Requirements.  Please read each .PS1 file for more information
 
@@ -2451,54 +2500,4 @@ This version of AWS Tools for PowerShell is compatible with Windows PowerShell 5
 
 __Downloads__: 7,893 | __Repository__: https://github.com/aws/aws-tools-for-powershell
 
-## [AWS.Tools.DAX](https://www.powershellgallery.com/Packages/AWS.Tools.DAX/4.1.439) | 4.1.439
-
-### Published: 10/27/2023 00:27:47 by Amazon.com Inc
-
-The DAX module of AWS Tools for PowerShell lets developers and administrators manage Amazon DynamoDB Accelerator (DAX) from the PowerShell scripting environment. In order to manage each AWS service, install the corresponding module (e.g. AWS.Tools.EC2, AWS.Tools.S3...).
-The module AWS.Tools.Installer (https://www.powershellgallery.com/packages/AWS.Tools.Installer/) makes it easier to install, update and uninstall the AWS.Tools modules.
-This version of AWS Tools for PowerShell is compatible with Windows PowerShell 5.1+ and PowerShell Core 6+ on Windows, Linux and macOS. When running on Windows PowerShell, .NET Framework 4.7.2 or newer is required. Alternative modules AWSPowerShell.NetCore and AWSPowerShell, provide support for all AWS services from a single module and also support older versions of Windows PowerShell and .NET Framework.
-
-__Downloads__: 9,414 | __Repository__: https://github.com/aws/aws-tools-for-powershell
-
-## [AWS.Tools.DataZone](https://www.powershellgallery.com/Packages/AWS.Tools.DataZone/4.1.439) | 4.1.439
-
-### Published: 10/27/2023 00:27:40 by Amazon.com Inc
-
-The DataZone module of AWS Tools for PowerShell lets developers and administrators manage Amazon DataZone from the PowerShell scripting environment. In order to manage each AWS service, install the corresponding module (e.g. AWS.Tools.EC2, AWS.Tools.S3...).
-The module AWS.Tools.Installer (https://www.powershellgallery.com/packages/AWS.Tools.Installer/) makes it easier to install, update and uninstall the AWS.Tools modules.
-This version of AWS Tools for PowerShell is compatible with Windows PowerShell 5.1+ and PowerShell Core 6+ on Windows, Linux and macOS. When running on Windows PowerShell, .NET Framework 4.7.2 or newer is required. Alternative modules AWSPowerShell.NetCore and AWSPowerShell, provide support for all AWS services from a single module and also support older versions of Windows PowerShell and .NET Framework.
-
-__Downloads__: 48 | __Repository__: https://github.com/aws/aws-tools-for-powershell
-
-## [AWS.Tools.DataSync](https://www.powershellgallery.com/Packages/AWS.Tools.DataSync/4.1.439) | 4.1.439
-
-### Published: 10/27/2023 00:27:33 by Amazon.com Inc
-
-The DataSync module of AWS Tools for PowerShell lets developers and administrators manage AWS DataSync from the PowerShell scripting environment. In order to manage each AWS service, install the corresponding module (e.g. AWS.Tools.EC2, AWS.Tools.S3...).
-The module AWS.Tools.Installer (https://www.powershellgallery.com/packages/AWS.Tools.Installer/) makes it easier to install, update and uninstall the AWS.Tools modules.
-This version of AWS Tools for PowerShell is compatible with Windows PowerShell 5.1+ and PowerShell Core 6+ on Windows, Linux and macOS. When running on Windows PowerShell, .NET Framework 4.7.2 or newer is required. Alternative modules AWSPowerShell.NetCore and AWSPowerShell, provide support for all AWS services from a single module and also support older versions of Windows PowerShell and .NET Framework.
-
-__Downloads__: 18,444 | __Repository__: https://github.com/aws/aws-tools-for-powershell
-
-## [AWS.Tools.DataPipeline](https://www.powershellgallery.com/Packages/AWS.Tools.DataPipeline/4.1.439) | 4.1.439
-
-### Published: 10/27/2023 00:27:26 by Amazon.com Inc
-
-The DataPipeline module of AWS Tools for PowerShell lets developers and administrators manage AWS Data Pipeline from the PowerShell scripting environment. In order to manage each AWS service, install the corresponding module (e.g. AWS.Tools.EC2, AWS.Tools.S3...).
-The module AWS.Tools.Installer (https://www.powershellgallery.com/packages/AWS.Tools.Installer/) makes it easier to install, update and uninstall the AWS.Tools modules.
-This version of AWS Tools for PowerShell is compatible with Windows PowerShell 5.1+ and PowerShell Core 6+ on Windows, Linux and macOS. When running on Windows PowerShell, .NET Framework 4.7.2 or newer is required. Alternative modules AWSPowerShell.NetCore and AWSPowerShell, provide support for all AWS services from a single module and also support older versions of Windows PowerShell and .NET Framework.
-
-__Downloads__: 11,607 | __Repository__: https://github.com/aws/aws-tools-for-powershell
-
-## [AWS.Tools.DataExchange](https://www.powershellgallery.com/Packages/AWS.Tools.DataExchange/4.1.439) | 4.1.439
-
-### Published: 10/27/2023 00:27:20 by Amazon.com Inc
-
-The DataExchange module of AWS Tools for PowerShell lets developers and administrators manage AWS Data Exchange from the PowerShell scripting environment. In order to manage each AWS service, install the corresponding module (e.g. AWS.Tools.EC2, AWS.Tools.S3...).
-The module AWS.Tools.Installer (https://www.powershellgallery.com/packages/AWS.Tools.Installer/) makes it easier to install, update and uninstall the AWS.Tools modules.
-This version of AWS Tools for PowerShell is compatible with Windows PowerShell 5.1+ and PowerShell Core 6+ on Windows, Linux and macOS. When running on Windows PowerShell, .NET Framework 4.7.2 or newer is required. Alternative modules AWSPowerShell.NetCore and AWSPowerShell, provide support for all AWS services from a single module and also support older versions of Windows PowerShell and .NET Framework.
-
-__Downloads__: 11,343 | __Repository__: https://github.com/aws/aws-tools-for-powershell
-
-*Updated: Friday, 27 October 2023 02:02:21 UTC*
+*Updated: Friday, 27 October 2023 09:52:48 UTC*

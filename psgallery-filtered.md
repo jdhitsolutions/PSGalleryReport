@@ -3,9 +3,50 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
-## [BRSOps](https://www.powershellgallery.com/Packages/BRSOps/1.1.3) | 1.1.3
+## [ConvertStrings](https://www.powershellgallery.com/Packages/ConvertStrings/0.0.2) | 0.0.2
 
-### Published: 10/27/2023 01:49:16 by Boston Red Sox Operations Team
+### Published: 10/27/2023 09:16:16 by florian.von.bracht@apteco.de
+
+Apteco PS Modules - PowerShell String Conversion
+
+Multiple functions to convert strings, e.g. to change the encoding or to hash a string
+
+- Replace-Tokens
+- Get-StringHash
+- Convert-StringEncoding
+- Get-RandomString
+
+Please have a look at the help of the functions for more information or the github repository
+
+__Downloads__: 24 | __Repository__: https://github.com/Apteco/AptecoPSModules/tree/main/ConvertStrings
+
+## [DCToolbox](https://www.powershellgallery.com/Packages/DCToolbox/2.0.11) | 2.0.11
+
+### Published: 10/27/2023 06:54:46 by Daniel Chronlund
+
+A PowerShell toolbox for Microsoft 365 security fans.
+
+__Downloads__: 20,213 | __Repository__: https://github.com/DanielChronlund/DCToolbox
+
+## [DSCR_AppxPackage](https://www.powershellgallery.com/Packages/DSCR_AppxPackage/0.4.0) | 0.4.0
+
+### Published: 10/27/2023 05:56:55 by mkht
+
+PowerShell DSC Resource to manage UWP App Packages
+
+__Downloads__: 5,677 | __Repository__: https://github.com/mkht/DSCR_AppxPackage
+
+## [Logic.Monitor](https://www.powershellgallery.com/Packages/Logic.Monitor/4.5.5) | 4.5.5
+
+### Published: 10/27/2023 05:12:13 by Steven Villardi
+
+PowerShell module to query the Logic Monitor API. This is a personal project and is not an offically supported LogicMonitor integration.
+
+__Downloads__: 2,434 | __Repository__: https://github.com/stevevillardi/Logic.Monitor
+
+## [BRSOps](https://www.powershellgallery.com/Packages/BRSOps/1.1.7) | 1.1.7
+
+### Published: 10/27/2023 04:20:43 by Boston Red Sox Operations Team
 
 Mixed functionality based on the BRS Ops Team Requirements.  Please read each .PS1 file for more information
 
@@ -1570,6 +1611,14 @@ Cmdlets for the eryph compute API.
 
 __Downloads__: 157 | __Repository__: https://github.com/eryph-org/dotnet-computeclient
 
+## [RiverMeadow.Release.Migrate](https://www.powershellgallery.com/Packages/RiverMeadow.Release.Migrate/1.0.117.408) | 1.0.117.408
+
+### Published: 10/24/2023 08:25:53 by RiverMeadow Engineering Team
+
+Provides cmdlets for starting migration of applications to supported clouds using the RiverMeadow platform.
+
+__Downloads__: 232 | __Repository__: https://migrate.rivermeadow.com/
+
 ## [RiverMeadow.Development.Migrate](https://www.powershellgallery.com/Packages/RiverMeadow.Development.Migrate/1.0.118.406) | 1.0.118.406
 
 ### Published: 10/24/2023 08:25:10 by RiverMeadow Engineering Team
@@ -1986,52 +2035,4 @@ A replica of the logrotate utility, except this also runs on Windows systems.
 
 __Downloads__: 6,767 | __Repository__: https://github.com/theohbrothers/Log-Rotate
 
-## [d365fo.tools](https://www.powershellgallery.com/Packages/d365fo.tools/0.7.4) | 0.7.4
-
-### Published: 10/24/2023 04:37:40 by Mötz Jensen & Rasmus Andersen
-
-A set of tools that will assist you when working with Dynamics 365 Finance & Operations development / demo machines.
-
-__Downloads__: 193,453 | __Repository__: https://github.com/d365collaborative/d365fo.tools
-
-## [QuickFix](https://www.powershellgallery.com/Packages/QuickFix/0.3.0) | 0.3.0
-
-### Published: 10/24/2023 03:47:29 by chris.mcdonald19@pm.me
-
-QuickFix is provided as-is and without warranty of any kind, either expressed or implied. The creator of QuickFix shall not be held liable for any damages, losses, or adverse effects arising from the use or misuse of the software.
-
-Users of QuickFix are solely responsible for their actions while using the software. By using QuickFix, users agree that the creator shall not be held responsible for any direct or indirect damages, including but not limited to data loss, system malfunctions, or any other consequences resulting from the use of the software.
-
-QuickFix is intended for personal use only. Any commercial use or distribution of the software requires explicit permission from the creator.
-
-By using QuickFix, users acknowledge and agree to these terms and conditions. The creator reserves the right to modify or discontinue the software at any time without prior notice.
-
-Please use QuickFix responsibly and exercise caution while using it.
-
-__Downloads__: 19 | __Repository__: 
-
-## [Logic.Monitor](https://www.powershellgallery.com/Packages/Logic.Monitor/4.5.4) | 4.5.4
-
-### Published: 10/24/2023 02:01:32 by Steven Villardi
-
-PowerShell module to query the Logic Monitor API. This is a personal project and is not an offically supported LogicMonitor integration.
-
-__Downloads__: 2,434 | __Repository__: https://github.com/stevevillardi/Logic.Monitor
-
-## [FinancialPackage.PowershellGalleryModule](https://www.powershellgallery.com/Packages/FinancialPackage.PowershellGalleryModule/1.0.2) | 1.0.2
-
-### Published: 10/23/2023 22:40:41 by FastTrack In-Product Experiences Team
-
-Financial package to create new Sensitive Information Types for MIP
-
-__Downloads__: 5 | __Repository__: 
-
-## [Universal](https://www.powershellgallery.com/Packages/Universal/4.1.7) | 4.1.7
-
-### Published: 10/23/2023 21:36:06 by Ironman Software
-
-Module for PowerShell Universal.
-
-__Downloads__: 49,511 | __Repository__: https://ironmansoftware.com/powershell-universal
-
-*Updated: Friday, 27 October 2023 02:02:24 UTC*
+*Updated: Friday, 27 October 2023 09:52:51 UTC*
