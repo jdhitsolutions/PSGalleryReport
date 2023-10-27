@@ -3,6 +3,136 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [DellOpenManage](https://www.powershellgallery.com/Packages/DellOpenManage/3.7.0) | 3.7.0
+
+### Published: 10/27/2023 17:21:10 by Trevor Squillario <Trevor.Squillario@Dell.com>
+
+Dell OpenManage Enterprise PowerShell Module
+
+__Downloads__: 5,731 | __Repository__: https://github.com/dell/OpenManage-PowerShell-Modules
+
+## [psBlackberryUEM](https://www.powershellgallery.com/Packages/psBlackberryUEM/1.0.13) | 1.0.13
+
+### Published: 10/27/2023 17:18:42 by Phillip Marshall
+
+Module to interact with the Blackberry UEM API.
+
+__Downloads__: 0 | __Repository__: https://github.com/hematic/psBlackberryUEM
+
+## [PSGraphite](https://www.powershellgallery.com/Packages/PSGraphite/0.1.12) | 0.1.12
+
+### Published: 10/27/2023 16:45:55 by Stefan Eskelid
+
+PowerShell module for publishing metrics to Graphite
+
+__Downloads__: 39,140 | __Repository__: https://github.com/stefanes/PSGraphite
+
+## [pwsh-environment](https://www.powershellgallery.com/Packages/pwsh-environment/1.0.2) | 1.0.2
+
+### Published: 10/27/2023 16:35:17 by sawamura
+
+This is a module designed for manipulating environment variables.
+
+__Downloads__: 17 | __Repository__: https://gitlab.com/kamiyonanayo/pwsh-environment
+
+## [AptecoPSFramework](https://www.powershellgallery.com/Packages/AptecoPSFramework/0.1.4) | 0.1.4
+
+### Published: 10/27/2023 16:26:45 by florian.von.bracht@apteco.de
+
+Apteco PS Modules - Framework
+
+This module allows Apteco, partners and customers to develop their own integrations.
+This framework brings lots of useful features with it like
+- Logging + Send information to Orbit UI
+- Standardised settings management saved in json files
+- Update upward compatibility when there are new features and setting possibilites
+- Errorhandling and causing stop of campaigns on problems
+- Installation of dependencies
+- Developer mode to quickly create own integrations
+- Secure encryption of tokens and credentials
+- Possibility to develop cmdlets that can be executed directly in PowerShell e.g. to start clean up jobs or download specific data from an integration...
+- Easy boilerplate, documentation on GitHub and Demo-Channel to start quickly
+- Easy updates via PowerShellGallery
+- Easy integration of proxies, custom headers, REST handling
+- Using secure oAuth for connected apps like Microsoft Dynamics, Salesforce SalesCloud and CleverReach
+- Much more to follow...
+
+Your help is appreciated. Just contact me.
+
+__Downloads__: 119 | __Repository__: https://github.com/Apteco/AptecoPSModules/tree/dev/AptecoPSFramework
+
+## [PSModule.FX](https://www.powershellgallery.com/Packages/PSModule.FX/0.0.155) | 0.0.155
+
+### Published: 10/27/2023 16:25:34 by PSModule
+
+PSModule Framework PowerShell Module
+
+__Downloads__: 540 | __Repository__: https://github.com/PSModule/PSModule.FX
+
+## [PSComputerManagementZp](https://www.powershellgallery.com/Packages/PSComputerManagementZp/0.0.4) | 0.0.4
+
+### Published: 10/27/2023 16:06:30 by Pu Zhao
+
+A PowerShell module that derives from personal scenarios, can help users configure the Windows PCs easily to realize many useful operations, involving authorization, env, links, proxy, etc. Some features are also available on WSL2 and Linux.
+
+__Downloads__: 122 | __Repository__: https://github.com/Zhaopudark/PSComputerManagementZp
+
+## [IDandCollabTools](https://www.powershellgallery.com/Packages/IDandCollabTools/1.4) | 1.4
+
+### Published: 10/27/2023 15:47:40 by Stevie Lamb
+
+A module containing helper functions for common tasks involving Azure AD and M365
+
+__Downloads__: 62 | __Repository__: 
+
+## [which-command-GPT](https://www.powershellgallery.com/Packages/which-command-GPT/0.0.2) | 0.0.2
+
+### Published: 10/27/2023 14:40:05 by Jaswir Raghoe
+
+Answers which command will fulfill your request
+
+__Downloads__: 0 | __Repository__: https://jaswirraghoe.blogspot.com/2023/10/which-command-gpt.html
+
+## [FpsBcDeployment](https://www.powershellgallery.com/Packages/FpsBcDeployment/1.0.23300.1) | 1.0.23300.1
+
+### Published: 10/27/2023 14:11:07 by rdannenberg
+
+This PS Module contains functions to deploy AL app files into On-premises Dynamics 365 Business Central environments.
+
+__Downloads__: 7,477 | __Repository__: 
+
+## [PSLoki](https://www.powershellgallery.com/Packages/PSLoki/0.1.4) | 0.1.4
+
+### Published: 10/27/2023 13:48:18 by Stefan Eskelid
+
+PowerShell module for pushing log entries to Loki
+
+__Downloads__: 56 | __Repository__: https://github.com/stefanes/PSLoki
+
+## [CAT](https://www.powershellgallery.com/Packages/CAT/0.22.0.17) | 0.22.0.17
+
+### Published: 10/27/2023 13:19:33 by Joyful Craftsmen CAT Team
+
+Author, run and manage AUTOMATED TESTS for your DATA with minimum effort.
+
+__Downloads__: 520 | __Repository__: https://docs.justcat.it/
+
+## [Nutanix.NcpCli](https://www.powershellgallery.com/Packages/Nutanix.NcpCli/2310.1) | 2310.1
+
+### Published: 10/27/2023 13:03:14 by David Brett
+
+PowerShell module to manage Nutanix Cloud Platform.
+
+__Downloads__: 0 | __Repository__: https://bretty.me.uk/NcpCli
+
+## [UncommonSense.Nrc](https://www.powershellgallery.com/Packages/UncommonSense.Nrc/0.1.0.28) | 0.1.0.28
+
+### Published: 10/27/2023 10:17:02 by Jan Hoek
+
+PowerShell module for listing NRC articles
+
+__Downloads__: 6,312 | __Repository__: https://github.com/jhoek/UncommonSense.Nrc
+
 ## [ConvertStrings](https://www.powershellgallery.com/Packages/ConvertStrings/0.0.2) | 0.0.2
 
 ### Published: 10/27/2023 09:16:16 by florian.von.bracht@apteco.de
@@ -76,14 +206,6 @@ This module is a simple OpenAI/ChatGPT client for PowerShell
 
 __Downloads__: 522 | __Repository__: https://github.com/boeegh/PsChat/
 
-## [VkTyukalov.MyTestModule](https://www.powershellgallery.com/Packages/VkTyukalov.MyTestModule/0.0.1) | 0.0.1
-
-### Published: 10/26/2023 20:35:01 by v-ktyukalov
-
-test module. do not install.
-
-__Downloads__: 0 | __Repository__: 
-
 ## [VMware.CloudFoundation.PasswordManagement](https://www.powershellgallery.com/Packages/VMware.CloudFoundation.PasswordManagement/1.5.0.1004) | 1.5.0.1004
 
 ### Published: 10/26/2023 20:25:46 by VMware
@@ -99,14 +221,6 @@ __Downloads__: 310 | __Repository__: https://vmware.github.io/powershell-module-
 Module with lots of argument completers for popular commands.
 
 __Downloads__: 184 | __Repository__: https://github.com/MartinGC94/UsefulArgumentCompleters
-
-## [psBlackberryUEM](https://www.powershellgallery.com/Packages/psBlackberryUEM/1.0.10) | 1.0.10
-
-### Published: 10/26/2023 18:48:23 by Phillip Marshall
-
-Module to interact with the Blackberry UEM API.
-
-__Downloads__: 0 | __Repository__: https://github.com/hematic/psBlackberryUEM
 
 ## [Transferetto](https://www.powershellgallery.com/Packages/Transferetto/0.0.18) | 0.0.18
 
@@ -139,32 +253,6 @@ __Downloads__: 88 | __Repository__:
 Assorted Utilities to make your day happier than inhaling a party balloon.
 
 __Downloads__: 283 | __Repository__: https://github.com/Skatterbrainz/helium
-
-## [AptecoPSFramework](https://www.powershellgallery.com/Packages/AptecoPSFramework/0.1.3) | 0.1.3
-
-### Published: 10/26/2023 15:51:40 by florian.von.bracht@apteco.de
-
-Apteco PS Modules - Framework
-
-This module allows Apteco, partners and customers to develop their own integrations.
-This framework brings lots of useful features with it like
-- Logging + Send information to Orbit UI
-- Standardised settings management saved in json files
-- Update upward compatibility when there are new features and setting possibilites
-- Errorhandling and causing stop of campaigns on problems
-- Installation of dependencies
-- Developer mode to quickly create own integrations
-- Secure encryption of tokens and credentials
-- Possibility to develop cmdlets that can be executed directly in PowerShell e.g. to start clean up jobs or download specific data from an integration...
-- Easy boilerplate, documentation on GitHub and Demo-Channel to start quickly
-- Easy updates via PowerShellGallery
-- Easy integration of proxies, custom headers, REST handling
-- Using secure oAuth for connected apps like Microsoft Dynamics, Salesforce SalesCloud and CleverReach
-- Much more to follow...
-
-Your help is appreciated. Just contact me.
-
-__Downloads__: 119 | __Repository__: https://github.com/Apteco/AptecoPSModules/tree/dev/AptecoPSFramework
 
 ## [Liquit.Server.PowerShell](https://www.powershellgallery.com/Packages/Liquit.Server.PowerShell/4.1.3314.5928) | 4.1.3314.5928
 
@@ -325,14 +413,6 @@ __Downloads__: 75 | __Repository__: https://github.com/SCOMnewbie/PSMSALNet
 Module for installing basic programs: This module provides functions for downloading installers from specified links, installing the programs, verifying the installed programs/services, and cleaning up the installer files.
 
 __Downloads__: 113,161 | __Repository__: 
-
-## [PSGraphite](https://www.powershellgallery.com/Packages/PSGraphite/0.1.10) | 0.1.10
-
-### Published: 10/25/2023 14:00:55 by Stefan Eskelid
-
-PowerShell module for publishing metrics to Graphite
-
-__Downloads__: 39,140 | __Repository__: https://github.com/stefanes/PSGraphite
 
 ## [Devolutions.PowerShell](https://www.powershellgallery.com/Packages/Devolutions.PowerShell/2023.2.0.9) | 2023.2.0.9
 
@@ -1955,84 +2035,4 @@ This PowerShell module contains PowerShell Advanced functions for VMware.Sdk.vSp
 
 __Downloads__: 2,366,956 | __Repository__: 
 
-## [VMware.Sdk.vSphere.vCenter.Deployment](https://www.powershellgallery.com/Packages/VMware.Sdk.vSphere.vCenter.Deployment/8.0.1669.22649494) | 8.0.1669.22649494
-
-### Published: 10/24/2023 07:18:00 by VMware
-
-This PowerShell module contains PowerShell Advanced functions for VMware.Sdk.vSphere.vCenter.Deployment.
-
-__Downloads__: 2,365,696 | __Repository__: 
-
-## [VMware.Sdk.vSphere.vCenter.HVC](https://www.powershellgallery.com/Packages/VMware.Sdk.vSphere.vCenter.HVC/8.0.1669.22649494) | 8.0.1669.22649494
-
-### Published: 10/24/2023 07:17:49 by VMware
-
-This PowerShell module contains PowerShell Advanced functions for VMware.Sdk.vSphere.vCenter.HVC.
-
-__Downloads__: 550,858 | __Repository__: 
-
-## [VMware.Sdk.vSphere.vCenter.Identity](https://www.powershellgallery.com/Packages/VMware.Sdk.vSphere.vCenter.Identity/8.0.1669.22649494) | 8.0.1669.22649494
-
-### Published: 10/24/2023 07:17:41 by VMware
-
-This PowerShell module contains PowerShell Advanced functions for VMware.Sdk.vSphere.vCenter.Identity.
-
-__Downloads__: 2,362,998 | __Repository__: 
-
-## [VMware.Sdk.vSphere.vCenter.Inventory](https://www.powershellgallery.com/Packages/VMware.Sdk.vSphere.vCenter.Inventory/8.0.1669.22649494) | 8.0.1669.22649494
-
-### Published: 10/24/2023 07:17:33 by VMware
-
-This PowerShell module contains PowerShell Advanced functions for VMware.Sdk.vSphere.vCenter.Inventory.
-
-__Downloads__: 2,362,205 | __Repository__: 
-
-## [VMware.Sdk.vSphere.vCenter.ISO](https://www.powershellgallery.com/Packages/VMware.Sdk.vSphere.vCenter.ISO/8.0.1669.22649494) | 8.0.1669.22649494
-
-### Published: 10/24/2023 07:17:25 by VMware
-
-This PowerShell module contains PowerShell Advanced functions for VMware.Sdk.vSphere.vCenter.ISO.
-
-__Downloads__: 2,361,482 | __Repository__: 
-
-## [VMware.Sdk.vSphere.vCenter.LCM](https://www.powershellgallery.com/Packages/VMware.Sdk.vSphere.vCenter.LCM/8.0.1669.22649494) | 8.0.1669.22649494
-
-### Published: 10/24/2023 07:17:18 by VMware
-
-This PowerShell module contains PowerShell Advanced functions for VMware.Sdk.vSphere.vCenter.LCM.
-
-__Downloads__: 2,360,936 | __Repository__: 
-
-## [VMware.Sdk.vSphereRuntime](https://www.powershellgallery.com/Packages/VMware.Sdk.vSphereRuntime/8.0.1669.22649494) | 8.0.1669.22649494
-
-### Published: 10/24/2023 07:17:11 by VMware
-
-This PowerShell module contains PowerShell Advanced functions for VMware.Sdk.vSphereRuntime.
-
-__Downloads__: 2,599,848 | __Repository__: 
-
-## [VMware.Sdk.Runtime](https://www.powershellgallery.com/Packages/VMware.Sdk.Runtime/1.0.1669.22649494) | 1.0.1669.22649494
-
-### Published: 10/24/2023 07:16:56 by VMware
-
-This PowerShell module contains PowerShell Advanced functions for VMware.Sdk.Runtime.
-
-__Downloads__: 2,622,602 | __Repository__: 
-
-## [RDG.Deployment.Utils](https://www.powershellgallery.com/Packages/RDG.Deployment.Utils/0.0.8) | 0.0.8
-
-### Published: 10/24/2023 06:44:05 by kristoffersvanmark
-
-Includes a set of utility functions for deployment
-
-__Downloads__: 168 | __Repository__: 
-
-## [Log-Rotate](https://www.powershellgallery.com/Packages/Log-Rotate/1.6.0) | 1.6.0
-
-### Published: 10/24/2023 04:37:52 by The Oh Brothers
-
-A replica of the logrotate utility, except this also runs on Windows systems.
-
-__Downloads__: 6,767 | __Repository__: https://github.com/theohbrothers/Log-Rotate
-
-*Updated: Friday, 27 October 2023 09:52:51 UTC*
+*Updated: Friday, 27 October 2023 17:53:43 UTC*
