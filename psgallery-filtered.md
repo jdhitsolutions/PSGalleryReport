@@ -3,6 +3,78 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [TMK-CoreModules](https://www.powershellgallery.com/Packages/TMK-CoreModules/1.7.5) | 1.7.5
+
+### Published: 10/28/2023 00:13:01 by Travis M Knight
+
+Collection of modules to ease system management in the enterprise
+
+__Downloads__: 113 | __Repository__: https://github.com/tmknight/TMK-CoreModules
+
+## [MyPSFunctions](https://www.powershellgallery.com/Packages/MyPSFunctions/1.0.0.1) | 1.0.0.1
+
+### Published: 10/27/2023 23:12:47 by John@Onenote4exchange.com
+
+Module description
+
+__Downloads__: 0 | __Repository__: 
+
+## [WindowsOSServicing](https://www.powershellgallery.com/Packages/WindowsOSServicing/2310.1) | 2310.1
+
+### Published: 10/27/2023 22:46:53 by Ashley How
+
+Gets Windows OS servicing information to check if OS is currently serviced. Useful for scripting and automation purposes. Supports Windows 10 and Windows Server 2016 onwards.
+
+__Downloads__: 4,323 | __Repository__: https://github.com/AshleyHow/WindowsOSServicing
+
+## [PSModule.FX](https://www.powershellgallery.com/Packages/PSModule.FX/0.0.156) | 0.0.156
+
+### Published: 10/27/2023 22:42:18 by PSModule
+
+PSModule Framework PowerShell Module
+
+__Downloads__: 540 | __Repository__: https://github.com/PSModule/PSModule.FX
+
+## [PKCE](https://www.powershellgallery.com/Packages/PKCE/1.0.2) | 1.0.2
+
+### Published: 10/27/2023 22:33:17 by Darren J Robinson
+
+Generate OAuth 2.0 Proof Key for Code Exchange (PKCE) 'code_challenge' and 'code_verifier' for use with an OAuth2 Authorization Code Grant flow
+
+__Downloads__: 2,481 | __Repository__: https://github.com/darrenjrobinson/PKCE
+
+## [Microsoft.PowerShell.ConsoleGuiTools](https://www.powershellgallery.com/Packages/Microsoft.PowerShell.ConsoleGuiTools/0.7.6.0) | 0.7.6.0
+
+### Published: 10/27/2023 20:32:58 by PowerShell Team
+
+Cross-platform Console Gui Tools for PowerShell
+
+__Downloads__: 68,036 | __Repository__: https://github.com/PowerShell/GraphicalTools/
+
+## [cr-devops-rest](https://www.powershellgallery.com/Packages/cr-devops-rest/2023.10.285) | 2023.10.285
+
+### Published: 10/27/2023 20:04:01 by Ryan.Phay@clearesult.com
+
+Create straight forward REST calls in PowerShell based on API endpoints defined in .json files.  Add your own REST API endpoints by simply creating new .json files.
+
+__Downloads__: 86 | __Repository__: https://github.com/CLEAResult/it.devops.psm.rest
+
+## [Repair-MSAuth](https://www.powershellgallery.com/Packages/Repair-MSAuth/1.1.1.0) | 1.1.1.0
+
+### Published: 10/27/2023 19:59:18 by Dailen Gunter
+
+Powershell module for fixing certain Microsoft authentication issues
+
+__Downloads__: 0 | __Repository__: 
+
+## [AppManiProgramManager](https://www.powershellgallery.com/Packages/AppManiProgramManager/1.44.3) | 1.44.3
+
+### Published: 10/27/2023 17:57:01 by AppMani
+
+Module for installing basic programs: This module provides functions for downloading installers from specified links, installing the programs, verifying the installed programs/services, and cleaning up the installer files.
+
+__Downloads__: 113,161 | __Repository__: 
+
 ## [DellOpenManage](https://www.powershellgallery.com/Packages/DellOpenManage/3.7.0) | 3.7.0
 
 ### Published: 10/27/2023 17:21:10 by Trevor Squillario <Trevor.Squillario@Dell.com>
@@ -60,14 +132,6 @@ This framework brings lots of useful features with it like
 Your help is appreciated. Just contact me.
 
 __Downloads__: 119 | __Repository__: https://github.com/Apteco/AptecoPSModules/tree/dev/AptecoPSFramework
-
-## [PSModule.FX](https://www.powershellgallery.com/Packages/PSModule.FX/0.0.155) | 0.0.155
-
-### Published: 10/27/2023 16:25:34 by PSModule
-
-PSModule Framework PowerShell Module
-
-__Downloads__: 540 | __Repository__: https://github.com/PSModule/PSModule.FX
 
 ## [PSComputerManagementZp](https://www.powershellgallery.com/Packages/PSComputerManagementZp/0.0.4) | 0.0.4
 
@@ -406,14 +470,6 @@ Module used to interact with Microsoft Authentication library
 
 __Downloads__: 75 | __Repository__: https://github.com/SCOMnewbie/PSMSALNet
 
-## [AppManiProgramManager](https://www.powershellgallery.com/Packages/AppManiProgramManager/1.44.2) | 1.44.2
-
-### Published: 10/25/2023 15:41:37 by AppMani
-
-Module for installing basic programs: This module provides functions for downloading installers from specified links, installing the programs, verifying the installed programs/services, and cleaning up the installer files.
-
-__Downloads__: 113,161 | __Repository__: 
-
 ## [Devolutions.PowerShell](https://www.powershellgallery.com/Packages/Devolutions.PowerShell/2023.2.0.9) | 2023.2.0.9
 
 ### Published: 10/25/2023 13:30:31 by Devolutions
@@ -445,22 +501,6 @@ __Downloads__: 5,464 | __Repository__: https://github.com/CiscoDevNet/intersight
 PowerShell tips delivered straight to your terminal.
 
 __Downloads__: 1,312 | __Repository__: https://github.com/deadlydog/PowerShell.tiPS
-
-## [Microsoft.PowerShell.ConsoleGuiTools](https://www.powershellgallery.com/Packages/Microsoft.PowerShell.ConsoleGuiTools/0.7.5.35) | 0.7.5.35
-
-### Published: 10/25/2023 01:34:19 by PowerShell Team
-
-Cross-platform Console Gui Tools for PowerShell
-
-__Downloads__: 68,036 | __Repository__: https://github.com/PowerShell/GraphicalTools/
-
-## [cr-devops-rest](https://www.powershellgallery.com/Packages/cr-devops-rest/2023.10.284) | 2023.10.284
-
-### Published: 10/24/2023 23:46:34 by Ryan.Phay@clearesult.com
-
-Create straight forward REST calls in PowerShell based on API endpoints defined in .json files.  Add your own REST API endpoints by simply creating new .json files.
-
-__Downloads__: 86 | __Repository__: https://github.com/CLEAResult/it.devops.psm.rest
 
 ## [OriAzBopBoostrapOriPsgallery](https://www.powershellgallery.com/Packages/OriAzBopBoostrapOriPsgallery/3.6.0) | 3.6.0
 
@@ -1691,14 +1731,6 @@ Cmdlets for the eryph compute API.
 
 __Downloads__: 157 | __Repository__: https://github.com/eryph-org/dotnet-computeclient
 
-## [RiverMeadow.Release.Migrate](https://www.powershellgallery.com/Packages/RiverMeadow.Release.Migrate/1.0.117.408) | 1.0.117.408
-
-### Published: 10/24/2023 08:25:53 by RiverMeadow Engineering Team
-
-Provides cmdlets for starting migration of applications to supported clouds using the RiverMeadow platform.
-
-__Downloads__: 232 | __Repository__: https://migrate.rivermeadow.com/
-
 ## [RiverMeadow.Development.Migrate](https://www.powershellgallery.com/Packages/RiverMeadow.Development.Migrate/1.0.118.406) | 1.0.118.406
 
 ### Published: 10/24/2023 08:25:10 by RiverMeadow Engineering Team
@@ -2003,36 +2035,4 @@ This PowerShell module contains PowerShell Advanced functions for VMware.Sdk.vSp
 
 __Downloads__: 2,364,361 | __Repository__: 
 
-## [VMware.Sdk.vSphere.vCenter.CertManagement](https://www.powershellgallery.com/Packages/VMware.Sdk.vSphere.vCenter.CertManagement/8.0.1669.22649494) | 8.0.1669.22649494
-
-### Published: 10/24/2023 07:18:33 by VMware
-
-This PowerShell module contains PowerShell Advanced functions for VMware.Sdk.vSphere.vCenter.CertManagement.
-
-__Downloads__: 2,377,730 | __Repository__: 
-
-## [VMware.Sdk.vSphere.vCenter.NamespaceManagement](https://www.powershellgallery.com/Packages/VMware.Sdk.vSphere.vCenter.NamespaceManagement/8.0.1669.22649494) | 8.0.1669.22649494
-
-### Published: 10/24/2023 07:18:24 by VMware
-
-This PowerShell module contains PowerShell Advanced functions for VMware.Sdk.vSphere.vCenter.NamespaceManagement.
-
-__Downloads__: 2,360,604 | __Repository__: 
-
-## [VMware.Sdk.vSphere.vCenter.ConsumptionDomains](https://www.powershellgallery.com/Packages/VMware.Sdk.vSphere.vCenter.ConsumptionDomains/8.0.1669.22649494) | 8.0.1669.22649494
-
-### Published: 10/24/2023 07:18:14 by VMware
-
-This PowerShell module contains PowerShell Advanced functions for VMware.Sdk.vSphere.vCenter.ConsumptionDomains.
-
-__Downloads__: 552,451 | __Repository__: 
-
-## [VMware.Sdk.vSphere.vCenter.Datastore](https://www.powershellgallery.com/Packages/VMware.Sdk.vSphere.vCenter.Datastore/8.0.1669.22649494) | 8.0.1669.22649494
-
-### Published: 10/24/2023 07:18:07 by VMware
-
-This PowerShell module contains PowerShell Advanced functions for VMware.Sdk.vSphere.vCenter.Datastore.
-
-__Downloads__: 2,366,956 | __Repository__: 
-
-*Updated: Friday, 27 October 2023 17:53:43 UTC*
+*Updated: Saturday, 28 October 2023 02:02:11 UTC*
