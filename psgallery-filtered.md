@@ -11,14 +11,6 @@ The test module to verify publishing to PSGallery from AppVeyor.
 
 __Downloads__: 40,115 | __Repository__: 
 
-## [Minizinc](https://www.powershellgallery.com/Packages/Minizinc/0.0.3) | 0.0.3
-
-### Published: 10/28/2023 05:49:13 by eosfor
-
-Powershell Crescendo limited wrapper for minizinc
-
-__Downloads__: 5 | __Repository__: 
-
 ## [PSBusinessPlusERP](https://www.powershellgallery.com/Packages/PSBusinessPlusERP/0.1.1) | 0.1.1
 
 ### Published: 10/28/2023 03:37:19 by Zach Birge
@@ -33,7 +25,7 @@ __Downloads__: 0 | __Repository__:
 
 Module for installing basic programs: This module provides functions for downloading installers from specified links, installing the programs, verifying the installed programs/services, and cleaning up the installer files.
 
-__Downloads__: 114,223 | __Repository__: 
+__Downloads__: 114,228 | __Repository__: 
 
 ## [TMK-CoreModules](https://www.powershellgallery.com/Packages/TMK-CoreModules/1.7.5) | 1.7.5
 
@@ -81,7 +73,7 @@ __Downloads__: 2,578 | __Repository__: https://github.com/darrenjrobinson/PKCE
 
 Cross-platform Console Gui Tools for PowerShell
 
-__Downloads__: 68,594 | __Repository__: https://github.com/PowerShell/GraphicalTools/
+__Downloads__: 68,595 | __Repository__: https://github.com/PowerShell/GraphicalTools/
 
 ## [cr-devops-rest](https://www.powershellgallery.com/Packages/cr-devops-rest/2023.10.285) | 2023.10.285
 
@@ -372,7 +364,7 @@ __Downloads__: 404 | __Repository__: https://github.com/ActiveDirectoryStructure
 
 Automation tools for production quality database deployment
 
-__Downloads__: 4,691,717 | __Repository__: https://www.red-gate.com/sca/productpage
+__Downloads__: 4,691,703 | __Repository__: https://www.red-gate.com/sca/productpage
 
 ## [MSPToolBox](https://www.powershellgallery.com/Packages/MSPToolBox/1.2.1) | 1.2.1
 
@@ -1761,7 +1753,7 @@ __Downloads__: 478 | __Repository__: https://migrate.rivermeadow.com/
 
 Adds functionality for working with Azure DevOps and Team Foundation Server.
 
-__Downloads__: 1,707,371 | __Repository__: https://github.com/MethodsAndPractices/vsteam
+__Downloads__: 1,707,364 | __Repository__: https://github.com/MethodsAndPractices/vsteam
 
 ## [VMware.Sdk.vSphere.Content](https://www.powershellgallery.com/Packages/VMware.Sdk.vSphere.Content/8.0.1669.22649494) | 8.0.1669.22649494
 
@@ -1825,7 +1817,7 @@ __Downloads__: 2,395,480 | __Repository__:
 
 This PowerShell module contains PowerShell Advanced functions for VMware.Sdk.vSphere.Appliance.Recovery.
 
-__Downloads__: 2,444,562 | __Repository__: 
+__Downloads__: 2,444,547 | __Repository__: 
 
 ## [VMware.Sdk.vSphere.Esx.Hosts](https://www.powershellgallery.com/Packages/VMware.Sdk.vSphere.Esx.Hosts/8.0.1669.22649494) | 8.0.1669.22649494
 
@@ -1857,7 +1849,7 @@ __Downloads__: 2,406,779 | __Repository__:
 
 This PowerShell module contains PowerShell Advanced functions for VMware.Sdk.vSphere.Appliance.LocalAccounts.
 
-__Downloads__: 2,418,903 | __Repository__: 
+__Downloads__: 2,418,888 | __Repository__: 
 
 ## [VMware.Sdk.vSphere.Appliance.Networking](https://www.powershellgallery.com/Packages/VMware.Sdk.vSphere.Appliance.Networking/8.0.1669.22649494) | 8.0.1669.22649494
 
@@ -1865,7 +1857,7 @@ __Downloads__: 2,418,903 | __Repository__:
 
 This PowerShell module contains PowerShell Advanced functions for VMware.Sdk.vSphere.Appliance.Networking.
 
-__Downloads__: 2,414,402 | __Repository__: 
+__Downloads__: 2,414,387 | __Repository__: 
 
 ## [VMware.Sdk.vSphere.Appliance.Logging](https://www.powershellgallery.com/Packages/VMware.Sdk.vSphere.Appliance.Logging/8.0.1669.22649494) | 8.0.1669.22649494
 
@@ -1873,7 +1865,7 @@ __Downloads__: 2,414,402 | __Repository__:
 
 This PowerShell module contains PowerShell Advanced functions for VMware.Sdk.vSphere.Appliance.Logging.
 
-__Downloads__: 2,416,652 | __Repository__: 
+__Downloads__: 2,416,637 | __Repository__: 
 
 ## [VMware.Sdk.vSphere.Appliance.InfraProfile](https://www.powershellgallery.com/Packages/VMware.Sdk.vSphere.Appliance.InfraProfile/8.0.1669.22649494) | 8.0.1669.22649494
 
@@ -1881,7 +1873,7 @@ __Downloads__: 2,416,652 | __Repository__:
 
 This PowerShell module contains PowerShell Advanced functions for VMware.Sdk.vSphere.Appliance.InfraProfile.
 
-__Downloads__: 2,421,116 | __Repository__: 
+__Downloads__: 2,421,101 | __Repository__: 
 
 ## [VMware.Sdk.vSphere.Appliance.Health](https://www.powershellgallery.com/Packages/VMware.Sdk.vSphere.Appliance.Health/8.0.1669.22649494) | 8.0.1669.22649494
 
@@ -1889,7 +1881,7 @@ __Downloads__: 2,421,116 | __Repository__:
 
 This PowerShell module contains PowerShell Advanced functions for VMware.Sdk.vSphere.Appliance.Health.
 
-__Downloads__: 2,423,623 | __Repository__: 
+__Downloads__: 2,423,608 | __Repository__: 
 
 ## [VMware.Sdk.vSphere.Appliance.Access](https://www.powershellgallery.com/Packages/VMware.Sdk.vSphere.Appliance.Access/8.0.1669.22649494) | 8.0.1669.22649494
 
@@ -1897,7 +1889,7 @@ __Downloads__: 2,423,623 | __Repository__:
 
 This PowerShell module contains PowerShell Advanced functions for VMware.Sdk.vSphere.Appliance.Access.
 
-__Downloads__: 2,426,108 | __Repository__: 
+__Downloads__: 2,426,093 | __Repository__: 
 
 ## [VMware.Sdk.vSphere.Appliance](https://www.powershellgallery.com/Packages/VMware.Sdk.vSphere.Appliance/8.0.1669.22649494) | 8.0.1669.22649494
 
@@ -1905,7 +1897,7 @@ __Downloads__: 2,426,108 | __Repository__:
 
 This PowerShell module contains PowerShell Advanced functions for VMware.Sdk.vSphere.Appliance.
 
-__Downloads__: 2,438,058 | __Repository__: 
+__Downloads__: 2,438,043 | __Repository__: 
 
 ## [VMware.Sdk.vSphere.vCenter](https://www.powershellgallery.com/Packages/VMware.Sdk.vSphere.vCenter/8.0.1669.22649494) | 8.0.1669.22649494
 
@@ -2001,7 +1993,7 @@ __Downloads__: 2,373,100 | __Repository__:
 
 This PowerShell module contains PowerShell Advanced functions for VMware.Sdk.vSphere.vCenter.Authorization.
 
-__Downloads__: 571,332 | __Repository__: 
+__Downloads__: 571,316 | __Repository__: 
 
 ## [VMware.Sdk.vSphere.vCenter.SystemConfig](https://www.powershellgallery.com/Packages/VMware.Sdk.vSphere.vCenter.SystemConfig/8.0.1669.22649494) | 8.0.1669.22649494
 
@@ -2035,4 +2027,12 @@ This PowerShell module contains PowerShell Advanced functions for VMware.Sdk.vSp
 
 __Downloads__: 2,373,593 | __Repository__: 
 
-*Updated: Saturday, 28 October 2023 09:52:34 UTC*
+## [VMware.Sdk.vSphere.vCenter.Namespaces](https://www.powershellgallery.com/Packages/VMware.Sdk.vSphere.vCenter.Namespaces/8.0.1669.22649494) | 8.0.1669.22649494
+
+### Published: 10/24/2023 07:18:50 by VMware
+
+This PowerShell module contains PowerShell Advanced functions for VMware.Sdk.vSphere.vCenter.Namespaces.
+
+__Downloads__: 2,376,913 | __Repository__: 
+
+*Updated: Saturday, 28 October 2023 17:52:47 UTC*
