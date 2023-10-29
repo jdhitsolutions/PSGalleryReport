@@ -3,6 +3,54 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [RocketCyberAPI](https://www.powershellgallery.com/Packages/RocketCyberAPI/2.1.0) | 2.1.0
+
+### Published: 10/28/2023 21:57:34 by David Schulte
+
+This module provides a PowerShell wrapper for the RocketCyber API
+
+__Downloads__: 71 | __Repository__: https://github.com/Celerium/RocketCyber-PowerShellWrapper
+
+## [finetuna](https://www.powershellgallery.com/Packages/finetuna/1.0.1) | 1.0.1
+
+### Published: 10/28/2023 19:51:53 by Chrissy LeMaire
+
+OpenAI Fine Tuner
+
+__Downloads__: 26 | __Repository__: https://github.com/potatoqualitee/finetuna
+
+## [PSCortex](https://www.powershellgallery.com/Packages/PSCortex/0.0.4) | 0.0.4
+
+### Published: 10/28/2023 19:31:53 by lahell
+
+Get endpoints, incidents and alerts from the Cortex XDR API
+
+__Downloads__: 516 | __Repository__: https://github.com/lahell/PSCortex
+
+## [PSSharedGoods](https://www.powershellgallery.com/Packages/PSSharedGoods/0.0.267) | 0.0.267
+
+### Published: 10/28/2023 19:24:04 by Przemyslaw Klys
+
+Module covering functions that are shared within multiple projects
+
+__Downloads__: 235,460 | __Repository__: https://github.com/EvotecIT/PSSharedGoods
+
+## [tiPS](https://www.powershellgallery.com/Packages/tiPS/1.0.9) | 1.0.9
+
+### Published: 10/28/2023 18:57:04 by Daniel Schroeder
+
+PowerShell tips delivered straight to your terminal.
+
+__Downloads__: 1,422 | __Repository__: https://github.com/deadlydog/PowerShell.tiPS
+
+## [psBlackberryUEM](https://www.powershellgallery.com/Packages/psBlackberryUEM/1.0.14) | 1.0.14
+
+### Published: 10/28/2023 18:06:24 by Phillip Marshall
+
+Module to interact with the Blackberry UEM API.
+
+__Downloads__: 8 | __Repository__: https://github.com/hematic/psBlackberryUEM
+
 ## [AppVeyorTestPsGallery](https://www.powershellgallery.com/Packages/AppVeyorTestPsGallery/1.0.529) | 1.0.529
 
 ### Published: 10/28/2023 06:14:39 by Feodor Fitsner
@@ -25,7 +73,7 @@ __Downloads__: 0 | __Repository__:
 
 Module for installing basic programs: This module provides functions for downloading installers from specified links, installing the programs, verifying the installed programs/services, and cleaning up the installer files.
 
-__Downloads__: 114,228 | __Repository__: 
+__Downloads__: 114,223 | __Repository__: 
 
 ## [TMK-CoreModules](https://www.powershellgallery.com/Packages/TMK-CoreModules/1.7.5) | 1.7.5
 
@@ -73,7 +121,7 @@ __Downloads__: 2,578 | __Repository__: https://github.com/darrenjrobinson/PKCE
 
 Cross-platform Console Gui Tools for PowerShell
 
-__Downloads__: 68,595 | __Repository__: https://github.com/PowerShell/GraphicalTools/
+__Downloads__: 68,596 | __Repository__: https://github.com/PowerShell/GraphicalTools/
 
 ## [cr-devops-rest](https://www.powershellgallery.com/Packages/cr-devops-rest/2023.10.285) | 2023.10.285
 
@@ -98,14 +146,6 @@ __Downloads__: 0 | __Repository__:
 Dell OpenManage Enterprise PowerShell Module
 
 __Downloads__: 5,758 | __Repository__: https://github.com/dell/OpenManage-PowerShell-Modules
-
-## [psBlackberryUEM](https://www.powershellgallery.com/Packages/psBlackberryUEM/1.0.13) | 1.0.13
-
-### Published: 10/27/2023 17:18:42 by Phillip Marshall
-
-Module to interact with the Blackberry UEM API.
-
-__Downloads__: 8 | __Repository__: https://github.com/hematic/psBlackberryUEM
 
 ## [PSGraphite](https://www.powershellgallery.com/Packages/PSGraphite/0.1.12) | 0.1.12
 
@@ -268,7 +308,7 @@ __Downloads__: 22 | __Repository__:
 
 ProjectWise PowerShell Cmdlets from System Architecture Group
 
-__Downloads__: 79,923 | __Repository__: 
+__Downloads__: 79,922 | __Repository__: 
 
 ## [PsChat](https://www.powershellgallery.com/Packages/PsChat/0.0.46) | 0.0.46
 
@@ -284,7 +324,7 @@ __Downloads__: 532 | __Repository__: https://github.com/boeegh/PsChat/
 
 PowerShell Module for VMware Cloud Foundation Password Management
 
-__Downloads__: 329 | __Repository__: https://vmware.github.io/powershell-module-for-vmware-cloud-foundation-password-management
+__Downloads__: 328 | __Repository__: https://vmware.github.io/powershell-module-for-vmware-cloud-foundation-password-management
 
 ## [UsefulArgumentCompleters](https://www.powershellgallery.com/Packages/UsefulArgumentCompleters/1.0.11) | 1.0.11
 
@@ -364,7 +404,7 @@ __Downloads__: 404 | __Repository__: https://github.com/ActiveDirectoryStructure
 
 Automation tools for production quality database deployment
 
-__Downloads__: 4,691,703 | __Repository__: https://www.red-gate.com/sca/productpage
+__Downloads__: 4,691,710 | __Repository__: https://www.red-gate.com/sca/productpage
 
 ## [MSPToolBox](https://www.powershellgallery.com/Packages/MSPToolBox/1.2.1) | 1.2.1
 
@@ -493,14 +533,6 @@ __Downloads__: 1,458 | __Repository__: https://github.com/UniverseCitiz3n/Intune
 Intersight Powershell module provides the cmdlets to manage, analyze, and automate the IT infrastructure in Intersight.
 
 __Downloads__: 5,526 | __Repository__: https://github.com/CiscoDevNet/intersight-powershell
-
-## [tiPS](https://www.powershellgallery.com/Packages/tiPS/1.0.7) | 1.0.7
-
-### Published: 10/25/2023 02:37:56 by Daniel Schroeder
-
-PowerShell tips delivered straight to your terminal.
-
-__Downloads__: 1,422 | __Repository__: https://github.com/deadlydog/PowerShell.tiPS
 
 ## [OriAzBopBoostrapOriPsgallery](https://www.powershellgallery.com/Packages/OriAzBopBoostrapOriPsgallery/3.6.0) | 3.6.0
 
@@ -1817,7 +1849,7 @@ __Downloads__: 2,395,480 | __Repository__:
 
 This PowerShell module contains PowerShell Advanced functions for VMware.Sdk.vSphere.Appliance.Recovery.
 
-__Downloads__: 2,444,547 | __Repository__: 
+__Downloads__: 2,444,536 | __Repository__: 
 
 ## [VMware.Sdk.vSphere.Esx.Hosts](https://www.powershellgallery.com/Packages/VMware.Sdk.vSphere.Esx.Hosts/8.0.1669.22649494) | 8.0.1669.22649494
 
@@ -1849,7 +1881,7 @@ __Downloads__: 2,406,779 | __Repository__:
 
 This PowerShell module contains PowerShell Advanced functions for VMware.Sdk.vSphere.Appliance.LocalAccounts.
 
-__Downloads__: 2,418,888 | __Repository__: 
+__Downloads__: 2,418,878 | __Repository__: 
 
 ## [VMware.Sdk.vSphere.Appliance.Networking](https://www.powershellgallery.com/Packages/VMware.Sdk.vSphere.Appliance.Networking/8.0.1669.22649494) | 8.0.1669.22649494
 
@@ -1857,7 +1889,7 @@ __Downloads__: 2,418,888 | __Repository__:
 
 This PowerShell module contains PowerShell Advanced functions for VMware.Sdk.vSphere.Appliance.Networking.
 
-__Downloads__: 2,414,387 | __Repository__: 
+__Downloads__: 2,414,377 | __Repository__: 
 
 ## [VMware.Sdk.vSphere.Appliance.Logging](https://www.powershellgallery.com/Packages/VMware.Sdk.vSphere.Appliance.Logging/8.0.1669.22649494) | 8.0.1669.22649494
 
@@ -1865,7 +1897,7 @@ __Downloads__: 2,414,387 | __Repository__:
 
 This PowerShell module contains PowerShell Advanced functions for VMware.Sdk.vSphere.Appliance.Logging.
 
-__Downloads__: 2,416,637 | __Repository__: 
+__Downloads__: 2,416,627 | __Repository__: 
 
 ## [VMware.Sdk.vSphere.Appliance.InfraProfile](https://www.powershellgallery.com/Packages/VMware.Sdk.vSphere.Appliance.InfraProfile/8.0.1669.22649494) | 8.0.1669.22649494
 
@@ -1873,7 +1905,7 @@ __Downloads__: 2,416,637 | __Repository__:
 
 This PowerShell module contains PowerShell Advanced functions for VMware.Sdk.vSphere.Appliance.InfraProfile.
 
-__Downloads__: 2,421,101 | __Repository__: 
+__Downloads__: 2,421,091 | __Repository__: 
 
 ## [VMware.Sdk.vSphere.Appliance.Health](https://www.powershellgallery.com/Packages/VMware.Sdk.vSphere.Appliance.Health/8.0.1669.22649494) | 8.0.1669.22649494
 
@@ -1881,7 +1913,7 @@ __Downloads__: 2,421,101 | __Repository__:
 
 This PowerShell module contains PowerShell Advanced functions for VMware.Sdk.vSphere.Appliance.Health.
 
-__Downloads__: 2,423,608 | __Repository__: 
+__Downloads__: 2,423,599 | __Repository__: 
 
 ## [VMware.Sdk.vSphere.Appliance.Access](https://www.powershellgallery.com/Packages/VMware.Sdk.vSphere.Appliance.Access/8.0.1669.22649494) | 8.0.1669.22649494
 
@@ -1889,7 +1921,7 @@ __Downloads__: 2,423,608 | __Repository__:
 
 This PowerShell module contains PowerShell Advanced functions for VMware.Sdk.vSphere.Appliance.Access.
 
-__Downloads__: 2,426,093 | __Repository__: 
+__Downloads__: 2,426,084 | __Repository__: 
 
 ## [VMware.Sdk.vSphere.Appliance](https://www.powershellgallery.com/Packages/VMware.Sdk.vSphere.Appliance/8.0.1669.22649494) | 8.0.1669.22649494
 
@@ -1897,7 +1929,7 @@ __Downloads__: 2,426,093 | __Repository__:
 
 This PowerShell module contains PowerShell Advanced functions for VMware.Sdk.vSphere.Appliance.
 
-__Downloads__: 2,438,043 | __Repository__: 
+__Downloads__: 2,438,034 | __Repository__: 
 
 ## [VMware.Sdk.vSphere.vCenter](https://www.powershellgallery.com/Packages/VMware.Sdk.vSphere.vCenter/8.0.1669.22649494) | 8.0.1669.22649494
 
@@ -1993,7 +2025,7 @@ __Downloads__: 2,373,100 | __Repository__:
 
 This PowerShell module contains PowerShell Advanced functions for VMware.Sdk.vSphere.vCenter.Authorization.
 
-__Downloads__: 571,316 | __Repository__: 
+__Downloads__: 571,322 | __Repository__: 
 
 ## [VMware.Sdk.vSphere.vCenter.SystemConfig](https://www.powershellgallery.com/Packages/VMware.Sdk.vSphere.vCenter.SystemConfig/8.0.1669.22649494) | 8.0.1669.22649494
 
@@ -2003,36 +2035,4 @@ This PowerShell module contains PowerShell Advanced functions for VMware.Sdk.vSp
 
 __Downloads__: 2,374,348 | __Repository__: 
 
-## [VMware.Sdk.vSphere.vCenter.Storage](https://www.powershellgallery.com/Packages/VMware.Sdk.vSphere.vCenter.Storage/8.0.1669.22649494) | 8.0.1669.22649494
-
-### Published: 10/24/2023 07:19:12 by VMware
-
-This PowerShell module contains PowerShell Advanced functions for VMware.Sdk.vSphere.vCenter.Storage.
-
-__Downloads__: 2,374,885 | __Repository__: 
-
-## [VMware.Sdk.vSphere.vCenter.Services](https://www.powershellgallery.com/Packages/VMware.Sdk.vSphere.vCenter.Services/8.0.1669.22649494) | 8.0.1669.22649494
-
-### Published: 10/24/2023 07:19:05 by VMware
-
-This PowerShell module contains PowerShell Advanced functions for VMware.Sdk.vSphere.vCenter.Services.
-
-__Downloads__: 2,375,554 | __Repository__: 
-
-## [VMware.Sdk.vSphere.vCenter.Tagging](https://www.powershellgallery.com/Packages/VMware.Sdk.vSphere.vCenter.Tagging/8.0.1669.22649494) | 8.0.1669.22649494
-
-### Published: 10/24/2023 07:18:58 by VMware
-
-This PowerShell module contains PowerShell Advanced functions for VMware.Sdk.vSphere.vCenter.Tagging.
-
-__Downloads__: 2,373,593 | __Repository__: 
-
-## [VMware.Sdk.vSphere.vCenter.Namespaces](https://www.powershellgallery.com/Packages/VMware.Sdk.vSphere.vCenter.Namespaces/8.0.1669.22649494) | 8.0.1669.22649494
-
-### Published: 10/24/2023 07:18:50 by VMware
-
-This PowerShell module contains PowerShell Advanced functions for VMware.Sdk.vSphere.vCenter.Namespaces.
-
-__Downloads__: 2,376,913 | __Repository__: 
-
-*Updated: Saturday, 28 October 2023 17:52:47 UTC*
+*Updated: Sunday, 29 October 2023 02:04:17 UTC*
