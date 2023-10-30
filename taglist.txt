@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Sunday, 29 October 2023 17:53:10 UTC
+Updated: Monday, 30 October 2023 02:03:26 UTC
 
 .bat
 .env
@@ -361,7 +361,6 @@ apmconfig
 apmcontrolplane
 apmsynthetics
 apmtraces
-aportal
 app
 app-control-for-business
 app-only
@@ -467,6 +466,7 @@ asjob
 asm
 asn.1
 asn1
+asnbank
 asp
 asp.net
 aspnet
@@ -501,7 +501,6 @@ atmosphere
 atom
 atp
 atrium
-att&ck
 attestation
 attila
 attribute
@@ -854,7 +853,6 @@ bop
 bot
 bots
 botservice
-bouncer
 boundaries
 boundarygroups
 bounty
@@ -949,7 +947,6 @@ campaign
 camtasia
 canarie
 cancel
-cancellation
 canonical
 cantara
 capability
@@ -1195,6 +1192,7 @@ cloudiq
 cloudkey
 cloudmarque
 cloudmigrations
+cloudpc
 cloudservice
 cloudshell
 clueser
@@ -1547,7 +1545,6 @@ csvhelper
 ctf
 ctglobal
 ctl
-ctrl+c
 ctx
 ctype
 cubes
@@ -1720,7 +1717,6 @@ debugger
 debugging
 decimal
 decimalip
-decimalzero
 declarative
 decline
 decode
@@ -1867,7 +1863,6 @@ disasterrecovery
 disconnect
 discord
 discordrpc
-discount
 discover
 discovery
 discutils
@@ -1926,7 +1921,6 @@ dnsclient
 dnsdumpster
 dnsentry
 dnsimple
-dnslookup
 dnsmadeeasy
 dnsoverhttps
 dnsrecord
@@ -2089,7 +2083,6 @@ dynamicsnav
 dynamodb
 dynatrace
 dynatraceobservability
-dz
 e-mail
 e1
 easy
@@ -2098,7 +2091,6 @@ easylife365
 easyvista
 eaton
 ebay
-ebooks
 ebur128
 ec2
 ecommerce
@@ -2207,6 +2199,7 @@ environments
 environmentvariable
 environmentvariables
 envvar
+envvars
 eol
 eop
 eperl
@@ -2350,7 +2343,6 @@ export
 export-cmhealthreport
 export-data
 export-passlist
-exportcertificate
 exportcertificates
 exporter
 exportexcel
@@ -2454,6 +2446,9 @@ filenames
 fileproperties
 filereplication
 files
+files-cli
+files-cli.exe
+files.com
 filesecurity
 fileserver
 fileserverresourcemanager
@@ -2667,9 +2662,7 @@ generate
 generate-dockerimagevariants
 generate-password
 generate-random-password
-generateaddress
 generates
-generatewif
 generation
 generator
 generic
@@ -2738,7 +2731,6 @@ gist
 git
 git-client
 git-clone
-git-flow
 git-hf
 git-hubflow
 git-lfs
@@ -3278,7 +3270,6 @@ interface
 interlogix
 internet
 internet-explorer
-internetconnection
 internetexplorer
 intersight
 intersightcmdlets
@@ -3551,7 +3542,6 @@ lake
 lambda
 lame
 lametrictime
-lamp
 lan
 landingzones
 language
@@ -4121,7 +4111,6 @@ msexchange
 msftnet
 msftnetworking
 msg
-msg.exe
 msgbox
 msgraph
 msgraphapi
@@ -4927,7 +4916,6 @@ poshy-wrap-forgit
 poshy-wrap-gem
 poshy-wrap-gh
 poshy-wrap-git
-poshy-wrap-git-flow
 poshy-wrap-git-hf
 poshy-wrap-git-lfs
 poshy-wrap-golang
@@ -5550,12 +5538,10 @@ pscommand_gcamg
 pscommand_gcams
 pscommand_gcamu
 pscommand_gcb
-pscommand_gcd
 pscommand_gcem
 pscommand_gcf
 pscommand_gcfl
 pscommand_gcfls
-pscommand_gch
 pscommand_gci
 pscommand_gcl
 pscommand_gclcd
@@ -5578,7 +5564,6 @@ pscommand_gcp
 pscommand_gcpa
 pscommand_gcpc
 pscommand_gcpx
-pscommand_gcr
 pscommand_gcsam
 pscommand_gct
 pscommand_gd
@@ -5673,27 +5658,6 @@ pscommand_geun
 pscommand_gexport
 pscommand_gf
 pscommand_gfa
-pscommand_gfl
-pscommand_gflf
-pscommand_gflff
-pscommand_gflffc
-pscommand_gflfp
-pscommand_gflfpc
-pscommand_gflfpll
-pscommand_gflfs
-pscommand_gflh
-pscommand_gflhf
-pscommand_gflhfc
-pscommand_gflhp
-pscommand_gflhpc
-pscommand_gflhs
-pscommand_gfli
-pscommand_gflr
-pscommand_gflrf
-pscommand_gflrfc
-pscommand_gflrp
-pscommand_gflrpc
-pscommand_gflrs
 pscommand_gfo
 pscommand_gft
 pscommand_gftv
@@ -5977,27 +5941,6 @@ pscommand_invoke-gitconfig
 pscommand_invoke-gitdifftool
 pscommand_invoke-gitfetch
 pscommand_invoke-gitfetchorigin
-pscommand_invoke-gitflow
-pscommand_invoke-gitflowfeature
-pscommand_invoke-gitflowfeaturefinish
-pscommand_invoke-gitflowfeaturefinishcurrent
-pscommand_invoke-gitflowfeaturepublish
-pscommand_invoke-gitflowfeaturepublishcurrent
-pscommand_invoke-gitflowfeaturepull
-pscommand_invoke-gitflowfeaturestart
-pscommand_invoke-gitflowhotfix
-pscommand_invoke-gitflowhotfixfinish
-pscommand_invoke-gitflowhotfixfinishcurrent
-pscommand_invoke-gitflowhotfixpublish
-pscommand_invoke-gitflowhotfixpublishcurrent
-pscommand_invoke-gitflowhotfixstart
-pscommand_invoke-gitflowinit
-pscommand_invoke-gitflowrelease
-pscommand_invoke-gitflowreleasefinish
-pscommand_invoke-gitflowreleasefinishcurrent
-pscommand_invoke-gitflowreleasepublish
-pscommand_invoke-gitflowreleasepublishcurrent
-pscommand_invoke-gitflowreleasestart
 pscommand_invoke-gitgui
 pscommand_invoke-githubapi
 pscommand_invoke-githubapi-bodyempty
@@ -6864,9 +6807,6 @@ pscommand_use-gitbranchmain
 pscommand_use-gitbranchnew
 pscommand_use-gitbranchprevious
 pscommand_use-gitbranchtracked
-pscommand_use-gitflowbranchdevelop
-pscommand_use-gitflowbranchhotfix
-pscommand_use-gitflowbranchrelease
 pscommand_use-gitstashentry
 pscommand_uuid
 pscommand_uuidgen
@@ -7394,27 +7334,6 @@ psfunction_invoke-gitconfig
 psfunction_invoke-gitdifftool
 psfunction_invoke-gitfetch
 psfunction_invoke-gitfetchorigin
-psfunction_invoke-gitflow
-psfunction_invoke-gitflowfeature
-psfunction_invoke-gitflowfeaturefinish
-psfunction_invoke-gitflowfeaturefinishcurrent
-psfunction_invoke-gitflowfeaturepublish
-psfunction_invoke-gitflowfeaturepublishcurrent
-psfunction_invoke-gitflowfeaturepull
-psfunction_invoke-gitflowfeaturestart
-psfunction_invoke-gitflowhotfix
-psfunction_invoke-gitflowhotfixfinish
-psfunction_invoke-gitflowhotfixfinishcurrent
-psfunction_invoke-gitflowhotfixpublish
-psfunction_invoke-gitflowhotfixpublishcurrent
-psfunction_invoke-gitflowhotfixstart
-psfunction_invoke-gitflowinit
-psfunction_invoke-gitflowrelease
-psfunction_invoke-gitflowreleasefinish
-psfunction_invoke-gitflowreleasefinishcurrent
-psfunction_invoke-gitflowreleasepublish
-psfunction_invoke-gitflowreleasepublishcurrent
-psfunction_invoke-gitflowreleasestart
 psfunction_invoke-gitgui
 psfunction_invoke-githubapi
 psfunction_invoke-githubapi-bodyempty
@@ -8049,9 +7968,6 @@ psfunction_use-gitbranchmain
 psfunction_use-gitbranchnew
 psfunction_use-gitbranchprevious
 psfunction_use-gitbranchtracked
-psfunction_use-gitflowbranchdevelop
-psfunction_use-gitflowbranchhotfix
-psfunction_use-gitflowbranchrelease
 psfunction_use-gitstashentry
 psfunction_uuidl
 psfunction_uuidu
@@ -8239,6 +8155,7 @@ qrp
 qrs
 quality
 qualys
+quandl
 quantum
 quarantine
 queries
@@ -8395,7 +8312,6 @@ registrar
 registration
 registry
 regression
-regular-expression
 regularexpression
 regularexpressions
 reinstall
@@ -8417,7 +8333,6 @@ remote
 remote-desktop
 remote'
 remoteadmin
-remotecert
 remoteconnection
 remoteconnectionsmanager
 remotecontrol
@@ -8610,7 +8525,6 @@ runbooks
 runbookstudio
 runcommand
 rundeck
-runner
 runspace
 runspacepool
 runspaces
@@ -8636,7 +8550,6 @@ safeguard
 sage
 saggiehaim
 sailpoint
-sale
 sales
 salesforce
 salesloft
@@ -8733,8 +8646,6 @@ screensaver
 screenshot
 script
 script_version
-script-to-assembly
-script-to-executable
 scriptanalyzer
 scriptblock
 scriptblocklogging
@@ -8745,7 +8656,6 @@ scriptcs
 scriptedui
 scripting
 scriptlogging
-scriptoform
 scriptrunner
 scripts
 scriptsmonitoring
@@ -8777,6 +8687,7 @@ secretmanagement
 secretmanagementextension
 secrets
 secretsanta
+secretscanner
 secretserver
 secretsmanager
 secretvault
@@ -8821,7 +8732,6 @@ select-kubecontext
 select-kubenamespace
 select-string
 selection
-selectxmlinfo
 selenium
 self
 self-hosted
@@ -8839,7 +8749,6 @@ senateur
 send
 send-logtologanalytics
 send-mailmessage
-send-message
 senderid
 sendgrid
 sendkeys
@@ -9423,7 +9332,6 @@ swagger
 swamid
 swarm
 swedish
-swimlane
 swis
 switch
 sxs
@@ -9589,7 +9497,6 @@ tesla
 test
 test-automation
 test-dscconfiguration
-test-internetconnection
 test-modulepath
 test-osplatform
 test-psremoting
@@ -9776,6 +9683,7 @@ trouw
 true-color
 truecrypt
 truenas
+trumethods
 truportal
 trusted
 trusted-host
@@ -9883,7 +9791,6 @@ ud-timeline
 ud-timeout
 ud-tool
 ud-toploader
-ud-trendline
 ud-typing
 ud-window
 ud-wordtree
@@ -10222,6 +10129,7 @@ vum
 vvx
 vxrail
 w32time
+w365
 w3svc
 w3w
 waa
@@ -10329,7 +10237,6 @@ wia
 wia.imagefile
 wid
 widedata
-wif
 wifi
 wiki
 wildcard
@@ -10593,7 +10500,6 @@ yandex
 yapg
 yarn
 yetanotherhelloworld
-yml
 ynab
 youtube
 youtube-dl
