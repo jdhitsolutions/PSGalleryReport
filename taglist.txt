@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 30 October 2023 02:03:26 UTC
+Updated: Monday, 30 October 2023 09:53:10 UTC
 
 .bat
 .env
@@ -602,7 +602,6 @@ azd
 azdisk
 azdo
 azereo
-azforensics
 azkeyvault
 aznetworking
 aznetworkinterface
@@ -627,7 +626,6 @@ azure-backup
 azure-cli
 azure-data-explorer
 azure-devops
-azure-forensics
 azure-functions
 azure-pipelines
 azure-resource-graph
@@ -680,7 +678,6 @@ azurerm
 azurerms
 azurerunasconnection
 azuresearch
-azuresearcher
 azuresecuritycenter
 azureservicebus
 azuresigntool
@@ -1180,7 +1177,6 @@ cloudbridge
 cloudendure
 cloudevents
 cloudflare
-cloudforensics
 cloudformation
 cloudfoundation
 cloudfront
@@ -1192,7 +1188,6 @@ cloudiq
 cloudkey
 cloudmarque
 cloudmigrations
-cloudpc
 cloudservice
 cloudshell
 clueser
@@ -1261,7 +1256,6 @@ color-show
 colored
 colorful
 colorized
-colorpicker
 colors
 colour
 column
@@ -1717,6 +1711,7 @@ debugger
 debugging
 decimal
 decimalip
+decimalzero
 declarative
 decline
 decode
@@ -1830,7 +1825,6 @@ difference
 dig
 digikam
 digital
-digital-forensics
 digitalforensics
 digitalocean
 digitaltwins
@@ -1863,6 +1857,7 @@ disasterrecovery
 disconnect
 discord
 discordrpc
+discount
 discover
 discovery
 discutils
@@ -1921,6 +1916,7 @@ dnsclient
 dnsdumpster
 dnsentry
 dnsimple
+dnslookup
 dnsmadeeasy
 dnsoverhttps
 dnsrecord
@@ -2083,6 +2079,7 @@ dynamicsnav
 dynamodb
 dynatrace
 dynatraceobservability
+dz
 e-mail
 e1
 easy
@@ -2091,6 +2088,7 @@ easylife365
 easyvista
 eaton
 ebay
+ebooks
 ebur128
 ec2
 ecommerce
@@ -2343,6 +2341,7 @@ export
 export-cmhealthreport
 export-data
 export-passlist
+exportcertificate
 exportcertificates
 exporter
 exportexcel
@@ -2662,13 +2661,14 @@ generate
 generate-dockerimagevariants
 generate-password
 generate-random-password
+generateaddress
 generates
+generatewif
 generation
 generator
 generic
 genericartifactscontent
 genetic-algorithm
-genp
 genxdev
 geo
 geocache
@@ -2731,6 +2731,7 @@ gist
 git
 git-client
 git-clone
+git-flow
 git-hf
 git-hubflow
 git-lfs
@@ -3270,6 +3271,7 @@ interface
 interlogix
 internet
 internet-explorer
+internetconnection
 internetexplorer
 intersight
 intersightcmdlets
@@ -3424,8 +3426,6 @@ jsm.insight
 json
 json-converter
 json-transform
-json+
-jsonplus
 jsonwebkey
 jsonwebsignature
 jsonwebtoken
@@ -3542,6 +3542,7 @@ lake
 lambda
 lame
 lametrictime
+lamp
 lan
 landingzones
 language
@@ -4111,6 +4112,7 @@ msexchange
 msftnet
 msftnetworking
 msg
+msg.exe
 msgbox
 msgraph
 msgraphapi
@@ -4916,6 +4918,7 @@ poshy-wrap-forgit
 poshy-wrap-gem
 poshy-wrap-gh
 poshy-wrap-git
+poshy-wrap-git-flow
 poshy-wrap-git-hf
 poshy-wrap-git-lfs
 poshy-wrap-golang
@@ -5021,7 +5024,6 @@ powershelltemplate
 powershelltraining
 powershelltypeaccelerators
 powershelluniversal
-powershellv5
 powerstig
 powerstore
 powertab
@@ -5538,10 +5540,12 @@ pscommand_gcamg
 pscommand_gcams
 pscommand_gcamu
 pscommand_gcb
+pscommand_gcd
 pscommand_gcem
 pscommand_gcf
 pscommand_gcfl
 pscommand_gcfls
+pscommand_gch
 pscommand_gci
 pscommand_gcl
 pscommand_gclcd
@@ -5564,6 +5568,7 @@ pscommand_gcp
 pscommand_gcpa
 pscommand_gcpc
 pscommand_gcpx
+pscommand_gcr
 pscommand_gcsam
 pscommand_gct
 pscommand_gd
@@ -5658,6 +5663,27 @@ pscommand_geun
 pscommand_gexport
 pscommand_gf
 pscommand_gfa
+pscommand_gfl
+pscommand_gflf
+pscommand_gflff
+pscommand_gflffc
+pscommand_gflfp
+pscommand_gflfpc
+pscommand_gflfpll
+pscommand_gflfs
+pscommand_gflh
+pscommand_gflhf
+pscommand_gflhfc
+pscommand_gflhp
+pscommand_gflhpc
+pscommand_gflhs
+pscommand_gfli
+pscommand_gflr
+pscommand_gflrf
+pscommand_gflrfc
+pscommand_gflrp
+pscommand_gflrpc
+pscommand_gflrs
 pscommand_gfo
 pscommand_gft
 pscommand_gftv
@@ -5941,6 +5967,27 @@ pscommand_invoke-gitconfig
 pscommand_invoke-gitdifftool
 pscommand_invoke-gitfetch
 pscommand_invoke-gitfetchorigin
+pscommand_invoke-gitflow
+pscommand_invoke-gitflowfeature
+pscommand_invoke-gitflowfeaturefinish
+pscommand_invoke-gitflowfeaturefinishcurrent
+pscommand_invoke-gitflowfeaturepublish
+pscommand_invoke-gitflowfeaturepublishcurrent
+pscommand_invoke-gitflowfeaturepull
+pscommand_invoke-gitflowfeaturestart
+pscommand_invoke-gitflowhotfix
+pscommand_invoke-gitflowhotfixfinish
+pscommand_invoke-gitflowhotfixfinishcurrent
+pscommand_invoke-gitflowhotfixpublish
+pscommand_invoke-gitflowhotfixpublishcurrent
+pscommand_invoke-gitflowhotfixstart
+pscommand_invoke-gitflowinit
+pscommand_invoke-gitflowrelease
+pscommand_invoke-gitflowreleasefinish
+pscommand_invoke-gitflowreleasefinishcurrent
+pscommand_invoke-gitflowreleasepublish
+pscommand_invoke-gitflowreleasepublishcurrent
+pscommand_invoke-gitflowreleasestart
 pscommand_invoke-gitgui
 pscommand_invoke-githubapi
 pscommand_invoke-githubapi-bodyempty
@@ -6807,6 +6854,9 @@ pscommand_use-gitbranchmain
 pscommand_use-gitbranchnew
 pscommand_use-gitbranchprevious
 pscommand_use-gitbranchtracked
+pscommand_use-gitflowbranchdevelop
+pscommand_use-gitflowbranchhotfix
+pscommand_use-gitflowbranchrelease
 pscommand_use-gitstashentry
 pscommand_uuid
 pscommand_uuidgen
@@ -7334,6 +7384,27 @@ psfunction_invoke-gitconfig
 psfunction_invoke-gitdifftool
 psfunction_invoke-gitfetch
 psfunction_invoke-gitfetchorigin
+psfunction_invoke-gitflow
+psfunction_invoke-gitflowfeature
+psfunction_invoke-gitflowfeaturefinish
+psfunction_invoke-gitflowfeaturefinishcurrent
+psfunction_invoke-gitflowfeaturepublish
+psfunction_invoke-gitflowfeaturepublishcurrent
+psfunction_invoke-gitflowfeaturepull
+psfunction_invoke-gitflowfeaturestart
+psfunction_invoke-gitflowhotfix
+psfunction_invoke-gitflowhotfixfinish
+psfunction_invoke-gitflowhotfixfinishcurrent
+psfunction_invoke-gitflowhotfixpublish
+psfunction_invoke-gitflowhotfixpublishcurrent
+psfunction_invoke-gitflowhotfixstart
+psfunction_invoke-gitflowinit
+psfunction_invoke-gitflowrelease
+psfunction_invoke-gitflowreleasefinish
+psfunction_invoke-gitflowreleasefinishcurrent
+psfunction_invoke-gitflowreleasepublish
+psfunction_invoke-gitflowreleasepublishcurrent
+psfunction_invoke-gitflowreleasestart
 psfunction_invoke-gitgui
 psfunction_invoke-githubapi
 psfunction_invoke-githubapi-bodyempty
@@ -7968,6 +8039,9 @@ psfunction_use-gitbranchmain
 psfunction_use-gitbranchnew
 psfunction_use-gitbranchprevious
 psfunction_use-gitbranchtracked
+psfunction_use-gitflowbranchdevelop
+psfunction_use-gitflowbranchhotfix
+psfunction_use-gitflowbranchrelease
 psfunction_use-gitstashentry
 psfunction_uuidl
 psfunction_uuidu
@@ -8312,6 +8386,7 @@ registrar
 registration
 registry
 regression
+regular-expression
 regularexpression
 regularexpressions
 reinstall
@@ -8333,6 +8408,7 @@ remote
 remote-desktop
 remote'
 remoteadmin
+remotecert
 remoteconnection
 remoteconnectionsmanager
 remotecontrol
@@ -8525,6 +8601,7 @@ runbooks
 runbookstudio
 runcommand
 rundeck
+runner
 runspace
 runspacepool
 runspaces
@@ -8550,6 +8627,7 @@ safeguard
 sage
 saggiehaim
 sailpoint
+sale
 sales
 salesforce
 salesloft
@@ -8646,6 +8724,8 @@ screensaver
 screenshot
 script
 script_version
+script-to-assembly
+script-to-executable
 scriptanalyzer
 scriptblock
 scriptblocklogging
@@ -8656,6 +8736,7 @@ scriptcs
 scriptedui
 scripting
 scriptlogging
+scriptoform
 scriptrunner
 scripts
 scriptsmonitoring
@@ -8732,6 +8813,7 @@ select-kubecontext
 select-kubenamespace
 select-string
 selection
+selectxmlinfo
 selenium
 self
 self-hosted
@@ -8749,6 +8831,7 @@ senateur
 send
 send-logtologanalytics
 send-mailmessage
+send-message
 senderid
 sendgrid
 sendkeys
@@ -9497,6 +9580,7 @@ tesla
 test
 test-automation
 test-dscconfiguration
+test-internetconnection
 test-modulepath
 test-osplatform
 test-psremoting
@@ -9554,8 +9638,6 @@ threadjob
 threads
 threadsanitizer
 threat
-threat-hunting
-threathunting
 threatintelligence
 throttle
 thumbprint
@@ -9791,6 +9873,7 @@ ud-timeline
 ud-timeout
 ud-tool
 ud-toploader
+ud-trendline
 ud-typing
 ud-window
 ud-wordtree
@@ -9824,7 +9907,6 @@ unicode
 unidesk
 unifi
 unified
-unifiedauditlog
 unifiedlabeling
 uninstall
 uninstaller
@@ -10129,7 +10211,6 @@ vum
 vvx
 vxrail
 w32time
-w365
 w3svc
 w3w
 waa
@@ -10237,6 +10318,7 @@ wia
 wia.imagefile
 wid
 widedata
+wif
 wifi
 wiki
 wildcard
