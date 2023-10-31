@@ -3,6 +3,92 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [Pode](https://www.powershellgallery.com/Packages/Pode/2.9.0) | 2.9.0
+
+### Published: 10/30/2023 23:23:28 by Matthew Kelly (Badgerati)
+
+A Cross-Platform PowerShell framework for creating web servers to host REST APIs and Websites. Pode also has support for being used in Azure Functions and AWS Lambda.
+
+__Downloads__: 104,858 | __Repository__: https://github.com/Badgerati/Pode
+
+## [GitHub](https://www.powershellgallery.com/Packages/GitHub/0.3.48) | 0.3.48
+
+### Published: 10/30/2023 22:10:07 by PSModule
+
+GitHub PowerShell Module
+
+__Downloads__: 2,448 | __Repository__: https://github.com/PSModule/GitHub
+
+## [Logic.Monitor](https://www.powershellgallery.com/Packages/Logic.Monitor/4.5.6) | 4.5.6
+
+### Published: 10/30/2023 21:19:41 by Steven Villardi
+
+PowerShell module to query the Logic Monitor API. This is a personal project and is not an offically supported LogicMonitor integration.
+
+__Downloads__: 2,708 | __Repository__: https://github.com/stevevillardi/Logic.Monitor
+
+## [DevolutionsGateway](https://www.powershellgallery.com/Packages/DevolutionsGateway/2023.3.0) | 2023.3.0
+
+### Published: 10/30/2023 21:17:35 by Devolutions
+
+Devolutions Gateway PowerShell Module
+
+__Downloads__: 1,157 | __Repository__: https://github.com/Devolutions/devolutions-gateway/tree/master/powershell/
+
+## [PSModule.FX](https://www.powershellgallery.com/Packages/PSModule.FX/0.0.178) | 0.0.178
+
+### Published: 10/30/2023 20:30:27 by PSModule
+
+PSModule Framework PowerShell Module
+
+__Downloads__: 1,051 | __Repository__: https://github.com/PSModule/PSModule.FX
+
+## [MeasureRows](https://www.powershellgallery.com/Packages/MeasureRows/0.9.1) | 0.9.1
+
+### Published: 10/30/2023 20:12:44 by florian.von.bracht@apteco.de
+
+Apteco PS Modules - PowerShell file rows count
+
+Just use
+
+Measure-Rows -Path "C:\Temp\Example.csv"
+
+or
+
+"C:\Temp\Example.csv" | Measure-Rows -SkipFirstRow
+
+or
+
+Measure-Rows -Path "C:\Temp\Example.csv" -Encoding UTF8
+
+or even
+
+"C:\Users\Florian\Downloads\adressen.csv", "C:\Users\Florian\Downloads\italian.csv" | Measure-Rows -SkipFirstRow -Encoding ([System.Text.Encoding]::UTF8)
+
+to count the rows in a csv file. It uses a .NET streamreader and is extremly fast.
+
+The default encoding is UTF8, but it uses the ones available in [System.Text.Encoding]
+
+If you want to skip the first line, just use this Switch -SkipFirstRow
+
+__Downloads__: 49 | __Repository__: https://github.com/Apteco/AptecoPSModules/tree/main/MeasureRows
+
+## [PoshFunctions](https://www.powershellgallery.com/Packages/PoshFunctions/2.2.10) | 2.2.10
+
+### Published: 10/30/2023 19:09:18 by Bill Riedy
+
+A curated collection of over 225 PowerShell functions. Many functions written by me. Others are attributed wherever possible.
+
+__Downloads__: 8,859 | __Repository__: https://github.com/riedyw/PoshFunctions
+
+## [Universal](https://www.powershellgallery.com/Packages/Universal/4.1.8) | 4.1.8
+
+### Published: 10/30/2023 18:22:07 by Ironman Software
+
+Module for PowerShell Universal.
+
+__Downloads__: 49,863 | __Repository__: https://ironmansoftware.com/powershell-universal
+
 ## [FinancialPackage.PowershellGalleryModule](https://www.powershellgallery.com/Packages/FinancialPackage.PowershellGalleryModule/1.0.3) | 1.0.3
 
 ### Published: 10/30/2023 17:49:45 by FastTrack In-Product Experiences Team
@@ -17,7 +103,7 @@ __Downloads__: 17 | __Repository__:
 
 A module containing helper functions for common tasks involving Azure AD and M365
 
-__Downloads__: 67 | __Repository__: 
+__Downloads__: 69 | __Repository__: 
 
 ## [verkadaModule](https://www.powershellgallery.com/Packages/verkadaModule/0.6.2) | 0.6.2
 
@@ -41,7 +127,7 @@ __Downloads__: 24,085 | __Repository__: https://github.com/UsefulScripts01/HPDri
 
 Mandatory module for the foundation PowerShell scripts.
 
-__Downloads__: 16,038 | __Repository__: 
+__Downloads__: 16,037 | __Repository__: 
 
 ## [AppVeyorTestPsGallery](https://www.powershellgallery.com/Packages/AppVeyorTestPsGallery/1.0.530) | 1.0.530
 
@@ -49,7 +135,7 @@ __Downloads__: 16,038 | __Repository__:
 
 The test module to verify publishing to PSGallery from AppVeyor.
 
-__Downloads__: 40,123 | __Repository__: 
+__Downloads__: 40,124 | __Repository__: 
 
 ## [TMK-CoreModules](https://www.powershellgallery.com/Packages/TMK-CoreModules/1.7.6) | 1.7.6
 
@@ -115,6 +201,14 @@ Automation command to script interaction with SOLARWINDs ServU File Transfer Ser
 
 __Downloads__: 583 | __Repository__: https://github.com/mraming/PSServ-U
 
+## [MyITProcessAPI](https://www.powershellgallery.com/Packages/MyITProcessAPI/2.0.0) | 2.0.0
+
+### Published: 10/29/2023 23:10:49 by David Schulte
+
+This module provides a PowerShell wrapper for the MyITProcess API.
+
+__Downloads__: 65 | __Repository__: https://github.com/Celerium/MyITProcess-PowerShellWrapper
+
 ## [better-ls](https://www.powershellgallery.com/Packages/better-ls/0.0.2) | 0.0.2
 
 ### Published: 10/29/2023 21:01:49 by RodEsp
@@ -123,14 +217,6 @@ A simple replacement for Get-ChildItem with better ordering and formatting
 
 __Downloads__: 2 | __Repository__: 
 
-## [GitHub](https://www.powershellgallery.com/Packages/GitHub/0.3.41) | 0.3.41
-
-### Published: 10/29/2023 20:45:01 by PSModule
-
-GitHub PowerShell Module
-
-__Downloads__: 2,448 | __Repository__: https://github.com/PSModule/GitHub
-
 ## [finetuna](https://www.powershellgallery.com/Packages/finetuna/1.0.3) | 1.0.3
 
 ### Published: 10/29/2023 19:54:15 by Chrissy LeMaire
@@ -138,14 +224,6 @@ __Downloads__: 2,448 | __Repository__: https://github.com/PSModule/GitHub
 OpenAI Fine Tuner
 
 __Downloads__: 38 | __Repository__: https://github.com/potatoqualitee/finetuna
-
-## [PSModule.FX](https://www.powershellgallery.com/Packages/PSModule.FX/0.0.177) | 0.0.177
-
-### Published: 10/29/2023 19:09:22 by PSModule
-
-PSModule Framework PowerShell Module
-
-__Downloads__: 1,051 | __Repository__: https://github.com/PSModule/PSModule.FX
 
 ## [WilmaPSWorker](https://www.powershellgallery.com/Packages/WilmaPSWorker/0.3.141) | 0.3.141
 
@@ -217,7 +295,7 @@ __Downloads__: 521 | __Repository__: https://github.com/lahell/PSCortex
 
 Module covering functions that are shared within multiple projects
 
-__Downloads__: 236,527 | __Repository__: https://github.com/EvotecIT/PSSharedGoods
+__Downloads__: 236,526 | __Repository__: https://github.com/EvotecIT/PSSharedGoods
 
 ## [tiPS](https://www.powershellgallery.com/Packages/tiPS/1.0.9) | 1.0.9
 
@@ -242,6 +320,22 @@ __Downloads__: 13 | __Repository__: https://github.com/hematic/psBlackberryUEM
 Powershell Crescendo limited wrapper for minizinc
 
 __Downloads__: 11 | __Repository__: 
+
+## [AksHci](https://www.powershellgallery.com/Packages/AksHci/1.1.92) | 1.1.92
+
+### Published: 10/28/2023 05:23:07 by nwood
+
+AKS HCI Module
+
+__Downloads__: 578,182 | __Repository__: 
+
+## [Moc](https://www.powershellgallery.com/Packages/Moc/1.0.74) | 1.0.74
+
+### Published: 10/28/2023 05:22:16 by nwood
+
+MOC Module
+
+__Downloads__: 756,345 | __Repository__: 
 
 ## [PSBusinessPlusERP](https://www.powershellgallery.com/Packages/PSBusinessPlusERP/0.1.1) | 0.1.1
 
@@ -365,6 +459,14 @@ A PowerShell module that derives from personal scenarios, can help users configu
 
 __Downloads__: 142 | __Repository__: https://github.com/Zhaopudark/PSComputerManagementZp
 
+## [which-command-GPT](https://www.powershellgallery.com/Packages/which-command-GPT/0.0.2) | 0.0.2
+
+### Published: 10/27/2023 14:40:05 by Jaswir Raghoe
+
+Answers which command will fulfill your request
+
+__Downloads__: 6 | __Repository__: https://jaswirraghoe.blogspot.com/2023/10/which-command-gpt.html
+
 ## [FpsBcDeployment](https://www.powershellgallery.com/Packages/FpsBcDeployment/1.0.23300.1) | 1.0.23300.1
 
 ### Published: 10/27/2023 14:11:07 by rdannenberg
@@ -412,7 +514,7 @@ Multiple functions to convert strings, e.g. to change the encoding or to hash a 
 
 Please have a look at the help of the functions for more information or the github repository
 
-__Downloads__: 26 | __Repository__: https://github.com/Apteco/AptecoPSModules/tree/main/ConvertStrings
+__Downloads__: 27 | __Repository__: https://github.com/Apteco/AptecoPSModules/tree/main/ConvertStrings
 
 ## [DCToolbox](https://www.powershellgallery.com/Packages/DCToolbox/2.0.11) | 2.0.11
 
@@ -420,7 +522,7 @@ __Downloads__: 26 | __Repository__: https://github.com/Apteco/AptecoPSModules/tr
 
 A PowerShell toolbox for Microsoft 365 security fans.
 
-__Downloads__: 20,634 | __Repository__: https://github.com/DanielChronlund/DCToolbox
+__Downloads__: 20,633 | __Repository__: https://github.com/DanielChronlund/DCToolbox
 
 ## [DSCR_AppxPackage](https://www.powershellgallery.com/Packages/DSCR_AppxPackage/0.4.0) | 0.4.0
 
@@ -429,14 +531,6 @@ __Downloads__: 20,634 | __Repository__: https://github.com/DanielChronlund/DCToo
 PowerShell DSC Resource to manage UWP App Packages
 
 __Downloads__: 5,709 | __Repository__: https://github.com/mkht/DSCR_AppxPackage
-
-## [Logic.Monitor](https://www.powershellgallery.com/Packages/Logic.Monitor/4.5.5) | 4.5.5
-
-### Published: 10/27/2023 05:12:13 by Steven Villardi
-
-PowerShell module to query the Logic Monitor API. This is a personal project and is not an offically supported LogicMonitor integration.
-
-__Downloads__: 2,710 | __Repository__: https://github.com/stevevillardi/Logic.Monitor
 
 ## [pwps_dab](https://www.powershellgallery.com/Packages/pwps_dab/23.3.2) | 23.3.2
 
@@ -468,7 +562,7 @@ __Downloads__: 194 | __Repository__: https://github.com/MartinGC94/UsefulArgumen
 
 Module which allows ftp, ftps, sftp file transfers with advanced features. It also allows to transfer files and directorires between servers using fxp protocol. As a side feature it allows to conenct to SSH and executes commands on it.
 
-__Downloads__: 332,607 | __Repository__: https://github.com/EvotecIT/Transferetto
+__Downloads__: 332,608 | __Repository__: https://github.com/EvotecIT/Transferetto
 
 ## [sdp](https://www.powershellgallery.com/Packages/sdp/1.2.5) | 1.2.5
 
@@ -540,7 +634,7 @@ __Downloads__: 59 | __Repository__: https://github.com/JeshuaEdgar/msp-toolbox
 
 This module will make it easier to use the Datto RMM API in your PowerShell scripts. As all the hard work is done, you can develop your scripts faster and be more efficient. There is no need to go through a big learning curve spending lots of time working out how to use the Datto RMM API. Simply load the module, enter your API keys and get results within minutes!
 
-__Downloads__: 115,969 | __Repository__: https://github.com/aaronengels/DattoRMM
+__Downloads__: 115,970 | __Repository__: https://github.com/aaronengels/DattoRMM
 
 ## [RubrikSecurityCloud](https://www.powershellgallery.com/Packages/RubrikSecurityCloud/0.17.0) | 0.17.0
 
@@ -604,7 +698,7 @@ __Downloads__: 111 | __Repository__:
 
 Main module used to import all individual iDRAC Redfish modules listed in the Powershell gallery. For more details and examples for each module, execute get-help on the specific module.
 
-__Downloads__: 1,707 | __Repository__: 
+__Downloads__: 1,708 | __Repository__: 
 
 ## [PSDataverse](https://www.powershellgallery.com/Packages/PSDataverse/0.0.8) | 0.0.8
 
@@ -628,7 +722,7 @@ __Downloads__: 84 | __Repository__: https://github.com/SCOMnewbie/PSMSALNet
 
 The Devolutions.PowerShell module is a set of cmdlets that allow administrators to manage Remote Desktop Manager, Devolutions Server and Devolutions Hub Business using PowerShell. This module provides a simple and consistent interface for interacting with these products, making it easy to automate various tasks, such as creating and managing connections, sessions, and credentials, configuring security settings, and generating reports. The module can be easily integrated with other PowerShell modules, allowing administrators to automate tasks across multiple products and platforms, streamline their workflows and increase efficiency.
 
-__Downloads__: 6,973 | __Repository__: 
+__Downloads__: 6,971 | __Repository__: 
 
 ## [Intune-App-Sandbox](https://www.powershellgallery.com/Packages/Intune-App-Sandbox/1.3.2) | 1.3.2
 
@@ -1063,6 +1157,14 @@ This modules provides Cmdlets for OCI Mysql Service
 
 __Downloads__: 16,676 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
+## [OCI.PSModules.Monitoring](https://www.powershellgallery.com/Packages/OCI.PSModules.Monitoring/69.0.0) | 69.0.0
+
+### Published: 10/24/2023 18:16:22 by Oracle Cloud Infrastructure
+
+This modules provides Cmdlets for OCI Monitoring Service
+
+__Downloads__: 3,980 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+
 ## [OCI.PSModules.Mediaservices](https://www.powershellgallery.com/Packages/OCI.PSModules.Mediaservices/69.0.0) | 69.0.0
 
 ### Published: 10/24/2023 18:16:14 by Oracle Cloud Infrastructure
@@ -1278,14 +1380,6 @@ __Downloads__: 560 | __Repository__: https://github.com/oracle/oci-powershell-mo
 This modules provides Cmdlets for OCI Filestorage Service
 
 __Downloads__: 6,754 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Events](https://www.powershellgallery.com/Packages/OCI.PSModules.Events/69.0.0) | 69.0.0
-
-### Published: 10/24/2023 18:12:38 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Events Service
-
-__Downloads__: 3,980 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
 ## [OCI.PSModules.Emwarehouse](https://www.powershellgallery.com/Packages/OCI.PSModules.Emwarehouse/69.0.0) | 69.0.0
 
@@ -1873,7 +1967,7 @@ __Downloads__: 479 | __Repository__: https://migrate.rivermeadow.com/
 
 Adds functionality for working with Azure DevOps and Team Foundation Server.
 
-__Downloads__: 1,710,033 | __Repository__: https://github.com/MethodsAndPractices/vsteam
+__Downloads__: 1,710,038 | __Repository__: https://github.com/MethodsAndPractices/vsteam
 
 ## [VMware.Sdk.vSphere.Content](https://www.powershellgallery.com/Packages/VMware.Sdk.vSphere.Content/8.0.1669.22649494) | 8.0.1669.22649494
 
@@ -1881,7 +1975,7 @@ __Downloads__: 1,710,033 | __Repository__: https://github.com/MethodsAndPractice
 
 This PowerShell module contains PowerShell Advanced functions for VMware.Sdk.vSphere.Content.
 
-__Downloads__: 2,415,481 | __Repository__: 
+__Downloads__: 2,415,463 | __Repository__: 
 
 ## [VMware.Sdk.vSphere.Appliance.System](https://www.powershellgallery.com/Packages/VMware.Sdk.vSphere.Appliance.System/8.0.1669.22649494) | 8.0.1669.22649494
 
@@ -1889,7 +1983,7 @@ __Downloads__: 2,415,481 | __Repository__:
 
 This PowerShell module contains PowerShell Advanced functions for VMware.Sdk.vSphere.Appliance.System.
 
-__Downloads__: 2,410,579 | __Repository__: 
+__Downloads__: 2,410,561 | __Repository__: 
 
 ## [VMware.Sdk.vSphere.Appliance.Update](https://www.powershellgallery.com/Packages/VMware.Sdk.vSphere.Appliance.Update/8.0.1669.22649494) | 8.0.1669.22649494
 
@@ -1897,7 +1991,7 @@ __Downloads__: 2,410,579 | __Repository__:
 
 This PowerShell module contains PowerShell Advanced functions for VMware.Sdk.vSphere.Appliance.Update.
 
-__Downloads__: 2,407,715 | __Repository__: 
+__Downloads__: 2,407,697 | __Repository__: 
 
 ## [VMware.Sdk.vSphere.Cis](https://www.powershellgallery.com/Packages/VMware.Sdk.vSphere.Cis/8.0.1669.22649494) | 8.0.1669.22649494
 
@@ -1905,7 +1999,7 @@ __Downloads__: 2,407,715 | __Repository__:
 
 This PowerShell module contains PowerShell Advanced functions for VMware.Sdk.vSphere.Cis.
 
-__Downloads__: 2,406,744 | __Repository__: 
+__Downloads__: 2,406,722 | __Repository__: 
 
 ## [VMware.Sdk.vSphere.Cis.Tagging](https://www.powershellgallery.com/Packages/VMware.Sdk.vSphere.Cis.Tagging/8.0.1669.22649494) | 8.0.1669.22649494
 
@@ -1913,7 +2007,7 @@ __Downloads__: 2,406,744 | __Repository__:
 
 This PowerShell module contains PowerShell Advanced functions for VMware.Sdk.vSphere.Cis.Tagging.
 
-__Downloads__: 2,405,984 | __Repository__: 
+__Downloads__: 2,405,962 | __Repository__: 
 
 ## [VMware.Sdk.vSphere.Esx.Hcl](https://www.powershellgallery.com/Packages/VMware.Sdk.vSphere.Esx.Hcl/8.0.1669.22649494) | 8.0.1669.22649494
 
@@ -1921,7 +2015,7 @@ __Downloads__: 2,405,984 | __Repository__:
 
 This PowerShell module contains PowerShell Advanced functions for VMware.Sdk.vSphere.Esx.Hcl.
 
-__Downloads__: 2,399,521 | __Repository__: 
+__Downloads__: 2,399,503 | __Repository__: 
 
 ## [VMware.Sdk.vSphere.ContentLibrary](https://www.powershellgallery.com/Packages/VMware.Sdk.vSphere.ContentLibrary/8.0.1669.22649494) | 8.0.1669.22649494
 
@@ -1929,7 +2023,7 @@ __Downloads__: 2,399,521 | __Repository__:
 
 This PowerShell module contains PowerShell Advanced functions for VMware.Sdk.vSphere.ContentLibrary.
 
-__Downloads__: 2,401,556 | __Repository__: 
+__Downloads__: 2,401,538 | __Repository__: 
 
 ## [VMware.Sdk.vSphere.Appliance.Recovery](https://www.powershellgallery.com/Packages/VMware.Sdk.vSphere.Appliance.Recovery/8.0.1669.22649494) | 8.0.1669.22649494
 
@@ -1937,7 +2031,7 @@ __Downloads__: 2,401,556 | __Repository__:
 
 This PowerShell module contains PowerShell Advanced functions for VMware.Sdk.vSphere.Appliance.Recovery.
 
-__Downloads__: 2,450,703 | __Repository__: 
+__Downloads__: 2,450,695 | __Repository__: 
 
 ## [VMware.Sdk.vSphere.Esx.Hosts](https://www.powershellgallery.com/Packages/VMware.Sdk.vSphere.Esx.Hosts/8.0.1669.22649494) | 8.0.1669.22649494
 
@@ -1945,7 +2039,7 @@ __Downloads__: 2,450,703 | __Repository__:
 
 This PowerShell module contains PowerShell Advanced functions for VMware.Sdk.vSphere.Esx.Hosts.
 
-__Downloads__: 2,398,370 | __Repository__: 
+__Downloads__: 2,398,352 | __Repository__: 
 
 ## [VMware.Sdk.vSphere.Esx.Settings](https://www.powershellgallery.com/Packages/VMware.Sdk.vSphere.Esx.Settings/8.0.1669.22649494) | 8.0.1669.22649494
 
@@ -1953,7 +2047,7 @@ __Downloads__: 2,398,370 | __Repository__:
 
 This PowerShell module contains PowerShell Advanced functions for VMware.Sdk.vSphere.Esx.Settings.
 
-__Downloads__: 2,397,952 | __Repository__: 
+__Downloads__: 2,397,934 | __Repository__: 
 
 ## [VMware.Sdk.vSphere.Appliance.SupportBundle](https://www.powershellgallery.com/Packages/VMware.Sdk.vSphere.Appliance.SupportBundle/8.0.1669.22649494) | 8.0.1669.22649494
 
@@ -1961,78 +2055,6 @@ __Downloads__: 2,397,952 | __Repository__:
 
 This PowerShell module contains PowerShell Advanced functions for VMware.Sdk.vSphere.Appliance.SupportBundle.
 
-__Downloads__: 2,412,922 | __Repository__: 
+__Downloads__: 2,412,904 | __Repository__: 
 
-## [VMware.Sdk.vSphere.Appliance.LocalAccounts](https://www.powershellgallery.com/Packages/VMware.Sdk.vSphere.Appliance.LocalAccounts/8.0.1669.22649494) | 8.0.1669.22649494
-
-### Published: 10/24/2023 07:22:27 by VMware
-
-This PowerShell module contains PowerShell Advanced functions for VMware.Sdk.vSphere.Appliance.LocalAccounts.
-
-__Downloads__: 2,425,076 | __Repository__: 
-
-## [VMware.Sdk.vSphere.Appliance.Networking](https://www.powershellgallery.com/Packages/VMware.Sdk.vSphere.Appliance.Networking/8.0.1669.22649494) | 8.0.1669.22649494
-
-### Published: 10/24/2023 07:22:19 by VMware
-
-This PowerShell module contains PowerShell Advanced functions for VMware.Sdk.vSphere.Appliance.Networking.
-
-__Downloads__: 2,420,550 | __Repository__: 
-
-## [VMware.Sdk.vSphere.Appliance.Logging](https://www.powershellgallery.com/Packages/VMware.Sdk.vSphere.Appliance.Logging/8.0.1669.22649494) | 8.0.1669.22649494
-
-### Published: 10/24/2023 07:22:11 by VMware
-
-This PowerShell module contains PowerShell Advanced functions for VMware.Sdk.vSphere.Appliance.Logging.
-
-__Downloads__: 2,422,813 | __Repository__: 
-
-## [VMware.Sdk.vSphere.Appliance.InfraProfile](https://www.powershellgallery.com/Packages/VMware.Sdk.vSphere.Appliance.InfraProfile/8.0.1669.22649494) | 8.0.1669.22649494
-
-### Published: 10/24/2023 07:22:04 by VMware
-
-This PowerShell module contains PowerShell Advanced functions for VMware.Sdk.vSphere.Appliance.InfraProfile.
-
-__Downloads__: 2,427,293 | __Repository__: 
-
-## [VMware.Sdk.vSphere.Appliance.Health](https://www.powershellgallery.com/Packages/VMware.Sdk.vSphere.Appliance.Health/8.0.1669.22649494) | 8.0.1669.22649494
-
-### Published: 10/24/2023 07:21:56 by VMware
-
-This PowerShell module contains PowerShell Advanced functions for VMware.Sdk.vSphere.Appliance.Health.
-
-__Downloads__: 2,429,815 | __Repository__: 
-
-## [VMware.Sdk.vSphere.Appliance.Access](https://www.powershellgallery.com/Packages/VMware.Sdk.vSphere.Appliance.Access/8.0.1669.22649494) | 8.0.1669.22649494
-
-### Published: 10/24/2023 07:21:49 by VMware
-
-This PowerShell module contains PowerShell Advanced functions for VMware.Sdk.vSphere.Appliance.Access.
-
-__Downloads__: 2,432,304 | __Repository__: 
-
-## [VMware.Sdk.vSphere.Appliance](https://www.powershellgallery.com/Packages/VMware.Sdk.vSphere.Appliance/8.0.1669.22649494) | 8.0.1669.22649494
-
-### Published: 10/24/2023 07:21:42 by VMware
-
-This PowerShell module contains PowerShell Advanced functions for VMware.Sdk.vSphere.Appliance.
-
-__Downloads__: 2,444,280 | __Repository__: 
-
-## [VMware.Sdk.vSphere.vCenter](https://www.powershellgallery.com/Packages/VMware.Sdk.vSphere.vCenter/8.0.1669.22649494) | 8.0.1669.22649494
-
-### Published: 10/24/2023 07:21:34 by VMware
-
-This PowerShell module contains PowerShell Advanced functions for VMware.Sdk.vSphere.vCenter.
-
-__Downloads__: 2,396,307 | __Repository__: 
-
-## [VMware.Sdk.vSphere.VAPI.Metadata](https://www.powershellgallery.com/Packages/VMware.Sdk.vSphere.VAPI.Metadata/8.0.1669.22649494) | 8.0.1669.22649494
-
-### Published: 10/24/2023 07:20:52 by VMware
-
-This PowerShell module contains PowerShell Advanced functions for VMware.Sdk.vSphere.VAPI.Metadata.
-
-__Downloads__: 2,396,789 | __Repository__: 
-
-*Updated: Monday, 30 October 2023 17:53:53 UTC*
+*Updated: Tuesday, 31 October 2023 02:03:59 UTC*
