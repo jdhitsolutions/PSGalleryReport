@@ -3,6 +3,30 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [spec.teamviewer.utilities](https://www.powershellgallery.com/Packages/spec.teamviewer.utilities/1.0.2) | 1.0.2
+
+### Published: 10/31/2023 09:30:00 by owen.heaume
+
+A module to help manage TeamViewer
+
+__Downloads__: 6 | __Repository__: 
+
+## [GitHub](https://www.powershellgallery.com/Packages/GitHub/0.3.51) | 0.3.51
+
+### Published: 10/31/2023 08:07:22 by PSModule
+
+GitHub PowerShell Module
+
+__Downloads__: 2,448 | __Repository__: https://github.com/PSModule/GitHub
+
+## [aztools](https://www.powershellgallery.com/Packages/aztools/1.0.3) | 1.0.3
+
+### Published: 10/31/2023 03:54:26 by Skatterbrainz
+
+Azure PowerShell Tools
+
+__Downloads__: 804 | __Repository__: https://github.com/Skatterbrainz/aztools
+
 ## [Pode](https://www.powershellgallery.com/Packages/Pode/2.9.0) | 2.9.0
 
 ### Published: 10/30/2023 23:23:28 by Matthew Kelly (Badgerati)
@@ -10,14 +34,6 @@ These are the latest 250 modules published to the [PowerShell Gallery](https://p
 A Cross-Platform PowerShell framework for creating web servers to host REST APIs and Websites. Pode also has support for being used in Azure Functions and AWS Lambda.
 
 __Downloads__: 104,858 | __Repository__: https://github.com/Badgerati/Pode
-
-## [GitHub](https://www.powershellgallery.com/Packages/GitHub/0.3.48) | 0.3.48
-
-### Published: 10/30/2023 22:10:07 by PSModule
-
-GitHub PowerShell Module
-
-__Downloads__: 2,448 | __Repository__: https://github.com/PSModule/GitHub
 
 ## [Logic.Monitor](https://www.powershellgallery.com/Packages/Logic.Monitor/4.5.6) | 4.5.6
 
@@ -119,7 +135,7 @@ __Downloads__: 152 | __Repository__: https://github.com/bepsoccer/verkadaModule
 
 Update all HP device drivers with a single command.
 
-__Downloads__: 24,085 | __Repository__: https://github.com/UsefulScripts01/HPDrivers
+__Downloads__: 24,084 | __Repository__: https://github.com/UsefulScripts01/HPDrivers
 
 ## [spec.base.utilities](https://www.powershellgallery.com/Packages/spec.base.utilities/1.1.8) | 1.1.8
 
@@ -159,7 +175,7 @@ __Downloads__: 8 | __Repository__: https://github.com/randriksen/MGNestedGroups
 
 Provides a set of functions to manage Win32 apps in Microsoft Endpoint Manager (Intune).
 
-__Downloads__: 73,876 | __Repository__: https://github.com/MSEndpointMgr/IntuneWin32App
+__Downloads__: 73,877 | __Repository__: https://github.com/MSEndpointMgr/IntuneWin32App
 
 ## [IntuneWin32Deployer](https://www.powershellgallery.com/Packages/IntuneWin32Deployer/0.1.0) | 0.1.0
 
@@ -287,7 +303,7 @@ __Downloads__: 73 | __Repository__: https://github.com/Celerium/RocketCyber-Powe
 
 Get endpoints, incidents and alerts from the Cortex XDR API
 
-__Downloads__: 521 | __Repository__: https://github.com/lahell/PSCortex
+__Downloads__: 522 | __Repository__: https://github.com/lahell/PSCortex
 
 ## [PSSharedGoods](https://www.powershellgallery.com/Packages/PSSharedGoods/0.0.267) | 0.0.267
 
@@ -407,7 +423,7 @@ __Downloads__: 3 | __Repository__:
 
 Dell OpenManage Enterprise PowerShell Module
 
-__Downloads__: 5,777 | __Repository__: https://github.com/dell/OpenManage-PowerShell-Modules
+__Downloads__: 5,778 | __Repository__: https://github.com/dell/OpenManage-PowerShell-Modules
 
 ## [PSGraphite](https://www.powershellgallery.com/Packages/PSGraphite/0.1.12) | 0.1.12
 
@@ -415,7 +431,7 @@ __Downloads__: 5,777 | __Repository__: https://github.com/dell/OpenManage-PowerS
 
 PowerShell module for publishing metrics to Graphite
 
-__Downloads__: 40,088 | __Repository__: https://github.com/stefanes/PSGraphite
+__Downloads__: 40,089 | __Repository__: https://github.com/stefanes/PSGraphite
 
 ## [pwsh-environment](https://www.powershellgallery.com/Packages/pwsh-environment/1.0.2) | 1.0.2
 
@@ -618,7 +634,7 @@ __Downloads__: 405 | __Repository__: https://github.com/ActiveDirectoryStructure
 
 Automation tools for production quality database deployment
 
-__Downloads__: 4,696,326 | __Repository__: https://www.red-gate.com/sca/productpage
+__Downloads__: 4,696,490 | __Repository__: https://www.red-gate.com/sca/productpage
 
 ## [MSPToolBox](https://www.powershellgallery.com/Packages/MSPToolBox/1.2.1) | 1.2.1
 
@@ -1381,6 +1397,14 @@ This modules provides Cmdlets for OCI Filestorage Service
 
 __Downloads__: 6,754 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
+## [OCI.PSModules.Events](https://www.powershellgallery.com/Packages/OCI.PSModules.Events/69.0.0) | 69.0.0
+
+### Published: 10/24/2023 18:12:38 by Oracle Cloud Infrastructure
+
+This modules provides Cmdlets for OCI Events Service
+
+__Downloads__: 3,980 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+
 ## [OCI.PSModules.Emwarehouse](https://www.powershellgallery.com/Packages/OCI.PSModules.Emwarehouse/69.0.0) | 69.0.0
 
 ### Published: 10/24/2023 18:12:28 by Oracle Cloud Infrastructure
@@ -1967,7 +1991,7 @@ __Downloads__: 479 | __Repository__: https://migrate.rivermeadow.com/
 
 Adds functionality for working with Azure DevOps and Team Foundation Server.
 
-__Downloads__: 1,710,038 | __Repository__: https://github.com/MethodsAndPractices/vsteam
+__Downloads__: 1,710,044 | __Repository__: https://github.com/MethodsAndPractices/vsteam
 
 ## [VMware.Sdk.vSphere.Content](https://www.powershellgallery.com/Packages/VMware.Sdk.vSphere.Content/8.0.1669.22649494) | 8.0.1669.22649494
 
@@ -2033,28 +2057,4 @@ This PowerShell module contains PowerShell Advanced functions for VMware.Sdk.vSp
 
 __Downloads__: 2,450,695 | __Repository__: 
 
-## [VMware.Sdk.vSphere.Esx.Hosts](https://www.powershellgallery.com/Packages/VMware.Sdk.vSphere.Esx.Hosts/8.0.1669.22649494) | 8.0.1669.22649494
-
-### Published: 10/24/2023 07:22:52 by VMware
-
-This PowerShell module contains PowerShell Advanced functions for VMware.Sdk.vSphere.Esx.Hosts.
-
-__Downloads__: 2,398,352 | __Repository__: 
-
-## [VMware.Sdk.vSphere.Esx.Settings](https://www.powershellgallery.com/Packages/VMware.Sdk.vSphere.Esx.Settings/8.0.1669.22649494) | 8.0.1669.22649494
-
-### Published: 10/24/2023 07:22:43 by VMware
-
-This PowerShell module contains PowerShell Advanced functions for VMware.Sdk.vSphere.Esx.Settings.
-
-__Downloads__: 2,397,934 | __Repository__: 
-
-## [VMware.Sdk.vSphere.Appliance.SupportBundle](https://www.powershellgallery.com/Packages/VMware.Sdk.vSphere.Appliance.SupportBundle/8.0.1669.22649494) | 8.0.1669.22649494
-
-### Published: 10/24/2023 07:22:34 by VMware
-
-This PowerShell module contains PowerShell Advanced functions for VMware.Sdk.vSphere.Appliance.SupportBundle.
-
-__Downloads__: 2,412,904 | __Repository__: 
-
-*Updated: Tuesday, 31 October 2023 02:03:59 UTC*
+*Updated: Tuesday, 31 October 2023 09:53:42 UTC*
