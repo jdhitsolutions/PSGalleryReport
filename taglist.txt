@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Tuesday, 31 October 2023 09:53:57 UTC
+Updated: Tuesday, 31 October 2023 17:52:44 UTC
 
 .bat
 .env
@@ -61,7 +61,6 @@ aadc
 aadconnect
 aadgraph
 aadrm
-aadsecurity
 aadsts
 aam
 aas
@@ -199,6 +198,7 @@ adr
 ads
 adsi
 adsite
+adsp
 adsync
 aduser
 aduseraccountlockout
@@ -259,7 +259,6 @@ albums
 alc
 alero
 alert
-alerting
 alertmail
 alertmanagement
 alerts
@@ -282,10 +281,8 @@ alphafs
 alpine
 alt3
 alter
-alteryx
 alwaysontop
 alwaysonvpn
-alz
 amateur
 amateur-data-interchange-format
 amateur-radio
@@ -401,6 +398,7 @@ appv
 appveyor
 appvolumes
 appx
+appxmanifest
 aprs
 aprs-is
 aprsis
@@ -499,6 +497,7 @@ atmosphere
 atom
 atp
 atrium
+att&ck
 attestation
 attila
 attribute
@@ -600,7 +599,6 @@ azcompute
 azd
 azdisk
 azdo
-azereo
 azforensics
 azkeyvault
 aznetworking
@@ -629,7 +627,6 @@ azure-devops
 azure-forensics
 azure-functions
 azure-pipelines
-azure-resource-graph
 azure-ssis
 azureactivedirectory
 azuread
@@ -776,6 +773,7 @@ bigquery
 bikeshed
 billing
 billingbenefits
+bimi
 bin
 bin-obj
 binary
@@ -865,7 +863,6 @@ brawlstars
 brazencloud
 bre
 breach
-break
 breakpoint
 brew
 brickset
@@ -890,6 +887,7 @@ btdf
 btm
 budget
 bugbounty
+bugzilla
 build
 build-log
 build-scripts
@@ -928,7 +926,6 @@ bytearray
 bzip2
 c#
 c++
-ca
 cache
 caf
 cal
@@ -963,7 +960,6 @@ cargo
 carousel
 carrier
 cartoon
-case
 cassandra
 cat
 cat-names
@@ -1369,7 +1365,6 @@ connectivity
 connectwise
 conservation
 console
-consoleguitools
 consolemenu
 consolemusic
 consumer
@@ -1504,6 +1499,7 @@ credentialstore
 credentialutility
 credit
 credman
+credmanager
 crescendo
 crescendobuilt
 cresendo
@@ -1611,6 +1607,7 @@ dacpac
 dacpackage
 dagger
 daily
+dane
 dangling
 dapr
 dare
@@ -1637,7 +1634,6 @@ databasemigration
 databases
 databasetools
 databooster
-databox
 databoxedge
 databricks
 datacatalog
@@ -1698,7 +1694,6 @@ dbcommand
 dbeaver
 dbfs
 dbnull
-dbops
 dbup
 dbwebapi
 dc
@@ -1713,6 +1708,7 @@ debugger
 debugging
 decimal
 decimalip
+decimalzero
 declarative
 decline
 decode
@@ -1760,6 +1756,7 @@ dependencies
 dependency
 deploy
 deployment
+deploymentconfig
 deploymentmanager
 deploymentresourceprovider
 depute
@@ -1830,7 +1827,6 @@ digitalforensics
 digitalocean
 digitaltwins
 dilbert
-dimcry
 dircolors
 director
 directories
@@ -1917,10 +1913,12 @@ dnsclient
 dnsdumpster
 dnsentry
 dnsimple
+dnslookup
 dnsmadeeasy
 dnsoverhttps
 dnsrecord
 dnsresolver
+dnssec
 dnsserver
 dnssuffix
 dnvm
@@ -1954,7 +1952,7 @@ dogstatsd
 dok
 dokuwiki
 domain
-domainname
+domainkey
 domains
 domino
 donothing
@@ -2077,6 +2075,7 @@ dynamicsnav
 dynamodb
 dynatrace
 dynatraceobservability
+dz
 e-mail
 e1
 easy
@@ -2090,6 +2089,7 @@ ebur128
 ec2
 ecommerce
 ecovadis
+ed25519
 edgaronline
 edge
 edgebackup
@@ -2097,7 +2097,6 @@ edgeexport
 edgegateway
 edgeorder
 edgeprofiles
-ediscovery
 edit
 editor
 editorservices
@@ -2122,10 +2121,10 @@ elevation
 elgato
 elk
 elm
+elmah-io
 elonmusk
 eloqua
 elvui
-em
 emacs
 email
 email-address
@@ -2174,7 +2173,6 @@ enter
 enterprise
 enterprise-scale
 enterprisedb
-enterprisemanager
 enterprisevoice
 entity
 entityframework
@@ -2336,7 +2334,6 @@ export
 export-cmhealthreport
 export-data
 export-passlist
-exportcertificate
 exportcertificates
 exporter
 exportexcel
@@ -2629,7 +2626,6 @@ gamecategory:cards
 games
 gameserver
 gaming
-garage
 gas
 gat
 gateway
@@ -2652,10 +2648,11 @@ gemlog
 gemtext
 general
 generate
-generate-dockerimagevariants
 generate-password
 generate-random-password
+generateaddress
 generates
+generatewif
 generation
 generator
 generic
@@ -2727,7 +2724,6 @@ git-clone
 git-flow
 git-hf
 git-hubflow
-git-lfs
 git-proxy
 git-stat
 gitcmdline
@@ -2752,7 +2748,6 @@ globalclipboard
 globaldashboard
 globalentry
 globbing
-glpi
 gmail
 gmap
 gmaps
@@ -2772,7 +2767,6 @@ google-histogram
 google-sankey
 google-table
 googleadsv2
-googlecloudplatform
 googledrive
 googlemap
 googlemaps
@@ -2837,6 +2831,7 @@ gsuite
 gtx1080ti
 guardedfabric
 guardicore
+gubbins
 guest
 guestconfiguration
 guests
@@ -3160,7 +3155,6 @@ imagination
 imaging
 imap
 imb
-imei
 imi
 impala
 impersonation
@@ -3168,7 +3162,6 @@ imperva
 import
 import-csv
 import-dtdriverpackpackagedefinitionsms
-import-modulefrompath
 import-passlist
 import-sampackagedefinitionsms
 importer
@@ -3262,6 +3255,7 @@ interface
 interlogix
 internet
 internet-explorer
+internetconnection
 internetexplorer
 intersight
 intersightcmdlets
@@ -3283,6 +3277,7 @@ invocation
 invoice
 invoke
 invoke-asadmin
+invoke-asadministrator
 invoke-ascurrentuser
 invoke-automation
 invoke-build
@@ -3311,6 +3306,7 @@ ipbroadcast
 ipc
 ipcalc
 ipcalculator
+ipconfig
 iperf
 ipfy.org
 iphone
@@ -3476,7 +3472,6 @@ keymapping
 keypair
 keysms
 keyvault
-keywords
 kibana
 kickstart
 kidrsa
@@ -3532,8 +3527,8 @@ lake
 lambda
 lame
 lametrictime
+lamp
 lan
-landingzones
 language
 languagedsc
 languageexperiencepack
@@ -3676,7 +3671,6 @@ lockdown
 locking
 lockoutreport
 lockscreen
-locksmith
 lockstep
 lod
 lodasoft
@@ -3702,7 +3696,6 @@ logging
 loggingingestion
 loggingsearch
 loggly
-logic
 logicapp
 logicapps
 logiclesstemplate
@@ -3832,7 +3825,6 @@ maps
 mapsapi
 mariadb
 mark
-markdig
 markdown
 markdownrender
 marketing
@@ -3853,7 +3845,6 @@ mas
 mask
 mass
 masstransit
-masterconfiguration
 matcharray
 matchhashtable
 materialdesign
@@ -3914,7 +3905,6 @@ members
 membership
 memcm
 memory
-memorydump
 memorystream
 mention
 menu
@@ -3944,7 +3934,6 @@ mfa
 mga
 mgn
 mi
-micro-orm
 microfocus
 microk8s
 microservices
@@ -4017,7 +4006,6 @@ mittelschule
 mixedreality
 mixer
 mkdocs
-mkpasswd
 ml
 ml.net
 mlflow
@@ -4025,6 +4013,7 @@ mmdc
 mobile
 mobilenetwork
 mobilitycontroller
+mock
 mocking
 model
 modeling
@@ -4050,7 +4039,6 @@ moneyforward
 mongo
 mongodb
 monitor
-monitor psmodule
 monitorinformation
 monitoring
 monitoring_objects
@@ -4134,6 +4122,7 @@ mstsc
 msu
 msvc
 msword
+mta-sts
 mule
 mulesoft
 multi-factor
@@ -4403,7 +4392,6 @@ obs
 observeit
 oce
 ocg
-ocgv
 oci
 ocicontrolcenter
 ocr
@@ -4577,7 +4565,6 @@ ossec
 osubbillingschedule
 osuborganizationsubscription
 osubsubscription
-osubusage
 osx
 otp
 ou
@@ -4592,7 +4579,6 @@ outertext
 outline
 outlook
 output
-output-to-image
 outreach
 outsystems
 overbite
@@ -4618,7 +4604,6 @@ packagemanager
 packages
 packagesregistry
 packaging
-packaging psmodule
 packard
 packer
 packet
@@ -4662,7 +4647,6 @@ passcode
 passivetotal
 passphrase
 passphraser passphrase password generator entropy
-passwd
 password
 password_generation
 password-generator
@@ -4814,6 +4798,7 @@ ply
 pmp
 pncit
 pnp
+pnpm
 pode
 poe
 poem
@@ -4904,7 +4889,6 @@ poshy-wrap-gem
 poshy-wrap-gh
 poshy-wrap-git-flow
 poshy-wrap-git-hf
-poshy-wrap-git-lfs
 poshy-wrap-golang
 poshy-wrap-helm
 poshy-wrap-kubectl
@@ -5040,6 +5024,7 @@ presentation
 presenter
 presto
 preston-k-parsard
+prettifier
 pretty
 prettyprinter
 preview
@@ -5186,7 +5171,6 @@ pscommand_acsp
 pscommand_add_ssh
 pscommand_add-envpathitem
 pscommand_add-envvarpathitem
-pscommand_add-gitlfstrackedfiles
 pscommand_afs
 pscommand_age
 pscommand_agli
@@ -5516,7 +5500,6 @@ pscommand_get-dockerimage
 pscommand_get-envpathitem
 pscommand_get-envvar
 pscommand_get-envvarpathitem
-pscommand_get-gitlfstrackedfiles
 pscommand_get-itemnixmode
 pscommand_get-netipaddresspublic
 pscommand_get-netipaddresssimple
@@ -5559,10 +5542,6 @@ pscommand_git-global-disable-proxy
 pscommand_git-global-enable-proxy
 pscommand_git-global-show-proxy
 pscommand_git-show-proxy
-pscommand_glfsi
-pscommand_glfsls
-pscommand_glfsmi
-pscommand_glfst
 pscommand_glo
 pscommand_gob
 pscommand_goc
@@ -5589,7 +5568,6 @@ pscommand_gotofx
 pscommand_gov
 pscommand_gove
 pscommand_gow
-pscommand_gplfs
 pscommand_grb
 pscommand_grc
 pscommand_grh
@@ -5706,8 +5684,6 @@ pscommand_invoke-githubflowhotfix
 pscommand_invoke-githubflowrelease
 pscommand_invoke-githubflowsupport
 pscommand_invoke-githubflowupdate
-pscommand_invoke-gitlfsinstall
-pscommand_invoke-gitlfsmigrateimport
 pscommand_invoke-gobuild
 pscommand_invoke-goclean
 pscommand_invoke-godoc
@@ -6624,7 +6600,6 @@ psfunction_aar
 psfunction_add_ssh
 psfunction_add-envpathitem
 psfunction_add-envvarpathitem
-psfunction_add-gitlfstrackedfiles
 psfunction_apt-history
 psfunction_apt-list-packages
 psfunction_arch
@@ -6804,7 +6779,6 @@ psfunction_get-dockerimage
 psfunction_get-envpathitem
 psfunction_get-envvar
 psfunction_get-envvarpathitem
-psfunction_get-gitlfstrackedfiles
 psfunction_get-itemnixmode
 psfunction_get-netipaddresspublic
 psfunction_get-netipaddresssimple
@@ -6817,7 +6791,6 @@ psfunction_git-global-disable-proxy
 psfunction_git-global-enable-proxy
 psfunction_git-global-show-proxy
 psfunction_git-show-proxy
-psfunction_gplfs
 psfunction_hostname
 psfunction_invoke-aptcachepolicy
 psfunction_invoke-aptcachesearch
@@ -6925,8 +6898,6 @@ psfunction_invoke-githubflowhotfix
 psfunction_invoke-githubflowrelease
 psfunction_invoke-githubflowsupport
 psfunction_invoke-githubflowupdate
-psfunction_invoke-gitlfsinstall
-psfunction_invoke-gitlfsmigrateimport
 psfunction_invoke-gobuild
 psfunction_invoke-goclean
 psfunction_invoke-godoc
@@ -7723,8 +7694,6 @@ rebootnodeifneeded
 reckon
 recommendation
 reconcile
-reconnaissance
-record
 recording
 recovery
 recoveryservices
@@ -7782,8 +7751,6 @@ regions
 regiser-argumentcompleter
 register
 register-argumentcompleter
-registered
-registrar
 registration
 registry
 regression
@@ -7809,7 +7776,6 @@ remote
 remote-desktop
 remote'
 remoteadmin
-remotecert
 remoteconnection
 remoteconnectionsmanager
 remotecontrol
@@ -7907,7 +7873,6 @@ reverse-string
 reversed-color-text
 reversedsc
 reverseengineering
-revision
 reword
 rewrite
 rexec
@@ -7941,7 +7906,6 @@ rmcp
 rmm
 rms
 rng
-roarwrecker
 robbyrussel
 robocopy
 robot
@@ -8153,7 +8117,6 @@ sdn
 sdp
 search
 search-adminauditlog
-search-engines
 searchengine
 searcher
 searching
@@ -8220,6 +8183,7 @@ self
 self-hosted
 self-service
 self-signed
+selfdispatch
 selfhelp
 selfsigned
 semantic
@@ -8232,6 +8196,7 @@ send
 send-logtologanalytics
 send-mailmessage
 send-message
+senderid
 sendgrid
 sendkeys
 sendmail
@@ -8324,13 +8289,7 @@ sftp
 sfx
 sgopher
 sgw
-sha-256
-sha-512
-sha-crypt
 sha256
-sha256crypt
-sha512crypt
-shacrypt
 shadow
 shadowcopy
 shadowcopybackups
@@ -8406,7 +8365,6 @@ singleton
 sinks
 sintez
 sintez.module.rds
-sit
 site
 site_navigation
 sitecollection
@@ -8507,12 +8465,10 @@ software
 softwarecenter
 softwaredistributioncomponent
 softwaregeneration
-softwaremanagement
 softwarepackagedataexchange
 softwareupdatepoint
 softwareupdatepointcomponent
 solarigate
-solarized
 solarwinds
 solr
 soltra
@@ -8601,7 +8557,6 @@ sql-script
 sql-server
 sqlagent
 sqlautomation
-sqlbits
 sqlbrowser
 sqlchangeautomation
 sqlclient
@@ -8684,6 +8639,7 @@ start-threadjob
 startkey
 startmen
 startmenu
+starttls
 starwars
 stash
 stat
@@ -8740,7 +8696,6 @@ streamanalytics
 streaming
 streamreader
 streamwriter
-stretch
 strictmode
 strikethrough-text
 string
@@ -8813,6 +8768,7 @@ swagger
 swamid
 swarm
 swedish
+swimlane
 swis
 switch
 sybase
@@ -8834,6 +8790,7 @@ synergy
 syntax
 syntax-highlighting
 syntaxcheck
+syntaxhighlighter
 synthesis
 synthetics
 sysadmin
@@ -8881,7 +8838,6 @@ tabexpansion
 tabexpansion2
 tablacus
 table
-tableau
 tabler
 tables
 tablestorage
@@ -8934,6 +8890,7 @@ teamsdevices
 teamservices
 teamspolicy
 teamviewer
+techdirect
 techedna2014
 techlog
 technology
@@ -8975,7 +8932,7 @@ tesla
 test
 test-automation
 test-dscconfiguration
-test-modulepath
+test-internetconnection
 test-osplatform
 test-psremoting
 test-samcmapplicationexists
@@ -8985,6 +8942,7 @@ test-xml
 test123
 testaccount
 testautomation
+tester
 testimonial
 testing
 testlab
@@ -8996,7 +8954,6 @@ testtag2
 testtool
 testusers
 text
-text-to-image
 text-to-speach"
 text-to-speech
 text2image
@@ -9060,7 +9017,9 @@ title
 tls
 tls11
 tls12
+tlsa
 tlsprotocol
+tlsrpt
 tmux
 to-do
 toast
@@ -9172,9 +9131,6 @@ tsa
 tsd
 tsheets
 tsqlbestpractice
-tst
-tst1
-tst3
 ttrpg
 tts
 tubedownloader
@@ -9330,7 +9286,6 @@ unzip
 up
 update
 update-module
-update-moduletests
 update-typedata
 updatedeferral
 updatemanagement
@@ -9463,7 +9418,6 @@ vera
 veracrypt
 verbose
 verbose psmodule
-verification
 verify
 version
 versioning
@@ -9713,6 +9667,7 @@ wia
 wia.imagefile
 wid
 widedata
+wif
 wifi
 wiki
 wildcard
@@ -9829,8 +9784,6 @@ wmi
 wmifilter
 wmipermanentevents
 wol
-wolfram
-wolframalpha
 woocommerce
 woolworths
 woolworthsrewards
