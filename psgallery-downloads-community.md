@@ -280,9 +280,9 @@ Wrapper for Robocopy
 
 __Downloads__: 6,374,078 | __Repository__: https://github.com/sbergwall/RobocopyPS
 
-## [JumpCloud](https://www.powershellgallery.com/Packages/JumpCloud/2.8.1) | 2.8.1
+## [JumpCloud](https://www.powershellgallery.com/Packages/JumpCloud/2.8.2) | 2.8.2
 
-### Published: 10/19/2023 16:58:16 by JumpCloud Solutions Architect Team
+### Published: 11/02/2023 18:20:48 by JumpCloud Solutions Architect Team
 
 PowerShell functions to manage a JumpCloud Directory-as-a-Service
 
@@ -1314,9 +1314,9 @@ Office 365 Health Service
 
 __Downloads__: 477,464 | __Repository__: https://github.com/EvotecIT/PSWinDocumentation.O365HealthService
 
-## [PSPGP](https://www.powershellgallery.com/Packages/PSPGP/0.1.10) | 0.1.10
+## [PSPGP](https://www.powershellgallery.com/Packages/PSPGP/0.1.12) | 0.1.12
 
-### Published: 10/22/2023 08:29:43 by Przemyslaw Klys
+### Published: 11/02/2023 21:48:16 by Przemyslaw Klys
 
 PSPGP is a PowerShell module that provides PGP functionality in PowerShell. It allows encrypting and decrypting files/folders and strings using PGP.
 
@@ -1978,19 +1978,19 @@ Icinga for Windows module which allows to entirely monitor the Windows Host syst
 
 __Downloads__: 199,217 | __Repository__: https://github.com/Icinga/icinga-powershell-framework
 
-## [PSFTP](https://www.powershellgallery.com/Packages/PSFTP/1.7.1.1) | 1.7.1.1
-
-### Published: 09/02/2021 11:00:20 by Michal Gajda
-
-This module contain function to manage FTP account.
-
-__Downloads__: 198,993 | __Repository__: 
-
 ## [xPrinterManagement](https://www.powershellgallery.com/Packages/xPrinterManagement/1.0.0.2) | 1.0.0.2
 
 ### Published: 03/20/2019 12:14:14 by Evgeniy Nikulov
 
 Printer Management
+
+__Downloads__: 198,993 | __Repository__: 
+
+## [PSFTP](https://www.powershellgallery.com/Packages/PSFTP/1.7.1.1) | 1.7.1.1
+
+### Published: 09/02/2021 11:00:20 by Michal Gajda
+
+This module contain function to manage FTP account.
 
 __Downloads__: 198,993 | __Repository__: 
 
@@ -2090,52 +2090,52 @@ Use Svendsen Tech's Get-STDotNetVersion function to list installed .NET versions
 
 __Downloads__: 181,123 | __Repository__: https://github.com/EliteLoser/DotNetVersionLister
 
-## [Posh-SYSLOG](https://www.powershellgallery.com/Packages/Posh-SYSLOG/4.1.5) | 4.1.5
+## [PrtgXml](https://www.powershellgallery.com/Packages/PrtgXml/0.1.0) | 0.1.0
 
-### Published: 07/14/2019 11:25:47 by Kieran Jacobsen
+### Published: 08/03/2019 05:36:30 by lordmilko
 
-Send SYSLOG messages from PowerShell
+Declarative syntax library for generating custom PRTG Network Monitor sensor XML
 
-__Downloads__: 180,981 | __Repository__: https://github.com/poshsecurity/Posh-SYSLOG
+__Downloads__: 138,840 | __Repository__: https://github.com/lordmilko/PrtgXml
 
-## [SCOMHelper](https://www.powershellgallery.com/Packages/SCOMHelper/1.42) | 1.42
+## [SSHSessions](https://www.powershellgallery.com/Packages/SSHSessions/2.1.3) | 2.1.3
 
-### Published: 02/28/2023 22:15:28 by Tyson Paul
+### Published: 02/26/2018 00:14:42 by Joakim Borger Svendsen
 
-A handful of useful tools for System Center Operations Manager (SCOM) activities.
+Svendsen Tech's SSH-Sessions module provides SSH session creation, management and interaction from PowerShell. Lets you execute commands via SSH against Linux and certain network equipment, etc. MIT license. Online documentation here: https://www.powershelladmin.com/wiki/SSH_from_PowerShell_using_the_SSH.NET_library
 
-__Downloads__: 179,478 | __Repository__: 
+__Downloads__: 136,904 | __Repository__: 
 
-## [AzSentinel](https://www.powershellgallery.com/Packages/AzSentinel/0.6.21) | 0.6.21
+## [SMLets](https://www.powershellgallery.com/Packages/SMLets/1.0.2016.0) | 1.0.2016.0
 
-### Published: 02/03/2021 16:43:28 by Pouyan Khabazi
+### Published: 12/24/2019 12:53:27 by Sundqvist Truher Wright Gritsenko
 
-PowerShell module for Azure Sentinel
+Cmdlets for Microsoft System Center Service Manager
 
-__Downloads__: 179,053 | __Repository__: https://github.com/wortell/AZSentinel
+__Downloads__: 136,491 | __Repository__: 
 
-## [Selenium](https://www.powershellgallery.com/Packages/Selenium/3.0.1) | 3.0.1
+## [Subnet](https://www.powershellgallery.com/Packages/Subnet/1.0.14) | 1.0.14
 
-### Published: 07/27/2020 13:12:55 by Adam Driscoll
+### Published: 09/10/2019 12:37:55 by Mark Wragg
 
-Web automation using the Selenium Web Driver
+A PowerShell module for cmdlets related to network subnet calculations
 
-__Downloads__: 176,716 | __Repository__: https://github.com/adamdriscoll/selenium-powershell
+__Downloads__: 135,483 | __Repository__: https://github.com/markwragg/PowerShell-Subnet
 
-## [PhpManager](https://www.powershellgallery.com/Packages/PhpManager/1.29.0) | 1.29.0
+## [Connectimo](https://www.powershellgallery.com/Packages/Connectimo/0.0.6) | 0.0.6
 
-### Published: 09/05/2023 07:55:10 by Michele Locati
+### Published: 06/25/2020 21:41:50 by Przemyslaw Klys
 
-A PowerShell module to install/update PHP, PHP extensions and Composer
+Simple connectivity project
 
-__Downloads__: 174,969 | __Repository__: https://github.com/mlocati/powershell-phpmanager
+__Downloads__: 133,428 | __Repository__: https://github.com/EvotecIT/Connectimo
 
-## [PSGitHub](https://www.powershellgallery.com/Packages/PSGitHub/0.15.240) | 0.15.240
+## [Invoke-MsBuild](https://www.powershellgallery.com/Packages/Invoke-MsBuild/2.7.1) | 2.7.1
 
-### Published: 02/09/2022 22:05:49 by Trevor Sullivan <trevor@trevorsullivan.net>
+### Published: 12/11/2021 08:48:01 by Dan.Schroeder
 
-This PowerShell module enables integration with GitHub.
+Executes the MSBuild.exe tool against the specified Visual Studio solution or project file.
 
-__Downloads__: 172,821 | __Repository__: https://github.com/pcgeek86/PSGitHub
+__Downloads__: 131,730 | __Repository__: https://github.com/deadlydog/Invoke-MsBuild
 
-*Updated: Thursday, 02 November 2023 17:53:51 UTC*
+*Updated: Friday, 03 November 2023 02:01:53 UTC*
