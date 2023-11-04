@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Friday, 03 November 2023 17:53:09 UTC
+Updated: Saturday, 04 November 2023 02:02:31 UTC
 
 .bat
 .env
@@ -229,7 +229,6 @@ agent
 aggregates
 aggregation
 agile
-agility
 agm
 agnoster
 ai
@@ -401,7 +400,6 @@ appv
 appveyor
 appvolumes
 appx
-appxmanifest
 aprs
 aprs-is
 aprsis
@@ -426,7 +424,6 @@ archivematica
 archivial
 archivial-backup
 archivial-cloud-backup
-archlinux
 arcresourcebridge
 arcus
 area
@@ -1083,6 +1080,7 @@ christmas
 chrome
 chromium
 chunk
+churchofjesuschrist
 ci
 ci/cd
 cic
@@ -1523,7 +1521,6 @@ crontab
 cropping
 cross-platform
 crossjoin
-crossover
 crossplatform
 crossplatformdevelopment
 crowdstrike
@@ -1620,7 +1617,6 @@ daily
 dane
 dangling
 dapr
-dare
 dark
 darwin
 dash
@@ -1768,7 +1764,6 @@ dependencies
 dependency
 deploy
 deployment
-deploymentconfig
 deploymentmanager
 deploymentresourceprovider
 depute
@@ -1913,6 +1908,7 @@ dmi
 dmtf
 dmx
 dnd
+dnf
 dns
 dns-01
 dns-administration
@@ -2288,7 +2284,6 @@ evernote
 everydaypowershell
 everydayrewards
 everything
-evolutionary-algorithms
 evolutionary-database
 evtx
 ews
@@ -2328,7 +2323,6 @@ exists
 exitcode
 exitprocessrequest
 exo
-exock
 exov2
 exov3
 exp
@@ -2355,6 +2349,7 @@ exportcertificates
 exporter
 exportexcel
 exportteams
+expression
 extend
 extended
 extendedattributes
@@ -2677,7 +2672,6 @@ generation
 generator
 generic
 genericartifactscontent
-genetic-algorithm
 genp
 genxdev
 geo
@@ -2922,7 +2916,6 @@ hba
 hbase
 hci
 hcl
-hcm
 hcx
 hdfs
 hdinsight
@@ -3463,6 +3456,8 @@ k8s
 k8sshell
 kafka
 kaminario
+karabiner
+karabiner-elements
 karma
 kaseya
 kaseyavsa
@@ -3486,11 +3481,14 @@ key
 key-vault
 key2wocas
 keybase
+keybinding
 keyboard
 keyboardstartkey
 keycipher
 keylight
 keymanagement
+keymap
+keymapping
 keypair
 keysms
 keyvault
@@ -3903,7 +3901,6 @@ mdatp
 mdb
 mdbc
 mde
-mdep
 mdm
 mdop
 mdt
@@ -4046,7 +4043,6 @@ mobilenetwork
 mobilitycontroller
 mock
 mocking
-model
 modeling
 modify
 module
@@ -4172,12 +4168,10 @@ multiserver
 multistring
 multithread
 multithreaded
-multithreaded-helpers
 multithreading
 music
 musiccast
 mustache
-mutation
 mute
 mutex
 mva
@@ -4218,7 +4212,6 @@ nasdaq
 native
 natpool
 natural-language-to-code
-natural-selection
 nav
 navigation
 nbi
@@ -4548,7 +4541,6 @@ ops
 opsi
 opsmgr
 optics
-optimization
 optimizer
 option
 option119
@@ -4861,7 +4853,6 @@ pop
 pop-location
 pop3
 popd
-population
 popup
 port
 port-scanner
@@ -4914,6 +4905,7 @@ poshy-wrap-apt
 poshy-wrap-argcomplete
 poshy-wrap-brew
 poshy-wrap-curl
+poshy-wrap-dnf
 poshy-wrap-docker
 poshy-wrap-docker-compose
 poshy-wrap-dotnet
@@ -5339,6 +5331,19 @@ pscommand_dlo
 pscommand_dnc
 pscommand_dncn
 pscommand_dndcn
+pscommand_dnfc
+pscommand_dnfgi
+pscommand_dnfgl
+pscommand_dnfgr
+pscommand_dnfi
+pscommand_dnfl
+pscommand_dnfli
+pscommand_dnfmc
+pscommand_dnfp
+pscommand_dnfr
+pscommand_dnfri
+pscommand_dnfs
+pscommand_dnfu
 pscommand_dni
 pscommand_dnls
 pscommand_dnrm
@@ -5899,6 +5904,19 @@ pscommand_invoke-curlfollowingredirectsdownloadasnamedcontinue
 pscommand_invoke-curlfollowingredirectsdownloadasnamedcontinueandretry
 pscommand_invoke-curlfollowingredirectsfetchbanner
 pscommand_invoke-curlonlyforgetresponseheaders
+pscommand_invoke-dnfcleanall
+pscommand_invoke-dnfgrouplist
+pscommand_invoke-dnfgrouppinstall
+pscommand_invoke-dnfgroupremove
+pscommand_invoke-dnfinfo
+pscommand_invoke-dnfinstall
+pscommand_invoke-dnflist
+pscommand_invoke-dnflistinstalled
+pscommand_invoke-dnfmakecache
+pscommand_invoke-dnfreinstall
+pscommand_invoke-dnfremove
+pscommand_invoke-dnfsearch
+pscommand_invoke-dnfupgrade
 pscommand_invoke-dockercomposebuild
 pscommand_invoke-dockercomposedown
 pscommand_invoke-dockercomposeexec
@@ -7303,6 +7321,19 @@ psfunction_invoke-curlfollowingredirectsdownloadasnamedcontinue
 psfunction_invoke-curlfollowingredirectsdownloadasnamedcontinueandretry
 psfunction_invoke-curlfollowingredirectsfetchbanner
 psfunction_invoke-curlonlyforgetresponseheaders
+psfunction_invoke-dnfcleanall
+psfunction_invoke-dnfgrouplist
+psfunction_invoke-dnfgrouppinstall
+psfunction_invoke-dnfgroupremove
+psfunction_invoke-dnfinfo
+psfunction_invoke-dnfinstall
+psfunction_invoke-dnflist
+psfunction_invoke-dnflistinstalled
+psfunction_invoke-dnfmakecache
+psfunction_invoke-dnfreinstall
+psfunction_invoke-dnfremove
+psfunction_invoke-dnfsearch
+psfunction_invoke-dnfupgrade
 psfunction_invoke-dockercomposebuild
 psfunction_invoke-dockercomposedown
 psfunction_invoke-dockercomposeexec
@@ -8086,7 +8117,6 @@ psrule-rules
 pssa
 psscriptanalyzer
 psscriptanaylzer
-psscriptsmonitoring
 pssendgrid
 pssession
 pssharper
@@ -8271,6 +8301,7 @@ rdpsign
 rds
 rdsgw
 react-stockcharts
+read
 read-slog
 readable
 reader
@@ -8703,7 +8734,6 @@ scriptlogging
 scriptoform
 scriptrunner
 scripts
-scriptsmonitoring
 scrolllock
 scrub
 scrubber
@@ -8978,7 +9008,6 @@ sitecollection
 siteconfiguration
 sitecore
 sitemaintenance
-sitemap
 siterecovery
 sites
 sitesystemserver
@@ -9056,7 +9085,6 @@ snmpwalk
 snowflake
 snsmssqlpsmodule
 snspsadgroupmembers
-snspsscriptsmonitoring
 snssqlitepsmodule
 sntp
 soap
@@ -9925,7 +9953,6 @@ uptimerobot
 uptobox
 uqword
 uri
-uri-scheme
 url
 url-encode
 url-shortener
@@ -10142,12 +10169,10 @@ vpn-certificate
 vpro
 vps
 vra
-vrchat
 vrealize
 vrising
 vro
 vrops
-vrsns
 vrtu
 vs
 vs-shell
@@ -10251,7 +10276,6 @@ webservice
 webservices
 website
 websites
-websocket
 websockets
 websphere
 websphereappserver
@@ -10486,7 +10510,6 @@ wunderlist
 wus
 wvd
 www
-x-cart
 x.509
 x1
 x2
@@ -10518,6 +10541,7 @@ xiaomi
 xin
 xkcd
 xliff
+xlsx
 xmc
 xml
 xml-rpc

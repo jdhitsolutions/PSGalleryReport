@@ -3,21 +3,97 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
-## [BRSOps](https://www.powershellgallery.com/Packages/BRSOps/1.1.10) | 1.1.10
+## [BRSOps](https://www.powershellgallery.com/Packages/BRSOps/1.2.0) | 1.2.0
 
-### Published: 11/03/2023 15:32:02 by Boston Red Sox Operations Team
+### Published: 11/03/2023 23:45:01 by Boston Red Sox Operations Team
 
 Mixed functionality based on the BRS Ops Team Requirements.  Please read each .PS1 file for more information
 
 __Downloads__: 22 | __Repository__: 
 
-## [verkadaModule](https://www.powershellgallery.com/Packages/verkadaModule/0.6.5) | 0.6.5
+## [Harden-Windows-Security-Module](https://www.powershellgallery.com/Packages/Harden-Windows-Security-Module/0.2.2) | 0.2.2
 
-### Published: 11/03/2023 15:19:12 by Brad Parker
+### Published: 11/03/2023 22:38:48 by HotCakeX
+
+Harden Windows Safely, Securely, only with Official Microsoft methods
+
+⭕ This module provides 3 main features: Hardening, Auditing/checking the system compliance, and undoing the Hardening
+
+⭕ Please read the GitHub's readme before running this module: https://github.com/HotCakeX/Harden-Windows-Security
+
+💠 Features of this module:
+
+  ✅ Everything always stays up-to-date with the newest proactive security measures that are industry standards and scalable.
+  ✅ Everything is in plain text, nothing hidden, no 3rd party executable or pre-compiled binary is involved.
+  ✅ No Windows functionality is removed/disabled against Microsoft's recommendations.
+  ✅ The module primarily uses Group policies, the Microsoft recommended way of configuring Windows. It also uses PowerShell cmdlets where Group Policies aren't available, and finally uses a few registry keys to configure security measures that can neither be configured using Group Policies nor PowerShell cmdlets. This is why the module doesn't break anything or cause unwanted behavior.
+  ✅ When a hardening measure is no longer necessary because it's applied by default by Microsoft on new builds of Windows, it will also be removed from the module in order to prevent any problems and because it won't be necessary anymore.
+  ✅ The module can be run infinite number of times, it's made in a way that it won't make any duplicate changes.
+  ✅ The module prompts for confirmation before running each hardening category.
+  ✅ Applying these hardening measures makes your PC compliant with Microsoft Security Baselines and Secured-core PC specifications (provided that you use modern hardware that supports the latest Windows security features)
+
+💠 Hardening Categories from top to bottom: (🔻Detailed info about each of them at my Github🔻)
+
+⏹ Commands that require Administrator Privileges
+  ✅ Microsoft Security Baselines
+  ✅ Microsoft 365 Apps Security Baselines
+  ✅ Microsoft Defender
+  ✅ Attack surface reduction rules
+  ✅ Bitlocker Settings
+  ✅ TLS Security
+  ✅ Lock Screen
+  ✅ UAC (User Account Control)
+  ✅ Windows Firewall
+  ✅ Optional Windows Features
+  ✅ Windows Networking
+  ✅ Miscellaneous Configurations
+  ✅ Windows Update Configurations
+  ✅ Edge Browser Configurations
+  ✅ Certificate Checking Commands
+  ✅ Country IP Blocking
+⏹ Commands that don't require Administrator Privileges
+  ✅ Non-Admin Commands that only affect the current user and do not make machine-wide changes.
+
+
+💎 Note: If you have multiple accounts on your device, you only need to apply the hardening measures 1 time with Admin privileges, that will make system-wide changes. Then you can optionally run the module, without Admin privileges, for each standard user to apply the Non-Admin category.
+
+🏴 If you have any questions, requests, suggestions etc. about this script, please open a new Discussion or Issue on GitHub
+
+🟡 The module generates a nice output on the screen as well as giving users an option to export the results in a CSV file.
+
+__Downloads__: 1,471 | __Repository__: https://github.com/HotCakeX/Harden-Windows-Security
+
+## [sdp](https://www.powershellgallery.com/Packages/sdp/1.3.0) | 1.3.0
+
+### Published: 11/03/2023 22:27:58 by J.R. Phillips
+
+Powershell SDK for Kaminario / Silk cloud data platform.
+
+__Downloads__: 486 | __Repository__: https://github.com/JayAreP/SDP
+
+## [verkadaModule](https://www.powershellgallery.com/Packages/verkadaModule/0.6.6) | 0.6.6
+
+### Published: 11/03/2023 20:44:39 by Brad Parker
 
 Verkada Module
 
 __Downloads__: 155 | __Repository__: https://github.com/bepsoccer/verkadaModule
+
+## [Logic.Monitor.SE](https://www.powershellgallery.com/Packages/Logic.Monitor.SE/1.3.4) | 1.3.4
+
+### Published: 11/03/2023 20:26:41 by Steven Villardi
+
+PowerShell module to assist with Sale Engineering activities.
+
+__Downloads__: 9 | __Repository__: https://github.com/stevevillardi/Logic.Monitor.SE
+
+## [Logic.Monitor](https://www.powershellgallery.com/Packages/Logic.Monitor/4.6.1) | 4.6.1
+
+### Published: 11/03/2023 20:25:11 by Steven Villardi
+
+PowerShell module to query the Logic Monitor API. This is a personal project and is not an offically supported LogicMonitor integration.
+
+__Downloads__: 3,303 | __Repository__: https://github.com/stevevillardi/Logic.Monitor
 
 ## [GPRegistryPolicyDsc](https://www.powershellgallery.com/Packages/GPRegistryPolicyDsc/1.3.1) | 1.3.1
 
@@ -185,14 +261,6 @@ __Downloads__: 1,122 | __Repository__: https://github.com/Azure/AzLoadBalancerMi
 This module includes several commands that help with the deployment of virtual environments on vSphere.
 
 __Downloads__: 228 | __Repository__: https://github.com/evanjd711/bruharmy
-
-## [Logic.Monitor.SE](https://www.powershellgallery.com/Packages/Logic.Monitor.SE/1.3.3) | 1.3.3
-
-### Published: 11/02/2023 20:22:20 by Steven Villardi
-
-PowerShell module to assist with Sale Engineering activities.
-
-__Downloads__: 9 | __Repository__: https://github.com/stevevillardi/Logic.Monitor.SE
 
 ## [Get-IdracLifecycleLogsREDFISH](https://www.powershellgallery.com/Packages/Get-IdracLifecycleLogsREDFISH/10.0.0) | 10.0.0
 
@@ -419,14 +487,6 @@ __Downloads__: 2,386 | __Repository__:
 Plc controller powershell module
 
 __Downloads__: 31 | __Repository__: https://github.com/Naihan/PlcGhostBuster
-
-## [Logic.Monitor](https://www.powershellgallery.com/Packages/Logic.Monitor/4.6) | 4.6
-
-### Published: 10/31/2023 19:38:43 by Steven Villardi
-
-PowerShell module to query the Logic Monitor API. This is a personal project and is not an offically supported LogicMonitor integration.
-
-__Downloads__: 3,303 | __Repository__: https://github.com/stevevillardi/Logic.Monitor
 
 ## [TMK-CoreModules](https://www.powershellgallery.com/Packages/TMK-CoreModules/1.7.7) | 1.7.7
 
@@ -1517,14 +1577,6 @@ Create MSIs with PowerShell.
 
 __Downloads__: 726 | __Repository__: https://www.github.com/ironmansoftware/psmsi
 
-## [sdp](https://www.powershellgallery.com/Packages/sdp/1.2.6) | 1.2.6
-
-### Published: 10/31/2023 14:27:58 by J.R. Phillips
-
-Powershell SDK for Kaminario / Silk cloud data platform.
-
-__Downloads__: 486 | __Repository__: https://github.com/JayAreP/SDP
-
 ## [AdminToolbox](https://www.powershellgallery.com/Packages/AdminToolbox/11.0.119) | 11.0.119
 
 ### Published: 10/31/2023 14:22:11 by Taylor Lee
@@ -2052,12 +2104,4 @@ ProjectWise PowerShell Cmdlets from System Architecture Group
 
 __Downloads__: 80,180 | __Repository__: 
 
-## [VMware.CloudFoundation.PasswordManagement](https://www.powershellgallery.com/Packages/VMware.CloudFoundation.PasswordManagement/1.5.0.1004) | 1.5.0.1004
-
-### Published: 10/26/2023 20:25:46 by VMware
-
-PowerShell Module for VMware Cloud Foundation Password Management
-
-__Downloads__: 342 | __Repository__: https://vmware.github.io/powershell-module-for-vmware-cloud-foundation-password-management
-
-*Updated: Friday, 03 November 2023 17:52:56 UTC*
+*Updated: Saturday, 04 November 2023 02:02:19 UTC*
