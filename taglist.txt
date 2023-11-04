@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Saturday, 04 November 2023 09:53:29 UTC
+Updated: Saturday, 04 November 2023 17:53:56 UTC
 
 .bat
 .env
@@ -229,6 +229,7 @@ agent
 aggregates
 aggregation
 agile
+agility
 agm
 agnoster
 ai
@@ -260,7 +261,6 @@ alero
 alert
 alerting
 alertmail
-alertmanagement
 alerts
 alertsmanagement
 alfresco
@@ -328,6 +328,8 @@ anonymous
 anova
 ansi
 ansible
+ansible-control-node
+ansiblecontrolnode
 antimalwarescaninterface
 antispam
 antivirus
@@ -392,6 +394,7 @@ appraiser
 approve
 apps
 appservice
+appservices
 appsetting
 appv
 appveyor
@@ -422,7 +425,6 @@ archivematica
 archivial
 archivial-backup
 archivial-cloud-backup
-archlinux
 arcresourcebridge
 arcus
 area
@@ -920,6 +922,7 @@ businessobjects
 businessrulesengine
 businesstime
 bxor
+bydesign
 byexample
 bynarypsmodule
 byovd
@@ -1079,7 +1082,6 @@ christmas
 chrome
 chromium
 chunk
-churchofjesuschrist
 ci
 ci/cd
 cic
@@ -1589,8 +1591,6 @@ cvss
 cwi
 cx
 cyberark
-cyberark-api
-cyberark-identity
 cyberdrain
 cybereason
 cybersecurity
@@ -1655,6 +1655,7 @@ dataexchange
 dataexplorer
 datafactory
 dataflow
+dataflowdependency
 datagateway
 dataintegration
 datakwaliteit
@@ -2352,6 +2353,7 @@ exportcertificates
 exporter
 exportexcel
 exportteams
+expression
 extend
 extended
 extendedattributes
@@ -2496,6 +2498,7 @@ findlocation
 findplace
 findproxyforurl
 fine-print
+fine-tuning
 finops
 firebird
 firefox
@@ -2625,7 +2628,6 @@ funds
 funny
 fusion
 fusionapps
-fuzzy
 fyi
 fzf
 gac
@@ -2770,6 +2772,7 @@ gmail
 gmap
 gmaps
 gmsa
+gnucash
 gnuwin32
 go
 gobright
@@ -3493,6 +3496,7 @@ keymapping
 keypair
 keysms
 keyvault
+keywords
 kibana
 kickstart
 kidrsa
@@ -3549,7 +3553,6 @@ lambda
 lame
 lametrictime
 lamp
-lan
 landingzones
 language
 languagedsc
@@ -3637,7 +3640,6 @@ linear
 linearalgebra
 link
 link-capability
-link-preview
 linkedin
 linkedservice
 linkedservicedependency
@@ -4044,7 +4046,7 @@ mobilenetwork
 mobilitycontroller
 mock
 mocking
-model
+modeling
 modify
 module
 module-maintenance
@@ -4170,6 +4172,7 @@ multiserver
 multistring
 multithread
 multithreaded
+multithreaded-helpers
 multithreading
 music
 musiccast
@@ -4299,6 +4302,8 @@ news
 newspaper
 newtonsoft
 newtonsoft.json
+nexenta
+nexentastor
 nexthink
 nexus
 nexusiq
@@ -4450,6 +4455,7 @@ officemessageencryption
 officertool
 offline
 offlinewimservicing
+ofx
 ogg
 oh-my-posh
 oh-my-zsh
@@ -4551,7 +4557,6 @@ optionstring
 opus
 oracle
 oraclecloudinfrastructure
-oraculum
 orbital
 orchestration
 orchestrator
@@ -4643,7 +4648,6 @@ pagerduty
 pages
 paloaltonetworks
 pam
-panels
 pansies
 panther
 panzerbjrn
@@ -4707,7 +4711,6 @@ patternmatching
 pause
 pax8
 payload
-paylocity
 paypal
 pays
 pbench
@@ -4947,6 +4950,7 @@ position
 postgre
 postgres
 postgresql
+potato
 pow
 powdrgit
 power
@@ -8119,6 +8123,7 @@ psrule-rules
 pssa
 psscriptanalyzer
 psscriptanaylzer
+psscriptsmonitoring
 pssendgrid
 pssession
 pssharper
@@ -8736,6 +8741,7 @@ scriptlogging
 scriptoform
 scriptrunner
 scripts
+scriptsmonitoring
 scrolllock
 scrub
 scrubber
@@ -8748,6 +8754,7 @@ sdn
 sdp
 search
 search-adminauditlog
+search-engines
 searchengine
 searcher
 searching
@@ -8829,6 +8836,7 @@ send-mailmessage
 send-message
 senderid
 sendgrid
+sendkeys
 sendmail
 sense
 sensitive
@@ -9086,6 +9094,7 @@ snmpwalk
 snowflake
 snsmssqlpsmodule
 snspsadgroupmembers
+snspsscriptsmonitoring
 snssqlitepsmodule
 sntp
 soap
@@ -9303,7 +9312,6 @@ stdout
 steam
 steam-games
 steamcmd
-stepper
 sticker
 sticker-pack
 stickers
@@ -9479,6 +9487,7 @@ tabexpansion
 tabexpansion2
 tablacus
 table
+tableau
 tabler
 tables
 tablestorage
@@ -9490,6 +9499,7 @@ tag-requiredmodule2-2.0
 tag-requiredmodule3-2.5
 tag1
 tag2
+tagging
 tags
 tak
 taken
@@ -9782,6 +9792,7 @@ tubedownloader
 tui
 tulpep
 tuner
+tuning
 tutorial
 tv
 tweet
@@ -9841,7 +9852,6 @@ ud-input
 ud-licensed
 ud-loadingoverlay
 ud-minesweeper
-ud-mouseparticle
 ud-navbarsearch
 ud-numbermask
 ud-orgchart
@@ -10169,6 +10179,7 @@ vpn-certificate
 vpro
 vps
 vra
+vrchat
 vrealize
 vrising
 vro
@@ -10216,6 +10227,7 @@ waitforobject
 wakeonlan
 wakeup
 walk
+wallet
 wallpaper
 wallpapers
 wannacry
@@ -10243,7 +10255,6 @@ wdapi
 wds
 weather
 weaviate
-weaviatenet
 web
 web-search
 web.config
@@ -10251,6 +10262,7 @@ webadministration
 webapi
 webapp
 webapplicationproxy
+webapps
 webcamera
 webcmdlets
 webdav
@@ -10419,7 +10431,6 @@ wisconsin-madison
 wisconsin'uw-madison
 wisdom
 with
-wizard
 wkhtmltopdf
 wlan
 wmf
@@ -10511,6 +10522,7 @@ wunderlist
 wus
 wvd
 www
+x-cart
 x.509
 x1
 x2

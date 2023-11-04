@@ -3,6 +3,22 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [XenDesktop7](https://www.powershellgallery.com/Packages/XenDesktop7/2.10.2) | 2.10.2
+
+### Published: 11/04/2023 17:07:23 by Iain Brighton
+
+The XenDesktop7 DSC resources can automate the deployment and configuration of Citrix XenDesktop 7.x. These DSC resources are provided AS IS, and are not supported through any means.
+
+__Downloads__: 7,058 | __Repository__: https://github.com/VirtualEngine/XenDesktop7
+
+## [F7History](https://www.powershellgallery.com/Packages/F7History/1.4.0) | 1.4.0
+
+### Published: 11/04/2023 13:50:24 by Tig Kindel
+
+Press F7 to get a graphical Command History in Powershell.
+
+__Downloads__: 487 | __Repository__: https://github.com/gui-cs/F7History/
+
 ## [BRSOps](https://www.powershellgallery.com/Packages/BRSOps/1.2.0) | 1.2.0
 
 ### Published: 11/03/2023 23:45:01 by Boston Red Sox Operations Team
@@ -439,14 +455,6 @@ __Downloads__: 7,037 | __Repository__: https://devolutions.net/
 The Lability module contains cmdlets for provisioning Hyper-V test lab and development environments.
 
 __Downloads__: 29,870 | __Repository__: https://github.com/VirtualEngine/Lability
-
-## [XenDesktop7](https://www.powershellgallery.com/Packages/XenDesktop7/2.10.1) | 2.10.1
-
-### Published: 11/01/2023 11:41:01 by Iain Brighton
-
-The XenDesktop7 DSC resources can automate the deployment and configuration of Citrix XenDesktop 7.x. These DSC resources are provided AS IS, and are not supported through any means.
-
-__Downloads__: 7,058 | __Repository__: https://github.com/VirtualEngine/XenDesktop7
 
 ## [PSGraphite](https://www.powershellgallery.com/Packages/PSGraphite/0.1.13) | 0.1.13
 
@@ -1871,6 +1879,14 @@ A simple replacement for Get-ChildItem with better ordering and formatting
 
 __Downloads__: 3 | __Repository__: 
 
+## [finetuna](https://www.powershellgallery.com/Packages/finetuna/1.0.3) | 1.0.3
+
+### Published: 10/29/2023 19:54:15 by Chrissy LeMaire
+
+OpenAI Fine Tuner
+
+__Downloads__: 40 | __Repository__: https://github.com/potatoqualitee/finetuna
+
 ## [WilmaPSWorker](https://www.powershellgallery.com/Packages/WilmaPSWorker/0.3.141) | 0.3.141
 
 ### Published: 10/29/2023 16:14:37 by Petri Asikainen
@@ -1902,14 +1918,6 @@ __Downloads__: 537 | __Repository__: https://github.com/boeegh/PsChat/
 Adds a thread (runspace) constructor that returns a wrapped dispatcher object
 
 __Downloads__: 37 | __Repository__: https://github.com/pwsh-cs-tools/core
-
-## [Oraculum](https://www.powershellgallery.com/Packages/Oraculum/1.1.0.4) | 1.1.0.4
-
-### Published: 10/29/2023 12:54:25 by Antonio Cisternino
-
-Oraculum command line interface
-
-__Downloads__: 42 | __Repository__: https://github.com/Unipisa/Oraculum
 
 ## [RocketCyberAPI](https://www.powershellgallery.com/Packages/RocketCyberAPI/2.1.0) | 2.1.0
 
@@ -2096,12 +2104,4 @@ ProjectWise PowerShell Cmdlets from System Architecture Group
 
 __Downloads__: 80,180 | __Repository__: 
 
-## [VMware.CloudFoundation.PasswordManagement](https://www.powershellgallery.com/Packages/VMware.CloudFoundation.PasswordManagement/1.5.0.1004) | 1.5.0.1004
-
-### Published: 10/26/2023 20:25:46 by VMware
-
-PowerShell Module for VMware Cloud Foundation Password Management
-
-__Downloads__: 342 | __Repository__: https://vmware.github.io/powershell-module-for-vmware-cloud-foundation-password-management
-
-*Updated: Saturday, 04 November 2023 09:53:14 UTC*
+*Updated: Saturday, 04 November 2023 17:53:40 UTC*
