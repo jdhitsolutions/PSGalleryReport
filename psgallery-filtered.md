@@ -1871,14 +1871,6 @@ A simple replacement for Get-ChildItem with better ordering and formatting
 
 __Downloads__: 3 | __Repository__: 
 
-## [finetuna](https://www.powershellgallery.com/Packages/finetuna/1.0.3) | 1.0.3
-
-### Published: 10/29/2023 19:54:15 by Chrissy LeMaire
-
-OpenAI Fine Tuner
-
-__Downloads__: 40 | __Repository__: https://github.com/potatoqualitee/finetuna
-
 ## [WilmaPSWorker](https://www.powershellgallery.com/Packages/WilmaPSWorker/0.3.141) | 0.3.141
 
 ### Published: 10/29/2023 16:14:37 by Petri Asikainen
@@ -2104,4 +2096,12 @@ ProjectWise PowerShell Cmdlets from System Architecture Group
 
 __Downloads__: 80,180 | __Repository__: 
 
-*Updated: Saturday, 04 November 2023 02:02:19 UTC*
+## [VMware.CloudFoundation.PasswordManagement](https://www.powershellgallery.com/Packages/VMware.CloudFoundation.PasswordManagement/1.5.0.1004) | 1.5.0.1004
+
+### Published: 10/26/2023 20:25:46 by VMware
+
+PowerShell Module for VMware Cloud Foundation Password Management
+
+__Downloads__: 342 | __Repository__: https://vmware.github.io/powershell-module-for-vmware-cloud-foundation-password-management
+
+*Updated: Saturday, 04 November 2023 09:53:14 UTC*

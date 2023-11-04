@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Saturday, 04 November 2023 02:02:31 UTC
+Updated: Saturday, 04 November 2023 09:53:29 UTC
 
 .bat
 .env
@@ -328,8 +328,6 @@ anonymous
 anova
 ansi
 ansible
-ansible-control-node
-ansiblecontrolnode
 antimalwarescaninterface
 antispam
 antivirus
@@ -394,12 +392,12 @@ appraiser
 approve
 apps
 appservice
-appservices
 appsetting
 appv
 appveyor
 appvolumes
 appx
+appxmanifest
 aprs
 aprs-is
 aprsis
@@ -424,6 +422,7 @@ archivematica
 archivial
 archivial-backup
 archivial-cloud-backup
+archlinux
 arcresourcebridge
 arcus
 area
@@ -832,6 +831,7 @@ blueprints
 blueteam
 bluetraitio
 bmc
+bnm
 boards
 bofh
 boilerplate
@@ -920,7 +920,6 @@ businessobjects
 businessrulesengine
 businesstime
 bxor
-bydesign
 byexample
 bynarypsmodule
 byovd
@@ -1521,6 +1520,7 @@ crontab
 cropping
 cross-platform
 crossjoin
+crossover
 crossplatform
 crossplatformdevelopment
 crowdstrike
@@ -1617,6 +1617,7 @@ daily
 dane
 dangling
 dapr
+dare
 dark
 darwin
 dash
@@ -1654,7 +1655,6 @@ dataexchange
 dataexplorer
 datafactory
 dataflow
-dataflowdependency
 datagateway
 dataintegration
 datakwaliteit
@@ -1764,6 +1764,7 @@ dependencies
 dependency
 deploy
 deployment
+deploymentconfig
 deploymentmanager
 deploymentresourceprovider
 depute
@@ -2284,6 +2285,7 @@ evernote
 everydaypowershell
 everydayrewards
 everything
+evolutionary-algorithms
 evolutionary-database
 evtx
 ews
@@ -2323,6 +2325,7 @@ exists
 exitcode
 exitprocessrequest
 exo
+exock
 exov2
 exov3
 exp
@@ -2349,7 +2352,6 @@ exportcertificates
 exporter
 exportexcel
 exportteams
-expression
 extend
 extended
 extendedattributes
@@ -2494,7 +2496,6 @@ findlocation
 findplace
 findproxyforurl
 fine-print
-fine-tuning
 finops
 firebird
 firefox
@@ -2672,6 +2673,7 @@ generation
 generator
 generic
 genericartifactscontent
+genetic-algorithm
 genp
 genxdev
 geo
@@ -2768,7 +2770,6 @@ gmail
 gmap
 gmaps
 gmsa
-gnucash
 gnuwin32
 go
 gobright
@@ -2916,6 +2917,7 @@ hba
 hbase
 hci
 hcl
+hcm
 hcx
 hdfs
 hdinsight
@@ -3296,7 +3298,6 @@ invitation
 invocation
 invoice
 invoke
-invoke-asadmin
 invoke-asadministrator
 invoke-ascurrentuser
 invoke-automation
@@ -3492,7 +3493,6 @@ keymapping
 keypair
 keysms
 keyvault
-keywords
 kibana
 kickstart
 kidrsa
@@ -3901,6 +3901,7 @@ mdatp
 mdb
 mdbc
 mde
+mdep
 mdm
 mdop
 mdt
@@ -4043,7 +4044,7 @@ mobilenetwork
 mobilitycontroller
 mock
 mocking
-modeling
+model
 modify
 module
 module-maintenance
@@ -4056,6 +4057,7 @@ moduleupdateinfo
 moduleupdater
 moduleversion
 mof
+moldova
 moment
 monaco
 monday
@@ -4172,6 +4174,7 @@ multithreading
 music
 musiccast
 mustache
+mutation
 mute
 mutex
 mva
@@ -4212,6 +4215,7 @@ nasdaq
 native
 natpool
 natural-language-to-code
+natural-selection
 nav
 navigation
 nbi
@@ -4295,8 +4299,6 @@ news
 newspaper
 newtonsoft
 newtonsoft.json
-nexenta
-nexentastor
 nexthink
 nexus
 nexusiq
@@ -4448,7 +4450,6 @@ officemessageencryption
 officertool
 offline
 offlinewimservicing
-ofx
 ogg
 oh-my-posh
 oh-my-zsh
@@ -4541,6 +4542,7 @@ ops
 opsi
 opsmgr
 optics
+optimization
 optimizer
 option
 option119
@@ -4853,6 +4855,7 @@ pop
 pop-location
 pop3
 popd
+population
 popup
 port
 port-scanner
@@ -4944,7 +4947,6 @@ position
 postgre
 postgres
 postgresql
-potato
 pow
 powdrgit
 power
@@ -8746,7 +8748,6 @@ sdn
 sdp
 search
 search-adminauditlog
-search-engines
 searchengine
 searcher
 searching
@@ -8828,7 +8829,6 @@ send-mailmessage
 send-message
 senderid
 sendgrid
-sendkeys
 sendmail
 sense
 sensitive
@@ -9008,6 +9008,7 @@ sitecollection
 siteconfiguration
 sitecore
 sitemaintenance
+sitemap
 siterecovery
 sites
 sitesystemserver
@@ -9302,6 +9303,7 @@ stdout
 steam
 steam-games
 steamcmd
+stepper
 sticker
 sticker-pack
 stickers
@@ -9477,7 +9479,6 @@ tabexpansion
 tabexpansion2
 tablacus
 table
-tableau
 tabler
 tables
 tablestorage
@@ -9489,7 +9490,6 @@ tag-requiredmodule2-2.0
 tag-requiredmodule3-2.5
 tag1
 tag2
-tagging
 tags
 tak
 taken
@@ -9782,7 +9782,6 @@ tubedownloader
 tui
 tulpep
 tuner
-tuning
 tutorial
 tv
 tweet
@@ -9953,6 +9952,7 @@ uptimerobot
 uptobox
 uqword
 uri
+uri-scheme
 url
 url-encode
 url-shortener
@@ -10173,6 +10173,7 @@ vrealize
 vrising
 vro
 vrops
+vrsns
 vrtu
 vs
 vs-shell
@@ -10215,7 +10216,6 @@ waitforobject
 wakeonlan
 wakeup
 walk
-wallet
 wallpaper
 wallpapers
 wannacry
@@ -10251,7 +10251,6 @@ webadministration
 webapi
 webapp
 webapplicationproxy
-webapps
 webcamera
 webcmdlets
 webdav
@@ -10276,6 +10275,7 @@ webservice
 webservices
 website
 websites
+websocket
 websockets
 websphere
 websphereappserver
@@ -10419,6 +10419,7 @@ wisconsin-madison
 wisconsin'uw-madison
 wisdom
 with
+wizard
 wkhtmltopdf
 wlan
 wmf
