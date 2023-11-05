@@ -387,9 +387,9 @@ View and modify the Global Assembly Cache (GAC)
 
 __Downloads__: 3,551,226 | __Repository__: https://github.com/LTruijens/powershell-gac
 
-## [dbatools](https://www.powershellgallery.com/Packages/dbatools/2.1.4) | 2.1.4
+## [dbatools](https://www.powershellgallery.com/Packages/dbatools/2.1.5) | 2.1.5
 
-### Published: 10/14/2023 02:24:37 by the dbatools team
+### Published: 11/05/2023 17:41:49 by the dbatools team
 
 The community module that enables SQL Server Pros to automate database development and server administration
 
@@ -2138,4 +2138,4 @@ This PowerShell module enables integration with GitHub.
 
 __Downloads__: 172,821 | __Repository__: https://github.com/pcgeek86/PSGitHub
 
-*Updated: Sunday, 05 November 2023 09:53:54 UTC*
+*Updated: Sunday, 05 November 2023 17:53:12 UTC*

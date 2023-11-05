@@ -3,6 +3,94 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [dbatools](https://www.powershellgallery.com/Packages/dbatools/2.1.5) | 2.1.5
+
+### Published: 11/05/2023 17:41:49 by the dbatools team
+
+The community module that enables SQL Server Pros to automate database development and server administration
+
+__Downloads__: 3,274,648 | __Repository__: https://dbatools.io/
+
+## [SentinelARConverter](https://www.powershellgallery.com/Packages/SentinelARConverter/2.2.1) | 2.2.1
+
+### Published: 11/05/2023 17:21:02 by Fabian Bader
+
+Helper module to convert Sentinel Analytics Rules between YAML, ARM and back
+
+__Downloads__: 2,987 | __Repository__: https://github.com/f-bader/SentinelARConverter
+
+## [Devdeer.Caf](https://www.powershellgallery.com/Packages/Devdeer.Caf/0.0.20) | 0.0.20
+
+### Published: 11/05/2023 17:13:29 by DEVDEER
+
+This module contains the cmdlets to manage and prepare Azure Tenants in a CAF conform way.
+
+__Downloads__: 0 | __Repository__: https://devdeer.com/
+
+## [Kernel32Dll](https://www.powershellgallery.com/Packages/Kernel32Dll/0.0.21) | 0.0.21
+
+### Published: 11/05/2023 17:13:02 by Otogawa Katsutoshi
+
+Windows32 API Kernel32Dll.
+
+__Downloads__: 0 | __Repository__: https://github.com/YourName/YourModule
+
+## [brickBOX](https://www.powershellgallery.com/Packages/brickBOX/1.0.0) | 1.0.0
+
+### Published: 11/05/2023 17:09:25 by Patrick Page Gehrig
+
+A collection of powershell functions, put in a module to make scripting easier
+
+__Downloads__: 0 | __Repository__: https://github.com/pageBOX/brickBOX/
+
+## [GitHub](https://www.powershellgallery.com/Packages/GitHub/0.3.58) | 0.3.58
+
+### Published: 11/05/2023 16:00:50 by PSModule
+
+GitHub PowerShell Module
+
+__Downloads__: 2,466 | __Repository__: https://github.com/PSModule/GitHub
+
+## [PSModule.FX](https://www.powershellgallery.com/Packages/PSModule.FX/0.0.186) | 0.0.186
+
+### Published: 11/05/2023 16:00:08 by PSModule
+
+PSModule Framework PowerShell Module
+
+__Downloads__: 1,068 | __Repository__: https://github.com/PSModule/PSModule.FX
+
+## [365AutomatedLab](https://www.powershellgallery.com/Packages/365AutomatedLab/0.1.6) | 0.1.6
+
+### Published: 11/05/2023 14:19:54 by Clayton Tyger
+
+This module will allow you to create a 365 Development Environment from an Excel workbook
+
+__Downloads__: 27 | __Repository__: https://github.com/DevClate/365AutomatedLab
+
+## [UncommonSense.Parool](https://www.powershellgallery.com/Packages/UncommonSense.Parool/0.0.13) | 0.0.13
+
+### Published: 11/05/2023 12:46:50 by Jan Hoek
+
+PowerShell module for listing Parool articles
+
+__Downloads__: 1,155 | __Repository__: https://github.com/jhoek/UncommonSense.Parool
+
+## [netmap](https://www.powershellgallery.com/Packages/netmap/1.0) | 1.0
+
+### Published: 11/05/2023 11:53:33 by Cyber Samurai - a.k.a - PB
+
+This module loads a report from Trend Micro - ApexOne to cerate a file that is fed into DrawIO to create a network diagram
+
+__Downloads__: 0 | __Repository__: https://github.com/bazzofx
+
+## [UiPathOrch](https://www.powershellgallery.com/Packages/UiPathOrch/0.8.0.3) | 0.8.0.3
+
+### Published: 11/05/2023 10:19:09 by Yoshifumi Tsuda
+
+Provider for Orchestrator entities.
+
+__Downloads__: 0 | __Repository__: 
+
 ## [Oraculum](https://www.powershellgallery.com/Packages/Oraculum/1.1.0.5) | 1.1.0.5
 
 ### Published: 11/05/2023 09:30:23 by Antonio Cisternino
@@ -60,14 +148,6 @@ __Downloads__: 6,198 | __Repository__: https://github.com/StartAutomating/ugit
 Import and export objects to parquet format
 
 __Downloads__: 1,280 | __Repository__: 
-
-## [TcPrjMgmt](https://www.powershellgallery.com/Packages/TcPrjMgmt/0.3.2) | 0.3.2
-
-### Published: 11/04/2023 21:11:15 by Giang Nguyen
-
-Utilities for managing TwinCAT solutions and projects. Including PLC project exporting, and library installation and uninstallation. NOTE: This module requires >= TwinCAT 3.1.4024.10 (XAR Runtime or Full) (local installation)
-
-__Downloads__: 29 | __Repository__: https://github.com/ahuca/TcPrjMgmt/tree/main
 
 ## [PersistenceSniper](https://www.powershellgallery.com/Packages/PersistenceSniper/1.14.0) | 1.14.0
 
@@ -201,14 +281,6 @@ HARpwn: A PowerShell module for extracting and sanitizing HARTokens from HTTP Ar
 
 __Downloads__: 0 | __Repository__: https://github.com/HCRitter/HARpwn
 
-## [PSModule.FX](https://www.powershellgallery.com/Packages/PSModule.FX/0.0.183) | 0.0.183
-
-### Published: 11/03/2023 13:20:45 by PSModule
-
-PSModule Framework PowerShell Module
-
-__Downloads__: 1,068 | __Repository__: https://github.com/PSModule/PSModule.FX
-
 ## [PSSymantecSEPM](https://www.powershellgallery.com/Packages/PSSymantecSEPM/0.3.1) | 0.3.1
 
 ### Published: 11/03/2023 11:51:25 by Aurélien BOUMANNE
@@ -216,14 +288,6 @@ __Downloads__: 1,068 | __Repository__: https://github.com/PSModule/PSModule.FX
 Common set of tools to interact with Symantec Endpoint Protection Manager (SEPM) product
 
 __Downloads__: 11 | __Repository__: https://github.com/Douda/PSSymantecSEPM
-
-## [GitHub](https://www.powershellgallery.com/Packages/GitHub/0.3.57) | 0.3.57
-
-### Published: 11/03/2023 11:24:45 by PSModule
-
-GitHub PowerShell Module
-
-__Downloads__: 2,466 | __Repository__: https://github.com/PSModule/GitHub
 
 ## [TisaneLampClient](https://www.powershellgallery.com/Packages/TisaneLampClient/7.0.8) | 7.0.8
 
@@ -248,14 +312,6 @@ __Downloads__: 560 | __Repository__: https://docs.justcat.it/
 Interact with the Atlassian Cloud APIs using PowerShell
 
 __Downloads__: 5,694 | __Repository__: https://github.com/andylyonette/AtlassianCloudPS
-
-## [UiPathOrch](https://www.powershellgallery.com/Packages/UiPathOrch/0.8.0.2) | 0.8.0.2
-
-### Published: 11/03/2023 09:05:28 by Yoshifumi Tsuda
-
-Provider for Orchestrator entities.
-
-__Downloads__: 0 | __Repository__: 
 
 ## [PSPublishModule](https://www.powershellgallery.com/Packages/PSPublishModule/2.0.9) | 2.0.9
 
@@ -2041,60 +2097,4 @@ BusinessPlus Community PowerShell Module for BusinessPlus
 
 __Downloads__: 2 | __Repository__: 
 
-## [AppManiProgramManager](https://www.powershellgallery.com/Packages/AppManiProgramManager/1.44.4) | 1.44.4
-
-### Published: 10/28/2023 02:28:52 by AppMani
-
-Module for installing basic programs: This module provides functions for downloading installers from specified links, installing the programs, verifying the installed programs/services, and cleaning up the installer files.
-
-__Downloads__: 114,807 | __Repository__: 
-
-## [WindowsOSServicing](https://www.powershellgallery.com/Packages/WindowsOSServicing/2310.1) | 2310.1
-
-### Published: 10/27/2023 22:46:53 by Ashley How
-
-Gets Windows OS servicing information to check if OS is currently serviced. Useful for scripting and automation purposes. Supports Windows 10 and Windows Server 2016 onwards.
-
-__Downloads__: 6,585 | __Repository__: https://github.com/AshleyHow/WindowsOSServicing
-
-## [PKCE](https://www.powershellgallery.com/Packages/PKCE/1.0.2) | 1.0.2
-
-### Published: 10/27/2023 22:33:17 by Darren J Robinson
-
-Generate OAuth 2.0 Proof Key for Code Exchange (PKCE) 'code_challenge' and 'code_verifier' for use with an OAuth2 Authorization Code Grant flow
-
-__Downloads__: 2,705 | __Repository__: https://github.com/darrenjrobinson/PKCE
-
-## [Microsoft.PowerShell.ConsoleGuiTools](https://www.powershellgallery.com/Packages/Microsoft.PowerShell.ConsoleGuiTools/0.7.6.0) | 0.7.6.0
-
-### Published: 10/27/2023 20:32:58 by PowerShell Team
-
-Cross-platform Console Gui Tools for PowerShell
-
-__Downloads__: 68,876 | __Repository__: https://github.com/PowerShell/GraphicalTools/
-
-## [cr-devops-rest](https://www.powershellgallery.com/Packages/cr-devops-rest/2023.10.285) | 2023.10.285
-
-### Published: 10/27/2023 20:04:01 by Ryan.Phay@clearesult.com
-
-Create straight forward REST calls in PowerShell based on API endpoints defined in .json files.  Add your own REST API endpoints by simply creating new .json files.
-
-__Downloads__: 90 | __Repository__: https://github.com/CLEAResult/it.devops.psm.rest
-
-## [Repair-MSAuth](https://www.powershellgallery.com/Packages/Repair-MSAuth/1.1.1.0) | 1.1.1.0
-
-### Published: 10/27/2023 19:59:18 by Dailen Gunter
-
-Powershell module for fixing certain Microsoft authentication issues
-
-__Downloads__: 5 | __Repository__: 
-
-## [DellOpenManage](https://www.powershellgallery.com/Packages/DellOpenManage/3.7.0) | 3.7.0
-
-### Published: 10/27/2023 17:21:10 by Trevor Squillario <Trevor.Squillario@Dell.com>
-
-Dell OpenManage Enterprise PowerShell Module
-
-__Downloads__: 5,793 | __Repository__: https://github.com/dell/OpenManage-PowerShell-Modules
-
-*Updated: Sunday, 05 November 2023 09:53:43 UTC*
+*Updated: Sunday, 05 November 2023 17:53:03 UTC*

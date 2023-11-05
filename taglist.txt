@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Sunday, 05 November 2023 09:53:59 UTC
+Updated: Sunday, 05 November 2023 17:53:16 UTC
 
 .bat
 .env
@@ -396,6 +396,7 @@ appraiser
 approve
 apps
 appservice
+appservices
 appsetting
 appv
 appveyor
@@ -924,6 +925,7 @@ businessobjects
 businessrulesengine
 businesstime
 bxor
+bydesign
 byexample
 bynarypsmodule
 byovd
@@ -1083,6 +1085,7 @@ christmas
 chrome
 chromium
 chunk
+churchofjesuschrist
 ci
 ci/cd
 cic
@@ -1437,7 +1440,9 @@ copyright
 core
 coreepower
 coreepower.common
+coreepower.config
 coreepower.lib
+coreepower.module
 coreepower.net
 coreepower.net.soundcloudexplode
 coreposh
@@ -1521,6 +1526,7 @@ crontab
 cropping
 cross-platform
 crossjoin
+crossover
 crossplatform
 crossplatformdevelopment
 crowdstrike
@@ -1593,6 +1599,7 @@ cyberark-api
 cyberark-identity
 cyberdrain
 cybereason
+cybersamurai
 cybersecurity
 cyberwatch
 cyclic
@@ -2286,6 +2293,7 @@ evernote
 everydaypowershell
 everydayrewards
 everything
+evolutionary-algorithms
 evolutionary-database
 evtx
 ews
@@ -2675,6 +2683,7 @@ generation
 generator
 generic
 genericartifactscontent
+genetic-algorithm
 genp
 genxdev
 geo
@@ -2770,6 +2779,7 @@ gmail
 gmap
 gmaps
 gmsa
+gnucash
 gnuwin32
 go
 gobright
@@ -2825,7 +2835,6 @@ graphics
 graphite
 graphql
 graphs
-graphservices
 graphviz
 graylog
 greenplum
@@ -3022,7 +3031,6 @@ hosts-file
 hostsfile
 hot-water
 hotkey
-hotkeys
 howto
 hp
 hpc
@@ -3458,6 +3466,8 @@ k8s
 k8sshell
 kafka
 kaminario
+karabiner
+karabiner-elements
 karma
 kaseya
 kaseyavsa
@@ -3481,11 +3491,14 @@ key
 key-vault
 key2wocas
 keybase
+keybinding
 keyboard
 keyboardstartkey
 keycipher
 keylight
 keymanagement
+keymap
+keymapping
 keypair
 keysms
 keyvault
@@ -3546,7 +3559,6 @@ lambda
 lame
 lametrictime
 lamp
-lan
 landingzones
 language
 languagedsc
@@ -3615,7 +3627,6 @@ license-generator
 licenseautomation
 licensemanagement
 licensemanager
-licensereport
 licenses
 licensing
 life
@@ -3725,6 +3736,7 @@ login
 login-azurermaccount
 login-rdp
 logingestion
+loginscreen
 loginsight
 logiphys
 logistic
@@ -4167,11 +4179,11 @@ multiserver
 multistring
 multithread
 multithreaded
-multithreaded-helpers
 multithreading
 music
 musiccast
 mustache
+mutation
 mute
 mutex
 mva
@@ -4212,6 +4224,7 @@ nasdaq
 native
 natpool
 natural-language-to-code
+natural-selection
 nav
 navigation
 nbi
@@ -4244,6 +4257,7 @@ netcease
 netcore
 netfirewallrule
 netherlands
+netmap
 netmask
 nets
 netsapiens
@@ -4541,6 +4555,7 @@ ops
 opsi
 opsmgr
 optics
+optimization
 optimizer
 option
 option119
@@ -4704,6 +4719,7 @@ pathfinder
 patternmatching
 pause
 pax8
+payload
 paylocity
 paypal
 pays
@@ -4783,7 +4799,6 @@ pinvoke
 pip
 pip3
 pipe
-pipedrive
 pipeline
 pipelines
 pipenv
@@ -4852,6 +4867,7 @@ pop
 pop-location
 pop3
 popd
+population
 popup
 port
 port-scanner
@@ -9270,6 +9286,7 @@ staging
 stale
 stan
 stanc
+standalone
 standard
 standarderror
 standardoutput
@@ -9306,6 +9323,7 @@ stdout
 steam
 steam-games
 steamcmd
+stepper
 sticker
 sticker-pack
 stickers
@@ -9371,7 +9389,6 @@ subnetmask
 subnetmaths
 subnets
 subnetting
-subscribedskus
 subscription
 subscriptiondefinition
 subset
@@ -9519,7 +9536,6 @@ tcp
 tcp/ip
 tcpip
 tcpport
-tcprjmgmt
 tcpserver
 tcptest
 tcx
@@ -10033,7 +10049,6 @@ vault
 vaultextension
 vaultstore
 vaultwarden
-vb365
 vba
 vbaproject
 vbproj
@@ -10223,6 +10238,7 @@ waitforobject
 wakeonlan
 wakeup
 walk
+wallet
 wallpaper
 wallpapers
 wannacry
@@ -10258,6 +10274,7 @@ webadministration
 webapi
 webapp
 webapplicationproxy
+webapps
 webcamera
 webcmdlets
 webdav
@@ -10426,6 +10443,7 @@ wisconsin-madison
 wisconsin'uw-madison
 wisdom
 with
+wizard
 wkhtmltopdf
 wlan
 wmf
@@ -10517,6 +10535,7 @@ wunderlist
 wus
 wvd
 www
+x-cart
 x.509
 x1
 x2
