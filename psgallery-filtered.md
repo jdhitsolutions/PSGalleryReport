@@ -3,6 +3,310 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [SysMan.WebApi](https://www.powershellgallery.com/Packages/SysMan.WebApi/3.8.11297) | 3.8.11297
+
+### Published: 11/06/2023 16:37:40 by Marcus Melberg
+
+The official eKlient Powershell module to simplify integration with SysMan
+
+__Downloads__: 2,936 | __Repository__: https://www.inera.se/eklient
+
+## [SkylineAutomationToolkit](https://www.powershellgallery.com/Packages/SkylineAutomationToolkit/1.2.9) | 1.2.9
+
+### Published: 11/06/2023 16:01:57 by Sonny Nguyen
+
+SkylineAutomationToolkit
+
+__Downloads__: 628 | __Repository__: 
+
+## [NTS.Tools](https://www.powershellgallery.com/Packages/NTS.Tools/2.0.0.2) | 2.0.0.2
+
+### Published: 11/06/2023 15:55:41 by Moritz Wiedmann
+
+NTS.Tools module contains tools for ConfigMgr and course deployment
+
+__Downloads__: 1,791 | __Repository__: 
+
+## [NTS.Tools.MSSQL](https://www.powershellgallery.com/Packages/NTS.Tools.MSSQL/2.0.0.2) | 2.0.0.2
+
+### Published: 11/06/2023 15:55:30 by Moritz Wiedmann
+
+NTS.Tools.MSSQL module contains functions that are mainly related to Microsoft SQL Server
+
+__Downloads__: 1,733 | __Repository__: 
+
+## [NTS.Tools.MSHyperV](https://www.powershellgallery.com/Packages/NTS.Tools.MSHyperV/2.0.0.2) | 2.0.0.2
+
+### Published: 11/06/2023 15:55:22 by Moritz Wiedmann
+
+NTS.Tools.MSHyperV module contains functions that are mainly related to Microsoft Hyper-V
+
+__Downloads__: 1,766 | __Repository__: 
+
+## [NTS.Tools.MSExchange](https://www.powershellgallery.com/Packages/NTS.Tools.MSExchange/2.0.0.2) | 2.0.0.2
+
+### Published: 11/06/2023 15:55:15 by Moritz Wiedmann
+
+NTS.Tools.MSExchange module contains functions that are mainly related to around Microsoft Exchange
+
+__Downloads__: 1,727 | __Repository__: 
+
+## [NTS.Tools.MSConfigMgr](https://www.powershellgallery.com/Packages/NTS.Tools.MSConfigMgr/2.0.0.2) | 2.0.0.2
+
+### Published: 11/06/2023 15:55:08 by Moritz Wiedmann
+
+NTS.Tools.MSConfigMgr module contains functions that are mainly related to Microsoft Endpoint Configuration Manger
+
+__Downloads__: 1,731 | __Repository__: 
+
+## [NTS.Tools.MSADDS](https://www.powershellgallery.com/Packages/NTS.Tools.MSADDS/2.0.0.2) | 2.0.0.2
+
+### Published: 11/06/2023 15:55:02 by Moritz Wiedmann
+
+NTS.Tools.MSADDS module contains functions that are mainly related to Microsoft Active Directory Domain Services
+
+__Downloads__: 1,713 | __Repository__: 
+
+## [NTS.Tools.MSADCS](https://www.powershellgallery.com/Packages/NTS.Tools.MSADCS/2.0.0.2) | 2.0.0.2
+
+### Published: 11/06/2023 15:54:55 by Moritz Wiedmann
+
+NTS.Tools.MSADCS module contains functions that are mainly related to Microsoft Active Directory Certification Services
+
+__Downloads__: 1,729 | __Repository__: 
+
+## [NTS.Tools.Application](https://www.powershellgallery.com/Packages/NTS.Tools.Application/2.0.0.2) | 2.0.0.2
+
+### Published: 11/06/2023 15:54:49 by Moritz Wiedmann
+
+NTS.Tools.Application module contains functions to install applications
+
+__Downloads__: 739 | __Repository__: 
+
+## [NTS.Tools.General](https://www.powershellgallery.com/Packages/NTS.Tools.General/2.0.0.2) | 2.0.0.2
+
+### Published: 11/06/2023 15:54:41 by Moritz Wiedmann
+
+NTS.Tools.General module contains functions that are used for general purpose
+
+__Downloads__: 1,937 | __Repository__: 
+
+## [SACRED](https://www.powershellgallery.com/Packages/SACRED/0.1.0) | 0.1.0
+
+### Published: 11/06/2023 15:47:33 by Chris Clohosy
+
+This is the top-level module for SACRED. It enables a combination of sub modules to be installed at once from one global version.
+
+__Downloads__: 28 | __Repository__: https://github.com/ccdigix/SACRED
+
+## [SACRED.Util.Azure](https://www.powershellgallery.com/Packages/SACRED.Util.Azure/0.1.0) | 0.1.0
+
+### Published: 11/06/2023 15:46:40 by Chris Clohosy
+
+This module contains Azure-specific utility logic for SACRED.
+
+__Downloads__: 14 | __Repository__: https://github.com/ccdigix/SACRED
+
+## [SACRED.Util](https://www.powershellgallery.com/Packages/SACRED.Util/0.1.0) | 0.1.0
+
+### Published: 11/06/2023 15:46:19 by Chris Clohosy
+
+This module contains general utility logic for SACRED.
+
+__Downloads__: 12 | __Repository__: https://github.com/ccdigix/SACRED
+
+## [SACRED.Update.Windows.CertificateStore](https://www.powershellgallery.com/Packages/SACRED.Update.Windows.CertificateStore/0.1.0) | 0.1.0
+
+### Published: 11/06/2023 15:46:00 by Chris Clohosy
+
+This module contains SACRED logic for updating Windows certificate stores.
+
+__Downloads__: 7 | __Repository__: https://github.com/ccdigix/SACRED
+
+## [SACRED.Update.Azure.KeyVault](https://www.powershellgallery.com/Packages/SACRED.Update.Azure.KeyVault/0.1.0) | 0.1.0
+
+### Published: 11/06/2023 15:45:42 by Chris Clohosy
+
+This module contains SACRED logic for updating Azure Key Vault secrets and certificates.
+
+__Downloads__: 20 | __Repository__: https://github.com/ccdigix/SACRED
+
+## [SACRED.Store.Local](https://www.powershellgallery.com/Packages/SACRED.Store.Local/0.1.0) | 0.1.0
+
+### Published: 11/06/2023 15:45:20 by Chris Clohosy
+
+This module contains a SACRED store implementation that reads and writes from/to the local file system.
+
+__Downloads__: 12 | __Repository__: https://github.com/ccdigix/SACRED
+
+## [SACRED.Store](https://www.powershellgallery.com/Packages/SACRED.Store/0.1.0) | 0.1.0
+
+### Published: 11/06/2023 15:45:02 by Chris Clohosy
+
+This module contains general logic for storing and retrieving data from a SACRED store.
+
+__Downloads__: 18 | __Repository__: https://github.com/ccdigix/SACRED
+
+## [SACRED.Server.Pode](https://www.powershellgallery.com/Packages/SACRED.Server.Pode/0.1.0) | 0.1.0
+
+### Published: 11/06/2023 15:44:41 by Chris Clohosy
+
+This module contains the logic required to run SACRED within a Pode server.
+
+__Downloads__: 0 | __Repository__: https://github.com/ccdigix/SACRED
+
+## [SACRED.SecretStore.PodeConfigFile](https://www.powershellgallery.com/Packages/SACRED.SecretStore.PodeConfigFile/0.1.0) | 0.1.0
+
+### Published: 11/06/2023 15:44:22 by Chris Clohosy
+
+This module contains logic for interacting with secrets that are required by SACRED, that are stored in the Pode server config file.
+
+__Downloads__: 0 | __Repository__: https://github.com/ccdigix/SACRED
+
+## [SACRED.SecretStore.EnvironmentVariable](https://www.powershellgallery.com/Packages/SACRED.SecretStore.EnvironmentVariable/0.1.0) | 0.1.0
+
+### Published: 11/06/2023 15:44:03 by Chris Clohosy
+
+This module contains logic for interacting with secrets that are required by SACRED, that are stored in environment variables.
+
+__Downloads__: 5 | __Repository__: https://github.com/ccdigix/SACRED
+
+## [SACRED.SecretStore](https://www.powershellgallery.com/Packages/SACRED.SecretStore/0.1.0) | 0.1.0
+
+### Published: 11/06/2023 15:43:45 by Chris Clohosy
+
+This module contains general logic for storing secrets that are required by SACRED.
+
+__Downloads__: 5 | __Repository__: https://github.com/ccdigix/SACRED
+
+## [SACRED.Rotate.Azure.ServicePrincipal](https://www.powershellgallery.com/Packages/SACRED.Rotate.Azure.ServicePrincipal/0.1.0) | 0.1.0
+
+### Published: 11/06/2023 15:43:23 by Chris Clohosy
+
+This module contains SACRED logic for rotating Entra Service Principal secrets and certificates.
+
+__Downloads__: 14 | __Repository__: https://github.com/ccdigix/SACRED
+
+## [SACRED.Rotate.Azure.CosmosDB](https://www.powershellgallery.com/Packages/SACRED.Rotate.Azure.CosmosDB/0.1.0) | 0.1.0
+
+### Published: 11/06/2023 15:43:06 by Chris Clohosy
+
+This module contains SACRED logic for rotating Azure Cosmos DB keys.
+
+__Downloads__: 17 | __Repository__: https://github.com/ccdigix/SACRED
+
+## [SACRED.Log.Pode](https://www.powershellgallery.com/Packages/SACRED.Log.Pode/0.1.0) | 0.1.0
+
+### Published: 11/06/2023 15:42:47 by Chris Clohosy
+
+This module contains a SACRED logging implementation that writes to the Pode server terminal and log file.
+
+__Downloads__: 0 | __Repository__: https://github.com/ccdigix/SACRED
+
+## [SACRED.Log.Local](https://www.powershellgallery.com/Packages/SACRED.Log.Local/0.1.0) | 0.1.0
+
+### Published: 11/06/2023 15:42:24 by Chris Clohosy
+
+This module contains a local SACRED logging implementation that writes to the console and to a log file.
+
+__Downloads__: 8 | __Repository__: https://github.com/ccdigix/SACRED
+
+## [SACRED.Log](https://www.powershellgallery.com/Packages/SACRED.Log/0.1.0) | 0.1.0
+
+### Published: 11/06/2023 15:42:07 by Chris Clohosy
+
+This module contains classes that define how SACRED logging implementations should behave.
+
+__Downloads__: 8 | __Repository__: https://github.com/ccdigix/SACRED
+
+## [SACRED.Job](https://www.powershellgallery.com/Packages/SACRED.Job/0.1.0) | 0.1.0
+
+### Published: 11/06/2023 15:41:31 by Chris Clohosy
+
+This module contains logic for running a SACRED job either directly, or as part of a wider schedule of jobs.
+
+__Downloads__: 23 | __Repository__: https://github.com/ccdigix/SACRED
+
+## [PSSailpoint](https://www.powershellgallery.com/Packages/PSSailpoint/1.2.0) | 1.2.0
+
+### Published: 11/06/2023 15:18:46 by Sailpoint Developer Relations
+
+PSSailpoint - the PowerShell module for IdentityNow
+
+__Downloads__: 670 | __Repository__: 
+
+## [UiPathOrch](https://www.powershellgallery.com/Packages/UiPathOrch/0.8.0.6) | 0.8.0.6
+
+### Published: 11/06/2023 14:02:37 by Yoshifumi Tsuda
+
+Provider for Orchestrator entities.
+
+__Downloads__: 0 | __Repository__: 
+
+## [MSPToolBox](https://www.powershellgallery.com/Packages/MSPToolBox/1.2.3) | 1.2.3
+
+### Published: 11/06/2023 13:24:04 by Jeshua Edgar
+
+This module leverages Secure App Model and PartnerCenter to connect to all your Partner Center tenants
+
+__Downloads__: 59 | __Repository__: https://github.com/JeshuaEdgar/msp-toolbox
+
+## [iPilot](https://www.powershellgallery.com/Packages/iPilot/1.1.7) | 1.1.7
+
+### Published: 11/06/2023 12:55:59 by Joel Clark
+
+PowerShell functions to interact with iPilot API
+
+__Downloads__: 515 | __Repository__: https://github.com/NuWave-Communications/ipilot-powershell
+
+## [PSParquet](https://www.powershellgallery.com/Packages/PSParquet/0.2.1) | 0.2.1
+
+### Published: 11/06/2023 12:36:01 by Axel Bøg Andersen
+
+Import and export objects to parquet format
+
+__Downloads__: 1,280 | __Repository__: 
+
+## [Drm.Templates.Powershell](https://www.powershellgallery.com/Packages/Drm.Templates.Powershell/2.1.4) | 2.1.4
+
+### Published: 11/06/2023 12:08:36 by Stuart Elcocks
+
+Drm Template Tools allow you to generate and deploy configuration templates to your Microsoft Dynamics 365 online environments. DRM is a wrapper utility based around the Dynamics 365 online web api that allows you to configure and maintain many Dynamics entities. https://docs.drmtemplates.io/drmtemplates/supported-web-api-entities.html Check out the documentation here https://docs.drmtemplates.io/ to see how easy it is to get up and running quickly.
+
+__Downloads__: 724 | __Repository__: https://docs.drmtemplates.io/
+
+## [RDG.Deployment.Utils](https://www.powershellgallery.com/Packages/RDG.Deployment.Utils/0.0.9) | 0.0.9
+
+### Published: 11/06/2023 11:43:53 by kristoffersvanmark
+
+Includes a set of utility functions for deployment
+
+__Downloads__: 319 | __Repository__: 
+
+## [Particular.ServiceControl.Management](https://www.powershellgallery.com/Packages/Particular.ServiceControl.Management/4.32.3) | 4.32.3
+
+### Published: 11/06/2023 11:35:23 by Particular Software
+
+ServiceControl Management
+
+__Downloads__: 634 | __Repository__: https://github.com/Particular/ServiceControl
+
+## [AtlassianCloudPS](https://www.powershellgallery.com/Packages/AtlassianCloudPS/0.8.8) | 0.8.8
+
+### Published: 11/06/2023 11:10:13 by Andy Lyonette
+
+Interact with the Atlassian Cloud APIs using PowerShell
+
+__Downloads__: 5,694 | __Repository__: https://github.com/andylyonette/AtlassianCloudPS
+
+## [SentinelARConverter](https://www.powershellgallery.com/Packages/SentinelARConverter/2.2.2) | 2.2.2
+
+### Published: 11/06/2023 10:27:17 by Fabian Bader
+
+Helper module to convert Sentinel Analytics Rules between YAML, ARM and back
+
+__Downloads__: 2,987 | __Repository__: https://github.com/f-bader/SentinelARConverter
+
 ## [PwshSpectreConsole](https://www.powershellgallery.com/Packages/PwshSpectreConsole/0.3.10) | 0.3.10
 
 ### Published: 11/06/2023 09:51:12 by Shaun Lawrie
@@ -26,14 +330,6 @@ __Downloads__: 0 | __Repository__: https://github.com/KatsutoshiOtogawa/Kernel32
 This module is designed to make it easier to use the internal Datto DBPool API in your PowerShell scripts. As some of the hard work is done, you can develop your scripts faster and be more effecient. There is no need to go through a big learning curve spending lots of time working out how to use the Datto DBPool API. Simply load the module, enter your API key and get results within minutes!
 
 __Downloads__: 0 | __Repository__: https://github.com/cksapp/DattoDBPool_Module
-
-## [UiPathOrch](https://www.powershellgallery.com/Packages/UiPathOrch/0.8.0.5) | 0.8.0.5
-
-### Published: 11/06/2023 03:38:06 by Yoshifumi Tsuda
-
-Provider for Orchestrator entities.
-
-__Downloads__: 0 | __Repository__: 
 
 ## [tiPS](https://www.powershellgallery.com/Packages/tiPS/1.0.12) | 1.0.12
 
@@ -71,6 +367,14 @@ A module to be able to do more with Microsoft Fabric.
 
 __Downloads__: 0 | __Repository__: https://www.github.com/jojobit/FabTools
 
+## [Devdeer.Caf](https://www.powershellgallery.com/Packages/Devdeer.Caf/0.0.23) | 0.0.23
+
+### Published: 11/05/2023 21:21:45 by DEVDEER
+
+This module contains the cmdlets to manage and prepare Azure Tenants in a CAF conform way.
+
+__Downloads__: 0 | __Repository__: https://devdeer.com/
+
 ## [dbatools](https://www.powershellgallery.com/Packages/dbatools/2.1.5) | 2.1.5
 
 ### Published: 11/05/2023 17:41:49 by the dbatools team
@@ -86,14 +390,6 @@ __Downloads__: 3,274,648 | __Repository__: https://dbatools.io/
 PSModule Framework PowerShell Module
 
 __Downloads__: 1,068 | __Repository__: https://github.com/PSModule/PSModule.FX
-
-## [SentinelARConverter](https://www.powershellgallery.com/Packages/SentinelARConverter/2.2.1) | 2.2.1
-
-### Published: 11/05/2023 17:21:02 by Fabian Bader
-
-Helper module to convert Sentinel Analytics Rules between YAML, ARM and back
-
-__Downloads__: 2,987 | __Repository__: https://github.com/f-bader/SentinelARConverter
 
 ## [brickBOX](https://www.powershellgallery.com/Packages/brickBOX/1.0.0) | 1.0.0
 
@@ -176,14 +472,6 @@ ugit:  Updated Git.
 A powerful PowerShell wrapper for git that lets you extend git, automate multiple repos, and use the object pipeline.
 
 __Downloads__: 6,198 | __Repository__: https://github.com/StartAutomating/ugit
-
-## [PSParquet](https://www.powershellgallery.com/Packages/PSParquet/0.2.0) | 0.2.0
-
-### Published: 11/04/2023 22:41:06 by Axel Bøg Andersen
-
-Import and export objects to parquet format
-
-__Downloads__: 1,280 | __Repository__: 
 
 ## [TcPrjMgmt](https://www.powershellgallery.com/Packages/TcPrjMgmt/0.3.2) | 0.3.2
 
@@ -349,14 +637,6 @@ Author, run and manage AUTOMATED TESTS for your DATA with minimum effort.
 
 __Downloads__: 560 | __Repository__: https://docs.justcat.it/
 
-## [AtlassianCloudPS](https://www.powershellgallery.com/Packages/AtlassianCloudPS/0.8.7) | 0.8.7
-
-### Published: 11/03/2023 09:45:49 by Andy Lyonette
-
-Interact with the Atlassian Cloud APIs using PowerShell
-
-__Downloads__: 5,694 | __Repository__: https://github.com/andylyonette/AtlassianCloudPS
-
 ## [PSPublishModule](https://www.powershellgallery.com/Packages/PSPublishModule/2.0.9) | 2.0.9
 
 ### Published: 11/03/2023 08:57:35 by Przemyslaw Klys
@@ -395,14 +675,6 @@ __Downloads__: 2,146 | __Repository__: https://admf.one/
 QCT Driver and Firmware Update Management.
 
 __Downloads__: 6,114 | __Repository__: 
-
-## [cowponder](https://www.powershellgallery.com/Packages/cowponder/0.0.3) | 0.0.3
-
-### Published: 11/03/2023 07:36:24 by Reid Dye
-
-a pensive cow
-
-__Downloads__: 13 | __Repository__: https://max.xz.ax/cowponder
 
 ## [Corsinvest.ProxmoxVE.Api](https://www.powershellgallery.com/Packages/Corsinvest.ProxmoxVE.Api/8.0.4) | 8.0.4
 
@@ -1807,298 +2079,4 @@ Functions that have no purpose
 
 __Downloads__: 15,333 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
-## [AdminToolbox.FileManagement](https://www.powershellgallery.com/Packages/AdminToolbox.FileManagement/1.15.102) | 1.15.102
-
-### Published: 10/31/2023 14:16:56 by Taylor Lee
-
-File Management Functions
-
-__Downloads__: 16,012 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-## [AdminToolbox.FFTools](https://www.powershellgallery.com/Packages/AdminToolbox.FFTools/4.16.61) | 4.16.61
-
-### Published: 10/31/2023 14:16:22 by Taylor Lee
-
-Expedite simple ffmpeg actions
-
-__Downloads__: 15,913 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-## [AdminToolbox.Exchange](https://www.powershellgallery.com/Packages/AdminToolbox.Exchange/1.9.112) | 1.9.112
-
-### Published: 10/31/2023 14:15:48 by Taylor Lee
-
-Functions for Exchange Management
-
-__Downloads__: 16,999 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-## [AdminToolbox.EndpointManagement](https://www.powershellgallery.com/Packages/AdminToolbox.EndpointManagement/4.9.104) | 4.9.104
-
-### Published: 10/31/2023 14:15:14 by Taylor Lee
-
-Functions for management of endpoints
-
-__Downloads__: 17,861 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-## [AdminToolbox.ActiveDirectory](https://www.powershellgallery.com/Packages/AdminToolbox.ActiveDirectory/1.9.109) | 1.9.109
-
-### Published: 10/31/2023 14:14:38 by Taylor Lee
-
-Functions for Active Directory
-
-__Downloads__: 19,324 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-## [spec.teamviewer.utilities](https://www.powershellgallery.com/Packages/spec.teamviewer.utilities/1.0.5) | 1.0.5
-
-### Published: 10/31/2023 13:35:27 by owen.heaume
-
-A module to help manage TeamViewer
-
-__Downloads__: 19 | __Repository__: 
-
-## [ADOPS](https://www.powershellgallery.com/Packages/ADOPS/2.0.3) | 2.0.3
-
-### Published: 10/31/2023 13:25:09 by the PwrOps collective
-
-Manage Azure DevOps using PowerShell
-
-__Downloads__: 341 | __Repository__: https://github.com/AZDOPS/AZDOPS/
-
-## [aztools](https://www.powershellgallery.com/Packages/aztools/1.0.3) | 1.0.3
-
-### Published: 10/31/2023 03:54:26 by Skatterbrainz
-
-Azure PowerShell Tools
-
-__Downloads__: 806 | __Repository__: https://github.com/Skatterbrainz/aztools
-
-## [Pode](https://www.powershellgallery.com/Packages/Pode/2.9.0) | 2.9.0
-
-### Published: 10/30/2023 23:23:28 by Matthew Kelly (Badgerati)
-
-A Cross-Platform PowerShell framework for creating web servers to host REST APIs and Websites. Pode also has support for being used in Azure Functions and AWS Lambda.
-
-__Downloads__: 105,323 | __Repository__: https://github.com/Badgerati/Pode
-
-## [DevolutionsGateway](https://www.powershellgallery.com/Packages/DevolutionsGateway/2023.3.0) | 2023.3.0
-
-### Published: 10/30/2023 21:17:35 by Devolutions
-
-Devolutions Gateway PowerShell Module
-
-__Downloads__: 1,158 | __Repository__: https://github.com/Devolutions/devolutions-gateway/tree/master/powershell/
-
-## [MeasureRows](https://www.powershellgallery.com/Packages/MeasureRows/0.9.1) | 0.9.1
-
-### Published: 10/30/2023 20:12:44 by florian.von.bracht@apteco.de
-
-Apteco PS Modules - PowerShell file rows count
-
-Just use
-
-Measure-Rows -Path "C:\Temp\Example.csv"
-
-or
-
-"C:\Temp\Example.csv" | Measure-Rows -SkipFirstRow
-
-or
-
-Measure-Rows -Path "C:\Temp\Example.csv" -Encoding UTF8
-
-or even
-
-"C:\Users\Florian\Downloads\adressen.csv", "C:\Users\Florian\Downloads\italian.csv" | Measure-Rows -SkipFirstRow -Encoding ([System.Text.Encoding]::UTF8)
-
-to count the rows in a csv file. It uses a .NET streamreader and is extremly fast.
-
-The default encoding is UTF8, but it uses the ones available in [System.Text.Encoding]
-
-If you want to skip the first line, just use this Switch -SkipFirstRow
-
-__Downloads__: 51 | __Repository__: https://github.com/Apteco/AptecoPSModules/tree/main/MeasureRows
-
-## [PoshFunctions](https://www.powershellgallery.com/Packages/PoshFunctions/2.2.10) | 2.2.10
-
-### Published: 10/30/2023 19:09:18 by Bill Riedy
-
-A curated collection of over 225 PowerShell functions. Many functions written by me. Others are attributed wherever possible.
-
-__Downloads__: 9,290 | __Repository__: https://github.com/riedyw/PoshFunctions
-
-## [Universal](https://www.powershellgallery.com/Packages/Universal/4.1.8) | 4.1.8
-
-### Published: 10/30/2023 18:22:07 by Ironman Software
-
-Module for PowerShell Universal.
-
-__Downloads__: 50,023 | __Repository__: https://ironmansoftware.com/powershell-universal
-
-## [FinancialPackage.PowershellGalleryModule](https://www.powershellgallery.com/Packages/FinancialPackage.PowershellGalleryModule/1.0.3) | 1.0.3
-
-### Published: 10/30/2023 17:49:45 by FastTrack In-Product Experiences Team
-
-Financial package to create new Sensitive Information Types for MIP
-
-__Downloads__: 24 | __Repository__: 
-
-## [IDandCollabTools](https://www.powershellgallery.com/Packages/IDandCollabTools/1.4.1) | 1.4.1
-
-### Published: 10/30/2023 16:28:45 by Stevie Lamb
-
-A module containing helper functions for common tasks involving Azure AD and M365
-
-__Downloads__: 75 | __Repository__: 
-
-## [HPDrivers](https://www.powershellgallery.com/Packages/HPDrivers/1.3.2) | 1.3.2
-
-### Published: 10/30/2023 16:01:27 by Dawid Prowadzisz
-
-Update all HP device drivers with a single command.
-
-__Downloads__: 24,210 | __Repository__: https://github.com/UsefulScripts01/HPDrivers
-
-## [spec.base.utilities](https://www.powershellgallery.com/Packages/spec.base.utilities/1.1.8) | 1.1.8
-
-### Published: 10/30/2023 15:46:54 by owen.heaume
-
-Mandatory module for the foundation PowerShell scripts.
-
-__Downloads__: 16,401 | __Repository__: 
-
-## [AppVeyorTestPsGallery](https://www.powershellgallery.com/Packages/AppVeyorTestPsGallery/1.0.530) | 1.0.530
-
-### Published: 10/30/2023 15:46:00 by Feodor Fitsner
-
-The test module to verify publishing to PSGallery from AppVeyor.
-
-__Downloads__: 40,125 | __Repository__: 
-
-## [MGNestedGroups](https://www.powershellgallery.com/Packages/MGNestedGroups/1.0.3) | 1.0.3
-
-### Published: 10/30/2023 14:21:23 by Ole Rand-Hendriksen
-
-A module for working with nested groups in AzureAD/EntraID. Apply licenses to all subgroups with user members of a specified group. Get all subgroups with user members of a specified group. Add all subgroups with user members as users of an enterprise application.
-
-__Downloads__: 9 | __Repository__: https://github.com/randriksen/MGNestedGroups
-
-## [IntuneWin32App](https://www.powershellgallery.com/Packages/IntuneWin32App/1.4.2) | 1.4.2
-
-### Published: 10/30/2023 13:49:35 by Nickolaj Andersen
-
-Provides a set of functions to manage Win32 apps in Microsoft Endpoint Manager (Intune).
-
-__Downloads__: 74,530 | __Repository__: https://github.com/MSEndpointMgr/IntuneWin32App
-
-## [IntuneWin32Deployer](https://www.powershellgallery.com/Packages/IntuneWin32Deployer/0.1.0) | 0.1.0
-
-### Published: 10/30/2023 12:44:30 by Florian Salzmann
-
-Manage, create and upload win32 applications to Intune
-
-__Downloads__: 60 | __Repository__: https://github.com/FlorianSLZ/IntuneWin32Deployer
-
-## [iPilot](https://www.powershellgallery.com/Packages/iPilot/1.1.6) | 1.1.6
-
-### Published: 10/30/2023 12:37:07 by Joel Clark
-
-PowerShell functions to interact with iPilot API
-
-__Downloads__: 515 | __Repository__: https://github.com/NuWave-Communications/ipilot-powershell
-
-## [JaapsTools](https://www.powershellgallery.com/Packages/JaapsTools/18.9.2) | 18.9.2
-
-### Published: 10/30/2023 08:11:31 by JT
-
-JaapsTools
-
-__Downloads__: 590 | __Repository__: 
-
-## [PSServU](https://www.powershellgallery.com/Packages/PSServU/1.12) | 1.12
-
-### Published: 10/29/2023 23:18:14 by Mark.Raming
-
-Automation command to script interaction with SOLARWINDs ServU File Transfer Server, such as up and download files
-
-__Downloads__: 584 | __Repository__: https://github.com/mraming/PSServ-U
-
-## [MyITProcessAPI](https://www.powershellgallery.com/Packages/MyITProcessAPI/2.0.0) | 2.0.0
-
-### Published: 10/29/2023 23:10:49 by David Schulte
-
-This module provides a PowerShell wrapper for the MyITProcess API.
-
-__Downloads__: 65 | __Repository__: https://github.com/Celerium/MyITProcess-PowerShellWrapper
-
-## [better-ls](https://www.powershellgallery.com/Packages/better-ls/0.0.2) | 0.0.2
-
-### Published: 10/29/2023 21:01:49 by RodEsp
-
-A simple replacement for Get-ChildItem with better ordering and formatting
-
-__Downloads__: 3 | __Repository__: 
-
-## [finetuna](https://www.powershellgallery.com/Packages/finetuna/1.0.3) | 1.0.3
-
-### Published: 10/29/2023 19:54:15 by Chrissy LeMaire
-
-OpenAI Fine Tuner
-
-__Downloads__: 40 | __Repository__: https://github.com/potatoqualitee/finetuna
-
-## [WilmaPSWorker](https://www.powershellgallery.com/Packages/WilmaPSWorker/0.3.141) | 0.3.141
-
-### Published: 10/29/2023 16:14:37 by Petri Asikainen
-
-Tools for Visma Wilma
-
-__Downloads__: 377 | __Repository__: 
-
-## [ReflectCmdlet](https://www.powershellgallery.com/Packages/ReflectCmdlet/1.0.3) | 1.0.3
-
-### Published: 10/29/2023 16:12:52 by Aleksander Berus
-
-This module provides the ability to decompile or browse the source code of cmdlet
-
-__Downloads__: 632 | __Repository__: https://github.com/aberus/ReflectCmdlet
-
-## [PsChat](https://www.powershellgallery.com/Packages/PsChat/0.0.49) | 0.0.49
-
-### Published: 10/29/2023 16:08:35 by boeegh
-
-This module is a simple OpenAI/ChatGPT client for PowerShell
-
-__Downloads__: 537 | __Repository__: https://github.com/boeegh/PsChat/
-
-## [New-DispatchThread](https://www.powershellgallery.com/Packages/New-DispatchThread/0.2.1) | 0.2.1
-
-### Published: 10/29/2023 14:32:50 by anonhostpi
-
-Adds a thread (runspace) constructor that returns a wrapped dispatcher object
-
-__Downloads__: 37 | __Repository__: https://github.com/pwsh-cs-tools/core
-
-## [RocketCyberAPI](https://www.powershellgallery.com/Packages/RocketCyberAPI/2.1.0) | 2.1.0
-
-### Published: 10/28/2023 21:57:34 by David Schulte
-
-This module provides a PowerShell wrapper for the RocketCyber API
-
-__Downloads__: 73 | __Repository__: https://github.com/Celerium/RocketCyber-PowerShellWrapper
-
-## [PSCortex](https://www.powershellgallery.com/Packages/PSCortex/0.0.4) | 0.0.4
-
-### Published: 10/28/2023 19:31:53 by lahell
-
-Get endpoints, incidents and alerts from the Cortex XDR API
-
-__Downloads__: 560 | __Repository__: https://github.com/lahell/PSCortex
-
-## [PSSharedGoods](https://www.powershellgallery.com/Packages/PSSharedGoods/0.0.267) | 0.0.267
-
-### Published: 10/28/2023 19:24:04 by Przemyslaw Klys
-
-Module covering functions that are shared within multiple projects
-
-__Downloads__: 237,288 | __Repository__: https://github.com/EvotecIT/PSSharedGoods
-
-*Updated: Monday, 06 November 2023 09:53:25 UTC*
+*Updated: Monday, 06 November 2023 17:52:21 UTC*
