@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Sunday, 05 November 2023 17:53:16 UTC
+Updated: Monday, 06 November 2023 02:05:52 UTC
 
 .bat
 .env
@@ -329,8 +329,6 @@ anonymous
 anova
 ansi
 ansible
-ansible-control-node
-ansiblecontrolnode
 antimalwarescaninterface
 antispam
 antivirus
@@ -1595,8 +1593,6 @@ cvss
 cwi
 cx
 cyberark
-cyberark-api
-cyberark-identity
 cyberdrain
 cybereason
 cybersamurai
@@ -2557,7 +2553,6 @@ force
 forcedelete
 foreach
 foreach-object
-forecast
 forensic
 forensics
 forest
@@ -2835,6 +2830,7 @@ graphics
 graphite
 graphql
 graphs
+graphservices
 graphviz
 graylog
 greenplum
@@ -3031,6 +3027,7 @@ hosts-file
 hostsfile
 hot-water
 hotkey
+hotkeys
 howto
 hp
 hpc
@@ -3559,6 +3556,7 @@ lambda
 lame
 lametrictime
 lamp
+lan
 landingzones
 language
 languagedsc
@@ -3627,6 +3625,7 @@ license-generator
 licenseautomation
 licensemanagement
 licensemanager
+licensereport
 licenses
 licensing
 life
@@ -4179,6 +4178,7 @@ multiserver
 multistring
 multithread
 multithreaded
+multithreaded-helpers
 multithreading
 music
 musiccast
@@ -4789,7 +4789,6 @@ pictures
 pid
 pie
 pim
-pin
 ping
 ping-async
 pingsweep
@@ -4799,12 +4798,12 @@ pinvoke
 pip
 pip3
 pipe
+pipedrive
 pipeline
 pipelines
 pipenv
 pipescript
 piraeus
-pivot
 pivotal
 pivottable
 pixoo
@@ -9389,6 +9388,7 @@ subnetmask
 subnetmaths
 subnets
 subnetting
+subscribedskus
 subscription
 subscriptiondefinition
 subset
@@ -9536,6 +9536,7 @@ tcp
 tcp/ip
 tcpip
 tcpport
+tcprjmgmt
 tcpserver
 tcptest
 tcx
@@ -10049,6 +10050,7 @@ vault
 vaultextension
 vaultstore
 vaultwarden
+vb365
 vba
 vbaproject
 vbproj

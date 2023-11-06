@@ -3,6 +3,58 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [tiPS](https://www.powershellgallery.com/Packages/tiPS/1.0.12) | 1.0.12
+
+### Published: 11/06/2023 00:25:50 by Daniel Schroeder
+
+PowerShell tips delivered straight to your terminal.
+
+__Downloads__: 1,466 | __Repository__: https://github.com/deadlydog/PowerShell.tiPS
+
+## [Kernel32Dll](https://www.powershellgallery.com/Packages/Kernel32Dll/0.0.22) | 0.0.22
+
+### Published: 11/05/2023 23:56:18 by Otogawa Katsutoshi
+
+Windows32 API Kernel32Dll.
+
+__Downloads__: 0 | __Repository__: https://github.com/KatsutoshiOtogawa/Kernel32Dll
+
+## [GitHub](https://www.powershellgallery.com/Packages/GitHub/0.3.72) | 0.3.72
+
+### Published: 11/05/2023 22:29:10 by PSModule
+
+GitHub PowerShell Module
+
+__Downloads__: 2,466 | __Repository__: https://github.com/PSModule/GitHub
+
+## [EZOut](https://www.powershellgallery.com/Packages/EZOut/2.0.3) | 2.0.3
+
+### Published: 11/05/2023 21:56:41 by James Brundage
+
+Easily Author Rich Format Files to Customize PowerShell Output
+
+__Downloads__: 4,851 | __Repository__: https://github.com/StartAutomating/EZOut
+
+## [Fabtools](https://www.powershellgallery.com/Packages/Fabtools/0.5.2) | 0.5.2
+
+### Published: 11/05/2023 21:36:33 by Ioana Bouariu AKA Jojobit
+
+A module to be able to do more with Microsoft Fabric.
+    It lets you pause and resume Fabric capacities.
+    Adds functionallity previously only available with the REST API as PowerShell functions.
+    There are also functions to make it easier to monitor usage metrics and refreshes.
+    It also adds Fabric-friendly aliases for PowerBI functions to make it easier to use the module.
+
+__Downloads__: 0 | __Repository__: https://www.github.com/jojobit/FabTools
+
+## [Devdeer.Caf](https://www.powershellgallery.com/Packages/Devdeer.Caf/0.0.23) | 0.0.23
+
+### Published: 11/05/2023 21:21:45 by DEVDEER
+
+This module contains the cmdlets to manage and prepare Azure Tenants in a CAF conform way.
+
+__Downloads__: 0 | __Repository__: https://devdeer.com/
+
 ## [dbatools](https://www.powershellgallery.com/Packages/dbatools/2.1.5) | 2.1.5
 
 ### Published: 11/05/2023 17:41:49 by the dbatools team
@@ -10,6 +62,14 @@ These are the latest 250 modules published to the [PowerShell Gallery](https://p
 The community module that enables SQL Server Pros to automate database development and server administration
 
 __Downloads__: 3,274,648 | __Repository__: https://dbatools.io/
+
+## [PSModule.FX](https://www.powershellgallery.com/Packages/PSModule.FX/0.0.187) | 0.0.187
+
+### Published: 11/05/2023 17:27:37 by PSModule
+
+PSModule Framework PowerShell Module
+
+__Downloads__: 1,068 | __Repository__: https://github.com/PSModule/PSModule.FX
 
 ## [SentinelARConverter](https://www.powershellgallery.com/Packages/SentinelARConverter/2.2.1) | 2.2.1
 
@@ -19,22 +79,6 @@ Helper module to convert Sentinel Analytics Rules between YAML, ARM and back
 
 __Downloads__: 2,987 | __Repository__: https://github.com/f-bader/SentinelARConverter
 
-## [Devdeer.Caf](https://www.powershellgallery.com/Packages/Devdeer.Caf/0.0.20) | 0.0.20
-
-### Published: 11/05/2023 17:13:29 by DEVDEER
-
-This module contains the cmdlets to manage and prepare Azure Tenants in a CAF conform way.
-
-__Downloads__: 0 | __Repository__: https://devdeer.com/
-
-## [Kernel32Dll](https://www.powershellgallery.com/Packages/Kernel32Dll/0.0.21) | 0.0.21
-
-### Published: 11/05/2023 17:13:02 by Otogawa Katsutoshi
-
-Windows32 API Kernel32Dll.
-
-__Downloads__: 0 | __Repository__: https://github.com/YourName/YourModule
-
 ## [brickBOX](https://www.powershellgallery.com/Packages/brickBOX/1.0.0) | 1.0.0
 
 ### Published: 11/05/2023 17:09:25 by Patrick Page Gehrig
@@ -42,22 +86,6 @@ __Downloads__: 0 | __Repository__: https://github.com/YourName/YourModule
 A collection of powershell functions, put in a module to make scripting easier
 
 __Downloads__: 0 | __Repository__: https://github.com/pageBOX/brickBOX/
-
-## [GitHub](https://www.powershellgallery.com/Packages/GitHub/0.3.58) | 0.3.58
-
-### Published: 11/05/2023 16:00:50 by PSModule
-
-GitHub PowerShell Module
-
-__Downloads__: 2,466 | __Repository__: https://github.com/PSModule/GitHub
-
-## [PSModule.FX](https://www.powershellgallery.com/Packages/PSModule.FX/0.0.186) | 0.0.186
-
-### Published: 11/05/2023 16:00:08 by PSModule
-
-PSModule Framework PowerShell Module
-
-__Downloads__: 1,068 | __Repository__: https://github.com/PSModule/PSModule.FX
 
 ## [365AutomatedLab](https://www.powershellgallery.com/Packages/365AutomatedLab/0.1.6) | 0.1.6
 
@@ -148,6 +176,14 @@ __Downloads__: 6,198 | __Repository__: https://github.com/StartAutomating/ugit
 Import and export objects to parquet format
 
 __Downloads__: 1,280 | __Repository__: 
+
+## [TcPrjMgmt](https://www.powershellgallery.com/Packages/TcPrjMgmt/0.3.2) | 0.3.2
+
+### Published: 11/04/2023 21:11:15 by Giang Nguyen
+
+Utilities for managing TwinCAT solutions and projects. Including PLC project exporting, and library installation and uninstallation. NOTE: This module requires >= TwinCAT 3.1.4024.10 (XAR Runtime or Full) (local installation)
+
+__Downloads__: 29 | __Repository__: https://github.com/ahuca/TcPrjMgmt/tree/main
 
 ## [PersistenceSniper](https://www.powershellgallery.com/Packages/PersistenceSniper/1.14.0) | 1.14.0
 
@@ -2421,44 +2457,4 @@ This version of AWS Tools for PowerShell is compatible with Windows PowerShell 5
 
 __Downloads__: 73,817 | __Repository__: https://github.com/aws/aws-tools-for-powershell
 
-## [AWS.Tools.ElasticInference](https://www.powershellgallery.com/Packages/AWS.Tools.ElasticInference/4.1.445) | 4.1.445
-
-### Published: 11/03/2023 23:37:12 by Amazon.com Inc
-
-The ElasticInference module of AWS Tools for PowerShell lets developers and administrators manage Amazon Elastic Inference from the PowerShell scripting environment. In order to manage each AWS service, install the corresponding module (e.g. AWS.Tools.EC2, AWS.Tools.S3...).
-The module AWS.Tools.Installer (https://www.powershellgallery.com/packages/AWS.Tools.Installer/) makes it easier to install, update and uninstall the AWS.Tools modules.
-This version of AWS Tools for PowerShell is compatible with Windows PowerShell 5.1+ and PowerShell Core 6+ on Windows, Linux and macOS. When running on Windows PowerShell, .NET Framework 4.7.2 or newer is required. Alternative modules AWSPowerShell.NetCore and AWSPowerShell, provide support for all AWS services from a single module and also support older versions of Windows PowerShell and .NET Framework.
-
-__Downloads__: 9,932 | __Repository__: https://github.com/aws/aws-tools-for-powershell
-
-## [AWS.Tools.ElasticFileSystem](https://www.powershellgallery.com/Packages/AWS.Tools.ElasticFileSystem/4.1.445) | 4.1.445
-
-### Published: 11/03/2023 23:37:06 by Amazon.com Inc
-
-The ElasticFileSystem module of AWS Tools for PowerShell lets developers and administrators manage Amazon Elastic File System from the PowerShell scripting environment. In order to manage each AWS service, install the corresponding module (e.g. AWS.Tools.EC2, AWS.Tools.S3...).
-The module AWS.Tools.Installer (https://www.powershellgallery.com/packages/AWS.Tools.Installer/) makes it easier to install, update and uninstall the AWS.Tools modules.
-This version of AWS Tools for PowerShell is compatible with Windows PowerShell 5.1+ and PowerShell Core 6+ on Windows, Linux and macOS. When running on Windows PowerShell, .NET Framework 4.7.2 or newer is required. Alternative modules AWSPowerShell.NetCore and AWSPowerShell, provide support for all AWS services from a single module and also support older versions of Windows PowerShell and .NET Framework.
-
-__Downloads__: 17,948 | __Repository__: https://github.com/aws/aws-tools-for-powershell
-
-## [AWS.Tools.ElasticBeanstalk](https://www.powershellgallery.com/Packages/AWS.Tools.ElasticBeanstalk/4.1.445) | 4.1.445
-
-### Published: 11/03/2023 23:37:00 by Amazon.com Inc
-
-The ElasticBeanstalk module of AWS Tools for PowerShell lets developers and administrators manage AWS Elastic Beanstalk from the PowerShell scripting environment. In order to manage each AWS service, install the corresponding module (e.g. AWS.Tools.EC2, AWS.Tools.S3...).
-The module AWS.Tools.Installer (https://www.powershellgallery.com/packages/AWS.Tools.Installer/) makes it easier to install, update and uninstall the AWS.Tools modules.
-This version of AWS Tools for PowerShell is compatible with Windows PowerShell 5.1+ and PowerShell Core 6+ on Windows, Linux and macOS. When running on Windows PowerShell, .NET Framework 4.7.2 or newer is required. Alternative modules AWSPowerShell.NetCore and AWSPowerShell, provide support for all AWS services from a single module and also support older versions of Windows PowerShell and .NET Framework.
-
-__Downloads__: 21,605 | __Repository__: https://github.com/aws/aws-tools-for-powershell
-
-## [AWS.Tools.ElastiCache](https://www.powershellgallery.com/Packages/AWS.Tools.ElastiCache/4.1.445) | 4.1.445
-
-### Published: 11/03/2023 23:36:54 by Amazon.com Inc
-
-The ElastiCache module of AWS Tools for PowerShell lets developers and administrators manage Amazon ElastiCache from the PowerShell scripting environment. In order to manage each AWS service, install the corresponding module (e.g. AWS.Tools.EC2, AWS.Tools.S3...).
-The module AWS.Tools.Installer (https://www.powershellgallery.com/packages/AWS.Tools.Installer/) makes it easier to install, update and uninstall the AWS.Tools modules.
-This version of AWS Tools for PowerShell is compatible with Windows PowerShell 5.1+ and PowerShell Core 6+ on Windows, Linux and macOS. When running on Windows PowerShell, .NET Framework 4.7.2 or newer is required. Alternative modules AWSPowerShell.NetCore and AWSPowerShell, provide support for all AWS services from a single module and also support older versions of Windows PowerShell and .NET Framework.
-
-__Downloads__: 34,247 | __Repository__: https://github.com/aws/aws-tools-for-powershell
-
-*Updated: Sunday, 05 November 2023 17:53:01 UTC*
+*Updated: Monday, 06 November 2023 02:05:36 UTC*

@@ -3,6 +3,58 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [tiPS](https://www.powershellgallery.com/Packages/tiPS/1.0.12) | 1.0.12
+
+### Published: 11/06/2023 00:25:50 by Daniel Schroeder
+
+PowerShell tips delivered straight to your terminal.
+
+__Downloads__: 1,466 | __Repository__: https://github.com/deadlydog/PowerShell.tiPS
+
+## [Kernel32Dll](https://www.powershellgallery.com/Packages/Kernel32Dll/0.0.22) | 0.0.22
+
+### Published: 11/05/2023 23:56:18 by Otogawa Katsutoshi
+
+Windows32 API Kernel32Dll.
+
+__Downloads__: 0 | __Repository__: https://github.com/KatsutoshiOtogawa/Kernel32Dll
+
+## [GitHub](https://www.powershellgallery.com/Packages/GitHub/0.3.72) | 0.3.72
+
+### Published: 11/05/2023 22:29:10 by PSModule
+
+GitHub PowerShell Module
+
+__Downloads__: 2,466 | __Repository__: https://github.com/PSModule/GitHub
+
+## [EZOut](https://www.powershellgallery.com/Packages/EZOut/2.0.3) | 2.0.3
+
+### Published: 11/05/2023 21:56:41 by James Brundage
+
+Easily Author Rich Format Files to Customize PowerShell Output
+
+__Downloads__: 4,851 | __Repository__: https://github.com/StartAutomating/EZOut
+
+## [Fabtools](https://www.powershellgallery.com/Packages/Fabtools/0.5.2) | 0.5.2
+
+### Published: 11/05/2023 21:36:33 by Ioana Bouariu AKA Jojobit
+
+A module to be able to do more with Microsoft Fabric.
+    It lets you pause and resume Fabric capacities.
+    Adds functionallity previously only available with the REST API as PowerShell functions.
+    There are also functions to make it easier to monitor usage metrics and refreshes.
+    It also adds Fabric-friendly aliases for PowerBI functions to make it easier to use the module.
+
+__Downloads__: 0 | __Repository__: https://www.github.com/jojobit/FabTools
+
+## [Devdeer.Caf](https://www.powershellgallery.com/Packages/Devdeer.Caf/0.0.23) | 0.0.23
+
+### Published: 11/05/2023 21:21:45 by DEVDEER
+
+This module contains the cmdlets to manage and prepare Azure Tenants in a CAF conform way.
+
+__Downloads__: 0 | __Repository__: https://devdeer.com/
+
 ## [dbatools](https://www.powershellgallery.com/Packages/dbatools/2.1.5) | 2.1.5
 
 ### Published: 11/05/2023 17:41:49 by the dbatools team
@@ -10,6 +62,14 @@ These are the latest 250 modules published to the [PowerShell Gallery](https://p
 The community module that enables SQL Server Pros to automate database development and server administration
 
 __Downloads__: 3,274,648 | __Repository__: https://dbatools.io/
+
+## [PSModule.FX](https://www.powershellgallery.com/Packages/PSModule.FX/0.0.187) | 0.0.187
+
+### Published: 11/05/2023 17:27:37 by PSModule
+
+PSModule Framework PowerShell Module
+
+__Downloads__: 1,068 | __Repository__: https://github.com/PSModule/PSModule.FX
 
 ## [SentinelARConverter](https://www.powershellgallery.com/Packages/SentinelARConverter/2.2.1) | 2.2.1
 
@@ -19,22 +79,6 @@ Helper module to convert Sentinel Analytics Rules between YAML, ARM and back
 
 __Downloads__: 2,987 | __Repository__: https://github.com/f-bader/SentinelARConverter
 
-## [Devdeer.Caf](https://www.powershellgallery.com/Packages/Devdeer.Caf/0.0.20) | 0.0.20
-
-### Published: 11/05/2023 17:13:29 by DEVDEER
-
-This module contains the cmdlets to manage and prepare Azure Tenants in a CAF conform way.
-
-__Downloads__: 0 | __Repository__: https://devdeer.com/
-
-## [Kernel32Dll](https://www.powershellgallery.com/Packages/Kernel32Dll/0.0.21) | 0.0.21
-
-### Published: 11/05/2023 17:13:02 by Otogawa Katsutoshi
-
-Windows32 API Kernel32Dll.
-
-__Downloads__: 0 | __Repository__: https://github.com/YourName/YourModule
-
 ## [brickBOX](https://www.powershellgallery.com/Packages/brickBOX/1.0.0) | 1.0.0
 
 ### Published: 11/05/2023 17:09:25 by Patrick Page Gehrig
@@ -42,22 +86,6 @@ __Downloads__: 0 | __Repository__: https://github.com/YourName/YourModule
 A collection of powershell functions, put in a module to make scripting easier
 
 __Downloads__: 0 | __Repository__: https://github.com/pageBOX/brickBOX/
-
-## [GitHub](https://www.powershellgallery.com/Packages/GitHub/0.3.58) | 0.3.58
-
-### Published: 11/05/2023 16:00:50 by PSModule
-
-GitHub PowerShell Module
-
-__Downloads__: 2,466 | __Repository__: https://github.com/PSModule/GitHub
-
-## [PSModule.FX](https://www.powershellgallery.com/Packages/PSModule.FX/0.0.186) | 0.0.186
-
-### Published: 11/05/2023 16:00:08 by PSModule
-
-PSModule Framework PowerShell Module
-
-__Downloads__: 1,068 | __Repository__: https://github.com/PSModule/PSModule.FX
 
 ## [365AutomatedLab](https://www.powershellgallery.com/Packages/365AutomatedLab/0.1.6) | 0.1.6
 
@@ -148,6 +176,14 @@ __Downloads__: 6,198 | __Repository__: https://github.com/StartAutomating/ugit
 Import and export objects to parquet format
 
 __Downloads__: 1,280 | __Repository__: 
+
+## [TcPrjMgmt](https://www.powershellgallery.com/Packages/TcPrjMgmt/0.3.2) | 0.3.2
+
+### Published: 11/04/2023 21:11:15 by Giang Nguyen
+
+Utilities for managing TwinCAT solutions and projects. Including PLC project exporting, and library installation and uninstallation. NOTE: This module requires >= TwinCAT 3.1.4024.10 (XAR Runtime or Full) (local installation)
+
+__Downloads__: 29 | __Repository__: https://github.com/ahuca/TcPrjMgmt/tree/main
 
 ## [PersistenceSniper](https://www.powershellgallery.com/Packages/PersistenceSniper/1.14.0) | 1.14.0
 
@@ -537,22 +573,6 @@ __Downloads__: 0 | __Repository__:
 iDRAC cmdlet using Redfish API with OEM extension to perform a repository update from a supported network share. Recommended to use HTTPS share "downloads.dell.com" repository for updates or you can create and use a custom repository using Dell Repository Manager (DRM) utility.
 
 __Downloads__: 265 | __Repository__: 
-
-## [EZOut](https://www.powershellgallery.com/Packages/EZOut/2.0.2) | 2.0.2
-
-### Published: 11/01/2023 18:35:12 by James Brundage
-
-Easily Author Rich Format Files to Customize PowerShell Output
-
-__Downloads__: 4,851 | __Repository__: https://github.com/StartAutomating/EZOut
-
-## [tiPS](https://www.powershellgallery.com/Packages/tiPS/1.0.11) | 1.0.11
-
-### Published: 11/01/2023 16:54:09 by Daniel Schroeder
-
-PowerShell tips delivered straight to your terminal.
-
-__Downloads__: 1,466 | __Repository__: https://github.com/deadlydog/PowerShell.tiPS
 
 ## [which-command-GPT](https://www.powershellgallery.com/Packages/which-command-GPT/0.0.3) | 0.0.3
 
@@ -2081,20 +2101,4 @@ Powershell Crescendo limited wrapper for minizinc
 
 __Downloads__: 11 | __Repository__: 
 
-## [AksHci](https://www.powershellgallery.com/Packages/AksHci/1.1.92) | 1.1.92
-
-### Published: 10/28/2023 05:23:07 by nwood
-
-AKS HCI Module
-
-__Downloads__: 583,073 | __Repository__: 
-
-## [PSBusinessPlusERP](https://www.powershellgallery.com/Packages/PSBusinessPlusERP/0.1.1) | 0.1.1
-
-### Published: 10/28/2023 03:37:19 by Zach Birge
-
-BusinessPlus Community PowerShell Module for BusinessPlus
-
-__Downloads__: 2 | __Repository__: 
-
-*Updated: Sunday, 05 November 2023 17:53:03 UTC*
+*Updated: Monday, 06 November 2023 02:05:39 UTC*
