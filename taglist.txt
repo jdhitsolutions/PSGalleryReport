@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 06 November 2023 02:05:52 UTC
+Updated: Monday, 06 November 2023 09:53:39 UTC
 
 .bat
 .env
@@ -169,7 +169,6 @@ adfstoolkit
 adfstools
 adgroupmemberobjects
 adgroupmembers
-adgroups
 adif
 adm
 admf
@@ -201,7 +200,6 @@ adsi
 adsite
 adsp
 adsync
-aduser
 aduseraccountlockout
 adv180002
 adv180018
@@ -329,6 +327,8 @@ anonymous
 anova
 ansi
 ansible
+ansible-control-node
+ansiblecontrolnode
 antimalwarescaninterface
 antispam
 antivirus
@@ -868,7 +868,6 @@ brawlstars
 brazencloud
 bre
 breach
-break
 breakpoint
 brew
 brickset
@@ -1593,6 +1592,8 @@ cvss
 cwi
 cx
 cyberark
+cyberark-api
+cyberark-identity
 cyberdrain
 cybereason
 cybersamurai
@@ -1689,6 +1690,7 @@ dates
 datetaken
 datetime
 datto
+dattodbpool
 dattormm
 datum
 dave
@@ -1706,6 +1708,7 @@ dbeaver
 dbfs
 dbnull
 dbops
+dbpool
 dbup
 dbwebapi
 dc
@@ -1730,7 +1733,6 @@ decompiler
 decrypt
 decryption
 dedicatedhsm
-deduplication
 deep
 deep-security
 deep-security-manager
@@ -1913,7 +1915,6 @@ dmi
 dmtf
 dmx
 dnd
-dnf
 dns
 dns-01
 dns-administration
@@ -2061,7 +2062,6 @@ dupes
 duplicate
 duplicate-files
 duplicatioin
-duplication
 durable
 durabletask
 dust
@@ -2438,7 +2438,6 @@ file-monitoring
 file-name
 file-name-extension
 file-name-extension-association
-file-server
 file-share
 file-system
 file-transform
@@ -2553,6 +2552,7 @@ force
 forcedelete
 foreach
 foreach-object
+forecast
 forensic
 forensics
 forest
@@ -2603,7 +2603,6 @@ front
 frontapp
 frontdoor
 frontrange
-fs
 fsf
 fsharp
 fslogix
@@ -2630,7 +2629,6 @@ funds
 funny
 fusion
 fusionapps
-fuzzy
 fyi
 fzf
 gac
@@ -2725,6 +2723,7 @@ get-samplingperiod
 get-stalecomps
 get-staleusers
 get-thermalstamp
+get-uptime
 getfirmwareenvironmentvariable
 getfirmwaretype
 ggplot
@@ -3280,6 +3279,7 @@ interactive
 interactive-brokers
 interface
 interlogix
+internal
 internet
 internet-explorer
 internetconnection
@@ -3556,7 +3556,6 @@ lambda
 lame
 lametrictime
 lamp
-lan
 landingzones
 language
 languagedsc
@@ -4618,7 +4617,6 @@ outline
 outlook
 output
 output-to-image
-outreach
 outsystems
 overbite
 ovf
@@ -4719,7 +4717,6 @@ pathfinder
 patternmatching
 pause
 pax8
-payload
 paylocity
 paypal
 pays
@@ -4757,7 +4754,6 @@ permissions
 permutations
 persistence
 persistent
-personal
 personalisation
 personalization
 personalvault
@@ -4789,6 +4785,7 @@ pictures
 pid
 pie
 pim
+pin
 ping
 ping-async
 pingsweep
@@ -4919,9 +4916,7 @@ poshy-wrap-apt
 poshy-wrap-argcomplete
 poshy-wrap-brew
 poshy-wrap-curl
-poshy-wrap-dnf
 poshy-wrap-docker
-poshy-wrap-docker-compose
 poshy-wrap-dotnet
 poshy-wrap-forgit
 poshy-wrap-gem
@@ -4945,7 +4940,6 @@ poshy-wrap-python
 poshy-wrap-ruby
 poshy-wrap-systemctl
 poshy-wrap-terraform
-poshy-wrap-terragrunt
 poshy-wrap-tmux
 poshy-wrap-vagrant
 poshy-wrap-vault
@@ -5281,31 +5275,9 @@ pscommand_convertto-rgb
 pscommand_d
 pscommand_d64
 pscommand_dbl
-pscommand_dcb
-pscommand_dcdn
-pscommand_dce
 pscommand_dcin
-pscommand_dck
-pscommand_dcl
-pscommand_dclf
 pscommand_dcls
 pscommand_dclsa
-pscommand_dco
-pscommand_dcofresh
-pscommand_dcol
-pscommand_dcou
-pscommand_dcouns
-pscommand_dcps
-pscommand_dcpull
-pscommand_dcr
-pscommand_dcrestart
-pscommand_dcrm
-pscommand_dcstart
-pscommand_dcstop
-pscommand_dcup
-pscommand_dcupb
-pscommand_dcupbd
-pscommand_dcupd
 pscommand_decode64
 pscommand_decodefile64
 pscommand_df64
@@ -5346,25 +5318,11 @@ pscommand_dlo
 pscommand_dnc
 pscommand_dncn
 pscommand_dndcn
-pscommand_dnfc
-pscommand_dnfgi
-pscommand_dnfgl
-pscommand_dnfgr
-pscommand_dnfi
-pscommand_dnfl
-pscommand_dnfli
-pscommand_dnfmc
-pscommand_dnfp
-pscommand_dnfr
-pscommand_dnfri
-pscommand_dnfs
-pscommand_dnfu
 pscommand_dni
 pscommand_dnls
 pscommand_dnrm
 pscommand_docker-archive-content
 pscommand_docker-build
-pscommand_docker-compose-fresh
 pscommand_docker-container-execute
 pscommand_docker-container-execute-interactively
 pscommand_docker-container-inspect
@@ -5919,38 +5877,6 @@ pscommand_invoke-curlfollowingredirectsdownloadasnamedcontinue
 pscommand_invoke-curlfollowingredirectsdownloadasnamedcontinueandretry
 pscommand_invoke-curlfollowingredirectsfetchbanner
 pscommand_invoke-curlonlyforgetresponseheaders
-pscommand_invoke-dnfcleanall
-pscommand_invoke-dnfgrouplist
-pscommand_invoke-dnfgrouppinstall
-pscommand_invoke-dnfgroupremove
-pscommand_invoke-dnfinfo
-pscommand_invoke-dnfinstall
-pscommand_invoke-dnflist
-pscommand_invoke-dnflistinstalled
-pscommand_invoke-dnfmakecache
-pscommand_invoke-dnfreinstall
-pscommand_invoke-dnfremove
-pscommand_invoke-dnfsearch
-pscommand_invoke-dnfupgrade
-pscommand_invoke-dockercomposebuild
-pscommand_invoke-dockercomposedown
-pscommand_invoke-dockercomposeexec
-pscommand_invoke-dockercomposekill
-pscommand_invoke-dockercomposelogs
-pscommand_invoke-dockercomposelogsfollow
-pscommand_invoke-dockercomposelogsfollowtail
-pscommand_invoke-dockercomposeps
-pscommand_invoke-dockercomposepull
-pscommand_invoke-dockercomposerestart
-pscommand_invoke-dockercomposerm
-pscommand_invoke-dockercomposerun
-pscommand_invoke-dockercomposestart
-pscommand_invoke-dockercomposestop
-pscommand_invoke-dockercomposeup
-pscommand_invoke-dockercomposeupdetached
-pscommand_invoke-dockercomposeupdetachedwithbuild
-pscommand_invoke-dockercomposeupnostart
-pscommand_invoke-dockercomposeupwithbuild
 pscommand_invoke-gemcertadd
 pscommand_invoke-gemcertbuild
 pscommand_invoke-gemcertremove
@@ -6338,15 +6264,6 @@ pscommand_invoke-terraforminit
 pscommand_invoke-terraformoutput
 pscommand_invoke-terraformplan
 pscommand_invoke-terraformvalidate
-pscommand_invoke-terragrunt
-pscommand_invoke-terragruntapply
-pscommand_invoke-terragruntapplyall
-pscommand_invoke-terragruntdestroy
-pscommand_invoke-terragruntdestroyall
-pscommand_invoke-terragruntplan
-pscommand_invoke-terragruntplanall
-pscommand_invoke-terragruntvalidate
-pscommand_invoke-terragruntvalidateall
 pscommand_invoke-tmuxattachforterminal
 pscommand_invoke-tmuxattachforterminaldetachingothers
 pscommand_invoke-tmuxeditconfig
@@ -6815,15 +6732,6 @@ pscommand_tfi
 pscommand_tfo
 pscommand_tfp
 pscommand_tfv
-pscommand_tg
-pscommand_tga
-pscommand_tgaa
-pscommand_tgd
-pscommand_tgda
-pscommand_tgp
-pscommand_tgpa
-pscommand_tgv
-pscommand_tgva
 pscommand_tkss
 pscommand_tksv
 pscommand_tl
@@ -7081,7 +6989,6 @@ psfunction_dirname
 psfunction_disable-proxy
 psfunction_docker-archive-content
 psfunction_docker-build
-psfunction_docker-compose-fresh
 psfunction_docker-container-execute
 psfunction_docker-container-execute-interactively
 psfunction_docker-container-inspect
@@ -7336,38 +7243,6 @@ psfunction_invoke-curlfollowingredirectsdownloadasnamedcontinue
 psfunction_invoke-curlfollowingredirectsdownloadasnamedcontinueandretry
 psfunction_invoke-curlfollowingredirectsfetchbanner
 psfunction_invoke-curlonlyforgetresponseheaders
-psfunction_invoke-dnfcleanall
-psfunction_invoke-dnfgrouplist
-psfunction_invoke-dnfgrouppinstall
-psfunction_invoke-dnfgroupremove
-psfunction_invoke-dnfinfo
-psfunction_invoke-dnfinstall
-psfunction_invoke-dnflist
-psfunction_invoke-dnflistinstalled
-psfunction_invoke-dnfmakecache
-psfunction_invoke-dnfreinstall
-psfunction_invoke-dnfremove
-psfunction_invoke-dnfsearch
-psfunction_invoke-dnfupgrade
-psfunction_invoke-dockercomposebuild
-psfunction_invoke-dockercomposedown
-psfunction_invoke-dockercomposeexec
-psfunction_invoke-dockercomposekill
-psfunction_invoke-dockercomposelogs
-psfunction_invoke-dockercomposelogsfollow
-psfunction_invoke-dockercomposelogsfollowtail
-psfunction_invoke-dockercomposeps
-psfunction_invoke-dockercomposepull
-psfunction_invoke-dockercomposerestart
-psfunction_invoke-dockercomposerm
-psfunction_invoke-dockercomposerun
-psfunction_invoke-dockercomposestart
-psfunction_invoke-dockercomposestop
-psfunction_invoke-dockercomposeup
-psfunction_invoke-dockercomposeupdetached
-psfunction_invoke-dockercomposeupdetachedwithbuild
-psfunction_invoke-dockercomposeupnostart
-psfunction_invoke-dockercomposeupwithbuild
 psfunction_invoke-gemcertadd
 psfunction_invoke-gemcertbuild
 psfunction_invoke-gemcertremove
@@ -7755,15 +7630,6 @@ psfunction_invoke-terraforminit
 psfunction_invoke-terraformoutput
 psfunction_invoke-terraformplan
 psfunction_invoke-terraformvalidate
-psfunction_invoke-terragrunt
-psfunction_invoke-terragruntapply
-psfunction_invoke-terragruntapplyall
-psfunction_invoke-terragruntdestroy
-psfunction_invoke-terragruntdestroyall
-psfunction_invoke-terragruntplan
-psfunction_invoke-terragruntplanall
-psfunction_invoke-terragruntvalidate
-psfunction_invoke-terragruntvalidateall
 psfunction_invoke-tmuxattachforterminal
 psfunction_invoke-tmuxattachforterminaldetachingothers
 psfunction_invoke-tmuxeditconfig
@@ -8169,7 +8035,6 @@ publicip
 publish
 publishedmodules
 publisher
-publishers
 publishing
 pubsub
 pubxml
@@ -8211,7 +8076,6 @@ pxedistributionpoint
 pyenv
 pygmentize
 pylint
-pyranja
 python
 python-for-dotnet
 python3
@@ -8896,7 +8760,6 @@ serviceplan
 servicepointmanager
 serviceprincipal
 services
-servicestatus
 servicestore
 servicing
 servicingstack
@@ -9354,7 +9217,6 @@ streamanalytics
 streaming
 streamreader
 streamwriter
-stretch
 strictmode
 strikethrough-text
 string
@@ -9588,7 +9450,6 @@ termset
 terraform
 terraformcloud
 terrafun
-terragrunt
 tesla
 test
 test-automation
@@ -9795,9 +9656,6 @@ tsa
 tsd
 tsheets
 tsqlbestpractice
-tst
-tst1
-tst3
 ttrpg
 tts
 tubedownloader
@@ -10050,7 +9908,6 @@ vault
 vaultextension
 vaultstore
 vaultwarden
-vb365
 vba
 vbaproject
 vbproj
@@ -10251,7 +10108,6 @@ wapi
 warning
 warplaneporn
 warranty
-warraty
 warrenty
 wasabi
 watch

@@ -3,6 +3,38 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [PwshSpectreConsole](https://www.powershellgallery.com/Packages/PwshSpectreConsole/0.3.10) | 0.3.10
+
+### Published: 11/06/2023 09:51:12 by Shaun Lawrie
+
+A convenient PowerShell wrapper for Spectre.Console
+
+__Downloads__: 195 | __Repository__: https://github.com/ShaunLawrie/PwshSpectreConsole
+
+## [Kernel32Dll](https://www.powershellgallery.com/Packages/Kernel32Dll/0.0.23) | 0.0.23
+
+### Published: 11/06/2023 06:55:30 by Otogawa Katsutoshi
+
+Windows32 API Kernel32Dll.
+
+__Downloads__: 0 | __Repository__: https://github.com/KatsutoshiOtogawa/Kernel32Dll
+
+## [DattoDBPool](https://www.powershellgallery.com/Packages/DattoDBPool/2023.10.0) | 2023.10.0
+
+### Published: 11/06/2023 05:56:09 by Kent Sapp
+
+This module is designed to make it easier to use the internal Datto DBPool API in your PowerShell scripts. As some of the hard work is done, you can develop your scripts faster and be more effecient. There is no need to go through a big learning curve spending lots of time working out how to use the Datto DBPool API. Simply load the module, enter your API key and get results within minutes!
+
+__Downloads__: 0 | __Repository__: https://github.com/cksapp/DattoDBPool_Module
+
+## [UiPathOrch](https://www.powershellgallery.com/Packages/UiPathOrch/0.8.0.5) | 0.8.0.5
+
+### Published: 11/06/2023 03:38:06 by Yoshifumi Tsuda
+
+Provider for Orchestrator entities.
+
+__Downloads__: 0 | __Repository__: 
+
 ## [tiPS](https://www.powershellgallery.com/Packages/tiPS/1.0.12) | 1.0.12
 
 ### Published: 11/06/2023 00:25:50 by Daniel Schroeder
@@ -10,14 +42,6 @@ These are the latest 250 modules published to the [PowerShell Gallery](https://p
 PowerShell tips delivered straight to your terminal.
 
 __Downloads__: 1,466 | __Repository__: https://github.com/deadlydog/PowerShell.tiPS
-
-## [Kernel32Dll](https://www.powershellgallery.com/Packages/Kernel32Dll/0.0.22) | 0.0.22
-
-### Published: 11/05/2023 23:56:18 by Otogawa Katsutoshi
-
-Windows32 API Kernel32Dll.
-
-__Downloads__: 0 | __Repository__: https://github.com/KatsutoshiOtogawa/Kernel32Dll
 
 ## [GitHub](https://www.powershellgallery.com/Packages/GitHub/0.3.72) | 0.3.72
 
@@ -46,14 +70,6 @@ A module to be able to do more with Microsoft Fabric.
     It also adds Fabric-friendly aliases for PowerBI functions to make it easier to use the module.
 
 __Downloads__: 0 | __Repository__: https://www.github.com/jojobit/FabTools
-
-## [Devdeer.Caf](https://www.powershellgallery.com/Packages/Devdeer.Caf/0.0.23) | 0.0.23
-
-### Published: 11/05/2023 21:21:45 by DEVDEER
-
-This module contains the cmdlets to manage and prepare Azure Tenants in a CAF conform way.
-
-__Downloads__: 0 | __Repository__: https://devdeer.com/
 
 ## [dbatools](https://www.powershellgallery.com/Packages/dbatools/2.1.5) | 2.1.5
 
@@ -110,14 +126,6 @@ __Downloads__: 1,155 | __Repository__: https://github.com/jhoek/UncommonSense.Pa
 This module loads a report from Trend Micro - ApexOne to cerate a file that is fed into DrawIO to create a network diagram
 
 __Downloads__: 0 | __Repository__: https://github.com/bazzofx
-
-## [UiPathOrch](https://www.powershellgallery.com/Packages/UiPathOrch/0.8.0.3) | 0.8.0.3
-
-### Published: 11/05/2023 10:19:09 by Yoshifumi Tsuda
-
-Provider for Orchestrator entities.
-
-__Downloads__: 0 | __Repository__: 
 
 ## [Oraculum](https://www.powershellgallery.com/Packages/Oraculum/1.1.0.5) | 1.1.0.5
 
@@ -2447,14 +2455,4 @@ This version of AWS Tools for PowerShell is compatible with Windows PowerShell 5
 
 __Downloads__: 142,490 | __Repository__: https://github.com/aws/aws-tools-for-powershell
 
-## [AWS.Tools.ElasticLoadBalancing](https://www.powershellgallery.com/Packages/AWS.Tools.ElasticLoadBalancing/4.1.445) | 4.1.445
-
-### Published: 11/03/2023 23:37:17 by Amazon.com Inc
-
-The ElasticLoadBalancing module of AWS Tools for PowerShell lets developers and administrators manage Elastic Load Balancing from the PowerShell scripting environment. In order to manage each AWS service, install the corresponding module (e.g. AWS.Tools.EC2, AWS.Tools.S3...).
-The module AWS.Tools.Installer (https://www.powershellgallery.com/packages/AWS.Tools.Installer/) makes it easier to install, update and uninstall the AWS.Tools modules.
-This version of AWS Tools for PowerShell is compatible with Windows PowerShell 5.1+ and PowerShell Core 6+ on Windows, Linux and macOS. When running on Windows PowerShell, .NET Framework 4.7.2 or newer is required. Alternative modules AWSPowerShell.NetCore and AWSPowerShell, provide support for all AWS services from a single module and also support older versions of Windows PowerShell and .NET Framework.
-
-__Downloads__: 73,817 | __Repository__: https://github.com/aws/aws-tools-for-powershell
-
-*Updated: Monday, 06 November 2023 02:05:36 UTC*
+*Updated: Monday, 06 November 2023 09:53:22 UTC*
