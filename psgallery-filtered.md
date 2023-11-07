@@ -3,13 +3,53 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
-## [DattoDBPool](https://www.powershellgallery.com/Packages/DattoDBPool/2023.10.1) | 2023.10.1
+## [M365DSC.CRG](https://www.powershellgallery.com/Packages/M365DSC.CRG/0.1.2) | 0.1.2
 
-### Published: 11/07/2023 01:12:51 by Kent Sapp
+### Published: 11/07/2023 09:17:08 by Yorick Kuijs
 
-This module is designed to make it easier to use the internal Datto DBPool API in your PowerShell scripts. As some of the hard work is done, you can develop your scripts faster and be more effecient. There is no need to go through a big learning curve spending lots of time working out how to use the Datto DBPool API. Simply load the module, enter your API key and get results within minutes!
+Microsoft365Dsc Composite Resource Generator
 
-__Downloads__: 0 | __Repository__: https://github.com/cksapp/DattoDBPool_Module
+__Downloads__: 0 | __Repository__: https://github.com/ykuijs/M365DSC.CRG
+
+## [SpeakeasyPSModule](https://www.powershellgallery.com/Packages/SpeakeasyPSModule/1.2.0) | 1.2.0
+
+### Published: 11/07/2023 09:02:37 by Kamil Pro
+
+PowerShell module that retrieves information from various sources.
+
+__Downloads__: 0 | __Repository__: https://github.com/kprocyszyn/About-PowerShell
+
+## [TisaneWeb](https://www.powershellgallery.com/Packages/TisaneWeb/7.0.2) | 7.0.2
+
+### Published: 11/07/2023 07:28:16 by CR
+
+Scripts for tisane web/api
+
+__Downloads__: 49 | __Repository__: 
+
+## [QCT-Update-Management](https://www.powershellgallery.com/Packages/QCT-Update-Management/1.5.17) | 1.5.17
+
+### Published: 11/07/2023 07:10:50 by QCTTW
+
+QCT Driver and Firmware Update Management.
+
+__Downloads__: 6,114 | __Repository__: 
+
+## [MailPolicyExplainer](https://www.powershellgallery.com/Packages/MailPolicyExplainer/1.3.0) | 1.3.0
+
+### Published: 11/07/2023 05:43:15 by Colin Cogle
+
+Explains a domain's email DNS records, including MX, SPF, DKIM, DMARC, and more.
+
+__Downloads__: 26 | __Repository__: https://github.com/rhymeswithmogul/MailPolicyExplainer
+
+## [MyPSFunctions](https://www.powershellgallery.com/Packages/MyPSFunctions/1.0.0.6) | 1.0.0.6
+
+### Published: 11/07/2023 02:16:23 by John@MyPSFunctions.com
+
+This Module has been created to provide a repository of my Daily Functions. - This module is provided as is without any support. Please be aware you are using this module as your own risks without any responsabilities from us.
+
+__Downloads__: 9 | __Repository__: 
 
 ## [KnowBe4-Partner](https://www.powershellgallery.com/Packages/KnowBe4-Partner/0.1.6) | 0.1.6
 
@@ -66,14 +106,6 @@ __Downloads__: 4,083 | __Repository__: https://github.com/dfinke/PowerShellAI.Fu
 Create straight forward REST calls in PowerShell based on API endpoints defined in .json files.  Add your own REST API endpoints by simply creating new .json files.
 
 __Downloads__: 90 | __Repository__: https://github.com/CLEAResult/it.devops.psm.rest
-
-## [TcPrjMgmt](https://www.powershellgallery.com/Packages/TcPrjMgmt/0.3.4) | 0.3.4
-
-### Published: 11/06/2023 21:33:34 by Giang Nguyen
-
-Utilities for managing TwinCAT solutions and projects. Including PLC project exporting, and library installation and uninstallation. NOTE: This module requires >= TwinCAT 3.1.4024.10 (XAR Runtime or Full) (local installation)
-
-__Downloads__: 29 | __Repository__: https://github.com/ahuca/TcPrjMgmt/tree/main
 
 ## [Meraki](https://www.powershellgallery.com/Packages/Meraki/1.0.2) | 1.0.2
 
@@ -344,6 +376,14 @@ This module contains general logic for storing and retrieving data from a SACRED
 
 __Downloads__: 18 | __Repository__: https://github.com/ccdigix/SACRED
 
+## [SACRED.Server.Pode](https://www.powershellgallery.com/Packages/SACRED.Server.Pode/0.1.0) | 0.1.0
+
+### Published: 11/06/2023 15:44:41 by Chris Clohosy
+
+This module contains the logic required to run SACRED within a Pode server.
+
+__Downloads__: 0 | __Repository__: https://github.com/ccdigix/SACRED
+
 ## [SACRED.SecretStore.PodeConfigFile](https://www.powershellgallery.com/Packages/SACRED.SecretStore.PodeConfigFile/0.1.0) | 0.1.0
 
 ### Published: 11/06/2023 15:44:22 by Chris Clohosy
@@ -375,22 +415,6 @@ __Downloads__: 5 | __Repository__: https://github.com/ccdigix/SACRED
 This module contains SACRED logic for rotating Entra Service Principal secrets and certificates.
 
 __Downloads__: 14 | __Repository__: https://github.com/ccdigix/SACRED
-
-## [SACRED.Rotate.Azure.CosmosDB](https://www.powershellgallery.com/Packages/SACRED.Rotate.Azure.CosmosDB/0.1.0) | 0.1.0
-
-### Published: 11/06/2023 15:43:06 by Chris Clohosy
-
-This module contains SACRED logic for rotating Azure Cosmos DB keys.
-
-__Downloads__: 17 | __Repository__: https://github.com/ccdigix/SACRED
-
-## [SACRED.Log.Pode](https://www.powershellgallery.com/Packages/SACRED.Log.Pode/0.1.0) | 0.1.0
-
-### Published: 11/06/2023 15:42:47 by Chris Clohosy
-
-This module contains a SACRED logging implementation that writes to the Pode server terminal and log file.
-
-__Downloads__: 0 | __Repository__: https://github.com/ccdigix/SACRED
 
 ## [SACRED.Log.Local](https://www.powershellgallery.com/Packages/SACRED.Log.Local/0.1.0) | 0.1.0
 
@@ -540,6 +564,14 @@ A module to be able to do more with Microsoft Fabric.
 
 __Downloads__: 0 | __Repository__: https://www.github.com/jojobit/FabTools
 
+## [Devdeer.Caf](https://www.powershellgallery.com/Packages/Devdeer.Caf/0.0.23) | 0.0.23
+
+### Published: 11/05/2023 21:21:45 by DEVDEER
+
+This module contains the cmdlets to manage and prepare Azure Tenants in a CAF conform way.
+
+__Downloads__: 0 | __Repository__: https://devdeer.com/
+
 ## [dbatools](https://www.powershellgallery.com/Packages/dbatools/2.1.5) | 2.1.5
 
 ### Published: 11/05/2023 17:41:49 by the dbatools team
@@ -596,13 +628,13 @@ Oraculum command line interface
 
 __Downloads__: 42 | __Repository__: https://github.com/Unipisa/Oraculum
 
-## [procmap](https://www.powershellgallery.com/Packages/procmap/1.1) | 1.1
+## [PokePS](https://www.powershellgallery.com/Packages/PokePS/1.5) | 1.5
 
-### Published: 11/05/2023 02:00:43 by Cyber Samurai - a.k.a - PB
+### Published: 11/05/2023 07:03:45 by Ryan Voice
 
-This module is an addon that is used together with Trend ApexOne, it will transform the data extract from the alerts into a process map. It transform the data inso a format that is accepted by Draw.io
+Module to use PokeAPI via PowerShell
 
-__Downloads__: 0 | __Repository__: https://github.com/bazzofx/Powershell-Tools/tree/main/Package%20Modules/ProcessMap
+__Downloads__: 29 | __Repository__: 
 
 ## [get-sandman](https://www.powershellgallery.com/Packages/get-sandman/1.1) | 1.1
 
@@ -749,14 +781,6 @@ Infrastructure module to build and maintain forest configuration
 
 __Downloads__: 2,146 | __Repository__: https://admf.one/
 
-## [QCT-Update-Management](https://www.powershellgallery.com/Packages/QCT-Update-Management/1.5.16) | 1.5.16
-
-### Published: 11/03/2023 07:53:19 by QCTTW
-
-QCT Driver and Firmware Update Management.
-
-__Downloads__: 6,114 | __Repository__: 
-
 ## [cowponder](https://www.powershellgallery.com/Packages/cowponder/0.0.3) | 0.0.3
 
 ### Published: 11/03/2023 07:36:24 by Reid Dye
@@ -844,14 +868,6 @@ __Downloads__: 5,853,277 | __Repository__: https://github.com/TheJumpCloud/suppo
 A module for running various Active Directory Tasks
 
 __Downloads__: 322 | __Repository__: https://github.com/CriticalSolutionsNetwork/ADAuditTasks
-
-## [MyPSFunctions](https://www.powershellgallery.com/Packages/MyPSFunctions/1.0.0.4) | 1.0.0.4
-
-### Published: 11/02/2023 14:01:25 by John@Onenote4exchange.com
-
-Module description
-
-__Downloads__: 9 | __Repository__: 
 
 ## [AzureDevOpsPowerShellAPI](https://www.powershellgallery.com/Packages/AzureDevOpsPowerShellAPI/0.2.17) | 0.2.17
 
@@ -2064,20 +2080,4 @@ This modules provides Cmdlets for OCI Aianomalydetection Service
 
 __Downloads__: 3,379 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-## [OCI.PSModules.Adm](https://www.powershellgallery.com/Packages/OCI.PSModules.Adm/70.0.0) | 70.0.0
-
-### Published: 10/31/2023 18:13:10 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Adm Service
-
-__Downloads__: 2,276 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Accessgovernancecp](https://www.powershellgallery.com/Packages/OCI.PSModules.Accessgovernancecp/70.0.0) | 70.0.0
-
-### Published: 10/31/2023 18:13:00 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Accessgovernancecp Service
-
-__Downloads__: 1,031 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-*Updated: Tuesday, 07 November 2023 02:04:24 UTC*
+*Updated: Tuesday, 07 November 2023 09:52:26 UTC*
