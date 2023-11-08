@@ -3,6 +3,54 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [SqlPipeline](https://www.powershellgallery.com/Packages/SqlPipeline/0.0.2) | 0.0.2
+
+### Published: 11/08/2023 08:16:20 by florian.von.bracht@apteco.de
+
+Apteco PS Modules - Wrapper for SimplySQL
+
+__Downloads__: 0 | __Repository__: https://github.com/Apteco/AptecoPSModules/tree/main/SqlPipeline
+
+## [AVDManagementFramework](https://www.powershellgallery.com/Packages/AVDManagementFramework/1.0.74) | 1.0.74
+
+### Published: 11/08/2023 06:51:45 by wmoselhy
+
+Azure Virtual Desktop Management Framework
+
+__Downloads__: 1,098 | __Repository__: 
+
+## [PSSpecialFolder](https://www.powershellgallery.com/Packages/PSSpecialFolder/2.5.0) | 2.5.0
+
+### Published: 11/08/2023 06:47:43 by BaldCat
+
+PowerShell Module gets the special folders for Windows 10 (Version 22H2) and 11 (Version 22H2 to 23H2).
+
+__Downloads__: 461 | __Repository__: https://github.com/baldcat18/PSSpecialFolder
+
+## [RubrikSecurityCloud](https://www.powershellgallery.com/Packages/RubrikSecurityCloud/0.18.1) | 0.18.1
+
+### Published: 11/08/2023 05:47:32 by Rubrik
+
+PowerShell Module for Rubrik Security Cloud. GraphQL schema version: v20231025-35 .
+
+__Downloads__: 409 | __Repository__: https://github.com/rubrikinc/rubrik-powershell-sdk
+
+## [TisaneWeb](https://www.powershellgallery.com/Packages/TisaneWeb/7.0.5) | 7.0.5
+
+### Published: 11/08/2023 03:43:04 by CR
+
+Scripts for tisane web/api
+
+__Downloads__: 49 | __Repository__: 
+
+## [AppList](https://www.powershellgallery.com/Packages/AppList/1.0.5) | 1.0.5
+
+### Published: 11/08/2023 02:51:12 by Aaron Rykhus
+
+Get-InstalledApps prints apps in Installed apps (Apps & features) and Get-ProgramsAndFeatures prints apps in Programs and Features
+
+__Downloads__: 30 | __Repository__: 
+
 ## [psConnecttoExchange](https://www.powershellgallery.com/Packages/psConnecttoExchange/1.2.5) | 1.2.5
 
 ### Published: 11/08/2023 00:50:12 by Phillip Marshall
@@ -18,14 +66,6 @@ __Downloads__: 0 | __Repository__:
 Retrieves all required information needed in order to deploy Azure virtual machines via any IaC tool
 
 __Downloads__: 23 | __Repository__: https://codeterraform.com/
-
-## [NyquistTools](https://www.powershellgallery.com/Packages/NyquistTools/0.1.0.1) | 0.1.0.1
-
-### Published: 11/08/2023 00:00:12 by Rick Andersen
-
-Utility cmdlets for working with the Bogen Communications Nyquist System Controller.
-
-__Downloads__: 0 | __Repository__: https://github.com/rickandersen1968/NyquistSystemExport
 
 ## [F7History](https://www.powershellgallery.com/Packages/F7History/1.4.5) | 1.4.5
 
@@ -1204,14 +1244,6 @@ Financial package to create new Sensitive Information Types for MIP
 
 __Downloads__: 24 | __Repository__: 
 
-## [TestProgram](https://www.powershellgallery.com/Packages/TestProgram/1.0.0) | 1.0.0
-
-### Published: 11/07/2023 15:38:34 by Flandia
-
-HKUST COMP Courses Auto Test Inputs / Outputs
-
-__Downloads__: 0 | __Repository__: 
-
 ## [GWS.CloudDepot](https://www.powershellgallery.com/Packages/GWS.CloudDepot/0.1.317) | 0.1.317
 
 ### Published: 11/07/2023 15:35:07 by Matthias Brahm
@@ -1404,14 +1436,6 @@ Functions for Active Directory
 
 __Downloads__: 19,324 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
-## [TcPrjMgmt](https://www.powershellgallery.com/Packages/TcPrjMgmt/0.3.5) | 0.3.5
-
-### Published: 11/07/2023 13:37:43 by Giang Nguyen
-
-Utilities for managing TwinCAT solutions and projects. Including PLC project exporting, and library installation and uninstallation. NOTE: This module requires >= TwinCAT 3.1.4024.10 (XAR Runtime or Full) (local installation)
-
-__Downloads__: 29 | __Repository__: https://github.com/ahuca/TcPrjMgmt/tree/main
-
 ## [MyPSFunctions](https://www.powershellgallery.com/Packages/MyPSFunctions/1.0.0.8) | 1.0.0.8
 
 ### Published: 11/07/2023 12:44:52 by John@MyPSFunctions.com
@@ -1419,22 +1443,6 @@ __Downloads__: 29 | __Repository__: https://github.com/ahuca/TcPrjMgmt/tree/main
 This Module has been created to provide a repository of my Daily Functions. - This module is provided as is without any support. Please be aware you are using this module as your own risks without any responsabilities from us.
 
 __Downloads__: 9 | __Repository__: 
-
-## [AVDManagementFramework](https://www.powershellgallery.com/Packages/AVDManagementFramework/1.0.73) | 1.0.73
-
-### Published: 11/07/2023 12:38:33 by wmoselhy
-
-Azure Virtual Desktop Management Framework
-
-__Downloads__: 1,098 | __Repository__: 
-
-## [SqlPipeline](https://www.powershellgallery.com/Packages/SqlPipeline/0.0.1) | 0.0.1
-
-### Published: 11/07/2023 12:37:44 by florian.von.bracht@apteco.de
-
-Apteco PS Modules - Wrapper for SimplySQL
-
-__Downloads__: 0 | __Repository__: https://github.com/Apteco/AptecoPSModules/tree/main/SqlPipeline
 
 ## [RelateIT_BC](https://www.powershellgallery.com/Packages/RelateIT_BC/2.5) | 2.5
 
@@ -1452,14 +1460,6 @@ PowerShell client module for the ACME protocol Version 2, which can be used to i
 
 __Downloads__: 329,752 | __Repository__: https://github.com/PKISharp/ACME-PS
 
-## [TisaneWeb](https://www.powershellgallery.com/Packages/TisaneWeb/7.0.4) | 7.0.4
-
-### Published: 11/07/2023 11:14:16 by CR
-
-Scripts for tisane web/api
-
-__Downloads__: 49 | __Repository__: 
-
 ## [PwshSpectreConsole](https://www.powershellgallery.com/Packages/PwshSpectreConsole/0.3.12) | 0.3.12
 
 ### Published: 11/07/2023 10:10:09 by Shaun Lawrie
@@ -1467,14 +1467,6 @@ __Downloads__: 49 | __Repository__:
 A convenient PowerShell wrapper for Spectre.Console
 
 __Downloads__: 195 | __Repository__: https://github.com/ShaunLawrie/PwshSpectreConsole
-
-## [M365DSC.CRG](https://www.powershellgallery.com/Packages/M365DSC.CRG/0.1.2) | 0.1.2
-
-### Published: 11/07/2023 09:17:08 by Yorick Kuijs
-
-Microsoft365Dsc Composite Resource Generator
-
-__Downloads__: 0 | __Repository__: https://github.com/ykuijs/M365DSC.CRG
 
 ## [QCT-Update-Management](https://www.powershellgallery.com/Packages/QCT-Update-Management/1.5.17) | 1.5.17
 
@@ -1515,22 +1507,6 @@ __Downloads__: 53 | __Repository__: https://github.com/greenloop-it-solutions/Kn
 The PowerShell AI module integrates with the OpenAI API and let's you easily access the GPT models for text completion, image generation and more.
 
 __Downloads__: 14,431 | __Repository__: https://github.com/dfinke/PowerShellAI
-
-## [RubrikSecurityCloud](https://www.powershellgallery.com/Packages/RubrikSecurityCloud/0.18.0) | 0.18.0
-
-### Published: 11/06/2023 22:36:06 by Rubrik
-
-PowerShell Module for Rubrik Security Cloud. GraphQL schema version: v20231025-35 .
-
-__Downloads__: 409 | __Repository__: https://github.com/rubrikinc/rubrik-powershell-sdk
-
-## [AppList](https://www.powershellgallery.com/Packages/AppList/1.0.4) | 1.0.4
-
-### Published: 11/06/2023 22:03:16 by Aaron Rykhus
-
-Get-InstalledApps prints apps in Installed apps (Apps & features) and Get-ProgramsAndFeatures prints apps in Programs and Features
-
-__Downloads__: 30 | __Repository__: 
 
 ## [PowerShellAI.Functions](https://www.powershellgallery.com/Packages/PowerShellAI.Functions/0.1.4) | 0.1.4
 
@@ -1965,14 +1941,6 @@ PowerShell module for listing Parool articles
 
 __Downloads__: 1,155 | __Repository__: https://github.com/jhoek/UncommonSense.Parool
 
-## [netmap](https://www.powershellgallery.com/Packages/netmap/1.0) | 1.0
-
-### Published: 11/05/2023 11:53:33 by Cyber Samurai - a.k.a - PB
-
-This module loads a report from Trend Micro - ApexOne to cerate a file that is fed into DrawIO to create a network diagram
-
-__Downloads__: 0 | __Repository__: https://github.com/bazzofx
-
 ## [Oraculum](https://www.powershellgallery.com/Packages/Oraculum/1.1.0.5) | 1.1.0.5
 
 ### Published: 11/05/2023 09:30:23 by Antonio Cisternino
@@ -1988,14 +1956,6 @@ __Downloads__: 42 | __Repository__: https://github.com/Unipisa/Oraculum
 Module to use PokeAPI via PowerShell
 
 __Downloads__: 29 | __Repository__: 
-
-## [procmap](https://www.powershellgallery.com/Packages/procmap/1.1) | 1.1
-
-### Published: 11/05/2023 02:00:43 by Cyber Samurai - a.k.a - PB
-
-This module is an addon that is used together with Trend ApexOne, it will transform the data extract from the alerts into a process map. It transform the data inso a format that is accepted by Draw.io
-
-__Downloads__: 0 | __Repository__: https://github.com/bazzofx/Powershell-Tools/tree/main/Package%20Modules/ProcessMap
 
 ## [get-sandman](https://www.powershellgallery.com/Packages/get-sandman/1.1) | 1.1
 
@@ -2039,6 +1999,14 @@ The XenDesktop7 DSC resources can automate the deployment and configuration of C
 
 __Downloads__: 7,058 | __Repository__: https://github.com/VirtualEngine/XenDesktop7
 
+## [BRSOps](https://www.powershellgallery.com/Packages/BRSOps/1.2.0) | 1.2.0
+
+### Published: 11/03/2023 23:45:01 by Boston Red Sox Operations Team
+
+Mixed functionality based on the BRS Ops Team Requirements.  Please read each .PS1 file for more information
+
+__Downloads__: 22 | __Repository__: 
+
 ## [verkadaModule](https://www.powershellgallery.com/Packages/verkadaModule/0.6.6) | 0.6.6
 
 ### Published: 11/03/2023 20:44:39 by Brad Parker
@@ -2055,4 +2023,36 @@ PowerShell module to query the Logic Monitor API. This is a personal project and
 
 __Downloads__: 3,303 | __Repository__: https://github.com/stevevillardi/Logic.Monitor
 
-*Updated: Wednesday, 08 November 2023 02:03:36 UTC*
+## [GPRegistryPolicyDsc](https://www.powershellgallery.com/Packages/GPRegistryPolicyDsc/1.3.1) | 1.3.1
+
+### Published: 11/03/2023 14:32:21 by DSC Community
+
+This resource module contains DSC resources used to apply and manage local group policies by modifying the respective .pol file.
+
+__Downloads__: 2,385,887 | __Repository__: https://github.com/dsccommunity/GPRegistryPolicyDsc
+
+## [HARpwn](https://www.powershellgallery.com/Packages/HARpwn/0.2) | 0.2
+
+### Published: 11/03/2023 14:07:45 by Christian Ritter
+
+HARpwn: A PowerShell module for extracting and sanitizing HARTokens from HTTP Archive (HAR) files. Simplify token extraction and secure your HAR files with a touch of humor.
+
+__Downloads__: 0 | __Repository__: https://github.com/HCRitter/HARpwn
+
+## [PSSymantecSEPM](https://www.powershellgallery.com/Packages/PSSymantecSEPM/0.3.1) | 0.3.1
+
+### Published: 11/03/2023 11:51:25 by Aurélien BOUMANNE
+
+Common set of tools to interact with Symantec Endpoint Protection Manager (SEPM) product
+
+__Downloads__: 11 | __Repository__: https://github.com/Douda/PSSymantecSEPM
+
+## [TisaneLampClient](https://www.powershellgallery.com/Packages/TisaneLampClient/7.0.8) | 7.0.8
+
+### Published: 11/03/2023 10:53:42 by CR
+
+Client side scripts for Tisane to modify language models
+
+__Downloads__: 342 | __Repository__: 
+
+*Updated: Wednesday, 08 November 2023 09:53:18 UTC*

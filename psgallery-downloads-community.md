@@ -2138,4 +2138,4 @@ This PowerShell module enables integration with GitHub.
 
 __Downloads__: 172,821 | __Repository__: https://github.com/pcgeek86/PSGitHub
 
-*Updated: Wednesday, 08 November 2023 02:03:45 UTC*
+*Updated: Wednesday, 08 November 2023 09:53:27 UTC*
