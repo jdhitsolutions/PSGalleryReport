@@ -44,38 +44,6 @@ All functions are idempotent: when run multiple times with the same arguments, y
 
 __Downloads__: 66,438,254 | __Repository__: http://get-carbon.org/
 
-## [RunAsUser](https://www.powershellgallery.com/Packages/RunAsUser/2.4.0) | 2.4.0
-
-### Published: 12/14/2022 08:36:31 by Kelvin Tegelaar - Kelvin@limenetworks.nl
-
-This module allows you to execute scripts under the current user while running as SYSTEM using impersonation.
-
-__Downloads__: 59,217,541 | __Repository__: https://github.com/KelvinTegelaar/RunAsUser
-
-## [powershell-yaml](https://www.powershellgallery.com/Packages/powershell-yaml/0.4.7) | 0.4.7
-
-### Published: 03/02/2023 13:18:18 by Gabriel Adrian Samfira Alessandro Pilotti
-
-Powershell module for serializing and deserializing YAML
-
-__Downloads__: 51,849,519 | __Repository__: 
-
-## [PSLogging](https://www.powershellgallery.com/Packages/PSLogging/2.5.2) | 2.5.2
-
-### Published: 11/22/2015 10:26:55 by LucaSturlese
-
-Creates and manages log files for your scripts.
-
-__Downloads__: 45,320,760 | __Repository__: http://9to5it.com/powershell-logging-v2-easily-create-log-files
-
-## [PendingReboot](https://www.powershellgallery.com/Packages/PendingReboot/0.9.0.6) | 0.9.0.6
-
-### Published: 08/22/2018 01:00:02 by Brian Wilhite
-
-Module to detect Windows OS pending reboots.
-
-__Downloads__: 41,202,703 | __Repository__: https://github.com/bcwilhite/PendingReboot/
-
 ## [TeamViewerPS](https://www.powershellgallery.com/Packages/TeamViewerPS/1.5.2) | 1.5.2
 
 ### Published: 09/21/2023 08:35:38 by TeamViewer Germany GmbH
@@ -2138,4 +2106,36 @@ This PowerShell module enables integration with GitHub.
 
 __Downloads__: 172,821 | __Repository__: https://github.com/pcgeek86/PSGitHub
 
-*Updated: Wednesday, 08 November 2023 09:53:27 UTC*
+## [OMSDataInjection](https://www.powershellgallery.com/Packages/OMSDataInjection/1.3.0) | 1.3.0
+
+### Published: 06/24/2020 10:51:36 by Tao Yang
+
+This module contains functions to inject custom data into Log Analytics using the Log Analytics HTTP Data Collector API. Github Repo: https://github.com/tyconsulting/OMSDataInjection-PSModule
+
+__Downloads__: 171,452 | __Repository__: https://github.com/tyconsulting/OMSDataInjection-PSModule
+
+## [2atSql](https://www.powershellgallery.com/Packages/2atSql/1.0.278) | 1.0.278
+
+### Published: 03/22/2018 08:06:14 by 2AT B.V.
+
+PowerShell Module to interact with Microsoft Dynamics CRM
+
+__Downloads__: 168,235 | __Repository__: 
+
+## [Requirements](https://www.powershellgallery.com/Packages/Requirements/2.3.6) | 2.3.6
+
+### Published: 03/12/2020 23:42:41 by Chris Kuech
+
+PowerShell framework for declaratively defining and idempotently imposing system configurations
+
+__Downloads__: 165,125 | __Repository__: https://github.com/Microsoft/Requirements
+
+## [F5-LTM](https://www.powershellgallery.com/Packages/F5-LTM/1.4.338) | 1.4.338
+
+### Published: 10/12/2023 01:32:49 by Joel Newton
+
+This module uses the REST API in the F5 LTM v11.6 and higher to query and manipulate the F5 LTM device.
+
+__Downloads__: 165,026 | __Repository__: https://github.com/joel74/POSH-LTM-Rest
+
+*Updated: Wednesday, 08 November 2023 17:51:36 UTC*
