@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Tuesday, 07 November 2023 17:52:33 UTC
+Updated: Wednesday, 08 November 2023 02:03:49 UTC
 
 .bat
 .env
@@ -169,6 +169,7 @@ adfstoolkit
 adfstools
 adgroupmemberobjects
 adgroupmembers
+adgroups
 adif
 adm
 admf
@@ -200,6 +201,7 @@ adsi
 adsite
 adsp
 adsync
+aduser
 aduseraccountlockout
 adv180002
 adv180018
@@ -280,7 +282,6 @@ alphafs
 alpine
 alt3
 alter
-alteryx
 alwaysontop
 alwaysonvpn
 alz
@@ -327,6 +328,8 @@ anonymous
 anova
 ansi
 ansible
+ansible-control-node
+ansiblecontrolnode
 antimalwarescaninterface
 antispam
 antivirus
@@ -708,7 +711,6 @@ bamboo
 bamboohr
 bandwidth
 bank
-banking
 banner
 bar
 barcodes
@@ -866,7 +868,6 @@ brawlstars
 brazencloud
 bre
 breach
-break
 breakpoint
 brew
 brickset
@@ -921,7 +922,6 @@ businessobjects
 businessrulesengine
 businesstime
 bxor
-bydesign
 byexample
 bynarypsmodule
 byovd
@@ -995,6 +995,7 @@ cd+
 cdable_vars
 cdata
 cdb
+cdi
 cdm
 cdn
 cdp
@@ -1080,6 +1081,7 @@ christmas
 chrome
 chromium
 chunk
+churchofjesuschrist
 ci
 ci/cd
 cic
@@ -1435,8 +1437,8 @@ copyright
 core
 coreepower
 coreepower.common
+coreepower.config
 coreepower.lib
-coreepower.module
 coreepower.net
 coreepower.net.soundcloudexplode
 coreposh
@@ -1520,6 +1522,7 @@ crontab
 cropping
 cross-platform
 crossjoin
+crossover
 crossplatform
 crossplatformdevelopment
 crowdstrike
@@ -1655,7 +1658,6 @@ dataexchange
 dataexplorer
 datafactory
 dataflow
-dataflowdependency
 datagateway
 dataintegration
 datakwaliteit
@@ -1663,7 +1665,6 @@ datalabelingservice
 datalabelingservicedataplane
 datalake
 datamanipulation
-datamodel
 datanorm
 dataplatform
 datapro
@@ -2288,6 +2289,7 @@ evernote
 everydaypowershell
 everydayrewards
 everything
+evolutionary-algorithms
 evolutionary-database
 evtx
 ews
@@ -2499,6 +2501,7 @@ findlocation
 findplace
 findproxyforurl
 fine-print
+fine-tuning
 finops
 firebird
 firefox
@@ -2676,6 +2679,7 @@ generation
 generator
 generic
 genericartifactscontent
+genetic-algorithm
 genp
 genxdev
 geo
@@ -2726,7 +2730,6 @@ get-uptime
 getfirmwareenvironmentvariable
 getfirmwaretype
 ggplot
-gh
 gh-actions
 ghactions
 ghc
@@ -3413,6 +3416,7 @@ jira
 jiraservicemanagement
 jitbit
 jms
+jmsjavadownloads
 jnet
 jnetps
 joat
@@ -4050,7 +4054,7 @@ mobilenetwork
 mobilitycontroller
 mock
 mocking
-model
+modeling
 modify
 module
 module-maintenance
@@ -4181,6 +4185,7 @@ multithreading
 music
 musiccast
 mustache
+mutation
 mute
 mutex
 mva
@@ -4221,6 +4226,7 @@ nasdaq
 native
 natpool
 natural-language-to-code
+natural-selection
 nav
 navigation
 nbi
@@ -4551,6 +4557,7 @@ ops
 opsi
 opsmgr
 optics
+optimization
 optimizer
 option
 option119
@@ -4714,7 +4721,6 @@ pathfinder
 patternmatching
 pause
 pax8
-payload
 paylocity
 paypal
 pays
@@ -4863,6 +4869,7 @@ pop
 pop-location
 pop3
 popd
+population
 popup
 port
 port-scanner
@@ -4921,7 +4928,6 @@ poshy-wrap-docker-compose
 poshy-wrap-dotnet
 poshy-wrap-forgit
 poshy-wrap-gem
-poshy-wrap-gh
 poshy-wrap-git
 poshy-wrap-git-flow
 poshy-wrap-git-hf
@@ -4954,6 +4960,7 @@ position
 postgre
 postgres
 postgresql
+potato
 pow
 powdrgit
 power
@@ -5151,6 +5158,7 @@ prowl-notifications
 prowlapp
 proxmox
 proxmoxve
+proxsys
 proxy
 proxyfunction
 proxyfunctions
@@ -5994,12 +6002,6 @@ pscommand_invoke-gitflowreleasepublish
 pscommand_invoke-gitflowreleasepublishcurrent
 pscommand_invoke-gitflowreleasestart
 pscommand_invoke-gitgui
-pscommand_invoke-githubapi
-pscommand_invoke-githubapi-bodyempty
-pscommand_invoke-githubapi-bodyfields
-pscommand_invoke-githubapi-bodyfile
-pscommand_invoke-githubapi-bodyjson
-pscommand_invoke-githubapi-bodyraw
 pscommand_invoke-githubflow
 pscommand_invoke-githubflowfeature
 pscommand_invoke-githubflowhotfix
@@ -7411,12 +7413,6 @@ psfunction_invoke-gitflowreleasepublish
 psfunction_invoke-gitflowreleasepublishcurrent
 psfunction_invoke-gitflowreleasestart
 psfunction_invoke-gitgui
-psfunction_invoke-githubapi
-psfunction_invoke-githubapi-bodyempty
-psfunction_invoke-githubapi-bodyfields
-psfunction_invoke-githubapi-bodyfile
-psfunction_invoke-githubapi-bodyjson
-psfunction_invoke-githubapi-bodyraw
 psfunction_invoke-githubflow
 psfunction_invoke-githubflowfeature
 psfunction_invoke-githubflowhotfix
@@ -8126,6 +8122,7 @@ psrule-rules
 pssa
 psscriptanalyzer
 psscriptanaylzer
+psscriptsmonitoring
 pssendgrid
 pssession
 pssharper
@@ -8536,7 +8533,6 @@ rightsmanagement
 ripe
 risk
 riskiq
-riskpro
 risksense
 rivermeadow
 rlan
@@ -8744,6 +8740,7 @@ scriptlogging
 scriptoform
 scriptrunner
 scripts
+scriptsmonitoring
 scrolllock
 scrub
 scrubber
@@ -8838,6 +8835,7 @@ send-mailmessage
 send-message
 senderid
 sendgrid
+sendkeys
 sendmail
 sense
 sensitive
@@ -9095,6 +9093,7 @@ snmpwalk
 snowflake
 snsmssqlpsmodule
 snspsadgroupmembers
+snspsscriptsmonitoring
 snssqlitepsmodule
 sntp
 soap
@@ -9275,7 +9274,6 @@ staging
 stale
 stan
 stanc
-standalone
 standard
 standarderror
 standardoutput
@@ -9312,6 +9310,7 @@ stdout
 steam
 steam-games
 steamcmd
+stepper
 sticker
 sticker-pack
 stickers
@@ -9321,8 +9320,6 @@ stingar
 stock
 stockcharts
 stocks
-stoicism
-stoics
 stop
 storablecolortheme
 storage
@@ -9343,7 +9340,6 @@ streamanalytics
 streaming
 streamreader
 streamwriter
-stretch
 strictmode
 strikethrough-text
 string
@@ -9426,7 +9422,6 @@ symantec
 symbolic
 symbolic_link
 symboliclink
-symbols
 symbolservers
 symlink
 symmetric
@@ -9499,6 +9494,7 @@ tag-requiredmodule2-2.0
 tag-requiredmodule3-2.5
 tag1
 tag2
+tagging
 tags
 tak
 taken
@@ -9589,6 +9585,7 @@ test-samcmapplicationexists
 test-samcmpackageexists
 test-userisadministrator
 test-xml
+test123
 testaccount
 testautomation
 tester
@@ -9618,7 +9615,6 @@ tflint
 tfs
 tfscmdlets
 tfsec
-tftd
 tftp
 tfvc
 thecrushingemptinessofquotidianexistence
@@ -9630,7 +9626,6 @@ thinprint
 third-party-libraries
 third-party-notice
 thispc
-thoughtfortheday
 thousandeyes
 thread
 threading
@@ -9791,6 +9786,7 @@ tubedownloader
 tui
 tulpep
 tuner
+tuning
 tutorial
 tv
 tweet
@@ -10178,6 +10174,7 @@ vpn-certificate
 vpro
 vps
 vra
+vrchat
 vrealize
 vrising
 vro
@@ -10428,8 +10425,8 @@ wiscmail
 wisco365
 wisconsin-madison
 wisconsin'uw-madison
-wisdom
 with
+wizard
 wkhtmltopdf
 wlan
 wmf
@@ -10508,6 +10505,7 @@ wsl2
 wsl2 psmodule psedition_core
 wsman
 wsmanlistener
+wso2
 wsus
 wt
 wtsapi32
