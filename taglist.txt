@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Thursday, 09 November 2023 02:04:54 UTC
+Updated: Thursday, 09 November 2023 09:53:49 UTC
 
 .bat
 .env
@@ -329,6 +329,8 @@ anonymous
 anova
 ansi
 ansible
+ansible-control-node
+ansiblecontrolnode
 antimalwarescaninterface
 antispam
 antivirus
@@ -803,6 +805,7 @@ bitbucketpipelines
 bitcoin
 bitlocker
 bitwarden
+bitwig
 bitwise
 biztalk
 biztalkalm
@@ -868,6 +871,7 @@ brawlstars
 brazencloud
 bre
 breach
+break
 breakpoint
 brew
 brickset
@@ -1082,7 +1086,6 @@ christmas
 chrome
 chromium
 chunk
-churchofjesuschrist
 ci
 ci/cd
 cic
@@ -1451,7 +1454,6 @@ cos
 cosmos
 cosmosdb
 cost
-costmanagement
 costoptimization
 couchbase
 couchdb
@@ -1473,6 +1475,8 @@ covid-19
 cpm
 cppm
 cpu
+cpuid
+cpuid-information
 cq
 cqd
 cqdpowershell
@@ -1591,11 +1595,8 @@ cvss
 cwi
 cx
 cyberark
-cyberark-api
-cyberark-identity
 cyberdrain
 cybereason
-cybersamurai
 cybersecurity
 cyberwatch
 cyclic
@@ -1658,6 +1659,7 @@ dataexchange
 dataexplorer
 datafactory
 dataflow
+dataflowdependency
 datagateway
 dataintegration
 datakwaliteit
@@ -1665,6 +1667,7 @@ datalabelingservice
 datalabelingservicedataplane
 datalake
 datamanipulation
+datamodel
 datanorm
 dataplatform
 datapro
@@ -1730,6 +1733,7 @@ decompiler
 decrypt
 decryption
 dedicatedhsm
+deduplication
 deep
 deep-security
 deep-security-manager
@@ -2060,12 +2064,12 @@ dupes
 duplicate
 duplicate-files
 duplicatioin
+duplication
 durable
 durabletask
 dust
 dutch
 dvls
-dword
 dxexpeditions
 dynamic
 dynamic-host-configuration-protocol
@@ -2354,7 +2358,6 @@ exportcertificates
 exporter
 exportexcel
 exportteams
-expression
 extend
 extended
 extendedattributes
@@ -2370,6 +2373,7 @@ extensions
 external
 externalip
 extract
+extraction
 extractor
 extreme-networks
 eztheme
@@ -2435,6 +2439,7 @@ file-monitoring
 file-name
 file-name-extension
 file-name-extension-association
+file-server
 file-share
 file-system
 file-transform
@@ -2498,7 +2503,6 @@ findplace
 findproxyforurl
 fine-print
 fine-tuning
-finops
 firebird
 firefox
 firewall
@@ -2600,6 +2604,7 @@ front
 frontapp
 frontdoor
 frontrange
+fs
 fsf
 fsharp
 fslogix
@@ -2634,7 +2639,6 @@ gainz
 gainz-chocolateysync
 gainz-keepass
 gainz-sqldb
-gal
 gallery
 game
 gamecategory:cards
@@ -2725,7 +2729,6 @@ get-uptime
 getfirmwareenvironmentvariable
 getfirmwaretype
 ggplot
-gh
 gh-actions
 ghactions
 ghc
@@ -2854,7 +2857,6 @@ guardicore
 gubbins
 guest
 guestconfiguration
-guests
 gui
 gui.cs
 guid
@@ -2902,6 +2904,7 @@ hardening
 hardlink
 hardware
 harperdb
+hartokens
 harvest
 harvestforecast
 hash
@@ -2988,13 +2991,6 @@ hitrust
 hive
 hivehome
 hjson
-hkcu
-hkey_classes_root
-hkey_current_config
-hkey_current_user
-hkey_local_machine
-hkey_users
-hklm
 hl7
 hlds
 hls
@@ -3099,7 +3095,6 @@ ib
 ibm
 ibmc
 ibmhttpserver
-icacl
 icinga
 icinga2
 icinga2mssql
@@ -3301,7 +3296,6 @@ invitation
 invocation
 invoice
 invoke
-invoke-asadmin
 invoke-asadministrator
 invoke-ascurrentuser
 invoke-automation
@@ -3412,6 +3406,7 @@ jira
 jiraservicemanagement
 jitbit
 jms
+jmsjavadownloads
 jnet
 jnetps
 joat
@@ -3426,6 +3421,7 @@ jojoba
 joke
 jotform
 journal
+joyride
 jpg
 jq
 js7
@@ -3552,6 +3548,8 @@ lake
 lambda
 lame
 lametrictime
+lamp
+lan
 landingzones
 language
 languagedsc
@@ -3582,6 +3580,7 @@ lccn
 lcm
 lcminternals
 ldap
+leafs
 league
 lean
 learn
@@ -3619,6 +3618,7 @@ license-generator
 licenseautomation
 licensemanagement
 licensemanager
+licensereport
 licenses
 licensing
 life
@@ -3987,7 +3987,6 @@ microsoft365
 microsoft365dsc
 microsoftauthenticationlibrary
 microsoftazure
-microsoftcloud
 microsoftdefender
 microsoftdefenderatp
 microsoftdeploymenttoolkit
@@ -4169,10 +4168,8 @@ multios
 multipass
 multiple
 multiserver
-multistring
 multithread
 multithreaded
-multithreaded-helpers
 multithreading
 music
 musiccast
@@ -4251,7 +4248,6 @@ netcease
 netcore
 netfirewallrule
 netherlands
-netmap
 netmask
 nets
 netsapiens
@@ -4290,7 +4286,6 @@ new-dynamicdictionary
 new-dynamicparameter
 new-githubrelease
 new-item
-new-itemproperty
 new-pinneditem
 new-rdpsession
 new-samcmapplicationfrompackagedefinitionsms
@@ -4468,6 +4463,7 @@ ole
 oledb
 omaha
 ome
+omnisphere
 omnistack
 oms
 omsagent
@@ -4920,7 +4916,6 @@ poshy-wrap-docker-compose
 poshy-wrap-dotnet
 poshy-wrap-forgit
 poshy-wrap-gem
-poshy-wrap-gh
 poshy-wrap-git
 poshy-wrap-git-flow
 poshy-wrap-git-hf
@@ -5995,12 +5990,6 @@ pscommand_invoke-gitflowreleasepublish
 pscommand_invoke-gitflowreleasepublishcurrent
 pscommand_invoke-gitflowreleasestart
 pscommand_invoke-gitgui
-pscommand_invoke-githubapi
-pscommand_invoke-githubapi-bodyempty
-pscommand_invoke-githubapi-bodyfields
-pscommand_invoke-githubapi-bodyfile
-pscommand_invoke-githubapi-bodyjson
-pscommand_invoke-githubapi-bodyraw
 pscommand_invoke-githubflow
 pscommand_invoke-githubflowfeature
 pscommand_invoke-githubflowhotfix
@@ -7412,12 +7401,6 @@ psfunction_invoke-gitflowreleasepublish
 psfunction_invoke-gitflowreleasepublishcurrent
 psfunction_invoke-gitflowreleasestart
 psfunction_invoke-gitgui
-psfunction_invoke-githubapi
-psfunction_invoke-githubapi-bodyempty
-psfunction_invoke-githubapi-bodyfields
-psfunction_invoke-githubapi-bodyfile
-psfunction_invoke-githubapi-bodyjson
-psfunction_invoke-githubapi-bodyraw
 psfunction_invoke-githubflow
 psfunction_invoke-githubflowfeature
 psfunction_invoke-githubflowhotfix
@@ -8256,7 +8239,6 @@ quotes
 quotestoliveby
 quoting
 quser
-qword
 r
 r53
 rabbit
@@ -8372,15 +8354,8 @@ reflection
 refresh
 refreshtoken
 reg
-reg_binary
-reg_dword
-reg_expand_sz
-reg_multi_sz
-reg_qword
-reg_sz
 regardscitoyen
 regcli
-regedit
 regex
 region
 regions
@@ -8433,7 +8408,6 @@ remotesession
 remoting
 remove
 remove-githubsecrets
-remove-itemproperty
 remove-pass
 remove-path
 remove-pinneditem
@@ -8904,7 +8878,6 @@ set_bios
 set-alias
 set-dnsservers
 set-githubsecrets
-set-itemproperty
 set-location
 set-openfiles
 set-ownership
@@ -9349,6 +9322,7 @@ streamanalytics
 streaming
 streamreader
 streamwriter
+stretch
 strictmode
 strikethrough-text
 string
@@ -9362,6 +9336,7 @@ stripe
 strongname
 structure
 sts
+stt
 studio
 style
 su
@@ -9381,6 +9356,7 @@ subnetmask
 subnetmaths
 subnets
 subnetting
+subscribedskus
 subscription
 subscriptiondefinition
 subset
@@ -9429,6 +9405,7 @@ symantec
 symbolic
 symbolic_link
 symboliclink
+symbols
 symbolservers
 symlink
 symmetric
@@ -9609,6 +9586,7 @@ testusers
 text
 text-to-image
 text-to-speach"
+text-to-speech
 text2image
 textanalysis
 textbuffer
@@ -9890,7 +9868,6 @@ udpclient
 udptest
 udr
 udthememode
-udword
 uefi
 uem
 ui
@@ -9963,7 +9940,6 @@ upstream
 uptime
 uptimerobot
 uptobox
-uqword
 uri
 uri-scheme
 url
@@ -9973,6 +9949,7 @@ urldecode
 urlencode
 urlhaus
 urlredirections
+urlrewrite
 urlscan
 urlupdate
 uru
@@ -10046,9 +10023,12 @@ vbproj
 vbr
 vbscript
 vbsinst
+vc
+vccmdlets
 vcenter
 vcloud
 vclouddirector
+vcm
 vco
 vcs
 vcsa
@@ -10201,6 +10181,7 @@ vsphere+
 vss
 vssetup
 vsshell
+vst
 vsteambuilder
 vsteams
 vstest
@@ -10273,6 +10254,7 @@ webhistory
 webhook
 webinspect
 webjea
+webmanagement
 webmanagementservice
 webpage
 webpi
@@ -10521,7 +10503,6 @@ wunderlist
 wus
 wvd
 www
-x-cart
 x.509
 x1
 x2
@@ -10578,13 +10559,11 @@ xwiki
 xwindowsupdate
 xwith
 yahoo
-yahw
 yamaha
 yaml
 yandex
 yapg
 yarn
-yetanotherhelloworld
 yml
 ynab
 youtube

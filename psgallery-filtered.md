@@ -3,6 +3,46 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [DCToolbox](https://www.powershellgallery.com/Packages/DCToolbox/2.0.13) | 2.0.13
+
+### Published: 11/09/2023 09:06:16 by Daniel Chronlund
+
+A PowerShell toolbox for Microsoft 365 security fans.
+
+__Downloads__: 20,749 | __Repository__: https://github.com/DanielChronlund/DCToolbox
+
+## [Az.Avd](https://www.powershellgallery.com/Packages/Az.Avd/3.1.1) | 3.1.1
+
+### Published: 11/09/2023 08:56:43 by Sander Rozemuller
+
+For managing and automate Azure Virtual Desktop environments. This module can also be used for housekeeping and manageing all the AVD related Azure resources.
+
+__Downloads__: 8,809 | __Repository__: https://github.com/srozemuller/AzAvd
+
+## [Logic.Monitor](https://www.powershellgallery.com/Packages/Logic.Monitor/4.6.2) | 4.6.2
+
+### Published: 11/09/2023 05:05:55 by Steven Villardi
+
+PowerShell module to query the Logic Monitor API. This is a personal project and is not an offically supported LogicMonitor integration.
+
+__Downloads__: 3,303 | __Repository__: https://github.com/stevevillardi/Logic.Monitor
+
+## [TableUI](https://www.powershellgallery.com/Packages/TableUI/1.3.1) | 1.3.1
+
+### Published: 11/09/2023 03:21:15 by Jon Carrier
+
+A simple interface for making selections on an array of PS objects
+
+__Downloads__: 27,182 | __Repository__: https://github.com/jjcarrier/PS-TableUI
+
+## [AppList](https://www.powershellgallery.com/Packages/AppList/1.0.7) | 1.0.7
+
+### Published: 11/09/2023 02:42:48 by Aaron Rykhus
+
+Get-InstalledApps prints apps in Installed apps (Apps & features) and Get-ProgramsAndFeatures prints apps in Programs and Features
+
+__Downloads__: 30 | __Repository__: 
+
 ## [Update-IISCertificate](https://www.powershellgallery.com/Packages/Update-IISCertificate/1.0.1) | 1.0.1
 
 ### Published: 11/09/2023 01:18:25 by Joe Fabrie
@@ -42,14 +82,6 @@ __Downloads__: 409 | __Repository__: https://github.com/rubrikinc/rubrik-powersh
 GitHub PowerShell Module
 
 __Downloads__: 2,466 | __Repository__: https://github.com/PSModule/GitHub
-
-## [AppList](https://www.powershellgallery.com/Packages/AppList/1.0.6) | 1.0.6
-
-### Published: 11/08/2023 23:55:34 by Aaron Rykhus
-
-Get-InstalledApps prints apps in Installed apps (Apps & features) and Get-ProgramsAndFeatures prints apps in Programs and Features
-
-__Downloads__: 30 | __Repository__: 
 
 ## [Harden-Windows-Security-Module](https://www.powershellgallery.com/Packages/Harden-Windows-Security-Module/0.2.4) | 0.2.4
 
@@ -119,6 +151,14 @@ This module provides cmdlets to help in daily work, find cost savings, and repor
 
 __Downloads__: 2,386 | __Repository__: 
 
+## [SimplyOpenConnection](https://www.powershellgallery.com/Packages/SimplyOpenConnection/23.10.19.1552) | 23.10.19.1552
+
+### Published: 11/08/2023 18:54:04 by Shannon Graybrook
+
+Extends mithrandyr/SimplySql to facilitate always getting an open connection
+
+__Downloads__: 0 | __Repository__: https://github.com/realslacker/SimplyOpenConnection
+
 ## [SpeakeasyPSModule](https://www.powershellgallery.com/Packages/SpeakeasyPSModule/1.2.8) | 1.2.8
 
 ### Published: 11/08/2023 17:48:20 by Paul Cashmore
@@ -155,22 +195,6 @@ __Downloads__: 0 | __Repository__: https://github.com/Apteco/AptecoPSModules/tre
 This module will migrate a Basic SKU load balancer connected to a Virtual Machine Scaleset or Virtual Machines to a Standard SKU load balancer, preserving the existing configuration and functionality.
 
 __Downloads__: 1,122 | __Repository__: https://github.com/Azure/AzLoadBalancerMigration
-
-## [psACL](https://www.powershellgallery.com/Packages/psACL/1.0.1) | 1.0.1
-
-### Published: 11/08/2023 14:38:49 by Phillip Marshall
-
-This module allows for control over Access Control Lists in Windows without having to use ICACLs.
-
-__Downloads__: 0 | __Repository__: 
-
-## [DCToolbox](https://www.powershellgallery.com/Packages/DCToolbox/2.0.12) | 2.0.12
-
-### Published: 11/08/2023 14:31:13 by Daniel Chronlund
-
-A PowerShell toolbox for Microsoft 365 security fans.
-
-__Downloads__: 20,749 | __Repository__: https://github.com/DanielChronlund/DCToolbox
 
 ## [NTS.Tools](https://www.powershellgallery.com/Packages/NTS.Tools/2.0.0.4) | 2.0.0.4
 
@@ -912,6 +936,14 @@ This modules provides Cmdlets for OCI Keymanagement Service
 
 __Downloads__: 4,046 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
+## [OCI.PSModules.Jmsjavadownloads](https://www.powershellgallery.com/Packages/OCI.PSModules.Jmsjavadownloads/70.1.0) | 70.1.0
+
+### Published: 11/07/2023 21:25:45 by Oracle Cloud Infrastructure
+
+This modules provides Cmdlets for OCI Jmsjavadownloads Service
+
+__Downloads__: 0 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+
 ## [OCI.PSModules.Jms](https://www.powershellgallery.com/Packages/OCI.PSModules.Jms/70.1.0) | 70.1.0
 
 ### Published: 11/07/2023 21:25:39 by Oracle Cloud Infrastructure
@@ -1504,11 +1536,11 @@ Financial package to create new Sensitive Information Types for MIP
 
 __Downloads__: 24 | __Repository__: 
 
-## [MyADTools](https://www.powershellgallery.com/Packages/MyADTools/0.0.5) | 0.0.5
+## [TestProgram](https://www.powershellgallery.com/Packages/TestProgram/1.0.0) | 1.0.0
 
-### Published: 11/07/2023 14:31:26 by Erik Nordlöv
+### Published: 11/07/2023 15:38:34 by Flandia
 
-Tools that can be used in an on-prem Active Directory environment
+HKUST COMP Courses Auto Test Inputs / Outputs
 
 __Downloads__: 0 | __Repository__: 
 
@@ -1841,22 +1873,6 @@ This module contains general logic for storing and retrieving data from a SACRED
 
 __Downloads__: 18 | __Repository__: https://github.com/ccdigix/SACRED
 
-## [SACRED.Server.Pode](https://www.powershellgallery.com/Packages/SACRED.Server.Pode/0.1.0) | 0.1.0
-
-### Published: 11/06/2023 15:44:41 by Chris Clohosy
-
-This module contains the logic required to run SACRED within a Pode server.
-
-__Downloads__: 0 | __Repository__: https://github.com/ccdigix/SACRED
-
-## [SACRED.SecretStore.PodeConfigFile](https://www.powershellgallery.com/Packages/SACRED.SecretStore.PodeConfigFile/0.1.0) | 0.1.0
-
-### Published: 11/06/2023 15:44:22 by Chris Clohosy
-
-This module contains logic for interacting with secrets that are required by SACRED, that are stored in the Pode server config file.
-
-__Downloads__: 0 | __Repository__: https://github.com/ccdigix/SACRED
-
 ## [SACRED.SecretStore.EnvironmentVariable](https://www.powershellgallery.com/Packages/SACRED.SecretStore.EnvironmentVariable/0.1.0) | 0.1.0
 
 ### Published: 11/06/2023 15:44:03 by Chris Clohosy
@@ -1928,6 +1944,14 @@ __Downloads__: 23 | __Repository__: https://github.com/ccdigix/SACRED
 PSSailpoint - the PowerShell module for IdentityNow
 
 __Downloads__: 670 | __Repository__: 
+
+## [UiPathOrch](https://www.powershellgallery.com/Packages/UiPathOrch/0.8.0.6) | 0.8.0.6
+
+### Published: 11/06/2023 14:02:37 by Yoshifumi Tsuda
+
+Provider for Orchestrator entities.
+
+__Downloads__: 0 | __Repository__: 
 
 ## [MSPToolBox](https://www.powershellgallery.com/Packages/MSPToolBox/1.2.3) | 1.2.3
 
@@ -2029,36 +2053,12 @@ A module to be able to do more with Microsoft Fabric.
 
 __Downloads__: 0 | __Repository__: https://www.github.com/jojobit/FabTools
 
-## [dbatools](https://www.powershellgallery.com/Packages/dbatools/2.1.5) | 2.1.5
+## [Devdeer.Caf](https://www.powershellgallery.com/Packages/Devdeer.Caf/0.0.23) | 0.0.23
 
-### Published: 11/05/2023 17:41:49 by the dbatools team
+### Published: 11/05/2023 21:21:45 by DEVDEER
 
-The community module that enables SQL Server Pros to automate database development and server administration
+This module contains the cmdlets to manage and prepare Azure Tenants in a CAF conform way.
 
-__Downloads__: 3,274,648 | __Repository__: https://dbatools.io/
+__Downloads__: 0 | __Repository__: https://devdeer.com/
 
-## [PSModule.FX](https://www.powershellgallery.com/Packages/PSModule.FX/0.0.187) | 0.0.187
-
-### Published: 11/05/2023 17:27:37 by PSModule
-
-PSModule Framework PowerShell Module
-
-__Downloads__: 1,068 | __Repository__: https://github.com/PSModule/PSModule.FX
-
-## [365AutomatedLab](https://www.powershellgallery.com/Packages/365AutomatedLab/0.1.6) | 0.1.6
-
-### Published: 11/05/2023 14:19:54 by Clayton Tyger
-
-This module will allow you to create a 365 Development Environment from an Excel workbook
-
-__Downloads__: 27 | __Repository__: https://github.com/DevClate/365AutomatedLab
-
-## [UncommonSense.Parool](https://www.powershellgallery.com/Packages/UncommonSense.Parool/0.0.13) | 0.0.13
-
-### Published: 11/05/2023 12:46:50 by Jan Hoek
-
-PowerShell module for listing Parool articles
-
-__Downloads__: 1,155 | __Repository__: https://github.com/jhoek/UncommonSense.Parool
-
-*Updated: Thursday, 09 November 2023 02:04:37 UTC*
+*Updated: Thursday, 09 November 2023 09:53:33 UTC*
