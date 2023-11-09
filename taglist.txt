@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Thursday, 09 November 2023 09:53:49 UTC
+Updated: Thursday, 09 November 2023 17:52:40 UTC
 
 .bat
 .env
@@ -1086,6 +1086,7 @@ christmas
 chrome
 chromium
 chunk
+churchofjesuschrist
 ci
 ci/cd
 cic
@@ -1454,6 +1455,7 @@ cos
 cosmos
 cosmosdb
 cost
+costmanagement
 costoptimization
 couchbase
 couchdb
@@ -1595,8 +1597,11 @@ cvss
 cwi
 cx
 cyberark
+cyberark-api
+cyberark-identity
 cyberdrain
 cybereason
+cybersamurai
 cybersecurity
 cyberwatch
 cyclic
@@ -2070,6 +2075,7 @@ durabletask
 dust
 dutch
 dvls
+dword
 dxexpeditions
 dynamic
 dynamic-host-configuration-protocol
@@ -2287,7 +2293,6 @@ eventsubscription
 eventviewer
 eventwatch
 evergreen
-evernote
 everydaypowershell
 everydayrewards
 everything
@@ -2358,6 +2363,7 @@ exportcertificates
 exporter
 exportexcel
 exportteams
+expression
 extend
 extended
 extendedattributes
@@ -2503,6 +2509,7 @@ findplace
 findproxyforurl
 fine-print
 fine-tuning
+finops
 firebird
 firefox
 firewall
@@ -2567,7 +2574,6 @@ formatdata
 formatformat-tableformat-listformat-wideformat-customformat-defaultout-defaultout-fileout-hostout-printerout-string
 formatting
 forms
-fortiauth
 forticlient
 fortify
 fortifyondemand
@@ -2631,7 +2637,6 @@ funds
 funny
 fusion
 fusionapps
-fuzzy
 fyi
 fzf
 gac
@@ -2639,6 +2644,7 @@ gainz
 gainz-chocolateysync
 gainz-keepass
 gainz-sqldb
+gal
 gallery
 game
 gamecategory:cards
@@ -2729,6 +2735,7 @@ get-uptime
 getfirmwareenvironmentvariable
 getfirmwaretype
 ggplot
+gh
 gh-actions
 ghactions
 ghc
@@ -2857,6 +2864,7 @@ guardicore
 gubbins
 guest
 guestconfiguration
+guests
 gui
 gui.cs
 guid
@@ -2991,6 +2999,13 @@ hitrust
 hive
 hivehome
 hjson
+hkcu
+hkey_classes_root
+hkey_current_config
+hkey_current_user
+hkey_local_machine
+hkey_users
+hklm
 hl7
 hlds
 hls
@@ -3095,6 +3110,7 @@ ib
 ibm
 ibmc
 ibmhttpserver
+icacl
 icinga
 icinga2
 icinga2mssql
@@ -3296,6 +3312,7 @@ invitation
 invocation
 invoice
 invoke
+invoke-asadmin
 invoke-asadministrator
 invoke-ascurrentuser
 invoke-automation
@@ -3987,6 +4004,7 @@ microsoft365
 microsoft365dsc
 microsoftauthenticationlibrary
 microsoftazure
+microsoftcloud
 microsoftdefender
 microsoftdefenderatp
 microsoftdeploymenttoolkit
@@ -4034,7 +4052,6 @@ mittelschule
 mixedreality
 mixer
 mkdocs
-mkpasswd
 ml
 ml.net
 mlflow
@@ -4168,8 +4185,10 @@ multios
 multipass
 multiple
 multiserver
+multistring
 multithread
 multithreaded
+multithreaded-helpers
 multithreading
 music
 musiccast
@@ -4248,6 +4267,7 @@ netcease
 netcore
 netfirewallrule
 netherlands
+netmap
 netmask
 nets
 netsapiens
@@ -4286,6 +4306,7 @@ new-dynamicdictionary
 new-dynamicparameter
 new-githubrelease
 new-item
+new-itemproperty
 new-pinneditem
 new-rdpsession
 new-samcmapplicationfrompackagedefinitionsms
@@ -4676,7 +4697,6 @@ passcode
 passivetotal
 passphrase
 passphraser passphrase password generator entropy
-passwd
 password
 password_generation
 password-generator
@@ -4778,7 +4798,6 @@ pictures
 pid
 pie
 pim
-pin
 ping
 ping-async
 pingsweep
@@ -4794,7 +4813,6 @@ pipelines
 pipenv
 pipescript
 piraeus
-pivot
 pivotal
 pivottable
 pixoo
@@ -4916,6 +4934,7 @@ poshy-wrap-docker-compose
 poshy-wrap-dotnet
 poshy-wrap-forgit
 poshy-wrap-gem
+poshy-wrap-gh
 poshy-wrap-git
 poshy-wrap-git-flow
 poshy-wrap-git-hf
@@ -5990,6 +6009,12 @@ pscommand_invoke-gitflowreleasepublish
 pscommand_invoke-gitflowreleasepublishcurrent
 pscommand_invoke-gitflowreleasestart
 pscommand_invoke-gitgui
+pscommand_invoke-githubapi
+pscommand_invoke-githubapi-bodyempty
+pscommand_invoke-githubapi-bodyfields
+pscommand_invoke-githubapi-bodyfile
+pscommand_invoke-githubapi-bodyjson
+pscommand_invoke-githubapi-bodyraw
 pscommand_invoke-githubflow
 pscommand_invoke-githubflowfeature
 pscommand_invoke-githubflowhotfix
@@ -7401,6 +7426,12 @@ psfunction_invoke-gitflowreleasepublish
 psfunction_invoke-gitflowreleasepublishcurrent
 psfunction_invoke-gitflowreleasestart
 psfunction_invoke-gitgui
+psfunction_invoke-githubapi
+psfunction_invoke-githubapi-bodyempty
+psfunction_invoke-githubapi-bodyfields
+psfunction_invoke-githubapi-bodyfile
+psfunction_invoke-githubapi-bodyjson
+psfunction_invoke-githubapi-bodyraw
 psfunction_invoke-githubflow
 psfunction_invoke-githubflowfeature
 psfunction_invoke-githubflowhotfix
@@ -8239,6 +8270,7 @@ quotes
 quotestoliveby
 quoting
 quser
+qword
 r
 r53
 rabbit
@@ -8354,8 +8386,15 @@ reflection
 refresh
 refreshtoken
 reg
+reg_binary
+reg_dword
+reg_expand_sz
+reg_multi_sz
+reg_qword
+reg_sz
 regardscitoyen
 regcli
+regedit
 regex
 region
 regions
@@ -8408,6 +8447,7 @@ remotesession
 remoting
 remove
 remove-githubsecrets
+remove-itemproperty
 remove-pass
 remove-path
 remove-pinneditem
@@ -8878,6 +8918,7 @@ set_bios
 set-alias
 set-dnsservers
 set-githubsecrets
+set-itemproperty
 set-location
 set-openfiles
 set-ownership
@@ -8905,13 +8946,7 @@ sftp
 sfx
 sgopher
 sgw
-sha-256
-sha-512
-sha-crypt
 sha256
-sha256crypt
-sha512crypt
-shacrypt
 shadow
 shadowcopy
 shadowcopybackups
@@ -9663,7 +9698,6 @@ toggl
 toggle
 token
 tokenlifetime
-tokens
 toml
 tookit
 tool
@@ -9868,6 +9902,7 @@ udpclient
 udptest
 udr
 udthememode
+udword
 uefi
 uem
 ui
@@ -9940,6 +9975,7 @@ upstream
 uptime
 uptimerobot
 uptobox
+uqword
 uri
 uri-scheme
 url
@@ -10217,7 +10253,6 @@ wapi
 warning
 warplaneporn
 warranty
-warraty
 warrenty
 wasabi
 watch
@@ -10503,6 +10538,7 @@ wunderlist
 wus
 wvd
 www
+x-cart
 x.509
 x1
 x2

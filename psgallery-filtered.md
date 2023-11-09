@@ -3,13 +3,203 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
-## [DCToolbox](https://www.powershellgallery.com/Packages/DCToolbox/2.0.13) | 2.0.13
+## [DattoDBPool](https://www.powershellgallery.com/Packages/DattoDBPool/2023.11.3) | 2023.11.3
 
-### Published: 11/09/2023 09:06:16 by Daniel Chronlund
+### Published: 11/09/2023 17:40:07 by Kent Sapp
+
+This module is designed to make it easier to use the internal Datto DBPool API in your PowerShell scripts. As some of the hard work is done, you can develop your scripts faster and be more effecient. There is no need to go through a big learning curve spending lots of time working out how to use the Datto DBPool API. Simply load the module, enter your API key and get results within minutes!
+
+__Downloads__: 0 | __Repository__: https://github.com/cksapp/DattoDBPool_Module
+
+## [PSSymantecSEPM](https://www.powershellgallery.com/Packages/PSSymantecSEPM/0.3.2) | 0.3.2
+
+### Published: 11/09/2023 16:50:36 by Aurélien BOUMANNE
+
+Common set of tools to interact with Symantec Endpoint Protection Manager (SEPM) product
+
+__Downloads__: 11 | __Repository__: https://github.com/Douda/PSSymantecSEPM
+
+## [SkylineAutomationToolkit](https://www.powershellgallery.com/Packages/SkylineAutomationToolkit/1.3.0) | 1.3.0
+
+### Published: 11/09/2023 16:41:14 by Sonny Nguyen
+
+SkylineAutomationToolkit
+
+__Downloads__: 628 | __Repository__: 
+
+## [AzAPICall](https://www.powershellgallery.com/Packages/AzAPICall/1.1.84) | 1.1.84
+
+### Published: 11/09/2023 15:58:04 by Julian Hayward Kai Schulz
+
+Azure API call handler for Microsoft Graph, Azure Resource Management, KeyVault and Log Analytics. Visit aka.ms/AzAPICall
+
+__Downloads__: 122,860 | __Repository__: https://aka.ms/AzAPICall
+
+## [ASCIIWRITE](https://www.powershellgallery.com/Packages/ASCIIWRITE/1.0.1) | 1.0.1
+
+### Published: 11/09/2023 15:52:03 by Robin Granberg
+
+Write ASCII Block Font
+
+__Downloads__: 17 | __Repository__: https://github.com/canix1/ASCIIWRITE
+
+## [PSSailpoint](https://www.powershellgallery.com/Packages/PSSailpoint/1.2.1) | 1.2.1
+
+### Published: 11/09/2023 15:42:03 by Sailpoint Developer Relations
+
+PSSailpoint - the PowerShell module for IdentityNow
+
+__Downloads__: 670 | __Repository__: 
+
+## [NTS.Tools](https://www.powershellgallery.com/Packages/NTS.Tools/2.0.0.5) | 2.0.0.5
+
+### Published: 11/09/2023 15:32:03 by Moritz Wiedmann
+
+NTS.Tools module contains tools for ConfigMgr and course deployment
+
+__Downloads__: 1,791 | __Repository__: https://dev.ntsystems.de/MWiedmann/nts-tools
+
+## [NTS.Tools.MSSQL](https://www.powershellgallery.com/Packages/NTS.Tools.MSSQL/2.0.0.5) | 2.0.0.5
+
+### Published: 11/09/2023 15:31:50 by Moritz Wiedmann
+
+NTS.Tools.MSSQL module contains functions that are mainly related to Microsoft SQL Server
+
+__Downloads__: 1,733 | __Repository__: https://dev.ntsystems.de/MWiedmann/nts-tools
+
+## [NTS.Tools.MSHyperV](https://www.powershellgallery.com/Packages/NTS.Tools.MSHyperV/2.0.0.5) | 2.0.0.5
+
+### Published: 11/09/2023 15:31:42 by Moritz Wiedmann
+
+NTS.Tools.MSHyperV module contains functions that are mainly related to Microsoft Hyper-V
+
+__Downloads__: 1,766 | __Repository__: https://dev.ntsystems.de/MWiedmann/nts-tools
+
+## [NTS.Tools.MSExchange](https://www.powershellgallery.com/Packages/NTS.Tools.MSExchange/2.0.0.5) | 2.0.0.5
+
+### Published: 11/09/2023 15:31:35 by Moritz Wiedmann
+
+NTS.Tools.MSExchange module contains functions that are mainly related to around Microsoft Exchange
+
+__Downloads__: 1,727 | __Repository__: https://dev.ntsystems.de/MWiedmann/nts-tools
+
+## [NTS.Tools.MSConfigMgr](https://www.powershellgallery.com/Packages/NTS.Tools.MSConfigMgr/2.0.0.5) | 2.0.0.5
+
+### Published: 11/09/2023 15:31:28 by Moritz Wiedmann
+
+NTS.Tools.MSConfigMgr module contains functions that are mainly related to Microsoft Endpoint Configuration Manger
+
+__Downloads__: 1,731 | __Repository__: https://dev.ntsystems.de/MWiedmann/nts-tools
+
+## [NTS.Tools.MSADDS](https://www.powershellgallery.com/Packages/NTS.Tools.MSADDS/2.0.0.5) | 2.0.0.5
+
+### Published: 11/09/2023 15:31:21 by Moritz Wiedmann
+
+NTS.Tools.MSADDS module contains functions that are mainly related to Microsoft Active Directory Domain Services
+
+__Downloads__: 1,713 | __Repository__: https://dev.ntsystems.de/MWiedmann/nts-tools
+
+## [NTS.Tools.MSADCS](https://www.powershellgallery.com/Packages/NTS.Tools.MSADCS/2.0.0.5) | 2.0.0.5
+
+### Published: 11/09/2023 15:31:14 by Moritz Wiedmann
+
+NTS.Tools.MSADCS module contains functions that are mainly related to Microsoft Active Directory Certification Services
+
+__Downloads__: 1,729 | __Repository__: https://dev.ntsystems.de/MWiedmann/nts-tools
+
+## [NTS.Tools.Application](https://www.powershellgallery.com/Packages/NTS.Tools.Application/2.0.0.5) | 2.0.0.5
+
+### Published: 11/09/2023 15:30:29 by Moritz Wiedmann
+
+NTS.Tools.Application module contains functions to install applications
+
+__Downloads__: 739 | __Repository__: https://dev.ntsystems.de/MWiedmann/nts-tools
+
+## [NTS.Tools.General](https://www.powershellgallery.com/Packages/NTS.Tools.General/2.0.0.5) | 2.0.0.5
+
+### Published: 11/09/2023 15:30:20 by Moritz Wiedmann
+
+NTS.Tools.General module contains functions that are used for general purpose
+
+__Downloads__: 1,937 | __Repository__: https://dev.ntsystems.de/MWiedmann/nts-tools
+
+## [AzCostOptimization](https://www.powershellgallery.com/Packages/AzCostOptimization/1.0.24) | 1.0.24
+
+### Published: 11/09/2023 15:06:11 by Aammir Mirza Baig
+
+This module automates the cost savings approach for Azure Web Apps and Azure SQL DB
+
+__Downloads__: 748 | __Repository__: 
+
+## [DCToolbox](https://www.powershellgallery.com/Packages/DCToolbox/2.0.15) | 2.0.15
+
+### Published: 11/09/2023 14:25:39 by Daniel Chronlund
 
 A PowerShell toolbox for Microsoft 365 security fans.
 
 __Downloads__: 20,749 | __Repository__: https://github.com/DanielChronlund/DCToolbox
+
+## [ConvertStrings](https://www.powershellgallery.com/Packages/ConvertStrings/0.0.3) | 0.0.3
+
+### Published: 11/09/2023 14:10:28 by florian.von.bracht@apteco.de
+
+Apteco PS Modules - PowerShell String Conversion
+
+Multiple functions to convert strings, e.g. to change the encoding or to hash a string
+
+- Replace-Tokens
+- Get-StringHash
+- Convert-StringEncoding
+- Get-RandomString
+
+Please have a look at the help of the functions for more information or the github repository
+
+__Downloads__: 28 | __Repository__: https://github.com/Apteco/AptecoPSModules/tree/main/ConvertStrings
+
+## [OSMGeocode](https://www.powershellgallery.com/Packages/OSMGeocode/0.0.2) | 0.0.2
+
+### Published: 11/09/2023 13:58:18 by florian.von.bracht@apteco.de
+
+Apteco PS Modules - OpenStreetMaps Geocoding
+
+- Geocode your addresses through OpenStreetMaps
+- Much more to follow...
+
+Your help is appreciated. Just contact me.
+
+__Downloads__: 0 | __Repository__: https://github.com/Apteco/AptecoPSModules/tree/dev/AptecoPSFramework
+
+## [AsBuiltReport.VMware.SRM](https://www.powershellgallery.com/Packages/AsBuiltReport.VMware.SRM/0.4.5) | 0.4.5
+
+### Published: 11/09/2023 13:14:19 by Jonathan Colon
+
+A PowerShell module to generate an as built report on the configuration of VMware SRM.
+
+__Downloads__: 683 | __Repository__: https://github.com/AsBuiltReport/AsBuiltReport.VMware.SRM
+
+## [Rnwood.Dataverse.Data.PowerShell](https://www.powershellgallery.com/Packages/Rnwood.Dataverse.Data.PowerShell/1.0.7) | 1.0.7
+
+### Published: 11/09/2023 13:02:29 by Rob Wood <rob@rnwood.co.uk>
+
+Dataverse data manipulation cmdlets
+
+__Downloads__: 9 | __Repository__: 
+
+## [SpeakeasyPSModule](https://www.powershellgallery.com/Packages/SpeakeasyPSModule/1.2.82) | 1.2.82
+
+### Published: 11/09/2023 12:37:17 by Paul Cashmore
+
+PowerShell module that simplifies some Azure login, SharePoint data retrieval and SQL operations.
+
+__Downloads__: 0 | __Repository__: https://github.com/kprocyszyn/About-PowerShell
+
+## [GoodWorkaroundHelpers](https://www.powershellgallery.com/Packages/GoodWorkaroundHelpers/0.0.5) | 0.0.5
+
+### Published: 11/09/2023 12:14:55 by Marius Solbakken Mellum
+
+A module full of useful PowerShell helper functions, making your life easier.
+
+__Downloads__: 16 | __Repository__: 
 
 ## [Az.Avd](https://www.powershellgallery.com/Packages/Az.Avd/3.1.1) | 3.1.1
 
@@ -58,14 +248,6 @@ __Downloads__: 0 | __Repository__:
 Automation tools for production quality database deployment
 
 __Downloads__: 4,707,092 | __Repository__: https://www.red-gate.com/sca/productpage
-
-## [DattoDBPool](https://www.powershellgallery.com/Packages/DattoDBPool/2023.11.2) | 2023.11.2
-
-### Published: 11/09/2023 00:52:02 by Kent Sapp
-
-This module is designed to make it easier to use the internal Datto DBPool API in your PowerShell scripts. As some of the hard work is done, you can develop your scripts faster and be more effecient. There is no need to go through a big learning curve spending lots of time working out how to use the Datto DBPool API. Simply load the module, enter your API key and get results within minutes!
-
-__Downloads__: 0 | __Repository__: https://github.com/cksapp/DattoDBPool_Module
 
 ## [RubrikSecurityCloud](https://www.powershellgallery.com/Packages/RubrikSecurityCloud/0.18.2) | 0.18.2
 
@@ -159,14 +341,6 @@ Extends mithrandyr/SimplySql to facilitate always getting an open connection
 
 __Downloads__: 0 | __Repository__: https://github.com/realslacker/SimplyOpenConnection
 
-## [SpeakeasyPSModule](https://www.powershellgallery.com/Packages/SpeakeasyPSModule/1.2.8) | 1.2.8
-
-### Published: 11/08/2023 17:48:20 by Paul Cashmore
-
-PowerShell module that simplifies some Azure login, SharePoint data retrieval and SQL operations.
-
-__Downloads__: 0 | __Repository__: https://github.com/kprocyszyn/About-PowerShell
-
 ## [F7History](https://www.powershellgallery.com/Packages/F7History/1.4.7) | 1.4.7
 
 ### Published: 11/08/2023 16:15:48 by Tig Kindel
@@ -174,19 +348,6 @@ __Downloads__: 0 | __Repository__: https://github.com/kprocyszyn/About-PowerShel
 Press F7 to get a graphical Command History in Powershell.
 
 __Downloads__: 487 | __Repository__: https://github.com/gui-cs/F7History/
-
-## [OSMGeocode](https://www.powershellgallery.com/Packages/OSMGeocode/0.0.1) | 0.0.1
-
-### Published: 11/08/2023 15:28:35 by florian.von.bracht@apteco.de
-
-Apteco PS Modules - OpenStreetMaps Geocoding
-
-- Geocode your addresses through OpenStreetMaps
-- Much more to follow...
-
-Your help is appreciated. Just contact me.
-
-__Downloads__: 0 | __Repository__: https://github.com/Apteco/AptecoPSModules/tree/dev/AptecoPSFramework
 
 ## [AzureBasicLoadBalancerUpgrade](https://www.powershellgallery.com/Packages/AzureBasicLoadBalancerUpgrade/2.3.4) | 2.3.4
 
@@ -196,77 +357,13 @@ This module will migrate a Basic SKU load balancer connected to a Virtual Machin
 
 __Downloads__: 1,122 | __Repository__: https://github.com/Azure/AzLoadBalancerMigration
 
-## [NTS.Tools](https://www.powershellgallery.com/Packages/NTS.Tools/2.0.0.4) | 2.0.0.4
+## [psACL](https://www.powershellgallery.com/Packages/psACL/1.0.1) | 1.0.1
 
-### Published: 11/08/2023 13:51:35 by Moritz Wiedmann
+### Published: 11/08/2023 14:38:49 by Phillip Marshall
 
-NTS.Tools module contains tools for ConfigMgr and course deployment
+This module allows for control over Access Control Lists in Windows without having to use ICACLs.
 
-__Downloads__: 1,791 | __Repository__: 
-
-## [NTS.Tools.MSSQL](https://www.powershellgallery.com/Packages/NTS.Tools.MSSQL/2.0.0.4) | 2.0.0.4
-
-### Published: 11/08/2023 13:51:24 by Moritz Wiedmann
-
-NTS.Tools.MSSQL module contains functions that are mainly related to Microsoft SQL Server
-
-__Downloads__: 1,733 | __Repository__: 
-
-## [NTS.Tools.MSHyperV](https://www.powershellgallery.com/Packages/NTS.Tools.MSHyperV/2.0.0.4) | 2.0.0.4
-
-### Published: 11/08/2023 13:51:16 by Moritz Wiedmann
-
-NTS.Tools.MSHyperV module contains functions that are mainly related to Microsoft Hyper-V
-
-__Downloads__: 1,766 | __Repository__: 
-
-## [NTS.Tools.MSExchange](https://www.powershellgallery.com/Packages/NTS.Tools.MSExchange/2.0.0.4) | 2.0.0.4
-
-### Published: 11/08/2023 13:51:09 by Moritz Wiedmann
-
-NTS.Tools.MSExchange module contains functions that are mainly related to around Microsoft Exchange
-
-__Downloads__: 1,727 | __Repository__: 
-
-## [NTS.Tools.MSConfigMgr](https://www.powershellgallery.com/Packages/NTS.Tools.MSConfigMgr/2.0.0.4) | 2.0.0.4
-
-### Published: 11/08/2023 13:51:02 by Moritz Wiedmann
-
-NTS.Tools.MSConfigMgr module contains functions that are mainly related to Microsoft Endpoint Configuration Manger
-
-__Downloads__: 1,731 | __Repository__: 
-
-## [NTS.Tools.MSADDS](https://www.powershellgallery.com/Packages/NTS.Tools.MSADDS/2.0.0.4) | 2.0.0.4
-
-### Published: 11/08/2023 13:50:55 by Moritz Wiedmann
-
-NTS.Tools.MSADDS module contains functions that are mainly related to Microsoft Active Directory Domain Services
-
-__Downloads__: 1,713 | __Repository__: 
-
-## [NTS.Tools.MSADCS](https://www.powershellgallery.com/Packages/NTS.Tools.MSADCS/2.0.0.4) | 2.0.0.4
-
-### Published: 11/08/2023 13:50:48 by Moritz Wiedmann
-
-NTS.Tools.MSADCS module contains functions that are mainly related to Microsoft Active Directory Certification Services
-
-__Downloads__: 1,729 | __Repository__: 
-
-## [NTS.Tools.Application](https://www.powershellgallery.com/Packages/NTS.Tools.Application/2.0.0.4) | 2.0.0.4
-
-### Published: 11/08/2023 13:50:41 by Moritz Wiedmann
-
-NTS.Tools.Application module contains functions to install applications
-
-__Downloads__: 739 | __Repository__: 
-
-## [NTS.Tools.General](https://www.powershellgallery.com/Packages/NTS.Tools.General/2.0.0.4) | 2.0.0.4
-
-### Published: 11/08/2023 13:50:31 by Moritz Wiedmann
-
-NTS.Tools.General module contains functions that are used for general purpose
-
-__Downloads__: 1,937 | __Repository__: 
+__Downloads__: 0 | __Repository__: 
 
 ## [SqlPipeline](https://www.powershellgallery.com/Packages/SqlPipeline/0.0.3) | 0.0.3
 
@@ -318,14 +415,6 @@ __Downloads__: 23 | __Repository__:
 This PowerShell module contains cmdlets for managing VMware.Sdk.Vcf.SddcManager API.
 
 __Downloads__: 23 | __Repository__: 
-
-## [GoodWorkaroundHelpers](https://www.powershellgallery.com/Packages/GoodWorkaroundHelpers/0.0.4) | 0.0.4
-
-### Published: 11/08/2023 12:40:54 by Marius Solbakken Mellum
-
-A module full of useful PowerShell helper functions, making your life easier.
-
-__Downloads__: 16 | __Repository__: 
 
 ## [GWS.CloudDepot](https://www.powershellgallery.com/Packages/GWS.CloudDepot/0.1.318) | 0.1.318
 
@@ -1496,14 +1585,6 @@ Integrate and maintain Exchange Online with SEPPmail.Cloud
 
 __Downloads__: 1,284 | __Repository__: https://github.com/SEPPmail/SEPPmail365cloud
 
-## [Rnwood.Dataverse.Data.PowerShell](https://www.powershellgallery.com/Packages/Rnwood.Dataverse.Data.PowerShell/1.0.5) | 1.0.5
-
-### Published: 11/07/2023 17:21:15 by Rob Wood <rob@rnwood.co.uk>
-
-Dataverse data manipulation cmdlets
-
-__Downloads__: 9 | __Repository__: 
-
 ## [VMware.CloudFoundation.PasswordManagement](https://www.powershellgallery.com/Packages/VMware.CloudFoundation.PasswordManagement/1.6.0.1005) | 1.6.0.1005
 
 ### Published: 11/07/2023 16:11:08 by VMware
@@ -1541,6 +1622,14 @@ __Downloads__: 24 | __Repository__:
 ### Published: 11/07/2023 15:38:34 by Flandia
 
 HKUST COMP Courses Auto Test Inputs / Outputs
+
+__Downloads__: 0 | __Repository__: 
+
+## [MyADTools](https://www.powershellgallery.com/Packages/MyADTools/0.0.5) | 0.0.5
+
+### Published: 11/07/2023 14:31:26 by Erik Nordlöv
+
+Tools that can be used in an on-prem Active Directory environment
 
 __Downloads__: 0 | __Repository__: 
 
@@ -1809,14 +1898,6 @@ The official eKlient Powershell module to simplify integration with SysMan
 
 __Downloads__: 2,936 | __Repository__: https://www.inera.se/eklient
 
-## [SkylineAutomationToolkit](https://www.powershellgallery.com/Packages/SkylineAutomationToolkit/1.2.9) | 1.2.9
-
-### Published: 11/06/2023 16:01:57 by Sonny Nguyen
-
-SkylineAutomationToolkit
-
-__Downloads__: 628 | __Repository__: 
-
 ## [SACRED](https://www.powershellgallery.com/Packages/SACRED/0.1.0) | 0.1.0
 
 ### Published: 11/06/2023 15:47:33 by Chris Clohosy
@@ -1872,6 +1953,22 @@ __Downloads__: 12 | __Repository__: https://github.com/ccdigix/SACRED
 This module contains general logic for storing and retrieving data from a SACRED store.
 
 __Downloads__: 18 | __Repository__: https://github.com/ccdigix/SACRED
+
+## [SACRED.Server.Pode](https://www.powershellgallery.com/Packages/SACRED.Server.Pode/0.1.0) | 0.1.0
+
+### Published: 11/06/2023 15:44:41 by Chris Clohosy
+
+This module contains the logic required to run SACRED within a Pode server.
+
+__Downloads__: 0 | __Repository__: https://github.com/ccdigix/SACRED
+
+## [SACRED.SecretStore.PodeConfigFile](https://www.powershellgallery.com/Packages/SACRED.SecretStore.PodeConfigFile/0.1.0) | 0.1.0
+
+### Published: 11/06/2023 15:44:22 by Chris Clohosy
+
+This module contains logic for interacting with secrets that are required by SACRED, that are stored in the Pode server config file.
+
+__Downloads__: 0 | __Repository__: https://github.com/ccdigix/SACRED
 
 ## [SACRED.SecretStore.EnvironmentVariable](https://www.powershellgallery.com/Packages/SACRED.SecretStore.EnvironmentVariable/0.1.0) | 0.1.0
 
@@ -1937,14 +2034,6 @@ This module contains logic for running a SACRED job either directly, or as part 
 
 __Downloads__: 23 | __Repository__: https://github.com/ccdigix/SACRED
 
-## [PSSailpoint](https://www.powershellgallery.com/Packages/PSSailpoint/1.2.0) | 1.2.0
-
-### Published: 11/06/2023 15:18:46 by Sailpoint Developer Relations
-
-PSSailpoint - the PowerShell module for IdentityNow
-
-__Downloads__: 670 | __Repository__: 
-
 ## [UiPathOrch](https://www.powershellgallery.com/Packages/UiPathOrch/0.8.0.6) | 0.8.0.6
 
 ### Published: 11/06/2023 14:02:37 by Yoshifumi Tsuda
@@ -1977,88 +2066,4 @@ Import and export objects to parquet format
 
 __Downloads__: 1,280 | __Repository__: 
 
-## [Drm.Templates.Powershell](https://www.powershellgallery.com/Packages/Drm.Templates.Powershell/2.1.4) | 2.1.4
-
-### Published: 11/06/2023 12:08:36 by Stuart Elcocks
-
-Drm Template Tools allow you to generate and deploy configuration templates to your Microsoft Dynamics 365 online environments. DRM is a wrapper utility based around the Dynamics 365 online web api that allows you to configure and maintain many Dynamics entities. https://docs.drmtemplates.io/drmtemplates/supported-web-api-entities.html Check out the documentation here https://docs.drmtemplates.io/ to see how easy it is to get up and running quickly.
-
-__Downloads__: 724 | __Repository__: https://docs.drmtemplates.io/
-
-## [RDG.Deployment.Utils](https://www.powershellgallery.com/Packages/RDG.Deployment.Utils/0.0.9) | 0.0.9
-
-### Published: 11/06/2023 11:43:53 by kristoffersvanmark
-
-Includes a set of utility functions for deployment
-
-__Downloads__: 319 | __Repository__: 
-
-## [Particular.ServiceControl.Management](https://www.powershellgallery.com/Packages/Particular.ServiceControl.Management/4.32.3) | 4.32.3
-
-### Published: 11/06/2023 11:35:23 by Particular Software
-
-ServiceControl Management
-
-__Downloads__: 634 | __Repository__: https://github.com/Particular/ServiceControl
-
-## [AtlassianCloudPS](https://www.powershellgallery.com/Packages/AtlassianCloudPS/0.8.8) | 0.8.8
-
-### Published: 11/06/2023 11:10:13 by Andy Lyonette
-
-Interact with the Atlassian Cloud APIs using PowerShell
-
-__Downloads__: 5,694 | __Repository__: https://github.com/andylyonette/AtlassianCloudPS
-
-## [SentinelARConverter](https://www.powershellgallery.com/Packages/SentinelARConverter/2.2.2) | 2.2.2
-
-### Published: 11/06/2023 10:27:17 by Fabian Bader
-
-Helper module to convert Sentinel Analytics Rules between YAML, ARM and back
-
-__Downloads__: 2,987 | __Repository__: https://github.com/f-bader/SentinelARConverter
-
-## [Kernel32Dll](https://www.powershellgallery.com/Packages/Kernel32Dll/0.0.23) | 0.0.23
-
-### Published: 11/06/2023 06:55:30 by Otogawa Katsutoshi
-
-Windows32 API Kernel32Dll.
-
-__Downloads__: 0 | __Repository__: https://github.com/KatsutoshiOtogawa/Kernel32Dll
-
-## [tiPS](https://www.powershellgallery.com/Packages/tiPS/1.0.12) | 1.0.12
-
-### Published: 11/06/2023 00:25:50 by Daniel Schroeder
-
-PowerShell tips delivered straight to your terminal.
-
-__Downloads__: 1,466 | __Repository__: https://github.com/deadlydog/PowerShell.tiPS
-
-## [EZOut](https://www.powershellgallery.com/Packages/EZOut/2.0.3) | 2.0.3
-
-### Published: 11/05/2023 21:56:41 by James Brundage
-
-Easily Author Rich Format Files to Customize PowerShell Output
-
-__Downloads__: 4,851 | __Repository__: https://github.com/StartAutomating/EZOut
-
-## [Fabtools](https://www.powershellgallery.com/Packages/Fabtools/0.5.2) | 0.5.2
-
-### Published: 11/05/2023 21:36:33 by Ioana Bouariu AKA Jojobit
-
-A module to be able to do more with Microsoft Fabric.
-    It lets you pause and resume Fabric capacities.
-    Adds functionallity previously only available with the REST API as PowerShell functions.
-    There are also functions to make it easier to monitor usage metrics and refreshes.
-    It also adds Fabric-friendly aliases for PowerBI functions to make it easier to use the module.
-
-__Downloads__: 0 | __Repository__: https://www.github.com/jojobit/FabTools
-
-## [Devdeer.Caf](https://www.powershellgallery.com/Packages/Devdeer.Caf/0.0.23) | 0.0.23
-
-### Published: 11/05/2023 21:21:45 by DEVDEER
-
-This module contains the cmdlets to manage and prepare Azure Tenants in a CAF conform way.
-
-__Downloads__: 0 | __Repository__: https://devdeer.com/
-
-*Updated: Thursday, 09 November 2023 09:53:33 UTC*
+*Updated: Thursday, 09 November 2023 17:52:31 UTC*
