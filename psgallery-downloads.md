@@ -2229,4 +2229,4 @@ PowerShell Module for interacting with the Atera API
 
 __Downloads__: 3,579,743 | __Repository__: https://github.com/davejlong/PSAtera
 
-*Updated: Friday, 10 November 2023 02:03:38 UTC*
+*Updated: Friday, 10 November 2023 09:53:46 UTC*

@@ -3,6 +3,22 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [PSOpenAI](https://www.powershellgallery.com/Packages/PSOpenAI/2.1.0) | 2.1.0
+
+### Published: 11/10/2023 06:20:11 by mkht
+
+PowerShell module for OpenAI API
+
+__Downloads__: 367 | __Repository__: https://github.com/mkht/PSOpenAI
+
+## [PwshSpectreConsole](https://www.powershellgallery.com/Packages/PwshSpectreConsole/0.3.13) | 0.3.13
+
+### Published: 11/10/2023 02:46:59 by Shaun Lawrie
+
+A convenient PowerShell wrapper for Spectre.Console
+
+__Downloads__: 195 | __Repository__: https://github.com/ShaunLawrie/PwshSpectreConsole
+
 ## [TM-SessionHistory](https://www.powershellgallery.com/Packages/TM-SessionHistory/0.0.6) | 0.0.6
 
 ### Published: 11/10/2023 01:34:00 by Taylor Marvin
@@ -74,6 +90,14 @@ __Downloads__: 65 | __Repository__: https://gist.github.com/tsmarvin/f1da993cee2
 Get-InstalledApps outputs apps in Installed apps (Apps & features) and Get-ProgramsAndFeatures outputs apps in Programs and Features
 
 __Downloads__: 30 | __Repository__: 
+
+## [Set-Cluster-Alarms](https://www.powershellgallery.com/Packages/Set-Cluster-Alarms/0.0.1) | 0.0.1
+
+### Published: 11/09/2023 20:38:37 by Justin Keppers
+
+Sets alarm actions on a vmware cluster and all of the hosts that make up the cluster.
+
+__Downloads__: 0 | __Repository__: 
 
 ## [pwps_dab](https://www.powershellgallery.com/Packages/pwps_dab/23.3.3) | 23.3.3
 
@@ -1857,14 +1881,6 @@ PowerShell client module for the ACME protocol Version 2, which can be used to i
 
 __Downloads__: 329,752 | __Repository__: https://github.com/PKISharp/ACME-PS
 
-## [PwshSpectreConsole](https://www.powershellgallery.com/Packages/PwshSpectreConsole/0.3.12) | 0.3.12
-
-### Published: 11/07/2023 10:10:09 by Shaun Lawrie
-
-A convenient PowerShell wrapper for Spectre.Console
-
-__Downloads__: 195 | __Repository__: https://github.com/ShaunLawrie/PwshSpectreConsole
-
 ## [M365DSC.CRG](https://www.powershellgallery.com/Packages/M365DSC.CRG/0.1.2) | 0.1.2
 
 ### Published: 11/07/2023 09:17:08 by Yorick Kuijs
@@ -2050,20 +2066,4 @@ This module contains the logic required to run SACRED within a Pode server.
 
 __Downloads__: 0 | __Repository__: https://github.com/ccdigix/SACRED
 
-## [SACRED.SecretStore.PodeConfigFile](https://www.powershellgallery.com/Packages/SACRED.SecretStore.PodeConfigFile/0.1.0) | 0.1.0
-
-### Published: 11/06/2023 15:44:22 by Chris Clohosy
-
-This module contains logic for interacting with secrets that are required by SACRED, that are stored in the Pode server config file.
-
-__Downloads__: 0 | __Repository__: https://github.com/ccdigix/SACRED
-
-## [SACRED.SecretStore.EnvironmentVariable](https://www.powershellgallery.com/Packages/SACRED.SecretStore.EnvironmentVariable/0.1.0) | 0.1.0
-
-### Published: 11/06/2023 15:44:03 by Chris Clohosy
-
-This module contains logic for interacting with secrets that are required by SACRED, that are stored in environment variables.
-
-__Downloads__: 5 | __Repository__: https://github.com/ccdigix/SACRED
-
-*Updated: Friday, 10 November 2023 02:03:33 UTC*
+*Updated: Friday, 10 November 2023 09:53:39 UTC*

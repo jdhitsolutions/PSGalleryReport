@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Friday, 10 November 2023 02:03:45 UTC
+Updated: Friday, 10 November 2023 09:53:55 UTC
 
 .bat
 .env
@@ -169,7 +169,6 @@ adfstoolkit
 adfstools
 adgroupmemberobjects
 adgroupmembers
-adgroups
 adif
 adm
 admf
@@ -201,7 +200,6 @@ adsi
 adsite
 adsp
 adsync
-aduser
 aduseraccountlockout
 adv180002
 adv180018
@@ -365,6 +363,7 @@ app
 app-control-for-business
 app-only
 app-v
+app-volumes
 app.config
 appattach
 appclusive
@@ -399,6 +398,7 @@ appservices
 appsetting
 appv
 appveyor
+appvolumes
 appx
 appxmanifest
 aprs
@@ -710,7 +710,6 @@ bamboo
 bamboohr
 bandwidth
 bank
-banking
 banner
 bar
 barcodes
@@ -904,6 +903,7 @@ buildingmapping
 buildkit
 buildkite
 buildmaster
+builds
 buildtool
 bulk
 bulletin
@@ -968,12 +968,14 @@ cartoon
 case
 cassandra
 cat
+cat-names
 catalog
 catalogs
 catalyst
 catapult
 catesta
 catimage
+cats
 catty
 cavium
 cb
@@ -1590,8 +1592,6 @@ cvss
 cwi
 cx
 cyberark
-cyberark-api
-cyberark-identity
 cyberdrain
 cybereason
 cybersamurai
@@ -1610,6 +1610,7 @@ d365fo
 d365lbd
 daas
 dac
+dacfx
 dacl
 dacpac
 dacpackage
@@ -1664,6 +1665,7 @@ datalabelingservice
 datalabelingservicedataplane
 datalake
 datamanipulation
+datamodel
 datanorm
 dataplatform
 datapro
@@ -1710,6 +1712,7 @@ dbwebapi
 dc
 dcim
 dcim_b324
+dcom
 dcr
 debian
 debug
@@ -2065,6 +2068,7 @@ durabletask
 dust
 dutch
 dvls
+dword
 dxexpeditions
 dynamic
 dynamic-host-configuration-protocol
@@ -2559,6 +2563,7 @@ forgit
 forgiveness
 form
 format
+format-numberedlist
 formatdata
 formatformat-tableformat-listformat-wideformat-customformat-defaultout-defaultout-fileout-hostout-printerout-string
 formatting
@@ -2635,6 +2640,7 @@ gainz
 gainz-chocolateysync
 gainz-keepass
 gainz-sqldb
+gal
 gallery
 game
 gamecategory:cards
@@ -2725,7 +2731,6 @@ get-uptime
 getfirmwareenvironmentvariable
 getfirmwaretype
 ggplot
-gh
 gh-actions
 ghactions
 ghc
@@ -2827,7 +2832,6 @@ graphics
 graphite
 graphql
 graphs
-graphservices
 graphviz
 graylog
 greenplum
@@ -2854,6 +2858,7 @@ guardicore
 gubbins
 guest
 guestconfiguration
+guests
 gui
 gui.cs
 guid
@@ -2988,6 +2993,13 @@ hitrust
 hive
 hivehome
 hjson
+hkcu
+hkey_classes_root
+hkey_current_config
+hkey_current_user
+hkey_local_machine
+hkey_users
+hklm
 hl7
 hlds
 hls
@@ -3294,7 +3306,6 @@ invitation
 invocation
 invoice
 invoke
-invoke-asadmin
 invoke-asadministrator
 invoke-ascurrentuser
 invoke-automation
@@ -3524,7 +3535,6 @@ kubernetes
 kubernetesconfiguration
 kubespray
 kudu
-kurukuru
 kusto
 kvm
 kvp
@@ -3617,7 +3627,6 @@ license-generator
 licenseautomation
 licensemanagement
 licensemanager
-licensereport
 licenses
 licensing
 life
@@ -3627,6 +3636,7 @@ light
 lights
 lime
 limesurvey
+limit-job
 limits
 lina
 line
@@ -3738,6 +3748,7 @@ logoff
 logon
 logonright
 logonscript
+logontask
 logonto
 logonuser
 logparser
@@ -4166,6 +4177,7 @@ multios
 multipass
 multiple
 multiserver
+multistring
 multithread
 multithreaded
 multithreaded-helpers
@@ -4253,6 +4265,7 @@ nets
 netsapiens
 netscaler
 netscape
+netsec
 netsh
 netspell
 netstat
@@ -4285,6 +4298,7 @@ new-dynamicdictionary
 new-dynamicparameter
 new-githubrelease
 new-item
+new-itemproperty
 new-pinneditem
 new-rdpsession
 new-samcmapplicationfrompackagedefinitionsms
@@ -4297,6 +4311,8 @@ news
 newspaper
 newtonsoft
 newtonsoft.json
+nexenta
+nexentastor
 nexthink
 nexus
 nexusiq
@@ -4448,7 +4464,6 @@ officemessageencryption
 officertool
 offline
 offlinewimservicing
-ofx
 ogg
 oh-my-posh
 oh-my-zsh
@@ -4550,6 +4565,7 @@ optionstring
 opus
 oracle
 oraclecloudinfrastructure
+oraculum
 orbital
 orchestration
 orchestrator
@@ -4866,6 +4882,7 @@ pos
 posershellise
 posh
 posh-acme
+posh-cats
 posh-chocobear
 posh-direnv
 posh-git
@@ -4911,7 +4928,6 @@ poshy-wrap-docker-compose
 poshy-wrap-dotnet
 poshy-wrap-forgit
 poshy-wrap-gem
-poshy-wrap-gh
 poshy-wrap-git
 poshy-wrap-git-flow
 poshy-wrap-git-hf
@@ -4974,6 +4990,7 @@ powerplatform
 powerprotect
 powerprotect_datamanager
 powersaving
+powerscheme
 powershell
 powershell-class
 powershell-cmdlets
@@ -5985,12 +6002,6 @@ pscommand_invoke-gitflowreleasepublish
 pscommand_invoke-gitflowreleasepublishcurrent
 pscommand_invoke-gitflowreleasestart
 pscommand_invoke-gitgui
-pscommand_invoke-githubapi
-pscommand_invoke-githubapi-bodyempty
-pscommand_invoke-githubapi-bodyfields
-pscommand_invoke-githubapi-bodyfile
-pscommand_invoke-githubapi-bodyjson
-pscommand_invoke-githubapi-bodyraw
 pscommand_invoke-githubflow
 pscommand_invoke-githubflowfeature
 pscommand_invoke-githubflowhotfix
@@ -7402,12 +7413,6 @@ psfunction_invoke-gitflowreleasepublish
 psfunction_invoke-gitflowreleasepublishcurrent
 psfunction_invoke-gitflowreleasestart
 psfunction_invoke-gitgui
-psfunction_invoke-githubapi
-psfunction_invoke-githubapi-bodyempty
-psfunction_invoke-githubapi-bodyfields
-psfunction_invoke-githubapi-bodyfile
-psfunction_invoke-githubapi-bodyjson
-psfunction_invoke-githubapi-bodyraw
 psfunction_invoke-githubflow
 psfunction_invoke-githubflowfeature
 psfunction_invoke-githubflowhotfix
@@ -8057,6 +8062,7 @@ psfunction_xin
 psfunction_xwith
 psgallery
 psget
+psgitlab
 psgraph
 psgraylog
 pshot
@@ -8236,7 +8242,7 @@ quickaccess
 quickbase
 quickbooks
 quicksetup
-quiz
+qumulo
 quota
 quote
 quoteoftheday
@@ -8244,6 +8250,7 @@ quotes
 quotestoliveby
 quoting
 quser
+qword
 r
 r53
 rabbit
@@ -8359,8 +8366,15 @@ reflection
 refresh
 refreshtoken
 reg
+reg_binary
+reg_dword
+reg_expand_sz
+reg_multi_sz
+reg_qword
+reg_sz
 regardscitoyen
 regcli
+regedit
 regex
 region
 regions
@@ -8413,6 +8427,7 @@ remotesession
 remoting
 remove
 remove-githubsecrets
+remove-itemproperty
 remove-pass
 remove-path
 remove-pinneditem
@@ -8517,7 +8532,7 @@ rightsmanagement
 ripe
 risk
 riskiq
-riskpro
+risksense
 rivermeadow
 rlan
 rmcp
@@ -8869,7 +8884,6 @@ serviceplan
 servicepointmanager
 serviceprincipal
 services
-servicestatus
 servicestore
 servicing
 servicingstack
@@ -8882,6 +8896,7 @@ set_bios
 set-alias
 set-dnsservers
 set-githubsecrets
+set-itemproperty
 set-location
 set-openfiles
 set-ownership
@@ -9268,6 +9283,7 @@ start-jobthread
 start-threadjob
 startkey
 startmen
+startmenu
 starttls
 starwars
 stash
@@ -9293,7 +9309,6 @@ stdout
 steam
 steam-games
 steamcmd
-stepper
 sticker
 sticker-pack
 stickers
@@ -9338,6 +9353,7 @@ stripe
 strongname
 structure
 sts
+stt
 studio
 style
 su
@@ -9357,7 +9373,6 @@ subnetmask
 subnetmaths
 subnets
 subnetting
-subscribedskus
 subscription
 subscriptiondefinition
 subset
@@ -9406,6 +9421,7 @@ symantec
 symbolic
 symbolic_link
 symboliclink
+symbols
 symbolservers
 symlink
 symmetric
@@ -9466,7 +9482,6 @@ tabexpansion
 tabexpansion2
 tablacus
 table
-tableau
 tabler
 tables
 tablestorage
@@ -9478,7 +9493,6 @@ tag-requiredmodule2-2.0
 tag-requiredmodule3-2.5
 tag1
 tag2
-tagging
 tags
 tak
 taken
@@ -9569,6 +9583,7 @@ test-samcmapplicationexists
 test-samcmpackageexists
 test-userisadministrator
 test-xml
+test123
 testaccount
 testautomation
 tester
@@ -9585,6 +9600,7 @@ testusers
 text
 text-to-image
 text-to-speach"
+text-to-speech
 text2image
 textanalysis
 textbuffer
@@ -9605,6 +9621,7 @@ theme
 themes
 thermal
 thermostat
+thinprint
 third-party-libraries
 third-party-notice
 thispc
@@ -9681,6 +9698,7 @@ toshiba
 totp
 touch
 toughswitch
+tphubps
 tpm
 tpp
 tr-064
@@ -9864,6 +9882,7 @@ udpclient
 udptest
 udr
 udthememode
+udword
 uefi
 uem
 ui
@@ -9936,6 +9955,7 @@ upstream
 uptime
 uptimerobot
 uptobox
+uqword
 uri
 uri-scheme
 url
@@ -10230,6 +10250,7 @@ wdapi
 wds
 weather
 weaviate
+weaviatenet
 web
 web-search
 web.config
@@ -10406,7 +10427,6 @@ wisconsin-madison
 wisconsin'uw-madison
 wisdom
 with
-wizard
 wkhtmltopdf
 wlan
 wmf
