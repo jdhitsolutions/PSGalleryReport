@@ -3,6 +3,250 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [SpeakeasyPSModule](https://www.powershellgallery.com/Packages/SpeakeasyPSModule/1.2.86) | 1.2.86
+
+### Published: 11/10/2023 17:10:23 by Paul Cashmore
+
+PowerShell module that simplifies some Azure login, SharePoint data retrieval and SQL operations.
+
+__Downloads__: 0 | __Repository__: https://github.com/kprocyszyn/About-PowerShell
+
+## [VCFInstanceRecovery](https://www.powershellgallery.com/Packages/VCFInstanceRecovery/1.0.4) | 1.0.4
+
+### Published: 11/10/2023 15:56:37 by VMware
+
+PowerShell Module for VMware Cloud Foundation Full Instance Recovery
+
+__Downloads__: 17 | __Repository__: 
+
+## [Get-Cesi](https://www.powershellgallery.com/Packages/Get-Cesi/0.0.2) | 0.0.2
+
+### Published: 11/10/2023 15:40:53 by Justin Keppers
+
+Retreives customer contact info from the cesi spreadsheet (or at least a downloaded csv of the google doc).
+
+__Downloads__: 0 | __Repository__: 
+
+## [Devolutions.PowerShell](https://www.powershellgallery.com/Packages/Devolutions.PowerShell/2023.3.1) | 2023.3.1
+
+### Published: 11/10/2023 15:39:36 by Devolutions
+
+The Devolutions.PowerShell module is a set of cmdlets that allow administrators to manage Remote Desktop Manager, Devolutions Server and Devolutions Hub Business using PowerShell. This module provides a simple and consistent interface for interacting with these products, making it easy to automate various tasks, such as creating and managing connections, sessions, and credentials, configuring security settings, and generating reports. The module can be easily integrated with other PowerShell modules, allowing administrators to automate tasks across multiple products and platforms, streamline their workflows and increase efficiency.
+
+__Downloads__: 7,037 | __Repository__: https://devolutions.net/
+
+## [CAT](https://www.powershellgallery.com/Packages/CAT/0.24.0.5) | 0.24.0.5
+
+### Published: 11/10/2023 15:24:12 by Joyful Craftsmen CAT Team
+
+Author, run and manage AUTOMATED TESTS for your DATA with minimum effort.
+
+__Downloads__: 560 | __Repository__: https://docs.justcat.it/
+
+## [PSLog](https://www.powershellgallery.com/Packages/PSLog/5.50.0) | 5.50.0
+
+### Published: 11/10/2023 15:07:50 by Raimund Andree Per Pedersen
+
+Redirects stanard Write-* cmdlets to a log and offers some basic tracing functions
+
+__Downloads__: 30,479 | __Repository__: https://github.com/AutomatedLab/AutomatedLab
+
+## [PSFileTransfer](https://www.powershellgallery.com/Packages/PSFileTransfer/5.50.0) | 5.50.0
+
+### Published: 11/10/2023 15:07:46 by Raimund Andree Per Pedersen
+
+This module packages functions created by Lee Holmes for transfering files over PowerShell Remoting
+
+__Downloads__: 36,378 | __Repository__: https://github.com/AutomatedLab/AutomatedLab
+
+## [HostsFile](https://www.powershellgallery.com/Packages/HostsFile/5.50.0) | 5.50.0
+
+### Published: 11/10/2023 15:07:43 by Raimund Andree Per Pedersen
+
+This module provides management of hosts file content
+
+__Downloads__: 25,645 | __Repository__: https://github.com/AutomatedLab/AutomatedLab
+
+## [AutomatedLabWorker](https://www.powershellgallery.com/Packages/AutomatedLabWorker/5.50.0) | 5.50.0
+
+### Published: 11/10/2023 15:07:39 by Raimund Andree Per Pedersen Jan-Hendrik Peters
+
+This module encapsulates all the work activities to prepare the lab
+
+__Downloads__: 28,427 | __Repository__: https://github.com/AutomatedLab/AutomatedLab
+
+## [AutomatedLabUnattended](https://www.powershellgallery.com/Packages/AutomatedLabUnattended/5.50.0) | 5.50.0
+
+### Published: 11/10/2023 15:07:35 by Raimund Andree Per Pedersen
+
+The module is managing settings inside an unattended.xml file
+
+__Downloads__: 33,073 | __Repository__: https://github.com/AutomatedLab/AutomatedLab
+
+## [AutomatedLabTest](https://www.powershellgallery.com/Packages/AutomatedLabTest/5.50.0) | 5.50.0
+
+### Published: 11/10/2023 15:07:32 by Raimund Andree Per Pedersen Jan-Hendrik Peters
+
+The module is for testing AutomatedLab
+
+__Downloads__: 14,151 | __Repository__: https://github.com/AutomatedLab/AutomatedLab
+
+## [AutomatedLabNotifications](https://www.powershellgallery.com/Packages/AutomatedLabNotifications/5.50.0) | 5.50.0
+
+### Published: 11/10/2023 15:07:28 by Raimund Andree Per Pedersen Jan-Hendrik Peters
+
+This module uses pluggable providers to send various kinds of notifications for AutomatedLab
+
+__Downloads__: 38,799 | __Repository__: https://github.com/AutomatedLab/AutomatedLab
+
+## [AutomatedLabDefinition](https://www.powershellgallery.com/Packages/AutomatedLabDefinition/5.50.0) | 5.50.0
+
+### Published: 11/10/2023 15:07:25 by Raimund Andree Per Pedersen Jan-Hendrik Peters
+
+The module creates the lab and machine definition for the AutomatedLab module saved in XML
+
+__Downloads__: 27,306 | __Repository__: https://github.com/AutomatedLab/AutomatedLab
+
+## [AutomatedLabCore](https://www.powershellgallery.com/Packages/AutomatedLabCore/5.50.0) | 5.50.0
+
+### Published: 11/10/2023 15:07:20 by Raimund Andree Per Pedersen Jan-Hendrik Peters
+
+Automated lab environments with ease - Linux and Windows, Hyper-V and Azure
+
+__Downloads__: 928 | __Repository__: https://github.com/AutomatedLab/AutomatedLab
+
+## [AutomatedLab.Ships](https://www.powershellgallery.com/Packages/AutomatedLab.Ships/5.50.0) | 5.50.0
+
+### Published: 11/10/2023 15:07:13 by Raimund Andree Per Pedersen Jan-Hendrik Peters
+
+The SHiPS module to mount a lab drive containing all lab data
+
+__Downloads__: 3,781 | __Repository__: https://github.com/AutomatedLab/AutomatedLab
+
+## [AutomatedLab.Recipe](https://www.powershellgallery.com/Packages/AutomatedLab.Recipe/5.50.0) | 5.50.0
+
+### Published: 11/10/2023 15:07:09 by Raimund Andree Per Pedersen Jan-Hendrik Peters
+
+This module enables easy to use recipes to create lab environments
+
+__Downloads__: 4,250 | __Repository__: https://github.com/AutomatedLab/AutomatedLab
+
+## [AutomatedLab](https://www.powershellgallery.com/Packages/AutomatedLab/5.50.0) | 5.50.0
+
+### Published: 11/10/2023 15:07:05 by Raimund Andree Per Pedersen Jan-Hendrik Peters
+
+Automated lab environments with ease - Linux and Windows, Hyper-V and Azure
+
+__Downloads__: 26,137 | __Repository__: https://github.com/AutomatedLab/AutomatedLab
+
+## [NTS.Tools](https://www.powershellgallery.com/Packages/NTS.Tools/2.0.0.6) | 2.0.0.6
+
+### Published: 11/10/2023 11:24:29 by Moritz Wiedmann
+
+NTS.Tools module contains tools for ConfigMgr and course deployment
+
+__Downloads__: 1,791 | __Repository__: https://dev.ntsystems.de/MWiedmann/nts-tools
+
+## [NTS.Tools.MSSQL](https://www.powershellgallery.com/Packages/NTS.Tools.MSSQL/2.0.0.6) | 2.0.0.6
+
+### Published: 11/10/2023 11:23:16 by Moritz Wiedmann
+
+NTS.Tools.MSSQL module contains functions that are mainly related to Microsoft SQL Server
+
+__Downloads__: 1,733 | __Repository__: https://dev.ntsystems.de/MWiedmann/nts-tools
+
+## [NTS.Tools.MSHyperV](https://www.powershellgallery.com/Packages/NTS.Tools.MSHyperV/2.0.0.6) | 2.0.0.6
+
+### Published: 11/10/2023 11:23:09 by Moritz Wiedmann
+
+NTS.Tools.MSHyperV module contains functions that are mainly related to Microsoft Hyper-V
+
+__Downloads__: 1,766 | __Repository__: https://dev.ntsystems.de/MWiedmann/nts-tools
+
+## [NTS.Tools.MSExchange](https://www.powershellgallery.com/Packages/NTS.Tools.MSExchange/2.0.0.6) | 2.0.0.6
+
+### Published: 11/10/2023 11:23:02 by Moritz Wiedmann
+
+NTS.Tools.MSExchange module contains functions that are mainly related to around Microsoft Exchange
+
+__Downloads__: 1,727 | __Repository__: https://dev.ntsystems.de/MWiedmann/nts-tools
+
+## [NTS.Tools.MSConfigMgr](https://www.powershellgallery.com/Packages/NTS.Tools.MSConfigMgr/2.0.0.6) | 2.0.0.6
+
+### Published: 11/10/2023 11:22:56 by Moritz Wiedmann
+
+NTS.Tools.MSConfigMgr module contains functions that are mainly related to Microsoft Endpoint Configuration Manger
+
+__Downloads__: 1,731 | __Repository__: https://dev.ntsystems.de/MWiedmann/nts-tools
+
+## [NTS.Tools.MSADDS](https://www.powershellgallery.com/Packages/NTS.Tools.MSADDS/2.0.0.6) | 2.0.0.6
+
+### Published: 11/10/2023 11:22:49 by Moritz Wiedmann
+
+NTS.Tools.MSADDS module contains functions that are mainly related to Microsoft Active Directory Domain Services
+
+__Downloads__: 1,713 | __Repository__: https://dev.ntsystems.de/MWiedmann/nts-tools
+
+## [NTS.Tools.MSADCS](https://www.powershellgallery.com/Packages/NTS.Tools.MSADCS/2.0.0.6) | 2.0.0.6
+
+### Published: 11/10/2023 11:22:43 by Moritz Wiedmann
+
+NTS.Tools.MSADCS module contains functions that are mainly related to Microsoft Active Directory Certification Services
+
+__Downloads__: 1,729 | __Repository__: https://dev.ntsystems.de/MWiedmann/nts-tools
+
+## [NTS.Tools.Application](https://www.powershellgallery.com/Packages/NTS.Tools.Application/2.0.0.6) | 2.0.0.6
+
+### Published: 11/10/2023 11:22:36 by Moritz Wiedmann
+
+NTS.Tools.Application module contains functions to install applications
+
+__Downloads__: 739 | __Repository__: https://dev.ntsystems.de/MWiedmann/nts-tools
+
+## [NTS.Tools.General](https://www.powershellgallery.com/Packages/NTS.Tools.General/2.0.0.6) | 2.0.0.6
+
+### Published: 11/10/2023 11:22:26 by Moritz Wiedmann
+
+NTS.Tools.General module contains functions that are used for general purpose
+
+__Downloads__: 1,937 | __Repository__: https://dev.ntsystems.de/MWiedmann/nts-tools
+
+## [HornbillAPI](https://www.powershellgallery.com/Packages/HornbillAPI/1.2.0) | 1.2.0
+
+### Published: 11/10/2023 11:15:54 by Steve Goldthorpe
+
+This module includes CMDLETs to interact with the Hornbill APIs, for use within your Azure Runbooks.
+
+__Downloads__: 1,715 | __Repository__: https://wiki.hornbill.com/index.php/Microsoft_Azure_And_OMS_Integration
+
+## [ExchangeEssentials](https://www.powershellgallery.com/Packages/ExchangeEssentials/0.9.0) | 0.9.0
+
+### Published: 11/10/2023 11:08:06 by Przemyslaw Klys
+
+ExchangeEssentials
+
+__Downloads__: 73 | __Repository__: https://github.com/EvotecIT/ExchangeEssentials
+
+## [d365fo.tools](https://www.powershellgallery.com/Packages/d365fo.tools/0.7.5) | 0.7.5
+
+### Published: 11/10/2023 11:01:23 by Mötz Jensen & Rasmus Andersen
+
+A set of tools that will assist you when working with Dynamics 365 Finance & Operations development / demo machines.
+
+__Downloads__: 197,460 | __Repository__: https://github.com/d365collaborative/d365fo.tools
+
+## [Fabtools](https://www.powershellgallery.com/Packages/Fabtools/0.6.1) | 0.6.1
+
+### Published: 11/10/2023 10:57:43 by Ioana Bouariu AKA Jojobit
+
+A module to be able to do more with Microsoft Fabric.
+    It lets you pause and resume Fabric capacities.
+    Adds functionallity previously only available with the REST API as PowerShell functions.
+    There are also functions to make it easier to monitor usage metrics and refreshes.
+    It also adds Fabric-friendly aliases for PowerBI functions to make it easier to use the module.
+
+__Downloads__: 0 | __Repository__: https://www.github.com/jojobit/Fabtools
+
 ## [PSOpenAI](https://www.powershellgallery.com/Packages/PSOpenAI/2.1.0) | 2.1.0
 
 ### Published: 11/10/2023 06:20:11 by mkht
@@ -179,78 +423,6 @@ PSSailpoint - the PowerShell module for IdentityNow
 
 __Downloads__: 670 | __Repository__: 
 
-## [NTS.Tools](https://www.powershellgallery.com/Packages/NTS.Tools/2.0.0.5) | 2.0.0.5
-
-### Published: 11/09/2023 15:32:03 by Moritz Wiedmann
-
-NTS.Tools module contains tools for ConfigMgr and course deployment
-
-__Downloads__: 1,791 | __Repository__: https://dev.ntsystems.de/MWiedmann/nts-tools
-
-## [NTS.Tools.MSSQL](https://www.powershellgallery.com/Packages/NTS.Tools.MSSQL/2.0.0.5) | 2.0.0.5
-
-### Published: 11/09/2023 15:31:50 by Moritz Wiedmann
-
-NTS.Tools.MSSQL module contains functions that are mainly related to Microsoft SQL Server
-
-__Downloads__: 1,733 | __Repository__: https://dev.ntsystems.de/MWiedmann/nts-tools
-
-## [NTS.Tools.MSHyperV](https://www.powershellgallery.com/Packages/NTS.Tools.MSHyperV/2.0.0.5) | 2.0.0.5
-
-### Published: 11/09/2023 15:31:42 by Moritz Wiedmann
-
-NTS.Tools.MSHyperV module contains functions that are mainly related to Microsoft Hyper-V
-
-__Downloads__: 1,766 | __Repository__: https://dev.ntsystems.de/MWiedmann/nts-tools
-
-## [NTS.Tools.MSExchange](https://www.powershellgallery.com/Packages/NTS.Tools.MSExchange/2.0.0.5) | 2.0.0.5
-
-### Published: 11/09/2023 15:31:35 by Moritz Wiedmann
-
-NTS.Tools.MSExchange module contains functions that are mainly related to around Microsoft Exchange
-
-__Downloads__: 1,727 | __Repository__: https://dev.ntsystems.de/MWiedmann/nts-tools
-
-## [NTS.Tools.MSConfigMgr](https://www.powershellgallery.com/Packages/NTS.Tools.MSConfigMgr/2.0.0.5) | 2.0.0.5
-
-### Published: 11/09/2023 15:31:28 by Moritz Wiedmann
-
-NTS.Tools.MSConfigMgr module contains functions that are mainly related to Microsoft Endpoint Configuration Manger
-
-__Downloads__: 1,731 | __Repository__: https://dev.ntsystems.de/MWiedmann/nts-tools
-
-## [NTS.Tools.MSADDS](https://www.powershellgallery.com/Packages/NTS.Tools.MSADDS/2.0.0.5) | 2.0.0.5
-
-### Published: 11/09/2023 15:31:21 by Moritz Wiedmann
-
-NTS.Tools.MSADDS module contains functions that are mainly related to Microsoft Active Directory Domain Services
-
-__Downloads__: 1,713 | __Repository__: https://dev.ntsystems.de/MWiedmann/nts-tools
-
-## [NTS.Tools.MSADCS](https://www.powershellgallery.com/Packages/NTS.Tools.MSADCS/2.0.0.5) | 2.0.0.5
-
-### Published: 11/09/2023 15:31:14 by Moritz Wiedmann
-
-NTS.Tools.MSADCS module contains functions that are mainly related to Microsoft Active Directory Certification Services
-
-__Downloads__: 1,729 | __Repository__: https://dev.ntsystems.de/MWiedmann/nts-tools
-
-## [NTS.Tools.Application](https://www.powershellgallery.com/Packages/NTS.Tools.Application/2.0.0.5) | 2.0.0.5
-
-### Published: 11/09/2023 15:30:29 by Moritz Wiedmann
-
-NTS.Tools.Application module contains functions to install applications
-
-__Downloads__: 739 | __Repository__: https://dev.ntsystems.de/MWiedmann/nts-tools
-
-## [NTS.Tools.General](https://www.powershellgallery.com/Packages/NTS.Tools.General/2.0.0.5) | 2.0.0.5
-
-### Published: 11/09/2023 15:30:20 by Moritz Wiedmann
-
-NTS.Tools.General module contains functions that are used for general purpose
-
-__Downloads__: 1,937 | __Repository__: https://dev.ntsystems.de/MWiedmann/nts-tools
-
 ## [AzCostOptimization](https://www.powershellgallery.com/Packages/AzCostOptimization/1.0.24) | 1.0.24
 
 ### Published: 11/09/2023 15:06:11 by Aammir Mirza Baig
@@ -312,14 +484,6 @@ __Downloads__: 683 | __Repository__: https://github.com/AsBuiltReport/AsBuiltRep
 Dataverse data manipulation cmdlets
 
 __Downloads__: 9 | __Repository__: 
-
-## [SpeakeasyPSModule](https://www.powershellgallery.com/Packages/SpeakeasyPSModule/1.2.82) | 1.2.82
-
-### Published: 11/09/2023 12:37:17 by Paul Cashmore
-
-PowerShell module that simplifies some Azure login, SharePoint data retrieval and SQL operations.
-
-__Downloads__: 0 | __Repository__: https://github.com/kprocyszyn/About-PowerShell
 
 ## [GoodWorkaroundHelpers](https://www.powershellgallery.com/Packages/GoodWorkaroundHelpers/0.0.5) | 0.0.5
 
@@ -1905,165 +2069,4 @@ Explains a domain's email DNS records, including MX, SPF, DKIM, DMARC, and more.
 
 __Downloads__: 26 | __Repository__: https://github.com/rhymeswithmogul/MailPolicyExplainer
 
-## [KnowBe4-Partner](https://www.powershellgallery.com/Packages/KnowBe4-Partner/0.1.6) | 0.1.6
-
-### Published: 11/06/2023 23:45:46 by Terry Wilson
-
-A PowerShell Module for the KnowBe4 Partner Portal
-
-__Downloads__: 53 | __Repository__: https://github.com/greenloop-it-solutions/KnowBe4-Partner
-
-## [PowerShellAI](https://www.powershellgallery.com/Packages/PowerShellAI/0.9.3) | 0.9.3
-
-### Published: 11/06/2023 23:41:39 by Douglas Finke
-
-The PowerShell AI module integrates with the OpenAI API and let's you easily access the GPT models for text completion, image generation and more.
-
-__Downloads__: 14,431 | __Repository__: https://github.com/dfinke/PowerShellAI
-
-## [PowerShellAI.Functions](https://www.powershellgallery.com/Packages/PowerShellAI.Functions/0.1.4) | 0.1.4
-
-### Published: 11/06/2023 21:41:38 by Douglas Finke
-
-PowerShellAI Functions Module a PowerShell module designed to work as a bridge between PowerShell functions and OpenAI.
-
-__Downloads__: 4,083 | __Repository__: https://github.com/dfinke/PowerShellAI.Functions
-
-## [cr-devops-rest](https://www.powershellgallery.com/Packages/cr-devops-rest/2023.11.287) | 2023.11.287
-
-### Published: 11/06/2023 21:40:07 by Ryan.Phay@clearesult.com
-
-Create straight forward REST calls in PowerShell based on API endpoints defined in .json files.  Add your own REST API endpoints by simply creating new .json files.
-
-__Downloads__: 90 | __Repository__: https://github.com/CLEAResult/it.devops.psm.rest
-
-## [Meraki](https://www.powershellgallery.com/Packages/Meraki/1.0.2) | 1.0.2
-
-### Published: 11/06/2023 20:56:27 by Alex Heimbuch
-
-A PowerShell module for the Cisco Meraki API
-
-__Downloads__: 0 | __Repository__: 
-
-## [TeamsFunctions](https://www.powershellgallery.com/Packages/TeamsFunctions/22.20.0) | 22.20.0
-
-### Published: 11/06/2023 20:50:49 by David Eberhardt
-
-Teams Functions for Administration of Users, Common Area Phones, Resource Accounts, Call Queues and Auto Attendants, incl. Licensing, User Voice Configuration with Calling Plans and Direct Routing,
-For more information, please visit the https://davideberhardt.wordpress.com/ or https://github.com/DEberhardt/TeamsFunctions
-
-__Downloads__: 4,592 | __Repository__: 
-
-## [PsChat](https://www.powershellgallery.com/Packages/PsChat/0.0.51) | 0.0.51
-
-### Published: 11/06/2023 20:33:15 by boeegh
-
-This module is a simple OpenAI/ChatGPT client for PowerShell
-
-__Downloads__: 537 | __Repository__: https://github.com/boeegh/PsChat/
-
-## [AkamaiPowershell](https://www.powershellgallery.com/Packages/AkamaiPowershell/1.12.0) | 1.12.0
-
-### Published: 11/06/2023 20:13:50 by Stuart Macleod
-
-Cmdlets to manage Akamai {OPEN} APIs
-
-__Downloads__: 11,992 | __Repository__: https://github.com/akamai-contrib/akamaipowershell
-
-## [SmallsOnline.WindowsBuildNumbers.Pwsh](https://www.powershellgallery.com/Packages/SmallsOnline.WindowsBuildNumbers.Pwsh/1.1.0) | 1.1.0
-
-### Published: 11/06/2023 20:09:30 by Tim Small
-
-Get release information about Windows 10/11 feature updates.
-
-__Downloads__: 25 | __Repository__: https://github.com/Smalls1652/SmallsOnline.WindowsBuildNumbers
-
-## [Logic.Monitor.SE](https://www.powershellgallery.com/Packages/Logic.Monitor.SE/1.3.5) | 1.3.5
-
-### Published: 11/06/2023 20:03:22 by Steven Villardi
-
-PowerShell module to assist with Sale Engineering activities.
-
-__Downloads__: 9 | __Repository__: https://github.com/stevevillardi/Logic.Monitor.SE
-
-## [BinaryTree.Internal.Power365.Dev](https://www.powershellgallery.com/Packages/BinaryTree.Internal.Power365.Dev/20.12.13.5718) | 20.12.13.5718
-
-### Published: 11/06/2023 18:32:16 by BinaryTreePackagePublisher
-
-PowerShell Management cmdlets for Binary Tree Power365
-
-__Downloads__: 6,243 | __Repository__: 
-
-## [SysMan.WebApi](https://www.powershellgallery.com/Packages/SysMan.WebApi/3.8.11297) | 3.8.11297
-
-### Published: 11/06/2023 16:37:40 by Marcus Melberg
-
-The official eKlient Powershell module to simplify integration with SysMan
-
-__Downloads__: 2,936 | __Repository__: https://www.inera.se/eklient
-
-## [SACRED](https://www.powershellgallery.com/Packages/SACRED/0.1.0) | 0.1.0
-
-### Published: 11/06/2023 15:47:33 by Chris Clohosy
-
-This is the top-level module for SACRED. It enables a combination of sub modules to be installed at once from one global version.
-
-__Downloads__: 28 | __Repository__: https://github.com/ccdigix/SACRED
-
-## [SACRED.Util.Azure](https://www.powershellgallery.com/Packages/SACRED.Util.Azure/0.1.0) | 0.1.0
-
-### Published: 11/06/2023 15:46:40 by Chris Clohosy
-
-This module contains Azure-specific utility logic for SACRED.
-
-__Downloads__: 14 | __Repository__: https://github.com/ccdigix/SACRED
-
-## [SACRED.Util](https://www.powershellgallery.com/Packages/SACRED.Util/0.1.0) | 0.1.0
-
-### Published: 11/06/2023 15:46:19 by Chris Clohosy
-
-This module contains general utility logic for SACRED.
-
-__Downloads__: 12 | __Repository__: https://github.com/ccdigix/SACRED
-
-## [SACRED.Update.Windows.CertificateStore](https://www.powershellgallery.com/Packages/SACRED.Update.Windows.CertificateStore/0.1.0) | 0.1.0
-
-### Published: 11/06/2023 15:46:00 by Chris Clohosy
-
-This module contains SACRED logic for updating Windows certificate stores.
-
-__Downloads__: 7 | __Repository__: https://github.com/ccdigix/SACRED
-
-## [SACRED.Update.Azure.KeyVault](https://www.powershellgallery.com/Packages/SACRED.Update.Azure.KeyVault/0.1.0) | 0.1.0
-
-### Published: 11/06/2023 15:45:42 by Chris Clohosy
-
-This module contains SACRED logic for updating Azure Key Vault secrets and certificates.
-
-__Downloads__: 20 | __Repository__: https://github.com/ccdigix/SACRED
-
-## [SACRED.Store.Local](https://www.powershellgallery.com/Packages/SACRED.Store.Local/0.1.0) | 0.1.0
-
-### Published: 11/06/2023 15:45:20 by Chris Clohosy
-
-This module contains a SACRED store implementation that reads and writes from/to the local file system.
-
-__Downloads__: 12 | __Repository__: https://github.com/ccdigix/SACRED
-
-## [SACRED.Store](https://www.powershellgallery.com/Packages/SACRED.Store/0.1.0) | 0.1.0
-
-### Published: 11/06/2023 15:45:02 by Chris Clohosy
-
-This module contains general logic for storing and retrieving data from a SACRED store.
-
-__Downloads__: 18 | __Repository__: https://github.com/ccdigix/SACRED
-
-## [SACRED.Server.Pode](https://www.powershellgallery.com/Packages/SACRED.Server.Pode/0.1.0) | 0.1.0
-
-### Published: 11/06/2023 15:44:41 by Chris Clohosy
-
-This module contains the logic required to run SACRED within a Pode server.
-
-__Downloads__: 0 | __Repository__: https://github.com/ccdigix/SACRED
-
-*Updated: Friday, 10 November 2023 09:53:39 UTC*
+*Updated: Friday, 10 November 2023 17:52:21 UTC*

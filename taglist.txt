@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Friday, 10 November 2023 09:53:55 UTC
+Updated: Friday, 10 November 2023 17:52:31 UTC
 
 .bat
 .env
@@ -169,6 +169,7 @@ adfstoolkit
 adfstools
 adgroupmemberobjects
 adgroupmembers
+adgroups
 adif
 adm
 admf
@@ -200,6 +201,7 @@ adsi
 adsite
 adsp
 adsync
+aduser
 aduseraccountlockout
 adv180002
 adv180018
@@ -425,6 +427,7 @@ archivematica
 archivial
 archivial-backup
 archivial-cloud-backup
+archlinux
 arcresourcebridge
 arcus
 area
@@ -710,6 +713,7 @@ bamboo
 bamboohr
 bandwidth
 bank
+banking
 banner
 bar
 barcodes
@@ -867,6 +871,7 @@ brawlstars
 brazencloud
 bre
 breach
+break
 breakpoint
 brew
 brickset
@@ -1232,7 +1237,6 @@ code365
 codeanalysis
 codebuild
 codecommit
-codecomplexity
 codecov
 codecoverage
 codegen
@@ -1472,8 +1476,6 @@ covid-19
 cpm
 cppm
 cpu
-cpuid
-cpuid-information
 cq
 cqd
 cqdpowershell
@@ -1523,7 +1525,6 @@ crontab
 cropping
 cross-platform
 crossjoin
-crossover
 crossplatform
 crossplatformdevelopment
 crowdstrike
@@ -1592,6 +1593,8 @@ cvss
 cwi
 cx
 cyberark
+cyberark-api
+cyberark-identity
 cyberdrain
 cybereason
 cybersamurai
@@ -2290,7 +2293,6 @@ evernote
 everydaypowershell
 everydayrewards
 everything
-evolutionary-algorithms
 evolutionary-database
 evtx
 ews
@@ -2502,7 +2504,6 @@ findlocation
 findplace
 findproxyforurl
 fine-print
-fine-tuning
 finops
 firebird
 firefox
@@ -2632,7 +2633,6 @@ funds
 funny
 fusion
 fusionapps
-fuzzy
 fyi
 fzf
 gac
@@ -2680,7 +2680,6 @@ generation
 generator
 generic
 genericartifactscontent
-genetic-algorithm
 genp
 genxdev
 geo
@@ -2731,6 +2730,7 @@ get-uptime
 getfirmwareenvironmentvariable
 getfirmwaretype
 ggplot
+gh
 gh-actions
 ghactions
 ghc
@@ -2832,6 +2832,7 @@ graphics
 graphite
 graphql
 graphs
+graphservices
 graphviz
 graylog
 greenplum
@@ -3535,6 +3536,7 @@ kubernetes
 kubernetesconfiguration
 kubespray
 kudu
+kurukuru
 kusto
 kvm
 kvp
@@ -3589,7 +3591,6 @@ lccn
 lcm
 lcminternals
 ldap
-leafs
 league
 lean
 learn
@@ -3627,6 +3628,7 @@ license-generator
 licenseautomation
 licensemanagement
 licensemanager
+licensereport
 licenses
 licensing
 life
@@ -4054,7 +4056,6 @@ mobilitycontroller
 mock
 mocking
 model
-modeling
 modify
 module
 module-maintenance
@@ -4185,7 +4186,6 @@ multithreading
 music
 musiccast
 mustache
-mutation
 mute
 mutex
 mva
@@ -4226,7 +4226,6 @@ nasdaq
 native
 natpool
 natural-language-to-code
-natural-selection
 nav
 navigation
 nbi
@@ -4464,6 +4463,7 @@ officemessageencryption
 officertool
 offline
 offlinewimservicing
+ofx
 ogg
 oh-my-posh
 oh-my-zsh
@@ -4556,7 +4556,6 @@ ops
 opsi
 opsmgr
 optics
-optimization
 optimizer
 option
 option119
@@ -4869,7 +4868,6 @@ pop
 pop-location
 pop3
 popd
-population
 popup
 port
 port-scanner
@@ -4928,6 +4926,7 @@ poshy-wrap-docker-compose
 poshy-wrap-dotnet
 poshy-wrap-forgit
 poshy-wrap-gem
+poshy-wrap-gh
 poshy-wrap-git
 poshy-wrap-git-flow
 poshy-wrap-git-hf
@@ -4960,7 +4959,6 @@ position
 postgre
 postgres
 postgresql
-potato
 pow
 powdrgit
 power
@@ -6002,6 +6000,12 @@ pscommand_invoke-gitflowreleasepublish
 pscommand_invoke-gitflowreleasepublishcurrent
 pscommand_invoke-gitflowreleasestart
 pscommand_invoke-gitgui
+pscommand_invoke-githubapi
+pscommand_invoke-githubapi-bodyempty
+pscommand_invoke-githubapi-bodyfields
+pscommand_invoke-githubapi-bodyfile
+pscommand_invoke-githubapi-bodyjson
+pscommand_invoke-githubapi-bodyraw
 pscommand_invoke-githubflow
 pscommand_invoke-githubflowfeature
 pscommand_invoke-githubflowhotfix
@@ -7413,6 +7417,12 @@ psfunction_invoke-gitflowreleasepublish
 psfunction_invoke-gitflowreleasepublishcurrent
 psfunction_invoke-gitflowreleasestart
 psfunction_invoke-gitgui
+psfunction_invoke-githubapi
+psfunction_invoke-githubapi-bodyempty
+psfunction_invoke-githubapi-bodyfields
+psfunction_invoke-githubapi-bodyfile
+psfunction_invoke-githubapi-bodyjson
+psfunction_invoke-githubapi-bodyraw
 psfunction_invoke-githubflow
 psfunction_invoke-githubflowfeature
 psfunction_invoke-githubflowhotfix
@@ -8242,6 +8252,7 @@ quickaccess
 quickbase
 quickbooks
 quicksetup
+quiz
 qumulo
 quota
 quote
@@ -8532,6 +8543,7 @@ rightsmanagement
 ripe
 risk
 riskiq
+riskpro
 risksense
 rivermeadow
 rlan
@@ -8884,6 +8896,7 @@ serviceplan
 servicepointmanager
 serviceprincipal
 services
+servicestatus
 servicestore
 servicing
 servicingstack
@@ -9309,6 +9322,7 @@ stdout
 steam
 steam-games
 steamcmd
+stepper
 sticker
 sticker-pack
 stickers
@@ -9340,6 +9354,7 @@ streamanalytics
 streaming
 streamreader
 streamwriter
+stretch
 strictmode
 strikethrough-text
 string
@@ -9373,6 +9388,7 @@ subnetmask
 subnetmaths
 subnets
 subnetting
+subscribedskus
 subscription
 subscriptiondefinition
 subset
@@ -9493,6 +9509,7 @@ tag-requiredmodule2-2.0
 tag-requiredmodule3-2.5
 tag1
 tag2
+tagging
 tags
 tak
 taken
@@ -9786,7 +9803,6 @@ tubedownloader
 tui
 tulpep
 tuner
-tuning
 tutorial
 tv
 tweet
@@ -10032,7 +10048,6 @@ vault
 vaultextension
 vaultstore
 vaultwarden
-vb365
 vba
 vbaproject
 vbproj
@@ -10427,6 +10442,7 @@ wisconsin-madison
 wisconsin'uw-madison
 wisdom
 with
+wizard
 wkhtmltopdf
 wlan
 wmf

@@ -1978,19 +1978,19 @@ Icinga for Windows module which allows to entirely monitor the Windows Host syst
 
 __Downloads__: 199,217 | __Repository__: https://github.com/Icinga/icinga-powershell-framework
 
-## [xPrinterManagement](https://www.powershellgallery.com/Packages/xPrinterManagement/1.0.0.2) | 1.0.0.2
-
-### Published: 03/20/2019 12:14:14 by Evgeniy Nikulov
-
-Printer Management
-
-__Downloads__: 198,993 | __Repository__: 
-
 ## [PSFTP](https://www.powershellgallery.com/Packages/PSFTP/1.7.1.1) | 1.7.1.1
 
 ### Published: 09/02/2021 11:00:20 by Michal Gajda
 
 This module contain function to manage FTP account.
+
+__Downloads__: 198,993 | __Repository__: 
+
+## [xPrinterManagement](https://www.powershellgallery.com/Packages/xPrinterManagement/1.0.0.2) | 1.0.0.2
+
+### Published: 03/20/2019 12:14:14 by Evgeniy Nikulov
+
+Printer Management
 
 __Downloads__: 198,993 | __Repository__: 
 
@@ -2018,9 +2018,9 @@ Module with DSC Resources for Synergy/DE Products
 
 __Downloads__: 197,655 | __Repository__: https://synergexdev.visualstudio.com/HackathonSynergyDSC
 
-## [d365fo.tools](https://www.powershellgallery.com/Packages/d365fo.tools/0.7.4) | 0.7.4
+## [d365fo.tools](https://www.powershellgallery.com/Packages/d365fo.tools/0.7.5) | 0.7.5
 
-### Published: 10/24/2023 04:37:40 by Mötz Jensen & Rasmus Andersen
+### Published: 11/10/2023 11:01:23 by Mötz Jensen & Rasmus Andersen
 
 A set of tools that will assist you when working with Dynamics 365 Finance & Operations development / demo machines.
 
@@ -2138,4 +2138,4 @@ This PowerShell module enables integration with GitHub.
 
 __Downloads__: 172,821 | __Repository__: https://github.com/pcgeek86/PSGitHub
 
-*Updated: Friday, 10 November 2023 09:53:49 UTC*
+*Updated: Friday, 10 November 2023 17:52:27 UTC*
