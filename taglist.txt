@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Thursday, 09 November 2023 17:52:40 UTC
+Updated: Friday, 10 November 2023 02:03:45 UTC
 
 .bat
 .env
@@ -365,7 +365,6 @@ app
 app-control-for-business
 app-only
 app-v
-app-volumes
 app.config
 appattach
 appclusive
@@ -400,7 +399,6 @@ appservices
 appsetting
 appv
 appveyor
-appvolumes
 appx
 appxmanifest
 aprs
@@ -427,7 +425,6 @@ archivematica
 archivial
 archivial-backup
 archivial-cloud-backup
-archlinux
 arcresourcebridge
 arcus
 area
@@ -871,7 +868,6 @@ brawlstars
 brazencloud
 bre
 breach
-break
 breakpoint
 brew
 brickset
@@ -908,7 +904,6 @@ buildingmapping
 buildkit
 buildkite
 buildmaster
-builds
 buildtool
 bulk
 bulletin
@@ -973,14 +968,12 @@ cartoon
 case
 cassandra
 cat
-cat-names
 catalog
 catalogs
 catalyst
 catapult
 catesta
 catimage
-cats
 catty
 cavium
 cb
@@ -1617,7 +1610,6 @@ d365fo
 d365lbd
 daas
 dac
-dacfx
 dacl
 dacpac
 dacpackage
@@ -1672,7 +1664,6 @@ datalabelingservice
 datalabelingservicedataplane
 datalake
 datamanipulation
-datamodel
 datanorm
 dataplatform
 datapro
@@ -1719,7 +1710,6 @@ dbwebapi
 dc
 dcim
 dcim_b324
-dcom
 dcr
 debian
 debug
@@ -2075,7 +2065,6 @@ durabletask
 dust
 dutch
 dvls
-dword
 dxexpeditions
 dynamic
 dynamic-host-configuration-protocol
@@ -2293,6 +2282,7 @@ eventsubscription
 eventviewer
 eventwatch
 evergreen
+evernote
 everydaypowershell
 everydayrewards
 everything
@@ -2569,11 +2559,11 @@ forgit
 forgiveness
 form
 format
-format-numberedlist
 formatdata
 formatformat-tableformat-listformat-wideformat-customformat-defaultout-defaultout-fileout-hostout-printerout-string
 formatting
 forms
+fortiauth
 forticlient
 fortify
 fortifyondemand
@@ -2637,6 +2627,7 @@ funds
 funny
 fusion
 fusionapps
+fuzzy
 fyi
 fzf
 gac
@@ -2644,7 +2635,6 @@ gainz
 gainz-chocolateysync
 gainz-keepass
 gainz-sqldb
-gal
 gallery
 game
 gamecategory:cards
@@ -2864,7 +2854,6 @@ guardicore
 gubbins
 guest
 guestconfiguration
-guests
 gui
 gui.cs
 guid
@@ -2999,13 +2988,6 @@ hitrust
 hive
 hivehome
 hjson
-hkcu
-hkey_classes_root
-hkey_current_config
-hkey_current_user
-hkey_local_machine
-hkey_users
-hklm
 hl7
 hlds
 hls
@@ -3645,7 +3627,6 @@ light
 lights
 lime
 limesurvey
-limit-job
 limits
 lina
 line
@@ -3757,7 +3738,6 @@ logoff
 logon
 logonright
 logonscript
-logontask
 logonto
 logonuser
 logparser
@@ -4052,6 +4032,7 @@ mittelschule
 mixedreality
 mixer
 mkdocs
+mkpasswd
 ml
 ml.net
 mlflow
@@ -4185,7 +4166,6 @@ multios
 multipass
 multiple
 multiserver
-multistring
 multithread
 multithreaded
 multithreaded-helpers
@@ -4273,7 +4253,6 @@ nets
 netsapiens
 netscaler
 netscape
-netsec
 netsh
 netspell
 netstat
@@ -4306,7 +4285,6 @@ new-dynamicdictionary
 new-dynamicparameter
 new-githubrelease
 new-item
-new-itemproperty
 new-pinneditem
 new-rdpsession
 new-samcmapplicationfrompackagedefinitionsms
@@ -4319,8 +4297,6 @@ news
 newspaper
 newtonsoft
 newtonsoft.json
-nexenta
-nexentastor
 nexthink
 nexus
 nexusiq
@@ -4574,7 +4550,6 @@ optionstring
 opus
 oracle
 oraclecloudinfrastructure
-oraculum
 orbital
 orchestration
 orchestrator
@@ -4697,6 +4672,7 @@ passcode
 passivetotal
 passphrase
 passphraser passphrase password generator entropy
+passwd
 password
 password_generation
 password-generator
@@ -4798,6 +4774,7 @@ pictures
 pid
 pie
 pim
+pin
 ping
 ping-async
 pingsweep
@@ -4813,6 +4790,7 @@ pipelines
 pipenv
 pipescript
 piraeus
+pivot
 pivotal
 pivottable
 pixoo
@@ -4888,7 +4866,6 @@ pos
 posershellise
 posh
 posh-acme
-posh-cats
 posh-chocobear
 posh-direnv
 posh-git
@@ -4997,7 +4974,6 @@ powerplatform
 powerprotect
 powerprotect_datamanager
 powersaving
-powerscheme
 powershell
 powershell-class
 powershell-cmdlets
@@ -8081,7 +8057,6 @@ psfunction_xin
 psfunction_xwith
 psgallery
 psget
-psgitlab
 psgraph
 psgraylog
 pshot
@@ -8262,7 +8237,6 @@ quickbase
 quickbooks
 quicksetup
 quiz
-qumulo
 quota
 quote
 quoteoftheday
@@ -8270,7 +8244,6 @@ quotes
 quotestoliveby
 quoting
 quser
-qword
 r
 r53
 rabbit
@@ -8386,15 +8359,8 @@ reflection
 refresh
 refreshtoken
 reg
-reg_binary
-reg_dword
-reg_expand_sz
-reg_multi_sz
-reg_qword
-reg_sz
 regardscitoyen
 regcli
-regedit
 regex
 region
 regions
@@ -8447,7 +8413,6 @@ remotesession
 remoting
 remove
 remove-githubsecrets
-remove-itemproperty
 remove-pass
 remove-path
 remove-pinneditem
@@ -8553,7 +8518,6 @@ ripe
 risk
 riskiq
 riskpro
-risksense
 rivermeadow
 rlan
 rmcp
@@ -8918,7 +8882,6 @@ set_bios
 set-alias
 set-dnsservers
 set-githubsecrets
-set-itemproperty
 set-location
 set-openfiles
 set-ownership
@@ -8946,7 +8909,13 @@ sftp
 sfx
 sgopher
 sgw
+sha-256
+sha-512
+sha-crypt
 sha256
+sha256crypt
+sha512crypt
+shacrypt
 shadow
 shadowcopy
 shadowcopybackups
@@ -9299,7 +9268,6 @@ start-jobthread
 start-threadjob
 startkey
 startmen
-startmenu
 starttls
 starwars
 stash
@@ -9357,7 +9325,6 @@ streamanalytics
 streaming
 streamreader
 streamwriter
-stretch
 strictmode
 strikethrough-text
 string
@@ -9371,7 +9338,6 @@ stripe
 strongname
 structure
 sts
-stt
 studio
 style
 su
@@ -9440,7 +9406,6 @@ symantec
 symbolic
 symbolic_link
 symboliclink
-symbols
 symbolservers
 symlink
 symmetric
@@ -9604,7 +9569,6 @@ test-samcmapplicationexists
 test-samcmpackageexists
 test-userisadministrator
 test-xml
-test123
 testaccount
 testautomation
 tester
@@ -9621,7 +9585,6 @@ testusers
 text
 text-to-image
 text-to-speach"
-text-to-speech
 text2image
 textanalysis
 textbuffer
@@ -9642,7 +9605,6 @@ theme
 themes
 thermal
 thermostat
-thinprint
 third-party-libraries
 third-party-notice
 thispc
@@ -9698,6 +9660,7 @@ toggl
 toggle
 token
 tokenlifetime
+tokens
 toml
 tookit
 tool
@@ -9718,7 +9681,6 @@ toshiba
 totp
 touch
 toughswitch
-tphubps
 tpm
 tpp
 tr-064
@@ -9902,7 +9864,6 @@ udpclient
 udptest
 udr
 udthememode
-udword
 uefi
 uem
 ui
@@ -9975,7 +9936,6 @@ upstream
 uptime
 uptimerobot
 uptobox
-uqword
 uri
 uri-scheme
 url
@@ -10253,6 +10213,7 @@ wapi
 warning
 warplaneporn
 warranty
+warraty
 warrenty
 wasabi
 watch
@@ -10269,7 +10230,6 @@ wdapi
 wds
 weather
 weaviate
-weaviatenet
 web
 web-search
 web.config
@@ -10595,11 +10555,13 @@ xwiki
 xwindowsupdate
 xwith
 yahoo
+yahw
 yamaha
 yaml
 yandex
 yapg
 yarn
+yetanotherhelloworld
 yml
 ynab
 youtube
