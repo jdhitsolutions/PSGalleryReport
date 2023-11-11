@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Saturday, 11 November 2023 09:52:32 UTC
+Updated: Saturday, 11 November 2023 17:52:44 UTC
 
 .bat
 .env
@@ -13,6 +13,8 @@ Updated: Saturday, 11 November 2023 09:52:32 UTC
 'files
 'provider'
 "interactive
+**psedition_desktop**
+**windows**
 🍄
 🍣
 💩
@@ -156,7 +158,6 @@ addlevel
 addomainservices
 addon
 address
-addresses
 addressrange
 adds
 addtypeaccelerators
@@ -259,8 +260,8 @@ albums
 alc
 alero
 alert
+alerting
 alertmail
-alertmanagement
 alerts
 alertsmanagement
 alfresco
@@ -340,6 +341,7 @@ anywhere
 aovpn psmodule
 apache
 apachekafka
+apexone
 api
 api-client
 api-gateway
@@ -362,6 +364,7 @@ app
 app-control-for-business
 app-only
 app-v
+app-volumes
 app.config
 appattach
 appclusive
@@ -392,10 +395,13 @@ appraiser
 approve
 apps
 appservice
+appservices
 appsetting
 appv
 appveyor
+appvolumes
 appx
+appxmanifest
 aprs
 aprs-is
 aprsis
@@ -420,7 +426,6 @@ archivematica
 archivial
 archivial-backup
 archivial-cloud-backup
-archlinux
 arcresourcebridge
 arcus
 area
@@ -1521,6 +1526,7 @@ crontab
 cropping
 cross-platform
 crossjoin
+crossover
 crossplatform
 crossplatformdevelopment
 crowdstrike
@@ -1593,6 +1599,7 @@ cyberark-api
 cyberark-identity
 cyberdrain
 cybereason
+cybersamurai
 cybersecurity
 cyberwatch
 cyclic
@@ -1655,6 +1662,7 @@ dataexchange
 dataexplorer
 datafactory
 dataflow
+dataflowdependency
 datagateway
 dataintegration
 datakwaliteit
@@ -1685,6 +1693,7 @@ dates
 datetaken
 datetime
 datto
+dattodbpool
 dattormm
 datum
 dave
@@ -1702,12 +1711,12 @@ dbeaver
 dbfs
 dbnull
 dbops
+dbpool
 dbup
 dbwebapi
 dc
 dcim
 dcim_b324
-dcom
 dcr
 debian
 debug
@@ -1764,6 +1773,7 @@ dependencies
 dependency
 deploy
 deployment
+deploymentconfig
 deploymentmanager
 deploymentresourceprovider
 depute
@@ -1908,7 +1918,6 @@ dmi
 dmtf
 dmx
 dnd
-dnf
 dns
 dns-01
 dns-administration
@@ -2284,6 +2293,7 @@ evernote
 everydaypowershell
 everydayrewards
 everything
+evolutionary-algorithms
 evolutionary-database
 evtx
 ews
@@ -2547,6 +2557,7 @@ force
 forcedelete
 foreach
 foreach-object
+forecast
 forensic
 forensics
 forest
@@ -2561,7 +2572,6 @@ formatformat-tableformat-listformat-wideformat-customformat-defaultout-defaultou
 formatting
 forms
 fortiauth
-forticlient
 fortify
 fortifyondemand
 fortigate
@@ -2672,6 +2682,7 @@ generation
 generator
 generic
 genericartifactscontent
+genetic-algorithm
 genp
 genxdev
 geo
@@ -2985,7 +2996,6 @@ historyninja
 hitrust
 hive
 hivehome
-hjson
 hkcu
 hkey_classes_root
 hkey_current_config
@@ -3021,6 +3031,7 @@ hosts-file
 hostsfile
 hot-water
 hotkey
+hotkeys
 howto
 hp
 hpc
@@ -3274,6 +3285,7 @@ interactive
 interactive-brokers
 interface
 interlogix
+internal
 internet
 internet-explorer
 internetconnection
@@ -3408,7 +3420,6 @@ jira
 jiraservicemanagement
 jitbit
 jms
-jmsjavadownloads
 jnet
 jnetps
 joat
@@ -3423,7 +3434,6 @@ jojoba
 joke
 jotform
 journal
-joyride
 jpg
 jq
 js7
@@ -3458,8 +3468,6 @@ k8s
 k8sshell
 kafka
 kaminario
-karabiner
-karabiner-elements
 karma
 kaseya
 kaseyavsa
@@ -3483,14 +3491,11 @@ key
 key-vault
 key2wocas
 keybase
-keybinding
 keyboard
 keyboardstartkey
 keycipher
 keylight
 keymanagement
-keymap
-keymapping
 keypair
 keysms
 keyvault
@@ -4037,7 +4042,6 @@ mittelschule
 mixedreality
 mixer
 mkdocs
-mkpasswd
 ml
 ml.net
 mlflow
@@ -4174,10 +4178,12 @@ multiserver
 multistring
 multithread
 multithreaded
+multithreaded-helpers
 multithreading
 music
 musiccast
 mustache
+mutation
 mute
 mutex
 mva
@@ -4218,6 +4224,7 @@ nasdaq
 native
 natpool
 natural-language-to-code
+natural-selection
 nav
 navigation
 nbi
@@ -4250,6 +4257,7 @@ netcease
 netcore
 netfirewallrule
 netherlands
+netmap
 netmask
 nets
 netsapiens
@@ -4301,8 +4309,6 @@ news
 newspaper
 newtonsoft
 newtonsoft.json
-nexenta
-nexentastor
 nexthink
 nexus
 nexusiq
@@ -4547,6 +4553,7 @@ ops
 opsi
 opsmgr
 optics
+optimization
 optimizer
 option
 option119
@@ -4647,7 +4654,6 @@ pagerduty
 pages
 paloaltonetworks
 pam
-panels
 pansies
 panther
 panzerbjrn
@@ -4678,7 +4684,6 @@ passcode
 passivetotal
 passphrase
 passphraser passphrase password generator entropy
-passwd
 password
 password_generation
 password-generator
@@ -4748,6 +4753,7 @@ permissions
 permutations
 persistence
 persistent
+personal
 personalisation
 personalization
 personalvault
@@ -4795,6 +4801,7 @@ pipelines
 pipenv
 pipescript
 piraeus
+pivot
 pivotal
 pivottable
 pixoo
@@ -4857,6 +4864,7 @@ pop
 pop-location
 pop3
 popd
+population
 popup
 port
 port-scanner
@@ -4909,8 +4917,8 @@ poshy-wrap-apt
 poshy-wrap-argcomplete
 poshy-wrap-brew
 poshy-wrap-curl
-poshy-wrap-dnf
 poshy-wrap-docker
+poshy-wrap-docker-compose
 poshy-wrap-dotnet
 poshy-wrap-forgit
 poshy-wrap-gem
@@ -5091,6 +5099,7 @@ process
 processing
 processmitigation
 processor
+procmap
 procs
 producer
 product
@@ -5269,9 +5278,31 @@ pscommand_convertto-rgb
 pscommand_d
 pscommand_d64
 pscommand_dbl
+pscommand_dcb
+pscommand_dcdn
+pscommand_dce
 pscommand_dcin
+pscommand_dck
+pscommand_dcl
+pscommand_dclf
 pscommand_dcls
 pscommand_dclsa
+pscommand_dco
+pscommand_dcofresh
+pscommand_dcol
+pscommand_dcou
+pscommand_dcouns
+pscommand_dcps
+pscommand_dcpull
+pscommand_dcr
+pscommand_dcrestart
+pscommand_dcrm
+pscommand_dcstart
+pscommand_dcstop
+pscommand_dcup
+pscommand_dcupb
+pscommand_dcupbd
+pscommand_dcupd
 pscommand_decode64
 pscommand_decodefile64
 pscommand_df64
@@ -5312,24 +5343,12 @@ pscommand_dlo
 pscommand_dnc
 pscommand_dncn
 pscommand_dndcn
-pscommand_dnfc
-pscommand_dnfgi
-pscommand_dnfgl
-pscommand_dnfgr
-pscommand_dnfi
-pscommand_dnfl
-pscommand_dnfli
-pscommand_dnfmc
-pscommand_dnfp
-pscommand_dnfr
-pscommand_dnfri
-pscommand_dnfs
-pscommand_dnfu
 pscommand_dni
 pscommand_dnls
 pscommand_dnrm
 pscommand_docker-archive-content
 pscommand_docker-build
+pscommand_docker-compose-fresh
 pscommand_docker-container-execute
 pscommand_docker-container-execute-interactively
 pscommand_docker-container-inspect
@@ -5884,19 +5903,25 @@ pscommand_invoke-curlfollowingredirectsdownloadasnamedcontinue
 pscommand_invoke-curlfollowingredirectsdownloadasnamedcontinueandretry
 pscommand_invoke-curlfollowingredirectsfetchbanner
 pscommand_invoke-curlonlyforgetresponseheaders
-pscommand_invoke-dnfcleanall
-pscommand_invoke-dnfgrouplist
-pscommand_invoke-dnfgrouppinstall
-pscommand_invoke-dnfgroupremove
-pscommand_invoke-dnfinfo
-pscommand_invoke-dnfinstall
-pscommand_invoke-dnflist
-pscommand_invoke-dnflistinstalled
-pscommand_invoke-dnfmakecache
-pscommand_invoke-dnfreinstall
-pscommand_invoke-dnfremove
-pscommand_invoke-dnfsearch
-pscommand_invoke-dnfupgrade
+pscommand_invoke-dockercomposebuild
+pscommand_invoke-dockercomposedown
+pscommand_invoke-dockercomposeexec
+pscommand_invoke-dockercomposekill
+pscommand_invoke-dockercomposelogs
+pscommand_invoke-dockercomposelogsfollow
+pscommand_invoke-dockercomposelogsfollowtail
+pscommand_invoke-dockercomposeps
+pscommand_invoke-dockercomposepull
+pscommand_invoke-dockercomposerestart
+pscommand_invoke-dockercomposerm
+pscommand_invoke-dockercomposerun
+pscommand_invoke-dockercomposestart
+pscommand_invoke-dockercomposestop
+pscommand_invoke-dockercomposeup
+pscommand_invoke-dockercomposeupdetached
+pscommand_invoke-dockercomposeupdetachedwithbuild
+pscommand_invoke-dockercomposeupnostart
+pscommand_invoke-dockercomposeupwithbuild
 pscommand_invoke-gemcertadd
 pscommand_invoke-gemcertbuild
 pscommand_invoke-gemcertremove
@@ -7027,6 +7052,7 @@ psfunction_dirname
 psfunction_disable-proxy
 psfunction_docker-archive-content
 psfunction_docker-build
+psfunction_docker-compose-fresh
 psfunction_docker-container-execute
 psfunction_docker-container-execute-interactively
 psfunction_docker-container-inspect
@@ -7281,19 +7307,25 @@ psfunction_invoke-curlfollowingredirectsdownloadasnamedcontinue
 psfunction_invoke-curlfollowingredirectsdownloadasnamedcontinueandretry
 psfunction_invoke-curlfollowingredirectsfetchbanner
 psfunction_invoke-curlonlyforgetresponseheaders
-psfunction_invoke-dnfcleanall
-psfunction_invoke-dnfgrouplist
-psfunction_invoke-dnfgrouppinstall
-psfunction_invoke-dnfgroupremove
-psfunction_invoke-dnfinfo
-psfunction_invoke-dnfinstall
-psfunction_invoke-dnflist
-psfunction_invoke-dnflistinstalled
-psfunction_invoke-dnfmakecache
-psfunction_invoke-dnfreinstall
-psfunction_invoke-dnfremove
-psfunction_invoke-dnfsearch
-psfunction_invoke-dnfupgrade
+psfunction_invoke-dockercomposebuild
+psfunction_invoke-dockercomposedown
+psfunction_invoke-dockercomposeexec
+psfunction_invoke-dockercomposekill
+psfunction_invoke-dockercomposelogs
+psfunction_invoke-dockercomposelogsfollow
+psfunction_invoke-dockercomposelogsfollowtail
+psfunction_invoke-dockercomposeps
+psfunction_invoke-dockercomposepull
+psfunction_invoke-dockercomposerestart
+psfunction_invoke-dockercomposerm
+psfunction_invoke-dockercomposerun
+psfunction_invoke-dockercomposestart
+psfunction_invoke-dockercomposestop
+psfunction_invoke-dockercomposeup
+psfunction_invoke-dockercomposeupdetached
+psfunction_invoke-dockercomposeupdetachedwithbuild
+psfunction_invoke-dockercomposeupnostart
+psfunction_invoke-dockercomposeupwithbuild
 psfunction_invoke-gemcertadd
 psfunction_invoke-gemcertbuild
 psfunction_invoke-gemcertremove
@@ -8137,6 +8169,7 @@ pxedistributionpoint
 pyenv
 pygmentize
 pylint
+pyranja
 python
 python-for-dotnet
 python3
@@ -8579,6 +8612,7 @@ saml2
 sample
 sampler
 san
+sand
 sandbox
 sanitization
 sanitizer
@@ -8861,13 +8895,7 @@ sftp
 sfx
 sgopher
 sgw
-sha-256
-sha-512
-sha-crypt
 sha256
-sha256crypt
-sha512crypt
-shacrypt
 shadow
 shadowcopy
 shadowcopybackups
@@ -9687,6 +9715,7 @@ treffynnon
 trein
 trello
 trellops
+trend
 trend-micro
 trendmicro
 trevor
@@ -9787,6 +9816,7 @@ ud-input
 ud-licensed
 ud-loadingoverlay
 ud-minesweeper
+ud-mouseparticle
 ud-navbarsearch
 ud-numbermask
 ud-orgchart
@@ -10114,6 +10144,7 @@ vpn-certificate
 vpro
 vps
 vra
+vrchat
 vrealize
 vrising
 vro
@@ -10197,6 +10228,7 @@ webadministration
 webapi
 webapp
 webapplicationproxy
+webapps
 webcamera
 webcmdlets
 webdav
@@ -10444,7 +10476,6 @@ wsl2
 wsl2 psmodule psedition_core
 wsman
 wsmanlistener
-wso2
 wsus
 wt
 wtsapi32

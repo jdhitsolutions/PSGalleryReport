@@ -3,6 +3,72 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [AcuInstallerHelper](https://www.powershellgallery.com/Packages/AcuInstallerHelper/0.6.4) | 0.6.4
+
+### Published: 11/11/2023 17:36:53 by Kyle Vanderstoep
+
+Assists with the installation and removal of Acumatica Sites and Versions
+
+__Downloads__: 11 | __Repository__: 
+
+## [CWTimeEntry](https://www.powershellgallery.com/Packages/CWTimeEntry/0.0.2) | 0.0.2
+
+### Published: 11/11/2023 15:56:02 by Joseph Robertson
+
+A Windows PowerShell module for managing time entries in ConnectWise
+
+__Downloads__: 0 | __Repository__: https://github.com/jrobertson20/CWTimeEntry
+
+## [AzureDatacenterIPOrNo](https://www.powershellgallery.com/Packages/AzureDatacenterIPOrNo/1.4.2) | 1.4.2
+
+### Published: 11/11/2023 13:58:13 by Janne Mattila
+
+This module helps you to check if certain IP address is Azure Datacenter IP or not.
+
+__Downloads__: 844 | __Repository__: https://github.com/JanneMattila/AzureDatacenterIPOrNo
+
+## [Locksmith](https://www.powershellgallery.com/Packages/Locksmith/2023.11) | 2023.11
+
+### Published: 11/11/2023 13:04:14 by Jake Hildreth
+
+A small tool to find and fix common misconfigurations in Active Directory Certificate Services.
+
+__Downloads__: 193 | __Repository__: 
+
+## [AptecoPSFramework](https://www.powershellgallery.com/Packages/AptecoPSFramework/0.1.7) | 0.1.7
+
+### Published: 11/11/2023 12:00:53 by florian.von.bracht@apteco.de
+
+Apteco PS Modules - Framework
+
+This module allows Apteco, partners and customers to develop their own integrations.
+This framework brings lots of useful features with it like
+- Logging + Send information to Orbit UI
+- Standardised settings management saved in json files
+- Update upward compatibility when there are new features and setting possibilites
+- Errorhandling and causing stop of campaigns on problems
+- Installation of dependencies
+- Developer mode to quickly create own integrations
+- Secure encryption of tokens and credentials
+- Possibility to develop cmdlets that can be executed directly in PowerShell e.g. to start clean up jobs or download specific data from an integration...
+- Easy boilerplate, documentation on GitHub and Demo-Channel to start quickly
+- Easy updates via PowerShellGallery
+- Easy integration of proxies, custom headers, REST handling
+- Using secure oAuth for connected apps like Microsoft Dynamics, Salesforce SalesCloud and CleverReach
+- Much more to follow...
+
+Your help is appreciated. Just contact me.
+
+__Downloads__: 129 | __Repository__: https://github.com/Apteco/AptecoPSFramework
+
+## [SqlPipeline](https://www.powershellgallery.com/Packages/SqlPipeline/0.0.4) | 0.0.4
+
+### Published: 11/11/2023 11:56:53 by florian.von.bracht@apteco.de
+
+Apteco PS Modules - Wrapper for SimplySQL
+
+__Downloads__: 0 | __Repository__: https://github.com/Apteco/AptecoPSModules/tree/main/SqlPipeline
+
 ## [ProductivityTools.Feedback](https://www.powershellgallery.com/Packages/ProductivityTools.Feedback/0.0.14) | 0.0.14
 
 ### Published: 11/11/2023 08:46:33 by Pawel wujczyk
@@ -114,14 +180,6 @@ __Downloads__: 17,861 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 Functions for Active Directory
 
 __Downloads__: 19,324 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-## [AcuInstallerHelper](https://www.powershellgallery.com/Packages/AcuInstallerHelper/0.6.3) | 0.6.3
-
-### Published: 11/10/2023 23:43:21 by Kyle Vanderstoep
-
-Assists with the installation and removal of Acumatica Sites and Versions
-
-__Downloads__: 11 | __Repository__: 
 
 ## [PSFramework](https://www.powershellgallery.com/Packages/PSFramework/1.10.318) | 1.10.318
 
@@ -483,14 +541,6 @@ Get-InstalledApps outputs apps in Installed apps (Apps & features) and Get-Progr
 
 __Downloads__: 30 | __Repository__: 
 
-## [Set-Cluster-Alarms](https://www.powershellgallery.com/Packages/Set-Cluster-Alarms/0.0.1) | 0.0.1
-
-### Published: 11/09/2023 20:38:37 by Justin Keppers
-
-Sets alarm actions on a vmware cluster and all of the hosts that make up the cluster.
-
-__Downloads__: 0 | __Repository__: 
-
 ## [pwps_dab](https://www.powershellgallery.com/Packages/pwps_dab/23.3.3) | 23.3.3
 
 ### Published: 11/09/2023 19:56:56 by Bentley Systems Incorporated
@@ -522,6 +572,14 @@ __Downloads__: 1,865 | __Repository__:
 A Powershell wrapper for Netbox API
 
 __Downloads__: 862 | __Repository__: https://github.com/benclaussen/NetboxPS
+
+## [DattoDBPool](https://www.powershellgallery.com/Packages/DattoDBPool/2023.11.3) | 2023.11.3
+
+### Published: 11/09/2023 17:40:07 by Kent Sapp
+
+This module is designed to make it easier to use the internal Datto DBPool API in your PowerShell scripts. As some of the hard work is done, you can develop your scripts faster and be more effecient. There is no need to go through a big learning curve spending lots of time working out how to use the Datto DBPool API. Simply load the module, enter your API key and get results within minutes!
+
+__Downloads__: 0 | __Repository__: https://github.com/cksapp/DattoDBPool_Module
 
 ## [PSSymantecSEPM](https://www.powershellgallery.com/Packages/PSSymantecSEPM/0.3.2) | 0.3.2
 
@@ -595,19 +653,6 @@ Multiple functions to convert strings, e.g. to change the encoding or to hash a 
 Please have a look at the help of the functions for more information or the github repository
 
 __Downloads__: 28 | __Repository__: https://github.com/Apteco/AptecoPSModules/tree/main/ConvertStrings
-
-## [OSMGeocode](https://www.powershellgallery.com/Packages/OSMGeocode/0.0.2) | 0.0.2
-
-### Published: 11/09/2023 13:58:18 by florian.von.bracht@apteco.de
-
-Apteco PS Modules - OpenStreetMaps Geocoding
-
-- Geocode your addresses through OpenStreetMaps
-- Much more to follow...
-
-Your help is appreciated. Just contact me.
-
-__Downloads__: 0 | __Repository__: https://github.com/Apteco/AptecoPSModules/tree/dev/AptecoPSFramework
 
 ## [AsBuiltReport.VMware.SRM](https://www.powershellgallery.com/Packages/AsBuiltReport.VMware.SRM/0.4.5) | 0.4.5
 
@@ -788,14 +833,6 @@ __Downloads__: 1,122 | __Repository__: https://github.com/Azure/AzLoadBalancerMi
 This module allows for control over Access Control Lists in Windows without having to use ICACLs.
 
 __Downloads__: 0 | __Repository__: 
-
-## [SqlPipeline](https://www.powershellgallery.com/Packages/SqlPipeline/0.0.3) | 0.0.3
-
-### Published: 11/08/2023 13:33:49 by florian.von.bracht@apteco.de
-
-Apteco PS Modules - Wrapper for SimplySQL
-
-__Downloads__: 0 | __Repository__: https://github.com/Apteco/AptecoPSModules/tree/main/SqlPipeline
 
 ## [PSAutomaiSuite](https://www.powershellgallery.com/Packages/PSAutomaiSuite/1.1) | 1.1
 
@@ -1441,14 +1478,6 @@ This modules provides Cmdlets for OCI Keymanagement Service
 
 __Downloads__: 4,046 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-## [OCI.PSModules.Jmsjavadownloads](https://www.powershellgallery.com/Packages/OCI.PSModules.Jmsjavadownloads/70.1.0) | 70.1.0
-
-### Published: 11/07/2023 21:25:45 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Jmsjavadownloads Service
-
-__Downloads__: 0 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
 ## [OCI.PSModules.Jms](https://www.powershellgallery.com/Packages/OCI.PSModules.Jms/70.1.0) | 70.1.0
 
 ### Published: 11/07/2023 21:25:39 by Oracle Cloud Infrastructure
@@ -2033,36 +2062,20 @@ Financial package to create new Sensitive Information Types for MIP
 
 __Downloads__: 24 | __Repository__: 
 
-## [TcPrjMgmt](https://www.powershellgallery.com/Packages/TcPrjMgmt/0.3.5) | 0.3.5
+## [TestProgram](https://www.powershellgallery.com/Packages/TestProgram/1.0.0) | 1.0.0
 
-### Published: 11/07/2023 13:37:43 by Giang Nguyen
+### Published: 11/07/2023 15:38:34 by Flandia
 
-Utilities for managing TwinCAT solutions and projects. Including PLC project exporting, and library installation and uninstallation. NOTE: This module requires >= TwinCAT 3.1.4024.10 (XAR Runtime or Full) (local installation)
+HKUST COMP Courses Auto Test Inputs / Outputs
 
-__Downloads__: 29 | __Repository__: https://github.com/ahuca/TcPrjMgmt/tree/main
+__Downloads__: 0 | __Repository__: 
 
-## [MyPSFunctions](https://www.powershellgallery.com/Packages/MyPSFunctions/1.0.0.8) | 1.0.0.8
+## [MyADTools](https://www.powershellgallery.com/Packages/MyADTools/0.0.5) | 0.0.5
 
-### Published: 11/07/2023 12:44:52 by John@MyPSFunctions.com
+### Published: 11/07/2023 14:31:26 by Erik Nordlöv
 
-This Module has been created to provide a repository of my Daily Functions. - This module is provided as is without any support. Please be aware you are using this module as your own risks without any responsabilities from us.
+Tools that can be used in an on-prem Active Directory environment
 
-__Downloads__: 9 | __Repository__: 
+__Downloads__: 0 | __Repository__: 
 
-## [RelateIT_BC](https://www.powershellgallery.com/Packages/RelateIT_BC/2.5) | 2.5
-
-### Published: 11/07/2023 11:55:04 by RelateIT
-
-Productivity tools for RelateIT Business Central.
-
-__Downloads__: 9,649 | __Repository__: 
-
-## [ACME-PS](https://www.powershellgallery.com/Packages/ACME-PS/1.5.7) | 1.5.7
-
-### Published: 11/07/2023 11:45:10 by https://github.com/PKISharp/ACME-PS/graphs/contributors
-
-PowerShell client module for the ACME protocol Version 2, which can be used to interoperate with the Let's Encrypt(TM) projects certificate servers and any other RFC 8555 compliant server.
-
-__Downloads__: 329,752 | __Repository__: https://github.com/PKISharp/ACME-PS
-
-*Updated: Saturday, 11 November 2023 09:52:23 UTC*
+*Updated: Saturday, 11 November 2023 17:52:32 UTC*
