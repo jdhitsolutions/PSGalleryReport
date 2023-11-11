@@ -3,6 +3,46 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [AcuInstallerHelper](https://www.powershellgallery.com/Packages/AcuInstallerHelper/0.6.3) | 0.6.3
+
+### Published: 11/10/2023 23:43:21 by Kyle Vanderstoep
+
+Assists with the installation and removal of Acumatica Sites and Versions
+
+__Downloads__: 11 | __Repository__: 
+
+## [PSFramework](https://www.powershellgallery.com/Packages/PSFramework/1.10.318) | 1.10.318
+
+### Published: 11/10/2023 22:09:15 by Friedrich Weinmann
+
+General Scripting Framework, providing PowerShell-specific infrastructure for other modules.
+
+__Downloads__: 4,083,365 | __Repository__: http://psframework.org/
+
+## [ProductivityTools.TeamManagement](https://www.powershellgallery.com/Packages/ProductivityTools.TeamManagement/0.0.13) | 0.0.13
+
+### Published: 11/10/2023 18:48:35 by Pawel wujczyk
+
+It is a cmdlet which allows to save quick feedbacks about the team
+
+__Downloads__: 145 | __Repository__: http://productivitytools.tech/display-position/
+
+## [tiPS](https://www.powershellgallery.com/Packages/tiPS/1.0.13) | 1.0.13
+
+### Published: 11/10/2023 18:47:39 by Daniel Schroeder
+
+PowerShell tips delivered straight to your terminal.
+
+__Downloads__: 1,466 | __Repository__: https://github.com/deadlydog/PowerShell.tiPS
+
+## [easypeasy](https://www.powershellgallery.com/Packages/easypeasy/1.1.1) | 1.1.1
+
+### Published: 11/10/2023 18:00:42 by Igor Akkerman
+
+Collection of utility functions and aliases to simplify and automate common tasks in Windows environments.
+
+__Downloads__: 55 | __Repository__: https://github.com/igorakkerman/easypeasy
+
 ## [SpeakeasyPSModule](https://www.powershellgallery.com/Packages/SpeakeasyPSModule/1.2.86) | 1.2.86
 
 ### Published: 11/10/2023 17:10:23 by Paul Cashmore
@@ -246,6 +286,14 @@ A module to be able to do more with Microsoft Fabric.
     It also adds Fabric-friendly aliases for PowerBI functions to make it easier to use the module.
 
 __Downloads__: 0 | __Repository__: https://www.github.com/jojobit/Fabtools
+
+## [AksHci](https://www.powershellgallery.com/Packages/AksHci/1.1.95) | 1.1.95
+
+### Published: 11/10/2023 08:52:44 by nwood
+
+AKS HCI Module
+
+__Downloads__: 583,073 | __Repository__: 
 
 ## [PSOpenAI](https://www.powershellgallery.com/Packages/PSOpenAI/2.1.0) | 2.1.0
 
@@ -2021,52 +2069,4 @@ Utilities for managing TwinCAT solutions and projects. Including PLC project exp
 
 __Downloads__: 29 | __Repository__: https://github.com/ahuca/TcPrjMgmt/tree/main
 
-## [MyPSFunctions](https://www.powershellgallery.com/Packages/MyPSFunctions/1.0.0.8) | 1.0.0.8
-
-### Published: 11/07/2023 12:44:52 by John@MyPSFunctions.com
-
-This Module has been created to provide a repository of my Daily Functions. - This module is provided as is without any support. Please be aware you are using this module as your own risks without any responsabilities from us.
-
-__Downloads__: 9 | __Repository__: 
-
-## [RelateIT_BC](https://www.powershellgallery.com/Packages/RelateIT_BC/2.5) | 2.5
-
-### Published: 11/07/2023 11:55:04 by RelateIT
-
-Productivity tools for RelateIT Business Central.
-
-__Downloads__: 9,649 | __Repository__: 
-
-## [ACME-PS](https://www.powershellgallery.com/Packages/ACME-PS/1.5.7) | 1.5.7
-
-### Published: 11/07/2023 11:45:10 by https://github.com/PKISharp/ACME-PS/graphs/contributors
-
-PowerShell client module for the ACME protocol Version 2, which can be used to interoperate with the Let's Encrypt(TM) projects certificate servers and any other RFC 8555 compliant server.
-
-__Downloads__: 329,752 | __Repository__: https://github.com/PKISharp/ACME-PS
-
-## [M365DSC.CRG](https://www.powershellgallery.com/Packages/M365DSC.CRG/0.1.2) | 0.1.2
-
-### Published: 11/07/2023 09:17:08 by Yorick Kuijs
-
-Microsoft365Dsc Composite Resource Generator
-
-__Downloads__: 0 | __Repository__: https://github.com/ykuijs/M365DSC.CRG
-
-## [QCT-Update-Management](https://www.powershellgallery.com/Packages/QCT-Update-Management/1.5.17) | 1.5.17
-
-### Published: 11/07/2023 07:10:50 by QCTTW
-
-QCT Driver and Firmware Update Management.
-
-__Downloads__: 6,114 | __Repository__: 
-
-## [MailPolicyExplainer](https://www.powershellgallery.com/Packages/MailPolicyExplainer/1.3.0) | 1.3.0
-
-### Published: 11/07/2023 05:43:15 by Colin Cogle
-
-Explains a domain's email DNS records, including MX, SPF, DKIM, DMARC, and more.
-
-__Downloads__: 26 | __Repository__: https://github.com/rhymeswithmogul/MailPolicyExplainer
-
-*Updated: Friday, 10 November 2023 17:52:21 UTC*
+*Updated: Saturday, 11 November 2023 02:23:04 UTC*

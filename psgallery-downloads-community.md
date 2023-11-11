@@ -346,9 +346,9 @@ Commands and DSC resource for modifying Administrative Templates settings in loc
 
 __Downloads__: 4,199,388 | __Repository__: https://github.com/dlwyatt/PolicyFileEditor
 
-## [PSFramework](https://www.powershellgallery.com/Packages/PSFramework/1.9.310) | 1.9.310
+## [PSFramework](https://www.powershellgallery.com/Packages/PSFramework/1.10.318) | 1.10.318
 
-### Published: 09/13/2023 14:38:12 by Friedrich Weinmann
+### Published: 11/10/2023 22:09:15 by Friedrich Weinmann
 
 General Scripting Framework, providing PowerShell-specific infrastructure for other modules.
 
@@ -1242,9 +1242,9 @@ Dynamics 365 CE PowerShell Cmdlets to support automation of common build and dep
 
 __Downloads__: 595,079 | __Repository__: https://github.com/WaelHamze/xrm-ci-framework/
 
-## [AksHci](https://www.powershellgallery.com/Packages/AksHci/1.1.92) | 1.1.92
+## [AksHci](https://www.powershellgallery.com/Packages/AksHci/1.1.95) | 1.1.95
 
-### Published: 10/28/2023 05:23:07 by nwood
+### Published: 11/10/2023 08:52:44 by nwood
 
 AKS HCI Module
 
@@ -2138,4 +2138,4 @@ This PowerShell module enables integration with GitHub.
 
 __Downloads__: 172,821 | __Repository__: https://github.com/pcgeek86/PSGitHub
 
-*Updated: Friday, 10 November 2023 17:52:27 UTC*
+*Updated: Saturday, 11 November 2023 02:23:10 UTC*

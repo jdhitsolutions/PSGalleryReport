@@ -1009,9 +1009,9 @@ Microsoft Azure PowerShell - Batch service cmdlets for Azure Resource Manager
 
 __Downloads__: 24,118,090 | __Repository__: https://github.com/Azure/azure-powershell
 
-## [AWS.Tools.Common](https://www.powershellgallery.com/Packages/AWS.Tools.Common/4.1.450) | 4.1.450
+## [AWS.Tools.Common](https://www.powershellgallery.com/Packages/AWS.Tools.Common/4.1.451) | 4.1.451
 
-### Published: 11/09/2023 23:53:02 by Amazon.com Inc
+### Published: 11/10/2023 23:49:38 by Amazon.com Inc
 
 The AWS Tools for PowerShell lets developers and administrators manage their AWS services from the PowerShell scripting environment. In order to manage each AWS service, install the corresponding module (e.g. AWS.Tools.EC2, AWS.Tools.S3...).
 The module AWS.Tools.Installer (https://www.powershellgallery.com/packages/AWS.Tools.Installer/) makes it easier to install, update and uninstall the AWS.Tools modules.
@@ -1020,9 +1020,9 @@ Alternative modules, AWSPowerShell.NetCore and AWSPowerShell, provide support fo
 
 __Downloads__: 24,099,298 | __Repository__: https://github.com/aws/aws-tools-for-powershell
 
-## [AWSPowerShell](https://www.powershellgallery.com/Packages/AWSPowerShell/4.1.450) | 4.1.450
+## [AWSPowerShell](https://www.powershellgallery.com/Packages/AWSPowerShell/4.1.451) | 4.1.451
 
-### Published: 11/09/2023 23:51:33 by Amazon.com Inc
+### Published: 11/10/2023 23:48:36 by Amazon.com Inc
 
 The AWS Tools for Windows PowerShell lets developers and administrators manage their AWS services from the Windows PowerShell scripting environment.
 This version of AWS Tools for Windows PowerShell is compatible with Windows PowerShell 2-5.1. An alternative module, AWSPowerShell.NetCore, provides support for Windows PowerShell 3+ and PowerShell Core 6+ on Windows, Linux and macOS.
@@ -1847,9 +1847,9 @@ This Windows PowerShell module contains VMware.PowerCLI
 
 __Downloads__: 7,443,724 | __Repository__: 
 
-## [AWSPowerShell.NetCore](https://www.powershellgallery.com/Packages/AWSPowerShell.NetCore/4.1.450) | 4.1.450
+## [AWSPowerShell.NetCore](https://www.powershellgallery.com/Packages/AWSPowerShell.NetCore/4.1.451) | 4.1.451
 
-### Published: 11/09/2023 23:52:55 by Amazon.com Inc
+### Published: 11/10/2023 23:49:31 by Amazon.com Inc
 
 The AWS Tools for PowerShell lets developers and administrators manage their AWS services from the PowerShell scripting environment.
 This version of AWS Tools for PowerShell is compatible with Windows PowerShell 3+ and PowerShell Core 6+ on Windows, Linux and macOS. When running on Windows PowerShell, .NET Framework 4.7.2 or newer is required. An alternative module, AWSPowerShell, provides support for older versions of Windows PowerShell and .NET Framework.
@@ -2058,9 +2058,9 @@ Automation tools for production quality database deployment
 
 __Downloads__: 4,707,092 | __Repository__: https://www.red-gate.com/sca/productpage
 
-## [AWS.Tools.S3](https://www.powershellgallery.com/Packages/AWS.Tools.S3/4.1.450) | 4.1.450
+## [AWS.Tools.S3](https://www.powershellgallery.com/Packages/AWS.Tools.S3/4.1.451) | 4.1.451
 
-### Published: 11/10/2023 00:27:00 by Amazon.com Inc
+### Published: 11/11/2023 00:24:52 by Amazon.com Inc
 
 The S3 module of AWS Tools for PowerShell lets developers and administrators manage Amazon Simple Storage Service (S3) from the PowerShell scripting environment. In order to manage each AWS service, install the corresponding module (e.g. AWS.Tools.EC2, AWS.Tools.S3...).
 The module AWS.Tools.Installer (https://www.powershellgallery.com/packages/AWS.Tools.Installer/) makes it easier to install, update and uninstall the AWS.Tools modules.
@@ -2164,9 +2164,9 @@ Added help URI to module.
 
 __Downloads__: 4,087,260 | __Repository__: 
 
-## [PSFramework](https://www.powershellgallery.com/Packages/PSFramework/1.9.310) | 1.9.310
+## [PSFramework](https://www.powershellgallery.com/Packages/PSFramework/1.10.318) | 1.10.318
 
-### Published: 09/13/2023 14:38:12 by Friedrich Weinmann
+### Published: 11/10/2023 22:09:15 by Friedrich Weinmann
 
 General Scripting Framework, providing PowerShell-specific infrastructure for other modules.
 
@@ -2229,4 +2229,4 @@ PowerShell Module for interacting with the Atera API
 
 __Downloads__: 3,579,743 | __Repository__: https://github.com/davejlong/PSAtera
 
-*Updated: Friday, 10 November 2023 17:52:25 UTC*
+*Updated: Saturday, 11 November 2023 02:23:08 UTC*
