@@ -3,6 +3,22 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [CWTimeEntry](https://www.powershellgallery.com/Packages/CWTimeEntry/0.0.4) | 0.0.4
+
+### Published: 11/12/2023 00:25:51 by Joseph Robertson
+
+A Windows PowerShell module for managing time entries in ConnectWise
+
+__Downloads__: 0 | __Repository__: https://github.com/jrobertson20/CWTimeEntry
+
+## [TcPrjMgmt](https://www.powershellgallery.com/Packages/TcPrjMgmt/0.4.1) | 0.4.1
+
+### Published: 11/11/2023 23:24:10 by Giang Nguyen
+
+Utilities for managing TwinCAT solutions and projects. Including PLC project exporting, and library installation and uninstallation. NOTE: This module requires >= TwinCAT 3.1.4024.10 (XAR Runtime or Full) (local installation)
+
+__Downloads__: 29 | __Repository__: https://github.com/ahuca/TcPrjMgmt/tree/main
+
 ## [AcuInstallerHelper](https://www.powershellgallery.com/Packages/AcuInstallerHelper/0.6.4) | 0.6.4
 
 ### Published: 11/11/2023 17:36:53 by Kyle Vanderstoep
@@ -10,14 +26,6 @@ These are the latest 250 modules published to the [PowerShell Gallery](https://p
 Assists with the installation and removal of Acumatica Sites and Versions
 
 __Downloads__: 11 | __Repository__: 
-
-## [CWTimeEntry](https://www.powershellgallery.com/Packages/CWTimeEntry/0.0.2) | 0.0.2
-
-### Published: 11/11/2023 15:56:02 by Joseph Robertson
-
-A Windows PowerShell module for managing time entries in ConnectWise
-
-__Downloads__: 0 | __Repository__: https://github.com/jrobertson20/CWTimeEntry
 
 ## [AzureDatacenterIPOrNo](https://www.powershellgallery.com/Packages/AzureDatacenterIPOrNo/1.4.2) | 1.4.2
 
@@ -445,6 +453,18 @@ A set of tools that will assist you when working with Dynamics 365 Finance & Ope
 
 __Downloads__: 197,460 | __Repository__: https://github.com/d365collaborative/d365fo.tools
 
+## [Fabtools](https://www.powershellgallery.com/Packages/Fabtools/0.6.1) | 0.6.1
+
+### Published: 11/10/2023 10:57:43 by Ioana Bouariu AKA Jojobit
+
+A module to be able to do more with Microsoft Fabric.
+    It lets you pause and resume Fabric capacities.
+    Adds functionallity previously only available with the REST API as PowerShell functions.
+    There are also functions to make it easier to monitor usage metrics and refreshes.
+    It also adds Fabric-friendly aliases for PowerBI functions to make it easier to use the module.
+
+__Downloads__: 0 | __Repository__: https://www.github.com/jojobit/Fabtools
+
 ## [AksHci](https://www.powershellgallery.com/Packages/AksHci/1.1.95) | 1.1.95
 
 ### Published: 11/10/2023 08:52:44 by nwood
@@ -540,6 +560,14 @@ __Downloads__: 65 | __Repository__: https://gist.github.com/tsmarvin/f1da993cee2
 Get-InstalledApps outputs apps in Installed apps (Apps & features) and Get-ProgramsAndFeatures outputs apps in Programs and Features
 
 __Downloads__: 30 | __Repository__: 
+
+## [Set-Cluster-Alarms](https://www.powershellgallery.com/Packages/Set-Cluster-Alarms/0.0.1) | 0.0.1
+
+### Published: 11/09/2023 20:38:37 by Justin Keppers
+
+Sets alarm actions on a vmware cluster and all of the hosts that make up the cluster.
+
+__Downloads__: 0 | __Repository__: 
 
 ## [pwps_dab](https://www.powershellgallery.com/Packages/pwps_dab/23.3.3) | 23.3.3
 
@@ -653,6 +681,19 @@ Multiple functions to convert strings, e.g. to change the encoding or to hash a 
 Please have a look at the help of the functions for more information or the github repository
 
 __Downloads__: 28 | __Repository__: https://github.com/Apteco/AptecoPSModules/tree/main/ConvertStrings
+
+## [OSMGeocode](https://www.powershellgallery.com/Packages/OSMGeocode/0.0.2) | 0.0.2
+
+### Published: 11/09/2023 13:58:18 by florian.von.bracht@apteco.de
+
+Apteco PS Modules - OpenStreetMaps Geocoding
+
+- Geocode your addresses through OpenStreetMaps
+- Much more to follow...
+
+Your help is appreciated. Just contact me.
+
+__Downloads__: 0 | __Repository__: https://github.com/Apteco/AptecoPSModules/tree/dev/AptecoPSFramework
 
 ## [AsBuiltReport.VMware.SRM](https://www.powershellgallery.com/Packages/AsBuiltReport.VMware.SRM/0.4.5) | 0.4.5
 
@@ -1478,6 +1519,14 @@ This modules provides Cmdlets for OCI Keymanagement Service
 
 __Downloads__: 4,046 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
+## [OCI.PSModules.Jmsjavadownloads](https://www.powershellgallery.com/Packages/OCI.PSModules.Jmsjavadownloads/70.1.0) | 70.1.0
+
+### Published: 11/07/2023 21:25:45 by Oracle Cloud Infrastructure
+
+This modules provides Cmdlets for OCI Jmsjavadownloads Service
+
+__Downloads__: 0 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+
 ## [OCI.PSModules.Jms](https://www.powershellgallery.com/Packages/OCI.PSModules.Jms/70.1.0) | 70.1.0
 
 ### Published: 11/07/2023 21:25:39 by Oracle Cloud Infrastructure
@@ -2038,44 +2087,4 @@ PowerShell Module for VMware Cloud Foundation Password Management
 
 __Downloads__: 342 | __Repository__: https://vmware.github.io/powershell-module-for-vmware-cloud-foundation-password-management
 
-## [PowerValidatedSolutions](https://www.powershellgallery.com/Packages/PowerValidatedSolutions/2.7.0.1027) | 2.7.0.1027
-
-### Published: 11/07/2023 16:10:25 by VMware
-
-PowerShell Module for VMware Validated Solutions
-
-__Downloads__: 3,540 | __Repository__: https://vmware.github.io/power-validated-solutions-for-cloud-foundation/
-
-## [Juriba.Platform](https://www.powershellgallery.com/Packages/Juriba.Platform/0.0.44.2) | 0.0.44.2
-
-### Published: 11/07/2023 16:10:24 by Juriba
-
-PowerShell Module to interact with Juriba Platform.
-
-__Downloads__: 985 | __Repository__: https://github.com/juribalimited/powershell-module-platform
-
-## [FinancialPackage.PowershellGalleryModule](https://www.powershellgallery.com/Packages/FinancialPackage.PowershellGalleryModule/1.0.4) | 1.0.4
-
-### Published: 11/07/2023 15:43:58 by FastTrack In-Product Experiences Team
-
-Financial package to create new Sensitive Information Types for MIP
-
-__Downloads__: 24 | __Repository__: 
-
-## [TestProgram](https://www.powershellgallery.com/Packages/TestProgram/1.0.0) | 1.0.0
-
-### Published: 11/07/2023 15:38:34 by Flandia
-
-HKUST COMP Courses Auto Test Inputs / Outputs
-
-__Downloads__: 0 | __Repository__: 
-
-## [MyADTools](https://www.powershellgallery.com/Packages/MyADTools/0.0.5) | 0.0.5
-
-### Published: 11/07/2023 14:31:26 by Erik Nordlöv
-
-Tools that can be used in an on-prem Active Directory environment
-
-__Downloads__: 0 | __Repository__: 
-
-*Updated: Saturday, 11 November 2023 17:52:32 UTC*
+*Updated: Sunday, 12 November 2023 02:06:17 UTC*

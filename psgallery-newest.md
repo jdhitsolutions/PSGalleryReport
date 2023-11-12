@@ -3,6 +3,22 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [CWTimeEntry](https://www.powershellgallery.com/Packages/CWTimeEntry/0.0.4) | 0.0.4
+
+### Published: 11/12/2023 00:25:51 by Joseph Robertson
+
+A Windows PowerShell module for managing time entries in ConnectWise
+
+__Downloads__: 0 | __Repository__: https://github.com/jrobertson20/CWTimeEntry
+
+## [TcPrjMgmt](https://www.powershellgallery.com/Packages/TcPrjMgmt/0.4.1) | 0.4.1
+
+### Published: 11/11/2023 23:24:10 by Giang Nguyen
+
+Utilities for managing TwinCAT solutions and projects. Including PLC project exporting, and library installation and uninstallation. NOTE: This module requires >= TwinCAT 3.1.4024.10 (XAR Runtime or Full) (local installation)
+
+__Downloads__: 29 | __Repository__: https://github.com/ahuca/TcPrjMgmt/tree/main
+
 ## [AcuInstallerHelper](https://www.powershellgallery.com/Packages/AcuInstallerHelper/0.6.4) | 0.6.4
 
 ### Published: 11/11/2023 17:36:53 by Kyle Vanderstoep
@@ -10,14 +26,6 @@ These are the latest 250 modules published to the [PowerShell Gallery](https://p
 Assists with the installation and removal of Acumatica Sites and Versions
 
 __Downloads__: 11 | __Repository__: 
-
-## [CWTimeEntry](https://www.powershellgallery.com/Packages/CWTimeEntry/0.0.2) | 0.0.2
-
-### Published: 11/11/2023 15:56:02 by Joseph Robertson
-
-A Windows PowerShell module for managing time entries in ConnectWise
-
-__Downloads__: 0 | __Repository__: https://github.com/jrobertson20/CWTimeEntry
 
 ## [AzureDatacenterIPOrNo](https://www.powershellgallery.com/Packages/AzureDatacenterIPOrNo/1.4.2) | 1.4.2
 
@@ -2471,14 +2479,4 @@ This version of AWS Tools for PowerShell is compatible with Windows PowerShell 5
 
 __Downloads__: 23,061 | __Repository__: https://github.com/aws/aws-tools-for-powershell
 
-## [AWS.Tools.ECS](https://www.powershellgallery.com/Packages/AWS.Tools.ECS/4.1.451) | 4.1.451
-
-### Published: 11/11/2023 00:02:50 by Amazon.com Inc
-
-The ECS module of AWS Tools for PowerShell lets developers and administrators manage Amazon EC2 Container Service from the PowerShell scripting environment. In order to manage each AWS service, install the corresponding module (e.g. AWS.Tools.EC2, AWS.Tools.S3...).
-The module AWS.Tools.Installer (https://www.powershellgallery.com/packages/AWS.Tools.Installer/) makes it easier to install, update and uninstall the AWS.Tools modules.
-This version of AWS Tools for PowerShell is compatible with Windows PowerShell 5.1+ and PowerShell Core 6+ on Windows, Linux and macOS. When running on Windows PowerShell, .NET Framework 4.7.2 or newer is required. Alternative modules AWSPowerShell.NetCore and AWSPowerShell, provide support for all AWS services from a single module and also support older versions of Windows PowerShell and .NET Framework.
-
-__Downloads__: 103,086 | __Repository__: https://github.com/aws/aws-tools-for-powershell
-
-*Updated: Saturday, 11 November 2023 17:52:29 UTC*
+*Updated: Sunday, 12 November 2023 02:06:14 UTC*

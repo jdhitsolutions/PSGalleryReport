@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Saturday, 11 November 2023 17:52:44 UTC
+Updated: Sunday, 12 November 2023 02:06:29 UTC
 
 .bat
 .env
@@ -158,6 +158,7 @@ addlevel
 addomainservices
 addon
 address
+addresses
 addressrange
 adds
 addtypeaccelerators
@@ -262,6 +263,7 @@ alero
 alert
 alerting
 alertmail
+alertmanagement
 alerts
 alertsmanagement
 alfresco
@@ -282,6 +284,7 @@ alphafs
 alpine
 alt3
 alter
+alteryx
 alwaysontop
 alwaysonvpn
 alz
@@ -364,7 +367,6 @@ app
 app-control-for-business
 app-only
 app-v
-app-volumes
 app.config
 appattach
 appclusive
@@ -399,7 +401,6 @@ appservices
 appsetting
 appv
 appveyor
-appvolumes
 appx
 appxmanifest
 aprs
@@ -426,6 +427,7 @@ archivematica
 archivial
 archivial-backup
 archivial-cloud-backup
+archlinux
 arcresourcebridge
 arcus
 area
@@ -1453,7 +1455,6 @@ cos
 cosmos
 cosmosdb
 cost
-costmanagement
 costoptimization
 couchbase
 couchdb
@@ -1717,6 +1718,7 @@ dbwebapi
 dc
 dcim
 dcim_b324
+dcom
 dcr
 debian
 debug
@@ -1725,7 +1727,6 @@ debugger
 debugging
 decimal
 decimalip
-decimalzero
 declarative
 decline
 decode
@@ -1918,6 +1919,7 @@ dmi
 dmtf
 dmx
 dnd
+dnf
 dns
 dns-01
 dns-administration
@@ -1930,7 +1932,6 @@ dnsclient
 dnsdumpster
 dnsentry
 dnsimple
-dnslookup
 dnsmadeeasy
 dnsoverhttps
 dnsrecord
@@ -2093,7 +2094,6 @@ dynamicsnav
 dynamodb
 dynatrace
 dynatraceobservability
-dz
 e-mail
 e1
 easy
@@ -2506,7 +2506,6 @@ findplace
 findproxyforurl
 fine-print
 fine-tuning
-finops
 firebird
 firefox
 firewall
@@ -2572,6 +2571,7 @@ formatformat-tableformat-listformat-wideformat-customformat-defaultout-defaultou
 formatting
 forms
 fortiauth
+forticlient
 fortify
 fortifyondemand
 fortigate
@@ -2729,7 +2729,6 @@ get-samplingperiod
 get-stalecomps
 get-staleusers
 get-thermalstamp
-get-uptime
 getfirmwareenvironmentvariable
 getfirmwaretype
 ggplot
@@ -2996,6 +2995,7 @@ historyninja
 hitrust
 hive
 hivehome
+hjson
 hkcu
 hkey_classes_root
 hkey_current_config
@@ -3288,7 +3288,6 @@ interlogix
 internal
 internet
 internet-explorer
-internetconnection
 internetexplorer
 intersight
 intersightcmdlets
@@ -3420,6 +3419,7 @@ jira
 jiraservicemanagement
 jitbit
 jms
+jmsjavadownloads
 jnet
 jnetps
 joat
@@ -3434,6 +3434,7 @@ jojoba
 joke
 jotform
 journal
+joyride
 jpg
 jq
 js7
@@ -3468,6 +3469,8 @@ k8s
 k8sshell
 kafka
 kaminario
+karabiner
+karabiner-elements
 karma
 kaseya
 kaseyavsa
@@ -3491,11 +3494,14 @@ key
 key-vault
 key2wocas
 keybase
+keybinding
 keyboard
 keyboardstartkey
 keycipher
 keylight
 keymanagement
+keymap
+keymapping
 keypair
 keysms
 keyvault
@@ -3994,7 +4000,6 @@ microsoft365
 microsoft365dsc
 microsoftauthenticationlibrary
 microsoftazure
-microsoftcloud
 microsoftdefender
 microsoftdefenderatp
 microsoftdeploymenttoolkit
@@ -4042,6 +4047,7 @@ mittelschule
 mixedreality
 mixer
 mkdocs
+mkpasswd
 ml
 ml.net
 mlflow
@@ -4319,7 +4325,6 @@ nhl
 nic
 nic.ru
 nightmare
-ninite
 ninja
 ninjaone
 ninjarmm
@@ -4616,7 +4621,6 @@ outline
 outlook
 output
 output-to-image
-outreach
 outsystems
 overbite
 ovf
@@ -4654,6 +4658,7 @@ pagerduty
 pages
 paloaltonetworks
 pam
+panels
 pansies
 panther
 panzerbjrn
@@ -4684,6 +4689,7 @@ passcode
 passivetotal
 passphrase
 passphraser passphrase password generator entropy
+passwd
 password
 password_generation
 password-generator
@@ -4795,7 +4801,6 @@ pinvoke
 pip
 pip3
 pipe
-pipedrive
 pipeline
 pipelines
 pipenv
@@ -4917,6 +4922,7 @@ poshy-wrap-apt
 poshy-wrap-argcomplete
 poshy-wrap-brew
 poshy-wrap-curl
+poshy-wrap-dnf
 poshy-wrap-docker
 poshy-wrap-docker-compose
 poshy-wrap-dotnet
@@ -5343,6 +5349,19 @@ pscommand_dlo
 pscommand_dnc
 pscommand_dncn
 pscommand_dndcn
+pscommand_dnfc
+pscommand_dnfgi
+pscommand_dnfgl
+pscommand_dnfgr
+pscommand_dnfi
+pscommand_dnfl
+pscommand_dnfli
+pscommand_dnfmc
+pscommand_dnfp
+pscommand_dnfr
+pscommand_dnfri
+pscommand_dnfs
+pscommand_dnfu
 pscommand_dni
 pscommand_dnls
 pscommand_dnrm
@@ -5903,6 +5922,19 @@ pscommand_invoke-curlfollowingredirectsdownloadasnamedcontinue
 pscommand_invoke-curlfollowingredirectsdownloadasnamedcontinueandretry
 pscommand_invoke-curlfollowingredirectsfetchbanner
 pscommand_invoke-curlonlyforgetresponseheaders
+pscommand_invoke-dnfcleanall
+pscommand_invoke-dnfgrouplist
+pscommand_invoke-dnfgrouppinstall
+pscommand_invoke-dnfgroupremove
+pscommand_invoke-dnfinfo
+pscommand_invoke-dnfinstall
+pscommand_invoke-dnflist
+pscommand_invoke-dnflistinstalled
+pscommand_invoke-dnfmakecache
+pscommand_invoke-dnfreinstall
+pscommand_invoke-dnfremove
+pscommand_invoke-dnfsearch
+pscommand_invoke-dnfupgrade
 pscommand_invoke-dockercomposebuild
 pscommand_invoke-dockercomposedown
 pscommand_invoke-dockercomposeexec
@@ -7307,6 +7339,19 @@ psfunction_invoke-curlfollowingredirectsdownloadasnamedcontinue
 psfunction_invoke-curlfollowingredirectsdownloadasnamedcontinueandretry
 psfunction_invoke-curlfollowingredirectsfetchbanner
 psfunction_invoke-curlonlyforgetresponseheaders
+psfunction_invoke-dnfcleanall
+psfunction_invoke-dnfgrouplist
+psfunction_invoke-dnfgrouppinstall
+psfunction_invoke-dnfgroupremove
+psfunction_invoke-dnfinfo
+psfunction_invoke-dnfinstall
+psfunction_invoke-dnflist
+psfunction_invoke-dnflistinstalled
+psfunction_invoke-dnfmakecache
+psfunction_invoke-dnfreinstall
+psfunction_invoke-dnfremove
+psfunction_invoke-dnfsearch
+psfunction_invoke-dnfupgrade
 psfunction_invoke-dockercomposebuild
 psfunction_invoke-dockercomposedown
 psfunction_invoke-dockercomposeexec
@@ -8231,7 +8276,6 @@ raidcontrollercmdlets
 rainbow
 raisers
 raisersedge
-raj
 ram
 ram-it
 random
@@ -8275,7 +8319,6 @@ rdpsign
 rds
 rdsgw
 react-stockcharts
-read
 read-slog
 readable
 reader
@@ -8355,7 +8398,6 @@ registrar
 registration
 registry
 regression
-regular-expression
 regularexpression
 regularexpressions
 reinstall
@@ -8895,7 +8937,13 @@ sftp
 sfx
 sgopher
 sgw
+sha-256
+sha-512
+sha-crypt
 sha256
+sha256crypt
+sha512crypt
+shacrypt
 shadow
 shadowcopy
 shadowcopybackups
@@ -9545,7 +9593,6 @@ tesla
 test
 test-automation
 test-dscconfiguration
-test-internetconnection
 test-modulepath
 test-osplatform
 test-psremoting
@@ -10476,6 +10523,7 @@ wsl2
 wsl2 psmodule psedition_core
 wsman
 wsmanlistener
+wso2
 wsus
 wt
 wtsapi32
@@ -10520,7 +10568,6 @@ xiaomi
 xin
 xkcd
 xliff
-xlsx
 xmc
 xml
 xml-rpc
