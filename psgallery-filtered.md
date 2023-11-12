@@ -3,13 +3,21 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
-## [CWTimeEntry](https://www.powershellgallery.com/Packages/CWTimeEntry/0.0.4) | 0.0.4
+## [CWTimeEntry](https://www.powershellgallery.com/Packages/CWTimeEntry/0.0.5) | 0.0.5
 
-### Published: 11/12/2023 00:25:51 by Joseph Robertson
+### Published: 11/12/2023 05:37:33 by Joseph Robertson
 
 A Windows PowerShell module for managing time entries in ConnectWise
 
 __Downloads__: 0 | __Repository__: https://github.com/jrobertson20/CWTimeEntry
+
+## [VpasModule](https://www.powershellgallery.com/Packages/VpasModule/13.2.0) | 13.2.0
+
+### Published: 11/12/2023 05:35:56 by Vadim Melamed
+
+Module for CyberArk v13.X Privileged Access Security Web Service REST API for both Self Hosted and Privilege Cloud Solutions as well as Identity API suite
+
+__Downloads__: 368 | __Repository__: https://github.com/vmelamed5/CyberArk/tree/VpasModule/VpasModule/13.2.0
 
 ## [TcPrjMgmt](https://www.powershellgallery.com/Packages/TcPrjMgmt/0.4.1) | 0.4.1
 
@@ -236,14 +244,6 @@ __Downloads__: 0 | __Repository__: https://github.com/kprocyszyn/About-PowerShel
 PowerShell Module for VMware Cloud Foundation Full Instance Recovery
 
 __Downloads__: 17 | __Repository__: 
-
-## [Get-Cesi](https://www.powershellgallery.com/Packages/Get-Cesi/0.0.2) | 0.0.2
-
-### Published: 11/10/2023 15:40:53 by Justin Keppers
-
-Retreives customer contact info from the cesi spreadsheet (or at least a downloaded csv of the google doc).
-
-__Downloads__: 0 | __Repository__: 
 
 ## [Devolutions.PowerShell](https://www.powershellgallery.com/Packages/Devolutions.PowerShell/2023.3.1) | 2023.3.1
 
@@ -601,14 +601,6 @@ A Powershell wrapper for Netbox API
 
 __Downloads__: 862 | __Repository__: https://github.com/benclaussen/NetboxPS
 
-## [DattoDBPool](https://www.powershellgallery.com/Packages/DattoDBPool/2023.11.3) | 2023.11.3
-
-### Published: 11/09/2023 17:40:07 by Kent Sapp
-
-This module is designed to make it easier to use the internal Datto DBPool API in your PowerShell scripts. As some of the hard work is done, you can develop your scripts faster and be more effecient. There is no need to go through a big learning curve spending lots of time working out how to use the Datto DBPool API. Simply load the module, enter your API key and get results within minutes!
-
-__Downloads__: 0 | __Repository__: https://github.com/cksapp/DattoDBPool_Module
-
 ## [PSSymantecSEPM](https://www.powershellgallery.com/Packages/PSSymantecSEPM/0.3.2) | 0.3.2
 
 ### Published: 11/09/2023 16:50:36 by Aurélien BOUMANNE
@@ -743,14 +735,6 @@ A simple interface for making selections on an array of PS objects
 
 __Downloads__: 27,182 | __Repository__: https://github.com/jjcarrier/PS-TableUI
 
-## [Update-IISCertificate](https://www.powershellgallery.com/Packages/Update-IISCertificate/1.0.1) | 1.0.1
-
-### Published: 11/09/2023 01:18:25 by Joe Fabrie
-
-This module is used to update the TLS/SSL certificate on multiple IIS servers
-
-__Downloads__: 0 | __Repository__: 
-
 ## [SqlChangeAutomation](https://www.powershellgallery.com/Packages/SqlChangeAutomation/4.6.23312.2442) | 4.6.23312.2442
 
 ### Published: 11/09/2023 01:03:59 by Red Gate Software Ltd.
@@ -842,14 +826,6 @@ __Downloads__: 289,176 | __Repository__: https://github.com/Snow-Shell/serviceno
 This module provides cmdlets to help in daily work, find cost savings, and report on Azure Policy compliance
 
 __Downloads__: 2,386 | __Repository__: 
-
-## [SimplyOpenConnection](https://www.powershellgallery.com/Packages/SimplyOpenConnection/23.10.19.1552) | 23.10.19.1552
-
-### Published: 11/08/2023 18:54:04 by Shannon Graybrook
-
-Extends mithrandyr/SimplySql to facilitate always getting an open connection
-
-__Downloads__: 0 | __Repository__: https://github.com/realslacker/SimplyOpenConnection
 
 ## [F7History](https://www.powershellgallery.com/Packages/F7History/1.4.7) | 1.4.7
 
@@ -949,14 +925,6 @@ __Downloads__: 461 | __Repository__: https://github.com/baldcat18/PSSpecialFolde
 Scripts for tisane web/api
 
 __Downloads__: 49 | __Repository__: 
-
-## [psConnecttoExchange](https://www.powershellgallery.com/Packages/psConnecttoExchange/1.2.5) | 1.2.5
-
-### Published: 11/08/2023 00:50:12 by Phillip Marshall
-
-Allows for connection to a CAS Server.
-
-__Downloads__: 0 | __Repository__: 
 
 ## [Get-AzVMSku](https://www.powershellgallery.com/Packages/Get-AzVMSku/2.1) | 2.1
 
@@ -2087,4 +2055,36 @@ PowerShell Module for VMware Cloud Foundation Password Management
 
 __Downloads__: 342 | __Repository__: https://vmware.github.io/powershell-module-for-vmware-cloud-foundation-password-management
 
-*Updated: Sunday, 12 November 2023 02:06:17 UTC*
+## [PowerValidatedSolutions](https://www.powershellgallery.com/Packages/PowerValidatedSolutions/2.7.0.1027) | 2.7.0.1027
+
+### Published: 11/07/2023 16:10:25 by VMware
+
+PowerShell Module for VMware Validated Solutions
+
+__Downloads__: 3,540 | __Repository__: https://vmware.github.io/power-validated-solutions-for-cloud-foundation/
+
+## [Juriba.Platform](https://www.powershellgallery.com/Packages/Juriba.Platform/0.0.44.2) | 0.0.44.2
+
+### Published: 11/07/2023 16:10:24 by Juriba
+
+PowerShell Module to interact with Juriba Platform.
+
+__Downloads__: 985 | __Repository__: https://github.com/juribalimited/powershell-module-platform
+
+## [FinancialPackage.PowershellGalleryModule](https://www.powershellgallery.com/Packages/FinancialPackage.PowershellGalleryModule/1.0.4) | 1.0.4
+
+### Published: 11/07/2023 15:43:58 by FastTrack In-Product Experiences Team
+
+Financial package to create new Sensitive Information Types for MIP
+
+__Downloads__: 24 | __Repository__: 
+
+## [TestProgram](https://www.powershellgallery.com/Packages/TestProgram/1.0.0) | 1.0.0
+
+### Published: 11/07/2023 15:38:34 by Flandia
+
+HKUST COMP Courses Auto Test Inputs / Outputs
+
+__Downloads__: 0 | __Repository__: 
+
+*Updated: Sunday, 12 November 2023 09:52:26 UTC*

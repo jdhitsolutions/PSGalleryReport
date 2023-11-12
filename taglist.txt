@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Sunday, 12 November 2023 02:06:29 UTC
+Updated: Sunday, 12 November 2023 09:52:36 UTC
 
 .bat
 .env
@@ -86,8 +86,6 @@ accessgovernancecp
 accesspoint
 accessrights
 accesstoken
-accord
-accord.net
 accordian
 account
 accounting
@@ -171,7 +169,6 @@ adfstoolkit
 adfstools
 adgroupmemberobjects
 adgroupmembers
-adgroups
 adif
 adm
 admf
@@ -203,7 +200,6 @@ adsi
 adsite
 adsp
 adsync
-aduser
 aduseraccountlockout
 adv180002
 adv180018
@@ -328,7 +324,6 @@ annotated
 announcement
 announcementsservice
 anonymous
-anova
 ansi
 ansible
 ansible-control-node
@@ -792,7 +787,6 @@ bindings
 bing
 bingmap
 bingmaps
-binomial
 bios
 bios_settings
 bios-settings
@@ -1072,7 +1066,6 @@ chenxizhang
 cherrypy
 cherwell
 chfs
-chi
 china
 chmod
 choco
@@ -1444,17 +1437,16 @@ coreepower
 coreepower.common
 coreepower.config
 coreepower.lib
-coreepower.module
 coreepower.net
 coreepower.net.soundcloudexplode
 coreposh
 coreutils
 corona
 cortex
-cos
 cosmos
 cosmosdb
 cost
+costmanagement
 costoptimization
 couchbase
 couchdb
@@ -1694,7 +1686,6 @@ dates
 datetaken
 datetime
 datto
-dattodbpool
 dattormm
 datum
 dave
@@ -1712,7 +1703,6 @@ dbeaver
 dbfs
 dbnull
 dbops
-dbpool
 dbup
 dbwebapi
 dc
@@ -1727,6 +1717,7 @@ debugger
 debugging
 decimal
 decimalip
+decimalzero
 declarative
 decline
 decode
@@ -1805,7 +1796,6 @@ developercommandprompt
 development
 devenv
 devexpress
-deviation
 device
 devicecode
 deviceid
@@ -1932,6 +1922,7 @@ dnsclient
 dnsdumpster
 dnsentry
 dnsimple
+dnslookup
 dnsmadeeasy
 dnsoverhttps
 dnsrecord
@@ -2094,6 +2085,7 @@ dynamicsnav
 dynamodb
 dynatrace
 dynatraceobservability
+dz
 e-mail
 e1
 easy
@@ -2336,7 +2328,6 @@ exo
 exock
 exov2
 exov3
-exp
 expand
 expand-string
 expand-tab
@@ -2380,7 +2371,6 @@ extraction
 extractor
 extreme-networks
 eztheme
-f
 f#
 f5
 facebook
@@ -2460,9 +2450,6 @@ filenames
 fileproperties
 filereplication
 files
-files-cli
-files-cli.exe
-files.com
 filesecurity
 fileserver
 fileserverresourcemanager
@@ -2506,6 +2493,7 @@ findplace
 findproxyforurl
 fine-print
 fine-tuning
+finops
 firebird
 firefox
 firewall
@@ -2513,7 +2501,6 @@ firewall-management
 firewallrule
 firmware
 first
-fisher
 fissionproducts
 fitbit
 fits
@@ -2729,6 +2716,7 @@ get-samplingperiod
 get-stalecomps
 get-staleusers
 get-thermalstamp
+get-uptime
 getfirmwareenvironmentvariable
 getfirmwaretype
 ggplot
@@ -2834,7 +2822,6 @@ graphics
 graphite
 graphql
 graphs
-graphservices
 graphviz
 graylog
 greenplum
@@ -3091,7 +3078,6 @@ hyperthreading
 hyperv
 hypervisor
 hypervplugins
-hypothesis
 hysolate
 hysolatemangementconsole
 i-doit
@@ -3285,9 +3271,9 @@ interactive
 interactive-brokers
 interface
 interlogix
-internal
 internet
 internet-explorer
+internetconnection
 internetexplorer
 intersight
 intersightcmdlets
@@ -3304,11 +3290,9 @@ inventory
 investigation
 investment
 investments
-invitation
 invocation
 invoice
 invoke
-invoke-asadmin
 invoke-asadministrator
 invoke-ascurrentuser
 invoke-automation
@@ -3434,7 +3418,6 @@ jojoba
 joke
 jotform
 journal
-joyride
 jpg
 jq
 js7
@@ -3646,7 +3629,6 @@ limits
 lina
 line
 line-endings
-linear
 linearalgebra
 link
 link-capability
@@ -3744,7 +3726,6 @@ logingestion
 loginscreen
 loginsight
 logiphys
-logistic
 logitech
 logmail
 logmails
@@ -3921,7 +3902,6 @@ mdop
 mdt
 mdx
 me4024
-mean
 measure
 measure-loc
 measure-process
@@ -4000,6 +3980,7 @@ microsoft365
 microsoft365dsc
 microsoftauthenticationlibrary
 microsoftazure
+microsoftcloud
 microsoftdefender
 microsoftdefenderatp
 microsoftdeploymenttoolkit
@@ -4315,6 +4296,8 @@ news
 newspaper
 newtonsoft
 newtonsoft.json
+nexenta
+nexentastor
 nexthink
 nexus
 nexusiq
@@ -4325,6 +4308,7 @@ nhl
 nic
 nic.ru
 nightmare
+ninite
 ninja
 ninjaone
 ninjarmm
@@ -4348,7 +4332,6 @@ noninteractive
 noproxy
 nord
 nordtools
-normal
 norskale
 norway
 norwegian
@@ -4722,7 +4705,6 @@ patternmatching
 pause
 pax8
 payload
-paylocity
 paypal
 pays
 pbench
@@ -4783,7 +4765,6 @@ photograph
 photos
 php
 phpapam
-pi
 picker
 pico
 picture
@@ -4801,6 +4782,7 @@ pinvoke
 pip
 pip3
 pipe
+pipedrive
 pipeline
 pipelines
 pipenv
@@ -4949,7 +4931,6 @@ poshy-wrap-ruby
 poshy-wrap-systemctl
 poshy-wrap-terraform
 poshy-wrap-terragrunt
-poshy-wrap-tmux
 poshy-wrap-vagrant
 poshy-wrap-vault
 poshy-wrap-vscode
@@ -4962,7 +4943,6 @@ postgre
 postgres
 postgresql
 potato
-pow
 powdrgit
 power
 power-apps
@@ -6350,13 +6330,6 @@ pscommand_invoke-terragruntplan
 pscommand_invoke-terragruntplanall
 pscommand_invoke-terragruntvalidate
 pscommand_invoke-terragruntvalidateall
-pscommand_invoke-tmuxattachforterminal
-pscommand_invoke-tmuxattachforterminaldetachingothers
-pscommand_invoke-tmuxeditconfig
-pscommand_invoke-tmuxkillserver
-pscommand_invoke-tmuxkillsessionforterminal
-pscommand_invoke-tmuxlistsessions
-pscommand_invoke-tmuxnewsessionfromsource
 pscommand_invoke-vagrantdestroy
 pscommand_invoke-vagranthalt
 pscommand_invoke-vagranthostmanager
@@ -6798,8 +6771,6 @@ pscommand_syspip
 pscommand_syspip_package_location
 pscommand_syspip3
 pscommand_syspip3_package_location
-pscommand_ta
-pscommand_tad
 pscommand_test-command
 pscommand_test-d
 pscommand_test-elevation
@@ -6827,14 +6798,6 @@ pscommand_tgp
 pscommand_tgpa
 pscommand_tgv
 pscommand_tgva
-pscommand_tkss
-pscommand_tksv
-pscommand_tl
-pscommand_tmuxconf
-pscommand_ts
-pscommand_txa
-pscommand_txl
-pscommand_txn
 pscommand_universalarchive
 pscommand_update-gitbranchbasefrombranchmain
 pscommand_update-gitbranchbasefrommain
@@ -7767,13 +7730,6 @@ psfunction_invoke-terragruntplan
 psfunction_invoke-terragruntplanall
 psfunction_invoke-terragruntvalidate
 psfunction_invoke-terragruntvalidateall
-psfunction_invoke-tmuxattachforterminal
-psfunction_invoke-tmuxattachforterminaldetachingothers
-psfunction_invoke-tmuxeditconfig
-psfunction_invoke-tmuxkillserver
-psfunction_invoke-tmuxkillsessionforterminal
-psfunction_invoke-tmuxlistsessions
-psfunction_invoke-tmuxnewsessionfromsource
 psfunction_invoke-vagrantdestroy
 psfunction_invoke-vagranthalt
 psfunction_invoke-vagranthostmanager
@@ -8250,7 +8206,6 @@ queries
 query
 queue
 queues
-queuing
 quickaccess
 quickbase
 quickbooks
@@ -8276,6 +8231,7 @@ raidcontrollercmdlets
 rainbow
 raisers
 raisersedge
+raj
 ram
 ram-it
 random
@@ -8319,6 +8275,7 @@ rdpsign
 rds
 rdsgw
 react-stockcharts
+read
 read-slog
 readable
 reader
@@ -8397,7 +8354,7 @@ registered
 registrar
 registration
 registry
-regression
+regular-expression
 regularexpression
 regularexpressions
 reinstall
@@ -8846,7 +8803,6 @@ send-mailmessage
 send-message
 senderid
 sendgrid
-sendkeys
 sendmail
 sense
 sensitive
@@ -9012,7 +8968,6 @@ simplepassword
 simplepasswordgenerator
 simplivity
 simplysql
-sin
 single
 singlestore
 singleton
@@ -9243,9 +9198,7 @@ sqlserverbynarypsmodule
 sqlservermodule
 sqlvirtualmachine
 sqr
-sqrt
 square
-squire
 srcds
 srcsrv
 srm
@@ -9281,12 +9234,9 @@ stackhci
 stackmonitoring
 stackoverflow
 staffhub
-staging
 stale
 stan
 stanc
-standalone
-standard
 standarderror
 standardoutput
 stansummary
@@ -9305,7 +9255,6 @@ state
 static
 staticanalysis
 statichtmlsites
-statistical
 statistics
 stats
 statsd
@@ -9368,7 +9317,6 @@ stripe
 strongname
 structure
 sts
-stt
 studio
 style
 su
@@ -9487,7 +9435,6 @@ systemlocale
 systems
 systemsplash
 systray
-t
 t-sql
 tab
 tab-comletion
@@ -9593,6 +9540,7 @@ tesla
 test
 test-automation
 test-dscconfiguration
+test-internetconnection
 test-modulepath
 test-osplatform
 test-psremoting
@@ -9617,7 +9565,6 @@ testusers
 text
 text-to-image
 text-to-speach"
-text-to-speech
 text2image
 textanalysis
 textbuffer
@@ -9682,7 +9629,6 @@ tls12
 tlsa
 tlsprotocol
 tlsrpt
-tmux
 to-do
 toast
 toasts
@@ -9863,7 +9809,6 @@ ud-input
 ud-licensed
 ud-loadingoverlay
 ud-minesweeper
-ud-mouseparticle
 ud-navbarsearch
 ud-numbermask
 ud-orgchart
@@ -10042,14 +9987,12 @@ vami
 vao
 variable
 variables
-variance
 variants
 vastlimits
 vault
 vaultextension
 vaultstore
 vaultwarden
-vb365
 vba
 vbaproject
 vbproj
@@ -10568,6 +10511,7 @@ xiaomi
 xin
 xkcd
 xliff
+xlsx
 xmc
 xml
 xml-rpc
