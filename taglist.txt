@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Sunday, 12 November 2023 09:52:36 UTC
+Updated: Sunday, 12 November 2023 17:53:01 UTC
 
 .bat
 .env
@@ -86,6 +86,8 @@ accessgovernancecp
 accesspoint
 accessrights
 accesstoken
+accord
+accord.net
 accordian
 account
 accounting
@@ -169,6 +171,7 @@ adfstoolkit
 adfstools
 adgroupmemberobjects
 adgroupmembers
+adgroups
 adif
 adm
 admf
@@ -200,6 +203,7 @@ adsi
 adsite
 adsp
 adsync
+aduser
 aduseraccountlockout
 adv180002
 adv180018
@@ -324,6 +328,7 @@ annotated
 announcement
 announcementsservice
 anonymous
+anova
 ansi
 ansible
 ansible-control-node
@@ -362,6 +367,7 @@ app
 app-control-for-business
 app-only
 app-v
+app-volumes
 app.config
 appattach
 appclusive
@@ -396,6 +402,7 @@ appservices
 appsetting
 appv
 appveyor
+appvolumes
 appx
 appxmanifest
 aprs
@@ -787,6 +794,7 @@ bindings
 bing
 bingmap
 bingmaps
+binomial
 bios
 bios_settings
 bios-settings
@@ -831,7 +839,6 @@ blueprints
 blueteam
 bluetraitio
 bmc
-bnm
 boards
 bofh
 boilerplate
@@ -1066,6 +1073,7 @@ chenxizhang
 cherrypy
 cherwell
 chfs
+chi
 china
 chmod
 choco
@@ -1437,12 +1445,14 @@ coreepower
 coreepower.common
 coreepower.config
 coreepower.lib
+coreepower.module
 coreepower.net
 coreepower.net.soundcloudexplode
 coreposh
 coreutils
 corona
 cortex
+cos
 cosmos
 cosmosdb
 cost
@@ -1655,7 +1665,6 @@ dataexchange
 dataexplorer
 datafactory
 dataflow
-dataflowdependency
 datagateway
 dataintegration
 datakwaliteit
@@ -1686,6 +1695,7 @@ dates
 datetaken
 datetime
 datto
+dattodbpool
 dattormm
 datum
 dave
@@ -1703,6 +1713,7 @@ dbeaver
 dbfs
 dbnull
 dbops
+dbpool
 dbup
 dbwebapi
 dc
@@ -1796,6 +1807,7 @@ developercommandprompt
 development
 devenv
 devexpress
+deviation
 device
 devicecode
 deviceid
@@ -2328,6 +2340,7 @@ exo
 exock
 exov2
 exov3
+exp
 expand
 expand-string
 expand-tab
@@ -2371,6 +2384,7 @@ extraction
 extractor
 extreme-networks
 eztheme
+f
 f#
 f5
 facebook
@@ -2382,7 +2396,6 @@ failedlogin
 failure
 falcon
 fallbackstatuspoint
-fanarttv
 fancy
 faq
 farm
@@ -2450,6 +2463,9 @@ filenames
 fileproperties
 filereplication
 files
+files-cli
+files-cli.exe
+files.com
 filesecurity
 fileserver
 fileserverresourcemanager
@@ -2501,6 +2517,7 @@ firewall-management
 firewallrule
 firmware
 first
+fisher
 fissionproducts
 fitbit
 fits
@@ -2822,6 +2839,7 @@ graphics
 graphite
 graphql
 graphs
+graphservices
 graphviz
 graylog
 greenplum
@@ -3078,6 +3096,7 @@ hyperthreading
 hyperv
 hypervisor
 hypervplugins
+hypothesis
 hysolate
 hysolatemangementconsole
 i-doit
@@ -3271,6 +3290,7 @@ interactive
 interactive-brokers
 interface
 interlogix
+internal
 internet
 internet-explorer
 internetconnection
@@ -3290,9 +3310,11 @@ inventory
 investigation
 investment
 investments
+invitation
 invocation
 invoice
 invoke
+invoke-asadmin
 invoke-asadministrator
 invoke-ascurrentuser
 invoke-automation
@@ -3418,6 +3440,7 @@ jojoba
 joke
 jotform
 journal
+joyride
 jpg
 jq
 js7
@@ -3501,7 +3524,6 @@ kms
 knapsack
 knetps
 knob
-knowbe4
 knowledge
 knowledgebase
 koans
@@ -3629,6 +3651,7 @@ limits
 lina
 line
 line-endings
+linear
 linearalgebra
 link
 link-capability
@@ -3726,6 +3749,7 @@ logingestion
 loginscreen
 loginsight
 logiphys
+logistic
 logitech
 logmail
 logmails
@@ -3902,6 +3926,7 @@ mdop
 mdt
 mdx
 me4024
+mean
 measure
 measure-loc
 measure-process
@@ -4052,7 +4077,6 @@ moduleupdateinfo
 moduleupdater
 moduleversion
 mof
-moldova
 moment
 monaco
 monday
@@ -4290,6 +4314,7 @@ new-samcmapplicationfrompackagedefinitionsms
 new-samcmpackagefrompackagedefinitionsms
 new-system
 new-udmorph
+new-win32app
 newpassword
 newrelic
 news
@@ -4332,6 +4357,7 @@ noninteractive
 noproxy
 nord
 nordtools
+normal
 norskale
 norway
 norwegian
@@ -4604,6 +4630,7 @@ outline
 outlook
 output
 output-to-image
+outreach
 outsystems
 overbite
 ovf
@@ -4705,6 +4732,7 @@ patternmatching
 pause
 pax8
 payload
+paylocity
 paypal
 pays
 pbench
@@ -4765,6 +4793,7 @@ photograph
 photos
 php
 phpapam
+pi
 picker
 pico
 picture
@@ -4772,7 +4801,6 @@ pictures
 pid
 pie
 pim
-pin
 ping
 ping-async
 pingsweep
@@ -4788,7 +4816,6 @@ pipelines
 pipenv
 pipescript
 piraeus
-pivot
 pivotal
 pivottable
 pixoo
@@ -4931,6 +4958,7 @@ poshy-wrap-ruby
 poshy-wrap-systemctl
 poshy-wrap-terraform
 poshy-wrap-terragrunt
+poshy-wrap-tmux
 poshy-wrap-vagrant
 poshy-wrap-vault
 poshy-wrap-vscode
@@ -4943,6 +4971,7 @@ postgre
 postgres
 postgresql
 potato
+pow
 powdrgit
 power
 power-apps
@@ -6330,6 +6359,13 @@ pscommand_invoke-terragruntplan
 pscommand_invoke-terragruntplanall
 pscommand_invoke-terragruntvalidate
 pscommand_invoke-terragruntvalidateall
+pscommand_invoke-tmuxattachforterminal
+pscommand_invoke-tmuxattachforterminaldetachingothers
+pscommand_invoke-tmuxeditconfig
+pscommand_invoke-tmuxkillserver
+pscommand_invoke-tmuxkillsessionforterminal
+pscommand_invoke-tmuxlistsessions
+pscommand_invoke-tmuxnewsessionfromsource
 pscommand_invoke-vagrantdestroy
 pscommand_invoke-vagranthalt
 pscommand_invoke-vagranthostmanager
@@ -6771,6 +6807,8 @@ pscommand_syspip
 pscommand_syspip_package_location
 pscommand_syspip3
 pscommand_syspip3_package_location
+pscommand_ta
+pscommand_tad
 pscommand_test-command
 pscommand_test-d
 pscommand_test-elevation
@@ -6798,6 +6836,14 @@ pscommand_tgp
 pscommand_tgpa
 pscommand_tgv
 pscommand_tgva
+pscommand_tkss
+pscommand_tksv
+pscommand_tl
+pscommand_tmuxconf
+pscommand_ts
+pscommand_txa
+pscommand_txl
+pscommand_txn
 pscommand_universalarchive
 pscommand_update-gitbranchbasefrombranchmain
 pscommand_update-gitbranchbasefrommain
@@ -7730,6 +7776,13 @@ psfunction_invoke-terragruntplan
 psfunction_invoke-terragruntplanall
 psfunction_invoke-terragruntvalidate
 psfunction_invoke-terragruntvalidateall
+psfunction_invoke-tmuxattachforterminal
+psfunction_invoke-tmuxattachforterminaldetachingothers
+psfunction_invoke-tmuxeditconfig
+psfunction_invoke-tmuxkillserver
+psfunction_invoke-tmuxkillsessionforterminal
+psfunction_invoke-tmuxlistsessions
+psfunction_invoke-tmuxnewsessionfromsource
 psfunction_invoke-vagrantdestroy
 psfunction_invoke-vagranthalt
 psfunction_invoke-vagranthostmanager
@@ -8091,7 +8144,6 @@ psrule-rules
 pssa
 psscriptanalyzer
 psscriptanaylzer
-psscriptsmonitoring
 pssendgrid
 pssession
 pssharper
@@ -8206,6 +8258,7 @@ queries
 query
 queue
 queues
+queuing
 quickaccess
 quickbase
 quickbooks
@@ -8354,6 +8407,7 @@ registered
 registrar
 registration
 registry
+regression
 regular-expression
 regularexpression
 regularexpressions
@@ -8622,7 +8676,6 @@ sapstartstopazure
 sarcasm
 sarif
 sas
-sat
 satirical
 save
 savedcreds
@@ -8708,7 +8761,6 @@ scriptlogging
 scriptoform
 scriptrunner
 scripts
-scriptsmonitoring
 scrolllock
 scrub
 scrubber
@@ -8755,7 +8807,6 @@ securescore
 securesphere
 securestring
 security
-security-awareness-training
 security-policy
 security-score
 security-txt
@@ -8803,6 +8854,7 @@ send-mailmessage
 send-message
 senderid
 sendgrid
+sendkeys
 sendmail
 sense
 sensitive
@@ -8968,6 +9020,7 @@ simplepassword
 simplepasswordgenerator
 simplivity
 simplysql
+sin
 single
 singlestore
 singleton
@@ -9059,7 +9112,6 @@ snmpwalk
 snowflake
 snsmssqlpsmodule
 snspsadgroupmembers
-snspsscriptsmonitoring
 snssqlitepsmodule
 sntp
 soap
@@ -9198,7 +9250,9 @@ sqlserverbynarypsmodule
 sqlservermodule
 sqlvirtualmachine
 sqr
+sqrt
 square
+squire
 srcds
 srcsrv
 srm
@@ -9234,9 +9288,12 @@ stackhci
 stackmonitoring
 stackoverflow
 staffhub
+staging
 stale
 stan
 stanc
+standalone
+standard
 standarderror
 standardoutput
 stansummary
@@ -9255,6 +9312,7 @@ state
 static
 staticanalysis
 statichtmlsites
+statistical
 statistics
 stats
 statsd
@@ -9317,6 +9375,7 @@ stripe
 strongname
 structure
 sts
+stt
 studio
 style
 su
@@ -9435,6 +9494,7 @@ systemlocale
 systems
 systemsplash
 systray
+t
 t-sql
 tab
 tab-comletion
@@ -9445,7 +9505,6 @@ tabexpansion
 tabexpansion2
 tablacus
 table
-tableau
 tabler
 tables
 tablestorage
@@ -9483,7 +9542,6 @@ tcp
 tcp/ip
 tcpip
 tcpport
-tcprjmgmt
 tcpserver
 tcptest
 tcx
@@ -9565,6 +9623,7 @@ testusers
 text
 text-to-image
 text-to-speach"
+text-to-speech
 text2image
 textanalysis
 textbuffer
@@ -9629,6 +9688,7 @@ tls12
 tlsa
 tlsprotocol
 tlsrpt
+tmux
 to-do
 toast
 toasts
@@ -9809,6 +9869,7 @@ ud-input
 ud-licensed
 ud-loadingoverlay
 ud-minesweeper
+ud-mouseparticle
 ud-navbarsearch
 ud-numbermask
 ud-orgchart
@@ -9987,12 +10048,14 @@ vami
 vao
 variable
 variables
+variance
 variants
 vastlimits
 vault
 vaultextension
 vaultstore
 vaultwarden
+vb365
 vba
 vbaproject
 vbproj
@@ -10134,7 +10197,6 @@ vpn-certificate
 vpro
 vps
 vra
-vrchat
 vrealize
 vrising
 vro
@@ -10193,7 +10255,6 @@ wapi
 warning
 warplaneporn
 warranty
-warraty
 warrenty
 wasabi
 watch
@@ -10293,6 +10354,7 @@ win32
 win32_installedwin32program
 win32_operatingsystem
 win32-api
+win32appmigrationtool
 win32shutdown
 window
 windows

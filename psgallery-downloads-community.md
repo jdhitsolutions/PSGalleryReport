@@ -566,9 +566,9 @@ This module contains resources used to audit system settings/verify compliance.
 
 __Downloads__: 2,170,947 | __Repository__: https://github.com/jcwalker/AuditSystemDsc
 
-## [PSWriteHTML](https://www.powershellgallery.com/Packages/PSWriteHTML/1.11.0) | 1.11.0
+## [PSWriteHTML](https://www.powershellgallery.com/Packages/PSWriteHTML/1.12.0) | 1.12.0
 
-### Published: 10/15/2023 14:06:49 by Przemyslaw Klys
+### Published: 11/12/2023 12:02:22 by Przemyslaw Klys
 
 PSWriteHTML is PowerShell Module to generate beautiful HTML reports, pages, emails without any knowledge of HTML, CSS or JavaScript. To get started basics PowerShell knowledge is required.
 
@@ -1978,19 +1978,19 @@ Icinga for Windows module which allows to entirely monitor the Windows Host syst
 
 __Downloads__: 199,217 | __Repository__: https://github.com/Icinga/icinga-powershell-framework
 
-## [PSFTP](https://www.powershellgallery.com/Packages/PSFTP/1.7.1.1) | 1.7.1.1
-
-### Published: 09/02/2021 11:00:20 by Michal Gajda
-
-This module contain function to manage FTP account.
-
-__Downloads__: 198,993 | __Repository__: 
-
 ## [xPrinterManagement](https://www.powershellgallery.com/Packages/xPrinterManagement/1.0.0.2) | 1.0.0.2
 
 ### Published: 03/20/2019 12:14:14 by Evgeniy Nikulov
 
 Printer Management
+
+__Downloads__: 198,993 | __Repository__: 
+
+## [PSFTP](https://www.powershellgallery.com/Packages/PSFTP/1.7.1.1) | 1.7.1.1
+
+### Published: 09/02/2021 11:00:20 by Michal Gajda
+
+This module contain function to manage FTP account.
 
 __Downloads__: 198,993 | __Repository__: 
 
@@ -2138,4 +2138,4 @@ This PowerShell module enables integration with GitHub.
 
 __Downloads__: 172,821 | __Repository__: https://github.com/pcgeek86/PSGitHub
 
-*Updated: Sunday, 12 November 2023 09:52:32 UTC*
+*Updated: Sunday, 12 November 2023 17:52:57 UTC*
