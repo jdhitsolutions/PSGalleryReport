@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 13 November 2023 02:06:44 UTC
+Updated: Monday, 13 November 2023 09:52:36 UTC
 
 .bat
 .env
@@ -171,6 +171,7 @@ adfstoolkit
 adfstools
 adgroupmemberobjects
 adgroupmembers
+adgroups
 adif
 adm
 admf
@@ -202,6 +203,7 @@ adsi
 adsite
 adsp
 adsync
+aduser
 aduseraccountlockout
 adv180002
 adv180018
@@ -342,6 +344,7 @@ anywhere
 aovpn psmodule
 apache
 apachekafka
+apexone
 api
 api-client
 api-gateway
@@ -511,7 +514,6 @@ audiocodes
 audit
 auditing
 auditpol
-auditpol.exe
 auditpolicies
 auditpolicy
 audits
@@ -597,13 +599,13 @@ axis
 axium
 az
 az-cli
-az.stackhci
 azautomation
 azcli
 azcompute
 azd
 azdisk
 azdo
+azereo
 azforensics
 azkeyvault
 aznetworking
@@ -1600,6 +1602,7 @@ cyberark-api
 cyberark-identity
 cyberdrain
 cybereason
+cybersamurai
 cybersecurity
 cyberwatch
 cyclic
@@ -1693,7 +1696,6 @@ dates
 datetaken
 datetime
 datto
-dattodbpool
 dattormm
 datum
 dave
@@ -1711,7 +1713,6 @@ dbeaver
 dbfs
 dbnull
 dbops
-dbpool
 dbup
 dbwebapi
 dc
@@ -1876,7 +1877,6 @@ discordrpc
 discount
 discover
 discovery
-discutils
 disk
 disk_to_disk
 disk-space
@@ -2142,6 +2142,7 @@ elevation
 elgato
 elk
 elm
+elmah-io
 elonmusk
 eloqua
 elvui
@@ -2356,7 +2357,6 @@ export
 export-cmhealthreport
 export-data
 export-passlist
-exportcertificate
 exportcertificates
 exporter
 exportexcel
@@ -2433,6 +2433,7 @@ fifa
 figlet
 file
 file-association
+file-copy
 file-encoding
 file-extension
 file-extension-association
@@ -2675,6 +2676,8 @@ gemtext
 general
 generate
 generate-dockerimagevariants
+generate-password
+generate-random-password
 generateaddress
 generates
 generatewif
@@ -3286,7 +3289,6 @@ interactive
 interactive-brokers
 interface
 interlogix
-internal
 internet
 internet-explorer
 internetconnection
@@ -3409,6 +3411,7 @@ java
 javamanager
 javascript
 javaversion
+jboss
 jdbc
 jde
 jdedwards
@@ -3479,6 +3482,7 @@ kaspersky
 katakana
 kb
 kbarticle
+kdbx
 kdialog
 keenetic
 keepachangelog
@@ -4106,8 +4110,6 @@ mp4
 mpc
 mpeg
 mpn
-mrfk
-mrfylke
 mrvl_fc_powerkit
 mrvlfcprovider
 ms_365
@@ -4263,6 +4265,7 @@ netcease
 netcore
 netfirewallrule
 netherlands
+netmap
 netmask
 nets
 netsapiens
@@ -4838,6 +4841,7 @@ plex
 plist
 plog
 plot
+plug-n-copy
 plugin
 plugins
 pluralsight
@@ -5110,6 +5114,7 @@ process
 processing
 processmitigation
 processor
+procmap
 procs
 producer
 product
@@ -8285,6 +8290,8 @@ ram
 ram-it
 random
 random-date
+random-password
+random-password-generator
 randompassword
 randomuser
 randomusers
@@ -8424,7 +8431,6 @@ remote
 remote-desktop
 remote'
 remoteadmin
-remotecert
 remoteconnection
 remoteconnectionsmanager
 remotecontrol
@@ -8659,6 +8665,7 @@ saml2
 sample
 sampler
 san
+sand
 sandbox
 sanitization
 sanitizer
@@ -8829,7 +8836,6 @@ select-kubecontext
 select-kubenamespace
 select-string
 selection
-selectxmlinfo
 selenium
 self
 self-hosted
@@ -9763,10 +9769,10 @@ trec
 tree
 tree-structure
 treesize
-treffynnon
 trein
 trello
 trellops
+trend
 trend-micro
 trendmicro
 trevor
@@ -10055,6 +10061,7 @@ vaultstore
 vaultwarden
 vb365
 vba
+vbaproject
 vbproj
 vbr
 vbscript
@@ -10178,6 +10185,7 @@ voiceconfig
 voiceservices
 voidtools
 volkskrant
+volta
 volume
 volumeshadowcopy
 volumio
@@ -10341,6 +10349,7 @@ wif
 wifi
 wiki
 wildcard
+wildfly
 wim
 wim2vhd
 win
@@ -10379,7 +10388,6 @@ windows10mui
 windows11
 windows365
 windowsadmincenter
-windowsaudit
 windowsbuilds
 windowscredential
 windowscredentialmanager
