@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Sunday, 12 November 2023 17:53:01 UTC
+Updated: Monday, 13 November 2023 02:06:44 UTC
 
 .bat
 .env
@@ -171,7 +171,6 @@ adfstoolkit
 adfstools
 adgroupmemberobjects
 adgroupmembers
-adgroups
 adif
 adm
 admf
@@ -203,7 +202,6 @@ adsi
 adsite
 adsp
 adsync
-aduser
 aduseraccountlockout
 adv180002
 adv180018
@@ -344,7 +342,6 @@ anywhere
 aovpn psmodule
 apache
 apachekafka
-apexone
 api
 api-client
 api-gateway
@@ -607,7 +604,6 @@ azcompute
 azd
 azdisk
 azdo
-azereo
 azforensics
 azkeyvault
 aznetworking
@@ -839,6 +835,7 @@ blueprints
 blueteam
 bluetraitio
 bmc
+bnm
 boards
 bofh
 boilerplate
@@ -1354,6 +1351,7 @@ configurationdata
 configurationkey
 configurationmanagement
 configurationmanager
+configurationprofile
 configure
 confluence
 confluent
@@ -1602,7 +1600,6 @@ cyberark-api
 cyberark-identity
 cyberdrain
 cybereason
-cybersamurai
 cybersecurity
 cyberwatch
 cyclic
@@ -1665,6 +1662,7 @@ dataexchange
 dataexplorer
 datafactory
 dataflow
+dataflowdependency
 datagateway
 dataintegration
 datakwaliteit
@@ -2144,7 +2142,6 @@ elevation
 elgato
 elk
 elm
-elmah-io
 elonmusk
 eloqua
 elvui
@@ -2396,6 +2393,7 @@ failedlogin
 failure
 falcon
 fallbackstatuspoint
+fanarttv
 fancy
 faq
 farm
@@ -2677,8 +2675,6 @@ gemtext
 general
 generate
 generate-dockerimagevariants
-generate-password
-generate-random-password
 generateaddress
 generates
 generatewif
@@ -3413,7 +3409,6 @@ java
 javamanager
 javascript
 javaversion
-jboss
 jdbc
 jde
 jdedwards
@@ -3484,7 +3479,6 @@ kaspersky
 katakana
 kb
 kbarticle
-kdbx
 kdialog
 keenetic
 keepachangelog
@@ -3524,6 +3518,7 @@ kms
 knapsack
 knetps
 knob
+knowbe4
 knowledge
 knowledgebase
 koans
@@ -3609,7 +3604,6 @@ learning-powershell
 learningpowershell
 learnpowershell
 lease
-leetabit
 leftjoin
 legacy
 legacyad
@@ -4077,6 +4071,7 @@ moduleupdateinfo
 moduleupdater
 moduleversion
 mof
+moldova
 moment
 monaco
 monday
@@ -4268,7 +4263,6 @@ netcease
 netcore
 netfirewallrule
 netherlands
-netmap
 netmask
 nets
 netsapiens
@@ -4801,6 +4795,7 @@ pictures
 pid
 pie
 pim
+pin
 ping
 ping-async
 pingsweep
@@ -4816,6 +4811,7 @@ pipelines
 pipenv
 pipescript
 piraeus
+pivot
 pivotal
 pivottable
 pixoo
@@ -5114,7 +5110,6 @@ process
 processing
 processmitigation
 processor
-procmap
 procs
 producer
 product
@@ -8144,6 +8139,7 @@ psrule-rules
 pssa
 psscriptanalyzer
 psscriptanaylzer
+psscriptsmonitoring
 pssendgrid
 pssession
 pssharper
@@ -8289,8 +8285,6 @@ ram
 ram-it
 random
 random-date
-random-password
-random-password-generator
 randompassword
 randomuser
 randomusers
@@ -8665,7 +8659,6 @@ saml2
 sample
 sampler
 san
-sand
 sandbox
 sanitization
 sanitizer
@@ -8676,6 +8669,7 @@ sapstartstopazure
 sarcasm
 sarif
 sas
+sat
 satirical
 save
 savedcreds
@@ -8761,6 +8755,7 @@ scriptlogging
 scriptoform
 scriptrunner
 scripts
+scriptsmonitoring
 scrolllock
 scrub
 scrubber
@@ -8807,6 +8802,7 @@ securescore
 securesphere
 securestring
 security
+security-awareness-training
 security-policy
 security-score
 security-txt
@@ -9112,6 +9108,7 @@ snmpwalk
 snowflake
 snsmssqlpsmodule
 snspsadgroupmembers
+snspsscriptsmonitoring
 snssqlitepsmodule
 sntp
 soap
@@ -9505,6 +9502,7 @@ tabexpansion
 tabexpansion2
 tablacus
 table
+tableau
 tabler
 tables
 tablestorage
@@ -9542,6 +9540,7 @@ tcp
 tcp/ip
 tcpip
 tcpport
+tcprjmgmt
 tcpserver
 tcptest
 tcx
@@ -9768,7 +9767,6 @@ treffynnon
 trein
 trello
 trellops
-trend
 trend-micro
 trendmicro
 trevor
@@ -10057,7 +10055,6 @@ vaultstore
 vaultwarden
 vb365
 vba
-vbaproject
 vbproj
 vbr
 vbscript
@@ -10181,7 +10178,6 @@ voiceconfig
 voiceservices
 voidtools
 volkskrant
-volta
 volume
 volumeshadowcopy
 volumio
@@ -10197,6 +10193,7 @@ vpn-certificate
 vpro
 vps
 vra
+vrchat
 vrealize
 vrising
 vro
@@ -10255,6 +10252,7 @@ wapi
 warning
 warplaneporn
 warranty
+warraty
 warrenty
 wasabi
 watch
@@ -10343,7 +10341,6 @@ wif
 wifi
 wiki
 wildcard
-wildfly
 wim
 wim2vhd
 win

@@ -3,13 +3,77 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
-## [Intune.Graph](https://www.powershellgallery.com/Packages/Intune.Graph/0.0.17) | 0.0.17
+## [DattoDBPool](https://www.powershellgallery.com/Packages/DattoDBPool/2023.11.4) | 2023.11.4
 
-### Published: 11/12/2023 17:14:11 by Ken Johnson
+### Published: 11/13/2023 00:36:38 by Kent Sapp
+
+This module is designed to make it easier to use the internal Datto DBPool API in your PowerShell scripts. As some of the hard work is done, you can develop your scripts faster and be more effecient. There is no need to go through a big learning curve spending lots of time working out how to use the Datto DBPool API. Simply load the module, enter your API key and get results within minutes!
+
+__Downloads__: 0 | __Repository__: https://github.com/cksapp/DattoDBPool_Module
+
+## [Createcs](https://www.powershellgallery.com/Packages/Createcs/1.0.3) | 1.0.3
+
+### Published: 11/12/2023 23:08:21 by iAbood69
+
+Automatically create new C# projects using one command line.
+
+__Downloads__: 0 | __Repository__: 
+
+## [SanxLog](https://www.powershellgallery.com/Packages/SanxLog/1.0.2) | 1.0.2
+
+### Published: 11/12/2023 22:50:23 by Dan Halford
+
+Logging library - supports file, console and multiple cloud log aggregators
+
+__Downloads__: 4 | __Repository__: https://github.com/DanHalford/SanxLog
+
+## [TcPrjMgmt](https://www.powershellgallery.com/Packages/TcPrjMgmt/0.5.0) | 0.5.0
+
+### Published: 11/12/2023 21:45:32 by Giang Nguyen
+
+Utilities for managing TwinCAT solutions and projects. Including PLC project exporting, and library installation and uninstallation. NOTE: This module requires >= TwinCAT 3.1.4024.10 (XAR Runtime or Full) (local installation)
+
+__Downloads__: 29 | __Repository__: https://github.com/ahuca/TcPrjMgmt/tree/main
+
+## [FoxHelper](https://www.powershellgallery.com/Packages/FoxHelper/2.0.0.30) | 2.0.0.30
+
+### Published: 11/12/2023 21:02:13 by Elior Machlev
+
+Functions and Scripts for Britannica Fox Product
+
+__Downloads__: 455 | __Repository__: https://github.com/BaTarrY/FoxHelper
+
+## [PSPublishModule](https://www.powershellgallery.com/Packages/PSPublishModule/2.0.10) | 2.0.10
+
+### Published: 11/12/2023 20:56:59 by Przemyslaw Klys
+
+Simple project allowing preparing, managing, building and publishing modules to PowerShellGallery
+
+__Downloads__: 1,500 | __Repository__: https://github.com/EvotecIT/PSPublishModule
+
+## [HPDrivers](https://www.powershellgallery.com/Packages/HPDrivers/1.3.5) | 1.3.5
+
+### Published: 11/12/2023 18:41:42 by Dawid Prowadzisz
+
+Update all HP device drivers with a single command.
+
+__Downloads__: 24,210 | __Repository__: https://github.com/UsefulScripts01/HPDrivers
+
+## [Keyops-Azure](https://www.powershellgallery.com/Packages/Keyops-Azure/0.8.0.1) | 0.8.0.1
+
+### Published: 11/12/2023 18:10:06 by Paul V. Shvets
+
+Module provide register and unregister Azure repository for PowerShell resources publishing and feeding
+
+__Downloads__: 0 | __Repository__: 
+
+## [Intune.Graph](https://www.powershellgallery.com/Packages/Intune.Graph/0.0.26) | 0.0.26
+
+### Published: 11/12/2023 18:05:22 by Ken Johnson
 
 IntuneGraph is a PowerShell module that makes it easy to work with the Microsoft Graph API from PowerShell. It handles the HTTP connection, and provides an object-oriented wrapper around the Graph API endpoints. It also provides some additional functionality that makes working with Intune in the Graph API from PowerShell a breeze.
 
-__Downloads__: 0 | __Repository__: 
+__Downloads__: 0 | __Repository__: https://github.com/kenjohnson03/Intune.Graph
 
 ## [ThirdPartyLibraries](https://www.powershellgallery.com/Packages/ThirdPartyLibraries/3.5.0) | 3.5.0
 
@@ -303,14 +367,6 @@ Collection of utility functions and aliases to simplify and automate common task
 
 __Downloads__: 55 | __Repository__: https://github.com/igorakkerman/easypeasy
 
-## [SpeakeasyPSModule](https://www.powershellgallery.com/Packages/SpeakeasyPSModule/1.2.86) | 1.2.86
-
-### Published: 11/10/2023 17:10:23 by Paul Cashmore
-
-PowerShell module that simplifies some Azure login, SharePoint data retrieval and SQL operations.
-
-__Downloads__: 0 | __Repository__: https://github.com/kprocyszyn/About-PowerShell
-
 ## [VCFInstanceRecovery](https://www.powershellgallery.com/Packages/VCFInstanceRecovery/1.0.4) | 1.0.4
 
 ### Published: 11/10/2023 15:56:37 by VMware
@@ -318,14 +374,6 @@ __Downloads__: 0 | __Repository__: https://github.com/kprocyszyn/About-PowerShel
 PowerShell Module for VMware Cloud Foundation Full Instance Recovery
 
 __Downloads__: 17 | __Repository__: 
-
-## [Get-Cesi](https://www.powershellgallery.com/Packages/Get-Cesi/0.0.2) | 0.0.2
-
-### Published: 11/10/2023 15:40:53 by Justin Keppers
-
-Retreives customer contact info from the cesi spreadsheet (or at least a downloaded csv of the google doc).
-
-__Downloads__: 0 | __Repository__: 
 
 ## [Devolutions.PowerShell](https://www.powershellgallery.com/Packages/Devolutions.PowerShell/2023.3.1) | 2023.3.1
 
@@ -683,14 +731,6 @@ A Powershell wrapper for Netbox API
 
 __Downloads__: 862 | __Repository__: https://github.com/benclaussen/NetboxPS
 
-## [DattoDBPool](https://www.powershellgallery.com/Packages/DattoDBPool/2023.11.3) | 2023.11.3
-
-### Published: 11/09/2023 17:40:07 by Kent Sapp
-
-This module is designed to make it easier to use the internal Datto DBPool API in your PowerShell scripts. As some of the hard work is done, you can develop your scripts faster and be more effecient. There is no need to go through a big learning curve spending lots of time working out how to use the Datto DBPool API. Simply load the module, enter your API key and get results within minutes!
-
-__Downloads__: 0 | __Repository__: https://github.com/cksapp/DattoDBPool_Module
-
 ## [PSSymantecSEPM](https://www.powershellgallery.com/Packages/PSSymantecSEPM/0.3.2) | 0.3.2
 
 ### Published: 11/09/2023 16:50:36 by Aurélien BOUMANNE
@@ -817,14 +857,6 @@ A simple interface for making selections on an array of PS objects
 
 __Downloads__: 27,182 | __Repository__: https://github.com/jjcarrier/PS-TableUI
 
-## [Update-IISCertificate](https://www.powershellgallery.com/Packages/Update-IISCertificate/1.0.1) | 1.0.1
-
-### Published: 11/09/2023 01:18:25 by Joe Fabrie
-
-This module is used to update the TLS/SSL certificate on multiple IIS servers
-
-__Downloads__: 0 | __Repository__: 
-
 ## [SqlChangeAutomation](https://www.powershellgallery.com/Packages/SqlChangeAutomation/4.6.23312.2442) | 4.6.23312.2442
 
 ### Published: 11/09/2023 01:03:59 by Red Gate Software Ltd.
@@ -917,14 +949,6 @@ This module provides cmdlets to help in daily work, find cost savings, and repor
 
 __Downloads__: 2,386 | __Repository__: 
 
-## [SimplyOpenConnection](https://www.powershellgallery.com/Packages/SimplyOpenConnection/23.10.19.1552) | 23.10.19.1552
-
-### Published: 11/08/2023 18:54:04 by Shannon Graybrook
-
-Extends mithrandyr/SimplySql to facilitate always getting an open connection
-
-__Downloads__: 0 | __Repository__: https://github.com/realslacker/SimplyOpenConnection
-
 ## [F7History](https://www.powershellgallery.com/Packages/F7History/1.4.7) | 1.4.7
 
 ### Published: 11/08/2023 16:15:48 by Tig Kindel
@@ -1016,14 +1040,6 @@ Scripts for tisane web/api
 
 __Downloads__: 49 | __Repository__: 
 
-## [psConnecttoExchange](https://www.powershellgallery.com/Packages/psConnecttoExchange/1.2.5) | 1.2.5
-
-### Published: 11/08/2023 00:50:12 by Phillip Marshall
-
-Allows for connection to a CAS Server.
-
-__Downloads__: 0 | __Repository__: 
-
 ## [Get-AzVMSku](https://www.powershellgallery.com/Packages/Get-AzVMSku/2.1) | 2.1
 
 ### Published: 11/08/2023 00:33:49 by Christoffer Windahl Madsen
@@ -1031,14 +1047,6 @@ __Downloads__: 0 | __Repository__:
 Retrieves all required information needed in order to deploy Azure virtual machines via any IaC tool
 
 __Downloads__: 23 | __Repository__: https://codeterraform.com/
-
-## [NyquistTools](https://www.powershellgallery.com/Packages/NyquistTools/0.1.0.1) | 0.1.0.1
-
-### Published: 11/08/2023 00:00:12 by Rick Andersen
-
-Utility cmdlets for working with the Bogen Communications Nyquist System Controller.
-
-__Downloads__: 0 | __Repository__: https://github.com/rickandersen1968/NyquistSystemExport
 
 ## [VMware.VCDRService](https://www.powershellgallery.com/Packages/VMware.VCDRService/7.26.1) | 7.26.1
 
@@ -2081,12 +2089,4 @@ This modules provides Cmdlets for OCI Aispeech Service
 
 __Downloads__: 2,864 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-## [OCI.PSModules.Ailanguage](https://www.powershellgallery.com/Packages/OCI.PSModules.Ailanguage/70.1.0) | 70.1.0
-
-### Published: 11/07/2023 21:16:48 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Ailanguage Service
-
-__Downloads__: 6,079 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-*Updated: Sunday, 12 November 2023 17:52:48 UTC*
+*Updated: Monday, 13 November 2023 02:06:29 UTC*
