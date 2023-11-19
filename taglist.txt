@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Sunday, 19 November 2023 02:08:24 UTC
+Updated: Sunday, 19 November 2023 09:52:50 UTC
 
 .bat
 .env
@@ -124,6 +124,7 @@ activehours
 activeresponse
 activesession
 activiti
+activity
 activitycount
 actor-model
 actors
@@ -486,7 +487,6 @@ assistance
 association
 ast
 astronomy
-asv
 asymmetric
 async
 asynchronous
@@ -575,6 +575,8 @@ avd
 ave
 avepoint
 avi
+avm
+avmtools
 avro
 avs
 avset
@@ -596,7 +598,6 @@ axis
 axium
 az
 az-cli
-az.stackhci
 azautomation
 azcli
 azcompute
@@ -735,12 +736,12 @@ batch
 batchclass
 batman
 battery
-bayern
 bb
 bbp
 bc
 bcd
 bcdedit
+bcdr
 bd
 bdd
 bds
@@ -761,7 +762,6 @@ ber
 bestpractice
 bestpractices
 beta
-bginfo
 bi
 bibliography
 bibtex
@@ -1115,7 +1115,6 @@ citation
 cite
 citrix
 citrixoptimizer
-civo
 cix
 class
 classes
@@ -1445,12 +1444,12 @@ coreepower.net
 coreepower.net.soundcloudexplode
 coreposh
 coreutils
-corona
 cortex
 cos
 cosmos
 cosmosdb
 cost
+costmanagement
 costoptimization
 couchbase
 couchdb
@@ -1615,6 +1614,7 @@ dac
 dacfx
 dacl
 dacpac
+dacpackage
 dagger
 daily
 dane
@@ -1789,7 +1789,6 @@ detect
 detection
 detectionrule
 deutsch
-deutschland
 dev
 dev-tools
 devart
@@ -2098,7 +2097,6 @@ easy
 easy-to-use
 easylife365
 easyvista
-eaton
 ebay
 ebooks
 ebur128
@@ -2106,7 +2104,6 @@ ec2
 ecommerce
 ecovadis
 ed25519
-edgaronline
 edge
 edgebackup
 edgeexport
@@ -2244,7 +2241,6 @@ esp32
 esp32s2
 espressif
 esri
-essbase
 estimate
 estimation
 esx
@@ -2363,7 +2359,6 @@ extended
 extendedattributes
 extendedevents
 extendedproperties
-extendedproperty
 extendscript
 extensibility
 extension
@@ -2389,7 +2384,6 @@ failedlogin
 failure
 falcon
 fallbackstatuspoint
-fanarttv
 fancy
 faq
 farm
@@ -2429,7 +2423,6 @@ fifa
 figlet
 file
 file-association
-file-copy
 file-encoding
 file-extension
 file-extension-association
@@ -2503,7 +2496,7 @@ findlocation
 findplace
 findproxyforurl
 fine-print
-fine-tuning
+finops
 firebird
 firefox
 firewall
@@ -2599,6 +2592,8 @@ freshservice-api
 freshserviceps
 freshworks
 friendly
+fritz
+fritzbox
 front
 frontapp
 frontdoor
@@ -2679,7 +2674,6 @@ generator
 generic
 genericartifactscontent
 genetic-algorithm
-genp
 genxdev
 geo
 geocache
@@ -2869,7 +2863,6 @@ guru
 gvim
 gw2
 gwbasic
-gymnasium
 gz
 gzip
 gzip-compression
@@ -3009,7 +3002,6 @@ home
 home_automation
 homebrew
 homelandsecurity
-homeschooling
 hon
 hooking
 horizon
@@ -3151,6 +3143,7 @@ iis10
 iis8
 iisadministration
 iiscrypto
+ikev2
 il
 illinois
 ilo
@@ -3335,6 +3328,7 @@ ipcalc
 ipcalculator
 ipconfig
 iperf
+ipfy.org
 iphone
 ipilot
 iplookup
@@ -3451,7 +3445,6 @@ jumpcloud
 jumpstart
 junction
 junctions
-junit
 jupyter
 jupytor
 justenoughadministration
@@ -3500,6 +3493,7 @@ keymapping
 keypair
 keysms
 keyvault
+keywords
 kibana
 kickstart
 kidrsa
@@ -3537,6 +3531,7 @@ kusto
 kvm
 kvp
 l1tf
+l2tp
 lab
 labautomation
 labdefinition
@@ -3899,6 +3894,7 @@ mc
 mcafee
 mcas
 mcd
+mchapv2
 mct
 md5
 md5_v2-71fed0ac69a23967c791e234ef93a3df
@@ -3992,6 +3988,7 @@ microsoft365
 microsoft365dsc
 microsoftauthenticationlibrary
 microsoftazure
+microsoftcloud
 microsoftdefender
 microsoftdefenderatp
 microsoftdeploymenttoolkit
@@ -4035,7 +4032,6 @@ mitigation
 mitre
 mitre_att&ck
 mitrend
-mittelschule
 mixedreality
 mixer
 mkdocs
@@ -4050,7 +4046,6 @@ mobilitycontroller
 mock
 mocking
 model
-modeling
 modify
 module
 module-maintenance
@@ -4205,7 +4200,6 @@ n-able
 n-central
 nabu
 nac
-nagios
 name
 name-of-dogs
 namedpipe
@@ -4220,7 +4214,6 @@ nanoleaf
 nartac
 nasdaq
 native
-natpool
 natural-language-to-code
 natural-selection
 nav
@@ -4419,7 +4412,6 @@ oact
 oauth
 oauth2
 oauth2.0
-oberstufe
 obj
 object
 objectid
@@ -4662,6 +4654,7 @@ panels
 pansies
 panther
 panzerbjrn
+pap
 paper
 papis
 paradox
@@ -4698,6 +4691,7 @@ passwordexpiration
 passwordexpiry
 passwordgeneration
 passwordgenerator
+passwordgenerators
 passwordhashing
 passwordlock
 passwordlockoutreport
@@ -4832,7 +4826,6 @@ plex
 plist
 plog
 plot
-plug-n-copy
 plugin
 plugins
 pluralsight
@@ -4914,6 +4907,7 @@ poshy-lucidity
 poshy-multimedia
 poshy-net
 poshy-notify-send
+poshy-sh-isms
 poshy-sshconfig
 poshy-viewer-finder
 poshy-wrap
@@ -4961,7 +4955,6 @@ post
 postgre
 postgres
 postgresql
-potato
 pow
 powdrgit
 power
@@ -5047,6 +5040,7 @@ ppk
 pposh
 pps
 ppt
+pptp
 pptx
 pq
 pranks
@@ -6800,10 +6794,14 @@ pscommand_syspip3_package_location
 pscommand_ta
 pscommand_tad
 pscommand_test-command
+pscommand_test-d
 pscommand_test-elevation
+pscommand_test-f
 pscommand_test-linkcapability
+pscommand_test-o
 pscommand_test-reparsepoint
 pscommand_test-sessioninteractivity
+pscommand_test-x
 pscommand_tf
 pscommand_tfa
 pscommand_tfc
@@ -8007,10 +8005,14 @@ psfunction_switch-gitbranchandtrack
 psfunction_switch-gitbranchmain
 psfunction_switch-gitbranchnew
 psfunction_test-command
+psfunction_test-d
 psfunction_test-elevation
+psfunction_test-f
 psfunction_test-linkcapability
+psfunction_test-o
 psfunction_test-reparsepoint
 psfunction_test-sessioninteractivity
+psfunction_test-x
 psfunction_universalarchive
 psfunction_update-gitbranchbasefrombranchmain
 psfunction_update-gitbranchbasefrommain
@@ -8319,7 +8321,6 @@ readiness
 readme
 readpdf
 readthedocs
-realschule
 realtimeprotection
 rebase
 reboot
@@ -8399,6 +8400,7 @@ relational
 relay
 release
 releasedefinition
+releasehealth
 releasemanagement
 releasenotes
 relevance
@@ -8570,6 +8572,7 @@ route
 route53
 routeconfig
 router
+routes
 routetable
 routine
 rover
@@ -8702,7 +8705,6 @@ schemaextensions
 scheme
 school-information-system
 schulung
-schulverwaltung
 science
 scissors
 scm
@@ -8757,6 +8759,7 @@ sdn
 sdp
 search
 search-adminauditlog
+search-engines
 searchengine
 searcher
 searching
@@ -8821,7 +8824,6 @@ selectxmlinfo
 selenium
 self
 self-hosted
-self-service
 self-signed
 selfdispatch
 selfhelp
@@ -9220,6 +9222,7 @@ sqllocaldb
 sqlpackage
 sqlplus
 sqlproj
+sqlproject
 sqlps
 sqlserver
 sqlserveragent
@@ -9255,9 +9258,9 @@ sslprotocol
 ssm
 sso
 sspi
-sspr
 ssrs
 ssst
+sstp
 stache
 stackedge
 stackexchange
@@ -9306,6 +9309,7 @@ stdout
 steam
 steam-games
 steamcmd
+stepper
 sticker
 sticker-pack
 stickers
@@ -9510,6 +9514,7 @@ task-scheduler
 taskbar
 tasker
 taskgroup
+taskmanagement
 tasks
 taskscheduler
 taxjar
@@ -9587,6 +9592,7 @@ test123
 testaccount
 testautomation
 tester
+testimonial
 testing
 testlab
 testplans
@@ -9700,6 +9706,8 @@ touch
 toughswitch
 tphubps
 tpm
+tr-064
+tr064
 trace
 traceevent
 tracer
@@ -9783,7 +9791,6 @@ tubedownloader
 tui
 tulpep
 tuner
-tuning
 tutorial
 tv
 tweet
@@ -10034,6 +10041,7 @@ vbaproject
 vbproj
 vbr
 vbscript
+vbsinst
 vc
 vccmdlets
 vcenter
@@ -10297,6 +10305,7 @@ wemsdk
 wer
 wget
 what3words
+whatismyip
 whatsnew
 whatsupgold
 whd
@@ -10356,6 +10365,7 @@ windows11
 windows365
 windowsadmincenter
 windowsaudit
+windowsbuilds
 windowscredential
 windowscredentialmanager
 windowscredentials
@@ -10378,6 +10388,7 @@ windowspackagemanager
 windowsplugins
 windowspowershell
 windowspresentationfoundation
+windowsreleasehealth
 windowsrest
 windowssandbox
 windowssearchmanager
@@ -10399,6 +10410,7 @@ windowsvirtualdesktop
 winform
 winforms
 winget
+wingetbridge
 winrar
 winrm
 winrs
@@ -10419,6 +10431,7 @@ wisconsin-madison
 wisconsin'uw-madison
 wisdom
 with
+wizard
 wkhtmltopdf
 wlan
 wmf
@@ -10563,7 +10576,6 @@ xsa
 xtremio
 xtrude
 xunit
-xwiki
 xwindowsupdate
 xwith
 yahoo
