@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Saturday, 18 November 2023 17:52:24 UTC
+Updated: Sunday, 19 November 2023 02:08:24 UTC
 
 .bat
 .env
@@ -13,8 +13,6 @@ Updated: Saturday, 18 November 2023 17:52:24 UTC
 'files
 'provider'
 "interactive
-**psedition_desktop**
-**windows**
 🍄
 🍣
 💩
@@ -72,6 +70,7 @@ abc_testing
 abe
 about
 abr
+abstractsyntaxtree
 abuse
 abuseipdb
 acas
@@ -125,7 +124,6 @@ activehours
 activeresponse
 activesession
 activiti
-activity
 activitycount
 actor-model
 actors
@@ -294,6 +292,7 @@ amateurradio
 amazon
 amazonaws
 amazonmgn
+amazonwebservices
 amend
 ami
 amiga
@@ -366,6 +365,7 @@ app
 app-control-for-business
 app-only
 app-v
+app-volumes
 app.config
 appattach
 appclusive
@@ -400,6 +400,7 @@ appservices
 appsetting
 appv
 appveyor
+appvolumes
 appx
 appxmanifest
 aprs
@@ -453,6 +454,7 @@ aruba
 as
 asa
 asa.unittest
+asana
 asbuiltreport
 asc
 ascii
@@ -573,8 +575,6 @@ avd
 ave
 avepoint
 avi
-avm
-avmtools
 avro
 avs
 avset
@@ -775,6 +775,7 @@ bigfix
 bigquery
 bikeshed
 billing
+billingbenefits
 bimi
 bin
 bin-obj
@@ -934,6 +935,7 @@ cache
 caf
 cal
 calc
+calculate
 calculator
 calendar
 callingcode
@@ -1449,7 +1451,6 @@ cos
 cosmos
 cosmosdb
 cost
-costmanagement
 costoptimization
 couchbase
 couchdb
@@ -1595,6 +1596,7 @@ cyberark-api
 cyberark-identity
 cyberdrain
 cybereason
+cybersamurai
 cybersecurity
 cyberwatch
 cyclic
@@ -1613,7 +1615,6 @@ dac
 dacfx
 dacl
 dacpac
-dacpackage
 dagger
 daily
 dane
@@ -1650,6 +1651,7 @@ datacenter
 dataclassification
 datacollectionrule
 dataconduit
+dataconnectivity
 datadog
 dataexchange
 dataexplorer
@@ -1730,6 +1732,7 @@ decompiler
 decrypt
 decryption
 dedicatedhsm
+deduplication
 deep
 deep-security
 deep-security-manager
@@ -2060,6 +2063,7 @@ dupes
 duplicate
 duplicate-files
 duplicatioin
+duplication
 durable
 durabletask
 dust
@@ -2436,6 +2440,7 @@ file-monitoring
 file-name
 file-name-extension
 file-name-extension-association
+file-server
 file-share
 file-system
 file-transform
@@ -2499,7 +2504,6 @@ findplace
 findproxyforurl
 fine-print
 fine-tuning
-finops
 firebird
 firefox
 firewall
@@ -2595,12 +2599,11 @@ freshservice-api
 freshserviceps
 freshworks
 friendly
-fritz
-fritzbox
 front
 frontapp
 frontdoor
 frontrange
+fs
 fsf
 fsharp
 fslogix
@@ -2756,6 +2759,7 @@ githubactions
 githubcli
 githubtools
 githubworkflow
+gitignore
 gitlab
 gitlab-runner
 gitlab4
@@ -2877,6 +2881,7 @@ hacktoberfest
 hadoop
 hafr
 hailstone
+haipa
 halo
 haloitsm
 halopsa
@@ -2922,7 +2927,6 @@ hcm
 hcx
 hdfs
 hdinsight
-hdinsightonaks
 header
 headhunter
 health
@@ -3147,7 +3151,6 @@ iis10
 iis8
 iisadministration
 iiscrypto
-ikev2
 il
 illinois
 ilo
@@ -3221,7 +3224,6 @@ infrastructureascode
 ingestion
 inheritance
 ini
-inifile
 initialization
 initials-avatar
 initiator
@@ -3333,7 +3335,6 @@ ipcalc
 ipcalculator
 ipconfig
 iperf
-ipfy.org
 iphone
 ipilot
 iplookup
@@ -3437,6 +3438,8 @@ jsm.insight
 json
 json-converter
 json-transform
+json+
+jsonplus
 jsonwebkey
 jsonwebsignature
 jsonwebtoken
@@ -3497,7 +3500,6 @@ keymapping
 keypair
 keysms
 keyvault
-keywords
 kibana
 kickstart
 kidrsa
@@ -3535,7 +3537,6 @@ kusto
 kvm
 kvp
 l1tf
-l2tp
 lab
 labautomation
 labdefinition
@@ -3722,6 +3723,7 @@ logger
 logging
 loggingingestion
 loggingsearch
+loggly
 logic
 logicapp
 logicapps
@@ -3828,6 +3830,7 @@ manageability
 managed-identity
 manageddisks
 managedidentities
+managedserviceidenity
 managedserviceidentity
 managedserviceprovider
 managedserviceproviders
@@ -3896,7 +3899,6 @@ mc
 mcafee
 mcas
 mcd
-mchapv2
 mct
 md5
 md5_v2-71fed0ac69a23967c791e234ef93a3df
@@ -3953,6 +3955,7 @@ messaging
 messenger
 met
 metadata
+metadataservice
 metaprogramming
 method
 methodinfo
@@ -3989,7 +3992,6 @@ microsoft365
 microsoft365dsc
 microsoftauthenticationlibrary
 microsoftazure
-microsoftcloud
 microsoftdefender
 microsoftdefenderatp
 microsoftdeploymenttoolkit
@@ -3998,6 +4000,7 @@ microsoftexchangeserver
 microsoftgraph
 microsoftgraphapi
 microsoftgraphrestapi
+microsofthealth
 microsoftintune
 microsoftmvp
 microsoftoffice
@@ -4106,6 +4109,7 @@ msaccess
 msacpi_thermalzonetemperature
 msal
 msauth
+msband
 msbi
 msbuild
 mschart
@@ -4251,6 +4255,7 @@ netcease
 netcore
 netfirewallrule
 netherlands
+netmap
 netmask
 nets
 netsapiens
@@ -4389,6 +4394,7 @@ nuget-references
 nuget.exe
 nuget.org
 nugetpackageprovider
+number
 numlock
 nunit
 nupkg
@@ -4656,7 +4662,6 @@ panels
 pansies
 panther
 panzerbjrn
-pap
 paper
 papis
 paradox
@@ -4693,7 +4698,6 @@ passwordexpiration
 passwordexpiry
 passwordgeneration
 passwordgenerator
-passwordgenerators
 passwordhashing
 passwordlock
 passwordlockoutreport
@@ -4910,7 +4914,6 @@ poshy-lucidity
 poshy-multimedia
 poshy-net
 poshy-notify-send
-poshy-sh-isms
 poshy-sshconfig
 poshy-viewer-finder
 poshy-wrap
@@ -5001,6 +5004,7 @@ powershell-examples
 powershell-gallery
 powershell-github-repo
 powershell-isprime
+powershell-lightning
 powershell-module
 powershell-modules
 powershell-releases-api
@@ -5043,7 +5047,6 @@ ppk
 pposh
 pps
 ppt
-pptp
 pptx
 pq
 pranks
@@ -6797,14 +6800,10 @@ pscommand_syspip3_package_location
 pscommand_ta
 pscommand_tad
 pscommand_test-command
-pscommand_test-d
 pscommand_test-elevation
-pscommand_test-f
 pscommand_test-linkcapability
-pscommand_test-o
 pscommand_test-reparsepoint
 pscommand_test-sessioninteractivity
-pscommand_test-x
 pscommand_tf
 pscommand_tfa
 pscommand_tfc
@@ -8008,14 +8007,10 @@ psfunction_switch-gitbranchandtrack
 psfunction_switch-gitbranchmain
 psfunction_switch-gitbranchnew
 psfunction_test-command
-psfunction_test-d
 psfunction_test-elevation
-psfunction_test-f
 psfunction_test-linkcapability
-psfunction_test-o
 psfunction_test-reparsepoint
 psfunction_test-sessioninteractivity
-psfunction_test-x
 psfunction_universalarchive
 psfunction_update-gitbranchbasefrombranchmain
 psfunction_update-gitbranchbasefrommain
@@ -8240,6 +8235,7 @@ qrs
 quality
 qualys
 quandl
+quantum
 quarantine
 queries
 query
@@ -8560,6 +8556,7 @@ rocketcyber
 roco
 rocolatey
 role
+rolecapability
 roles
 rollingfile
 romaji
@@ -8573,7 +8570,6 @@ route
 route53
 routeconfig
 router
-routes
 routetable
 routine
 rover
@@ -8733,6 +8729,8 @@ screensaver
 screenshot
 script
 script_version
+script-to-assembly
+script-to-executable
 scriptanalyzer
 scriptblock
 scriptblocklogging
@@ -8743,6 +8741,7 @@ scriptcs
 scriptedui
 scripting
 scriptlogging
+scriptoform
 scriptrunner
 scripts
 scriptsmonitoring
@@ -8758,7 +8757,6 @@ sdn
 sdp
 search
 search-adminauditlog
-search-engines
 searchengine
 searcher
 searching
@@ -8896,6 +8894,7 @@ servicing
 servicingstack
 ses
 session
+sessionconfiguration
 sessionize
 sessions
 set
@@ -9050,6 +9049,7 @@ smartarray
 smartarraycmdlets
 smarthome
 smartsheet
+smartwatch
 smash
 smb
 smb1
@@ -9220,7 +9220,6 @@ sqllocaldb
 sqlpackage
 sqlplus
 sqlproj
-sqlproject
 sqlps
 sqlserver
 sqlserveragent
@@ -9259,7 +9258,6 @@ sspi
 sspr
 ssrs
 ssst
-sstp
 stache
 stackedge
 stackexchange
@@ -9308,7 +9306,6 @@ stdout
 steam
 steam-games
 steamcmd
-stepper
 sticker
 sticker-pack
 stickers
@@ -9513,7 +9510,6 @@ task-scheduler
 taskbar
 tasker
 taskgroup
-taskmanagement
 tasks
 taskscheduler
 taxjar
@@ -9577,6 +9573,7 @@ terrafun
 terragrunt
 tesla
 test
+test-automation
 test-dscconfiguration
 test-internetconnection
 test-modulepath
@@ -9590,7 +9587,6 @@ test123
 testaccount
 testautomation
 tester
-testimonial
 testing
 testlab
 testplans
@@ -9704,8 +9700,6 @@ touch
 toughswitch
 tphubps
 tpm
-tr-064
-tr064
 trace
 traceevent
 tracer
@@ -10040,7 +10034,6 @@ vbaproject
 vbproj
 vbr
 vbscript
-vbsinst
 vc
 vccmdlets
 vcenter
@@ -10075,6 +10068,7 @@ verify
 version
 versioning
 versionmanager
+versionnumber
 vertical
 vester
 vhd
@@ -10156,6 +10150,7 @@ vnugglets.com
 vocabularies
 voice
 voiceconfig
+voiceservices
 voidtools
 volkskrant
 volta
@@ -10174,6 +10169,7 @@ vpn-certificate
 vpro
 vps
 vra
+vrchat
 vrealize
 vrising
 vro
@@ -10301,7 +10297,6 @@ wemsdk
 wer
 wget
 what3words
-whatismyip
 whatsnew
 whatsupgold
 whd
@@ -10311,6 +10306,7 @@ whiteboard
 whitespace
 whoami
 whois
+whormi
 wi-fi
 wia
 wia.imagefile
@@ -10403,7 +10399,6 @@ windowsvirtualdesktop
 winform
 winforms
 winget
-wingetbridge
 winrar
 winrm
 winrs
@@ -10424,7 +10419,6 @@ wisconsin-madison
 wisconsin'uw-madison
 wisdom
 with
-wizard
 wkhtmltopdf
 wlan
 wmf
