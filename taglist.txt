@@ -1,8 +1,7 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 20 November 2023 02:06:50 UTC
+Updated: Monday, 20 November 2023 09:52:35 UTC
 
-.bat
 .env
 .net
 .prom
@@ -83,6 +82,7 @@ accesscontroldsc
 accessgovernancecp
 accesspoint
 accessrights
+accesstoken
 accord
 accord.net
 accordian
@@ -101,6 +101,7 @@ act!
 actifio
 actifiogo
 action
+action1
 actiongroup
 actionplan
 actions
@@ -131,10 +132,7 @@ acumatica
 ad
 ad_monitoring
 ad-ds
-ad-object
-ad-ou-object
 ad-report
-ad-site
 adal
 adapter
 adapter-control
@@ -190,14 +188,11 @@ ado_security
 ado.net
 adobe
 adobeflash
-adobject
-adouobject
 adoxio
 adp
 adr
 ads
 adsi
-adsite
 adsp
 adsync
 aduser
@@ -307,7 +302,6 @@ analysisservices
 analyst
 analyth
 analytics
-analyticsrules
 analyze
 analyzer
 analyzerrules
@@ -348,6 +342,7 @@ api-client
 api-gateway
 api-rest
 apichecks
+apiclient
 apigateway
 apigee
 apigeeedge
@@ -362,6 +357,7 @@ apmtraces
 aportal
 app
 app-control-for-business
+app-only
 app-v
 app-volumes
 app.config
@@ -563,7 +559,6 @@ autounattend
 autoupdate
 autoupdate-script
 autoyast
-auvik
 availability
 availabilityset
 avalara
@@ -596,7 +591,6 @@ axis
 axium
 az
 az-cli
-az.stackhci
 azautomation
 azcli
 azcompute
@@ -807,6 +801,7 @@ biztalk
 biztalkalm
 biztalkdeploymentframework
 bks
+black
 blackbaud
 blackberry
 blackberryuem
@@ -838,6 +833,7 @@ boilerplate
 boinc
 bold-text
 bolt
+bom
 book
 bookmark
 bookmarks
@@ -976,6 +972,7 @@ catimage
 cats
 catty
 cavium
+cb
 cblueshell
 cbr
 cbz
@@ -1301,6 +1298,7 @@ compiler
 complete
 completer
 completion
+completion-manager
 completionresult
 completions
 complex
@@ -1416,6 +1414,7 @@ convertfrom
 convertfrom-yaml
 convertto
 convertto-excel
+convertto-hashtable
 convertto-yaml
 converttodocx
 converttohtml
@@ -1552,6 +1551,7 @@ culture
 cumulative
 cumulativeupdate
 cumulocity
+curious
 curl
 curlie
 currency
@@ -1747,6 +1747,7 @@ defenderast
 defenderforendpoint
 defense
 deflate
+delegated
 delegationmodel
 delete
 delete-orphan-branches
@@ -1780,6 +1781,7 @@ desk
 desktop
 desktopvirtualization
 details
+detect
 detection
 detectionrule
 deutsch
@@ -1797,6 +1799,7 @@ devenv
 devexpress
 deviation
 device
+devicecode
 deviceid
 deviceprovisioningservice
 devices
@@ -1899,7 +1902,6 @@ dkim
 dkschrutebeets
 dl
 dll
-dlmautomation
 dlmigration
 dlp
 dmarc
@@ -2057,6 +2059,8 @@ duplicate
 duplicate-files
 duplicatioin
 duplication
+durable
+durabletask
 dust
 dutch
 dvls
@@ -2130,6 +2134,7 @@ elgato
 elk
 elm
 elmah-io
+elonmusk
 eloqua
 elvui
 em
@@ -2192,7 +2197,6 @@ enum
 enumerable
 env
 environment
-environment-variables
 environmentmanagent
 environmentmodules
 environments
@@ -2353,7 +2357,6 @@ extended
 extendedattributes
 extendedevents
 extendedproperties
-extendedproperty
 extendscript
 extensibility
 extension
@@ -2379,13 +2382,13 @@ failedlogin
 failure
 falcon
 fallbackstatuspoint
+fanarttv
 fancy
 faq
 farm
 farmanager
 fast
 fast-dds
-fast-ping
 fastfilepub
 fastgit
 fastlinq
@@ -2443,7 +2446,6 @@ filelogger
 filemanagement
 filematcher
 filename
-filenames
 fileproperties
 filereplication
 files
@@ -2487,7 +2489,6 @@ find-caller
 find-file
 find-path
 finddownloadlinkfromwebsite
-findfile
 findlocation
 findplace
 findproxyforurl
@@ -2514,7 +2515,6 @@ fixpack
 flac
 flash
 flasharray
-flashblade
 flatfile
 flatten
 fleetsoftwareupdate
@@ -2735,6 +2735,8 @@ git
 git-client
 git-clone
 git-flow
+git-hf
+git-hubflow
 git-lfs
 git-proxy
 git-stat
@@ -2833,7 +2835,6 @@ gridfs
 grok
 groundspeak
 group
-group-membership
 group-policy
 groupmembership
 grouppolicy
@@ -3052,6 +3053,7 @@ httpserver
 huawei
 huawei-ibmc-cmdlets
 hub
+hubflow
 hubot
 hubsite
 hubspot
@@ -3190,6 +3192,7 @@ incident
 incident-response
 incidentresponse
 incontact
+indents
 index
 indexdb
 indicator
@@ -3217,8 +3220,6 @@ inifile
 initialization
 initials-avatar
 initiator
-inline-progress
-inlineprogress
 innerjoin
 innertext
 input
@@ -3536,6 +3537,7 @@ labdefinition
 label
 labels
 lability
+labnotifications
 labrecipe
 labservices
 labsnippet
@@ -3613,6 +3615,7 @@ licence
 license
 license-generator
 licenseautomation
+licensemanagement
 licensemanager
 licensereport
 licenses
@@ -3628,6 +3631,7 @@ limit-job
 limits
 lina
 line
+line-endings
 linear
 linearalgebra
 link
@@ -3735,6 +3739,7 @@ logoff
 logon
 logonright
 logonscript
+logontask
 logonto
 logonuser
 logparser
@@ -3844,7 +3849,6 @@ maps
 mapsapi
 mariadb
 mark
-markdig
 markdown
 markdownrender
 marketing
@@ -4040,6 +4044,7 @@ mobilenetwork
 mobilitycontroller
 mock
 mocking
+model
 modeling
 modify
 module
@@ -4102,7 +4107,6 @@ msauth
 msband
 msbi
 msbuild
-mschart
 msdeploy
 msdn
 msdtc
@@ -4153,7 +4157,6 @@ mulesoft
 multi-factor
 multi-language
 multi-platform
-multi-threading
 multi-zone
 multiboxing
 multicloud
@@ -4195,6 +4198,7 @@ n-able
 n-central
 nabu
 nac
+nagios
 name
 name-of-dogs
 namedpipe
@@ -4209,6 +4213,7 @@ nanoleaf
 nartac
 nasdaq
 native
+natpool
 natural-language-to-code
 natural-selection
 nav
@@ -4245,7 +4250,6 @@ netfirewallrule
 netherlands
 netmap
 netmask
-nets
 netsapiens
 netscaler
 netscape
@@ -4257,7 +4261,6 @@ netsuite
 network
 network adapter configuration operating os optical sensor physical pointing portable printer processor cpu refrigaration cooling cooler removable usb sd ram dimm scsi sound audio card enclosure tape temperature touchpad touch pad touchscreen screen trackball trackpoint video graphics voltage psmodule
 network-credentials
-network-info
 networkanalytics
 networkcloud
 networkcontroller
@@ -4265,14 +4268,12 @@ networkdiscovery
 networkdrives
 networkfirewall
 networkfunction
-networkinfo
 networking
 networkinterfaces
 networkloadbalancer
 networkpolicyserver
 networkscan
 networksecurity
-networksecuritygroup
 networkshares
 netwrix
 new
@@ -4386,7 +4387,6 @@ number
 numlock
 nunit
 nupkg
-nuspec
 nutanix
 nuwave
 nva
@@ -4554,7 +4554,7 @@ optionstring
 opus
 oracle
 oraclecloudinfrastructure
-oraculum
+orbital
 orchestration
 orchestrator
 order
@@ -4595,11 +4595,11 @@ osubusage
 osx
 otp
 ou
-ou-object
 oui-search
 out-consolegridview
 out-default
 out-gridview
+out-json
 outerjoin
 outertext
 outline
@@ -4918,6 +4918,7 @@ poshy-wrap-gem
 poshy-wrap-gh
 poshy-wrap-git
 poshy-wrap-git-flow
+poshy-wrap-git-hf
 poshy-wrap-git-lfs
 poshy-wrap-golang
 poshy-wrap-helm
@@ -4953,6 +4954,7 @@ pow
 powdrgit
 power
 power-apps
+power-cbr
 power-platform
 power-shell
 powerapps
@@ -5697,6 +5699,12 @@ pscommand_ggf
 pscommand_ggs
 pscommand_ggui
 pscommand_ggup
+pscommand_ghf
+pscommand_ghff
+pscommand_ghfh
+pscommand_ghfr
+pscommand_ghfs
+pscommand_ghfu
 pscommand_ghm
 pscommand_gi
 pscommand_gignore
@@ -5991,6 +5999,12 @@ pscommand_invoke-githubapi-bodyfields
 pscommand_invoke-githubapi-bodyfile
 pscommand_invoke-githubapi-bodyjson
 pscommand_invoke-githubapi-bodyraw
+pscommand_invoke-githubflow
+pscommand_invoke-githubflowfeature
+pscommand_invoke-githubflowhotfix
+pscommand_invoke-githubflowrelease
+pscommand_invoke-githubflowsupport
+pscommand_invoke-githubflowupdate
 pscommand_invoke-gitlfsinstall
 pscommand_invoke-gitlfsmigrateimport
 pscommand_invoke-gitmerge
@@ -7402,6 +7416,12 @@ psfunction_invoke-githubapi-bodyfields
 psfunction_invoke-githubapi-bodyfile
 psfunction_invoke-githubapi-bodyjson
 psfunction_invoke-githubapi-bodyraw
+psfunction_invoke-githubflow
+psfunction_invoke-githubflowfeature
+psfunction_invoke-githubflowhotfix
+psfunction_invoke-githubflowrelease
+psfunction_invoke-githubflowsupport
+psfunction_invoke-githubflowupdate
 psfunction_invoke-gitlfsinstall
 psfunction_invoke-gitlfsmigrateimport
 psfunction_invoke-gitmerge
@@ -8062,6 +8082,7 @@ psjob
 psjobs
 psjobthreads
 pskeepass
+pslocalgallery
 psloganalytics
 psm
 psm1
@@ -8245,6 +8266,7 @@ raidcontrollercmdlets
 rainbow
 raisers
 raisersedge
+raj
 ram
 ram-it
 random
@@ -8346,6 +8368,7 @@ reference
 reflect
 reflection
 refresh
+refreshtoken
 reg
 reg_binary
 reg_dword
@@ -8528,6 +8551,7 @@ robot
 robust
 roca
 rock
+rocket
 rocketcyber
 roco
 rocolatey
@@ -8704,10 +8728,12 @@ screenresolution
 screensaver
 screenshot
 script
+script_version
 script-to-assembly
 script-to-executable
 scriptanalyzer
 scriptblock
+scriptblocklogging
 scriptbook
 scriptcop
 scriptcreation
@@ -8733,7 +8759,6 @@ search
 search-adminauditlog
 search-engines
 searchengine
-searcher
 searching
 searchmanager
 searchplace
@@ -8880,7 +8905,6 @@ set-githubsecrets
 set-itemproperty
 set-location
 set-openfiles
-set-ownership
 set-pass
 set-psbreakpoint
 set-psenv
@@ -9093,6 +9117,7 @@ soltra
 solution
 solutions
 sonarcloud
+sonarqube
 sonarr
 sonatype
 songs
@@ -9117,6 +9142,7 @@ sourcequery
 sovcloud
 space
 spaces
+spacex
 spam
 spanner
 spark
@@ -9255,6 +9281,7 @@ start-jobthread
 start-threadjob
 startkey
 startmen
+startmenu
 starttls
 starwars
 stash
@@ -9349,6 +9376,7 @@ subnetting
 subscribedskus
 subscription
 subscriptiondefinition
+subset
 subsystem
 subtitle
 success
@@ -9388,7 +9416,6 @@ swimlane
 swis
 switch
 sxs
-sybase
 sybaseiq
 symantec
 symbolic
@@ -9470,7 +9497,6 @@ tagging
 tags
 tak
 taken
-takeown
 tally
 talxis
 tanss
@@ -9490,6 +9516,7 @@ taxjar
 taxonomy
 tcp
 tcp/ip
+tcpip
 tcpport
 tcprjmgmt
 tcpserver
@@ -9550,9 +9577,11 @@ test-automation
 test-dscconfiguration
 test-internetconnection
 test-modulepath
+test-osplatform
 test-psremoting
 test-samcmapplicationexists
 test-samcmpackageexists
+test-userisadministrator
 test-xml
 test123
 testaccount
@@ -9799,7 +9828,6 @@ ud-breadcrumb
 ud-breadcrumbitem
 ud-burger
 ud-button
-ud-buttonloader
 ud-buttonparticle
 ud-calendar
 ud-circle
@@ -9838,12 +9866,10 @@ ud-step
 ud-stepbar
 ud-stickynavbar
 ud-tagcloud
-ud-timeline
 ud-timeout
 ud-tool
 ud-toploader
 ud-trendline
-ud-typing
 ud-window
 ud-wordtree
 udcm
@@ -9947,7 +9973,6 @@ usap
 usb
 useful
 user
-user-environment
 userdiscovery
 usergroup
 userinterface
@@ -9963,8 +9988,10 @@ usg
 usps
 utc
 utf-8
+utf-sig
 utf7
 utf8
+utf8-sig
 utf8bom
 util
 utilities
@@ -9999,14 +10026,12 @@ vastlimits
 vault
 vaultextension
 vaultstore
-vaultwarden
 vb365
 vba
 vbaproject
 vbproj
 vbr
 vbscript
-vbsinst
 vc
 vccmdlets
 vcenter
@@ -10126,7 +10151,6 @@ voiceconfig
 voiceservices
 voidtools
 volkskrant
-volta
 volume
 volumeshadowcopy
 volumio
@@ -10218,7 +10242,6 @@ wdapi
 wds
 weather
 weaviate
-weaviatenet
 web
 web-search
 web.config
@@ -10313,7 +10336,6 @@ windows-api
 windows-control-panel
 windows-defender
 windows-defender-application-control
-windows-environment
 windows-explorer
 windows-features
 windows-firewall
@@ -10426,6 +10448,7 @@ workingdays
 workinghours
 workingtime
 workload-automation
+workloads
 workpoint
 workrequests
 worksheet
@@ -10464,7 +10487,6 @@ write-wansi
 writeaccess
 writelog
 writemanager
-writeprogress
 writer
 ws-federation
 wsapi
