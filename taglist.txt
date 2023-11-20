@@ -1,7 +1,8 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 20 November 2023 09:52:35 UTC
+Updated: Monday, 20 November 2023 17:52:29 UTC
 
+.bat
 .env
 .net
 .prom
@@ -23,7 +24,6 @@ Updated: Monday, 20 November 2023 09:52:35 UTC
 1803
 1809
 1c
-1e
 1password
 1poshword
 200
@@ -119,7 +119,6 @@ activedirectoryauthenticationlibrary
 activedirectorycertificateservices
 activedirectoryfederationservices
 activedirectry-html
-activeefficiency
 activehours
 activeresponse
 activesession
@@ -132,7 +131,10 @@ acumatica
 ad
 ad_monitoring
 ad-ds
+ad-object
+ad-ou-object
 ad-report
+ad-site
 adal
 adapter
 adapter-control
@@ -188,11 +190,14 @@ ado_security
 ado.net
 adobe
 adobeflash
+adobject
+adouobject
 adoxio
 adp
 adr
 ads
 adsi
+adsite
 adsp
 adsync
 aduser
@@ -302,6 +307,7 @@ analysisservices
 analyst
 analyth
 analytics
+analyticsrules
 analyze
 analyzer
 analyzerrules
@@ -396,7 +402,6 @@ appv
 appveyor
 appvolumes
 appx
-appxmanifest
 aprs
 aprs-is
 aprsis
@@ -559,6 +564,7 @@ autounattend
 autoupdate
 autoupdate-script
 autoyast
+auvik
 availability
 availabilityset
 avalara
@@ -591,6 +597,7 @@ axis
 axium
 az
 az-cli
+az.stackhci
 azautomation
 azcli
 azcompute
@@ -829,6 +836,7 @@ bluetraitio
 bmc
 bnm
 boards
+bofh
 boilerplate
 boinc
 bold-text
@@ -946,7 +954,6 @@ canonical
 cantara
 capability
 capacity
-capgemini
 capslock
 captcha
 capture
@@ -1766,7 +1773,6 @@ dependencies
 dependency
 deploy
 deployment
-deploymentconfig
 deploymentmanager
 deploymentresourceprovider
 depute
@@ -1836,7 +1842,6 @@ digital-forensics
 digitalforensics
 digitalocean
 digitaltwins
-dilbert
 dimcry
 dircolors
 director
@@ -1902,6 +1907,7 @@ dkim
 dkschrutebeets
 dl
 dll
+dlmautomation
 dlmigration
 dlp
 dmarc
@@ -2003,6 +2009,7 @@ drift
 driftmonitor
 drive
 drive letter
+drivemap
 driver
 driverpacks
 drivers
@@ -2045,7 +2052,6 @@ dsutils
 dtc
 dts
 dtsx
-dtx
 du
 dual-stack
 duck
@@ -2081,7 +2087,6 @@ dynamics365fo
 dynamics365sales
 dynamics365server
 dynamicsax
-dynamicsecuritygroups
 dynamicsnav
 dynamodb
 dynatrace
@@ -2197,6 +2202,7 @@ enum
 enumerable
 env
 environment
+environment-variables
 environmentmanagent
 environmentmodules
 environments
@@ -2357,6 +2363,7 @@ extended
 extendedattributes
 extendedevents
 extendedproperties
+extendedproperty
 extendscript
 extensibility
 extension
@@ -2374,21 +2381,19 @@ f
 f#
 f5
 facebook
-factoryorchestrator
-factoryorchestratorclient
 facts
 faf
 failedlogin
 failure
 falcon
 fallbackstatuspoint
-fanarttv
 fancy
 faq
 farm
 farmanager
 fast
 fast-dds
+fast-ping
 fastfilepub
 fastgit
 fastlinq
@@ -2446,6 +2451,7 @@ filelogger
 filemanagement
 filematcher
 filename
+filenames
 fileproperties
 filereplication
 files
@@ -2489,6 +2495,7 @@ find-caller
 find-file
 find-path
 finddownloadlinkfromwebsite
+findfile
 findlocation
 findplace
 findproxyforurl
@@ -2835,6 +2842,7 @@ gridfs
 grok
 groundspeak
 group
+group-membership
 group-policy
 groupmembership
 grouppolicy
@@ -3137,6 +3145,7 @@ ifttt
 igel
 igr
 ihs
+iiittttt
 iis
 iis10
 iis8
@@ -3220,6 +3229,8 @@ inifile
 initialization
 initials-avatar
 initiator
+inline-progress
+inlineprogress
 innerjoin
 innertext
 input
@@ -3321,7 +3332,6 @@ ipa
 ipaddress
 ipam
 ipbroadcast
-ipc
 ipcalc
 ipcalculator
 ipconfig
@@ -3333,7 +3343,6 @@ iplookup
 ipmaths
 ipp
 iprange
-ips
 ipscan
 ipv4
 ipv4ping
@@ -3430,8 +3439,6 @@ jsm.insight
 json
 json-converter
 json-transform
-json+
-jsonplus
 jsonwebkey
 jsonwebsignature
 jsonwebtoken
@@ -3849,6 +3856,7 @@ maps
 mapsapi
 mariadb
 mark
+markdig
 markdown
 markdownrender
 marketing
@@ -3862,9 +3870,6 @@ marquee
 marvel
 marvell
 marvell_semiconductor_inc
-marvellfcpowerkit
-marvellfcprovider
-marvellqlogicfcpowerkit
 mas
 mask
 mass
@@ -3927,7 +3932,6 @@ melamed
 meltdown
 mem
 member
-members
 membership
 memcm
 memory
@@ -4095,8 +4099,6 @@ mpeg
 mpn
 mrfk
 mrfylke
-mrvl_fc_powerkit
-mrvlfcprovider
 ms_365
 ms-graph
 ms365
@@ -4157,6 +4159,7 @@ mulesoft
 multi-factor
 multi-language
 multi-platform
+multi-threading
 multi-zone
 multiboxing
 multicloud
@@ -4184,7 +4187,6 @@ mx
 mxlookup
 mycloudrevolution
 myhub
-myip
 myitprocess
 myjson
 myjson.com
@@ -4250,6 +4252,7 @@ netfirewallrule
 netherlands
 netmap
 netmask
+nets
 netsapiens
 netscaler
 netscape
@@ -4261,6 +4264,7 @@ netsuite
 network
 network adapter configuration operating os optical sensor physical pointing portable printer processor cpu refrigaration cooling cooler removable usb sd ram dimm scsi sound audio card enclosure tape temperature touchpad touch pad touchscreen screen trackball trackpoint video graphics voltage psmodule
 network-credentials
+network-info
 networkanalytics
 networkcloud
 networkcontroller
@@ -4268,12 +4272,14 @@ networkdiscovery
 networkdrives
 networkfirewall
 networkfunction
+networkinfo
 networking
 networkinterfaces
 networkloadbalancer
 networkpolicyserver
 networkscan
 networksecurity
+networksecuritygroup
 networkshares
 netwrix
 new
@@ -4387,6 +4393,7 @@ number
 numlock
 nunit
 nupkg
+nuspec
 nutanix
 nuwave
 nva
@@ -4554,6 +4561,7 @@ optionstring
 opus
 oracle
 oraclecloudinfrastructure
+oraculum
 orbital
 orchestration
 orchestrator
@@ -4595,6 +4603,7 @@ osubusage
 osx
 otp
 ou
+ou-object
 oui-search
 out-consolegridview
 out-default
@@ -4685,7 +4694,6 @@ passwordexpiration
 passwordexpiry
 passwordgeneration
 passwordgenerator
-passwordgenerators
 passwordhashing
 passwordlock
 passwordlockoutreport
@@ -4755,6 +4763,7 @@ pf
 pfe
 pfsense
 pfx
+pfy
 pgp
 phabricator
 philips
@@ -4884,10 +4893,8 @@ poshgrouppolicy
 poshkeepass
 poshlog
 poshorigin
-poshproject
 poshprtg
 poshrsjob
-poshtemplate
 poshwsus
 poshy-code-search
 poshy-colors
@@ -4899,7 +4906,6 @@ poshy-env-var
 poshy-ls-isms
 poshy-lucidity
 poshy-multimedia
-poshy-net
 poshy-notify-send
 poshy-sh-isms
 poshy-sshconfig
@@ -5022,7 +5028,6 @@ powershellmodule
 powershellmoduleupdate
 powershellpr0mpt
 powershellscript
-powershelltemplate
 powershelltraining
 powershelltypeaccelerators
 powershelluniversal
@@ -5119,7 +5124,6 @@ project-management
 projectmanagement
 projectreunion
 projects
-projecttemplate
 projectwise
 proliant
 prometheus
@@ -5658,8 +5662,6 @@ pscommand_get-gittrackedfiles
 pscommand_get-gituntrackedfiles
 pscommand_get-gitwhatchangedstylized
 pscommand_get-itemnixmode
-pscommand_get-netipaddresspublic
-pscommand_get-netipaddresssimple
 pscommand_get-pwshaliasdefinition
 pscommand_get-pwshfunctiondefinition
 pscommand_get-viewer
@@ -6447,7 +6449,6 @@ pscommand_invoke-zypperverify
 pscommand_invoke-zypperversioncompare
 pscommand_invoke-zypperwhatprovides
 pscommand_invokeyumgrouplist
-pscommand_ips
 pscommand_ipy
 pscommand_ipython
 pscommand_jump
@@ -6601,7 +6602,6 @@ pscommand_mpom
 pscommand_mrperf
 pscommand_mrprep
 pscommand_mrrb
-pscommand_myip
 pscommand_new-gitbranchfromstash
 pscommand_new-gitbranchtracked
 pscommand_new-gitpatchfile
@@ -6656,7 +6656,6 @@ pscommand_peek
 pscommand_pgr
 pscommand_pi
 pscommand_pidev
-pscommand_ping
 pscommand_pip
 pscommand_pip_package_location
 pscommand_pip3
@@ -7265,8 +7264,6 @@ psfunction_get-gittrackedfiles
 psfunction_get-gituntrackedfiles
 psfunction_get-gitwhatchangedstylized
 psfunction_get-itemnixmode
-psfunction_get-netipaddresspublic
-psfunction_get-netipaddresssimple
 psfunction_get-pwshaliasdefinition
 psfunction_get-pwshfunctiondefinition
 psfunction_get-viewer
@@ -8211,7 +8208,6 @@ python3
 qcloud
 qconvergeconsolepowerkit
 qemu
-qlgc_fc_powerkit
 qlik
 qlik-api
 qlik-sense
@@ -8221,8 +8217,6 @@ qlikview
 qlikview-cli
 qlogic
 qlogicfastlinqpowerkit
-qlogicfcpowerkit
-qlogicfcprovider
 qna
 qol
 qq
@@ -8619,7 +8613,6 @@ rust-lang
 ryanairps
 ryver
 s.ds.p
-s1
 s3
 s4b
 saas
@@ -8656,6 +8649,7 @@ sap
 sapazure
 saponazure
 sapstartstopazure
+sarcasm
 sarif
 sas
 sat
@@ -8668,7 +8662,6 @@ savov
 sbc
 sc
 scaffold
-scaffoldingtemplate
 scala
 scalable
 scalablevectorgraphics
@@ -8711,7 +8704,6 @@ scom
 sconfig
 scoop
 scope
-score
 scouterna
 scouternasetjanster
 scoutnet
@@ -8759,6 +8751,7 @@ search
 search-adminauditlog
 search-engines
 searchengine
+searcher
 searching
 searchmanager
 searchplace
@@ -8905,6 +8898,7 @@ set-githubsecrets
 set-itemproperty
 set-location
 set-openfiles
+set-ownership
 set-pass
 set-psbreakpoint
 set-psenv
@@ -8932,7 +8926,6 @@ shacrypt
 shadow
 shadowcopy
 shadowcopybackups
-shadowgroups
 shanghaitech
 shard
 share
@@ -9416,6 +9409,7 @@ swimlane
 swis
 switch
 sxs
+sybase
 sybaseiq
 symantec
 symbolic
@@ -9448,6 +9442,7 @@ syskit
 syslog
 sysman
 sysmon
+sysop
 syspass
 syspip
 syspip3
@@ -9482,6 +9477,7 @@ tabexpansion2
 tablacus
 table
 tableau
+tableauserver
 tabler
 tables
 tablestorage
@@ -9497,6 +9493,7 @@ tagging
 tags
 tak
 taken
+takeown
 tally
 talxis
 tanss
@@ -9520,7 +9517,6 @@ tcpip
 tcpport
 tcprjmgmt
 tcpserver
-tcptest
 tcx
 tcxaemgmt
 tdd
@@ -9706,7 +9702,6 @@ tr064
 trace
 traceevent
 tracer
-tracert
 tracing
 tracker
 tracking
@@ -9828,6 +9823,7 @@ ud-breadcrumb
 ud-breadcrumbitem
 ud-burger
 ud-button
+ud-buttonloader
 ud-buttonparticle
 ud-calendar
 ud-circle
@@ -9866,17 +9862,18 @@ ud-step
 ud-stepbar
 ud-stickynavbar
 ud-tagcloud
+ud-timeline
 ud-timeout
 ud-tool
 ud-toploader
 ud-trendline
+ud-typing
 ud-window
 ud-wordtree
 udcm
 udfeedback
 udp
 udpclient
-udptest
 udr
 udthememode
 udword
@@ -9973,6 +9970,7 @@ usap
 usb
 useful
 user
+user-environment
 userdiscovery
 usergroup
 userinterface
@@ -10026,12 +10024,14 @@ vastlimits
 vault
 vaultextension
 vaultstore
+vaultwarden
 vb365
 vba
 vbaproject
 vbproj
 vbr
 vbscript
+vbsinst
 vc
 vccmdlets
 vcenter
@@ -10151,6 +10151,7 @@ voiceconfig
 voiceservices
 voidtools
 volkskrant
+volta
 volume
 volumeshadowcopy
 volumio
@@ -10166,7 +10167,6 @@ vpn-certificate
 vpro
 vps
 vra
-vrchat
 vrealize
 vrising
 vro
@@ -10232,8 +10232,6 @@ watch
 watchmen
 watery
 wave
-wayk
-waykbastion
 wbem
 wcf
 wcry
@@ -10242,6 +10240,7 @@ wdapi
 wds
 weather
 weaviate
+weaviatenet
 web
 web-search
 web.config
@@ -10279,7 +10278,6 @@ websockets
 websphere
 websphereappserver
 websphereportal
-webtest
 webtesting
 webtime
 wec
@@ -10336,6 +10334,7 @@ windows-api
 windows-control-panel
 windows-defender
 windows-defender-application-control
+windows-environment
 windows-explorer
 windows-features
 windows-firewall
@@ -10448,7 +10447,6 @@ workingdays
 workinghours
 workingtime
 workload-automation
-workloads
 workpoint
 workrequests
 worksheet
@@ -10487,6 +10485,7 @@ write-wansi
 writeaccess
 writelog
 writemanager
+writeprogress
 writer
 ws-federation
 wsapi
@@ -10562,7 +10561,6 @@ xsa
 xtremio
 xtrude
 xunit
-xwiki
 xwindowsupdate
 xwith
 yahoo
