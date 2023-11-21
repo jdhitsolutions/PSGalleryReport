@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 20 November 2023 17:52:29 UTC
+Updated: Tuesday, 21 November 2023 02:09:08 UTC
 
 .bat
 .env
@@ -13,6 +13,8 @@ Updated: Monday, 20 November 2023 17:52:29 UTC
 'files
 'provider'
 "interactive
+**psedition_desktop**
+**windows**
 🍄
 🍣
 💩
@@ -24,6 +26,7 @@ Updated: Monday, 20 November 2023 17:52:29 UTC
 1803
 1809
 1c
+1e
 1password
 1poshword
 200
@@ -33,7 +36,6 @@ Updated: Monday, 20 November 2023 17:52:29 UTC
 2018
 2019
 21vianet
-24-bit
 2fa
 300
 365
@@ -119,6 +121,7 @@ activedirectoryauthenticationlibrary
 activedirectorycertificateservices
 activedirectoryfederationservices
 activedirectry-html
+activeefficiency
 activehours
 activeresponse
 activesession
@@ -402,6 +405,7 @@ appv
 appveyor
 appvolumes
 appx
+appxmanifest
 aprs
 aprs-is
 aprsis
@@ -619,7 +623,6 @@ azsql
 azstackhci
 azstate
 azsubnet
-aztools
 azts
 azuead
 azure
@@ -637,7 +640,6 @@ azure-resource-graph
 azure-ssis
 azureactivedirectory
 azuread
-azureadbackupandrestore
 azureadconnect
 azureadgraph
 azureadtoolkit
@@ -1668,7 +1670,6 @@ datalabelingservice
 datalabelingservicedataplane
 datalake
 datamanipulation
-datamodel
 datanorm
 dataplatform
 datapro
@@ -1773,6 +1774,7 @@ dependencies
 dependency
 deploy
 deployment
+deploymentconfig
 deploymentmanager
 deploymentresourceprovider
 depute
@@ -1842,6 +1844,7 @@ digital-forensics
 digitalforensics
 digitalocean
 digitaltwins
+dilbert
 dimcry
 dircolors
 director
@@ -1857,7 +1860,6 @@ directrouting
 direnv
 dirkjan
 dirname
-dirsync
 disa
 disable
 disable-internet
@@ -2387,6 +2389,7 @@ failedlogin
 failure
 falcon
 fallbackstatuspoint
+fanarttv
 fancy
 faq
 farm
@@ -2522,6 +2525,7 @@ fixpack
 flac
 flash
 flasharray
+flashblade
 flatfile
 flatten
 fleetsoftwareupdate
@@ -2531,7 +2535,6 @@ flexdesk
 flickr
 flowchart
 flowy
-fluidrelay
 flyway
 fmg
 focus
@@ -2775,7 +2778,6 @@ gmap
 gmaps
 gmsa
 gnucash
-gnuwin32
 go
 gobright
 godaddy
@@ -2817,6 +2819,7 @@ gps
 gpt
 gpt3
 gpx
+gradle
 grafana
 grafanaapi
 granttype
@@ -3343,6 +3346,7 @@ iplookup
 ipmaths
 ipp
 iprange
+ips
 ipscan
 ipv4
 ipv4ping
@@ -3439,6 +3443,8 @@ jsm.insight
 json
 json-converter
 json-transform
+json+
+jsonplus
 jsonwebkey
 jsonwebsignature
 jsonwebtoken
@@ -3870,6 +3876,9 @@ marquee
 marvel
 marvell
 marvell_semiconductor_inc
+marvellfcpowerkit
+marvellfcprovider
+marvellqlogicfcpowerkit
 mas
 mask
 mass
@@ -3932,6 +3941,7 @@ melamed
 meltdown
 mem
 member
+members
 membership
 memcm
 memory
@@ -3983,8 +3993,6 @@ microsoft.graph
 microsoft.graph.api
 microsoft.identity.client
 microsoft.identitymodel.clients.activedirectory
-microsoft.logic
-microsoft.logic/workflows
 microsoft.web.administration
 microsoft365
 microsoft365dsc
@@ -4099,6 +4107,8 @@ mpeg
 mpn
 mrfk
 mrfylke
+mrvl_fc_powerkit
+mrvlfcprovider
 ms_365
 ms-graph
 ms365
@@ -4109,6 +4119,7 @@ msauth
 msband
 msbi
 msbuild
+mschart
 msdeploy
 msdn
 msdtc
@@ -4187,6 +4198,7 @@ mx
 mxlookup
 mycloudrevolution
 myhub
+myip
 myitprocess
 myjson
 myjson.com
@@ -4279,7 +4291,6 @@ networkloadbalancer
 networkpolicyserver
 networkscan
 networksecurity
-networksecuritygroup
 networkshares
 netwrix
 new
@@ -4435,11 +4446,9 @@ octopus.client
 octopusdeploy
 octopusenergy
 ocvp
-od4b
 oda
 odata
 odbc
-odfb
 odin
 odoo
 oem-charset
@@ -4485,7 +4494,6 @@ oncommand-insight
 ondemand
 one
 onedrive
-onedriveforbusiness
 oneget
 oneidentity
 onelogin
@@ -4604,7 +4612,6 @@ osx
 otp
 ou
 ou-object
-oui-search
 out-consolegridview
 out-default
 out-gridview
@@ -4694,6 +4701,7 @@ passwordexpiration
 passwordexpiry
 passwordgeneration
 passwordgenerator
+passwordgenerators
 passwordhashing
 passwordlock
 passwordlockoutreport
@@ -4893,8 +4901,10 @@ poshgrouppolicy
 poshkeepass
 poshlog
 poshorigin
+poshproject
 poshprtg
 poshrsjob
+poshtemplate
 poshwsus
 poshy-code-search
 poshy-colors
@@ -4906,6 +4916,7 @@ poshy-env-var
 poshy-ls-isms
 poshy-lucidity
 poshy-multimedia
+poshy-net
 poshy-notify-send
 poshy-sh-isms
 poshy-sshconfig
@@ -4929,7 +4940,6 @@ poshy-wrap-git-lfs
 poshy-wrap-golang
 poshy-wrap-helm
 poshy-wrap-kubectl
-poshy-wrap-maven
 poshy-wrap-nginx
 poshy-wrap-nmap
 poshy-wrap-npm
@@ -5028,6 +5038,7 @@ powershellmodule
 powershellmoduleupdate
 powershellpr0mpt
 powershellscript
+powershelltemplate
 powershelltraining
 powershelltypeaccelerators
 powershelluniversal
@@ -5124,6 +5135,7 @@ project-management
 projectmanagement
 projectreunion
 projects
+projecttemplate
 projectwise
 proliant
 prometheus
@@ -5662,6 +5674,8 @@ pscommand_get-gittrackedfiles
 pscommand_get-gituntrackedfiles
 pscommand_get-gitwhatchangedstylized
 pscommand_get-itemnixmode
+pscommand_get-netipaddresspublic
+pscommand_get-netipaddresssimple
 pscommand_get-pwshaliasdefinition
 pscommand_get-pwshfunctiondefinition
 pscommand_get-viewer
@@ -6163,17 +6177,6 @@ pscommand_invoke-kubectlrolloutundo
 pscommand_invoke-kubectlrunnetshoot
 pscommand_invoke-kubectlscaledeployment
 pscommand_invoke-kubectlscalestatefulset
-pscommand_invoke-mavencleaninstall
-pscommand_invoke-mavencleaninstallskiptests
-pscommand_invoke-mavencleanpackage
-pscommand_invoke-mavencleanpackageskiptests
-pscommand_invoke-mavendependencytree
-pscommand_invoke-mavenhelpeffectivepom
-pscommand_invoke-maveninstall
-pscommand_invoke-mavenpackage
-pscommand_invoke-mavenreleaseperform
-pscommand_invoke-mavenreleaseprepare
-pscommand_invoke-mavenreleaserollback
 pscommand_invoke-npmbinmungedpath
 pscommand_invoke-npminfo
 pscommand_invoke-npminit
@@ -6449,6 +6452,7 @@ pscommand_invoke-zypperverify
 pscommand_invoke-zypperversioncompare
 pscommand_invoke-zypperwhatprovides
 pscommand_invokeyumgrouplist
+pscommand_ips
 pscommand_ipy
 pscommand_ipython
 pscommand_jump
@@ -6586,22 +6590,12 @@ pscommand_lsn
 pscommand_lsr
 pscommand_lt
 pscommand_mcd
-pscommand_mci
-pscommand_mcisk
-pscommand_mcp
-pscommand_mcpsk
-pscommand_mdep
 pscommand_measure-envvarchanges
 pscommand_merge-gitrepositoryfromoriginbranchmain
 pscommand_merge-gitrepositoryfromupstreambranchmain
-pscommand_mi
 pscommand_mirrorsite
 pscommand_move-gittrackedfiles
-pscommand_mp
-pscommand_mpom
-pscommand_mrperf
-pscommand_mrprep
-pscommand_mrrb
+pscommand_myip
 pscommand_new-gitbranchfromstash
 pscommand_new-gitbranchtracked
 pscommand_new-gitpatchfile
@@ -6656,6 +6650,7 @@ pscommand_peek
 pscommand_pgr
 pscommand_pi
 pscommand_pidev
+pscommand_ping
 pscommand_pip
 pscommand_pip_package_location
 pscommand_pip3
@@ -7264,6 +7259,8 @@ psfunction_get-gittrackedfiles
 psfunction_get-gituntrackedfiles
 psfunction_get-gitwhatchangedstylized
 psfunction_get-itemnixmode
+psfunction_get-netipaddresspublic
+psfunction_get-netipaddresssimple
 psfunction_get-pwshaliasdefinition
 psfunction_get-pwshfunctiondefinition
 psfunction_get-viewer
@@ -7575,17 +7572,6 @@ psfunction_invoke-kubectlrolloutundo
 psfunction_invoke-kubectlrunnetshoot
 psfunction_invoke-kubectlscaledeployment
 psfunction_invoke-kubectlscalestatefulset
-psfunction_invoke-mavencleaninstall
-psfunction_invoke-mavencleaninstallskiptests
-psfunction_invoke-mavencleanpackage
-psfunction_invoke-mavencleanpackageskiptests
-psfunction_invoke-mavendependencytree
-psfunction_invoke-mavenhelpeffectivepom
-psfunction_invoke-maveninstall
-psfunction_invoke-mavenpackage
-psfunction_invoke-mavenreleaseperform
-psfunction_invoke-mavenreleaseprepare
-psfunction_invoke-mavenreleaserollback
 psfunction_invoke-npmbinmungedpath
 psfunction_invoke-npminfo
 psfunction_invoke-npminit
@@ -8208,6 +8194,7 @@ python3
 qcloud
 qconvergeconsolepowerkit
 qemu
+qlgc_fc_powerkit
 qlik
 qlik-api
 qlik-sense
@@ -8217,6 +8204,8 @@ qlikview
 qlikview-cli
 qlogic
 qlogicfastlinqpowerkit
+qlogicfcpowerkit
+qlogicfcprovider
 qna
 qol
 qq
@@ -8598,7 +8587,6 @@ runas
 runbook
 runbooks
 runbookstudio
-runcommand
 rundeck
 runner
 runspace
@@ -8613,6 +8601,7 @@ rust-lang
 ryanairps
 ryver
 s.ds.p
+s1
 s3
 s4b
 saas
@@ -8662,6 +8651,7 @@ savov
 sbc
 sc
 scaffold
+scaffoldingtemplate
 scala
 scalable
 scalablevectorgraphics
@@ -8792,7 +8782,6 @@ securityassertionmarkuplanguage
 securitycenter
 securitycompliancecenter
 securitygroup
-securitygroups
 securityinsights
 securityoptions
 securitypolicydsc
@@ -8817,7 +8806,6 @@ self-hosted
 self-service
 self-signed
 selfdispatch
-selfhelp
 selfsigned
 semantic
 semantic-versioning
@@ -9185,6 +9173,8 @@ spotlightimages
 spp
 spread
 spreadsheet
+spring
+spring-boot
 springcloud
 sql
 sql-database
@@ -9415,7 +9405,6 @@ symantec
 symbolic
 symbolic_link
 symboliclink
-symbols
 symbolservers
 symlink
 symmetric
@@ -9515,8 +9504,8 @@ tcp
 tcp/ip
 tcpip
 tcpport
-tcprjmgmt
 tcpserver
+tcptest
 tcx
 tcxaemgmt
 tdd
@@ -9675,7 +9664,6 @@ toggle
 token
 tokenlifetime
 tokens
-toml
 tookit
 tool
 toolbox
@@ -9702,6 +9690,7 @@ tr064
 trace
 traceevent
 tracer
+tracert
 tracing
 tracker
 tracking
@@ -9823,7 +9812,6 @@ ud-breadcrumb
 ud-breadcrumbitem
 ud-burger
 ud-button
-ud-buttonloader
 ud-buttonparticle
 ud-calendar
 ud-circle
@@ -9862,7 +9850,6 @@ ud-step
 ud-stepbar
 ud-stickynavbar
 ud-tagcloud
-ud-timeline
 ud-timeout
 ud-tool
 ud-toploader
@@ -9874,6 +9861,7 @@ udcm
 udfeedback
 udp
 udpclient
+udptest
 udr
 udthememode
 udword
@@ -10167,6 +10155,7 @@ vpn-certificate
 vpro
 vps
 vra
+vrchat
 vrealize
 vrising
 vro
@@ -10232,6 +10221,8 @@ watch
 watchmen
 watery
 wave
+wayk
+waykbastion
 wbem
 wcf
 wcry
@@ -10278,6 +10269,7 @@ websockets
 websphere
 websphereappserver
 websphereportal
+webtest
 webtesting
 webtime
 wec
@@ -10447,6 +10439,7 @@ workingdays
 workinghours
 workingtime
 workload-automation
+workloads
 workpoint
 workrequests
 worksheet
@@ -10492,7 +10485,6 @@ wsapi
 wsb
 wsl
 wsl2
-wsl2 psmodule psedition_core
 wsman
 wsmanlistener
 wso2
@@ -10561,6 +10553,7 @@ xsa
 xtremio
 xtrude
 xunit
+xwiki
 xwindowsupdate
 xwith
 yahoo
