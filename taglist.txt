@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Tuesday, 21 November 2023 02:09:08 UTC
+Updated: Tuesday, 21 November 2023 09:52:47 UTC
 
 .bat
 .env
@@ -36,6 +36,7 @@ Updated: Tuesday, 21 November 2023 02:09:08 UTC
 2018
 2019
 21vianet
+24-bit
 2fa
 300
 365
@@ -158,7 +159,6 @@ addlevel
 addomainservices
 addon
 address
-addresses
 addressrange
 adds
 addtypeaccelerators
@@ -221,9 +221,6 @@ aeries
 aeriessis
 aes
 afd
-affinity
-affinity-co
-affinity-crm
 after-effects
 aftereffects
 agenda
@@ -334,7 +331,6 @@ ansible
 ansible-control-node
 ansiblecontrolnode
 antimalwarescaninterface
-antispam
 antivirus
 any
 anyconnect
@@ -368,7 +364,6 @@ app
 app-control-for-business
 app-only
 app-v
-app-volumes
 app.config
 appattach
 appclusive
@@ -403,9 +398,7 @@ appservices
 appsetting
 appv
 appveyor
-appvolumes
 appx
-appxmanifest
 aprs
 aprs-is
 aprsis
@@ -515,7 +508,6 @@ audiocodes
 audit
 auditing
 auditpol
-auditpol.exe
 auditpolicies
 auditpolicy
 audits
@@ -593,7 +585,6 @@ aws_profile
 aws-codebuild
 aws-lambda
 aws-vault
-awscli
 awspricelist
 axapta
 axinom
@@ -623,7 +614,7 @@ azsql
 azstackhci
 azstate
 azsubnet
-azts
+aztools
 azuead
 azure
 azure_ad
@@ -640,6 +631,7 @@ azure-resource-graph
 azure-ssis
 azureactivedirectory
 azuread
+azureadbackupandrestore
 azureadconnect
 azureadgraph
 azureadtoolkit
@@ -733,7 +725,6 @@ bash
 basic
 bastion
 bat
-batcat
 batch
 batchclass
 batman
@@ -793,7 +784,6 @@ bingmap
 bingmaps
 binomial
 bios
-bios_settings
 bios-settings
 bit
 bitbucket
@@ -956,6 +946,7 @@ canonical
 cantara
 capability
 capacity
+capgemini
 capslock
 captcha
 capture
@@ -1010,7 +1001,6 @@ celcat
 celerium
 censor
 center
-centra
 central
 central-management
 centralcredentialprovider
@@ -1243,7 +1233,6 @@ codegeneration
 codegenerator
 codepoint
 codereview
-codes
 codesign
 codesigning
 codex
@@ -1307,7 +1296,6 @@ compiler
 complete
 completer
 completion
-completion-manager
 completionresult
 completions
 complex
@@ -1373,7 +1361,6 @@ connectionmonitor
 connections
 connectionsmanager
 connectionstring
-connectivity
 connectwise
 conservation
 console
@@ -1443,7 +1430,6 @@ coreepower
 coreepower.common
 coreepower.config
 coreepower.lib
-coreepower.module
 coreepower.net
 coreepower.net.soundcloudexplode
 coreposh
@@ -1454,7 +1440,6 @@ cos
 cosmos
 cosmosdb
 cost
-costmanagement
 costoptimization
 couchbase
 couchdb
@@ -1485,8 +1470,6 @@ cqhttp
 crack psmodule
 crash
 crayon
-crc
-crc32
 create
 createcolumn
 createdatabase
@@ -1560,7 +1543,6 @@ culture
 cumulative
 cumulativeupdate
 cumulocity
-curious
 curl
 curlie
 currency
@@ -1603,8 +1585,6 @@ cybereason
 cybersamurai
 cybersecurity
 cyberwatch
-cyclic
-cyclicredundancycheck
 cygwin
 cylance
 cypher
@@ -1624,7 +1604,6 @@ dagger
 daily
 dane
 dangling
-dapr
 dare
 dark
 dash
@@ -1670,6 +1649,7 @@ datalabelingservice
 datalabelingservicedataplane
 datalake
 datamanipulation
+datamodel
 datanorm
 dataplatform
 datapro
@@ -1737,7 +1717,6 @@ decrypt
 decryption
 dedicatedhsm
 deduplication
-deep
 deep-security
 deep-security-manager
 deepl
@@ -1774,7 +1753,6 @@ dependencies
 dependency
 deploy
 deployment
-deploymentconfig
 deploymentmanager
 deploymentresourceprovider
 depute
@@ -1811,7 +1789,6 @@ devicecode
 deviceid
 deviceprovisioningservice
 devices
-deviceupdate
 devolutions
 devops
 devops psmodule
@@ -1860,6 +1837,7 @@ directrouting
 direnv
 dirkjan
 dirname
+dirsync
 disa
 disable
 disable-internet
@@ -1997,7 +1975,6 @@ downloadoffice
 downloadofficertool
 downloads
 downloadyoutubevideo
-dpa
 dpapi
 dps
 dq
@@ -2011,7 +1988,6 @@ drift
 driftmonitor
 drive
 drive letter
-drivemap
 driver
 driverpacks
 drivers
@@ -2030,7 +2006,6 @@ drsrule
 drupal
 drush
 dry
-ds
 ds-client
 ds-utils
 dsa
@@ -2054,6 +2029,7 @@ dsutils
 dtc
 dts
 dtsx
+dtx
 du
 dual-stack
 duck
@@ -2089,6 +2065,7 @@ dynamics365fo
 dynamics365sales
 dynamics365server
 dynamicsax
+dynamicsecuritygroups
 dynamicsnav
 dynamodb
 dynatrace
@@ -2162,7 +2139,6 @@ emissions
 emoji
 emotion
 empire
-empty
 emwarehouse
 enable
 enable-internet
@@ -2233,7 +2209,6 @@ errors
 errorview
 eryph
 esae
-escape
 escapecodes
 escapesequences
 escaping
@@ -2377,12 +2352,13 @@ externalip
 extract
 extraction
 extractor
-extreme-networks
 eztheme
 f
 f#
 f5
 facebook
+factoryorchestrator
+factoryorchestratorclient
 facts
 faf
 failedlogin
@@ -2504,7 +2480,6 @@ findplace
 findproxyforurl
 fine-print
 fine-tuning
-finops
 firebird
 firefox
 firewall
@@ -2535,6 +2510,7 @@ flexdesk
 flickr
 flowchart
 flowy
+fluidrelay
 flyway
 fmg
 focus
@@ -2543,7 +2519,6 @@ fog
 fogapi
 fogproject
 folder
-folderpermission
 folders
 font
 fonts
@@ -2662,7 +2637,6 @@ gcloud
 gcp
 gcs
 gdpr
-gedit
 gem
 gemini
 geminiprotocol
@@ -2708,12 +2682,10 @@ get-dtdriverpack
 get-dtdriverupdates
 get-dtscriptnewcmpackagefromdriverpackpackagedefinitionsms
 get-dtscriptnewcmtasksequencefromdriverpackpackagedefinitionsms
-get-emptyadgroups
 get-externalip
 get-firmwaretype
 get-help
 get-history
-get-iislog
 get-openfile
 get-openfiles
 get-pass
@@ -2724,8 +2696,6 @@ get-pinneditem
 get-samcmassignedsite
 get-samcmcurrentmanagementpoint
 get-samplingperiod
-get-stalecomps
-get-staleusers
 get-thermalstamp
 get-uptime
 getfirmwareenvironmentvariable
@@ -2778,6 +2748,7 @@ gmap
 gmaps
 gmsa
 gnucash
+gnuwin32
 go
 gobright
 godaddy
@@ -2833,7 +2804,6 @@ graphics
 graphite
 graphql
 graphs
-graphservices
 graphviz
 graylog
 greenplum
@@ -2856,7 +2826,6 @@ grr
 gsuite
 gtx1080ti
 guardedfabric
-guardicore
 gubbins
 guest
 guestconfiguration
@@ -2929,7 +2898,6 @@ hcm
 hcx
 hdfs
 hdinsight
-hdinsightonaks
 header
 headhunter
 health
@@ -2961,13 +2929,11 @@ helper-functions
 helperfunctions
 helpers
 helpfile
-heml
 here
 hewlett
 hewlett-packard
 hewlett-packardenterprise
 hex
-hexdump
 hg
 hibernate
 hibernation
@@ -3335,6 +3301,7 @@ ipa
 ipaddress
 ipam
 ipbroadcast
+ipc
 ipcalc
 ipcalculator
 ipconfig
@@ -3432,7 +3399,6 @@ join
 join-object
 jojoba
 joke
-jotform
 journal
 joyride
 jpg
@@ -3529,7 +3495,6 @@ kraken
 krbtgt
 krick
 kschemaplugin
-kubclt
 kube
 kubectl
 kubectx
@@ -3575,7 +3540,6 @@ laserbeams
 last
 last.fm
 lastfm
-lastlogon
 lastpass
 latency
 latestupdate
@@ -3614,7 +3578,6 @@ leiningnen
 lenel
 length
 lenovo
-less
 lesspass
 letsencrypt
 lf
@@ -3691,7 +3654,6 @@ local-caching
 local-policy
 localadmin
 localconfigurationmanager
-localdb
 locale
 localgroup
 localgroupmember
@@ -3730,7 +3692,6 @@ logger
 logging
 loggingingestion
 loggingsearch
-loggly
 logic
 logicapp
 logicapps
@@ -3854,7 +3815,6 @@ manifest
 manual
 map
 mapapi
-mapi
 mappeddrives
 mapper24
 mapping
@@ -3866,7 +3826,6 @@ markdig
 markdown
 markdownrender
 marketing
-marketo
 marketplace
 marketplaceordering
 marketplacepublisher
@@ -3919,7 +3878,6 @@ mdm
 mdop
 mdt
 mdx
-me4024
 mean
 measure
 measure-loc
@@ -3978,7 +3936,6 @@ mi
 micro-orm
 microfocus
 microk8s
-microservices
 microsoft
 microsoft_365
 microsoft_azure
@@ -3993,12 +3950,13 @@ microsoft.graph
 microsoft.graph.api
 microsoft.identity.client
 microsoft.identitymodel.clients.activedirectory
+microsoft.logic
+microsoft.logic/workflows
 microsoft.web.administration
 microsoft365
 microsoft365dsc
 microsoftauthenticationlibrary
 microsoftazure
-microsoftcloud
 microsoftdefender
 microsoftdefenderatp
 microsoftdeploymenttoolkit
@@ -4090,7 +4048,6 @@ monitoringsolutions
 monthlyupdate
 moodle
 moonshot
-more
 mosaic
 motd
 motivation
@@ -4192,7 +4149,6 @@ mutation
 mute
 mutex
 mva
-mvn
 mvp
 mx
 mxlookup
@@ -4240,7 +4196,6 @@ nec-infrared-transmission-protocol
 nederland
 nedyalkov
 neo4j
-neovim
 neptune
 nerdfonts
 nerdio
@@ -4291,6 +4246,7 @@ networkloadbalancer
 networkpolicyserver
 networkscan
 networksecurity
+networksecuritygroup
 networkshares
 netwrix
 new
@@ -4360,7 +4316,6 @@ nosql
 note
 notebook
 notepad
-notepad2
 noteproperty
 notes
 notification
@@ -4446,9 +4401,11 @@ octopus.client
 octopusdeploy
 octopusenergy
 ocvp
+od4b
 oda
 odata
 odbc
+odfb
 odin
 odoo
 oem-charset
@@ -4494,6 +4451,7 @@ oncommand-insight
 ondemand
 one
 onedrive
+onedriveforbusiness
 oneget
 oneidentity
 onelogin
@@ -4518,7 +4476,6 @@ ontap_pstk_9.8.0
 onyphe
 onyphe.io
 oob
-oop
 op
 opa
 opc
@@ -4569,7 +4526,6 @@ optionstring
 opus
 oracle
 oraclecloudinfrastructure
-oraculum
 orbital
 orchestration
 orchestrator
@@ -4612,6 +4568,7 @@ osx
 otp
 ou
 ou-object
+oui-search
 out-consolegridview
 out-default
 out-gridview
@@ -4787,7 +4744,6 @@ php
 phpapam
 pi
 picker
-pico
 picture
 pictures
 pid
@@ -4920,7 +4876,6 @@ poshy-net
 poshy-notify-send
 poshy-sh-isms
 poshy-sshconfig
-poshy-viewer-finder
 poshy-wrap
 poshy-wrap-apt
 poshy-wrap-argcomplete
@@ -4940,6 +4895,7 @@ poshy-wrap-git-lfs
 poshy-wrap-golang
 poshy-wrap-helm
 poshy-wrap-kubectl
+poshy-wrap-maven
 poshy-wrap-nginx
 poshy-wrap-nmap
 poshy-wrap-npm
@@ -5517,8 +5473,6 @@ pscommand_forgit-reset-head
 pscommand_forgit-revert-commit
 pscommand_forgit-stash-push
 pscommand_forgit-stash-show
-pscommand_format-batcatstyle
-pscommand_format-lesstermcapenv
 pscommand_format-viewerinvocationsh
 pscommand_g
 pscommand_ga
@@ -5678,7 +5632,6 @@ pscommand_get-netipaddresspublic
 pscommand_get-netipaddresssimple
 pscommand_get-pwshaliasdefinition
 pscommand_get-pwshfunctiondefinition
-pscommand_get-viewer
 pscommand_geun
 pscommand_gexport
 pscommand_gf
@@ -6177,6 +6130,17 @@ pscommand_invoke-kubectlrolloutundo
 pscommand_invoke-kubectlrunnetshoot
 pscommand_invoke-kubectlscaledeployment
 pscommand_invoke-kubectlscalestatefulset
+pscommand_invoke-mavencleaninstall
+pscommand_invoke-mavencleaninstallskiptests
+pscommand_invoke-mavencleanpackage
+pscommand_invoke-mavencleanpackageskiptests
+pscommand_invoke-mavendependencytree
+pscommand_invoke-mavenhelpeffectivepom
+pscommand_invoke-maveninstall
+pscommand_invoke-mavenpackage
+pscommand_invoke-mavenreleaseperform
+pscommand_invoke-mavenreleaseprepare
+pscommand_invoke-mavenreleaserollback
 pscommand_invoke-npmbinmungedpath
 pscommand_invoke-npminfo
 pscommand_invoke-npminit
@@ -6590,11 +6554,22 @@ pscommand_lsn
 pscommand_lsr
 pscommand_lt
 pscommand_mcd
+pscommand_mci
+pscommand_mcisk
+pscommand_mcp
+pscommand_mcpsk
+pscommand_mdep
 pscommand_measure-envvarchanges
 pscommand_merge-gitrepositoryfromoriginbranchmain
 pscommand_merge-gitrepositoryfromupstreambranchmain
+pscommand_mi
 pscommand_mirrorsite
 pscommand_move-gittrackedfiles
+pscommand_mp
+pscommand_mpom
+pscommand_mrperf
+pscommand_mrprep
+pscommand_mrrb
 pscommand_myip
 pscommand_new-gitbranchfromstash
 pscommand_new-gitbranchtracked
@@ -7194,8 +7169,6 @@ psfunction_forgit-reset-head
 psfunction_forgit-revert-commit
 psfunction_forgit-stash-push
 psfunction_forgit-stash-show
-psfunction_format-batcatstyle
-psfunction_format-lesstermcapenv
 psfunction_format-viewerinvocationsh
 psfunction_gdv
 psfunction_get-aptinstalledpackages
@@ -7263,7 +7236,6 @@ psfunction_get-netipaddresspublic
 psfunction_get-netipaddresssimple
 psfunction_get-pwshaliasdefinition
 psfunction_get-pwshfunctiondefinition
-psfunction_get-viewer
 psfunction_git_blame_line
 psfunction_git_checkout_child
 psfunction_git_checkout_parent
@@ -7572,6 +7544,17 @@ psfunction_invoke-kubectlrolloutundo
 psfunction_invoke-kubectlrunnetshoot
 psfunction_invoke-kubectlscaledeployment
 psfunction_invoke-kubectlscalestatefulset
+psfunction_invoke-mavencleaninstall
+psfunction_invoke-mavencleaninstallskiptests
+psfunction_invoke-mavencleanpackage
+psfunction_invoke-mavencleanpackageskiptests
+psfunction_invoke-mavendependencytree
+psfunction_invoke-mavenhelpeffectivepom
+psfunction_invoke-maveninstall
+psfunction_invoke-mavenpackage
+psfunction_invoke-mavenreleaseperform
+psfunction_invoke-mavenreleaseprepare
+psfunction_invoke-mavenreleaserollback
 psfunction_invoke-npmbinmungedpath
 psfunction_invoke-npminfo
 psfunction_invoke-npminit
@@ -8185,7 +8168,6 @@ pwshfw
 pwshrc
 pxedistributionpoint
 pyenv
-pygmentize
 pylint
 pyranja
 python
@@ -8229,7 +8211,6 @@ quickbase
 quickbooks
 quicksetup
 quiz
-qumulo
 quota
 quote
 quoteoftheday
@@ -8341,7 +8322,6 @@ redkite
 redseal
 redshift
 redteaming
-redundancy
 refactor
 refactoring
 refeds
@@ -8513,7 +8493,6 @@ rhapsody
 ribbon
 ribcl
 rightjoin
-rights
 rightsizing
 rightsmanagement
 ripe
@@ -8587,6 +8566,7 @@ runas
 runbook
 runbooks
 runbookstudio
+runcommand
 rundeck
 runner
 runspace
@@ -8629,7 +8609,6 @@ saml psmodule
 saml2
 sample
 sampler
-san
 sand
 sandbox
 sanitization
@@ -8694,6 +8673,7 @@ scom
 sconfig
 scoop
 scope
+score
 scouterna
 scouternasetjanster
 scoutnet
@@ -8733,7 +8713,6 @@ scrubber
 scsm
 scuba
 sd
-sddl
 sdk
 sdn
 sdp
@@ -8782,6 +8761,7 @@ securityassertionmarkuplanguage
 securitycenter
 securitycompliancecenter
 securitygroup
+securitygroups
 securityinsights
 securityoptions
 securitypolicydsc
@@ -8879,7 +8859,6 @@ sessionconfiguration
 sessionize
 sessions
 set
-set_bios
 set-alias
 set-dnsservers
 set-githubsecrets
@@ -8892,7 +8871,6 @@ set-psbreakpoint
 set-psenv
 set-randompass
 set-type
-setbios
 sets
 setting
 settings
@@ -8914,6 +8892,7 @@ shacrypt
 shadow
 shadowcopy
 shadowcopybackups
+shadowgroups
 shanghaitech
 shard
 share
@@ -9253,7 +9232,6 @@ staging
 stale
 stan
 stanc
-standalone
 standard
 standarderror
 standardoutput
@@ -9343,7 +9321,6 @@ su
 sub
 sub-directory
 sub-menu
-subatomix
 subjectname
 sublimetext
 submission
@@ -9368,7 +9345,6 @@ sudo
 sugar
 sugarcrm
 suggestion
-suitecrm
 sullivan
 summary
 sumologic
@@ -9405,6 +9381,7 @@ symantec
 symbolic
 symbolic_link
 symboliclink
+symbols
 symbolservers
 symlink
 symmetric
@@ -9466,8 +9443,6 @@ tabexpansion2
 tablacus
 table
 tableau
-tableauserver
-tabler
 tables
 tablestorage
 tabs
@@ -9812,6 +9787,7 @@ ud-breadcrumb
 ud-breadcrumbitem
 ud-burger
 ud-button
+ud-buttonloader
 ud-buttonparticle
 ud-calendar
 ud-circle
@@ -9850,6 +9826,7 @@ ud-step
 ud-stepbar
 ud-stickynavbar
 ud-tagcloud
+ud-timeline
 ud-timeout
 ud-tool
 ud-toploader
@@ -10207,7 +10184,6 @@ wallet
 wallpaper
 wallpapers
 wannacry
-wansi
 wap
 wapack
 wapi
@@ -10231,7 +10207,6 @@ wdapi
 wds
 weather
 weaviate
-weaviatenet
 web
 web-search
 web.config
@@ -10342,7 +10317,6 @@ windows10mui
 windows11
 windows365
 windowsadmincenter
-windowsaudit
 windowsbuilds
 windowscredential
 windowscredentialmanager
@@ -10439,7 +10413,6 @@ workingdays
 workinghours
 workingtime
 workload-automation
-workloads
 workpoint
 workrequests
 worksheet
@@ -10474,7 +10447,6 @@ write-loganalytics
 write-message
 write-progress
 write-slog
-write-wansi
 writeaccess
 writelog
 writemanager
@@ -10485,6 +10457,7 @@ wsapi
 wsb
 wsl
 wsl2
+wsl2 psmodule psedition_core
 wsman
 wsmanlistener
 wso2
@@ -10533,7 +10506,6 @@ xin
 xkcd
 xliff
 xlsx
-xmc
 xml
 xml-rpc
 xml-transform
@@ -10578,7 +10550,6 @@ zabbixps
 zap
 zcat
 zendesk
-zerotrust
 zerto
 zigbee
 zip
