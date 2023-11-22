@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Wednesday, 22 November 2023 09:52:29 UTC
+Updated: Wednesday, 22 November 2023 17:52:32 UTC
 
 .bat
 .env
@@ -16,7 +16,6 @@ Updated: Wednesday, 22 November 2023 09:52:29 UTC
 **psedition_desktop**
 **windows**
 🍄
-🍣
 💩
 10
 11
@@ -33,7 +32,6 @@ Updated: Wednesday, 22 November 2023 09:52:29 UTC
 2010
 2013
 2016
-2018
 2019
 21vianet
 24-bit
@@ -246,6 +244,7 @@ aircall
 airpower
 airpwr
 airtable
+ais
 aispeech
 aivision
 ajustee
@@ -317,6 +316,7 @@ analyzerrules
 anchor
 and
 android
+anet
 anf
 anglesharp
 angular
@@ -339,7 +339,6 @@ any
 anyconnect
 anypackage
 anypoint
-anywhere
 aovpn psmodule
 apache
 apachekafka
@@ -432,7 +431,6 @@ archivial-cloud-backup
 archlinux
 arcresourcebridge
 arcus
-area
 arg
 argcomplete
 argument
@@ -441,7 +439,6 @@ arguments
 arm
 arm-json
 arm-templates
-armor
 armtemplate
 armtemplates
 arp
@@ -487,6 +484,7 @@ assets
 assistance
 association
 ast
+astronomy
 asv
 asymmetric
 async
@@ -498,7 +496,6 @@ atlas
 atlassian
 atlassiancli
 atlassianps
-atmosphere
 atom
 atp
 atrium
@@ -546,7 +543,6 @@ autoenv
 autograph
 autoload
 autologon
-automai
 automanage
 automate
 automated
@@ -599,7 +595,6 @@ axis
 axium
 az
 az-cli
-az.stackhci
 azautomation
 azcli
 azcompute
@@ -620,8 +615,8 @@ azsk
 azsql
 azstackhci
 azstate
-azsubnet
 aztools
+azts
 azuead
 azure
 azure_ad
@@ -638,7 +633,6 @@ azure-resource-graph
 azure-ssis
 azureactivedirectory
 azuread
-azureadbackupandrestore
 azureadconnect
 azureadgraph
 azureadtoolkit
@@ -788,8 +782,6 @@ bind
 binding
 bindings
 bing
-bingmap
-bingmaps
 binomial
 bios
 bios_settings
@@ -811,8 +803,6 @@ biztalkdeploymentframework
 bks
 black
 blackbaud
-blackberry
-blackberryuem
 blackbox
 blacklist
 blade
@@ -861,6 +851,7 @@ boundarygroups
 bounty
 box
 bpmn
+brainy
 branch
 brave
 brawlapi
@@ -912,7 +903,6 @@ bulletin
 bullhorn
 bundle
 bup
-burnttoast
 burpsuite
 bus
 business
@@ -932,6 +922,7 @@ bytearray
 bzip2
 c#
 c++
+ca
 cache
 caf
 cal
@@ -977,6 +968,7 @@ catapult
 catesta
 catimage
 cats
+catty
 cavium
 cb
 cblueshell
@@ -1193,7 +1185,6 @@ cloudiq
 cloudkey
 cloudmarque
 cloudmigrations
-cloudpc
 cloudservice
 cloudshell
 clueser
@@ -1272,6 +1263,7 @@ combinations
 combine
 comdata
 comic
+comical
 comics
 command
 command_line
@@ -1300,7 +1292,6 @@ comparison
 compatibility
 compile
 compiler
-complete
 completer
 completion
 completion-manager
@@ -1350,8 +1341,10 @@ configurationmanager
 configurationprofile
 configure
 confluence
+confluent
 conjecture
 connect
+connect-dtcmsite
 connect-exchangeonprem
 connect-mstsc
 connect-rdp
@@ -1371,6 +1364,7 @@ connectivity
 connectwise
 conservation
 console
+consoleguitools
 consolemenu
 consolemusic
 consumer
@@ -1404,8 +1398,10 @@ controller
 controlroom
 convereter
 converged_data_management
+conversational
 conversion
 convert
+convert-dtexceptiontomessage
 convert-movietogif
 convert-sid
 convert-windowsimage
@@ -1436,6 +1432,7 @@ coreepower.config
 coreepower.lib
 coreepower.module
 coreepower.net.soundcloudexplode
+coreposh
 coreutils
 corona
 cortex
@@ -1622,7 +1619,6 @@ dashboardservice
 dast
 data
 data_protection
-data_security
 data-archive
 data-backup
 data-tier
@@ -1730,6 +1726,7 @@ deep
 deep-security
 deep-security-manager
 deepl
+deepvisibility
 def
 default
 defaultparameter
@@ -1752,7 +1749,6 @@ delivery
 dell
 dellemc
 delta
-demand
 demo
 democratie
 demonstration
@@ -1796,14 +1792,12 @@ devexpress
 deviation
 device
 devicecode
-deviceid
 deviceprovisioningservice
 devices
 deviceupdate
 devolutions
 devops
 devops psmodule
-devsecninja
 devsecops
 devspaces
 devtestlabs
@@ -1970,7 +1964,6 @@ dotenv
 dotfile
 dotfiles
 dotnet
-dotnet-cli
 dotnettool
 dotps1
 dots
@@ -2002,7 +1995,11 @@ drive
 drive letter
 drivemap
 driver
+driverpacks
 drivers
+drivertool
+drivertool.powercli
+driverupdates
 drm
 drone.io
 drop
@@ -2083,6 +2080,7 @@ dynatrace
 dynatraceobservability
 dz
 e-mail
+e1
 easy
 easy-to-use
 easylife365
@@ -2171,6 +2169,7 @@ energy
 engagement
 engine
 engineevent
+english
 enhancement
 enrichers
 enrichment
@@ -2288,6 +2287,7 @@ example
 examples
 excel
 exception
+exceptionless
 exchange
 exchange_online
 exchange-rates
@@ -2407,12 +2407,10 @@ feed
 fetch
 ffmpeg
 fhirservice
-fiche
 fiddler
 fido
 fido2
 fieldglass
-fifa
 figlet
 file
 file-association
@@ -2486,8 +2484,6 @@ find-file
 find-path
 finddownloadlinkfromwebsite
 findfile
-findlocation
-findplace
 findproxyforurl
 fine-print
 fine-tuning
@@ -2502,6 +2498,7 @@ first
 fisher
 fissionproducts
 fitbit
+fits
 five
 five9
 fix-log
@@ -2520,6 +2517,7 @@ flex-query
 flexdesk
 flickr
 flowchart
+flowy
 fluidrelay
 flyway
 fmg
@@ -2534,7 +2532,6 @@ folders
 font
 fonts
 foo
-football
 for
 force
 forcedelete
@@ -2549,6 +2546,7 @@ forgit
 forgiveness
 form
 format
+format-numberedlist
 formatdata
 formatformat-tableformat-listformat-wideformat-customformat-defaultout-defaultout-fileout-hostout-printerout-string
 formatting
@@ -2646,7 +2644,6 @@ gci
 gcloud
 gcp
 gcs
-gdpr
 gedit
 gem
 gemini
@@ -2668,11 +2665,8 @@ genericartifactscontent
 genetic-algorithm
 genp
 genxdev
-geo
 geocache
 geocaching
-geoencode
-geoencoding
 geoip
 geolocation
 geosearching
@@ -2688,10 +2682,14 @@ get-criticaltrippoint
 get-currentcputemperature
 get-dellwarranty
 get-directorycontents
+get-dtcmdevicemodel
+get-dtdriverpack
+get-dtdriverupdates
+get-dtscriptnewcmpackagefromdriverpackpackagedefinitionsms
+get-dtscriptnewcmtasksequencefromdriverpackpackagedefinitionsms
 get-emptyadgroups
 get-externalip
 get-firmwaretype
-get-help
 get-history
 get-iislog
 get-openfile
@@ -2712,6 +2710,8 @@ getfirmwareenvironmentvariable
 getfirmwaretype
 ggplot
 gh
+gh-actions
+ghactions
 ghc
 ghibli
 ghost
@@ -2720,8 +2720,6 @@ gifs
 giphy
 gist
 git
-git-client
-git-clone
 git-flow
 git-hf
 git-hubflow
@@ -2752,8 +2750,6 @@ globalentry
 globbing
 glpi
 gmail
-gmap
-gmaps
 gmsa
 gnucash
 gnuwin32
@@ -2772,8 +2768,6 @@ google-table
 googleadsv2
 googlecloudplatform
 googledrive
-googlemap
-googlemaps
 googleworkspace
 gopher
 gopher-tls
@@ -2789,8 +2783,6 @@ gping
 gpio
 gplink
 gpo
-gpo-maintenance
-gpo-tools
 gpodoc
 gpolinks
 gpp
@@ -2830,7 +2822,6 @@ groupmembership
 grouppolicy
 groups
 grouvee
-growlnotify
 grr
 gsuite
 gtx1080ti
@@ -2936,7 +2927,6 @@ help
 helpdesk
 helpdoc
 helper
-helper-functions
 helperfunctions
 helpers
 helpfile
@@ -2963,14 +2953,12 @@ highlight
 highlighting
 highrise
 hint
-hipaa
 hipb
 hipchat
 hiragana
 histogram
 history
 historyninja
-hitrust
 hive
 hivehome
 hjson
@@ -2985,7 +2973,6 @@ hl7
 hlds
 hls
 hockey
-hol
 holiday
 home
 home_automation
@@ -3040,8 +3027,6 @@ httplistener
 https
 https_proxy
 httpserver
-huawei
-huawei-ibmc-cmdlets
 hub
 hubflow
 hubot
@@ -3053,7 +3038,9 @@ hubspotps
 hudson
 hue
 humanizer
+humanly
 humor
+humorous
 hunter
 hwid
 hybrid
@@ -3081,7 +3068,6 @@ iap
 ias
 ib
 ibm
-ibmc
 ibmhttpserver
 icacl
 icinga
@@ -3168,6 +3154,7 @@ impersonation
 imperva
 import
 import-csv
+import-dtdriverpackpackagedefinitionsms
 import-modulefrompath
 import-passlist
 import-sampackagedefinitionsms
@@ -3227,7 +3214,6 @@ inspire
 inspur
 instagram
 install
-install-module
 install-windowsimage
 installation
 installationmanager
@@ -3272,6 +3258,7 @@ interval-timer
 intigua
 intranet
 intrusion
+intuitive
 intune
 intuneappwinutil
 intunestuff
@@ -3283,11 +3270,13 @@ invitation
 invocation
 invoice
 invoke
-invoke-asadmin
 invoke-asadministrator
 invoke-ascurrentuser
 invoke-automation
 invoke-build
+invoke-dtdownloaddriverpack
+invoke-dtdownloaddriverupdates
+invoke-dtdrivertool
 invoke-msbuild
 invoke-msbuildpreprocess
 invoke-vsbuild
@@ -3382,6 +3371,7 @@ javascript
 javaversion
 jboss
 jdbc
+jde
 jdedwards
 jdt
 jea
@@ -3451,7 +3441,6 @@ katakana
 kb
 kbarticle
 kdbx
-kdialog
 keenetic
 keepachangelog
 keepass
@@ -3543,6 +3532,7 @@ languagepack
 lansweeper
 laps
 laragon
+laserbeams
 last
 last.fm
 lastfm
@@ -3554,6 +3544,7 @@ latin
 latitude
 launcher
 layer
+layman
 layout
 lazywinadmin
 lbd
@@ -3564,6 +3555,7 @@ lcm
 lcminternals
 ldap
 leafs
+league
 lean
 learn
 learn-powershell
@@ -3576,6 +3568,7 @@ lease
 leftjoin
 legacy
 legacyad
+legends
 lego
 lein
 leiningnen
@@ -3608,6 +3601,7 @@ light
 lights
 lime
 limesurvey
+limit-job
 limits
 lina
 line
@@ -3659,7 +3653,6 @@ local-policy
 localadmin
 localconfigurationmanager
 localdb
-locale
 localgroup
 localgroupmember
 localization
@@ -3672,9 +3665,8 @@ lockdown
 locking
 lockoutreport
 lockscreen
+locksmith
 lockstep
-lod
-lodasoft
 log
 log-administration
 log-file
@@ -3708,6 +3700,7 @@ login-rdp
 logingestion
 loginscreen
 loginsight
+logiphys
 logistic
 logitech
 logmail
@@ -3728,6 +3721,7 @@ logstash
 logtools
 logz
 loki
+lol
 lolcat
 longfile
 longfiles
@@ -3778,6 +3772,8 @@ magnet
 mail
 mailbox
 mailchimp
+mailgroup
+mailgroupmember
 mailing
 mailkit
 mails
@@ -3792,7 +3788,6 @@ maker
 malware
 mamagedidentity
 maml
-man-highlighting
 manage
 manage-wmi
 manageability
@@ -3813,15 +3808,12 @@ managementpoint
 manager
 mangement
 manifest
-manual
 map
-mapapi
 mapi
 mappeddrives
 mapper24
 mapping
 maps
-mapsapi
 mariadb
 mark
 markdig
@@ -3899,7 +3891,6 @@ meetup.com
 meewind
 megabyte
 melamed
-meltdown
 mem
 member
 members
@@ -4189,7 +4180,6 @@ nanoleaf
 nartac
 nasdaq
 native
-natpool
 natural-language-to-code
 natural-selection
 nav
@@ -4230,6 +4220,7 @@ nets
 netsapiens
 netscaler
 netscape
+netsec
 netsh
 netspell
 netstat
@@ -4238,7 +4229,6 @@ network
 network adapter configuration operating os optical sensor physical pointing portable printer processor cpu refrigaration cooling cooler removable usb sd ram dimm scsi sound audio card enclosure tape temperature touchpad touch pad touchscreen screen trackball trackpoint video graphics voltage psmodule
 network-credentials
 network-info
-networkanalytics
 networkcloud
 networkcontroller
 networkdiscovery
@@ -4257,6 +4247,10 @@ networkshares
 netwrix
 new
 new-completionresult
+new-dtcmpackagefromdriverpackpackagedefinitionsms
+new-dtcmtasksequencefromdriverpackpackagedefinitionsms
+new-dynamicdictionary
+new-dynamicparameter
 new-githubrelease
 new-item
 new-itemproperty
@@ -4324,10 +4318,8 @@ notes
 notification
 notificationhubs
 notifications
-notifu
 notify
 notify-send
-notify-send-wsl
 nova
 npgsql
 npm
@@ -4369,7 +4361,6 @@ nva
 nvdimm
 nvdimm-n
 nvm
-nvm-window
 nxt
 nyse
 nzb
@@ -4393,6 +4384,7 @@ obs
 observeit
 oce
 ocg
+ocgv
 oci
 ocicontrolcenter
 ocr
@@ -4443,7 +4435,6 @@ omnisphere
 omnistack
 oms
 omsagent
-on
 on-demand
 on-premise
 onboard
@@ -4478,7 +4469,6 @@ ontap_pstk_9.8.0
 onyphe
 onyphe.io
 oob
-oop
 op
 opa
 opc
@@ -4691,7 +4681,6 @@ pays
 pbench
 pc
 pcapng
-pci-dss
 pcloud
 pcsetup
 pcsv
@@ -4736,6 +4725,7 @@ pfy
 pgp
 phabricator
 philips
+philosophical
 philpritchett
 phishing
 phoenix
@@ -4744,6 +4734,7 @@ photo
 photograph
 photos
 php
+phpapam
 pi
 picker
 pico
@@ -4775,7 +4766,6 @@ pixoo
 pki
 pki psmodule
 pks
-place
 places
 plain
 plan
@@ -4791,7 +4781,6 @@ player
 playlists
 pleasant
 pleasantpasswordserver
-plex
 plist
 plog
 plot
@@ -4850,7 +4839,6 @@ posh-chocobear
 posh-direnv
 posh-git
 posh-ribbon
-posh-ssh
 poshbot
 poshcommence
 poshevents
@@ -4876,7 +4864,6 @@ poshy-ls-isms
 poshy-lucidity
 poshy-multimedia
 poshy-net
-poshy-notify-send
 poshy-sh-isms
 poshy-sshconfig
 poshy-viewer-finder
@@ -6604,7 +6591,6 @@ pscommand_nmap_ping_through_firewall
 pscommand_nmap_slow
 pscommand_nmap_traceroute
 pscommand_nmap_web_safe_osscan
-pscommand_notify-send-fallback
 pscommand_npm-disable-proxy
 pscommand_npm-enable-proxy
 pscommand_npm-show-proxy
@@ -7875,7 +7861,6 @@ psfunction_nmap_ping_through_firewall
 psfunction_nmap_slow
 psfunction_nmap_traceroute
 psfunction_nmap_web_safe_osscan
-psfunction_notify-send-fallback
 psfunction_npm-disable-proxy
 psfunction_npm-enable-proxy
 psfunction_npm-show-proxy
@@ -8150,6 +8135,7 @@ pulumi
 punycode
 puppet
 puppetdb
+puppy
 pure
 pure1
 pureservice
@@ -8252,7 +8238,6 @@ randompassword
 randomuser
 randomusers
 rangescan
-ransomware_recovery
 ras
 raspberry-pi
 raspberrypi
@@ -8260,8 +8245,6 @@ raspbian
 rate
 rate-limit
 rates
-rating
-ratings
 ravendb
 razzle
 rbac
@@ -8312,6 +8295,7 @@ recurse
 recursion
 recursivefilesandfoldersdownload
 recursivefilesandfoldersupload
+recyclebin
 red
 redact
 redaction
@@ -8511,6 +8495,7 @@ ripe
 risk
 riskiq
 riskpro
+risksense
 rivermeadow
 rlan
 rmcp
@@ -8567,7 +8552,6 @@ rt
 rtu
 rubber
 rubrik
-rubriksecuritycloud
 ruby
 rule
 rulesengine
@@ -8583,8 +8567,9 @@ runner
 runspace
 runspacepool
 runspaces
+runtimedefinedparameter
+runtimedefinedparameterdictionary
 runway
-russia
 rust
 rust-lang
 ryanairps
@@ -8601,7 +8586,6 @@ safari
 safe
 safeguard
 sage
-saggiehaim
 sailpoint
 sale
 sales
@@ -8631,6 +8615,7 @@ sarcasm
 sarif
 sas
 sat
+satirical
 save
 savedcreds
 savefile
@@ -8677,7 +8662,6 @@ schulverwaltung
 science
 scissors
 scm
-scmanager
 scom
 sconfig
 scoop
@@ -8722,7 +8706,6 @@ scrubber
 scsm
 scuba
 sd
-sddl
 sdk
 sdn
 sdp
@@ -8733,11 +8716,9 @@ searchengine
 searcher
 searching
 searchmanager
-searchplace
 searchquery
 searchstring
 searchsuffixlist
-secaas
 secedit
 secret
 secretmanagement
@@ -9044,7 +9025,6 @@ smtpoauth
 smtpsasl
 smtpsecure
 snap
-snapchat
 snapping
 snapshot
 snapshots
@@ -9067,7 +9047,6 @@ snssqlitepsmodule
 sntp
 soap
 soc
-soccer
 social
 social-media
 socialmedia
@@ -9135,8 +9114,6 @@ specify
 spectre
 spectrumconnect
 spectrumcontrolbase
-speculation
-speculationcontrol
 speech
 speed
 speedometer
@@ -9342,7 +9319,6 @@ submission
 subnet
 subnet-calculator
 subnetcalulator
-subnetdetails
 subnetmapping
 subnetmask
 subnetmaths
@@ -9376,7 +9352,7 @@ surround
 survey
 surveymonkey
 sus
-sushi
+suspensive
 svesavov
 svetoslav
 svg
@@ -9537,12 +9513,10 @@ tenable.sc
 tenant
 tenantmanagercontrolplane
 teradata
-termbin
 terminal
 terminal-interface
 terminal-services
 terminal.gui
-terminalnotifier
 terminalvelocity
 termset
 terraform
@@ -9729,6 +9703,7 @@ trend-micro
 trendmicro
 trevor
 trevorsullivan
+triangle
 tribeloo
 trick
 tricks
@@ -9820,7 +9795,6 @@ ud-funnel
 ud-hero
 ud-illustration
 ud-input
-ud-licensed
 ud-loadingoverlay
 ud-minesweeper
 ud-mouseparticle
@@ -9861,7 +9835,6 @@ udr
 udthememode
 udword
 uefi
-uem
 ui
 ui/ux
 ui7
@@ -9991,7 +9964,6 @@ vagrant
 vale
 validate
 validate-dcb
-validatedsolutions
 validatemapsconnectivity
 validation
 validator
@@ -10119,12 +10091,10 @@ vmware
 vmware.vsphere
 vmwarecloudfoundation
 vmwaredrs
-vmwarevalidatedsolutions
 vmwcluster
 vmwdatacenter
 vmwfolder
 vmwvmhost
-vnet
 vnmonitoring
 vnugglets
 vnugglets.com
@@ -10186,7 +10156,6 @@ vum
 vvx
 vxrail
 w32time
-w365
 w3svc
 w3w
 waa
@@ -10214,6 +10183,7 @@ warrenty
 wasabi
 watch
 watchmen
+watery
 wave
 wayk
 waykbastion
@@ -10265,8 +10235,8 @@ websphereappserver
 websphereportal
 webtest
 webtesting
+webtime
 wec
-wecutil
 weekday
 wef
 weixin
@@ -10443,7 +10413,6 @@ workspaceone
 workspaces
 workstation
 world
-worldcup
 worryfreebusinesssecurity
 wow
 wpad
@@ -10554,6 +10523,7 @@ yahoo
 yahw
 yamaha
 yaml
+yandex
 yapg
 yarn
 yetanotherhelloworld
@@ -10571,6 +10541,7 @@ zabbixps
 zap
 zcat
 zendesk
+zerotrust
 zerto
 zigbee
 zip
@@ -10594,6 +10565,5 @@ zypper
 ひらがな
 ローマ字
 全角半角変換
-寿司
 日本語
 湯婆婆
