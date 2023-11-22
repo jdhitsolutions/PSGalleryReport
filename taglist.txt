@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Wednesday, 22 November 2023 02:08:06 UTC
+Updated: Wednesday, 22 November 2023 09:52:29 UTC
 
 .bat
 .env
@@ -246,7 +246,6 @@ aircall
 airpower
 airpwr
 airtable
-ais
 aispeech
 aivision
 ajustee
@@ -318,7 +317,6 @@ analyzerrules
 anchor
 and
 android
-anet
 anf
 anglesharp
 angular
@@ -439,6 +437,7 @@ arg
 argcomplete
 argument
 argumentcompleter
+arguments
 arm
 arm-json
 arm-templates
@@ -525,6 +524,7 @@ authenticate
 authentication
 authenticationcertificate
 authenticode
+authn
 author
 authoring
 authoringtools
@@ -533,6 +533,7 @@ authority
 authorization
 authorizationheaders
 authorize.net
+authz
 autify
 auto
 auto_cd
@@ -570,6 +571,7 @@ availability
 availabilityset
 avalara
 avalonia
+avatar
 avd
 ave
 avepoint
@@ -597,6 +599,7 @@ axis
 axium
 az
 az-cli
+az.stackhci
 azautomation
 azcli
 azcompute
@@ -619,7 +622,6 @@ azstackhci
 azstate
 azsubnet
 aztools
-azts
 azuead
 azure
 azure_ad
@@ -640,6 +642,7 @@ azureadbackupandrestore
 azureadconnect
 azureadgraph
 azureadtoolkit
+azureappconfiguration
 azureas
 azureautomation
 azureautomationaccount
@@ -858,7 +861,6 @@ boundarygroups
 bounty
 box
 bpmn
-brainy
 branch
 brave
 brawlapi
@@ -930,7 +932,6 @@ bytearray
 bzip2
 c#
 c++
-ca
 cache
 caf
 cal
@@ -976,7 +977,6 @@ catapult
 catesta
 catimage
 cats
-catty
 cavium
 cb
 cblueshell
@@ -994,6 +994,7 @@ cd-up
 cd+
 cdable_vars
 cdata
+cdb
 cdi
 cdm
 cdn
@@ -1018,6 +1019,7 @@ centurylinkcloud
 cer
 cert
 certbasedauth
+certera
 certes
 certificate
 certificateauthority
@@ -1270,7 +1272,6 @@ combinations
 combine
 comdata
 comic
-comical
 comics
 command
 command_line
@@ -1351,7 +1352,6 @@ configure
 confluence
 conjecture
 connect
-connect-dtcmsite
 connect-exchangeonprem
 connect-mstsc
 connect-rdp
@@ -1371,7 +1371,6 @@ connectivity
 connectwise
 conservation
 console
-consoleguitools
 consolemenu
 consolemusic
 consumer
@@ -1405,10 +1404,8 @@ controller
 controlroom
 convereter
 converged_data_management
-conversational
 conversion
 convert
-convert-dtexceptiontomessage
 convert-movietogif
 convert-sid
 convert-windowsimage
@@ -1438,7 +1435,6 @@ coreepower.common
 coreepower.config
 coreepower.lib
 coreepower.module
-coreepower.net
 coreepower.net.soundcloudexplode
 coreutils
 corona
@@ -1618,7 +1614,6 @@ daily
 dane
 dangling
 dapr
-dare
 dark
 dash
 dashboard
@@ -1651,6 +1646,7 @@ datacollectionrule
 dataconduit
 dataconnectivity
 datadog
+dataexchange
 dataexplorer
 datafactory
 dataflow
@@ -1734,7 +1730,6 @@ deep
 deep-security
 deep-security-manager
 deepl
-deepvisibility
 def
 default
 defaultparameter
@@ -2007,11 +2002,7 @@ drive
 drive letter
 drivemap
 driver
-driverpacks
 drivers
-drivertool
-drivertool.powercli
-driverupdates
 drm
 drone.io
 drop
@@ -2050,6 +2041,7 @@ dts
 dtsx
 dtx
 du
+dual-stack
 duck
 duckduckgo
 dudckduckgo
@@ -2084,13 +2076,13 @@ dynamics365fo
 dynamics365sales
 dynamics365server
 dynamicsax
+dynamicsecuritygroups
 dynamicsnav
 dynamodb
 dynatrace
 dynatraceobservability
 dz
 e-mail
-e1
 easy
 easy-to-use
 easylife365
@@ -2179,7 +2171,6 @@ energy
 engagement
 engine
 engineevent
-english
 enhancement
 enrichers
 enrichment
@@ -2297,7 +2288,6 @@ example
 examples
 excel
 exception
-exceptionless
 exchange
 exchange_online
 exchange-rates
@@ -2524,12 +2514,12 @@ flasharray
 flashblade
 flatfile
 flatten
+fleetsoftwareupdate
 flex
 flex-query
 flexdesk
 flickr
 flowchart
-flowy
 fluidrelay
 flyway
 fmg
@@ -2539,12 +2529,14 @@ fog
 fogapi
 fogproject
 folder
+folderpermission
 folders
 font
 fonts
 foo
 football
 for
+force
 forcedelete
 foreach
 foreach-object
@@ -2557,7 +2549,6 @@ forgit
 forgiveness
 form
 format
-format-numberedlist
 formatdata
 formatformat-tableformat-listformat-wideformat-customformat-defaultout-defaultout-fileout-hostout-printerout-string
 formatting
@@ -2610,6 +2601,7 @@ fu-msauth
 fudge
 fudgepop
 fujitsu
+full
 full-metal-gnome
 fullclr
 fulljoin
@@ -2696,11 +2688,6 @@ get-criticaltrippoint
 get-currentcputemperature
 get-dellwarranty
 get-directorycontents
-get-dtcmdevicemodel
-get-dtdriverpack
-get-dtdriverupdates
-get-dtscriptnewcmpackagefromdriverpackpackagedefinitionsms
-get-dtscriptnewcmtasksequencefromdriverpackpackagedefinitionsms
 get-emptyadgroups
 get-externalip
 get-firmwaretype
@@ -2725,8 +2712,6 @@ getfirmwareenvironmentvariable
 getfirmwaretype
 ggplot
 gh
-gh-actions
-ghactions
 ghc
 ghibli
 ghost
@@ -2852,6 +2837,7 @@ gtx1080ti
 guardedfabric
 guardicore
 gubbins
+guest
 guestconfiguration
 guests
 gui
@@ -2922,6 +2908,7 @@ hcm
 hcx
 hdfs
 hdinsight
+hdinsightonaks
 header
 headhunter
 health
@@ -3066,9 +3053,7 @@ hubspotps
 hudson
 hue
 humanizer
-humanly
 humor
-humorous
 hunter
 hwid
 hybrid
@@ -3155,12 +3140,22 @@ ilocmdlets
 im
 image
 image-converter
+image-creation
+image-generation
+image-process
+image-validation
 imagebuilder
+imagecreate
+imagecreation
+imagegeneration
 imageoftheday
+imageprocess
 imageprocessing
 images
 imageservicing
 imageslide
+imagevalidate
+imagevalidation
 imagga
 imagination
 imaging
@@ -3173,7 +3168,6 @@ impersonation
 imperva
 import
 import-csv
-import-dtdriverpackpackagedefinitionsms
 import-modulefrompath
 import-passlist
 import-sampackagedefinitionsms
@@ -3192,6 +3186,7 @@ indexdb
 indicator
 inedo
 inetfwrule
+inetum
 infinity
 influx
 influxdb
@@ -3219,6 +3214,7 @@ innerjoin
 innertext
 input
 inputbox
+inputobject
 insert
 insiderthreat
 insight
@@ -3276,7 +3272,6 @@ interval-timer
 intigua
 intranet
 intrusion
-intuitive
 intune
 intuneappwinutil
 intunestuff
@@ -3293,9 +3288,6 @@ invoke-asadministrator
 invoke-ascurrentuser
 invoke-automation
 invoke-build
-invoke-dtdownloaddriverpack
-invoke-dtdownloaddriverupdates
-invoke-dtdrivertool
 invoke-msbuild
 invoke-msbuildpreprocess
 invoke-vsbuild
@@ -3390,7 +3382,6 @@ javascript
 javaversion
 jboss
 jdbc
-jde
 jdedwards
 jdt
 jea
@@ -3414,6 +3405,7 @@ join-object
 jojoba
 joke
 jotform
+journal
 joyride
 jpg
 jq
@@ -3508,6 +3500,7 @@ kql
 kraken
 krbtgt
 krick
+kschemaplugin
 kubclt
 kube
 kubectl
@@ -3520,6 +3513,7 @@ kudu
 kurukuru
 kusto
 kvm
+kvp
 l1tf
 l2tp
 lab
@@ -3549,7 +3543,6 @@ languagepack
 lansweeper
 laps
 laragon
-laserbeams
 last
 last.fm
 lastfm
@@ -3561,7 +3554,6 @@ latin
 latitude
 launcher
 layer
-layman
 layout
 lazywinadmin
 lbd
@@ -3572,7 +3564,6 @@ lcm
 lcminternals
 ldap
 leafs
-league
 lean
 learn
 learn-powershell
@@ -3585,7 +3576,6 @@ lease
 leftjoin
 legacy
 legacyad
-legends
 lego
 lein
 leiningnen
@@ -3616,7 +3606,8 @@ lifequotes
 lifestyle
 light
 lights
-limit-job
+lime
+limesurvey
 limits
 lina
 line
@@ -3681,7 +3672,6 @@ lockdown
 locking
 lockoutreport
 lockscreen
-locksmith
 lockstep
 lod
 lodasoft
@@ -3718,8 +3708,8 @@ login-rdp
 logingestion
 loginscreen
 loginsight
-logiphys
 logistic
+logitech
 logmail
 logmails
 logman
@@ -3738,7 +3728,6 @@ logstash
 logtools
 logz
 loki
-lol
 lolcat
 longfile
 longfiles
@@ -3789,8 +3778,6 @@ magnet
 mail
 mailbox
 mailchimp
-mailgroup
-mailgroupmember
 mailing
 mailkit
 mails
@@ -3829,6 +3816,7 @@ manifest
 manual
 map
 mapapi
+mapi
 mappeddrives
 mapper24
 mapping
@@ -3888,7 +3876,6 @@ mdatp
 mdb
 mdbc
 mde
-mdep
 mdm
 mdop
 mdt
@@ -4270,8 +4257,6 @@ networkshares
 netwrix
 new
 new-completionresult
-new-dtcmpackagefromdriverpackpackagedefinitionsms
-new-dtcmtasksequencefromdriverpackpackagedefinitionsms
 new-githubrelease
 new-item
 new-itemproperty
@@ -4408,7 +4393,6 @@ obs
 observeit
 oce
 ocg
-ocgv
 oci
 ocicontrolcenter
 ocr
@@ -4494,6 +4478,7 @@ ontap_pstk_9.8.0
 onyphe
 onyphe.io
 oob
+oop
 op
 opa
 opc
@@ -4751,7 +4736,6 @@ pfy
 pgp
 phabricator
 philips
-philosophical
 philpritchett
 phishing
 phoenix
@@ -4760,7 +4744,6 @@ photo
 photograph
 photos
 php
-phpapam
 pi
 picker
 pico
@@ -4858,6 +4841,7 @@ portal
 ports
 portscan
 porttest
+pos
 posershellise
 posh
 posh-acme
@@ -5047,6 +5031,7 @@ prepend
 preprocessing
 preprocessor
 presentation
+presenter
 presto
 preston-k-parsard
 prettifier
@@ -8073,6 +8058,7 @@ psjob
 psjobs
 psjobthreads
 pskeepass
+pslocalgallery
 psloganalytics
 psm
 psm1
@@ -8105,6 +8091,7 @@ psprtg
 pspublicapi
 psql
 psraw
+psreadexif
 psreadline
 psremoting
 psrepository
@@ -8163,7 +8150,6 @@ pulumi
 punycode
 puppet
 puppetdb
-puppy
 pure
 pure1
 pureservice
@@ -8326,7 +8312,6 @@ recurse
 recursion
 recursivefilesandfoldersdownload
 recursivefilesandfoldersupload
-recyclebin
 red
 redact
 redaction
@@ -8521,6 +8506,7 @@ ribcl
 rightjoin
 rights
 rightsizing
+rightsmanagement
 ripe
 risk
 riskiq
@@ -8645,7 +8631,6 @@ sarcasm
 sarif
 sas
 sat
-satirical
 save
 savedcreds
 savefile
@@ -8920,6 +8905,7 @@ shacrypt
 shadow
 shadowcopy
 shadowcopybackups
+shadowgroups
 shanghaitech
 shard
 share
@@ -9384,12 +9370,13 @@ supermarket
 support
 support-tool
 support-tools
+suppress
 supress-reboot
 surround
+survey
 surveymonkey
 sus
 sushi
-suspensive
 svesavov
 svetoslav
 svg
@@ -9509,6 +9496,7 @@ tcp
 tcp/ip
 tcpip
 tcpport
+tcprjmgmt
 tcpserver
 tcptest
 tcx
@@ -9519,6 +9507,7 @@ team
 teamcity
 teamfoundationserver
 teams
+teamsdevices
 teamservices
 teamspolicy
 teamviewer
@@ -9604,6 +9593,7 @@ tfscmdlets
 tfsec
 tftd
 tftp
+tfvars
 tfvc
 thecrushingemptinessofquotidianexistence
 theme
@@ -9678,6 +9668,7 @@ topdesk
 topgrade
 topics
 topology
+tor
 toradex
 torizon
 torrent
@@ -9708,6 +9699,7 @@ training-course
 tram
 transact
 transaction
+transactions
 transcode
 transcript
 transcripts
@@ -9737,7 +9729,6 @@ trend-micro
 trendmicro
 trevor
 trevorsullivan
-triangle
 tribeloo
 trick
 tricks
@@ -9825,10 +9816,12 @@ ud-dashboard
 ud-datepicker
 ud-field
 ud-flexytable
+ud-funnel
 ud-hero
 ud-illustration
 ud-input
 ud-licensed
+ud-loadingoverlay
 ud-minesweeper
 ud-mouseparticle
 ud-navbarsearch
@@ -9878,6 +9871,7 @@ ulid
 ultimatetool
 um
 uml
+umn
 ums
 unattend
 unattendedfile
@@ -10215,11 +10209,11 @@ wapi
 warning
 warplaneporn
 warranty
+warraty
 warrenty
 wasabi
 watch
 watchmen
-watery
 wave
 wayk
 waykbastion
@@ -10271,7 +10265,6 @@ websphereappserver
 websphereportal
 webtest
 webtesting
-webtime
 wec
 wecutil
 weekday
@@ -10361,6 +10354,7 @@ windowsinternaldatabase
 windowsinternals
 windowsiotservices
 windowsiso
+windowsmanagementframework
 windowspackagemanager
 windowsplugins
 windowspowershell
@@ -10411,6 +10405,7 @@ with
 wizard
 wkhtmltopdf
 wlan
+wmf
 wmf5
 wmi
 wmifilter
@@ -10542,6 +10537,7 @@ xmlutils
 xoauth2
 xor
 xpath
+xpendingreboot
 xpertdoc
 xpo
 xprotect
@@ -10552,12 +10548,12 @@ xtremio
 xtrude
 xunit
 xwiki
+xwindowsupdate
 xwith
 yahoo
 yahw
 yamaha
 yaml
-yandex
 yapg
 yarn
 yetanotherhelloworld
