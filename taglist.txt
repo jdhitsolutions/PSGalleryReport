@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Thursday, 23 November 2023 02:05:44 UTC
+Updated: Thursday, 23 November 2023 09:52:44 UTC
 
 .bat
 .env
@@ -106,6 +106,7 @@ actifiogo
 action
 action1
 actiongroup
+actionplan
 actions
 activate
 activation
@@ -153,6 +154,7 @@ add-on.module
 add-one
 add-path
 add-type
+addin
 addlevel
 addomainservices
 addon
@@ -426,6 +428,9 @@ architecuture
 archive
 archivedteams
 archivematica
+archivial
+archivial-backup
+archivial-cloud-backup
 archlinux
 arcresourcebridge
 arcus
@@ -453,6 +458,7 @@ aruba
 as
 asa
 asa.unittest
+asana
 asbuiltreport
 asc
 ascii
@@ -532,6 +538,7 @@ authorizationheaders
 authorize.net
 authz
 autify
+auto
 auto_cd
 auto-completion
 autoattendant
@@ -542,6 +549,7 @@ autoenv
 autograph
 autoload
 autologon
+automai
 automanage
 automate
 automated
@@ -566,7 +574,6 @@ availability
 availabilityset
 avalara
 avalonia
-avatar
 avd
 ave
 avepoint
@@ -577,7 +584,6 @@ avro
 avs
 avset
 await
-awareness
 awesome
 awp
 awpagent
@@ -594,7 +600,6 @@ axis
 axium
 az
 az-cli
-az.stackhci
 azautomation
 azcli
 azcompute
@@ -615,7 +620,6 @@ azsk
 azsql
 azstackhci
 azstate
-azsubnet
 aztools
 azts
 azuead
@@ -623,12 +627,14 @@ azure
 azure_ad
 azure_security
 azure-adx
+azure-backup
 azure-cli
 azure-data-explorer
 azure-devops
 azure-forensics
 azure-functions
 azure-pipelines
+azure-resource-graph
 azure-ssis
 azureactivedirectory
 azuread
@@ -767,6 +773,7 @@ bicepnet
 big-ip
 big-iq
 bigcommerce
+bigeval
 bigfix
 bigquery
 bikeshed
@@ -804,8 +811,6 @@ biztalkdeploymentframework
 bks
 black
 blackbaud
-blackberry
-blackberryuem
 blackbox
 blacklist
 blade
@@ -917,6 +922,7 @@ businessobjects
 businessrulesengine
 businesstime
 bxor
+bydesign
 byexample
 bynarypsmodule
 byovd
@@ -976,7 +982,6 @@ cavium
 cb
 cblueshell
 cbr
-cbz
 cchoco
 cchocoex
 ccm
@@ -990,7 +995,6 @@ cd+
 cdable_vars
 cdata
 cdb
-cdi
 cdm
 cdn
 cdp
@@ -1043,7 +1047,6 @@ chat
 chatbot
 chatgpt
 chatops
-chatroom
 chatter
 cheat
 check
@@ -1059,7 +1062,6 @@ chef-compliance
 chef-server
 chefconf2016
 chenxizhang
-cherrypy
 cherwell
 chfs
 chi
@@ -1105,7 +1107,6 @@ ciresonportal
 cis
 cisco
 ciscoucscmdlets
-ciscoucsdsc
 citation
 cite
 citrix
@@ -1163,6 +1164,7 @@ clone
 close-openfile
 cloud
 cloud_data_management
+cloud-backup
 cloud-computing
 cloud-init
 cloud-iq
@@ -1593,7 +1595,6 @@ cyberdrain
 cybereason
 cybersamurai
 cybersecurity
-cyberwatch
 cyclic
 cyclicredundancycheck
 cygwin
@@ -1626,6 +1627,8 @@ dast
 data
 data_protection
 data_security
+data-archive
+data-backup
 data-tier
 data-uri
 data-uri-converter
@@ -1799,6 +1802,7 @@ devexpress
 deviation
 device
 devicecode
+deviceid
 deviceprovisioningservice
 devices
 deviceupdate
@@ -1813,6 +1817,7 @@ dfch
 dfir
 dfs
 dfw
+dg
 dhcp
 di
 diagnostic
@@ -1963,7 +1968,6 @@ domain
 domainkey
 domainname
 domains
-domino
 donothing
 dos
 dot
@@ -2042,7 +2046,6 @@ dsregcmd
 dsutils
 dtc
 dts
-dtsx
 dtx
 du
 dual-stack
@@ -2056,7 +2059,6 @@ dump
 dupes
 duplicate
 duplicate-files
-duplicatioin
 duplication
 durable
 durabletask
@@ -2067,6 +2069,7 @@ dword
 dxexpeditions
 dynamic
 dynamic-host-configuration-protocol
+dynamicdistributiongroups
 dynamicdnsoverhttps
 dynamicparam
 dynamicparameters
@@ -2183,7 +2186,6 @@ enteo
 enter
 enterprise
 enterprise-scale
-enterprisedb
 enterprisemanager
 enterprisevoice
 entity
@@ -2223,6 +2225,7 @@ errorfile
 errors
 errorview
 eryph
+esae
 escape
 escapecodes
 escapesequences
@@ -2277,7 +2280,6 @@ eventprocessor
 events
 eventsubscription
 eventviewer
-eventwatch
 evergreen
 evernote
 everydaypowershell
@@ -2333,7 +2335,6 @@ expandframework
 expect
 experience
 experiments
-expired
 expiring
 expiry
 exploit
@@ -2422,24 +2423,16 @@ fieldglass
 fifa
 figlet
 file
-file-association
 file-copy
 file-encoding
-file-extension
-file-extension-association
 file-invalidchar
 file-matcher
 file-matching
 file-monitoring
-file-name
-file-name-extension
-file-name-extension-association
 file-server
 file-share
 file-system
 file-transform
-file-type
-file-type-association
 fileattributes
 fileencryption
 filelist
@@ -2519,7 +2512,6 @@ fixpack
 flac
 flash
 flasharray
-flashblade
 flatfile
 flatten
 fleetsoftwareupdate
@@ -2538,6 +2530,7 @@ fog
 fogapi
 fogproject
 folder
+folderpermission
 folders
 font
 fonts
@@ -2664,7 +2657,6 @@ gemlog
 gemtext
 general
 generate
-generate-dockerimagevariants
 generate-password
 generate-random-password
 generateaddress
@@ -2952,6 +2944,7 @@ help
 helpdesk
 helpdoc
 helper
+helper-functions
 helperfunctions
 helpers
 helpfile
@@ -3212,6 +3205,7 @@ info
 infoblox
 information
 information-technology
+informationbarriers
 informationtechnology
 informationtechnologyoperations
 informix
@@ -3265,7 +3259,6 @@ integration
 integrationaccount
 integrationruntime
 integrationruntimedependency
-integrationservicescatalog
 integrity
 intel
 inteligo
@@ -3317,7 +3310,6 @@ invokemethod
 io
 ios
 iot
-iotcentral
 iothub
 iothubproperties
 ip
@@ -3466,6 +3458,7 @@ karabiner
 karabiner-elements
 karma
 kaseya
+kaseyavsa
 kaspersky
 katakana
 kb
@@ -3700,6 +3693,7 @@ lockscreen
 locksmith
 lockstep
 lod
+lodasoft
 log
 log-administration
 log-file
@@ -3773,7 +3767,6 @@ lsasecrets
 lsd
 ltm
 lucd
-lucene
 lunches
 lwa
 lxca
@@ -3845,6 +3838,7 @@ manifest
 manual
 map
 mapapi
+mapi
 mappeddrives
 mapper24
 mapping
@@ -3928,6 +3922,7 @@ meetup.com
 meewind
 megabyte
 melamed
+meltdown
 mem
 member
 members
@@ -4028,6 +4023,7 @@ minimum
 mip
 mipsdk
 miration-step
+mirror
 miscellaneous
 mitigation
 mitre
@@ -4043,7 +4039,6 @@ ml.net
 mlflow
 mmdc
 mobile
-mobilenetwork
 mobilitycontroller
 mocking
 model
@@ -4109,7 +4104,6 @@ msauth
 msband
 msbi
 msbuild
-mschart
 msdeploy
 msdn
 msdtc
@@ -4194,6 +4188,7 @@ myjson
 myjson.com
 myob
 myposh
+mypstag
 mysql
 mysql-database
 mytest
@@ -4455,6 +4450,7 @@ office2019
 office365
 officedev
 officegraph
+officemessageencryption
 officertool
 offline
 offlinewimservicing
@@ -4470,6 +4466,7 @@ older
 ole
 oledb
 omaha
+ome
 omnisphere
 omnistack
 oms
@@ -4495,6 +4492,7 @@ onesubscription
 onetimesecret
 oneviewglobaldashboard
 online
+online-backup
 onlinebackup
 onprem
 onpremisesdatagatewayhamgmt
@@ -4759,6 +4757,7 @@ personalization
 personalvault
 personio
 pester
+pf
 pfe
 pfsense
 pfx
@@ -4823,13 +4822,13 @@ player
 playlists
 pleasant
 pleasantpasswordserver
-plex
 plist
 plog
 plot
 plug-n-copy
 plugin
 plugins
+pluralsight
 ply
 pmp
 pncit
@@ -4903,6 +4902,7 @@ poshy-dir-nav
 poshy-ecks
 poshy-env-proxy
 poshy-env-var
+poshy-ls-isms
 poshy-lucidity
 poshy-multimedia
 poshy-net
@@ -4913,6 +4913,7 @@ poshy-viewer-finder
 poshy-wrap
 poshy-wrap-apt
 poshy-wrap-argcomplete
+poshy-wrap-brew
 poshy-wrap-curl
 poshy-wrap-dnf
 poshy-wrap-docker
@@ -5036,7 +5037,6 @@ powerstig
 powerstore
 powertab
 powertoolcmdlets
-powertooldsc
 ppdm
 ppk
 pposh
@@ -5114,7 +5114,6 @@ profiler
 profiles
 proget
 program
-program-association
 programs
 progress
 progressbar
@@ -5130,7 +5129,6 @@ proliant
 prometheus
 prompt
 pronounceable
-proofpoint
 properties
 property
 property-list
@@ -5154,7 +5152,6 @@ prowl-notifications
 prowlapp
 proxmox
 proxmoxve
-proxsys
 proxy
 proxyfunction
 proxyfunctions
@@ -5180,7 +5177,6 @@ psadgroupmembers
 psadt
 psake
 psappdeploytoolkit
-psat
 psazd
 psbackup
 psbbix
@@ -5232,6 +5228,9 @@ pscommand_apt-list-packages
 pscommand_arch
 pscommand_asrc
 pscommand_basename
+pscommand_bcubc
+pscommand_bcubo
+pscommand_bfu
 pscommand_bgblack
 pscommand_bgblue
 pscommand_bgbrightblack
@@ -5251,6 +5250,14 @@ pscommand_bgred
 pscommand_bgrgb
 pscommand_bgwhite
 pscommand_bgyellow
+pscommand_brewp
+pscommand_brewsp
+pscommand_bubc
+pscommand_bubo
+pscommand_bubu
+pscommand_bubug
+pscommand_bugbc
+pscommand_buz
 pscommand_catimg
 pscommand_cd-
 pscommand_cd..
@@ -5592,6 +5599,15 @@ pscommand_geo
 pscommand_geoe
 pscommand_get
 pscommand_get-aptinstalledpackages
+pscommand_get-childitemcolorfully
+pscommand_get-childitemcolorfullycramped
+pscommand_get-childitemcolorfullyrevealingly
+pscommand_get-childitemcolorfullyrevealinglycramped
+pscommand_get-childitemcolorfullyrevealinglyrecursively
+pscommand_get-childitemcolorfullyrevealinglyrecursivelywithrecency
+pscommand_get-childitemcolorfullyrevealinglywithrecency
+pscommand_get-childitemcolorfullywithrecency
+pscommand_get-childitemnamesonly
 pscommand_get-dockercontainerall
 pscommand_get-dockercontainerlatest
 pscommand_get-dockercontainerlatestipaddress
@@ -5880,6 +5896,17 @@ pscommand_invoke-aptgetsource
 pscommand_invoke-aptlistinstalled
 pscommand_invoke-aptlistupgradable
 pscommand_invoke-aptpreferred
+pscommand_invoke-brewlistpinned
+pscommand_invoke-brewpin
+pscommand_invoke-brewuninstallzap
+pscommand_invoke-brewupdateandoutdated
+pscommand_invoke-brewupdateandoutdatedandupgradeandcleanup
+pscommand_invoke-brewupdateandoutdatedandupgradegreedyandcleanup
+pscommand_invoke-brewupdateandoutdatedcask
+pscommand_invoke-brewupgradeandcleanup
+pscommand_invoke-brewupgradecaskandcleanup
+pscommand_invoke-brewupgradeformula
+pscommand_invoke-brewupgradegreedyandcleanup
 pscommand_invoke-curlfollowingredirects
 pscommand_invoke-curlfollowingredirectsdownloadasnamed
 pscommand_invoke-curlfollowingredirectsdownloadasnamedcontinue
@@ -6544,7 +6571,20 @@ pscommand_krsss
 pscommand_kru
 pscommand_ksd
 pscommand_ksss
+pscommand_l
+pscommand_l1
+pscommand_la
+pscommand_lart
+pscommand_ldot
+pscommand_lf
+pscommand_ll
 pscommand_local-ignore
+pscommand_lr
+pscommand_lrt
+pscommand_ls
+pscommand_lsn
+pscommand_lsr
+pscommand_lt
 pscommand_mcd
 pscommand_mci
 pscommand_mcisk
@@ -6732,6 +6772,7 @@ pscommand_show-gitremote
 pscommand_show-proxy
 pscommand_shttp
 pscommand_shuf
+pscommand_sl
 pscommand_ssh-add-all
 pscommand_ssh-disable-proxy
 pscommand_ssh-enable-proxy
@@ -7165,6 +7206,15 @@ psfunction_format-lesstermcapenv
 psfunction_format-viewerinvocationsh
 psfunction_gdv
 psfunction_get-aptinstalledpackages
+psfunction_get-childitemcolorfully
+psfunction_get-childitemcolorfullycramped
+psfunction_get-childitemcolorfullyrevealingly
+psfunction_get-childitemcolorfullyrevealinglycramped
+psfunction_get-childitemcolorfullyrevealinglyrecursively
+psfunction_get-childitemcolorfullyrevealinglyrecursivelywithrecency
+psfunction_get-childitemcolorfullyrevealinglywithrecency
+psfunction_get-childitemcolorfullywithrecency
+psfunction_get-childitemnamesonly
 psfunction_get-dockercontainerall
 psfunction_get-dockercontainerlatest
 psfunction_get-dockercontainerlatestipaddress
@@ -7263,6 +7313,17 @@ psfunction_invoke-aptgetsource
 psfunction_invoke-aptlistinstalled
 psfunction_invoke-aptlistupgradable
 psfunction_invoke-aptpreferred
+psfunction_invoke-brewlistpinned
+psfunction_invoke-brewpin
+psfunction_invoke-brewuninstallzap
+psfunction_invoke-brewupdateandoutdated
+psfunction_invoke-brewupdateandoutdatedandupgradeandcleanup
+psfunction_invoke-brewupdateandoutdatedandupgradegreedyandcleanup
+psfunction_invoke-brewupdateandoutdatedcask
+psfunction_invoke-brewupgradeandcleanup
+psfunction_invoke-brewupgradecaskandcleanup
+psfunction_invoke-brewupgradeformula
+psfunction_invoke-brewupgradegreedyandcleanup
 psfunction_invoke-curlfollowingredirects
 psfunction_invoke-curlfollowingredirectsdownloadasnamed
 psfunction_invoke-curlfollowingredirectsdownloadasnamedcontinue
@@ -8097,6 +8158,7 @@ public-key
 public-transport
 publicapi
 publicclient
+publicfolder
 publicip
 publish
 publishedmodules
@@ -8183,7 +8245,6 @@ queuing
 quickaccess
 quickbase
 quickbooks
-quicksetup
 quiz
 qumulo
 quota
@@ -8265,6 +8326,7 @@ rebootnodeifneeded
 reckon
 recommendation
 reconcile
+reconnaissance
 record
 recording
 recovery
@@ -8282,6 +8344,7 @@ redaction
 reddit
 redfield
 redfish
+redforest
 redgate
 redirect
 redirecting
@@ -8380,7 +8443,6 @@ rename
 repair-msauth
 reparsepoint
 repeat
-repl
 replace
 replaygain
 replication
@@ -8428,7 +8490,6 @@ resources
 resourcesearch
 response
 rest
-rest_cherrypy
 rest-api
 restapi
 restart
@@ -8442,7 +8503,6 @@ retry
 returnuserprofile
 retype
 reuse
-reverse-engineer
 reverse-string
 reversed-color-text
 reversedsc
@@ -8573,8 +8633,6 @@ sale
 sales
 salesforce
 salesloft
-salt
-salt-api
 saltstack
 saltstackconfig
 saltstackenterprise
@@ -8777,6 +8835,7 @@ send-mailmessage
 send-message
 senderid
 sendgrid
+sendkeys
 sendmail
 sense
 sensitive
@@ -9100,6 +9159,8 @@ specify
 spectre
 spectrumconnect
 spectrumcontrolbase
+speculation
+speculationcontrol
 speech
 speed
 speedometer
@@ -9109,7 +9170,6 @@ spellcheck
 spelling
 spf
 spi
-spicetify
 spinnaker
 splash
 splat
@@ -9305,7 +9365,6 @@ submission
 subnet
 subnet-calculator
 subnetcalulator
-subnetdetails
 subnetmapping
 subnetmask
 subnetmaths
@@ -9422,6 +9481,7 @@ tabexpansion2
 tablacus
 table
 tableau
+tableauserver
 tabler
 tables
 tablestorage
@@ -9526,6 +9586,7 @@ test-userisadministrator
 test-xml
 test123
 testaccount
+testautomation
 tester
 testimonial
 testing
@@ -9627,7 +9688,6 @@ toolkit
 tools
 tools4ever
 topdesk
-topgrade
 topics
 topology
 tor
@@ -9725,7 +9785,6 @@ tts
 tubedownloader
 tui
 tulpep
-tuner
 tuning
 tutorial
 tv
@@ -9785,7 +9844,6 @@ ud-illustration
 ud-input
 ud-licensed
 ud-loadingoverlay
-ud-minesweeper
 ud-mouseparticle
 ud-navbarsearch
 ud-numbermask
@@ -9824,7 +9882,6 @@ udr
 udthememode
 udword
 uefi
-uem
 ui
 ui/ux
 ui7
@@ -9834,7 +9891,6 @@ ulid
 ultimatetool
 um
 uml
-umn
 ums
 unattend
 unattendedfile
@@ -9846,6 +9902,7 @@ unidesk
 unifi
 unified
 unifiedauditlog
+unifiedlabeling
 uninstall
 uninstaller
 union
@@ -9893,6 +9950,7 @@ upsource
 upstream
 uptime
 uptimerobot
+uptobox
 uqword
 uri
 uri-scheme
@@ -9946,7 +10004,6 @@ uuid
 uup
 uw
 uwp
-ux
 vadim
 vagrant
 vale
@@ -9997,7 +10054,6 @@ veeam
 veeampn
 veeva
 venafi
-vencord
 vendor
 venue
 venvlink
@@ -10085,7 +10141,6 @@ vmwcluster
 vmwdatacenter
 vmwfolder
 vmwvmhost
-vnet
 vnmonitoring
 vnugglets
 vnugglets.com
@@ -10120,6 +10175,7 @@ vrsns
 vrtu
 vs
 vs-shell
+vsa
 vsan
 vsan+
 vscode
@@ -10449,6 +10505,7 @@ wt
 wtsapi32
 wttr
 wttr.in
+wtx
 wu
 wug
 wunderlist
@@ -10519,7 +10576,6 @@ yandex
 yapg
 yarn
 yetanotherhelloworld
-yml
 ynab
 youtube
 youtube-dl
@@ -10533,7 +10589,6 @@ zabbixps
 zap
 zcat
 zendesk
-zerotrust
 zerto
 zigbee
 zip
