@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Friday, 24 November 2023 09:52:23 UTC
+Updated: Friday, 24 November 2023 17:52:32 UTC
 
 .bat
 .env
@@ -55,6 +55,7 @@ Updated: Friday, 24 November 2023 09:52:23 UTC
 8.1
 8ball
 9
+aa
 aac
 aad
 aad-graph
@@ -293,8 +294,6 @@ amateur-data-interchange-format
 amateur-radio
 amateurradio
 amazon
-amazonaws
-amazonmgn
 amazonwebservices
 amend
 ami
@@ -331,8 +330,6 @@ anonymous
 anova
 ansi
 ansible
-ansible-control-node
-ansiblecontrolnode
 antimalwarescaninterface
 antispam
 antivirus
@@ -601,6 +598,7 @@ axis
 axium
 az
 az-cli
+az.stackhci
 azautomation
 azcli
 azcompute
@@ -661,6 +659,7 @@ azuredevops
 azuredevops_security
 azuredevopsserver
 azuredns
+azurefilesync
 azurefunctionapp
 azurefunctions
 azuregraph
@@ -885,7 +884,6 @@ broadcom
 broot
 brownserve-uk
 browser
-browserextension
 browserhistory
 browsing
 brs
@@ -914,6 +912,7 @@ bulletin
 bullhorn
 bundle
 bup
+burnttoast
 burpsuite
 bus
 business
@@ -1021,6 +1020,7 @@ centurylink
 centurylinkcloud
 cer
 cert
+certbasedauth
 certera
 certes
 certificate
@@ -1548,6 +1548,7 @@ csv
 csv2adx
 csvhelper
 ctf
+ctglobal
 ctl
 ctrl+c
 ctx
@@ -1716,6 +1717,7 @@ dbwebapi
 dc
 dcim
 dcim_b324
+dcom
 dcr
 debian
 debug
@@ -2068,6 +2070,8 @@ duplicate
 duplicate-files
 duplicatioin
 duplication
+durable
+durabletask
 dust
 dutch
 dvls
@@ -2370,11 +2374,11 @@ extendscript
 extensibility
 extension
 extensionmethods
-extensionrisk
 extensions
 external
 externalip
 extract
+extraction
 extractor
 extreme-networks
 eztheme
@@ -2697,7 +2701,6 @@ geolocation
 geosearching
 geotagging
 get
-get_random_password
 get-admodernreport
 get-childitem
 get-cmhealthcheck
@@ -2856,6 +2859,7 @@ groupmembership
 grouppolicy
 groups
 grouvee
+growlnotify
 grr
 gsuite
 gtx1080ti
@@ -2912,6 +2916,7 @@ hardening
 hardlink
 hardware
 harperdb
+hartokens
 harvest
 harvestforecast
 hash
@@ -2928,6 +2933,7 @@ hba
 hbase
 hci
 hcl
+hcm
 hcx
 hdfs
 hdinsight
@@ -3035,6 +3041,7 @@ hotkey
 howto
 hp
 hpc
+hpcc
 hpccache
 hpe
 hpealletra6000andnimblestoragepowershelltoolkit
@@ -3095,6 +3102,7 @@ hysolate
 hysolatemangementconsole
 i-doit
 i2c
+ia
 iaas
 iac
 iam
@@ -3150,7 +3158,6 @@ ihs
 iiittttt
 iis
 iis10
-iis8
 iisadministration
 iiscrypto
 ikev2
@@ -3241,6 +3248,7 @@ inputobject
 insert
 insiderthreat
 insight
+insightanalytics
 insights
 inspect
 inspiration
@@ -3478,6 +3486,7 @@ katakana
 kb
 kbarticle
 kdbx
+kdialog
 keenetic
 keepachangelog
 keepass
@@ -3653,6 +3662,7 @@ linkedservicedependency
 linkid
 links
 linq
+linqpad
 lint
 linting
 linux
@@ -3771,6 +3781,7 @@ loopback
 loremipsum
 love
 lovequotes
+lpsiamol
 ls
 lsa
 lsasecrets
@@ -3778,6 +3789,7 @@ lsd
 ltm
 lucd
 lucene
+lunches
 lwa
 lxca
 lxcapstool
@@ -3896,7 +3908,6 @@ mazerat
 mb
 mbc
 mbs
-mc
 mcafee
 mcas
 mcd
@@ -3967,7 +3978,6 @@ metrics
 metrolink
 mfa
 mga
-mgn
 mi
 micro-orm
 microfocus
@@ -4050,7 +4060,6 @@ mlflow
 mmdc
 mobile
 mobilenetwork
-mobilitycontroller
 mock
 mocking
 model
@@ -4200,7 +4209,6 @@ myitprocess
 myjson
 myjson.com
 myob
-myposh
 mypstag
 mysql
 mysql-database
@@ -4316,7 +4324,6 @@ nexenta
 nexentastor
 nexthink
 nexus
-nexusiq
 ngen
 ngfw
 nginx
@@ -4363,8 +4370,10 @@ notes
 notification
 notificationhubs
 notifications
+notifu
 notify
 notify-send
+notify-send-wsl
 nova
 npgsql
 npm
@@ -4535,6 +4544,7 @@ openidconnect
 openinghours
 openport
 openprovider
+openscad
 opensearch
 opensource
 opensourceinitiative
@@ -4691,7 +4701,6 @@ passphrase
 passphraser passphrase password generator entropy
 passwd
 password
-password_generation
 password-generator
 password-less
 password-manager
@@ -4830,6 +4839,7 @@ player
 playlists
 pleasant
 pleasantpasswordserver
+plex
 plist
 plog
 plot
@@ -4914,6 +4924,7 @@ poshy-ls-isms
 poshy-lucidity
 poshy-multimedia
 poshy-net
+poshy-notify-send
 poshy-sh-isms
 poshy-sshconfig
 poshy-viewer-finder
@@ -4954,7 +4965,6 @@ poshy-wrap-vagrant
 poshy-wrap-vault
 poshy-wrap-vscode
 poshy-wrap-wget
-poshy-wrap-wt
 poshy-wrap-yum
 poshy-wrap-zypper
 position
@@ -6620,8 +6630,6 @@ pscommand_new-gitbranchtracked
 pscommand_new-gitpatchfile
 pscommand_new-isofile
 pscommand_new-viewerinvocationfunction
-pscommand_new-windowsterminalpane
-pscommand_new-windowsterminaltab
 pscommand_nginx_reload
 pscommand_nginx_restart
 pscommand_nginx_start
@@ -6641,6 +6649,7 @@ pscommand_nmap_ping_through_firewall
 pscommand_nmap_slow
 pscommand_nmap_traceroute
 pscommand_nmap_web_safe_osscan
+pscommand_notify-send-fallback
 pscommand_npm-disable-proxy
 pscommand_npm-enable-proxy
 pscommand_npm-show-proxy
@@ -7890,8 +7899,6 @@ psfunction_new-gitbranchtracked
 psfunction_new-gitpatchfile
 psfunction_new-isofile
 psfunction_new-viewerinvocationfunction
-psfunction_new-windowsterminalpane
-psfunction_new-windowsterminaltab
 psfunction_nginx_reload
 psfunction_nginx_restart
 psfunction_nginx_start
@@ -7911,6 +7918,7 @@ psfunction_nmap_ping_through_firewall
 psfunction_nmap_slow
 psfunction_nmap_traceroute
 psfunction_nmap_web_safe_osscan
+psfunction_notify-send-fallback
 psfunction_npm-disable-proxy
 psfunction_npm-enable-proxy
 psfunction_npm-show-proxy
@@ -8763,6 +8771,7 @@ scrubber
 scsm
 scuba
 sd
+sddl
 sdk
 sdn
 sdp
@@ -9583,6 +9592,7 @@ terminal
 terminal-interface
 terminal-services
 terminal.gui
+terminalnotifier
 terminalvelocity
 termset
 terraform
@@ -9613,6 +9623,7 @@ tests
 testsuite
 testtag1
 testtag2
+testtool
 testusers
 text
 text-to-image
@@ -9717,7 +9728,6 @@ totp
 touch
 toughswitch
 tphubps
-tpm
 tr-064
 tr064
 trace
@@ -9728,6 +9738,7 @@ tracing
 tracker
 tracking
 trading
+traffic
 trafficfiltering
 trafficmanager
 trafficmarking
@@ -10163,6 +10174,7 @@ vmwdatacenter
 vmwfolder
 vmwvmhost
 vnet
+vnmonitoring
 vnugglets
 vnugglets.com
 vocabularies
@@ -10201,6 +10213,7 @@ vsan
 vsan+
 vscode
 vsdevcmd
+vsdevshell
 vsenvironment
 vsm
 vso
@@ -10365,7 +10378,6 @@ windows-powershell
 windows-registry
 windows-remoting
 windows-server-2016
-windows-terminal
 windows-user-folder
 windows-user-profile
 windows10
@@ -10403,7 +10415,6 @@ windowssandbox
 windowssearchmanager
 windowsserver
 windowsserver2008
-windowsserver2012
 windowsserver2016
 windowsserver2019
 windowsservercoresecurity
