@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Saturday, 25 November 2023 17:52:27 UTC
+Updated: Sunday, 26 November 2023 02:07:40 UTC
 
 .bat
 .env
@@ -243,6 +243,8 @@ aim
 aip
 aipscanner
 aircall
+airpower
+airpwr
 airtable
 ais
 aispeech
@@ -292,6 +294,8 @@ amateur-data-interchange-format
 amateur-radio
 amateurradio
 amazon
+amazonaws
+amazonmgn
 amazonwebservices
 amend
 ami
@@ -431,8 +435,8 @@ archlinux
 arcresourcebridge
 arcus
 area
-arg
 argcomplete
+argument
 argumentcompleter
 arguments
 arm
@@ -522,6 +526,7 @@ authenticate
 authentication
 authenticationcertificate
 authenticode
+authn
 author
 authoring
 authoringtools
@@ -530,6 +535,7 @@ authority
 authorization
 authorizationheaders
 authorize.net
+authz
 autify
 auto
 auto_cd
@@ -618,7 +624,6 @@ azstackhci
 azstate
 azsubnet
 aztools
-azts
 azuead
 azure
 azure_ad
@@ -1510,6 +1515,7 @@ credentialstore
 credentialutility
 credit
 credman
+credmanager
 crescendo
 crescendobuilt
 cresendo
@@ -1798,7 +1804,6 @@ devdeer
 developer
 developer_command_prompt
 developercommandprompt
-developermode
 development
 devenv
 devexpress
@@ -2053,7 +2058,6 @@ dtc
 dts
 dtsx
 dtx
-du
 dual-stack
 duck
 duckduckgo
@@ -2089,6 +2093,7 @@ dynamics365fo
 dynamics365sales
 dynamics365server
 dynamicsax
+dynamicsecuritygroups
 dynamicsnav
 dynamodb
 dynatrace
@@ -2162,6 +2167,7 @@ emissions
 emoji
 emotion
 empire
+empty
 emwarehouse
 enable
 enable-internet
@@ -2253,7 +2259,6 @@ esxi
 eternalblue
 ether
 ethereum
-ethr
 ethz
 etl
 etl2pcapng
@@ -2381,8 +2386,6 @@ eztheme
 f
 f#
 f5
-fabric
-fabtools
 facebook
 factoryorchestrator
 factoryorchestratorclient
@@ -2642,7 +2645,6 @@ fzf
 gac
 gainz
 gainz-chocolateysync
-gainz-keepass
 gainz-sqldb
 gal
 gallery
@@ -2712,6 +2714,7 @@ get-dtdriverpack
 get-dtdriverupdates
 get-dtscriptnewcmpackagefromdriverpackpackagedefinitionsms
 get-dtscriptnewcmtasksequencefromdriverpackpackagedefinitionsms
+get-emptyadgroups
 get-externalip
 get-firmwaretype
 get-help
@@ -2727,6 +2730,8 @@ get-pinneditem
 get-samcmassignedsite
 get-samcmcurrentmanagementpoint
 get-samplingperiod
+get-stalecomps
+get-staleusers
 get-thermalstamp
 get-uptime
 getfirmwareenvironmentvariable
@@ -2883,6 +2888,7 @@ hack
 hacking
 hacktoberfest
 hadoop
+hafr
 hailstone
 haipa
 halo
@@ -2904,6 +2910,7 @@ har
 hard
 hardblock
 harden
+harden-windows-security
 hardening
 hardlink
 hardware
@@ -2929,6 +2936,7 @@ hcm
 hcx
 hdfs
 hdinsight
+hdinsightonaks
 header
 headhunter
 health
@@ -2956,6 +2964,7 @@ help
 helpdesk
 helpdoc
 helper
+helper-functions
 helperfunctions
 helpers
 helpfile
@@ -3216,7 +3225,6 @@ info
 infoblox
 information
 information-technology
-informationbarriers
 informationtechnology
 informationtechnologyoperations
 informix
@@ -3328,7 +3336,6 @@ iothub
 iothubproperties
 ip
 ip-address
-ip-scanner
 ipa
 ipaddress
 ipam
@@ -3560,6 +3567,7 @@ lake
 lambda
 lame
 lametrictime
+lamp
 lan
 landingzones
 language
@@ -3573,6 +3581,7 @@ laserbeams
 last
 last.fm
 lastfm
+lastlogon
 lastpass
 latency
 latestupdate
@@ -3933,7 +3942,6 @@ meetup.com
 meewind
 megabyte
 melamed
-meltdown
 mem
 member
 members
@@ -3968,6 +3976,7 @@ metrics
 metrolink
 mfa
 mga
+mgn
 mi
 micro-orm
 microfocus
@@ -4000,7 +4009,6 @@ microsoftdefenderatp
 microsoftdeploymenttoolkit
 microsoftendpointmanager
 microsoftexchangeserver
-microsoftfabric
 microsoftgraph
 microsoftgraphapi
 microsoftgraphrestapi
@@ -4020,8 +4028,8 @@ migration
 migration-tool
 migrations
 milestone
+mim
 mime
-mimekit
 min
 mindmeister
 minecraft
@@ -4136,7 +4144,6 @@ msi psmodule
 msiexec
 msil
 msix
-mslab
 msmq
 msol
 msoms
@@ -4311,7 +4318,6 @@ newrelic
 news
 newspaper
 newtonsoft
-newtonsoft.json
 nexenta
 nexentastor
 nexthink
@@ -4367,6 +4373,7 @@ notifu
 notify
 notify-send
 notify-send-wsl
+nova
 npgsql
 npm
 npm-proxy
@@ -4541,6 +4548,7 @@ opensource
 opensourceinitiative
 openssh
 openssl
+openstack
 openvpn
 operating
 operating_system
@@ -4560,7 +4568,6 @@ optics
 optimization
 optimizer
 option
-option119
 options
 optionstring
 opus
@@ -4631,12 +4638,14 @@ owner
 oxygen
 oxyplot
 p2000
+p2s
 pa1reg
 paas
 pac
 pack
 package
 package-management
+package-manager
 package-transform
 packagemanagement
 packagemanager
@@ -4724,7 +4733,6 @@ paylocity
 paypal
 pays
 pbench
-pbip
 pc
 pcapng
 pci-dss
@@ -4821,6 +4829,7 @@ planner
 plantuml
 plaster
 platform
+platyps
 play
 playback
 playbook
@@ -4846,6 +4855,7 @@ poe
 poem
 poetry
 point
+point-to-site
 pointer
 pokeapi
 pokedex
@@ -4871,7 +4881,6 @@ popd
 population
 popup
 port
-port-scanner
 port70
 portal
 ports
@@ -4947,7 +4956,6 @@ poshy-wrap-python
 poshy-wrap-ruby
 poshy-wrap-systemctl
 poshy-wrap-terraform
-poshy-wrap-terragrunt
 poshy-wrap-tmux
 poshy-wrap-vagrant
 poshy-wrap-vault
@@ -4984,6 +4992,7 @@ powerdex
 powerforensics
 powergraph
 powergui
+powermax
 powerplan
 powerplateform
 powerplatform
@@ -6341,15 +6350,6 @@ pscommand_invoke-terraforminit
 pscommand_invoke-terraformoutput
 pscommand_invoke-terraformplan
 pscommand_invoke-terraformvalidate
-pscommand_invoke-terragrunt
-pscommand_invoke-terragruntapply
-pscommand_invoke-terragruntapplyall
-pscommand_invoke-terragruntdestroy
-pscommand_invoke-terragruntdestroyall
-pscommand_invoke-terragruntplan
-pscommand_invoke-terragruntplanall
-pscommand_invoke-terragruntvalidate
-pscommand_invoke-terragruntvalidateall
 pscommand_invoke-tmuxattachforterminal
 pscommand_invoke-tmuxattachforterminaldetachingothers
 pscommand_invoke-tmuxeditconfig
@@ -6818,15 +6818,6 @@ pscommand_tfi
 pscommand_tfo
 pscommand_tfp
 pscommand_tfv
-pscommand_tg
-pscommand_tga
-pscommand_tgaa
-pscommand_tgd
-pscommand_tgda
-pscommand_tgp
-pscommand_tgpa
-pscommand_tgv
-pscommand_tgva
 pscommand_tkss
 pscommand_tksv
 pscommand_tl
@@ -7758,15 +7749,6 @@ psfunction_invoke-terraforminit
 psfunction_invoke-terraformoutput
 psfunction_invoke-terraformplan
 psfunction_invoke-terraformvalidate
-psfunction_invoke-terragrunt
-psfunction_invoke-terragruntapply
-psfunction_invoke-terragruntapplyall
-psfunction_invoke-terragruntdestroy
-psfunction_invoke-terragruntdestroyall
-psfunction_invoke-terragruntplan
-psfunction_invoke-terragruntplanall
-psfunction_invoke-terragruntvalidate
-psfunction_invoke-terragruntvalidateall
 psfunction_invoke-tmuxattachforterminal
 psfunction_invoke-tmuxattachforterminaldetachingothers
 psfunction_invoke-tmuxeditconfig
@@ -8134,6 +8116,7 @@ psrule-rules
 pssa
 psscriptanalyzer
 psscriptanaylzer
+psscriptsmonitoring
 pssendgrid
 pssession
 pssharper
@@ -8267,13 +8250,13 @@ r
 r53
 rabbit
 rabbitmq
+rackspace
 radarr
 radio
 raidcontrollercmdlets
 rainbow
 raisers
 raisersedge
-raj
 ram
 ram-it
 random
@@ -8326,7 +8309,6 @@ readme
 readpdf
 readthedocs
 realschule
-realtimeprotection
 rebase
 reboot
 rebootnodeifneeded
@@ -8481,13 +8463,13 @@ resize
 resolution
 resolve
 resolve-stache
+resolve-template
 resolver
 resource
 resource_monitor
 resource_watcher
 resourceaccount
 resourcecontroller
-resourcegraph
 resourcegroup
 resourceid
 resourcekit
@@ -8622,6 +8604,7 @@ runway
 russia
 rust
 rust-lang
+ryanairps
 ryver
 s.ds.p
 s1
@@ -8749,13 +8732,13 @@ scriptlogging
 scriptoform
 scriptrunner
 scripts
+scriptsmonitoring
 scrolllock
 scrub
 scrubber
 scsm
 scuba
 sd
-sddl
 sdk
 sdn
 sdp
@@ -8769,7 +8752,6 @@ searchmanager
 searchplace
 searchquery
 searchstring
-searchsuffixlist
 secaas
 secedit
 secret
@@ -8797,6 +8779,7 @@ securestring
 security
 security-awareness-training
 security-policy
+security-score
 security-txt
 security.txt
 securityassertionmarkuplanguage
@@ -8882,7 +8865,6 @@ servicedesk
 servicedeskplus
 serviceendpoints
 servicefabric
-servicelinker
 servicemanagementautomation
 servicemanager
 servicemanagerproxy
@@ -8937,6 +8919,7 @@ shacrypt
 shadow
 shadowcopy
 shadowcopybackups
+shadowgroups
 shanghaitech
 shard
 share
@@ -9093,6 +9076,7 @@ snmpwalk
 snowflake
 snsmssqlpsmodule
 snspsadgroupmembers
+snspsscriptsmonitoring
 snssqlitepsmodule
 sntp
 soap
@@ -9165,8 +9149,6 @@ specify
 spectre
 spectrumconnect
 spectrumcontrolbase
-speculation
-speculationcontrol
 speech
 speed
 speedometer
@@ -9317,7 +9299,6 @@ sticker
 sticker-pack
 stickers
 stig
-stigrepo
 stingar
 stock
 stockcharts
@@ -9446,7 +9427,6 @@ synthetics
 sysadmin
 sysadmin-tool
 sysadmin-tools
-sysctr
 sysinfo
 sysinfocmdlets
 sysinternals
@@ -9527,7 +9507,9 @@ tcp
 tcp/ip
 tcpip
 tcpport
+tcprjmgmt
 tcpserver
+tcptest
 tcx
 tcxaemgmt
 tdd
@@ -9577,7 +9559,6 @@ termset
 terraform
 terraformcloud
 terrafun
-terragrunt
 tesla
 test
 test-automation
@@ -9634,7 +9615,6 @@ third-party-libraries
 third-party-notice
 thispc
 thoughtfortheday
-thousandeyes
 thread
 threading
 threadjob
@@ -9686,7 +9666,6 @@ toggle
 token
 tokenlifetime
 tokens
-toml
 tookit
 tool
 toolbox
@@ -9713,6 +9692,7 @@ tr064
 trace
 traceevent
 tracer
+tracert
 tracing
 tracker
 tracking
@@ -9877,12 +9857,14 @@ ud-timeout
 ud-tool
 ud-toploader
 ud-trendline
+ud-typing
 ud-window
 ud-wordtree
 udcm
 udfeedback
 udp
 udpclient
+udptest
 udr
 udthememode
 udword
@@ -9897,6 +9879,7 @@ ulid
 ultimatetool
 um
 uml
+umn
 ums
 unattend
 unattendedfile
@@ -9968,6 +9951,7 @@ urlencode
 urlhaus
 urlredirections
 urlrewrite
+urlscan
 urlupdate
 uru
 usage
@@ -10170,6 +10154,7 @@ vpc
 vpg
 vplex
 vpn
+vpn-certificate
 vpro
 vps
 vra
@@ -10184,6 +10169,7 @@ vs
 vs-shell
 vsa
 vsan
+vsan+
 vscode
 vsdevcmd
 vsdevshell
@@ -10191,6 +10177,7 @@ vsenvironment
 vsm
 vso
 vsphere
+vsphere+
 vss
 vssetup
 vsshell
@@ -10267,7 +10254,6 @@ webhook
 webinspect
 webjea
 webmanagement
-webmanagementservice
 webpage
 webpi
 webreport
@@ -10284,6 +10270,7 @@ websockets
 websphere
 websphereappserver
 websphereportal
+webtest
 webtesting
 webtime
 wec
@@ -10593,6 +10580,7 @@ zabbixps
 zap
 zcat
 zendesk
+zerotrust
 zerto
 zigbee
 zip
