@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Sunday, 26 November 2023 02:07:40 UTC
+Updated: Sunday, 26 November 2023 09:52:35 UTC
 
 .bat
 .env
@@ -311,7 +311,6 @@ analysisservices
 analyst
 analyth
 analytics
-analyticsrules
 analyze
 analyzer
 analyzerrules
@@ -435,6 +434,7 @@ archlinux
 arcresourcebridge
 arcus
 area
+arg
 argcomplete
 argument
 argumentcompleter
@@ -553,7 +553,6 @@ automanage
 automate
 automated
 automatedlab
-automatenow
 automaticpacketreportingsystem
 automation
 automation psmodule
@@ -624,6 +623,7 @@ azstackhci
 azstate
 azsubnet
 aztools
+azts
 azuead
 azure
 azure_ad
@@ -886,7 +886,6 @@ broadcom
 broot
 brownserve-uk
 browser
-browserextension
 browserhistory
 browsing
 brs
@@ -1375,7 +1374,6 @@ connectionmonitor
 connections
 connectionsmanager
 connectionstring
-connectivity
 connectwise
 conservation
 console
@@ -1442,12 +1440,10 @@ copy-item
 copyright
 core
 coreepower
-coreepower.common
 coreepower.config
 coreepower.lib
 coreepower.module
 coreepower.net
-coreepower.net.soundcloudexplode
 coreposh
 coreutils
 corona
@@ -1639,6 +1635,7 @@ data_protection
 data_security
 data-archive
 data-backup
+data-tier
 data-uri
 data-uri-converter
 database
@@ -1728,7 +1725,6 @@ debugger
 debugging
 decimal
 decimalip
-decimalzero
 declarative
 decline
 decode
@@ -1804,6 +1800,7 @@ devdeer
 developer
 developer_command_prompt
 developercommandprompt
+developermode
 development
 devenv
 devexpress
@@ -1875,7 +1872,6 @@ disasterrecovery
 disconnect
 discord
 discordrpc
-discount
 discover
 discovery
 discutils
@@ -1934,7 +1930,6 @@ dnsclient
 dnsdumpster
 dnsentry
 dnsimple
-dnslookup
 dnsmadeeasy
 dnsoverhttps
 dnsrecord
@@ -2058,6 +2053,7 @@ dtc
 dts
 dtsx
 dtx
+du
 dual-stack
 duck
 duckduckgo
@@ -2098,7 +2094,6 @@ dynamicsnav
 dynamodb
 dynatrace
 dynatraceobservability
-dz
 e-mail
 e1
 easy
@@ -2107,7 +2102,6 @@ easylife365
 easyvista
 eaton
 ebay
-ebooks
 ebur128
 ec2
 ecommerce
@@ -2259,6 +2253,7 @@ esxi
 eternalblue
 ether
 ethereum
+ethr
 ethz
 etl
 etl2pcapng
@@ -2358,7 +2353,6 @@ export
 export-cmhealthreport
 export-data
 export-passlist
-exportcertificate
 exportcertificates
 exporter
 exportexcel
@@ -2374,7 +2368,6 @@ extendscript
 extensibility
 extension
 extensionmethods
-extensionrisk
 extensions
 external
 externalip
@@ -2386,6 +2379,8 @@ eztheme
 f
 f#
 f5
+fabric
+fabtools
 facebook
 factoryorchestrator
 factoryorchestratorclient
@@ -2961,7 +2956,6 @@ helloworld
 helm
 helmet
 help
-helpdesk
 helpdoc
 helper
 helper-functions
@@ -3037,7 +3031,6 @@ hosts-file
 hostsfile
 hot-water
 hotkey
-hotkeys
 howto
 hp
 hpc
@@ -3146,7 +3139,6 @@ identitydomains
 identitynow
 idf
 idm
-idna
 ids
 ie
 iem
@@ -3225,6 +3217,7 @@ info
 infoblox
 information
 information-technology
+informationbarriers
 informationtechnology
 informationtechnologyoperations
 informix
@@ -3293,7 +3286,6 @@ interlogix
 internal
 internet
 internet-explorer
-internetconnection
 internetexplorer
 intersight
 intersightcmdlets
@@ -3336,6 +3328,7 @@ iothub
 iothubproperties
 ip
 ip-address
+ip-scanner
 ipa
 ipaddress
 ipam
@@ -3397,7 +3390,6 @@ iteration
 itg
 itglue
 itin
-itop
 itsm
 itstore
 ivanti
@@ -3423,7 +3415,6 @@ jenkins
 jetbrains
 jira
 jiraservicemanagement
-jitbit
 jms
 jmsjavadownloads
 jnet
@@ -3484,7 +3475,6 @@ kaspersky
 katakana
 kb
 kbarticle
-kdbx
 kdialog
 keenetic
 keepachangelog
@@ -3846,6 +3836,7 @@ managedidentities
 managedserviceidenity
 managedserviceidentity
 managedserviceprovider
+managedserviceproviders
 managedservices
 manageengine
 management
@@ -3888,6 +3879,7 @@ mas
 mask
 mass
 masstransit
+masterconfiguration
 matcharray
 matchhashtable
 materialdesign
@@ -3942,6 +3934,7 @@ meetup.com
 meewind
 megabyte
 melamed
+meltdown
 mem
 member
 members
@@ -4009,6 +4002,7 @@ microsoftdefenderatp
 microsoftdeploymenttoolkit
 microsoftendpointmanager
 microsoftexchangeserver
+microsoftfabric
 microsoftgraph
 microsoftgraphapi
 microsoftgraphrestapi
@@ -4030,6 +4024,7 @@ migrations
 milestone
 mim
 mime
+mimekit
 min
 mindmeister
 minecraft
@@ -4040,7 +4035,6 @@ minimum
 mip
 mipsdk
 miration-step
-mirror
 miscellaneous
 mitigation
 mitre
@@ -4053,7 +4047,6 @@ mkdocs
 mkpasswd
 ml
 ml.net
-mlflow
 mmdc
 mobile
 mobilenetwork
@@ -4144,6 +4137,7 @@ msi psmodule
 msiexec
 msil
 msix
+mslab
 msmq
 msol
 msoms
@@ -4318,6 +4312,7 @@ newrelic
 news
 newspaper
 newtonsoft
+newtonsoft.json
 nexenta
 nexentastor
 nexthink
@@ -4491,6 +4486,7 @@ oms
 omsagent
 on
 on-demand
+on-premise
 onboard
 onboardadministrator
 onboarding
@@ -4733,6 +4729,7 @@ paylocity
 paypal
 pays
 pbench
+pbip
 pc
 pcapng
 pci-dss
@@ -4881,6 +4878,7 @@ popd
 population
 popup
 port
+port-scanner
 port70
 portal
 ports
@@ -4956,6 +4954,7 @@ poshy-wrap-python
 poshy-wrap-ruby
 poshy-wrap-systemctl
 poshy-wrap-terraform
+poshy-wrap-terragrunt
 poshy-wrap-tmux
 poshy-wrap-vagrant
 poshy-wrap-vault
@@ -5109,6 +5108,7 @@ privilege
 privilegecloud
 privileged
 privileges
+pro
 probe
 process
 processing
@@ -5176,6 +5176,7 @@ prtg
 prtg_network_monitor
 prtgnetworkmonitor
 ps
+ps-completions
 ps-ncentral
 ps.credentialmanager
 ps1
@@ -6350,6 +6351,15 @@ pscommand_invoke-terraforminit
 pscommand_invoke-terraformoutput
 pscommand_invoke-terraformplan
 pscommand_invoke-terraformvalidate
+pscommand_invoke-terragrunt
+pscommand_invoke-terragruntapply
+pscommand_invoke-terragruntapplyall
+pscommand_invoke-terragruntdestroy
+pscommand_invoke-terragruntdestroyall
+pscommand_invoke-terragruntplan
+pscommand_invoke-terragruntplanall
+pscommand_invoke-terragruntvalidate
+pscommand_invoke-terragruntvalidateall
 pscommand_invoke-tmuxattachforterminal
 pscommand_invoke-tmuxattachforterminaldetachingothers
 pscommand_invoke-tmuxeditconfig
@@ -6818,6 +6828,15 @@ pscommand_tfi
 pscommand_tfo
 pscommand_tfp
 pscommand_tfv
+pscommand_tg
+pscommand_tga
+pscommand_tgaa
+pscommand_tgd
+pscommand_tgda
+pscommand_tgp
+pscommand_tgpa
+pscommand_tgv
+pscommand_tgva
 pscommand_tkss
 pscommand_tksv
 pscommand_tl
@@ -7749,6 +7768,15 @@ psfunction_invoke-terraforminit
 psfunction_invoke-terraformoutput
 psfunction_invoke-terraformplan
 psfunction_invoke-terraformvalidate
+psfunction_invoke-terragrunt
+psfunction_invoke-terragruntapply
+psfunction_invoke-terragruntapplyall
+psfunction_invoke-terragruntdestroy
+psfunction_invoke-terragruntdestroyall
+psfunction_invoke-terragruntplan
+psfunction_invoke-terragruntplanall
+psfunction_invoke-terragruntvalidate
+psfunction_invoke-terragruntvalidateall
 psfunction_invoke-tmuxattachforterminal
 psfunction_invoke-tmuxattachforterminaldetachingothers
 psfunction_invoke-tmuxeditconfig
@@ -8107,6 +8135,7 @@ psprtg
 pspublicapi
 psql
 psraw
+psreadexif
 psreadline
 psremoting
 psrepository
@@ -8162,7 +8191,6 @@ pullrequest
 pullserver
 pulseway
 pulumi
-punycode
 puppet
 puppetdb
 puppy
@@ -8257,6 +8285,7 @@ raidcontrollercmdlets
 rainbow
 raisers
 raisersedge
+raj
 ram
 ram-it
 random
@@ -8309,6 +8338,7 @@ readme
 readpdf
 readthedocs
 realschule
+realtimeprotection
 rebase
 reboot
 rebootnodeifneeded
@@ -8401,7 +8431,6 @@ remote
 remote-desktop
 remote'
 remoteadmin
-remotecert
 remoteconnection
 remoteconnectionsmanager
 remotecontrol
@@ -8470,6 +8499,7 @@ resource_monitor
 resource_watcher
 resourceaccount
 resourcecontroller
+resourcegraph
 resourcegroup
 resourceid
 resourcekit
@@ -8620,7 +8650,6 @@ safeguard
 sage
 saggiehaim
 sailpoint
-sale
 sales
 salesforce
 salesloft
@@ -8705,6 +8734,7 @@ scouterna
 scouternasetjanster
 scoutnet
 scp
+scrap
 scrape
 scraper
 screen
@@ -8739,6 +8769,7 @@ scrubber
 scsm
 scuba
 sd
+sddl
 sdk
 sdn
 sdp
@@ -8865,6 +8896,7 @@ servicedesk
 servicedeskplus
 serviceendpoints
 servicefabric
+servicelinker
 servicemanagementautomation
 servicemanager
 servicemanagerproxy
@@ -9149,6 +9181,8 @@ specify
 spectre
 spectrumconnect
 spectrumcontrolbase
+speculation
+speculationcontrol
 speech
 speed
 speedometer
@@ -9299,6 +9333,7 @@ sticker
 sticker-pack
 stickers
 stig
+stigrepo
 stingar
 stock
 stockcharts
@@ -9427,6 +9462,7 @@ synthetics
 sysadmin
 sysadmin-tool
 sysadmin-tools
+sysctr
 sysinfo
 sysinfocmdlets
 sysinternals
@@ -9559,11 +9595,11 @@ termset
 terraform
 terraformcloud
 terrafun
+terragrunt
 tesla
 test
 test-automation
 test-dscconfiguration
-test-internetconnection
 test-modulepath
 test-osplatform
 test-psremoting
@@ -9615,6 +9651,7 @@ third-party-libraries
 third-party-notice
 thispc
 thoughtfortheday
+thousandeyes
 thread
 threading
 threadjob
@@ -9666,6 +9703,7 @@ toggle
 token
 tokenlifetime
 tokens
+toml
 tookit
 tool
 toolbox
@@ -9697,7 +9735,6 @@ tracing
 tracker
 tracking
 trading
-traffic
 trafficfiltering
 trafficmanager
 trafficmarking
@@ -9727,6 +9764,7 @@ travel
 trec
 tree
 tree-structure
+treesize
 treffynnon
 trein
 trello
@@ -9999,7 +10037,6 @@ vagrant
 vale
 validate
 validate-dcb
-validatedsolutions
 validatemapsconnectivity
 validation
 validator
@@ -10108,7 +10145,6 @@ visualstudioonline
 visualstudioteamservices
 vlan
 vlookup
-vlsm
 vm
 vmc
 vmelamed5
@@ -10127,7 +10163,6 @@ vmware
 vmware.vsphere
 vmwarecloudfoundation
 vmwaredrs
-vmwarevalidatedsolutions
 vmwcluster
 vmwdatacenter
 vmwfolder
@@ -10244,6 +10279,7 @@ webapp
 webapplicationproxy
 webapps
 webcamera
+webcmdlets
 webdav
 webdeploy
 webfrequest
@@ -10254,6 +10290,7 @@ webhook
 webinspect
 webjea
 webmanagement
+webmanagementservice
 webpage
 webpi
 webreport
