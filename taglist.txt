@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Sunday, 26 November 2023 09:52:35 UTC
+Updated: Sunday, 26 November 2023 17:52:31 UTC
 
 .bat
 .env
@@ -13,8 +13,6 @@ Updated: Sunday, 26 November 2023 09:52:35 UTC
 'files
 'provider'
 "interactive
-**psedition_desktop**
-**windows**
 🍄
 🍣
 💩
@@ -36,7 +34,6 @@ Updated: Sunday, 26 November 2023 09:52:35 UTC
 2018
 2019
 21vianet
-24-bit
 2fa
 300
 365
@@ -311,6 +308,7 @@ analysisservices
 analyst
 analyth
 analytics
+analyticsrules
 analyze
 analyzer
 analyzerrules
@@ -553,6 +551,7 @@ automanage
 automate
 automated
 automatedlab
+automatenow
 automaticpacketreportingsystem
 automation
 automation psmodule
@@ -886,6 +885,7 @@ broadcom
 broot
 brownserve-uk
 browser
+browserextension
 browserhistory
 browsing
 brs
@@ -1374,6 +1374,7 @@ connectionmonitor
 connections
 connectionsmanager
 connectionstring
+connectivity
 connectwise
 conservation
 console
@@ -1440,10 +1441,12 @@ copy-item
 copyright
 core
 coreepower
+coreepower.common
 coreepower.config
 coreepower.lib
 coreepower.module
 coreepower.net
+coreepower.net.soundcloudexplode
 coreposh
 coreutils
 corona
@@ -1646,7 +1649,6 @@ databasemigration
 databases
 databasetools
 databooster
-databox
 databoxedge
 databricks
 datacatalog
@@ -1872,6 +1874,7 @@ disasterrecovery
 disconnect
 discord
 discordrpc
+discount
 discover
 discovery
 discutils
@@ -2102,6 +2105,7 @@ easylife365
 easyvista
 eaton
 ebay
+ebooks
 ebur128
 ec2
 ecommerce
@@ -2353,6 +2357,7 @@ export
 export-cmhealthreport
 export-data
 export-passlist
+exportcertificate
 exportcertificates
 exporter
 exportexcel
@@ -2368,6 +2373,7 @@ extendscript
 extensibility
 extension
 extensionmethods
+extensionrisk
 extensions
 external
 externalip
@@ -2640,6 +2646,7 @@ fzf
 gac
 gainz
 gainz-chocolateysync
+gainz-keepass
 gainz-sqldb
 gal
 gallery
@@ -2956,6 +2963,7 @@ helloworld
 helm
 helmet
 help
+helpdesk
 helpdoc
 helper
 helper-functions
@@ -3031,6 +3039,7 @@ hosts-file
 hostsfile
 hot-water
 hotkey
+hotkeys
 howto
 hp
 hpc
@@ -3139,6 +3148,7 @@ identitydomains
 identitynow
 idf
 idm
+idna
 ids
 ie
 iem
@@ -3210,16 +3220,12 @@ indicator
 inedo
 inetfwrule
 inetum
-infinity
 influx
 influxdb
 info
 infoblox
 information
-information-technology
 informationbarriers
-informationtechnology
-informationtechnologyoperations
 informix
 infosec
 infrastructure
@@ -3375,7 +3381,6 @@ ispss
 issues
 isvalidemail
 isvalidip
-it
 it-support
 it-tool
 it-tools
@@ -3390,6 +3395,7 @@ iteration
 itg
 itglue
 itin
+itop
 itsm
 itstore
 ivanti
@@ -3415,6 +3421,7 @@ jenkins
 jetbrains
 jira
 jiraservicemanagement
+jitbit
 jms
 jmsjavadownloads
 jnet
@@ -3475,6 +3482,7 @@ kaspersky
 katakana
 kb
 kbarticle
+kdbx
 kdialog
 keenetic
 keepachangelog
@@ -3753,10 +3761,8 @@ logonto
 logonuser
 logparser
 logrotate
-logrotation
 logs
 logstash
-logtools
 logz
 loki
 lol
@@ -4047,6 +4053,7 @@ mkdocs
 mkpasswd
 ml
 ml.net
+mlflow
 mmdc
 mobile
 mobilenetwork
@@ -4378,7 +4385,6 @@ nprintingapi
 nps
 npslog
 npslogfile
-nql
 nrc
 nrql
 ns
@@ -4501,7 +4507,6 @@ onelogin
 oneloginapi
 onenote
 onestools
-onesubscription
 onetimesecret
 oneviewglobaldashboard
 online
@@ -4564,6 +4569,7 @@ optics
 optimization
 optimizer
 option
+option119
 options
 optionstring
 opus
@@ -4914,7 +4920,6 @@ poshy-coreutils-ish
 poshy-dir-nav
 poshy-ecks
 poshy-env-proxy
-poshy-env-var
 poshy-ls-isms
 poshy-lucidity
 poshy-multimedia
@@ -5224,8 +5229,6 @@ pscommand_acp
 pscommand_acse
 pscommand_acsp
 pscommand_add_ssh
-pscommand_add-envpathitem
-pscommand_add-envvarpathitem
 pscommand_add-gitlfstrackedfiles
 pscommand_add-gitremote
 pscommand_add-gitskipworktreeflag
@@ -5633,9 +5636,6 @@ pscommand_get-dockercontainerlatestipaddress
 pscommand_get-dockercontainerlatestquiet
 pscommand_get-dockercontainerrunning
 pscommand_get-dockerimage
-pscommand_get-envpathitem
-pscommand_get-envvar
-pscommand_get-envvarpathitem
 pscommand_get-gitbranchdefault
 pscommand_get-gitbranchlist
 pscommand_get-gitbranchlistall
@@ -6610,7 +6610,6 @@ pscommand_mcisk
 pscommand_mcp
 pscommand_mcpsk
 pscommand_mdep
-pscommand_measure-envvarchanges
 pscommand_merge-gitrepositoryfromoriginbranchmain
 pscommand_merge-gitrepositoryfromupstreambranchmain
 pscommand_mi
@@ -6724,14 +6723,10 @@ pscommand_pyserver
 pscommand_python
 pscommand_python3
 pscommand_rb
-pscommand_read-dotenv
 pscommand_register-argcompleteargumentcompleter
 pscommand_remove_gem
 pscommand_remove-dockercontainerall
 pscommand_remove-dockerunusedimage
-pscommand_remove-envpathitem
-pscommand_remove-envvar
-pscommand_remove-envvarpathitem
 pscommand_remove-gitbranch
 pscommand_remove-gitbranchforcefully
 pscommand_remove-gitremote
@@ -6761,7 +6756,6 @@ pscommand_scu-enable-now
 pscommand_scu-mask-now
 pscommand_search-commandpath
 pscommand_search-ruby
-pscommand_set-envvar
 pscommand_set-gitremoteurl
 pscommand_set-itemnixmode
 pscommand_set-locationback1
@@ -7048,8 +7042,6 @@ psfoldersize
 psfunction__python3
 psfunction_aar
 psfunction_add_ssh
-psfunction_add-envpathitem
-psfunction_add-envvarpathitem
 psfunction_add-gitlfstrackedfiles
 psfunction_add-gitremote
 psfunction_add-gitskipworktreeflag
@@ -7240,9 +7232,6 @@ psfunction_get-dockercontainerlatestipaddress
 psfunction_get-dockercontainerlatestquiet
 psfunction_get-dockercontainerrunning
 psfunction_get-dockerimage
-psfunction_get-envpathitem
-psfunction_get-envvar
-psfunction_get-envvarpathitem
 psfunction_get-gitbranchdefault
 psfunction_get-gitbranchlist
 psfunction_get-gitbranchlistall
@@ -7888,7 +7877,6 @@ psfunction_jump
 psfunction_kerndeb
 psfunction_kres
 psfunction_local-ignore
-psfunction_measure-envvarchanges
 psfunction_merge-gitrepositoryfromoriginbranchmain
 psfunction_merge-gitrepositoryfromupstreambranchmain
 psfunction_mirrorsite
@@ -7946,13 +7934,9 @@ psfunction_push-gitstashentry
 psfunction_push-gitstashentrywithmessage
 psfunction_pwshrc-show-proxy
 psfunction_pyserver
-psfunction_read-dotenv
 psfunction_register-argcompleteargumentcompleter
 psfunction_remove-dockercontainerall
 psfunction_remove-dockerunusedimage
-psfunction_remove-envpathitem
-psfunction_remove-envvar
-psfunction_remove-envvarpathitem
 psfunction_remove-gitbranch
 psfunction_remove-gitbranchforcefully
 psfunction_remove-gitremote
@@ -7980,7 +7964,6 @@ psfunction_scu-enable-now
 psfunction_scu-mask-now
 psfunction_search-commandpath
 psfunction_search-ruby
-psfunction_set-envvar
 psfunction_set-gitremoteurl
 psfunction_set-itemnixmode
 psfunction_set-locationback1
@@ -8191,6 +8174,7 @@ pullrequest
 pullserver
 pulseway
 pulumi
+punycode
 puppet
 puppetdb
 puppy
@@ -8431,6 +8415,7 @@ remote
 remote-desktop
 remote'
 remoteadmin
+remotecert
 remoteconnection
 remoteconnectionsmanager
 remotecontrol
@@ -8624,7 +8609,6 @@ runbooks
 runbookstudio
 runcommand
 rundeck
-runner
 runspace
 runspacepool
 runspaces
@@ -8650,6 +8634,7 @@ safeguard
 sage
 saggiehaim
 sailpoint
+sale
 sales
 salesforce
 salesloft
@@ -8783,6 +8768,7 @@ searchmanager
 searchplace
 searchquery
 searchstring
+searchsuffixlist
 secaas
 secedit
 secret
@@ -8896,7 +8882,6 @@ servicedesk
 servicedeskplus
 serviceendpoints
 servicefabric
-servicelinker
 servicemanagementautomation
 servicemanager
 servicemanagerproxy
@@ -9477,7 +9462,6 @@ syspip3
 sysprep
 system
 system information 1394 controller baseboard motherboard systemboard battery bios bus cache memory cd dvd rom drive compact disc desktop monitor disk partition fan floppy glide point heatpipe ide infrared device keyboard local logical array mouse'
-system-administration
 system-group
 system-service
 system-services
@@ -9561,7 +9545,6 @@ teamviewer
 techdirect
 techedna2014
 techlog
-technology
 techsmith
 tel
 telegram
@@ -9735,6 +9718,7 @@ tracing
 tracker
 tracking
 trading
+traffic
 trafficfiltering
 trafficmanager
 trafficmarking
@@ -9898,7 +9882,6 @@ ud-trendline
 ud-typing
 ud-window
 ud-wordtree
-udcm
 udfeedback
 udp
 udpclient
@@ -10037,6 +10020,7 @@ vagrant
 vale
 validate
 validate-dcb
+validatedsolutions
 validatemapsconnectivity
 validation
 validator
@@ -10055,7 +10039,6 @@ vaultstore
 vaultwarden
 vb365
 vba
-vbaproject
 vbproj
 vbr
 vbscript
@@ -10088,7 +10071,6 @@ venvlink
 vera
 veracrypt
 verbose
-verbose psmodule
 verification
 verify
 version
@@ -10145,6 +10127,7 @@ visualstudioonline
 visualstudioteamservices
 vlan
 vlookup
+vlsm
 vm
 vmc
 vmelamed5
@@ -10163,6 +10146,7 @@ vmware
 vmware.vsphere
 vmwarecloudfoundation
 vmwaredrs
+vmwarevalidatedsolutions
 vmwcluster
 vmwdatacenter
 vmwfolder
