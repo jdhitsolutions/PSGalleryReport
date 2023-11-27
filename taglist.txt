@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Sunday, 26 November 2023 17:52:31 UTC
+Updated: Monday, 27 November 2023 02:06:09 UTC
 
 .bat
 .env
@@ -13,6 +13,8 @@ Updated: Sunday, 26 November 2023 17:52:31 UTC
 'files
 'provider'
 "interactive
+**psedition_desktop**
+**windows**
 🍄
 🍣
 💩
@@ -34,6 +36,7 @@ Updated: Sunday, 26 November 2023 17:52:31 UTC
 2018
 2019
 21vianet
+24-bit
 2fa
 300
 365
@@ -283,7 +286,6 @@ alpine
 alt3
 alter
 alteryx
-alwaysontop
 alwaysonvpn
 alz
 amateur
@@ -1649,6 +1651,7 @@ databasemigration
 databases
 databasetools
 databooster
+databox
 databoxedge
 databricks
 datacatalog
@@ -1727,6 +1730,7 @@ debugger
 debugging
 decimal
 decimalip
+decimalzero
 declarative
 decline
 decode
@@ -1933,6 +1937,7 @@ dnsclient
 dnsdumpster
 dnsentry
 dnsimple
+dnslookup
 dnsmadeeasy
 dnsoverhttps
 dnsrecord
@@ -2097,6 +2102,7 @@ dynamicsnav
 dynamodb
 dynatrace
 dynatraceobservability
+dz
 e-mail
 e1
 easy
@@ -2189,8 +2195,6 @@ engine
 engineevent
 english
 enhancement
-enrichers
-enrichment
 enteo
 enter
 enterprise
@@ -3042,9 +3046,7 @@ hotkey
 hotkeys
 howto
 hp
-hpc
 hpcc
-hpccache
 hpe
 hpealletra6000andnimblestoragepowershelltoolkit
 hpebioscmdlets
@@ -3220,18 +3222,21 @@ indicator
 inedo
 inetfwrule
 inetum
+infinity
 influx
 influxdb
 info
 infoblox
 information
+information-technology
 informationbarriers
+informationtechnology
+informationtechnologyoperations
 informix
 infosec
 infrastructure
 infrastructureascode
 ingestion
-inheritance
 ini
 inifile
 initialization
@@ -3292,6 +3297,7 @@ interlogix
 internal
 internet
 internet-explorer
+internetconnection
 internetexplorer
 intersight
 intersightcmdlets
@@ -3381,6 +3387,7 @@ ispss
 issues
 isvalidemail
 isvalidip
+it
 it-support
 it-tool
 it-tools
@@ -3761,8 +3768,10 @@ logonto
 logonuser
 logparser
 logrotate
+logrotation
 logs
 logstash
+logtools
 logz
 loki
 lol
@@ -4041,6 +4050,7 @@ minimum
 mip
 mipsdk
 miration-step
+mirror
 miscellaneous
 mitigation
 mitre
@@ -4385,6 +4395,7 @@ nprintingapi
 nps
 npslog
 npslogfile
+nql
 nrc
 nrql
 ns
@@ -4478,7 +4489,6 @@ ogg
 oh-my-posh
 oh-my-zsh
 oidc
-ok
 okta
 old
 older
@@ -4507,6 +4517,7 @@ onelogin
 oneloginapi
 onenote
 onestools
+onesubscription
 onetimesecret
 oneviewglobaldashboard
 online
@@ -4920,6 +4931,7 @@ poshy-coreutils-ish
 poshy-dir-nav
 poshy-ecks
 poshy-env-proxy
+poshy-env-var
 poshy-ls-isms
 poshy-lucidity
 poshy-multimedia
@@ -5229,6 +5241,8 @@ pscommand_acp
 pscommand_acse
 pscommand_acsp
 pscommand_add_ssh
+pscommand_add-envpathitem
+pscommand_add-envvarpathitem
 pscommand_add-gitlfstrackedfiles
 pscommand_add-gitremote
 pscommand_add-gitskipworktreeflag
@@ -5636,6 +5650,9 @@ pscommand_get-dockercontainerlatestipaddress
 pscommand_get-dockercontainerlatestquiet
 pscommand_get-dockercontainerrunning
 pscommand_get-dockerimage
+pscommand_get-envpathitem
+pscommand_get-envvar
+pscommand_get-envvarpathitem
 pscommand_get-gitbranchdefault
 pscommand_get-gitbranchlist
 pscommand_get-gitbranchlistall
@@ -6610,6 +6627,7 @@ pscommand_mcisk
 pscommand_mcp
 pscommand_mcpsk
 pscommand_mdep
+pscommand_measure-envvarchanges
 pscommand_merge-gitrepositoryfromoriginbranchmain
 pscommand_merge-gitrepositoryfromupstreambranchmain
 pscommand_mi
@@ -6723,10 +6741,14 @@ pscommand_pyserver
 pscommand_python
 pscommand_python3
 pscommand_rb
+pscommand_read-dotenv
 pscommand_register-argcompleteargumentcompleter
 pscommand_remove_gem
 pscommand_remove-dockercontainerall
 pscommand_remove-dockerunusedimage
+pscommand_remove-envpathitem
+pscommand_remove-envvar
+pscommand_remove-envvarpathitem
 pscommand_remove-gitbranch
 pscommand_remove-gitbranchforcefully
 pscommand_remove-gitremote
@@ -6756,6 +6778,7 @@ pscommand_scu-enable-now
 pscommand_scu-mask-now
 pscommand_search-commandpath
 pscommand_search-ruby
+pscommand_set-envvar
 pscommand_set-gitremoteurl
 pscommand_set-itemnixmode
 pscommand_set-locationback1
@@ -7042,6 +7065,8 @@ psfoldersize
 psfunction__python3
 psfunction_aar
 psfunction_add_ssh
+psfunction_add-envpathitem
+psfunction_add-envvarpathitem
 psfunction_add-gitlfstrackedfiles
 psfunction_add-gitremote
 psfunction_add-gitskipworktreeflag
@@ -7232,6 +7257,9 @@ psfunction_get-dockercontainerlatestipaddress
 psfunction_get-dockercontainerlatestquiet
 psfunction_get-dockercontainerrunning
 psfunction_get-dockerimage
+psfunction_get-envpathitem
+psfunction_get-envvar
+psfunction_get-envvarpathitem
 psfunction_get-gitbranchdefault
 psfunction_get-gitbranchlist
 psfunction_get-gitbranchlistall
@@ -7877,6 +7905,7 @@ psfunction_jump
 psfunction_kerndeb
 psfunction_kres
 psfunction_local-ignore
+psfunction_measure-envvarchanges
 psfunction_merge-gitrepositoryfromoriginbranchmain
 psfunction_merge-gitrepositoryfromupstreambranchmain
 psfunction_mirrorsite
@@ -7934,9 +7963,13 @@ psfunction_push-gitstashentry
 psfunction_push-gitstashentrywithmessage
 psfunction_pwshrc-show-proxy
 psfunction_pyserver
+psfunction_read-dotenv
 psfunction_register-argcompleteargumentcompleter
 psfunction_remove-dockercontainerall
 psfunction_remove-dockerunusedimage
+psfunction_remove-envpathitem
+psfunction_remove-envvar
+psfunction_remove-envvarpathitem
 psfunction_remove-gitbranch
 psfunction_remove-gitbranchforcefully
 psfunction_remove-gitremote
@@ -7964,6 +7997,7 @@ psfunction_scu-enable-now
 psfunction_scu-mask-now
 psfunction_search-commandpath
 psfunction_search-ruby
+psfunction_set-envvar
 psfunction_set-gitremoteurl
 psfunction_set-itemnixmode
 psfunction_set-locationback1
@@ -8609,6 +8643,7 @@ runbooks
 runbookstudio
 runcommand
 rundeck
+runner
 runspace
 runspacepool
 runspaces
@@ -8620,7 +8655,6 @@ rust
 rust-lang
 ryanairps
 ryver
-s.ds.p
 s1
 s3
 s4b
@@ -8882,6 +8916,7 @@ servicedesk
 servicedeskplus
 serviceendpoints
 servicefabric
+servicelinker
 servicemanagementautomation
 servicemanager
 servicemanagerproxy
@@ -9462,10 +9497,10 @@ syspip3
 sysprep
 system
 system information 1394 controller baseboard motherboard systemboard battery bios bus cache memory cd dvd rom drive compact disc desktop monitor disk partition fan floppy glide point heatpipe ide infrared device keyboard local logical array mouse'
+system-administration
 system-group
 system-service
 system-services
-system.directoryservices.protocols
 system.text
 systemcenter
 systemcolors
@@ -9545,6 +9580,7 @@ teamviewer
 techdirect
 techedna2014
 techlog
+technology
 techsmith
 tel
 telegram
@@ -9573,7 +9609,6 @@ terminal-interface
 terminal-services
 terminal.gui
 terminalnotifier
-terminalvelocity
 termset
 terraform
 terraformcloud
@@ -9583,6 +9618,7 @@ tesla
 test
 test-automation
 test-dscconfiguration
+test-internetconnection
 test-modulepath
 test-osplatform
 test-psremoting
@@ -9634,7 +9670,6 @@ third-party-libraries
 third-party-notice
 thispc
 thoughtfortheday
-thousandeyes
 thread
 threading
 threadjob
@@ -9809,7 +9844,6 @@ twitter-client
 twitter-follow
 twitter-hashtag
 twitter-mention
-twitter-share
 twitter-timeline
 twitter-tweet
 txt
@@ -9867,7 +9901,6 @@ ud-selectdatetime
 ud-selector
 ud-signature
 ud-simpledrawer
-ud-singleselect
 ud-slider
 ud-speechbubble
 ud-step
@@ -9882,6 +9915,7 @@ ud-trendline
 ud-typing
 ud-window
 ud-wordtree
+udcm
 udfeedback
 udp
 udpclient
@@ -9954,7 +9988,6 @@ updmgmt
 upgrade
 uplift
 uplink
-upn
 ups
 upsource
 upstream
@@ -10039,6 +10072,7 @@ vaultstore
 vaultwarden
 vb365
 vba
+vbaproject
 vbproj
 vbr
 vbscript
@@ -10070,7 +10104,7 @@ venue
 venvlink
 vera
 veracrypt
-verbose
+verbose psmodule
 verification
 verify
 version
@@ -10295,7 +10329,6 @@ webtest
 webtesting
 webtime
 wec
-wecutil
 weekday
 wef
 weixin
