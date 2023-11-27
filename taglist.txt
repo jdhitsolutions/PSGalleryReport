@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 27 November 2023 02:06:09 UTC
+Updated: Monday, 27 November 2023 09:52:40 UTC
 
 .bat
 .env
@@ -71,7 +71,6 @@ abc
 abc_testing
 abe
 about
-abr
 abstractsyntaxtree
 abuse
 abuseipdb
@@ -178,7 +177,6 @@ adm
 admf
 admin
 admin-tools
-adminbyrequest
 admindirectory
 administration
 administrative
@@ -286,6 +284,7 @@ alpine
 alt3
 alter
 alteryx
+alwaysontop
 alwaysonvpn
 alz
 amateur
@@ -1457,7 +1456,6 @@ cos
 cosmos
 cosmosdb
 cost
-costmanagement
 costoptimization
 couchbase
 couchdb
@@ -1563,7 +1561,6 @@ culture
 cumulative
 cumulativeupdate
 cumulocity
-curious
 curl
 curlie
 currency
@@ -1871,8 +1868,6 @@ disable
 disable-internet
 disable-psremoting
 disablefilesyncngsc
-disablestartbutton
-disablestartkey
 disasm
 disasterrecovery
 disconnect
@@ -2195,6 +2190,8 @@ engine
 engineevent
 english
 enhancement
+enrichers
+enrichment
 enteo
 enter
 enterprise
@@ -2237,7 +2234,6 @@ error-log
 errorcode
 errorfile
 errors
-errorview
 eryph
 esae
 escape
@@ -2349,12 +2345,10 @@ expand-tab
 expandframework
 expect
 experience
-experiments
 expired
 expiring
 expiry
 exploit
-exploration
 explorer
 exponentiation
 export
@@ -2413,7 +2407,6 @@ fastgit
 fastlinq
 fastlookup
 fastping
-fasttrack
 favorites
 fb-pro
 fciv
@@ -2515,7 +2508,6 @@ findplace
 findproxyforurl
 fine-print
 fine-tuning
-finops
 firebird
 firefox
 firewall
@@ -2627,7 +2619,6 @@ ftps
 fu-msauth
 fudge
 fudgepop
-fujitsu
 full
 full-metal-gnome
 fullclr
@@ -2797,7 +2788,6 @@ godaddy
 golang
 goldengate
 goldsource
-goldsource-dedicated-server
 google
 google-chrome
 google-histogram
@@ -3046,7 +3036,9 @@ hotkey
 hotkeys
 howto
 hp
+hpc
 hpcc
+hpccache
 hpe
 hpealletra6000andnimblestoragepowershelltoolkit
 hpebioscmdlets
@@ -3507,7 +3499,6 @@ key2wocas
 keybase
 keybinding
 keyboard
-keyboardstartkey
 keycipher
 keylight
 keymanagement
@@ -3688,7 +3679,6 @@ live
 lldp
 lmhost
 lmhosts
-lms
 load
 loadbalancer
 loadbalancer.org
@@ -3880,7 +3870,6 @@ marketing
 marketo
 marketplace
 marketplaceordering
-marketplacepublisher
 marking
 marklogic
 marquee
@@ -4011,7 +4000,6 @@ microsoft365
 microsoft365dsc
 microsoftauthenticationlibrary
 microsoftazure
-microsoftcloud
 microsoftdefender
 microsoftdefenderatp
 microsoftdeploymenttoolkit
@@ -4102,7 +4090,6 @@ monitoring_variables
 monitoringplugins
 monitoringsolutions
 monthlyupdate
-moodle
 moonshot
 more
 mosaic
@@ -4445,7 +4432,6 @@ obj
 object
 objectid
 objectstorage
-objecttree
 obs
 observeit
 oce
@@ -4541,7 +4527,6 @@ opa
 opc
 open
 open-ai
-open-ssh
 openai
 openamt
 openapi
@@ -4672,7 +4657,6 @@ packet
 packing
 pacli
 page
-pageant
 pager
 pagerduty
 pages
@@ -8199,7 +8183,6 @@ publicip
 publish
 publishedmodules
 publisher
-publishers
 publishing
 pubsub
 pubxml
@@ -8329,7 +8312,6 @@ razzle
 rbac
 rbacmodel
 rbsu
-rcon
 rcs
 rcu
 rdb
@@ -8655,6 +8637,7 @@ rust
 rust-lang
 ryanairps
 ryver
+s.ds.p
 s1
 s3
 s4b
@@ -9170,14 +9153,12 @@ sophos
 sort
 sorting
 source
-source-dedicated-server
 sourcecontrol
 sourceforge
 sourcegraph
 sourcemod
 sourceone
 sourcepawn
-sourcequery
 sovcloud
 space
 spaces
@@ -9320,7 +9301,6 @@ start
 start-job
 start-jobthread
 start-threadjob
-startkey
 startmen
 startmenu
 starttls
@@ -9346,7 +9326,6 @@ stderr
 stdio
 stdout
 steam
-steam-games
 steamcmd
 stepper
 sticker
@@ -9501,6 +9480,7 @@ system-administration
 system-group
 system-service
 system-services
+system.directoryservices.protocols
 system.text
 systemcenter
 systemcolors
@@ -9609,6 +9589,7 @@ terminal-interface
 terminal-services
 terminal.gui
 terminalnotifier
+terminalvelocity
 termset
 terraform
 terraformcloud
@@ -9670,6 +9651,7 @@ third-party-libraries
 third-party-notice
 thispc
 thoughtfortheday
+thousandeyes
 thread
 threading
 threadjob
@@ -9844,6 +9826,7 @@ twitter-client
 twitter-follow
 twitter-hashtag
 twitter-mention
+twitter-share
 twitter-timeline
 twitter-tweet
 txt
@@ -9901,6 +9884,7 @@ ud-selectdatetime
 ud-selector
 ud-signature
 ud-simpledrawer
+ud-singleselect
 ud-slider
 ud-speechbubble
 ud-step
@@ -10329,9 +10313,9 @@ webtest
 webtesting
 webtime
 wec
+wecutil
 weekday
 wef
-weixin
 well-known
 wem
 wemsdk
@@ -10640,7 +10624,6 @@ zigbee
 zip
 zip-compression
 zipfile-transform
-zisson
 zoho
 zone
 zookeeper
