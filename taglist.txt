@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Wednesday, 29 November 2023 02:06:27 UTC
+Updated: Wednesday, 29 November 2023 09:52:50 UTC
 
 .bat
 .env
@@ -100,6 +100,7 @@ acme
 acmesharp
 acmesharp_ext
 act-on
+act!
 actifio
 actifiogo
 action
@@ -124,7 +125,6 @@ activedirectry-html
 activeefficiency
 activehours
 activeresponse
-activesession
 activiti
 activity
 activitycount
@@ -242,6 +242,8 @@ aim
 aip
 aipscanner
 aircall
+airpower
+airpwr
 airtable
 ais
 aispeech
@@ -363,9 +365,9 @@ apmsynthetics
 apmtraces
 aportal
 app
+app-control-for-business
 app-only
 app-v
-app-volumes
 app.config
 appattach
 appclusive
@@ -379,7 +381,9 @@ appinsights
 applayering
 apple
 application
+application-control
 application-transformer
+application-whitelisting
 applicationgateway
 applicationgrid
 applicationhost.config
@@ -398,7 +402,6 @@ appservices
 appsetting
 appv
 appveyor
-appvolumes
 appx
 appxmanifest
 aprs
@@ -548,7 +551,6 @@ automanage
 automate
 automated
 automatedlab
-automatenow
 automaticpacketreportingsystem
 automation
 automation psmodule
@@ -568,6 +570,7 @@ availability
 availabilityset
 avalara
 avalonia
+avatar
 avd
 ave
 avepoint
@@ -580,8 +583,6 @@ avset
 await
 awareness
 awesome
-awp
-awpagent
 aws
 aws_profile
 aws-codebuild
@@ -770,7 +771,6 @@ bicepnet
 big-ip
 big-iq
 bigcommerce
-bigeval
 bigfix
 bigquery
 bikeshed
@@ -924,6 +924,7 @@ bxor
 bydesign
 byexample
 bynarypsmodule
+byovd
 byte
 bytearray
 bzip2
@@ -1027,7 +1028,6 @@ certificatemanager
 certificatepolicy
 certificates
 certificateservices
-certificatesmanagement
 certinia
 certutil
 cf
@@ -1065,7 +1065,6 @@ chefconf2016
 chenxizhang
 cherrypy
 cherwell
-chfs
 chi
 china
 chmod
@@ -1306,7 +1305,6 @@ completion
 completion-manager
 completionresult
 completions
-complex
 compliance
 compliant
 component
@@ -1445,6 +1443,7 @@ coreepower.net.soundcloudexplode
 coreposh
 coreutils
 corona
+cortex
 cos
 cosmos
 cosmosdb
@@ -1576,14 +1575,11 @@ customeventlogchannel
 customeventlogfile
 customeventlogfiles
 customevents
-custominformationservices
-customis
 customisation
 customization
 customlocation
 customlogs
 customproviders
-cutehttpfileserver
 cvad
 cve-2021-34527
 cvrf
@@ -1624,7 +1620,6 @@ dare
 dark
 dash
 dashboard
-dashboardapi
 dashboardservice
 dast
 data
@@ -1733,7 +1728,6 @@ decrypt
 decryption
 dedicatedhsm
 deduplication
-deep
 deep-security
 deep-security-manager
 deepl
@@ -1969,7 +1963,6 @@ dok
 dokuwiki
 domain
 domainkey
-domainname
 domains
 domino
 donothing
@@ -2054,6 +2047,7 @@ dts
 dtsx
 dtx
 du
+dual-stack
 duck
 duckduckgo
 dudckduckgo
@@ -2162,6 +2156,7 @@ emissions
 emoji
 emotion
 empire
+empty
 emwarehouse
 enable
 enable-internet
@@ -2185,8 +2180,6 @@ engine
 engineevent
 english
 enhancement
-enrichers
-enrichment
 enteo
 enter
 enterprise
@@ -2688,8 +2681,11 @@ genetic-algorithm
 genp
 genxdev
 geo
+geocache
+geocaching
 geoencode
 geoencoding
+geoip
 geolocation
 geosearching
 geotagging
@@ -2709,6 +2705,7 @@ get-dtdriverpack
 get-dtdriverupdates
 get-dtscriptnewcmpackagefromdriverpackpackagedefinitionsms
 get-dtscriptnewcmtasksequencefromdriverpackpackagedefinitionsms
+get-emptyadgroups
 get-externalip
 get-firmwaretype
 get-help
@@ -2724,6 +2721,8 @@ get-pinneditem
 get-samcmassignedsite
 get-samcmcurrentmanagementpoint
 get-samplingperiod
+get-stalecomps
+get-staleusers
 get-thermalstamp
 get-uptime
 getfirmwareenvironmentvariable
@@ -2743,6 +2742,8 @@ git
 git-client
 git-clone
 git-flow
+git-hf
+git-hubflow
 git-lfs
 git-proxy
 git-stat
@@ -2840,6 +2841,7 @@ greynoise
 grid
 gridfs
 grok
+groundspeak
 group
 group-membership
 group-policy
@@ -2925,7 +2927,6 @@ hcm
 hcx
 hdfs
 hdinsight
-hdinsightonaks
 header
 headhunter
 health
@@ -2965,7 +2966,6 @@ hewlett-packardenterprise
 hex
 hexdump
 hg
-hibernate
 hibernation
 hibp
 hidden
@@ -3060,6 +3060,7 @@ httpserver
 huawei
 huawei-ibmc-cmdlets
 hub
+hubflow
 hubot
 hubsite
 hubspot
@@ -3414,6 +3415,7 @@ jira
 jiraservicemanagement
 jitbit
 jms
+jmsjavadownloads
 jnet
 jnetps
 joat
@@ -3569,7 +3571,9 @@ laserbeams
 last
 last.fm
 lastfm
+lastlogon
 lastpass
+latency
 latestupdate
 latin
 latitude
@@ -3861,7 +3865,6 @@ marketing
 marketo
 marketplace
 marketplaceordering
-marketplacepublisher
 marking
 marklogic
 marquee
@@ -3937,13 +3940,11 @@ members
 membership
 memcm
 memory
-memorydump
 memorystream
 mention
 menu
 menus
 meraki
-merakiapi
 mercurial
 merge
 mermaid
@@ -4112,6 +4113,7 @@ msacpi_thermalzonetemperature
 msal
 msauth
 msband
+msbi
 msbuild
 mschart
 msdeploy
@@ -4271,7 +4273,6 @@ network
 network adapter configuration operating os optical sensor physical pointing portable printer processor cpu refrigaration cooling cooler removable usb sd ram dimm scsi sound audio card enclosure tape temperature touchpad touch pad touchscreen screen trackball trackpoint video graphics voltage psmodule
 network-credentials
 network-info
-networkanalytics
 networkcloud
 networkcontroller
 networkdiscovery
@@ -4493,7 +4494,6 @@ onedrive
 onedriveforbusiness
 oneget
 oneidentity
-onelogin
 oneloginapi
 onenote
 onestools
@@ -4550,6 +4550,7 @@ operationalinsights
 operations
 operationsmanagementsuite
 operationsmanagementsuiteagent
+operationvalidation
 operatoraccesscontrol
 opml
 ops
@@ -4637,6 +4638,7 @@ pac
 pack
 package
 package-management
+package-manager
 package-transform
 packagemanagement
 packagemanager
@@ -4921,7 +4923,6 @@ poshy-viewer-finder
 poshy-wrap
 poshy-wrap-apt
 poshy-wrap-argcomplete
-poshy-wrap-brew
 poshy-wrap-curl
 poshy-wrap-dnf
 poshy-wrap-docker
@@ -4932,6 +4933,7 @@ poshy-wrap-gem
 poshy-wrap-gh
 poshy-wrap-git
 poshy-wrap-git-flow
+poshy-wrap-git-hf
 poshy-wrap-git-lfs
 poshy-wrap-golang
 poshy-wrap-helm
@@ -5241,9 +5243,6 @@ pscommand_apt-list-packages
 pscommand_arch
 pscommand_asrc
 pscommand_basename
-pscommand_bcubc
-pscommand_bcubo
-pscommand_bfu
 pscommand_bgblack
 pscommand_bgblue
 pscommand_bgbrightblack
@@ -5263,14 +5262,6 @@ pscommand_bgred
 pscommand_bgrgb
 pscommand_bgwhite
 pscommand_bgyellow
-pscommand_brewp
-pscommand_brewsp
-pscommand_bubc
-pscommand_bubo
-pscommand_bubu
-pscommand_bubug
-pscommand_bugbc
-pscommand_buz
 pscommand_catimg
 pscommand_cd-
 pscommand_cd..
@@ -5713,6 +5704,12 @@ pscommand_ggf
 pscommand_ggs
 pscommand_ggui
 pscommand_ggup
+pscommand_ghf
+pscommand_ghff
+pscommand_ghfh
+pscommand_ghfr
+pscommand_ghfs
+pscommand_ghfu
 pscommand_ghm
 pscommand_gi
 pscommand_gignore
@@ -5903,17 +5900,6 @@ pscommand_invoke-aptgetsource
 pscommand_invoke-aptlistinstalled
 pscommand_invoke-aptlistupgradable
 pscommand_invoke-aptpreferred
-pscommand_invoke-brewlistpinned
-pscommand_invoke-brewpin
-pscommand_invoke-brewuninstallzap
-pscommand_invoke-brewupdateandoutdated
-pscommand_invoke-brewupdateandoutdatedandupgradeandcleanup
-pscommand_invoke-brewupdateandoutdatedandupgradegreedyandcleanup
-pscommand_invoke-brewupdateandoutdatedcask
-pscommand_invoke-brewupgradeandcleanup
-pscommand_invoke-brewupgradecaskandcleanup
-pscommand_invoke-brewupgradeformula
-pscommand_invoke-brewupgradegreedyandcleanup
 pscommand_invoke-curlfollowingredirects
 pscommand_invoke-curlfollowingredirectsdownloadasnamed
 pscommand_invoke-curlfollowingredirectsdownloadasnamedcontinue
@@ -6007,6 +5993,12 @@ pscommand_invoke-githubapi-bodyfields
 pscommand_invoke-githubapi-bodyfile
 pscommand_invoke-githubapi-bodyjson
 pscommand_invoke-githubapi-bodyraw
+pscommand_invoke-githubflow
+pscommand_invoke-githubflowfeature
+pscommand_invoke-githubflowhotfix
+pscommand_invoke-githubflowrelease
+pscommand_invoke-githubflowsupport
+pscommand_invoke-githubflowupdate
 pscommand_invoke-gitlfsinstall
 pscommand_invoke-gitlfsmigrateimport
 pscommand_invoke-gitmerge
@@ -7314,17 +7306,6 @@ psfunction_invoke-aptgetsource
 psfunction_invoke-aptlistinstalled
 psfunction_invoke-aptlistupgradable
 psfunction_invoke-aptpreferred
-psfunction_invoke-brewlistpinned
-psfunction_invoke-brewpin
-psfunction_invoke-brewuninstallzap
-psfunction_invoke-brewupdateandoutdated
-psfunction_invoke-brewupdateandoutdatedandupgradeandcleanup
-psfunction_invoke-brewupdateandoutdatedandupgradegreedyandcleanup
-psfunction_invoke-brewupdateandoutdatedcask
-psfunction_invoke-brewupgradeandcleanup
-psfunction_invoke-brewupgradecaskandcleanup
-psfunction_invoke-brewupgradeformula
-psfunction_invoke-brewupgradegreedyandcleanup
 psfunction_invoke-curlfollowingredirects
 psfunction_invoke-curlfollowingredirectsdownloadasnamed
 psfunction_invoke-curlfollowingredirectsdownloadasnamedcontinue
@@ -7418,6 +7399,12 @@ psfunction_invoke-githubapi-bodyfields
 psfunction_invoke-githubapi-bodyfile
 psfunction_invoke-githubapi-bodyjson
 psfunction_invoke-githubapi-bodyraw
+psfunction_invoke-githubflow
+psfunction_invoke-githubflowfeature
+psfunction_invoke-githubflowhotfix
+psfunction_invoke-githubflowrelease
+psfunction_invoke-githubflowsupport
+psfunction_invoke-githubflowupdate
 psfunction_invoke-gitlfsinstall
 psfunction_invoke-gitlfsmigrateimport
 psfunction_invoke-gitmerge
@@ -8078,6 +8065,7 @@ psjob
 psjobs
 psjobthreads
 pskeepass
+pslocalgallery
 psloganalytics
 psm
 psm1
@@ -8300,7 +8288,6 @@ rdg
 rdl
 rdm
 rdp
-rdpsession
 rdpsign
 rds
 rdsgw
@@ -8350,6 +8337,7 @@ redis
 redisenterprisecache
 redistributables
 redkite
+redseal
 redshift
 redteaming
 redundancy
@@ -8379,8 +8367,6 @@ regions
 regiser-argumentcompleter
 register
 register-argumentcompleter
-registered
-registrar
 registration
 registry
 regression
@@ -8400,7 +8386,6 @@ relic
 reload
 remediation
 remedy
-remember
 reminder
 remote
 remote-desktop
@@ -8419,9 +8404,7 @@ remotefiles
 remoteforensics
 remotehost
 remotelocalgroup
-remotelogoff
 remotemanagement
-remotesession
 remoting
 remove
 remove-githubsecrets
@@ -8434,7 +8417,6 @@ removetypeaccelerators
 remux
 ren-isac
 rename
-repair-msauth
 reparsepoint
 repeat
 repl
@@ -9120,8 +9102,6 @@ sonicwall
 sonicwallvpn
 sonus
 soon
-soonr
-soonragent
 sophos
 sort
 sorting
@@ -9219,6 +9199,7 @@ sqlproj
 sqlproject
 sqlps
 sqlserver
+sqlserveragent
 sqlserverbynarymodule
 sqlserverbynarypsmodule
 sqlservermodule
@@ -9520,7 +9501,6 @@ tcpip
 tcpport
 tcprjmgmt
 tcpserver
-tcptest
 tcx
 tcxaemgmt
 tdd
@@ -9585,8 +9565,8 @@ test-userisadministrator
 test-xml
 test123
 testaccount
-testautomation
 tester
+testimonial
 testing
 testlab
 testplans
@@ -9689,6 +9669,7 @@ topdesk
 topgrade
 topics
 topology
+tor
 toradex
 torizon
 torrent
@@ -9704,7 +9685,6 @@ tr064
 trace
 traceevent
 tracer
-tracert
 tracing
 tracker
 tracking
@@ -9877,7 +9857,6 @@ udcm
 udfeedback
 udp
 udpclient
-udptest
 udr
 udthememode
 udword
@@ -10200,6 +10179,7 @@ vsts
 vsts-cli
 vulnerability
 vulnerabilityassessment
+vulnerabilityscanning
 vum
 vvx
 vxrail
@@ -10239,6 +10219,7 @@ waykbastion
 wbem
 wcf
 wcry
+wdac
 wdapi
 wds
 weather
@@ -10281,7 +10262,6 @@ websockets
 websphere
 websphereappserver
 websphereportal
-webtest
 webtesting
 webtime
 wec
@@ -10337,6 +10317,7 @@ windows-10
 windows-api
 windows-control-panel
 windows-defender
+windows-defender-application-control
 windows-environment
 windows-explorer
 windows-features
@@ -10529,6 +10510,7 @@ xaf
 xbase
 xbox
 xclarity
+xdr
 xdschelper
 xdscresources
 xdt
@@ -10580,7 +10562,6 @@ ynab
 youtube
 youtube-dl
 youtubeextractor
-yq
 yubaba
 yum
 z
