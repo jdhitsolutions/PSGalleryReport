@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Wednesday, 29 November 2023 09:52:50 UTC
+Updated: Wednesday, 29 November 2023 17:52:52 UTC
 
 .bat
 .env
@@ -85,7 +85,6 @@ accesscontroldsc
 accessgovernancecp
 accesspoint
 accessrights
-accesstoken
 accord
 accord.net
 accordian
@@ -104,7 +103,6 @@ act!
 actifio
 actifiogo
 action
-action1
 actiongroup
 actionplan
 actions
@@ -366,8 +364,8 @@ apmtraces
 aportal
 app
 app-control-for-business
-app-only
 app-v
+app-volumes
 app.config
 appattach
 appclusive
@@ -402,6 +400,7 @@ appservices
 appsetting
 appv
 appveyor
+appvolumes
 appx
 appxmanifest
 aprs
@@ -551,6 +550,7 @@ automanage
 automate
 automated
 automatedlab
+automatenow
 automaticpacketreportingsystem
 automation
 automation psmodule
@@ -583,6 +583,8 @@ avset
 await
 awareness
 awesome
+awp
+awpagent
 aws
 aws_profile
 aws-codebuild
@@ -596,7 +598,6 @@ axis
 axium
 az
 az-cli
-az.stackhci
 azautomation
 azcli
 azcompute
@@ -819,9 +820,7 @@ blinking-text
 blob
 blobstorage
 block
-block-kit
 blockchain
-blocks
 blog
 blogs
 bls
@@ -891,7 +890,6 @@ btdf
 btm
 budget
 bugbounty
-bugzilla
 build
 build-log
 build-scripts
@@ -959,7 +957,6 @@ capture
 carbon
 carbonawarecomputing
 carbonintensity
-card
 cardwirth
 cargo
 carousel
@@ -981,7 +978,6 @@ cavium
 cb
 cblueshell
 cbr
-cbz
 cchoco
 cchocoex
 ccm
@@ -1028,6 +1024,7 @@ certificatemanager
 certificatepolicy
 certificates
 certificateservices
+certificatesmanagement
 certinia
 certutil
 cf
@@ -1063,8 +1060,8 @@ chef-compliance
 chef-server
 chefconf2016
 chenxizhang
-cherrypy
 cherwell
+chfs
 chi
 china
 chmod
@@ -1356,7 +1353,6 @@ connect-exchangeonprem
 connect-mstsc
 connect-rdp
 connect-remotedesktop
-connect-samcmsite
 connected
 connectedkubernetes
 connectedmachine
@@ -1505,7 +1501,6 @@ credentials-cache
 credentialsmanager
 credentialstore
 credentialutility
-credit
 credman
 credmanager
 crescendo
@@ -1575,11 +1570,14 @@ customeventlogchannel
 customeventlogfile
 customeventlogfiles
 customevents
+custominformationservices
+customis
 customisation
 customization
 customlocation
 customlogs
 customproviders
+cutehttpfileserver
 cvad
 cve-2021-34527
 cvrf
@@ -1620,6 +1618,7 @@ dare
 dark
 dash
 dashboard
+dashboardapi
 dashboardservice
 dast
 data
@@ -1728,6 +1727,7 @@ decrypt
 decryption
 dedicatedhsm
 deduplication
+deep
 deep-security
 deep-security-manager
 deepl
@@ -1745,7 +1745,6 @@ defenderast
 defenderforendpoint
 defense
 deflate
-delegated
 delegationmodel
 delete
 delete-orphan-branches
@@ -1798,7 +1797,6 @@ devenv
 devexpress
 deviation
 device
-devicecode
 deviceid
 deviceprovisioningservice
 devices
@@ -1963,6 +1961,7 @@ dok
 dokuwiki
 domain
 domainkey
+domainname
 domains
 domino
 donothing
@@ -2082,7 +2081,6 @@ dynamics365fo
 dynamics365sales
 dynamics365server
 dynamicsax
-dynamicsecuritygroups
 dynamicsnav
 dynamodb
 dynatrace
@@ -2180,6 +2178,8 @@ engine
 engineevent
 english
 enhancement
+enrichers
+enrichment
 enteo
 enter
 enterprise
@@ -2718,8 +2718,6 @@ get-passivetrippoint
 get-passlist
 get-path
 get-pinneditem
-get-samcmassignedsite
-get-samcmcurrentmanagementpoint
 get-samplingperiod
 get-stalecomps
 get-staleusers
@@ -2788,7 +2786,6 @@ google-chrome
 google-histogram
 google-sankey
 google-table
-googleadsv2
 googlecloudplatform
 googledrive
 googlemap
@@ -2927,6 +2924,7 @@ hcm
 hcx
 hdfs
 hdinsight
+hdinsightonaks
 header
 headhunter
 health
@@ -2966,6 +2964,7 @@ hewlett-packardenterprise
 hex
 hexdump
 hg
+hibernate
 hibernation
 hibp
 hidden
@@ -3190,7 +3189,6 @@ import-csv
 import-dtdriverpackpackagedefinitionsms
 import-modulefrompath
 import-passlist
-import-sampackagedefinitionsms
 importer
 importexport
 importteams
@@ -3485,7 +3483,6 @@ kelverion
 kentico
 kerberos
 kernel32
-kestrel
 key
 key-vault
 key2wocas
@@ -3865,6 +3862,7 @@ marketing
 marketo
 marketplace
 marketplaceordering
+marketplacepublisher
 marking
 marklogic
 marquee
@@ -3940,11 +3938,13 @@ members
 membership
 memcm
 memory
+memorydump
 memorystream
 mention
 menu
 menus
 meraki
+merakiapi
 mercurial
 merge
 mermaid
@@ -4266,13 +4266,13 @@ netscaler
 netscape
 netsec
 netsh
-netspell
 netstat
 netsuite
 network
 network adapter configuration operating os optical sensor physical pointing portable printer processor cpu refrigaration cooling cooler removable usb sd ram dimm scsi sound audio card enclosure tape temperature touchpad touch pad touchscreen screen trackball trackpoint video graphics voltage psmodule
 network-credentials
 network-info
+networkanalytics
 networkcloud
 networkcontroller
 networkdiscovery
@@ -4300,8 +4300,6 @@ new-item
 new-itemproperty
 new-pinneditem
 new-rdpsession
-new-samcmapplicationfrompackagedefinitionsms
-new-samcmpackagefrompackagedefinitionsms
 new-system
 new-udmorph
 new-win32app
@@ -4310,7 +4308,6 @@ newrelic
 news
 newspaper
 newtonsoft
-newtonsoft.json
 nexenta
 nexentastor
 nexthink
@@ -4442,11 +4439,9 @@ octopus.client
 octopusdeploy
 octopusenergy
 ocvp
-od4b
 oda
 odata
 odbc
-odfb
 odin
 odoo
 oem-charset
@@ -4491,7 +4486,6 @@ oncommand-insight
 ondemand
 one
 onedrive
-onedriveforbusiness
 oneget
 oneidentity
 oneloginapi
@@ -4795,7 +4789,6 @@ pim
 pin
 ping
 ping-async
-pingsweep
 pinneditem
 pinterest
 pinvoke
@@ -4923,6 +4916,7 @@ poshy-viewer-finder
 poshy-wrap
 poshy-wrap-apt
 poshy-wrap-argcomplete
+poshy-wrap-brew
 poshy-wrap-curl
 poshy-wrap-dnf
 poshy-wrap-docker
@@ -5243,6 +5237,9 @@ pscommand_apt-list-packages
 pscommand_arch
 pscommand_asrc
 pscommand_basename
+pscommand_bcubc
+pscommand_bcubo
+pscommand_bfu
 pscommand_bgblack
 pscommand_bgblue
 pscommand_bgbrightblack
@@ -5262,6 +5259,14 @@ pscommand_bgred
 pscommand_bgrgb
 pscommand_bgwhite
 pscommand_bgyellow
+pscommand_brewp
+pscommand_brewsp
+pscommand_bubc
+pscommand_bubo
+pscommand_bubu
+pscommand_bubug
+pscommand_bugbc
+pscommand_buz
 pscommand_catimg
 pscommand_cd-
 pscommand_cd..
@@ -5900,6 +5905,17 @@ pscommand_invoke-aptgetsource
 pscommand_invoke-aptlistinstalled
 pscommand_invoke-aptlistupgradable
 pscommand_invoke-aptpreferred
+pscommand_invoke-brewlistpinned
+pscommand_invoke-brewpin
+pscommand_invoke-brewuninstallzap
+pscommand_invoke-brewupdateandoutdated
+pscommand_invoke-brewupdateandoutdatedandupgradeandcleanup
+pscommand_invoke-brewupdateandoutdatedandupgradegreedyandcleanup
+pscommand_invoke-brewupdateandoutdatedcask
+pscommand_invoke-brewupgradeandcleanup
+pscommand_invoke-brewupgradecaskandcleanup
+pscommand_invoke-brewupgradeformula
+pscommand_invoke-brewupgradegreedyandcleanup
 pscommand_invoke-curlfollowingredirects
 pscommand_invoke-curlfollowingredirectsdownloadasnamed
 pscommand_invoke-curlfollowingredirectsdownloadasnamedcontinue
@@ -7306,6 +7322,17 @@ psfunction_invoke-aptgetsource
 psfunction_invoke-aptlistinstalled
 psfunction_invoke-aptlistupgradable
 psfunction_invoke-aptpreferred
+psfunction_invoke-brewlistpinned
+psfunction_invoke-brewpin
+psfunction_invoke-brewuninstallzap
+psfunction_invoke-brewupdateandoutdated
+psfunction_invoke-brewupdateandoutdatedandupgradeandcleanup
+psfunction_invoke-brewupdateandoutdatedandupgradegreedyandcleanup
+psfunction_invoke-brewupdateandoutdatedcask
+psfunction_invoke-brewupgradeandcleanup
+psfunction_invoke-brewupgradecaskandcleanup
+psfunction_invoke-brewupgradeformula
+psfunction_invoke-brewupgradegreedyandcleanup
 psfunction_invoke-curlfollowingredirects
 psfunction_invoke-curlfollowingredirectsdownloadasnamed
 psfunction_invoke-curlfollowingredirectsdownloadasnamedcontinue
@@ -8217,7 +8244,6 @@ qrs
 quality
 qualys
 quandl
-quantum
 quarantine
 queries
 query
@@ -8225,7 +8251,6 @@ queue
 queues
 queuing
 quickaccess
-quickbase
 quickbooks
 quicksetup
 quiz
@@ -8350,7 +8375,6 @@ reference
 reflect
 reflection
 refresh
-refreshtoken
 reg
 reg_binary
 reg_dword
@@ -8367,6 +8391,8 @@ regions
 regiser-argumentcompleter
 register
 register-argumentcompleter
+registered
+registrar
 registration
 registry
 regression
@@ -8417,6 +8443,7 @@ removetypeaccelerators
 remux
 ren-isac
 rename
+repair-msauth
 reparsepoint
 repeat
 repl
@@ -8467,7 +8494,6 @@ resources
 resourcesearch
 response
 rest
-rest_cherrypy
 rest-api
 restapi
 restart
@@ -8612,8 +8638,6 @@ sale
 sales
 salesforce
 salesloft
-salt
-salt-api
 saltstack
 saltstackconfig
 saltstackenterprise
@@ -8655,10 +8679,7 @@ scatter
 scb
 scc
 sccm
-sccmam
-sccmapplication
 sccminstall
-sccmpackage
 sccmprereqs
 scep
 sch
@@ -8688,6 +8709,7 @@ scom
 sconfig
 scoop
 scope
+score
 scouterna
 scouternasetjanster
 scoutnet
@@ -8828,6 +8850,7 @@ sentinelone
 sep
 seppmail
 seppmail.cloud
+seq
 sequence
 serial
 serialization
@@ -8909,7 +8932,6 @@ shacrypt
 shadow
 shadowcopy
 shadowcopybackups
-shadowgroups
 shanghaitech
 shard
 share
@@ -9102,6 +9124,8 @@ sonicwall
 sonicwallvpn
 sonus
 soon
+soonr
+soonragent
 sophos
 sort
 sorting
@@ -9144,7 +9168,6 @@ speed
 speedometer
 speedtest
 speedtester
-spellcheck
 spelling
 spf
 spi
@@ -9501,6 +9524,7 @@ tcpip
 tcpport
 tcprjmgmt
 tcpserver
+tcptest
 tcx
 tcxaemgmt
 tdd
@@ -9559,14 +9583,11 @@ test-internetconnection
 test-modulepath
 test-osplatform
 test-psremoting
-test-samcmapplicationexists
-test-samcmpackageexists
 test-userisadministrator
 test-xml
 test123
 testaccount
 tester
-testimonial
 testing
 testlab
 testplans
@@ -9622,7 +9643,6 @@ thunderbird
 thycotic
 tibber
 tic-tac-toe
-tickle
 ticks
 tictactoe
 tiermodel
@@ -9685,6 +9705,7 @@ tr064
 trace
 traceevent
 tracer
+tracert
 tracing
 tracker
 tracking
@@ -9857,6 +9878,7 @@ udcm
 udfeedback
 udp
 udpclient
+udptest
 udr
 udthememode
 udword
@@ -10262,6 +10284,7 @@ websockets
 websphere
 websphereappserver
 websphereportal
+webtest
 webtesting
 webtime
 wec
@@ -10431,7 +10454,6 @@ workingdays
 workinghours
 workingtime
 workload-automation
-workloads
 workpoint
 workrequests
 worksheet
@@ -10557,11 +10579,11 @@ yandex
 yapg
 yarn
 yetanotherhelloworld
-yml
 ynab
 youtube
 youtube-dl
 youtubeextractor
+yq
 yubaba
 yum
 z
