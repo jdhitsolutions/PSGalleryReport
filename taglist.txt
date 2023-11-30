@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Thursday, 30 November 2023 09:52:33 UTC
+Updated: Thursday, 30 November 2023 17:52:31 UTC
 
 .bat
 .env
@@ -171,7 +171,6 @@ adfsendpoint
 adfstoolkit
 adfstools
 adgroupmemberobjects
-adgroupmembers
 adgroups
 adif
 adm
@@ -212,7 +211,6 @@ adv190013
 adv220002
 advanced
 advapi32
-advice
 advisor
 adwords
 adx
@@ -299,7 +297,6 @@ amazonmgn
 amazonwebservices
 amend
 ami
-amiga
 amp
 amqp
 amsi
@@ -315,7 +312,6 @@ analyticsrules
 analyze
 analyzer
 analyzerrules
-anchor
 and
 android
 anet
@@ -554,6 +550,7 @@ automanage
 automate
 automated
 automatedlab
+automatenow
 automaticpacketreportingsystem
 automation
 automation psmodule
@@ -568,12 +565,10 @@ autounattend
 autoupdate
 autoupdate-script
 autoyast
-auvik
 availability
 availabilityset
 avalara
 avalonia
-avatar
 avd
 ave
 avepoint
@@ -594,7 +589,6 @@ aws-codebuild
 aws-lambda
 aws-vault
 awscli
-awspricelist
 axapta
 axinom
 axis
@@ -644,6 +638,7 @@ azuread
 azureadbackupandrestore
 azureadconnect
 azureadgraph
+azureadtoolkit
 azureappconfiguration
 azureas
 azureautomation
@@ -813,8 +808,6 @@ biztalkdeploymentframework
 bks
 black
 blackbaud
-blackberry
-blackberryuem
 blackbox
 blacklist
 blade
@@ -896,7 +889,6 @@ btdf
 btm
 budget
 bugbounty
-bugzilla
 build
 build-log
 build-scripts
@@ -1116,8 +1108,6 @@ cis
 cisco
 ciscoucscmdlets
 ciscoucsdsc
-citation
-cite
 citrix
 citrixoptimizer
 civo
@@ -1237,7 +1227,6 @@ code365
 codeanalysis
 codebuild
 codecommit
-codecomplexity
 codecov
 codecoverage
 codegen
@@ -1310,6 +1299,7 @@ complete
 completer
 completion
 completion-manager
+completionresult
 completions
 compliance
 compliant
@@ -1357,6 +1347,7 @@ confluence
 confluent
 conjecture
 connect
+connect-dtcmsite
 connect-exchangeonprem
 connect-mstsc
 connect-rdp
@@ -1376,7 +1367,6 @@ connectivity
 connectwise
 conservation
 console
-consoleguitools
 consolemenu
 consolemusic
 consumer
@@ -1413,6 +1403,7 @@ converged_data_management
 conversational
 conversion
 convert
+convert-dtexceptiontomessage
 convert-movietogif
 convert-sid
 convert-windowsimage
@@ -1441,6 +1432,7 @@ coreepower
 coreepower.common
 coreepower.config
 coreepower.lib
+coreepower.module
 coreepower.net
 coreepower.net.soundcloudexplode
 coreposh
@@ -2003,7 +1995,6 @@ dq
 dr
 draw
 drawio
-dreams
 dreamweaver
 dreary
 drift
@@ -2012,7 +2003,11 @@ drive
 drive letter
 drivemap
 driver
+driverpacks
 drivers
+drivertool
+drivertool.powercli
+driverupdates
 drm
 drone.io
 drop
@@ -2051,7 +2046,6 @@ dts
 dtsx
 dtx
 du
-dual-stack
 duck
 duckduckgo
 dudckduckgo
@@ -2086,7 +2080,6 @@ dynamics365fo
 dynamics365sales
 dynamics365server
 dynamicsax
-dynamicsecuritygroups
 dynamicsnav
 dynamodb
 dynatrace
@@ -2339,7 +2332,6 @@ expand-string
 expand-tab
 expandframework
 expect
-experience
 experiments
 expired
 expiring
@@ -2388,7 +2380,6 @@ factoryorchestratorclient
 facts
 faf
 failedlogin
-failure
 falcon
 fallbackstatuspoint
 fanarttv
@@ -2563,7 +2554,6 @@ forensics
 forest
 forestdiscovery
 forgit
-forgiveness
 form
 format
 format-numberedlist
@@ -2706,6 +2696,11 @@ get-criticaltrippoint
 get-currentcputemperature
 get-dellwarranty
 get-directorycontents
+get-dtcmdevicemodel
+get-dtdriverpack
+get-dtdriverupdates
+get-dtscriptnewcmpackagefromdriverpackpackagedefinitionsms
+get-dtscriptnewcmtasksequencefromdriverpackpackagedefinitionsms
 get-emptyadgroups
 get-externalip
 get-firmwaretype
@@ -2748,8 +2743,6 @@ git-hubflow
 git-lfs
 git-proxy
 git-stat
-gitcmdline
-gitdesktop
 gitea
 gitflow
 gitforwindows
@@ -2788,7 +2781,6 @@ google
 google-chrome
 google-histogram
 google-sankey
-google-table
 googleadsv2
 googlecloudplatform
 googledrive
@@ -2927,7 +2919,6 @@ hcl
 hcx
 hdfs
 hdinsight
-hdinsightonaks
 header
 headhunter
 health
@@ -2953,6 +2944,7 @@ helm
 helmet
 help
 helpdesk
+helpdoc
 helper
 helper-functions
 helperfunctions
@@ -2966,6 +2958,7 @@ hewlett-packardenterprise
 hex
 hexdump
 hg
+hibernate
 hibernation
 hibp
 hidden
@@ -3176,7 +3169,6 @@ imageslide
 imagevalidate
 imagevalidation
 imagga
-imagination
 imaging
 imap
 imb
@@ -3187,6 +3179,7 @@ impersonation
 imperva
 import
 import-csv
+import-dtdriverpackpackagedefinitionsms
 import-modulefrompath
 import-passlist
 import-sampackagedefinitionsms
@@ -3239,9 +3232,6 @@ insight
 insightanalytics
 insights
 inspect
-inspiration
-inspirationalquotes
-inspire
 inspur
 instagram
 install
@@ -3270,7 +3260,6 @@ integrationservicescatalog
 integrity
 intel
 inteligo
-intelligence
 intelligence"
 intellisearch
 intellisense
@@ -3307,6 +3296,9 @@ invoke-asadministrator
 invoke-ascurrentuser
 invoke-automation
 invoke-build
+invoke-dtdownloaddriverpack
+invoke-dtdownloaddriverupdates
+invoke-dtdrivertool
 invoke-msbuild
 invoke-msbuildpreprocess
 invoke-vsbuild
@@ -3411,7 +3403,6 @@ jira
 jiraservicemanagement
 jitbit
 jms
-jmsjavadownloads
 jnet
 jnetps
 joat
@@ -3424,6 +3415,7 @@ join
 join-object
 jojoba
 joke
+jotform
 journal
 joyride
 jpg
@@ -3444,10 +3436,8 @@ jumbo
 jump
 jump-location
 jumpcloud
-jumpstart
 junction
 junctions
-junit
 jupyter
 jupytor
 justenoughadministration
@@ -3624,9 +3614,6 @@ licensemanager
 licensereport
 licenses
 licensing
-life
-lifequotes
-lifestyle
 light
 lights
 lime
@@ -3764,8 +3751,6 @@ lookup
 loop
 loopback
 loremipsum
-love
-lovequotes
 lpsiamol
 ls
 lsa
@@ -3846,6 +3831,7 @@ manual
 map
 mapapi
 mapi
+mappeddrives
 mapper24
 mapping
 maps
@@ -3920,7 +3906,6 @@ mediant
 mediaplayer
 mediaservices
 mediawiki
-meditation
 meesman
 meeting
 meetup
@@ -3937,7 +3922,6 @@ memcm
 memory
 memorydump
 memorystream
-mention
 menu
 menus
 meraki
@@ -3967,6 +3951,7 @@ mgn
 mi
 micro-orm
 microfocus
+microk8s
 microservices
 microsoft
 microsoft_365
@@ -4085,8 +4070,7 @@ moonshot
 more
 mosaic
 motd
-motivation
-motivationalquotes
+mount
 mouse
 move
 movies
@@ -4272,6 +4256,7 @@ networkanalytics
 networkcloud
 networkcontroller
 networkdiscovery
+networkdrives
 networkfirewall
 networkfunction
 networkinfo
@@ -4282,9 +4267,12 @@ networkpolicyserver
 networkscan
 networksecurity
 networksecuritygroup
+networkshares
 netwrix
 new
 new-completionresult
+new-dtcmpackagefromdriverpackpackagedefinitionsms
+new-dtcmtasksequencefromdriverpackpackagedefinitionsms
 new-dynamicdictionary
 new-dynamicparameter
 new-githubrelease
@@ -4345,12 +4333,10 @@ norskale
 norway
 norwegian
 nosql
-note
 notebook
 notepad
 notepad2
 noteproperty
-notes
 notification
 notificationhubs
 notifications
@@ -4423,7 +4409,6 @@ obs
 observeit
 oce
 ocg
-ocgv
 oci
 ocicontrolcenter
 ocr
@@ -4434,11 +4419,9 @@ octopus.client
 octopusdeploy
 octopusenergy
 ocvp
-od4b
 oda
 odata
 odbc
-odfb
 odin
 odoo
 oem-charset
@@ -4451,7 +4434,6 @@ office2013
 office2016
 office2019
 office365
-officedev
 officegraph
 officemessageencryption
 officertool
@@ -4483,7 +4465,6 @@ oncommand-insight
 ondemand
 one
 onedrive
-onedriveforbusiness
 oneget
 oneidentity
 onelogin
@@ -4527,7 +4508,6 @@ openidconnect
 openinghours
 openport
 openprovider
-openscad
 opensearch
 opensource
 opensourceinitiative
@@ -4624,7 +4604,6 @@ owner
 oxygen
 oxyplot
 p2000
-p2s
 pa1reg
 paas
 pac
@@ -4822,7 +4801,6 @@ playback
 playbook
 player
 playlists
-pleasant
 pleasantpasswordserver
 plex
 plist
@@ -4839,10 +4817,7 @@ pnp
 pnpm
 pode
 poe
-poem
-poetry
 point
-point-to-site
 pointer
 pokeapi
 pokedex
@@ -4893,8 +4868,10 @@ poshgrouppolicy
 poshkeepass
 poshlog
 poshorigin
+poshproject
 poshprtg
 poshrsjob
+poshtemplate
 poshwsus
 poshy-code-search
 poshy-colors
@@ -4949,6 +4926,7 @@ poshy-wrap-vault
 poshy-wrap-vscode
 poshy-wrap-wget
 poshy-wrap-wt
+poshy-wrap-yum
 poshy-wrap-zypper
 position
 post
@@ -4984,7 +4962,6 @@ powerplateform
 powerplatform
 powerprotect
 powerprotect_datamanager
-powersaving
 powerscheme
 powershell
 powershell-class
@@ -5028,6 +5005,7 @@ powershellmodule
 powershellmoduleupdate
 powershellpr0mpt
 powershellscript
+powershelltemplate
 powershelltraining
 powershelltypeaccelerators
 powershelluniversal
@@ -5040,7 +5018,6 @@ powertooldsc
 ppdm
 ppk
 pposh
-pps
 ppt
 pptp
 pptx
@@ -5069,7 +5046,6 @@ prettyprinter
 preview
 previousversions
 price
-pricelist
 primenumber
 primera
 principal
@@ -5124,6 +5100,7 @@ project-management
 projectmanagement
 projectreunion
 projects
+projecttemplate
 projectwise
 proliant
 prometheus
@@ -5141,7 +5118,6 @@ protection
 protocol
 protocols
 provance
-proverb
 provider
 providerhub
 provision
@@ -5176,7 +5152,6 @@ ps6
 ps7
 psa
 psadbscreencap
-psadgroupmembers
 psadt
 psake
 psappdeploytoolkit
@@ -6393,6 +6368,18 @@ pscommand_invoke-vscodewithextensionsdir
 pscommand_invoke-vscodewithlog
 pscommand_invoke-vscodewithuserdatadir
 pscommand_invoke-vscodewithwait
+pscommand_invoke-yumcleanall
+pscommand_invoke-yumgroupinstall
+pscommand_invoke-yumgroupremove
+pscommand_invoke-yuminfo
+pscommand_invoke-yuminstall
+pscommand_invoke-yumlist
+pscommand_invoke-yumlistinstalled
+pscommand_invoke-yummakecache
+pscommand_invoke-yumremove
+pscommand_invoke-yumremoveleaves
+pscommand_invoke-yumsearch
+pscommand_invoke-yumupdate
 pscommand_invoke-zypper
 pscommand_invoke-zypperaddlock
 pscommand_invoke-zypperaddservice
@@ -6439,6 +6426,7 @@ pscommand_invoke-zypperupdate
 pscommand_invoke-zypperverify
 pscommand_invoke-zypperversioncompare
 pscommand_invoke-zypperwhatprovides
+pscommand_invokeyumgrouplist
 pscommand_ips
 pscommand_ipy
 pscommand_ipython
@@ -6911,6 +6899,19 @@ pscommand_write-gitcommitinteractively
 pscommand_write-gitcommitsignedoff
 pscommand_xin
 pscommand_xwith
+pscommand_yc
+pscommand_ygi
+pscommand_ygl
+pscommand_ygr
+pscommand_yi
+pscommand_yl
+pscommand_yli
+pscommand_ymc
+pscommand_yp
+pscommand_yr
+pscommand_yrl
+pscommand_ys
+pscommand_yu
 pscommand_z
 pscommand_zal
 pscommand_zar
@@ -6959,7 +6960,6 @@ pscommand_zwp
 pscommander
 psconfasia
 psconfeu
-psconfig
 pscore
 pscredential
 pscribo
@@ -7784,6 +7784,18 @@ psfunction_invoke-vscodewithextensionsdir
 psfunction_invoke-vscodewithlog
 psfunction_invoke-vscodewithuserdatadir
 psfunction_invoke-vscodewithwait
+psfunction_invoke-yumcleanall
+psfunction_invoke-yumgroupinstall
+psfunction_invoke-yumgroupremove
+psfunction_invoke-yuminfo
+psfunction_invoke-yuminstall
+psfunction_invoke-yumlist
+psfunction_invoke-yumlistinstalled
+psfunction_invoke-yummakecache
+psfunction_invoke-yumremove
+psfunction_invoke-yumremoveleaves
+psfunction_invoke-yumsearch
+psfunction_invoke-yumupdate
 psfunction_invoke-zypper
 psfunction_invoke-zypperaddlock
 psfunction_invoke-zypperaddservice
@@ -7830,6 +7842,7 @@ psfunction_invoke-zypperupdate
 psfunction_invoke-zypperverify
 psfunction_invoke-zypperversioncompare
 psfunction_invoke-zypperwhatprovides
+psfunction_invokeyumgrouplist
 psfunction_jump
 psfunction_kerndeb
 psfunction_kres
@@ -8215,9 +8228,7 @@ quiz
 qumulo
 quota
 quote
-quoteoftheday
 quotes
-quotestoliveby
 quoting
 quser
 qword
@@ -8330,7 +8341,6 @@ refactoring
 refeds
 refeds-mfa
 refedsmfa
-reference
 reflect
 reflection
 refresh
@@ -8412,7 +8422,6 @@ repl
 replace
 replaygain
 replication
-repoo
 report
 reporting
 reportingservicepoint
@@ -8588,6 +8597,8 @@ s1
 s3
 s4b
 saas
+sabnzbd
+sabnzbd+
 sacl
 safari
 safe
@@ -8632,6 +8643,7 @@ savov
 sbc
 sc
 scaffold
+scaffoldingtemplate
 scala
 scalable
 scalablevectorgraphics
@@ -8897,7 +8909,6 @@ shacrypt
 shadow
 shadowcopy
 shadowcopybackups
-shadowgroups
 shanghaitech
 shard
 share
@@ -8907,9 +8918,7 @@ shared
 sharefile
 sharepoint
 sharepoint_online
-sharepoint-on-prem
 sharepoint-online
-sharepoint-product-configuration-wizard
 sharepoint2013
 sharepointdevelopmentcommunity
 sharepointonline
@@ -8976,6 +8985,7 @@ sitecollection
 siteconfiguration
 sitecore
 sitemaintenance
+sitemap
 siterecovery
 sites
 sitesystemserver
@@ -9001,7 +9011,6 @@ skytap
 slack
 slash
 slashcommands
-slmgr
 sln
 slugify
 sm
@@ -9052,7 +9061,6 @@ snmpv3
 snmpwalk
 snowflake
 snsmssqlpsmodule
-snspsadgroupmembers
 snspsscriptsmonitoring
 snssqlitepsmodule
 sntp
@@ -9236,6 +9244,7 @@ staging
 stale
 stan
 stanc
+standalone
 standard
 standarderror
 standardoutput
@@ -9344,7 +9353,6 @@ subscriptiondefinition
 subset
 subsystem
 subtitle
-success
 successfactors
 sudo
 sugar
@@ -9388,6 +9396,7 @@ symbolic
 symbolic_link
 symboliclink
 symbols
+symbolservers
 symlink
 symmetric
 synapse
@@ -9658,7 +9667,6 @@ topdesk
 topgrade
 topics
 topology
-tor
 toradex
 torizon
 torrent
@@ -9679,7 +9687,6 @@ tracing
 tracker
 tracking
 trading
-traffic
 trafficfiltering
 trafficmanager
 trafficmarking
@@ -9705,7 +9712,6 @@ transmission
 transparency
 transpilation
 trap
-travel
 trec
 tree
 tree-structure
@@ -9730,6 +9736,7 @@ troubleshoot
 troubleshooting
 trouw
 true-color
+truecrypt
 truenas
 trumethods
 truportal
@@ -9737,7 +9744,6 @@ trusted
 trusted-host
 trustedhosts
 trustedrootcertificate
-truth
 trx
 ts
 tsa
@@ -9851,7 +9857,6 @@ udr
 udthememode
 udword
 uefi
-uem
 ui
 ui/ux
 ui7
@@ -9923,6 +9928,7 @@ uptimerobot
 uptobox
 uqword
 uri
+uri-scheme
 url
 url-encode
 url-shortener
@@ -10029,6 +10035,7 @@ vendor
 venue
 venvlink
 vera
+veracrypt
 verbose psmodule
 verification
 verify
@@ -10132,7 +10139,6 @@ vpc
 vpg
 vplex
 vpn
-vpn-certificate
 vpro
 vps
 vra
@@ -10151,11 +10157,13 @@ vsan+
 vscode
 vsdevcmd
 vsdevshell
+vsenvironment
 vsm
 vso
 vsphere
 vsphere+
 vss
+vssetup
 vsshell
 vst
 vsteambuilder
@@ -10533,6 +10541,7 @@ xsa
 xtremio
 xtrude
 xunit
+xwiki
 xwindowsupdate
 xwith
 yahoo
@@ -10550,13 +10559,13 @@ youtube-dl
 youtubeextractor
 yq
 yubaba
+yum
 z
 zabbix
 zabbixps
 zap
 zcat
 zendesk
-zerotrust
 zerto
 zigbee
 zip
