@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Saturday, 02 December 2023 02:03:00 UTC
+Updated: Saturday, 02 December 2023 09:52:39 UTC
 
 .bat
 .env
@@ -299,6 +299,7 @@ amazonmgn
 amazonwebservices
 amend
 ami
+amiga
 amp
 amqp
 amsi
@@ -844,7 +845,6 @@ boilerplate
 boinc
 bold-text
 bolt
-bom
 book
 bookmark
 bookmarks
@@ -1455,7 +1455,6 @@ cos
 cosmos
 cosmosdb
 cost
-costmanagement
 costoptimization
 couchbase
 couchdb
@@ -1474,7 +1473,6 @@ coveralls
 coveralls.io
 covid
 covid-19
-cpm
 cppm
 cpu
 cpuid
@@ -1746,6 +1744,7 @@ deepvisibility
 def
 default
 defaultparameter
+defaultroutes
 defaults
 defence
 defender
@@ -1789,7 +1788,6 @@ desk
 desktop
 desktopvirtualization
 details
-detect
 detection
 detectionrule
 deutsch
@@ -2127,6 +2125,7 @@ editorservices
 edr
 education
 educational
+effectiveroutes
 efi
 egrep
 eigencontroles
@@ -2225,7 +2224,6 @@ episode
 epplus
 eprosima
 epub
-epv
 equality
 erb
 erp
@@ -2271,7 +2269,6 @@ evc
 event
 event_id
 event_list
-event-timeline
 eventchannel
 eventchannels
 eventcollector
@@ -2394,6 +2391,7 @@ factoryorchestratorclient
 facts
 faf
 failedlogin
+failure
 falcon
 fallbackstatuspoint
 fanarttv
@@ -2511,7 +2509,6 @@ findplace
 findproxyforurl
 fine-print
 fine-tuning
-finops
 firebird
 firefox
 firewall
@@ -2851,6 +2848,7 @@ grep
 greynoise
 grid
 gridfs
+grok
 groundspeak
 group
 group-membership
@@ -3210,7 +3208,6 @@ incident
 incident-response
 incidentresponse
 incontact
-indents
 index
 indexdb
 indicator
@@ -3345,6 +3342,7 @@ ipcalc
 ipcalculator
 ipconfig
 iperf
+ipfy.org
 iphone
 ipilot
 iplookup
@@ -3359,7 +3357,6 @@ ipv6
 ipynb
 ir
 irc
-irkit
 irl
 irregular
 isadmin
@@ -3377,7 +3374,6 @@ iso-3166-1
 iso-8601
 ispac
 isprime
-ispss
 issues
 isvalidemail
 isvalidip
@@ -3649,7 +3645,6 @@ limit-job
 limits
 lina
 line
-line-endings
 linear
 linearalgebra
 link
@@ -3786,6 +3781,7 @@ lsa
 lsasecrets
 lsd
 ltm
+lucd
 lucene
 lunches
 lwa
@@ -3934,13 +3930,13 @@ mediant
 mediaplayer
 mediaservices
 mediawiki
+meditation
 meesman
 meeting
 meetup
 meetup.com
 meewind
 megabyte
-melamed
 meltdown
 mem
 member
@@ -4003,7 +3999,6 @@ microsoft365
 microsoft365dsc
 microsoftauthenticationlibrary
 microsoftazure
-microsoftcloud
 microsoftdefender
 microsoftdefenderatp
 microsoftdeploymenttoolkit
@@ -4029,7 +4024,6 @@ migration
 migration-tool
 migrations
 milestone
-mim
 mime
 mimekit
 min
@@ -4242,7 +4236,6 @@ nbi
 ncal
 ndes
 nebulon
-nec-infrared-transmission-protocol
 nederland
 nedyalkov
 neo4j
@@ -4694,7 +4687,6 @@ partitions
 partner
 partnercenter
 partnerportal
-pas
 pass
 passcode
 passivetotal
@@ -4741,7 +4733,6 @@ pbip
 pc
 pcapng
 pci-dss
-pcloud
 pcsetup
 pcsv
 pdb
@@ -5113,7 +5104,6 @@ privatekey
 privatemethods
 privateprofilestring
 privilege
-privilegecloud
 privileged
 privileges
 pro
@@ -8112,7 +8102,6 @@ psjobthreads
 pskeepass
 pslocalgallery
 psloganalytics
-psm
 psm1
 psmodule
 psmodule psedition_desktop
@@ -8487,7 +8476,6 @@ repos
 repositories
 repository
 request
-requestfiltering
 requiredmodules
 requirements
 res
@@ -8654,7 +8642,6 @@ sabnzbd
 sabnzbd+
 sacl
 safari
-safe
 safeguard
 sage
 saggiehaim
@@ -8934,6 +8921,7 @@ set-githubsecrets
 set-itemproperty
 set-location
 set-openfiles
+set-ownership
 set-pass
 set-psbreakpoint
 set-psenv
@@ -9531,6 +9519,7 @@ tagging
 tags
 tak
 taken
+takeown
 tally
 talxis
 tanss
@@ -10025,10 +10014,8 @@ usg
 usps
 utc
 utf-8
-utf-sig
 utf7
 utf8
-utf8-sig
 utf8bom
 util
 utilities
@@ -10042,7 +10029,6 @@ uup
 uw
 uwp
 ux
-vadim
 vagrant
 vale
 validate
@@ -10100,7 +10086,6 @@ vera
 veracrypt
 verbose psmodule
 verification
-verify
 version
 versioning
 versionmanager
@@ -10158,7 +10143,6 @@ vlookup
 vlsm
 vm
 vmc
-vmelamed5
 vmfs
 vmgroup
 vmhost
@@ -10175,6 +10159,10 @@ vmware.vsphere
 vmwarecloudfoundation
 vmwaredrs
 vmwarevalidatedsolutions
+vmwcluster
+vmwdatacenter
+vmwfolder
+vmwvmhost
 vnet
 vnmonitoring
 vnugglets
@@ -10191,8 +10179,6 @@ volumeshadowcopy
 volumio
 vorbis
 vovin
-vpas
-vpasmodule
 vpc
 vpg
 vplex
@@ -10329,6 +10315,7 @@ wemsdk
 wer
 wget
 what3words
+whatismyip
 whatsnew
 whatsupgold
 whd
