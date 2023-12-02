@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Friday, 01 December 2023 17:52:28 UTC
+Updated: Saturday, 02 December 2023 02:03:00 UTC
 
 .bat
 .env
@@ -299,7 +299,6 @@ amazonmgn
 amazonwebservices
 amend
 ami
-amiga
 amp
 amqp
 amsi
@@ -375,7 +374,6 @@ appattach
 appclusive
 appcmd
 appconfiguration
-appdynamics
 appearance
 appender
 appian
@@ -1447,6 +1445,7 @@ coreepower.common
 coreepower.config
 coreepower.lib
 coreepower.module
+coreepower.net
 coreepower.net.soundcloudexplode
 coreposh
 coreutils
@@ -1747,7 +1746,6 @@ deepvisibility
 def
 default
 defaultparameter
-defaultroutes
 defaults
 defence
 defender
@@ -1879,6 +1877,7 @@ discordrpc
 discount
 discover
 discovery
+discutils
 disk
 disk_to_disk
 disk-space
@@ -2128,7 +2127,6 @@ editorservices
 edr
 education
 educational
-effectiveroutes
 efi
 egrep
 eigencontroles
@@ -2396,7 +2394,6 @@ factoryorchestratorclient
 facts
 faf
 failedlogin
-failure
 falcon
 fallbackstatuspoint
 fanarttv
@@ -2854,7 +2851,6 @@ grep
 greynoise
 grid
 gridfs
-grok
 groundspeak
 group
 group-membership
@@ -3140,7 +3136,6 @@ ics
 icws
 id
 id3
-idabus
 ide
 identifier
 identity
@@ -3150,7 +3145,6 @@ identitydirector
 identitydomains
 identitynow
 idf
-idm
 idna
 ids
 ie
@@ -3351,7 +3345,6 @@ ipcalc
 ipcalculator
 ipconfig
 iperf
-ipfy.org
 iphone
 ipilot
 iplookup
@@ -3782,6 +3775,7 @@ longfiles
 longitude
 look
 lookup
+loop
 loopback
 loremipsum
 love
@@ -3792,7 +3786,6 @@ lsa
 lsasecrets
 lsd
 ltm
-lucd
 lucene
 lunches
 lwa
@@ -3875,6 +3868,7 @@ mariadb
 mark
 markdig
 markdown
+markdownrender
 marketing
 marketo
 marketplace
@@ -3940,7 +3934,6 @@ mediant
 mediaplayer
 mediaservices
 mediawiki
-meditation
 meesman
 meeting
 meetup
@@ -3966,6 +3959,7 @@ mercurial
 merge
 mermaid
 message
+messagebox
 messageoftheday
 messages
 messaging
@@ -4088,6 +4082,7 @@ monaco
 monday
 mondoo
 money
+moneyforward
 mongo
 mongodb
 monitor
@@ -4128,6 +4123,7 @@ msacpi_thermalzonetemperature
 msal
 msauth
 msband
+msbi
 msbuild
 mschart
 msdeploy
@@ -4445,7 +4441,6 @@ objecttree
 obs
 observeit
 oce
-ocg
 ocgv
 oci
 ocicontrolcenter
@@ -8172,6 +8167,7 @@ pssqlservermodule
 psst
 psstgenerator
 pstablacus
+pstanss
 psthread
 pstk
 pstwitter
@@ -8938,7 +8934,6 @@ set-githubsecrets
 set-itemproperty
 set-location
 set-openfiles
-set-ownership
 set-pass
 set-psbreakpoint
 set-psenv
@@ -9258,6 +9253,7 @@ sqlproj
 sqlproject
 sqlps
 sqlserver
+sqlserveragent
 sqlserverbynarymodule
 sqlserverbynarypsmodule
 sqlservermodule
@@ -9535,9 +9531,9 @@ tagging
 tags
 tak
 taken
-takeown
 tally
 talxis
+tanss
 tanzu
 tar
 target
@@ -10179,10 +10175,6 @@ vmware.vsphere
 vmwarecloudfoundation
 vmwaredrs
 vmwarevalidatedsolutions
-vmwcluster
-vmwdatacenter
-vmwfolder
-vmwvmhost
 vnet
 vnmonitoring
 vnugglets
@@ -10337,7 +10329,6 @@ wemsdk
 wer
 wget
 what3words
-whatismyip
 whatsnew
 whatsupgold
 whd
@@ -10439,6 +10430,7 @@ windowstimezone
 windowsupdate
 windowsupdates
 windowsvirtualdesktop
+winform
 winforms
 winget
 wingetbridge
