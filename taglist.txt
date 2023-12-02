@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Saturday, 02 December 2023 09:52:39 UTC
+Updated: Saturday, 02 December 2023 17:52:31 UTC
 
 .bat
 .env
@@ -289,7 +289,6 @@ alteryx
 alwaysontop
 alwaysonvpn
 alz
-amateur
 amateur-data-interchange-format
 amateur-radio
 amateurradio
@@ -326,7 +325,6 @@ animate-svg
 animation
 animations
 annotated
-announcement
 announcementsservice
 anonymous
 anova
@@ -375,6 +373,7 @@ appattach
 appclusive
 appcmd
 appconfiguration
+appdynamics
 appearance
 appender
 appian
@@ -407,9 +406,6 @@ appvolumes
 appx
 appxmanifest
 aprs
-aprs-is
-aprsis
-aprsthursday
 aps
 apt
 apt-get
@@ -551,7 +547,6 @@ autologon
 automai
 automanage
 automate
-automated
 automatedlab
 automatenow
 automaticpacketreportingsystem
@@ -845,6 +840,7 @@ boilerplate
 boinc
 bold-text
 bolt
+bom
 book
 bookmark
 bookmarks
@@ -911,7 +907,6 @@ buildmaster
 builds
 buildtool
 bulk
-bulletin
 bullhorn
 bundle
 bup
@@ -1455,6 +1450,7 @@ cos
 cosmos
 cosmosdb
 cost
+costmanagement
 costoptimization
 couchbase
 couchdb
@@ -1473,6 +1469,7 @@ coveralls
 coveralls.io
 covid
 covid-19
+cpm
 cppm
 cpu
 cpuid
@@ -1708,7 +1705,6 @@ dbase
 dbcommand
 dbeaver
 dbfs
-dbnull
 dbops
 dbpool
 dbup
@@ -1788,11 +1784,11 @@ desk
 desktop
 desktopvirtualization
 details
+detect
 detection
 detectionrule
 deutsch
 deutschland
-dev
 dev-tools
 devart
 devcenter
@@ -2091,7 +2087,6 @@ dynamics365fo
 dynamics365sales
 dynamics365server
 dynamicsax
-dynamicsecuritygroups
 dynamicsnav
 dynamodb
 dynatrace
@@ -2141,7 +2136,6 @@ elevatedconsole
 elevatedmode
 elevation
 elgato
-elk
 elm
 elmah-io
 elonmusk
@@ -2159,7 +2153,6 @@ emailnotificationcomponent
 emailsecurity
 embedded
 emc
-emcomm
 emergency
 emissions
 emoji
@@ -2224,6 +2217,7 @@ episode
 epplus
 eprosima
 epub
+epv
 equality
 erb
 erp
@@ -2269,6 +2263,7 @@ evc
 event
 event_id
 event_list
+event-timeline
 eventchannel
 eventchannels
 eventcollector
@@ -2310,7 +2305,6 @@ exchange-rates
 exchange2010
 exchange2013
 exchange2016
-exchangecluster
 exchangehybrid
 exchangemigration
 exchangeon-premise
@@ -2425,7 +2419,6 @@ feed
 fetch
 ffmpeg
 fhirservice
-fiche
 fiddler
 fido
 fido2
@@ -2509,6 +2502,7 @@ findplace
 findproxyforurl
 fine-print
 fine-tuning
+finops
 firebird
 firefox
 firewall
@@ -2597,7 +2591,6 @@ france
 freeipa
 freenas
 freesoftwarefoundation
-freshbooks
 freshdesk
 freshservice
 freshservice-api
@@ -2616,7 +2609,6 @@ fsharp
 fslogix
 fsrm
 ftp
-ftps
 fu-msauth
 fudge
 fudgepop
@@ -2706,7 +2698,6 @@ get-command
 get-credential
 get-criticaltrippoint
 get-currentcputemperature
-get-dellwarranty
 get-directorycontents
 get-dtcmdevicemodel
 get-dtdriverpack
@@ -2792,7 +2783,6 @@ goldengate
 goldsource
 goldsource-dedicated-server
 google
-google-chrome
 google-histogram
 google-sankey
 google-table
@@ -2821,7 +2811,6 @@ gpo-tools
 gpodoc
 gpolinks
 gpp
-gps
 gpt
 gpt3
 gpx
@@ -2895,8 +2884,6 @@ haloitsm
 halopsa
 haloservicedesk
 haloservicesolutions
-ham
-hamradio
 hamradiodeluxe
 hana
 hanaon
@@ -3134,6 +3121,7 @@ ics
 icws
 id
 id3
+idabus
 ide
 identifier
 identity
@@ -3143,6 +3131,7 @@ identitydirector
 identitydomains
 identitynow
 idf
+idm
 idna
 ids
 ie
@@ -3208,6 +3197,7 @@ incident
 incident-response
 incidentresponse
 incontact
+indents
 index
 indexdb
 indicator
@@ -3357,6 +3347,7 @@ ipv6
 ipynb
 ir
 irc
+irkit
 irl
 irregular
 isadmin
@@ -3374,6 +3365,7 @@ iso-3166-1
 iso-8601
 ispac
 isprime
+ispss
 issues
 isvalidemail
 isvalidip
@@ -3507,7 +3499,6 @@ keypair
 keysms
 keyvault
 keywords
-kibana
 kickstart
 kidrsa
 kill
@@ -3645,6 +3636,7 @@ limit-job
 limits
 lina
 line
+line-endings
 linear
 linearalgebra
 link
@@ -3781,7 +3773,6 @@ lsa
 lsasecrets
 lsd
 ltm
-lucd
 lucene
 lunches
 lwa
@@ -3871,7 +3862,6 @@ marketplace
 marketplaceordering
 marketplacepublisher
 marking
-marklogic
 marquee
 marvel
 marvell
@@ -3937,6 +3927,7 @@ meetup
 meetup.com
 meewind
 megabyte
+melamed
 meltdown
 mem
 member
@@ -3999,6 +3990,7 @@ microsoft365
 microsoft365dsc
 microsoftauthenticationlibrary
 microsoftazure
+microsoftcloud
 microsoftdefender
 microsoftdefenderatp
 microsoftdeploymenttoolkit
@@ -4024,6 +4016,7 @@ migration
 migration-tool
 migrations
 milestone
+mim
 mime
 mimekit
 min
@@ -4050,7 +4043,6 @@ mkpasswd
 ml
 ml.net
 mlflow
-mmdc
 mobile
 mobilenetwork
 mobilitycontroller
@@ -4117,7 +4109,6 @@ msacpi_thermalzonetemperature
 msal
 msauth
 msband
-msbi
 msbuild
 mschart
 msdeploy
@@ -4236,6 +4227,7 @@ nbi
 ncal
 ndes
 nebulon
+nec-infrared-transmission-protocol
 nederland
 nedyalkov
 neo4j
@@ -4278,7 +4270,6 @@ network-credentials
 network-info
 networkanalytics
 networkcloud
-networkcontroller
 networkdiscovery
 networkdrives
 networkfirewall
@@ -4290,7 +4281,6 @@ networkloadbalancer
 networkpolicyserver
 networkscan
 networksecurity
-networksecuritygroup
 networkshares
 netwrix
 new
@@ -4434,6 +4424,7 @@ objecttree
 obs
 observeit
 oce
+ocg
 ocgv
 oci
 ocicontrolcenter
@@ -4687,6 +4678,7 @@ partitions
 partner
 partnercenter
 partnerportal
+pas
 pass
 passcode
 passivetotal
@@ -4733,6 +4725,7 @@ pbip
 pc
 pcapng
 pci-dss
+pcloud
 pcsetup
 pcsv
 pdb
@@ -4902,10 +4895,8 @@ poshgrouppolicy
 poshkeepass
 poshlog
 poshorigin
-poshproject
 poshprtg
 poshrsjob
-poshtemplate
 poshwsus
 poshy-code-search
 poshy-colors
@@ -5040,7 +5031,6 @@ powershellmodule
 powershellmoduleupdate
 powershellpr0mpt
 powershellscript
-powershelltemplate
 powershelltraining
 powershelltypeaccelerators
 powershelluniversal
@@ -5104,6 +5094,7 @@ privatekey
 privatemethods
 privateprofilestring
 privilege
+privilegecloud
 privileged
 privileges
 pro
@@ -5136,7 +5127,6 @@ project-management
 projectmanagement
 projectreunion
 projects
-projecttemplate
 projectwise
 proliant
 prometheus
@@ -8102,6 +8092,7 @@ psjobthreads
 pskeepass
 pslocalgallery
 psloganalytics
+psm
 psm1
 psmodule
 psmodule psedition_desktop
@@ -8476,7 +8467,7 @@ repos
 repositories
 repository
 request
-requiredmodules
+requestfiltering
 requirements
 res
 rescan
@@ -8642,6 +8633,7 @@ sabnzbd
 sabnzbd+
 sacl
 safari
+safe
 safeguard
 sage
 saggiehaim
@@ -8683,7 +8675,6 @@ savov
 sbc
 sc
 scaffold
-scaffoldingtemplate
 scala
 scalable
 scalablevectorgraphics
@@ -8892,7 +8883,6 @@ serviceconnectionpoint
 servicecontrol
 servicedesk
 servicedeskplus
-serviceendpoints
 servicefabric
 servicelinker
 servicemanagementautomation
@@ -8949,7 +8939,6 @@ shacrypt
 shadow
 shadowcopy
 shadowcopybackups
-shadowgroups
 shanghaitech
 shard
 share
@@ -9241,7 +9230,6 @@ sqlproj
 sqlproject
 sqlps
 sqlserver
-sqlserveragent
 sqlserverbynarymodule
 sqlserverbynarypsmodule
 sqlservermodule
@@ -9582,7 +9570,6 @@ tenable.sc
 tenant
 tenantmanagercontrolplane
 teradata
-termbin
 terminal
 terminal-interface
 terminal-services
@@ -10014,8 +10001,10 @@ usg
 usps
 utc
 utf-8
+utf-sig
 utf7
 utf8
+utf8-sig
 utf8bom
 util
 utilities
@@ -10029,6 +10018,7 @@ uup
 uw
 uwp
 ux
+vadim
 vagrant
 vale
 validate
@@ -10086,6 +10076,7 @@ vera
 veracrypt
 verbose psmodule
 verification
+verify
 version
 versioning
 versionmanager
@@ -10143,6 +10134,7 @@ vlookup
 vlsm
 vm
 vmc
+vmelamed5
 vmfs
 vmgroup
 vmhost
@@ -10159,10 +10151,6 @@ vmware.vsphere
 vmwarecloudfoundation
 vmwaredrs
 vmwarevalidatedsolutions
-vmwcluster
-vmwdatacenter
-vmwfolder
-vmwvmhost
 vnet
 vnmonitoring
 vnugglets
@@ -10179,6 +10167,8 @@ volumeshadowcopy
 volumio
 vorbis
 vovin
+vpas
+vpasmodule
 vpc
 vpg
 vplex
@@ -10201,7 +10191,6 @@ vsan
 vsan+
 vscode
 vsdevcmd
-vsdevshell
 vsenvironment
 vsm
 vso
@@ -10602,7 +10591,6 @@ ynab
 youtube
 youtube-dl
 youtubeextractor
-yq
 yubaba
 yum
 z
