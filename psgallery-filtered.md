@@ -3,6 +3,38 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [PSGitAlias](https://www.powershellgallery.com/Packages/PSGitAlias/0.0.1) | 0.0.1
+
+### Published: 12/03/2023 14:45:18 by Tuncle
+
+Git Alias
+
+__Downloads__: 0 | __Repository__: 
+
+## [IntuneWin32Deployer](https://www.powershellgallery.com/Packages/IntuneWin32Deployer/23.12.3.1) | 23.12.3.1
+
+### Published: 12/03/2023 14:20:54 by Florian Salzmann
+
+Manage, create and upload win32 applications to Intune
+
+__Downloads__: 92 | __Repository__: https://github.com/FlorianSLZ/IntuneWin32Deployer
+
+## [MiniGraph](https://www.powershellgallery.com/Packages/MiniGraph/1.3.13) | 1.3.13
+
+### Published: 12/03/2023 11:38:56 by Friedrich Weinmann
+
+Minimal query infrastructure for interacting with MS Graph
+
+__Downloads__: 2,282 | __Repository__: https://github.com/FriedrichWeinmann/MiniGraph
+
+## [celin.ais.pwsh](https://www.powershellgallery.com/Packages/celin.ais.pwsh/2.1.0) | 2.1.0
+
+### Published: 12/03/2023 10:57:53 by Finnur Bragason
+
+Query and Script Module for Oracle E1/JDE AIS.
+
+__Downloads__: 778 | __Repository__: https://celin.io/ais.pwsh/
+
 ## [DataFrame](https://www.powershellgallery.com/Packages/DataFrame/0.0.1) | 0.0.1
 
 ### Published: 12/03/2023 08:40:12 by Roman Kuzmin
@@ -57,7 +89,7 @@ __Downloads__: 54 | __Repository__: https://github.com/kprocyszyn/About-PowerShe
 
 Create evergreen Windows image builds with the latest versions of applications. Evergreen is a simple PowerShell module that retrieves the latest version numbers and download URLs for various software products directly from the vendor source.
 
-__Downloads__: 2,296,030 | __Repository__: https://stealthpuppy.com/evergreen/
+__Downloads__: 2,296,750 | __Repository__: https://stealthpuppy.com/evergreen/
 
 ## [pwsh-dotenv](https://www.powershellgallery.com/Packages/pwsh-dotenv/1.0.2) | 1.0.2
 
@@ -89,7 +121,7 @@ __Downloads__: 14,522 | __Repository__: https://github.com/chris-peterson/pwsh-g
 
 PowerShell wrapper for the ConnectWise Manage REST API
 
-__Downloads__: 135,268 | __Repository__: https://github.com/christaylorcodes/ConnectWiseManageAPI
+__Downloads__: 135,308 | __Repository__: https://github.com/christaylorcodes/ConnectWiseManageAPI
 
 ## [AzureDataLakeManagement](https://www.powershellgallery.com/Packages/AzureDataLakeManagement/2023.12.3) | 2023.12.3
 
@@ -105,7 +137,7 @@ __Downloads__: 7 | __Repository__: https://github.com/SteveCInVA/AzureDataLakeMa
 
 PowerShell module for working with the ConnectWise Automate Agent.
 
-__Downloads__: 1,428,328 | __Repository__: https://github.com/christaylorcodes/ConnectWiseAutomateAgent
+__Downloads__: 1,428,317 | __Repository__: https://github.com/christaylorcodes/ConnectWiseAutomateAgent
 
 ## [Particular.ServiceControl.Management](https://www.powershellgallery.com/Packages/Particular.ServiceControl.Management/5.0.0) | 5.0.0
 
@@ -114,14 +146,6 @@ __Downloads__: 1,428,328 | __Repository__: https://github.com/christaylorcodes/C
 ServiceControl Management
 
 __Downloads__: 810 | __Repository__: https://github.com/Particular/ServiceControl
-
-## [MiniGraph](https://www.powershellgallery.com/Packages/MiniGraph/1.3.12) | 1.3.12
-
-### Published: 12/01/2023 20:34:16 by Friedrich Weinmann
-
-Minimal query infrastructure for interacting with MS Graph
-
-__Downloads__: 2,279 | __Repository__: https://github.com/FriedrichWeinmann/MiniGraph
 
 ## [Microsoft.AVS.Management](https://www.powershellgallery.com/Packages/Microsoft.AVS.Management/6.0.112) | 6.0.112
 
@@ -321,7 +345,7 @@ __Downloads__: 2,069 | __Repository__:
 
 This module contain cmdlets to manage Windows Update Client.
 
-__Downloads__: 469,066,032 | __Repository__: https://github.com/mgajda83/PSWindowsUpdate
+__Downloads__: 469,051,753 | __Repository__: https://github.com/mgajda83/PSWindowsUpdate
 
 ## [ChocoMan](https://www.powershellgallery.com/Packages/ChocoMan/1.2.2) | 1.2.2
 
@@ -393,7 +417,7 @@ __Downloads__: 1,577 | __Repository__:
 
 The JumpCloud V2 PowerShell SDK
 
-__Downloads__: 835,545 | __Repository__: https://github.com/TheJumpCloud/jcapi-powershell/tree/master/SDKs/PowerShell/JumpCloud.SDK.V2/
+__Downloads__: 835,543 | __Repository__: https://github.com/TheJumpCloud/jcapi-powershell/tree/master/SDKs/PowerShell/JumpCloud.SDK.V2/
 
 ## [JumpCloud.SDK.V1](https://www.powershellgallery.com/Packages/JumpCloud.SDK.V1/0.0.37) | 0.0.37
 
@@ -401,7 +425,7 @@ __Downloads__: 835,545 | __Repository__: https://github.com/TheJumpCloud/jcapi-p
 
 The JumpCloud V1 PowerShell SDK
 
-__Downloads__: 837,433 | __Repository__: https://github.com/TheJumpCloud/jcapi-powershell/tree/master/SDKs/PowerShell/JumpCloud.SDK.V1/
+__Downloads__: 837,431 | __Repository__: https://github.com/TheJumpCloud/jcapi-powershell/tree/master/SDKs/PowerShell/JumpCloud.SDK.V1/
 
 ## [JumpCloud.SDK.DirectoryInsights](https://www.powershellgallery.com/Packages/JumpCloud.SDK.DirectoryInsights/0.0.25) | 0.0.25
 
@@ -409,7 +433,7 @@ __Downloads__: 837,433 | __Repository__: https://github.com/TheJumpCloud/jcapi-p
 
 The JumpCloud DirectoryInsights PowerShell SDK
 
-__Downloads__: 864,464 | __Repository__: https://github.com/TheJumpCloud/jcapi-powershell/tree/master/SDKs/PowerShell/JumpCloud.SDK.DirectoryInsights/
+__Downloads__: 864,462 | __Repository__: https://github.com/TheJumpCloud/jcapi-powershell/tree/master/SDKs/PowerShell/JumpCloud.SDK.DirectoryInsights/
 
 ## [PSc8y](https://www.powershellgallery.com/Packages/PSc8y/2.38.0) | 2.38.0
 
@@ -425,7 +449,7 @@ __Downloads__: 2,417 | __Repository__: https://reubenmiller.github.io/go-c8y-cli
 
 Automation tools for production quality database deployment
 
-__Downloads__: 4,824,730 | __Repository__: https://www.red-gate.com/sca/productpage
+__Downloads__: 4,824,733 | __Repository__: https://www.red-gate.com/sca/productpage
 
 ## [Posht](https://www.powershellgallery.com/Packages/Posht/0.0.1) | 0.0.1
 
@@ -518,7 +542,7 @@ __Downloads__: 51,158 | __Repository__: https://github.com/AshleyHow/WindowsOSBu
 
 Provides cmdlets that compliment the existing WinGet CLI. Primarily, improves the user-experience for software updates and offers a convenient way to install collections of software via WinGet through the use of user-defined tags.
 
-__Downloads__: 356,764 | __Repository__: https://github.com/jjcarrier/PS-WinGet-Essentials
+__Downloads__: 356,750 | __Repository__: https://github.com/jjcarrier/PS-WinGet-Essentials
 
 ## [c2](https://www.powershellgallery.com/Packages/c2/0.0.6) | 0.0.6
 
@@ -534,7 +558,7 @@ __Downloads__: 37 | __Repository__:
 
 A simple interface for making selections on an array of PS objects
 
-__Downloads__: 358,330 | __Repository__: https://github.com/jjcarrier/PS-TableUI
+__Downloads__: 358,316 | __Repository__: https://github.com/jjcarrier/PS-TableUI
 
 ## [Yayaml](https://www.powershellgallery.com/Packages/Yayaml/0.3.0) | 0.3.0
 
@@ -638,7 +662,7 @@ __Downloads__: 17,336 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions for management of endpoints
 
-__Downloads__: 19,199 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 19,200 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.ActiveDirectory](https://www.powershellgallery.com/Packages/AdminToolbox.ActiveDirectory/1.9.114) | 1.9.114
 
@@ -670,7 +694,7 @@ __Downloads__: 7 | __Repository__: https://github.com/asluzh/PSTableauREST
 
 PowerShell module, which makes it easier to work with Business Central Containers on Docker.
 
-__Downloads__: 1,512,484 | __Repository__: 
+__Downloads__: 1,512,477 | __Repository__: 
 
 ## [PSOpenAI](https://www.powershellgallery.com/Packages/PSOpenAI/2.3.0) | 2.3.0
 
@@ -790,7 +814,7 @@ __Downloads__: 416,574 | __Repository__: https://github.com/crowdstrike/psfalcon
 
 This Windows PowerShell module contains VMware.PowerCLI
 
-__Downloads__: 7,654,304 | __Repository__: 
+__Downloads__: 7,654,434 | __Repository__: 
 
 ## [VMware.Sdk.Vr](https://www.powershellgallery.com/Packages/VMware.Sdk.Vr/8.8.0.22785325) | 8.8.0.22785325
 
@@ -798,7 +822,7 @@ __Downloads__: 7,654,304 | __Repository__:
 
 This PowerShell module contains cmdlets for managing VMware.Sdk.Vr API.
 
-__Downloads__: 680,744 | __Repository__: 
+__Downloads__: 680,727 | __Repository__: 
 
 ## [VMware.Sdk.Srm](https://www.powershellgallery.com/Packages/VMware.Sdk.Srm/8.8.0.22785324) | 8.8.0.22785324
 
@@ -806,7 +830,7 @@ __Downloads__: 680,744 | __Repository__:
 
 This PowerShell module contains cmdlets for managing VMware.Sdk.Srm API.
 
-__Downloads__: 680,897 | __Repository__: 
+__Downloads__: 680,880 | __Repository__: 
 
 ## [BinaryTree.Internal.Power365.Dev](https://www.powershellgallery.com/Packages/BinaryTree.Internal.Power365.Dev/20.12.13.7414) | 20.12.13.7414
 
@@ -1104,7 +1128,7 @@ __Downloads__: 9 | __Repository__: https://github.com/ChendrayanV/PowerShell.Git
 
 Module for PowerShell Universal.
 
-__Downloads__: 56,929 | __Repository__: https://ironmansoftware.com/powershell-universal
+__Downloads__: 56,912 | __Repository__: https://ironmansoftware.com/powershell-universal
 
 ## [CosmosLite](https://www.powershellgallery.com/Packages/CosmosLite/3.0.3) | 3.0.3
 
@@ -1180,7 +1204,7 @@ __Downloads__: 60 | __Repository__: https://github.com/rajyraman/power-platform-
 
 The Devolutions.PowerShell module is a set of cmdlets that allow administrators to manage Remote Desktop Manager, Devolutions Server and Devolutions Hub Business using PowerShell. This module provides a simple and consistent interface for interacting with these products, making it easy to automate various tasks, such as creating and managing connections, sessions, and credentials, configuring security settings, and generating reports. The module can be easily integrated with other PowerShell modules, allowing administrators to automate tasks across multiple products and platforms, streamline their workflows and increase efficiency.
 
-__Downloads__: 8,345 | __Repository__: https://devolutions.net/
+__Downloads__: 8,346 | __Repository__: https://devolutions.net/
 
 ## [Harden-Windows-Security-Module](https://www.powershellgallery.com/Packages/Harden-Windows-Security-Module/0.2.6) | 0.2.6
 
@@ -1297,7 +1321,7 @@ __Downloads__: 113 | __Repository__: https://github.com/loxia01/FormatColumn
 
 PowerShell Commander
 
-__Downloads__: 4,105 | __Repository__: https://github.com/Keeper-Security/keeper-sdk-dotnet
+__Downloads__: 4,103 | __Repository__: https://github.com/Keeper-Security/keeper-sdk-dotnet
 
 ## [VenafiPS](https://www.powershellgallery.com/Packages/VenafiPS/6.0.3) | 6.0.3
 
@@ -1331,14 +1355,6 @@ Module for installing basic programs: This module provides functions for downloa
 
 __Downloads__: 116,903 | __Repository__: 
 
-## [MigrationValidatorToolkit](https://www.powershellgallery.com/Packages/MigrationValidatorToolkit/1.0) | 1.0
-
-### Published: 11/22/2023 15:25:17 by Ali Alzand
-
-Perform multiple checks and validations for common Microsoft workload-related tasks in order to accelerate the discovery and migration of workloads to AWS.
-
-__Downloads__: 5 | __Repository__: 
-
 ## [AzMarketplace](https://www.powershellgallery.com/Packages/AzMarketplace/0.0.2) | 0.0.2
 
 ### Published: 11/22/2023 14:34:54 by Marius Solbakken Mellum
@@ -1369,7 +1385,7 @@ __Downloads__: 171 | __Repository__:
 
 TeamViewerPS allows to interact with the TeamViewer Web API as well as a locally installed TeamViewer client.
 
-__Downloads__: 32,872,442 | __Repository__: https://github.com/teamviewer/TeamViewerPS
+__Downloads__: 32,871,486 | __Repository__: https://github.com/teamviewer/TeamViewerPS
 
 ## [RubrikSecurityCloud](https://www.powershellgallery.com/Packages/RubrikSecurityCloud/0.19) | 0.19
 
@@ -1427,13 +1443,21 @@ SQLite Connection Tool
 
 __Downloads__: 23 | __Repository__: https://github.com/rhubarb-geek-nz/SQLiteConnection
 
+## [rhubarb-geek-nz.SQLiteConnection](https://www.powershellgallery.com/Packages/rhubarb-geek-nz.SQLiteConnection/1.0.118.0) | 1.0.118.0
+
+### Published: 11/21/2023 19:13:22 by Roger Brown
+
+SQLite Connection Tool
+
+__Downloads__: 48 | __Repository__: https://github.com/rhubarb-geek-nz/SQLiteConnection
+
 ## [pwps_dab](https://www.powershellgallery.com/Packages/pwps_dab/23.3.4) | 23.3.4
 
 ### Published: 11/21/2023 18:30:18 by Bentley Systems Incorporated
 
 ProjectWise PowerShell Cmdlets from System Architecture Group
 
-__Downloads__: 81,715 | __Repository__: 
+__Downloads__: 81,714 | __Repository__: 
 
 ## [AptecoPSFramework](https://www.powershellgallery.com/Packages/AptecoPSFramework/0.2.0) | 0.2.0
 
@@ -1467,7 +1491,7 @@ __Downloads__: 177 | __Repository__: https://github.com/Apteco/AptecoPSFramework
 
 Integrated CI/CD Solution for Microsoft Azure.
 
-__Downloads__: 1,739,071 | __Repository__: https://github.com/Azure/AzOps
+__Downloads__: 1,739,171 | __Repository__: https://github.com/Azure/AzOps
 
 ## [PowerValidatedSolutions](https://www.powershellgallery.com/Packages/PowerValidatedSolutions/2.7.1.1000) | 2.7.1.1000
 
@@ -1617,7 +1641,7 @@ These are contained within this PowerShell Module, so regular Module updating is
 ensure you receive the latest Microsoft Updates.  Updates published in WSUS will be different
 from Microsoft Update Catalog website due to Preview Releases
 
-__Downloads__: 349,352 | __Repository__: https://github.com/OSDeploy/OSDSUS
+__Downloads__: 349,355 | __Repository__: https://github.com/OSDeploy/OSDSUS
 
 ## [OSD](https://www.powershellgallery.com/Packages/OSD/23.11.21.1) | 23.11.21.1
 
@@ -1625,7 +1649,7 @@ __Downloads__: 349,352 | __Repository__: https://github.com/OSDeploy/OSDSUS
 
 November Update 2023
 
-__Downloads__: 1,107,715 | __Repository__: https://github.com/OSDeploy/OSD
+__Downloads__: 1,107,711 | __Repository__: https://github.com/OSDeploy/OSD
 
 ## [ADEssentials](https://www.powershellgallery.com/Packages/ADEssentials/0.0.173) | 0.0.173
 
@@ -1633,7 +1657,7 @@ __Downloads__: 1,107,715 | __Repository__: https://github.com/OSDeploy/OSD
 
 Helper module for Active Directory with lots of useful functions that simplify supporting Active Directory.
 
-__Downloads__: 161,285 | __Repository__: https://github.com/EvotecIT/ADEssentials
+__Downloads__: 161,286 | __Repository__: https://github.com/EvotecIT/ADEssentials
 
 ## [J81.NSToolkit.Stats](https://www.powershellgallery.com/Packages/J81.NSToolkit.Stats/2311.2021) | 2311.2021
 
@@ -1697,7 +1721,7 @@ __Downloads__: 14 | __Repository__: https://github.com/jamesw4/confirm-tfvars
 
 Scripting Tools for Windows PowerShell : iLO Cmdlets uses the RIBCL and Redfish interface to communicate to iLO. These cmdlets can be used to configure and manage iLO on HPE ProLiant Gen8, Gen9, Gen10, Gen10 Plus or Gen11 servers.
 
-__Downloads__: 1,135,938 | __Repository__: https://www.hpe.com/servers/powershell
+__Downloads__: 1,135,934 | __Repository__: https://www.hpe.com/servers/powershell
 
 ## [VCFInstanceRecovery](https://www.powershellgallery.com/Packages/VCFInstanceRecovery/1.0.6) | 1.0.6
 
@@ -1761,7 +1785,7 @@ __Downloads__: 74 | __Repository__: https://github.com/jayyx2/WhatsUpGoldPS
 
 Automate against ServiceNow service and asset management.  This module can be used standalone, with Azure Automation, or Docker.
 
-__Downloads__: 291,290 | __Repository__: https://github.com/Snow-Shell/servicenow-powershell
+__Downloads__: 291,291 | __Repository__: https://github.com/Snow-Shell/servicenow-powershell
 
 ## [PSComputerManagementZp](https://www.powershellgallery.com/Packages/PSComputerManagementZp/0.0.5) | 0.0.5
 
@@ -1950,7 +1974,7 @@ __Downloads__: 15,063 | __Repository__: https://github.com/webmd-health-services
 
 This module provides an interface to the Halo API.
 
-__Downloads__: 164,366 | __Repository__: https://github.com/homotechsual/HaloAPI
+__Downloads__: 164,354 | __Repository__: https://github.com/homotechsual/HaloAPI
 
 ## [UncommonSense.BridgeOpenings](https://www.powershellgallery.com/Packages/UncommonSense.BridgeOpenings/0.2.0) | 0.2.0
 
@@ -1958,7 +1982,7 @@ __Downloads__: 164,366 | __Repository__: https://github.com/homotechsual/HaloAPI
 
 PowerShell module to retrieve information about (a selection of) Dutch bridges from brugopen.nl
 
-__Downloads__: 1,687 | __Repository__: https://github.com/jhoek/UncommonSense.BridgeOpenings
+__Downloads__: 1,682 | __Repository__: https://github.com/jhoek/UncommonSense.BridgeOpenings
 
 ## [verkadaModule](https://www.powershellgallery.com/Packages/verkadaModule/0.6.11) | 0.6.11
 
@@ -2147,28 +2171,4 @@ A module for running various Active Directory Tasks
 
 __Downloads__: 339 | __Repository__: https://github.com/CriticalSolutionsNetwork/ADAuditTasks
 
-## [O365Essentials](https://www.powershellgallery.com/Packages/O365Essentials/0.0.13) | 0.0.13
-
-### Published: 11/16/2023 19:08:42 by Przemyslaw Klys
-
-A module that helps to manage some tasks on Office 365/Azure via undocumented API
-
-__Downloads__: 2,085 | __Repository__: https://github.com/EvotecIT/O365Essentials
-
-## [cActiveDirectoryModule](https://www.powershellgallery.com/Packages/cActiveDirectoryModule/1.0.0.1) | 1.0.0.1
-
-### Published: 11/16/2023 17:09:04 by Xinyun Yang
-
-Repackaging Active Directory Module so you can install and use AD Powershell Cmdlet without admin right.
-
-__Downloads__: 33 | __Repository__: https://github.com/yangxinyun/ActiveDirectoryModule
-
-## [VMware.CloudFoundation.PowerManagement](https://www.powershellgallery.com/Packages/VMware.CloudFoundation.PowerManagement/1.3.0.1000) | 1.3.0.1000
-
-### Published: 11/16/2023 17:08:05 by VMware
-
-PowerShell Module for VMware Cloud Foundation Power Management
-
-__Downloads__: 405 | __Repository__: https://vmware.github.io/powershell-module-for-vmware-cloud-foundation-power-management/
-
-*Updated: Sunday, 03 December 2023 09:52:22 UTC*
+*Updated: Sunday, 03 December 2023 17:52:26 UTC*

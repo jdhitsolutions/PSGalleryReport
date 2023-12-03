@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Sunday, 03 December 2023 09:52:31 UTC
+Updated: Sunday, 03 December 2023 17:52:36 UTC
 
 .bat
 .env
@@ -1140,6 +1140,8 @@ clear
 clear-history
 clearpass
 cli
+cli-menu
+cli-menu-helpers
 clickonce
 client
 client-management
@@ -2494,6 +2496,7 @@ filewrite
 fill
 film
 filter
+filter-item
 filtering
 fim
 fims
@@ -3323,6 +3326,7 @@ invitation
 invocation
 invoice
 invoke
+invoke-asadmin
 invoke-asadministrator
 invoke-ascurrentuser
 invoke-automation
@@ -3683,6 +3687,7 @@ liquit.com
 list
 list_files
 list-directory
+list-item
 listener
 litecoin
 litedb
@@ -4538,6 +4543,7 @@ ontap_pstk_9.8.0
 onyphe
 onyphe.io
 oob
+oop
 op
 opa
 opc
@@ -4582,6 +4588,7 @@ optics
 optimization
 optimizer
 option
+option119
 options
 optionstring
 opus
@@ -4826,9 +4833,9 @@ pipe
 pipedrive
 pipeline
 pipelines
-pipenv
 pipescript
 piraeus
+pivot
 pivotal
 pivottable
 pixoo
@@ -4964,7 +4971,6 @@ poshy-wrap-nginx
 poshy-wrap-nmap
 poshy-wrap-npm
 poshy-wrap-pip
-poshy-wrap-pipenv
 poshy-wrap-pyenv
 poshy-wrap-pylint
 poshy-wrap-python
@@ -6227,21 +6233,6 @@ pscommand_invoke-npmstart
 pscommand_invoke-npmtest
 pscommand_invoke-npmupdate
 pscommand_invoke-npmversion
-pscommand_invoke-pipenvcheck
-pscommand_invoke-pipenvclean
-pscommand_invoke-pipenvgraph
-pscommand_invoke-pipenvinstall
-pscommand_invoke-pipenvinstalldev
-pscommand_invoke-pipenvlock
-pscommand_invoke-pipenvopen
-pscommand_invoke-pipenvpy
-pscommand_invoke-pipenvrun
-pscommand_invoke-pipenvshell
-pscommand_invoke-pipenvsync
-pscommand_invoke-pipenvuninstall
-pscommand_invoke-pipenvupdate
-pscommand_invoke-pipenvvenv
-pscommand_invoke-pipenvwhere
 pscommand_invoke-pipinstall
 pscommand_invoke-pipinstallupgrade
 pscommand_invoke-piplistoutdated
@@ -6687,12 +6678,7 @@ pscommand_npmt
 pscommand_npmu
 pscommand_npmv
 pscommand_open_command
-pscommand_pch
-pscommand_pcl
 pscommand_peek
-pscommand_pgr
-pscommand_pi
-pscommand_pidev
 pscommand_ping
 pscommand_pip
 pscommand_pip_package_location
@@ -6710,15 +6696,8 @@ pscommand_pipu
 pscommand_pipun
 pscommand_pipunall
 pscommand_pipupall
-pscommand_pl
-pscommand_po
 pscommand_pop-gitstashentry
-pscommand_ppy
 pscommand_proxy-help
-pscommand_prun
-pscommand_psh
-pscommand_psy
-pscommand_pu
 pscommand_publish-gitcommitsforcefullywithlease
 pscommand_publish-gitcommitssettingupstream
 pscommand_publish-gitcommitssettingupstreamtoorigin
@@ -6727,12 +6706,9 @@ pscommand_publish-gitcommitstooriginfromhead
 pscommand_publish-gitcommitstooriginmain
 pscommand_publish-gitcommitswithtags
 pscommand_publish-gitrepositorytosvn
-pscommand_pupd
 pscommand_push-gitstashentry
 pscommand_push-gitstashentrywithmessage
 pscommand_pushgr
-pscommand_pvenv
-pscommand_pwh
 pscommand_pwshrc-show-proxy
 pscommand_py
 pscommand_pyenv
@@ -7644,21 +7620,6 @@ psfunction_invoke-npmstart
 psfunction_invoke-npmtest
 psfunction_invoke-npmupdate
 psfunction_invoke-npmversion
-psfunction_invoke-pipenvcheck
-psfunction_invoke-pipenvclean
-psfunction_invoke-pipenvgraph
-psfunction_invoke-pipenvinstall
-psfunction_invoke-pipenvinstalldev
-psfunction_invoke-pipenvlock
-psfunction_invoke-pipenvopen
-psfunction_invoke-pipenvpy
-psfunction_invoke-pipenvrun
-psfunction_invoke-pipenvshell
-psfunction_invoke-pipenvsync
-psfunction_invoke-pipenvuninstall
-psfunction_invoke-pipenvupdate
-psfunction_invoke-pipenvvenv
-psfunction_invoke-pipenvwhere
 psfunction_invoke-pipinstall
 psfunction_invoke-pipinstallupgrade
 psfunction_invoke-piplistoutdated
@@ -8270,7 +8231,6 @@ qrp
 qrs
 quality
 qualys
-quandl
 quantum
 quarantine
 queries
@@ -8802,6 +8762,7 @@ searchmanager
 searchplace
 searchquery
 searchstring
+searchsuffixlist
 secaas
 secedit
 secret
@@ -8849,6 +8810,7 @@ seek
 seekatar
 seeshell
 select
+select-item
 select-kubecontext
 select-kubenamespace
 select-string
@@ -9280,7 +9242,6 @@ ssdt
 sse
 ssh
 ssh-config
-ssh-keygen
 sshmanagement
 sshservers
 ssis
@@ -9434,6 +9395,7 @@ supermarket
 support
 support-tool
 support-tools
+suppress
 supress-reboot
 surround
 survey
@@ -9607,6 +9569,7 @@ terminal-interface
 terminal-services
 terminal.gui
 terminalnotifier
+terminalvelocity
 termset
 terraform
 terraformcloud
@@ -10219,6 +10182,7 @@ vrising
 vro
 vrops
 vrsns
+vrtu
 vs
 vs-shell
 vsa
