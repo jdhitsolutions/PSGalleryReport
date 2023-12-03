@@ -3,6 +3,22 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [DataFrame](https://www.powershellgallery.com/Packages/DataFrame/0.0.1) | 0.0.1
+
+### Published: 12/03/2023 08:40:12 by Roman Kuzmin
+
+Cmdlets for Microsoft.Data.Analysis.DataFrame
+
+__Downloads__: 0 | __Repository__: https://github.com/nightroman/DataFrame
+
+## [BrowserExtensionReporting](https://www.powershellgallery.com/Packages/BrowserExtensionReporting/1.0.0) | 1.0.0
+
+### Published: 12/03/2023 02:08:31 by Jose Schenardie @schenardie
+
+Report on installed browser extensions
+
+__Downloads__: 0 | __Repository__: https://github.com/schenardie/BrowserExtensionReporting
+
 ## [AppVeyorTestPsGallery](https://www.powershellgallery.com/Packages/AppVeyorTestPsGallery/1.0.538) | 1.0.538
 
 ### Published: 12/02/2023 22:24:49 by Feodor Fitsner
@@ -41,7 +57,7 @@ __Downloads__: 54 | __Repository__: https://github.com/kprocyszyn/About-PowerShe
 
 Create evergreen Windows image builds with the latest versions of applications. Evergreen is a simple PowerShell module that retrieves the latest version numbers and download URLs for various software products directly from the vendor source.
 
-__Downloads__: 2,296,519 | __Repository__: https://stealthpuppy.com/evergreen/
+__Downloads__: 2,296,030 | __Repository__: https://stealthpuppy.com/evergreen/
 
 ## [pwsh-dotenv](https://www.powershellgallery.com/Packages/pwsh-dotenv/1.0.2) | 1.0.2
 
@@ -89,7 +105,7 @@ __Downloads__: 7 | __Repository__: https://github.com/SteveCInVA/AzureDataLakeMa
 
 PowerShell module for working with the ConnectWise Automate Agent.
 
-__Downloads__: 1,428,355 | __Repository__: https://github.com/christaylorcodes/ConnectWiseAutomateAgent
+__Downloads__: 1,428,328 | __Repository__: https://github.com/christaylorcodes/ConnectWiseAutomateAgent
 
 ## [Particular.ServiceControl.Management](https://www.powershellgallery.com/Packages/Particular.ServiceControl.Management/5.0.0) | 5.0.0
 
@@ -105,7 +121,7 @@ __Downloads__: 810 | __Repository__: https://github.com/Particular/ServiceContro
 
 Minimal query infrastructure for interacting with MS Graph
 
-__Downloads__: 2,282 | __Repository__: https://github.com/FriedrichWeinmann/MiniGraph
+__Downloads__: 2,279 | __Repository__: https://github.com/FriedrichWeinmann/MiniGraph
 
 ## [Microsoft.AVS.Management](https://www.powershellgallery.com/Packages/Microsoft.AVS.Management/6.0.112) | 6.0.112
 
@@ -281,7 +297,7 @@ __Downloads__: 12 | __Repository__: https://github.com/hematic/psTroubleshootWin
 
 Module for BitTitanPowerShell.
 
-__Downloads__: 9,167 | __Repository__: 
+__Downloads__: 9,168 | __Repository__: 
 
 ## [CAT](https://www.powershellgallery.com/Packages/CAT/0.25.1.2) | 0.25.1.2
 
@@ -377,7 +393,7 @@ __Downloads__: 1,577 | __Repository__:
 
 The JumpCloud V2 PowerShell SDK
 
-__Downloads__: 835,543 | __Repository__: https://github.com/TheJumpCloud/jcapi-powershell/tree/master/SDKs/PowerShell/JumpCloud.SDK.V2/
+__Downloads__: 835,545 | __Repository__: https://github.com/TheJumpCloud/jcapi-powershell/tree/master/SDKs/PowerShell/JumpCloud.SDK.V2/
 
 ## [JumpCloud.SDK.V1](https://www.powershellgallery.com/Packages/JumpCloud.SDK.V1/0.0.37) | 0.0.37
 
@@ -385,7 +401,7 @@ __Downloads__: 835,543 | __Repository__: https://github.com/TheJumpCloud/jcapi-p
 
 The JumpCloud V1 PowerShell SDK
 
-__Downloads__: 837,431 | __Repository__: https://github.com/TheJumpCloud/jcapi-powershell/tree/master/SDKs/PowerShell/JumpCloud.SDK.V1/
+__Downloads__: 837,433 | __Repository__: https://github.com/TheJumpCloud/jcapi-powershell/tree/master/SDKs/PowerShell/JumpCloud.SDK.V1/
 
 ## [JumpCloud.SDK.DirectoryInsights](https://www.powershellgallery.com/Packages/JumpCloud.SDK.DirectoryInsights/0.0.25) | 0.0.25
 
@@ -393,7 +409,7 @@ __Downloads__: 837,431 | __Repository__: https://github.com/TheJumpCloud/jcapi-p
 
 The JumpCloud DirectoryInsights PowerShell SDK
 
-__Downloads__: 864,462 | __Repository__: https://github.com/TheJumpCloud/jcapi-powershell/tree/master/SDKs/PowerShell/JumpCloud.SDK.DirectoryInsights/
+__Downloads__: 864,464 | __Repository__: https://github.com/TheJumpCloud/jcapi-powershell/tree/master/SDKs/PowerShell/JumpCloud.SDK.DirectoryInsights/
 
 ## [PSc8y](https://www.powershellgallery.com/Packages/PSc8y/2.38.0) | 2.38.0
 
@@ -654,7 +670,7 @@ __Downloads__: 7 | __Repository__: https://github.com/asluzh/PSTableauREST
 
 PowerShell module, which makes it easier to work with Business Central Containers on Docker.
 
-__Downloads__: 1,512,486 | __Repository__: 
+__Downloads__: 1,512,484 | __Repository__: 
 
 ## [PSOpenAI](https://www.powershellgallery.com/Packages/PSOpenAI/2.3.0) | 2.3.0
 
@@ -687,6 +703,14 @@ __Downloads__: 7 | __Repository__:
 SdnDiagnostics is a tool used to simplify the data collection and diagnostics of Windows Software Defined Networking.
 
 __Downloads__: 32,902 | __Repository__: https://github.com/microsoft/SdnDiagnostics
+
+## [CareLink](https://www.powershellgallery.com/Packages/CareLink/2.0) | 2.0
+
+### Published: 11/28/2023 03:52:31 by AdhocAdam
+
+This PowerShell module emulates browser interaction to Minimed CareLink to retrieve a patient's blood glucose data
+
+__Downloads__: 21 | __Repository__: 
 
 ## [PSTcpIp](https://www.powershellgallery.com/Packages/PSTcpIp/4.17.4) | 4.17.4
 
@@ -734,7 +758,7 @@ __Downloads__: 85 | __Repository__: https://github.com/stevevillardi/Logic.Monit
 
 Helpers functions for Winget
 
-__Downloads__: 1,658 | __Repository__: https://github.com/Yves848/WingetPosh/tree/0.9.8-(scoop-integration)
+__Downloads__: 1,657 | __Repository__: https://github.com/Yves848/WingetPosh/tree/0.9.8-(scoop-integration)
 
 ## [VMware.CloudFoundation.CertificateManagement](https://www.powershellgallery.com/Packages/VMware.CloudFoundation.CertificateManagement/1.4.1.1000) | 1.4.1.1000
 
@@ -774,7 +798,7 @@ __Downloads__: 7,654,304 | __Repository__:
 
 This PowerShell module contains cmdlets for managing VMware.Sdk.Vr API.
 
-__Downloads__: 680,705 | __Repository__: 
+__Downloads__: 680,744 | __Repository__: 
 
 ## [VMware.Sdk.Srm](https://www.powershellgallery.com/Packages/VMware.Sdk.Srm/8.8.0.22785324) | 8.8.0.22785324
 
@@ -782,7 +806,7 @@ __Downloads__: 680,705 | __Repository__:
 
 This PowerShell module contains cmdlets for managing VMware.Sdk.Srm API.
 
-__Downloads__: 680,858 | __Repository__: 
+__Downloads__: 680,897 | __Repository__: 
 
 ## [BinaryTree.Internal.Power365.Dev](https://www.powershellgallery.com/Packages/BinaryTree.Internal.Power365.Dev/20.12.13.7414) | 20.12.13.7414
 
@@ -964,6 +988,18 @@ Explain What the Filter is going on with the local Windows Filtering Platform
 
 __Downloads__: 130 | __Repository__: 
 
+## [Fabtools](https://www.powershellgallery.com/Packages/Fabtools/0.7.0.3) | 0.7.0.3
+
+### Published: 11/25/2023 22:54:10 by Ioana Bouariu AKA Jojobit
+
+A module to be able to do more with Microsoft Fabric.
+    It lets you pause and resume Fabric capacities.
+    Adds functionallity previously only available with the REST API as PowerShell functions.
+    There are also functions to make it easier to monitor usage metrics and refreshes.
+    It also adds Fabric-friendly aliases for PowerBI functions to make it easier to use the module.
+
+__Downloads__: 48 | __Repository__: https://www.github.com/jojobit/Fabtools
+
 ## [AutomateNOW](https://www.powershellgallery.com/Packages/AutomateNOW/1.0.7) | 1.0.7
 
 ### Published: 11/25/2023 21:29:58 by AutomateNOW-Fan
@@ -1068,7 +1104,7 @@ __Downloads__: 9 | __Repository__: https://github.com/ChendrayanV/PowerShell.Git
 
 Module for PowerShell Universal.
 
-__Downloads__: 56,916 | __Repository__: https://ironmansoftware.com/powershell-universal
+__Downloads__: 56,929 | __Repository__: https://ironmansoftware.com/powershell-universal
 
 ## [CosmosLite](https://www.powershellgallery.com/Packages/CosmosLite/3.0.3) | 3.0.3
 
@@ -1204,7 +1240,7 @@ __Downloads__: 1,964 | __Repository__: https://github.com/HotCakeX/Harden-Window
 
 Module covering functions that are shared within multiple projects
 
-__Downloads__: 251,597 | __Repository__: https://github.com/EvotecIT/PSSharedGoods
+__Downloads__: 251,596 | __Repository__: https://github.com/EvotecIT/PSSharedGoods
 
 ## [PwshIDandCollabTools](https://www.powershellgallery.com/Packages/PwshIDandCollabTools/0.9) | 0.9
 
@@ -1261,7 +1297,7 @@ __Downloads__: 113 | __Repository__: https://github.com/loxia01/FormatColumn
 
 PowerShell Commander
 
-__Downloads__: 4,104 | __Repository__: https://github.com/Keeper-Security/keeper-sdk-dotnet
+__Downloads__: 4,105 | __Repository__: https://github.com/Keeper-Security/keeper-sdk-dotnet
 
 ## [VenafiPS](https://www.powershellgallery.com/Packages/VenafiPS/6.0.3) | 6.0.3
 
@@ -1278,6 +1314,14 @@ __Downloads__: 7,743 | __Repository__: https://github.com/Venafi/VenafiPS
 This module does stuff
 
 __Downloads__: 16,906 | __Repository__: 
+
+## [gradle-spring-boot-aliases](https://www.powershellgallery.com/Packages/gradle-spring-boot-aliases/0.0.3) | 0.0.3
+
+### Published: 11/22/2023 17:51:32 by Patrick Gebert
+
+A PowerShell module that provides aliases for gradle build spring boot projects.
+
+__Downloads__: 23 | __Repository__: https://github.com/pgebert/powershell-gradle-spring-boot-aliases
 
 ## [AppManiProgramManager](https://www.powershellgallery.com/Packages/AppManiProgramManager/1.44.7) | 1.44.7
 
@@ -1325,7 +1369,7 @@ __Downloads__: 171 | __Repository__:
 
 TeamViewerPS allows to interact with the TeamViewer Web API as well as a locally installed TeamViewer client.
 
-__Downloads__: 32,874,171 | __Repository__: https://github.com/teamviewer/TeamViewerPS
+__Downloads__: 32,872,442 | __Repository__: https://github.com/teamviewer/TeamViewerPS
 
 ## [RubrikSecurityCloud](https://www.powershellgallery.com/Packages/RubrikSecurityCloud/0.19) | 0.19
 
@@ -1334,6 +1378,14 @@ __Downloads__: 32,874,171 | __Repository__: https://github.com/teamviewer/TeamVi
 PowerShell Module for Rubrik Security Cloud. GraphQL schema version: v20231108-58 .
 
 __Downloads__: 547 | __Repository__: https://github.com/rubrikinc/rubrik-powershell-sdk
+
+## [AzureDevOpsPowerShell](https://www.powershellgallery.com/Packages/AzureDevOpsPowerShell/0.1.0) | 0.1.0
+
+### Published: 11/22/2023 08:03:10 by Business Ready Cloud
+
+PowerShell module to deploy and adjust services on Azure DevOps
+
+__Downloads__: 5 | __Repository__: 
 
 ## [UnifiedContactsPS](https://www.powershellgallery.com/Packages/UnifiedContactsPS/5.2.0) | 5.2.0
 
@@ -1367,13 +1419,13 @@ A module to ease infrastructure as code tasks for Dynamics 365.
 
 __Downloads__: 4,364 | __Repository__: https://github.com/shurick81/Dynamics365Configuration
 
-## [rhubarb-geek-nz.SQLiteConnection](https://www.powershellgallery.com/Packages/rhubarb-geek-nz.SQLiteConnection/1.0.118.0) | 1.0.118.0
+## [rhubarb-geek-nz.SQLiteConnection.Desktop](https://www.powershellgallery.com/Packages/rhubarb-geek-nz.SQLiteConnection.Desktop/1.0.118.0) | 1.0.118.0
 
-### Published: 11/21/2023 19:13:22 by Roger Brown
+### Published: 11/21/2023 20:12:56 by Roger Brown
 
 SQLite Connection Tool
 
-__Downloads__: 48 | __Repository__: https://github.com/rhubarb-geek-nz/SQLiteConnection
+__Downloads__: 23 | __Repository__: https://github.com/rhubarb-geek-nz/SQLiteConnection
 
 ## [pwps_dab](https://www.powershellgallery.com/Packages/pwps_dab/23.3.4) | 23.3.4
 
@@ -1415,7 +1467,7 @@ __Downloads__: 177 | __Repository__: https://github.com/Apteco/AptecoPSFramework
 
 Integrated CI/CD Solution for Microsoft Azure.
 
-__Downloads__: 1,739,171 | __Repository__: https://github.com/Azure/AzOps
+__Downloads__: 1,739,071 | __Repository__: https://github.com/Azure/AzOps
 
 ## [PowerValidatedSolutions](https://www.powershellgallery.com/Packages/PowerValidatedSolutions/2.7.1.1000) | 2.7.1.1000
 
@@ -1573,7 +1625,7 @@ __Downloads__: 349,352 | __Repository__: https://github.com/OSDeploy/OSDSUS
 
 November Update 2023
 
-__Downloads__: 1,107,719 | __Repository__: https://github.com/OSDeploy/OSD
+__Downloads__: 1,107,715 | __Repository__: https://github.com/OSDeploy/OSD
 
 ## [ADEssentials](https://www.powershellgallery.com/Packages/ADEssentials/0.0.173) | 0.0.173
 
@@ -1581,7 +1633,7 @@ __Downloads__: 1,107,719 | __Repository__: https://github.com/OSDeploy/OSD
 
 Helper module for Active Directory with lots of useful functions that simplify supporting Active Directory.
 
-__Downloads__: 161,286 | __Repository__: https://github.com/EvotecIT/ADEssentials
+__Downloads__: 161,285 | __Repository__: https://github.com/EvotecIT/ADEssentials
 
 ## [J81.NSToolkit.Stats](https://www.powershellgallery.com/Packages/J81.NSToolkit.Stats/2311.2021) | 2311.2021
 
@@ -1645,7 +1697,7 @@ __Downloads__: 14 | __Repository__: https://github.com/jamesw4/confirm-tfvars
 
 Scripting Tools for Windows PowerShell : iLO Cmdlets uses the RIBCL and Redfish interface to communicate to iLO. These cmdlets can be used to configure and manage iLO on HPE ProLiant Gen8, Gen9, Gen10, Gen10 Plus or Gen11 servers.
 
-__Downloads__: 1,135,943 | __Repository__: https://www.hpe.com/servers/powershell
+__Downloads__: 1,135,938 | __Repository__: https://www.hpe.com/servers/powershell
 
 ## [VCFInstanceRecovery](https://www.powershellgallery.com/Packages/VCFInstanceRecovery/1.0.6) | 1.0.6
 
@@ -1725,7 +1777,7 @@ __Downloads__: 156 | __Repository__: https://github.com/Zhaopudark/PSComputerMan
 
 A module for lifecycle management of the Microsoft Visual C++ Redistributables. VcRedist downloads, installs and uninstalls the supported (and unsupported) Redistributables. Use for local install, gold image creation and update, or importing as applications into the Microsoft Deployment Toolkit, Microsoft Configuration Manager or Microsoft Intune. Supports passive and silent installs, and uninstalls of the Visual C++ Redistributables.
 
-__Downloads__: 2,804,964 | __Repository__: https://vcredist.com/
+__Downloads__: 2,804,977 | __Repository__: https://vcredist.com/
 
 ## [Az.Do](https://www.powershellgallery.com/Packages/Az.Do/1.0.0) | 1.0.0
 
@@ -1898,7 +1950,7 @@ __Downloads__: 15,063 | __Repository__: https://github.com/webmd-health-services
 
 This module provides an interface to the Halo API.
 
-__Downloads__: 164,354 | __Repository__: https://github.com/homotechsual/HaloAPI
+__Downloads__: 164,366 | __Repository__: https://github.com/homotechsual/HaloAPI
 
 ## [UncommonSense.BridgeOpenings](https://www.powershellgallery.com/Packages/UncommonSense.BridgeOpenings/0.2.0) | 0.2.0
 
@@ -1906,7 +1958,7 @@ __Downloads__: 164,354 | __Repository__: https://github.com/homotechsual/HaloAPI
 
 PowerShell module to retrieve information about (a selection of) Dutch bridges from brugopen.nl
 
-__Downloads__: 1,689 | __Repository__: https://github.com/jhoek/UncommonSense.BridgeOpenings
+__Downloads__: 1,687 | __Repository__: https://github.com/jhoek/UncommonSense.BridgeOpenings
 
 ## [verkadaModule](https://www.powershellgallery.com/Packages/verkadaModule/0.6.11) | 0.6.11
 
@@ -2119,57 +2171,4 @@ PowerShell Module for VMware Cloud Foundation Power Management
 
 __Downloads__: 405 | __Repository__: https://vmware.github.io/powershell-module-for-vmware-cloud-foundation-power-management/
 
-## [PSFive9Admin](https://www.powershellgallery.com/Packages/PSFive9Admin/1.0.129) | 1.0.129
-
-### Published: 11/16/2023 16:53:38 by sqone2
-
-Functions for working with the Five9 Admin Web Service API
-
-__Downloads__: 10,102 | __Repository__: https://github.com/sqone2/PSFive9Admin
-
-## [VMware.CloudFoundation.PasswordManagement](https://www.powershellgallery.com/Packages/VMware.CloudFoundation.PasswordManagement/1.7.0.1000) | 1.7.0.1000
-
-### Published: 11/16/2023 16:52:45 by VMware
-
-PowerShell Module for VMware Cloud Foundation Password Management
-
-__Downloads__: 436 | __Repository__: https://vmware.github.io/powershell-module-for-vmware-cloud-foundation-password-management
-
-## [OSMGeocode](https://www.powershellgallery.com/Packages/OSMGeocode/0.0.5) | 0.0.5
-
-### Published: 11/16/2023 16:27:27 by florian.von.bracht@apteco.de
-
-Apteco PS Modules - OpenStreetMaps Geocoding
-
-- Geocode your addresses through OpenStreetMaps
-- Much more to follow...
-
-Your help is appreciated. Just contact me.
-
-__Downloads__: 21 | __Repository__: https://github.com/Apteco/AptecoPSModules/tree/dev/AptecoPSFramework
-
-## [PSZoom](https://www.powershellgallery.com/Packages/PSZoom/2.0.4.2) | 2.0.4.2
-
-### Published: 11/16/2023 16:26:07 by Joseph McEvoy
-
-A collection of Powershell tools to interface with the Zoom Api.
-
-__Downloads__: 6,836 | __Repository__: https://github.com/JosephMcEvoy/PSZoom
-
-## [LSMigrationTools](https://www.powershellgallery.com/Packages/LSMigrationTools/1.0.0.28) | 1.0.0.28
-
-### Published: 11/16/2023 15:27:21 by Ricardo Moinhos
-
-LS Migration Tool for Dynamics 365 Business Central
-
-__Downloads__: 303 | __Repository__: 
-
-## [spec.teamviewer.utilities](https://www.powershellgallery.com/Packages/spec.teamviewer.utilities/1.1.1) | 1.1.1
-
-### Published: 11/16/2023 15:04:29 by owen.heaume
-
-A module to help manage TeamViewer
-
-__Downloads__: 50 | __Repository__: 
-
-*Updated: Sunday, 03 December 2023 02:06:59 UTC*
+*Updated: Sunday, 03 December 2023 09:52:22 UTC*
