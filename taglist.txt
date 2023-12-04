@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Sunday, 03 December 2023 17:52:36 UTC
+Updated: Monday, 04 December 2023 02:06:59 UTC
 
 .bat
 .env
@@ -538,7 +538,6 @@ authorizationheaders
 authorize.net
 authz
 autify
-auto
 auto_cd
 auto-completion
 autoattendant
@@ -770,8 +769,6 @@ bestpractices
 beta
 bginfo
 bi
-bibliography
-bibtex
 bicep
 bicepnet
 big-ip
@@ -839,7 +836,6 @@ blueprints
 blueteam
 bluetraitio
 bmc
-bnm
 boards
 bofh
 boilerplate
@@ -961,7 +957,6 @@ capability
 capacity
 capgemini
 capslock
-captcha
 capture
 carbon
 carbonawarecomputing
@@ -1605,7 +1600,6 @@ cyberark-api
 cyberark-identity
 cyberdrain
 cybereason
-cybersamurai
 cybersecurity
 cyberwatch
 cyclic
@@ -2138,7 +2132,6 @@ effectiveroutes
 efi
 egrep
 eigencontroles
-einstein
 eklient psedition_core psedition_desktop
 elastic
 elasticsan
@@ -2246,7 +2239,6 @@ errorview
 eryph
 esae
 escape
-escapecodes
 escapesequences
 escaping
 ese
@@ -2440,6 +2432,7 @@ fiche
 fiddler
 fido
 fido2
+fieldglass
 fifa
 figlet
 file
@@ -3531,13 +3524,11 @@ kidrsa
 kill
 kindle
 kinetic
-kintone
 klantcontroles
 kms
 knapsack
 knetps
 knob
-knowbe4
 knowledge
 knowledgebase
 koans
@@ -3625,7 +3616,6 @@ learnpowershell
 lease
 leftjoin
 legacy
-legacyad
 legends
 lego
 lein
@@ -3691,7 +3681,6 @@ list-item
 listener
 litecoin
 litedb
-literature
 live
 lldp
 lmhost
@@ -4092,7 +4081,6 @@ moduleupdateinfo
 moduleupdater
 moduleversion
 mof
-moldova
 moment
 monaco
 monday
@@ -4284,7 +4272,6 @@ netcease
 netcore
 netfirewallrule
 netherlands
-netmap
 netmask
 nets
 netsapiens
@@ -4588,7 +4575,6 @@ optics
 optimization
 optimizer
 option
-option119
 options
 optionstring
 opus
@@ -4692,7 +4678,6 @@ panther
 panzerbjrn
 pap
 paper
-papis
 paradox
 parallel
 parallel-processing
@@ -4745,7 +4730,6 @@ patch
 patches
 patching
 path
-pathfinder
 patternmatching
 pause
 pax8
@@ -8655,7 +8639,6 @@ sapstartstopazure
 sarcasm
 sarif
 sas
-sat
 satirical
 save
 savedcreds
@@ -8762,7 +8745,6 @@ searchmanager
 searchplace
 searchquery
 searchstring
-searchsuffixlist
 secaas
 secedit
 secret
@@ -8788,7 +8770,6 @@ securescore
 securesphere
 securestring
 security
-security-awareness-training
 security-policy
 security-score
 security-txt
@@ -9242,6 +9223,7 @@ ssdt
 sse
 ssh
 ssh-config
+ssh-keygen
 sshmanagement
 sshservers
 ssis
@@ -9761,7 +9743,6 @@ trick
 tricks
 trigger
 triodos
-tripunkt
 troubleshoot
 troubleshooting
 trouw
@@ -9796,7 +9777,6 @@ tutorial
 tv
 tweet
 twig
-twilio
 twincat
 twinkly
 twitch
