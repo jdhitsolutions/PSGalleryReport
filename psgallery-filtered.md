@@ -3,6 +3,150 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [PSBicepApiManagement](https://www.powershellgallery.com/Packages/PSBicepApiManagement/0.3.0) | 0.3.0
+
+### Published: 12/05/2023 17:38:48 by Daniele Francioni
+
+Powershell module to export/import a single api from Azure Api Management using Azure Bicep.
+
+__Downloads__: 198 | __Repository__: https://github.com/sincronicatech/powershell-psbicepapimanagement
+
+## [PSNative](https://www.powershellgallery.com/Packages/PSNative/1.0.1) | 1.0.1
+
+### Published: 12/05/2023 17:35:42 by Friedrich Weinmann
+
+Invoke native commands in a useful manner
+
+__Downloads__: 29 | __Repository__: https://github.com/FriedrichWeinmann/PSNative
+
+## [VMware.CloudFoundation.PowerManagement](https://www.powershellgallery.com/Packages/VMware.CloudFoundation.PowerManagement/1.4.0.1001) | 1.4.0.1001
+
+### Published: 12/05/2023 16:32:43 by Broadcom
+
+PowerShell Module for VMware Cloud Foundation Power Management
+
+__Downloads__: 408 | __Repository__: https://vmware.github.io/powershell-module-for-vmware-cloud-foundation-power-management/
+
+## [PSTcpIp](https://www.powershellgallery.com/Packages/PSTcpIp/4.18.0) | 4.18.0
+
+### Published: 12/05/2023 15:00:16 by Anthony Guimelli
+
+Provides cmdlets to perform various TCPIP and TLS/SSL related tasks.
+
+__Downloads__: 2,286 | __Repository__: https://github.com/anthonyg-1/PSTcpIp
+
+## [JyskIT.Automation](https://www.powershellgallery.com/Packages/JyskIT.Automation/0.3.3) | 0.3.3
+
+### Published: 12/05/2023 14:41:19 by Jysk IT
+
+Provides different cmdlets for automating Microsoft 365 and related services.
+
+__Downloads__: 108 | __Repository__: 
+
+## [AdminToolbox](https://www.powershellgallery.com/Packages/AdminToolbox/11.0.125) | 11.0.125
+
+### Published: 12/05/2023 14:23:01 by Taylor Lee
+
+Master module for a collection of modules. These modules are varied in their tasks. The overall purpose of them being to provide a powerfull Toolset to improve IT Admin workflows.
+
+__Downloads__: 29,740 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox
+
+## [AdminToolbox.FortiWizard](https://www.powershellgallery.com/Packages/AdminToolbox.FortiWizard/2.18.23) | 2.18.23
+
+### Published: 12/05/2023 14:21:41 by Taylor Lee
+
+Functions that generate configuration scripts and manage FortiOS.
+
+__Downloads__: 8,959 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [AdminToolbox.VMWareAutomate](https://www.powershellgallery.com/Packages/AdminToolbox.VMWareAutomate/4.8.114) | 4.8.114
+
+### Published: 12/05/2023 14:20:59 by Taylor Lee
+
+Functions to Automate Bulk VMWare Tasks
+
+__Downloads__: 15,831 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [AdminToolbox.Remoting](https://www.powershellgallery.com/Packages/AdminToolbox.Remoting/1.9.117) | 1.9.117
+
+### Published: 12/05/2023 14:20:21 by Taylor Lee
+
+Functions for remote management and access.
+
+__Downloads__: 15,641 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [AdminToolbox.Office365](https://www.powershellgallery.com/Packages/AdminToolbox.Office365/3.1.67) | 3.1.67
+
+### Published: 12/05/2023 14:19:46 by Taylor Lee
+
+Functions for working with Office365 and Azure modules
+
+__Downloads__: 16,936 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [AdminToolbox.Networking](https://www.powershellgallery.com/Packages/AdminToolbox.Networking/2.18.25) | 2.18.25
+
+### Published: 12/05/2023 14:19:11 by Taylor Lee
+
+Network Troubleshooting Functions
+
+__Downloads__: 41,235 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [AdminToolbox.MSGraph](https://www.powershellgallery.com/Packages/AdminToolbox.MSGraph/1.2.117) | 1.2.117
+
+### Published: 12/05/2023 14:18:35 by Taylor Lee
+
+Microsoft Graph interactive API Functions
+
+__Downloads__: 5,979 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [AdminToolbox.Fun](https://www.powershellgallery.com/Packages/AdminToolbox.Fun/1.6.118) | 1.6.118
+
+### Published: 12/05/2023 14:18:01 by Taylor Lee
+
+Functions that have no purpose
+
+__Downloads__: 15,652 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [AdminToolbox.FileManagement](https://www.powershellgallery.com/Packages/AdminToolbox.FileManagement/1.15.108) | 1.15.108
+
+### Published: 12/05/2023 14:17:27 by Taylor Lee
+
+File Management Functions
+
+__Downloads__: 16,332 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [AdminToolbox.FFTools](https://www.powershellgallery.com/Packages/AdminToolbox.FFTools/4.16.67) | 4.16.67
+
+### Published: 12/05/2023 14:16:52 by Taylor Lee
+
+Expedite simple ffmpeg actions
+
+__Downloads__: 16,231 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [AdminToolbox.Exchange](https://www.powershellgallery.com/Packages/AdminToolbox.Exchange/1.9.118) | 1.9.118
+
+### Published: 12/05/2023 14:16:17 by Taylor Lee
+
+Functions for Exchange Management
+
+__Downloads__: 17,354 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [AdminToolbox.EndpointManagement](https://www.powershellgallery.com/Packages/AdminToolbox.EndpointManagement/4.9.110) | 4.9.110
+
+### Published: 12/05/2023 14:15:42 by Taylor Lee
+
+Functions for management of endpoints
+
+__Downloads__: 19,280 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [AdminToolbox.ActiveDirectory](https://www.powershellgallery.com/Packages/AdminToolbox.ActiveDirectory/1.9.115) | 1.9.115
+
+### Published: 12/05/2023 14:15:07 by Taylor Lee
+
+Functions for Active Directory
+
+__Downloads__: 19,823 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
 ## [UnifiedLabelingSupportTool](https://www.powershellgallery.com/Packages/UnifiedLabelingSupportTool/3.1.1) | 3.1.1
 
 ### Published: 12/05/2023 09:19:14 by Claus Schiroky
@@ -1182,14 +1326,6 @@ Provides cmdlets for starting migration of applications to supported clouds usin
 
 __Downloads__: 493 | __Repository__: https://migrate.rivermeadow.com/
 
-## [JyskIT.Automation](https://www.powershellgallery.com/Packages/JyskIT.Automation/0.3.2) | 0.3.2
-
-### Published: 12/04/2023 15:13:08 by Jysk IT
-
-Provides different cmdlets for automating Microsoft 365 and related services.
-
-__Downloads__: 108 | __Repository__: 
-
 ## [Universal](https://www.powershellgallery.com/Packages/Universal/4.2.5) | 4.2.5
 
 ### Published: 12/04/2023 15:04:12 by Ironman Software
@@ -1777,6 +1913,14 @@ A ScriptoForm project is the set of files and folders, including the PowerShell 
 
 __Downloads__: 17 | __Repository__: https://github.com/Smart-Ace-Designs/SmartAceDesigns.ScriptoFormTemplates
 
+## [cr-devops-rest](https://www.powershellgallery.com/Packages/cr-devops-rest/2023.11.294) | 2023.11.294
+
+### Published: 11/29/2023 01:10:03 by Ryan.Phay@clearesult.com
+
+Create straight forward REST calls in PowerShell based on API endpoints defined in .json files.  Add your own REST API endpoints by simply creating new .json files.
+
+__Downloads__: 123 | __Repository__: https://github.com/CLEAResult/it.devops.psm.rest
+
 ## [WindowsOSBuild](https://www.powershellgallery.com/Packages/WindowsOSBuild/2311.1) | 2311.1
 
 ### Published: 11/28/2023 23:42:05 by Ashley How
@@ -1816,110 +1960,6 @@ __Downloads__: 363,669 | __Repository__: https://github.com/jjcarrier/PS-TableUI
 Yet Another YAML parser and writer for PowerShell
 
 __Downloads__: 666 | __Repository__: https://github.com/jborean93/PowerShell-Yayaml
-
-## [AdminToolbox](https://www.powershellgallery.com/Packages/AdminToolbox/11.0.124) | 11.0.124
-
-### Published: 11/28/2023 14:22:24 by Taylor Lee
-
-Master module for a collection of modules. These modules are varied in their tasks. The overall purpose of them being to provide a powerfull Toolset to improve IT Admin workflows.
-
-__Downloads__: 29,740 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox
-
-## [AdminToolbox.FortiWizard](https://www.powershellgallery.com/Packages/AdminToolbox.FortiWizard/2.18.22) | 2.18.22
-
-### Published: 11/28/2023 14:21:18 by Taylor Lee
-
-Functions that generate configuration scripts and manage FortiOS.
-
-__Downloads__: 8,959 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-## [AdminToolbox.VMWareAutomate](https://www.powershellgallery.com/Packages/AdminToolbox.VMWareAutomate/4.8.113) | 4.8.113
-
-### Published: 11/28/2023 14:20:43 by Taylor Lee
-
-Functions to Automate Bulk VMWare Tasks
-
-__Downloads__: 15,831 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-## [AdminToolbox.Remoting](https://www.powershellgallery.com/Packages/AdminToolbox.Remoting/1.9.116) | 1.9.116
-
-### Published: 11/28/2023 14:20:09 by Taylor Lee
-
-Functions for remote management and access.
-
-__Downloads__: 15,641 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-## [AdminToolbox.Office365](https://www.powershellgallery.com/Packages/AdminToolbox.Office365/3.1.66) | 3.1.66
-
-### Published: 11/28/2023 14:19:36 by Taylor Lee
-
-Functions for working with Office365 and Azure modules
-
-__Downloads__: 16,936 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-## [AdminToolbox.Networking](https://www.powershellgallery.com/Packages/AdminToolbox.Networking/2.18.24) | 2.18.24
-
-### Published: 11/28/2023 14:19:03 by Taylor Lee
-
-Network Troubleshooting Functions
-
-__Downloads__: 41,235 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-## [AdminToolbox.MSGraph](https://www.powershellgallery.com/Packages/AdminToolbox.MSGraph/1.2.116) | 1.2.116
-
-### Published: 11/28/2023 14:18:28 by Taylor Lee
-
-Microsoft Graph interactive API Functions
-
-__Downloads__: 5,979 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-## [AdminToolbox.Fun](https://www.powershellgallery.com/Packages/AdminToolbox.Fun/1.6.117) | 1.6.117
-
-### Published: 11/28/2023 14:17:54 by Taylor Lee
-
-Functions that have no purpose
-
-__Downloads__: 15,652 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-## [AdminToolbox.FileManagement](https://www.powershellgallery.com/Packages/AdminToolbox.FileManagement/1.15.107) | 1.15.107
-
-### Published: 11/28/2023 14:17:20 by Taylor Lee
-
-File Management Functions
-
-__Downloads__: 16,332 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-## [AdminToolbox.FFTools](https://www.powershellgallery.com/Packages/AdminToolbox.FFTools/4.16.66) | 4.16.66
-
-### Published: 11/28/2023 14:16:46 by Taylor Lee
-
-Expedite simple ffmpeg actions
-
-__Downloads__: 16,231 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-## [AdminToolbox.Exchange](https://www.powershellgallery.com/Packages/AdminToolbox.Exchange/1.9.117) | 1.9.117
-
-### Published: 11/28/2023 14:16:13 by Taylor Lee
-
-Functions for Exchange Management
-
-__Downloads__: 17,354 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-## [AdminToolbox.EndpointManagement](https://www.powershellgallery.com/Packages/AdminToolbox.EndpointManagement/4.9.109) | 4.9.109
-
-### Published: 11/28/2023 14:15:40 by Taylor Lee
-
-Functions for management of endpoints
-
-__Downloads__: 19,280 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-## [AdminToolbox.ActiveDirectory](https://www.powershellgallery.com/Packages/AdminToolbox.ActiveDirectory/1.9.114) | 1.9.114
-
-### Published: 11/28/2023 14:15:05 by Taylor Lee
-
-Functions for Active Directory
-
-__Downloads__: 19,823 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [Logic.Monitor](https://www.powershellgallery.com/Packages/Logic.Monitor/5.0) | 5.0
 
@@ -1977,14 +2017,6 @@ This PowerShell module emulates browser interaction to Minimed CareLink to retri
 
 __Downloads__: 22 | __Repository__: 
 
-## [PSTcpIp](https://www.powershellgallery.com/Packages/PSTcpIp/4.17.4) | 4.17.4
-
-### Published: 11/28/2023 02:42:24 by Anthony Guimelli
-
-Provides cmdlets to perform various TCPIP and TLS/SSL related tasks.
-
-__Downloads__: 2,286 | __Repository__: https://github.com/anthonyg-1/PSTcpIp
-
 ## [Kamino](https://www.powershellgallery.com/Packages/Kamino/1.0.0) | 1.0.0
 
 ### Published: 11/28/2023 01:01:14 by Evan Deters
@@ -2001,36 +2033,4 @@ TOML parser and writer for PowerShell
 
 __Downloads__: 1,130 | __Repository__: https://github.com/jborean93/PSToml
 
-## [rhubarb-geek-nz.MySqlConnection](https://www.powershellgallery.com/Packages/rhubarb-geek-nz.MySqlConnection/2.3.1) | 2.3.1
-
-### Published: 11/27/2023 20:43:40 by Roger Brown
-
-MySQL Connection Tool
-
-__Downloads__: 30 | __Repository__: https://github.com/rhubarb-geek-nz/MySqlConnection
-
-## [Logic.Monitor.SE](https://www.powershellgallery.com/Packages/Logic.Monitor.SE/1.4.1) | 1.4.1
-
-### Published: 11/27/2023 18:47:44 by Steven Villardi
-
-PowerShell module to assist with Sale Engineering activities.
-
-__Downloads__: 87 | __Repository__: https://github.com/stevevillardi/Logic.Monitor.SE
-
-## [wingetposh](https://www.powershellgallery.com/Packages/wingetposh/1.0.1) | 1.0.1
-
-### Published: 11/27/2023 18:42:45 by yvesg
-
-Helpers functions for Winget
-
-__Downloads__: 1,662 | __Repository__: https://github.com/Yves848/WingetPosh/tree/0.9.8-(scoop-integration)
-
-## [VMware.CloudFoundation.CertificateManagement](https://www.powershellgallery.com/Packages/VMware.CloudFoundation.CertificateManagement/1.4.1.1000) | 1.4.1.1000
-
-### Published: 11/27/2023 18:25:33 by VMware
-
-PowerShell Module for VMware Cloud Foundation Certificate Management
-
-__Downloads__: 267 | __Repository__: https://vmware.github.io/powershell-module-for-vmware-cloud-foundation-certificate-management
-
-*Updated: Tuesday, 05 December 2023 09:52:16 UTC*
+*Updated: Tuesday, 05 December 2023 17:52:38 UTC*

@@ -2229,4 +2229,4 @@ PSScriptAnalyzer provides script analysis and checks for potential code defects 
 
 __Downloads__: 3,934,156 | __Repository__: https://github.com/PowerShell/PSScriptAnalyzer
 
-*Updated: Tuesday, 05 December 2023 09:52:20 UTC*
+*Updated: Tuesday, 05 December 2023 17:52:43 UTC*

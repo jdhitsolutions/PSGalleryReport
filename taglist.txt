@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Tuesday, 05 December 2023 09:52:25 UTC
+Updated: Tuesday, 05 December 2023 17:52:48 UTC
 
 .bat
 .env
@@ -75,7 +75,6 @@ about
 abr
 abstractsyntaxtree
 abuse
-abuseipdb
 acas
 accelerator
 access
@@ -651,7 +650,6 @@ azureadtoolkit
 azureappconfiguration
 azureas
 azureautomation
-azureautomationaccount
 azureautomationnotsupported
 azurebasicloadbalancerupgrade
 azurecli
@@ -810,7 +808,6 @@ bitcoin
 bitlocker
 bitwarden
 bitwig
-bitwise
 biztalk
 biztalkalm
 biztalkdeploymentframework
@@ -918,7 +915,6 @@ bulk
 bulletin
 bullhorn
 bundle
-bup
 burnttoast
 burpsuite
 bus
@@ -929,7 +925,6 @@ businesshours
 businessobjects
 businessrulesengine
 businesstime
-bxor
 bydesign
 byexample
 bynarypsmodule
@@ -990,7 +985,6 @@ cavium
 cb
 cblueshell
 cbr
-cbz
 cchoco
 cchocoex
 ccm
@@ -1112,7 +1106,6 @@ cinema
 cinst
 cipher
 circuit-breaker
-circumlunar
 cireson
 ciresonassetmanagement
 ciresonportal
@@ -1882,6 +1875,7 @@ disasm
 disasterrecovery
 disconnect
 discord
+discordrpc
 discount
 discover
 discovery
@@ -1981,6 +1975,7 @@ dok
 dokuwiki
 domain
 domainkey
+domainname
 domains
 domino
 donothing
@@ -2228,6 +2223,7 @@ eol
 eop
 eperl
 ephesoft
+epicor
 episode
 epplus
 eprosima
@@ -2245,6 +2241,7 @@ errorview
 eryph
 esae
 escape
+escapecodes
 escapesequences
 escaping
 ese
@@ -2364,6 +2361,7 @@ export
 export-cmhealthreport
 export-data
 export-passlist
+exportcertificate
 exportcertificates
 exporter
 exportexcel
@@ -2437,7 +2435,6 @@ fiche
 fiddler
 fido
 fido2
-fieldglass
 fifa
 figlet
 file
@@ -2628,7 +2625,6 @@ fslogix
 fsrm
 ftp
 ftps
-fu-msauth
 fudge
 fudgepop
 fujitsu
@@ -2680,10 +2676,6 @@ gcs
 gdpr
 gedit
 gem
-gemini
-geminiprotocol
-gemlog
-gemtext
 general
 generate
 generate-dockerimagevariants
@@ -2895,7 +2887,6 @@ gzip-compression
 ha
 haarlemsdagblad
 hack
-hacking
 hacktoberfest
 hadoop
 hafr
@@ -3344,7 +3335,6 @@ ios
 iot
 iotcentral
 iothub
-iothubproperties
 ip
 ip-address
 ip-scanner
@@ -3491,13 +3481,13 @@ karabiner
 karabiner-elements
 karma
 kaseya
-kaseyavsa
 kaspersky
 katakana
 kb
 kbarticle
 kdbx
 kdialog
+keenetic
 keepachangelog
 keepass
 keepasslib
@@ -3528,13 +3518,13 @@ kickstart
 kidrsa
 kill
 kindle
+kinetic
 kintone
 klantcontroles
 kms
 knapsack
 knetps
 knob
-knowbe4
 knowledge
 knowledgebase
 koans
@@ -3773,10 +3763,8 @@ logonto
 logonuser
 logparser
 logrotate
-logrotation
 logs
 logstash
-logtools
 logz
 loki
 lol
@@ -3816,6 +3804,7 @@ machine
 machinelearning
 machinelearningcompute
 machinelearningservices
+macmon
 macos
 macosx
 macro
@@ -3920,7 +3909,6 @@ mb
 mbc
 mbs
 mc
-mcafee
 mcas
 mcd
 mchapv2
@@ -4031,7 +4019,6 @@ microsofthealth
 microsoftintune
 microsoftmvp
 microsoftoffice
-microsoftonline
 microsoftstaffhub
 microsoftstore
 microsoftteams
@@ -4231,6 +4218,7 @@ mytest
 n-able
 n-central
 nabu
+nac
 nagios
 name
 name-of-dogs
@@ -8277,7 +8265,6 @@ quality
 qualys
 quandl
 quantum
-quarantine
 queries
 query
 queue
@@ -8427,6 +8414,8 @@ regions
 regiser-argumentcompleter
 register
 register-argumentcompleter
+registered
+registrar
 registration
 registry
 regression
@@ -8451,6 +8440,7 @@ remote
 remote-desktop
 remote'
 remoteadmin
+remotecert
 remoteconnection
 remoteconnectionsmanager
 remotecontrol
@@ -8697,7 +8687,6 @@ sapstartstopazure
 sarcasm
 sarif
 sas
-sat
 satirical
 save
 savedcreds
@@ -8830,7 +8819,6 @@ securescore
 securesphere
 securestring
 security
-security-awareness-training
 security-policy
 security-score
 security-txt
@@ -9216,6 +9204,7 @@ spf
 spi
 spicetify
 spinnaker
+splash
 splat
 splatting
 split
@@ -9991,6 +9980,7 @@ updatemgmt
 updater
 updates
 updateservices
+updmanagement
 updmgmt
 upgrade
 uplift
@@ -10227,7 +10217,6 @@ vrsns
 vrtu
 vs
 vs-shell
-vsa
 vsan
 vsan+
 vscode
@@ -10394,8 +10383,6 @@ windows-explorer
 windows-features
 windows-firewall
 windows-powershell
-windows-registry
-windows-remoting
 windows-server-2016
 windows-terminal
 windows-user-folder
@@ -10452,6 +10439,7 @@ winform
 winforms
 winget
 wingetbridge
+winrar
 winrm
 winrs
 winrt
@@ -10606,7 +10594,6 @@ xmla
 xmlrpc
 xmlutils
 xoauth2
-xor
 xpath
 xpendingreboot
 xpertdoc
