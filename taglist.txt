@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Tuesday, 05 December 2023 02:07:05 UTC
+Updated: Tuesday, 05 December 2023 09:52:25 UTC
 
 .bat
 .env
@@ -540,6 +540,7 @@ authorizationheaders
 authorize.net
 authz
 autify
+auto
 auto_cd
 auto-completion
 autoattendant
@@ -708,6 +709,8 @@ azvm
 b2
 back
 backblaze
+backconnection
+backconnectionhostname
 backup
 backup_validation
 bamboo
@@ -1109,6 +1112,7 @@ cinema
 cinst
 cipher
 circuit-breaker
+circumlunar
 cireson
 ciresonassetmanagement
 ciresonportal
@@ -1977,7 +1981,6 @@ dok
 dokuwiki
 domain
 domainkey
-domainname
 domains
 domino
 donothing
@@ -2225,7 +2228,6 @@ eol
 eop
 eperl
 ephesoft
-epicor
 episode
 epplus
 eprosima
@@ -2243,7 +2245,6 @@ errorview
 eryph
 esae
 escape
-escapecodes
 escapesequences
 escaping
 ese
@@ -2363,7 +2364,6 @@ export
 export-cmhealthreport
 export-data
 export-passlist
-exportcertificate
 exportcertificates
 exporter
 exportexcel
@@ -2442,6 +2442,7 @@ fifa
 figlet
 file
 file-association
+file-copy
 file-encoding
 file-extension
 file-extension-association
@@ -2503,6 +2504,7 @@ financeandoperations
 financeoperations
 financial
 financialedge
+financials
 find
 find-call
 find-caller
@@ -2678,6 +2680,10 @@ gcs
 gdpr
 gedit
 gem
+gemini
+geminiprotocol
+gemlog
+gemtext
 general
 generate
 generate-dockerimagevariants
@@ -3522,7 +3528,6 @@ kickstart
 kidrsa
 kill
 kindle
-kinetic
 kintone
 klantcontroles
 kms
@@ -3768,8 +3773,10 @@ logonto
 logonuser
 logparser
 logrotate
+logrotation
 logs
 logstash
+logtools
 logz
 loki
 lol
@@ -3809,7 +3816,6 @@ machine
 machinelearning
 machinelearningcompute
 machinelearningservices
-macmon
 macos
 macosx
 macro
@@ -4225,7 +4231,6 @@ mytest
 n-able
 n-central
 nabu
-nac
 nagios
 name
 name-of-dogs
@@ -4855,6 +4860,7 @@ plex
 plist
 plog
 plot
+plug-n-copy
 plugin
 plugins
 pluralsight
@@ -8269,6 +8275,7 @@ qrp
 qrs
 quality
 qualys
+quandl
 quantum
 quarantine
 queries
@@ -8420,8 +8427,6 @@ regions
 regiser-argumentcompleter
 register
 register-argumentcompleter
-registered
-registrar
 registration
 registry
 regression
@@ -8446,7 +8451,6 @@ remote
 remote-desktop
 remote'
 remoteadmin
-remotecert
 remoteconnection
 remoteconnectionsmanager
 remotecontrol
@@ -9212,7 +9216,6 @@ spf
 spi
 spicetify
 spinnaker
-splash
 splat
 splatting
 split
@@ -9377,6 +9380,8 @@ streak
 stream
 streamanalytics
 streaming
+streamreader
+streamwriter
 stretch
 strictmode
 strikethrough-text
@@ -9986,7 +9991,6 @@ updatemgmt
 updater
 updates
 updateservices
-updmanagement
 updmgmt
 upgrade
 uplift
@@ -10448,7 +10452,6 @@ winform
 winforms
 winget
 wingetbridge
-winrar
 winrm
 winrs
 winrt

@@ -3,6 +3,48 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [UnifiedLabelingSupportTool](https://www.powershellgallery.com/Packages/UnifiedLabelingSupportTool/3.1.1) | 3.1.1
+
+### Published: 12/05/2023 09:19:14 by Claus Schiroky
+
+Have you ever used the Sensitivity button in a Microsoft 365 App? If so, you've either used the Azure Information Protection client software (AIP add-in) or Office's built-in labeling solution (native client). In case something doesn't work as expected or you don't see any labeling at all, the 'Unified Labeling Support Tool' will help you.
+
+Before using the 'Unified Labeling Support Tool', please ensure to read its manual: https://aka.ms/UnifiedLabelingSupportTool
+
+__Downloads__: 3,821 | __Repository__: https://github.com/microsoft/UnifiedLabelingSupportTool
+
+## [SdnDiagnostics](https://www.powershellgallery.com/Packages/SdnDiagnostics/3.2312.873.83631) | 3.2312.873.83631
+
+### Published: 12/05/2023 08:37:01 by Adam Rudell Luyao Feng
+
+SdnDiagnostics is a tool used to simplify the data collection and diagnostics of Windows Software Defined Networking.
+
+__Downloads__: 32,930 | __Repository__: https://github.com/microsoft/SdnDiagnostics
+
+## [DCToolbox](https://www.powershellgallery.com/Packages/DCToolbox/2.0.18) | 2.0.18
+
+### Published: 12/05/2023 08:22:57 by Daniel Chronlund
+
+A PowerShell toolbox for Microsoft 365 security fans.
+
+__Downloads__: 22,246 | __Repository__: https://github.com/DanielChronlund/DCToolbox
+
+## [DataFrame](https://www.powershellgallery.com/Packages/DataFrame/0.1.0) | 0.1.0
+
+### Published: 12/05/2023 07:14:17 by Roman Kuzmin
+
+Cmdlets for Microsoft.Data.Analysis.DataFrame
+
+__Downloads__: 5 | __Repository__: https://github.com/nightroman/DataFrame
+
+## [AppVeyorTestPsGallery](https://www.powershellgallery.com/Packages/AppVeyorTestPsGallery/1.0.544) | 1.0.544
+
+### Published: 12/05/2023 06:17:04 by Feodor Fitsner
+
+The test module to verify publishing to PSGallery from AppVeyor.
+
+__Downloads__: 40,178 | __Repository__: 
+
 ## [PSGitAlias](https://www.powershellgallery.com/Packages/PSGitAlias/0.0.3) | 0.0.3
 
 ### Published: 12/05/2023 01:31:29 by Tuncle
@@ -1140,14 +1182,6 @@ Provides cmdlets for starting migration of applications to supported clouds usin
 
 __Downloads__: 493 | __Repository__: https://migrate.rivermeadow.com/
 
-## [DataFrame](https://www.powershellgallery.com/Packages/DataFrame/0.0.3) | 0.0.3
-
-### Published: 12/04/2023 16:30:29 by Roman Kuzmin
-
-Cmdlets for Microsoft.Data.Analysis.DataFrame
-
-__Downloads__: 5 | __Repository__: https://github.com/nightroman/DataFrame
-
 ## [JyskIT.Automation](https://www.powershellgallery.com/Packages/JyskIT.Automation/0.3.2) | 0.3.2
 
 ### Published: 12/04/2023 15:13:08 by Jysk IT
@@ -1273,14 +1307,6 @@ __Downloads__: 76 | __Repository__:
 Provide a better and easier way for GitHub Actions to communicate with the runner machine, and the toolkit for developing GitHub Actions in PowerShell.
 
 __Downloads__: 123,021 | __Repository__: https://github.com/hugoalh-studio/ghactions-toolkit-powershell
-
-## [AppVeyorTestPsGallery](https://www.powershellgallery.com/Packages/AppVeyorTestPsGallery/1.0.541) | 1.0.541
-
-### Published: 12/04/2023 03:43:41 by Feodor Fitsner
-
-The test module to verify publishing to PSGallery from AppVeyor.
-
-__Downloads__: 40,178 | __Repository__: 
 
 ## [ExchangeEssentials](https://www.powershellgallery.com/Packages/ExchangeEssentials/0.17.0) | 0.17.0
 
@@ -1751,14 +1777,6 @@ A ScriptoForm project is the set of files and folders, including the PowerShell 
 
 __Downloads__: 17 | __Repository__: https://github.com/Smart-Ace-Designs/SmartAceDesigns.ScriptoFormTemplates
 
-## [cr-devops-rest](https://www.powershellgallery.com/Packages/cr-devops-rest/2023.11.294) | 2023.11.294
-
-### Published: 11/29/2023 01:10:03 by Ryan.Phay@clearesult.com
-
-Create straight forward REST calls in PowerShell based on API endpoints defined in .json files.  Add your own REST API endpoints by simply creating new .json files.
-
-__Downloads__: 123 | __Repository__: https://github.com/CLEAResult/it.devops.psm.rest
-
 ## [WindowsOSBuild](https://www.powershellgallery.com/Packages/WindowsOSBuild/2311.1) | 2311.1
 
 ### Published: 11/28/2023 23:42:05 by Ashley How
@@ -1951,14 +1969,6 @@ A module to help manage drive SMB drive maps.
 
 __Downloads__: 8 | __Repository__: 
 
-## [SdnDiagnostics](https://www.powershellgallery.com/Packages/SdnDiagnostics/3.2311.866.44427) | 3.2311.866.44427
-
-### Published: 11/28/2023 04:44:59 by Adam Rudell Luyao Feng
-
-SdnDiagnostics is a tool used to simplify the data collection and diagnostics of Windows Software Defined Networking.
-
-__Downloads__: 32,930 | __Repository__: https://github.com/microsoft/SdnDiagnostics
-
 ## [CareLink](https://www.powershellgallery.com/Packages/CareLink/2.0) | 2.0
 
 ### Published: 11/28/2023 03:52:31 by AdhocAdam
@@ -2023,12 +2033,4 @@ PowerShell Module for VMware Cloud Foundation Certificate Management
 
 __Downloads__: 267 | __Repository__: https://vmware.github.io/powershell-module-for-vmware-cloud-foundation-certificate-management
 
-## [PSFalcon](https://www.powershellgallery.com/Packages/PSFalcon/2.2.6) | 2.2.6
-
-### Published: 11/27/2023 17:48:40 by Brendan Kremian
-
-PowerShell for the CrowdStrike Falcon OAuth2 APIs
-
-__Downloads__: 417,158 | __Repository__: https://github.com/crowdstrike/psfalcon
-
-*Updated: Tuesday, 05 December 2023 02:06:56 UTC*
+*Updated: Tuesday, 05 December 2023 09:52:16 UTC*

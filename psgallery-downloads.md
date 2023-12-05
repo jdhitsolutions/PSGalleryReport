@@ -83,9 +83,9 @@ For more information on Storage, please visit the following: https://learn.micro
 
 __Downloads__: 83,898,704 | __Repository__: https://github.com/Azure/azure-powershell
 
-## [Az.Resources](https://www.powershellgallery.com/Packages/Az.Resources/6.12.0) | 6.12.0
+## [Az.Resources](https://www.powershellgallery.com/Packages/Az.Resources/6.12.1) | 6.12.1
 
-### Published: 11/14/2023 05:09:04 by Microsoft Corporation
+### Published: 12/05/2023 02:07:17 by Microsoft Corporation
 
 Microsoft Azure PowerShell - Azure Resource Manager and Active Directory cmdlets in Windows PowerShell and PowerShell Core.  Manages subscriptions, tenants, resource groups, deployment templates, providers, and resource permissions in Azure Resource Manager.  Provides cmdlets for managing resources generically across resource providers.
 For more information on Resource Manager, please visit the following: https://learn.microsoft.com/azure/azure-resource-manager/
@@ -93,9 +93,9 @@ For more information on Active Directory, please visit the following: https://le
 
 __Downloads__: 83,550,283 | __Repository__: https://github.com/Azure/azure-powershell
 
-## [Az.KeyVault](https://www.powershellgallery.com/Packages/Az.KeyVault/5.0.0) | 5.0.0
+## [Az.KeyVault](https://www.powershellgallery.com/Packages/Az.KeyVault/5.0.1) | 5.0.1
 
-### Published: 11/14/2023 05:07:16 by Microsoft Corporation
+### Published: 12/05/2023 02:05:38 by Microsoft Corporation
 
 Microsoft Azure PowerShell - Key Vault service cmdlets for Azure Resource Manager in Windows PowerShell and PowerShell Core.
 
@@ -189,9 +189,9 @@ For more information on AKS, please visit the following: https://learn.microsoft
 
 __Downloads__: 65,997,902 | __Repository__: https://github.com/Azure/azure-powershell
 
-## [Az.Network](https://www.powershellgallery.com/Packages/Az.Network/7.0.0) | 7.0.0
+## [Az.Network](https://www.powershellgallery.com/Packages/Az.Network/7.1.0) | 7.1.0
 
-### Published: 11/14/2023 05:08:08 by Microsoft Corporation
+### Published: 12/05/2023 02:06:25 by Microsoft Corporation
 
 Microsoft Azure PowerShell - Networking service cmdlets for Azure Resource Manager in Windows PowerShell and PowerShell Core.
 
@@ -291,9 +291,9 @@ For more information on Container Registry, please visit the following: https://
 
 __Downloads__: 63,797,806 | __Repository__: https://github.com/Azure/azure-powershell
 
-## [Az.Sql](https://www.powershellgallery.com/Packages/Az.Sql/4.11.0) | 4.11.0
+## [Az.Sql](https://www.powershellgallery.com/Packages/Az.Sql/4.12.0) | 4.12.0
 
-### Published: 11/14/2023 05:09:25 by Microsoft Corporation
+### Published: 12/05/2023 02:07:38 by Microsoft Corporation
 
 Microsoft Azure PowerShell - SQL service cmdlets for Azure Resource Manager in Windows PowerShell and PowerShell Core.
 
@@ -447,9 +447,9 @@ For more information on Notification Hubs, please visit the following: https://l
 
 __Downloads__: 61,748,808 | __Repository__: https://github.com/Azure/azure-powershell
 
-## [Az.RecoveryServices](https://www.powershellgallery.com/Packages/Az.RecoveryServices/6.6.1) | 6.6.1
+## [Az.RecoveryServices](https://www.powershellgallery.com/Packages/Az.RecoveryServices/6.6.2) | 6.6.2
 
-### Published: 11/14/2023 05:08:47 by Microsoft Corporation
+### Published: 12/05/2023 02:07:04 by Microsoft Corporation
 
 Microsoft Azure PowerShell - Recovery Services cmdlets for Azure Resource Manager in Windows PowerShell and PowerShell Core.
 
@@ -458,9 +458,9 @@ For more information on Site Recovery, please visit the following: https://learn
 
 __Downloads__: 61,732,504 | __Repository__: https://github.com/Azure/azure-powershell
 
-## [Az.ServiceFabric](https://www.powershellgallery.com/Packages/Az.ServiceFabric/3.3.0) | 3.3.0
+## [Az.ServiceFabric](https://www.powershellgallery.com/Packages/Az.ServiceFabric/3.3.1) | 3.3.1
 
-### Published: 11/14/2023 05:09:17 by Microsoft Corporation
+### Published: 12/05/2023 02:07:30 by Microsoft Corporation
 
 Microsoft Azure PowerShell - Service Fabric cmdlets for Azure Resource Manager in Windows PowerShell and PowerShell Core.
 
@@ -533,9 +533,9 @@ Microsoft Azure PowerShell: StreamAnalytics cmdlets
 
 __Downloads__: 61,374,277 | __Repository__: https://github.com/Azure/azure-powershell
 
-## [Az](https://www.powershellgallery.com/Packages/Az/11.0.0) | 11.0.0
+## [Az](https://www.powershellgallery.com/Packages/Az/11.1.0) | 11.1.0
 
-### Published: 11/14/2023 08:12:14 by Microsoft Corporation
+### Published: 12/05/2023 02:08:19 by Microsoft Corporation
 
 Microsoft Azure PowerShell - Cmdlets to manage resources in Azure. This module is compatible with PowerShell and Windows PowerShell.
 For more information about the Az module, please visit the following: https://learn.microsoft.com/powershell/azure/
@@ -634,9 +634,9 @@ For automation with SSRS & Power BI Report Server, use the ReportingServicesTool
 
 __Downloads__: 56,806,400 | __Repository__: 
 
-## [Az.Maintenance](https://www.powershellgallery.com/Packages/Az.Maintenance/1.4.0) | 1.4.0
+## [Az.Maintenance](https://www.powershellgallery.com/Packages/Az.Maintenance/1.4.1) | 1.4.1
 
-### Published: 11/14/2023 05:07:36 by Microsoft Corporation
+### Published: 12/05/2023 02:05:55 by Microsoft Corporation
 
 Microsoft Azure PowerShell - Maintenance cmdlets for Azure Resource Manager in Windows PowerShell and PowerShell Core.
 
@@ -784,9 +784,9 @@ Microsoft Azure PowerShell: ResourceMover cmdlets
 
 __Downloads__: 35,861,928 | __Repository__: https://github.com/Azure/azure-powershell
 
-## [Az.Security](https://www.powershellgallery.com/Packages/Az.Security/1.5.0) | 1.5.0
+## [Az.Security](https://www.powershellgallery.com/Packages/Az.Security/1.5.1) | 1.5.1
 
-### Published: 11/14/2023 05:09:08 by Microsoft Corporation
+### Published: 12/05/2023 02:07:21 by Microsoft Corporation
 
 Microsoft Azure PowerShell - Azure Security Center cmdlets in Windows PowerShell and PowerShell Core. Allows managing and monitoring the security posture of your resources.
 
@@ -920,9 +920,9 @@ Microsoft Azure PowerShell - Compute service cmdlets for Azure Resource Manager.
 
 __Downloads__: 26,553,227 | __Repository__: https://github.com/Azure/azure-powershell
 
-## [Az.ManagedServiceIdentity](https://www.powershellgallery.com/Packages/Az.ManagedServiceIdentity/1.1.1) | 1.1.1
+## [Az.ManagedServiceIdentity](https://www.powershellgallery.com/Packages/Az.ManagedServiceIdentity/1.2.0) | 1.2.0
 
-### Published: 03/09/2023 02:43:58 by Microsoft Corporation
+### Published: 12/05/2023 02:05:57 by Microsoft Corporation
 
 Microsoft Azure PowerShell: ManagedServiceIdentity cmdlets
 
@@ -2229,4 +2229,4 @@ PSScriptAnalyzer provides script analysis and checks for potential code defects 
 
 __Downloads__: 3,934,156 | __Repository__: https://github.com/PowerShell/PSScriptAnalyzer
 
-*Updated: Tuesday, 05 December 2023 02:07:00 UTC*
+*Updated: Tuesday, 05 December 2023 09:52:20 UTC*
