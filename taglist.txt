@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Tuesday, 05 December 2023 17:52:48 UTC
+Updated: Wednesday, 06 December 2023 02:07:10 UTC
 
 .bat
 .env
@@ -75,6 +75,7 @@ about
 abr
 abstractsyntaxtree
 abuse
+abuseipdb
 acas
 accelerator
 access
@@ -173,7 +174,6 @@ adfstools
 adgroupmemberobjects
 adgroupmembers
 adgroups
-adif
 adm
 admf
 admin
@@ -237,12 +237,10 @@ agm
 agnoster
 ai
 aianomalydetection
-aidocument
 ailanguage
 aim
 aip
 aipscanner
-aircall
 airpower
 airpwr
 airtable
@@ -290,8 +288,6 @@ alwaysontop
 alwaysonvpn
 alz
 amateur
-amateur-data-interchange-format
-amateur-radio
 amateurradio
 amazon
 amazonaws
@@ -350,7 +346,6 @@ apexone
 api
 api-client
 api-gateway
-api-rest
 apichecks
 apiclient
 apigateway
@@ -496,7 +491,6 @@ async
 asynchronous
 atempo
 atera
-athena
 atlas
 atlassian
 atlassiancli
@@ -650,6 +644,7 @@ azureadtoolkit
 azureappconfiguration
 azureas
 azureautomation
+azureautomationaccount
 azureautomationnotsupported
 azurebasicloadbalancerupgrade
 azurecli
@@ -718,7 +713,6 @@ bank
 banking
 banner
 bar
-barcodes
 baremetal
 base
 base16
@@ -808,6 +802,7 @@ bitcoin
 bitlocker
 bitwarden
 bitwig
+bitwise
 biztalk
 biztalkalm
 biztalkdeploymentframework
@@ -856,7 +851,6 @@ bootstrap
 bootstrapping
 bop
 bot
-bots
 botservice
 bouncer
 boundaries
@@ -883,7 +877,6 @@ britannicaknowledgesystems
 british-gas
 brk4452
 broadcast
-broadcom
 broot
 brownserve-uk
 browser
@@ -915,6 +908,7 @@ bulk
 bulletin
 bullhorn
 bundle
+bup
 burnttoast
 burpsuite
 bus
@@ -925,6 +919,7 @@ businesshours
 businessobjects
 businessrulesengine
 businesstime
+bxor
 bydesign
 byexample
 bynarypsmodule
@@ -985,6 +980,7 @@ cavium
 cb
 cblueshell
 cbr
+cbz
 cchoco
 cchocoex
 ccm
@@ -1094,7 +1090,6 @@ cidr
 cidrcalculator
 cif
 cifv3
-cil
 cim
 cim_computersystem
 cimfs
@@ -1106,6 +1101,7 @@ cinema
 cinst
 cipher
 circuit-breaker
+circumlunar
 cireson
 ciresonassetmanagement
 ciresonportal
@@ -1200,7 +1196,6 @@ cloudservice
 cloudshell
 clueser
 cluster
-clusterminimumvalues
 clusterplugins
 cmaccounts
 cmake
@@ -1234,7 +1229,6 @@ code365
 codeanalysis
 codebuild
 codecommit
-codecomplexity
 codecov
 codecoverage
 codegen
@@ -1334,7 +1328,6 @@ conda
 condition
 conditionalaccess
 conduit
-conference
 confidentialclient
 confidentialledger
 config
@@ -1423,7 +1416,6 @@ converter
 convertfrom
 convertfrom-yaml
 convertto
-convertto-excel
 convertto-hashtable
 convertto-yaml
 converttodocx
@@ -1450,12 +1442,10 @@ coreepower.net.soundcloudexplode
 coreposh
 coreutils
 corona
-cortex
 cos
 cosmos
 cosmosdb
 cost
-costmanagement
 costoptimization
 couchbase
 couchdb
@@ -1568,7 +1558,6 @@ currency-convereter
 currency-exchange
 currencyconverterapi
 current
-curseforge
 custom
 customchecks
 customdns
@@ -1625,7 +1614,6 @@ daily
 dane
 dangling
 dapr
-dare
 dark
 dash
 dashboard
@@ -1943,7 +1931,6 @@ dnsresolver
 dnssec
 dnsserver
 dnssuffix
-dnvm
 doc
 docfx
 dock
@@ -1975,7 +1962,6 @@ dok
 dokuwiki
 domain
 domainkey
-domainname
 domains
 domino
 donothing
@@ -2246,7 +2232,6 @@ escapesequences
 escaping
 ese
 esent
-esoteric
 esp
 esp-idf
 esp32
@@ -2364,7 +2349,6 @@ export-passlist
 exportcertificate
 exportcertificates
 exporter
-exportexcel
 exportteams
 expression
 extend
@@ -2435,6 +2419,7 @@ fiche
 fiddler
 fido
 fido2
+fieldglass
 fifa
 figlet
 file
@@ -2514,7 +2499,6 @@ findplace
 findproxyforurl
 fine-print
 fine-tuning
-finops
 firebird
 firefox
 firewall
@@ -2591,7 +2575,6 @@ fortinetmanager
 fortios
 fortune
 forum
-forwardcompatibility
 forwardedevents
 foudil
 fox
@@ -2608,9 +2591,6 @@ freesoftwarefoundation
 freshbooks
 freshdesk
 freshservice
-freshservice-api
-freshserviceps
-freshworks
 friendly
 fritz
 fritzbox
@@ -2625,6 +2605,7 @@ fslogix
 fsrm
 ftp
 ftps
+fu-msauth
 fudge
 fudgepop
 fujitsu
@@ -2676,13 +2657,16 @@ gcs
 gdpr
 gedit
 gem
+gemini
+geminiprotocol
+gemlog
+gemtext
 general
 generate
 generate-dockerimagevariants
 generate-password
 generate-random-password
 generateaddress
-generates
 generatewif
 generation
 generator
@@ -2705,7 +2689,6 @@ get_random_password
 get-admodernreport
 get-childitem
 get-cmhealthcheck
-get-command
 get-credential
 get-criticaltrippoint
 get-currentcputemperature
@@ -2719,7 +2702,6 @@ get-dtscriptnewcmtasksequencefromdriverpackpackagedefinitionsms
 get-emptyadgroups
 get-externalip
 get-firmwaretype
-get-help
 get-history
 get-iislog
 get-openfile
@@ -2739,7 +2721,6 @@ get-uptime
 getfirmwareenvironmentvariable
 getfirmwaretype
 ggplot
-gh
 gh-actions
 ghactions
 ghc
@@ -2887,6 +2868,7 @@ gzip-compression
 ha
 haarlemsdagblad
 hack
+hacking
 hacktoberfest
 hadoop
 hafr
@@ -2927,8 +2909,6 @@ hashset
 hashtable
 hasicorp
 haskell
-haste
-hastebin
 haveibeenpwned
 hba
 hbase
@@ -2938,7 +2918,6 @@ hcm
 hcx
 hdfs
 hdinsight
-hdinsightonaks
 header
 headhunter
 health
@@ -3048,7 +3027,6 @@ hpccache
 hpe
 hpealletra6000andnimblestoragepowershelltoolkit
 hpebioscmdlets
-hpeilocmdlets
 hpemigrationadvisorycmdlets
 hpemigrationadvisorytool
 hpenimblepowershelltoolkit
@@ -3118,12 +3096,10 @@ ibmhttpserver
 icacl
 icinga
 icinga2
-icinga2mssql
 icinga2plugins
 icingachecks
 icingaforwindows
 icingainventory
-icingamssql
 icingaplugins
 icingapowershell
 icingapowershellframework
@@ -3160,15 +3136,12 @@ ihs
 iiittttt
 iis
 iis10
-iis8
 iisadministration
 iiscrypto
 ikev2
-il
 illinois
 ilo
 ilo5
-ilocmdlets
 im
 image
 image-converter
@@ -3180,7 +3153,6 @@ imagebuilder
 imagecreate
 imagecreation
 imagegeneration
-imageoftheday
 imageprocess
 imageprocessing
 images
@@ -3219,7 +3191,6 @@ indexdb
 indicator
 inedo
 inetfwrule
-inetum
 infinity
 influx
 influxdb
@@ -3335,6 +3306,7 @@ ios
 iot
 iotcentral
 iothub
+iothubproperties
 ip
 ip-address
 ip-scanner
@@ -3416,7 +3388,6 @@ javamanager
 javascript
 javaversion
 jboss
-jdbc
 jde
 jdedwards
 jdt
@@ -3440,7 +3411,6 @@ join
 join-object
 jojoba
 joke
-jotform
 journal
 joyride
 jpg
@@ -3481,6 +3451,7 @@ karabiner
 karabiner-elements
 karma
 kaseya
+kaseyavsa
 kaspersky
 katakana
 kb
@@ -3519,20 +3490,18 @@ kidrsa
 kill
 kindle
 kinetic
-kintone
 klantcontroles
 kms
 knapsack
 knetps
 knob
+knowbe4
 knowledge
 knowledgebase
 koans
 korn
 kotlin
 kql
-kraken
-krbtgt
 krick
 kschemaplugin
 kubclt
@@ -3725,7 +3694,6 @@ log-management
 log-rotation
 log4net
 loganalytics
-logbook
 logcat
 logentry
 logfile
@@ -3763,8 +3731,10 @@ logonto
 logonuser
 logparser
 logrotate
+logrotation
 logs
 logstash
+logtools
 logz
 loki
 lol
@@ -3834,7 +3804,6 @@ maker
 malware
 mamagedidentity
 maml
-man-highlighting
 manage
 manage-wmi
 manageability
@@ -3854,9 +3823,7 @@ managementdashboard
 managementgroups
 managementpoint
 manager
-mangement
 manifest
-manual
 map
 mapapi
 mapi
@@ -3909,6 +3876,7 @@ mb
 mbc
 mbs
 mc
+mcafee
 mcas
 mcd
 mchapv2
@@ -3919,7 +3887,6 @@ mdatp
 mdb
 mdbc
 mde
-mdep
 mdm
 mdop
 mdt
@@ -3950,7 +3917,6 @@ members
 membership
 memcm
 memory
-memorydump
 memorystream
 mention
 menu
@@ -3969,7 +3935,6 @@ messenger
 met
 metadata
 metadataservice
-metaprogramming
 method
 methodinfo
 methods
@@ -4005,7 +3970,6 @@ microsoft365
 microsoft365dsc
 microsoftauthenticationlibrary
 microsoftazure
-microsoftcloud
 microsoftdefender
 microsoftdefenderatp
 microsoftdeploymenttoolkit
@@ -4019,6 +3983,7 @@ microsofthealth
 microsoftintune
 microsoftmvp
 microsoftoffice
+microsoftonline
 microsoftstaffhub
 microsoftstore
 microsoftteams
@@ -4145,7 +4110,6 @@ msgraphtokenlifetimepolicy
 msi
 msi psmodule
 msiexec
-msil
 msix
 mslab
 msmq
@@ -4163,7 +4127,6 @@ mssql
 mssqlbynarymodule
 mssqlbynarypsmodule
 mssqlmodule
-mssqlplugins
 mssqlserver
 msteams
 mstest
@@ -4199,7 +4162,6 @@ mutation
 mute
 mutex
 mva
-mvn
 mvp
 mx
 mxlookup
@@ -4234,7 +4196,6 @@ nanoleaf
 nartac
 nasdaq
 native
-natpool
 natural-language-to-code
 natural-selection
 nav
@@ -4597,8 +4558,6 @@ osbuildersus
 osd
 osdbuilder
 osdcloud
-osddriver
-osddrivers
 osdeploy
 osdeployment
 osdprogress
@@ -4725,12 +4684,10 @@ passwordstate
 passwordtool
 passwordvault
 passwordwolf
-paste
 patch
 patches
 patching
 path
-pathfinder
 patternmatching
 pause
 pax8
@@ -4944,7 +4901,6 @@ poshy-wrap-docker-compose
 poshy-wrap-dotnet
 poshy-wrap-forgit
 poshy-wrap-gem
-poshy-wrap-gh
 poshy-wrap-git
 poshy-wrap-git-flow
 poshy-wrap-git-hf
@@ -5000,7 +4956,6 @@ powercommander
 powerdex
 powerforensics
 powergraph
-powergui
 powermax
 powerplan
 powerplateform
@@ -5083,7 +5038,6 @@ prepareschema
 prepend
 preprocessing
 preprocessor
-presentation
 presenter
 presto
 preston-k-parsard
@@ -6023,12 +5977,6 @@ pscommand_invoke-gitflowreleasepublish
 pscommand_invoke-gitflowreleasepublishcurrent
 pscommand_invoke-gitflowreleasestart
 pscommand_invoke-gitgui
-pscommand_invoke-githubapi
-pscommand_invoke-githubapi-bodyempty
-pscommand_invoke-githubapi-bodyfields
-pscommand_invoke-githubapi-bodyfile
-pscommand_invoke-githubapi-bodyjson
-pscommand_invoke-githubapi-bodyraw
 pscommand_invoke-githubflow
 pscommand_invoke-githubflowfeature
 pscommand_invoke-githubflowhotfix
@@ -7440,12 +7388,6 @@ psfunction_invoke-gitflowreleasepublish
 psfunction_invoke-gitflowreleasepublishcurrent
 psfunction_invoke-gitflowreleasestart
 psfunction_invoke-gitgui
-psfunction_invoke-githubapi
-psfunction_invoke-githubapi-bodyempty
-psfunction_invoke-githubapi-bodyfields
-psfunction_invoke-githubapi-bodyfile
-psfunction_invoke-githubapi-bodyjson
-psfunction_invoke-githubapi-bodyraw
 psfunction_invoke-githubflow
 psfunction_invoke-githubflowfeature
 psfunction_invoke-githubflowhotfix
@@ -8115,7 +8057,6 @@ pskeepass
 pslocalgallery
 psloganalytics
 psm
-psm1
 psmodule
 psmodule psedition_desktop
 psmodulepath
@@ -8258,13 +8199,13 @@ qol
 qq
 qr
 qrcode
-qrcodes
 qrp
 qrs
 quality
 qualys
 quandl
 quantum
+quarantine
 queries
 query
 queue
@@ -8414,8 +8355,6 @@ regions
 regiser-argumentcompleter
 register
 register-argumentcompleter
-registered
-registrar
 registration
 registry
 regression
@@ -8488,8 +8427,6 @@ repos
 repositories
 repository
 request
-requestfiltering
-requiredmodules
 requirements
 res
 rescan
@@ -8497,11 +8434,9 @@ rescuetime
 reservation
 reservations
 reset
-resharper
 resize
 resolution
 resolve
-resolve-stache
 resolve-template
 resolver
 resource
@@ -8556,7 +8491,6 @@ rg
 rgb
 rhapsody
 ribbon
-ribcl
 rightjoin
 rights
 rightsizing
@@ -8585,7 +8519,6 @@ roco
 rocolatey
 role
 rolecapability
-roles
 rollingfile
 romaji
 ropc
@@ -8687,6 +8620,7 @@ sapstartstopazure
 sarcasm
 sarif
 sas
+sat
 satirical
 save
 savedcreds
@@ -8779,7 +8713,6 @@ scrubber
 scsm
 scuba
 sd
-sddl
 sdk
 sdn
 sdp
@@ -8819,6 +8752,7 @@ securescore
 securesphere
 securestring
 security
+security-awareness-training
 security-policy
 security-score
 security-txt
@@ -8881,7 +8815,6 @@ seppmail
 seppmail.cloud
 seq
 sequence
-serial
 serialization
 serialize
 sericemanagement
@@ -9184,7 +9117,6 @@ spdx-license-identifier:ms-pl
 spe
 speach
 speak
-speaker
 spec
 specification
 specify
@@ -9278,7 +9210,6 @@ sshmanagement
 sshservers
 ssis
 ssl
-sslcert
 sslcertificate
 sslflags
 ssllabs
@@ -9291,7 +9222,6 @@ sspr
 ssrs
 ssst
 sstp
-stache
 stackedge
 stackexchange
 stackhci
@@ -9375,7 +9305,6 @@ stretch
 strictmode
 strikethrough-text
 string
-string-template
 stringmanager
 stringmanagertool
 strings
@@ -9503,7 +9432,6 @@ systeminformation
 systemlocale
 systems
 systemsplash
-systray
 t
 t-sql
 tab
@@ -9723,7 +9651,6 @@ toolkit
 tools
 tools4ever
 topdesk
-topgrade
 topics
 topology
 tor
@@ -9746,7 +9673,6 @@ tracert
 tracing
 tracker
 tracking
-trading
 traffic
 trafficfiltering
 trafficmanager
@@ -9793,7 +9719,6 @@ trick
 tricks
 trigger
 triodos
-tripunkt
 troubleshoot
 troubleshooting
 trouw
@@ -10095,7 +10020,6 @@ veeam
 veeampn
 veeva
 venafi
-vencord
 vendor
 venue
 venvlink
@@ -10217,6 +10141,7 @@ vrsns
 vrtu
 vs
 vs-shell
+vsa
 vsan
 vsan+
 vscode
@@ -10245,7 +10170,6 @@ vxrail
 w32time
 w365
 w3svc
-w3w
 waa
 waas
 wac
@@ -10285,7 +10209,6 @@ weather
 weaviate
 weaviatenet
 web
-web-search
 web.config
 webadministration
 webapi
@@ -10334,7 +10257,6 @@ wem
 wemsdk
 wer
 wget
-what3words
 whatismyip
 whatsnew
 whatsupgold
@@ -10382,7 +10304,8 @@ windows-environment
 windows-explorer
 windows-features
 windows-firewall
-windows-powershell
+windows-registry
+windows-remoting
 windows-server-2016
 windows-terminal
 windows-user-folder
@@ -10422,7 +10345,6 @@ windowssandbox
 windowssearchmanager
 windowsserver
 windowsserver2008
-windowsserver2012
 windowsserver2016
 windowsserver2019
 windowsservercoresecurity
@@ -10565,12 +10487,10 @@ x509certificates
 x509chain
 x64
 x86
-xa
 xaf
 xbase
 xbox
 xclarity
-xdr
 xdschelper
 xdscresources
 xdt
@@ -10594,6 +10514,7 @@ xmla
 xmlrpc
 xmlutils
 xoauth2
+xor
 xpath
 xpendingreboot
 xpertdoc
