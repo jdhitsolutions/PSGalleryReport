@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Thursday, 07 December 2023 09:52:41 UTC
+Updated: Thursday, 07 December 2023 17:52:26 UTC
 
 .bat
 .env
@@ -290,6 +290,7 @@ alteryx
 alwaysontop
 alwaysonvpn
 alz
+amateur
 amateur-data-interchange-format
 amateur-radio
 amateurradio
@@ -326,6 +327,7 @@ animate-svg
 animation
 animations
 annotated
+announcement
 announcementsservice
 anonymous
 anova
@@ -407,6 +409,9 @@ appvolumes
 appx
 appxmanifest
 aprs
+aprs-is
+aprsis
+aprsthursday
 aps
 apt
 apt-get
@@ -549,6 +554,7 @@ autologon
 automai
 automanage
 automate
+automated
 automatedlab
 automatenow
 automaticpacketreportingsystem
@@ -687,6 +693,8 @@ azuresecuritycenter
 azureservicebus
 azuresigntool
 azuresql
+azuresqlexport
+azuresqlimport
 azuressas
 azurestack
 azurestackhci
@@ -907,6 +915,7 @@ buildmaster
 builds
 buildtool
 bulk
+bulletin
 bullhorn
 bundle
 bup
@@ -957,8 +966,6 @@ capslock
 captcha
 capture
 carbon
-carbonawarecomputing
-carbonintensity
 card
 cardwirth
 cargo
@@ -1287,6 +1294,7 @@ commence
 comment
 comments
 commerce
+commfort
 commit
 commits
 common
@@ -1332,7 +1340,6 @@ conda
 condition
 conditionalaccess
 conduit
-conference
 confidentialclient
 confidentialledger
 config
@@ -1348,6 +1355,7 @@ configurationdata
 configurationkey
 configurationmanagement
 configurationmanager
+configurationprofile
 configure
 confluence
 confluent
@@ -1508,7 +1516,6 @@ credentials
 credentials-cache
 credentialsmanager
 credentialstore
-credentialutility
 credman
 credmanager
 crescendo
@@ -1557,7 +1564,6 @@ culture
 cumulative
 cumulativeupdate
 cumulocity
-curious
 curl
 curlie
 currency
@@ -1639,6 +1645,7 @@ data-uri
 data-uri-converter
 database
 database-migrations
+databaseautomation
 databasemanagement
 databasemigration
 databases
@@ -1659,7 +1666,6 @@ dataexplorer
 datafactory
 dataflow
 dataflowdependency
-dataframe
 datagateway
 dataintegration
 datakwaliteit
@@ -1749,6 +1755,7 @@ defence
 defender
 defender-atp
 defender-for-endpoint
+defenderast
 defenderforendpoint
 defense
 deflate
@@ -2093,7 +2100,6 @@ dynamicsax
 dynamicsecuritygroups
 dynamicsnav
 dynamodb
-dynatrace
 dynatraceobservability
 dz
 e-mail
@@ -2158,6 +2164,7 @@ emailnotificationcomponent
 emailsecurity
 embedded
 emc
+emcomm
 emergency
 emissions
 emoji
@@ -2217,7 +2224,6 @@ eol
 eop
 eperl
 ephesoft
-epicor
 episode
 epplus
 eprosima
@@ -2824,6 +2830,7 @@ gpo-tools
 gpodoc
 gpolinks
 gpp
+gps
 gpt
 gpt3
 gpx
@@ -2897,6 +2904,8 @@ haloitsm
 halopsa
 haloservicedesk
 haloservicesolutions
+ham
+hamradio
 hamradiodeluxe
 hana
 hanaon
@@ -3518,7 +3527,6 @@ kickstart
 kidrsa
 kill
 kindle
-kinetic
 kintone
 klantcontroles
 kms
@@ -4023,6 +4031,7 @@ microsofthealth
 microsoftintune
 microsoftmvp
 microsoftoffice
+microsoftonline
 microsoftstaffhub
 microsoftstore
 microsoftteams
@@ -4869,7 +4878,6 @@ poetry
 point
 point-to-site
 pointer
-pokeapi
 pokedex
 pokemon
 poker
@@ -4974,9 +4982,11 @@ poshy-wrap-tmux
 poshy-wrap-vagrant
 poshy-wrap-vault
 poshy-wrap-vscode
+poshy-wrap-wget
 poshy-wrap-wt
 poshy-wrap-yum
 poshy-wrap-zypper
+position
 post
 postgre
 postgres
@@ -5000,7 +5010,6 @@ powerbot
 powercli
 powercligoodies
 powercommander
-powerdex
 powerforensics
 powergraph
 powergui
@@ -5039,6 +5048,7 @@ powershell.one
 powershell.persistentpathstack
 powershell7
 powershellai
+powershellazuresql
 powershellconferenceeurope
 powershellcore
 powershellcourse
@@ -5085,7 +5095,6 @@ prepareschema
 prepend
 preprocessing
 preprocessor
-presentation
 presenter
 presto
 preston-k-parsard
@@ -6627,6 +6636,7 @@ pscommand_measure-envvarchanges
 pscommand_merge-gitrepositoryfromoriginbranchmain
 pscommand_merge-gitrepositoryfromupstreambranchmain
 pscommand_mi
+pscommand_mirrorsite
 pscommand_move-gittrackedfiles
 pscommand_mp
 pscommand_mpom
@@ -7018,6 +7028,7 @@ pscredential
 pscribo
 pscustomobject
 psd1
+psdb
 psdefaultparametervalues
 psdeploy
 psdesiredstateconfiguration
@@ -7903,6 +7914,7 @@ psfunction_local-ignore
 psfunction_measure-envvarchanges
 psfunction_merge-gitrepositoryfromoriginbranchmain
 psfunction_merge-gitrepositoryfromupstreambranchmain
+psfunction_mirrorsite
 psfunction_move-gittrackedfiles
 psfunction_new-gitbranchfromstash
 psfunction_new-gitbranchtracked
@@ -8208,7 +8220,6 @@ puppetdb
 puppy
 pure
 pure1
-pureservice
 purestorage
 purple
 purview
@@ -9188,7 +9199,6 @@ spdx-license-identifier:ms-pl
 spe
 speach
 speak
-speaker
 spec
 specification
 specify
@@ -9234,6 +9244,7 @@ sql-database
 sql-script
 sql-server
 sqlagent
+sqlautomation
 sqlbits
 sqlbrowser
 sqlchangeautomation
@@ -9244,6 +9255,7 @@ sqldatabase
 sqldb
 sqldbatools
 sqldiagapi
+sqlexport
 sqlgateway
 sqlite
 sqlitebynarymodule
@@ -9351,6 +9363,8 @@ stingar
 stock
 stockcharts
 stocks
+stoicism
+stoics
 stop
 storablecolortheme
 storage
@@ -9649,6 +9663,7 @@ tflint
 tfs
 tfscmdlets
 tfsec
+tftd
 tftp
 tfvars
 tfvc
@@ -9661,6 +9676,7 @@ thinprint
 third-party-libraries
 third-party-notice
 thispc
+thoughtfortheday
 thousandeyes
 thread
 threading
@@ -9814,7 +9830,6 @@ tsqlbestpractice
 tst
 tst1
 tst3
-tsv
 ttrpg
 tts
 tubedownloader
@@ -9978,7 +9993,6 @@ updatemgmt
 updater
 updates
 updateservices
-updmanagement
 updmgmt
 upgrade
 uplift
@@ -10200,7 +10214,6 @@ vpas
 vpasmodule
 vpc
 vpg
-vplex
 vpn
 vpn-certificate
 vpro
@@ -10284,7 +10297,6 @@ weather
 weaviate
 weaviatenet
 web
-web-search
 web.config
 webadministration
 webapi
@@ -10332,6 +10344,7 @@ well-known
 wem
 wemsdk
 wer
+wget
 what3words
 whatismyip
 whatsnew
@@ -10377,6 +10390,7 @@ windows-control-panel
 windows-defender
 windows-defender-application-control
 windows-environment
+windows-explorer
 windows-features
 windows-firewall
 windows-powershell
@@ -10456,6 +10470,7 @@ wiscmail
 wisco365
 wisconsin-madison
 wisconsin'uw-madison
+wisdom
 with
 wizard
 wkhtmltopdf
