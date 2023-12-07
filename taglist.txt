@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Thursday, 07 December 2023 02:06:46 UTC
+Updated: Thursday, 07 December 2023 09:52:41 UTC
 
 .bat
 .env
@@ -75,6 +75,7 @@ about
 abr
 abstractsyntaxtree
 abuse
+abuseipdb
 acas
 accelerator
 access
@@ -168,6 +169,7 @@ adfs
 adfsconfiguration
 adfsdiagnostics
 adfsendpoint
+adfstoolkit
 adfstools
 adgroupmemberobjects
 adgroupmembers
@@ -196,6 +198,7 @@ adobeflash
 adobject
 adouobject
 adoxio
+adp
 adr
 ads
 adsi
@@ -227,6 +230,7 @@ after-effects
 aftereffects
 agenda
 agent
+aggregates
 aggregation
 agile
 agility
@@ -286,7 +290,6 @@ alteryx
 alwaysontop
 alwaysonvpn
 alz
-amateur
 amateur-data-interchange-format
 amateur-radio
 amateurradio
@@ -323,7 +326,6 @@ animate-svg
 animation
 animations
 annotated
-announcement
 announcementsservice
 anonymous
 anova
@@ -405,9 +407,6 @@ appvolumes
 appx
 appxmanifest
 aprs
-aprs-is
-aprsis
-aprsthursday
 aps
 apt
 apt-get
@@ -550,8 +549,8 @@ autologon
 automai
 automanage
 automate
-automated
 automatedlab
+automatenow
 automaticpacketreportingsystem
 automation
 automation psmodule
@@ -688,8 +687,6 @@ azuresecuritycenter
 azureservicebus
 azuresigntool
 azuresql
-azuresqlexport
-azuresqlimport
 azuressas
 azurestack
 azurestackhci
@@ -910,7 +907,6 @@ buildmaster
 builds
 buildtool
 bulk
-bulletin
 bullhorn
 bundle
 bup
@@ -949,6 +945,7 @@ cam
 camera
 campaign
 camtasia
+canarie
 cancel
 cancellation
 canonical
@@ -1034,6 +1031,7 @@ certificateservices
 certificatesmanagement
 certinia
 certutil
+cf
 cfn
 ch9
 change
@@ -1270,6 +1268,7 @@ colour
 column
 columns
 com
+combinations
 combine
 comdata
 comic
@@ -1288,7 +1287,6 @@ commence
 comment
 comments
 commerce
-commfort
 commit
 commits
 common
@@ -1350,7 +1348,6 @@ configurationdata
 configurationkey
 configurationmanagement
 configurationmanager
-configurationprofile
 configure
 confluence
 confluent
@@ -1642,7 +1639,6 @@ data-uri
 data-uri-converter
 database
 database-migrations
-databaseautomation
 databasemanagement
 databasemigration
 databases
@@ -2014,6 +2010,7 @@ drift
 driftmonitor
 drive
 drive letter
+drivemap
 driver
 driverpacks
 drivers
@@ -2161,7 +2158,6 @@ emailnotificationcomponent
 emailsecurity
 embedded
 emc
-emcomm
 emergency
 emissions
 emoji
@@ -2251,6 +2247,7 @@ esp32
 esp32s2
 espressif
 esri
+essbase
 estimate
 estimation
 esx
@@ -2349,6 +2346,7 @@ experience
 experiments
 expired
 expiring
+expiry
 exploit
 exploration
 explorer
@@ -2357,6 +2355,7 @@ export
 export-cmhealthreport
 export-data
 export-passlist
+exportcertificate
 exportcertificates
 exporter
 exportexcel
@@ -2490,6 +2489,7 @@ filter
 filter-item
 filtering
 fim
+fims
 finance
 finance&operations
 financeandoperations
@@ -2824,7 +2824,6 @@ gpo-tools
 gpodoc
 gpolinks
 gpp
-gps
 gpt
 gpt3
 gpx
@@ -2887,6 +2886,7 @@ gzip-compression
 ha
 haarlemsdagblad
 hack
+hacking
 hacktoberfest
 hadoop
 hafr
@@ -2897,8 +2897,6 @@ haloitsm
 halopsa
 haloservicedesk
 haloservicesolutions
-ham
-hamradio
 hamradiodeluxe
 hana
 hanaon
@@ -3039,6 +3037,7 @@ hosts-file
 hostsfile
 hot-water
 hotkey
+hotkeys
 howto
 hp
 hpc
@@ -3192,6 +3191,7 @@ imagination
 imaging
 imap
 imb
+imei
 imi
 impala
 impersonation
@@ -3480,6 +3480,7 @@ karabiner
 karabiner-elements
 karma
 kaseya
+kaseyavsa
 kaspersky
 katakana
 kb
@@ -3579,6 +3580,8 @@ laps
 laragon
 laserbeams
 last
+last.fm
+lastfm
 lastlogon
 lastpass
 latency
@@ -4020,7 +4023,6 @@ microsofthealth
 microsoftintune
 microsoftmvp
 microsoftoffice
-microsoftonline
 microsoftstaffhub
 microsoftstore
 microsoftteams
@@ -4096,6 +4098,7 @@ monitoring_objects
 monitoring_variables
 monitoringplugins
 monitoringsolutions
+monitors
 monthlyupdate
 moodle
 moonshot
@@ -4113,6 +4116,7 @@ mp3
 mp4
 mpc
 mpeg
+mpn
 mrfk
 mrfylke
 mrvl_fc_powerkit
@@ -4760,6 +4764,7 @@ peheader
 pem
 pemfile
 pendingreboot
+penetration
 penetrationtesting
 pentesting
 pentia
@@ -4770,6 +4775,7 @@ performancemonitoring
 perl
 permission
 permissions
+permutations
 persistence
 persistent
 personal
@@ -4968,11 +4974,9 @@ poshy-wrap-tmux
 poshy-wrap-vagrant
 poshy-wrap-vault
 poshy-wrap-vscode
-poshy-wrap-wget
 poshy-wrap-wt
 poshy-wrap-yum
 poshy-wrap-zypper
-position
 post
 postgre
 postgres
@@ -5035,7 +5039,6 @@ powershell.one
 powershell.persistentpathstack
 powershell7
 powershellai
-powershellazuresql
 powershellconferenceeurope
 powershellcore
 powershellcourse
@@ -6624,7 +6627,6 @@ pscommand_measure-envvarchanges
 pscommand_merge-gitrepositoryfromoriginbranchmain
 pscommand_merge-gitrepositoryfromupstreambranchmain
 pscommand_mi
-pscommand_mirrorsite
 pscommand_move-gittrackedfiles
 pscommand_mp
 pscommand_mpom
@@ -7016,7 +7018,6 @@ pscredential
 pscribo
 pscustomobject
 psd1
-psdb
 psdefaultparametervalues
 psdeploy
 psdesiredstateconfiguration
@@ -7902,7 +7903,6 @@ psfunction_local-ignore
 psfunction_measure-envvarchanges
 psfunction_merge-gitrepositoryfromoriginbranchmain
 psfunction_merge-gitrepositoryfromupstreambranchmain
-psfunction_mirrorsite
 psfunction_move-gittrackedfiles
 psfunction_new-gitbranchfromstash
 psfunction_new-gitbranchtracked
@@ -8392,6 +8392,9 @@ redteaming
 redundancy
 refactor
 refactoring
+refeds
+refeds-mfa
+refedsmfa
 reference
 reflect
 reflection
@@ -8418,6 +8421,7 @@ registrar
 registration
 registry
 regression
+regular-expression
 regularexpression
 regularexpressions
 reinstall
@@ -8438,6 +8442,7 @@ remote
 remote-desktop
 remote'
 remoteadmin
+remotecert
 remoteconnection
 remoteconnectionsmanager
 remotecontrol
@@ -8669,6 +8674,7 @@ saltstackenterprise
 sam
 saml
 saml psmodule
+saml2
 sample
 sampler
 san
@@ -8938,6 +8944,7 @@ set-psenv
 set-randompass
 set-type
 setbios
+sets
 setting
 settings
 setup
@@ -9227,7 +9234,6 @@ sql-database
 sql-script
 sql-server
 sqlagent
-sqlautomation
 sqlbits
 sqlbrowser
 sqlchangeautomation
@@ -9238,7 +9244,6 @@ sqldatabase
 sqldb
 sqldbatools
 sqldiagapi
-sqlexport
 sqlgateway
 sqlite
 sqlitebynarymodule
@@ -9346,8 +9351,6 @@ stingar
 stock
 stockcharts
 stocks
-stoicism
-stoics
 stop
 storablecolortheme
 storage
@@ -9438,6 +9441,7 @@ svg
 svn
 svt
 swagger
+swamid
 swarm
 swedish
 swimlane
@@ -9597,6 +9601,7 @@ terminal-interface
 terminal-services
 terminal.gui
 terminalnotifier
+terminalvelocity
 termset
 terraform
 terraformcloud
@@ -9644,7 +9649,6 @@ tflint
 tfs
 tfscmdlets
 tfsec
-tftd
 tftp
 tfvars
 tfvc
@@ -9657,7 +9661,6 @@ thinprint
 third-party-libraries
 third-party-notice
 thispc
-thoughtfortheday
 thousandeyes
 thread
 threading
@@ -10097,6 +10100,7 @@ venvlink
 vera
 veracrypt
 verbose psmodule
+verification
 verify
 version
 versioning
@@ -10211,6 +10215,7 @@ vrsns
 vrtu
 vs
 vs-shell
+vsa
 vsan
 vsan+
 vscode
@@ -10327,7 +10332,6 @@ well-known
 wem
 wemsdk
 wer
-wget
 what3words
 whatismyip
 whatsnew
@@ -10373,7 +10377,6 @@ windows-control-panel
 windows-defender
 windows-defender-application-control
 windows-environment
-windows-explorer
 windows-features
 windows-firewall
 windows-powershell
@@ -10453,7 +10456,6 @@ wiscmail
 wisco365
 wisconsin-madison
 wisconsin'uw-madison
-wisdom
 with
 wizard
 wkhtmltopdf
