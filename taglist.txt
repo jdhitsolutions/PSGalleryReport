@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Wednesday, 06 December 2023 17:52:34 UTC
+Updated: Thursday, 07 December 2023 02:06:46 UTC
 
 .bat
 .env
@@ -75,7 +75,6 @@ about
 abr
 abstractsyntaxtree
 abuse
-abuseipdb
 acas
 accelerator
 access
@@ -169,7 +168,6 @@ adfs
 adfsconfiguration
 adfsdiagnostics
 adfsendpoint
-adfstoolkit
 adfstools
 adgroupmemberobjects
 adgroupmembers
@@ -198,7 +196,6 @@ adobeflash
 adobject
 adouobject
 adoxio
-adp
 adr
 ads
 adsi
@@ -230,7 +227,6 @@ after-effects
 aftereffects
 agenda
 agent
-aggregates
 aggregation
 agile
 agility
@@ -459,6 +455,7 @@ aruba
 as
 asa
 asa.unittest
+asana
 asbuiltreport
 asc
 ascii
@@ -555,7 +552,6 @@ automanage
 automate
 automated
 automatedlab
-automatenow
 automaticpacketreportingsystem
 automation
 automation psmodule
@@ -953,7 +949,6 @@ cam
 camera
 campaign
 camtasia
-canarie
 cancel
 cancellation
 canonical
@@ -1027,6 +1022,7 @@ centurylinkcloud
 cer
 cert
 certbasedauth
+certera
 certes
 certificate
 certificateauthority
@@ -1038,7 +1034,6 @@ certificateservices
 certificatesmanagement
 certinia
 certutil
-cf
 cfn
 ch9
 change
@@ -1073,6 +1068,7 @@ chefconf2016
 chenxizhang
 cherrypy
 cherwell
+chfs
 chi
 china
 chmod
@@ -1274,7 +1270,6 @@ colour
 column
 columns
 com
-combinations
 combine
 comdata
 comic
@@ -1593,6 +1588,7 @@ customization
 customlocation
 customlogs
 customproviders
+cutehttpfileserver
 cvad
 cve-2021-34527
 cvrf
@@ -1757,7 +1753,6 @@ defence
 defender
 defender-atp
 defender-for-endpoint
-defenderast
 defenderforendpoint
 defense
 deflate
@@ -2019,7 +2014,6 @@ drift
 driftmonitor
 drive
 drive letter
-drivemap
 driver
 driverpacks
 drivers
@@ -2257,7 +2251,6 @@ esp32
 esp32s2
 espressif
 esri
-essbase
 estimate
 estimation
 esx
@@ -2356,7 +2349,6 @@ experience
 experiments
 expired
 expiring
-expiry
 exploit
 exploration
 explorer
@@ -2365,7 +2357,6 @@ export
 export-cmhealthreport
 export-data
 export-passlist
-exportcertificate
 exportcertificates
 exporter
 exportexcel
@@ -2499,7 +2490,6 @@ filter
 filter-item
 filtering
 fim
-fims
 finance
 finance&operations
 financeandoperations
@@ -2897,7 +2887,6 @@ gzip-compression
 ha
 haarlemsdagblad
 hack
-hacking
 hacktoberfest
 hadoop
 hafr
@@ -3050,7 +3039,6 @@ hosts-file
 hostsfile
 hot-water
 hotkey
-hotkeys
 howto
 hp
 hpc
@@ -3156,6 +3144,7 @@ identity-management
 identitydataplane
 identitydirector
 identitydomains
+identitynow
 idf
 idm
 idna
@@ -3170,6 +3159,7 @@ ihs
 iiittttt
 iis
 iis10
+iis8
 iisadministration
 iiscrypto
 ikev2
@@ -3202,7 +3192,6 @@ imagination
 imaging
 imap
 imb
-imei
 imi
 impala
 impersonation
@@ -3491,7 +3480,6 @@ karabiner
 karabiner-elements
 karma
 kaseya
-kaseyavsa
 kaspersky
 katakana
 kb
@@ -3816,6 +3804,7 @@ machine
 machinelearning
 machinelearningcompute
 machinelearningservices
+macmon
 macos
 macosx
 macro
@@ -4124,7 +4113,6 @@ mp3
 mp4
 mpc
 mpeg
-mpn
 mrfk
 mrfylke
 mrvl_fc_powerkit
@@ -4231,6 +4219,7 @@ mytest
 n-able
 n-central
 nabu
+nac
 nagios
 name
 name-of-dogs
@@ -4586,6 +4575,7 @@ optimization
 optimizer
 option
 option119
+options
 optionstring
 opus
 oracle
@@ -4770,7 +4760,6 @@ peheader
 pem
 pemfile
 pendingreboot
-penetration
 penetrationtesting
 pentesting
 pentia
@@ -4781,7 +4770,6 @@ performancemonitoring
 perl
 permission
 permissions
-permutations
 persistence
 persistent
 personal
@@ -4875,6 +4863,7 @@ poetry
 point
 point-to-site
 pointer
+pokeapi
 pokedex
 pokemon
 poker
@@ -5007,6 +4996,7 @@ powerbot
 powercli
 powercligoodies
 powercommander
+powerdex
 powerforensics
 powergraph
 powergui
@@ -5309,6 +5299,7 @@ pscommand_cloc
 pscommand_clocr
 pscommand_confirm-gitbisectcommitbad
 pscommand_confirm-gitbisectcommitgood
+pscommand_convertto-nixmode
 pscommand_convertto-rgb
 pscommand_d
 pscommand_d64
@@ -7105,6 +7096,7 @@ psfunction_bgyellow
 psfunction_catimg
 psfunction_confirm-gitbisectcommitbad
 psfunction_confirm-gitbisectcommitgood
+psfunction_convertto-nixmode
 psfunction_convertto-rgb
 psfunction_d
 psfunction_decode64
@@ -8164,6 +8156,7 @@ psrule-rules
 pssa
 psscriptanalyzer
 psscriptanaylzer
+psscriptsmonitoring
 pssendgrid
 pssession
 pssharper
@@ -8399,9 +8392,6 @@ redteaming
 redundancy
 refactor
 refactoring
-refeds
-refeds-mfa
-refedsmfa
 reference
 reflect
 reflection
@@ -8428,7 +8418,6 @@ registrar
 registration
 registry
 regression
-regular-expression
 regularexpression
 regularexpressions
 reinstall
@@ -8449,7 +8438,6 @@ remote
 remote-desktop
 remote'
 remoteadmin
-remotecert
 remoteconnection
 remoteconnectionsmanager
 remotecontrol
@@ -8510,6 +8498,7 @@ resharper
 resize
 resolution
 resolve
+resolve-stache
 resolve-template
 resolver
 resource
@@ -8667,6 +8656,7 @@ safe
 safeguard
 sage
 saggiehaim
+sailpoint
 sale
 sales
 salesforce
@@ -8679,7 +8669,6 @@ saltstackenterprise
 sam
 saml
 saml psmodule
-saml2
 sample
 sampler
 san
@@ -8780,6 +8769,7 @@ scriptlogging
 scriptoform
 scriptrunner
 scripts
+scriptsmonitoring
 scrolllock
 scrub
 scrubber
@@ -8948,7 +8938,6 @@ set-psenv
 set-randompass
 set-type
 setbios
-sets
 setting
 settings
 setup
@@ -9126,6 +9115,7 @@ snmpwalk
 snowflake
 snsmssqlpsmodule
 snspsadgroupmembers
+snspsscriptsmonitoring
 snssqlitepsmodule
 sntp
 soap
@@ -9298,6 +9288,7 @@ sspr
 ssrs
 ssst
 sstp
+stache
 stackedge
 stackexchange
 stackhci
@@ -9381,6 +9372,7 @@ stretch
 strictmode
 strikethrough-text
 string
+string-template
 stringmanager
 stringmanagertool
 strings
@@ -9446,7 +9438,6 @@ svg
 svn
 svt
 swagger
-swamid
 swarm
 swedish
 swimlane
@@ -9606,7 +9597,6 @@ terminal-interface
 terminal-services
 terminal.gui
 terminalnotifier
-terminalvelocity
 termset
 terraform
 terraformcloud
@@ -9783,6 +9773,7 @@ trec
 tree
 tree-structure
 treesize
+treffynnon
 trein
 trello
 trellops
@@ -10106,7 +10097,6 @@ venvlink
 vera
 veracrypt
 verbose psmodule
-verification
 verify
 version
 versioning
@@ -10221,7 +10211,6 @@ vrsns
 vrtu
 vs
 vs-shell
-vsa
 vsan
 vsan+
 vscode
@@ -10429,6 +10418,7 @@ windowssandbox
 windowssearchmanager
 windowsserver
 windowsserver2008
+windowsserver2012
 windowsserver2016
 windowsserver2019
 windowsservercoresecurity
