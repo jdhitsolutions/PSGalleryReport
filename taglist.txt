@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Thursday, 07 December 2023 17:52:26 UTC
+Updated: Friday, 08 December 2023 02:07:05 UTC
 
 .bat
 .env
@@ -909,7 +909,6 @@ builder
 building
 buildingfile
 buildingmapping
-buildkit
 buildkite
 buildmaster
 builds
@@ -966,6 +965,8 @@ capslock
 captcha
 capture
 carbon
+carbonawarecomputing
+carbonintensity
 card
 cardwirth
 cargo
@@ -1355,7 +1356,6 @@ configurationdata
 configurationkey
 configurationmanagement
 configurationmanager
-configurationprofile
 configure
 confluence
 confluent
@@ -1516,6 +1516,7 @@ credentials
 credentials-cache
 credentialsmanager
 credentialstore
+credentialutility
 credman
 credmanager
 crescendo
@@ -1564,6 +1565,7 @@ culture
 cumulative
 cumulativeupdate
 cumulocity
+curious
 curl
 curlie
 currency
@@ -1593,6 +1595,7 @@ customlogs
 customproviders
 cutehttpfileserver
 cvad
+cve
 cve-2021-34527
 cvrf
 cvss
@@ -1623,7 +1626,6 @@ dacfx
 dacl
 dacpac
 dacpackage
-dagger
 daily
 dane
 dangling
@@ -2025,7 +2027,6 @@ drivertool
 drivertool.powercli
 driverupdates
 drm
-drone.io
 drop
 dropbox
 dropdatabase
@@ -2033,8 +2034,6 @@ droplet
 droptable
 drs
 drsrule
-drupal
-drush
 dry
 ds
 ds-client
@@ -2224,6 +2223,7 @@ eol
 eop
 eperl
 ephesoft
+epicor
 episode
 epplus
 eprosima
@@ -2354,13 +2354,13 @@ expired
 expiring
 expiry
 exploit
+exploits
 exploration
 explorer
 exponentiation
 export
 export-cmhealthreport
 export-data
-export-passlist
 exportcertificate
 exportcertificates
 exporter
@@ -2730,9 +2730,7 @@ get-history
 get-iislog
 get-openfile
 get-openfiles
-get-pass
 get-passivetrippoint
-get-passlist
 get-path
 get-pinneditem
 get-samcmassignedsite
@@ -2766,7 +2764,6 @@ git-proxy
 git-stat
 gitcmdline
 gitdesktop
-gitea
 gitflow
 gitforwindows
 github
@@ -3135,7 +3132,6 @@ icingaplugins
 icingapowershell
 icingapowershellframework
 icingawindows
-icloud
 icmp
 icon
 icons
@@ -3209,7 +3205,6 @@ import
 import-csv
 import-dtdriverpackpackagedefinitionsms
 import-modulefrompath
-import-passlist
 import-sampackagedefinitionsms
 importer
 importexport
@@ -3374,7 +3369,6 @@ irkit
 irl
 irregular
 isadmin
-isbn
 iscsi
 isdate
 ise
@@ -3487,7 +3481,6 @@ kafka
 kaminario
 karabiner
 karabiner-elements
-karma
 kaseya
 kaseyavsa
 kaspersky
@@ -3527,6 +3520,7 @@ kickstart
 kidrsa
 kill
 kindle
+kinetic
 kintone
 klantcontroles
 kms
@@ -3604,7 +3598,6 @@ lazywinadmin
 lbd
 lbi
 lbs
-lccn
 lcm
 lcminternals
 ldap
@@ -3905,7 +3898,6 @@ matcharray
 matchhashtable
 materialdesign
 materialui
-mateso
 math
 mathematics
 matplotlib
@@ -4314,7 +4306,6 @@ networkscan
 networksecurity
 networksecuritygroup
 networkshares
-netwrix
 new
 new-completionresult
 new-dtcmpackagefromdriverpackpackagedefinitionsms
@@ -4354,6 +4345,7 @@ ninja
 ninjaone
 ninjarmm
 nios
+nist
 nitro
 nitrox
 njclipsh
@@ -4429,11 +4421,10 @@ nupkg
 nuspec
 nutanix
 nuwave
-nva
+nvd
 nvdimm
 nvdimm-n
 nvm
-nvm-window
 nxt
 nyse
 nzb
@@ -4733,7 +4724,6 @@ passwordlockoutreport
 passwordmanagement
 passwordmanager
 passwords
-passwordsecure
 passwordspray
 passwordstate
 passwordtool
@@ -4850,7 +4840,6 @@ planner
 plantuml
 plaster
 platform
-platyps
 play
 playback
 playbook
@@ -4878,6 +4867,7 @@ poetry
 point
 point-to-site
 pointer
+pokeapi
 pokedex
 pokemon
 poker
@@ -5010,6 +5000,7 @@ powerbot
 powercli
 powercligoodies
 powercommander
+powerdex
 powerforensics
 powergraph
 powergui
@@ -8194,7 +8185,6 @@ psword
 pswriteword
 psyaml
 pszabbix
-pubg
 public
 public-key
 public-transport
@@ -8220,6 +8210,7 @@ puppetdb
 puppy
 pure
 pure1
+pureservice
 purestorage
 purple
 purview
@@ -8236,7 +8227,6 @@ pvs
 pwa
 pwned
 pwpush
-pwsafe
 pwsh
 pwsh.fw
 pwshake
@@ -8283,7 +8273,6 @@ query
 queue
 queues
 queuing
-quickaccess
 quickbase
 quickbooks
 quicksetup
@@ -8358,7 +8347,6 @@ readable
 reader
 readiness
 readme
-readpdf
 readthedocs
 realschule
 realtimeprotection
@@ -8473,7 +8461,6 @@ remoting
 remove
 remove-githubsecrets
 remove-itemproperty
-remove-pass
 remove-path
 remove-pinneditem
 remove-tempfiles
@@ -8609,10 +8596,8 @@ round
 roundrobindatabase
 route
 route53
-routeconfig
 router
 routes
-routetable
 routine
 rover
 royalapps
@@ -8949,10 +8934,8 @@ set-itemproperty
 set-location
 set-openfiles
 set-ownership
-set-pass
 set-psbreakpoint
 set-psenv
-set-randompass
 set-type
 setbios
 sets
@@ -9318,8 +9301,6 @@ stan
 stanc
 standalone
 standard
-standarderror
-standardoutput
 stansummary
 start
 start-job
@@ -9348,7 +9329,6 @@ statusmonitor
 statusreportingcomponent
 staytus
 stderr
-stdio
 stdout
 steam
 steam-games
@@ -9675,7 +9655,6 @@ thermostat
 thinprint
 third-party-libraries
 third-party-notice
-thispc
 thoughtfortheday
 thousandeyes
 thread
@@ -9930,7 +9909,6 @@ udfeedback
 udp
 udpclient
 udptest
-udr
 udthememode
 udword
 uefi
@@ -9993,6 +9971,7 @@ updatemgmt
 updater
 updates
 updateservices
+updmanagement
 updmgmt
 upgrade
 uplift
@@ -10136,7 +10115,6 @@ vimode
 virole
 virsh
 virtual
-virtualappliance
 virtualbox
 virtualboxguestadditions
 virtualdesktop
@@ -10214,6 +10192,7 @@ vpas
 vpasmodule
 vpc
 vpg
+vplex
 vpn
 vpn-certificate
 vpro
@@ -10248,6 +10227,7 @@ vsteams
 vstest
 vsts
 vsts-cli
+vulnerabilities
 vulnerability
 vulnerabilityassessment
 vulnerabilityscanning
@@ -10297,6 +10277,7 @@ weather
 weaviate
 weaviatenet
 web
+web-search
 web.config
 webadministration
 webapi
@@ -10390,7 +10371,6 @@ windows-control-panel
 windows-defender
 windows-defender-application-control
 windows-environment
-windows-explorer
 windows-features
 windows-firewall
 windows-powershell
@@ -10452,7 +10432,6 @@ winform
 winforms
 winget
 wingetbridge
-winrar
 winrm
 winrs
 winrt
