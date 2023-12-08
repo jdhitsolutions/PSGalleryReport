@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Friday, 08 December 2023 02:07:05 UTC
+Updated: Friday, 08 December 2023 09:52:36 UTC
 
 .bat
 .env
@@ -319,7 +319,6 @@ analyzerrules
 anchor
 and
 android
-anet
 anf
 anglesharp
 angular
@@ -371,7 +370,6 @@ app-control-for-business
 app-only
 app-v
 app-volumes
-app.config
 appattach
 appclusive
 appcmd
@@ -402,7 +400,6 @@ approve
 apps
 appservice
 appservices
-appsetting
 appv
 appveyor
 appvolumes
@@ -475,7 +472,6 @@ asnbank
 asp
 asp.net
 aspnet
-aspnet_regiis
 asr
 assembleenationale
 assembly
@@ -648,7 +644,6 @@ azureadbackupandrestore
 azureadconnect
 azureadgraph
 azureadtoolkit
-azureappconfiguration
 azureas
 azureautomation
 azureautomationaccount
@@ -909,6 +904,7 @@ builder
 building
 buildingfile
 buildingmapping
+buildkit
 buildkite
 buildmaster
 builds
@@ -1314,7 +1310,6 @@ complete
 completer
 completion
 completion-manager
-completionresult
 completions
 complex
 compliance
@@ -1341,6 +1336,7 @@ conda
 condition
 conditionalaccess
 conduit
+conference
 confidentialclient
 confidentialledger
 config
@@ -1356,6 +1352,7 @@ configurationdata
 configurationkey
 configurationmanagement
 configurationmanager
+configurationprofile
 configure
 confluence
 confluent
@@ -1376,7 +1373,6 @@ connection
 connectionmonitor
 connections
 connectionsmanager
-connectionstring
 connectivity
 connectwise
 conservation
@@ -1422,7 +1418,6 @@ conversion
 convert
 convert-dtexceptiontomessage
 convert-movietogif
-convert-sid
 convert-windowsimage
 converter
 convertfrom
@@ -1504,7 +1499,6 @@ creationworkflowsimplification
 creator
 cred
 credential
-credential-dialog
 credential-file
 credential-files
 credential-manager
@@ -1626,6 +1620,7 @@ dacfx
 dacl
 dacpac
 dacpackage
+dagger
 daily
 dane
 dangling
@@ -1668,6 +1663,7 @@ dataexplorer
 datafactory
 dataflow
 dataflowdependency
+dataframe
 datagateway
 dataintegration
 datakwaliteit
@@ -1682,7 +1678,6 @@ datapro
 dataprotection
 dataquality
 datarow
-datasafe
 datascience
 dataset
 datasetdependency
@@ -2027,6 +2022,7 @@ drivertool
 drivertool.powercli
 driverupdates
 drm
+drone.io
 drop
 dropbox
 dropdatabase
@@ -2034,6 +2030,8 @@ droplet
 droptable
 drs
 drsrule
+drupal
+drush
 dry
 ds
 ds-client
@@ -2099,6 +2097,7 @@ dynamicsax
 dynamicsecuritygroups
 dynamicsnav
 dynamodb
+dynatrace
 dynatraceobservability
 dz
 e-mail
@@ -2223,7 +2222,6 @@ eol
 eop
 eperl
 ephesoft
-epicor
 episode
 epplus
 eprosima
@@ -2298,7 +2296,6 @@ eventwatch
 evergreen
 evernote
 everydaypowershell
-everydayrewards
 everything
 evolutionary-algorithms
 evolutionary-database
@@ -2361,6 +2358,7 @@ exponentiation
 export
 export-cmhealthreport
 export-data
+export-passlist
 exportcertificate
 exportcertificates
 exporter
@@ -2730,7 +2728,9 @@ get-history
 get-iislog
 get-openfile
 get-openfiles
+get-pass
 get-passivetrippoint
+get-passlist
 get-path
 get-pinneditem
 get-samcmassignedsite
@@ -2764,6 +2764,7 @@ git-proxy
 git-stat
 gitcmdline
 gitdesktop
+gitea
 gitflow
 gitforwindows
 github
@@ -2800,7 +2801,6 @@ goldsource-dedicated-server
 google
 google-chrome
 google-histogram
-google-sankey
 google-table
 googleadsv2
 googlecloudplatform
@@ -2968,7 +2968,6 @@ helm
 helmet
 help
 helpdesk
-helpdoc
 helper
 helper-functions
 helperfunctions
@@ -3164,7 +3163,6 @@ iiittttt
 iis
 iis10
 iis8
-iisadministration
 iiscrypto
 ikev2
 il
@@ -3205,6 +3203,7 @@ import
 import-csv
 import-dtdriverpackpackagedefinitionsms
 import-modulefrompath
+import-passlist
 import-sampackagedefinitionsms
 importer
 importexport
@@ -3369,6 +3368,7 @@ irkit
 irl
 irregular
 isadmin
+isbn
 iscsi
 isdate
 ise
@@ -3387,7 +3387,6 @@ issues
 isvalidemail
 isvalidip
 it
-it-support
 it-tool
 it-tools
 italic-text
@@ -3481,6 +3480,7 @@ kafka
 kaminario
 karabiner
 karabiner-elements
+karma
 kaseya
 kaseyavsa
 kaspersky
@@ -3520,7 +3520,6 @@ kickstart
 kidrsa
 kill
 kindle
-kinetic
 kintone
 klantcontroles
 kms
@@ -3598,6 +3597,7 @@ lazywinadmin
 lbd
 lbi
 lbs
+lccn
 lcm
 lcminternals
 ldap
@@ -3898,6 +3898,7 @@ matcharray
 matchhashtable
 materialdesign
 materialui
+mateso
 math
 mathematics
 matplotlib
@@ -3965,7 +3966,6 @@ mercurial
 merge
 mermaid
 message
-messagebox
 messageoftheday
 messages
 messaging
@@ -4149,7 +4149,6 @@ msgraphapi
 msgraphreport
 msgraphtokenlifetimepolicy
 msi
-msi psmodule
 msiexec
 msil
 msix
@@ -4306,6 +4305,7 @@ networkscan
 networksecurity
 networksecuritygroup
 networkshares
+netwrix
 new
 new-completionresult
 new-dtcmpackagefromdriverpackpackagedefinitionsms
@@ -4421,10 +4421,12 @@ nupkg
 nuspec
 nutanix
 nuwave
+nva
 nvd
 nvdimm
 nvdimm-n
 nvm
+nvm-window
 nxt
 nyse
 nzb
@@ -4535,7 +4537,6 @@ onyphe.io
 oob
 oop
 op
-opa
 opc
 open
 open-ai
@@ -4724,6 +4725,7 @@ passwordlockoutreport
 passwordmanagement
 passwordmanager
 passwords
+passwordsecure
 passwordspray
 passwordstate
 passwordtool
@@ -4840,6 +4842,7 @@ planner
 plantuml
 plaster
 platform
+platyps
 play
 playback
 playbook
@@ -4867,7 +4870,6 @@ poetry
 point
 point-to-site
 pointer
-pokeapi
 pokedex
 pokemon
 poker
@@ -5000,7 +5002,6 @@ powerbot
 powercli
 powercligoodies
 powercommander
-powerdex
 powerforensics
 powergraph
 powergui
@@ -5086,6 +5087,7 @@ prepareschema
 prepend
 preprocessing
 preprocessor
+presentation
 presenter
 presto
 preston-k-parsard
@@ -5103,7 +5105,6 @@ principle
 print
 printer
 printers
-printershare
 printing
 printnightmare
 printserver
@@ -8185,6 +8186,7 @@ psword
 pswriteword
 psyaml
 pszabbix
+pubg
 public
 public-key
 public-transport
@@ -8227,6 +8229,7 @@ pvs
 pwa
 pwned
 pwpush
+pwsafe
 pwsh
 pwsh.fw
 pwshake
@@ -8347,6 +8350,7 @@ readable
 reader
 readiness
 readme
+readpdf
 readthedocs
 realschule
 realtimeprotection
@@ -8459,8 +8463,8 @@ remotemanagement
 remotesession
 remoting
 remove
-remove-githubsecrets
 remove-itemproperty
+remove-pass
 remove-path
 remove-pinneditem
 remove-tempfiles
@@ -8596,8 +8600,10 @@ round
 roundrobindatabase
 route
 route53
+routeconfig
 router
 routes
+routetable
 routine
 rover
 royalapps
@@ -8929,13 +8935,14 @@ set
 set_bios
 set-alias
 set-dnsservers
-set-githubsecrets
 set-itemproperty
 set-location
 set-openfiles
 set-ownership
+set-pass
 set-psbreakpoint
 set-psenv
+set-randompass
 set-type
 setbios
 sets
@@ -9182,6 +9189,7 @@ spdx-license-identifier:ms-pl
 spe
 speach
 speak
+speaker
 spec
 specification
 specify
@@ -9301,6 +9309,8 @@ stan
 stanc
 standalone
 standard
+standarderror
+standardoutput
 stansummary
 start
 start-job
@@ -9329,6 +9339,7 @@ statusmonitor
 statusreportingcomponent
 staytus
 stderr
+stdio
 stdout
 steam
 steam-games
@@ -9809,6 +9820,7 @@ tsqlbestpractice
 tst
 tst1
 tst3
+tsv
 ttrpg
 tts
 tubedownloader
@@ -9909,6 +9921,7 @@ udfeedback
 udp
 udpclient
 udptest
+udr
 udthememode
 udword
 uefi
@@ -10115,6 +10128,7 @@ vimode
 virole
 virsh
 virtual
+virtualappliance
 virtualbox
 virtualboxguestadditions
 virtualdesktop
@@ -10315,7 +10329,6 @@ websphereappserver
 websphereportal
 webtest
 webtesting
-webtime
 wec
 wecutil
 weekday
@@ -10371,6 +10384,7 @@ windows-control-panel
 windows-defender
 windows-defender-application-control
 windows-environment
+windows-explorer
 windows-features
 windows-firewall
 windows-powershell
@@ -10428,10 +10442,10 @@ windowstimezone
 windowsupdate
 windowsupdates
 windowsvirtualdesktop
-winform
 winforms
 winget
 wingetbridge
+winrar
 winrm
 winrs
 winrt
@@ -10463,8 +10477,6 @@ wol
 wolfram
 wolframalpha
 woocommerce
-woolworths
-woolworthsrewards
 word
 word-wrap
 wordcloud
