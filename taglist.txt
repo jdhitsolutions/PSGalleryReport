@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Friday, 08 December 2023 09:52:36 UTC
+Updated: Friday, 08 December 2023 17:52:26 UTC
 
 .bat
 .env
@@ -289,7 +289,6 @@ alter
 alteryx
 alwaysontop
 alwaysonvpn
-alz
 amateur
 amateur-data-interchange-format
 amateur-radio
@@ -300,7 +299,6 @@ amazonmgn
 amazonwebservices
 amend
 ami
-amiga
 amp
 amqp
 amsi
@@ -319,6 +317,7 @@ analyzerrules
 anchor
 and
 android
+anet
 anf
 anglesharp
 angular
@@ -370,6 +369,7 @@ app-control-for-business
 app-only
 app-v
 app-volumes
+app.config
 appattach
 appclusive
 appcmd
@@ -400,6 +400,7 @@ approve
 apps
 appservice
 appservices
+appsetting
 appv
 appveyor
 appvolumes
@@ -472,6 +473,7 @@ asnbank
 asp
 asp.net
 aspnet
+aspnet_regiis
 asr
 assembleenationale
 assembly
@@ -499,7 +501,6 @@ atlassian
 atlassiancli
 atlassianps
 atmosphere
-atom
 atp
 atrium
 att&ck
@@ -644,6 +645,7 @@ azureadbackupandrestore
 azureadconnect
 azureadgraph
 azureadtoolkit
+azureappconfiguration
 azureas
 azureautomation
 azureautomationaccount
@@ -904,7 +906,6 @@ builder
 building
 buildingfile
 buildingmapping
-buildkit
 buildkite
 buildmaster
 builds
@@ -1310,6 +1311,7 @@ complete
 completer
 completion
 completion-manager
+completionresult
 completions
 complex
 compliance
@@ -1373,6 +1375,7 @@ connection
 connectionmonitor
 connections
 connectionsmanager
+connectionstring
 connectivity
 connectwise
 conservation
@@ -1418,6 +1421,7 @@ conversion
 convert
 convert-dtexceptiontomessage
 convert-movietogif
+convert-sid
 convert-windowsimage
 converter
 convertfrom
@@ -1499,6 +1503,7 @@ creationworkflowsimplification
 creator
 cred
 credential
+credential-dialog
 credential-file
 credential-files
 credential-manager
@@ -1620,7 +1625,6 @@ dacfx
 dacl
 dacpac
 dacpackage
-dagger
 daily
 dane
 dangling
@@ -1678,6 +1682,7 @@ datapro
 dataprotection
 dataquality
 datarow
+datasafe
 datascience
 dataset
 datasetdependency
@@ -2222,6 +2227,7 @@ eol
 eop
 eperl
 ephesoft
+epicor
 episode
 epplus
 eprosima
@@ -2253,7 +2259,6 @@ espressif
 esri
 essbase
 estimate
-estimation
 esx
 esxi
 eternalblue
@@ -2296,6 +2301,7 @@ eventwatch
 evergreen
 evernote
 everydaypowershell
+everydayrewards
 everything
 evolutionary-algorithms
 evolutionary-database
@@ -2395,7 +2401,6 @@ factoryorchestratorclient
 facts
 faf
 failedlogin
-failure
 falcon
 fallbackstatuspoint
 fanarttv
@@ -2801,6 +2806,7 @@ goldsource-dedicated-server
 google
 google-chrome
 google-histogram
+google-sankey
 google-table
 googleadsv2
 googlecloudplatform
@@ -2968,6 +2974,7 @@ helm
 helmet
 help
 helpdesk
+helpdoc
 helper
 helper-functions
 helperfunctions
@@ -3131,6 +3138,7 @@ icingaplugins
 icingapowershell
 icingapowershellframework
 icingawindows
+icloud
 icmp
 icon
 icons
@@ -3163,6 +3171,7 @@ iiittttt
 iis
 iis10
 iis8
+iisadministration
 iiscrypto
 ikev2
 il
@@ -3387,6 +3396,7 @@ issues
 isvalidemail
 isvalidip
 it
+it-support
 it-tool
 it-tools
 italic-text
@@ -3520,6 +3530,7 @@ kickstart
 kidrsa
 kill
 kindle
+kinetic
 kintone
 klantcontroles
 kms
@@ -3571,7 +3582,6 @@ lame
 lametrictime
 lamp
 lan
-landingzones
 language
 languagedsc
 languageexperiencepack
@@ -3783,7 +3793,6 @@ loopback
 loremipsum
 love
 lovequotes
-lpsiamol
 ls
 lsa
 lsasecrets
@@ -3791,7 +3800,6 @@ lsd
 ltm
 lucd
 lucene
-lunches
 lwa
 lxca
 lxcapstool
@@ -3940,7 +3948,6 @@ mediant
 mediaplayer
 mediaservices
 mediawiki
-meditation
 meesman
 meeting
 meetup
@@ -3966,6 +3973,7 @@ mercurial
 merge
 mermaid
 message
+messagebox
 messageoftheday
 messages
 messaging
@@ -4149,6 +4157,7 @@ msgraphapi
 msgraphreport
 msgraphtokenlifetimepolicy
 msi
+msi psmodule
 msiexec
 msil
 msix
@@ -4291,7 +4300,6 @@ network-credentials
 network-info
 networkanalytics
 networkcloud
-networkcontroller
 networkdiscovery
 networkdrives
 networkfirewall
@@ -4537,6 +4545,7 @@ onyphe.io
 oob
 oop
 op
+opa
 opc
 open
 open-ai
@@ -4870,6 +4879,7 @@ poetry
 point
 point-to-site
 pointer
+pokeapi
 pokedex
 pokemon
 poker
@@ -4900,7 +4910,6 @@ ports
 portscan
 porttest
 pos
-posershellise
 posh
 posh-acme
 posh-cats
@@ -4942,7 +4951,6 @@ poshy-wrap
 poshy-wrap-apt
 poshy-wrap-argcomplete
 poshy-wrap-brew
-poshy-wrap-curl
 poshy-wrap-dnf
 poshy-wrap-docker
 poshy-wrap-docker-compose
@@ -5002,6 +5010,7 @@ powerbot
 powercli
 powercligoodies
 powercommander
+powerdex
 powerforensics
 powergraph
 powergui
@@ -5066,7 +5075,6 @@ powertab
 powertoolcmdlets
 powertooldsc
 ppdm
-ppk
 pposh
 pps
 ppt
@@ -5105,6 +5113,7 @@ principle
 print
 printer
 printers
+printershare
 printing
 printnightmare
 printserver
@@ -5295,12 +5304,6 @@ pscommand_cd-
 pscommand_cd..
 pscommand_cd+
 pscommand_cdgr
-pscommand_cl
-pscommand_clb
-pscommand_clhead
-pscommand_clo
-pscommand_cloc
-pscommand_clocr
 pscommand_confirm-gitbisectcommitbad
 pscommand_confirm-gitbisectcommitgood
 pscommand_convertto-nixmode
@@ -5940,12 +5943,6 @@ pscommand_invoke-brewupgradeandcleanup
 pscommand_invoke-brewupgradecaskandcleanup
 pscommand_invoke-brewupgradeformula
 pscommand_invoke-brewupgradegreedyandcleanup
-pscommand_invoke-curlfollowingredirects
-pscommand_invoke-curlfollowingredirectsdownloadasnamed
-pscommand_invoke-curlfollowingredirectsdownloadasnamedcontinue
-pscommand_invoke-curlfollowingredirectsdownloadasnamedcontinueandretry
-pscommand_invoke-curlfollowingredirectsfetchbanner
-pscommand_invoke-curlonlyforgetresponseheaders
 pscommand_invoke-dnfcleanall
 pscommand_invoke-dnfgrouplist
 pscommand_invoke-dnfgrouppinstall
@@ -7358,12 +7355,6 @@ psfunction_invoke-brewupgradeandcleanup
 psfunction_invoke-brewupgradecaskandcleanup
 psfunction_invoke-brewupgradeformula
 psfunction_invoke-brewupgradegreedyandcleanup
-psfunction_invoke-curlfollowingredirects
-psfunction_invoke-curlfollowingredirectsdownloadasnamed
-psfunction_invoke-curlfollowingredirectsdownloadasnamedcontinue
-psfunction_invoke-curlfollowingredirectsdownloadasnamedcontinueandretry
-psfunction_invoke-curlfollowingredirectsfetchbanner
-psfunction_invoke-curlonlyforgetresponseheaders
 psfunction_invoke-dnfcleanall
 psfunction_invoke-dnfgrouplist
 psfunction_invoke-dnfgrouppinstall
@@ -8276,6 +8267,7 @@ query
 queue
 queues
 queuing
+quickaccess
 quickbase
 quickbooks
 quicksetup
@@ -8463,6 +8455,7 @@ remotemanagement
 remotesession
 remoting
 remove
+remove-githubsecrets
 remove-itemproperty
 remove-pass
 remove-path
@@ -8773,7 +8766,6 @@ scriptcreation
 scriptcs
 scriptedui
 scripting
-scriptlogging
 scriptoform
 scriptrunner
 scripts
@@ -8935,6 +8927,7 @@ set
 set_bios
 set-alias
 set-dnsservers
+set-githubsecrets
 set-itemproperty
 set-location
 set-openfiles
@@ -9252,7 +9245,6 @@ sqlite
 sqlitebynarymodule
 sqlitebynarypsmodule
 sqlitemodule
-sqllocaldb
 sqlpackage
 sqlplus
 sqlproj
@@ -9636,7 +9628,6 @@ tests
 testsuite
 testtag1
 testtag2
-testtool
 testusers
 text
 text-to-image
@@ -9666,6 +9657,7 @@ thermostat
 thinprint
 third-party-libraries
 third-party-notice
+thispc
 thoughtfortheday
 thousandeyes
 thread
@@ -9782,7 +9774,6 @@ trec
 tree
 tree-structure
 treesize
-treffynnon
 trein
 trello
 trellops
@@ -10274,7 +10265,6 @@ warplaneporn
 warranty
 warraty
 warrenty
-wasabi
 watch
 watchmen
 watery
@@ -10329,6 +10319,7 @@ websphereappserver
 websphereportal
 webtest
 webtesting
+webtime
 wec
 wecutil
 weekday
@@ -10442,6 +10433,7 @@ windowstimezone
 windowsupdate
 windowsupdates
 windowsvirtualdesktop
+winform
 winforms
 winget
 wingetbridge
@@ -10477,6 +10469,8 @@ wol
 wolfram
 wolframalpha
 woocommerce
+woolworths
+woolworthsrewards
 word
 word-wrap
 wordcloud
