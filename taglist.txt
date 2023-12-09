@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Saturday, 09 December 2023 09:52:28 UTC
+Updated: Saturday, 09 December 2023 17:52:27 UTC
 
 .bat
 .env
@@ -263,7 +263,6 @@ albums
 alc
 alero
 alert
-alerting
 alertmail
 alertmanagement
 alerts
@@ -567,6 +566,7 @@ autostart
 autotask
 autotaskapi
 autotaskpsa
+autounattend
 autoupdate
 autoupdate-script
 autoyast
@@ -692,6 +692,8 @@ azuresecuritycenter
 azureservicebus
 azuresigntool
 azuresql
+azuresqlexport
+azuresqlimport
 azuressas
 azurestack
 azurestackhci
@@ -1244,7 +1246,6 @@ codegen
 codegeneration
 codegenerator
 codepoint
-codereview
 codes
 codesign
 codesigning
@@ -1275,7 +1276,6 @@ columns
 com
 combinations
 combine
-comdata
 comic
 comical
 comics
@@ -1414,6 +1414,7 @@ controller
 controlroom
 conventional
 conventional-commits
+convereter
 converged_data_management
 conversational
 conversion
@@ -1567,6 +1568,9 @@ curious
 curl
 curlie
 currency
+currency-convereter
+currency-exchange
+currencyconverterapi
 current
 curseforge
 custom
@@ -1590,7 +1594,6 @@ customlogs
 customproviders
 cutehttpfileserver
 cvad
-cve
 cve-2021-34527
 cvrf
 cvss
@@ -1642,6 +1645,7 @@ data-uri
 data-uri-converter
 database
 database-migrations
+databaseautomation
 databasemanagement
 databasemigration
 databases
@@ -1657,6 +1661,7 @@ datacollectionrule
 dataconduit
 dataconnectivity
 datadog
+dataexchange
 dataexplorer
 datafactory
 dataflow
@@ -1717,6 +1722,7 @@ dbwebapi
 dc
 dcim
 dcim_b324
+dcom
 dcr
 debian
 debug
@@ -1782,7 +1788,6 @@ description
 deserialize
 design
 desired
-desiredstate
 desiredstateconfiguration
 desk
 desktop
@@ -2028,6 +2033,8 @@ droplet
 droptable
 drs
 drsrule
+drupal
+drush
 dry
 ds
 ds-client
@@ -2090,7 +2097,6 @@ dynamics365fo
 dynamics365sales
 dynamics365server
 dynamicsax
-dynamicsecuritygroups
 dynamicsnav
 dynamodb
 dynatrace
@@ -2307,6 +2313,7 @@ exception
 exceptionless
 exchange
 exchange_online
+exchange-rates
 exchange2010
 exchange2013
 exchange2016
@@ -2348,7 +2355,6 @@ expired
 expiring
 expiry
 exploit
-exploits
 exploration
 explorer
 exponentiation
@@ -2868,6 +2874,7 @@ gtx1080ti
 guardedfabric
 guardicore
 gubbins
+guest
 guestconfiguration
 guests
 gui
@@ -2967,7 +2974,6 @@ help
 helpdesk
 helpdoc
 helper
-helper-functions
 helperfunctions
 helpers
 helpfile
@@ -3018,6 +3024,7 @@ hls
 hockey
 hol
 holiday
+home
 home_automation
 homebrew
 homelandsecurity
@@ -3115,7 +3122,6 @@ ib
 ibm
 ibmc
 ibmhttpserver
-icacl
 icinga
 icinga2
 icinga2mssql
@@ -3128,6 +3134,7 @@ icingaplugins
 icingapowershell
 icingapowershellframework
 icingawindows
+icloud
 icmp
 icon
 icons
@@ -3543,12 +3550,12 @@ kubectl
 kubectx
 kubens
 kubernetes
-kubernetesconfiguration
 kubespray
 kudu
 kurukuru
 kusto
 kvm
+kvp
 l1tf
 l2tp
 lab
@@ -4117,6 +4124,8 @@ mp4
 mpc
 mpeg
 mpn
+mrfk
+mrfylke
 mrvl_fc_powerkit
 mrvlfcprovider
 ms_365
@@ -4343,7 +4352,6 @@ ninja
 ninjaone
 ninjarmm
 nios
-nist
 nitro
 nitrox
 njclipsh
@@ -4366,6 +4374,8 @@ nord
 nordtools
 normal
 norskale
+norway
+norwegian
 nosql
 note
 notebook
@@ -4418,7 +4428,6 @@ nuspec
 nutanix
 nuwave
 nva
-nvd
 nvdimm
 nvdimm-n
 nvm
@@ -4521,6 +4530,7 @@ online-backup
 onlinebackup
 onprem
 onpremisesdatagatewayhamgmt
+onq
 ons
 ontap
 ontap_9.13.1
@@ -4532,6 +4542,7 @@ onyphe.io
 oob
 oop
 op
+opa
 opc
 open
 open-ai
@@ -5037,6 +5048,7 @@ powershell.one
 powershell.persistentpathstack
 powershell7
 powershellai
+powershellazuresql
 powershellconferenceeurope
 powershellcore
 powershellcourse
@@ -7017,6 +7029,7 @@ pscredential
 pscribo
 pscustomobject
 psd1
+psdb
 psdefaultparametervalues
 psdeploy
 psdesiredstateconfiguration
@@ -8208,6 +8221,7 @@ puppetdb
 puppy
 pure
 pure1
+pureservice
 purestorage
 purple
 purview
@@ -8271,6 +8285,7 @@ query
 queue
 queues
 queuing
+quickaccess
 quickbase
 quickbooks
 quicksetup
@@ -8458,7 +8473,6 @@ remotemanagement
 remotesession
 remoting
 remove
-remove-githubsecrets
 remove-itemproperty
 remove-pass
 remove-path
@@ -8757,8 +8771,7 @@ screenresolution
 screensaver
 screenshot
 script
-script-to-assembly
-script-to-executable
+script_version
 scriptanalyzer
 scriptblock
 scriptblocklogging
@@ -8769,7 +8782,6 @@ scriptcs
 scriptedui
 scripting
 scriptlogging
-scriptoform
 scriptrunner
 scripts
 scriptsmonitoring
@@ -8827,6 +8839,7 @@ security.txt
 securityassertionmarkuplanguage
 securitycenter
 securitycompliancecenter
+securitygroup
 securitygroups
 securityinsights
 securityoptions
@@ -8929,7 +8942,6 @@ set
 set_bios
 set-alias
 set-dnsservers
-set-githubsecrets
 set-itemproperty
 set-location
 set-openfiles
@@ -8961,7 +8973,6 @@ shacrypt
 shadow
 shadowcopy
 shadowcopybackups
-shadowgroups
 shanghaitech
 shard
 share
@@ -9230,6 +9241,7 @@ sql-database
 sql-script
 sql-server
 sqlagent
+sqlautomation
 sqlbits
 sqlbrowser
 sqlchangeautomation
@@ -9240,6 +9252,7 @@ sqldatabase
 sqldb
 sqldbatools
 sqldiagapi
+sqlexport
 sqlgateway
 sqlite
 sqlitebynarymodule
@@ -9347,6 +9360,8 @@ stingar
 stock
 stockcharts
 stocks
+stoicism
+stoics
 stop
 storablecolortheme
 storage
@@ -9478,7 +9493,6 @@ syslog
 sysman
 sysmon
 sysop
-syspass
 syspip
 syspip3
 sysprep
@@ -9515,7 +9529,6 @@ tableau
 tableauserver
 tabler
 tables
-tablestorage
 tabs
 tabular
 tag
@@ -9645,6 +9658,7 @@ tflint
 tfs
 tfscmdlets
 tfsec
+tftd
 tftp
 tfvars
 tfvc
@@ -9656,6 +9670,8 @@ thermostat
 thinprint
 third-party-libraries
 third-party-notice
+thispc
+thoughtfortheday
 thousandeyes
 thread
 threading
@@ -9690,8 +9706,6 @@ tip
 tips
 title
 tls
-tls11
-tls12
 tlsa
 tlsprotocol
 tlsrpt
@@ -9771,6 +9785,7 @@ trec
 tree
 tree-structure
 treesize
+treffynnon
 trein
 trello
 trellops
@@ -9855,6 +9870,7 @@ ud-badgebutton
 ud-badgelink
 ud-breadcrumb
 ud-breadcrumbitem
+ud-burger
 ud-button
 ud-buttonloader
 ud-buttonparticle
@@ -9977,7 +9993,6 @@ upgrade
 uplift
 uplink
 ups
-upsource
 upstream
 uptime
 uptimerobot
@@ -10228,7 +10243,6 @@ vsteams
 vstest
 vsts
 vsts-cli
-vulnerabilities
 vulnerability
 vulnerabilityassessment
 vulnerabilityscanning
@@ -10372,6 +10386,7 @@ windows-control-panel
 windows-defender
 windows-defender-application-control
 windows-environment
+windows-explorer
 windows-features
 windows-firewall
 windows-powershell
@@ -10451,6 +10466,7 @@ wiscmail
 wisco365
 wisconsin-madison
 wisconsin'uw-madison
+wisdom
 with
 wizard
 wkhtmltopdf
