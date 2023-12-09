@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Saturday, 09 December 2023 02:04:12 UTC
+Updated: Saturday, 09 December 2023 09:52:28 UTC
 
 .bat
 .env
@@ -259,6 +259,7 @@ al
 alac
 alarm
 alb
+albums
 alc
 alero
 alert
@@ -457,6 +458,7 @@ artifacts
 aruba
 as
 asa
+asa.unittest
 asana
 asbuiltreport
 asc
@@ -520,6 +522,7 @@ auditpolicies
 auditpolicy
 audits
 aumid
+aut
 auth
 auth0
 authenticate
@@ -564,7 +567,6 @@ autostart
 autotask
 autotaskapi
 autotaskpsa
-autounattend
 autoupdate
 autoupdate-script
 autoyast
@@ -690,8 +692,6 @@ azuresecuritycenter
 azureservicebus
 azuresigntool
 azuresql
-azuresqlexport
-azuresqlimport
 azuressas
 azurestack
 azurestackhci
@@ -906,7 +906,6 @@ builder
 building
 buildingfile
 buildingmapping
-buildkit
 buildkite
 buildmaster
 builds
@@ -1026,6 +1025,7 @@ cer
 cert
 certbasedauth
 certera
+certes
 certificate
 certificateauthority
 certificatechain
@@ -1203,6 +1203,7 @@ cloudservice
 cloudshell
 clueser
 cluster
+clusterminimumvalues
 clusterplugins
 cmaccounts
 cmake
@@ -1562,6 +1563,7 @@ culture
 cumulative
 cumulativeupdate
 cumulocity
+curious
 curl
 curlie
 currency
@@ -1618,14 +1620,16 @@ dac
 dacfx
 dacl
 dacpac
-dagger
+dacpackage
 daily
 dane
 dangling
 dapr
+dare
 dark
 dash
 dashboard
+dashboardapi
 dashboardservice
 dast
 data
@@ -1638,7 +1642,6 @@ data-uri
 data-uri-converter
 database
 database-migrations
-databaseautomation
 databasemanagement
 databasemigration
 databases
@@ -1714,7 +1717,6 @@ dbwebapi
 dc
 dcim
 dcim_b324
-dcom
 dcr
 debian
 debug
@@ -2026,8 +2028,6 @@ droplet
 droptable
 drs
 drsrule
-drupal
-drush
 dry
 ds
 ds-client
@@ -2532,6 +2532,7 @@ flac
 flash
 flasharray
 flashblade
+flatfile
 flatten
 fleetsoftwareupdate
 flex
@@ -2911,6 +2912,7 @@ har
 hard
 hardblock
 harden
+harden-windows-security
 hardening
 hardlink
 hardmatch
@@ -3126,7 +3128,6 @@ icingaplugins
 icingapowershell
 icingapowershellframework
 icingawindows
-icloud
 icmp
 icon
 icons
@@ -3195,6 +3196,7 @@ imei
 imi
 impala
 impersonation
+imperva
 import
 import-csv
 import-dtdriverpackpackagedefinitionsms
@@ -3343,6 +3345,7 @@ ipbroadcast
 ipc
 ipcalc
 ipcalculator
+ipconfig
 iperf
 ipfy.org
 iphone
@@ -3577,6 +3580,8 @@ laps
 laragon
 laserbeams
 last
+last.fm
+lastfm
 lastlogon
 lastpass
 latency
@@ -3885,7 +3890,6 @@ marvellqlogicfcpowerkit
 mas
 mask
 mass
-masstransit
 masterconfiguration
 match
 matcharray
@@ -3918,6 +3922,7 @@ mdatp
 mdb
 mdbc
 mde
+mdep
 mdm
 mdop
 mdt
@@ -3954,6 +3959,7 @@ mention
 menu
 menus
 meraki
+merakiapi
 mercurial
 merge
 mermaid
@@ -4111,8 +4117,6 @@ mp4
 mpc
 mpeg
 mpn
-mrfk
-mrfylke
 mrvl_fc_powerkit
 mrvlfcprovider
 ms_365
@@ -4517,7 +4521,6 @@ online-backup
 onlinebackup
 onprem
 onpremisesdatagatewayhamgmt
-onq
 ons
 ontap
 ontap_9.13.1
@@ -4529,7 +4532,6 @@ onyphe.io
 oob
 oop
 op
-opa
 opc
 open
 open-ai
@@ -4840,6 +4842,7 @@ play
 playback
 playbook
 player
+playlists
 pleasant
 pleasantpasswordserver
 plex
@@ -4935,6 +4938,7 @@ poshy-wrap
 poshy-wrap-apt
 poshy-wrap-argcomplete
 poshy-wrap-brew
+poshy-wrap-curl
 poshy-wrap-dnf
 poshy-wrap-docker
 poshy-wrap-docker-compose
@@ -5017,6 +5021,8 @@ powershell-dsc
 powershell-examples
 powershell-gallery
 powershell-github-repo
+powershell-gitlab
+powershell-graphql
 powershell-isprime
 powershell-lightning
 powershell-module
@@ -5031,7 +5037,6 @@ powershell.one
 powershell.persistentpathstack
 powershell7
 powershellai
-powershellazuresql
 powershellconferenceeurope
 powershellcore
 powershellcourse
@@ -5108,6 +5113,7 @@ private-key
 privatedns
 privatekey
 privatemethods
+privateprofilestring
 privilege
 privilegecloud
 privileged
@@ -5286,6 +5292,12 @@ pscommand_cd-
 pscommand_cd..
 pscommand_cd+
 pscommand_cdgr
+pscommand_cl
+pscommand_clb
+pscommand_clhead
+pscommand_clo
+pscommand_cloc
+pscommand_clocr
 pscommand_confirm-gitbisectcommitbad
 pscommand_confirm-gitbisectcommitgood
 pscommand_convertto-nixmode
@@ -5925,6 +5937,12 @@ pscommand_invoke-brewupgradeandcleanup
 pscommand_invoke-brewupgradecaskandcleanup
 pscommand_invoke-brewupgradeformula
 pscommand_invoke-brewupgradegreedyandcleanup
+pscommand_invoke-curlfollowingredirects
+pscommand_invoke-curlfollowingredirectsdownloadasnamed
+pscommand_invoke-curlfollowingredirectsdownloadasnamedcontinue
+pscommand_invoke-curlfollowingredirectsdownloadasnamedcontinueandretry
+pscommand_invoke-curlfollowingredirectsfetchbanner
+pscommand_invoke-curlonlyforgetresponseheaders
 pscommand_invoke-dnfcleanall
 pscommand_invoke-dnfgrouplist
 pscommand_invoke-dnfgrouppinstall
@@ -6999,7 +7017,6 @@ pscredential
 pscribo
 pscustomobject
 psd1
-psdb
 psdefaultparametervalues
 psdeploy
 psdesiredstateconfiguration
@@ -7337,6 +7354,12 @@ psfunction_invoke-brewupgradeandcleanup
 psfunction_invoke-brewupgradecaskandcleanup
 psfunction_invoke-brewupgradeformula
 psfunction_invoke-brewupgradegreedyandcleanup
+psfunction_invoke-curlfollowingredirects
+psfunction_invoke-curlfollowingredirectsdownloadasnamed
+psfunction_invoke-curlfollowingredirectsdownloadasnamedcontinue
+psfunction_invoke-curlfollowingredirectsdownloadasnamedcontinueandretry
+psfunction_invoke-curlfollowingredirectsfetchbanner
+psfunction_invoke-curlonlyforgetresponseheaders
 psfunction_invoke-dnfcleanall
 psfunction_invoke-dnfgrouplist
 psfunction_invoke-dnfgrouppinstall
@@ -8185,7 +8208,6 @@ puppetdb
 puppy
 pure
 pure1
-pureservice
 purestorage
 purple
 purview
@@ -8249,7 +8271,6 @@ query
 queue
 queues
 queuing
-quickaccess
 quickbase
 quickbooks
 quicksetup
@@ -8481,6 +8502,7 @@ resize
 resolution
 resolve
 resolve-stache
+resolve-template
 resolver
 resource
 resource_monitor
@@ -8735,7 +8757,6 @@ screenresolution
 screensaver
 screenshot
 script
-script_version
 script-to-assembly
 script-to-executable
 scriptanalyzer
@@ -8795,16 +8816,17 @@ securegopher+
 securemfa
 securerdp
 securescore
+securesphere
 securestring
 security
 security-awareness-training
 security-policy
+security-score
 security-txt
 security.txt
 securityassertionmarkuplanguage
 securitycenter
 securitycompliancecenter
-securitygroup
 securitygroups
 securityinsights
 securityoptions
@@ -9208,7 +9230,6 @@ sql-database
 sql-script
 sql-server
 sqlagent
-sqlautomation
 sqlbits
 sqlbrowser
 sqlchangeautomation
@@ -9219,7 +9240,6 @@ sqldatabase
 sqldb
 sqldbatools
 sqldiagapi
-sqlexport
 sqlgateway
 sqlite
 sqlitebynarymodule
@@ -9229,6 +9249,7 @@ sqllocaldb
 sqlpackage
 sqlplus
 sqlproj
+sqlproject
 sqlps
 sqlserver
 sqlserveragent
@@ -9326,8 +9347,6 @@ stingar
 stock
 stockcharts
 stocks
-stoicism
-stoics
 stop
 storablecolortheme
 storage
@@ -9626,7 +9645,6 @@ tflint
 tfs
 tfscmdlets
 tfsec
-tftd
 tftp
 tfvars
 tfvc
@@ -9638,8 +9656,6 @@ thermostat
 thinprint
 third-party-libraries
 third-party-notice
-thispc
-thoughtfortheday
 thousandeyes
 thread
 threading
@@ -9839,7 +9855,6 @@ ud-badgebutton
 ud-badgelink
 ud-breadcrumb
 ud-breadcrumbitem
-ud-burger
 ud-button
 ud-buttonloader
 ud-buttonparticle
@@ -9930,6 +9945,7 @@ unit_testing
 unit-testing
 unitconvesion
 unittest
+unittesting
 unity
 universal
 universal-automation
@@ -10356,7 +10372,6 @@ windows-control-panel
 windows-defender
 windows-defender-application-control
 windows-environment
-windows-explorer
 windows-features
 windows-firewall
 windows-powershell
@@ -10436,7 +10451,6 @@ wiscmail
 wisco365
 wisconsin-madison
 wisconsin'uw-madison
-wisdom
 with
 wizard
 wkhtmltopdf
@@ -10532,6 +10546,7 @@ wunderlist
 wus
 wvd
 www
+x-cart
 x.509
 x1
 x2

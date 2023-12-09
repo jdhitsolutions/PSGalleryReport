@@ -3,6 +3,190 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [Defender](https://www.powershellgallery.com/Packages/Defender/1.0.0) | 1.0.0
+
+### Published: 12/09/2023 07:40:46 by sjnscythe
+
+poc by sjnscythe
+
+__Downloads__: 0 | __Repository__: 
+
+## [NexusIQ](https://www.powershellgallery.com/Packages/NexusIQ/1.0.1) | 1.0.1
+
+### Published: 12/09/2023 03:54:19 by Neil White
+
+Module acts as a wrapper for the Nexus IQ REST API
+
+__Downloads__: 4 | __Repository__: https://github.com/variableresistor/NexusIQ
+
+## [PSWinGlue](https://www.powershellgallery.com/Packages/PSWinGlue/0.6.8) | 0.6.8
+
+### Published: 12/09/2023 03:08:55 by Samuel Leslie
+
+An assortment of useful PowerShell scripts
+
+__Downloads__: 47,588 | __Repository__: https://github.com/ralish/PSWinGlue
+
+## [VenafiPS](https://www.powershellgallery.com/Packages/VenafiPS/6.0.5) | 6.0.5
+
+### Published: 12/09/2023 03:07:17 by Venafi
+
+Automate your Venafi TLS Protect Datacenter and Cloud platforms!
+
+__Downloads__: 7,838 | __Repository__: https://github.com/Venafi/VenafiPS
+
+## [Set-ShodanScanIP](https://www.powershellgallery.com/Packages/Set-ShodanScanIP/1.1.3) | 1.1.3
+
+### Published: 12/09/2023 02:24:54 by SimeonOnSecurity
+
+Use this module to request Shodan to crawl a network. Ex: Set-ShodanScanIP -IPS 8.8.8.8/32 -API
+
+__Downloads__: 27 | __Repository__: https://simeononsecurity.com/github/shodan-powershell/
+
+## [Get-ShodanScanProtocols](https://www.powershellgallery.com/Packages/Get-ShodanScanProtocols/1.1.3) | 1.1.3
+
+### Published: 12/09/2023 02:24:50 by SimeonOnSecurity
+
+List all protocols that can be used when performing on-demand Internet scans via Shodan. Ex: Get-ShodanScanProtocols -API [string]
+
+__Downloads__: 24 | __Repository__: https://simeononsecurity.com/github/shodan-powershell/
+
+## [Get-ShodanScanID](https://www.powershellgallery.com/Packages/Get-ShodanScanID/1.1.3) | 1.1.3
+
+### Published: 12/09/2023 02:24:46 by SimeonOnSecurity
+
+Check the progress of a previously submitted scan request. Ex: Get-ShodanScanID -ID [string] -API [string]
+
+__Downloads__: 23 | __Repository__: https://simeononsecurity.com/github/shodan-powershell/
+
+## [Get-ShodanProfile](https://www.powershellgallery.com/Packages/Get-ShodanProfile/1.1.3) | 1.1.3
+
+### Published: 12/09/2023 02:24:42 by SimeonOnSecurity
+
+Returns information about the Shodan account linked to this API key. Ex: Get-ShodanProfile -API
+
+__Downloads__: 23 | __Repository__: https://simeononsecurity.com/github/shodan-powershell/
+
+## [Get-ShodanPorts](https://www.powershellgallery.com/Packages/Get-ShodanPorts/1.1.3) | 1.1.3
+
+### Published: 12/09/2023 02:24:38 by SimeonOnSecurity
+
+List all ports that Shodan is crawling on the Internet. Ex: Get-ShodanPorts -API
+
+__Downloads__: 26 | __Repository__: https://simeononsecurity.com/github/shodan-powershell/
+
+## [Get-ShodanHostSearchFilters](https://www.powershellgallery.com/Packages/Get-ShodanHostSearchFilters/1.1.3) | 1.1.3
+
+### Published: 12/09/2023 02:24:34 by SimeonOnSecurity
+
+This module returns a list of search filters that can be used in the search query. Ex: Get-ShodanHostSearchFilter -API
+
+__Downloads__: 26 | __Repository__: https://simeononsecurity.com/github/shodan-powershell/
+
+## [Get-ShodanHostSearchFacets](https://www.powershellgallery.com/Packages/Get-ShodanHostSearchFacets/1.1.3) | 1.1.3
+
+### Published: 12/09/2023 02:24:29 by SimeonOnSecurity
+
+This module returns a list of search filters that can be used in the search query. Ex: Get-ShodanHostSearchFacets -API
+
+__Downloads__: 27 | __Repository__: https://simeononsecurity.com/github/shodan-powershell/
+
+## [Get-ShodanHostSearch](https://www.powershellgallery.com/Packages/Get-ShodanHostSearch/1.1.3) | 1.1.3
+
+### Published: 12/09/2023 02:24:25 by SimeonOnSecurity
+
+Search Shodan using the same query syntax as the website and use facets to get summary information for different properties. Ex: Get-ShodanHostSearch -Query [string] -Facet [string] -Minify $true -API
+
+__Downloads__: 28 | __Repository__: https://simeononsecurity.com/github/shodan-powershell/
+
+## [Get-ShodanHostIP](https://www.powershellgallery.com/Packages/Get-ShodanHostIP/1.1.3) | 1.1.3
+
+### Published: 12/09/2023 02:24:21 by SimeonOnSecurity
+
+Search Shodan with IP address. Ex: Get-ShodanHostIP -IP 8.8.8.8 -Minify $true -API
+
+__Downloads__: 29 | __Repository__: https://simeononsecurity.com/github/shodan-powershell/
+
+## [Get-ShodanHostCount](https://www.powershellgallery.com/Packages/Get-ShodanHostCount/1.1.3) | 1.1.3
+
+### Published: 12/09/2023 02:24:17 by SimeonOnSecurity
+
+This method behaves identical to "/shodan/host/search" with the only difference that this method does not return any host results, it only returns the total number of results that matched the query and any facet information that was requested. As a result this method does not consume query credits. Ex: Get-ShodanHostCount -Query [string] -Facet [string] -Minify $true -API
+
+__Downloads__: 23 | __Repository__: https://simeononsecurity.com/github/shodan-powershell/
+
+## [Get-ShodanHoneyScore](https://www.powershellgallery.com/Packages/Get-ShodanHoneyScore/1.1.3) | 1.1.3
+
+### Published: 12/09/2023 02:24:13 by SimeonOnSecurity
+
+Calculates a honeypot probability score ranging from 0 (not a honeypot) to 1.0 (is a honeypot). Ex: Get-ShodanHoneyScore -IP 8.8.8.8 -API
+
+__Downloads__: 22 | __Repository__: https://simeononsecurity.com/github/shodan-powershell/
+
+## [Get-ShodanExploitSearch](https://www.powershellgallery.com/Packages/Get-ShodanExploitSearch/1.1.3) | 1.1.3
+
+### Published: 12/09/2023 02:24:09 by SimeonOnSecurity
+
+Search across a variety of data sources for exploits and use facets to get summary information. Ex: Get-ShodanExploitSearch -Query [string] -Facet [string] -API [string]
+
+__Downloads__: 27 | __Repository__: https://simeononsecurity.com/github/shodan-powershell/
+
+## [Get-ShodanExploitCount](https://www.powershellgallery.com/Packages/Get-ShodanExploitCount/1.1.3) | 1.1.3
+
+### Published: 12/09/2023 02:24:05 by SimeonOnSecurity
+
+This method behaves identical to the "/search" method with the difference that it doesnt return any results. Ex: Get-ShodanExploitCount -Query [string] -Facet [string] -API [string]
+
+__Downloads__: 25 | __Repository__: https://simeononsecurity.com/github/shodan-powershell/
+
+## [Get-ShodanDNSReverse](https://www.powershellgallery.com/Packages/Get-ShodanDNSReverse/1.1.3) | 1.1.3
+
+### Published: 12/09/2023 02:24:01 by SimeonOnSecurity
+
+Look up the hostnames that have been defined for the given list of IP addresses. Ex: Get-ShodanDNSReverse -ips google.com,bing.com -API
+
+__Downloads__: 26 | __Repository__: https://simeononsecurity.com/github/shodan-powershell/
+
+## [Get-ShodanDNSResolve](https://www.powershellgallery.com/Packages/Get-ShodanDNSResolve/1.1.3) | 1.1.3
+
+### Published: 12/09/2023 02:23:57 by SimeonOnSecurity
+
+Get the IP address associated with a hostname. Ex: Get-ShodanDNSResolve -hostname google.com -API
+
+__Downloads__: 31 | __Repository__: https://simeononsecurity.com/github/shodan-powershell/
+
+## [Get-ShodanDNSdomain](https://www.powershellgallery.com/Packages/Get-ShodanDNSdomain/1.1.3) | 1.1.3
+
+### Published: 12/09/2023 02:23:53 by SimeonOnSecurity
+
+Get all the subdomains and other DNS entries for the given domain. Ex: Get-ShodanDNSdomain -domain google.com -API
+
+__Downloads__: 31 | __Repository__: https://simeononsecurity.com/github/shodan-powershell/
+
+## [Get-ShodanClientIP](https://www.powershellgallery.com/Packages/Get-ShodanClientIP/1.1.3) | 1.1.3
+
+### Published: 12/09/2023 02:23:49 by SimeonOnSecurity
+
+Get your current IP address as seen from the Internet. Ex: Get-ShodanClientIP -API
+
+__Downloads__: 28 | __Repository__: https://simeononsecurity.com/github/shodan-powershell/
+
+## [Get-ShodanClientHTTPHeaders](https://www.powershellgallery.com/Packages/Get-ShodanClientHTTPHeaders/1.1.3) | 1.1.3
+
+### Published: 12/09/2023 02:23:45 by SimeonOnSecurity
+
+Shows the HTTP headers that your client sends when connecting to a webserver. Ex: Get-ShodanClientHTTPHeaders -API
+
+__Downloads__: 27 | __Repository__: https://simeononsecurity.com/github/shodan-powershell/
+
+## [Get-ShodanAPIInfo](https://www.powershellgallery.com/Packages/Get-ShodanAPIInfo/1.1.3) | 1.1.3
+
+### Published: 12/09/2023 02:23:41 by SimeonOnSecurity
+
+Returns information about the API plan belonging to the given API key. Ex: Get-ShodanAPIInfo -API
+
+__Downloads__: 32 | __Repository__: https://simeononsecurity.com/github/shodan-powershell/
+
 ## [PowerDataOps](https://www.powershellgallery.com/Packages/PowerDataOps/1.0.0.144) | 1.0.0.144
 
 ### Published: 12/08/2023 17:47:14 by Aymeric Mouillé
@@ -25,7 +209,7 @@ __Downloads__: 26,232 | __Repository__: https://dev.azure.com/virtual-engine/PSR
 
 NTS.Tools module contains tools for ConfigMgr and course deployment
 
-__Downloads__: 2,298 | __Repository__: https://dev.ntsystems.de/MWiedmann/nts-tools
+__Downloads__: 2,303 | __Repository__: https://dev.ntsystems.de/MWiedmann/nts-tools
 
 ## [NTS.Tools.MSSQL](https://www.powershellgallery.com/Packages/NTS.Tools.MSSQL/2.0.2.5) | 2.0.2.5
 
@@ -33,7 +217,7 @@ __Downloads__: 2,298 | __Repository__: https://dev.ntsystems.de/MWiedmann/nts-to
 
 NTS.Tools.MSSQL module contains functions that are mainly related to Microsoft SQL Server
 
-__Downloads__: 2,246 | __Repository__: https://dev.ntsystems.de/MWiedmann/nts-tools
+__Downloads__: 2,251 | __Repository__: https://dev.ntsystems.de/MWiedmann/nts-tools
 
 ## [NTS.Tools.MSHyperV](https://www.powershellgallery.com/Packages/NTS.Tools.MSHyperV/2.0.2.5) | 2.0.2.5
 
@@ -41,7 +225,7 @@ __Downloads__: 2,246 | __Repository__: https://dev.ntsystems.de/MWiedmann/nts-to
 
 NTS.Tools.MSHyperV module contains functions that are mainly related to Microsoft Hyper-V
 
-__Downloads__: 2,282 | __Repository__: https://dev.ntsystems.de/MWiedmann/nts-tools
+__Downloads__: 2,287 | __Repository__: https://dev.ntsystems.de/MWiedmann/nts-tools
 
 ## [NTS.Tools.MSExchange](https://www.powershellgallery.com/Packages/NTS.Tools.MSExchange/2.0.2.5) | 2.0.2.5
 
@@ -49,7 +233,7 @@ __Downloads__: 2,282 | __Repository__: https://dev.ntsystems.de/MWiedmann/nts-to
 
 NTS.Tools.MSExchange module contains functions that are mainly related to around Microsoft Exchange
 
-__Downloads__: 2,245 | __Repository__: https://dev.ntsystems.de/MWiedmann/nts-tools
+__Downloads__: 2,250 | __Repository__: https://dev.ntsystems.de/MWiedmann/nts-tools
 
 ## [NTS.Tools.MSConfigMgr](https://www.powershellgallery.com/Packages/NTS.Tools.MSConfigMgr/2.0.2.5) | 2.0.2.5
 
@@ -57,7 +241,7 @@ __Downloads__: 2,245 | __Repository__: https://dev.ntsystems.de/MWiedmann/nts-to
 
 NTS.Tools.MSConfigMgr module contains functions that are mainly related to Microsoft Endpoint Configuration Manger
 
-__Downloads__: 2,245 | __Repository__: https://dev.ntsystems.de/MWiedmann/nts-tools
+__Downloads__: 2,250 | __Repository__: https://dev.ntsystems.de/MWiedmann/nts-tools
 
 ## [NTS.Tools.MSADDS](https://www.powershellgallery.com/Packages/NTS.Tools.MSADDS/2.0.2.5) | 2.0.2.5
 
@@ -65,7 +249,7 @@ __Downloads__: 2,245 | __Repository__: https://dev.ntsystems.de/MWiedmann/nts-to
 
 NTS.Tools.MSADDS module contains functions that are mainly related to Microsoft Active Directory Domain Services
 
-__Downloads__: 2,230 | __Repository__: https://dev.ntsystems.de/MWiedmann/nts-tools
+__Downloads__: 2,235 | __Repository__: https://dev.ntsystems.de/MWiedmann/nts-tools
 
 ## [NTS.Tools.MSADCS](https://www.powershellgallery.com/Packages/NTS.Tools.MSADCS/2.0.2.5) | 2.0.2.5
 
@@ -73,7 +257,7 @@ __Downloads__: 2,230 | __Repository__: https://dev.ntsystems.de/MWiedmann/nts-to
 
 NTS.Tools.MSADCS module contains functions that are mainly related to Microsoft Active Directory Certification Services
 
-__Downloads__: 2,246 | __Repository__: https://dev.ntsystems.de/MWiedmann/nts-tools
+__Downloads__: 2,251 | __Repository__: https://dev.ntsystems.de/MWiedmann/nts-tools
 
 ## [NTS.Tools.Application](https://www.powershellgallery.com/Packages/NTS.Tools.Application/2.0.2.5) | 2.0.2.5
 
@@ -81,7 +265,7 @@ __Downloads__: 2,246 | __Repository__: https://dev.ntsystems.de/MWiedmann/nts-to
 
 NTS.Tools.Application module contains functions to install applications
 
-__Downloads__: 1,262 | __Repository__: https://dev.ntsystems.de/MWiedmann/nts-tools
+__Downloads__: 1,254 | __Repository__: https://dev.ntsystems.de/MWiedmann/nts-tools
 
 ## [NTS.Tools.General](https://www.powershellgallery.com/Packages/NTS.Tools.General/2.0.2.5) | 2.0.2.5
 
@@ -137,7 +321,7 @@ __Downloads__: 131 | __Repository__:
 
 Azure Blob NFS
 
-__Downloads__: 78 | __Repository__: https://github.com/Azure/BlobNFS-wsl2
+__Downloads__: 75 | __Repository__: https://github.com/Azure/BlobNFS-wsl2
 
 ## [DomainManagement](https://www.powershellgallery.com/Packages/DomainManagement/1.8.201) | 1.8.201
 
@@ -265,7 +449,7 @@ __Downloads__: 37,472 | __Repository__: https://github.com/echalone/PowerShell_C
 
 PowerShell module, which makes it easier to work with Business Central Containers on Docker.
 
-__Downloads__: 1,524,223 | __Repository__: 
+__Downloads__: 1,524,292 | __Repository__: 
 
 ## [celin.po](https://www.powershellgallery.com/Packages/celin.po/1.1.0) | 1.1.0
 
@@ -297,7 +481,7 @@ __Downloads__: 2 | __Repository__: https://github.com/mgajda83/IntuneDiagnosticT
 
 PowerShell cmdlets which allow to manage uniFLOW Online
 
-__Downloads__: 3,435 | __Repository__: 
+__Downloads__: 3,444 | __Repository__: 
 
 ## [WindowsDisplayManager](https://www.powershellgallery.com/Packages/WindowsDisplayManager/1.1.0) | 1.1.0
 
@@ -353,7 +537,7 @@ __Downloads__: 63 | __Repository__: https://github.com/pwshrc/poshy-coreutils-is
 
 PowerShell functions to manage a JumpCloud Directory-as-a-Service
 
-__Downloads__: 5,861,375 | __Repository__: https://github.com/TheJumpCloud/support/wiki
+__Downloads__: 5,861,373 | __Repository__: https://github.com/TheJumpCloud/support/wiki
 
 ## [Dynapro.BCModules](https://www.powershellgallery.com/Packages/Dynapro.BCModules/2.19.0) | 2.19.0
 
@@ -505,7 +689,7 @@ __Downloads__: 1,868 | __Repository__: https://github.com/AvePoint/Elements-clie
 
 ProjectWise PowerShell Cmdlets from System Architecture Group
 
-__Downloads__: 82,117 | __Repository__: 
+__Downloads__: 82,116 | __Repository__: 
 
 ## [VMware.CloudFoundation.CertificateManagement](https://www.powershellgallery.com/Packages/VMware.CloudFoundation.CertificateManagement/1.5.0.1002) | 1.5.0.1002
 
@@ -667,7 +851,7 @@ Have you ever used the Sensitivity button in a Microsoft 365 App? If so, you've 
 
 Before using the 'Unified Labeling Support Tool', please ensure to read its manual: https://aka.ms/UnifiedLabelingSupportTool
 
-__Downloads__: 3,857 | __Repository__: https://github.com/microsoft/UnifiedLabelingSupportTool
+__Downloads__: 3,858 | __Repository__: https://github.com/microsoft/UnifiedLabelingSupportTool
 
 ## [SdnDiagnostics](https://www.powershellgallery.com/Packages/SdnDiagnostics/3.2312.873.83631) | 3.2312.873.83631
 
@@ -685,14 +869,6 @@ A PowerShell toolbox for Microsoft 365 security fans.
 
 __Downloads__: 22,398 | __Repository__: https://github.com/DanielChronlund/DCToolbox
 
-## [PSGitAlias](https://www.powershellgallery.com/Packages/PSGitAlias/0.0.3) | 0.0.3
-
-### Published: 12/05/2023 01:31:29 by Tuncle
-
-Git Alias
-
-__Downloads__: 13 | __Repository__: 
-
 ## [PSPoshDad](https://www.powershellgallery.com/Packages/PSPoshDad/0.2.31.30) | 0.2.31.30
 
 ### Published: 12/05/2023 00:16:38 by Tanner Schmidt
@@ -708,14 +884,6 @@ __Downloads__: 12 | __Repository__:
 Titan API Powershell SDK
 
 __Downloads__: 39 | __Repository__: https://github.com/southrivertech/titanapi.pub
-
-## [VenafiPS](https://www.powershellgallery.com/Packages/VenafiPS/6.0.4) | 6.0.4
-
-### Published: 12/04/2023 22:46:15 by Venafi
-
-Automate your Venafi TLS Protect Datacenter and Cloud platforms!
-
-__Downloads__: 7,838 | __Repository__: https://github.com/Venafi/VenafiPS
 
 ## [OCI.PSModules](https://www.powershellgallery.com/Packages/OCI.PSModules/72.0.0) | 72.0.0
 
@@ -1029,14 +1197,6 @@ __Downloads__: 3,999 | __Repository__: https://github.com/oracle/oci-powershell-
 This modules provides Cmdlets for OCI Opensearch Service
 
 __Downloads__: 2,200 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Opa](https://www.powershellgallery.com/Packages/OCI.PSModules.Opa/72.0.0) | 72.0.0
-
-### Published: 12/04/2023 20:22:19 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Opa Service
-
-__Downloads__: 2,100 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
 ## [OCI.PSModules.Ons](https://www.powershellgallery.com/Packages/OCI.PSModules.Ons/72.0.0) | 72.0.0
 
@@ -1796,7 +1956,7 @@ __Downloads__: 90,632 | __Repository__: https://github.com/oracle/oci-powershell
 
 Orchestrate driver, BIOS/UEFI and firmware updates for Lenovo computers 👨‍💻
 
-__Downloads__: 18,173,331 | __Repository__: https://www.github.com/jantari/LSUClient
+__Downloads__: 18,172,915 | __Repository__: https://www.github.com/jantari/LSUClient
 
 ## [RiverMeadow.Development.Migrate](https://www.powershellgallery.com/Packages/RiverMeadow.Development.Migrate/1.0.119.425) | 1.0.119.425
 
@@ -1838,194 +1998,12 @@ CMDlets to manage SCEPman (https://scepman.com/) installations
 
 __Downloads__: 5,713 | __Repository__: https://scepman.com/
 
-## [d365fo.tools](https://www.powershellgallery.com/Packages/d365fo.tools/0.7.6) | 0.7.6
+## [PowerShell.GitLab.Utility](https://www.powershellgallery.com/Packages/PowerShell.GitLab.Utility/0.0.4) | 0.0.4
 
-### Published: 12/04/2023 10:41:39 by Mötz Jensen & Rasmus Andersen
+### Published: 12/04/2023 11:49:24 by Chendrayan Venkatesan
 
-A set of tools that will assist you when working with Dynamics 365 Finance & Operations development / demo machines.
+This PowerShell utility to work with GitLab, and the cmdlets are built using the GraphQL.
 
-__Downloads__: 211,369 | __Repository__: https://github.com/d365collaborative/d365fo.tools
+__Downloads__: 13 | __Repository__: https://github.com/ChendrayanV/PowerShell.GitLab.Utility
 
-## [RiverMeadow.Release.Migrate](https://www.powershellgallery.com/Packages/RiverMeadow.Release.Migrate/1.0.118.423) | 1.0.118.423
-
-### Published: 12/04/2023 10:04:31 by RiverMeadow Engineering Team
-
-Provides cmdlets for starting migration of applications to supported clouds using the RiverMeadow platform.
-
-__Downloads__: 287 | __Repository__: https://migrate.rivermeadow.com/
-
-## [WozTools](https://www.powershellgallery.com/Packages/WozTools/3.0.1) | 3.0.1
-
-### Published: 12/04/2023 09:10:31 by Woz
-
-FYI: These are functions for personal use and may not work without minor alterations
-
-__Downloads__: 665 | __Repository__: https://github.com/Woznet/WozTools
-
-## [code365scripts.openai](https://www.powershellgallery.com/Packages/code365scripts.openai/2.0.0.1) | 2.0.0.1
-
-### Published: 12/04/2023 08:59:40 by chenxizhang
-
-The non-official OpenAI PowerShell module. This module is used to interact with OpenAI API.
-    
-    Changelogs:
-    - 2023-12-04    v2.0.0.1    Fix a bug (speical character parameter definition, caused by the PowerShell 5.x compatibility)
-    - 2023-12-03    v2.0.0.0    Add file input function, and custom profile support, and telemetry collection support.
-    - 2023-11-26    v1.1.1.4    PowerShell 5.x supports.
-    - 2023-11-26    v1.1.1.3    Multiple environment and DALL-E 3 support, and fix a lot of bugs.
-    - 2023-10-23    v1.1.1.2    Fix a bug (ConvertTo-Json truncate the result)
-    - 2023-09-25    v1.1.1.1    Fix a bug (New-ImageGeneration, or image alias)
-    - 2023-09-24    v1.1.1.0    Add image generation support (New-ImageGeneration, or image alias)
-    - 2023-09-23    v1.1.0.9    Add dynamic configuration support for New-ChatGPTConversation,see -config parameter
-    - 2023-09-17    v1.1.0.8    Add verbose support
-    - 2023-09-10    v1.1.0.7    Fix the help doc for New-ChatGPTConversation
-    - 2023-09-06    v1.1.0.6    Bug fix
-    - 2023-09-06    v1.1.0.5    Added chat completion support.
-    - 2023-08-12    v1.1.0.4    Added stream support for chat
-    - 2021-05-13    v1.1.0.3    Small enhancements (save result to clipboard, print the system prompt, etc.)
-    - 2021-05-13    v1.1.0.0    Simplify the module structure
-    - 2023-05-07    v1.0.4.12   Fixed the network connectivity test logic
-    - 2023-05-07    v1.0.4.11   Added azure OpenAI supporrt for New-ChatGPTConversation function
-    - 2023-05-07    v1.0.4.10   Added network connectivity test logic
-    - 2023-03-09    v1.0.4.9    Added change logs in the description.
-    - 2023-03-08    v1.0.4.8    Added error handling.
-
-__Downloads__: 54,742 | __Repository__: https://github.com/chenxizhang/openai-powershell/
-
-## [TisaneLocal](https://www.powershellgallery.com/Packages/TisaneLocal/7.0.1) | 7.0.1
-
-### Published: 12/04/2023 06:49:49 by CR
-
-Scripts for local Tisane Use
-
-__Downloads__: 80 | __Repository__: 
-
-## [hugoalh.GitHubActionsToolkit](https://www.powershellgallery.com/Packages/hugoalh.GitHubActionsToolkit/2.0.0) | 2.0.0
-
-### Published: 12/04/2023 03:55:35 by hugoalh
-
-Provide a better and easier way for GitHub Actions to communicate with the runner machine, and the toolkit for developing GitHub Actions in PowerShell.
-
-__Downloads__: 124,952 | __Repository__: https://github.com/hugoalh-studio/ghactions-toolkit-powershell
-
-## [ExchangeEssentials](https://www.powershellgallery.com/Packages/ExchangeEssentials/0.17.0) | 0.17.0
-
-### Published: 12/03/2023 21:14:40 by Przemyslaw Klys
-
-ExchangeEssentials
-
-__Downloads__: 120 | __Repository__: https://github.com/EvotecIT/ExchangeEssentials
-
-## [Foil](https://www.powershellgallery.com/Packages/Foil/0.3.1) | 0.3.1
-
-### Published: 12/03/2023 21:07:19 by Ethan Bergstrom
-
-A PowerShell Crescendo wrapper for Chocolatey
-
-__Downloads__: 8,806,343 | __Repository__: https://github.com/ethanbergstrom/Foil
-
-## [IntuneWin32Deployer](https://www.powershellgallery.com/Packages/IntuneWin32Deployer/23.12.3.1) | 23.12.3.1
-
-### Published: 12/03/2023 14:20:54 by Florian Salzmann
-
-Manage, create and upload win32 applications to Intune
-
-__Downloads__: 139 | __Repository__: https://github.com/FlorianSLZ/IntuneWin32Deployer
-
-## [MiniGraph](https://www.powershellgallery.com/Packages/MiniGraph/1.3.13) | 1.3.13
-
-### Published: 12/03/2023 11:38:56 by Friedrich Weinmann
-
-Minimal query infrastructure for interacting with MS Graph
-
-__Downloads__: 2,694 | __Repository__: https://github.com/FriedrichWeinmann/MiniGraph
-
-## [BrowserExtensionReporting](https://www.powershellgallery.com/Packages/BrowserExtensionReporting/1.0.0) | 1.0.0
-
-### Published: 12/03/2023 02:08:31 by Jose Schenardie @schenardie
-
-Report on installed browser extensions
-
-__Downloads__: 10 | __Repository__: https://github.com/schenardie/BrowserExtensionReporting
-
-## [commitfusion](https://www.powershellgallery.com/Packages/commitfusion/0.3.2.0) | 0.3.2.0
-
-### Published: 12/02/2023 21:13:15 by Garvey k. Snow
-
-Conventional Commit Message Generator
-
-__Downloads__: 4 | __Repository__: https://github.com/sgkens/commitfusion.git
-
-## [O365Synchronizer](https://www.powershellgallery.com/Packages/O365Synchronizer/0.0.4) | 0.0.4
-
-### Published: 12/02/2023 18:57:28 by Przemyslaw Klys
-
-This module allows to synchronize users to/from Office 365. You can synchronize users information to personal contacts or synchronize tenants between each other.
-
-__Downloads__: 31 | __Repository__: https://github.com/EvotecIT/O365Synchronizer
-
-## [Evergreen](https://www.powershellgallery.com/Packages/Evergreen/2312.878) | 2312.878
-
-### Published: 12/02/2023 05:22:17 by Aaron Parker
-
-Create evergreen Windows image builds with the latest versions of applications. Evergreen is a simple PowerShell module that retrieves the latest version numbers and download URLs for various software products directly from the vendor source.
-
-__Downloads__: 2,347,185 | __Repository__: https://stealthpuppy.com/evergreen/
-
-## [pwsh-dotenv](https://www.powershellgallery.com/Packages/pwsh-dotenv/1.0.2) | 1.0.2
-
-### Published: 12/02/2023 04:49:26 by sawamura
-
-This module loads the .env file and reflects it in the environment variables.
-
-__Downloads__: 21 | __Repository__: https://gitlab.com/kamiyonanayo/pwsh-dotenv
-
-## [PSAction1](https://www.powershellgallery.com/Packages/PSAction1/1.2.6) | 1.2.6
-
-### Published: 12/02/2023 03:13:23 by Gene Moody
-
-API Interface for Action1
-
-__Downloads__: 29 | __Repository__: 
-
-## [ConnectWiseManageAPI](https://www.powershellgallery.com/Packages/ConnectWiseManageAPI/0.4.14.0) | 0.4.14.0
-
-### Published: 12/01/2023 22:24:20 by Chris Taylor
-
-PowerShell wrapper for the ConnectWise Manage REST API
-
-__Downloads__: 141,836 | __Repository__: https://github.com/christaylorcodes/ConnectWiseManageAPI
-
-## [AzureDataLakeManagement](https://www.powershellgallery.com/Packages/AzureDataLakeManagement/2023.12.3) | 2023.12.3
-
-### Published: 12/01/2023 21:04:19 by Steve Carroll
-
-Azure Data Lake Management Module
-
-__Downloads__: 23 | __Repository__: https://github.com/SteveCInVA/AzureDataLakeManagement
-
-## [ConnectWiseAutomateAgent](https://www.powershellgallery.com/Packages/ConnectWiseAutomateAgent/0.1.3.0) | 0.1.3.0
-
-### Published: 12/01/2023 20:52:46 by Chris Taylor
-
-PowerShell module for working with the ConnectWise Automate Agent.
-
-__Downloads__: 1,433,273 | __Repository__: https://github.com/christaylorcodes/ConnectWiseAutomateAgent
-
-## [Particular.ServiceControl.Management](https://www.powershellgallery.com/Packages/Particular.ServiceControl.Management/5.0.0) | 5.0.0
-
-### Published: 12/01/2023 20:50:47 by Particular Software
-
-ServiceControl Management
-
-__Downloads__: 913 | __Repository__: https://github.com/Particular/ServiceControl
-
-## [Microsoft.AVS.Management](https://www.powershellgallery.com/Packages/Microsoft.AVS.Management/6.0.112) | 6.0.112
-
-### Published: 12/01/2023 19:46:50 by David Becher
-
-Various cmdlets for adminstrator level tasks in managing Azure VMware Solutions
-
-__Downloads__: 27,486 | __Repository__: https://github.com/Azure/Microsoft.AVS.Management
-
-*Updated: Saturday, 09 December 2023 02:04:02 UTC*
+*Updated: Saturday, 09 December 2023 09:52:19 UTC*
