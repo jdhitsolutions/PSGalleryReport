@@ -25,7 +25,7 @@ __Downloads__: 26,232 | __Repository__: https://dev.azure.com/virtual-engine/PSR
 
 NTS.Tools module contains tools for ConfigMgr and course deployment
 
-__Downloads__: 2,303 | __Repository__: https://dev.ntsystems.de/MWiedmann/nts-tools
+__Downloads__: 2,298 | __Repository__: https://dev.ntsystems.de/MWiedmann/nts-tools
 
 ## [NTS.Tools.MSSQL](https://www.powershellgallery.com/Packages/NTS.Tools.MSSQL/2.0.2.5) | 2.0.2.5
 
@@ -41,7 +41,7 @@ __Downloads__: 2,246 | __Repository__: https://dev.ntsystems.de/MWiedmann/nts-to
 
 NTS.Tools.MSHyperV module contains functions that are mainly related to Microsoft Hyper-V
 
-__Downloads__: 2,287 | __Repository__: https://dev.ntsystems.de/MWiedmann/nts-tools
+__Downloads__: 2,282 | __Repository__: https://dev.ntsystems.de/MWiedmann/nts-tools
 
 ## [NTS.Tools.MSExchange](https://www.powershellgallery.com/Packages/NTS.Tools.MSExchange/2.0.2.5) | 2.0.2.5
 
@@ -81,7 +81,7 @@ __Downloads__: 2,246 | __Repository__: https://dev.ntsystems.de/MWiedmann/nts-to
 
 NTS.Tools.Application module contains functions to install applications
 
-__Downloads__: 1,256 | __Repository__: https://dev.ntsystems.de/MWiedmann/nts-tools
+__Downloads__: 1,262 | __Repository__: https://dev.ntsystems.de/MWiedmann/nts-tools
 
 ## [NTS.Tools.General](https://www.powershellgallery.com/Packages/NTS.Tools.General/2.0.2.5) | 2.0.2.5
 
@@ -89,7 +89,7 @@ __Downloads__: 1,256 | __Repository__: https://dev.ntsystems.de/MWiedmann/nts-to
 
 NTS.Tools.General module contains functions that are used for general purpose
 
-__Downloads__: 2,504 | __Repository__: https://dev.ntsystems.de/MWiedmann/nts-tools
+__Downloads__: 2,509 | __Repository__: https://dev.ntsystems.de/MWiedmann/nts-tools
 
 ## [PoshToolbox](https://www.powershellgallery.com/Packages/PoshToolbox/4.2.0) | 4.2.0
 
@@ -137,7 +137,7 @@ __Downloads__: 131 | __Repository__:
 
 Azure Blob NFS
 
-__Downloads__: 76 | __Repository__: https://github.com/Azure/BlobNFS-wsl2
+__Downloads__: 78 | __Repository__: https://github.com/Azure/BlobNFS-wsl2
 
 ## [DomainManagement](https://www.powershellgallery.com/Packages/DomainManagement/1.8.201) | 1.8.201
 
@@ -257,7 +257,7 @@ __Downloads__: 2,493 | __Repository__:
 
 Provides access to credentials in the Windows Credential Manager (continuation of CredentialManager by Dave Garnar)
 
-__Downloads__: 37,471 | __Repository__: https://github.com/echalone/PowerShell_Credential_Manager
+__Downloads__: 37,472 | __Repository__: https://github.com/echalone/PowerShell_Credential_Manager
 
 ## [BcContainerHelper](https://www.powershellgallery.com/Packages/BcContainerHelper/6.0.2) | 6.0.2
 
@@ -265,7 +265,7 @@ __Downloads__: 37,471 | __Repository__: https://github.com/echalone/PowerShell_C
 
 PowerShell module, which makes it easier to work with Business Central Containers on Docker.
 
-__Downloads__: 1,524,202 | __Repository__: 
+__Downloads__: 1,524,223 | __Repository__: 
 
 ## [celin.po](https://www.powershellgallery.com/Packages/celin.po/1.1.0) | 1.1.0
 
@@ -329,7 +329,7 @@ __Downloads__: 213 | __Repository__: https://github.com/bepsoccer/verkadaModule
 
 DSC composite resource for configuring Microsoft 365
 
-__Downloads__: 160 | __Repository__: https://github.com/ykuijs/M365DSC.CompositeResources
+__Downloads__: 158 | __Repository__: https://github.com/ykuijs/M365DSC.CompositeResources
 
 ## [MyPSFunctions](https://www.powershellgallery.com/Packages/MyPSFunctions/1.0.1.8) | 1.0.1.8
 
@@ -353,7 +353,7 @@ __Downloads__: 63 | __Repository__: https://github.com/pwshrc/poshy-coreutils-is
 
 PowerShell functions to manage a JumpCloud Directory-as-a-Service
 
-__Downloads__: 5,861,370 | __Repository__: https://github.com/TheJumpCloud/support/wiki
+__Downloads__: 5,861,375 | __Repository__: https://github.com/TheJumpCloud/support/wiki
 
 ## [Dynapro.BCModules](https://www.powershellgallery.com/Packages/Dynapro.BCModules/2.19.0) | 2.19.0
 
@@ -497,7 +497,7 @@ __Downloads__: 62 | __Repository__: https://github.com/team-gsri/arma3-server-ma
 
 Elements.Client - the PowerShell module for Elements SDK API
 
-__Downloads__: 1,864 | __Repository__: https://github.com/AvePoint/Elements-client
+__Downloads__: 1,868 | __Repository__: https://github.com/AvePoint/Elements-client
 
 ## [pwps_dab](https://www.powershellgallery.com/Packages/pwps_dab/23.3.5) | 23.3.5
 
@@ -505,7 +505,7 @@ __Downloads__: 1,864 | __Repository__: https://github.com/AvePoint/Elements-clie
 
 ProjectWise PowerShell Cmdlets from System Architecture Group
 
-__Downloads__: 82,116 | __Repository__: 
+__Downloads__: 82,117 | __Repository__: 
 
 ## [VMware.CloudFoundation.CertificateManagement](https://www.powershellgallery.com/Packages/VMware.CloudFoundation.CertificateManagement/1.5.0.1002) | 1.5.0.1002
 
@@ -667,7 +667,7 @@ Have you ever used the Sensitivity button in a Microsoft 365 App? If so, you've 
 
 Before using the 'Unified Labeling Support Tool', please ensure to read its manual: https://aka.ms/UnifiedLabelingSupportTool
 
-__Downloads__: 3,858 | __Repository__: https://github.com/microsoft/UnifiedLabelingSupportTool
+__Downloads__: 3,857 | __Repository__: https://github.com/microsoft/UnifiedLabelingSupportTool
 
 ## [SdnDiagnostics](https://www.powershellgallery.com/Packages/SdnDiagnostics/3.2312.873.83631) | 3.2312.873.83631
 
@@ -1796,7 +1796,7 @@ __Downloads__: 90,632 | __Repository__: https://github.com/oracle/oci-powershell
 
 Orchestrate driver, BIOS/UEFI and firmware updates for Lenovo computers 👨‍💻
 
-__Downloads__: 18,173,518 | __Repository__: https://www.github.com/jantari/LSUClient
+__Downloads__: 18,173,331 | __Repository__: https://www.github.com/jantari/LSUClient
 
 ## [RiverMeadow.Development.Migrate](https://www.powershellgallery.com/Packages/RiverMeadow.Development.Migrate/1.0.119.425) | 1.0.119.425
 
@@ -1812,7 +1812,7 @@ __Downloads__: 505 | __Repository__: https://migrate.rivermeadow.com/
 
 Module for PowerShell Universal.
 
-__Downloads__: 58,923 | __Repository__: https://ironmansoftware.com/powershell-universal
+__Downloads__: 58,920 | __Repository__: https://ironmansoftware.com/powershell-universal
 
 ## [EntraIDUnifier](https://www.powershellgallery.com/Packages/EntraIDUnifier/1.0.0) | 1.0.0
 
@@ -1838,21 +1838,13 @@ CMDlets to manage SCEPman (https://scepman.com/) installations
 
 __Downloads__: 5,713 | __Repository__: https://scepman.com/
 
-## [PowerShell.GitLab.Utility](https://www.powershellgallery.com/Packages/PowerShell.GitLab.Utility/0.0.4) | 0.0.4
-
-### Published: 12/04/2023 11:49:24 by Chendrayan Venkatesan
-
-This PowerShell utility to work with GitLab, and the cmdlets are built using the GraphQL.
-
-__Downloads__: 13 | __Repository__: https://github.com/ChendrayanV/PowerShell.GitLab.Utility
-
 ## [d365fo.tools](https://www.powershellgallery.com/Packages/d365fo.tools/0.7.6) | 0.7.6
 
 ### Published: 12/04/2023 10:41:39 by Mötz Jensen & Rasmus Andersen
 
 A set of tools that will assist you when working with Dynamics 365 Finance & Operations development / demo machines.
 
-__Downloads__: 211,353 | __Repository__: https://github.com/d365collaborative/d365fo.tools
+__Downloads__: 211,369 | __Repository__: https://github.com/d365collaborative/d365fo.tools
 
 ## [RiverMeadow.Release.Migrate](https://www.powershellgallery.com/Packages/RiverMeadow.Release.Migrate/1.0.118.423) | 1.0.118.423
 
@@ -1914,7 +1906,7 @@ __Downloads__: 80 | __Repository__:
 
 Provide a better and easier way for GitHub Actions to communicate with the runner machine, and the toolkit for developing GitHub Actions in PowerShell.
 
-__Downloads__: 124,959 | __Repository__: https://github.com/hugoalh-studio/ghactions-toolkit-powershell
+__Downloads__: 124,952 | __Repository__: https://github.com/hugoalh-studio/ghactions-toolkit-powershell
 
 ## [ExchangeEssentials](https://www.powershellgallery.com/Packages/ExchangeEssentials/0.17.0) | 0.17.0
 
@@ -1930,7 +1922,7 @@ __Downloads__: 120 | __Repository__: https://github.com/EvotecIT/ExchangeEssenti
 
 A PowerShell Crescendo wrapper for Chocolatey
 
-__Downloads__: 8,806,362 | __Repository__: https://github.com/ethanbergstrom/Foil
+__Downloads__: 8,806,343 | __Repository__: https://github.com/ethanbergstrom/Foil
 
 ## [IntuneWin32Deployer](https://www.powershellgallery.com/Packages/IntuneWin32Deployer/23.12.3.1) | 23.12.3.1
 
@@ -1978,7 +1970,7 @@ __Downloads__: 31 | __Repository__: https://github.com/EvotecIT/O365Synchronizer
 
 Create evergreen Windows image builds with the latest versions of applications. Evergreen is a simple PowerShell module that retrieves the latest version numbers and download URLs for various software products directly from the vendor source.
 
-__Downloads__: 2,347,201 | __Repository__: https://stealthpuppy.com/evergreen/
+__Downloads__: 2,347,185 | __Repository__: https://stealthpuppy.com/evergreen/
 
 ## [pwsh-dotenv](https://www.powershellgallery.com/Packages/pwsh-dotenv/1.0.2) | 1.0.2
 
@@ -2002,7 +1994,7 @@ __Downloads__: 29 | __Repository__:
 
 PowerShell wrapper for the ConnectWise Manage REST API
 
-__Downloads__: 141,956 | __Repository__: https://github.com/christaylorcodes/ConnectWiseManageAPI
+__Downloads__: 141,836 | __Repository__: https://github.com/christaylorcodes/ConnectWiseManageAPI
 
 ## [AzureDataLakeManagement](https://www.powershellgallery.com/Packages/AzureDataLakeManagement/2023.12.3) | 2023.12.3
 
@@ -2018,7 +2010,7 @@ __Downloads__: 23 | __Repository__: https://github.com/SteveCInVA/AzureDataLakeM
 
 PowerShell module for working with the ConnectWise Automate Agent.
 
-__Downloads__: 1,433,271 | __Repository__: https://github.com/christaylorcodes/ConnectWiseAutomateAgent
+__Downloads__: 1,433,273 | __Repository__: https://github.com/christaylorcodes/ConnectWiseAutomateAgent
 
 ## [Particular.ServiceControl.Management](https://www.powershellgallery.com/Packages/Particular.ServiceControl.Management/5.0.0) | 5.0.0
 
@@ -2028,4 +2020,12 @@ ServiceControl Management
 
 __Downloads__: 913 | __Repository__: https://github.com/Particular/ServiceControl
 
-*Updated: Friday, 08 December 2023 17:52:16 UTC*
+## [Microsoft.AVS.Management](https://www.powershellgallery.com/Packages/Microsoft.AVS.Management/6.0.112) | 6.0.112
+
+### Published: 12/01/2023 19:46:50 by David Becher
+
+Various cmdlets for adminstrator level tasks in managing Azure VMware Solutions
+
+__Downloads__: 27,486 | __Repository__: https://github.com/Azure/Microsoft.AVS.Management
+
+*Updated: Saturday, 09 December 2023 02:04:02 UTC*

@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Friday, 08 December 2023 17:52:26 UTC
+Updated: Saturday, 09 December 2023 02:04:12 UTC
 
 .bat
 .env
@@ -259,7 +259,6 @@ al
 alac
 alarm
 alb
-albums
 alc
 alero
 alert
@@ -289,6 +288,7 @@ alter
 alteryx
 alwaysontop
 alwaysonvpn
+alz
 amateur
 amateur-data-interchange-format
 amateur-radio
@@ -299,6 +299,7 @@ amazonmgn
 amazonwebservices
 amend
 ami
+amiga
 amp
 amqp
 amsi
@@ -456,7 +457,6 @@ artifacts
 aruba
 as
 asa
-asa.unittest
 asana
 asbuiltreport
 asc
@@ -501,6 +501,7 @@ atlassian
 atlassiancli
 atlassianps
 atmosphere
+atom
 atp
 atrium
 att&ck
@@ -519,7 +520,6 @@ auditpolicies
 auditpolicy
 audits
 aumid
-aut
 auth
 auth0
 authenticate
@@ -906,6 +906,7 @@ builder
 building
 buildingfile
 buildingmapping
+buildkit
 buildkite
 buildmaster
 builds
@@ -1025,7 +1026,6 @@ cer
 cert
 certbasedauth
 certera
-certes
 certificate
 certificateauthority
 certificatechain
@@ -1203,7 +1203,6 @@ cloudservice
 cloudshell
 clueser
 cluster
-clusterminimumvalues
 clusterplugins
 cmaccounts
 cmake
@@ -1414,7 +1413,6 @@ controller
 controlroom
 conventional
 conventional-commits
-convereter
 converged_data_management
 conversational
 conversion
@@ -1564,13 +1562,9 @@ culture
 cumulative
 cumulativeupdate
 cumulocity
-curious
 curl
 curlie
 currency
-currency-convereter
-currency-exchange
-currencyconverterapi
 current
 curseforge
 custom
@@ -1624,16 +1618,14 @@ dac
 dacfx
 dacl
 dacpac
-dacpackage
+dagger
 daily
 dane
 dangling
 dapr
-dare
 dark
 dash
 dashboard
-dashboardapi
 dashboardservice
 dast
 data
@@ -1662,7 +1654,6 @@ datacollectionrule
 dataconduit
 dataconnectivity
 datadog
-dataexchange
 dataexplorer
 datafactory
 dataflow
@@ -2259,6 +2250,7 @@ espressif
 esri
 essbase
 estimate
+estimation
 esx
 esxi
 eternalblue
@@ -2315,7 +2307,6 @@ exception
 exceptionless
 exchange
 exchange_online
-exchange-rates
 exchange2010
 exchange2013
 exchange2016
@@ -2401,6 +2392,7 @@ factoryorchestratorclient
 facts
 faf
 failedlogin
+failure
 falcon
 fallbackstatuspoint
 fanarttv
@@ -2540,7 +2532,6 @@ flac
 flash
 flasharray
 flashblade
-flatfile
 flatten
 fleetsoftwareupdate
 flex
@@ -2876,7 +2867,6 @@ gtx1080ti
 guardedfabric
 guardicore
 gubbins
-guest
 guestconfiguration
 guests
 gui
@@ -2921,7 +2911,6 @@ har
 hard
 hardblock
 harden
-harden-windows-security
 hardening
 hardlink
 hardmatch
@@ -3027,7 +3016,6 @@ hls
 hockey
 hol
 holiday
-home
 home_automation
 homebrew
 homelandsecurity
@@ -3207,7 +3195,6 @@ imei
 imi
 impala
 impersonation
-imperva
 import
 import-csv
 import-dtdriverpackpackagedefinitionsms
@@ -3356,7 +3343,6 @@ ipbroadcast
 ipc
 ipcalc
 ipcalculator
-ipconfig
 iperf
 ipfy.org
 iphone
@@ -3560,7 +3546,6 @@ kudu
 kurukuru
 kusto
 kvm
-kvp
 l1tf
 l2tp
 lab
@@ -3582,6 +3567,7 @@ lame
 lametrictime
 lamp
 lan
+landingzones
 language
 languagedsc
 languageexperiencepack
@@ -3591,8 +3577,6 @@ laps
 laragon
 laserbeams
 last
-last.fm
-lastfm
 lastlogon
 lastpass
 latency
@@ -3793,6 +3777,7 @@ loopback
 loremipsum
 love
 lovequotes
+lpsiamol
 ls
 lsa
 lsasecrets
@@ -3800,6 +3785,7 @@ lsd
 ltm
 lucd
 lucene
+lunches
 lwa
 lxca
 lxcapstool
@@ -3932,7 +3918,6 @@ mdatp
 mdb
 mdbc
 mde
-mdep
 mdm
 mdop
 mdt
@@ -3948,6 +3933,7 @@ mediant
 mediaplayer
 mediaservices
 mediawiki
+meditation
 meesman
 meeting
 meetup
@@ -3968,7 +3954,6 @@ mention
 menu
 menus
 meraki
-merakiapi
 mercurial
 merge
 mermaid
@@ -4300,6 +4285,7 @@ network-credentials
 network-info
 networkanalytics
 networkcloud
+networkcontroller
 networkdiscovery
 networkdrives
 networkfirewall
@@ -4376,8 +4362,6 @@ nord
 nordtools
 normal
 norskale
-norway
-norwegian
 nosql
 note
 notebook
@@ -4856,7 +4840,6 @@ play
 playback
 playbook
 player
-playlists
 pleasant
 pleasantpasswordserver
 plex
@@ -4910,6 +4893,7 @@ ports
 portscan
 porttest
 pos
+posershellise
 posh
 posh-acme
 posh-cats
@@ -5033,8 +5017,6 @@ powershell-dsc
 powershell-examples
 powershell-gallery
 powershell-github-repo
-powershell-gitlab
-powershell-graphql
 powershell-isprime
 powershell-lightning
 powershell-module
@@ -5075,6 +5057,7 @@ powertab
 powertoolcmdlets
 powertooldsc
 ppdm
+ppk
 pposh
 pps
 ppt
@@ -5125,7 +5108,6 @@ private-key
 privatedns
 privatekey
 privatemethods
-privateprofilestring
 privilege
 privilegecloud
 privileged
@@ -8499,7 +8481,6 @@ resize
 resolution
 resolve
 resolve-stache
-resolve-template
 resolver
 resource
 resource_monitor
@@ -8766,6 +8747,7 @@ scriptcreation
 scriptcs
 scriptedui
 scripting
+scriptlogging
 scriptoform
 scriptrunner
 scripts
@@ -8813,12 +8795,10 @@ securegopher+
 securemfa
 securerdp
 securescore
-securesphere
 securestring
 security
 security-awareness-training
 security-policy
-security-score
 security-txt
 security.txt
 securityassertionmarkuplanguage
@@ -9245,10 +9225,10 @@ sqlite
 sqlitebynarymodule
 sqlitebynarypsmodule
 sqlitemodule
+sqllocaldb
 sqlpackage
 sqlplus
 sqlproj
-sqlproject
 sqlps
 sqlserver
 sqlserveragent
@@ -9628,6 +9608,7 @@ tests
 testsuite
 testtag1
 testtag2
+testtool
 testusers
 text
 text-to-image
@@ -9949,7 +9930,6 @@ unit_testing
 unit-testing
 unitconvesion
 unittest
-unittesting
 unity
 universal
 universal-automation
@@ -10265,6 +10245,7 @@ warplaneporn
 warranty
 warraty
 warrenty
+wasabi
 watch
 watchmen
 watery
@@ -10551,7 +10532,6 @@ wunderlist
 wus
 wvd
 www
-x-cart
 x.509
 x1
 x2
