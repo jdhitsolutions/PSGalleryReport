@@ -3,6 +3,38 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [Test-PowerPing](https://www.powershellgallery.com/Packages/Test-PowerPing/1.3.0.0) | 1.3.0.0
+
+### Published: 12/09/2023 20:38:18 by Hunter Hirsch
+
+Sends single pings asynchronously to remote computers to determine network accessibility. Can be used as IP range scanner, ping utility, CIDR calculator, or address list generator. Returns simple ping results (Status,IPv4Address,DeviceName,Time) with status codes.
+
+__Downloads__: 37 | __Repository__: https://www.powershellgallery.com/packages/Test-PowerPing
+
+## [AOVPNTools](https://www.powershellgallery.com/Packages/AOVPNTools/1.8) | 1.8
+
+### Published: 12/09/2023 19:54:11 by Richard M. Hicks
+
+PowerShell module for configuring and optimizing Windows Server Routing and Remote Access Service (RRAS) for Always On VPN.
+
+__Downloads__: 2,110 | __Repository__: https://github.com/richardhicks/aovpntools
+
+## [Secretify](https://www.powershellgallery.com/Packages/Secretify/1.0) | 1.0
+
+### Published: 12/09/2023 18:49:21 by Gravitir AG
+
+The safe way to share or transfer secrets.
+
+__Downloads__: 0 | __Repository__: 
+
+## [Hopp.Automation](https://www.powershellgallery.com/Packages/Hopp.Automation/2.1.0) | 2.1.0
+
+### Published: 12/09/2023 18:19:53 by Hopp Tech Ltd
+
+Powershell module providing cmdlets to automate migration jobs in Hopp
+
+__Downloads__: 0 | __Repository__: 
+
 ## [PSCompletions](https://www.powershellgallery.com/Packages/PSCompletions/3.0.1) | 3.0.1
 
 ### Published: 12/09/2023 16:02:40 by abgox
@@ -289,7 +321,7 @@ __Downloads__: 2,273 | __Repository__: https://dev.ntsystems.de/MWiedmann/nts-to
 
 NTS.Tools.Application module contains functions to install applications
 
-__Downloads__: 1,281 | __Repository__: https://dev.ntsystems.de/MWiedmann/nts-tools
+__Downloads__: 1,283 | __Repository__: https://dev.ntsystems.de/MWiedmann/nts-tools
 
 ## [NTS.Tools.General](https://www.powershellgallery.com/Packages/NTS.Tools.General/2.0.2.5) | 2.0.2.5
 
@@ -457,7 +489,7 @@ __Downloads__: 37,640 | __Repository__: https://github.com/echalone/PowerShell_C
 
 PowerShell module, which makes it easier to work with Business Central Containers on Docker.
 
-__Downloads__: 1,526,623 | __Repository__: 
+__Downloads__: 1,526,544 | __Repository__: 
 
 ## [celin.po](https://www.powershellgallery.com/Packages/celin.po/1.1.0) | 1.1.0
 
@@ -466,14 +498,6 @@ __Downloads__: 1,526,623 | __Repository__:
 Merge PSCustomObjects and HashTables
 
 __Downloads__: 14 | __Repository__: https://celin.io/celin.pwsh/
-
-## [IAMClient](https://www.powershellgallery.com/Packages/IAMClient/2.2.1) | 2.2.1
-
-### Published: 12/07/2023 10:31:06 by Aurel Schwitter & Joel Grand
-
-PowerShell module to access the IAM API
-
-__Downloads__: 836 | __Repository__: https://gitlab.ethz.ch/iamclient/iam-powershell
 
 ## [IntuneDiagnosticTools](https://www.powershellgallery.com/Packages/IntuneDiagnosticTools/1.0.0.0) | 1.0.0.0
 
@@ -545,7 +569,7 @@ __Downloads__: 63 | __Repository__: https://github.com/pwshrc/poshy-coreutils-is
 
 PowerShell functions to manage a JumpCloud Directory-as-a-Service
 
-__Downloads__: 5,861,530 | __Repository__: https://github.com/TheJumpCloud/support/wiki
+__Downloads__: 5,861,531 | __Repository__: https://github.com/TheJumpCloud/support/wiki
 
 ## [Dynapro.BCModules](https://www.powershellgallery.com/Packages/Dynapro.BCModules/2.19.0) | 2.19.0
 
@@ -697,7 +721,7 @@ __Downloads__: 1,933 | __Repository__: https://github.com/AvePoint/Elements-clie
 
 ProjectWise PowerShell Cmdlets from System Architecture Group
 
-__Downloads__: 82,184 | __Repository__: 
+__Downloads__: 82,185 | __Repository__: 
 
 ## [VMware.CloudFoundation.CertificateManagement](https://www.powershellgallery.com/Packages/VMware.CloudFoundation.CertificateManagement/1.5.0.1002) | 1.5.0.1002
 
@@ -841,7 +865,7 @@ __Downloads__: 17,396 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions for management of endpoints
 
-__Downloads__: 19,437 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 19,398 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.ActiveDirectory](https://www.powershellgallery.com/Packages/AdminToolbox.ActiveDirectory/1.9.115) | 1.9.115
 
@@ -1260,7 +1284,7 @@ __Downloads__: 6,326 | __Repository__: https://github.com/oracle/oci-powershell-
 
 This modules provides Cmdlets for OCI Ocicontrolcenter Service
 
-__Downloads__: 997 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+__Downloads__: 998 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
 ## [OCI.PSModules.Oce](https://www.powershellgallery.com/Packages/OCI.PSModules.Oce/72.0.0) | 72.0.0
 
@@ -1484,7 +1508,7 @@ __Downloads__: 8,431 | __Repository__: https://github.com/oracle/oci-powershell-
 
 This modules provides Cmdlets for OCI Healthchecks Service
 
-__Downloads__: 18,477 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+__Downloads__: 18,476 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
 ## [OCI.PSModules.Governancerulescontrolplane](https://www.powershellgallery.com/Packages/OCI.PSModules.Governancerulescontrolplane/72.0.0) | 72.0.0
 
@@ -1588,7 +1612,7 @@ __Downloads__: 4,233 | __Repository__: https://github.com/oracle/oci-powershell-
 
 This modules provides Cmdlets for OCI Disasterrecovery Service
 
-__Downloads__: 1,755 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+__Downloads__: 1,756 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
 ## [OCI.PSModules.Devops](https://www.powershellgallery.com/Packages/OCI.PSModules.Devops/72.0.0) | 72.0.0
 
@@ -1982,28 +2006,4 @@ Orchestrate driver, BIOS/UEFI and firmware updates for Lenovo computers 👨‍�
 
 __Downloads__: 18,208,798 | __Repository__: https://www.github.com/jantari/LSUClient
 
-## [RiverMeadow.Development.Migrate](https://www.powershellgallery.com/Packages/RiverMeadow.Development.Migrate/1.0.119.425) | 1.0.119.425
-
-### Published: 12/04/2023 17:01:05 by RiverMeadow Engineering Team
-
-Provides cmdlets for starting migration of applications to supported clouds using the RiverMeadow platform.
-
-__Downloads__: 505 | __Repository__: https://migrate.rivermeadow.com/
-
-## [Universal](https://www.powershellgallery.com/Packages/Universal/4.2.5) | 4.2.5
-
-### Published: 12/04/2023 15:04:12 by Ironman Software
-
-Module for PowerShell Universal.
-
-__Downloads__: 59,402 | __Repository__: https://ironmansoftware.com/powershell-universal
-
-## [EntraIDUnifier](https://www.powershellgallery.com/Packages/EntraIDUnifier/1.0.0) | 1.0.0
-
-### Published: 12/04/2023 14:27:51 by Dylan McCrimmon
-
-Small PowerShell module that hard match & converts Entra ID users
-
-__Downloads__: 3 | __Repository__: https://github.com/dylanmccrimmon/EntraIDUnifier
-
-*Updated: Saturday, 09 December 2023 17:52:18 UTC*
+*Updated: Sunday, 10 December 2023 02:08:21 UTC*
