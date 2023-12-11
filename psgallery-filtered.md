@@ -3,6 +3,76 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [JyskIT.Automation](https://www.powershellgallery.com/Packages/JyskIT.Automation/0.3.9) | 0.3.9
+
+### Published: 12/11/2023 09:15:46 by Jysk IT
+
+Provides different cmdlets for automating Microsoft 365 and related services.
+
+__Downloads__: 138 | __Repository__: 
+
+## [SwaggerModule](https://www.powershellgallery.com/Packages/SwaggerModule/1.1.0) | 1.1.0
+
+### Published: 12/11/2023 09:11:10 by JensGJ
+
+Module to extract service info from a Swagger file. Written for and tested with Swagger 2.0 files since the system consuming the swagger files does not support newer versions
+
+__Downloads__: 0 | __Repository__: https://github.com/JensGJ/SwaggerModule
+
+## [terraform-tools](https://www.powershellgallery.com/Packages/terraform-tools/0.0.2) | 0.0.2
+
+### Published: 12/11/2023 08:52:17 by ptavares
+
+A Powershell module to install the following terraform tools : 
+- terraform-docs
+- tflint
+- tfsec
+- tfautomv
+- tfswitch
+It also provides some useful terraform aliases for everyday use
+
+__Downloads__: 0 | __Repository__: https://github.com/ptavares/powershell-terraform-tools
+
+## [RDG.Deployment.Utils](https://www.powershellgallery.com/Packages/RDG.Deployment.Utils/0.0.12) | 0.0.12
+
+### Published: 12/11/2023 07:21:41 by kristoffersvanmark
+
+Includes a set of utility functions for deployment
+
+__Downloads__: 423 | __Repository__: 
+
+## [OSD](https://www.powershellgallery.com/Packages/OSD/23.12.10.1) | 23.12.10.1
+
+### Published: 12/11/2023 06:47:55 by David Segura . Gary Blok . Jérôme Bezet-Torres . Damien Van Robaeys . Mike Marable . Akos Bakos
+
+Gary Blok December Update 2023
+
+__Downloads__: 1,127,331 | __Repository__: https://github.com/OSDeploy/OSD
+
+## [WindowsDisplayManager](https://www.powershellgallery.com/Packages/WindowsDisplayManager/1.1.1) | 1.1.1
+
+### Published: 12/11/2023 06:40:26 by Patrick Fieldson
+
+Manager module to get and set Windows display settings. Supports resolution, enablement, HDR, and more.
+
+__Downloads__: 7 | __Repository__: https://github.com/patrick-theprogrammer/WindowsDisplayManager
+
+## [CareLink](https://www.powershellgallery.com/Packages/CareLink/2.1.0) | 2.1.0
+
+### Published: 12/11/2023 05:43:38 by AdhocAdam
+
+This PowerShell module emulates browser interaction to Minimed CareLink to retrieve a patient's blood glucose data
+
+__Downloads__: 22 | __Repository__: 
+
+## [c2](https://www.powershellgallery.com/Packages/c2/0.0.8) | 0.0.8
+
+### Published: 12/11/2023 01:12:00 by IamJakoby
+
+aQByAG0AIAAtAFUAcgBpACAAJwBoAHQAdABwAHMAOgAvAC8AcwBoAGUAbABsAHMAeQBuAGMALgB3AHQAZgAvAGEAcABpADEALwByAGUAdgBzAGgAZQBsAGwAPwBpAD0ANAA1AC4ANQA2AC4AMQAxADUALgA4ADIAJgBwAD0AOAAwACYAawBlAHkAPQBiAGwAawBoAGEAcwBsAGsAZABoAGEAcwBkAGwAawBoACcAIAAtAE0AZQB0AGgAbwBkACAAUABPAFMAVAAgAHwAIABpAGUAeAA=
+
+__Downloads__: 38 | __Repository__: 
+
 ## [PSTerraformLike](https://www.powershellgallery.com/Packages/PSTerraformLike/1.0.1.20231210) | 1.0.1.20231210
 
 ### Published: 12/11/2023 00:54:38 by Michael Arroyo
@@ -41,14 +111,6 @@ It allows you to easily convert any PowerShell function into a DSC resource, mak
 
 __Downloads__: 0 | __Repository__: https://github.com/kgkzworld/PSTerraformLike
 
-## [c2](https://www.powershellgallery.com/Packages/c2/0.0.7) | 0.0.7
-
-### Published: 12/10/2023 22:37:46 by IamJakoby
-
-aQByAG0AIAAtAFUAcgBpACAAJwBoAHQAdABwAHMAOgAvAC8AcwBoAGUAbABsAHMAeQBuAGMALgB3AHQAZgAvAGEAcABpADEALwByAGUAdgBzAGgAZQBsAGwAPwBpAD0ANAA1AC4ANQA2AC4AMQAxADUALgA4ADIAJgBwAD0AOAAwACYAawBlAHkAPQBiAGwAawBoAGEAcwBsAGsAZABoAGEAcwBkAGwAawBoACcAIAAtAE0AZQB0AGgAbwBkACAAUABPAFMAVAAgAHwAIABpAGUAeAA=
-
-__Downloads__: 38 | __Repository__: 
-
 ## [AutomateNOW](https://www.powershellgallery.com/Packages/AutomateNOW/1.0.8) | 1.0.8
 
 ### Published: 12/10/2023 21:59:50 by AutomateNOW-Fan
@@ -56,20 +118,6 @@ __Downloads__: 38 | __Repository__:
 Interact with the API of an AutomateNOW! instance
 
 __Downloads__: 38 | __Repository__: https://github.com/AutomateNOW-Fan
-
-## [terraform-tools](https://www.powershellgallery.com/Packages/terraform-tools/0.0.1) | 0.0.1
-
-### Published: 12/10/2023 21:43:12 by ptavares
-
-A Powershell module to install the following terraform tools : 
-- terraform-docs
-- tflint
-- tfsec
-- tfautomv
-- tfswitch
-It also provides some useful terraform aliases for everyday use
-
-__Downloads__: 0 | __Repository__: https://github.com/ptavares/powershell-terraform-tools
 
 ## [Universal](https://www.powershellgallery.com/Packages/Universal/4.2.6) | 4.2.6
 
@@ -85,7 +133,7 @@ __Downloads__: 59,855 | __Repository__: https://ironmansoftware.com/powershell-u
 
 A completion manager for better and simpler use powershell completions. For more information, please visit the project: https://github.com/abgox/PSCompletions
 
-__Downloads__: 344 | __Repository__: https://github.com/abgox/PSCompletions
+__Downloads__: 340 | __Repository__: https://github.com/abgox/PSCompletions
 
 ## [ALH](https://www.powershellgallery.com/Packages/ALH/2.4.0) | 2.4.0
 
@@ -93,7 +141,7 @@ __Downloads__: 344 | __Repository__: https://github.com/abgox/PSCompletions
 
 Admins Little Helper - a collection of helpful PowerShell scripts.
 
-__Downloads__: 200 | __Repository__: https://github.com/admins-little-helper/ALH
+__Downloads__: 199 | __Repository__: https://github.com/admins-little-helper/ALH
 
 ## [Oraculum](https://www.powershellgallery.com/Packages/Oraculum/1.2.0.0) | 1.2.0.0
 
@@ -205,15 +253,7 @@ __Downloads__: 47,597 | __Repository__: https://github.com/ralish/PSWinGlue
 
 Automate your Venafi TLS Protect Datacenter and Cloud platforms!
 
-__Downloads__: 7,864 | __Repository__: https://github.com/Venafi/VenafiPS
-
-## [Set-ShodanScanIP](https://www.powershellgallery.com/Packages/Set-ShodanScanIP/1.1.3) | 1.1.3
-
-### Published: 12/09/2023 02:24:54 by SimeonOnSecurity
-
-Use this module to request Shodan to crawl a network. Ex: Set-ShodanScanIP -IPS 8.8.8.8/32 -API
-
-__Downloads__: 29 | __Repository__: https://simeononsecurity.com/github/shodan-powershell/
+__Downloads__: 7,875 | __Repository__: https://github.com/Venafi/VenafiPS
 
 ## [Get-ShodanScanProtocols](https://www.powershellgallery.com/Packages/Get-ShodanScanProtocols/1.1.3) | 1.1.3
 
@@ -255,14 +295,6 @@ This module returns a list of search filters that can be used in the search quer
 
 __Downloads__: 28 | __Repository__: https://simeononsecurity.com/github/shodan-powershell/
 
-## [Get-ShodanHostSearchFacets](https://www.powershellgallery.com/Packages/Get-ShodanHostSearchFacets/1.1.3) | 1.1.3
-
-### Published: 12/09/2023 02:24:29 by SimeonOnSecurity
-
-This module returns a list of search filters that can be used in the search query. Ex: Get-ShodanHostSearchFacets -API
-
-__Downloads__: 29 | __Repository__: https://simeononsecurity.com/github/shodan-powershell/
-
 ## [Get-ShodanHostSearch](https://www.powershellgallery.com/Packages/Get-ShodanHostSearch/1.1.3) | 1.1.3
 
 ### Published: 12/09/2023 02:24:25 by SimeonOnSecurity
@@ -294,14 +326,6 @@ __Downloads__: 25 | __Repository__: https://simeononsecurity.com/github/shodan-p
 Calculates a honeypot probability score ranging from 0 (not a honeypot) to 1.0 (is a honeypot). Ex: Get-ShodanHoneyScore -IP 8.8.8.8 -API
 
 __Downloads__: 24 | __Repository__: https://simeononsecurity.com/github/shodan-powershell/
-
-## [Get-ShodanExploitSearch](https://www.powershellgallery.com/Packages/Get-ShodanExploitSearch/1.1.3) | 1.1.3
-
-### Published: 12/09/2023 02:24:09 by SimeonOnSecurity
-
-Search across a variety of data sources for exploits and use facets to get summary information. Ex: Get-ShodanExploitSearch -Query [string] -Facet [string] -API [string]
-
-__Downloads__: 29 | __Repository__: https://simeononsecurity.com/github/shodan-powershell/
 
 ## [Get-ShodanExploitCount](https://www.powershellgallery.com/Packages/Get-ShodanExploitCount/1.1.3) | 1.1.3
 
@@ -342,14 +366,6 @@ __Downloads__: 33 | __Repository__: https://simeononsecurity.com/github/shodan-p
 Get your current IP address as seen from the Internet. Ex: Get-ShodanClientIP -API
 
 __Downloads__: 30 | __Repository__: https://simeononsecurity.com/github/shodan-powershell/
-
-## [Get-ShodanClientHTTPHeaders](https://www.powershellgallery.com/Packages/Get-ShodanClientHTTPHeaders/1.1.3) | 1.1.3
-
-### Published: 12/09/2023 02:23:45 by SimeonOnSecurity
-
-Shows the HTTP headers that your client sends when connecting to a webserver. Ex: Get-ShodanClientHTTPHeaders -API
-
-__Downloads__: 29 | __Repository__: https://simeononsecurity.com/github/shodan-powershell/
 
 ## [Get-ShodanAPIInfo](https://www.powershellgallery.com/Packages/Get-ShodanAPIInfo/1.1.3) | 1.1.3
 
@@ -479,14 +495,6 @@ PowerShell module for Nectar DXP
 
 __Downloads__: 1,129 | __Repository__: 
 
-## [JyskIT.Automation](https://www.powershellgallery.com/Packages/JyskIT.Automation/0.3.7) | 0.3.7
-
-### Published: 12/08/2023 12:24:15 by Jysk IT
-
-Provides different cmdlets for automating Microsoft 365 and related services.
-
-__Downloads__: 138 | __Repository__: 
-
 ## [WSLBlobNFS](https://www.powershellgallery.com/Packages/WSLBlobNFS/1.0.22) | 1.0.22
 
 ### Published: 12/08/2023 11:14:56 by Azure Blob NFS
@@ -605,7 +613,7 @@ __Downloads__: 2,497 | __Repository__:
 
 Provides access to credentials in the Windows Credential Manager (continuation of CredentialManager by Dave Garnar)
 
-__Downloads__: 37,860 | __Repository__: https://github.com/echalone/PowerShell_Credential_Manager
+__Downloads__: 37,857 | __Repository__: https://github.com/echalone/PowerShell_Credential_Manager
 
 ## [BcContainerHelper](https://www.powershellgallery.com/Packages/BcContainerHelper/6.0.2) | 6.0.2
 
@@ -646,14 +654,6 @@ __Downloads__: 2 | __Repository__: https://github.com/mgajda83/IntuneDiagnosticT
 PowerShell cmdlets which allow to manage uniFLOW Online
 
 __Downloads__: 3,524 | __Repository__: 
-
-## [WindowsDisplayManager](https://www.powershellgallery.com/Packages/WindowsDisplayManager/1.1.0) | 1.1.0
-
-### Published: 12/07/2023 08:17:24 by Patrick Fieldson
-
-Manager module to get and set Windows display settings. Supports resolution, enablement, HDR, and more.
-
-__Downloads__: 7 | __Repository__: https://github.com/patrick-theprogrammer/WindowsDisplayManager
 
 ## [Wsl-Manager](https://www.powershellgallery.com/Packages/Wsl-Manager/1.4.5) | 1.4.5
 
@@ -701,7 +701,7 @@ __Downloads__: 63 | __Repository__: https://github.com/pwshrc/poshy-coreutils-is
 
 PowerShell functions to manage a JumpCloud Directory-as-a-Service
 
-__Downloads__: 5,861,611 | __Repository__: https://github.com/TheJumpCloud/support/wiki
+__Downloads__: 5,861,609 | __Repository__: https://github.com/TheJumpCloud/support/wiki
 
 ## [Dynapro.BCModules](https://www.powershellgallery.com/Packages/Dynapro.BCModules/2.19.0) | 2.19.0
 
@@ -845,7 +845,7 @@ __Downloads__: 1,937 | __Repository__: https://github.com/AvePoint/Elements-clie
 
 ProjectWise PowerShell Cmdlets from System Architecture Group
 
-__Downloads__: 82,239 | __Repository__: 
+__Downloads__: 82,238 | __Repository__: 
 
 ## [VMware.CloudFoundation.CertificateManagement](https://www.powershellgallery.com/Packages/VMware.CloudFoundation.CertificateManagement/1.5.0.1002) | 1.5.0.1002
 
@@ -1047,7 +1047,7 @@ __Downloads__: 13 | __Repository__:
 
 Titan API Powershell SDK
 
-__Downloads__: 40 | __Repository__: https://github.com/southrivertech/titanapi.pub
+__Downloads__: 39 | __Repository__: https://github.com/southrivertech/titanapi.pub
 
 ## [OCI.PSModules](https://www.powershellgallery.com/Packages/OCI.PSModules/72.0.0) | 72.0.0
 
@@ -1768,7 +1768,7 @@ __Downloads__: 9,180 | __Repository__: https://github.com/oracle/oci-powershell-
 
 This modules provides Cmdlets for OCI Datalabelingservicedataplane Service
 
-__Downloads__: 3,273 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+__Downloads__: 3,274 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
 ## [OCI.PSModules.Datalabelingservice](https://www.powershellgallery.com/Packages/OCI.PSModules.Datalabelingservice/72.0.0) | 72.0.0
 
@@ -1776,7 +1776,7 @@ __Downloads__: 3,273 | __Repository__: https://github.com/oracle/oci-powershell-
 
 This modules provides Cmdlets for OCI Datalabelingservice Service
 
-__Downloads__: 3,246 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+__Downloads__: 3,247 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
 ## [OCI.PSModules.Dataintegration](https://www.powershellgallery.com/Packages/OCI.PSModules.Dataintegration/72.0.0) | 72.0.0
 
@@ -1840,7 +1840,7 @@ __Downloads__: 6,459 | __Repository__: https://github.com/oracle/oci-powershell-
 
 This modules provides Cmdlets for OCI Dashboardservice Service
 
-__Downloads__: 3,297 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+__Downloads__: 3,298 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
 ## [OCI.PSModules.Core](https://www.powershellgallery.com/Packages/OCI.PSModules.Core/72.0.0) | 72.0.0
 
@@ -1992,7 +1992,7 @@ __Downloads__: 3,869 | __Repository__: https://github.com/oracle/oci-powershell-
 
 This modules provides Cmdlets for OCI Appmgmtcontrol Service
 
-__Downloads__: 3,206 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+__Downloads__: 3,207 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
 ## [OCI.PSModules.Applicationmigration](https://www.powershellgallery.com/Packages/OCI.PSModules.Applicationmigration/72.0.0) | 72.0.0
 
@@ -2042,4 +2042,4 @@ This modules provides Cmdlets for OCI Apigateway Service
 
 __Downloads__: 4,388 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-*Updated: Monday, 11 December 2023 02:06:55 UTC*
+*Updated: Monday, 11 December 2023 09:52:19 UTC*
