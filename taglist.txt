@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 11 December 2023 09:52:29 UTC
+Updated: Monday, 11 December 2023 17:52:31 UTC
 
 .bat
 .env
@@ -79,7 +79,6 @@ abuseipdb
 acas
 accelerator
 access
-access-control
 access-points
 accesscontrol
 accesscontroldsc
@@ -299,7 +298,6 @@ amazonmgn
 amazonwebservices
 amend
 ami
-amiga
 amp
 amqp
 amsi
@@ -332,6 +330,8 @@ anonymous
 anova
 ansi
 ansible
+ansible-control-node
+ansiblecontrolnode
 antimalwarescaninterface
 antispam
 antivirus
@@ -361,7 +361,6 @@ apm
 apmconfig
 apmcontrolplane
 apmsynthetics
-apmtraces
 aportal
 app
 app-control-for-business
@@ -374,7 +373,6 @@ appclusive
 appcmd
 appconfiguration
 appdynamics
-appearance
 appender
 appian
 appinsights
@@ -737,7 +735,6 @@ bastion
 bat
 batcat
 batch
-batchclass
 batman
 battery
 bayern
@@ -906,7 +903,6 @@ builder
 building
 buildingfile
 buildingmapping
-buildkit
 buildkite
 buildmaster
 builds
@@ -936,7 +932,6 @@ bytearray
 bzip2
 c#
 c++
-ca
 cache
 caf
 cal
@@ -1201,7 +1196,6 @@ cloudservice
 cloudshell
 clueser
 cluster
-clusterminimumvalues
 clusterplugins
 cmaccounts
 cmake
@@ -1622,8 +1616,6 @@ dac
 dacfx
 dacl
 dacpac
-dacpackage
-dagger
 daily
 dane
 dangling
@@ -1850,6 +1842,7 @@ digitalforensics
 digitalocean
 digitaltwins
 dilbert
+dimcry
 dircolors
 director
 directories
@@ -1892,7 +1885,6 @@ disksize
 diskspace
 diskusage
 dism
-dismal
 display
 displayresolution
 distance
@@ -2011,7 +2003,6 @@ draw
 drawio
 dreams
 dreamweaver
-dreary
 drift
 driftmonitor
 drive
@@ -2035,7 +2026,6 @@ drsrule
 drupal
 drush
 dry
-ds
 ds-client
 ds-utils
 dsa
@@ -2223,7 +2213,6 @@ envvars
 eol
 eop
 eperl
-ephesoft
 epicor
 episode
 epplus
@@ -2399,7 +2388,6 @@ factoryorchestratorclient
 facts
 faf
 failedlogin
-failure
 falcon
 fallbackstatuspoint
 fanarttv
@@ -2583,7 +2571,6 @@ formatformat-tableformat-listformat-wideformat-customformat-defaultout-defaultou
 formatting
 forms
 fortiauth
-forticlient
 fortify
 fortifyondemand
 fortigate
@@ -2656,15 +2643,20 @@ gainz
 gainz-chocolateysync
 gainz-keepass
 gainz-sqldb
+gal
 gallery
 game
 gamecategory:cards
 games
 gameserver
 gaming
+garage
 gas
+gat
 gateway
 gauge
+gavin
+gavineke
 gc
 gcbdr
 gce
@@ -2781,7 +2773,6 @@ gitops
 glob
 globalclipboard
 globaldashboard
-globalentry
 globbing
 glpi
 gmail
@@ -2872,6 +2863,7 @@ guardicore
 gubbins
 guest
 guestconfiguration
+guests
 gui
 gui.cs
 guid
@@ -2969,6 +2961,7 @@ help
 helpdesk
 helpdoc
 helper
+helper-functions
 helperfunctions
 helpers
 helpfile
@@ -3022,7 +3015,6 @@ holiday
 home
 home_automation
 homebrew
-homelandsecurity
 homeschooling
 hon
 hooking
@@ -3626,7 +3618,6 @@ lenel
 length
 lenovo
 less
-lesspass
 letsencrypt
 lf
 lgpo
@@ -3637,8 +3628,6 @@ library
 libvirt
 licence
 license
-license-generator
-licenseautomation
 licensemanagement
 licensemanager
 licensereport
@@ -3716,7 +3705,6 @@ lockdown
 locking
 lockoutreport
 lockscreen
-locksmith
 lockstep
 lod
 lodasoft
@@ -3942,7 +3930,6 @@ mediant
 mediaplayer
 mediaservices
 mediawiki
-meditation
 meesman
 meeting
 meetup
@@ -4058,7 +4045,6 @@ mitrend
 mittelschule
 mixedreality
 mixer
-mkdocs
 mkpasswd
 ml
 ml.net
@@ -4086,7 +4072,6 @@ mof
 moldova
 moment
 monaco
-monday
 mondoo
 money
 moneyforward
@@ -4588,7 +4573,6 @@ optionstring
 opus
 oracle
 oraclecloudinfrastructure
-oraculum
 orbital
 orchestration
 orchestrator
@@ -4783,7 +4767,6 @@ permutations
 persistence
 persistent
 personal
-personalisation
 personalization
 personalvault
 personio
@@ -4824,7 +4807,6 @@ pinvoke
 pip
 pip3
 pipe
-pipedrive
 pipeline
 pipelines
 pipenv
@@ -4975,7 +4957,6 @@ poshy-wrap-terraform
 poshy-wrap-terragrunt
 poshy-wrap-tmux
 poshy-wrap-vagrant
-poshy-wrap-vault
 poshy-wrap-vscode
 poshy-wrap-wget
 poshy-wrap-wt
@@ -5004,7 +4985,6 @@ powerbiembeddedcapacity
 powerbot
 powercli
 powercligoodies
-powercommander
 powerdex
 powerforensics
 powergraph
@@ -5088,7 +5068,6 @@ prefix
 preparead
 preparealldomains
 prepareschema
-prepend
 preprocessing
 preprocessor
 presentation
@@ -6382,17 +6361,6 @@ pscommand_invoke-vagrantstatus
 pscommand_invoke-vagrantsuspend
 pscommand_invoke-vagrantup
 pscommand_invoke-vagrantuplogged
-pscommand_invoke-vaultdelete
-pscommand_invoke-vaultlist
-pscommand_invoke-vaultloginviagithub
-pscommand_invoke-vaultread
-pscommand_invoke-vaultreadfieldvalue
-pscommand_invoke-vaultrenew
-pscommand_invoke-vaultrevoke
-pscommand_invoke-vaultserver
-pscommand_invoke-vaultstatus
-pscommand_invoke-vaultversion
-pscommand_invoke-vaultwrite
 pscommand_invoke-vscodeadd
 pscommand_invoke-vscodediff
 pscommand_invoke-vscodeforpwd
@@ -6865,16 +6833,6 @@ pscommand_uuid
 pscommand_uuidgen
 pscommand_uuidl
 pscommand_uuidu
-pscommand_vad
-pscommand_vag
-pscommand_val
-pscommand_var
-pscommand_varn
-pscommand_varv
-pscommand_vas
-pscommand_vasrv
-pscommand_vav
-pscommand_vaw
 pscommand_vdstr
 pscommand_vh
 pscommand_vhl
@@ -7779,17 +7737,6 @@ psfunction_invoke-vagrantstatus
 psfunction_invoke-vagrantsuspend
 psfunction_invoke-vagrantup
 psfunction_invoke-vagrantuplogged
-psfunction_invoke-vaultdelete
-psfunction_invoke-vaultlist
-psfunction_invoke-vaultloginviagithub
-psfunction_invoke-vaultread
-psfunction_invoke-vaultreadfieldvalue
-psfunction_invoke-vaultrenew
-psfunction_invoke-vaultrevoke
-psfunction_invoke-vaultserver
-psfunction_invoke-vaultstatus
-psfunction_invoke-vaultversion
-psfunction_invoke-vaultwrite
 psfunction_invoke-vscodeadd
 psfunction_invoke-vscodediff
 psfunction_invoke-vscodeforpwd
@@ -8805,7 +8752,6 @@ self-hosted
 self-service
 self-signed
 selfdispatch
-selfhelp
 selfsigned
 semantic
 semantic-versioning
@@ -8993,7 +8939,6 @@ sitecollection
 siteconfiguration
 sitecore
 sitemaintenance
-sitemap
 siterecovery
 sites
 sitesystemserver
@@ -9204,7 +9149,6 @@ sqllocaldb
 sqlpackage
 sqlplus
 sqlproj
-sqlproject
 sqlps
 sqlserver
 sqlserveragent
@@ -9509,6 +9453,7 @@ tcpip
 tcpport
 tcprjmgmt
 tcpserver
+tcptest
 tcx
 tcxaemgmt
 tdd
@@ -9556,8 +9501,6 @@ terminalnotifier
 terminalvelocity
 termset
 terraform
-terraform-docs
-terraform-switcher
 terraformcloud
 terrafun
 terragrunt
@@ -9603,12 +9546,10 @@ tflint
 tfs
 tfscmdlets
 tfsec
-tfswitch
 tftd
 tftp
 tfvars
 tfvc
-thecrushingemptinessofquotidianexistence
 theme
 themes
 thermal
@@ -9647,6 +9588,7 @@ timesheets
 timespan
 timezone
 tinkerpop
+tinymce
 tip
 tips
 title
@@ -9663,13 +9605,13 @@ toasts
 tobias
 toc
 todo
-todo.txt
 toggl
 toggle
 token
 tokenlifetime
 tokens
 toml
+tookit
 tool
 toolbox
 toolkit
@@ -9695,6 +9637,7 @@ tr064
 trace
 traceevent
 tracer
+tracert
 tracing
 tracker
 tracking
@@ -9761,7 +9704,6 @@ trustedrootcertificate
 truth
 trx
 ts
-tsa
 tsd
 tsheets
 tsqlbestpractice
@@ -9868,6 +9810,7 @@ udcm
 udfeedback
 udp
 udpclient
+udptest
 udr
 udthememode
 udword
@@ -9944,7 +9887,6 @@ uptimerobot
 uptobox
 uqword
 uri
-uri-scheme
 url
 url-encode
 url-shortener
@@ -10159,7 +10101,6 @@ vpn-certificate
 vpro
 vps
 vra
-vrchat
 vrealize
 vrising
 vro
@@ -10225,6 +10166,7 @@ wasabi
 watch
 watchmen
 watery
+wave
 wayk
 waykbastion
 wbem
@@ -10235,7 +10177,6 @@ wdapi
 wds
 weather
 weaviate
-weaviatenet
 web
 web-search
 web.config
@@ -10273,6 +10214,7 @@ websockets
 websphere
 websphereappserver
 websphereportal
+webtest
 webtesting
 webtime
 wec
@@ -10421,8 +10363,6 @@ wmi
 wmifilter
 wmipermanentevents
 wol
-wolfram
-wolframalpha
 woocommerce
 woolworths
 woolworthsrewards
@@ -10450,6 +10390,7 @@ workrequests
 worksheet
 workshop
 workspace
+workspacemanager
 workspaceone
 workspaces
 workstation
