@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Tuesday, 12 December 2023 02:07:37 UTC
+Updated: Tuesday, 12 December 2023 09:52:38 UTC
 
 .bat
 .env
@@ -105,7 +105,6 @@ act!
 actifio
 actifiogo
 action
-action1
 actiongroup
 actionplan
 actions
@@ -244,6 +243,8 @@ aim
 aip
 aipscanner
 aircall
+airpower
+airpwr
 airtable
 ais
 aispeech
@@ -276,6 +277,7 @@ aliases
 aliens
 all
 alletra
+alloydb
 alm
 almrangers
 alpha
@@ -319,6 +321,7 @@ android
 anet
 anf
 anglesharp
+angular
 animate-svg
 animation
 animations
@@ -348,6 +351,7 @@ api
 api-client
 api-gateway
 api-rest
+apichecks
 apiclient
 apigateway
 apigee
@@ -430,10 +434,11 @@ archivial-cloud-backup
 archlinux
 arcresourcebridge
 arcus
+area
+arg
 argcomplete
 argument
 argumentcompleter
-arguments
 arm
 arm-json
 arm-templates
@@ -495,6 +500,7 @@ atlas
 atlassian
 atlassiancli
 atlassianps
+atmosphere
 atom
 atp
 atrium
@@ -529,6 +535,7 @@ authorisation
 authority
 authorization
 authorizationheaders
+authorize.net
 authz
 autify
 auto
@@ -610,6 +617,7 @@ aznetworkinterface
 aznicdetails
 azops
 azpublicipaddress
+azresources
 azsdk
 azsk
 azsql
@@ -634,7 +642,6 @@ azure-resource-graph
 azure-ssis
 azureactivedirectory
 azuread
-azureadbackupandrestore
 azureadconnect
 azureadgraph
 azureadtoolkit
@@ -669,9 +676,9 @@ azurenetworking
 azurepack
 azurepipelines
 azurepolicy
-azurepowershell
 azurerepos
 azureresourcemanager
+azureresources
 azurerestapispecs
 azurerm
 azurerms
@@ -766,6 +773,7 @@ bibtex
 bicep
 bicepnet
 big-ip
+big-iq
 bigcommerce
 bigeval
 bigfix
@@ -782,6 +790,8 @@ bind
 binding
 bindings
 bing
+bingmap
+bingmaps
 binomial
 bios
 bios_settings
@@ -795,11 +805,16 @@ bitbucketpipelines
 bitcoin
 bitlocker
 bitwarden
+bitwig
 bitwise
 biztalk
+biztalkalm
+biztalkdeploymentframework
 bks
 black
 blackbaud
+blackberry
+blackberryuem
 blackbox
 blacklist
 blade
@@ -856,7 +871,6 @@ brawlstars
 brazencloud
 bre
 breach
-break
 breakpoint
 brew
 brickset
@@ -877,6 +891,7 @@ browsing
 brs
 bruteforce
 bson
+btdf
 btm
 budget
 bugbounty
@@ -904,11 +919,8 @@ burpsuite
 bus
 business
 businesscentral
-businessdays
-businesshours
 businessobjects
 businessrulesengine
-businesstime
 bxor
 bydesign
 byexample
@@ -1228,7 +1240,6 @@ codegen
 codegeneration
 codegenerator
 codepoint
-codereview
 codes
 codesign
 codesigning
@@ -1365,7 +1376,6 @@ connectwise
 conservation
 console
 consoleguitools
-consolemenu
 consolemusic
 consumer
 consumption
@@ -1433,6 +1443,7 @@ coreepower.common
 coreepower.config
 coreepower.lib
 coreepower.module
+coreepower.net
 coreepower.net.soundcloudexplode
 coreposh
 coreutils
@@ -1618,7 +1629,6 @@ dash
 dashboard
 dashboardapi
 dashboardservice
-dast
 data
 data_protection
 data_security
@@ -1848,6 +1858,7 @@ directorysearcher
 directorysecurity
 directrouting
 direnv
+dirkjan
 dirname
 dirsync
 disa
@@ -2046,7 +2057,6 @@ dtc
 dts
 dtsx
 dtx
-du
 dual-stack
 duck
 duckduckgo
@@ -2404,7 +2414,6 @@ fastping
 fasttrack
 favorites
 fb-pro
-fciv
 fd
 feather
 feature
@@ -2498,6 +2507,8 @@ find-file
 find-path
 finddownloadlinkfromwebsite
 findfile
+findlocation
+findplace
 findproxyforurl
 fine-print
 fine-tuning
@@ -2548,7 +2559,6 @@ fonts
 foo
 football
 for
-force
 forcedelete
 foreach
 foreach-object
@@ -2616,7 +2626,6 @@ fu-msauth
 fudge
 fudgepop
 fujitsu
-full
 full-metal-gnome
 fullclr
 fulljoin
@@ -2683,8 +2692,11 @@ genericartifactscontent
 genetic-algorithm
 genp
 genxdev
+geo
 geocache
 geocaching
+geoencode
+geoencoding
 geoip
 geolocation
 geosearching
@@ -2771,6 +2783,8 @@ globalentry
 globbing
 glpi
 gmail
+gmap
+gmaps
 gmsa
 gnucash
 gnuwin32
@@ -2789,6 +2803,8 @@ google-table
 googleadsv2
 googlecloudplatform
 googledrive
+googlemap
+googlemaps
 googleworkspace
 gopher
 gopher-tls
@@ -2811,7 +2827,6 @@ gpolinks
 gpp
 gps
 gpt
-gpt3
 gpx
 gradle
 grafana
@@ -2920,6 +2935,7 @@ hba
 hbase
 hci
 hcl
+hcm
 hcx
 hdfs
 hdinsight
@@ -3043,7 +3059,6 @@ hpeosprovisioncmdlets
 hpesmartarraycmdlets
 hpesynergy
 hponeview
-hpwritemanager
 hris
 hsdp
 hsl
@@ -3105,6 +3120,7 @@ icinga
 icinga2
 icinga2mssql
 icinga2plugins
+icingachecks
 icingaforwindows
 icingainventory
 icingamssql
@@ -3138,12 +3154,10 @@ ie
 iem
 ifconfig
 ifttt
-igel
 igr
 ihs
 iiittttt
 iis
-iis10
 iis8
 iisadministration
 iiscrypto
@@ -3168,6 +3182,7 @@ imageoftheday
 imageprocess
 imageprocessing
 images
+imageservicing
 imageslide
 imagevalidate
 imagevalidation
@@ -3177,7 +3192,6 @@ imaging
 imap
 imb
 imei
-imi
 impala
 impersonation
 imperva
@@ -3229,7 +3243,6 @@ innerjoin
 innertext
 input
 inputbox
-inputobject
 insert
 insiderthreat
 insight
@@ -3433,7 +3446,6 @@ js7
 jsm
 jsm.insight
 json
-json-converter
 json-transform
 json+
 jsonplus
@@ -3441,6 +3453,7 @@ jsonwebkey
 jsonwebsignature
 jsonwebtoken
 jsp
+jumbo
 jump
 jump-location
 jumpcloud
@@ -3519,6 +3532,7 @@ kql
 kraken
 krbtgt
 krick
+kschemaplugin
 kubclt
 kube
 kubectl
@@ -3620,7 +3634,6 @@ licenseautomation
 licensemanagement
 licensemanager
 licensereport
-licenses
 licensing
 life
 lifequotes
@@ -3640,7 +3653,6 @@ link
 link-capability
 link-preview
 linkedin
-linkedservice
 linkedservicedependency
 linkid
 links
@@ -3681,6 +3693,7 @@ local-policy
 localadmin
 localconfigurationmanager
 localdb
+locale
 localgroup
 localgroupmember
 localization
@@ -3718,7 +3731,6 @@ logger
 logging
 loggingingestion
 loggingsearch
-loggly
 logic
 logicapp
 logicapps
@@ -3802,8 +3814,6 @@ magnet
 mail
 mailbox
 mailchimp
-mailgroup
-mailgroupmember
 mailing
 mailkit
 mails
@@ -3842,11 +3852,13 @@ mangement
 manifest
 manual
 map
+mapapi
 mapi
 mappeddrives
 mapper24
 mapping
 maps
+mapsapi
 mariadb
 mark
 markdig
@@ -3926,7 +3938,6 @@ meetup.com
 meewind
 megabyte
 melamed
-meltdown
 mem
 member
 members
@@ -3944,7 +3955,6 @@ mercurial
 merge
 mermaid
 message
-messagebox
 messageoftheday
 messages
 messaging
@@ -3981,6 +3991,8 @@ microsoft.graph
 microsoft.graph.api
 microsoft.identity.client
 microsoft.identitymodel.clients.activedirectory
+microsoft.logic
+microsoft.logic/workflows
 microsoft.web.administration
 microsoft365
 microsoft365dsc
@@ -4018,7 +4030,6 @@ mimekit
 min
 mindmeister
 minecraft
-miniconda
 minifier
 minimal
 minimum
@@ -4169,6 +4180,7 @@ multimedia
 multios
 multipass
 multiple
+multiserver
 multistring
 multithread
 multithreaded
@@ -4298,6 +4310,7 @@ new-samcmapplicationfrompackagedefinitionsms
 new-samcmpackagefrompackagedefinitionsms
 new-system
 new-udmorph
+new-win32app
 newpassword
 newrelic
 news
@@ -4386,7 +4399,6 @@ ntfs
 ntp
 ntsystems
 nuget
-nuget-references
 nuget.exe
 nuget.org
 nugetpackageprovider
@@ -4459,6 +4471,7 @@ officegraph
 officemessageencryption
 officertool
 offline
+offlinewimservicing
 ofx
 ogg
 oh-my-posh
@@ -4471,6 +4484,7 @@ ole
 oledb
 omaha
 ome
+omnisphere
 omnistack
 oms
 omsagent
@@ -4525,6 +4539,7 @@ openfiles
 openhere
 openid
 openidconnect
+openinghours
 openport
 openprovider
 openscad
@@ -4580,6 +4595,7 @@ osdcloud
 osddriver
 osddrivers
 osdeploy
+osdeployment
 osdprogress
 osdsus
 osdupdate
@@ -4631,6 +4647,7 @@ pac
 pack
 package
 package-management
+package-manager
 package-transform
 packagemanagement
 packagemanager
@@ -4767,6 +4784,7 @@ pgp
 phabricator
 philips
 philosophical
+philpritchett
 phishing
 phoenix
 phoneautomation
@@ -4806,6 +4824,7 @@ pixoo
 pki
 pki psmodule
 pks
+place
 places
 plain
 plan
@@ -5038,7 +5057,6 @@ powertab
 powertoolcmdlets
 powertooldsc
 ppdm
-ppk
 pposh
 pps
 ppt
@@ -5049,7 +5067,6 @@ pranks
 predicate
 prediction
 predictive
-predictive-text
 predictor
 preferences
 prefix
@@ -5184,6 +5201,7 @@ psappdeploytoolkit
 psat
 psazd
 psbackup
+psbbix
 psbicep
 psclient
 pscmdlet
@@ -7026,7 +7044,6 @@ psexcel
 psexec
 psexec.exe
 psexpandline
-psfciv
 psfitbit
 psfive9
 psfive9admin
@@ -8157,6 +8174,7 @@ pswinreportingv2
 psword
 pswriteword
 psyaml
+pszabbix
 pubg
 public
 public-key
@@ -8291,6 +8309,8 @@ raspbian
 rate
 rate-limit
 rates
+rating
+ratings
 ravendb
 razzle
 rbac
@@ -8484,7 +8504,9 @@ resource_monitor
 resource_watcher
 resourceaccount
 resourcecontroller
+resourcegraph
 resourcegroup
+resourceid
 resourcekit
 resourcemanager
 resourcemover
@@ -8753,16 +8775,17 @@ scrubber
 scsm
 scuba
 sd
+sddl
 sdk
 sdn
 sdp
 search
 search-adminauditlog
 search-engines
-searchengine
 searcher
 searching
 searchmanager
+searchplace
 searchquery
 searchstring
 searchsuffixlist
@@ -9164,8 +9187,6 @@ specify
 spectre
 spectrumconnect
 spectrumcontrolbase
-speculation
-speculationcontrol
 speech
 speed
 speedometer
@@ -9344,7 +9365,6 @@ streamanalytics
 streaming
 streamreader
 streamwriter
-stretch
 strictmode
 strikethrough-text
 string
@@ -9355,6 +9375,7 @@ strings
 stringutilities
 strip-ansi
 stripe
+strongname
 structure
 sts
 stt
@@ -9395,6 +9416,7 @@ summary
 sumologic
 supercell
 superheros
+supermarket
 support
 support-tool
 support-tools
@@ -9633,8 +9655,6 @@ themes
 thermal
 thermostat
 thinprint
-third-party-libraries
-third-party-notice
 thispc
 thoughtfortheday
 thousandeyes
@@ -9677,6 +9697,7 @@ tlsa
 tlsprotocol
 tlsrpt
 tmux
+to-do
 toast
 toasts
 tobias
@@ -9688,7 +9709,6 @@ toggle
 token
 tokenlifetime
 tokens
-toml
 tookit
 tool
 toolbox
@@ -9744,6 +9764,7 @@ translit
 transliteration
 transmission
 transparency
+transpilation
 trap
 travel
 trec
@@ -9867,6 +9888,7 @@ ud-readingbar
 ud-scrollspy
 ud-selectdatetime
 ud-selector
+ud-signature
 ud-simpledrawer
 ud-singleselect
 ud-slider
@@ -9892,6 +9914,7 @@ udr
 udthememode
 udword
 uefi
+uem
 ui
 ui/ux
 ui7
@@ -9902,7 +9925,6 @@ ultimatetool
 um
 uml
 umn
-ums
 unattend
 unattendedfile
 unblock
@@ -9956,7 +9978,6 @@ upgrade
 uplift
 uplink
 ups
-upsource
 upstream
 uptime
 uptimerobot
@@ -10043,7 +10064,6 @@ vbaproject
 vbproj
 vbr
 vbscript
-vbsinst
 vc
 vccmdlets
 vcenter
@@ -10201,6 +10221,7 @@ vsphere+
 vss
 vssetup
 vsshell
+vst
 vsteambuilder
 vsteams
 vstest
@@ -10243,6 +10264,7 @@ wasabi
 watch
 watchmen
 watery
+wave
 wayk
 waykbastion
 wbem
@@ -10271,7 +10293,6 @@ webhdfs
 webhelpdesk
 webhistory
 webhook
-webinspect
 webjea
 webmanagement
 webmanagementservice
@@ -10336,6 +10357,7 @@ win32
 win32_installedwin32program
 win32_operatingsystem
 win32-api
+win32appmigrationtool
 win32shutdown
 window
 windows
@@ -10406,7 +10428,6 @@ windowstimezone
 windowsupdate
 windowsupdates
 windowsvirtualdesktop
-winform
 winforms
 winget
 wingetbridge
@@ -10439,8 +10460,6 @@ wmi
 wmifilter
 wmipermanentevents
 wol
-wolfram
-wolframalpha
 woocommerce
 woolworths
 woolworthsrewards
@@ -10456,9 +10475,6 @@ worker
 workflow
 workflowmax
 workflows
-workingdays
-workinghours
-workingtime
 workload
 workload-automation
 workloadidentity
@@ -10500,7 +10516,6 @@ write-slog
 write-wansi
 writeaccess
 writelog
-writemanager
 writeprogress
 writer
 ws-federation
@@ -10511,7 +10526,6 @@ wsl2
 wsl2 psmodule psedition_core
 wsman
 wsmanlistener
-wso2
 wsus
 wt
 wtsapi32
@@ -10539,7 +10553,6 @@ x86
 xa
 xaf
 xbase
-xbox
 xclarity
 xdr
 xdschelper
@@ -10584,11 +10597,9 @@ yahoo
 yahw
 yamaha
 yaml
-yandex
 yapg
 yarn
 yetanotherhelloworld
-yml
 ynab
 youtube
 youtube-dl
@@ -10598,6 +10609,7 @@ yubaba
 yum
 z
 zabbix
+zabbixps
 zap
 zcat
 zendesk
@@ -10607,6 +10619,7 @@ zigbee
 zip
 zip-compression
 zipfile-transform
+zisson
 zoho
 zone
 zookeeper
