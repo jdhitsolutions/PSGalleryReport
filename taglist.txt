@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Tuesday, 12 December 2023 09:52:38 UTC
+Updated: Tuesday, 12 December 2023 17:52:34 UTC
 
 .bat
 .env
@@ -105,6 +105,7 @@ act!
 actifio
 actifiogo
 action
+action1
 actiongroup
 actionplan
 actions
@@ -439,6 +440,7 @@ arg
 argcomplete
 argument
 argumentcompleter
+arguments
 arm
 arm-json
 arm-templates
@@ -642,6 +644,7 @@ azure-resource-graph
 azure-ssis
 azureactivedirectory
 azuread
+azureadbackupandrestore
 azureadconnect
 azureadgraph
 azureadtoolkit
@@ -661,7 +664,6 @@ azuredatastudio
 azuredevops
 azuredevops_security
 azuredevopsserver
-azuredns
 azurefilesync
 azurefunctionapp
 azurefunctions
@@ -676,6 +678,7 @@ azurenetworking
 azurepack
 azurepipelines
 azurepolicy
+azurepowershell
 azurerepos
 azureresourcemanager
 azureresources
@@ -766,7 +769,6 @@ ber
 bestpractice
 bestpractices
 beta
-bginfo
 bi
 bibliography
 bibtex
@@ -871,6 +873,7 @@ brawlstars
 brazencloud
 bre
 breach
+break
 breakpoint
 brew
 brickset
@@ -919,8 +922,11 @@ burpsuite
 bus
 business
 businesscentral
+businessdays
+businesshours
 businessobjects
 businessrulesengine
+businesstime
 bxor
 bydesign
 byexample
@@ -1240,6 +1246,7 @@ codegen
 codegeneration
 codegenerator
 codepoint
+codereview
 codes
 codesign
 codesigning
@@ -1315,7 +1322,6 @@ component
 composer
 composite
 compositeresource
-compoundproperty
 compress
 compression
 compute
@@ -1376,6 +1382,7 @@ connectwise
 conservation
 console
 consoleguitools
+consolemenu
 consolemusic
 consumer
 consumption
@@ -1539,6 +1546,7 @@ cs137
 csc
 csharp
 csharp-watch
+csom
 csp
 csproj
 css
@@ -1629,6 +1637,7 @@ dash
 dashboard
 dashboardapi
 dashboardservice
+dast
 data
 data_protection
 data_security
@@ -2057,6 +2066,7 @@ dtc
 dts
 dtsx
 dtx
+du
 dual-stack
 duck
 duckduckgo
@@ -2224,7 +2234,6 @@ epicor
 episode
 epplus
 eprosima
-epub
 epv
 equality
 erb
@@ -2370,7 +2379,6 @@ extended
 extendedattributes
 extendedevents
 extendedproperties
-extendedproperty
 extendscript
 extensibility
 extension
@@ -2414,6 +2422,7 @@ fastping
 fasttrack
 favorites
 fb-pro
+fciv
 fd
 feather
 feature
@@ -2559,10 +2568,10 @@ fonts
 foo
 football
 for
+force
 forcedelete
 foreach
 foreach-object
-forecast
 forensic
 forensics
 forest
@@ -2626,6 +2635,7 @@ fu-msauth
 fudge
 fudgepop
 fujitsu
+full
 full-metal-gnome
 fullclr
 fulljoin
@@ -3059,6 +3069,7 @@ hpeosprovisioncmdlets
 hpesmartarraycmdlets
 hpesynergy
 hponeview
+hpwritemanager
 hris
 hsdp
 hsl
@@ -3154,10 +3165,12 @@ ie
 iem
 ifconfig
 ifttt
+igel
 igr
 ihs
 iiittttt
 iis
+iis10
 iis8
 iisadministration
 iiscrypto
@@ -3192,6 +3205,7 @@ imaging
 imap
 imb
 imei
+imi
 impala
 impersonation
 imperva
@@ -3243,6 +3257,7 @@ innerjoin
 innertext
 input
 inputbox
+inputobject
 insert
 insiderthreat
 insight
@@ -3387,10 +3402,7 @@ it-tool
 it-tools
 italic-text
 item
-itemlist
-itemobject
 items
-itemstack
 iterate
 iteration
 itg
@@ -3446,6 +3458,7 @@ js7
 jsm
 jsm.insight
 json
+json-converter
 json-transform
 json+
 jsonplus
@@ -3566,6 +3579,7 @@ lambda
 lame
 lametrictime
 lamp
+lan
 landingzones
 language
 languagedsc
@@ -3634,6 +3648,7 @@ licenseautomation
 licensemanagement
 licensemanager
 licensereport
+licenses
 licensing
 life
 lifequotes
@@ -3653,6 +3668,7 @@ link
 link-capability
 link-preview
 linkedin
+linkedservice
 linkedservicedependency
 linkid
 links
@@ -3731,6 +3747,7 @@ logger
 logging
 loggingingestion
 loggingsearch
+loggly
 logic
 logicapp
 logicapps
@@ -3752,7 +3769,6 @@ logoff
 logon
 logonright
 logonscript
-logontask
 logonto
 logonuser
 logparser
@@ -3814,6 +3830,8 @@ magnet
 mail
 mailbox
 mailchimp
+mailgroup
+mailgroupmember
 mailing
 mailkit
 mails
@@ -3909,7 +3927,7 @@ mcd
 mchapv2
 mct
 md5
-md5_v2-71fed0ac69a23967c791e234ef93a3df
+md5_v2-4f929a24e2fc8e8455a8690184e3eb4a
 mdatp
 mdb
 mdbc
@@ -3938,6 +3956,7 @@ meetup.com
 meewind
 megabyte
 melamed
+meltdown
 mem
 member
 members
@@ -3955,6 +3974,7 @@ mercurial
 merge
 mermaid
 message
+messagebox
 messageoftheday
 messages
 messaging
@@ -3991,8 +4011,6 @@ microsoft.graph
 microsoft.graph.api
 microsoft.identity.client
 microsoft.identitymodel.clients.activedirectory
-microsoft.logic
-microsoft.logic/workflows
 microsoft.web.administration
 microsoft365
 microsoft365dsc
@@ -4399,6 +4417,7 @@ ntfs
 ntp
 ntsystems
 nuget
+nuget-references
 nuget.exe
 nuget.org
 nugetpackageprovider
@@ -5029,6 +5048,7 @@ powershell-terminal-copilot
 powershell-training
 powershell.module.invokewinget
 powershell.one
+powershell.persistentpathstack
 powershell7
 powershellai
 powershellazuresql
@@ -5057,6 +5077,7 @@ powertab
 powertoolcmdlets
 powertooldsc
 ppdm
+ppk
 pposh
 pps
 ppt
@@ -7044,6 +7065,7 @@ psexcel
 psexec
 psexec.exe
 psexpandline
+psfciv
 psfitbit
 psfive9
 psfive9admin
@@ -8337,7 +8359,6 @@ react-stockcharts
 read
 read-slog
 readable
-reader
 readiness
 readme
 readpdf
@@ -8422,7 +8443,6 @@ relational
 relay
 release
 releasedefinition
-releasehealth
 releasemanagement
 releasenotes
 relevance
@@ -8613,7 +8633,6 @@ rshell
 rsjob
 rsop
 rss
-rt
 rtu
 rubber
 rubrik
@@ -8736,9 +8755,6 @@ sconfig
 scoop
 scope
 score
-scouterna
-scouternasetjanster
-scoutnet
 scp
 scrap
 scrape
@@ -9054,7 +9070,6 @@ skyapi
 skype
 skype_for_business
 skype4b
-skype4business
 skypeforbusiness
 skypeforbusinessonline
 skypeonline
@@ -9187,6 +9202,8 @@ specify
 spectre
 spectrumconnect
 spectrumcontrolbase
+speculation
+speculationcontrol
 speech
 speed
 speedometer
@@ -9307,7 +9324,6 @@ start-jobthread
 start-threadjob
 startkey
 startmen
-startmenu
 starttls
 starwars
 stash
@@ -9365,6 +9381,7 @@ streamanalytics
 streaming
 streamreader
 streamwriter
+stretch
 strictmode
 strikethrough-text
 string
@@ -9655,6 +9672,8 @@ themes
 thermal
 thermostat
 thinprint
+third-party-libraries
+third-party-notice
 thispc
 thoughtfortheday
 thousandeyes
@@ -9709,6 +9728,7 @@ toggle
 token
 tokenlifetime
 tokens
+toml
 tookit
 tool
 toolbox
@@ -9925,6 +9945,7 @@ ultimatetool
 um
 uml
 umn
+ums
 unattend
 unattendedfile
 unblock
@@ -9978,6 +9999,7 @@ upgrade
 uplift
 uplink
 ups
+upsource
 upstream
 uptime
 uptimerobot
@@ -10064,6 +10086,7 @@ vbaproject
 vbproj
 vbr
 vbscript
+vbsinst
 vc
 vccmdlets
 vcenter
@@ -10293,6 +10316,7 @@ webhdfs
 webhelpdesk
 webhistory
 webhook
+webinspect
 webjea
 webmanagement
 webmanagementservice
@@ -10386,7 +10410,6 @@ windows11
 windows365
 windowsadmincenter
 windowsaudit
-windowsbuilds
 windowscredential
 windowscredentialmanager
 windowscredentials
@@ -10409,7 +10432,6 @@ windowspackagemanager
 windowsplugins
 windowspowershell
 windowspresentationfoundation
-windowsreleasehealth
 windowsrest
 windowssandbox
 windowssearchmanager
@@ -10428,6 +10450,7 @@ windowstimezone
 windowsupdate
 windowsupdates
 windowsvirtualdesktop
+winform
 winforms
 winget
 wingetbridge
@@ -10460,6 +10483,8 @@ wmi
 wmifilter
 wmipermanentevents
 wol
+wolfram
+wolframalpha
 woocommerce
 woolworths
 woolworthsrewards
@@ -10475,6 +10500,9 @@ worker
 workflow
 workflowmax
 workflows
+workingdays
+workinghours
+workingtime
 workload
 workload-automation
 workloadidentity
@@ -10516,8 +10544,8 @@ write-slog
 write-wansi
 writeaccess
 writelog
+writemanager
 writeprogress
-writer
 ws-federation
 wsapi
 wsb
@@ -10526,6 +10554,7 @@ wsl2
 wsl2 psmodule psedition_core
 wsman
 wsmanlistener
+wso2
 wsus
 wt
 wtsapi32
@@ -10553,6 +10582,7 @@ x86
 xa
 xaf
 xbase
+xbox
 xclarity
 xdr
 xdschelper
@@ -10597,9 +10627,11 @@ yahoo
 yahw
 yamaha
 yaml
+yandex
 yapg
 yarn
 yetanotherhelloworld
+yml
 ynab
 youtube
 youtube-dl
