@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Wednesday, 13 December 2023 09:52:31 UTC
+Updated: Wednesday, 13 December 2023 17:52:47 UTC
 
 .bat
 .env
@@ -658,7 +658,6 @@ azurecli
 azurecognitiveservices
 azurecontainerapps
 azurecontainers
-azuredatabricks
 azuredataexplorer
 azuredatastudio
 azuredevops
@@ -690,6 +689,7 @@ azurerunasconnection
 azuresearch
 azuresearcher
 azuresecuritycenter
+azureservicebus
 azuresigntool
 azuresql
 azuresqlexport
@@ -1405,8 +1405,6 @@ continious-integration
 continiousintergration
 continous
 continuous
-continuous-delivery
-continuous-deploy
 continuous-deployment
 continuous-integration
 continuousdelivery
@@ -1457,6 +1455,7 @@ coreepower.net.soundcloudexplode
 coreposh
 coreutils
 corona
+cortex
 cos
 cosmos
 cosmosdb
@@ -1580,7 +1579,6 @@ custom
 customchecks
 customdns
 customer
-customerengagement
 customers
 customeventchannel
 customeventlog
@@ -1618,7 +1616,6 @@ cylance
 cypher
 cyrillic
 d365
-d365ce
 d365f&o
 d365fo
 d365lbd
@@ -1727,7 +1724,6 @@ dbwebapi
 dc
 dcim
 dcim_b324
-dcom
 dcr
 debian
 debug
@@ -1791,7 +1787,6 @@ depute
 der
 description
 deserialize
-design
 desired
 desiredstate
 desiredstateconfiguration
@@ -1836,7 +1831,6 @@ dfs
 dfw
 dg
 dhcp
-di
 diagnostic
 diagnostics
 diagram
@@ -1984,7 +1978,6 @@ dok
 dokuwiki
 domain
 domainkey
-domainname
 domains
 domino
 donothing
@@ -2099,9 +2092,7 @@ dynamics
 dynamics-365
 dynamics-crm
 dynamics365
-dynamics365ce
 dynamics365fo
-dynamics365sales
 dynamics365server
 dynamicsax
 dynamicsecuritygroups
@@ -2252,7 +2243,6 @@ esae
 escape
 escapecodes
 escapesequences
-escaping
 ese
 esent
 esoteric
@@ -2418,7 +2408,6 @@ farmanager
 fast
 fast-dds
 fast-ping
-fastfilepub
 fastgit
 fastlinq
 fastlookup
@@ -2462,7 +2451,6 @@ file-name
 file-name-extension
 file-name-extension-association
 file-server
-file-share
 file-system
 file-transform
 file-type
@@ -2576,7 +2564,6 @@ force
 forcedelete
 foreach
 foreach-object
-forecast
 forensic
 forensics
 forest
@@ -2705,6 +2692,7 @@ generator
 generic
 genericartifactscontent
 genetic-algorithm
+genp
 genxdev
 geo
 geocache
@@ -2716,7 +2704,6 @@ geolocation
 geosearching
 geotagging
 get
-get_random_password
 get-admodernreport
 get-childitem
 get-cmhealthcheck
@@ -2816,7 +2803,6 @@ google-sankey
 google-table
 googleadsv2
 googlecloudplatform
-googledrive
 googlemap
 googlemaps
 googleworkspace
@@ -2943,6 +2929,8 @@ hashset
 hashtable
 hasicorp
 haskell
+haste
+hastebin
 haveibeenpwned
 hba
 hbase
@@ -3006,6 +2994,7 @@ high-availability
 highlight
 highlighting
 highrise
+hint
 hipaa
 hipb
 hipchat
@@ -3326,7 +3315,6 @@ investigation
 investment
 investments
 invitation
-invocation
 invoice
 invoke
 invoke-asadmin
@@ -3562,6 +3550,7 @@ kubespray
 kudu
 kurukuru
 kusto
+kvm
 kvp
 l1tf
 l2tp
@@ -3644,6 +3633,7 @@ lib
 libgit2
 libraries
 library
+libvirt
 licence
 license
 license-generator
@@ -3890,7 +3880,6 @@ marketing
 marketo
 marketplace
 marketplaceordering
-marketplacepublisher
 marking
 marklogic
 marquee
@@ -3989,7 +3978,6 @@ metadataservice
 metaprogramming
 method
 methodinfo
-methods
 metric
 metrics
 metrolink
@@ -4177,7 +4165,6 @@ msp360
 mspbackups
 msproject
 msrc
-msrdc
 mssql
 mssqlbynarymodule
 mssqlbynarypsmodule
@@ -4338,6 +4325,7 @@ new-udmorph
 new-win32app
 newpassword
 newrelic
+news
 newspaper
 newtonsoft
 newtonsoft.json
@@ -4465,7 +4453,6 @@ oce
 ocg
 ocgv
 oci
-ocicontrolcenter
 ocr
 octoprint
 octopus
@@ -4720,12 +4707,10 @@ partnerportal
 pas
 pass
 passcode
-passivetotal
 passphrase
 passphraser passphrase password generator entropy
 passwd
 password
-password_generation
 password-generator
 password-less
 password-manager
@@ -4746,6 +4731,7 @@ passwordstate
 passwordtool
 passwordvault
 passwordwolf
+paste
 patch
 patches
 patching
@@ -4841,6 +4827,7 @@ pipelines
 pipenv
 pipescript
 piraeus
+pivot
 pivotal
 pivottable
 pixoo
@@ -4882,6 +4869,7 @@ poem
 poetry
 point
 point-to-site
+pointer
 pokeapi
 pokedex
 pokemon
@@ -5050,7 +5038,6 @@ powershell-terminal-copilot
 powershell-training
 powershell.module.invokewinget
 powershell.one
-powershell.persistentpathstack
 powershell7
 powershellai
 powershellazuresql
@@ -8255,6 +8242,7 @@ python-for-dotnet
 python3
 qcloud
 qconvergeconsolepowerkit
+qemu
 qlgc_fc_powerkit
 qlik
 qlik-api
@@ -8278,11 +8266,11 @@ qrs
 quality
 qualys
 quandl
-quantum
 quarantine
 queries
 query
 queue
+queues
 queuing
 quickaccess
 quickbase
@@ -8295,7 +8283,6 @@ quote
 quoteoftheday
 quotes
 quotestoliveby
-quoting
 quser
 qword
 r
@@ -8340,7 +8327,6 @@ rcs
 rcu
 rdb
 rdbms
-rdc
 rdcman
 rdcmanager
 rdfe
@@ -8349,7 +8335,6 @@ rdl
 rdm
 rdp
 rdpsession
-rdpsign
 rds
 rdsgw
 react-stockcharts
@@ -8390,7 +8375,10 @@ redfish
 redforest
 redgate
 redirect
+redirecting
 redirects
+redirectstandarderror
+redirectstandardoutput
 redis
 redisenterprisecache
 redistributables
@@ -8425,8 +8413,6 @@ regions
 regiser-argumentcompleter
 register
 register-argumentcompleter
-registered
-registrar
 registration
 registry
 regression
@@ -8448,7 +8434,6 @@ remediation
 remedy
 reminder
 remote
-remote-desktop
 remote'
 remoteadmin
 remotecert
@@ -8574,7 +8559,6 @@ rightsizing
 rightsmanagement
 ripe
 risk
-riskiq
 riskpro
 risksense
 rivermeadow
@@ -8869,7 +8853,6 @@ selfhelp
 selfsigned
 semantic
 semantic-versioning
-semaphore
 semver
 senat
 senateur
@@ -9215,7 +9198,6 @@ spellcheck
 spelling
 spf
 spi
-spicetify
 spinnaker
 splash
 splat
@@ -9346,6 +9328,7 @@ statuscode
 statusmonitor
 statusreportingcomponent
 staytus
+stderr
 stdio
 stdout
 steam
@@ -9375,6 +9358,7 @@ store
 storedcredentials
 storefront
 storeonce
+storeserv
 strava
 streak
 stream
@@ -9427,6 +9411,7 @@ successfactors
 sudo
 sugar
 sugarcrm
+suggestion
 suitecrm
 sullivan
 summary
@@ -9534,6 +9519,7 @@ tabs
 tabular
 tag
 tag-requiredmodule1-1.0
+tag-requiredmodule2-2.0
 tag-requiredmodule3-2.5
 tag1
 tag2
@@ -9607,7 +9593,6 @@ teradata
 termbin
 terminal
 terminal-interface
-terminal-services
 terminal.gui
 terminalnotifier
 terminalvelocity
@@ -9705,6 +9690,7 @@ timespan
 timezone
 tinkerpop
 tinymce
+tip
 tips
 title
 tls
@@ -9735,6 +9721,7 @@ tools
 tools4ever
 topdesk
 topgrade
+topics
 topology
 tor
 toradex
@@ -9799,6 +9786,8 @@ trevor
 trevorsullivan
 triangle
 tribeloo
+trick
+tricks
 trigger
 triodos
 tripunkt
@@ -10130,6 +10119,7 @@ vigenere
 vim
 vimode
 virole
+virsh
 virtual
 virtualappliance
 virtualbox
@@ -10275,7 +10265,6 @@ wapi
 warning
 warplaneporn
 warranty
-warraty
 warrenty
 wasabi
 watch
@@ -10460,6 +10449,7 @@ wintellect
 winterminal
 winui
 wireless
+wirelessnetwork
 wireshark
 wisc
 wiscmail
@@ -10546,7 +10536,6 @@ wsapi
 wsb
 wsl
 wsl2
-wsl2 psmodule psedition_core
 wsman
 wsmanlistener
 wso2
@@ -10579,6 +10568,7 @@ xaf
 xbase
 xbox
 xclarity
+xdr
 xdschelper
 xdscresources
 xdt
