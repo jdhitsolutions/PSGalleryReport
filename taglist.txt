@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Tuesday, 12 December 2023 17:52:34 UTC
+Updated: Wednesday, 13 December 2023 02:07:15 UTC
 
 .bat
 .env
@@ -385,7 +385,6 @@ applayering
 apple
 application
 application-control
-application-transformer
 application-whitelisting
 applicationgateway
 applicationgrid
@@ -467,7 +466,6 @@ ascii85
 asciiart
 asdatabase
 asigra
-asjob
 asm
 asn.1
 asn1
@@ -619,7 +617,6 @@ aznetworkinterface
 aznicdetails
 azops
 azpublicipaddress
-azresources
 azsdk
 azsk
 azsql
@@ -681,7 +678,6 @@ azurepolicy
 azurepowershell
 azurerepos
 azureresourcemanager
-azureresources
 azurerestapispecs
 azurerm
 azurerms
@@ -748,7 +744,6 @@ bbp
 bc
 bcd
 bcdedit
-bcdr
 bd
 bdd
 bds
@@ -769,6 +764,7 @@ ber
 bestpractice
 bestpractices
 beta
+bginfo
 bi
 bibliography
 bibtex
@@ -815,8 +811,6 @@ biztalkdeploymentframework
 bks
 black
 blackbaud
-blackberry
-blackberryuem
 blackbox
 blacklist
 blade
@@ -1088,7 +1082,6 @@ christmas
 chrome
 chromium
 chunk
-churchofjesuschrist
 ci
 ci/cd
 cic
@@ -1322,6 +1315,7 @@ component
 composer
 composite
 compositeresource
+compoundproperty
 compress
 compression
 compute
@@ -1381,7 +1375,6 @@ connectivity
 connectwise
 conservation
 console
-consoleguitools
 consolemenu
 consolemusic
 consumer
@@ -1490,6 +1483,7 @@ cqdpowershell
 cqhttp
 crack psmodule
 crash
+crawler
 crayon
 crc
 crc32
@@ -1631,7 +1625,6 @@ daily
 dane
 dangling
 dapr
-dare
 dark
 dash
 dashboard
@@ -1982,9 +1975,7 @@ dok
 dokuwiki
 domain
 domainkey
-domainname
 domains
-domino
 donothing
 dos
 dot
@@ -2050,7 +2041,6 @@ dsc
 dsc-resource
 dsc-resources
 dsccertificates
-dscconcepts
 dscdriftmonitor
 dsclient
 dscresource
@@ -2168,7 +2158,6 @@ emailmanagment
 emailnotification
 emailnotificationcomponent
 emailsecurity
-embedded
 emc
 emcomm
 emergency
@@ -2234,6 +2223,7 @@ epicor
 episode
 epplus
 eprosima
+epub
 epv
 equality
 erb
@@ -2253,11 +2243,6 @@ escaping
 ese
 esent
 esoteric
-esp
-esp-idf
-esp32
-esp32s2
-espressif
 esri
 essbase
 estimate
@@ -2302,7 +2287,6 @@ eventsubscription
 eventviewer
 eventwatch
 evergreen
-evernote
 everydaypowershell
 everydayrewards
 everything
@@ -2379,6 +2363,7 @@ extended
 extendedattributes
 extendedevents
 extendedproperties
+extendedproperty
 extendscript
 extensibility
 extension
@@ -2571,7 +2556,6 @@ for
 force
 forcedelete
 foreach
-foreach-object
 forensic
 forensics
 forest
@@ -2732,7 +2716,6 @@ get-externalip
 get-firmwaretype
 get-help
 get-history
-get-iislog
 get-openfile
 get-openfiles
 get-pass
@@ -2837,6 +2820,7 @@ gpolinks
 gpp
 gps
 gpt
+gpt3
 gpx
 gradle
 grafana
@@ -3024,7 +3008,6 @@ hkey_users
 hklm
 hl7
 hlds
-hls
 hockey
 hol
 holiday
@@ -3057,7 +3040,6 @@ hpc
 hpcc
 hpccache
 hpe
-hpealletra6000andnimblestoragepowershelltoolkit
 hpebioscmdlets
 hpeilocmdlets
 hpemigrationadvisorycmdlets
@@ -3157,7 +3139,6 @@ identitydataplane
 identitydirector
 identitydomains
 identitynow
-idf
 idm
 idna
 ids
@@ -3195,7 +3176,6 @@ imageoftheday
 imageprocess
 imageprocessing
 images
-imageservicing
 imageslide
 imagevalidate
 imagevalidation
@@ -3391,7 +3371,6 @@ iso
 iso-3166-1
 iso-8601
 ispac
-isprime
 ispss
 issues
 isvalidemail
@@ -3402,7 +3381,10 @@ it-tool
 it-tools
 italic-text
 item
+itemlist
+itemobject
 items
+itemstack
 iterate
 iteration
 itg
@@ -3545,7 +3527,6 @@ kql
 kraken
 krbtgt
 krick
-kschemaplugin
 kubclt
 kube
 kubectl
@@ -3927,12 +3908,11 @@ mcd
 mchapv2
 mct
 md5
-md5_v2-4f929a24e2fc8e8455a8690184e3eb4a
+md5_v2-bec382e58a89ea94878fb65fed42770c
 mdatp
 mdb
 mdbc
 mde
-mdep
 mdm
 mdop
 mdt
@@ -4011,6 +3991,8 @@ microsoft.graph
 microsoft.graph.api
 microsoft.identity.client
 microsoft.identitymodel.clients.activedirectory
+microsoft.logic
+microsoft.logic/workflows
 microsoft.web.administration
 microsoft365
 microsoft365dsc
@@ -4048,6 +4030,7 @@ mimekit
 min
 mindmeister
 minecraft
+miniconda
 minifier
 minimal
 minimum
@@ -4122,7 +4105,6 @@ mozilla
 mp3
 mp4
 mpc
-mpeg
 mpn
 mrfk
 mrfylke
@@ -4457,7 +4439,6 @@ obs
 observeit
 oce
 ocg
-ocgv
 oci
 ocicontrolcenter
 ocr
@@ -4490,7 +4471,6 @@ officegraph
 officemessageencryption
 officertool
 offline
-offlinewimservicing
 ofx
 ogg
 oh-my-posh
@@ -4614,7 +4594,6 @@ osdcloud
 osddriver
 osddrivers
 osdeploy
-osdeployment
 osdprogress
 osdsus
 osdupdate
@@ -4803,7 +4782,6 @@ pgp
 phabricator
 philips
 philosophical
-philpritchett
 phishing
 phoenix
 phoneautomation
@@ -5008,7 +4986,6 @@ powerbi
 powerbidedicated
 powerbiembedded
 powerbiembeddedcapacity
-powerbot
 powercli
 powercligoodies
 powercommander
@@ -5037,7 +5014,6 @@ powershell-gallery
 powershell-github-repo
 powershell-gitlab
 powershell-graphql
-powershell-isprime
 powershell-lightning
 powershell-module
 powershell-modules
@@ -5088,6 +5064,7 @@ pranks
 predicate
 prediction
 predictive
+predictive-text
 predictor
 preferences
 prefix
@@ -5108,7 +5085,6 @@ preview
 previousversions
 price
 pricelist
-primenumber
 primera
 principal
 principle
@@ -8312,7 +8288,6 @@ raidcontrollercmdlets
 rainbow
 raisers
 raisersedge
-raj
 ram
 ram-it
 random
@@ -8359,6 +8334,7 @@ react-stockcharts
 read
 read-slog
 readable
+reader
 readiness
 readme
 readpdf
@@ -8430,8 +8406,6 @@ regions
 regiser-argumentcompleter
 register
 register-argumentcompleter
-registered
-registrar
 registration
 registry
 regression
@@ -8486,7 +8460,6 @@ rename
 repair-msauth
 reparsepoint
 repeat
-repl
 replace
 replaygain
 replication
@@ -8526,7 +8499,6 @@ resourceaccount
 resourcecontroller
 resourcegraph
 resourcegroup
-resourceid
 resourcekit
 resourcemanager
 resourcemover
@@ -8633,6 +8605,7 @@ rshell
 rsjob
 rsop
 rss
+rt
 rtu
 rubber
 rubrik
@@ -8780,7 +8753,6 @@ scriptcreation
 scriptcs
 scriptedui
 scripting
-scriptlogging
 scriptoform
 scriptrunner
 scripts
@@ -8798,9 +8770,9 @@ sdp
 search
 search-adminauditlog
 search-engines
+searchengine
 searcher
 searching
-searchmanager
 searchplace
 searchquery
 searchstring
@@ -9070,6 +9042,7 @@ skyapi
 skype
 skype_for_business
 skype4b
+skype4business
 skypeforbusiness
 skypeforbusinessonline
 skypeonline
@@ -9934,7 +9907,6 @@ udr
 udthememode
 udword
 uefi
-uem
 ui
 ui/ux
 ui7
@@ -10057,7 +10029,6 @@ uuid
 uup
 uw
 uwp
-ux
 vadim
 vagrant
 vale
@@ -10066,7 +10037,6 @@ validate-dcb
 validatedsolutions
 validatemapsconnectivity
 validation
-validator
 value
 valve
 vami
@@ -10232,7 +10202,6 @@ vs
 vs-shell
 vsa
 vsan
-vsan+
 vscode
 vsdevcmd
 vsdevshell
@@ -10240,7 +10209,6 @@ vsenvironment
 vsm
 vso
 vsphere
-vsphere+
 vss
 vssetup
 vsshell
@@ -10434,7 +10402,6 @@ windowspowershell
 windowspresentationfoundation
 windowsrest
 windowssandbox
-windowssearchmanager
 windowsserver
 windowsserver2008
 windowsserver2012
@@ -10546,6 +10513,7 @@ writeaccess
 writelog
 writemanager
 writeprogress
+writer
 ws-federation
 wsapi
 wsb
