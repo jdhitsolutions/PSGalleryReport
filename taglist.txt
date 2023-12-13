@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Wednesday, 13 December 2023 02:07:15 UTC
+Updated: Wednesday, 13 December 2023 09:52:31 UTC
 
 .bat
 .env
@@ -385,6 +385,7 @@ applayering
 apple
 application
 application-control
+application-transformer
 application-whitelisting
 applicationgateway
 applicationgrid
@@ -466,6 +467,7 @@ ascii85
 asciiart
 asdatabase
 asigra
+asjob
 asm
 asn.1
 asn1
@@ -617,6 +619,7 @@ aznetworkinterface
 aznicdetails
 azops
 azpublicipaddress
+azresources
 azsdk
 azsk
 azsql
@@ -661,6 +664,7 @@ azuredatastudio
 azuredevops
 azuredevops_security
 azuredevopsserver
+azuredns
 azurefilesync
 azurefunctionapp
 azurefunctions
@@ -678,6 +682,7 @@ azurepolicy
 azurepowershell
 azurerepos
 azureresourcemanager
+azureresources
 azurerestapispecs
 azurerm
 azurerms
@@ -685,7 +690,6 @@ azurerunasconnection
 azuresearch
 azuresearcher
 azuresecuritycenter
-azureservicebus
 azuresigntool
 azuresql
 azuresqlexport
@@ -744,6 +748,7 @@ bbp
 bc
 bcd
 bcdedit
+bcdr
 bd
 bdd
 bds
@@ -811,6 +816,8 @@ biztalkdeploymentframework
 bks
 black
 blackbaud
+blackberry
+blackberryuem
 blackbox
 blacklist
 blade
@@ -1082,6 +1089,7 @@ christmas
 chrome
 chromium
 chunk
+churchofjesuschrist
 ci
 ci/cd
 cic
@@ -1375,6 +1383,7 @@ connectivity
 connectwise
 conservation
 console
+consoleguitools
 consolemenu
 consolemusic
 consumer
@@ -1448,7 +1457,6 @@ coreepower.net.soundcloudexplode
 coreposh
 coreutils
 corona
-cortex
 cos
 cosmos
 cosmosdb
@@ -1625,6 +1633,7 @@ daily
 dane
 dangling
 dapr
+dare
 dark
 dash
 dashboard
@@ -1975,7 +1984,9 @@ dok
 dokuwiki
 domain
 domainkey
+domainname
 domains
+domino
 donothing
 dos
 dot
@@ -2041,6 +2052,7 @@ dsc
 dsc-resource
 dsc-resources
 dsccertificates
+dscconcepts
 dscdriftmonitor
 dsclient
 dscresource
@@ -2158,6 +2170,7 @@ emailmanagment
 emailnotification
 emailnotificationcomponent
 emailsecurity
+embedded
 emc
 emcomm
 emergency
@@ -2243,6 +2256,11 @@ escaping
 ese
 esent
 esoteric
+esp
+esp-idf
+esp32
+esp32s2
+espressif
 esri
 essbase
 estimate
@@ -2287,6 +2305,7 @@ eventsubscription
 eventviewer
 eventwatch
 evergreen
+evernote
 everydaypowershell
 everydayrewards
 everything
@@ -2556,6 +2575,8 @@ for
 force
 forcedelete
 foreach
+foreach-object
+forecast
 forensic
 forensics
 forest
@@ -2684,7 +2705,6 @@ generator
 generic
 genericartifactscontent
 genetic-algorithm
-genp
 genxdev
 geo
 geocache
@@ -2716,6 +2736,7 @@ get-externalip
 get-firmwaretype
 get-help
 get-history
+get-iislog
 get-openfile
 get-openfiles
 get-pass
@@ -2922,8 +2943,6 @@ hashset
 hashtable
 hasicorp
 haskell
-haste
-hastebin
 haveibeenpwned
 hba
 hbase
@@ -2987,7 +3006,6 @@ high-availability
 highlight
 highlighting
 highrise
-hint
 hipaa
 hipb
 hipchat
@@ -3008,6 +3026,7 @@ hkey_users
 hklm
 hl7
 hlds
+hls
 hockey
 hol
 holiday
@@ -3040,6 +3059,7 @@ hpc
 hpcc
 hpccache
 hpe
+hpealletra6000andnimblestoragepowershelltoolkit
 hpebioscmdlets
 hpeilocmdlets
 hpemigrationadvisorycmdlets
@@ -3139,6 +3159,7 @@ identitydataplane
 identitydirector
 identitydomains
 identitynow
+idf
 idm
 idna
 ids
@@ -3176,6 +3197,7 @@ imageoftheday
 imageprocess
 imageprocessing
 images
+imageservicing
 imageslide
 imagevalidate
 imagevalidation
@@ -3371,6 +3393,7 @@ iso
 iso-3166-1
 iso-8601
 ispac
+isprime
 ispss
 issues
 isvalidemail
@@ -3527,6 +3550,7 @@ kql
 kraken
 krbtgt
 krick
+kschemaplugin
 kubclt
 kube
 kubectl
@@ -3538,7 +3562,6 @@ kubespray
 kudu
 kurukuru
 kusto
-kvm
 kvp
 l1tf
 l2tp
@@ -3621,7 +3644,6 @@ lib
 libgit2
 libraries
 library
-libvirt
 licence
 license
 license-generator
@@ -3750,6 +3772,7 @@ logoff
 logon
 logonright
 logonscript
+logontask
 logonto
 logonuser
 logparser
@@ -3913,6 +3936,7 @@ mdatp
 mdb
 mdbc
 mde
+mdep
 mdm
 mdop
 mdt
@@ -4105,6 +4129,7 @@ mozilla
 mp3
 mp4
 mpc
+mpeg
 mpn
 mrfk
 mrfylke
@@ -4313,7 +4338,6 @@ new-udmorph
 new-win32app
 newpassword
 newrelic
-news
 newspaper
 newtonsoft
 newtonsoft.json
@@ -4439,6 +4463,7 @@ obs
 observeit
 oce
 ocg
+ocgv
 oci
 ocicontrolcenter
 ocr
@@ -4471,6 +4496,7 @@ officegraph
 officemessageencryption
 officertool
 offline
+offlinewimservicing
 ofx
 ogg
 oh-my-posh
@@ -4594,6 +4620,7 @@ osdcloud
 osddriver
 osddrivers
 osdeploy
+osdeployment
 osdprogress
 osdsus
 osdupdate
@@ -4719,7 +4746,6 @@ passwordstate
 passwordtool
 passwordvault
 passwordwolf
-paste
 patch
 patches
 patching
@@ -4782,6 +4808,7 @@ pgp
 phabricator
 philips
 philosophical
+philpritchett
 phishing
 phoenix
 phoneautomation
@@ -4814,7 +4841,6 @@ pipelines
 pipenv
 pipescript
 piraeus
-pivot
 pivotal
 pivottable
 pixoo
@@ -4856,7 +4882,6 @@ poem
 poetry
 point
 point-to-site
-pointer
 pokeapi
 pokedex
 pokemon
@@ -4963,7 +4988,6 @@ poshy-wrap-vagrant
 poshy-wrap-vault
 poshy-wrap-vscode
 poshy-wrap-wget
-poshy-wrap-wt
 poshy-wrap-yum
 poshy-wrap-zypper
 position
@@ -4986,6 +5010,7 @@ powerbi
 powerbidedicated
 powerbiembedded
 powerbiembeddedcapacity
+powerbot
 powercli
 powercligoodies
 powercommander
@@ -5014,6 +5039,7 @@ powershell-gallery
 powershell-github-repo
 powershell-gitlab
 powershell-graphql
+powershell-isprime
 powershell-lightning
 powershell-module
 powershell-modules
@@ -5085,6 +5111,7 @@ preview
 previousversions
 price
 pricelist
+primenumber
 primera
 principal
 principle
@@ -6628,8 +6655,6 @@ pscommand_new-gitbranchtracked
 pscommand_new-gitpatchfile
 pscommand_new-isofile
 pscommand_new-viewerinvocationfunction
-pscommand_new-windowsterminalpane
-pscommand_new-windowsterminaltab
 pscommand_nginx_reload
 pscommand_nginx_restart
 pscommand_nginx_start
@@ -7900,8 +7925,6 @@ psfunction_new-gitbranchtracked
 psfunction_new-gitpatchfile
 psfunction_new-isofile
 psfunction_new-viewerinvocationfunction
-psfunction_new-windowsterminalpane
-psfunction_new-windowsterminaltab
 psfunction_nginx_reload
 psfunction_nginx_restart
 psfunction_nginx_start
@@ -8232,7 +8255,6 @@ python-for-dotnet
 python3
 qcloud
 qconvergeconsolepowerkit
-qemu
 qlgc_fc_powerkit
 qlik
 qlik-api
@@ -8261,7 +8283,6 @@ quarantine
 queries
 query
 queue
-queues
 queuing
 quickaccess
 quickbase
@@ -8288,6 +8309,7 @@ raidcontrollercmdlets
 rainbow
 raisers
 raisersedge
+raj
 ram
 ram-it
 random
@@ -8368,10 +8390,7 @@ redfish
 redforest
 redgate
 redirect
-redirecting
 redirects
-redirectstandarderror
-redirectstandardoutput
 redis
 redisenterprisecache
 redistributables
@@ -8406,6 +8425,8 @@ regions
 regiser-argumentcompleter
 register
 register-argumentcompleter
+registered
+registrar
 registration
 registry
 regression
@@ -8417,6 +8438,7 @@ relational
 relay
 release
 releasedefinition
+releasehealth
 releasemanagement
 releasenotes
 relevance
@@ -8460,6 +8482,7 @@ rename
 repair-msauth
 reparsepoint
 repeat
+repl
 replace
 replaygain
 replication
@@ -8499,6 +8522,7 @@ resourceaccount
 resourcecontroller
 resourcegraph
 resourcegroup
+resourceid
 resourcekit
 resourcemanager
 resourcemover
@@ -8728,6 +8752,9 @@ sconfig
 scoop
 scope
 score
+scouterna
+scouternasetjanster
+scoutnet
 scp
 scrap
 scrape
@@ -8753,6 +8780,7 @@ scriptcreation
 scriptcs
 scriptedui
 scripting
+scriptlogging
 scriptoform
 scriptrunner
 scripts
@@ -8773,6 +8801,7 @@ search-engines
 searchengine
 searcher
 searching
+searchmanager
 searchplace
 searchquery
 searchstring
@@ -9297,6 +9326,7 @@ start-jobthread
 start-threadjob
 startkey
 startmen
+startmenu
 starttls
 starwars
 stash
@@ -9316,7 +9346,6 @@ statuscode
 statusmonitor
 statusreportingcomponent
 staytus
-stderr
 stdio
 stdout
 steam
@@ -9346,7 +9375,6 @@ store
 storedcredentials
 storefront
 storeonce
-storeserv
 strava
 streak
 stream
@@ -9399,7 +9427,6 @@ successfactors
 sudo
 sugar
 sugarcrm
-suggestion
 suitecrm
 sullivan
 summary
@@ -9507,7 +9534,6 @@ tabs
 tabular
 tag
 tag-requiredmodule1-1.0
-tag-requiredmodule2-2.0
 tag-requiredmodule3-2.5
 tag1
 tag2
@@ -9679,7 +9705,6 @@ timespan
 timezone
 tinkerpop
 tinymce
-tip
 tips
 title
 tls
@@ -9710,7 +9735,6 @@ tools
 tools4ever
 topdesk
 topgrade
-topics
 topology
 tor
 toradex
@@ -9775,8 +9799,6 @@ trevor
 trevorsullivan
 triangle
 tribeloo
-trick
-tricks
 trigger
 triodos
 tripunkt
@@ -9907,6 +9929,7 @@ udr
 udthememode
 udword
 uefi
+uem
 ui
 ui/ux
 ui7
@@ -10029,6 +10052,7 @@ uuid
 uup
 uw
 uwp
+ux
 vadim
 vagrant
 vale
@@ -10037,6 +10061,7 @@ validate-dcb
 validatedsolutions
 validatemapsconnectivity
 validation
+validator
 value
 valve
 vami
@@ -10105,7 +10130,6 @@ vigenere
 vim
 vimode
 virole
-virsh
 virtual
 virtualappliance
 virtualbox
@@ -10202,6 +10226,7 @@ vs
 vs-shell
 vsa
 vsan
+vsan+
 vscode
 vsdevcmd
 vsdevshell
@@ -10209,6 +10234,7 @@ vsenvironment
 vsm
 vso
 vsphere
+vsphere+
 vss
 vssetup
 vsshell
@@ -10369,7 +10395,6 @@ windows-powershell
 windows-registry
 windows-remoting
 windows-server-2016
-windows-terminal
 windows-user-folder
 windows-user-profile
 windows10
@@ -10378,6 +10403,7 @@ windows11
 windows365
 windowsadmincenter
 windowsaudit
+windowsbuilds
 windowscredential
 windowscredentialmanager
 windowscredentials
@@ -10400,8 +10426,10 @@ windowspackagemanager
 windowsplugins
 windowspowershell
 windowspresentationfoundation
+windowsreleasehealth
 windowsrest
 windowssandbox
+windowssearchmanager
 windowsserver
 windowsserver2008
 windowsserver2012
@@ -10432,7 +10460,6 @@ wintellect
 winterminal
 winui
 wireless
-wirelessnetwork
 wireshark
 wisc
 wiscmail
@@ -10552,7 +10579,6 @@ xaf
 xbase
 xbox
 xclarity
-xdr
 xdschelper
 xdscresources
 xdt
