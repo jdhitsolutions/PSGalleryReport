@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Thursday, 14 December 2023 09:52:32 UTC
+Updated: Thursday, 14 December 2023 17:52:25 UTC
 
 .bat
 .env
@@ -83,7 +83,6 @@ access-control
 access-points
 accesscontrol
 accesscontroldsc
-accessgovernancecp
 accesspoint
 accessrights
 accesstoken
@@ -175,6 +174,7 @@ adgroupmemberobjects
 adgroupmembers
 adgroups
 adif
+adlds
 adm
 admf
 admin
@@ -213,6 +213,7 @@ adv190013
 adv220002
 advanced
 advapi32
+advice
 advisor
 adwords
 adx
@@ -285,7 +286,6 @@ alphafs
 alpine
 alt3
 alter
-alteryx
 alwaysontop
 alwaysonvpn
 alz
@@ -675,6 +675,7 @@ azuremigrate
 azuremonitor
 azurenetworking
 azurepack
+azurepipelines
 azurepolicy
 azurepowershell
 azurerepos
@@ -703,9 +704,7 @@ azurevirtualdesktop
 azurevirtualmachines
 azurevm
 azvm
-b2
 back
-backblaze
 backconnection
 backconnectionhostname
 backup
@@ -820,7 +819,6 @@ blackbox
 blacklist
 blade
 bladeserver
-blaze
 blinking-text
 blob
 blobstorage
@@ -901,6 +899,7 @@ bugzilla
 build
 build-log
 build-scripts
+builddefinition
 builder
 building
 buildingfile
@@ -959,7 +958,6 @@ capability
 capacity
 capgemini
 capslock
-captcha
 capture
 carbon
 carbonawarecomputing
@@ -1116,6 +1114,8 @@ cis
 cisco
 ciscoucscmdlets
 ciscoucsdsc
+citation
+cite
 citrix
 citrixoptimizer
 civo
@@ -1308,6 +1308,7 @@ compiler
 complete
 completer
 completion
+completion-manager
 completionresult
 completions
 complex
@@ -1611,7 +1612,6 @@ cyclicredundancycheck
 cygwin
 cylance
 cypher
-cyrillic
 d365
 d365ce
 d365f&o
@@ -2012,6 +2012,7 @@ dq
 dr
 draw
 drawio
+dreams
 dreamweaver
 dreary
 drift
@@ -2351,12 +2352,14 @@ expand-string
 expand-tab
 expandframework
 expect
+experience
 experiments
 expired
 expiring
 expiry
 exploit
 exploits
+exploration
 explorer
 exponentiation
 export
@@ -2460,6 +2463,7 @@ file-type
 file-type-association
 fileattributes
 fileencryption
+filelist
 filelog
 filelogger
 filemanagement
@@ -2572,6 +2576,7 @@ forensics
 forest
 forestdiscovery
 forgit
+forgiveness
 form
 format
 format-numberedlist
@@ -2653,7 +2658,6 @@ gainz
 gainz-chocolateysync
 gainz-keepass
 gainz-sqldb
-gal
 gallery
 game
 gamecategory:cards
@@ -2706,6 +2710,7 @@ geolocation
 geosearching
 geotagging
 get
+get_random_password
 get-admodernreport
 get-childitem
 get-cmhealthcheck
@@ -2756,6 +2761,7 @@ gist
 git
 git-client
 git-clone
+git-flow
 git-hf
 git-hubflow
 git-lfs
@@ -2829,6 +2835,7 @@ gpolinks
 gpp
 gps
 gpt
+gpt3
 gpx
 gradle
 grafana
@@ -2871,7 +2878,6 @@ guardicore
 gubbins
 guest
 guestconfiguration
-guests
 gui
 gui.cs
 guid
@@ -2917,6 +2923,7 @@ harden
 harden-windows-security
 hardening
 hardlink
+hardmatch
 hardware
 harperdb
 hartokens
@@ -3174,23 +3181,14 @@ ilocmdlets
 im
 image
 image-converter
-image-creation
-image-generation
-image-process
-image-validation
 imagebuilder
-imagecreate
-imagecreation
-imagegeneration
 imageoftheday
-imageprocess
 imageprocessing
 images
 imageservicing
 imageslide
-imagevalidate
-imagevalidation
 imagga
+imagination
 imaging
 imap
 imb
@@ -3254,6 +3252,9 @@ insight
 insightanalytics
 insights
 inspect
+inspiration
+inspirationalquotes
+inspire
 inspur
 instagram
 install
@@ -3282,6 +3283,7 @@ integrationservicescatalog
 integrity
 intel
 inteligo
+intelligence
 intelligence"
 intellisearch
 intellisense
@@ -3348,7 +3350,6 @@ iperf
 ipfy.org
 iphone
 ipilot
-iplookup
 ipmaths
 ipp
 iprange
@@ -3360,6 +3361,7 @@ ipv6
 ipynb
 ir
 irc
+irkit
 irl
 irregular
 isadmin
@@ -3474,8 +3476,6 @@ k8s
 k8sshell
 kafka
 kaminario
-karabiner
-karabiner-elements
 karma
 kaseya
 kaseyavsa
@@ -3499,14 +3499,11 @@ key
 key-vault
 key2wocas
 keybase
-keybinding
 keyboard
 keyboardstartkey
 keycipher
 keylight
 keymanagement
-keymap
-keymapping
 keypair
 keysms
 keyvault
@@ -3584,7 +3581,6 @@ lastlogon
 lastpass
 latency
 latestupdate
-latin
 latitude
 launcher
 layer
@@ -3638,6 +3634,9 @@ licensemanager
 licensereport
 licenses
 licensing
+life
+lifequotes
+lifestyle
 light
 lights
 lime
@@ -3775,6 +3774,8 @@ lookup
 loop
 loopback
 loremipsum
+love
+lovequotes
 lpsiamol
 ls
 lsa
@@ -3885,6 +3886,7 @@ mask
 mass
 masstransit
 masterconfiguration
+match
 matcharray
 matchhashtable
 materialdesign
@@ -3948,6 +3950,7 @@ memcm
 memory
 memorydump
 memorystream
+mention
 menu
 menus
 meraki
@@ -4066,12 +4069,10 @@ module
 module-maintenance
 modulebuild
 modulecreation
-modulemanagement
 modules
 moduleupdate
 moduleupdateinfo
 moduleupdater
-moduleversion
 mof
 moldova
 moment
@@ -4097,6 +4098,8 @@ moonshot
 more
 mosaic
 motd
+motivation
+motivationalquotes
 mount
 mouse
 move
@@ -4142,7 +4145,6 @@ msi psmodule
 msiexec
 msil
 msix
-mslab
 msmq
 msol
 msoms
@@ -4235,6 +4237,7 @@ nbi
 ncal
 ndes
 nebulon
+nec-infrared-transmission-protocol
 nederland
 nedyalkov
 neo4j
@@ -4698,6 +4701,7 @@ passphrase
 passphraser passphrase password generator entropy
 passwd
 password
+password_generation
 password-generator
 password-less
 password-manager
@@ -4852,6 +4856,8 @@ pnp
 pnpm
 pode
 poe
+poem
+poetry
 point
 point-to-site
 pointer
@@ -4937,6 +4943,7 @@ poshy-wrap-forgit
 poshy-wrap-gem
 poshy-wrap-gh
 poshy-wrap-git
+poshy-wrap-git-flow
 poshy-wrap-git-hf
 poshy-wrap-git-lfs
 poshy-wrap-golang
@@ -5156,6 +5163,7 @@ protection
 protocol
 protocols
 provance
+proverb
 provider
 providerhub
 provision
@@ -5175,6 +5183,7 @@ prtg
 prtg_network_monitor
 prtgnetworkmonitor
 ps
+ps-completions
 ps-ncentral
 ps.credentialmanager
 ps1
@@ -5563,10 +5572,12 @@ pscommand_gcamg
 pscommand_gcams
 pscommand_gcamu
 pscommand_gcb
+pscommand_gcd
 pscommand_gcem
 pscommand_gcf
 pscommand_gcfl
 pscommand_gcfls
+pscommand_gch
 pscommand_gci
 pscommand_gcl
 pscommand_gclcd
@@ -5589,6 +5600,7 @@ pscommand_gcp
 pscommand_gcpa
 pscommand_gcpc
 pscommand_gcpx
+pscommand_gcr
 pscommand_gcsam
 pscommand_gct
 pscommand_gd
@@ -5683,6 +5695,27 @@ pscommand_geun
 pscommand_gexport
 pscommand_gf
 pscommand_gfa
+pscommand_gfl
+pscommand_gflf
+pscommand_gflff
+pscommand_gflffc
+pscommand_gflfp
+pscommand_gflfpc
+pscommand_gflfpll
+pscommand_gflfs
+pscommand_gflh
+pscommand_gflhf
+pscommand_gflhfc
+pscommand_gflhp
+pscommand_gflhpc
+pscommand_gflhs
+pscommand_gfli
+pscommand_gflr
+pscommand_gflrf
+pscommand_gflrfc
+pscommand_gflrp
+pscommand_gflrpc
+pscommand_gflrs
 pscommand_gfo
 pscommand_gft
 pscommand_gftv
@@ -5966,6 +5999,27 @@ pscommand_invoke-gitconfig
 pscommand_invoke-gitdifftool
 pscommand_invoke-gitfetch
 pscommand_invoke-gitfetchorigin
+pscommand_invoke-gitflow
+pscommand_invoke-gitflowfeature
+pscommand_invoke-gitflowfeaturefinish
+pscommand_invoke-gitflowfeaturefinishcurrent
+pscommand_invoke-gitflowfeaturepublish
+pscommand_invoke-gitflowfeaturepublishcurrent
+pscommand_invoke-gitflowfeaturepull
+pscommand_invoke-gitflowfeaturestart
+pscommand_invoke-gitflowhotfix
+pscommand_invoke-gitflowhotfixfinish
+pscommand_invoke-gitflowhotfixfinishcurrent
+pscommand_invoke-gitflowhotfixpublish
+pscommand_invoke-gitflowhotfixpublishcurrent
+pscommand_invoke-gitflowhotfixstart
+pscommand_invoke-gitflowinit
+pscommand_invoke-gitflowrelease
+pscommand_invoke-gitflowreleasefinish
+pscommand_invoke-gitflowreleasefinishcurrent
+pscommand_invoke-gitflowreleasepublish
+pscommand_invoke-gitflowreleasepublishcurrent
+pscommand_invoke-gitflowreleasestart
 pscommand_invoke-gitgui
 pscommand_invoke-githubapi
 pscommand_invoke-githubapi-bodyempty
@@ -6832,6 +6886,9 @@ pscommand_use-gitbranchmain
 pscommand_use-gitbranchnew
 pscommand_use-gitbranchprevious
 pscommand_use-gitbranchtracked
+pscommand_use-gitflowbranchdevelop
+pscommand_use-gitflowbranchhotfix
+pscommand_use-gitflowbranchrelease
 pscommand_use-gitstashentry
 pscommand_uuid
 pscommand_uuidgen
@@ -7360,6 +7417,27 @@ psfunction_invoke-gitconfig
 psfunction_invoke-gitdifftool
 psfunction_invoke-gitfetch
 psfunction_invoke-gitfetchorigin
+psfunction_invoke-gitflow
+psfunction_invoke-gitflowfeature
+psfunction_invoke-gitflowfeaturefinish
+psfunction_invoke-gitflowfeaturefinishcurrent
+psfunction_invoke-gitflowfeaturepublish
+psfunction_invoke-gitflowfeaturepublishcurrent
+psfunction_invoke-gitflowfeaturepull
+psfunction_invoke-gitflowfeaturestart
+psfunction_invoke-gitflowhotfix
+psfunction_invoke-gitflowhotfixfinish
+psfunction_invoke-gitflowhotfixfinishcurrent
+psfunction_invoke-gitflowhotfixpublish
+psfunction_invoke-gitflowhotfixpublishcurrent
+psfunction_invoke-gitflowhotfixstart
+psfunction_invoke-gitflowinit
+psfunction_invoke-gitflowrelease
+psfunction_invoke-gitflowreleasefinish
+psfunction_invoke-gitflowreleasefinishcurrent
+psfunction_invoke-gitflowreleasepublish
+psfunction_invoke-gitflowreleasepublishcurrent
+psfunction_invoke-gitflowreleasestart
 psfunction_invoke-gitgui
 psfunction_invoke-githubapi
 psfunction_invoke-githubapi-bodyempty
@@ -7994,6 +8072,9 @@ psfunction_use-gitbranchmain
 psfunction_use-gitbranchnew
 psfunction_use-gitbranchprevious
 psfunction_use-gitbranchtracked
+psfunction_use-gitflowbranchdevelop
+psfunction_use-gitflowbranchhotfix
+psfunction_use-gitflowbranchrelease
 psfunction_use-gitstashentry
 psfunction_uuidl
 psfunction_uuidu
@@ -8043,7 +8124,6 @@ psmp
 psmsgraph
 psmsgraphapi
 psmvp
-psnavigation
 psnexosisclient
 psngenposh
 psobject
@@ -8156,7 +8236,9 @@ qemu
 qlgc_fc_powerkit
 qlik
 qlik-api
+qlik-sense
 qlik-view
+qliksesne
 qlikview
 qlikview-cli
 qlogic
@@ -8170,6 +8252,7 @@ qr
 qrcode
 qrcodes
 qrp
+qrs
 quality
 qualys
 quandl
@@ -8188,7 +8271,9 @@ quiz
 qumulo
 quota
 quote
+quoteoftheday
 quotes
+quotestoliveby
 quoting
 quser
 qword
@@ -8301,6 +8386,7 @@ refactoring
 refeds
 refeds-mfa
 refedsmfa
+reference
 reflect
 reflection
 refresh
@@ -8319,6 +8405,7 @@ regex
 region
 regions
 regiser-argumentcompleter
+register
 register-argumentcompleter
 registered
 registrar
@@ -8332,6 +8419,7 @@ reinstall
 relational
 relay
 release
+releasedefinition
 releasehealth
 releasemanagement
 releasenotes
@@ -8692,6 +8780,7 @@ sdp
 search
 search-adminauditlog
 search-engines
+searchengine
 searcher
 searching
 searchmanager
@@ -9055,6 +9144,7 @@ sonarqube
 sonarr
 sonatype
 songs
+sonicwall
 sonicwallvpn
 sonus
 soon
@@ -9312,6 +9402,7 @@ subscriptiondefinition
 subset
 subsystem
 subtitle
+success
 successfactors
 sudo
 sugar
@@ -9444,6 +9535,7 @@ task-runner
 task-scheduler
 taskbar
 tasker
+taskgroup
 taskmanagement
 tasks
 taskscheduler
@@ -9669,12 +9761,11 @@ transforms
 transitionmanager
 translate
 translation
-translit
-transliteration
 transmission
 transparency
 transpilation
 trap
+travel
 trec
 tree
 tree-structure
@@ -9707,6 +9798,7 @@ trusted
 trusted-host
 trustedhosts
 trustedrootcertificate
+truth
 trx
 ts
 tsa
@@ -9776,7 +9868,6 @@ ud-datepicker
 ud-field
 ud-flexytable
 ud-funnel
-ud-hero
 ud-illustration
 ud-input
 ud-licensed
@@ -10082,7 +10173,6 @@ vmwdatacenter
 vmwfolder
 vmwvmhost
 vnet
-vnmonitoring
 vnugglets
 vnugglets.com
 vocabularies
@@ -10394,7 +10484,6 @@ workingtime
 workload
 workload-automation
 workloadidentity
-workloads
 workpoint
 workrequests
 worksheet
@@ -10532,6 +10621,7 @@ z
 zabbix
 zabbixps
 zap
+zcat
 zendesk
 zerotrust
 zerto
