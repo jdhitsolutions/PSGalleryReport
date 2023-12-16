@@ -1,11 +1,10 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Saturday, 16 December 2023 09:52:28 UTC
+Updated: Saturday, 16 December 2023 17:52:25 UTC
 
 .bat
 .env
 .net
-.prom
 .ps1xml
 'azure'
 'blob storage'
@@ -330,7 +329,6 @@ animations
 annotated
 announcement
 announcementsservice
-anonymous
 anova
 ansi
 ansible
@@ -390,7 +388,6 @@ application-transformer
 application-whitelisting
 applicationgateway
 applicationgrid
-applicationhost.config
 applicationinsights
 applicationmigration
 applicationmonitor
@@ -597,7 +594,6 @@ aws_profile
 aws-codebuild
 aws-lambda
 aws-vault
-aws.tools.powershell
 awscli
 awspricelist
 axapta
@@ -611,13 +607,16 @@ azautomation
 azcli
 azcompute
 azd
+azdisk
 azdo
 azereo
 azforensics
 azkeyvault
 aznetworking
+aznetworkinterface
 aznicdetails
 azops
+azpublicipaddress
 azresources
 azsdk
 azsk
@@ -734,7 +733,6 @@ based
 baseline
 basename
 bash
-basic
 bastion
 bat
 batcat
@@ -791,7 +789,6 @@ binary
 binaryip
 bind
 binding
-bindings
 bing
 bingmap
 bingmaps
@@ -891,7 +888,6 @@ brownserve-uk
 browser
 browserextension
 browserhistory
-browsing
 brs
 bruteforce
 bson
@@ -1101,10 +1097,8 @@ cif
 cifv3
 cil
 cim
-cim_computersystem
 cimfs
 cimi
-ciminstance
 cims
 cimsession
 cinema
@@ -1209,8 +1203,6 @@ cluster
 clusterminimumvalues
 clusterplugins
 cmaccounts
-cmake
-cmakepresets.json
 cmbuild
 cmclibnet
 cmclustermaintenance
@@ -1328,6 +1320,7 @@ compoundproperty
 compress
 compression
 compute
+computecloudatcustomer
 computeinstanceagent
 computer
 computer-site
@@ -1381,7 +1374,6 @@ connectionsmanager
 connectionstring
 connectivity
 connectwise
-conservation
 console
 consoleguitools
 consolemenu
@@ -1535,6 +1527,7 @@ crontab
 cropping
 cross-platform
 crossjoin
+crossover
 crossplatform
 crossplatformdevelopment
 crowdstrike
@@ -1616,7 +1609,6 @@ cyclicredundancycheck
 cygwin
 cylance
 cypher
-cyrillic
 d365
 d365ce
 d365f&o
@@ -1987,7 +1979,6 @@ domainkey
 domainname
 domains
 domino
-donothing
 dos
 dot
 dotenv
@@ -2105,6 +2096,7 @@ dynamics365sales
 dynamics365server
 dynamicsax
 dynamicsecuritygroups
+dynamicsnav
 dynamodb
 dynatrace
 dynatraceobservability
@@ -2146,7 +2138,6 @@ eklient psedition_core psedition_desktop
 elastic
 elasticsan
 elasticsearch
-element
 elevate
 elevated
 elevatedconsole
@@ -2305,14 +2296,15 @@ eventviewer
 eventwatch
 evergreen
 evernote
-everydaypowershell
 everydayrewards
 everything
+evolutionary-algorithms
 evolutionary-database
 evtx
 ews
 exact
 example
+examples
 excel
 exception
 exceptionless
@@ -2342,6 +2334,7 @@ execute
 exexml
 exif
 exiftool
+exists
 exitcode
 exitprocessrequest
 exo
@@ -2451,6 +2444,8 @@ file-encoding
 file-extension
 file-extension-association
 file-invalidchar
+file-matcher
+file-matching
 file-monitoring
 file-name
 file-name-extension
@@ -2467,6 +2462,7 @@ filelist
 filelog
 filelogger
 filemanagement
+filematcher
 filename
 filenames
 fileproperties
@@ -2483,6 +2479,9 @@ filesharing
 filestorage
 filestream
 filesystem
+filesystementry-matcher
+filesystementry-matching
+filesystementrymatcher
 filesystemrights
 filesystemsecurity
 filesystemwatcher
@@ -2566,7 +2565,6 @@ force
 forcedelete
 foreach
 foreach-object
-forecast
 forensic
 forensics
 forest
@@ -2638,7 +2636,6 @@ fullmetalgnome
 fullscreen
 fun
 function
-function_calling
 functionality
 functionalprogramming
 functions
@@ -2694,6 +2691,7 @@ generation
 generator
 generic
 genericartifactscontent
+genetic-algorithm
 genp
 genxdev
 geo
@@ -2706,7 +2704,6 @@ geolocation
 geosearching
 geotagging
 get
-get_random_password
 get-admodernreport
 get-childitem
 get-cmhealthcheck
@@ -2781,7 +2778,6 @@ gitlab4
 gitlabpipeline
 gitops
 glob
-globalclipboard
 globaldashboard
 globalentry
 globbing
@@ -2963,10 +2959,8 @@ heavenbay
 helium
 helix
 hello
-helloid
 helloposhgallery
 helloworld
-helm
 helmet
 help
 helpdesk
@@ -3249,7 +3243,6 @@ initiator
 inline-progress
 inlineprogress
 innerjoin
-innertext
 input
 inputbox
 inputobject
@@ -3357,6 +3350,7 @@ iperf
 ipfy.org
 iphone
 ipilot
+iplookup
 ipmaths
 ipp
 iprange
@@ -3593,7 +3587,6 @@ lastlogon
 lastpass
 latency
 latestupdate
-latin
 latitude
 launcher
 layer
@@ -3611,8 +3604,12 @@ leafs
 league
 lean
 learn
+learn-powershell
+learn-powershell-series
 learning
+learning-powershell
 learningpowershell
+learnpowershell
 lease
 leftjoin
 legacy
@@ -3797,8 +3794,6 @@ lunches
 lwa
 lxca
 lxcapstool
-lxco
-lxcopstool
 lync
 m365
 m365dsc
@@ -4007,7 +4002,6 @@ microsoft.identity.client
 microsoft.identitymodel.clients.activedirectory
 microsoft.logic
 microsoft.logic/workflows
-microsoft.web.administration
 microsoft365
 microsoft365dsc
 microsoftauthenticationlibrary
@@ -4038,7 +4032,7 @@ migration
 migration-tool
 migrations
 milestone
-mime
+mim
 mimekit
 min
 mindmeister
@@ -4151,7 +4145,6 @@ msgraphapi
 msgraphreport
 msgraphtokenlifetimepolicy
 msi
-msi psmodule
 msiexec
 msil
 msix
@@ -4203,6 +4196,7 @@ multithreading
 music
 musiccast
 mustache
+mutation
 mute
 mutex
 mva
@@ -4226,7 +4220,6 @@ n-able
 n-central
 nabu
 nac
-nagios
 name
 name-of-dogs
 namedpipe
@@ -4243,6 +4236,7 @@ nasdaq
 native
 natpool
 natural-language-to-code
+natural-selection
 nav
 navigation
 nbi
@@ -4554,7 +4548,6 @@ openhere
 openid
 openidconnect
 openinghours
-openport
 openprovider
 openscad
 opensearch
@@ -4579,6 +4572,7 @@ ops
 opsi
 opsmgr
 optics
+optimization
 optimizer
 option
 option119
@@ -4637,7 +4631,6 @@ out-default
 out-gridview
 out-json
 outerjoin
-outertext
 outline
 outlook
 output
@@ -4713,7 +4706,6 @@ passphrase
 passphraser passphrase password generator entropy
 passwd
 password
-password_generation
 password-generator
 password-less
 password-manager
@@ -4895,6 +4887,7 @@ pop
 pop-location
 pop3
 popd
+population
 popup
 port
 port-scanner
@@ -4958,7 +4951,6 @@ poshy-wrap-git-flow
 poshy-wrap-git-hf
 poshy-wrap-git-lfs
 poshy-wrap-golang
-poshy-wrap-helm
 poshy-wrap-kubectl
 poshy-wrap-maven
 poshy-wrap-nginx
@@ -5022,8 +5014,10 @@ powershell-class
 powershell-cmdlets
 powershell-core
 powershell-core-releases-api
+powershell-course
 powershell-credentials
 powershell-dsc
+powershell-examples
 powershell-gallery
 powershell-github-repo
 powershell-gitlab
@@ -5036,14 +5030,16 @@ powershell-releases-api
 powershell-remoting
 powershell-terminal
 powershell-terminal-copilot
+powershell-training
 powershell.module.invokewinget
 powershell.one
 powershell.persistentpathstack
 powershell7
-powershellai
 powershellazuresql
 powershellconferenceeurope
 powershellcore
+powershellcourse
+powershellexamples
 powershellfar
 powershellgallery
 powershellget
@@ -5055,6 +5051,7 @@ powershellmoduleupdate
 powershellpr0mpt
 powershellscript
 powershelltemplate
+powershelltraining
 powershelltypeaccelerators
 powershelluniversal
 powershellv5
@@ -5892,11 +5889,7 @@ pscommand_gup
 pscommand_gus
 pscommand_gwc
 pscommand_gwch
-pscommand_h
-pscommand_hin
 pscommand_hostname
-pscommand_hse
-pscommand_hup
 pscommand_invoke-aptcachepolicy
 pscommand_invoke-aptcachesearch
 pscommand_invoke-aptcacheshowpkg
@@ -6036,10 +6029,6 @@ pscommand_invoke-goversion
 pscommand_invoke-govet
 pscommand_invoke-gowork
 pscommand_invoke-greppipfreeze
-pscommand_invoke-helm
-pscommand_invoke-helminstall
-pscommand_invoke-helmsearch
-pscommand_invoke-helmupgrade
 pscommand_invoke-hub
 pscommand_invoke-kubectl
 pscommand_invoke-kubectlallnamespaces
@@ -7434,10 +7423,6 @@ psfunction_invoke-goversion
 psfunction_invoke-govet
 psfunction_invoke-gowork
 psfunction_invoke-greppipfreeze
-psfunction_invoke-helm
-psfunction_invoke-helminstall
-psfunction_invoke-helmsearch
-psfunction_invoke-helmupgrade
 psfunction_invoke-hub
 psfunction_invoke-kubectl
 psfunction_invoke-kubectlallnamespaces
@@ -8186,9 +8171,7 @@ qemu
 qlgc_fc_powerkit
 qlik
 qlik-api
-qlik-sense
 qlik-view
-qliksesne
 qlikview
 qlikview-cli
 qlogic
@@ -8202,7 +8185,6 @@ qr
 qrcode
 qrcodes
 qrp
-qrs
 quality
 qualys
 quandl
@@ -8240,7 +8222,6 @@ raisers
 raisersedge
 raj
 ram
-ram-it
 random
 random-date
 random-password
@@ -8497,7 +8478,6 @@ rfc826
 rfc9116
 rg
 rgb
-rhapsody
 ribbon
 ribcl
 rightjoin
@@ -8543,6 +8523,7 @@ routeconfig
 router
 routes
 routetable
+routine
 rover
 royalapps
 royaldocument
@@ -8976,7 +8957,6 @@ singleton
 sinks
 sintez
 sintez.module.rds
-sit
 site
 site_navigation
 sitecollection
@@ -8990,7 +8970,6 @@ sitesystemserver
 sitethumbprint
 size
 skatterbrainz
-skeleton-loader
 skia
 skiasharp
 skolnilogin
@@ -9007,6 +8986,8 @@ skypeforbusinessonline
 skypeonline
 skytap
 slack
+slash
+slashcommands
 slmgr
 sln
 slugify
@@ -9045,7 +9026,6 @@ snapchat
 snapping
 snapshot
 snapshots
-sni
 snipe-it
 snippet
 snippets
@@ -9143,7 +9123,6 @@ spellcheck
 spelling
 spf
 spi
-spicetify
 spinnaker
 splash
 splat
@@ -9221,7 +9200,6 @@ ssis
 ssl
 sslcert
 sslcertificate
-sslflags
 ssllabs
 ssllabs-scan
 sslprotocol
@@ -9370,7 +9348,6 @@ support-tool
 support-tools
 suppress
 supress-reboot
-surround
 survey
 surveymonkey
 sus
@@ -9494,7 +9471,6 @@ taxonomy
 tcp
 tcp/ip
 tcpip
-tcpport
 tcprjmgmt
 tcpserver
 tcptest
@@ -9665,7 +9641,6 @@ tool
 toolbox
 toolkit
 tools
-tools4ever
 topdesk
 topgrade
 topics
@@ -9697,6 +9672,7 @@ trafficmanager
 trafficmarking
 train
 training
+training-course
 tram
 transact
 transaction
@@ -9710,8 +9686,6 @@ transforms
 transitionmanager
 translate
 translation
-translit
-transliteration
 transmission
 transparency
 transpilation
@@ -10063,7 +10037,6 @@ vie
 viewer
 vigenere
 vim
-vimode
 virole
 virsh
 virtual
@@ -10254,7 +10227,6 @@ webpage
 webpi
 webreport
 webrequest
-webresponse
 webroot
 webserver
 webservice
@@ -10267,6 +10239,7 @@ websphere
 websphereappserver
 websphereportal
 webtest
+webtesting
 webtime
 wec
 wecutil
@@ -10298,6 +10271,7 @@ widedata
 wif
 wifi
 wiki
+wildcard
 wildfly
 wim
 wim2vhd
@@ -10517,6 +10491,7 @@ xbox
 xclarity
 xdr
 xdschelper
+xdscresources
 xdt
 xenapp
 xendeskop
