@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 18 December 2023 02:06:54 UTC
+Updated: Monday, 18 December 2023 09:52:29 UTC
 
 .bat
 .env
@@ -74,7 +74,6 @@ about
 abr
 abstractsyntaxtree
 abuse
-abuseipdb
 acas
 accelerator
 access
@@ -587,6 +586,7 @@ avro
 avs
 avset
 await
+awareness
 awesome
 awp
 awpagent
@@ -1433,6 +1433,7 @@ convertfrom
 convertfrom-yaml
 convertto
 convertto-excel
+convertto-hashtable
 convertto-yaml
 converttodocx
 converttohtml
@@ -2105,6 +2106,7 @@ dynamics365fo
 dynamics365sales
 dynamics365server
 dynamicsax
+dynamicsecuritygroups
 dynamicsnav
 dynamodb
 dynatrace
@@ -2903,7 +2905,6 @@ gzip-compression
 ha
 haarlemsdagblad
 hack
-hacking
 hacktoberfest
 hadoop
 hafr
@@ -3459,6 +3460,7 @@ join-object
 jojoba
 joke
 jotform
+journal
 joyride
 jpg
 jq
@@ -4654,6 +4656,7 @@ oui-search
 out-consolegridview
 out-default
 out-gridview
+out-json
 outerjoin
 outertext
 outline
@@ -4939,7 +4942,6 @@ poshgraph
 poshgraph-sdk
 poshgrouppolicy
 poshkeepass
-poshlog
 poshorigin
 poshproject
 poshprtg
@@ -4980,7 +4982,6 @@ poshy-wrap-git-lfs
 poshy-wrap-golang
 poshy-wrap-helm
 poshy-wrap-kubectl
-poshy-wrap-maven
 poshy-wrap-nginx
 poshy-wrap-nmap
 poshy-wrap-npm
@@ -4999,7 +5000,6 @@ poshy-wrap-vault
 poshy-wrap-vscode
 poshy-wrap-wget
 poshy-wrap-wt
-poshy-wrap-yum
 poshy-wrap-zypper
 position
 post
@@ -5182,6 +5182,7 @@ proliant
 prometheus
 prompt
 pronounceable
+proofpoint
 properties
 property
 property-list
@@ -5232,6 +5233,7 @@ psadgroupmembers
 psadt
 psake
 psappdeploytoolkit
+psat
 psazd
 psbackup
 psbbix
@@ -6218,17 +6220,6 @@ pscommand_invoke-kubectlrolloutundo
 pscommand_invoke-kubectlrunnetshoot
 pscommand_invoke-kubectlscaledeployment
 pscommand_invoke-kubectlscalestatefulset
-pscommand_invoke-mavencleaninstall
-pscommand_invoke-mavencleaninstallskiptests
-pscommand_invoke-mavencleanpackage
-pscommand_invoke-mavencleanpackageskiptests
-pscommand_invoke-mavendependencytree
-pscommand_invoke-mavenhelpeffectivepom
-pscommand_invoke-maveninstall
-pscommand_invoke-mavenpackage
-pscommand_invoke-mavenreleaseperform
-pscommand_invoke-mavenreleaseprepare
-pscommand_invoke-mavenreleaserollback
 pscommand_invoke-npmbinmungedpath
 pscommand_invoke-npminfo
 pscommand_invoke-npminit
@@ -6445,18 +6436,6 @@ pscommand_invoke-vscodewithextensionsdir
 pscommand_invoke-vscodewithlog
 pscommand_invoke-vscodewithuserdatadir
 pscommand_invoke-vscodewithwait
-pscommand_invoke-yumcleanall
-pscommand_invoke-yumgroupinstall
-pscommand_invoke-yumgroupremove
-pscommand_invoke-yuminfo
-pscommand_invoke-yuminstall
-pscommand_invoke-yumlist
-pscommand_invoke-yumlistinstalled
-pscommand_invoke-yummakecache
-pscommand_invoke-yumremove
-pscommand_invoke-yumremoveleaves
-pscommand_invoke-yumsearch
-pscommand_invoke-yumupdate
 pscommand_invoke-zypper
 pscommand_invoke-zypperaddlock
 pscommand_invoke-zypperaddservice
@@ -6503,7 +6482,6 @@ pscommand_invoke-zypperupdate
 pscommand_invoke-zypperverify
 pscommand_invoke-zypperversioncompare
 pscommand_invoke-zypperwhatprovides
-pscommand_invokeyumgrouplist
 pscommand_ips
 pscommand_ipy
 pscommand_ipython
@@ -6642,22 +6620,11 @@ pscommand_lsn
 pscommand_lsr
 pscommand_lt
 pscommand_mcd
-pscommand_mci
-pscommand_mcisk
-pscommand_mcp
-pscommand_mcpsk
-pscommand_mdep
 pscommand_measure-envvarchanges
 pscommand_merge-gitrepositoryfromoriginbranchmain
 pscommand_merge-gitrepositoryfromupstreambranchmain
-pscommand_mi
 pscommand_mirrorsite
 pscommand_move-gittrackedfiles
-pscommand_mp
-pscommand_mpom
-pscommand_mrperf
-pscommand_mrprep
-pscommand_mrrb
 pscommand_myip
 pscommand_new-gitbranchfromstash
 pscommand_new-gitbranchtracked
@@ -6976,19 +6943,6 @@ pscommand_write-gitcommitinteractively
 pscommand_write-gitcommitsignedoff
 pscommand_xin
 pscommand_xwith
-pscommand_yc
-pscommand_ygi
-pscommand_ygl
-pscommand_ygr
-pscommand_yi
-pscommand_yl
-pscommand_yli
-pscommand_ymc
-pscommand_yp
-pscommand_yr
-pscommand_yrl
-pscommand_ys
-pscommand_yu
 pscommand_z
 pscommand_zal
 pscommand_zar
@@ -7636,17 +7590,6 @@ psfunction_invoke-kubectlrolloutundo
 psfunction_invoke-kubectlrunnetshoot
 psfunction_invoke-kubectlscaledeployment
 psfunction_invoke-kubectlscalestatefulset
-psfunction_invoke-mavencleaninstall
-psfunction_invoke-mavencleaninstallskiptests
-psfunction_invoke-mavencleanpackage
-psfunction_invoke-mavencleanpackageskiptests
-psfunction_invoke-mavendependencytree
-psfunction_invoke-mavenhelpeffectivepom
-psfunction_invoke-maveninstall
-psfunction_invoke-mavenpackage
-psfunction_invoke-mavenreleaseperform
-psfunction_invoke-mavenreleaseprepare
-psfunction_invoke-mavenreleaserollback
 psfunction_invoke-npmbinmungedpath
 psfunction_invoke-npminfo
 psfunction_invoke-npminit
@@ -7863,18 +7806,6 @@ psfunction_invoke-vscodewithextensionsdir
 psfunction_invoke-vscodewithlog
 psfunction_invoke-vscodewithuserdatadir
 psfunction_invoke-vscodewithwait
-psfunction_invoke-yumcleanall
-psfunction_invoke-yumgroupinstall
-psfunction_invoke-yumgroupremove
-psfunction_invoke-yuminfo
-psfunction_invoke-yuminstall
-psfunction_invoke-yumlist
-psfunction_invoke-yumlistinstalled
-psfunction_invoke-yummakecache
-psfunction_invoke-yumremove
-psfunction_invoke-yumremoveleaves
-psfunction_invoke-yumsearch
-psfunction_invoke-yumupdate
 psfunction_invoke-zypper
 psfunction_invoke-zypperaddlock
 psfunction_invoke-zypperaddservice
@@ -7921,7 +7852,6 @@ psfunction_invoke-zypperupdate
 psfunction_invoke-zypperverify
 psfunction_invoke-zypperversioncompare
 psfunction_invoke-zypperwhatprovides
-psfunction_invokeyumgrouplist
 psfunction_jump
 psfunction_kerndeb
 psfunction_kres
@@ -8729,7 +8659,6 @@ scaffold
 scaffoldingtemplate
 scala
 scalable
-scalablevectorgraphics
 scan
 scanner
 scatter
@@ -8992,6 +8921,7 @@ shacrypt
 shadow
 shadowcopy
 shadowcopybackups
+shadowgroups
 shanghaitech
 shard
 share
@@ -9077,7 +9007,6 @@ sitesystemserver
 sitethumbprint
 size
 skatterbrainz
-skeleton-loader
 skia
 skiasharp
 skolnilogin
@@ -9624,6 +9553,7 @@ tenable
 tenable.sc
 tenant
 tenantmanagercontrolplane
+teradata
 termbin
 terminal
 terminal-interface
@@ -9644,9 +9574,11 @@ test-automation
 test-dscconfiguration
 test-internetconnection
 test-modulepath
+test-osplatform
 test-psremoting
 test-samcmapplicationexists
 test-samcmpackageexists
+test-userisadministrator
 test-xml
 test123
 testaccount
@@ -9868,7 +9800,6 @@ twitter-api-v2
 twitter-client
 twitter-follow
 twitter-hashtag
-twitter-mention
 twitter-share
 twitter-timeline
 twitter-tweet
@@ -10148,6 +10079,7 @@ video
 videos
 vie
 viewer
+vigenere
 vim
 vimode
 virole
@@ -10301,6 +10233,7 @@ warraty
 warrenty
 wasabi
 watch
+watchdog
 watchmen
 watery
 wave
@@ -10657,7 +10590,6 @@ youtube-dl
 youtubeextractor
 yq
 yubaba
-yum
 z
 zabbix
 zabbixps
