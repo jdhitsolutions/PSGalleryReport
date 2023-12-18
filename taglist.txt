@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Sunday, 17 December 2023 17:52:29 UTC
+Updated: Monday, 18 December 2023 02:06:54 UTC
 
 .bat
 .env
@@ -54,7 +54,6 @@ Updated: Sunday, 17 December 2023 17:52:29 UTC
 7z
 7zip
 8.1
-8ball
 9
 aa
 aac
@@ -377,6 +376,7 @@ appattach
 appclusive
 appcmd
 appconfiguration
+appdynamics
 appearance
 appender
 appian
@@ -1196,6 +1196,7 @@ cloudfoundation
 cloudfront
 cloudgovernance
 cloudguard
+cloudinairy
 cloudinit
 cloudiq
 cloudkey
@@ -1432,7 +1433,6 @@ convertfrom
 convertfrom-yaml
 convertto
 convertto-excel
-convertto-hashtable
 convertto-yaml
 converttodocx
 converttohtml
@@ -1547,7 +1547,6 @@ cryptocompare
 cryptocurrency
 cryptography
 cs137
-csc
 csharp
 csharp-watch
 csom
@@ -1979,6 +1978,8 @@ docusign
 docx
 dod
 dog
+dog-names
+dogs
 dogstatsd
 dok
 dokuwiki
@@ -2104,7 +2105,6 @@ dynamics365fo
 dynamics365sales
 dynamics365server
 dynamicsax
-dynamicsecuritygroups
 dynamicsnav
 dynamodb
 dynatrace
@@ -2221,6 +2221,7 @@ enumerable
 env
 environment
 environment-variables
+environmentmanagent
 environmentmodules
 environments
 environmentvariable
@@ -2427,6 +2428,7 @@ favorites
 fb-pro
 fciv
 fd
+feather
 feature
 features
 featuresondemand
@@ -2563,6 +2565,7 @@ fog
 fogapi
 fogproject
 folder
+folderpermission
 folders
 font
 fonts
@@ -2917,6 +2920,7 @@ hamradiodeluxe
 hana
 hanaon
 handle
+handler
 hangouts
 hannelstoolbox
 hanwha
@@ -2967,6 +2971,7 @@ heartbeatdiscovery
 heat
 heating
 heavenbay
+helium
 helix
 hello
 helloid
@@ -3044,6 +3049,7 @@ host-based
 hosted
 hostentry
 hostfile
+hostinstance
 hostname
 hosts
 hosts-file
@@ -3453,7 +3459,6 @@ join-object
 jojoba
 joke
 jotform
-journal
 joyride
 jpg
 jq
@@ -3681,6 +3686,7 @@ lint
 linting
 linux
 linux-command
+linuxssh
 liquid
 liquit
 liquit.com
@@ -3719,6 +3725,7 @@ location
 locationbasedservices
 lock
 lockbox
+lockdisplaytimeout
 lockdown
 locking
 lockoutreport
@@ -3873,6 +3880,7 @@ manifest
 manual
 map
 mapapi
+mapi
 mappeddrives
 mapper24
 mapping
@@ -4237,6 +4245,7 @@ nabu
 nac
 nagios
 name
+name-of-dogs
 namedpipe
 nameit
 nameresolution
@@ -4330,6 +4339,7 @@ new-rdpsession
 new-samcmapplicationfrompackagedefinitionsms
 new-samcmpackagefrompackagedefinitionsms
 new-system
+new-udmorph
 new-win32app
 newpassword
 newrelic
@@ -4341,6 +4351,7 @@ nexenta
 nexentastor
 nexthink
 nexus
+nexusiq
 nfsv3
 ngen
 ngfw
@@ -4421,6 +4432,7 @@ ntsystems
 nuget
 nuget-references
 nuget.exe
+nuget.org
 nugetpackageprovider
 number
 numlock
@@ -4588,6 +4600,7 @@ optics
 optimization
 optimizer
 option
+option119
 options
 optionstring
 opus
@@ -4641,7 +4654,6 @@ oui-search
 out-consolegridview
 out-default
 out-gridview
-out-json
 outerjoin
 outertext
 outline
@@ -8548,6 +8560,7 @@ retention
 retro
 retry
 returnuserprofile
+retype
 reuse
 reverse-engineer
 reverse-string
@@ -8770,6 +8783,7 @@ screencapture
 screenconnect
 screenfetch
 screenresolution
+screensaver
 screenshot
 script
 script_version
@@ -8809,6 +8823,7 @@ searchmanager
 searchplace
 searchquery
 searchstring
+searchsuffixlist
 secaas
 secedit
 secret
@@ -8850,6 +8865,7 @@ securitypolicydsc
 securityroles
 securityscopes
 securitytxt
+sed
 seed
 seek
 seekatar
@@ -8908,6 +8924,7 @@ server
 servercertificatevalidationcallback
 serverless
 servermanagement
+servers
 service
 service-bus
 service-messages
@@ -8962,6 +8979,7 @@ sevenzip
 sf
 sfb
 sftp
+sfx
 sgopher
 sgw
 sha-256
@@ -8974,7 +8992,6 @@ shacrypt
 shadow
 shadowcopy
 shadowcopybackups
-shadowgroups
 shanghaitech
 shard
 share
@@ -9141,6 +9158,7 @@ social
 social-media
 socialmedia
 socketlabs
+sockets
 sodium
 software
 softwarecenter
@@ -9286,6 +9304,8 @@ sse
 ssh
 ssh-config
 ssh-keygen
+sshmanagement
+sshservers
 ssis
 ssl
 sslcert
@@ -9375,6 +9395,7 @@ storefront
 storeonce
 storeserv
 strava
+streak
 stream
 streamanalytics
 streaming
@@ -9583,6 +9604,7 @@ techedna2014
 techlog
 technology
 techsmith
+tel
 telegram
 telegram-bot
 telegram-bot-api
@@ -9602,7 +9624,6 @@ tenable
 tenable.sc
 tenant
 tenantmanagercontrolplane
-teradata
 termbin
 terminal
 terminal-interface
@@ -9623,11 +9644,9 @@ test-automation
 test-dscconfiguration
 test-internetconnection
 test-modulepath
-test-osplatform
 test-psremoting
 test-samcmapplicationexists
 test-samcmpackageexists
-test-userisadministrator
 test-xml
 test123
 testaccount
@@ -9747,6 +9766,7 @@ totp
 touch
 toughswitch
 tphubps
+tpm
 tr-064
 tr064
 trace
@@ -10128,7 +10148,6 @@ video
 videos
 vie
 viewer
-vigenere
 vim
 vimode
 virole
