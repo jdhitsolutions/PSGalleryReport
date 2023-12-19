@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Tuesday, 19 December 2023 02:06:16 UTC
+Updated: Tuesday, 19 December 2023 09:52:26 UTC
 
 .bat
 .env
@@ -46,7 +46,6 @@ Updated: Tuesday, 19 December 2023 02:06:16 UTC
 3dprinting
 3par
 50
-64
 650
 650flb
 7
@@ -75,6 +74,7 @@ about
 abr
 abstractsyntaxtree
 abuse
+abuseipdb
 acas
 accelerator
 access
@@ -100,7 +100,6 @@ acme
 acmesharp
 acmesharp_ext
 act-on
-act!
 actifio
 actifiogo
 action
@@ -631,7 +630,6 @@ aztools
 azts
 azuead
 azure
-azure_ad
 azure_security
 azure-adx
 azure-backup
@@ -640,7 +638,6 @@ azure-data-explorer
 azure-devops
 azure-forensics
 azure-functions
-azure-pipelines
 azure-resource-graph
 azure-ssis
 azureactivedirectory
@@ -970,6 +967,7 @@ capture
 carbon
 carbonawarecomputing
 carbonintensity
+card
 cardwirth
 cargo
 carousel
@@ -1135,10 +1133,8 @@ classified
 clccontrol
 clccontrolapiv1
 clccontrolapiv2
-clean-up
 cleanmgr
 cleanup
-cleanup-orphans
 clear
 clear-history
 clearpass
@@ -1197,7 +1193,6 @@ cloudfoundation
 cloudfront
 cloudgovernance
 cloudguard
-cloudinairy
 cloudinit
 cloudiq
 cloudkey
@@ -1378,12 +1373,12 @@ connectedmachine
 connectednetwork
 connectexchange
 connection
+connectionmonitor
 connections
 connectionsmanager
 connectionstring
 connectivity
 connectwise
-conservation
 console
 consoleguitools
 consolemenu
@@ -1583,6 +1578,7 @@ custom
 customchecks
 customdns
 customer
+customerengagement
 customers
 customeventchannel
 customeventlog
@@ -1620,6 +1616,7 @@ cylance
 cypher
 cyrillic
 d365
+d365ce
 d365f&o
 d365fo
 d365lbd
@@ -1769,7 +1766,6 @@ deflate
 delegated
 delegationmodel
 delete
-delete-orphan-branches
 deleteuserprofile
 delivery
 dell
@@ -2099,7 +2095,9 @@ dynamics
 dynamics-365
 dynamics-crm
 dynamics365
+dynamics365ce
 dynamics365fo
+dynamics365sales
 dynamics365server
 dynamicsax
 dynamicsecuritygroups
@@ -2219,7 +2217,6 @@ enumerable
 env
 environment
 environment-variables
-environmentmanagent
 environmentmodules
 environments
 environmentvariable
@@ -2295,6 +2292,7 @@ eventlogchannel
 eventlogchannels
 eventlogmanifest
 eventlogs
+eventmonitor
 eventmonitoring
 eventprocessor
 events
@@ -2317,7 +2315,6 @@ excel
 exception
 exceptionless
 exchange
-exchange_online
 exchange-rates
 exchange2010
 exchange2013
@@ -2483,7 +2480,6 @@ filesecurity
 fileserver
 fileserverresourcemanager
 fileshare
-filesharing
 filestorage
 filestream
 filesystem
@@ -2767,7 +2763,6 @@ git-clone
 git-flow
 git-hf
 git-hubflow
-git-lfs
 git-proxy
 git-stat
 gitcmdline
@@ -2857,7 +2852,6 @@ graphs
 graphservices
 graphviz
 graylog
-greenplum
 gremlin
 grep
 greynoise
@@ -2899,6 +2893,7 @@ gzip-compression
 ha
 haarlemsdagblad
 hack
+hacking
 hacktoberfest
 hadoop
 hafr
@@ -2972,7 +2967,6 @@ hello
 helloid
 helloposhgallery
 helloworld
-helm
 helmet
 help
 helpdesk
@@ -3228,7 +3222,6 @@ incontact
 indents
 index
 indexdb
-indicator
 inedo
 inetfwrule
 inetum
@@ -3365,7 +3358,6 @@ iphone
 ipilot
 iplookup
 ipmaths
-ipp
 iprange
 ips
 ipscan
@@ -3490,9 +3482,10 @@ k8s
 k8sshell
 kafka
 kaminario
+karabiner
+karabiner-elements
 karma
 kaseya
-kaseyavsa
 kaspersky
 katakana
 kb
@@ -3513,11 +3506,14 @@ key
 key-vault
 key2wocas
 keybase
+keybinding
 keyboard
 keyboardstartkey
 keycipher
 keylight
 keymanagement
+keymap
+keymapping
 keypair
 keysms
 keyvault
@@ -3998,11 +3994,7 @@ microfocus
 microk8s
 microservices
 microsoft
-microsoft_365
-microsoft_azure
 microsoft_endpoint_manager
-microsoft_online
-microsoft_teams
 microsoft-graph
 microsoft-teams
 microsoft-web-platform
@@ -4131,9 +4123,7 @@ mrfk
 mrfylke
 mrvl_fc_powerkit
 mrvlfcprovider
-ms_365
 ms-graph
-ms365
 msaccess
 msacpi_thermalzonetemperature
 msal
@@ -4172,7 +4162,6 @@ msp360
 mspbackups
 msproject
 msrc
-msrdc
 mssql
 mssqlbynarymodule
 mssqlbynarypsmodule
@@ -4298,7 +4287,6 @@ network
 network adapter configuration operating os optical sensor physical pointing portable printer processor cpu refrigaration cooling cooler removable usb sd ram dimm scsi sound audio card enclosure tape temperature touchpad touch pad touchscreen screen trackball trackpoint video graphics voltage psmodule
 network-credentials
 network-info
-networkanalytics
 networkcloud
 networkcontroller
 networkdiscovery
@@ -4422,7 +4410,6 @@ ntsystems
 nuget
 nuget-references
 nuget.exe
-nuget.org
 nugetpackageprovider
 number
 numlock
@@ -4482,7 +4469,6 @@ oem-charset
 offboarding
 offence
 office
-office_365
 office2010
 office2013
 office2016
@@ -4753,6 +4739,7 @@ patternmatching
 pause
 pax8
 payload
+paylocity
 paypal
 pays
 pbench
@@ -4966,9 +4953,7 @@ poshy-wrap-gh
 poshy-wrap-git
 poshy-wrap-git-flow
 poshy-wrap-git-hf
-poshy-wrap-git-lfs
 poshy-wrap-golang
-poshy-wrap-helm
 poshy-wrap-kubectl
 poshy-wrap-maven
 poshy-wrap-nginx
@@ -5198,6 +5183,7 @@ proxmox
 proxmoxve
 proxsys
 proxy
+proxyfunction
 proxyfunctions
 prtg
 prtg_network_monitor
@@ -5253,7 +5239,6 @@ pscommand_acsp
 pscommand_add_ssh
 pscommand_add-envpathitem
 pscommand_add-envvarpathitem
-pscommand_add-gitlfstrackedfiles
 pscommand_add-gitremote
 pscommand_add-gitskipworktreeflag
 pscommand_add-gitsubmodule
@@ -5678,7 +5663,6 @@ pscommand_get-gitdiffstash
 pscommand_get-gitdiffstashhead
 pscommand_get-gitdiffstashparent
 pscommand_get-gitignoredfiles
-pscommand_get-gitlfstrackedfiles
 pscommand_get-gitlogbranchcommitsunpushed
 pscommand_get-gitlogcommitspulledlast
 pscommand_get-gitloggraph
@@ -5792,10 +5776,6 @@ pscommand_gitignore-reload
 pscommand_gittowork
 pscommand_gl
 pscommand_glf
-pscommand_glfsi
-pscommand_glfsls
-pscommand_glfsmi
-pscommand_glfst
 pscommand_glg
 pscommand_glgo
 pscommand_glgs
@@ -5844,7 +5824,6 @@ pscommand_gpatch
 pscommand_gpdo
 pscommand_gpf
 pscommand_gpl
-pscommand_gplfs
 pscommand_gplr
 pscommand_gplrs
 pscommand_gpo
@@ -5930,11 +5909,7 @@ pscommand_gup
 pscommand_gus
 pscommand_gwc
 pscommand_gwch
-pscommand_h
-pscommand_hin
 pscommand_hostname
-pscommand_hse
-pscommand_hup
 pscommand_invoke-aptcachepolicy
 pscommand_invoke-aptcachesearch
 pscommand_invoke-aptcacheshowpkg
@@ -6053,8 +6028,6 @@ pscommand_invoke-githubflowhotfix
 pscommand_invoke-githubflowrelease
 pscommand_invoke-githubflowsupport
 pscommand_invoke-githubflowupdate
-pscommand_invoke-gitlfsinstall
-pscommand_invoke-gitlfsmigrateimport
 pscommand_invoke-gitmerge
 pscommand_invoke-gitpull
 pscommand_invoke-gitpush
@@ -6093,10 +6066,6 @@ pscommand_invoke-goversion
 pscommand_invoke-govet
 pscommand_invoke-gowork
 pscommand_invoke-greppipfreeze
-pscommand_invoke-helm
-pscommand_invoke-helminstall
-pscommand_invoke-helmsearch
-pscommand_invoke-helmupgrade
 pscommand_invoke-hub
 pscommand_invoke-kubectl
 pscommand_invoke-kubectlallnamespaces
@@ -7078,7 +7047,6 @@ psfunction_aar
 psfunction_add_ssh
 psfunction_add-envpathitem
 psfunction_add-envvarpathitem
-psfunction_add-gitlfstrackedfiles
 psfunction_add-gitremote
 psfunction_add-gitskipworktreeflag
 psfunction_add-gitsubmodule
@@ -7286,7 +7254,6 @@ psfunction_get-gitdiffstash
 psfunction_get-gitdiffstashhead
 psfunction_get-gitdiffstashparent
 psfunction_get-gitignoredfiles
-psfunction_get-gitlfstrackedfiles
 psfunction_get-gitlogbranchcommitsunpushed
 psfunction_get-gitlogcommitspulledlast
 psfunction_get-gitloggraph
@@ -7351,7 +7318,6 @@ psfunction_git-global-show-proxy
 psfunction_git-show-proxy
 psfunction_gitignore-reload
 psfunction_gittowork
-psfunction_gplfs
 psfunction_hostname
 psfunction_invoke-aptcachepolicy
 psfunction_invoke-aptcachesearch
@@ -7471,8 +7437,6 @@ psfunction_invoke-githubflowhotfix
 psfunction_invoke-githubflowrelease
 psfunction_invoke-githubflowsupport
 psfunction_invoke-githubflowupdate
-psfunction_invoke-gitlfsinstall
-psfunction_invoke-gitlfsmigrateimport
 psfunction_invoke-gitmerge
 psfunction_invoke-gitpull
 psfunction_invoke-gitpush
@@ -7511,10 +7475,6 @@ psfunction_invoke-goversion
 psfunction_invoke-govet
 psfunction_invoke-gowork
 psfunction_invoke-greppipfreeze
-psfunction_invoke-helm
-psfunction_invoke-helminstall
-psfunction_invoke-helmsearch
-psfunction_invoke-helmupgrade
 psfunction_invoke-hub
 psfunction_invoke-kubectl
 psfunction_invoke-kubectlallnamespaces
@@ -8283,6 +8243,7 @@ qrs
 quality
 qualys
 quandl
+quantum
 quarantine
 queries
 query
@@ -8345,7 +8306,6 @@ rcs
 rcu
 rdb
 rdbms
-rdc
 rdcman
 rdcmanager
 rdfe
@@ -8354,7 +8314,6 @@ rdl
 rdm
 rdp
 rdpsession
-rdpsign
 rds
 rdsgw
 react-stockcharts
@@ -8456,7 +8415,6 @@ remediation
 remedy
 reminder
 remote
-remote-desktop
 remote'
 remoteadmin
 remotecert
@@ -8603,7 +8561,6 @@ rocketcyber
 roco
 rocolatey
 role
-rolecapability
 roles
 rollingfile
 romaji
@@ -8845,7 +8802,6 @@ security-txt
 security.txt
 securityassertionmarkuplanguage
 securitycenter
-securitycompliancecenter
 securitygroup
 securitygroups
 securityinsights
@@ -8901,6 +8857,7 @@ seppmail
 seppmail.cloud
 seq
 sequence
+serial
 serialization
 serialize
 sericemanagement
@@ -8941,7 +8898,6 @@ servicing
 servicingstack
 ses
 session
-sessionconfiguration
 sessionize
 sessions
 set
@@ -9007,7 +8963,6 @@ shieldedvm
 ships
 shipsprovider
 shipstation
-shlink
 shodan
 shodanps
 shop
@@ -9147,7 +9102,6 @@ social
 social-media
 socialmedia
 socketlabs
-sockets
 sodium
 software
 softwarecenter
@@ -9617,7 +9571,6 @@ teradata
 termbin
 terminal
 terminal-interface
-terminal-services
 terminal.gui
 terminalnotifier
 terminalvelocity
@@ -9644,6 +9597,7 @@ test123
 testaccount
 testautomation
 tester
+testimonial
 testing
 testlab
 testplans
@@ -9781,6 +9735,8 @@ transact
 transaction
 transactions
 transcode
+transcript
+transcripts
 transform
 transformation
 transforms
@@ -9831,7 +9787,6 @@ trx
 ts
 tsa
 tsd
-tsheets
 tsqlbestpractice
 tst
 tst1
@@ -10016,7 +9971,6 @@ uri
 uri-scheme
 url
 url-encode
-url-shortener
 urldecode
 urlencode
 urlhaus
@@ -10138,6 +10092,7 @@ video
 videos
 vie
 viewer
+vigenere
 vim
 vimode
 virole
@@ -10155,6 +10110,7 @@ virtualenvironment
 virtualenvwrapper
 virtualization
 virtualmachine
+virtualmachinemonitor
 virtualmachines
 virtualmachne
 virtualnetwork
@@ -10226,7 +10182,6 @@ vpn-certificate
 vpro
 vps
 vra
-vrchat
 vrealize
 vrising
 vro
@@ -10235,7 +10190,6 @@ vrsns
 vrtu
 vs
 vs-shell
-vsa
 vsan
 vsan+
 vscode
@@ -10458,7 +10412,6 @@ windowstimezone
 windowsupdate
 windowsupdates
 windowsvirtualdesktop
-winfield
 winform
 winforms
 winget
@@ -10644,7 +10597,6 @@ yetanotherhelloworld
 yml
 ynab
 youtube
-youtube-dl
 youtubeextractor
 yq
 yubaba
