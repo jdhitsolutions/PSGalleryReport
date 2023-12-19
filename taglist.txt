@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 18 December 2023 17:52:22 UTC
+Updated: Tuesday, 19 December 2023 02:06:16 UTC
 
 .bat
 .env
@@ -75,7 +75,6 @@ about
 abr
 abstractsyntaxtree
 abuse
-abuseipdb
 acas
 accelerator
 access
@@ -288,6 +287,7 @@ alpine
 alt3
 alter
 alteryx
+alwaysontop
 alwaysonvpn
 alz
 amateur
@@ -428,6 +428,7 @@ architecture
 architecuture
 archive
 archivedteams
+archivematica
 archivial
 archivial-backup
 archivial-cloud-backup
@@ -450,6 +451,7 @@ arp
 array
 arrays
 art
+artefactual
 artifact
 artifactory
 artifacts
@@ -783,6 +785,7 @@ bigfix
 bigquery
 bikeshed
 billing
+billingbenefits
 bimi
 bin
 bin-obj
@@ -888,7 +891,6 @@ brk4452
 broadcast
 broadcom
 broot
-brownserve-uk
 browser
 browserextension
 browserhistory
@@ -968,7 +970,6 @@ capture
 carbon
 carbonawarecomputing
 carbonintensity
-card
 cardwirth
 cargo
 carousel
@@ -1377,7 +1378,6 @@ connectedmachine
 connectednetwork
 connectexchange
 connection
-connectionmonitor
 connections
 connectionsmanager
 connectionstring
@@ -1548,6 +1548,7 @@ cryptocompare
 cryptocurrency
 cryptography
 cs137
+csc
 csharp
 csharp-watch
 csom
@@ -1582,7 +1583,6 @@ custom
 customchecks
 customdns
 customer
-customerengagement
 customers
 customeventchannel
 customeventlog
@@ -1620,7 +1620,6 @@ cylance
 cypher
 cyrillic
 d365
-d365ce
 d365f&o
 d365fo
 d365lbd
@@ -1989,7 +1988,6 @@ domainkey
 domainname
 domains
 domino
-donothing
 dos
 dot
 dotenv
@@ -2101,9 +2099,7 @@ dynamics
 dynamics-365
 dynamics-crm
 dynamics365
-dynamics365ce
 dynamics365fo
-dynamics365sales
 dynamics365server
 dynamicsax
 dynamicsecuritygroups
@@ -2299,7 +2295,6 @@ eventlogchannel
 eventlogchannels
 eventlogmanifest
 eventlogs
-eventmonitor
 eventmonitoring
 eventprocessor
 events
@@ -2362,6 +2357,7 @@ expect
 experience
 experiments
 expired
+expiring
 expiry
 exploit
 exploits
@@ -2437,6 +2433,7 @@ featureupdate
 federated
 federateddirectory
 federation
+fedex
 feed
 fetch
 ffmpeg
@@ -2546,7 +2543,6 @@ fixpack
 flac
 flash
 flasharray
-flashblade
 flatfile
 flatten
 fleetsoftwareupdate
@@ -2903,7 +2899,6 @@ gzip-compression
 ha
 haarlemsdagblad
 hack
-hacking
 hacktoberfest
 hadoop
 hafr
@@ -3495,8 +3490,6 @@ k8s
 k8sshell
 kafka
 kaminario
-karabiner
-karabiner-elements
 karma
 kaseya
 kaseyavsa
@@ -3520,14 +3513,11 @@ key
 key-vault
 key2wocas
 keybase
-keybinding
 keyboard
 keyboardstartkey
 keycipher
 keylight
 keymanagement
-keymap
-keymapping
 keypair
 keysms
 keyvault
@@ -3689,6 +3679,8 @@ linux
 linux-command
 linuxssh
 liquid
+liquit
+liquit.com
 list
 list_files
 list-directory
@@ -4149,7 +4141,6 @@ msauth
 msband
 msbi
 msbuild
-mschart
 msdeploy
 msdn
 msdtc
@@ -4338,6 +4329,7 @@ new-rdpsession
 new-samcmapplicationfrompackagedefinitionsms
 new-samcmpackagefrompackagedefinitionsms
 new-system
+new-udmorph
 new-win32app
 newpassword
 newrelic
@@ -4761,7 +4753,6 @@ patternmatching
 pause
 pax8
 payload
-paylocity
 paypal
 pays
 pbench
@@ -5207,7 +5198,6 @@ proxmox
 proxmoxve
 proxsys
 proxy
-proxyfunction
 proxyfunctions
 prtg
 prtg_network_monitor
@@ -8293,7 +8283,6 @@ qrs
 quality
 qualys
 quandl
-quantum
 quarantine
 queries
 query
@@ -8765,7 +8754,6 @@ schulverwaltung
 science
 scissors
 scm
-scmanager
 scom
 sconfig
 scoop
@@ -9078,6 +9066,7 @@ sitesystemserver
 sitethumbprint
 size
 skatterbrainz
+skeleton-loader
 skia
 skiasharp
 skolnilogin
@@ -9158,6 +9147,7 @@ social
 social-media
 socialmedia
 socketlabs
+sockets
 sodium
 software
 softwarecenter
@@ -9640,6 +9630,7 @@ terrafun
 terragrunt
 tesla
 test
+test-automation
 test-dscconfiguration
 test-internetconnection
 test-modulepath
@@ -9653,7 +9644,6 @@ test123
 testaccount
 testautomation
 tester
-testimonial
 testing
 testlab
 testplans
@@ -9791,8 +9781,6 @@ transact
 transaction
 transactions
 transcode
-transcript
-transcripts
 transform
 transformation
 transforms
@@ -9843,6 +9831,7 @@ trx
 ts
 tsa
 tsd
+tsheets
 tsqlbestpractice
 tst
 tst1
@@ -10072,6 +10061,7 @@ utm
 uudecode
 uuencode
 uuid
+uup
 uw
 uwp
 ux
@@ -10148,7 +10138,6 @@ video
 videos
 vie
 viewer
-vigenere
 vim
 vimode
 virole
@@ -10166,7 +10155,6 @@ virtualenvironment
 virtualenvwrapper
 virtualization
 virtualmachine
-virtualmachinemonitor
 virtualmachines
 virtualmachne
 virtualnetwork
@@ -10470,6 +10458,7 @@ windowstimezone
 windowsupdate
 windowsupdates
 windowsvirtualdesktop
+winfield
 winform
 winforms
 winget
@@ -10655,6 +10644,7 @@ yetanotherhelloworld
 yml
 ynab
 youtube
+youtube-dl
 youtubeextractor
 yq
 yubaba
