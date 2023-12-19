@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Tuesday, 19 December 2023 09:52:26 UTC
+Updated: Tuesday, 19 December 2023 17:52:42 UTC
 
 .bat
 .env
@@ -46,6 +46,7 @@ Updated: Tuesday, 19 December 2023 09:52:26 UTC
 3dprinting
 3par
 50
+64
 650
 650flb
 7
@@ -630,6 +631,7 @@ aztools
 azts
 azuead
 azure
+azure_ad
 azure_security
 azure-adx
 azure-backup
@@ -888,6 +890,7 @@ brk4452
 broadcast
 broadcom
 broot
+brownserve-uk
 browser
 browserextension
 browserhistory
@@ -1133,8 +1136,10 @@ classified
 clccontrol
 clccontrolapiv1
 clccontrolapiv2
+clean-up
 cleanmgr
 cleanup
+cleanup-orphans
 clear
 clear-history
 clearpass
@@ -1355,7 +1360,6 @@ configurationdata
 configurationkey
 configurationmanagement
 configurationmanager
-configurationprofile
 configure
 confluence
 confluent
@@ -1379,6 +1383,7 @@ connectionsmanager
 connectionstring
 connectivity
 connectwise
+conservation
 console
 consoleguitools
 consolemenu
@@ -1578,7 +1583,6 @@ custom
 customchecks
 customdns
 customer
-customerengagement
 customers
 customeventchannel
 customeventlog
@@ -1616,7 +1620,6 @@ cylance
 cypher
 cyrillic
 d365
-d365ce
 d365f&o
 d365fo
 d365lbd
@@ -1766,6 +1769,7 @@ deflate
 delegated
 delegationmodel
 delete
+delete-orphan-branches
 deleteuserprofile
 delivery
 dell
@@ -1809,7 +1813,6 @@ devdeer
 developer
 developer_command_prompt
 developercommandprompt
-developermode
 development
 devenv
 devexpress
@@ -1914,7 +1917,6 @@ distrubtionpoint
 dividends
 diving
 division
-divoom
 dkim
 dkschrutebeets
 dl
@@ -1984,6 +1986,7 @@ domainkey
 domainname
 domains
 domino
+donothing
 dos
 dot
 dotenv
@@ -2095,9 +2098,7 @@ dynamics
 dynamics-365
 dynamics-crm
 dynamics365
-dynamics365ce
 dynamics365fo
-dynamics365sales
 dynamics365server
 dynamicsax
 dynamicsecuritygroups
@@ -2315,6 +2316,7 @@ excel
 exception
 exceptionless
 exchange
+exchange_online
 exchange-rates
 exchange2010
 exchange2013
@@ -2393,8 +2395,6 @@ eztheme
 f
 f#
 f5
-fabric
-fabtools
 facebook
 factoryorchestrator
 factoryorchestratorclient
@@ -2594,7 +2594,6 @@ fortinetmanager
 fortios
 fortune
 forum
-forwardcompatibility
 forwardedevents
 foudil
 fox
@@ -2763,6 +2762,7 @@ git-clone
 git-flow
 git-hf
 git-hubflow
+git-lfs
 git-proxy
 git-stat
 gitcmdline
@@ -2852,6 +2852,7 @@ graphs
 graphservices
 graphviz
 graylog
+greenplum
 gremlin
 grep
 greynoise
@@ -3222,6 +3223,7 @@ incontact
 indents
 index
 indexdb
+indicator
 inedo
 inetfwrule
 inetum
@@ -3358,6 +3360,7 @@ iphone
 ipilot
 iplookup
 ipmaths
+ipp
 iprange
 ips
 ipscan
@@ -3486,6 +3489,7 @@ karabiner
 karabiner-elements
 karma
 kaseya
+kaseyavsa
 kaspersky
 katakana
 kb
@@ -3572,7 +3576,6 @@ labworker
 lake
 lambda
 lame
-lametrictime
 lamp
 lan
 landingzones
@@ -3752,7 +3755,6 @@ login
 login-azurermaccount
 login-rdp
 logingestion
-loginscreen
 loginsight
 logiphys
 logistic
@@ -3994,7 +3996,11 @@ microfocus
 microk8s
 microservices
 microsoft
+microsoft_365
+microsoft_azure
 microsoft_endpoint_manager
+microsoft_online
+microsoft_teams
 microsoft-graph
 microsoft-teams
 microsoft-web-platform
@@ -4016,7 +4022,6 @@ microsoftdefenderatp
 microsoftdeploymenttoolkit
 microsoftendpointmanager
 microsoftexchangeserver
-microsoftfabric
 microsoftgraph
 microsoftgraphapi
 microsoftgraphrestapi
@@ -4040,7 +4045,6 @@ mim
 mime
 mimekit
 min
-mindmeister
 minecraft
 miniconda
 minifier
@@ -4123,7 +4127,9 @@ mrfk
 mrfylke
 mrvl_fc_powerkit
 mrvlfcprovider
+ms_365
 ms-graph
+ms365
 msaccess
 msacpi_thermalzonetemperature
 msal
@@ -4147,7 +4153,6 @@ msgraphapi
 msgraphreport
 msgraphtokenlifetimepolicy
 msi
-msi psmodule
 msiexec
 msil
 msix
@@ -4162,6 +4167,7 @@ msp360
 mspbackups
 msproject
 msrc
+msrdc
 mssql
 mssqlbynarymodule
 mssqlbynarypsmodule
@@ -4233,7 +4239,6 @@ namespace
 naming
 nana
 nano
-nanoleaf
 nartac
 nasdaq
 native
@@ -4287,6 +4292,7 @@ network
 network adapter configuration operating os optical sensor physical pointing portable printer processor cpu refrigaration cooling cooler removable usb sd ram dimm scsi sound audio card enclosure tape temperature touchpad touch pad touchscreen screen trackball trackpoint video graphics voltage psmodule
 network-credentials
 network-info
+networkanalytics
 networkcloud
 networkcontroller
 networkdiscovery
@@ -4329,14 +4335,12 @@ nexenta
 nexentastor
 nexthink
 nexus
-nexusiq
 nfsv3
 ngen
 ngfw
 nginx
 nhl
 nic
-nic.ru
 nightmare
 ninite
 ninja
@@ -4469,6 +4473,7 @@ oem-charset
 offboarding
 offence
 office
+office_365
 office2010
 office2013
 office2016
@@ -4488,7 +4493,6 @@ oidc
 okta
 old
 older
-ole
 oledb
 omaha
 ome
@@ -4743,7 +4747,6 @@ paylocity
 paypal
 pays
 pbench
-pbip
 pc
 pcapng
 pci-dss
@@ -4829,7 +4832,6 @@ piraeus
 pivot
 pivotal
 pivottable
-pixoo
 pki
 pki psmodule
 pks
@@ -4953,6 +4955,7 @@ poshy-wrap-gh
 poshy-wrap-git
 poshy-wrap-git-flow
 poshy-wrap-git-hf
+poshy-wrap-git-lfs
 poshy-wrap-golang
 poshy-wrap-kubectl
 poshy-wrap-maven
@@ -5239,6 +5242,7 @@ pscommand_acsp
 pscommand_add_ssh
 pscommand_add-envpathitem
 pscommand_add-envvarpathitem
+pscommand_add-gitlfstrackedfiles
 pscommand_add-gitremote
 pscommand_add-gitskipworktreeflag
 pscommand_add-gitsubmodule
@@ -5663,6 +5667,7 @@ pscommand_get-gitdiffstash
 pscommand_get-gitdiffstashhead
 pscommand_get-gitdiffstashparent
 pscommand_get-gitignoredfiles
+pscommand_get-gitlfstrackedfiles
 pscommand_get-gitlogbranchcommitsunpushed
 pscommand_get-gitlogcommitspulledlast
 pscommand_get-gitloggraph
@@ -5776,6 +5781,10 @@ pscommand_gitignore-reload
 pscommand_gittowork
 pscommand_gl
 pscommand_glf
+pscommand_glfsi
+pscommand_glfsls
+pscommand_glfsmi
+pscommand_glfst
 pscommand_glg
 pscommand_glgo
 pscommand_glgs
@@ -5824,6 +5833,7 @@ pscommand_gpatch
 pscommand_gpdo
 pscommand_gpf
 pscommand_gpl
+pscommand_gplfs
 pscommand_gplr
 pscommand_gplrs
 pscommand_gpo
@@ -6028,6 +6038,8 @@ pscommand_invoke-githubflowhotfix
 pscommand_invoke-githubflowrelease
 pscommand_invoke-githubflowsupport
 pscommand_invoke-githubflowupdate
+pscommand_invoke-gitlfsinstall
+pscommand_invoke-gitlfsmigrateimport
 pscommand_invoke-gitmerge
 pscommand_invoke-gitpull
 pscommand_invoke-gitpush
@@ -7047,6 +7059,7 @@ psfunction_aar
 psfunction_add_ssh
 psfunction_add-envpathitem
 psfunction_add-envvarpathitem
+psfunction_add-gitlfstrackedfiles
 psfunction_add-gitremote
 psfunction_add-gitskipworktreeflag
 psfunction_add-gitsubmodule
@@ -7254,6 +7267,7 @@ psfunction_get-gitdiffstash
 psfunction_get-gitdiffstashhead
 psfunction_get-gitdiffstashparent
 psfunction_get-gitignoredfiles
+psfunction_get-gitlfstrackedfiles
 psfunction_get-gitlogbranchcommitsunpushed
 psfunction_get-gitlogcommitspulledlast
 psfunction_get-gitloggraph
@@ -7318,6 +7332,7 @@ psfunction_git-global-show-proxy
 psfunction_git-show-proxy
 psfunction_gitignore-reload
 psfunction_gittowork
+psfunction_gplfs
 psfunction_hostname
 psfunction_invoke-aptcachepolicy
 psfunction_invoke-aptcachesearch
@@ -7437,6 +7452,8 @@ psfunction_invoke-githubflowhotfix
 psfunction_invoke-githubflowrelease
 psfunction_invoke-githubflowsupport
 psfunction_invoke-githubflowupdate
+psfunction_invoke-gitlfsinstall
+psfunction_invoke-gitlfsmigrateimport
 psfunction_invoke-gitmerge
 psfunction_invoke-gitpull
 psfunction_invoke-gitpush
@@ -8306,6 +8323,7 @@ rcs
 rcu
 rdb
 rdbms
+rdc
 rdcman
 rdcmanager
 rdfe
@@ -8314,6 +8332,7 @@ rdl
 rdm
 rdp
 rdpsession
+rdpsign
 rds
 rdsgw
 react-stockcharts
@@ -8415,6 +8434,7 @@ remediation
 remedy
 reminder
 remote
+remote-desktop
 remote'
 remoteadmin
 remotecert
@@ -8711,6 +8731,7 @@ schulverwaltung
 science
 scissors
 scm
+scmanager
 scom
 sconfig
 scoop
@@ -8802,6 +8823,7 @@ security-txt
 security.txt
 securityassertionmarkuplanguage
 securitycenter
+securitycompliancecenter
 securitygroup
 securitygroups
 securityinsights
@@ -9102,6 +9124,7 @@ social
 social-media
 socialmedia
 socketlabs
+sockets
 sodium
 software
 softwarecenter
@@ -9547,7 +9570,6 @@ techedna2014
 techlog
 technology
 techsmith
-tel
 telegram
 telegram-bot
 telegram-bot-api
@@ -9571,6 +9593,7 @@ teradata
 termbin
 terminal
 terminal-interface
+terminal-services
 terminal.gui
 terminalnotifier
 terminalvelocity
@@ -9805,7 +9828,6 @@ tweet
 twig
 twilio
 twincat
-twinkly
 twitch
 twitter
 twitter-api
@@ -10182,6 +10204,7 @@ vpn-certificate
 vpro
 vps
 vra
+vrchat
 vrealize
 vrising
 vro
@@ -10190,6 +10213,7 @@ vrsns
 vrtu
 vs
 vs-shell
+vsa
 vsan
 vsan+
 vscode
@@ -10597,6 +10621,7 @@ yetanotherhelloworld
 yml
 ynab
 youtube
+youtube-dl
 youtubeextractor
 yq
 yubaba
