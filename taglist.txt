@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Wednesday, 20 December 2023 09:52:27 UTC
+Updated: Wednesday, 20 December 2023 17:52:29 UTC
 
 .bat
 .env
@@ -26,7 +26,6 @@ Updated: Wednesday, 20 December 2023 09:52:27 UTC
 1709
 1803
 1809
-1c
 1e
 1password
 1poshword
@@ -325,6 +324,7 @@ anf
 anglesharp
 angular
 animate-svg
+animation
 animations
 annotated
 announcement
@@ -517,7 +517,6 @@ audiocodes
 audit
 auditing
 auditpol
-auditpol.exe
 auditpolicies
 auditpolicy
 audits
@@ -556,7 +555,6 @@ automanage
 automate
 automated
 automatedlab
-automatenow
 automaticpacketreportingsystem
 automation
 automation psmodule
@@ -751,6 +749,7 @@ bc
 bcd
 bcdedit
 bcdr
+bd
 bdd
 bds
 be.stateless
@@ -837,6 +836,7 @@ bloxone
 bloxoneddi
 bls
 blue
+bluedolhin
 blueprint
 blueprints
 blueteam
@@ -1194,7 +1194,6 @@ cloudflare
 cloudforensics
 cloudformation
 cloudfoundation
-cloudfront
 cloudgovernance
 cloudguard
 cloudinairy
@@ -2771,6 +2770,7 @@ gist
 git
 git-client
 git-clone
+git-flow
 git-hf
 git-hubflow
 git-lfs
@@ -3415,7 +3415,6 @@ itemobject
 items
 itemstack
 iterate
-iteration
 itg
 itglue
 itin
@@ -3486,7 +3485,6 @@ junction
 junctions
 junit
 jupyter
-jupytor
 justenoughadministration
 jvm
 jwk
@@ -3679,7 +3677,6 @@ link
 link-capability
 link-preview
 linkedin
-linkedservice
 linkedservicedependency
 linkid
 links
@@ -3926,7 +3923,6 @@ matrix
 maven
 max
 max_path
-maximum
 maxoffice
 mazerat
 mb
@@ -4065,7 +4061,6 @@ minecraft
 miniconda
 minifier
 minimal
-minimum
 mip
 mipsdk
 miration-step
@@ -4186,9 +4181,6 @@ msproject
 msrc
 msrdc
 mssql
-mssqlbynarymodule
-mssqlbynarypsmodule
-mssqlmodule
 mssqlplugins
 mssqlserver
 msteams
@@ -4211,7 +4203,6 @@ multidimenstional
 multimedia
 multios
 multipass
-multiple
 multiserver
 multistring
 multithread
@@ -4538,7 +4529,6 @@ oneidentity
 onelogin
 oneloginapi
 onenote
-onestools
 onesubscription
 onetimesecret
 oneviewglobaldashboard
@@ -4778,6 +4768,10 @@ pcsetup
 pcsv
 pdb
 pdf
+pdf-document-processor
+pdf-files
+pdf-generation
+pdf-redaction
 pe
 peek
 peering
@@ -4880,6 +4874,7 @@ plugin
 plugins
 pluralsight
 ply
+pmp
 pncit
 pnp
 pnpm
@@ -4972,6 +4967,7 @@ poshy-wrap-forgit
 poshy-wrap-gem
 poshy-wrap-gh
 poshy-wrap-git
+poshy-wrap-git-flow
 poshy-wrap-git-hf
 poshy-wrap-git-lfs
 poshy-wrap-golang
@@ -5600,10 +5596,12 @@ pscommand_gcamg
 pscommand_gcams
 pscommand_gcamu
 pscommand_gcb
+pscommand_gcd
 pscommand_gcem
 pscommand_gcf
 pscommand_gcfl
 pscommand_gcfls
+pscommand_gch
 pscommand_gci
 pscommand_gcl
 pscommand_gclcd
@@ -5626,6 +5624,7 @@ pscommand_gcp
 pscommand_gcpa
 pscommand_gcpc
 pscommand_gcpx
+pscommand_gcr
 pscommand_gcsam
 pscommand_gct
 pscommand_gd
@@ -5720,6 +5719,27 @@ pscommand_geun
 pscommand_gexport
 pscommand_gf
 pscommand_gfa
+pscommand_gfl
+pscommand_gflf
+pscommand_gflff
+pscommand_gflffc
+pscommand_gflfp
+pscommand_gflfpc
+pscommand_gflfpll
+pscommand_gflfs
+pscommand_gflh
+pscommand_gflhf
+pscommand_gflhfc
+pscommand_gflhp
+pscommand_gflhpc
+pscommand_gflhs
+pscommand_gfli
+pscommand_gflr
+pscommand_gflrf
+pscommand_gflrfc
+pscommand_gflrp
+pscommand_gflrpc
+pscommand_gflrs
 pscommand_gfo
 pscommand_gft
 pscommand_gftv
@@ -6003,6 +6023,27 @@ pscommand_invoke-gitconfig
 pscommand_invoke-gitdifftool
 pscommand_invoke-gitfetch
 pscommand_invoke-gitfetchorigin
+pscommand_invoke-gitflow
+pscommand_invoke-gitflowfeature
+pscommand_invoke-gitflowfeaturefinish
+pscommand_invoke-gitflowfeaturefinishcurrent
+pscommand_invoke-gitflowfeaturepublish
+pscommand_invoke-gitflowfeaturepublishcurrent
+pscommand_invoke-gitflowfeaturepull
+pscommand_invoke-gitflowfeaturestart
+pscommand_invoke-gitflowhotfix
+pscommand_invoke-gitflowhotfixfinish
+pscommand_invoke-gitflowhotfixfinishcurrent
+pscommand_invoke-gitflowhotfixpublish
+pscommand_invoke-gitflowhotfixpublishcurrent
+pscommand_invoke-gitflowhotfixstart
+pscommand_invoke-gitflowinit
+pscommand_invoke-gitflowrelease
+pscommand_invoke-gitflowreleasefinish
+pscommand_invoke-gitflowreleasefinishcurrent
+pscommand_invoke-gitflowreleasepublish
+pscommand_invoke-gitflowreleasepublishcurrent
+pscommand_invoke-gitflowreleasestart
 pscommand_invoke-gitgui
 pscommand_invoke-githubapi
 pscommand_invoke-githubapi-bodyempty
@@ -6869,6 +6910,9 @@ pscommand_use-gitbranchmain
 pscommand_use-gitbranchnew
 pscommand_use-gitbranchprevious
 pscommand_use-gitbranchtracked
+pscommand_use-gitflowbranchdevelop
+pscommand_use-gitflowbranchhotfix
+pscommand_use-gitflowbranchrelease
 pscommand_use-gitstashentry
 pscommand_uuid
 pscommand_uuidgen
@@ -7397,6 +7441,27 @@ psfunction_invoke-gitconfig
 psfunction_invoke-gitdifftool
 psfunction_invoke-gitfetch
 psfunction_invoke-gitfetchorigin
+psfunction_invoke-gitflow
+psfunction_invoke-gitflowfeature
+psfunction_invoke-gitflowfeaturefinish
+psfunction_invoke-gitflowfeaturefinishcurrent
+psfunction_invoke-gitflowfeaturepublish
+psfunction_invoke-gitflowfeaturepublishcurrent
+psfunction_invoke-gitflowfeaturepull
+psfunction_invoke-gitflowfeaturestart
+psfunction_invoke-gitflowhotfix
+psfunction_invoke-gitflowhotfixfinish
+psfunction_invoke-gitflowhotfixfinishcurrent
+psfunction_invoke-gitflowhotfixpublish
+psfunction_invoke-gitflowhotfixpublishcurrent
+psfunction_invoke-gitflowhotfixstart
+psfunction_invoke-gitflowinit
+psfunction_invoke-gitflowrelease
+psfunction_invoke-gitflowreleasefinish
+psfunction_invoke-gitflowreleasefinishcurrent
+psfunction_invoke-gitflowreleasepublish
+psfunction_invoke-gitflowreleasepublishcurrent
+psfunction_invoke-gitflowreleasestart
 psfunction_invoke-gitgui
 psfunction_invoke-githubapi
 psfunction_invoke-githubapi-bodyempty
@@ -8031,6 +8096,9 @@ psfunction_use-gitbranchmain
 psfunction_use-gitbranchnew
 psfunction_use-gitbranchprevious
 psfunction_use-gitbranchtracked
+psfunction_use-gitflowbranchdevelop
+psfunction_use-gitflowbranchhotfix
+psfunction_use-gitflowbranchrelease
 psfunction_use-gitstashentry
 psfunction_uuidl
 psfunction_uuidu
@@ -8079,9 +8147,6 @@ psmodules
 psmp
 psmsgraph
 psmsgraphapi
-psmssql
-psmssqlbynarymodule
-psmssqlmodule
 psmvp
 psnavigation
 psnexosisclient
@@ -8118,9 +8183,6 @@ psslack
 pssqlite
 pssqlitebynarymodule
 pssqlitemodule
-pssqlserver
-pssqlserverbynarymodule
-pssqlservermodule
 psst
 psstgenerator
 pstablacus
@@ -8550,7 +8612,6 @@ rotation
 round
 roundrobindatabase
 route
-route53
 routeconfig
 router
 routes
@@ -8709,7 +8770,6 @@ screencapture
 screenconnect
 screenfetch
 screenresolution
-screensaver
 screenshot
 script
 script_version
@@ -9003,7 +9063,6 @@ sitesystemserver
 sitethumbprint
 size
 skatterbrainz
-skeleton-loader
 skia
 skiasharp
 skolnilogin
@@ -9072,7 +9131,6 @@ snmpset
 snmpv3
 snmpwalk
 snowflake
-snsmssqlpsmodule
 snspsadgroupmembers
 snspsscriptsmonitoring
 snssqlitepsmodule
@@ -9143,7 +9201,6 @@ speak
 speaker
 spec
 specification
-specify
 spectre
 spectrumconnect
 spectrumcontrolbase
@@ -9211,9 +9268,6 @@ sqlproject
 sqlps
 sqlserver
 sqlserveragent
-sqlserverbynarymodule
-sqlserverbynarypsmodule
-sqlservermodule
 sqlvirtualmachine
 sqr
 sqrt
@@ -9527,7 +9581,6 @@ teamspolicy
 teamviewer
 techdirect
 techedna2014
-techlog
 technology
 techsmith
 tel
@@ -10182,7 +10235,6 @@ vsan
 vsan+
 vscode
 vsdevcmd
-vsdevshell
 vsenvironment
 vsm
 vso
@@ -10357,7 +10409,6 @@ windows10mui
 windows11
 windows365
 windowsadmincenter
-windowsaudit
 windowsbuilds
 windowscredential
 windowscredentialmanager
@@ -10509,8 +10560,6 @@ wso2
 wsus
 wt
 wtsapi32
-wttr
-wttr.in
 wtx
 wu
 wug
@@ -10619,6 +10668,7 @@ zypper
 カタカナ
 ひらがな
 ローマ字
+全角半角変換
 寿司
 日本語
 湯婆婆
