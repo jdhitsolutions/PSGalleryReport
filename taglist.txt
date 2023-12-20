@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Wednesday, 20 December 2023 01:56:07 UTC
+Updated: Wednesday, 20 December 2023 09:52:27 UTC
 
 .bat
 .env
@@ -26,6 +26,7 @@ Updated: Wednesday, 20 December 2023 01:56:07 UTC
 1709
 1803
 1809
+1c
 1e
 1password
 1poshword
@@ -324,7 +325,6 @@ anf
 anglesharp
 angular
 animate-svg
-animation
 animations
 annotated
 announcement
@@ -751,7 +751,6 @@ bc
 bcd
 bcdedit
 bcdr
-bd
 bdd
 bds
 be.stateless
@@ -838,7 +837,6 @@ bloxone
 bloxoneddi
 bls
 blue
-bluedolhin
 blueprint
 blueprints
 blueteam
@@ -1026,6 +1024,8 @@ centralcredentialprovider
 centrastage
 centreon
 centreon.com
+centurylink
+centurylinkcloud
 cer
 cert
 certbasedauth
@@ -1132,8 +1132,13 @@ classes
 classic
 classification
 classified
+clccontrol
+clccontrolapiv1
+clccontrolapiv2
+clean-up
 cleanmgr
 cleanup
+cleanup-orphans
 clear
 clear-history
 clearpass
@@ -1450,6 +1455,7 @@ coreepower.common
 coreepower.config
 coreepower.lib
 coreepower.module
+coreepower.net
 coreepower.net.soundcloudexplode
 coreposh
 coreutils
@@ -1766,6 +1772,7 @@ deflate
 delegated
 delegationmodel
 delete
+delete-orphan-branches
 deleteuserprofile
 delivery
 dell
@@ -2121,6 +2128,7 @@ ec2
 ecommerce
 ecovadis
 ed25519
+edgaronline
 edge
 edgebackup
 edgeexport
@@ -2270,6 +2278,7 @@ ethr
 ethz
 etl
 etl2pcapng
+etrade
 ets
 etw
 eulanda
@@ -2762,7 +2771,6 @@ gist
 git
 git-client
 git-clone
-git-flow
 git-hf
 git-hubflow
 git-lfs
@@ -2913,6 +2921,7 @@ hamradio
 hamradiodeluxe
 hana
 hanaon
+handle
 handler
 hangouts
 hannelstoolbox
@@ -3236,7 +3245,10 @@ influxdb
 info
 infoblox
 information
+information-technology
 informationbarriers
+informationtechnology
+informationtechnologyoperations
 informix
 infosec
 infrastructure
@@ -3392,6 +3404,7 @@ ispss
 issues
 isvalidemail
 isvalidip
+it
 it-support
 it-tool
 it-tools
@@ -3717,6 +3730,7 @@ lock
 lockbox
 lockdisplaytimeout
 lockdown
+locking
 lockoutreport
 lockscreen
 locksmith
@@ -3766,6 +3780,7 @@ logoff
 logon
 logonright
 logonscript
+logontask
 logonto
 logonuser
 logparser
@@ -4523,6 +4538,7 @@ oneidentity
 onelogin
 oneloginapi
 onenote
+onestools
 onesubscription
 onetimesecret
 oneviewglobaldashboard
@@ -4762,10 +4778,6 @@ pcsetup
 pcsv
 pdb
 pdf
-pdf-document-processor
-pdf-files
-pdf-generation
-pdf-redaction
 pe
 peek
 peering
@@ -4868,7 +4880,6 @@ plugin
 plugins
 pluralsight
 ply
-pmp
 pncit
 pnp
 pnpm
@@ -4961,7 +4972,6 @@ poshy-wrap-forgit
 poshy-wrap-gem
 poshy-wrap-gh
 poshy-wrap-git
-poshy-wrap-git-flow
 poshy-wrap-git-hf
 poshy-wrap-git-lfs
 poshy-wrap-golang
@@ -5590,12 +5600,10 @@ pscommand_gcamg
 pscommand_gcams
 pscommand_gcamu
 pscommand_gcb
-pscommand_gcd
 pscommand_gcem
 pscommand_gcf
 pscommand_gcfl
 pscommand_gcfls
-pscommand_gch
 pscommand_gci
 pscommand_gcl
 pscommand_gclcd
@@ -5618,7 +5626,6 @@ pscommand_gcp
 pscommand_gcpa
 pscommand_gcpc
 pscommand_gcpx
-pscommand_gcr
 pscommand_gcsam
 pscommand_gct
 pscommand_gd
@@ -5713,27 +5720,6 @@ pscommand_geun
 pscommand_gexport
 pscommand_gf
 pscommand_gfa
-pscommand_gfl
-pscommand_gflf
-pscommand_gflff
-pscommand_gflffc
-pscommand_gflfp
-pscommand_gflfpc
-pscommand_gflfpll
-pscommand_gflfs
-pscommand_gflh
-pscommand_gflhf
-pscommand_gflhfc
-pscommand_gflhp
-pscommand_gflhpc
-pscommand_gflhs
-pscommand_gfli
-pscommand_gflr
-pscommand_gflrf
-pscommand_gflrfc
-pscommand_gflrp
-pscommand_gflrpc
-pscommand_gflrs
 pscommand_gfo
 pscommand_gft
 pscommand_gftv
@@ -6017,27 +6003,6 @@ pscommand_invoke-gitconfig
 pscommand_invoke-gitdifftool
 pscommand_invoke-gitfetch
 pscommand_invoke-gitfetchorigin
-pscommand_invoke-gitflow
-pscommand_invoke-gitflowfeature
-pscommand_invoke-gitflowfeaturefinish
-pscommand_invoke-gitflowfeaturefinishcurrent
-pscommand_invoke-gitflowfeaturepublish
-pscommand_invoke-gitflowfeaturepublishcurrent
-pscommand_invoke-gitflowfeaturepull
-pscommand_invoke-gitflowfeaturestart
-pscommand_invoke-gitflowhotfix
-pscommand_invoke-gitflowhotfixfinish
-pscommand_invoke-gitflowhotfixfinishcurrent
-pscommand_invoke-gitflowhotfixpublish
-pscommand_invoke-gitflowhotfixpublishcurrent
-pscommand_invoke-gitflowhotfixstart
-pscommand_invoke-gitflowinit
-pscommand_invoke-gitflowrelease
-pscommand_invoke-gitflowreleasefinish
-pscommand_invoke-gitflowreleasefinishcurrent
-pscommand_invoke-gitflowreleasepublish
-pscommand_invoke-gitflowreleasepublishcurrent
-pscommand_invoke-gitflowreleasestart
 pscommand_invoke-gitgui
 pscommand_invoke-githubapi
 pscommand_invoke-githubapi-bodyempty
@@ -6904,9 +6869,6 @@ pscommand_use-gitbranchmain
 pscommand_use-gitbranchnew
 pscommand_use-gitbranchprevious
 pscommand_use-gitbranchtracked
-pscommand_use-gitflowbranchdevelop
-pscommand_use-gitflowbranchhotfix
-pscommand_use-gitflowbranchrelease
 pscommand_use-gitstashentry
 pscommand_uuid
 pscommand_uuidgen
@@ -7435,27 +7397,6 @@ psfunction_invoke-gitconfig
 psfunction_invoke-gitdifftool
 psfunction_invoke-gitfetch
 psfunction_invoke-gitfetchorigin
-psfunction_invoke-gitflow
-psfunction_invoke-gitflowfeature
-psfunction_invoke-gitflowfeaturefinish
-psfunction_invoke-gitflowfeaturefinishcurrent
-psfunction_invoke-gitflowfeaturepublish
-psfunction_invoke-gitflowfeaturepublishcurrent
-psfunction_invoke-gitflowfeaturepull
-psfunction_invoke-gitflowfeaturestart
-psfunction_invoke-gitflowhotfix
-psfunction_invoke-gitflowhotfixfinish
-psfunction_invoke-gitflowhotfixfinishcurrent
-psfunction_invoke-gitflowhotfixpublish
-psfunction_invoke-gitflowhotfixpublishcurrent
-psfunction_invoke-gitflowhotfixstart
-psfunction_invoke-gitflowinit
-psfunction_invoke-gitflowrelease
-psfunction_invoke-gitflowreleasefinish
-psfunction_invoke-gitflowreleasefinishcurrent
-psfunction_invoke-gitflowreleasepublish
-psfunction_invoke-gitflowreleasepublishcurrent
-psfunction_invoke-gitflowreleasestart
 psfunction_invoke-gitgui
 psfunction_invoke-githubapi
 psfunction_invoke-githubapi-bodyempty
@@ -8090,9 +8031,6 @@ psfunction_use-gitbranchmain
 psfunction_use-gitbranchnew
 psfunction_use-gitbranchprevious
 psfunction_use-gitbranchtracked
-psfunction_use-gitflowbranchdevelop
-psfunction_use-gitflowbranchhotfix
-psfunction_use-gitflowbranchrelease
 psfunction_use-gitstashentry
 psfunction_uuidl
 psfunction_uuidu
@@ -8680,6 +8618,7 @@ sailpoint
 sale
 sales
 salesforce
+salesloft
 salt
 salt-api
 saltstack
@@ -8770,6 +8709,7 @@ screencapture
 screenconnect
 screenfetch
 screenresolution
+screensaver
 screenshot
 script
 script_version
@@ -8898,6 +8838,7 @@ seppmail
 seppmail.cloud
 seq
 sequence
+serial
 serialization
 serialize
 sericemanagement
@@ -8978,6 +8919,7 @@ shadowcopy
 shadowcopybackups
 shadowgroups
 shanghaitech
+shard
 share
 share-permission
 share-stat
@@ -9327,6 +9269,7 @@ start-jobthread
 start-threadjob
 startkey
 startmen
+startmenu
 starttls
 starwars
 stash
@@ -9377,6 +9320,7 @@ storedcredentials
 storefront
 storeonce
 storeserv
+strava
 streak
 stream
 streamanalytics
@@ -9500,6 +9444,7 @@ syspip3
 sysprep
 system
 system information 1394 controller baseboard motherboard systemboard battery bios bus cache memory cd dvd rom drive compact disc desktop monitor disk partition fan floppy glide point heatpipe ide infrared device keyboard local logical array mouse'
+system-administration
 system-group
 system-service
 system-services
@@ -9554,10 +9499,12 @@ task
 task-runner
 task-scheduler
 taskbar
+tasker
 taskgroup
 taskmanagement
 tasks
 taskscheduler
+taxjar
 taxonomy
 tcp
 tcp/ip
@@ -9580,6 +9527,8 @@ teamspolicy
 teamviewer
 techdirect
 techedna2014
+techlog
+technology
 techsmith
 tel
 telegram
@@ -9822,6 +9771,7 @@ trx
 ts
 tsa
 tsd
+tsheets
 tsqlbestpractice
 tst
 tst1
@@ -10278,6 +10228,7 @@ wapi
 warning
 warplaneporn
 warranty
+warraty
 warrenty
 wasabi
 watch
@@ -10361,6 +10312,7 @@ whormi
 wi-fi
 wia
 wia.imagefile
+wid
 widedata
 wif
 wifi
@@ -10420,6 +10372,7 @@ windowsform
 windowsforms
 windowsindex
 windowsinstaller
+windowsinternaldatabase
 windowsinternals
 windowsiotservices
 windowsiso
@@ -10556,6 +10509,8 @@ wso2
 wsus
 wt
 wtsapi32
+wttr
+wttr.in
 wtx
 wu
 wug
@@ -10664,7 +10619,6 @@ zypper
 カタカナ
 ひらがな
 ローマ字
-全角半角変換
 寿司
 日本語
 湯婆婆
