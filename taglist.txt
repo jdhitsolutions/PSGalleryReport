@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Thursday, 21 December 2023 02:05:20 UTC
+Updated: Thursday, 21 December 2023 09:52:28 UTC
 
 .bat
 .env
@@ -26,7 +26,6 @@ Updated: Thursday, 21 December 2023 02:05:20 UTC
 1709
 1803
 1809
-1c
 1e
 1password
 1poshword
@@ -46,6 +45,7 @@ Updated: Thursday, 21 December 2023 02:05:20 UTC
 3dprinting
 3par
 50
+64
 650
 650flb
 7
@@ -397,6 +397,7 @@ applications
 applocker
 appmgmtcontrol
 apppool
+appraiser
 approve
 apps
 appservice
@@ -580,6 +581,8 @@ avd
 ave
 avepoint
 avi
+avm
+avmtools
 avro
 avs
 avset
@@ -598,7 +601,6 @@ awscli
 awspricelist
 axapta
 axinom
-axis
 axium
 az
 az-cli
@@ -642,6 +644,7 @@ azure-resource-graph
 azure-ssis
 azureactivedirectory
 azuread
+azureadbackupandrestore
 azureadconnect
 azureadgraph
 azureadtoolkit
@@ -830,6 +833,8 @@ blockchain
 blocks
 blog
 blogs
+bloxone
+bloxoneddi
 bls
 blue
 bluedolhin
@@ -916,6 +921,7 @@ bulletin
 bullhorn
 bundle
 bup
+burnttoast
 burpsuite
 bus
 business
@@ -964,7 +970,6 @@ capture
 carbon
 carbonawarecomputing
 carbonintensity
-card
 cardwirth
 cargo
 carousel
@@ -1035,7 +1040,6 @@ certificates
 certificateservices
 certificatesmanagement
 certinia
-certutil
 cf
 cfn
 ch9
@@ -1641,6 +1645,7 @@ dashboardservice
 dast
 data
 data_protection
+data_security
 data-archive
 data-backup
 data-tier
@@ -1725,6 +1730,7 @@ dbwebapi
 dc
 dcim
 dcim_b324
+dcom
 dcr
 debian
 debug
@@ -1809,6 +1815,7 @@ devdeer
 developer
 developer_command_prompt
 developercommandprompt
+developermode
 development
 devenv
 devexpress
@@ -2162,7 +2169,6 @@ email
 email-address
 emailaddressupdate
 emailautomation
-emailmanagment
 emailnotification
 emailnotificationcomponent
 emailsecurity
@@ -2395,6 +2401,8 @@ eztheme
 f
 f#
 f5
+fabric
+fabtools
 facebook
 factoryorchestrator
 factoryorchestratorclient
@@ -2426,6 +2434,7 @@ feather
 feature
 features
 featuresondemand
+featureupdate
 federated
 federateddirectory
 federation
@@ -2461,7 +2470,6 @@ file-transform
 file-type
 file-type-association
 fileattributes
-fileencryption
 filelist
 filelog
 filelogger
@@ -2517,7 +2525,6 @@ findlocation
 findplace
 findproxyforurl
 fine-print
-fine-tuning
 finops
 firebird
 firefox
@@ -2615,6 +2622,8 @@ freshservice-api
 freshserviceps
 freshworks
 friendly
+fritz
+fritzbox
 front
 frontapp
 frontdoor
@@ -2866,6 +2875,7 @@ groupmembership
 grouppolicy
 groups
 grouvee
+growlnotify
 grr
 gsuite
 gtx1080ti
@@ -2912,9 +2922,9 @@ handle
 handler
 hangouts
 hannelstoolbox
-hanwha
 har
 hard
+hardblock
 harden
 harden-windows-security
 hardening
@@ -3027,6 +3037,7 @@ home_automation
 homebrew
 homelandsecurity
 homeschooling
+hon
 hooking
 horizon
 horizontal
@@ -3342,6 +3353,7 @@ iothub
 iothubproperties
 ip
 ip-address
+ip-scanner
 ipa
 ipaddress
 ipam
@@ -3491,6 +3503,7 @@ katakana
 kb
 kbarticle
 kdbx
+kdialog
 keenetic
 keepachangelog
 keepass
@@ -3508,7 +3521,6 @@ keybase
 keybinding
 keyboard
 keyboardstartkey
-keycipher
 keylight
 keymanagement
 keymap
@@ -3763,6 +3775,7 @@ logoff
 logon
 logonright
 logonscript
+logontask
 logonto
 logonuser
 logparser
@@ -4018,6 +4031,7 @@ microsoftdefenderatp
 microsoftdeploymenttoolkit
 microsoftendpointmanager
 microsoftexchangeserver
+microsoftfabric
 microsoftgraph
 microsoftgraphapi
 microsoftgraphrestapi
@@ -4071,7 +4085,6 @@ mobilitycontroller
 mock
 mocking
 model
-modeling
 modify
 module
 module-maintenance
@@ -4150,6 +4163,7 @@ msgraphapi
 msgraphreport
 msgraphtokenlifetimepolicy
 msi
+msi psmodule
 msiexec
 msil
 msix
@@ -4223,6 +4237,7 @@ mysql-database
 mytest
 n-able
 n-central
+nabu
 nac
 nagios
 name
@@ -4381,8 +4396,10 @@ notes
 notification
 notificationhubs
 notifications
+notifu
 notify
 notify-send
+notify-send-wsl
 nova
 npgsql
 npm
@@ -4515,7 +4532,6 @@ oneidentity
 onelogin
 oneloginapi
 onenote
-onestools
 onesubscription
 onetimesecret
 oneviewglobaldashboard
@@ -4720,7 +4736,6 @@ passwordexpiry
 passwordgeneration
 passwordgenerator
 passwordgenerators
-passwordhashing
 passwordlock
 passwordlockoutreport
 passwordmanagement
@@ -4746,6 +4761,7 @@ paylocity
 paypal
 pays
 pbench
+pbip
 pc
 pcapng
 pci-dss
@@ -4895,6 +4911,7 @@ popd
 population
 popup
 port
+port-scanner
 port70
 portal
 ports
@@ -4935,6 +4952,7 @@ poshy-ls-isms
 poshy-lucidity
 poshy-multimedia
 poshy-net
+poshy-notify-send
 poshy-sh-isms
 poshy-sshconfig
 poshy-viewer-finder
@@ -4975,7 +4993,6 @@ poshy-wrap-vagrant
 poshy-wrap-vault
 poshy-wrap-vscode
 poshy-wrap-wget
-poshy-wrap-wt
 poshy-wrap-yum
 poshy-wrap-zypper
 position
@@ -4983,7 +5000,6 @@ post
 postgre
 postgres
 postgresql
-potato
 pow
 powdrgit
 power
@@ -6643,8 +6659,6 @@ pscommand_new-gitbranchtracked
 pscommand_new-gitpatchfile
 pscommand_new-isofile
 pscommand_new-viewerinvocationfunction
-pscommand_new-windowsterminalpane
-pscommand_new-windowsterminaltab
 pscommand_nginx_reload
 pscommand_nginx_restart
 pscommand_nginx_start
@@ -6664,6 +6678,7 @@ pscommand_nmap_ping_through_firewall
 pscommand_nmap_slow
 pscommand_nmap_traceroute
 pscommand_nmap_web_safe_osscan
+pscommand_notify-send-fallback
 pscommand_npm-disable-proxy
 pscommand_npm-enable-proxy
 pscommand_npm-show-proxy
@@ -7914,8 +7929,6 @@ psfunction_new-gitbranchtracked
 psfunction_new-gitpatchfile
 psfunction_new-isofile
 psfunction_new-viewerinvocationfunction
-psfunction_new-windowsterminalpane
-psfunction_new-windowsterminaltab
 psfunction_nginx_reload
 psfunction_nginx_restart
 psfunction_nginx_start
@@ -7935,6 +7948,7 @@ psfunction_nmap_ping_through_firewall
 psfunction_nmap_slow
 psfunction_nmap_traceroute
 psfunction_nmap_web_safe_osscan
+psfunction_notify-send-fallback
 psfunction_npm-disable-proxy
 psfunction_npm-enable-proxy
 psfunction_npm-show-proxy
@@ -8173,6 +8187,7 @@ pssqlserverbynarymodule
 pssqlservermodule
 psst
 psstgenerator
+pstablacus
 pstanss
 psthread
 pstk
@@ -8203,7 +8218,6 @@ pubxml
 pulldistributionpoint
 pullrequest
 pullserver
-pulseway
 pulumi
 punycode
 puppet
@@ -8311,6 +8325,7 @@ randompassword
 randomuser
 randomusers
 rangescan
+ransomware_recovery
 ras
 raspberry-pi
 raspberrypi
@@ -8532,6 +8547,7 @@ restore
 resume
 retail
 retention
+retro
 retry
 returnuserprofile
 retype
@@ -8624,6 +8640,7 @@ rt
 rtu
 rubber
 rubrik
+rubriksecuritycloud
 ruby
 rule
 rulesengine
@@ -8965,7 +8982,6 @@ shadowcopy
 shadowcopybackups
 shadowgroups
 shanghaitech
-shard
 share
 share-permission
 share-stat
@@ -9167,7 +9183,6 @@ sourcecontrol
 sourceforge
 sourcegraph
 sourcemod
-sourceone
 sourcepawn
 sourcequery
 sovcloud
@@ -9315,6 +9330,7 @@ start-jobthread
 start-threadjob
 startkey
 startmen
+startmenu
 starttls
 starwars
 stash
@@ -9514,6 +9530,7 @@ tab-expansion
 tabcompletion
 tabexpansion
 tabexpansion2
+tablacus
 table
 tableau
 tableauserver
@@ -9571,7 +9588,6 @@ teamspolicy
 teamviewer
 techdirect
 techedna2014
-techlog
 technology
 techsmith
 tel
@@ -9600,6 +9616,7 @@ terminal
 terminal-interface
 terminal-services
 terminal.gui
+terminalnotifier
 terminalvelocity
 termset
 terraform
@@ -9610,7 +9627,6 @@ terrafun
 terragrunt
 tesla
 test
-test-automation
 test-dscconfiguration
 test-internetconnection
 test-modulepath
@@ -9624,7 +9640,6 @@ test123
 testaccount
 testautomation
 tester
-testimonial
 testing
 testlab
 testplans
@@ -9673,6 +9688,7 @@ threads
 threadsanitizer
 threat
 threat-hunting
+threatdefense
 threathunting
 threatintelligence
 throttle
@@ -9739,6 +9755,8 @@ touch
 toughswitch
 tphubps
 tpm
+tr-064
+tr064
 trace
 traceevent
 tracer
@@ -9823,7 +9841,6 @@ tubedownloader
 tui
 tulpep
 tuner
-tuning
 tutorial
 tv
 tweet
@@ -10266,12 +10283,14 @@ wap
 wapack
 wapi
 warning
+warplaneporn
 warranty
 warraty
 warrenty
 wasabi
 watch
 watchdog
+watchmen
 watery
 wave
 wayk
@@ -10387,7 +10406,6 @@ windows-powershell
 windows-registry
 windows-remoting
 windows-server-2016
-windows-terminal
 windows-user-folder
 windows-user-profile
 windows10
@@ -10430,6 +10448,7 @@ windowsserver2016
 windowsserver2019
 windowsservercoresecurity
 windowsserverguisecurity
+windowsservice
 windowsservices
 windowsstore
 windowsterminal
