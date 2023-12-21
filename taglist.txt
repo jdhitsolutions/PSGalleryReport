@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Wednesday, 20 December 2023 17:52:29 UTC
+Updated: Thursday, 21 December 2023 02:05:20 UTC
 
 .bat
 .env
@@ -26,6 +26,7 @@ Updated: Wednesday, 20 December 2023 17:52:29 UTC
 1709
 1803
 1809
+1c
 1e
 1password
 1poshword
@@ -45,7 +46,6 @@ Updated: Wednesday, 20 December 2023 17:52:29 UTC
 3dprinting
 3par
 50
-64
 650
 650flb
 7
@@ -397,7 +397,6 @@ applications
 applocker
 appmgmtcontrol
 apppool
-appraiser
 approve
 apps
 appservice
@@ -517,6 +516,7 @@ audiocodes
 audit
 auditing
 auditpol
+auditpol.exe
 auditpolicies
 auditpolicy
 audits
@@ -555,6 +555,7 @@ automanage
 automate
 automated
 automatedlab
+automatenow
 automaticpacketreportingsystem
 automation
 automation psmodule
@@ -579,8 +580,6 @@ avd
 ave
 avepoint
 avi
-avm
-avmtools
 avro
 avs
 avset
@@ -643,7 +642,6 @@ azure-resource-graph
 azure-ssis
 azureactivedirectory
 azuread
-azureadbackupandrestore
 azureadconnect
 azureadgraph
 azureadtoolkit
@@ -832,8 +830,6 @@ blockchain
 blocks
 blog
 blogs
-bloxone
-bloxoneddi
 bls
 blue
 bluedolhin
@@ -920,7 +916,6 @@ bulletin
 bullhorn
 bundle
 bup
-burnttoast
 burpsuite
 bus
 business
@@ -1194,6 +1189,7 @@ cloudflare
 cloudforensics
 cloudformation
 cloudfoundation
+cloudfront
 cloudgovernance
 cloudguard
 cloudinairy
@@ -1645,7 +1641,6 @@ dashboardservice
 dast
 data
 data_protection
-data_security
 data-archive
 data-backup
 data-tier
@@ -1730,7 +1725,6 @@ dbwebapi
 dc
 dcim
 dcim_b324
-dcom
 dcr
 debian
 debug
@@ -1815,7 +1809,6 @@ devdeer
 developer
 developer_command_prompt
 developercommandprompt
-developermode
 development
 devenv
 devexpress
@@ -2402,8 +2395,6 @@ eztheme
 f
 f#
 f5
-fabric
-fabtools
 facebook
 factoryorchestrator
 factoryorchestratorclient
@@ -2435,7 +2426,6 @@ feather
 feature
 features
 featuresondemand
-featureupdate
 federated
 federateddirectory
 federation
@@ -2625,8 +2615,6 @@ freshservice-api
 freshserviceps
 freshworks
 friendly
-fritz
-fritzbox
 front
 frontapp
 frontdoor
@@ -2878,7 +2866,6 @@ groupmembership
 grouppolicy
 groups
 grouvee
-growlnotify
 grr
 gsuite
 gtx1080ti
@@ -2928,7 +2915,6 @@ hannelstoolbox
 hanwha
 har
 hard
-hardblock
 harden
 harden-windows-security
 hardening
@@ -3041,7 +3027,6 @@ home_automation
 homebrew
 homelandsecurity
 homeschooling
-hon
 hooking
 horizon
 horizontal
@@ -3357,7 +3342,6 @@ iothub
 iothubproperties
 ip
 ip-address
-ip-scanner
 ipa
 ipaddress
 ipam
@@ -3415,6 +3399,7 @@ itemobject
 items
 itemstack
 iterate
+iteration
 itg
 itglue
 itin
@@ -3485,6 +3470,7 @@ junction
 junctions
 junit
 jupyter
+jupytor
 justenoughadministration
 jvm
 jwk
@@ -3505,7 +3491,6 @@ katakana
 kb
 kbarticle
 kdbx
-kdialog
 keenetic
 keepachangelog
 keepass
@@ -3677,6 +3662,7 @@ link
 link-capability
 link-preview
 linkedin
+linkedservice
 linkedservicedependency
 linkid
 links
@@ -3777,7 +3763,6 @@ logoff
 logon
 logonright
 logonscript
-logontask
 logonto
 logonuser
 logparser
@@ -3923,6 +3908,7 @@ matrix
 maven
 max
 max_path
+maximum
 maxoffice
 mazerat
 mb
@@ -4032,7 +4018,6 @@ microsoftdefenderatp
 microsoftdeploymenttoolkit
 microsoftendpointmanager
 microsoftexchangeserver
-microsoftfabric
 microsoftgraph
 microsoftgraphapi
 microsoftgraphrestapi
@@ -4061,6 +4046,7 @@ minecraft
 miniconda
 minifier
 minimal
+minimum
 mip
 mipsdk
 miration-step
@@ -4164,7 +4150,6 @@ msgraphapi
 msgraphreport
 msgraphtokenlifetimepolicy
 msi
-msi psmodule
 msiexec
 msil
 msix
@@ -4181,6 +4166,9 @@ msproject
 msrc
 msrdc
 mssql
+mssqlbynarymodule
+mssqlbynarypsmodule
+mssqlmodule
 mssqlplugins
 mssqlserver
 msteams
@@ -4203,6 +4191,7 @@ multidimenstional
 multimedia
 multios
 multipass
+multiple
 multiserver
 multistring
 multithread
@@ -4234,7 +4223,6 @@ mysql-database
 mytest
 n-able
 n-central
-nabu
 nac
 nagios
 name
@@ -4393,10 +4381,8 @@ notes
 notification
 notificationhubs
 notifications
-notifu
 notify
 notify-send
-notify-send-wsl
 nova
 npgsql
 npm
@@ -4529,6 +4515,7 @@ oneidentity
 onelogin
 oneloginapi
 onenote
+onestools
 onesubscription
 onetimesecret
 oneviewglobaldashboard
@@ -4759,7 +4746,6 @@ paylocity
 paypal
 pays
 pbench
-pbip
 pc
 pcapng
 pci-dss
@@ -4909,7 +4895,6 @@ popd
 population
 popup
 port
-port-scanner
 port70
 portal
 ports
@@ -4950,7 +4935,6 @@ poshy-ls-isms
 poshy-lucidity
 poshy-multimedia
 poshy-net
-poshy-notify-send
 poshy-sh-isms
 poshy-sshconfig
 poshy-viewer-finder
@@ -6680,7 +6664,6 @@ pscommand_nmap_ping_through_firewall
 pscommand_nmap_slow
 pscommand_nmap_traceroute
 pscommand_nmap_web_safe_osscan
-pscommand_notify-send-fallback
 pscommand_npm-disable-proxy
 pscommand_npm-enable-proxy
 pscommand_npm-show-proxy
@@ -7952,7 +7935,6 @@ psfunction_nmap_ping_through_firewall
 psfunction_nmap_slow
 psfunction_nmap_traceroute
 psfunction_nmap_web_safe_osscan
-psfunction_notify-send-fallback
 psfunction_npm-disable-proxy
 psfunction_npm-enable-proxy
 psfunction_npm-show-proxy
@@ -8147,6 +8129,9 @@ psmodules
 psmp
 psmsgraph
 psmsgraphapi
+psmssql
+psmssqlbynarymodule
+psmssqlmodule
 psmvp
 psnavigation
 psnexosisclient
@@ -8183,9 +8168,11 @@ psslack
 pssqlite
 pssqlitebynarymodule
 pssqlitemodule
+pssqlserver
+pssqlserverbynarymodule
+pssqlservermodule
 psst
 psstgenerator
-pstablacus
 pstanss
 psthread
 pstk
@@ -8324,7 +8311,6 @@ randompassword
 randomuser
 randomusers
 rangescan
-ransomware_recovery
 ras
 raspberry-pi
 raspberrypi
@@ -8546,7 +8532,6 @@ restore
 resume
 retail
 retention
-retro
 retry
 returnuserprofile
 retype
@@ -8612,6 +8597,7 @@ rotation
 round
 roundrobindatabase
 route
+route53
 routeconfig
 router
 routes
@@ -8638,7 +8624,6 @@ rt
 rtu
 rubber
 rubrik
-rubriksecuritycloud
 ruby
 rule
 rulesengine
@@ -8770,6 +8755,7 @@ screencapture
 screenconnect
 screenfetch
 screenresolution
+screensaver
 screenshot
 script
 script_version
@@ -9063,6 +9049,7 @@ sitesystemserver
 sitethumbprint
 size
 skatterbrainz
+skeleton-loader
 skia
 skiasharp
 skolnilogin
@@ -9131,6 +9118,7 @@ snmpset
 snmpv3
 snmpwalk
 snowflake
+snsmssqlpsmodule
 snspsadgroupmembers
 snspsscriptsmonitoring
 snssqlitepsmodule
@@ -9201,6 +9189,7 @@ speak
 speaker
 spec
 specification
+specify
 spectre
 spectrumconnect
 spectrumcontrolbase
@@ -9268,6 +9257,9 @@ sqlproject
 sqlps
 sqlserver
 sqlserveragent
+sqlserverbynarymodule
+sqlserverbynarypsmodule
+sqlservermodule
 sqlvirtualmachine
 sqr
 sqrt
@@ -9323,7 +9315,6 @@ start-jobthread
 start-threadjob
 startkey
 startmen
-startmenu
 starttls
 starwars
 stash
@@ -9523,7 +9514,6 @@ tab-expansion
 tabcompletion
 tabexpansion
 tabexpansion2
-tablacus
 table
 tableau
 tableauserver
@@ -9581,6 +9571,7 @@ teamspolicy
 teamviewer
 techdirect
 techedna2014
+techlog
 technology
 techsmith
 tel
@@ -9609,7 +9600,6 @@ terminal
 terminal-interface
 terminal-services
 terminal.gui
-terminalnotifier
 terminalvelocity
 termset
 terraform
@@ -9683,7 +9673,6 @@ threads
 threadsanitizer
 threat
 threat-hunting
-threatdefense
 threathunting
 threatintelligence
 throttle
@@ -9750,8 +9739,6 @@ touch
 toughswitch
 tphubps
 tpm
-tr-064
-tr064
 trace
 traceevent
 tracer
@@ -10235,6 +10222,7 @@ vsan
 vsan+
 vscode
 vsdevcmd
+vsdevshell
 vsenvironment
 vsm
 vso
@@ -10278,14 +10266,12 @@ wap
 wapack
 wapi
 warning
-warplaneporn
 warranty
 warraty
 warrenty
 wasabi
 watch
 watchdog
-watchmen
 watery
 wave
 wayk
@@ -10409,6 +10395,7 @@ windows10mui
 windows11
 windows365
 windowsadmincenter
+windowsaudit
 windowsbuilds
 windowscredential
 windowscredentialmanager
@@ -10443,7 +10430,6 @@ windowsserver2016
 windowsserver2019
 windowsservercoresecurity
 windowsserverguisecurity
-windowsservice
 windowsservices
 windowsstore
 windowsterminal
@@ -10560,6 +10546,8 @@ wso2
 wsus
 wt
 wtsapi32
+wttr
+wttr.in
 wtx
 wu
 wug
