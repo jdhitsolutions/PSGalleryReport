@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Thursday, 21 December 2023 09:52:28 UTC
+Updated: Thursday, 21 December 2023 17:52:32 UTC
 
 .bat
 .env
@@ -26,6 +26,7 @@ Updated: Thursday, 21 December 2023 09:52:28 UTC
 1709
 1803
 1809
+1c
 1e
 1password
 1poshword
@@ -108,9 +109,7 @@ action1
 actiongroup
 actionplan
 actions
-activate
 activation
-activationscripts
 active
 active_directory
 active-directory
@@ -243,7 +242,6 @@ ailanguage
 aim
 aip
 aipscanner
-aircall
 airpower
 airpwr
 airtable
@@ -287,7 +285,6 @@ alpine
 alt3
 alter
 alteryx
-alwaysontop
 alwaysonvpn
 alz
 amateur
@@ -440,7 +437,6 @@ arg
 argcomplete
 argument
 argumentcompleter
-arguments
 arm
 arm-json
 arm-templates
@@ -601,6 +597,7 @@ awscli
 awspricelist
 axapta
 axinom
+axis
 axium
 az
 az-cli
@@ -833,8 +830,6 @@ blockchain
 blocks
 blog
 blogs
-bloxone
-bloxoneddi
 bls
 blue
 bluedolhin
@@ -970,6 +965,7 @@ capture
 carbon
 carbonawarecomputing
 carbonintensity
+card
 cardwirth
 cargo
 carousel
@@ -1040,6 +1036,7 @@ certificates
 certificateservices
 certificatesmanagement
 certinia
+certutil
 cf
 cfn
 ch9
@@ -1622,9 +1619,7 @@ cypher
 cyrillic
 d365
 d365ce
-d365f&o
 d365fo
-d365lbd
 daas
 dac
 dacfx
@@ -2169,6 +2164,7 @@ email
 email-address
 emailaddressupdate
 emailautomation
+emailmanagment
 emailnotification
 emailnotificationcomponent
 emailsecurity
@@ -2470,6 +2466,7 @@ file-transform
 file-type
 file-type-association
 fileattributes
+fileencryption
 filelist
 filelog
 filelogger
@@ -2525,6 +2522,7 @@ findlocation
 findplace
 findproxyforurl
 fine-print
+fine-tuning
 finops
 firebird
 firefox
@@ -2571,7 +2569,6 @@ fonts
 foo
 football
 for
-force
 forcedelete
 foreach
 foreach-object
@@ -2639,7 +2636,6 @@ fu-msauth
 fudge
 fudgepop
 fujitsu
-full
 full-metal-gnome
 fullclr
 fulljoin
@@ -2922,6 +2918,7 @@ handle
 handler
 hangouts
 hannelstoolbox
+hanwha
 har
 hard
 hardblock
@@ -2949,7 +2946,6 @@ hba
 hbase
 hci
 hcl
-hcm
 hcx
 hdfs
 hdinsight
@@ -3102,7 +3098,6 @@ humanly
 humor
 humorous
 hunter
-hwid
 hybrid
 hybridrunbookworker
 hyper-v
@@ -3261,7 +3256,6 @@ innerjoin
 innertext
 input
 inputbox
-inputobject
 insert
 insiderthreat
 insight
@@ -3521,6 +3515,7 @@ keybase
 keybinding
 keyboard
 keyboardstartkey
+keycipher
 keylight
 keymanagement
 keymap
@@ -3609,7 +3604,6 @@ layer
 layman
 layout
 lazywinadmin
-lbd
 lbi
 lbs
 lccn
@@ -3903,7 +3897,6 @@ marvell_semiconductor_inc
 marvellfcpowerkit
 marvellfcprovider
 marvellqlogicfcpowerkit
-mas
 mask
 mass
 masstransit
@@ -4085,6 +4078,7 @@ mobilitycontroller
 mock
 mocking
 model
+modeling
 modify
 module
 module-maintenance
@@ -4180,9 +4174,6 @@ msproject
 msrc
 msrdc
 mssql
-mssqlbynarymodule
-mssqlbynarypsmodule
-mssqlmodule
 mssqlplugins
 mssqlserver
 msteams
@@ -4532,6 +4523,7 @@ oneidentity
 onelogin
 oneloginapi
 onenote
+onestools
 onesubscription
 onetimesecret
 oneviewglobaldashboard
@@ -4736,6 +4728,7 @@ passwordexpiry
 passwordgeneration
 passwordgenerator
 passwordgenerators
+passwordhashing
 passwordlock
 passwordlockoutreport
 passwordmanagement
@@ -4988,11 +4981,11 @@ poshy-wrap-ruby
 poshy-wrap-systemctl
 poshy-wrap-terraform
 poshy-wrap-terragrunt
-poshy-wrap-tmux
 poshy-wrap-vagrant
 poshy-wrap-vault
 poshy-wrap-vscode
 poshy-wrap-wget
+poshy-wrap-wt
 poshy-wrap-yum
 poshy-wrap-zypper
 position
@@ -5000,6 +4993,7 @@ post
 postgre
 postgres
 postgresql
+potato
 pow
 powdrgit
 power
@@ -6392,13 +6386,6 @@ pscommand_invoke-terragruntplan
 pscommand_invoke-terragruntplanall
 pscommand_invoke-terragruntvalidate
 pscommand_invoke-terragruntvalidateall
-pscommand_invoke-tmuxattachforterminal
-pscommand_invoke-tmuxattachforterminaldetachingothers
-pscommand_invoke-tmuxeditconfig
-pscommand_invoke-tmuxkillserver
-pscommand_invoke-tmuxkillsessionforterminal
-pscommand_invoke-tmuxlistsessions
-pscommand_invoke-tmuxnewsessionfromsource
 pscommand_invoke-vagrantdestroy
 pscommand_invoke-vagranthalt
 pscommand_invoke-vagranthostmanager
@@ -6659,6 +6646,8 @@ pscommand_new-gitbranchtracked
 pscommand_new-gitpatchfile
 pscommand_new-isofile
 pscommand_new-viewerinvocationfunction
+pscommand_new-windowsterminalpane
+pscommand_new-windowsterminaltab
 pscommand_nginx_reload
 pscommand_nginx_restart
 pscommand_nginx_start
@@ -6838,8 +6827,6 @@ pscommand_syspip
 pscommand_syspip_package_location
 pscommand_syspip3
 pscommand_syspip3_package_location
-pscommand_ta
-pscommand_tad
 pscommand_test-command
 pscommand_test-d
 pscommand_test-elevation
@@ -6867,14 +6854,6 @@ pscommand_tgp
 pscommand_tgpa
 pscommand_tgv
 pscommand_tgva
-pscommand_tkss
-pscommand_tksv
-pscommand_tl
-pscommand_tmuxconf
-pscommand_ts
-pscommand_txa
-pscommand_txl
-pscommand_txn
 pscommand_universalarchive
 pscommand_update-gitbranchbasefrombranchmain
 pscommand_update-gitbranchbasefrommain
@@ -7808,13 +7787,6 @@ psfunction_invoke-terragruntplan
 psfunction_invoke-terragruntplanall
 psfunction_invoke-terragruntvalidate
 psfunction_invoke-terragruntvalidateall
-psfunction_invoke-tmuxattachforterminal
-psfunction_invoke-tmuxattachforterminaldetachingothers
-psfunction_invoke-tmuxeditconfig
-psfunction_invoke-tmuxkillserver
-psfunction_invoke-tmuxkillsessionforterminal
-psfunction_invoke-tmuxlistsessions
-psfunction_invoke-tmuxnewsessionfromsource
 psfunction_invoke-vagrantdestroy
 psfunction_invoke-vagranthalt
 psfunction_invoke-vagranthostmanager
@@ -7929,6 +7901,8 @@ psfunction_new-gitbranchtracked
 psfunction_new-gitpatchfile
 psfunction_new-isofile
 psfunction_new-viewerinvocationfunction
+psfunction_new-windowsterminalpane
+psfunction_new-windowsterminaltab
 psfunction_nginx_reload
 psfunction_nginx_restart
 psfunction_nginx_start
@@ -8143,9 +8117,6 @@ psmodules
 psmp
 psmsgraph
 psmsgraphapi
-psmssql
-psmssqlbynarymodule
-psmssqlmodule
 psmvp
 psnavigation
 psnexosisclient
@@ -8182,12 +8153,8 @@ psslack
 pssqlite
 pssqlitebynarymodule
 pssqlitemodule
-pssqlserver
-pssqlserverbynarymodule
-pssqlservermodule
 psst
 psstgenerator
-pstablacus
 pstanss
 psthread
 pstk
@@ -8218,6 +8185,7 @@ pubxml
 pulldistributionpoint
 pullrequest
 pullserver
+pulseway
 pulumi
 punycode
 puppet
@@ -8482,7 +8450,6 @@ remove-itemproperty
 remove-pass
 remove-path
 remove-pinneditem
-remove-tempfiles
 removetypeaccelerators
 remux
 ren-isac
@@ -8982,6 +8949,7 @@ shadowcopy
 shadowcopybackups
 shadowgroups
 shanghaitech
+shard
 share
 share-permission
 share-stat
@@ -9134,7 +9102,6 @@ snmpset
 snmpv3
 snmpwalk
 snowflake
-snsmssqlpsmodule
 snspsadgroupmembers
 snspsscriptsmonitoring
 snssqlitepsmodule
@@ -9183,6 +9150,7 @@ sourcecontrol
 sourceforge
 sourcegraph
 sourcemod
+sourceone
 sourcepawn
 sourcequery
 sovcloud
@@ -9199,7 +9167,6 @@ spdockit
 spdx
 spdx-license-identifier:ms-pl
 spe
-speach
 speak
 speaker
 spec
@@ -9272,9 +9239,6 @@ sqlproject
 sqlps
 sqlserver
 sqlserveragent
-sqlserverbynarymodule
-sqlserverbynarypsmodule
-sqlservermodule
 sqlvirtualmachine
 sqr
 sqrt
@@ -9530,7 +9494,6 @@ tab-expansion
 tabcompletion
 tabexpansion
 tabexpansion2
-tablacus
 table
 tableau
 tableauserver
@@ -9588,6 +9551,7 @@ teamspolicy
 teamviewer
 techdirect
 techedna2014
+techlog
 technology
 techsmith
 tel
@@ -9627,6 +9591,7 @@ terrafun
 terragrunt
 tesla
 test
+test-automation
 test-dscconfiguration
 test-internetconnection
 test-modulepath
@@ -9640,6 +9605,7 @@ test123
 testaccount
 testautomation
 tester
+testimonial
 testing
 testlab
 testplans
@@ -9651,7 +9617,6 @@ testtool
 testusers
 text
 text-to-image
-text-to-speach"
 text-to-speech
 text2image
 textanalysis
@@ -9688,7 +9653,6 @@ threads
 threadsanitizer
 threat
 threat-hunting
-threatdefense
 threathunting
 threatintelligence
 throttle
@@ -9720,7 +9684,6 @@ tls12
 tlsa
 tlsprotocol
 tlsrpt
-tmux
 to-do
 toast
 toasts
@@ -9841,6 +9804,7 @@ tubedownloader
 tui
 tulpep
 tuner
+tuning
 tutorial
 tv
 tweet
@@ -10406,6 +10370,7 @@ windows-powershell
 windows-registry
 windows-remoting
 windows-server-2016
+windows-terminal
 windows-user-folder
 windows-user-profile
 windows10
@@ -10565,8 +10530,6 @@ wso2
 wsus
 wt
 wtsapi32
-wttr
-wttr.in
 wtx
 wu
 wug
