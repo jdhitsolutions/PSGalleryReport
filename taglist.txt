@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Thursday, 21 December 2023 17:52:32 UTC
+Updated: Friday, 22 December 2023 02:04:19 UTC
 
 .bat
 .env
@@ -109,7 +109,9 @@ action1
 actiongroup
 actionplan
 actions
+activate
 activation
+activationscripts
 active
 active_directory
 active-directory
@@ -197,7 +199,6 @@ adobeflash
 adobject
 adouobject
 adoxio
-adp
 adr
 ads
 adsi
@@ -242,8 +243,7 @@ ailanguage
 aim
 aip
 aipscanner
-airpower
-airpwr
+aircall
 airtable
 ais
 aispeech
@@ -285,6 +285,7 @@ alpine
 alt3
 alter
 alteryx
+alwaysontop
 alwaysonvpn
 alz
 amateur
@@ -437,6 +438,7 @@ arg
 argcomplete
 argument
 argumentcompleter
+arguments
 arm
 arm-json
 arm-templates
@@ -592,7 +594,6 @@ aws_profile
 aws-codebuild
 aws-lambda
 aws-vault
-aws.tools.powershell
 awscli
 awspricelist
 axapta
@@ -670,7 +671,6 @@ azureinformationprotection
 azureiot
 azureiothub
 azurekeyvault
-azuremigrate
 azuremonitor
 azurenetworking
 azurepack
@@ -830,6 +830,8 @@ blockchain
 blocks
 blog
 blogs
+bloxone
+bloxoneddi
 bls
 blue
 bluedolhin
@@ -887,7 +889,6 @@ broadcom
 broot
 brownserve-uk
 browser
-browserextension
 browserhistory
 browsing
 brs
@@ -923,7 +924,6 @@ business
 businesscentral
 businessdays
 businesshours
-businessobjects
 businessrulesengine
 businesstime
 bxor
@@ -1378,7 +1378,6 @@ connectionmonitor
 connections
 connectionsmanager
 connectionstring
-connectivity
 connectwise
 conservation
 console
@@ -1523,7 +1522,6 @@ credman
 credmanager
 crescendo
 crescendobuilt
-cresendo
 crestron
 crime
 crlf
@@ -1580,7 +1578,6 @@ custom
 customchecks
 customdns
 customer
-customerengagement
 customers
 customeventchannel
 customeventlog
@@ -1618,7 +1615,6 @@ cylance
 cypher
 cyrillic
 d365
-d365ce
 d365fo
 daas
 dac
@@ -1669,7 +1665,6 @@ dataexplorer
 datafactory
 dataflow
 dataflowdependency
-dataframe
 datagateway
 dataintegration
 datakwaliteit
@@ -1713,7 +1708,6 @@ db
 db2
 dba
 dbaas
-dbase
 dbcommand
 dbeaver
 dbfs
@@ -1789,7 +1783,6 @@ depute
 der
 description
 deserialize
-design
 desired
 desiredstate
 desiredstateconfiguration
@@ -2097,9 +2090,7 @@ dynamics
 dynamics-365
 dynamics-crm
 dynamics365
-dynamics365ce
 dynamics365fo
-dynamics365sales
 dynamics365server
 dynamicsax
 dynamicsecuritygroups
@@ -2219,7 +2210,6 @@ enumerable
 env
 environment
 environment-variables
-environmentmanagent
 environmentmodules
 environments
 environmentvariable
@@ -2385,7 +2375,6 @@ extendscript
 extensibility
 extension
 extensionmethods
-extensionrisk
 extensions
 external
 externalip
@@ -2569,6 +2558,7 @@ fonts
 foo
 football
 for
+force
 forcedelete
 foreach
 foreach-object
@@ -2597,12 +2587,10 @@ fortinet
 fortinetmanager
 fortios
 fortune
-forum
 forwardcompatibility
 forwardedevents
 foudil
 fox
-foxpro
 fqdn
 frame
 framework
@@ -2636,6 +2624,7 @@ fu-msauth
 fudge
 fudgepop
 fujitsu
+full
 full-metal-gnome
 fullclr
 fulljoin
@@ -2946,6 +2935,7 @@ hba
 hbase
 hci
 hcl
+hcm
 hcx
 hdfs
 hdinsight
@@ -3010,7 +3000,6 @@ hipchat
 hiragana
 histogram
 history
-historyninja
 hitrust
 hive
 hivehome
@@ -3098,6 +3087,7 @@ humanly
 humor
 humorous
 hunter
+hwid
 hybrid
 hybridrunbookworker
 hyper-v
@@ -3256,6 +3246,7 @@ innerjoin
 innertext
 input
 inputbox
+inputobject
 insert
 insiderthreat
 insight
@@ -3315,7 +3306,6 @@ intranet
 intrusion
 intuitive
 intune
-intuneappwinutil
 intunestuff
 inventory
 investigation
@@ -3405,7 +3395,6 @@ itemobject
 items
 itemstack
 iterate
-iteration
 itg
 itglue
 itin
@@ -3536,7 +3525,6 @@ kms
 knapsack
 knetps
 knob
-knowbe4
 knowledge
 knowledgebase
 koans
@@ -3897,6 +3885,7 @@ marvell_semiconductor_inc
 marvellfcpowerkit
 marvellfcprovider
 marvellqlogicfcpowerkit
+mas
 mask
 mass
 masstransit
@@ -3914,7 +3903,6 @@ matrix
 maven
 max
 max_path
-maximum
 maxoffice
 mazerat
 mb
@@ -4050,10 +4038,8 @@ mimekit
 min
 mindmeister
 minecraft
-miniconda
 minifier
 minimal
-minimum
 mip
 mipsdk
 miration-step
@@ -4126,7 +4112,6 @@ mp3
 mp4
 mpc
 mpeg
-mpn
 mrfk
 mrfylke
 mrvl_fc_powerkit
@@ -4142,7 +4127,6 @@ msband
 msbi
 msbuild
 msdeploy
-msdn
 msdtc
 msedge
 msexcel
@@ -4174,6 +4158,9 @@ msproject
 msrc
 msrdc
 mssql
+mssqlbynarymodule
+mssqlbynarypsmodule
+mssqlmodule
 mssqlplugins
 mssqlserver
 msteams
@@ -4196,7 +4183,6 @@ multidimenstional
 multimedia
 multios
 multipass
-multiple
 multiserver
 multistring
 multithread
@@ -4295,7 +4281,6 @@ network
 network adapter configuration operating os optical sensor physical pointing portable printer processor cpu refrigaration cooling cooler removable usb sd ram dimm scsi sound audio card enclosure tape temperature touchpad touch pad touchscreen screen trackball trackpoint video graphics voltage psmodule
 network-credentials
 network-info
-networkanalytics
 networkcloud
 networkcontroller
 networkdiscovery
@@ -4339,7 +4324,6 @@ nexentastor
 nexthink
 nexus
 nexusiq
-nfsv3
 ngen
 ngfw
 nginx
@@ -4648,7 +4632,6 @@ outline
 outlook
 output
 output-to-image
-outreach
 outsystems
 overbite
 ovf
@@ -4666,7 +4649,6 @@ pac
 pack
 package
 package-management
-package-manager
 package-transform
 packagemanagement
 packagemanager
@@ -4981,6 +4963,7 @@ poshy-wrap-ruby
 poshy-wrap-systemctl
 poshy-wrap-terraform
 poshy-wrap-terragrunt
+poshy-wrap-tmux
 poshy-wrap-vagrant
 poshy-wrap-vault
 poshy-wrap-vscode
@@ -5060,7 +5043,6 @@ powershellfar
 powershellgallery
 powershellget
 powershellgetformatversion_2.0
-powershellise
 powershelllogger
 powershellmodule
 powershellmoduleupdate
@@ -5088,7 +5070,6 @@ pranks
 predicate
 prediction
 predictive
-predictive-text
 predictor
 preferences
 prefix
@@ -5222,7 +5203,6 @@ psake
 psappdeploytoolkit
 psat
 psazd
-psbackup
 psbbix
 psbicep
 psclient
@@ -6386,6 +6366,13 @@ pscommand_invoke-terragruntplan
 pscommand_invoke-terragruntplanall
 pscommand_invoke-terragruntvalidate
 pscommand_invoke-terragruntvalidateall
+pscommand_invoke-tmuxattachforterminal
+pscommand_invoke-tmuxattachforterminaldetachingothers
+pscommand_invoke-tmuxeditconfig
+pscommand_invoke-tmuxkillserver
+pscommand_invoke-tmuxkillsessionforterminal
+pscommand_invoke-tmuxlistsessions
+pscommand_invoke-tmuxnewsessionfromsource
 pscommand_invoke-vagrantdestroy
 pscommand_invoke-vagranthalt
 pscommand_invoke-vagranthostmanager
@@ -6827,6 +6814,8 @@ pscommand_syspip
 pscommand_syspip_package_location
 pscommand_syspip3
 pscommand_syspip3_package_location
+pscommand_ta
+pscommand_tad
 pscommand_test-command
 pscommand_test-d
 pscommand_test-elevation
@@ -6854,6 +6843,14 @@ pscommand_tgp
 pscommand_tgpa
 pscommand_tgv
 pscommand_tgva
+pscommand_tkss
+pscommand_tksv
+pscommand_tl
+pscommand_tmuxconf
+pscommand_ts
+pscommand_txa
+pscommand_txl
+pscommand_txn
 pscommand_universalarchive
 pscommand_update-gitbranchbasefrombranchmain
 pscommand_update-gitbranchbasefrommain
@@ -7787,6 +7784,13 @@ psfunction_invoke-terragruntplan
 psfunction_invoke-terragruntplanall
 psfunction_invoke-terragruntvalidate
 psfunction_invoke-terragruntvalidateall
+psfunction_invoke-tmuxattachforterminal
+psfunction_invoke-tmuxattachforterminaldetachingothers
+psfunction_invoke-tmuxeditconfig
+psfunction_invoke-tmuxkillserver
+psfunction_invoke-tmuxkillsessionforterminal
+psfunction_invoke-tmuxlistsessions
+psfunction_invoke-tmuxnewsessionfromsource
 psfunction_invoke-vagrantdestroy
 psfunction_invoke-vagranthalt
 psfunction_invoke-vagranthostmanager
@@ -8117,6 +8121,9 @@ psmodules
 psmp
 psmsgraph
 psmsgraphapi
+psmssql
+psmssqlbynarymodule
+psmssqlmodule
 psmvp
 psnavigation
 psnexosisclient
@@ -8134,7 +8141,6 @@ psprovider
 psprtg
 pspublicapi
 psql
-psraw
 psreadexif
 psreadline
 psremoting
@@ -8153,8 +8159,12 @@ psslack
 pssqlite
 pssqlitebynarymodule
 pssqlitemodule
+pssqlserver
+pssqlserverbynarymodule
+pssqlservermodule
 psst
 psstgenerator
+pstablacus
 pstanss
 psthread
 pstk
@@ -8450,6 +8460,7 @@ remove-itemproperty
 remove-pass
 remove-path
 remove-pinneditem
+remove-tempfiles
 removetypeaccelerators
 remux
 ren-isac
@@ -8672,7 +8683,6 @@ sapstartstopazure
 sarcasm
 sarif
 sas
-sat
 satirical
 save
 savedcreds
@@ -8742,7 +8752,6 @@ screenresolution
 screensaver
 screenshot
 script
-script_version
 script-to-assembly
 script-to-executable
 scriptanalyzer
@@ -8805,7 +8814,6 @@ securescore
 securesphere
 securestring
 security
-security-awareness-training
 security-policy
 security-score
 security-txt
@@ -8974,7 +8982,6 @@ shieldedvm
 ships
 shipsprovider
 shipstation
-shlink
 shodan
 shodanps
 shop
@@ -9093,7 +9100,6 @@ snapshots
 sni
 snipe-it
 snippet
-snippets
 snippets-manager
 snippit
 snmp
@@ -9102,6 +9108,7 @@ snmpset
 snmpv3
 snmpwalk
 snowflake
+snsmssqlpsmodule
 snspsadgroupmembers
 snspsscriptsmonitoring
 snssqlitepsmodule
@@ -9111,7 +9118,6 @@ soc
 soccer
 social
 social-media
-socialmedia
 socketlabs
 sockets
 sodium
@@ -9138,7 +9144,6 @@ songs
 sonicwall
 sonicwallvpn
 sonus
-soon
 soonr
 soonragent
 sophos
@@ -9167,11 +9172,11 @@ spdockit
 spdx
 spdx-license-identifier:ms-pl
 spe
+speach
 speak
 speaker
 spec
 specification
-specify
 spectre
 spectrumconnect
 spectrumcontrolbase
@@ -9239,6 +9244,9 @@ sqlproject
 sqlps
 sqlserver
 sqlserveragent
+sqlserverbynarymodule
+sqlserverbynarypsmodule
+sqlservermodule
 sqlvirtualmachine
 sqr
 sqrt
@@ -9345,7 +9353,6 @@ storedcredentials
 storefront
 storeonce
 storeserv
-strava
 streak
 stream
 streamanalytics
@@ -9494,10 +9501,10 @@ tab-expansion
 tabcompletion
 tabexpansion
 tabexpansion2
+tablacus
 table
 tableau
 tableauserver
-tabler
 tables
 tablestorage
 tabs
@@ -9617,6 +9624,7 @@ testtool
 testusers
 text
 text-to-image
+text-to-speach"
 text-to-speech
 text2image
 textanalysis
@@ -9653,6 +9661,7 @@ threads
 threadsanitizer
 threat
 threat-hunting
+threatdefense
 threathunting
 threatintelligence
 throttle
@@ -9684,6 +9693,7 @@ tls12
 tlsa
 tlsprotocol
 tlsrpt
+tmux
 to-do
 toast
 toasts
@@ -9797,7 +9807,6 @@ tsqlbestpractice
 tst
 tst1
 tst3
-tsv
 ttrpg
 tts
 tubedownloader
@@ -9977,7 +9986,6 @@ uri
 uri-scheme
 url
 url-encode
-url-shortener
 urldecode
 urlencode
 urlhaus
@@ -9985,7 +9993,6 @@ urlredirections
 urlrewrite
 urlscan
 urlupdate
-uru
 usage
 usageaggregates
 usageapi
@@ -10247,7 +10254,6 @@ wap
 wapack
 wapi
 warning
-warplaneporn
 warranty
 warraty
 warrenty
@@ -10530,6 +10536,8 @@ wso2
 wsus
 wt
 wtsapi32
+wttr
+wttr.in
 wtx
 wu
 wug
@@ -10539,8 +10547,6 @@ wvd
 www
 x-cart
 x.509
-x1
-x2
 x509
 x509cerificate
 x509cerificate2
@@ -10587,7 +10593,6 @@ xprotect
 xpt
 xrm
 xsa
-xtremio
 xtrude
 xunit
 xwiki
@@ -10601,7 +10606,6 @@ yandex
 yapg
 yarn
 yetanotherhelloworld
-yml
 ynab
 youtube
 youtube-dl
@@ -10630,7 +10634,6 @@ zoomapi
 zoommeeting
 zoxide
 zsh
-zuora
 zvm
 zvml
 zvmlinux
