@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Friday, 22 December 2023 09:52:28 UTC
+Updated: Friday, 22 December 2023 17:52:23 UTC
 
 .bat
 .env
@@ -597,6 +597,7 @@ aws_profile
 aws-codebuild
 aws-lambda
 aws-vault
+aws.tools.powershell
 awscli
 awspricelist
 axapta
@@ -628,6 +629,7 @@ azstackhci
 azstate
 azsubnet
 aztools
+azts
 azuead
 azure
 azure_ad
@@ -741,7 +743,6 @@ bat
 batcat
 batch
 batchclass
-batman
 battery
 bayern
 bb
@@ -1041,6 +1042,7 @@ certificates
 certificateservices
 certificatesmanagement
 certinia
+certutil
 cf
 cfn
 ch9
@@ -1298,7 +1300,6 @@ commence
 comment
 comments
 commerce
-commfort
 commit
 commits
 common
@@ -1405,7 +1406,6 @@ contentprep
 context
 continious-deploy
 continious-integration
-continiousintergration
 continous
 continuous
 continuous-delivery
@@ -1447,6 +1447,7 @@ cooltag2
 coordinates
 copilot
 copy
+copy-item
 copyright
 core
 coreepower
@@ -1525,7 +1526,6 @@ credman
 credmanager
 crescendo
 crescendobuilt
-cresendo
 crestron
 crime
 crlf
@@ -1610,6 +1610,7 @@ cyberark-api
 cyberark-identity
 cyberdrain
 cybereason
+cybersamurai
 cybersecurity
 cyberwatch
 cyclic
@@ -1716,7 +1717,6 @@ dba
 dbaas
 dbase
 dbcommand
-dbeaver
 dbfs
 dbnull
 dbops
@@ -1876,8 +1876,6 @@ disable
 disable-internet
 disable-psremoting
 disablefilesyncngsc
-disablestartbutton
-disablestartkey
 disasm
 disasterrecovery
 disconnect
@@ -1961,6 +1959,7 @@ docker-image
 docker-machine
 docker-volumes
 dockerfile
+dockerize
 dockerswarm
 docking
 docs
@@ -2466,6 +2465,7 @@ file-transform
 file-type
 file-type-association
 fileattributes
+fileencryption
 filelist
 filelog
 filelogger
@@ -2569,6 +2569,7 @@ foo
 football
 for
 force
+forcedelete
 foreach
 foreach-object
 forecast
@@ -3517,7 +3518,7 @@ key2wocas
 keybase
 keybinding
 keyboard
-keyboardstartkey
+keycipher
 keylight
 keymanagement
 keymap
@@ -3713,7 +3714,6 @@ localconfigurationmanager
 localdb
 locale
 localgroup
-localgroupmember
 localization
 location
 locationbasedservices
@@ -3761,6 +3761,7 @@ login-rdp
 logingestion
 loginscreen
 loginsight
+logiphys
 logistic
 logitech
 logmail
@@ -3770,6 +3771,7 @@ logoff
 logon
 logonright
 logonscript
+logontask
 logonto
 logonuser
 logparser
@@ -4284,6 +4286,7 @@ netcease
 netcore
 netfirewallrule
 netherlands
+netmap
 netmask
 nets
 netsapiens
@@ -4298,6 +4301,7 @@ network
 network adapter configuration operating os optical sensor physical pointing portable printer processor cpu refrigaration cooling cooler removable usb sd ram dimm scsi sound audio card enclosure tape temperature touchpad touch pad touchscreen screen trackball trackpoint video graphics voltage psmodule
 network-credentials
 network-info
+networkanalytics
 networkcloud
 networkcontroller
 networkdiscovery
@@ -4729,7 +4733,7 @@ passwordexpiration
 passwordexpiry
 passwordgeneration
 passwordgenerator
-passwordgenerators
+passwordhashing
 passwordlock
 passwordlockoutreport
 passwordmanagement
@@ -4829,6 +4833,7 @@ pinneditem
 pinterest
 pinvoke
 pip
+pip3
 pipe
 pipedrive
 pipeline
@@ -4972,9 +4977,11 @@ poshy-wrap-maven
 poshy-wrap-nginx
 poshy-wrap-nmap
 poshy-wrap-npm
+poshy-wrap-pip
 poshy-wrap-pipenv
 poshy-wrap-pyenv
 poshy-wrap-pylint
+poshy-wrap-python
 poshy-wrap-ruby
 poshy-wrap-systemctl
 poshy-wrap-terraform
@@ -5226,6 +5233,7 @@ psbbix
 psbicep
 psclient
 pscmdlet
+pscommand__python3
 pscommand_--
 pscommand_..
 pscommand_...
@@ -6088,6 +6096,7 @@ pscommand_invoke-gotoolfix
 pscommand_invoke-goversion
 pscommand_invoke-govet
 pscommand_invoke-gowork
+pscommand_invoke-greppipfreeze
 pscommand_invoke-helm
 pscommand_invoke-helminstall
 pscommand_invoke-helmsearch
@@ -6248,6 +6257,10 @@ pscommand_invoke-pipenvuninstall
 pscommand_invoke-pipenvupdate
 pscommand_invoke-pipenvvenv
 pscommand_invoke-pipenvwhere
+pscommand_invoke-pipinstall
+pscommand_invoke-pipinstallupgrade
+pscommand_invoke-piplistoutdated
+pscommand_invoke-pipuninstall
 pscommand_invoke-pyenv
 pscommand_invoke-pylintreportsdisabled
 pscommand_invoke-ruby
@@ -6487,6 +6500,8 @@ pscommand_invoke-zypperversioncompare
 pscommand_invoke-zypperwhatprovides
 pscommand_invokeyumgrouplist
 pscommand_ips
+pscommand_ipy
+pscommand_ipython
 pscommand_jump
 pscommand_k
 pscommand_kaf
@@ -6694,6 +6709,22 @@ pscommand_pgr
 pscommand_pi
 pscommand_pidev
 pscommand_ping
+pscommand_pip
+pscommand_pip_package_location
+pscommand_pip3
+pscommand_pip3_package_location
+pscommand_pipgi
+pscommand_pipi
+pscommand_pipig
+pscommand_pipigb
+pscommand_pipigp
+pscommand_pipir
+pscommand_piplo
+pscommand_pipreq
+pscommand_pipu
+pscommand_pipun
+pscommand_pipunall
+pscommand_pipupall
 pscommand_pl
 pscommand_po
 pscommand_pop-gitstashentry
@@ -6718,8 +6749,12 @@ pscommand_pushgr
 pscommand_pvenv
 pscommand_pwh
 pscommand_pwshrc-show-proxy
+pscommand_py
 pscommand_pyenv
 pscommand_pylint-quick
+pscommand_pyserver
+pscommand_python
+pscommand_python3
 pscommand_rb
 pscommand_read-dotenv
 pscommand_register-argcompleteargumentcompleter
@@ -6786,6 +6821,7 @@ pscommand_set-locationup5
 pscommand_sgem
 pscommand_show-gitremote
 pscommand_show-proxy
+pscommand_shttp
 pscommand_shuf
 pscommand_sl
 pscommand_ssh-add-all
@@ -6800,6 +6836,10 @@ pscommand_stop-gitcherrypick
 pscommand_switch-gitbranchandtrack
 pscommand_switch-gitbranchmain
 pscommand_switch-gitbranchnew
+pscommand_syspip
+pscommand_syspip_package_location
+pscommand_syspip3
+pscommand_syspip3_package_location
 pscommand_ta
 pscommand_tad
 pscommand_test-command
@@ -7037,6 +7077,7 @@ psfitbit
 psfive9
 psfive9admin
 psfoldersize
+psfunction__python3
 psfunction_aar
 psfunction_add_ssh
 psfunction_add-envpathitem
@@ -7473,6 +7514,7 @@ psfunction_invoke-gotoolfix
 psfunction_invoke-goversion
 psfunction_invoke-govet
 psfunction_invoke-gowork
+psfunction_invoke-greppipfreeze
 psfunction_invoke-helm
 psfunction_invoke-helminstall
 psfunction_invoke-helmsearch
@@ -7633,6 +7675,10 @@ psfunction_invoke-pipenvuninstall
 psfunction_invoke-pipenvupdate
 psfunction_invoke-pipenvvenv
 psfunction_invoke-pipenvwhere
+psfunction_invoke-pipinstall
+psfunction_invoke-pipinstallupgrade
+psfunction_invoke-piplistoutdated
+psfunction_invoke-pipuninstall
 psfunction_invoke-pyenv
 psfunction_invoke-pylintreportsdisabled
 psfunction_invoke-ruby
@@ -7912,6 +7958,13 @@ psfunction_npm-enable-proxy
 psfunction_npm-show-proxy
 psfunction_open_command
 psfunction_peek
+psfunction_pipig
+psfunction_pipigb
+psfunction_pipigp
+psfunction_pipir
+psfunction_pipreq
+psfunction_pipunall
+psfunction_pipupall
 psfunction_pop-gitstashentry
 psfunction_proxy-help
 psfunction_publish-gitcommitsforcefullywithlease
@@ -7925,6 +7978,7 @@ psfunction_publish-gitrepositorytosvn
 psfunction_push-gitstashentry
 psfunction_push-gitstashentrywithmessage
 psfunction_pwshrc-show-proxy
+psfunction_pyserver
 psfunction_read-dotenv
 psfunction_register-argcompleteargumentcompleter
 psfunction_remove-dockercontainerall
@@ -7986,6 +8040,7 @@ psfunction_set-locationup4
 psfunction_set-locationup5
 psfunction_show-gitremote
 psfunction_show-proxy
+psfunction_shttp
 psfunction_shuf
 psfunction_ssh-add-all
 psfunction_ssh-disable-proxy
@@ -8167,7 +8222,6 @@ pubxml
 pulldistributionpoint
 pullrequest
 pullserver
-pulseway
 pulumi
 punycode
 puppet
@@ -8205,6 +8259,7 @@ pylint
 pyranja
 python
 python-for-dotnet
+python3
 qcloud
 qconvergeconsolepowerkit
 qemu
@@ -8407,7 +8462,6 @@ reminder
 remote
 remote-desktop
 remote'
-remoteadmin
 remotecert
 remoteconnection
 remoteconnectionsmanager
@@ -8420,7 +8474,6 @@ remotedesktopservices
 remotefiles
 remoteforensics
 remotehost
-remotelocalgroup
 remotelogoff
 remotemanagement
 remotesession
@@ -8804,6 +8857,7 @@ securityroles
 securityscopes
 securitytxt
 sed
+seed
 seek
 seekatar
 seeshell
@@ -8816,7 +8870,6 @@ selection
 selectxmlinfo
 selenium
 self
-self-hosted
 self-service
 self-signed
 selfdispatch
@@ -9125,6 +9178,7 @@ soonr
 soonragent
 sophos
 sort
+sorting
 source
 source-dedicated-server
 sourcecontrol
@@ -9269,15 +9323,13 @@ stale
 stan
 stanc
 standard
-standarderror
-standardoutput
 stansummary
 start
 start-job
 start-jobthread
 start-threadjob
-startkey
 startmen
+startmenu
 starttls
 starwars
 stash
@@ -9298,7 +9350,6 @@ statusmonitor
 statusreportingcomponent
 staytus
 stderr
-stdio
 stdout
 steam
 steam-games
@@ -9328,7 +9379,6 @@ storedcredentials
 storefront
 storeonce
 storeserv
-strava
 streak
 stream
 streamanalytics
@@ -9430,6 +9480,7 @@ syndication
 synergy
 syntax
 syntax-highlighting
+syntaxcheck
 syntaxhighlighter
 synthesis
 synthetics
@@ -9446,6 +9497,8 @@ sysman
 sysmon
 sysop
 syspass
+syspip
+syspip3
 sysprep
 system
 system information 1394 controller baseboard motherboard systemboard battery bios bus cache memory cd dvd rom drive compact disc desktop monitor disk partition fan floppy glide point heatpipe ide infrared device keyboard local logical array mouse'
@@ -9805,6 +9858,7 @@ twitter-follow
 twitter-hashtag
 twitter-mention
 twitter-share
+twitter-timeline
 twitter-tweet
 txt
 type
@@ -9837,6 +9891,7 @@ ud-component
 ud-confetti
 ud-control
 ud-dashboard
+ud-datepicker
 ud-field
 ud-flexytable
 ud-funnel
@@ -10215,6 +10270,7 @@ waa
 waas
 wac
 waf
+wait4x
 waitforobject
 wakeonlan
 wakeup
