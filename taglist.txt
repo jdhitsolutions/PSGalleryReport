@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Saturday, 23 December 2023 09:52:29 UTC
+Updated: Saturday, 23 December 2023 17:52:30 UTC
 
 .bat
 .env
@@ -26,7 +26,6 @@ Updated: Saturday, 23 December 2023 09:52:29 UTC
 1709
 1803
 1809
-1c
 1e
 1password
 1poshword
@@ -314,6 +313,7 @@ analyst
 analyth
 analytics
 analyticsrules
+analyze
 analyzer
 analyzerrules
 anchor
@@ -323,7 +323,6 @@ anet
 anf
 anglesharp
 angular
-animate-svg
 animation
 animations
 annotated
@@ -333,6 +332,8 @@ anonymous
 anova
 ansi
 ansible
+ansible-control-node
+ansiblecontrolnode
 antimalwarescaninterface
 antispam
 antivirus
@@ -426,6 +427,7 @@ architecture
 architecuture
 archive
 archivedteams
+archivematica
 archivial
 archivial-backup
 archivial-cloud-backup
@@ -448,6 +450,7 @@ arp
 array
 arrays
 art
+artefactual
 artifact
 artifactory
 artifacts
@@ -535,6 +538,7 @@ authorization
 authorizationheaders
 authorize.net
 authz
+autify
 auto
 auto_cd
 auto-completion
@@ -588,12 +592,13 @@ awp
 awpagent
 aws
 aws_profile
+aws-codebuild
 aws-lambda
 aws-vault
+aws.tools.powershell
 awscli
 awspricelist
 axapta
-axinom
 axis
 axium
 az
@@ -626,8 +631,11 @@ azuead
 azure
 azure_ad
 azure_security
+azure-adx
 azure-backup
 azure-cli
+azure-data-explorer
+azure-devops
 azure-forensics
 azure-functions
 azure-pipelines
@@ -635,6 +643,7 @@ azure-resource-graph
 azure-ssis
 azureactivedirectory
 azuread
+azureadbackupandrestore
 azureadconnect
 azureadgraph
 azureadtoolkit
@@ -670,6 +679,7 @@ azurepack
 azurepipelines
 azurepolicy
 azurepowershell
+azurerepos
 azureresourcemanager
 azureresources
 azurerestapispecs
@@ -794,6 +804,7 @@ bitbucket
 bitbucket-api
 bitbucket-server
 bitbucketautomation
+bitbucketpipelines
 bitcoin
 bitlocker
 bitwarden
@@ -878,6 +889,7 @@ brk4452
 broadcast
 broadcom
 broot
+brownserve-uk
 browser
 browserextension
 browserhistory
@@ -1084,6 +1096,7 @@ ci
 ci/cd
 cic
 cicd
+cicdpipeline
 cidr
 cidrcalculator
 cif
@@ -1100,7 +1113,6 @@ cinema
 cinst
 cipher
 circuit-breaker
-circumlunar
 cireson
 ciresonassetmanagement
 ciresonportal
@@ -1227,7 +1239,8 @@ code
 code-page
 code365
 codeanalysis
-codecomplexity
+codebuild
+codecommit
 codecov
 codecoverage
 codegen
@@ -1283,6 +1296,7 @@ commence
 comment
 comments
 commerce
+commfort
 commit
 commits
 common
@@ -1425,6 +1439,7 @@ converttohtml
 converttomarkdown
 converttomd
 cookie
+coolq
 cooltag1
 cooltag2
 coordinates
@@ -1472,8 +1487,10 @@ cppm
 cpu
 cpuid
 cpuid-information
+cq
 cqd
 cqdpowershell
+cqhttp
 crack psmodule
 crash
 crawler
@@ -1521,6 +1538,7 @@ cross-platform
 crossjoin
 crossover
 crossplatform
+crossplatformdevelopment
 crowdstrike
 crt.sh
 crud
@@ -1718,6 +1736,7 @@ debugger
 debugging
 decimal
 decimalip
+decimalzero
 declarative
 decline
 decode
@@ -1791,6 +1810,7 @@ devart
 devcenter
 devdeer
 developer
+developer_command_prompt
 developercommandprompt
 developermode
 development
@@ -1842,6 +1862,7 @@ director
 directories
 directory
 directory psedition_core psedition_desktop
+directory-transform
 directorymarks
 directoryname
 directorysearcher
@@ -1923,6 +1944,7 @@ dnsclient
 dnsdumpster
 dnsentry
 dnsimple
+dnslookup
 dnsmadeeasy
 dnsoverhttps
 dnsrecord
@@ -1984,6 +2006,8 @@ downloadfacebookvideo
 downloadfilefromsite
 downloadinfo
 downloading
+downloadoffice
+downloadofficertool
 downloads
 downloadyoutubevideo
 dpa
@@ -2085,6 +2109,7 @@ dynamicsnav
 dynamodb
 dynatrace
 dynatraceobservability
+dz
 e-mail
 e1
 easy
@@ -2097,7 +2122,6 @@ ebooks
 ebur128
 ec2
 ecommerce
-ecovadis
 ed25519
 edgaronline
 edge
@@ -2131,6 +2155,7 @@ elevation
 elgato
 elk
 elm
+elmah-io
 elonmusk
 eloqua
 elvui
@@ -2305,6 +2330,7 @@ exchangemigration
 exchangeon-premise
 exchangeon-premises
 exchangeonline
+exchangeonlineprotection
 exchangeonprem
 exchangeserver
 exchangewebservices
@@ -2349,6 +2375,7 @@ exportcertificates
 exporter
 exportexcel
 exportteams
+expression
 extend
 extended
 extendedattributes
@@ -2403,7 +2430,6 @@ fd
 feather
 feature
 features
-featuresondemand
 featureupdate
 federated
 federateddirectory
@@ -2436,6 +2462,7 @@ file-name-extension-association
 file-server
 file-share
 file-system
+file-transform
 file-type
 file-type-association
 fileattributes
@@ -2658,10 +2685,6 @@ gcs
 gdpr
 gedit
 gem
-gemini
-geminiprotocol
-gemlog
-gemtext
 general
 generate
 generate-dockerimagevariants
@@ -2754,9 +2777,12 @@ github-actions
 githubactions
 githubcli
 githubtools
+githubworkflow
 gitignore
 gitlab
+gitlab-runner
 gitlab4
+gitlabpipeline
 gitops
 glob
 globalclipboard
@@ -2922,6 +2948,7 @@ hcm
 hcx
 hdfs
 hdinsight
+hdinsightonaks
 header
 headhunter
 health
@@ -3175,6 +3202,7 @@ imagga
 imagination
 imaging
 imap
+imb
 imei
 imi
 impala
@@ -3248,6 +3276,8 @@ installationmanager
 installedapplications
 installer
 installers
+installoffice
+installofficertool
 installwindows
 instance
 instant
@@ -3275,6 +3305,7 @@ interlogix
 internal
 internet
 internet-explorer
+internetconnection
 internetexplorer
 intersight
 intersightcmdlets
@@ -3305,6 +3336,8 @@ invoke-dtdownloaddriverupdates
 invoke-dtdrivertool
 invoke-msbuild
 invoke-msbuildpreprocess
+invoke-vsbuild
+invoke-vsdevcommand
 invokebuild
 invokemethod
 io
@@ -3381,6 +3414,8 @@ itop
 itsm
 itstore
 ivanti
+ivb
+ivdc
 iwi
 j
 j81-blog
@@ -3395,6 +3430,7 @@ jboss
 jdbc
 jde
 jdedwards
+jdt
 jea
 jenkins
 jetbrains
@@ -3405,7 +3441,6 @@ jms
 jmsjavadownloads
 jnet
 jnetps
-joat
 job
 jobcan
 jobs
@@ -3419,11 +3454,13 @@ jotform
 journal
 joyride
 jpg
+jq
 js7
 jsm
 jsm.insight
 json
 json-converter
+json-transform
 json+
 jsonplus
 jsonwebkey
@@ -3455,6 +3492,7 @@ karabiner-elements
 karma
 kaseya
 kaseyavsa
+kaspersky
 katakana
 kb
 kbarticle
@@ -3546,7 +3584,6 @@ lan
 landingzones
 language
 languagedsc
-languageexperiencepack
 languagepack
 lansweeper
 laps
@@ -3620,6 +3657,7 @@ lights
 lime
 limesurvey
 limit-job
+limits
 lina
 line
 line-endings
@@ -3887,6 +3925,7 @@ mcafee
 mcas
 mcd
 mchapv2
+mct
 md5
 md5_v2-bec382e58a89ea94878fb65fed42770c
 mdatp
@@ -4155,6 +4194,7 @@ multi-platform
 multi-threading
 multi-zone
 multiboxing
+multicloud
 multidimenstional
 multimedia
 multios
@@ -4414,6 +4454,7 @@ obj
 object
 objectid
 objectstorage
+objecttree
 obs
 observeit
 oce
@@ -4449,6 +4490,7 @@ office365
 officedev
 officegraph
 officemessageencryption
+officertool
 offline
 offlinewimservicing
 ofx
@@ -4483,7 +4525,6 @@ oneidentity
 onelogin
 oneloginapi
 onenote
-onestools
 onesubscription
 onetimesecret
 oneviewglobaldashboard
@@ -4629,6 +4670,7 @@ pack
 package
 package-management
 package-manager
+package-transform
 packagemanagement
 packagemanager
 packages
@@ -4688,6 +4730,7 @@ passwordexpiration
 passwordexpiry
 passwordgeneration
 passwordgenerator
+passwordgenerators
 passwordhashing
 passwordlock
 passwordlockoutreport
@@ -4748,6 +4791,7 @@ permissions
 permutations
 persistence
 persistent
+personal
 personalisation
 personalization
 personalvault
@@ -5043,6 +5087,7 @@ pps
 ppt
 pptp
 pptx
+pq
 pranks
 predicate
 prediction
@@ -8210,6 +8255,7 @@ pxedistributionpoint
 pyenv
 pygmentize
 pylint
+pyranja
 python
 python-for-dotnet
 python3
@@ -8219,7 +8265,9 @@ qemu
 qlgc_fc_powerkit
 qlik
 qlik-api
+qlik-sense
 qlik-view
+qliksesne
 qlikview
 qlikview-cli
 qlogic
@@ -8228,10 +8276,12 @@ qlogicfcpowerkit
 qlogicfcprovider
 qna
 qol
+qq
 qr
 qrcode
 qrcodes
 qrp
+qrs
 quality
 qualys
 quandl
@@ -8811,7 +8861,6 @@ securitytxt
 sed
 seed
 seek
-seekatar
 seeshell
 select
 select-item
@@ -9021,6 +9070,8 @@ sitethumbprint
 size
 skatterbrainz
 skeleton-loader
+skia
+skiasharp
 skolnilogin
 sku
 skunklab
@@ -9079,6 +9130,7 @@ sni
 snipe-it
 snippet
 snippets
+snippets-manager
 snippit
 snmp
 snmpget
@@ -9112,6 +9164,7 @@ solarigate
 solarized
 solarwinds
 solr
+soltra
 solution
 solutions
 sonarcloud
@@ -9334,6 +9387,7 @@ storefront
 storeonce
 storeserv
 strava
+streak
 stream
 streamanalytics
 streaming
@@ -9353,6 +9407,7 @@ stripe
 strongname
 structure
 sts
+stt
 studio
 style
 su
@@ -9410,6 +9465,7 @@ svt
 swagger
 swamid
 swarm
+swedish
 swimlane
 swis
 switch
@@ -9537,7 +9593,6 @@ teamspolicy
 teamviewer
 techdirect
 techedna2014
-techlog
 technology
 techsmith
 tel
@@ -9579,6 +9634,7 @@ tesla
 test
 test-automation
 test-dscconfiguration
+test-internetconnection
 test-modulepath
 test-osplatform
 test-psremoting
@@ -9603,6 +9659,7 @@ testusers
 text
 text-to-image
 text-to-speach"
+text-to-speech
 text2image
 textanalysis
 textbuffer
@@ -9730,6 +9787,7 @@ transcode
 transcript
 transcripts
 transform
+transformation
 transforms
 transitionmanager
 translate
@@ -9786,6 +9844,7 @@ tst3
 tsv
 ttrpg
 tts
+tubedownloader
 tui
 tulpep
 tuner
@@ -9894,6 +9953,7 @@ ui7
 uk
 ul
 ulid
+ultimatetool
 um
 uml
 umn
@@ -9928,6 +9988,7 @@ universalarchive
 universaldashboard
 university
 unix
+unlinked
 unlock
 unprotect
 unsupported
@@ -10357,7 +10418,6 @@ windows-terminal
 windows-user-folder
 windows-user-profile
 windows10
-windows10mui
 windows11
 windows365
 windowsadmincenter
@@ -10379,6 +10439,7 @@ windowsinstaller
 windowsinternaldatabase
 windowsinternals
 windowsiotservices
+windowsiso
 windowsmanagementframework
 windowspackagemanager
 windowsplugins
@@ -10443,6 +10504,7 @@ woolworths
 woolworthsrewards
 word
 word-wrap
+wordcloud
 wordlist
 wordpress
 wordwrap
@@ -10540,6 +10602,7 @@ xclarity
 xdr
 xdschelper
 xdscresources
+xdt
 xenapp
 xendeskop
 xendesktop
@@ -10555,6 +10618,7 @@ xlsx
 xmc
 xml
 xml-rpc
+xml-transform
 xmla
 xmlrpc
 xmlutils
@@ -10596,10 +10660,12 @@ zabbixps
 zap
 zcat
 zendesk
+zerotrust
 zerto
 zigbee
 zip
 zip-compression
+zipfile-transform
 zisson
 zoho
 zone
