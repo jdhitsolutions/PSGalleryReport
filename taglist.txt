@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Friday, 22 December 2023 17:52:23 UTC
+Updated: Saturday, 23 December 2023 02:02:10 UTC
 
 .bat
 .env
@@ -334,8 +334,6 @@ anonymous
 anova
 ansi
 ansible
-ansible-control-node
-ansiblecontrolnode
 antimalwarescaninterface
 antispam
 antivirus
@@ -719,7 +717,6 @@ bamboo
 bamboohr
 bandwidth
 bank
-banking
 banner
 bar
 barcodes
@@ -743,6 +740,7 @@ bat
 batcat
 batch
 batchclass
+batman
 battery
 bayern
 bb
@@ -1216,7 +1214,6 @@ cmaccounts
 cmake
 cmakepresets.json
 cmbuild
-cmclibnet
 cmclustermaintenance
 cmd
 cmdb
@@ -1296,7 +1293,6 @@ commandlets
 commandline
 commands
 commandsandresource
-commence
 comment
 comments
 commerce
@@ -1406,6 +1402,7 @@ contentprep
 context
 continious-deploy
 continious-integration
+continiousintergration
 continous
 continuous
 continuous-delivery
@@ -1441,7 +1438,6 @@ converttohtml
 converttomarkdown
 converttomd
 cookie
-coolq
 cooltag1
 cooltag2
 coordinates
@@ -1454,6 +1450,7 @@ coreepower
 coreepower.common
 coreepower.config
 coreepower.lib
+coreepower.module
 coreepower.net
 coreepower.net.soundcloudexplode
 coreposh
@@ -1488,10 +1485,8 @@ cppm
 cpu
 cpuid
 cpuid-information
-cq
 cqd
 cqdpowershell
-cqhttp
 crack psmodule
 crash
 crawler
@@ -1526,6 +1521,7 @@ credman
 credmanager
 crescendo
 crescendobuilt
+cresendo
 crestron
 crime
 crlf
@@ -3714,6 +3710,7 @@ localconfigurationmanager
 localdb
 locale
 localgroup
+localgroupmember
 localization
 location
 locationbasedservices
@@ -4644,6 +4641,8 @@ otp
 ou
 ou-object
 oui-search
+oura
+ouraring
 out-consolegridview
 out-default
 out-gridview
@@ -4733,6 +4732,7 @@ passwordexpiration
 passwordexpiry
 passwordgeneration
 passwordgenerator
+passwordgenerators
 passwordhashing
 passwordlock
 passwordlockoutreport
@@ -4926,7 +4926,6 @@ posh-git
 posh-ribbon
 posh-ssh
 poshbot
-poshcommence
 poshevents
 poshgraph
 poshgraph-sdk
@@ -5201,7 +5200,6 @@ proxmox
 proxmoxve
 proxsys
 proxy
-proxyfunction
 proxyfunctions
 prtg
 prtg_network_monitor
@@ -8222,6 +8220,7 @@ pubxml
 pulldistributionpoint
 pullrequest
 pullserver
+pulseway
 pulumi
 punycode
 puppet
@@ -8277,7 +8276,6 @@ qlogicfcpowerkit
 qlogicfcprovider
 qna
 qol
-qq
 qr
 qrcode
 qrcodes
@@ -8462,6 +8460,7 @@ reminder
 remote
 remote-desktop
 remote'
+remoteadmin
 remotecert
 remoteconnection
 remoteconnectionsmanager
@@ -8474,6 +8473,7 @@ remotedesktopservices
 remotefiles
 remoteforensics
 remotehost
+remotelocalgroup
 remotelogoff
 remotemanagement
 remotesession
@@ -8582,10 +8582,10 @@ rightjoin
 rights
 rightsizing
 rightsmanagement
+ring
 ripe
 risk
 riskiq
-riskpro
 risksense
 rivermeadow
 rlan
@@ -8870,6 +8870,7 @@ selection
 selectxmlinfo
 selenium
 self
+self-hosted
 self-service
 self-signed
 selfdispatch
@@ -9162,7 +9163,6 @@ solarigate
 solarized
 solarwinds
 solr
-soltra
 solution
 solutions
 sonarcloud
@@ -9238,7 +9238,6 @@ sports-tracker
 spotify
 spotify-api
 spotlight
-spotlightimages
 spp
 spread
 spreadsheet
@@ -9322,7 +9321,10 @@ staging
 stale
 stan
 stanc
+standalone
 standard
+standarderror
+standardoutput
 stansummary
 start
 start-job
@@ -9350,6 +9352,7 @@ statusmonitor
 statusreportingcomponent
 staytus
 stderr
+stdio
 stdout
 steam
 steam-games
@@ -9379,6 +9382,7 @@ storedcredentials
 storefront
 storeonce
 storeserv
+strava
 streak
 stream
 streamanalytics
@@ -9777,8 +9781,6 @@ transact
 transaction
 transactions
 transcode
-transcript
-transcripts
 transform
 transformation
 transforms
@@ -9806,7 +9808,6 @@ trendmicro
 trevor
 trevorsullivan
 triangle
-tribeloo
 trick
 tricks
 trigger
@@ -9858,7 +9859,6 @@ twitter-follow
 twitter-hashtag
 twitter-mention
 twitter-share
-twitter-timeline
 twitter-tweet
 txt
 type
@@ -9876,7 +9876,6 @@ ubnt
 ubuntu
 ucs
 ucspowertool
-ud-avataaar
 ud-badgebutton
 ud-badgelink
 ud-breadcrumb
@@ -10215,7 +10214,6 @@ volume
 volumeshadowcopy
 volumio
 vorbis
-vovin
 vpas
 vpasmodule
 vpc

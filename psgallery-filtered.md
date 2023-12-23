@@ -3,6 +3,14 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [OuraRing](https://www.powershellgallery.com/Packages/OuraRing/1.0.0) | 1.0.0
+
+### Published: 12/22/2023 22:57:37 by daoradmin
+
+Powershell Module for Oura Ring
+
+__Downloads__: 0 | __Repository__: https://github.com/daoradmin/OuraRing
+
 ## [Kelverion.EasyVista](https://www.powershellgallery.com/Packages/Kelverion.EasyVista/1.4) | 1.4
 
 ### Published: 12/22/2023 17:18:03 by Kelverion Inc.
@@ -26,7 +34,7 @@ __Downloads__: 76 | __Repository__: https://enghouseinteractive.se/competella/
 
 The Devolutions.PowerShell module is a set of cmdlets that allow administrators to manage Remote Desktop Manager, Devolutions Server and Devolutions Hub Business using PowerShell. This module provides a simple and consistent interface for interacting with these products, making it easy to automate various tasks, such as creating and managing connections, sessions, and credentials, configuring security settings, and generating reports. The module can be easily integrated with other PowerShell modules, allowing administrators to automate tasks across multiple products and platforms, streamline their workflows and increase efficiency.
 
-__Downloads__: 9,101 | __Repository__: https://devolutions.net/
+__Downloads__: 9,104 | __Repository__: https://devolutions.net/
 
 ## [ObjectGraphTools](https://www.powershellgallery.com/Packages/ObjectGraphTools/0.0.8) | 0.0.8
 
@@ -146,7 +154,7 @@ __Downloads__: 2,594 | __Repository__: https://dev.ntsystems.de/ntsystems/nts-to
 
 The community module that enables SQL Server Pros to automate database development and server administration
 
-__Downloads__: 3,465,687 | __Repository__: https://dbatools.io/
+__Downloads__: 3,465,671 | __Repository__: https://dbatools.io/
 
 ## [IdnTools](https://www.powershellgallery.com/Packages/IdnTools/1.55) | 1.55
 
@@ -178,15 +186,7 @@ __Downloads__: 24 | __Repository__: https://gitlab.com/kamiyonanayo/pwsh-dotenv
 
 Provides ways to validate a ActiveDirectory environment
 
-__Downloads__: 1,197 | __Repository__: https://github.com/ActiveDirectoryStructure/ActiveDirectoryStructure
-
-## [M365PSProfile](https://www.powershellgallery.com/Packages/M365PSProfile/0.3.0) | 0.3.0
-
-### Published: 12/21/2023 13:44:45 by Andres Bohren Fabrice Reiser
-
-This PowerShell Module helps M365 Administrators to keep the needed PowerShell Modules up to date
-
-__Downloads__: 31 | __Repository__: https://github.com/fabrisodotps1/M365PSProfile
+__Downloads__: 1,198 | __Repository__: https://github.com/ActiveDirectoryStructure/ActiveDirectoryStructure
 
 ## [AzAPICallBeta](https://www.powershellgallery.com/Packages/AzAPICallBeta/1.2.0) | 1.2.0
 
@@ -218,7 +218,7 @@ __Downloads__: 612 | __Repository__: https://github.com/EvotecIT/Graphimo
 
 This is a light weight module designed to be used to generate automated documentation and custom fields in NinjaOne
 
-__Downloads__: 142 | __Repository__: 
+__Downloads__: 145 | __Repository__: 
 
 ## [Kelverion.SolarWinds.ServiceDesk](https://www.powershellgallery.com/Packages/Kelverion.SolarWinds.ServiceDesk/1.2) | 1.2
 
@@ -234,7 +234,7 @@ __Downloads__: 407 | __Repository__: https://www.kelverion.com/runbook-SolarWind
 
 Provides a set of functions to manage Win32 apps in Microsoft Endpoint Manager (Intune).
 
-__Downloads__: 156,804 | __Repository__: https://github.com/MSEndpointMgr/IntuneWin32App
+__Downloads__: 156,848 | __Repository__: https://github.com/MSEndpointMgr/IntuneWin32App
 
 ## [CopilotHelper](https://www.powershellgallery.com/Packages/CopilotHelper/1.0.0) | 1.0.0
 
@@ -319,7 +319,7 @@ __Downloads__: 58,120 | __Repository__: https://github.com/EvotecIT/Testimo
 
 Helper module for Active Directory with lots of useful functions that simplify supporting Active Directory.
 
-__Downloads__: 162,155 | __Repository__: https://github.com/EvotecIT/ADEssentials
+__Downloads__: 162,157 | __Repository__: https://github.com/EvotecIT/ADEssentials
 
 ## [Devolutions.Authenticode](https://www.powershellgallery.com/Packages/Devolutions.Authenticode/2023.12.20.0) | 2023.12.20.0
 
@@ -641,7 +641,7 @@ __Downloads__: 1,325 | __Repository__: http://www.cdata.com/powershell/
 
 CData Cmdlets for Google Sheets
 
-__Downloads__: 3,838 | __Repository__: http://www.cdata.com/powershell/
+__Downloads__: 3,839 | __Repository__: http://www.cdata.com/powershell/
 
 ## [LDAPCmdlets](https://www.powershellgallery.com/Packages/LDAPCmdlets/23.0.8750.1) | 23.0.8750.1
 
@@ -2011,4 +2011,4 @@ CData Cmdlets for ServiceNow
 
 __Downloads__: 2,700 | __Repository__: http://www.cdata.com/powershell/
 
-*Updated: Friday, 22 December 2023 17:52:13 UTC*
+*Updated: Saturday, 23 December 2023 02:02:00 UTC*

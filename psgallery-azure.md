@@ -235,7 +235,7 @@ __Downloads__: 23 | __Repository__:
 
 A PowerShell module that makes interfacing with Azure Pipelines a little easier
 
-__Downloads__: 36,225 | __Repository__: https://github.com/Dejulia489/AzurePipelinesPS
+__Downloads__: 36,224 | __Repository__: https://github.com/Dejulia489/AzurePipelinesPS
 
 ## [AzureDevOpsHousekeeping](https://www.powershellgallery.com/Packages/AzureDevOpsHousekeeping/1.0.0) | 1.0.0
 
@@ -291,7 +291,7 @@ __Downloads__: 1,525 | __Repository__: https://github.com/IgorHensch/Az.DevOps
 
 Module for Azure management used for Omnia.
 
-__Downloads__: 43,609 | __Repository__: 
+__Downloads__: 43,607 | __Repository__: 
 
 ## [AzureADExporter](https://www.powershellgallery.com/Packages/AzureADExporter/1.0.1156038) | 1.0.1156038
 
@@ -315,7 +315,7 @@ __Downloads__: 17 | __Repository__:
 
 Azure Stack Adminisitration Module
 
-__Downloads__: 175,804 | __Repository__: https://github.com/Azure/azurestack-powershell
+__Downloads__: 175,808 | __Repository__: https://github.com/Azure/azurestack-powershell
 
 ## [azure.synapse.tools](https://www.powershellgallery.com/Packages/azure.synapse.tools/0.22.0) | 0.22.0
 
@@ -333,7 +333,7 @@ Azure Active Directory V2 General Availability Module.
 This is the General Availability release of Azure Active Directory V2 PowerShell Module. 
 For detailed information on how to install and run this module from the PowerShell Gallery including prerequisites, please refer to https://docs.microsoft.com/en-us/powershell/scripting/gallery/overview
 
-__Downloads__: 32,508,670 | __Repository__: https://docs.microsoft.com/en-us/powershell/azuread/v2/azureactivedirectory
+__Downloads__: 32,508,570 | __Repository__: https://docs.microsoft.com/en-us/powershell/azuread/v2/azureactivedirectory
 
 ## [AzureADPreview](https://www.powershellgallery.com/Packages/AzureADPreview/2.0.2.183) | 2.0.2.183
 
@@ -343,7 +343,7 @@ Azure Active Directory V2 Preview Module.
 This is a Public Preview release of Azure Active Directory V2 PowerShell Module. 
 For detailed information on how to install and run this module from the PowerShell Gallery including prerequisites, please refer to https://docs.microsoft.com/en-us/powershell/scripting/gallery/overview
 
-__Downloads__: 5,389,138 | __Repository__: https://docs.microsoft.com/en-us/powershell/azuread/v2/azureactivedirectory
+__Downloads__: 5,389,195 | __Repository__: https://docs.microsoft.com/en-us/powershell/azuread/v2/azureactivedirectory
 
 ## [AzureADTenantID](https://www.powershellgallery.com/Packages/AzureADTenantID/1.0.1) | 1.0.1
 
@@ -474,7 +474,7 @@ __Downloads__: 10,147 | __Repository__: https://docs.microsoft.com/en-us/powersh
 
 A PowerShell module for Azure Function Apps running PowerShell to load configuration from defaults or environment variables.
 
-__Downloads__: 1,145 | __Repository__: 
+__Downloads__: 1,147 | __Repository__: 
 
 ## [Sampler.AzureDevOpsTasks](https://www.powershellgallery.com/Packages/Sampler.AzureDevOpsTasks/0.1.2) | 0.1.2
 
@@ -652,13 +652,13 @@ Module containing functions required to create YAML/JSON definitions for Azure N
 
 __Downloads__: 92 | __Repository__: 
 
-## [pspulumiyaml.azurenative.vmwarecloudsimple](https://www.powershellgallery.com/Packages/pspulumiyaml.azurenative.vmwarecloudsimple/0.0.4) | 0.0.4
+## [pspulumiyaml.azurenative.sql](https://www.powershellgallery.com/Packages/pspulumiyaml.azurenative.sql/0.0.4) | 0.0.4
 
 ### Published: 06/26/2022 02:10:00 by Worxspace
 
 Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
 
-__Downloads__: 128 | __Repository__: 
+__Downloads__: 98 | __Repository__: 
 
 ## [pspulumiyaml.azurenative.virtualmachineimages](https://www.powershellgallery.com/Packages/pspulumiyaml.azurenative.virtualmachineimages/0.0.4) | 0.0.4
 
@@ -668,13 +668,13 @@ Module containing functions required to create YAML/JSON definitions for Azure N
 
 __Downloads__: 95 | __Repository__: 
 
-## [pspulumiyaml.azurenative.sql](https://www.powershellgallery.com/Packages/pspulumiyaml.azurenative.sql/0.0.4) | 0.0.4
+## [pspulumiyaml.azurenative.vmwarecloudsimple](https://www.powershellgallery.com/Packages/pspulumiyaml.azurenative.vmwarecloudsimple/0.0.4) | 0.0.4
 
 ### Published: 06/26/2022 02:10:00 by Worxspace
 
 Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
 
-__Downloads__: 98 | __Repository__: 
+__Downloads__: 128 | __Repository__: 
 
 ## [pspulumiyaml.azurenative.windowsiot](https://www.powershellgallery.com/Packages/pspulumiyaml.azurenative.windowsiot/0.0.4) | 0.0.4
 
@@ -756,13 +756,13 @@ Module containing functions required to create YAML/JSON definitions for Azure N
 
 __Downloads__: 133 | __Repository__: 
 
-## [pspulumiyaml.azurenative.storagecache](https://www.powershellgallery.com/Packages/pspulumiyaml.azurenative.storagecache/0.0.4) | 0.0.4
+## [pspulumiyaml.azurenative.storagesync](https://www.powershellgallery.com/Packages/pspulumiyaml.azurenative.storagesync/0.0.4) | 0.0.4
 
-### Published: 06/26/2022 02:09:45 by Worxspace
+### Published: 06/26/2022 02:09:47 by Worxspace
 
 Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
 
-__Downloads__: 94 | __Repository__: 
+__Downloads__: 92 | __Repository__: 
 
 ## [pspulumiyaml.azurenative.sqlvirtualmachine](https://www.powershellgallery.com/Packages/pspulumiyaml.azurenative.sqlvirtualmachine/0.0.4) | 0.0.4
 
@@ -771,6 +771,14 @@ __Downloads__: 94 | __Repository__:
 Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
 
 __Downloads__: 97 | __Repository__: 
+
+## [pspulumiyaml.azurenative.storagecache](https://www.powershellgallery.com/Packages/pspulumiyaml.azurenative.storagecache/0.0.4) | 0.0.4
+
+### Published: 06/26/2022 02:09:45 by Worxspace
+
+Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
+
+__Downloads__: 94 | __Repository__: 
 
 ## [pspulumiyaml.azurenative.storsimple](https://www.powershellgallery.com/Packages/pspulumiyaml.azurenative.storsimple/0.0.4) | 0.0.4
 
@@ -812,14 +820,6 @@ Module containing functions required to create YAML/JSON definitions for Azure N
 
 __Downloads__: 94 | __Repository__: 
 
-## [pspulumiyaml.azurenative.servicelinker](https://www.powershellgallery.com/Packages/pspulumiyaml.azurenative.servicelinker/0.0.4) | 0.0.4
-
-### Published: 06/26/2022 02:09:18 by Worxspace
-
-Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
-
-__Downloads__: 95 | __Repository__: 
-
 ## [pspulumiyaml.azurenative.signalrservice](https://www.powershellgallery.com/Packages/pspulumiyaml.azurenative.signalrservice/0.0.4) | 0.0.4
 
 ### Published: 06/26/2022 02:09:18 by Worxspace
@@ -827,6 +827,14 @@ __Downloads__: 95 | __Repository__:
 Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
 
 __Downloads__: 480 | __Repository__: 
+
+## [pspulumiyaml.azurenative.servicelinker](https://www.powershellgallery.com/Packages/pspulumiyaml.azurenative.servicelinker/0.0.4) | 0.0.4
+
+### Published: 06/26/2022 02:09:18 by Worxspace
+
+Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
+
+__Downloads__: 95 | __Repository__: 
 
 ## [pspulumiyaml.azurenative.scvmm](https://www.powershellgallery.com/Packages/pspulumiyaml.azurenative.scvmm/0.0.4) | 0.0.4
 
@@ -996,6 +1004,22 @@ Module containing functions required to create YAML/JSON definitions for Azure N
 
 __Downloads__: 96 | __Repository__: 
 
+## [pspulumiyaml.azurenative.powerplatform](https://www.powershellgallery.com/Packages/pspulumiyaml.azurenative.powerplatform/0.0.4) | 0.0.4
+
+### Published: 06/26/2022 02:08:47 by Worxspace
+
+Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
+
+__Downloads__: 96 | __Repository__: 
+
+## [pspulumiyaml.azurenative.quantum](https://www.powershellgallery.com/Packages/pspulumiyaml.azurenative.quantum/0.0.4) | 0.0.4
+
+### Published: 06/26/2022 02:08:44 by Worxspace
+
+Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
+
+__Downloads__: 92 | __Repository__: 
+
 ## [pspulumiyaml.azurenative.providerhub](https://www.powershellgallery.com/Packages/pspulumiyaml.azurenative.providerhub/0.0.4) | 0.0.4
 
 ### Published: 06/26/2022 02:08:41 by Worxspace
@@ -1076,7 +1100,7 @@ Module containing functions required to create YAML/JSON definitions for Azure N
 
 __Downloads__: 97 | __Repository__: 
 
-## [pspulumiyaml.azurenative.network](https://www.powershellgallery.com/Packages/pspulumiyaml.azurenative.network/0.0.4) | 0.0.4
+## [pspulumiyaml.azurenative.networkfunction](https://www.powershellgallery.com/Packages/pspulumiyaml.azurenative.networkfunction/0.0.4) | 0.0.4
 
 ### Published: 06/26/2022 02:08:18 by Worxspace
 
@@ -1084,7 +1108,7 @@ Module containing functions required to create YAML/JSON definitions for Azure N
 
 __Downloads__: 99 | __Repository__: 
 
-## [pspulumiyaml.azurenative.networkfunction](https://www.powershellgallery.com/Packages/pspulumiyaml.azurenative.networkfunction/0.0.4) | 0.0.4
+## [pspulumiyaml.azurenative.network](https://www.powershellgallery.com/Packages/pspulumiyaml.azurenative.network/0.0.4) | 0.0.4
 
 ### Published: 06/26/2022 02:08:18 by Worxspace
 
@@ -1244,6 +1268,14 @@ Module containing functions required to create YAML/JSON definitions for Azure N
 
 __Downloads__: 93 | __Repository__: 
 
+## [pspulumiyaml.azurenative.logz](https://www.powershellgallery.com/Packages/pspulumiyaml.azurenative.logz/0.0.4) | 0.0.4
+
+### Published: 06/26/2022 02:06:53 by Worxspace
+
+Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
+
+__Downloads__: 92 | __Repository__: 
+
 ## [pspulumiyaml.azurenative.labservices](https://www.powershellgallery.com/Packages/pspulumiyaml.azurenative.labservices/0.0.4) | 0.0.4
 
 ### Published: 06/26/2022 02:06:52 by Worxspace
@@ -1388,14 +1420,6 @@ Module containing functions required to create YAML/JSON definitions for Azure N
 
 __Downloads__: 92 | __Repository__: 
 
-## [pspulumiyaml.azurenative.importexport](https://www.powershellgallery.com/Packages/pspulumiyaml.azurenative.importexport/0.0.4) | 0.0.4
-
-### Published: 06/26/2022 02:06:20 by Worxspace
-
-Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
-
-__Downloads__: 95 | __Repository__: 
-
 ## [pspulumiyaml.azurenative.hardwaresecuritymodules](https://www.powershellgallery.com/Packages/pspulumiyaml.azurenative.hardwaresecuritymodules/0.0.4) | 0.0.4
 
 ### Published: 06/26/2022 02:06:20 by Worxspace
@@ -1403,6 +1427,14 @@ __Downloads__: 95 | __Repository__:
 Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
 
 __Downloads__: 121 | __Repository__: 
+
+## [pspulumiyaml.azurenative.importexport](https://www.powershellgallery.com/Packages/pspulumiyaml.azurenative.importexport/0.0.4) | 0.0.4
+
+### Published: 06/26/2022 02:06:20 by Worxspace
+
+Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
+
+__Downloads__: 95 | __Repository__: 
 
 ## [pspulumiyaml.azurenative.healthbot](https://www.powershellgallery.com/Packages/pspulumiyaml.azurenative.healthbot/0.0.4) | 0.0.4
 
@@ -1524,6 +1556,14 @@ Module containing functions required to create YAML/JSON definitions for Azure N
 
 __Downloads__: 92 | __Repository__: 
 
+## [pspulumiyaml.azurenative.engagementfabric](https://www.powershellgallery.com/Packages/pspulumiyaml.azurenative.engagementfabric/0.0.4) | 0.0.4
+
+### Published: 06/26/2022 02:05:41 by Worxspace
+
+Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
+
+__Downloads__: 132 | __Repository__: 
+
 ## [pspulumiyaml.azurenative.devops](https://www.powershellgallery.com/Packages/pspulumiyaml.azurenative.devops/0.0.4) | 0.0.4
 
 ### Published: 06/26/2022 02:05:38 by Worxspace
@@ -1587,14 +1627,6 @@ __Downloads__: 83 | __Repository__:
 Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
 
 __Downloads__: 99 | __Repository__: 
-
-## [pspulumiyaml.azurenative.desktopvirtualization](https://www.powershellgallery.com/Packages/pspulumiyaml.azurenative.desktopvirtualization/0.0.4) | 0.0.4
-
-### Published: 06/26/2022 02:04:47 by Worxspace
-
-Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
-
-__Downloads__: 104 | __Repository__: 
 
 ## [pspulumiyaml.azurenative.delegatednetwork](https://www.powershellgallery.com/Packages/pspulumiyaml.azurenative.delegatednetwork/0.0.4) | 0.0.4
 
@@ -1740,14 +1772,6 @@ Module containing functions required to create YAML/JSON definitions for Azure N
 
 __Downloads__: 99 | __Repository__: 
 
-## [pspulumiyaml.azurenative.containerregistry](https://www.powershellgallery.com/Packages/pspulumiyaml.azurenative.containerregistry/0.0.4) | 0.0.4
-
-### Published: 06/26/2022 02:03:42 by Worxspace
-
-Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
-
-__Downloads__: 100 | __Repository__: 
-
 ## [pspulumiyaml.azurenative.dashboard](https://www.powershellgallery.com/Packages/pspulumiyaml.azurenative.dashboard/0.0.4) | 0.0.4
 
 ### Published: 06/26/2022 02:03:42 by Worxspace
@@ -1755,6 +1779,14 @@ __Downloads__: 100 | __Repository__:
 Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
 
 __Downloads__: 99 | __Repository__: 
+
+## [pspulumiyaml.azurenative.containerregistry](https://www.powershellgallery.com/Packages/pspulumiyaml.azurenative.containerregistry/0.0.4) | 0.0.4
+
+### Published: 06/26/2022 02:03:42 by Worxspace
+
+Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
+
+__Downloads__: 100 | __Repository__: 
 
 ## [pspulumiyaml.azurenative.costmanagement](https://www.powershellgallery.com/Packages/pspulumiyaml.azurenative.costmanagement/0.0.4) | 0.0.4
 
@@ -1780,14 +1812,6 @@ Module containing functions required to create YAML/JSON definitions for Azure N
 
 __Downloads__: 92 | __Repository__: 
 
-## [pspulumiyaml.azurenative.automation](https://www.powershellgallery.com/Packages/pspulumiyaml.azurenative.automation/0.0.4) | 0.0.4
-
-### Published: 06/26/2022 02:03:37 by Worxspace
-
-Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
-
-__Downloads__: 247 | __Repository__: 
-
 ## [pspulumiyaml.azurenative.changeanalysis](https://www.powershellgallery.com/Packages/pspulumiyaml.azurenative.changeanalysis/0.0.4) | 0.0.4
 
 ### Published: 06/26/2022 02:03:37 by Worxspace
@@ -1795,6 +1819,14 @@ __Downloads__: 247 | __Repository__:
 Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
 
 __Downloads__: 96 | __Repository__: 
+
+## [pspulumiyaml.azurenative.automation](https://www.powershellgallery.com/Packages/pspulumiyaml.azurenative.automation/0.0.4) | 0.0.4
+
+### Published: 06/26/2022 02:03:37 by Worxspace
+
+Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
+
+__Downloads__: 247 | __Repository__: 
 
 ## [pspulumiyaml.azurenative.blueprint](https://www.powershellgallery.com/Packages/pspulumiyaml.azurenative.blueprint/0.0.4) | 0.0.4
 
@@ -1828,14 +1860,6 @@ Module containing functions required to create YAML/JSON definitions for Azure N
 
 __Downloads__: 169 | __Repository__: 
 
-## [pspulumiyaml.azurenative.azurearcdata](https://www.powershellgallery.com/Packages/pspulumiyaml.azurenative.azurearcdata/0.0.4) | 0.0.4
-
-### Published: 06/26/2022 02:03:32 by Worxspace
-
-Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
-
-__Downloads__: 252 | __Repository__: 
-
 ## [pspulumiyaml.azurenative.batch](https://www.powershellgallery.com/Packages/pspulumiyaml.azurenative.batch/0.0.4) | 0.0.4
 
 ### Published: 06/26/2022 02:03:32 by Worxspace
@@ -1843,6 +1867,14 @@ __Downloads__: 252 | __Repository__:
 Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
 
 __Downloads__: 241 | __Repository__: 
+
+## [pspulumiyaml.azurenative.azurearcdata](https://www.powershellgallery.com/Packages/pspulumiyaml.azurenative.azurearcdata/0.0.4) | 0.0.4
+
+### Published: 06/26/2022 02:03:32 by Worxspace
+
+Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
+
+__Downloads__: 252 | __Repository__: 
 
 ## [pspulumiyaml.azurenative.agfoodplatform](https://www.powershellgallery.com/Packages/pspulumiyaml.azurenative.agfoodplatform/0.0.4) | 0.0.4
 
@@ -1884,14 +1916,6 @@ Module containing functions required to create YAML/JSON definitions for Azure N
 
 __Downloads__: 168 | __Repository__: 
 
-## [pspulumiyaml.azurenative.confidentialledger](https://www.powershellgallery.com/Packages/pspulumiyaml.azurenative.confidentialledger/0.0.4) | 0.0.4
-
-### Published: 06/26/2022 02:03:23 by Worxspace
-
-Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
-
-__Downloads__: 117 | __Repository__: 
-
 ## [pspulumiyaml.azurenative.containerinstance](https://www.powershellgallery.com/Packages/pspulumiyaml.azurenative.containerinstance/0.0.4) | 0.0.4
 
 ### Published: 06/26/2022 02:03:23 by Worxspace
@@ -1899,6 +1923,14 @@ __Downloads__: 117 | __Repository__:
 Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
 
 __Downloads__: 106 | __Repository__: 
+
+## [pspulumiyaml.azurenative.confidentialledger](https://www.powershellgallery.com/Packages/pspulumiyaml.azurenative.confidentialledger/0.0.4) | 0.0.4
+
+### Published: 06/26/2022 02:03:23 by Worxspace
+
+Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
+
+__Downloads__: 117 | __Repository__: 
 
 ## [pspulumiyaml.azurenative.azurestackhci](https://www.powershellgallery.com/Packages/pspulumiyaml.azurenative.azurestackhci/0.0.4) | 0.0.4
 
@@ -2004,36 +2036,4 @@ Module containing functions required to create YAML/JSON definitions for Azure N
 
 __Downloads__: 295 | __Repository__: 
 
-## [pspulumiyaml.azurenative.botservice](https://www.powershellgallery.com/Packages/pspulumiyaml.azurenative.botservice/0.0.4) | 0.0.4
-
-### Published: 06/26/2022 02:02:59 by Worxspace
-
-Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
-
-__Downloads__: 171 | __Repository__: 
-
-## [pspulumiyaml.azurenative.azuredata](https://www.powershellgallery.com/Packages/pspulumiyaml.azurenative.azuredata/0.0.4) | 0.0.4
-
-### Published: 06/26/2022 02:02:57 by Worxspace
-
-Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
-
-__Downloads__: 253 | __Repository__: 
-
-## [pspulumiyaml.azurenative.addons](https://www.powershellgallery.com/Packages/pspulumiyaml.azurenative.addons/0.0.4) | 0.0.4
-
-### Published: 06/26/2022 02:02:55 by Worxspace
-
-Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
-
-__Downloads__: 262 | __Repository__: 
-
-## [pspulumiyaml.azurenative.analysisservices](https://www.powershellgallery.com/Packages/pspulumiyaml.azurenative.analysisservices/0.0.4) | 0.0.4
-
-### Published: 06/26/2022 02:02:51 by Worxspace
-
-Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
-
-__Downloads__: 264 | __Repository__: 
-
-*Updated: Friday, 22 December 2023 17:52:15 UTC*
+*Updated: Saturday, 23 December 2023 02:02:02 UTC*
