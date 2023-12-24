@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Sunday, 24 December 2023 09:52:30 UTC
+Updated: Sunday, 24 December 2023 17:52:49 UTC
 
 .bat
 .env
@@ -37,7 +37,6 @@ Updated: Sunday, 24 December 2023 09:52:30 UTC
 2018
 2019
 21vianet
-24-bit
 2fa
 300
 365
@@ -324,7 +323,6 @@ anet
 anf
 anglesharp
 angular
-animate-svg
 animation
 animations
 annotated
@@ -368,6 +366,7 @@ apmsynthetics
 apmtraces
 aportal
 app
+app-control-for-business
 app-only
 app-v
 app-volumes
@@ -384,7 +383,9 @@ appinsights
 applayering
 apple
 application
+application-control
 application-transformer
+application-whitelisting
 applicationgateway
 applicationgrid
 applicationhost.config
@@ -934,6 +935,7 @@ bxor
 bydesign
 byexample
 bynarypsmodule
+byovd
 byte
 bytearray
 bzip2
@@ -1258,7 +1260,6 @@ cognitiveservice
 cognitiveservices
 cohesity
 coinmarketcap
-collaboration
 collatordso
 collatz
 collection
@@ -2115,7 +2116,6 @@ e-mail
 e1
 easy
 easy-to-use
-easylife365
 easyvista
 eaton
 ebay
@@ -2316,6 +2316,7 @@ evtx
 ews
 exact
 example
+examples
 excel
 exception
 exceptionless
@@ -3543,7 +3544,6 @@ kms
 knapsack
 knetps
 knob
-knowbe4
 knowledge
 knowledgebase
 koans
@@ -3621,8 +3621,12 @@ leafs
 league
 lean
 learn
+learn-powershell
+learn-powershell-series
 learning
+learning-powershell
 learningpowershell
+learnpowershell
 lease
 leftjoin
 legacy
@@ -4146,13 +4150,13 @@ msband
 msbi
 msbuild
 msdeploy
-msdn
 msdtc
 msedge
 msexcel
 msexchange
 msftnet
 msftnetworking
+msg
 msg.exe
 msgbox
 msgraph
@@ -4301,6 +4305,7 @@ network
 network adapter configuration operating os optical sensor physical pointing portable printer processor cpu refrigaration cooling cooler removable usb sd ram dimm scsi sound audio card enclosure tape temperature touchpad touch pad touchscreen screen trackball trackpoint video graphics voltage psmodule
 network-credentials
 network-info
+networkanalytics
 networkcloud
 networkcontroller
 networkdiscovery
@@ -4536,6 +4541,7 @@ online
 online-backup
 onlinebackup
 onprem
+onpremisesdatagatewayhamgmt
 onq
 ons
 ontap
@@ -4794,6 +4800,7 @@ permissions
 permutations
 persistence
 persistent
+personal
 personalisation
 personalization
 personalvault
@@ -4958,7 +4965,6 @@ poshy-wrap
 poshy-wrap-apt
 poshy-wrap-argcomplete
 poshy-wrap-brew
-poshy-wrap-curl
 poshy-wrap-dnf
 poshy-wrap-docker
 poshy-wrap-docker-compose
@@ -5035,8 +5041,10 @@ powershell-class
 powershell-cmdlets
 powershell-core
 powershell-core-releases-api
+powershell-course
 powershell-credentials
 powershell-dsc
+powershell-examples
 powershell-gallery
 powershell-github-repo
 powershell-gitlab
@@ -5049,6 +5057,7 @@ powershell-releases-api
 powershell-remoting
 powershell-terminal
 powershell-terminal-copilot
+powershell-training
 powershell.module.invokewinget
 powershell.one
 powershell.persistentpathstack
@@ -5057,6 +5066,8 @@ powershellai
 powershellazuresql
 powershellconferenceeurope
 powershellcore
+powershellcourse
+powershellexamples
 powershellfar
 powershellgallery
 powershellget
@@ -5068,6 +5079,7 @@ powershellmoduleupdate
 powershellpr0mpt
 powershellscript
 powershelltemplate
+powershelltraining
 powershelltypeaccelerators
 powershelluniversal
 powershellv5
@@ -5307,12 +5319,6 @@ pscommand_cd-
 pscommand_cd..
 pscommand_cd+
 pscommand_cdgr
-pscommand_cl
-pscommand_clb
-pscommand_clhead
-pscommand_clo
-pscommand_cloc
-pscommand_clocr
 pscommand_confirm-gitbisectcommitbad
 pscommand_confirm-gitbisectcommitgood
 pscommand_convertto-nixmode
@@ -5952,12 +5958,6 @@ pscommand_invoke-brewupgradeandcleanup
 pscommand_invoke-brewupgradecaskandcleanup
 pscommand_invoke-brewupgradeformula
 pscommand_invoke-brewupgradegreedyandcleanup
-pscommand_invoke-curlfollowingredirects
-pscommand_invoke-curlfollowingredirectsdownloadasnamed
-pscommand_invoke-curlfollowingredirectsdownloadasnamedcontinue
-pscommand_invoke-curlfollowingredirectsdownloadasnamedcontinueandretry
-pscommand_invoke-curlfollowingredirectsfetchbanner
-pscommand_invoke-curlonlyforgetresponseheaders
 pscommand_invoke-dnfcleanall
 pscommand_invoke-dnfgrouplist
 pscommand_invoke-dnfgrouppinstall
@@ -7370,12 +7370,6 @@ psfunction_invoke-brewupgradeandcleanup
 psfunction_invoke-brewupgradecaskandcleanup
 psfunction_invoke-brewupgradeformula
 psfunction_invoke-brewupgradegreedyandcleanup
-psfunction_invoke-curlfollowingredirects
-psfunction_invoke-curlfollowingredirectsdownloadasnamed
-psfunction_invoke-curlfollowingredirectsdownloadasnamedcontinue
-psfunction_invoke-curlfollowingredirectsdownloadasnamedcontinueandretry
-psfunction_invoke-curlfollowingredirectsfetchbanner
-psfunction_invoke-curlonlyforgetresponseheaders
 psfunction_invoke-dnfcleanall
 psfunction_invoke-dnfgrouplist
 psfunction_invoke-dnfgrouppinstall
@@ -8250,6 +8244,7 @@ pxedistributionpoint
 pyenv
 pygmentize
 pylint
+pyranja
 python
 python-for-dotnet
 python3
@@ -8702,7 +8697,6 @@ sapstartstopazure
 sarcasm
 sarif
 sas
-sat
 satirical
 save
 savedcreds
@@ -8835,7 +8829,6 @@ securescore
 securesphere
 securestring
 security
-security-awareness-training
 security-policy
 security-score
 security-txt
@@ -9124,7 +9117,6 @@ sni
 snipe-it
 snippet
 snippets
-snippets-manager
 snippit
 snmp
 snmpget
@@ -9381,6 +9373,7 @@ storefront
 storeonce
 storeserv
 strava
+streak
 stream
 streamanalytics
 streaming
@@ -9624,7 +9617,6 @@ terraform-switcher
 terraformcloud
 terrafun
 terragrunt
-tesla
 test
 test-automation
 test-dscconfiguration
@@ -9772,6 +9764,7 @@ trafficmanager
 trafficmarking
 train
 training
+training-course
 tram
 transact
 transaction
@@ -9806,6 +9799,7 @@ trendmicro
 trevor
 trevorsullivan
 triangle
+tribeloo
 trick
 tricks
 trigger
@@ -9928,6 +9922,7 @@ ud-trendline
 ud-typing
 ud-window
 ud-wordtree
+udcm
 udfeedback
 udp
 udpclient
@@ -10239,7 +10234,6 @@ vscode
 vsdevcmd
 vsdevshell
 vsenvironment
-vsm
 vso
 vsphere
 vsphere+
@@ -10296,6 +10290,7 @@ waykbastion
 wbem
 wcf
 wcry
+wdac
 wdapi
 wds
 weather
@@ -10394,6 +10389,7 @@ windows-10
 windows-api
 windows-control-panel
 windows-defender
+windows-defender-application-control
 windows-environment
 windows-explorer
 windows-features
