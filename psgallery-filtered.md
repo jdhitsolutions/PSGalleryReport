@@ -3,6 +3,38 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [ps12exe](https://www.powershellgallery.com/Packages/ps12exe/0.0.2) | 0.0.2
+
+### Published: 12/25/2023 04:50:02 by steve02081504
+
+better repo 2 compile pwsh scripts to exe
+
+__Downloads__: 0 | __Repository__: https://github.com/steve02081504/ps12exe
+
+## [TM-ProfileUtility](https://www.powershellgallery.com/Packages/TM-ProfileUtility/0.0.14) | 0.0.14
+
+### Published: 12/25/2023 04:37:17 by Taylor Marvin
+
+Provides various profile related utilty functionality.
+
+__Downloads__: 200 | __Repository__: https://gist.github.com/tsmarvin/fe2d09ed245e6951f77937febfe5bba9
+
+## [TM-GitUtility](https://www.powershellgallery.com/Packages/TM-GitUtility/0.0.8) | 0.0.8
+
+### Published: 12/25/2023 04:31:54 by Taylor Marvin
+
+Provides various git related utility functions.
+
+__Downloads__: 222 | __Repository__: https://gist.github.com/tsmarvin/835fb35a18d3d7c9d2e09455bcd2c04e
+
+## [TM-WindowsUtility](https://www.powershellgallery.com/Packages/TM-WindowsUtility/0.0.9) | 0.0.9
+
+### Published: 12/25/2023 04:28:49 by Taylor Marvin
+
+Provides a set of utility functions that run on windows.
+
+__Downloads__: 106 | __Repository__: https://gist.github.com/tsmarvin/3e9c1a092214fd8269cbe4c2170d49a6
+
 ## [PsAsbUtils](https://www.powershellgallery.com/Packages/PsAsbUtils/0.1.5) | 0.1.5
 
 ### Published: 12/24/2023 21:29:15 by Vasily Larionov
@@ -65,7 +97,7 @@ __Downloads__: 155 | __Repository__: https://github.com/techthoughts2/pwshPlaces
 
 ProjectWise PowerShell Cmdlets from System Architecture Group
 
-__Downloads__: 82,913 | __Repository__: 
+__Downloads__: 82,912 | __Repository__: 
 
 ## [OuraRing](https://www.powershellgallery.com/Packages/OuraRing/1.0.0) | 1.0.0
 
@@ -218,7 +250,7 @@ __Downloads__: 2,607 | __Repository__: https://dev.ntsystems.de/ntsystems/nts-to
 
 The community module that enables SQL Server Pros to automate database development and server administration
 
-__Downloads__: 3,473,335 | __Repository__: https://dbatools.io/
+__Downloads__: 3,472,856 | __Repository__: https://dbatools.io/
 
 ## [IdnTools](https://www.powershellgallery.com/Packages/IdnTools/1.55) | 1.55
 
@@ -274,7 +306,7 @@ __Downloads__: 9 | __Repository__: https://aka.ms/AzAPICall
 
 The PowerShell AI module integrates with the OpenAI API and let's you easily access the GPT models for text completion, image generation and more.
 
-__Downloads__: 16,923 | __Repository__: https://github.com/dfinke/PowerShellAI
+__Downloads__: 16,917 | __Repository__: https://github.com/dfinke/PowerShellAI
 
 ## [Graphimo](https://www.powershellgallery.com/Packages/Graphimo/0.1.2) | 0.1.2
 
@@ -283,14 +315,6 @@ __Downloads__: 16,923 | __Repository__: https://github.com/dfinke/PowerShellAI
 Module that helps managing some tasks on Office 365/Azure with Microsoft Graph
 
 __Downloads__: 614 | __Repository__: https://github.com/EvotecIT/Graphimo
-
-## [NinjaOneDocs](https://www.powershellgallery.com/Packages/NinjaOneDocs/1.6) | 1.6
-
-### Published: 12/21/2023 11:31:45 by Luke Whitelock
-
-This is a light weight module designed to be used to generate automated documentation and custom fields in NinjaOne
-
-__Downloads__: 215 | __Repository__: 
 
 ## [Kelverion.SolarWinds.ServiceDesk](https://www.powershellgallery.com/Packages/Kelverion.SolarWinds.ServiceDesk/1.2) | 1.2
 
@@ -335,7 +359,7 @@ Supported file formats: EXE, DLL, PowerShell, MSI, CAB, AppX, MSIX, nupkg, Offic
 
 You can also use SignPath.io to sign your PowerShell scripts.
 
-__Downloads__: 115,875 | __Repository__: https://signpath.io/
+__Downloads__: 115,874 | __Repository__: https://signpath.io/
 
 ## [poshy-coreutils-ish](https://www.powershellgallery.com/Packages/poshy-coreutils-ish/0.6.0) | 0.6.0
 
@@ -417,7 +441,7 @@ The DSInternals PowerShell Module exposes several internal features of Active Di
 
 DISCLAIMER: Features exposed through this module are not supported by Microsoft and it is therefore not intended to be used in production environments. Improper use might cause irreversible damage to domain controllers or negatively impact domain security.
 
-__Downloads__: 2,646,819 | __Repository__: https://github.com/MichaelGrafnetter/DSInternals
+__Downloads__: 2,646,201 | __Repository__: https://github.com/MichaelGrafnetter/DSInternals
 
 ## [AsBuiltReport.VMware.Horizon](https://www.powershellgallery.com/Packages/AsBuiltReport.VMware.Horizon/1.1.0) | 1.1.0
 
@@ -713,7 +737,7 @@ __Downloads__: 1,328 | __Repository__: http://www.cdata.com/powershell/
 
 CData Cmdlets for Google Sheets
 
-__Downloads__: 3,842 | __Repository__: http://www.cdata.com/powershell/
+__Downloads__: 3,845 | __Repository__: http://www.cdata.com/powershell/
 
 ## [LDAPCmdlets](https://www.powershellgallery.com/Packages/LDAPCmdlets/23.0.8750.1) | 23.0.8750.1
 
@@ -1451,14 +1475,6 @@ CData Cmdlets for SAP SuccessFactors
 
 __Downloads__: 450 | __Repository__: http://www.cdata.com/powershell/
 
-## [SageBCAccountingCmdlets](https://www.powershellgallery.com/Packages/SageBCAccountingCmdlets/23.0.8749.1) | 23.0.8749.1
-
-### Published: 12/20/2023 16:23:32 by CData Software Inc.
-
-CData Cmdlets for Sage Business Cloud Accounting
-
-__Downloads__: 279 | __Repository__: http://www.cdata.com/powershell/
-
 ## [ZendeskCmdlets](https://www.powershellgallery.com/Packages/ZendeskCmdlets/23.0.8750.1) | 23.0.8750.1
 
 ### Published: 12/20/2023 16:23:22 by CData Software Inc.
@@ -1633,7 +1649,7 @@ __Downloads__: 689 | __Repository__: http://www.cdata.com/powershell/
 
 CData Cmdlets for FTP
 
-__Downloads__: 1,941 | __Repository__: http://www.cdata.com/powershell/
+__Downloads__: 1,942 | __Repository__: http://www.cdata.com/powershell/
 
 ## [GoogleDirectoryCmdlets](https://www.powershellgallery.com/Packages/GoogleDirectoryCmdlets/23.0.8749.1) | 23.0.8749.1
 
@@ -1995,20 +2011,4 @@ CData Cmdlets for Couchbase
 
 __Downloads__: 1,045 | __Repository__: http://www.cdata.com/powershell/
 
-## [AzureADCmdlets](https://www.powershellgallery.com/Packages/AzureADCmdlets/23.0.8750.1) | 23.0.8750.1
-
-### Published: 12/20/2023 16:13:22 by CData Software Inc.
-
-CData Cmdlets for Azure Active Directory
-
-__Downloads__: 232 | __Repository__: http://www.cdata.com/powershell/
-
-## [ExchangeCmdlets](https://www.powershellgallery.com/Packages/ExchangeCmdlets/23.0.8750.1) | 23.0.8750.1
-
-### Published: 12/20/2023 16:13:13 by CData Software Inc.
-
-CData Cmdlets for Microsoft Exchange
-
-__Downloads__: 3,379 | __Repository__: http://www.cdata.com/powershell/
-
-*Updated: Monday, 25 December 2023 02:05:40 UTC*
+*Updated: Monday, 25 December 2023 09:52:30 UTC*

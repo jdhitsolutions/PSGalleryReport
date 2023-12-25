@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 25 December 2023 02:05:50 UTC
+Updated: Monday, 25 December 2023 09:52:40 UTC
 
 .bat
 .env
@@ -91,7 +91,6 @@ accord
 accord.net
 accordian
 account
-accounting
 accounts
 ace
 ack
@@ -189,7 +188,6 @@ administrativeuser
 administrator
 admintools
 adml
-admpwd
 admx
 ado
 ado_security
@@ -227,8 +225,6 @@ afd
 affinity
 affinity-co
 affinity-crm
-after-effects
-aftereffects
 agenda
 agent
 aggregates
@@ -465,6 +461,7 @@ asbuiltreport
 asc
 ascii
 ascii85
+asciiart
 asdatabase
 asigra
 asjob
@@ -1061,6 +1058,7 @@ chatbot
 chatgpt
 chatops
 chatroom
+chatter
 cheat
 check
 checker
@@ -1104,10 +1102,8 @@ cif
 cifv3
 cil
 cim
-cim_computersystem
 cimfs
 cimi
-ciminstance
 cims
 cimsession
 cinema
@@ -1260,6 +1256,7 @@ cognitiveservice
 cognitiveservices
 cohesity
 coinmarketcap
+collaboration
 collatordso
 collatz
 collection
@@ -1447,12 +1444,10 @@ cooltag2
 coordinates
 copilot
 copy
-copy-item
 copyright
 core
 coreepower
 coreepower.common
-coreepower.config
 coreepower.lib
 coreepower.module
 coreepower.net
@@ -1527,6 +1522,7 @@ credman
 credmanager
 crescendo
 crescendobuilt
+cresendo
 crestron
 crime
 crlf
@@ -1611,6 +1607,7 @@ cyberark-api
 cyberark-identity
 cyberdrain
 cybereason
+cybersamurai
 cybersecurity
 cyberwatch
 cyclic
@@ -1649,7 +1646,6 @@ data-tier
 data-uri
 data-uri-converter
 database
-database-migrations
 databaseautomation
 databasemanagement
 databasemigration
@@ -2114,6 +2110,7 @@ e-mail
 e1
 easy
 easy-to-use
+easylife365
 easyvista
 eaton
 ebay
@@ -2305,7 +2302,6 @@ eventviewer
 eventwatch
 evergreen
 evernote
-everydaypowershell
 everydayrewards
 everything
 evolutionary-algorithms
@@ -2368,7 +2364,6 @@ explorer
 exponentiation
 export
 export-cmhealthreport
-export-data
 export-passlist
 exportcertificate
 exportcertificates
@@ -2382,7 +2377,6 @@ extendedattributes
 extendedevents
 extendedproperties
 extendedproperty
-extendscript
 extensibility
 extension
 extensionmethods
@@ -2449,7 +2443,6 @@ fifa
 figlet
 file
 file-association
-file-copy
 file-encoding
 file-extension
 file-extension-association
@@ -2655,14 +2648,12 @@ funny
 fusion
 fusionapps
 fuzzy
-fyi
 fzf
 gac
 gainz
 gainz-chocolateysync
 gainz-keepass
 gainz-sqldb
-gal
 gallery
 game
 gamecategory:cards
@@ -2883,7 +2874,6 @@ guardicore
 gubbins
 guest
 guestconfiguration
-guests
 gui
 gui.cs
 guid
@@ -3696,7 +3686,6 @@ listener
 litecoin
 litedb
 literature
-live
 lldp
 lmhost
 lmhosts
@@ -4047,7 +4036,6 @@ middleware
 midserver
 migrate
 migration
-migration-tool
 migrations
 milestone
 mim
@@ -4062,7 +4050,6 @@ minimal
 minimum
 mip
 mipsdk
-miration-step
 mirror
 miscellaneous
 mitigation
@@ -4233,10 +4220,10 @@ myob
 myposh
 mypstag
 mysql
-mysql-database
 mytest
 n-able
 n-central
+nabu
 nac
 nagios
 name
@@ -4288,6 +4275,7 @@ netcease
 netcore
 netfirewallrule
 netherlands
+netmap
 netmask
 nets
 netsapiens
@@ -4347,6 +4335,7 @@ nexthink
 nexus
 nexusiq
 nfsv3
+ngen
 ngfw
 nginx
 nhl
@@ -4594,7 +4583,6 @@ optimization
 optimizer
 option
 option119
-options
 optionstring
 opus
 oracle
@@ -4872,7 +4860,6 @@ plex
 plist
 plog
 plot
-plug-n-copy
 plugin
 plugins
 pluralsight
@@ -5197,6 +5184,9 @@ provision
 provisioning
 provisioningpackage
 provisonedpackage
+prowl
+prowl-notifications
+prowlapp
 proxmox
 proxmoxve
 proxsys
@@ -5211,6 +5201,7 @@ ps-completions
 ps-ncentral
 ps.credentialmanager
 ps1
+ps12exe
 ps1xml
 ps1xmlgen
 ps2dll
@@ -5227,7 +5218,6 @@ psadt
 psake
 psappdeploytoolkit
 psat
-psazd
 psbackup
 psbbix
 psbicep
@@ -8153,6 +8143,7 @@ psmssqlmodule
 psmvp
 psnavigation
 psnexosisclient
+psngenposh
 psobject
 psoutlog
 pspath
@@ -8221,6 +8212,7 @@ pubxml
 pulldistributionpoint
 pullrequest
 pullserver
+pulseway
 pulumi
 punycode
 puppet
@@ -8234,9 +8226,9 @@ purple
 purview
 push
 push-location
+push-notifications
 pushd
 pushover
-pushoverapi
 putty
 pve
 pvr
@@ -8264,9 +8256,7 @@ qemu
 qlgc_fc_powerkit
 qlik
 qlik-api
-qlik-sense
 qlik-view
-qliksesne
 qlikview
 qlikview-cli
 qlogic
@@ -8280,7 +8270,6 @@ qr
 qrcode
 qrcodes
 qrp
-qrs
 quality
 qualys
 quandl
@@ -8549,6 +8538,7 @@ restore
 resume
 retail
 retention
+retro
 retry
 returnuserprofile
 retype
@@ -8674,7 +8664,6 @@ saas
 sabnzbd
 sabnzbd+
 sacl
-safari
 safe
 safeguard
 sage
@@ -9179,6 +9168,7 @@ soonr
 soonragent
 sophos
 sort
+sorting
 source
 source-dedicated-server
 sourcecontrol
@@ -9244,8 +9234,6 @@ spring
 spring-boot
 springcloud
 sql
-sql-database
-sql-script
 sql-server
 sqlagent
 sqlautomation
@@ -9367,8 +9355,6 @@ stingar
 stock
 stockcharts
 stocks
-stoicism
-stoics
 stop
 storablecolortheme
 storage
@@ -9484,6 +9470,7 @@ syndication
 synergy
 syntax
 syntax-highlighting
+syntaxcheck
 syntaxhighlighter
 synthesis
 synthetics
@@ -9669,7 +9656,6 @@ tfs
 tfscmdlets
 tfsec
 tfswitch
-tftd
 tftp
 tfvars
 tfvc
@@ -9682,7 +9668,6 @@ thinprint
 third-party-libraries
 third-party-notice
 thispc
-thoughtfortheday
 thousandeyes
 thread
 threading
@@ -9911,7 +9896,6 @@ ud-orgchart
 ud-piechart3d
 ud-pivottable
 ud-progressstepbar
-ud-rangeslider
 ud-readingbar
 ud-scrollspy
 ud-selectdatetime
@@ -9919,7 +9903,6 @@ ud-selector
 ud-signature
 ud-simpledrawer
 ud-singleselect
-ud-slider
 ud-speechbubble
 ud-step
 ud-stepbar
@@ -10046,7 +10029,6 @@ userrightsassignment
 users
 userworkstations
 usg
-usps
 utc
 utf-8
 utf-sig
@@ -10119,6 +10101,7 @@ venafi
 vencord
 vendor
 venue
+venvlink
 vera
 veracrypt
 verbose psmodule
@@ -10244,6 +10227,7 @@ vscode
 vsdevcmd
 vsdevshell
 vsenvironment
+vsm
 vso
 vsphere
 vsphere+
@@ -10252,7 +10236,6 @@ vssetup
 vsshell
 vst
 vsteambuilder
-vsteams
 vstest
 vsts
 vsts-cli
@@ -10481,7 +10464,6 @@ wiscmail
 wisco365
 wisconsin-madison
 wisconsin'uw-madison
-wisdom
 with
 wizard
 wkhtmltopdf
