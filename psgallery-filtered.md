@@ -3,6 +3,22 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [PsAsbUtils](https://www.powershellgallery.com/Packages/PsAsbUtils/0.1.5) | 0.1.5
+
+### Published: 12/24/2023 21:29:15 by Vasily Larionov
+
+The module is able to receive, send and peek Azure Service Bus messages. Dead letters are supported. It is useful with frameworks like NServiceBus when you need to resubmit a message from an error queue
+
+__Downloads__: 26 | __Repository__: https://github.com/vlariono/PSAsbUtils
+
+## [DockerColorPosh](https://www.powershellgallery.com/Packages/DockerColorPosh/0.0.2) | 0.0.2
+
+### Published: 12/24/2023 21:08:03 by IsWladi
+
+Colorful Docker outputs for enhanced readability.
+
+__Downloads__: 4 | __Repository__: https://github.com/IsWladi/DockerColorPosh
+
 ## [PsChat](https://www.powershellgallery.com/Packages/PsChat/0.0.60) | 0.0.60
 
 ### Published: 12/24/2023 17:05:54 by boeegh
@@ -49,7 +65,7 @@ __Downloads__: 155 | __Repository__: https://github.com/techthoughts2/pwshPlaces
 
 ProjectWise PowerShell Cmdlets from System Architecture Group
 
-__Downloads__: 82,922 | __Repository__: 
+__Downloads__: 82,913 | __Repository__: 
 
 ## [OuraRing](https://www.powershellgallery.com/Packages/OuraRing/1.0.0) | 1.0.0
 
@@ -258,7 +274,7 @@ __Downloads__: 9 | __Repository__: https://aka.ms/AzAPICall
 
 The PowerShell AI module integrates with the OpenAI API and let's you easily access the GPT models for text completion, image generation and more.
 
-__Downloads__: 16,917 | __Repository__: https://github.com/dfinke/PowerShellAI
+__Downloads__: 16,923 | __Repository__: https://github.com/dfinke/PowerShellAI
 
 ## [Graphimo](https://www.powershellgallery.com/Packages/Graphimo/0.1.2) | 0.1.2
 
@@ -274,7 +290,7 @@ __Downloads__: 614 | __Repository__: https://github.com/EvotecIT/Graphimo
 
 This is a light weight module designed to be used to generate automated documentation and custom fields in NinjaOne
 
-__Downloads__: 216 | __Repository__: 
+__Downloads__: 215 | __Repository__: 
 
 ## [Kelverion.SolarWinds.ServiceDesk](https://www.powershellgallery.com/Packages/Kelverion.SolarWinds.ServiceDesk/1.2) | 1.2
 
@@ -290,7 +306,7 @@ __Downloads__: 408 | __Repository__: https://www.kelverion.com/runbook-SolarWind
 
 Provides a set of functions to manage Win32 apps in Microsoft Endpoint Manager (Intune).
 
-__Downloads__: 170,196 | __Repository__: https://github.com/MSEndpointMgr/IntuneWin32App
+__Downloads__: 170,151 | __Repository__: https://github.com/MSEndpointMgr/IntuneWin32App
 
 ## [CopilotHelper](https://www.powershellgallery.com/Packages/CopilotHelper/1.0.0) | 1.0.0
 
@@ -375,7 +391,7 @@ __Downloads__: 58,148 | __Repository__: https://github.com/EvotecIT/Testimo
 
 Helper module for Active Directory with lots of useful functions that simplify supporting Active Directory.
 
-__Downloads__: 162,234 | __Repository__: https://github.com/EvotecIT/ADEssentials
+__Downloads__: 162,233 | __Repository__: https://github.com/EvotecIT/ADEssentials
 
 ## [Devolutions.Authenticode](https://www.powershellgallery.com/Packages/Devolutions.Authenticode/2023.12.20.0) | 2023.12.20.0
 
@@ -401,7 +417,7 @@ The DSInternals PowerShell Module exposes several internal features of Active Di
 
 DISCLAIMER: Features exposed through this module are not supported by Microsoft and it is therefore not intended to be used in production environments. Improper use might cause irreversible damage to domain controllers or negatively impact domain security.
 
-__Downloads__: 2,646,224 | __Repository__: https://github.com/MichaelGrafnetter/DSInternals
+__Downloads__: 2,646,819 | __Repository__: https://github.com/MichaelGrafnetter/DSInternals
 
 ## [AsBuiltReport.VMware.Horizon](https://www.powershellgallery.com/Packages/AsBuiltReport.VMware.Horizon/1.1.0) | 1.1.0
 
@@ -1995,20 +2011,4 @@ CData Cmdlets for Microsoft Exchange
 
 __Downloads__: 3,379 | __Repository__: http://www.cdata.com/powershell/
 
-## [ActiveDirectoryCmdlets](https://www.powershellgallery.com/Packages/ActiveDirectoryCmdlets/23.0.8749.1) | 23.0.8749.1
-
-### Published: 12/20/2023 16:13:01 by CData Software Inc.
-
-CData Cmdlets for Microsoft Active Directory
-
-__Downloads__: 12,041 | __Repository__: http://www.cdata.com/powershell/
-
-## [AzureTablesCmdlets](https://www.powershellgallery.com/Packages/AzureTablesCmdlets/23.0.8750.1) | 23.0.8750.1
-
-### Published: 12/20/2023 16:12:47 by CData Software Inc.
-
-CData Cmdlets for Azure Table Storage
-
-__Downloads__: 1,289 | __Repository__: http://www.cdata.com/powershell/
-
-*Updated: Sunday, 24 December 2023 17:52:39 UTC*
+*Updated: Monday, 25 December 2023 02:05:40 UTC*

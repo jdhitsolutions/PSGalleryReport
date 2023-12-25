@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Sunday, 24 December 2023 17:52:49 UTC
+Updated: Monday, 25 December 2023 02:05:50 UTC
 
 .bat
 .env
@@ -37,6 +37,7 @@ Updated: Sunday, 24 December 2023 17:52:49 UTC
 2018
 2019
 21vianet
+24-bit
 2fa
 300
 365
@@ -323,6 +324,7 @@ anet
 anf
 anglesharp
 angular
+animate-svg
 animation
 animations
 annotated
@@ -463,7 +465,6 @@ asbuiltreport
 asc
 ascii
 ascii85
-asciiart
 asdatabase
 asigra
 asjob
@@ -1060,7 +1061,6 @@ chatbot
 chatgpt
 chatops
 chatroom
-chatter
 cheat
 check
 checker
@@ -1527,7 +1527,6 @@ credman
 credmanager
 crescendo
 crescendobuilt
-cresendo
 crestron
 crime
 crlf
@@ -1612,7 +1611,6 @@ cyberark-api
 cyberark-identity
 cyberdrain
 cybereason
-cybersamurai
 cybersecurity
 cyberwatch
 cyclic
@@ -3544,6 +3542,7 @@ kms
 knapsack
 knetps
 knob
+knowbe4
 knowledge
 knowledgebase
 koans
@@ -3964,7 +3963,6 @@ meetup.com
 meewind
 megabyte
 melamed
-meltdown
 mem
 member
 members
@@ -4150,6 +4148,7 @@ msband
 msbi
 msbuild
 msdeploy
+msdn
 msdtc
 msedge
 msexcel
@@ -4238,7 +4237,6 @@ mysql-database
 mytest
 n-able
 n-central
-nabu
 nac
 nagios
 name
@@ -4290,7 +4288,6 @@ netcease
 netcore
 netfirewallrule
 netherlands
-netmap
 netmask
 nets
 netsapiens
@@ -4350,7 +4347,6 @@ nexthink
 nexus
 nexusiq
 nfsv3
-ngen
 ngfw
 nginx
 nhl
@@ -4965,6 +4961,7 @@ poshy-wrap
 poshy-wrap-apt
 poshy-wrap-argcomplete
 poshy-wrap-brew
+poshy-wrap-curl
 poshy-wrap-dnf
 poshy-wrap-docker
 poshy-wrap-docker-compose
@@ -5200,9 +5197,6 @@ provision
 provisioning
 provisioningpackage
 provisonedpackage
-prowl
-prowl-notifications
-prowlapp
 proxmox
 proxmoxve
 proxsys
@@ -5319,6 +5313,12 @@ pscommand_cd-
 pscommand_cd..
 pscommand_cd+
 pscommand_cdgr
+pscommand_cl
+pscommand_clb
+pscommand_clhead
+pscommand_clo
+pscommand_cloc
+pscommand_clocr
 pscommand_confirm-gitbisectcommitbad
 pscommand_confirm-gitbisectcommitgood
 pscommand_convertto-nixmode
@@ -5958,6 +5958,12 @@ pscommand_invoke-brewupgradeandcleanup
 pscommand_invoke-brewupgradecaskandcleanup
 pscommand_invoke-brewupgradeformula
 pscommand_invoke-brewupgradegreedyandcleanup
+pscommand_invoke-curlfollowingredirects
+pscommand_invoke-curlfollowingredirectsdownloadasnamed
+pscommand_invoke-curlfollowingredirectsdownloadasnamedcontinue
+pscommand_invoke-curlfollowingredirectsdownloadasnamedcontinueandretry
+pscommand_invoke-curlfollowingredirectsfetchbanner
+pscommand_invoke-curlonlyforgetresponseheaders
 pscommand_invoke-dnfcleanall
 pscommand_invoke-dnfgrouplist
 pscommand_invoke-dnfgrouppinstall
@@ -7370,6 +7376,12 @@ psfunction_invoke-brewupgradeandcleanup
 psfunction_invoke-brewupgradecaskandcleanup
 psfunction_invoke-brewupgradeformula
 psfunction_invoke-brewupgradegreedyandcleanup
+psfunction_invoke-curlfollowingredirects
+psfunction_invoke-curlfollowingredirectsdownloadasnamed
+psfunction_invoke-curlfollowingredirectsdownloadasnamedcontinue
+psfunction_invoke-curlfollowingredirectsdownloadasnamedcontinueandretry
+psfunction_invoke-curlfollowingredirectsfetchbanner
+psfunction_invoke-curlonlyforgetresponseheaders
 psfunction_invoke-dnfcleanall
 psfunction_invoke-dnfgrouplist
 psfunction_invoke-dnfgrouppinstall
@@ -8141,7 +8153,6 @@ psmssqlmodule
 psmvp
 psnavigation
 psnexosisclient
-psngenposh
 psobject
 psoutlog
 pspath
@@ -8223,7 +8234,6 @@ purple
 purview
 push
 push-location
-push-notifications
 pushd
 pushover
 pushoverapi
@@ -8539,7 +8549,6 @@ restore
 resume
 retail
 retention
-retro
 retry
 returnuserprofile
 retype
@@ -8687,6 +8696,7 @@ saml2
 sample
 sampler
 san
+sand
 sandbox
 sanitization
 sanitizer
@@ -8697,6 +8707,7 @@ sapstartstopazure
 sarcasm
 sarif
 sas
+sat
 satirical
 save
 savedcreds
@@ -8829,6 +8840,7 @@ securescore
 securesphere
 securestring
 security
+security-awareness-training
 security-policy
 security-score
 security-txt
@@ -9117,6 +9129,7 @@ sni
 snipe-it
 snippet
 snippets
+snippets-manager
 snippit
 snmp
 snmpget
@@ -9166,7 +9179,6 @@ soonr
 soonragent
 sophos
 sort
-sorting
 source
 source-dedicated-server
 sourcecontrol
@@ -9199,8 +9211,6 @@ specify
 spectre
 spectrumconnect
 spectrumcontrolbase
-speculation
-speculationcontrol
 speech
 speed
 speedometer
@@ -9474,7 +9484,6 @@ syndication
 synergy
 syntax
 syntax-highlighting
-syntaxcheck
 syntaxhighlighter
 synthesis
 synthetics
@@ -9617,6 +9626,7 @@ terraform-switcher
 terraformcloud
 terrafun
 terragrunt
+tesla
 test
 test-automation
 test-dscconfiguration
@@ -9847,6 +9857,7 @@ twitter
 twitter-api
 twitter-api-v2
 twitter-client
+twitter-follow
 twitter-hashtag
 twitter-mention
 twitter-share
@@ -10108,7 +10119,6 @@ venafi
 vencord
 vendor
 venue
-venvlink
 vera
 veracrypt
 verbose psmodule
