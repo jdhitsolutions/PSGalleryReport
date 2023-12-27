@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Wednesday, 27 December 2023 02:03:50 UTC
+Updated: Wednesday, 27 December 2023 09:52:26 UTC
 
 .bat
 .env
@@ -421,6 +421,7 @@ apteco
 aptitude
 aql
 arangodb
+arc
 arcade
 arcgis
 arch
@@ -436,8 +437,10 @@ archlinux
 arcresourcebridge
 arcus
 area
+arg
 argcomplete
 argument
+argumentcompleter
 arguments
 arm
 arm-json
@@ -631,8 +634,10 @@ azuead
 azure
 azure_ad
 azure_security
+azure-adx
 azure-backup
 azure-cli
+azure-data-explorer
 azure-devops
 azure-forensics
 azure-functions
@@ -889,6 +894,7 @@ broadcom
 broot
 brownserve-uk
 browser
+browserextension
 browserhistory
 browsing
 brs
@@ -1302,6 +1308,7 @@ common
 common-data-service
 commonareaphone
 commondataservice
+commonmark
 communication
 community
 compare
@@ -1339,7 +1346,6 @@ concurrent
 conda
 condition
 conditionalaccess
-conduit
 conference
 confidentialclient
 confidentialledger
@@ -1438,8 +1444,6 @@ converttomarkdown
 converttomd
 cookie
 coolq
-cooltag1
-cooltag2
 coordinates
 copilot
 copy
@@ -1506,6 +1510,7 @@ creationworkflowsimplification
 creator
 cred
 credential
+credential-dialog
 credential-file
 credential-files
 credential-manager
@@ -1766,6 +1771,7 @@ delegated
 delegationmodel
 delete
 delete-orphan-branches
+deleteuserprofile
 delivery
 dell
 dellemc
@@ -1901,6 +1907,7 @@ displayresolution
 distance
 distinguishedname
 distributed-systems
+distributed-tracing
 distributedcache
 distributedfilesystem
 distribution
@@ -2099,6 +2106,7 @@ dynamics365fo
 dynamics365sales
 dynamics365server
 dynamicsax
+dynamicsecuritygroups
 dynamicsnav
 dynamodb
 dynatrace
@@ -2381,11 +2389,11 @@ extendscript
 extensibility
 extension
 extensionmethods
+extensionrisk
 extensions
 external
 externalip
 extract
-extraction
 extractor
 extreme-networks
 eztheme
@@ -2403,7 +2411,6 @@ failedlogin
 failure
 falcon
 fallbackstatuspoint
-fanarttv
 fancy
 faq
 farm
@@ -2544,6 +2551,7 @@ flatten
 fleetsoftwareupdate
 flex
 flex-query
+flexdesk
 flickr
 flowchart
 flowy
@@ -2795,6 +2803,7 @@ gmsa
 gnucash
 gnuwin32
 go
+gobright
 godaddy
 golang
 goldengate
@@ -2924,7 +2933,6 @@ hardlink
 hardmatch
 hardware
 harperdb
-hartokens
 harvest
 harvestforecast
 hash
@@ -3024,7 +3032,6 @@ hls
 hockey
 hol
 holiday
-home
 home_automation
 homebrew
 homelandsecurity
@@ -3187,6 +3194,7 @@ imagebuilder
 imagecreate
 imagecreation
 imagegeneration
+imageoftheday
 imageprocess
 imageprocessing
 images
@@ -3199,7 +3207,6 @@ imagination
 imaging
 imap
 imb
-imei
 imi
 impala
 impersonation
@@ -3394,6 +3401,7 @@ isvalidip
 it
 it-support
 it-tool
+it-tools
 italic-text
 item
 itemlist
@@ -3494,6 +3502,7 @@ kb
 kbarticle
 kdbx
 kdialog
+keenetic
 keepachangelog
 keepass
 keepasslib
@@ -3531,6 +3540,7 @@ kms
 knapsack
 knetps
 knob
+knowbe4
 knowledge
 knowledgebase
 koans
@@ -3684,6 +3694,7 @@ listener
 litecoin
 litedb
 literature
+live
 lldp
 lmhost
 lmhosts
@@ -4207,6 +4218,7 @@ mutation
 mute
 mutex
 mva
+mvn
 mvp
 mx
 mxlookup
@@ -4291,6 +4303,7 @@ network
 network adapter configuration operating os optical sensor physical pointing portable printer processor cpu refrigaration cooling cooler removable usb sd ram dimm scsi sound audio card enclosure tape temperature touchpad touch pad touchscreen screen trackball trackpoint video graphics voltage psmodule
 network-credentials
 network-info
+networkanalytics
 networkcloud
 networkcontroller
 networkdiscovery
@@ -4370,8 +4383,6 @@ nord
 nordtools
 normal
 norskale
-norway
-norwegian
 nosql
 note
 notebook
@@ -4428,7 +4439,6 @@ nvd
 nvdimm
 nvdimm-n
 nvm
-nvm-window
 nxt
 nyse
 nzb
@@ -4628,6 +4638,7 @@ osuborganizationsubscription
 osubsubscription
 osubusage
 osx
+otel
 otp
 ou
 ou-object
@@ -4796,7 +4807,6 @@ pfsense
 pfx
 pfy
 pgp
-phabricator
 philips
 philosophical
 philpritchett
@@ -4890,7 +4900,6 @@ poll
 polly
 polycom
 pomodoro
-ponduit
 pool
 poop
 pop
@@ -4977,7 +4986,6 @@ poshy-wrap-ruby
 poshy-wrap-systemctl
 poshy-wrap-terraform
 poshy-wrap-terragrunt
-poshy-wrap-tmux
 poshy-wrap-vagrant
 poshy-wrap-vault
 poshy-wrap-vscode
@@ -6384,13 +6392,6 @@ pscommand_invoke-terragruntplan
 pscommand_invoke-terragruntplanall
 pscommand_invoke-terragruntvalidate
 pscommand_invoke-terragruntvalidateall
-pscommand_invoke-tmuxattachforterminal
-pscommand_invoke-tmuxattachforterminaldetachingothers
-pscommand_invoke-tmuxeditconfig
-pscommand_invoke-tmuxkillserver
-pscommand_invoke-tmuxkillsessionforterminal
-pscommand_invoke-tmuxlistsessions
-pscommand_invoke-tmuxnewsessionfromsource
 pscommand_invoke-vagrantdestroy
 pscommand_invoke-vagranthalt
 pscommand_invoke-vagranthostmanager
@@ -6832,8 +6833,6 @@ pscommand_syspip
 pscommand_syspip_package_location
 pscommand_syspip3
 pscommand_syspip3_package_location
-pscommand_ta
-pscommand_tad
 pscommand_test-command
 pscommand_test-d
 pscommand_test-elevation
@@ -6861,14 +6860,6 @@ pscommand_tgp
 pscommand_tgpa
 pscommand_tgv
 pscommand_tgva
-pscommand_tkss
-pscommand_tksv
-pscommand_tl
-pscommand_tmuxconf
-pscommand_ts
-pscommand_txa
-pscommand_txl
-pscommand_txn
 pscommand_universalarchive
 pscommand_update-gitbranchbasefrombranchmain
 pscommand_update-gitbranchbasefrommain
@@ -7802,13 +7793,6 @@ psfunction_invoke-terragruntplan
 psfunction_invoke-terragruntplanall
 psfunction_invoke-terragruntvalidate
 psfunction_invoke-terragruntvalidateall
-psfunction_invoke-tmuxattachforterminal
-psfunction_invoke-tmuxattachforterminaldetachingothers
-psfunction_invoke-tmuxeditconfig
-psfunction_invoke-tmuxkillserver
-psfunction_invoke-tmuxkillsessionforterminal
-psfunction_invoke-tmuxlistsessions
-psfunction_invoke-tmuxnewsessionfromsource
 psfunction_invoke-vagrantdestroy
 psfunction_invoke-vagranthalt
 psfunction_invoke-vagranthostmanager
@@ -8525,6 +8509,7 @@ resource_monitor
 resource_watcher
 resourceaccount
 resourcecontroller
+resourcegraph
 resourcegroup
 resourceid
 resourcekit
@@ -8545,6 +8530,7 @@ retail
 retention
 retro
 retry
+returnuserprofile
 retype
 reuse
 reverse-engineer
@@ -8701,6 +8687,7 @@ sapstartstopazure
 sarcasm
 sarif
 sas
+sat
 satirical
 save
 savedcreds
@@ -8833,6 +8820,7 @@ securescore
 securesphere
 securestring
 security
+security-awareness-training
 security-policy
 security-score
 security-txt
@@ -8958,7 +8946,6 @@ setting
 settings
 setup
 sevenzip
-sf
 sfb
 sftp
 sfx
@@ -8974,7 +8961,7 @@ shacrypt
 shadow
 shadowcopy
 shadowcopybackups
-shanghaitech
+shadowgroups
 shard
 share
 share-permission
@@ -9316,6 +9303,8 @@ stan
 stanc
 standalone
 standard
+standarderror
+standardoutput
 stansummary
 start
 start-job
@@ -9344,6 +9333,7 @@ statusmonitor
 statusreportingcomponent
 staytus
 stderr
+stdio
 stdout
 steam
 steam-games
@@ -9435,6 +9425,7 @@ superheros
 supermarket
 support
 support-tool
+support-tools
 suppress
 supress-reboot
 surround
@@ -9480,6 +9471,7 @@ synthesis
 synthetics
 sysadmin
 sysadmin-tool
+sysadmin-tools
 sysctr
 sysinfo
 sysinfocmdlets
@@ -9506,6 +9498,7 @@ systemcolors
 systemctl
 systemdiscovery
 systeminfo
+systeminformation
 systemlocale
 systems
 systemsplash
@@ -9518,6 +9511,7 @@ tab-completion
 tab-expansion
 tabcompletion
 tabexpansion
+tabexpansion2
 tablacus
 table
 tableau
@@ -9538,6 +9532,7 @@ tags
 tak
 taken
 takeown
+tally
 talxis
 tanss
 tanzu
@@ -9560,6 +9555,7 @@ tcpip
 tcpport
 tcprjmgmt
 tcpserver
+tcptest
 tcx
 tcxaemgmt
 tdd
@@ -9709,7 +9705,6 @@ tls12
 tlsa
 tlsprotocol
 tlsrpt
-tmux
 to-do
 toast
 toasts
@@ -9749,6 +9744,7 @@ tr064
 trace
 traceevent
 tracer
+tracert
 tracing
 tracker
 tracking
@@ -9922,6 +9918,7 @@ udcm
 udfeedback
 udp
 udpclient
+udptest
 udr
 udthememode
 udword
@@ -10030,6 +10027,7 @@ userrightsassignment
 users
 userworkstations
 usg
+usps
 utc
 utf-8
 utf-sig
@@ -10046,6 +10044,7 @@ uudecode
 uuencode
 uuid
 uup
+uw
 uwp
 ux
 vadim
@@ -10105,7 +10104,6 @@ venvlink
 vera
 veracrypt
 verbose psmodule
-verification
 verify
 version
 versioning
@@ -10327,6 +10325,7 @@ websockets
 websphere
 websphereappserver
 websphereportal
+webtest
 webtesting
 webtime
 wec
@@ -10392,6 +10391,8 @@ windows-registry
 windows-remoting
 windows-server-2016
 windows-terminal
+windows-user-folder
+windows-user-profile
 windows10
 windows10mui
 windows11
@@ -10452,11 +10453,15 @@ wins
 winsat
 winscp
 wintellect
-winterminal
 winui
 wireless
 wirelessnetwork
 wireshark
+wisc
+wiscmail
+wisco365
+wisconsin-madison
+wisconsin'uw-madison
 wisdom
 with
 wizard
