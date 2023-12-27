@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Wednesday, 27 December 2023 09:52:26 UTC
+Updated: Wednesday, 27 December 2023 17:52:48 UTC
 
 .bat
 .env
@@ -418,7 +418,6 @@ apt
 apt-get
 apt-get-update
 apteco
-aptitude
 aql
 arangodb
 arc
@@ -648,7 +647,6 @@ azureactivedirectory
 azuread
 azureadbackupandrestore
 azureadconnect
-azureadgraph
 azureadtoolkit
 azureappconfiguration
 azureas
@@ -1305,7 +1303,6 @@ commfort
 commit
 commits
 common
-common-data-service
 commonareaphone
 commondataservice
 commonmark
@@ -1346,6 +1343,7 @@ concurrent
 conda
 condition
 conditionalaccess
+conduit
 conference
 confidentialclient
 confidentialledger
@@ -1444,6 +1442,8 @@ converttomarkdown
 converttomd
 cookie
 coolq
+cooltag1
+cooltag2
 coordinates
 copilot
 copy
@@ -1814,7 +1814,6 @@ devdeer
 developer
 developer_command_prompt
 developercommandprompt
-developermode
 development
 devenv
 devexpress
@@ -1919,7 +1918,6 @@ distrubtionpoint
 dividends
 diving
 division
-divoom
 dkim
 dkschrutebeets
 dl
@@ -2180,7 +2178,6 @@ emissions
 emoji
 emotion
 empire
-empty
 emwarehouse
 enable
 enable-internet
@@ -2210,7 +2207,6 @@ enteo
 enter
 enterprise
 enterprise-scale
-enterprisedb
 enterprisemanager
 enterprisevoice
 entity
@@ -2400,8 +2396,6 @@ eztheme
 f
 f#
 f5
-fabric
-fabtools
 facebook
 factoryorchestrator
 factoryorchestratorclient
@@ -2411,6 +2405,7 @@ failedlogin
 failure
 falcon
 fallbackstatuspoint
+fanarttv
 fancy
 faq
 farm
@@ -2731,7 +2726,6 @@ get-dtdriverpack
 get-dtdriverupdates
 get-dtscriptnewcmpackagefromdriverpackpackagedefinitionsms
 get-dtscriptnewcmtasksequencefromdriverpackpackagedefinitionsms
-get-emptyadgroups
 get-externalip
 get-firmwaretype
 get-help
@@ -2747,8 +2741,6 @@ get-pinneditem
 get-samcmassignedsite
 get-samcmcurrentmanagementpoint
 get-samplingperiod
-get-stalecomps
-get-staleusers
 get-thermalstamp
 get-uptime
 getfirmwareenvironmentvariable
@@ -3032,6 +3024,7 @@ hls
 hockey
 hol
 holiday
+home
 home_automation
 homebrew
 homelandsecurity
@@ -3207,6 +3200,7 @@ imagination
 imaging
 imap
 imb
+imei
 imi
 impala
 impersonation
@@ -3502,7 +3496,6 @@ kb
 kbarticle
 kdbx
 kdialog
-keenetic
 keepachangelog
 keepass
 keepasslib
@@ -3582,7 +3575,6 @@ labworker
 lake
 lambda
 lame
-lametrictime
 lamp
 lan
 landingzones
@@ -3597,9 +3589,7 @@ laserbeams
 last
 last.fm
 lastfm
-lastlogon
 lastpass
-latency
 latestupdate
 latin
 latitude
@@ -3825,7 +3815,6 @@ macmon
 macos
 macosx
 macro
-macros
 madlib
 magazine
 magento
@@ -3920,7 +3909,6 @@ maven
 max
 max_path
 maximum
-maxoffice
 mazerat
 mb
 mbc
@@ -4029,7 +4017,6 @@ microsoftdefenderatp
 microsoftdeploymenttoolkit
 microsoftendpointmanager
 microsoftexchangeserver
-microsoftfabric
 microsoftgraph
 microsoftgraphapi
 microsoftgraphrestapi
@@ -4097,7 +4084,6 @@ moduleupdater
 moduleversion
 mof
 moldova
-moment
 monaco
 monday
 mondoo
@@ -4160,7 +4146,6 @@ msgbox
 msgraph
 msgraphapi
 msgraphreport
-msgraphtokenlifetimepolicy
 msi
 msi psmodule
 msiexec
@@ -4209,7 +4194,6 @@ multiserver
 multistring
 multithread
 multithreaded
-multithreaded-helpers
 multithreading
 music
 musiccast
@@ -4249,7 +4233,6 @@ namespace
 naming
 nana
 nano
-nanoleaf
 nartac
 nasdaq
 native
@@ -4383,6 +4366,8 @@ nord
 nordtools
 normal
 norskale
+norway
+norwegian
 nosql
 note
 notebook
@@ -4439,6 +4424,7 @@ nvd
 nvdimm
 nvdimm-n
 nvm
+nvm-window
 nxt
 nyse
 nzb
@@ -4761,7 +4747,6 @@ paylocity
 paypal
 pays
 pbench
-pbip
 pc
 pcapng
 pci-dss
@@ -4807,6 +4792,7 @@ pfsense
 pfx
 pfy
 pgp
+phabricator
 philips
 philosophical
 philpritchett
@@ -4836,7 +4822,6 @@ pinvoke
 pip
 pip3
 pipe
-pipedrive
 pipeline
 pipelinelastexecution
 pipelines
@@ -4846,7 +4831,6 @@ piraeus
 pivot
 pivotal
 pivottable
-pixoo
 pki
 pki psmodule
 pks
@@ -4900,6 +4884,7 @@ poll
 polly
 polycom
 pomodoro
+ponduit
 pool
 poop
 pop
@@ -4955,7 +4940,6 @@ poshy-sh-isms
 poshy-sshconfig
 poshy-viewer-finder
 poshy-wrap
-poshy-wrap-apt
 poshy-wrap-argcomplete
 poshy-wrap-brew
 poshy-wrap-curl
@@ -4974,7 +4958,6 @@ poshy-wrap-golang
 poshy-wrap-helm
 poshy-wrap-kubectl
 poshy-wrap-maven
-poshy-wrap-nginx
 poshy-wrap-nmap
 poshy-wrap-npm
 poshy-wrap-pip
@@ -5250,10 +5233,6 @@ pscommand_6
 pscommand_7
 pscommand_8
 pscommand_9
-pscommand_aar
-pscommand_acp
-pscommand_acse
-pscommand_acsp
 pscommand_add_ssh
 pscommand_add-envpathitem
 pscommand_add-envvarpathitem
@@ -5267,16 +5246,7 @@ pscommand_add-gittrackedfiles
 pscommand_add-gittrackedfilesall
 pscommand_add-gittrackedfilesinteractively
 pscommand_add-gittrackedfilesverbosely
-pscommand_afs
-pscommand_age
-pscommand_agli
-pscommand_aglu
-pscommand_allpkgs
-pscommand_app
-pscommand_apt-history
-pscommand_apt-list-packages
 pscommand_arch
-pscommand_asrc
 pscommand_basename
 pscommand_bcubc
 pscommand_bcubo
@@ -5649,7 +5619,6 @@ pscommand_geli
 pscommand_geo
 pscommand_geoe
 pscommand_get
-pscommand_get-aptinstalledpackages
 pscommand_get-childitemcolorfully
 pscommand_get-childitemcolorfullycramped
 pscommand_get-childitemcolorfullyrevealingly
@@ -5939,14 +5908,6 @@ pscommand_hin
 pscommand_hostname
 pscommand_hse
 pscommand_hup
-pscommand_invoke-aptcachepolicy
-pscommand_invoke-aptcachesearch
-pscommand_invoke-aptcacheshowpkg
-pscommand_invoke-aptfilesearchbyregex
-pscommand_invoke-aptgetsource
-pscommand_invoke-aptlistinstalled
-pscommand_invoke-aptlistupgradable
-pscommand_invoke-aptpreferred
 pscommand_invoke-brewlistpinned
 pscommand_invoke-brewpin
 pscommand_invoke-brewuninstallzap
@@ -6557,7 +6518,6 @@ pscommand_keno
 pscommand_kens
 pscommand_kep
 pscommand_kepvc
-pscommand_kerndeb
 pscommand_kers
 pscommand_kes
 pscommand_kess
@@ -6654,10 +6614,6 @@ pscommand_new-isofile
 pscommand_new-viewerinvocationfunction
 pscommand_new-windowsterminalpane
 pscommand_new-windowsterminaltab
-pscommand_nginx_reload
-pscommand_nginx_restart
-pscommand_nginx_start
-pscommand_nginx_stop
 pscommand_nmap_check_for_firewall
 pscommand_nmap_check_for_vulns
 pscommand_nmap_detect_versions
@@ -7061,7 +7017,6 @@ psfive9
 psfive9admin
 psfoldersize
 psfunction__python3
-psfunction_aar
 psfunction_add_ssh
 psfunction_add-envpathitem
 psfunction_add-envvarpathitem
@@ -7075,8 +7030,6 @@ psfunction_add-gittrackedfiles
 psfunction_add-gittrackedfilesall
 psfunction_add-gittrackedfilesinteractively
 psfunction_add-gittrackedfilesverbosely
-psfunction_apt-history
-psfunction_apt-list-packages
 psfunction_arch
 psfunction_basename
 psfunction_bgblack
@@ -7240,7 +7193,6 @@ psfunction_format-batcatstyle
 psfunction_format-lesstermcapenv
 psfunction_format-viewerinvocationsh
 psfunction_gdv
-psfunction_get-aptinstalledpackages
 psfunction_get-childitemcolorfully
 psfunction_get-childitemcolorfullycramped
 psfunction_get-childitemcolorfullyrevealingly
@@ -7340,14 +7292,6 @@ psfunction_gitignore-reload
 psfunction_gittowork
 psfunction_gplfs
 psfunction_hostname
-psfunction_invoke-aptcachepolicy
-psfunction_invoke-aptcachesearch
-psfunction_invoke-aptcacheshowpkg
-psfunction_invoke-aptfilesearchbyregex
-psfunction_invoke-aptgetsource
-psfunction_invoke-aptlistinstalled
-psfunction_invoke-aptlistupgradable
-psfunction_invoke-aptpreferred
 psfunction_invoke-brewlistpinned
 psfunction_invoke-brewpin
 psfunction_invoke-brewuninstallzap
@@ -7894,7 +7838,6 @@ psfunction_invoke-zypperversioncompare
 psfunction_invoke-zypperwhatprovides
 psfunction_invokeyumgrouplist
 psfunction_jump
-psfunction_kerndeb
 psfunction_kres
 psfunction_local-ignore
 psfunction_measure-envvarchanges
@@ -7909,10 +7852,6 @@ psfunction_new-isofile
 psfunction_new-viewerinvocationfunction
 psfunction_new-windowsterminalpane
 psfunction_new-windowsterminaltab
-psfunction_nginx_reload
-psfunction_nginx_restart
-psfunction_nginx_start
-psfunction_nginx_stop
 psfunction_nmap_check_for_firewall
 psfunction_nmap_check_for_vulns
 psfunction_nmap_detect_versions
@@ -8148,7 +8087,6 @@ psreadexif
 psreadline
 psremoting
 psrepository
-psresourceget
 psrule
 psrule-rules
 pssa
@@ -8671,7 +8609,6 @@ saltstackconfig
 saltstackenterprise
 sam
 saml
-saml psmodule
 saml2
 sample
 sampler
@@ -8946,6 +8883,7 @@ setting
 settings
 setup
 sevenzip
+sf
 sfb
 sftp
 sfx
@@ -8962,6 +8900,7 @@ shadow
 shadowcopy
 shadowcopybackups
 shadowgroups
+shanghaitech
 shard
 share
 share-permission
@@ -9000,7 +8939,6 @@ show
 show-command
 show-objecttree
 show-on-command
-showdemo
 showoncommand
 shred
 shuf
@@ -9157,7 +9095,6 @@ soonr
 soonragent
 sophos
 sort
-sorting
 source
 source-dedicated-server
 sourcecontrol
@@ -9465,7 +9402,6 @@ syndication
 synergy
 syntax
 syntax-highlighting
-syntaxcheck
 syntaxhighlighter
 synthesis
 synthetics
@@ -9715,7 +9651,6 @@ todo.txt
 toggl
 toggle
 token
-tokenlifetime
 tokens
 toml
 tookit
@@ -9736,7 +9671,6 @@ torrents
 toshiba
 totp
 touch
-toughswitch
 tphubps
 tpm
 tr-064
@@ -9832,7 +9766,6 @@ tweet
 twig
 twilio
 twincat
-twinkly
 twitch
 twitter
 twitter-api
@@ -10104,6 +10037,7 @@ venvlink
 vera
 veracrypt
 verbose psmodule
+verification
 verify
 version
 versioning
@@ -10145,7 +10079,6 @@ virtualnetworking
 virtualportgroup
 virtualrtu
 virtualterminal
-virus
 virustotal
 visio
 visual
@@ -10273,7 +10206,6 @@ warraty
 warrenty
 wasabi
 watch
-watchdog
 watchmen
 watery
 wave
@@ -10453,6 +10385,7 @@ wins
 winsat
 winscp
 wintellect
+winterminal
 winui
 wireless
 wirelessnetwork
