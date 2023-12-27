@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Tuesday, 26 December 2023 17:52:29 UTC
+Updated: Wednesday, 27 December 2023 02:03:50 UTC
 
 .bat
 .env
@@ -91,6 +91,7 @@ accord
 accord.net
 accordian
 account
+accounting
 accounts
 ace
 ack
@@ -233,6 +234,7 @@ agent
 aggregates
 aggregation
 agile
+agility
 agm
 agnoster
 ai
@@ -312,6 +314,7 @@ analyst
 analyth
 analytics
 analyticsrules
+analyze
 analyzer
 analyzerrules
 anchor
@@ -418,7 +421,6 @@ apteco
 aptitude
 aql
 arangodb
-arc
 arcade
 arcgis
 arch
@@ -434,10 +436,8 @@ archlinux
 arcresourcebridge
 arcus
 area
-arg
 argcomplete
 argument
-argumentcompleter
 arguments
 arm
 arm-json
@@ -597,6 +597,7 @@ aws-vault
 aws.tools.powershell
 awscli
 awspricelist
+axapta
 axinom
 axis
 axium
@@ -630,10 +631,8 @@ azuead
 azure
 azure_ad
 azure_security
-azure-adx
 azure-backup
 azure-cli
-azure-data-explorer
 azure-devops
 azure-forensics
 azure-functions
@@ -890,7 +889,6 @@ broadcom
 broot
 brownserve-uk
 browser
-browserextension
 browserhistory
 browsing
 brs
@@ -947,6 +945,7 @@ calc
 calculate
 calculator
 calendar
+callingcode
 callqueue
 calvin-and-hobbes
 cam
@@ -1017,6 +1016,7 @@ censor
 center
 centra
 central
+central-management
 centralcredentialprovider
 centrastage
 centreon
@@ -1251,6 +1251,7 @@ codes
 codesign
 codesigning
 codex
+coercion
 cognitiveservice
 cognitiveservices
 cohesity
@@ -1301,7 +1302,6 @@ common
 common-data-service
 commonareaphone
 commondataservice
-commonmark
 communication
 community
 compare
@@ -1447,6 +1447,7 @@ copy-item
 copyright
 core
 coreepower
+coreepower.common
 coreepower.config
 coreepower.lib
 coreepower.module
@@ -1471,6 +1472,8 @@ count-loc
 countdown
 counter
 countries
+country
+countrycode
 cover
 coverage
 coveralls
@@ -1503,7 +1506,6 @@ creationworkflowsimplification
 creator
 cred
 credential
-credential-dialog
 credential-file
 credential-files
 credential-manager
@@ -1613,6 +1615,7 @@ cyclicredundancycheck
 cygwin
 cylance
 cypher
+cyrillic
 d365
 d365ce
 d365fo
@@ -1730,6 +1733,7 @@ debugger
 debugging
 decimal
 decimalip
+decimalzero
 declarative
 decline
 decode
@@ -1762,7 +1766,6 @@ delegated
 delegationmodel
 delete
 delete-orphan-branches
-deleteuserprofile
 delivery
 dell
 dellemc
@@ -1869,6 +1872,7 @@ disa
 disable
 disable-internet
 disable-psremoting
+disablefilesyncngsc
 disablestartbutton
 disablestartkey
 disasm
@@ -1897,7 +1901,6 @@ displayresolution
 distance
 distinguishedname
 distributed-systems
-distributed-tracing
 distributedcache
 distributedfilesystem
 distribution
@@ -1936,6 +1939,7 @@ dnsclient
 dnsdumpster
 dnsentry
 dnsimple
+dnslookup
 dnsmadeeasy
 dnsoverhttps
 dnsrecord
@@ -2094,11 +2098,12 @@ dynamics365ce
 dynamics365fo
 dynamics365sales
 dynamics365server
-dynamicsecuritygroups
+dynamicsax
 dynamicsnav
 dynamodb
 dynatrace
 dynatraceobservability
+dz
 e-mail
 e1
 easy
@@ -2292,6 +2297,7 @@ eventprocessor
 events
 eventsubscription
 eventviewer
+eventwatch
 evergreen
 evernote
 everydaypowershell
@@ -2319,6 +2325,7 @@ exchangemigration
 exchangeon-premise
 exchangeon-premises
 exchangeonline
+exchangeonlineprotection
 exchangeonprem
 exchangeserver
 exchangewebservices
@@ -2374,7 +2381,6 @@ extendscript
 extensibility
 extension
 extensionmethods
-extensionrisk
 extensions
 external
 externalip
@@ -2789,7 +2795,6 @@ gmsa
 gnucash
 gnuwin32
 go
-gobright
 godaddy
 golang
 goldengate
@@ -3182,7 +3187,6 @@ imagebuilder
 imagecreate
 imagecreation
 imagegeneration
-imageoftheday
 imageprocess
 imageprocessing
 images
@@ -3297,6 +3301,7 @@ interlogix
 internal
 internet
 internet-explorer
+internetconnection
 internetexplorer
 intersight
 intersightcmdlets
@@ -3389,7 +3394,6 @@ isvalidip
 it
 it-support
 it-tool
-it-tools
 italic-text
 item
 itemlist
@@ -3490,7 +3494,6 @@ kb
 kbarticle
 kdbx
 kdialog
-keenetic
 keepachangelog
 keepass
 keepasslib
@@ -3588,6 +3591,7 @@ lastlogon
 lastpass
 latency
 latestupdate
+latin
 latitude
 launcher
 layer
@@ -3680,7 +3684,6 @@ listener
 litecoin
 litedb
 literature
-live
 lldp
 lmhost
 lmhosts
@@ -4204,7 +4207,6 @@ mutation
 mute
 mutex
 mva
-mvn
 mvp
 mx
 mxlookup
@@ -4214,6 +4216,7 @@ myip
 myitprocess
 myjson
 myjson.com
+myob
 myposh
 mypstag
 mysql
@@ -4288,7 +4291,6 @@ network
 network adapter configuration operating os optical sensor physical pointing portable printer processor cpu refrigaration cooling cooler removable usb sd ram dimm scsi sound audio card enclosure tape temperature touchpad touch pad touchscreen screen trackball trackpoint video graphics voltage psmodule
 network-credentials
 network-info
-networkanalytics
 networkcloud
 networkcontroller
 networkdiscovery
@@ -4626,7 +4628,6 @@ osuborganizationsubscription
 osubsubscription
 osubusage
 osx
-otel
 otp
 ou
 ou-object
@@ -4747,6 +4748,7 @@ pax8
 payload
 paylocity
 paypal
+pays
 pbench
 pbip
 pc
@@ -4977,6 +4979,7 @@ poshy-wrap-terraform
 poshy-wrap-terragrunt
 poshy-wrap-tmux
 poshy-wrap-vagrant
+poshy-wrap-vault
 poshy-wrap-vscode
 poshy-wrap-wget
 poshy-wrap-wt
@@ -5071,6 +5074,7 @@ powertab
 powertoolcmdlets
 powertooldsc
 ppdm
+ppk
 pposh
 pps
 ppt
@@ -6403,6 +6407,17 @@ pscommand_invoke-vagrantstatus
 pscommand_invoke-vagrantsuspend
 pscommand_invoke-vagrantup
 pscommand_invoke-vagrantuplogged
+pscommand_invoke-vaultdelete
+pscommand_invoke-vaultlist
+pscommand_invoke-vaultloginviagithub
+pscommand_invoke-vaultread
+pscommand_invoke-vaultreadfieldvalue
+pscommand_invoke-vaultrenew
+pscommand_invoke-vaultrevoke
+pscommand_invoke-vaultserver
+pscommand_invoke-vaultstatus
+pscommand_invoke-vaultversion
+pscommand_invoke-vaultwrite
 pscommand_invoke-vscodeadd
 pscommand_invoke-vscodediff
 pscommand_invoke-vscodeforpwd
@@ -6895,6 +6910,16 @@ pscommand_uuid
 pscommand_uuidgen
 pscommand_uuidl
 pscommand_uuidu
+pscommand_vad
+pscommand_vag
+pscommand_val
+pscommand_var
+pscommand_varn
+pscommand_varv
+pscommand_vas
+pscommand_vasrv
+pscommand_vav
+pscommand_vaw
 pscommand_vdstr
 pscommand_vh
 pscommand_vhl
@@ -7800,6 +7825,17 @@ psfunction_invoke-vagrantstatus
 psfunction_invoke-vagrantsuspend
 psfunction_invoke-vagrantup
 psfunction_invoke-vagrantuplogged
+psfunction_invoke-vaultdelete
+psfunction_invoke-vaultlist
+psfunction_invoke-vaultloginviagithub
+psfunction_invoke-vaultread
+psfunction_invoke-vaultreadfieldvalue
+psfunction_invoke-vaultrenew
+psfunction_invoke-vaultrevoke
+psfunction_invoke-vaultserver
+psfunction_invoke-vaultstatus
+psfunction_invoke-vaultversion
+psfunction_invoke-vaultwrite
 psfunction_invoke-vscodeadd
 psfunction_invoke-vscodediff
 psfunction_invoke-vscodeforpwd
@@ -8186,6 +8222,7 @@ puppetdb
 puppy
 pure
 pure1
+pureservice
 purestorage
 purple
 purview
@@ -8252,7 +8289,9 @@ queuing
 quickaccess
 quickbase
 quickbooks
+quicksetup
 quiz
+qumulo
 quota
 quote
 quoteoftheday
@@ -8486,7 +8525,6 @@ resource_monitor
 resource_watcher
 resourceaccount
 resourcecontroller
-resourcegraph
 resourcegroup
 resourceid
 resourcekit
@@ -8507,7 +8545,6 @@ retail
 retention
 retro
 retry
-returnuserprofile
 retype
 reuse
 reverse-engineer
@@ -8921,6 +8958,7 @@ setting
 settings
 setup
 sevenzip
+sf
 sfb
 sftp
 sfx
@@ -8936,7 +8974,6 @@ shacrypt
 shadow
 shadowcopy
 shadowcopybackups
-shadowgroups
 shanghaitech
 shard
 share
@@ -9258,6 +9295,7 @@ sslcertificate
 sslflags
 ssllabs
 ssllabs-scan
+sslprotocol
 ssm
 sso
 sspi
@@ -9278,8 +9316,6 @@ stan
 stanc
 standalone
 standard
-standarderror
-standardoutput
 stansummary
 start
 start-job
@@ -9308,7 +9344,6 @@ statusmonitor
 statusreportingcomponent
 staytus
 stderr
-stdio
 stdout
 steam
 steam-games
@@ -9400,7 +9435,6 @@ superheros
 supermarket
 support
 support-tool
-support-tools
 suppress
 supress-reboot
 surround
@@ -9446,7 +9480,6 @@ synthesis
 synthetics
 sysadmin
 sysadmin-tool
-sysadmin-tools
 sysctr
 sysinfo
 sysinfocmdlets
@@ -9473,7 +9506,6 @@ systemcolors
 systemctl
 systemdiscovery
 systeminfo
-systeminformation
 systemlocale
 systems
 systemsplash
@@ -9486,10 +9518,10 @@ tab-completion
 tab-expansion
 tabcompletion
 tabexpansion
-tabexpansion2
 tablacus
 table
 tableau
+tableauserver
 tabler
 tables
 tablestorage
@@ -9506,7 +9538,6 @@ tags
 tak
 taken
 takeown
-tally
 talxis
 tanss
 tanzu
@@ -9529,7 +9560,6 @@ tcpip
 tcpport
 tcprjmgmt
 tcpserver
-tcptest
 tcx
 tcxaemgmt
 tdd
@@ -9586,6 +9616,7 @@ tesla
 test
 test-automation
 test-dscconfiguration
+test-internetconnection
 test-modulepath
 test-osplatform
 test-psremoting
@@ -9676,6 +9707,7 @@ tls
 tls11
 tls12
 tlsa
+tlsprotocol
 tlsrpt
 tmux
 to-do
@@ -9717,7 +9749,6 @@ tr064
 trace
 traceevent
 tracer
-tracert
 tracing
 tracker
 tracking
@@ -9742,6 +9773,8 @@ transforms
 transitionmanager
 translate
 translation
+translit
+transliteration
 transmission
 transparency
 transpilation
@@ -9795,6 +9828,7 @@ tts
 tubedownloader
 tui
 tulpep
+tuner
 tuning
 tutorial
 tv
@@ -9810,6 +9844,7 @@ twitter-api-v2
 twitter-client
 twitter-follow
 twitter-hashtag
+twitter-mention
 twitter-share
 twitter-timeline
 twitter-tweet
@@ -9887,7 +9922,6 @@ udcm
 udfeedback
 udp
 udpclient
-udptest
 udr
 udthememode
 udword
@@ -9996,7 +10030,6 @@ userrightsassignment
 users
 userworkstations
 usg
-usps
 utc
 utf-8
 utf-sig
@@ -10013,7 +10046,6 @@ uudecode
 uuencode
 uuid
 uup
-uw
 uwp
 ux
 vadim
@@ -10243,6 +10275,7 @@ warraty
 warrenty
 wasabi
 watch
+watchdog
 watchmen
 watery
 wave
@@ -10282,6 +10315,7 @@ webpage
 webpi
 webreport
 webrequest
+webresponse
 webroot
 webserver
 webservice
@@ -10293,7 +10327,6 @@ websockets
 websphere
 websphereappserver
 websphereportal
-webtest
 webtesting
 webtime
 wec
@@ -10359,8 +10392,6 @@ windows-registry
 windows-remoting
 windows-server-2016
 windows-terminal
-windows-user-folder
-windows-user-profile
 windows10
 windows10mui
 windows11
@@ -10426,11 +10457,6 @@ winui
 wireless
 wirelessnetwork
 wireshark
-wisc
-wiscmail
-wisco365
-wisconsin-madison
-wisconsin'uw-madison
 wisdom
 with
 wizard
@@ -10572,6 +10598,7 @@ xor
 xpath
 xpendingreboot
 xpertdoc
+xpo
 xprotect
 xpt
 xrm
@@ -10587,6 +10614,7 @@ yahw
 yamaha
 yaml
 yandex
+yapg
 yarn
 yetanotherhelloworld
 yml
