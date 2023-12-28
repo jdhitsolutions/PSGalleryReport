@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Thursday, 28 December 2023 02:03:50 UTC
+Updated: Thursday, 28 December 2023 09:52:22 UTC
 
 .bat
 .env
@@ -19,13 +19,20 @@ Updated: Thursday, 28 December 2023 02:03:50 UTC
 🍄
 🍣
 💩
+10
 11
+1607
+1703
+1709
+1803
 1809
 1c
 1e
 1password
 1poshword
 200
+2010
+2013
 2016
 2018
 2019
@@ -42,13 +49,14 @@ Updated: Thursday, 28 December 2023 02:03:50 UTC
 64
 650
 650flb
+7
 7-zip
 7z
 7zip
+8.1
 8ball
 9
 aa
-aac
 aad
 aad-graph
 aadc
@@ -225,6 +233,7 @@ agent
 aggregates
 aggregation
 agile
+agility
 agm
 agnoster
 ai
@@ -247,7 +256,6 @@ aks
 aks-hci
 akscluster
 al
-alac
 alarm
 alb
 albums
@@ -350,6 +358,7 @@ apigee
 apigeeedge
 apimanagement
 apis
+aplication
 apm
 apmconfig
 apmcontrolplane
@@ -388,6 +397,7 @@ applocker
 appmgmtcontrol
 apppool
 appraiser
+approve
 apps
 appservice
 appservices
@@ -407,11 +417,14 @@ apt-get
 apt-get-update
 apteco
 aptitude
+aql
+arangodb
 arc
 arcade
 arcgis
 arch
 architecture
+architecuture
 archive
 archivedteams
 archivematica
@@ -796,6 +809,7 @@ bitbucketpipelines
 bitcoin
 bitlocker
 bitwarden
+bitwig
 bitwise
 biztalk
 biztalkalm
@@ -956,7 +970,6 @@ carbon
 carbonawarecomputing
 carbonintensity
 card
-cardwirth
 cargo
 carousel
 carrier
@@ -1089,8 +1102,10 @@ cif
 cifv3
 cil
 cim
+cim_computersystem
 cimfs
 cimi
+ciminstance
 cims
 cimsession
 cinema
@@ -1208,7 +1223,6 @@ cmdlets
 cmdstan
 cmgroupdiscovery
 cmhealth
-cmhealthcheck
 cminifile
 cmnetworkports
 cms
@@ -1289,6 +1303,7 @@ common
 common-data-service
 commonareaphone
 commondataservice
+commonmark
 communication
 community
 compare
@@ -1435,7 +1450,6 @@ copyright
 core
 coreepower
 coreepower.common
-coreepower.config
 coreepower.lib
 coreepower.module
 coreepower.net
@@ -1461,7 +1475,6 @@ counter
 countries
 country
 countrycode
-cover
 coverage
 coveralls
 coveralls.io
@@ -1618,7 +1631,6 @@ daily
 dane
 dangling
 dapr
-dare
 dark
 dash
 dashboard
@@ -1677,7 +1689,6 @@ dataset
 datasetdependency
 datashare
 datasource
-datastore
 datatable
 dataverse
 date
@@ -1723,6 +1734,7 @@ decimal
 decimalip
 decimalzero
 declarative
+decline
 decode
 decode64
 decoding
@@ -2103,7 +2115,6 @@ easyvista
 eaton
 ebay
 ebooks
-ebur128
 ec2
 ecommerce
 ecovadis
@@ -2263,7 +2274,6 @@ ets
 etw
 eulanda
 evaluator
-evc
 event
 event_id
 event_list
@@ -2290,6 +2300,7 @@ eventviewer
 eventwatch
 evergreen
 evernote
+everydaypowershell
 everydayrewards
 everything
 evolutionary-algorithms
@@ -2351,7 +2362,6 @@ exploration
 explorer
 exponentiation
 export
-export-cmhealthreport
 export-data
 export-passlist
 exportcertificate
@@ -2387,7 +2397,6 @@ facebook
 factoryorchestrator
 factoryorchestratorclient
 facts
-faf
 failedlogin
 failure
 falcon
@@ -2525,7 +2534,6 @@ fix-log
 fix-protocol
 fixlet
 fixpack
-flac
 flash
 flasharray
 flatfile
@@ -2701,7 +2709,6 @@ get
 get_random_password
 get-admodernreport
 get-childitem
-get-cmhealthcheck
 get-command
 get-credential
 get-criticaltrippoint
@@ -2925,8 +2932,9 @@ hashset
 hashtable
 hasicorp
 haskell
+haste
+hastebin
 haveibeenpwned
-hba
 hbase
 hci
 hcl
@@ -3013,6 +3021,7 @@ hls
 hockey
 hol
 holiday
+home
 home_automation
 homebrew
 homelandsecurity
@@ -3131,7 +3140,6 @@ icraftsoftware
 ics
 icws
 id
-id3
 idabus
 ide
 identifier
@@ -3188,7 +3196,6 @@ imagination
 imaging
 imap
 imb
-imei
 imi
 impala
 impersonation
@@ -3294,6 +3301,8 @@ internetconnection
 internetexplorer
 intersight
 intersightcmdlets
+interval
+interval-timer
 intigua
 intranet
 intrusion
@@ -3305,7 +3314,6 @@ inventory
 investigation
 investment
 investments
-invitation
 invocation
 invoice
 invoke
@@ -3479,6 +3487,7 @@ kaseyavsa
 kaspersky
 katakana
 kb
+kbarticle
 kdbx
 kdialog
 keepachangelog
@@ -3559,7 +3568,6 @@ labtest
 labworker
 lake
 lambda
-lame
 lametrictime
 lamp
 lan
@@ -3577,7 +3585,6 @@ last.fm
 lastfm
 lastlogon
 lastpass
-latency
 latestupdate
 latin
 latitude
@@ -3629,7 +3636,6 @@ license-generator
 licenseautomation
 licensemanagement
 licensemanager
-licensereport
 licenses
 licensing
 life
@@ -3915,7 +3921,6 @@ mdatp
 mdb
 mdbc
 mde
-mdep
 mdm
 mdop
 mdt
@@ -4047,7 +4052,6 @@ mitre
 mitre_att&ck
 mitrend
 mittelschule
-mixedreality
 mixer
 mkdocs
 mkpasswd
@@ -4281,7 +4285,6 @@ network
 network adapter configuration operating os optical sensor physical pointing portable printer processor cpu refrigaration cooling cooler removable usb sd ram dimm scsi sound audio card enclosure tape temperature touchpad touch pad touchscreen screen trackball trackpoint video graphics voltage psmodule
 network-credentials
 network-info
-networkanalytics
 networkcloud
 networkcontroller
 networkdiscovery
@@ -4361,6 +4364,8 @@ nord
 nordtools
 normal
 norskale
+norway
+norwegian
 nosql
 note
 notebook
@@ -4375,6 +4380,7 @@ notifu
 notify
 notify-send
 notify-send-wsl
+nova
 npgsql
 npm
 npm-proxy
@@ -4451,11 +4457,9 @@ octopus.client
 octopusdeploy
 octopusenergy
 ocvp
-od4b
 oda
 odata
 odbc
-odfb
 odin
 odoo
 oem-charset
@@ -4475,7 +4479,6 @@ officertool
 offline
 offlinewimservicing
 ofx
-ogg
 oh-my-posh
 oh-my-zsh
 oidc
@@ -4486,6 +4489,7 @@ ole
 oledb
 omaha
 ome
+omnisphere
 omnistack
 oms
 omsagent
@@ -4499,7 +4503,6 @@ oncommand-insight
 ondemand
 one
 onedrive
-onedriveforbusiness
 oneget
 oneidentity
 onelogin
@@ -4549,6 +4552,7 @@ opensource
 opensourceinitiative
 openssh
 openssl
+openstack
 openvpn
 operating
 operating_system
@@ -4571,7 +4575,6 @@ option
 option119
 options
 optionstring
-opus
 oracle
 oraclecloudinfrastructure
 oraculum
@@ -4723,6 +4726,7 @@ passwordstate
 passwordtool
 passwordvault
 passwordwolf
+paste
 patch
 patches
 patching
@@ -4844,7 +4848,6 @@ pleasant
 pleasantpasswordserver
 plex
 plist
-plog
 plot
 plug-n-copy
 plugin
@@ -4875,6 +4878,7 @@ policystate
 poll
 polly
 polycom
+pomodoro
 ponduit
 pool
 poop
@@ -4950,12 +4954,12 @@ poshy-wrap-golang
 poshy-wrap-helm
 poshy-wrap-kubectl
 poshy-wrap-maven
+poshy-wrap-nginx
 poshy-wrap-nmap
 poshy-wrap-npm
 poshy-wrap-pip
 poshy-wrap-pipenv
 poshy-wrap-pyenv
-poshy-wrap-pylint
 poshy-wrap-python
 poshy-wrap-ruby
 poshy-wrap-systemctl
@@ -5009,20 +5013,17 @@ powershell
 powershell-class
 powershell-cmdlets
 powershell-core
-powershell-core-releases-api
 powershell-course
 powershell-credentials
 powershell-dsc
 powershell-examples
 powershell-gallery
-powershell-github-repo
 powershell-gitlab
 powershell-graphql
 powershell-isprime
 powershell-lightning
 powershell-module
 powershell-modules
-powershell-releases-api
 powershell-remoting
 powershell-terminal
 powershell-terminal-copilot
@@ -5042,7 +5043,6 @@ powershellgallery
 powershellget
 powershellgetformatversion_2.0
 powershellise
-powershelllogger
 powershellmodule
 powershellmoduleupdate
 powershellpr0mpt
@@ -5123,6 +5123,7 @@ processor
 procmap
 procs
 producer
+product
 productid
 productivity
 productmedia
@@ -5202,10 +5203,12 @@ psadt
 psake
 psappdeploytoolkit
 psat
+psazd
 psbackup
 psbbix
 psbicep
 psclient
+pscmdlet
 pscommand__python3
 pscommand_--
 pscommand_..
@@ -6235,7 +6238,6 @@ pscommand_invoke-pipinstallupgrade
 pscommand_invoke-piplistoutdated
 pscommand_invoke-pipuninstall
 pscommand_invoke-pyenv
-pscommand_invoke-pylintreportsdisabled
 pscommand_invoke-ruby
 pscommand_invoke-rubyexecute
 pscommand_invoke-rubyexecutehttpdhere
@@ -6634,6 +6636,10 @@ pscommand_new-isofile
 pscommand_new-viewerinvocationfunction
 pscommand_new-windowsterminalpane
 pscommand_new-windowsterminaltab
+pscommand_nginx_reload
+pscommand_nginx_restart
+pscommand_nginx_start
+pscommand_nginx_stop
 pscommand_nmap_check_for_firewall
 pscommand_nmap_check_for_vulns
 pscommand_nmap_detect_versions
@@ -6720,7 +6726,6 @@ pscommand_pwh
 pscommand_pwshrc-show-proxy
 pscommand_py
 pscommand_pyenv
-pscommand_pylint-quick
 pscommand_pyserver
 pscommand_python
 pscommand_python3
@@ -7649,7 +7654,6 @@ psfunction_invoke-pipinstallupgrade
 psfunction_invoke-piplistoutdated
 psfunction_invoke-pipuninstall
 psfunction_invoke-pyenv
-psfunction_invoke-pylintreportsdisabled
 psfunction_invoke-ruby
 psfunction_invoke-rubyexecute
 psfunction_invoke-rubyexecutehttpdhere
@@ -7902,6 +7906,10 @@ psfunction_new-isofile
 psfunction_new-viewerinvocationfunction
 psfunction_new-windowsterminalpane
 psfunction_new-windowsterminaltab
+psfunction_nginx_reload
+psfunction_nginx_restart
+psfunction_nginx_start
+psfunction_nginx_stop
 psfunction_nmap_check_for_firewall
 psfunction_nmap_check_for_vulns
 psfunction_nmap_detect_versions
@@ -8221,7 +8229,6 @@ pwshrc
 pxedistributionpoint
 pyenv
 pygmentize
-pylint
 pyranja
 python
 python-for-dotnet
@@ -8277,6 +8284,7 @@ r
 r53
 rabbit
 rabbitmq
+rackspace
 radarr
 radio
 raidcontrollercmdlets
@@ -8461,7 +8469,6 @@ reparsepoint
 repeat
 repl
 replace
-replaygain
 replication
 repoo
 report
@@ -8525,7 +8532,6 @@ reverse-engineer
 reverse-string
 reversed-color-text
 reversedsc
-reverseengineering
 revision
 reword
 rewrite
@@ -8573,6 +8579,7 @@ rocketcyber
 roco
 rocolatey
 role
+roles
 rollingfile
 romaji
 ropc
@@ -8632,6 +8639,7 @@ russia
 rust
 rust-lang
 ryanairps
+ryver
 s.ds.p
 s1
 s3
@@ -8779,7 +8787,6 @@ searching
 searchmanager
 searchplace
 searchquery
-searchstring
 searchsuffixlist
 secaas
 secedit
@@ -8949,6 +8956,7 @@ shadow
 shadowcopy
 shadowcopybackups
 shadowgroups
+shanghaitech
 shard
 share
 share-permission
@@ -9290,6 +9298,8 @@ stan
 stanc
 standalone
 standard
+standarderror
+standardoutput
 stansummary
 start
 start-job
@@ -9318,6 +9328,7 @@ statusmonitor
 statusreportingcomponent
 staytus
 stderr
+stdio
 stdout
 steam
 steam-games
@@ -9352,6 +9363,8 @@ streak
 stream
 streamanalytics
 streaming
+streamreader
+streamwriter
 stretch
 strictmode
 strikethrough-text
@@ -9386,7 +9399,6 @@ subnetmask
 subnetmaths
 subnets
 subnetting
-subscribedskus
 subscription
 subscriptiondefinition
 subset
@@ -9497,6 +9509,7 @@ tabexpansion2
 tablacus
 table
 tableau
+tableauserver
 tabler
 tables
 tablestorage
@@ -9569,6 +9582,7 @@ template
 template-engine
 templates
 templating
+temporary
 tenable
 tenable.sc
 tenant
@@ -9590,6 +9604,7 @@ terrafun
 terragrunt
 tesla
 test
+test-automation
 test-dscconfiguration
 test-internetconnection
 test-modulepath
@@ -9820,6 +9835,8 @@ twitter-api-v2
 twitter-client
 twitter-follow
 twitter-hashtag
+twitter-mention
+twitter-share
 twitter-timeline
 twitter-tweet
 txt
@@ -9850,7 +9867,6 @@ ud-buttonparticle
 ud-calendar
 ud-circle
 ud-component
-ud-confetti
 ud-control
 ud-dashboard
 ud-datepicker
@@ -9882,7 +9898,6 @@ ud-slider
 ud-speechbubble
 ud-step
 ud-stepbar
-ud-stickynavbar
 ud-tagcloud
 ud-timeline
 ud-timeout
@@ -9909,6 +9924,7 @@ uk
 ul
 ulid
 ultimatetool
+um
 uml
 umn
 ums
@@ -9958,6 +9974,7 @@ updatemanagement
 updatemgmt
 updater
 updates
+updateservices
 updmanagement
 updmgmt
 upgrade
@@ -9965,7 +9982,6 @@ uplift
 uplink
 ups
 upsource
-upstream
 uptime
 uptimerobot
 uptobox
@@ -10080,7 +10096,6 @@ venvlink
 vera
 veracrypt
 verbose psmodule
-verification
 verify
 version
 versioning
@@ -10099,7 +10114,6 @@ viewer
 vigenere
 vim
 vimode
-virole
 virsh
 virtual
 virtualappliance
@@ -10119,7 +10133,6 @@ virtualmachines
 virtualmachne
 virtualnetwork
 virtualnetworking
-virtualportgroup
 virtualrtu
 virtualterminal
 virus
@@ -10163,7 +10176,6 @@ vmwvmhost
 vnet
 vnmonitoring
 vnugglets
-vnugglets.com
 vocabularies
 voice
 voiceconfig
@@ -10174,12 +10186,10 @@ volta
 volume
 volumeshadowcopy
 volumio
-vorbis
 vovin
 vpas
 vpasmodule
 vpc
-vpg
 vplex
 vpn
 vpn-certificate
@@ -10209,7 +10219,9 @@ vsphere+
 vss
 vssetup
 vsshell
+vst
 vsteambuilder
+vsteams
 vstest
 vsts
 vsts-cli
@@ -10587,6 +10599,7 @@ xsa
 xtremio
 xtrude
 xunit
+xwiki
 xwindowsupdate
 xwith
 yahoo
