@@ -3,6 +3,63 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [AzureSecrets](https://www.powershellgallery.com/Packages/AzureSecrets/0.0.22) | 0.0.22
+
+### Published: 12/28/2023 01:54:39 by Nik Chikersal
+
+Module used to manage Azure Secrets via Graph API
+
+__Downloads__: 1 | __Repository__: 
+
+## [Whiskey](https://www.powershellgallery.com/Packages/Whiskey/0.60.3) | 0.60.3
+
+### Published: 12/28/2023 01:50:09 by WebMD Health Services
+
+Continuous Integration/Continuous Delivery module.
+
+__Downloads__: 7,066 | __Repository__: https://github.com/webmd-health-services/Whiskey
+
+## [AzureSecretMgmt](https://www.powershellgallery.com/Packages/AzureSecretMgmt/0.0.20) | 0.0.20
+
+### Published: 12/28/2023 01:42:35 by Nik Chikersal
+
+Module used to manage Azure Secrets via Graph API
+
+__Downloads__: 2 | __Repository__: 
+
+## [PowerShellAI.Functions](https://www.powershellgallery.com/Packages/PowerShellAI.Functions/0.1.5) | 0.1.5
+
+### Published: 12/28/2023 00:39:36 by Douglas Finke
+
+PowerShellAI Functions Module a PowerShell module designed to work as a bridge between PowerShell functions and OpenAI.
+
+__Downloads__: 6,695 | __Repository__: https://github.com/dfinke/PowerShellAI.Functions
+
+## [WindowsAutopilotIntuneCommunity](https://www.powershellgallery.com/Packages/WindowsAutopilotIntuneCommunity/2.6) | 2.6
+
+### Published: 12/27/2023 23:59:16 by Andrew Taylor & Michael Niehaus
+
+Sample module to manage AutoPilot devices using the Intune Graph API
+
+__Downloads__: 7,736 | __Repository__: 
+
+## [TurnKeySdn](https://www.powershellgallery.com/Packages/TurnKeySdn/0.0.3) | 0.0.3
+
+### Published: 12/27/2023 19:57:12 by nijos
+
+Turn Key SDN for a quick sdn test deployment
+
+__Downloads__: 16 | __Repository__: 
+
+## [TeamsFunctions](https://www.powershellgallery.com/Packages/TeamsFunctions/22.20.1) | 22.20.1
+
+### Published: 12/27/2023 19:07:34 by David Eberhardt
+
+Teams Functions for Administration of Users, Common Area Phones, Resource Accounts, Call Queues and Auto Attendants, incl. Licensing, User Voice Configuration with Calling Plans and Direct Routing,
+For more information, please visit the https://davideberhardt.wordpress.com/ or https://github.com/DEberhardt/TeamsFunctions
+
+__Downloads__: 4,642 | __Repository__: 
+
 ## [WDACConfig](https://www.powershellgallery.com/Packages/WDACConfig/0.2.8) | 0.2.8
 
 ### Published: 12/27/2023 16:22:33 by HotCakeX
@@ -60,15 +117,7 @@ To get help and syntax on PowerShell console, type:
 "Get-Help Remove-CommonWDACConfig"
 "Get-Help Assert-WDACConfigIntegrity"
 
-__Downloads__: 1,098 | __Repository__: https://github.com/HotCakeX/Harden-Windows-Security/wiki/WDACConfig
-
-## [AzureSecretMgmt](https://www.powershellgallery.com/Packages/AzureSecretMgmt/0.0.15) | 0.0.15
-
-### Published: 12/27/2023 15:27:45 by Nik Chikersal
-
-Module used to manage Azure Secrets via Graph API
-
-__Downloads__: 2 | __Repository__: 
+__Downloads__: 1,097 | __Repository__: https://github.com/HotCakeX/Harden-Windows-Security/wiki/WDACConfig
 
 ## [hugoalh.GitHubActionsToolkit](https://www.powershellgallery.com/Packages/hugoalh.GitHubActionsToolkit/2.1.0) | 2.1.0
 
@@ -110,14 +159,6 @@ Collection of utility functions and aliases to simplify and automate common task
 
 __Downloads__: 122 | __Repository__: https://github.com/igorakkerman/easypeasy
 
-## [WindowsAutopilotIntuneCommunity](https://www.powershellgallery.com/Packages/WindowsAutopilotIntuneCommunity/2.5) | 2.5
-
-### Published: 12/26/2023 22:04:00 by Andrew Taylor & Michael Niehaus
-
-Sample module to manage AutoPilot devices using the Intune Graph API
-
-__Downloads__: 7,736 | __Repository__: 
-
 ## [PsAsbUtils](https://www.powershellgallery.com/Packages/PsAsbUtils/0.1.6) | 0.1.6
 
 ### Published: 12/26/2023 21:49:15 by Vasily Larionov
@@ -148,7 +189,7 @@ __Downloads__: 87 | __Repository__: https://github.com/pwshrc/poshy-coreutils-is
 
 This PowerShell module contains functions that facilitate querying and create, update, and delete (mutations) operations for GraphQL endpoints.
 
-__Downloads__: 49,108 | __Repository__: https://github.com/anthonyg-1/PSGraphQL
+__Downloads__: 49,089 | __Repository__: https://github.com/anthonyg-1/PSGraphQL
 
 ## [AdminToolbox](https://www.powershellgallery.com/Packages/AdminToolbox/11.0.128) | 11.0.128
 
@@ -164,7 +205,7 @@ __Downloads__: 29,924 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions that generate configuration scripts and manage FortiOS.
 
-__Downloads__: 9,151 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 9,150 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.VMWareAutomate](https://www.powershellgallery.com/Packages/AdminToolbox.VMWareAutomate/4.8.117) | 4.8.117
 
@@ -172,7 +213,7 @@ __Downloads__: 9,151 | __Repository__: https://github.com/TheTaylorLee/AdminTool
 
 Functions to Automate Bulk VMWare Tasks
 
-__Downloads__: 16,031 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 16,030 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.Remoting](https://www.powershellgallery.com/Packages/AdminToolbox.Remoting/1.9.120) | 1.9.120
 
@@ -180,7 +221,7 @@ __Downloads__: 16,031 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions for remote management and access.
 
-__Downloads__: 15,837 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 15,836 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.Office365](https://www.powershellgallery.com/Packages/AdminToolbox.Office365/3.1.70) | 3.1.70
 
@@ -196,7 +237,7 @@ __Downloads__: 17,149 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Network Troubleshooting Functions
 
-__Downloads__: 43,084 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 43,081 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.MSGraph](https://www.powershellgallery.com/Packages/AdminToolbox.MSGraph/1.2.120) | 1.2.120
 
@@ -212,7 +253,7 @@ __Downloads__: 6,170 | __Repository__: https://github.com/TheTaylorLee/AdminTool
 
 Functions that have no purpose
 
-__Downloads__: 15,847 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 15,846 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.FileManagement](https://www.powershellgallery.com/Packages/AdminToolbox.FileManagement/1.15.111) | 1.15.111
 
@@ -244,7 +285,7 @@ __Downloads__: 17,578 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions for management of endpoints
 
-__Downloads__: 20,087 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 20,090 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.ActiveDirectory](https://www.powershellgallery.com/Packages/AdminToolbox.ActiveDirectory/1.9.118) | 1.9.118
 
@@ -252,7 +293,7 @@ __Downloads__: 20,087 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions for Active Directory
 
-__Downloads__: 20,099 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 20,100 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [powershell](https://www.powershellgallery.com/Packages/powershell/0.0.8) | 0.0.8
 
@@ -397,7 +438,7 @@ __Downloads__: 82 | __Repository__: https://enghouseinteractive.se/competella/
 
 The Devolutions.PowerShell module is a set of cmdlets that allow administrators to manage Remote Desktop Manager, Devolutions Server and Devolutions Hub Business using PowerShell. This module provides a simple and consistent interface for interacting with these products, making it easy to automate various tasks, such as creating and managing connections, sessions, and credentials, configuring security settings, and generating reports. The module can be easily integrated with other PowerShell modules, allowing administrators to automate tasks across multiple products and platforms, streamline their workflows and increase efficiency.
 
-__Downloads__: 9,290 | __Repository__: https://devolutions.net/
+__Downloads__: 9,291 | __Repository__: https://devolutions.net/
 
 ## [ObjectGraphTools](https://www.powershellgallery.com/Packages/ObjectGraphTools/0.0.8) | 0.0.8
 
@@ -517,7 +558,7 @@ __Downloads__: 2,623 | __Repository__: https://dev.ntsystems.de/ntsystems/nts-to
 
 The community module that enables SQL Server Pros to automate database development and server administration
 
-__Downloads__: 3,479,404 | __Repository__: https://dbatools.io/
+__Downloads__: 3,479,444 | __Repository__: https://dbatools.io/
 
 ## [IdnTools](https://www.powershellgallery.com/Packages/IdnTools/1.55) | 1.55
 
@@ -597,7 +638,7 @@ __Downloads__: 409 | __Repository__: https://www.kelverion.com/runbook-SolarWind
 
 Provides a set of functions to manage Win32 apps in Microsoft Endpoint Manager (Intune).
 
-__Downloads__: 183,214 | __Repository__: https://github.com/MSEndpointMgr/IntuneWin32App
+__Downloads__: 183,122 | __Repository__: https://github.com/MSEndpointMgr/IntuneWin32App
 
 ## [CopilotHelper](https://www.powershellgallery.com/Packages/CopilotHelper/1.0.0) | 1.0.0
 
@@ -613,7 +654,7 @@ __Downloads__: 7 | __Repository__: https://github.com/rulasg/CopilotHelper
 
 Module covering functions that are shared within multiple projects
 
-__Downloads__: 261,541 | __Repository__: https://github.com/EvotecIT/PSSharedGoods
+__Downloads__: 261,524 | __Repository__: https://github.com/EvotecIT/PSSharedGoods
 
 ## [SignPath](https://www.powershellgallery.com/Packages/SignPath/4.3.3) | 4.3.3
 
@@ -666,7 +707,7 @@ __Downloads__: 58,165 | __Repository__: https://github.com/EvotecIT/Testimo
 
 Helper module for Active Directory with lots of useful functions that simplify supporting Active Directory.
 
-__Downloads__: 162,432 | __Repository__: https://github.com/EvotecIT/ADEssentials
+__Downloads__: 162,430 | __Repository__: https://github.com/EvotecIT/ADEssentials
 
 ## [Devolutions.Authenticode](https://www.powershellgallery.com/Packages/Devolutions.Authenticode/2023.12.20.0) | 2023.12.20.0
 
@@ -692,7 +733,7 @@ The DSInternals PowerShell Module exposes several internal features of Active Di
 
 DISCLAIMER: Features exposed through this module are not supported by Microsoft and it is therefore not intended to be used in production environments. Improper use might cause irreversible damage to domain controllers or negatively impact domain security.
 
-__Downloads__: 2,654,539 | __Repository__: https://github.com/MichaelGrafnetter/DSInternals
+__Downloads__: 2,654,155 | __Repository__: https://github.com/MichaelGrafnetter/DSInternals
 
 ## [AsBuiltReport.VMware.Horizon](https://www.powershellgallery.com/Packages/AsBuiltReport.VMware.Horizon/1.1.0) | 1.1.0
 
@@ -1132,7 +1173,7 @@ __Downloads__: 419 | __Repository__: http://www.cdata.com/powershell/
 
 CData Cmdlets for Acumatica
 
-__Downloads__: 1,526 | __Repository__: http://www.cdata.com/powershell/
+__Downloads__: 1,527 | __Repository__: http://www.cdata.com/powershell/
 
 ## [SAPHybrisC4CCmdlets](https://www.powershellgallery.com/Packages/SAPHybrisC4CCmdlets/23.0.8750.1) | 23.0.8750.1
 
@@ -1302,6 +1343,14 @@ CData Cmdlets for Oracle Fusion Cloud Financials
 
 __Downloads__: 49 | __Repository__: http://www.cdata.com/powershell/
 
+## [PipedriveCmdlets](https://www.powershellgallery.com/Packages/PipedriveCmdlets/23.0.8750.1) | 23.0.8750.1
+
+### Published: 12/20/2023 16:32:34 by CData Software Inc.
+
+CData Cmdlets for Pipedrive
+
+__Downloads__: 57 | __Repository__: http://www.cdata.com/powershell/
+
 ## [ZohoCreatorCmdlets](https://www.powershellgallery.com/Packages/ZohoCreatorCmdlets/23.0.8750.1) | 23.0.8750.1
 
 ### Published: 12/20/2023 16:32:22 by CData Software Inc.
@@ -1405,6 +1454,14 @@ __Downloads__: 170 | __Repository__: http://www.cdata.com/powershell/
 CData Cmdlets for Informix
 
 __Downloads__: 194 | __Repository__: http://www.cdata.com/powershell/
+
+## [EnterpriseDBCmdlets](https://www.powershellgallery.com/Packages/EnterpriseDBCmdlets/23.0.8750.1) | 23.0.8750.1
+
+### Published: 12/20/2023 16:30:09 by CData Software Inc.
+
+CData Cmdlets for EnterpriseDB
+
+__Downloads__: 130 | __Repository__: http://www.cdata.com/powershell/
 
 ## [ADPCmdlets](https://www.powershellgallery.com/Packages/ADPCmdlets/23.0.8749.1) | 23.0.8749.1
 
@@ -1764,7 +1821,7 @@ __Downloads__: 1,103 | __Repository__: http://www.cdata.com/powershell/
 
 CData Cmdlets for Act! CRM
 
-__Downloads__: 2,388 | __Repository__: http://www.cdata.com/powershell/
+__Downloads__: 2,389 | __Repository__: http://www.cdata.com/powershell/
 
 ## [TableauCRMCmdlets](https://www.powershellgallery.com/Packages/TableauCRMCmdlets/23.0.8749.1) | 23.0.8749.1
 
@@ -1990,14 +2047,6 @@ CData Cmdlets for DB2
 
 __Downloads__: 240 | __Repository__: http://www.cdata.com/powershell/
 
-## [GoogleContactsCmdlets](https://www.powershellgallery.com/Packages/GoogleContactsCmdlets/23.0.8749.1) | 23.0.8749.1
-
-### Published: 12/20/2023 16:18:06 by CData Software Inc.
-
-CData Cmdlets for Google Contacts
-
-__Downloads__: 860 | __Repository__: http://www.cdata.com/powershell/
-
 ## [LinkedInAdsCmdlets](https://www.powershellgallery.com/Packages/LinkedInAdsCmdlets/23.0.8750.1) | 23.0.8750.1
 
 ### Published: 12/20/2023 16:17:39 by CData Software Inc.
@@ -2014,52 +2063,4 @@ CData Cmdlets for Google Ads
 
 __Downloads__: 2,138 | __Repository__: http://www.cdata.com/powershell/
 
-## [ExactOnlineCmdlets](https://www.powershellgallery.com/Packages/ExactOnlineCmdlets/23.0.8750.1) | 23.0.8750.1
-
-### Published: 12/20/2023 16:17:23 by CData Software Inc.
-
-CData Cmdlets for Exact Online
-
-__Downloads__: 1,078 | __Repository__: http://www.cdata.com/powershell/
-
-## [XeroCmdlets](https://www.powershellgallery.com/Packages/XeroCmdlets/23.0.8750.1) | 23.0.8750.1
-
-### Published: 12/20/2023 16:17:14 by CData Software Inc.
-
-CData Cmdlets for Xero
-
-__Downloads__: 1,240 | __Repository__: http://www.cdata.com/powershell/
-
-## [XMLCmdlets](https://www.powershellgallery.com/Packages/XMLCmdlets/23.0.8750.1) | 23.0.8750.1
-
-### Published: 12/20/2023 16:17:07 by CData Software Inc.
-
-CData Cmdlets for XML
-
-__Downloads__: 1,379 | __Repository__: http://www.cdata.com/powershell/
-
-## [OracleEloquaCmdlets](https://www.powershellgallery.com/Packages/OracleEloquaCmdlets/23.0.8749.1) | 23.0.8749.1
-
-### Published: 12/20/2023 16:16:58 by CData Software Inc.
-
-CData Cmdlets for Oracle Eloqua
-
-__Downloads__: 497 | __Repository__: http://www.cdata.com/powershell/
-
-## [ExcelServicesCmdlets](https://www.powershellgallery.com/Packages/ExcelServicesCmdlets/23.0.8750.1) | 23.0.8750.1
-
-### Published: 12/20/2023 16:16:53 by CData Software Inc.
-
-CData Cmdlets for Microsoft SharePoint Excel
-
-__Downloads__: 4,309 | __Repository__: http://www.cdata.com/powershell/
-
-## [QuickBooksPOSCmdlets](https://www.powershellgallery.com/Packages/QuickBooksPOSCmdlets/23.0.8750.1) | 23.0.8750.1
-
-### Published: 12/20/2023 16:16:45 by CData Software Inc.
-
-CData Cmdlets for QuickBooks POS
-
-__Downloads__: 840 | __Repository__: http://www.cdata.com/powershell/
-
-*Updated: Wednesday, 27 December 2023 17:52:38 UTC*
+*Updated: Thursday, 28 December 2023 02:03:41 UTC*

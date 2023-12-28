@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Wednesday, 27 December 2023 17:52:48 UTC
+Updated: Thursday, 28 December 2023 02:03:50 UTC
 
 .bat
 .env
@@ -19,20 +19,13 @@ Updated: Wednesday, 27 December 2023 17:52:48 UTC
 🍄
 🍣
 💩
-10
 11
-1607
-1703
-1709
-1803
 1809
 1c
 1e
 1password
 1poshword
 200
-2010
-2013
 2016
 2018
 2019
@@ -49,11 +42,9 @@ Updated: Wednesday, 27 December 2023 17:52:48 UTC
 64
 650
 650flb
-7
 7-zip
 7z
 7zip
-8.1
 8ball
 9
 aa
@@ -234,7 +225,6 @@ agent
 aggregates
 aggregation
 agile
-agility
 agm
 agnoster
 ai
@@ -360,7 +350,6 @@ apigee
 apigeeedge
 apimanagement
 apis
-aplication
 apm
 apmconfig
 apmcontrolplane
@@ -399,7 +388,6 @@ applocker
 appmgmtcontrol
 apppool
 appraiser
-approve
 apps
 appservice
 appservices
@@ -418,14 +406,12 @@ apt
 apt-get
 apt-get-update
 apteco
-aql
-arangodb
+aptitude
 arc
 arcade
 arcgis
 arch
 architecture
-architecuture
 archive
 archivedteams
 archivematica
@@ -647,6 +633,7 @@ azureactivedirectory
 azuread
 azureadbackupandrestore
 azureadconnect
+azureadgraph
 azureadtoolkit
 azureappconfiguration
 azureas
@@ -809,7 +796,6 @@ bitbucketpipelines
 bitcoin
 bitlocker
 bitwarden
-bitwig
 bitwise
 biztalk
 biztalkalm
@@ -892,7 +878,6 @@ broadcom
 broot
 brownserve-uk
 browser
-browserextension
 browserhistory
 browsing
 brs
@@ -1104,10 +1089,8 @@ cif
 cifv3
 cil
 cim
-cim_computersystem
 cimfs
 cimi
-ciminstance
 cims
 cimsession
 cinema
@@ -1303,9 +1286,9 @@ commfort
 commit
 commits
 common
+common-data-service
 commonareaphone
 commondataservice
-commonmark
 communication
 community
 compare
@@ -1740,7 +1723,6 @@ decimal
 decimalip
 decimalzero
 declarative
-decline
 decode
 decode64
 decoding
@@ -1814,6 +1796,7 @@ devdeer
 developer
 developer_command_prompt
 developercommandprompt
+developermode
 development
 devenv
 devexpress
@@ -1918,6 +1901,7 @@ distrubtionpoint
 dividends
 diving
 division
+divoom
 dkim
 dkschrutebeets
 dl
@@ -2178,6 +2162,7 @@ emissions
 emoji
 emotion
 empire
+empty
 emwarehouse
 enable
 enable-internet
@@ -2207,6 +2192,7 @@ enteo
 enter
 enterprise
 enterprise-scale
+enterprisedb
 enterprisemanager
 enterprisevoice
 entity
@@ -2304,7 +2290,6 @@ eventviewer
 eventwatch
 evergreen
 evernote
-everydaypowershell
 everydayrewards
 everything
 evolutionary-algorithms
@@ -2385,17 +2370,19 @@ extendscript
 extensibility
 extension
 extensionmethods
-extensionrisk
 extensions
 external
 externalip
 extract
+extraction
 extractor
 extreme-networks
 eztheme
 f
 f#
 f5
+fabric
+fabtools
 facebook
 factoryorchestrator
 factoryorchestratorclient
@@ -2726,6 +2713,7 @@ get-dtdriverpack
 get-dtdriverupdates
 get-dtscriptnewcmpackagefromdriverpackpackagedefinitionsms
 get-dtscriptnewcmtasksequencefromdriverpackpackagedefinitionsms
+get-emptyadgroups
 get-externalip
 get-firmwaretype
 get-help
@@ -2741,6 +2729,8 @@ get-pinneditem
 get-samcmassignedsite
 get-samcmcurrentmanagementpoint
 get-samplingperiod
+get-stalecomps
+get-staleusers
 get-thermalstamp
 get-uptime
 getfirmwareenvironmentvariable
@@ -2925,6 +2915,7 @@ hardlink
 hardmatch
 hardware
 harperdb
+hartokens
 harvest
 harvestforecast
 hash
@@ -2934,8 +2925,6 @@ hashset
 hashtable
 hasicorp
 haskell
-haste
-hastebin
 haveibeenpwned
 hba
 hbase
@@ -3024,7 +3013,6 @@ hls
 hockey
 hol
 holiday
-home
 home_automation
 homebrew
 homelandsecurity
@@ -3306,8 +3294,6 @@ internetconnection
 internetexplorer
 intersight
 intersightcmdlets
-interval
-interval-timer
 intigua
 intranet
 intrusion
@@ -3493,7 +3479,6 @@ kaseyavsa
 kaspersky
 katakana
 kb
-kbarticle
 kdbx
 kdialog
 keepachangelog
@@ -3575,6 +3560,7 @@ labworker
 lake
 lambda
 lame
+lametrictime
 lamp
 lan
 landingzones
@@ -3589,7 +3575,9 @@ laserbeams
 last
 last.fm
 lastfm
+lastlogon
 lastpass
+latency
 latestupdate
 latin
 latitude
@@ -3815,6 +3803,7 @@ macmon
 macos
 macosx
 macro
+macros
 madlib
 magazine
 magento
@@ -3909,6 +3898,7 @@ maven
 max
 max_path
 maximum
+maxoffice
 mazerat
 mb
 mbc
@@ -4017,6 +4007,7 @@ microsoftdefenderatp
 microsoftdeploymenttoolkit
 microsoftendpointmanager
 microsoftexchangeserver
+microsoftfabric
 microsoftgraph
 microsoftgraphapi
 microsoftgraphrestapi
@@ -4084,6 +4075,7 @@ moduleupdater
 moduleversion
 mof
 moldova
+moment
 monaco
 monday
 mondoo
@@ -4146,6 +4138,7 @@ msgbox
 msgraph
 msgraphapi
 msgraphreport
+msgraphtokenlifetimepolicy
 msi
 msi psmodule
 msiexec
@@ -4194,6 +4187,7 @@ multiserver
 multistring
 multithread
 multithreaded
+multithreaded-helpers
 multithreading
 music
 musiccast
@@ -4233,6 +4227,7 @@ namespace
 naming
 nana
 nano
+nanoleaf
 nartac
 nasdaq
 native
@@ -4366,8 +4361,6 @@ nord
 nordtools
 normal
 norskale
-norway
-norwegian
 nosql
 note
 notebook
@@ -4382,7 +4375,6 @@ notifu
 notify
 notify-send
 notify-send-wsl
-nova
 npgsql
 npm
 npm-proxy
@@ -4494,7 +4486,6 @@ ole
 oledb
 omaha
 ome
-omnisphere
 omnistack
 oms
 omsagent
@@ -4558,7 +4549,6 @@ opensource
 opensourceinitiative
 openssh
 openssl
-openstack
 openvpn
 operating
 operating_system
@@ -4733,7 +4723,6 @@ passwordstate
 passwordtool
 passwordvault
 passwordwolf
-paste
 patch
 patches
 patching
@@ -4747,6 +4736,7 @@ paylocity
 paypal
 pays
 pbench
+pbip
 pc
 pcapng
 pci-dss
@@ -4822,6 +4812,7 @@ pinvoke
 pip
 pip3
 pipe
+pipedrive
 pipeline
 pipelinelastexecution
 pipelines
@@ -4831,6 +4822,7 @@ piraeus
 pivot
 pivotal
 pivottable
+pixoo
 pki
 pki psmodule
 pks
@@ -4883,7 +4875,6 @@ policystate
 poll
 polly
 polycom
-pomodoro
 ponduit
 pool
 poop
@@ -4940,6 +4931,7 @@ poshy-sh-isms
 poshy-sshconfig
 poshy-viewer-finder
 poshy-wrap
+poshy-wrap-apt
 poshy-wrap-argcomplete
 poshy-wrap-brew
 poshy-wrap-curl
@@ -4969,6 +4961,7 @@ poshy-wrap-ruby
 poshy-wrap-systemctl
 poshy-wrap-terraform
 poshy-wrap-terragrunt
+poshy-wrap-tmux
 poshy-wrap-vagrant
 poshy-wrap-vault
 poshy-wrap-vscode
@@ -5130,7 +5123,6 @@ processor
 procmap
 procs
 producer
-product
 productid
 productivity
 productmedia
@@ -5210,12 +5202,10 @@ psadt
 psake
 psappdeploytoolkit
 psat
-psazd
 psbackup
 psbbix
 psbicep
 psclient
-pscmdlet
 pscommand__python3
 pscommand_--
 pscommand_..
@@ -5233,6 +5223,10 @@ pscommand_6
 pscommand_7
 pscommand_8
 pscommand_9
+pscommand_aar
+pscommand_acp
+pscommand_acse
+pscommand_acsp
 pscommand_add_ssh
 pscommand_add-envpathitem
 pscommand_add-envvarpathitem
@@ -5246,7 +5240,16 @@ pscommand_add-gittrackedfiles
 pscommand_add-gittrackedfilesall
 pscommand_add-gittrackedfilesinteractively
 pscommand_add-gittrackedfilesverbosely
+pscommand_afs
+pscommand_age
+pscommand_agli
+pscommand_aglu
+pscommand_allpkgs
+pscommand_app
+pscommand_apt-history
+pscommand_apt-list-packages
 pscommand_arch
+pscommand_asrc
 pscommand_basename
 pscommand_bcubc
 pscommand_bcubo
@@ -5619,6 +5622,7 @@ pscommand_geli
 pscommand_geo
 pscommand_geoe
 pscommand_get
+pscommand_get-aptinstalledpackages
 pscommand_get-childitemcolorfully
 pscommand_get-childitemcolorfullycramped
 pscommand_get-childitemcolorfullyrevealingly
@@ -5908,6 +5912,14 @@ pscommand_hin
 pscommand_hostname
 pscommand_hse
 pscommand_hup
+pscommand_invoke-aptcachepolicy
+pscommand_invoke-aptcachesearch
+pscommand_invoke-aptcacheshowpkg
+pscommand_invoke-aptfilesearchbyregex
+pscommand_invoke-aptgetsource
+pscommand_invoke-aptlistinstalled
+pscommand_invoke-aptlistupgradable
+pscommand_invoke-aptpreferred
 pscommand_invoke-brewlistpinned
 pscommand_invoke-brewpin
 pscommand_invoke-brewuninstallzap
@@ -6353,6 +6365,13 @@ pscommand_invoke-terragruntplan
 pscommand_invoke-terragruntplanall
 pscommand_invoke-terragruntvalidate
 pscommand_invoke-terragruntvalidateall
+pscommand_invoke-tmuxattachforterminal
+pscommand_invoke-tmuxattachforterminaldetachingothers
+pscommand_invoke-tmuxeditconfig
+pscommand_invoke-tmuxkillserver
+pscommand_invoke-tmuxkillsessionforterminal
+pscommand_invoke-tmuxlistsessions
+pscommand_invoke-tmuxnewsessionfromsource
 pscommand_invoke-vagrantdestroy
 pscommand_invoke-vagranthalt
 pscommand_invoke-vagranthostmanager
@@ -6518,6 +6537,7 @@ pscommand_keno
 pscommand_kens
 pscommand_kep
 pscommand_kepvc
+pscommand_kerndeb
 pscommand_kers
 pscommand_kes
 pscommand_kess
@@ -6789,6 +6809,8 @@ pscommand_syspip
 pscommand_syspip_package_location
 pscommand_syspip3
 pscommand_syspip3_package_location
+pscommand_ta
+pscommand_tad
 pscommand_test-command
 pscommand_test-d
 pscommand_test-elevation
@@ -6816,6 +6838,14 @@ pscommand_tgp
 pscommand_tgpa
 pscommand_tgv
 pscommand_tgva
+pscommand_tkss
+pscommand_tksv
+pscommand_tl
+pscommand_tmuxconf
+pscommand_ts
+pscommand_txa
+pscommand_txl
+pscommand_txn
 pscommand_universalarchive
 pscommand_update-gitbranchbasefrombranchmain
 pscommand_update-gitbranchbasefrommain
@@ -7017,6 +7047,7 @@ psfive9
 psfive9admin
 psfoldersize
 psfunction__python3
+psfunction_aar
 psfunction_add_ssh
 psfunction_add-envpathitem
 psfunction_add-envvarpathitem
@@ -7030,6 +7061,8 @@ psfunction_add-gittrackedfiles
 psfunction_add-gittrackedfilesall
 psfunction_add-gittrackedfilesinteractively
 psfunction_add-gittrackedfilesverbosely
+psfunction_apt-history
+psfunction_apt-list-packages
 psfunction_arch
 psfunction_basename
 psfunction_bgblack
@@ -7193,6 +7226,7 @@ psfunction_format-batcatstyle
 psfunction_format-lesstermcapenv
 psfunction_format-viewerinvocationsh
 psfunction_gdv
+psfunction_get-aptinstalledpackages
 psfunction_get-childitemcolorfully
 psfunction_get-childitemcolorfullycramped
 psfunction_get-childitemcolorfullyrevealingly
@@ -7292,6 +7326,14 @@ psfunction_gitignore-reload
 psfunction_gittowork
 psfunction_gplfs
 psfunction_hostname
+psfunction_invoke-aptcachepolicy
+psfunction_invoke-aptcachesearch
+psfunction_invoke-aptcacheshowpkg
+psfunction_invoke-aptfilesearchbyregex
+psfunction_invoke-aptgetsource
+psfunction_invoke-aptlistinstalled
+psfunction_invoke-aptlistupgradable
+psfunction_invoke-aptpreferred
 psfunction_invoke-brewlistpinned
 psfunction_invoke-brewpin
 psfunction_invoke-brewuninstallzap
@@ -7737,6 +7779,13 @@ psfunction_invoke-terragruntplan
 psfunction_invoke-terragruntplanall
 psfunction_invoke-terragruntvalidate
 psfunction_invoke-terragruntvalidateall
+psfunction_invoke-tmuxattachforterminal
+psfunction_invoke-tmuxattachforterminaldetachingothers
+psfunction_invoke-tmuxeditconfig
+psfunction_invoke-tmuxkillserver
+psfunction_invoke-tmuxkillsessionforterminal
+psfunction_invoke-tmuxlistsessions
+psfunction_invoke-tmuxnewsessionfromsource
 psfunction_invoke-vagrantdestroy
 psfunction_invoke-vagranthalt
 psfunction_invoke-vagranthostmanager
@@ -7838,6 +7887,7 @@ psfunction_invoke-zypperversioncompare
 psfunction_invoke-zypperwhatprovides
 psfunction_invokeyumgrouplist
 psfunction_jump
+psfunction_kerndeb
 psfunction_kres
 psfunction_local-ignore
 psfunction_measure-envvarchanges
@@ -8087,6 +8137,7 @@ psreadexif
 psreadline
 psremoting
 psrepository
+psresourceget
 psrule
 psrule-rules
 pssa
@@ -8226,7 +8277,6 @@ r
 r53
 rabbit
 rabbitmq
-rackspace
 radarr
 radio
 raidcontrollercmdlets
@@ -8523,7 +8573,6 @@ rocketcyber
 roco
 rocolatey
 role
-roles
 rollingfile
 romaji
 ropc
@@ -8583,7 +8632,6 @@ russia
 rust
 rust-lang
 ryanairps
-ryver
 s.ds.p
 s1
 s3
@@ -8609,6 +8657,7 @@ saltstackconfig
 saltstackenterprise
 sam
 saml
+saml psmodule
 saml2
 sample
 sampler
@@ -8900,7 +8949,6 @@ shadow
 shadowcopy
 shadowcopybackups
 shadowgroups
-shanghaitech
 shard
 share
 share-permission
@@ -8939,6 +8987,7 @@ show
 show-command
 show-objecttree
 show-on-command
+showdemo
 showoncommand
 shred
 shuf
@@ -9095,6 +9144,7 @@ soonr
 soonragent
 sophos
 sort
+sorting
 source
 source-dedicated-server
 sourcecontrol
@@ -9240,8 +9290,6 @@ stan
 stanc
 standalone
 standard
-standarderror
-standardoutput
 stansummary
 start
 start-job
@@ -9270,7 +9318,6 @@ statusmonitor
 statusreportingcomponent
 staytus
 stderr
-stdio
 stdout
 steam
 steam-games
@@ -9305,8 +9352,6 @@ streak
 stream
 streamanalytics
 streaming
-streamreader
-streamwriter
 stretch
 strictmode
 strikethrough-text
@@ -9402,6 +9447,7 @@ syndication
 synergy
 syntax
 syntax-highlighting
+syntaxcheck
 syntaxhighlighter
 synthesis
 synthetics
@@ -9451,7 +9497,6 @@ tabexpansion2
 tablacus
 table
 tableau
-tableauserver
 tabler
 tables
 tablestorage
@@ -9524,7 +9569,6 @@ template
 template-engine
 templates
 templating
-temporary
 tenable
 tenable.sc
 tenant
@@ -9546,7 +9590,6 @@ terrafun
 terragrunt
 tesla
 test
-test-automation
 test-dscconfiguration
 test-internetconnection
 test-modulepath
@@ -9641,6 +9684,7 @@ tls12
 tlsa
 tlsprotocol
 tlsrpt
+tmux
 to-do
 toast
 toasts
@@ -9651,6 +9695,7 @@ todo.txt
 toggl
 toggle
 token
+tokenlifetime
 tokens
 toml
 tookit
@@ -9671,6 +9716,7 @@ torrents
 toshiba
 totp
 touch
+toughswitch
 tphubps
 tpm
 tr-064
@@ -9766,6 +9812,7 @@ tweet
 twig
 twilio
 twincat
+twinkly
 twitch
 twitter
 twitter-api
@@ -9773,8 +9820,6 @@ twitter-api-v2
 twitter-client
 twitter-follow
 twitter-hashtag
-twitter-mention
-twitter-share
 twitter-timeline
 twitter-tweet
 txt
@@ -9864,7 +9909,6 @@ uk
 ul
 ulid
 ultimatetool
-um
 uml
 umn
 ums
@@ -9914,7 +9958,6 @@ updatemanagement
 updatemgmt
 updater
 updates
-updateservices
 updmanagement
 updmgmt
 upgrade
@@ -10079,6 +10122,7 @@ virtualnetworking
 virtualportgroup
 virtualrtu
 virtualterminal
+virus
 virustotal
 visio
 visual
@@ -10165,9 +10209,7 @@ vsphere+
 vss
 vssetup
 vsshell
-vst
 vsteambuilder
-vsteams
 vstest
 vsts
 vsts-cli
@@ -10206,6 +10248,7 @@ warraty
 warrenty
 wasabi
 watch
+watchdog
 watchmen
 watery
 wave
@@ -10544,7 +10587,6 @@ xsa
 xtremio
 xtrude
 xunit
-xwiki
 xwindowsupdate
 xwith
 yahoo
