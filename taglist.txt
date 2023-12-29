@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Thursday, 28 December 2023 17:52:35 UTC
+Updated: Friday, 29 December 2023 02:01:14 UTC
 
 .bat
 .env
@@ -245,6 +245,8 @@ aim
 aip
 aipscanner
 aircall
+airpower
+airpwr
 airtable
 ais
 aispeech
@@ -427,7 +429,6 @@ architecture
 architecuture
 archive
 archivedteams
-archivematica
 archivial
 archivial-backup
 archivial-cloud-backup
@@ -450,7 +451,6 @@ arp
 array
 arrays
 art
-artefactual
 artifact
 artifactory
 artifacts
@@ -489,9 +489,7 @@ assets
 assistance
 association
 ast
-astronomy
 asv
-asymmetric
 async
 asynchronous
 atempo
@@ -502,7 +500,6 @@ atlassian
 atlassiancli
 atlassianps
 atmosphere
-atom
 atp
 atrium
 att&ck
@@ -1301,7 +1298,6 @@ comments
 commerce
 commfort
 commit
-commits
 common
 common-data-service
 commonareaphone
@@ -1318,7 +1314,6 @@ complete
 completer
 completion
 completion-manager
-completionresult
 completions
 complex
 compliance
@@ -1417,8 +1412,6 @@ continuousintegration
 control
 controller
 controlroom
-conventional
-conventional-commits
 convereter
 converged_data_management
 conversational
@@ -1494,6 +1487,7 @@ cqdpowershell
 cqhttp
 crack psmodule
 crash
+crawler
 crayon
 crc
 crc32
@@ -1508,7 +1502,6 @@ creationworkflowsimplification
 creator
 cred
 credential
-credential-dialog
 credential-file
 credential-files
 credential-manager
@@ -1596,6 +1589,7 @@ customisation
 customization
 customlocation
 customlogs
+customproviders
 cutehttpfileserver
 cvad
 cve
@@ -1670,6 +1664,7 @@ dataexplorer
 datafactory
 dataflow
 dataflowdependency
+dataframe
 datagateway
 dataintegration
 datakwaliteit
@@ -1703,7 +1698,6 @@ datto
 dattodbpool
 dattormm
 datum
-dave
 davinci
 dax
 dayinweek
@@ -2021,6 +2015,7 @@ dreary
 drift
 driftmonitor
 drive
+drive letter
 drivemap
 driver
 driverpacks
@@ -2042,7 +2037,6 @@ drush
 dry
 ds
 ds-client
-ds-utils
 dsa
 dsacls
 dsc
@@ -2060,7 +2054,6 @@ dsl
 dsm
 dsreg
 dsregcmd
-dsutils
 dtc
 dts
 dtsx
@@ -2113,6 +2106,7 @@ easy
 easy-to-use
 easylife365
 easyvista
+eaton
 ebay
 ebooks
 ebur128
@@ -2531,7 +2525,6 @@ first
 fisher
 fissionproducts
 fitbit
-fits
 five
 five9
 fix-log
@@ -2604,8 +2597,6 @@ fqdn
 frame
 framework
 france
-free
-free-ware
 freeipa
 freenas
 freesoftwarefoundation
@@ -2638,7 +2629,6 @@ full-metal-gnome
 fullclr
 fulljoin
 fullmetalgnome
-fullscreen
 fun
 function
 function_calling
@@ -2680,7 +2670,6 @@ gcp
 gcs
 gdpr
 gedit
-gem
 gemini
 geminiprotocol
 gemlog
@@ -2937,8 +2926,6 @@ hashset
 hashtable
 hasicorp
 haskell
-haste
-hastebin
 haveibeenpwned
 hba
 hbase
@@ -2974,7 +2961,6 @@ helm
 helmet
 help
 helpdesk
-helpdoc
 helper
 helper-functions
 helperfunctions
@@ -3013,7 +2999,6 @@ historyninja
 hitrust
 hive
 hivehome
-hjson
 hkcu
 hkey_classes_root
 hkey_current_config
@@ -3120,7 +3105,6 @@ iac
 iam
 iana
 iap
-ias
 ib
 ibm
 ibmc
@@ -3322,7 +3306,6 @@ inventory
 investigation
 investment
 investments
-invitation
 invocation
 invoice
 invoke
@@ -3361,7 +3344,6 @@ iperf
 ipfy.org
 iphone
 ipilot
-iplookup
 ipmaths
 ipp
 iprange
@@ -3601,6 +3583,7 @@ latestupdate
 latin
 latitude
 launcher
+layer
 layman
 layout
 lazywinadmin
@@ -3770,7 +3753,6 @@ logon
 logonright
 logonscript
 logontask
-logonto
 logonuser
 logparser
 logrotate
@@ -4299,8 +4281,8 @@ network
 network adapter configuration operating os optical sensor physical pointing portable printer processor cpu refrigaration cooling cooler removable usb sd ram dimm scsi sound audio card enclosure tape temperature touchpad touch pad touchscreen screen trackball trackpoint video graphics voltage psmodule
 network-credentials
 network-info
-networkanalytics
 networkcloud
+networkcontroller
 networkdiscovery
 networkdrives
 networkfirewall
@@ -4309,7 +4291,6 @@ networkinfo
 networking
 networkinterfaces
 networkloadbalancer
-networkpolicyserver
 networkscan
 networksecurity
 networksecuritygroup
@@ -4401,9 +4382,6 @@ npm-proxy
 npm-upgrade
 nprinting
 nprintingapi
-nps
-npslog
-npslogfile
 nql
 nrc
 nrql
@@ -4436,6 +4414,7 @@ nvd
 nvdimm
 nvdimm-n
 nvm
+nvm-window
 nxt
 nyse
 nzb
@@ -4522,7 +4501,6 @@ onedrive
 onedriveforbusiness
 oneget
 oneidentity
-onelogin
 oneloginapi
 onenote
 onestools
@@ -4670,6 +4648,7 @@ pac
 pack
 package
 package-management
+package-manager
 package-transform
 packagemanagement
 packagemanager
@@ -4743,7 +4722,6 @@ passwordstate
 passwordtool
 passwordvault
 passwordwolf
-paste
 patch
 patches
 patching
@@ -4941,6 +4919,7 @@ poshy-code-search
 poshy-colors
 poshy-coreutils-ish
 poshy-dir-nav
+poshy-ecks
 poshy-env-proxy
 poshy-env-var
 poshy-ls-isms
@@ -4957,9 +4936,9 @@ poshy-wrap-argcomplete
 poshy-wrap-brew
 poshy-wrap-curl
 poshy-wrap-dnf
+poshy-wrap-docker
 poshy-wrap-docker-compose
 poshy-wrap-dotnet
-poshy-wrap-gem
 poshy-wrap-gh
 poshy-wrap-git
 poshy-wrap-git-flow
@@ -5029,17 +5008,20 @@ powershell
 powershell-class
 powershell-cmdlets
 powershell-core
+powershell-core-releases-api
 powershell-course
 powershell-credentials
 powershell-dsc
 powershell-examples
 powershell-gallery
+powershell-github-repo
 powershell-gitlab
 powershell-graphql
 powershell-isprime
 powershell-lightning
 powershell-module
 powershell-modules
+powershell-releases-api
 powershell-remoting
 powershell-terminal
 powershell-terminal-copilot
@@ -5122,7 +5104,6 @@ prism
 prism_element
 privacy
 private
-private-key
 privatedns
 privatekey
 privatemethods
@@ -5318,12 +5299,16 @@ pscommand_convertto-nixmode
 pscommand_convertto-rgb
 pscommand_d
 pscommand_d64
+pscommand_dbl
 pscommand_dcb
 pscommand_dcdn
 pscommand_dce
+pscommand_dcin
 pscommand_dck
 pscommand_dcl
 pscommand_dclf
+pscommand_dcls
+pscommand_dclsa
 pscommand_dco
 pscommand_dcofresh
 pscommand_dcol
@@ -5343,8 +5328,43 @@ pscommand_dcupd
 pscommand_decode64
 pscommand_decodefile64
 pscommand_df64
+pscommand_dib
+pscommand_dii
+pscommand_dils
+pscommand_dipu
+pscommand_dirm
 pscommand_dirname
 pscommand_disable-proxy
+pscommand_dit
+pscommand_dk
+pscommand_dkbash
+pscommand_dkelc
+pscommand_dkex
+pscommand_dki
+pscommand_dkip
+pscommand_dklc
+pscommand_dklcid
+pscommand_dklcip
+pscommand_dkps
+pscommand_dkpsa
+pscommand_dkre
+pscommand_dkri
+pscommand_dkric
+pscommand_dkrit
+pscommand_dkritc
+pscommand_dkrmac
+pscommand_dkrmall
+pscommand_dkrmflast
+pscommand_dkrmi
+pscommand_dkrmlc
+pscommand_dkrmli
+pscommand_dkrmui
+pscommand_dksp
+pscommand_dkvp
+pscommand_dlo
+pscommand_dnc
+pscommand_dncn
+pscommand_dndcn
 pscommand_dnfc
 pscommand_dnfgi
 pscommand_dnfgl
@@ -5358,7 +5378,60 @@ pscommand_dnfr
 pscommand_dnfri
 pscommand_dnfs
 pscommand_dnfu
+pscommand_dni
+pscommand_dnls
+pscommand_dnrm
+pscommand_docker-archive-content
+pscommand_docker-build
 pscommand_docker-compose-fresh
+pscommand_docker-container-execute
+pscommand_docker-container-execute-interactively
+pscommand_docker-container-inspect
+pscommand_docker-container-list
+pscommand_docker-container-list-all
+pscommand_docker-container-logs
+pscommand_docker-container-port-open
+pscommand_docker-container-remove
+pscommand_docker-container-remove-forcefully
+pscommand_docker-container-restart
+pscommand_docker-container-run
+pscommand_docker-container-run-interactively
+pscommand_docker-container-start
+pscommand_docker-container-stop
+pscommand_docker-container-stop-all
+pscommand_docker-enter
+pscommand_docker-enter-latest-container
+pscommand_docker-execute-in-container
+pscommand_docker-image-build
+pscommand_docker-image-inspect
+pscommand_docker-image-list
+pscommand_docker-image-prune-all-forcefully
+pscommand_docker-image-push
+pscommand_docker-image-remove
+pscommand_docker-image-tag
+pscommand_docker-network-connect
+pscommand_docker-network-create
+pscommand_docker-network-disconnect
+pscommand_docker-network-inspect
+pscommand_docker-network-list
+pscommand_docker-network-remove
+pscommand_docker-pull
+pscommand_docker-remove-images
+pscommand_docker-remove-latest-container
+pscommand_docker-remove-most-recent-container
+pscommand_docker-remove-most-recent-image
+pscommand_docker-remove-stale-assets
+pscommand_docker-run-in-container-transient
+pscommand_docker-run-in-container-transient-interactively
+pscommand_docker-run-in-container-transient-interactively-with-mounted-cwd
+pscommand_docker-run-in-container-transient-with-mounted-cwd
+pscommand_docker-runtime-environment
+pscommand_docker-system-prune-all-forcefully
+pscommand_docker-top
+pscommand_docker-volume-inspect
+pscommand_docker-volume-list
+pscommand_docker-volume-prune
+pscommand_docker-volume-prune-forcefully
 pscommand_dotnet-add
 pscommand_dotnet-build
 pscommand_dotnet-new
@@ -5373,6 +5446,22 @@ pscommand_dotnet-tool-update-all-global
 pscommand_dotnet-watch
 pscommand_dotnet-watch-run
 pscommand_dotnet-watch-test
+pscommand_dpo
+pscommand_dpu
+pscommand_dr
+pscommand_drit
+pscommand_drm
+pscommand_drm!
+pscommand_drs
+pscommand_dst
+pscommand_dsta
+pscommand_dstp
+pscommand_dtop
+pscommand_dvi
+pscommand_dvls
+pscommand_dvprune
+pscommand_dxc
+pscommand_dxcit
 pscommand_e64
 pscommand_ef64
 pscommand_enable-proxy
@@ -5496,19 +5585,6 @@ pscommand_gdsth
 pscommand_gdstp
 pscommand_gdt
 pscommand_gdv
-pscommand_geca
-pscommand_gecb
-pscommand_geclup
-pscommand_gecr
-pscommand_gegi
-pscommand_geh
-pscommand_gei
-pscommand_geiall
-pscommand_gein
-pscommand_gel
-pscommand_geli
-pscommand_geo
-pscommand_geoe
 pscommand_get
 pscommand_get-aptinstalledpackages
 pscommand_get-childitemcolorfully
@@ -5520,6 +5596,12 @@ pscommand_get-childitemcolorfullyrevealinglyrecursivelywithrecency
 pscommand_get-childitemcolorfullyrevealinglywithrecency
 pscommand_get-childitemcolorfullywithrecency
 pscommand_get-childitemnamesonly
+pscommand_get-dockercontainerall
+pscommand_get-dockercontainerlatest
+pscommand_get-dockercontainerlatestipaddress
+pscommand_get-dockercontainerlatestquiet
+pscommand_get-dockercontainerrunning
+pscommand_get-dockerimage
 pscommand_get-envpathitem
 pscommand_get-envvar
 pscommand_get-envvarpathitem
@@ -5570,7 +5652,6 @@ pscommand_get-netipaddresssimple
 pscommand_get-pwshaliasdefinition
 pscommand_get-pwshfunctiondefinition
 pscommand_get-viewer
-pscommand_geun
 pscommand_gexport
 pscommand_gf
 pscommand_gfa
@@ -5847,22 +5928,6 @@ pscommand_invoke-dockercomposeupdetached
 pscommand_invoke-dockercomposeupdetachedwithbuild
 pscommand_invoke-dockercomposeupnostart
 pscommand_invoke-dockercomposeupwithbuild
-pscommand_invoke-gemcertadd
-pscommand_invoke-gemcertbuild
-pscommand_invoke-gemcertremove
-pscommand_invoke-gemcleanupno
-pscommand_invoke-gemgenerateindex
-pscommand_invoke-gemhelp
-pscommand_invoke-geminfo
-pscommand_invoke-geminfoall
-pscommand_invoke-geminstall
-pscommand_invoke-gemlist
-pscommand_invoke-gemlock
-pscommand_invoke-gemopen
-pscommand_invoke-gemopeneditor
-pscommand_invoke-gemremovebypattern
-pscommand_invoke-gemsystem
-pscommand_invoke-gemuninstall
 pscommand_invoke-git
 pscommand_invoke-gitaddinteractivelypatch
 pscommand_invoke-gitbisect
@@ -6609,7 +6674,8 @@ pscommand_python3
 pscommand_rb
 pscommand_read-dotenv
 pscommand_register-argcompleteargumentcompleter
-pscommand_remove_gem
+pscommand_remove-dockercontainerall
+pscommand_remove-dockerunusedimage
 pscommand_remove-envpathitem
 pscommand_remove-envvar
 pscommand_remove-envvarpathitem
@@ -6667,7 +6733,6 @@ pscommand_set-locationup2
 pscommand_set-locationup3
 pscommand_set-locationup4
 pscommand_set-locationup5
-pscommand_sgem
 pscommand_show-gitremote
 pscommand_show-proxy
 pscommand_shttp
@@ -6818,6 +6883,8 @@ pscommand_write-gitcommitgpgsignedbykey
 pscommand_write-gitcommithelpfullyverbose
 pscommand_write-gitcommitinteractively
 pscommand_write-gitcommitsignedoff
+pscommand_xin
+pscommand_xwith
 pscommand_yc
 pscommand_ygi
 pscommand_ygl
@@ -6972,7 +7039,57 @@ psfunction_decode64
 psfunction_decodefile64
 psfunction_dirname
 psfunction_disable-proxy
+psfunction_docker-archive-content
+psfunction_docker-build
 psfunction_docker-compose-fresh
+psfunction_docker-container-execute
+psfunction_docker-container-execute-interactively
+psfunction_docker-container-inspect
+psfunction_docker-container-list
+psfunction_docker-container-list-all
+psfunction_docker-container-logs
+psfunction_docker-container-port-open
+psfunction_docker-container-remove
+psfunction_docker-container-remove-forcefully
+psfunction_docker-container-restart
+psfunction_docker-container-run
+psfunction_docker-container-run-interactively
+psfunction_docker-container-start
+psfunction_docker-container-stop
+psfunction_docker-container-stop-all
+psfunction_docker-enter
+psfunction_docker-enter-latest-container
+psfunction_docker-execute-in-container
+psfunction_docker-image-build
+psfunction_docker-image-inspect
+psfunction_docker-image-list
+psfunction_docker-image-prune-all-forcefully
+psfunction_docker-image-push
+psfunction_docker-image-remove
+psfunction_docker-image-tag
+psfunction_docker-network-connect
+psfunction_docker-network-create
+psfunction_docker-network-disconnect
+psfunction_docker-network-inspect
+psfunction_docker-network-list
+psfunction_docker-network-remove
+psfunction_docker-pull
+psfunction_docker-remove-images
+psfunction_docker-remove-latest-container
+psfunction_docker-remove-most-recent-container
+psfunction_docker-remove-most-recent-image
+psfunction_docker-remove-stale-assets
+psfunction_docker-run-in-container-transient
+psfunction_docker-run-in-container-transient-interactively
+psfunction_docker-run-in-container-transient-interactively-with-mounted-cwd
+psfunction_docker-run-in-container-transient-with-mounted-cwd
+psfunction_docker-runtime-environment
+psfunction_docker-system-prune-all-forcefully
+psfunction_docker-top
+psfunction_docker-volume-inspect
+psfunction_docker-volume-list
+psfunction_docker-volume-prune
+psfunction_docker-volume-prune-forcefully
 psfunction_dotnet-add
 psfunction_dotnet-build
 psfunction_dotnet-new
@@ -7041,6 +7158,12 @@ psfunction_get-childitemcolorfullyrevealinglyrecursivelywithrecency
 psfunction_get-childitemcolorfullyrevealinglywithrecency
 psfunction_get-childitemcolorfullywithrecency
 psfunction_get-childitemnamesonly
+psfunction_get-dockercontainerall
+psfunction_get-dockercontainerlatest
+psfunction_get-dockercontainerlatestipaddress
+psfunction_get-dockercontainerlatestquiet
+psfunction_get-dockercontainerrunning
+psfunction_get-dockerimage
 psfunction_get-envpathitem
 psfunction_get-envvar
 psfunction_get-envvarpathitem
@@ -7182,22 +7305,6 @@ psfunction_invoke-dockercomposeupdetached
 psfunction_invoke-dockercomposeupdetachedwithbuild
 psfunction_invoke-dockercomposeupnostart
 psfunction_invoke-dockercomposeupwithbuild
-psfunction_invoke-gemcertadd
-psfunction_invoke-gemcertbuild
-psfunction_invoke-gemcertremove
-psfunction_invoke-gemcleanupno
-psfunction_invoke-gemgenerateindex
-psfunction_invoke-gemhelp
-psfunction_invoke-geminfo
-psfunction_invoke-geminfoall
-psfunction_invoke-geminstall
-psfunction_invoke-gemlist
-psfunction_invoke-gemlock
-psfunction_invoke-gemopen
-psfunction_invoke-gemopeneditor
-psfunction_invoke-gemremovebypattern
-psfunction_invoke-gemsystem
-psfunction_invoke-gemuninstall
 psfunction_invoke-git
 psfunction_invoke-gitaddinteractivelypatch
 psfunction_invoke-gitbisect
@@ -7749,6 +7856,8 @@ psfunction_pwshrc-show-proxy
 psfunction_pyserver
 psfunction_read-dotenv
 psfunction_register-argcompleteargumentcompleter
+psfunction_remove-dockercontainerall
+psfunction_remove-dockerunusedimage
 psfunction_remove-envpathitem
 psfunction_remove-envvar
 psfunction_remove-envvarpathitem
@@ -7880,6 +7989,8 @@ psfunction_write-gitcommitgpgsignedbykey
 psfunction_write-gitcommithelpfullyverbose
 psfunction_write-gitcommitinteractively
 psfunction_write-gitcommitsignedoff
+psfunction_xin
+psfunction_xwith
 psgallery
 psget
 psgitlab
@@ -7970,7 +8081,6 @@ psyaml
 pszabbix
 pubg
 public
-public-key
 public-transport
 publicapi
 publicclient
@@ -8210,7 +8320,6 @@ regression
 regular-expression
 regularexpression
 regularexpressions
-reinstall
 relational
 relay
 release
@@ -9246,7 +9355,6 @@ symboliclink
 symbols
 symbolservers
 symlink
-symmetric
 synapse
 sync
 synchronization
@@ -9317,6 +9425,7 @@ tag-requiredmodule2-2.0
 tag-requiredmodule3-2.5
 tag1
 tag2
+tagging
 tags
 tak
 taken
@@ -9608,6 +9717,7 @@ tsqlbestpractice
 tst
 tst1
 tst3
+tsv
 ttrpg
 tts
 tubedownloader
@@ -9661,6 +9771,7 @@ ud-buttonparticle
 ud-calendar
 ud-circle
 ud-component
+ud-confetti
 ud-control
 ud-dashboard
 ud-datepicker
@@ -9697,6 +9808,7 @@ ud-tagcloud
 ud-timeline
 ud-timeout
 ud-tool
+ud-toploader
 ud-trendline
 ud-typing
 ud-window
@@ -9812,7 +9924,6 @@ userright
 userrights
 userrightsassignment
 users
-userworkstations
 usg
 usps
 utc
@@ -10112,6 +10223,7 @@ websocket
 websockets
 websphere
 websphereappserver
+websphereportal
 webtest
 webtesting
 webtime
@@ -10162,6 +10274,7 @@ win32shutdown
 window
 windows
 windows  server
+windows explorer
 windows_events
 windows-10
 windows-api
@@ -10352,8 +10465,6 @@ x2
 x509
 x509cerificate
 x509cerificate2
-x509certificate
-x509certificates
 x509chain
 x64
 x86
@@ -10374,6 +10485,7 @@ xevents
 xh
 xi
 xiaomi
+xin
 xkcd
 xliff
 xlsx
@@ -10399,6 +10511,7 @@ xtrude
 xunit
 xwiki
 xwindowsupdate
+xwith
 yahoo
 yahw
 yamaha
