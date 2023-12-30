@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Saturday, 30 December 2023 02:03:14 UTC
+Updated: Saturday, 30 December 2023 09:52:35 UTC
 
 .bat
 .env
@@ -109,9 +109,7 @@ action1
 actiongroup
 actionplan
 actions
-activate
 activation
-activationscripts
 active
 active_directory
 active-directory
@@ -327,7 +325,6 @@ angular
 animate-svg
 animation
 animations
-annotated
 announcement
 announcementsservice
 anonymous
@@ -524,11 +521,13 @@ auditpolicy
 audits
 aumid
 aut
+auth
 auth0
 authenticate
 authentication
 authenticationcertificate
 authenticode
+authn
 author
 authoring
 authoringtools
@@ -537,6 +536,7 @@ authority
 authorization
 authorizationheaders
 authorize.net
+authz
 autify
 auto
 auto_cd
@@ -887,6 +887,7 @@ britannica
 britannicaknowledgesystems
 british-gas
 brk4452
+broadcast
 broadcom
 broot
 brownserve-uk
@@ -1075,7 +1076,6 @@ chef-server
 chefconf2016
 chenxizhang
 cherrypy
-cherwell
 chfs
 chi
 china
@@ -1587,6 +1587,11 @@ customdns
 customer
 customerengagement
 customers
+customeventchannel
+customeventlog
+customeventlogchannel
+customeventlogfile
+customeventlogfiles
 customevents
 custominformationservices
 customis
@@ -1629,7 +1634,6 @@ dacpackage
 dagger
 daily
 dane
-dangling
 dapr
 dare
 dark
@@ -2010,6 +2014,7 @@ downloadoffice
 downloadofficertool
 downloads
 downloadyoutubevideo
+dpa
 dpapi
 dps
 dq
@@ -2023,6 +2028,7 @@ drift
 driftmonitor
 drive
 drive letter
+drivemap
 driver
 driverpacks
 drivers
@@ -2282,6 +2288,8 @@ event
 event_id
 event_list
 event-timeline
+eventchannel
+eventchannels
 eventcollector
 eventful
 eventgrid
@@ -2289,6 +2297,9 @@ eventhub
 eventing
 eventlist
 eventlog
+eventlogchannel
+eventlogchannels
+eventlogmanifest
 eventlogs
 eventmonitor
 eventmonitoring
@@ -2462,6 +2473,7 @@ file-type
 file-type-association
 fileattributes
 fileencryption
+filelist
 filelog
 filelogger
 filemanagement
@@ -2639,6 +2651,7 @@ fullmetalgnome
 fullscreen
 fun
 function
+function_calling
 functionality
 functionalprogramming
 functions
@@ -3024,7 +3037,6 @@ hockey
 hol
 holiday
 home
-home_automation
 homebrew
 homelandsecurity
 homeschooling
@@ -3093,7 +3105,6 @@ humanly
 humor
 humorous
 hunter
-hwid
 hybrid
 hybridrunbookworker
 hyper-v
@@ -3128,6 +3139,7 @@ icinga2mssql
 icinga2plugins
 icingachecks
 icingaforwindows
+icingainventory
 icingamssql
 icingaplugins
 icingapowershell
@@ -3416,9 +3428,7 @@ japanese
 jar
 jav
 java
-javamanager
 javascript
-javaversion
 jboss
 jdbc
 jde
@@ -3684,6 +3694,7 @@ listener
 litecoin
 litedb
 literature
+live
 lldp
 lmhost
 lmhosts
@@ -3817,6 +3828,7 @@ macro
 macros
 madlib
 magazine
+magento
 magic8ball
 magicpacket
 magnet
@@ -3846,6 +3858,7 @@ manageability
 managed-identity
 manageddisks
 managedidentities
+managedidentity
 managedserviceidenity
 managedserviceidentity
 managedserviceprovider
@@ -3888,7 +3901,6 @@ marvell_semiconductor_inc
 marvellfcpowerkit
 marvellfcprovider
 marvellqlogicfcpowerkit
-mas
 mask
 mass
 masstransit
@@ -4057,6 +4069,7 @@ mitre
 mitre_att&ck
 mitrend
 mittelschule
+mixedreality
 mixer
 mkdocs
 mkpasswd
@@ -4275,6 +4288,7 @@ netcore
 netfirewallrule
 netherlands
 netmap
+netmask
 nets
 netsapiens
 netscaler
@@ -4517,7 +4531,6 @@ onelogin
 oneloginapi
 onenote
 onestools
-onesubscription
 onetimesecret
 oneviewglobaldashboard
 online
@@ -4587,7 +4600,6 @@ opus
 oracle
 oraclecloudinfrastructure
 oraculum
-orbital
 orchestration
 orchestrator
 order
@@ -4976,8 +4988,10 @@ poshy-wrap-ruby
 poshy-wrap-systemctl
 poshy-wrap-terraform
 poshy-wrap-terragrunt
+poshy-wrap-tmux
 poshy-wrap-vagrant
 poshy-wrap-vault
+poshy-wrap-vscode
 poshy-wrap-wget
 poshy-wrap-wt
 poshy-wrap-yum
@@ -5044,6 +5058,7 @@ powershell.module.invokewinget
 powershell.one
 powershell.persistentpathstack
 powershell7
+powershellai
 powershellazuresql
 powershellconferenceeurope
 powershellcore
@@ -5073,9 +5088,7 @@ ppdm
 ppk
 pposh
 pps
-ppt
 pptp
-pptx
 pq
 pranks
 predicate
@@ -5084,6 +5097,7 @@ predictive
 predictive-text
 predictor
 preferences
+prefix
 preparead
 preparealldomains
 prepareschema
@@ -6379,6 +6393,13 @@ pscommand_invoke-terragruntplan
 pscommand_invoke-terragruntplanall
 pscommand_invoke-terragruntvalidate
 pscommand_invoke-terragruntvalidateall
+pscommand_invoke-tmuxattachforterminal
+pscommand_invoke-tmuxattachforterminaldetachingothers
+pscommand_invoke-tmuxeditconfig
+pscommand_invoke-tmuxkillserver
+pscommand_invoke-tmuxkillsessionforterminal
+pscommand_invoke-tmuxlistsessions
+pscommand_invoke-tmuxnewsessionfromsource
 pscommand_invoke-vagrantdestroy
 pscommand_invoke-vagranthalt
 pscommand_invoke-vagranthostmanager
@@ -6406,6 +6427,20 @@ pscommand_invoke-vaultserver
 pscommand_invoke-vaultstatus
 pscommand_invoke-vaultversion
 pscommand_invoke-vaultwrite
+pscommand_invoke-vscodeadd
+pscommand_invoke-vscodediff
+pscommand_invoke-vscodeforpwd
+pscommand_invoke-vscodegoto
+pscommand_invoke-vscodeinstallextension
+pscommand_invoke-vscodenewwindow
+pscommand_invoke-vscodereusewindow
+pscommand_invoke-vscodeuninstallextension
+pscommand_invoke-vscodeverbose
+pscommand_invoke-vscodewithdisableextensions
+pscommand_invoke-vscodewithextensionsdir
+pscommand_invoke-vscodewithlog
+pscommand_invoke-vscodewithuserdatadir
+pscommand_invoke-vscodewithwait
 pscommand_invoke-yumcleanall
 pscommand_invoke-yumgroupinstall
 pscommand_invoke-yumgroupremove
@@ -6806,6 +6841,8 @@ pscommand_syspip
 pscommand_syspip_package_location
 pscommand_syspip3
 pscommand_syspip3_package_location
+pscommand_ta
+pscommand_tad
 pscommand_test-command
 pscommand_test-d
 pscommand_test-elevation
@@ -6833,6 +6870,14 @@ pscommand_tgp
 pscommand_tgpa
 pscommand_tgv
 pscommand_tgva
+pscommand_tkss
+pscommand_tksv
+pscommand_tl
+pscommand_tmuxconf
+pscommand_ts
+pscommand_txa
+pscommand_txl
+pscommand_txn
 pscommand_universalarchive
 pscommand_update-gitbranchbasefrombranchmain
 pscommand_update-gitbranchbasefrommain
@@ -6893,7 +6938,21 @@ pscommand_vp
 pscommand_vr
 pscommand_vrl
 pscommand_vs
+pscommand_vsc
+pscommand_vsca
+pscommand_vscd
+pscommand_vscde
+pscommand_vsced
+pscommand_vscg
+pscommand_vscie
+pscommand_vscl
+pscommand_vscn
 pscommand_vscp
+pscommand_vscr
+pscommand_vscu
+pscommand_vscue
+pscommand_vscv
+pscommand_vscw
 pscommand_vsl
 pscommand_vssh
 pscommand_vst
@@ -7752,6 +7811,13 @@ psfunction_invoke-terragruntplan
 psfunction_invoke-terragruntplanall
 psfunction_invoke-terragruntvalidate
 psfunction_invoke-terragruntvalidateall
+psfunction_invoke-tmuxattachforterminal
+psfunction_invoke-tmuxattachforterminaldetachingothers
+psfunction_invoke-tmuxeditconfig
+psfunction_invoke-tmuxkillserver
+psfunction_invoke-tmuxkillsessionforterminal
+psfunction_invoke-tmuxlistsessions
+psfunction_invoke-tmuxnewsessionfromsource
 psfunction_invoke-vagrantdestroy
 psfunction_invoke-vagranthalt
 psfunction_invoke-vagranthostmanager
@@ -7779,6 +7845,20 @@ psfunction_invoke-vaultserver
 psfunction_invoke-vaultstatus
 psfunction_invoke-vaultversion
 psfunction_invoke-vaultwrite
+psfunction_invoke-vscodeadd
+psfunction_invoke-vscodediff
+psfunction_invoke-vscodeforpwd
+psfunction_invoke-vscodegoto
+psfunction_invoke-vscodeinstallextension
+psfunction_invoke-vscodenewwindow
+psfunction_invoke-vscodereusewindow
+psfunction_invoke-vscodeuninstallextension
+psfunction_invoke-vscodeverbose
+psfunction_invoke-vscodewithdisableextensions
+psfunction_invoke-vscodewithextensionsdir
+psfunction_invoke-vscodewithlog
+psfunction_invoke-vscodewithuserdatadir
+psfunction_invoke-vscodewithwait
 psfunction_invoke-yumcleanall
 psfunction_invoke-yumgroupinstall
 psfunction_invoke-yumgroupremove
@@ -8438,6 +8518,7 @@ requiredmodules
 requirements
 res
 rescan
+rescuetime
 reservation
 reservations
 reset
@@ -8526,6 +8607,8 @@ roca
 rock
 rocket
 rocketcyber
+roco
+rocolatey
 role
 roles
 rollingfile
@@ -9015,7 +9098,6 @@ slugify
 sm
 sma
 small_web
-smart_home
 smartarray
 smartarraycmdlets
 smarthome
@@ -9152,6 +9234,7 @@ splat
 splatting
 split
 splunk
+spn
 spo
 spooler
 sport
@@ -9493,6 +9576,7 @@ taskscheduler
 taxjar
 taxonomy
 tcp
+tcp/ip
 tcpip
 tcpport
 tcprjmgmt
@@ -9561,6 +9645,7 @@ test-psremoting
 test-samcmapplicationexists
 test-samcmpackageexists
 test-userisadministrator
+test-xml
 test123
 testaccount
 testautomation
@@ -9646,6 +9731,7 @@ tls12
 tlsa
 tlsprotocol
 tlsrpt
+tmux
 to-do
 toast
 toasts
@@ -9731,6 +9817,7 @@ trendmicro
 trevor
 trevorsullivan
 triangle
+tribeloo
 trick
 tricks
 trigger
@@ -9849,7 +9936,6 @@ ud-tagcloud
 ud-timeline
 ud-timeout
 ud-tool
-ud-toploader
 ud-trendline
 ud-typing
 ud-window
@@ -9866,7 +9952,6 @@ uefi
 uem
 ui
 ui/ux
-ui7
 uk
 ul
 ulid
@@ -10041,14 +10126,12 @@ vencord
 vendor
 venue
 venvlink
-vera
 veracrypt
 verbose psmodule
 verification
 verify
 version
 versioning
-versionmanager
 versionnumber
 vertical
 vester
@@ -10164,6 +10247,7 @@ vsan
 vsan+
 vscode
 vsdevcmd
+vsdevshell
 vsenvironment
 vsm
 vso
@@ -10229,13 +10313,13 @@ weather
 weaviate
 weaviatenet
 web
+web-search
 web.config
 webadministration
 webapi
 webapp
 webapplicationproxy
 webapps
-webcamera
 webcmdlets
 webdav
 webdeploy
@@ -10346,13 +10430,13 @@ windowscredentialsmanager
 windowsdataprotectionapi
 windowsdefender
 windowsdesktopsearch
+windowsevent
 windowseventlog
 windowsform
 windowsforms
 windowsindex
 windowsinstaller
 windowsinternaldatabase
-windowsinternals
 windowsiotservices
 windowsiso
 windowsmanagementframework
@@ -10432,7 +10516,9 @@ workflows
 workingdays
 workinghours
 workingtime
+workload
 workload-automation
+workloadidentity
 workloads
 workpoint
 workrequests
@@ -10534,6 +10620,7 @@ xml-rpc
 xml-transform
 xmla
 xmlrpc
+xmlutils
 xoauth2
 xor
 xpath
@@ -10587,7 +10674,6 @@ zoomapi
 zoommeeting
 zoxide
 zsh
-zuora
 zvm
 zvml
 zvmlinux
