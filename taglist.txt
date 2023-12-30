@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Saturday, 30 December 2023 09:52:35 UTC
+Updated: Saturday, 30 December 2023 17:52:27 UTC
 
 .bat
 .env
@@ -36,7 +36,6 @@ Updated: Saturday, 30 December 2023 09:52:35 UTC
 2016
 2018
 2019
-21vianet
 24-bit
 2fa
 300
@@ -109,7 +108,9 @@ action1
 actiongroup
 actionplan
 actions
+activate
 activation
+activationscripts
 active
 active_directory
 active-directory
@@ -241,7 +242,6 @@ aidocument
 ailanguage
 aim
 aip
-aipscanner
 aircall
 airpower
 airpwr
@@ -259,7 +259,6 @@ alac
 alarm
 alb
 albums
-alc
 alero
 alert
 alerting
@@ -325,6 +324,7 @@ angular
 animate-svg
 animation
 animations
+annotated
 announcement
 announcementsservice
 anonymous
@@ -343,7 +343,6 @@ anypoint
 anywhere
 aovpn psmodule
 apache
-apachekafka
 apexlegends
 apexone
 api
@@ -434,7 +433,6 @@ archlinux
 arcresourcebridge
 arcus
 area
-arg
 argcomplete
 argument
 argumentcompleter
@@ -476,8 +474,6 @@ aspnet
 aspnet_regiis
 asr
 assembleenationale
-assembly
-assemblyloadcontext
 assemblymeta
 assert
 assertion
@@ -865,7 +861,6 @@ botservice
 bouncer
 boundaries
 boundarygroups
-bounty
 box
 bpmn
 brainy
@@ -901,7 +896,6 @@ bson
 btdf
 btm
 budget
-bugbounty
 bugzilla
 build
 build-log
@@ -933,7 +927,6 @@ businessrulesengine
 businesstime
 bxor
 bydesign
-byexample
 bynarypsmodule
 byovd
 byte
@@ -1076,6 +1069,7 @@ chef-server
 chefconf2016
 chenxizhang
 cherrypy
+cherwell
 chfs
 chi
 china
@@ -1319,7 +1313,6 @@ completion
 completion-manager
 completionresult
 completions
-complex
 compliance
 compliant
 component
@@ -1389,7 +1382,6 @@ console
 consoleguitools
 consolemenu
 consolemusic
-consumer
 consumption
 contact
 contacts
@@ -1435,7 +1427,6 @@ convertfrom
 convertfrom-yaml
 convertto
 convertto-excel
-convertto-hashtable
 convertto-yaml
 converttodocx
 converttohtml
@@ -1634,6 +1625,7 @@ dacpackage
 dagger
 daily
 dane
+dangling
 dapr
 dare
 dark
@@ -1830,7 +1822,6 @@ deviceupdate
 devolutions
 devops
 devops psmodule
-devsecninja
 devsecops
 devspaces
 devtestlabs
@@ -1848,7 +1839,6 @@ diagrams
 dialog
 dice
 diceware
-dicom
 dictionary
 diff
 difference
@@ -2330,7 +2320,6 @@ exchange2010
 exchange2013
 exchange2016
 exchangecluster
-exchangehybrid
 exchangemigration
 exchangeon-premise
 exchangeon-premises
@@ -2396,7 +2385,6 @@ extensions
 external
 externalip
 extract
-extraction
 extractor
 extreme-networks
 eztheme
@@ -2607,7 +2595,6 @@ fortune
 forum
 forwardcompatibility
 forwardedevents
-foudil
 fox
 foxpro
 fqdn
@@ -2799,6 +2786,7 @@ globalclipboard
 globaldashboard
 globalentry
 globbing
+glpi
 gmail
 gmap
 gmaps
@@ -2924,7 +2912,6 @@ hanaon
 handle
 handler
 hangouts
-hannelstoolbox
 hanwha
 har
 hard
@@ -2936,7 +2923,6 @@ hardlink
 hardmatch
 hardware
 harperdb
-hartokens
 harvest
 harvestforecast
 hash
@@ -2980,7 +2966,6 @@ helloid
 helloposhgallery
 helloworld
 helm
-helmet
 help
 helpdesk
 helpdoc
@@ -3018,7 +3003,6 @@ hipchat
 hiragana
 histogram
 history
-historyninja
 hitrust
 hive
 hivehome
@@ -3037,6 +3021,7 @@ hockey
 hol
 holiday
 home
+home_automation
 homebrew
 homelandsecurity
 homeschooling
@@ -3105,6 +3090,7 @@ humanly
 humor
 humorous
 hunter
+hwid
 hybrid
 hybridrunbookworker
 hyper-v
@@ -3237,7 +3223,6 @@ indicator
 inedo
 inetfwrule
 inetum
-infinity
 influx
 influxdb
 info
@@ -3318,6 +3303,7 @@ intersight
 intersightcmdlets
 interval
 interval-timer
+intigua
 intranet
 intrusion
 intuitive
@@ -3380,6 +3366,7 @@ ipynb
 ir
 irc
 irkit
+irl
 irregular
 isadmin
 isbn
@@ -3428,7 +3415,9 @@ japanese
 jar
 jav
 java
+javamanager
 javascript
+javaversion
 jboss
 jdbc
 jde
@@ -3538,7 +3527,6 @@ kintone
 klantcontroles
 kms
 knapsack
-knetps
 knob
 knowbe4
 knowledge
@@ -3560,7 +3548,6 @@ kubernetes
 kubernetesconfiguration
 kubespray
 kudu
-kurukuru
 kusto
 kvm
 kvp
@@ -3624,7 +3611,6 @@ learning
 learning-powershell
 learningpowershell
 learnpowershell
-lease
 leftjoin
 legacy
 legacyad
@@ -3901,6 +3887,7 @@ marvell_semiconductor_inc
 marvellfcpowerkit
 marvellfcprovider
 marvellqlogicfcpowerkit
+mas
 mask
 mass
 masstransit
@@ -3979,8 +3966,6 @@ mercurial
 merge
 mermaid
 message
-messagebox
-messageoftheday
 messages
 messaging
 messenger
@@ -4099,6 +4084,7 @@ mof
 moldova
 moment
 monaco
+monday
 mondoo
 money
 moneyforward
@@ -4165,7 +4151,6 @@ msi psmodule
 msiexec
 msil
 msix
-mslab
 msmq
 msol
 msoms
@@ -4215,7 +4200,6 @@ musiccast
 mustache
 mutation
 mute
-mutex
 mva
 mvn
 mvp
@@ -4295,7 +4279,6 @@ netscaler
 netscape
 netsec
 netsh
-netspell
 netstat
 netsuite
 network
@@ -4362,7 +4345,6 @@ nios
 nist
 nitro
 nitrox
-njclipsh
 nl
 nla
 nlm
@@ -4408,7 +4390,6 @@ nprintingapi
 nps
 npslog
 npslogfile
-nql
 nrc
 nrql
 ns
@@ -4432,7 +4413,6 @@ number
 numlock
 nunit
 nupkg
-nuspec
 nutanix
 nuwave
 nva
@@ -4600,6 +4580,7 @@ opus
 oracle
 oraclecloudinfrastructure
 oraculum
+orbital
 orchestration
 orchestrator
 order
@@ -4648,7 +4629,6 @@ ouraring
 out-consolegridview
 out-default
 out-gridview
-out-json
 outerjoin
 outertext
 outline
@@ -4757,7 +4737,6 @@ patternmatching
 pause
 pax8
 payload
-paylocity
 paypal
 pays
 pbench
@@ -5088,7 +5067,9 @@ ppdm
 ppk
 pposh
 pps
+ppt
 pptp
+pptx
 pq
 pranks
 predicate
@@ -5147,7 +5128,6 @@ processmitigation
 processor
 procmap
 procs
-producer
 product
 productid
 productivity
@@ -5179,7 +5159,6 @@ proofpoint
 properties
 property
 property-list
-prose
 protect
 protect-blob
 protect-string
@@ -8294,7 +8273,6 @@ queries
 query
 queue
 queues
-queuing
 quickaccess
 quickbase
 quickbooks
@@ -8454,7 +8432,6 @@ release
 releasedefinition
 releasehealth
 releasemanagement
-releasenotes
 relevance
 relic
 reload
@@ -8518,7 +8495,6 @@ requiredmodules
 requirements
 res
 rescan
-rescuetime
 reservation
 reservations
 reset
@@ -8534,7 +8510,6 @@ resource_monitor
 resource_watcher
 resourceaccount
 resourcecontroller
-resourcegraph
 resourcegroup
 resourceid
 resourcekit
@@ -8576,7 +8551,6 @@ rfc4266
 rfc4291
 rfc5952
 rfc826
-rfc9116
 rg
 rgb
 rhapsody
@@ -8610,7 +8584,6 @@ rocketcyber
 roco
 rocolatey
 role
-roles
 rollingfile
 romaji
 ropc
@@ -8629,7 +8602,6 @@ routine
 rover
 royalapps
 royaldocument
-royalserver
 royalts
 royaltsx
 rpa
@@ -8848,8 +8820,6 @@ security
 security-awareness-training
 security-policy
 security-score
-security-txt
-security.txt
 securityassertionmarkuplanguage
 securitycenter
 securitycompliancecenter
@@ -8860,7 +8830,6 @@ securityoptions
 securitypolicydsc
 securityroles
 securityscopes
-securitytxt
 sed
 seed
 seek
@@ -9098,6 +9067,7 @@ slugify
 sm
 sma
 small_web
+smart_home
 smartarray
 smartarraycmdlets
 smarthome
@@ -9223,7 +9193,6 @@ speed
 speedometer
 speedtest
 speedtester
-spellcheck
 spelling
 spf
 spi
@@ -9323,7 +9292,6 @@ stackhci
 stackmonitoring
 stackoverflow
 staffhub
-staging
 stale
 stan
 stanc
@@ -9456,7 +9424,6 @@ suppress
 supress-reboot
 surround
 survey
-surveymonkey
 sus
 sushi
 suspensive
@@ -9640,11 +9607,9 @@ test-automation
 test-dscconfiguration
 test-internetconnection
 test-modulepath
-test-osplatform
 test-psremoting
 test-samcmapplicationexists
 test-samcmpackageexists
-test-userisadministrator
 test-xml
 test123
 testaccount
@@ -9936,6 +9901,7 @@ ud-tagcloud
 ud-timeline
 ud-timeout
 ud-tool
+ud-toploader
 ud-trendline
 ud-typing
 ud-window
@@ -9952,6 +9918,7 @@ uefi
 uem
 ui
 ui/ux
+ui7
 uk
 ul
 ulid
@@ -10126,12 +10093,14 @@ vencord
 vendor
 venue
 venvlink
+vera
 veracrypt
 verbose psmodule
 verification
 verify
 version
 versioning
+versionmanager
 versionnumber
 vertical
 vester
@@ -10192,7 +10161,6 @@ vmgroup
 vmhost
 vmhostgroup
 vmhostnetworkadapater
-vmmanagement
 vmnic
 vmrole
 vmss
@@ -10320,6 +10288,7 @@ webapi
 webapp
 webapplicationproxy
 webapps
+webcamera
 webcmdlets
 webdav
 webdeploy
@@ -10363,7 +10332,6 @@ wer
 wget
 what3words
 whatismyip
-whatsnew
 whatsupgold
 whd
 where
@@ -10437,6 +10405,7 @@ windowsforms
 windowsindex
 windowsinstaller
 windowsinternaldatabase
+windowsinternals
 windowsiotservices
 windowsiso
 windowsmanagementframework
@@ -10463,7 +10432,6 @@ windowstimezone
 windowsupdate
 windowsupdates
 windowsvirtualdesktop
-winform
 winforms
 winget
 wingetbridge
@@ -10668,12 +10636,12 @@ zipfile-transform
 zisson
 zoho
 zone
-zookeeper
 zoom
 zoomapi
 zoommeeting
 zoxide
 zsh
+zuora
 zvm
 zvml
 zvmlinux
