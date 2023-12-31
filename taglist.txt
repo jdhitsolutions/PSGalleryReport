@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Sunday, 31 December 2023 09:52:40 UTC
+Updated: Sunday, 31 December 2023 17:52:34 UTC
 
 .bat
 .env
@@ -36,7 +36,6 @@ Updated: Sunday, 31 December 2023 09:52:40 UTC
 2016
 2018
 2019
-21vianet
 24-bit
 2fa
 300
@@ -125,7 +124,6 @@ activedirectoryfederationservices
 activedirectry-html
 activeefficiency
 activehours
-activeresponse
 activesession
 activiti
 activity
@@ -144,6 +142,7 @@ adal
 adapter
 adapter-control
 adapters
+adaptivecards
 adb
 adc
 adcs
@@ -268,13 +267,13 @@ alertmail
 alertmanagement
 alerts
 alertsmanagement
+alfresco
 algorithm
 algorithms
 alias
 alias-hint
 alias-tips
 aliases
-aliens
 all
 alletra
 alloydb
@@ -344,6 +343,7 @@ anypoint
 anywhere
 aovpn psmodule
 apache
+apachekafka
 apexlegends
 apexone
 api
@@ -474,6 +474,7 @@ asp
 asp.net
 aspnet
 aspnet_regiis
+asr
 assembleenationale
 assembly
 assemblyloadcontext
@@ -807,6 +808,7 @@ bitbucketpipelines
 bitcoin
 bitlocker
 bitwarden
+bitwig
 bitwise
 biztalk
 biztalkalm
@@ -917,7 +919,6 @@ bulletin
 bullhorn
 bundle
 bup
-burnttoast
 burpsuite
 bus
 business
@@ -929,6 +930,7 @@ businessrulesengine
 businesstime
 bxor
 bydesign
+byexample
 bynarypsmodule
 byovd
 byte
@@ -1001,7 +1003,6 @@ cd+
 cdable_vars
 cdata
 cdb
-cdi
 cdm
 cdn
 cdp
@@ -1178,6 +1179,7 @@ cloud-backup
 cloud-computing
 cloud-init
 cloud-iq
+cloudant
 cloudbees
 cloudberry
 cloudblue
@@ -1314,6 +1316,7 @@ completion
 completion-manager
 completionresult
 completions
+complex
 compliance
 compliant
 component
@@ -1383,6 +1386,7 @@ console
 consoleguitools
 consolemenu
 consolemusic
+consumer
 consumption
 contact
 contacts
@@ -1393,7 +1397,6 @@ containerinstance
 containerinstances
 containerregistry
 containers
-containment
 contentprep
 context
 continious-deploy
@@ -1421,6 +1424,7 @@ conversion
 convert
 convert-dtexceptiontomessage
 convert-movietogif
+convert-sid
 convert-windowsimage
 converter
 convertfrom
@@ -2323,7 +2327,6 @@ exchange2010
 exchange2013
 exchange2016
 exchangecluster
-exchangehybrid
 exchangemigration
 exchangeon-premise
 exchangeon-premises
@@ -2780,7 +2783,6 @@ githubactions
 githubcli
 githubtools
 githubworkflow
-gitignore
 gitlab
 gitlab-runner
 gitlab4
@@ -2871,7 +2873,6 @@ groupmembership
 grouppolicy
 groups
 grouvee
-growlnotify
 grr
 gsuite
 gtx1080ti
@@ -3035,7 +3036,6 @@ homebrew
 homelandsecurity
 homeschooling
 hon
-hooking
 horizon
 horizontal
 hornbill
@@ -3398,6 +3398,7 @@ issues
 isvalidemail
 isvalidip
 it
+it-support
 it-tool
 it-tools
 italic-text
@@ -3499,7 +3500,6 @@ katakana
 kb
 kbarticle
 kdbx
-kdialog
 keenetic
 keepachangelog
 keepass
@@ -3536,6 +3536,7 @@ kintone
 klantcontroles
 kms
 knapsack
+knetps
 knob
 knowbe4
 knowledge
@@ -3551,6 +3552,8 @@ kschemaplugin
 kubclt
 kube
 kubectl
+kubectx
+kubens
 kubernetes
 kubernetesconfiguration
 kubespray
@@ -3594,7 +3597,6 @@ last.fm
 lastfm
 lastlogon
 lastpass
-latency
 latestupdate
 latin
 latitude
@@ -3957,7 +3959,6 @@ meetup.com
 meewind
 megabyte
 melamed
-meltdown
 mem
 member
 members
@@ -4095,6 +4096,7 @@ mof
 moldova
 moment
 monaco
+monday
 mondoo
 money
 moneyforward
@@ -4182,6 +4184,7 @@ mssqlserver
 msteams
 mstest
 mstsc
+msu
 msvc
 msword
 mta-sts
@@ -4389,10 +4392,8 @@ notes
 notification
 notificationhubs
 notifications
-notifu
 notify
 notify-send
-notify-send-wsl
 nova
 npgsql
 npm
@@ -4505,6 +4506,7 @@ ole
 oledb
 omaha
 ome
+omnisphere
 omnistack
 oms
 omsagent
@@ -4702,6 +4704,7 @@ parallel-processing
 parameter
 parameterinfo
 parameters
+parclient
 parititions
 parool
 parquet
@@ -4947,7 +4950,6 @@ poshy-ls-isms
 poshy-lucidity
 poshy-multimedia
 poshy-net
-poshy-notify-send
 poshy-sh-isms
 poshy-sshconfig
 poshy-viewer-finder
@@ -4983,7 +4985,6 @@ poshy-wrap-ruby
 poshy-wrap-systemctl
 poshy-wrap-terraform
 poshy-wrap-terragrunt
-poshy-wrap-tmux
 poshy-wrap-vagrant
 poshy-wrap-vault
 poshy-wrap-vscode
@@ -5041,7 +5042,6 @@ powershell-github-repo
 powershell-gitlab
 powershell-graphql
 powershell-isprime
-powershell-lightning
 powershell-module
 powershell-modules
 powershell-releases-api
@@ -5144,6 +5144,7 @@ processmitigation
 processor
 procmap
 procs
+producer
 product
 productid
 productivity
@@ -5175,6 +5176,7 @@ proofpoint
 properties
 property
 property-list
+prose
 protect
 protect-blob
 protect-string
@@ -5194,7 +5196,6 @@ prowl-notifications
 prowlapp
 proxmox
 proxmoxve
-proxsys
 proxy
 proxyfunction
 proxyfunctions
@@ -5224,6 +5225,7 @@ psake
 psappdeploytoolkit
 psat
 psazd
+psbackup
 psbbix
 psbicep
 psclient
@@ -6385,13 +6387,6 @@ pscommand_invoke-terragruntplan
 pscommand_invoke-terragruntplanall
 pscommand_invoke-terragruntvalidate
 pscommand_invoke-terragruntvalidateall
-pscommand_invoke-tmuxattachforterminal
-pscommand_invoke-tmuxattachforterminaldetachingothers
-pscommand_invoke-tmuxeditconfig
-pscommand_invoke-tmuxkillserver
-pscommand_invoke-tmuxkillsessionforterminal
-pscommand_invoke-tmuxlistsessions
-pscommand_invoke-tmuxnewsessionfromsource
 pscommand_invoke-vagrantdestroy
 pscommand_invoke-vagranthalt
 pscommand_invoke-vagranthostmanager
@@ -6673,7 +6668,6 @@ pscommand_nmap_ping_through_firewall
 pscommand_nmap_slow
 pscommand_nmap_traceroute
 pscommand_nmap_web_safe_osscan
-pscommand_notify-send-fallback
 pscommand_npm-disable-proxy
 pscommand_npm-enable-proxy
 pscommand_npm-show-proxy
@@ -6833,8 +6827,6 @@ pscommand_syspip
 pscommand_syspip_package_location
 pscommand_syspip3
 pscommand_syspip3_package_location
-pscommand_ta
-pscommand_tad
 pscommand_test-command
 pscommand_test-d
 pscommand_test-elevation
@@ -6862,14 +6854,6 @@ pscommand_tgp
 pscommand_tgpa
 pscommand_tgv
 pscommand_tgva
-pscommand_tkss
-pscommand_tksv
-pscommand_tl
-pscommand_tmuxconf
-pscommand_ts
-pscommand_txa
-pscommand_txl
-pscommand_txn
 pscommand_universalarchive
 pscommand_update-gitbranchbasefrombranchmain
 pscommand_update-gitbranchbasefrommain
@@ -7800,13 +7784,6 @@ psfunction_invoke-terragruntplan
 psfunction_invoke-terragruntplanall
 psfunction_invoke-terragruntvalidate
 psfunction_invoke-terragruntvalidateall
-psfunction_invoke-tmuxattachforterminal
-psfunction_invoke-tmuxattachforterminaldetachingothers
-psfunction_invoke-tmuxeditconfig
-psfunction_invoke-tmuxkillserver
-psfunction_invoke-tmuxkillsessionforterminal
-psfunction_invoke-tmuxlistsessions
-psfunction_invoke-tmuxnewsessionfromsource
 psfunction_invoke-vagrantdestroy
 psfunction_invoke-vagranthalt
 psfunction_invoke-vagranthostmanager
@@ -7942,7 +7919,6 @@ psfunction_nmap_ping_through_firewall
 psfunction_nmap_slow
 psfunction_nmap_traceroute
 psfunction_nmap_web_safe_osscan
-psfunction_notify-send-fallback
 psfunction_npm-disable-proxy
 psfunction_npm-enable-proxy
 psfunction_npm-show-proxy
@@ -8305,9 +8281,7 @@ radarr
 radio
 raidcontrollercmdlets
 rainbow
-raisers
 raisersedge
-raj
 ram
 ram-it
 random
@@ -8851,6 +8825,8 @@ seekatar
 seeshell
 select
 select-item
+select-kubecontext
+select-kubenamespace
 select-string
 selection
 selectxmlinfo
@@ -9102,6 +9078,9 @@ smorgasbord
 sms
 smtp
 smtpaddressupdate psmodule
+smtpauth
+smtpoauth
+smtpsasl
 smtpsecure
 snap
 snapchat
@@ -9195,8 +9174,6 @@ specify
 spectre
 spectrumconnect
 spectrumcontrolbase
-speculation
-speculationcontrol
 speech
 speed
 speedometer
@@ -9447,6 +9424,7 @@ svt
 swagger
 swamid
 swarm
+swedish
 swimlane
 swis
 switch
@@ -9603,7 +9581,6 @@ terminal
 terminal-interface
 terminal-services
 terminal.gui
-terminalnotifier
 terminalvelocity
 termset
 terraform
@@ -9709,7 +9686,6 @@ tls12
 tlsa
 tlsprotocol
 tlsrpt
-tmux
 to-do
 toast
 toasts
@@ -10238,6 +10214,7 @@ vsphere+
 vss
 vssetup
 vsshell
+vst
 vsteambuilder
 vsteams
 vstest
@@ -10294,7 +10271,6 @@ weather
 weaviate
 weaviatenet
 web
-web-search
 web.config
 webadministration
 webapi
@@ -10531,6 +10507,7 @@ write-color
 write-colour
 write-debug
 write-host
+write-information
 write-log
 write-loganalytics
 write-message
@@ -10650,6 +10627,7 @@ zipfile-transform
 zisson
 zoho
 zone
+zookeeper
 zoom
 zoomapi
 zoommeeting
