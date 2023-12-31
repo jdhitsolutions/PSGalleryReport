@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Sunday, 31 December 2023 02:07:29 UTC
+Updated: Sunday, 31 December 2023 09:52:40 UTC
 
 .bat
 .env
@@ -144,7 +144,6 @@ adal
 adapter
 adapter-control
 adapters
-adaptivecards
 adb
 adc
 adcs
@@ -269,7 +268,6 @@ alertmail
 alertmanagement
 alerts
 alertsmanagement
-alfresco
 algorithm
 algorithms
 alias
@@ -346,7 +344,6 @@ anypoint
 anywhere
 aovpn psmodule
 apache
-apachekafka
 apexlegends
 apexone
 api
@@ -477,7 +474,6 @@ asp
 asp.net
 aspnet
 aspnet_regiis
-asr
 assembleenationale
 assembly
 assemblyloadcontext
@@ -602,6 +598,7 @@ awscli
 awspricelist
 axapta
 axinom
+axis
 axium
 az
 az-cli
@@ -810,7 +807,6 @@ bitbucketpipelines
 bitcoin
 bitlocker
 bitwarden
-bitwig
 bitwise
 biztalk
 biztalkalm
@@ -867,7 +863,6 @@ botservice
 bouncer
 boundaries
 boundarygroups
-bounty
 box
 bpmn
 brainy
@@ -903,7 +898,6 @@ bson
 btdf
 btm
 budget
-bugbounty
 bugzilla
 build
 build-log
@@ -935,7 +929,6 @@ businessrulesengine
 businesstime
 bxor
 bydesign
-byexample
 bynarypsmodule
 byovd
 byte
@@ -1036,6 +1029,7 @@ certera
 certes
 certificate
 certificateauthority
+certificatechain
 certificatemanager
 certificatepolicy
 certificates
@@ -1184,7 +1178,6 @@ cloud-backup
 cloud-computing
 cloud-init
 cloud-iq
-cloudant
 cloudbees
 cloudberry
 cloudblue
@@ -1321,7 +1314,6 @@ completion
 completion-manager
 completionresult
 completions
-complex
 compliance
 compliant
 component
@@ -1391,7 +1383,6 @@ console
 consoleguitools
 consolemenu
 consolemusic
-consumer
 consumption
 contact
 contacts
@@ -1430,7 +1421,6 @@ conversion
 convert
 convert-dtexceptiontomessage
 convert-movietogif
-convert-sid
 convert-windowsimage
 converter
 convertfrom
@@ -1671,6 +1661,7 @@ datacollectionrule
 dataconduit
 dataconnectivity
 datadog
+dataexchange
 dataexplorer
 datafactory
 dataflow
@@ -2158,6 +2149,7 @@ elevate
 elevated
 elevatedconsole
 elevatedmode
+elevation
 elgato
 elk
 elm
@@ -2560,6 +2552,7 @@ flexdesk
 flickr
 flowchart
 flowy
+fluidrelay
 flyway
 fmg
 focus
@@ -2607,7 +2600,6 @@ fortune
 forum
 forwardcompatibility
 forwardedevents
-foudil
 fox
 foxpro
 fqdn
@@ -2886,6 +2878,7 @@ gtx1080ti
 guardedfabric
 guardicore
 gubbins
+guest
 guestconfiguration
 guests
 gui
@@ -2925,6 +2918,7 @@ handle
 handler
 hangouts
 hannelstoolbox
+hanwha
 har
 hard
 hardblock
@@ -3041,6 +3035,7 @@ homebrew
 homelandsecurity
 homeschooling
 hon
+hooking
 horizon
 horizontal
 hornbill
@@ -3316,6 +3311,8 @@ internetconnection
 internetexplorer
 intersight
 intersightcmdlets
+interval
+interval-timer
 intigua
 intranet
 intrusion
@@ -3401,7 +3398,6 @@ issues
 isvalidemail
 isvalidip
 it
-it-support
 it-tool
 it-tools
 italic-text
@@ -3540,7 +3536,6 @@ kintone
 klantcontroles
 kms
 knapsack
-knetps
 knob
 knowbe4
 knowledge
@@ -3556,8 +3551,6 @@ kschemaplugin
 kubclt
 kube
 kubectl
-kubectx
-kubens
 kubernetes
 kubernetesconfiguration
 kubespray
@@ -3565,6 +3558,7 @@ kudu
 kurukuru
 kusto
 kvm
+kvp
 l1tf
 l2tp
 lab
@@ -3670,6 +3664,7 @@ line-endings
 linear
 linearalgebra
 link
+link-capability
 link-preview
 linkedin
 linkedservice
@@ -3981,6 +3976,7 @@ merge
 mermaid
 message
 messagebox
+messageoftheday
 messages
 messaging
 messenger
@@ -4099,7 +4095,6 @@ mof
 moldova
 moment
 monaco
-monday
 mondoo
 money
 moneyforward
@@ -4187,7 +4182,6 @@ mssqlserver
 msteams
 mstest
 mstsc
-msu
 msvc
 msword
 mta-sts
@@ -4511,7 +4505,6 @@ ole
 oledb
 omaha
 ome
-omnisphere
 omnistack
 oms
 omsagent
@@ -4902,6 +4895,7 @@ policystate
 poll
 polly
 polycom
+pomodoro
 ponduit
 pool
 poop
@@ -4950,6 +4944,7 @@ poshy-ecks
 poshy-env-proxy
 poshy-env-var
 poshy-ls-isms
+poshy-lucidity
 poshy-multimedia
 poshy-net
 poshy-notify-send
@@ -5149,7 +5144,6 @@ processmitigation
 processor
 procmap
 procs
-producer
 product
 productid
 productivity
@@ -5181,7 +5175,6 @@ proofpoint
 properties
 property
 property-list
-prose
 protect
 protect-blob
 protect-string
@@ -5231,7 +5224,6 @@ psake
 psappdeploytoolkit
 psat
 psazd
-psbackup
 psbbix
 psbicep
 psclient
@@ -6792,6 +6784,7 @@ pscommand_sc-mask-now
 pscommand_scu-disable-now
 pscommand_scu-enable-now
 pscommand_scu-mask-now
+pscommand_search-commandpath
 pscommand_search-ruby
 pscommand_set-envvar
 pscommand_set-gitremoteurl
@@ -6842,9 +6835,14 @@ pscommand_syspip3
 pscommand_syspip3_package_location
 pscommand_ta
 pscommand_tad
+pscommand_test-command
 pscommand_test-d
+pscommand_test-elevation
 pscommand_test-f
+pscommand_test-linkcapability
 pscommand_test-o
+pscommand_test-reparsepoint
+pscommand_test-sessioninteractivity
 pscommand_test-x
 pscommand_tf
 pscommand_tfa
@@ -8003,6 +8001,7 @@ psfunction_sc-mask-now
 psfunction_scu-disable-now
 psfunction_scu-enable-now
 psfunction_scu-mask-now
+psfunction_search-commandpath
 psfunction_search-ruby
 psfunction_set-envvar
 psfunction_set-gitremoteurl
@@ -8045,9 +8044,14 @@ psfunction_stop-gitcherrypick
 psfunction_switch-gitbranchandtrack
 psfunction_switch-gitbranchmain
 psfunction_switch-gitbranchnew
+psfunction_test-command
 psfunction_test-d
+psfunction_test-elevation
 psfunction_test-f
+psfunction_test-linkcapability
 psfunction_test-o
+psfunction_test-reparsepoint
+psfunction_test-sessioninteractivity
 psfunction_test-x
 psfunction_universalarchive
 psfunction_update-gitbranchbasefrombranchmain
@@ -8437,6 +8441,7 @@ release
 releasedefinition
 releasehealth
 releasemanagement
+releasenotes
 relevance
 relic
 reload
@@ -8558,7 +8563,6 @@ rfc4266
 rfc4291
 rfc5952
 rfc826
-rfc9116
 rg
 rgb
 rhapsody
@@ -8792,6 +8796,7 @@ sdk
 sdn
 sdp
 search
+search-adminauditlog
 search-engines
 searchengine
 searcher
@@ -8829,8 +8834,6 @@ security
 security-awareness-training
 security-policy
 security-score
-security-txt
-security.txt
 securityassertionmarkuplanguage
 securitycenter
 securitycompliancecenter
@@ -8841,7 +8844,6 @@ securityoptions
 securitypolicydsc
 securityroles
 securityscopes
-securitytxt
 sed
 seed
 seek
@@ -8849,8 +8851,6 @@ seekatar
 seeshell
 select
 select-item
-select-kubecontext
-select-kubenamespace
 select-string
 selection
 selectxmlinfo
@@ -9102,9 +9102,6 @@ smorgasbord
 sms
 smtp
 smtpaddressupdate psmodule
-smtpauth
-smtpoauth
-smtpsasl
 smtpsecure
 snap
 snapchat
@@ -9450,7 +9447,6 @@ svt
 swagger
 swamid
 swarm
-swedish
 swimlane
 swis
 switch
@@ -10242,7 +10238,6 @@ vsphere+
 vss
 vssetup
 vsshell
-vst
 vsteambuilder
 vsteams
 vstest
@@ -10350,6 +10345,7 @@ wer
 wget
 what3words
 whatismyip
+whatsnew
 whatsupgold
 whd
 where
@@ -10535,7 +10531,6 @@ write-color
 write-colour
 write-debug
 write-host
-write-information
 write-log
 write-loganalytics
 write-message
@@ -10573,8 +10568,11 @@ x.509
 x1
 x2
 x509
+x509cerificate
+x509cerificate2
 x509certificate
 x509certificates
+x509chain
 x64
 x86
 xa
@@ -10652,7 +10650,6 @@ zipfile-transform
 zisson
 zoho
 zone
-zookeeper
 zoom
 zoomapi
 zoommeeting
@@ -10661,6 +10658,7 @@ zsh
 zuora
 zvm
 zvml
+zvmlinux
 zypper
 カタカナ
 ひらがな
