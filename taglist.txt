@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Saturday, 30 December 2023 17:52:27 UTC
+Updated: Sunday, 31 December 2023 02:07:29 UTC
 
 .bat
 .env
@@ -36,6 +36,7 @@ Updated: Saturday, 30 December 2023 17:52:27 UTC
 2016
 2018
 2019
+21vianet
 24-bit
 2fa
 300
@@ -242,6 +243,7 @@ aidocument
 ailanguage
 aim
 aip
+aipscanner
 aircall
 airpower
 airpwr
@@ -259,6 +261,7 @@ alac
 alarm
 alb
 albums
+alc
 alero
 alert
 alerting
@@ -343,6 +346,7 @@ anypoint
 anywhere
 aovpn psmodule
 apache
+apachekafka
 apexlegends
 apexone
 api
@@ -433,6 +437,7 @@ archlinux
 arcresourcebridge
 arcus
 area
+arg
 argcomplete
 argument
 argumentcompleter
@@ -474,6 +479,8 @@ aspnet
 aspnet_regiis
 asr
 assembleenationale
+assembly
+assemblyloadcontext
 assemblymeta
 assert
 assertion
@@ -595,7 +602,6 @@ awscli
 awspricelist
 axapta
 axinom
-axis
 axium
 az
 az-cli
@@ -861,6 +867,7 @@ botservice
 bouncer
 boundaries
 boundarygroups
+bounty
 box
 bpmn
 brainy
@@ -896,6 +903,7 @@ bson
 btdf
 btm
 budget
+bugbounty
 bugzilla
 build
 build-log
@@ -927,6 +935,7 @@ businessrulesengine
 businesstime
 bxor
 bydesign
+byexample
 bynarypsmodule
 byovd
 byte
@@ -1027,7 +1036,6 @@ certera
 certes
 certificate
 certificateauthority
-certificatechain
 certificatemanager
 certificatepolicy
 certificates
@@ -1313,6 +1321,7 @@ completion
 completion-manager
 completionresult
 completions
+complex
 compliance
 compliant
 component
@@ -1382,6 +1391,7 @@ console
 consoleguitools
 consolemenu
 consolemusic
+consumer
 consumption
 contact
 contacts
@@ -1427,6 +1437,7 @@ convertfrom
 convertfrom-yaml
 convertto
 convertto-excel
+convertto-hashtable
 convertto-yaml
 converttodocx
 converttohtml
@@ -1660,7 +1671,6 @@ datacollectionrule
 dataconduit
 dataconnectivity
 datadog
-dataexchange
 dataexplorer
 datafactory
 dataflow
@@ -1822,6 +1832,7 @@ deviceupdate
 devolutions
 devops
 devops psmodule
+devsecninja
 devsecops
 devspaces
 devtestlabs
@@ -1839,6 +1850,7 @@ diagrams
 dialog
 dice
 diceware
+dicom
 dictionary
 diff
 difference
@@ -2146,7 +2158,6 @@ elevate
 elevated
 elevatedconsole
 elevatedmode
-elevation
 elgato
 elk
 elm
@@ -2320,6 +2331,7 @@ exchange2010
 exchange2013
 exchange2016
 exchangecluster
+exchangehybrid
 exchangemigration
 exchangeon-premise
 exchangeon-premises
@@ -2385,6 +2397,7 @@ extensions
 external
 externalip
 extract
+extraction
 extractor
 extreme-networks
 eztheme
@@ -2547,7 +2560,6 @@ flexdesk
 flickr
 flowchart
 flowy
-fluidrelay
 flyway
 fmg
 focus
@@ -2595,6 +2607,7 @@ fortune
 forum
 forwardcompatibility
 forwardedevents
+foudil
 fox
 foxpro
 fqdn
@@ -2873,7 +2886,6 @@ gtx1080ti
 guardedfabric
 guardicore
 gubbins
-guest
 guestconfiguration
 guests
 gui
@@ -2912,7 +2924,7 @@ hanaon
 handle
 handler
 hangouts
-hanwha
+hannelstoolbox
 har
 hard
 hardblock
@@ -2923,6 +2935,7 @@ hardlink
 hardmatch
 hardware
 harperdb
+hartokens
 harvest
 harvestforecast
 hash
@@ -2966,6 +2979,7 @@ helloid
 helloposhgallery
 helloworld
 helm
+helmet
 help
 helpdesk
 helpdoc
@@ -3003,6 +3017,7 @@ hipchat
 hiragana
 histogram
 history
+historyninja
 hitrust
 hive
 hivehome
@@ -3026,7 +3041,6 @@ homebrew
 homelandsecurity
 homeschooling
 hon
-hooking
 horizon
 horizontal
 hornbill
@@ -3223,6 +3237,7 @@ indicator
 inedo
 inetfwrule
 inetum
+infinity
 influx
 influxdb
 info
@@ -3301,8 +3316,6 @@ internetconnection
 internetexplorer
 intersight
 intersightcmdlets
-interval
-interval-timer
 intigua
 intranet
 intrusion
@@ -3527,6 +3540,7 @@ kintone
 klantcontroles
 kms
 knapsack
+knetps
 knob
 knowbe4
 knowledge
@@ -3548,9 +3562,9 @@ kubernetes
 kubernetesconfiguration
 kubespray
 kudu
+kurukuru
 kusto
 kvm
-kvp
 l1tf
 l2tp
 lab
@@ -3611,6 +3625,7 @@ learning
 learning-powershell
 learningpowershell
 learnpowershell
+lease
 leftjoin
 legacy
 legacyad
@@ -3655,7 +3670,6 @@ line-endings
 linear
 linearalgebra
 link
-link-capability
 link-preview
 linkedin
 linkedservice
@@ -3966,6 +3980,7 @@ mercurial
 merge
 mermaid
 message
+messagebox
 messages
 messaging
 messenger
@@ -4151,6 +4166,7 @@ msi psmodule
 msiexec
 msil
 msix
+mslab
 msmq
 msol
 msoms
@@ -4200,6 +4216,7 @@ musiccast
 mustache
 mutation
 mute
+mutex
 mva
 mvn
 mvp
@@ -4279,6 +4296,7 @@ netscaler
 netscape
 netsec
 netsh
+netspell
 netstat
 netsuite
 network
@@ -4345,6 +4363,7 @@ nios
 nist
 nitro
 nitrox
+njclipsh
 nl
 nla
 nlm
@@ -4390,6 +4409,7 @@ nprintingapi
 nps
 npslog
 npslogfile
+nql
 nrc
 nrql
 ns
@@ -4413,6 +4433,7 @@ number
 numlock
 nunit
 nupkg
+nuspec
 nutanix
 nuwave
 nva
@@ -4511,6 +4532,7 @@ onelogin
 oneloginapi
 onenote
 onestools
+onesubscription
 onetimesecret
 oneviewglobaldashboard
 online
@@ -4629,6 +4651,7 @@ ouraring
 out-consolegridview
 out-default
 out-gridview
+out-json
 outerjoin
 outertext
 outline
@@ -4686,7 +4709,6 @@ parallel-processing
 parameter
 parameterinfo
 parameters
-parclient
 parititions
 parool
 parquet
@@ -4737,6 +4759,7 @@ patternmatching
 pause
 pax8
 payload
+paylocity
 paypal
 pays
 pbench
@@ -4879,7 +4902,6 @@ policystate
 poll
 polly
 polycom
-pomodoro
 ponduit
 pool
 poop
@@ -4928,7 +4950,6 @@ poshy-ecks
 poshy-env-proxy
 poshy-env-var
 poshy-ls-isms
-poshy-lucidity
 poshy-multimedia
 poshy-net
 poshy-notify-send
@@ -5128,6 +5149,7 @@ processmitigation
 processor
 procmap
 procs
+producer
 product
 productid
 productivity
@@ -5159,6 +5181,7 @@ proofpoint
 properties
 property
 property-list
+prose
 protect
 protect-blob
 protect-string
@@ -5741,7 +5764,6 @@ pscommand_ghm
 pscommand_gi
 pscommand_gignore
 pscommand_gignored
-pscommand_git
 pscommand_git_blame_line
 pscommand_git_checkout_child
 pscommand_git_checkout_parent
@@ -6081,7 +6103,6 @@ pscommand_invoke-helm
 pscommand_invoke-helminstall
 pscommand_invoke-helmsearch
 pscommand_invoke-helmupgrade
-pscommand_invoke-hub
 pscommand_invoke-kubectl
 pscommand_invoke-kubectlallnamespaces
 pscommand_invoke-kubectlapplyfromfile
@@ -6771,7 +6792,6 @@ pscommand_sc-mask-now
 pscommand_scu-disable-now
 pscommand_scu-enable-now
 pscommand_scu-mask-now
-pscommand_search-commandpath
 pscommand_search-ruby
 pscommand_set-envvar
 pscommand_set-gitremoteurl
@@ -6822,14 +6842,9 @@ pscommand_syspip3
 pscommand_syspip3_package_location
 pscommand_ta
 pscommand_tad
-pscommand_test-command
 pscommand_test-d
-pscommand_test-elevation
 pscommand_test-f
-pscommand_test-linkcapability
 pscommand_test-o
-pscommand_test-reparsepoint
-pscommand_test-sessioninteractivity
 pscommand_test-x
 pscommand_tf
 pscommand_tfa
@@ -6896,8 +6911,6 @@ pscommand_use-gitflowbranchrelease
 pscommand_use-gitstashentry
 pscommand_uuid
 pscommand_uuidgen
-pscommand_uuidl
-pscommand_uuidu
 pscommand_vad
 pscommand_vag
 pscommand_val
@@ -7499,7 +7512,6 @@ psfunction_invoke-helm
 psfunction_invoke-helminstall
 psfunction_invoke-helmsearch
 psfunction_invoke-helmupgrade
-psfunction_invoke-hub
 psfunction_invoke-kubectl
 psfunction_invoke-kubectlallnamespaces
 psfunction_invoke-kubectlapplyfromfile
@@ -7991,7 +8003,6 @@ psfunction_sc-mask-now
 psfunction_scu-disable-now
 psfunction_scu-enable-now
 psfunction_scu-mask-now
-psfunction_search-commandpath
 psfunction_search-ruby
 psfunction_set-envvar
 psfunction_set-gitremoteurl
@@ -8034,14 +8045,9 @@ psfunction_stop-gitcherrypick
 psfunction_switch-gitbranchandtrack
 psfunction_switch-gitbranchmain
 psfunction_switch-gitbranchnew
-psfunction_test-command
 psfunction_test-d
-psfunction_test-elevation
 psfunction_test-f
-psfunction_test-linkcapability
 psfunction_test-o
-psfunction_test-reparsepoint
-psfunction_test-sessioninteractivity
 psfunction_test-x
 psfunction_universalarchive
 psfunction_update-gitbranchbasefrombranchmain
@@ -8080,8 +8086,6 @@ psfunction_use-gitflowbranchdevelop
 psfunction_use-gitflowbranchhotfix
 psfunction_use-gitflowbranchrelease
 psfunction_use-gitstashentry
-psfunction_uuidl
-psfunction_uuidu
 psfunction_write-gitcommit
 psfunction_write-gitcommitall
 psfunction_write-gitcommitallasupdate
@@ -8273,6 +8277,7 @@ queries
 query
 queue
 queues
+queuing
 quickaccess
 quickbase
 quickbooks
@@ -8495,6 +8500,7 @@ requiredmodules
 requirements
 res
 rescan
+rescuetime
 reservation
 reservations
 reset
@@ -8510,6 +8516,7 @@ resource_monitor
 resource_watcher
 resourceaccount
 resourcecontroller
+resourcegraph
 resourcegroup
 resourceid
 resourcekit
@@ -8551,6 +8558,7 @@ rfc4266
 rfc4291
 rfc5952
 rfc826
+rfc9116
 rg
 rgb
 rhapsody
@@ -8584,6 +8592,7 @@ rocketcyber
 roco
 rocolatey
 role
+roles
 rollingfile
 romaji
 ropc
@@ -8602,6 +8611,7 @@ routine
 rover
 royalapps
 royaldocument
+royalserver
 royalts
 royaltsx
 rpa
@@ -8782,7 +8792,6 @@ sdk
 sdn
 sdp
 search
-search-adminauditlog
 search-engines
 searchengine
 searcher
@@ -8820,6 +8829,8 @@ security
 security-awareness-training
 security-policy
 security-score
+security-txt
+security.txt
 securityassertionmarkuplanguage
 securitycenter
 securitycompliancecenter
@@ -8830,6 +8841,7 @@ securityoptions
 securitypolicydsc
 securityroles
 securityscopes
+securitytxt
 sed
 seed
 seek
@@ -9193,6 +9205,7 @@ speed
 speedometer
 speedtest
 speedtester
+spellcheck
 spelling
 spf
 spi
@@ -9292,6 +9305,7 @@ stackhci
 stackmonitoring
 stackoverflow
 staffhub
+staging
 stale
 stan
 stanc
@@ -9424,6 +9438,7 @@ suppress
 supress-reboot
 surround
 survey
+surveymonkey
 sus
 sushi
 suspensive
@@ -9607,9 +9622,11 @@ test-automation
 test-dscconfiguration
 test-internetconnection
 test-modulepath
+test-osplatform
 test-psremoting
 test-samcmapplicationexists
 test-samcmpackageexists
+test-userisadministrator
 test-xml
 test123
 testaccount
@@ -10161,6 +10178,7 @@ vmgroup
 vmhost
 vmhostgroup
 vmhostnetworkadapater
+vmmanagement
 vmnic
 vmrole
 vmss
@@ -10432,6 +10450,7 @@ windowstimezone
 windowsupdate
 windowsupdates
 windowsvirtualdesktop
+winform
 winforms
 winget
 wingetbridge
@@ -10554,11 +10573,8 @@ x.509
 x1
 x2
 x509
-x509cerificate
-x509cerificate2
 x509certificate
 x509certificates
-x509chain
 x64
 x86
 xa
@@ -10636,6 +10652,7 @@ zipfile-transform
 zisson
 zoho
 zone
+zookeeper
 zoom
 zoomapi
 zoommeeting
@@ -10644,7 +10661,6 @@ zsh
 zuora
 zvm
 zvml
-zvmlinux
 zypper
 カタカナ
 ひらがな
