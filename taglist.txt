@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 01 January 2024 09:52:43 UTC
+Updated: Monday, 01 January 2024 17:52:28 UTC
 
 .bat
 .env
@@ -57,6 +57,7 @@ Updated: Monday, 01 January 2024 09:52:43 UTC
 8ball
 9
 aa
+aac
 aad
 aad-graph
 aadc
@@ -104,6 +105,7 @@ act!
 actifio
 actifiogo
 action
+action1
 actiongroup
 actionplan
 actions
@@ -256,6 +258,7 @@ aks
 aks-hci
 akscluster
 al
+alac
 alarm
 alb
 albums
@@ -339,7 +342,6 @@ antimalwarescaninterface
 antispam
 antivirus
 any
-anyconnect
 anypackage
 anypoint
 anywhere
@@ -436,6 +438,7 @@ archlinux
 arcresourcebridge
 arcus
 area
+arg
 argcomplete
 argument
 argumentcompleter
@@ -512,7 +515,6 @@ attribute
 attributes
 au
 audio
-audiocodes
 audit
 auditing
 auditpol
@@ -651,7 +653,6 @@ azureadtoolkit
 azureappconfiguration
 azureas
 azureautomation
-azureautomationaccount
 azureautomationnotsupported
 azurebasicloadbalancerupgrade
 azurecli
@@ -738,7 +739,6 @@ bash
 basic
 bastion
 bat
-batcat
 batch
 batchclass
 batman
@@ -1380,7 +1380,6 @@ connectexchange
 connection
 connectionmonitor
 connections
-connectionsmanager
 connectionstring
 connectivity
 connectwise
@@ -1479,6 +1478,7 @@ counter
 countries
 country
 countrycode
+cover
 coverage
 coveralls
 coveralls.io
@@ -1579,7 +1579,6 @@ currency-convereter
 currency-exchange
 currencyconverterapi
 current
-curseforge
 custom
 customchecks
 customdns
@@ -1809,7 +1808,6 @@ detectionrule
 deutsch
 deutschland
 dev
-dev-tools
 devart
 devcenter
 devdeer
@@ -1853,7 +1851,6 @@ dictionary
 diff
 difference
 dig
-digikam
 digital
 digital-forensics
 digitalforensics
@@ -2124,6 +2121,7 @@ easyvista
 eaton
 ebay
 ebooks
+ebur128
 ec2
 ecommerce
 ecovadis
@@ -2349,7 +2347,6 @@ executables
 execute
 exexml
 exif
-exiftool
 exists
 exitcode
 exitprocessrequest
@@ -2445,6 +2442,7 @@ fedex
 feed
 fetch
 ffmpeg
+ffprobe
 fhirservice
 fiche
 fiddler
@@ -2548,6 +2546,7 @@ fix-log
 fix-protocol
 fixlet
 fixpack
+flac
 flag
 flags
 flash
@@ -2597,7 +2596,6 @@ formatformat-tableformat-listformat-wideformat-customformat-defaultout-defaultou
 formatting
 forms
 fortiauth
-forticlient
 fortify
 fortifyondemand
 fortigate
@@ -2692,7 +2690,6 @@ gcloud
 gcp
 gcs
 gdpr
-gedit
 gem
 gemini
 geminiprotocol
@@ -2901,6 +2898,7 @@ gumby
 guru
 gvim
 gw2
+gwbasic
 gymnasium
 gz
 gzip
@@ -2913,7 +2911,6 @@ hacktoberfest
 hadoop
 hafr
 hailstone
-haipa
 halo
 haloitsm
 halopsa
@@ -2998,7 +2995,6 @@ hewlett
 hewlett-packard
 hewlett-packardenterprise
 hex
-hexdump
 hg
 hibernate
 hibernation
@@ -3158,6 +3154,7 @@ icraftsoftware
 ics
 icws
 id
+id3
 idabus
 ide
 identifier
@@ -3398,6 +3395,7 @@ ish
 ishexstring
 isnumeric
 iso
+iso-3166-1
 iso-8601
 ispac
 isprime
@@ -3522,6 +3520,7 @@ kestrel
 key
 key-vault
 key2wocas
+keybase
 keybinding
 keyboard
 keyboardstartkey
@@ -3587,6 +3586,7 @@ labtest
 labworker
 lake
 lambda
+lame
 lametrictime
 lamp
 lan
@@ -3640,7 +3640,6 @@ leiningnen
 lenel
 length
 lenovo
-less
 lesspass
 letsencrypt
 lf
@@ -3684,7 +3683,6 @@ links
 linq
 linqpad
 lint
-linting
 linux
 linux-command
 linuxssh
@@ -3955,7 +3953,6 @@ measure-loc
 measure-process
 mecm
 media
-mediant
 mediaplayer
 mediaservices
 mediawiki
@@ -4127,7 +4124,6 @@ monitors
 monthlyupdate
 moodle
 moonshot
-more
 mosaic
 motd
 motivation
@@ -4176,7 +4172,6 @@ msi psmodule
 msiexec
 msil
 msix
-mslab
 msmq
 msol
 msoms
@@ -4277,7 +4272,6 @@ nec-infrared-transmission-protocol
 nederland
 nedyalkov
 neo4j
-neovim
 neptune
 nerdfonts
 nerdio
@@ -4400,7 +4394,6 @@ nosql
 note
 notebook
 notepad
-notepad2
 noteproperty
 notes
 notification
@@ -4480,6 +4473,7 @@ ocgv
 oci
 ocicontrolcenter
 ocr
+octoprint
 octopus
 octopus-deploy
 octopus.client
@@ -4510,6 +4504,7 @@ officertool
 offline
 offlinewimservicing
 ofx
+ogg
 oh-my-posh
 oh-my-zsh
 oidc
@@ -4607,6 +4602,7 @@ option
 option119
 options
 optionstring
+opus
 oracle
 oraclecloudinfrastructure
 oraculum
@@ -4781,6 +4777,10 @@ pcsetup
 pcsv
 pdb
 pdf
+pdf-document-processor
+pdf-files
+pdf-generation
+pdf-redaction
 pe
 peek
 peering
@@ -4829,7 +4829,6 @@ php
 phpapam
 pi
 picker
-pico
 picture
 pictures
 pid
@@ -4963,7 +4962,6 @@ poshy-net
 poshy-notify-send
 poshy-sh-isms
 poshy-sshconfig
-poshy-viewer-finder
 poshy-wrap
 poshy-wrap-apt
 poshy-wrap-argcomplete
@@ -5051,8 +5049,6 @@ powershell-dsc
 powershell-examples
 powershell-gallery
 powershell-github-repo
-powershell-gitlab
-powershell-graphql
 powershell-isprime
 powershell-lightning
 powershell-module
@@ -5564,8 +5560,6 @@ pscommand_forgit-reset-head
 pscommand_forgit-revert-commit
 pscommand_forgit-stash-push
 pscommand_forgit-stash-show
-pscommand_format-batcatstyle
-pscommand_format-lesstermcapenv
 pscommand_format-viewerinvocationsh
 pscommand_g
 pscommand_ga
@@ -5725,7 +5719,6 @@ pscommand_get-netipaddresspublic
 pscommand_get-netipaddresssimple
 pscommand_get-pwshaliasdefinition
 pscommand_get-pwshfunctiondefinition
-pscommand_get-viewer
 pscommand_geun
 pscommand_gexport
 pscommand_gf
@@ -7260,8 +7253,6 @@ psfunction_forgit-reset-head
 psfunction_forgit-revert-commit
 psfunction_forgit-stash-push
 psfunction_forgit-stash-show
-psfunction_format-batcatstyle
-psfunction_format-lesstermcapenv
 psfunction_format-viewerinvocationsh
 psfunction_gdv
 psfunction_get-aptinstalledpackages
@@ -7329,7 +7320,6 @@ psfunction_get-netipaddresspublic
 psfunction_get-netipaddresssimple
 psfunction_get-pwshaliasdefinition
 psfunction_get-pwshfunctiondefinition
-psfunction_get-viewer
 psfunction_git_blame_line
 psfunction_git_checkout_child
 psfunction_git_checkout_parent
@@ -8172,6 +8162,7 @@ psprtg
 pspublicapi
 psql
 psraw
+psreadexif
 psreadline
 psremoting
 psrepository
@@ -8258,7 +8249,6 @@ pwshfw
 pwshrc
 pxedistributionpoint
 pyenv
-pygmentize
 pylint
 pyranja
 python
@@ -8468,8 +8458,6 @@ remote-desktop
 remote'
 remoteadmin
 remotecert
-remoteconnection
-remoteconnectionsmanager
 remotecontrol
 remotedesktop
 remotedesktopconnectionmanager
@@ -8500,6 +8488,7 @@ reparsepoint
 repeat
 repl
 replace
+replaygain
 replication
 repoo
 report
@@ -8528,13 +8517,13 @@ resize
 resolution
 resolve
 resolve-stache
-resolve-template
 resolver
 resource
 resource_monitor
 resource_watcher
 resourceaccount
 resourcecontroller
+resourcegraph
 resourcegroup
 resourceid
 resourcekit
@@ -8557,7 +8546,6 @@ retro
 retry
 returnuserprofile
 retype
-reuse
 reverse-engineer
 reverse-string
 reversed-color-text
@@ -8618,13 +8606,13 @@ rot13
 rotate
 rotation
 round
+roundrobindatabase
 route
 route53
 routeconfig
 router
 routes
 routetable
-routine
 rover
 royalapps
 royaldocument
@@ -8634,6 +8622,7 @@ royaltsx
 rpa
 rpc
 rras
+rrd
 rs
 rsa
 rsat
@@ -8763,7 +8752,6 @@ scom
 sconfig
 scoop
 scope
-score
 scouterna
 scouternasetjanster
 scoutnet
@@ -9090,6 +9078,7 @@ skytap
 slack
 slash
 slashcommands
+slmgr
 sln
 slugify
 sm
@@ -9828,7 +9817,6 @@ triodos
 tripunkt
 troubleshoot
 troubleshooting
-trouw
 true-color
 truecrypt
 truenas
@@ -10229,6 +10217,7 @@ volta
 volume
 volumeshadowcopy
 volumio
+vorbis
 vovin
 vpas
 vpasmodule
@@ -10414,6 +10403,7 @@ windows-control-panel
 windows-defender
 windows-defender-application-control
 windows-environment
+windows-explorer
 windows-features
 windows-firewall
 windows-powershell
@@ -10685,6 +10675,7 @@ zsh
 zuora
 zvm
 zvml
+zvmlinux
 zypper
 カタカナ
 ひらがな
