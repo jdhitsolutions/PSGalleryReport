@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Tuesday, 02 January 2024 09:52:30 UTC
+Updated: Tuesday, 02 January 2024 17:52:34 UTC
 
 .bat
 .env
@@ -72,7 +72,6 @@ abc
 abc_testing
 abe
 about
-abr
 abstractsyntaxtree
 abuse
 abuseipdb
@@ -181,7 +180,6 @@ adm
 admf
 admin
 admin-tools
-adminbyrequest
 admindirectory
 administration
 administrative
@@ -1587,7 +1585,6 @@ curseforge
 custom
 customchecks
 customdns
-customer
 customerengagement
 customers
 customeventchannel
@@ -1774,7 +1771,6 @@ defenderforendpoint
 defense
 deflate
 delegated
-delegationmodel
 delete
 delete-orphan-branches
 deleteuserprofile
@@ -2077,7 +2073,6 @@ dtc
 dts
 dtsx
 dtx
-du
 dual-stack
 duck
 duckduckgo
@@ -2357,7 +2352,6 @@ exif
 exiftool
 exists
 exitcode
-exitprocessrequest
 exo
 exov2
 exov3
@@ -2412,6 +2406,8 @@ f5
 fabric
 fabtools
 facebook
+factoryorchestrator
+factoryorchestratorclient
 facts
 faf
 failedlogin
@@ -2431,7 +2427,6 @@ fastgit
 fastlinq
 fastlookup
 fastping
-fasttrack
 favorites
 fb-pro
 fciv
@@ -2698,6 +2693,7 @@ gcp
 gcs
 gdpr
 gedit
+gem
 gemini
 geminiprotocol
 gemlog
@@ -2708,7 +2704,6 @@ generate-dockerimagevariants
 generate-password
 generate-random-password
 generateaddress
-generates
 generatewif
 generation
 generator
@@ -3219,7 +3214,6 @@ imagination
 imaging
 imap
 imb
-imei
 imi
 impala
 impersonation
@@ -3246,7 +3240,6 @@ indicator
 inedo
 inetfwrule
 inetum
-infinity
 influx
 influxdb
 info
@@ -3312,6 +3305,7 @@ intel
 inteligo
 intelligence
 intelligence"
+intellisearch
 intellisense
 interactive
 interactive-brokers
@@ -3368,6 +3362,7 @@ ipa
 ipaddress
 ipam
 ipbroadcast
+ipc
 ipcalc
 ipcalculator
 ipconfig
@@ -3465,7 +3460,6 @@ join
 join-object
 jojoba
 joke
-jotform
 journal
 joyride
 jpg
@@ -3511,7 +3505,6 @@ kaspersky
 katakana
 kb
 kbarticle
-kdbx
 kdialog
 keenetic
 keepachangelog
@@ -3571,7 +3564,6 @@ kubernetes
 kubernetesconfiguration
 kubespray
 kudu
-kurukuru
 kusto
 kvm
 kvp
@@ -3681,6 +3673,7 @@ linear
 linearalgebra
 link
 link-capability
+link-preview
 linkedin
 linkedservice
 linkedservicedependency
@@ -3894,7 +3887,6 @@ maps
 mapsapi
 mariadb
 mark
-markdig
 markdown
 markdownrender
 marketing
@@ -4095,7 +4087,6 @@ mmdc
 mobile
 mobilenetwork
 mobilitycontroller
-mock
 mocking
 model
 modeling
@@ -4190,6 +4181,7 @@ msonlineext
 msp
 msp360
 mspbackups
+msproject
 msrc
 msrdc
 mssql
@@ -4318,6 +4310,7 @@ network
 network adapter configuration operating os optical sensor physical pointing portable printer processor cpu refrigaration cooling cooler removable usb sd ram dimm scsi sound audio card enclosure tape temperature touchpad touch pad touchscreen screen trackball trackpoint video graphics voltage psmodule
 network-credentials
 network-info
+networkanalytics
 networkcloud
 networkcontroller
 networkdiscovery
@@ -4423,7 +4416,6 @@ nprintingapi
 nps
 npslog
 npslogfile
-nql
 nrc
 nrql
 ns
@@ -4983,6 +4975,7 @@ poshy-wrap-docker
 poshy-wrap-docker-compose
 poshy-wrap-dotnet
 poshy-wrap-forgit
+poshy-wrap-gem
 poshy-wrap-gh
 poshy-wrap-git
 poshy-wrap-git-flow
@@ -5019,7 +5012,6 @@ postgres
 postgresql
 potato
 pow
-powdrgit
 power
 power-apps
 power-cbr
@@ -5187,6 +5179,7 @@ projectmanagement
 projectreunion
 projects
 projecttemplate
+projectwise
 proliant
 prometheus
 prompt
@@ -5652,6 +5645,19 @@ pscommand_gdsth
 pscommand_gdstp
 pscommand_gdt
 pscommand_gdv
+pscommand_geca
+pscommand_gecb
+pscommand_geclup
+pscommand_gecr
+pscommand_gegi
+pscommand_geh
+pscommand_gei
+pscommand_geiall
+pscommand_gein
+pscommand_gel
+pscommand_geli
+pscommand_geo
+pscommand_geoe
 pscommand_get
 pscommand_get-aptinstalledpackages
 pscommand_get-childitemcolorfully
@@ -5719,6 +5725,7 @@ pscommand_get-netipaddresssimple
 pscommand_get-pwshaliasdefinition
 pscommand_get-pwshfunctiondefinition
 pscommand_get-viewer
+pscommand_geun
 pscommand_gexport
 pscommand_gf
 pscommand_gfa
@@ -5998,6 +6005,22 @@ pscommand_invoke-dockercomposeupdetached
 pscommand_invoke-dockercomposeupdetachedwithbuild
 pscommand_invoke-dockercomposeupnostart
 pscommand_invoke-dockercomposeupwithbuild
+pscommand_invoke-gemcertadd
+pscommand_invoke-gemcertbuild
+pscommand_invoke-gemcertremove
+pscommand_invoke-gemcleanupno
+pscommand_invoke-gemgenerateindex
+pscommand_invoke-gemhelp
+pscommand_invoke-geminfo
+pscommand_invoke-geminfoall
+pscommand_invoke-geminstall
+pscommand_invoke-gemlist
+pscommand_invoke-gemlock
+pscommand_invoke-gemopen
+pscommand_invoke-gemopeneditor
+pscommand_invoke-gemremovebypattern
+pscommand_invoke-gemsystem
+pscommand_invoke-gemuninstall
 pscommand_invoke-git
 pscommand_invoke-gitaddinteractivelypatch
 pscommand_invoke-gitbisect
@@ -6743,6 +6766,7 @@ pscommand_python3
 pscommand_rb
 pscommand_read-dotenv
 pscommand_register-argcompleteargumentcompleter
+pscommand_remove_gem
 pscommand_remove-dockercontainerall
 pscommand_remove-dockerunusedimage
 pscommand_remove-envpathitem
@@ -6802,6 +6826,7 @@ pscommand_set-locationup2
 pscommand_set-locationup3
 pscommand_set-locationup4
 pscommand_set-locationup5
+pscommand_sgem
 pscommand_show-gitremote
 pscommand_show-proxy
 pscommand_shttp
@@ -7395,6 +7420,22 @@ psfunction_invoke-dockercomposeupdetached
 psfunction_invoke-dockercomposeupdetachedwithbuild
 psfunction_invoke-dockercomposeupnostart
 psfunction_invoke-dockercomposeupwithbuild
+psfunction_invoke-gemcertadd
+psfunction_invoke-gemcertbuild
+psfunction_invoke-gemcertremove
+psfunction_invoke-gemcleanupno
+psfunction_invoke-gemgenerateindex
+psfunction_invoke-gemhelp
+psfunction_invoke-geminfo
+psfunction_invoke-geminfoall
+psfunction_invoke-geminstall
+psfunction_invoke-gemlist
+psfunction_invoke-gemlock
+psfunction_invoke-gemopen
+psfunction_invoke-gemopeneditor
+psfunction_invoke-gemremovebypattern
+psfunction_invoke-gemsystem
+psfunction_invoke-gemuninstall
 psfunction_invoke-git
 psfunction_invoke-gitaddinteractivelypatch
 psfunction_invoke-gitbisect
@@ -8100,7 +8141,6 @@ pskeepass
 pslocalgallery
 psloganalytics
 psm
-psm1
 psmodule
 psmodule psedition_desktop
 psmodulepath
@@ -8305,7 +8345,6 @@ ratings
 ravendb
 razzle
 rbac
-rbacmodel
 rbsu
 rcon
 rcs
@@ -8444,7 +8483,6 @@ remotemanagement
 remotesession
 remoting
 remove
-remove-githubsecrets
 remove-itemproperty
 remove-pass
 remove-path
@@ -8916,7 +8954,6 @@ set
 set_bios
 set-alias
 set-dnsservers
-set-githubsecrets
 set-itemproperty
 set-location
 set-openfiles
@@ -9678,7 +9715,6 @@ tic-tac-toe
 tickle
 ticks
 tictactoe
-tiermodel
 time
 timeout
 timer
@@ -10099,7 +10135,6 @@ venvlink
 vera
 veracrypt
 verbose psmodule
-verification
 verify
 version
 versioning
@@ -10285,7 +10320,6 @@ weather
 weaviate
 weaviatenet
 web
-web-search
 web.config
 webadministration
 webapi
