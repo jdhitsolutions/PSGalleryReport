@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Wednesday, 03 January 2024 02:05:05 UTC
+Updated: Wednesday, 03 January 2024 09:52:36 UTC
 
 .bat
 .env
@@ -64,7 +64,6 @@ aadc
 aadconnect
 aadgraph
 aadrm
-aadsecurity
 aadsts
 aam
 aas
@@ -105,6 +104,7 @@ act!
 actifio
 actifiogo
 action
+action1
 actiongroup
 actionplan
 actions
@@ -179,7 +179,6 @@ adlds
 adm
 admf
 admin
-admin-tools
 adminbyrequest
 admindirectory
 administration
@@ -227,6 +226,8 @@ afd
 affinity
 affinity-co
 affinity-crm
+after-effects
+aftereffects
 agenda
 agent
 aggregates
@@ -329,12 +330,9 @@ animations
 annotated
 announcement
 announcementsservice
-anonymous
 anova
 ansi
 ansible
-ansible-control-node
-ansiblecontrolnode
 antimalwarescaninterface
 antispam
 antivirus
@@ -388,7 +386,6 @@ application-transformer
 application-whitelisting
 applicationgateway
 applicationgrid
-applicationhost.config
 applicationinsights
 applicationmigration
 applicationmonitor
@@ -512,7 +509,6 @@ attribute
 attributes
 au
 audio
-audiocodes
 audit
 auditing
 auditpol
@@ -524,12 +520,10 @@ aumid
 aut
 auth
 auth0
-authenticate
 authentication
 authenticationcertificate
 authenticode
 authn
-author
 authoring
 authoringtools
 authorisation
@@ -575,10 +569,10 @@ availability
 availabilityset
 avalara
 avalonia
+avatar
 avd
 ave
 avepoint
-avi
 avm
 avmtools
 avro
@@ -657,7 +651,6 @@ azurecli
 azurecognitiveservices
 azurecontainerapps
 azurecontainers
-azuredatabricks
 azuredataexplorer
 azuredatastudio
 azuredevops
@@ -715,7 +708,6 @@ backup_validation
 bamboo
 bamboohr
 bandwidth
-bank
 banking
 banner
 bar
@@ -730,11 +722,9 @@ base64string
 base64url
 base85
 basecamp
-based
 baseline
 basename
 bash
-basic
 bastion
 bat
 batcat
@@ -768,7 +758,6 @@ benchpress
 ber
 bestpractice
 bestpractices
-beta
 bginfo
 bi
 bibliography
@@ -791,7 +780,6 @@ binary
 binaryip
 bind
 binding
-bindings
 bing
 bingmap
 bingmaps
@@ -894,7 +882,6 @@ brownserve-uk
 browser
 browserextension
 browserhistory
-browsing
 brs
 bruteforce
 bson
@@ -1187,7 +1174,6 @@ cloudant
 cloudbees
 cloudberry
 cloudblue
-cloudbolt
 cloudbridge
 cloudendure
 cloudevents
@@ -1288,7 +1274,6 @@ comical
 comics
 command
 command_line
-command-line-interface
 command-validation
 commandcoverage
 commandlets
@@ -1297,7 +1282,6 @@ commands
 commandsandresource
 commence
 comment
-comments
 commerce
 commfort
 commit
@@ -1327,7 +1311,6 @@ component
 composer
 composite
 compositeresource
-compoundproperty
 compress
 compression
 compute
@@ -1450,12 +1433,10 @@ coordinates
 copilot
 copy
 copy-item
-copyright
 core
 coreepower
 coreepower.common
 coreepower.config
-coreepower.lib
 coreepower.module
 coreepower.net
 coreepower.net.soundcloudexplode
@@ -1528,7 +1509,6 @@ credman
 credmanager
 crescendo
 crescendobuilt
-cresendo
 crestron
 crime
 crlf
@@ -1670,6 +1650,7 @@ dataconduit
 dataconnectivity
 datadog
 dataexchange
+dataexplorer
 datafactory
 dataflow
 dataflowdependency
@@ -1755,7 +1736,6 @@ deep
 deep-security
 deep-security-manager
 deepl
-deepvisibility
 def
 default
 defaultparameter
@@ -1816,7 +1796,6 @@ devdeer
 developer
 developer_command_prompt
 developercommandprompt
-developermode
 development
 devenv
 devexpress
@@ -1921,7 +1900,6 @@ distrubtionpoint
 dividends
 diving
 division
-divoom
 dkim
 dkschrutebeets
 dl
@@ -1932,6 +1910,7 @@ dlp
 dmarc
 dmgr
 dmi
+dmtf
 dmx
 dnd
 dnf
@@ -1989,6 +1968,7 @@ domain
 domainkey
 domainname
 domains
+domino
 donothing
 dos
 dot
@@ -2050,7 +2030,6 @@ ds
 ds-client
 ds-utils
 dsa
-dsacls
 dsc
 dsc-resource
 dsc-resources
@@ -2074,6 +2053,7 @@ dtx
 du
 dual-stack
 duck
+duckduckgo
 dudckduckgo
 duf
 dummy
@@ -2092,7 +2072,6 @@ dvls
 dword
 dxexpeditions
 dynamic
-dynamic-host-configuration-protocol
 dynamicdistributiongroups
 dynamicdnsoverhttps
 dynamicparam
@@ -2142,7 +2121,6 @@ education
 educational
 effectiveroutes
 efi
-egrep
 eigencontroles
 einstein
 eklient psedition_core psedition_desktop
@@ -2239,7 +2217,6 @@ epicor
 episode
 epplus
 eprosima
-epub
 epv
 equality
 erb
@@ -2270,7 +2247,6 @@ estimate
 estimation
 esx
 esxi
-eternalblue
 ether
 ethereum
 ethr
@@ -2348,7 +2324,6 @@ execute
 exexml
 exif
 exiftool
-exists
 exitcode
 exitprocessrequest
 exo
@@ -2386,6 +2361,7 @@ extendedattributes
 extendedevents
 extendedproperties
 extendedproperty
+extendscript
 extensibility
 extension
 extensionmethods
@@ -2401,8 +2377,6 @@ eztheme
 f
 f#
 f5
-fabric
-fabtools
 facebook
 factoryorchestrator
 factoryorchestratorclient
@@ -2526,13 +2500,11 @@ findfile
 findlocation
 findplace
 findproxyforurl
-fine-print
 fine-tuning
 finops
 firebird
 firefox
 firewall
-firewall-management
 firewallrule
 firmware
 first
@@ -2613,7 +2585,6 @@ foudil
 fox
 foxpro
 fqdn
-frame
 framework
 france
 free
@@ -2710,12 +2681,12 @@ generator
 generic
 genericartifactscontent
 genetic-algorithm
-genp
 genxdev
 geo
+geocache
+geocaching
 geoencode
 geoencoding
-geoip
 geolocation
 geosearching
 geotagging
@@ -2785,7 +2756,6 @@ gitforwindows
 github
 github-actions
 githubactions
-githubcli
 githubtools
 githubworkflow
 gitignore
@@ -2871,6 +2841,7 @@ greynoise
 grid
 gridfs
 grok
+groundspeak
 group
 group-membership
 group-policy
@@ -3002,7 +2973,6 @@ hibernation
 hibp
 hidden
 hide
-hids
 hiera
 hierarchialdistributionlist
 hierarchical
@@ -3047,7 +3017,6 @@ horizon
 horizontal
 hornbill
 host
-host-based
 hosted
 hostentry
 hostfile
@@ -3282,7 +3251,6 @@ install-module
 install-windowsimage
 installation
 installationmanager
-installedapplications
 installer
 installers
 installoffice
@@ -3302,7 +3270,6 @@ integrationruntimedependency
 integrationservicescatalog
 integrity
 intel
-inteligo
 intelligence
 intelligence"
 intellisearch
@@ -3322,7 +3289,6 @@ interval
 interval-timer
 intigua
 intranet
-intrusion
 intuitive
 intune
 intuneappwinutil
@@ -3410,13 +3376,9 @@ it-tool
 it-tools
 italic-text
 item
-itemlist
-itemobject
 items
-itemstack
 iterate
 iteration
-itg
 itglue
 itin
 itop
@@ -3494,6 +3456,7 @@ jws
 jwt
 jwttoken
 k8s
+k8sshell
 kafka
 kaminario
 karabiner
@@ -3557,6 +3520,7 @@ krbtgt
 krick
 kschemaplugin
 kubclt
+kube
 kubectl
 kubectx
 kubens
@@ -3586,7 +3550,6 @@ labworker
 lake
 lambda
 lame
-lametrictime
 lamp
 lan
 landingzones
@@ -3691,7 +3654,6 @@ liquid
 liquit
 liquit.com
 list
-list_files
 list-directory
 list-item
 listener
@@ -3898,7 +3860,6 @@ marketplaceordering
 marketplacepublisher
 marking
 marklogic
-marquee
 marvel
 marvell
 marvell_semiconductor_inc
@@ -3954,7 +3915,6 @@ measure-loc
 measure-process
 mecm
 media
-mediant
 mediaplayer
 mediaservices
 mediawiki
@@ -4027,7 +3987,6 @@ microsoft.identity.client
 microsoft.identitymodel.clients.activedirectory
 microsoft.logic
 microsoft.logic/workflows
-microsoft.web.administration
 microsoft365
 microsoft365dsc
 microsoftauthenticationlibrary
@@ -4038,7 +3997,6 @@ microsoftdefenderatp
 microsoftdeploymenttoolkit
 microsoftendpointmanager
 microsoftexchangeserver
-microsoftfabric
 microsoftgraph
 microsoftgraphapi
 microsoftgraphrestapi
@@ -4059,7 +4017,6 @@ migration-tool
 migrations
 milestone
 mim
-mime
 mimekit
 min
 mindmeister
@@ -4186,7 +4143,6 @@ msp360
 mspbackups
 msproject
 msrc
-msrdc
 mssql
 mssqlbynarymodule
 mssqlbynarypsmodule
@@ -4239,7 +4195,6 @@ myjson
 myjson.com
 myob
 myposh
-mypstag
 mysql
 mysql-database
 mytest
@@ -4258,7 +4213,6 @@ namespace
 naming
 nana
 nano
-nanoleaf
 nartac
 nasdaq
 native
@@ -4313,7 +4267,6 @@ network
 network adapter configuration operating os optical sensor physical pointing portable printer processor cpu refrigaration cooling cooler removable usb sd ram dimm scsi sound audio card enclosure tape temperature touchpad touch pad touchscreen screen trackball trackpoint video graphics voltage psmodule
 network-credentials
 network-info
-networkanalytics
 networkcloud
 networkcontroller
 networkdiscovery
@@ -4326,7 +4279,6 @@ networkinterfaces
 networkloadbalancer
 networkpolicyserver
 networkscan
-networksecurity
 networksecuritygroup
 networkshares
 netwrix
@@ -4438,7 +4390,6 @@ nuget
 nuget-references
 nuget.exe
 nuget.org
-nugetpackageprovider
 number
 numlock
 nunit
@@ -4645,7 +4596,6 @@ osprovision
 osprovisioning
 osr
 oss
-ossec
 osubbillingschedule
 osuborganizationsubscription
 osubsubscription
@@ -4774,7 +4724,6 @@ paylocity
 paypal
 pays
 pbench
-pbip
 pc
 pcapng
 pci-dss
@@ -4783,10 +4732,6 @@ pcsetup
 pcsv
 pdb
 pdf
-pdf-document-processor
-pdf-files
-pdf-generation
-pdf-redaction
 pe
 peek
 peering
@@ -4861,7 +4806,6 @@ piraeus
 pivot
 pivotal
 pivottable
-pixoo
 pki
 pki psmodule
 pks
@@ -4955,7 +4899,6 @@ poshprtg
 poshrsjob
 poshtemplate
 poshwsus
-poshy-code-search
 poshy-colors
 poshy-coreutils-ish
 poshy-dir-nav
@@ -4996,10 +4939,10 @@ poshy-wrap-npm
 poshy-wrap-pip
 poshy-wrap-pipenv
 poshy-wrap-pyenv
+poshy-wrap-pylint
 poshy-wrap-python
 poshy-wrap-ruby
 poshy-wrap-systemctl
-poshy-wrap-terraform
 poshy-wrap-terragrunt
 poshy-wrap-tmux
 poshy-wrap-vagrant
@@ -5032,7 +4975,6 @@ powerbiembeddedcapacity
 powerbot
 powercli
 powercligoodies
-powercommander
 powerdex
 powerforensics
 powergraph
@@ -5056,8 +4998,6 @@ powershell-dsc
 powershell-examples
 powershell-gallery
 powershell-github-repo
-powershell-gitlab
-powershell-graphql
 powershell-isprime
 powershell-lightning
 powershell-module
@@ -5226,7 +5166,6 @@ ps-completions
 ps-ncentral
 ps.credentialmanager
 ps1
-ps12exe
 ps1xml
 ps1xmlgen
 ps2dll
@@ -5728,8 +5667,6 @@ pscommand_get-gitwhatchangedstylized
 pscommand_get-itemnixmode
 pscommand_get-netipaddresspublic
 pscommand_get-netipaddresssimple
-pscommand_get-pwshaliasdefinition
-pscommand_get-pwshfunctiondefinition
 pscommand_get-viewer
 pscommand_geun
 pscommand_gexport
@@ -6276,6 +6213,7 @@ pscommand_invoke-pipinstallupgrade
 pscommand_invoke-piplistoutdated
 pscommand_invoke-pipuninstall
 pscommand_invoke-pyenv
+pscommand_invoke-pylintreportsdisabled
 pscommand_invoke-ruby
 pscommand_invoke-rubyexecute
 pscommand_invoke-rubyexecutehttpdhere
@@ -6387,15 +6325,6 @@ pscommand_invoke-systemctluser-try-reload-or-restart
 pscommand_invoke-systemctluser-try-restart
 pscommand_invoke-systemctluser-unmask
 pscommand_invoke-systemctluser-unset-environment
-pscommand_invoke-terraform
-pscommand_invoke-terraformapply
-pscommand_invoke-terraformconsole
-pscommand_invoke-terraformdestroy
-pscommand_invoke-terraformformat
-pscommand_invoke-terraforminit
-pscommand_invoke-terraformoutput
-pscommand_invoke-terraformplan
-pscommand_invoke-terraformvalidate
 pscommand_invoke-terragrunt
 pscommand_invoke-terragruntapply
 pscommand_invoke-terragruntapplyall
@@ -6764,6 +6693,7 @@ pscommand_pwh
 pscommand_pwshrc-show-proxy
 pscommand_py
 pscommand_pyenv
+pscommand_pylint-quick
 pscommand_pyserver
 pscommand_python
 pscommand_python3
@@ -6804,7 +6734,6 @@ pscommand_scu-disable-now
 pscommand_scu-enable-now
 pscommand_scu-mask-now
 pscommand_search-commandpath
-pscommand_search-ruby
 pscommand_set-envvar
 pscommand_set-gitremoteurl
 pscommand_set-itemnixmode
@@ -6863,15 +6792,6 @@ pscommand_test-o
 pscommand_test-reparsepoint
 pscommand_test-sessioninteractivity
 pscommand_test-x
-pscommand_tf
-pscommand_tfa
-pscommand_tfc
-pscommand_tfd
-pscommand_tff
-pscommand_tfi
-pscommand_tfo
-pscommand_tfp
-pscommand_tfv
 pscommand_tg
 pscommand_tga
 pscommand_tgaa
@@ -7063,8 +6983,6 @@ psdsc
 psdshook
 psedition_5
 psedition_5.1
-psedition_7.3
-psedition_7.4
 psedition_core
 psedition_desk
 psedition_desktop
@@ -7330,8 +7248,6 @@ psfunction_get-gitwhatchangedstylized
 psfunction_get-itemnixmode
 psfunction_get-netipaddresspublic
 psfunction_get-netipaddresssimple
-psfunction_get-pwshaliasdefinition
-psfunction_get-pwshfunctiondefinition
 psfunction_get-viewer
 psfunction_git_blame_line
 psfunction_git_checkout_child
@@ -7689,6 +7605,7 @@ psfunction_invoke-pipinstallupgrade
 psfunction_invoke-piplistoutdated
 psfunction_invoke-pipuninstall
 psfunction_invoke-pyenv
+psfunction_invoke-pylintreportsdisabled
 psfunction_invoke-ruby
 psfunction_invoke-rubyexecute
 psfunction_invoke-rubyexecutehttpdhere
@@ -7800,15 +7717,6 @@ psfunction_invoke-systemctluser-try-reload-or-restart
 psfunction_invoke-systemctluser-try-restart
 psfunction_invoke-systemctluser-unmask
 psfunction_invoke-systemctluser-unset-environment
-psfunction_invoke-terraform
-psfunction_invoke-terraformapply
-psfunction_invoke-terraformconsole
-psfunction_invoke-terraformdestroy
-psfunction_invoke-terraformformat
-psfunction_invoke-terraforminit
-psfunction_invoke-terraformoutput
-psfunction_invoke-terraformplan
-psfunction_invoke-terraformvalidate
 psfunction_invoke-terragrunt
 psfunction_invoke-terragruntapply
 psfunction_invoke-terragruntapplyall
@@ -8020,7 +7928,6 @@ psfunction_scu-disable-now
 psfunction_scu-enable-now
 psfunction_scu-mask-now
 psfunction_search-commandpath
-psfunction_search-ruby
 psfunction_set-envvar
 psfunction_set-gitremoteurl
 psfunction_set-itemnixmode
@@ -8150,7 +8057,6 @@ psmodule psedition_desktop
 psmodulepath
 psmodulepsedition_desktoppsedition_core
 psmodules
-psmp
 psmsgraph
 psmsgraphapi
 psmssql
@@ -8202,7 +8108,6 @@ pstanss
 psthread
 pstk
 pstwitter
-pswa
 pswindocumentation
 pswinreporting
 pswinreportingv2
@@ -8250,7 +8155,6 @@ putty
 pve
 pvr
 pvs
-pwa
 pwned
 pwpush
 pwsafe
@@ -8262,6 +8166,7 @@ pwshrc
 pxedistributionpoint
 pyenv
 pygmentize
+pylint
 pyranja
 python
 python-for-dotnet
@@ -8355,7 +8260,6 @@ rcs
 rcu
 rdb
 rdbms
-rdc
 rdcman
 rdcmanager
 rdfe
@@ -8364,20 +8268,16 @@ rdl
 rdm
 rdp
 rdpsession
-rdpsign
 rds
 rdsgw
 react-stockcharts
-read
 read-slog
 readable
-reader
 readiness
 readme
 readpdf
 readthedocs
 realschule
-realtimeprotection
 rebase
 reboot
 rebootnodeifneeded
@@ -8466,7 +8366,6 @@ remediation
 remedy
 reminder
 remote
-remote-desktop
 remote'
 remoteadmin
 remotecert
@@ -8770,9 +8669,6 @@ sconfig
 scoop
 scope
 score
-scouterna
-scouternasetjanster
-scoutnet
 scp
 scrap
 scrape
@@ -8933,7 +8829,6 @@ servicebusforwindowsserver
 servicecatalog
 serviceconnectionpoint
 servicecontrol
-servicedesk
 servicedeskplus
 serviceendpoints
 servicefabric
@@ -9051,7 +8946,6 @@ signtool
 silk
 sim
 simple
-simplecontainers
 simplepassword
 simplepasswordgenerator
 simplivity
@@ -9094,8 +8988,6 @@ skypeforbusinessonline
 skypeonline
 skytap
 slack
-slash
-slashcommands
 slmgr
 sln
 slugify
@@ -9110,9 +9002,8 @@ smartsheet
 smartwatch
 smash
 smb
-smb1
-smb2
 smbios
+smbios-information
 smfoxx
 smfx
 smileys
@@ -9134,7 +9025,6 @@ snapchat
 snapping
 snapshot
 snapshots
-sni
 snipe-it
 snippet
 snippets
@@ -9225,7 +9115,6 @@ speculation
 speculationcontrol
 speech
 speed
-speedometer
 speedtest
 speedtester
 spellcheck
@@ -9310,7 +9199,6 @@ ssis
 ssl
 sslcert
 sslcertificate
-sslflags
 ssllabs
 ssllabs-scan
 sslprotocol
@@ -9457,11 +9345,11 @@ supermarket
 support
 support-tool
 support-tools
+suppress
 supress-reboot
 surround
 survey
 surveymonkey
-sus
 sushi
 suspensive
 svesavov
@@ -9594,7 +9482,6 @@ team
 teamcity
 teamfoundationserver
 teams
-teamsdevices
 teamservices
 teamspolicy
 teamviewer
@@ -9627,7 +9514,6 @@ teradata
 termbin
 terminal
 terminal-interface
-terminal-services
 terminal.gui
 terminalnotifier
 terminalvelocity
@@ -9679,7 +9565,6 @@ texting-emojis
 textprocessing
 textwrapping
 tfe
-tfenv
 tflint
 tfs
 tfscmdlets
@@ -9867,7 +9752,6 @@ tweet
 twig
 twilio
 twincat
-twinkly
 twitch
 twitter
 twitter-api
@@ -10034,7 +9918,6 @@ uqword
 uri
 uri-scheme
 url
-url-encode
 url-shortener
 urldecode
 urlencode
@@ -10112,7 +9995,6 @@ vbaproject
 vbproj
 vbr
 vbscript
-vbsinst
 vc
 vccmdlets
 vcenter
@@ -10299,7 +10181,6 @@ walk
 wallet
 wallpaper
 wallpapers
-wannacry
 wansi
 wap
 wapack
@@ -10319,7 +10200,6 @@ wayk
 waykbastion
 wbem
 wcf
-wcry
 wdac
 wdapi
 wds
@@ -10405,7 +10285,6 @@ win-ps2exe
 win10
 win2k8
 win32
-win32_installedwin32program
 win32_operatingsystem
 win32-api
 win32appmigrationtool
@@ -10417,13 +10296,10 @@ windows explorer
 windows_events
 windows-10
 windows-api
-windows-control-panel
-windows-defender
 windows-defender-application-control
 windows-environment
 windows-explorer
 windows-features
-windows-firewall
 windows-powershell
 windows-registry
 windows-remoting
@@ -10575,10 +10451,8 @@ writeaccess
 writelog
 writemanager
 writeprogress
-writer
 ws-federation
 wsapi
-wsb
 wsl
 wsl2
 wsl2 psmodule psedition_core
@@ -10594,7 +10468,6 @@ wtx
 wu
 wug
 wunderlist
-wus
 wvd
 www
 x-cart
@@ -10629,7 +10502,6 @@ xiaomi
 xin
 xkcd
 xliff
-xlsx
 xmc
 xml
 xml-rpc
