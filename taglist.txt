@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Tuesday, 02 January 2024 17:52:34 UTC
+Updated: Wednesday, 03 January 2024 02:05:05 UTC
 
 .bat
 .env
@@ -72,6 +72,7 @@ abc
 abc_testing
 abe
 about
+abr
 abstractsyntaxtree
 abuse
 abuseipdb
@@ -104,7 +105,6 @@ act!
 actifio
 actifiogo
 action
-action1
 actiongroup
 actionplan
 actions
@@ -180,6 +180,7 @@ adm
 admf
 admin
 admin-tools
+adminbyrequest
 admindirectory
 administration
 administrative
@@ -226,8 +227,6 @@ afd
 affinity
 affinity-co
 affinity-crm
-after-effects
-aftereffects
 agenda
 agent
 aggregates
@@ -347,6 +346,7 @@ aovpn psmodule
 apache
 apachekafka
 apexlegends
+apexone
 api
 api-client
 api-gateway
@@ -575,7 +575,6 @@ availability
 availabilityset
 avalara
 avalonia
-avatar
 avd
 ave
 avepoint
@@ -1142,6 +1141,7 @@ cleanmgr
 cleanup
 cleanup-orphans
 clear
+clear-history
 clearpass
 cli
 cli-menu
@@ -1459,7 +1459,6 @@ coreepower.lib
 coreepower.module
 coreepower.net
 coreepower.net.soundcloudexplode
-coreposh
 coreutils
 corona
 cortex
@@ -1585,6 +1584,7 @@ curseforge
 custom
 customchecks
 customdns
+customer
 customerengagement
 customers
 customeventchannel
@@ -1670,7 +1670,6 @@ dataconduit
 dataconnectivity
 datadog
 dataexchange
-dataexplorer
 datafactory
 dataflow
 dataflowdependency
@@ -1771,6 +1770,7 @@ defenderforendpoint
 defense
 deflate
 delegated
+delegationmodel
 delete
 delete-orphan-branches
 deleteuserprofile
@@ -1932,7 +1932,6 @@ dlp
 dmarc
 dmgr
 dmi
-dmtf
 dmx
 dnd
 dnf
@@ -1990,7 +1989,6 @@ domain
 domainkey
 domainname
 domains
-domino
 donothing
 dos
 dot
@@ -2073,9 +2071,9 @@ dtc
 dts
 dtsx
 dtx
+du
 dual-stack
 duck
-duckduckgo
 dudckduckgo
 duf
 dummy
@@ -2352,6 +2350,7 @@ exif
 exiftool
 exists
 exitcode
+exitprocessrequest
 exo
 exov2
 exov3
@@ -2387,7 +2386,6 @@ extendedattributes
 extendedevents
 extendedproperties
 extendedproperty
-extendscript
 extensibility
 extension
 extensionmethods
@@ -2427,6 +2425,7 @@ fastgit
 fastlinq
 fastlookup
 fastping
+fasttrack
 favorites
 fb-pro
 fciv
@@ -2704,6 +2703,7 @@ generate-dockerimagevariants
 generate-password
 generate-random-password
 generateaddress
+generates
 generatewif
 generation
 generator
@@ -2713,8 +2713,6 @@ genetic-algorithm
 genp
 genxdev
 geo
-geocache
-geocaching
 geoencode
 geoencoding
 geoip
@@ -2741,6 +2739,7 @@ get-emptyadgroups
 get-externalip
 get-firmwaretype
 get-help
+get-history
 get-iislog
 get-openfile
 get-openfiles
@@ -2872,7 +2871,6 @@ greynoise
 grid
 gridfs
 grok
-groundspeak
 group
 group-membership
 group-policy
@@ -3214,6 +3212,7 @@ imagination
 imaging
 imap
 imb
+imei
 imi
 impala
 impersonation
@@ -3240,6 +3239,7 @@ indicator
 inedo
 inetfwrule
 inetum
+infinity
 influx
 influxdb
 info
@@ -3460,6 +3460,7 @@ join
 join-object
 jojoba
 joke
+jotform
 journal
 joyride
 jpg
@@ -3493,7 +3494,6 @@ jws
 jwt
 jwttoken
 k8s
-k8sshell
 kafka
 kaminario
 karabiner
@@ -3505,6 +3505,7 @@ kaspersky
 katakana
 kb
 kbarticle
+kdbx
 kdialog
 keenetic
 keepachangelog
@@ -3556,7 +3557,6 @@ krbtgt
 krick
 kschemaplugin
 kubclt
-kube
 kubectl
 kubectx
 kubens
@@ -3564,6 +3564,7 @@ kubernetes
 kubernetesconfiguration
 kubespray
 kudu
+kurukuru
 kusto
 kvm
 kvp
@@ -3887,6 +3888,7 @@ maps
 mapsapi
 mariadb
 mark
+markdig
 markdown
 markdownrender
 marketing
@@ -4087,6 +4089,7 @@ mmdc
 mobile
 mobilenetwork
 mobilitycontroller
+mock
 mocking
 model
 modeling
@@ -4416,6 +4419,7 @@ nprintingapi
 nps
 npslog
 npslogfile
+nql
 nrc
 nrql
 ns
@@ -4655,6 +4659,7 @@ oui-search
 oura
 ouraring
 out-consolegridview
+out-default
 out-gridview
 out-json
 outerjoin
@@ -4991,7 +4996,6 @@ poshy-wrap-npm
 poshy-wrap-pip
 poshy-wrap-pipenv
 poshy-wrap-pyenv
-poshy-wrap-pylint
 poshy-wrap-python
 poshy-wrap-ruby
 poshy-wrap-systemctl
@@ -5012,6 +5016,7 @@ postgres
 postgresql
 potato
 pow
+powdrgit
 power
 power-apps
 power-cbr
@@ -5155,6 +5160,7 @@ process
 processing
 processmitigation
 processor
+procmap
 procs
 producer
 product
@@ -6270,7 +6276,6 @@ pscommand_invoke-pipinstallupgrade
 pscommand_invoke-piplistoutdated
 pscommand_invoke-pipuninstall
 pscommand_invoke-pyenv
-pscommand_invoke-pylintreportsdisabled
 pscommand_invoke-ruby
 pscommand_invoke-rubyexecute
 pscommand_invoke-rubyexecutehttpdhere
@@ -6759,7 +6764,6 @@ pscommand_pwh
 pscommand_pwshrc-show-proxy
 pscommand_py
 pscommand_pyenv
-pscommand_pylint-quick
 pscommand_pyserver
 pscommand_python
 pscommand_python3
@@ -7685,7 +7689,6 @@ psfunction_invoke-pipinstallupgrade
 psfunction_invoke-piplistoutdated
 psfunction_invoke-pipuninstall
 psfunction_invoke-pyenv
-psfunction_invoke-pylintreportsdisabled
 psfunction_invoke-ruby
 psfunction_invoke-rubyexecute
 psfunction_invoke-rubyexecutehttpdhere
@@ -8141,6 +8144,7 @@ pskeepass
 pslocalgallery
 psloganalytics
 psm
+psm1
 psmodule
 psmodule psedition_desktop
 psmodulepath
@@ -8258,7 +8262,6 @@ pwshrc
 pxedistributionpoint
 pyenv
 pygmentize
-pylint
 pyranja
 python
 python-for-dotnet
@@ -8345,6 +8348,7 @@ ratings
 ravendb
 razzle
 rbac
+rbacmodel
 rbsu
 rcon
 rcs
@@ -8483,6 +8487,7 @@ remotemanagement
 remotesession
 remoting
 remove
+remove-githubsecrets
 remove-itemproperty
 remove-pass
 remove-path
@@ -8954,6 +8959,7 @@ set
 set_bios
 set-alias
 set-dnsservers
+set-githubsecrets
 set-itemproperty
 set-location
 set-openfiles
@@ -9107,7 +9113,6 @@ smb
 smb1
 smb2
 smbios
-smbios-information
 smfoxx
 smfx
 smileys
@@ -9452,7 +9457,6 @@ supermarket
 support
 support-tool
 support-tools
-suppress
 supress-reboot
 surround
 survey
@@ -9715,6 +9719,7 @@ tic-tac-toe
 tickle
 ticks
 tictactoe
+tiermodel
 time
 timeout
 timer
@@ -9814,6 +9819,7 @@ treffynnon
 trein
 trello
 trellops
+trend
 trend-micro
 trendmicro
 trevor
@@ -10135,6 +10141,7 @@ venvlink
 vera
 veracrypt
 verbose psmodule
+verification
 verify
 version
 versioning
@@ -10320,6 +10327,7 @@ weather
 weaviate
 weaviatenet
 web
+web-search
 web.config
 webadministration
 webapi
