@@ -4,7 +4,7 @@
 
 This repository contains reports for the [PowerShell Gallery](https://powershellgallery.com). The hope is that it will be easier for you to find modules that will make your work easier. The plan is to update the reports three times a day and push them to this repository.
 
-Feel free to use the Discussion section of this repository to talk about specific modules. If you think there should be another type of report, feel <https://github.com/jdhitsolutions/PSGalleryReport/issues> free to submit a Feature Request in the [Issues](https://github.com/jdhitsolutions/PSGalleryReport/issues) section of this repository.
+Feel free to use the [Discussion](https://github.com/jdhitsolutions/PSGalleryReport/discussions) section of this repository to talk about specific modules. If you think there should be another type of report, feel <https://github.com/jdhitsolutions/PSGalleryReport/issues> free to submit a Feature Request in the [Issues](https://github.com/jdhitsolutions/PSGalleryReport/issues) section of this repository.
 
 > :warning: This project is __not__ a PowerShell module for you to install and run. This repository is a location for reports that I am generating and publishing through a GitHub Action. You are welcome to take my scripts and use them as the basis for your own reporting. Or feel free to fork and keep up to date on your own.
 
@@ -13,7 +13,7 @@ Feel free to use the Discussion section of this repository to talk about specifi
 These are the currently active reports. Reports are created in markdown. I am also converting the markdown documents to PDF files. You might prefer this if you want to create automation for downloading the files.
 
 ```powershell
-Invoke-Webrequest -uri https://raw.githubusercontent.com/jdhitsolutions/PSGalleryReport/main/psgallery-filtered.pdf -OutFile d:\temp\psgallery-filtered.pdf
+Invoke-WebRequest -uri https://raw.githubusercontent.com/jdhitsolutions/PSGalleryReport/main/psgallery-filtered.pdf -OutFile d:\temp\psgallery-filtered.pdf
 ```
 
 GitHub will render both file types in your browser. Although GitHub will not render links in the PDF versions. But you can download the PDF and view it in your browser.
@@ -54,7 +54,7 @@ The end of the list is essentially by chance. If there are 3 contributors with t
 
 ### [Tag List](taglist.txt)
 
-This is a simple text list of unique tags found in the PowerShell Gallery. All tags have been converted to lower-case, but that should not affect using the tag.
+This is a simple text list of unique tags found in the PowerShell Gallery. All tags have been converted to lower-case, but that should not affect the use of the tag.
 
 ```powershell
 Find-Module -tag bios
@@ -73,8 +73,12 @@ $data | where-object {$_.name -match "(SQL)|(database)"} | Select-Object -proper
 
 ## A Note on Scripts
 
-I am using a Github action to generate the reports every 8 hours. The action is executing the `run.ps1` script in Ubuntu. The commands to create the PDF files are Ruby-based and require additional configuration. If you are using my scripts as the basis for your work, there are VSCode extensions you can use to easily convert markdown files to PDF or you might find other tools for this task if you want to avoid using Ruby.
+I am using a Github action to generate the reports every 8 hours. The action is executing the `run.ps1` script in the latest Ubuntu release. The commands to create the PDF files are Ruby-based and require additional configuration. If you are using my scripts as the basis for your work, there are VSCode extensions you can use to easily convert markdown files to PDF or you might find other tools for this task if you want to avoid using Ruby.
 
 ## Limitations
 
 As of now, there is no way to include *pre-release* modules. You can only use `Find-Module` to search for pre-release when using the module name. You can always click the PowerShell Gallery link in a report and check for pre-release versions.
+
+## PowerShellGet vs Microsoft.PowerShell.PSResourceGet
+
+I considered revising the scripts to use the newer and improved Microsoft.PowerShell.PSResourceGet module. However, I discovered that the module does not return the same information as PowerShellGet. Most importantly for my purposes, `Find-PSResource` does not include the download count. That defeats one of the primary purposes of this project.

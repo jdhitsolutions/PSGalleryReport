@@ -1,9 +1,9 @@
-#requires -version 5.1
+#requires -version 7.4
 #requires -module PowerShellGet
 
 #this script is run from a PowerShell scheduled job so use explicit paths to avoid errors.
-# IF RUNNING OFFLINE YOU NEED TO EXTRACT THE PSGALLERY DATA FROM PSGALLERYDATA.ZIP AND
-# CONVERT TO PSGALLERY.XML
+# IF RUNNING OFFLINE YOU NEED TO EXTRACT THE PSGallery DATA FROM PSGalleryDATA.ZIP AND
+# CONVERT TO PSGallery.XML
 
 Param(
   [Parameter(HelpMessage = "Run the reports using offline data")]
@@ -12,20 +12,20 @@ Param(
   [switch]$Testing
 )
 Write-Host "[$(Get-Date)] Starting $(Join-Path $PSScriptRoot run.ps1)" -ForegroundColor cyan
-$tmpData = Join-Path -Path $HOME -ChildPath psgallery.xml
+$tmpData = Join-Path -Path $HOME -ChildPath PSGallery.xml
 
 if (-Not $Offline) {
   Try {
     #verify PowerShell Gallery is online
     Write-Host "[$(Get-Date)] Testing PowerShellGallery.com"
     $test = Invoke-WebRequest -Uri https://powershellgallery.com -DisableKeepAlive -UseBasicParsing -ErrorAction Stop
-    if ($test.statuscode -eq 200) {
+    if ($test.StatusCode -eq 200) {
       #save an offline file of all modules and use that for the reports
       Write-Host "[$(Get-Date)] Saving offline data to $tmpData" -ForegroundColor cyan
       Find-Module -Repository PSGallery -ErrorAction Stop | Export-Clixml -Path $tmpData
     }
     else {
-      Throw "PowerShellGallery.com is not available. Status code $($test.statuscode),"
+      Throw "PowerShellGallery.com is not available. Status code $($test.StatusCode),"
     }
   }
   Catch {
@@ -51,16 +51,17 @@ if (Test-Path $tmpData) {
   #export data to json
   Write-Host "[$(Get-Date)] Exporting gallery data to JSON" -ForegroundColor cyan
 
+  # 4 January 2024 Use the -Compress parameter with ConvertTo-JSON to reduce the file size as much as possible. This requires PowerShell 7.
   Import-Clixml -Path $tmpData |
   Select-Object -Property Name, Version, Author, CompanyName, Tags, ProjectURI,
-  Description, PublishedDate, @{Name = "Downloads"; Expression = { $_.additionalmetadata.downloadcount } } |
-  ConvertTo-Json | Out-File $PSScriptRoot/../psgallerydata.json -Encoding utf8
+  Description, PublishedDate, @{Name = "Downloads"; Expression = { $_.AdditionalMetadata.DownloadCount } } |
+  ConvertTo-Json -Compress | Out-File $PSScriptRoot/../PSGallerydata.json -Encoding utf8
 
-  #2 March 2023 Compress the psgallerydata.json file
+  #2 March 2023 Compress the PSGallerydata.json file to a zip file
   Write-Host "[$(Get-Date)] Compressing PSGalleryData.json" -ForegroundColor cyan
-  Compress-Archive -path $PSScriptRoot/../psgallerydata.json -DestinationPath $PSScriptRoot/../psgallerydata.zip -CompressionLevel Optimal -Force
-  If (Test-Path $PSScriptRoot/../psgallerydata.json) {
-    Remove-Item -path $PSScriptRoot/../psgallerydata.json
+  Compress-Archive -path $PSScriptRoot/../PSGallerydata.json -DestinationPath $PSScriptRoot/../PSGallerydata.zip -CompressionLevel Optimal -Force
+  If (Test-Path $PSScriptRoot/../PSGallerydata.json) {
+    Remove-Item -path $PSScriptRoot/../PSGallerydata.json
   }
 
   #Create PDFs
@@ -89,7 +90,7 @@ Change Log
 3/24/2023
     Fixed missing PDF folder
 3/2/2023
-    Compress psgallerydata.json to a zip file.
+    Compress PSGallerydata.json to a zip file.
 5/9/2022
     Revised to use Join-Path which works better cross-platform for building paths
 5/8/2022
