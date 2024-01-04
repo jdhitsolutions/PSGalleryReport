@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Wednesday, 03 January 2024 17:52:37 UTC
+Updated: Thursday, 04 January 2024 02:05:14 UTC
 
 .bat
 .env
@@ -13,9 +13,9 @@ Updated: Wednesday, 03 January 2024 17:52:37 UTC
 'files
 'provider'
 "interactive
+{modulenameplaceholder}
 **psedition_desktop**
 **windows**
-🍄
 🍣
 💩
 10
@@ -55,7 +55,6 @@ Updated: Wednesday, 03 January 2024 17:52:37 UTC
 8.1
 8ball
 9
-aa
 aac
 aad
 aad-graph
@@ -136,7 +135,10 @@ acumatica
 ad
 ad_monitoring
 ad-ds
+ad-object
+ad-ou-object
 ad-report
+ad-site
 adal
 adapter
 adapter-control
@@ -168,6 +170,7 @@ adfsdiagnostics
 adfsendpoint
 adfstoolkit
 adfstools
+adgroupmemberobjects
 adgroupmembers
 adgroups
 adif
@@ -175,6 +178,7 @@ adlds
 adm
 admf
 admin
+admin-tools
 adminbyrequest
 admindirectory
 administration
@@ -191,11 +195,14 @@ ado_security
 ado.net
 adobe
 adobeflash
+adobject
+adouobject
 adoxio
 adp
 adr
 ads
 adsi
+adsite
 adsp
 adsync
 aduser
@@ -365,7 +372,6 @@ app-only
 app-v
 app-volumes
 app.config
-appattach
 appclusive
 appcmd
 appconfiguration
@@ -573,7 +579,6 @@ avatar
 avd
 ave
 avepoint
-avi
 avm
 avmtools
 avro
@@ -734,6 +739,7 @@ bastion
 bat
 batcat
 batch
+batchclass
 batman
 battery
 bayern
@@ -780,7 +786,6 @@ billing
 billingbenefits
 bimi
 bin
-bin-obj
 binary
 binaryip
 bind
@@ -1099,7 +1104,6 @@ cifv3
 cil
 cim
 cim_computersystem
-cimfs
 cimi
 ciminstance
 cims
@@ -1136,7 +1140,6 @@ cleanup
 cleanup-orphans
 clear
 clear-history
-clearpass
 cli
 cli-menu
 cli-menu-helpers
@@ -1283,6 +1286,7 @@ comics
 command
 command_line
 command-line-interface
+command-validation
 commandcoverage
 commandlets
 commandline
@@ -1374,6 +1378,7 @@ connectexchange
 connection
 connectionmonitor
 connections
+connectionsmanager
 connectionstring
 connectivity
 connectwise
@@ -1450,6 +1455,7 @@ coreepower.config
 coreepower.lib
 coreepower.module
 coreepower.net
+coreepower.net.soundcloudexplode
 coreposh
 coreutils
 corona
@@ -1478,7 +1484,6 @@ coveralls.io
 covid
 covid-19
 cpm
-cppm
 cpu
 cpuid
 cpuid-information
@@ -1517,6 +1522,7 @@ credentialsmanager
 credentialstore
 credentialutility
 credman
+credmanager
 crescendo
 crescendobuilt
 cresendo
@@ -1600,8 +1606,6 @@ cvss
 cwi
 cx
 cyberark
-cyberark-api
-cyberark-identity
 cyberdrain
 cybereason
 cybersamurai
@@ -1727,7 +1731,6 @@ ddc
 ddc/ci
 debian
 debug
-debug-files
 debugger
 debugging
 decimal
@@ -1822,7 +1825,6 @@ deviceupdate
 devolutions
 devops
 devops psmodule
-devsecninja
 devsecops
 devspaces
 devtestlabs
@@ -1888,7 +1890,6 @@ disk
 disk_to_disk
 disk-space
 diskfree
-diskimage
 diskpart
 diskpool
 disksize
@@ -2002,6 +2003,8 @@ downloadfacebookvideo
 downloadfilefromsite
 downloadinfo
 downloading
+downloadoffice
+downloadofficertool
 downloads
 downloadyoutubevideo
 dpa
@@ -2042,6 +2045,7 @@ ds
 ds-client
 ds-utils
 dsa
+dsacls
 dsc
 dsc-resource
 dsc-resources
@@ -2065,7 +2069,6 @@ dtx
 du
 dual-stack
 duck
-duckduckgo
 dudckduckgo
 duf
 dummy
@@ -2226,6 +2229,7 @@ envvars
 eol
 eop
 eperl
+ephesoft
 epicor
 episode
 epplus
@@ -2411,6 +2415,7 @@ farm
 farmanager
 fast
 fast-dds
+fast-ping
 fastfilepub
 fastgit
 fastlinq
@@ -2513,6 +2518,7 @@ find-caller
 find-file
 find-path
 finddownloadlinkfromwebsite
+findfile
 findlocation
 findplace
 findproxyforurl
@@ -2522,6 +2528,7 @@ finops
 firebird
 firefox
 firewall
+firewall-management
 firewallrule
 firmware
 first
@@ -2546,6 +2553,7 @@ fleetsoftwareupdate
 flex
 flex-query
 flexdesk
+flickr
 flowchart
 flowy
 fluidrelay
@@ -2632,6 +2640,7 @@ ftps
 fu-msauth
 fudge
 fudgepop
+fujitsu
 full
 full-metal-gnome
 fullclr
@@ -2641,6 +2650,7 @@ fullscreen
 fun
 function
 function_calling
+functionality
 functionalprogramming
 functions
 funds
@@ -2750,7 +2760,6 @@ gh
 gh-actions
 ghactions
 ghc
-ghibli
 ghost
 gif
 gifs
@@ -2861,6 +2870,7 @@ gridfs
 grok
 groundspeak
 group
+group-membership
 group-policy
 groupmembership
 grouppolicy
@@ -2918,6 +2928,7 @@ har
 hard
 hardblock
 harden
+harden-windows-security
 hardening
 hardlink
 hardmatch
@@ -2944,7 +2955,6 @@ hcm
 hcx
 hdfs
 hdinsight
-hdinsightonaks
 header
 headhunter
 health
@@ -2960,6 +2970,7 @@ heartbeatdiscovery
 heat
 heating
 heavenbay
+helium
 helix
 hello
 helloid
@@ -3167,7 +3178,6 @@ iis
 iis10
 iis8
 iisadministration
-iiscrypto
 ikev2
 il
 illinois
@@ -3245,6 +3255,8 @@ inifile
 initialization
 initials-avatar
 initiator
+inline-progress
+inlineprogress
 innerjoin
 innertext
 input
@@ -3269,6 +3281,8 @@ installationmanager
 installedapplications
 installer
 installers
+installoffice
+installofficertool
 installwindows
 instance
 instant
@@ -3378,6 +3392,7 @@ ish
 ishexstring
 isnumeric
 iso
+iso-3166-1
 iso-8601
 ispac
 isprime
@@ -3560,7 +3575,9 @@ label
 labels
 lability
 labnotifications
+labrecipe
 labservices
+labsnippet
 labtech
 labtest
 labworker
@@ -3588,7 +3605,6 @@ latency
 latestupdate
 latin
 latitude
-launcher
 layer
 layman
 layout
@@ -3672,7 +3688,6 @@ liquid
 liquit
 liquit.com
 list
-list_files
 list-directory
 list-item
 listener
@@ -3791,8 +3806,6 @@ lucd
 lucene
 lunches
 lwa
-lxca
-lxcapstool
 lxco
 lxcopstool
 lync
@@ -3925,7 +3938,6 @@ mdbc
 mde
 mdep
 mdm
-mdop
 mdt
 mdx
 me4024
@@ -4043,6 +4055,7 @@ mim
 mime
 mimekit
 min
+mindmeister
 minecraft
 miniconda
 minifier
@@ -4071,6 +4084,7 @@ mobilenetwork
 mobilitycontroller
 mock
 mocking
+model
 modeling
 modify
 module
@@ -4184,6 +4198,7 @@ mulesoft
 multi-factor
 multi-language
 multi-platform
+multi-threading
 multi-zone
 multiboxing
 multicloud
@@ -4237,7 +4252,6 @@ naming
 nana
 nano
 nanoleaf
-nartac
 nasdaq
 native
 natpool
@@ -4290,6 +4304,7 @@ netsuite
 network
 network adapter configuration operating os optical sensor physical pointing portable printer processor cpu refrigaration cooling cooler removable usb sd ram dimm scsi sound audio card enclosure tape temperature touchpad touch pad touchscreen screen trackball trackpoint video graphics voltage psmodule
 network-credentials
+network-info
 networkanalytics
 networkcloud
 networkcontroller
@@ -4297,11 +4312,13 @@ networkdiscovery
 networkdrives
 networkfirewall
 networkfunction
+networkinfo
 networking
 networkinterfaces
 networkloadbalancer
 networkpolicyserver
 networkscan
+networksecurity
 networksecuritygroup
 networkshares
 netwrix
@@ -4629,6 +4646,7 @@ osx
 otel
 otp
 ou
+ou-object
 oui-search
 oura
 ouraring
@@ -4855,6 +4873,7 @@ player
 playlists
 pleasant
 pleasantpasswordserver
+plex
 plist
 plog
 plot
@@ -5072,7 +5091,6 @@ powertab
 powertoolcmdlets
 powertooldsc
 ppdm
-ppk
 pposh
 pps
 ppt
@@ -7039,8 +7057,6 @@ psdsc
 psdshook
 psedition_5
 psedition_5.1
-psedition_7.3
-psedition_7.4
 psedition_core
 psedition_desk
 psedition_desktop
@@ -8179,6 +8195,7 @@ pstanss
 psthread
 pstk
 pstwitter
+pswa
 pswindocumentation
 pswinreporting
 pswinreportingv2
@@ -8226,6 +8243,7 @@ putty
 pve
 pvr
 pvs
+pwa
 pwned
 pwpush
 pwsafe
@@ -8268,6 +8286,7 @@ qrs
 quality
 qualys
 quandl
+quantum
 quarantine
 queries
 query
@@ -8343,6 +8362,7 @@ rdpsign
 rds
 rdsgw
 react-stockcharts
+read
 read-slog
 readable
 reader
@@ -8351,7 +8371,6 @@ readme
 readpdf
 readthedocs
 realschule
-realtimeprotection
 rebase
 reboot
 rebootnodeifneeded
@@ -8430,7 +8449,6 @@ relational
 relay
 release
 releasedefinition
-releasehealth
 releasemanagement
 releasenotes
 relevance
@@ -8444,6 +8462,8 @@ remote-desktop
 remote'
 remoteadmin
 remotecert
+remoteconnection
+remoteconnectionsmanager
 remotecontrol
 remotedesktop
 remotedesktopconnectionmanager
@@ -8758,6 +8778,9 @@ screenresolution
 screensaver
 screenshot
 script
+script_version
+script-to-assembly
+script-to-executable
 scriptanalyzer
 scriptblock
 scriptblocklogging
@@ -8768,6 +8791,7 @@ scriptcs
 scriptedui
 scripting
 scriptlogging
+scriptoform
 scriptrunner
 scripts
 scriptsmonitoring
@@ -8819,6 +8843,7 @@ securestring
 security
 security-awareness-training
 security-policy
+security-score
 security-txt
 security.txt
 securityassertionmarkuplanguage
@@ -8832,6 +8857,7 @@ securitypolicydsc
 securityroles
 securityscopes
 securitytxt
+sed
 seed
 seek
 seekatar
@@ -9143,6 +9169,7 @@ soltra
 solution
 solutions
 sonarcloud
+sonarqube
 sonarr
 sonatype
 songs
@@ -9154,6 +9181,7 @@ soonr
 soonragent
 sophos
 sort
+sorting
 source
 source-dedicated-server
 sourcecontrol
@@ -9461,6 +9489,7 @@ syndication
 synergy
 syntax
 syntax-highlighting
+syntaxcheck
 syntaxhighlighter
 synthesis
 synthetics
@@ -9605,7 +9634,6 @@ terrafun
 terragrunt
 tesla
 test
-test-automation
 test-dscconfiguration
 test-internetconnection
 test-modulepath
@@ -9861,7 +9889,6 @@ ubuntu
 ucs
 ucspowertool
 ud-avataaar
-ud-badgebutton
 ud-badgelink
 ud-breadcrumb
 ud-breadcrumbitem
@@ -10096,6 +10123,7 @@ vduplink
 ve7cc
 vector
 veeam
+veeampn
 veeva
 venafi
 vencord
@@ -10151,7 +10179,6 @@ virus
 virustotal
 visio
 visual
-visual-studio
 visualbuilder
 visualc
 visualization
@@ -10209,11 +10236,9 @@ vplex
 vpn
 vpn-certificate
 vpro
-vps
 vra
 vrchat
 vrealize
-vrising
 vro
 vrops
 vrsns
@@ -10381,10 +10406,13 @@ windows explorer
 windows_events
 windows-10
 windows-api
+windows-control-panel
+windows-defender
 windows-defender-application-control
 windows-environment
 windows-explorer
 windows-features
+windows-firewall
 windows-powershell
 windows-registry
 windows-remoting
@@ -10398,7 +10426,6 @@ windows11
 windows365
 windowsadmincenter
 windowsaudit
-windowsbuilds
 windowscredential
 windowscredentialmanager
 windowscredentials
@@ -10421,7 +10448,6 @@ windowspackagemanager
 windowsplugins
 windowspowershell
 windowspresentationfoundation
-windowsreleasehealth
 windowsrest
 windowssandbox
 windowssearchmanager
@@ -10535,6 +10561,7 @@ write-wansi
 writeaccess
 writelog
 writemanager
+writeprogress
 writer
 ws-federation
 wsapi
@@ -10589,6 +10616,7 @@ xiaomi
 xin
 xkcd
 xliff
+xlsx
 xmc
 xml
 xml-rpc
@@ -10626,7 +10654,6 @@ youtube
 youtube-dl
 youtubeextractor
 yq
-yubaba
 yum
 z
 zabbix
@@ -10660,4 +10687,3 @@ zypper
 全角半角変換
 寿司
 日本語
-湯婆婆
