@@ -1,4 +1,4 @@
-#requires -version 7.4
+#requires -version 7.0
 #requires -module PowerShellGet
 
 #this script is run from a PowerShell scheduled job so use explicit paths to avoid errors.
