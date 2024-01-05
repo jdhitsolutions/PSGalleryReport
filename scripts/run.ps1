@@ -12,7 +12,7 @@ Param(
   [switch]$Testing
 )
 Write-Host "[$(Get-Date)] Starting $(Join-Path $PSScriptRoot run.ps1)" -ForegroundColor cyan
-$tmpData = Join-Path -Path $HOME -ChildPath PSGallery.xml
+$tmpData = Join-Path -Path $HOME -ChildPath psgallery.xml
 
 if (-Not $Offline) {
   Try {
