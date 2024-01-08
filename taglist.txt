@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 08 January 2024 02:07:18 UTC
+Updated: Monday, 08 January 2024 09:52:23 UTC
 
 .bat
 .env
@@ -34,7 +34,6 @@ Updated: Monday, 08 January 2024 02:07:18 UTC
 2010
 2013
 2016
-2018
 2019
 21vianet
 24-bit
@@ -72,7 +71,6 @@ abc
 abc_testing
 abe
 about
-abr
 abstractsyntaxtree
 abuse
 abuseipdb
@@ -80,7 +78,6 @@ acas
 accelerator
 access
 access-control
-access-points
 accesscontrol
 accesscontroldsc
 accessgovernancecp
@@ -182,7 +179,6 @@ adm
 admf
 admin
 admin-tools
-adminbyrequest
 admindirectory
 administration
 administrative
@@ -470,7 +466,6 @@ ascii85
 asciiart
 asdatabase
 asigra
-asjob
 asm
 asn.1
 asn1
@@ -526,13 +521,11 @@ auditpolicy
 audits
 aumid
 aut
-auth
 auth0
 authenticate
 authentication
 authenticationcertificate
 authenticode
-authn
 author
 authoring
 authoringtools
@@ -541,7 +534,6 @@ authority
 authorization
 authorizationheaders
 authorize.net
-authz
 autify
 auto
 auto_cd
@@ -648,8 +640,8 @@ azure-resource-graph
 azure-ssis
 azureactivedirectory
 azuread
-azureadbackupandrestore
 azureadconnect
+azureadgraph
 azureadtoolkit
 azureappconfiguration
 azureas
@@ -712,8 +704,6 @@ azvm
 b2
 back
 backblaze
-backconnection
-backconnectionhostname
 backup
 backup_validation
 bamboo
@@ -851,7 +841,6 @@ bnm
 boards
 bofh
 boilerplate
-boinc
 bold-text
 bolt
 bom
@@ -898,6 +887,7 @@ broot
 brownserve-uk
 browser
 browserbox
+browserextension
 browserhistory
 browsing
 brs
@@ -916,7 +906,6 @@ builder
 building
 buildingfile
 buildingmapping
-buildkit
 buildkite
 buildmaster
 builds
@@ -1045,7 +1034,6 @@ certificatepolicy
 certificates
 certificateservices
 certificatesmanagement
-certinia
 certutil
 cf
 cfn
@@ -1209,13 +1197,11 @@ cloudiq
 cloudkey
 cloudmarque
 cloudmigrations
-cloudpc
 cloudservice
 cloudshell
 clueser
 cluster
 clusterminimumvalues
-clusterplugins
 cmaccounts
 cmake
 cmakepresets.json
@@ -1386,7 +1372,6 @@ connectexchange
 connection
 connectionmonitor
 connections
-connectionsmanager
 connectionstring
 connectivity
 connectwise
@@ -1418,8 +1403,6 @@ continuous-delivery
 continuous-deploy
 continuous-deployment
 continuous-integration
-continuousdelivery
-continuousdeployment
 continuousintegration
 contrast
 control
@@ -1502,6 +1485,7 @@ cqdpowershell
 cqhttp
 crack psmodule
 crash
+crawler
 crayon
 crc
 crc32
@@ -1536,6 +1520,7 @@ crescendobuilt
 cresendo
 crestron
 crime
+crlf
 crm
 crm2016
 cron
@@ -1635,7 +1620,6 @@ dacfx
 dacl
 dacpac
 dacpackage
-dagger
 daily
 dane
 dangling
@@ -2167,6 +2151,7 @@ elevation
 elgato
 elk
 elm
+elmah-io
 elonmusk
 eloqua
 elvui
@@ -2203,6 +2188,7 @@ encodetext
 encoding
 encrypt
 encryption
+end-of-line
 endomondo
 endpoint
 endpoints
@@ -2356,7 +2342,6 @@ execute
 exexml
 exif
 exiftool
-exists
 exitcode
 exitprocessrequest
 exo
@@ -2398,6 +2383,7 @@ extendscript
 extensibility
 extension
 extensionmethods
+extensionrisk
 extensions
 external
 externalip
@@ -2433,7 +2419,6 @@ fastgit
 fastlinq
 fastlookup
 fastping
-fasttrack
 favorites
 fb-pro
 fciv
@@ -2457,17 +2442,13 @@ fiddler
 fido
 fido2
 fieldglass
-fifa
 figlet
 file
 file-association
-file-copy
 file-encoding
 file-extension
 file-extension-association
 file-invalidchar
-file-matcher
-file-matching
 file-monitoring
 file-name
 file-name-extension
@@ -2484,7 +2465,6 @@ filelist
 filelog
 filelogger
 filemanagement
-filematcher
 filename
 filenames
 fileproperties
@@ -2501,9 +2481,6 @@ filesharing
 filestorage
 filestream
 filesystem
-filesystementry-matcher
-filesystementry-matching
-filesystementrymatcher
 filesystemrights
 filesystemsecurity
 filesystemwatcher
@@ -2583,12 +2560,10 @@ font
 fonts
 foo
 food
-football
 for
 force
 forcedelete
 foreach
-foreach-object
 forecast
 forensic
 forensics
@@ -2638,8 +2613,6 @@ freshworks
 friendly
 fritz
 fritzbox
-front
-frontapp
 frontdoor
 frontrange
 fs
@@ -2798,7 +2771,6 @@ githubactions
 githubcli
 githubtools
 githubworkflow
-gitignore
 gitlab
 gitlab-runner
 gitlab4
@@ -2984,6 +2956,7 @@ heartbeatdiscovery
 heat
 heating
 heavenbay
+helium
 helix
 hello
 helloid
@@ -3353,7 +3326,6 @@ invoke-dtdownloaddriverpack
 invoke-dtdownloaddriverupdates
 invoke-dtdrivertool
 invoke-msbuild
-invoke-msbuildpreprocess
 invoke-vsbuild
 invoke-vsdevcommand
 invokebuild
@@ -3391,6 +3363,7 @@ ipv6
 ipynb
 ir
 irc
+irkit
 irl
 irregular
 isadmin
@@ -3617,7 +3590,6 @@ latency
 latestupdate
 latin
 latitude
-launcher
 layer
 layman
 layout
@@ -3652,6 +3624,7 @@ lenovo
 less
 lesspass
 letsencrypt
+lf
 lgpo
 lib
 libgit2
@@ -3871,7 +3844,6 @@ manageability
 managed-identity
 manageddisks
 managedidentities
-managedidentity
 managedserviceidenity
 managedserviceidentity
 managedserviceprovider
@@ -4092,7 +4064,6 @@ mixer
 mkdocs
 mkpasswd
 ml
-ml.net
 mlflow
 mmdc
 mobile
@@ -4178,6 +4149,7 @@ msgbox
 msgraph
 msgraphapi
 msgraphreport
+msgraphtokenlifetimepolicy
 msi
 msi psmodule
 msiexec
@@ -4253,7 +4225,6 @@ mysql-database
 mytest
 n-able
 n-central
-nabu
 nac
 nagios
 name
@@ -4280,6 +4251,7 @@ nbi
 ncal
 ndes
 nebulon
+nec-infrared-transmission-protocol
 nederland
 nedyalkov
 neo4j
@@ -4516,6 +4488,7 @@ officemessageencryption
 officertool
 offline
 offlinewimservicing
+ofx
 ogg
 oh-my-posh
 oh-my-zsh
@@ -4672,7 +4645,6 @@ outertext
 outlook
 output
 output-to-image
-outreach
 outsystems
 overbite
 ovf
@@ -4889,7 +4861,6 @@ plex
 plist
 plog
 plot
-plug-n-copy
 plugin
 plugins
 pluralsight
@@ -4943,6 +4914,7 @@ posh-cats
 posh-chocobear
 posh-direnv
 posh-git
+posh-ribbon
 posh-ssh
 poshbot
 poshcommence
@@ -4999,7 +4971,6 @@ poshy-wrap-npm
 poshy-wrap-pip
 poshy-wrap-pipenv
 poshy-wrap-pyenv
-poshy-wrap-pylint
 poshy-wrap-python
 poshy-wrap-ruby
 poshy-wrap-systemctl
@@ -5063,7 +5034,6 @@ powershell-github-repo
 powershell-gitlab
 powershell-graphql
 powershell-isprime
-powershell-lightning
 powershell-module
 powershell-modules
 powershell-releases-api
@@ -5081,6 +5051,7 @@ powershellconferenceeurope
 powershellcore
 powershellcourse
 powershellexamples
+powershellfar
 powershellgallery
 powershellget
 powershellgetformatversion_2.0
@@ -6279,7 +6250,6 @@ pscommand_invoke-pipinstallupgrade
 pscommand_invoke-piplistoutdated
 pscommand_invoke-pipuninstall
 pscommand_invoke-pyenv
-pscommand_invoke-pylintreportsdisabled
 pscommand_invoke-ruby
 pscommand_invoke-rubyexecute
 pscommand_invoke-rubyexecutehttpdhere
@@ -6768,7 +6738,6 @@ pscommand_pwh
 pscommand_pwshrc-show-proxy
 pscommand_py
 pscommand_pyenv
-pscommand_pylint-quick
 pscommand_pyserver
 pscommand_python
 pscommand_python3
@@ -7694,7 +7663,6 @@ psfunction_invoke-pipinstallupgrade
 psfunction_invoke-piplistoutdated
 psfunction_invoke-pipuninstall
 psfunction_invoke-pyenv
-psfunction_invoke-pylintreportsdisabled
 psfunction_invoke-ruby
 psfunction_invoke-rubyexecute
 psfunction_invoke-rubyexecutehttpdhere
@@ -8268,7 +8236,6 @@ pwshrc
 pxedistributionpoint
 pyenv
 pygmentize
-pylint
 pyranja
 python
 python-for-dotnet
@@ -8384,7 +8351,6 @@ readme
 readpdf
 readthedocs
 realschule
-realtimeprotection
 rebase
 reboot
 rebootnodeifneeded
@@ -8464,7 +8430,6 @@ relay
 release
 releasedefinition
 releasehealth
-releasemanagement
 releasenotes
 relevance
 relic
@@ -8478,8 +8443,6 @@ remote-desktop
 remote'
 remoteadmin
 remotecert
-remoteconnection
-remoteconnectionsmanager
 remotecontrol
 remotedesktop
 remotedesktopconnectionmanager
@@ -8505,7 +8468,6 @@ removetypeaccelerators
 remux
 ren-isac
 rename
-repair-msauth
 reparsepoint
 repeat
 repl
@@ -8565,7 +8527,6 @@ restore
 resume
 retail
 retention
-retro
 retry
 returnuserprofile
 retype
@@ -8592,6 +8553,7 @@ rfc9116
 rg
 rgb
 rhapsody
+ribbon
 ribcl
 rightjoin
 rights
@@ -8677,7 +8639,6 @@ runspaces
 runtimedefinedparameter
 runtimedefinedparameterdictionary
 runway
-russia
 rust
 rust-lang
 ryanairps
@@ -8707,6 +8668,7 @@ saltstackconfig
 saltstackenterprise
 sam
 saml
+saml psmodule
 saml2
 sample
 sampler
@@ -8863,7 +8825,6 @@ security.txt
 securityassertionmarkuplanguage
 securitycenter
 securitycompliancecenter
-securitygroup
 securitygroups
 securityinsights
 securityoptions
@@ -8871,6 +8832,7 @@ securitypolicydsc
 securityroles
 securityscopes
 securitytxt
+sed
 seed
 seek
 seekatar
@@ -9062,9 +9024,7 @@ simplepasswordgenerator
 simplivity
 simplysql
 sin
-single
 singlestore
-singleton
 sinks
 sintez
 sintez.module.rds
@@ -9159,7 +9119,6 @@ snssqlitepsmodule
 sntp
 soap
 soc
-soccer
 social
 social-media
 socialmedia
@@ -9188,6 +9147,7 @@ sonatype
 songs
 sonicwall
 sonicwallvpn
+sonus
 soon
 soonr
 soonragent
@@ -9244,7 +9204,6 @@ splat
 splatting
 split
 splunk
-spn
 spo
 spooler
 sport
@@ -9384,8 +9343,6 @@ stingar
 stock
 stockcharts
 stocks
-stoicism
-stoics
 stop
 storablecolortheme
 storage
@@ -9583,11 +9540,13 @@ taskgroup
 taskmanagement
 tasks
 taskscheduler
+taxjar
 taxonomy
 tcp
 tcp/ip
 tcpip
 tcpport
+tcprjmgmt
 tcpserver
 tcptest
 tcx
@@ -9683,13 +9642,11 @@ texting-emojis
 textprocessing
 textwrapping
 tfe
-tfenv
 tflint
 tfs
 tfscmdlets
 tfsec
 tfswitch
-tftd
 tftp
 tfvars
 tfvc
@@ -9702,7 +9659,6 @@ thinprint
 third-party-libraries
 third-party-notice
 thispc
-thoughtfortheday
 thousandeyes
 thread
 threading
@@ -9754,6 +9710,7 @@ todo.txt
 toggl
 toggle
 token
+tokenlifetime
 tokens
 toml
 tookit
@@ -10133,7 +10090,6 @@ vduplink
 ve7cc
 vector
 veeam
-veeampn
 veeva
 venafi
 vencord
@@ -10199,7 +10155,6 @@ visualstudioonline
 visualstudioteamservices
 vlan
 vlookup
-vlsm
 vm
 vmc
 vmelamed5
@@ -10286,7 +10241,6 @@ vum
 vvx
 vxrail
 w32time
-w365
 w3svc
 w3w
 waa
@@ -10399,7 +10353,6 @@ widedata
 wif
 wifi
 wiki
-wildcard
 wildfly
 wim
 wim2vhd
@@ -10485,7 +10438,6 @@ winform
 winforms
 winget
 wingetbridge
-winrar
 winrm
 winrs
 winrt
@@ -10503,7 +10455,6 @@ wiscmail
 wisco365
 wisconsin-madison
 wisconsin'uw-madison
-wisdom
 with
 wizard
 wkhtmltopdf
@@ -10534,9 +10485,7 @@ workflows
 workingdays
 workinghours
 workingtime
-workload
 workload-automation
-workloadidentity
 workloads
 workpoint
 workrequests
@@ -10548,7 +10497,6 @@ workspaceone
 workspaces
 workstation
 world
-worldcup
 worryfreebusinesssecurity
 wow
 wpad
@@ -10569,7 +10517,6 @@ write-host
 write-information
 write-log
 write-loganalytics
-write-message
 write-progress
 write-slog
 write-wansi
@@ -10580,7 +10527,6 @@ writeprogress
 writer
 ws-federation
 wsapi
-wsb
 wsl
 wsl2
 wsl2 psmodule psedition_core
@@ -10660,7 +10606,6 @@ yahw
 yamaha
 yaml
 yandex
-yapg
 yarn
 yetanotherhelloworld
 yml
