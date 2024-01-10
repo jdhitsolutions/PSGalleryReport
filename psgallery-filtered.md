@@ -3,6 +3,107 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [Invoke-AtomicRedTeam](https://www.powershellgallery.com/Packages/Invoke-AtomicRedTeam/2.1.0) | 2.1.0
+
+### Published: 01/09/2024 23:24:53 by Casey Smith @subTee Josh Rickard @MSAdministrator Carrie Roberts @OrOneEqualsOne Matt Graeber @mattifestation
+
+A PowerShell module that runs Atomic Red Team tests from yaml definition files.
+
+__Downloads__: 21,228 | __Repository__: https://github.com/redcanaryco/invoke-atomicredteam
+
+## [PowerShellProTools](https://www.powershellgallery.com/Packages/PowerShellProTools/2023.12.0) | 2023.12.0
+
+### Published: 01/09/2024 20:11:10 by Ironman Software LLC
+
+PowerShell script packaging, profiling, WPF and Windows Forms design, and desktop automation.
+
+__Downloads__: 26,975 | __Repository__: 
+
+## [PSCloudPC](https://www.powershellgallery.com/Packages/PSCloudPC/1.0.10) | 1.0.10
+
+### Published: 01/09/2024 20:04:56 by Stefan Dingemanse Niels Kok
+
+This PowerShell module allows you to manage your Windows 365 environment from the command line. It provides a set of cmdlets that allow you to perform various tasks, such as creating, modifying and deleting policies, managing Cloud PCs, and more.
+
+__Downloads__: 814 | __Repository__: https://github.com/Windows365Management/PSCloudPC
+
+## [PSTcpIp](https://www.powershellgallery.com/Packages/PSTcpIp/4.24.0) | 4.24.0
+
+### Published: 01/09/2024 19:51:04 by Anthony Guimelli
+
+Provides cmdlets to perform various TCPIP and TLS/SSL related tasks.
+
+__Downloads__: 2,571 | __Repository__: https://github.com/anthonyg-1/PSTcpIp
+
+## [PersistenceSniper](https://www.powershellgallery.com/Packages/PersistenceSniper/1.15.0) | 1.15.0
+
+### Published: 01/09/2024 19:02:50 by Federico @last0x00 Lagrasta
+
+This module tries to enumerate all the persistence techniques implanted on a compromised machine.
+
+__Downloads__: 3,504 | __Repository__: https://github.com/last-byte/PersistenceSniper
+
+## [Microsoft.AVS.Management](https://www.powershellgallery.com/Packages/Microsoft.AVS.Management/6.0.116) | 6.0.116
+
+### Published: 01/09/2024 18:40:16 by David Becher
+
+Various cmdlets for adminstrator level tasks in managing Azure VMware Solutions
+
+__Downloads__: 27,720 | __Repository__: https://github.com/Azure/Microsoft.AVS.Management
+
+## [Harden-Windows-Security-Module](https://www.powershellgallery.com/Packages/Harden-Windows-Security-Module/0.2.9) | 0.2.9
+
+### Published: 01/09/2024 17:56:36 by HotCakeX
+
+Harden Windows Safely, Securely, only with Official Microsoft methods
+
+⭕ This module provides 3 main features: Hardening, Auditing/checking the system compliance, and undoing the Hardening
+
+⭕ Please read the GitHub's readme before running this module: https://github.com/HotCakeX/Harden-Windows-Security
+
+💠 Features of this module:
+
+  ✅ Everything always stays up-to-date with the newest proactive security measures that are industry standards and scalable.
+  ✅ Everything is in plain text, nothing hidden, no 3rd party executable or pre-compiled binary is involved.
+  ✅ No Windows functionality is removed/disabled against Microsoft's recommendations.
+  ✅ The module primarily uses Group policies, the Microsoft recommended way of configuring Windows. It also uses PowerShell cmdlets where Group Policies aren't available, and finally uses a few registry keys to configure security measures that can neither be configured using Group Policies nor PowerShell cmdlets. This is why the module doesn't break anything or cause unwanted behavior.
+  ✅ When a hardening measure is no longer necessary because it's applied by default by Microsoft on new builds of Windows, it will also be removed from the module in order to prevent any problems and because it won't be necessary anymore.
+  ✅ The module can be run infinite number of times, it's made in a way that it won't make any duplicate changes.
+  ✅ The module prompts for confirmation before running each hardening category.
+  ✅ Applying these hardening measures makes your PC compliant with Microsoft Security Baselines and Secured-core PC specifications (provided that you use modern hardware that supports the latest Windows security features)
+
+💠 Hardening Categories from top to bottom: (🔻Detailed info about each of them at my Github🔻)
+
+⏹ Commands that require Administrator Privileges
+  ✅ Microsoft Security Baselines
+  ✅ Microsoft 365 Apps Security Baselines
+  ✅ Microsoft Defender
+  ✅ Attack surface reduction rules
+  ✅ Bitlocker Settings
+  ✅ TLS Security
+  ✅ Lock Screen
+  ✅ UAC (User Account Control)
+  ✅ Windows Firewall
+  ✅ Optional Windows Features
+  ✅ Windows Networking
+  ✅ Miscellaneous Configurations
+  ✅ Windows Update Configurations
+  ✅ Edge Browser Configurations
+  ✅ Certificate Checking Commands
+  ✅ Country IP Blocking
+  ✅ Downloads Defense Measures
+⏹ Commands that don't require Administrator Privileges
+  ✅ Non-Admin Commands that only affect the current user and do not make machine-wide changes.
+
+
+💎 This module has hybrid mode of operation. It can run Interactively and non-interactively (Silent/unattended mode). More info in the document: https://github.com/HotCakeX/Harden-Windows-Security/wiki/Harden%E2%80%90Windows%E2%80%90Security%E2%80%90Module
+
+🏴 If you have any questions, requests, suggestions etc. about this script, please open a new Discussion or Issue on GitHub
+
+🟡 The module generates a nice output on the screen as well as giving users an option to export the results in a CSV file.
+
+__Downloads__: 3,343 | __Repository__: https://github.com/HotCakeX/Harden-Windows-Security
+
 ## [UncommonSense.Zip.Utils](https://www.powershellgallery.com/Packages/UncommonSense.Zip.Utils/0.0.5) | 0.0.5
 
 ### Published: 01/09/2024 17:41:41 by Roy Banse and Jan Hoek
@@ -864,7 +965,7 @@ __Downloads__: 4,167 | __Repository__: https://github.com/oracle/oci-powershell-
 
 This modules provides Cmdlets for OCI Database Service
 
-__Downloads__: 6,704 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+__Downloads__: 6,703 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
 ## [OCI.PSModules.Dashboardservice](https://www.powershellgallery.com/Packages/OCI.PSModules.Dashboardservice/73.1.0) | 73.1.0
 
@@ -1176,7 +1277,7 @@ __Downloads__: 19 | __Repository__: https://github.com/ChendrayanV/PowerShell.Gi
 
 Scripting tools for interacting with the One Identity Safeguard Web API.
 
-__Downloads__: 14,941 | __Repository__: https://github.com/OneIdentity/safeguard-ps
+__Downloads__: 14,942 | __Repository__: https://github.com/OneIdentity/safeguard-ps
 
 ## [spec.base.utilities](https://www.powershellgallery.com/Packages/spec.base.utilities/1.1.9) | 1.1.9
 
@@ -1192,7 +1293,7 @@ __Downloads__: 18,994 | __Repository__:
 
 Functions that generate configuration scripts and manage FortiOS.
 
-__Downloads__: 11,111 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 11,105 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.VMWareAutomate](https://www.powershellgallery.com/Packages/AdminToolbox.VMWareAutomate/4.8.119) | 4.8.119
 
@@ -1200,7 +1301,7 @@ __Downloads__: 11,111 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions to Automate Bulk VMWare Tasks
 
-__Downloads__: 17,812 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 17,807 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.Remoting](https://www.powershellgallery.com/Packages/AdminToolbox.Remoting/1.9.122) | 1.9.122
 
@@ -1208,7 +1309,7 @@ __Downloads__: 17,812 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions for remote management and access.
 
-__Downloads__: 17,631 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 17,625 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.Office365](https://www.powershellgallery.com/Packages/AdminToolbox.Office365/3.1.72) | 3.1.72
 
@@ -1216,7 +1317,7 @@ __Downloads__: 17,631 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions for working with Office365 and Azure modules
 
-__Downloads__: 19,140 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 19,133 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.Networking](https://www.powershellgallery.com/Packages/AdminToolbox.Networking/2.18.30) | 2.18.30
 
@@ -1232,7 +1333,7 @@ __Downloads__: 45,852 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Microsoft Graph interactive API Functions
 
-__Downloads__: 8,013 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 8,010 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.Fun](https://www.powershellgallery.com/Packages/AdminToolbox.Fun/1.6.123) | 1.6.123
 
@@ -1240,7 +1341,7 @@ __Downloads__: 8,013 | __Repository__: https://github.com/TheTaylorLee/AdminTool
 
 Functions that have no purpose
 
-__Downloads__: 17,806 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 17,800 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.FileManagement](https://www.powershellgallery.com/Packages/AdminToolbox.FileManagement/1.15.113) | 1.15.113
 
@@ -1248,7 +1349,7 @@ __Downloads__: 17,806 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 File Management Functions
 
-__Downloads__: 18,531 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 18,525 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.FFTools](https://www.powershellgallery.com/Packages/AdminToolbox.FFTools/4.16.72) | 4.16.72
 
@@ -1256,7 +1357,7 @@ __Downloads__: 18,531 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Expedite simple ffmpeg actions
 
-__Downloads__: 18,419 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 18,413 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.Exchange](https://www.powershellgallery.com/Packages/AdminToolbox.Exchange/1.9.123) | 1.9.123
 
@@ -1264,7 +1365,7 @@ __Downloads__: 18,419 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions for Exchange Management
 
-__Downloads__: 19,566 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 19,570 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.EndpointManagement](https://www.powershellgallery.com/Packages/AdminToolbox.EndpointManagement/4.9.115) | 4.9.115
 
@@ -1272,7 +1373,7 @@ __Downloads__: 19,566 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions for management of endpoints
 
-__Downloads__: 22,612 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 22,616 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.ActiveDirectory](https://www.powershellgallery.com/Packages/AdminToolbox.ActiveDirectory/1.9.120) | 1.9.120
 
@@ -1280,7 +1381,7 @@ __Downloads__: 22,612 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions for Active Directory
 
-__Downloads__: 22,271 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 22,276 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [keycloakTokenManager](https://www.powershellgallery.com/Packages/keycloakTokenManager/1.4.9.861) | 1.4.9.861
 
@@ -1344,60 +1445,7 @@ __Downloads__: 3,253 | __Repository__: https://github.com/MVKozlov/GMGoogleDrive
 
 SdnDiagnostics is a tool used to simplify the data collection and diagnostics of Windows Software Defined Networking.
 
-__Downloads__: 33,674 | __Repository__: https://github.com/microsoft/SdnDiagnostics
-
-## [Harden-Windows-Security-Module](https://www.powershellgallery.com/Packages/Harden-Windows-Security-Module/0.2.8) | 0.2.8
-
-### Published: 01/09/2024 10:33:14 by HotCakeX
-
-Harden Windows Safely, Securely, only with Official Microsoft methods
-
-⭕ This module provides 3 main features: Hardening, Auditing/checking the system compliance, and undoing the Hardening
-
-⭕ Please read the GitHub's readme before running this module: https://github.com/HotCakeX/Harden-Windows-Security
-
-💠 Features of this module:
-
-  ✅ Everything always stays up-to-date with the newest proactive security measures that are industry standards and scalable.
-  ✅ Everything is in plain text, nothing hidden, no 3rd party executable or pre-compiled binary is involved.
-  ✅ No Windows functionality is removed/disabled against Microsoft's recommendations.
-  ✅ The module primarily uses Group policies, the Microsoft recommended way of configuring Windows. It also uses PowerShell cmdlets where Group Policies aren't available, and finally uses a few registry keys to configure security measures that can neither be configured using Group Policies nor PowerShell cmdlets. This is why the module doesn't break anything or cause unwanted behavior.
-  ✅ When a hardening measure is no longer necessary because it's applied by default by Microsoft on new builds of Windows, it will also be removed from the module in order to prevent any problems and because it won't be necessary anymore.
-  ✅ The module can be run infinite number of times, it's made in a way that it won't make any duplicate changes.
-  ✅ The module prompts for confirmation before running each hardening category.
-  ✅ Applying these hardening measures makes your PC compliant with Microsoft Security Baselines and Secured-core PC specifications (provided that you use modern hardware that supports the latest Windows security features)
-
-💠 Hardening Categories from top to bottom: (🔻Detailed info about each of them at my Github🔻)
-
-⏹ Commands that require Administrator Privileges
-  ✅ Microsoft Security Baselines
-  ✅ Microsoft 365 Apps Security Baselines
-  ✅ Microsoft Defender
-  ✅ Attack surface reduction rules
-  ✅ Bitlocker Settings
-  ✅ TLS Security
-  ✅ Lock Screen
-  ✅ UAC (User Account Control)
-  ✅ Windows Firewall
-  ✅ Optional Windows Features
-  ✅ Windows Networking
-  ✅ Miscellaneous Configurations
-  ✅ Windows Update Configurations
-  ✅ Edge Browser Configurations
-  ✅ Certificate Checking Commands
-  ✅ Country IP Blocking
-  ✅ Downloads Defense Measures
-⏹ Commands that don't require Administrator Privileges
-  ✅ Non-Admin Commands that only affect the current user and do not make machine-wide changes.
-
-
-💎 This module has hybrid mode of operation. It can run Interactively and non-interactively (Silent/unattended mode). More info in the document: https://github.com/HotCakeX/Harden-Windows-Security/wiki/Harden%E2%80%90Windows%E2%80%90Security%E2%80%90Module
-
-🏴 If you have any questions, requests, suggestions etc. about this script, please open a new Discussion or Issue on GitHub
-
-🟡 The module generates a nice output on the screen as well as giving users an option to export the results in a CSV file.
-
-__Downloads__: 3,343 | __Repository__: https://github.com/HotCakeX/Harden-Windows-Security
+__Downloads__: 33,671 | __Repository__: https://github.com/microsoft/SdnDiagnostics
 
 ## [AppManiProgramManager](https://www.powershellgallery.com/Packages/AppManiProgramManager/1.46.1) | 1.46.1
 
@@ -1405,7 +1453,7 @@ __Downloads__: 3,343 | __Repository__: https://github.com/HotCakeX/Harden-Window
 
 Module for installing basic programs: This module provides functions for downloading installers from specified links, installing the programs, verifying the installed programs/services, and cleaning up the installer files.
 
-__Downloads__: 117,122 | __Repository__: 
+__Downloads__: 117,120 | __Repository__: 
 
 ## [PSCompletions](https://www.powershellgallery.com/Packages/PSCompletions/3.1.1) | 3.1.1
 
@@ -1430,14 +1478,6 @@ __Downloads__: 155 | __Repository__: https://github.com/Azure/BlobNFS-wsl2
 Powershell SDK for Kaminario / Silk cloud data platform.
 
 __Downloads__: 519 | __Repository__: https://github.com/JayAreP/SDP
-
-## [cr-devops-rest](https://www.powershellgallery.com/Packages/cr-devops-rest/2024.1.300) | 2024.1.300
-
-### Published: 01/08/2024 22:37:38 by Ryan.Phay@clearesult.com
-
-Create straight forward REST calls in PowerShell based on API endpoints defined in .json files.  Add your own REST API endpoints by simply creating new .json files.
-
-__Downloads__: 145 | __Repository__: https://github.com/CLEAResult/it.devops.psm.rest
 
 ## [BicepNet.PS](https://www.powershellgallery.com/Packages/BicepNet.PS/2.3.1) | 2.3.1
 
@@ -1471,14 +1511,6 @@ __Downloads__: 5,844 | __Repository__:
 Optimizes the PowerShell Module Installation Process to be as fast as possible and operate in CI/CD scenarios in a declarative manner
 
 __Downloads__: 133 | __Repository__: https://github.com/JustinGrote/ModuleFast
-
-## [PSTcpIp](https://www.powershellgallery.com/Packages/PSTcpIp/4.23.1) | 4.23.1
-
-### Published: 01/08/2024 18:38:25 by Anthony Guimelli
-
-Provides cmdlets to perform various TCPIP and TLS/SSL related tasks.
-
-__Downloads__: 2,571 | __Repository__: https://github.com/anthonyg-1/PSTcpIp
 
 ## [ObjectGraphTools](https://www.powershellgallery.com/Packages/ObjectGraphTools/0.0.9) | 0.0.9
 
@@ -1542,7 +1574,7 @@ __Downloads__: 5 | __Repository__: https://github.com/ocomes/powershell_utilitie
 
 Install and run BrowserBox remote browser isolation on Windows. Windows Server is also supported. Audio even works from Windows Server. As BrowserBox Windows support is currently in beta release, some subsystems (for example Doc-Viewer for PDFs, DOCX, etc) may not currently work on Windows.
 
-__Downloads__: 31 | __Repository__: https://dosyago.com/
+__Downloads__: 29 | __Repository__: https://dosyago.com/
 
 ## [code365scripts.openai](https://www.powershellgallery.com/Packages/code365scripts.openai/2.0.0.7) | 2.0.0.7
 
@@ -1552,13 +1584,21 @@ The non-official OpenAI PowerShell module. This module is used to interact with 
 
 __Downloads__: 54,790 | __Repository__: https://github.com/chenxizhang/openai-powershell/
 
+## [DuoSecurity](https://www.powershellgallery.com/Packages/DuoSecurity/1.4.0) | 1.4.0
+
+### Published: 01/08/2024 12:27:08 by John Duprey
+
+Duo Security REST module
+
+__Downloads__: 151 | __Repository__: https://github.com/johnduprey/DuoSecurity
+
 ## [Idabus.Automation.Core](https://www.powershellgallery.com/Packages/Idabus.Automation.Core/0.3.2) | 0.3.2
 
 ### Published: 01/08/2024 12:24:25 by Oxford Computer Group
 
 Commandlets for searching, creating, updating and deleting IDABUS resources
 
-__Downloads__: 42 | __Repository__: 
+__Downloads__: 41 | __Repository__: 
 
 ## [Veeam.Diagrammer](https://www.powershellgallery.com/Packages/Veeam.Diagrammer/0.5.6) | 0.5.6
 
@@ -1614,15 +1654,7 @@ __Downloads__: 1,725 | __Repository__: https://github.com/deadlydog/PowerShell.t
 
 A simple module that provides functions to manipulate, search, and create Arrays, Collections, Lists, and Sets.
 
-__Downloads__: 587 | __Repository__: https://github.com/Yevrag35/PowerShell-ListFunctions.git
-
-## [PSRule.Rules.AzureDevOps](https://www.powershellgallery.com/Packages/PSRule.Rules.AzureDevOps/0.4.2) | 0.4.2
-
-### Published: 01/07/2024 17:54:57 by Roderick Bant
-
-PSRule rules module for Azure DevOps project configuration best practices. This module helps to audit an Azure DevOps project for secure and best practice configuration. The module requires PSRule to be installed.
-
-__Downloads__: 349 | __Repository__: https://github.com/cloudyspells/PSRule.Rules.AzureDevOps
+__Downloads__: 585 | __Repository__: https://github.com/Yevrag35/PowerShell-ListFunctions.git
 
 ## [PSWorkItem](https://www.powershellgallery.com/Packages/PSWorkItem/1.7.0) | 1.7.0
 
@@ -1717,7 +1749,7 @@ __Downloads__: 198 | __Repository__:
 
 A module for handling Azure Table Storage operations by wrapping the Azure Data Tables SDK.
 
-__Downloads__: 7,470 | __Repository__: https://github.com/PalmEmanuel/AzBobbyTables
+__Downloads__: 7,472 | __Repository__: https://github.com/PalmEmanuel/AzBobbyTables
 
 ## [BinaryTree.Internal.Power365.Dev](https://www.powershellgallery.com/Packages/BinaryTree.Internal.Power365.Dev/20.12.13.11700) | 20.12.13.11700
 
@@ -1765,7 +1797,7 @@ __Downloads__: 93 | __Repository__: https://github.com/JeshuaEdgar/msp-toolbox
 
 With this module you can install and maintain WSL images
 
-__Downloads__: 29 | __Repository__: https://github.com/shiftavenue/shiftavenue-pswslmanage
+__Downloads__: 27 | __Repository__: https://github.com/shiftavenue/shiftavenue-pswslmanage
 
 ## [AtlassianCloudPS](https://www.powershellgallery.com/Packages/AtlassianCloudPS/0.8.9) | 0.8.9
 
@@ -1837,7 +1869,7 @@ __Downloads__: 777 | __Repository__:
 
 This module provides an interface to the Halo API.
 
-__Downloads__: 182,173 | __Repository__: https://github.com/homotechsual/HaloAPI
+__Downloads__: 182,250 | __Repository__: https://github.com/homotechsual/HaloAPI
 
 ## [Picky](https://www.powershellgallery.com/Packages/Picky/0.0.12) | 0.0.12
 
@@ -1853,7 +1885,7 @@ __Downloads__: 18 | __Repository__:
 
 Module covering functions that are shared within multiple projects
 
-__Downloads__: 266,319 | __Repository__: https://github.com/EvotecIT/PSSharedGoods
+__Downloads__: 266,318 | __Repository__: https://github.com/EvotecIT/PSSharedGoods
 
 ## [LAM-PowerShell](https://www.powershellgallery.com/Packages/LAM-PowerShell/1.0.0.1) | 1.0.0.1
 
@@ -1910,7 +1942,7 @@ __Downloads__: 352 | __Repository__: https://github.com/ykuijs/M365DSC.Composite
 PdfLexer is a powershell pdf manipulation library for Powershell 7+.
  https://github.com/pdflexer/pdflexer
 
-__Downloads__: 356 | __Repository__: https://github.com/pdflexer/pdflexer
+__Downloads__: 360 | __Repository__: https://github.com/pdflexer/pdflexer
 
 ## [ArtifactoryCli](https://www.powershellgallery.com/Packages/ArtifactoryCli/0.0.2) | 0.0.2
 
@@ -1950,7 +1982,7 @@ __Downloads__: 14 | __Repository__:
 
 This module will migrate a Basic SKU load balancer connected to a Virtual Machine Scaleset or Virtual Machines to a Standard SKU load balancer, preserving the existing configuration and functionality.
 
-__Downloads__: 1,302 | __Repository__: https://github.com/Azure/AzLoadBalancerMigration
+__Downloads__: 1,297 | __Repository__: https://github.com/Azure/AzLoadBalancerMigration
 
 ## [PSWriteHTML](https://www.powershellgallery.com/Packages/PSWriteHTML/1.15.0) | 1.15.0
 
@@ -1958,7 +1990,7 @@ __Downloads__: 1,302 | __Repository__: https://github.com/Azure/AzLoadBalancerMi
 
 PSWriteHTML is PowerShell Module to generate beautiful HTML reports, pages, emails without any knowledge of HTML, CSS or JavaScript. To get started basics PowerShell knowledge is required.
 
-__Downloads__: 2,252,384 | __Repository__: https://github.com/EvotecIT/PSWriteHTML
+__Downloads__: 2,252,429 | __Repository__: https://github.com/EvotecIT/PSWriteHTML
 
 ## [OSD](https://www.powershellgallery.com/Packages/OSD/24.1.3.1) | 24.1.3.1
 
@@ -1966,7 +1998,7 @@ __Downloads__: 2,252,384 | __Repository__: https://github.com/EvotecIT/PSWriteHT
 
 January 2024 Update
 
-__Downloads__: 1,198,555 | __Repository__: https://github.com/OSDeploy/OSD
+__Downloads__: 1,198,578 | __Repository__: https://github.com/OSDeploy/OSD
 
 ## [pfSense](https://www.powershellgallery.com/Packages/pfSense/0.9.8) | 0.9.8
 
@@ -1998,7 +2030,7 @@ __Downloads__: 654 | __Repository__:
 
 Update all HP device drivers with a single command.
 
-__Downloads__: 25,700 | __Repository__: https://github.com/UsefulScripts01/HPDrivers
+__Downloads__: 25,713 | __Repository__: https://github.com/UsefulScripts01/HPDrivers
 
 ## [ADEssentials](https://www.powershellgallery.com/Packages/ADEssentials/0.0.182) | 0.0.182
 
@@ -2006,7 +2038,7 @@ __Downloads__: 25,700 | __Repository__: https://github.com/UsefulScripts01/HPDri
 
 Helper module for Active Directory with lots of useful functions that simplify supporting Active Directory.
 
-__Downloads__: 165,260 | __Repository__: https://github.com/EvotecIT/ADEssentials
+__Downloads__: 165,353 | __Repository__: https://github.com/EvotecIT/ADEssentials
 
 ## [SMART-BcBuildHelper](https://www.powershellgallery.com/Packages/SMART-BcBuildHelper/1.5.4) | 1.5.4
 
@@ -2038,7 +2070,7 @@ __Downloads__: 686 | __Repository__: https://github.com/ShaunLawrie/PwshSpectreC
 
 Provide SSH and SCP functionality for executing commands against remote hosts.
 
-__Downloads__: 29,117,580 | __Repository__: 
+__Downloads__: 29,117,391 | __Repository__: 
 
 ## [CWTimeEntry](https://www.powershellgallery.com/Packages/CWTimeEntry/0.0.10) | 0.0.10
 
@@ -2062,7 +2094,7 @@ __Downloads__: 118 | __Repository__:
 
 PowerShell DSC Resource to create TXT / INI / JSON file.
 
-__Downloads__: 85,485 | __Repository__: https://github.com/mkht/DSCR_FileContent
+__Downloads__: 85,486 | __Repository__: https://github.com/mkht/DSCR_FileContent
 
 ## [Eryph.ComputeClient](https://www.powershellgallery.com/Packages/Eryph.ComputeClient/0.4.3) | 0.4.3
 
@@ -2080,36 +2112,4 @@ Powershell module to use with the Meraki API to manage your Meraki Organization.
 
 __Downloads__: 7 | __Repository__: https://github.com/Clifra-Jones/Meraki-API-V1
 
-## [AsBuiltReport.VMware.AppVolumes](https://www.powershellgallery.com/Packages/AsBuiltReport.VMware.AppVolumes/1.1.0) | 1.1.0
-
-### Published: 01/02/2024 16:39:08 by Chris Hildebrandt
-
-A PowerShell module to generate As built reports on the configuration of VMware AppVolumes
-
-__Downloads__: 330 | __Repository__: https://github.com/AsBuiltReport/AsBuiltReport.VMware.AppVolumes
-
-## [CAT](https://www.powershellgallery.com/Packages/CAT/0.26.2.4) | 0.26.2.4
-
-### Published: 01/02/2024 16:08:12 by Joyful Craftsmen CAT Team
-
-Author, run and manage AUTOMATED TESTS for your DATA with minimum effort.
-
-__Downloads__: 762 | __Repository__: https://docs.justcat.it/
-
-## [M365DSCTools](https://www.powershellgallery.com/Packages/M365DSCTools/0.2.0) | 0.2.0
-
-### Published: 01/02/2024 15:13:40 by Yorick Kuijs
-
-Various tools for M365DSC deployments
-
-__Downloads__: 408 | __Repository__: https://github.com/ykuijs/M365DSCTools
-
-## [AdminToolbox](https://www.powershellgallery.com/Packages/AdminToolbox/11.0.129) | 11.0.129
-
-### Published: 01/02/2024 14:21:49 by Taylor Lee
-
-Master module for a collection of modules. These modules are varied in their tasks. The overall purpose of them being to provide a powerfull Toolset to improve IT Admin workflows.
-
-__Downloads__: 31,639 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox
-
-*Updated: Tuesday, 09 January 2024 17:52:29 UTC*
+*Updated: Wednesday, 10 January 2024 02:07:38 UTC*
