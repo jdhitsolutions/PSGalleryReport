@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Wednesday, 10 January 2024 17:52:29 UTC
+Updated: Thursday, 11 January 2024 02:07:36 UTC
 
 .bat
 .env
@@ -45,7 +45,6 @@ Updated: Wednesday, 10 January 2024 17:52:29 UTC
 3d
 3dprinting
 3par
-50
 64
 650
 650flb
@@ -80,6 +79,7 @@ acas
 accelerator
 access
 access-control
+access-points
 accesscontrol
 accesscontroldsc
 accessgovernancecp
@@ -100,7 +100,6 @@ acme
 acmesharp
 acmesharp_ext
 act-on
-act!
 actifio
 actifiogo
 action
@@ -117,9 +116,11 @@ active-directory
 active-plug
 activecampaign
 activedirectory
+activedirectory_over_html
 activedirectoryauthenticationlibrary
 activedirectorycertificateservices
 activedirectoryfederationservices
+activedirectry-html
 activeefficiency
 activehours
 activeresponse
@@ -134,9 +135,7 @@ acumatica
 ad
 ad_monitoring
 ad-ds
-ad-object
-ad-ou-object
-ad-site
+ad-report
 adal
 adapter
 adapter-control
@@ -170,6 +169,7 @@ adfstoolkit
 adfstools
 adgroupmemberobjects
 adgroupmembers
+adgroups
 adidns
 adif
 adlds
@@ -193,16 +193,14 @@ ado_security
 ado.net
 adobe
 adobeflash
-adobject
-adouobject
 adoxio
 adp
 adr
 ads
 adsi
-adsite
 adsp
 adsync
+aduser
 aduseraccountlockout
 adv180002
 adv180018
@@ -241,8 +239,6 @@ aim
 aip
 aipscanner
 aircall
-airpower
-airpwr
 airtable
 ais
 aispeech
@@ -269,7 +265,10 @@ alfresco
 algorithm
 algorithms
 alias
+alias-hint
+alias-tips
 aliases
+aliens
 all
 alletra
 alloydb
@@ -335,7 +334,6 @@ antispam
 antivirus
 any
 anypackage
-anypoint
 anywhere
 aovpn psmodule
 apache
@@ -364,6 +362,7 @@ app
 app-control-for-business
 app-only
 app-v
+app-volumes
 app.config
 appattach
 appclusive
@@ -398,6 +397,7 @@ appservices
 appsetting
 appv
 appveyor
+appvolumes
 appx
 appxmanifest
 aprs
@@ -475,11 +475,11 @@ assemblyloadcontext
 assemblymeta
 assert
 assertion
-assessment
 asset
 assetintelligencepoint
 assets
 assistance
+assistant
 association
 ast
 astronomy
@@ -560,8 +560,6 @@ autotask
 autotaskapi
 autotaskpsa
 autounattend
-autoupdate
-autoupdate-script
 autoyast
 auvik
 availability
@@ -865,8 +863,6 @@ bpmn
 brainy
 branch
 brave
-brawlapi
-brawlstars
 brazencloud
 bre
 breach
@@ -906,7 +902,6 @@ builder
 building
 buildingfile
 buildingmapping
-buildkit
 buildkite
 buildmaster
 builds
@@ -936,7 +931,6 @@ bytearray
 bzip2
 c#
 c++
-ca
 cache
 caf
 cal
@@ -1025,6 +1019,7 @@ centurylinkcloud
 cer
 cert
 certbasedauth
+certera
 certes
 certificate
 certificateauthority
@@ -1244,7 +1239,6 @@ codegen
 codegeneration
 codegenerator
 codepoint
-codereview
 codes
 codesign
 codesigning
@@ -1453,6 +1447,7 @@ coreepower.lib
 coreepower.module
 coreepower.net
 coreepower.net.soundcloudexplode
+coreposh
 coreutils
 corona
 cortex
@@ -1477,6 +1472,7 @@ cover
 coverage
 coveralls
 coveralls.io
+covid
 covid-19
 cpm
 cppm
@@ -1489,6 +1485,7 @@ cqdpowershell
 cqhttp
 crack psmodule
 crash
+crawler
 crayon
 crc
 crc32
@@ -1594,7 +1591,6 @@ customlogs
 customproviders
 cutehttpfileserver
 cvad
-cve
 cve-2021-34527
 cvrf
 cvss
@@ -1623,7 +1619,6 @@ dacfx
 dacl
 dacpac
 dacpackage
-dagger
 daily
 dane
 dangling
@@ -1841,7 +1836,6 @@ diagrams
 dialog
 dice
 diceware
-dicom
 dictionary
 diff
 difference
@@ -1987,7 +1981,6 @@ domains
 domino
 donothing
 dos
-dot
 dotenv
 dotfile
 dotfiles
@@ -2045,7 +2038,6 @@ dry
 ds
 ds-client
 ds-utils
-dsa
 dsacls
 dsc
 dsc-resource
@@ -2273,6 +2265,7 @@ ethr
 ethz
 etl
 etl2pcapng
+etrade
 ets
 etw
 eulanda
@@ -2301,7 +2294,6 @@ eventprocessor
 events
 eventsubscription
 eventviewer
-eventwatch
 evergreen
 evernote
 everydaypowershell
@@ -2316,7 +2308,6 @@ example
 examples
 excel
 exception
-exceptionless
 exchange
 exchange_online
 exchange-rates
@@ -2362,7 +2353,6 @@ expired
 expiring
 expiry
 exploit
-exploits
 exploration
 explorer
 exponentiation
@@ -2416,7 +2406,6 @@ farm
 farmanager
 fast
 fast-dds
-fast-ping
 fastfilepub
 fastgit
 fastlinq
@@ -2445,7 +2434,6 @@ fiche
 fiddler
 fido
 fido2
-fieldglass
 fifa
 figlet
 file
@@ -2519,7 +2507,6 @@ find-caller
 find-file
 find-path
 finddownloadlinkfromwebsite
-findfile
 findlocation
 findplace
 findproxyforurl
@@ -2712,6 +2699,7 @@ genxdev
 geo
 geocache
 geocaching
+geocode
 geoencode
 geoencoding
 geoip
@@ -2720,6 +2708,7 @@ geosearching
 geotagging
 get
 get_random_password
+get-admodernreport
 get-childitem
 get-cmhealthcheck
 get-command
@@ -2871,7 +2860,6 @@ gridfs
 grok
 groundspeak
 group
-group-membership
 group-policy
 groupmembership
 grouppolicy
@@ -2902,7 +2890,6 @@ gz
 gzip
 gzip-compression
 ha
-haarlemsdagblad
 hack
 hacking
 hacktoberfest
@@ -2995,7 +2982,6 @@ hewlett-packard
 hewlett-packardenterprise
 hex
 hexdump
-hg
 hibernate
 hibernation
 hibp
@@ -3136,10 +3122,12 @@ ibmhttpserver
 icacl
 icinga
 icinga2
+icinga2mssql
 icinga2plugins
 icingachecks
 icingaforwindows
 icingainventory
+icingamssql
 icingaplugins
 icingapowershell
 icingapowershellframework
@@ -3256,8 +3244,6 @@ inifile
 initialization
 initials-avatar
 initiator
-inline-progress
-inlineprogress
 innerjoin
 innertext
 input
@@ -3452,6 +3438,7 @@ job
 jobcan
 jobs
 jobscheduler
+johnshopkins
 join
 join-object
 jojoba
@@ -3490,6 +3477,7 @@ jws
 jwt
 jwttoken
 k8s
+k8sshell
 kafka
 kaminario
 karabiner
@@ -3554,6 +3542,7 @@ krbtgt
 krick
 kschemaplugin
 kubclt
+kube
 kubectl
 kubectx
 kubens
@@ -3727,7 +3716,6 @@ lockdown
 locking
 lockoutreport
 lockscreen
-locksmith
 lockstep
 lod
 lodasoft
@@ -3843,6 +3831,7 @@ mailkit
 mails
 main
 main-menu
+maintain-module
 maintenance
 maintenance-window
 maintenancewindows
@@ -3891,6 +3880,7 @@ marketing
 marketo
 marketplace
 marketplaceordering
+marketplacepublisher
 marking
 marklogic
 marquee
@@ -3975,7 +3965,6 @@ menu
 menus
 meraki
 merakiapi
-mercurial
 merge
 mermaid
 message
@@ -4001,7 +3990,6 @@ metrolink
 mfa
 mga
 mgn
-mi
 micro-orm
 microfocus
 microk8s
@@ -4090,6 +4078,7 @@ model
 modeling
 modify
 module
+module-maintenance
 modulebuild
 modulecreation
 modulemanagement
@@ -4185,6 +4174,7 @@ mssql
 mssqlbynarymodule
 mssqlbynarypsmodule
 mssqlmodule
+mssqlplugins
 mssqlserver
 msteams
 mstest
@@ -4193,16 +4183,15 @@ msu
 msvc
 msword
 mta-sts
-mule
-mulesoft
 multi-factor
 multi-language
-multi-threading
+multi-platform
 multi-zone
 multiboxing
 multicloud
 multidimenstional
 multimedia
+multios
 multipass
 multiple
 multiserver
@@ -4303,7 +4292,6 @@ netsuite
 network
 network adapter configuration operating os optical sensor physical pointing portable printer processor cpu refrigaration cooling cooler removable usb sd ram dimm scsi sound audio card enclosure tape temperature touchpad touch pad touchscreen screen trackball trackpoint video graphics voltage psmodule
 network-credentials
-network-info
 networkanalytics
 networkcloud
 networkcontroller
@@ -4311,7 +4299,6 @@ networkdiscovery
 networkdrives
 networkfirewall
 networkfunction
-networkinfo
 networking
 networkinterfaces
 networkloadbalancer
@@ -4336,7 +4323,6 @@ new-samcmapplicationfrompackagedefinitionsms
 new-samcmpackagefrompackagedefinitionsms
 new-system
 new-udmorph
-new-win32app
 newpassword
 newrelic
 news
@@ -4361,7 +4347,6 @@ ninja
 ninjaone
 ninjarmm
 nios
-nist
 nitro
 nitrox
 njclipsh
@@ -4404,7 +4389,6 @@ nova
 npgsql
 npm
 npm-proxy
-npm-upgrade
 nprinting
 nprintingapi
 nps
@@ -4438,7 +4422,6 @@ nuspec
 nutanix
 nuwave
 nva
-nvd
 nvdimm
 nvdimm-n
 nvm
@@ -4464,7 +4447,6 @@ objectstorage
 objecttree
 obs
 observeit
-oce
 ocg
 ocgv
 oci
@@ -4495,7 +4477,6 @@ office2016
 office2019
 office365
 officedev
-officegraph
 officemessageencryption
 officertool
 offline
@@ -4577,6 +4558,7 @@ opensourceinitiative
 openssh
 openssl
 openstack
+openstreetmaps
 openvpn
 operating
 operating_system
@@ -4628,6 +4610,7 @@ osdprogress
 osdsus
 osdupdate
 osi
+osm
 osmanagement
 osmanagementhub
 osp
@@ -4645,7 +4628,6 @@ osx
 otel
 otp
 ou
-ou-object
 oui-search
 oura
 ouraring
@@ -4677,7 +4659,6 @@ pac
 pack
 package
 package-management
-package-manager
 package-transform
 packagemanagement
 packagemanager
@@ -4713,6 +4694,7 @@ parameters
 parclient
 parititions
 parool
+parquet
 parse
 parser
 parsing
@@ -4785,6 +4767,7 @@ pem
 pemfile
 pendingreboot
 penetration
+penetrationtesting
 pentesting
 pentia
 people
@@ -5025,7 +5008,6 @@ powercligoodies
 powercommander
 powerdex
 powerforensics
-powergraph
 powergui
 powermax
 powerplan
@@ -8296,7 +8278,6 @@ queuing
 quickaccess
 quickbase
 quickbooks
-quicksetup
 quiz
 qumulo
 quota
@@ -8687,7 +8668,6 @@ sailpoint
 sale
 sales
 salesforce
-salesloft
 salt
 salt-api
 saltstack
@@ -8724,6 +8704,7 @@ scaffold
 scaffoldingtemplate
 scala
 scalable
+scalablevectorgraphics
 scan
 scanner
 scatter
@@ -8929,7 +8910,6 @@ serviceconnectionpoint
 servicecontrol
 servicedesk
 servicedeskplus
-serviceendpoints
 servicefabric
 servicelinker
 servicemanagementautomation
@@ -9007,6 +8987,7 @@ shares
 sheets
 shell
 shell-art
+shells
 shieldedvm
 ships
 shipsprovider
@@ -9089,6 +9070,7 @@ skytap
 slack
 slash
 slashcommands
+slmgr
 sln
 slugify
 sm
@@ -9443,7 +9425,6 @@ suitecrm
 sullivan
 summary
 sumologic
-supercell
 superheros
 supermarket
 support
@@ -9511,6 +9492,7 @@ sysprep
 system
 system information 1394 controller baseboard motherboard systemboard battery bios bus cache memory cd dvd rom drive compact disc desktop monitor disk partition fan floppy glide point heatpipe ide infrared device keyboard local logical array mouse'
 system-administration
+system-group
 system-service
 system-services
 system.directoryservices.protocols
@@ -9736,6 +9718,7 @@ to-do
 toast
 toasts
 tobias
+toc
 todo
 todo.txt
 toggl
@@ -9812,7 +9795,6 @@ trello
 trellops
 trend
 trend-micro
-trendmicro
 trevor
 trevorsullivan
 triangle
@@ -9850,7 +9832,6 @@ tts
 tubedownloader
 tui
 tulpep
-tuner
 tuning
 tutorial
 tv
@@ -9903,6 +9884,7 @@ ud-control
 ud-dashboard
 ud-datepicker
 ud-field
+ud-flexytable
 ud-funnel
 ud-hero
 ud-illustration
@@ -9912,7 +9894,6 @@ ud-loadingoverlay
 ud-minesweeper
 ud-mouseparticle
 ud-navbarsearch
-ud-numbermask
 ud-orgchart
 ud-piechart3d
 ud-pivottable
@@ -10015,7 +9996,6 @@ upgrade
 uplift
 uplink
 ups
-upsource
 upstream
 uptime
 uptimerobot
@@ -10147,6 +10127,7 @@ video
 videos
 vie
 viewer
+vigenere
 vim
 vimode
 virole
@@ -10202,6 +10183,7 @@ vmss
 vmtovmhostrule
 vmtovmrule
 vmware
+vmware.vsphere
 vmwarecloudfoundation
 vmwaredrs
 vmwarevalidatedsolutions
@@ -10251,7 +10233,6 @@ vscode
 vsdevcmd
 vsdevshell
 vsenvironment
-vsm
 vso
 vsphere
 vsphere+
@@ -10264,7 +10245,6 @@ vsteams
 vstest
 vsts
 vsts-cli
-vulnerabilities
 vulnerability
 vulnerabilityassessment
 vulnerabilityscanning
@@ -10359,7 +10339,6 @@ wec
 wecutil
 weekday
 wef
-weixin
 well-known
 wem
 wemsdk
@@ -10397,7 +10376,6 @@ win32
 win32_installedwin32program
 win32_operatingsystem
 win32-api
-win32appmigrationtool
 win32shutdown
 window
 windows
@@ -10536,7 +10514,6 @@ workspaces
 workstation
 world
 worldcup
-worryfreebusinesssecurity
 wow
 wpad
 wpf
@@ -10563,10 +10540,10 @@ write-wansi
 writeaccess
 writelog
 writemanager
-writeprogress
 writer
 ws-federation
 wsapi
+wsb
 wsl
 wsl2
 wsl2 psmodule psedition_core
@@ -10607,12 +10584,12 @@ xdschelper
 xdscresources
 xdt
 xenapp
+xendeskop
 xendesktop
 xero
 xevents
 xh
 xi
-xiaomi
 xin
 xkcd
 xliff
@@ -10664,7 +10641,6 @@ zcat
 zendesk
 zerotrust
 zerto
-zigbee
 zip
 zip-compression
 zipfile-transform
