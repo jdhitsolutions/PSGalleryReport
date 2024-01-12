@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Friday, 12 January 2024 02:07:53 UTC
+Updated: Friday, 12 January 2024 09:52:34 UTC
 
 .bat
 .env
@@ -17,6 +17,7 @@ Updated: Friday, 12 January 2024 02:07:53 UTC
 **psedition_desktop**
 **windows**
 🍄
+🍣
 💩
 10
 11
@@ -44,6 +45,7 @@ Updated: Friday, 12 January 2024 02:07:53 UTC
 3d
 3dprinting
 3par
+50
 64
 650
 650flb
@@ -70,6 +72,7 @@ abc
 abc_testing
 abe
 about
+abr
 abstractsyntaxtree
 abuse
 abuseipdb
@@ -179,6 +182,7 @@ adm
 admf
 admin
 admin-tools
+adminbyrequest
 admindirectory
 administration
 administrative
@@ -264,6 +268,7 @@ alero
 alert
 alerting
 alertmail
+alertmanagement
 alerts
 alertsmanagement
 alfresco
@@ -302,6 +307,7 @@ amiga
 amp
 amqp
 amsi
+amt
 amxmodx
 anaconda
 analysis
@@ -342,6 +348,7 @@ anypoint
 anywhere
 aovpn psmodule
 apache
+apachekafka
 apexlegends
 apexone
 api
@@ -372,7 +379,6 @@ appattach
 appclusive
 appcmd
 appconfiguration
-appdynamics
 appearance
 appender
 appian
@@ -484,6 +490,7 @@ asset
 assetintelligencepoint
 assets
 assistance
+assistant
 association
 ast
 astronomy
@@ -622,6 +629,7 @@ azsk
 azstackhci
 azstate
 azsubnet
+aztools
 azts
 azuead
 azure
@@ -719,6 +727,7 @@ barcodes
 baremetal
 base
 base16
+base26
 base32
 base64
 base64string
@@ -731,6 +740,7 @@ basename
 bash
 basic
 bastion
+bat
 batcat
 batch
 batchclass
@@ -860,7 +870,6 @@ botservice
 bouncer
 boundaries
 boundarygroups
-bounty
 box
 bpmn
 brainy
@@ -884,6 +893,7 @@ british-gas
 brk4452
 broadcast
 broadcom
+broot
 brownserve-uk
 browser
 browserbox
@@ -894,8 +904,8 @@ brs
 bruteforce
 bson
 btdf
+btm
 budget
-bugbounty
 bugzilla
 build
 build-log
@@ -943,7 +953,6 @@ calc
 calculate
 calculator
 calendar
-callingcode
 callqueue
 calvin-and-hobbes
 cam
@@ -1055,6 +1064,7 @@ chatgpt
 chatops
 chatroom
 chatter
+cheat
 check
 checker
 checklist
@@ -1273,6 +1283,7 @@ colour
 column
 columns
 com
+combinations
 combine
 comdata
 comic
@@ -1309,6 +1320,7 @@ compiler
 complete
 completer
 completion
+completion-manager
 completionresult
 completions
 complex
@@ -1381,6 +1393,7 @@ console
 consoleguitools
 consolemenu
 consolemusic
+consumer
 consumption
 contact
 contacts
@@ -1468,8 +1481,6 @@ count-loc
 countdown
 counter
 countries
-country
-countrycode
 cover
 coverage
 coveralls
@@ -1565,6 +1576,7 @@ cumulativeupdate
 cumulocity
 curious
 curl
+curlie
 currency
 currency-convereter
 currency-exchange
@@ -1741,6 +1753,7 @@ decompiler
 decrypt
 decryption
 dedicatedhsm
+deduplication
 deep
 deep-security
 deep-security-manager
@@ -1767,6 +1780,8 @@ deleteuserprofile
 delivery
 dell
 dellemc
+delta
+demand
 demo
 democratie
 demonstration
@@ -1879,6 +1894,7 @@ discordrpc
 discount
 discover
 discovery
+discutils
 disk
 disk_to_disk
 disk-space
@@ -2066,6 +2082,7 @@ dual-stack
 duck
 duckduckgo
 dudckduckgo
+duf
 dummy
 dummyusers
 dump
@@ -2073,8 +2090,10 @@ dupes
 duplicate
 duplicate-files
 duplicatioin
+duplication
 durable
 durabletask
+dust
 dutch
 dvls
 dword
@@ -2330,7 +2349,9 @@ exchangewebservices
 exclusion
 excuse
 exe
+exec
 executable
+executables
 execute
 exexml
 exif
@@ -2413,14 +2434,18 @@ fastgit
 fastlinq
 fastlookup
 fastping
+fasttrack
 favorites
 fb-pro
 fciv
+fd
 feather
 feature
 features
 featuresondemand
 featureupdate
+federated
+federateddirectory
 federation
 fedex
 feed
@@ -2432,6 +2457,7 @@ fiche
 fiddler
 fido
 fido2
+fieldglass
 fifa
 figlet
 file
@@ -2447,6 +2473,7 @@ file-monitoring
 file-name
 file-name-extension
 file-name-extension-association
+file-server
 file-share
 file-system
 file-transform
@@ -2524,6 +2551,8 @@ fitbit
 fits
 five
 five9
+fix-log
+fix-protocol
 fixlet
 fixpack
 flac
@@ -2589,7 +2618,6 @@ fortune
 forum
 forwardcompatibility
 forwardedevents
-foudil
 fox
 foxpro
 fqdn
@@ -2614,6 +2642,7 @@ front
 frontapp
 frontdoor
 frontrange
+fs
 fsf
 fsharp
 fslogix
@@ -2641,6 +2670,7 @@ fusion
 fusionapps
 fuzzy
 fyi
+fzf
 gac
 gainz
 gainz-chocolateysync
@@ -2720,6 +2750,7 @@ get-externalip
 get-firmwaretype
 get-help
 get-history
+get-iislog
 get-openfile
 get-openfiles
 get-pass
@@ -2813,6 +2844,7 @@ governancerulescontrolplane
 gp
 gpedit
 gpg
+gping
 gpio
 gplink
 gpo
@@ -2885,6 +2917,7 @@ ha
 haarlemsdagblad
 hack
 hacking
+hacktoberfest
 hadoop
 hafr
 hailstone
@@ -2935,6 +2968,7 @@ hcm
 hcx
 hdfs
 hdinsight
+hdinsightonaks
 header
 headhunter
 health
@@ -2981,6 +3015,7 @@ hidden
 hide
 hids
 hiera
+hierarchialdistributionlist
 hierarchical
 hierarchy
 high-availability
@@ -3008,7 +3043,9 @@ hkey_users
 hklm
 hl7
 hlds
+hls
 hockey
+hol
 holiday
 home
 home_automation
@@ -3079,12 +3116,12 @@ humanizer
 humanly
 humor
 humorous
-hunter
 hwid
 hybrid
 hybridrunbookworker
 hyper-v
 hyperconverged
+hyperfine
 hyperlink
 hyperlinked-text
 hyperthreading
@@ -3510,6 +3547,7 @@ keyvault
 keywords
 kibana
 kickstart
+kidrsa
 kill
 kindle
 kinetic
@@ -3517,6 +3555,7 @@ kintone
 klantcontroles
 kms
 knapsack
+knetps
 knob
 knowbe4
 knowledge
@@ -3707,6 +3746,7 @@ lockoutreport
 lockscreen
 locksmith
 lockstep
+lod
 lodasoft
 log
 log-administration
@@ -3778,6 +3818,7 @@ lpsiamol
 ls
 lsa
 lsasecrets
+lsd
 ltm
 lucd
 lucene
@@ -3930,7 +3971,6 @@ media
 mediant
 mediaplayer
 mediaservices
-mediawiki
 meditation
 meesman
 meeting
@@ -3982,6 +4022,7 @@ mgn
 mi
 micro-orm
 microfocus
+microk8s
 microservices
 microsoft
 microsoft_365
@@ -4073,6 +4114,8 @@ modulecreation
 modulemanagement
 modules
 moduleupdate
+moduleupdateinfo
+moduleupdater
 moduleversion
 mof
 moldova
@@ -4109,6 +4152,7 @@ mozilla
 mp3
 mp4
 mpc
+mpeg
 mpn
 mrfk
 mrfylke
@@ -4144,6 +4188,7 @@ msi psmodule
 msiexec
 msil
 msix
+mslab
 msmq
 msol
 msoms
@@ -4202,7 +4247,6 @@ mxlookup
 mycloudrevolution
 myhub
 myip
-myitprocess
 myjson
 myjson.com
 myob
@@ -4429,6 +4473,7 @@ oa
 oacli
 oacmdlets
 oacommand
+oact
 oauth
 oauth2
 oauth2.0
@@ -4492,6 +4537,7 @@ omnisphere
 omnistack
 oms
 omsagent
+on
 on-demand
 on-premise
 onboard
@@ -4534,6 +4580,7 @@ open
 open-ai
 open-ssh
 openai
+openamt
 openapi
 opendata
 openedge
@@ -4673,6 +4720,7 @@ pagerduty
 pages
 paloaltonetworks
 pam
+panels
 pansies
 panther
 panzerbjrn
@@ -4738,7 +4786,6 @@ pax8
 payload
 paylocity
 paypal
-pays
 pbench
 pbip
 pc
@@ -4760,6 +4807,7 @@ peheader
 pem
 pemfile
 pendingreboot
+penetration
 penetrationtesting
 pentesting
 pentia
@@ -4771,6 +4819,7 @@ performancemonitoring
 perl
 permission
 permissions
+permutations
 persistence
 persistent
 personal
@@ -4969,6 +5018,7 @@ poshy-wrap-terragrunt
 poshy-wrap-tmux
 poshy-wrap-vagrant
 poshy-wrap-vault
+poshy-wrap-vscode
 poshy-wrap-wget
 poshy-wrap-wt
 poshy-wrap-yum
@@ -5125,6 +5175,8 @@ processing
 processmitigation
 processor
 procmap
+procs
+producer
 product
 productid
 productivity
@@ -5184,6 +5236,7 @@ prtg
 prtg_network_monitor
 prtgnetworkmonitor
 ps
+ps-completions
 ps-ncentral
 ps.credentialmanager
 ps1
@@ -6401,6 +6454,20 @@ pscommand_invoke-vaultserver
 pscommand_invoke-vaultstatus
 pscommand_invoke-vaultversion
 pscommand_invoke-vaultwrite
+pscommand_invoke-vscodeadd
+pscommand_invoke-vscodediff
+pscommand_invoke-vscodeforpwd
+pscommand_invoke-vscodegoto
+pscommand_invoke-vscodeinstallextension
+pscommand_invoke-vscodenewwindow
+pscommand_invoke-vscodereusewindow
+pscommand_invoke-vscodeuninstallextension
+pscommand_invoke-vscodeverbose
+pscommand_invoke-vscodewithdisableextensions
+pscommand_invoke-vscodewithextensionsdir
+pscommand_invoke-vscodewithlog
+pscommand_invoke-vscodewithuserdatadir
+pscommand_invoke-vscodewithwait
 pscommand_invoke-yumcleanall
 pscommand_invoke-yumgroupinstall
 pscommand_invoke-yumgroupremove
@@ -6896,7 +6963,21 @@ pscommand_vp
 pscommand_vr
 pscommand_vrl
 pscommand_vs
+pscommand_vsc
+pscommand_vsca
+pscommand_vscd
+pscommand_vscde
+pscommand_vsced
+pscommand_vscg
+pscommand_vscie
+pscommand_vscl
+pscommand_vscn
 pscommand_vscp
+pscommand_vscr
+pscommand_vscu
+pscommand_vscue
+pscommand_vscv
+pscommand_vscw
 pscommand_vsl
 pscommand_vssh
 pscommand_vst
@@ -7788,6 +7869,20 @@ psfunction_invoke-vaultserver
 psfunction_invoke-vaultstatus
 psfunction_invoke-vaultversion
 psfunction_invoke-vaultwrite
+psfunction_invoke-vscodeadd
+psfunction_invoke-vscodediff
+psfunction_invoke-vscodeforpwd
+psfunction_invoke-vscodegoto
+psfunction_invoke-vscodeinstallextension
+psfunction_invoke-vscodenewwindow
+psfunction_invoke-vscodereusewindow
+psfunction_invoke-vscodeuninstallextension
+psfunction_invoke-vscodeverbose
+psfunction_invoke-vscodewithdisableextensions
+psfunction_invoke-vscodewithextensionsdir
+psfunction_invoke-vscodewithlog
+psfunction_invoke-vscodewithuserdatadir
+psfunction_invoke-vscodewithwait
 psfunction_invoke-yumcleanall
 psfunction_invoke-yumgroupinstall
 psfunction_invoke-yumgroupremove
@@ -8141,12 +8236,14 @@ publicclient
 publicfolder
 publicip
 publish
+publishedmodules
 publisher
 publishers
 publishing
 pubsub
 pubxml
 pulldistributionpoint
+pullrequest
 pullserver
 pulseway
 pulumi
@@ -8362,6 +8459,7 @@ regex
 region
 regions
 regiser-argumentcompleter
+register
 register-argumentcompleter
 registered
 registrar
@@ -8501,7 +8599,7 @@ rfc4266
 rfc4291
 rfc5952
 rfc826
-rfc9116
+rg
 rgb
 rhapsody
 ribbon
@@ -8582,6 +8680,7 @@ runas
 runbook
 runbooks
 runbookstudio
+runcommand
 rundeck
 runner
 runspace
@@ -8649,6 +8748,7 @@ scaffold
 scaffoldingtemplate
 scala
 scalable
+scalablevectorgraphics
 scan
 scanner
 scatter
@@ -8727,6 +8827,7 @@ scrub
 scrubber
 scsm
 scuba
+sd
 sddl
 sdk
 sdn
@@ -8770,8 +8871,6 @@ security
 security-awareness-training
 security-policy
 security-score
-security-txt
-security.txt
 securityassertionmarkuplanguage
 securitycenter
 securitycompliancecenter
@@ -8782,7 +8881,6 @@ securityoptions
 securitypolicydsc
 securityroles
 securityscopes
-securitytxt
 sed
 seed
 seek
@@ -8815,6 +8913,7 @@ send-mailmessage
 send-message
 senderid
 sendgrid
+sendkeys
 sendmail
 sense
 sensitive
@@ -8909,6 +9008,7 @@ shadow
 shadowcopy
 shadowcopybackups
 shadowgroups
+shanghaitech
 shard
 share
 share-permission
@@ -8979,6 +9079,7 @@ singleton
 sinks
 sintez
 sintez.module.rds
+sit
 site
 site_navigation
 sitecollection
@@ -9377,9 +9478,11 @@ surround
 survey
 surveymonkey
 sus
+sushi
 suspensive
 svesavov
 svetoslav
+svg
 svn
 svt
 swagger
@@ -9539,6 +9642,7 @@ tenantmanagercontrolplane
 teradata
 termbin
 terminal
+terminal-interface
 terminal-services
 terminal.gui
 terminalnotifier
@@ -9562,6 +9666,7 @@ test-samcmapplicationexists
 test-samcmpackageexists
 test-userisadministrator
 test-xml
+test123
 testaccount
 testautomation
 tester
@@ -9657,7 +9762,6 @@ toasts
 tobias
 toc
 todo
-todo.txt
 toggl
 toggle
 token
@@ -9748,7 +9852,6 @@ trouw
 true-color
 truecrypt
 truenas
-trumethods
 truportal
 trusted
 trusted-host
@@ -9759,6 +9862,7 @@ trx
 ts
 tsa
 tsd
+tsheets
 tsqlbestpractice
 tst
 tst1
@@ -9797,6 +9901,7 @@ typeextension
 types
 types.ps1xml
 typescript
+tzutil
 uac
 uberagent
 ubiquiti
@@ -9807,6 +9912,7 @@ ucspowertool
 ud-avataaar
 ud-badgebutton
 ud-badgelink
+ud-breadcrumb
 ud-breadcrumbitem
 ud-burger
 ud-button
@@ -9844,6 +9950,7 @@ ud-signature
 ud-simpledrawer
 ud-singleselect
 ud-slider
+ud-speechbubble
 ud-step
 ud-stepbar
 ud-stickynavbar
@@ -9921,10 +10028,13 @@ update-module
 update-moduletests
 update-typedata
 updatedeferral
+updatemanagement
+updatemgmt
 updater
 updates
 updateservices
 updmanagement
+updmgmt
 upgrade
 uplift
 uplink
@@ -9942,6 +10052,7 @@ url-encode
 url-shortener
 urldecode
 urlencode
+urlhaus
 urlredirections
 urlrewrite
 urlscan
@@ -9995,6 +10106,7 @@ validate-dcb
 validatedsolutions
 validatemapsconnectivity
 validation
+validator
 value
 valve
 vami
@@ -10021,6 +10133,7 @@ vcenter
 vcloud
 vclouddirector
 vcm
+vco
 vcs
 vcsa
 vcvars
@@ -10145,6 +10258,7 @@ vpg
 vplex
 vpn
 vpn-certificate
+vpro
 vps
 vra
 vrchat
@@ -10205,6 +10319,7 @@ wap
 wapack
 wapi
 warning
+warplaneporn
 warranty
 warraty
 warrenty
@@ -10523,6 +10638,7 @@ xendeskop
 xendesktop
 xero
 xevents
+xh
 xi
 xiaomi
 xin
@@ -10583,9 +10699,11 @@ zipfile-transform
 zisson
 zoho
 zone
+zookeeper
 zoom
 zoomapi
 zoommeeting
+zoxide
 zsh
 zuora
 zvm
@@ -10596,5 +10714,6 @@ zypper
 ひらがな
 ローマ字
 全角半角変換
+寿司
 日本語
 湯婆婆
