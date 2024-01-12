@@ -3,25 +3,41 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
-## [Cayosoft.Graph](https://www.powershellgallery.com/Packages/Cayosoft.Graph/11.1.0.613) | 11.1.0.613
+## [ps-color-scripts](https://www.powershellgallery.com/Packages/ps-color-scripts/2024.1.13.519) | 2024.1.13.519
 
-### Published: 01/12/2024 08:40:19 by Cayosoft Inc.
+### Published: 01/12/2024 16:19:26 by Scott McKendry
 
-The Cayosoft Graph (cGraph) Module for Microsoft PowerShell is a FREE SOLUTION that allows administrators to use PowerShell to call the Microsoft Graph API to manage any Graph accessible resource such as, Azure AD, Office 365, Outlook, OneDrive, Intune and more...
+An almost like for like port of Derek Taylor's Popular shell-color-scripts package for PowerShell.
 
-__Downloads__: 10,601 | __Repository__: https://www.cayosoft.com/cgraph
+__Downloads__: 30 | __Repository__: https://github.com/scottmckendry/ps-color-scripts
 
-## [DomainManagement](https://www.powershellgallery.com/Packages/DomainManagement/1.8.202) | 1.8.202
+## [HaloAPI](https://www.powershellgallery.com/Packages/HaloAPI/1.19.0) | 1.19.0
 
-### Published: 01/12/2024 08:21:06 by Friedrich Weinmann
+### Published: 01/12/2024 16:04:17 by Mikey O'Toole / Luke Whitelock
 
-Module to manage domain configuration
+This module provides an interface to the Halo API.
 
-__Downloads__: 1,729 | __Repository__: https://admf.one/
+__Downloads__: 183,597 | __Repository__: https://github.com/homotechsual/HaloAPI
 
-## [IntuneStuff](https://www.powershellgallery.com/Packages/IntuneStuff/1.4.5) | 1.4.5
+## [Import-Package](https://www.powershellgallery.com/Packages/Import-Package/0.4.1) | 0.4.1
 
-### Published: 01/12/2024 08:14:48 by @AndrewZtrhgf
+### Published: 01/12/2024 16:03:32 by anonhostpi
+
+Adds ability to import NuGet/Nupkg packages downloaded by PackageManagement
+
+__Downloads__: 341 | __Repository__: https://github.com/pwsh-cs-tools/core
+
+## [EpinovaAzureToolBucket](https://www.powershellgallery.com/Packages/EpinovaAzureToolBucket/0.15.16) | 0.15.16
+
+### Published: 01/12/2024 14:37:04 by Ove Lartelius
+
+Module contain help functions for the Azure Portal.
+
+__Downloads__: 1,093 | __Repository__: 
+
+## [IntuneStuff](https://www.powershellgallery.com/Packages/IntuneStuff/1.4.6) | 1.4.6
+
+### Published: 01/12/2024 13:50:16 by @AndrewZtrhgf
 
 Various Intune related functions. Some of them are explained at https://doitpsway.com/series/sccm-mdt-intune.
 
@@ -46,7 +62,55 @@ Some of the interesting functions:
 - Upload-IntuneAutopilotHash - upload given autopilot hash (owner and hostname) into Intune
 - ...
 
-__Downloads__: 17,537 | __Repository__: https://github.com/ztrhgf/useful_powershell_modules
+__Downloads__: 17,539 | __Repository__: https://github.com/ztrhgf/useful_powershell_modules
+
+## [ExchangeOnlineArchiveTransfer](https://www.powershellgallery.com/Packages/ExchangeOnlineArchiveTransfer/1.0.3) | 1.0.3
+
+### Published: 01/12/2024 13:08:49 by Jamy Klotzsche
+
+Copy or move items of a Exchange Online mailbox (primary mailbox AND archive mailbox possible) to any folder of any target mailbox in your tenant. Learn more about this project at https://github.com/jklotzsche-msft/ExchangeOnlineArchiveTransfer
+
+__Downloads__: 39 | __Repository__: 
+
+## [Devart.DbForge.DevOpsAutomation.SqlServer](https://www.powershellgallery.com/Packages/Devart.DbForge.DevOpsAutomation.SqlServer/1.2.75.0) | 1.2.75.0
+
+### Published: 01/12/2024 11:55:59 by Devart
+
+dbForge DevOps Automation PowerShell for SQL Server helps with organizing database DevOps processes for your SQL Server databases. It allows you to develop, source-control, and safely automate the deployment of database changes by using dbForge for SQL Server tools via the PowerShell interface.
+
+__Downloads__: 10,893 | __Repository__: https://www.devart.com/dbforge/sql/database-devops/
+
+## [JaapsTools](https://www.powershellgallery.com/Packages/JaapsTools/19.0.1) | 19.0.1
+
+### Published: 01/12/2024 11:55:29 by JT
+
+JaapsTools
+
+__Downloads__: 657 | __Repository__: 
+
+## [ADMF](https://www.powershellgallery.com/Packages/ADMF/1.13.100) | 1.13.100
+
+### Published: 01/12/2024 10:46:39 by Friedrich Weinmann
+
+Central Management Component of the Active Directory Management Framework
+
+__Downloads__: 1,824 | __Repository__: https://admf.one/
+
+## [Cayosoft.Graph](https://www.powershellgallery.com/Packages/Cayosoft.Graph/11.1.0.613) | 11.1.0.613
+
+### Published: 01/12/2024 08:40:19 by Cayosoft Inc.
+
+The Cayosoft Graph (cGraph) Module for Microsoft PowerShell is a FREE SOLUTION that allows administrators to use PowerShell to call the Microsoft Graph API to manage any Graph accessible resource such as, Azure AD, Office 365, Outlook, OneDrive, Intune and more...
+
+__Downloads__: 10,601 | __Repository__: https://www.cayosoft.com/cgraph
+
+## [DomainManagement](https://www.powershellgallery.com/Packages/DomainManagement/1.8.202) | 1.8.202
+
+### Published: 01/12/2024 08:21:06 by Friedrich Weinmann
+
+Module to manage domain configuration
+
+__Downloads__: 1,729 | __Repository__: https://admf.one/
 
 ## [ForestManagement](https://www.powershellgallery.com/Packages/ForestManagement/1.5.73) | 1.5.73
 
@@ -76,7 +140,7 @@ __Downloads__: 356,859 | __Repository__: https://github.com/OSDeploy/OSDSUS
 
 January 2024 Patch Tuesday Update
 
-__Downloads__: 1,211,897 | __Repository__: https://github.com/OSDeploy/OSD
+__Downloads__: 1,211,891 | __Repository__: https://github.com/OSDeploy/OSD
 
 ## [PSAction1](https://www.powershellgallery.com/Packages/PSAction1/1.2.8) | 1.2.8
 
@@ -125,14 +189,6 @@ __Downloads__: 81 | __Repository__: https://blog.n-dimensions.de/
 Provides cmdlets to perform various TCPIP and TLS/SSL related tasks.
 
 __Downloads__: 2,655 | __Repository__: https://github.com/anthonyg-1/PSTcpIp
-
-## [ps-color-scripts](https://www.powershellgallery.com/Packages/ps-color-scripts/2024.1.12.857) | 2024.1.12.857
-
-### Published: 01/11/2024 19:57:27 by Scott McKendry
-
-An almost like for like port of Derek Taylor's Popular shell-color-scripts package for PowerShell.
-
-__Downloads__: 30 | __Repository__: https://github.com/scottmckendry/ps-color-scripts
 
 ## [AzAuth](https://www.powershellgallery.com/Packages/AzAuth/2.2.8) | 2.2.8
 
@@ -191,14 +247,6 @@ Keycloak Realm Manager Module for PowerShell 7
 
 __Downloads__: 9 | __Repository__: 
 
-## [Import-Package](https://www.powershellgallery.com/Packages/Import-Package/0.4.0) | 0.4.0
-
-### Published: 01/11/2024 16:00:26 by anonhostpi
-
-Adds ability to import NuGet/Nupkg packages downloaded by PackageManagement
-
-__Downloads__: 341 | __Repository__: https://github.com/pwsh-cs-tools/core
-
 ## [Posht](https://www.powershellgallery.com/Packages/Posht/1.0.1) | 1.0.1
 
 ### Published: 01/11/2024 15:39:16 by Thomas Mendler
@@ -215,14 +263,6 @@ Liquit Workspace PowerShell Module
 
 __Downloads__: 2,245 | __Repository__: 
 
-## [EpinovaAzureToolBucket](https://www.powershellgallery.com/Packages/EpinovaAzureToolBucket/0.15.12) | 0.15.12
-
-### Published: 01/11/2024 15:04:57 by Ove Lartelius
-
-Module contain help functions for the Azure Portal.
-
-__Downloads__: 1,093 | __Repository__: 
-
 ## [TcXaeMgmt](https://www.powershellgallery.com/Packages/TcXaeMgmt/6.0.132) | 6.0.132
 
 ### Published: 01/11/2024 15:00:51 by Beckhoff
@@ -230,14 +270,6 @@ __Downloads__: 1,093 | __Repository__:
 Cmdlets for Twincat ADS and device management for Powershell Core and Windows Powershell
 
 __Downloads__: 16,456 | __Repository__: https://infosys.beckhoff.com/content/1033/tc3_ads_ps_tcxaemgmt/3972231819.html?id=8731138690123386389
-
-## [JaapsTools](https://www.powershellgallery.com/Packages/JaapsTools/19.0.0) | 19.0.0
-
-### Published: 01/11/2024 14:41:17 by JT
-
-JaapsTools
-
-__Downloads__: 657 | __Repository__: 
 
 ## [PSRule.Rules.AzureDevOps](https://www.powershellgallery.com/Packages/PSRule.Rules.AzureDevOps/0.4.3) | 0.4.3
 
@@ -485,7 +517,7 @@ __Downloads__: 602 | __Repository__: http://www.cdata.com/powershell/
 
 CData Cmdlets for MariaDB
 
-__Downloads__: 3,676 | __Repository__: http://www.cdata.com/powershell/
+__Downloads__: 3,675 | __Repository__: http://www.cdata.com/powershell/
 
 ## [OracleOciCmdlets](https://www.powershellgallery.com/Packages/OracleOciCmdlets/23.0.8770.1) | 23.0.8770.1
 
@@ -613,7 +645,7 @@ __Downloads__: 1,339 | __Repository__: http://www.cdata.com/powershell/
 
 CData Cmdlets for Google Sheets
 
-__Downloads__: 4,464 | __Repository__: http://www.cdata.com/powershell/
+__Downloads__: 4,463 | __Repository__: http://www.cdata.com/powershell/
 
 ## [LDAPCmdlets](https://www.powershellgallery.com/Packages/LDAPCmdlets/23.0.8770.1) | 23.0.8770.1
 
@@ -1389,7 +1421,7 @@ __Downloads__: 3,158 | __Repository__: http://www.cdata.com/powershell/
 
 CData Cmdlets for WordPress
 
-__Downloads__: 700 | __Repository__: http://www.cdata.com/powershell/
+__Downloads__: 699 | __Repository__: http://www.cdata.com/powershell/
 
 ## [SAPBusinessOneCmdlets](https://www.powershellgallery.com/Packages/SAPBusinessOneCmdlets/23.0.8770.1) | 23.0.8770.1
 
@@ -1437,7 +1469,7 @@ __Downloads__: 1,058 | __Repository__: http://www.cdata.com/powershell/
 
 CData Cmdlets for PostgreSQL
 
-__Downloads__: 80,762 | __Repository__: http://www.cdata.com/powershell/
+__Downloads__: 80,787 | __Repository__: http://www.cdata.com/powershell/
 
 ## [ShopifyCmdlets](https://www.powershellgallery.com/Packages/ShopifyCmdlets/23.0.8770.1) | 23.0.8770.1
 
@@ -1605,7 +1637,7 @@ __Downloads__: 547 | __Repository__: http://www.cdata.com/powershell/
 
 CData Cmdlets for Redis
 
-__Downloads__: 2,582 | __Repository__: http://www.cdata.com/powershell/
+__Downloads__: 2,581 | __Repository__: http://www.cdata.com/powershell/
 
 ## [CosmosDBCmdlets](https://www.powershellgallery.com/Packages/CosmosDBCmdlets/23.0.8770.1) | 23.0.8770.1
 
@@ -1701,7 +1733,7 @@ __Downloads__: 503 | __Repository__: http://www.cdata.com/powershell/
 
 CData Cmdlets for Microsoft SharePoint Excel
 
-__Downloads__: 4,325 | __Repository__: http://www.cdata.com/powershell/
+__Downloads__: 4,324 | __Repository__: http://www.cdata.com/powershell/
 
 ## [QuickBooksPOSCmdlets](https://www.powershellgallery.com/Packages/QuickBooksPOSCmdlets/23.0.8770.1) | 23.0.8770.1
 
@@ -1733,7 +1765,7 @@ __Downloads__: 1,167 | __Repository__: http://www.cdata.com/powershell/
 
 CData Cmdlets for MySQL
 
-__Downloads__: 21,302 | __Repository__: http://www.cdata.com/powershell/
+__Downloads__: 21,301 | __Repository__: http://www.cdata.com/powershell/
 
 ## [GmailCmdlets](https://www.powershellgallery.com/Packages/GmailCmdlets/23.0.8770.1) | 23.0.8770.1
 
@@ -1999,36 +2031,4 @@ CData Cmdlets for Stripe
 
 __Downloads__: 1,261 | __Repository__: http://www.cdata.com/powershell/
 
-## [ServiceNowCmdlets](https://www.powershellgallery.com/Packages/ServiceNowCmdlets/23.0.8770.1) | 23.0.8770.1
-
-### Published: 01/10/2024 19:34:15 by CData Software Inc.
-
-CData Cmdlets for ServiceNow
-
-__Downloads__: 2,730 | __Repository__: http://www.cdata.com/powershell/
-
-## [BingCmdlets](https://www.powershellgallery.com/Packages/BingCmdlets/23.0.8769.1) | 23.0.8769.1
-
-### Published: 01/10/2024 19:34:10 by CData Software Inc.
-
-CData Cmdlets for Microsoft Bing
-
-__Downloads__: 1,315 | __Repository__: http://www.cdata.com/powershell/
-
-## [GoogleSearchCmdlets](https://www.powershellgallery.com/Packages/GoogleSearchCmdlets/23.0.8770.1) | 23.0.8770.1
-
-### Published: 01/10/2024 19:34:04 by CData Software Inc.
-
-CData Cmdlets for Google Search
-
-__Downloads__: 1,791 | __Repository__: http://www.cdata.com/powershell/
-
-## [JIRACmdlets](https://www.powershellgallery.com/Packages/JIRACmdlets/23.0.8770.1) | 23.0.8770.1
-
-### Published: 01/10/2024 19:33:58 by CData Software Inc.
-
-CData Cmdlets for Jira
-
-__Downloads__: 1,443 | __Repository__: http://www.cdata.com/powershell/
-
-*Updated: Friday, 12 January 2024 09:52:24 UTC*
+*Updated: Friday, 12 January 2024 17:52:21 UTC*

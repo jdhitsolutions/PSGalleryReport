@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Friday, 12 January 2024 09:52:34 UTC
+Updated: Friday, 12 January 2024 17:52:30 UTC
 
 .bat
 .env
@@ -379,6 +379,7 @@ appattach
 appclusive
 appcmd
 appconfiguration
+appdynamics
 appearance
 appender
 appian
@@ -575,7 +576,6 @@ autoupdate
 autoupdate-script
 autoyast
 auvik
-availability
 availabilityset
 avalara
 avalonia
@@ -626,6 +626,7 @@ azpublicipaddress
 azresources
 azsdk
 azsk
+azsql
 azstackhci
 azstate
 azsubnet
@@ -870,6 +871,7 @@ botservice
 bouncer
 boundaries
 boundarygroups
+bounty
 box
 bpmn
 brainy
@@ -906,6 +908,7 @@ bson
 btdf
 btm
 budget
+bugbounty
 bugzilla
 build
 build-log
@@ -953,6 +956,7 @@ calc
 calculate
 calculator
 calendar
+callingcode
 callqueue
 calvin-and-hobbes
 cam
@@ -1258,7 +1262,6 @@ codes
 codesign
 codesigning
 codex
-coercion
 cognitiveservice
 cognitiveservices
 cohesity
@@ -1481,6 +1484,8 @@ count-loc
 countdown
 counter
 countries
+country
+countrycode
 cover
 coverage
 coveralls
@@ -1894,7 +1899,6 @@ discordrpc
 discount
 discover
 discovery
-discutils
 disk
 disk_to_disk
 disk-space
@@ -2616,8 +2620,8 @@ fortinetmanager
 fortios
 fortune
 forum
-forwardcompatibility
 forwardedevents
+foudil
 fox
 foxpro
 fqdn
@@ -2649,6 +2653,7 @@ fslogix
 fsrm
 ftp
 ftps
+fu-msauth
 fudge
 fudgepop
 fujitsu
@@ -2827,7 +2832,6 @@ google
 google-chrome
 google-histogram
 google-sankey
-google-table
 googleadsv2
 googlecloudplatform
 googledrive
@@ -2957,8 +2961,6 @@ hashset
 hashtable
 hasicorp
 haskell
-haste
-hastebin
 haveibeenpwned
 hba
 hbase
@@ -3116,6 +3118,7 @@ humanizer
 humanly
 humor
 humorous
+hunter
 hwid
 hybrid
 hybridrunbookworker
@@ -3188,8 +3191,6 @@ igr
 ihs
 iiittttt
 iis
-iis10
-iis8
 iisadministration
 iiscrypto
 ikev2
@@ -3971,6 +3972,7 @@ media
 mediant
 mediaplayer
 mediaservices
+mediawiki
 meditation
 meesman
 meeting
@@ -4247,6 +4249,7 @@ mxlookup
 mycloudrevolution
 myhub
 myip
+myitprocess
 myjson
 myjson.com
 myob
@@ -4774,7 +4777,6 @@ passwordstate
 passwordtool
 passwordvault
 passwordwolf
-paste
 patch
 patches
 patching
@@ -4786,6 +4788,7 @@ pax8
 payload
 paylocity
 paypal
+pays
 pbench
 pbip
 pc
@@ -8599,9 +8602,9 @@ rfc4266
 rfc4291
 rfc5952
 rfc826
+rfc9116
 rg
 rgb
-rhapsody
 ribbon
 ribcl
 rightjoin
@@ -8681,7 +8684,6 @@ runbook
 runbooks
 runbookstudio
 runcommand
-rundeck
 runner
 runspace
 runspacepool
@@ -8871,6 +8873,8 @@ security
 security-awareness-training
 security-policy
 security-score
+security-txt
+security.txt
 securityassertionmarkuplanguage
 securitycenter
 securitycompliancecenter
@@ -8881,6 +8885,7 @@ securityoptions
 securitypolicydsc
 securityroles
 securityscopes
+securitytxt
 sed
 seed
 seek
@@ -9285,9 +9290,11 @@ sqlclient
 sqlcmd
 sqlcodeguard
 sqldatabase
+sqldb
 sqldbatools
 sqldiagapi
 sqlexport
+sqlgateway
 sqlite
 sqlitebynarymodule
 sqlitebynarypsmodule
@@ -9762,6 +9769,7 @@ toasts
 tobias
 toc
 todo
+todo.txt
 toggl
 toggle
 token
@@ -9852,6 +9860,7 @@ trouw
 true-color
 truecrypt
 truenas
+trumethods
 truportal
 trusted
 trusted-host
@@ -10110,7 +10119,6 @@ validator
 value
 valve
 vami
-vao
 variable
 variables
 variance
@@ -10481,7 +10489,6 @@ windowssandbox
 windowssearchmanager
 windowsserver
 windowsserver2008
-windowsserver2012
 windowsserver2016
 windowsserver2019
 windowsservercoresecurity
