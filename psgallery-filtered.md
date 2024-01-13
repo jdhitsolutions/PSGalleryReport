@@ -3,13 +3,69 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
-## [Ndimensions.Automation.NafSetup](https://www.powershellgallery.com/Packages/Ndimensions.Automation.NafSetup/1.0.116) | 1.0.116
+## [Permission](https://www.powershellgallery.com/Packages/Permission/0.0.57) | 0.0.57
 
-### Published: 01/13/2024 09:18:18 by hillesheim@n-dimensions.de
+### Published: 01/13/2024 17:41:41 by Jeremy La Camera
+
+Module for working with Access Control Lists
+
+__Downloads__: 455 | __Repository__: 
+
+## [DtsImageCreator](https://www.powershellgallery.com/Packages/DtsImageCreator/1.0.0) | 1.0.0
+
+### Published: 01/13/2024 17:33:57 by datatec.studio
+
+This module generates images from text using OpenAI API
+
+__Downloads__: 0 | __Repository__: 
+
+## [PSOpenAI](https://www.powershellgallery.com/Packages/PSOpenAI/2.6.0) | 2.6.0
+
+### Published: 01/13/2024 16:38:00 by mkht
+
+PowerShell module for OpenAI API
+
+__Downloads__: 608 | __Repository__: https://github.com/mkht/PSOpenAI
+
+## [PsNtfs](https://www.powershellgallery.com/Packages/PsNtfs/2.0.62) | 2.0.62
+
+### Published: 01/13/2024 16:36:44 by Jeremy La Camera
+
+Work with the contents of NTFS volumes
+
+__Downloads__: 448 | __Repository__: 
+
+## [PsBootstrapCss](https://www.powershellgallery.com/Packages/PsBootstrapCss/1.0.23) | 1.0.23
+
+### Published: 01/13/2024 15:46:33 by Jeremy La Camera
+
+Use the Bootstrap CSS library to generate advanced HTML
+
+__Downloads__: 1,079 | __Repository__: 
+
+## [Ndimensions.Automation.NafSetup](https://www.powershellgallery.com/Packages/Ndimensions.Automation.NafSetup/1.0.118) | 1.0.118
+
+### Published: 01/13/2024 14:01:40 by hillesheim@n-dimensions.de
 
 N-DIMENSIONS Automation Framework Setup. `n- Prepare machine for downloading git repositories. Installs git related client software `n- Downloads the NAF repositories
 
 __Downloads__: 89 | __Repository__: https://blog.n-dimensions.de/
+
+## [Adsi](https://www.powershellgallery.com/Packages/Adsi/4.0.0) | 4.0.0
+
+### Published: 01/13/2024 13:56:01 by Jeremy La Camera
+
+Use Active Directory Service Interfaces to query LDAP and WinNT directories
+
+__Downloads__: 1,100 | __Repository__: 
+
+## [Import-Package](https://www.powershellgallery.com/Packages/Import-Package/0.4.2) | 0.4.2
+
+### Published: 01/13/2024 10:17:28 by anonhostpi
+
+Adds ability to import NuGet/Nupkg packages downloaded by PackageManagement
+
+__Downloads__: 373 | __Repository__: https://github.com/pwsh-cs-tools/core
 
 ## [FarGit](https://www.powershellgallery.com/Packages/FarGit/0.4.4) | 0.4.4
 
@@ -18,14 +74,6 @@ __Downloads__: 89 | __Repository__: https://blog.n-dimensions.de/
 Deprecated and replaced by https://github.com/nightroman/FarNet/tree/main/GitKit
 
 __Downloads__: 380 | __Repository__: https://github.com/nightroman/FarGit
-
-## [PsNtfs](https://www.powershellgallery.com/Packages/PsNtfs/2.0.58) | 2.0.58
-
-### Published: 01/13/2024 05:16:31 by Jeremy La Camera
-
-Work with the contents of NTFS volumes
-
-__Downloads__: 448 | __Repository__: 
 
 ## [ModuleFast](https://www.powershellgallery.com/Packages/ModuleFast/0.1.2) | 0.1.2
 
@@ -81,15 +129,7 @@ __Downloads__: 33 | __Repository__: https://github.com/BinaryWizard904/SecretMan
 
 This module provides an interface to the Halo API.
 
-__Downloads__: 184,202 | __Repository__: https://github.com/homotechsual/HaloAPI
-
-## [Import-Package](https://www.powershellgallery.com/Packages/Import-Package/0.4.1) | 0.4.1
-
-### Published: 01/12/2024 16:03:32 by anonhostpi
-
-Adds ability to import NuGet/Nupkg packages downloaded by PackageManagement
-
-__Downloads__: 373 | __Repository__: https://github.com/pwsh-cs-tools/core
+__Downloads__: 184,204 | __Repository__: https://github.com/homotechsual/HaloAPI
 
 ## [EpinovaAzureToolBucket](https://www.powershellgallery.com/Packages/EpinovaAzureToolBucket/0.15.16) | 0.15.16
 
@@ -126,7 +166,7 @@ Some of the interesting functions:
 - Upload-IntuneAutopilotHash - upload given autopilot hash (owner and hostname) into Intune
 - ...
 
-__Downloads__: 17,782 | __Repository__: https://github.com/ztrhgf/useful_powershell_modules
+__Downloads__: 17,778 | __Repository__: https://github.com/ztrhgf/useful_powershell_modules
 
 ## [ExchangeOnlineArchiveTransfer](https://www.powershellgallery.com/Packages/ExchangeOnlineArchiveTransfer/1.0.3) | 1.0.3
 
@@ -196,7 +236,7 @@ These are contained within this PowerShell Module, so regular Module updating is
 ensure you receive the latest Microsoft Updates.  Updates published in WSUS will be different
 from Microsoft Update Catalog website due to Preview Releases
 
-__Downloads__: 357,329 | __Repository__: https://github.com/OSDeploy/OSDSUS
+__Downloads__: 357,327 | __Repository__: https://github.com/OSDeploy/OSDSUS
 
 ## [OSD](https://www.powershellgallery.com/Packages/OSD/24.1.11.1) | 24.1.11.1
 
@@ -204,7 +244,7 @@ __Downloads__: 357,329 | __Repository__: https://github.com/OSDeploy/OSDSUS
 
 January 2024 Patch Tuesday Update
 
-__Downloads__: 1,217,754 | __Repository__: https://github.com/OSDeploy/OSD
+__Downloads__: 1,217,758 | __Repository__: https://github.com/OSDeploy/OSD
 
 ## [PSAction1](https://www.powershellgallery.com/Packages/PSAction1/1.2.8) | 1.2.8
 
@@ -253,6 +293,14 @@ __Downloads__: 2,678 | __Repository__: https://github.com/anthonyg-1/PSTcpIp
 A lightweight PowerShell module to handle Azure authentication, using the Azure.Identity MSAL library.
 
 __Downloads__: 856 | __Repository__: https://github.com/PalmEmanuel/AzAuth
+
+## [AWS_Tools_AddOns](https://www.powershellgallery.com/Packages/AWS_Tools_AddOns/0.0.3) | 0.0.3
+
+### Published: 01/11/2024 18:42:29 by Cliff Williams
+
+A set of helper function that enhances using AWS.Tools.Powershell
+
+__Downloads__: 25 | __Repository__: https://github.com/Clifra-Jones/AWS_Tools_AddOns
 
 ## [BitbucketServerAutomation](https://www.powershellgallery.com/Packages/BitbucketServerAutomation/1.1.1) | 1.1.1
 
@@ -1014,14 +1062,6 @@ __Downloads__: 56 | __Repository__: http://www.cdata.com/powershell/
 CData Cmdlets for Pipedrive
 
 __Downloads__: 64 | __Repository__: http://www.cdata.com/powershell/
-
-## [ZohoCreatorCmdlets](https://www.powershellgallery.com/Packages/ZohoCreatorCmdlets/23.0.8770.1) | 23.0.8770.1
-
-### Published: 01/10/2024 19:47:51 by CData Software Inc.
-
-CData Cmdlets for Zoho Creator
-
-__Downloads__: 49 | __Repository__: http://www.cdata.com/powershell/
 
 ## [SalesLoftCmdlets](https://www.powershellgallery.com/Packages/SalesLoftCmdlets/23.0.8770.1) | 23.0.8770.1
 
@@ -1813,7 +1853,7 @@ __Downloads__: 1,167 | __Repository__: http://www.cdata.com/powershell/
 
 CData Cmdlets for MySQL
 
-__Downloads__: 21,467 | __Repository__: http://www.cdata.com/powershell/
+__Downloads__: 21,466 | __Repository__: http://www.cdata.com/powershell/
 
 ## [GmailCmdlets](https://www.powershellgallery.com/Packages/GmailCmdlets/23.0.8770.1) | 23.0.8770.1
 
@@ -1991,44 +2031,4 @@ CData Cmdlets for Azure Active Directory
 
 __Downloads__: 246 | __Repository__: http://www.cdata.com/powershell/
 
-## [ExchangeCmdlets](https://www.powershellgallery.com/Packages/ExchangeCmdlets/23.0.8770.1) | 23.0.8770.1
-
-### Published: 01/10/2024 19:35:25 by CData Software Inc.
-
-CData Cmdlets for Microsoft Exchange
-
-__Downloads__: 3,400 | __Repository__: http://www.cdata.com/powershell/
-
-## [ActiveDirectoryCmdlets](https://www.powershellgallery.com/Packages/ActiveDirectoryCmdlets/23.0.8769.1) | 23.0.8769.1
-
-### Published: 01/10/2024 19:35:19 by CData Software Inc.
-
-CData Cmdlets for Microsoft Active Directory
-
-__Downloads__: 12,524 | __Repository__: http://www.cdata.com/powershell/
-
-## [SugarCRMCmdlets](https://www.powershellgallery.com/Packages/SugarCRMCmdlets/23.0.8770.1) | 23.0.8770.1
-
-### Published: 01/10/2024 19:35:13 by CData Software Inc.
-
-CData Cmdlets for SugarCRM
-
-__Downloads__: 851 | __Repository__: http://www.cdata.com/powershell/
-
-## [AzureTablesCmdlets](https://www.powershellgallery.com/Packages/AzureTablesCmdlets/23.0.8769.1) | 23.0.8769.1
-
-### Published: 01/10/2024 19:35:07 by CData Software Inc.
-
-CData Cmdlets for Azure Table Storage
-
-__Downloads__: 1,303 | __Repository__: http://www.cdata.com/powershell/
-
-## [AdobeCommerceCmdlets](https://www.powershellgallery.com/Packages/AdobeCommerceCmdlets/23.0.8770.1) | 23.0.8770.1
-
-### Published: 01/10/2024 19:35:02 by CData Software Inc.
-
-CData Cmdlets for Adobe Commerce
-
-__Downloads__: 26 | __Repository__: http://www.cdata.com/powershell/
-
-*Updated: Saturday, 13 January 2024 09:52:19 UTC*
+*Updated: Saturday, 13 January 2024 17:52:29 UTC*
