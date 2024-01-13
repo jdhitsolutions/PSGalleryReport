@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Friday, 12 January 2024 17:52:30 UTC
+Updated: Saturday, 13 January 2024 02:06:19 UTC
 
 .bat
 .env
@@ -576,6 +576,7 @@ autoupdate
 autoupdate-script
 autoyast
 auvik
+availability
 availabilityset
 avalara
 avalonia
@@ -1213,7 +1214,6 @@ cloudmarque
 cloudmigrations
 cloudpc
 cloudservice
-cloudshell
 clueser
 cluster
 clusterminimumvalues
@@ -1490,7 +1490,6 @@ cover
 coverage
 coveralls
 coveralls.io
-covid
 covid-19
 cpm
 cppm
@@ -1537,7 +1536,6 @@ crescendo
 crescendobuilt
 cresendo
 crestron
-crime
 crlf
 crm
 crm2016
@@ -1899,6 +1897,7 @@ discordrpc
 discount
 discover
 discovery
+discutils
 disk
 disk_to_disk
 disk-space
@@ -2620,6 +2619,7 @@ fortinetmanager
 fortios
 fortune
 forum
+forwardcompatibility
 forwardedevents
 foudil
 fox
@@ -2832,6 +2832,7 @@ google
 google-chrome
 google-histogram
 google-sankey
+google-table
 googleadsv2
 googlecloudplatform
 googledrive
@@ -2961,6 +2962,8 @@ hashset
 hashtable
 hasicorp
 haskell
+haste
+hastebin
 haveibeenpwned
 hba
 hbase
@@ -3466,7 +3469,6 @@ job
 jobcan
 jobs
 jobscheduler
-johnshopkins
 join
 join-object
 jojoba
@@ -4777,6 +4779,7 @@ passwordstate
 passwordtool
 passwordvault
 passwordwolf
+paste
 patch
 patches
 patching
@@ -4994,7 +4997,6 @@ poshy-wrap-curl
 poshy-wrap-dnf
 poshy-wrap-docker
 poshy-wrap-docker-compose
-poshy-wrap-dotnet
 poshy-wrap-forgit
 poshy-wrap-gem
 poshy-wrap-gh
@@ -5491,20 +5493,6 @@ pscommand_docker-volume-inspect
 pscommand_docker-volume-list
 pscommand_docker-volume-prune
 pscommand_docker-volume-prune-forcefully
-pscommand_dotnet-add
-pscommand_dotnet-build
-pscommand_dotnet-new
-pscommand_dotnet-nuget
-pscommand_dotnet-pack
-pscommand_dotnet-run
-pscommand_dotnet-sln
-pscommand_dotnet-test
-pscommand_dotnet-tool-list-global
-pscommand_dotnet-tool-list-local
-pscommand_dotnet-tool-update-all-global
-pscommand_dotnet-watch
-pscommand_dotnet-watch-run
-pscommand_dotnet-watch-test
 pscommand_dpo
 pscommand_dpu
 pscommand_dr
@@ -7205,20 +7193,6 @@ psfunction_docker-volume-inspect
 psfunction_docker-volume-list
 psfunction_docker-volume-prune
 psfunction_docker-volume-prune-forcefully
-psfunction_dotnet-add
-psfunction_dotnet-build
-psfunction_dotnet-new
-psfunction_dotnet-nuget
-psfunction_dotnet-pack
-psfunction_dotnet-run
-psfunction_dotnet-sln
-psfunction_dotnet-test
-psfunction_dotnet-tool-list-global
-psfunction_dotnet-tool-list-local
-psfunction_dotnet-tool-update-all-global
-psfunction_dotnet-watch
-psfunction_dotnet-watch-run
-psfunction_dotnet-watch-test
 psfunction_enable-proxy
 psfunction_encode64
 psfunction_encodefile64
@@ -8605,6 +8579,7 @@ rfc826
 rfc9116
 rg
 rgb
+rhapsody
 ribbon
 ribcl
 rightjoin
@@ -8674,7 +8649,6 @@ rubber
 rubrik
 rubriksecuritycloud
 ruby
-rulasg
 rule
 rulesengine
 run
@@ -8684,6 +8658,7 @@ runbook
 runbooks
 runbookstudio
 runcommand
+rundeck
 runner
 runspace
 runspacepool
@@ -8795,7 +8770,6 @@ scouterna
 scouternasetjanster
 scoutnet
 scp
-scrap
 scrape
 scraper
 screen
@@ -10119,6 +10093,7 @@ validator
 value
 valve
 vami
+vao
 variable
 variables
 variance
@@ -10603,7 +10578,6 @@ wsapi
 wsb
 wsl
 wsl2
-wsl2 psmodule psedition_core
 wsman
 wsmanlistener
 wso2

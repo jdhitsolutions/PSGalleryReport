@@ -3,21 +3,69 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
-## [ps-color-scripts](https://www.powershellgallery.com/Packages/ps-color-scripts/2024.1.13.519) | 2024.1.13.519
+## [ModuleFast](https://www.powershellgallery.com/Packages/ModuleFast/0.1.2) | 0.1.2
 
-### Published: 01/12/2024 16:19:26 by Scott McKendry
+### Published: 01/13/2024 00:54:46 by Justin Grote @justinwgrote
+
+Optimizes the PowerShell Module Installation Process to be as fast as possible and operate in CI/CD scenarios in a declarative manner
+
+__Downloads__: 145 | __Repository__: https://github.com/JustinGrote/ModuleFast
+
+## [NexusIQ](https://www.powershellgallery.com/Packages/NexusIQ/1.0.2) | 1.0.2
+
+### Published: 01/13/2024 00:03:27 by Neil White
+
+Module acts as a wrapper for the Nexus IQ REST API
+
+__Downloads__: 12 | __Repository__: https://github.com/variableresistor/NexusIQ
+
+## [ps-color-scripts](https://www.powershellgallery.com/Packages/ps-color-scripts/2024.1.13.1221) | 2024.1.13.1221
+
+### Published: 01/12/2024 23:21:38 by Scott McKendry
 
 An almost like for like port of Derek Taylor's Popular shell-color-scripts package for PowerShell.
 
 __Downloads__: 30 | __Repository__: https://github.com/scottmckendry/ps-color-scripts
 
-## [HaloAPI](https://www.powershellgallery.com/Packages/HaloAPI/1.19.0) | 1.19.0
+## [TurnKeySdn](https://www.powershellgallery.com/Packages/TurnKeySdn/0.0.14) | 0.0.14
 
-### Published: 01/12/2024 16:04:17 by Mikey O'Toole / Luke Whitelock
+### Published: 01/12/2024 22:00:12 by Network Controller SDN Dev Team
+
+Turn Key SDN for a quick sdn test deployment
+
+__Downloads__: 88 | __Repository__: 
+
+## [Ndimensions.Automation.NafSetup](https://www.powershellgallery.com/Packages/Ndimensions.Automation.NafSetup/1.0.114) | 1.0.114
+
+### Published: 01/12/2024 19:01:54 by hillesheim@n-dimensions.de
+
+N-DIMENSIONS Automation Framework Setup. `n- Prepare machine for downloading git repositories. Installs git related client software `n- Downloads the NAF repositories
+
+__Downloads__: 81 | __Repository__: https://blog.n-dimensions.de/
+
+## [PowerShell.GitLab.Utility](https://www.powershellgallery.com/Packages/PowerShell.GitLab.Utility/0.0.7) | 0.0.7
+
+### Published: 01/12/2024 18:35:39 by Chendrayan Venkatesan
+
+This PowerShell utility to work with GitLab, and the cmdlets are built using the GraphQL.
+
+__Downloads__: 23 | __Repository__: https://github.com/ChendrayanV/PowerShell.GitLab.Utility
+
+## [SecretManagement.Warden](https://www.powershellgallery.com/Packages/SecretManagement.Warden/1.0.2) | 1.0.2
+
+### Published: 01/12/2024 17:57:34 by William P. Marshall
+
+Bitwarden/Vaultwarden extension for the PowerShell SecretManager allowing you to Get, Set, and Remove secrets in a standardized way. Supports storing and retrieving PowerShell Objects as secrets. Can be used for automated secret retrieval/management.
+
+__Downloads__: 30 | __Repository__: https://github.com/BinaryWizard904/SecretManagement.Warden
+
+## [HaloAPI](https://www.powershellgallery.com/Packages/HaloAPI/1.20.0) | 1.20.0
+
+### Published: 01/12/2024 17:52:43 by Mikey O'Toole / Luke Whitelock
 
 This module provides an interface to the Halo API.
 
-__Downloads__: 183,597 | __Repository__: https://github.com/homotechsual/HaloAPI
+__Downloads__: 183,609 | __Repository__: https://github.com/homotechsual/HaloAPI
 
 ## [Import-Package](https://www.powershellgallery.com/Packages/Import-Package/0.4.1) | 0.4.1
 
@@ -62,7 +110,7 @@ Some of the interesting functions:
 - Upload-IntuneAutopilotHash - upload given autopilot hash (owner and hostname) into Intune
 - ...
 
-__Downloads__: 17,539 | __Repository__: https://github.com/ztrhgf/useful_powershell_modules
+__Downloads__: 17,540 | __Repository__: https://github.com/ztrhgf/useful_powershell_modules
 
 ## [ExchangeOnlineArchiveTransfer](https://www.powershellgallery.com/Packages/ExchangeOnlineArchiveTransfer/1.0.3) | 1.0.3
 
@@ -78,7 +126,7 @@ __Downloads__: 39 | __Repository__:
 
 dbForge DevOps Automation PowerShell for SQL Server helps with organizing database DevOps processes for your SQL Server databases. It allows you to develop, source-control, and safely automate the deployment of database changes by using dbForge for SQL Server tools via the PowerShell interface.
 
-__Downloads__: 10,893 | __Repository__: https://www.devart.com/dbforge/sql/database-devops/
+__Downloads__: 10,891 | __Repository__: https://www.devart.com/dbforge/sql/database-devops/
 
 ## [JaapsTools](https://www.powershellgallery.com/Packages/JaapsTools/19.0.1) | 19.0.1
 
@@ -132,7 +180,7 @@ These are contained within this PowerShell Module, so regular Module updating is
 ensure you receive the latest Microsoft Updates.  Updates published in WSUS will be different
 from Microsoft Update Catalog website due to Preview Releases
 
-__Downloads__: 356,859 | __Repository__: https://github.com/OSDeploy/OSDSUS
+__Downloads__: 356,863 | __Repository__: https://github.com/OSDeploy/OSDSUS
 
 ## [OSD](https://www.powershellgallery.com/Packages/OSD/24.1.11.1) | 24.1.11.1
 
@@ -173,14 +221,6 @@ __Downloads__: 11 | __Repository__: https://github.com/autosysops/PowerShell_Geo
 A PowerShell module for the Jamf Classic API and Jamf Pro API
 
 __Downloads__: 98 | __Repository__: https://github.com/TrustyTristan/JamfPSPro
-
-## [Ndimensions.Automation.NafSetup](https://www.powershellgallery.com/Packages/Ndimensions.Automation.NafSetup/1.0.113) | 1.0.113
-
-### Published: 01/11/2024 21:32:38 by hillesheim@n-dimensions.de
-
-N-DIMENSIONS Automation Framework Setup. `n- Prepare machine for downloading git repositories. Installs git related client software `n- Downloads the NAF repositories
-
-__Downloads__: 81 | __Repository__: https://blog.n-dimensions.de/
 
 ## [PSTcpIp](https://www.powershellgallery.com/Packages/PSTcpIp/4.25.0) | 4.25.0
 
@@ -237,7 +277,7 @@ __Downloads__: 378 | __Repository__: https://github.com/nightroman/Xmlips
 
 SplitPipeline - Parallel Data Processing in PowerShell
 
-__Downloads__: 333,800 | __Repository__: https://github.com/nightroman/SplitPipeline
+__Downloads__: 333,801 | __Repository__: https://github.com/nightroman/SplitPipeline
 
 ## [keycloakRealmManager](https://www.powershellgallery.com/Packages/keycloakRealmManager/1.5.11.1024) | 1.5.11.1024
 
@@ -734,14 +774,6 @@ __Downloads__: 558 | __Repository__: http://www.cdata.com/powershell/
 CData Cmdlets for Sybase
 
 __Downloads__: 701 | __Repository__: http://www.cdata.com/powershell/
-
-## [SnowflakeCmdlets](https://www.powershellgallery.com/Packages/SnowflakeCmdlets/23.0.8770.1) | 23.0.8770.1
-
-### Published: 01/10/2024 19:50:29 by CData Software Inc.
-
-CData Cmdlets for Snowflake
-
-__Downloads__: 2,405 | __Repository__: http://www.cdata.com/powershell/
 
 ## [ActOnCmdlets](https://www.powershellgallery.com/Packages/ActOnCmdlets/23.0.8769.1) | 23.0.8769.1
 
@@ -1637,7 +1669,7 @@ __Downloads__: 547 | __Repository__: http://www.cdata.com/powershell/
 
 CData Cmdlets for Redis
 
-__Downloads__: 2,581 | __Repository__: http://www.cdata.com/powershell/
+__Downloads__: 2,582 | __Repository__: http://www.cdata.com/powershell/
 
 ## [CosmosDBCmdlets](https://www.powershellgallery.com/Packages/CosmosDBCmdlets/23.0.8770.1) | 23.0.8770.1
 
@@ -1765,7 +1797,7 @@ __Downloads__: 1,167 | __Repository__: http://www.cdata.com/powershell/
 
 CData Cmdlets for MySQL
 
-__Downloads__: 21,301 | __Repository__: http://www.cdata.com/powershell/
+__Downloads__: 21,300 | __Repository__: http://www.cdata.com/powershell/
 
 ## [GmailCmdlets](https://www.powershellgallery.com/Packages/GmailCmdlets/23.0.8770.1) | 23.0.8770.1
 
@@ -1999,36 +2031,4 @@ CData Cmdlets for xBase
 
 __Downloads__: 953 | __Repository__: http://www.cdata.com/powershell/
 
-## [TwilioCmdlets](https://www.powershellgallery.com/Packages/TwilioCmdlets/23.0.8770.1) | 23.0.8770.1
-
-### Published: 01/10/2024 19:34:38 by CData Software Inc.
-
-CData Cmdlets for Twilio
-
-__Downloads__: 2,330 | __Repository__: http://www.cdata.com/powershell/
-
-## [SmartsheetCmdlets](https://www.powershellgallery.com/Packages/SmartsheetCmdlets/23.0.8770.1) | 23.0.8770.1
-
-### Published: 01/10/2024 19:34:32 by CData Software Inc.
-
-CData Cmdlets for Smartsheet
-
-__Downloads__: 1,657 | __Repository__: http://www.cdata.com/powershell/
-
-## [PayPalCmdlets](https://www.powershellgallery.com/Packages/PayPalCmdlets/23.0.8770.1) | 23.0.8770.1
-
-### Published: 01/10/2024 19:34:26 by CData Software Inc.
-
-CData Cmdlets for PayPal
-
-__Downloads__: 1,584 | __Repository__: http://www.cdata.com/powershell/
-
-## [StripeCmdlets](https://www.powershellgallery.com/Packages/StripeCmdlets/23.0.8770.1) | 23.0.8770.1
-
-### Published: 01/10/2024 19:34:21 by CData Software Inc.
-
-CData Cmdlets for Stripe
-
-__Downloads__: 1,261 | __Repository__: http://www.cdata.com/powershell/
-
-*Updated: Friday, 12 January 2024 17:52:21 UTC*
+*Updated: Saturday, 13 January 2024 02:06:09 UTC*
