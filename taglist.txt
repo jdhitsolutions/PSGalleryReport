@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Saturday, 13 January 2024 02:06:19 UTC
+Updated: Saturday, 13 January 2024 09:52:28 UTC
 
 .bat
 .env
@@ -373,7 +373,6 @@ app
 app-control-for-business
 app-only
 app-v
-app-volumes
 app.config
 appattach
 appclusive
@@ -408,7 +407,6 @@ appservices
 appsetting
 appv
 appveyor
-appvolumes
 appx
 appxmanifest
 aprs
@@ -600,7 +598,6 @@ aws_profile
 aws-codebuild
 aws-lambda
 aws-vault
-aws.tools.powershell
 awscli
 awspricelist
 axapta
@@ -614,16 +611,13 @@ azautomation
 azcli
 azcompute
 azd
-azdisk
 azdo
 azereo
 azforensics
 azkeyvault
 aznetworking
-aznetworkinterface
 aznicdetails
 azops
-azpublicipaddress
 azresources
 azsdk
 azsk
@@ -1214,6 +1208,7 @@ cloudmarque
 cloudmigrations
 cloudpc
 cloudservice
+cloudshell
 clueser
 cluster
 clusterminimumvalues
@@ -1262,6 +1257,7 @@ codes
 codesign
 codesigning
 codex
+coercion
 cognitiveservice
 cognitiveservices
 cohesity
@@ -1490,6 +1486,7 @@ cover
 coverage
 coveralls
 coveralls.io
+covid
 covid-19
 cpm
 cppm
@@ -1536,6 +1533,7 @@ crescendo
 crescendobuilt
 cresendo
 crestron
+crime
 crlf
 crm
 crm2016
@@ -1585,7 +1583,6 @@ currency-convereter
 currency-exchange
 currencyconverterapi
 current
-curseforge
 custom
 customchecks
 customdns
@@ -1972,7 +1969,6 @@ docker-image
 docker-machine
 docker-volumes
 dockerfile
-dockerize
 dockerswarm
 docking
 docs
@@ -2408,7 +2404,6 @@ externalip
 extract
 extraction
 extractor
-extreme-networks
 eztheme
 f
 f#
@@ -2593,7 +2588,6 @@ force
 forcedelete
 foreach
 foreach-object
-forecast
 forensic
 forensics
 forest
@@ -2725,8 +2719,6 @@ genetic-algorithm
 genp
 genxdev
 geo
-geocache
-geocaching
 geocode
 geoencode
 geoencoding
@@ -2789,7 +2781,6 @@ git-clone
 git-flow
 git-hf
 git-hubflow
-git-lfs
 git-proxy
 git-stat
 gitcmdline
@@ -2832,7 +2823,6 @@ google
 google-chrome
 google-histogram
 google-sankey
-google-table
 googleadsv2
 googlecloudplatform
 googledrive
@@ -2886,7 +2876,6 @@ greynoise
 grid
 gridfs
 grok
-groundspeak
 group
 group-membership
 group-policy
@@ -3469,6 +3458,7 @@ job
 jobcan
 jobs
 jobscheduler
+johnshopkins
 join
 join-object
 jojoba
@@ -4004,7 +3994,6 @@ message
 message-emoji
 message-emojis
 messagebox
-messageoftheday
 messages
 messaging
 messaging-emoji
@@ -4623,7 +4612,6 @@ optics
 optimization
 optimizer
 option
-option119
 options
 optionstring
 opus
@@ -4710,7 +4698,6 @@ package-transform
 packagemanagement
 packagemanager
 packages
-packagesregistry
 packaging
 packaging psmodule
 packard
@@ -4997,13 +4984,13 @@ poshy-wrap-curl
 poshy-wrap-dnf
 poshy-wrap-docker
 poshy-wrap-docker-compose
+poshy-wrap-dotnet
 poshy-wrap-forgit
 poshy-wrap-gem
 poshy-wrap-gh
 poshy-wrap-git
 poshy-wrap-git-flow
 poshy-wrap-git-hf
-poshy-wrap-git-lfs
 poshy-wrap-golang
 poshy-wrap-helm
 poshy-wrap-kubectl
@@ -5096,7 +5083,6 @@ powershellconferenceeurope
 powershellcore
 powershellcourse
 powershellexamples
-powershellfar
 powershellgallery
 powershellget
 powershellgetformatversion_2.0
@@ -5292,7 +5278,6 @@ pscommand_acsp
 pscommand_add_ssh
 pscommand_add-envpathitem
 pscommand_add-envvarpathitem
-pscommand_add-gitlfstrackedfiles
 pscommand_add-gitremote
 pscommand_add-gitskipworktreeflag
 pscommand_add-gitsubmodule
@@ -5493,6 +5478,20 @@ pscommand_docker-volume-inspect
 pscommand_docker-volume-list
 pscommand_docker-volume-prune
 pscommand_docker-volume-prune-forcefully
+pscommand_dotnet-add
+pscommand_dotnet-build
+pscommand_dotnet-new
+pscommand_dotnet-nuget
+pscommand_dotnet-pack
+pscommand_dotnet-run
+pscommand_dotnet-sln
+pscommand_dotnet-test
+pscommand_dotnet-tool-list-global
+pscommand_dotnet-tool-list-local
+pscommand_dotnet-tool-update-all-global
+pscommand_dotnet-watch
+pscommand_dotnet-watch-run
+pscommand_dotnet-watch-test
 pscommand_dpo
 pscommand_dpu
 pscommand_dr
@@ -5703,7 +5702,6 @@ pscommand_get-gitdiffstash
 pscommand_get-gitdiffstashhead
 pscommand_get-gitdiffstashparent
 pscommand_get-gitignoredfiles
-pscommand_get-gitlfstrackedfiles
 pscommand_get-gitlogbranchcommitsunpushed
 pscommand_get-gitlogcommitspulledlast
 pscommand_get-gitloggraph
@@ -5816,10 +5814,6 @@ pscommand_gitignore-reload
 pscommand_gittowork
 pscommand_gl
 pscommand_glf
-pscommand_glfsi
-pscommand_glfsls
-pscommand_glfsmi
-pscommand_glfst
 pscommand_glg
 pscommand_glgo
 pscommand_glgs
@@ -5868,7 +5862,6 @@ pscommand_gpatch
 pscommand_gpdo
 pscommand_gpf
 pscommand_gpl
-pscommand_gplfs
 pscommand_gplr
 pscommand_gplrs
 pscommand_gpo
@@ -6077,8 +6070,6 @@ pscommand_invoke-githubflowhotfix
 pscommand_invoke-githubflowrelease
 pscommand_invoke-githubflowsupport
 pscommand_invoke-githubflowupdate
-pscommand_invoke-gitlfsinstall
-pscommand_invoke-gitlfsmigrateimport
 pscommand_invoke-gitmerge
 pscommand_invoke-gitpull
 pscommand_invoke-gitpush
@@ -7099,7 +7090,6 @@ psfunction_aar
 psfunction_add_ssh
 psfunction_add-envpathitem
 psfunction_add-envvarpathitem
-psfunction_add-gitlfstrackedfiles
 psfunction_add-gitremote
 psfunction_add-gitskipworktreeflag
 psfunction_add-gitsubmodule
@@ -7193,6 +7183,20 @@ psfunction_docker-volume-inspect
 psfunction_docker-volume-list
 psfunction_docker-volume-prune
 psfunction_docker-volume-prune-forcefully
+psfunction_dotnet-add
+psfunction_dotnet-build
+psfunction_dotnet-new
+psfunction_dotnet-nuget
+psfunction_dotnet-pack
+psfunction_dotnet-run
+psfunction_dotnet-sln
+psfunction_dotnet-test
+psfunction_dotnet-tool-list-global
+psfunction_dotnet-tool-list-local
+psfunction_dotnet-tool-update-all-global
+psfunction_dotnet-watch
+psfunction_dotnet-watch-run
+psfunction_dotnet-watch-test
 psfunction_enable-proxy
 psfunction_encode64
 psfunction_encodefile64
@@ -7293,7 +7297,6 @@ psfunction_get-gitdiffstash
 psfunction_get-gitdiffstashhead
 psfunction_get-gitdiffstashparent
 psfunction_get-gitignoredfiles
-psfunction_get-gitlfstrackedfiles
 psfunction_get-gitlogbranchcommitsunpushed
 psfunction_get-gitlogcommitspulledlast
 psfunction_get-gitloggraph
@@ -7358,7 +7361,6 @@ psfunction_git-global-show-proxy
 psfunction_git-show-proxy
 psfunction_gitignore-reload
 psfunction_gittowork
-psfunction_gplfs
 psfunction_hostname
 psfunction_invoke-aptcachepolicy
 psfunction_invoke-aptcachesearch
@@ -7478,8 +7480,6 @@ psfunction_invoke-githubflowhotfix
 psfunction_invoke-githubflowrelease
 psfunction_invoke-githubflowsupport
 psfunction_invoke-githubflowupdate
-psfunction_invoke-gitlfsinstall
-psfunction_invoke-gitlfsmigrateimport
 psfunction_invoke-gitmerge
 psfunction_invoke-gitpull
 psfunction_invoke-gitpush
@@ -8453,7 +8453,6 @@ release
 releasedefinition
 releasehealth
 releasemanagement
-releasenotes
 relevance
 relic
 reload
@@ -8770,6 +8769,7 @@ scouterna
 scouternasetjanster
 scoutnet
 scp
+scrap
 scrape
 scraper
 screen
@@ -8818,7 +8818,6 @@ searchmanager
 searchplace
 searchquery
 searchstring
-searchsuffixlist
 secaas
 secedit
 secret
@@ -8861,7 +8860,6 @@ securityroles
 securityscopes
 securitytxt
 sed
-seed
 seek
 seekatar
 seeshell
@@ -8973,7 +8971,6 @@ sevenzip
 sf
 sfb
 sftp
-sfx
 sgopher
 sgw
 sha-256
@@ -9637,7 +9634,6 @@ terrafun
 terragrunt
 tesla
 test
-test-automation
 test-dscconfiguration
 test-internetconnection
 test-modulepath
@@ -10288,7 +10284,6 @@ waa
 waas
 wac
 waf
-wait4x
 waitforobject
 wakeonlan
 wakeup
@@ -10376,7 +10371,6 @@ wer
 wget
 what3words
 whatismyip
-whatsnew
 whatsupgold
 whd
 where
@@ -10578,6 +10572,7 @@ wsapi
 wsb
 wsl
 wsl2
+wsl2 psmodule psedition_core
 wsman
 wsmanlistener
 wso2
@@ -10626,7 +10621,6 @@ xin
 xkcd
 xliff
 xlsx
-xmc
 xml
 xml-rpc
 xml-transform
