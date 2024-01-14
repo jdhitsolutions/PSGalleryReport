@@ -3,6 +3,38 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [PsNtfs](https://www.powershellgallery.com/Packages/PsNtfs/2.0.64) | 2.0.64
+
+### Published: 01/14/2024 05:18:43 by Jeremy La Camera
+
+Work with the contents of NTFS volumes
+
+__Downloads__: 448 | __Repository__: 
+
+## [ps12exe](https://www.powershellgallery.com/Packages/ps12exe/0.1.24) | 0.1.24
+
+### Published: 01/14/2024 05:11:36 by steve02081504
+
+better repo 2 compile pwsh scripts to exe
+
+__Downloads__: 223 | __Repository__: https://github.com/steve02081504/ps12exe
+
+## [Veeam.Diagrammer](https://www.powershellgallery.com/Packages/Veeam.Diagrammer/0.5.7) | 0.5.7
+
+### Published: 01/14/2024 04:08:15 by Jonathan Colon
+
+A PowerShell module to generate an Veeam Backup & Replication infrastructure diagram
+
+__Downloads__: 435 | __Repository__: https://github.com/rebelinux/Veeam.Diagrammer
+
+## [PsRunspace](https://www.powershellgallery.com/Packages/PsRunspace/1.0.101) | 1.0.101
+
+### Published: 01/14/2024 03:16:50 by Jeremy La Camera
+
+Module for multithreading PowerShell commands using .Net Runspaces
+
+__Downloads__: 341 | __Repository__: 
+
 ## [PowerShellAIAssistant](https://www.powershellgallery.com/Packages/PowerShellAIAssistant/0.1.1) | 0.1.1
 
 ### Published: 01/14/2024 00:57:44 by Douglas Finke
@@ -42,7 +74,7 @@ __Downloads__: 405 | __Repository__: https://github.com/pdflexer/pdflexer
 
 This module generates images from text using OpenAI API
 
-__Downloads__: 1 | __Repository__: 
+__Downloads__: 0 | __Repository__: 
 
 ## [Permission](https://www.powershellgallery.com/Packages/Permission/0.0.57) | 0.0.57
 
@@ -59,14 +91,6 @@ __Downloads__: 455 | __Repository__:
 PowerShell module for OpenAI API
 
 __Downloads__: 608 | __Repository__: https://github.com/mkht/PSOpenAI
-
-## [PsNtfs](https://www.powershellgallery.com/Packages/PsNtfs/2.0.62) | 2.0.62
-
-### Published: 01/13/2024 16:36:44 by Jeremy La Camera
-
-Work with the contents of NTFS volumes
-
-__Downloads__: 448 | __Repository__: 
 
 ## [PsBootstrapCss](https://www.powershellgallery.com/Packages/PsBootstrapCss/1.0.23) | 1.0.23
 
@@ -199,7 +223,7 @@ Some of the interesting functions:
 - Upload-IntuneAutopilotHash - upload given autopilot hash (owner and hostname) into Intune
 - ...
 
-__Downloads__: 17,781 | __Repository__: https://github.com/ztrhgf/useful_powershell_modules
+__Downloads__: 17,778 | __Repository__: https://github.com/ztrhgf/useful_powershell_modules
 
 ## [ExchangeOnlineArchiveTransfer](https://www.powershellgallery.com/Packages/ExchangeOnlineArchiveTransfer/1.0.3) | 1.0.3
 
@@ -215,7 +239,7 @@ __Downloads__: 40 | __Repository__:
 
 dbForge DevOps Automation PowerShell for SQL Server helps with organizing database DevOps processes for your SQL Server databases. It allows you to develop, source-control, and safely automate the deployment of database changes by using dbForge for SQL Server tools via the PowerShell interface.
 
-__Downloads__: 11,003 | __Repository__: https://www.devart.com/dbforge/sql/database-devops/
+__Downloads__: 11,007 | __Repository__: https://www.devart.com/dbforge/sql/database-devops/
 
 ## [JaapsTools](https://www.powershellgallery.com/Packages/JaapsTools/19.0.1) | 19.0.1
 
@@ -269,7 +293,7 @@ These are contained within this PowerShell Module, so regular Module updating is
 ensure you receive the latest Microsoft Updates.  Updates published in WSUS will be different
 from Microsoft Update Catalog website due to Preview Releases
 
-__Downloads__: 357,328 | __Repository__: https://github.com/OSDeploy/OSDSUS
+__Downloads__: 357,329 | __Repository__: https://github.com/OSDeploy/OSDSUS
 
 ## [OSD](https://www.powershellgallery.com/Packages/OSD/24.1.11.1) | 24.1.11.1
 
@@ -277,7 +301,7 @@ __Downloads__: 357,328 | __Repository__: https://github.com/OSDeploy/OSDSUS
 
 January 2024 Patch Tuesday Update
 
-__Downloads__: 1,217,758 | __Repository__: https://github.com/OSDeploy/OSD
+__Downloads__: 1,217,754 | __Repository__: https://github.com/OSDeploy/OSD
 
 ## [PSAction1](https://www.powershellgallery.com/Packages/PSAction1/1.2.8) | 1.2.8
 
@@ -423,14 +447,6 @@ __Downloads__: 20 | __Repository__: https://github.com/greycorbel/ExoHelper
 Mandatory module for the foundation PowerShell scripts.
 
 __Downloads__: 19,029 | __Repository__: 
-
-## [ps12exe](https://www.powershellgallery.com/Packages/ps12exe/0.1.22) | 0.1.22
-
-### Published: 01/11/2024 11:56:50 by steve02081504
-
-better repo 2 compile pwsh scripts to exe
-
-__Downloads__: 223 | __Repository__: https://github.com/steve02081504/ps12exe
 
 ## [PSSymantecSEPM](https://www.powershellgallery.com/Packages/PSSymantecSEPM/0.8.1) | 0.8.1
 
@@ -774,7 +790,7 @@ __Downloads__: 1,339 | __Repository__: http://www.cdata.com/powershell/
 
 CData Cmdlets for Google Sheets
 
-__Downloads__: 4,552 | __Repository__: http://www.cdata.com/powershell/
+__Downloads__: 4,551 | __Repository__: http://www.cdata.com/powershell/
 
 ## [LDAPCmdlets](https://www.powershellgallery.com/Packages/LDAPCmdlets/23.0.8770.1) | 23.0.8770.1
 
@@ -1598,7 +1614,7 @@ __Downloads__: 1,058 | __Repository__: http://www.cdata.com/powershell/
 
 CData Cmdlets for PostgreSQL
 
-__Downloads__: 82,545 | __Repository__: http://www.cdata.com/powershell/
+__Downloads__: 82,561 | __Repository__: http://www.cdata.com/powershell/
 
 ## [ShopifyCmdlets](https://www.powershellgallery.com/Packages/ShopifyCmdlets/23.0.8770.1) | 23.0.8770.1
 
@@ -2016,20 +2032,4 @@ CData Cmdlets for Sage 50 UK
 
 __Downloads__: 714 | __Repository__: http://www.cdata.com/powershell/
 
-## [SquareCmdlets](https://www.powershellgallery.com/Packages/SquareCmdlets/23.0.8770.1) | 23.0.8770.1
-
-### Published: 01/10/2024 19:36:06 by CData Software Inc.
-
-CData Cmdlets for Square
-
-__Downloads__: 922 | __Repository__: http://www.cdata.com/powershell/
-
-## [MicrosoftProjectCmdlets](https://www.powershellgallery.com/Packages/MicrosoftProjectCmdlets/23.0.8770.1) | 23.0.8770.1
-
-### Published: 01/10/2024 19:36:01 by CData Software Inc.
-
-CData Cmdlets for Microsoft Project
-
-__Downloads__: 715 | __Repository__: http://www.cdata.com/powershell/
-
-*Updated: Sunday, 14 January 2024 02:10:29 UTC*
+*Updated: Sunday, 14 January 2024 09:52:17 UTC*
