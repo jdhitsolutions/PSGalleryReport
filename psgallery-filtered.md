@@ -3,6 +3,47 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [PowerShellAIAssistant](https://www.powershellgallery.com/Packages/PowerShellAIAssistant/0.1.1) | 0.1.1
+
+### Published: 01/14/2024 00:57:44 by Douglas Finke
+
+PowerShellAIAssistant integrates OpenAI's AI Assistants into PowerShell, leveraging advanced AI capabilities in your PowerShell scripts for dynamic, intelligent automation and data processing
+
+__Downloads__: 23 | __Repository__: https://github.com/dfinke/PowerShellAIAssistant
+
+## [Oraculum](https://www.powershellgallery.com/Packages/Oraculum/1.3.3.0) | 1.3.3.0
+
+### Published: 01/13/2024 23:48:16 by Antonio Cisternino
+
+Oraculum command line interface
+
+__Downloads__: 65 | __Repository__: https://github.com/Unipisa/Oraculum
+
+## [PSServU](https://www.powershellgallery.com/Packages/PSServU/1.13) | 1.13
+
+### Published: 01/13/2024 21:52:50 by Mark.Raming
+
+Automation command to script interaction with SOLARWINDs ServU File Transfer Server, such as up and download files
+
+__Downloads__: 599 | __Repository__: https://github.com/mraming/PSServ-U
+
+## [PdfLexer](https://www.powershellgallery.com/Packages/PdfLexer/0.1.14) | 0.1.14
+
+### Published: 01/13/2024 18:38:39 by PdfLexer Authors
+
+PdfLexer is a powershell pdf manipulation library for Powershell 7+.
+ https://github.com/pdflexer/pdflexer
+
+__Downloads__: 405 | __Repository__: https://github.com/pdflexer/pdflexer
+
+## [ImageDtsCreator](https://www.powershellgallery.com/Packages/ImageDtsCreator/1.0.0) | 1.0.0
+
+### Published: 01/13/2024 18:15:41 by datatec.studio
+
+This module generates images from text using OpenAI API
+
+__Downloads__: 1 | __Repository__: 
+
 ## [Permission](https://www.powershellgallery.com/Packages/Permission/0.0.57) | 0.0.57
 
 ### Published: 01/13/2024 17:41:41 by Jeremy La Camera
@@ -10,14 +51,6 @@ These are the latest 250 modules published to the [PowerShell Gallery](https://p
 Module for working with Access Control Lists
 
 __Downloads__: 455 | __Repository__: 
-
-## [DtsImageCreator](https://www.powershellgallery.com/Packages/DtsImageCreator/1.0.0) | 1.0.0
-
-### Published: 01/13/2024 17:33:57 by datatec.studio
-
-This module generates images from text using OpenAI API
-
-__Downloads__: 0 | __Repository__: 
 
 ## [PSOpenAI](https://www.powershellgallery.com/Packages/PSOpenAI/2.6.0) | 2.6.0
 
@@ -129,7 +162,7 @@ __Downloads__: 33 | __Repository__: https://github.com/BinaryWizard904/SecretMan
 
 This module provides an interface to the Halo API.
 
-__Downloads__: 184,204 | __Repository__: https://github.com/homotechsual/HaloAPI
+__Downloads__: 184,202 | __Repository__: https://github.com/homotechsual/HaloAPI
 
 ## [EpinovaAzureToolBucket](https://www.powershellgallery.com/Packages/EpinovaAzureToolBucket/0.15.16) | 0.15.16
 
@@ -166,7 +199,7 @@ Some of the interesting functions:
 - Upload-IntuneAutopilotHash - upload given autopilot hash (owner and hostname) into Intune
 - ...
 
-__Downloads__: 17,778 | __Repository__: https://github.com/ztrhgf/useful_powershell_modules
+__Downloads__: 17,781 | __Repository__: https://github.com/ztrhgf/useful_powershell_modules
 
 ## [ExchangeOnlineArchiveTransfer](https://www.powershellgallery.com/Packages/ExchangeOnlineArchiveTransfer/1.0.3) | 1.0.3
 
@@ -236,7 +269,7 @@ These are contained within this PowerShell Module, so regular Module updating is
 ensure you receive the latest Microsoft Updates.  Updates published in WSUS will be different
 from Microsoft Update Catalog website due to Preview Releases
 
-__Downloads__: 357,327 | __Repository__: https://github.com/OSDeploy/OSDSUS
+__Downloads__: 357,328 | __Repository__: https://github.com/OSDeploy/OSDSUS
 
 ## [OSD](https://www.powershellgallery.com/Packages/OSD/24.1.11.1) | 24.1.11.1
 
@@ -1063,6 +1096,14 @@ CData Cmdlets for Pipedrive
 
 __Downloads__: 64 | __Repository__: http://www.cdata.com/powershell/
 
+## [ZohoCreatorCmdlets](https://www.powershellgallery.com/Packages/ZohoCreatorCmdlets/23.0.8770.1) | 23.0.8770.1
+
+### Published: 01/10/2024 19:47:51 by CData Software Inc.
+
+CData Cmdlets for Zoho Creator
+
+__Downloads__: 49 | __Repository__: http://www.cdata.com/powershell/
+
 ## [SalesLoftCmdlets](https://www.powershellgallery.com/Packages/SalesLoftCmdlets/23.0.8770.1) | 23.0.8770.1
 
 ### Published: 01/10/2024 19:47:46 by CData Software Inc.
@@ -1557,7 +1598,7 @@ __Downloads__: 1,058 | __Repository__: http://www.cdata.com/powershell/
 
 CData Cmdlets for PostgreSQL
 
-__Downloads__: 82,571 | __Repository__: http://www.cdata.com/powershell/
+__Downloads__: 82,545 | __Repository__: http://www.cdata.com/powershell/
 
 ## [ShopifyCmdlets](https://www.powershellgallery.com/Packages/ShopifyCmdlets/23.0.8770.1) | 23.0.8770.1
 
@@ -1853,7 +1894,7 @@ __Downloads__: 1,167 | __Repository__: http://www.cdata.com/powershell/
 
 CData Cmdlets for MySQL
 
-__Downloads__: 21,466 | __Repository__: http://www.cdata.com/powershell/
+__Downloads__: 21,467 | __Repository__: http://www.cdata.com/powershell/
 
 ## [GmailCmdlets](https://www.powershellgallery.com/Packages/GmailCmdlets/23.0.8770.1) | 23.0.8770.1
 
@@ -1991,44 +2032,4 @@ CData Cmdlets for Microsoft Project
 
 __Downloads__: 715 | __Repository__: http://www.cdata.com/powershell/
 
-## [DynamicsNAVCmdlets](https://www.powershellgallery.com/Packages/DynamicsNAVCmdlets/23.0.8770.1) | 23.0.8770.1
-
-### Published: 01/10/2024 19:35:54 by CData Software Inc.
-
-CData Cmdlets for Microsoft Dynamics NAV
-
-__Downloads__: 1,188 | __Repository__: http://www.cdata.com/powershell/
-
-## [MailChimpCmdlets](https://www.powershellgallery.com/Packages/MailChimpCmdlets/23.0.8770.1) | 23.0.8770.1
-
-### Published: 01/10/2024 19:35:49 by CData Software Inc.
-
-CData Cmdlets for Mailchimp
-
-__Downloads__: 1,173 | __Repository__: http://www.cdata.com/powershell/
-
-## [LinkedInCmdlets](https://www.powershellgallery.com/Packages/LinkedInCmdlets/23.0.8770.1) | 23.0.8770.1
-
-### Published: 01/10/2024 19:35:44 by CData Software Inc.
-
-CData Cmdlets for LinkedIn
-
-__Downloads__: 1,070 | __Repository__: http://www.cdata.com/powershell/
-
-## [CouchbaseCmdlets](https://www.powershellgallery.com/Packages/CouchbaseCmdlets/23.0.8770.1) | 23.0.8770.1
-
-### Published: 01/10/2024 19:35:37 by CData Software Inc.
-
-CData Cmdlets for Couchbase
-
-__Downloads__: 1,054 | __Repository__: http://www.cdata.com/powershell/
-
-## [AzureADCmdlets](https://www.powershellgallery.com/Packages/AzureADCmdlets/23.0.8769.1) | 23.0.8769.1
-
-### Published: 01/10/2024 19:35:32 by CData Software Inc.
-
-CData Cmdlets for Azure Active Directory
-
-__Downloads__: 246 | __Repository__: http://www.cdata.com/powershell/
-
-*Updated: Saturday, 13 January 2024 17:52:29 UTC*
+*Updated: Sunday, 14 January 2024 02:10:29 UTC*
