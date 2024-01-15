@@ -3,6 +3,98 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [pingsweep](https://www.powershellgallery.com/Packages/pingsweep/1.1) | 1.1
+
+### Published: 01/15/2024 01:15:37 by Paulo Bazzo a.k.a Cyber Samurai
+
+Perform a pingsweep based on an input file you feed to the script.
+
+__Downloads__: 0 | __Repository__: 
+
+## [porthunter](https://www.powershellgallery.com/Packages/porthunter/1.2) | 1.2
+
+### Published: 01/15/2024 01:14:20 by Paulo Bazzo - a.k.a CyberSamurai.co.uk
+
+Scan a list of IP on an specific port, loaded from an .txt or .csv file,
+
+__Downloads__: 0 | __Repository__: 
+
+## [PSServU](https://www.powershellgallery.com/Packages/PSServU/1.14) | 1.14
+
+### Published: 01/14/2024 22:15:28 by Mark.Raming
+
+Automation command to script interaction with SOLARWINDs ServU File Transfer Server, such as up and download files
+
+__Downloads__: 603 | __Repository__: https://github.com/mraming/PSServ-U
+
+## [Permission](https://www.powershellgallery.com/Packages/Permission/0.0.61) | 0.0.61
+
+### Published: 01/14/2024 21:52:19 by Jeremy La Camera
+
+Module for working with Access Control Lists
+
+__Downloads__: 468 | __Repository__: 
+
+## [CacheMeIfYouCan](https://www.powershellgallery.com/Packages/CacheMeIfYouCan/0.0.10) | 0.0.10
+
+### Published: 01/14/2024 21:35:34 by Jake Bolton <jake.bolton.314@gmail.com>
+
+Basic caching for Powershell
+
+__Downloads__: 23 | __Repository__: https://github.com/ninmonkey/CacheMeIfYouCan
+
+## [PsBootstrapCss](https://www.powershellgallery.com/Packages/PsBootstrapCss/1.0.26) | 1.0.26
+
+### Published: 01/14/2024 21:16:34 by Jeremy La Camera
+
+Use the Bootstrap CSS library to generate advanced HTML
+
+__Downloads__: 1,083 | __Repository__: 
+
+## [ADOPS](https://www.powershellgallery.com/Packages/ADOPS/2.2.0) | 2.2.0
+
+### Published: 01/14/2024 21:11:18 by the PwrOps collective
+
+Manage Azure DevOps using PowerShell
+
+__Downloads__: 420 | __Repository__: https://github.com/AZDOPS/AZDOPS/
+
+## [AzureDevOpsPowerShell](https://www.powershellgallery.com/Packages/AzureDevOpsPowerShell/0.3.0) | 0.3.0
+
+### Published: 01/14/2024 21:03:21 by Business Ready Cloud
+
+PowerShell module to deploy and adjust services on Azure DevOps
+
+__Downloads__: 36 | __Repository__: 
+
+## [AADInternals](https://www.powershellgallery.com/Packages/AADInternals/0.9.3) | 0.9.3
+
+### Published: 01/14/2024 18:26:17 by Dr Nestori Syynimaa
+
+The AADInternals PowerShell Module utilises several internal features of Azure Active Directory, Office 365, and related admin tools.
+
+AADInternals allows you to export ADFS certificates, Azure AD Connect passwords, and modify numerous Azure AD / Office 365 settings not otherwise possible.
+
+DISCLAIMER: Functionality provided through this module are not supported by Microsoft and thus should not be used in a production environment. Use on your own risk!
+
+__Downloads__: 82,694 | __Repository__: https://aadinternals.com/aadinternals
+
+## [PsRunspace](https://www.powershellgallery.com/Packages/PsRunspace/1.0.102) | 1.0.102
+
+### Published: 01/14/2024 18:16:59 by Jeremy La Camera
+
+Module for multithreading PowerShell commands using .Net Runspaces
+
+__Downloads__: 346 | __Repository__: 
+
+## [PoshGram](https://www.powershellgallery.com/Packages/PoshGram/3.0.0) | 3.0.0
+
+### Published: 01/14/2024 18:08:33 by Jake Morrison
+
+PoshGram provides functionality to send various message types to a specified Telegram chat via the Telegram Bot API. Separate PowerShell functions are used for each message type. Checks are included to ensure that file extensions, and file size restrictions are adhered to based on Telegram requirements.
+
+__Downloads__: 288,687 | __Repository__: https://github.com/techthoughts2/PoshGram
+
 ## [AzCostTools](https://www.powershellgallery.com/Packages/AzCostTools/0.0.1) | 0.0.1
 
 ### Published: 01/14/2024 15:34:23 by Mark Wragg
@@ -34,14 +126,6 @@ https://github.com/Azure/bicep
 
 __Downloads__: 2,181,476 | __Repository__: https://github.com/PSBicep/PSBicep
 
-## [Permission](https://www.powershellgallery.com/Packages/Permission/0.0.58) | 0.0.58
-
-### Published: 01/14/2024 14:34:18 by Jeremy La Camera
-
-Module for working with Access Control Lists
-
-__Downloads__: 468 | __Repository__: 
-
 ## [CommonStuff](https://www.powershellgallery.com/Packages/CommonStuff/1.0.15) | 1.0.15
 
 ### Published: 01/14/2024 13:28:04 by @AndrewZtrhgf
@@ -66,7 +150,7 @@ Various helper functions for modules IntuneStuff, AzureADStuff etc. Some of them
     - Uninstall-ApplicationViaUninstallString - uninstalls application using information retrieved from system registry
     - ...
 
-__Downloads__: 159,910 | __Repository__: https://github.com/ztrhgf/useful_powershell_modules
+__Downloads__: 159,909 | __Repository__: https://github.com/ztrhgf/useful_powershell_modules
 
 ## [pocof](https://www.powershellgallery.com/Packages/pocof/0.8.0) | 0.8.0
 
@@ -74,7 +158,7 @@ __Downloads__: 159,910 | __Repository__: https://github.com/ztrhgf/useful_powers
 
 An interactive pipeline filtering Cmdlet for PowerShell written in F#. A fork of poco which is a PowerShell port of peco.
 
-__Downloads__: 70 | __Repository__: https://github.com/krymtkts/pocof/
+__Downloads__: 71 | __Repository__: https://github.com/krymtkts/pocof/
 
 ## [PsNtfs](https://www.powershellgallery.com/Packages/PsNtfs/2.0.64) | 2.0.64
 
@@ -100,14 +184,6 @@ A PowerShell module to generate an Veeam Backup & Replication infrastructure dia
 
 __Downloads__: 467 | __Repository__: https://github.com/rebelinux/Veeam.Diagrammer
 
-## [PsRunspace](https://www.powershellgallery.com/Packages/PsRunspace/1.0.101) | 1.0.101
-
-### Published: 01/14/2024 03:16:50 by Jeremy La Camera
-
-Module for multithreading PowerShell commands using .Net Runspaces
-
-__Downloads__: 346 | __Repository__: 
-
 ## [PowerShellAIAssistant](https://www.powershellgallery.com/Packages/PowerShellAIAssistant/0.1.1) | 0.1.1
 
 ### Published: 01/14/2024 00:57:44 by Douglas Finke
@@ -123,14 +199,6 @@ __Downloads__: 27 | __Repository__: https://github.com/dfinke/PowerShellAIAssist
 Oraculum command line interface
 
 __Downloads__: 66 | __Repository__: https://github.com/Unipisa/Oraculum
-
-## [PSServU](https://www.powershellgallery.com/Packages/PSServU/1.13) | 1.13
-
-### Published: 01/13/2024 21:52:50 by Mark.Raming
-
-Automation command to script interaction with SOLARWINDs ServU File Transfer Server, such as up and download files
-
-__Downloads__: 603 | __Repository__: https://github.com/mraming/PSServ-U
 
 ## [PdfLexer](https://www.powershellgallery.com/Packages/PdfLexer/0.1.14) | 0.1.14
 
@@ -156,14 +224,6 @@ __Downloads__: 5 | __Repository__:
 PowerShell module for OpenAI API
 
 __Downloads__: 612 | __Repository__: https://github.com/mkht/PSOpenAI
-
-## [PsBootstrapCss](https://www.powershellgallery.com/Packages/PsBootstrapCss/1.0.23) | 1.0.23
-
-### Published: 01/13/2024 15:46:33 by Jeremy La Camera
-
-Use the Bootstrap CSS library to generate advanced HTML
-
-__Downloads__: 1,083 | __Repository__: 
 
 ## [Ndimensions.Automation.NafSetup](https://www.powershellgallery.com/Packages/Ndimensions.Automation.NafSetup/1.0.118) | 1.0.118
 
@@ -251,7 +311,7 @@ __Downloads__: 35 | __Repository__: https://github.com/BinaryWizard904/SecretMan
 
 This module provides an interface to the Halo API.
 
-__Downloads__: 184,705 | __Repository__: https://github.com/homotechsual/HaloAPI
+__Downloads__: 184,698 | __Repository__: https://github.com/homotechsual/HaloAPI
 
 ## [EpinovaAzureToolBucket](https://www.powershellgallery.com/Packages/EpinovaAzureToolBucket/0.15.16) | 0.15.16
 
@@ -366,7 +426,7 @@ __Downloads__: 357,649 | __Repository__: https://github.com/OSDeploy/OSDSUS
 
 January 2024 Patch Tuesday Update
 
-__Downloads__: 1,218,565 | __Repository__: https://github.com/OSDeploy/OSD
+__Downloads__: 1,218,568 | __Repository__: https://github.com/OSDeploy/OSD
 
 ## [PSAction1](https://www.powershellgallery.com/Packages/PSAction1/1.2.8) | 1.2.8
 
@@ -495,7 +555,7 @@ __Downloads__: 16,497 | __Repository__: https://infosys.beckhoff.com/content/103
 
 PSRule rules module for Azure DevOps project configuration best practices. This module helps to audit an Azure DevOps project for secure and best practice configuration. The module requires PSRule to be installed.
 
-__Downloads__: 382 | __Repository__: https://github.com/cloudyspells/PSRule.Rules.AzureDevOps
+__Downloads__: 383 | __Repository__: https://github.com/cloudyspells/PSRule.Rules.AzureDevOps
 
 ## [ExoHelper](https://www.powershellgallery.com/Packages/ExoHelper/1.0.4) | 1.0.4
 
@@ -727,7 +787,7 @@ __Downloads__: 603 | __Repository__: http://www.cdata.com/powershell/
 
 CData Cmdlets for MariaDB
 
-__Downloads__: 3,771 | __Repository__: http://www.cdata.com/powershell/
+__Downloads__: 3,772 | __Repository__: http://www.cdata.com/powershell/
 
 ## [OracleOciCmdlets](https://www.powershellgallery.com/Packages/OracleOciCmdlets/23.0.8770.1) | 23.0.8770.1
 
@@ -863,7 +923,7 @@ __Downloads__: 4,598 | __Repository__: http://www.cdata.com/powershell/
 
 CData Cmdlets for LDAP
 
-__Downloads__: 4,446 | __Repository__: http://www.cdata.com/powershell/
+__Downloads__: 4,445 | __Repository__: http://www.cdata.com/powershell/
 
 ## [ApacheHBaseCmdlets](https://www.powershellgallery.com/Packages/ApacheHBaseCmdlets/23.0.8769.1) | 23.0.8769.1
 
@@ -1393,14 +1453,6 @@ CData Cmdlets for Parquet
 
 __Downloads__: 503 | __Repository__: http://www.cdata.com/powershell/
 
-## [SAPHanaXSACmdlets](https://www.powershellgallery.com/Packages/SAPHanaXSACmdlets/23.0.8770.1) | 23.0.8770.1
-
-### Published: 01/10/2024 19:45:07 by CData Software Inc.
-
-CData Cmdlets for SAP HANA XSA
-
-__Downloads__: 299 | __Repository__: http://www.cdata.com/powershell/
-
 ## [GoogleDataCatalogCmdlets](https://www.powershellgallery.com/Packages/GoogleDataCatalogCmdlets/23.0.8770.1) | 23.0.8770.1
 
 ### Published: 01/10/2024 19:45:02 by CData Software Inc.
@@ -1553,14 +1605,6 @@ CData Cmdlets for Apache Impala
 
 __Downloads__: 387 | __Repository__: http://www.cdata.com/powershell/
 
-## [Sage200Cmdlets](https://www.powershellgallery.com/Packages/Sage200Cmdlets/23.0.8770.1) | 23.0.8770.1
-
-### Published: 01/10/2024 19:43:00 by CData Software Inc.
-
-CData Cmdlets for Sage 200
-
-__Downloads__: 337 | __Repository__: http://www.cdata.com/powershell/
-
 ## [FreshDeskCmdlets](https://www.powershellgallery.com/Packages/FreshDeskCmdlets/23.0.8770.1) | 23.0.8770.1
 
 ### Published: 01/10/2024 19:42:52 by CData Software Inc.
@@ -1631,7 +1675,7 @@ __Downloads__: 3,161 | __Repository__: http://www.cdata.com/powershell/
 
 CData Cmdlets for WordPress
 
-__Downloads__: 726 | __Repository__: http://www.cdata.com/powershell/
+__Downloads__: 725 | __Repository__: http://www.cdata.com/powershell/
 
 ## [SAPBusinessOneCmdlets](https://www.powershellgallery.com/Packages/SAPBusinessOneCmdlets/23.0.8770.1) | 23.0.8770.1
 
@@ -1679,7 +1723,7 @@ __Downloads__: 1,059 | __Repository__: http://www.cdata.com/powershell/
 
 CData Cmdlets for PostgreSQL
 
-__Downloads__: 84,294 | __Repository__: http://www.cdata.com/powershell/
+__Downloads__: 84,279 | __Repository__: http://www.cdata.com/powershell/
 
 ## [ShopifyCmdlets](https://www.powershellgallery.com/Packages/ShopifyCmdlets/23.0.8770.1) | 23.0.8770.1
 
@@ -2025,44 +2069,4 @@ CData Cmdlets for FreshBooks
 
 __Downloads__: 1,360 | __Repository__: http://www.cdata.com/powershell/
 
-## [AmazonDynamoDBCmdlets](https://www.powershellgallery.com/Packages/AmazonDynamoDBCmdlets/23.0.8769.1) | 23.0.8769.1
-
-### Published: 01/10/2024 19:36:54 by CData Software Inc.
-
-CData Cmdlets for Amazon DynamoDB
-
-__Downloads__: 3,141 | __Repository__: http://www.cdata.com/powershell/
-
-## [AccessCmdlets](https://www.powershellgallery.com/Packages/AccessCmdlets/23.0.8769.1) | 23.0.8769.1
-
-### Published: 01/10/2024 19:36:49 by CData Software Inc.
-
-CData Cmdlets for Microsoft Access
-
-__Downloads__: 4,844 | __Repository__: http://www.cdata.com/powershell/
-
-## [GoogleBigQueryCmdlets](https://www.powershellgallery.com/Packages/GoogleBigQueryCmdlets/23.0.8770.1) | 23.0.8770.1
-
-### Published: 01/10/2024 19:36:43 by CData Software Inc.
-
-CData Cmdlets for Google BigQuery
-
-__Downloads__: 1,346 | __Repository__: http://www.cdata.com/powershell/
-
-## [GoogleAnalyticsCmdlets](https://www.powershellgallery.com/Packages/GoogleAnalyticsCmdlets/23.0.8770.1) | 23.0.8770.1
-
-### Published: 01/10/2024 19:36:38 by CData Software Inc.
-
-CData Cmdlets for Google Analytics
-
-__Downloads__: 1,358 | __Repository__: http://www.cdata.com/powershell/
-
-## [ZohoCRMCmdlets](https://www.powershellgallery.com/Packages/ZohoCRMCmdlets/23.0.8770.1) | 23.0.8770.1
-
-### Published: 01/10/2024 19:36:32 by CData Software Inc.
-
-CData Cmdlets for Zoho CRM
-
-__Downloads__: 1,168 | __Repository__: http://www.cdata.com/powershell/
-
-*Updated: Sunday, 14 January 2024 17:52:34 UTC*
+*Updated: Monday, 15 January 2024 02:09:29 UTC*
