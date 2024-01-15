@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 15 January 2024 02:09:39 UTC
+Updated: Monday, 15 January 2024 09:52:33 UTC
 
 .bat
 .env
@@ -37,6 +37,7 @@ Updated: Monday, 15 January 2024 02:09:39 UTC
 2018
 2019
 21vianet
+24-bit
 2fa
 300
 365
@@ -528,6 +529,7 @@ aumid
 aut
 auth
 auth0
+authenticate
 authentication
 authenticationcertificate
 authenticode
@@ -569,6 +571,7 @@ autostart
 autotask
 autotaskapi
 autotaskpsa
+autounattend
 autoupdate
 autoupdate-script
 autoyast
@@ -740,7 +743,6 @@ bash
 basic
 bastion
 bat
-batcat
 batch
 batchclass
 batman
@@ -848,7 +850,6 @@ bluetuxedo
 bmc
 bnm
 boards
-bofh
 boilerplate
 boinc
 bold-text
@@ -896,6 +897,7 @@ broadcom
 broot
 brownserve-uk
 browser
+browserbox
 browserextension
 browserhistory
 browsing
@@ -1753,6 +1755,7 @@ decline
 decode
 decode64
 decoding
+decompiler
 decrypt
 decryption
 dedicatedhsm
@@ -2406,6 +2409,7 @@ extensions
 external
 externalip
 extract
+extraction
 extractor
 extreme-networks
 eztheme
@@ -2576,9 +2580,6 @@ flyway
 fmg
 focus
 fod
-fog
-fogapi
-fogproject
 folder
 folderpermission
 folders
@@ -2618,6 +2619,7 @@ fortinetmanager
 fortios
 fortune
 forum
+forwardcompatibility
 forwardedevents
 foudil
 fox
@@ -2693,6 +2695,7 @@ gateway
 gauge
 gavin
 gavineke
+gc
 gcbdr
 gce
 gci
@@ -2700,7 +2703,6 @@ gcloud
 gcp
 gcs
 gdpr
-gedit
 gem
 gemini
 geminiprotocol
@@ -2946,6 +2948,7 @@ hardlink
 hardmatch
 hardware
 harperdb
+hartokens
 harvest
 harvestforecast
 hash
@@ -3004,7 +3007,6 @@ hewlett
 hewlett-packard
 hewlett-packardenterprise
 hex
-hexdump
 hg
 hibernate
 hibernation
@@ -3086,7 +3088,6 @@ hpeosprovisioncmdlets
 hpesmartarraycmdlets
 hpesynergy
 hponeview
-hpwritemanager
 hris
 hsdp
 hsl
@@ -3184,7 +3185,6 @@ ifttt
 igel
 igr
 ihs
-iiittttt
 iis
 iisadministration
 iiscrypto
@@ -3648,7 +3648,6 @@ leiningnen
 lenel
 length
 lenovo
-less
 lesspass
 letsencrypt
 lf
@@ -4085,6 +4084,7 @@ miscellaneous
 mitigation
 mitre
 mitre_att&ck
+mitrend
 mittelschule
 mixedreality
 mixer
@@ -4134,7 +4134,6 @@ monitors
 monthlyupdate
 moodle
 moonshot
-more
 mosaic
 motd
 motivation
@@ -4284,7 +4283,6 @@ nec-infrared-transmission-protocol
 nederland
 nedyalkov
 neo4j
-neovim
 neptune
 nerdfonts
 nerdio
@@ -4407,7 +4405,6 @@ nosql
 note
 notebook
 notepad
-notepad2
 noteproperty
 notes
 notification
@@ -4828,7 +4825,6 @@ pf
 pfe
 pfsense
 pfx
-pfy
 pgp
 phabricator
 philips
@@ -4844,7 +4840,6 @@ php
 phpapam
 pi
 picker
-pico
 picture
 pictures
 pid
@@ -4978,7 +4973,6 @@ poshy-net
 poshy-notify-send
 poshy-sh-isms
 poshy-sshconfig
-poshy-viewer-finder
 poshy-wrap
 poshy-wrap-apt
 poshy-wrap-argcomplete
@@ -5003,6 +4997,7 @@ poshy-wrap-nmap
 poshy-wrap-npm
 poshy-wrap-pip
 poshy-wrap-pipenv
+poshy-wrap-pyenv
 poshy-wrap-pylint
 poshy-wrap-python
 poshy-wrap-ruby
@@ -5576,8 +5571,6 @@ pscommand_forgit-reset-head
 pscommand_forgit-revert-commit
 pscommand_forgit-stash-push
 pscommand_forgit-stash-show
-pscommand_format-batcatstyle
-pscommand_format-lesstermcapenv
 pscommand_format-viewerinvocationsh
 pscommand_g
 pscommand_ga
@@ -5737,7 +5730,6 @@ pscommand_get-netipaddresspublic
 pscommand_get-netipaddresssimple
 pscommand_get-pwshaliasdefinition
 pscommand_get-pwshfunctiondefinition
-pscommand_get-viewer
 pscommand_geun
 pscommand_gexport
 pscommand_gf
@@ -6270,6 +6262,7 @@ pscommand_invoke-pipinstall
 pscommand_invoke-pipinstallupgrade
 pscommand_invoke-piplistoutdated
 pscommand_invoke-pipuninstall
+pscommand_invoke-pyenv
 pscommand_invoke-pylintreportsdisabled
 pscommand_invoke-ruby
 pscommand_invoke-rubyexecute
@@ -6758,6 +6751,7 @@ pscommand_pvenv
 pscommand_pwh
 pscommand_pwshrc-show-proxy
 pscommand_py
+pscommand_pyenv
 pscommand_pylint-quick
 pscommand_pyserver
 pscommand_python
@@ -7258,8 +7252,6 @@ psfunction_forgit-reset-head
 psfunction_forgit-revert-commit
 psfunction_forgit-stash-push
 psfunction_forgit-stash-show
-psfunction_format-batcatstyle
-psfunction_format-lesstermcapenv
 psfunction_format-viewerinvocationsh
 psfunction_gdv
 psfunction_get-aptinstalledpackages
@@ -7327,7 +7319,6 @@ psfunction_get-netipaddresspublic
 psfunction_get-netipaddresssimple
 psfunction_get-pwshaliasdefinition
 psfunction_get-pwshfunctiondefinition
-psfunction_get-viewer
 psfunction_git_blame_line
 psfunction_git_checkout_child
 psfunction_git_checkout_parent
@@ -7677,6 +7668,7 @@ psfunction_invoke-pipinstall
 psfunction_invoke-pipinstallupgrade
 psfunction_invoke-piplistoutdated
 psfunction_invoke-pipuninstall
+psfunction_invoke-pyenv
 psfunction_invoke-pylintreportsdisabled
 psfunction_invoke-ruby
 psfunction_invoke-rubyexecute
@@ -8167,6 +8159,7 @@ psreadexif
 psreadline
 psremoting
 psrepository
+psresourceget
 psrule
 psrule-rules
 pssa
@@ -8209,6 +8202,7 @@ publicip
 publish
 publishedmodules
 publisher
+publishers
 publishing
 pubsub
 pubxml
@@ -8247,7 +8241,7 @@ pwshake
 pwshfw
 pwshrc
 pxedistributionpoint
-pygmentize
+pyenv
 pylint
 pyranja
 python
@@ -8410,6 +8404,7 @@ refeds
 refeds-mfa
 refedsmfa
 reference
+reflect
 reflection
 refresh
 refreshtoken
@@ -8452,6 +8447,7 @@ remediation
 remedy
 reminder
 remote
+remote-browser
 remote-desktop
 remote'
 remoteadmin
@@ -8700,7 +8696,6 @@ sap
 sapazure
 saponazure
 sapstartstopazure
-sarcasm
 sarif
 sas
 sat
@@ -9499,7 +9494,6 @@ syskit
 syslog
 sysman
 sysmon
-sysop
 syspass
 syspip
 syspip3
@@ -9629,7 +9623,6 @@ terrafun
 terragrunt
 tesla
 test
-test-automation
 test-dscconfiguration
 test-internetconnection
 test-modulepath
@@ -9884,6 +9877,7 @@ ubnt
 ubuntu
 ucs
 ucspowertool
+ud-avataaar
 ud-badgebutton
 ud-badgelink
 ud-breadcrumb
@@ -10315,6 +10309,7 @@ weather
 weaviate
 weaviatenet
 web
+web-browser
 web-search
 web.config
 webadministration
@@ -10560,7 +10555,6 @@ write-slog
 write-wansi
 writeaccess
 writelog
-writemanager
 writeprogress
 writer
 ws-federation

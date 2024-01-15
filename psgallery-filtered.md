@@ -3,6 +3,166 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [ExtractPDFData](https://www.powershellgallery.com/Packages/ExtractPDFData/0.0.3) | 0.0.3
+
+### Published: 01/15/2024 09:08:02 by AutoSysOps (Leo Visser)
+
+PowerShell module to extract data from a PDF file. For now only supports extracting text with lay-out from the PDF file. Uses the FreeSpire.PDF assembly which is free for personal and commercial use.
+
+__Downloads__: 0 | __Repository__: 
+
+## [Import-Package](https://www.powershellgallery.com/Packages/Import-Package/0.4.3) | 0.4.3
+
+### Published: 01/15/2024 08:49:04 by anonhostpi
+
+Adds ability to import NuGet/Nupkg packages downloaded by PackageManagement
+
+__Downloads__: 404 | __Repository__: https://github.com/pwsh-cs-tools/core
+
+## [SharePointEssentials](https://www.powershellgallery.com/Packages/SharePointEssentials/1.0.1) | 1.0.1
+
+### Published: 01/15/2024 07:47:32 by Przemyslaw Klys
+
+Simple project SharePointEssentials
+
+__Downloads__: 32 | __Repository__: 
+
+## [AdminToolbox](https://www.powershellgallery.com/Packages/AdminToolbox/11.0.132) | 11.0.132
+
+### Published: 01/15/2024 05:48:43 by Taylor Lee
+
+Master module for a collection of modules. These modules are varied in their tasks. The overall purpose of them being to provide a powerfull Toolset to improve IT Admin workflows.
+
+__Downloads__: 32,460 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox
+
+## [AdminToolbox.FortiWizard](https://www.powershellgallery.com/Packages/AdminToolbox.FortiWizard/2.18.30) | 2.18.30
+
+### Published: 01/15/2024 05:48:31 by Taylor Lee
+
+Functions that generate configuration scripts and manage FortiOS.
+
+__Downloads__: 12,000 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [AdminToolbox.VMWareAutomate](https://www.powershellgallery.com/Packages/AdminToolbox.VMWareAutomate/4.8.121) | 4.8.121
+
+### Published: 01/15/2024 05:48:25 by Taylor Lee
+
+Functions to Automate Bulk VMWare Tasks
+
+__Downloads__: 18,671 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [AdminToolbox.Remoting](https://www.powershellgallery.com/Packages/AdminToolbox.Remoting/1.9.124) | 1.9.124
+
+### Published: 01/15/2024 05:48:21 by Taylor Lee
+
+Functions for remote management and access.
+
+__Downloads__: 18,497 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [AdminToolbox.Office365](https://www.powershellgallery.com/Packages/AdminToolbox.Office365/3.1.74) | 3.1.74
+
+### Published: 01/15/2024 05:48:17 by Taylor Lee
+
+Functions for working with Office365 and Azure modules
+
+__Downloads__: 20,052 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [AdminToolbox.Networking](https://www.powershellgallery.com/Packages/AdminToolbox.Networking/2.18.32) | 2.18.32
+
+### Published: 01/15/2024 05:48:13 by Taylor Lee
+
+Network Troubleshooting Functions
+
+__Downloads__: 47,174 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [AdminToolbox.MSGraph](https://www.powershellgallery.com/Packages/AdminToolbox.MSGraph/1.2.124) | 1.2.124
+
+### Published: 01/15/2024 05:48:09 by Taylor Lee
+
+Microsoft Graph interactive API Functions
+
+__Downloads__: 8,894 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [AdminToolbox.Fun](https://www.powershellgallery.com/Packages/AdminToolbox.Fun/1.6.125) | 1.6.125
+
+### Published: 01/15/2024 05:48:05 by Taylor Lee
+
+Functions that have no purpose
+
+__Downloads__: 18,714 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [AdminToolbox.FileManagement](https://www.powershellgallery.com/Packages/AdminToolbox.FileManagement/1.15.115) | 1.15.115
+
+### Published: 01/15/2024 05:48:02 by Taylor Lee
+
+File Management Functions
+
+__Downloads__: 19,423 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [AdminToolbox.FFTools](https://www.powershellgallery.com/Packages/AdminToolbox.FFTools/4.16.74) | 4.16.74
+
+### Published: 01/15/2024 05:47:57 by Taylor Lee
+
+Expedite simple ffmpeg actions
+
+__Downloads__: 19,309 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [AdminToolbox.Exchange](https://www.powershellgallery.com/Packages/AdminToolbox.Exchange/1.9.125) | 1.9.125
+
+### Published: 01/15/2024 05:47:53 by Taylor Lee
+
+Functions for Exchange Management
+
+__Downloads__: 20,471 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [AdminToolbox.EndpointManagement](https://www.powershellgallery.com/Packages/AdminToolbox.EndpointManagement/4.9.117) | 4.9.117
+
+### Published: 01/15/2024 05:47:49 by Taylor Lee
+
+Functions for management of endpoints
+
+__Downloads__: 23,673 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [AdminToolbox.ActiveDirectory](https://www.powershellgallery.com/Packages/AdminToolbox.ActiveDirectory/1.9.122) | 1.9.122
+
+### Published: 01/15/2024 05:47:44 by Taylor Lee
+
+Functions for Active Directory
+
+__Downloads__: 23,293 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [pwshPlaces](https://www.powershellgallery.com/Packages/pwshPlaces/1.0.3) | 1.0.3
+
+### Published: 01/15/2024 05:24:38 by Jake Morrison
+
+Search for places, establishments, points of interest, and other detailed information about points around the globe using the Google Maps and/or Bing Maps API(s)
+
+__Downloads__: 164 | __Repository__: https://github.com/techthoughts2/pwshPlaces
+
+## [PoshGram](https://www.powershellgallery.com/Packages/PoshGram/3.0.1) | 3.0.1
+
+### Published: 01/15/2024 05:08:10 by Jake Morrison
+
+PoshGram provides functionality to send various message types to a specified Telegram chat via the Telegram Bot API. Separate PowerShell functions are used for each message type. Checks are included to ensure that file extensions, and file size restrictions are adhered to based on Telegram requirements.
+
+__Downloads__: 288,689 | __Repository__: https://github.com/techthoughts2/PoshGram
+
+## [pwshEmojiExplorer](https://www.powershellgallery.com/Packages/pwshEmojiExplorer/0.8.2) | 0.8.2
+
+### Published: 01/15/2024 04:04:58 by Jake Morrison
+
+Enables detailed emoji search, discovery, and retrieval. Offers detailed insights on emojis, with multiple search options aligned with the Unicode standard. Provides comprehensive emoji data, including diverse representations and formats, to enhance your scripts and digital communication.
+
+__Downloads__: 39 | __Repository__: https://github.com/techthoughts2/pwshEmojiExplorer
+
+## [UiPathOrch](https://www.powershellgallery.com/Packages/UiPathOrch/0.8.1.0) | 0.8.1.0
+
+### Published: 01/15/2024 03:15:04 by Yoshifumi Tsuda
+
+Provider for Orchestrator entities.
+
+__Downloads__: 84 | __Repository__: 
+
 ## [pingsweep](https://www.powershellgallery.com/Packages/pingsweep/1.1) | 1.1
 
 ### Published: 01/15/2024 01:15:37 by Paulo Bazzo a.k.a Cyber Samurai
@@ -77,7 +237,7 @@ AADInternals allows you to export ADFS certificates, Azure AD Connect passwords,
 
 DISCLAIMER: Functionality provided through this module are not supported by Microsoft and thus should not be used in a production environment. Use on your own risk!
 
-__Downloads__: 82,694 | __Repository__: https://aadinternals.com/aadinternals
+__Downloads__: 82,699 | __Repository__: https://aadinternals.com/aadinternals
 
 ## [PsRunspace](https://www.powershellgallery.com/Packages/PsRunspace/1.0.102) | 1.0.102
 
@@ -86,14 +246,6 @@ __Downloads__: 82,694 | __Repository__: https://aadinternals.com/aadinternals
 Module for multithreading PowerShell commands using .Net Runspaces
 
 __Downloads__: 346 | __Repository__: 
-
-## [PoshGram](https://www.powershellgallery.com/Packages/PoshGram/3.0.0) | 3.0.0
-
-### Published: 01/14/2024 18:08:33 by Jake Morrison
-
-PoshGram provides functionality to send various message types to a specified Telegram chat via the Telegram Bot API. Separate PowerShell functions are used for each message type. Checks are included to ensure that file extensions, and file size restrictions are adhered to based on Telegram requirements.
-
-__Downloads__: 288,687 | __Repository__: https://github.com/techthoughts2/PoshGram
 
 ## [AzCostTools](https://www.powershellgallery.com/Packages/AzCostTools/0.0.1) | 0.0.1
 
@@ -124,7 +276,7 @@ The module also provides the additional features:
 For more information about Bicep, please visit the official Bicep GitHub Repository:
 https://github.com/Azure/bicep
 
-__Downloads__: 2,181,476 | __Repository__: https://github.com/PSBicep/PSBicep
+__Downloads__: 2,181,481 | __Repository__: https://github.com/PSBicep/PSBicep
 
 ## [CommonStuff](https://www.powershellgallery.com/Packages/CommonStuff/1.0.15) | 1.0.15
 
@@ -182,7 +334,7 @@ __Downloads__: 234 | __Repository__: https://github.com/steve02081504/ps12exe
 
 A PowerShell module to generate an Veeam Backup & Replication infrastructure diagram
 
-__Downloads__: 467 | __Repository__: https://github.com/rebelinux/Veeam.Diagrammer
+__Downloads__: 468 | __Repository__: https://github.com/rebelinux/Veeam.Diagrammer
 
 ## [PowerShellAIAssistant](https://www.powershellgallery.com/Packages/PowerShellAIAssistant/0.1.1) | 0.1.1
 
@@ -240,14 +392,6 @@ __Downloads__: 111 | __Repository__: https://blog.n-dimensions.de/
 Use Active Directory Service Interfaces to query LDAP and WinNT directories
 
 __Downloads__: 1,105 | __Repository__: 
-
-## [Import-Package](https://www.powershellgallery.com/Packages/Import-Package/0.4.2) | 0.4.2
-
-### Published: 01/13/2024 10:17:28 by anonhostpi
-
-Adds ability to import NuGet/Nupkg packages downloaded by PackageManagement
-
-__Downloads__: 404 | __Repository__: https://github.com/pwsh-cs-tools/core
 
 ## [FarGit](https://www.powershellgallery.com/Packages/FarGit/0.4.4) | 0.4.4
 
@@ -311,7 +455,7 @@ __Downloads__: 35 | __Repository__: https://github.com/BinaryWizard904/SecretMan
 
 This module provides an interface to the Halo API.
 
-__Downloads__: 184,698 | __Repository__: https://github.com/homotechsual/HaloAPI
+__Downloads__: 184,708 | __Repository__: https://github.com/homotechsual/HaloAPI
 
 ## [EpinovaAzureToolBucket](https://www.powershellgallery.com/Packages/EpinovaAzureToolBucket/0.15.16) | 0.15.16
 
@@ -348,7 +492,7 @@ Some of the interesting functions:
 - Upload-IntuneAutopilotHash - upload given autopilot hash (owner and hostname) into Intune
 - ...
 
-__Downloads__: 17,942 | __Repository__: https://github.com/ztrhgf/useful_powershell_modules
+__Downloads__: 17,944 | __Repository__: https://github.com/ztrhgf/useful_powershell_modules
 
 ## [ExchangeOnlineArchiveTransfer](https://www.powershellgallery.com/Packages/ExchangeOnlineArchiveTransfer/1.0.3) | 1.0.3
 
@@ -426,7 +570,7 @@ __Downloads__: 357,649 | __Repository__: https://github.com/OSDeploy/OSDSUS
 
 January 2024 Patch Tuesday Update
 
-__Downloads__: 1,218,568 | __Repository__: https://github.com/OSDeploy/OSD
+__Downloads__: 1,218,557 | __Repository__: https://github.com/OSDeploy/OSD
 
 ## [PSAction1](https://www.powershellgallery.com/Packages/PSAction1/1.2.8) | 1.2.8
 
@@ -1605,6 +1749,14 @@ CData Cmdlets for Apache Impala
 
 __Downloads__: 387 | __Repository__: http://www.cdata.com/powershell/
 
+## [Sage200Cmdlets](https://www.powershellgallery.com/Packages/Sage200Cmdlets/23.0.8770.1) | 23.0.8770.1
+
+### Published: 01/10/2024 19:43:00 by CData Software Inc.
+
+CData Cmdlets for Sage 200
+
+__Downloads__: 337 | __Repository__: http://www.cdata.com/powershell/
+
 ## [FreshDeskCmdlets](https://www.powershellgallery.com/Packages/FreshDeskCmdlets/23.0.8770.1) | 23.0.8770.1
 
 ### Published: 01/10/2024 19:42:52 by CData Software Inc.
@@ -1675,7 +1827,7 @@ __Downloads__: 3,161 | __Repository__: http://www.cdata.com/powershell/
 
 CData Cmdlets for WordPress
 
-__Downloads__: 725 | __Repository__: http://www.cdata.com/powershell/
+__Downloads__: 726 | __Repository__: http://www.cdata.com/powershell/
 
 ## [SAPBusinessOneCmdlets](https://www.powershellgallery.com/Packages/SAPBusinessOneCmdlets/23.0.8770.1) | 23.0.8770.1
 
@@ -1723,7 +1875,7 @@ __Downloads__: 1,059 | __Repository__: http://www.cdata.com/powershell/
 
 CData Cmdlets for PostgreSQL
 
-__Downloads__: 84,279 | __Repository__: http://www.cdata.com/powershell/
+__Downloads__: 84,314 | __Repository__: http://www.cdata.com/powershell/
 
 ## [ShopifyCmdlets](https://www.powershellgallery.com/Packages/ShopifyCmdlets/23.0.8770.1) | 23.0.8770.1
 
@@ -1853,14 +2005,6 @@ CData Cmdlets for Spark SQL
 
 __Downloads__: 722 | __Repository__: http://www.cdata.com/powershell/
 
-## [GoogleCMCmdlets](https://www.powershellgallery.com/Packages/GoogleCMCmdlets/23.0.8770.1) | 23.0.8770.1
-
-### Published: 01/10/2024 19:39:44 by CData Software Inc.
-
-CData Cmdlets for Google Campaign Manager
-
-__Downloads__: 517 | __Repository__: http://www.cdata.com/powershell/
-
 ## [OracleSalesCloudCmdlets](https://www.powershellgallery.com/Packages/OracleSalesCloudCmdlets/23.0.8770.1) | 23.0.8770.1
 
 ### Published: 01/10/2024 19:39:39 by CData Software Inc.
@@ -1925,148 +2069,4 @@ CData Cmdlets for DB2
 
 __Downloads__: 254 | __Repository__: http://www.cdata.com/powershell/
 
-## [GoogleContactsCmdlets](https://www.powershellgallery.com/Packages/GoogleContactsCmdlets/23.0.8770.1) | 23.0.8770.1
-
-### Published: 01/10/2024 19:38:48 by CData Software Inc.
-
-CData Cmdlets for Google Contacts
-
-__Downloads__: 870 | __Repository__: http://www.cdata.com/powershell/
-
-## [LinkedInAdsCmdlets](https://www.powershellgallery.com/Packages/LinkedInAdsCmdlets/23.0.8770.1) | 23.0.8770.1
-
-### Published: 01/10/2024 19:38:42 by CData Software Inc.
-
-CData Cmdlets for LinkedIn Marketing Solutions
-
-__Downloads__: 470 | __Repository__: http://www.cdata.com/powershell/
-
-## [GoogleAdsCmdlets](https://www.powershellgallery.com/Packages/GoogleAdsCmdlets/23.0.8770.1) | 23.0.8770.1
-
-### Published: 01/10/2024 19:38:37 by CData Software Inc.
-
-CData Cmdlets for Google Ads
-
-__Downloads__: 2,149 | __Repository__: http://www.cdata.com/powershell/
-
-## [ExactOnlineCmdlets](https://www.powershellgallery.com/Packages/ExactOnlineCmdlets/23.0.8770.1) | 23.0.8770.1
-
-### Published: 01/10/2024 19:38:29 by CData Software Inc.
-
-CData Cmdlets for Exact Online
-
-__Downloads__: 1,086 | __Repository__: http://www.cdata.com/powershell/
-
-## [XeroCmdlets](https://www.powershellgallery.com/Packages/XeroCmdlets/23.0.8770.1) | 23.0.8770.1
-
-### Published: 01/10/2024 19:38:21 by CData Software Inc.
-
-CData Cmdlets for Xero
-
-__Downloads__: 1,253 | __Repository__: http://www.cdata.com/powershell/
-
-## [XMLCmdlets](https://www.powershellgallery.com/Packages/XMLCmdlets/23.0.8770.1) | 23.0.8770.1
-
-### Published: 01/10/2024 19:38:14 by CData Software Inc.
-
-CData Cmdlets for XML
-
-__Downloads__: 1,388 | __Repository__: http://www.cdata.com/powershell/
-
-## [OracleEloquaCmdlets](https://www.powershellgallery.com/Packages/OracleEloquaCmdlets/23.0.8770.1) | 23.0.8770.1
-
-### Published: 01/10/2024 19:38:07 by CData Software Inc.
-
-CData Cmdlets for Oracle Eloqua
-
-__Downloads__: 504 | __Repository__: http://www.cdata.com/powershell/
-
-## [ExcelServicesCmdlets](https://www.powershellgallery.com/Packages/ExcelServicesCmdlets/23.0.8770.1) | 23.0.8770.1
-
-### Published: 01/10/2024 19:38:00 by CData Software Inc.
-
-CData Cmdlets for Microsoft SharePoint Excel
-
-__Downloads__: 4,327 | __Repository__: http://www.cdata.com/powershell/
-
-## [QuickBooksPOSCmdlets](https://www.powershellgallery.com/Packages/QuickBooksPOSCmdlets/23.0.8770.1) | 23.0.8770.1
-
-### Published: 01/10/2024 19:37:55 by CData Software Inc.
-
-CData Cmdlets for QuickBooks POS
-
-__Downloads__: 848 | __Repository__: http://www.cdata.com/powershell/
-
-## [DynamicsGPCmdlets](https://www.powershellgallery.com/Packages/DynamicsGPCmdlets/23.0.8770.1) | 23.0.8770.1
-
-### Published: 01/10/2024 19:37:47 by CData Software Inc.
-
-CData Cmdlets for Microsoft Dynamics GP
-
-__Downloads__: 941 | __Repository__: http://www.cdata.com/powershell/
-
-## [NetSuiteCmdlets](https://www.powershellgallery.com/Packages/NetSuiteCmdlets/23.0.8770.1) | 23.0.8770.1
-
-### Published: 01/10/2024 19:37:40 by CData Software Inc.
-
-CData Cmdlets for NetSuite
-
-__Downloads__: 1,168 | __Repository__: http://www.cdata.com/powershell/
-
-## [MySQLCmdlets](https://www.powershellgallery.com/Packages/MySQLCmdlets/23.0.8770.1) | 23.0.8770.1
-
-### Published: 01/10/2024 19:37:35 by CData Software Inc.
-
-CData Cmdlets for MySQL
-
-__Downloads__: 21,583 | __Repository__: http://www.cdata.com/powershell/
-
-## [GmailCmdlets](https://www.powershellgallery.com/Packages/GmailCmdlets/23.0.8770.1) | 23.0.8770.1
-
-### Published: 01/10/2024 19:37:30 by CData Software Inc.
-
-CData Cmdlets for Gmail
-
-__Downloads__: 3,011 | __Repository__: http://www.cdata.com/powershell/
-
-## [MarketoCmdlets](https://www.powershellgallery.com/Packages/MarketoCmdlets/23.0.8770.1) | 23.0.8770.1
-
-### Published: 01/10/2024 19:37:22 by CData Software Inc.
-
-CData Cmdlets for Marketo
-
-__Downloads__: 861 | __Repository__: http://www.cdata.com/powershell/
-
-## [JSONCmdlets](https://www.powershellgallery.com/Packages/JSONCmdlets/23.0.8770.1) | 23.0.8770.1
-
-### Published: 01/10/2024 19:37:17 by CData Software Inc.
-
-CData Cmdlets for JSON
-
-__Downloads__: 1,586 | __Repository__: http://www.cdata.com/powershell/
-
-## [HubSpotCmdlets](https://www.powershellgallery.com/Packages/HubSpotCmdlets/23.0.8770.1) | 23.0.8770.1
-
-### Published: 01/10/2024 19:37:12 by CData Software Inc.
-
-CData Cmdlets for HubSpot
-
-__Downloads__: 1,379 | __Repository__: http://www.cdata.com/powershell/
-
-## [MongoDBCmdlets](https://www.powershellgallery.com/Packages/MongoDBCmdlets/23.0.8770.1) | 23.0.8770.1
-
-### Published: 01/10/2024 19:37:07 by CData Software Inc.
-
-CData Cmdlets for MongoDB
-
-__Downloads__: 3,180 | __Repository__: http://www.cdata.com/powershell/
-
-## [FreshBooksCmdlets](https://www.powershellgallery.com/Packages/FreshBooksCmdlets/23.0.8770.1) | 23.0.8770.1
-
-### Published: 01/10/2024 19:36:59 by CData Software Inc.
-
-CData Cmdlets for FreshBooks
-
-__Downloads__: 1,360 | __Repository__: http://www.cdata.com/powershell/
-
-*Updated: Monday, 15 January 2024 02:09:29 UTC*
+*Updated: Monday, 15 January 2024 09:52:23 UTC*
