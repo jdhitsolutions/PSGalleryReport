@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 15 January 2024 09:52:33 UTC
+Updated: Monday, 15 January 2024 17:52:24 UTC
 
 .bat
 .env
@@ -529,7 +529,6 @@ aumid
 aut
 auth
 auth0
-authenticate
 authentication
 authenticationcertificate
 authenticode
@@ -669,7 +668,6 @@ azuredatastudio
 azuredevops
 azuredevops_security
 azuredevopsserver
-azuredns
 azurefilesync
 azurefunctionapp
 azurefunctions
@@ -743,6 +741,7 @@ bash
 basic
 bastion
 bat
+batcat
 batch
 batchclass
 batman
@@ -850,6 +849,7 @@ bluetuxedo
 bmc
 bnm
 boards
+bofh
 boilerplate
 boinc
 bold-text
@@ -1261,7 +1261,6 @@ codes
 codesign
 codesigning
 codex
-coercion
 cognitiveservice
 cognitiveservices
 cohesity
@@ -1629,7 +1628,6 @@ cyclicredundancycheck
 cygwin
 cylance
 cypher
-cyrillic
 d365
 d365ce
 d365fo
@@ -1718,7 +1716,6 @@ dattormm
 datum
 dave
 davinci
-dax
 dayinweek
 days
 days-week
@@ -1774,7 +1771,6 @@ defence
 defender
 defender-atp
 defender-for-endpoint
-defenderast
 defenderforendpoint
 defense
 deflate
@@ -1942,7 +1938,6 @@ dmarc
 dmgr
 dmi
 dmtf
-dmx
 dnd
 dnf
 dns
@@ -2504,7 +2499,6 @@ filesecurity
 fileserver
 fileserverresourcemanager
 fileshare
-filesharing
 filestorage
 filestream
 filesystem
@@ -2580,6 +2574,9 @@ flyway
 fmg
 focus
 fod
+fog
+fogapi
+fogproject
 folder
 folderpermission
 folders
@@ -2703,6 +2700,7 @@ gcloud
 gcp
 gcs
 gdpr
+gedit
 gem
 gemini
 geminiprotocol
@@ -2771,6 +2769,7 @@ get-thermalstamp
 get-uptime
 getfirmwareenvironmentvariable
 getfirmwaretype
+ggplot
 gh
 gh-actions
 ghactions
@@ -2826,7 +2825,6 @@ goldsource
 goldsource-dedicated-server
 google
 google-chrome
-google-histogram
 google-sankey
 google-table
 googleadsv2
@@ -3007,6 +3005,7 @@ hewlett
 hewlett-packard
 hewlett-packardenterprise
 hex
+hexdump
 hg
 hibernate
 hibernation
@@ -3048,7 +3047,6 @@ hockey
 hol
 holiday
 home
-home_automation
 homebrew
 homelandsecurity
 homeschooling
@@ -3088,6 +3086,7 @@ hpeosprovisioncmdlets
 hpesmartarraycmdlets
 hpesynergy
 hponeview
+hpwritemanager
 hris
 hsdp
 hsl
@@ -3185,6 +3184,7 @@ ifttt
 igel
 igr
 ihs
+iiittttt
 iis
 iisadministration
 iiscrypto
@@ -3614,7 +3614,6 @@ lastlogon
 lastpass
 latency
 latestupdate
-latin
 latitude
 launcher
 layer
@@ -3648,6 +3647,7 @@ leiningnen
 lenel
 length
 lenovo
+less
 lesspass
 letsencrypt
 lf
@@ -3774,7 +3774,6 @@ login
 login-azurermaccount
 login-rdp
 logingestion
-loginscreen
 loginsight
 logiphys
 logistic
@@ -3927,6 +3926,7 @@ materialui
 mateso
 math
 mathematics
+matplotlib
 matrix
 maven
 max
@@ -3954,7 +3954,6 @@ mdep
 mdm
 mdop
 mdt
-mdx
 me4024
 mean
 measure
@@ -3994,7 +3993,6 @@ mermaid
 message
 message-emoji
 message-emojis
-messagebox
 messageoftheday
 messages
 messaging
@@ -4134,6 +4132,7 @@ monitors
 monthlyupdate
 moodle
 moonshot
+more
 mosaic
 motd
 motivation
@@ -4283,6 +4282,7 @@ nec-infrared-transmission-protocol
 nederland
 nedyalkov
 neo4j
+neovim
 neptune
 nerdfonts
 nerdio
@@ -4405,6 +4405,7 @@ nosql
 note
 notebook
 notepad
+notepad2
 noteproperty
 notes
 notification
@@ -4684,6 +4685,7 @@ owasp
 owls
 owner
 oxygen
+oxyplot
 p2000
 p2s
 pa1reg
@@ -4736,7 +4738,6 @@ partition
 partitions
 partner
 partnercenter
-partnerportal
 pas
 pass
 passcode
@@ -4825,6 +4826,7 @@ pf
 pfe
 pfsense
 pfx
+pfy
 pgp
 phabricator
 philips
@@ -4840,9 +4842,11 @@ php
 phpapam
 pi
 picker
+pico
 picture
 pictures
 pid
+pie
 pim
 pin
 ping
@@ -4973,6 +4977,7 @@ poshy-net
 poshy-notify-send
 poshy-sh-isms
 poshy-sshconfig
+poshy-viewer-finder
 poshy-wrap
 poshy-wrap-apt
 poshy-wrap-argcomplete
@@ -5004,7 +5009,6 @@ poshy-wrap-ruby
 poshy-wrap-systemctl
 poshy-wrap-terraform
 poshy-wrap-terragrunt
-poshy-wrap-tmux
 poshy-wrap-vagrant
 poshy-wrap-vault
 poshy-wrap-vscode
@@ -5571,6 +5575,8 @@ pscommand_forgit-reset-head
 pscommand_forgit-revert-commit
 pscommand_forgit-stash-push
 pscommand_forgit-stash-show
+pscommand_format-batcatstyle
+pscommand_format-lesstermcapenv
 pscommand_format-viewerinvocationsh
 pscommand_g
 pscommand_ga
@@ -5730,6 +5736,7 @@ pscommand_get-netipaddresspublic
 pscommand_get-netipaddresssimple
 pscommand_get-pwshaliasdefinition
 pscommand_get-pwshfunctiondefinition
+pscommand_get-viewer
 pscommand_geun
 pscommand_gexport
 pscommand_gf
@@ -6393,13 +6400,6 @@ pscommand_invoke-terragruntplan
 pscommand_invoke-terragruntplanall
 pscommand_invoke-terragruntvalidate
 pscommand_invoke-terragruntvalidateall
-pscommand_invoke-tmuxattachforterminal
-pscommand_invoke-tmuxattachforterminaldetachingothers
-pscommand_invoke-tmuxeditconfig
-pscommand_invoke-tmuxkillserver
-pscommand_invoke-tmuxkillsessionforterminal
-pscommand_invoke-tmuxlistsessions
-pscommand_invoke-tmuxnewsessionfromsource
 pscommand_invoke-vagrantdestroy
 pscommand_invoke-vagranthalt
 pscommand_invoke-vagranthostmanager
@@ -6841,8 +6841,6 @@ pscommand_syspip
 pscommand_syspip_package_location
 pscommand_syspip3
 pscommand_syspip3_package_location
-pscommand_ta
-pscommand_tad
 pscommand_test-command
 pscommand_test-d
 pscommand_test-elevation
@@ -6870,14 +6868,6 @@ pscommand_tgp
 pscommand_tgpa
 pscommand_tgv
 pscommand_tgva
-pscommand_tkss
-pscommand_tksv
-pscommand_tl
-pscommand_tmuxconf
-pscommand_ts
-pscommand_txa
-pscommand_txl
-pscommand_txn
 pscommand_universalarchive
 pscommand_update-gitbranchbasefrombranchmain
 pscommand_update-gitbranchbasefrommain
@@ -7252,6 +7242,8 @@ psfunction_forgit-reset-head
 psfunction_forgit-revert-commit
 psfunction_forgit-stash-push
 psfunction_forgit-stash-show
+psfunction_format-batcatstyle
+psfunction_format-lesstermcapenv
 psfunction_format-viewerinvocationsh
 psfunction_gdv
 psfunction_get-aptinstalledpackages
@@ -7319,6 +7311,7 @@ psfunction_get-netipaddresspublic
 psfunction_get-netipaddresssimple
 psfunction_get-pwshaliasdefinition
 psfunction_get-pwshfunctiondefinition
+psfunction_get-viewer
 psfunction_git_blame_line
 psfunction_git_checkout_child
 psfunction_git_checkout_parent
@@ -7799,13 +7792,6 @@ psfunction_invoke-terragruntplan
 psfunction_invoke-terragruntplanall
 psfunction_invoke-terragruntvalidate
 psfunction_invoke-terragruntvalidateall
-psfunction_invoke-tmuxattachforterminal
-psfunction_invoke-tmuxattachforterminaldetachingothers
-psfunction_invoke-tmuxeditconfig
-psfunction_invoke-tmuxkillserver
-psfunction_invoke-tmuxkillsessionforterminal
-psfunction_invoke-tmuxlistsessions
-psfunction_invoke-tmuxnewsessionfromsource
 psfunction_invoke-vagrantdestroy
 psfunction_invoke-vagranthalt
 psfunction_invoke-vagranthostmanager
@@ -8131,7 +8117,6 @@ psmodule psedition_desktop
 psmodulepath
 psmodulepsedition_desktoppsedition_core
 psmodules
-psmp
 psmsgraph
 psmsgraphapi
 psmssql
@@ -8159,7 +8144,6 @@ psreadexif
 psreadline
 psremoting
 psrepository
-psresourceget
 psrule
 psrule-rules
 pssa
@@ -8242,6 +8226,7 @@ pwshfw
 pwshrc
 pxedistributionpoint
 pyenv
+pygmentize
 pylint
 pyranja
 python
@@ -8303,7 +8288,6 @@ radarr
 radio
 raidcontrollercmdlets
 rainbow
-raisers
 raisersedge
 raj
 ram
@@ -8652,7 +8636,6 @@ runspacepool
 runspaces
 runtimedefinedparameter
 runtimedefinedparameterdictionary
-runway
 russia
 rust
 rust-lang
@@ -8696,6 +8679,7 @@ sap
 sapazure
 saponazure
 sapstartstopazure
+sarcasm
 sarif
 sas
 sat
@@ -9000,7 +8984,6 @@ shieldedvm
 ships
 shipsprovider
 shipstation
-shlink
 shodan
 shodanps
 shop
@@ -9084,7 +9067,6 @@ slugify
 sm
 sma
 small_web
-smart_home
 smartarray
 smartarraycmdlets
 smarthome
@@ -9171,7 +9153,6 @@ soonr
 soonragent
 sophos
 sort
-sorting
 source
 source-dedicated-server
 sourcecontrol
@@ -9479,7 +9460,6 @@ syndication
 synergy
 syntax
 syntax-highlighting
-syntaxcheck
 syntaxhighlighter
 synthesis
 synthetics
@@ -9494,6 +9474,7 @@ syskit
 syslog
 sysman
 sysmon
+sysop
 syspass
 syspip
 syspip3
@@ -9623,6 +9604,7 @@ terrafun
 terragrunt
 tesla
 test
+test-automation
 test-dscconfiguration
 test-internetconnection
 test-modulepath
@@ -9700,7 +9682,6 @@ tibber
 tic-tac-toe
 tickle
 ticks
-tictactoe
 tiermodel
 time
 timeout
@@ -9721,7 +9702,6 @@ tls12
 tlsa
 tlsprotocol
 tlsrpt
-tmux
 to-do
 toast
 toasts
@@ -9786,8 +9766,6 @@ transforms
 transitionmanager
 translate
 translation
-translit
-transliteration
 transmission
 transparency
 transpilation
@@ -9943,7 +9921,6 @@ uefi
 uem
 ui
 ui/ux
-ui7
 uk
 ul
 ulid
@@ -10017,7 +9994,6 @@ uri
 uri-scheme
 url
 url-encode
-url-shortener
 urldecode
 urlencode
 urlhaus
@@ -10120,7 +10096,6 @@ vencord
 vendor
 venue
 venvlink
-vera
 veracrypt
 verbose psmodule
 verification
@@ -10317,7 +10292,6 @@ webapi
 webapp
 webapplicationproxy
 webapps
-webcamera
 webcmdlets
 webdav
 webdeploy
@@ -10461,7 +10435,6 @@ windowstimezone
 windowsupdate
 windowsupdates
 windowsvirtualdesktop
-winform
 winforms
 winget
 wingetbridge
@@ -10555,6 +10528,7 @@ write-slog
 write-wansi
 writeaccess
 writelog
+writemanager
 writeprogress
 writer
 ws-federation
@@ -10580,8 +10554,6 @@ wvd
 www
 x-cart
 x.509
-x1
-x2
 x509
 x509cerificate
 x509cerificate2
@@ -10627,7 +10599,7 @@ xpo
 xprotect
 xpt
 xrm
-xtremio
+xsa
 xtrude
 xunit
 xwiki
