@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Tuesday, 16 January 2024 02:07:25 UTC
+Updated: Tuesday, 16 January 2024 09:52:34 UTC
 
 .bat
 .env
@@ -578,7 +578,6 @@ autoyast
 auvik
 availability
 availabilityset
-avalara
 avalonia
 avatar
 avd
@@ -1243,6 +1242,7 @@ cmtrace
 cmwt
 cns
 coa
+cockroachdb
 codaamok
 code
 code-page
@@ -1386,7 +1386,6 @@ connectedmachine
 connectednetwork
 connectexchange
 connection
-connectionmonitor
 connections
 connectionsmanager
 connectionstring
@@ -1593,7 +1592,6 @@ curseforge
 custom
 customchecks
 customdns
-customer
 customerengagement
 customers
 customeventchannel
@@ -1727,7 +1725,6 @@ db
 db2
 dba
 dbaas
-dbase
 dbcommand
 dbeaver
 dbfs
@@ -2020,6 +2017,8 @@ downloadfacebookvideo
 downloadfilefromsite
 downloadinfo
 downloading
+downloadoffice
+downloadofficertool
 downloads
 downloadyoutubevideo
 dpa
@@ -2084,7 +2083,6 @@ dtx
 du
 dual-stack
 duck
-duckduckgo
 dudckduckgo
 duf
 dummy
@@ -2311,7 +2309,6 @@ eventlogchannel
 eventlogchannels
 eventlogmanifest
 eventlogs
-eventmonitor
 eventmonitoring
 eventprocessor
 events
@@ -2407,6 +2404,7 @@ extensions
 external
 externalip
 extract
+extraction
 extractor
 extreme-networks
 eztheme
@@ -2623,7 +2621,6 @@ forwardcompatibility
 forwardedevents
 foudil
 fox
-foxpro
 fqdn
 frame
 framework
@@ -2787,6 +2784,7 @@ git
 git-client
 git-clone
 git-flow
+git-lfs
 git-proxy
 git-stat
 gitcmdline
@@ -2949,6 +2947,7 @@ hardlink
 hardmatch
 hardware
 harperdb
+hartokens
 harvest
 harvestforecast
 hash
@@ -2980,6 +2979,7 @@ healthcareapis
 healthcheck
 healthchecks
 healthservice
+healthz
 heartbeatdiscovery
 heat
 heating
@@ -3293,6 +3293,8 @@ installationmanager
 installedapplications
 installer
 installers
+installoffice
+installofficertool
 installwindows
 instance
 instant
@@ -3597,6 +3599,7 @@ lambda
 lame
 lametrictime
 lamp
+lan
 landingzones
 language
 languagedsc
@@ -4336,6 +4339,7 @@ networkloadbalancer
 networkpolicyserver
 networkscan
 networksecurity
+networksecuritygroup
 networkshares
 netwrix
 new
@@ -4395,7 +4399,6 @@ nodejs
 non-volatile
 none
 noneimages
-noninteractive
 noproxy
 nord
 nordtools
@@ -4995,6 +4998,7 @@ poshy-wrap-gem
 poshy-wrap-gh
 poshy-wrap-git
 poshy-wrap-git-flow
+poshy-wrap-git-lfs
 poshy-wrap-golang
 poshy-wrap-helm
 poshy-wrap-kubectl
@@ -5011,6 +5015,7 @@ poshy-wrap-ruby
 poshy-wrap-systemctl
 poshy-wrap-terraform
 poshy-wrap-terragrunt
+poshy-wrap-tmux
 poshy-wrap-vagrant
 poshy-wrap-vault
 poshy-wrap-vscode
@@ -5281,6 +5286,7 @@ pscommand_acsp
 pscommand_add_ssh
 pscommand_add-envpathitem
 pscommand_add-envvarpathitem
+pscommand_add-gitlfstrackedfiles
 pscommand_add-gitremote
 pscommand_add-gitskipworktreeflag
 pscommand_add-gitsubmodule
@@ -5705,6 +5711,7 @@ pscommand_get-gitdiffstash
 pscommand_get-gitdiffstashhead
 pscommand_get-gitdiffstashparent
 pscommand_get-gitignoredfiles
+pscommand_get-gitlfstrackedfiles
 pscommand_get-gitlogbranchcommitsunpushed
 pscommand_get-gitlogcommitspulledlast
 pscommand_get-gitloggraph
@@ -5811,6 +5818,10 @@ pscommand_gitignore-reload
 pscommand_gittowork
 pscommand_gl
 pscommand_glf
+pscommand_glfsi
+pscommand_glfsls
+pscommand_glfsmi
+pscommand_glfst
 pscommand_glg
 pscommand_glgo
 pscommand_glgs
@@ -5859,6 +5870,7 @@ pscommand_gpatch
 pscommand_gpdo
 pscommand_gpf
 pscommand_gpl
+pscommand_gplfs
 pscommand_gplr
 pscommand_gplrs
 pscommand_gpo
@@ -6061,6 +6073,8 @@ pscommand_invoke-githubapi-bodyfields
 pscommand_invoke-githubapi-bodyfile
 pscommand_invoke-githubapi-bodyjson
 pscommand_invoke-githubapi-bodyraw
+pscommand_invoke-gitlfsinstall
+pscommand_invoke-gitlfsmigrateimport
 pscommand_invoke-gitmerge
 pscommand_invoke-gitpull
 pscommand_invoke-gitpush
@@ -6393,6 +6407,13 @@ pscommand_invoke-terragruntplan
 pscommand_invoke-terragruntplanall
 pscommand_invoke-terragruntvalidate
 pscommand_invoke-terragruntvalidateall
+pscommand_invoke-tmuxattachforterminal
+pscommand_invoke-tmuxattachforterminaldetachingothers
+pscommand_invoke-tmuxeditconfig
+pscommand_invoke-tmuxkillserver
+pscommand_invoke-tmuxkillsessionforterminal
+pscommand_invoke-tmuxlistsessions
+pscommand_invoke-tmuxnewsessionfromsource
 pscommand_invoke-vagrantdestroy
 pscommand_invoke-vagranthalt
 pscommand_invoke-vagranthostmanager
@@ -6834,6 +6855,8 @@ pscommand_syspip
 pscommand_syspip_package_location
 pscommand_syspip3
 pscommand_syspip3_package_location
+pscommand_ta
+pscommand_tad
 pscommand_test-command
 pscommand_test-d
 pscommand_test-elevation
@@ -6861,6 +6884,14 @@ pscommand_tgp
 pscommand_tgpa
 pscommand_tgv
 pscommand_tgva
+pscommand_tkss
+pscommand_tksv
+pscommand_tl
+pscommand_tmuxconf
+pscommand_ts
+pscommand_txa
+pscommand_txl
+pscommand_txn
 pscommand_universalarchive
 pscommand_update-gitbranchbasefrombranchmain
 pscommand_update-gitbranchbasefrommain
@@ -7064,6 +7095,7 @@ psfunction_aar
 psfunction_add_ssh
 psfunction_add-envpathitem
 psfunction_add-envvarpathitem
+psfunction_add-gitlfstrackedfiles
 psfunction_add-gitremote
 psfunction_add-gitskipworktreeflag
 psfunction_add-gitsubmodule
@@ -7271,6 +7303,7 @@ psfunction_get-gitdiffstash
 psfunction_get-gitdiffstashhead
 psfunction_get-gitdiffstashparent
 psfunction_get-gitignoredfiles
+psfunction_get-gitlfstrackedfiles
 psfunction_get-gitlogbranchcommitsunpushed
 psfunction_get-gitlogcommitspulledlast
 psfunction_get-gitloggraph
@@ -7335,6 +7368,7 @@ psfunction_git-global-show-proxy
 psfunction_git-show-proxy
 psfunction_gitignore-reload
 psfunction_gittowork
+psfunction_gplfs
 psfunction_hostname
 psfunction_invoke-aptcachepolicy
 psfunction_invoke-aptcachesearch
@@ -7448,6 +7482,8 @@ psfunction_invoke-githubapi-bodyfields
 psfunction_invoke-githubapi-bodyfile
 psfunction_invoke-githubapi-bodyjson
 psfunction_invoke-githubapi-bodyraw
+psfunction_invoke-gitlfsinstall
+psfunction_invoke-gitlfsmigrateimport
 psfunction_invoke-gitmerge
 psfunction_invoke-gitpull
 psfunction_invoke-gitpush
@@ -7780,6 +7816,13 @@ psfunction_invoke-terragruntplan
 psfunction_invoke-terragruntplanall
 psfunction_invoke-terragruntvalidate
 psfunction_invoke-terragruntvalidateall
+psfunction_invoke-tmuxattachforterminal
+psfunction_invoke-tmuxattachforterminaldetachingothers
+psfunction_invoke-tmuxeditconfig
+psfunction_invoke-tmuxkillserver
+psfunction_invoke-tmuxkillsessionforterminal
+psfunction_invoke-tmuxlistsessions
+psfunction_invoke-tmuxnewsessionfromsource
 psfunction_invoke-vagrantdestroy
 psfunction_invoke-vagranthalt
 psfunction_invoke-vagranthostmanager
@@ -8412,7 +8455,6 @@ relational
 relay
 release
 releasedefinition
-releasehealth
 releasemanagement
 releasenotes
 relevance
@@ -8767,6 +8809,7 @@ scrubber
 scsm
 scuba
 sd
+sddl
 sdk
 sdn
 sdp
@@ -9529,7 +9572,6 @@ tar
 target
 task
 task-runner
-task-scheduler
 taskbar
 tasker
 taskgroup
@@ -9688,7 +9730,6 @@ timesheets
 timespan
 timezone
 tinkerpop
-tinymce
 tip
 tips
 title
@@ -9698,6 +9739,7 @@ tls12
 tlsa
 tlsprotocol
 tlsrpt
+tmux
 to-do
 toast
 toasts
@@ -9783,6 +9825,7 @@ trendmicro
 trevor
 trevorsullivan
 triangle
+tribeloo
 trick
 tricks
 trigger
@@ -10131,7 +10174,6 @@ virtualenvironment
 virtualenvwrapper
 virtualization
 virtualmachine
-virtualmachinemonitor
 virtualmachines
 virtualmachne
 virtualnetwork
@@ -10205,6 +10247,7 @@ vps
 vra
 vrchat
 vrealize
+vrising
 vro
 vrops
 vrsns
@@ -10307,7 +10350,6 @@ webpage
 webpi
 webreport
 webrequest
-webresponse
 webroot
 webserver
 webservice
@@ -10393,7 +10435,6 @@ windows11
 windows365
 windowsadmincenter
 windowsaudit
-windowsbuilds
 windowscredential
 windowscredentialmanager
 windowscredentials
@@ -10416,7 +10457,6 @@ windowspackagemanager
 windowsplugins
 windowspowershell
 windowspresentationfoundation
-windowsreleasehealth
 windowsrest
 windowssandbox
 windowssearchmanager
