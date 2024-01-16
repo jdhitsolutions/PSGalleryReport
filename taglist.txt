@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Tuesday, 16 January 2024 09:52:34 UTC
+Updated: Tuesday, 16 January 2024 17:52:46 UTC
 
 .bat
 .env
@@ -68,6 +68,7 @@ aadsecurity
 aadsts
 aam
 aas
+aatp
 abc
 abc_testing
 abe
@@ -578,6 +579,7 @@ autoyast
 auvik
 availability
 availabilityset
+avalara
 avalonia
 avatar
 avd
@@ -623,7 +625,6 @@ aznetworkinterface
 aznicdetails
 azops
 azpublicipaddress
-azresources
 azsdk
 azsk
 azsql
@@ -652,8 +653,10 @@ azureadbackupandrestore
 azureadconnect
 azureadgraph
 azureadtoolkit
+azureadvancedthreatprotection
 azureappconfiguration
 azureas
+azureatp
 azureautomation
 azureautomationaccount
 azureautomationnotsupported
@@ -686,7 +689,6 @@ azurepolicy
 azurepowershell
 azurerepos
 azureresourcemanager
-azureresources
 azurerestapispecs
 azurerm
 azurerms
@@ -718,7 +720,6 @@ backconnectionhostname
 backup
 backup_validation
 bamboo
-bamboohr
 bandwidth
 bank
 banking
@@ -1386,6 +1387,7 @@ connectedmachine
 connectednetwork
 connectexchange
 connection
+connectionmonitor
 connections
 connectionsmanager
 connectionstring
@@ -1592,6 +1594,7 @@ curseforge
 custom
 customchecks
 customdns
+customer
 customerengagement
 customers
 customeventchannel
@@ -1628,7 +1631,6 @@ cyclicredundancycheck
 cygwin
 cylance
 cypher
-cyrillic
 d365
 d365ce
 d365fo
@@ -1725,6 +1727,7 @@ db
 db2
 dba
 dbaas
+dbase
 dbcommand
 dbeaver
 dbfs
@@ -1774,6 +1777,7 @@ defender-atp
 defender-for-endpoint
 defenderast
 defenderforendpoint
+defenderforidentity
 defense
 deflate
 delegated
@@ -1887,6 +1891,7 @@ disa
 disable
 disable-internet
 disable-psremoting
+disablefilesyncngsc
 disablestartbutton
 disablestartkey
 disasm
@@ -2083,6 +2088,7 @@ dtx
 du
 dual-stack
 duck
+duckduckgo
 dudckduckgo
 duf
 dummy
@@ -2309,6 +2315,7 @@ eventlogchannel
 eventlogchannels
 eventlogmanifest
 eventlogs
+eventmonitor
 eventmonitoring
 eventprocessor
 events
@@ -2621,6 +2628,7 @@ forwardcompatibility
 forwardedevents
 foudil
 fox
+foxpro
 fqdn
 frame
 framework
@@ -3089,7 +3097,6 @@ hpesmartarraycmdlets
 hpesynergy
 hponeview
 hpwritemanager
-hris
 hsdp
 hsl
 html
@@ -3599,7 +3606,6 @@ lambda
 lame
 lametrictime
 lamp
-lan
 landingzones
 language
 languagedsc
@@ -3616,7 +3622,6 @@ lastlogon
 lastpass
 latency
 latestupdate
-latin
 latitude
 launcher
 layer
@@ -3685,7 +3690,6 @@ linear
 linearalgebra
 link
 link-capability
-link-preview
 linkedin
 linkedservice
 linkedservicedependency
@@ -3927,7 +3931,6 @@ matcharray
 matchhashtable
 materialdesign
 materialui
-mateso
 math
 mathematics
 matplotlib
@@ -3955,6 +3958,7 @@ mdb
 mdbc
 mde
 mdep
+mdi
 mdm
 mdop
 mdt
@@ -4047,6 +4051,7 @@ microsoftazure
 microsoftcloud
 microsoftdefender
 microsoftdefenderatp
+microsoftdefenderforidentity
 microsoftdeploymenttoolkit
 microsoftendpointmanager
 microsoftexchangeserver
@@ -4341,7 +4346,6 @@ networkscan
 networksecurity
 networksecuritygroup
 networkshares
-netwrix
 new
 new-completionresult
 new-dtcmpackagefromdriverpackpackagedefinitionsms
@@ -4399,6 +4403,7 @@ nodejs
 non-volatile
 none
 noneimages
+noninteractive
 noproxy
 nord
 nordtools
@@ -4454,7 +4459,6 @@ number
 numlock
 nunit
 nupkg
-nuspec
 nutanix
 nuwave
 nva
@@ -4767,7 +4771,6 @@ passwordlockoutreport
 passwordmanagement
 passwordmanager
 passwords
-passwordsecure
 passwordspray
 passwordstate
 passwordtool
@@ -4783,7 +4786,6 @@ patternmatching
 pause
 pax8
 payload
-paylocity
 paypal
 pays
 pbench
@@ -8251,7 +8253,6 @@ pvs
 pwa
 pwned
 pwpush
-pwsafe
 pwsh
 pwsh.fw
 pwshake
@@ -8455,6 +8456,7 @@ relational
 relay
 release
 releasedefinition
+releasehealth
 releasemanagement
 releasenotes
 relevance
@@ -8539,7 +8541,6 @@ resourceaccount
 resourcecontroller
 resourcegraph
 resourcegroup
-resourceid
 resourcekit
 resourcemanager
 resourcemover
@@ -9572,6 +9573,7 @@ tar
 target
 task
 task-runner
+task-scheduler
 taskbar
 tasker
 taskgroup
@@ -9730,6 +9732,7 @@ timesheets
 timespan
 timezone
 tinkerpop
+tinymce
 tip
 tips
 title
@@ -9804,8 +9807,6 @@ transforms
 transitionmanager
 translate
 translation
-translit
-transliteration
 transmission
 transparency
 transpilation
@@ -9928,6 +9929,7 @@ ud-piechart3d
 ud-pivottable
 ud-progressstepbar
 ud-rangeslider
+ud-readingbar
 ud-scrollspy
 ud-selectdatetime
 ud-selector
@@ -10174,6 +10176,7 @@ virtualenvironment
 virtualenvwrapper
 virtualization
 virtualmachine
+virtualmachinemonitor
 virtualmachines
 virtualmachne
 virtualnetwork
@@ -10350,6 +10353,7 @@ webpage
 webpi
 webreport
 webrequest
+webresponse
 webroot
 webserver
 webservice
@@ -10435,6 +10439,7 @@ windows11
 windows365
 windowsadmincenter
 windowsaudit
+windowsbuilds
 windowscredential
 windowscredentialmanager
 windowscredentials
@@ -10457,6 +10462,7 @@ windowspackagemanager
 windowsplugins
 windowspowershell
 windowspresentationfoundation
+windowsreleasehealth
 windowsrest
 windowssandbox
 windowssearchmanager
@@ -10594,8 +10600,6 @@ wvd
 www
 x-cart
 x.509
-x1
-x2
 x509
 x509cerificate
 x509cerificate2
@@ -10642,7 +10646,6 @@ xprotect
 xpt
 xrm
 xsa
-xtremio
 xtrude
 xunit
 xwiki
