@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 15 January 2024 17:52:24 UTC
+Updated: Tuesday, 16 January 2024 02:07:25 UTC
 
 .bat
 .env
@@ -529,6 +529,7 @@ aumid
 aut
 auth
 auth0
+authenticate
 authentication
 authenticationcertificate
 authenticode
@@ -668,6 +669,7 @@ azuredatastudio
 azuredevops
 azuredevops_security
 azuredevopsserver
+azuredns
 azurefilesync
 azurefunctionapp
 azurefunctions
@@ -1241,7 +1243,6 @@ cmtrace
 cmwt
 cns
 coa
-cockroachdb
 codaamok
 code
 code-page
@@ -1261,6 +1262,7 @@ codes
 codesign
 codesigning
 codex
+coercion
 cognitiveservice
 cognitiveservices
 cohesity
@@ -1628,6 +1630,7 @@ cyclicredundancycheck
 cygwin
 cylance
 cypher
+cyrillic
 d365
 d365ce
 d365fo
@@ -1716,6 +1719,7 @@ dattormm
 datum
 dave
 davinci
+dax
 dayinweek
 days
 days-week
@@ -1771,6 +1775,7 @@ defence
 defender
 defender-atp
 defender-for-endpoint
+defenderast
 defenderforendpoint
 defense
 deflate
@@ -1885,7 +1890,6 @@ disa
 disable
 disable-internet
 disable-psremoting
-disablefilesyncngsc
 disablestartbutton
 disablestartkey
 disasm
@@ -1938,6 +1942,7 @@ dmarc
 dmgr
 dmi
 dmtf
+dmx
 dnd
 dnf
 dns
@@ -2015,8 +2020,6 @@ downloadfacebookvideo
 downloadfilefromsite
 downloadinfo
 downloading
-downloadoffice
-downloadofficertool
 downloads
 downloadyoutubevideo
 dpa
@@ -2404,7 +2407,6 @@ extensions
 external
 externalip
 extract
-extraction
 extractor
 extreme-networks
 eztheme
@@ -2499,6 +2501,7 @@ filesecurity
 fileserver
 fileserverresourcemanager
 fileshare
+filesharing
 filestorage
 filestream
 filesystem
@@ -2784,7 +2787,6 @@ git
 git-client
 git-clone
 git-flow
-git-lfs
 git-proxy
 git-stat
 gitcmdline
@@ -2825,6 +2827,7 @@ goldsource
 goldsource-dedicated-server
 google
 google-chrome
+google-histogram
 google-sankey
 google-table
 googleadsv2
@@ -2946,7 +2949,6 @@ hardlink
 hardmatch
 hardware
 harperdb
-hartokens
 harvest
 harvestforecast
 hash
@@ -2978,7 +2980,6 @@ healthcareapis
 healthcheck
 healthchecks
 healthservice
-healthz
 heartbeatdiscovery
 heat
 heating
@@ -3047,6 +3048,7 @@ hockey
 hol
 holiday
 home
+home_automation
 homebrew
 homelandsecurity
 homeschooling
@@ -3291,8 +3293,6 @@ installationmanager
 installedapplications
 installer
 installers
-installoffice
-installofficertool
 installwindows
 instance
 instant
@@ -3597,7 +3597,6 @@ lambda
 lame
 lametrictime
 lamp
-lan
 landingzones
 language
 languagedsc
@@ -3614,6 +3613,7 @@ lastlogon
 lastpass
 latency
 latestupdate
+latin
 latitude
 launcher
 layer
@@ -3774,6 +3774,7 @@ login
 login-azurermaccount
 login-rdp
 logingestion
+loginscreen
 loginsight
 logiphys
 logistic
@@ -3954,6 +3955,7 @@ mdep
 mdm
 mdop
 mdt
+mdx
 me4024
 mean
 measure
@@ -3993,6 +3995,7 @@ mermaid
 message
 message-emoji
 message-emojis
+messagebox
 messageoftheday
 messages
 messaging
@@ -4333,7 +4336,6 @@ networkloadbalancer
 networkpolicyserver
 networkscan
 networksecurity
-networksecuritygroup
 networkshares
 netwrix
 new
@@ -4738,6 +4740,7 @@ partition
 partitions
 partner
 partnercenter
+partnerportal
 pas
 pass
 passcode
@@ -4992,7 +4995,6 @@ poshy-wrap-gem
 poshy-wrap-gh
 poshy-wrap-git
 poshy-wrap-git-flow
-poshy-wrap-git-lfs
 poshy-wrap-golang
 poshy-wrap-helm
 poshy-wrap-kubectl
@@ -5279,7 +5281,6 @@ pscommand_acsp
 pscommand_add_ssh
 pscommand_add-envpathitem
 pscommand_add-envvarpathitem
-pscommand_add-gitlfstrackedfiles
 pscommand_add-gitremote
 pscommand_add-gitskipworktreeflag
 pscommand_add-gitsubmodule
@@ -5704,7 +5705,6 @@ pscommand_get-gitdiffstash
 pscommand_get-gitdiffstashhead
 pscommand_get-gitdiffstashparent
 pscommand_get-gitignoredfiles
-pscommand_get-gitlfstrackedfiles
 pscommand_get-gitlogbranchcommitsunpushed
 pscommand_get-gitlogcommitspulledlast
 pscommand_get-gitloggraph
@@ -5811,10 +5811,6 @@ pscommand_gitignore-reload
 pscommand_gittowork
 pscommand_gl
 pscommand_glf
-pscommand_glfsi
-pscommand_glfsls
-pscommand_glfsmi
-pscommand_glfst
 pscommand_glg
 pscommand_glgo
 pscommand_glgs
@@ -5863,7 +5859,6 @@ pscommand_gpatch
 pscommand_gpdo
 pscommand_gpf
 pscommand_gpl
-pscommand_gplfs
 pscommand_gplr
 pscommand_gplrs
 pscommand_gpo
@@ -6066,8 +6061,6 @@ pscommand_invoke-githubapi-bodyfields
 pscommand_invoke-githubapi-bodyfile
 pscommand_invoke-githubapi-bodyjson
 pscommand_invoke-githubapi-bodyraw
-pscommand_invoke-gitlfsinstall
-pscommand_invoke-gitlfsmigrateimport
 pscommand_invoke-gitmerge
 pscommand_invoke-gitpull
 pscommand_invoke-gitpush
@@ -7071,7 +7064,6 @@ psfunction_aar
 psfunction_add_ssh
 psfunction_add-envpathitem
 psfunction_add-envvarpathitem
-psfunction_add-gitlfstrackedfiles
 psfunction_add-gitremote
 psfunction_add-gitskipworktreeflag
 psfunction_add-gitsubmodule
@@ -7279,7 +7271,6 @@ psfunction_get-gitdiffstash
 psfunction_get-gitdiffstashhead
 psfunction_get-gitdiffstashparent
 psfunction_get-gitignoredfiles
-psfunction_get-gitlfstrackedfiles
 psfunction_get-gitlogbranchcommitsunpushed
 psfunction_get-gitlogcommitspulledlast
 psfunction_get-gitloggraph
@@ -7344,7 +7335,6 @@ psfunction_git-global-show-proxy
 psfunction_git-show-proxy
 psfunction_gitignore-reload
 psfunction_gittowork
-psfunction_gplfs
 psfunction_hostname
 psfunction_invoke-aptcachepolicy
 psfunction_invoke-aptcachesearch
@@ -7458,8 +7448,6 @@ psfunction_invoke-githubapi-bodyfields
 psfunction_invoke-githubapi-bodyfile
 psfunction_invoke-githubapi-bodyjson
 psfunction_invoke-githubapi-bodyraw
-psfunction_invoke-gitlfsinstall
-psfunction_invoke-gitlfsmigrateimport
 psfunction_invoke-gitmerge
 psfunction_invoke-gitpull
 psfunction_invoke-gitpush
@@ -8117,6 +8105,7 @@ psmodule psedition_desktop
 psmodulepath
 psmodulepsedition_desktoppsedition_core
 psmodules
+psmp
 psmsgraph
 psmsgraphapi
 psmssql
@@ -8144,6 +8133,7 @@ psreadexif
 psreadline
 psremoting
 psrepository
+psresourceget
 psrule
 psrule-rules
 pssa
@@ -8288,6 +8278,7 @@ radarr
 radio
 raidcontrollercmdlets
 rainbow
+raisers
 raisersedge
 raj
 ram
@@ -8636,6 +8627,7 @@ runspacepool
 runspaces
 runtimedefinedparameter
 runtimedefinedparameterdictionary
+runway
 russia
 rust
 rust-lang
@@ -8775,7 +8767,6 @@ scrubber
 scsm
 scuba
 sd
-sddl
 sdk
 sdn
 sdp
@@ -8984,6 +8975,7 @@ shieldedvm
 ships
 shipsprovider
 shipstation
+shlink
 shodan
 shodanps
 shop
@@ -9067,6 +9059,7 @@ slugify
 sm
 sma
 small_web
+smart_home
 smartarray
 smartarraycmdlets
 smarthome
@@ -9153,6 +9146,7 @@ soonr
 soonragent
 sophos
 sort
+sorting
 source
 source-dedicated-server
 sourcecontrol
@@ -9460,6 +9454,7 @@ syndication
 synergy
 syntax
 syntax-highlighting
+syntaxcheck
 syntaxhighlighter
 synthesis
 synthetics
@@ -9682,6 +9677,7 @@ tibber
 tic-tac-toe
 tickle
 ticks
+tictactoe
 tiermodel
 time
 timeout
@@ -9766,6 +9762,8 @@ transforms
 transitionmanager
 translate
 translation
+translit
+transliteration
 transmission
 transparency
 transpilation
@@ -9785,7 +9783,6 @@ trendmicro
 trevor
 trevorsullivan
 triangle
-tribeloo
 trick
 tricks
 trigger
@@ -9888,7 +9885,6 @@ ud-piechart3d
 ud-pivottable
 ud-progressstepbar
 ud-rangeslider
-ud-readingbar
 ud-scrollspy
 ud-selectdatetime
 ud-selector
@@ -9921,6 +9917,7 @@ uefi
 uem
 ui
 ui/ux
+ui7
 uk
 ul
 ulid
@@ -9994,6 +9991,7 @@ uri
 uri-scheme
 url
 url-encode
+url-shortener
 urldecode
 urlencode
 urlhaus
@@ -10096,6 +10094,7 @@ vencord
 vendor
 venue
 venvlink
+vera
 veracrypt
 verbose psmodule
 verification
@@ -10206,7 +10205,6 @@ vps
 vra
 vrchat
 vrealize
-vrising
 vro
 vrops
 vrsns
@@ -10292,6 +10290,7 @@ webapi
 webapp
 webapplicationproxy
 webapps
+webcamera
 webcmdlets
 webdav
 webdeploy
@@ -10435,6 +10434,7 @@ windowstimezone
 windowsupdate
 windowsupdates
 windowsvirtualdesktop
+winform
 winforms
 winget
 wingetbridge
@@ -10554,6 +10554,8 @@ wvd
 www
 x-cart
 x.509
+x1
+x2
 x509
 x509cerificate
 x509cerificate2
@@ -10600,6 +10602,7 @@ xprotect
 xpt
 xrm
 xsa
+xtremio
 xtrude
 xunit
 xwiki
