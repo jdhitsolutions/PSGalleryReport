@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Tuesday, 16 January 2024 17:52:46 UTC
+Updated: Wednesday, 17 January 2024 02:07:22 UTC
 
 .bat
 .env
@@ -68,7 +68,6 @@ aadsecurity
 aadsts
 aam
 aas
-aatp
 abc
 abc_testing
 abe
@@ -579,7 +578,6 @@ autoyast
 auvik
 availability
 availabilityset
-avalara
 avalonia
 avatar
 avd
@@ -625,6 +623,7 @@ aznetworkinterface
 aznicdetails
 azops
 azpublicipaddress
+azresources
 azsdk
 azsk
 azsql
@@ -653,10 +652,8 @@ azureadbackupandrestore
 azureadconnect
 azureadgraph
 azureadtoolkit
-azureadvancedthreatprotection
 azureappconfiguration
 azureas
-azureatp
 azureautomation
 azureautomationaccount
 azureautomationnotsupported
@@ -689,6 +686,7 @@ azurepolicy
 azurepowershell
 azurerepos
 azureresourcemanager
+azureresources
 azurerestapispecs
 azurerm
 azurerms
@@ -720,6 +718,7 @@ backconnectionhostname
 backup
 backup_validation
 bamboo
+bamboohr
 bandwidth
 bank
 banking
@@ -1067,7 +1066,6 @@ chat
 chatbot
 chatgpt
 chatops
-chatroom
 chatter
 cheat
 check
@@ -1288,7 +1286,6 @@ colour
 column
 columns
 com
-combinations
 combine
 comdata
 comic
@@ -1631,6 +1628,7 @@ cyclicredundancycheck
 cygwin
 cylance
 cypher
+cyrillic
 d365
 d365ce
 d365fo
@@ -1641,7 +1639,6 @@ dacl
 dacpac
 dacpackage
 dagger
-daily
 dane
 dangling
 dapr
@@ -1777,7 +1774,6 @@ defender-atp
 defender-for-endpoint
 defenderast
 defenderforendpoint
-defenderforidentity
 defense
 deflate
 delegated
@@ -2732,7 +2728,6 @@ genxdev
 geo
 geocache
 geocaching
-geocode
 geoencode
 geoencoding
 geoip
@@ -3097,6 +3092,7 @@ hpesmartarraycmdlets
 hpesynergy
 hponeview
 hpwritemanager
+hris
 hsdp
 hsl
 html
@@ -3606,6 +3602,7 @@ lambda
 lame
 lametrictime
 lamp
+lan
 landingzones
 language
 languagedsc
@@ -3622,6 +3619,7 @@ lastlogon
 lastpass
 latency
 latestupdate
+latin
 latitude
 launcher
 layer
@@ -3690,8 +3688,8 @@ linear
 linearalgebra
 link
 link-capability
+link-preview
 linkedin
-linkedservice
 linkedservicedependency
 linkid
 links
@@ -3898,7 +3896,6 @@ map
 mapapi
 mapi
 mappeddrives
-mapper24
 mapping
 maps
 mapsapi
@@ -3931,6 +3928,7 @@ matcharray
 matchhashtable
 materialdesign
 materialui
+mateso
 math
 mathematics
 matplotlib
@@ -3958,7 +3956,6 @@ mdb
 mdbc
 mde
 mdep
-mdi
 mdm
 mdop
 mdt
@@ -4051,7 +4048,6 @@ microsoftazure
 microsoftcloud
 microsoftdefender
 microsoftdefenderatp
-microsoftdefenderforidentity
 microsoftdeploymenttoolkit
 microsoftendpointmanager
 microsoftexchangeserver
@@ -4346,6 +4342,7 @@ networkscan
 networksecurity
 networksecuritygroup
 networkshares
+netwrix
 new
 new-completionresult
 new-dtcmpackagefromdriverpackpackagedefinitionsms
@@ -4459,6 +4456,7 @@ number
 numlock
 nunit
 nupkg
+nuspec
 nutanix
 nuwave
 nva
@@ -4601,7 +4599,6 @@ opensourceinitiative
 openssh
 openssl
 openstack
-openstreetmaps
 openvpn
 operating
 operating_system
@@ -4653,7 +4650,6 @@ osdprogress
 osdsus
 osdupdate
 osi
-osm
 osmanagement
 osmanagementhub
 osp
@@ -4771,6 +4767,7 @@ passwordlockoutreport
 passwordmanagement
 passwordmanager
 passwords
+passwordsecure
 passwordspray
 passwordstate
 passwordtool
@@ -4786,6 +4783,7 @@ patternmatching
 pause
 pax8
 payload
+paylocity
 paypal
 pays
 pbench
@@ -4809,7 +4807,6 @@ peheader
 pem
 pemfile
 pendingreboot
-penetration
 penetrationtesting
 pentesting
 pentia
@@ -4821,7 +4818,6 @@ performancemonitoring
 perl
 permission
 permissions
-permutations
 persistence
 persistent
 personal
@@ -8253,6 +8249,7 @@ pvs
 pwa
 pwned
 pwpush
+pwsafe
 pwsh
 pwsh.fw
 pwshake
@@ -8367,7 +8364,6 @@ rdpsession
 rdpsign
 rds
 rdsgw
-react-stockcharts
 read
 read-slog
 readable
@@ -8541,6 +8537,7 @@ resourceaccount
 resourcecontroller
 resourcegraph
 resourcegroup
+resourceid
 resourcekit
 resourcemanager
 resourcemover
@@ -9379,7 +9376,6 @@ stig
 stigrepo
 stingar
 stock
-stockcharts
 stocks
 stoicism
 stoics
@@ -9417,7 +9413,6 @@ stripe
 strongname
 structure
 sts
-stt
 studio
 style
 su
@@ -9461,6 +9456,7 @@ support-tool
 support-tools
 suppress
 supress-reboot
+surestacks
 surround
 survey
 surveymonkey
@@ -9672,7 +9668,6 @@ text-emoji
 text-emojis
 text-to-image
 text-to-speach"
-text-to-speech
 text2image
 textanalysis
 textbuffer
@@ -9807,6 +9802,8 @@ transforms
 transitionmanager
 translate
 translation
+translit
+transliteration
 transmission
 transparency
 transpilation
@@ -10600,6 +10597,8 @@ wvd
 www
 x-cart
 x.509
+x1
+x2
 x509
 x509cerificate
 x509cerificate2
@@ -10646,6 +10645,7 @@ xprotect
 xpt
 xrm
 xsa
+xtremio
 xtrude
 xunit
 xwiki
