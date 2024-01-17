@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Wednesday, 17 January 2024 09:52:37 UTC
+Updated: Wednesday, 17 January 2024 17:52:26 UTC
 
 .bat
 .env
@@ -628,7 +628,6 @@ azpublicipaddress
 azresources
 azsdk
 azsk
-azsql
 azstackhci
 azstate
 azsubnet
@@ -724,7 +723,6 @@ backup_validation
 bamboo
 bamboohr
 bandwidth
-bank
 banking
 banner
 bar
@@ -2159,6 +2157,7 @@ edr
 education
 educational
 effectiveroutes
+efficientether
 efi
 egrep
 eigencontroles
@@ -2290,6 +2289,7 @@ esx
 esxi
 eternalblue
 ether
+etherassist
 ethereum
 ethr
 ethz
@@ -2717,6 +2717,7 @@ gemini
 geminiprotocol
 gemlog
 gemtext
+genai
 general
 generate
 generate-dockerimagevariants
@@ -2726,6 +2727,7 @@ generateaddress
 generates
 generatewif
 generation
+generativeai
 generator
 generic
 genericartifactscontent
@@ -3235,7 +3237,6 @@ imei
 imi
 impala
 impersonation
-imperva
 import
 import-csv
 import-dtdriverpackpackagedefinitionsms
@@ -3321,7 +3322,6 @@ integrationruntimedependency
 integrationservicescatalog
 integrity
 intel
-inteligo
 intelligence
 intelligence"
 intellisearch
@@ -3357,7 +3357,6 @@ invoke
 invoke-asadmin
 invoke-asadministrator
 invoke-ascurrentuser
-invoke-automation
 invoke-build
 invoke-dtdownloaddriverpack
 invoke-dtdownloaddriverupdates
@@ -4116,6 +4115,7 @@ mobilenetwork
 mobilitycontroller
 mock
 mocking
+model
 modeling
 modify
 module
@@ -4303,8 +4303,6 @@ neo4j
 neovim
 neptune
 nerdfonts
-nerdio
-nerdioapi
 nerdymishka
 nessus
 nested
@@ -4404,7 +4402,6 @@ nlm
 nlog
 nmap
 nmbell
-nmm
 nntp
 node
 nodejs
@@ -8162,7 +8159,6 @@ psmssql
 psmssqlbynarymodule
 psmssqlmodule
 psmvp
-psnavigation
 psnexosisclient
 psngenposh
 psobject
@@ -8374,6 +8370,7 @@ rdpsign
 rds
 rdsgw
 react-stockcharts
+read
 read-slog
 readable
 reader
@@ -8528,7 +8525,6 @@ requiredmodules
 requirements
 res
 rescan
-rescuetime
 reservation
 reservations
 reset
@@ -8736,6 +8732,7 @@ scaffold
 scaffoldingtemplate
 scala
 scalable
+scalablevectorgraphics
 scan
 scanner
 scatter
@@ -8852,7 +8849,6 @@ securegopher+
 securemfa
 securerdp
 securescore
-securesphere
 securestring
 security
 security-awareness-training
@@ -9275,11 +9271,9 @@ sqlclient
 sqlcmd
 sqlcodeguard
 sqldatabase
-sqldb
 sqldbatools
 sqldiagapi
 sqlexport
-sqlgateway
 sqlite
 sqlitebynarymodule
 sqlitebynarypsmodule
@@ -9695,7 +9689,6 @@ tfsec
 tfswitch
 tftd
 tftp
-tfvars
 tfvc
 thecrushingemptinessofquotidianexistence
 theme
@@ -10637,6 +10630,7 @@ xiaomi
 xin
 xkcd
 xliff
+xlsx
 xmc
 xml
 xml-rpc

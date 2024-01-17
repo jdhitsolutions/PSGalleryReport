@@ -3,6 +3,202 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [FS255.Jq](https://www.powershellgallery.com/Packages/FS255.Jq/0.0.1.6) | 0.0.1.6
+
+### Published: 01/17/2024 17:48:12 by S04A
+
+FS255.Jq Module
+
+__Downloads__: 0 | __Repository__: https://git.fs255.org/Scripts/jq
+
+## [GitModule](https://www.powershellgallery.com/Packages/GitModule/0.0.0.2) | 0.0.0.2
+
+### Published: 01/17/2024 17:43:53 by Tulasidas Biradar
+
+By using this module you can entirely automate your GIT Flow, this package contains prompts which will help you when you get started
+
+__Downloads__: 0 | __Repository__: 
+
+## [EtherAssist](https://www.powershellgallery.com/Packages/EtherAssist/1.0.1) | 1.0.1
+
+### Published: 01/17/2024 17:36:28 by Ryan Mangan
+
+EtherAssist module provides functions to interact with EtherAssist API.
+
+__Downloads__: 2 | __Repository__: 
+
+## [SqlChangeAutomation](https://www.powershellgallery.com/Packages/SqlChangeAutomation/4.6.24016.2961) | 4.6.24016.2961
+
+### Published: 01/17/2024 15:48:34 by Red Gate Software Ltd.
+
+Automation tools for production quality database deployment
+
+__Downloads__: 4,970,595 | __Repository__: https://www.red-gate.com/sca/productpage
+
+## [AzureUserStuff](https://www.powershellgallery.com/Packages/AzureUserStuff/1.0.1) | 1.0.1
+
+### Published: 01/17/2024 15:22:14 by @AndrewZtrhgf
+
+Various Azure related functions focused on user accounts. More details at https://doitpsway.com/series/azure.
+Some of the interesting functions:
+- Get-AzureAuthenticatorLastUsedDate
+- Get-AzureCompletedMFAPrompt
+- Get-AzureSkuAssignment
+- ...
+
+__Downloads__: 0 | __Repository__: https://github.com/ztrhgf/useful_powershell_modules
+
+## [O365Stuff](https://www.powershellgallery.com/Packages/O365Stuff/2.0.0) | 2.0.0
+
+### Published: 01/17/2024 15:13:17 by @AndrewZtrhgf
+
+Various Office 365 related functions. Some of them are explained at https://doitpsway.com/series/o365.
+
+Some of the interesting functions:
+Remove-O365OrphanedMailbox - fixes problem of the orphaned mailboxes
+- ...
+
+__Downloads__: 271 | __Repository__: https://github.com/ztrhgf/useful_powershell_modules
+
+## [AzureStuff](https://www.powershellgallery.com/Packages/AzureStuff/2.0.0) | 2.0.0
+
+### Published: 01/17/2024 15:05:26 by @AndrewZtrhgf
+
+Various Azure related functions. Some of them are explained at https://doitpsway.com/series/azure.
+Imports all other modules from my AzureXXXStuff family :)
+
+AzureCommonStuff, AzureOtherStuff, AzureApplicationStuff, AzureDeviceStuff, AzureGroupStuff, AzureResourceStuff, AzureRoleStuff, AzureUserStuff
+
+__Downloads__: 4 | __Repository__: https://github.com/ztrhgf/useful_powershell_modules
+
+## [AzureGroupStuff](https://www.powershellgallery.com/Packages/AzureGroupStuff/1.0.0) | 1.0.0
+
+### Published: 01/17/2024 14:58:06 by @AndrewZtrhgf
+
+Various Azure related functions focused on group accounts. More details at https://doitpsway.com/series/azure.
+Some of the interesting functions:
+- Get-AzureGroupMemberRecursive
+- Get-AzureGroupSettings
+- Set-AzureRingGroup
+- ...
+
+__Downloads__: 0 | __Repository__: https://github.com/ztrhgf/useful_powershell_modules
+
+## [AzureDeviceStuff](https://www.powershellgallery.com/Packages/AzureDeviceStuff/1.0.0) | 1.0.0
+
+### Published: 01/17/2024 14:57:38 by @AndrewZtrhgf
+
+Various Azure related functions focused on device accounts. More details at https://doitpsway.com/series/azure.
+Some of the interesting functions:
+- Get-AzureDeviceWithoutBitlockerKey
+- Get-BitlockerEscrowStatusForAzureADDevices
+- Set-AzureDeviceExtensionAttribute
+- ...
+
+__Downloads__: 0 | __Repository__: https://github.com/ztrhgf/useful_powershell_modules
+
+## [AzureApplicationStuff](https://www.powershellgallery.com/Packages/AzureApplicationStuff/1.0.0) | 1.0.0
+
+### Published: 01/17/2024 14:57:26 by @AndrewZtrhgf
+
+Various Azure related functions focused on application accounts. More details at https://doitpsway.com/series/azure.
+Some of the interesting functions:
+- Add-AzureAppUserConsent
+- Get-AzureAppConsentRequest
+- Get-AzureAppVerificationStatus
+- Get-AzureServicePrincipalBySecurityAttribute
+- Get-AzureServicePrincipalPermissions
+- Grant-AzureServicePrincipalPermission
+- Remove-AzureAppUserConsent
+- Revoke-AzureServicePrincipalPermission
+- Set-AzureAppCertificate
+- ...
+
+__Downloads__: 0 | __Repository__: https://github.com/ztrhgf/useful_powershell_modules
+
+## [AzureOtherStuff](https://www.powershellgallery.com/Packages/AzureOtherStuff/1.0.0) | 1.0.0
+
+### Published: 01/17/2024 14:57:06 by @AndrewZtrhgf
+
+Various Azure related functions. More details at https://doitpsway.com/series/azure.
+Some of the interesting functions:
+- Get-AzureAssessNotificationEmail
+- Get-AzureDevOpsOrganizationOverview
+- Open-AzureAdminConsentPage
+- ...
+
+__Downloads__: 0 | __Repository__: https://github.com/ztrhgf/useful_powershell_modules
+
+## [AzureCommonStuff](https://www.powershellgallery.com/Packages/AzureCommonStuff/1.0.0) | 1.0.0
+
+### Published: 01/17/2024 14:56:15 by @AndrewZtrhgf
+
+Various Azure related functions focused on authentication etc. More details at https://doitpsway.com/series/azure.
+Some of the interesting functions:
+- ...
+
+__Downloads__: 0 | __Repository__: https://github.com/ztrhgf/useful_powershell_modules
+
+## [JyskIT.Automation](https://www.powershellgallery.com/Packages/JyskIT.Automation/0.5.6) | 0.5.6
+
+### Published: 01/17/2024 14:19:08 by Jysk IT
+
+Provides different cmdlets for automating Microsoft 365 and related services.
+
+__Downloads__: 203 | __Repository__: 
+
+## [AzureResourceStuff](https://www.powershellgallery.com/Packages/AzureResourceStuff/1.0.0) | 1.0.0
+
+### Published: 01/17/2024 14:18:30 by @AndrewZtrhgf
+
+Various Azure related functions focused on resources. More details at https://doitpsway.com/series/azure.
+Some of the interesting functions:
+- Get-AzureResource - return resources for all or just selected Azure subscription(s)
+- New-AzureAutomationModule - import new (or update existing) Azure Automation PSH module (including its dependencies)
+- ...
+
+__Downloads__: 0 | __Repository__: https://github.com/ztrhgf/useful_powershell_modules
+
+## [TcXaeMgmt](https://www.powershellgallery.com/Packages/TcXaeMgmt/6.0.134) | 6.0.134
+
+### Published: 01/17/2024 13:49:32 by Beckhoff
+
+Cmdlets for Twincat ADS and device management for Powershell Core and Windows Powershell
+
+__Downloads__: 16,536 | __Repository__: https://infosys.beckhoff.com/content/1033/tc3_ads_ps_tcxaemgmt/3972231819.html?id=8731138690123386389
+
+## [PowerInfoblox](https://www.powershellgallery.com/Packages/PowerInfoblox/1.0.1) | 1.0.1
+
+### Published: 01/17/2024 11:43:37 by Przemyslaw Klys
+
+Helper module for Infoblox.
+
+__Downloads__: 12 | __Repository__: https://github.com/EvotecIT/PowerInfoblox
+
+## [Tecman.Tfs.Tools](https://www.powershellgallery.com/Packages/Tecman.Tfs.Tools/1.2.0.0) | 1.2.0.0
+
+### Published: 01/17/2024 11:04:42 by Clever Dynamics
+
+Functions to support Microsoft Dynamics 365 Business Central / Dynamics NAV development and integration with the Azure DevOps REST API
+
+__Downloads__: 2,486 | __Repository__: 
+
+## [Outsystems.SetupTools](https://www.powershellgallery.com/Packages/Outsystems.SetupTools/3.17.0.0) | 3.17.0.0
+
+### Published: 01/17/2024 10:05:11 by OutSystems
+
+Tools for installing and manage the OutSystems platform installation
+
+__Downloads__: 150,328 | __Repository__: https://github.com/OutSystems/OutSystems.SetupTools
+
+## [PSComputerManagementZp](https://www.powershellgallery.com/Packages/PSComputerManagementZp/0.0.6) | 0.0.6
+
+### Published: 01/17/2024 09:45:57 by Pu Zhao
+
+A PowerShell module that derives from personal scenarios, can help users configure the Windows PCs easily to realize many useful operations, involving authorization, env, links, proxy, etc. Some features are also available on WSL2, Linux, and MacOS. See [PSComputerManagementZp](https://github.com/Zhaopudark/PSComputerManagementZp) for more details.
+
+__Downloads__: 180 | __Repository__: https://github.com/Zhaopudark/PSComputerManagementZp
+
 ## [Import-Package](https://www.powershellgallery.com/Packages/Import-Package/0.5.2) | 0.5.2
 
 ### Published: 01/17/2024 09:39:29 by anonhostpi
@@ -27,14 +223,6 @@ Automatically right sizes any Azure Windows VM based on configurable telemetry d
 
 __Downloads__: 938 | __Repository__: https://www.lieben.nu/liebensraum/2022/05/automatic-modular-rightsizing-of-azure-vms-with-special-focus-on-azure-virtual-desktop/
 
-## [JyskIT.Automation](https://www.powershellgallery.com/Packages/JyskIT.Automation/0.5.5) | 0.5.5
-
-### Published: 01/17/2024 08:04:00 by Jysk IT
-
-Provides different cmdlets for automating Microsoft 365 and related services.
-
-__Downloads__: 203 | __Repository__: 
-
 ## [Microsoft-Extractor-Suite](https://www.powershellgallery.com/Packages/Microsoft-Extractor-Suite/1.1.4) | 1.1.4
 
 ### Published: 01/17/2024 07:51:17 by Joey Rentenaar & Korstiaan Stam
@@ -42,27 +230,6 @@ __Downloads__: 203 | __Repository__:
 Microsoft-Extractor-Suite is a fully-featured, actively-maintained, Powershell tool designed to streamline the process of collecting all necessary data and information from various sources within Microsoft.
 
 __Downloads__: 572 | __Repository__: 
-
-## [AzureStuff_test](https://www.powershellgallery.com/Packages/AzureStuff_test/1.0.1) | 1.0.1
-
-### Published: 01/17/2024 07:47:25 by @AndrewZtrhgf
-
-Various Azure related functions. Some of them are explained at https://doitpsway.com/series/azure.
-Some of the interesting functions:
-- Add-AzureAppUserConsent - grant permission consent on behalf of another user
-- Get-AzureAccountOccurrence - get all occurrences of specified account in your Azure environment
-- Get-AzureAppVerificationStatus - get Azure app publisher verification status
-- Get-AzureAppConsentRequest - get all application admin consent requests
-- Get-AzureDevOpsOrganizationOverview - list of all DevOps organizations
-- Grant-AzureServicePrincipalPermission - grant application/delegated permission(s) for selected resource to selected account
-- New-AzureAutomationModule - import/update module with dependencies to Azure Automation Account
-- Remove-AzureAccountOccurrence - remove specified account from various Azure environment sections and optionally replace it with other user and inform him. Should be used with Get-AzureAccountOccurrence.
-- Remove-AzureAppUserConsent - remove user consent
-- Revoke-AzureServicePrincipalPermission - revoke granted application/delegated permissions from selected account
-- Set-AzureAppCertificate - create (or replace existing) authentication certificate for selected Application
-- ...
-
-__Downloads__: 2 | __Repository__: https://github.com/ztrhgf/useful_powershell_modules
 
 ## [WITSQLtools](https://www.powershellgallery.com/Packages/WITSQLtools/1.3.0.0) | 1.3.0.0
 
@@ -98,7 +265,7 @@ __Downloads__: 112 | __Repository__: https://github.com/masesgroup/JNet
 
 A PowerShell module to generate an as built report on the configuration of Veeam VBR.
 
-__Downloads__: 3,800 | __Repository__: https://github.com/AsBuiltReport/AsBuiltReport.Veeam.VBR
+__Downloads__: 3,799 | __Repository__: https://github.com/AsBuiltReport/AsBuiltReport.Veeam.VBR
 
 ## [UiPathOrch](https://www.powershellgallery.com/Packages/UiPathOrch/0.8.1.1) | 0.8.1.1
 
@@ -170,7 +337,7 @@ __Downloads__: 70 | __Repository__:
 
 Enables the signing of a set of files with the Azure Code Signing service.
 
-__Downloads__: 11,201 | __Repository__: 
+__Downloads__: 11,206 | __Repository__: 
 
 ## [OCI.PSModules](https://www.powershellgallery.com/Packages/OCI.PSModules/74.0.0) | 74.0.0
 
@@ -1267,7 +1434,7 @@ __Downloads__: 24 | __Repository__: https://github.com/jhoek/UncommonSense.Zip.U
 
 Mdbc module - MongoDB Cmdlets for PowerShell
 
-__Downloads__: 1,064,469 | __Repository__: https://github.com/nightroman/Mdbc
+__Downloads__: 1,064,426 | __Repository__: https://github.com/nightroman/Mdbc
 
 ## [BinaryTree.Internal.Power365.Dev](https://www.powershellgallery.com/Packages/BinaryTree.Internal.Power365.Dev/20.12.13.12816) | 20.12.13.12816
 
@@ -1301,27 +1468,6 @@ Cmdlets for Microsoft.Data.Analysis.DataFrame
 
 __Downloads__: 33 | __Repository__: https://github.com/nightroman/DataFrame
 
-## [AzureStuff](https://www.powershellgallery.com/Packages/AzureStuff/1.0.1) | 1.0.1
-
-### Published: 01/16/2024 16:06:13 by @AndrewZtrhgf
-
-Various Azure related functions. Some of them are explained at https://doitpsway.com/series/azure.
-Some of the interesting functions:
-- Add-AzureAppUserConsent - grant permission consent on behalf of another user
-- Get-AzureAccountOccurrence - get all occurrences of specified account in your Azure environment
-- Get-AzureAppVerificationStatus - get Azure app publisher verification status
-- Get-AzureAppConsentRequest - get all application admin consent requests
-- Get-AzureDevOpsOrganizationOverview - list of all DevOps organizations
-- Grant-AzureServicePrincipalPermission - grant application/delegated permission(s) for selected resource to selected account
-- New-AzureAutomationModule - import/update module with dependencies to Azure Automation Account
-- Remove-AzureAccountOccurrence - remove specified account from various Azure environment sections and optionally replace it with other user and inform him. Should be used with Get-AzureAccountOccurrence.
-- Remove-AzureAppUserConsent - remove user consent
-- Revoke-AzureServicePrincipalPermission - revoke granted application/delegated permissions from selected account
-- Set-AzureAppCertificate - create (or replace existing) authentication certificate for selected Application
-- ...
-
-__Downloads__: 4 | __Repository__: https://github.com/ztrhgf/useful_powershell_modules
-
 ## [VenafiPS](https://www.powershellgallery.com/Packages/VenafiPS/6.1.2) | 6.1.2
 
 ### Published: 01/16/2024 15:10:29 by Venafi
@@ -1344,7 +1490,7 @@ __Downloads__: 294 | __Repository__:
 
 Master module for a collection of modules. These modules are varied in their tasks. The overall purpose of them being to provide a powerfull Toolset to improve IT Admin workflows.
 
-__Downloads__: 32,870 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox
+__Downloads__: 32,873 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox
 
 ## [AdminToolbox.FortiWizard](https://www.powershellgallery.com/Packages/AdminToolbox.FortiWizard/2.18.33) | 2.18.33
 
@@ -1352,7 +1498,7 @@ __Downloads__: 32,870 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions that generate configuration scripts and manage FortiOS.
 
-__Downloads__: 12,380 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 12,383 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.VMWareAutomate](https://www.powershellgallery.com/Packages/AdminToolbox.VMWareAutomate/4.8.124) | 4.8.124
 
@@ -1360,15 +1506,7 @@ __Downloads__: 12,380 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions to Automate Bulk VMWare Tasks
 
-__Downloads__: 19,090 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-## [AdminToolbox.Remoting](https://www.powershellgallery.com/Packages/AdminToolbox.Remoting/1.9.127) | 1.9.127
-
-### Published: 01/16/2024 14:16:02 by Taylor Lee
-
-Functions for remote management and access.
-
-__Downloads__: 18,913 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 19,093 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [PKIMAN](https://www.powershellgallery.com/Packages/PKIMAN/1.0.0) | 1.0.0
 
@@ -1378,13 +1516,21 @@ A tool to create request, issue and manage certificates in an AD CS environment.
 
 __Downloads__: 1 | __Repository__: 
 
+## [AdminToolbox.Remoting](https://www.powershellgallery.com/Packages/AdminToolbox.Remoting/1.9.127) | 1.9.127
+
+### Published: 01/16/2024 14:16:02 by Taylor Lee
+
+Functions for remote management and access.
+
+__Downloads__: 18,916 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
 ## [AdminToolbox.Office365](https://www.powershellgallery.com/Packages/AdminToolbox.Office365/3.1.77) | 3.1.77
 
 ### Published: 01/16/2024 14:15:56 by Taylor Lee
 
 Functions for working with Office365 and Azure modules
 
-__Downloads__: 20,486 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 20,488 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.Networking](https://www.powershellgallery.com/Packages/AdminToolbox.Networking/2.18.35) | 2.18.35
 
@@ -1392,7 +1538,7 @@ __Downloads__: 20,486 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Network Troubleshooting Functions
 
-__Downloads__: 48,206 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 48,208 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.MSGraph](https://www.powershellgallery.com/Packages/AdminToolbox.MSGraph/1.2.127) | 1.2.127
 
@@ -1400,7 +1546,7 @@ __Downloads__: 48,206 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Microsoft Graph interactive API Functions
 
-__Downloads__: 9,271 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 9,270 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.Fun](https://www.powershellgallery.com/Packages/AdminToolbox.Fun/1.6.128) | 1.6.128
 
@@ -1408,7 +1554,7 @@ __Downloads__: 9,271 | __Repository__: https://github.com/TheTaylorLee/AdminTool
 
 Functions that have no purpose
 
-__Downloads__: 19,130 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 19,133 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.FileManagement](https://www.powershellgallery.com/Packages/AdminToolbox.FileManagement/1.15.118) | 1.15.118
 
@@ -1416,7 +1562,7 @@ __Downloads__: 19,130 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 File Management Functions
 
-__Downloads__: 19,839 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 19,841 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.FFTools](https://www.powershellgallery.com/Packages/AdminToolbox.FFTools/4.16.77) | 4.16.77
 
@@ -1424,7 +1570,7 @@ __Downloads__: 19,839 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Expedite simple ffmpeg actions
 
-__Downloads__: 19,725 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 19,727 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.Exchange](https://www.powershellgallery.com/Packages/AdminToolbox.Exchange/1.9.128) | 1.9.128
 
@@ -1432,7 +1578,7 @@ __Downloads__: 19,725 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions for Exchange Management
 
-__Downloads__: 20,890 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 20,892 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.EndpointManagement](https://www.powershellgallery.com/Packages/AdminToolbox.EndpointManagement/4.10.4) | 4.10.4
 
@@ -1440,7 +1586,7 @@ __Downloads__: 20,890 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions for management of endpoints
 
-__Downloads__: 24,134 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 24,133 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.ActiveDirectory](https://www.powershellgallery.com/Packages/AdminToolbox.ActiveDirectory/1.9.125) | 1.9.125
 
@@ -1448,7 +1594,7 @@ __Downloads__: 24,134 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions for Active Directory
 
-__Downloads__: 23,781 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 23,780 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AzureADStuff](https://www.powershellgallery.com/Packages/AzureADStuff/1.1.2) | 1.1.2
 
@@ -1460,14 +1606,6 @@ This module has been DEPRECATED, because it is based on AzureAD module.
 Use AzureStuff module instead (built upon Microsoft.Graph.* and AZ modules instead).
 
 __Downloads__: 881 | __Repository__: https://github.com/ztrhgf/useful_powershell_modules
-
-## [Tecman.Tfs.Tools](https://www.powershellgallery.com/Packages/Tecman.Tfs.Tools/1.1.68.0) | 1.1.68.0
-
-### Published: 01/16/2024 12:45:24 by James Pearson
-
-Functions to support Microsoft Dynamics 365 Business Central / Dynamics NAV development and integration with the Azure DevOps REST API
-
-__Downloads__: 2,486 | __Repository__: 
 
 ## [PasswordSolution](https://www.powershellgallery.com/Packages/PasswordSolution/1.1.1) | 1.1.1
 
@@ -1648,7 +1786,7 @@ __Downloads__: 485 | __Repository__:
 
 PSWriteHTML is PowerShell Module to generate beautiful HTML reports, pages, emails without any knowledge of HTML, CSS or JavaScript. To get started basics PowerShell knowledge is required.
 
-__Downloads__: 2,273,096 | __Repository__: https://github.com/EvotecIT/PSWriteHTML
+__Downloads__: 2,273,038 | __Repository__: https://github.com/EvotecIT/PSWriteHTML
 
 ## [IAMClient](https://www.powershellgallery.com/Packages/IAMClient/2.3.0) | 2.3.0
 
@@ -1728,7 +1866,7 @@ __Downloads__: 289,931 | __Repository__: https://github.com/techthoughts2/PoshGr
 
 Enables detailed emoji search, discovery, and retrieval. Offers detailed insights on emojis, with multiple search options aligned with the Unicode standard. Provides comprehensive emoji data, including diverse representations and formats, to enhance your scripts and digital communication.
 
-__Downloads__: 1,086 | __Repository__: https://github.com/techthoughts2/pwshEmojiExplorer
+__Downloads__: 1,093 | __Repository__: https://github.com/techthoughts2/pwshEmojiExplorer
 
 ## [pingsweep](https://www.powershellgallery.com/Packages/pingsweep/1.1) | 1.1
 
@@ -1796,7 +1934,7 @@ AADInternals allows you to export ADFS certificates, Azure AD Connect passwords,
 
 DISCLAIMER: Functionality provided through this module are not supported by Microsoft and thus should not be used in a production environment. Use on your own risk!
 
-__Downloads__: 83,379 | __Repository__: https://aadinternals.com/aadinternals
+__Downloads__: 83,369 | __Repository__: https://aadinternals.com/aadinternals
 
 ## [AzCostTools](https://www.powershellgallery.com/Packages/AzCostTools/0.0.1) | 0.0.1
 
@@ -1827,7 +1965,7 @@ The module also provides the additional features:
 For more information about Bicep, please visit the official Bicep GitHub Repository:
 https://github.com/Azure/bicep
 
-__Downloads__: 2,190,258 | __Repository__: https://github.com/PSBicep/PSBicep
+__Downloads__: 2,189,254 | __Repository__: https://github.com/PSBicep/PSBicep
 
 ## [CommonStuff](https://www.powershellgallery.com/Packages/CommonStuff/1.0.15) | 1.0.15
 
@@ -1853,7 +1991,7 @@ Various helper functions for modules IntuneStuff, AzureADStuff etc. Some of them
     - Uninstall-ApplicationViaUninstallString - uninstalls application using information retrieved from system registry
     - ...
 
-__Downloads__: 161,725 | __Repository__: https://github.com/ztrhgf/useful_powershell_modules
+__Downloads__: 161,718 | __Repository__: https://github.com/ztrhgf/useful_powershell_modules
 
 ## [pocof](https://www.powershellgallery.com/Packages/pocof/0.8.0) | 0.8.0
 
@@ -1966,7 +2104,7 @@ __Downloads__: 36 | __Repository__: https://github.com/BinaryWizard904/SecretMan
 
 This module provides an interface to the Halo API.
 
-__Downloads__: 185,950 | __Repository__: https://github.com/homotechsual/HaloAPI
+__Downloads__: 185,964 | __Repository__: https://github.com/homotechsual/HaloAPI
 
 ## [EpinovaAzureToolBucket](https://www.powershellgallery.com/Packages/EpinovaAzureToolBucket/0.15.16) | 0.15.16
 
@@ -2003,7 +2141,7 @@ Some of the interesting functions:
 - Upload-IntuneAutopilotHash - upload given autopilot hash (owner and hostname) into Intune
 - ...
 
-__Downloads__: 18,542 | __Repository__: https://github.com/ztrhgf/useful_powershell_modules
+__Downloads__: 18,544 | __Repository__: https://github.com/ztrhgf/useful_powershell_modules
 
 ## [ExchangeOnlineArchiveTransfer](https://www.powershellgallery.com/Packages/ExchangeOnlineArchiveTransfer/1.0.3) | 1.0.3
 
@@ -2019,132 +2157,6 @@ __Downloads__: 42 | __Repository__:
 
 dbForge DevOps Automation PowerShell for SQL Server helps with organizing database DevOps processes for your SQL Server databases. It allows you to develop, source-control, and safely automate the deployment of database changes by using dbForge for SQL Server tools via the PowerShell interface.
 
-__Downloads__: 11,294 | __Repository__: https://www.devart.com/dbforge/sql/database-devops/
+__Downloads__: 11,295 | __Repository__: https://www.devart.com/dbforge/sql/database-devops/
 
-## [JaapsTools](https://www.powershellgallery.com/Packages/JaapsTools/19.0.1) | 19.0.1
-
-### Published: 01/12/2024 11:55:29 by JT
-
-JaapsTools
-
-__Downloads__: 664 | __Repository__: 
-
-## [ADMF](https://www.powershellgallery.com/Packages/ADMF/1.13.100) | 1.13.100
-
-### Published: 01/12/2024 10:46:39 by Friedrich Weinmann
-
-Central Management Component of the Active Directory Management Framework
-
-__Downloads__: 1,828 | __Repository__: https://admf.one/
-
-## [Cayosoft.Graph](https://www.powershellgallery.com/Packages/Cayosoft.Graph/11.1.0.613) | 11.1.0.613
-
-### Published: 01/12/2024 08:40:19 by Cayosoft Inc.
-
-The Cayosoft Graph (cGraph) Module for Microsoft PowerShell is a FREE SOLUTION that allows administrators to use PowerShell to call the Microsoft Graph API to manage any Graph accessible resource such as, Azure AD, Office 365, Outlook, OneDrive, Intune and more...
-
-__Downloads__: 10,645 | __Repository__: https://www.cayosoft.com/cgraph
-
-## [DomainManagement](https://www.powershellgallery.com/Packages/DomainManagement/1.8.202) | 1.8.202
-
-### Published: 01/12/2024 08:21:06 by Friedrich Weinmann
-
-Module to manage domain configuration
-
-__Downloads__: 1,737 | __Repository__: https://admf.one/
-
-## [ForestManagement](https://www.powershellgallery.com/Packages/ForestManagement/1.5.73) | 1.5.73
-
-### Published: 01/12/2024 07:58:03 by Friedrich Weinmann
-
-Infrastructure module to build and maintain forest configuration
-
-__Downloads__: 2,349 | __Repository__: https://admf.one/
-
-## [OSDSUS](https://www.powershellgallery.com/Packages/OSDSUS/24.1.11.1) | 24.1.11.1
-
-### Published: 01/12/2024 07:15:19 by David Segura @SeguraOSD
-
-https://osdsus.osdeploy.com/
-https://raw.githubusercontent.com/OSDeploy/OSDSUS/master/UPDATES.md
-
-WSUS Update Catalogs:
-These are contained within this PowerShell Module, so regular Module updating is needed to
-ensure you receive the latest Microsoft Updates.  Updates published in WSUS will be different
-from Microsoft Update Catalog website due to Preview Releases
-
-__Downloads__: 358,665 | __Repository__: https://github.com/OSDeploy/OSDSUS
-
-## [OSD](https://www.powershellgallery.com/Packages/OSD/24.1.11.1) | 24.1.11.1
-
-### Published: 01/12/2024 07:14:41 by David Segura . Gary Blok . Jérôme Bezet-Torres . Damien Van Robaeys . Mike Marable . Akos Bakos
-
-January 2024 Patch Tuesday Update
-
-__Downloads__: 1,226,861 | __Repository__: https://github.com/OSDeploy/OSD
-
-## [PSAction1](https://www.powershellgallery.com/Packages/PSAction1/1.2.8) | 1.2.8
-
-### Published: 01/12/2024 02:17:07 by Gene Moody
-
-API Interface for Action1
-
-__Downloads__: 60 | __Repository__: 
-
-## [TrueName](https://www.powershellgallery.com/Packages/TrueName/1.1.0) | 1.1.0
-
-### Published: 01/12/2024 00:11:02 by BaldCat
-
-Gets the true name (real path) of the filename that you get by following symbolic links, network drive, virtual drives created using the SUBST command.
-
-__Downloads__: 16 | __Repository__: https://github.com/baldcat18/TrueName
-
-## [Geocoding](https://www.powershellgallery.com/Packages/Geocoding/0.0.6) | 0.0.6
-
-### Published: 01/12/2024 00:07:51 by AutoSysOps (Leo Visser)
-
-PowerShell module to search and reverse geocode location data. The module supports Open Street Maps, Bing Maps and Google Maps. You can use Open Street Maps without an API key, to use either Google or Bing you do need to request an API key.
-
-__Downloads__: 15 | __Repository__: https://github.com/autosysops/PowerShell_Geocoding
-
-## [JamfPSPro](https://www.powershellgallery.com/Packages/JamfPSPro/1.1.0) | 1.1.0
-
-### Published: 01/11/2024 22:56:34 by Tristan Brazier
-
-A PowerShell module for the Jamf Classic API and Jamf Pro API
-
-__Downloads__: 101 | __Repository__: https://github.com/TrustyTristan/JamfPSPro
-
-## [PSTcpIp](https://www.powershellgallery.com/Packages/PSTcpIp/4.25.0) | 4.25.0
-
-### Published: 01/11/2024 21:00:50 by Anthony Guimelli
-
-Provides cmdlets to perform various TCPIP and TLS/SSL related tasks.
-
-__Downloads__: 2,733 | __Repository__: https://github.com/anthonyg-1/PSTcpIp
-
-## [AzAuth](https://www.powershellgallery.com/Packages/AzAuth/2.2.8) | 2.2.8
-
-### Published: 01/11/2024 19:44:30 by Emanuel Palm
-
-A lightweight PowerShell module to handle Azure authentication, using the Azure.Identity MSAL library.
-
-__Downloads__: 872 | __Repository__: https://github.com/PalmEmanuel/AzAuth
-
-## [AWS_Tools_AddOns](https://www.powershellgallery.com/Packages/AWS_Tools_AddOns/0.0.3) | 0.0.3
-
-### Published: 01/11/2024 18:42:29 by Cliff Williams
-
-A set of helper function that enhances using AWS.Tools.Powershell
-
-__Downloads__: 27 | __Repository__: https://github.com/Clifra-Jones/AWS_Tools_AddOns
-
-## [BitbucketServerAutomation](https://www.powershellgallery.com/Packages/BitbucketServerAutomation/1.1.1) | 1.1.1
-
-### Published: 01/11/2024 17:35:37 by WebMD Health Services
-
-The Bitbucket Server Automation module is used to interact with Bitbucket Server.
-
-__Downloads__: 32,494 | __Repository__: https://github.com/webmd-health-services/BitbucketServerAutomation
-
-*Updated: Wednesday, 17 January 2024 09:52:27 UTC*
+*Updated: Wednesday, 17 January 2024 17:52:16 UTC*
