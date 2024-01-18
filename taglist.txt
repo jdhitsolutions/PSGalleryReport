@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Thursday, 18 January 2024 09:52:30 UTC
+Updated: Thursday, 18 January 2024 17:52:23 UTC
 
 .bat
 .env
@@ -68,7 +68,6 @@ aadsecurity
 aadsts
 aam
 aas
-aatp
 abc
 abc_testing
 abe
@@ -110,7 +109,9 @@ action1
 actiongroup
 actionplan
 actions
+activate
 activation
+activationscripts
 active
 active_directory
 active-directory
@@ -238,6 +239,7 @@ agile
 agility
 agm
 agnoster
+ahk
 ai
 aianomalydetection
 aidocument
@@ -533,7 +535,6 @@ authentication
 authenticationcertificate
 authenticode
 authn
-author
 authoring
 authoringtools
 authorisation
@@ -553,6 +554,7 @@ autocomplete
 autocompletion
 autoenv
 autograph
+autohotkey
 autoload
 autologon
 automai
@@ -654,10 +656,8 @@ azureadbackupandrestore
 azureadconnect
 azureadgraph
 azureadtoolkit
-azureadvancedthreatprotection
 azureappconfiguration
 azureas
-azureatp
 azureautomation
 azureautomationaccount
 azureautomationnotsupported
@@ -681,7 +681,6 @@ azureinformationprotection
 azureiot
 azureiothub
 azurekeyvault
-azuremigrate
 azuremonitor
 azurenetworking
 azurepack
@@ -1217,7 +1216,6 @@ cloudmarque
 cloudmigrations
 cloudpc
 cloudservice
-cloudshell
 clueser
 cluster
 clusterminimumvalues
@@ -1299,7 +1297,6 @@ comical
 comics
 command
 command_line
-command-line-interface
 command-validation
 commandcoverage
 commandlets
@@ -1308,7 +1305,6 @@ commands
 commandsandresource
 commence
 comment
-comments
 commerce
 commfort
 commit
@@ -1461,7 +1457,6 @@ coordinates
 copilot
 copy
 copy-item
-copyright
 core
 coreepower
 coreepower.common
@@ -1779,8 +1774,8 @@ defence
 defender
 defender-atp
 defender-for-endpoint
+defenderast
 defenderforendpoint
-defenderforidentity
 defense
 deflate
 delegated
@@ -1858,6 +1853,7 @@ di
 diagnostic
 diagnostics
 diagram
+diagrammer
 diagrams
 dialog
 dice
@@ -2108,6 +2104,7 @@ durabletask
 dust
 dutch
 dvls
+dword
 dxexpeditions
 dynamic
 dynamic-host-configuration-protocol
@@ -2136,7 +2133,6 @@ easy
 easy-to-use
 easylife365
 easyvista
-eaton
 ebay
 ebooks
 ebur128
@@ -2450,6 +2446,7 @@ fastping
 fasttrack
 favorites
 fb-pro
+fciv
 fd
 feather
 feature
@@ -2547,7 +2544,6 @@ findfile
 findlocation
 findplace
 findproxyforurl
-fine-print
 fine-tuning
 finops
 firebird
@@ -2634,7 +2630,6 @@ foudil
 fox
 foxpro
 fqdn
-frame
 framework
 france
 free
@@ -2671,6 +2666,7 @@ full-metal-gnome
 fullclr
 fulljoin
 fullmetalgnome
+fullscreen
 fun
 function
 function_calling
@@ -2927,7 +2923,6 @@ gz
 gzip
 gzip-compression
 ha
-haarlemsdagblad
 hack
 hacking
 hacktoberfest
@@ -3000,7 +2995,6 @@ heavenbay
 helium
 helix
 hello
-helloid
 helloposhgallery
 helloworld
 helm
@@ -3047,6 +3041,13 @@ hitrust
 hive
 hivehome
 hjson
+hkcu
+hkey_classes_root
+hkey_current_config
+hkey_current_user
+hkey_local_machine
+hkey_users
+hklm
 hl7
 hlds
 hls
@@ -3122,6 +3123,7 @@ humanly
 humor
 humorous
 hunter
+hwid
 hybrid
 hybridrunbookworker
 hyper-v
@@ -3179,7 +3181,6 @@ identity-management
 identitydataplane
 identitydirector
 identitydomains
-identitynow
 idf
 idm
 idna
@@ -3915,13 +3916,13 @@ marketplaceordering
 marketplacepublisher
 marking
 marklogic
-marquee
 marvel
 marvell
 marvell_semiconductor_inc
 marvellfcpowerkit
 marvellfcprovider
 marvellqlogicfcpowerkit
+mas
 mask
 mass
 masstransit
@@ -3959,7 +3960,6 @@ mdb
 mdbc
 mde
 mdep
-mdi
 mdm
 mdop
 mdt
@@ -4052,7 +4052,6 @@ microsoftazure
 microsoftcloud
 microsoftdefender
 microsoftdefenderatp
-microsoftdefenderforidentity
 microsoftdeploymenttoolkit
 microsoftendpointmanager
 microsoftexchangeserver
@@ -4101,7 +4100,6 @@ mixer
 mkdocs
 mkpasswd
 ml
-ml.net
 mlflow
 mmdc
 mobile
@@ -4233,6 +4231,7 @@ multios
 multipass
 multiple
 multiserver
+multistring
 multithread
 multithreaded
 multithreaded-helpers
@@ -4355,6 +4354,7 @@ new-dynamicdictionary
 new-dynamicparameter
 new-githubrelease
 new-item
+new-itemproperty
 new-pinneditem
 new-rdpsession
 new-samcmapplicationfrompackagedefinitionsms
@@ -4379,6 +4379,7 @@ ngfw
 nginx
 nhl
 nic
+nic.ru
 nightmare
 ninite
 ninja
@@ -5067,17 +5068,20 @@ powershell
 powershell-class
 powershell-cmdlets
 powershell-core
+powershell-core-releases-api
 powershell-course
 powershell-credentials
 powershell-dsc
 powershell-examples
 powershell-gallery
+powershell-github-repo
 powershell-gitlab
 powershell-graphql
 powershell-isprime
 powershell-lightning
 powershell-module
 powershell-modules
+powershell-releases-api
 powershell-remoting
 powershell-terminal
 powershell-terminal-copilot
@@ -7086,6 +7090,7 @@ psexcel
 psexec
 psexec.exe
 psexpandline
+psfciv
 psfitbit
 psfive9
 psfive9admin
@@ -8208,6 +8213,7 @@ psword
 pswriteword
 psyaml
 pszabbix
+pubg
 public
 public-key
 public-transport
@@ -8218,6 +8224,7 @@ publicip
 publish
 publishedmodules
 publisher
+publishers
 publishing
 pubsub
 pubxml
@@ -8300,7 +8307,6 @@ quickaccess
 quickbase
 quickbooks
 quicksetup
-quiz
 qumulo
 quota
 quote
@@ -8309,6 +8315,7 @@ quotes
 quotestoliveby
 quoting
 quser
+qword
 r
 r53
 rabbit
@@ -8322,7 +8329,6 @@ raisers
 raisersedge
 raj
 ram
-ram-it
 random
 random-date
 random-password
@@ -8424,8 +8430,15 @@ reflection
 refresh
 refreshtoken
 reg
+reg_binary
+reg_dword
+reg_expand_sz
+reg_multi_sz
+reg_qword
+reg_sz
 regardscitoyen
 regcli
+regedit
 regex
 region
 regions
@@ -8478,6 +8491,7 @@ remotesession
 remoting
 remove
 remove-githubsecrets
+remove-itemproperty
 remove-pass
 remove-path
 remove-pinneditem
@@ -8511,7 +8525,6 @@ requiredmodules
 requirements
 res
 rescan
-rescuetime
 reservation
 reservations
 reset
@@ -8678,7 +8691,6 @@ safe
 safeguard
 sage
 saggiehaim
-sailpoint
 sale
 sales
 salesforce
@@ -8776,6 +8788,7 @@ screenresolution
 screensaver
 screenshot
 script
+script_version
 script-to-assembly
 script-to-executable
 scriptanalyzer
@@ -8949,6 +8962,7 @@ set_bios
 set-alias
 set-dnsservers
 set-githubsecrets
+set-itemproperty
 set-location
 set-openfiles
 set-ownership
@@ -9748,7 +9762,6 @@ tool
 toolbox
 toolkit
 tools
-tools4ever
 topdesk
 topgrade
 topics
@@ -9929,13 +9942,13 @@ ud-slider
 ud-speechbubble
 ud-step
 ud-stepbar
+ud-stickynavbar
 ud-tagcloud
 ud-timeline
 ud-timeout
 ud-tool
 ud-toploader
 ud-trendline
-ud-typing
 ud-window
 ud-wordtree
 udcm
@@ -9945,6 +9958,7 @@ udpclient
 udptest
 udr
 udthememode
+udword
 uefi
 uem
 ui
@@ -10018,6 +10032,7 @@ upstream
 uptime
 uptimerobot
 uptobox
+uqword
 uri
 uri-scheme
 url
@@ -10050,6 +10065,7 @@ userrights
 userrightsassignment
 users
 userworkstations
+usg
 usps
 utc
 utf-8
@@ -10354,6 +10370,7 @@ webtesting
 webtime
 wec
 wecutil
+weekday
 wef
 weixin
 well-known
@@ -10397,6 +10414,7 @@ win32appmigrationtool
 win32shutdown
 window
 windows
+windows  server
 windows explorer
 windows_events
 windows-10
