@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Thursday, 18 January 2024 02:07:08 UTC
+Updated: Thursday, 18 January 2024 09:52:30 UTC
 
 .bat
 .env
@@ -110,9 +110,7 @@ action1
 actiongroup
 actionplan
 actions
-activate
 activation
-activationscripts
 active
 active_directory
 active-directory
@@ -1117,8 +1115,10 @@ cif
 cifv3
 cil
 cim
+cim_computersystem
 cimfs
 cimi
+ciminstance
 cims
 cimsession
 cinema
@@ -1447,6 +1447,7 @@ convertfrom
 convertfrom-yaml
 convertto
 convertto-excel
+convertto-hashtable
 convertto-yaml
 converttodocx
 converttohtml
@@ -2107,7 +2108,6 @@ durabletask
 dust
 dutch
 dvls
-dword
 dxexpeditions
 dynamic
 dynamic-host-configuration-protocol
@@ -2329,6 +2329,7 @@ eventviewer
 eventwatch
 evergreen
 evernote
+everydaypowershell
 everydayrewards
 everything
 evolutionary-algorithms
@@ -2449,7 +2450,6 @@ fastping
 fasttrack
 favorites
 fb-pro
-fciv
 fd
 feather
 feature
@@ -2671,7 +2671,6 @@ full-metal-gnome
 fullclr
 fulljoin
 fullmetalgnome
-fullscreen
 fun
 function
 function_calling
@@ -3048,13 +3047,6 @@ hitrust
 hive
 hivehome
 hjson
-hkcu
-hkey_classes_root
-hkey_current_config
-hkey_current_user
-hkey_local_machine
-hkey_users
-hklm
 hl7
 hlds
 hls
@@ -3130,7 +3122,6 @@ humanly
 humor
 humorous
 hunter
-hwid
 hybrid
 hybridrunbookworker
 hyper-v
@@ -3931,7 +3922,6 @@ marvell_semiconductor_inc
 marvellfcpowerkit
 marvellfcprovider
 marvellqlogicfcpowerkit
-mas
 mask
 mass
 masstransit
@@ -4243,7 +4233,6 @@ multios
 multipass
 multiple
 multiserver
-multistring
 multithread
 multithreaded
 multithreaded-helpers
@@ -4366,7 +4355,6 @@ new-dynamicdictionary
 new-dynamicparameter
 new-githubrelease
 new-item
-new-itemproperty
 new-pinneditem
 new-rdpsession
 new-samcmapplicationfrompackagedefinitionsms
@@ -4391,7 +4379,6 @@ ngfw
 nginx
 nhl
 nic
-nic.ru
 nightmare
 ninite
 ninja
@@ -4691,6 +4678,7 @@ ouraring
 out-consolegridview
 out-default
 out-gridview
+out-json
 outerjoin
 outertext
 outline
@@ -5079,20 +5067,17 @@ powershell
 powershell-class
 powershell-cmdlets
 powershell-core
-powershell-core-releases-api
 powershell-course
 powershell-credentials
 powershell-dsc
 powershell-examples
 powershell-gallery
-powershell-github-repo
 powershell-gitlab
 powershell-graphql
 powershell-isprime
 powershell-lightning
 powershell-module
 powershell-modules
-powershell-releases-api
 powershell-remoting
 powershell-terminal
 powershell-terminal-copilot
@@ -7101,7 +7086,6 @@ psexcel
 psexec
 psexec.exe
 psexpandline
-psfciv
 psfitbit
 psfive9
 psfive9admin
@@ -8224,7 +8208,6 @@ psword
 pswriteword
 psyaml
 pszabbix
-pubg
 public
 public-key
 public-transport
@@ -8235,7 +8218,6 @@ publicip
 publish
 publishedmodules
 publisher
-publishers
 publishing
 pubsub
 pubxml
@@ -8327,7 +8309,6 @@ quotes
 quotestoliveby
 quoting
 quser
-qword
 r
 r53
 rabbit
@@ -8443,15 +8424,8 @@ reflection
 refresh
 refreshtoken
 reg
-reg_binary
-reg_dword
-reg_expand_sz
-reg_multi_sz
-reg_qword
-reg_sz
 regardscitoyen
 regcli
-regedit
 regex
 region
 regions
@@ -8504,7 +8478,6 @@ remotesession
 remoting
 remove
 remove-githubsecrets
-remove-itemproperty
 remove-pass
 remove-path
 remove-pinneditem
@@ -8713,6 +8686,8 @@ salesloft
 salt
 salt-api
 saltstack
+saltstackconfig
+saltstackenterprise
 sam
 saml
 saml psmodule
@@ -8801,7 +8776,6 @@ screenresolution
 screensaver
 screenshot
 script
-script_version
 script-to-assembly
 script-to-executable
 scriptanalyzer
@@ -8824,6 +8798,7 @@ scrubber
 scsm
 scuba
 sd
+sddl
 sdk
 sdn
 sdp
@@ -8974,7 +8949,6 @@ set_bios
 set-alias
 set-dnsservers
 set-githubsecrets
-set-itemproperty
 set-location
 set-openfiles
 set-ownership
@@ -9315,6 +9289,7 @@ srylius-write
 ssas
 ssc
 ssdt
+sse
 ssh
 ssh-config
 ssh-keygen
@@ -9599,7 +9574,6 @@ tcp
 tcp/ip
 tcpip
 tcpport
-tcprjmgmt
 tcpserver
 tcptest
 tcx
@@ -9660,9 +9634,11 @@ test-automation
 test-dscconfiguration
 test-internetconnection
 test-modulepath
+test-osplatform
 test-psremoting
 test-samcmapplicationexists
 test-samcmpackageexists
+test-userisadministrator
 test-xml
 test123
 testaccount
@@ -9953,7 +9929,6 @@ ud-slider
 ud-speechbubble
 ud-step
 ud-stepbar
-ud-stickynavbar
 ud-tagcloud
 ud-timeline
 ud-timeout
@@ -9970,7 +9945,6 @@ udpclient
 udptest
 udr
 udthememode
-udword
 uefi
 uem
 ui
@@ -10044,7 +10018,6 @@ upstream
 uptime
 uptimerobot
 uptobox
-uqword
 uri
 uri-scheme
 url
@@ -10077,7 +10050,6 @@ userrights
 userrightsassignment
 users
 userworkstations
-usg
 usps
 utc
 utf-8
@@ -10325,7 +10297,6 @@ warraty
 warrenty
 wasabi
 watch
-watchdog
 watchmen
 watery
 wave
@@ -10383,7 +10354,6 @@ webtesting
 webtime
 wec
 wecutil
-weekday
 wef
 weixin
 well-known
@@ -10427,7 +10397,6 @@ win32appmigrationtool
 win32shutdown
 window
 windows
-windows  server
 windows explorer
 windows_events
 windows-10
