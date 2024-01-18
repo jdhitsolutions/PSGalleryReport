@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Wednesday, 17 January 2024 17:52:26 UTC
+Updated: Thursday, 18 January 2024 02:07:08 UTC
 
 .bat
 .env
@@ -548,6 +548,7 @@ autify
 auto
 auto_cd
 auto-completion
+autoadapter
 autoattendant
 autocloudarc
 autocomplete
@@ -575,6 +576,7 @@ autotaskpsa
 autounattend
 autoupdate
 autoupdate-script
+autowrapper
 autoyast
 auvik
 availability
@@ -628,6 +630,7 @@ azpublicipaddress
 azresources
 azsdk
 azsk
+azsql
 azstackhci
 azstate
 azsubnet
@@ -723,6 +726,7 @@ backup_validation
 bamboo
 bamboohr
 bandwidth
+bank
 banking
 banner
 bar
@@ -1113,10 +1117,8 @@ cif
 cifv3
 cil
 cim
-cim_computersystem
 cimfs
 cimi
-ciminstance
 cims
 cimsession
 cinema
@@ -1195,6 +1197,7 @@ cloud-iq
 cloudant
 cloudbees
 cloudberry
+cloudblue
 cloudbolt
 cloudbridge
 cloudendure
@@ -1444,7 +1447,6 @@ convertfrom
 convertfrom-yaml
 convertto
 convertto-excel
-convertto-hashtable
 convertto-yaml
 converttodocx
 converttohtml
@@ -1776,7 +1778,6 @@ defence
 defender
 defender-atp
 defender-for-endpoint
-defenderast
 defenderforendpoint
 defenderforidentity
 defense
@@ -2090,6 +2091,7 @@ du
 dual-stack
 duck
 duckduckgo
+ducktyping
 dudckduckgo
 duf
 dummy
@@ -2327,7 +2329,6 @@ eventviewer
 eventwatch
 evergreen
 evernote
-everydaypowershell
 everydayrewards
 everything
 evolutionary-algorithms
@@ -3237,6 +3238,7 @@ imei
 imi
 impala
 impersonation
+imperva
 import
 import-csv
 import-dtdriverpackpackagedefinitionsms
@@ -3322,6 +3324,7 @@ integrationruntimedependency
 integrationservicescatalog
 integrity
 intel
+inteligo
 intelligence
 intelligence"
 intellisearch
@@ -3357,6 +3360,7 @@ invoke
 invoke-asadmin
 invoke-asadministrator
 invoke-ascurrentuser
+invoke-automation
 invoke-build
 invoke-dtdownloaddriverpack
 invoke-dtdownloaddriverupdates
@@ -4303,6 +4307,8 @@ neo4j
 neovim
 neptune
 nerdfonts
+nerdio
+nerdioapi
 nerdymishka
 nessus
 nested
@@ -4402,6 +4408,7 @@ nlm
 nlog
 nmap
 nmbell
+nmm
 nntp
 node
 nodejs
@@ -4512,6 +4519,7 @@ oda
 odata
 odbc
 odfb
+odin
 odoo
 oem-charset
 offboarding
@@ -4581,6 +4589,7 @@ onyphe
 onyphe.io
 oob
 oop
+op
 opa
 opc
 open
@@ -4682,7 +4691,6 @@ ouraring
 out-consolegridview
 out-default
 out-gridview
-out-json
 outerjoin
 outertext
 outline
@@ -5071,17 +5079,20 @@ powershell
 powershell-class
 powershell-cmdlets
 powershell-core
+powershell-core-releases-api
 powershell-course
 powershell-credentials
 powershell-dsc
 powershell-examples
 powershell-gallery
+powershell-github-repo
 powershell-gitlab
 powershell-graphql
 powershell-isprime
 powershell-lightning
 powershell-module
 powershell-modules
+powershell-releases-api
 powershell-remoting
 powershell-terminal
 powershell-terminal-copilot
@@ -7083,6 +7094,7 @@ psedition_psedition_core
 psedition_psedition_desktop
 psedition_windows
 psedition-desktop
+psediton_desktop
 psenv
 pses
 psexcel
@@ -8159,6 +8171,7 @@ psmssql
 psmssqlbynarymodule
 psmssqlmodule
 psmvp
+psnavigation
 psnexosisclient
 psngenposh
 psobject
@@ -8525,6 +8538,7 @@ requiredmodules
 requirements
 res
 rescan
+rescuetime
 reservation
 reservations
 reset
@@ -8699,8 +8713,6 @@ salesloft
 salt
 salt-api
 saltstack
-saltstackconfig
-saltstackenterprise
 sam
 saml
 saml psmodule
@@ -8812,7 +8824,6 @@ scrubber
 scsm
 scuba
 sd
-sddl
 sdk
 sdn
 sdp
@@ -8849,6 +8860,7 @@ securegopher+
 securemfa
 securerdp
 securescore
+securesphere
 securestring
 security
 security-awareness-training
@@ -9271,9 +9283,11 @@ sqlclient
 sqlcmd
 sqlcodeguard
 sqldatabase
+sqldb
 sqldbatools
 sqldiagapi
 sqlexport
+sqlgateway
 sqlite
 sqlitebynarymodule
 sqlitebynarypsmodule
@@ -9301,7 +9315,6 @@ srylius-write
 ssas
 ssc
 ssdt
-sse
 ssh
 ssh-config
 ssh-keygen
@@ -9534,6 +9547,7 @@ systeminfo
 systeminformation
 systemlocale
 systems
+systemsplash
 systray
 t
 t-sql
@@ -9646,11 +9660,9 @@ test-automation
 test-dscconfiguration
 test-internetconnection
 test-modulepath
-test-osplatform
 test-psremoting
 test-samcmapplicationexists
 test-samcmpackageexists
-test-userisadministrator
 test-xml
 test123
 testaccount
@@ -9689,6 +9701,7 @@ tfsec
 tfswitch
 tftd
 tftp
+tfvars
 tfvc
 thecrushingemptinessofquotidianexistence
 theme
