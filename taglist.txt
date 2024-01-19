@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Friday, 19 January 2024 02:07:54 UTC
+Updated: Friday, 19 January 2024 09:52:39 UTC
 
 .bat
 .env
@@ -110,9 +110,7 @@ action1
 actiongroup
 actionplan
 actions
-activate
 activation
-activationscripts
 active
 active_directory
 active-directory
@@ -358,7 +356,6 @@ api-client
 api-gateway
 api-rest
 apichecks
-apiclient
 apigateway
 apigee
 apigeeedge
@@ -822,6 +819,7 @@ bitcoin
 bitlocker
 bitwarden
 bitwig
+bitwise
 biztalk
 biztalkalm
 biztalkdeploymentframework
@@ -934,6 +932,7 @@ bulk
 bulletin
 bullhorn
 bundle
+bup
 burnttoast
 burpsuite
 bus
@@ -944,6 +943,7 @@ businesshours
 businessobjects
 businessrulesengine
 businesstime
+bxor
 bydesign
 byexample
 bynarypsmodule
@@ -1466,6 +1466,7 @@ copyright
 core
 coreepower
 coreepower.common
+coreepower.config
 coreepower.lib
 coreepower.module
 coreepower.net
@@ -1556,7 +1557,6 @@ crossover
 crossplatform
 crossplatformdevelopment
 crowdstrike
-crt.sh
 crud
 crypto
 cryptocompare
@@ -1575,7 +1575,6 @@ csv2adx
 csvhelper
 ctf
 ctglobal
-ctl
 ctrl+c
 ctx
 ctype
@@ -1844,6 +1843,7 @@ devices
 deviceupdate
 devolutions
 devops
+devops psmodule
 devsecninja
 devsecops
 devspaces
@@ -1914,9 +1914,7 @@ diskfree
 diskimage
 diskpart
 diskpool
-disksize
 diskspace
-diskusage
 dism
 dismal
 display
@@ -2068,7 +2066,6 @@ ds
 ds-client
 ds-utils
 dsa
-dsacls
 dsc
 dsc-resource
 dsc-resources
@@ -2129,6 +2126,7 @@ dynamicsax
 dynamicsecuritygroups
 dynamicsnav
 dynamodb
+dynatrace
 dynatraceobservability
 dz
 e-mail
@@ -2162,6 +2160,7 @@ effectiveroutes
 efficientether
 efi
 egrep
+eid
 eigencontroles
 einstein
 eklient psedition_core psedition_desktop
@@ -2180,6 +2179,7 @@ elm
 elmah-io
 elonmusk
 eloqua
+elvui
 em
 emacs
 email
@@ -3130,7 +3130,6 @@ humanly
 humor
 humorous
 hunter
-hwid
 hybrid
 hybridrunbookworker
 hyper-v
@@ -3931,7 +3930,6 @@ marvell_semiconductor_inc
 marvellfcpowerkit
 marvellfcprovider
 marvellqlogicfcpowerkit
-mas
 mask
 mass
 masstransit
@@ -3956,6 +3954,7 @@ mb
 mbc
 mbs
 mc
+mcafee
 mcas
 mccs
 mcd
@@ -4626,6 +4625,7 @@ operationsmanagementsuiteagent
 operationvalidation
 operatoraccesscontrol
 opml
+ops
 opsi
 opsmgr
 optics
@@ -4997,7 +4997,6 @@ poshy-multimedia
 poshy-net
 poshy-notify-send
 poshy-sh-isms
-poshy-sshconfig
 poshy-viewer-finder
 poshy-wrap
 poshy-wrap-apt
@@ -5298,7 +5297,6 @@ pscommand_aar
 pscommand_acp
 pscommand_acse
 pscommand_acsp
-pscommand_add_ssh
 pscommand_add-envpathitem
 pscommand_add-envvarpathitem
 pscommand_add-gitlfstrackedfiles
@@ -6854,11 +6852,9 @@ pscommand_show-proxy
 pscommand_shttp
 pscommand_shuf
 pscommand_sl
-pscommand_ssh-add-all
 pscommand_ssh-disable-proxy
 pscommand_ssh-enable-proxy
 pscommand_ssh-show-proxy
-pscommand_sshlist
 pscommand_start-gitbisect
 pscommand_start-gitcherrypick
 pscommand_start-gitcherrypickexplained
@@ -7107,7 +7103,6 @@ psfive9admin
 psfoldersize
 psfunction__python3
 psfunction_aar
-psfunction_add_ssh
 psfunction_add-envpathitem
 psfunction_add-envvarpathitem
 psfunction_add-gitlfstrackedfiles
@@ -8063,11 +8058,9 @@ psfunction_show-gitremote
 psfunction_show-proxy
 psfunction_shttp
 psfunction_shuf
-psfunction_ssh-add-all
 psfunction_ssh-disable-proxy
 psfunction_ssh-enable-proxy
 psfunction_ssh-show-proxy
-psfunction_sshlist
 psfunction_start-gitbisect
 psfunction_start-gitcherrypick
 psfunction_start-gitcherrypickexplained
@@ -8287,10 +8280,8 @@ qlgc_fc_powerkit
 qlik
 qlik-api
 qlik-sense
-qlik-view
 qliksesne
 qlikview
-qlikview-cli
 qlogic
 qlogicfastlinqpowerkit
 qlogicfcpowerkit
@@ -8307,6 +8298,7 @@ quality
 qualys
 quandl
 quantum
+quarantine
 queries
 query
 queue
@@ -8382,7 +8374,6 @@ rdpsign
 rds
 rdsgw
 react-stockcharts
-read
 read-slog
 readable
 reader
@@ -8721,6 +8712,7 @@ saml2
 sample
 sampler
 san
+sand
 sandbox
 sanitization
 sanitizer
@@ -8834,6 +8826,7 @@ search-engines
 searchengine
 searcher
 searching
+searchmanager
 searchplace
 searchquery
 searchstring
@@ -9317,7 +9310,6 @@ ssc
 ssdt
 sse
 ssh
-ssh-config
 ssh-keygen
 sshmanagement
 sshservers
@@ -9600,6 +9592,7 @@ tcp
 tcp/ip
 tcpip
 tcpport
+tcprjmgmt
 tcpserver
 tcptest
 tcx
@@ -9823,7 +9816,6 @@ translation
 translit
 transliteration
 transmission
-transparency
 transpilation
 trap
 travel
@@ -10477,6 +10469,7 @@ windowspresentationfoundation
 windowsreleasehealth
 windowsrest
 windowssandbox
+windowssearchmanager
 windowsserver
 windowsserver2008
 windowsserver2016
@@ -10609,6 +10602,7 @@ wunderlist
 wus
 wvd
 www
+x-cart
 x.509
 x1
 x2
@@ -10626,6 +10620,7 @@ xbase
 xbox
 xclarity
 xdr
+xdschelper
 xdscresources
 xdt
 xenapp
@@ -10639,7 +10634,6 @@ xiaomi
 xin
 xkcd
 xliff
-xlsx
 xmc
 xml
 xml-rpc
@@ -10648,6 +10642,7 @@ xmla
 xmlrpc
 xmlutils
 xoauth2
+xor
 xpath
 xpendingreboot
 xpertdoc
