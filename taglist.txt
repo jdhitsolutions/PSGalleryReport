@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Friday, 19 January 2024 09:52:39 UTC
+Updated: Friday, 19 January 2024 17:52:43 UTC
 
 .bat
 .env
@@ -110,7 +110,9 @@ action1
 actiongroup
 actionplan
 actions
+activate
 activation
+activationscripts
 active
 active_directory
 active-directory
@@ -161,7 +163,6 @@ addomainservices
 addon
 address
 addresses
-addressrange
 adds
 addtypeaccelerators
 adf
@@ -173,7 +174,6 @@ adfstoolkit
 adfstools
 adgroupmemberobjects
 adgroupmembers
-adgroups
 adidns
 adif
 adlds
@@ -207,7 +207,6 @@ adsi
 adsite
 adsp
 adsync
-aduser
 aduseraccountlockout
 adv180002
 adv180018
@@ -434,7 +433,6 @@ archivematica
 archivial
 archivial-backup
 archivial-cloud-backup
-archlinux
 arcresourcebridge
 arcus
 area
@@ -542,7 +540,6 @@ authorization
 authorizationheaders
 authorize.net
 authz
-autify
 auto
 auto_cd
 auto-completion
@@ -556,7 +553,6 @@ autograph
 autohotkey
 autoload
 autologon
-automai
 automanage
 automate
 automated
@@ -647,7 +643,6 @@ azure-devops
 azure-forensics
 azure-functions
 azure-pipelines
-azure-resource-graph
 azure-ssis
 azureactivedirectory
 azuread
@@ -819,7 +814,6 @@ bitcoin
 bitlocker
 bitwarden
 bitwig
-bitwise
 biztalk
 biztalkalm
 biztalkdeploymentframework
@@ -903,7 +897,6 @@ broadcom
 broot
 brownserve-uk
 browser
-browserbox
 browserextension
 browserhistory
 browsing
@@ -932,7 +925,6 @@ bulk
 bulletin
 bullhorn
 bundle
-bup
 burnttoast
 burpsuite
 bus
@@ -940,10 +932,8 @@ business
 businesscentral
 businessdays
 businesshours
-businessobjects
 businessrulesengine
 businesstime
-bxor
 bydesign
 byexample
 bynarypsmodule
@@ -963,7 +953,6 @@ calculator
 calendar
 callingcode
 callqueue
-calvin-and-hobbes
 cam
 camera
 campaign
@@ -972,7 +961,6 @@ canarie
 cancel
 cancellation
 canonical
-cantara
 capability
 capacity
 capgemini
@@ -1004,7 +992,6 @@ cavium
 cb
 cblueshell
 cbr
-cbz
 cchoco
 cchocoex
 ccm
@@ -1111,7 +1098,6 @@ cic
 cicd
 cicdpipeline
 cidr
-cidrcalculator
 cif
 cifv3
 cil
@@ -1252,7 +1238,6 @@ codaamok
 code
 code-page
 code365
-codeanalysis
 codebuild
 codecommit
 codecomplexity
@@ -1330,7 +1315,6 @@ complete
 completer
 completion
 completion-manager
-completionresult
 completions
 complex
 compliance
@@ -1466,7 +1450,6 @@ copyright
 core
 coreepower
 coreepower.common
-coreepower.config
 coreepower.lib
 coreepower.module
 coreepower.net
@@ -1502,8 +1485,6 @@ covid-19
 cpm
 cppm
 cpu
-cpuid
-cpuid-information
 cq
 cqd
 cqdpowershell
@@ -1557,6 +1538,7 @@ crossover
 crossplatform
 crossplatformdevelopment
 crowdstrike
+crt.sh
 crud
 crypto
 cryptocompare
@@ -1575,6 +1557,7 @@ csv2adx
 csvhelper
 ctf
 ctglobal
+ctl
 ctrl+c
 ctx
 ctype
@@ -1615,7 +1598,6 @@ customproviders
 cutehttpfileserver
 cvad
 cve
-cve-2021-34527
 cvrf
 cvss
 cwi
@@ -1746,6 +1728,7 @@ dcom
 dcr
 ddc
 ddc/ci
+ddns
 debian
 debug
 debug-files
@@ -1753,7 +1736,6 @@ debugger
 debugging
 decimal
 decimalip
-decimalzero
 declarative
 decline
 decode
@@ -1914,7 +1896,9 @@ diskfree
 diskimage
 diskpart
 diskpool
+disksize
 diskspace
+diskusage
 dism
 dismal
 display
@@ -1961,7 +1945,6 @@ dnsclient
 dnsdumpster
 dnsentry
 dnsimple
-dnslookup
 dnsmadeeasy
 dnsoverhttps
 dnsrecord
@@ -2030,6 +2013,7 @@ downloads
 downloadyoutubevideo
 dpa
 dpapi
+dpi
 dps
 dq
 dr
@@ -2096,7 +2080,6 @@ duf
 dummy
 dummyusers
 dump
-dupes
 duplicate
 duplicate-files
 duplicatioin
@@ -2128,7 +2111,6 @@ dynamicsnav
 dynamodb
 dynatrace
 dynatraceobservability
-dz
 e-mail
 e1
 easy
@@ -2190,7 +2172,6 @@ emailmanagment
 emailnotification
 emailnotificationcomponent
 emailsecurity
-embedded
 emc
 emcomm
 emergency
@@ -2277,11 +2258,6 @@ escaping
 ese
 esent
 esoteric
-esp
-esp-idf
-esp32
-esp32s2
-espressif
 esri
 essbase
 estimate
@@ -2434,7 +2410,6 @@ failure
 falcon
 fallbackstatuspoint
 fanarttv
-fancy
 faq
 farm
 farmanager
@@ -2503,9 +2478,6 @@ filenames
 fileproperties
 filereplication
 files
-files-cli
-files-cli.exe
-files.com
 filesecurity
 fileserver
 fileserverresourcemanager
@@ -2538,8 +2510,6 @@ financial
 financialedge
 financials
 find
-find-call
-find-caller
 find-file
 find-path
 finddownloadlinkfromwebsite
@@ -2548,7 +2518,6 @@ findlocation
 findplace
 findproxyforurl
 fine-print
-fine-tuning
 finops
 firebird
 firefox
@@ -2690,7 +2659,6 @@ gainz
 gainz-chocolateysync
 gainz-keepass
 gainz-sqldb
-gal
 gallery
 game
 gamecategory:cards
@@ -2736,12 +2704,9 @@ genetic-algorithm
 genp
 genxdev
 geo
-geocache
-geocaching
 geocode
 geoencode
 geoencoding
-geoip
 geolocation
 geosearching
 geotagging
@@ -2895,7 +2860,6 @@ greynoise
 grid
 gridfs
 grok
-groundspeak
 group
 group-membership
 group-policy
@@ -2909,10 +2873,8 @@ gsuite
 gtx1080ti
 guardedfabric
 guardicore
-gubbins
 guest
 guestconfiguration
-guests
 gui
 gui.cs
 guid
@@ -2983,6 +2945,7 @@ hcx
 hdfs
 hdinsight
 hdinsightonaks
+hdr
 header
 headhunter
 health
@@ -3008,7 +2971,6 @@ helm
 helmet
 help
 helpdesk
-helpdoc
 helper
 helper-functions
 helperfunctions
@@ -3130,6 +3092,7 @@ humanly
 humor
 humorous
 hunter
+hwid
 hybrid
 hybridrunbookworker
 hyper-v
@@ -3187,8 +3150,6 @@ identity-management
 identitydataplane
 identitydirector
 identitydomains
-identitynow
-idf
 idm
 idna
 ids
@@ -3335,7 +3296,6 @@ interlogix
 internal
 internet
 internet-explorer
-internetconnection
 internetexplorer
 intersight
 intersightcmdlets
@@ -3396,9 +3356,7 @@ ipmaths
 ipp
 iprange
 ips
-ipscan
 ipv4
-ipv4ping
 ipv6
 ipynb
 ir
@@ -3492,8 +3450,6 @@ jsm.insight
 json
 json-converter
 json-transform
-json+
-jsonplus
 jsonwebkey
 jsonwebsignature
 jsonwebtoken
@@ -3518,8 +3474,6 @@ k8s
 k8sshell
 kafka
 kaminario
-karabiner
-karabiner-elements
 karma
 kaseya
 kaseyavsa
@@ -3543,15 +3497,12 @@ key
 key-vault
 key2wocas
 keybase
-keybinding
 keyboard
 keyboardstartkey
 keycipher
 keycloak
 keylight
 keymanagement
-keymap
-keymapping
 keypair
 keysms
 keyvault
@@ -3568,7 +3519,6 @@ kms
 knapsack
 knetps
 knob
-knowbe4
 knowledge
 knowledgebase
 koans
@@ -3642,7 +3592,6 @@ lccn
 lcm
 lcminternals
 ldap
-leafs
 league
 lean
 learn
@@ -3812,7 +3761,6 @@ logs
 logstash
 logtools
 logz
-loki
 lol
 lolcat
 longfile
@@ -3930,6 +3878,7 @@ marvell_semiconductor_inc
 marvellfcpowerkit
 marvellfcprovider
 marvellqlogicfcpowerkit
+mas
 mask
 mass
 masstransit
@@ -3954,7 +3903,6 @@ mb
 mbc
 mbs
 mc
-mcafee
 mcas
 mccs
 mcd
@@ -4099,7 +4047,6 @@ mipsdk
 miration-step
 mirror
 miscellaneous
-mitigation
 mitre
 mitre_att&ck
 mitrend
@@ -4118,7 +4065,6 @@ mobilitycontroller
 mock
 mocking
 model
-modeling
 modify
 module
 module-maintenance
@@ -4390,7 +4336,6 @@ nginx
 nhl
 nic
 nic.ru
-nightmare
 ninite
 ninja
 ninjaone
@@ -4605,7 +4550,6 @@ openidconnect
 openinghours
 openport
 openprovider
-openscad
 opensearch
 opensource
 opensourceinitiative
@@ -4638,7 +4582,6 @@ optionstring
 opus
 oracle
 oraclecloudinfrastructure
-oraculum
 orbital
 orchestration
 orchestrator
@@ -4831,7 +4774,6 @@ perforce
 performance
 performance-counters
 performancemonitoring
-perl
 permission
 permissions
 permutations
@@ -4879,7 +4821,6 @@ pinvoke
 pip
 pip3
 pipe
-pipedrive
 pipeline
 pipelinelastexecution
 pipelines
@@ -4969,7 +4910,6 @@ posh-chocobear
 posh-direnv
 posh-git
 posh-ribbon
-posh-ssh
 poshbot
 poshcommence
 poshevents
@@ -4997,6 +4937,7 @@ poshy-multimedia
 poshy-net
 poshy-notify-send
 poshy-sh-isms
+poshy-sshconfig
 poshy-viewer-finder
 poshy-wrap
 poshy-wrap-apt
@@ -5042,7 +4983,6 @@ post
 postgre
 postgres
 postgresql
-potato
 pow
 powdrgit
 power
@@ -5166,7 +5106,6 @@ printer
 printers
 printershare
 printing
-printnightmare
 printserver
 prism
 prism_element
@@ -5297,6 +5236,7 @@ pscommand_aar
 pscommand_acp
 pscommand_acse
 pscommand_acsp
+pscommand_add_ssh
 pscommand_add-envpathitem
 pscommand_add-envvarpathitem
 pscommand_add-gitlfstrackedfiles
@@ -6852,9 +6792,11 @@ pscommand_show-proxy
 pscommand_shttp
 pscommand_shuf
 pscommand_sl
+pscommand_ssh-add-all
 pscommand_ssh-disable-proxy
 pscommand_ssh-enable-proxy
 pscommand_ssh-show-proxy
+pscommand_sshlist
 pscommand_start-gitbisect
 pscommand_start-gitcherrypick
 pscommand_start-gitcherrypickexplained
@@ -7103,6 +7045,7 @@ psfive9admin
 psfoldersize
 psfunction__python3
 psfunction_aar
+psfunction_add_ssh
 psfunction_add-envpathitem
 psfunction_add-envvarpathitem
 psfunction_add-gitlfstrackedfiles
@@ -8058,9 +8001,11 @@ psfunction_show-gitremote
 psfunction_show-proxy
 psfunction_shttp
 psfunction_shuf
+psfunction_ssh-add-all
 psfunction_ssh-disable-proxy
 psfunction_ssh-enable-proxy
 psfunction_ssh-show-proxy
+psfunction_sshlist
 psfunction_start-gitbisect
 psfunction_start-gitcherrypick
 psfunction_start-gitcherrypickexplained
@@ -8227,7 +8172,6 @@ publicip
 publish
 publishedmodules
 publisher
-publishers
 publishing
 pubsub
 pubxml
@@ -8298,7 +8242,6 @@ quality
 qualys
 quandl
 quantum
-quarantine
 queries
 query
 queue
@@ -8340,7 +8283,6 @@ random-password-generator
 randompassword
 randomuser
 randomusers
-rangescan
 ransomware_recovery
 ras
 raspberry-pi
@@ -8374,6 +8316,7 @@ rdpsign
 rds
 rdsgw
 react-stockcharts
+read
 read-slog
 readable
 reader
@@ -8389,7 +8332,6 @@ rebootnodeifneeded
 reckon
 recommendation
 reconcile
-reconnaissance
 record
 recording
 recovery
@@ -8423,7 +8365,6 @@ redshift
 redteaming
 redundancy
 refactor
-refactoring
 refeds
 refeds-mfa
 refedsmfa
@@ -8456,7 +8397,6 @@ regression
 regular-expression
 regularexpression
 regularexpressions
-reinstall
 relational
 relay
 release
@@ -8471,7 +8411,6 @@ remediation
 remedy
 reminder
 remote
-remote-browser
 remote-desktop
 remote'
 remoteadmin
@@ -8566,7 +8505,6 @@ retention
 retro
 retry
 returnuserprofile
-retype
 reuse
 reverse-engineer
 reverse-string
@@ -8670,7 +8608,6 @@ runbooks
 runbookstudio
 runcommand
 rundeck
-runner
 runspace
 runspacepool
 runspaces
@@ -8695,7 +8632,6 @@ safe
 safeguard
 sage
 saggiehaim
-sailpoint
 sale
 sales
 salesforce
@@ -8723,7 +8659,6 @@ sapstartstopazure
 sarcasm
 sarif
 sas
-sat
 satirical
 save
 savedcreds
@@ -8737,6 +8672,7 @@ scaffoldingtemplate
 scala
 scalable
 scalablevectorgraphics
+scale
 scan
 scanner
 scatter
@@ -8826,7 +8762,6 @@ search-engines
 searchengine
 searcher
 searching
-searchmanager
 searchplace
 searchquery
 searchstring
@@ -8856,7 +8791,6 @@ securescore
 securesphere
 securestring
 security
-security-awareness-training
 security-policy
 security-score
 security-txt
@@ -8977,7 +8911,6 @@ set-psenv
 set-randompass
 set-type
 setbios
-sets
 setting
 settings
 setup
@@ -9023,7 +8956,6 @@ shell-art
 shells
 shieldedvm
 ships
-shipsprovider
 shipstation
 shlink
 shodan
@@ -9249,7 +9181,6 @@ split
 splunk
 spn
 spo
-spooler
 sport
 sports
 sports-tracker
@@ -9310,6 +9241,7 @@ ssc
 ssdt
 sse
 ssh
+ssh-config
 ssh-keygen
 sshmanagement
 sshservers
@@ -9341,8 +9273,6 @@ stan
 stanc
 standalone
 standard
-standarderror
-standardoutput
 stansummary
 start
 start-job
@@ -9371,7 +9301,6 @@ statusmonitor
 statusreportingcomponent
 staytus
 stderr
-stdio
 stdout
 steam
 steam-games
@@ -9651,7 +9580,6 @@ tesla
 test
 test-automation
 test-dscconfiguration
-test-internetconnection
 test-modulepath
 test-osplatform
 test-psremoting
@@ -9733,8 +9661,6 @@ time
 timeout
 timer
 timeseriesinsights
-timesheet
-timesheets
 timespan
 timezone
 tinkerpop
@@ -9816,6 +9742,7 @@ translation
 translit
 transliteration
 transmission
+transparency
 transpilation
 trap
 travel
@@ -9823,7 +9750,6 @@ trec
 tree
 tree-structure
 treesize
-treffynnon
 trein
 trello
 trellops
@@ -9858,6 +9784,9 @@ tsa
 tsd
 tsheets
 tsqlbestpractice
+tst
+tst1
+tst3
 tsv
 ttrpg
 tts
@@ -9865,7 +9794,6 @@ tubedownloader
 tui
 tulpep
 tuner
-tuning
 tutorial
 tv
 tweet
@@ -9924,7 +9852,6 @@ ud-illustration
 ud-input
 ud-licensed
 ud-loadingoverlay
-ud-minesweeper
 ud-mouseparticle
 ud-navbarsearch
 ud-numbermask
@@ -10330,9 +10257,7 @@ wdapi
 wds
 weather
 weaviate
-weaviatenet
 web
-web-browser
 web-search
 web.config
 webadministration
@@ -10469,7 +10394,6 @@ windowspresentationfoundation
 windowsreleasehealth
 windowsrest
 windowssandbox
-windowssearchmanager
 windowsserver
 windowsserver2008
 windowsserver2016
@@ -10546,7 +10470,6 @@ workrequests
 worksheet
 workshop
 workspace
-workspacemanager
 workspaceone
 workspaces
 workstation
@@ -10634,6 +10557,7 @@ xiaomi
 xin
 xkcd
 xliff
+xlsx
 xmc
 xml
 xml-rpc
@@ -10642,7 +10566,6 @@ xmla
 xmlrpc
 xmlutils
 xoauth2
-xor
 xpath
 xpendingreboot
 xpertdoc
