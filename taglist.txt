@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Thursday, 18 January 2024 17:52:23 UTC
+Updated: Friday, 19 January 2024 02:07:54 UTC
 
 .bat
 .env
@@ -68,6 +68,7 @@ aadsecurity
 aadsts
 aam
 aas
+aatp
 abc
 abc_testing
 abe
@@ -535,6 +536,7 @@ authentication
 authenticationcertificate
 authenticode
 authn
+author
 authoring
 authoringtools
 authorisation
@@ -656,8 +658,10 @@ azureadbackupandrestore
 azureadconnect
 azureadgraph
 azureadtoolkit
+azureadvancedthreatprotection
 azureappconfiguration
 azureas
+azureatp
 azureautomation
 azureautomationaccount
 azureautomationnotsupported
@@ -681,6 +685,7 @@ azureinformationprotection
 azureiot
 azureiothub
 azurekeyvault
+azuremigrate
 azuremonitor
 azurenetworking
 azurepack
@@ -817,7 +822,6 @@ bitcoin
 bitlocker
 bitwarden
 bitwig
-bitwise
 biztalk
 biztalkalm
 biztalkdeploymentframework
@@ -930,7 +934,6 @@ bulk
 bulletin
 bullhorn
 bundle
-bup
 burnttoast
 burpsuite
 bus
@@ -941,7 +944,6 @@ businesshours
 businessobjects
 businessrulesengine
 businesstime
-bxor
 bydesign
 byexample
 bynarypsmodule
@@ -1216,6 +1218,7 @@ cloudmarque
 cloudmigrations
 cloudpc
 cloudservice
+cloudshell
 clueser
 cluster
 clusterminimumvalues
@@ -1297,6 +1300,7 @@ comical
 comics
 command
 command_line
+command-line-interface
 command-validation
 commandcoverage
 commandlets
@@ -1305,6 +1309,7 @@ commands
 commandsandresource
 commence
 comment
+comments
 commerce
 commfort
 commit
@@ -1457,10 +1462,10 @@ coordinates
 copilot
 copy
 copy-item
+copyright
 core
 coreepower
 coreepower.common
-coreepower.config
 coreepower.lib
 coreepower.module
 coreepower.net
@@ -1776,6 +1781,7 @@ defender-atp
 defender-for-endpoint
 defenderast
 defenderforendpoint
+defenderforidentity
 defense
 deflate
 delegated
@@ -1838,7 +1844,6 @@ devices
 deviceupdate
 devolutions
 devops
-devops psmodule
 devsecninja
 devsecops
 devspaces
@@ -2124,7 +2129,6 @@ dynamicsax
 dynamicsecuritygroups
 dynamicsnav
 dynamodb
-dynatrace
 dynatraceobservability
 dz
 e-mail
@@ -2132,7 +2136,7 @@ e1
 easy
 easy-to-use
 easylife365
-easyvista
+eaton
 ebay
 ebooks
 ebur128
@@ -2176,7 +2180,6 @@ elm
 elmah-io
 elonmusk
 eloqua
-elvui
 em
 emacs
 email
@@ -2544,6 +2547,7 @@ findfile
 findlocation
 findplace
 findproxyforurl
+fine-print
 fine-tuning
 finops
 firebird
@@ -2630,6 +2634,7 @@ foudil
 fox
 foxpro
 fqdn
+frame
 framework
 france
 free
@@ -2923,6 +2928,7 @@ gz
 gzip
 gzip-compression
 ha
+haarlemsdagblad
 hack
 hacking
 hacktoberfest
@@ -2995,6 +3001,7 @@ heavenbay
 helium
 helix
 hello
+helloid
 helloposhgallery
 helloworld
 helm
@@ -3181,6 +3188,7 @@ identity-management
 identitydataplane
 identitydirector
 identitydomains
+identitynow
 idf
 idm
 idna
@@ -3916,6 +3924,7 @@ marketplaceordering
 marketplacepublisher
 marking
 marklogic
+marquee
 marvel
 marvell
 marvell_semiconductor_inc
@@ -3947,7 +3956,6 @@ mb
 mbc
 mbs
 mc
-mcafee
 mcas
 mccs
 mcd
@@ -3960,6 +3968,7 @@ mdb
 mdbc
 mde
 mdep
+mdi
 mdm
 mdop
 mdt
@@ -4052,6 +4061,7 @@ microsoftazure
 microsoftcloud
 microsoftdefender
 microsoftdefenderatp
+microsoftdefenderforidentity
 microsoftdeploymenttoolkit
 microsoftendpointmanager
 microsoftexchangeserver
@@ -4100,6 +4110,7 @@ mixer
 mkdocs
 mkpasswd
 ml
+ml.net
 mlflow
 mmdc
 mobile
@@ -4615,7 +4626,6 @@ operationsmanagementsuiteagent
 operationvalidation
 operatoraccesscontrol
 opml
-ops
 opsi
 opsmgr
 optics
@@ -8297,7 +8307,6 @@ quality
 qualys
 quandl
 quantum
-quarantine
 queries
 query
 queue
@@ -8307,6 +8316,7 @@ quickaccess
 quickbase
 quickbooks
 quicksetup
+quiz
 qumulo
 quota
 quote
@@ -8324,11 +8334,13 @@ rackspace
 radarr
 radio
 raidcontrollercmdlets
+railways
 rainbow
 raisers
 raisersedge
 raj
 ram
+ram-it
 random
 random-date
 random-password
@@ -8525,6 +8537,7 @@ requiredmodules
 requirements
 res
 rescan
+rescuetime
 reservation
 reservations
 reset
@@ -8691,6 +8704,7 @@ safe
 safeguard
 sage
 saggiehaim
+sailpoint
 sale
 sales
 salesforce
@@ -8707,7 +8721,6 @@ saml2
 sample
 sampler
 san
-sand
 sandbox
 sanitization
 sanitizer
@@ -8821,7 +8834,6 @@ search-engines
 searchengine
 searcher
 searching
-searchmanager
 searchplace
 searchquery
 searchstring
@@ -9762,6 +9774,7 @@ tool
 toolbox
 toolkit
 tools
+tools4ever
 topdesk
 topgrade
 topics
@@ -9853,9 +9866,6 @@ tsa
 tsd
 tsheets
 tsqlbestpractice
-tst
-tst1
-tst3
 tsv
 ttrpg
 tts
@@ -9949,6 +9959,7 @@ ud-timeout
 ud-tool
 ud-toploader
 ud-trendline
+ud-typing
 ud-window
 ud-wordtree
 udcm
@@ -10313,6 +10324,7 @@ warraty
 warrenty
 wasabi
 watch
+watchdog
 watchmen
 watery
 wave
@@ -10465,7 +10477,6 @@ windowspresentationfoundation
 windowsreleasehealth
 windowsrest
 windowssandbox
-windowssearchmanager
 windowsserver
 windowsserver2008
 windowsserver2016
@@ -10598,7 +10609,6 @@ wunderlist
 wus
 wvd
 www
-x-cart
 x.509
 x1
 x2
@@ -10616,7 +10626,6 @@ xbase
 xbox
 xclarity
 xdr
-xdschelper
 xdscresources
 xdt
 xenapp
@@ -10639,7 +10648,6 @@ xmla
 xmlrpc
 xmlutils
 xoauth2
-xor
 xpath
 xpendingreboot
 xpertdoc
