@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Saturday, 20 January 2024 02:06:04 UTC
+Updated: Saturday, 20 January 2024 09:52:27 UTC
 
 .bat
 .env
@@ -202,6 +202,7 @@ adobeflash
 adobject
 adouobject
 adoxio
+adp
 adr
 ads
 adsi
@@ -351,6 +352,7 @@ aovpn psmodule
 apache
 apachekafka
 apexlegends
+apexone
 api
 api-client
 api-gateway
@@ -693,7 +695,6 @@ azurepowershell
 azurerepos
 azureresourcemanager
 azureresources
-azurerestapispecs
 azurerm
 azurerms
 azurerunasconnection
@@ -973,6 +974,7 @@ canarie
 cancel
 cancellation
 canonical
+cantara
 capability
 capacity
 capgemini
@@ -1379,6 +1381,7 @@ confluence
 confluent
 conjecture
 connect
+connect-dtcmsite
 connect-exchangeonprem
 connect-mstsc
 connect-rdp
@@ -1438,6 +1441,7 @@ converged_data_management
 conversational
 conversion
 convert
+convert-dtexceptiontomessage
 convert-movietogif
 convert-sid
 convert-windowsimage
@@ -1810,7 +1814,6 @@ depute
 der
 description
 deserialize
-design
 desired
 desiredstate
 desiredstateconfiguration
@@ -1823,6 +1826,7 @@ detection
 detectionrule
 deutsch
 deutschland
+dev
 dev-tools
 devart
 devcenter
@@ -2048,7 +2052,11 @@ drive
 drive letter
 drivemap
 driver
+driverpacks
 drivers
+drivertool
+drivertool.powercli
+driverupdates
 drm
 drone.io
 drop
@@ -2335,6 +2343,7 @@ evolutionary-algorithms
 evolutionary-database
 evtx
 ews
+exact
 example
 examples
 excel
@@ -2755,6 +2764,11 @@ get-criticaltrippoint
 get-currentcputemperature
 get-dellwarranty
 get-directorycontents
+get-dtcmdevicemodel
+get-dtdriverpack
+get-dtdriverupdates
+get-dtscriptnewcmpackagefromdriverpackpackagedefinitionsms
+get-dtscriptnewcmtasksequencefromdriverpackpackagedefinitionsms
 get-emptyadgroups
 get-externalip
 get-firmwaretype
@@ -2774,6 +2788,7 @@ get-samplingperiod
 get-stalecomps
 get-staleusers
 get-thermalstamp
+get-uptime
 getfirmwareenvironmentvariable
 getfirmwaretype
 ggplot
@@ -2926,7 +2941,9 @@ hack
 hacking
 hacktoberfest
 hadoop
+hafr
 hailstone
+haipa
 halo
 haloitsm
 halopsa
@@ -2990,6 +3007,7 @@ heartbeatdiscovery
 heat
 heating
 heavenbay
+helium
 helix
 hello
 helloid
@@ -3232,6 +3250,7 @@ impersonation
 imperva
 import
 import-csv
+import-dtdriverpackpackagedefinitionsms
 import-modulefrompath
 import-passlist
 import-sampackagedefinitionsms
@@ -3352,6 +3371,9 @@ invoke-asadministrator
 invoke-ascurrentuser
 invoke-automation
 invoke-build
+invoke-dtdownloaddriverpack
+invoke-dtdownloaddriverupdates
+invoke-dtdrivertool
 invoke-msbuild
 invoke-msbuildpreprocess
 invoke-vsbuild
@@ -3480,8 +3502,6 @@ jsm.insight
 json
 json-converter
 json-transform
-json+
-jsonplus
 jsonwebkey
 jsonwebsignature
 jsonwebtoken
@@ -3952,6 +3972,7 @@ mct
 md5
 md5_v2-bec382e58a89ea94878fb65fed42770c
 mdatp
+mdb
 mdbc
 mde
 mdep
@@ -4155,6 +4176,8 @@ mp4
 mpc
 mpeg
 mpn
+mrfk
+mrfylke
 mrvl_fc_powerkit
 mrvlfcprovider
 ms_365
@@ -4344,6 +4367,8 @@ networkshares
 netwrix
 new
 new-completionresult
+new-dtcmpackagefromdriverpackpackagedefinitionsms
+new-dtcmtasksequencefromdriverpackpackagedefinitionsms
 new-dynamicdictionary
 new-dynamicparameter
 new-githubrelease
@@ -5170,6 +5195,7 @@ process
 processing
 processmitigation
 processor
+procmap
 procs
 producer
 product
@@ -8703,6 +8729,7 @@ saml2
 sample
 sampler
 san
+sand
 sandbox
 sanitization
 sanitizer
@@ -8863,6 +8890,7 @@ securitypolicydsc
 securityroles
 securityscopes
 securitytxt
+sed
 seed
 seek
 seekatar
@@ -9460,6 +9488,7 @@ supress-reboot
 surestacks
 surround
 survey
+surveymonkey
 sus
 sushi
 suspensive
@@ -9818,6 +9847,7 @@ treffynnon
 trein
 trello
 trellops
+trend
 trend-micro
 trendmicro
 trevor
@@ -9848,6 +9878,9 @@ tsa
 tsd
 tsheets
 tsqlbestpractice
+tst
+tst1
+tst3
 tsv
 ttrpg
 tts
@@ -9860,6 +9893,7 @@ tutorial
 tv
 tweet
 twig
+twilio
 twincat
 twinkly
 twitch
@@ -10550,10 +10584,12 @@ wrap
 wrap-text
 wrapper
 wrapperfunctions
+wrc
 wrike
 write
 write-ascii
 write-color
+write-colour
 write-debug
 write-host
 write-information

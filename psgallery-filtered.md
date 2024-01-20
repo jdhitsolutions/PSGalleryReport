@@ -3,6 +3,14 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [Intune.Graph](https://www.powershellgallery.com/Packages/Intune.Graph/0.0.33) | 0.0.33
+
+### Published: 01/20/2024 03:40:21 by Ken Johnson
+
+IntuneGraph is a PowerShell module that makes it easy to work with the Microsoft Graph API from PowerShell. It handles the HTTP connection, and provides an object-oriented wrapper around the Graph API endpoints. It also provides some additional functionality that makes working with Intune in the Graph API from PowerShell a breeze.
+
+__Downloads__: 39 | __Repository__: https://github.com/kenjohnson03/Intune.Graph
+
 ## [DisplayConfig](https://www.powershellgallery.com/Packages/DisplayConfig/1.0.1) | 1.0.1
 
 ### Published: 01/20/2024 00:57:26 by MartinGC94
@@ -17,7 +25,7 @@ __Downloads__: 1 | __Repository__: https://github.com/MartinGC94/DisplayConfig
 
 Interact with GitLab via PowerShell
 
-__Downloads__: 15,482 | __Repository__: https://github.com/chris-peterson/pwsh-gitlab
+__Downloads__: 15,480 | __Repository__: https://github.com/chris-peterson/pwsh-gitlab
 
 ## [AzureCodeSigning](https://www.powershellgallery.com/Packages/AzureCodeSigning/0.3.0) | 0.3.0
 
@@ -25,7 +33,7 @@ __Downloads__: 15,482 | __Repository__: https://github.com/chris-peterson/pwsh-g
 
 Enables the signing of a set of files with the Azure Code Signing service.
 
-__Downloads__: 11,773 | __Repository__: 
+__Downloads__: 11,772 | __Repository__: 
 
 ## [Diagrammer.Microsoft.AD](https://www.powershellgallery.com/Packages/Diagrammer.Microsoft.AD/0.1.1) | 0.1.1
 
@@ -73,7 +81,7 @@ __Downloads__: 334,123 | __Repository__: https://github.com/PKISharp/ACME-PS
 
 PowerShell module, which makes it easier to work with Business Central Containers on Docker.
 
-__Downloads__: 1,614,572 | __Repository__: 
+__Downloads__: 1,614,527 | __Repository__: 
 
 ## [PSComputerManagementZp](https://www.powershellgallery.com/Packages/PSComputerManagementZp/0.1.0) | 0.1.0
 
@@ -169,7 +177,7 @@ __Downloads__: 2 | __Repository__:
 
 Integrated CI/CD Solution for Microsoft Azure.
 
-__Downloads__: 1,838,738 | __Repository__: https://github.com/Azure/AzOps
+__Downloads__: 1,838,736 | __Repository__: https://github.com/Azure/AzOps
 
 ## [ArtifactoryCli](https://www.powershellgallery.com/Packages/ArtifactoryCli/0.0.3) | 0.0.3
 
@@ -185,7 +193,7 @@ __Downloads__: 40 | __Repository__: https://github.com/chris-peterson/pwsh-artif
 
 Catesta is a PowerShell module project generator. It uses templates to rapidly scaffold test and build integration for a variety of CI/CD platforms.
 
-__Downloads__: 2,794 | __Repository__: https://github.com/techthoughts2/Catesta
+__Downloads__: 2,801 | __Repository__: https://github.com/techthoughts2/Catesta
 
 ## [Office365DnsChecker](https://www.powershellgallery.com/Packages/Office365DnsChecker/2.0.0) | 2.0.0
 
@@ -217,7 +225,7 @@ __Downloads__: 1,379 | __Repository__: https://github.com/Azure/AzLoadBalancerMi
 
 Provides cmdlets to perform various TCPIP and TLS/SSL related tasks.
 
-__Downloads__: 2,818 | __Repository__: https://github.com/anthonyg-1/PSTcpIp
+__Downloads__: 2,820 | __Repository__: https://github.com/anthonyg-1/PSTcpIp
 
 ## [TurnKeySdn](https://www.powershellgallery.com/Packages/TurnKeySdn/0.0.17) | 0.0.17
 
@@ -281,7 +289,7 @@ __Downloads__: 3 | __Repository__: https://git.fs255.org/Scripts/AutoHotKey
 
 The Devolutions.PowerShell module is a set of cmdlets that allow administrators to manage Remote Desktop Manager, Devolutions Server and Devolutions Hub Business using PowerShell. This module provides a simple and consistent interface for interacting with these products, making it easy to automate various tasks, such as creating and managing connections, sessions, and credentials, configuring security settings, and generating reports. The module can be easily integrated with other PowerShell modules, allowing administrators to automate tasks across multiple products and platforms, streamline their workflows and increase efficiency.
 
-__Downloads__: 15,793 | __Repository__: https://devolutions.net/
+__Downloads__: 15,785 | __Repository__: https://devolutions.net/
 
 ## [PSQualityCheck](https://www.powershellgallery.com/Packages/PSQualityCheck/2.0.3) | 2.0.3
 
@@ -313,7 +321,7 @@ __Downloads__: 14 | __Repository__: https://www.etherassist.co.uk/
 
 This module contains public key infrastructure and certificate management functions. Support site: https://www.pkisolutions.com/tools/pspki/
 
-__Downloads__: 882,114 | __Repository__: https://www.pkisolutions.com/tools/pspki/
+__Downloads__: 882,130 | __Repository__: https://www.pkisolutions.com/tools/pspki/
 
 ## [M365DSC.CompositeResources](https://www.powershellgallery.com/Packages/M365DSC.CompositeResources/1.24.117.100) | 1.24.117.100
 
@@ -345,7 +353,7 @@ __Downloads__: 104 | __Repository__:
 
 PowerShell functions to manage a JumpCloud Directory-as-a-Service
 
-__Downloads__: 5,874,279 | __Repository__: https://github.com/TheJumpCloud/support/wiki
+__Downloads__: 5,874,278 | __Repository__: https://github.com/TheJumpCloud/support/wiki
 
 ## [Test-NETHLK](https://www.powershellgallery.com/Packages/Test-NETHLK/2024.1.17.83) | 2024.1.17.83
 
@@ -415,7 +423,7 @@ __Downloads__: 17 | __Repository__:
 
 Automation tools for production quality database deployment
 
-__Downloads__: 4,986,334 | __Repository__: https://www.red-gate.com/sca/productpage
+__Downloads__: 4,986,281 | __Repository__: https://www.red-gate.com/sca/productpage
 
 ## [AzureUserStuff](https://www.powershellgallery.com/Packages/AzureUserStuff/1.0.1) | 1.0.1
 
@@ -567,7 +575,7 @@ __Downloads__: 2,498 | __Repository__:
 
 Tools for installing and manage the OutSystems platform installation
 
-__Downloads__: 150,559 | __Repository__: https://github.com/OutSystems/OutSystems.SetupTools
+__Downloads__: 150,558 | __Repository__: https://github.com/OutSystems/OutSystems.SetupTools
 
 ## [JSDR.Configuration](https://www.powershellgallery.com/Packages/JSDR.Configuration/5.1.2) | 5.1.2
 
@@ -591,7 +599,7 @@ __Downloads__: 943 | __Repository__: https://www.lieben.nu/liebensraum/2022/05/a
 
 Microsoft-Extractor-Suite is a fully-featured, actively-maintained, Powershell tool designed to streamline the process of collecting all necessary data and information from various sources within Microsoft.
 
-__Downloads__: 620 | __Repository__: 
+__Downloads__: 621 | __Repository__: 
 
 ## [WITSQLtools](https://www.powershellgallery.com/Packages/WITSQLtools/1.3.0.0) | 1.3.0.0
 
@@ -607,7 +615,7 @@ __Downloads__: 6 | __Repository__:
 
 A module for authoring and building PowerShell modules
 
-__Downloads__: 135,269 | __Repository__: https://github.com/PoshCode/ModuleBuilder
+__Downloads__: 135,270 | __Repository__: https://github.com/PoshCode/ModuleBuilder
 
 ## [MASES.JNetPS](https://www.powershellgallery.com/Packages/MASES.JNetPS/2.2.0) | 2.2.0
 
@@ -627,7 +635,7 @@ __Downloads__: 115 | __Repository__: https://github.com/masesgroup/JNet
 
 A PowerShell module to generate an as built report on the configuration of Veeam VBR.
 
-__Downloads__: 4,018 | __Repository__: https://github.com/AsBuiltReport/AsBuiltReport.Veeam.VBR
+__Downloads__: 4,017 | __Repository__: https://github.com/AsBuiltReport/AsBuiltReport.Veeam.VBR
 
 ## [UiPathOrch](https://www.powershellgallery.com/Packages/UiPathOrch/0.8.1.1) | 0.8.1.1
 
@@ -635,7 +643,7 @@ __Downloads__: 4,018 | __Repository__: https://github.com/AsBuiltReport/AsBuiltR
 
 Provider for Orchestrator entities.
 
-__Downloads__: 97 | __Repository__: 
+__Downloads__: 96 | __Repository__: 
 
 ## [Export-Bitwarden](https://www.powershellgallery.com/Packages/Export-Bitwarden/1.37) | 1.37
 
@@ -659,7 +667,7 @@ __Downloads__: 4 | __Repository__: https://gitlab.com/xgqt/xgqt-lang-lib-simplel
 
 Scripting tools for interacting with the One Identity Safeguard Web API.
 
-__Downloads__: 15,273 | __Repository__: https://github.com/OneIdentity/safeguard-ps
+__Downloads__: 15,272 | __Repository__: https://github.com/OneIdentity/safeguard-ps
 
 ## [Tenable.Tools](https://www.powershellgallery.com/Packages/Tenable.Tools/1.1.0) | 1.1.0
 
@@ -1780,7 +1788,7 @@ __Downloads__: 27 | __Repository__: https://github.com/jhoek/UncommonSense.Zip.U
 
 Mdbc module - MongoDB Cmdlets for PowerShell
 
-__Downloads__: 1,065,810 | __Repository__: https://github.com/nightroman/Mdbc
+__Downloads__: 1,065,813 | __Repository__: https://github.com/nightroman/Mdbc
 
 ## [BinaryTree.Internal.Power365.Dev](https://www.powershellgallery.com/Packages/BinaryTree.Internal.Power365.Dev/20.12.13.12816) | 20.12.13.12816
 
@@ -1836,7 +1844,7 @@ __Downloads__: 306 | __Repository__:
 
 Master module for a collection of modules. These modules are varied in their tasks. The overall purpose of them being to provide a powerfull Toolset to improve IT Admin workflows.
 
-__Downloads__: 33,400 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox
+__Downloads__: 33,401 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox
 
 ## [AdminToolbox.FortiWizard](https://www.powershellgallery.com/Packages/AdminToolbox.FortiWizard/2.18.33) | 2.18.33
 
@@ -1852,7 +1860,7 @@ __Downloads__: 12,847 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions to Automate Bulk VMWare Tasks
 
-__Downloads__: 19,629 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 19,632 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [PKIMAN](https://www.powershellgallery.com/Packages/PKIMAN/1.0.0) | 1.0.0
 
@@ -1868,7 +1876,7 @@ __Downloads__: 4 | __Repository__:
 
 Functions for remote management and access.
 
-__Downloads__: 19,456 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 19,459 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.Office365](https://www.powershellgallery.com/Packages/AdminToolbox.Office365/3.1.77) | 3.1.77
 
@@ -1884,7 +1892,7 @@ __Downloads__: 21,073 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Network Troubleshooting Functions
 
-__Downloads__: 49,584 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 49,580 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.MSGraph](https://www.powershellgallery.com/Packages/AdminToolbox.MSGraph/1.2.127) | 1.2.127
 
@@ -1892,7 +1900,7 @@ __Downloads__: 49,584 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Microsoft Graph interactive API Functions
 
-__Downloads__: 9,737 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 9,738 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.Fun](https://www.powershellgallery.com/Packages/AdminToolbox.Fun/1.6.128) | 1.6.128
 
@@ -1900,7 +1908,7 @@ __Downloads__: 9,737 | __Repository__: https://github.com/TheTaylorLee/AdminTool
 
 Functions that have no purpose
 
-__Downloads__: 19,696 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 19,700 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.FileManagement](https://www.powershellgallery.com/Packages/AdminToolbox.FileManagement/1.15.118) | 1.15.118
 
@@ -1932,7 +1940,7 @@ __Downloads__: 21,436 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions for management of endpoints
 
-__Downloads__: 24,741 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 24,737 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.ActiveDirectory](https://www.powershellgallery.com/Packages/AdminToolbox.ActiveDirectory/1.9.125) | 1.9.125
 
@@ -1940,7 +1948,7 @@ __Downloads__: 24,741 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions for Active Directory
 
-__Downloads__: 24,398 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 24,393 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AzureADStuff](https://www.powershellgallery.com/Packages/AzureADStuff/1.1.2) | 1.1.2
 
@@ -2102,12 +2110,4 @@ Install and run BrowserBox remote browser isolation on Windows. Windows Server i
 
 __Downloads__: 70 | __Repository__: https://dosyago.com/
 
-## [Testimo](https://www.powershellgallery.com/Packages/Testimo/0.0.87) | 0.0.87
-
-### Published: 01/15/2024 15:44:09 by Przemyslaw Klys
-
-Testimo is Powershell module that tests Active Directory against specific set of tests.
-
-__Downloads__: 58,716 | __Repository__: https://github.com/EvotecIT/Testimo
-
-*Updated: Saturday, 20 January 2024 02:05:54 UTC*
+*Updated: Saturday, 20 January 2024 09:52:18 UTC*
