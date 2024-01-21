@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Sunday, 21 January 2024 09:53:32 UTC
+Updated: Sunday, 21 January 2024 17:52:34 UTC
 
 .bat
 .env
@@ -236,7 +236,6 @@ agenda
 agent
 aggregates
 aggregation
-agile
 agility
 agm
 agnoster
@@ -300,6 +299,8 @@ amateur-data-interchange-format
 amateur-radio
 amateurradio
 amazon
+amazonaws
+amazonmgn
 amazonwebservices
 amend
 ami
@@ -628,6 +629,7 @@ aznetworkinterface
 aznicdetails
 azops
 azpublicipaddress
+azresources
 azsdk
 azsk
 azsql
@@ -692,6 +694,7 @@ azurepolicy
 azurepowershell
 azurerepos
 azureresourcemanager
+azureresources
 azurerestapispecs
 azurerm
 azurerms
@@ -1234,7 +1237,6 @@ cmdb
 cmdkey
 cmdlet
 cmdlets
-cmdstan
 cmgroupdiscovery
 cmhealth
 cmhealthcheck
@@ -1510,6 +1512,7 @@ cqdpowershell
 cqhttp
 crack psmodule
 crash
+crawler
 crayon
 crc
 crc32
@@ -1585,6 +1588,7 @@ culture
 cumulative
 cumulativeupdate
 cumulocity
+curious
 curl
 curlie
 currency
@@ -1739,6 +1743,7 @@ dbops
 dbpool
 dbup
 dbwebapi
+dc
 dcim
 dcim_b324
 dcom
@@ -1771,6 +1776,7 @@ deepl
 deepvisibility
 def
 default
+defaultparameter
 defaultroutes
 defaults
 defence
@@ -1795,6 +1801,8 @@ demand
 demo
 democratie
 demonstration
+demultiplex
+demultiplexing
 dependencies
 dependency
 deploy
@@ -1819,6 +1827,7 @@ detection
 detectionrule
 deutsch
 deutschland
+dev
 dev-tools
 devart
 devcenter
@@ -2109,6 +2118,7 @@ dvls
 dword
 dxexpeditions
 dynamic
+dynamic-host-configuration-protocol
 dynamicdistributiongroups
 dynamicdnsoverhttps
 dynamicparam
@@ -2405,6 +2415,7 @@ extended
 extendedattributes
 extendedevents
 extendedproperties
+extendedproperty
 extendscript
 extensibility
 extension
@@ -2414,6 +2425,7 @@ extensions
 external
 externalip
 extract
+extraction
 extractor
 extreme-networks
 eztheme
@@ -2471,24 +2483,16 @@ fieldglass
 fifa
 figlet
 file
-file-association
 file-copy
 file-encoding
-file-extension
-file-extension-association
 file-invalidchar
 file-matcher
 file-matching
 file-monitoring
-file-name
-file-name-extension
-file-name-extension-association
 file-server
 file-share
 file-system
 file-transform
-file-type
-file-type-association
 fileattributes
 fileencryption
 filelist
@@ -2615,7 +2619,6 @@ formatformat-tableformat-listformat-wideformat-customformat-defaultout-defaultou
 formatting
 forms
 fortiauth
-forticlient
 fortify
 fortifyondemand
 fortigate
@@ -2959,6 +2962,7 @@ hardlink
 hardmatch
 hardware
 harperdb
+hartokens
 harvest
 harvestforecast
 hash
@@ -3643,7 +3647,6 @@ lcminternals
 ldap
 leafs
 league
-lean
 learn
 learn-powershell
 learn-powershell-series
@@ -4030,6 +4033,7 @@ metrics
 metrolink
 mfa
 mga
+mgn
 mi
 micro-orm
 microfocus
@@ -4091,7 +4095,6 @@ mindmeister
 minecraft
 miniconda
 minifier
-minimal
 minimum
 mip
 mipsdk
@@ -4114,6 +4117,7 @@ mmdc
 mobile
 mobilenetwork
 mobilitycontroller
+mock
 mocking
 model
 modeling
@@ -4919,6 +4923,7 @@ ply
 pmp
 pncit
 pnp
+pnpm
 pode
 poe
 poem
@@ -5032,6 +5037,7 @@ poshy-wrap-vagrant
 poshy-wrap-vault
 poshy-wrap-vscode
 poshy-wrap-wget
+poshy-wrap-wt
 poshy-wrap-yum
 poshy-wrap-zypper
 position
@@ -5132,6 +5138,7 @@ pq
 pranks
 predicate
 prediction
+predictive
 predictive-text
 predictor
 preferences
@@ -5197,7 +5204,6 @@ profiler
 profiles
 proget
 program
-program-association
 programs
 progress
 progressbar
@@ -5239,6 +5245,7 @@ proxmox
 proxmoxve
 proxsys
 proxy
+proxyfunction
 proxyfunctions
 prtg
 prtg_network_monitor
@@ -6683,6 +6690,8 @@ pscommand_new-gitbranchtracked
 pscommand_new-gitpatchfile
 pscommand_new-isofile
 pscommand_new-viewerinvocationfunction
+pscommand_new-windowsterminalpane
+pscommand_new-windowsterminaltab
 pscommand_nginx_reload
 pscommand_nginx_restart
 pscommand_nginx_start
@@ -7944,6 +7953,8 @@ psfunction_new-gitbranchtracked
 psfunction_new-gitpatchfile
 psfunction_new-isofile
 psfunction_new-viewerinvocationfunction
+psfunction_new-windowsterminalpane
+psfunction_new-windowsterminaltab
 psfunction_nginx_reload
 psfunction_nginx_restart
 psfunction_nginx_start
@@ -8546,6 +8557,7 @@ resourceaccount
 resourcecontroller
 resourcegraph
 resourcegroup
+resourceid
 resourcekit
 resourcemanager
 resourcemover
@@ -8565,6 +8577,7 @@ retention
 retro
 retry
 returnuserprofile
+retype
 reuse
 reverse-engineer
 reverse-string
@@ -8587,6 +8600,7 @@ rfc826
 rfc9116
 rg
 rgb
+rhapsody
 ribbon
 ribcl
 rightjoin
@@ -9101,7 +9115,6 @@ skytap
 slack
 slash
 slashcommands
-slmgr
 sln
 slugify
 sm
@@ -9256,6 +9269,7 @@ spotify-api
 spotlight
 spotlightimages
 spp
+spread
 spreadsheet
 spring
 spring-boot
@@ -9335,13 +9349,10 @@ stackoverflow
 staffhub
 staging
 stale
-stan
-stanc
 standalone
 standard
 standarderror
 standardoutput
-stansummary
 start
 start-job
 start-jobthread
@@ -9504,6 +9515,7 @@ syntax
 syntax-highlighting
 syntaxcheck
 syntaxhighlighter
+synthesis
 synthetics
 sysadmin
 sysadmin-tool
@@ -9740,6 +9752,8 @@ tip
 tips
 title
 tls
+tls11
+tls12
 tlsa
 tlsprotocol
 tlsrpt
@@ -9777,6 +9791,7 @@ totp
 touch
 toughswitch
 tphubps
+tpm
 tr-064
 tr064
 trace
@@ -9799,6 +9814,8 @@ transact
 transaction
 transactions
 transcode
+transcript
+transcripts
 transform
 transformation
 transforms
@@ -9816,6 +9833,7 @@ trec
 tree
 tree-structure
 treesize
+treffynnon
 trein
 trello
 trellops
@@ -9910,6 +9928,7 @@ ud-component
 ud-confetti
 ud-control
 ud-dashboard
+ud-datepicker
 ud-field
 ud-flexytable
 ud-funnel
@@ -10079,7 +10098,6 @@ utm
 uudecode
 uuencode
 uuid
-uup
 uw
 uwp
 ux
@@ -10105,6 +10123,7 @@ vault
 vaultextension
 vaultstore
 vaultwarden
+vb365
 vba
 vbaproject
 vbproj
@@ -10378,6 +10397,7 @@ wget
 what3words
 whatismyip
 whatsnew
+whatsupgold
 whd
 where
 whfb
@@ -10426,6 +10446,7 @@ windows-powershell
 windows-registry
 windows-remoting
 windows-server-2016
+windows-terminal
 windows-user-folder
 windows-user-profile
 windows10
@@ -10588,6 +10609,7 @@ wttr
 wttr.in
 wtx
 wu
+wug
 wunderlist
 wus
 wvd

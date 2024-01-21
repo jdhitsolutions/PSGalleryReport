@@ -3,6 +3,70 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [DscResource.DocGenerator](https://www.powershellgallery.com/Packages/DscResource.DocGenerator/0.12.1) | 0.12.1
+
+### Published: 01/21/2024 17:35:27 by DSC Community
+
+Functionality to help generate documentation for modules.
+
+__Downloads__: 21,048 | __Repository__: https://github.com/dsccommunity/DscResource.DocGenerator
+
+## [Permission](https://www.powershellgallery.com/Packages/Permission/0.0.72) | 0.0.72
+
+### Published: 01/21/2024 16:38:16 by Jeremy La Camera
+
+Module for working with Access Control Lists
+
+__Downloads__: 497 | __Repository__: 
+
+## [PsNtfs](https://www.powershellgallery.com/Packages/PsNtfs/2.0.78) | 2.0.78
+
+### Published: 01/21/2024 16:37:42 by Jeremy La Camera
+
+Work with the contents of NTFS volumes
+
+__Downloads__: 497 | __Repository__: 
+
+## [PsRunspace](https://www.powershellgallery.com/Packages/PsRunspace/1.0.104) | 1.0.104
+
+### Published: 01/21/2024 16:12:58 by Jeremy La Camera
+
+Module for multithreading PowerShell commands using .Net Runspaces
+
+__Downloads__: 364 | __Repository__: 
+
+## [Adsi](https://www.powershellgallery.com/Packages/Adsi/4.0.6) | 4.0.6
+
+### Published: 01/21/2024 16:12:25 by Jeremy La Camera
+
+Use Active Directory Service Interfaces to query LDAP and WinNT directories
+
+__Downloads__: 1,131 | __Repository__: 
+
+## [PS2BAT](https://www.powershellgallery.com/Packages/PS2BAT/1.0.0) | 1.0.0
+
+### Published: 01/21/2024 14:17:53 by Codepulze
+
+Converts PowerShell Code into Batch file using Encoded Method
+
+__Downloads__: 2 | __Repository__: 
+
+## [PowerShellAIAssistant](https://www.powershellgallery.com/Packages/PowerShellAIAssistant/0.1.4) | 0.1.4
+
+### Published: 01/21/2024 13:44:19 by Douglas Finke
+
+PowerShellAIAssistant integrates OpenAI's AI Assistants into PowerShell, leveraging advanced AI capabilities in your PowerShell scripts for dynamic, intelligent automation and data processing
+
+__Downloads__: 85 | __Repository__: https://github.com/dfinke/PowerShellAIAssistant
+
+## [D365BCAppHelper](https://www.powershellgallery.com/Packages/D365BCAppHelper/0.0.0.29) | 0.0.0.29
+
+### Published: 01/21/2024 11:12:39 by SimonOfHH
+
+Helper for D365 BC App Handling
+
+__Downloads__: 3,472 | __Repository__: 
+
 ## [PowerLFM](https://www.powershellgallery.com/Packages/PowerLFM/2.3.2) | 2.3.2
 
 ### Published: 01/21/2024 09:49:49 by John Steele
@@ -43,14 +107,6 @@ Connect to Netbox API with Token and manage its resources.
 
 __Downloads__: 0 | __Repository__: 
 
-## [DscResource.DocGenerator](https://www.powershellgallery.com/Packages/DscResource.DocGenerator/0.12.0) | 0.12.0
-
-### Published: 01/21/2024 08:35:36 by DSC Community
-
-Functionality to help generate documentation for modules.
-
-__Downloads__: 21,048 | __Repository__: https://github.com/dsccommunity/DscResource.DocGenerator
-
 ## [AutomateNOW](https://www.powershellgallery.com/Packages/AutomateNOW/1.0.10) | 1.0.10
 
 ### Published: 01/21/2024 05:14:25 by AutomateNOW-Fan
@@ -59,14 +115,6 @@ Interact with the API of an AutomateNOW! instance
 
 __Downloads__: 59 | __Repository__: https://github.com/AutomateNOW-Fan/AutomateNOW
 
-## [Permission](https://www.powershellgallery.com/Packages/Permission/0.0.69) | 0.0.69
-
-### Published: 01/21/2024 04:07:27 by Jeremy La Camera
-
-Module for working with Access Control Lists
-
-__Downloads__: 497 | __Repository__: 
-
 ## [PsBootstrapCss](https://www.powershellgallery.com/Packages/PsBootstrapCss/1.0.28) | 1.0.28
 
 ### Published: 01/21/2024 01:26:16 by Jeremy La Camera
@@ -74,22 +122,6 @@ __Downloads__: 497 | __Repository__:
 Use the Bootstrap CSS library to generate advanced HTML
 
 __Downloads__: 1,096 | __Repository__: 
-
-## [PsNtfs](https://www.powershellgallery.com/Packages/PsNtfs/2.0.73) | 2.0.73
-
-### Published: 01/21/2024 01:24:15 by Jeremy La Camera
-
-Work with the contents of NTFS volumes
-
-__Downloads__: 497 | __Repository__: 
-
-## [PowerShellAIAssistant](https://www.powershellgallery.com/Packages/PowerShellAIAssistant/0.1.3) | 0.1.3
-
-### Published: 01/21/2024 01:18:33 by Douglas Finke
-
-PowerShellAIAssistant integrates OpenAI's AI Assistants into PowerShell, leveraging advanced AI capabilities in your PowerShell scripts for dynamic, intelligent automation and data processing
-
-__Downloads__: 85 | __Repository__: https://github.com/dfinke/PowerShellAIAssistant
 
 ## [Confirm-TFVars](https://www.powershellgallery.com/Packages/Confirm-TFVars/0.0.5) | 0.0.5
 
@@ -243,7 +275,7 @@ __Downloads__: 334,140 | __Repository__: https://github.com/PKISharp/ACME-PS
 
 PowerShell module, which makes it easier to work with Business Central Containers on Docker.
 
-__Downloads__: 1,616,170 | __Repository__: 
+__Downloads__: 1,616,145 | __Repository__: 
 
 ## [PSComputerManagementZp](https://www.powershellgallery.com/Packages/PSComputerManagementZp/0.1.0) | 0.1.0
 
@@ -339,7 +371,7 @@ __Downloads__: 2 | __Repository__:
 
 Integrated CI/CD Solution for Microsoft Azure.
 
-__Downloads__: 1,841,292 | __Repository__: https://github.com/Azure/AzOps
+__Downloads__: 1,841,289 | __Repository__: https://github.com/Azure/AzOps
 
 ## [ArtifactoryCli](https://www.powershellgallery.com/Packages/ArtifactoryCli/0.0.3) | 0.0.3
 
@@ -515,7 +547,7 @@ __Downloads__: 107 | __Repository__:
 
 PowerShell functions to manage a JumpCloud Directory-as-a-Service
 
-__Downloads__: 5,874,577 | __Repository__: https://github.com/TheJumpCloud/support/wiki
+__Downloads__: 5,874,576 | __Repository__: https://github.com/TheJumpCloud/support/wiki
 
 ## [Test-NETHLK](https://www.powershellgallery.com/Packages/Test-NETHLK/2024.1.17.83) | 2024.1.17.83
 
@@ -585,7 +617,7 @@ __Downloads__: 17 | __Repository__:
 
 Automation tools for production quality database deployment
 
-__Downloads__: 4,988,193 | __Repository__: https://www.red-gate.com/sca/productpage
+__Downloads__: 4,988,162 | __Repository__: https://www.red-gate.com/sca/productpage
 
 ## [AzureUserStuff](https://www.powershellgallery.com/Packages/AzureUserStuff/1.0.1) | 1.0.1
 
@@ -1994,7 +2026,7 @@ __Downloads__: 33,571 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions that generate configuration scripts and manage FortiOS.
 
-__Downloads__: 12,994 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 12,992 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.VMWareAutomate](https://www.powershellgallery.com/Packages/AdminToolbox.VMWareAutomate/4.8.124) | 4.8.124
 
@@ -2002,7 +2034,7 @@ __Downloads__: 12,994 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions to Automate Bulk VMWare Tasks
 
-__Downloads__: 19,808 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 19,803 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.Remoting](https://www.powershellgallery.com/Packages/AdminToolbox.Remoting/1.9.127) | 1.9.127
 
@@ -2010,15 +2042,7 @@ __Downloads__: 19,808 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions for remote management and access.
 
-__Downloads__: 19,635 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-## [PKIMAN](https://www.powershellgallery.com/Packages/PKIMAN/1.0.0) | 1.0.0
-
-### Published: 01/16/2024 14:16:02 by Axel Mauchand
-
-A tool to create request, issue and manage certificates in an AD CS environment.
-
-__Downloads__: 4 | __Repository__: 
+__Downloads__: 19,630 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.Office365](https://www.powershellgallery.com/Packages/AdminToolbox.Office365/3.1.77) | 3.1.77
 
@@ -2026,7 +2050,7 @@ __Downloads__: 4 | __Repository__:
 
 Functions for working with Office365 and Azure modules
 
-__Downloads__: 21,249 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 21,246 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.Networking](https://www.powershellgallery.com/Packages/AdminToolbox.Networking/2.18.35) | 2.18.35
 
@@ -2042,30 +2066,6 @@ __Downloads__: 50,021 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Microsoft Graph interactive API Functions
 
-__Downloads__: 9,885 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 9,881 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
-## [AdminToolbox.Fun](https://www.powershellgallery.com/Packages/AdminToolbox.Fun/1.6.128) | 1.6.128
-
-### Published: 01/16/2024 14:15:36 by Taylor Lee
-
-Functions that have no purpose
-
-__Downloads__: 19,882 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-## [AdminToolbox.FileManagement](https://www.powershellgallery.com/Packages/AdminToolbox.FileManagement/1.15.118) | 1.15.118
-
-### Published: 01/16/2024 14:15:30 by Taylor Lee
-
-File Management Functions
-
-__Downloads__: 20,555 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-## [AdminToolbox.FFTools](https://www.powershellgallery.com/Packages/AdminToolbox.FFTools/4.16.77) | 4.16.77
-
-### Published: 01/16/2024 14:15:25 by Taylor Lee
-
-Expedite simple ffmpeg actions
-
-__Downloads__: 20,445 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-*Updated: Sunday, 21 January 2024 09:53:23 UTC*
+*Updated: Sunday, 21 January 2024 17:52:25 UTC*
