@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 22 January 2024 02:10:14 UTC
+Updated: Monday, 22 January 2024 09:52:34 UTC
 
 .bat
 .env
@@ -294,7 +294,6 @@ alter
 alteryx
 alwaysontop
 alwaysonvpn
-alz
 amateur
 amateur-data-interchange-format
 amateur-radio
@@ -760,7 +759,6 @@ bbp
 bc
 bcd
 bcdedit
-bcdr
 bd
 bdd
 bds
@@ -1341,11 +1339,9 @@ component
 composer
 composite
 compositeresource
-compoundproperty
 compress
 compression
 compute
-computecloudatcustomer
 computeinstanceagent
 computer
 computer-site
@@ -1401,7 +1397,6 @@ connectivity
 connectwise
 conservation
 console
-consoleguitools
 consolemenu
 consolemusic
 consumer
@@ -1588,7 +1583,6 @@ culture
 cumulative
 cumulativeupdate
 cumulocity
-curious
 curl
 curlie
 currency
@@ -1685,7 +1679,6 @@ datacollectionrule
 dataconduit
 dataconnectivity
 datadog
-dataexchange
 dataexplorer
 datafactory
 dataflow
@@ -2267,7 +2260,6 @@ epicor
 episode
 epplus
 eprosima
-epub
 epv
 equality
 erb
@@ -2588,6 +2580,7 @@ fleetsoftwareupdate
 flex
 flex-query
 flexdesk
+flickr
 flowchart
 flowy
 fluidrelay
@@ -2821,7 +2814,6 @@ githubactions
 githubcli
 githubtools
 githubworkflow
-gitignore
 gitlab
 gitlab-runner
 gitlab4
@@ -2919,7 +2911,6 @@ gtx1080ti
 guardedfabric
 guardicore
 gubbins
-guest
 guestconfiguration
 guests
 gui
@@ -3442,10 +3433,7 @@ it-tool
 it-tools
 italic-text
 item
-itemlist
-itemobject
 items
-itemstack
 iterate
 iteration
 itg
@@ -3602,7 +3590,6 @@ kudu
 kurukuru
 kusto
 kvm
-kvp
 l1tf
 l2tp
 lab
@@ -3624,7 +3611,6 @@ lame
 lametrictime
 lamp
 lan
-landingzones
 language
 languagedsc
 languageexperiencepack
@@ -3655,6 +3641,7 @@ lcminternals
 ldap
 leafs
 league
+lean
 learn
 learn-powershell
 learn-powershell-series
@@ -4102,6 +4089,7 @@ mindmeister
 minecraft
 miniconda
 minifier
+minimal
 minimum
 mip
 mipsdk
@@ -4510,7 +4498,6 @@ obs
 observeit
 oce
 ocg
-ocgv
 oci
 ocicontrolcenter
 ocr
@@ -4634,6 +4621,7 @@ operationsmanagementsuiteagent
 operationvalidation
 operatoraccesscontrol
 opml
+ops
 opsi
 opsmgr
 optics
@@ -4783,6 +4771,7 @@ passwordexpiration
 passwordexpiry
 passwordgeneration
 passwordgenerator
+passwordgenerators
 passwordhashing
 passwordlock
 passwordlockoutreport
@@ -5095,7 +5084,6 @@ powershell-github-repo
 powershell-gitlab
 powershell-graphql
 powershell-isprime
-powershell-lightning
 powershell-module
 powershell-modules
 powershell-releases-api
@@ -8393,7 +8381,6 @@ react-stockcharts
 read
 read-slog
 readable
-reader
 readiness
 readme
 readpdf
@@ -8583,7 +8570,6 @@ retention
 retro
 retry
 returnuserprofile
-retype
 reuse
 reverse-engineer
 reverse-string
@@ -9539,7 +9525,6 @@ syslog
 sysman
 sysmon
 sysop
-syspass
 syspip
 syspip3
 sysprep
@@ -9878,9 +9863,6 @@ tsa
 tsd
 tsheets
 tsqlbestpractice
-tst
-tst1
-tst3
 tsv
 ttrpg
 tts
@@ -10099,6 +10081,7 @@ utf-sig
 utf7
 utf8
 utf8-sig
+utf8bom
 util
 utilities
 utility
@@ -10407,7 +10390,6 @@ wget
 what3words
 whatismyip
 whatsnew
-whatsupgold
 whd
 where
 whfb
@@ -10602,7 +10584,6 @@ writeaccess
 writelog
 writemanager
 writeprogress
-writer
 ws-federation
 wsapi
 wsb
@@ -10619,7 +10600,6 @@ wttr
 wttr.in
 wtx
 wu
-wug
 wunderlist
 wus
 wvd
