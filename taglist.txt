@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 22 January 2024 09:52:34 UTC
+Updated: Monday, 22 January 2024 17:52:48 UTC
 
 .bat
 .env
@@ -72,7 +72,6 @@ aatp
 abc
 abc_testing
 abe
-about
 abr
 abstractsyntaxtree
 abuse
@@ -294,11 +293,14 @@ alter
 alteryx
 alwaysontop
 alwaysonvpn
+alz
 amateur
 amateur-data-interchange-format
 amateur-radio
 amateurradio
 amazon
+amazonaws
+amazonmgn
 amazonwebservices
 amend
 ami
@@ -511,6 +513,7 @@ atom
 atp
 atrium
 att&ck
+attach
 attestation
 attila
 attribute
@@ -613,7 +616,6 @@ axium
 az
 az-cli
 az.stackhci
-azautomation
 azcli
 azcompute
 azd
@@ -621,7 +623,6 @@ azdisk
 azdo
 azereo
 azforensics
-azkeyvault
 aznetworking
 aznetworkinterface
 aznicdetails
@@ -759,6 +760,7 @@ bbp
 bc
 bcd
 bcdedit
+bcdr
 bd
 bdd
 bds
@@ -1339,9 +1341,11 @@ component
 composer
 composite
 compositeresource
+compoundproperty
 compress
 compression
 compute
+computecloudatcustomer
 computeinstanceagent
 computer
 computer-site
@@ -1397,6 +1401,7 @@ connectivity
 connectwise
 conservation
 console
+consoleguitools
 consolemenu
 consolemusic
 consumer
@@ -1583,6 +1588,7 @@ culture
 cumulative
 cumulativeupdate
 cumulocity
+curious
 curl
 curlie
 currency
@@ -1612,7 +1618,6 @@ customlogs
 customproviders
 cutehttpfileserver
 cvad
-cve
 cve-2021-34527
 cvrf
 cvss
@@ -1679,6 +1684,7 @@ datacollectionrule
 dataconduit
 dataconnectivity
 datadog
+dataexchange
 dataexplorer
 datafactory
 dataflow
@@ -2001,7 +2007,6 @@ dok
 dokuwiki
 domain
 domainkey
-domainname
 domainnamesystem
 domains
 domino
@@ -2238,6 +2243,7 @@ enterprisevoice
 entity
 entityframework
 entra
+entra-id
 entraid
 entropy
 enum
@@ -2260,6 +2266,7 @@ epicor
 episode
 epplus
 eprosima
+epub
 epv
 equality
 erb
@@ -2333,6 +2340,7 @@ evernote
 everydaypowershell
 everydayrewards
 everything
+evilprince2009
 evolutionary-algorithms
 evolutionary-database
 evtx
@@ -2388,7 +2396,6 @@ expired
 expiring
 expiry
 exploit
-exploits
 exploration
 explorer
 exponentiation
@@ -2501,7 +2508,6 @@ filelogger
 filemanagement
 filematcher
 filename
-filenames
 fileproperties
 filereplication
 files
@@ -2814,6 +2820,7 @@ githubactions
 githubcli
 githubtools
 githubworkflow
+gitignore
 gitlab
 gitlab-runner
 gitlab4
@@ -2911,6 +2918,7 @@ gtx1080ti
 guardedfabric
 guardicore
 gubbins
+guest
 guestconfiguration
 guests
 gui
@@ -3014,7 +3022,6 @@ helper
 helper-functions
 helperfunctions
 helpers
-helpfile
 heml
 here
 hewlett
@@ -3433,8 +3440,10 @@ it-tool
 it-tools
 italic-text
 item
+itemlist
+itemobject
 items
-iterate
+itemstack
 iteration
 itg
 itglue
@@ -3590,6 +3599,7 @@ kudu
 kurukuru
 kusto
 kvm
+kvp
 l1tf
 l2tp
 lab
@@ -3611,6 +3621,7 @@ lame
 lametrictime
 lamp
 lan
+landingzones
 language
 languagedsc
 languageexperiencepack
@@ -3883,7 +3894,6 @@ manage-wmi
 manageability
 managed-identity
 manageddisks
-managedidentities
 managedidentity
 managedserviceidenity
 managedserviceidentity
@@ -4028,6 +4038,7 @@ metrics
 metrolink
 mfa
 mga
+mgn
 mi
 micro-orm
 microfocus
@@ -4164,8 +4175,6 @@ mp4
 mpc
 mpeg
 mpn
-mrfk
-mrfylke
 mrvl_fc_powerkit
 mrvlfcprovider
 ms_365
@@ -4393,7 +4402,6 @@ ninja
 ninjaone
 ninjarmm
 nios
-nist
 nitro
 nitrox
 njclipsh
@@ -4470,7 +4478,6 @@ nuspec
 nutanix
 nuwave
 nva
-nvd
 nvdimm
 nvdimm-n
 nvm
@@ -4498,6 +4505,7 @@ obs
 observeit
 oce
 ocg
+ocgv
 oci
 ocicontrolcenter
 ocr
@@ -4771,7 +4779,6 @@ passwordexpiration
 passwordexpiry
 passwordgeneration
 passwordgenerator
-passwordgenerators
 passwordhashing
 passwordlock
 passwordlockoutreport
@@ -4897,7 +4904,6 @@ planner
 plantuml
 plaster
 platform
-platyps
 play
 playback
 playbook
@@ -5084,6 +5090,7 @@ powershell-github-repo
 powershell-gitlab
 powershell-graphql
 powershell-isprime
+powershell-lightning
 powershell-module
 powershell-modules
 powershell-releases-api
@@ -5136,6 +5143,7 @@ predictive-text
 predictor
 preferences
 prefix
+prefixing
 preparead
 preparealldomains
 prepareschema
@@ -8144,7 +8152,6 @@ psini
 psinsight
 psintune
 psise
-psitem
 psjob
 psjobs
 psjobthreads
@@ -8381,6 +8388,7 @@ react-stockcharts
 read
 read-slog
 readable
+reader
 readiness
 readme
 readpdf
@@ -8452,8 +8460,6 @@ regions
 regiser-argumentcompleter
 register
 register-argumentcompleter
-registered
-registrar
 registration
 registry
 regression
@@ -8570,6 +8576,7 @@ retention
 retro
 retry
 returnuserprofile
+retype
 reuse
 reverse-engineer
 reverse-string
@@ -8828,9 +8835,7 @@ search
 search-adminauditlog
 search-engines
 searchengine
-searcher
 searching
-searchmanager
 searchplace
 searchquery
 searchstring
@@ -9456,7 +9461,6 @@ subtitle
 success
 successfactors
 sudo
-sugar
 sugarcrm
 suggestion
 suitecrm
@@ -9511,7 +9515,6 @@ syntax
 syntax-highlighting
 syntaxcheck
 syntaxhighlighter
-synthesis
 synthetics
 sysadmin
 sysadmin-tool
@@ -9739,7 +9742,6 @@ timer
 timeseriesinsights
 timesheet
 timesheets
-timespan
 timezone
 tinkerpop
 tinymce
@@ -9863,6 +9865,9 @@ tsa
 tsd
 tsheets
 tsqlbestpractice
+tst
+tst1
+tst3
 tsv
 ttrpg
 tts
@@ -9905,7 +9910,6 @@ ubnt
 ubuntu
 ucs
 ucspowertool
-ud-avataaar
 ud-badgebutton
 ud-badgelink
 ud-breadcrumb
@@ -9915,7 +9919,6 @@ ud-button
 ud-buttonloader
 ud-buttonparticle
 ud-calendar
-ud-circle
 ud-component
 ud-confetti
 ud-control
@@ -10286,7 +10289,6 @@ vsteams
 vstest
 vsts
 vsts-cli
-vulnerabilities
 vulnerability
 vulnerabilityassessment
 vulnerabilityscanning
@@ -10390,6 +10392,7 @@ wget
 what3words
 whatismyip
 whatsnew
+whatsupgold
 whd
 where
 whfb
@@ -10473,7 +10476,6 @@ windowspresentationfoundation
 windowsreleasehealth
 windowsrest
 windowssandbox
-windowssearchmanager
 windowsserver
 windowsserver2008
 windowsserver2016
@@ -10584,6 +10586,7 @@ writeaccess
 writelog
 writemanager
 writeprogress
+writer
 ws-federation
 wsapi
 wsb
@@ -10600,6 +10603,7 @@ wttr
 wttr.in
 wtx
 wu
+wug
 wunderlist
 wus
 wvd
