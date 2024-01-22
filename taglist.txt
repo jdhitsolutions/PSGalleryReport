@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Sunday, 21 January 2024 17:52:34 UTC
+Updated: Monday, 22 January 2024 02:10:14 UTC
 
 .bat
 .env
@@ -236,6 +236,7 @@ agenda
 agent
 aggregates
 aggregation
+agile
 agility
 agm
 agnoster
@@ -299,8 +300,6 @@ amateur-data-interchange-format
 amateur-radio
 amateurradio
 amazon
-amazonaws
-amazonmgn
 amazonwebservices
 amend
 ami
@@ -1237,6 +1236,7 @@ cmdb
 cmdkey
 cmdlet
 cmdlets
+cmdstan
 cmgroupdiscovery
 cmhealth
 cmhealthcheck
@@ -2483,16 +2483,24 @@ fieldglass
 fifa
 figlet
 file
+file-association
 file-copy
 file-encoding
+file-extension
+file-extension-association
 file-invalidchar
 file-matcher
 file-matching
 file-monitoring
+file-name
+file-name-extension
+file-name-extension-association
 file-server
 file-share
 file-system
 file-transform
+file-type
+file-type-association
 fileattributes
 fileencryption
 filelist
@@ -2580,7 +2588,6 @@ fleetsoftwareupdate
 flex
 flex-query
 flexdesk
-flickr
 flowchart
 flowy
 fluidrelay
@@ -2619,6 +2626,7 @@ formatformat-tableformat-listformat-wideformat-customformat-defaultout-defaultou
 formatting
 forms
 fortiauth
+forticlient
 fortify
 fortifyondemand
 fortigate
@@ -4033,7 +4041,6 @@ metrics
 metrolink
 mfa
 mga
-mgn
 mi
 micro-orm
 microfocus
@@ -4627,7 +4634,6 @@ operationsmanagementsuiteagent
 operationvalidation
 operatoraccesscontrol
 opml
-ops
 opsi
 opsmgr
 optics
@@ -4777,7 +4783,6 @@ passwordexpiration
 passwordexpiry
 passwordgeneration
 passwordgenerator
-passwordgenerators
 passwordhashing
 passwordlock
 passwordlockoutreport
@@ -5204,6 +5209,7 @@ profiler
 profiles
 proget
 program
+program-association
 programs
 progress
 progressbar
@@ -9115,6 +9121,7 @@ skytap
 slack
 slash
 slashcommands
+slmgr
 sln
 slugify
 sm
@@ -9349,10 +9356,13 @@ stackoverflow
 staffhub
 staging
 stale
+stan
+stanc
 standalone
 standard
 standarderror
 standardoutput
+stansummary
 start
 start-job
 start-jobthread
@@ -10089,7 +10099,6 @@ utf-sig
 utf7
 utf8
 utf8-sig
-utf8bom
 util
 utilities
 utility
@@ -10098,6 +10107,7 @@ utm
 uudecode
 uuencode
 uuid
+uup
 uw
 uwp
 ux

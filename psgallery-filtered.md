@@ -3,6 +3,61 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [DisplayConfig](https://www.powershellgallery.com/Packages/DisplayConfig/1.0.4) | 1.0.4
+
+### Published: 01/21/2024 21:32:08 by MartinGC94
+
+Manage Windows display settings like resolution, DPI scale, HDR and more.
+
+__Downloads__: 4 | __Repository__: https://github.com/MartinGC94/DisplayConfig
+
+## [verkadaModule](https://www.powershellgallery.com/Packages/verkadaModule/0.6.13) | 0.6.13
+
+### Published: 01/21/2024 21:11:21 by Brad Parker
+
+Verkada Module
+
+__Downloads__: 224 | __Repository__: https://github.com/bepsoccer/verkadaModule
+
+## [Adsi](https://www.powershellgallery.com/Packages/Adsi/4.0.7) | 4.0.7
+
+### Published: 01/21/2024 20:58:04 by Jeremy La Camera
+
+Use Active Directory Service Interfaces to query LDAP and WinNT directories
+
+__Downloads__: 1,131 | __Repository__: 
+
+## [MASES.KNetPS](https://www.powershellgallery.com/Packages/MASES.KNetPS/2.4.1) | 2.4.1
+
+### Published: 01/21/2024 19:49:00 by MASES s.r.l.
+
+KNet PowerShell command line interface is a PowerShell Module to use Apache Kafka and PowerShell side-by-side. With KNet PowerShell it is possible to:
+- execute all tools of Apache Kafka within a PowerShell shell: Administration tools, Console Consumer, Console Producer, manage Apache Kafka Streams, activate Apache Kafka Connect, server side (start Kafka and ZooKeeper), etc
+- create consumers and producers objects to interact with an Apache Kafka cluster
+- send data to and receive data from an Apache Kafka cluster
+- create a Kafka Admin Client object to manage an Apache Kafka cluster
+
+More information within the project hosted on GitHub. Further information at https://github.com/masesgroup/KNet.
+
+__Downloads__: 454 | __Repository__: https://github.com/masesgroup/KNet
+
+## [PSProjectStatus](https://www.powershellgallery.com/Packages/PSProjectStatus/0.14.0) | 0.14.0
+
+### Published: 01/21/2024 19:16:22 by Jeff Hicks
+
+A set of PowerShell tools for tracking module development status. The module uses a JSON file to create a custom object with information about your module. You can use this internally to track the status of your module including a simple to-do tracker. This module was first described at https://jdhitsolutions.com/blog/powershell/8960/introducing-psprojectstatus/
+
+__Downloads__: 500 | __Repository__: https://github.com/jdhitsolutions/PSProjectStatus
+
+## [PdfLexer](https://www.powershellgallery.com/Packages/PdfLexer/0.1.15) | 0.1.15
+
+### Published: 01/21/2024 18:29:48 by PdfLexer Authors
+
+PdfLexer is a powershell pdf manipulation library for Powershell 7+.
+ https://github.com/pdflexer/pdflexer
+
+__Downloads__: 506 | __Repository__: https://github.com/pdflexer/pdflexer
+
 ## [DscResource.DocGenerator](https://www.powershellgallery.com/Packages/DscResource.DocGenerator/0.12.1) | 0.12.1
 
 ### Published: 01/21/2024 17:35:27 by DSC Community
@@ -34,14 +89,6 @@ __Downloads__: 497 | __Repository__:
 Module for multithreading PowerShell commands using .Net Runspaces
 
 __Downloads__: 364 | __Repository__: 
-
-## [Adsi](https://www.powershellgallery.com/Packages/Adsi/4.0.6) | 4.0.6
-
-### Published: 01/21/2024 16:12:25 by Jeremy La Camera
-
-Use Active Directory Service Interfaces to query LDAP and WinNT directories
-
-__Downloads__: 1,131 | __Repository__: 
 
 ## [PS2BAT](https://www.powershellgallery.com/Packages/PS2BAT/1.0.0) | 1.0.0
 
@@ -163,20 +210,6 @@ PowerShell module for OpenAI API
 
 __Downloads__: 660 | __Repository__: https://github.com/mkht/PSOpenAI
 
-## [MASES.KNetPS](https://www.powershellgallery.com/Packages/MASES.KNetPS/2.4.0) | 2.4.0
-
-### Published: 01/20/2024 15:28:22 by MASES s.r.l.
-
-KNet PowerShell command line interface is a PowerShell Module to use Apache Kafka and PowerShell side-by-side. With KNet PowerShell it is possible to:
-- execute all tools of Apache Kafka within a PowerShell shell: Administration tools, Console Consumer, Console Producer, manage Apache Kafka Streams, activate Apache Kafka Connect, server side (start Kafka and ZooKeeper), etc
-- create consumers and producers objects to interact with an Apache Kafka cluster
-- send data to and receive data from an Apache Kafka cluster
-- create a Kafka Admin Client object to manage an Apache Kafka cluster
-
-More information within the project hosted on GitHub. Further information at https://github.com/masesgroup/KNet.
-
-__Downloads__: 454 | __Repository__: https://github.com/masesgroup/KNet
-
 ## [AppVentiX](https://www.powershellgallery.com/Packages/AppVentiX/2024.120.1515) | 2024.120.1515
 
 ### Published: 01/20/2024 14:35:24 by John Billekens
@@ -191,7 +224,7 @@ __Downloads__: 0 | __Repository__: https://appventix.com/
 
 Module for PowerShell Universal.
 
-__Downloads__: 67,148 | __Repository__: https://ironmansoftware.com/powershell-universal
+__Downloads__: 67,153 | __Repository__: https://ironmansoftware.com/powershell-universal
 
 ## [365AutomatedLab](https://www.powershellgallery.com/Packages/365AutomatedLab/2.4.0) | 2.4.0
 
@@ -213,21 +246,13 @@ More information within the project hosted on GitHub at https://github.com/mases
 
 __Downloads__: 115 | __Repository__: https://github.com/masesgroup/JNet
 
-## [DisplayConfig](https://www.powershellgallery.com/Packages/DisplayConfig/1.0.1) | 1.0.1
-
-### Published: 01/20/2024 00:57:26 by MartinGC94
-
-Manage Windows display settings like resolution, DPI scale, HDR and more.
-
-__Downloads__: 4 | __Repository__: https://github.com/MartinGC94/DisplayConfig
-
 ## [GitlabCli](https://www.powershellgallery.com/Packages/GitlabCli/1.108.0) | 1.108.0
 
 ### Published: 01/20/2024 00:10:51 by Chris Peterson
 
 Interact with GitLab via PowerShell
 
-__Downloads__: 15,516 | __Repository__: https://github.com/chris-peterson/pwsh-gitlab
+__Downloads__: 15,517 | __Repository__: https://github.com/chris-peterson/pwsh-gitlab
 
 ## [AzureCodeSigning](https://www.powershellgallery.com/Packages/AzureCodeSigning/0.3.0) | 0.3.0
 
@@ -275,7 +300,7 @@ __Downloads__: 334,140 | __Repository__: https://github.com/PKISharp/ACME-PS
 
 PowerShell module, which makes it easier to work with Business Central Containers on Docker.
 
-__Downloads__: 1,616,145 | __Repository__: 
+__Downloads__: 1,616,170 | __Repository__: 
 
 ## [PSComputerManagementZp](https://www.powershellgallery.com/Packages/PSComputerManagementZp/0.1.0) | 0.1.0
 
@@ -355,7 +380,7 @@ __Downloads__: 2 | __Repository__: https://github.com/EvotecIT/O365AppsMonitorin
 
 Adds ability to import NuGet and C# .nupkg packages downloaded by PackageManagement
 
-__Downloads__: 569 | __Repository__: https://github.com/pwsh-cs-tools/core
+__Downloads__: 570 | __Repository__: https://github.com/pwsh-cs-tools/core
 
 ## [EntraIDTools](https://www.powershellgallery.com/Packages/EntraIDTools/1.0) | 1.0
 
@@ -371,7 +396,7 @@ __Downloads__: 2 | __Repository__:
 
 Integrated CI/CD Solution for Microsoft Azure.
 
-__Downloads__: 1,841,289 | __Repository__: https://github.com/Azure/AzOps
+__Downloads__: 1,841,292 | __Repository__: https://github.com/Azure/AzOps
 
 ## [ArtifactoryCli](https://www.powershellgallery.com/Packages/ArtifactoryCli/0.0.3) | 0.0.3
 
@@ -483,7 +508,7 @@ __Downloads__: 3 | __Repository__: https://git.fs255.org/Scripts/AutoHotKey
 
 The Devolutions.PowerShell module is a set of cmdlets that allow administrators to manage Remote Desktop Manager, Devolutions Server and Devolutions Hub Business using PowerShell. This module provides a simple and consistent interface for interacting with these products, making it easy to automate various tasks, such as creating and managing connections, sessions, and credentials, configuring security settings, and generating reports. The module can be easily integrated with other PowerShell modules, allowing administrators to automate tasks across multiple products and platforms, streamline their workflows and increase efficiency.
 
-__Downloads__: 16,083 | __Repository__: https://devolutions.net/
+__Downloads__: 16,088 | __Repository__: https://devolutions.net/
 
 ## [PSQualityCheck](https://www.powershellgallery.com/Packages/PSQualityCheck/2.0.3) | 2.0.3
 
@@ -515,7 +540,7 @@ __Downloads__: 14 | __Repository__: https://www.etherassist.co.uk/
 
 This module contains public key infrastructure and certificate management functions. Support site: https://www.pkisolutions.com/tools/pspki/
 
-__Downloads__: 883,534 | __Repository__: https://www.pkisolutions.com/tools/pspki/
+__Downloads__: 883,558 | __Repository__: https://www.pkisolutions.com/tools/pspki/
 
 ## [M365DSC.CompositeResources](https://www.powershellgallery.com/Packages/M365DSC.CompositeResources/1.24.117.100) | 1.24.117.100
 
@@ -547,7 +572,7 @@ __Downloads__: 107 | __Repository__:
 
 PowerShell functions to manage a JumpCloud Directory-as-a-Service
 
-__Downloads__: 5,874,576 | __Repository__: https://github.com/TheJumpCloud/support/wiki
+__Downloads__: 5,874,577 | __Repository__: https://github.com/TheJumpCloud/support/wiki
 
 ## [Test-NETHLK](https://www.powershellgallery.com/Packages/Test-NETHLK/2024.1.17.83) | 2024.1.17.83
 
@@ -617,7 +642,7 @@ __Downloads__: 17 | __Repository__:
 
 Automation tools for production quality database deployment
 
-__Downloads__: 4,988,162 | __Repository__: https://www.red-gate.com/sca/productpage
+__Downloads__: 4,988,193 | __Repository__: https://www.red-gate.com/sca/productpage
 
 ## [AzureUserStuff](https://www.powershellgallery.com/Packages/AzureUserStuff/1.0.1) | 1.0.1
 
@@ -2018,7 +2043,7 @@ __Downloads__: 309 | __Repository__:
 
 Master module for a collection of modules. These modules are varied in their tasks. The overall purpose of them being to provide a powerfull Toolset to improve IT Admin workflows.
 
-__Downloads__: 33,571 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox
+__Downloads__: 33,576 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox
 
 ## [AdminToolbox.FortiWizard](https://www.powershellgallery.com/Packages/AdminToolbox.FortiWizard/2.18.33) | 2.18.33
 
@@ -2026,7 +2051,7 @@ __Downloads__: 33,571 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions that generate configuration scripts and manage FortiOS.
 
-__Downloads__: 12,992 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 12,994 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.VMWareAutomate](https://www.powershellgallery.com/Packages/AdminToolbox.VMWareAutomate/4.8.124) | 4.8.124
 
@@ -2034,38 +2059,14 @@ __Downloads__: 12,992 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions to Automate Bulk VMWare Tasks
 
-__Downloads__: 19,803 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 19,806 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
-## [AdminToolbox.Remoting](https://www.powershellgallery.com/Packages/AdminToolbox.Remoting/1.9.127) | 1.9.127
+## [PKIMAN](https://www.powershellgallery.com/Packages/PKIMAN/1.0.0) | 1.0.0
 
-### Published: 01/16/2024 14:16:02 by Taylor Lee
+### Published: 01/16/2024 14:16:02 by Axel Mauchand
 
-Functions for remote management and access.
+A tool to create request, issue and manage certificates in an AD CS environment.
 
-__Downloads__: 19,630 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 4 | __Repository__: 
 
-## [AdminToolbox.Office365](https://www.powershellgallery.com/Packages/AdminToolbox.Office365/3.1.77) | 3.1.77
-
-### Published: 01/16/2024 14:15:56 by Taylor Lee
-
-Functions for working with Office365 and Azure modules
-
-__Downloads__: 21,246 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-## [AdminToolbox.Networking](https://www.powershellgallery.com/Packages/AdminToolbox.Networking/2.18.35) | 2.18.35
-
-### Published: 01/16/2024 14:15:50 by Taylor Lee
-
-Network Troubleshooting Functions
-
-__Downloads__: 50,021 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-## [AdminToolbox.MSGraph](https://www.powershellgallery.com/Packages/AdminToolbox.MSGraph/1.2.127) | 1.2.127
-
-### Published: 01/16/2024 14:15:41 by Taylor Lee
-
-Microsoft Graph interactive API Functions
-
-__Downloads__: 9,881 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-*Updated: Sunday, 21 January 2024 17:52:25 UTC*
+*Updated: Monday, 22 January 2024 02:10:05 UTC*
