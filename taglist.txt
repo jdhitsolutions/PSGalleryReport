@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Tuesday, 23 January 2024 09:52:39 UTC
+Updated: Tuesday, 23 January 2024 17:52:30 UTC
 
 .bat
 .env
@@ -292,7 +292,6 @@ alpine
 alt3
 alter
 alteryx
-alwaysontop
 alwaysonvpn
 alz
 amateur
@@ -300,8 +299,6 @@ amateur-data-interchange-format
 amateur-radio
 amateurradio
 amazon
-amazonaws
-amazonmgn
 amazonwebservices
 amend
 ami
@@ -928,7 +925,6 @@ builder
 building
 buildingfile
 buildingmapping
-buildkit
 buildkite
 buildmaster
 builds
@@ -1291,6 +1287,7 @@ color-show
 colored
 colorful
 colorized
+colorpicker
 colors
 colour
 column
@@ -1380,6 +1377,7 @@ configurationmanager
 configurationprofile
 configure
 confluence
+confluent
 conjecture
 connect
 connect-dtcmsite
@@ -1444,7 +1442,6 @@ conversion
 convert
 convert-dtexceptiontomessage
 convert-movietogif
-convert-sid
 convert-windowsimage
 converter
 convertfrom
@@ -1648,7 +1645,6 @@ dacfx
 dacl
 dacpac
 dacpackage
-dagger
 daily
 dane
 dangling
@@ -1759,7 +1755,6 @@ debugger
 debugging
 decimal
 decimalip
-decimalzero
 declarative
 decline
 decode
@@ -1969,7 +1964,6 @@ dnsclient
 dnsdumpster
 dnsentry
 dnsimple
-dnslookup
 dnsmadeeasy
 dnsoverhttps
 dnsrecord
@@ -2138,7 +2132,6 @@ dynamicsnav
 dynamodb
 dynatrace
 dynatraceobservability
-dz
 e-mail
 e1
 easy
@@ -2428,7 +2421,6 @@ extensions
 external
 externalip
 extract
-extraction
 extractor
 extreme-networks
 eztheme
@@ -2512,6 +2504,7 @@ filelogger
 filemanagement
 filematcher
 filename
+filenames
 fileproperties
 filereplication
 files
@@ -2973,7 +2966,6 @@ hardlink
 hardmatch
 hardware
 harperdb
-hartokens
 harvest
 harvestforecast
 hash
@@ -2997,6 +2989,7 @@ hdinsight
 hdinsightonaks
 hdr
 header
+headhunter
 health
 health_checks
 healthbot
@@ -3157,6 +3150,7 @@ hypervplugins
 hypothesis
 hysolate
 hysolatemangementconsole
+i-doit
 i2c
 ia
 iaas
@@ -3199,7 +3193,6 @@ identity-management
 identitydataplane
 identitydirector
 identitydomains
-identitynow
 idf
 idm
 idna
@@ -3271,7 +3264,6 @@ indexdb
 indicator
 inedo
 inetfwrule
-inetum
 infinity
 influx
 influxdb
@@ -3347,7 +3339,6 @@ interlogix
 internal
 internet
 internet-explorer
-internetconnection
 internetexplorer
 intersight
 intersightcmdlets
@@ -3364,6 +3355,7 @@ inventory
 investigation
 investment
 investments
+invitation
 invocation
 invoice
 invoke
@@ -3437,7 +3429,6 @@ issues
 isvalidemail
 isvalidip
 it
-it-support
 it-tool
 it-tools
 italic-text
@@ -3494,6 +3485,7 @@ jojoba
 joke
 jotform
 journal
+joyride
 jpg
 jq
 js7
@@ -4041,7 +4033,6 @@ metrics
 metrolink
 mfa
 mga
-mgn
 mi
 micro-orm
 microfocus
@@ -4133,7 +4124,6 @@ modeling
 modify
 module
 module-maintenance
-modulebuild
 modulecreation
 modulemanagement
 modules
@@ -5240,7 +5230,6 @@ protect-blob
 protect-string
 protection
 protocol
-protocols
 provance
 proverb
 provider
@@ -8416,6 +8405,7 @@ record
 recording
 recovery
 recoveryservices
+recruiter
 recrutch
 recurse
 recursion
@@ -8716,7 +8706,6 @@ safe
 safeguard
 sage
 saggiehaim
-sailpoint
 sale
 sales
 salesforce
@@ -8846,6 +8835,7 @@ search
 search-adminauditlog
 search-engines
 searchengine
+searcher
 searching
 searchmanager
 searchplace
@@ -9098,6 +9088,7 @@ sitecollection
 siteconfiguration
 sitecore
 sitemaintenance
+sitemap
 siterecovery
 sites
 sitesystemserver
@@ -9541,7 +9532,6 @@ syslog
 sysman
 sysmon
 sysop
-syspass
 syspip
 syspip3
 sysprep
@@ -9672,7 +9662,6 @@ tesla
 test
 test-automation
 test-dscconfiguration
-test-internetconnection
 test-modulepath
 test-osplatform
 test-psremoting
@@ -9969,11 +9958,9 @@ ud-stepbar
 ud-stickynavbar
 ud-tagcloud
 ud-timeline
-ud-timeout
 ud-tool
 ud-toploader
 ud-trendline
-ud-typing
 ud-window
 ud-wordtree
 udcm
@@ -10059,6 +10046,7 @@ uptimerobot
 uptobox
 uqword
 uri
+uri-scheme
 url
 url-encode
 url-shortener
@@ -10680,13 +10668,11 @@ xwiki
 xwindowsupdate
 xwith
 yahoo
-yahw
 yamaha
 yaml
 yandex
 yapg
 yarn
-yetanotherhelloworld
 yml
 ynab
 youtube
