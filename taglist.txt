@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 22 January 2024 17:52:48 UTC
+Updated: Tuesday, 23 January 2024 02:08:45 UTC
 
 .bat
 .env
@@ -72,6 +72,7 @@ aatp
 abc
 abc_testing
 abe
+about
 abr
 abstractsyntaxtree
 abuse
@@ -301,7 +302,6 @@ amateurradio
 amazon
 amazonaws
 amazonmgn
-amazonwebservices
 amend
 ami
 amiga
@@ -328,7 +328,6 @@ anf
 anglesharp
 angular
 animals
-animate-svg
 animation
 animations
 annotated
@@ -616,6 +615,7 @@ axium
 az
 az-cli
 az.stackhci
+azautomation
 azcli
 azcompute
 azd
@@ -623,6 +623,7 @@ azdisk
 azdo
 azereo
 azforensics
+azkeyvault
 aznetworking
 aznetworkinterface
 aznicdetails
@@ -704,8 +705,6 @@ azuresecuritycenter
 azureservicebus
 azuresigntool
 azuresql
-azuresqlexport
-azuresqlimport
 azuressas
 azurestack
 azurestackhci
@@ -760,7 +759,6 @@ bbp
 bc
 bcd
 bcdedit
-bcdr
 bd
 bdd
 bds
@@ -1401,7 +1399,6 @@ connectivity
 connectwise
 conservation
 console
-consoleguitools
 consolemenu
 consolemusic
 consumer
@@ -1618,6 +1615,7 @@ customlogs
 customproviders
 cutehttpfileserver
 cvad
+cve
 cve-2021-34527
 cvrf
 cvss
@@ -1668,7 +1666,6 @@ data-uri
 data-uri-converter
 database
 database-migrations
-databaseautomation
 databasemanagement
 databasemigration
 databases
@@ -2007,6 +2004,7 @@ dok
 dokuwiki
 domain
 domainkey
+domainname
 domainnamesystem
 domains
 domino
@@ -2396,6 +2394,7 @@ expired
 expiring
 expiry
 exploit
+exploits
 exploration
 explorer
 exponentiation
@@ -2450,7 +2449,6 @@ farmanager
 fast
 fast-dds
 fast-ping
-fastfilepub
 fastgit
 fastlinq
 fastlookup
@@ -2495,7 +2493,6 @@ file-name
 file-name-extension
 file-name-extension-association
 file-server
-file-share
 file-system
 file-transform
 file-type
@@ -2508,6 +2505,7 @@ filelogger
 filemanagement
 filematcher
 filename
+filenames
 fileproperties
 filereplication
 files
@@ -3022,6 +3020,7 @@ helper
 helper-functions
 helperfunctions
 helpers
+helpfile
 heml
 here
 hewlett
@@ -3444,6 +3443,7 @@ itemlist
 itemobject
 items
 itemstack
+iterate
 iteration
 itg
 itglue
@@ -3530,7 +3530,6 @@ karabiner
 karabiner-elements
 karma
 kaseya
-kaseyavsa
 kaspersky
 katakana
 kb
@@ -3894,6 +3893,7 @@ manage-wmi
 manageability
 managed-identity
 manageddisks
+managedidentities
 managedidentity
 managedserviceidenity
 managedserviceidentity
@@ -4175,6 +4175,8 @@ mp4
 mpc
 mpeg
 mpn
+mrfk
+mrfylke
 mrvl_fc_powerkit
 mrvlfcprovider
 ms_365
@@ -4402,6 +4404,7 @@ ninja
 ninjaone
 ninjarmm
 nios
+nist
 nitro
 nitrox
 njclipsh
@@ -4478,6 +4481,7 @@ nuspec
 nutanix
 nuwave
 nva
+nvd
 nvdimm
 nvdimm-n
 nvm
@@ -4505,7 +4509,6 @@ obs
 observeit
 oce
 ocg
-ocgv
 oci
 ocicontrolcenter
 ocr
@@ -4699,7 +4702,6 @@ outertext
 outline
 outlook
 output
-output-to-image
 outreach
 outsystems
 overbite
@@ -4779,6 +4781,7 @@ passwordexpiration
 passwordexpiry
 passwordgeneration
 passwordgenerator
+passwordgenerators
 passwordhashing
 passwordlock
 passwordlockoutreport
@@ -4904,6 +4907,7 @@ planner
 plantuml
 plaster
 platform
+platyps
 play
 playback
 playbook
@@ -5103,7 +5107,6 @@ powershell.one
 powershell.persistentpathstack
 powershell7
 powershellai
-powershellazuresql
 powershellconferenceeurope
 powershellcore
 powershellcourse
@@ -7069,7 +7072,6 @@ pscredential
 pscribo
 pscustomobject
 psd1
-psdb
 psdefaultparametervalues
 psdeploy
 psdesiredstateconfiguration
@@ -8152,6 +8154,7 @@ psini
 psinsight
 psintune
 psise
+psitem
 psjob
 psjobs
 psjobthreads
@@ -8430,7 +8433,6 @@ redis
 redisenterprisecache
 redistributables
 redkite
-redseal
 redshift
 redteaming
 redundancy
@@ -8460,6 +8462,8 @@ regions
 regiser-argumentcompleter
 register
 register-argumentcompleter
+registered
+registrar
 registration
 registry
 regression
@@ -8835,7 +8839,9 @@ search
 search-adminauditlog
 search-engines
 searchengine
+searcher
 searching
+searchmanager
 searchplace
 searchquery
 searchstring
@@ -9277,7 +9283,6 @@ sql-database
 sql-script
 sql-server
 sqlagent
-sqlautomation
 sqlbits
 sqlbrowser
 sqlchangeautomation
@@ -9288,7 +9293,6 @@ sqldatabase
 sqldb
 sqldbatools
 sqldiagapi
-sqlexport
 sqlgateway
 sqlite
 sqlitebynarymodule
@@ -9461,6 +9465,7 @@ subtitle
 success
 successfactors
 sudo
+sugar
 sugarcrm
 suggestion
 suitecrm
@@ -9528,6 +9533,7 @@ syslog
 sysman
 sysmon
 sysop
+syspass
 syspip
 syspip3
 sysprep
@@ -9683,7 +9689,6 @@ testusers
 text
 text-emoji
 text-emojis
-text-to-image
 text-to-speach"
 text-to-speech
 text2image
@@ -9742,6 +9747,7 @@ timer
 timeseriesinsights
 timesheet
 timesheets
+timespan
 timezone
 tinkerpop
 tinymce
@@ -9788,7 +9794,6 @@ totp
 touch
 toughswitch
 tphubps
-tpm
 tr-064
 tr064
 trace
@@ -9910,6 +9915,7 @@ ubnt
 ubuntu
 ucs
 ucspowertool
+ud-avataaar
 ud-badgebutton
 ud-badgelink
 ud-breadcrumb
@@ -9919,6 +9925,7 @@ ud-button
 ud-buttonloader
 ud-buttonparticle
 ud-calendar
+ud-circle
 ud-component
 ud-confetti
 ud-control
@@ -9955,7 +9962,6 @@ ud-stepbar
 ud-stickynavbar
 ud-tagcloud
 ud-timeline
-ud-timeout
 ud-tool
 ud-toploader
 ud-trendline
@@ -10269,7 +10275,6 @@ vrsns
 vrtu
 vs
 vs-shell
-vsa
 vsan
 vsan+
 vscode
@@ -10289,6 +10294,7 @@ vsteams
 vstest
 vsts
 vsts-cli
+vulnerabilities
 vulnerability
 vulnerabilityassessment
 vulnerabilityscanning
@@ -10476,6 +10482,7 @@ windowspresentationfoundation
 windowsreleasehealth
 windowsrest
 windowssandbox
+windowssearchmanager
 windowsserver
 windowsserver2008
 windowsserver2016
