@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Tuesday, 23 January 2024 02:08:45 UTC
+Updated: Tuesday, 23 January 2024 09:52:39 UTC
 
 .bat
 .env
@@ -302,6 +302,7 @@ amateurradio
 amazon
 amazonaws
 amazonmgn
+amazonwebservices
 amend
 ami
 amiga
@@ -328,6 +329,7 @@ anf
 anglesharp
 angular
 animals
+animate-svg
 animation
 animations
 annotated
@@ -705,6 +707,8 @@ azuresecuritycenter
 azureservicebus
 azuresigntool
 azuresql
+azuresqlexport
+azuresqlimport
 azuressas
 azurestack
 azurestackhci
@@ -759,6 +763,7 @@ bbp
 bc
 bcd
 bcdedit
+bcdr
 bd
 bdd
 bds
@@ -1286,7 +1291,6 @@ color-show
 colored
 colorful
 colorized
-colorpicker
 colors
 colour
 column
@@ -1376,7 +1380,6 @@ configurationmanager
 configurationprofile
 configure
 confluence
-confluent
 conjecture
 connect
 connect-dtcmsite
@@ -1399,6 +1402,7 @@ connectivity
 connectwise
 conservation
 console
+consoleguitools
 consolemenu
 consolemusic
 consumer
@@ -1666,6 +1670,7 @@ data-uri
 data-uri-converter
 database
 database-migrations
+databaseautomation
 databasemanagement
 databasemigration
 databases
@@ -2449,6 +2454,7 @@ farmanager
 fast
 fast-dds
 fast-ping
+fastfilepub
 fastgit
 fastlinq
 fastlookup
@@ -2493,6 +2499,7 @@ file-name
 file-name-extension
 file-name-extension-association
 file-server
+file-share
 file-system
 file-transform
 file-type
@@ -2505,7 +2512,6 @@ filelogger
 filemanagement
 filematcher
 filename
-filenames
 fileproperties
 filereplication
 files
@@ -2991,7 +2997,6 @@ hdinsight
 hdinsightonaks
 hdr
 header
-headhunter
 health
 health_checks
 healthbot
@@ -3152,7 +3157,6 @@ hypervplugins
 hypothesis
 hysolate
 hysolatemangementconsole
-i-doit
 i2c
 ia
 iaas
@@ -3360,7 +3364,6 @@ inventory
 investigation
 investment
 investments
-invitation
 invocation
 invoice
 invoke
@@ -3491,7 +3494,6 @@ jojoba
 joke
 jotform
 journal
-joyride
 jpg
 jq
 js7
@@ -3530,6 +3532,7 @@ karabiner
 karabiner-elements
 karma
 kaseya
+kaseyavsa
 kaspersky
 katakana
 kb
@@ -4509,6 +4512,7 @@ obs
 observeit
 oce
 ocg
+ocgv
 oci
 ocicontrolcenter
 ocr
@@ -4702,6 +4706,7 @@ outertext
 outline
 outlook
 output
+output-to-image
 outreach
 outsystems
 overbite
@@ -5107,6 +5112,7 @@ powershell.one
 powershell.persistentpathstack
 powershell7
 powershellai
+powershellazuresql
 powershellconferenceeurope
 powershellcore
 powershellcourse
@@ -7072,6 +7078,7 @@ pscredential
 pscribo
 pscustomobject
 psd1
+psdb
 psdefaultparametervalues
 psdeploy
 psdesiredstateconfiguration
@@ -8409,7 +8416,6 @@ record
 recording
 recovery
 recoveryservices
-recruiter
 recrutch
 recurse
 recursion
@@ -8433,6 +8439,7 @@ redis
 redisenterprisecache
 redistributables
 redkite
+redseal
 redshift
 redteaming
 redundancy
@@ -8839,7 +8846,6 @@ search
 search-adminauditlog
 search-engines
 searchengine
-searcher
 searching
 searchmanager
 searchplace
@@ -9092,7 +9098,6 @@ sitecollection
 siteconfiguration
 sitecore
 sitemaintenance
-sitemap
 siterecovery
 sites
 sitesystemserver
@@ -9283,6 +9288,7 @@ sql-database
 sql-script
 sql-server
 sqlagent
+sqlautomation
 sqlbits
 sqlbrowser
 sqlchangeautomation
@@ -9293,6 +9299,7 @@ sqldatabase
 sqldb
 sqldbatools
 sqldiagapi
+sqlexport
 sqlgateway
 sqlite
 sqlitebynarymodule
@@ -9520,6 +9527,7 @@ syntax
 syntax-highlighting
 syntaxcheck
 syntaxhighlighter
+synthesis
 synthetics
 sysadmin
 sysadmin-tool
@@ -9689,6 +9697,7 @@ testusers
 text
 text-emoji
 text-emojis
+text-to-image
 text-to-speach"
 text-to-speech
 text2image
@@ -9794,6 +9803,7 @@ totp
 touch
 toughswitch
 tphubps
+tpm
 tr-064
 tr064
 trace
@@ -9870,9 +9880,6 @@ tsa
 tsd
 tsheets
 tsqlbestpractice
-tst
-tst1
-tst3
 tsv
 ttrpg
 tts
@@ -9962,6 +9969,7 @@ ud-stepbar
 ud-stickynavbar
 ud-tagcloud
 ud-timeline
+ud-timeout
 ud-tool
 ud-toploader
 ud-trendline
@@ -10051,7 +10059,6 @@ uptimerobot
 uptobox
 uqword
 uri
-uri-scheme
 url
 url-encode
 url-shortener
@@ -10275,6 +10282,7 @@ vrsns
 vrtu
 vs
 vs-shell
+vsa
 vsan
 vsan+
 vscode
