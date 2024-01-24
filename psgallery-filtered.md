@@ -3,6 +3,54 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [AsBuiltReport.Microsoft.AD](https://www.powershellgallery.com/Packages/AsBuiltReport.Microsoft.AD/0.8.0) | 0.8.0
+
+### Published: 01/24/2024 17:39:29 by Jonathan Colon
+
+A PowerShell module to generate an as built report on the configuration of Microsoft AD.
+
+__Downloads__: 18,658 | __Repository__: https://github.com/AsBuiltReport/AsBuiltReport.Microsoft.AD
+
+## [Diagrammer.Microsoft.AD](https://www.powershellgallery.com/Packages/Diagrammer.Microsoft.AD/0.1.3) | 0.1.3
+
+### Published: 01/24/2024 17:20:36 by Jonathan Colon
+
+A PowerShell module to generate an as built report on the configuration of Microsoft AD.
+
+__Downloads__: 7 | __Repository__: https://github.com/rebelinux/Diagrammer.Microsoft.AD
+
+## [JeaCertificateManager](https://www.powershellgallery.com/Packages/JeaCertificateManager/1.0.0) | 1.0.0
+
+### Published: 01/24/2024 16:23:33 by Friedrich Weinmann
+
+JEA-Based Remoting Endpoint to help delegate certificate management
+
+__Downloads__: 1 | __Repository__: https://github.com/FriedrichWeinmann/JeaCertificateManager
+
+## [Easit.GO.Webservice](https://www.powershellgallery.com/Packages/Easit.GO.Webservice/1.1.1) | 1.1.1
+
+### Published: 01/24/2024 13:19:30 by Anders Thyrsson
+
+Module to be used with Easit GO WebAPI
+
+__Downloads__: 53 | __Repository__: https://github.com/easitab/Easit.GO.Webservice
+
+## [BCSPowershellModule](https://www.powershellgallery.com/Packages/BCSPowershellModule/1.0.141) | 1.0.141
+
+### Published: 01/24/2024 12:42:41 by Mathias Stjernfelt
+
+BrightCom Solutions AB powershell helper.
+
+__Downloads__: 34,770 | __Repository__: 
+
+## [EasyPIM](https://www.powershellgallery.com/Packages/EasyPIM/1.0.2) | 1.0.2
+
+### Published: 01/24/2024 11:37:17 by Loïc MICHEL
+
+Powershell module to manage PIM Azure Resource Role settings with simplicity in mind
+
+__Downloads__: 18 | __Repository__: https://github.com/kayasax/EasyPIM/
+
 ## [d365fo.tools](https://www.powershellgallery.com/Packages/d365fo.tools/0.7.9) | 0.7.9
 
 ### Published: 01/24/2024 09:07:20 by Mötz Jensen & Rasmus Andersen
@@ -1194,7 +1242,7 @@ __Downloads__: 96,429 | __Repository__: https://github.com/oracle/oci-powershell
 
 Orchestrate driver, BIOS/UEFI and firmware updates for Lenovo computers 👨‍💻
 
-__Downloads__: 19,494,163 | __Repository__: https://www.github.com/jantari/LSUClient
+__Downloads__: 19,494,216 | __Repository__: https://www.github.com/jantari/LSUClient
 
 ## [DscResource.Common](https://www.powershellgallery.com/Packages/DscResource.Common/0.17.0) | 0.17.0
 
@@ -1242,7 +1290,7 @@ __Downloads__: 20,349 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions for remote management and access.
 
-__Downloads__: 20,177 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 20,178 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.Office365](https://www.powershellgallery.com/Packages/AdminToolbox.Office365/3.1.79) | 3.1.79
 
@@ -1480,14 +1528,6 @@ A lightweight PowerShell module to handle Azure authentication, using the Azure.
 
 __Downloads__: 917 | __Repository__: https://github.com/PalmEmanuel/AzAuth
 
-## [EasyPIM](https://www.powershellgallery.com/Packages/EasyPIM/1.0.1) | 1.0.1
-
-### Published: 01/22/2024 15:32:02 by Loïc MICHEL
-
-Powershell module to manage PIM Azure Resource Role settings with simplicity in mind
-
-__Downloads__: 18 | __Repository__: https://github.com/kayasax/EasyPIM/
-
 ## [attach-with](https://www.powershellgallery.com/Packages/attach-with/1.0.11) | 1.0.11
 
 ### Published: 01/22/2024 15:00:48 by Ibne Nahian
@@ -1583,14 +1623,6 @@ __Downloads__: 380,307 | __Repository__:
 SentinelEnrichment is a PowerShell module that provides functions to enrich Microsoft Sentinel with data from external sources and makes it easier to manage this data in watchlists.
 
 __Downloads__: 23 | __Repository__: 
-
-## [Diagrammer.Microsoft.AD](https://www.powershellgallery.com/Packages/Diagrammer.Microsoft.AD/0.1.2) | 0.1.2
-
-### Published: 01/22/2024 03:37:50 by Jonathan Colon
-
-A PowerShell module to generate an as built report on the configuration of Microsoft AD.
-
-__Downloads__: 7 | __Repository__: https://github.com/rebelinux/Diagrammer.Microsoft.AD
 
 ## [DisplayConfig](https://www.powershellgallery.com/Packages/DisplayConfig/1.0.4) | 1.0.4
 
@@ -1849,7 +1881,7 @@ __Downloads__: 334,361 | __Repository__: https://github.com/PKISharp/ACME-PS
 
 PowerShell module, which makes it easier to work with Business Central Containers on Docker.
 
-__Downloads__: 1,623,613 | __Repository__: 
+__Downloads__: 1,623,600 | __Repository__: 
 
 ## [PSComputerManagementZp](https://www.powershellgallery.com/Packages/PSComputerManagementZp/0.1.0) | 0.1.0
 
@@ -2043,36 +2075,4 @@ PSQualityCheck
 
 __Downloads__: 631 | __Repository__: 
 
-## [PowerInfoblox](https://www.powershellgallery.com/Packages/PowerInfoblox/1.0.2) | 1.0.2
-
-### Published: 01/18/2024 13:05:34 by Przemyslaw Klys
-
-Helper module for Infoblox.
-
-__Downloads__: 22 | __Repository__: https://github.com/EvotecIT/PowerInfoblox
-
-## [EtherAssist](https://www.powershellgallery.com/Packages/EtherAssist/1.0.6) | 1.0.6
-
-### Published: 01/18/2024 12:47:33 by Ryan Mangan
-
-The EtherAssist PowerShell Module offers a client-localised approach to interacting with the EtherAssist API, streamlining automation and simplifying task management. Designed to minimise the need for multiple management screens or consoles, this module provides a convenient and efficient way for users to interact with EtherAssist directly from their PowerShell environment. Once set up, it allows you to utilise PowerShell as your primary tool for accessing EtherAssist, catering to those who prefer a unified command-line interface for their operational tasks.
-
-__Downloads__: 14 | __Repository__: https://www.etherassist.co.uk/
-
-## [PSPKI](https://www.powershellgallery.com/Packages/PSPKI/4.2.0) | 4.2.0
-
-### Published: 01/18/2024 10:14:22 by Vadims Podans
-
-This module contains public key infrastructure and certificate management functions. Support site: https://www.pkisolutions.com/tools/pspki/
-
-__Downloads__: 888,779 | __Repository__: https://www.pkisolutions.com/tools/pspki/
-
-## [M365DSC.CompositeResources](https://www.powershellgallery.com/Packages/M365DSC.CompositeResources/1.24.117.100) | 1.24.117.100
-
-### Published: 01/18/2024 01:17:45 by Yorick Kuijs
-
-DSC composite resource for configuring Microsoft 365
-
-__Downloads__: 482 | __Repository__: https://github.com/ykuijs/M365DSC.CompositeResources
-
-*Updated: Wednesday, 24 January 2024 09:52:22 UTC*
+*Updated: Wednesday, 24 January 2024 17:52:28 UTC*
