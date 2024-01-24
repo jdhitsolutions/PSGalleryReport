@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Tuesday, 23 January 2024 17:52:30 UTC
+Updated: Wednesday, 24 January 2024 02:08:50 UTC
 
 .bat
 .env
@@ -292,6 +292,7 @@ alpine
 alt3
 alter
 alteryx
+alwaysontop
 alwaysonvpn
 alz
 amateur
@@ -299,6 +300,8 @@ amateur-data-interchange-format
 amateur-radio
 amateurradio
 amazon
+amazonaws
+amazonmgn
 amazonwebservices
 amend
 ami
@@ -326,7 +329,6 @@ anf
 anglesharp
 angular
 animals
-animate-svg
 animation
 animations
 annotated
@@ -648,7 +650,6 @@ azure-data-explorer
 azure-devops
 azure-forensics
 azure-functions
-azure-pipelines
 azure-resource-graph
 azure-ssis
 azureactivedirectory
@@ -925,6 +926,7 @@ builder
 building
 buildingfile
 buildingmapping
+buildkit
 buildkite
 buildmaster
 builds
@@ -1442,6 +1444,7 @@ conversion
 convert
 convert-dtexceptiontomessage
 convert-movietogif
+convert-sid
 convert-windowsimage
 converter
 convertfrom
@@ -1479,7 +1482,6 @@ cos
 cosmos
 cosmosdb
 cost
-cost-management
 costmanagement
 costoptimization
 couchbase
@@ -1645,6 +1647,7 @@ dacfx
 dacl
 dacpac
 dacpackage
+dagger
 daily
 dane
 dangling
@@ -1755,6 +1758,7 @@ debugger
 debugging
 decimal
 decimalip
+decimalzero
 declarative
 decline
 decode
@@ -1964,6 +1968,7 @@ dnsclient
 dnsdumpster
 dnsentry
 dnsimple
+dnslookup
 dnsmadeeasy
 dnsoverhttps
 dnsrecord
@@ -2132,6 +2137,7 @@ dynamicsnav
 dynamodb
 dynatrace
 dynatraceobservability
+dz
 e-mail
 e1
 easy
@@ -2421,6 +2427,7 @@ extensions
 external
 externalip
 extract
+extraction
 extractor
 extreme-networks
 eztheme
@@ -2734,6 +2741,7 @@ generates
 generatewif
 generation
 generativeai
+generativeaiinference
 generator
 generic
 genericartifactscontent
@@ -2966,6 +2974,7 @@ hardlink
 hardmatch
 hardware
 harperdb
+hartokens
 harvest
 harvestforecast
 hash
@@ -3193,6 +3202,7 @@ identity-management
 identitydataplane
 identitydirector
 identitydomains
+identitynow
 idf
 idm
 idna
@@ -3264,6 +3274,7 @@ indexdb
 indicator
 inedo
 inetfwrule
+inetum
 infinity
 influx
 influxdb
@@ -3339,6 +3350,7 @@ interlogix
 internal
 internet
 internet-explorer
+internetconnection
 internetexplorer
 intersight
 intersightcmdlets
@@ -3429,6 +3441,7 @@ issues
 isvalidemail
 isvalidip
 it
+it-support
 it-tool
 it-tools
 italic-text
@@ -4033,6 +4046,7 @@ metrics
 metrolink
 mfa
 mga
+mgn
 mi
 micro-orm
 microfocus
@@ -4124,6 +4138,7 @@ modeling
 modify
 module
 module-maintenance
+modulebuild
 modulecreation
 modulemanagement
 modules
@@ -4910,7 +4925,6 @@ player
 playlists
 pleasant
 pleasantpasswordserver
-plex
 plist
 plog
 plot
@@ -5230,6 +5244,7 @@ protect-blob
 protect-string
 protection
 protocol
+protocols
 provance
 proverb
 provider
@@ -8706,6 +8721,7 @@ safe
 safeguard
 sage
 saggiehaim
+sailpoint
 sale
 sales
 salesforce
@@ -9532,6 +9548,7 @@ syslog
 sysman
 sysmon
 sysop
+syspass
 syspip
 syspip3
 sysprep
@@ -9662,6 +9679,7 @@ tesla
 test
 test-automation
 test-dscconfiguration
+test-internetconnection
 test-modulepath
 test-osplatform
 test-psremoting
@@ -9869,6 +9887,9 @@ tsa
 tsd
 tsheets
 tsqlbestpractice
+tst
+tst1
+tst3
 tsv
 ttrpg
 tts
@@ -9958,9 +9979,11 @@ ud-stepbar
 ud-stickynavbar
 ud-tagcloud
 ud-timeline
+ud-timeout
 ud-tool
 ud-toploader
 ud-trendline
+ud-typing
 ud-window
 ud-wordtree
 udcm
@@ -10668,11 +10691,13 @@ xwiki
 xwindowsupdate
 xwith
 yahoo
+yahw
 yamaha
 yaml
 yandex
 yapg
 yarn
+yetanotherhelloworld
 yml
 ynab
 youtube
