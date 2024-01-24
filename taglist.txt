@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Wednesday, 24 January 2024 02:08:50 UTC
+Updated: Wednesday, 24 January 2024 09:52:31 UTC
 
 .bat
 .env
@@ -14,8 +14,6 @@ Updated: Wednesday, 24 January 2024 02:08:50 UTC
 'provider'
 "interactive
 {modulenameplaceholder}
-**psedition_desktop**
-**windows**
 🍄
 🍣
 💩
@@ -260,7 +258,6 @@ aka.ms
 aks
 aks-hci
 akscluster
-al
 alac
 alarm
 alb
@@ -329,6 +326,7 @@ anf
 anglesharp
 angular
 animals
+animate-svg
 animation
 animations
 annotated
@@ -650,6 +648,7 @@ azure-data-explorer
 azure-devops
 azure-forensics
 azure-functions
+azure-pipelines
 azure-resource-graph
 azure-ssis
 azureactivedirectory
@@ -758,7 +757,6 @@ battery
 bayern
 bb
 bbp
-bc
 bcd
 bcdedit
 bcdr
@@ -930,7 +928,6 @@ buildkit
 buildkite
 buildmaster
 builds
-buildtool
 bulk
 bulletin
 bullhorn
@@ -1213,7 +1210,6 @@ cloudfoundation
 cloudfront
 cloudgovernance
 cloudguard
-cloudinairy
 cloudinit
 cloudiq
 cloudkey
@@ -1225,7 +1221,6 @@ cloudshell
 clueser
 cluster
 clusterminimumvalues
-clusterplugins
 cmaccounts
 cmake
 cmakepresets.json
@@ -1482,6 +1477,7 @@ cos
 cosmos
 cosmosdb
 cost
+cost-management
 costmanagement
 costoptimization
 couchbase
@@ -3271,7 +3267,6 @@ incontact
 indents
 index
 indexdb
-indicator
 inedo
 inetfwrule
 inetum
@@ -4138,7 +4133,6 @@ modeling
 modify
 module
 module-maintenance
-modulebuild
 modulecreation
 modulemanagement
 modules
@@ -4650,7 +4644,6 @@ optimizer
 option
 option119
 options
-optionstring
 opus
 oracle
 oraclecloudinfrastructure
@@ -4925,6 +4918,7 @@ player
 playlists
 pleasant
 pleasantpasswordserver
+plex
 plist
 plog
 plot
@@ -8707,7 +8701,6 @@ russia
 rust
 rust-lang
 ryanairps
-ryver
 s.ds.p
 s1
 s3
@@ -8817,7 +8810,6 @@ screencapture
 screenconnect
 screenfetch
 screenresolution
-screensaver
 screenshot
 script
 script_version
@@ -9416,7 +9408,6 @@ stockcharts
 stocks
 stoicism
 stoics
-stop
 storablecolortheme
 storage
 storageaccount
@@ -10625,8 +10616,6 @@ wso2
 wsus
 wt
 wtsapi32
-wttr
-wttr.in
 wtx
 wu
 wug
