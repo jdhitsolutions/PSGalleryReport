@@ -3,6 +3,74 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [verkadaModule](https://www.powershellgallery.com/Packages/verkadaModule/0.6.14) | 0.6.14
+
+### Published: 01/24/2024 23:48:12 by Brad Parker
+
+Verkada Module
+
+__Downloads__: 227 | __Repository__: https://github.com/bepsoccer/verkadaModule
+
+## [SdnDiagnostics](https://www.powershellgallery.com/Packages/SdnDiagnostics/4.2401.923.225503) | 4.2401.923.225503
+
+### Published: 01/24/2024 22:55:33 by Adam Rudell Luyao Feng
+
+SdnDiagnostics is a tool used to simplify the data collection and diagnostics of Windows Software Defined Networking.
+
+__Downloads__: 33,977 | __Repository__: https://github.com/microsoft/SdnDiagnostics
+
+## [JhcAdoRest](https://www.powershellgallery.com/Packages/JhcAdoRest/1.2.9) | 1.2.9
+
+### Published: 01/24/2024 22:54:33 by jcravener@hotmail.com osimansaricloud@outlook.com
+
+Collection of Cmdlets that run Azure Dev Ops Rest API calls. Provides access to Build definitions, specific Builds and Build Timelines.; Release definitions and specific releases; Pipelines and pipeline runs; Full YAML Pipeline definition payloads; Agent Pools; Agent Pool Queues; Pull requests; Git repos and items; The Select-* cmdlets transforms raw JSON response payloads into useful report objects.
+
+__Downloads__: 531 | __Repository__: 
+
+## [TMConsole.Client](https://www.powershellgallery.com/Packages/TMConsole.Client/2.5.5) | 2.5.5
+
+### Published: 01/24/2024 22:15:10 by TransitionManager
+
+Commands required for the TMConsole application to run properly
+
+__Downloads__: 406 | __Repository__: 
+
+## [ProductivityTools.Feedback](https://www.powershellgallery.com/Packages/ProductivityTools.Feedback/0.0.18) | 0.0.18
+
+### Published: 01/24/2024 21:27:12 by Pawel wujczyk
+
+It is a cmdlet which allows to save quick feedbacks about the team
+
+__Downloads__: 16 | __Repository__: http://productivitytools.tech/display-position/
+
+## [MASES.JNetPS](https://www.powershellgallery.com/Packages/MASES.JNetPS/2.2.3) | 2.2.3
+
+### Published: 01/24/2024 21:22:23 by MASES s.r.l.
+
+JNet (Java/JVM suite for .NET) PowerShell (aka JNetPS) is a PowerShell Module to use JVM and PowerShell side-by-side. With JNetPS it is possible to:
+- create and use JVM objects from PowerShell: initialize JVM object (Java, Scala, Kotlin, ...), execute mehods on the object, read data from the object to be used for further PowerShell code 
+- send to JVM objects data managed from PowerShell: e.g. data of PowerShell, like an input from command-line or a variable, can be used as an argument for the initialization or execution of a method of a JVM object
+
+More information within the project hosted on GitHub at https://github.com/masesgroup/JNet for further information.
+
+__Downloads__: 116 | __Repository__: https://github.com/masesgroup/JNet
+
+## [dbatools](https://www.powershellgallery.com/Packages/dbatools/2.1.7) | 2.1.7
+
+### Published: 01/24/2024 20:06:07 by the dbatools team
+
+The community module that enables SQL Server Pros to automate database development and server administration
+
+__Downloads__: 3,588,412 | __Repository__: https://dbatools.io/
+
+## [AppVeyorTestPsGallery](https://www.powershellgallery.com/Packages/AppVeyorTestPsGallery/1.0.546) | 1.0.546
+
+### Published: 01/24/2024 19:24:35 by Feodor Fitsner
+
+The test module to verify publishing to PSGallery from AppVeyor.
+
+__Downloads__: 40,229 | __Repository__: 
+
 ## [AsBuiltReport.Microsoft.AD](https://www.powershellgallery.com/Packages/AsBuiltReport.Microsoft.AD/0.8.0) | 0.8.0
 
 ### Published: 01/24/2024 17:39:29 by Jonathan Colon
@@ -25,7 +93,7 @@ __Downloads__: 7 | __Repository__: https://github.com/rebelinux/Diagrammer.Micro
 
 JEA-Based Remoting Endpoint to help delegate certificate management
 
-__Downloads__: 1 | __Repository__: https://github.com/FriedrichWeinmann/JeaCertificateManager
+__Downloads__: 0 | __Repository__: https://github.com/FriedrichWeinmann/JeaCertificateManager
 
 ## [Easit.GO.Webservice](https://www.powershellgallery.com/Packages/Easit.GO.Webservice/1.1.1) | 1.1.1
 
@@ -65,7 +133,7 @@ __Downloads__: 228,396 | __Repository__: https://github.com/d365collaborative/d3
 
 Helper module for Active Directory with lots of useful functions that simplify supporting Active Directory.
 
-__Downloads__: 169,579 | __Repository__: https://github.com/EvotecIT/ADEssentials
+__Downloads__: 169,578 | __Repository__: https://github.com/EvotecIT/ADEssentials
 
 ## [UsagiTools](https://www.powershellgallery.com/Packages/UsagiTools/1.3.0) | 1.3.0
 
@@ -130,14 +198,6 @@ __Downloads__: 58,803 | __Repository__: https://github.com/EvotecIT/Testimo
 Module covering functions that are shared within multiple projects
 
 __Downloads__: 276,872 | __Repository__: https://github.com/EvotecIT/PSSharedGoods
-
-## [SdnDiagnostics](https://www.powershellgallery.com/Packages/SdnDiagnostics/4.2401.922.200741) | 4.2401.922.200741
-
-### Published: 01/23/2024 20:08:24 by Adam Rudell Luyao Feng
-
-SdnDiagnostics is a tool used to simplify the data collection and diagnostics of Windows Software Defined Networking.
-
-__Downloads__: 33,977 | __Repository__: https://github.com/microsoft/SdnDiagnostics
 
 ## [Thycotic.SecretServer](https://www.powershellgallery.com/Packages/Thycotic.SecretServer/0.61.8) | 0.61.8
 
@@ -1242,7 +1302,7 @@ __Downloads__: 96,429 | __Repository__: https://github.com/oracle/oci-powershell
 
 Orchestrate driver, BIOS/UEFI and firmware updates for Lenovo computers 👨‍💻
 
-__Downloads__: 19,494,216 | __Repository__: https://www.github.com/jantari/LSUClient
+__Downloads__: 19,494,163 | __Repository__: https://www.github.com/jantari/LSUClient
 
 ## [DscResource.Common](https://www.powershellgallery.com/Packages/DscResource.Common/0.17.0) | 0.17.0
 
@@ -1290,7 +1350,7 @@ __Downloads__: 20,349 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions for remote management and access.
 
-__Downloads__: 20,178 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 20,177 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.Office365](https://www.powershellgallery.com/Packages/AdminToolbox.Office365/3.1.79) | 3.1.79
 
@@ -1306,7 +1366,7 @@ __Downloads__: 21,826 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Network Troubleshooting Functions
 
-__Downloads__: 51,368 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 51,367 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.MSGraph](https://www.powershellgallery.com/Packages/AdminToolbox.MSGraph/1.2.129) | 1.2.129
 
@@ -1314,7 +1374,7 @@ __Downloads__: 51,368 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Microsoft Graph interactive API Functions
 
-__Downloads__: 10,352 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 10,351 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.Fun](https://www.powershellgallery.com/Packages/AdminToolbox.Fun/1.6.130) | 1.6.130
 
@@ -1614,7 +1674,7 @@ __Downloads__: 16,674 | __Repository__: https://infosys.beckhoff.com/content/103
 
 A module that can interact with the Episerver Cloud
 
-__Downloads__: 380,307 | __Repository__: 
+__Downloads__: 380,306 | __Repository__: 
 
 ## [SentinelEnrichment](https://www.powershellgallery.com/Packages/SentinelEnrichment/0.1.7) | 0.1.7
 
@@ -1631,14 +1691,6 @@ __Downloads__: 23 | __Repository__:
 Manage Windows display settings like resolution, DPI scale, HDR and more.
 
 __Downloads__: 17 | __Repository__: https://github.com/MartinGC94/DisplayConfig
-
-## [verkadaModule](https://www.powershellgallery.com/Packages/verkadaModule/0.6.13) | 0.6.13
-
-### Published: 01/21/2024 21:11:21 by Brad Parker
-
-Verkada Module
-
-__Downloads__: 227 | __Repository__: https://github.com/bepsoccer/verkadaModule
 
 ## [Adsi](https://www.powershellgallery.com/Packages/Adsi/4.0.7) | 4.0.7
 
@@ -1831,18 +1883,6 @@ This module will allow you to create a 365 Development Environment from an Excel
 
 __Downloads__: 147 | __Repository__: https://github.com/DevClate/365AutomatedLab
 
-## [MASES.JNetPS](https://www.powershellgallery.com/Packages/MASES.JNetPS/2.2.1) | 2.2.1
-
-### Published: 01/20/2024 11:11:23 by MASES s.r.l.
-
-JNet (Java/JVM suite for .NET) PowerShell (aka JNetPS) is a PowerShell Module to use JVM and PowerShell side-by-side. With JNetPS it is possible to:
-- create and use JVM objects from PowerShell: initialize JVM object (Java, Scala, Kotlin, ...), execute mehods on the object, read data from the object to be used for further PowerShell code 
-- send to JVM objects data managed from PowerShell: e.g. data of PowerShell, like an input from command-line or a variable, can be used as an argument for the initialization or execution of a method of a JVM object
-
-More information within the project hosted on GitHub at https://github.com/masesgroup/JNet for further information.
-
-__Downloads__: 116 | __Repository__: https://github.com/masesgroup/JNet
-
 ## [GitlabCli](https://www.powershellgallery.com/Packages/GitlabCli/1.108.0) | 1.108.0
 
 ### Published: 01/20/2024 00:10:51 by Chris Peterson
@@ -1881,7 +1921,7 @@ __Downloads__: 334,361 | __Repository__: https://github.com/PKISharp/ACME-PS
 
 PowerShell module, which makes it easier to work with Business Central Containers on Docker.
 
-__Downloads__: 1,623,600 | __Repository__: 
+__Downloads__: 1,623,613 | __Repository__: 
 
 ## [PSComputerManagementZp](https://www.powershellgallery.com/Packages/PSComputerManagementZp/0.1.0) | 0.1.0
 
@@ -2035,44 +2075,4 @@ Manage and Control workflows and jobs with JS7 JobScheduler Controller and Agent
 
 __Downloads__: 652 | __Repository__: https://kb.sos-berlin.com/x/PpQwAw
 
-## [ADAuditTasks](https://www.powershellgallery.com/Packages/ADAuditTasks/0.9.0) | 0.9.0
-
-### Published: 01/18/2024 17:24:51 by DrIOSx
-
-A module for running various Active Directory Tasks
-
-__Downloads__: 367 | __Repository__: https://github.com/CriticalSolutionsNetwork/ADAuditTasks
-
-## [tiPS](https://www.powershellgallery.com/Packages/tiPS/1.0.16) | 1.0.16
-
-### Published: 01/18/2024 16:37:58 by Daniel Schroeder
-
-PowerShell tips delivered straight to your terminal.
-
-__Downloads__: 1,812 | __Repository__: https://github.com/deadlydog/PowerShell.tiPS
-
-## [FS255.AutoHotkey](https://www.powershellgallery.com/Packages/FS255.AutoHotkey/0.0.1.1) | 0.0.1.1
-
-### Published: 01/18/2024 16:11:08 by FelixScholz
-
-AutoHotkey Installer and Builder.
-
-__Downloads__: 4 | __Repository__: https://git.fs255.org/Scripts/AutoHotKey
-
-## [Devolutions.PowerShell](https://www.powershellgallery.com/Packages/Devolutions.PowerShell/2023.3.5) | 2023.3.5
-
-### Published: 01/18/2024 13:52:35 by Devolutions
-
-The Devolutions.PowerShell module is a set of cmdlets that allow administrators to manage Remote Desktop Manager, Devolutions Server and Devolutions Hub Business using PowerShell. This module provides a simple and consistent interface for interacting with these products, making it easy to automate various tasks, such as creating and managing connections, sessions, and credentials, configuring security settings, and generating reports. The module can be easily integrated with other PowerShell modules, allowing administrators to automate tasks across multiple products and platforms, streamline their workflows and increase efficiency.
-
-__Downloads__: 17,286 | __Repository__: https://devolutions.net/
-
-## [PSQualityCheck](https://www.powershellgallery.com/Packages/PSQualityCheck/2.0.3) | 2.0.3
-
-### Published: 01/18/2024 13:38:43 by Andrew Davidson
-
-PSQualityCheck
-
-__Downloads__: 631 | __Repository__: 
-
-*Updated: Wednesday, 24 January 2024 17:52:28 UTC*
+*Updated: Thursday, 25 January 2024 02:08:59 UTC*
