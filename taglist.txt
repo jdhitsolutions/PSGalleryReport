@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Thursday, 25 January 2024 09:52:25 UTC
+Updated: Thursday, 25 January 2024 17:52:31 UTC
 
 .bat
 .env
@@ -16,7 +16,6 @@ Updated: Thursday, 25 January 2024 09:52:25 UTC
 {modulenameplaceholder}
 **psedition_desktop**
 **windows**
-🍄
 🍣
 💩
 10
@@ -81,6 +80,7 @@ acas
 accelerator
 access
 access-control
+access-points
 accesscontrol
 accesscontroldsc
 accessgovernancecp
@@ -105,7 +105,6 @@ act!
 actifio
 actifiogo
 action
-action1
 actiongroup
 actionplan
 actions
@@ -218,6 +217,7 @@ advanced
 advapi32
 advice
 advisor
+adwords
 adx
 adxingestion
 aem
@@ -271,6 +271,7 @@ alertmail
 alertmanagement
 alerts
 alertsmanagement
+alfresco
 algorithm
 algorithms
 alias
@@ -289,6 +290,7 @@ alpine
 alt3
 alter
 alteryx
+alwaysontop
 alwaysonvpn
 alz
 amateur
@@ -368,6 +370,7 @@ apmsynthetics
 apmtraces
 aportal
 app
+app-control-for-business
 app-only
 app-v
 app-volumes
@@ -384,7 +387,9 @@ appinsights
 applayering
 apple
 application
+application-control
 application-transformer
+application-whitelisting
 applicationgateway
 applicationgrid
 applicationhost.config
@@ -463,6 +468,7 @@ asbuiltreport
 asc
 ascii
 ascii85
+asciiart
 asdatabase
 asigra
 asjob
@@ -755,6 +761,7 @@ bbp
 bc
 bcd
 bcdedit
+bcdr
 bd
 bdd
 bds
@@ -940,9 +947,9 @@ businessobjects
 businessrulesengine
 businesstime
 bxor
-bydesign
 byexample
 bynarypsmodule
+byovd
 byte
 bytearray
 bzip2
@@ -975,8 +982,6 @@ capslock
 captcha
 capture
 carbon
-carbonawarecomputing
-carbonintensity
 card
 cardwirth
 cargo
@@ -999,6 +1004,7 @@ cavium
 cb
 cblueshell
 cbr
+cbz
 cchoco
 cchocoex
 ccm
@@ -1580,6 +1586,7 @@ culture
 cumulative
 cumulativeupdate
 cumulocity
+curious
 curl
 curlie
 currency
@@ -1749,6 +1756,7 @@ debugger
 debugging
 decimal
 decimalip
+decimalzero
 declarative
 decline
 decode
@@ -1756,6 +1764,7 @@ decode64
 decoding
 decompiler
 decrypt
+decryption
 dedicatedhsm
 deduplication
 deep
@@ -1786,6 +1795,7 @@ delivery
 dell
 dellemc
 delta
+demand
 demo
 democratie
 demonstration
@@ -1926,7 +1936,6 @@ distributiongroups
 distributionlist
 distributionpointgroupmembers
 distrubtionpoint
-dividends
 diving
 division
 divoom
@@ -1956,6 +1965,7 @@ dnsclient
 dnsdumpster
 dnsentry
 dnsimple
+dnslookup
 dnsmadeeasy
 dnsoverhttps
 dnsrecord
@@ -2124,6 +2134,7 @@ dynamicsnav
 dynamodb
 dynatrace
 dynatraceobservability
+dz
 e-mail
 e1
 easy
@@ -2155,7 +2166,6 @@ educational
 effectiveroutes
 efficientether
 efi
-egrep
 eid
 eigencontroles
 einstein
@@ -2239,6 +2249,7 @@ enumerable
 env
 environment
 environment-variables
+environmentmanagent
 environmentmodules
 environments
 environmentvariable
@@ -2358,7 +2369,9 @@ exchangewebservices
 exclusion
 excuse
 exe
+exec
 executable
+executables
 execute
 exexml
 exif
@@ -2666,7 +2679,6 @@ full-metal-gnome
 fullclr
 fulljoin
 fullmetalgnome
-fullscreen
 fun
 function
 function_calling
@@ -2784,7 +2796,6 @@ gh
 gh-actions
 ghactions
 ghc
-ghibli
 ghost
 gif
 gifs
@@ -2984,7 +2995,6 @@ header
 headhunter
 health
 health_checks
-healthbot
 healthcare
 healthcareapis
 healthcheck
@@ -3056,13 +3066,13 @@ hl7
 hlds
 hls
 hockey
+hol
 holiday
 home
 home_automation
 homebrew
 homelandsecurity
 homeschooling
-hon
 hooking
 horizon
 horizontal
@@ -3125,6 +3135,7 @@ humanizer
 humanly
 humor
 humorous
+hunter
 hwid
 hybrid
 hybridrunbookworker
@@ -3262,10 +3273,6 @@ influxdb
 info
 infoblox
 information
-information-technology
-informationbarriers
-informationtechnology
-informationtechnologyoperations
 informix
 infosec
 infrastructure
@@ -3331,6 +3338,7 @@ interlogix
 internal
 internet
 internet-explorer
+internetconnection
 internetexplorer
 intersight
 intersightcmdlets
@@ -3420,7 +3428,6 @@ ispss
 issues
 isvalidemail
 isvalidip
-it
 it-support
 it-tool
 it-tools
@@ -3515,8 +3522,6 @@ k8s
 k8sshell
 kafka
 kaminario
-karabiner
-karabiner-elements
 karma
 kaseya
 kaseyavsa
@@ -3540,15 +3545,12 @@ key
 key-vault
 key2wocas
 keybase
-keybinding
 keyboard
 keyboardstartkey
 keycipher
 keycloak
 keylight
 keymanagement
-keymap
-keymapping
 keypair
 keysms
 keyvault
@@ -3620,6 +3622,8 @@ laps
 laragon
 laserbeams
 last
+last.fm
+lastfm
 lastlogon
 lastpass
 latency
@@ -3672,7 +3676,6 @@ licence
 license
 license-generator
 licenseautomation
-licensemanagement
 licensemanager
 licensereport
 licenses
@@ -3752,6 +3755,7 @@ lockoutreport
 lockscreen
 locksmith
 lockstep
+lod
 lodasoft
 log
 log-administration
@@ -3977,6 +3981,7 @@ media
 mediant
 mediaplayer
 mediaservices
+mediawiki
 meditation
 meesman
 meeting
@@ -4545,6 +4550,7 @@ omnisphere
 omnistack
 oms
 omsagent
+on
 on-demand
 on-premise
 onboard
@@ -4810,6 +4816,7 @@ pdf-generation
 pdf-redaction
 pe
 peek
+peering
 peheader
 pem
 pemfile
@@ -4976,7 +4983,6 @@ poshprtg
 poshrsjob
 poshtemplate
 poshwsus
-poshy-code-search
 poshy-colors
 poshy-coreutils-ish
 poshy-dir-nav
@@ -5029,7 +5035,6 @@ poshy-wrap-vscode
 poshy-wrap-wget
 poshy-wrap-wt
 poshy-wrap-yum
-poshy-wrap-zypper
 position
 post
 postgre
@@ -5090,7 +5095,6 @@ powershell-terminal-copilot
 powershell-training
 powershell.module.invokewinget
 powershell.one
-powershell.persistentpathstack
 powershell7
 powershellai
 powershellazuresql
@@ -5749,8 +5753,6 @@ pscommand_get-gitwhatchangedstylized
 pscommand_get-itemnixmode
 pscommand_get-netipaddresspublic
 pscommand_get-netipaddresssimple
-pscommand_get-pwshaliasdefinition
-pscommand_get-pwshfunctiondefinition
 pscommand_get-viewer
 pscommand_geun
 pscommand_gexport
@@ -6475,52 +6477,6 @@ pscommand_invoke-yumremove
 pscommand_invoke-yumremoveleaves
 pscommand_invoke-yumsearch
 pscommand_invoke-yumupdate
-pscommand_invoke-zypper
-pscommand_invoke-zypperaddlock
-pscommand_invoke-zypperaddservice
-pscommand_invoke-zypperadrepo
-pscommand_invoke-zypperclean
-pscommand_invoke-zyppercleanlocks
-pscommand_invoke-zypperdistupgrade
-pscommand_invoke-zypperhelp
-pscommand_invoke-zypperhelpsearch
-pscommand_invoke-zypperif
-pscommand_invoke-zypperin
-pscommand_invoke-zypperinstallnewrecommends
-pscommand_invoke-zypperlicenses
-pscommand_invoke-zypperlistlocks
-pscommand_invoke-zypperlistpackages
-pscommand_invoke-zypperlistprocesseslockingpackages
-pscommand_invoke-zypperlistrepos
-pscommand_invoke-zypperlistservices
-pscommand_invoke-zypperlistupdates
-pscommand_invoke-zyppermodifyrepo
-pscommand_invoke-zyppermodifyservice
-pscommand_invoke-zypperpackages
-pscommand_invoke-zypperpatch
-pscommand_invoke-zypperpatchcheck
-pscommand_invoke-zypperpatches
-pscommand_invoke-zypperpatchinfo
-pscommand_invoke-zypperpatterninfo
-pscommand_invoke-zypperpatterns
-pscommand_invoke-zypperproductinfo
-pscommand_invoke-zypperproducts
-pscommand_invoke-zypperrefresh
-pscommand_invoke-zypperrefreshservices
-pscommand_invoke-zypperremove
-pscommand_invoke-zypperremovelock
-pscommand_invoke-zypperremoverepo
-pscommand_invoke-zypperremoveservice
-pscommand_invoke-zypperrenamerepo
-pscommand_invoke-zyppersearch
-pscommand_invoke-zyppershell
-pscommand_invoke-zyppersourcedownload
-pscommand_invoke-zyppersourceinstall
-pscommand_invoke-zyppertargetos
-pscommand_invoke-zypperupdate
-pscommand_invoke-zypperverify
-pscommand_invoke-zypperversioncompare
-pscommand_invoke-zypperwhatprovides
 pscommand_invokeyumgrouplist
 pscommand_ips
 pscommand_ipy
@@ -6815,7 +6771,6 @@ pscommand_scu-disable-now
 pscommand_scu-enable-now
 pscommand_scu-mask-now
 pscommand_search-commandpath
-pscommand_search-ruby
 pscommand_set-envvar
 pscommand_set-gitremoteurl
 pscommand_set-itemnixmode
@@ -7005,54 +6960,10 @@ pscommand_yr
 pscommand_yrl
 pscommand_ys
 pscommand_yu
-pscommand_z
-pscommand_zal
-pscommand_zar
-pscommand_zas
-pscommand_zcl
-pscommand_zdup
-pscommand_zh
-pscommand_zhse
-pscommand_zif
-pscommand_zin
-pscommand_zinr
-pscommand_zlicenses
-pscommand_zll
-pscommand_zlp
-pscommand_zlr
-pscommand_zls
-pscommand_zlu
-pscommand_zmr
-pscommand_zms
-pscommand_znr
-pscommand_zpa
-pscommand_zpatch
-pscommand_zpatch-info
-pscommand_zpattern-info
-pscommand_zpch
-pscommand_zpchk
-pscommand_zpd
-pscommand_zproduct-info
-pscommand_zps
-pscommand_zpt
-pscommand_zref
-pscommand_zrefs
-pscommand_zrl
-pscommand_zrm
-pscommand_zrr
-pscommand_zrs
-pscommand_zse
-pscommand_zshell
-pscommand_zsi
-pscommand_zsource-download
-pscommand_ztos
-pscommand_zup
-pscommand_zvcmp
-pscommand_zve
-pscommand_zwp
 pscommander
 psconfasia
 psconfeu
+psconfig
 pscore
 pscredential
 pscribo
@@ -7340,8 +7251,6 @@ psfunction_get-gitwhatchangedstylized
 psfunction_get-itemnixmode
 psfunction_get-netipaddresspublic
 psfunction_get-netipaddresssimple
-psfunction_get-pwshaliasdefinition
-psfunction_get-pwshfunctiondefinition
 psfunction_get-viewer
 psfunction_git_blame_line
 psfunction_git_checkout_child
@@ -7883,52 +7792,6 @@ psfunction_invoke-yumremove
 psfunction_invoke-yumremoveleaves
 psfunction_invoke-yumsearch
 psfunction_invoke-yumupdate
-psfunction_invoke-zypper
-psfunction_invoke-zypperaddlock
-psfunction_invoke-zypperaddservice
-psfunction_invoke-zypperadrepo
-psfunction_invoke-zypperclean
-psfunction_invoke-zyppercleanlocks
-psfunction_invoke-zypperdistupgrade
-psfunction_invoke-zypperhelp
-psfunction_invoke-zypperhelpsearch
-psfunction_invoke-zypperif
-psfunction_invoke-zypperin
-psfunction_invoke-zypperinstallnewrecommends
-psfunction_invoke-zypperlicenses
-psfunction_invoke-zypperlistlocks
-psfunction_invoke-zypperlistpackages
-psfunction_invoke-zypperlistprocesseslockingpackages
-psfunction_invoke-zypperlistrepos
-psfunction_invoke-zypperlistservices
-psfunction_invoke-zypperlistupdates
-psfunction_invoke-zyppermodifyrepo
-psfunction_invoke-zyppermodifyservice
-psfunction_invoke-zypperpackages
-psfunction_invoke-zypperpatch
-psfunction_invoke-zypperpatchcheck
-psfunction_invoke-zypperpatches
-psfunction_invoke-zypperpatchinfo
-psfunction_invoke-zypperpatterninfo
-psfunction_invoke-zypperpatterns
-psfunction_invoke-zypperproductinfo
-psfunction_invoke-zypperproducts
-psfunction_invoke-zypperrefresh
-psfunction_invoke-zypperrefreshservices
-psfunction_invoke-zypperremove
-psfunction_invoke-zypperremovelock
-psfunction_invoke-zypperremoverepo
-psfunction_invoke-zypperremoveservice
-psfunction_invoke-zypperrenamerepo
-psfunction_invoke-zyppersearch
-psfunction_invoke-zyppershell
-psfunction_invoke-zyppersourcedownload
-psfunction_invoke-zyppersourceinstall
-psfunction_invoke-zyppertargetos
-psfunction_invoke-zypperupdate
-psfunction_invoke-zypperverify
-psfunction_invoke-zypperversioncompare
-psfunction_invoke-zypperwhatprovides
 psfunction_invokeyumgrouplist
 psfunction_jump
 psfunction_kerndeb
@@ -8025,7 +7888,6 @@ psfunction_scu-disable-now
 psfunction_scu-enable-now
 psfunction_scu-mask-now
 psfunction_search-commandpath
-psfunction_search-ruby
 psfunction_set-envvar
 psfunction_set-gitremoteurl
 psfunction_set-itemnixmode
@@ -8306,7 +8168,6 @@ queue
 queues
 queuing
 quickaccess
-quickbase
 quickbooks
 quicksetup
 quiz
@@ -8463,6 +8324,7 @@ relational
 relay
 release
 releasedefinition
+releasehealth
 releasemanagement
 releasenotes
 relevance
@@ -8792,6 +8654,7 @@ screencapture
 screenconnect
 screenfetch
 screenresolution
+screensaver
 screenshot
 script
 script_version
@@ -8888,9 +8751,7 @@ selectxmlinfo
 selenium
 self
 self-hosted
-self-service
 self-signed
-selfdispatch
 selfhelp
 selfsigned
 semantic
@@ -8908,6 +8769,7 @@ sendgrid
 sendkeys
 sendmail
 sense
+sensitive
 sensitivity
 sensor
 sensors
@@ -9008,7 +8870,9 @@ shared
 sharefile
 sharepoint
 sharepoint_online
+sharepoint-on-prem
 sharepoint-online
+sharepoint-product-configuration-wizard
 sharepoint2013
 sharepointdevelopmentcommunity
 sharepointonline
@@ -9323,7 +9187,6 @@ sslprotocol
 ssm
 sso
 sspi
-sspr
 ssrs
 ssst
 sstp
@@ -9352,7 +9215,6 @@ startmen
 startmenu
 starttls
 starwars
-stash
 stat
 state
 static
@@ -9384,7 +9246,6 @@ stigrepo
 stingar
 stock
 stockcharts
-stocks
 stoicism
 stoics
 stop
@@ -9525,7 +9386,6 @@ syspip3
 sysprep
 system
 system information 1394 controller baseboard motherboard systemboard battery bios bus cache memory cd dvd rom drive compact disc desktop monitor disk partition fan floppy glide point heatpipe ide infrared device keyboard local logical array mouse'
-system-administration
 system-group
 system-service
 system-services
@@ -9591,7 +9451,6 @@ tcp
 tcp/ip
 tcpip
 tcpport
-tcprjmgmt
 tcpserver
 tcptest
 tcx
@@ -9606,10 +9465,8 @@ teamsdevices
 teamservices
 teamspolicy
 teamviewer
-techdirect
 techedna2014
 techlog
-technology
 techsmith
 tel
 telegram
@@ -9626,7 +9483,6 @@ template
 template-engine
 templates
 templating
-temporary
 tenable
 tenable.sc
 tenant
@@ -9650,6 +9506,7 @@ tesla
 test
 test-automation
 test-dscconfiguration
+test-internetconnection
 test-modulepath
 test-osplatform
 test-psremoting
@@ -10327,6 +10184,7 @@ waykbastion
 wbem
 wcf
 wcry
+wdac
 wdapi
 wds
 weather
@@ -10426,6 +10284,7 @@ windows-10
 windows-api
 windows-control-panel
 windows-defender
+windows-defender-application-control
 windows-environment
 windows-explorer
 windows-features
@@ -10443,6 +10302,7 @@ windows11
 windows365
 windowsadmincenter
 windowsaudit
+windowsbuilds
 windowscredential
 windowscredentialmanager
 windowscredentials
@@ -10465,6 +10325,7 @@ windowspackagemanager
 windowsplugins
 windowspowershell
 windowspresentationfoundation
+windowsreleasehealth
 windowsrest
 windowssandbox
 windowssearchmanager
@@ -10581,6 +10442,7 @@ writeprogress
 writer
 ws-federation
 wsapi
+wsb
 wsl
 wsl2
 wsl2 psmodule psedition_core
@@ -10661,6 +10523,7 @@ yamaha
 yaml
 yandex
 yapg
+yarn
 yetanotherhelloworld
 yml
 ynab
@@ -10668,7 +10531,6 @@ youtube
 youtube-dl
 youtubeextractor
 yq
-yubaba
 yum
 z
 zabbix
@@ -10695,11 +10557,9 @@ zuora
 zvm
 zvml
 zvmlinux
-zypper
 カタカナ
 ひらがな
 ローマ字
 全角半角変換
 寿司
 日本語
-湯婆婆
