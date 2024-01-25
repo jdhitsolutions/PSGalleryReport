@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Thursday, 25 January 2024 02:09:09 UTC
+Updated: Thursday, 25 January 2024 09:52:25 UTC
 
 .bat
 .env
@@ -81,7 +81,6 @@ acas
 accelerator
 access
 access-control
-access-points
 accesscontrol
 accesscontroldsc
 accessgovernancecp
@@ -219,7 +218,6 @@ advanced
 advapi32
 advice
 advisor
-adwords
 adx
 adxingestion
 aem
@@ -273,7 +271,6 @@ alertmail
 alertmanagement
 alerts
 alertsmanagement
-alfresco
 algorithm
 algorithms
 alias
@@ -292,7 +289,6 @@ alpine
 alt3
 alter
 alteryx
-alwaysontop
 alwaysonvpn
 alz
 amateur
@@ -302,8 +298,10 @@ amateurradio
 amazon
 amazonaws
 amazonmgn
+amazonwebservices
 amend
 ami
+amiga
 amp
 amqp
 amsi
@@ -370,7 +368,6 @@ apmsynthetics
 apmtraces
 aportal
 app
-app-control-for-business
 app-only
 app-v
 app-volumes
@@ -387,9 +384,7 @@ appinsights
 applayering
 apple
 application
-application-control
 application-transformer
-application-whitelisting
 applicationgateway
 applicationgrid
 applicationhost.config
@@ -468,7 +463,6 @@ asbuiltreport
 asc
 ascii
 ascii85
-asciiart
 asdatabase
 asigra
 asjob
@@ -761,7 +755,6 @@ bbp
 bc
 bcd
 bcdedit
-bcdr
 bd
 bdd
 bds
@@ -950,7 +943,6 @@ bxor
 bydesign
 byexample
 bynarypsmodule
-byovd
 byte
 bytearray
 bzip2
@@ -1007,7 +999,6 @@ cavium
 cb
 cblueshell
 cbr
-cbz
 cchoco
 cchocoex
 ccm
@@ -1100,6 +1091,7 @@ choco
 choco-bear
 chocobear
 chocolatey
+choice
 chooser
 christaylorcodes
 christmas
@@ -1588,7 +1580,6 @@ culture
 cumulative
 cumulativeupdate
 cumulocity
-curious
 curl
 curlie
 currency
@@ -1758,7 +1749,6 @@ debugger
 debugging
 decimal
 decimalip
-decimalzero
 declarative
 decline
 decode
@@ -1796,7 +1786,6 @@ delivery
 dell
 dellemc
 delta
-demand
 demo
 democratie
 demonstration
@@ -1967,7 +1956,6 @@ dnsclient
 dnsdumpster
 dnsentry
 dnsimple
-dnslookup
 dnsmadeeasy
 dnsoverhttps
 dnsrecord
@@ -2136,7 +2124,6 @@ dynamicsnav
 dynamodb
 dynatrace
 dynatraceobservability
-dz
 e-mail
 e1
 easy
@@ -2252,7 +2239,6 @@ enumerable
 env
 environment
 environment-variables
-environmentmanagent
 environmentmodules
 environments
 environmentvariable
@@ -2372,9 +2358,7 @@ exchangewebservices
 exclusion
 excuse
 exe
-exec
 executable
-executables
 execute
 exexml
 exif
@@ -2441,6 +2425,7 @@ factoryorchestratorclient
 facts
 faf
 failedlogin
+failure
 falcon
 fallbackstatuspoint
 fanarttv
@@ -2830,6 +2815,7 @@ gitlab4
 gitlabpipeline
 gitops
 glob
+globalclipboard
 globaldashboard
 globalentry
 globbing
@@ -3070,7 +3056,6 @@ hl7
 hlds
 hls
 hockey
-hol
 holiday
 home
 home_automation
@@ -3140,7 +3125,6 @@ humanizer
 humanly
 humor
 humorous
-hunter
 hwid
 hybrid
 hybridrunbookworker
@@ -3268,6 +3252,7 @@ incontact
 indents
 index
 indexdb
+indicator
 inedo
 inetfwrule
 inetum
@@ -3294,6 +3279,7 @@ initiator
 inline-progress
 inlineprogress
 innerjoin
+innertext
 input
 inputbox
 inputobject
@@ -3345,7 +3331,6 @@ interlogix
 internal
 internet
 internet-explorer
-internetconnection
 internetexplorer
 intersight
 intersightcmdlets
@@ -3635,8 +3620,6 @@ laps
 laragon
 laserbeams
 last
-last.fm
-lastfm
 lastlogon
 lastpass
 latency
@@ -3769,7 +3752,6 @@ lockoutreport
 lockscreen
 locksmith
 lockstep
-lod
 lodasoft
 log
 log-administration
@@ -3876,6 +3858,8 @@ magnet
 mail
 mailbox
 mailchimp
+mailgroup
+mailgroupmember
 mailing
 mailkit
 mails
@@ -3993,7 +3977,7 @@ media
 mediant
 mediaplayer
 mediaservices
-mediawiki
+meditation
 meesman
 meeting
 meetup
@@ -4158,6 +4142,7 @@ monitoring_objects
 monitoring_variables
 monitoringplugins
 monitoringsolutions
+monitors
 monthlyupdate
 moodle
 moonshot
@@ -4560,7 +4545,6 @@ omnisphere
 omnistack
 oms
 omsagent
-on
 on-demand
 on-premise
 onboard
@@ -4700,6 +4684,7 @@ out-default
 out-gridview
 out-json
 outerjoin
+outertext
 outline
 outlook
 output
@@ -4825,7 +4810,6 @@ pdf-generation
 pdf-redaction
 pe
 peek
-peering
 peheader
 pem
 pemfile
@@ -4849,6 +4833,7 @@ personal
 personalisation
 personalization
 personalvault
+personio
 pester
 pf
 pfe
@@ -4869,6 +4854,7 @@ photos
 php
 phpapam
 pi
+picker
 pico
 picture
 pictures
@@ -5128,6 +5114,7 @@ powershelluniversal
 powershellv5
 powerstig
 powerstore
+powertab
 powertoolcmdlets
 powertooldsc
 ppdm
@@ -7066,7 +7053,6 @@ pscommand_zwp
 pscommander
 psconfasia
 psconfeu
-psconfig
 pscore
 pscredential
 pscribo
@@ -8182,6 +8168,7 @@ psngenposh
 psobject
 psoutlog
 pspath
+pspersonio
 pspowerhour
 psprofiler
 psproject
@@ -8462,6 +8449,7 @@ region
 regions
 regiser-argumentcompleter
 register
+register-argumentcompleter
 registered
 registrar
 registration
@@ -8475,7 +8463,6 @@ relational
 relay
 release
 releasedefinition
-releasehealth
 releasemanagement
 releasenotes
 relevance
@@ -8551,6 +8538,7 @@ resize
 resolution
 resolve
 resolve-stache
+resolve-template
 resolver
 resource
 resource_monitor
@@ -9020,9 +9008,7 @@ shared
 sharefile
 sharepoint
 sharepoint_online
-sharepoint-on-prem
 sharepoint-online
-sharepoint-product-configuration-wizard
 sharepoint2013
 sharepointdevelopmentcommunity
 sharepointonline
@@ -9480,6 +9466,7 @@ support-tools
 suppress
 supress-reboot
 surestacks
+surround
 survey
 surveymonkey
 sus
@@ -9663,7 +9650,6 @@ tesla
 test
 test-automation
 test-dscconfiguration
-test-internetconnection
 test-modulepath
 test-osplatform
 test-psremoting
@@ -9967,6 +9953,7 @@ ud-timeout
 ud-tool
 ud-toploader
 ud-trendline
+ud-typing
 ud-window
 ud-wordtree
 udcm
@@ -10179,6 +10166,7 @@ vie
 viewer
 vigenere
 vim
+vimode
 virole
 virsh
 virtual
@@ -10339,7 +10327,6 @@ waykbastion
 wbem
 wcf
 wcry
-wdac
 wdapi
 wds
 weather
@@ -10439,7 +10426,6 @@ windows-10
 windows-api
 windows-control-panel
 windows-defender
-windows-defender-application-control
 windows-environment
 windows-explorer
 windows-features
@@ -10457,7 +10443,6 @@ windows11
 windows365
 windowsadmincenter
 windowsaudit
-windowsbuilds
 windowscredential
 windowscredentialmanager
 windowscredentials
@@ -10480,7 +10465,6 @@ windowspackagemanager
 windowsplugins
 windowspowershell
 windowspresentationfoundation
-windowsreleasehealth
 windowsrest
 windowssandbox
 windowssearchmanager
@@ -10597,7 +10581,6 @@ writeprogress
 writer
 ws-federation
 wsapi
-wsb
 wsl
 wsl2
 wsl2 psmodule psedition_core
@@ -10676,8 +10659,8 @@ yahoo
 yahw
 yamaha
 yaml
+yandex
 yapg
-yarn
 yetanotherhelloworld
 yml
 ynab
