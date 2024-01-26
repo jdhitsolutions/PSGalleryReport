@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Friday, 26 January 2024 09:52:29 UTC
+Updated: Friday, 26 January 2024 17:52:34 UTC
 
 .bat
 .env
@@ -14,6 +14,8 @@ Updated: Friday, 26 January 2024 09:52:29 UTC
 'provider'
 "interactive
 {modulenameplaceholder}
+**psedition_desktop**
+**windows**
 🍄
 🍣
 💩
@@ -303,6 +305,7 @@ amazonmgn
 amazonwebservices
 amend
 ami
+amiga
 amp
 amqp
 amsi
@@ -421,6 +424,8 @@ apt-get
 apt-get-update
 apteco
 aptitude
+aql
+arangodb
 arc
 arcade
 arcgis
@@ -508,7 +513,6 @@ atmosphere
 atom
 atp
 atrium
-att&ck
 attach
 attestation
 attila
@@ -1048,7 +1052,6 @@ certificate
 certificateauthority
 certificatechain
 certificatemanager
-certificatepolicy
 certificates
 certificateservices
 certificatesmanagement
@@ -1311,8 +1314,8 @@ commence
 comment
 comments
 commerce
+commfort
 commit
-commits
 common
 common-data-service
 commonareaphone
@@ -1413,7 +1416,6 @@ containerinstances
 containerregistry
 containers
 containment
-contentprep
 context
 continious-deploy
 continious-integration
@@ -1431,8 +1433,6 @@ contrast
 control
 controller
 controlroom
-conventional
-conventional-commits
 convereter
 converged_data_management
 conversational
@@ -1516,6 +1516,7 @@ crc32
 create
 createcolumn
 createdatabase
+createfile
 createprocessasuser
 createschema
 createtable
@@ -1762,7 +1763,6 @@ decode64
 decoding
 decompiler
 decrypt
-decryption
 dedicatedhsm
 deduplication
 deep
@@ -1847,7 +1847,6 @@ devops
 devops psmodule
 devsecninja
 devsecops
-devspaces
 devtestlabs
 dfch
 dfir
@@ -2263,7 +2262,6 @@ ephesoft
 epicor
 episode
 epplus
-eprosima
 epub
 epv
 equality
@@ -2278,6 +2276,7 @@ errorview
 eryph
 esae
 escape
+escapecodes
 escapesequences
 escaping
 ese
@@ -2333,7 +2332,6 @@ eventsubscription
 eventviewer
 eventwatch
 evergreen
-evernote
 everydaypowershell
 everydayrewards
 everything
@@ -2437,14 +2435,15 @@ factoryorchestratorclient
 facts
 faf
 failedlogin
+failure
 falcon
 fallbackstatuspoint
 fanarttv
+fancy
 faq
 farm
 farmanager
 fast
-fast-dds
 fast-ping
 fastfilepub
 fastgit
@@ -2642,8 +2641,6 @@ fqdn
 frame
 framework
 france
-free
-free-ware
 freeipa
 freenas
 freesoftwarefoundation
@@ -2695,7 +2692,6 @@ gainz
 gainz-chocolateysync
 gainz-keepass
 gainz-sqldb
-gal
 gallery
 game
 gamecategory:cards
@@ -2770,6 +2766,7 @@ get-dtscriptnewcmtasksequencefromdriverpackpackagedefinitionsms
 get-emptyadgroups
 get-externalip
 get-firmwaretype
+get-help
 get-history
 get-iislog
 get-openfile
@@ -2917,7 +2914,6 @@ guardicore
 gubbins
 guest
 guestconfiguration
-guests
 gui
 gui.cs
 guid
@@ -2954,6 +2950,7 @@ hanaon
 handle
 handler
 hangouts
+hannelstoolbox
 hanwha
 har
 hard
@@ -3163,7 +3160,6 @@ ib
 ibm
 ibmc
 ibmhttpserver
-icacl
 icinga
 icinga2
 icinga2mssql
@@ -3273,7 +3269,6 @@ info
 infoblox
 information
 information-technology
-informationbarriers
 informationtechnology
 informationtechnologyoperations
 informix
@@ -3324,6 +3319,7 @@ integrated
 integratedscriptingeditor
 integration
 integrationaccount
+integrationruntime
 integrationruntimedependency
 integrationservicescatalog
 integrity
@@ -3412,6 +3408,7 @@ irkit
 irl
 irregular
 isadmin
+isbn
 iscsi
 isdate
 ise
@@ -3477,7 +3474,6 @@ jms
 jmsjavadownloads
 jnet
 jnetps
-joat
 job
 jobcan
 jobs
@@ -3524,8 +3520,6 @@ k8s
 k8sshell
 kafka
 kaminario
-karabiner
-karabiner-elements
 karma
 kaseya
 kaseyavsa
@@ -3549,15 +3543,12 @@ key
 key-vault
 key2wocas
 keybase
-keybinding
 keyboard
 keyboardstartkey
 keycipher
 keycloak
 keylight
 keymanagement
-keymap
-keymapping
 keypair
 keysms
 keyvault
@@ -3568,7 +3559,6 @@ kidrsa
 kill
 kindle
 kinetic
-kintone
 klantcontroles
 kms
 knapsack
@@ -3617,6 +3607,7 @@ lake
 lambda
 lame
 lametrictime
+lamp
 lan
 landingzones
 language
@@ -3643,6 +3634,7 @@ layout
 lazywinadmin
 lbi
 lbs
+lccn
 lcm
 lcminternals
 ldap
@@ -3750,6 +3742,7 @@ locale
 localgroup
 localgroupmember
 localization
+localpolicy
 location
 locationbasedservices
 lock
@@ -3854,7 +3847,6 @@ machine
 machinelearning
 machinelearningcompute
 machinelearningservices
-macmon
 macos
 macosx
 macro
@@ -3884,6 +3876,7 @@ maker
 malware
 mamagedidentity
 maml
+man-highlighting
 manage
 manage-wmi
 manageability
@@ -3905,6 +3898,7 @@ managementpoint
 manager
 mangement
 manifest
+manual
 map
 mapapi
 mapi
@@ -3986,6 +3980,7 @@ mediant
 mediaplayer
 mediaservices
 mediawiki
+meditation
 meesman
 meeting
 meetup
@@ -4013,6 +4008,7 @@ mermaid
 message
 message-emoji
 message-emojis
+messagebox
 messageoftheday
 messages
 messaging
@@ -4136,7 +4132,6 @@ moldova
 moment
 monaco
 monday
-mondoo
 money
 moneyforward
 mongo
@@ -4180,7 +4175,6 @@ msacpi_thermalzonetemperature
 msal
 msauth
 msband
-msbi
 msbuild
 msdeploy
 msdn
@@ -4273,7 +4267,6 @@ mytest
 n-able
 n-central
 nabu
-nac
 nagios
 name
 name-of-dogs
@@ -4306,6 +4299,8 @@ neo4j
 neovim
 neptune
 nerdfonts
+nerdio
+nerdioapi
 nerdymishka
 nessus
 nested
@@ -4338,7 +4333,6 @@ network
 network adapter configuration operating os optical sensor physical pointing portable printer processor cpu refrigaration cooling cooler removable usb sd ram dimm scsi sound audio card enclosure tape temperature touchpad touch pad touchscreen screen trackball trackpoint video graphics voltage psmodule
 network-credentials
 network-info
-networkanalytics
 networkcloud
 networkcontroller
 networkdiscovery
@@ -4362,6 +4356,7 @@ new-dtcmtasksequencefromdriverpackpackagedefinitionsms
 new-dynamicdictionary
 new-dynamicparameter
 new-githubrelease
+new-item
 new-itemproperty
 new-pinneditem
 new-rdpsession
@@ -4380,6 +4375,7 @@ nexenta
 nexentastor
 nexthink
 nexus
+nexusiq
 nfsv3
 ngen
 ngfw
@@ -4403,6 +4399,7 @@ nlm
 nlog
 nmap
 nmbell
+nmm
 nntp
 node
 nodejs
@@ -5214,6 +5211,7 @@ projectwise
 proliant
 prometheus
 prompt
+pronounceable
 proofpoint
 properties
 property
@@ -8721,7 +8719,6 @@ san
 sand
 sandbox
 sanitization
-sanitizer
 sap
 sapazure
 saponazure
@@ -8746,6 +8743,7 @@ scalablevectorgraphics
 scale
 scan
 scanner
+scap
 scatter
 scb
 scc
@@ -8882,7 +8880,6 @@ securitytxt
 sed
 seed
 seek
-seekatar
 seeshell
 select
 select-item
@@ -8892,13 +8889,11 @@ select-string
 selection
 selectxmlinfo
 selenium
-self
 self-hosted
 self-service
 self-signed
 selfdispatch
 selfhelp
-selfsigned
 semantic
 semantic-versioning
 semaphore
@@ -8914,7 +8909,6 @@ sendgrid
 sendkeys
 sendmail
 sense
-sensitive
 sensitivity
 sensor
 sensors
@@ -8935,7 +8929,6 @@ serilog
 serilog-for-powershell
 serilog-sink
 server
-servercertificatevalidationcallback
 serverless
 servermanagement
 servers
@@ -9059,7 +9052,6 @@ sign
 signalfx
 signalr
 signature
-signed
 signing
 signtool
 silk
@@ -9248,6 +9240,7 @@ spellcheck
 spelling
 spf
 spi
+spicetify
 spinnaker
 splash
 splat
@@ -9299,7 +9292,6 @@ sqlproj
 sqlproject
 sqlps
 sqlserver
-sqlserveragent
 sqlserverbynarymodule
 sqlserverbynarypsmodule
 sqlservermodule
@@ -9490,7 +9482,6 @@ swagger
 swamid
 swarm
 swedish
-swimlane
 swis
 switch
 sxs
@@ -9600,6 +9591,7 @@ tcp
 tcp/ip
 tcpip
 tcpport
+tcprjmgmt
 tcpserver
 tcptest
 tcx
@@ -9634,6 +9626,7 @@ template
 template-engine
 templates
 templating
+temporary
 tenable
 tenable.sc
 tenant
@@ -9719,7 +9712,6 @@ thread
 threading
 threadjob
 threads
-threadsanitizer
 threat
 threat-hunting
 threatdefense
@@ -10221,6 +10213,7 @@ vmgroup
 vmhost
 vmhostgroup
 vmhostnetworkadapater
+vmmanagement
 vmnic
 vmrole
 vmss
@@ -10493,6 +10486,7 @@ windowstimezone
 windowsupdate
 windowsupdates
 windowsvirtualdesktop
+winform
 winforms
 winget
 wingetbridge
@@ -10599,7 +10593,6 @@ wsman
 wsmanlistener
 wso2
 wsus
-wt
 wtsapi32
 wttr
 wttr.in
@@ -10671,7 +10664,6 @@ yahw
 yamaha
 yaml
 yandex
-yapg
 yarn
 yetanotherhelloworld
 yml
@@ -10711,6 +10703,7 @@ zypper
 カタカナ
 ひらがな
 ローマ字
+全角半角変換
 寿司
 日本語
 湯婆婆
