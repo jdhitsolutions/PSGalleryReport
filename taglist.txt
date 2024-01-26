@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Friday, 26 January 2024 02:02:35 UTC
+Updated: Friday, 26 January 2024 09:52:29 UTC
 
 .bat
 .env
@@ -14,8 +14,6 @@ Updated: Friday, 26 January 2024 02:02:35 UTC
 'provider'
 "interactive
 {modulenameplaceholder}
-**psedition_desktop**
-**windows**
 🍄
 🍣
 💩
@@ -305,7 +303,6 @@ amazonmgn
 amazonwebservices
 amend
 ami
-amiga
 amp
 amqp
 amsi
@@ -424,8 +421,6 @@ apt-get
 apt-get-update
 apteco
 aptitude
-aql
-arangodb
 arc
 arcade
 arcgis
@@ -438,6 +433,7 @@ archivematica
 archivial
 archivial-backup
 archivial-cloud-backup
+archlinux
 arcresourcebridge
 arcus
 area
@@ -1015,6 +1011,9 @@ ccm
 cd
 cd_path
 cd-
+cd-back
+cd-forward
+cd-up
 cd+
 cdable_vars
 cdata
@@ -1054,6 +1053,7 @@ certificates
 certificateservices
 certificatesmanagement
 certinia
+certutil
 cf
 cfn
 ch9
@@ -1311,10 +1311,10 @@ commence
 comment
 comments
 commerce
-commfort
 commit
 commits
 common
+common-data-service
 commonareaphone
 commondataservice
 commonmark
@@ -1350,6 +1350,7 @@ computername
 computers
 computersite
 concur
+concurrency
 concurrent
 conda
 condition
@@ -1515,7 +1516,6 @@ crc32
 create
 createcolumn
 createdatabase
-createfile
 createprocessasuser
 createschema
 createtable
@@ -1657,6 +1657,7 @@ dashboardservice
 dast
 data
 data_protection
+data_security
 data-archive
 data-backup
 data-tier
@@ -2277,7 +2278,6 @@ errorview
 eryph
 esae
 escape
-escapecodes
 escapesequences
 escaping
 ese
@@ -2437,11 +2437,9 @@ factoryorchestratorclient
 facts
 faf
 failedlogin
-failure
 falcon
 fallbackstatuspoint
 fanarttv
-fancy
 faq
 farm
 farmanager
@@ -2499,6 +2497,7 @@ file-transform
 file-type
 file-type-association
 fileattributes
+fileencryption
 filelist
 filelog
 filelogger
@@ -2955,7 +2954,6 @@ hanaon
 handle
 handler
 hangouts
-hannelstoolbox
 hanwha
 har
 hard
@@ -3243,6 +3241,7 @@ imap
 imb
 imei
 imi
+impala
 impersonation
 imperva
 import
@@ -3325,7 +3324,6 @@ integrated
 integratedscriptingeditor
 integration
 integrationaccount
-integrationruntime
 integrationruntimedependency
 integrationservicescatalog
 integrity
@@ -3414,7 +3412,6 @@ irkit
 irl
 irregular
 isadmin
-isbn
 iscsi
 isdate
 ise
@@ -3555,6 +3552,7 @@ keybase
 keybinding
 keyboard
 keyboardstartkey
+keycipher
 keycloak
 keylight
 keymanagement
@@ -3645,7 +3643,6 @@ layout
 lazywinadmin
 lbi
 lbs
-lccn
 lcm
 lcminternals
 ldap
@@ -3706,6 +3703,7 @@ linearalgebra
 lingeringobjects
 link
 link-capability
+link-preview
 linkedin
 linkedservice
 linkedservicedependency
@@ -3752,7 +3750,6 @@ locale
 localgroup
 localgroupmember
 localization
-localpolicy
 location
 locationbasedservices
 lock
@@ -3963,6 +3960,7 @@ mc
 mcafee
 mcas
 mccs
+mcd
 mchapv2
 mct
 md5
@@ -3988,7 +3986,6 @@ mediant
 mediaplayer
 mediaservices
 mediawiki
-meditation
 meesman
 meeting
 meetup
@@ -4016,7 +4013,6 @@ mermaid
 message
 message-emoji
 message-emojis
-messagebox
 messageoftheday
 messages
 messaging
@@ -4310,8 +4306,6 @@ neo4j
 neovim
 neptune
 nerdfonts
-nerdio
-nerdioapi
 nerdymishka
 nessus
 nested
@@ -4332,6 +4326,7 @@ netherlands
 netmap
 netmask
 nets
+netsapiens
 netscaler
 netscape
 netsec
@@ -4367,7 +4362,6 @@ new-dtcmtasksequencefromdriverpackpackagedefinitionsms
 new-dynamicdictionary
 new-dynamicparameter
 new-githubrelease
-new-item
 new-itemproperty
 new-pinneditem
 new-rdpsession
@@ -4386,7 +4380,6 @@ nexenta
 nexentastor
 nexthink
 nexus
-nexusiq
 nfsv3
 ngen
 ngfw
@@ -4410,7 +4403,6 @@ nlm
 nlog
 nmap
 nmbell
-nmm
 nntp
 node
 nodejs
@@ -4629,6 +4621,7 @@ operationsmanagementsuiteagent
 operationvalidation
 operatoraccesscontrol
 opml
+ops
 opsi
 opsmgr
 optics
@@ -4746,6 +4739,7 @@ paper
 papis
 paradox
 parallel
+parallel-processing
 parameter
 parameterinfo
 parameters
@@ -4778,6 +4772,7 @@ passwordexpiry
 passwordgeneration
 passwordgenerator
 passwordgenerators
+passwordhashing
 passwordlock
 passwordlockoutreport
 passwordmanagement
@@ -4988,6 +4983,7 @@ poshwsus
 poshy-code-search
 poshy-colors
 poshy-coreutils-ish
+poshy-dir-nav
 poshy-ecks
 poshy-env-proxy
 poshy-env-var
@@ -5018,6 +5014,7 @@ poshy-wrap-golang
 poshy-wrap-helm
 poshy-wrap-kubectl
 poshy-wrap-maven
+poshy-wrap-nginx
 poshy-wrap-nmap
 poshy-wrap-npm
 poshy-wrap-pip
@@ -5277,6 +5274,22 @@ psbicep
 psclient
 pscmdlet
 pscommand__python3
+pscommand_--
+pscommand_..
+pscommand_...
+pscommand_....
+pscommand_.....
+pscommand_......
+pscommand_++
+pscommand_1
+pscommand_2
+pscommand_3
+pscommand_4
+pscommand_5
+pscommand_6
+pscommand_7
+pscommand_8
+pscommand_9
 pscommand_aar
 pscommand_acp
 pscommand_acse
@@ -5336,6 +5349,9 @@ pscommand_bubug
 pscommand_bugbc
 pscommand_buz
 pscommand_catimg
+pscommand_cd-
+pscommand_cd..
+pscommand_cd+
 pscommand_cdgr
 pscommand_cl
 pscommand_clb
@@ -5347,6 +5363,7 @@ pscommand_confirm-gitbisectcommitbad
 pscommand_confirm-gitbisectcommitgood
 pscommand_convertto-nixmode
 pscommand_convertto-rgb
+pscommand_d
 pscommand_d64
 pscommand_dbl
 pscommand_dcb
@@ -6511,6 +6528,7 @@ pscommand_invokeyumgrouplist
 pscommand_ips
 pscommand_ipy
 pscommand_ipython
+pscommand_jump
 pscommand_k
 pscommand_kaf
 pscommand_kc
@@ -6644,6 +6662,7 @@ pscommand_ls
 pscommand_lsn
 pscommand_lsr
 pscommand_lt
+pscommand_mcd
 pscommand_mci
 pscommand_mcisk
 pscommand_mcp
@@ -6668,6 +6687,10 @@ pscommand_new-isofile
 pscommand_new-viewerinvocationfunction
 pscommand_new-windowsterminalpane
 pscommand_new-windowsterminaltab
+pscommand_nginx_reload
+pscommand_nginx_restart
+pscommand_nginx_start
+pscommand_nginx_stop
 pscommand_nmap_check_for_firewall
 pscommand_nmap_check_for_vulns
 pscommand_nmap_detect_versions
@@ -6799,10 +6822,28 @@ pscommand_search-ruby
 pscommand_set-envvar
 pscommand_set-gitremoteurl
 pscommand_set-itemnixmode
+pscommand_set-locationback1
+pscommand_set-locationback2
+pscommand_set-locationback3
+pscommand_set-locationback4
+pscommand_set-locationback5
+pscommand_set-locationback6
+pscommand_set-locationback7
+pscommand_set-locationback8
+pscommand_set-locationback9
+pscommand_set-locationdown1
+pscommand_set-locationforward1
 pscommand_set-locationgithome
 pscommand_set-locationgopath
 pscommand_set-locationgopathbin
 pscommand_set-locationgopathsrc
+pscommand_set-locationnewdirectory
+pscommand_set-locationup
+pscommand_set-locationup1
+pscommand_set-locationup2
+pscommand_set-locationup3
+pscommand_set-locationup4
+pscommand_set-locationup5
 pscommand_sgem
 pscommand_show-gitremote
 pscommand_show-proxy
@@ -7103,6 +7144,7 @@ psfunction_confirm-gitbisectcommitbad
 psfunction_confirm-gitbisectcommitgood
 psfunction_convertto-nixmode
 psfunction_convertto-rgb
+psfunction_d
 psfunction_decode64
 psfunction_decodefile64
 psfunction_dirname
@@ -7892,6 +7934,7 @@ psfunction_invoke-zypperverify
 psfunction_invoke-zypperversioncompare
 psfunction_invoke-zypperwhatprovides
 psfunction_invokeyumgrouplist
+psfunction_jump
 psfunction_kerndeb
 psfunction_kres
 psfunction_local-ignore
@@ -7907,6 +7950,10 @@ psfunction_new-isofile
 psfunction_new-viewerinvocationfunction
 psfunction_new-windowsterminalpane
 psfunction_new-windowsterminaltab
+psfunction_nginx_reload
+psfunction_nginx_restart
+psfunction_nginx_start
+psfunction_nginx_stop
 psfunction_nmap_check_for_firewall
 psfunction_nmap_check_for_vulns
 psfunction_nmap_detect_versions
@@ -7986,10 +8033,28 @@ psfunction_search-ruby
 psfunction_set-envvar
 psfunction_set-gitremoteurl
 psfunction_set-itemnixmode
+psfunction_set-locationback1
+psfunction_set-locationback2
+psfunction_set-locationback3
+psfunction_set-locationback4
+psfunction_set-locationback5
+psfunction_set-locationback6
+psfunction_set-locationback7
+psfunction_set-locationback8
+psfunction_set-locationback9
+psfunction_set-locationdown1
+psfunction_set-locationforward1
 psfunction_set-locationgithome
 psfunction_set-locationgopath
 psfunction_set-locationgopathbin
 psfunction_set-locationgopathsrc
+psfunction_set-locationnewdirectory
+psfunction_set-locationup
+psfunction_set-locationup1
+psfunction_set-locationup2
+psfunction_set-locationup3
+psfunction_set-locationup4
+psfunction_set-locationup5
 psfunction_show-gitremote
 psfunction_show-proxy
 psfunction_shttp
@@ -8281,6 +8346,7 @@ randompassword
 randomuser
 randomusers
 rangescan
+ransomware_recovery
 ras
 raspberry-pi
 raspberrypi
@@ -8597,6 +8663,7 @@ rt
 rtu
 rubber
 rubrik
+rubriksecuritycloud
 ruby
 rulasg
 rule
@@ -8829,6 +8896,7 @@ self
 self-hosted
 self-service
 self-signed
+selfdispatch
 selfhelp
 selfsigned
 semantic
@@ -9180,7 +9248,6 @@ spellcheck
 spelling
 spf
 spi
-spicetify
 spinnaker
 splash
 splat
@@ -9294,6 +9361,7 @@ startmen
 startmenu
 starttls
 starwars
+stash
 stat
 state
 static
@@ -9404,6 +9472,7 @@ supermarket
 support
 support-tool
 support-tools
+suppress
 supress-reboot
 surestacks
 surround
@@ -9531,7 +9600,6 @@ tcp
 tcp/ip
 tcpip
 tcpport
-tcprjmgmt
 tcpserver
 tcptest
 tcx
@@ -9546,6 +9614,7 @@ teamsdevices
 teamservices
 teamspolicy
 teamviewer
+techdirect
 techedna2014
 techlog
 technology
@@ -9565,7 +9634,6 @@ template
 template-engine
 templates
 templating
-temporary
 tenable
 tenable.sc
 tenant
@@ -10153,7 +10221,6 @@ vmgroup
 vmhost
 vmhostgroup
 vmhostnetworkadapater
-vmmanagement
 vmnic
 vmrole
 vmss
@@ -10426,7 +10493,6 @@ windowstimezone
 windowsupdate
 windowsupdates
 windowsvirtualdesktop
-winform
 winforms
 winget
 wingetbridge
@@ -10645,7 +10711,6 @@ zypper
 カタカナ
 ひらがな
 ローマ字
-全角半角変換
 寿司
 日本語
 湯婆婆
