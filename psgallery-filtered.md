@@ -3,6 +3,72 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [PsNtfs](https://www.powershellgallery.com/Packages/PsNtfs/2.0.80) | 2.0.80
+
+### Published: 01/28/2024 17:43:16 by Jeremy La Camera
+
+Work with the contents of NTFS volumes
+
+__Downloads__: 523 | __Repository__: 
+
+## [Permission](https://www.powershellgallery.com/Packages/Permission/0.0.74) | 0.0.74
+
+### Published: 01/28/2024 17:40:57 by Jeremy La Camera
+
+Module for working with Access Control Lists
+
+__Downloads__: 522 | __Repository__: 
+
+## [Adsi](https://www.powershellgallery.com/Packages/Adsi/4.0.11) | 4.0.11
+
+### Published: 01/28/2024 17:17:27 by Jeremy La Camera
+
+Use Active Directory Service Interfaces to query LDAP and WinNT directories
+
+__Downloads__: 1,152 | __Repository__: 
+
+## [365AutomatedLab](https://www.powershellgallery.com/Packages/365AutomatedLab/2.5.0) | 2.5.0
+
+### Published: 01/28/2024 14:15:01 by Clayton Tyger
+
+This module will allow you to create a 365 Development Environment from an Excel workbook
+
+__Downloads__: 149 | __Repository__: https://github.com/DevClate/365AutomatedLab
+
+## [Fonts](https://www.powershellgallery.com/Packages/Fonts/0.1.1) | 0.1.1
+
+### Published: 01/28/2024 13:45:07 by PSModule
+
+Manage fonts on a Windows system
+
+__Downloads__: 646 | __Repository__: https://github.com/PSModule/Fonts
+
+## [NerdFonts](https://www.powershellgallery.com/Packages/NerdFonts/0.3.2) | 0.3.2
+
+### Published: 01/28/2024 13:37:32 by PSModule
+
+A PowerShell module to manage NerdFonts
+
+__Downloads__: 355 | __Repository__: https://github.com/MariusStorhaug/NerdFonts
+
+## [Locksmith](https://www.powershellgallery.com/Packages/Locksmith/2024.1) | 2024.1
+
+### Published: 01/28/2024 12:57:57 by Jake Hildreth
+
+A small tool to find and fix common misconfigurations in Active Directory Certificate Services.
+
+__Downloads__: 690 | __Repository__: https://github.com/TrimarcJake/Locksmith
+
+## [WindowsPath](https://www.powershellgallery.com/Packages/WindowsPath/0.0.1) | 0.0.1
+
+### Published: 01/28/2024 10:07:42 by Fabrice Sanga
+
+The WindowsPath type performs operations on string instances that contain valid Windows File System path information. The specified path or file name string may point to a nonexistent file system object that is nonetheless valid and may carry information about locally or network shared files and directories.
+The module also provides two validation attributes ValidateWindowsPath and ValidateWindowsFileName.
+→ To support this project, please visit and like: https://github.com/sangafabrice/windows-path-type
+
+__Downloads__: 0 | __Repository__: https://github.com/sangafabrice/windows-path-type
+
 ## [pocof](https://www.powershellgallery.com/Packages/pocof/0.9.0) | 0.9.0
 
 ### Published: 01/28/2024 08:31:19 by Takatoshi Kuriyama
@@ -10,14 +76,6 @@ These are the latest 250 modules published to the [PowerShell Gallery](https://p
 An interactive pipeline filtering Cmdlet for PowerShell written in F#. A fork of poco which is a PowerShell port of peco.
 
 __Downloads__: 78 | __Repository__: https://github.com/krymtkts/pocof/
-
-## [Adsi](https://www.powershellgallery.com/Packages/Adsi/4.0.10) | 4.0.10
-
-### Published: 01/28/2024 07:50:11 by Jeremy La Camera
-
-Use Active Directory Service Interfaces to query LDAP and WinNT directories
-
-__Downloads__: 1,152 | __Repository__: 
 
 ## [AppVeyorTestPsGallery](https://www.powershellgallery.com/Packages/AppVeyorTestPsGallery/1.0.554) | 1.0.554
 
@@ -50,14 +108,6 @@ __Downloads__: 281 | __Repository__: https://github.com/PSModule/PATH
 PSModule Framework PowerShell Module
 
 __Downloads__: 1,266 | __Repository__: https://github.com/PSModule/PSModule.FX
-
-## [Fonts](https://www.powershellgallery.com/Packages/Fonts/0.1.0) | 0.1.0
-
-### Published: 01/28/2024 00:54:37 by PSModule
-
-Manage fonts on a Windows system
-
-__Downloads__: 646 | __Repository__: https://github.com/PSModule/Fonts
 
 ## [HelpOut](https://www.powershellgallery.com/Packages/HelpOut/0.5.2) | 0.5.2
 
@@ -92,22 +142,6 @@ JNet (Java/JVM suite for .NET) PowerShell (aka JNetPS) is a PowerShell Module to
 More information within the project hosted on GitHub at https://github.com/masesgroup/JNet for further information.
 
 __Downloads__: 128 | __Repository__: https://github.com/masesgroup/JNet
-
-## [PsNtfs](https://www.powershellgallery.com/Packages/PsNtfs/2.0.79) | 2.0.79
-
-### Published: 01/27/2024 17:27:16 by Jeremy La Camera
-
-Work with the contents of NTFS volumes
-
-__Downloads__: 523 | __Repository__: 
-
-## [Permission](https://www.powershellgallery.com/Packages/Permission/0.0.73) | 0.0.73
-
-### Published: 01/27/2024 17:21:37 by Jeremy La Camera
-
-Module for working with Access Control Lists
-
-__Downloads__: 522 | __Repository__: 
 
 ## [SimplePrtg](https://www.powershellgallery.com/Packages/SimplePrtg/1.0.13) | 1.0.13
 
@@ -320,7 +354,7 @@ Harden Windows Safely, Securely, only with Official Microsoft methods
 
 🟡 The module generates a nice output on the screen as well as giving users an option to export the results in a CSV file.
 
-__Downloads__: 4,649 | __Repository__: https://github.com/HotCakeX/Harden-Windows-Security
+__Downloads__: 4,648 | __Repository__: https://github.com/HotCakeX/Harden-Windows-Security
 
 ## [ProductivityTools.Feedback](https://www.powershellgallery.com/Packages/ProductivityTools.Feedback/0.0.20) | 0.0.20
 
@@ -336,7 +370,7 @@ __Downloads__: 23 | __Repository__: http://productivitytools.tech/display-positi
 
 A PowerShell module to generate an Veeam Backup & Replication infrastructure diagram
 
-__Downloads__: 899 | __Repository__: https://github.com/rebelinux/Veeam.Diagrammer
+__Downloads__: 900 | __Repository__: https://github.com/rebelinux/Veeam.Diagrammer
 
 ## [PSParallelPipeline](https://www.powershellgallery.com/Packages/PSParallelPipeline/1.1.4) | 1.1.4
 
@@ -416,7 +450,7 @@ __Downloads__: 45 | __Repository__: https://github.com/rebelinux/Diagrammer.Micr
 
 A module to help manage TeamViewer
 
-__Downloads__: 16,721 | __Repository__: 
+__Downloads__: 16,722 | __Repository__: 
 
 ## [VMware.VCDA.AVS](https://www.powershellgallery.com/Packages/VMware.VCDA.AVS/1.0.0) | 1.0.0
 
@@ -461,7 +495,7 @@ __Downloads__: 3 | __Repository__:
 
 Helper module for Active Directory with lots of useful functions that simplify supporting Active Directory.
 
-__Downloads__: 170,587 | __Repository__: https://github.com/EvotecIT/ADEssentials
+__Downloads__: 170,589 | __Repository__: https://github.com/EvotecIT/ADEssentials
 
 ## [Posh-IBWAPI](https://www.powershellgallery.com/Packages/Posh-IBWAPI/4.0.2) | 4.0.2
 
@@ -485,6 +519,14 @@ Module contains functions that allows you to check for PowerShell code/script/mo
 
 __Downloads__: 619 | __Repository__: https://github.com/ztrhgf/useful_powershell_modules
 
+## [PureStorage.CBS.AVS](https://www.powershellgallery.com/Packages/PureStorage.CBS.AVS/1.0.283) | 1.0.283
+
+### Published: 01/25/2024 05:09:33 by Pure Storage
+
+Pure Storage FlashArray AVS Plugin.
+
+__Downloads__: 358 | __Repository__: https://support.purestorage.com/Pure_Cloud_Block_Store/Azure_VMware_Solution_and_Cloud_Block_Store_Implementation_Guide
+
 ## [MailPolicyExplainer](https://www.powershellgallery.com/Packages/MailPolicyExplainer/1.3.4) | 1.3.4
 
 ### Published: 01/25/2024 01:28:09 by Colin Cogle
@@ -507,7 +549,7 @@ __Downloads__: 231 | __Repository__: https://github.com/bepsoccer/verkadaModule
 
 SdnDiagnostics is a tool used to simplify the data collection and diagnostics of Windows Software Defined Networking.
 
-__Downloads__: 34,133 | __Repository__: https://github.com/microsoft/SdnDiagnostics
+__Downloads__: 34,134 | __Repository__: https://github.com/microsoft/SdnDiagnostics
 
 ## [JhcAdoRest](https://www.powershellgallery.com/Packages/JhcAdoRest/1.2.9) | 1.2.9
 
@@ -563,7 +605,7 @@ __Downloads__: 57 | __Repository__: https://github.com/easitab/Easit.GO.Webservi
 
 BrightCom Solutions AB powershell helper.
 
-__Downloads__: 35,510 | __Repository__: 
+__Downloads__: 35,538 | __Repository__: 
 
 ## [d365fo.tools](https://www.powershellgallery.com/Packages/d365fo.tools/0.7.9) | 0.7.9
 
@@ -627,7 +669,7 @@ __Downloads__: 58,915 | __Repository__: https://github.com/EvotecIT/Testimo
 
 Module covering functions that are shared within multiple projects
 
-__Downloads__: 279,758 | __Repository__: https://github.com/EvotecIT/PSSharedGoods
+__Downloads__: 279,759 | __Repository__: https://github.com/EvotecIT/PSSharedGoods
 
 ## [Thycotic.SecretServer](https://www.powershellgallery.com/Packages/Thycotic.SecretServer/0.61.8) | 0.61.8
 
@@ -635,7 +677,7 @@ __Downloads__: 279,758 | __Repository__: https://github.com/EvotecIT/PSSharedGoo
 
 Interact with the Secret Server REST API
 
-__Downloads__: 61,333 | __Repository__: https://github.com/thycotic-ps/thycotic.secretserver
+__Downloads__: 61,334 | __Repository__: https://github.com/thycotic-ps/thycotic.secretserver
 
 ## [OCI.PSModules](https://www.powershellgallery.com/Packages/OCI.PSModules/74.1.0) | 74.1.0
 
@@ -1756,7 +1798,7 @@ __Downloads__: 6,298 | __Repository__:
 
 Master module for a collection of modules. These modules are varied in their tasks. The overall purpose of them being to provide a powerfull Toolset to improve IT Admin workflows.
 
-__Downloads__: 34,765 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox
+__Downloads__: 34,768 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox
 
 ## [AdminToolbox.FortiWizard](https://www.powershellgallery.com/Packages/AdminToolbox.FortiWizard/2.18.35) | 2.18.35
 
@@ -1764,7 +1806,7 @@ __Downloads__: 34,765 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions that generate configuration scripts and manage FortiOS.
 
-__Downloads__: 14,132 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 14,135 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.VMWareAutomate](https://www.powershellgallery.com/Packages/AdminToolbox.VMWareAutomate/4.8.126) | 4.8.126
 
@@ -1772,7 +1814,7 @@ __Downloads__: 14,132 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions to Automate Bulk VMWare Tasks
 
-__Downloads__: 21,042 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 21,039 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.Remoting](https://www.powershellgallery.com/Packages/AdminToolbox.Remoting/1.9.129) | 1.9.129
 
@@ -1780,7 +1822,7 @@ __Downloads__: 21,042 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions for remote management and access.
 
-__Downloads__: 20,865 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 20,862 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.Office365](https://www.powershellgallery.com/Packages/AdminToolbox.Office365/3.1.79) | 3.1.79
 
@@ -1788,7 +1830,7 @@ __Downloads__: 20,865 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions for working with Office365 and Azure modules
 
-__Downloads__: 22,535 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 22,536 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.Networking](https://www.powershellgallery.com/Packages/AdminToolbox.Networking/2.18.37) | 2.18.37
 
@@ -1796,7 +1838,7 @@ __Downloads__: 22,535 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Network Troubleshooting Functions
 
-__Downloads__: 53,059 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 53,060 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.MSGraph](https://www.powershellgallery.com/Packages/AdminToolbox.MSGraph/1.2.129) | 1.2.129
 
@@ -1812,7 +1854,7 @@ __Downloads__: 11,023 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions that have no purpose
 
-__Downloads__: 21,204 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 21,201 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.FileManagement](https://www.powershellgallery.com/Packages/AdminToolbox.FileManagement/1.16.121) | 1.16.121
 
@@ -1820,7 +1862,7 @@ __Downloads__: 21,204 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 File Management Functions
 
-__Downloads__: 21,786 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 21,783 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.FFTools](https://www.powershellgallery.com/Packages/AdminToolbox.FFTools/4.16.79) | 4.16.79
 
@@ -1828,7 +1870,7 @@ __Downloads__: 21,786 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Expedite simple ffmpeg actions
 
-__Downloads__: 21,676 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 21,673 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.Exchange](https://www.powershellgallery.com/Packages/AdminToolbox.Exchange/1.9.130) | 1.9.130
 
@@ -1836,7 +1878,7 @@ __Downloads__: 21,676 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions for Exchange Management
 
-__Downloads__: 22,848 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 22,849 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.EndpointManagement](https://www.powershellgallery.com/Packages/AdminToolbox.EndpointManagement/4.10.6) | 4.10.6
 
@@ -1844,7 +1886,7 @@ __Downloads__: 22,848 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions for management of endpoints
 
-__Downloads__: 26,372 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 26,373 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.ActiveDirectory](https://www.powershellgallery.com/Packages/AdminToolbox.ActiveDirectory/1.9.127) | 1.9.127
 
@@ -1852,7 +1894,7 @@ __Downloads__: 26,372 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions for Active Directory
 
-__Downloads__: 26,013 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 26,014 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [Microsoft-Extractor-Suite](https://www.powershellgallery.com/Packages/Microsoft-Extractor-Suite/1.2.0) | 1.2.0
 
@@ -1869,6 +1911,22 @@ __Downloads__: 706 | __Repository__:
 This module will migrate a Basic SKU load balancer connected to a Virtual Machine Scaleset or Virtual Machines to a Standard SKU load balancer, preserving the existing configuration and functionality.
 
 __Downloads__: 1,499 | __Repository__: https://github.com/Azure/AzLoadBalancerMigration
+
+## [PSNetboxFunctions](https://www.powershellgallery.com/Packages/PSNetboxFunctions/1.2.0) | 1.2.0
+
+### Published: 01/23/2024 12:52:11 by rekan
+
+Connect to Netbox API with Token and manage its resources.
+
+__Downloads__: 18 | __Repository__: 
+
+## [Particular.ServiceControl.Management](https://www.powershellgallery.com/Packages/Particular.ServiceControl.Management/5.0.4) | 5.0.4
+
+### Published: 01/23/2024 09:58:27 by Particular Software
+
+ServiceControl Management
+
+__Downloads__: 1,128 | __Repository__: https://github.com/Particular/ServiceControl
 
 ## [shiftavenue.GraphAutomation](https://www.powershellgallery.com/Packages/shiftavenue.GraphAutomation/1.0.0) | 1.0.0
 
@@ -2068,61 +2126,4 @@ A module that can interact with the Episerver Cloud
 
 __Downloads__: 382,640 | __Repository__: 
 
-## [SentinelEnrichment](https://www.powershellgallery.com/Packages/SentinelEnrichment/0.1.7) | 0.1.7
-
-### Published: 01/22/2024 08:23:18 by Fabian Bader Thomas Naunheim
-
-SentinelEnrichment is a PowerShell module that provides functions to enrich Microsoft Sentinel with data from external sources and makes it easier to manage this data in watchlists.
-
-__Downloads__: 24 | __Repository__: 
-
-## [PSProjectStatus](https://www.powershellgallery.com/Packages/PSProjectStatus/0.14.0) | 0.14.0
-
-### Published: 01/21/2024 19:16:22 by Jeff Hicks
-
-A set of PowerShell tools for tracking module development status. The module uses a JSON file to create a custom object with information about your module. You can use this internally to track the status of your module including a simple to-do tracker. This module was first described at https://jdhitsolutions.com/blog/powershell/8960/introducing-psprojectstatus/
-
-__Downloads__: 507 | __Repository__: https://github.com/jdhitsolutions/PSProjectStatus
-
-## [PdfLexer](https://www.powershellgallery.com/Packages/PdfLexer/0.1.15) | 0.1.15
-
-### Published: 01/21/2024 18:29:48 by PdfLexer Authors
-
-PdfLexer is a powershell pdf manipulation library for Powershell 7+.
- https://github.com/pdflexer/pdflexer
-
-__Downloads__: 590 | __Repository__: https://github.com/pdflexer/pdflexer
-
-## [DscResource.DocGenerator](https://www.powershellgallery.com/Packages/DscResource.DocGenerator/0.12.1) | 0.12.1
-
-### Published: 01/21/2024 17:35:27 by DSC Community
-
-Functionality to help generate documentation for modules.
-
-__Downloads__: 21,207 | __Repository__: https://github.com/dsccommunity/DscResource.DocGenerator
-
-## [PsRunspace](https://www.powershellgallery.com/Packages/PsRunspace/1.0.104) | 1.0.104
-
-### Published: 01/21/2024 16:12:58 by Jeremy La Camera
-
-Module for multithreading PowerShell commands using .Net Runspaces
-
-__Downloads__: 377 | __Repository__: 
-
-## [PS2BAT](https://www.powershellgallery.com/Packages/PS2BAT/1.0.0) | 1.0.0
-
-### Published: 01/21/2024 14:17:53 by Codepulze
-
-Converts PowerShell Code into Batch file using Encoded Method
-
-__Downloads__: 9 | __Repository__: 
-
-## [D365BCAppHelper](https://www.powershellgallery.com/Packages/D365BCAppHelper/0.0.0.29) | 0.0.0.29
-
-### Published: 01/21/2024 11:12:39 by SimonOfHH
-
-Helper for D365 BC App Handling
-
-__Downloads__: 3,505 | __Repository__: 
-
-*Updated: Sunday, 28 January 2024 09:52:35 UTC*
+*Updated: Sunday, 28 January 2024 17:52:29 UTC*
