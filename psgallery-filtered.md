@@ -3,6 +3,38 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [pocof](https://www.powershellgallery.com/Packages/pocof/0.9.0) | 0.9.0
+
+### Published: 01/28/2024 08:31:19 by Takatoshi Kuriyama
+
+An interactive pipeline filtering Cmdlet for PowerShell written in F#. A fork of poco which is a PowerShell port of peco.
+
+__Downloads__: 78 | __Repository__: https://github.com/krymtkts/pocof/
+
+## [Adsi](https://www.powershellgallery.com/Packages/Adsi/4.0.10) | 4.0.10
+
+### Published: 01/28/2024 07:50:11 by Jeremy La Camera
+
+Use Active Directory Service Interfaces to query LDAP and WinNT directories
+
+__Downloads__: 1,152 | __Repository__: 
+
+## [AppVeyorTestPsGallery](https://www.powershellgallery.com/Packages/AppVeyorTestPsGallery/1.0.554) | 1.0.554
+
+### Published: 01/28/2024 06:30:24 by Feodor Fitsner
+
+The test module to verify publishing to PSGallery from AppVeyor.
+
+__Downloads__: 40,246 | __Repository__: 
+
+## [PublicIP](https://www.powershellgallery.com/Packages/PublicIP/0.1.0) | 0.1.0
+
+### Published: 01/28/2024 02:03:43 by PSModule
+
+PowerShell Module for Public IP
+
+__Downloads__: 131 | __Repository__: https://github.com/PSModule/PublicIP
+
 ## [PATH](https://www.powershellgallery.com/Packages/PATH/0.1.0) | 0.1.0
 
 ### Published: 01/28/2024 01:33:38 by PSModule
@@ -34,14 +66,6 @@ __Downloads__: 646 | __Repository__: https://github.com/PSModule/Fonts
 A Helpful Toolkit for Managing PowerShell Help
 
 __Downloads__: 1,366 | __Repository__: https://github.com/StartAutomating/HelpOut
-
-## [Adsi](https://www.powershellgallery.com/Packages/Adsi/4.0.9) | 4.0.9
-
-### Published: 01/27/2024 19:04:09 by Jeremy La Camera
-
-Use Active Directory Service Interfaces to query LDAP and WinNT directories
-
-__Downloads__: 1,152 | __Repository__: 
 
 ## [MASES.KNetPS](https://www.powershellgallery.com/Packages/MASES.KNetPS/2.4.2) | 2.4.2
 
@@ -116,14 +140,6 @@ __Downloads__: 1 | __Repository__: https://github.com/ArmaanMcleod/PoshJsonWebTo
 Powershell module to connect to various VPN Providers
 
 __Downloads__: 1,701 | __Repository__: 
-
-## [AppVeyorTestPsGallery](https://www.powershellgallery.com/Packages/AppVeyorTestPsGallery/1.0.553) | 1.0.553
-
-### Published: 01/27/2024 07:35:17 by Feodor Fitsner
-
-The test module to verify publishing to PSGallery from AppVeyor.
-
-__Downloads__: 40,246 | __Repository__: 
 
 ## [spec.base.utilities](https://www.powershellgallery.com/Packages/spec.base.utilities/1.2.2) | 1.2.2
 
@@ -304,7 +320,7 @@ Harden Windows Safely, Securely, only with Official Microsoft methods
 
 🟡 The module generates a nice output on the screen as well as giving users an option to export the results in a CSV file.
 
-__Downloads__: 4,648 | __Repository__: https://github.com/HotCakeX/Harden-Windows-Security
+__Downloads__: 4,649 | __Repository__: https://github.com/HotCakeX/Harden-Windows-Security
 
 ## [ProductivityTools.Feedback](https://www.powershellgallery.com/Packages/ProductivityTools.Feedback/0.0.20) | 0.0.20
 
@@ -469,14 +485,6 @@ Module contains functions that allows you to check for PowerShell code/script/mo
 
 __Downloads__: 619 | __Repository__: https://github.com/ztrhgf/useful_powershell_modules
 
-## [PureStorage.CBS.AVS](https://www.powershellgallery.com/Packages/PureStorage.CBS.AVS/1.0.283) | 1.0.283
-
-### Published: 01/25/2024 05:09:33 by Pure Storage
-
-Pure Storage FlashArray AVS Plugin.
-
-__Downloads__: 358 | __Repository__: https://support.purestorage.com/Pure_Cloud_Block_Store/Azure_VMware_Solution_and_Cloud_Block_Store_Implementation_Guide
-
 ## [MailPolicyExplainer](https://www.powershellgallery.com/Packages/MailPolicyExplainer/1.3.4) | 1.3.4
 
 ### Published: 01/25/2024 01:28:09 by Colin Cogle
@@ -499,7 +507,7 @@ __Downloads__: 231 | __Repository__: https://github.com/bepsoccer/verkadaModule
 
 SdnDiagnostics is a tool used to simplify the data collection and diagnostics of Windows Software Defined Networking.
 
-__Downloads__: 34,134 | __Repository__: https://github.com/microsoft/SdnDiagnostics
+__Downloads__: 34,133 | __Repository__: https://github.com/microsoft/SdnDiagnostics
 
 ## [JhcAdoRest](https://www.powershellgallery.com/Packages/JhcAdoRest/1.2.9) | 1.2.9
 
@@ -523,7 +531,7 @@ __Downloads__: 408 | __Repository__:
 
 The community module that enables SQL Server Pros to automate database development and server administration
 
-__Downloads__: 3,605,301 | __Repository__: https://dbatools.io/
+__Downloads__: 3,605,287 | __Repository__: https://dbatools.io/
 
 ## [AsBuiltReport.Microsoft.AD](https://www.powershellgallery.com/Packages/AsBuiltReport.Microsoft.AD/0.8.0) | 0.8.0
 
@@ -555,7 +563,7 @@ __Downloads__: 57 | __Repository__: https://github.com/easitab/Easit.GO.Webservi
 
 BrightCom Solutions AB powershell helper.
 
-__Downloads__: 35,538 | __Repository__: 
+__Downloads__: 35,510 | __Repository__: 
 
 ## [d365fo.tools](https://www.powershellgallery.com/Packages/d365fo.tools/0.7.9) | 0.7.9
 
@@ -611,7 +619,7 @@ __Downloads__: 9,198 | __Repository__: https://github.com/Venafi/VenafiPS
 
 Testimo is Powershell module that tests Active Directory against specific set of tests.
 
-__Downloads__: 58,916 | __Repository__: https://github.com/EvotecIT/Testimo
+__Downloads__: 58,915 | __Repository__: https://github.com/EvotecIT/Testimo
 
 ## [PSSharedGoods](https://www.powershellgallery.com/Packages/PSSharedGoods/0.0.276) | 0.0.276
 
@@ -619,7 +627,7 @@ __Downloads__: 58,916 | __Repository__: https://github.com/EvotecIT/Testimo
 
 Module covering functions that are shared within multiple projects
 
-__Downloads__: 279,759 | __Repository__: https://github.com/EvotecIT/PSSharedGoods
+__Downloads__: 279,758 | __Repository__: https://github.com/EvotecIT/PSSharedGoods
 
 ## [Thycotic.SecretServer](https://www.powershellgallery.com/Packages/Thycotic.SecretServer/0.61.8) | 0.61.8
 
@@ -627,7 +635,7 @@ __Downloads__: 279,759 | __Repository__: https://github.com/EvotecIT/PSSharedGoo
 
 Interact with the Secret Server REST API
 
-__Downloads__: 61,334 | __Repository__: https://github.com/thycotic-ps/thycotic.secretserver
+__Downloads__: 61,333 | __Repository__: https://github.com/thycotic-ps/thycotic.secretserver
 
 ## [OCI.PSModules](https://www.powershellgallery.com/Packages/OCI.PSModules/74.1.0) | 74.1.0
 
@@ -1724,7 +1732,7 @@ __Downloads__: 96,693 | __Repository__: https://github.com/oracle/oci-powershell
 
 Orchestrate driver, BIOS/UEFI and firmware updates for Lenovo computers 👨‍💻
 
-__Downloads__: 19,619,950 | __Repository__: https://www.github.com/jantari/LSUClient
+__Downloads__: 19,619,880 | __Repository__: https://www.github.com/jantari/LSUClient
 
 ## [DscResource.Common](https://www.powershellgallery.com/Packages/DscResource.Common/0.17.0) | 0.17.0
 
@@ -1756,7 +1764,7 @@ __Downloads__: 34,765 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions that generate configuration scripts and manage FortiOS.
 
-__Downloads__: 14,135 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 14,132 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.VMWareAutomate](https://www.powershellgallery.com/Packages/AdminToolbox.VMWareAutomate/4.8.126) | 4.8.126
 
@@ -1780,7 +1788,7 @@ __Downloads__: 20,865 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions for working with Office365 and Azure modules
 
-__Downloads__: 22,536 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 22,535 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.Networking](https://www.powershellgallery.com/Packages/AdminToolbox.Networking/2.18.37) | 2.18.37
 
@@ -1788,7 +1796,7 @@ __Downloads__: 22,536 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Network Troubleshooting Functions
 
-__Downloads__: 53,148 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 53,059 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.MSGraph](https://www.powershellgallery.com/Packages/AdminToolbox.MSGraph/1.2.129) | 1.2.129
 
@@ -1796,7 +1804,7 @@ __Downloads__: 53,148 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Microsoft Graph interactive API Functions
 
-__Downloads__: 11,026 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 11,023 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.Fun](https://www.powershellgallery.com/Packages/AdminToolbox.Fun/1.6.130) | 1.6.130
 
@@ -1828,7 +1836,7 @@ __Downloads__: 21,676 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions for Exchange Management
 
-__Downloads__: 22,849 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 22,848 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.EndpointManagement](https://www.powershellgallery.com/Packages/AdminToolbox.EndpointManagement/4.10.6) | 4.10.6
 
@@ -1836,7 +1844,7 @@ __Downloads__: 22,849 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions for management of endpoints
 
-__Downloads__: 26,373 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 26,372 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.ActiveDirectory](https://www.powershellgallery.com/Packages/AdminToolbox.ActiveDirectory/1.9.127) | 1.9.127
 
@@ -1844,7 +1852,7 @@ __Downloads__: 26,373 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions for Active Directory
 
-__Downloads__: 26,014 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 26,013 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [Microsoft-Extractor-Suite](https://www.powershellgallery.com/Packages/Microsoft-Extractor-Suite/1.2.0) | 1.2.0
 
@@ -1861,22 +1869,6 @@ __Downloads__: 706 | __Repository__:
 This module will migrate a Basic SKU load balancer connected to a Virtual Machine Scaleset or Virtual Machines to a Standard SKU load balancer, preserving the existing configuration and functionality.
 
 __Downloads__: 1,499 | __Repository__: https://github.com/Azure/AzLoadBalancerMigration
-
-## [PSNetboxFunctions](https://www.powershellgallery.com/Packages/PSNetboxFunctions/1.2.0) | 1.2.0
-
-### Published: 01/23/2024 12:52:11 by rekan
-
-Connect to Netbox API with Token and manage its resources.
-
-__Downloads__: 18 | __Repository__: 
-
-## [Particular.ServiceControl.Management](https://www.powershellgallery.com/Packages/Particular.ServiceControl.Management/5.0.4) | 5.0.4
-
-### Published: 01/23/2024 09:58:27 by Particular Software
-
-ServiceControl Management
-
-__Downloads__: 1,128 | __Repository__: https://github.com/Particular/ServiceControl
 
 ## [shiftavenue.GraphAutomation](https://www.powershellgallery.com/Packages/shiftavenue.GraphAutomation/1.0.0) | 1.0.0
 
@@ -1978,7 +1970,7 @@ To get help and syntax on PowerShell console, type:
 "Get-Help Assert-WDACConfigIntegrity"
 "Get-Help Build-WDACCertificate"
 
-__Downloads__: 1,406 | __Repository__: https://github.com/HotCakeX/Harden-Windows-Security/wiki/WDACConfig
+__Downloads__: 1,405 | __Repository__: https://github.com/HotCakeX/Harden-Windows-Security/wiki/WDACConfig
 
 ## [PkiExtension](https://www.powershellgallery.com/Packages/PkiExtension/1.0.0) | 1.0.0
 
@@ -2125,4 +2117,12 @@ Converts PowerShell Code into Batch file using Encoded Method
 
 __Downloads__: 9 | __Repository__: 
 
-*Updated: Sunday, 28 January 2024 02:02:43 UTC*
+## [D365BCAppHelper](https://www.powershellgallery.com/Packages/D365BCAppHelper/0.0.0.29) | 0.0.0.29
+
+### Published: 01/21/2024 11:12:39 by SimonOfHH
+
+Helper for D365 BC App Handling
+
+__Downloads__: 3,505 | __Repository__: 
+
+*Updated: Sunday, 28 January 2024 09:52:35 UTC*
