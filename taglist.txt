@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Saturday, 27 January 2024 17:52:38 UTC
+Updated: Sunday, 28 January 2024 02:02:53 UTC
 
 .bat
 .env
@@ -37,6 +37,7 @@ Updated: Saturday, 27 January 2024 17:52:38 UTC
 2018
 2019
 21vianet
+24-bit
 2fa
 300
 365
@@ -1418,6 +1419,7 @@ containerinstances
 containerregistry
 containers
 containment
+contentprep
 context
 continious-deploy
 continious-integration
@@ -1737,7 +1739,6 @@ dba
 dbaas
 dbase
 dbcommand
-dbeaver
 dbfs
 dbnull
 dbops
@@ -1852,6 +1853,7 @@ devops
 devops psmodule
 devsecninja
 devsecops
+devspaces
 devtestlabs
 dfch
 dfir
@@ -1863,6 +1865,7 @@ di
 diagnostic
 diagnostics
 diagram
+diagrammer
 diagrams
 dialog
 dice
@@ -1960,6 +1963,7 @@ dns-01
 dns-administration
 dns-async
 dns-client
+dns-over-https
 dns-resolver
 dnsbl
 dnsclient
@@ -2851,6 +2855,7 @@ goldsource-dedicated-server
 google
 google-chrome
 google-histogram
+google-sankey
 google-table
 googleadsv2
 googlecloudplatform
@@ -3290,6 +3295,7 @@ ingestion
 ini
 inifile
 initialization
+initials-avatar
 initiator
 inline-progress
 inlineprogress
@@ -3393,6 +3399,7 @@ ip-scanner
 ipa
 ipaddress
 ipam
+ipbroadcast
 ipc
 ipcalc
 ipcalculator
@@ -3863,6 +3870,7 @@ machine
 machinelearning
 machinelearningcompute
 machinelearningservices
+macmon
 macos
 macosx
 macro
@@ -4148,7 +4156,6 @@ moldova
 moment
 monaco
 monday
-mondoo
 money
 moneyforward
 mongo
@@ -4285,6 +4292,7 @@ mytest
 n-able
 n-central
 nabu
+nac
 nagios
 name
 name-of-dogs
@@ -4899,10 +4907,12 @@ pipenv
 pipescript
 piraeus
 pivot
+pivotal
 pivottable
 pixoo
 pki
 pki psmodule
+pks
 place
 places
 plain
@@ -4987,6 +4997,7 @@ poshgraph
 poshgraph-sdk
 poshgrouppolicy
 poshkeepass
+poshlog
 poshorigin
 poshproject
 poshprtg
@@ -5054,7 +5065,6 @@ postgres
 postgresql
 potato
 pow
-powdrgit
 power
 power-apps
 power-cbr
@@ -7070,7 +7080,6 @@ pscommand_zwp
 pscommander
 psconfasia
 psconfeu
-psconfig
 pscore
 pscredential
 pscribo
@@ -8518,7 +8527,6 @@ remove-itemproperty
 remove-pass
 remove-path
 remove-pinneditem
-remove-tempfiles
 removetypeaccelerators
 remux
 ren-isac
@@ -9030,9 +9038,7 @@ shared
 sharefile
 sharepoint
 sharepoint_online
-sharepoint-on-prem
 sharepoint-online
-sharepoint-product-configuration-wizard
 sharepoint2013
 sharepointdevelopmentcommunity
 sharepointonline
@@ -9189,6 +9195,7 @@ social
 social-media
 socialmedia
 socketlabs
+sockets
 sodium
 software
 softwarecenter
@@ -9711,6 +9718,7 @@ texting-emojis
 textprocessing
 textwrapping
 tfe
+tfenv
 tflint
 tfs
 tfscmdlets
@@ -9928,6 +9936,7 @@ ucs
 ucspowertool
 ud-avataaar
 ud-badgebutton
+ud-badgelink
 ud-breadcrumb
 ud-breadcrumbitem
 ud-burger
@@ -9982,6 +9991,7 @@ ud-wordtree
 udcm
 udfeedback
 udp
+udpclient
 udptest
 udr
 udthememode
@@ -10614,6 +10624,7 @@ wsman
 wsmanlistener
 wso2
 wsus
+wt
 wtsapi32
 wttr
 wttr.in
