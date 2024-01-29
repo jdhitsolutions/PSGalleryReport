@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Sunday, 28 January 2024 17:52:38 UTC
+Updated: Monday, 29 January 2024 02:02:22 UTC
 
 .bat
 .env
@@ -351,7 +351,6 @@ anywhere
 aovpn psmodule
 apache
 apachekafka
-apexlegends
 apexone
 api
 api-client
@@ -847,8 +846,6 @@ blockchain
 blocks
 blog
 blogs
-bloxone
-bloxoneddi
 bls
 blue
 bluedolhin
@@ -968,7 +965,6 @@ calculator
 calendar
 callingcode
 callqueue
-calvin-and-hobbes
 cam
 camera
 campaign
@@ -1676,7 +1672,6 @@ databaseautomation
 databasemanagement
 databasemigration
 databases
-databasetools
 databooster
 databox
 databoxedge
@@ -2508,7 +2503,6 @@ file-type
 file-type-association
 fileattributes
 fileencryption
-filelist
 filelog
 filelogger
 filemanagement
@@ -2814,6 +2808,7 @@ git-client
 git-clone
 git-flow
 git-lfs
+git-proxy
 git-stat
 gitcmdline
 gitdesktop
@@ -3123,9 +3118,11 @@ hsdp
 hsl
 html
 http
+http_proxy
 httpclient
 httplistener
 https
+https_proxy
 httpserver
 huawei
 huawei-ibmc-cmdlets
@@ -3332,6 +3329,7 @@ integrated
 integratedscriptingeditor
 integration
 integrationaccount
+integrationruntime
 integrationruntimedependency
 integrationservicescatalog
 integrity
@@ -3449,6 +3447,7 @@ itemobject
 items
 itemstack
 iterate
+iteration
 itg
 itglue
 itin
@@ -3963,6 +3962,7 @@ matrix
 maven
 max
 max_path
+maximum
 maxoffice
 mazerat
 mb
@@ -4108,6 +4108,7 @@ minecraft
 miniconda
 minifier
 minimal
+minimum
 mip
 mipsdk
 miration-step
@@ -4138,6 +4139,7 @@ module
 module-maintenance
 modulebuild
 modulecreation
+modulefast
 modulemanagement
 modules
 moduleupdate
@@ -4253,6 +4255,7 @@ multidimenstional
 multimedia
 multios
 multipass
+multiple
 multiserver
 multistring
 multithread
@@ -4427,6 +4430,7 @@ non-volatile
 none
 noneimages
 noninteractive
+noproxy
 nord
 nordtools
 normal
@@ -4450,6 +4454,7 @@ notify-send-wsl
 nova
 npgsql
 npm
+npm-proxy
 npm-upgrade
 nprinting
 nprintingapi
@@ -4998,6 +5003,7 @@ poshy-colors
 poshy-coreutils-ish
 poshy-dir-nav
 poshy-ecks
+poshy-env-proxy
 poshy-env-var
 poshy-ls-isms
 poshy-lucidity
@@ -5055,7 +5061,9 @@ potato
 pow
 powdrgit
 power
+power-apps
 power-cbr
+power-platform
 power-shell
 powerapps
 powerappsportal
@@ -5411,6 +5419,7 @@ pscommand_dils
 pscommand_dipu
 pscommand_dirm
 pscommand_dirname
+pscommand_disable-proxy
 pscommand_dit
 pscommand_dk
 pscommand_dkbash
@@ -5540,6 +5549,7 @@ pscommand_dxc
 pscommand_dxcit
 pscommand_e64
 pscommand_ef64
+pscommand_enable-proxy
 pscommand_encode64
 pscommand_encodefile64
 pscommand_export-gitrepositoryzip
@@ -5828,6 +5838,12 @@ pscommand_git_show_stash_file
 pscommand_git_stats
 pscommand_git_status_short_with_loglines
 pscommand_git-changelog
+pscommand_git-disable-proxy
+pscommand_git-enable-proxy
+pscommand_git-global-disable-proxy
+pscommand_git-global-enable-proxy
+pscommand_git-global-show-proxy
+pscommand_git-show-proxy
 pscommand_gitignore-reload
 pscommand_gittowork
 pscommand_gl
@@ -6710,6 +6726,9 @@ pscommand_nmap_slow
 pscommand_nmap_traceroute
 pscommand_nmap_web_safe_osscan
 pscommand_notify-send-fallback
+pscommand_npm-disable-proxy
+pscommand_npm-enable-proxy
+pscommand_npm-show-proxy
 pscommand_npmd
 pscommand_npme
 pscommand_npmf
@@ -6755,6 +6774,7 @@ pscommand_pl
 pscommand_po
 pscommand_pop-gitstashentry
 pscommand_ppy
+pscommand_proxy-help
 pscommand_prun
 pscommand_psh
 pscommand_psy
@@ -6773,6 +6793,7 @@ pscommand_push-gitstashentrywithmessage
 pscommand_pushgr
 pscommand_pvenv
 pscommand_pwh
+pscommand_pwshrc-show-proxy
 pscommand_py
 pscommand_pyenv
 pscommand_pylint-quick
@@ -6844,10 +6865,14 @@ pscommand_set-locationup4
 pscommand_set-locationup5
 pscommand_sgem
 pscommand_show-gitremote
+pscommand_show-proxy
 pscommand_shttp
 pscommand_shuf
 pscommand_sl
 pscommand_ssh-add-all
+pscommand_ssh-disable-proxy
+pscommand_ssh-enable-proxy
+pscommand_ssh-show-proxy
 pscommand_sshlist
 pscommand_start-gitbisect
 pscommand_start-gitcherrypick
@@ -7050,6 +7075,7 @@ pscommand_zwp
 pscommander
 psconfasia
 psconfeu
+psconfig
 pscore
 pscredential
 pscribo
@@ -7141,6 +7167,7 @@ psfunction_d
 psfunction_decode64
 psfunction_decodefile64
 psfunction_dirname
+psfunction_disable-proxy
 psfunction_docker-archive-content
 psfunction_docker-build
 psfunction_docker-compose-fresh
@@ -7206,6 +7233,7 @@ psfunction_dotnet-tool-update-all-global
 psfunction_dotnet-watch
 psfunction_dotnet-watch-run
 psfunction_dotnet-watch-test
+psfunction_enable-proxy
 psfunction_encode64
 psfunction_encodefile64
 psfunction_export-gitrepositoryzip
@@ -7362,6 +7390,12 @@ psfunction_git_show_stash_file
 psfunction_git_stats
 psfunction_git_status_short_with_loglines
 psfunction_git-changelog
+psfunction_git-disable-proxy
+psfunction_git-enable-proxy
+psfunction_git-global-disable-proxy
+psfunction_git-global-enable-proxy
+psfunction_git-global-show-proxy
+psfunction_git-show-proxy
 psfunction_gitignore-reload
 psfunction_gittowork
 psfunction_gplfs
@@ -7955,6 +7989,9 @@ psfunction_nmap_slow
 psfunction_nmap_traceroute
 psfunction_nmap_web_safe_osscan
 psfunction_notify-send-fallback
+psfunction_npm-disable-proxy
+psfunction_npm-enable-proxy
+psfunction_npm-show-proxy
 psfunction_open_command
 psfunction_peek
 psfunction_pipig
@@ -7965,6 +8002,7 @@ psfunction_pipreq
 psfunction_pipunall
 psfunction_pipupall
 psfunction_pop-gitstashentry
+psfunction_proxy-help
 psfunction_publish-gitcommitsforcefullywithlease
 psfunction_publish-gitcommitssettingupstream
 psfunction_publish-gitcommitssettingupstreamtoorigin
@@ -7975,6 +8013,7 @@ psfunction_publish-gitcommitswithtags
 psfunction_publish-gitrepositorytosvn
 psfunction_push-gitstashentry
 psfunction_push-gitstashentrywithmessage
+psfunction_pwshrc-show-proxy
 psfunction_pyserver
 psfunction_read-dotenv
 psfunction_register-argcompleteargumentcompleter
@@ -8036,9 +8075,13 @@ psfunction_set-locationup3
 psfunction_set-locationup4
 psfunction_set-locationup5
 psfunction_show-gitremote
+psfunction_show-proxy
 psfunction_shttp
 psfunction_shuf
 psfunction_ssh-add-all
+psfunction_ssh-disable-proxy
+psfunction_ssh-enable-proxy
+psfunction_ssh-show-proxy
 psfunction_sshlist
 psfunction_start-gitbisect
 psfunction_start-gitcherrypick
@@ -8438,6 +8481,7 @@ regression
 regular-expression
 regularexpression
 regularexpressions
+reinstall
 relational
 relay
 release
@@ -8965,6 +9009,7 @@ setting
 settings
 setup
 sevenzip
+sf
 sfb
 sftp
 sfx
@@ -8990,7 +9035,9 @@ shared
 sharefile
 sharepoint
 sharepoint_online
+sharepoint-on-prem
 sharepoint-online
+sharepoint-product-configuration-wizard
 sharepoint2013
 sharepointdevelopmentcommunity
 sharepointonline
@@ -9206,6 +9253,7 @@ speak
 speaker
 spec
 specification
+specify
 spectre
 spectrumconnect
 spectrumcontrolbase
@@ -9697,7 +9745,6 @@ threads
 threadsanitizer
 threat
 threat-hunting
-threatdefense
 threathunting
 threatintelligence
 throttle
@@ -9798,6 +9845,7 @@ translit
 transliteration
 transmission
 transparency
+transpilation
 trap
 travel
 trec
@@ -9944,7 +9992,6 @@ udp
 udpclient
 udptest
 udr
-udthememode
 udword
 uefi
 uem
