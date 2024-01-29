@@ -3,13 +3,77 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
-## [PSTopdeskFunctions](https://www.powershellgallery.com/Packages/PSTopdeskFunctions/1.2.1) | 1.2.1
+## [QueryExcel](https://www.powershellgallery.com/Packages/QueryExcel/1.0.0) | 1.0.0
 
-### Published: 01/29/2024 07:49:24 by rekan
+### Published: 01/29/2024 17:26:41 by Max Leung
+
+Query Excel with Powershell
+
+__Downloads__: 0 | __Repository__: 
+
+## [IdnTools](https://www.powershellgallery.com/Packages/IdnTools/1.60) | 1.60
+
+### Published: 01/29/2024 15:46:38 by Derek Brown
+
+This module contains functions to help manage SailPoint IdentityNow tenants.  The functions use various versions of SailPoint's APIs.  The only change required is updating the 'OrgName' variable in the .psm1 file with your tenant name.
+
+__Downloads__: 59 | __Repository__: 
+
+## [spec.teamviewer.utilities](https://www.powershellgallery.com/Packages/spec.teamviewer.utilities/1.1.4) | 1.1.4
+
+### Published: 01/29/2024 14:42:12 by owen.heaume
+
+A module to help manage TeamViewer
+
+__Downloads__: 17,257 | __Repository__: 
+
+## [PSTopdeskFunctions](https://www.powershellgallery.com/Packages/PSTopdeskFunctions/1.2.4) | 1.2.4
+
+### Published: 01/29/2024 14:26:58 by rekan
 
 Connect to Topdesk API with Username and Secret and managed its resources.
 
 __Downloads__: 11 | __Repository__: 
+
+## [PS3stepFunctions](https://www.powershellgallery.com/Packages/PS3stepFunctions/1.0.1) | 1.0.1
+
+### Published: 01/29/2024 14:11:41 by rekan
+
+Connect to 3step API with Token and retrieve its resources.
+
+__Downloads__: 3 | __Repository__: 
+
+## [PSHelpFunctions](https://www.powershellgallery.com/Packages/PSHelpFunctions/1.0.3) | 1.0.3
+
+### Published: 01/29/2024 14:09:04 by rekan
+
+Functions to make things easier to remember, conversions and other helpful stuff! =)
+
+__Downloads__: 15 | __Repository__: 
+
+## [NHLPS](https://www.powershellgallery.com/Packages/NHLPS/1.1) | 1.1
+
+### Published: 01/29/2024 12:54:13 by Javier Fernandez
+
+A PowerShell module that utilises public NHL APIs to retrieve and display data
+
+__Downloads__: 0 | __Repository__: https://github.com/swavi/NHLPS
+
+## [ObjectGraphTools](https://www.powershellgallery.com/Packages/ObjectGraphTools/0.0.11) | 0.0.11
+
+### Published: 01/29/2024 12:42:43 by Ronald Bode (iRon)
+
+Object Graph Tools
+
+__Downloads__: 32 | __Repository__: https://github.com/iRon7/ObjectGraphTools
+
+## [Kelverion.Oracle](https://www.powershellgallery.com/Packages/Kelverion.Oracle/2.6) | 2.6
+
+### Published: 01/29/2024 12:14:07 by Kelverion Inc.
+
+This Integration Module provides cmdlets for automating interaction with Oracle databases without the need to write SQL and is designed to be used with Runbook Studio and Azure Automation. Get more information and download the Runbook Studio from (https://www.kelverion.com/runbook-studio/). For a free evaluation licence please email info@kelverion.com.
+
+__Downloads__: 3,619 | __Repository__: https://www.kelverion.com/runbook-oracle/
 
 ## [GitModule](https://www.powershellgallery.com/Packages/GitModule/0.0.0.3) | 0.0.0.3
 
@@ -65,7 +129,7 @@ __Downloads__: 4 | __Repository__: https://github.com/ArmaanMcleod/PoshJsonWebTo
 
 Work with the contents of NTFS volumes
 
-__Downloads__: 525 | __Repository__: 
+__Downloads__: 526 | __Repository__: 
 
 ## [Permission](https://www.powershellgallery.com/Packages/Permission/0.0.76) | 0.0.76
 
@@ -73,7 +137,7 @@ __Downloads__: 525 | __Repository__:
 
 Module for working with Access Control Lists
 
-__Downloads__: 524 | __Repository__: 
+__Downloads__: 525 | __Repository__: 
 
 ## [PSToml](https://www.powershellgallery.com/Packages/PSToml/0.3.1) | 0.3.1
 
@@ -89,7 +153,7 @@ __Downloads__: 4,743 | __Repository__: https://github.com/jborean93/PSToml
 
 Provide SSH and SCP functionality for executing commands against remote hosts.
 
-__Downloads__: 30,059,015 | __Repository__: https://github.com/darkoperator/Posh-SSH
+__Downloads__: 30,058,958 | __Repository__: https://github.com/darkoperator/Posh-SSH
 
 ## [Microsoft.PowerPlatform.DevOps](https://www.powershellgallery.com/Packages/Microsoft.PowerPlatform.DevOps/2.0.189) | 2.0.189
 
@@ -121,7 +185,7 @@ __Downloads__: 1,006 | __Repository__: https://github.com/ethanbergstrom/Homebre
 
 A PowerShell Crescendo wrapper for Homebrew
 
-__Downloads__: 1,634 | __Repository__: https://github.com/ethanbergstrom/Croze
+__Downloads__: 1,636 | __Repository__: https://github.com/ethanbergstrom/Croze
 
 ## [AnyPackage.ModuleFast](https://www.powershellgallery.com/Packages/AnyPackage.ModuleFast/0.1.1) | 0.1.1
 
@@ -227,7 +291,7 @@ __Downloads__: 282 | __Repository__: https://github.com/PSModule/PATH
 
 PSModule Framework PowerShell Module
 
-__Downloads__: 1,299 | __Repository__: https://github.com/PSModule/PSModule.FX
+__Downloads__: 1,298 | __Repository__: https://github.com/PSModule/PSModule.FX
 
 ## [HelpOut](https://www.powershellgallery.com/Packages/HelpOut/0.5.2) | 0.5.2
 
@@ -349,7 +413,7 @@ __Downloads__: 26 | __Repository__:
 
 Integrated CI/CD Solution for Microsoft Azure.
 
-__Downloads__: 1,857,319 | __Repository__: https://github.com/Azure/AzOps
+__Downloads__: 1,857,286 | __Repository__: https://github.com/Azure/AzOps
 
 ## [ibPS](https://www.powershellgallery.com/Packages/ibPS/1.9.1.7) | 1.9.1.7
 
@@ -366,6 +430,14 @@ __Downloads__: 51 | __Repository__: https://github.com/TehMuffinMoo/ibPS
 ADPlayground is a module that allows you to do some basic Active Directory operations.
 
 __Downloads__: 6 | __Repository__: 
+
+## [UiPathOrch](https://www.powershellgallery.com/Packages/UiPathOrch/0.8.1.3) | 0.8.1.3
+
+### Published: 01/26/2024 09:08:58 by Yoshifumi Tsuda
+
+Provider for Orchestrator entities.
+
+__Downloads__: 108 | __Repository__: 
 
 ## [M365DSC.CompositeResources](https://www.powershellgallery.com/Packages/M365DSC.CompositeResources/1.24.124.100) | 1.24.124.100
 
@@ -492,21 +564,13 @@ This module lets you interact with the APIs provided by the Sitecore Customer En
 
 __Downloads__: 21 | __Repository__: https://www.github.com/jballe/SitecoreCecSearchModule
 
-## [PSHelpFunctions](https://www.powershellgallery.com/Packages/PSHelpFunctions/1.0.2) | 1.0.2
-
-### Published: 01/25/2024 19:14:11 by rekan
-
-Functions to make things easier to remember, conversions and other helpful stuff! =)
-
-__Downloads__: 15 | __Repository__: 
-
 ## [pwps_dab](https://www.powershellgallery.com/Packages/pwps_dab/23.3.7) | 23.3.7
 
 ### Published: 01/25/2024 19:07:54 by Bentley Systems Incorporated
 
 ProjectWise PowerShell Cmdlets from System Architecture Group
 
-__Downloads__: 84,267 | __Repository__: 
+__Downloads__: 84,266 | __Repository__: 
 
 ## [Rapid7Nexpose](https://www.powershellgallery.com/Packages/Rapid7Nexpose/1.6.5.0) | 1.6.5.0
 
@@ -540,14 +604,6 @@ A PowerShell module to generate an as built report on the configuration of Micro
 
 __Downloads__: 46 | __Repository__: https://github.com/rebelinux/Diagrammer.Microsoft.AD
 
-## [spec.teamviewer.utilities](https://www.powershellgallery.com/Packages/spec.teamviewer.utilities/1.1.2) | 1.1.2
-
-### Published: 01/25/2024 15:19:00 by owen.heaume
-
-A module to help manage TeamViewer
-
-__Downloads__: 17,257 | __Repository__: 
-
 ## [VMware.VCDA.AVS](https://www.powershellgallery.com/Packages/VMware.VCDA.AVS/1.0.0) | 1.0.0
 
 ### Published: 01/25/2024 12:52:00 by Georgi Panayotov
@@ -576,14 +632,6 @@ __Downloads__: 10 | __Repository__: https://github.com/ztrhgf/useful_powershell_
 Manage SendGrid using its API with PowerShell functions and wrappers.
 
 __Downloads__: 2 | __Repository__: 
-
-## [PS3stepFunctions](https://www.powershellgallery.com/Packages/PS3stepFunctions/1.0.0) | 1.0.0
-
-### Published: 01/25/2024 09:43:40 by rekan
-
-Connect to 3step API with Token and retrieve its resources.
-
-__Downloads__: 3 | __Repository__: 
 
 ## [ADEssentials](https://www.powershellgallery.com/Packages/ADEssentials/0.0.185) | 0.0.185
 
@@ -709,7 +757,7 @@ __Downloads__: 35,753 | __Repository__:
 
 A set of tools that will assist you when working with Dynamics 365 Finance & Operations development / demo machines.
 
-__Downloads__: 230,377 | __Repository__: https://github.com/d365collaborative/d365fo.tools
+__Downloads__: 230,376 | __Repository__: https://github.com/d365collaborative/d365fo.tools
 
 ## [UsagiTools](https://www.powershellgallery.com/Packages/UsagiTools/1.3.0) | 1.3.0
 
@@ -773,7 +821,7 @@ __Downloads__: 280,540 | __Repository__: https://github.com/EvotecIT/PSSharedGoo
 
 Interact with the Secret Server REST API
 
-__Downloads__: 61,432 | __Repository__: https://github.com/thycotic-ps/thycotic.secretserver
+__Downloads__: 61,431 | __Repository__: https://github.com/thycotic-ps/thycotic.secretserver
 
 ## [OCI.PSModules](https://www.powershellgallery.com/Packages/OCI.PSModules/74.1.0) | 74.1.0
 
@@ -1894,7 +1942,7 @@ __Downloads__: 6,298 | __Repository__:
 
 Master module for a collection of modules. These modules are varied in their tasks. The overall purpose of them being to provide a powerfull Toolset to improve IT Admin workflows.
 
-__Downloads__: 34,940 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox
+__Downloads__: 34,941 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox
 
 ## [AdminToolbox.FortiWizard](https://www.powershellgallery.com/Packages/AdminToolbox.FortiWizard/2.18.35) | 2.18.35
 
@@ -1910,7 +1958,7 @@ __Downloads__: 14,307 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions to Automate Bulk VMWare Tasks
 
-__Downloads__: 21,214 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 21,216 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.Remoting](https://www.powershellgallery.com/Packages/AdminToolbox.Remoting/1.9.129) | 1.9.129
 
@@ -1918,7 +1966,7 @@ __Downloads__: 21,214 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions for remote management and access.
 
-__Downloads__: 21,037 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 21,039 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.Office365](https://www.powershellgallery.com/Packages/AdminToolbox.Office365/3.1.79) | 3.1.79
 
@@ -1950,7 +1998,7 @@ __Downloads__: 11,198 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions that have no purpose
 
-__Downloads__: 21,376 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 21,378 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.FileManagement](https://www.powershellgallery.com/Packages/AdminToolbox.FileManagement/1.16.121) | 1.16.121
 
@@ -1958,7 +2006,7 @@ __Downloads__: 21,376 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 File Management Functions
 
-__Downloads__: 21,958 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 21,960 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.FFTools](https://www.powershellgallery.com/Packages/AdminToolbox.FFTools/4.16.79) | 4.16.79
 
@@ -1966,7 +2014,7 @@ __Downloads__: 21,958 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Expedite simple ffmpeg actions
 
-__Downloads__: 21,848 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 21,850 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.Exchange](https://www.powershellgallery.com/Packages/AdminToolbox.Exchange/1.9.130) | 1.9.130
 
@@ -2008,14 +2056,6 @@ This module will migrate a Basic SKU load balancer connected to a Virtual Machin
 
 __Downloads__: 1,516 | __Repository__: https://github.com/Azure/AzLoadBalancerMigration
 
-## [PSNetboxFunctions](https://www.powershellgallery.com/Packages/PSNetboxFunctions/1.2.0) | 1.2.0
-
-### Published: 01/23/2024 12:52:11 by rekan
-
-Connect to Netbox API with Token and manage its resources.
-
-__Downloads__: 18 | __Repository__: 
-
 ## [Particular.ServiceControl.Management](https://www.powershellgallery.com/Packages/Particular.ServiceControl.Management/5.0.4) | 5.0.4
 
 ### Published: 01/23/2024 09:58:27 by Particular Software
@@ -2032,98 +2072,4 @@ Our collected Graph API automation knowledge.
 
 __Downloads__: 2 | __Repository__: https://github.com/shiftavenue/saga
 
-## [Lomtec.com.SourceCode](https://www.powershellgallery.com/Packages/Lomtec.com.SourceCode/1.5.1) | 1.5.1
-
-### Published: 01/23/2024 08:55:54 by Imrich Szolik
-
-Lomtec.com SourceCode cmdlets
-
-__Downloads__: 774 | __Repository__: 
-
-## [hugoalh.GitHubActionsToolkit](https://www.powershellgallery.com/Packages/hugoalh.GitHubActionsToolkit/2.1.2) | 2.1.2
-
-### Published: 01/23/2024 08:25:23 by hugoalh
-
-Provide a better and easier way for GitHub Actions to communicate with the runner machine, and the toolkit for developing GitHub Actions in PowerShell.
-
-__Downloads__: 148,934 | __Repository__: https://github.com/hugoalh-studio/ghactions-toolkit-powershell
-
-## [RiverMeadow.Development.Migrate](https://www.powershellgallery.com/Packages/RiverMeadow.Development.Migrate/1.0.119.443) | 1.0.119.443
-
-### Published: 01/23/2024 07:22:42 by RiverMeadow Engineering Team
-
-Provides cmdlets for starting migration of applications to supported clouds using the RiverMeadow platform.
-
-__Downloads__: 533 | __Repository__: https://migrate.rivermeadow.com/
-
-## [WDACConfig](https://www.powershellgallery.com/Packages/WDACConfig/0.3.1) | 0.3.1
-
-### Published: 01/22/2024 23:14:32 by HotCakeX
-
-This is an advanced PowerShell module for WDAC (Windows Defender Application Control) and automates a lot of tasks.
-
-
-🟢 Please see the GitHub page for Full details and everything about the module: https://github.com/HotCakeX/Harden-Windows-Security/wiki/WDACConfig
-
-
-🛡️ Here is the list of module's cmdlets
-
-✔️ New-WDACConfig: https://github.com/HotCakeX/Harden-Windows-Security/wiki/New-WDACConfig
-
-✔️ New-SupplementalWDACConfig: https://github.com/HotCakeX/Harden-Windows-Security/wiki/New-SupplementalWDACConfig
-
-✔️ Remove-WDACConfig: https://github.com/HotCakeX/Harden-Windows-Security/wiki/Remove-WDACConfig
-
-✔️ Edit-WDACConfig: https://github.com/HotCakeX/Harden-Windows-Security/wiki/Edit-WDACConfig
-
-✔️ Edit-SignedWDACConfig: https://github.com/HotCakeX/Harden-Windows-Security/wiki/Edit-SignedWDACConfig
-
-✔️ Deploy-SignedWDACConfig: https://github.com/HotCakeX/Harden-Windows-Security/wiki/Deploy-SignedWDACConfig
-
-✔️ Confirm-WDACConfig: https://github.com/HotCakeX/Harden-Windows-Security/wiki/Confirm-WDACConfig
-
-✔️ New-DenyWDACConfig: https://github.com/HotCakeX/Harden-Windows-Security/wiki/New-DenyWDACConfig
-
-✔️ Set-CommonWDACConfig: https://github.com/HotCakeX/Harden-Windows-Security/wiki/Set-CommonWDACConfig
-
-✔️ New-KernelModeWDACConfig: https://github.com/HotCakeX/Harden-Windows-Security/wiki/New%E2%80%90KernelModeWDACConfig
-
-✔️ Get-CommonWDACConfig: https://github.com/HotCakeX/Harden-Windows-Security/wiki/Get-CommonWDACConfig
-
-✔️ Invoke-WDACSimulation: https://github.com/HotCakeX/Harden-Windows-Security/wiki/Invoke-WDACSimulation
-
-✔️ Remove-CommonWDACConfig: https://github.com/HotCakeX/Harden-Windows-Security/wiki/Remove-CommonWDACConfig
-
-✔️ Assert-WDACConfigIntegrity: https://github.com/HotCakeX/Harden-Windows-Security/wiki/Assert-WDACConfigIntegrity
-
-✔️ Build-WDACCertificate: https://github.com/HotCakeX/Harden-Windows-Security/wiki/Build-WDACCertificate
-
-To get help and syntax on PowerShell console, type:
-"Get-Command -Module WDACConfig"
-"Get-Help New-WDACConfig"
-"Get-Help New-SupplementalWDACConfig"
-"Get-Help Remove-WDACConfig"
-"Get-Help Edit-WDACConfig"
-"Get-Help Edit-SignedWDACConfig"
-"Get-Help Deploy-SignedWDACConfig"
-"Get-Help Confirm-WDACConfig"
-"Get-Help New-DenyWDACConfig"
-"Get-Help Set-CommonWDACConfig"
-"Get-Help New-KernelModeWDACConfig"
-"Get-Help Get-CommonWDACConfig"
-"Get-Help Invoke-WDACSimulation"
-"Get-Help Remove-CommonWDACConfig"
-"Get-Help Assert-WDACConfigIntegrity"
-"Get-Help Build-WDACCertificate"
-
-__Downloads__: 1,418 | __Repository__: https://github.com/HotCakeX/Harden-Windows-Security/wiki/WDACConfig
-
-## [PkiExtension](https://www.powershellgallery.com/Packages/PkiExtension/1.0.0) | 1.0.0
-
-### Published: 01/22/2024 18:21:54 by Friedrich Weinmann
-
-Extends the core feature set of the PKI Module
-
-__Downloads__: 11 | __Repository__: https://github.com/FriedrichWeinmann/PkiExtension
-
-*Updated: Monday, 29 January 2024 09:52:43 UTC*
+*Updated: Monday, 29 January 2024 17:52:10 UTC*
