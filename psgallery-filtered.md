@@ -3,6 +3,30 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [Microsoft.PowerPlatform.DevOps](https://www.powershellgallery.com/Packages/Microsoft.PowerPlatform.DevOps/2.0.190) | 2.0.190
+
+### Published: 01/30/2024 00:50:25 by Dylan Haskins and Eugene Van Staden
+
+A Toolset for Implementing and Adopting a full ALM strategy for the Microsoft PowerPlatform.
+
+__Downloads__: 51,753 | __Repository__: https://github.com/dylanhaskins/Microsoft.PowerPlatform.DevOps.Documentation
+
+## [Meraki-API-V1](https://www.powershellgallery.com/Packages/Meraki-API-V1/1.0.4) | 1.0.4
+
+### Published: 01/29/2024 20:27:49 by Cliff Williams
+
+Powershell module to use with the Meraki API to manage your Meraki Organization.
+
+__Downloads__: 18 | __Repository__: https://github.com/Clifra-Jones/Meraki-API-V1
+
+## [PowerArubaCP](https://www.powershellgallery.com/Packages/PowerArubaCP/0.7.0) | 0.7.0
+
+### Published: 01/29/2024 20:00:34 by Alexis La Goutte
+
+PowerShell module to query the Aruba ClearPass API
+
+__Downloads__: 1,485 | __Repository__: https://github.com/PowerAruba/PowerArubaCP
+
 ## [QueryExcel](https://www.powershellgallery.com/Packages/QueryExcel/1.0.0) | 1.0.0
 
 ### Published: 01/29/2024 17:26:41 by Max Leung
@@ -129,7 +153,7 @@ __Downloads__: 4 | __Repository__: https://github.com/ArmaanMcleod/PoshJsonWebTo
 
 Work with the contents of NTFS volumes
 
-__Downloads__: 526 | __Repository__: 
+__Downloads__: 525 | __Repository__: 
 
 ## [Permission](https://www.powershellgallery.com/Packages/Permission/0.0.76) | 0.0.76
 
@@ -137,7 +161,7 @@ __Downloads__: 526 | __Repository__:
 
 Module for working with Access Control Lists
 
-__Downloads__: 525 | __Repository__: 
+__Downloads__: 524 | __Repository__: 
 
 ## [PSToml](https://www.powershellgallery.com/Packages/PSToml/0.3.1) | 0.3.1
 
@@ -154,14 +178,6 @@ __Downloads__: 4,743 | __Repository__: https://github.com/jborean93/PSToml
 Provide SSH and SCP functionality for executing commands against remote hosts.
 
 __Downloads__: 30,058,958 | __Repository__: https://github.com/darkoperator/Posh-SSH
-
-## [Microsoft.PowerPlatform.DevOps](https://www.powershellgallery.com/Packages/Microsoft.PowerPlatform.DevOps/2.0.189) | 2.0.189
-
-### Published: 01/29/2024 00:36:59 by Dylan Haskins and Eugene Van Staden
-
-A Toolset for Implementing and Adopting a full ALM strategy for the Microsoft PowerPlatform.
-
-__Downloads__: 51,753 | __Repository__: https://github.com/dylanhaskins/Microsoft.PowerPlatform.DevOps.Documentation
 
 ## [Utilities](https://www.powershellgallery.com/Packages/Utilities/0.0.46) | 0.0.46
 
@@ -225,7 +241,7 @@ __Downloads__: 151 | __Repository__: https://github.com/DevClate/365AutomatedLab
 
 Manage fonts on a Windows system
 
-__Downloads__: 653 | __Repository__: https://github.com/PSModule/Fonts
+__Downloads__: 656 | __Repository__: https://github.com/PSModule/Fonts
 
 ## [NerdFonts](https://www.powershellgallery.com/Packages/NerdFonts/0.3.2) | 0.3.2
 
@@ -291,7 +307,7 @@ __Downloads__: 282 | __Repository__: https://github.com/PSModule/PATH
 
 PSModule Framework PowerShell Module
 
-__Downloads__: 1,298 | __Repository__: https://github.com/PSModule/PSModule.FX
+__Downloads__: 1,299 | __Repository__: https://github.com/PSModule/PSModule.FX
 
 ## [HelpOut](https://www.powershellgallery.com/Packages/HelpOut/0.5.2) | 0.5.2
 
@@ -365,15 +381,7 @@ __Downloads__: 24,173 | __Repository__:
 
 PowerShell module for listing Trouw articles
 
-__Downloads__: 873 | __Repository__: https://github.com/jhoek/UncommonSense.Trouw
-
-## [EasyPIM](https://www.powershellgallery.com/Packages/EasyPIM/1.1.0) | 1.1.0
-
-### Published: 01/26/2024 18:20:24 by Loïc MICHEL
-
-Powershell module to manage PIM Azure Resource Role settings with simplicity in mind
-
-__Downloads__: 128 | __Repository__: https://github.com/kayasax/EasyPIM/
+__Downloads__: 874 | __Repository__: https://github.com/jhoek/UncommonSense.Trouw
 
 ## [DisplayConfig](https://www.powershellgallery.com/Packages/DisplayConfig/1.0.5) | 1.0.5
 
@@ -413,7 +421,7 @@ __Downloads__: 26 | __Repository__:
 
 Integrated CI/CD Solution for Microsoft Azure.
 
-__Downloads__: 1,857,286 | __Repository__: https://github.com/Azure/AzOps
+__Downloads__: 1,857,319 | __Repository__: https://github.com/Azure/AzOps
 
 ## [ibPS](https://www.powershellgallery.com/Packages/ibPS/1.9.1.7) | 1.9.1.7
 
@@ -639,7 +647,7 @@ __Downloads__: 2 | __Repository__:
 
 Helper module for Active Directory with lots of useful functions that simplify supporting Active Directory.
 
-__Downloads__: 170,756 | __Repository__: https://github.com/EvotecIT/ADEssentials
+__Downloads__: 170,758 | __Repository__: https://github.com/EvotecIT/ADEssentials
 
 ## [Posh-IBWAPI](https://www.powershellgallery.com/Packages/Posh-IBWAPI/4.0.2) | 4.0.2
 
@@ -717,7 +725,7 @@ __Downloads__: 408 | __Repository__:
 
 The community module that enables SQL Server Pros to automate database development and server administration
 
-__Downloads__: 3,609,411 | __Repository__: https://dbatools.io/
+__Downloads__: 3,609,430 | __Repository__: https://dbatools.io/
 
 ## [AsBuiltReport.Microsoft.AD](https://www.powershellgallery.com/Packages/AsBuiltReport.Microsoft.AD/0.8.0) | 0.8.0
 
@@ -725,7 +733,7 @@ __Downloads__: 3,609,411 | __Repository__: https://dbatools.io/
 
 A PowerShell module to generate an as built report on the configuration of Microsoft AD.
 
-__Downloads__: 18,922 | __Repository__: https://github.com/AsBuiltReport/AsBuiltReport.Microsoft.AD
+__Downloads__: 18,923 | __Repository__: https://github.com/AsBuiltReport/AsBuiltReport.Microsoft.AD
 
 ## [JeaCertificateManager](https://www.powershellgallery.com/Packages/JeaCertificateManager/1.0.0) | 1.0.0
 
@@ -1918,7 +1926,7 @@ __Downloads__: 96,704 | __Repository__: https://github.com/oracle/oci-powershell
 
 Orchestrate driver, BIOS/UEFI and firmware updates for Lenovo computers 👨‍💻
 
-__Downloads__: 19,634,343 | __Repository__: https://www.github.com/jantari/LSUClient
+__Downloads__: 19,634,282 | __Repository__: https://www.github.com/jantari/LSUClient
 
 ## [DscResource.Common](https://www.powershellgallery.com/Packages/DscResource.Common/0.17.0) | 0.17.0
 
@@ -1950,7 +1958,7 @@ __Downloads__: 34,941 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions that generate configuration scripts and manage FortiOS.
 
-__Downloads__: 14,307 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 14,308 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.VMWareAutomate](https://www.powershellgallery.com/Packages/AdminToolbox.VMWareAutomate/4.8.126) | 4.8.126
 
@@ -1958,7 +1966,7 @@ __Downloads__: 14,307 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions to Automate Bulk VMWare Tasks
 
-__Downloads__: 21,216 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 21,214 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.Remoting](https://www.powershellgallery.com/Packages/AdminToolbox.Remoting/1.9.129) | 1.9.129
 
@@ -1966,7 +1974,7 @@ __Downloads__: 21,216 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions for remote management and access.
 
-__Downloads__: 21,039 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 21,037 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.Office365](https://www.powershellgallery.com/Packages/AdminToolbox.Office365/3.1.79) | 3.1.79
 
@@ -1982,7 +1990,7 @@ __Downloads__: 22,712 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Network Troubleshooting Functions
 
-__Downloads__: 53,578 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 53,580 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.MSGraph](https://www.powershellgallery.com/Packages/AdminToolbox.MSGraph/1.2.129) | 1.2.129
 
@@ -1990,7 +1998,7 @@ __Downloads__: 53,578 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Microsoft Graph interactive API Functions
 
-__Downloads__: 11,198 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 11,199 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.Fun](https://www.powershellgallery.com/Packages/AdminToolbox.Fun/1.6.130) | 1.6.130
 
@@ -1998,7 +2006,7 @@ __Downloads__: 11,198 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions that have no purpose
 
-__Downloads__: 21,378 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 21,376 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.FileManagement](https://www.powershellgallery.com/Packages/AdminToolbox.FileManagement/1.16.121) | 1.16.121
 
@@ -2006,7 +2014,7 @@ __Downloads__: 21,378 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 File Management Functions
 
-__Downloads__: 21,960 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 21,958 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.FFTools](https://www.powershellgallery.com/Packages/AdminToolbox.FFTools/4.16.79) | 4.16.79
 
@@ -2014,7 +2022,7 @@ __Downloads__: 21,960 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Expedite simple ffmpeg actions
 
-__Downloads__: 21,850 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 21,848 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.Exchange](https://www.powershellgallery.com/Packages/AdminToolbox.Exchange/1.9.130) | 1.9.130
 
@@ -2056,20 +2064,12 @@ This module will migrate a Basic SKU load balancer connected to a Virtual Machin
 
 __Downloads__: 1,516 | __Repository__: https://github.com/Azure/AzLoadBalancerMigration
 
-## [Particular.ServiceControl.Management](https://www.powershellgallery.com/Packages/Particular.ServiceControl.Management/5.0.4) | 5.0.4
+## [PSNetboxFunctions](https://www.powershellgallery.com/Packages/PSNetboxFunctions/1.2.0) | 1.2.0
 
-### Published: 01/23/2024 09:58:27 by Particular Software
+### Published: 01/23/2024 12:52:11 by rekan
 
-ServiceControl Management
+Connect to Netbox API with Token and manage its resources.
 
-__Downloads__: 1,130 | __Repository__: https://github.com/Particular/ServiceControl
+__Downloads__: 18 | __Repository__: 
 
-## [shiftavenue.GraphAutomation](https://www.powershellgallery.com/Packages/shiftavenue.GraphAutomation/1.0.0) | 1.0.0
-
-### Published: 01/23/2024 09:46:17 by Jan-Hendrik Peters
-
-Our collected Graph API automation knowledge.
-
-__Downloads__: 2 | __Repository__: https://github.com/shiftavenue/saga
-
-*Updated: Monday, 29 January 2024 17:52:10 UTC*
+*Updated: Tuesday, 30 January 2024 02:01:44 UTC*
