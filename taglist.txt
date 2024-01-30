@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Tuesday, 30 January 2024 09:52:43 UTC
+Updated: Tuesday, 30 January 2024 17:52:34 UTC
 
 .bat
 .env
@@ -129,7 +129,6 @@ activehours
 activeresponse
 activesession
 activiti
-activities
 activity
 activitycount
 actor-model
@@ -182,7 +181,6 @@ adlds
 adm
 admf
 admin
-admin-tools
 adminbyrequest
 admindirectory
 administration
@@ -217,7 +215,6 @@ adv190013
 adv220002
 advanced
 advapi32
-advice
 advisor
 adwords
 adx
@@ -328,7 +325,6 @@ anet
 anf
 anglesharp
 angular
-animals
 animate-svg
 animation
 animations
@@ -359,6 +355,7 @@ api-gateway
 api-rest
 apichecks
 apiclient
+apigateway
 apigee
 apigeeedge
 apimanagement
@@ -493,6 +490,7 @@ asset
 assetintelligencepoint
 assets
 assistance
+assistant
 association
 ast
 astronomy
@@ -860,6 +858,7 @@ bnm
 boards
 bofh
 boilerplate
+boinc
 bold-text
 bolt
 bom
@@ -955,7 +954,6 @@ bytearray
 bzip2
 c#
 c++
-ca
 cache
 caf
 cal
@@ -977,6 +975,7 @@ canonical
 cantara
 capability
 capacity
+capacitymanagement
 capgemini
 capslock
 captcha
@@ -984,6 +983,7 @@ capture
 carbon
 carbonawarecomputing
 carbonintensity
+card
 cardwirth
 cargo
 carousel
@@ -1090,7 +1090,6 @@ chefconf2016
 chenxizhang
 cherrypy
 cherwell
-chfs
 chi
 china
 chmod
@@ -1135,8 +1134,6 @@ cis
 cisco
 ciscoucscmdlets
 ciscoucsdsc
-citation
-cite
 citrix
 citrixoptimizer
 civo
@@ -1200,7 +1197,6 @@ cloudant
 cloudbees
 cloudberry
 cloudblue
-cloudbolt
 cloudbridge
 cloudendure
 cloudevents
@@ -1222,6 +1218,7 @@ cloudservice
 cloudshell
 clueser
 cluster
+clusterminimumvalues
 clusterplugins
 cmaccounts
 cmake
@@ -1413,7 +1410,6 @@ containerinstances
 containerregistry
 containers
 containment
-contentprep
 context
 continious-deploy
 continious-integration
@@ -1613,7 +1609,6 @@ customization
 customlocation
 customlogs
 customproviders
-cutehttpfileserver
 cvad
 cve
 cve-2021-34527
@@ -1743,7 +1738,6 @@ dbwebapi
 dc
 dcim
 dcim_b324
-dcom
 dcr
 ddc
 ddc/ci
@@ -1755,6 +1749,7 @@ debugger
 debugging
 decimal
 decimalip
+decimalzero
 declarative
 decline
 decode
@@ -1769,7 +1764,6 @@ deep
 deep-security
 deep-security-manager
 deepl
-deepvisibility
 def
 default
 defaultparameter
@@ -1884,7 +1878,6 @@ directory
 directory psedition_core psedition_desktop
 directory-transform
 directorymarks
-directoryname
 directorysearcher
 directorysecurity
 directrouting
@@ -1964,6 +1957,7 @@ dnsclient
 dnsdumpster
 dnsentry
 dnsimple
+dnslookup
 dnsmadeeasy
 dnsoverhttps
 dnsrecord
@@ -2038,12 +2032,10 @@ dq
 dr
 draw
 drawio
-dreams
 dreamweaver
 dreary
 drift
 driftmonitor
-drink
 drive
 drive letter
 drivemap
@@ -2132,6 +2124,7 @@ dynamicsnav
 dynamodb
 dynatrace
 dynatraceobservability
+dz
 e-mail
 e1
 easy
@@ -2180,7 +2173,6 @@ elevation
 elgato
 elk
 elm
-elmah-io
 elonmusk
 eloqua
 elvui
@@ -2200,7 +2192,6 @@ emcomm
 emergency
 emissions
 emoji
-emojis
 emotion
 empire
 empty
@@ -2288,6 +2279,7 @@ esp32
 esp32s2
 espressif
 esri
+essbase
 estimate
 estimation
 esx
@@ -2385,7 +2377,6 @@ expand-string
 expand-tab
 expandframework
 expect
-experience
 experiments
 expired
 expiring
@@ -2558,7 +2549,6 @@ finops
 firebird
 firefox
 firewall
-firewall-management
 firewallrule
 firmware
 first
@@ -2573,8 +2563,6 @@ fix-protocol
 fixlet
 fixpack
 flac
-flag
-flags
 flash
 flasharray
 flatfile
@@ -2600,7 +2588,6 @@ folders
 font
 fonts
 foo
-food
 football
 for
 force
@@ -2613,7 +2600,6 @@ forensics
 forest
 forestdiscovery
 forgit
-forgiveness
 form
 format
 format-numberedlist
@@ -2955,7 +2941,6 @@ hanaon
 handle
 handler
 hangouts
-hannelstoolbox
 hanwha
 har
 hard
@@ -3237,7 +3222,6 @@ imageslide
 imagevalidate
 imagevalidation
 imagga
-imagination
 imaging
 imap
 imb
@@ -3264,7 +3248,6 @@ incontact
 indents
 index
 indexdb
-indicator
 inedo
 inetfwrule
 inetum
@@ -3301,9 +3284,6 @@ insight
 insightanalytics
 insights
 inspect
-inspiration
-inspirationalquotes
-inspire
 inspur
 instagram
 install
@@ -3332,7 +3312,6 @@ integrationservicescatalog
 integrity
 intel
 inteligo
-intelligence
 intelligence"
 intellisearch
 intellisense
@@ -3343,6 +3322,7 @@ interlogix
 internal
 internet
 internet-explorer
+internetconnection
 internetexplorer
 intersight
 intersightcmdlets
@@ -3414,7 +3394,6 @@ irkit
 irl
 irregular
 isadmin
-isbn
 iscsi
 isdate
 ise
@@ -3562,7 +3541,6 @@ keymanagement
 keymap
 keymapping
 keypair
-keysms
 keyvault
 keywords
 kibana
@@ -3647,7 +3625,6 @@ layout
 lazywinadmin
 lbi
 lbs
-lccn
 lcm
 lcminternals
 ldap
@@ -3691,9 +3668,6 @@ licensemanager
 licensereport
 licenses
 licensing
-life
-lifequotes
-lifestyle
 light
 lights
 lime
@@ -3765,7 +3739,6 @@ lockdown
 locking
 lockoutreport
 lockscreen
-locksmith
 lockstep
 lod
 lodasoft
@@ -3833,8 +3806,6 @@ lookup
 loop
 loopback
 loremipsum
-love
-lovequotes
 lpsiamol
 ls
 lsa
@@ -4010,8 +3981,6 @@ membership
 memcm
 memory
 memorydump
-memorystream
-mention
 menu
 menus
 meraki
@@ -4020,14 +3989,10 @@ mercurial
 merge
 mermaid
 message
-message-emoji
-message-emojis
 messagebox
 messageoftheday
 messages
 messaging
-messaging-emoji
-messaging-emojis
 messenger
 met
 metadata
@@ -4101,7 +4066,6 @@ mimekit
 min
 mindmeister
 minecraft
-miniconda
 minifier
 minimal
 minimum
@@ -4154,7 +4118,6 @@ mongo
 mongodb
 monitor
 monitor psmodule
-monitorinformation
 monitoring
 monitoring_objects
 monitoring_variables
@@ -4167,8 +4130,6 @@ moonshot
 more
 mosaic
 motd
-motivation
-motivationalquotes
 mount
 mouse
 move
@@ -4224,7 +4185,6 @@ msp360
 mspbackups
 msproject
 msrc
-msrdc
 mssql
 mssqlbynarymodule
 mssqlbynarypsmodule
@@ -4283,11 +4243,11 @@ mysql-database
 mytest
 n-able
 n-central
+nabu
 nac
 nagios
 name
 name-of-dogs
-namedpipe
 nameit
 nameresolution
 names
@@ -4302,7 +4262,6 @@ native
 natpool
 natural-language-to-code
 natural-selection
-nature
 nav
 navigation
 nbi
@@ -4314,7 +4273,6 @@ nederland
 nedyalkov
 neo4j
 neovim
-neptune
 nerdfonts
 nerdio
 nerdioapi
@@ -4328,7 +4286,7 @@ netapi32
 netapp
 netapp_ontap_powershell_toolkit
 netapp.ontap
-netapp.ontap_9.13.1
+netapp.ontap_9.14.1
 netappfiles
 netbox
 netcease
@@ -4363,7 +4321,6 @@ networkinterfaces
 networkloadbalancer
 networkpolicyserver
 networkscan
-networksecurity
 networksecuritygroup
 networkshares
 netwrix
@@ -4590,9 +4547,9 @@ onpremisesdatagatewayhamgmt
 onq
 ons
 ontap
-ontap_9.13.1
+ontap_9.14.1
 ontap_9.8.0
-ontap_pstk_9.13.1
+ontap_pstk_9.14.1
 ontap_pstk_9.8.0
 onyphe
 onyphe.io
@@ -4837,7 +4794,6 @@ penetration
 penetrationtesting
 pentesting
 pentia
-people
 perforce
 performance
 performance-counters
@@ -4935,8 +4891,6 @@ pnp
 pnpm
 pode
 poe
-poem
-poetry
 point
 point-to-site
 pointer
@@ -5109,7 +5063,6 @@ powershell-terminal-copilot
 powershell-training
 powershell.module.invokewinget
 powershell.one
-powershell.persistentpathstack
 powershell7
 powershellai
 powershellazuresql
@@ -5133,7 +5086,6 @@ powershelluniversal
 powershellv5
 powerstig
 powerstore
-powertab
 powertoolcmdlets
 powertooldsc
 ppdm
@@ -5148,7 +5100,6 @@ pranks
 predicate
 prediction
 predictive
-predictive-text
 predictor
 preferences
 prefix
@@ -5241,7 +5192,6 @@ protection
 protocol
 protocols
 provance
-proverb
 provider
 providerhub
 provision
@@ -8198,7 +8148,6 @@ psprtg
 pspublicapi
 psql
 psraw
-psreadexif
 psreadline
 psremoting
 psrepository
@@ -8333,9 +8282,7 @@ quiz
 qumulo
 quota
 quote
-quoteoftheday
 quotes
-quotestoliveby
 quoting
 quser
 qword
@@ -8382,7 +8329,6 @@ rcs
 rcu
 rdb
 rdbms
-rdc
 rdcman
 rdcmanager
 rdfe
@@ -8391,7 +8337,6 @@ rdl
 rdm
 rdp
 rdpsession
-rdpsign
 rds
 rdsgw
 react-stockcharts
@@ -8449,7 +8394,6 @@ refactoring
 refeds
 refeds-mfa
 refedsmfa
-reference
 reflect
 reflection
 refresh
@@ -8469,7 +8413,6 @@ region
 regions
 regiser-argumentcompleter
 register
-register-argumentcompleter
 registered
 registrar
 registration
@@ -8494,7 +8437,6 @@ remedy
 reminder
 remote
 remote-browser
-remote-desktop
 remote'
 remoteadmin
 remotecert
@@ -8585,6 +8527,7 @@ restore
 resume
 retail
 retention
+retro
 retry
 returnuserprofile
 retype
@@ -8733,7 +8676,6 @@ saml2
 sample
 sampler
 san
-sand
 sandbox
 sanitization
 sanitizer
@@ -9040,7 +8982,6 @@ sharepointonline
 sharepointpnp
 sharepointpnppowershellonline.add-on.module
 shares
-sheets
 shell
 shell-art
 shells
@@ -9108,6 +9049,7 @@ sitesystemserver
 sitethumbprint
 size
 skatterbrainz
+skeleton-loader
 skia
 skiasharp
 skolnilogin
@@ -9146,7 +9088,6 @@ smbios
 smbios-information
 smfoxx
 smfx
-smileys
 smimeemail
 smimeimap
 smimepop
@@ -9214,7 +9155,6 @@ songs
 sonicwall
 sonicwallvpn
 sonus
-soon
 soonr
 soonragent
 sophos
@@ -9300,7 +9240,6 @@ sqlcodeguard
 sqldatabase
 sqldb
 sqldbatools
-sqldiagapi
 sqlexport
 sqlgateway
 sqlite
@@ -9471,7 +9410,6 @@ subscriptiondefinition
 subset
 subsystem
 subtitle
-success
 successfactors
 sudo
 sugar
@@ -9659,7 +9597,6 @@ teradata
 termbin
 terminal
 terminal-interface
-terminal-services
 terminal.gui
 terminalnotifier
 terminalvelocity
@@ -9674,6 +9611,7 @@ tesla
 test
 test-automation
 test-dscconfiguration
+test-internetconnection
 test-modulepath
 test-osplatform
 test-psremoting
@@ -9685,6 +9623,7 @@ test123
 testaccount
 testautomation
 tester
+testimonial
 testing
 testlab
 testplans
@@ -9695,8 +9634,6 @@ testtag2
 testtool
 testusers
 text
-text-emoji
-text-emojis
 text-to-image
 text-to-speach"
 text-to-speech
@@ -9704,8 +9641,6 @@ text2image
 textanalysis
 textbuffer
 texting
-texting-emoji
-texting-emojis
 textprocessing
 textwrapping
 tfe
@@ -9758,8 +9693,6 @@ timesheet
 timesheets
 timespan
 timezone
-tinkerpop
-tinymce
 tip
 tips
 title
@@ -9838,9 +9771,7 @@ translit
 transliteration
 transmission
 transparency
-transpilation
 trap
-travel
 trec
 tree
 tree-structure
@@ -9873,7 +9804,6 @@ trusted
 trusted-host
 trustedhosts
 trustedrootcertificate
-truth
 trx
 ts
 tsa
@@ -9905,7 +9835,6 @@ twitter-api-v2
 twitter-client
 twitter-follow
 twitter-hashtag
-twitter-mention
 twitter-share
 twitter-timeline
 twitter-tweet
@@ -9975,6 +9904,7 @@ ud-timeline
 ud-timeout
 ud-tool
 ud-toploader
+ud-trendline
 ud-typing
 ud-window
 ud-wordtree
@@ -9984,7 +9914,6 @@ udp
 udpclient
 udptest
 udr
-udthememode
 udword
 uefi
 uem
@@ -10005,8 +9934,6 @@ unblock
 unc
 underlined-text
 unicode
-unicode-emoji
-unicode-emojis
 unidesk
 unifi
 unified
@@ -10134,13 +10061,11 @@ vastlimits
 vault
 vaultextension
 vaultstore
-vaultwarden
 vb365
 vba
 vbaproject
 vbproj
 vbr
-vbscript
 vbsinst
 vc
 vccmdlets
@@ -10235,7 +10160,6 @@ vmgroup
 vmhost
 vmhostgroup
 vmhostnetworkadapater
-vmmanagement
 vmnic
 vmrole
 vmss
@@ -10447,13 +10371,10 @@ windows explorer
 windows_events
 windows-10
 windows-api
-windows-control-panel
-windows-defender
 windows-defender-application-control
 windows-environment
 windows-explorer
 windows-features
-windows-firewall
 windows-path
 windows-powershell
 windows-registry
