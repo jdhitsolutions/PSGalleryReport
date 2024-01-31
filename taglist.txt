@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Wednesday, 31 January 2024 02:02:14 UTC
+Updated: Wednesday, 31 January 2024 09:52:59 UTC
 
 .bat
 .env
@@ -36,10 +36,8 @@ Updated: Wednesday, 31 January 2024 02:02:14 UTC
 2016
 2018
 2019
-21vianet
 24-bit
 2fa
-300
 365
 36867
 3d
@@ -88,8 +86,6 @@ accessgovernancecp
 accesspoint
 accessrights
 accesstoken
-accord
-accord.net
 accordian
 account
 accounting
@@ -235,7 +231,6 @@ aftereffects
 agenda
 agent
 aggregates
-aggregation
 agile
 agility
 agm
@@ -270,6 +265,7 @@ alero
 alert
 alerting
 alertmail
+alertmanagement
 alerts
 alertsmanagement
 alfresco
@@ -335,7 +331,6 @@ annotated
 announcement
 announcementsservice
 anonymous
-anova
 ansi
 ansible
 ansible-control-node
@@ -350,6 +345,7 @@ anywhere
 aovpn psmodule
 apache
 apachekafka
+apexlegends
 apexone
 api
 api-client
@@ -373,7 +369,6 @@ app
 app-control-for-business
 app-only
 app-v
-app-volumes
 app.config
 appattach
 appclusive
@@ -409,7 +404,6 @@ appsetting
 appv
 appventix
 appveyor
-appvolumes
 appx
 appxmanifest
 aprs
@@ -530,6 +524,7 @@ audits
 aumid
 aut
 auth
+auth0
 authenticate
 authentication
 authenticationcertificate
@@ -731,6 +726,7 @@ bank
 banking
 banner
 bar
+barcodes
 baremetal
 base
 base16
@@ -787,7 +783,6 @@ bibtex
 bicep
 bicepnet
 big-ip
-big-iq
 bigcommerce
 bigeval
 bigfix
@@ -806,7 +801,6 @@ bindings
 bing
 bingmap
 bingmaps
-binomial
 bios
 bios_settings
 bios-settings
@@ -843,13 +837,10 @@ blockchain
 blocks
 blog
 blogs
-bloxone
-bloxoneddi
 bls
 blue
 bluedolhin
 blueprint
-blueprints
 blueteam
 bluetraitio
 bluetuxedo
@@ -1092,7 +1083,6 @@ chenxizhang
 cherrypy
 cherwell
 chfs
-chi
 china
 chmod
 choco
@@ -1286,7 +1276,6 @@ color-hex
 color-rgb
 color-show
 colored
-colorful
 colorized
 colorpicker
 colors
@@ -1353,7 +1342,6 @@ computername
 computers
 computersite
 concur
-concurrency
 concurrent
 conda
 condition
@@ -1477,7 +1465,6 @@ coreposh
 coreutils
 corona
 cortex
-cos
 cosmos
 cosmosdb
 cost
@@ -1776,6 +1763,7 @@ deepvisibility
 def
 default
 defaultparameter
+defaultroutes
 defaults
 defence
 defender
@@ -1790,7 +1778,6 @@ delegated
 delegationmodel
 delete
 delete-orphan-branches
-deleteuserprofile
 delivery
 dell
 dellemc
@@ -1837,7 +1824,6 @@ developermode
 development
 devenv
 devexpress
-deviation
 device
 devicecode
 deviceid
@@ -2076,7 +2062,6 @@ dsacls
 dsc
 dsc-resource
 dsc-resources
-dsccertificates
 dscconcepts
 dscdriftmonitor
 dsclient
@@ -2164,10 +2149,10 @@ editorservices
 edr
 education
 educational
+effectiveroutes
 efficientether
 efi
 egrep
-eid
 eigencontroles
 einstein
 eklient psedition_core psedition_desktop
@@ -2356,7 +2341,6 @@ exchange2010
 exchange2013
 exchange2016
 exchangecluster
-exchangehybrid
 exchangemigration
 exchangeon-premise
 exchangeon-premises
@@ -2382,7 +2366,6 @@ exitprocessrequest
 exo
 exov2
 exov3
-exp
 expand
 expand-string
 expand-tab
@@ -2427,7 +2410,6 @@ extraction
 extractor
 extreme-networks
 eztheme
-f
 f#
 f5
 fabric
@@ -2435,6 +2417,7 @@ fabtools
 facebook
 factoryorchestrator
 factoryorchestratorclient
+facts
 faf
 failedlogin
 failure
@@ -2564,12 +2547,13 @@ firewall-management
 firewallrule
 firmware
 first
-fisher
 fissionproducts
 fitbit
 fits
 five
 five9
+fix-log
+fix-protocol
 fixlet
 fixpack
 flac
@@ -2811,7 +2795,6 @@ gitcmdline
 gitdesktop
 gitea
 gitflow
-gitforwindows
 github
 github-actions
 githubactions
@@ -3041,10 +3024,11 @@ hierarchical
 hierarchy
 high-availability
 highlight
-highlighting
+highrise
 hint
 hipaa
 hipb
+hipchat
 hiragana
 histogram
 history
@@ -3060,6 +3044,7 @@ hkey_current_user
 hkey_local_machine
 hkey_users
 hklm
+hl7
 hlds
 hls
 hockey
@@ -3071,7 +3056,6 @@ homebrew
 homelandsecurity
 homeschooling
 hon
-hooking
 horizon
 horizontal
 hornbill
@@ -3094,7 +3078,6 @@ hpc
 hpcc
 hpccache
 hpe
-hpealletra6000andnimblestoragepowershelltoolkit
 hpebioscmdlets
 hpeilocmdlets
 hpemigrationadvisorycmdlets
@@ -3146,7 +3129,6 @@ hyperthreading
 hyperv
 hypervisor
 hypervplugins
-hypothesis
 hysolate
 hysolatemangementconsole
 i-doit
@@ -3433,7 +3415,6 @@ isvalidip
 it
 it-support
 it-tool
-it-tools
 italic-text
 item
 itemlist
@@ -3562,6 +3543,7 @@ keymapping
 keypair
 keysms
 keyvault
+keywords
 kibana
 kickstart
 kidrsa
@@ -3700,7 +3682,6 @@ limits
 lina
 line
 line-endings
-linear
 linearalgebra
 lingeringobjects
 link
@@ -3799,8 +3780,6 @@ login-rdp
 logingestion
 loginscreen
 loginsight
-logiphys
-logistic
 logitech
 logmail
 logmails
@@ -3927,6 +3906,7 @@ marketing
 marketo
 marketplace
 marketplaceordering
+marketplacepublisher
 marking
 marklogic
 marquee
@@ -3967,6 +3947,7 @@ mccs
 mcd
 mchapv2
 mct
+md5
 md5_v2-bec382e58a89ea94878fb65fed42770c
 mdatp
 mdb
@@ -3979,7 +3960,6 @@ mdop
 mdt
 mdx
 me4024
-mean
 measure
 measure-loc
 measure-process
@@ -4096,6 +4076,7 @@ mimekit
 min
 mindmeister
 minecraft
+miniconda
 minifier
 minimal
 minimum
@@ -4103,7 +4084,6 @@ mip
 mipsdk
 miration-step
 mirror
-miscellaneous
 mitigation
 mitre
 mitre_att&ck
@@ -4112,6 +4092,7 @@ mittelschule
 mixedreality
 mixer
 mkdocs
+mkpasswd
 ml
 ml.net
 mlflow
@@ -4268,6 +4249,7 @@ myip
 myitprocess
 myjson
 myjson.com
+myob
 myposh
 mypstag
 mysql
@@ -4275,11 +4257,12 @@ mysql-database
 mytest
 n-able
 n-central
+nabu
 nac
 nagios
 name
 name-of-dogs
-nameit
+namedpipe
 nameresolution
 names
 namespace
@@ -4419,7 +4402,6 @@ noninteractive
 noproxy
 nord
 nordtools
-normal
 norskale
 norway
 norwegian
@@ -4501,7 +4483,6 @@ objectstorage
 objecttree
 obs
 observeit
-oce
 ocg
 ocgv
 oci
@@ -4634,6 +4615,7 @@ optics
 optimization
 optimizer
 option
+option119
 options
 optionstring
 opus
@@ -4676,7 +4658,6 @@ osr
 oss
 ossec
 osubbillingschedule
-osuborganizationsubscription
 osubsubscription
 osubusage
 osx
@@ -4735,6 +4716,7 @@ pagerduty
 pages
 paloaltonetworks
 pam
+panels
 pansies
 panther
 panzerbjrn
@@ -4743,7 +4725,6 @@ paper
 papis
 paradox
 parallel
-parallel-processing
 parameter
 parameterinfo
 parameters
@@ -4765,6 +4746,7 @@ passcode
 passivetotal
 passphrase
 passphraser passphrase password generator entropy
+passwd
 password
 password_generation
 password-generator
@@ -4810,6 +4792,10 @@ pcsetup
 pcsv
 pdb
 pdf
+pdf-document-processor
+pdf-files
+pdf-generation
+pdf-redaction
 pe
 peek
 peering
@@ -4856,7 +4842,6 @@ photograph
 photos
 php
 phpapam
-pi
 picker
 pico
 picture
@@ -4967,7 +4952,6 @@ posh-ribbon
 posh-ssh
 poshbot
 poshcommence
-poshevents
 poshgraph
 poshgraph-sdk
 poshgrouppolicy
@@ -5039,10 +5023,11 @@ postgre
 postgres
 postgresql
 potato
-pow
 powdrgit
 power
+power-apps
 power-cbr
+power-platform
 power-shell
 powerapps
 powerappsportal
@@ -5130,6 +5115,7 @@ pranks
 predicate
 prediction
 predictive
+predictive-text
 predictor
 preferences
 prefix
@@ -5221,7 +5207,6 @@ protect-blob
 protect-string
 protection
 protocol
-protocols
 provance
 proverb
 provider
@@ -8293,6 +8278,7 @@ qol
 qq
 qr
 qrcode
+qrcodes
 qrp
 qrs
 quality
@@ -8305,7 +8291,6 @@ query
 queryexcel
 queue
 queues
-queuing
 quickaccess
 quickbase
 quickbooks
@@ -8393,7 +8378,6 @@ reckon
 recommendation
 reconcile
 reconnaissance
-record
 recording
 recovery
 recoveryservices
@@ -8455,7 +8439,6 @@ registered
 registrar
 registration
 registry
-regression
 regular-expression
 regularexpression
 regularexpressions
@@ -8566,8 +8549,8 @@ restore
 resume
 retail
 retention
+retro
 retry
-returnuserprofile
 retype
 reuse
 reverse-engineer
@@ -8637,7 +8620,6 @@ routeconfig
 router
 routes
 routetable
-routine
 rover
 royalapps
 royaldocument
@@ -8714,7 +8696,6 @@ saml2
 sample
 sampler
 san
-sand
 sandbox
 sanitization
 sanitizer
@@ -8826,6 +8807,7 @@ sdn
 sdp
 search
 search-adminauditlog
+search-engines
 searchengine
 searcher
 searching
@@ -8833,6 +8815,7 @@ searchmanager
 searchplace
 searchquery
 searchstring
+searchsuffixlist
 secaas
 secedit
 secret
@@ -8943,6 +8926,7 @@ servicecatalog
 serviceconnectionpoint
 servicecontrol
 servicedesk
+servicedeskplus
 serviceendpoints
 servicefabric
 servicelinker
@@ -8989,7 +8973,13 @@ sftp
 sfx
 sgopher
 sgw
+sha-256
+sha-512
+sha-crypt
 sha256
+sha256crypt
+sha512crypt
+shacrypt
 shadow
 shadowcopy
 shadowcopybackups
@@ -9058,7 +9048,6 @@ simplepassword
 simplepasswordgenerator
 simplivity
 simplysql
-sin
 single
 singlestore
 singleton
@@ -9080,6 +9069,7 @@ sitesystemserver
 sitethumbprint
 size
 skatterbrainz
+skeleton-loader
 skia
 skiasharp
 skolnilogin
@@ -9141,7 +9131,6 @@ sni
 snipe-it
 snippet
 snippets
-snippets-manager
 snippit
 snmp
 snmpget
@@ -9191,7 +9180,6 @@ soonr
 soonragent
 sophos
 sort
-sorting
 source
 source-dedicated-server
 sourcecontrol
@@ -9293,9 +9281,7 @@ sqlserverbynarypsmodule
 sqlservermodule
 sqlvirtualmachine
 sqr
-sqrt
 square
-squire
 srcds
 srcsrv
 srm
@@ -9316,7 +9302,6 @@ sslcertificate
 sslflags
 ssllabs
 ssllabs-scan
-sslprotocol
 ssm
 sso
 sspi
@@ -9331,12 +9316,10 @@ stackhci
 stackmonitoring
 stackoverflow
 staffhub
-staging
 stale
 stan
 stanc
 standalone
-standard
 standarderror
 standardoutput
 stansummary
@@ -9355,7 +9338,6 @@ state
 static
 staticanalysis
 statichtmlsites
-statistical
 statistics
 stats
 statsd
@@ -9395,6 +9377,7 @@ storagesync
 store
 storedcredentials
 storefront
+storeonce
 storeserv
 strava
 streak
@@ -9458,7 +9441,6 @@ superheros
 supermarket
 support
 support-tool
-support-tools
 suppress
 supress-reboot
 surestacks
@@ -9499,13 +9481,11 @@ syndication
 synergy
 syntax
 syntax-highlighting
-syntaxcheck
 syntaxhighlighter
 synthesis
 synthetics
 sysadmin
 sysadmin-tool
-sysadmin-tools
 sysctr
 sysinfo
 sysinfocmdlets
@@ -9537,7 +9517,6 @@ systemlocale
 systems
 systemsplash
 systray
-t
 t-sql
 tab
 tab-comletion
@@ -9653,6 +9632,7 @@ test-psremoting
 test-samcmapplicationexists
 test-samcmpackageexists
 test-userisadministrator
+test-xml
 test123
 testaccount
 testautomation
@@ -9710,7 +9690,6 @@ threads
 threadsanitizer
 threat
 threat-hunting
-threatdefense
 threathunting
 threatintelligence
 throttle
@@ -9740,7 +9719,6 @@ tls
 tls11
 tls12
 tlsa
-tlsprotocol
 tlsrpt
 tmux
 to-do
@@ -9876,7 +9854,6 @@ twitter
 twitter-api
 twitter-api-v2
 twitter-client
-twitter-follow
 twitter-hashtag
 twitter-mention
 twitter-share
@@ -9920,6 +9897,7 @@ ud-funnel
 ud-hero
 ud-illustration
 ud-input
+ud-licensed
 ud-loadingoverlay
 ud-minesweeper
 ud-mouseparticle
@@ -9957,6 +9935,7 @@ udp
 udpclient
 udptest
 udr
+udthememode
 udword
 uefi
 uem
@@ -10100,12 +10079,12 @@ vami
 vao
 variable
 variables
-variance
 variants
 vastlimits
 vault
 vaultextension
 vaultstore
+vaultwarden
 vb365
 vba
 vbaproject
@@ -10328,6 +10307,7 @@ weaviate
 weaviatenet
 web
 web-browser
+web-search
 web.config
 webadministration
 webapi
@@ -10430,8 +10410,6 @@ windows-registry
 windows-remoting
 windows-server-2016
 windows-terminal
-windows-user-folder
-windows-user-profile
 windows10
 windows10mui
 windows11
@@ -10636,6 +10614,7 @@ xml-rpc
 xml-transform
 xmla
 xmlrpc
+xmlutils
 xoauth2
 xor
 xpath
