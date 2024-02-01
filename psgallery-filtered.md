@@ -3,6 +3,78 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [PSResourceGet.Bootstrap](https://www.powershellgallery.com/Packages/PSResourceGet.Bootstrap/0.1.0) | 0.1.0
+
+### Published: 02/01/2024 17:47:56 by Viscalyx
+
+Simplify bootstrapping Microsoft.PowerShell.PSResourceGet on systems.
+
+__Downloads__: 0 | __Repository__: https://github.com/viscalyx/PSResourceGet.Bootstrap
+
+## [helium](https://www.powershellgallery.com/Packages/helium/1.1.8) | 1.1.8
+
+### Published: 02/01/2024 17:20:07 by David Stein
+
+Assorted Utilities to make your day happier than inhaling a party balloon.
+
+__Downloads__: 324 | __Repository__: https://github.com/Skatterbrainz/helium
+
+## [PSWeave](https://www.powershellgallery.com/Packages/PSWeave/0.1.1) | 0.1.1
+
+### Published: 02/01/2024 17:17:41 by Douglas Finke
+
+PowerShell module that innovates automation with AI to make you more productive
+
+__Downloads__: 2 | __Repository__: https://github.com/dfinke/PSWeave
+
+## [BCSPowershellModule](https://www.powershellgallery.com/Packages/BCSPowershellModule/1.0.149) | 1.0.149
+
+### Published: 02/01/2024 14:20:11 by Mathias Stjernfelt
+
+BrightCom Solutions AB powershell helper.
+
+__Downloads__: 36,165 | __Repository__: 
+
+## [ObjectGraphTools](https://www.powershellgallery.com/Packages/ObjectGraphTools/0.0.15) | 0.0.15
+
+### Published: 02/01/2024 14:18:14 by Ronald Bode (iRon)
+
+Object Graph Tools
+
+__Downloads__: 42 | __Repository__: https://github.com/iRon7/ObjectGraphTools
+
+## [DeployLibNorEvo](https://www.powershellgallery.com/Packages/DeployLibNorEvo/1.1.16) | 1.1.16
+
+### Published: 02/01/2024 13:20:30 by Mikael Karlsson
+
+Deploy functions library
+
+__Downloads__: 48 | __Repository__: 
+
+## [Transferetto](https://www.powershellgallery.com/Packages/Transferetto/0.0.19) | 0.0.19
+
+### Published: 02/01/2024 11:39:30 by Przemyslaw Klys
+
+Module which allows ftp, ftps, sftp file transfers with advanced features. It also allows to transfer files and directorires between servers using fxp protocol. As a side feature it allows to conenct to SSH and executes commands on it.
+
+__Downloads__: 384,167 | __Repository__: https://github.com/EvotecIT/Transferetto
+
+## [CmdFav](https://www.powershellgallery.com/Packages/CmdFav/1.0.0) | 1.0.0
+
+### Published: 02/01/2024 11:38:44 by Sascha Spiekermann
+
+Helper for storing and accessing favorite/commonly used commands/scriptblocks
+
+__Downloads__: 1 | __Repository__: https://github.com/Callidus2000/CmdFav/
+
+## [PSCiscoSMA](https://www.powershellgallery.com/Packages/PSCiscoSMA/1.0.2) | 1.0.2
+
+### Published: 02/01/2024 10:49:31 by Brice Crunchant
+
+Cisco SMA PS Module API Wrapper
+
+__Downloads__: 0 | __Repository__: https://github.com/brice-automatizit/PSCiscoSMA
+
 ## [PS3stepFunctions](https://www.powershellgallery.com/Packages/PS3stepFunctions/1.0.7) | 1.0.7
 
 ### Published: 02/01/2024 09:11:38 by rekan
@@ -26,14 +98,6 @@ __Downloads__: 32 | __Repository__:
 Functions to make things easier to remember, conversions and other helpful stuff! =)
 
 __Downloads__: 40 | __Repository__: 
-
-## [GitBranchRename](https://www.powershellgallery.com/Packages/GitBranchRename/1.1.0) | 1.1.0
-
-### Published: 02/01/2024 07:04:17 by Prateek Mahendrakar
-
-Renames a git branch locally and remotely.
-
-__Downloads__: 2 | __Repository__: 
 
 ## [Adsi](https://www.powershellgallery.com/Packages/Adsi/4.0.21) | 4.0.21
 
@@ -65,7 +129,7 @@ __Downloads__: 177 | __Repository__:
 
 Module for working with Access Control Lists
 
-__Downloads__: 533 | __Repository__: 
+__Downloads__: 531 | __Repository__: 
 
 ## [Universal](https://www.powershellgallery.com/Packages/Universal/4.2.12) | 4.2.12
 
@@ -113,7 +177,7 @@ __Downloads__: 2,734 | __Repository__: https://github.com/microsoft/VisualStudio
 
 Automate your Venafi TLS Protect Datacenter and Cloud platforms!
 
-__Downloads__: 9,387 | __Repository__: https://github.com/Venafi/VenafiPS
+__Downloads__: 9,388 | __Repository__: https://github.com/Venafi/VenafiPS
 
 ## [SvRooij.ContentPrep.Cmdlet](https://www.powershellgallery.com/Packages/SvRooij.ContentPrep.Cmdlet/0.1.4) | 0.1.4
 
@@ -147,14 +211,6 @@ PowerShell module to query the Logic Monitor API. This is a personal project and
 
 __Downloads__: 3,739 | __Repository__: https://github.com/stevevillardi/Logic.Monitor
 
-## [BCSPowershellModule](https://www.powershellgallery.com/Packages/BCSPowershellModule/1.0.148) | 1.0.148
-
-### Published: 01/31/2024 19:43:42 by Mathias Stjernfelt
-
-BrightCom Solutions AB powershell helper.
-
-__Downloads__: 36,165 | __Repository__: 
-
 ## [AutomateNOW](https://www.powershellgallery.com/Packages/AutomateNOW/1.0.11) | 1.0.11
 
 ### Published: 01/31/2024 18:17:37 by AutomateNOW-Fan
@@ -169,7 +225,7 @@ __Downloads__: 63 | __Repository__: https://github.com/AutomateNOW-Fan/AutomateN
 
 PowerShell module for handling AzureCLI command output more like a native PowerShell command.
 
-__Downloads__: 6,466 | __Repository__: https://github.com/smokedlinq/powershell-az
+__Downloads__: 6,472 | __Repository__: https://github.com/smokedlinq/powershell-az
 
 ## [Corvus.Deployment](https://www.powershellgallery.com/Packages/Corvus.Deployment/0.4.11) | 0.4.11
 
@@ -193,7 +249,7 @@ __Downloads__: 9,261 | __Repository__:
 
 Makes encrypting and decrypting strings and other security work easy.
 
-__Downloads__: 7,593 | __Repository__: https://github.com/webmd-health-services/Carbon.Cryptography
+__Downloads__: 7,592 | __Repository__: https://github.com/webmd-health-services/Carbon.Cryptography
 
 ## [PS.Utilities](https://www.powershellgallery.com/Packages/PS.Utilities/1.1) | 1.1
 
@@ -226,7 +282,7 @@ __Downloads__: 630 | __Repository__: https://github.com/pdflexer/pdflexer
 
 ZertoAVSModule
 
-__Downloads__: 985 | __Repository__: https://help.zerto.com/
+__Downloads__: 983 | __Repository__: https://help.zerto.com/
 
 ## [SdnDiagnostics](https://www.powershellgallery.com/Packages/SdnDiagnostics/4.2401.930.142803) | 4.2401.930.142803
 
@@ -234,15 +290,7 @@ __Downloads__: 985 | __Repository__: https://help.zerto.com/
 
 SdnDiagnostics is a tool used to simplify the data collection and diagnostics of Windows Software Defined Networking.
 
-__Downloads__: 34,245 | __Repository__: https://github.com/microsoft/SdnDiagnostics
-
-## [DeployLibNorEvo](https://www.powershellgallery.com/Packages/DeployLibNorEvo/1.1.14) | 1.1.14
-
-### Published: 01/31/2024 14:12:56 by Mikael Karlsson
-
-Deploy functions library
-
-__Downloads__: 48 | __Repository__: 
+__Downloads__: 34,244 | __Repository__: https://github.com/microsoft/SdnDiagnostics
 
 ## [HttpUnitPS](https://www.powershellgallery.com/Packages/HttpUnitPS/0.6.0.1) | 0.6.0.1
 
@@ -252,22 +300,6 @@ A PowerShell port of httpunit.
 
 __Downloads__: 61 | __Repository__: https://github.com/cdhunt/httpunitPS
 
-## [ObjectGraphTools](https://www.powershellgallery.com/Packages/ObjectGraphTools/0.0.14) | 0.0.14
-
-### Published: 01/31/2024 14:03:52 by Ronald Bode (iRon)
-
-Object Graph Tools
-
-__Downloads__: 42 | __Repository__: https://github.com/iRon7/ObjectGraphTools
-
-## [PSWeave](https://www.powershellgallery.com/Packages/PSWeave/0.1.0) | 0.1.0
-
-### Published: 01/31/2024 12:46:18 by Douglas Finke
-
-PowerShell module that innovates automation with AI to make you more productive
-
-__Downloads__: 2 | __Repository__: https://github.com/dfinke/PSWeave
-
 ## [FS255.BitWarden](https://www.powershellgallery.com/Packages/FS255.BitWarden/0.0.1.2) | 0.0.1.2
 
 ### Published: 01/31/2024 12:41:50 by FelixScholz
@@ -276,21 +308,13 @@ Common.BitWarden Module
 
 __Downloads__: 9 | __Repository__: https://git.fs255.org/Scripts/bitwarden
 
-## [PSAzureFunctions](https://www.powershellgallery.com/Packages/PSAzureFunctions/1.1.7) | 1.1.7
-
-### Published: 01/31/2024 12:40:39 by rekan
-
-Connect to Azure Graph API with either Secret or Certificate and manage its resources.
-
-__Downloads__: 41 | __Repository__: 
-
 ## [SqlChangeAutomation](https://www.powershellgallery.com/Packages/SqlChangeAutomation/4.6.24030.3052) | 4.6.24030.3052
 
 ### Published: 01/31/2024 11:42:41 by Red Gate Software Ltd.
 
 Automation tools for production quality database deployment
 
-__Downloads__: 5,031,815 | __Repository__: https://www.red-gate.com/sca/productpage
+__Downloads__: 5,031,842 | __Repository__: https://www.red-gate.com/sca/productpage
 
 ## [GraphEssentials](https://www.powershellgallery.com/Packages/GraphEssentials/0.0.35) | 0.0.35
 
@@ -322,7 +346,7 @@ __Downloads__: 113 | __Repository__:
 
 This PowerShell module facilitates working with Tableau REST API for automation tasks. Most functions are implemented as wrappers for the corresponding API calls.
 
-__Downloads__: 18 | __Repository__: https://github.com/asluzh/PSTableauREST
+__Downloads__: 19 | __Repository__: https://github.com/asluzh/PSTableauREST
 
 ## [AdminToolbox](https://www.powershellgallery.com/Packages/AdminToolbox/11.0.138) | 11.0.138
 
@@ -330,7 +354,7 @@ __Downloads__: 18 | __Repository__: https://github.com/asluzh/PSTableauREST
 
 Master module for a collection of modules. These modules are varied in their tasks. The overall purpose of them being to provide a powerfull Toolset to improve IT Admin workflows.
 
-__Downloads__: 35,496 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox
+__Downloads__: 35,497 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox
 
 ## [AdminToolbox.FortiWizard](https://www.powershellgallery.com/Packages/AdminToolbox.FortiWizard/2.18.36) | 2.18.36
 
@@ -338,7 +362,7 @@ __Downloads__: 35,496 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions that generate configuration scripts and manage FortiOS.
 
-__Downloads__: 14,870 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 14,868 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.VMWareAutomate](https://www.powershellgallery.com/Packages/AdminToolbox.VMWareAutomate/4.8.127) | 4.8.127
 
@@ -346,7 +370,7 @@ __Downloads__: 14,870 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions to Automate Bulk VMWare Tasks
 
-__Downloads__: 21,779 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 21,776 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.Remoting](https://www.powershellgallery.com/Packages/AdminToolbox.Remoting/1.9.130) | 1.9.130
 
@@ -354,7 +378,7 @@ __Downloads__: 21,779 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions for remote management and access.
 
-__Downloads__: 21,601 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 21,598 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.Office365](https://www.powershellgallery.com/Packages/AdminToolbox.Office365/3.1.80) | 3.1.80
 
@@ -362,7 +386,7 @@ __Downloads__: 21,601 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions for working with Office365 and Azure modules
 
-__Downloads__: 23,315 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 23,314 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.Networking](https://www.powershellgallery.com/Packages/AdminToolbox.Networking/2.18.38) | 2.18.38
 
@@ -370,7 +394,7 @@ __Downloads__: 23,315 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Network Troubleshooting Functions
 
-__Downloads__: 54,980 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 54,979 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.MSGraph](https://www.powershellgallery.com/Packages/AdminToolbox.MSGraph/1.2.130) | 1.2.130
 
@@ -386,7 +410,7 @@ __Downloads__: 11,760 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions that have no purpose
 
-__Downloads__: 21,958 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 21,955 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.FileManagement](https://www.powershellgallery.com/Packages/AdminToolbox.FileManagement/1.16.122) | 1.16.122
 
@@ -394,7 +418,7 @@ __Downloads__: 21,958 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 File Management Functions
 
-__Downloads__: 22,523 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 22,520 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.FFTools](https://www.powershellgallery.com/Packages/AdminToolbox.FFTools/4.16.80) | 4.16.80
 
@@ -402,7 +426,7 @@ __Downloads__: 22,523 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Expedite simple ffmpeg actions
 
-__Downloads__: 22,413 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 22,410 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.Exchange](https://www.powershellgallery.com/Packages/AdminToolbox.Exchange/1.9.131) | 1.9.131
 
@@ -410,7 +434,7 @@ __Downloads__: 22,413 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions for Exchange Management
 
-__Downloads__: 23,591 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 23,592 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.EndpointManagement](https://www.powershellgallery.com/Packages/AdminToolbox.EndpointManagement/4.10.7) | 4.10.7
 
@@ -418,7 +442,7 @@ __Downloads__: 23,591 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions for management of endpoints
 
-__Downloads__: 27,219 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 27,216 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.ActiveDirectory](https://www.powershellgallery.com/Packages/AdminToolbox.ActiveDirectory/1.9.128) | 1.9.128
 
@@ -426,7 +450,7 @@ __Downloads__: 27,219 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions for Active Directory
 
-__Downloads__: 26,868 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 26,865 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [ServerPrepTools](https://www.powershellgallery.com/Packages/ServerPrepTools/3.0) | 3.0
 
@@ -450,7 +474,7 @@ __Downloads__: 1,870 | __Repository__: https://github.com/deadlydog/PowerShell.t
 
 A Toolset for Implementing and Adopting a full ALM strategy for the Microsoft PowerPlatform.
 
-__Downloads__: 51,966 | __Repository__: https://github.com/dylanhaskins/Microsoft.PowerPlatform.DevOps.Documentation
+__Downloads__: 51,969 | __Repository__: https://github.com/dylanhaskins/Microsoft.PowerPlatform.DevOps.Documentation
 
 ## [PowerShellAIAssistant](https://www.powershellgallery.com/Packages/PowerShellAIAssistant/0.1.6) | 0.1.6
 
@@ -467,14 +491,6 @@ __Downloads__: 305 | __Repository__: https://github.com/dfinke/PowerShellAIAssis
 This module lets you interact with the APIs provided by the Sitecore Customer Engagement Console (CEC) for Sitecore Search.
 
 __Downloads__: 69 | __Repository__: https://www.github.com/jballe/SitecoreCecSearchModule
-
-## [celin.state](https://www.powershellgallery.com/Packages/celin.state/2.0.1) | 2.0.1
-
-### Published: 01/30/2024 21:59:25 by Finnur Bragason
-
-State Management
-
-__Downloads__: 41 | __Repository__: https://celin.io/celin.pwsh/
 
 ## [PoShLog.Sinks.Splunk](https://www.powershellgallery.com/Packages/PoShLog.Sinks.Splunk/1.0.4) | 1.0.4
 
@@ -1722,7 +1738,7 @@ __Downloads__: 125 | __Repository__: http://docs.swissmentor.com/docs/powershell
 
 NetApp.ONTAP PowerShell Toolkit. The ONTAP 9.14.1 PowerShell Toolkit provides end-to-end automation and enables more efficient and scalable administration of NetApp storage. This module contains over 2340 PowerShell cmdlets to help you automate ONTAP administration on FAS and AFF systems, commodity hardware, and the cloud. This toolkit also supports REST API with 9.10 and later version of ONTAP. The toolkit also provides cross-platform support for Windows, Ubuntu, Red Hat Enterprise Linux (RHEL), and macOS.
 
-__Downloads__: 38,274 | __Repository__: https://mysupport.netapp.com/site/tools/tool-eula/ontap-powershell-toolkit
+__Downloads__: 38,271 | __Repository__: https://mysupport.netapp.com/site/tools/tool-eula/ontap-powershell-toolkit
 
 ## [PSc8y](https://www.powershellgallery.com/Packages/PSc8y/2.39.2) | 2.39.2
 
@@ -1802,7 +1818,7 @@ __Downloads__: 61 | __Repository__:
 
 A module to help manage TeamViewer
 
-__Downloads__: 33,666 | __Repository__: 
+__Downloads__: 33,639 | __Repository__: 
 
 ## [NHLPS](https://www.powershellgallery.com/Packages/NHLPS/1.1) | 1.1
 
@@ -1858,7 +1874,7 @@ __Downloads__: 8 | __Repository__: https://github.com/ArmaanMcleod/PoshJsonWebTo
 
 TOML parser and writer for PowerShell
 
-__Downloads__: 5,197 | __Repository__: https://github.com/jborean93/PSToml
+__Downloads__: 5,200 | __Repository__: https://github.com/jborean93/PSToml
 
 ## [Posh-SSH](https://www.powershellgallery.com/Packages/Posh-SSH/3.1.3) | 3.1.3
 
@@ -1866,7 +1882,7 @@ __Downloads__: 5,197 | __Repository__: https://github.com/jborean93/PSToml
 
 Provide SSH and SCP functionality for executing commands against remote hosts.
 
-__Downloads__: 30,168,459 | __Repository__: https://github.com/darkoperator/Posh-SSH
+__Downloads__: 30,168,578 | __Repository__: https://github.com/darkoperator/Posh-SSH
 
 ## [Utilities](https://www.powershellgallery.com/Packages/Utilities/0.0.46) | 0.0.46
 
@@ -1956,7 +1972,7 @@ The WindowsPath type performs operations on string instances that contain valid 
 The module also provides two validation attributes ValidateWindowsPath and ValidateWindowsFileName.
 → To support this project, please visit and like: https://github.com/sangafabrice/windows-path-type
 
-__Downloads__: 2 | __Repository__: https://github.com/sangafabrice/windows-path-type
+__Downloads__: 3 | __Repository__: https://github.com/sangafabrice/windows-path-type
 
 ## [pocof](https://www.powershellgallery.com/Packages/pocof/0.9.0) | 0.9.0
 
@@ -1972,7 +1988,7 @@ __Downloads__: 85 | __Repository__: https://github.com/krymtkts/pocof/
 
 The test module to verify publishing to PSGallery from AppVeyor.
 
-__Downloads__: 40,249 | __Repository__: 
+__Downloads__: 40,250 | __Repository__: 
 
 ## [PublicIP](https://www.powershellgallery.com/Packages/PublicIP/0.1.0) | 0.1.0
 
@@ -2006,26 +2022,4 @@ A Helpful Toolkit for Managing PowerShell Help
 
 __Downloads__: 1,404 | __Repository__: https://github.com/StartAutomating/HelpOut
 
-## [MASES.KNetPS](https://www.powershellgallery.com/Packages/MASES.KNetPS/2.4.2) | 2.4.2
-
-### Published: 01/27/2024 18:36:34 by MASES s.r.l.
-
-KNet PowerShell command line interface is a PowerShell Module to use Apache Kafka and PowerShell side-by-side. With KNet PowerShell it is possible to:
-- execute all tools of Apache Kafka within a PowerShell shell: Administration tools, Console Consumer, Console Producer, manage Apache Kafka Streams, activate Apache Kafka Connect, server side (start Kafka and ZooKeeper), etc
-- create consumers and producers objects to interact with an Apache Kafka cluster
-- send data to and receive data from an Apache Kafka cluster
-- create a Kafka Admin Client object to manage an Apache Kafka cluster
-
-More information within the project hosted on GitHub. Further information at https://github.com/masesgroup/KNet.
-
-__Downloads__: 487 | __Repository__: https://github.com/masesgroup/KNet
-
-## [SimplePrtg](https://www.powershellgallery.com/Packages/SimplePrtg/1.0.13) | 1.0.13
-
-### Published: 01/27/2024 17:20:28 by Jeremy La Camera
-
-Use Paessler PRTG Network Monitor
-
-__Downloads__: 117 | __Repository__: 
-
-*Updated: Thursday, 01 February 2024 09:51:48 UTC*
+*Updated: Thursday, 01 February 2024 17:51:53 UTC*

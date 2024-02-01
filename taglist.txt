@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Thursday, 01 February 2024 09:51:55 UTC
+Updated: Thursday, 01 February 2024 17:52:00 UTC
 
 .bat
 .env
@@ -175,7 +175,6 @@ adfstoolkit
 adfstools
 adgroupmemberobjects
 adgroupmembers
-adgroups
 adidns
 adif
 adlds
@@ -209,7 +208,6 @@ adsi
 adsite
 adsp
 adsync
-aduser
 aduseraccountlockout
 adv180002
 adv180018
@@ -268,6 +266,7 @@ albums
 alc
 alero
 alert
+alerting
 alertmail
 alertmanagement
 alerts
@@ -442,7 +441,6 @@ arcresourcebridge
 arcus
 area
 arg
-argcomplete
 argument
 argumentcompleter
 arguments
@@ -885,10 +883,7 @@ box
 bpmn
 brainy
 branch
-branch-rename
 brave
-brawlapi
-brawlstars
 brazencloud
 bre
 breach
@@ -904,6 +899,7 @@ britannicaknowledgesystems
 british-gas
 brk4452
 broadcast
+broadcom
 broot
 brownserve-uk
 browser
@@ -920,6 +916,7 @@ budget
 bugbounty
 bugzilla
 build
+build-log
 build-scripts
 builddefinition
 builder
@@ -1108,7 +1105,6 @@ christmas
 chrome
 chromium
 chunk
-churchofjesuschrist
 ci
 ci/cd
 cic
@@ -1335,7 +1331,6 @@ completer
 completion
 completion-manager
 completionresult
-completions
 complex
 compliance
 compliant
@@ -1548,6 +1543,7 @@ crescendo
 crescendobuilt
 cresendo
 crestron
+crime
 crlf
 crm
 crm2016
@@ -2197,7 +2193,6 @@ email-address
 emailaddressupdate
 emailautomation
 emailmanagment
-emailnotification
 emailnotificationcomponent
 emailsecurity
 embedded
@@ -2459,6 +2454,7 @@ fastlinq
 fastlookup
 fastping
 fasttrack
+favorite
 favorites
 fb-pro
 fciv
@@ -2655,7 +2651,6 @@ freeipa
 freenas
 freesoftwarefoundation
 freshbooks
-freshdesk
 freshservice
 freshservice-api
 freshserviceps
@@ -2813,7 +2808,6 @@ git-clone
 git-flow
 git-lfs
 git-proxy
-git-rename
 git-stat
 gitcmdline
 gitdesktop
@@ -3497,6 +3491,7 @@ join
 join-object
 jojoba
 joke
+jotform
 journal
 joyride
 jpg
@@ -3701,6 +3696,8 @@ lifequotes
 lifestyle
 light
 lights
+lime
+limesurvey
 limit-job
 limits
 lina
@@ -3756,6 +3753,7 @@ localconfigurationmanager
 localdb
 locale
 localgroup
+localgroupmember
 localization
 localpolicy
 location
@@ -3770,6 +3768,7 @@ lockscreen
 locksmith
 lockstep
 lod
+lodasoft
 log
 log-administration
 log-file
@@ -3944,6 +3943,7 @@ marvellqlogicfcpowerkit
 mas
 mask
 mass
+masstransit
 masterconfiguration
 match
 matcharray
@@ -4493,7 +4493,6 @@ nxt
 nyse
 nzb
 o365
-o365mailnotification
 oa
 oacli
 oacmdlets
@@ -4781,7 +4780,6 @@ password_generation
 password-generator
 password-less
 password-manager
-passwordexpiration
 passwordexpiry
 passwordgeneration
 passwordgenerator
@@ -5011,7 +5009,6 @@ poshy-sshconfig
 poshy-viewer-finder
 poshy-wrap
 poshy-wrap-apt
-poshy-wrap-argcomplete
 poshy-wrap-brew
 poshy-wrap-curl
 poshy-wrap-dnf
@@ -5030,6 +5027,7 @@ poshy-wrap-kubectl
 poshy-wrap-maven
 poshy-wrap-nginx
 poshy-wrap-nmap
+poshy-wrap-npm
 poshy-wrap-pip
 poshy-wrap-pipenv
 poshy-wrap-pyenv
@@ -6264,6 +6262,24 @@ pscommand_invoke-mavenpackage
 pscommand_invoke-mavenreleaseperform
 pscommand_invoke-mavenreleaseprepare
 pscommand_invoke-mavenreleaserollback
+pscommand_invoke-npmbinmungedpath
+pscommand_invoke-npminfo
+pscommand_invoke-npminit
+pscommand_invoke-npminstallforcefully
+pscommand_invoke-npminstallglobally
+pscommand_invoke-npminstallsave
+pscommand_invoke-npminstallsavedev
+pscommand_invoke-npmlist
+pscommand_invoke-npmlistdepth0
+pscommand_invoke-npmoutdated
+pscommand_invoke-npmpublish
+pscommand_invoke-npmrun
+pscommand_invoke-npmrundev
+pscommand_invoke-npmsearch
+pscommand_invoke-npmstart
+pscommand_invoke-npmtest
+pscommand_invoke-npmupdate
+pscommand_invoke-npmversion
 pscommand_invoke-pipenvcheck
 pscommand_invoke-pipenvclean
 pscommand_invoke-pipenvgraph
@@ -6706,6 +6722,23 @@ pscommand_notify-send-fallback
 pscommand_npm-disable-proxy
 pscommand_npm-enable-proxy
 pscommand_npm-show-proxy
+pscommand_npmd
+pscommand_npme
+pscommand_npmf
+pscommand_npmg
+pscommand_npmi
+pscommand_npml
+pscommand_npml0
+pscommand_npmo
+pscommand_npmp
+pscommand_npmr
+pscommand_npmrd
+pscommand_npms
+pscommand_npmse
+pscommand_npmst
+pscommand_npmt
+pscommand_npmu
+pscommand_npmv
 pscommand_open_command
 pscommand_pch
 pscommand_pcl
@@ -6762,7 +6795,6 @@ pscommand_python
 pscommand_python3
 pscommand_rb
 pscommand_read-dotenv
-pscommand_register-argcompleteargumentcompleter
 pscommand_remove_gem
 pscommand_remove-dockercontainerall
 pscommand_remove-dockerunusedimage
@@ -7639,6 +7671,24 @@ psfunction_invoke-mavenpackage
 psfunction_invoke-mavenreleaseperform
 psfunction_invoke-mavenreleaseprepare
 psfunction_invoke-mavenreleaserollback
+psfunction_invoke-npmbinmungedpath
+psfunction_invoke-npminfo
+psfunction_invoke-npminit
+psfunction_invoke-npminstallforcefully
+psfunction_invoke-npminstallglobally
+psfunction_invoke-npminstallsave
+psfunction_invoke-npminstallsavedev
+psfunction_invoke-npmlist
+psfunction_invoke-npmlistdepth0
+psfunction_invoke-npmoutdated
+psfunction_invoke-npmpublish
+psfunction_invoke-npmrun
+psfunction_invoke-npmrundev
+psfunction_invoke-npmsearch
+psfunction_invoke-npmstart
+psfunction_invoke-npmtest
+psfunction_invoke-npmupdate
+psfunction_invoke-npmversion
 psfunction_invoke-pipenvcheck
 psfunction_invoke-pipenvclean
 psfunction_invoke-pipenvgraph
@@ -7959,7 +8009,6 @@ psfunction_push-gitstashentrywithmessage
 psfunction_pwshrc-show-proxy
 psfunction_pyserver
 psfunction_read-dotenv
-psfunction_register-argcompleteargumentcompleter
 psfunction_remove-dockercontainerall
 psfunction_remove-dockerunusedimage
 psfunction_remove-envpathitem
@@ -8264,6 +8313,7 @@ qrs
 quality
 qualys
 quandl
+quantum
 quarantine
 queries
 query
@@ -8442,6 +8492,7 @@ remote
 remote-browser
 remote-desktop
 remote'
+remoteadmin
 remotecert
 remoteconnection
 remoteconnectionsmanager
@@ -8454,6 +8505,7 @@ remotedesktopservices
 remotefiles
 remoteforensics
 remotehost
+remotelocalgroup
 remotelogoff
 remotemanagement
 remotesession
@@ -8469,9 +8521,6 @@ removetypeaccelerators
 remux
 ren-isac
 rename
-rename-git
-rename-git-branch
-rename-gitbranch
 repair-msauth
 reparsepoint
 repeat
@@ -8604,7 +8653,6 @@ routeconfig
 router
 routes
 routetable
-routine
 rover
 royalapps
 royaldocument
@@ -8808,6 +8856,7 @@ secret
 secretmanagement
 secretmanagementextension
 secrets
+secretsanta
 secretscanner
 secretserver
 secretsmanager
@@ -8904,6 +8953,7 @@ servermanagement
 servers
 service
 service-bus
+service-messages
 servicebus
 servicebusforwindowsserver
 servicecatalog
@@ -8968,7 +9018,6 @@ shadow
 shadowcopy
 shadowcopybackups
 shadowgroups
-shanghaitech
 shard
 share
 share-permission
@@ -9429,7 +9478,6 @@ suitecrm
 sullivan
 summary
 sumologic
-supercell
 superheros
 support
 support-tool
@@ -9438,6 +9486,7 @@ suppress
 supress-reboot
 surestacks
 surround
+survey
 surveymonkey
 sus
 sushi
@@ -9628,6 +9677,7 @@ test-samcmapplicationexists
 test-samcmpackageexists
 test-userisadministrator
 test-xml
+test123
 testaccount
 testautomation
 tester
@@ -10173,6 +10223,7 @@ visualstudioonline
 visualstudioteamservices
 vlan
 vlookup
+vlsm
 vm
 vmc
 vmelamed5
@@ -10634,7 +10685,6 @@ yahw
 yamaha
 yaml
 yandex
-yapg
 yarn
 yetanotherhelloworld
 yml
