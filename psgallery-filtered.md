@@ -3,6 +3,30 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [AzureBasicLoadBalancerUpgrade](https://www.powershellgallery.com/Packages/AzureBasicLoadBalancerUpgrade/2.4.5) | 2.4.5
+
+### Published: 02/01/2024 20:40:47 by FastTrack for Azure
+
+This module will migrate a Basic SKU load balancer connected to a Virtual Machine Scaleset or Virtual Machines to a Standard SKU load balancer, preserving the existing configuration and functionality.
+
+__Downloads__: 1,547 | __Repository__: https://github.com/Azure/AzLoadBalancerMigration
+
+## [BCSPowershellModule](https://www.powershellgallery.com/Packages/BCSPowershellModule/1.0.150) | 1.0.150
+
+### Published: 02/01/2024 20:34:18 by Mathias Stjernfelt
+
+BrightCom Solutions AB powershell helper.
+
+__Downloads__: 36,165 | __Repository__: 
+
+## [MonitorConfig](https://www.powershellgallery.com/Packages/MonitorConfig/1.0.3) | 1.0.3
+
+### Published: 02/01/2024 18:22:12 by MartinGC94
+
+Manage brightness and other monitor settings with DDC/CI and WMI.
+
+__Downloads__: 27 | __Repository__: https://github.com/MartinGC94/MonitorConfig
+
 ## [PSResourceGet.Bootstrap](https://www.powershellgallery.com/Packages/PSResourceGet.Bootstrap/0.1.0) | 0.1.0
 
 ### Published: 02/01/2024 17:47:56 by Viscalyx
@@ -26,14 +50,6 @@ __Downloads__: 324 | __Repository__: https://github.com/Skatterbrainz/helium
 PowerShell module that innovates automation with AI to make you more productive
 
 __Downloads__: 2 | __Repository__: https://github.com/dfinke/PSWeave
-
-## [BCSPowershellModule](https://www.powershellgallery.com/Packages/BCSPowershellModule/1.0.149) | 1.0.149
-
-### Published: 02/01/2024 14:20:11 by Mathias Stjernfelt
-
-BrightCom Solutions AB powershell helper.
-
-__Downloads__: 36,165 | __Repository__: 
 
 ## [ObjectGraphTools](https://www.powershellgallery.com/Packages/ObjectGraphTools/0.0.15) | 0.0.15
 
@@ -82,14 +98,6 @@ __Downloads__: 0 | __Repository__: https://github.com/brice-automatizit/PSCiscoS
 Connect to 3step API with Token and retrieve its resources.
 
 __Downloads__: 17 | __Repository__: 
-
-## [PSTopdeskFunctions](https://www.powershellgallery.com/Packages/PSTopdeskFunctions/1.3.3) | 1.3.3
-
-### Published: 02/01/2024 09:07:11 by rekan
-
-Connect to Topdesk API with Username and Secret and managed its resources.
-
-__Downloads__: 32 | __Repository__: 
 
 ## [PSHelpFunctions](https://www.powershellgallery.com/Packages/PSHelpFunctions/1.0.8) | 1.0.8
 
@@ -249,7 +257,7 @@ __Downloads__: 9,261 | __Repository__:
 
 Makes encrypting and decrypting strings and other security work easy.
 
-__Downloads__: 7,592 | __Repository__: https://github.com/webmd-health-services/Carbon.Cryptography
+__Downloads__: 7,593 | __Repository__: https://github.com/webmd-health-services/Carbon.Cryptography
 
 ## [PS.Utilities](https://www.powershellgallery.com/Packages/PS.Utilities/1.1) | 1.1
 
@@ -282,7 +290,7 @@ __Downloads__: 630 | __Repository__: https://github.com/pdflexer/pdflexer
 
 ZertoAVSModule
 
-__Downloads__: 983 | __Repository__: https://help.zerto.com/
+__Downloads__: 985 | __Repository__: https://help.zerto.com/
 
 ## [SdnDiagnostics](https://www.powershellgallery.com/Packages/SdnDiagnostics/4.2401.930.142803) | 4.2401.930.142803
 
@@ -290,7 +298,7 @@ __Downloads__: 983 | __Repository__: https://help.zerto.com/
 
 SdnDiagnostics is a tool used to simplify the data collection and diagnostics of Windows Software Defined Networking.
 
-__Downloads__: 34,244 | __Repository__: https://github.com/microsoft/SdnDiagnostics
+__Downloads__: 34,245 | __Repository__: https://github.com/microsoft/SdnDiagnostics
 
 ## [HttpUnitPS](https://www.powershellgallery.com/Packages/HttpUnitPS/0.6.0.1) | 0.6.0.1
 
@@ -308,13 +316,21 @@ Common.BitWarden Module
 
 __Downloads__: 9 | __Repository__: https://git.fs255.org/Scripts/bitwarden
 
+## [PSAzureFunctions](https://www.powershellgallery.com/Packages/PSAzureFunctions/1.1.7) | 1.1.7
+
+### Published: 01/31/2024 12:40:39 by rekan
+
+Connect to Azure Graph API with either Secret or Certificate and manage its resources.
+
+__Downloads__: 41 | __Repository__: 
+
 ## [SqlChangeAutomation](https://www.powershellgallery.com/Packages/SqlChangeAutomation/4.6.24030.3052) | 4.6.24030.3052
 
 ### Published: 01/31/2024 11:42:41 by Red Gate Software Ltd.
 
 Automation tools for production quality database deployment
 
-__Downloads__: 5,031,842 | __Repository__: https://www.red-gate.com/sca/productpage
+__Downloads__: 5,031,823 | __Repository__: https://www.red-gate.com/sca/productpage
 
 ## [GraphEssentials](https://www.powershellgallery.com/Packages/GraphEssentials/0.0.35) | 0.0.35
 
@@ -354,7 +370,7 @@ __Downloads__: 19 | __Repository__: https://github.com/asluzh/PSTableauREST
 
 Master module for a collection of modules. These modules are varied in their tasks. The overall purpose of them being to provide a powerfull Toolset to improve IT Admin workflows.
 
-__Downloads__: 35,497 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox
+__Downloads__: 35,495 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox
 
 ## [AdminToolbox.FortiWizard](https://www.powershellgallery.com/Packages/AdminToolbox.FortiWizard/2.18.36) | 2.18.36
 
@@ -362,7 +378,7 @@ __Downloads__: 35,497 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions that generate configuration scripts and manage FortiOS.
 
-__Downloads__: 14,868 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 14,871 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.VMWareAutomate](https://www.powershellgallery.com/Packages/AdminToolbox.VMWareAutomate/4.8.127) | 4.8.127
 
@@ -370,7 +386,7 @@ __Downloads__: 14,868 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions to Automate Bulk VMWare Tasks
 
-__Downloads__: 21,776 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 21,777 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.Remoting](https://www.powershellgallery.com/Packages/AdminToolbox.Remoting/1.9.130) | 1.9.130
 
@@ -378,7 +394,7 @@ __Downloads__: 21,776 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions for remote management and access.
 
-__Downloads__: 21,598 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 21,599 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.Office365](https://www.powershellgallery.com/Packages/AdminToolbox.Office365/3.1.80) | 3.1.80
 
@@ -386,7 +402,7 @@ __Downloads__: 21,598 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions for working with Office365 and Azure modules
 
-__Downloads__: 23,314 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 23,313 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.Networking](https://www.powershellgallery.com/Packages/AdminToolbox.Networking/2.18.38) | 2.18.38
 
@@ -394,7 +410,7 @@ __Downloads__: 23,314 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Network Troubleshooting Functions
 
-__Downloads__: 54,979 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 54,980 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.MSGraph](https://www.powershellgallery.com/Packages/AdminToolbox.MSGraph/1.2.130) | 1.2.130
 
@@ -410,7 +426,7 @@ __Downloads__: 11,760 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions that have no purpose
 
-__Downloads__: 21,955 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 21,956 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.FileManagement](https://www.powershellgallery.com/Packages/AdminToolbox.FileManagement/1.16.122) | 1.16.122
 
@@ -418,7 +434,7 @@ __Downloads__: 21,955 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 File Management Functions
 
-__Downloads__: 22,520 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 22,521 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.FFTools](https://www.powershellgallery.com/Packages/AdminToolbox.FFTools/4.16.80) | 4.16.80
 
@@ -426,7 +442,7 @@ __Downloads__: 22,520 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Expedite simple ffmpeg actions
 
-__Downloads__: 22,410 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 22,411 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.Exchange](https://www.powershellgallery.com/Packages/AdminToolbox.Exchange/1.9.131) | 1.9.131
 
@@ -434,7 +450,7 @@ __Downloads__: 22,410 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions for Exchange Management
 
-__Downloads__: 23,592 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 23,590 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.EndpointManagement](https://www.powershellgallery.com/Packages/AdminToolbox.EndpointManagement/4.10.7) | 4.10.7
 
@@ -474,7 +490,7 @@ __Downloads__: 1,870 | __Repository__: https://github.com/deadlydog/PowerShell.t
 
 A Toolset for Implementing and Adopting a full ALM strategy for the Microsoft PowerPlatform.
 
-__Downloads__: 51,969 | __Repository__: https://github.com/dylanhaskins/Microsoft.PowerPlatform.DevOps.Documentation
+__Downloads__: 51,966 | __Repository__: https://github.com/dylanhaskins/Microsoft.PowerPlatform.DevOps.Documentation
 
 ## [PowerShellAIAssistant](https://www.powershellgallery.com/Packages/PowerShellAIAssistant/0.1.6) | 0.1.6
 
@@ -491,6 +507,14 @@ __Downloads__: 305 | __Repository__: https://github.com/dfinke/PowerShellAIAssis
 This module lets you interact with the APIs provided by the Sitecore Customer Engagement Console (CEC) for Sitecore Search.
 
 __Downloads__: 69 | __Repository__: https://www.github.com/jballe/SitecoreCecSearchModule
+
+## [celin.state](https://www.powershellgallery.com/Packages/celin.state/2.0.1) | 2.0.1
+
+### Published: 01/30/2024 21:59:25 by Finnur Bragason
+
+State Management
+
+__Downloads__: 41 | __Repository__: https://celin.io/celin.pwsh/
 
 ## [PoShLog.Sinks.Splunk](https://www.powershellgallery.com/Packages/PoShLog.Sinks.Splunk/1.0.4) | 1.0.4
 
@@ -1818,7 +1842,7 @@ __Downloads__: 61 | __Repository__:
 
 A module to help manage TeamViewer
 
-__Downloads__: 33,639 | __Repository__: 
+__Downloads__: 33,681 | __Repository__: 
 
 ## [NHLPS](https://www.powershellgallery.com/Packages/NHLPS/1.1) | 1.1
 
@@ -1882,7 +1906,7 @@ __Downloads__: 5,200 | __Repository__: https://github.com/jborean93/PSToml
 
 Provide SSH and SCP functionality for executing commands against remote hosts.
 
-__Downloads__: 30,168,578 | __Repository__: https://github.com/darkoperator/Posh-SSH
+__Downloads__: 30,168,276 | __Repository__: https://github.com/darkoperator/Posh-SSH
 
 ## [Utilities](https://www.powershellgallery.com/Packages/Utilities/0.0.46) | 0.0.46
 
@@ -1988,7 +2012,7 @@ __Downloads__: 85 | __Repository__: https://github.com/krymtkts/pocof/
 
 The test module to verify publishing to PSGallery from AppVeyor.
 
-__Downloads__: 40,250 | __Repository__: 
+__Downloads__: 40,249 | __Repository__: 
 
 ## [PublicIP](https://www.powershellgallery.com/Packages/PublicIP/0.1.0) | 0.1.0
 
@@ -1998,28 +2022,4 @@ PowerShell Module for Public IP
 
 __Downloads__: 136 | __Repository__: https://github.com/PSModule/PublicIP
 
-## [PATH](https://www.powershellgallery.com/Packages/PATH/0.1.0) | 0.1.0
-
-### Published: 01/28/2024 01:33:38 by PSModule
-
-A PowerShell module for managing the PATH environment variable.
-
-__Downloads__: 283 | __Repository__: https://github.com/PSModule/PATH
-
-## [PSModule.FX](https://www.powershellgallery.com/Packages/PSModule.FX/0.0.189) | 0.0.189
-
-### Published: 01/28/2024 00:58:09 by PSModule
-
-PSModule Framework PowerShell Module
-
-__Downloads__: 1,302 | __Repository__: https://github.com/PSModule/PSModule.FX
-
-## [HelpOut](https://www.powershellgallery.com/Packages/HelpOut/0.5.2) | 0.5.2
-
-### Published: 01/27/2024 19:51:13 by James Brundage
-
-A Helpful Toolkit for Managing PowerShell Help
-
-__Downloads__: 1,404 | __Repository__: https://github.com/StartAutomating/HelpOut
-
-*Updated: Thursday, 01 February 2024 17:51:53 UTC*
+*Updated: Friday, 02 February 2024 02:01:14 UTC*
