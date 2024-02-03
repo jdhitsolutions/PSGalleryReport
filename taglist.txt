@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Saturday, 03 February 2024 09:52:00 UTC
+Updated: Saturday, 03 February 2024 17:52:14 UTC
 
 .bat
 .env
@@ -240,6 +240,7 @@ agile
 agility
 agm
 agnoster
+ahk
 ai
 aianomalydetection
 aidocument
@@ -267,7 +268,6 @@ albums
 alc
 alero
 alert
-alerting
 alertmail
 alertmanagement
 alerts
@@ -442,6 +442,7 @@ arcresourcebridge
 arcus
 area
 arg
+argcomplete
 argument
 argumentcompleter
 arguments
@@ -476,6 +477,7 @@ asm
 asn.1
 asn1
 asnbank
+asp
 asp.net
 aspnet
 aspnet_regiis
@@ -555,6 +557,7 @@ autocomplete
 autocompletion
 autoenv
 autograph
+autohotkey
 autoload
 autologon
 automai
@@ -583,7 +586,6 @@ availability
 availabilityset
 avalara
 avalonia
-avatar
 avd
 ave
 avepoint
@@ -652,6 +654,7 @@ azure-resource-graph
 azure-ssis
 azureactivedirectory
 azuread
+azureadbackupandrestore
 azureadconnect
 azureadgraph
 azureadtoolkit
@@ -673,6 +676,7 @@ azuredatastudio
 azuredevops
 azuredevops_security
 azuredevopsserver
+azuredns
 azurefilesync
 azurefunctionapp
 azurefunctions
@@ -685,6 +689,7 @@ azuremigrate
 azuremonitor
 azurenetworking
 azurepack
+azurepipelines
 azurepolicy
 azurepowershell
 azurerepos
@@ -745,6 +750,7 @@ bash
 basic
 bastion
 bat
+batcat
 batch
 batchclass
 batman
@@ -878,7 +884,6 @@ box
 bpmn
 brainy
 branch
-branch-rename
 brave
 brawlapi
 brawlstars
@@ -891,6 +896,7 @@ brew
 brickset
 bridge
 brightbooking
+brightness
 britannica
 britannicaknowledgesystems
 british-gas
@@ -915,6 +921,7 @@ bugzilla
 build
 build-log
 build-scripts
+builddefinition
 builder
 building
 buildingfile
@@ -1291,6 +1298,7 @@ columns
 com
 combinations
 combine
+comdata
 comic
 comical
 comics
@@ -1327,6 +1335,7 @@ completer
 completion
 completion-manager
 completionresult
+completions
 complex
 compliance
 compliant
@@ -1423,6 +1432,7 @@ continuous-integration
 continuousdelivery
 continuousdeployment
 continuousintegration
+contrast
 control
 controller
 controlroom
@@ -1442,7 +1452,6 @@ convertfrom
 convertfrom-yaml
 convertto
 convertto-excel
-convertto-hashtable
 convertto-yaml
 converttodocx
 converttohtml
@@ -1531,7 +1540,6 @@ credentials
 credentials-cache
 credentialsmanager
 credentialstore
-credentialutility
 credman
 credmanager
 crescendo
@@ -1648,7 +1656,6 @@ dare
 dark
 dash
 dashboard
-dashboardapi
 dashboardservice
 dast
 data
@@ -1740,6 +1747,8 @@ dcim
 dcim_b324
 dcom
 dcr
+ddc
+ddc/ci
 ddns
 debian
 debug
@@ -2252,6 +2261,7 @@ envvar
 envvars
 eol
 eop
+eperl
 ephesoft
 epicor
 episode
@@ -2260,6 +2270,7 @@ eprosima
 epub
 epv
 equality
+erb
 erp
 error
 error-log
@@ -2713,6 +2724,7 @@ gcloud
 gcp
 gcs
 gdpr
+gedit
 gem
 gemini
 geminiprotocol
@@ -2801,7 +2813,6 @@ git-clone
 git-flow
 git-lfs
 git-proxy
-git-rename
 git-stat
 gitcmdline
 gitdesktop
@@ -3023,6 +3034,7 @@ hewlett
 hewlett-packard
 hewlett-packardenterprise
 hex
+hexdump
 hg
 hibernate
 hibernation
@@ -3184,7 +3196,6 @@ id
 id3
 idabus
 ide
-identifier
 identity
 identity-management
 identitydataplane
@@ -3502,6 +3513,7 @@ jsonplus
 jsonwebkey
 jsonwebsignature
 jsonwebtoken
+jsp
 jumbo
 jump
 jump-location
@@ -3667,6 +3679,7 @@ leiningnen
 lenel
 length
 lenovo
+less
 lesspass
 letsencrypt
 lf
@@ -3961,6 +3974,7 @@ mbs
 mc
 mcafee
 mcas
+mccs
 mcd
 mchapv2
 mct
@@ -4008,7 +4022,6 @@ mention
 menu
 menus
 meraki
-merakiapi
 mercurial
 merge
 mermaid
@@ -4157,6 +4170,7 @@ monitors
 monthlyupdate
 moodle
 moonshot
+more
 mosaic
 motd
 motivation
@@ -4218,13 +4232,9 @@ msproject
 msrc
 msrdc
 mssql
-mssqlbynarymodule
-mssqlbynarypsmodule
-mssqlmodule
 mssqlplugins
 mssqlserver
 msteams
-mstest
 mstsc
 msu
 msvc
@@ -4306,6 +4316,7 @@ nec-infrared-transmission-protocol
 nederland
 nedyalkov
 neo4j
+neovim
 neptune
 nerdfonts
 nerdio
@@ -4427,6 +4438,7 @@ nosql
 note
 notebook
 notepad
+notepad2
 noteproperty
 notes
 notification
@@ -4690,7 +4702,6 @@ ouraring
 out-consolegridview
 out-default
 out-gridview
-out-json
 outerjoin
 outertext
 outline
@@ -4712,6 +4723,7 @@ p2s
 pa1reg
 paas
 pac
+pack
 package
 package-management
 package-manager
@@ -4863,6 +4875,7 @@ php
 phpapam
 pi
 picker
+pico
 picture
 pictures
 pid
@@ -4889,6 +4902,7 @@ pivot
 pivotal
 pivottable
 pixoo
+pkce
 pki
 pki psmodule
 pks
@@ -4928,7 +4942,6 @@ poetry
 point
 point-to-site
 pointer
-pokeapi
 pokedex
 pokemon
 poker
@@ -4997,8 +5010,10 @@ poshy-net
 poshy-notify-send
 poshy-sh-isms
 poshy-sshconfig
+poshy-viewer-finder
 poshy-wrap
 poshy-wrap-apt
+poshy-wrap-argcomplete
 poshy-wrap-brew
 poshy-wrap-curl
 poshy-wrap-dnf
@@ -5059,7 +5074,6 @@ powerbot
 powercli
 powercligoodies
 powercommander
-powerdex
 powerforensics
 powergraph
 powergui
@@ -5143,6 +5157,8 @@ preparead
 preparealldomains
 prepareschema
 prepend
+preprocessing
+preprocessor
 presentation
 presenter
 presto
@@ -5593,6 +5609,8 @@ pscommand_forgit-reset-head
 pscommand_forgit-revert-commit
 pscommand_forgit-stash-push
 pscommand_forgit-stash-show
+pscommand_format-batcatstyle
+pscommand_format-lesstermcapenv
 pscommand_format-viewerinvocationsh
 pscommand_g
 pscommand_ga
@@ -5752,6 +5770,7 @@ pscommand_get-netipaddresspublic
 pscommand_get-netipaddresssimple
 pscommand_get-pwshaliasdefinition
 pscommand_get-pwshfunctiondefinition
+pscommand_get-viewer
 pscommand_geun
 pscommand_gexport
 pscommand_gf
@@ -6780,6 +6799,7 @@ pscommand_python
 pscommand_python3
 pscommand_rb
 pscommand_read-dotenv
+pscommand_register-argcompleteargumentcompleter
 pscommand_remove_gem
 pscommand_remove-dockercontainerall
 pscommand_remove-dockerunusedimage
@@ -7274,6 +7294,8 @@ psfunction_forgit-reset-head
 psfunction_forgit-revert-commit
 psfunction_forgit-stash-push
 psfunction_forgit-stash-show
+psfunction_format-batcatstyle
+psfunction_format-lesstermcapenv
 psfunction_format-viewerinvocationsh
 psfunction_gdv
 psfunction_get-aptinstalledpackages
@@ -7341,6 +7363,7 @@ psfunction_get-netipaddresspublic
 psfunction_get-netipaddresssimple
 psfunction_get-pwshaliasdefinition
 psfunction_get-pwshfunctiondefinition
+psfunction_get-viewer
 psfunction_git_blame_line
 psfunction_git_checkout_child
 psfunction_git_checkout_parent
@@ -7991,6 +8014,7 @@ psfunction_push-gitstashentrywithmessage
 psfunction_pwshrc-show-proxy
 psfunction_pyserver
 psfunction_read-dotenv
+psfunction_register-argcompleteargumentcompleter
 psfunction_remove-dockercontainerall
 psfunction_remove-dockerunusedimage
 psfunction_remove-envpathitem
@@ -8155,14 +8179,12 @@ psmodules
 psmp
 psmsgraph
 psmsgraphapi
-psmssql
-psmssqlbynarymodule
-psmssqlmodule
 psmvp
 psnavigation
 psnexosisclient
 psngenposh
 psobject
+psoutlog
 pspath
 pspersonio
 pspowerhour
@@ -8193,9 +8215,6 @@ psslack
 pssqlite
 pssqlitebynarymodule
 pssqlitemodule
-pssqlserver
-pssqlserverbynarymodule
-pssqlservermodule
 psst
 psstgenerator
 pstablacus
@@ -8262,6 +8281,7 @@ pwshfw
 pwshrc
 pxedistributionpoint
 pyenv
+pygmentize
 pylint
 pyranja
 python
@@ -8363,7 +8383,6 @@ rdcman
 rdcmanager
 rdfe
 rdg
-rdl
 rdm
 rdp
 rdpsession
@@ -8458,6 +8477,7 @@ reinstall
 relational
 relay
 release
+releasedefinition
 releasehealth
 releasemanagement
 releasenotes
@@ -8500,9 +8520,6 @@ removetypeaccelerators
 remux
 ren-isac
 rename
-rename-git
-rename-git-branch
-rename-gitbranch
 repair-msauth
 reparsepoint
 repeat
@@ -8567,6 +8584,7 @@ retro
 retry
 returnuserprofile
 retype
+reuse
 reverse-engineer
 reverse-string
 reversed-color-text
@@ -8865,6 +8883,7 @@ security.txt
 securityassertionmarkuplanguage
 securitycenter
 securitycompliancecenter
+securitygroup
 securitygroups
 securityinsights
 securityoptions
@@ -9155,7 +9174,6 @@ snmpset
 snmpv3
 snmpwalk
 snowflake
-snsmssqlpsmodule
 snspsadgroupmembers
 snspsscriptsmonitoring
 snssqlitepsmodule
@@ -9294,9 +9312,6 @@ sqlproject
 sqlps
 sqlserver
 sqlserveragent
-sqlserverbynarymodule
-sqlserverbynarypsmodule
-sqlservermodule
 sqlvirtualmachine
 sqr
 sqrt
@@ -9584,6 +9599,7 @@ task-runner
 task-scheduler
 taskbar
 tasker
+taskgroup
 taskmanagement
 tasks
 taskscheduler
@@ -9654,11 +9670,9 @@ test-automation
 test-dscconfiguration
 test-internetconnection
 test-modulepath
-test-osplatform
 test-psremoting
 test-samcmapplicationexists
 test-samcmpackageexists
-test-userisadministrator
 test-xml
 test123
 testaccount
@@ -9854,7 +9868,6 @@ trusted-host
 trustedhosts
 trustedrootcertificate
 truth
-trx
 ts
 tsa
 tsd
@@ -9874,6 +9887,7 @@ tuning
 tutorial
 tv
 tweet
+twig
 twilio
 twincat
 twinkly
@@ -9942,6 +9956,7 @@ ud-scrollspy
 ud-selectdatetime
 ud-selector
 ud-signature
+ud-simpledrawer
 ud-singleselect
 ud-slider
 ud-speechbubble
@@ -10255,9 +10270,7 @@ vpn-certificate
 vpro
 vps
 vra
-vrchat
 vrealize
-vrising
 vro
 vrops
 vrsns
@@ -10375,6 +10388,7 @@ websphereportal
 webtest
 webtesting
 webtime
+webview2
 wec
 wecutil
 weekday
