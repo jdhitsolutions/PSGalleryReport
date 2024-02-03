@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Saturday, 03 February 2024 01:59:49 UTC
+Updated: Saturday, 03 February 2024 09:52:00 UTC
 
 .bat
 .env
@@ -240,7 +240,6 @@ agile
 agility
 agm
 agnoster
-ahk
 ai
 aianomalydetection
 aidocument
@@ -443,7 +442,6 @@ arcresourcebridge
 arcus
 area
 arg
-argcomplete
 argument
 argumentcompleter
 arguments
@@ -478,7 +476,6 @@ asm
 asn.1
 asn1
 asnbank
-asp
 asp.net
 aspnet
 aspnet_regiis
@@ -558,7 +555,6 @@ autocomplete
 autocompletion
 autoenv
 autograph
-autohotkey
 autoload
 autologon
 automai
@@ -656,7 +652,6 @@ azure-resource-graph
 azure-ssis
 azureactivedirectory
 azuread
-azureadbackupandrestore
 azureadconnect
 azureadgraph
 azureadtoolkit
@@ -678,7 +673,6 @@ azuredatastudio
 azuredevops
 azuredevops_security
 azuredevopsserver
-azuredns
 azurefilesync
 azurefunctionapp
 azurefunctions
@@ -691,7 +685,6 @@ azuremigrate
 azuremonitor
 azurenetworking
 azurepack
-azurepipelines
 azurepolicy
 azurepowershell
 azurerepos
@@ -752,7 +745,6 @@ bash
 basic
 bastion
 bat
-batcat
 batch
 batchclass
 batman
@@ -904,6 +896,7 @@ britannicaknowledgesystems
 british-gas
 brk4452
 broadcast
+broadcom
 broot
 brownserve-uk
 browser
@@ -922,7 +915,6 @@ bugzilla
 build
 build-log
 build-scripts
-builddefinition
 builder
 building
 buildingfile
@@ -1123,6 +1115,7 @@ cil
 cim
 cim_computersystem
 cimfs
+cimi
 ciminstance
 cims
 cimsession
@@ -1298,13 +1291,13 @@ columns
 com
 combinations
 combine
-comdata
 comic
 comical
 comics
 command
 command_line
 command-line-interface
+command-validation
 commandcoverage
 commandlets
 commandline
@@ -1334,7 +1327,6 @@ completer
 completion
 completion-manager
 completionresult
-completions
 complex
 compliance
 compliant
@@ -1670,6 +1662,7 @@ data-uri-converter
 database
 database-migrations
 databaseautomation
+databasemanagement
 databasemigration
 databases
 databasetools
@@ -2259,7 +2252,6 @@ envvar
 envvars
 eol
 eop
-eperl
 ephesoft
 epicor
 episode
@@ -2268,7 +2260,6 @@ eprosima
 epub
 epv
 equality
-erb
 erp
 error
 error-log
@@ -2426,6 +2417,7 @@ externalip
 extract
 extraction
 extractor
+extreme-networks
 eztheme
 f
 f#
@@ -2721,7 +2713,6 @@ gcloud
 gcp
 gcs
 gdpr
-gedit
 gem
 gemini
 geminiprotocol
@@ -3032,7 +3023,6 @@ hewlett
 hewlett-packard
 hewlett-packardenterprise
 hex
-hexdump
 hg
 hibernate
 hibernation
@@ -3512,7 +3502,7 @@ jsonplus
 jsonwebkey
 jsonwebsignature
 jsonwebtoken
-jsp
+jumbo
 jump
 jump-location
 jumpcloud
@@ -3677,7 +3667,6 @@ leiningnen
 lenel
 length
 lenovo
-less
 lesspass
 letsencrypt
 lf
@@ -3715,6 +3704,7 @@ link
 link-capability
 link-preview
 linkedin
+linkedservice
 linkedservicedependency
 linkid
 links
@@ -4086,6 +4076,7 @@ microsofthealth
 microsoftintune
 microsoftmvp
 microsoftoffice
+microsoftonline
 microsoftstaffhub
 microsoftstore
 microsoftteams
@@ -4166,7 +4157,6 @@ monitors
 monthlyupdate
 moodle
 moonshot
-more
 mosaic
 motd
 motivation
@@ -4316,7 +4306,6 @@ nec-infrared-transmission-protocol
 nederland
 nedyalkov
 neo4j
-neovim
 neptune
 nerdfonts
 nerdio
@@ -4438,7 +4427,6 @@ nosql
 note
 notebook
 notepad
-notepad2
 noteproperty
 notes
 notification
@@ -4600,6 +4588,7 @@ onyphe
 onyphe.io
 oob
 oop
+op
 opa
 opc
 open
@@ -4614,6 +4603,7 @@ openfiles
 openhere
 openid
 openidconnect
+openinghours
 openport
 openprovider
 openscad
@@ -4722,7 +4712,6 @@ p2s
 pa1reg
 paas
 pac
-pack
 package
 package-management
 package-manager
@@ -4874,7 +4863,6 @@ php
 phpapam
 pi
 picker
-pico
 picture
 pictures
 pid
@@ -4940,6 +4928,7 @@ poetry
 point
 point-to-site
 pointer
+pokeapi
 pokedex
 pokemon
 poker
@@ -5008,10 +4997,8 @@ poshy-net
 poshy-notify-send
 poshy-sh-isms
 poshy-sshconfig
-poshy-viewer-finder
 poshy-wrap
 poshy-wrap-apt
-poshy-wrap-argcomplete
 poshy-wrap-brew
 poshy-wrap-curl
 poshy-wrap-dnf
@@ -5072,6 +5059,7 @@ powerbot
 powercli
 powercligoodies
 powercommander
+powerdex
 powerforensics
 powergraph
 powergui
@@ -5155,8 +5143,6 @@ preparead
 preparealldomains
 prepareschema
 prepend
-preprocessing
-preprocessor
 presentation
 presenter
 presto
@@ -5607,8 +5593,6 @@ pscommand_forgit-reset-head
 pscommand_forgit-revert-commit
 pscommand_forgit-stash-push
 pscommand_forgit-stash-show
-pscommand_format-batcatstyle
-pscommand_format-lesstermcapenv
 pscommand_format-viewerinvocationsh
 pscommand_g
 pscommand_ga
@@ -5768,7 +5752,6 @@ pscommand_get-netipaddresspublic
 pscommand_get-netipaddresssimple
 pscommand_get-pwshaliasdefinition
 pscommand_get-pwshfunctiondefinition
-pscommand_get-viewer
 pscommand_geun
 pscommand_gexport
 pscommand_gf
@@ -6797,7 +6780,6 @@ pscommand_python
 pscommand_python3
 pscommand_rb
 pscommand_read-dotenv
-pscommand_register-argcompleteargumentcompleter
 pscommand_remove_gem
 pscommand_remove-dockercontainerall
 pscommand_remove-dockerunusedimage
@@ -7104,6 +7086,7 @@ psedition_psedition_core
 psedition_psedition_desktop
 psedition_windows
 psedition-desktop
+psediton_desktop
 psenv
 pses
 psexcel
@@ -7291,8 +7274,6 @@ psfunction_forgit-reset-head
 psfunction_forgit-revert-commit
 psfunction_forgit-stash-push
 psfunction_forgit-stash-show
-psfunction_format-batcatstyle
-psfunction_format-lesstermcapenv
 psfunction_format-viewerinvocationsh
 psfunction_gdv
 psfunction_get-aptinstalledpackages
@@ -7360,7 +7341,6 @@ psfunction_get-netipaddresspublic
 psfunction_get-netipaddresssimple
 psfunction_get-pwshaliasdefinition
 psfunction_get-pwshfunctiondefinition
-psfunction_get-viewer
 psfunction_git_blame_line
 psfunction_git_checkout_child
 psfunction_git_checkout_parent
@@ -8011,7 +7991,6 @@ psfunction_push-gitstashentrywithmessage
 psfunction_pwshrc-show-proxy
 psfunction_pyserver
 psfunction_read-dotenv
-psfunction_register-argcompleteargumentcompleter
 psfunction_remove-dockercontainerall
 psfunction_remove-dockerunusedimage
 psfunction_remove-envpathitem
@@ -8184,7 +8163,6 @@ psnavigation
 psnexosisclient
 psngenposh
 psobject
-psoutlog
 pspath
 pspersonio
 pspowerhour
@@ -8279,11 +8257,11 @@ pwpush
 pwsafe
 pwsh
 pwsh.fw
+pwshake
 pwshfw
 pwshrc
 pxedistributionpoint
 pyenv
-pygmentize
 pylint
 pyranja
 python
@@ -8480,7 +8458,6 @@ reinstall
 relational
 relay
 release
-releasedefinition
 releasehealth
 releasemanagement
 releasenotes
@@ -8590,7 +8567,6 @@ retro
 retry
 returnuserprofile
 retype
-reuse
 reverse-engineer
 reverse-string
 reversed-color-text
@@ -8658,6 +8634,7 @@ routeconfig
 router
 routes
 routetable
+routine
 rover
 royalapps
 royaldocument
@@ -8888,7 +8865,6 @@ security.txt
 securityassertionmarkuplanguage
 securitycenter
 securitycompliancecenter
-securitygroup
 securitygroups
 securityinsights
 securityoptions
@@ -9024,6 +9000,7 @@ shadowcopy
 shadowcopybackups
 shadowgroups
 shanghaitech
+shard
 share
 share-permission
 share-stat
@@ -9485,6 +9462,7 @@ summary
 sumologic
 supercell
 superheros
+supermarket
 support
 support-tool
 support-tools
@@ -9606,7 +9584,6 @@ task-runner
 task-scheduler
 taskbar
 tasker
-taskgroup
 taskmanagement
 tasks
 taskscheduler
@@ -9897,7 +9874,6 @@ tuning
 tutorial
 tv
 tweet
-twig
 twilio
 twincat
 twinkly
@@ -9910,6 +9886,7 @@ twitter-follow
 twitter-hashtag
 twitter-mention
 twitter-share
+twitter-timeline
 twitter-tweet
 txt
 type
@@ -9965,7 +9942,6 @@ ud-scrollspy
 ud-selectdatetime
 ud-selector
 ud-signature
-ud-simpledrawer
 ud-singleselect
 ud-slider
 ud-speechbubble
@@ -10663,6 +10639,7 @@ xin
 xkcd
 xliff
 xlsx
+xmc
 xml
 xml-rpc
 xml-transform
@@ -10690,6 +10667,7 @@ yahw
 yamaha
 yaml
 yandex
+yapg
 yarn
 yetanotherhelloworld
 yml
