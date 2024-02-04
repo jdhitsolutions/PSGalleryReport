@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Saturday, 03 February 2024 17:52:14 UTC
+Updated: Sunday, 04 February 2024 02:03:36 UTC
 
 .bat
 .env
@@ -17,7 +17,6 @@ Updated: Saturday, 03 February 2024 17:52:14 UTC
 **psedition_desktop**
 **windows**
 🍄
-🍣
 💩
 10
 11
@@ -268,6 +267,7 @@ albums
 alc
 alero
 alert
+alerting
 alertmail
 alertmanagement
 alerts
@@ -329,7 +329,6 @@ anglesharp
 angular
 animals
 animate-svg
-animation
 animations
 annotated
 announcement
@@ -442,7 +441,6 @@ arcresourcebridge
 arcus
 area
 arg
-argcomplete
 argument
 argumentcompleter
 arguments
@@ -506,7 +504,6 @@ atera
 athena
 atlas
 atlassian
-atlassiancli
 atlassianps
 atmosphere
 atom
@@ -884,6 +881,7 @@ box
 bpmn
 brainy
 branch
+branch-rename
 brave
 brawlapi
 brawlstars
@@ -1335,7 +1333,6 @@ completer
 completion
 completion-manager
 completionresult
-completions
 complex
 compliance
 compliant
@@ -1452,6 +1449,7 @@ convertfrom
 convertfrom-yaml
 convertto
 convertto-excel
+convertto-hashtable
 convertto-yaml
 converttodocx
 converttohtml
@@ -1540,6 +1538,7 @@ credentials
 credentials-cache
 credentialsmanager
 credentialstore
+credentialutility
 credman
 credmanager
 crescendo
@@ -2813,6 +2812,7 @@ git-clone
 git-flow
 git-lfs
 git-proxy
+git-rename
 git-stat
 gitcmdline
 gitdesktop
@@ -2941,8 +2941,6 @@ gz
 gzip
 gzip-compression
 ha
-haarlemsdagblad
-hack
 hacking
 hacktoberfest
 hadoop
@@ -3175,12 +3173,10 @@ ibmhttpserver
 icacl
 icinga
 icinga2
-icinga2mssql
 icinga2plugins
 icingachecks
 icingaforwindows
 icingainventory
-icingamssql
 icingaplugins
 icingapowershell
 icingapowershellframework
@@ -3196,6 +3192,7 @@ id
 id3
 idabus
 ide
+identifier
 identity
 identity-management
 identitydataplane
@@ -3371,7 +3368,6 @@ invocation
 invoice
 invoke
 invoke-asadmin
-invoke-asadministrator
 invoke-ascurrentuser
 invoke-automation
 invoke-build
@@ -3598,8 +3594,6 @@ kschemaplugin
 kubclt
 kube
 kubectl
-kubectx
-kubens
 kubernetes
 kubernetesconfiguration
 kubespray
@@ -4232,9 +4226,12 @@ msproject
 msrc
 msrdc
 mssql
-mssqlplugins
+mssqlbynarymodule
+mssqlbynarypsmodule
+mssqlmodule
 mssqlserver
 msteams
+mstest
 mstsc
 msu
 msvc
@@ -4702,6 +4699,7 @@ ouraring
 out-consolegridview
 out-default
 out-gridview
+out-json
 outerjoin
 outertext
 outline
@@ -4828,7 +4826,6 @@ pdf-files
 pdf-generation
 pdf-redaction
 pe
-peek
 peering
 peheader
 pem
@@ -4942,6 +4939,7 @@ poetry
 point
 point-to-site
 pointer
+pokeapi
 pokedex
 pokemon
 poker
@@ -4987,7 +4985,6 @@ poshcommence
 poshevents
 poshgraph
 poshgraph-sdk
-poshgrouppolicy
 poshkeepass
 poshlog
 poshorigin
@@ -5013,7 +5010,6 @@ poshy-sshconfig
 poshy-viewer-finder
 poshy-wrap
 poshy-wrap-apt
-poshy-wrap-argcomplete
 poshy-wrap-brew
 poshy-wrap-curl
 poshy-wrap-dnf
@@ -5045,7 +5041,6 @@ poshy-wrap-terragrunt
 poshy-wrap-tmux
 poshy-wrap-vagrant
 poshy-wrap-vault
-poshy-wrap-vscode
 poshy-wrap-wget
 poshy-wrap-wt
 poshy-wrap-yum
@@ -5074,6 +5069,7 @@ powerbot
 powercli
 powercligoodies
 powercommander
+powerdex
 powerforensics
 powergraph
 powergui
@@ -6468,20 +6464,6 @@ pscommand_invoke-vaultserver
 pscommand_invoke-vaultstatus
 pscommand_invoke-vaultversion
 pscommand_invoke-vaultwrite
-pscommand_invoke-vscodeadd
-pscommand_invoke-vscodediff
-pscommand_invoke-vscodeforpwd
-pscommand_invoke-vscodegoto
-pscommand_invoke-vscodeinstallextension
-pscommand_invoke-vscodenewwindow
-pscommand_invoke-vscodereusewindow
-pscommand_invoke-vscodeuninstallextension
-pscommand_invoke-vscodeverbose
-pscommand_invoke-vscodewithdisableextensions
-pscommand_invoke-vscodewithextensionsdir
-pscommand_invoke-vscodewithlog
-pscommand_invoke-vscodewithuserdatadir
-pscommand_invoke-vscodewithwait
 pscommand_invoke-yumcleanall
 pscommand_invoke-yumgroupinstall
 pscommand_invoke-yumgroupremove
@@ -6799,7 +6781,6 @@ pscommand_python
 pscommand_python3
 pscommand_rb
 pscommand_read-dotenv
-pscommand_register-argcompleteargumentcompleter
 pscommand_remove_gem
 pscommand_remove-dockercontainerall
 pscommand_remove-dockerunusedimage
@@ -6977,21 +6958,7 @@ pscommand_vp
 pscommand_vr
 pscommand_vrl
 pscommand_vs
-pscommand_vsc
-pscommand_vsca
-pscommand_vscd
-pscommand_vscde
-pscommand_vsced
-pscommand_vscg
-pscommand_vscie
-pscommand_vscl
-pscommand_vscn
 pscommand_vscp
-pscommand_vscr
-pscommand_vscu
-pscommand_vscue
-pscommand_vscv
-pscommand_vscw
 pscommand_vsl
 pscommand_vssh
 pscommand_vst
@@ -7878,20 +7845,6 @@ psfunction_invoke-vaultserver
 psfunction_invoke-vaultstatus
 psfunction_invoke-vaultversion
 psfunction_invoke-vaultwrite
-psfunction_invoke-vscodeadd
-psfunction_invoke-vscodediff
-psfunction_invoke-vscodeforpwd
-psfunction_invoke-vscodegoto
-psfunction_invoke-vscodeinstallextension
-psfunction_invoke-vscodenewwindow
-psfunction_invoke-vscodereusewindow
-psfunction_invoke-vscodeuninstallextension
-psfunction_invoke-vscodeverbose
-psfunction_invoke-vscodewithdisableextensions
-psfunction_invoke-vscodewithextensionsdir
-psfunction_invoke-vscodewithlog
-psfunction_invoke-vscodewithuserdatadir
-psfunction_invoke-vscodewithwait
 psfunction_invoke-yumcleanall
 psfunction_invoke-yumgroupinstall
 psfunction_invoke-yumgroupremove
@@ -8014,7 +7967,6 @@ psfunction_push-gitstashentrywithmessage
 psfunction_pwshrc-show-proxy
 psfunction_pyserver
 psfunction_read-dotenv
-psfunction_register-argcompleteargumentcompleter
 psfunction_remove-dockercontainerall
 psfunction_remove-dockerunusedimage
 psfunction_remove-envpathitem
@@ -8179,6 +8131,9 @@ psmodules
 psmp
 psmsgraph
 psmsgraphapi
+psmssql
+psmssqlbynarymodule
+psmssqlmodule
 psmvp
 psnavigation
 psnexosisclient
@@ -8215,6 +8170,9 @@ psslack
 pssqlite
 pssqlitebynarymodule
 pssqlitemodule
+pssqlserver
+pssqlserverbynarymodule
+pssqlservermodule
 psst
 psstgenerator
 pstablacus
@@ -8311,7 +8269,6 @@ qrcodes
 qrp
 qrs
 quality
-qualys
 quandl
 quantum
 quarantine
@@ -8383,6 +8340,7 @@ rdcman
 rdcmanager
 rdfe
 rdg
+rdl
 rdm
 rdp
 rdpsession
@@ -8520,6 +8478,9 @@ removetypeaccelerators
 remux
 ren-isac
 rename
+rename-git
+rename-git-branch
+rename-gitbranch
 repair-msauth
 reparsepoint
 repeat
@@ -8656,7 +8617,6 @@ routine
 rover
 royalapps
 royaldocument
-royalserver
 royalts
 royaltsx
 rpa
@@ -8856,7 +8816,6 @@ secret
 secretmanagement
 secretmanagementextension
 secrets
-secretsanta
 secretscanner
 secretserver
 secretsmanager
@@ -8898,8 +8857,6 @@ seekatar
 seeshell
 select
 select-item
-select-kubecontext
-select-kubenamespace
 select-string
 selection
 selectxmlinfo
@@ -9174,6 +9131,7 @@ snmpset
 snmpv3
 snmpwalk
 snowflake
+snsmssqlpsmodule
 snspsadgroupmembers
 snspsscriptsmonitoring
 snssqlitepsmodule
@@ -9203,7 +9161,6 @@ soltra
 solution
 solutions
 sonarcloud
-sonarqube
 sonarr
 sonatype
 songs
@@ -9232,7 +9189,6 @@ spacex
 spam
 spanner
 spark
-sparkline
 sparklines
 spawn
 spdockit
@@ -9312,6 +9268,9 @@ sqlproject
 sqlps
 sqlserver
 sqlserveragent
+sqlserverbynarymodule
+sqlserverbynarypsmodule
+sqlservermodule
 sqlvirtualmachine
 sqr
 sqrt
@@ -9335,8 +9294,6 @@ ssl
 sslcert
 sslcertificate
 sslflags
-ssllabs
-ssllabs-scan
 sslprotocol
 ssm
 sso
@@ -9488,7 +9445,6 @@ surround
 survey
 surveymonkey
 sus
-sushi
 suspensive
 svesavov
 svetoslav
@@ -9670,9 +9626,11 @@ test-automation
 test-dscconfiguration
 test-internetconnection
 test-modulepath
+test-osplatform
 test-psremoting
 test-samcmapplicationexists
 test-samcmpackageexists
+test-userisadministrator
 test-xml
 test123
 testaccount
@@ -9868,6 +9826,7 @@ trusted-host
 trustedhosts
 trustedrootcertificate
 truth
+trx
 ts
 tsa
 tsd
@@ -9900,7 +9859,6 @@ twitter-follow
 twitter-hashtag
 twitter-mention
 twitter-share
-twitter-timeline
 twitter-tweet
 txt
 type
@@ -10270,7 +10228,9 @@ vpn-certificate
 vpro
 vps
 vra
+vrchat
 vrealize
+vrising
 vro
 vrops
 vrsns
@@ -10722,6 +10682,5 @@ zypper
 ひらがな
 ローマ字
 全角半角変換
-寿司
 日本語
 湯婆婆

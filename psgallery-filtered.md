@@ -3,21 +3,61 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
-## [Create-Cert](https://www.powershellgallery.com/Packages/Create-Cert/1.0.0) | 1.0.0
+## [Permission](https://www.powershellgallery.com/Packages/Permission/0.0.149) | 0.0.149
 
-### Published: 02/03/2024 17:38:21 by Ben Souch
-
-Creates a single security certificate for a given domain
-
-__Downloads__: 0 | __Repository__: 
-
-## [Permission](https://www.powershellgallery.com/Packages/Permission/0.0.125) | 0.0.125
-
-### Published: 02/03/2024 17:23:26 by Jeremy La Camera
+### Published: 02/04/2024 00:29:37 by Jeremy La Camera
 
 Module for working with Access Control Lists
 
 __Downloads__: 612 | __Repository__: 
+
+## [Oraculum](https://www.powershellgallery.com/Packages/Oraculum/1.3.4.0) | 1.3.4.0
+
+### Published: 02/03/2024 21:30:05 by Antonio Cisternino
+
+Oraculum command line interface
+
+__Downloads__: 77 | __Repository__: https://github.com/Unipisa/Oraculum
+
+## [PsNtfs](https://www.powershellgallery.com/Packages/PsNtfs/2.0.151) | 2.0.151
+
+### Published: 02/03/2024 20:43:42 by Jeremy La Camera
+
+Work with the contents of NTFS volumes
+
+__Downloads__: 678 | __Repository__: 
+
+## [PSWeave](https://www.powershellgallery.com/Packages/PSWeave/0.2.0) | 0.2.0
+
+### Published: 02/03/2024 19:49:31 by Douglas Finke
+
+PowerShell module that innovates automation with AI to make you more productive
+
+__Downloads__: 11 | __Repository__: https://github.com/dfinke/PSWeave
+
+## [Transferetto](https://www.powershellgallery.com/Packages/Transferetto/1.0.0) | 1.0.0
+
+### Published: 02/03/2024 19:42:37 by Przemyslaw Klys
+
+Module which allows ftp, ftps, sftp file transfers with advanced features. It also allows to transfer files and directorires between servers using fxp protocol. As a side feature it allows to conenct to SSH and executes commands on it.
+
+__Downloads__: 385,792 | __Repository__: https://github.com/EvotecIT/Transferetto
+
+## [PowerShellAIAssistant](https://www.powershellgallery.com/Packages/PowerShellAIAssistant/0.1.7) | 0.1.7
+
+### Published: 02/03/2024 18:48:22 by Douglas Finke
+
+PowerShellAIAssistant integrates OpenAI's AI Assistants into PowerShell, leveraging advanced AI capabilities in your PowerShell scripts for dynamic, intelligent automation and data processing
+
+__Downloads__: 415 | __Repository__: https://github.com/dfinke/PowerShellAIAssistant
+
+## [Create-Cert](https://www.powershellgallery.com/Packages/Create-Cert/1.0.1) | 1.0.1
+
+### Published: 02/03/2024 18:32:18 by Ben Souch
+
+Creates a single security certificate for a given domain
+
+__Downloads__: 0 | __Repository__: 
 
 ## [WebServer](https://www.powershellgallery.com/Packages/WebServer/1.0.7) | 1.0.7
 
@@ -78,14 +118,6 @@ __Downloads__: 4 | __Repository__: https://github.com/viscalyx/PSResourceGet.Boo
 Helper to make dependencies calls from powershell. Decouple the calls to tools and functions. Makes calls Async and Paralell. Mock dependencies calls for testing.
 
 __Downloads__: 292 | __Repository__: https://github.com/rulasg/InvokeHelper
-
-## [PsNtfs](https://www.powershellgallery.com/Packages/PsNtfs/2.0.149) | 2.0.149
-
-### Published: 02/03/2024 08:14:37 by Jeremy La Camera
-
-Work with the contents of NTFS volumes
-
-__Downloads__: 678 | __Repository__: 
 
 ## [ModuleFast](https://www.powershellgallery.com/Packages/ModuleFast/0.2.0) | 0.2.0
 
@@ -181,7 +213,7 @@ __Downloads__: 1,520 | __Repository__: https://github.com/PSModule/Utilities
 
 A thin wrapper around Fzf (https://github.com/junegunn/fzf).  If PSReadline is loaded, this wrapper registers Fzf with the keyboard chord Ctrl+t.
 
-__Downloads__: 66,307 | __Repository__: 
+__Downloads__: 66,322 | __Repository__: 
 
 ## [IntuneWinPackage](https://www.powershellgallery.com/Packages/IntuneWinPackage/0.15.0) | 0.15.0
 
@@ -274,7 +306,7 @@ __Downloads__: 170 | __Repository__: https://github.com/AvePoint/fly-client
 
 PowerShell module, which makes it easier to work with Business Central Containers on Docker.
 
-__Downloads__: 1,650,820 | __Repository__: 
+__Downloads__: 1,650,813 | __Repository__: 
 
 ## [BCSPowershellModule](https://www.powershellgallery.com/Packages/BCSPowershellModule/1.0.151) | 1.0.151
 
@@ -291,6 +323,14 @@ __Downloads__: 36,240 | __Repository__:
 Module for DNS security testing
 
 __Downloads__: 7 | __Repository__: 
+
+## [Rename-GitBranch](https://www.powershellgallery.com/Packages/Rename-GitBranch/1.2.0) | 1.2.0
+
+### Published: 02/02/2024 04:57:39 by Prateek Mahendrakar
+
+Renames a git branch locally and remotely.
+
+__Downloads__: 3 | __Repository__: 
 
 ## [AzureBasicLoadBalancerUpgrade](https://www.powershellgallery.com/Packages/AzureBasicLoadBalancerUpgrade/2.4.5) | 2.4.5
 
@@ -315,14 +355,6 @@ __Downloads__: 29 | __Repository__: https://github.com/MartinGC94/MonitorConfig
 Assorted Utilities to make your day happier than inhaling a party balloon.
 
 __Downloads__: 328 | __Repository__: https://github.com/Skatterbrainz/helium
-
-## [PSWeave](https://www.powershellgallery.com/Packages/PSWeave/0.1.1) | 0.1.1
-
-### Published: 02/01/2024 17:17:41 by Douglas Finke
-
-PowerShell module that innovates automation with AI to make you more productive
-
-__Downloads__: 11 | __Repository__: https://github.com/dfinke/PSWeave
 
 ## [ObjectGraphTools](https://www.powershellgallery.com/Packages/ObjectGraphTools/0.0.15) | 0.0.15
 
@@ -378,7 +410,7 @@ __Downloads__: 50 | __Repository__:
 
 Module for PowerShell Universal.
 
-__Downloads__: 70,589 | __Repository__: https://ironmansoftware.com/powershell-universal
+__Downloads__: 70,592 | __Repository__: https://ironmansoftware.com/powershell-universal
 
 ## [psPAS](https://www.powershellgallery.com/Packages/psPAS/6.1.50) | 6.1.50
 
@@ -386,7 +418,7 @@ __Downloads__: 70,589 | __Repository__: https://ironmansoftware.com/powershell-u
 
 Module for CyberArk Privileged Access Security Web Service REST API
 
-__Downloads__: 91,643 | __Repository__: https://pspas.pspete.dev/
+__Downloads__: 91,644 | __Repository__: https://pspas.pspete.dev/
 
 ## [Generate-DockerImageVariantsHelpers](https://www.powershellgallery.com/Packages/Generate-DockerImageVariantsHelpers/0.23.0) | 0.23.0
 
@@ -427,6 +459,14 @@ __Downloads__: 188 | __Repository__: https://github.com/svrooij/ContentPrep/
 A module for running various Active Directory Tasks
 
 __Downloads__: 379 | __Repository__: https://github.com/CriticalSolutionsNetwork/ADAuditTasks
+
+## [PSSymantecSEPM](https://www.powershellgallery.com/Packages/PSSymantecSEPM/0.8.2) | 0.8.2
+
+### Published: 01/31/2024 20:10:54 by Aurélien BOUMANNE
+
+Common set of tools to interact with Symantec Endpoint Protection Manager (SEPM) product
+
+__Downloads__: 58 | __Repository__: https://github.com/Douda/PSSymantecSEPM
 
 ## [Logic.Monitor](https://www.powershellgallery.com/Packages/Logic.Monitor/5.0.2) | 5.0.2
 
@@ -571,7 +611,7 @@ __Downloads__: 35,882 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions that generate configuration scripts and manage FortiOS.
 
-__Downloads__: 15,258 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 15,260 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.VMWareAutomate](https://www.powershellgallery.com/Packages/AdminToolbox.VMWareAutomate/4.8.127) | 4.8.127
 
@@ -595,7 +635,7 @@ __Downloads__: 21,992 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions for working with Office365 and Azure modules
 
-__Downloads__: 23,726 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 23,728 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.Networking](https://www.powershellgallery.com/Packages/AdminToolbox.Networking/2.18.38) | 2.18.38
 
@@ -603,7 +643,7 @@ __Downloads__: 23,726 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Network Troubleshooting Functions
 
-__Downloads__: 56,016 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 56,101 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.MSGraph](https://www.powershellgallery.com/Packages/AdminToolbox.MSGraph/1.2.130) | 1.2.130
 
@@ -643,7 +683,7 @@ __Downloads__: 22,805 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions for Exchange Management
 
-__Downloads__: 23,986 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 23,988 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.EndpointManagement](https://www.powershellgallery.com/Packages/AdminToolbox.EndpointManagement/4.10.7) | 4.10.7
 
@@ -651,7 +691,7 @@ __Downloads__: 23,986 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions for management of endpoints
 
-__Downloads__: 27,685 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 27,683 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.ActiveDirectory](https://www.powershellgallery.com/Packages/AdminToolbox.ActiveDirectory/1.9.128) | 1.9.128
 
@@ -659,7 +699,7 @@ __Downloads__: 27,685 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions for Active Directory
 
-__Downloads__: 27,347 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 27,345 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [ServerPrepTools](https://www.powershellgallery.com/Packages/ServerPrepTools/3.0) | 3.0
 
@@ -684,14 +724,6 @@ __Downloads__: 1,888 | __Repository__: https://github.com/deadlydog/PowerShell.t
 A Toolset for Implementing and Adopting a full ALM strategy for the Microsoft PowerPlatform.
 
 __Downloads__: 52,059 | __Repository__: https://github.com/dylanhaskins/Microsoft.PowerPlatform.DevOps.Documentation
-
-## [PowerShellAIAssistant](https://www.powershellgallery.com/Packages/PowerShellAIAssistant/0.1.6) | 0.1.6
-
-### Published: 01/30/2024 23:55:42 by Douglas Finke
-
-PowerShellAIAssistant integrates OpenAI's AI Assistants into PowerShell, leveraging advanced AI capabilities in your PowerShell scripts for dynamic, intelligent automation and data processing
-
-__Downloads__: 416 | __Repository__: https://github.com/dfinke/PowerShellAIAssistant
 
 ## [SitecoreCecSearchModule](https://www.powershellgallery.com/Packages/SitecoreCecSearchModule/0.1.7) | 0.1.7
 
@@ -1955,7 +1987,7 @@ __Downloads__: 127 | __Repository__: http://docs.swissmentor.com/docs/powershell
 
 NetApp.ONTAP PowerShell Toolkit. The ONTAP 9.14.1 PowerShell Toolkit provides end-to-end automation and enables more efficient and scalable administration of NetApp storage. This module contains over 2340 PowerShell cmdlets to help you automate ONTAP administration on FAS and AFF systems, commodity hardware, and the cloud. This toolkit also supports REST API with 9.10 and later version of ONTAP. The toolkit also provides cross-platform support for Windows, Ubuntu, Red Hat Enterprise Linux (RHEL), and macOS.
 
-__Downloads__: 38,689 | __Repository__: https://mysupport.netapp.com/site/tools/tool-eula/ontap-powershell-toolkit
+__Downloads__: 38,692 | __Repository__: https://mysupport.netapp.com/site/tools/tool-eula/ontap-powershell-toolkit
 
 ## [PSc8y](https://www.powershellgallery.com/Packages/PSc8y/2.39.2) | 2.39.2
 
@@ -2005,36 +2037,4 @@ Powershell module to use with the Meraki API to manage your Meraki Organization.
 
 __Downloads__: 21 | __Repository__: https://github.com/Clifra-Jones/Meraki-API-V1
 
-## [PowerArubaCP](https://www.powershellgallery.com/Packages/PowerArubaCP/0.7.0) | 0.7.0
-
-### Published: 01/29/2024 20:00:34 by Alexis La Goutte
-
-PowerShell module to query the Aruba ClearPass API
-
-__Downloads__: 1,500 | __Repository__: https://github.com/PowerAruba/PowerArubaCP
-
-## [QueryExcel](https://www.powershellgallery.com/Packages/QueryExcel/1.0.0) | 1.0.0
-
-### Published: 01/29/2024 17:26:41 by Max Leung
-
-Query Excel with Powershell
-
-__Downloads__: 10 | __Repository__: 
-
-## [IdnTools](https://www.powershellgallery.com/Packages/IdnTools/1.60) | 1.60
-
-### Published: 01/29/2024 15:46:38 by Derek Brown
-
-This module contains functions to help manage SailPoint IdentityNow tenants.  The functions use various versions of SailPoint's APIs.  The only change required is updating the 'OrgName' variable in the .psm1 file with your tenant name.
-
-__Downloads__: 62 | __Repository__: 
-
-## [spec.teamviewer.utilities](https://www.powershellgallery.com/Packages/spec.teamviewer.utilities/1.1.4) | 1.1.4
-
-### Published: 01/29/2024 14:42:12 by owen.heaume
-
-A module to help manage TeamViewer
-
-__Downloads__: 35,265 | __Repository__: 
-
-*Updated: Saturday, 03 February 2024 17:52:06 UTC*
+*Updated: Sunday, 04 February 2024 02:03:29 UTC*
