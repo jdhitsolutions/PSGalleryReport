@@ -3,29 +3,109 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
-## [Permission](https://www.powershellgallery.com/Packages/Permission/0.0.167) | 0.0.167
+## [AsBuiltReport.VMware.UAG](https://www.powershellgallery.com/Packages/AsBuiltReport.VMware.UAG/1.1.0) | 1.1.0
 
-### Published: 02/05/2024 08:31:03 by Jeremy La Camera
+### Published: 02/05/2024 16:28:43 by Chris Hildebrandt
+
+A PowerShell module to generate As built reports on the configuration of VMware UAG Appliance
+
+__Downloads__: 0 | __Repository__: https://github.com/AsBuiltReport/AsBuiltReport.VMware.UAG
+
+## [Devolutions.PowerShell](https://www.powershellgallery.com/Packages/Devolutions.PowerShell/2023.3.6) | 2023.3.6
+
+### Published: 02/05/2024 15:44:58 by Devolutions
+
+The Devolutions.PowerShell module is a set of cmdlets that allow administrators to manage Remote Desktop Manager, Devolutions Server and Devolutions Hub Business using PowerShell. This module provides a simple and consistent interface for interacting with these products, making it easy to automate various tasks, such as creating and managing connections, sessions, and credentials, configuring security settings, and generating reports. The module can be easily integrated with other PowerShell modules, allowing administrators to automate tasks across multiple products and platforms, streamline their workflows and increase efficiency.
+
+__Downloads__: 22,359 | __Repository__: https://devolutions.net/
+
+## [PoshSophos](https://www.powershellgallery.com/Packages/PoshSophos/0.3.3) | 0.3.3
+
+### Published: 02/05/2024 15:44:30 by Zack Moss
+
+Module to work with the Sophos Central Tenant API
+
+__Downloads__: 29 | __Repository__: https://github.com/zackmoss/PoshSophos
+
+## [XpandPwsh](https://www.powershellgallery.com/Packages/XpandPwsh/1.221.0.12) | 1.221.0.12
+
+### Published: 02/05/2024 15:07:29 by Apostolis Bekiaris
+
+Various functions working with DevExpress XAF, eXpandFramework and not only
+
+__Downloads__: 36,076 | __Repository__: http://xpandpwsh.expandframework.com/
+
+## [CmdFav](https://www.powershellgallery.com/Packages/CmdFav/1.2.2) | 1.2.2
+
+### Published: 02/05/2024 15:02:15 by Sascha Spiekermann
+
+Helper for storing and accessing favorite/commonly used commands/scriptblocks
+
+__Downloads__: 4 | __Repository__: https://github.com/Callidus2000/CmdFav/
+
+## [SwissMentor](https://www.powershellgallery.com/Packages/SwissMentor/24.0.5) | 24.0.5
+
+### Published: 02/05/2024 12:48:55 by François Zbinden Iris Burkhalter
+
+SwissMentor cli module to login to a SwissMentor server, retreive and mutate data. Check the documentation at http://docs.swissmentor.com/docs/powershell-getting-started.
+
+__Downloads__: 127 | __Repository__: http://docs.swissmentor.com/docs/powershell-getting-started
+
+## [365AutomatedLab](https://www.powershellgallery.com/Packages/365AutomatedLab/2.6.0) | 2.6.0
+
+### Published: 02/05/2024 12:14:14 by Clayton Tyger
+
+This module will allow you to create a 365 Development Environment from an Excel workbook
+
+__Downloads__: 161 | __Repository__: https://github.com/DevClate/365AutomatedLab
+
+## [EasyPIM](https://www.powershellgallery.com/Packages/EasyPIM/1.2.1) | 1.2.1
+
+### Published: 02/05/2024 11:55:26 by Loïc MICHEL
+
+Powershell module to manage PIM Azure Resource Role settings with simplicity in mind
+
+__Downloads__: 240 | __Repository__: https://github.com/kayasax/EasyPIM/
+
+## [FortigiGraph](https://www.powershellgallery.com/Packages/FortigiGraph/1.0.20240205.1246) | 1.0.20240205.1246
+
+### Published: 02/05/2024 11:47:14 by Wim van den Heijkant
+
+PowerShell Module to assist with scripting against the Microsoft Graph. The sources for this module, including versioning can be found on GitHub: https://github.com/Fortigi/FortigiGraph
+
+__Downloads__: 18 | __Repository__: 
+
+## [PoshJsonWebToken](https://www.powershellgallery.com/Packages/PoshJsonWebToken/1.1.1) | 1.1.1
+
+### Published: 02/05/2024 11:46:29 by ArmaanMcleod
+
+This module contains cmdlets to help with generating and validating signed or encrypted JWT tokens.
+
+__Downloads__: 12 | __Repository__: https://github.com/ArmaanMcleod/PoshJsonWebToken
+
+## [Permission](https://www.powershellgallery.com/Packages/Permission/0.0.169) | 0.0.169
+
+### Published: 02/05/2024 10:41:52 by Jeremy La Camera
 
 Module for working with Access Control Lists
 
 __Downloads__: 689 | __Repository__: 
 
-## [Adsi](https://www.powershellgallery.com/Packages/Adsi/4.0.35) | 4.0.35
+## [Adsi](https://www.powershellgallery.com/Packages/Adsi/4.0.38) | 4.0.38
 
-### Published: 02/05/2024 08:16:13 by Jeremy La Camera
+### Published: 02/05/2024 10:40:18 by Jeremy La Camera
 
 Use Active Directory Service Interfaces to query LDAP and WinNT directories
 
 __Downloads__: 1,216 | __Repository__: 
 
-## [CmdFav](https://www.powershellgallery.com/Packages/CmdFav/1.1.0) | 1.1.0
+## [ibPS](https://www.powershellgallery.com/Packages/ibPS/1.9.2) | 1.9.2
 
-### Published: 02/05/2024 07:43:57 by Sascha Spiekermann
+### Published: 02/05/2024 10:14:40 by Mat Cox
 
-Helper for storing and accessing favorite/commonly used commands/scriptblocks
+InfoBlox BloxOne PowerShell Module
 
-__Downloads__: 4 | __Repository__: https://github.com/Callidus2000/CmdFav/
+__Downloads__: 61 | __Repository__: https://github.com/TehMuffinMoo/ibPS
 
 ## [RiverMeadow.Development.Migrate](https://www.powershellgallery.com/Packages/RiverMeadow.Development.Migrate/1.0.120.445) | 1.0.120.445
 
@@ -71,7 +151,7 @@ These are contained within this PowerShell Module, so regular Module updating is
 ensure you receive the latest Microsoft Updates.  Updates published in WSUS will be different
 from Microsoft Update Catalog website due to Preview Releases
 
-__Downloads__: 366,445 | __Repository__: https://github.com/OSDeploy/OSDSUS
+__Downloads__: 366,447 | __Repository__: https://github.com/OSDeploy/OSDSUS
 
 ## [OSD](https://www.powershellgallery.com/Packages/OSD/24.2.4.1) | 24.2.4.1
 
@@ -80,14 +160,6 @@ __Downloads__: 366,445 | __Repository__: https://github.com/OSDeploy/OSDSUS
 February 2024 Update 1
 
 __Downloads__: 1,289,431 | __Repository__: https://github.com/OSDeploy/OSD
-
-## [PoshJsonWebToken](https://www.powershellgallery.com/Packages/PoshJsonWebToken/1.1.0) | 1.1.0
-
-### Published: 02/05/2024 06:14:23 by ArmaanMcleod
-
-This module contains cmdlets to help with generating and validating signed or encrypyted JWT tokens.
-
-__Downloads__: 12 | __Repository__: https://github.com/ArmaanMcleod/PoshJsonWebToken
 
 ## [tiPS](https://www.powershellgallery.com/Packages/tiPS/1.1.0) | 1.1.0
 
@@ -112,14 +184,6 @@ __Downloads__: 198 | __Repository__:
 TrueNAS Powershell Module
 
 __Downloads__: 1,020 | __Repository__: https://github.com/kevinjjworld/TrueNAS-Powershell-Module
-
-## [ObjectGraphTools](https://www.powershellgallery.com/Packages/ObjectGraphTools/0.0.16) | 0.0.16
-
-### Published: 02/04/2024 15:38:12 by Ronald Bode (iRon)
-
-Object Graph Tools
-
-__Downloads__: 52 | __Repository__: https://github.com/iRon7/ObjectGraphTools
 
 ## [Devdeer.Caf](https://www.powershellgallery.com/Packages/Devdeer.Caf/0.2.0) | 0.2.0
 
@@ -357,14 +421,6 @@ Script to download/upload IntuneWin Packages
 
 __Downloads__: 600 | __Repository__: 
 
-## [XpandPwsh](https://www.powershellgallery.com/Packages/XpandPwsh/1.221.0.11) | 1.221.0.11
-
-### Published: 02/02/2024 14:19:12 by Apostolis Bekiaris
-
-Various functions working with DevExpress XAF, eXpandFramework and not only
-
-__Downloads__: 36,076 | __Repository__: http://xpandpwsh.expandframework.com/
-
 ## [Format-Document](https://www.powershellgallery.com/Packages/Format-Document/0.1.1.1) | 0.1.1.1
 
 ### Published: 02/02/2024 13:36:25 by Chris Hunt
@@ -432,7 +488,7 @@ __Downloads__: 170 | __Repository__: https://github.com/AvePoint/fly-client
 
 PowerShell module, which makes it easier to work with Business Central Containers on Docker.
 
-__Downloads__: 1,652,693 | __Repository__: 
+__Downloads__: 1,652,707 | __Repository__: 
 
 ## [BCSPowershellModule](https://www.powershellgallery.com/Packages/BCSPowershellModule/1.0.151) | 1.0.151
 
@@ -440,7 +496,7 @@ __Downloads__: 1,652,693 | __Repository__:
 
 BrightCom Solutions AB powershell helper.
 
-__Downloads__: 36,246 | __Repository__: 
+__Downloads__: 36,245 | __Repository__: 
 
 ## [dns](https://www.powershellgallery.com/Packages/dns/0.0.4) | 0.0.4
 
@@ -689,7 +745,7 @@ __Downloads__: 15 | __Repository__: https://git.fs255.org/Scripts/bitwarden
 
 Automation tools for production quality database deployment
 
-__Downloads__: 5,046,045 | __Repository__: https://www.red-gate.com/sca/productpage
+__Downloads__: 5,046,047 | __Repository__: https://www.red-gate.com/sca/productpage
 
 ## [GraphEssentials](https://www.powershellgallery.com/Packages/GraphEssentials/0.0.35) | 0.0.35
 
@@ -753,7 +809,7 @@ __Downloads__: 22,140 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions for working with Office365 and Azure modules
 
-__Downloads__: 23,873 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 23,874 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.Networking](https://www.powershellgallery.com/Packages/AdminToolbox.Networking/2.18.38) | 2.18.38
 
@@ -761,7 +817,7 @@ __Downloads__: 23,873 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Network Troubleshooting Functions
 
-__Downloads__: 56,505 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 56,504 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.MSGraph](https://www.powershellgallery.com/Packages/AdminToolbox.MSGraph/1.2.130) | 1.2.130
 
@@ -801,7 +857,7 @@ __Downloads__: 22,951 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions for Exchange Management
 
-__Downloads__: 24,133 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 24,134 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.EndpointManagement](https://www.powershellgallery.com/Packages/AdminToolbox.EndpointManagement/4.10.7) | 4.10.7
 
@@ -809,7 +865,7 @@ __Downloads__: 24,133 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions for management of endpoints
 
-__Downloads__: 27,874 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 27,873 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.ActiveDirectory](https://www.powershellgallery.com/Packages/AdminToolbox.ActiveDirectory/1.9.128) | 1.9.128
 
@@ -817,7 +873,7 @@ __Downloads__: 27,874 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions for Active Directory
 
-__Downloads__: 27,553 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 27,552 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [ServerPrepTools](https://www.powershellgallery.com/Packages/ServerPrepTools/3.0) | 3.0
 
@@ -1987,60 +2043,4 @@ This modules provides Cmdlets for OCI Apigateway Service
 
 __Downloads__: 4,780 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-## [OCI.PSModules.Announcementsservice](https://www.powershellgallery.com/Packages/OCI.PSModules.Announcementsservice/74.2.0) | 74.2.0
-
-### Published: 01/30/2024 14:24:04 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Announcementsservice Service
-
-__Downloads__: 7,273 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Analytics](https://www.powershellgallery.com/Packages/OCI.PSModules.Analytics/74.2.0) | 74.2.0
-
-### Published: 01/30/2024 14:23:55 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Analytics Service
-
-__Downloads__: 4,655 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Aivision](https://www.powershellgallery.com/Packages/OCI.PSModules.Aivision/74.2.0) | 74.2.0
-
-### Published: 01/30/2024 14:23:47 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Aivision Service
-
-__Downloads__: 3,142 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Aispeech](https://www.powershellgallery.com/Packages/OCI.PSModules.Aispeech/74.2.0) | 74.2.0
-
-### Published: 01/30/2024 14:23:38 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Aispeech Service
-
-__Downloads__: 3,452 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [PowerValidatedSolutions](https://www.powershellgallery.com/Packages/PowerValidatedSolutions/2.8.0.1048) | 2.8.0.1048
-
-### Published: 01/30/2024 14:23:35 by Broadcom
-
-PowerShell Module for VMware Validated Solutions
-
-__Downloads__: 5,247 | __Repository__: https://vmware.github.io/power-validated-solutions-for-cloud-foundation/
-
-## [OCI.PSModules.Ailanguage](https://www.powershellgallery.com/Packages/OCI.PSModules.Ailanguage/74.2.0) | 74.2.0
-
-### Published: 01/30/2024 14:23:31 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Ailanguage Service
-
-__Downloads__: 6,679 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Aidocument](https://www.powershellgallery.com/Packages/OCI.PSModules.Aidocument/74.2.0) | 74.2.0
-
-### Published: 01/30/2024 14:23:22 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Aidocument Service
-
-__Downloads__: 2,026 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-*Updated: Monday, 05 February 2024 09:51:43 UTC*
+*Updated: Monday, 05 February 2024 17:51:39 UTC*

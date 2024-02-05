@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 05 February 2024 09:51:51 UTC
+Updated: Monday, 05 February 2024 17:51:46 UTC
 
 .bat
 .env
@@ -266,7 +266,6 @@ albums
 alc
 alero
 alert
-alerting
 alertmail
 alertmanagement
 alerts
@@ -328,6 +327,7 @@ anglesharp
 angular
 animals
 animate-svg
+animation
 animations
 annotated
 announcement
@@ -440,9 +440,7 @@ arcresourcebridge
 arcus
 area
 arg
-argcomplete
 argument
-argumentcompleter
 arguments
 arm
 arm-json
@@ -504,7 +502,6 @@ atera
 athena
 atlas
 atlassian
-atlassiancli
 atlassianps
 atmosphere
 atom
@@ -584,6 +581,7 @@ availability
 availabilityset
 avalara
 avalonia
+avatar
 avd
 ave
 avepoint
@@ -652,7 +650,6 @@ azure-resource-graph
 azure-ssis
 azureactivedirectory
 azuread
-azureadbackupandrestore
 azureadconnect
 azureadgraph
 azureadtoolkit
@@ -750,7 +747,6 @@ bastion
 bat
 batcat
 batch
-batchclass
 batman
 battery
 bayern
@@ -965,6 +961,7 @@ calculator
 calendar
 callingcode
 callqueue
+calvin-and-hobbes
 cam
 camera
 campaign
@@ -1296,7 +1293,6 @@ columns
 com
 combinations
 combine
-comdata
 comic
 comical
 comics
@@ -1333,8 +1329,6 @@ completer
 completion
 completion-manager
 completionresult
-completions
-complex
 compliance
 compliant
 component
@@ -1652,6 +1646,7 @@ daily
 dane
 dangling
 dapr
+dare
 dark
 dash
 dashboard
@@ -2262,7 +2257,6 @@ envvars
 eol
 eop
 eperl
-ephesoft
 epicor
 episode
 epplus
@@ -2547,6 +2541,7 @@ finance&operations
 financeandoperations
 financeoperations
 financial
+financialedge
 financials
 find
 find-call
@@ -2941,6 +2936,7 @@ gz
 gzip
 gzip-compression
 ha
+haarlemsdagblad
 hack
 hacking
 hacktoberfest
@@ -3010,7 +3006,6 @@ healthz
 heartbeatdiscovery
 heat
 heating
-heavenbay
 helium
 helix
 hello
@@ -3174,10 +3169,12 @@ ibmhttpserver
 icacl
 icinga
 icinga2
+icinga2mssql
 icinga2plugins
 icingachecks
 icingaforwindows
 icingainventory
+icingamssql
 icingaplugins
 icingapowershell
 icingapowershellframework
@@ -3691,6 +3688,8 @@ library
 libvirt
 licence
 license
+license-generator
+licenseautomation
 licensemanagement
 licensemanager
 licensereport
@@ -3937,6 +3936,7 @@ marketplace
 marketplaceordering
 marketplacepublisher
 marking
+marklogic
 marquee
 marvel
 marvell
@@ -3981,6 +3981,7 @@ mdatp
 mdb
 mdbc
 mde
+mdep
 mdi
 mdm
 mdop
@@ -4197,7 +4198,6 @@ msband
 msbi
 msbuild
 msdeploy
-msdn
 msdtc
 msedge
 msexcel
@@ -4232,6 +4232,7 @@ mssql
 mssqlbynarymodule
 mssqlbynarypsmodule
 mssqlmodule
+mssqlplugins
 mssqlserver
 msteams
 mstest
@@ -4277,7 +4278,6 @@ myip
 myitprocess
 myjson
 myjson.com
-myob
 myposh
 mypstag
 mysql
@@ -4533,6 +4533,7 @@ odfb
 odin
 odoo
 oem-charset
+offboarding
 offence
 office
 office_365
@@ -4568,6 +4569,7 @@ on-demand
 on-premise
 onboard
 onboardadministrator
+onboarding
 oncommand-insight
 ondemand
 one
@@ -4730,6 +4732,7 @@ package-transform
 packagemanagement
 packagemanager
 packages
+packagesregistry
 packaging
 packaging psmodule
 packard
@@ -4887,7 +4890,6 @@ pinneditem
 pinterest
 pinvoke
 pip
-pip3
 pipe
 pipedrive
 pipeline
@@ -5008,11 +5010,9 @@ poshy-multimedia
 poshy-net
 poshy-notify-send
 poshy-sh-isms
-poshy-sshconfig
 poshy-viewer-finder
 poshy-wrap
 poshy-wrap-apt
-poshy-wrap-argcomplete
 poshy-wrap-brew
 poshy-wrap-curl
 poshy-wrap-dnf
@@ -5032,7 +5032,6 @@ poshy-wrap-maven
 poshy-wrap-nginx
 poshy-wrap-nmap
 poshy-wrap-npm
-poshy-wrap-pip
 poshy-wrap-pipenv
 poshy-wrap-pyenv
 poshy-wrap-pylint
@@ -5058,9 +5057,7 @@ potato
 pow
 powdrgit
 power
-power-apps
 power-cbr
-power-platform
 power-shell
 powerapps
 powerappsportal
@@ -5147,7 +5144,6 @@ pq
 pranks
 predicate
 prediction
-predictive
 predictive-text
 predictor
 preferences
@@ -5156,6 +5152,7 @@ prefixing
 preparead
 preparealldomains
 prepareschema
+prepend
 preprocessing
 preprocessor
 presentation
@@ -5248,6 +5245,9 @@ provision
 provisioning
 provisioningpackage
 provisonedpackage
+prowl
+prowl-notifications
+prowlapp
 proxmox
 proxmoxve
 proxsys
@@ -5306,7 +5306,6 @@ pscommand_aar
 pscommand_acp
 pscommand_acse
 pscommand_acsp
-pscommand_add_ssh
 pscommand_add-envpathitem
 pscommand_add-envvarpathitem
 pscommand_add-gitlfstrackedfiles
@@ -6135,7 +6134,6 @@ pscommand_invoke-gotoolfix
 pscommand_invoke-goversion
 pscommand_invoke-govet
 pscommand_invoke-gowork
-pscommand_invoke-greppipfreeze
 pscommand_invoke-helm
 pscommand_invoke-helminstall
 pscommand_invoke-helmsearch
@@ -6295,10 +6293,6 @@ pscommand_invoke-pipenvuninstall
 pscommand_invoke-pipenvupdate
 pscommand_invoke-pipenvvenv
 pscommand_invoke-pipenvwhere
-pscommand_invoke-pipinstall
-pscommand_invoke-pipinstallupgrade
-pscommand_invoke-piplistoutdated
-pscommand_invoke-pipuninstall
 pscommand_invoke-pyenv
 pscommand_invoke-pylintreportsdisabled
 pscommand_invoke-ruby
@@ -6747,22 +6741,6 @@ pscommand_pgr
 pscommand_pi
 pscommand_pidev
 pscommand_ping
-pscommand_pip
-pscommand_pip_package_location
-pscommand_pip3
-pscommand_pip3_package_location
-pscommand_pipgi
-pscommand_pipi
-pscommand_pipig
-pscommand_pipigb
-pscommand_pipigp
-pscommand_pipir
-pscommand_piplo
-pscommand_pipreq
-pscommand_pipu
-pscommand_pipun
-pscommand_pipunall
-pscommand_pipupall
 pscommand_pl
 pscommand_po
 pscommand_pop-gitstashentry
@@ -6795,7 +6773,6 @@ pscommand_python
 pscommand_python3
 pscommand_rb
 pscommand_read-dotenv
-pscommand_register-argcompleteargumentcompleter
 pscommand_remove_gem
 pscommand_remove-dockercontainerall
 pscommand_remove-dockerunusedimage
@@ -6862,11 +6839,9 @@ pscommand_show-proxy
 pscommand_shttp
 pscommand_shuf
 pscommand_sl
-pscommand_ssh-add-all
 pscommand_ssh-disable-proxy
 pscommand_ssh-enable-proxy
 pscommand_ssh-show-proxy
-pscommand_sshlist
 pscommand_start-gitbisect
 pscommand_start-gitcherrypick
 pscommand_start-gitcherrypickexplained
@@ -6874,10 +6849,6 @@ pscommand_stop-gitcherrypick
 pscommand_switch-gitbranchandtrack
 pscommand_switch-gitbranchmain
 pscommand_switch-gitbranchnew
-pscommand_syspip
-pscommand_syspip_package_location
-pscommand_syspip3
-pscommand_syspip3_package_location
 pscommand_ta
 pscommand_tad
 pscommand_test-command
@@ -7116,7 +7087,6 @@ psfive9admin
 psfoldersize
 psfunction__python3
 psfunction_aar
-psfunction_add_ssh
 psfunction_add-envpathitem
 psfunction_add-envvarpathitem
 psfunction_add-gitlfstrackedfiles
@@ -7545,7 +7515,6 @@ psfunction_invoke-gotoolfix
 psfunction_invoke-goversion
 psfunction_invoke-govet
 psfunction_invoke-gowork
-psfunction_invoke-greppipfreeze
 psfunction_invoke-helm
 psfunction_invoke-helminstall
 psfunction_invoke-helmsearch
@@ -7705,10 +7674,6 @@ psfunction_invoke-pipenvuninstall
 psfunction_invoke-pipenvupdate
 psfunction_invoke-pipenvvenv
 psfunction_invoke-pipenvwhere
-psfunction_invoke-pipinstall
-psfunction_invoke-pipinstallupgrade
-psfunction_invoke-piplistoutdated
-psfunction_invoke-pipuninstall
 psfunction_invoke-pyenv
 psfunction_invoke-pylintreportsdisabled
 psfunction_invoke-ruby
@@ -7988,13 +7953,6 @@ psfunction_npm-enable-proxy
 psfunction_npm-show-proxy
 psfunction_open_command
 psfunction_peek
-psfunction_pipig
-psfunction_pipigb
-psfunction_pipigp
-psfunction_pipir
-psfunction_pipreq
-psfunction_pipunall
-psfunction_pipupall
 psfunction_pop-gitstashentry
 psfunction_proxy-help
 psfunction_publish-gitcommitsforcefullywithlease
@@ -8010,7 +7968,6 @@ psfunction_push-gitstashentrywithmessage
 psfunction_pwshrc-show-proxy
 psfunction_pyserver
 psfunction_read-dotenv
-psfunction_register-argcompleteargumentcompleter
 psfunction_remove-dockercontainerall
 psfunction_remove-dockerunusedimage
 psfunction_remove-envpathitem
@@ -8072,11 +8029,9 @@ psfunction_show-gitremote
 psfunction_show-proxy
 psfunction_shttp
 psfunction_shuf
-psfunction_ssh-add-all
 psfunction_ssh-disable-proxy
 psfunction_ssh-enable-proxy
 psfunction_ssh-show-proxy
-psfunction_sshlist
 psfunction_start-gitbisect
 psfunction_start-gitcherrypick
 psfunction_start-gitcherrypickexplained
@@ -8163,6 +8118,7 @@ psjob
 psjobs
 psjobthreads
 pskeepass
+pslocalgallery
 psloganalytics
 psm
 psm1
@@ -8263,6 +8219,7 @@ purple
 purview
 push
 push-location
+push-notifications
 pushd
 pushover
 pushoverapi
@@ -8346,6 +8303,7 @@ raidcontrollercmdlets
 railways
 rainbow
 raisers
+raisersedge
 raj
 ram
 ram-it
@@ -8636,6 +8594,7 @@ robust
 roca
 rock
 rocket
+rocketcyber
 roco
 rocolatey
 role
@@ -8700,6 +8659,7 @@ russia
 rust
 rust-lang
 ryanairps
+ryver
 s.ds.p
 s1
 s3
@@ -9088,8 +9048,6 @@ single
 singlestore
 singleton
 sinks
-sintez
-sintez.module.rds
 sit
 site
 site_navigation
@@ -9112,6 +9070,7 @@ skolnilogin
 sku
 skunklab
 sky
+skyapi
 skype
 skype_for_business
 skype4b
@@ -9330,7 +9289,6 @@ ssc
 ssdt
 sse
 ssh
-ssh-config
 ssh-keygen
 sshmanagement
 sshservers
@@ -9542,8 +9500,6 @@ sysman
 sysmon
 sysop
 syspass
-syspip
-syspip3
 sysprep
 system
 system information 1394 controller baseboard motherboard systemboard battery bios bus cache memory cd dvd rom drive compact disc desktop monitor disk partition fan floppy glide point heatpipe ide infrared device keyboard local logical array mouse'
@@ -9571,7 +9527,6 @@ tab-completion
 tab-expansion
 tabcompletion
 tabexpansion
-tabexpansion2
 tablacus
 table
 tableau
@@ -9919,6 +9874,7 @@ types.ps1xml
 typescript
 tzutil
 uac
+uag
 uberagent
 ubiquiti
 ubnt
@@ -10030,6 +9986,7 @@ universal-automation
 universal-dashboard
 universalarchive
 universaldashboard
+universialaccessgateway
 university
 unix
 unlinked
@@ -10596,6 +10553,7 @@ write-color
 write-colour
 write-debug
 write-host
+write-information
 write-log
 write-loganalytics
 write-message
