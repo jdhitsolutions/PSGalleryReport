@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Sunday, 04 February 2024 17:51:50 UTC
+Updated: Monday, 05 February 2024 02:04:18 UTC
 
 .bat
 .env
@@ -80,6 +80,7 @@ abuseipdb
 acas
 accelerator
 access
+access-control
 access-points
 accesscontrol
 accesscontroldsc
@@ -329,7 +330,6 @@ anglesharp
 angular
 animals
 animate-svg
-animation
 animations
 annotated
 announcement
@@ -658,6 +658,7 @@ azuread
 azureadbackupandrestore
 azureadconnect
 azureadgraph
+azureadtoolkit
 azureadvancedthreatprotection
 azureappconfiguration
 azureas
@@ -927,7 +928,6 @@ builder
 building
 buildingfile
 buildingmapping
-buildkit
 buildkite
 buildmaster
 builds
@@ -979,6 +979,7 @@ canonical
 cantara
 capability
 capacity
+capacitymanagement
 capgemini
 capslock
 captcha
@@ -1102,6 +1103,7 @@ choco-bear
 chocobear
 chocolatey
 choice
+chooser
 christaylorcodes
 christmas
 chrome
@@ -1265,6 +1267,7 @@ codegen
 codegeneration
 codegenerator
 codepoint
+codereview
 codes
 codesign
 codesigning
@@ -1442,7 +1445,6 @@ conversational
 conversion
 convert
 convert-dtexceptiontomessage
-convert-movietogif
 convert-sid
 convert-windowsimage
 converter
@@ -1539,6 +1541,7 @@ credentials
 credentials-cache
 credentialsmanager
 credentialstore
+credentialutility
 credman
 credmanager
 crescendo
@@ -1646,7 +1649,6 @@ dacfx
 dacl
 dacpac
 dacpackage
-dagger
 daily
 dane
 dangling
@@ -1720,7 +1722,6 @@ dates
 datetaken
 datetime
 datto
-dattodbpool
 dattormm
 datum
 dave
@@ -1739,7 +1740,6 @@ dbeaver
 dbfs
 dbnull
 dbops
-dbpool
 dbup
 dbwebapi
 dc
@@ -1791,6 +1791,7 @@ delegated
 delegationmodel
 delete
 delete-orphan-branches
+deleteuserprofile
 delivery
 dell
 dellemc
@@ -2044,6 +2045,8 @@ drawio
 dreams
 dreamweaver
 dreary
+drift
+driftmonitor
 drink
 drive
 drive letter
@@ -2066,6 +2069,7 @@ drsrule
 drupal
 drush
 dry
+ds
 ds-client
 ds-utils
 dsa
@@ -2075,6 +2079,7 @@ dsc-resource
 dsc-resources
 dsccertificates
 dscconcepts
+dscdriftmonitor
 dsclient
 dscresource
 dscresourcekit
@@ -2278,6 +2283,7 @@ esae
 escape
 escapecodes
 escapesequences
+escaping
 ese
 esent
 esoteric
@@ -2316,7 +2322,6 @@ eventcollector
 eventful
 eventgrid
 eventhub
-eventing
 eventlist
 eventlog
 eventlogchannel
@@ -2324,7 +2329,6 @@ eventlogchannels
 eventlogmanifest
 eventlogs
 eventmonitor
-eventmonitoring
 eventprocessor
 events
 eventsubscription
@@ -2389,7 +2393,6 @@ experience
 experiments
 expired
 expiring
-expiry
 exploit
 exploits
 exploration
@@ -2844,6 +2847,7 @@ godaddy
 golang
 goldengate
 goldsource
+goldsource-dedicated-server
 google
 google-chrome
 google-histogram
@@ -2965,7 +2969,6 @@ harden
 harden-windows-security
 hardening
 hardlink
-hardmatch
 hardware
 harperdb
 hartokens
@@ -3091,7 +3094,6 @@ hosts-file
 hostsfile
 hot-water
 hotkey
-hotkeys
 howto
 hp
 hpc
@@ -3169,12 +3171,10 @@ ibmhttpserver
 icacl
 icinga
 icinga2
-icinga2mssql
 icinga2plugins
 icingachecks
 icingaforwindows
 icingainventory
-icingamssql
 icingaplugins
 icingapowershell
 icingapowershellframework
@@ -3341,7 +3341,6 @@ interactive
 interactive-brokers
 interface
 interlogix
-internal
 internet
 internet-explorer
 internetconnection
@@ -3362,6 +3361,7 @@ investigation
 investment
 investments
 invitation
+invocation
 invoice
 invoke
 invoke-asadmin
@@ -3436,6 +3436,7 @@ isvalidip
 it
 it-support
 it-tool
+it-tools
 italic-text
 item
 itemlist
@@ -3577,6 +3578,7 @@ kms
 knapsack
 knetps
 knob
+knowbe4
 knowledge
 knowledgebase
 koans
@@ -3944,7 +3946,6 @@ mask
 mass
 masstransit
 masterconfiguration
-match
 matcharray
 matchhashtable
 materialdesign
@@ -4053,7 +4054,6 @@ microsoft_online
 microsoft_teams
 microsoft-graph
 microsoft-teams
-microsoft-web-platform
 microsoft-windows
 microsoft.graph
 microsoft.graph.api
@@ -4115,6 +4115,7 @@ mitrend
 mittelschule
 mixedreality
 mixer
+mkdocs
 mkpasswd
 ml
 ml.net
@@ -4226,7 +4227,6 @@ mssql
 mssqlbynarymodule
 mssqlbynarypsmodule
 mssqlmodule
-mssqlplugins
 mssqlserver
 msteams
 mstest
@@ -4391,6 +4391,7 @@ nexenta
 nexentastor
 nexthink
 nexus
+nexusiq
 nfsv3
 ngen
 ngfw
@@ -4537,6 +4538,7 @@ office2016
 office2019
 office365
 officedev
+officegraph
 officemessageencryption
 officertool
 offline
@@ -4593,7 +4595,6 @@ onyphe
 onyphe.io
 oob
 oop
-op
 opa
 opc
 open
@@ -4979,9 +4980,9 @@ posh-ribbon
 posh-ssh
 poshbot
 poshcommence
+poshevents
 poshgraph
 poshgraph-sdk
-poshgrouppolicy
 poshkeepass
 poshlog
 poshorigin
@@ -5002,7 +5003,7 @@ poshy-lucidity
 poshy-multimedia
 poshy-net
 poshy-notify-send
-poshy-sshconfig
+poshy-sh-isms
 poshy-viewer-finder
 poshy-wrap
 poshy-wrap-apt
@@ -5055,7 +5056,6 @@ power
 power-apps
 power-cbr
 power-platform
-power-shell
 powerapps
 powerappsportal
 powerarcade
@@ -5069,6 +5069,7 @@ powercligoodies
 powercommander
 powerdex
 powerforensics
+powergraph
 powergui
 powermax
 powerplan
@@ -5082,17 +5083,20 @@ powershell
 powershell-class
 powershell-cmdlets
 powershell-core
+powershell-core-releases-api
 powershell-course
 powershell-credentials
 powershell-dsc
 powershell-examples
 powershell-gallery
+powershell-github-repo
 powershell-gitlab
 powershell-graphql
 powershell-isprime
 powershell-lightning
 powershell-module
 powershell-modules
+powershell-releases-api
 powershell-remoting
 powershell-terminal
 powershell-terminal-copilot
@@ -5137,7 +5141,6 @@ pq
 pranks
 predicate
 prediction
-predictive
 predictive-text
 predictor
 preferences
@@ -5300,7 +5303,6 @@ pscommand_aar
 pscommand_acp
 pscommand_acse
 pscommand_acsp
-pscommand_add_ssh
 pscommand_add-envpathitem
 pscommand_add-envvarpathitem
 pscommand_add-gitlfstrackedfiles
@@ -6856,11 +6858,9 @@ pscommand_show-proxy
 pscommand_shttp
 pscommand_shuf
 pscommand_sl
-pscommand_ssh-add-all
 pscommand_ssh-disable-proxy
 pscommand_ssh-enable-proxy
 pscommand_ssh-show-proxy
-pscommand_sshlist
 pscommand_start-gitbisect
 pscommand_start-gitcherrypick
 pscommand_start-gitcherrypickexplained
@@ -6875,10 +6875,14 @@ pscommand_syspip3_package_location
 pscommand_ta
 pscommand_tad
 pscommand_test-command
+pscommand_test-d
 pscommand_test-elevation
+pscommand_test-f
 pscommand_test-linkcapability
+pscommand_test-o
 pscommand_test-reparsepoint
 pscommand_test-sessioninteractivity
+pscommand_test-x
 pscommand_tf
 pscommand_tfa
 pscommand_tfc
@@ -7092,7 +7096,6 @@ psedition_psedition_core
 psedition_psedition_desktop
 psedition_windows
 psedition-desktop
-psediton_desktop
 psenv
 pses
 psexcel
@@ -7106,7 +7109,6 @@ psfive9admin
 psfoldersize
 psfunction__python3
 psfunction_aar
-psfunction_add_ssh
 psfunction_add-envpathitem
 psfunction_add-envvarpathitem
 psfunction_add-gitlfstrackedfiles
@@ -8062,11 +8064,9 @@ psfunction_show-gitremote
 psfunction_show-proxy
 psfunction_shttp
 psfunction_shuf
-psfunction_ssh-add-all
 psfunction_ssh-disable-proxy
 psfunction_ssh-enable-proxy
 psfunction_ssh-show-proxy
-psfunction_sshlist
 psfunction_start-gitbisect
 psfunction_start-gitcherrypick
 psfunction_start-gitcherrypickexplained
@@ -8075,10 +8075,14 @@ psfunction_switch-gitbranchandtrack
 psfunction_switch-gitbranchmain
 psfunction_switch-gitbranchnew
 psfunction_test-command
+psfunction_test-d
 psfunction_test-elevation
+psfunction_test-f
 psfunction_test-linkcapability
+psfunction_test-o
 psfunction_test-reparsepoint
 psfunction_test-sessioninteractivity
+psfunction_test-x
 psfunction_universalarchive
 psfunction_update-gitbranchbasefrombranchmain
 psfunction_update-gitbranchbasefrommain
@@ -8149,7 +8153,6 @@ psjob
 psjobs
 psjobthreads
 pskeepass
-pslocalgallery
 psloganalytics
 psm
 psm1
@@ -8308,6 +8311,7 @@ query
 queryexcel
 queue
 queues
+queuing
 quickaccess
 quickbase
 quickbooks
@@ -8319,6 +8323,7 @@ quote
 quoteoftheday
 quotes
 quotestoliveby
+quoting
 quser
 qword
 r
@@ -8359,6 +8364,7 @@ razzle
 rbac
 rbacmodel
 rbsu
+rcon
 rcs
 rcu
 rdb
@@ -8571,6 +8577,7 @@ retail
 retention
 retro
 retry
+returnuserprofile
 retype
 reuse
 reverse-engineer
@@ -8728,6 +8735,7 @@ sapstartstopazure
 sarcasm
 sarif
 sas
+sat
 satirical
 save
 savedcreds
@@ -8782,7 +8790,6 @@ scom
 sconfig
 scoop
 scope
-score
 scouterna
 scouternasetjanster
 scoutnet
@@ -8862,6 +8869,7 @@ securescore
 securesphere
 securestring
 security
+security-awareness-training
 security-policy
 security-score
 security-txt
@@ -9054,7 +9062,6 @@ siem
 sif
 sigma
 sign
-signalfx
 signalr
 signature
 signed
@@ -9203,12 +9210,14 @@ sophos
 sort
 sorting
 source
+source-dedicated-server
 sourcecontrol
 sourceforge
 sourcegraph
 sourcemod
 sourceone
 sourcepawn
+sourcequery
 sovcloud
 space
 spaces
@@ -9313,7 +9322,6 @@ ssc
 ssdt
 sse
 ssh
-ssh-config
 ssh-keygen
 sshmanagement
 sshservers
@@ -9324,6 +9332,7 @@ sslcertificate
 sslflags
 ssllabs
 ssllabs-scan
+sslprotocol
 ssm
 sso
 sspi
@@ -9338,6 +9347,7 @@ stackhci
 stackmonitoring
 stackoverflow
 staffhub
+staging
 stale
 stan
 stanc
@@ -9376,6 +9386,7 @@ stderr
 stdio
 stdout
 steam
+steam-games
 steamcmd
 stepper
 sticker
@@ -9450,6 +9461,7 @@ subset
 subsystem
 subtitle
 success
+successfactors
 sudo
 sugar
 sugarcrm
@@ -9463,6 +9475,7 @@ superheros
 supermarket
 support
 support-tool
+support-tools
 suppress
 supress-reboot
 surestacks
@@ -9509,6 +9522,7 @@ synthesis
 synthetics
 sysadmin
 sysadmin-tool
+sysadmin-tools
 sysctr
 sysinfo
 sysinfocmdlets
@@ -9525,6 +9539,7 @@ sysprep
 system
 system information 1394 controller baseboard motherboard systemboard battery bios bus cache memory cd dvd rom drive compact disc desktop monitor disk partition fan floppy glide point heatpipe ide infrared device keyboard local logical array mouse'
 system-administration
+system-group
 system-service
 system-services
 system.directoryservices.protocols
@@ -9552,7 +9567,6 @@ tablacus
 table
 tableau
 tableauserver
-tabler
 tables
 tablestorage
 tabs
@@ -9632,6 +9646,7 @@ tenantmanagercontrolplane
 teradata
 termbin
 terminal
+terminal-interface
 terminal-services
 terminal.gui
 terminalnotifier
@@ -9742,12 +9757,14 @@ tls
 tls11
 tls12
 tlsa
+tlsprotocol
 tlsrpt
 tmux
 to-do
 toast
 toasts
 tobias
+toc
 todo
 todo.txt
 toggl
@@ -9861,6 +9878,7 @@ ttrpg
 tts
 tubedownloader
 tui
+tulpep
 tuner
 tuning
 tutorial
@@ -9904,6 +9922,7 @@ ud-breadcrumb
 ud-breadcrumbitem
 ud-burger
 ud-button
+ud-buttonloader
 ud-buttonparticle
 ud-calendar
 ud-circle
@@ -10026,7 +10045,7 @@ upgrade
 uplift
 uplink
 ups
-upstream
+upsource
 uptime
 uptimerobot
 uptobox
@@ -10137,6 +10156,7 @@ venafi
 vencord
 vendor
 venue
+venvlink
 vera
 veracrypt
 verbose psmodule
@@ -10244,6 +10264,7 @@ vplex
 vpn
 vpn-certificate
 vpro
+vps
 vra
 vrchat
 vrealize
@@ -10347,7 +10368,6 @@ webjea
 webmanagement
 webmanagementservice
 webpage
-webpi
 webreport
 webrequest
 webresponse
@@ -10430,6 +10450,8 @@ windows-registry
 windows-remoting
 windows-server-2016
 windows-terminal
+windows-user-folder
+windows-user-profile
 windows10
 windows10mui
 windows11
@@ -10508,7 +10530,6 @@ wmf
 wmf5
 wmi
 wmifilter
-wmipermanentevents
 wol
 wolfram
 wolframalpha
@@ -10576,6 +10597,7 @@ writeprogress
 writer
 ws-federation
 wsapi
+wsb
 wsl
 wsl2
 wsl2 psmodule psedition_core
@@ -10670,6 +10692,7 @@ z
 zabbix
 zabbixps
 zap
+zcat
 zendesk
 zerotrust
 zerto
