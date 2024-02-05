@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 05 February 2024 02:04:18 UTC
+Updated: Monday, 05 February 2024 09:51:51 UTC
 
 .bat
 .env
@@ -27,7 +27,6 @@ Updated: Monday, 05 February 2024 02:04:18 UTC
 1803
 1809
 1c
-1e
 1password
 1poshword
 200
@@ -124,7 +123,6 @@ activedirectoryauthenticationlibrary
 activedirectorycertificateservices
 activedirectoryfederationservices
 activedirectry-html
-activeefficiency
 activehours
 activeresponse
 activesession
@@ -586,7 +584,6 @@ availability
 availabilityset
 avalara
 avalonia
-avatar
 avd
 ave
 avepoint
@@ -928,6 +925,7 @@ builder
 building
 buildingfile
 buildingmapping
+buildkit
 buildkite
 buildmaster
 builds
@@ -967,7 +965,6 @@ calculator
 calendar
 callingcode
 callqueue
-calvin-and-hobbes
 cam
 camera
 campaign
@@ -1445,6 +1442,7 @@ conversational
 conversion
 convert
 convert-dtexceptiontomessage
+convert-movietogif
 convert-sid
 convert-windowsimage
 converter
@@ -1649,11 +1647,11 @@ dacfx
 dacl
 dacpac
 dacpackage
+dagger
 daily
 dane
 dangling
 dapr
-dare
 dark
 dash
 dashboard
@@ -1722,6 +1720,7 @@ dates
 datetaken
 datetime
 datto
+dattodbpool
 dattormm
 datum
 dave
@@ -1740,6 +1739,7 @@ dbeaver
 dbfs
 dbnull
 dbops
+dbpool
 dbup
 dbwebapi
 dc
@@ -2322,6 +2322,7 @@ eventcollector
 eventful
 eventgrid
 eventhub
+eventing
 eventlist
 eventlog
 eventlogchannel
@@ -2329,6 +2330,7 @@ eventlogchannels
 eventlogmanifest
 eventlogs
 eventmonitor
+eventmonitoring
 eventprocessor
 events
 eventsubscription
@@ -2393,6 +2395,7 @@ experience
 experiments
 expired
 expiring
+expiry
 exploit
 exploits
 exploration
@@ -2544,7 +2547,6 @@ finance&operations
 financeandoperations
 financeoperations
 financial
-financialedge
 financials
 find
 find-call
@@ -2939,7 +2941,6 @@ gz
 gzip
 gzip-compression
 ha
-haarlemsdagblad
 hack
 hacking
 hacktoberfest
@@ -2969,6 +2970,7 @@ harden
 harden-windows-security
 hardening
 hardlink
+hardmatch
 hardware
 harperdb
 hartokens
@@ -3094,6 +3096,7 @@ hosts-file
 hostsfile
 hot-water
 hotkey
+hotkeys
 howto
 hp
 hpc
@@ -3341,6 +3344,7 @@ interactive
 interactive-brokers
 interface
 interlogix
+internal
 internet
 internet-explorer
 internetconnection
@@ -3504,6 +3508,7 @@ json-converter
 json-transform
 json+
 jsonplus
+jsonwebencryption
 jsonwebkey
 jsonwebsignature
 jsonwebtoken
@@ -3520,6 +3525,7 @@ jupyter
 jupytor
 justenoughadministration
 jvm
+jwe
 jwk
 jws
 jwt
@@ -3685,8 +3691,6 @@ library
 libvirt
 licence
 license
-license-generator
-licenseautomation
 licensemanagement
 licensemanager
 licensereport
@@ -3933,7 +3937,6 @@ marketplace
 marketplaceordering
 marketplacepublisher
 marking
-marklogic
 marquee
 marvel
 marvell
@@ -3946,6 +3949,7 @@ mask
 mass
 masstransit
 masterconfiguration
+match
 matcharray
 matchhashtable
 materialdesign
@@ -3977,7 +3981,6 @@ mdatp
 mdb
 mdbc
 mde
-mdep
 mdi
 mdm
 mdop
@@ -3995,6 +3998,7 @@ mediaplayer
 mediaservices
 mediawiki
 meditation
+meesman
 meeting
 meetup
 meetup.com
@@ -4054,6 +4058,7 @@ microsoft_online
 microsoft_teams
 microsoft-graph
 microsoft-teams
+microsoft-web-platform
 microsoft-windows
 microsoft.graph
 microsoft.graph.api
@@ -4528,7 +4533,6 @@ odfb
 odin
 odoo
 oem-charset
-offboarding
 offence
 office
 office_365
@@ -4564,7 +4568,6 @@ on-demand
 on-premise
 onboard
 onboardadministrator
-onboarding
 oncommand-insight
 ondemand
 one
@@ -4595,6 +4598,7 @@ onyphe
 onyphe.io
 oob
 oop
+op
 opa
 opc
 open
@@ -4726,7 +4730,6 @@ package-transform
 packagemanagement
 packagemanager
 packages
-packagesregistry
 packaging
 packaging psmodule
 packard
@@ -4983,6 +4986,7 @@ poshcommence
 poshevents
 poshgraph
 poshgraph-sdk
+poshgrouppolicy
 poshkeepass
 poshlog
 poshorigin
@@ -5004,6 +5008,7 @@ poshy-multimedia
 poshy-net
 poshy-notify-send
 poshy-sh-isms
+poshy-sshconfig
 poshy-viewer-finder
 poshy-wrap
 poshy-wrap-apt
@@ -5056,6 +5061,7 @@ power
 power-apps
 power-cbr
 power-platform
+power-shell
 powerapps
 powerappsportal
 powerarcade
@@ -5141,6 +5147,7 @@ pq
 pranks
 predicate
 prediction
+predictive
 predictive-text
 predictor
 preferences
@@ -5149,7 +5156,6 @@ prefixing
 preparead
 preparealldomains
 prepareschema
-prepend
 preprocessing
 preprocessor
 presentation
@@ -5242,9 +5248,6 @@ provision
 provisioning
 provisioningpackage
 provisonedpackage
-prowl
-prowl-notifications
-prowlapp
 proxmox
 proxmoxve
 proxsys
@@ -5303,6 +5306,7 @@ pscommand_aar
 pscommand_acp
 pscommand_acse
 pscommand_acsp
+pscommand_add_ssh
 pscommand_add-envpathitem
 pscommand_add-envvarpathitem
 pscommand_add-gitlfstrackedfiles
@@ -6858,9 +6862,11 @@ pscommand_show-proxy
 pscommand_shttp
 pscommand_shuf
 pscommand_sl
+pscommand_ssh-add-all
 pscommand_ssh-disable-proxy
 pscommand_ssh-enable-proxy
 pscommand_ssh-show-proxy
+pscommand_sshlist
 pscommand_start-gitbisect
 pscommand_start-gitcherrypick
 pscommand_start-gitcherrypickexplained
@@ -7096,6 +7102,7 @@ psedition_psedition_core
 psedition_psedition_desktop
 psedition_windows
 psedition-desktop
+psediton_desktop
 psenv
 pses
 psexcel
@@ -7109,6 +7116,7 @@ psfive9admin
 psfoldersize
 psfunction__python3
 psfunction_aar
+psfunction_add_ssh
 psfunction_add-envpathitem
 psfunction_add-envvarpathitem
 psfunction_add-gitlfstrackedfiles
@@ -8064,9 +8072,11 @@ psfunction_show-gitremote
 psfunction_show-proxy
 psfunction_shttp
 psfunction_shuf
+psfunction_ssh-add-all
 psfunction_ssh-disable-proxy
 psfunction_ssh-enable-proxy
 psfunction_ssh-show-proxy
+psfunction_sshlist
 psfunction_start-gitbisect
 psfunction_start-gitcherrypick
 psfunction_start-gitcherrypickexplained
@@ -8253,7 +8263,6 @@ purple
 purview
 push
 push-location
-push-notifications
 pushd
 pushover
 pushoverapi
@@ -8337,7 +8346,6 @@ raidcontrollercmdlets
 railways
 rainbow
 raisers
-raisersedge
 raj
 ram
 ram-it
@@ -8628,7 +8636,6 @@ robust
 roca
 rock
 rocket
-rocketcyber
 roco
 rocolatey
 role
@@ -8693,7 +8700,6 @@ russia
 rust
 rust-lang
 ryanairps
-ryver
 s.ds.p
 s1
 s3
@@ -8790,6 +8796,7 @@ scom
 sconfig
 scoop
 scope
+score
 scouterna
 scouternasetjanster
 scoutnet
@@ -9062,6 +9069,7 @@ siem
 sif
 sigma
 sign
+signalfx
 signalr
 signature
 signed
@@ -9104,7 +9112,6 @@ skolnilogin
 sku
 skunklab
 sky
-skyapi
 skype
 skype_for_business
 skype4b
@@ -9197,6 +9204,7 @@ soltra
 solution
 solutions
 sonarcloud
+sonarqube
 sonarr
 sonatype
 songs
@@ -9322,6 +9330,7 @@ ssc
 ssdt
 sse
 ssh
+ssh-config
 ssh-keygen
 sshmanagement
 sshservers
@@ -9567,6 +9576,7 @@ tablacus
 table
 tableau
 tableauserver
+tabler
 tables
 tablestorage
 tabs
@@ -10046,6 +10056,7 @@ uplift
 uplink
 ups
 upsource
+upstream
 uptime
 uptimerobot
 uptobox
@@ -10368,6 +10379,7 @@ webjea
 webmanagement
 webmanagementservice
 webpage
+webpi
 webreport
 webrequest
 webresponse
@@ -10530,6 +10542,7 @@ wmf
 wmf5
 wmi
 wmifilter
+wmipermanentevents
 wol
 wolfram
 wolframalpha
@@ -10583,7 +10596,6 @@ write-color
 write-colour
 write-debug
 write-host
-write-information
 write-log
 write-loganalytics
 write-message
