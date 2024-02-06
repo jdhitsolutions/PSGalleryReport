@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 05 February 2024 17:51:46 UTC
+Updated: Tuesday, 06 February 2024 02:01:43 UTC
 
 .bat
 .env
@@ -27,6 +27,7 @@ Updated: Monday, 05 February 2024 17:51:46 UTC
 1803
 1809
 1c
+1e
 1password
 1poshword
 200
@@ -123,6 +124,7 @@ activedirectoryauthenticationlibrary
 activedirectorycertificateservices
 activedirectoryfederationservices
 activedirectry-html
+activeefficiency
 activehours
 activeresponse
 activesession
@@ -266,6 +268,7 @@ albums
 alc
 alero
 alert
+alerting
 alertmail
 alertmanagement
 alerts
@@ -441,6 +444,7 @@ arcus
 area
 arg
 argument
+argumentcompleter
 arguments
 arm
 arm-json
@@ -465,7 +469,6 @@ asbuiltreport
 asc
 ascii
 ascii85
-asciiart
 asdatabase
 asigra
 asjob
@@ -502,6 +505,7 @@ atera
 athena
 atlas
 atlassian
+atlassiancli
 atlassianps
 atmosphere
 atom
@@ -581,13 +585,10 @@ availability
 availabilityset
 avalara
 avalonia
-avatar
 avd
 ave
 avepoint
 avi
-avm
-avmtools
 avro
 avs
 avset
@@ -650,6 +651,7 @@ azure-resource-graph
 azure-ssis
 azureactivedirectory
 azuread
+azureadbackupandrestore
 azureadconnect
 azureadgraph
 azureadtoolkit
@@ -747,6 +749,7 @@ bastion
 bat
 batcat
 batch
+batchclass
 batman
 battery
 bayern
@@ -938,7 +941,6 @@ business
 businesscentral
 businessdays
 businesshours
-businessobjects
 businessrulesengine
 businesstime
 bxor
@@ -974,7 +976,6 @@ cantara
 capability
 capacity
 capacitymanagement
-capgemini
 capslock
 captcha
 capture
@@ -1003,7 +1004,6 @@ cavium
 cb
 cblueshell
 cbr
-cbz
 cchoco
 cchocoex
 ccm
@@ -1293,6 +1293,7 @@ columns
 com
 combinations
 combine
+comdata
 comic
 comical
 comics
@@ -1329,6 +1330,7 @@ completer
 completion
 completion-manager
 completionresult
+complex
 compliance
 compliant
 component
@@ -1538,7 +1540,6 @@ credman
 credmanager
 crescendo
 crescendobuilt
-cresendo
 crestron
 crime
 crlf
@@ -1721,7 +1722,6 @@ datum
 dave
 davinci
 dax
-dayinweek
 days
 days-week
 db
@@ -2088,7 +2088,6 @@ dsutils
 dtc
 dts
 dtsx
-dtx
 du
 dual-stack
 duck
@@ -2257,6 +2256,7 @@ envvars
 eol
 eop
 eperl
+ephesoft
 epicor
 episode
 epplus
@@ -2480,7 +2480,6 @@ fifa
 figlet
 file
 file-association
-file-copy
 file-encoding
 file-extension
 file-extension-association
@@ -2655,8 +2654,6 @@ freshservice-api
 freshserviceps
 freshworks
 friendly
-fritz
-fritzbox
 front
 frontapp
 frontdoor
@@ -2769,7 +2766,6 @@ get-dtdriverupdates
 get-dtscriptnewcmpackagefromdriverpackpackagedefinitionsms
 get-dtscriptnewcmtasksequencefromdriverpackpackagedefinitionsms
 get-emptyadgroups
-get-externalip
 get-firmwaretype
 get-help
 get-history
@@ -3006,6 +3002,7 @@ healthz
 heartbeatdiscovery
 heat
 heating
+heavenbay
 helium
 helix
 hello
@@ -3279,7 +3276,6 @@ information-technology
 informationbarriers
 informationtechnology
 informationtechnologyoperations
-informix
 infosec
 infrastructure
 infrastructureascode
@@ -3553,7 +3549,6 @@ kerberos
 kernel32
 kestrel
 key
-key-vault
 key2wocas
 keybase
 keybinding
@@ -3898,7 +3893,6 @@ man-highlighting
 manage
 manage-wmi
 manageability
-managed-identity
 manageddisks
 managedidentities
 managedidentity
@@ -4198,6 +4192,7 @@ msband
 msbi
 msbuild
 msdeploy
+msdn
 msdtc
 msedge
 msexcel
@@ -4278,6 +4273,7 @@ myip
 myitprocess
 myjson
 myjson.com
+myob
 myposh
 mypstag
 mysql
@@ -4732,7 +4728,6 @@ package-transform
 packagemanagement
 packagemanager
 packages
-packagesregistry
 packaging
 packaging psmodule
 packard
@@ -4890,6 +4885,7 @@ pinneditem
 pinterest
 pinvoke
 pip
+pip3
 pipe
 pipedrive
 pipeline
@@ -4926,7 +4922,6 @@ plex
 plist
 plog
 plot
-plug-n-copy
 plugin
 plugins
 pluralsight
@@ -5032,10 +5027,10 @@ poshy-wrap-maven
 poshy-wrap-nginx
 poshy-wrap-nmap
 poshy-wrap-npm
+poshy-wrap-pip
 poshy-wrap-pipenv
 poshy-wrap-pyenv
 poshy-wrap-pylint
-poshy-wrap-python
 poshy-wrap-ruby
 poshy-wrap-systemctl
 poshy-wrap-terraform
@@ -5057,7 +5052,9 @@ potato
 pow
 powdrgit
 power
+power-apps
 power-cbr
+power-platform
 power-shell
 powerapps
 powerappsportal
@@ -5144,6 +5141,7 @@ pq
 pranks
 predicate
 prediction
+predictive
 predictive-text
 predictor
 preferences
@@ -5285,7 +5283,6 @@ psbbix
 psbicep
 psclient
 pscmdlet
-pscommand__python3
 pscommand_--
 pscommand_..
 pscommand_...
@@ -6134,6 +6131,7 @@ pscommand_invoke-gotoolfix
 pscommand_invoke-goversion
 pscommand_invoke-govet
 pscommand_invoke-gowork
+pscommand_invoke-greppipfreeze
 pscommand_invoke-helm
 pscommand_invoke-helminstall
 pscommand_invoke-helmsearch
@@ -6293,6 +6291,10 @@ pscommand_invoke-pipenvuninstall
 pscommand_invoke-pipenvupdate
 pscommand_invoke-pipenvvenv
 pscommand_invoke-pipenvwhere
+pscommand_invoke-pipinstall
+pscommand_invoke-pipinstallupgrade
+pscommand_invoke-piplistoutdated
+pscommand_invoke-pipuninstall
 pscommand_invoke-pyenv
 pscommand_invoke-pylintreportsdisabled
 pscommand_invoke-ruby
@@ -6532,8 +6534,6 @@ pscommand_invoke-zypperversioncompare
 pscommand_invoke-zypperwhatprovides
 pscommand_invokeyumgrouplist
 pscommand_ips
-pscommand_ipy
-pscommand_ipython
 pscommand_jump
 pscommand_k
 pscommand_kaf
@@ -6741,6 +6741,22 @@ pscommand_pgr
 pscommand_pi
 pscommand_pidev
 pscommand_ping
+pscommand_pip
+pscommand_pip_package_location
+pscommand_pip3
+pscommand_pip3_package_location
+pscommand_pipgi
+pscommand_pipi
+pscommand_pipig
+pscommand_pipigb
+pscommand_pipigp
+pscommand_pipir
+pscommand_piplo
+pscommand_pipreq
+pscommand_pipu
+pscommand_pipun
+pscommand_pipunall
+pscommand_pipupall
 pscommand_pl
 pscommand_po
 pscommand_pop-gitstashentry
@@ -6765,12 +6781,8 @@ pscommand_pushgr
 pscommand_pvenv
 pscommand_pwh
 pscommand_pwshrc-show-proxy
-pscommand_py
 pscommand_pyenv
 pscommand_pylint-quick
-pscommand_pyserver
-pscommand_python
-pscommand_python3
 pscommand_rb
 pscommand_read-dotenv
 pscommand_remove_gem
@@ -6836,7 +6848,6 @@ pscommand_set-locationup5
 pscommand_sgem
 pscommand_show-gitremote
 pscommand_show-proxy
-pscommand_shttp
 pscommand_shuf
 pscommand_sl
 pscommand_ssh-disable-proxy
@@ -6849,6 +6860,10 @@ pscommand_stop-gitcherrypick
 pscommand_switch-gitbranchandtrack
 pscommand_switch-gitbranchmain
 pscommand_switch-gitbranchnew
+pscommand_syspip
+pscommand_syspip_package_location
+pscommand_syspip3
+pscommand_syspip3_package_location
 pscommand_ta
 pscommand_tad
 pscommand_test-command
@@ -7085,7 +7100,6 @@ psfitbit
 psfive9
 psfive9admin
 psfoldersize
-psfunction__python3
 psfunction_aar
 psfunction_add-envpathitem
 psfunction_add-envvarpathitem
@@ -7515,6 +7529,7 @@ psfunction_invoke-gotoolfix
 psfunction_invoke-goversion
 psfunction_invoke-govet
 psfunction_invoke-gowork
+psfunction_invoke-greppipfreeze
 psfunction_invoke-helm
 psfunction_invoke-helminstall
 psfunction_invoke-helmsearch
@@ -7674,6 +7689,10 @@ psfunction_invoke-pipenvuninstall
 psfunction_invoke-pipenvupdate
 psfunction_invoke-pipenvvenv
 psfunction_invoke-pipenvwhere
+psfunction_invoke-pipinstall
+psfunction_invoke-pipinstallupgrade
+psfunction_invoke-piplistoutdated
+psfunction_invoke-pipuninstall
 psfunction_invoke-pyenv
 psfunction_invoke-pylintreportsdisabled
 psfunction_invoke-ruby
@@ -7953,6 +7972,13 @@ psfunction_npm-enable-proxy
 psfunction_npm-show-proxy
 psfunction_open_command
 psfunction_peek
+psfunction_pipig
+psfunction_pipigb
+psfunction_pipigp
+psfunction_pipir
+psfunction_pipreq
+psfunction_pipunall
+psfunction_pipupall
 psfunction_pop-gitstashentry
 psfunction_proxy-help
 psfunction_publish-gitcommitsforcefullywithlease
@@ -7966,7 +7992,6 @@ psfunction_publish-gitrepositorytosvn
 psfunction_push-gitstashentry
 psfunction_push-gitstashentrywithmessage
 psfunction_pwshrc-show-proxy
-psfunction_pyserver
 psfunction_read-dotenv
 psfunction_remove-dockercontainerall
 psfunction_remove-dockerunusedimage
@@ -8027,7 +8052,6 @@ psfunction_set-locationup4
 psfunction_set-locationup5
 psfunction_show-gitremote
 psfunction_show-proxy
-psfunction_shttp
 psfunction_shuf
 psfunction_ssh-disable-proxy
 psfunction_ssh-enable-proxy
@@ -8243,7 +8267,6 @@ pylint
 pyranja
 python
 python-for-dotnet
-python3
 qcloud
 qconvergeconsolepowerkit
 qemu
@@ -8441,7 +8464,6 @@ releasemanagement
 releasenotes
 relevance
 relic
-reload
 remediation
 remedy
 reminder
@@ -9048,6 +9070,8 @@ single
 singlestore
 singleton
 sinks
+sintez
+sintez.module.rds
 sit
 site
 site_navigation
@@ -9165,7 +9189,6 @@ solutions
 sonarcloud
 sonarqube
 sonarr
-sonatype
 songs
 sonicwall
 sonicwallvpn
@@ -9385,8 +9408,6 @@ streak
 stream
 streamanalytics
 streaming
-streamreader
-streamwriter
 stretch
 strictmode
 strikethrough-text
@@ -9469,7 +9490,6 @@ sybase
 sybaseiq
 symantec
 symbolic
-symbolic_link
 symboliclink
 symbols
 symbolservers
@@ -9500,6 +9520,8 @@ sysman
 sysmon
 sysop
 syspass
+syspip
+syspip3
 sysprep
 system
 system information 1394 controller baseboard motherboard systemboard battery bios bus cache memory cd dvd rom drive compact disc desktop monitor disk partition fan floppy glide point heatpipe ide infrared device keyboard local logical array mouse'
@@ -9527,6 +9549,7 @@ tab-completion
 tab-expansion
 tabcompletion
 tabexpansion
+tabexpansion2
 tablacus
 table
 tableau
@@ -9759,8 +9782,6 @@ touch
 toughswitch
 tphubps
 tpm
-tr-064
-tr064
 trace
 traceevent
 tracer
@@ -9900,7 +9921,6 @@ ud-datepicker
 ud-field
 ud-flexytable
 ud-funnel
-ud-hero
 ud-illustration
 ud-input
 ud-licensed
@@ -10553,7 +10573,6 @@ write-color
 write-colour
 write-debug
 write-host
-write-information
 write-log
 write-loganalytics
 write-message
