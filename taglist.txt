@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Tuesday, 06 February 2024 09:51:50 UTC
+Updated: Tuesday, 06 February 2024 17:52:09 UTC
 
 .bat
 .env
@@ -470,6 +470,7 @@ asbuiltreport
 asc
 ascii
 ascii85
+asciiart
 asdatabase
 asigra
 asjob
@@ -585,6 +586,7 @@ availability
 availabilityset
 avalara
 avalonia
+avatar
 avd
 ave
 avepoint
@@ -1271,6 +1273,7 @@ codes
 codesign
 codesigning
 codex
+coercion
 cognitiveservice
 cognitiveservices
 cohesity
@@ -1483,6 +1486,7 @@ cosmos
 cosmosdb
 cost
 cost-management
+costmanagement
 costoptimization
 couchbase
 couchdb
@@ -1600,6 +1604,7 @@ curseforge
 custom
 customchecks
 customdns
+customer
 customerengagement
 customers
 customeventchannel
@@ -1624,8 +1629,6 @@ cvss
 cwi
 cx
 cyberark
-cyberark-api
-cyberark-identity
 cyberdrain
 cybereason
 cybersamurai
@@ -2487,6 +2490,7 @@ fifa
 figlet
 file
 file-association
+file-copy
 file-encoding
 file-extension
 file-extension-association
@@ -2561,6 +2565,7 @@ findplace
 findproxyforurl
 fine-print
 fine-tuning
+finops
 firebird
 firefox
 firewall
@@ -2831,6 +2836,7 @@ gitlab-runner
 gitlab4
 gitlabpipeline
 gitops
+glimps
 glob
 globalclipboard
 globaldashboard
@@ -3417,6 +3423,7 @@ ipv6
 ipynb
 ir
 irc
+irkit
 irl
 irregular
 isadmin
@@ -3940,7 +3947,6 @@ marketplace
 marketplaceordering
 marketplacepublisher
 marking
-marklogic
 marquee
 marvel
 marvell
@@ -3952,7 +3958,6 @@ mas
 mask
 mass
 masstransit
-masterconfiguration
 match
 matcharray
 matchhashtable
@@ -4076,6 +4081,7 @@ microsoft365
 microsoft365dsc
 microsoftauthenticationlibrary
 microsoftazure
+microsoftcloud
 microsoftdefender
 microsoftdefenderatp
 microsoftdefenderforidentity
@@ -4231,6 +4237,7 @@ msp360
 mspbackups
 msproject
 msrc
+msrdc
 mssql
 mssqlbynarymodule
 mssqlbynarypsmodule
@@ -4265,6 +4272,7 @@ multithreaded
 multithreaded-helpers
 multithreading
 music
+musiccast
 mustache
 mutation
 mute
@@ -4316,6 +4324,7 @@ nbi
 ncal
 ndes
 nebulon
+nec-infrared-transmission-protocol
 nederland
 nedyalkov
 neo4j
@@ -4399,6 +4408,7 @@ nexenta
 nexentastor
 nexthink
 nexus
+nexusiq
 nfsv3
 ngen
 ngfw
@@ -4926,10 +4936,10 @@ player
 playlists
 pleasant
 pleasantpasswordserver
-plex
 plist
 plog
 plot
+plug-n-copy
 plugin
 plugins
 pluralsight
@@ -5013,6 +5023,7 @@ poshy-multimedia
 poshy-net
 poshy-notify-send
 poshy-sh-isms
+poshy-sshconfig
 poshy-viewer-finder
 poshy-wrap
 poshy-wrap-apt
@@ -5315,6 +5326,7 @@ pscommand_aar
 pscommand_acp
 pscommand_acse
 pscommand_acsp
+pscommand_add_ssh
 pscommand_add-envpathitem
 pscommand_add-envvarpathitem
 pscommand_add-gitlfstrackedfiles
@@ -6870,9 +6882,11 @@ pscommand_show-proxy
 pscommand_shttp
 pscommand_shuf
 pscommand_sl
+pscommand_ssh-add-all
 pscommand_ssh-disable-proxy
 pscommand_ssh-enable-proxy
 pscommand_ssh-show-proxy
+pscommand_sshlist
 pscommand_start-gitbisect
 pscommand_start-gitcherrypick
 pscommand_start-gitcherrypickexplained
@@ -7122,6 +7136,7 @@ psfive9admin
 psfoldersize
 psfunction__python3
 psfunction_aar
+psfunction_add_ssh
 psfunction_add-envpathitem
 psfunction_add-envvarpathitem
 psfunction_add-gitlfstrackedfiles
@@ -8077,9 +8092,11 @@ psfunction_show-gitremote
 psfunction_show-proxy
 psfunction_shttp
 psfunction_shuf
+psfunction_ssh-add-all
 psfunction_ssh-disable-proxy
 psfunction_ssh-enable-proxy
 psfunction_ssh-show-proxy
+psfunction_sshlist
 psfunction_start-gitbisect
 psfunction_start-gitcherrypick
 psfunction_start-gitcherrypickexplained
@@ -8221,7 +8238,6 @@ pssqlserver
 pssqlserverbynarymodule
 pssqlservermodule
 psst
-psstgenerator
 pstablacus
 pstanss
 psthread
@@ -8361,7 +8377,6 @@ random-password
 random-password-generator
 randompassword
 randomuser
-randomusers
 rangescan
 ransomware_recovery
 ras
@@ -8383,6 +8398,7 @@ rcs
 rcu
 rdb
 rdbms
+rdc
 rdcman
 rdcmanager
 rdfe
@@ -8391,7 +8407,9 @@ rdl
 rdm
 rdp
 rdpsession
+rdpsign
 rds
+rdsgw
 react-stockcharts
 read
 read-slog
@@ -8492,6 +8510,7 @@ remedy
 reminder
 remote
 remote-browser
+remote-desktop
 remote'
 remoteadmin
 remotecert
@@ -8500,6 +8519,7 @@ remoteconnectionsmanager
 remotecontrol
 remotedesktop
 remotedesktopconnectionmanager
+remotedesktopgateway
 remotedesktopmanager
 remotedesktopservices
 remotefiles
@@ -8549,7 +8569,6 @@ requiredmodules
 requirements
 res
 rescan
-rescuetime
 reservation
 reservations
 reset
@@ -9125,6 +9144,8 @@ skypeforbusinessonline
 skypeonline
 skytap
 slack
+slash
+slashcommands
 slmgr
 sln
 slugify
@@ -9208,7 +9229,6 @@ solutions
 sonarcloud
 sonarqube
 sonarr
-sonatype
 songs
 sonicwall
 sonicwallvpn
@@ -9332,6 +9352,7 @@ ssc
 ssdt
 sse
 ssh
+ssh-config
 ssh-keygen
 sshmanagement
 sshservers
@@ -9512,7 +9533,6 @@ sybase
 sybaseiq
 symantec
 symbolic
-symbolic_link
 symboliclink
 symbols
 symbolservers
@@ -9577,6 +9597,7 @@ tablacus
 table
 tableau
 tableauserver
+tabler
 tables
 tablestorage
 tabs
@@ -9657,6 +9678,7 @@ teradata
 termbin
 terminal
 terminal-interface
+terminal-services
 terminal.gui
 terminalnotifier
 terminalvelocity
@@ -9680,7 +9702,6 @@ test-samcmpackageexists
 test-userisadministrator
 test-xml
 test123
-testaccount
 testautomation
 tester
 testimonial
@@ -10057,6 +10078,7 @@ uplift
 uplink
 ups
 upsource
+upstream
 uptime
 uptimerobot
 uptobox
@@ -10597,7 +10619,6 @@ write-color
 write-colour
 write-debug
 write-host
-write-information
 write-log
 write-loganalytics
 write-message
@@ -10688,6 +10709,7 @@ xwindowsupdate
 xwith
 yahoo
 yahw
+yamaha
 yaml
 yandex
 yapg
