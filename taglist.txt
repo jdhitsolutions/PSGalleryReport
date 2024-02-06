@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Tuesday, 06 February 2024 02:01:43 UTC
+Updated: Tuesday, 06 February 2024 09:51:50 UTC
 
 .bat
 .env
@@ -443,6 +443,7 @@ arcresourcebridge
 arcus
 area
 arg
+argcomplete
 argument
 argumentcompleter
 arguments
@@ -505,7 +506,6 @@ atera
 athena
 atlas
 atlassian
-atlassiancli
 atlassianps
 atmosphere
 atom
@@ -589,6 +589,8 @@ avd
 ave
 avepoint
 avi
+avm
+avmtools
 avro
 avs
 avset
@@ -941,6 +943,7 @@ business
 businesscentral
 businessdays
 businesshours
+businessobjects
 businessrulesengine
 businesstime
 bxor
@@ -976,6 +979,7 @@ cantara
 capability
 capacity
 capacitymanagement
+capgemini
 capslock
 captcha
 capture
@@ -1004,6 +1008,7 @@ cavium
 cb
 cblueshell
 cbr
+cbz
 cchoco
 cchocoex
 ccm
@@ -1266,7 +1271,6 @@ codes
 codesign
 codesigning
 codex
-coercion
 cognitiveservice
 cognitiveservices
 cohesity
@@ -1330,6 +1334,7 @@ completer
 completion
 completion-manager
 completionresult
+completions
 complex
 compliance
 compliant
@@ -1478,7 +1483,6 @@ cosmos
 cosmosdb
 cost
 cost-management
-costmanagement
 costoptimization
 couchbase
 couchdb
@@ -1540,6 +1544,7 @@ credman
 credmanager
 crescendo
 crescendobuilt
+cresendo
 crestron
 crime
 crlf
@@ -1595,7 +1600,6 @@ curseforge
 custom
 customchecks
 customdns
-customer
 customerengagement
 customers
 customeventchannel
@@ -1722,6 +1726,7 @@ datum
 dave
 davinci
 dax
+dayinweek
 days
 days-week
 db
@@ -1809,6 +1814,7 @@ der
 description
 deserialize
 design
+design-pattern
 desired
 desiredstate
 desiredstateconfiguration
@@ -2088,6 +2094,7 @@ dsutils
 dtc
 dts
 dtsx
+dtx
 du
 dual-stack
 duck
@@ -2554,7 +2561,6 @@ findplace
 findproxyforurl
 fine-print
 fine-tuning
-finops
 firebird
 firefox
 firewall
@@ -2654,6 +2660,8 @@ freshservice-api
 freshserviceps
 freshworks
 friendly
+fritz
+fritzbox
 front
 frontapp
 frontdoor
@@ -2766,6 +2774,7 @@ get-dtdriverupdates
 get-dtscriptnewcmpackagefromdriverpackpackagedefinitionsms
 get-dtscriptnewcmtasksequencefromdriverpackpackagedefinitionsms
 get-emptyadgroups
+get-externalip
 get-firmwaretype
 get-help
 get-history
@@ -3408,7 +3417,6 @@ ipv6
 ipynb
 ir
 irc
-irkit
 irl
 irregular
 isadmin
@@ -3549,6 +3557,7 @@ kerberos
 kernel32
 kestrel
 key
+key-vault
 key2wocas
 keybase
 keybinding
@@ -3893,6 +3902,7 @@ man-highlighting
 manage
 manage-wmi
 manageability
+managed-identity
 manageddisks
 managedidentities
 managedidentity
@@ -4066,7 +4076,6 @@ microsoft365
 microsoft365dsc
 microsoftauthenticationlibrary
 microsoftazure
-microsoftcloud
 microsoftdefender
 microsoftdefenderatp
 microsoftdefenderforidentity
@@ -4222,7 +4231,6 @@ msp360
 mspbackups
 msproject
 msrc
-msrdc
 mssql
 mssqlbynarymodule
 mssqlbynarypsmodule
@@ -4257,12 +4265,12 @@ multithreaded
 multithreaded-helpers
 multithreading
 music
-musiccast
 mustache
 mutation
 mute
 mutex
 mva
+mvc
 mvn
 mvp
 mx
@@ -4308,7 +4316,6 @@ nbi
 ncal
 ndes
 nebulon
-nec-infrared-transmission-protocol
 nederland
 nedyalkov
 neo4j
@@ -4392,7 +4399,6 @@ nexenta
 nexentastor
 nexthink
 nexus
-nexusiq
 nfsv3
 ngen
 ngfw
@@ -4728,6 +4734,7 @@ package-transform
 packagemanagement
 packagemanager
 packages
+packagesregistry
 packaging
 packaging psmodule
 packard
@@ -4740,6 +4747,7 @@ pageant
 pager
 pagerduty
 pages
+paloalto
 paloaltonetworks
 pam
 panels
@@ -5008,6 +5016,7 @@ poshy-sh-isms
 poshy-viewer-finder
 poshy-wrap
 poshy-wrap-apt
+poshy-wrap-argcomplete
 poshy-wrap-brew
 poshy-wrap-curl
 poshy-wrap-dnf
@@ -5031,6 +5040,7 @@ poshy-wrap-pip
 poshy-wrap-pipenv
 poshy-wrap-pyenv
 poshy-wrap-pylint
+poshy-wrap-python
 poshy-wrap-ruby
 poshy-wrap-systemctl
 poshy-wrap-terraform
@@ -5191,6 +5201,7 @@ privileges
 pro
 probe
 process
+process-inspector
 processing
 processmitigation
 processor
@@ -5283,6 +5294,7 @@ psbbix
 psbicep
 psclient
 pscmdlet
+pscommand__python3
 pscommand_--
 pscommand_..
 pscommand_...
@@ -6534,6 +6546,8 @@ pscommand_invoke-zypperversioncompare
 pscommand_invoke-zypperwhatprovides
 pscommand_invokeyumgrouplist
 pscommand_ips
+pscommand_ipy
+pscommand_ipython
 pscommand_jump
 pscommand_k
 pscommand_kaf
@@ -6781,10 +6795,15 @@ pscommand_pushgr
 pscommand_pvenv
 pscommand_pwh
 pscommand_pwshrc-show-proxy
+pscommand_py
 pscommand_pyenv
 pscommand_pylint-quick
+pscommand_pyserver
+pscommand_python
+pscommand_python3
 pscommand_rb
 pscommand_read-dotenv
+pscommand_register-argcompleteargumentcompleter
 pscommand_remove_gem
 pscommand_remove-dockercontainerall
 pscommand_remove-dockerunusedimage
@@ -6848,6 +6867,7 @@ pscommand_set-locationup5
 pscommand_sgem
 pscommand_show-gitremote
 pscommand_show-proxy
+pscommand_shttp
 pscommand_shuf
 pscommand_sl
 pscommand_ssh-disable-proxy
@@ -7100,6 +7120,7 @@ psfitbit
 psfive9
 psfive9admin
 psfoldersize
+psfunction__python3
 psfunction_aar
 psfunction_add-envpathitem
 psfunction_add-envvarpathitem
@@ -7992,7 +8013,9 @@ psfunction_publish-gitrepositorytosvn
 psfunction_push-gitstashentry
 psfunction_push-gitstashentrywithmessage
 psfunction_pwshrc-show-proxy
+psfunction_pyserver
 psfunction_read-dotenv
+psfunction_register-argcompleteargumentcompleter
 psfunction_remove-dockercontainerall
 psfunction_remove-dockerunusedimage
 psfunction_remove-envpathitem
@@ -8052,6 +8075,7 @@ psfunction_set-locationup4
 psfunction_set-locationup5
 psfunction_show-gitremote
 psfunction_show-proxy
+psfunction_shttp
 psfunction_shuf
 psfunction_ssh-disable-proxy
 psfunction_ssh-enable-proxy
@@ -8267,6 +8291,7 @@ pylint
 pyranja
 python
 python-for-dotnet
+python3
 qcloud
 qconvergeconsolepowerkit
 qemu
@@ -8358,7 +8383,6 @@ rcs
 rcu
 rdb
 rdbms
-rdc
 rdcman
 rdcmanager
 rdfe
@@ -8367,9 +8391,7 @@ rdl
 rdm
 rdp
 rdpsession
-rdpsign
 rds
-rdsgw
 react-stockcharts
 read
 read-slog
@@ -8464,12 +8486,12 @@ releasemanagement
 releasenotes
 relevance
 relic
+reload
 remediation
 remedy
 reminder
 remote
 remote-browser
-remote-desktop
 remote'
 remoteadmin
 remotecert
@@ -8478,7 +8500,6 @@ remoteconnectionsmanager
 remotecontrol
 remotedesktop
 remotedesktopconnectionmanager
-remotedesktopgateway
 remotedesktopmanager
 remotedesktopservices
 remotefiles
@@ -9104,8 +9125,6 @@ skypeforbusinessonline
 skypeonline
 skytap
 slack
-slash
-slashcommands
 slmgr
 sln
 slugify
@@ -9189,6 +9208,7 @@ solutions
 sonarcloud
 sonarqube
 sonarr
+sonatype
 songs
 sonicwall
 sonicwallvpn
@@ -9408,6 +9428,8 @@ streak
 stream
 streamanalytics
 streaming
+streamreader
+streamwriter
 stretch
 strictmode
 strikethrough-text
@@ -9490,6 +9512,7 @@ sybase
 sybaseiq
 symantec
 symbolic
+symbolic_link
 symboliclink
 symbols
 symbolservers
@@ -9554,7 +9577,6 @@ tablacus
 table
 tableau
 tableauserver
-tabler
 tables
 tablestorage
 tabs
@@ -9635,7 +9657,6 @@ teradata
 termbin
 terminal
 terminal-interface
-terminal-services
 terminal.gui
 terminalnotifier
 terminalvelocity
@@ -9782,6 +9803,8 @@ touch
 toughswitch
 tphubps
 tpm
+tr-064
+tr064
 trace
 traceevent
 tracer
@@ -9921,6 +9944,7 @@ ud-datepicker
 ud-field
 ud-flexytable
 ud-funnel
+ud-hero
 ud-illustration
 ud-input
 ud-licensed
@@ -10033,7 +10057,6 @@ uplift
 uplink
 ups
 upsource
-upstream
 uptime
 uptimerobot
 uptobox
@@ -10406,6 +10429,7 @@ wif
 wifi
 wiki
 wildcard
+wildfire
 wildfly
 wim
 wim2vhd
@@ -10573,6 +10597,7 @@ write-color
 write-colour
 write-debug
 write-host
+write-information
 write-log
 write-loganalytics
 write-message
@@ -10663,7 +10688,6 @@ xwindowsupdate
 xwith
 yahoo
 yahw
-yamaha
 yaml
 yandex
 yapg
