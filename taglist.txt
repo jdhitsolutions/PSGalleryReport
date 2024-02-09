@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Thursday, 08 February 2024 17:52:04 UTC
+Updated: Friday, 09 February 2024 02:00:44 UTC
 
 .bat
 .env
@@ -144,6 +144,8 @@ ad-report
 ad-site
 adal
 adapter
+adapter-control
+adapters
 adaptivecards
 adb
 adc
@@ -361,7 +363,6 @@ apigateway
 apigee
 apigeeedge
 apimanagement
-apis
 aplication
 apm
 apmconfig
@@ -605,6 +606,7 @@ aws_profile
 aws-codebuild
 aws-lambda
 aws-vault
+aws.tools.powershell
 awscli
 awspricelist
 axapta
@@ -636,6 +638,7 @@ azstackhci
 azstate
 azsubnet
 aztools
+azts
 azuead
 azure
 azure_ad
@@ -1334,7 +1337,6 @@ completion
 completion-manager
 completionresult
 completions
-complex
 compliance
 compliant
 component
@@ -1386,18 +1388,19 @@ connect-exchangeonprem
 connect-mstsc
 connect-rdp
 connect-remotedesktop
+connect-samcmsite
 connected
 connectedkubernetes
 connectedmachine
 connectednetwork
 connectexchange
 connection
+connectionmonitor
 connections
 connectionsmanager
 connectionstring
 connectivity
 connectwise
-conservation
 console
 consoleguitools
 consolemenu
@@ -1647,6 +1650,7 @@ dac
 dacfx
 dacl
 dacpac
+dacpackage
 daily
 dane
 dangling
@@ -1685,7 +1689,6 @@ datacollectionrule
 dataconduit
 dataconnectivity
 datadog
-dataexchange
 dataexplorer
 datafactory
 dataflow
@@ -1898,6 +1901,8 @@ dirkjan
 dirname
 dirsync
 disa
+disable
+disable-internet
 disable-psremoting
 disablefilesyncngsc
 disablestartbutton
@@ -1933,10 +1938,10 @@ distributedcache
 distributedfilesystem
 distribution
 distributiongroup
+distributiongroups
 distributionlist
 distributionpointgroupmembers
 distrubtionpoint
-dividends
 diving
 division
 divoom
@@ -1977,6 +1982,7 @@ dnssuffix
 dnvm
 doc
 docfx
+dock
 docker
 docker-compose
 docker-image
@@ -1985,6 +1991,7 @@ docker-volumes
 dockerfile
 dockerize
 dockerswarm
+docking
 docs
 document
 documentation
@@ -2207,6 +2214,8 @@ emotion
 empire
 empty
 emwarehouse
+enable
+enable-internet
 enable-psremoting
 enable-psremotingremote
 enbrea
@@ -2324,6 +2333,7 @@ eventlogchannel
 eventlogchannels
 eventlogmanifest
 eventlogs
+eventmonitor
 eventmonitoring
 eventprocessor
 events
@@ -2609,6 +2619,7 @@ force
 forcedelete
 foreach
 foreach-object
+forecast
 forensic
 forensics
 forest
@@ -2781,6 +2792,8 @@ get-passivetrippoint
 get-passlist
 get-path
 get-pinneditem
+get-samcmassignedsite
+get-samcmcurrentmanagementpoint
 get-samplingperiod
 get-stalecomps
 get-staleusers
@@ -2802,6 +2815,8 @@ gist
 git
 git-client
 git-clone
+git-flow
+git-lfs
 git-proxy
 git-rename
 git-stat
@@ -2915,7 +2930,6 @@ gtx1080ti
 guardedfabric
 guardicore
 gubbins
-guest
 guestconfiguration
 guests
 gui
@@ -3250,6 +3264,7 @@ import-csv
 import-dtdriverpackpackagedefinitionsms
 import-modulefrompath
 import-passlist
+import-sampackagedefinitionsms
 importer
 importexport
 importteams
@@ -3401,6 +3416,7 @@ iplookup
 ipmaths
 ipp
 iprange
+ips
 ipscan
 ipv4
 ipv4ping
@@ -3600,7 +3616,6 @@ kudu
 kurukuru
 kusto
 kvm
-kvp
 l1tf
 l2tp
 lab
@@ -3725,13 +3740,13 @@ liquid
 liquit
 liquit.com
 list
+list_files
 list-directory
 list-item
 listener
 litecoin
 litedb
 literature
-live
 lldp
 lmhost
 lmhosts
@@ -3821,7 +3836,6 @@ logs
 logstash
 logtools
 logz
-loki
 lol
 lolcat
 longfile
@@ -4201,6 +4215,7 @@ msexchange
 msftnet
 msftnetworking
 msg
+msg.exe
 msgbox
 msgraph
 msgraphapi
@@ -4270,6 +4285,7 @@ mx
 mxlookup
 mycloudrevolution
 myhub
+myip
 myitprocess
 myjson
 myjson.com
@@ -4377,6 +4393,8 @@ new-item
 new-itemproperty
 new-pinneditem
 new-rdpsession
+new-samcmapplicationfrompackagedefinitionsms
+new-samcmpackagefrompackagedefinitionsms
 new-system
 new-udmorph
 new-win32app
@@ -5003,6 +5021,7 @@ poshy-env-var
 poshy-ls-isms
 poshy-lucidity
 poshy-multimedia
+poshy-net
 poshy-notify-send
 poshy-sh-isms
 poshy-sshconfig
@@ -5020,6 +5039,8 @@ poshy-wrap-forgit
 poshy-wrap-gem
 poshy-wrap-gh
 poshy-wrap-git
+poshy-wrap-git-flow
+poshy-wrap-git-lfs
 poshy-wrap-golang
 poshy-wrap-helm
 poshy-wrap-kubectl
@@ -5029,7 +5050,6 @@ poshy-wrap-nmap
 poshy-wrap-npm
 poshy-wrap-pip
 poshy-wrap-pipenv
-poshy-wrap-pyenv
 poshy-wrap-pylint
 poshy-wrap-python
 poshy-wrap-ruby
@@ -5309,6 +5329,7 @@ pscommand_acsp
 pscommand_add_ssh
 pscommand_add-envpathitem
 pscommand_add-envvarpathitem
+pscommand_add-gitlfstrackedfiles
 pscommand_add-gitremote
 pscommand_add-gitskipworktreeflag
 pscommand_add-gitsubmodule
@@ -5647,10 +5668,12 @@ pscommand_gcamg
 pscommand_gcams
 pscommand_gcamu
 pscommand_gcb
+pscommand_gcd
 pscommand_gcem
 pscommand_gcf
 pscommand_gcfl
 pscommand_gcfls
+pscommand_gch
 pscommand_gci
 pscommand_gcl
 pscommand_gclcd
@@ -5673,6 +5696,7 @@ pscommand_gcp
 pscommand_gcpa
 pscommand_gcpc
 pscommand_gcpx
+pscommand_gcr
 pscommand_gcsam
 pscommand_gct
 pscommand_gd
@@ -5730,6 +5754,7 @@ pscommand_get-gitdiffstash
 pscommand_get-gitdiffstashhead
 pscommand_get-gitdiffstashparent
 pscommand_get-gitignoredfiles
+pscommand_get-gitlfstrackedfiles
 pscommand_get-gitlogbranchcommitsunpushed
 pscommand_get-gitlogcommitspulledlast
 pscommand_get-gitloggraph
@@ -5757,6 +5782,8 @@ pscommand_get-gittrackedfiles
 pscommand_get-gituntrackedfiles
 pscommand_get-gitwhatchangedstylized
 pscommand_get-itemnixmode
+pscommand_get-netipaddresspublic
+pscommand_get-netipaddresssimple
 pscommand_get-pwshaliasdefinition
 pscommand_get-pwshfunctiondefinition
 pscommand_get-viewer
@@ -5764,6 +5791,27 @@ pscommand_geun
 pscommand_gexport
 pscommand_gf
 pscommand_gfa
+pscommand_gfl
+pscommand_gflf
+pscommand_gflff
+pscommand_gflffc
+pscommand_gflfp
+pscommand_gflfpc
+pscommand_gflfpll
+pscommand_gflfs
+pscommand_gflh
+pscommand_gflhf
+pscommand_gflhfc
+pscommand_gflhp
+pscommand_gflhpc
+pscommand_gflhs
+pscommand_gfli
+pscommand_gflr
+pscommand_gflrf
+pscommand_gflrfc
+pscommand_gflrp
+pscommand_gflrpc
+pscommand_gflrs
 pscommand_gfo
 pscommand_gft
 pscommand_gftv
@@ -5813,6 +5861,10 @@ pscommand_gitignore-reload
 pscommand_gittowork
 pscommand_gl
 pscommand_glf
+pscommand_glfsi
+pscommand_glfsls
+pscommand_glfsmi
+pscommand_glfst
 pscommand_glg
 pscommand_glgo
 pscommand_glgs
@@ -5861,6 +5913,7 @@ pscommand_gpatch
 pscommand_gpdo
 pscommand_gpf
 pscommand_gpl
+pscommand_gplfs
 pscommand_gplr
 pscommand_gplrs
 pscommand_gpo
@@ -6035,6 +6088,27 @@ pscommand_invoke-gitconfig
 pscommand_invoke-gitdifftool
 pscommand_invoke-gitfetch
 pscommand_invoke-gitfetchorigin
+pscommand_invoke-gitflow
+pscommand_invoke-gitflowfeature
+pscommand_invoke-gitflowfeaturefinish
+pscommand_invoke-gitflowfeaturefinishcurrent
+pscommand_invoke-gitflowfeaturepublish
+pscommand_invoke-gitflowfeaturepublishcurrent
+pscommand_invoke-gitflowfeaturepull
+pscommand_invoke-gitflowfeaturestart
+pscommand_invoke-gitflowhotfix
+pscommand_invoke-gitflowhotfixfinish
+pscommand_invoke-gitflowhotfixfinishcurrent
+pscommand_invoke-gitflowhotfixpublish
+pscommand_invoke-gitflowhotfixpublishcurrent
+pscommand_invoke-gitflowhotfixstart
+pscommand_invoke-gitflowinit
+pscommand_invoke-gitflowrelease
+pscommand_invoke-gitflowreleasefinish
+pscommand_invoke-gitflowreleasefinishcurrent
+pscommand_invoke-gitflowreleasepublish
+pscommand_invoke-gitflowreleasepublishcurrent
+pscommand_invoke-gitflowreleasestart
 pscommand_invoke-gitgui
 pscommand_invoke-githubapi
 pscommand_invoke-githubapi-bodyempty
@@ -6042,6 +6116,8 @@ pscommand_invoke-githubapi-bodyfields
 pscommand_invoke-githubapi-bodyfile
 pscommand_invoke-githubapi-bodyjson
 pscommand_invoke-githubapi-bodyraw
+pscommand_invoke-gitlfsinstall
+pscommand_invoke-gitlfsmigrateimport
 pscommand_invoke-gitmerge
 pscommand_invoke-gitpull
 pscommand_invoke-gitpush
@@ -6243,7 +6319,6 @@ pscommand_invoke-pipinstall
 pscommand_invoke-pipinstallupgrade
 pscommand_invoke-piplistoutdated
 pscommand_invoke-pipuninstall
-pscommand_invoke-pyenv
 pscommand_invoke-pylintreportsdisabled
 pscommand_invoke-ruby
 pscommand_invoke-rubyexecute
@@ -6481,6 +6556,7 @@ pscommand_invoke-zypperverify
 pscommand_invoke-zypperversioncompare
 pscommand_invoke-zypperwhatprovides
 pscommand_invokeyumgrouplist
+pscommand_ips
 pscommand_ipy
 pscommand_ipython
 pscommand_jump
@@ -6634,6 +6710,7 @@ pscommand_mpom
 pscommand_mrperf
 pscommand_mrprep
 pscommand_mrrb
+pscommand_myip
 pscommand_new-gitbranchfromstash
 pscommand_new-gitbranchtracked
 pscommand_new-gitpatchfile
@@ -6688,6 +6765,7 @@ pscommand_peek
 pscommand_pgr
 pscommand_pi
 pscommand_pidev
+pscommand_ping
 pscommand_pip
 pscommand_pip_package_location
 pscommand_pip3
@@ -6729,7 +6807,6 @@ pscommand_pvenv
 pscommand_pwh
 pscommand_pwshrc-show-proxy
 pscommand_py
-pscommand_pyenv
 pscommand_pylint-quick
 pscommand_pyserver
 pscommand_python
@@ -6889,6 +6966,9 @@ pscommand_use-gitbranchmain
 pscommand_use-gitbranchnew
 pscommand_use-gitbranchprevious
 pscommand_use-gitbranchtracked
+pscommand_use-gitflowbranchdevelop
+pscommand_use-gitflowbranchhotfix
+pscommand_use-gitflowbranchrelease
 pscommand_use-gitstashentry
 pscommand_uuid
 pscommand_uuidgen
@@ -7028,7 +7108,6 @@ psdscresource_vscomponents
 psdshook
 psedition_5
 psedition_5.1
-psedition_6.0.0
 psedition_7.3
 psedition_7.4
 psedition_core
@@ -7057,6 +7136,7 @@ psfunction_aar
 psfunction_add_ssh
 psfunction_add-envpathitem
 psfunction_add-envvarpathitem
+psfunction_add-gitlfstrackedfiles
 psfunction_add-gitremote
 psfunction_add-gitskipworktreeflag
 psfunction_add-gitsubmodule
@@ -7264,6 +7344,7 @@ psfunction_get-gitdiffstash
 psfunction_get-gitdiffstashhead
 psfunction_get-gitdiffstashparent
 psfunction_get-gitignoredfiles
+psfunction_get-gitlfstrackedfiles
 psfunction_get-gitlogbranchcommitsunpushed
 psfunction_get-gitlogcommitspulledlast
 psfunction_get-gitloggraph
@@ -7291,6 +7372,8 @@ psfunction_get-gittrackedfiles
 psfunction_get-gituntrackedfiles
 psfunction_get-gitwhatchangedstylized
 psfunction_get-itemnixmode
+psfunction_get-netipaddresspublic
+psfunction_get-netipaddresssimple
 psfunction_get-pwshaliasdefinition
 psfunction_get-pwshfunctiondefinition
 psfunction_get-viewer
@@ -7326,6 +7409,7 @@ psfunction_git-global-show-proxy
 psfunction_git-show-proxy
 psfunction_gitignore-reload
 psfunction_gittowork
+psfunction_gplfs
 psfunction_hostname
 psfunction_invoke-aptcachepolicy
 psfunction_invoke-aptcachesearch
@@ -7411,6 +7495,27 @@ psfunction_invoke-gitconfig
 psfunction_invoke-gitdifftool
 psfunction_invoke-gitfetch
 psfunction_invoke-gitfetchorigin
+psfunction_invoke-gitflow
+psfunction_invoke-gitflowfeature
+psfunction_invoke-gitflowfeaturefinish
+psfunction_invoke-gitflowfeaturefinishcurrent
+psfunction_invoke-gitflowfeaturepublish
+psfunction_invoke-gitflowfeaturepublishcurrent
+psfunction_invoke-gitflowfeaturepull
+psfunction_invoke-gitflowfeaturestart
+psfunction_invoke-gitflowhotfix
+psfunction_invoke-gitflowhotfixfinish
+psfunction_invoke-gitflowhotfixfinishcurrent
+psfunction_invoke-gitflowhotfixpublish
+psfunction_invoke-gitflowhotfixpublishcurrent
+psfunction_invoke-gitflowhotfixstart
+psfunction_invoke-gitflowinit
+psfunction_invoke-gitflowrelease
+psfunction_invoke-gitflowreleasefinish
+psfunction_invoke-gitflowreleasefinishcurrent
+psfunction_invoke-gitflowreleasepublish
+psfunction_invoke-gitflowreleasepublishcurrent
+psfunction_invoke-gitflowreleasestart
 psfunction_invoke-gitgui
 psfunction_invoke-githubapi
 psfunction_invoke-githubapi-bodyempty
@@ -7418,6 +7523,8 @@ psfunction_invoke-githubapi-bodyfields
 psfunction_invoke-githubapi-bodyfile
 psfunction_invoke-githubapi-bodyjson
 psfunction_invoke-githubapi-bodyraw
+psfunction_invoke-gitlfsinstall
+psfunction_invoke-gitlfsmigrateimport
 psfunction_invoke-gitmerge
 psfunction_invoke-gitpull
 psfunction_invoke-gitpush
@@ -7619,7 +7726,6 @@ psfunction_invoke-pipinstall
 psfunction_invoke-pipinstallupgrade
 psfunction_invoke-piplistoutdated
 psfunction_invoke-pipuninstall
-psfunction_invoke-pyenv
 psfunction_invoke-pylintreportsdisabled
 psfunction_invoke-ruby
 psfunction_invoke-rubyexecute
@@ -8036,6 +8142,9 @@ psfunction_use-gitbranchmain
 psfunction_use-gitbranchnew
 psfunction_use-gitbranchprevious
 psfunction_use-gitbranchtracked
+psfunction_use-gitflowbranchdevelop
+psfunction_use-gitflowbranchhotfix
+psfunction_use-gitflowbranchrelease
 psfunction_use-gitstashentry
 psfunction_write-gitcommit
 psfunction_write-gitcommitall
@@ -8189,7 +8298,6 @@ pwshake
 pwshfw
 pwshrc
 pxedistributionpoint
-pyenv
 pygmentize
 pylint
 pyranja
@@ -8675,7 +8783,10 @@ scatter
 scb
 scc
 sccm
+sccmam
+sccmapplication
 sccminstall
+sccmpackage
 sccmprereqs
 scep
 sch
@@ -8830,6 +8941,7 @@ senateur
 send
 send-logtologanalytics
 send-mailmessage
+send-message
 senderid
 sendgrid
 sendkeys
@@ -8893,6 +9005,7 @@ sessions
 set
 set_bios
 set-alias
+set-dnsservers
 set-githubsecrets
 set-itemproperty
 set-location
@@ -9065,7 +9178,9 @@ smtpauth
 smtpoauth
 smtpsasl
 smtpsecure
+snap
 snapchat
+snapping
 snapshot
 snapshots
 sni
@@ -9215,6 +9330,7 @@ sqllocaldb
 sqlpackage
 sqlplus
 sqlproj
+sqlproject
 sqlps
 sqlserver
 sqlserveragent
@@ -9302,6 +9418,7 @@ stdout
 steam
 steam-games
 steamcmd
+stepper
 sticker
 sticker-pack
 stickers
@@ -9310,7 +9427,6 @@ stigrepo
 stingar
 stock
 stockcharts
-stocks
 stoicism
 stoics
 stop
@@ -9467,7 +9583,6 @@ systeminformation
 systemlocale
 systems
 systemsplash
-systray
 t
 t-sql
 tab
@@ -9581,6 +9696,8 @@ test-internetconnection
 test-modulepath
 test-osplatform
 test-psremoting
+test-samcmapplicationexists
+test-samcmpackageexists
 test-userisadministrator
 test-xml
 test123
@@ -9821,6 +9938,7 @@ types.ps1xml
 typescript
 tzutil
 uac
+uag
 uberagent
 ubiquiti
 ubnt
@@ -9830,6 +9948,7 @@ ucspowertool
 ud-avataaar
 ud-badgebutton
 ud-badgelink
+ud-breadcrumb
 ud-breadcrumbitem
 ud-burger
 ud-button
@@ -9872,9 +9991,9 @@ ud-step
 ud-stepbar
 ud-stickynavbar
 ud-tagcloud
+ud-timeline
 ud-timeout
 ud-tool
-ud-toploader
 ud-trendline
 ud-typing
 ud-window
@@ -9930,6 +10049,7 @@ universal-automation
 universal-dashboard
 universalarchive
 universaldashboard
+universialaccessgateway
 university
 unix
 unlinked
@@ -9973,6 +10093,7 @@ urlredirections
 urlrewrite
 urlscan
 urlupdate
+uru
 usage
 usageaggregates
 usageapi
@@ -10104,6 +10225,7 @@ virtualenvironment
 virtualenvwrapper
 virtualization
 virtualmachine
+virtualmachinemonitor
 virtualmachines
 virtualmachne
 virtualnetwork
@@ -10403,6 +10525,7 @@ windowsserver2019
 windowsservercoresecurity
 windowsserverguisecurity
 windowsservice
+windowsservices
 windowsstore
 windowsterminal
 windowstimezone
@@ -10433,6 +10556,7 @@ wisconsin-madison
 wisconsin'uw-madison
 wisdom
 with
+wizard
 wkhtmltopdf
 wlan
 wmf
@@ -10519,13 +10643,13 @@ wt
 wtsapi32
 wttr
 wttr.in
+wtx
 wu
 wug
 wunderlist
 wus
 wvd
 www
-x-cart
 x.509
 x1
 x2
@@ -10578,6 +10702,7 @@ xsa
 xtremio
 xtrude
 xunit
+xwiki
 xwindowsupdate
 xwith
 yahoo
@@ -10593,7 +10718,6 @@ ynab
 youtube
 youtube-dl
 youtubeextractor
-yq
 yubaba
 yum
 z
