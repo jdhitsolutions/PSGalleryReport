@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Saturday, 10 February 2024 01:59:57 UTC
+Updated: Saturday, 10 February 2024 09:51:57 UTC
 
 .bat
 .env
@@ -80,6 +80,7 @@ abuseipdb
 acas
 accelerator
 access
+access-control
 access-points
 accesscontrol
 accesscontroldsc
@@ -172,7 +173,6 @@ adfsdiagnostics
 adfsendpoint
 adfstoolkit
 adfstools
-adgroupmemberobjects
 adgroupmembers
 adgroups
 adidns
@@ -294,6 +294,7 @@ alteryx
 alwaysontop
 alwaysonvpn
 alz
+amateur
 amateur-data-interchange-format
 amateur-radio
 amateurradio
@@ -331,6 +332,7 @@ animate-svg
 animation
 animations
 annotated
+announcement
 announcementsservice
 anonymous
 anova
@@ -412,6 +414,9 @@ appvolumes
 appx
 appxmanifest
 aprs
+aprs-is
+aprsis
+aprsthursday
 aps
 apt
 apt-get
@@ -439,6 +444,7 @@ area
 arg
 argcomplete
 argument
+argumentcompleter
 arguments
 arm
 arm-json
@@ -557,6 +563,7 @@ autologon
 automai
 automanage
 automate
+automated
 automatedlab
 automatenow
 automaticpacketreportingsystem
@@ -599,10 +606,8 @@ aws_profile
 aws-codebuild
 aws-lambda
 aws-vault
-aws.tools.powershell
 awscli
 awspricelist
-axapta
 axinom
 axis
 axium
@@ -699,8 +704,6 @@ azuresecuritycenter
 azureservicebus
 azuresigntool
 azuresql
-azuresqlexport
-azuresqlimport
 azuressas
 azurestack
 azurestackhci
@@ -730,6 +733,7 @@ barcodes
 baremetal
 base
 base16
+base26
 base32
 base64
 base64string
@@ -782,7 +786,6 @@ bibtex
 bicep
 bicepnet
 big-ip
-big-iq
 bigcommerce
 bigeval
 bigfix
@@ -920,12 +923,12 @@ builder
 building
 buildingfile
 buildingmapping
-buildkit
 buildkite
 buildmaster
 builds
 buildtool
 bulk
+bulletin
 bullhorn
 bundle
 bup
@@ -1024,6 +1027,7 @@ cdx
 ce
 celcat
 celerium
+censor
 center
 centra
 central
@@ -1139,6 +1143,7 @@ class
 classes
 classic
 classification
+classified
 clccontrol
 clccontrolapiv1
 clccontrolapiv2
@@ -1439,6 +1444,9 @@ convert-sid
 convert-windowsimage
 converter
 convertfrom
+convertfrom-string
+convertfrom-stringtable
+convertfrom-table
 convertfrom-yaml
 convertto
 convertto-excel
@@ -1474,6 +1482,7 @@ cosmos
 cosmosdb
 cost
 cost-management
+costmanagement
 costoptimization
 couchbase
 couchdb
@@ -1638,7 +1647,6 @@ dacfx
 dacl
 dacpac
 dacpackage
-dagger
 daily
 dane
 dangling
@@ -1661,7 +1669,6 @@ data-uri
 data-uri-converter
 database
 database-migrations
-databaseautomation
 databasemanagement
 databasemigration
 databases
@@ -1677,7 +1684,6 @@ datacollectionrule
 dataconduit
 dataconnectivity
 datadog
-dataexchange
 dataexplorer
 datafactory
 dataflow
@@ -1893,7 +1899,6 @@ disa
 disable
 disable-internet
 disable-psremoting
-disablefilesyncngsc
 disablestartbutton
 disablestartkey
 disasm
@@ -1933,7 +1938,6 @@ distributionpointgroupmembers
 distrubtionpoint
 dividends
 diving
-division
 divoom
 dkim
 dkschrutebeets
@@ -2123,7 +2127,6 @@ dynamics365ce
 dynamics365fo
 dynamics365sales
 dynamics365server
-dynamicsax
 dynamicsecuritygroups
 dynamicsnav
 dynamodb
@@ -2194,6 +2197,7 @@ emailnotificationcomponent
 emailsecurity
 embedded
 emc
+emcomm
 emergency
 emissions
 emoji
@@ -2298,7 +2302,6 @@ ethr
 ethz
 etl
 etl2pcapng
-etrade
 ets
 etw
 eulanda
@@ -2554,6 +2557,7 @@ findplace
 findproxyforurl
 fine-print
 fine-tuning
+finops
 firebird
 firefox
 firewall
@@ -2733,7 +2737,6 @@ generates
 generatewif
 generation
 generativeai
-generativeaiinference
 generator
 generic
 genericartifactscontent
@@ -2811,7 +2814,6 @@ gitcmdline
 gitdesktop
 gitea
 gitflow
-gitforwindows
 github
 github-actions
 githubactions
@@ -2875,6 +2877,7 @@ gpo-tools
 gpodoc
 gpolinks
 gpp
+gps
 gpt
 gpt3
 gpx
@@ -2917,7 +2920,6 @@ gtx1080ti
 guardedfabric
 guardicore
 gubbins
-guest
 guestconfiguration
 guests
 gui
@@ -2948,6 +2950,8 @@ haloitsm
 halopsa
 haloservicedesk
 haloservicesolutions
+ham
+hamradio
 hamradiodeluxe
 hana
 hanaon
@@ -3063,6 +3067,7 @@ hklm
 hl7
 hlds
 hls
+hockey
 hol
 holiday
 home
@@ -3567,6 +3572,7 @@ keyvault
 keywords
 kibana
 kickstart
+kidrsa
 kill
 kindle
 kinetic
@@ -3599,7 +3605,6 @@ kudu
 kurukuru
 kusto
 kvm
-kvp
 l1tf
 l2tp
 lab
@@ -3619,7 +3624,6 @@ lake
 lambda
 lame
 lametrictime
-lamp
 lan
 landingzones
 language
@@ -3704,7 +3708,6 @@ line
 line-endings
 linear
 linearalgebra
-lingeringobjects
 link
 link-capability
 link-preview
@@ -3721,6 +3724,8 @@ linux
 linux-command
 linuxssh
 liquid
+liquit
+liquit.com
 list
 list_files
 list-directory
@@ -4029,6 +4034,7 @@ messenger
 met
 metadata
 metadataservice
+metaprogramming
 method
 methodinfo
 methods
@@ -4064,6 +4070,7 @@ microsoft365
 microsoft365dsc
 microsoftauthenticationlibrary
 microsoftazure
+microsoftcloud
 microsoftdefender
 microsoftdefenderatp
 microsoftdefenderforidentity
@@ -4112,6 +4119,7 @@ mitrend
 mittelschule
 mixedreality
 mixer
+mkdocs
 mkpasswd
 ml
 ml.net
@@ -4127,6 +4135,7 @@ modeling
 modify
 module
 module-maintenance
+modulebuild
 modulecreation
 modulefast
 modulemanagement
@@ -4266,6 +4275,7 @@ mxlookup
 mycloudrevolution
 myhub
 myip
+myitprocess
 myjson
 myjson.com
 myob
@@ -4310,8 +4320,6 @@ neo4j
 neovim
 neptune
 nerdfonts
-nerdio
-nerdioapi
 nerdymishka
 nessus
 nested
@@ -4392,6 +4400,7 @@ nfsv3
 ngen
 ngfw
 nginx
+nhl
 nic
 nic.ru
 nightmare
@@ -4404,12 +4413,9 @@ nist
 nitrox
 njclipsh
 nl
-nla
-nlm
 nlog
 nmap
 nmbell
-nmm
 nntp
 node
 nodejs
@@ -5028,6 +5034,7 @@ poshy-wrap-nmap
 poshy-wrap-npm
 poshy-wrap-pip
 poshy-wrap-pipenv
+poshy-wrap-pyenv
 poshy-wrap-pylint
 poshy-wrap-python
 poshy-wrap-ruby
@@ -5105,7 +5112,6 @@ powershell.one
 powershell.persistentpathstack
 powershell7
 powershellai
-powershellazuresql
 powershellconferenceeurope
 powershellcore
 powershellcourse
@@ -6297,6 +6303,7 @@ pscommand_invoke-pipinstall
 pscommand_invoke-pipinstallupgrade
 pscommand_invoke-piplistoutdated
 pscommand_invoke-pipuninstall
+pscommand_invoke-pyenv
 pscommand_invoke-pylintreportsdisabled
 pscommand_invoke-ruby
 pscommand_invoke-rubyexecute
@@ -6785,6 +6792,7 @@ pscommand_pvenv
 pscommand_pwh
 pscommand_pwshrc-show-proxy
 pscommand_py
+pscommand_pyenv
 pscommand_pylint-quick
 pscommand_pyserver
 pscommand_python
@@ -7070,7 +7078,6 @@ pscredential
 pscribo
 pscustomobject
 psd1
-psdb
 psdefaultparametervalues
 psdeploy
 psdesiredstateconfiguration
@@ -7704,6 +7711,7 @@ psfunction_invoke-pipinstall
 psfunction_invoke-pipinstallupgrade
 psfunction_invoke-piplistoutdated
 psfunction_invoke-pipuninstall
+psfunction_invoke-pyenv
 psfunction_invoke-pylintreportsdisabled
 psfunction_invoke-ruby
 psfunction_invoke-rubyexecute
@@ -8277,6 +8285,7 @@ pwshake
 pwshfw
 pwshrc
 pxedistributionpoint
+pyenv
 pygmentize
 pylint
 pyranja
@@ -8331,7 +8340,6 @@ quotestoliveby
 quoting
 quser
 qword
-r
 r53
 rabbit
 rabbitmq
@@ -8417,6 +8425,8 @@ recursivefilesandfoldersdownload
 recursivefilesandfoldersupload
 recyclebin
 red
+redact
+redaction
 reddit
 redfield
 redfish
@@ -8552,6 +8562,7 @@ resharper
 resize
 resolution
 resolve
+resolve-stache
 resolve-template
 resolver
 resource
@@ -8728,6 +8739,7 @@ sampler
 san
 sand
 sandbox
+sanitization
 sanitizer
 sap
 sapazure
@@ -8805,7 +8817,6 @@ screencapture
 screenconnect
 screenfetch
 screenresolution
-screensaver
 screenshot
 script
 script_version
@@ -8891,6 +8902,7 @@ sed
 seed
 seek
 seekatar
+seeshell
 select
 select-item
 select-kubecontext
@@ -9023,7 +9035,6 @@ sharefile
 sharepoint
 sharepoint_online
 sharepoint-on-prem
-sharepoint-online
 sharepoint-product-configuration-wizard
 sharepoint2013
 sharepointdevelopmentcommunity
@@ -9118,6 +9129,7 @@ skytap
 slack
 slash
 slashcommands
+slmgr
 sln
 slugify
 sm
@@ -9253,6 +9265,7 @@ spellcheck
 spelling
 spf
 spi
+spicetify
 spinnaker
 splash
 splat
@@ -9263,6 +9276,7 @@ spn
 spo
 spooler
 sport
+sports
 sports-tracker
 spotify
 spotify-api
@@ -9279,7 +9293,6 @@ sql-database
 sql-script
 sql-server
 sqlagent
-sqlautomation
 sqlbits
 sqlbrowser
 sqlchangeautomation
@@ -9290,7 +9303,6 @@ sqldatabase
 sqldb
 sqldbatools
 sqldiagapi
-sqlexport
 sqlgateway
 sqlite
 sqlitebynarymodule
@@ -9340,6 +9352,7 @@ sspr
 ssrs
 ssst
 sstp
+stache
 stackedge
 stackexchange
 stackhci
@@ -9423,9 +9436,11 @@ stretch
 strictmode
 strikethrough-text
 string
+string-template
 stringmanager
 stringmanagertool
 strings
+stringtable
 stringutilities
 strip-ansi
 stripe
@@ -9439,7 +9454,6 @@ su
 sub
 sub-directory
 sub-menu
-subatomix
 subjectname
 sublimetext
 submission
@@ -9560,6 +9574,7 @@ tab-completion
 tab-expansion
 tabcompletion
 tabexpansion
+tabexpansion2
 tablacus
 table
 tableau
@@ -9612,6 +9627,7 @@ team
 teamcity
 teamfoundationserver
 teams
+teamsdevices
 teamservices
 teamspolicy
 teamviewer
@@ -9727,7 +9743,6 @@ threat-hunting
 threatdefense
 threathunting
 threatintelligence
-thumbprint
 thunderbird
 thycotic
 tibber
@@ -9853,6 +9868,7 @@ trouw
 true-color
 truecrypt
 truenas
+trumethods
 truportal
 trusted
 trusted-host
@@ -10431,6 +10447,7 @@ win32appmigrationtool
 win32shutdown
 window
 windows
+windows  server
 windows explorer
 windows_events
 windows-10
@@ -10567,7 +10584,6 @@ world
 worldcup
 worryfreebusinesssecurity
 wow
-wpad
 wpf
 wql
 wrap
@@ -10660,7 +10676,6 @@ xor
 xpath
 xpendingreboot
 xpertdoc
-xpo
 xprotect
 xpt
 xrm
