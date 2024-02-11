@@ -1,6 +1,6 @@
 # PSGallery Reports
 
-![mspowershell](images/PowerShell-transparent-thumb.jpg)
+![MSPowerShell](images/PowerShell-transparent-thumb.jpg)
 
 This repository contains reports for the [PowerShell Gallery](https://powershellgallery.com). The hope is that it will be easier for you to find modules that will make your work easier. The plan is to update the reports three times a day and push them to this repository.
 
@@ -10,13 +10,9 @@ Feel free to use the [Discussion](https://github.com/jdhitsolutions/PSGalleryRep
 
 ## Reports
 
-These are the currently active reports. Reports are created in markdown. I am also converting the markdown documents to PDF files. You might prefer this if you want to create automation for downloading the files.
+These are the currently active reports. Reports are created in markdown. I have removed the PDF reports from the repository.
 
-```powershell
-Invoke-WebRequest -uri https://raw.githubusercontent.com/jdhitsolutions/PSGalleryReport/main/psgallery-filtered.pdf -OutFile d:\temp\psgallery-filtered.pdf
-```
-
-GitHub will render both file types in your browser. Although GitHub will not render links in the PDF versions. But you can download the PDF and view it in your browser.
+GitHub will render reports in your browser.
 
  You are welcome to clone the repository or download individual reports. In PowerShell 7, you can use `Show-Markdown` to view markdown reports.
 
@@ -54,7 +50,7 @@ The end of the list is essentially by chance. If there are 3 contributors with t
 
 ### [Tag List](taglist.txt)
 
-This is a simple text list of unique tags found in the PowerShell Gallery. All tags have been converted to lower-case, but that should not affect the use of the tag.
+This is a simple text list of unique tags found in the PowerShell Gallery. All tags have been converted to lowercase, but that should not affect the use of the tag.
 
 ```powershell
 Find-Module -tag bios
@@ -73,7 +69,7 @@ $data | where-object {$_.name -match "(SQL)|(database)"} | Select-Object -proper
 
 ## A Note on Scripts
 
-I am using a Github action to generate the reports every 8 hours. The action is executing the `run.ps1` script in the latest Ubuntu release. The commands to create the PDF files are Ruby-based and require additional configuration. If you are using my scripts as the basis for your work, there are VSCode extensions you can use to easily convert markdown files to PDF or you might find other tools for this task if you want to avoid using Ruby.
+I am using a Github action to generate the reports every 8 hours. The action is executing the `run.ps1` script in the latest Ubuntu release.
 
 ## Limitations
 

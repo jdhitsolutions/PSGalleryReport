@@ -65,7 +65,8 @@ if (Test-Path $tmpData) {
   }
 
   #Create PDFs
-  & $PSScriptRoot/create-pdf.ps1
+  #11 February 2024 This script file is no longer used but remains for reference purposes.
+  # & $PSScriptRoot/create-pdf.ps1
 
   if (-Not $Testing) {
     #5/9/2022 disable git updates and move this to the Github action JDH
@@ -87,6 +88,9 @@ Write-Host "[$(Get-Date)] Ending $(Join-Path $PSScriptRoot run.ps1)" -Foreground
 
 <#
 Change Log
+
+2/11/2024
+    Removed PDF file creation
 3/24/2023
     Fixed missing PDF folder
 3/2/2023

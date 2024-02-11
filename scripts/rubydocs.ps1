@@ -1,3 +1,5 @@
+Return "This script file is no longer used but remains for reference purposes."
+
 
 # gem install kramdown kramdown-asciidoc asciidoctor asciidoctor-pdf asciidoctor-rouge hexapdf rouge
 
