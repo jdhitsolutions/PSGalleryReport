@@ -3,9 +3,33 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
-## [Utilities](https://www.powershellgallery.com/Packages/Utilities/0.0.58) | 0.0.58
+## [Permission](https://www.powershellgallery.com/Packages/Permission/0.0.187) | 0.0.187
 
-### Published: 02/11/2024 12:59:10 by PSModule
+### Published: 02/11/2024 17:06:55 by Jeremy La Camera
+
+Module for working with Access Control Lists
+
+__Downloads__: 839 | __Repository__: 
+
+## [Adsi](https://www.powershellgallery.com/Packages/Adsi/4.0.48) | 4.0.48
+
+### Published: 02/11/2024 17:05:51 by Jeremy La Camera
+
+Use Active Directory Service Interfaces to query LDAP and WinNT directories
+
+__Downloads__: 1,269 | __Repository__: 
+
+## [PSStucco](https://www.powershellgallery.com/Packages/PSStucco/0.6.1) | 0.6.1
+
+### Published: 02/11/2024 16:33:19 by Jimmy Briggs
+
+An opinionated Plaster template for high-quality PowerShell modules
+
+__Downloads__: 0 | __Repository__: https://github.com/jimbrig/PSStucco
+
+## [Utilities](https://www.powershellgallery.com/Packages/Utilities/0.0.59) | 0.0.59
+
+### Published: 02/11/2024 15:34:11 by PSModule
 
 PowerShell Module of Utilities
 
@@ -28,14 +52,6 @@ A PowerShell module designed to effortlessly convert text tables into objects.
 This module supports parsing text table output from all major applications like Docker, Kubernetes, WinGet, MySQL, PostgreSQL, SQLite, AWS CLI, and more.
 
 __Downloads__: 13 | __Repository__: https://github.com/sietsevdschoot/ConvertFrom-StringTable
-
-## [Adsi](https://www.powershellgallery.com/Packages/Adsi/4.0.47) | 4.0.47
-
-### Published: 02/11/2024 00:58:19 by Jeremy La Camera
-
-Use Active Directory Service Interfaces to query LDAP and WinNT directories
-
-__Downloads__: 1,269 | __Repository__: 
 
 ## [PSModule.FX](https://www.powershellgallery.com/Packages/PSModule.FX/0.0.195) | 0.0.195
 
@@ -134,14 +150,6 @@ Provides a class for managing version numbers compatible with the Chocolatey Com
 
 __Downloads__: 0 | __Repository__: https://github.com/pauby/chocolateyversion
 
-## [Permission](https://www.powershellgallery.com/Packages/Permission/0.0.186) | 0.0.186
-
-### Published: 02/10/2024 17:37:29 by Jeremy La Camera
-
-Module for working with Access Control Lists
-
-__Downloads__: 842 | __Repository__: 
-
 ## [PsNtfs](https://www.powershellgallery.com/Packages/PsNtfs/2.0.155) | 2.0.155
 
 ### Published: 02/10/2024 17:11:02 by Jeremy La Camera
@@ -164,7 +172,7 @@ __Downloads__: 155 | __Repository__: https://blog.n-dimensions.de/
 
 A completion manager for better and simpler use powershell completions. For more information, please visit the project: https://github.com/abgox/PSCompletions | https://gitee.com/abgox/PSCompletions
 
-__Downloads__: 775 | __Repository__: https://github.com/abgox/PSCompletions
+__Downloads__: 778 | __Repository__: https://github.com/abgox/PSCompletions
 
 ## [terraform-tools](https://www.powershellgallery.com/Packages/terraform-tools/0.0.7) | 0.0.7
 
@@ -194,7 +202,7 @@ __Downloads__: 2,925 | __Repository__: https://github.com/PSModule/GitHub
 
 PowerShell module for OpenAI API
 
-__Downloads__: 768 | __Repository__: https://github.com/mkht/PSOpenAI
+__Downloads__: 766 | __Repository__: https://github.com/mkht/PSOpenAI
 
 ## [gitlab4](https://www.powershellgallery.com/Packages/gitlab4/1.10.0) | 1.10.0
 
@@ -202,7 +210,7 @@ __Downloads__: 768 | __Repository__: https://github.com/mkht/PSOpenAI
 
 Gitlab API v4 helper functions
 
-__Downloads__: 217,504 | __Repository__: https://gitlab.com/mteodor/gitlab4
+__Downloads__: 217,580 | __Repository__: https://gitlab.com/mteodor/gitlab4
 
 ## [ps12exe](https://www.powershellgallery.com/Packages/ps12exe/0.1.32) | 0.1.32
 
@@ -274,7 +282,7 @@ __Downloads__: 69 | __Repository__: https://github.com/cdhunt/httpunitPS
 
 A PowerShell module for the Cisco Meraki API
 
-__Downloads__: 177 | __Repository__: 
+__Downloads__: 176 | __Repository__: 
 
 ## [StretchyTypes](https://www.powershellgallery.com/Packages/StretchyTypes/0.1.3) | 0.1.3
 
@@ -404,7 +412,7 @@ Get/Clear -SqlMessage >> Get Informational messages, if provider supports it.
 Invoke-SqlBulkCopy >> Bulk Dataload from one connection to another.
 Start/Complete/Undo -SqlTransaction >> Utilize transactions!
 
-__Downloads__: 1,058,849 | __Repository__: https://github.com/mithrandyr/SimplySql
+__Downloads__: 1,059,671 | __Repository__: https://github.com/mithrandyr/SimplySql
 
 ## [PSJsonWebToken](https://www.powershellgallery.com/Packages/PSJsonWebToken/1.12.2) | 1.12.2
 
@@ -412,7 +420,7 @@ __Downloads__: 1,058,849 | __Repository__: https://github.com/mithrandyr/SimplyS
 
 This PowerShell module contains functions that facilitate the creation, validation, and decoding of JWTs (JSON Web Tokens) as well as the creation of JWKs (JSON Web Keys).
 
-__Downloads__: 3,650 | __Repository__: https://github.com/anthonyg-1/PSJsonWebToken
+__Downloads__: 3,649 | __Repository__: https://github.com/anthonyg-1/PSJsonWebToken
 
 ## [PSModuleTest](https://www.powershellgallery.com/Packages/PSModuleTest/0.0.1) | 0.0.1
 
@@ -428,7 +436,7 @@ __Downloads__: 1 | __Repository__:
 
 The JumpCloud V1 PowerShell SDK
 
-__Downloads__: 865,082 | __Repository__: https://github.com/TheJumpCloud/jcapi-powershell/tree/master/SDKs/PowerShell/JumpCloud.SDK.V1/
+__Downloads__: 865,207 | __Repository__: https://github.com/TheJumpCloud/jcapi-powershell/tree/master/SDKs/PowerShell/JumpCloud.SDK.V1/
 
 ## [JumpCloud.SDK.V2](https://www.powershellgallery.com/Packages/JumpCloud.SDK.V2/0.0.42) | 0.0.42
 
@@ -436,7 +444,7 @@ __Downloads__: 865,082 | __Repository__: https://github.com/TheJumpCloud/jcapi-p
 
 The JumpCloud V2 PowerShell SDK
 
-__Downloads__: 863,211 | __Repository__: https://github.com/TheJumpCloud/jcapi-powershell/tree/master/SDKs/PowerShell/JumpCloud.SDK.V2/
+__Downloads__: 863,336 | __Repository__: https://github.com/TheJumpCloud/jcapi-powershell/tree/master/SDKs/PowerShell/JumpCloud.SDK.V2/
 
 ## [JumpCloud.SDK.DirectoryInsights](https://www.powershellgallery.com/Packages/JumpCloud.SDK.DirectoryInsights/0.0.26) | 0.0.26
 
@@ -444,7 +452,7 @@ __Downloads__: 863,211 | __Repository__: https://github.com/TheJumpCloud/jcapi-p
 
 The JumpCloud DirectoryInsights PowerShell SDK
 
-__Downloads__: 892,489 | __Repository__: https://github.com/TheJumpCloud/jcapi-powershell/tree/master/SDKs/PowerShell/JumpCloud.SDK.DirectoryInsights/
+__Downloads__: 893,178 | __Repository__: https://github.com/TheJumpCloud/jcapi-powershell/tree/master/SDKs/PowerShell/JumpCloud.SDK.DirectoryInsights/
 
 ## [Logic.Monitor.SE](https://www.powershellgallery.com/Packages/Logic.Monitor.SE/1.5.2) | 1.5.2
 
@@ -500,7 +508,7 @@ __Downloads__: 173 | __Repository__: https://github.com/DevClate/365AutomatedLab
 
 Cohesity PowerShell Module provides cmdlets to manage and create workflows using Cohesity DataPlatform.
 
-__Downloads__: 53,658 | __Repository__: https://cohesity.github.io/cohesity-powershell-module
+__Downloads__: 53,660 | __Repository__: https://cohesity.github.io/cohesity-powershell-module
 
 ## [Cohesity.PowerShell.Core](https://www.powershellgallery.com/Packages/Cohesity.PowerShell.Core/1.9.7) | 1.9.7
 
@@ -532,7 +540,7 @@ __Downloads__: 1 | __Repository__:
 
 A PowerShell module to generate an as built report on the configuration of Microsoft AD.
 
-__Downloads__: 229 | __Repository__: https://github.com/rebelinux/Diagrammer.Microsoft.AD
+__Downloads__: 228 | __Repository__: https://github.com/rebelinux/Diagrammer.Microsoft.AD
 
 ## [helium](https://www.powershellgallery.com/Packages/helium/1.1.9) | 1.1.9
 
@@ -588,7 +596,7 @@ __Downloads__: 7,151 | __Repository__: https://github.com/webmd-health-services/
 
 PowerShellAIAssistant integrates OpenAI's AI Assistants into PowerShell, leveraging advanced AI capabilities in your PowerShell scripts for dynamic, intelligent automation and data processing
 
-__Downloads__: 579 | __Repository__: https://github.com/dfinke/PowerShellAIAssistant
+__Downloads__: 578 | __Repository__: https://github.com/dfinke/PowerShellAIAssistant
 
 ## [tom42tools](https://www.powershellgallery.com/Packages/tom42tools/2024.2.7) | 2024.2.7
 
@@ -612,7 +620,7 @@ __Downloads__: 72 | __Repository__: https://github.com/w0/OpenDriverTool
 
 PSDates provides you all the tools you need when working with dates and times in PowerShell. It contains function to help you find specific date formats, get certain dates based on other dates (first/last day of the month or year, patch Tuesday, etc). I also has functions for working with timezones, unix time, WMI time, crontabs.
 
-__Downloads__: 57,019 | __Repository__: https://github.com/mdowst/PSDates
+__Downloads__: 57,052 | __Repository__: https://github.com/mdowst/PSDates
 
 ## [hGrep](https://www.powershellgallery.com/Packages/hGrep/1.3.2) | 1.3.2
 
@@ -636,7 +644,7 @@ __Downloads__: 250 | __Repository__:
 
 Group Policy Eater is a PowerShell module that aims to gather information about Group Policies but also allows fixing issues that you may find in them.
 
-__Downloads__: 98,364 | __Repository__: https://github.com/EvotecIT/GPOZaurr
+__Downloads__: 98,411 | __Repository__: https://github.com/EvotecIT/GPOZaurr
 
 ## [ADEssentials](https://www.powershellgallery.com/Packages/ADEssentials/0.0.186) | 0.0.186
 
@@ -644,7 +652,7 @@ __Downloads__: 98,364 | __Repository__: https://github.com/EvotecIT/GPOZaurr
 
 Helper module for Active Directory with lots of useful functions that simplify supporting Active Directory.
 
-__Downloads__: 178,671 | __Repository__: https://github.com/EvotecIT/ADEssentials
+__Downloads__: 178,722 | __Repository__: https://github.com/EvotecIT/ADEssentials
 
 ## [AzOps](https://www.powershellgallery.com/Packages/AzOps/2.5.2) | 2.5.2
 
@@ -708,7 +716,7 @@ __Downloads__: 165 | __Repository__:
 
 Module for CyberArk Privileged Access Security Web Service REST API
 
-__Downloads__: 92,827 | __Repository__: https://pspas.pspete.dev/
+__Downloads__: 92,836 | __Repository__: https://pspas.pspete.dev/
 
 ## [OCI.PSModules](https://www.powershellgallery.com/Packages/OCI.PSModules/75.0.0) | 75.0.0
 
@@ -1837,7 +1845,7 @@ __Downloads__: 52,283 | __Repository__: https://github.com/dylanhaskins/Microsof
 
 Azure API call handler for Microsoft Graph, Azure Resource Management, KeyVault, Log Analytics, Storage and ingest.monitor.azure.*. Visit aka.ms/AzAPICall
 
-__Downloads__: 157,586 | __Repository__: https://aka.ms/AzAPICall
+__Downloads__: 157,617 | __Repository__: https://aka.ms/AzAPICall
 
 ## [PS.MTA-STS](https://www.powershellgallery.com/Packages/PS.MTA-STS/1.1.2) | 1.1.2
 
@@ -1902,7 +1910,7 @@ __Downloads__: 16,446 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions to Automate Bulk VMWare Tasks
 
-__Downloads__: 23,362 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 23,361 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.Remoting](https://www.powershellgallery.com/Packages/AdminToolbox.Remoting/1.9.131) | 1.9.131
 
@@ -1910,7 +1918,7 @@ __Downloads__: 23,362 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions for remote management and access.
 
-__Downloads__: 23,186 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 23,185 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.Office365](https://www.powershellgallery.com/Packages/AdminToolbox.Office365/3.1.81) | 3.1.81
 
@@ -1926,7 +1934,7 @@ __Downloads__: 24,969 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Network Troubleshooting Functions
 
-__Downloads__: 59,070 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 59,181 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.MSGraph](https://www.powershellgallery.com/Packages/AdminToolbox.MSGraph/1.2.131) | 1.2.131
 
@@ -1942,7 +1950,7 @@ __Downloads__: 13,341 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions that have no purpose
 
-__Downloads__: 23,557 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 23,556 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.FileManagement](https://www.powershellgallery.com/Packages/AdminToolbox.FileManagement/1.16.123) | 1.16.123
 
@@ -1982,7 +1990,7 @@ __Downloads__: 29,045 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions for Active Directory
 
-__Downloads__: 28,888 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 29,164 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [FortigiGraph](https://www.powershellgallery.com/Packages/FortigiGraph/1.0.20240206.1453) | 1.0.20240206.1453
 
@@ -2075,12 +2083,4 @@ PowerShell module to query the Logic Monitor API. This is a personal project and
 
 __Downloads__: 3,798 | __Repository__: https://github.com/stevevillardi/Logic.Monitor
 
-## [PureStoragePowerShellSDK2](https://www.powershellgallery.com/Packages/PureStoragePowerShellSDK2/2.26.70) | 2.26.70
-
-### Published: 02/06/2024 02:26:20 by Pure Storage Inc.
-
-Pure Storage FlashArray REST 2.26 API integration with Windows PowerShell.
-
-__Downloads__: 9,084 | __Repository__: https://github.com/PureStorage-Connect/PowerShellSDK2
-
-*Updated: Sunday, February 11, 2024 3:25:06 PM UTC*
+*Updated: Sunday, 11 February 2024 17:51:34 UTC*

@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Sunday, February 11, 2024 3:25:17 PM UTC
+Updated: Sunday, 11 February 2024 17:51:42 UTC
 
 .bat
 .env
@@ -36,7 +36,6 @@ Updated: Sunday, February 11, 2024 3:25:17 PM UTC
 2016
 2018
 2019
-21vianet
 24-bit
 2fa
 300
@@ -81,6 +80,7 @@ acas
 accelerator
 access
 access-control
+access-points
 accesscontrol
 accesscontroldsc
 accessgovernancecp
@@ -359,6 +359,8 @@ api-rest
 apichecks
 apiclient
 apigateway
+apigee
+apigeeedge
 apimanagement
 apis
 aplication
@@ -704,8 +706,6 @@ azuresecuritycenter
 azureservicebus
 azuresigntool
 azuresql
-azuresqlexport
-azuresqlimport
 azuressas
 azurestack
 azurestackhci
@@ -735,7 +735,6 @@ barcodes
 baremetal
 base
 base16
-base26
 base32
 base64
 base64string
@@ -1227,6 +1226,8 @@ cluster
 clusterminimumvalues
 clusterplugins
 cmaccounts
+cmake
+cmakepresets.json
 cmbuild
 cmclibnet
 cmclustermaintenance
@@ -1243,7 +1244,6 @@ cminifile
 cmnetworkports
 cms
 cmsiteconfig
-cmsmessage
 cmtrace
 cmwt
 cns
@@ -1382,9 +1382,6 @@ conjecture
 connect
 connect-dtcmsite
 connect-exchangeonprem
-connect-mstsc
-connect-rdp
-connect-remotedesktop
 connect-samcmsite
 connected
 connectedkubernetes
@@ -1527,6 +1524,7 @@ createschema
 createtable
 creationworkflowsimplification
 creator
+cred
 credential
 credential-dialog
 credential-file
@@ -1570,7 +1568,6 @@ cs137
 csc
 csharp
 csharp-watch
-csom
 csp
 csproj
 css
@@ -1612,7 +1609,6 @@ customeventlogfiles
 customevents
 custominformationservices
 customis
-customisation
 customization
 customlocation
 customlogs
@@ -1670,7 +1666,6 @@ data-uri
 data-uri-converter
 database
 database-migrations
-databaseautomation
 databasemanagement
 databasemigration
 databases
@@ -1683,7 +1678,6 @@ datacatalog
 datacenter
 dataclassification
 datacollectionrule
-dataconduit
 dataconnectivity
 datadog
 dataexchange
@@ -1836,7 +1830,6 @@ devdeer
 developer
 developer_command_prompt
 developercommandprompt
-developermode
 development
 devenv
 devexpress
@@ -1942,6 +1935,7 @@ distrubtionpoint
 dividends
 diving
 division
+divoom
 dkim
 dkschrutebeets
 dl
@@ -1993,7 +1987,6 @@ docs
 document
 documentation
 documentdb
-documentencryption
 documenting
 documents
 docusaurus
@@ -2171,7 +2164,6 @@ effectiveroutes
 efficientether
 efi
 egrep
-eid
 eigencontroles
 einstein
 eklient psedition_core psedition_desktop
@@ -2246,7 +2238,6 @@ enterprisevoice
 entity
 entityframework
 entra
-entra-id
 entraid
 entropy
 enum
@@ -2308,7 +2299,6 @@ ethr
 ethz
 etl
 etl2pcapng
-etrade
 ets
 etw
 eulanda
@@ -2361,7 +2351,6 @@ exchange2010
 exchange2013
 exchange2016
 exchangecluster
-exchangehybrid
 exchangemigration
 exchangeon-premise
 exchangeon-premises
@@ -2435,8 +2424,6 @@ eztheme
 f
 f#
 f5
-fabric
-fabtools
 facebook
 factoryorchestrator
 factoryorchestratorclient
@@ -2755,6 +2742,7 @@ geocaching
 geocode
 geoencode
 geoencoding
+geoip
 geolocation
 geosearching
 geotagging
@@ -2811,7 +2799,6 @@ git
 git-client
 git-clone
 git-flow
-git-lfs
 git-proxy
 git-rename
 git-stat
@@ -2901,7 +2888,6 @@ graphics
 graphite
 graphql
 graphs
-graphservices
 graphviz
 graylog
 greenplum
@@ -3176,7 +3162,6 @@ ib
 ibm
 ibmc
 ibmhttpserver
-icacl
 icinga
 icinga2
 icinga2mssql
@@ -3581,7 +3566,6 @@ keyvault
 keywords
 kibana
 kickstart
-kidrsa
 kill
 kindle
 kinetic
@@ -3633,6 +3617,7 @@ labworker
 lake
 lambda
 lame
+lametrictime
 lamp
 lan
 landingzones
@@ -3682,7 +3667,6 @@ legends
 lego
 lein
 leiningnen
-lenel
 length
 lenovo
 less
@@ -3810,7 +3794,6 @@ logiclesstemplate
 logicmonitor
 login
 login-azurermaccount
-login-rdp
 logingestion
 loginscreen
 loginsight
@@ -4086,7 +4069,6 @@ microsoftdefenderforidentity
 microsoftdeploymenttoolkit
 microsoftendpointmanager
 microsoftexchangeserver
-microsoftfabric
 microsoftgraph
 microsoftgraphapi
 microsoftgraphrestapi
@@ -4144,7 +4126,6 @@ modeling
 modify
 module
 module-maintenance
-modulebuild
 modulecreation
 modulefast
 modulemanagement
@@ -4165,7 +4146,6 @@ mongo
 mongodb
 monitor
 monitor psmodule
-monitorinformation
 monitoring
 monitoring_objects
 monitoring_variables
@@ -4284,6 +4264,7 @@ mxlookup
 mycloudrevolution
 myhub
 myip
+myitprocess
 myjson
 myjson.com
 myob
@@ -4307,6 +4288,7 @@ namespace
 naming
 nana
 nano
+nanoleaf
 nartac
 nasdaq
 native
@@ -4388,7 +4370,6 @@ new-githubrelease
 new-item
 new-itemproperty
 new-pinneditem
-new-rdpsession
 new-samcmapplicationfrompackagedefinitionsms
 new-samcmpackagefrompackagedefinitionsms
 new-system
@@ -4625,7 +4606,6 @@ openholidaysapi
 openid
 openidconnect
 openinghours
-openport
 openprovider
 openscad
 opensearch
@@ -4825,7 +4805,6 @@ paylocity
 paypal
 pays
 pbench
-pbip
 pc
 pcapng
 pci-dss
@@ -4912,6 +4891,7 @@ piraeus
 pivot
 pivotal
 pivottable
+pixoo
 pkce
 pki
 pki psmodule
@@ -4995,7 +4975,6 @@ posh-ribbon
 posh-ssh
 poshbot
 poshcommence
-poshevents
 poshgraph
 poshgraph-sdk
 poshgrouppolicy
@@ -5036,7 +5015,6 @@ poshy-wrap-gem
 poshy-wrap-gh
 poshy-wrap-git
 poshy-wrap-git-flow
-poshy-wrap-git-lfs
 poshy-wrap-golang
 poshy-wrap-helm
 poshy-wrap-kubectl
@@ -5095,7 +5073,6 @@ powerplateform
 powerplatform
 powerprotect
 powerprotect_datamanager
-powersaving
 powerscheme
 powershell
 powershell-class
@@ -5124,7 +5101,6 @@ powershell.one
 powershell.persistentpathstack
 powershell7
 powershellai
-powershellazuresql
 powershellconferenceeurope
 powershellcore
 powershellcourse
@@ -5326,7 +5302,6 @@ pscommand_acsp
 pscommand_add_ssh
 pscommand_add-envpathitem
 pscommand_add-envvarpathitem
-pscommand_add-gitlfstrackedfiles
 pscommand_add-gitremote
 pscommand_add-gitskipworktreeflag
 pscommand_add-gitsubmodule
@@ -5751,7 +5726,6 @@ pscommand_get-gitdiffstash
 pscommand_get-gitdiffstashhead
 pscommand_get-gitdiffstashparent
 pscommand_get-gitignoredfiles
-pscommand_get-gitlfstrackedfiles
 pscommand_get-gitlogbranchcommitsunpushed
 pscommand_get-gitlogcommitspulledlast
 pscommand_get-gitloggraph
@@ -5858,10 +5832,6 @@ pscommand_gitignore-reload
 pscommand_gittowork
 pscommand_gl
 pscommand_glf
-pscommand_glfsi
-pscommand_glfsls
-pscommand_glfsmi
-pscommand_glfst
 pscommand_glg
 pscommand_glgo
 pscommand_glgs
@@ -5910,7 +5880,6 @@ pscommand_gpatch
 pscommand_gpdo
 pscommand_gpf
 pscommand_gpl
-pscommand_gplfs
 pscommand_gplr
 pscommand_gplrs
 pscommand_gpo
@@ -6113,8 +6082,6 @@ pscommand_invoke-githubapi-bodyfields
 pscommand_invoke-githubapi-bodyfile
 pscommand_invoke-githubapi-bodyjson
 pscommand_invoke-githubapi-bodyraw
-pscommand_invoke-gitlfsinstall
-pscommand_invoke-gitlfsmigrateimport
 pscommand_invoke-gitmerge
 pscommand_invoke-gitpull
 pscommand_invoke-gitpush
@@ -7091,7 +7058,6 @@ pscredential
 pscribo
 pscustomobject
 psd1
-psdb
 psdefaultparametervalues
 psdeploy
 psdesiredstateconfiguration
@@ -7123,6 +7089,7 @@ psenv
 pses
 psexcel
 psexec
+psexec.exe
 psexpandline
 psfciv
 psfitbit
@@ -7134,7 +7101,6 @@ psfunction_aar
 psfunction_add_ssh
 psfunction_add-envpathitem
 psfunction_add-envvarpathitem
-psfunction_add-gitlfstrackedfiles
 psfunction_add-gitremote
 psfunction_add-gitskipworktreeflag
 psfunction_add-gitsubmodule
@@ -7342,7 +7308,6 @@ psfunction_get-gitdiffstash
 psfunction_get-gitdiffstashhead
 psfunction_get-gitdiffstashparent
 psfunction_get-gitignoredfiles
-psfunction_get-gitlfstrackedfiles
 psfunction_get-gitlogbranchcommitsunpushed
 psfunction_get-gitlogcommitspulledlast
 psfunction_get-gitloggraph
@@ -7407,7 +7372,6 @@ psfunction_git-global-show-proxy
 psfunction_git-show-proxy
 psfunction_gitignore-reload
 psfunction_gittowork
-psfunction_gplfs
 psfunction_hostname
 psfunction_invoke-aptcachepolicy
 psfunction_invoke-aptcachesearch
@@ -7521,8 +7485,6 @@ psfunction_invoke-githubapi-bodyfields
 psfunction_invoke-githubapi-bodyfile
 psfunction_invoke-githubapi-bodyjson
 psfunction_invoke-githubapi-bodyraw
-psfunction_invoke-gitlfsinstall
-psfunction_invoke-gitlfsmigrateimport
 psfunction_invoke-gitmerge
 psfunction_invoke-gitpull
 psfunction_invoke-gitpush
@@ -8211,7 +8173,6 @@ psprtg
 pspublicapi
 psql
 psraw
-psreadexif
 psreadline
 psremoting
 psrepository
@@ -8311,9 +8272,7 @@ qemu
 qlgc_fc_powerkit
 qlik
 qlik-api
-qlik-sense
 qlik-view
-qliksesne
 qlikview
 qlikview-cli
 qlogic
@@ -8327,7 +8286,6 @@ qr
 qrcode
 qrcodes
 qrp
-qrs
 quality
 qualys
 quandl
@@ -8363,7 +8321,6 @@ radio
 raidcontrollercmdlets
 railways
 rainbow
-raisers
 raisersedge
 raj
 ram
@@ -8523,7 +8480,6 @@ remotedesktopmanager
 remotedesktopservices
 remotefiles
 remoteforensics
-remotehost
 remotelocalgroup
 remotelogoff
 remotemanagement
@@ -8577,7 +8533,6 @@ resize
 resolution
 resolve
 resolve-stache
-resolve-template
 resolver
 resource
 resource_monitor
@@ -8738,7 +8693,6 @@ sailpoint
 sale
 sales
 salesforce
-salesloft
 salt
 salt-api
 saltstack
@@ -8844,7 +8798,6 @@ scriptblocklogging
 scriptbook
 scriptcop
 scriptcreation
-scriptcs
 scriptedui
 scripting
 scriptlogging
@@ -8893,7 +8846,6 @@ securedns
 securegopher
 securegopher+
 securemfa
-securerdp
 securescore
 securesphere
 securestring
@@ -8984,6 +8936,7 @@ serviceconnectionpoint
 servicecontrol
 servicedesk
 servicedeskplus
+serviceendpoints
 servicefabric
 servicelinker
 servicemanagementautomation
@@ -9310,7 +9263,6 @@ sql-database
 sql-script
 sql-server
 sqlagent
-sqlautomation
 sqlbits
 sqlbrowser
 sqlchangeautomation
@@ -9321,12 +9273,12 @@ sqldatabase
 sqldb
 sqldbatools
 sqldiagapi
-sqlexport
 sqlgateway
 sqlite
 sqlitebynarymodule
 sqlitebynarypsmodule
 sqlitemodule
+sqllocaldb
 sqlpackage
 sqlplus
 sqlproj
@@ -9338,6 +9290,7 @@ sqlserverbynarymodule
 sqlserverbynarypsmodule
 sqlservermodule
 sqlvirtualmachine
+sqr
 sqrt
 square
 squire
@@ -9467,6 +9420,7 @@ sts
 stt
 studio
 style
+su
 sub
 sub-directory
 sub-menu
@@ -9632,7 +9586,6 @@ taxonomy
 tcp
 tcp/ip
 tcpip
-tcpport
 tcprjmgmt
 tcpserver
 tcptest
@@ -9887,6 +9840,7 @@ trouw
 true-color
 truecrypt
 truenas
+trumethods
 truportal
 trusted
 trusted-host
@@ -9916,6 +9870,7 @@ tweet
 twig
 twilio
 twincat
+twinkly
 twitch
 twitter
 twitter-api
@@ -9937,7 +9892,6 @@ types.ps1xml
 typescript
 tzutil
 uac
-uag
 uberagent
 ubiquiti
 ubnt
@@ -10049,7 +10003,6 @@ universal-automation
 universal-dashboard
 universalarchive
 universaldashboard
-universialaccessgateway
 university
 unix
 unlinked
@@ -10152,7 +10105,6 @@ variance
 variants
 vastlimits
 vault
-vaultextension
 vaultstore
 vaultwarden
 vb365
