@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Sunday, 11 February 2024 17:51:42 UTC
+Updated: Monday, 12 February 2024 02:01:33 UTC
 
 .bat
 .env
@@ -36,6 +36,7 @@ Updated: Sunday, 11 February 2024 17:51:42 UTC
 2016
 2018
 2019
+21vianet
 24-bit
 2fa
 300
@@ -83,7 +84,6 @@ access-control
 access-points
 accesscontrol
 accesscontroldsc
-accessgovernancecp
 accesspoint
 accessrights
 accesstoken
@@ -282,7 +282,6 @@ aliases
 aliens
 all
 alletra
-alloydb
 alm
 almrangers
 alpha
@@ -576,7 +575,6 @@ autostart
 autotask
 autotaskapi
 autotaskpsa
-autounattend
 autoupdate
 autoupdate-script
 autowrapper
@@ -706,6 +704,8 @@ azuresecuritycenter
 azureservicebus
 azuresigntool
 azuresql
+azuresqlexport
+azuresqlimport
 azuressas
 azurestack
 azurestackhci
@@ -735,6 +735,7 @@ barcodes
 baremetal
 base
 base16
+base26
 base32
 base64
 base64string
@@ -925,6 +926,7 @@ builder
 building
 buildingfile
 buildingmapping
+buildkit
 buildkite
 buildmaster
 builds
@@ -1244,6 +1246,7 @@ cminifile
 cmnetworkports
 cms
 cmsiteconfig
+cmsmessage
 cmtrace
 cmwt
 cns
@@ -1382,6 +1385,9 @@ conjecture
 connect
 connect-dtcmsite
 connect-exchangeonprem
+connect-mstsc
+connect-rdp
+connect-remotedesktop
 connect-samcmsite
 connected
 connectedkubernetes
@@ -1568,6 +1574,7 @@ cs137
 csc
 csharp
 csharp-watch
+csom
 csp
 csproj
 css
@@ -1609,6 +1616,7 @@ customeventlogfiles
 customevents
 custominformationservices
 customis
+customisation
 customization
 customlocation
 customlogs
@@ -1644,6 +1652,7 @@ dacfx
 dacl
 dacpac
 dacpackage
+dagger
 daily
 dane
 dangling
@@ -1666,10 +1675,10 @@ data-uri
 data-uri-converter
 database
 database-migrations
+databaseautomation
 databasemanagement
 databasemigration
 databases
-databasetools
 databooster
 databox
 databoxedge
@@ -1678,6 +1687,7 @@ datacatalog
 datacenter
 dataclassification
 datacollectionrule
+dataconduit
 dataconnectivity
 datadog
 dataexchange
@@ -1777,7 +1787,6 @@ defaults
 defence
 defender
 defender-atp
-defender-for-endpoint
 defenderast
 defenderforendpoint
 defenderforidentity
@@ -1830,6 +1839,7 @@ devdeer
 developer
 developer_command_prompt
 developercommandprompt
+developermode
 development
 devenv
 devexpress
@@ -1987,6 +1997,7 @@ docs
 document
 documentation
 documentdb
+documentencryption
 documenting
 documents
 docusaurus
@@ -2164,6 +2175,7 @@ effectiveroutes
 efficientether
 efi
 egrep
+eid
 eigencontroles
 einstein
 eklient psedition_core psedition_desktop
@@ -2238,6 +2250,7 @@ enterprisevoice
 entity
 entityframework
 entra
+entra-id
 entraid
 entropy
 enum
@@ -2299,6 +2312,7 @@ ethr
 ethz
 etl
 etl2pcapng
+etrade
 ets
 etw
 eulanda
@@ -2351,6 +2365,7 @@ exchange2010
 exchange2013
 exchange2016
 exchangecluster
+exchangehybrid
 exchangemigration
 exchangeon-premise
 exchangeon-premises
@@ -2358,6 +2373,7 @@ exchangeonline
 exchangeonlinemanagement
 exchangeonlineprotection
 exchangeonprem
+exchangerate
 exchangeserver
 exchangewebservices
 exclusion
@@ -2424,6 +2440,8 @@ eztheme
 f
 f#
 f5
+fabric
+fabtools
 facebook
 factoryorchestrator
 factoryorchestratorclient
@@ -2706,6 +2724,7 @@ gauge
 gavin
 gavineke
 gc
+gcbdr
 gce
 gci
 gcloud
@@ -2799,6 +2818,7 @@ git
 git-client
 git-clone
 git-flow
+git-lfs
 git-proxy
 git-rename
 git-stat
@@ -2888,6 +2908,7 @@ graphics
 graphite
 graphql
 graphs
+graphservices
 graphviz
 graylog
 greenplum
@@ -3162,6 +3183,7 @@ ib
 ibm
 ibmc
 ibmhttpserver
+icacl
 icinga
 icinga2
 icinga2mssql
@@ -3566,6 +3588,7 @@ keyvault
 keywords
 kibana
 kickstart
+kidrsa
 kill
 kindle
 kinetic
@@ -3667,6 +3690,7 @@ legends
 lego
 lein
 leiningnen
+lenel
 length
 lenovo
 less
@@ -3702,6 +3726,7 @@ line
 line-endings
 linear
 linearalgebra
+lingeringobjects
 link
 link-capability
 link-preview
@@ -3794,6 +3819,7 @@ logiclesstemplate
 logicmonitor
 login
 login-azurermaccount
+login-rdp
 logingestion
 loginscreen
 loginsight
@@ -3808,6 +3834,7 @@ logon
 logonright
 logonscript
 logontask
+logonto
 logonuser
 logparser
 logrotate
@@ -4069,6 +4096,7 @@ microsoftdefenderforidentity
 microsoftdeploymenttoolkit
 microsoftendpointmanager
 microsoftexchangeserver
+microsoftfabric
 microsoftgraph
 microsoftgraphapi
 microsoftgraphrestapi
@@ -4126,6 +4154,7 @@ modeling
 modify
 module
 module-maintenance
+modulebuild
 modulecreation
 modulefast
 modulemanagement
@@ -4146,6 +4175,7 @@ mongo
 mongodb
 monitor
 monitor psmodule
+monitorinformation
 monitoring
 monitoring_objects
 monitoring_variables
@@ -4370,6 +4400,7 @@ new-githubrelease
 new-item
 new-itemproperty
 new-pinneditem
+new-rdpsession
 new-samcmapplicationfrompackagedefinitionsms
 new-samcmpackagefrompackagedefinitionsms
 new-system
@@ -4606,6 +4637,7 @@ openholidaysapi
 openid
 openidconnect
 openinghours
+openport
 openprovider
 openscad
 opensearch
@@ -4805,6 +4837,7 @@ paylocity
 paypal
 pays
 pbench
+pbip
 pc
 pcapng
 pci-dss
@@ -4975,6 +5008,7 @@ posh-ribbon
 posh-ssh
 poshbot
 poshcommence
+poshevents
 poshgraph
 poshgraph-sdk
 poshgrouppolicy
@@ -5015,6 +5049,7 @@ poshy-wrap-gem
 poshy-wrap-gh
 poshy-wrap-git
 poshy-wrap-git-flow
+poshy-wrap-git-lfs
 poshy-wrap-golang
 poshy-wrap-helm
 poshy-wrap-kubectl
@@ -5031,7 +5066,6 @@ poshy-wrap-ruby
 poshy-wrap-systemctl
 poshy-wrap-terraform
 poshy-wrap-terragrunt
-poshy-wrap-tmux
 poshy-wrap-vagrant
 poshy-wrap-vault
 poshy-wrap-vscode
@@ -5073,6 +5107,7 @@ powerplateform
 powerplatform
 powerprotect
 powerprotect_datamanager
+powersaving
 powerscheme
 powershell
 powershell-class
@@ -5101,6 +5136,7 @@ powershell.one
 powershell.persistentpathstack
 powershell7
 powershellai
+powershellazuresql
 powershellconferenceeurope
 powershellcore
 powershellcourse
@@ -5245,7 +5281,6 @@ proxmox
 proxmoxve
 proxsys
 proxy
-proxyfunction
 proxyfunctions
 prtg
 prtg_network_monitor
@@ -5302,6 +5337,7 @@ pscommand_acsp
 pscommand_add_ssh
 pscommand_add-envpathitem
 pscommand_add-envvarpathitem
+pscommand_add-gitlfstrackedfiles
 pscommand_add-gitremote
 pscommand_add-gitskipworktreeflag
 pscommand_add-gitsubmodule
@@ -5726,6 +5762,7 @@ pscommand_get-gitdiffstash
 pscommand_get-gitdiffstashhead
 pscommand_get-gitdiffstashparent
 pscommand_get-gitignoredfiles
+pscommand_get-gitlfstrackedfiles
 pscommand_get-gitlogbranchcommitsunpushed
 pscommand_get-gitlogcommitspulledlast
 pscommand_get-gitloggraph
@@ -5832,6 +5869,10 @@ pscommand_gitignore-reload
 pscommand_gittowork
 pscommand_gl
 pscommand_glf
+pscommand_glfsi
+pscommand_glfsls
+pscommand_glfsmi
+pscommand_glfst
 pscommand_glg
 pscommand_glgo
 pscommand_glgs
@@ -5880,6 +5921,7 @@ pscommand_gpatch
 pscommand_gpdo
 pscommand_gpf
 pscommand_gpl
+pscommand_gplfs
 pscommand_gplr
 pscommand_gplrs
 pscommand_gpo
@@ -6082,6 +6124,8 @@ pscommand_invoke-githubapi-bodyfields
 pscommand_invoke-githubapi-bodyfile
 pscommand_invoke-githubapi-bodyjson
 pscommand_invoke-githubapi-bodyraw
+pscommand_invoke-gitlfsinstall
+pscommand_invoke-gitlfsmigrateimport
 pscommand_invoke-gitmerge
 pscommand_invoke-gitpull
 pscommand_invoke-gitpush
@@ -6414,13 +6458,6 @@ pscommand_invoke-terragruntplan
 pscommand_invoke-terragruntplanall
 pscommand_invoke-terragruntvalidate
 pscommand_invoke-terragruntvalidateall
-pscommand_invoke-tmuxattachforterminal
-pscommand_invoke-tmuxattachforterminaldetachingothers
-pscommand_invoke-tmuxeditconfig
-pscommand_invoke-tmuxkillserver
-pscommand_invoke-tmuxkillsessionforterminal
-pscommand_invoke-tmuxlistsessions
-pscommand_invoke-tmuxnewsessionfromsource
 pscommand_invoke-vagrantdestroy
 pscommand_invoke-vagranthalt
 pscommand_invoke-vagranthostmanager
@@ -6862,8 +6899,6 @@ pscommand_syspip
 pscommand_syspip_package_location
 pscommand_syspip3
 pscommand_syspip3_package_location
-pscommand_ta
-pscommand_tad
 pscommand_test-command
 pscommand_test-d
 pscommand_test-elevation
@@ -6891,14 +6926,6 @@ pscommand_tgp
 pscommand_tgpa
 pscommand_tgv
 pscommand_tgva
-pscommand_tkss
-pscommand_tksv
-pscommand_tl
-pscommand_tmuxconf
-pscommand_ts
-pscommand_txa
-pscommand_txl
-pscommand_txn
 pscommand_universalarchive
 pscommand_update-gitbranchbasefrombranchmain
 pscommand_update-gitbranchbasefrommain
@@ -7058,6 +7085,7 @@ pscredential
 pscribo
 pscustomobject
 psd1
+psdb
 psdefaultparametervalues
 psdeploy
 psdesiredstateconfiguration
@@ -7101,6 +7129,7 @@ psfunction_aar
 psfunction_add_ssh
 psfunction_add-envpathitem
 psfunction_add-envvarpathitem
+psfunction_add-gitlfstrackedfiles
 psfunction_add-gitremote
 psfunction_add-gitskipworktreeflag
 psfunction_add-gitsubmodule
@@ -7308,6 +7337,7 @@ psfunction_get-gitdiffstash
 psfunction_get-gitdiffstashhead
 psfunction_get-gitdiffstashparent
 psfunction_get-gitignoredfiles
+psfunction_get-gitlfstrackedfiles
 psfunction_get-gitlogbranchcommitsunpushed
 psfunction_get-gitlogcommitspulledlast
 psfunction_get-gitloggraph
@@ -7372,6 +7402,7 @@ psfunction_git-global-show-proxy
 psfunction_git-show-proxy
 psfunction_gitignore-reload
 psfunction_gittowork
+psfunction_gplfs
 psfunction_hostname
 psfunction_invoke-aptcachepolicy
 psfunction_invoke-aptcachesearch
@@ -7485,6 +7516,8 @@ psfunction_invoke-githubapi-bodyfields
 psfunction_invoke-githubapi-bodyfile
 psfunction_invoke-githubapi-bodyjson
 psfunction_invoke-githubapi-bodyraw
+psfunction_invoke-gitlfsinstall
+psfunction_invoke-gitlfsmigrateimport
 psfunction_invoke-gitmerge
 psfunction_invoke-gitpull
 psfunction_invoke-gitpush
@@ -7817,13 +7850,6 @@ psfunction_invoke-terragruntplan
 psfunction_invoke-terragruntplanall
 psfunction_invoke-terragruntvalidate
 psfunction_invoke-terragruntvalidateall
-psfunction_invoke-tmuxattachforterminal
-psfunction_invoke-tmuxattachforterminaldetachingothers
-psfunction_invoke-tmuxeditconfig
-psfunction_invoke-tmuxkillserver
-psfunction_invoke-tmuxkillsessionforterminal
-psfunction_invoke-tmuxlistsessions
-psfunction_invoke-tmuxnewsessionfromsource
 psfunction_invoke-vagrantdestroy
 psfunction_invoke-vagranthalt
 psfunction_invoke-vagranthostmanager
@@ -8173,6 +8199,7 @@ psprtg
 pspublicapi
 psql
 psraw
+psreadexif
 psreadline
 psremoting
 psrepository
@@ -8272,7 +8299,9 @@ qemu
 qlgc_fc_powerkit
 qlik
 qlik-api
+qlik-sense
 qlik-view
+qliksesne
 qlikview
 qlikview-cli
 qlogic
@@ -8286,6 +8315,7 @@ qr
 qrcode
 qrcodes
 qrp
+qrs
 quality
 qualys
 quandl
@@ -8321,6 +8351,7 @@ radio
 raidcontrollercmdlets
 railways
 rainbow
+raisers
 raisersedge
 raj
 ram
@@ -8480,6 +8511,7 @@ remotedesktopmanager
 remotedesktopservices
 remotefiles
 remoteforensics
+remotehost
 remotelocalgroup
 remotelogoff
 remotemanagement
@@ -8533,6 +8565,7 @@ resize
 resolution
 resolve
 resolve-stache
+resolve-template
 resolver
 resource
 resource_monitor
@@ -8693,6 +8726,7 @@ sailpoint
 sale
 sales
 salesforce
+salesloft
 salt
 salt-api
 saltstack
@@ -8767,7 +8801,6 @@ schulverwaltung
 science
 scissors
 scm
-scmanager
 scom
 sconfig
 scoop
@@ -8798,6 +8831,7 @@ scriptblocklogging
 scriptbook
 scriptcop
 scriptcreation
+scriptcs
 scriptedui
 scripting
 scriptlogging
@@ -8846,6 +8880,7 @@ securedns
 securegopher
 securegopher+
 securemfa
+securerdp
 securescore
 securesphere
 securestring
@@ -8931,7 +8966,6 @@ service-bus
 service-messages
 servicebus
 servicebusforwindowsserver
-servicecatalog
 serviceconnectionpoint
 servicecontrol
 servicedesk
@@ -9263,6 +9297,7 @@ sql-database
 sql-script
 sql-server
 sqlagent
+sqlautomation
 sqlbits
 sqlbrowser
 sqlchangeautomation
@@ -9273,6 +9308,7 @@ sqldatabase
 sqldb
 sqldbatools
 sqldiagapi
+sqlexport
 sqlgateway
 sqlite
 sqlitebynarymodule
@@ -9290,7 +9326,6 @@ sqlserverbynarymodule
 sqlserverbynarypsmodule
 sqlservermodule
 sqlvirtualmachine
-sqr
 sqrt
 square
 squire
@@ -9586,6 +9621,7 @@ taxonomy
 tcp
 tcp/ip
 tcpip
+tcpport
 tcprjmgmt
 tcpserver
 tcptest
@@ -9741,7 +9777,6 @@ tls12
 tlsa
 tlsprotocol
 tlsrpt
-tmux
 to-do
 toast
 toasts
@@ -9799,8 +9834,6 @@ transact
 transaction
 transactions
 transcode
-transcript
-transcripts
 transform
 transformation
 transforms
@@ -9879,9 +9912,7 @@ twitter-client
 twitter-follow
 twitter-hashtag
 twitter-mention
-twitter-share
 twitter-timeline
-twitter-tweet
 txt
 type
 typeaccelerators
@@ -9892,6 +9923,7 @@ types.ps1xml
 typescript
 tzutil
 uac
+uag
 uberagent
 ubiquiti
 ubnt
@@ -9931,7 +9963,6 @@ ud-piechart3d
 ud-pivottable
 ud-progressstepbar
 ud-rangeslider
-ud-readingbar
 ud-scrollspy
 ud-selectdatetime
 ud-selector
@@ -10003,6 +10034,7 @@ universal-automation
 universal-dashboard
 universalarchive
 universaldashboard
+universialaccessgateway
 university
 unix
 unlinked
@@ -10065,6 +10097,7 @@ userright
 userrights
 userrightsassignment
 users
+userworkstations
 usg
 usps
 utc
@@ -10088,7 +10121,6 @@ uwp
 ux
 vadim
 vagrant
-vale
 validate
 validate-dcb
 validatedsolutions
@@ -10105,6 +10137,7 @@ variance
 variants
 vastlimits
 vault
+vaultextension
 vaultstore
 vaultwarden
 vb365
@@ -10132,7 +10165,6 @@ vduplink
 ve7cc
 vector
 veeam
-veeampn
 veeva
 venafi
 vencord
@@ -10329,7 +10361,6 @@ weaviate
 weaviatenet
 web
 web-browser
-web-search
 web.config
 webadministration
 webapi
