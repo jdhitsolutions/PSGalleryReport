@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 12 February 2024 09:51:44 UTC
+Updated: Monday, 12 February 2024 17:51:47 UTC
 
 .bat
 .env
@@ -162,6 +162,7 @@ addlevel
 addomainservices
 addon
 address
+address-book
 addresses
 addressrange
 adds
@@ -176,7 +177,6 @@ adfstools
 adgroupmemberobjects
 adgroupmembers
 adgroups
-adidns
 adif
 adlds
 adm
@@ -282,6 +282,7 @@ alias-tips
 aliases
 aliens
 all
+alletra
 alloydb
 alm
 almrangers
@@ -660,6 +661,7 @@ azureadconnect
 azureadgraph
 azureadtoolkit
 azureadvancedthreatprotection
+azureappconfiguration
 azureas
 azureatp
 azureautomation
@@ -854,7 +856,6 @@ blueprint
 blueprints
 blueteam
 bluetraitio
-bluetuxedo
 bmc
 bnm
 boards
@@ -967,7 +968,6 @@ calculator
 calendar
 callingcode
 callqueue
-calvin-and-hobbes
 cam
 camera
 campaign
@@ -1077,7 +1077,6 @@ chatbot
 chatgpt
 chatops
 chatroom
-chatter
 cheat
 check
 checker
@@ -1227,7 +1226,10 @@ cloudshell
 clueser
 cluster
 clusterminimumvalues
+clusterplugins
 cmaccounts
+cmake
+cmakepresets.json
 cmbuild
 cmclibnet
 cmclustermaintenance
@@ -1256,6 +1258,7 @@ code365
 codeanalysis
 codebuild
 codecommit
+codecomplexity
 codecov
 codecoverage
 codegen
@@ -1518,7 +1521,6 @@ create
 createcolumn
 createdatabase
 createfile
-createprocessasuser
 createschema
 createtable
 creationworkflowsimplification
@@ -1536,6 +1538,7 @@ credentialprovider
 credentials
 credentials-cache
 credentialsmanager
+credentialstore
 credentialutility
 credman
 credmanager
@@ -1779,7 +1782,6 @@ defaults
 defence
 defender
 defender-atp
-defender-for-endpoint
 defenderast
 defenderforendpoint
 defenderforidentity
@@ -1933,7 +1935,6 @@ distributiongroups
 distributionlist
 distributionpointgroupmembers
 distrubtionpoint
-dividends
 diving
 division
 divoom
@@ -2003,7 +2004,6 @@ dokuwiki
 domain
 domainkey
 domainname
-domainnamesystem
 domains
 domino
 donothing
@@ -2162,6 +2162,7 @@ edr
 education
 educational
 effectiveroutes
+efficientether
 efi
 egrep
 eid
@@ -2295,6 +2296,7 @@ esx
 esxi
 eternalblue
 ether
+etherassist
 ethereum
 ethr
 ethz
@@ -2304,6 +2306,7 @@ etrade
 ets
 etw
 eulanda
+evaluator
 evc
 event
 event_id
@@ -2480,6 +2483,7 @@ fifa
 figlet
 file
 file-association
+file-copy
 file-encoding
 file-extension
 file-extension-association
@@ -2723,6 +2727,7 @@ gemini
 geminiprotocol
 gemlog
 gemtext
+genai
 general
 generate
 generate-dockerimagevariants
@@ -2732,6 +2737,7 @@ generateaddress
 generates
 generatewif
 generation
+generativeai
 generativeaiinference
 generator
 generic
@@ -3270,7 +3276,6 @@ indicator
 inedo
 inetfwrule
 inetum
-infinity
 influx
 influxdb
 info
@@ -3494,7 +3499,6 @@ join-object
 jojoba
 joke
 jotform
-journal
 joyride
 jpg
 jq
@@ -3606,6 +3610,7 @@ kurukuru
 kusto
 kvm
 kvp
+kvt
 l1tf
 l2tp
 lab
@@ -3765,6 +3770,7 @@ location
 locationbasedservices
 lock
 lockbox
+lockdisplaytimeout
 lockdown
 locking
 lockoutreport
@@ -3817,7 +3823,6 @@ logonright
 logonscript
 logontask
 logonto
-logonuser
 logparser
 logrotate
 logrotation
@@ -4104,6 +4109,7 @@ mimekit
 min
 mindmeister
 minecraft
+miniconda
 minifier
 minimal
 minimum
@@ -4171,6 +4177,7 @@ mosaic
 motd
 motivation
 motivationalquotes
+mount
 mouse
 move
 movies
@@ -4457,7 +4464,6 @@ nprintingapi
 nps
 npslog
 npslogfile
-nql
 nrc
 nrql
 ns
@@ -4928,6 +4934,7 @@ plex
 plist
 plog
 plot
+plug-n-copy
 plugin
 plugins
 pluralsight
@@ -5151,6 +5158,7 @@ pranks
 predicate
 prediction
 predictive
+predictive-text
 predictor
 preferences
 prefix
@@ -5173,6 +5181,7 @@ previousversions
 price
 pricelist
 primenumber
+primera
 principal
 principle
 print
@@ -8173,7 +8182,6 @@ psloganalytics
 psm
 psm1
 psmodule
-psmodule psedition_desktop
 psmodulepath
 psmodulepsedition_desktoppsedition_core
 psmodules
@@ -8196,6 +8204,7 @@ psprofiler
 psproject
 psprojectcreator
 psprojectgenerator
+psprovider
 psprtg
 pspublicapi
 psql
@@ -8299,9 +8308,7 @@ qemu
 qlgc_fc_powerkit
 qlik
 qlik-api
-qlik-sense
 qlik-view
-qliksesne
 qlikview
 qlikview-cli
 qlogic
@@ -8315,7 +8322,6 @@ qr
 qrcode
 qrcodes
 qrp
-qrs
 quality
 qualys
 quandl
@@ -8491,6 +8497,7 @@ releasemanagement
 releasenotes
 relevance
 relic
+reload
 remediation
 remedy
 reminder
@@ -8563,6 +8570,7 @@ resize
 resolution
 resolve
 resolve-stache
+resolve-template
 resolver
 resource
 resource_monitor
@@ -8617,6 +8625,7 @@ rgb
 rhapsody
 ribbon
 ribcl
+ricoh
 rightjoin
 rights
 rightsizing
@@ -8798,6 +8807,7 @@ schulverwaltung
 science
 scissors
 scm
+scmanager
 scom
 sconfig
 scoop
@@ -8852,6 +8862,7 @@ search-engines
 searchengine
 searcher
 searching
+searchmanager
 searchplace
 searchquery
 searchstring
@@ -8913,6 +8924,7 @@ self
 self-hosted
 self-service
 self-signed
+selfdispatch
 selfhelp
 selfsigned
 semantic
@@ -8965,7 +8977,6 @@ serviceconnectionpoint
 servicecontrol
 servicedesk
 servicedeskplus
-serviceendpoints
 servicefabric
 servicelinker
 servicemanagementautomation
@@ -9032,7 +9043,6 @@ sharefile
 sharepoint
 sharepoint_online
 sharepoint-on-prem
-sharepoint-online
 sharepoint-product-configuration-wizard
 sharepoint2013
 sharepointdevelopmentcommunity
@@ -9220,6 +9230,7 @@ soonr
 soonragent
 sophos
 sort
+sorting
 source
 source-dedicated-server
 sourcecontrol
@@ -9409,10 +9420,8 @@ stigrepo
 stingar
 stock
 stockcharts
-stocks
 stoicism
 stoics
-stop
 storablecolortheme
 storage
 storageaccount
@@ -9460,7 +9469,6 @@ sublimetext
 submission
 subnet
 subnet-calculator
-subnetcalulator
 subnetdetails
 subnetmapping
 subnetmask
@@ -9529,6 +9537,7 @@ syndication
 synergy
 syntax
 syntax-highlighting
+syntaxcheck
 syntaxhighlighter
 synthesis
 synthetics
@@ -9630,6 +9639,7 @@ teamsdevices
 teamservices
 teamspolicy
 teamviewer
+techdirect
 techedna2014
 techlog
 technology
@@ -9866,6 +9876,7 @@ troubleshoot
 troubleshooting
 trouw
 true-color
+truecrypt
 truenas
 trumethods
 truportal
@@ -10171,6 +10182,7 @@ vendor
 venue
 venvlink
 vera
+veracrypt
 verbose psmodule
 verification
 verify
@@ -10498,6 +10510,7 @@ windowspresentationfoundation
 windowsreleasehealth
 windowsrest
 windowssandbox
+windowssearchmanager
 windowsserver
 windowsserver2008
 windowsserver2016
@@ -10574,7 +10587,6 @@ workrequests
 worksheet
 workshop
 workspace
-workspacemanager
 workspaceone
 workspaces
 workstation
@@ -10610,6 +10622,7 @@ writemanager
 writeprogress
 writer
 ws-federation
+wsapi
 wsb
 wsl
 wsl2
