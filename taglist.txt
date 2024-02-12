@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 12 February 2024 02:01:33 UTC
+Updated: Monday, 12 February 2024 09:51:44 UTC
 
 .bat
 .env
@@ -84,6 +84,7 @@ access-control
 access-points
 accesscontrol
 accesscontroldsc
+accessgovernancecp
 accesspoint
 accessrights
 accesstoken
@@ -281,7 +282,7 @@ alias-tips
 aliases
 aliens
 all
-alletra
+alloydb
 alm
 almrangers
 alpha
@@ -575,6 +576,7 @@ autostart
 autotask
 autotaskapi
 autotaskpsa
+autounattend
 autoupdate
 autoupdate-script
 autowrapper
@@ -658,7 +660,6 @@ azureadconnect
 azureadgraph
 azureadtoolkit
 azureadvancedthreatprotection
-azureappconfiguration
 azureas
 azureatp
 azureautomation
@@ -1226,10 +1227,7 @@ cloudshell
 clueser
 cluster
 clusterminimumvalues
-clusterplugins
 cmaccounts
-cmake
-cmakepresets.json
 cmbuild
 cmclibnet
 cmclustermaintenance
@@ -1246,7 +1244,6 @@ cminifile
 cmnetworkports
 cms
 cmsiteconfig
-cmsmessage
 cmtrace
 cmwt
 cns
@@ -1259,7 +1256,6 @@ code365
 codeanalysis
 codebuild
 codecommit
-codecomplexity
 codecov
 codecoverage
 codegen
@@ -1385,9 +1381,6 @@ conjecture
 connect
 connect-dtcmsite
 connect-exchangeonprem
-connect-mstsc
-connect-rdp
-connect-remotedesktop
 connect-samcmsite
 connected
 connectedkubernetes
@@ -1543,7 +1536,6 @@ credentialprovider
 credentials
 credentials-cache
 credentialsmanager
-credentialstore
 credentialutility
 credman
 credmanager
@@ -1787,6 +1779,7 @@ defaults
 defence
 defender
 defender-atp
+defender-for-endpoint
 defenderast
 defenderforendpoint
 defenderforidentity
@@ -1867,7 +1860,6 @@ di
 diagnostic
 diagnostics
 diagram
-diagrammer
 diagrams
 dialog
 dice
@@ -1917,7 +1909,6 @@ discover
 discovery
 discutils
 disk
-disk_to_disk
 disk-space
 diskfree
 diskimage
@@ -1997,7 +1988,6 @@ docs
 document
 documentation
 documentdb
-documentencryption
 documenting
 documents
 docusaurus
@@ -2172,7 +2162,6 @@ edr
 education
 educational
 effectiveroutes
-efficientether
 efi
 egrep
 eid
@@ -2306,7 +2295,6 @@ esx
 esxi
 eternalblue
 ether
-etherassist
 ethereum
 ethr
 ethz
@@ -2316,7 +2304,6 @@ etrade
 ets
 etw
 eulanda
-evaluator
 evc
 event
 event_id
@@ -2493,7 +2480,6 @@ fifa
 figlet
 file
 file-association
-file-copy
 file-encoding
 file-extension
 file-extension-association
@@ -2737,7 +2723,6 @@ gemini
 geminiprotocol
 gemlog
 gemtext
-genai
 general
 generate
 generate-dockerimagevariants
@@ -2747,7 +2732,6 @@ generateaddress
 generates
 generatewif
 generation
-generativeai
 generativeaiinference
 generator
 generic
@@ -3781,7 +3765,6 @@ location
 locationbasedservices
 lock
 lockbox
-lockdisplaytimeout
 lockdown
 locking
 lockoutreport
@@ -3819,7 +3802,6 @@ logiclesstemplate
 logicmonitor
 login
 login-azurermaccount
-login-rdp
 logingestion
 loginscreen
 loginsight
@@ -4122,7 +4104,6 @@ mimekit
 min
 mindmeister
 minecraft
-miniconda
 minifier
 minimal
 minimum
@@ -4190,7 +4171,6 @@ mosaic
 motd
 motivation
 motivationalquotes
-mount
 mouse
 move
 movies
@@ -4400,7 +4380,6 @@ new-githubrelease
 new-item
 new-itemproperty
 new-pinneditem
-new-rdpsession
 new-samcmapplicationfrompackagedefinitionsms
 new-samcmpackagefrompackagedefinitionsms
 new-system
@@ -4949,7 +4928,6 @@ plex
 plist
 plog
 plot
-plug-n-copy
 plugin
 plugins
 pluralsight
@@ -5066,6 +5044,7 @@ poshy-wrap-ruby
 poshy-wrap-systemctl
 poshy-wrap-terraform
 poshy-wrap-terragrunt
+poshy-wrap-tmux
 poshy-wrap-vagrant
 poshy-wrap-vault
 poshy-wrap-vscode
@@ -5172,7 +5151,6 @@ pranks
 predicate
 prediction
 predictive
-predictive-text
 predictor
 preferences
 prefix
@@ -5195,7 +5173,6 @@ previousversions
 price
 pricelist
 primenumber
-primera
 principal
 principle
 print
@@ -5281,6 +5258,7 @@ proxmox
 proxmoxve
 proxsys
 proxy
+proxyfunction
 proxyfunctions
 prtg
 prtg_network_monitor
@@ -6458,6 +6436,13 @@ pscommand_invoke-terragruntplan
 pscommand_invoke-terragruntplanall
 pscommand_invoke-terragruntvalidate
 pscommand_invoke-terragruntvalidateall
+pscommand_invoke-tmuxattachforterminal
+pscommand_invoke-tmuxattachforterminaldetachingothers
+pscommand_invoke-tmuxeditconfig
+pscommand_invoke-tmuxkillserver
+pscommand_invoke-tmuxkillsessionforterminal
+pscommand_invoke-tmuxlistsessions
+pscommand_invoke-tmuxnewsessionfromsource
 pscommand_invoke-vagrantdestroy
 pscommand_invoke-vagranthalt
 pscommand_invoke-vagranthostmanager
@@ -6899,6 +6884,8 @@ pscommand_syspip
 pscommand_syspip_package_location
 pscommand_syspip3
 pscommand_syspip3_package_location
+pscommand_ta
+pscommand_tad
 pscommand_test-command
 pscommand_test-d
 pscommand_test-elevation
@@ -6926,6 +6913,14 @@ pscommand_tgp
 pscommand_tgpa
 pscommand_tgv
 pscommand_tgva
+pscommand_tkss
+pscommand_tksv
+pscommand_tl
+pscommand_tmuxconf
+pscommand_ts
+pscommand_txa
+pscommand_txl
+pscommand_txn
 pscommand_universalarchive
 pscommand_update-gitbranchbasefrombranchmain
 pscommand_update-gitbranchbasefrommain
@@ -7850,6 +7845,13 @@ psfunction_invoke-terragruntplan
 psfunction_invoke-terragruntplanall
 psfunction_invoke-terragruntvalidate
 psfunction_invoke-terragruntvalidateall
+psfunction_invoke-tmuxattachforterminal
+psfunction_invoke-tmuxattachforterminaldetachingothers
+psfunction_invoke-tmuxeditconfig
+psfunction_invoke-tmuxkillserver
+psfunction_invoke-tmuxkillsessionforterminal
+psfunction_invoke-tmuxlistsessions
+psfunction_invoke-tmuxnewsessionfromsource
 psfunction_invoke-vagrantdestroy
 psfunction_invoke-vagranthalt
 psfunction_invoke-vagranthostmanager
@@ -8194,7 +8196,6 @@ psprofiler
 psproject
 psprojectcreator
 psprojectgenerator
-psprovider
 psprtg
 pspublicapi
 psql
@@ -8223,7 +8224,6 @@ pssqlservermodule
 psst
 psstgenerator
 pstablacus
-pstanss
 psthread
 pstk
 pstwitter
@@ -8491,7 +8491,6 @@ releasemanagement
 releasenotes
 relevance
 relic
-reload
 remediation
 remedy
 reminder
@@ -8511,7 +8510,6 @@ remotedesktopmanager
 remotedesktopservices
 remotefiles
 remoteforensics
-remotehost
 remotelocalgroup
 remotelogoff
 remotemanagement
@@ -8565,7 +8563,6 @@ resize
 resolution
 resolve
 resolve-stache
-resolve-template
 resolver
 resource
 resource_monitor
@@ -8855,7 +8852,6 @@ search-engines
 searchengine
 searcher
 searching
-searchmanager
 searchplace
 searchquery
 searchstring
@@ -8880,7 +8876,6 @@ securedns
 securegopher
 securegopher+
 securemfa
-securerdp
 securescore
 securesphere
 securestring
@@ -8918,7 +8913,6 @@ self
 self-hosted
 self-service
 self-signed
-selfdispatch
 selfhelp
 selfsigned
 semantic
@@ -8966,6 +8960,7 @@ service-bus
 service-messages
 servicebus
 servicebusforwindowsserver
+servicecatalog
 serviceconnectionpoint
 servicecontrol
 servicedesk
@@ -9225,7 +9220,6 @@ soonr
 soonragent
 sophos
 sort
-sorting
 source
 source-dedicated-server
 sourcecontrol
@@ -9326,6 +9320,7 @@ sqlserverbynarymodule
 sqlserverbynarypsmodule
 sqlservermodule
 sqlvirtualmachine
+sqr
 sqrt
 square
 squire
@@ -9534,7 +9529,6 @@ syndication
 synergy
 syntax
 syntax-highlighting
-syntaxcheck
 syntaxhighlighter
 synthesis
 synthetics
@@ -9603,7 +9597,6 @@ taken
 takeown
 tally
 talxis
-tanss
 tanzu
 tar
 target
@@ -9637,7 +9630,6 @@ teamsdevices
 teamservices
 teamspolicy
 teamviewer
-techdirect
 techedna2014
 techlog
 technology
@@ -9777,6 +9769,7 @@ tls12
 tlsa
 tlsprotocol
 tlsrpt
+tmux
 to-do
 toast
 toasts
@@ -9834,6 +9827,8 @@ transact
 transaction
 transactions
 transcode
+transcript
+transcripts
 transform
 transformation
 transforms
@@ -9871,7 +9866,6 @@ troubleshoot
 troubleshooting
 trouw
 true-color
-truecrypt
 truenas
 trumethods
 truportal
@@ -9912,7 +9906,9 @@ twitter-client
 twitter-follow
 twitter-hashtag
 twitter-mention
+twitter-share
 twitter-timeline
+twitter-tweet
 txt
 type
 typeaccelerators
@@ -9963,6 +9959,7 @@ ud-piechart3d
 ud-pivottable
 ud-progressstepbar
 ud-rangeslider
+ud-readingbar
 ud-scrollspy
 ud-selectdatetime
 ud-selector
@@ -10121,6 +10118,7 @@ uwp
 ux
 vadim
 vagrant
+vale
 validate
 validate-dcb
 validatedsolutions
@@ -10165,6 +10163,7 @@ vduplink
 ve7cc
 vector
 veeam
+veeampn
 veeva
 venafi
 vencord
@@ -10172,7 +10171,6 @@ vendor
 venue
 venvlink
 vera
-veracrypt
 verbose psmodule
 verification
 verify
@@ -10361,6 +10359,7 @@ weaviate
 weaviatenet
 web
 web-browser
+web-search
 web.config
 webadministration
 webapi
@@ -10499,7 +10498,6 @@ windowspresentationfoundation
 windowsreleasehealth
 windowsrest
 windowssandbox
-windowssearchmanager
 windowsserver
 windowsserver2008
 windowsserver2016
@@ -10612,7 +10610,6 @@ writemanager
 writeprogress
 writer
 ws-federation
-wsapi
 wsb
 wsl
 wsl2
