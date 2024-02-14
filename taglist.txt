@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Tuesday, 13 February 2024 17:51:50 UTC
+Updated: Wednesday, 14 February 2024 02:01:12 UTC
 
 .bat
 .env
@@ -39,6 +39,7 @@ Updated: Tuesday, 13 February 2024 17:51:50 UTC
 21vianet
 24-bit
 2fa
+300
 365
 36867
 3d
@@ -153,6 +154,7 @@ add
 add-member
 add-on
 add-on.module
+add-one
 add-path
 add-type
 addin
@@ -530,7 +532,6 @@ auditpolicy
 audits
 aumid
 aut
-auth
 auth0
 authenticate
 authentication
@@ -925,7 +926,6 @@ build-log
 build-scripts
 builddefinition
 builder
-building
 buildingfile
 buildingmapping
 buildkit
@@ -980,7 +980,6 @@ canonical
 cantara
 capability
 capacity
-capacitymanagement
 capgemini
 capslock
 captcha
@@ -1222,7 +1221,6 @@ cloudiq
 cloudkey
 cloudmarque
 cloudmigrations
-cloudpc
 cloudservice
 cloudshell
 clueser
@@ -1232,6 +1230,7 @@ clusterplugins
 cmaccounts
 cmake
 cmakepresets.json
+cmbuild
 cmclibnet
 cmclustermaintenance
 cmd
@@ -1246,6 +1245,7 @@ cmhealthcheck
 cminifile
 cmnetworkports
 cms
+cmsiteconfig
 cmsmessage
 cmtrace
 cmwt
@@ -1376,6 +1376,7 @@ configurationapi
 configurationdata
 configurationkey
 configurationmanagement
+configurationmanager
 configurationprofile
 configure
 confluence
@@ -1906,6 +1907,8 @@ disable
 disable-internet
 disable-psremoting
 disablefilesyncngsc
+disablestartbutton
+disablestartkey
 disasm
 disasterrecovery
 disconnect
@@ -1942,7 +1945,6 @@ distributionlist
 distributionpointgroupmembers
 distrubtionpoint
 dividends
-diving
 division
 divoom
 dkim
@@ -2011,6 +2013,7 @@ dok
 dokuwiki
 domain
 domainkey
+domainname
 domainnamesystem
 domains
 domino
@@ -2077,6 +2080,7 @@ ds
 ds-client
 ds-utils
 dsa
+dsacls
 dsc
 dsc-resource
 dsc-resources
@@ -2169,7 +2173,6 @@ edr
 education
 educational
 effectiveroutes
-efficientether
 efi
 egrep
 eid
@@ -2300,7 +2303,6 @@ esx
 esxi
 eternalblue
 ether
-etherassist
 ethereum
 ethr
 ethz
@@ -2446,7 +2448,6 @@ failure
 falcon
 fallbackstatuspoint
 fanarttv
-fancy
 faq
 farm
 farmanager
@@ -2487,7 +2488,6 @@ fifa
 figlet
 file
 file-association
-file-copy
 file-encoding
 file-extension
 file-extension-association
@@ -2711,7 +2711,6 @@ games
 gameserver
 gaming
 garage
-gas
 gat
 gateway
 gauge
@@ -2731,7 +2730,6 @@ gemini
 geminiprotocol
 gemlog
 gemtext
-genai
 general
 generate
 generate-dockerimagevariants
@@ -2741,7 +2739,6 @@ generateaddress
 generates
 generatewif
 generation
-generativeai
 generativeaiinference
 generator
 generic
@@ -2780,7 +2777,6 @@ get-externalip
 get-firmwaretype
 get-help
 get-history
-get-iislog
 get-openfile
 get-openfiles
 get-pass
@@ -2803,7 +2799,6 @@ gh-actions
 ghactions
 ghc
 ghibli
-ghost
 gif
 gifs
 giphy
@@ -3389,6 +3384,7 @@ invoke-msbuildpreprocess
 invoke-vsbuild
 invoke-vsdevcommand
 invokebuild
+invokemethod
 io
 ios
 iot
@@ -3540,6 +3536,8 @@ k8s
 k8sshell
 kafka
 kaminario
+karabiner
+karabiner-elements
 karma
 kaseya
 kaseyavsa
@@ -3563,11 +3561,15 @@ key
 key-vault
 key2wocas
 keybase
+keybinding
 keyboard
+keyboardstartkey
 keycipher
 keycloak
 keylight
 keymanagement
+keymap
+keymapping
 keypair
 keysms
 keyvault
@@ -3672,7 +3674,6 @@ learnpowershell
 lease
 leftjoin
 legacy
-legacyad
 legends
 lego
 lein
@@ -3728,7 +3729,6 @@ lint
 linting
 linux
 linux-command
-linuxssh
 liquid
 liquit
 liquit.com
@@ -3893,7 +3893,6 @@ maintain-module
 maintenance
 maintenance-window
 maintenancewindows
-make
 maker
 malware
 mamagedidentity
@@ -3905,7 +3904,6 @@ manageability
 managed-identity
 manageddisks
 managedidentities
-managedidentity
 managedserviceidenity
 managedserviceidentity
 managedserviceprovider
@@ -4042,6 +4040,7 @@ metadata
 metadataservice
 metaprogramming
 method
+methodinfo
 methods
 metric
 metrics
@@ -4080,6 +4079,7 @@ microsoftdefender
 microsoftdefenderatp
 microsoftdefenderforidentity
 microsoftdeploymenttoolkit
+microsoftendpointmanager
 microsoftexchangeserver
 microsoftfabric
 microsoftgraph
@@ -4128,7 +4128,6 @@ mkpasswd
 ml
 ml.net
 mlflow
-mmdc
 mobile
 mobilenetwork
 mobilitycontroller
@@ -4175,6 +4174,7 @@ mosaic
 motd
 motivation
 motivationalquotes
+mount
 mouse
 move
 movies
@@ -4199,7 +4199,6 @@ msband
 msbi
 msbuild
 msdeploy
-msdn
 msdtc
 msedge
 msexcel
@@ -4415,7 +4414,6 @@ ninjaone
 ninjarmm
 nios
 nist
-nitrox
 njclipsh
 nl
 nla
@@ -4621,7 +4619,6 @@ openholidaysapi
 openid
 openidconnect
 openinghours
-openport
 openprovider
 openscad
 opensearch
@@ -4650,7 +4647,6 @@ optics
 optimization
 optimizer
 option
-option119
 options
 optionstring
 opus
@@ -4722,7 +4718,6 @@ ovgd
 owasp
 owls
 owner
-oxygen
 oxyplot
 p2000
 p2s
@@ -4764,6 +4759,7 @@ paradox
 parallel
 parallel-processing
 parameter
+parameterinfo
 parameters
 parclient
 parititions
@@ -4932,7 +4928,6 @@ plex
 plist
 plog
 plot
-plug-n-copy
 plugin
 plugins
 pluralsight
@@ -5049,10 +5044,12 @@ poshy-wrap-ruby
 poshy-wrap-systemctl
 poshy-wrap-terraform
 poshy-wrap-terragrunt
+poshy-wrap-tmux
 poshy-wrap-vagrant
 poshy-wrap-vault
 poshy-wrap-vscode
 poshy-wrap-wget
+poshy-wrap-wt
 poshy-wrap-yum
 poshy-wrap-zypper
 position
@@ -5167,7 +5164,6 @@ preprocessing
 preprocessor
 presentation
 presenter
-presto
 preston-k-parsard
 prettifier
 prettyprinter
@@ -5193,6 +5189,7 @@ private
 private-key
 privatedns
 privatekey
+privatemethods
 privateprofilestring
 privilege
 privilegecloud
@@ -6439,6 +6436,13 @@ pscommand_invoke-terragruntplan
 pscommand_invoke-terragruntplanall
 pscommand_invoke-terragruntvalidate
 pscommand_invoke-terragruntvalidateall
+pscommand_invoke-tmuxattachforterminal
+pscommand_invoke-tmuxattachforterminaldetachingothers
+pscommand_invoke-tmuxeditconfig
+pscommand_invoke-tmuxkillserver
+pscommand_invoke-tmuxkillsessionforterminal
+pscommand_invoke-tmuxlistsessions
+pscommand_invoke-tmuxnewsessionfromsource
 pscommand_invoke-vagrantdestroy
 pscommand_invoke-vagranthalt
 pscommand_invoke-vagranthostmanager
@@ -6699,6 +6703,8 @@ pscommand_new-gitbranchtracked
 pscommand_new-gitpatchfile
 pscommand_new-isofile
 pscommand_new-viewerinvocationfunction
+pscommand_new-windowsterminalpane
+pscommand_new-windowsterminaltab
 pscommand_nginx_reload
 pscommand_nginx_restart
 pscommand_nginx_start
@@ -6878,6 +6884,8 @@ pscommand_syspip
 pscommand_syspip_package_location
 pscommand_syspip3
 pscommand_syspip3_package_location
+pscommand_ta
+pscommand_tad
 pscommand_test-command
 pscommand_test-d
 pscommand_test-elevation
@@ -6905,6 +6913,14 @@ pscommand_tgp
 pscommand_tgpa
 pscommand_tgv
 pscommand_tgva
+pscommand_tkss
+pscommand_tksv
+pscommand_tl
+pscommand_tmuxconf
+pscommand_ts
+pscommand_txa
+pscommand_txl
+pscommand_txn
 pscommand_universalarchive
 pscommand_update-gitbranchbasefrombranchmain
 pscommand_update-gitbranchbasefrommain
@@ -7829,6 +7845,13 @@ psfunction_invoke-terragruntplan
 psfunction_invoke-terragruntplanall
 psfunction_invoke-terragruntvalidate
 psfunction_invoke-terragruntvalidateall
+psfunction_invoke-tmuxattachforterminal
+psfunction_invoke-tmuxattachforterminaldetachingothers
+psfunction_invoke-tmuxeditconfig
+psfunction_invoke-tmuxkillserver
+psfunction_invoke-tmuxkillsessionforterminal
+psfunction_invoke-tmuxlistsessions
+psfunction_invoke-tmuxnewsessionfromsource
 psfunction_invoke-vagrantdestroy
 psfunction_invoke-vagranthalt
 psfunction_invoke-vagranthostmanager
@@ -7943,6 +7966,8 @@ psfunction_new-gitbranchtracked
 psfunction_new-gitpatchfile
 psfunction_new-isofile
 psfunction_new-viewerinvocationfunction
+psfunction_new-windowsterminalpane
+psfunction_new-windowsterminaltab
 psfunction_nginx_reload
 psfunction_nginx_restart
 psfunction_nginx_start
@@ -8450,6 +8475,8 @@ regions
 regiser-argumentcompleter
 register
 register-argumentcompleter
+registered
+registrar
 registration
 registry
 regression
@@ -8715,7 +8742,6 @@ saml2
 sample
 sampler
 san
-sand
 sandbox
 sanitization
 sanitizer
@@ -8820,7 +8846,6 @@ scrolllock
 scrub
 scrubber
 scsm
-scuba
 sd
 sddl
 sdk
@@ -8836,7 +8861,6 @@ searchmanager
 searchplace
 searchquery
 searchstring
-searchsuffixlist
 secaas
 secedit
 secret
@@ -8893,7 +8917,6 @@ selectxmlinfo
 selenium
 self
 self-hosted
-self-service
 self-signed
 selfdispatch
 selfhelp
@@ -8937,7 +8960,6 @@ server
 servercertificatevalidationcallback
 serverless
 servermanagement
-servers
 service
 service-bus
 service-messages
@@ -9254,7 +9276,6 @@ splat
 splatting
 split
 splunk
-spn
 spo
 spooler
 sport
@@ -9319,8 +9340,6 @@ sse
 ssh
 ssh-config
 ssh-keygen
-sshmanagement
-sshservers
 ssis
 ssl
 sslcert
@@ -9332,7 +9351,6 @@ sslprotocol
 ssm
 sso
 sspi
-sspr
 ssrs
 ssst
 sstp
@@ -9356,6 +9374,7 @@ start
 start-job
 start-jobthread
 start-threadjob
+startkey
 startmen
 startmenu
 starttls
@@ -9396,7 +9415,6 @@ stocks
 stoicism
 stoics
 stolpe.io
-stop
 storablecolortheme
 storage
 storageaccount
@@ -9600,7 +9618,6 @@ taxonomy
 tcp
 tcp/ip
 tcpip
-tcpport
 tcprjmgmt
 tcpserver
 tcptest
@@ -9621,7 +9638,6 @@ techedna2014
 techlog
 technology
 techsmith
-tel
 telegram
 telegram-bot
 telegram-bot-api
@@ -9689,7 +9705,6 @@ text-to-image
 text-to-speach"
 text-to-speech
 text2image
-textanalysis
 textbuffer
 texting
 texting-emoji
@@ -9754,6 +9769,7 @@ tls12
 tlsa
 tlsprotocol
 tlsrpt
+tmux
 to-do
 toast
 toasts
@@ -9850,6 +9866,7 @@ troubleshoot
 troubleshooting
 trouw
 true-color
+truecrypt
 truenas
 trumethods
 truportal
@@ -9890,7 +9907,6 @@ twitter-client
 twitter-follow
 twitter-hashtag
 twitter-mention
-twitter-share
 twitter-timeline
 twitter-tweet
 txt
@@ -10147,7 +10163,6 @@ vduplink
 ve7cc
 vector
 veeam
-veeampn
 veeva
 venafi
 vencord
@@ -10155,6 +10170,7 @@ vendor
 venue
 venvlink
 vera
+veracrypt
 verbose psmodule
 verification
 verify
@@ -10300,7 +10316,6 @@ vum
 vvx
 vxrail
 w32time
-w365
 w3svc
 w3w
 waa
@@ -10448,6 +10463,7 @@ windows-powershell
 windows-registry
 windows-remoting
 windows-server-2016
+windows-terminal
 windows-user-folder
 windows-user-profile
 windows10
@@ -10550,9 +10566,7 @@ workflows
 workingdays
 workinghours
 workingtime
-workload
 workload-automation
-workloadidentity
 workloads
 workpoint
 workrequests
