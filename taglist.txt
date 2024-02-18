@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Sunday, 18 February 2024 02:01:43 UTC
+Updated: Sunday, 18 February 2024 09:51:43 UTC
 
 .bat
 .env
@@ -81,7 +81,6 @@ acas
 accelerator
 access
 access-control
-access-points
 accesscontrol
 accesscontroldsc
 accessgovernancecp
@@ -106,7 +105,6 @@ act!
 actifio
 actifiogo
 action
-action1
 actiongroup
 actionplan
 actions
@@ -144,6 +142,8 @@ ad-report
 ad-site
 adal
 adapter
+adapter-control
+adapters
 adaptivecards
 adb
 adc
@@ -229,6 +229,8 @@ afd
 affinity
 affinity-co
 affinity-crm
+after-effects
+aftereffects
 agenda
 agent
 aggregates
@@ -261,6 +263,7 @@ al
 alac
 alarm
 alb
+albums
 alc
 alero
 alert
@@ -317,7 +320,6 @@ analyticsrules
 analyze
 analyzer
 analyzerrules
-anchor
 and
 android
 anet
@@ -430,6 +432,7 @@ architecture
 architecuture
 archive
 archivedteams
+archivematica
 archivial
 archivial-backup
 archivial-cloud-backup
@@ -452,6 +455,7 @@ arp
 array
 arrays
 art
+artefactual
 artifact
 artifactory
 artifacts
@@ -483,6 +487,7 @@ assemblyloadcontext
 assemblymeta
 assert
 assertion
+assessment
 asset
 assetintelligencepoint
 assets
@@ -723,6 +728,8 @@ backup_validation
 bamboo
 bamboohr
 bandwidth
+bank
+banking
 banner
 bar
 barcodes
@@ -784,6 +791,7 @@ bicepnet
 big-ip
 big-iq
 bigcommerce
+bigeval
 bigfix
 bigquery
 bikeshed
@@ -876,13 +884,13 @@ box
 bpmn
 brainy
 branch
-branch-rename
 brave
 brawlapi
 brawlstars
 brazencloud
 bre
 breach
+break
 breakpoint
 brew
 brickset
@@ -1085,6 +1093,7 @@ chef-compliance
 chef-server
 chefconf2016
 chenxizhang
+cherrypy
 cherwell
 chfs
 chi
@@ -1218,6 +1227,7 @@ cloudservice
 cloudshell
 clueser
 cluster
+clusterminimumvalues
 clusterplugins
 cmaccounts
 cmake
@@ -1297,6 +1307,7 @@ comics
 command
 command_line
 command-line-interface
+command-validation
 commandcoverage
 commandlets
 commandline
@@ -1324,6 +1335,7 @@ compiler
 complete
 completer
 completion
+completion-manager
 completionresult
 completions
 complex
@@ -1408,7 +1420,6 @@ containerinstances
 containerregistry
 containers
 containment
-contentprep
 context
 continious-deploy
 continious-integration
@@ -1652,8 +1663,8 @@ dark
 darktrace
 dash
 dashboard
-dashboardapi
 dashboardservice
+dast
 data
 data_protection
 data_security
@@ -1787,6 +1798,7 @@ delegated
 delegationmodel
 delete
 delete-orphan-branches
+deleteuserprofile
 delivery
 dell
 dellemc
@@ -1882,17 +1894,19 @@ directory
 directory psedition_core psedition_desktop
 directory-transform
 directorymarks
+directoryname
 directorysearcher
 directorysecurity
 directrouting
 direnv
+dirkjan
 dirname
 dirsync
 disa
+disable
+disable-internet
 disable-psremoting
 disablefilesyncngsc
-disablestartbutton
-disablestartkey
 disasm
 disasterrecovery
 disconnect
@@ -1975,6 +1989,7 @@ docker-compose
 docker-image
 docker-machine
 docker-volumes
+dockerfile
 dockerize
 dockerswarm
 docking
@@ -2000,6 +2015,7 @@ domainkey
 domainname
 domainnamesystem
 domains
+domino
 donothing
 dos
 dot
@@ -2158,6 +2174,7 @@ educational
 effectiveroutes
 efficientether
 efi
+egrep
 eid
 eigencontroles
 einstein
@@ -2174,6 +2191,7 @@ elevation
 elgato
 elk
 elm
+elmah-io
 elonmusk
 eloqua
 elvui
@@ -2198,6 +2216,8 @@ emotion
 empire
 empty
 emwarehouse
+enable
+enable-internet
 enable-psremoting
 enable-psremotingremote
 enbrea
@@ -2230,7 +2250,6 @@ enterprisevoice
 entity
 entityframework
 entra
-entra-id
 entraid
 entropy
 enum
@@ -2267,7 +2286,6 @@ errorview
 eryph
 esae
 escape
-escapecodes
 escapesequences
 escaping
 ese
@@ -2404,6 +2422,7 @@ extendedattributes
 extendedevents
 extendedproperties
 extendedproperty
+extendscript
 extensibility
 extension
 extensionmethods
@@ -2505,6 +2524,7 @@ files-cli
 files-cli.exe
 files.com
 filesecurity
+fileserver
 fileserverresourcemanager
 fileshare
 filesharing
@@ -2766,6 +2786,7 @@ get-help
 get-history
 get-iislog
 get-openfile
+get-openfiles
 get-pass
 get-passivetrippoint
 get-passlist
@@ -2777,7 +2798,6 @@ get-samplingperiod
 get-stalecomps
 get-staleusers
 get-thermalstamp
-get-uptime
 getfirmwareenvironmentvariable
 getfirmwaretype
 ggplot
@@ -2797,7 +2817,6 @@ git-clone
 git-flow
 git-lfs
 git-proxy
-git-rename
 git-stat
 gitcmdline
 gitdesktop
@@ -2998,6 +3017,7 @@ healthz
 heartbeatdiscovery
 heat
 heating
+heavenbay
 helium
 helix
 hello
@@ -3243,6 +3263,7 @@ imperva
 import
 import-csv
 import-dtdriverpackpackagedefinitionsms
+import-modulefrompath
 import-passlist
 import-sampackagedefinitionsms
 importer
@@ -3324,6 +3345,7 @@ integrationruntimedependency
 integrationservicescatalog
 integrity
 intel
+inteligo
 intelligence
 intelligence"
 intellisearch
@@ -3331,6 +3353,7 @@ intellisense
 interactive
 interactive-brokers
 interface
+interlogix
 internal
 internet
 internet-explorer
@@ -3427,6 +3450,7 @@ isvalidip
 it
 it-support
 it-tool
+it-tools
 italic-text
 item
 itemlist
@@ -3503,7 +3527,6 @@ jumbo
 jump
 jump-location
 jumpcloud
-jumpstart
 junction
 junctions
 junit
@@ -3547,7 +3570,6 @@ key2wocas
 keybase
 keybinding
 keyboard
-keyboardstartkey
 keycipher
 keycloak
 keylight
@@ -3647,6 +3669,7 @@ lcminternals
 ldap
 leafs
 league
+lean
 learn
 learn-powershell
 learn-powershell-series
@@ -3666,7 +3689,6 @@ lenel
 length
 lenovo
 less
-lesspass
 letsencrypt
 lf
 lgpo
@@ -4008,7 +4030,6 @@ mention
 menu
 menus
 meraki
-merakiapi
 mercurial
 merge
 mermaid
@@ -4096,6 +4117,7 @@ mindmeister
 minecraft
 miniconda
 minifier
+minimal
 minimum
 mip
 mipsdk
@@ -4171,8 +4193,6 @@ mp4
 mpc
 mpeg
 mpn
-mrfk
-mrfylke
 mrvl_fc_powerkit
 mrvlfcprovider
 ms_365
@@ -4561,6 +4581,7 @@ on-premise
 onboard
 onboardadministrator
 onboarding
+oncommand-insight
 ondemand
 one
 onedrive
@@ -4600,6 +4621,7 @@ openamt
 openapi
 opendata
 openedge
+openfiles
 openhere
 openholidaysapi
 openid
@@ -4778,6 +4800,7 @@ passwordexpiration
 passwordexpiry
 passwordgeneration
 passwordgenerator
+passwordgenerators
 passwordhashing
 passwordlock
 passwordlockoutreport
@@ -4866,7 +4889,6 @@ phpapam
 pi
 picker
 pico
-picture
 pictures
 pid
 pie
@@ -4874,6 +4896,7 @@ pim
 pin
 ping
 ping-async
+pingsweep
 pinneditem
 pinterest
 pinvoke
@@ -4907,6 +4930,7 @@ play
 playback
 playbook
 player
+playlists
 pleasant
 pleasantpasswordserver
 plex
@@ -4921,7 +4945,6 @@ ply
 pmp
 pncit
 pnp
-pnpm
 pode
 poe
 poem
@@ -4984,6 +5007,7 @@ poshprtg
 poshrsjob
 poshtemplate
 poshwsus
+poshy-code-search
 poshy-colors
 poshy-coreutils-ish
 poshy-dir-nav
@@ -5064,6 +5088,7 @@ powercommander
 powerdex
 powerforensics
 powergraph
+powergui
 powermax
 powerpack
 powerplan
@@ -5247,6 +5272,7 @@ prtg
 prtg_network_monitor
 prtgnetworkmonitor
 ps
+ps-completions
 ps-ncentral
 ps.credentialmanager
 ps1
@@ -5752,6 +5778,8 @@ pscommand_get-gitwhatchangedstylized
 pscommand_get-itemnixmode
 pscommand_get-netipaddresspublic
 pscommand_get-netipaddresssimple
+pscommand_get-pwshaliasdefinition
+pscommand_get-pwshfunctiondefinition
 pscommand_get-viewer
 pscommand_geun
 pscommand_gexport
@@ -6816,6 +6844,7 @@ pscommand_scu-disable-now
 pscommand_scu-enable-now
 pscommand_scu-mask-now
 pscommand_search-commandpath
+pscommand_search-ruby
 pscommand_set-envvar
 pscommand_set-gitremoteurl
 pscommand_set-itemnixmode
@@ -7060,11 +7089,13 @@ pscribo
 pscustomobject
 psd1
 psdb
+psdefaultparametervalues
 psdeploy
 psdesiredstateconfiguration
 psdevops
 psdocs
 psdocs-documents
+psdocsgenerator
 psdrawio
 psdrive
 psdrives
@@ -7089,7 +7120,6 @@ psenv
 pses
 psexcel
 psexec
-psexec.exe
 psexpandline
 psfciv
 psfitbit
@@ -7339,6 +7369,8 @@ psfunction_get-gitwhatchangedstylized
 psfunction_get-itemnixmode
 psfunction_get-netipaddresspublic
 psfunction_get-netipaddresssimple
+psfunction_get-pwshaliasdefinition
+psfunction_get-pwshfunctiondefinition
 psfunction_get-viewer
 psfunction_git_blame_line
 psfunction_git_checkout_child
@@ -8022,6 +8054,7 @@ psfunction_scu-disable-now
 psfunction_scu-enable-now
 psfunction_scu-mask-now
 psfunction_search-commandpath
+psfunction_search-ruby
 psfunction_set-envvar
 psfunction_set-gitremoteurl
 psfunction_set-itemnixmode
@@ -8500,14 +8533,10 @@ remove-itemproperty
 remove-pass
 remove-path
 remove-pinneditem
-remove-tempfiles
 removetypeaccelerators
 remux
 ren-isac
 rename
-rename-git
-rename-git-branch
-rename-gitbranch
 repair-msauth
 reparsepoint
 repeat
@@ -8559,6 +8588,7 @@ resources
 resourcesearch
 response
 rest
+rest_cherrypy
 rest-api
 restapi
 restart
@@ -8569,6 +8599,7 @@ retail
 retention
 retro
 retry
+returnuserprofile
 retype
 reuse
 reverse-engineer
@@ -8604,6 +8635,7 @@ ring
 ripe
 risk
 riskiq
+riskpro
 risksense
 rivermeadow
 rlan
@@ -8611,6 +8643,7 @@ rmcp
 rmm
 rms
 rng
+roarwrecker
 robbyrussel
 robocopy
 robot
@@ -8701,6 +8734,8 @@ sale
 sales
 salesforce
 salesloft
+salt
+salt-api
 saltstack
 saltstackconfig
 saltstackenterprise
@@ -8739,6 +8774,7 @@ scalablevectorgraphics
 scale
 scan
 scanner
+scap
 scatter
 scb
 scc
@@ -8966,9 +9002,11 @@ sessions
 set
 set_bios
 set-alias
+set-dnsservers
 set-githubsecrets
 set-itemproperty
 set-location
+set-openfiles
 set-ownership
 set-pass
 set-psbreakpoint
@@ -9022,6 +9060,7 @@ shell-art
 shells
 shieldedvm
 ships
+shipsprovider
 shipstation
 shlink
 shodan
@@ -9066,6 +9105,8 @@ single
 singlestore
 singleton
 sinks
+sintez
+sintez.module.rds
 sit
 site
 site_navigation
@@ -9100,6 +9141,7 @@ skytap
 slack
 slash
 slashcommands
+slmgr
 sln
 slugify
 sm
@@ -9134,6 +9176,7 @@ smtpoauth
 smtpsasl
 smtpsecure
 snap
+snapchat
 snapping
 snapshot
 snapshots
@@ -9191,7 +9234,6 @@ soonr
 soonragent
 sophos
 sort
-sorting
 source
 source-dedicated-server
 sourcecontrol
@@ -9337,14 +9379,11 @@ stan
 stanc
 standalone
 standard
-standarderror
-standardoutput
 stansummary
 start
 start-job
 start-jobthread
 start-threadjob
-startkey
 startmen
 startmenu
 starttls
@@ -9367,7 +9406,6 @@ statusmonitor
 statusreportingcomponent
 staytus
 stderr
-stdio
 stdout
 steam
 steam-games
@@ -9405,6 +9443,7 @@ streamanalytics
 streaming
 streamreader
 streamwriter
+stretch
 strictmode
 strikethrough-text
 string
@@ -9418,7 +9457,6 @@ strip-ansi
 stripe
 strongname
 structure
-sts
 stt
 studio
 style
@@ -9432,6 +9470,7 @@ sublimetext
 submission
 subnet
 subnet-calculator
+subnetcalulator
 subnetdetails
 subnetmapping
 subnetmask
@@ -9459,6 +9498,7 @@ superheros
 supermarket
 support
 support-tool
+support-tools
 suppress
 supress-reboot
 surestacks
@@ -9499,12 +9539,12 @@ syndication
 synergy
 syntax
 syntax-highlighting
-syntaxcheck
 syntaxhighlighter
 synthesis
 synthetics
 sysadmin
 sysadmin-tool
+sysadmin-tools
 sysctr
 sysinfo
 sysinfocmdlets
@@ -9646,6 +9686,7 @@ test
 test-automation
 test-dscconfiguration
 test-internetconnection
+test-modulepath
 test-osplatform
 test-psremoting
 test-samcmapplicationexists
@@ -9654,6 +9695,7 @@ test-userisadministrator
 test-xml
 test123
 testaccount
+testautomation
 tester
 testimonial
 testing
@@ -9839,6 +9881,7 @@ true-color
 truecrypt
 truenas
 trumethods
+truportal
 trusted
 trusted-host
 trustedhosts
@@ -9946,6 +9989,7 @@ ud-timeline
 ud-timeout
 ud-tool
 ud-toploader
+ud-trendline
 ud-typing
 ud-window
 ud-wordtree
@@ -10012,6 +10056,7 @@ unzip
 up
 update
 update-module
+update-moduletests
 update-typedata
 updatedeferral
 updatemanagement
@@ -10131,6 +10176,7 @@ vduplink
 ve7cc
 vector
 veeam
+veeampn
 veeva
 venafi
 vencord
@@ -10245,6 +10291,7 @@ vplex
 vpn
 vpn-certificate
 vpro
+vps
 vra
 vrchat
 vrealize
@@ -10343,6 +10390,7 @@ webhdfs
 webhelpdesk
 webhistory
 webhook
+webinspect
 webjea
 webmanagement
 webmanagementservice
@@ -10433,6 +10481,8 @@ windows-registry
 windows-remoting
 windows-server-2016
 windows-terminal
+windows-user-folder
+windows-user-profile
 windows10
 windows10mui
 windows11
@@ -10484,7 +10534,6 @@ winform
 winforms
 winget
 wingetbridge
-winrar
 winrm
 winrs
 winrt
@@ -10616,6 +10665,7 @@ xbase
 xbox
 xclarity
 xdr
+xdschelper
 xdscresources
 xdt
 xenapp
