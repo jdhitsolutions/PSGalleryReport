@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Sunday, 18 February 2024 09:51:43 UTC
+Updated: Sunday, 18 February 2024 17:51:41 UTC
 
 .bat
 .env
@@ -81,6 +81,7 @@ acas
 accelerator
 access
 access-control
+access-points
 accesscontrol
 accesscontroldsc
 accessgovernancecp
@@ -93,7 +94,6 @@ accordian
 account
 accounting
 accounts
-ace
 ack
 acknowledge
 acl
@@ -320,6 +320,7 @@ analyticsrules
 analyze
 analyzer
 analyzerrules
+anchor
 and
 android
 anet
@@ -432,7 +433,6 @@ architecture
 architecuture
 archive
 archivedteams
-archivematica
 archivial
 archivial-backup
 archivial-cloud-backup
@@ -455,7 +455,6 @@ arp
 array
 arrays
 art
-artefactual
 artifact
 artifactory
 artifacts
@@ -840,9 +839,7 @@ blinking-text
 blob
 blobstorage
 block
-block-kit
 blockchain
-blocks
 blog
 blogs
 bloxone
@@ -851,7 +848,6 @@ bls
 blue
 bluedolhin
 blueprint
-blueprints
 blueteam
 bluetraitio
 bluetuxedo
@@ -884,6 +880,7 @@ box
 bpmn
 brainy
 branch
+branch-rename
 brave
 brawlapi
 brawlstars
@@ -896,7 +893,6 @@ brew
 brickset
 bridge
 brightbooking
-brightness
 britannica
 britannicaknowledgesystems
 british-gas
@@ -1420,6 +1416,7 @@ containerinstances
 containerregistry
 containers
 containment
+contentprep
 context
 continious-deploy
 continious-integration
@@ -1433,7 +1430,6 @@ continuous-integration
 continuousdelivery
 continuousdeployment
 continuousintegration
-contrast
 control
 controller
 controlroom
@@ -1487,7 +1483,6 @@ cos
 cosmos
 cosmosdb
 cost
-cost-management
 costmanagement
 costoptimization
 couchbase
@@ -1663,6 +1658,7 @@ dark
 darktrace
 dash
 dashboard
+dashboardapi
 dashboardservice
 dast
 data
@@ -1754,8 +1750,6 @@ dcim
 dcim_b324
 dcom
 dcr
-ddc
-ddc/ci
 ddns
 debian
 debug
@@ -1907,6 +1901,8 @@ disable
 disable-internet
 disable-psremoting
 disablefilesyncngsc
+disablestartbutton
+disablestartkey
 disasm
 disasterrecovery
 disconnect
@@ -2008,7 +2004,6 @@ dog
 dog-names
 dogs
 dogstatsd
-dok
 dokuwiki
 domain
 domainkey
@@ -2250,6 +2245,7 @@ enterprisevoice
 entity
 entityframework
 entra
+entra-id
 entraid
 entropy
 enum
@@ -2286,11 +2282,11 @@ errorview
 eryph
 esae
 escape
+escapecodes
 escapesequences
 escaping
 ese
 esent
-esoteric
 esp
 esp-idf
 esp32
@@ -2595,6 +2591,7 @@ fleetsoftwareupdate
 flex
 flex-query
 flexdesk
+flickr
 flowchart
 flowy
 fluidrelay
@@ -2706,7 +2703,6 @@ gainz
 gainz-chocolateysync
 gainz-keepass
 gainz-sqldb
-gal
 gallery
 game
 gamecategory:cards
@@ -2798,6 +2794,7 @@ get-samplingperiod
 get-stalecomps
 get-staleusers
 get-thermalstamp
+get-uptime
 getfirmwareenvironmentvariable
 getfirmwaretype
 ggplot
@@ -2817,6 +2814,7 @@ git-clone
 git-flow
 git-lfs
 git-proxy
+git-rename
 git-stat
 gitcmdline
 gitdesktop
@@ -2858,7 +2856,6 @@ goldsource
 goldsource-dedicated-server
 google
 google-chrome
-google-histogram
 google-sankey
 google-table
 googleadsv2
@@ -2931,7 +2928,6 @@ guardicore
 gubbins
 guest
 guestconfiguration
-guests
 gui
 gui.cs
 guid
@@ -2947,7 +2943,6 @@ gz
 gzip
 gzip-compression
 ha
-haarlemsdagblad
 hack
 hacking
 hacktoberfest
@@ -3034,7 +3029,6 @@ helper-functions
 helperfunctions
 helpers
 helpfile
-helpful
 heml
 here
 hewlett
@@ -3087,7 +3081,6 @@ home_automation
 homebrew
 homelandsecurity
 homeschooling
-hon
 hooking
 horizon
 horizontal
@@ -3282,7 +3275,6 @@ indicator
 inedo
 inetfwrule
 inetum
-infinity
 influx
 influxdb
 info
@@ -3404,7 +3396,6 @@ ip-scanner
 ipa
 ipaddress
 ipam
-ipbroadcast
 ipc
 ipcalc
 ipcalculator
@@ -3527,6 +3518,7 @@ jumbo
 jump
 jump-location
 jumpcloud
+jumpstart
 junction
 junctions
 junit
@@ -3570,6 +3562,7 @@ key2wocas
 keybase
 keybinding
 keyboard
+keyboardstartkey
 keycipher
 keycloak
 keylight
@@ -3689,6 +3682,7 @@ lenel
 length
 lenovo
 less
+lesspass
 letsencrypt
 lf
 lgpo
@@ -3982,7 +3976,6 @@ mbs
 mc
 mcafee
 mcas
-mccs
 mcd
 mchapv2
 mct
@@ -4030,6 +4023,7 @@ mention
 menu
 menus
 meraki
+merakiapi
 mercurial
 merge
 mermaid
@@ -4469,7 +4463,6 @@ nprintingapi
 nps
 npslog
 npslogfile
-nql
 nrc
 nrql
 ns
@@ -4610,6 +4603,7 @@ ontap_pstk_9.8.0
 onyphe
 onyphe.io
 oob
+oop
 op
 opa
 opc
@@ -4889,6 +4883,7 @@ phpapam
 pi
 picker
 pico
+picture
 pictures
 pid
 pie
@@ -4903,6 +4898,7 @@ pinvoke
 pip
 pip3
 pipe
+pipedrive
 pipeline
 pipelinelastexecution
 pipelines
@@ -4945,6 +4941,7 @@ ply
 pmp
 pncit
 pnp
+pnpm
 pode
 poe
 poem
@@ -5102,17 +5099,20 @@ powershell
 powershell-class
 powershell-cmdlets
 powershell-core
+powershell-core-releases-api
 powershell-course
 powershell-credentials
 powershell-dsc
 powershell-examples
 powershell-gallery
+powershell-github-repo
 powershell-gitlab
 powershell-graphql
 powershell-isprime
 powershell-lightning
 powershell-module
 powershell-modules
+powershell-releases-api
 powershell-remoting
 powershell-terminal
 powershell-terminal-copilot
@@ -5123,6 +5123,7 @@ powershell.persistentpathstack
 powershell7
 powershellai
 powershellazuresql
+powershellconferenceeurope
 powershellcore
 powershellcourse
 powershellexamples
@@ -7120,6 +7121,7 @@ psenv
 pses
 psexcel
 psexec
+psexec.exe
 psexpandline
 psfciv
 psfitbit
@@ -8533,10 +8535,14 @@ remove-itemproperty
 remove-pass
 remove-path
 remove-pinneditem
+remove-tempfiles
 removetypeaccelerators
 remux
 ren-isac
 rename
+rename-git
+rename-git-branch
+rename-gitbranch
 repair-msauth
 reparsepoint
 repeat
@@ -8557,7 +8563,6 @@ repos
 repositories
 repository
 request
-requestfiltering
 requiredmodules
 requirements
 res
@@ -8680,7 +8685,6 @@ rpa
 rpc
 rras
 rrd
-rs
 rsa
 rsat
 rshell
@@ -9176,7 +9180,6 @@ smtpoauth
 smtpsasl
 smtpsecure
 snap
-snapchat
 snapping
 snapshot
 snapshots
@@ -9234,6 +9237,7 @@ soonr
 soonragent
 sophos
 sort
+sorting
 source
 source-dedicated-server
 sourcecontrol
@@ -9379,11 +9383,14 @@ stan
 stanc
 standalone
 standard
+standarderror
+standardoutput
 stansummary
 start
 start-job
 start-jobthread
 start-threadjob
+startkey
 startmen
 startmenu
 starttls
@@ -9406,6 +9413,7 @@ statusmonitor
 statusreportingcomponent
 staytus
 stderr
+stdio
 stdout
 steam
 steam-games
@@ -9457,6 +9465,7 @@ strip-ansi
 stripe
 strongname
 structure
+sts
 stt
 studio
 style
@@ -9539,6 +9548,7 @@ syndication
 synergy
 syntax
 syntax-highlighting
+syntaxcheck
 syntaxhighlighter
 synthesis
 synthetics
@@ -9920,7 +9930,6 @@ twitter-follow
 twitter-hashtag
 twitter-mention
 twitter-share
-twitter-timeline
 twitter-tweet
 txt
 type
@@ -9993,10 +10002,8 @@ ud-trendline
 ud-typing
 ud-window
 ud-wordtree
-udcm
 udfeedback
 udp
-udpclient
 udptest
 udr
 udthememode
@@ -10150,7 +10157,6 @@ vastlimits
 vault
 vaultextension
 vaultstore
-vaultwarden
 vb365
 vba
 vbaproject
@@ -10449,8 +10455,6 @@ wildfire
 wildfly
 wim
 wim2vhd
-wimwitch
-wimwitchfk
 win
 win-ps2exe
 win10
@@ -10534,6 +10538,7 @@ winform
 winforms
 winget
 wingetbridge
+winrar
 winrm
 winrs
 winrt
