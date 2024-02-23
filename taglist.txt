@@ -1,10 +1,11 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Friday, 23 February 2024 09:52:00 UTC
+Updated: Friday, 23 February 2024 17:51:42 UTC
 
 .bat
 .env
 .net
+.prom
 .ps1xml
 'azure'
 'blob storage'
@@ -36,6 +37,7 @@ Updated: Friday, 23 February 2024 09:52:00 UTC
 2018
 2019
 21vianet
+24-bit
 2fa
 300
 365
@@ -54,7 +56,6 @@ Updated: Friday, 23 February 2024 09:52:00 UTC
 8.1
 8ball
 9
-aa
 aac
 aad
 aad-graph
@@ -292,7 +293,6 @@ alteryx
 alwaysontop
 alwaysonvpn
 alz
-amateur
 amateur-data-interchange-format
 amateur-radio
 amateurradio
@@ -330,7 +330,6 @@ animate-svg
 animation
 animations
 annotated
-announcement
 announcementsservice
 anonymous
 anova
@@ -412,9 +411,6 @@ appvolumes
 appx
 appxmanifest
 aprs
-aprs-is
-aprsis
-aprsthursday
 aps
 apt
 apt-get
@@ -474,6 +470,7 @@ asjob
 asm
 asn.1
 asn1
+asnbank
 asp
 asp.net
 aspnet
@@ -560,7 +557,6 @@ autologon
 automai
 automanage
 automate
-automated
 automatedlab
 automatenow
 automaticpacketreportingsystem
@@ -873,6 +869,7 @@ bootstrap
 bootstrapping
 bop
 bot
+bots
 botservice
 bouncer
 boundaries
@@ -931,7 +928,6 @@ buildmaster
 builds
 buildtool
 bulk
-bulletin
 bullhorn
 bundle
 bup
@@ -1227,7 +1223,6 @@ cloudshell
 clueser
 cluster
 clusterminimumvalues
-clusterplugins
 cmaccounts
 cmake
 cmakepresets.json
@@ -1705,6 +1700,7 @@ datalabelingservice
 datalabelingservicedataplane
 datalake
 datamanipulation
+datamodel
 datanorm
 dataplatform
 datapro
@@ -1811,6 +1807,7 @@ demultiplex
 demultiplexing
 dependencies
 dependency
+dependencysearch
 deploy
 deployment
 deploymentconfig
@@ -1849,6 +1846,7 @@ devexpress
 deviation
 device
 devicecode
+deviceid
 deviceprovisioningservice
 devices
 deviceupdate
@@ -1918,7 +1916,6 @@ discovery
 discutils
 disk
 disk_to_disk
-disk-space
 diskfree
 diskimage
 diskpart
@@ -2207,7 +2204,6 @@ emailnotificationcomponent
 emailsecurity
 embedded
 emc
-emcomm
 emergency
 emissions
 emoji
@@ -2341,6 +2337,7 @@ eventsubscription
 eventviewer
 eventwatch
 evergreen
+evernote
 everydaypowershell
 everydayrewards
 everything
@@ -2820,8 +2817,6 @@ git-lfs
 git-proxy
 git-rename
 git-stat
-gitcmdline
-gitdesktop
 gitea
 gitflow
 gitforwindows
@@ -2888,7 +2883,6 @@ gpo-tools
 gpodoc
 gpolinks
 gpp
-gps
 gpt
 gpt3
 gpx
@@ -2962,8 +2956,6 @@ haloitsm
 halopsa
 haloservicedesk
 haloservicesolutions
-ham
-hamradio
 hamradiodeluxe
 hana
 hanaon
@@ -2999,7 +2991,6 @@ hba
 hbase
 hci
 hcl
-hcm
 hcx
 hdfs
 hdinsight
@@ -3460,7 +3451,6 @@ itemobject
 items
 itemstack
 iterate
-iteration
 itg
 itglue
 itin
@@ -3605,6 +3595,7 @@ kodi
 korn
 kotlin
 kql
+kraken
 krbtgt
 krick
 kschemaplugin
@@ -3979,7 +3970,6 @@ matrix
 maven
 max
 max_path
-maximum
 maxoffice
 mazerat
 mb
@@ -4125,7 +4115,6 @@ minecraft
 miniconda
 minifier
 minimal
-minimum
 mip
 mipsdk
 miration-step
@@ -4228,6 +4217,7 @@ msgbox
 msgraph
 msgraphapi
 msgraphreport
+msgraphstuff
 msgraphtokenlifetimepolicy
 msi
 msi psmodule
@@ -4272,7 +4262,6 @@ multidimenstional
 multimedia
 multios
 multipass
-multiple
 multiserver
 multistring
 multithread
@@ -4305,6 +4294,7 @@ mysql-database
 mytest
 n-able
 n-central
+nabu
 nac
 nagios
 name
@@ -4729,6 +4719,7 @@ outline
 outlook
 output
 output-to-image
+outreach
 outsystems
 overbite
 ovf
@@ -4780,6 +4771,7 @@ parallel-processing
 parameter
 parameterinfo
 parameters
+parclient
 parititions
 parool
 parquet
@@ -4855,7 +4847,6 @@ pem
 pemfile
 pendingreboot
 penetration
-penetrationtesting
 pentesting
 pentia
 people
@@ -5067,7 +5058,6 @@ poshy-wrap-terragrunt
 poshy-wrap-tmux
 poshy-wrap-vagrant
 poshy-wrap-vault
-poshy-wrap-vscode
 poshy-wrap-wget
 poshy-wrap-wt
 poshy-wrap-yum
@@ -5171,7 +5161,6 @@ pq
 pranks
 predicate
 prediction
-predictive
 predictive-text
 predictor
 preferences
@@ -6493,20 +6482,6 @@ pscommand_invoke-vaultserver
 pscommand_invoke-vaultstatus
 pscommand_invoke-vaultversion
 pscommand_invoke-vaultwrite
-pscommand_invoke-vscodeadd
-pscommand_invoke-vscodediff
-pscommand_invoke-vscodeforpwd
-pscommand_invoke-vscodegoto
-pscommand_invoke-vscodeinstallextension
-pscommand_invoke-vscodenewwindow
-pscommand_invoke-vscodereusewindow
-pscommand_invoke-vscodeuninstallextension
-pscommand_invoke-vscodeverbose
-pscommand_invoke-vscodewithdisableextensions
-pscommand_invoke-vscodewithextensionsdir
-pscommand_invoke-vscodewithlog
-pscommand_invoke-vscodewithuserdatadir
-pscommand_invoke-vscodewithwait
 pscommand_invoke-yumcleanall
 pscommand_invoke-yumgroupinstall
 pscommand_invoke-yumgroupremove
@@ -7002,21 +6977,7 @@ pscommand_vp
 pscommand_vr
 pscommand_vrl
 pscommand_vs
-pscommand_vsc
-pscommand_vsca
-pscommand_vscd
-pscommand_vscde
-pscommand_vsced
-pscommand_vscg
-pscommand_vscie
-pscommand_vscl
-pscommand_vscn
 pscommand_vscp
-pscommand_vscr
-pscommand_vscu
-pscommand_vscue
-pscommand_vscv
-pscommand_vscw
 pscommand_vsl
 pscommand_vssh
 pscommand_vst
@@ -7902,20 +7863,6 @@ psfunction_invoke-vaultserver
 psfunction_invoke-vaultstatus
 psfunction_invoke-vaultversion
 psfunction_invoke-vaultwrite
-psfunction_invoke-vscodeadd
-psfunction_invoke-vscodediff
-psfunction_invoke-vscodeforpwd
-psfunction_invoke-vscodegoto
-psfunction_invoke-vscodeinstallextension
-psfunction_invoke-vscodenewwindow
-psfunction_invoke-vscodereusewindow
-psfunction_invoke-vscodeuninstallextension
-psfunction_invoke-vscodeverbose
-psfunction_invoke-vscodewithdisableextensions
-psfunction_invoke-vscodewithextensionsdir
-psfunction_invoke-vscodewithlog
-psfunction_invoke-vscodewithuserdatadir
-psfunction_invoke-vscodewithwait
 psfunction_invoke-yumcleanall
 psfunction_invoke-yumgroupinstall
 psfunction_invoke-yumgroupremove
@@ -8565,7 +8512,6 @@ repl
 replace
 replaygain
 replication
-repoo
 report
 reporting
 reportingservicepoint
@@ -8591,7 +8537,6 @@ resharper
 resize
 resolution
 resolve
-resolve-stache
 resolve-template
 resolver
 resource
@@ -8618,6 +8563,7 @@ restore
 resume
 retail
 retention
+retro
 retry
 returnuserprofile
 retype
@@ -8689,7 +8635,6 @@ routeconfig
 router
 routes
 routetable
-routine
 rover
 royalapps
 royaldocument
@@ -8766,6 +8711,7 @@ saml2
 sample
 sampler
 san
+sand
 sandbox
 sanitization
 sanitizer
@@ -9075,7 +9021,6 @@ shares
 sheets
 shell
 shell-art
-shells
 shieldedvm
 ships
 shipsprovider
@@ -9280,7 +9225,6 @@ speak
 speaker
 spec
 specification
-specify
 spectre
 spectrumconnect
 spectrumcontrolbase
@@ -9384,7 +9328,6 @@ sspr
 ssrs
 ssst
 sstp
-stache
 stackedge
 stackexchange
 stackhci
@@ -9442,6 +9385,8 @@ stingar
 stock
 stockcharts
 stocks
+stoicism
+stoics
 stolpe.io
 stop
 storablecolortheme
@@ -9467,7 +9412,6 @@ stretch
 strictmode
 strikethrough-text
 string
-string-template
 stringmanager
 stringmanagertool
 strings
@@ -9750,6 +9694,7 @@ tfs
 tfscmdlets
 tfsec
 tfswitch
+tftd
 tftp
 tfvars
 tfvc
@@ -9762,6 +9707,7 @@ thinprint
 third-party-libraries
 third-party-notice
 thispc
+thoughtfortheday
 thousandeyes
 thread
 threading
@@ -9845,6 +9791,7 @@ tracert
 tracing
 tracker
 tracking
+trading
 traffic
 trafficfiltering
 trafficmanager
@@ -9962,7 +9909,6 @@ ud-avataaar
 ud-badgebutton
 ud-badgelink
 ud-breadcrumb
-ud-breadcrumbitem
 ud-burger
 ud-button
 ud-buttonloader
@@ -10003,7 +9949,6 @@ ud-speechbubble
 ud-step
 ud-stepbar
 ud-stickynavbar
-ud-tagcloud
 ud-timeline
 ud-timeout
 ud-tool
@@ -10013,6 +9958,7 @@ ud-typing
 ud-window
 ud-wordtree
 udcm
+udfeedback
 udp
 udpclient
 udptest
@@ -10444,6 +10390,7 @@ wget
 what3words
 whatismyip
 whatsnew
+whatsupgold
 whd
 where
 whfb
@@ -10568,6 +10515,7 @@ wiscmail
 wisco365
 wisconsin-madison
 wisconsin'uw-madison
+wisdom
 with
 wizard
 wkhtmltopdf
@@ -10658,6 +10606,7 @@ wttr
 wttr.in
 wtx
 wu
+wug
 wunderlist
 wus
 wvd
