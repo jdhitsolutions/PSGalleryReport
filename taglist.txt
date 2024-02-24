@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Saturday, 24 February 2024 01:59:34 UTC
+Updated: Saturday, 24 February 2024 09:51:53 UTC
 
 .bat
 .env
@@ -608,7 +608,6 @@ aws_profile
 aws-codebuild
 aws-lambda
 aws-vault
-aws.tools.powershell
 awscli
 awspricelist
 axapta
@@ -635,6 +634,7 @@ azpublicipaddress
 azresources
 azsdk
 azsk
+azsql
 azstackhci
 azstate
 azsubnet
@@ -1232,7 +1232,6 @@ cloudshell
 clueser
 cluster
 clusterminimumvalues
-clusterplugins
 cmaccounts
 cmake
 cmakepresets.json
@@ -1360,7 +1359,6 @@ computer-site
 computername
 computers
 computersite
-concur
 concurrency
 concurrent
 conda
@@ -1557,7 +1555,6 @@ crescendo
 crescendobuilt
 cresendo
 crestron
-crime
 crlf
 crm
 crm2016
@@ -1701,6 +1698,7 @@ dataexchange
 dataexplorer
 datafactory
 dataflow
+dataflowdependency
 dataframe
 datagateway
 dataintegration
@@ -1732,6 +1730,7 @@ dates
 datetaken
 datetime
 datto
+dattodbpool
 dattormm
 datum
 dave
@@ -1750,6 +1749,7 @@ dbeaver
 dbfs
 dbnull
 dbops
+dbpool
 dbup
 dbwebapi
 dc
@@ -1925,7 +1925,6 @@ discovery
 discutils
 disk
 disk_to_disk
-disk-space
 diskfree
 diskimage
 diskpart
@@ -2008,6 +2007,7 @@ documentencryption
 documenting
 documents
 docusaurus
+docusign
 docx
 dod
 dog
@@ -2305,7 +2305,6 @@ esp32
 esp32s2
 espressif
 esri
-essbase
 estimate
 estimation
 esx
@@ -2349,6 +2348,7 @@ eventsubscription
 eventviewer
 eventwatch
 evergreen
+evernote
 everydaypowershell
 everydayrewards
 everything
@@ -2788,6 +2788,7 @@ get-dtdriverupdates
 get-dtscriptnewcmpackagefromdriverpackpackagedefinitionsms
 get-dtscriptnewcmtasksequencefromdriverpackpackagedefinitionsms
 get-emptyadgroups
+get-externalip
 get-firmwaretype
 get-help
 get-history
@@ -2868,6 +2869,7 @@ goldsource-dedicated-server
 google
 google-chrome
 google-histogram
+google-sankey
 google-table
 googleadsv2
 googlecloudplatform
@@ -3362,6 +3364,7 @@ interactive
 interactive-brokers
 interface
 interlogix
+internal
 internet
 internet-explorer
 internetconnection
@@ -4221,6 +4224,7 @@ msband
 msbi
 msbuild
 msdeploy
+msdn
 msdtc
 msedge
 msexcel
@@ -4311,7 +4315,6 @@ mysql-database
 mytest
 n-able
 n-central
-nabu
 nac
 nagios
 name
@@ -4863,7 +4866,6 @@ pem
 pemfile
 pendingreboot
 penetration
-penetrationtesting
 pentesting
 pentia
 people
@@ -4953,6 +4955,7 @@ pleasant
 pleasantpasswordserver
 plex
 plist
+plog
 plot
 plug-n-copy
 plugin
@@ -5010,6 +5013,7 @@ posh-chocobear
 posh-direnv
 posh-git
 posh-ribbon
+posh-ssh
 poshbot
 poshcommence
 poshevents
@@ -5072,7 +5076,7 @@ poshy-wrap-terraform
 poshy-wrap-terragrunt
 poshy-wrap-tmux
 poshy-wrap-vagrant
-poshy-wrap-vault
+poshy-wrap-vscode
 poshy-wrap-wget
 poshy-wrap-wt
 poshy-wrap-yum
@@ -5150,6 +5154,7 @@ powershellgallery
 powershellget
 powershellgetformatversion_2.0
 powershellise
+powershelllogger
 powershellmodule
 powershellmoduleupdate
 powershellpr0mpt
@@ -5242,6 +5247,7 @@ profile
 profiler
 profiles
 proget
+program
 program-association
 programs
 progress
@@ -6485,17 +6491,20 @@ pscommand_invoke-vagrantstatus
 pscommand_invoke-vagrantsuspend
 pscommand_invoke-vagrantup
 pscommand_invoke-vagrantuplogged
-pscommand_invoke-vaultdelete
-pscommand_invoke-vaultlist
-pscommand_invoke-vaultloginviagithub
-pscommand_invoke-vaultread
-pscommand_invoke-vaultreadfieldvalue
-pscommand_invoke-vaultrenew
-pscommand_invoke-vaultrevoke
-pscommand_invoke-vaultserver
-pscommand_invoke-vaultstatus
-pscommand_invoke-vaultversion
-pscommand_invoke-vaultwrite
+pscommand_invoke-vscodeadd
+pscommand_invoke-vscodediff
+pscommand_invoke-vscodeforpwd
+pscommand_invoke-vscodegoto
+pscommand_invoke-vscodeinstallextension
+pscommand_invoke-vscodenewwindow
+pscommand_invoke-vscodereusewindow
+pscommand_invoke-vscodeuninstallextension
+pscommand_invoke-vscodeverbose
+pscommand_invoke-vscodewithdisableextensions
+pscommand_invoke-vscodewithextensionsdir
+pscommand_invoke-vscodewithlog
+pscommand_invoke-vscodewithuserdatadir
+pscommand_invoke-vscodewithwait
 pscommand_invoke-yumcleanall
 pscommand_invoke-yumgroupinstall
 pscommand_invoke-yumgroupremove
@@ -6972,16 +6981,6 @@ pscommand_use-gitflowbranchrelease
 pscommand_use-gitstashentry
 pscommand_uuid
 pscommand_uuidgen
-pscommand_vad
-pscommand_vag
-pscommand_val
-pscommand_var
-pscommand_varn
-pscommand_varv
-pscommand_vas
-pscommand_vasrv
-pscommand_vav
-pscommand_vaw
 pscommand_vdstr
 pscommand_vh
 pscommand_vhl
@@ -6991,7 +6990,21 @@ pscommand_vp
 pscommand_vr
 pscommand_vrl
 pscommand_vs
+pscommand_vsc
+pscommand_vsca
+pscommand_vscd
+pscommand_vscde
+pscommand_vsced
+pscommand_vscg
+pscommand_vscie
+pscommand_vscl
+pscommand_vscn
 pscommand_vscp
+pscommand_vscr
+pscommand_vscu
+pscommand_vscue
+pscommand_vscv
+pscommand_vscw
 pscommand_vsl
 pscommand_vssh
 pscommand_vst
@@ -7866,17 +7879,20 @@ psfunction_invoke-vagrantstatus
 psfunction_invoke-vagrantsuspend
 psfunction_invoke-vagrantup
 psfunction_invoke-vagrantuplogged
-psfunction_invoke-vaultdelete
-psfunction_invoke-vaultlist
-psfunction_invoke-vaultloginviagithub
-psfunction_invoke-vaultread
-psfunction_invoke-vaultreadfieldvalue
-psfunction_invoke-vaultrenew
-psfunction_invoke-vaultrevoke
-psfunction_invoke-vaultserver
-psfunction_invoke-vaultstatus
-psfunction_invoke-vaultversion
-psfunction_invoke-vaultwrite
+psfunction_invoke-vscodeadd
+psfunction_invoke-vscodediff
+psfunction_invoke-vscodeforpwd
+psfunction_invoke-vscodegoto
+psfunction_invoke-vscodeinstallextension
+psfunction_invoke-vscodenewwindow
+psfunction_invoke-vscodereusewindow
+psfunction_invoke-vscodeuninstallextension
+psfunction_invoke-vscodeverbose
+psfunction_invoke-vscodewithdisableextensions
+psfunction_invoke-vscodewithextensionsdir
+psfunction_invoke-vscodewithlog
+psfunction_invoke-vscodewithuserdatadir
+psfunction_invoke-vscodewithwait
 psfunction_invoke-yumcleanall
 psfunction_invoke-yumgroupinstall
 psfunction_invoke-yumgroupremove
@@ -8579,7 +8595,6 @@ restore
 resume
 retail
 retention
-retro
 retry
 returnuserprofile
 retype
@@ -8612,6 +8627,7 @@ ricoh
 rightjoin
 rights
 rightsizing
+rightsmanagement
 ring
 ripe
 risk
@@ -8791,6 +8807,7 @@ scissors
 scm
 scmanager
 scom
+sconfig
 scoop
 scope
 score
@@ -9037,7 +9054,6 @@ shares
 sheets
 shell
 shell-art
-shells
 shieldedvm
 ships
 shipsprovider
@@ -9294,9 +9310,11 @@ sqlclient
 sqlcmd
 sqlcodeguard
 sqldatabase
+sqldb
 sqldbatools
 sqldiagapi
 sqlexport
+sqlgateway
 sqlite
 sqlitebynarymodule
 sqlitebynarypsmodule
@@ -9849,6 +9867,7 @@ trello
 trellops
 trend
 trend-micro
+trendmicro
 trevor
 trevorsullivan
 triangle
@@ -9856,7 +9875,6 @@ tribeloo
 trick
 tricks
 trigger
-triodos
 tripunkt
 troubleshoot
 troubleshooting
@@ -9928,7 +9946,6 @@ ud-badgebutton
 ud-badgelink
 ud-breadcrumb
 ud-breadcrumbitem
-ud-burger
 ud-button
 ud-buttonloader
 ud-buttonparticle
@@ -9939,16 +9956,13 @@ ud-confetti
 ud-control
 ud-dashboard
 ud-datepicker
-ud-field
 ud-flexytable
 ud-funnel
 ud-hero
 ud-illustration
-ud-input
 ud-licensed
 ud-loadingoverlay
 ud-minesweeper
-ud-mouseparticle
 ud-navbarsearch
 ud-numbermask
 ud-orgchart
@@ -9978,7 +9992,6 @@ ud-typing
 ud-window
 ud-wordtree
 udcm
-udfeedback
 udp
 udpclient
 udptest
@@ -10012,6 +10025,7 @@ unified
 unifiedauditlog
 unifiedlabeling
 uninstall
+uninstaller
 union
 unique
 unique-files
@@ -10410,7 +10424,6 @@ wget
 what3words
 whatismyip
 whatsnew
-whatsupgold
 whd
 where
 whfb
@@ -10581,6 +10594,7 @@ workspaces
 workstation
 world
 worldcup
+worryfreebusinesssecurity
 wow
 wpad
 wpf
@@ -10625,7 +10639,6 @@ wttr
 wttr.in
 wtx
 wu
-wug
 wunderlist
 wus
 wvd
