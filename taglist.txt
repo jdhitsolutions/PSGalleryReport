@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Friday, 23 February 2024 17:51:42 UTC
+Updated: Saturday, 24 February 2024 01:59:34 UTC
 
 .bat
 .env
@@ -56,6 +56,7 @@ Updated: Friday, 23 February 2024 17:51:42 UTC
 8.1
 8ball
 9
+aa
 aac
 aad
 aad-graph
@@ -143,6 +144,8 @@ ad-report
 ad-site
 adal
 adapter
+adapter-control
+adapters
 adaptivecards
 adb
 adc
@@ -293,6 +296,7 @@ alteryx
 alwaysontop
 alwaysonvpn
 alz
+amateur
 amateur-data-interchange-format
 amateur-radio
 amateurradio
@@ -330,6 +334,7 @@ animate-svg
 animation
 animations
 annotated
+announcement
 announcementsservice
 anonymous
 anova
@@ -411,6 +416,9 @@ appvolumes
 appx
 appxmanifest
 aprs
+aprs-is
+aprsis
+aprsthursday
 aps
 apt
 apt-get
@@ -557,6 +565,7 @@ autologon
 automai
 automanage
 automate
+automated
 automatedlab
 automatenow
 automaticpacketreportingsystem
@@ -626,7 +635,6 @@ azpublicipaddress
 azresources
 azsdk
 azsk
-azsql
 azstackhci
 azstate
 azsubnet
@@ -928,6 +936,7 @@ buildmaster
 builds
 buildtool
 bulk
+bulletin
 bullhorn
 bundle
 bup
@@ -1223,6 +1232,7 @@ cloudshell
 clueser
 cluster
 clusterminimumvalues
+clusterplugins
 cmaccounts
 cmake
 cmakepresets.json
@@ -1691,7 +1701,6 @@ dataexchange
 dataexplorer
 datafactory
 dataflow
-dataflowdependency
 dataframe
 datagateway
 dataintegration
@@ -1723,7 +1732,6 @@ dates
 datetaken
 datetime
 datto
-dattodbpool
 dattormm
 datum
 dave
@@ -1742,7 +1750,6 @@ dbeaver
 dbfs
 dbnull
 dbops
-dbpool
 dbup
 dbwebapi
 dc
@@ -1901,6 +1908,8 @@ dirkjan
 dirname
 dirsync
 disa
+disable
+disable-internet
 disable-psremoting
 disablefilesyncngsc
 disablestartbutton
@@ -1916,6 +1925,7 @@ discovery
 discutils
 disk
 disk_to_disk
+disk-space
 diskfree
 diskimage
 diskpart
@@ -1998,7 +2008,6 @@ documentencryption
 documenting
 documents
 docusaurus
-docusign
 docx
 dod
 dog
@@ -2204,6 +2213,7 @@ emailnotificationcomponent
 emailsecurity
 embedded
 emc
+emcomm
 emergency
 emissions
 emoji
@@ -2212,6 +2222,8 @@ emotion
 empire
 empty
 emwarehouse
+enable
+enable-internet
 enable-psremoting
 enable-psremotingremote
 enbrea
@@ -2337,7 +2349,6 @@ eventsubscription
 eventviewer
 eventwatch
 evergreen
-evernote
 everydaypowershell
 everydayrewards
 everything
@@ -2777,7 +2788,6 @@ get-dtdriverupdates
 get-dtscriptnewcmpackagefromdriverpackpackagedefinitionsms
 get-dtscriptnewcmtasksequencefromdriverpackpackagedefinitionsms
 get-emptyadgroups
-get-externalip
 get-firmwaretype
 get-help
 get-history
@@ -2817,6 +2827,8 @@ git-lfs
 git-proxy
 git-rename
 git-stat
+gitcmdline
+gitdesktop
 gitea
 gitflow
 gitforwindows
@@ -2856,7 +2868,6 @@ goldsource-dedicated-server
 google
 google-chrome
 google-histogram
-google-sankey
 google-table
 googleadsv2
 googlecloudplatform
@@ -2883,6 +2894,7 @@ gpo-tools
 gpodoc
 gpolinks
 gpp
+gps
 gpt
 gpt3
 gpx
@@ -2956,6 +2968,8 @@ haloitsm
 halopsa
 haloservicedesk
 haloservicesolutions
+ham
+hamradio
 hamradiodeluxe
 hana
 hanaon
@@ -2991,6 +3005,7 @@ hba
 hbase
 hci
 hcl
+hcm
 hcx
 hdfs
 hdinsight
@@ -3347,7 +3362,6 @@ interactive
 interactive-brokers
 interface
 interlogix
-internal
 internet
 internet-explorer
 internetconnection
@@ -3451,6 +3465,7 @@ itemobject
 items
 itemstack
 iterate
+iteration
 itg
 itglue
 itin
@@ -3970,6 +3985,7 @@ matrix
 maven
 max
 max_path
+maximum
 maxoffice
 mazerat
 mb
@@ -4115,6 +4131,7 @@ minecraft
 miniconda
 minifier
 minimal
+minimum
 mip
 mipsdk
 miration-step
@@ -4204,7 +4221,6 @@ msband
 msbi
 msbuild
 msdeploy
-msdn
 msdtc
 msedge
 msexcel
@@ -4262,6 +4278,7 @@ multidimenstional
 multimedia
 multios
 multipass
+multiple
 multiserver
 multistring
 multithread
@@ -4565,7 +4582,6 @@ oidc
 okta
 old
 older
-ole
 oledb
 omaha
 ome
@@ -4847,6 +4863,7 @@ pem
 pemfile
 pendingreboot
 penetration
+penetrationtesting
 pentesting
 pentia
 people
@@ -4936,7 +4953,6 @@ pleasant
 pleasantpasswordserver
 plex
 plist
-plog
 plot
 plug-n-copy
 plugin
@@ -4994,7 +5010,6 @@ posh-chocobear
 posh-direnv
 posh-git
 posh-ribbon
-posh-ssh
 poshbot
 poshcommence
 poshevents
@@ -5135,7 +5150,6 @@ powershellgallery
 powershellget
 powershellgetformatversion_2.0
 powershellise
-powershelllogger
 powershellmodule
 powershellmoduleupdate
 powershellpr0mpt
@@ -5161,6 +5175,7 @@ pq
 pranks
 predicate
 prediction
+predictive
 predictive-text
 predictor
 preferences
@@ -5227,7 +5242,6 @@ profile
 profiler
 profiles
 proget
-program
 program-association
 programs
 progress
@@ -8512,6 +8526,7 @@ repl
 replace
 replaygain
 replication
+repoo
 report
 reporting
 reportingservicepoint
@@ -8537,6 +8552,7 @@ resharper
 resize
 resolution
 resolve
+resolve-stache
 resolve-template
 resolver
 resource
@@ -8596,7 +8612,6 @@ ricoh
 rightjoin
 rights
 rightsizing
-rightsmanagement
 ring
 ripe
 risk
@@ -8635,6 +8650,7 @@ routeconfig
 router
 routes
 routetable
+routine
 rover
 royalapps
 royaldocument
@@ -8775,7 +8791,6 @@ scissors
 scm
 scmanager
 scom
-sconfig
 scoop
 scope
 score
@@ -8967,6 +8982,7 @@ sessions
 set
 set_bios
 set-alias
+set-dnsservers
 set-githubsecrets
 set-itemproperty
 set-location
@@ -9021,6 +9037,7 @@ shares
 sheets
 shell
 shell-art
+shells
 shieldedvm
 ships
 shipsprovider
@@ -9078,6 +9095,7 @@ siteconfiguration
 sitecore
 sitecoresearch
 sitemaintenance
+sitemap
 siterecovery
 sites
 sitesystemserver
@@ -9225,6 +9243,7 @@ speak
 speaker
 spec
 specification
+specify
 spectre
 spectrumconnect
 spectrumcontrolbase
@@ -9275,11 +9294,9 @@ sqlclient
 sqlcmd
 sqlcodeguard
 sqldatabase
-sqldb
 sqldbatools
 sqldiagapi
 sqlexport
-sqlgateway
 sqlite
 sqlitebynarymodule
 sqlitebynarypsmodule
@@ -9328,6 +9345,7 @@ sspr
 ssrs
 ssst
 sstp
+stache
 stackedge
 stackexchange
 stackhci
@@ -9412,6 +9430,7 @@ stretch
 strictmode
 strikethrough-text
 string
+string-template
 stringmanager
 stringmanagertool
 strings
@@ -9830,7 +9849,6 @@ trello
 trellops
 trend
 trend-micro
-trendmicro
 trevor
 trevorsullivan
 triangle
@@ -9909,6 +9927,7 @@ ud-avataaar
 ud-badgebutton
 ud-badgelink
 ud-breadcrumb
+ud-breadcrumbitem
 ud-burger
 ud-button
 ud-buttonloader
@@ -9949,6 +9968,7 @@ ud-speechbubble
 ud-step
 ud-stepbar
 ud-stickynavbar
+ud-tagcloud
 ud-timeline
 ud-timeout
 ud-tool
@@ -9992,7 +10012,6 @@ unified
 unifiedauditlog
 unifiedlabeling
 uninstall
-uninstaller
 union
 unique
 unique-files
@@ -10041,6 +10060,7 @@ uptimerobot
 uptobox
 uqword
 uri
+uri-scheme
 url
 url-encode
 url-shortener
@@ -10561,7 +10581,6 @@ workspaces
 workstation
 world
 worldcup
-worryfreebusinesssecurity
 wow
 wpad
 wpf
