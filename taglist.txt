@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Saturday, 24 February 2024 09:51:53 UTC
+Updated: Saturday, 24 February 2024 17:51:43 UTC
 
 .bat
 .env
@@ -37,7 +37,6 @@ Updated: Saturday, 24 February 2024 09:51:53 UTC
 2018
 2019
 21vianet
-24-bit
 2fa
 300
 365
@@ -162,7 +161,6 @@ addlevel
 addomainservices
 addon
 address
-address-book
 addresses
 addressrange
 adds
@@ -319,7 +317,6 @@ analyst
 analyth
 analytics
 analyticsrules
-analyze
 analyzer
 analyzerrules
 anchor
@@ -608,11 +605,11 @@ aws_profile
 aws-codebuild
 aws-lambda
 aws-vault
+aws.tools.powershell
 awscli
 awspricelist
 axapta
 axinom
-axis
 axium
 az
 az-cli
@@ -636,7 +633,6 @@ azsdk
 azsk
 azsql
 azstackhci
-azstate
 azsubnet
 aztools
 azts
@@ -712,7 +708,6 @@ azuresqlimport
 azuressas
 azurestack
 azurestackhci
-azurestate
 azurestorage
 azurestorageservices
 azuretable
@@ -801,7 +796,6 @@ billing
 billingbenefits
 bimi
 bin
-bin-obj
 binary
 binaryip
 bind
@@ -1232,6 +1226,7 @@ cloudshell
 clueser
 cluster
 clusterminimumvalues
+clusterplugins
 cmaccounts
 cmake
 cmakepresets.json
@@ -1359,6 +1354,7 @@ computer-site
 computername
 computers
 computersite
+concur
 concurrency
 concurrent
 conda
@@ -1555,6 +1551,7 @@ crescendo
 crescendobuilt
 cresendo
 crestron
+crime
 crlf
 crm
 crm2016
@@ -1762,7 +1759,6 @@ ddc/ci
 ddns
 debian
 debug
-debug-files
 debugger
 debugging
 decimal
@@ -1925,6 +1921,7 @@ discovery
 discutils
 disk
 disk_to_disk
+disk-space
 diskfree
 diskimage
 diskpart
@@ -2305,6 +2302,7 @@ esp32
 esp32s2
 espressif
 esri
+essbase
 estimate
 estimation
 esx
@@ -2330,7 +2328,6 @@ event-timeline
 eventchannel
 eventchannels
 eventcollector
-eventful
 eventgrid
 eventhub
 eventing
@@ -2376,7 +2373,6 @@ exchangeon-premise
 exchangeon-premises
 exchangeonline
 exchangeonlinemanagement
-exchangeonlineprotection
 exchangeonprem
 exchangerate
 exchangeserver
@@ -2759,7 +2755,6 @@ generator
 generic
 genericartifactscontent
 genetic-algorithm
-genp
 genxdev
 geo
 geocache
@@ -2828,8 +2823,6 @@ git-lfs
 git-proxy
 git-rename
 git-stat
-gitcmdline
-gitdesktop
 gitea
 gitflow
 gitforwindows
@@ -2979,7 +2972,6 @@ handle
 handler
 hangouts
 hannelstoolbox
-hanwha
 har
 hard
 hardblock
@@ -3528,7 +3520,6 @@ json-converter
 json-transform
 json+
 jsonplus
-jsonwebencryption
 jsonwebkey
 jsonwebsignature
 jsonwebtoken
@@ -3545,7 +3536,6 @@ jupyter
 jupytor
 justenoughadministration
 jvm
-jwe
 jwk
 jws
 jwt
@@ -3785,7 +3775,6 @@ locale
 localgroup
 localgroupmember
 localization
-localpolicy
 location
 locationbasedservices
 lock
@@ -4315,6 +4304,7 @@ mysql-database
 mytest
 n-able
 n-central
+nabu
 nac
 nagios
 name
@@ -4585,6 +4575,7 @@ oidc
 okta
 old
 older
+ole
 oledb
 omaha
 ome
@@ -4858,7 +4849,6 @@ pdf-document-processor
 pdf-files
 pdf-generation
 pdf-redaction
-pe
 peek
 peering
 peheader
@@ -4866,6 +4856,7 @@ pem
 pemfile
 pendingreboot
 penetration
+penetrationtesting
 pentesting
 pentia
 people
@@ -4960,7 +4951,6 @@ plot
 plug-n-copy
 plugin
 plugins
-pluralsight
 ply
 pmp
 pncit
@@ -5076,6 +5066,7 @@ poshy-wrap-terraform
 poshy-wrap-terragrunt
 poshy-wrap-tmux
 poshy-wrap-vagrant
+poshy-wrap-vault
 poshy-wrap-vscode
 poshy-wrap-wget
 poshy-wrap-wt
@@ -5122,20 +5113,17 @@ powershell
 powershell-class
 powershell-cmdlets
 powershell-core
-powershell-core-releases-api
 powershell-course
 powershell-credentials
 powershell-dsc
 powershell-examples
 powershell-gallery
-powershell-github-repo
 powershell-gitlab
 powershell-graphql
 powershell-isprime
 powershell-lightning
 powershell-module
 powershell-modules
-powershell-releases-api
 powershell-remoting
 powershell-terminal
 powershell-terminal-copilot
@@ -6491,6 +6479,17 @@ pscommand_invoke-vagrantstatus
 pscommand_invoke-vagrantsuspend
 pscommand_invoke-vagrantup
 pscommand_invoke-vagrantuplogged
+pscommand_invoke-vaultdelete
+pscommand_invoke-vaultlist
+pscommand_invoke-vaultloginviagithub
+pscommand_invoke-vaultread
+pscommand_invoke-vaultreadfieldvalue
+pscommand_invoke-vaultrenew
+pscommand_invoke-vaultrevoke
+pscommand_invoke-vaultserver
+pscommand_invoke-vaultstatus
+pscommand_invoke-vaultversion
+pscommand_invoke-vaultwrite
 pscommand_invoke-vscodeadd
 pscommand_invoke-vscodediff
 pscommand_invoke-vscodeforpwd
@@ -6981,6 +6980,16 @@ pscommand_use-gitflowbranchrelease
 pscommand_use-gitstashentry
 pscommand_uuid
 pscommand_uuidgen
+pscommand_vad
+pscommand_vag
+pscommand_val
+pscommand_var
+pscommand_varn
+pscommand_varv
+pscommand_vas
+pscommand_vasrv
+pscommand_vav
+pscommand_vaw
 pscommand_vdstr
 pscommand_vh
 pscommand_vhl
@@ -7879,6 +7888,17 @@ psfunction_invoke-vagrantstatus
 psfunction_invoke-vagrantsuspend
 psfunction_invoke-vagrantup
 psfunction_invoke-vagrantuplogged
+psfunction_invoke-vaultdelete
+psfunction_invoke-vaultlist
+psfunction_invoke-vaultloginviagithub
+psfunction_invoke-vaultread
+psfunction_invoke-vaultreadfieldvalue
+psfunction_invoke-vaultrenew
+psfunction_invoke-vaultrevoke
+psfunction_invoke-vaultserver
+psfunction_invoke-vaultstatus
+psfunction_invoke-vaultversion
+psfunction_invoke-vaultwrite
 psfunction_invoke-vscodeadd
 psfunction_invoke-vscodediff
 psfunction_invoke-vscodeforpwd
@@ -8542,7 +8562,6 @@ repl
 replace
 replaygain
 replication
-repoo
 report
 reporting
 reportingservicepoint
@@ -8595,6 +8614,7 @@ restore
 resume
 retail
 retention
+retro
 retry
 returnuserprofile
 retype
@@ -8604,7 +8624,6 @@ reverse-string
 reversed-color-text
 reversedsc
 reverseengineering
-revision
 reword
 rewrite
 rexec
@@ -8623,11 +8642,9 @@ rgb
 rhapsody
 ribbon
 ribcl
-ricoh
 rightjoin
 rights
 rightsizing
-rightsmanagement
 ring
 ripe
 risk
@@ -9054,6 +9071,7 @@ shares
 sheets
 shell
 shell-art
+shells
 shieldedvm
 ships
 shipsprovider
@@ -9875,6 +9893,7 @@ tribeloo
 trick
 tricks
 trigger
+triodos
 tripunkt
 troubleshoot
 troubleshooting
@@ -9946,6 +9965,7 @@ ud-badgebutton
 ud-badgelink
 ud-breadcrumb
 ud-breadcrumbitem
+ud-burger
 ud-button
 ud-buttonloader
 ud-buttonparticle
@@ -9956,13 +9976,16 @@ ud-confetti
 ud-control
 ud-dashboard
 ud-datepicker
+ud-field
 ud-flexytable
 ud-funnel
 ud-hero
 ud-illustration
+ud-input
 ud-licensed
 ud-loadingoverlay
 ud-minesweeper
+ud-mouseparticle
 ud-navbarsearch
 ud-numbermask
 ud-orgchart
@@ -9992,6 +10015,7 @@ ud-typing
 ud-window
 ud-wordtree
 udcm
+udfeedback
 udp
 udpclient
 udptest
@@ -10005,7 +10029,6 @@ ui/ux
 ui7
 uk
 ul
-ulid
 ultimatetool
 um
 uml
@@ -10121,7 +10144,6 @@ utils
 utm
 uudecode
 uuencode
-uuid
 uup
 uw
 uwp
@@ -10150,7 +10172,6 @@ vaultstore
 vaultwarden
 vb365
 vba
-vbaproject
 vbproj
 vbr
 vbscript
@@ -10229,7 +10250,6 @@ virus
 virustotal
 visio
 visual
-visual-studio
 visualbuilder
 visualc
 visualization
@@ -10424,6 +10444,7 @@ wget
 what3words
 whatismyip
 whatsnew
+whatsupgold
 whd
 where
 whfb
@@ -10639,6 +10660,7 @@ wttr
 wttr.in
 wtx
 wu
+wug
 wunderlist
 wus
 wvd
