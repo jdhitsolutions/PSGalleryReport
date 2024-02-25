@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Sunday, 25 February 2024 02:01:58 UTC
+Updated: Sunday, 25 February 2024 09:51:47 UTC
 
 .bat
 .env
@@ -144,6 +144,8 @@ ad-report
 ad-site
 adal
 adapter
+adapter-control
+adapters
 adaptivecards
 adb
 adc
@@ -259,6 +261,7 @@ aka.ms
 aks
 aks-hci
 akscluster
+al
 alac
 alarm
 alb
@@ -377,7 +380,6 @@ app-volumes
 app.config
 appattach
 appclusive
-appcmd
 appconfiguration
 appdynamics
 appearance
@@ -605,12 +607,10 @@ aws_profile
 aws-codebuild
 aws-lambda
 aws-vault
-aws.tools.powershell
 awscli
 awspricelist
 axapta
 axinom
-axis
 axium
 az
 az-cli
@@ -634,8 +634,8 @@ azsdk
 azsk
 azsql
 azstackhci
+azstate
 azsubnet
-aztools
 azts
 azuead
 azure
@@ -709,6 +709,7 @@ azuresqlimport
 azuressas
 azurestack
 azurestackhci
+azurestate
 azurestorage
 azurestorageservices
 azuretable
@@ -797,6 +798,7 @@ billing
 billingbenefits
 bimi
 bin
+bin-obj
 binary
 binaryip
 bind
@@ -1760,6 +1762,7 @@ ddc/ci
 ddns
 debian
 debug
+debug-files
 debugger
 debugging
 decimal
@@ -1867,6 +1870,7 @@ dfs
 dfw
 dg
 dhcp
+di
 diagnostic
 diagnostics
 diagram
@@ -1904,6 +1908,8 @@ dirkjan
 dirname
 dirsync
 disa
+disable
+disable-internet
 disable-psremoting
 disablefilesyncngsc
 disablestartbutton
@@ -1984,7 +1990,6 @@ dnssuffix
 dnvm
 doc
 docfx
-dock
 docker
 docker-compose
 docker-image
@@ -1993,7 +1998,6 @@ docker-volumes
 dockerfile
 dockerize
 dockerswarm
-docking
 docs
 document
 documentation
@@ -2017,6 +2021,7 @@ domainname
 domainnamesystem
 domains
 domino
+donothing
 dos
 dot
 dotenv
@@ -2039,6 +2044,7 @@ downloadoffice
 downloadofficertool
 downloads
 downloadyoutubevideo
+dozent
 dpa
 dpapi
 dpi
@@ -2215,6 +2221,8 @@ emotion
 empire
 empty
 emwarehouse
+enable
+enable-internet
 enable-psremoting
 enable-psremotingremote
 enbrea
@@ -2296,7 +2304,6 @@ esp32
 esp32s2
 espressif
 esri
-essbase
 estimate
 estimation
 esx
@@ -2820,6 +2827,8 @@ git-lfs
 git-proxy
 git-rename
 git-stat
+gitcmdline
+gitdesktop
 gitea
 gitflow
 gitforwindows
@@ -2969,7 +2978,6 @@ handle
 handler
 hangouts
 hannelstoolbox
-hanwha
 har
 hard
 hardblock
@@ -3400,6 +3408,7 @@ iothub
 iothubproperties
 ip
 ip-address
+ip-scanner
 ipa
 ipaddress
 ipam
@@ -3580,7 +3589,6 @@ keymapping
 keypair
 keysms
 keyvault
-keywords
 kibana
 kickstart
 kidrsa
@@ -3835,10 +3843,8 @@ logonto
 logonuser
 logparser
 logrotate
-logrotation
 logs
 logstash
-logtools
 logz
 loki
 lol
@@ -4138,7 +4144,6 @@ mixer
 mkdocs
 mkpasswd
 ml
-ml.net
 mlflow
 mmdc
 mobile
@@ -4666,6 +4671,7 @@ optimizer
 option
 option119
 options
+optionstring
 opus
 oracle
 oraclecloudinfrastructure
@@ -4918,7 +4924,6 @@ pipelines
 pipenv
 pipescript
 piraeus
-pivot
 pivotal
 pivottable
 pixoo
@@ -4957,7 +4962,6 @@ pncit
 pnp
 pnpm
 pode
-poe
 poem
 poetry
 point
@@ -4987,6 +4991,7 @@ popd
 population
 popup
 port
+port-scanner
 port70
 portal
 porthunter
@@ -5112,20 +5117,17 @@ powershell
 powershell-class
 powershell-cmdlets
 powershell-core
-powershell-core-releases-api
 powershell-course
 powershell-credentials
 powershell-dsc
 powershell-examples
 powershell-gallery
-powershell-github-repo
 powershell-gitlab
 powershell-graphql
 powershell-isprime
 powershell-lightning
 powershell-module
 powershell-modules
-powershell-releases-api
 powershell-remoting
 powershell-terminal
 powershell-terminal-copilot
@@ -8185,6 +8187,7 @@ psincludes_function
 psini
 psinsight
 psintune
+psise
 psitem
 psjob
 psjobs
@@ -8563,6 +8566,7 @@ repl
 replace
 replaygain
 replication
+repoo
 report
 reporting
 reportingservicepoint
@@ -8720,7 +8724,6 @@ runas
 runbook
 runbooks
 runbookstudio
-runcommand
 rundeck
 runner
 runspace
@@ -8821,6 +8824,7 @@ schemaextensions
 scheme
 school-information-system
 schoolholidays
+schulung
 schulverwaltung
 science
 scissors
@@ -8876,7 +8880,6 @@ sdn
 sdp
 search
 search-adminauditlog
-search-engines
 searchengine
 searcher
 searching
@@ -9019,6 +9022,7 @@ sessions
 set
 set_bios
 set-alias
+set-dnsservers
 set-githubsecrets
 set-itemproperty
 set-location
@@ -9191,9 +9195,7 @@ smtpauth
 smtpoauth
 smtpsasl
 smtpsecure
-snap
 snapchat
-snapping
 snapshot
 snapshots
 sni
@@ -9234,7 +9236,6 @@ solarigate
 solarized
 solarwinds
 solr
-soltra
 solution
 solutions
 sonarcloud
@@ -9358,7 +9359,6 @@ squire
 srcds
 srcsrv
 srm
-srylius-write
 ssas
 ssc
 ssdt
@@ -9441,6 +9441,8 @@ stingar
 stock
 stockcharts
 stocks
+stoicism
+stoics
 stolpe.io
 stop
 storablecolortheme
@@ -9596,7 +9598,6 @@ systeminformation
 systemlocale
 systems
 systemsplash
-systray
 t
 t-sql
 tab
@@ -9743,12 +9744,12 @@ texting-emojis
 textprocessing
 textwrapping
 tfe
-tfenv
 tflint
 tfs
 tfscmdlets
 tfsec
 tfswitch
+tftd
 tftp
 tfvars
 tfvc
@@ -9761,6 +9762,7 @@ thinprint
 third-party-libraries
 third-party-notice
 thispc
+thoughtfortheday
 thousandeyes
 thread
 threading
@@ -9850,6 +9852,7 @@ trafficfiltering
 trafficmanager
 trafficmarking
 train
+trainer
 training
 training-course
 tram
@@ -9869,7 +9872,6 @@ translit
 transliteration
 transmission
 transparency
-transpilation
 trap
 travel
 trec
@@ -10026,7 +10028,6 @@ ui/ux
 ui7
 uk
 ul
-ulid
 ultimatetool
 um
 uml
@@ -10142,7 +10143,6 @@ utils
 utm
 uudecode
 uuencode
-uuid
 uup
 uw
 uwp
@@ -10171,7 +10171,6 @@ vaultstore
 vaultwarden
 vb365
 vba
-vbaproject
 vbproj
 vbr
 vbsinst
@@ -10249,6 +10248,7 @@ virus
 virustotal
 visio
 visual
+visual-studio
 visualbuilder
 visualc
 visualization
@@ -10554,6 +10554,7 @@ winrar
 winrm
 winrs
 winrt
+wins
 winsat
 winscp
 wintellect
@@ -10567,6 +10568,7 @@ wiscmail
 wisco365
 wisconsin-madison
 wisconsin'uw-madison
+wisdom
 with
 wizard
 wkhtmltopdf
@@ -10604,6 +10606,7 @@ workloads
 workpoint
 workrequests
 worksheet
+workshop
 workspace
 workspacemanager
 workspaceone
@@ -10714,7 +10717,6 @@ xsa
 xtremio
 xtrude
 xunit
-xwiki
 xwindowsupdate
 xwith
 yahoo
