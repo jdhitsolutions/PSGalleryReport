@@ -3,6 +3,68 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [Permission](https://www.powershellgallery.com/Packages/Permission/0.0.256) | 0.0.256
+
+### Published: 02/25/2024 01:50:34 by Jeremy La Camera
+
+Module for working with Access Control Lists
+
+__Downloads__: 1,037 | __Repository__: 
+
+## [PSInternetConnectionSharing](https://www.powershellgallery.com/Packages/PSInternetConnectionSharing/1.4.0) | 1.4.0
+
+### Published: 02/25/2024 01:34:32 by Per Allner
+
+PSInternetConnectionSharing is a PowerShell module that provides simple functions
+to control Windows Internet Connection Sharing (ICS) from command line.
+
+The module includes three functions:
+- Set-Ics
+- Get-Ics
+- Disable-Ics
+
+__Downloads__: 3,476,808 | __Repository__: https://github.com/loxia01/PSInternetConnectionSharing
+
+## [Utilities](https://www.powershellgallery.com/Packages/Utilities/0.0.72) | 0.0.72
+
+### Published: 02/24/2024 23:42:20 by PSModule
+
+PowerShell Module of Utilities
+
+__Downloads__: 2,079 | __Repository__: https://github.com/PSModule/Utilities
+
+## [PSModuleTestWF](https://www.powershellgallery.com/Packages/PSModuleTestWF/0.0.6) | 0.0.6
+
+### Published: 02/24/2024 23:18:12 by PSModule
+
+PSModule Framework Test Module
+
+__Downloads__: 6 | __Repository__: 
+
+## [PowerShellAI](https://www.powershellgallery.com/Packages/PowerShellAI/0.9.7) | 0.9.7
+
+### Published: 02/24/2024 21:32:31 by Douglas Finke
+
+The PowerShell AI module integrates with the OpenAI API and let's you easily access the GPT models for text completion, image generation and more.
+
+__Downloads__: 42,705 | __Repository__: https://github.com/dfinke/PowerShellAI
+
+## [Pilot](https://www.powershellgallery.com/Packages/Pilot/0.0.17) | 0.0.17
+
+### Published: 02/24/2024 20:51:26 by Michiel van Oosterhout
+
+Pilot builds, verifies, and publishes prerelease and release versions of PowerShell modules based on version control events (branch & commit, merge, and tag), and ensures that module metadata is complete, consistent, and correct.
+
+__Downloads__: 223 | __Repository__: https://github.com/michielvoo/Pilot
+
+## [PSWorkItem](https://www.powershellgallery.com/Packages/PSWorkItem/1.9.0) | 1.9.0
+
+### Published: 02/24/2024 18:37:58 by Jeff Hicks
+
+A PowerShell 7 module for managing work and personal tasks or to-do items. This module uses a SQLite database to store task and category information. The module is not a full-featured project management solution, but should be fine for personal needs. The module requires a 64-bit Windows or Linux platform.
+
+__Downloads__: 795 | __Repository__: https://github.com/jdhitsolutions/PSWorkItem
+
 ## [TITools](https://www.powershellgallery.com/Packages/TITools/0.2) | 0.2
 
 ### Published: 02/24/2024 16:39:35 by Takumi.Ishii
@@ -38,15 +100,7 @@ Some of the functions:
 - New-GraphAPIAuthHeader - Function for generating header that can be used for authentication of Graph API requests
 - ...
 
-__Downloads__: 12,631 | __Repository__: https://github.com/ztrhgf/useful_powershell_modules
-
-## [PSModuleTestWF](https://www.powershellgallery.com/Packages/PSModuleTestWF/0.0.3) | 0.0.3
-
-### Published: 02/24/2024 13:59:46 by PSModule
-
-PSModule Framework Test Module
-
-__Downloads__: 6 | __Repository__: 
+__Downloads__: 12,630 | __Repository__: https://github.com/ztrhgf/useful_powershell_modules
 
 ## [PSModuleTest](https://www.powershellgallery.com/Packages/PSModuleTest/0.0.18) | 0.0.18
 
@@ -55,14 +109,6 @@ __Downloads__: 6 | __Repository__:
 PSModule Framework Test Module
 
 __Downloads__: 52 | __Repository__: 
-
-## [Utilities](https://www.powershellgallery.com/Packages/Utilities/0.0.66) | 0.0.66
-
-### Published: 02/24/2024 13:35:10 by PSModule
-
-PowerShell Module of Utilities
-
-__Downloads__: 2,072 | __Repository__: https://github.com/PSModule/Utilities
 
 ## [Harden-Windows-Security-Module](https://www.powershellgallery.com/Packages/Harden-Windows-Security-Module/0.3.2) | 0.3.2
 
@@ -149,14 +195,6 @@ Dell OpenManage Enterprise PowerShell Module
 
 __Downloads__: 6,492 | __Repository__: https://github.com/dell/OpenManage-PowerShell-Modules
 
-## [Pilot](https://www.powershellgallery.com/Packages/Pilot/0.0.15) | 0.0.15
-
-### Published: 02/23/2024 18:44:41 by Michiel van Oosterhout
-
-Pilot builds, verifies, and publishes prerelease and release versions of PowerShell modules based on version control events (branch & commit, merge, and tag), and ensures that module metadata is complete, consistent, and correct.
-
-__Downloads__: 223 | __Repository__: https://github.com/michielvoo/Pilot
-
 ## [HttpUnitPS](https://www.powershellgallery.com/Packages/HttpUnitPS/1.1.1.1) | 1.1.1.1
 
 ### Published: 02/23/2024 17:29:21 by Chris Hunt
@@ -209,14 +247,6 @@ PowerShell Module to interact with Juriba Platform.
 
 __Downloads__: 3,635 | __Repository__: https://github.com/juribalimited/powershell-module-platform
 
-## [PSWorkItem](https://www.powershellgallery.com/Packages/PSWorkItem/1.8.0) | 1.8.0
-
-### Published: 02/23/2024 15:04:23 by Jeff Hicks
-
-A PowerShell 7 module for managing work and personal tasks or to-do items. This module uses a SQLite database to store task and category information. The module is not a full-featured project management solution, but should be fine for personal needs. The module requires a 64-bit Windows or Linux platform.
-
-__Downloads__: 795 | __Repository__: https://github.com/jdhitsolutions/PSWorkItem
-
 ## [PowerShell.GitLab.Utility](https://www.powershellgallery.com/Packages/PowerShell.GitLab.Utility/0.0.12) | 0.0.12
 
 ### Published: 02/23/2024 13:36:24 by Chendrayan Venkatesan
@@ -247,7 +277,7 @@ __Downloads__: 64 | __Repository__: https://appventix.com/
 
 Microsoft-Extractor-Suite is a fully-featured, actively-maintained, Powershell tool designed to streamline the process of collecting all necessary data and information from various sources within Microsoft.
 
-__Downloads__: 975 | __Repository__: 
+__Downloads__: 974 | __Repository__: 
 
 ## [PowerShellRun](https://www.powershellgallery.com/Packages/PowerShellRun/0.0.1) | 0.0.1
 
@@ -279,7 +309,7 @@ __Downloads__: 788 | __Repository__: https://github.com/ykuijs/M365DSC.Composite
 
 PowerShell module that innovates automation with AI to make you more productive
 
-__Downloads__: 83 | __Repository__: https://github.com/dfinke/PSWeave
+__Downloads__: 82 | __Repository__: https://github.com/dfinke/PSWeave
 
 ## [PublicIP](https://www.powershellgallery.com/Packages/PublicIP/0.1.2) | 0.1.2
 
@@ -311,7 +341,7 @@ __Downloads__: 602 | __Repository__: https://github.com/Azure/AzLoadBalancerMigr
 
 The Devolutions.PowerShell module is a set of cmdlets that allow administrators to manage Remote Desktop Manager, Devolutions Server and Devolutions Hub Business using PowerShell. This module provides a simple and consistent interface for interacting with these products, making it easy to automate various tasks, such as creating and managing connections, sessions, and credentials, configuring security settings, and generating reports. The module can be easily integrated with other PowerShell modules, allowing administrators to automate tasks across multiple products and platforms, streamline their workflows and increase efficiency.
 
-__Downloads__: 30,273 | __Repository__: https://devolutions.net/
+__Downloads__: 30,263 | __Repository__: https://devolutions.net/
 
 ## [AppManiProgramManager](https://www.powershellgallery.com/Packages/AppManiProgramManager/1.50.0) | 1.50.0
 
@@ -319,7 +349,7 @@ __Downloads__: 30,273 | __Repository__: https://devolutions.net/
 
 Module for installing basic programs: This module provides functions for downloading installers from specified links, installing the programs, verifying the installed programs/services, and cleaning up the installer files.
 
-__Downloads__: 119,107 | __Repository__: 
+__Downloads__: 119,111 | __Repository__: 
 
 ## [UcLobbyTeams](https://www.powershellgallery.com/Packages/UcLobbyTeams/0.4.3) | 0.4.3
 
@@ -351,7 +381,7 @@ __Downloads__: 81 | __Repository__: https://github.com/Unipisa/Oraculum
 
 PSSailpoint - the PowerShell module for IdentityNow
 
-__Downloads__: 1,829 | __Repository__: 
+__Downloads__: 1,830 | __Repository__: 
 
 ## [MilestonePSTools](https://www.powershellgallery.com/Packages/MilestonePSTools/23.3.2) | 23.3.2
 
@@ -376,7 +406,7 @@ Powershell module to generate interactive console menu.
     
     Check for examples on how to use it on Github!
 
-__Downloads__: 9,980 | __Repository__: https://github.com/Sebazzz/PSMenu
+__Downloads__: 9,981 | __Repository__: https://github.com/Sebazzz/PSMenu
 
 ## [mySQLite](https://www.powershellgallery.com/Packages/mySQLite/0.13.0) | 0.13.0
 
@@ -384,7 +414,7 @@ __Downloads__: 9,980 | __Repository__: https://github.com/Sebazzz/PSMenu
 
 A set of PowerShell commands for working with SQLite database files. This is a simple alternative to installing any version of SQL Server on your desktop. Note that this module will only work on x64 versions Windows and Linux platforms.
 
-__Downloads__: 4,932 | __Repository__: https://github.com/jdhitsolutions/MySQLite
+__Downloads__: 4,934 | __Repository__: https://github.com/jdhitsolutions/MySQLite
 
 ## [IntuneResourceLocalization](https://www.powershellgallery.com/Packages/IntuneResourceLocalization/0.2.62) | 0.2.62
 
@@ -456,7 +486,7 @@ __Downloads__: 549 | __Repository__: https://migrate.rivermeadow.com/
 
 PowerShell module for OpenAI API
 
-__Downloads__: 990 | __Repository__: https://github.com/mkht/PSOpenAI
+__Downloads__: 989 | __Repository__: https://github.com/mkht/PSOpenAI
 
 ## [SdnDiagnostics](https://www.powershellgallery.com/Packages/SdnDiagnostics/4.2402.952.32305) | 4.2402.952.32305
 
@@ -522,7 +552,7 @@ __Downloads__: 1,675 | __Repository__: https://github.com/HotCakeX/Harden-Window
 
 The community module that enables SQL Server Pros to automate database development and server administration
 
-__Downloads__: 3,733,159 | __Repository__: https://dbatools.io/
+__Downloads__: 3,733,146 | __Repository__: https://dbatools.io/
 
 ## [ZertoAVSModule](https://www.powershellgallery.com/Packages/ZertoAVSModule/1.0.35) | 1.0.35
 
@@ -562,7 +592,7 @@ __Downloads__: 35 | __Repository__: https://github.com/amestofortytwo/powershell
 
 AKS HCI Module
 
-__Downloads__: 739,224 | __Repository__: 
+__Downloads__: 739,222 | __Repository__: 
 
 ## [RiverMeadow.Migrate](https://www.powershellgallery.com/Packages/RiverMeadow.Migrate/1.0.119.456) | 1.0.119.456
 
@@ -578,7 +608,7 @@ __Downloads__: 177 | __Repository__: https://migrate.rivermeadow.com/
 
 Helper module for Active Directory with lots of useful functions that simplify supporting Active Directory.
 
-__Downloads__: 192,787 | __Repository__: https://github.com/EvotecIT/ADEssentials
+__Downloads__: 192,791 | __Repository__: https://github.com/EvotecIT/ADEssentials
 
 ## [JaapsTools](https://www.powershellgallery.com/Packages/JaapsTools/19.1.0) | 19.1.0
 
@@ -610,7 +640,7 @@ __Downloads__: 4,214 | __Repository__:
 
 Security Scanner for Azure DevOps (ADO)
 
-__Downloads__: 144,260 | __Repository__: https://github.com/azsk/azsk-docs
+__Downloads__: 144,264 | __Repository__: https://github.com/azsk/azsk-docs
 
 ## [PSWildFire](https://www.powershellgallery.com/Packages/PSWildFire/1.0.0.2) | 1.0.0.2
 
@@ -664,7 +694,7 @@ These are contained within this PowerShell Module, so regular Module updating is
 ensure you receive the latest Microsoft Updates.  Updates published in WSUS will be different
 from Microsoft Update Catalog website due to Preview Releases
 
-__Downloads__: 376,021 | __Repository__: https://github.com/OSDeploy/OSDSUS
+__Downloads__: 376,017 | __Repository__: https://github.com/OSDeploy/OSDSUS
 
 ## [OSD](https://www.powershellgallery.com/Packages/OSD/24.2.20.1) | 24.2.20.1
 
@@ -672,7 +702,7 @@ __Downloads__: 376,021 | __Repository__: https://github.com/OSDeploy/OSDSUS
 
 February 2024 Patch Tuesday
 
-__Downloads__: 1,365,154 | __Repository__: https://github.com/OSDeploy/OSD
+__Downloads__: 1,365,112 | __Repository__: https://github.com/OSDeploy/OSD
 
 ## [NexuShell](https://www.powershellgallery.com/Packages/NexuShell/1.1.1) | 1.1.1
 
@@ -1881,7 +1911,7 @@ __Downloads__: 167 | __Repository__:
 
 Master module for a collection of modules. These modules are varied in their tasks. The overall purpose of them being to provide a powerfull Toolset to improve IT Admin workflows.
 
-__Downloads__: 39,692 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox
+__Downloads__: 39,691 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox
 
 ## [AdminToolbox.FortiWizard](https://www.powershellgallery.com/Packages/AdminToolbox.FortiWizard/2.18.39) | 2.18.39
 
@@ -1889,7 +1919,7 @@ __Downloads__: 39,692 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions that generate configuration scripts and manage FortiOS.
 
-__Downloads__: 19,125 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 19,122 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.VMWareAutomate](https://www.powershellgallery.com/Packages/AdminToolbox.VMWareAutomate/4.8.130) | 4.8.130
 
@@ -1897,7 +1927,7 @@ __Downloads__: 19,125 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions to Automate Bulk VMWare Tasks
 
-__Downloads__: 26,039 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 26,041 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.Remoting](https://www.powershellgallery.com/Packages/AdminToolbox.Remoting/1.9.133) | 1.9.133
 
@@ -1905,7 +1935,7 @@ __Downloads__: 26,039 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions for remote management and access.
 
-__Downloads__: 25,866 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 25,868 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.Office365](https://www.powershellgallery.com/Packages/AdminToolbox.Office365/3.1.83) | 3.1.83
 
@@ -1913,7 +1943,7 @@ __Downloads__: 25,866 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions for working with Office365 and Azure modules
 
-__Downloads__: 27,832 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 27,827 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.Networking](https://www.powershellgallery.com/Packages/AdminToolbox.Networking/2.18.41) | 2.18.41
 
@@ -1921,7 +1951,7 @@ __Downloads__: 27,832 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Network Troubleshooting Functions
 
-__Downloads__: 65,714 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 65,718 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.MSGraph](https://www.powershellgallery.com/Packages/AdminToolbox.MSGraph/1.2.133) | 1.2.133
 
@@ -1937,7 +1967,7 @@ __Downloads__: 16,013 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions that have no purpose
 
-__Downloads__: 26,278 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 26,280 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.FileManagement](https://www.powershellgallery.com/Packages/AdminToolbox.FileManagement/1.16.125) | 1.16.125
 
@@ -1945,7 +1975,7 @@ __Downloads__: 26,278 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 File Management Functions
 
-__Downloads__: 26,793 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 26,795 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.FFTools](https://www.powershellgallery.com/Packages/AdminToolbox.FFTools/4.16.83) | 4.16.83
 
@@ -1953,7 +1983,7 @@ __Downloads__: 26,793 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Expedite simple ffmpeg actions
 
-__Downloads__: 26,684 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 26,686 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.Exchange](https://www.powershellgallery.com/Packages/AdminToolbox.Exchange/1.9.134) | 1.9.134
 
@@ -1961,7 +1991,7 @@ __Downloads__: 26,684 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions for Exchange Management
 
-__Downloads__: 27,894 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 27,889 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.EndpointManagement](https://www.powershellgallery.com/Packages/AdminToolbox.EndpointManagement/4.10.10) | 4.10.10
 
@@ -1969,7 +1999,7 @@ __Downloads__: 27,894 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions for management of endpoints
 
-__Downloads__: 32,142 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 32,137 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.ActiveDirectory](https://www.powershellgallery.com/Packages/AdminToolbox.ActiveDirectory/1.9.131) | 1.9.131
 
@@ -1977,7 +2007,7 @@ __Downloads__: 32,142 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions for Active Directory
 
-__Downloads__: 32,136 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 32,131 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [UpdateGitHubFiles](https://www.powershellgallery.com/Packages/UpdateGitHubFiles/1.0.0) | 1.0.0
 
@@ -2110,31 +2140,4 @@ PowerShell module for CapaInstaller SDK containing functions for Package functio
 
 __Downloads__: 26 | __Repository__: https://github.com/Mark5900/Capa.PowerShell.Module
 
-## [Capa.PowerShell.Module.PowerPack.Reg](https://www.powershellgallery.com/Packages/Capa.PowerShell.Module.PowerPack.Reg/1.4.2) | 1.4.2
-
-### Published: 02/20/2024 09:16:59 by Mark5900
-
-PowerShell module for CapaInstaller PowerPacks containing functions for Registry commands.
-	For more information, see https://capasystems.atlassian.net/wiki/spaces/CI65DOC/pages/19462455297/PowerShell+Scripting+Library
-
-__Downloads__: 30 | __Repository__: https://github.com/Mark5900/Capa.PowerShell.Module
-
-## [Capa.PowerShell.Module.PowerPack.Ini](https://www.powershellgallery.com/Packages/Capa.PowerShell.Module.PowerPack.Ini/1.4.2) | 1.4.2
-
-### Published: 02/20/2024 09:16:57 by Mark5900
-
-PowerShell module for CapaInstaller PowerPacks containing functions for Ini commands.
-	For more information, see https://capasystems.atlassian.net/wiki/spaces/CI65DOC/pages/19462455297/PowerShell+Scripting+Library
-
-__Downloads__: 30 | __Repository__: https://github.com/Mark5900/Capa.PowerShell.Module
-
-## [Capa.PowerShell.Module.PowerPack.Job](https://www.powershellgallery.com/Packages/Capa.PowerShell.Module.PowerPack.Job/1.4.2) | 1.4.2
-
-### Published: 02/20/2024 09:16:56 by Mark5900
-
-PowerShell module for CapaInstaller PowerPacks containing functions for Job commands.
-	For more information, see https://capasystems.atlassian.net/wiki/spaces/CI65DOC/pages/19462455297/PowerShell+Scripting+Library
-
-__Downloads__: 30 | __Repository__: https://github.com/Mark5900/Capa.PowerShell.Module
-
-*Updated: Saturday, 24 February 2024 17:51:35 UTC*
+*Updated: Sunday, 25 February 2024 02:01:51 UTC*

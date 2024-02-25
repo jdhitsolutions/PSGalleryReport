@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Saturday, 24 February 2024 17:51:43 UTC
+Updated: Sunday, 25 February 2024 02:01:58 UTC
 
 .bat
 .env
@@ -37,6 +37,7 @@ Updated: Saturday, 24 February 2024 17:51:43 UTC
 2018
 2019
 21vianet
+24-bit
 2fa
 300
 365
@@ -143,8 +144,6 @@ ad-report
 ad-site
 adal
 adapter
-adapter-control
-adapters
 adaptivecards
 adb
 adc
@@ -161,6 +160,7 @@ addlevel
 addomainservices
 addon
 address
+address-book
 addresses
 addressrange
 adds
@@ -259,7 +259,6 @@ aka.ms
 aks
 aks-hci
 akscluster
-al
 alac
 alarm
 alb
@@ -317,6 +316,7 @@ analyst
 analyth
 analytics
 analyticsrules
+analyze
 analyzer
 analyzerrules
 anchor
@@ -610,6 +610,7 @@ awscli
 awspricelist
 axapta
 axinom
+axis
 axium
 az
 az-cli
@@ -1866,7 +1867,6 @@ dfs
 dfw
 dg
 dhcp
-di
 diagnostic
 diagnostics
 diagram
@@ -1904,8 +1904,6 @@ dirkjan
 dirname
 dirsync
 disa
-disable
-disable-internet
 disable-psremoting
 disablefilesyncngsc
 disablestartbutton
@@ -2019,7 +2017,6 @@ domainname
 domainnamesystem
 domains
 domino
-donothing
 dos
 dot
 dotenv
@@ -2042,7 +2039,6 @@ downloadoffice
 downloadofficertool
 downloads
 downloadyoutubevideo
-dozent
 dpa
 dpapi
 dpi
@@ -2219,8 +2215,6 @@ emotion
 empire
 empty
 emwarehouse
-enable
-enable-internet
 enable-psremoting
 enable-psremotingremote
 enbrea
@@ -2328,6 +2322,7 @@ event-timeline
 eventchannel
 eventchannels
 eventcollector
+eventful
 eventgrid
 eventhub
 eventing
@@ -2373,6 +2368,7 @@ exchangeon-premise
 exchangeon-premises
 exchangeonline
 exchangeonlinemanagement
+exchangeonlineprotection
 exchangeonprem
 exchangerate
 exchangeserver
@@ -2755,6 +2751,7 @@ generator
 generic
 genericartifactscontent
 genetic-algorithm
+genp
 genxdev
 geo
 geocache
@@ -2972,6 +2969,7 @@ handle
 handler
 hangouts
 hannelstoolbox
+hanwha
 har
 hard
 hardblock
@@ -3402,7 +3400,6 @@ iothub
 iothubproperties
 ip
 ip-address
-ip-scanner
 ipa
 ipaddress
 ipam
@@ -3520,6 +3517,7 @@ json-converter
 json-transform
 json+
 jsonplus
+jsonwebencryption
 jsonwebkey
 jsonwebsignature
 jsonwebtoken
@@ -3536,6 +3534,7 @@ jupyter
 jupytor
 justenoughadministration
 jvm
+jwe
 jwk
 jws
 jwt
@@ -4667,7 +4666,6 @@ optimizer
 option
 option119
 options
-optionstring
 opus
 oracle
 oraclecloudinfrastructure
@@ -4849,6 +4847,7 @@ pdf-document-processor
 pdf-files
 pdf-generation
 pdf-redaction
+pe
 peek
 peering
 peheader
@@ -4951,6 +4950,7 @@ plot
 plug-n-copy
 plugin
 plugins
+pluralsight
 ply
 pmp
 pncit
@@ -4987,7 +4987,6 @@ popd
 population
 popup
 port
-port-scanner
 port70
 portal
 porthunter
@@ -5113,17 +5112,20 @@ powershell
 powershell-class
 powershell-cmdlets
 powershell-core
+powershell-core-releases-api
 powershell-course
 powershell-credentials
 powershell-dsc
 powershell-examples
 powershell-gallery
+powershell-github-repo
 powershell-gitlab
 powershell-graphql
 powershell-isprime
 powershell-lightning
 powershell-module
 powershell-modules
+powershell-releases-api
 powershell-remoting
 powershell-terminal
 powershell-terminal-copilot
@@ -8183,7 +8185,6 @@ psincludes_function
 psini
 psinsight
 psintune
-psise
 psitem
 psjob
 psjobs
@@ -8624,6 +8625,7 @@ reverse-string
 reversed-color-text
 reversedsc
 reverseengineering
+revision
 reword
 rewrite
 rexec
@@ -8642,9 +8644,11 @@ rgb
 rhapsody
 ribbon
 ribcl
+ricoh
 rightjoin
 rights
 rightsizing
+rightsmanagement
 ring
 ripe
 risk
@@ -8817,7 +8821,6 @@ schemaextensions
 scheme
 school-information-system
 schoolholidays
-schulung
 schulverwaltung
 science
 scissors
@@ -9016,7 +9019,6 @@ sessions
 set
 set_bios
 set-alias
-set-dnsservers
 set-githubsecrets
 set-itemproperty
 set-location
@@ -9439,8 +9441,6 @@ stingar
 stock
 stockcharts
 stocks
-stoicism
-stoics
 stolpe.io
 stop
 storablecolortheme
@@ -9749,7 +9749,6 @@ tfs
 tfscmdlets
 tfsec
 tfswitch
-tftd
 tftp
 tfvars
 tfvc
@@ -9762,7 +9761,6 @@ thinprint
 third-party-libraries
 third-party-notice
 thispc
-thoughtfortheday
 thousandeyes
 thread
 threading
@@ -9852,7 +9850,6 @@ trafficfiltering
 trafficmanager
 trafficmarking
 train
-trainer
 training
 training-course
 tram
@@ -10029,6 +10026,7 @@ ui/ux
 ui7
 uk
 ul
+ulid
 ultimatetool
 um
 uml
@@ -10144,6 +10142,7 @@ utils
 utm
 uudecode
 uuencode
+uuid
 uup
 uw
 uwp
@@ -10172,9 +10171,9 @@ vaultstore
 vaultwarden
 vb365
 vba
+vbaproject
 vbproj
 vbr
-vbscript
 vbsinst
 vc
 vccmdlets
@@ -10555,7 +10554,6 @@ winrar
 winrm
 winrs
 winrt
-wins
 winsat
 winscp
 wintellect
@@ -10569,7 +10567,6 @@ wiscmail
 wisco365
 wisconsin-madison
 wisconsin'uw-madison
-wisdom
 with
 wizard
 wkhtmltopdf
@@ -10607,7 +10604,6 @@ workloads
 workpoint
 workrequests
 worksheet
-workshop
 workspace
 workspacemanager
 workspaceone
