@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Sunday, 25 February 2024 17:51:52 UTC
+Updated: Monday, 26 February 2024 02:02:09 UTC
 
 .bat
 .env
@@ -257,10 +257,10 @@ ais
 aispeech
 aivision
 ajustee
-aka.ms
 aks
 aks-hci
 akscluster
+al
 alac
 alarm
 alb
@@ -443,7 +443,6 @@ area
 arg
 argcomplete
 argument
-argumentcompleter
 arguments
 arm
 arm-json
@@ -471,7 +470,6 @@ ascii85
 asciiart
 asdatabase
 asigra
-asjob
 asm
 asn.1
 asn1
@@ -634,6 +632,7 @@ azsdk
 azsk
 azsql
 azstackhci
+azstate
 azsubnet
 aztools
 azts
@@ -709,6 +708,7 @@ azuresqlimport
 azuressas
 azurestack
 azurestackhci
+azurestate
 azurestorage
 azurestorageservices
 azuretable
@@ -797,7 +797,6 @@ billing
 billingbenefits
 bimi
 bin
-bin-obj
 binary
 binaryip
 bind
@@ -919,7 +918,6 @@ budget
 bugbounty
 bugzilla
 build
-build-log
 build-scripts
 builddefinition
 builder
@@ -989,6 +987,7 @@ carbon
 carbonawarecomputing
 carbonintensity
 card
+cardwirth
 cargo
 carousel
 carrier
@@ -1227,6 +1226,7 @@ cloudshell
 clueser
 cluster
 clusterminimumvalues
+clusterplugins
 cmaccounts
 cmake
 cmakepresets.json
@@ -1418,7 +1418,6 @@ containerinstances
 containerregistry
 containers
 containment
-contentprep
 context
 continious-deploy
 continious-integration
@@ -1503,6 +1502,7 @@ cover
 coverage
 coveralls
 coveralls.io
+covid
 covid-19
 cpm
 cppm
@@ -1599,7 +1599,6 @@ currency-convereter
 currency-exchange
 currencyconverterapi
 current
-curseforge
 custom
 customchecks
 customdns
@@ -1757,7 +1756,6 @@ ddc/ci
 ddns
 debian
 debug
-debug-files
 debugger
 debugging
 decimal
@@ -1781,7 +1779,6 @@ deepvisibility
 def
 default
 defaultparameter
-defaultroutes
 defaults
 defence
 defender
@@ -1865,7 +1862,6 @@ dfs
 dfw
 dg
 dhcp
-di
 diagnostic
 diagnostics
 diagram
@@ -1947,6 +1943,7 @@ distrubtionpoint
 dividends
 diving
 division
+divoom
 dkim
 dkschrutebeets
 dl
@@ -2031,9 +2028,9 @@ dots
 dotteddecimalip
 doubleclick
 download
-downloader
 downloadfacebookvideo
 downloadfilefromsite
+downloadinfo
 downloading
 downloadoffice
 downloadofficertool
@@ -2171,7 +2168,6 @@ editorservices
 edr
 education
 educational
-effectiveroutes
 efficientether
 efi
 egrep
@@ -2270,6 +2266,7 @@ eop
 eperl
 ephesoft
 epicor
+episode
 epplus
 eprosima
 epub
@@ -2433,7 +2430,6 @@ external
 externalip
 extract
 extraction
-extractor
 extreme-networks
 eztheme
 f
@@ -2619,7 +2615,6 @@ for
 force
 forcedelete
 foreach
-foreach-object
 forecast
 forensic
 forensics
@@ -3504,6 +3499,7 @@ job
 jobcan
 jobs
 jobscheduler
+johnshopkins
 join
 join-object
 jojoba
@@ -3526,7 +3522,6 @@ jsonwebkey
 jsonwebsignature
 jsonwebtoken
 jsp
-jumbo
 jump
 jump-location
 jumpcloud
@@ -3642,6 +3637,7 @@ labworker
 lake
 lambda
 lame
+lametrictime
 lamp
 lan
 landingzones
@@ -3734,7 +3730,6 @@ link-preview
 linkedin
 linkedservice
 linkedservicedependency
-linkid
 links
 linq
 linqpad
@@ -3777,6 +3772,7 @@ locale
 localgroup
 localgroupmember
 localization
+localpolicy
 location
 locationbasedservices
 lock
@@ -3811,7 +3807,6 @@ logger
 logging
 loggingingestion
 loggingsearch
-loggly
 logic
 logicapp
 logicapps
@@ -3838,8 +3833,10 @@ logonto
 logonuser
 logparser
 logrotate
+logrotation
 logs
 logstash
+logtools
 logz
 loki
 lol
@@ -3886,7 +3883,6 @@ macro
 macros
 madlib
 magazine
-magento
 magic8ball
 magicpacket
 magnet
@@ -4316,6 +4312,7 @@ namespace
 naming
 nana
 nano
+nanoleaf
 nartac
 nasdaq
 native
@@ -4575,6 +4572,7 @@ old
 older
 ole
 oledb
+omaha
 ome
 omnisphere
 omnistack
@@ -4632,7 +4630,6 @@ openhere
 openholidaysapi
 openid
 openidconnect
-openinghours
 openport
 openprovider
 openscad
@@ -4664,6 +4661,7 @@ optimizer
 option
 option119
 options
+optionstring
 opus
 oracle
 oraclecloudinfrastructure
@@ -4674,7 +4672,6 @@ orchestrator
 order
 organization
 orgnetwork
-oriflame
 orion
 orleans
 orm
@@ -4694,6 +4691,7 @@ osdsus
 osdupdate
 osi
 osm
+osmanagement
 osmanagementhub
 osp
 ospgateway
@@ -4787,6 +4785,7 @@ partition
 partitions
 partner
 partnercenter
+partnerportal
 pas
 pass
 passcode
@@ -4917,6 +4916,7 @@ piraeus
 pivot
 pivotal
 pivottable
+pixoo
 pkce
 pki
 pki psmodule
@@ -4938,6 +4938,7 @@ playlists
 playwright
 pleasant
 pleasantpasswordserver
+plex
 plist
 plog
 plot
@@ -4951,6 +4952,7 @@ pncit
 pnp
 pnpm
 pode
+poe
 poem
 poetry
 point
@@ -5225,7 +5227,6 @@ product
 productid
 productivity
 productmedia
-products
 productstate
 profile
 profiler
@@ -5236,6 +5237,7 @@ program-association
 programs
 progress
 progressbar
+progressbars
 project
 project-management
 projectmanagement
@@ -8178,6 +8180,7 @@ psincludes_function
 psini
 psinsight
 psintune
+psise
 psitem
 psjob
 psjobs
@@ -8190,6 +8193,7 @@ psm1
 psmodule
 psmodule psedition_desktop
 psmodulepath
+psmodulepsedition_desktoppsedition_core
 psmodules
 psmp
 psmsgraph
@@ -8230,9 +8234,6 @@ pssendgrid
 pssession
 pssharper
 psslack
-pssqlite
-pssqlitebynarymodule
-pssqlitemodule
 pssqlserver
 pssqlserverbynarymodule
 pssqlservermodule
@@ -8290,6 +8291,7 @@ pushover
 pushoverapi
 putty
 pve
+pvr
 pvs
 pwa
 pwned
@@ -8362,6 +8364,7 @@ r53
 rabbit
 rabbitmq
 rackspace
+radarr
 radio
 raidcontrollercmdlets
 railways
@@ -8570,6 +8573,7 @@ requestfiltering
 requiredmodules
 requirements
 res
+rescan
 rescuetime
 reservation
 reservations
@@ -8711,6 +8715,7 @@ runbook
 runbooks
 runbookstudio
 runcommand
+rundeck
 runner
 runspace
 runspacepool
@@ -8967,6 +8972,7 @@ serial
 serialization
 serialize
 sericemanagement
+series
 serilog
 serilog-for-powershell
 serilog-sink
@@ -8977,7 +8983,6 @@ servermanagement
 servers
 service
 service-bus
-service-messages
 servicebus
 servicebusforwindowsserver
 servicecatalog
@@ -9201,7 +9206,6 @@ snowflake
 snsmssqlpsmodule
 snspsadgroupmembers
 snspsscriptsmonitoring
-snssqlitepsmodule
 sntp
 soap
 soc
@@ -9209,7 +9213,6 @@ soccer
 social
 social-media
 socialmedia
-socketlabs
 sockets
 sodium
 software
@@ -9244,6 +9247,7 @@ sorting
 source
 source-dedicated-server
 sourcecontrol
+sourceforge
 sourcegraph
 sourcemod
 sourceone
@@ -9325,9 +9329,6 @@ sqldiagapi
 sqlexport
 sqlgateway
 sqlite
-sqlitebynarymodule
-sqlitebynarypsmodule
-sqlitemodule
 sqllocaldb
 sqlpackage
 sqlplus
@@ -9340,7 +9341,6 @@ sqlserverbynarymodule
 sqlserverbynarypsmodule
 sqlservermodule
 sqlvirtualmachine
-sqr
 sqrt
 square
 squire
@@ -9447,7 +9447,6 @@ storefront
 storeonce
 storeserv
 strava
-streak
 stream
 streamanalytics
 streaming
@@ -9506,7 +9505,6 @@ summary
 sumologic
 supercell
 superheros
-supermarket
 support
 support-tool
 support-tools
@@ -9596,12 +9594,10 @@ tab-completion
 tab-expansion
 tabcompletion
 tabexpansion
-tabexpansion2
 tablacus
 table
 tableau
 tableauserver
-tabler
 tables
 tablestorage
 tabs
@@ -9800,6 +9796,7 @@ toasts
 tobias
 toc
 todo
+todo.txt
 toggl
 toggle
 token
@@ -9921,13 +9918,14 @@ tweet
 twig
 twilio
 twincat
+twinkly
 twitch
 twitter
 twitter-api
 twitter-api-v2
 twitter-client
-twitter-follow
 twitter-hashtag
+twitter-mention
 twitter-share
 twitter-timeline
 twitter-tweet
@@ -9977,6 +9975,7 @@ ud-mouseparticle
 ud-navbarsearch
 ud-numbermask
 ud-orgchart
+ud-piechart3d
 ud-pivottable
 ud-progressstepbar
 ud-rangeslider
@@ -10079,6 +10078,7 @@ uplift
 uplink
 ups
 upsource
+upstream
 uptime
 uptimerobot
 uptobox
@@ -10239,7 +10239,6 @@ virus
 virustotal
 visio
 visual
-visual-studio
 visualbuilder
 visualc
 visualization
@@ -10634,7 +10633,6 @@ writelog
 writemanager
 writeprogress
 writer
-ws-federation
 wsapi
 wsb
 wsl
@@ -10646,8 +10644,6 @@ wso2
 wsus
 wt
 wtsapi32
-wttr
-wttr.in
 wtx
 wu
 wug
