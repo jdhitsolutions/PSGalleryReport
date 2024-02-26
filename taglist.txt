@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 26 February 2024 09:51:58 UTC
+Updated: Monday, 26 February 2024 17:52:02 UTC
 
 .bat
 .env
@@ -54,6 +54,7 @@ Updated: Monday, 26 February 2024 09:51:58 UTC
 7z
 7zip
 8.1
+8ball
 9
 aa
 aac
@@ -275,6 +276,8 @@ alfresco
 algorithm
 algorithms
 alias
+alias-hint
+alias-tips
 aliases
 aliens
 all
@@ -478,7 +481,6 @@ asp
 asp.net
 aspnet
 aspnet_regiis
-asr
 assembleenationale
 assembly
 assemblyloadcontext
@@ -687,7 +689,6 @@ azuremigrate
 azuremonitor
 azurenetworking
 azurepack
-azurepipelines
 azurepolicy
 azurepowershell
 azurerepos
@@ -787,6 +788,7 @@ bibtex
 bicep
 bicepnet
 big-ip
+big-iq
 bigcommerce
 bigeval
 bigfix
@@ -833,6 +835,7 @@ blacklist
 blade
 bladeserver
 blaze
+blinking-text
 blob
 blobstorage
 block
@@ -852,12 +855,15 @@ blueteam
 bluetraitio
 bluetuxedo
 bmc
+bnm
 boards
 bofh
 boilerplate
 boinc
+bold-text
 bolt
 bom
+book
 bookmark
 bookmarks
 books
@@ -914,9 +920,7 @@ budget
 bugbounty
 bugzilla
 build
-build-log
 build-scripts
-builddefinition
 builder
 building
 buildingfile
@@ -984,6 +988,7 @@ carbon
 carbonawarecomputing
 carbonintensity
 card
+cardwirth
 cargo
 carousel
 carrier
@@ -1028,6 +1033,7 @@ cdx
 ce
 celcat
 celerium
+censor
 center
 centra
 central
@@ -1143,6 +1149,7 @@ class
 classes
 classic
 classification
+classified
 clccontrol
 clccontrolapiv1
 clccontrolapiv2
@@ -1327,7 +1334,6 @@ compiler
 complete
 completer
 completion
-completion-manager
 completionresult
 completions
 complex
@@ -1412,7 +1418,6 @@ containerinstances
 containerregistry
 containers
 containment
-contentprep
 context
 continious-deploy
 continious-integration
@@ -1767,7 +1772,6 @@ decoding
 decompiler
 decrypt
 decryption
-dedicatedhsm
 deduplication
 deep
 deep-security
@@ -1861,7 +1865,6 @@ dfs
 dfw
 dg
 dhcp
-di
 diagnostic
 diagnostics
 diagram
@@ -1986,6 +1989,7 @@ docker
 docker-compose
 docker-image
 docker-machine
+docker-volumes
 dockerfile
 dockerize
 dockerswarm
@@ -2198,7 +2202,6 @@ email
 email-address
 emailaddressupdate
 emailautomation
-emailmanagment
 emailnotification
 emailnotificationcomponent
 emailsecurity
@@ -2481,6 +2484,7 @@ fetch
 ffmpeg
 ffprobe
 fhirservice
+fiche
 fiddler
 fido
 fido2
@@ -2708,7 +2712,6 @@ gainz-sqldb
 gal
 gallery
 game
-gamecategory:cards
 games
 gameserver
 gaming
@@ -2998,6 +3001,7 @@ hba
 hbase
 hci
 hcl
+hcm
 hcx
 hdfs
 hdinsight
@@ -3126,6 +3130,7 @@ hponeview
 hpwritemanager
 hris
 hsdp
+hsl
 html
 http
 http_proxy
@@ -3156,6 +3161,7 @@ hyper-v
 hyperconverged
 hyperfine
 hyperlink
+hyperlinked-text
 hyperthreading
 hyperv
 hypervisor
@@ -3189,6 +3195,7 @@ icingaplugins
 icingapowershell
 icingapowershellframework
 icingawindows
+icloud
 icmp
 icon
 icons
@@ -3321,6 +3328,7 @@ install-module
 install-windowsimage
 installation
 installationmanager
+installedapplications
 installer
 installers
 installoffice
@@ -3395,7 +3403,6 @@ iothub
 iothubproperties
 ip
 ip-address
-ip-scanner
 ipa
 ipaddress
 ipam
@@ -3446,6 +3453,7 @@ it
 it-support
 it-tool
 it-tools
+italic-text
 item
 itemlist
 itemobject
@@ -3988,7 +3996,6 @@ md5
 md5_v2-bec382e58a89ea94878fb65fed42770c
 mdatp
 mdb
-mdbc
 mde
 mdep
 mdi
@@ -4156,6 +4163,7 @@ moduleupdateinfo
 moduleupdater
 moduleversion
 mof
+moldova
 moment
 monaco
 monday
@@ -4981,7 +4989,6 @@ popd
 population
 popup
 port
-port-scanner
 port70
 portal
 porthunter
@@ -5013,6 +5020,7 @@ poshrsjob
 poshtemplate
 poshwsus
 poshy-code-search
+poshy-colors
 poshy-coreutils-ish
 poshy-dir-nav
 poshy-ecks
@@ -5280,7 +5288,6 @@ prtg
 prtg_network_monitor
 prtgnetworkmonitor
 ps
-ps-completions
 ps-ncentral
 ps.credentialmanager
 ps1
@@ -5355,6 +5362,25 @@ pscommand_basename
 pscommand_bcubc
 pscommand_bcubo
 pscommand_bfu
+pscommand_bgblack
+pscommand_bgblue
+pscommand_bgbrightblack
+pscommand_bgbrightblue
+pscommand_bgbrightcyan
+pscommand_bgbrightgreen
+pscommand_bgbrightmagenta
+pscommand_bgbrightred
+pscommand_bgbrightwhite
+pscommand_bgbrightyellow
+pscommand_bgcolor
+pscommand_bgcyan
+pscommand_bggreen
+pscommand_bghsl
+pscommand_bgmagenta
+pscommand_bgred
+pscommand_bgrgb
+pscommand_bgwhite
+pscommand_bgyellow
 pscommand_brewp
 pscommand_brewsp
 pscommand_bubc
@@ -5377,6 +5403,7 @@ pscommand_clocr
 pscommand_confirm-gitbisectcommitbad
 pscommand_confirm-gitbisectcommitgood
 pscommand_convertto-nixmode
+pscommand_convertto-rgb
 pscommand_d
 pscommand_d64
 pscommand_dbl
@@ -5549,6 +5576,41 @@ pscommand_encode64
 pscommand_encodefile64
 pscommand_export-gitrepositoryzip
 pscommand_extract
+pscommand_fgblack
+pscommand_fgblue
+pscommand_fgbrightblack
+pscommand_fgbrightblue
+pscommand_fgbrightcyan
+pscommand_fgbrightgreen
+pscommand_fgbrightmagenta
+pscommand_fgbrightred
+pscommand_fgbrightwhite
+pscommand_fgbrightyellow
+pscommand_fgcolor
+pscommand_fgcyan
+pscommand_fggreen
+pscommand_fghsl
+pscommand_fgmagenta
+pscommand_fgred
+pscommand_fgrgb
+pscommand_fgwhite
+pscommand_fgyellow
+pscommand_fmtblink
+pscommand_fmtblinkoff
+pscommand_fmtbold
+pscommand_fmtboldoff
+pscommand_fmthidden
+pscommand_fmthiddenoff
+pscommand_fmthyperlink
+pscommand_fmtitalic
+pscommand_fmtitalicoff
+pscommand_fmtreset
+pscommand_fmtreverse
+pscommand_fmtreverseoff
+pscommand_fmtstrikethrough
+pscommand_fmtstrikethroughoff
+pscommand_fmtunderline
+pscommand_fmtunderlineoff
 pscommand_forgit-add
 pscommand_forgit-blame
 pscommand_forgit-branch-delete
@@ -7099,10 +7161,30 @@ psfunction_apt-history
 psfunction_apt-list-packages
 psfunction_arch
 psfunction_basename
+psfunction_bgblack
+psfunction_bgblue
+psfunction_bgbrightblack
+psfunction_bgbrightblue
+psfunction_bgbrightcyan
+psfunction_bgbrightgreen
+psfunction_bgbrightmagenta
+psfunction_bgbrightred
+psfunction_bgbrightwhite
+psfunction_bgbrightyellow
+psfunction_bgcolor
+psfunction_bgcyan
+psfunction_bggreen
+psfunction_bghsl
+psfunction_bgmagenta
+psfunction_bgred
+psfunction_bgrgb
+psfunction_bgwhite
+psfunction_bgyellow
 psfunction_catimg
 psfunction_confirm-gitbisectcommitbad
 psfunction_confirm-gitbisectcommitgood
 psfunction_convertto-nixmode
+psfunction_convertto-rgb
 psfunction_d
 psfunction_decode64
 psfunction_decodefile64
@@ -7178,6 +7260,41 @@ psfunction_encode64
 psfunction_encodefile64
 psfunction_export-gitrepositoryzip
 psfunction_extract
+psfunction_fgblack
+psfunction_fgblue
+psfunction_fgbrightblack
+psfunction_fgbrightblue
+psfunction_fgbrightcyan
+psfunction_fgbrightgreen
+psfunction_fgbrightmagenta
+psfunction_fgbrightred
+psfunction_fgbrightwhite
+psfunction_fgbrightyellow
+psfunction_fgcolor
+psfunction_fgcyan
+psfunction_fggreen
+psfunction_fghsl
+psfunction_fgmagenta
+psfunction_fgred
+psfunction_fgrgb
+psfunction_fgwhite
+psfunction_fgyellow
+psfunction_fmtblink
+psfunction_fmtblinkoff
+psfunction_fmtbold
+psfunction_fmtboldoff
+psfunction_fmthidden
+psfunction_fmthiddenoff
+psfunction_fmthyperlink
+psfunction_fmtitalic
+psfunction_fmtitalicoff
+psfunction_fmtreset
+psfunction_fmtreverse
+psfunction_fmtreverseoff
+psfunction_fmtstrikethrough
+psfunction_fmtstrikethroughoff
+psfunction_fmtunderline
+psfunction_fmtunderlineoff
 psfunction_forgit-add
 psfunction_forgit-blame
 psfunction_forgit-branch-delete
@@ -8069,6 +8186,7 @@ psincludes_function
 psini
 psinsight
 psintune
+psise
 psitem
 psjob
 psjobs
@@ -8236,6 +8354,7 @@ question
 queue
 queues
 queuing
+quickaccess
 quickbase
 quickbooks
 quicksetup
@@ -8259,7 +8378,6 @@ radio
 raidcontrollercmdlets
 railways
 rainbow
-raisers
 raisersedge
 raj
 ram
@@ -8335,6 +8453,8 @@ recursivefilesandfoldersdownload
 recursivefilesandfoldersupload
 recyclebin
 red
+redact
+redaction
 reddit
 redfield
 redfish
@@ -8391,7 +8511,6 @@ reinstall
 relational
 relay
 release
-releasedefinition
 releasehealth
 releasemanagement
 releasenotes
@@ -8424,7 +8543,6 @@ remotemanagement
 remotesession
 remoting
 remove
-remove-githubsecrets
 remove-itemproperty
 remove-pass
 remove-path
@@ -8504,6 +8622,7 @@ retype
 reuse
 reverse-engineer
 reverse-string
+reversed-color-text
 reversedsc
 reverseengineering
 revision
@@ -8521,6 +8640,7 @@ rfc5952
 rfc826
 rfc9116
 rg
+rgb
 rhapsody
 ribbon
 ribcl
@@ -8646,6 +8766,7 @@ sampler
 san
 sand
 sandbox
+sanitization
 sanitizer
 sap
 sapazure
@@ -8664,6 +8785,7 @@ savov
 sbc
 sc
 scaffold
+scaffolding
 scaffoldingtemplate
 scala
 scalable
@@ -8868,7 +8990,6 @@ servermanagement
 servers
 service
 service-bus
-service-messages
 servicebus
 servicebusforwindowsserver
 servicecatalog
@@ -8900,7 +9021,6 @@ set
 set_bios
 set-alias
 set-dnsservers
-set-githubsecrets
 set-itemproperty
 set-location
 set-openfiles
@@ -9121,6 +9241,7 @@ solutions
 sonarcloud
 sonarqube
 sonarr
+sonatype
 songs
 sonicwall
 sonicwallvpn
@@ -9137,7 +9258,6 @@ sourcecontrol
 sourceforge
 sourcegraph
 sourcemod
-sourceone
 sourcepawn
 sourcequery
 sovcloud
@@ -9276,8 +9396,6 @@ stan
 stanc
 standalone
 standard
-standarderror
-standardoutput
 stansummary
 start
 start-job
@@ -9306,7 +9424,6 @@ statusmonitor
 statusreportingcomponent
 staytus
 stderr
-stdio
 stdout
 steam
 steam-games
@@ -9346,6 +9463,7 @@ streamreader
 streamwriter
 stretch
 strictmode
+strikethrough-text
 string
 string-template
 stringmanager
@@ -9426,7 +9544,6 @@ sybase
 sybaseiq
 symantec
 symbolic
-symbolic_link
 symboliclink
 symbols
 symbolservers
@@ -9518,7 +9635,6 @@ task-runner
 task-scheduler
 taskbar
 tasker
-taskgroup
 taskmanagement
 tasks
 taskscheduler
@@ -9569,6 +9685,7 @@ tenable.sc
 tenant
 tenantmanagercontrolplane
 teradata
+termbin
 terminal
 terminal-interface
 terminal-services
@@ -9623,7 +9740,6 @@ texting-emojis
 textprocessing
 textwrapping
 tfe
-tfenv
 tflint
 tfs
 tfscmdlets
@@ -9641,6 +9757,7 @@ thermostat
 thinprint
 third-party-libraries
 third-party-notice
+thispc
 thoughtfortheday
 thousandeyes
 thread
@@ -9660,6 +9777,7 @@ tibber
 tic-tac-toe
 tickle
 ticks
+tictactoe
 tiermodel
 time
 timeout
@@ -9776,6 +9894,7 @@ tripunkt
 troubleshoot
 troubleshooting
 trouw
+true-color
 truecrypt
 truenas
 trumethods
@@ -9816,6 +9935,7 @@ twitter-api-v2
 twitter-client
 twitter-follow
 twitter-hashtag
+twitter-mention
 twitter-share
 twitter-timeline
 twitter-tweet
@@ -9915,6 +10035,7 @@ unattend
 unattendedfile
 unblock
 unc
+underlined-text
 unicode
 unicode-emoji
 unicode-emojis
@@ -10352,6 +10473,7 @@ win-ps2exe
 win10
 win2k8
 win32
+win32_installedwin32program
 win32_operatingsystem
 win32-api
 win32appmigrationtool
@@ -10565,6 +10687,7 @@ xdschelper
 xdscresources
 xdt
 xenapp
+xendeskop
 xendesktop
 xero
 xevents
