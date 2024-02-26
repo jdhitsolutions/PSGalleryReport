@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 26 February 2024 02:02:09 UTC
+Updated: Monday, 26 February 2024 09:51:58 UTC
 
 .bat
 .env
@@ -54,7 +54,6 @@ Updated: Monday, 26 February 2024 02:02:09 UTC
 7z
 7zip
 8.1
-8ball
 9
 aa
 aac
@@ -110,9 +109,7 @@ action1
 actiongroup
 actionplan
 actions
-activate
 activation
-activationscripts
 active
 active_directory
 active-directory
@@ -257,6 +254,7 @@ ais
 aispeech
 aivision
 ajustee
+aka.ms
 aks
 aks-hci
 akscluster
@@ -277,8 +275,6 @@ alfresco
 algorithm
 algorithms
 alias
-alias-hint
-alias-tips
 aliases
 aliens
 all
@@ -300,6 +296,8 @@ amateur-data-interchange-format
 amateur-radio
 amateurradio
 amazon
+amazonaws
+amazonmgn
 amazonwebservices
 amend
 ami
@@ -443,6 +441,7 @@ area
 arg
 argcomplete
 argument
+argumentcompleter
 arguments
 arm
 arm-json
@@ -470,6 +469,7 @@ ascii85
 asciiart
 asdatabase
 asigra
+asjob
 asm
 asn.1
 asn1
@@ -787,7 +787,6 @@ bibtex
 bicep
 bicepnet
 big-ip
-big-iq
 bigcommerce
 bigeval
 bigfix
@@ -797,6 +796,7 @@ billing
 billingbenefits
 bimi
 bin
+bin-obj
 binary
 binaryip
 bind
@@ -833,7 +833,6 @@ blacklist
 blade
 bladeserver
 blaze
-blinking-text
 blob
 blobstorage
 block
@@ -853,15 +852,12 @@ blueteam
 bluetraitio
 bluetuxedo
 bmc
-bnm
 boards
 bofh
 boilerplate
 boinc
-bold-text
 bolt
 bom
-book
 bookmark
 bookmarks
 books
@@ -918,6 +914,7 @@ budget
 bugbounty
 bugzilla
 build
+build-log
 build-scripts
 builddefinition
 builder
@@ -987,7 +984,6 @@ carbon
 carbonawarecomputing
 carbonintensity
 card
-cardwirth
 cargo
 carousel
 carrier
@@ -1032,7 +1028,6 @@ cdx
 ce
 celcat
 celerium
-censor
 center
 centra
 central
@@ -1148,7 +1143,6 @@ class
 classes
 classic
 classification
-classified
 clccontrol
 clccontrolapiv1
 clccontrolapiv2
@@ -1418,6 +1412,7 @@ containerinstances
 containerregistry
 containers
 containment
+contentprep
 context
 continious-deploy
 continious-integration
@@ -1477,6 +1472,7 @@ coreepower.lib
 coreepower.module
 coreepower.net
 coreepower.net.soundcloudexplode
+coreposh
 coreutils
 corona
 cortex
@@ -1599,6 +1595,7 @@ currency-convereter
 currency-exchange
 currencyconverterapi
 current
+curseforge
 custom
 customchecks
 customdns
@@ -1756,6 +1753,7 @@ ddc/ci
 ddns
 debian
 debug
+debug-files
 debugger
 debugging
 decimal
@@ -1779,6 +1777,7 @@ deepvisibility
 def
 default
 defaultparameter
+defaultroutes
 defaults
 defence
 defender
@@ -1862,6 +1861,7 @@ dfs
 dfw
 dg
 dhcp
+di
 diagnostic
 diagnostics
 diagram
@@ -1986,7 +1986,6 @@ docker
 docker-compose
 docker-image
 docker-machine
-docker-volumes
 dockerfile
 dockerize
 dockerswarm
@@ -2028,6 +2027,7 @@ dots
 dotteddecimalip
 doubleclick
 download
+downloader
 downloadfacebookvideo
 downloadfilefromsite
 downloadinfo
@@ -2168,6 +2168,7 @@ editorservices
 edr
 education
 educational
+effectiveroutes
 efficientether
 efi
 egrep
@@ -2430,6 +2431,7 @@ external
 externalip
 extract
 extraction
+extractor
 extreme-networks
 eztheme
 f
@@ -2479,7 +2481,6 @@ fetch
 ffmpeg
 ffprobe
 fhirservice
-fiche
 fiddler
 fido
 fido2
@@ -2615,6 +2616,7 @@ for
 force
 forcedelete
 foreach
+foreach-object
 forecast
 forensic
 forensics
@@ -2996,7 +2998,6 @@ hba
 hbase
 hci
 hcl
-hcm
 hcx
 hdfs
 hdinsight
@@ -3125,7 +3126,6 @@ hponeview
 hpwritemanager
 hris
 hsdp
-hsl
 html
 http
 http_proxy
@@ -3150,14 +3150,12 @@ humanly
 humor
 humorous
 hunter
-hwid
 hybrid
 hybridrunbookworker
 hyper-v
 hyperconverged
 hyperfine
 hyperlink
-hyperlinked-text
 hyperthreading
 hyperv
 hypervisor
@@ -3191,7 +3189,6 @@ icingaplugins
 icingapowershell
 icingapowershellframework
 icingawindows
-icloud
 icmp
 icon
 icons
@@ -3324,7 +3321,6 @@ install-module
 install-windowsimage
 installation
 installationmanager
-installedapplications
 installer
 installers
 installoffice
@@ -3450,7 +3446,6 @@ it
 it-support
 it-tool
 it-tools
-italic-text
 item
 itemlist
 itemobject
@@ -3522,6 +3517,7 @@ jsonwebkey
 jsonwebsignature
 jsonwebtoken
 jsp
+jumbo
 jump
 jump-location
 jumpcloud
@@ -3730,6 +3726,7 @@ link-preview
 linkedin
 linkedservice
 linkedservicedependency
+linkid
 links
 linq
 linqpad
@@ -3807,6 +3804,7 @@ logger
 logging
 loggingingestion
 loggingsearch
+loggly
 logic
 logicapp
 logicapps
@@ -3883,6 +3881,7 @@ macro
 macros
 madlib
 magazine
+magento
 magic8ball
 magicpacket
 magnet
@@ -3955,7 +3954,6 @@ marvell_semiconductor_inc
 marvellfcpowerkit
 marvellfcprovider
 marvellqlogicfcpowerkit
-mas
 mask
 mass
 masstransit
@@ -4056,6 +4054,7 @@ metrics
 metrolink
 mfa
 mga
+mgn
 mi
 micro-orm
 microfocus
@@ -4157,7 +4156,6 @@ moduleupdateinfo
 moduleupdater
 moduleversion
 mof
-moldova
 moment
 monaco
 monday
@@ -4630,6 +4628,7 @@ openhere
 openholidaysapi
 openid
 openidconnect
+openinghours
 openport
 openprovider
 openscad
@@ -4672,6 +4671,7 @@ orchestrator
 order
 organization
 orgnetwork
+oriflame
 orion
 orleans
 orm
@@ -4836,7 +4836,6 @@ pci-dss
 pcloud
 pcsetup
 pcsv
-pdb
 pdf
 pdf-document-processor
 pdf-files
@@ -5014,7 +5013,6 @@ poshrsjob
 poshtemplate
 poshwsus
 poshy-code-search
-poshy-colors
 poshy-coreutils-ish
 poshy-dir-nav
 poshy-ecks
@@ -5227,6 +5225,7 @@ product
 productid
 productivity
 productmedia
+products
 productstate
 profile
 profiler
@@ -5356,25 +5355,6 @@ pscommand_basename
 pscommand_bcubc
 pscommand_bcubo
 pscommand_bfu
-pscommand_bgblack
-pscommand_bgblue
-pscommand_bgbrightblack
-pscommand_bgbrightblue
-pscommand_bgbrightcyan
-pscommand_bgbrightgreen
-pscommand_bgbrightmagenta
-pscommand_bgbrightred
-pscommand_bgbrightwhite
-pscommand_bgbrightyellow
-pscommand_bgcolor
-pscommand_bgcyan
-pscommand_bggreen
-pscommand_bghsl
-pscommand_bgmagenta
-pscommand_bgred
-pscommand_bgrgb
-pscommand_bgwhite
-pscommand_bgyellow
 pscommand_brewp
 pscommand_brewsp
 pscommand_bubc
@@ -5397,7 +5377,6 @@ pscommand_clocr
 pscommand_confirm-gitbisectcommitbad
 pscommand_confirm-gitbisectcommitgood
 pscommand_convertto-nixmode
-pscommand_convertto-rgb
 pscommand_d
 pscommand_d64
 pscommand_dbl
@@ -5570,41 +5549,6 @@ pscommand_encode64
 pscommand_encodefile64
 pscommand_export-gitrepositoryzip
 pscommand_extract
-pscommand_fgblack
-pscommand_fgblue
-pscommand_fgbrightblack
-pscommand_fgbrightblue
-pscommand_fgbrightcyan
-pscommand_fgbrightgreen
-pscommand_fgbrightmagenta
-pscommand_fgbrightred
-pscommand_fgbrightwhite
-pscommand_fgbrightyellow
-pscommand_fgcolor
-pscommand_fgcyan
-pscommand_fggreen
-pscommand_fghsl
-pscommand_fgmagenta
-pscommand_fgred
-pscommand_fgrgb
-pscommand_fgwhite
-pscommand_fgyellow
-pscommand_fmtblink
-pscommand_fmtblinkoff
-pscommand_fmtbold
-pscommand_fmtboldoff
-pscommand_fmthidden
-pscommand_fmthiddenoff
-pscommand_fmthyperlink
-pscommand_fmtitalic
-pscommand_fmtitalicoff
-pscommand_fmtreset
-pscommand_fmtreverse
-pscommand_fmtreverseoff
-pscommand_fmtstrikethrough
-pscommand_fmtstrikethroughoff
-pscommand_fmtunderline
-pscommand_fmtunderlineoff
 pscommand_forgit-add
 pscommand_forgit-blame
 pscommand_forgit-branch-delete
@@ -7155,30 +7099,10 @@ psfunction_apt-history
 psfunction_apt-list-packages
 psfunction_arch
 psfunction_basename
-psfunction_bgblack
-psfunction_bgblue
-psfunction_bgbrightblack
-psfunction_bgbrightblue
-psfunction_bgbrightcyan
-psfunction_bgbrightgreen
-psfunction_bgbrightmagenta
-psfunction_bgbrightred
-psfunction_bgbrightwhite
-psfunction_bgbrightyellow
-psfunction_bgcolor
-psfunction_bgcyan
-psfunction_bggreen
-psfunction_bghsl
-psfunction_bgmagenta
-psfunction_bgred
-psfunction_bgrgb
-psfunction_bgwhite
-psfunction_bgyellow
 psfunction_catimg
 psfunction_confirm-gitbisectcommitbad
 psfunction_confirm-gitbisectcommitgood
 psfunction_convertto-nixmode
-psfunction_convertto-rgb
 psfunction_d
 psfunction_decode64
 psfunction_decodefile64
@@ -7254,41 +7178,6 @@ psfunction_encode64
 psfunction_encodefile64
 psfunction_export-gitrepositoryzip
 psfunction_extract
-psfunction_fgblack
-psfunction_fgblue
-psfunction_fgbrightblack
-psfunction_fgbrightblue
-psfunction_fgbrightcyan
-psfunction_fgbrightgreen
-psfunction_fgbrightmagenta
-psfunction_fgbrightred
-psfunction_fgbrightwhite
-psfunction_fgbrightyellow
-psfunction_fgcolor
-psfunction_fgcyan
-psfunction_fggreen
-psfunction_fghsl
-psfunction_fgmagenta
-psfunction_fgred
-psfunction_fgrgb
-psfunction_fgwhite
-psfunction_fgyellow
-psfunction_fmtblink
-psfunction_fmtblinkoff
-psfunction_fmtbold
-psfunction_fmtboldoff
-psfunction_fmthidden
-psfunction_fmthiddenoff
-psfunction_fmthyperlink
-psfunction_fmtitalic
-psfunction_fmtitalicoff
-psfunction_fmtreset
-psfunction_fmtreverse
-psfunction_fmtreverseoff
-psfunction_fmtstrikethrough
-psfunction_fmtstrikethroughoff
-psfunction_fmtunderline
-psfunction_fmtunderlineoff
 psfunction_forgit-add
 psfunction_forgit-blame
 psfunction_forgit-branch-delete
@@ -8180,7 +8069,6 @@ psincludes_function
 psini
 psinsight
 psintune
-psise
 psitem
 psjob
 psjobs
@@ -8234,6 +8122,9 @@ pssendgrid
 pssession
 pssharper
 psslack
+pssqlite
+pssqlitebynarymodule
+pssqlitemodule
 pssqlserver
 pssqlserverbynarymodule
 pssqlservermodule
@@ -8345,7 +8236,6 @@ question
 queue
 queues
 queuing
-quickaccess
 quickbase
 quickbooks
 quicksetup
@@ -8445,8 +8335,6 @@ recursivefilesandfoldersdownload
 recursivefilesandfoldersupload
 recyclebin
 red
-redact
-redaction
 reddit
 redfield
 redfish
@@ -8616,7 +8504,6 @@ retype
 reuse
 reverse-engineer
 reverse-string
-reversed-color-text
 reversedsc
 reverseengineering
 revision
@@ -8634,7 +8521,6 @@ rfc5952
 rfc826
 rfc9116
 rg
-rgb
 rhapsody
 ribbon
 ribcl
@@ -8760,7 +8646,6 @@ sampler
 san
 sand
 sandbox
-sanitization
 sanitizer
 sap
 sapazure
@@ -8983,6 +8868,7 @@ servermanagement
 servers
 service
 service-bus
+service-messages
 servicebus
 servicebusforwindowsserver
 servicecatalog
@@ -9206,6 +9092,7 @@ snowflake
 snsmssqlpsmodule
 snspsadgroupmembers
 snspsscriptsmonitoring
+snssqlitepsmodule
 sntp
 soap
 soc
@@ -9213,6 +9100,7 @@ soccer
 social
 social-media
 socialmedia
+socketlabs
 sockets
 sodium
 software
@@ -9233,7 +9121,6 @@ solutions
 sonarcloud
 sonarqube
 sonarr
-sonatype
 songs
 sonicwall
 sonicwallvpn
@@ -9303,7 +9190,6 @@ sports-tracker
 spotify
 spotify-api
 spotlight
-spotlightimages
 spp
 spread
 spreadsheet
@@ -9318,6 +9204,7 @@ sqlagent
 sqlautomation
 sqlbits
 sqlbrowser
+sqlbulkcopy
 sqlchangeautomation
 sqlclient
 sqlcmd
@@ -9329,6 +9216,9 @@ sqldiagapi
 sqlexport
 sqlgateway
 sqlite
+sqlitebynarymodule
+sqlitebynarypsmodule
+sqlitemodule
 sqllocaldb
 sqlpackage
 sqlplus
@@ -9341,6 +9231,7 @@ sqlserverbynarymodule
 sqlserverbynarypsmodule
 sqlservermodule
 sqlvirtualmachine
+sqr
 sqrt
 square
 squire
@@ -9447,6 +9338,7 @@ storefront
 storeonce
 storeserv
 strava
+streak
 stream
 streamanalytics
 streaming
@@ -9454,7 +9346,6 @@ streamreader
 streamwriter
 stretch
 strictmode
-strikethrough-text
 string
 string-template
 stringmanager
@@ -9505,6 +9396,7 @@ summary
 sumologic
 supercell
 superheros
+supermarket
 support
 support-tool
 support-tools
@@ -9594,10 +9486,12 @@ tab-completion
 tab-expansion
 tabcompletion
 tabexpansion
+tabexpansion2
 tablacus
 table
 tableau
 tableauserver
+tabler
 tables
 tablestorage
 tabs
@@ -9675,7 +9569,6 @@ tenable.sc
 tenant
 tenantmanagercontrolplane
 teradata
-termbin
 terminal
 terminal-interface
 terminal-services
@@ -9748,7 +9641,6 @@ thermostat
 thinprint
 third-party-libraries
 third-party-notice
-thispc
 thoughtfortheday
 thousandeyes
 thread
@@ -9768,7 +9660,6 @@ tibber
 tic-tac-toe
 tickle
 ticks
-tictactoe
 tiermodel
 time
 timeout
@@ -9885,7 +9776,6 @@ tripunkt
 troubleshoot
 troubleshooting
 trouw
-true-color
 truecrypt
 truenas
 trumethods
@@ -9924,8 +9814,8 @@ twitter
 twitter-api
 twitter-api-v2
 twitter-client
+twitter-follow
 twitter-hashtag
-twitter-mention
 twitter-share
 twitter-timeline
 twitter-tweet
@@ -10025,7 +9915,6 @@ unattend
 unattendedfile
 unblock
 unc
-underlined-text
 unicode
 unicode-emoji
 unicode-emojis
@@ -10239,6 +10128,7 @@ virus
 virustotal
 visio
 visual
+visual-studio
 visualbuilder
 visualc
 visualization
@@ -10462,7 +10352,6 @@ win-ps2exe
 win10
 win2k8
 win32
-win32_installedwin32program
 win32_operatingsystem
 win32-api
 win32appmigrationtool
@@ -10633,6 +10522,7 @@ writelog
 writemanager
 writeprogress
 writer
+ws-federation
 wsapi
 wsb
 wsl
@@ -10644,6 +10534,8 @@ wso2
 wsus
 wt
 wtsapi32
+wttr
+wttr.in
 wtx
 wu
 wug
@@ -10673,7 +10565,6 @@ xdschelper
 xdscresources
 xdt
 xenapp
-xendeskop
 xendesktop
 xero
 xevents
