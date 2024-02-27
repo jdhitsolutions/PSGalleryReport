@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Tuesday, 27 February 2024 09:51:42 UTC
+Updated: Tuesday, 27 February 2024 17:51:52 UTC
 
 .bat
 .env
@@ -18,7 +18,6 @@ Updated: Tuesday, 27 February 2024 09:51:42 UTC
 **windows**
 🍄
 🍣
-💩
 10
 11
 1607
@@ -101,7 +100,6 @@ acl
 acme
 acmesharp
 acmesharp_ext
-act-on
 act!
 actifio
 actifiogo
@@ -303,7 +301,6 @@ amateurradio
 amazon
 amazonaws
 amazonmgn
-amazonwebservices
 amend
 ami
 amiga
@@ -311,7 +308,6 @@ amp
 amqp
 amsi
 amt
-amxmodx
 anaconda
 analysis
 analysisservices
@@ -328,7 +324,6 @@ android
 anet
 anf
 anglesharp
-angular
 animals
 animate-svg
 animation
@@ -347,7 +342,6 @@ antispam
 antivirus
 any
 anypackage
-anypoint
 anywhere
 aovpn psmodule
 apache
@@ -410,7 +404,6 @@ appservice
 appservices
 appsetting
 appv
-appventix
 appveyor
 appvolumes
 appx
@@ -446,7 +439,6 @@ area
 arg
 argcomplete
 argument
-argumentcompleter
 arguments
 arm
 arm-json
@@ -663,6 +655,7 @@ azureadgraph
 azureadtoolkit
 azureadvancedthreatprotection
 azureappconfiguration
+azureartifacts
 azureas
 azureatp
 azureautomation
@@ -714,6 +707,7 @@ azurestackhci
 azurestate
 azurestorage
 azurestorageservices
+azuresync
 azuretable
 azurevirtualdesktop
 azurevirtualmachines
@@ -873,6 +867,7 @@ bool
 boolean
 bootloader psmodule
 bootstrap
+bootstrapping
 bop
 bot
 bots
@@ -980,6 +975,7 @@ canonical
 cantara
 capability
 capacity
+capacitymanagement
 capainstaller
 capasystems
 capgemini
@@ -1223,8 +1219,10 @@ cloudiq
 cloudkey
 cloudmarque
 cloudmigrations
+cloudpc
 cloudservice
 cloudshell
+clueser
 cluster
 clusterminimumvalues
 clusterplugins
@@ -1339,6 +1337,7 @@ completionresult
 completions
 complex
 compliance
+compliant
 component
 composer
 composite
@@ -1549,7 +1548,6 @@ credman
 credmanager
 crescendo
 crescendobuilt
-cresendo
 crestron
 crime
 crlf
@@ -1581,7 +1579,6 @@ css
 csv
 csv2adx
 csvhelper
-ctf
 ctglobal
 ctl
 ctrl+c
@@ -1667,6 +1664,7 @@ dashboardservice
 dast
 data
 data_protection
+data_security
 data-archive
 data-backup
 data-tier
@@ -1689,6 +1687,7 @@ datacollectionrule
 dataconduit
 dataconnectivity
 datadog
+dataexchange
 dataexplorer
 datafactory
 dataflow
@@ -1905,6 +1904,7 @@ disa
 disable
 disable-internet
 disable-psremoting
+disablefilesyncngsc
 disablestartbutton
 disablestartkey
 disasm
@@ -2020,6 +2020,7 @@ donothing
 dos
 dot
 dotenv
+dotfile
 dotfiles
 dotnet
 dotnet-cli
@@ -2190,7 +2191,6 @@ elevation
 elgato
 elk
 elm
-elmah-io
 elonmusk
 eloqua
 elvui
@@ -2268,7 +2268,6 @@ eop
 eperl
 ephesoft
 epicor
-episode
 epplus
 eprosima
 epub
@@ -2371,7 +2370,6 @@ exchangeonline
 exchangeonlinemanagement
 exchangeonlineprotection
 exchangeonprem
-exchangerate
 exchangeserver
 exchangewebservices
 exclusion
@@ -2482,6 +2480,7 @@ fetch
 ffmpeg
 ffprobe
 fhirservice
+fiche
 fiddler
 fido
 fido2
@@ -2711,7 +2710,6 @@ gallery
 game
 gamecategory:cards
 games
-gameserver
 gaming
 garage
 gas
@@ -2727,6 +2725,7 @@ gci
 gcloud
 gcp
 gcs
+gdap
 gdpr
 gedit
 gem
@@ -2815,6 +2814,7 @@ git
 git-client
 git-clone
 git-flow
+git-lfs
 git-proxy
 git-rename
 git-stat
@@ -2840,6 +2840,7 @@ glob
 globalclipboard
 globaldashboard
 globalentry
+globallydistributeddatabase
 globbing
 glpi
 gmail
@@ -2920,6 +2921,7 @@ group-policy
 groupmembership
 grouppolicy
 groups
+grouvee
 growlnotify
 grr
 gsuite
@@ -2927,6 +2929,7 @@ gtx1080ti
 guardedfabric
 guardicore
 gubbins
+guest
 guestconfiguration
 guests
 gui
@@ -2944,6 +2947,7 @@ gz
 gzip
 gzip-compression
 ha
+haarlemsdagblad
 hack
 hacking
 hacktoberfest
@@ -3214,6 +3218,7 @@ ie
 iem
 ifconfig
 ifttt
+igel
 igr
 ihs
 iiittttt
@@ -3251,6 +3256,7 @@ imaging
 imap
 imb
 imei
+imi
 impala
 impersonation
 imperva
@@ -3275,7 +3281,6 @@ indexdb
 indicator
 inedo
 inetfwrule
-infinity
 influx
 influxdb
 info
@@ -3497,10 +3502,8 @@ johnshopkins
 join
 join-object
 jojoba
-joke
 jotform
 journal
-joyride
 jpg
 jq
 js7
@@ -3512,7 +3515,6 @@ json-transform
 json+
 jsonplus
 jsonwebencryption
-jsonwebkey
 jsonwebsignature
 jsonwebtoken
 jsp
@@ -3529,7 +3531,6 @@ jupytor
 justenoughadministration
 jvm
 jwe
-jwk
 jws
 jwt
 jwttoken
@@ -3612,6 +3613,7 @@ kudu
 kurukuru
 kusto
 kvm
+kvp
 kvt
 l1tf
 l2tp
@@ -3773,6 +3775,7 @@ locationbasedservices
 lock
 lockbox
 lockdisplaytimeout
+lockdown
 locking
 lockoutreport
 lockscreen
@@ -3833,6 +3836,7 @@ logs
 logstash
 logtools
 logz
+loki
 lol
 lolcat
 longfile
@@ -4060,6 +4064,7 @@ microservices
 microsoft
 microsoft_365
 microsoft_azure
+microsoft_endpoint_manager
 microsoft_online
 microsoft_teams
 microsoft-graph
@@ -4248,8 +4253,6 @@ msu
 msvc
 msword
 mta-sts
-mule
-mulesoft
 multi-factor
 multi-language
 multi-platform
@@ -4281,6 +4284,7 @@ mvp
 mx
 mxlookup
 mycloudrevolution
+myget
 myhub
 myip
 myitprocess
@@ -4433,8 +4437,6 @@ nntp
 node
 nodejs
 non-volatile
-none
-noneimages
 noninteractive
 noproxy
 nord
@@ -4467,7 +4469,6 @@ nprintingapi
 nps
 npslog
 npslogfile
-nql
 nrc
 nrql
 ns
@@ -4605,6 +4606,8 @@ ontap_9.14.1
 ontap_9.8.0
 ontap_pstk_9.14.1
 ontap_pstk_9.8.0
+onyphe
+onyphe.io
 oob
 oop
 op
@@ -4819,6 +4822,7 @@ pathfinder
 patternmatching
 pause
 pax8
+payload
 paylocity
 paypal
 pays
@@ -4923,6 +4927,7 @@ planner
 plantuml
 plaster
 platform
+platyps
 play
 playback
 playbook
@@ -4967,7 +4972,6 @@ polycom
 pomodoro
 ponduit
 pool
-poop
 pop
 pop-location
 pop3
@@ -5035,6 +5039,7 @@ poshy-wrap-gem
 poshy-wrap-gh
 poshy-wrap-git
 poshy-wrap-git-flow
+poshy-wrap-git-lfs
 poshy-wrap-golang
 poshy-wrap-helm
 poshy-wrap-kubectl
@@ -5147,7 +5152,6 @@ powertab
 powertoolcmdlets
 powertooldsc
 ppdm
-ppk
 pposh
 pps
 ppt
@@ -5263,6 +5267,8 @@ provisonedpackage
 prowl
 prowl-notifications
 prowlapp
+proxmox
+proxmoxve
 proxsys
 proxy
 proxyfunction
@@ -5322,6 +5328,7 @@ pscommand_acsp
 pscommand_add_ssh
 pscommand_add-envpathitem
 pscommand_add-envvarpathitem
+pscommand_add-gitlfstrackedfiles
 pscommand_add-gitremote
 pscommand_add-gitskipworktreeflag
 pscommand_add-gitsubmodule
@@ -5746,6 +5753,7 @@ pscommand_get-gitdiffstash
 pscommand_get-gitdiffstashhead
 pscommand_get-gitdiffstashparent
 pscommand_get-gitignoredfiles
+pscommand_get-gitlfstrackedfiles
 pscommand_get-gitlogbranchcommitsunpushed
 pscommand_get-gitlogcommitspulledlast
 pscommand_get-gitloggraph
@@ -5852,6 +5860,10 @@ pscommand_gitignore-reload
 pscommand_gittowork
 pscommand_gl
 pscommand_glf
+pscommand_glfsi
+pscommand_glfsls
+pscommand_glfsmi
+pscommand_glfst
 pscommand_glg
 pscommand_glgo
 pscommand_glgs
@@ -5900,6 +5912,7 @@ pscommand_gpatch
 pscommand_gpdo
 pscommand_gpf
 pscommand_gpl
+pscommand_gplfs
 pscommand_gplr
 pscommand_gplrs
 pscommand_gpo
@@ -6102,6 +6115,8 @@ pscommand_invoke-githubapi-bodyfields
 pscommand_invoke-githubapi-bodyfile
 pscommand_invoke-githubapi-bodyjson
 pscommand_invoke-githubapi-bodyraw
+pscommand_invoke-gitlfsinstall
+pscommand_invoke-gitlfsmigrateimport
 pscommand_invoke-gitmerge
 pscommand_invoke-gitpull
 pscommand_invoke-gitpush
@@ -7121,6 +7136,7 @@ psfunction_aar
 psfunction_add_ssh
 psfunction_add-envpathitem
 psfunction_add-envvarpathitem
+psfunction_add-gitlfstrackedfiles
 psfunction_add-gitremote
 psfunction_add-gitskipworktreeflag
 psfunction_add-gitsubmodule
@@ -7328,6 +7344,7 @@ psfunction_get-gitdiffstash
 psfunction_get-gitdiffstashhead
 psfunction_get-gitdiffstashparent
 psfunction_get-gitignoredfiles
+psfunction_get-gitlfstrackedfiles
 psfunction_get-gitlogbranchcommitsunpushed
 psfunction_get-gitlogcommitspulledlast
 psfunction_get-gitloggraph
@@ -7392,6 +7409,7 @@ psfunction_git-global-show-proxy
 psfunction_git-show-proxy
 psfunction_gitignore-reload
 psfunction_gittowork
+psfunction_gplfs
 psfunction_hostname
 psfunction_invoke-aptcachepolicy
 psfunction_invoke-aptcachesearch
@@ -7505,6 +7523,8 @@ psfunction_invoke-githubapi-bodyfields
 psfunction_invoke-githubapi-bodyfile
 psfunction_invoke-githubapi-bodyjson
 psfunction_invoke-githubapi-bodyraw
+psfunction_invoke-gitlfsinstall
+psfunction_invoke-gitlfsmigrateimport
 psfunction_invoke-gitmerge
 psfunction_invoke-gitpull
 psfunction_invoke-gitpush
@@ -8268,7 +8288,7 @@ pushd
 pushover
 pushoverapi
 putty
-pvr
+pve
 pvs
 pwa
 pwned
@@ -8341,7 +8361,6 @@ r53
 rabbit
 rabbitmq
 rackspace
-radarr
 radio
 raidcontrollercmdlets
 railways
@@ -8360,6 +8379,7 @@ randomuser
 randomusers
 range
 rangescan
+ransomware_recovery
 ras
 raspberry-pi
 raspberrypi
@@ -8549,7 +8569,6 @@ requestfiltering
 requiredmodules
 requirements
 res
-rescan
 rescuetime
 reservation
 reservations
@@ -8677,6 +8696,7 @@ rt
 rtu
 rubber
 rubrik
+rubriksecuritycloud
 ruby
 rulasg
 rule
@@ -8849,6 +8869,7 @@ search-engines
 searchengine
 searcher
 searching
+searchmanager
 searchplace
 searchquery
 searchstring
@@ -8912,7 +8933,6 @@ self-hosted
 self-service
 self-signed
 selfdispatch
-selfhelp
 selfsigned
 semantic
 semantic-versioning
@@ -8945,7 +8965,6 @@ serial
 serialization
 serialize
 sericemanagement
-series
 serilog
 serilog-for-powershell
 serilog-sink
@@ -9041,7 +9060,6 @@ sharepointpnppowershellonline.add-on.module
 shares
 sheets
 shell
-shell-art
 shells
 shieldedvm
 ships
@@ -9225,9 +9243,7 @@ source-dedicated-server
 sourcecontrol
 sourceforge
 sourcegraph
-sourcemod
 sourceone
-sourcepawn
 sourcequery
 sovcloud
 space
@@ -9264,6 +9280,7 @@ spelling
 spf
 spi
 spicetify
+spinnaker
 splash
 splat
 splatting
@@ -9389,7 +9406,6 @@ statuscake
 statuscode
 statusmonitor
 statusreportingcomponent
-staytus
 stderr
 stdout
 steam
@@ -9558,7 +9574,6 @@ systemcolors
 systemctl
 systemdiscovery
 systeminfo
-systeminformation
 systemlocale
 systems
 systemsplash
@@ -9571,7 +9586,6 @@ tab-completion
 tab-expansion
 tabcompletion
 tabexpansion
-tabexpansion2
 tablacus
 table
 tableau
@@ -9654,6 +9668,7 @@ tenable.sc
 tenant
 tenantmanagercontrolplane
 teradata
+termbin
 terminal
 terminal-interface
 terminal-services
@@ -9670,6 +9685,7 @@ terragrunt
 tesla
 test
 test-automation
+test-dscconfiguration
 test-internetconnection
 test-modulepath
 test-osplatform
@@ -9998,6 +10014,7 @@ ultimatetool
 um
 uml
 umn
+ums
 unattend
 unattendedfile
 unblock
@@ -10048,7 +10065,6 @@ updatemgmt
 updater
 updates
 updateservices
-updmanagement
 updmgmt
 upgrade
 uplift
@@ -10288,6 +10304,7 @@ vs
 vs-shell
 vsa
 vsan
+vsan+
 vscode
 vsdevcmd
 vsdevshell
@@ -10295,6 +10312,7 @@ vsenvironment
 vsm
 vso
 vsphere
+vsphere+
 vss
 vssetup
 vsshell
@@ -10312,6 +10330,7 @@ vum
 vvx
 vxrail
 w32time
+w365
 w3svc
 w3w
 waa
@@ -10402,7 +10421,6 @@ wef
 weixin
 well-known
 wem
-wemsdk
 wer
 wget
 what3words
@@ -10496,6 +10514,7 @@ windowspresentationfoundation
 windowsreleasehealth
 windowsrest
 windowssandbox
+windowssearchmanager
 windowsserver
 windowsserver2008
 windowsserver2016
@@ -10612,7 +10631,6 @@ wsapi
 wsb
 wsl
 wsl2
-wsl2 psmodule psedition_core
 wsman
 wsmanlistener
 wso2
@@ -10655,7 +10673,6 @@ xendesktop
 xero
 xevents
 xh
-xi
 xiaomi
 xin
 xkcd
@@ -10672,13 +10689,13 @@ xoauth2
 xor
 xpath
 xpendingreboot
+xpertdoc
 xpo
 xprotect
 xpt
 xrm
 xsa
 xtremio
-xtrude
 xunit
 xwiki
 xwindowsupdate
