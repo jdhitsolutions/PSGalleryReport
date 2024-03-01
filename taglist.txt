@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Thursday, 29 February 2024 17:51:55 UTC
+Updated: Friday, 01 March 2024 02:03:39 UTC
 
 .bat
 .env
@@ -129,6 +129,7 @@ activesession
 activiti
 activities
 activity
+activitycount
 actor-model
 actors
 acumatica
@@ -293,6 +294,7 @@ alteryx
 alwaysontop
 alwaysonvpn
 alz
+amateur
 amateur-data-interchange-format
 amateur-radio
 amateurradio
@@ -330,6 +332,7 @@ animate-svg
 animation
 animations
 annotated
+announcement
 announcementsservice
 anonymous
 anova
@@ -411,6 +414,9 @@ appvolumes
 appx
 appxmanifest
 aprs
+aprs-is
+aprsis
+aprsthursday
 aps
 apt
 apt-get
@@ -557,6 +563,7 @@ autologon
 automai
 automanage
 automate
+automated
 automatedlab
 automatenow
 automaticpacketreportingsystem
@@ -654,6 +661,7 @@ azureadgraph
 azureadtoolkit
 azureadvancedthreatprotection
 azureappconfiguration
+azureartifacts
 azureas
 azureatp
 azureautomation
@@ -709,6 +717,7 @@ azurestorage
 azurestorageservices
 azuresync
 azuretable
+azuretestplan
 azurevirtualdesktop
 azurevirtualmachines
 azurevm
@@ -776,6 +785,7 @@ benchpress
 ber
 bestpractice
 bestpractices
+beta
 bginfo
 bi
 bibliography
@@ -833,6 +843,7 @@ blaze
 blinking-text
 blob
 blobstorage
+block
 block-kit
 blockchain
 blocks
@@ -883,6 +894,7 @@ brave
 brawlapi
 brawlstars
 brazencloud
+bre
 breach
 break
 breakpoint
@@ -911,6 +923,7 @@ btdf
 btm
 budget
 bugbounty
+bugzilla
 build
 build-log
 build-scripts
@@ -925,6 +938,7 @@ buildmaster
 builds
 buildtool
 bulk
+bulletin
 bullhorn
 bundle
 bup
@@ -936,6 +950,7 @@ businesscentral
 businessdays
 businesshours
 businessobjects
+businessrulesengine
 businesstime
 bxor
 bydesign
@@ -1315,6 +1330,7 @@ common
 common-data-service
 commonareaphone
 commondataservice
+commonmark
 communication
 community
 compare
@@ -1375,6 +1391,7 @@ confluence
 confluent
 conjecture
 connect
+connect-dtcmsite
 connect-exchangeonprem
 connect-mstsc
 connect-rdp
@@ -1388,10 +1405,10 @@ connectexchange
 connection
 connectionmonitor
 connections
-connectionsmanager
 connectionstring
 connectivity
 connectwise
+conservation
 console
 consoleguitools
 consolemenu
@@ -1433,6 +1450,7 @@ converged_data_management
 conversational
 conversion
 convert
+convert-dtexceptiontomessage
 convert-movietogif
 convert-sid
 convert-windowsimage
@@ -1463,6 +1481,7 @@ core
 coreepower
 coreepower.common
 coreepower.config
+coreepower.lib
 coreepower.module
 coreepower.net
 coreepower.net.soundcloudexplode
@@ -1520,6 +1539,7 @@ creationworkflowsimplification
 creator
 cred
 credential
+credential-dialog
 credential-file
 credential-files
 credential-manager
@@ -1580,7 +1600,6 @@ culture
 cumulative
 cumulativeupdate
 cumulocity
-curious
 curl
 curlie
 currency
@@ -2006,11 +2025,11 @@ domainkey
 domainname
 domainnamesystem
 domains
-domino
 donothing
 dos
 dot
 dotenv
+dotfile
 dotfiles
 dotnet
 dotnet-cli
@@ -2046,9 +2065,12 @@ driftmonitor
 drink
 drive
 drive letter
-drivemap
 driver
+driverpacks
 drivers
+drivertool
+drivertool.powercli
+driverupdates
 drm
 drone.io
 drop
@@ -2087,6 +2109,7 @@ dts
 dtsx
 dtx
 du
+dual-stack
 duck
 duckduckgo
 ducktyping
@@ -2192,6 +2215,7 @@ emailnotificationcomponent
 emailsecurity
 embedded
 emc
+emcomm
 emergency
 emissions
 emoji
@@ -2234,6 +2258,7 @@ enterprisevoice
 entity
 entityframework
 entra
+entra-id
 entraid
 entropy
 enum
@@ -2366,6 +2391,7 @@ exec
 executable
 executables
 execute
+exexml
 exif
 exiftool
 exists
@@ -2629,7 +2655,6 @@ fortinetmanager
 fortios
 fortune
 forum
-forwardcompatibility
 forwardedevents
 foudil
 fox
@@ -2679,6 +2704,7 @@ function_calling
 functionality
 functionalprogramming
 functions
+funds
 funny
 fusion
 fusionapps
@@ -2758,6 +2784,11 @@ get-criticaltrippoint
 get-currentcputemperature
 get-dellwarranty
 get-directorycontents
+get-dtcmdevicemodel
+get-dtdriverpack
+get-dtdriverupdates
+get-dtscriptnewcmpackagefromdriverpackpackagedefinitionsms
+get-dtscriptnewcmtasksequencefromdriverpackpackagedefinitionsms
 get-emptyadgroups
 get-externalip
 get-firmwaretype
@@ -2807,6 +2838,7 @@ gitforwindows
 github
 github-actions
 githubactions
+githubcli
 githubtools
 githubworkflow
 gitignore
@@ -2840,7 +2872,6 @@ google
 google-chrome
 google-histogram
 google-sankey
-google-table
 googleadsv2
 googlecloudplatform
 googledrive
@@ -2866,6 +2897,7 @@ gpo-tools
 gpodoc
 gpolinks
 gpp
+gps
 gpt
 gpt3
 gpx
@@ -2939,6 +2971,8 @@ haloitsm
 halopsa
 haloservicedesk
 haloservicesolutions
+ham
+hamradio
 hamradiodeluxe
 hana
 hanaon
@@ -2981,6 +3015,7 @@ hdinsight
 hdinsightonaks
 hdr
 header
+headhunter
 health
 health_checks
 healthbot
@@ -3142,7 +3177,6 @@ hypervplugins
 hypothesis
 hysolate
 hysolatemangementconsole
-i-doit
 i2c
 ia
 iaas
@@ -3238,6 +3272,7 @@ impersonation
 imperva
 import
 import-csv
+import-dtdriverpackpackagedefinitionsms
 import-modulefrompath
 import-passlist
 import-sampackagedefinitionsms
@@ -3358,6 +3393,9 @@ invoke-asadministrator
 invoke-ascurrentuser
 invoke-automation
 invoke-build
+invoke-dtdownloaddriverpack
+invoke-dtdownloaddriverupdates
+invoke-dtdrivertool
 invoke-msbuild
 invoke-msbuildpreprocess
 invoke-vsbuild
@@ -3479,6 +3517,7 @@ jojoba
 joke
 jotform
 journal
+joyride
 jpg
 jq
 js7
@@ -3526,6 +3565,7 @@ kb
 kbarticle
 kdbx
 kdialog
+keenetic
 keepachangelog
 keepass
 keepasslib
@@ -3989,6 +4029,7 @@ meesman
 meeting
 meetup
 meetup.com
+meewind
 megabyte
 melamed
 meltdown
@@ -4135,6 +4176,7 @@ mof
 moldova
 moment
 monaco
+monday
 mondoo
 money
 moneyforward
@@ -4195,6 +4237,7 @@ msgbox
 msgraph
 msgraphapi
 msgraphreport
+msgraphstuff
 msgraphtokenlifetimepolicy
 msi
 msi psmodule
@@ -4259,6 +4302,7 @@ mvp
 mx
 mxlookup
 mycloudrevolution
+myget
 myhub
 myip
 myitprocess
@@ -4359,6 +4403,8 @@ networkshares
 netwrix
 new
 new-completionresult
+new-dtcmpackagefromdriverpackpackagedefinitionsms
+new-dtcmtasksequencefromdriverpackpackagedefinitionsms
 new-dynamicdictionary
 new-dynamicparameter
 new-githubrelease
@@ -4445,6 +4491,7 @@ npslog
 npslogfile
 nql
 nrc
+nrql
 ns
 ns.nl
 nsg
@@ -4461,6 +4508,7 @@ nuget
 nuget-references
 nuget.exe
 nuget.org
+nugetpackageprovider
 number
 numlock
 nunit
@@ -4596,6 +4644,7 @@ opendata
 openedge
 openfiles
 openhere
+openholidaysapi
 openid
 openidconnect
 openinghours
@@ -4907,6 +4956,7 @@ playlists
 playwright
 pleasant
 pleasantpasswordserver
+plex
 plist
 plog
 plot
@@ -4969,6 +5019,7 @@ posh-ribbon
 posh-ssh
 poshbot
 poshcommence
+poshevents
 poshgraph
 poshgraph-sdk
 poshgrouppolicy
@@ -5062,6 +5113,7 @@ powerdex
 powerforensics
 powergraph
 powergui
+powermax
 powerpack
 powerplan
 powerplateform
@@ -5074,17 +5126,20 @@ powershell
 powershell-class
 powershell-cmdlets
 powershell-core
+powershell-core-releases-api
 powershell-course
 powershell-credentials
 powershell-dsc
 powershell-examples
 powershell-gallery
+powershell-github-repo
 powershell-gitlab
 powershell-graphql
 powershell-isprime
 powershell-lightning
 powershell-module
 powershell-modules
+powershell-releases-api
 powershell-remoting
 powershell-terminal
 powershell-terminal-copilot
@@ -5223,10 +5278,12 @@ protect-blob
 protect-string
 protection
 protocol
+protocols
 provance
 proverb
 provider
 providerhub
+provision
 provisioning
 provisioningpackage
 provisonedpackage
@@ -8135,7 +8192,6 @@ psgraph
 psgraylog
 pshot
 pshtml
-psimport
 psincludes_cmdlet
 psincludes_command
 psincludes_function
@@ -8195,6 +8251,9 @@ pssendgrid
 pssession
 pssharper
 psslack
+pssqlite
+pssqlitebynarymodule
+pssqlitemodule
 pssqlserver
 pssqlserverbynarymodule
 pssqlservermodule
@@ -8220,6 +8279,7 @@ public-transport
 publicapi
 publicclient
 publicfolder
+publicholidays
 publicip
 publish
 publishedmodules
@@ -8271,7 +8331,6 @@ python
 python-for-dotnet
 python3
 qcloud
-qconvergeconsolepowerkit
 qemu
 qlgc_fc_powerkit
 qlik
@@ -8291,6 +8350,7 @@ qq
 qr
 qrcode
 qrcodes
+qrp
 qrs
 quality
 qualys
@@ -8309,6 +8369,7 @@ quickbase
 quickbooks
 quicksetup
 quiz
+qumulo
 quota
 quote
 quoteoftheday
@@ -8383,6 +8444,7 @@ readme
 readpdf
 readthedocs
 realschule
+realtimeprotection
 rebase
 reboot
 rebootnodeifneeded
@@ -8394,6 +8456,7 @@ record
 recording
 recovery
 recoveryservices
+recruiter
 recrutch
 recurse
 recursion
@@ -8475,8 +8538,6 @@ remote-desktop
 remote'
 remoteadmin
 remotecert
-remoteconnection
-remoteconnectionsmanager
 remotecontrol
 remotedesktop
 remotedesktopconnectionmanager
@@ -8663,6 +8724,7 @@ rubriksecuritycloud
 ruby
 rulasg
 rule
+rulesengine
 run
 run-as-user
 runas
@@ -8770,6 +8832,7 @@ schema
 schemaextensions
 scheme
 school-information-system
+schoolholidays
 schulung
 schulverwaltung
 science
@@ -8842,6 +8905,7 @@ secretmanagement
 secretmanagementextension
 secrets
 secretsanta
+secretscanner
 secretserver
 secretsmanager
 secretvault
@@ -8922,6 +8986,7 @@ seppmail
 seppmail.cloud
 seq
 sequence
+serial
 serialization
 serialize
 sericemanagement
@@ -8966,6 +9031,7 @@ sessionize
 sessions
 set
 set_bios
+set-alias
 set-dnsservers
 set-githubsecrets
 set-itemproperty
@@ -8983,6 +9049,7 @@ setting
 settings
 setup
 sevenzip
+sf
 sfb
 sftp
 sfx
@@ -9158,6 +9225,7 @@ snowflake
 snsmssqlpsmodule
 snspsadgroupmembers
 snspsscriptsmonitoring
+snssqlitepsmodule
 sntp
 soap
 soc
@@ -9283,6 +9351,9 @@ sqldiagapi
 sqlexport
 sqlgateway
 sqlite
+sqlitebynarymodule
+sqlitebynarypsmodule
+sqlitemodule
 sqllocaldb
 sqlpackage
 sqlplus
@@ -9486,7 +9557,9 @@ swedish
 swimlane
 swis
 switch
+sxs
 sybase
+sybaseiq
 symantec
 symbolic
 symbolic_link
@@ -9506,6 +9579,7 @@ syntax-highlighting
 syntaxcheck
 syntaxhighlighter
 synthesis
+synthetics
 sysadmin
 sysadmin-tool
 sysadmin-tools
@@ -9610,6 +9684,7 @@ techedna2014
 techlog
 technology
 techsmith
+tel
 telegram
 telegram-bot
 telegram-bot-api
@@ -9639,6 +9714,8 @@ terminalnotifier
 terminalvelocity
 termset
 terraform
+terraform-docs
+terraform-switcher
 terraformcloud
 terrafun
 terragrunt
@@ -9662,6 +9739,7 @@ testimonial
 testing
 testlab
 testplans
+testreport
 tests
 testsuite
 testtag1
@@ -9688,6 +9766,7 @@ tflint
 tfs
 tfscmdlets
 tfsec
+tfswitch
 tftd
 tftp
 tfvars
@@ -9765,6 +9844,7 @@ topdesk
 topgrade
 topics
 topology
+tor
 toradex
 torizon
 torrent
@@ -9831,6 +9911,7 @@ tribeloo
 trick
 tricks
 trigger
+triodos
 tripunkt
 troubleshoot
 troubleshooting
@@ -9919,7 +10000,6 @@ ud-funnel
 ud-hero
 ud-illustration
 ud-input
-ud-licensed
 ud-loadingoverlay
 ud-minesweeper
 ud-mouseparticle
@@ -10109,9 +10189,12 @@ vault
 vaultextension
 vaultstore
 vaultwarden
+vb365
 vba
 vbaproject
 vbproj
+vbr
+vbscript
 vbsinst
 vc
 vccmdlets
@@ -10225,6 +10308,7 @@ vnet
 vnmonitoring
 vnugglets
 vnugglets.com
+vocabularies
 voice
 voiceconfig
 voiceservices
