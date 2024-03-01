@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Friday, 01 March 2024 09:51:52 UTC
+Updated: Friday, 01 March 2024 17:51:53 UTC
 
 .bat
 .env
@@ -154,6 +154,7 @@ add
 add-member
 add-on
 add-on.module
+add-one
 add-path
 add-type
 addin
@@ -230,8 +231,6 @@ afd
 affinity
 affinity-co
 affinity-crm
-after-effects
-aftereffects
 agenda
 agent
 aggregates
@@ -283,6 +282,7 @@ aliases
 aliens
 all
 alletra
+alloydb
 alm
 almrangers
 alpha
@@ -353,7 +353,6 @@ apachekafka
 apexlegends
 apexone
 api
-api-client
 api-gateway
 api-rest
 apichecks
@@ -608,7 +607,6 @@ aws-lambda
 aws-vault
 aws.tools.powershell
 awscli
-awspricelist
 axapta
 axinom
 axis
@@ -630,7 +628,6 @@ aznetworkinterface
 aznicdetails
 azops
 azpublicipaddress
-azresources
 azsdk
 azsk
 azsql
@@ -696,7 +693,6 @@ azurepolicy
 azurepowershell
 azurerepos
 azureresourcemanager
-azureresources
 azurerestapispecs
 azurerm
 azurerms
@@ -763,8 +759,6 @@ bayern
 bb
 bbp
 bc
-bcd
-bcdedit
 bcdr
 bd
 bdd
@@ -874,7 +868,6 @@ bookmarks
 books
 bool
 boolean
-bootloader psmodule
 bootstrap
 bootstrapping
 bop
@@ -942,7 +935,6 @@ bulletin
 bullhorn
 bundle
 bup
-burnttoast
 burpsuite
 bus
 business
@@ -1138,7 +1130,6 @@ cinema
 cinst
 cipher
 circuit-breaker
-circumlunar
 cireson
 ciresonassetmanagement
 ciresonportal
@@ -1279,6 +1270,7 @@ codes
 codesign
 codesigning
 codex
+coercion
 cognitiveservice
 cognitiveservices
 cohesity
@@ -1702,7 +1694,6 @@ dataexplorer
 datafactory
 dataflow
 dataflowdependency
-dataframe
 datagateway
 dataintegration
 datakwaliteit
@@ -2393,7 +2384,6 @@ exec
 executable
 executables
 execute
-exexml
 exif
 exiftool
 exists
@@ -2434,7 +2424,6 @@ extendedattributes
 extendedevents
 extendedproperties
 extendedproperty
-extendscript
 extensibility
 extension
 extensionmethods
@@ -2503,7 +2492,6 @@ fifa
 figlet
 file
 file-association
-file-copy
 file-encoding
 file-extension
 file-extension-association
@@ -2565,7 +2553,6 @@ financeandoperations
 financeoperations
 financial
 financialedge
-financials
 find
 find-call
 find-caller
@@ -2706,7 +2693,6 @@ function_calling
 functionality
 functionalprogramming
 functions
-funds
 funny
 fusion
 fusionapps
@@ -2743,10 +2729,6 @@ gdap
 gdpr
 gedit
 gem
-gemini
-geminiprotocol
-gemlog
-gemtext
 genai
 general
 generate
@@ -2936,7 +2918,6 @@ groupmembership
 grouppolicy
 groups
 grouvee
-growlnotify
 grr
 gsuite
 gtx1080ti
@@ -2966,7 +2947,6 @@ hack
 hacking
 hacktoberfest
 hadoop
-hafr
 hailstone
 haipa
 halo
@@ -2981,6 +2961,7 @@ hana
 hanaon
 handle
 handler
+hangouts
 hannelstoolbox
 hanwha
 har
@@ -3491,7 +3472,6 @@ java
 javamanager
 javascript
 javaversion
-jboss
 jdbc
 jde
 jdedwards
@@ -3567,7 +3547,6 @@ katakana
 kb
 kbarticle
 kdbx
-kdialog
 keenetic
 keepachangelog
 keepass
@@ -3633,6 +3612,7 @@ kurukuru
 kusto
 kvm
 kvp
+kvt
 l1tf
 l2tp
 lab
@@ -3711,7 +3691,6 @@ lf
 lgpo
 lib
 libgit2
-libraries
 library
 libvirt
 licence
@@ -4031,7 +4010,6 @@ meesman
 meeting
 meetup
 meetup.com
-meewind
 megabyte
 melamed
 meltdown
@@ -4307,8 +4285,6 @@ myget
 myhub
 myip
 myitprocess
-myjson
-myjson.com
 myob
 myposh
 mypstag
@@ -4476,10 +4452,8 @@ notes
 notification
 notificationhubs
 notifications
-notifu
 notify
 notify-send
-notify-send-wsl
 nova
 npgsql
 npm
@@ -4645,6 +4619,7 @@ opendata
 openedge
 openfiles
 openhere
+openholidaysapi
 openid
 openidconnect
 openinghours
@@ -4670,7 +4645,6 @@ operationsmanagementsuiteagent
 operationvalidation
 operatoraccesscontrol
 opml
-ops
 opsi
 opsmgr
 optics
@@ -4777,7 +4751,6 @@ pageant
 pager
 pagerduty
 pages
-paloalto
 paloaltonetworks
 pam
 panels
@@ -4961,7 +4934,6 @@ plex
 plist
 plog
 plot
-plug-n-copy
 plugin
 plugins
 pluralsight
@@ -5009,7 +4981,6 @@ ports
 portscan
 porttest
 pos
-posershellise
 posh
 posh-acme
 posh-cats
@@ -5043,7 +5014,6 @@ poshy-ls-isms
 poshy-lucidity
 poshy-multimedia
 poshy-net
-poshy-notify-send
 poshy-sh-isms
 poshy-sshconfig
 poshy-viewer-finder
@@ -5073,6 +5043,7 @@ poshy-wrap-pip
 poshy-wrap-pipenv
 poshy-wrap-pyenv
 poshy-wrap-pylint
+poshy-wrap-python
 poshy-wrap-ruby
 poshy-wrap-systemctl
 poshy-wrap-terraform
@@ -5206,7 +5177,6 @@ prettyprinter
 preview
 previousversions
 price
-pricelist
 primenumber
 primera
 principal
@@ -5303,6 +5273,7 @@ ps
 ps-completions
 ps-ncentral
 ps.credentialmanager
+ps1
 ps12exe
 ps1xml
 ps1xmlgen
@@ -5326,6 +5297,7 @@ psbbix
 psbicep
 psclient
 pscmdlet
+pscommand__python3
 pscommand_--
 pscommand_..
 pscommand_...
@@ -6578,6 +6550,8 @@ pscommand_invoke-zypperversioncompare
 pscommand_invoke-zypperwhatprovides
 pscommand_invokeyumgrouplist
 pscommand_ips
+pscommand_ipy
+pscommand_ipython
 pscommand_jump
 pscommand_k
 pscommand_kaf
@@ -6756,7 +6730,6 @@ pscommand_nmap_ping_through_firewall
 pscommand_nmap_slow
 pscommand_nmap_traceroute
 pscommand_nmap_web_safe_osscan
-pscommand_notify-send-fallback
 pscommand_npm-disable-proxy
 pscommand_npm-enable-proxy
 pscommand_npm-show-proxy
@@ -6825,8 +6798,12 @@ pscommand_pushgr
 pscommand_pvenv
 pscommand_pwh
 pscommand_pwshrc-show-proxy
+pscommand_py
 pscommand_pyenv
 pscommand_pylint-quick
+pscommand_pyserver
+pscommand_python
+pscommand_python3
 pscommand_rb
 pscommand_read-dotenv
 pscommand_register-argcompleteargumentcompleter
@@ -6893,6 +6870,7 @@ pscommand_set-locationup5
 pscommand_sgem
 pscommand_show-gitremote
 pscommand_show-proxy
+pscommand_shttp
 pscommand_shuf
 pscommand_sl
 pscommand_ssh-add-all
@@ -7146,6 +7124,7 @@ psfitbit
 psfive9
 psfive9admin
 psfoldersize
+psfunction__python3
 psfunction_aar
 psfunction_add_ssh
 psfunction_add-envpathitem
@@ -8013,7 +7992,6 @@ psfunction_nmap_ping_through_firewall
 psfunction_nmap_slow
 psfunction_nmap_traceroute
 psfunction_nmap_web_safe_osscan
-psfunction_notify-send-fallback
 psfunction_npm-disable-proxy
 psfunction_npm-enable-proxy
 psfunction_npm-show-proxy
@@ -8039,6 +8017,7 @@ psfunction_publish-gitrepositorytosvn
 psfunction_push-gitstashentry
 psfunction_push-gitstashentrywithmessage
 psfunction_pwshrc-show-proxy
+psfunction_pyserver
 psfunction_read-dotenv
 psfunction_register-argcompleteargumentcompleter
 psfunction_remove-dockercontainerall
@@ -8100,6 +8079,7 @@ psfunction_set-locationup4
 psfunction_set-locationup5
 psfunction_show-gitremote
 psfunction_show-proxy
+psfunction_shttp
 psfunction_shuf
 psfunction_ssh-add-all
 psfunction_ssh-disable-proxy
@@ -8209,7 +8189,6 @@ psmssqlbynarymodule
 psmssqlmodule
 psmvp
 psnavigation
-psnexosisclient
 psngenposh
 psobject
 psoutlog
@@ -8268,6 +8247,7 @@ public-transport
 publicapi
 publicclient
 publicfolder
+publicholidays
 publicip
 publish
 publishedmodules
@@ -8317,8 +8297,8 @@ pylint
 pyranja
 python
 python-for-dotnet
+python3
 qcloud
-qconvergeconsolepowerkit
 qemu
 qlgc_fc_powerkit
 qlik
@@ -8599,7 +8579,6 @@ resourceaccount
 resourcecontroller
 resourcegraph
 resourcegroup
-resourceid
 resourcekit
 resourcemanager
 resourcemover
@@ -8649,7 +8628,6 @@ ricoh
 rightjoin
 rights
 rightsizing
-rightsmanagement
 ring
 ripe
 risk
@@ -8770,9 +8748,6 @@ sandbox
 sanitization
 sanitizer
 sap
-sapazure
-saponazure
-sapstartstopazure
 sarcasm
 sarif
 sas
@@ -8822,6 +8797,7 @@ schema
 schemaextensions
 scheme
 school-information-system
+schoolholidays
 schulung
 schulverwaltung
 science
@@ -9696,7 +9672,6 @@ terminal
 terminal-interface
 terminal-services
 terminal.gui
-terminalnotifier
 terminalvelocity
 termset
 terraform
@@ -9921,7 +9896,6 @@ tsqlbestpractice
 tst
 tst1
 tst3
-tsv
 ttrpg
 tts
 tubedownloader
@@ -10013,6 +9987,7 @@ ud-tagcloud
 ud-timeline
 ud-timeout
 ud-tool
+ud-toploader
 ud-trendline
 ud-typing
 ud-window
@@ -10407,6 +10382,7 @@ webcamera
 webcmdlets
 webdav
 webdeploy
+webfrequest
 webhdfs
 webhelpdesk
 webhistory
@@ -10466,8 +10442,6 @@ wif
 wifi
 wiki
 wildcard
-wildfire
-wildfly
 wim
 wim2vhd
 wimwitch
@@ -10628,12 +10602,10 @@ wrap
 wrap-text
 wrapper
 wrapperfunctions
-wrc
 wrike
 write
 write-ascii
 write-color
-write-colour
 write-debug
 write-host
 write-information
