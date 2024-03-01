@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Friday, 01 March 2024 02:03:39 UTC
+Updated: Friday, 01 March 2024 09:51:52 UTC
 
 .bat
 .env
@@ -14,6 +14,8 @@ Updated: Friday, 01 March 2024 02:03:39 UTC
 'provider'
 "interactive
 {modulenameplaceholder}
+**psedition_desktop**
+**windows**
 🍄
 🍣
 💩
@@ -152,7 +154,6 @@ add
 add-member
 add-on
 add-on.module
-add-one
 add-path
 add-type
 addin
@@ -282,7 +283,6 @@ aliases
 aliens
 all
 alletra
-alloydb
 alm
 almrangers
 alpha
@@ -1279,7 +1279,6 @@ codes
 codesign
 codesigning
 codex
-coercion
 cognitiveservice
 cognitiveservices
 cohesity
@@ -1405,6 +1404,7 @@ connectexchange
 connection
 connectionmonitor
 connections
+connectionsmanager
 connectionstring
 connectivity
 connectwise
@@ -1494,7 +1494,6 @@ cosmos
 cosmosdb
 cost
 cost-management
-costmanagement
 costoptimization
 couchbase
 couchdb
@@ -1600,6 +1599,7 @@ culture
 cumulative
 cumulativeupdate
 cumulocity
+curious
 curl
 curlie
 currency
@@ -2025,6 +2025,7 @@ domainkey
 domainname
 domainnamesystem
 domains
+domino
 donothing
 dos
 dot
@@ -2065,6 +2066,7 @@ driftmonitor
 drink
 drive
 drive letter
+drivemap
 driver
 driverpacks
 drivers
@@ -2576,7 +2578,6 @@ findplace
 findproxyforurl
 fine-print
 fine-tuning
-finops
 firebird
 firefox
 firewall
@@ -2655,6 +2656,7 @@ fortinetmanager
 fortios
 fortune
 forum
+forwardcompatibility
 forwardedevents
 foudil
 fox
@@ -2872,6 +2874,7 @@ google
 google-chrome
 google-histogram
 google-sankey
+google-table
 googleadsv2
 googlecloudplatform
 googledrive
@@ -2978,7 +2981,6 @@ hana
 hanaon
 handle
 handler
-hangouts
 hannelstoolbox
 hanwha
 har
@@ -3177,6 +3179,7 @@ hypervplugins
 hypothesis
 hysolate
 hysolatemangementconsole
+i-doit
 i2c
 ia
 iaas
@@ -3630,7 +3633,6 @@ kurukuru
 kusto
 kvm
 kvp
-kvt
 l1tf
 l2tp
 lab
@@ -4098,7 +4100,6 @@ microsoft365
 microsoft365dsc
 microsoftauthenticationlibrary
 microsoftazure
-microsoftcloud
 microsoftdefender
 microsoftdefenderatp
 microsoftdefenderforidentity
@@ -4644,7 +4645,6 @@ opendata
 openedge
 openfiles
 openhere
-openholidaysapi
 openid
 openidconnect
 openinghours
@@ -4777,6 +4777,7 @@ pageant
 pager
 pagerduty
 pages
+paloalto
 paloaltonetworks
 pam
 panels
@@ -5072,7 +5073,6 @@ poshy-wrap-pip
 poshy-wrap-pipenv
 poshy-wrap-pyenv
 poshy-wrap-pylint
-poshy-wrap-python
 poshy-wrap-ruby
 poshy-wrap-systemctl
 poshy-wrap-terraform
@@ -5303,7 +5303,6 @@ ps
 ps-completions
 ps-ncentral
 ps.credentialmanager
-ps1
 ps12exe
 ps1xml
 ps1xmlgen
@@ -5327,7 +5326,6 @@ psbbix
 psbicep
 psclient
 pscmdlet
-pscommand__python3
 pscommand_--
 pscommand_..
 pscommand_...
@@ -6580,8 +6578,6 @@ pscommand_invoke-zypperversioncompare
 pscommand_invoke-zypperwhatprovides
 pscommand_invokeyumgrouplist
 pscommand_ips
-pscommand_ipy
-pscommand_ipython
 pscommand_jump
 pscommand_k
 pscommand_kaf
@@ -6829,12 +6825,8 @@ pscommand_pushgr
 pscommand_pvenv
 pscommand_pwh
 pscommand_pwshrc-show-proxy
-pscommand_py
 pscommand_pyenv
 pscommand_pylint-quick
-pscommand_pyserver
-pscommand_python
-pscommand_python3
 pscommand_rb
 pscommand_read-dotenv
 pscommand_register-argcompleteargumentcompleter
@@ -6901,7 +6893,6 @@ pscommand_set-locationup5
 pscommand_sgem
 pscommand_show-gitremote
 pscommand_show-proxy
-pscommand_shttp
 pscommand_shuf
 pscommand_sl
 pscommand_ssh-add-all
@@ -7155,7 +7146,6 @@ psfitbit
 psfive9
 psfive9admin
 psfoldersize
-psfunction__python3
 psfunction_aar
 psfunction_add_ssh
 psfunction_add-envpathitem
@@ -8049,7 +8039,6 @@ psfunction_publish-gitrepositorytosvn
 psfunction_push-gitstashentry
 psfunction_push-gitstashentrywithmessage
 psfunction_pwshrc-show-proxy
-psfunction_pyserver
 psfunction_read-dotenv
 psfunction_register-argcompleteargumentcompleter
 psfunction_remove-dockercontainerall
@@ -8111,7 +8100,6 @@ psfunction_set-locationup4
 psfunction_set-locationup5
 psfunction_show-gitremote
 psfunction_show-proxy
-psfunction_shttp
 psfunction_shuf
 psfunction_ssh-add-all
 psfunction_ssh-disable-proxy
@@ -8192,6 +8180,7 @@ psgraph
 psgraylog
 pshot
 pshtml
+psimport
 psincludes_cmdlet
 psincludes_command
 psincludes_function
@@ -8279,7 +8268,6 @@ public-transport
 publicapi
 publicclient
 publicfolder
-publicholidays
 publicip
 publish
 publishedmodules
@@ -8329,8 +8317,8 @@ pylint
 pyranja
 python
 python-for-dotnet
-python3
 qcloud
+qconvergeconsolepowerkit
 qemu
 qlgc_fc_powerkit
 qlik
@@ -8538,6 +8526,8 @@ remote-desktop
 remote'
 remoteadmin
 remotecert
+remoteconnection
+remoteconnectionsmanager
 remotecontrol
 remotedesktop
 remotedesktopconnectionmanager
@@ -8832,7 +8822,6 @@ schema
 schemaextensions
 scheme
 school-information-system
-schoolholidays
 schulung
 schulverwaltung
 science
@@ -8861,8 +8850,6 @@ screensaver
 screenshot
 script
 script_version
-script-to-assembly
-script-to-executable
 scriptanalyzer
 scriptblock
 scriptblocklogging
@@ -8873,7 +8860,6 @@ scriptcs
 scriptedui
 scripting
 scriptlogging
-scriptoform
 scriptrunner
 scripts
 scriptsmonitoring
@@ -10000,6 +9986,7 @@ ud-funnel
 ud-hero
 ud-illustration
 ud-input
+ud-licensed
 ud-loadingoverlay
 ud-minesweeper
 ud-mouseparticle
@@ -10026,7 +10013,6 @@ ud-tagcloud
 ud-timeline
 ud-timeout
 ud-tool
-ud-toploader
 ud-trendline
 ud-typing
 ud-window
@@ -10421,7 +10407,6 @@ webcamera
 webcmdlets
 webdav
 webdeploy
-webfrequest
 webhdfs
 webhelpdesk
 webhistory
@@ -10481,6 +10466,7 @@ wif
 wifi
 wiki
 wildcard
+wildfire
 wildfly
 wim
 wim2vhd
@@ -10558,6 +10544,7 @@ windowsserver2019
 windowsservercoresecurity
 windowsserverguisecurity
 windowsservice
+windowsservices
 windowsstore
 windowsterminal
 windowstimezone
