@@ -3,6 +3,86 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [ADPFunctions](https://www.powershellgallery.com/Packages/ADPFunctions/2403.1) | 2403.1
+
+### Published: 03/02/2024 01:13:39 by Chris Darais
+
+ADP Functions
+
+__Downloads__: 177 | __Repository__: 
+
+## [PowerShell.DynamicBatch](https://www.powershellgallery.com/Packages/PowerShell.DynamicBatch/1.60) | 1.60
+
+### Published: 03/02/2024 00:06:48 by HT
+
+Dynamically loads batch job configurations and executes the job.
+
+__Downloads__: 342 | __Repository__: 
+
+## [tom42tools](https://www.powershellgallery.com/Packages/tom42tools/2024.3.1) | 2024.3.1
+
+### Published: 03/01/2024 23:54:21 by tom42
+
+tom42 tools
+
+__Downloads__: 449 | __Repository__: 
+
+## [SPSAeries](https://www.powershellgallery.com/Packages/SPSAeries/0.2.1) | 0.2.1
+
+### Published: 03/01/2024 23:46:46 by Jesse Geron
+
+Supplements official Aeries PS module, providing additional functionality for interacting with the Aeries SIS API.
+
+__Downloads__: 0 | __Repository__: 
+
+## [SimplySql](https://www.powershellgallery.com/Packages/SimplySql/2.0.1.69) | 2.0.1.69
+
+### Published: 03/01/2024 21:04:56 by Mithrandyr
+
+Querying SQL (SQL Server, Oracle, PostgreSql, SQLite, & mySql) the PowerShell way: simple commands... powerful opportunities.
+
+SimplySql is a module that provides an intuitive set of cmdlets for talking to databases that abstracts the vendor specifics, allowing you to focus on getting work done.  The basic pattern is to connect to a database, execute one or more sql statements and then close your database connection.  This module provides cmdlets that map to this basic pattern.  Each provider has its own Open-*Connection cmdlet -> Open-SqlConnection, Open-SQLiteConnection, Open-OracleConnection, Open-PostGreConnection, Open-MySqlConnection.  The rest of the commands are provider agnostic.
+
+Open/Close/Show/Test/Set/Get -SqlConnection >> Control as many active connections as you want.
+Invoke- SqlScalar/SqlQuery/SqlUpdate >> Interact with those connections.
+Get/Clear -SqlMessage >> Get Informational messages, if provider supports it.
+Invoke-SqlBulkCopy >> Bulk Dataload from one connection to another.
+Start/Complete/Undo -SqlTransaction >> Utilize transactions!
+
+__Downloads__: 1,083,090 | __Repository__: https://github.com/mithrandyr/SimplySql
+
+## [RiverMeadow.Migrate](https://www.powershellgallery.com/Packages/RiverMeadow.Migrate/1.0.119.490) | 1.0.119.490
+
+### Published: 03/01/2024 19:06:14 by RiverMeadow Engineering Team
+
+Provides cmdlets for starting migration of applications to supported clouds using the RiverMeadow platform.
+
+__Downloads__: 182 | __Repository__: https://migrate.rivermeadow.com/
+
+## [GDAPRelationships](https://www.powershellgallery.com/Packages/GDAPRelationships/1.0.1) | 1.0.1
+
+### Published: 03/01/2024 19:04:32 by Joshua Gause
+
+Manages the lifecycle of GDAP Relationships and provides a framework to implement with custom groups and roles.
+
+__Downloads__: 21 | __Repository__: https://bitbucket.org/BEMA-Primary/gdaprelationships
+
+## [Picky](https://www.powershellgallery.com/Packages/Picky/0.0.18) | 0.0.18
+
+### Published: 03/01/2024 18:54:27 by Jake Bolton <jake.bolton.314@gmail.com>
+
+To choose is to be picky
+
+__Downloads__: 25 | __Repository__: 
+
+## [Skaldhor.HelperFunctions](https://www.powershellgallery.com/Packages/Skaldhor.HelperFunctions/0.0.6) | 0.0.6
+
+### Published: 03/01/2024 18:20:20 by Florian Kolb
+
+PowerShell module with custom helper functions.
+
+__Downloads__: 85 | __Repository__: https://github.com/Skaldhor/Skaldhor.HelperFunctions
+
 ## [PSTcpIp](https://www.powershellgallery.com/Packages/PSTcpIp/4.28.1) | 4.28.1
 
 ### Published: 03/01/2024 17:37:22 by Anthony Guimelli
@@ -18,14 +98,6 @@ __Downloads__: 3,427 | __Repository__: https://github.com/anthonyg-1/PSTcpIp
 InfoBlox BloxOne PowerShell Module
 
 __Downloads__: 101 | __Repository__: https://github.com/TehMuffinMoo/ibPS
-
-## [SPSAeries](https://www.powershellgallery.com/Packages/SPSAeries/0.2.0) | 0.2.0
-
-### Published: 03/01/2024 16:16:05 by Jesse Geron
-
-This module is meant to supplement the official PoshAeries module by providing additional functionality for interacting with the Aeries SIS API.
-
-__Downloads__: 0 | __Repository__: 
 
 ## [PSAirTable](https://www.powershellgallery.com/Packages/PSAirTable/1.0.30) | 1.0.30
 
@@ -161,14 +233,6 @@ This module will migrate a Basic SKU load balancer connected to a Virtual Machin
 
 __Downloads__: 2,230 | __Repository__: https://github.com/Azure/AzLoadBalancerMigration
 
-## [Picky](https://www.powershellgallery.com/Packages/Picky/0.0.16) | 0.0.16
-
-### Published: 02/29/2024 23:26:38 by Jake Bolton <jake.bolton.314@gmail.com>
-
-To choose is to be picky
-
-__Downloads__: 25 | __Repository__: 
-
 ## [ProGetAutomation](https://www.powershellgallery.com/Packages/ProGetAutomation/3.0.0) | 3.0.0
 
 ### Published: 02/29/2024 23:11:43 by WebMD Health Services
@@ -211,7 +275,7 @@ __Downloads__: 11 | __Repository__:
 
 Helper module for Active Directory with lots of useful functions that simplify supporting Active Directory.
 
-__Downloads__: 194,857 | __Repository__: https://github.com/EvotecIT/ADEssentials
+__Downloads__: 194,853 | __Repository__: https://github.com/EvotecIT/ADEssentials
 
 ## [PSSharedGoods](https://www.powershellgallery.com/Packages/PSSharedGoods/0.0.278) | 0.0.278
 
@@ -219,7 +283,7 @@ __Downloads__: 194,857 | __Repository__: https://github.com/EvotecIT/ADEssential
 
 Module covering functions that are shared within multiple projects
 
-__Downloads__: 303,382 | __Repository__: https://github.com/EvotecIT/PSSharedGoods
+__Downloads__: 303,389 | __Repository__: https://github.com/EvotecIT/PSSharedGoods
 
 ## [BitTitanManagement](https://www.powershellgallery.com/Packages/BitTitanManagement/0.0.141) | 0.0.141
 
@@ -284,7 +348,7 @@ Module contains functions that allows you to check for PowerShell code/script/mo
     - Get-CorrespondingGraphCommand - translates given AzureAD or MSOnline command to Graph command
     - Get-ModuleCommandUsedInCode - searches for commands (defined in specific module) in given script file
 
-__Downloads__: 1,171 | __Repository__: https://github.com/ztrhgf/useful_powershell_modules
+__Downloads__: 1,170 | __Repository__: https://github.com/ztrhgf/useful_powershell_modules
 
 ## [MSGraphStuff](https://www.powershellgallery.com/Packages/MSGraphStuff/1.0.7) | 1.0.7
 
@@ -300,7 +364,7 @@ Some of the functions:
 - New-GraphAPIAuthHeader - Function for generating header that can be used for authentication of Graph API requests
 - ...
 
-__Downloads__: 13,463 | __Repository__: https://github.com/ztrhgf/useful_powershell_modules
+__Downloads__: 13,465 | __Repository__: https://github.com/ztrhgf/useful_powershell_modules
 
 ## [CosmosLite](https://www.powershellgallery.com/Packages/CosmosLite/3.0.5) | 3.0.5
 
@@ -308,7 +372,7 @@ __Downloads__: 13,463 | __Repository__: https://github.com/ztrhgf/useful_powersh
 
 Provides commands that allow easy manipulation with data in Cosmos DB
 
-__Downloads__: 9,822 | __Repository__: https://github.com/greycorbel/CosmosLite
+__Downloads__: 9,824 | __Repository__: https://github.com/greycorbel/CosmosLite
 
 ## [SqlChangeAutomation](https://www.powershellgallery.com/Packages/SqlChangeAutomation/4.6.24057.3186) | 4.6.24057.3186
 
@@ -316,7 +380,7 @@ __Downloads__: 9,822 | __Repository__: https://github.com/greycorbel/CosmosLite
 
 Automation tools for production quality database deployment
 
-__Downloads__: 5,160,771 | __Repository__: https://www.red-gate.com/sca/productpage
+__Downloads__: 5,160,727 | __Repository__: https://www.red-gate.com/sca/productpage
 
 ## [M365DSCTools](https://www.powershellgallery.com/Packages/M365DSCTools/0.2.2) | 0.2.2
 
@@ -348,7 +412,7 @@ __Downloads__: 253 | __Repository__: https://github.com/iRon7/ObjectGraphTools
 
 This module contains the cmdlets to manage and prepare Azure Tenants in a CAF conform way.
 
-__Downloads__: 132 | __Repository__: https://devdeer.com/
+__Downloads__: 131 | __Repository__: https://devdeer.com/
 
 ## [shiftavenue.GraphAutomation](https://www.powershellgallery.com/Packages/shiftavenue.GraphAutomation/1.0.4) | 1.0.4
 
@@ -414,7 +478,7 @@ ugit: Updated Git.  Git gets better with PowerShell and the Object Pipeline.
 
 ugit is a powerful PowerShell wrapper for git that lets you extend git, automate multiple repos, and use the object pipeline.
 
-__Downloads__: 11,976 | __Repository__: https://github.com/StartAutomating/ugit
+__Downloads__: 11,982 | __Repository__: https://github.com/StartAutomating/ugit
 
 ## [ImmersionTracker](https://www.powershellgallery.com/Packages/ImmersionTracker/0.14) | 0.14
 
@@ -463,22 +527,6 @@ __Downloads__: 58 | __Repository__: https://github.com/githeros/realax-powershel
 realax Powershell Administration
 
 __Downloads__: 148 | __Repository__: https://github.com/githeros/realax-powershell
-
-## [RiverMeadow.Migrate](https://www.powershellgallery.com/Packages/RiverMeadow.Migrate/1.0.119.484) | 1.0.119.484
-
-### Published: 02/28/2024 16:37:30 by RiverMeadow Engineering Team
-
-Provides cmdlets for starting migration of applications to supported clouds using the RiverMeadow platform.
-
-__Downloads__: 182 | __Repository__: https://migrate.rivermeadow.com/
-
-## [PowerShell.DynamicBatch](https://www.powershellgallery.com/Packages/PowerShell.DynamicBatch/1.59) | 1.59
-
-### Published: 02/28/2024 16:07:10 by HT
-
-Dynamically loads batch job configurations and executes the job.
-
-__Downloads__: 342 | __Repository__: 
 
 ## [WoW](https://www.powershellgallery.com/Packages/WoW/0.0.2) | 0.0.2
 
@@ -783,7 +831,7 @@ __Downloads__: 2,212 | __Repository__: https://github.com/abgox/PSCompletions
 
 CMDlets to manage SCEPman (https://scepman.com/) installations
 
-__Downloads__: 6,816 | __Repository__: https://scepman.com/
+__Downloads__: 6,818 | __Repository__: https://scepman.com/
 
 ## [TisaneLampClient](https://www.powershellgallery.com/Packages/TisaneLampClient/7.0.21) | 7.0.21
 
@@ -847,7 +895,7 @@ __Downloads__: 4 | __Repository__: https://github.com/Celerium/PokeAPI-PowerShel
 
 A PowerShell module to generate an as built report on the configuration of VMware vSphere.
 
-__Downloads__: 18,119 | __Repository__: https://github.com/AsBuiltReport/AsBuiltReport.VMware.vSphere
+__Downloads__: 18,121 | __Repository__: https://github.com/AsBuiltReport/AsBuiltReport.VMware.vSphere
 
 ## [JumpCloud.SDK.V2](https://www.powershellgallery.com/Packages/JumpCloud.SDK.V2/0.0.43) | 0.0.43
 
@@ -855,7 +903,7 @@ __Downloads__: 18,119 | __Repository__: https://github.com/AsBuiltReport/AsBuilt
 
 The JumpCloud V2 PowerShell SDK
 
-__Downloads__: 878,350 | __Repository__: https://github.com/TheJumpCloud/jcapi-powershell/tree/master/SDKs/PowerShell/JumpCloud.SDK.V2/
+__Downloads__: 878,342 | __Repository__: https://github.com/TheJumpCloud/jcapi-powershell/tree/master/SDKs/PowerShell/JumpCloud.SDK.V2/
 
 ## [JumpCloud.SDK.V1](https://www.powershellgallery.com/Packages/JumpCloud.SDK.V1/0.0.39) | 0.0.39
 
@@ -863,7 +911,7 @@ __Downloads__: 878,350 | __Repository__: https://github.com/TheJumpCloud/jcapi-p
 
 The JumpCloud V1 PowerShell SDK
 
-__Downloads__: 880,219 | __Repository__: https://github.com/TheJumpCloud/jcapi-powershell/tree/master/SDKs/PowerShell/JumpCloud.SDK.V1/
+__Downloads__: 880,211 | __Repository__: https://github.com/TheJumpCloud/jcapi-powershell/tree/master/SDKs/PowerShell/JumpCloud.SDK.V1/
 
 ## [JumpCloud.SDK.DirectoryInsights](https://www.powershellgallery.com/Packages/JumpCloud.SDK.DirectoryInsights/0.0.27) | 0.0.27
 
@@ -871,7 +919,7 @@ __Downloads__: 880,219 | __Repository__: https://github.com/TheJumpCloud/jcapi-p
 
 The JumpCloud DirectoryInsights PowerShell SDK
 
-__Downloads__: 907,599 | __Repository__: https://github.com/TheJumpCloud/jcapi-powershell/tree/master/SDKs/PowerShell/JumpCloud.SDK.DirectoryInsights/
+__Downloads__: 907,591 | __Repository__: https://github.com/TheJumpCloud/jcapi-powershell/tree/master/SDKs/PowerShell/JumpCloud.SDK.DirectoryInsights/
 
 ## [Proxy.Dotnet](https://www.powershellgallery.com/Packages/Proxy.Dotnet/0.0.4) | 0.0.4
 
@@ -887,7 +935,7 @@ __Downloads__: 12 | __Repository__: https://dev.azure.com/michielvoo/public/_git
 
 Invoke a native command using a PowerShell cmdlet
 
-__Downloads__: 181 | __Repository__: https://dev.azure.com/michielvoo/public/_git/Proxy?path=/Proxy
+__Downloads__: 185 | __Repository__: https://dev.azure.com/michielvoo/public/_git/Proxy?path=/Proxy
 
 ## [KpPwpush](https://www.powershellgallery.com/Packages/KpPwpush/1.1.0) | 1.1.0
 
@@ -2046,44 +2094,4 @@ This modules provides Cmdlets for OCI Adm Service
 
 __Downloads__: 3,056 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-## [OCI.PSModules.Accessgovernancecp](https://www.powershellgallery.com/Packages/OCI.PSModules.Accessgovernancecp/77.0.0) | 77.0.0
-
-### Published: 02/27/2024 16:10:57 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Accessgovernancecp Service
-
-__Downloads__: 1,806 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Common](https://www.powershellgallery.com/Packages/OCI.PSModules.Common/77.0.0) | 77.0.0
-
-### Published: 02/27/2024 16:08:12 by Oracle Cloud Infrastructure
-
-OCI Common module exports Cmdlets that manages features offered by OCI Modules for Powershell like History Store, OCI Configuration file setup and Per-Session Region/Config/Profile preferences. Common module also contains some functionalties that are common to all OCI Service modules, therefore all OCI Service modules depends on Common module.
-
-__Downloads__: 108,163 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [Cisco.UCSCentral](https://www.powershellgallery.com/Packages/Cisco.UCSCentral/3.0.4.8) | 3.0.4.8
-
-### Published: 02/27/2024 14:49:11 by Cisco Systems
-
-PowerShell Module for Cisco UcsCentral (UcsCentral module in Cisco PowerTool Suite)
-
-__Downloads__: 10,977 | __Repository__: 
-
-## [Cisco.IMC](https://www.powershellgallery.com/Packages/Cisco.IMC/3.0.4.8) | 3.0.4.8
-
-### Published: 02/27/2024 14:46:33 by Cisco Systems
-
-PowerShell Module for Cisco IMC (IMC module in Cisco PowerTool Suite)
-
-__Downloads__: 18,420 | __Repository__: 
-
-## [Cisco.UCSManager](https://www.powershellgallery.com/Packages/Cisco.UCSManager/3.0.4.8) | 3.0.4.8
-
-### Published: 02/27/2024 14:42:37 by Cisco Systems
-
-PowerShell Module for Cisco UCS Manager (UCS Manager module in Cisco PowerTool Suite)
-
-__Downloads__: 41,175 | __Repository__: 
-
-*Updated: Friday, 01 March 2024 17:51:46 UTC*
+*Updated: Saturday, 02 March 2024 01:59:30 UTC*

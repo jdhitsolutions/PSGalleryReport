@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Friday, 01 March 2024 17:51:53 UTC
+Updated: Saturday, 02 March 2024 01:59:37 UTC
 
 .bat
 .env
@@ -106,7 +106,6 @@ act!
 actifio
 actifiogo
 action
-action1
 actiongroup
 actionplan
 actions
@@ -231,6 +230,8 @@ afd
 affinity
 affinity-co
 affinity-crm
+after-effects
+aftereffects
 agenda
 agent
 aggregates
@@ -353,6 +354,7 @@ apachekafka
 apexlegends
 apexone
 api
+api-client
 api-gateway
 api-rest
 apichecks
@@ -607,6 +609,7 @@ aws-lambda
 aws-vault
 aws.tools.powershell
 awscli
+awspricelist
 axapta
 axinom
 axis
@@ -628,6 +631,7 @@ aznetworkinterface
 aznicdetails
 azops
 azpublicipaddress
+azresources
 azsdk
 azsk
 azsql
@@ -693,6 +697,7 @@ azurepolicy
 azurepowershell
 azurerepos
 azureresourcemanager
+azureresources
 azurerestapispecs
 azurerm
 azurerms
@@ -935,6 +940,7 @@ bulletin
 bullhorn
 bundle
 bup
+burnttoast
 burpsuite
 bus
 business
@@ -1130,6 +1136,7 @@ cinema
 cinst
 cipher
 circuit-breaker
+circumlunar
 cireson
 ciresonassetmanagement
 ciresonportal
@@ -1270,7 +1277,6 @@ codes
 codesign
 codesigning
 codex
-coercion
 cognitiveservice
 cognitiveservices
 cohesity
@@ -1486,6 +1492,7 @@ cosmos
 cosmosdb
 cost
 cost-management
+costmanagement
 costoptimization
 couchbase
 couchdb
@@ -1628,8 +1635,6 @@ cvss
 cwi
 cx
 cyberark
-cyberark-api
-cyberark-identity
 cyberdrain
 cybereason
 cybersamurai
@@ -1694,6 +1699,7 @@ dataexplorer
 datafactory
 dataflow
 dataflowdependency
+dataframe
 datagateway
 dataintegration
 datakwaliteit
@@ -2424,6 +2430,7 @@ extendedattributes
 extendedevents
 extendedproperties
 extendedproperty
+extendscript
 extensibility
 extension
 extensionmethods
@@ -2492,6 +2499,7 @@ fifa
 figlet
 file
 file-association
+file-copy
 file-encoding
 file-extension
 file-extension-association
@@ -2553,6 +2561,7 @@ financeandoperations
 financeoperations
 financial
 financialedge
+financials
 find
 find-call
 find-caller
@@ -2565,6 +2574,7 @@ findplace
 findproxyforurl
 fine-print
 fine-tuning
+finops
 firebird
 firefox
 firewall
@@ -2693,6 +2703,7 @@ function_calling
 functionality
 functionalprogramming
 functions
+funds
 funny
 fusion
 fusionapps
@@ -2729,6 +2740,10 @@ gdap
 gdpr
 gedit
 gem
+gemini
+geminiprotocol
+gemlog
+gemtext
 genai
 general
 generate
@@ -2918,6 +2933,7 @@ groupmembership
 grouppolicy
 groups
 grouvee
+growlnotify
 grr
 gsuite
 gtx1080ti
@@ -2947,6 +2963,7 @@ hack
 hacking
 hacktoberfest
 hadoop
+hafr
 hailstone
 haipa
 halo
@@ -2971,7 +2988,6 @@ harden
 harden-windows-security
 hardening
 hardlink
-hardmatch
 hardware
 harperdb
 hartokens
@@ -3472,6 +3488,7 @@ java
 javamanager
 javascript
 javaversion
+jboss
 jdbc
 jde
 jdedwards
@@ -3547,6 +3564,7 @@ katakana
 kb
 kbarticle
 kdbx
+kdialog
 keenetic
 keepachangelog
 keepass
@@ -3691,6 +3709,7 @@ lf
 lgpo
 lib
 libgit2
+libraries
 library
 libvirt
 licence
@@ -3956,7 +3975,6 @@ mask
 mass
 masstransit
 masterconfiguration
-match
 matcharray
 matchhashtable
 materialdesign
@@ -4010,6 +4028,7 @@ meesman
 meeting
 meetup
 meetup.com
+meewind
 megabyte
 melamed
 meltdown
@@ -4078,6 +4097,7 @@ microsoft365
 microsoft365dsc
 microsoftauthenticationlibrary
 microsoftazure
+microsoftcloud
 microsoftdefender
 microsoftdefenderatp
 microsoftdefenderforidentity
@@ -4131,7 +4151,6 @@ mkpasswd
 ml
 ml.net
 mlflow
-mmdc
 mobile
 mobilenetwork
 mobilitycontroller
@@ -4285,6 +4304,8 @@ myget
 myhub
 myip
 myitprocess
+myjson
+myjson.com
 myob
 myposh
 mypstag
@@ -4452,8 +4473,10 @@ notes
 notification
 notificationhubs
 notifications
+notifu
 notify
 notify-send
+notify-send-wsl
 nova
 npgsql
 npm
@@ -4645,6 +4668,7 @@ operationsmanagementsuiteagent
 operationvalidation
 operatoraccesscontrol
 opml
+ops
 opsi
 opsmgr
 optics
@@ -4751,6 +4775,7 @@ pageant
 pager
 pagerduty
 pages
+paloalto
 paloaltonetworks
 pam
 panels
@@ -4934,6 +4959,7 @@ plex
 plist
 plog
 plot
+plug-n-copy
 plugin
 plugins
 pluralsight
@@ -4981,6 +5007,7 @@ ports
 portscan
 porttest
 pos
+posershellise
 posh
 posh-acme
 posh-cats
@@ -5014,6 +5041,7 @@ poshy-ls-isms
 poshy-lucidity
 poshy-multimedia
 poshy-net
+poshy-notify-send
 poshy-sh-isms
 poshy-sshconfig
 poshy-viewer-finder
@@ -5177,6 +5205,7 @@ prettyprinter
 preview
 previousversions
 price
+pricelist
 primenumber
 primera
 principal
@@ -6730,6 +6759,7 @@ pscommand_nmap_ping_through_firewall
 pscommand_nmap_slow
 pscommand_nmap_traceroute
 pscommand_nmap_web_safe_osscan
+pscommand_notify-send-fallback
 pscommand_npm-disable-proxy
 pscommand_npm-enable-proxy
 pscommand_npm-show-proxy
@@ -7992,6 +8022,7 @@ psfunction_nmap_ping_through_firewall
 psfunction_nmap_slow
 psfunction_nmap_traceroute
 psfunction_nmap_web_safe_osscan
+psfunction_notify-send-fallback
 psfunction_npm-disable-proxy
 psfunction_npm-enable-proxy
 psfunction_npm-show-proxy
@@ -8189,6 +8220,7 @@ psmssqlbynarymodule
 psmssqlmodule
 psmvp
 psnavigation
+psnexosisclient
 psngenposh
 psobject
 psoutlog
@@ -8579,6 +8611,7 @@ resourceaccount
 resourcecontroller
 resourcegraph
 resourcegroup
+resourceid
 resourcekit
 resourcemanager
 resourcemover
@@ -8628,6 +8661,7 @@ ricoh
 rightjoin
 rights
 rightsizing
+rightsmanagement
 ring
 ripe
 risk
@@ -8748,6 +8782,9 @@ sandbox
 sanitization
 sanitizer
 sap
+sapazure
+saponazure
+sapstartstopazure
 sarcasm
 sarif
 sas
@@ -8826,6 +8863,8 @@ screensaver
 screenshot
 script
 script_version
+script-to-assembly
+script-to-executable
 scriptanalyzer
 scriptblock
 scriptblocklogging
@@ -8836,6 +8875,7 @@ scriptcs
 scriptedui
 scripting
 scriptlogging
+scriptoform
 scriptrunner
 scripts
 scriptsmonitoring
@@ -9163,9 +9203,6 @@ smorgasbord
 sms
 smtp
 smtpaddressupdate psmodule
-smtpauth
-smtpoauth
-smtpsasl
 smtpsecure
 snap
 snapchat
@@ -9483,7 +9520,6 @@ subset
 subsystem
 subtitle
 success
-successfactors
 sudo
 sugar
 sugarcrm
@@ -9672,6 +9708,7 @@ terminal
 terminal-interface
 terminal-services
 terminal.gui
+terminalnotifier
 terminalvelocity
 termset
 terraform
@@ -9896,6 +9933,7 @@ tsqlbestpractice
 tst
 tst1
 tst3
+tsv
 ttrpg
 tts
 tubedownloader
@@ -9907,7 +9945,6 @@ tutorial
 tv
 tweet
 twig
-twilio
 twincat
 twinkly
 twitch
@@ -9956,7 +9993,6 @@ ud-dashboard
 ud-datepicker
 ud-field
 ud-flexytable
-ud-funnel
 ud-hero
 ud-illustration
 ud-input
@@ -10155,7 +10191,6 @@ vba
 vbaproject
 vbproj
 vbr
-vbscript
 vbsinst
 vc
 vccmdlets
@@ -10436,12 +10471,13 @@ whormi
 wi-fi
 wia
 wia.imagefile
-wid
 widedata
 wif
 wifi
 wiki
 wildcard
+wildfire
+wildfly
 wim
 wim2vhd
 wimwitch
@@ -10498,7 +10534,6 @@ windowsform
 windowsforms
 windowsindex
 windowsinstaller
-windowsinternaldatabase
 windowsinternals
 windowsiotservices
 windowsiso
@@ -10602,10 +10637,12 @@ wrap
 wrap-text
 wrapper
 wrapperfunctions
+wrc
 wrike
 write
 write-ascii
 write-color
+write-colour
 write-debug
 write-host
 write-information
