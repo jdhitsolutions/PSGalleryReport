@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Saturday, 02 March 2024 09:51:45 UTC
+Updated: Saturday, 02 March 2024 17:51:39 UTC
 
 .bat
 .env
@@ -371,6 +371,7 @@ apmconfig
 apmcontrolplane
 apmsynthetics
 apmtraces
+aportal
 app
 app-control-for-business
 app-only
@@ -421,6 +422,7 @@ aprsthursday
 aps
 apt
 apt-get
+apt-get-update
 apteco
 aptitude
 aql
@@ -584,7 +586,6 @@ autoyast
 auvik
 availability
 availabilityset
-avalara
 avalonia
 avatar
 avd
@@ -893,7 +894,6 @@ branch-rename
 brave
 brawlapi
 brawlstars
-brazencloud
 bre
 breach
 break
@@ -980,7 +980,6 @@ camtasia
 canarie
 cancel
 cancellation
-canonical
 cantara
 capability
 capacity
@@ -997,6 +996,7 @@ carbonintensity
 card
 cardwirth
 cargo
+carousel
 carrier
 cartoon
 case
@@ -1818,7 +1818,6 @@ demultiplex
 demultiplexing
 dependencies
 dependency
-dependencysearch
 deploy
 deployment
 deploymentconfig
@@ -2298,7 +2297,6 @@ errorview
 eryph
 esae
 escape
-escapecodes
 escapesequences
 escaping
 ese
@@ -2708,6 +2706,7 @@ function_calling
 functionality
 functionalprogramming
 functions
+funds
 funny
 fusion
 fusionapps
@@ -3119,6 +3118,7 @@ hosts-file
 hostsfile
 hot-water
 hotkey
+hotkeys
 howto
 hp
 hpc
@@ -3261,6 +3261,7 @@ imageprocess
 imageprocessing
 images
 imageservicing
+imageslide
 imagevalidate
 imagevalidation
 imagga
@@ -3752,6 +3753,7 @@ linqpad
 lint
 linting
 linux
+linux-command
 linuxssh
 liquid
 liquit
@@ -3778,6 +3780,7 @@ loanddepot
 loandepot
 loc
 local
+local-caching
 local-policy
 localadmin
 localconfigurationmanager
@@ -3980,6 +3983,7 @@ match
 matcharray
 matchhashtable
 materialdesign
+materialui
 mateso
 math
 mathematics
@@ -4029,6 +4033,7 @@ meesman
 meeting
 meetup
 meetup.com
+meewind
 megabyte
 melamed
 meltdown
@@ -4130,7 +4135,6 @@ mimekit
 min
 mindmeister
 minecraft
-miniconda
 minifier
 minimal
 minimum
@@ -4280,7 +4284,6 @@ multicloud
 multidimenstional
 multimedia
 multios
-multipass
 multiple
 multiserver
 multistring
@@ -4307,7 +4310,6 @@ myip
 myitprocess
 myjson
 myjson.com
-myob
 myposh
 mypstag
 mysql
@@ -4757,6 +4759,7 @@ paas
 pac
 pack
 package
+package-management
 package-manager
 package-transform
 packagemanagement
@@ -4775,6 +4778,7 @@ pageant
 pager
 pagerduty
 pages
+paloalto
 paloaltonetworks
 pam
 panels
@@ -5084,7 +5088,6 @@ poshy-wrap-wt
 poshy-wrap-yum
 poshy-wrap-zypper
 position
-post
 postgre
 postgres
 postgresql
@@ -5136,6 +5139,7 @@ powershell-graphql
 powershell-isprime
 powershell-lightning
 powershell-module
+powershell-modules
 powershell-releases-api
 powershell-remoting
 powershell-terminal
@@ -5182,7 +5186,6 @@ pranks
 predicate
 prediction
 predictive
-predictive-text
 predictor
 preferences
 prefix
@@ -8317,7 +8320,6 @@ pwpush
 pwsafe
 pwsh
 pwsh.fw
-pwshake
 pwshfw
 pwshrc
 pxedistributionpoint
@@ -8745,6 +8747,7 @@ russia
 rust
 rust-lang
 ryanairps
+ryver
 s.ds.p
 s1
 s3
@@ -8986,6 +8989,7 @@ seppmail
 seppmail.cloud
 seq
 sequence
+serial
 serialization
 serialize
 sericemanagement
@@ -9591,6 +9595,7 @@ syslog
 sysman
 sysmon
 sysop
+syspass
 syspip
 syspip3
 sysprep
@@ -10025,6 +10030,7 @@ ud-tagcloud
 ud-timeline
 ud-timeout
 ud-tool
+ud-toploader
 ud-trendline
 ud-typing
 ud-window
@@ -10048,6 +10054,7 @@ ulid
 ultimatetool
 um
 uml
+umn
 ums
 unattend
 unattendedfile
@@ -10472,11 +10479,13 @@ whormi
 wi-fi
 wia
 wia.imagefile
+wid
 widedata
 wif
 wifi
 wiki
 wildcard
+wildfire
 wildfly
 wim
 wim2vhd
@@ -10534,6 +10543,7 @@ windowsform
 windowsforms
 windowsindex
 windowsinstaller
+windowsinternaldatabase
 windowsinternals
 windowsiotservices
 windowsiso
