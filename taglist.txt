@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Saturday, 02 March 2024 01:59:37 UTC
+Updated: Saturday, 02 March 2024 09:51:45 UTC
 
 .bat
 .env
@@ -106,6 +106,7 @@ act!
 actifio
 actifiogo
 action
+action1
 actiongroup
 actionplan
 actions
@@ -370,7 +371,6 @@ apmconfig
 apmcontrolplane
 apmsynthetics
 apmtraces
-aportal
 app
 app-control-for-business
 app-only
@@ -421,7 +421,6 @@ aprsthursday
 aps
 apt
 apt-get
-apt-get-update
 apteco
 aptitude
 aql
@@ -764,6 +763,8 @@ bayern
 bb
 bbp
 bc
+bcd
+bcdedit
 bcdr
 bd
 bdd
@@ -873,6 +874,7 @@ bookmarks
 books
 bool
 boolean
+bootloader psmodule
 bootstrap
 bootstrapping
 bop
@@ -995,7 +997,6 @@ carbonintensity
 card
 cardwirth
 cargo
-carousel
 carrier
 cartoon
 case
@@ -1277,6 +1278,7 @@ codes
 codesign
 codesigning
 codex
+coercion
 cognitiveservice
 cognitiveservices
 cohesity
@@ -1635,6 +1637,8 @@ cvss
 cwi
 cx
 cyberark
+cyberark-api
+cyberark-identity
 cyberdrain
 cybereason
 cybersamurai
@@ -2390,6 +2394,7 @@ exec
 executable
 executables
 execute
+exexml
 exif
 exiftool
 exists
@@ -2703,7 +2708,6 @@ function_calling
 functionality
 functionalprogramming
 functions
-funds
 funny
 fusion
 fusionapps
@@ -2988,6 +2992,7 @@ harden
 harden-windows-security
 hardening
 hardlink
+hardmatch
 hardware
 harperdb
 hartokens
@@ -3114,7 +3119,6 @@ hosts-file
 hostsfile
 hot-water
 hotkey
-hotkeys
 howto
 hp
 hpc
@@ -3257,7 +3261,6 @@ imageprocess
 imageprocessing
 images
 imageservicing
-imageslide
 imagevalidate
 imagevalidation
 imagga
@@ -3749,7 +3752,6 @@ linqpad
 lint
 linting
 linux
-linux-command
 linuxssh
 liquid
 liquit
@@ -3776,7 +3778,6 @@ loanddepot
 loandepot
 loc
 local
-local-caching
 local-policy
 localadmin
 localconfigurationmanager
@@ -3975,10 +3976,10 @@ mask
 mass
 masstransit
 masterconfiguration
+match
 matcharray
 matchhashtable
 materialdesign
-materialui
 mateso
 math
 mathematics
@@ -4028,7 +4029,6 @@ meesman
 meeting
 meetup
 meetup.com
-meewind
 megabyte
 melamed
 meltdown
@@ -4151,6 +4151,7 @@ mkpasswd
 ml
 ml.net
 mlflow
+mmdc
 mobile
 mobilenetwork
 mobilitycontroller
@@ -4756,7 +4757,6 @@ paas
 pac
 pack
 package
-package-management
 package-manager
 package-transform
 packagemanagement
@@ -4775,7 +4775,6 @@ pageant
 pager
 pagerduty
 pages
-paloalto
 paloaltonetworks
 pam
 panels
@@ -5137,7 +5136,6 @@ powershell-graphql
 powershell-isprime
 powershell-lightning
 powershell-module
-powershell-modules
 powershell-releases-api
 powershell-remoting
 powershell-terminal
@@ -8331,6 +8329,7 @@ python
 python-for-dotnet
 python3
 qcloud
+qconvergeconsolepowerkit
 qemu
 qlgc_fc_powerkit
 qlik
@@ -8746,7 +8745,6 @@ russia
 rust
 rust-lang
 ryanairps
-ryver
 s.ds.p
 s1
 s3
@@ -8988,7 +8986,6 @@ seppmail
 seppmail.cloud
 seq
 sequence
-serial
 serialization
 serialize
 sericemanagement
@@ -9203,6 +9200,9 @@ smorgasbord
 sms
 smtp
 smtpaddressupdate psmodule
+smtpauth
+smtpoauth
+smtpsasl
 smtpsecure
 snap
 snapchat
@@ -9520,6 +9520,7 @@ subset
 subsystem
 subtitle
 success
+successfactors
 sudo
 sugar
 sugarcrm
@@ -9590,7 +9591,6 @@ syslog
 sysman
 sysmon
 sysop
-syspass
 syspip
 syspip3
 sysprep
@@ -9945,6 +9945,7 @@ tutorial
 tv
 tweet
 twig
+twilio
 twincat
 twinkly
 twitch
@@ -9993,6 +9994,7 @@ ud-dashboard
 ud-datepicker
 ud-field
 ud-flexytable
+ud-funnel
 ud-hero
 ud-illustration
 ud-input
@@ -10023,7 +10025,6 @@ ud-tagcloud
 ud-timeline
 ud-timeout
 ud-tool
-ud-toploader
 ud-trendline
 ud-typing
 ud-window
@@ -10047,7 +10048,6 @@ ulid
 ultimatetool
 um
 uml
-umn
 ums
 unattend
 unattendedfile
@@ -10191,6 +10191,7 @@ vba
 vbaproject
 vbproj
 vbr
+vbscript
 vbsinst
 vc
 vccmdlets
@@ -10476,7 +10477,6 @@ wif
 wifi
 wiki
 wildcard
-wildfire
 wildfly
 wim
 wim2vhd
