@@ -3,6 +3,80 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [Permission](https://www.powershellgallery.com/Packages/Permission/0.0.313) | 0.0.313
+
+### Published: 03/03/2024 01:14:04 by Jeremy La Camera
+
+Module for working with Access Control Lists
+
+__Downloads__: 1,370 | __Repository__: 
+
+## [d365bap.tools](https://www.powershellgallery.com/Packages/d365bap.tools/0.0.10) | 0.0.10
+
+### Published: 03/02/2024 19:57:41 by Mötz Jensen
+
+Tools used for Business Application Platform, One Dynamics One Platform - D365FO + Dataverse
+
+__Downloads__: 0 | __Repository__: 
+
+## [WhatsUpGoldPS](https://www.powershellgallery.com/Packages/WhatsUpGoldPS/0.1.8) | 0.1.8
+
+### Published: 03/02/2024 19:29:39 by Jason Alberino
+
+Interact with the WhatsUp Gold REST API using PowerShell
+
+__Downloads__: 94 | __Repository__: https://github.com/jayyx2/WhatsUpGoldPS
+
+## [WDACConfig](https://www.powershellgallery.com/Packages/WDACConfig/0.3.4) | 0.3.4
+
+### Published: 03/02/2024 19:13:01 by HotCakeX
+
+This is an advanced PowerShell module for WDAC (Windows Defender Application Control) and automates a lot of tasks.
+
+
+🟢 Please see the GitHub page for Full details and everything about the module: https://github.com/HotCakeX/Harden-Windows-Security/wiki/WDACConfig
+
+
+🛡️ Here is the list of module's cmdlets
+
+✔️ New-WDACConfig: https://github.com/HotCakeX/Harden-Windows-Security/wiki/New-WDACConfig
+
+✔️ New-SupplementalWDACConfig: https://github.com/HotCakeX/Harden-Windows-Security/wiki/New-SupplementalWDACConfig
+
+✔️ Remove-WDACConfig: https://github.com/HotCakeX/Harden-Windows-Security/wiki/Remove-WDACConfig
+
+✔️ Edit-WDACConfig: https://github.com/HotCakeX/Harden-Windows-Security/wiki/Edit-WDACConfig
+
+✔️ Edit-SignedWDACConfig: https://github.com/HotCakeX/Harden-Windows-Security/wiki/Edit-SignedWDACConfig
+
+✔️ Deploy-SignedWDACConfig: https://github.com/HotCakeX/Harden-Windows-Security/wiki/Deploy-SignedWDACConfig
+
+✔️ Confirm-WDACConfig: https://github.com/HotCakeX/Harden-Windows-Security/wiki/Confirm-WDACConfig
+
+✔️ New-DenyWDACConfig: https://github.com/HotCakeX/Harden-Windows-Security/wiki/New-DenyWDACConfig
+
+✔️ Set-CommonWDACConfig: https://github.com/HotCakeX/Harden-Windows-Security/wiki/Set-CommonWDACConfig
+
+✔️ New-KernelModeWDACConfig: https://github.com/HotCakeX/Harden-Windows-Security/wiki/New%E2%80%90KernelModeWDACConfig
+
+✔️ Get-CommonWDACConfig: https://github.com/HotCakeX/Harden-Windows-Security/wiki/Get-CommonWDACConfig
+
+✔️ Invoke-WDACSimulation: https://github.com/HotCakeX/Harden-Windows-Security/wiki/Invoke-WDACSimulation
+
+✔️ Remove-CommonWDACConfig: https://github.com/HotCakeX/Harden-Windows-Security/wiki/Remove-CommonWDACConfig
+
+✔️ Assert-WDACConfigIntegrity: https://github.com/HotCakeX/Harden-Windows-Security/wiki/Assert-WDACConfigIntegrity
+
+✔️ Build-WDACCertificate: https://github.com/HotCakeX/Harden-Windows-Security/wiki/Build-WDACCertificate
+
+✔️ Test-CiPolicy: https://github.com/HotCakeX/Harden-Windows-Security/wiki/Test-CiPolicy
+
+✔️ ConvertTo-WDACPolicy: https://github.com/HotCakeX/Harden-Windows-Security/wiki/ConvertTo-WDACPolicy
+
+✔️ Get-CiFileHashes: https://github.com/HotCakeX/Harden-Windows-Security/wiki/Get-CiFileHashes
+
+__Downloads__: 1,755 | __Repository__: https://github.com/HotCakeX/Harden-Windows-Security/wiki/WDACConfig
+
 ## [PokeAPI](https://www.powershellgallery.com/Packages/PokeAPI/1.0.1) | 1.0.1
 
 ### Published: 03/02/2024 17:43:04 by David Schulte
@@ -10,14 +84,6 @@ These are the latest 250 modules published to the [PowerShell Gallery](https://p
 This module provides a PowerShell wrapper for PokeAPI
 
 __Downloads__: 4 | __Repository__: https://github.com/Celerium/PokeAPI-PowerShellWrapper
-
-## [Permission](https://www.powershellgallery.com/Packages/Permission/0.0.298) | 0.0.298
-
-### Published: 03/02/2024 17:39:54 by Jeremy La Camera
-
-Module for working with Access Control Lists
-
-__Downloads__: 1,370 | __Repository__: 
 
 ## [Pilot](https://www.powershellgallery.com/Packages/Pilot/0.0.26) | 0.0.26
 
@@ -49,7 +115,7 @@ __Downloads__: 1,579 | __Repository__:
 
 PowerShell for Proxmox VE
 
-__Downloads__: 2,874 | __Repository__: https://github.com/Corsinvest/cv4pve-api-powershell
+__Downloads__: 2,873 | __Repository__: https://github.com/Corsinvest/cv4pve-api-powershell
 
 ## [AzCostTools](https://www.powershellgallery.com/Packages/AzCostTools/0.0.2) | 0.0.2
 
@@ -97,7 +163,7 @@ Get/Clear -SqlMessage >> Get Informational messages, if provider supports it.
 Invoke-SqlBulkCopy >> Bulk Dataload from one connection to another.
 Start/Complete/Undo -SqlTransaction >> Utilize transactions!
 
-__Downloads__: 1,084,336 | __Repository__: https://github.com/mithrandyr/SimplySql
+__Downloads__: 1,084,363 | __Repository__: https://github.com/mithrandyr/SimplySql
 
 ## [file-encoder](https://www.powershellgallery.com/Packages/file-encoder/0.0.1) | 0.0.1
 
@@ -355,7 +421,7 @@ __Downloads__: 12 | __Repository__:
 
 Helper module for Active Directory with lots of useful functions that simplify supporting Active Directory.
 
-__Downloads__: 195,288 | __Repository__: https://github.com/EvotecIT/ADEssentials
+__Downloads__: 195,283 | __Repository__: https://github.com/EvotecIT/ADEssentials
 
 ## [PSSharedGoods](https://www.powershellgallery.com/Packages/PSSharedGoods/0.0.278) | 0.0.278
 
@@ -363,7 +429,7 @@ __Downloads__: 195,288 | __Repository__: https://github.com/EvotecIT/ADEssential
 
 Module covering functions that are shared within multiple projects
 
-__Downloads__: 303,914 | __Repository__: https://github.com/EvotecIT/PSSharedGoods
+__Downloads__: 303,911 | __Repository__: https://github.com/EvotecIT/PSSharedGoods
 
 ## [BitTitanManagement](https://www.powershellgallery.com/Packages/BitTitanManagement/0.0.141) | 0.0.141
 
@@ -408,6 +474,20 @@ TheDashboard is a module that allows you to create a dashboard for your HTML rep
 
 __Downloads__: 1,548 | __Repository__: https://github.com/EvotecIT/TheDashboard
 
+## [DependencySearch](https://www.powershellgallery.com/Packages/DependencySearch/1.1.5) | 1.1.5
+
+### Published: 02/29/2024 14:38:27 by @AndrewZtrhgf
+
+Module contains functions that allows you to check for PowerShell code/script/module dependencies through static code analysis (AST).
+
+    Some of the interesting functions:
+    - Get-CodeDependency - searches for PowerShell code/script/module dependencies through static code analysis (AST). Supports also checks against PowerShell Gallery
+    - Get-CodeDependencyStatus - gets (module) dependencies of given script/module and warns you about possible problems
+    - Get-CorrespondingGraphCommand - translates given AzureAD or MSOnline command to Graph command
+    - Get-ModuleCommandUsedInCode - searches for commands (defined in specific module) in given script file
+
+__Downloads__: 1,262 | __Repository__: https://github.com/ztrhgf/useful_powershell_modules
+
 ## [MSGraphStuff](https://www.powershellgallery.com/Packages/MSGraphStuff/1.0.7) | 1.0.7
 
 ### Published: 02/29/2024 13:23:54 by @AndrewZtrhgf
@@ -422,7 +502,7 @@ Some of the functions:
 - New-GraphAPIAuthHeader - Function for generating header that can be used for authentication of Graph API requests
 - ...
 
-__Downloads__: 13,653 | __Repository__: https://github.com/ztrhgf/useful_powershell_modules
+__Downloads__: 13,649 | __Repository__: https://github.com/ztrhgf/useful_powershell_modules
 
 ## [CosmosLite](https://www.powershellgallery.com/Packages/CosmosLite/3.0.5) | 3.0.5
 
@@ -430,7 +510,7 @@ __Downloads__: 13,653 | __Repository__: https://github.com/ztrhgf/useful_powersh
 
 Provides commands that allow easy manipulation with data in Cosmos DB
 
-__Downloads__: 10,052 | __Repository__: https://github.com/greycorbel/CosmosLite
+__Downloads__: 10,058 | __Repository__: https://github.com/greycorbel/CosmosLite
 
 ## [SqlChangeAutomation](https://www.powershellgallery.com/Packages/SqlChangeAutomation/4.6.24057.3186) | 4.6.24057.3186
 
@@ -438,7 +518,7 @@ __Downloads__: 10,052 | __Repository__: https://github.com/greycorbel/CosmosLite
 
 Automation tools for production quality database deployment
 
-__Downloads__: 5,165,203 | __Repository__: https://www.red-gate.com/sca/productpage
+__Downloads__: 5,165,176 | __Repository__: https://www.red-gate.com/sca/productpage
 
 ## [M365DSCTools](https://www.powershellgallery.com/Packages/M365DSCTools/0.2.2) | 0.2.2
 
@@ -687,15 +767,6 @@ PowerShell module for CapaInstaller SDK containing functions for Unit functions.
 
 __Downloads__: 26 | __Repository__: https://github.com/Mark5900/Capa.PowerShell.Module
 
-## [Capa.PowerShell.Module.SDK.User](https://www.powershellgallery.com/Packages/Capa.PowerShell.Module.SDK.User/1.4.3) | 1.4.3
-
-### Published: 02/28/2024 12:13:43 by Mark5900
-
-PowerShell module for CapaInstaller SDK containing functions for User functions.
-	For more information, see https://capasystems.atlassian.net/wiki/spaces/CI65DOC/pages/19382173123/SDK+-+CapaInstaller+Software+Development+Kit+functions
-
-__Downloads__: 26 | __Repository__: https://github.com/Mark5900/Capa.PowerShell.Module
-
 ## [Capa.PowerShell.Module.PowerPack](https://www.powershellgallery.com/Packages/Capa.PowerShell.Module.PowerPack/1.4.3) | 1.4.3
 
 ### Published: 02/28/2024 12:13:41 by Mark5900
@@ -881,7 +952,7 @@ __Downloads__: 48 | __Repository__: https://github.com/Mark5900/Capa.PowerShell.
 
 A completion manager for better and simpler use powershell completions. For more information, please visit the project: https://github.com/abgox/PSCompletions | https://gitee.com/abgox/PSCompletions
 
-__Downloads__: 2,349 | __Repository__: https://github.com/abgox/PSCompletions
+__Downloads__: 2,347 | __Repository__: https://github.com/abgox/PSCompletions
 
 ## [SCEPman](https://www.powershellgallery.com/Packages/SCEPman/1.14.3.0) | 1.14.3.0
 
@@ -929,7 +1000,7 @@ __Downloads__: 635,454 | __Repository__: https://github.com/jjcarrier/PS-TableUI
 
 A PowerShell module to generate an as built report on the configuration of VMware vSphere.
 
-__Downloads__: 18,293 | __Repository__: https://github.com/AsBuiltReport/AsBuiltReport.VMware.vSphere
+__Downloads__: 18,291 | __Repository__: https://github.com/AsBuiltReport/AsBuiltReport.VMware.vSphere
 
 ## [JumpCloud.SDK.V2](https://www.powershellgallery.com/Packages/JumpCloud.SDK.V2/0.0.43) | 0.0.43
 
@@ -1151,14 +1222,6 @@ __Downloads__: 3,587 | __Repository__: https://github.com/oracle/oci-powershell-
 This modules provides Cmdlets for OCI Tenantmanagercontrolplane Service
 
 __Downloads__: 4,661 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Streaming](https://www.powershellgallery.com/Packages/OCI.PSModules.Streaming/77.0.0) | 77.0.0
-
-### Published: 02/27/2024 16:29:39 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Streaming Service
-
-__Downloads__: 4,774 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
 ## [OCI.PSModules.Stackmonitoring](https://www.powershellgallery.com/Packages/OCI.PSModules.Stackmonitoring/77.0.0) | 77.0.0
 
@@ -2072,20 +2135,4 @@ This modules provides Cmdlets for OCI Apmconfig Service
 
 __Downloads__: 4,346 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-## [OCI.PSModules.Apigateway](https://www.powershellgallery.com/Packages/OCI.PSModules.Apigateway/77.0.0) | 77.0.0
-
-### Published: 02/27/2024 16:12:17 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Apigateway Service
-
-__Downloads__: 4,985 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Announcementsservice](https://www.powershellgallery.com/Packages/OCI.PSModules.Announcementsservice/77.0.0) | 77.0.0
-
-### Published: 02/27/2024 16:12:10 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Announcementsservice Service
-
-__Downloads__: 7,478 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-*Updated: Saturday, 02 March 2024 17:51:32 UTC*
+*Updated: Sunday, 03 March 2024 02:01:50 UTC*
