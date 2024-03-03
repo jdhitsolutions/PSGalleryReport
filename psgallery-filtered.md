@@ -3,6 +3,38 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [d365bap.tools](https://www.powershellgallery.com/Packages/d365bap.tools/0.0.12) | 0.0.12
+
+### Published: 03/03/2024 15:50:02 by M�tz Jensen
+
+Tools used for Business Application Platform, One Dynamics One Platform - D365FO + Dataverse
+
+__Downloads__: 0 | __Repository__: 
+
+## [dbprv.MultiMediaHelpers](https://www.powershellgallery.com/Packages/dbprv.MultiMediaHelpers/1.2.0) | 1.2.0
+
+### Published: 03/03/2024 13:48:02 by dbprv
+
+Various functions for working with multimedia files
+
+__Downloads__: 16 | __Repository__: https://github.com/dbprv/dbprv.MultiMediaHelpers
+
+## [IdentityCommand](https://www.powershellgallery.com/Packages/IdentityCommand/0.2.58) | 0.2.58
+
+### Published: 03/03/2024 12:55:32 by Pete Maan
+
+Enables user interaction with the API for the CyberArk Identity platform
+
+__Downloads__: 300 | __Repository__: https://github.com/pspete/IdentityCommand/
+
+## [Locksmith](https://www.powershellgallery.com/Packages/Locksmith/2024.3) | 2024.3
+
+### Published: 03/03/2024 12:33:58 by Jake Hildreth
+
+A small tool to find and fix common misconfigurations in Active Directory Certificate Services.
+
+__Downloads__: 1,356 | __Repository__: https://github.com/TrimarcJake/Locksmith
+
 ## [Pilot](https://www.powershellgallery.com/Packages/Pilot/0.0.27) | 0.0.27
 
 ### Published: 03/03/2024 09:40:22 by Michiel van Oosterhout
@@ -57,15 +89,7 @@ __Downloads__: 53,924 | __Repository__: https://github.com/SAGSA/SystemInfo
 
 better repo 2 compile pwsh scripts to exe
 
-__Downloads__: 351 | __Repository__: https://github.com/steve02081504/ps12exe
-
-## [d365bap.tools](https://www.powershellgallery.com/Packages/d365bap.tools/0.0.10) | 0.0.10
-
-### Published: 03/02/2024 19:57:41 by Mötz Jensen
-
-Tools used for Business Application Platform, One Dynamics One Platform - D365FO + Dataverse
-
-__Downloads__: 0 | __Repository__: 
+__Downloads__: 352 | __Repository__: https://github.com/steve02081504/ps12exe
 
 ## [WhatsUpGoldPS](https://www.powershellgallery.com/Packages/WhatsUpGoldPS/0.1.8) | 0.1.8
 
@@ -195,7 +219,7 @@ Get/Clear -SqlMessage >> Get Informational messages, if provider supports it.
 Invoke-SqlBulkCopy >> Bulk Dataload from one connection to another.
 Start/Complete/Undo -SqlTransaction >> Utilize transactions!
 
-__Downloads__: 1,084,336 | __Repository__: https://github.com/mithrandyr/SimplySql
+__Downloads__: 1,084,369 | __Repository__: https://github.com/mithrandyr/SimplySql
 
 ## [file-encoder](https://www.powershellgallery.com/Packages/file-encoder/0.0.1) | 0.0.1
 
@@ -417,7 +441,7 @@ __Downloads__: 4,288 | __Repository__:
 
 This module will migrate a Basic SKU load balancer connected to a Virtual Machine Scaleset or Virtual Machines to a Standard SKU load balancer, preserving the existing configuration and functionality.
 
-__Downloads__: 2,251 | __Repository__: https://github.com/Azure/AzLoadBalancerMigration
+__Downloads__: 2,279 | __Repository__: https://github.com/Azure/AzLoadBalancerMigration
 
 ## [ProGetAutomation](https://www.powershellgallery.com/Packages/ProGetAutomation/3.0.0) | 3.0.0
 
@@ -461,7 +485,7 @@ __Downloads__: 12 | __Repository__:
 
 Helper module for Active Directory with lots of useful functions that simplify supporting Active Directory.
 
-__Downloads__: 195,285 | __Repository__: https://github.com/EvotecIT/ADEssentials
+__Downloads__: 195,292 | __Repository__: https://github.com/EvotecIT/ADEssentials
 
 ## [PSSharedGoods](https://www.powershellgallery.com/Packages/PSSharedGoods/0.0.278) | 0.0.278
 
@@ -469,7 +493,7 @@ __Downloads__: 195,285 | __Repository__: https://github.com/EvotecIT/ADEssential
 
 Module covering functions that are shared within multiple projects
 
-__Downloads__: 303,918 | __Repository__: https://github.com/EvotecIT/PSSharedGoods
+__Downloads__: 303,909 | __Repository__: https://github.com/EvotecIT/PSSharedGoods
 
 ## [BitTitanManagement](https://www.powershellgallery.com/Packages/BitTitanManagement/0.0.141) | 0.0.141
 
@@ -542,7 +566,7 @@ Some of the functions:
 - New-GraphAPIAuthHeader - Function for generating header that can be used for authentication of Graph API requests
 - ...
 
-__Downloads__: 13,649 | __Repository__: https://github.com/ztrhgf/useful_powershell_modules
+__Downloads__: 13,653 | __Repository__: https://github.com/ztrhgf/useful_powershell_modules
 
 ## [CosmosLite](https://www.powershellgallery.com/Packages/CosmosLite/3.0.5) | 3.0.5
 
@@ -550,7 +574,7 @@ __Downloads__: 13,649 | __Repository__: https://github.com/ztrhgf/useful_powersh
 
 Provides commands that allow easy manipulation with data in Cosmos DB
 
-__Downloads__: 10,058 | __Repository__: https://github.com/greycorbel/CosmosLite
+__Downloads__: 10,052 | __Repository__: https://github.com/greycorbel/CosmosLite
 
 ## [SqlChangeAutomation](https://www.powershellgallery.com/Packages/SqlChangeAutomation/4.6.24057.3186) | 4.6.24057.3186
 
@@ -976,7 +1000,7 @@ __Downloads__: 48 | __Repository__: https://github.com/Mark5900/Capa.PowerShell.
 
 A completion manager for better and simpler use powershell completions. For more information, please visit the project: https://github.com/abgox/PSCompletions | https://gitee.com/abgox/PSCompletions
 
-__Downloads__: 2,350 | __Repository__: https://github.com/abgox/PSCompletions
+__Downloads__: 2,349 | __Repository__: https://github.com/abgox/PSCompletions
 
 ## [SCEPman](https://www.powershellgallery.com/Packages/SCEPman/1.14.3.0) | 1.14.3.0
 
@@ -1024,7 +1048,7 @@ __Downloads__: 635,454 | __Repository__: https://github.com/jjcarrier/PS-TableUI
 
 A PowerShell module to generate an as built report on the configuration of VMware vSphere.
 
-__Downloads__: 18,293 | __Repository__: https://github.com/AsBuiltReport/AsBuiltReport.VMware.vSphere
+__Downloads__: 18,436 | __Repository__: https://github.com/AsBuiltReport/AsBuiltReport.VMware.vSphere
 
 ## [JumpCloud.SDK.V2](https://www.powershellgallery.com/Packages/JumpCloud.SDK.V2/0.0.43) | 0.0.43
 
@@ -1032,7 +1056,7 @@ __Downloads__: 18,293 | __Repository__: https://github.com/AsBuiltReport/AsBuilt
 
 The JumpCloud V2 PowerShell SDK
 
-__Downloads__: 879,242 | __Repository__: https://github.com/TheJumpCloud/jcapi-powershell/tree/master/SDKs/PowerShell/JumpCloud.SDK.V2/
+__Downloads__: 879,237 | __Repository__: https://github.com/TheJumpCloud/jcapi-powershell/tree/master/SDKs/PowerShell/JumpCloud.SDK.V2/
 
 ## [JumpCloud.SDK.V1](https://www.powershellgallery.com/Packages/JumpCloud.SDK.V1/0.0.39) | 0.0.39
 
@@ -1040,7 +1064,7 @@ __Downloads__: 879,242 | __Repository__: https://github.com/TheJumpCloud/jcapi-p
 
 The JumpCloud V1 PowerShell SDK
 
-__Downloads__: 881,110 | __Repository__: https://github.com/TheJumpCloud/jcapi-powershell/tree/master/SDKs/PowerShell/JumpCloud.SDK.V1/
+__Downloads__: 881,105 | __Repository__: https://github.com/TheJumpCloud/jcapi-powershell/tree/master/SDKs/PowerShell/JumpCloud.SDK.V1/
 
 ## [JumpCloud.SDK.DirectoryInsights](https://www.powershellgallery.com/Packages/JumpCloud.SDK.DirectoryInsights/0.0.27) | 0.0.27
 
@@ -1048,7 +1072,7 @@ __Downloads__: 881,110 | __Repository__: https://github.com/TheJumpCloud/jcapi-p
 
 The JumpCloud DirectoryInsights PowerShell SDK
 
-__Downloads__: 908,495 | __Repository__: https://github.com/TheJumpCloud/jcapi-powershell/tree/master/SDKs/PowerShell/JumpCloud.SDK.DirectoryInsights/
+__Downloads__: 908,490 | __Repository__: https://github.com/TheJumpCloud/jcapi-powershell/tree/master/SDKs/PowerShell/JumpCloud.SDK.DirectoryInsights/
 
 ## [Proxy.Git](https://www.powershellgallery.com/Packages/Proxy.Git/0.0.4) | 0.0.4
 
@@ -2111,28 +2135,4 @@ This modules provides Cmdlets for OCI Audit Service
 
 __Downloads__: 4,925 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-## [OCI.PSModules.Artifacts](https://www.powershellgallery.com/Packages/OCI.PSModules.Artifacts/77.0.0) | 77.0.0
-
-### Published: 02/27/2024 16:13:15 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Artifacts Service
-
-__Downloads__: 4,462 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Appmgmtcontrol](https://www.powershellgallery.com/Packages/OCI.PSModules.Appmgmtcontrol/77.0.0) | 77.0.0
-
-### Published: 02/27/2024 16:13:08 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Appmgmtcontrol Service
-
-__Downloads__: 3,797 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Applicationmigration](https://www.powershellgallery.com/Packages/OCI.PSModules.Applicationmigration/77.0.0) | 77.0.0
-
-### Published: 02/27/2024 16:13:00 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Applicationmigration Service
-
-__Downloads__: 4,950 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-*Updated: Sunday, 03 March 2024 09:51:50 UTC*
+*Updated: Sunday, 03 March 2024 17:51:48 UTC*
