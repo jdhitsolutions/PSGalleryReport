@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Sunday, 03 March 2024 17:51:56 UTC
+Updated: Monday, 04 March 2024 02:09:50 UTC
 
 .bat
 .env
@@ -361,6 +361,8 @@ api-rest
 apichecks
 apiclient
 apigateway
+apigee
+apigeeedge
 apimanagement
 apis
 aplication
@@ -374,6 +376,7 @@ app
 app-control-for-business
 app-only
 app-v
+app-volumes
 app.config
 appattach
 appclusive
@@ -409,6 +412,7 @@ appsetting
 appv
 appventix
 appveyor
+appvolumes
 appx
 appxmanifest
 aprs
@@ -438,6 +442,7 @@ archivial-cloud-backup
 archlinux
 arcresourcebridge
 arcus
+area
 arg
 argcomplete
 argument
@@ -505,6 +510,7 @@ atlas
 atlassian
 atlassiancli
 atlassianps
+atmosphere
 atom
 atp
 atrium
@@ -784,6 +790,8 @@ bestpractices
 beta
 bginfo
 bi
+bibliography
+bibtex
 bicep
 bicepnet
 big-ip
@@ -804,6 +812,7 @@ bind
 binding
 bindings
 bing
+bingmap
 bingmaps
 binomial
 bios
@@ -935,7 +944,6 @@ bulletin
 bullhorn
 bundle
 bup
-burnttoast
 burpsuite
 bus
 business
@@ -1581,7 +1589,6 @@ csproj
 css
 csv
 csv2adx
-csvhelper
 ctf
 ctglobal
 ctl
@@ -1632,6 +1639,7 @@ cwi
 cx
 cyberark
 cyberark-api
+cyberark-dpa
 cyberark-identity
 cyberdrain
 cybereason
@@ -1658,6 +1666,7 @@ daily
 dane
 dangling
 dapr
+dare
 dark
 darktrace
 dash
@@ -1951,7 +1960,6 @@ diving
 division
 divoom
 dkim
-dkschrutebeets
 dl
 dll
 dlmautomation
@@ -2055,9 +2063,12 @@ drawio
 dreams
 dreamweaver
 dreary
+drift
+driftmonitor
 drink
 drive
 drive letter
+drivemap
 driver
 driverpacks
 drivers
@@ -2086,6 +2097,7 @@ dsc-resource
 dsc-resources
 dsccertificates
 dscconcepts
+dscdriftmonitor
 dsclient
 dscresource
 dscresourcekit
@@ -2124,6 +2136,7 @@ dword
 dxexpeditions
 dynamic
 dynamic-host-configuration-protocol
+dynamic-privileged-access
 dynamicdistributiongroups
 dynamicdnsoverhttps
 dynamicparam
@@ -2250,7 +2263,6 @@ enterprisevoice
 entity
 entityframework
 entra
-entra-id
 entraid
 entropy
 enum
@@ -2493,7 +2505,6 @@ fifa
 figlet
 file
 file-association
-file-copy
 file-encoding
 file-extension
 file-extension-association
@@ -2542,7 +2553,6 @@ filesystemwatcher
 filetransfer
 filetype
 filewrite
-fill
 film
 filter
 filter-item
@@ -2563,6 +2573,8 @@ find-file
 find-path
 finddownloadlinkfromwebsite
 findfile
+findlocation
+findplace
 findproxyforurl
 fine-print
 fine-tuning
@@ -2754,9 +2766,12 @@ genericartifactscontent
 genetic-algorithm
 genp
 genxdev
+geo
 geocache
 geocaching
 geocode
+geoencode
+geoencoding
 geoip
 geolocation
 geosearching
@@ -2844,6 +2859,8 @@ globallydistributeddatabase
 globbing
 glpi
 gmail
+gmap
+gmaps
 gmsa
 gnucash
 gnuwin32
@@ -2862,6 +2879,7 @@ google-table
 googleadsv2
 googlecloudplatform
 googledrive
+googlemap
 googlemaps
 googleworkspace
 gopher
@@ -2907,6 +2925,7 @@ graylog
 greenplum
 gremlin
 grep
+greynoise
 grid
 gridfs
 grok
@@ -2918,7 +2937,6 @@ groupmembership
 grouppolicy
 groups
 grouvee
-growlnotify
 grr
 gsuite
 gtx1080ti
@@ -2964,7 +2982,6 @@ hanaon
 handle
 handler
 hangouts
-hannelstoolbox
 hanwha
 har
 hard
@@ -3027,6 +3044,7 @@ helpdesk
 helpdoc
 helper
 helper-functions
+helperfunctions
 helpers
 helpfile
 helpful
@@ -3256,7 +3274,6 @@ impala
 impersonation
 imperva
 import
-import-csv
 import-dtdriverpackpackagedefinitionsms
 import-modulefrompath
 import-passlist
@@ -3275,7 +3292,6 @@ index
 indexdb
 indicator
 inedo
-inetfwrule
 inetum
 infinity
 influx
@@ -3549,7 +3565,6 @@ katakana
 kb
 kbarticle
 kdbx
-kdialog
 keenetic
 keepachangelog
 keepass
@@ -3699,6 +3714,8 @@ library
 libvirt
 licence
 license
+license-generator
+licenseautomation
 licensemanagement
 licensemanager
 licensereport
@@ -3744,6 +3761,7 @@ list-item
 listener
 litecoin
 litedb
+literature
 live
 lldp
 lmhost
@@ -3763,6 +3781,7 @@ local-policy
 localadmin
 localconfigurationmanager
 localdb
+locale
 localgroup
 localgroupmember
 localization
@@ -3925,11 +3944,13 @@ mangement
 manifest
 manual
 map
+mapapi
 mapi
 mappeddrives
 mapper24
 mapping
 maps
+mapsapi
 mariadb
 mark
 markdig
@@ -3986,6 +4007,7 @@ mdatp
 mdb
 mdbc
 mde
+mdep
 mdi
 mdm
 mdop
@@ -4058,6 +4080,7 @@ microservices
 microsoft
 microsoft_365
 microsoft_azure
+microsoft_endpoint_manager
 microsoft_online
 microsoft_teams
 microsoft-graph
@@ -4106,6 +4129,7 @@ mim
 mime
 mimekit
 min
+mindmeister
 minecraft
 miniconda
 minifier
@@ -4343,7 +4367,6 @@ netappfiles
 netbox
 netcease
 netcore
-netfirewallrule
 netherlands
 netmap
 netmask
@@ -4451,10 +4474,8 @@ notes
 notification
 notificationhubs
 notifications
-notifu
 notify
 notify-send
-notify-send-wsl
 nova
 npgsql
 npm
@@ -4589,7 +4610,6 @@ oneloginapi
 onenote
 onestools
 onesubscription
-onetimesecret
 oneviewglobaldashboard
 online
 online-backup
@@ -4624,7 +4644,6 @@ openholidaysapi
 openid
 openidconnect
 openinghours
-openport
 openprovider
 openscad
 opensearch
@@ -4705,8 +4724,6 @@ otp
 ou
 ou-object
 oui-search
-oura
-ouraring
 out-consolegridview
 out-default
 out-gridview
@@ -4762,6 +4779,7 @@ panther
 panzerbjrn
 pap
 paper
+papis
 paradox
 parallel
 parallel-processing
@@ -4817,7 +4835,6 @@ path
 pathfinder
 patternmatching
 pause
-pax8
 payload
 paylocity
 paypal
@@ -4915,6 +4932,7 @@ pkce
 pki
 pki psmodule
 pks
+place
 places
 plain
 plan
@@ -4931,11 +4949,9 @@ playlists
 playwright
 pleasant
 pleasantpasswordserver
-plex
 plist
 plog
 plot
-plug-n-copy
 plugin
 plugins
 pluralsight
@@ -5017,7 +5033,6 @@ poshy-ls-isms
 poshy-lucidity
 poshy-multimedia
 poshy-net
-poshy-notify-send
 poshy-sh-isms
 poshy-sshconfig
 poshy-viewer-finder
@@ -5061,6 +5076,7 @@ poshy-wrap-wt
 poshy-wrap-yum
 poshy-wrap-zypper
 position
+post
 postgre
 postgres
 postgresql
@@ -5167,6 +5183,7 @@ prefixing
 preparead
 preparealldomains
 prepareschema
+prepend
 preprocessing
 preprocessor
 presentation
@@ -6733,7 +6750,6 @@ pscommand_nmap_ping_through_firewall
 pscommand_nmap_slow
 pscommand_nmap_traceroute
 pscommand_nmap_web_safe_osscan
-pscommand_notify-send-fallback
 pscommand_npm-disable-proxy
 pscommand_npm-enable-proxy
 pscommand_npm-show-proxy
@@ -7080,6 +7096,7 @@ pscommand_zup
 pscommand_zvcmp
 pscommand_zve
 pscommand_zwp
+pscommander
 psconfasia
 psconfeu
 psconfig
@@ -7995,7 +8012,6 @@ psfunction_nmap_ping_through_firewall
 psfunction_nmap_slow
 psfunction_nmap_traceroute
 psfunction_nmap_web_safe_osscan
-psfunction_notify-send-fallback
 psfunction_npm-disable-proxy
 psfunction_npm-enable-proxy
 psfunction_npm-show-proxy
@@ -8292,6 +8308,7 @@ pwpush
 pwsafe
 pwsh
 pwsh.fw
+pwshake
 pwshfw
 pwshrc
 pxedistributionpoint
@@ -8383,6 +8400,8 @@ raspbian
 rate
 rate-limit
 rates
+rating
+ratings
 ravendb
 razzle
 rbac
@@ -8608,6 +8627,7 @@ reverse-engineer
 reverse-string
 reversed-color-text
 reversedsc
+reverseengineering
 revision
 reword
 rewrite
@@ -8632,7 +8652,6 @@ rightjoin
 rights
 rightsizing
 rightsmanagement
-ring
 ripe
 risk
 riskiq
@@ -8866,6 +8885,7 @@ searchengine
 searcher
 searching
 searchmanager
+searchplace
 searchquery
 searchstring
 searchsuffixlist
@@ -9114,6 +9134,7 @@ site_navigation
 sitecollection
 siteconfiguration
 sitecore
+sitecoresearch
 sitemaintenance
 sitemap
 siterecovery
@@ -9171,6 +9192,9 @@ smorgasbord
 sms
 smtp
 smtpaddressupdate psmodule
+smtpauth
+smtpoauth
+smtpsasl
 smtpsecure
 snap
 snapchat
@@ -9630,7 +9654,6 @@ taxonomy
 tcp
 tcp/ip
 tcpip
-tcpport
 tcprjmgmt
 tcpserver
 tcptest
@@ -9671,12 +9694,12 @@ tenable
 tenable.sc
 tenant
 tenantmanagercontrolplane
+teradata
 termbin
 terminal
 terminal-interface
 terminal-services
 terminal.gui
-terminalnotifier
 terminalvelocity
 termset
 terraform
@@ -9758,6 +9781,7 @@ threat-hunting
 threatdefense
 threathunting
 threatintelligence
+thumbprint
 thunderbird
 thycotic
 tibber
@@ -9865,7 +9889,6 @@ treesize
 treffynnon
 trein
 trello
-trellops
 trend
 trend-micro
 trendmicro
@@ -9925,6 +9948,7 @@ twitter-hashtag
 twitter-mention
 twitter-share
 twitter-timeline
+twitter-tweet
 txt
 type
 typeaccelerators
@@ -10159,7 +10183,6 @@ vba
 vbaproject
 vbproj
 vbr
-vbscript
 vbsinst
 vc
 vccmdlets
@@ -10254,7 +10277,6 @@ vmgroup
 vmhost
 vmhostgroup
 vmhostnetworkadapater
-vmmanagement
 vmnic
 vmrole
 vmss
@@ -10338,7 +10360,6 @@ w3svc
 w3w
 waa
 waas
-wac
 waf
 wait4x
 waitforobject
@@ -10488,7 +10509,6 @@ windows10
 windows10mui
 windows11
 windows365
-windowsadmincenter
 windowsaudit
 windowsbuilds
 windowscredential
@@ -10607,6 +10627,7 @@ wql
 wrap
 wrap-text
 wrapper
+wrapperfunctions
 wrc
 wrike
 write
@@ -10709,6 +10730,7 @@ yahw
 yamaha
 yaml
 yandex
+yapg
 yarn
 yetanotherhelloworld
 yml
