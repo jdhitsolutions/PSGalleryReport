@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 04 March 2024 10:21:15 UTC
+Updated: Monday, 04 March 2024 17:51:58 UTC
 
 .bat
 .env
@@ -136,7 +136,6 @@ actor-model
 actors
 acumatica
 ad
-ad_monitoring
 ad-ds
 ad-object
 ad-ou-object
@@ -357,7 +356,6 @@ apexone
 api
 api-client
 api-gateway
-api-rest
 apichecks
 apiclient
 apigateway
@@ -864,13 +862,11 @@ bluetuxedo
 bmc
 bnm
 boards
-bofh
 boilerplate
 boinc
 bold-text
 bolt
 bom
-book
 bookmark
 bookmarks
 books
@@ -1130,10 +1126,8 @@ cif
 cifv3
 cil
 cim
-cim_computersystem
 cimfs
 cimi
-ciminstance
 cims
 cimsession
 cinema
@@ -1276,7 +1270,6 @@ codegen
 codegeneration
 codegenerator
 codepoint
-codereview
 codes
 codesign
 codesigning
@@ -1364,7 +1357,6 @@ computer-site
 computername
 computers
 computersite
-concur
 concurrency
 concurrent
 conda
@@ -1892,7 +1884,6 @@ dictionary
 diff
 difference
 dig
-digikam
 digital
 digital-forensics
 digitalforensics
@@ -2308,6 +2299,7 @@ escapesequences
 escaping
 ese
 esent
+esoteric
 esp
 esp-idf
 esp32
@@ -2359,7 +2351,6 @@ eventviewer
 eventwatch
 evergreen
 evernote
-everydaypowershell
 everydayrewards
 everything
 evilprince2009
@@ -2400,7 +2391,6 @@ executables
 execute
 exexml
 exif
-exiftool
 exists
 exitcode
 exitprocessrequest
@@ -2679,9 +2669,6 @@ freesoftwarefoundation
 freshbooks
 freshdesk
 freshservice
-freshservice-api
-freshserviceps
-freshworks
 friendly
 fritz
 fritzbox
@@ -2988,7 +2975,6 @@ hanaon
 handle
 handler
 hangouts
-hannelstoolbox
 hanwha
 har
 hard
@@ -3010,8 +2996,6 @@ hashset
 hashtable
 hasicorp
 haskell
-haste
-hastebin
 haveibeenpwned
 hba
 hbase
@@ -3026,7 +3010,6 @@ hdr
 header
 headhunter
 health
-health_checks
 healthbot
 healthcare
 healthcareapis
@@ -3108,7 +3091,6 @@ homebrew
 homelandsecurity
 homeschooling
 hon
-hooking
 horizon
 horizontal
 hornbill
@@ -3241,7 +3223,6 @@ ifttt
 igel
 igr
 ihs
-iiittttt
 iis
 iisadministration
 iiscrypto
@@ -3512,7 +3493,6 @@ jira
 jiraservicemanagement
 jitbit
 jms
-jmsjavadownloads
 jnet
 jnetps
 joat
@@ -3527,7 +3507,6 @@ jojoba
 joke
 jotform
 journal
-joyride
 jpg
 jq
 js7
@@ -3681,7 +3660,6 @@ latestupdate
 latin
 latitude
 launcher
-layer
 layman
 layout
 lazywinadmin
@@ -3724,6 +3702,8 @@ library
 libvirt
 licence
 license
+license-generator
+licenseautomation
 licensemanagement
 licensemanager
 licensereport
@@ -3860,7 +3840,6 @@ logs
 logstash
 logtools
 logz
-loki
 lol
 lolcat
 longfile
@@ -3954,7 +3933,6 @@ manual
 map
 mapapi
 mapi
-mappeddrives
 mapper24
 mapping
 maps
@@ -4018,6 +3996,7 @@ mde
 mdep
 mdi
 mdm
+mdop
 mdt
 mdx
 me4024
@@ -4136,7 +4115,6 @@ mim
 mime
 mimekit
 min
-mindmeister
 minecraft
 miniconda
 minifier
@@ -4391,10 +4369,10 @@ network
 network adapter configuration operating os optical sensor physical pointing portable printer processor cpu refrigaration cooling cooler removable usb sd ram dimm scsi sound audio card enclosure tape temperature touchpad touch pad touchscreen screen trackball trackpoint video graphics voltage psmodule
 network-credentials
 network-info
+networkanalytics
 networkcloud
 networkcontroller
 networkdiscovery
-networkdrives
 networkfirewall
 networkfunction
 networkinfo
@@ -4405,7 +4383,6 @@ networkpolicyserver
 networkscan
 networksecurity
 networksecuritygroup
-networkshares
 netwrix
 new
 new-completionresult
@@ -4655,7 +4632,6 @@ openid
 openidconnect
 openinghours
 openport
-openprovider
 openscad
 opensearch
 opensource
@@ -4717,7 +4693,6 @@ osdupdate
 osi
 osm
 osmanagement
-osmanagementhub
 osp
 ospgateway
 osprovision
@@ -4735,8 +4710,6 @@ otp
 ou
 ou-object
 oui-search
-oura
-ouraring
 out-consolegridview
 out-default
 out-gridview
@@ -4840,7 +4813,6 @@ passwordstate
 passwordtool
 passwordvault
 passwordwolf
-paste
 patch
 patches
 patching
@@ -4899,7 +4871,6 @@ pf
 pfe
 pfsense
 pfx
-pfy
 pgp
 phabricator
 philips
@@ -5083,7 +5054,6 @@ poshy-wrap-ruby
 poshy-wrap-systemctl
 poshy-wrap-terraform
 poshy-wrap-terragrunt
-poshy-wrap-tmux
 poshy-wrap-vagrant
 poshy-wrap-vault
 poshy-wrap-vscode
@@ -5199,6 +5169,7 @@ prefixing
 preparead
 preparealldomains
 prepareschema
+prepend
 preprocessing
 preprocessor
 presentation
@@ -6477,13 +6448,6 @@ pscommand_invoke-terragruntplan
 pscommand_invoke-terragruntplanall
 pscommand_invoke-terragruntvalidate
 pscommand_invoke-terragruntvalidateall
-pscommand_invoke-tmuxattachforterminal
-pscommand_invoke-tmuxattachforterminaldetachingothers
-pscommand_invoke-tmuxeditconfig
-pscommand_invoke-tmuxkillserver
-pscommand_invoke-tmuxkillsessionforterminal
-pscommand_invoke-tmuxlistsessions
-pscommand_invoke-tmuxnewsessionfromsource
 pscommand_invoke-vagrantdestroy
 pscommand_invoke-vagranthalt
 pscommand_invoke-vagranthostmanager
@@ -6925,8 +6889,6 @@ pscommand_syspip
 pscommand_syspip_package_location
 pscommand_syspip3
 pscommand_syspip3_package_location
-pscommand_ta
-pscommand_tad
 pscommand_test-command
 pscommand_test-d
 pscommand_test-elevation
@@ -6954,14 +6916,6 @@ pscommand_tgp
 pscommand_tgpa
 pscommand_tgv
 pscommand_tgva
-pscommand_tkss
-pscommand_tksv
-pscommand_tl
-pscommand_tmuxconf
-pscommand_ts
-pscommand_txa
-pscommand_txl
-pscommand_txn
 pscommand_universalarchive
 pscommand_update-gitbranchbasefrombranchmain
 pscommand_update-gitbranchbasefrommain
@@ -7886,13 +7840,6 @@ psfunction_invoke-terragruntplan
 psfunction_invoke-terragruntplanall
 psfunction_invoke-terragruntvalidate
 psfunction_invoke-terragruntvalidateall
-psfunction_invoke-tmuxattachforterminal
-psfunction_invoke-tmuxattachforterminaldetachingothers
-psfunction_invoke-tmuxeditconfig
-psfunction_invoke-tmuxkillserver
-psfunction_invoke-tmuxkillsessionforterminal
-psfunction_invoke-tmuxlistsessions
-psfunction_invoke-tmuxnewsessionfromsource
 psfunction_invoke-vagrantdestroy
 psfunction_invoke-vagranthalt
 psfunction_invoke-vagranthostmanager
@@ -8265,7 +8212,6 @@ pssqlserverbynarymodule
 pssqlservermodule
 psst
 psstgenerator
-pstablacus
 pstanss
 psthread
 pstk
@@ -8669,7 +8615,6 @@ rightjoin
 rights
 rightsizing
 rightsmanagement
-ring
 ripe
 risk
 riskiq
@@ -8792,7 +8737,6 @@ sap
 sapazure
 saponazure
 sapstartstopazure
-sarcasm
 sarif
 sas
 sat
@@ -9223,6 +9167,7 @@ sni
 snipe-it
 snippet
 snippets
+snippets-manager
 snippit
 snmp
 snmpget
@@ -9419,8 +9364,6 @@ stan
 stanc
 standalone
 standard
-standarderror
-standardoutput
 stansummary
 start
 start-job
@@ -9449,7 +9392,6 @@ statusmonitor
 statusreportingcomponent
 staytus
 stderr
-stdio
 stdout
 steam
 steam-games
@@ -9599,7 +9541,6 @@ syskit
 syslog
 sysman
 sysmon
-sysop
 syspass
 syspip
 syspip3
@@ -9631,7 +9572,6 @@ tab-expansion
 tabcompletion
 tabexpansion
 tabexpansion2
-tablacus
 table
 tableau
 tableauserver
@@ -9828,7 +9768,6 @@ tls12
 tlsa
 tlsprotocol
 tlsrpt
-tmux
 to-do
 toast
 toasts
@@ -9842,6 +9781,7 @@ token
 tokenlifetime
 tokens
 toml
+tonoref
 tookit
 tool
 toolbox
@@ -9908,7 +9848,6 @@ treesize
 treffynnon
 trein
 trello
-trellops
 trend
 trend-micro
 trendmicro
@@ -10117,7 +10056,6 @@ upgrade
 uplift
 uplink
 ups
-upsource
 upstream
 uptime
 uptimerobot
@@ -10297,7 +10235,6 @@ vmgroup
 vmhost
 vmhostgroup
 vmhostnetworkadapater
-vmmanagement
 vmnic
 vmrole
 vmss
@@ -10449,7 +10386,6 @@ webservice
 webservices
 website
 websites
-websocket
 websockets
 websphere
 websphereappserver
@@ -10520,7 +10456,6 @@ windows-explorer
 windows-features
 windows-firewall
 windows-path
-windows-powershell
 windows-registry
 windows-remoting
 windows-server-2016
@@ -10694,8 +10629,6 @@ wvd
 www
 x-cart
 x.509
-x1
-x2
 x509
 x509cerificate
 x509cerificate2
@@ -10742,7 +10675,6 @@ xprotect
 xpt
 xrm
 xsa
-xtremio
 xtrude
 xunit
 xwiki
