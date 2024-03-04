@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 04 March 2024 02:09:50 UTC
+Updated: Monday, 04 March 2024 10:21:15 UTC
 
 .bat
 .env
@@ -944,6 +944,7 @@ bulletin
 bullhorn
 bundle
 bup
+burnttoast
 burpsuite
 bus
 business
@@ -1589,6 +1590,7 @@ csproj
 css
 csv
 csv2adx
+csvhelper
 ctf
 ctglobal
 ctl
@@ -1960,6 +1962,7 @@ diving
 division
 divoom
 dkim
+dkschrutebeets
 dl
 dll
 dlmautomation
@@ -2263,6 +2266,7 @@ enterprisevoice
 entity
 entityframework
 entra
+entra-id
 entraid
 entropy
 enum
@@ -2304,7 +2308,6 @@ escapesequences
 escaping
 ese
 esent
-esoteric
 esp
 esp-idf
 esp32
@@ -2505,6 +2508,7 @@ fifa
 figlet
 file
 file-association
+file-copy
 file-encoding
 file-extension
 file-extension-association
@@ -2553,6 +2557,7 @@ filesystemwatcher
 filetransfer
 filetype
 filewrite
+fill
 film
 filter
 filter-item
@@ -2937,6 +2942,7 @@ groupmembership
 grouppolicy
 groups
 grouvee
+growlnotify
 grr
 gsuite
 gtx1080ti
@@ -2982,6 +2988,7 @@ hanaon
 handle
 handler
 hangouts
+hannelstoolbox
 hanwha
 har
 hard
@@ -3274,6 +3281,7 @@ impala
 impersonation
 imperva
 import
+import-csv
 import-dtdriverpackpackagedefinitionsms
 import-modulefrompath
 import-passlist
@@ -3292,6 +3300,7 @@ index
 indexdb
 indicator
 inedo
+inetfwrule
 inetum
 infinity
 influx
@@ -3565,6 +3574,7 @@ katakana
 kb
 kbarticle
 kdbx
+kdialog
 keenetic
 keepachangelog
 keepass
@@ -3714,8 +3724,6 @@ library
 libvirt
 licence
 license
-license-generator
-licenseautomation
 licensemanagement
 licensemanager
 licensereport
@@ -4010,7 +4018,6 @@ mde
 mdep
 mdi
 mdm
-mdop
 mdt
 mdx
 me4024
@@ -4367,6 +4374,7 @@ netappfiles
 netbox
 netcease
 netcore
+netfirewallrule
 netherlands
 netmap
 netmask
@@ -4383,7 +4391,6 @@ network
 network adapter configuration operating os optical sensor physical pointing portable printer processor cpu refrigaration cooling cooler removable usb sd ram dimm scsi sound audio card enclosure tape temperature touchpad touch pad touchscreen screen trackball trackpoint video graphics voltage psmodule
 network-credentials
 network-info
-networkanalytics
 networkcloud
 networkcontroller
 networkdiscovery
@@ -4474,8 +4481,10 @@ notes
 notification
 notificationhubs
 notifications
+notifu
 notify
 notify-send
+notify-send-wsl
 nova
 npgsql
 npm
@@ -4610,6 +4619,7 @@ oneloginapi
 onenote
 onestools
 onesubscription
+onetimesecret
 oneviewglobaldashboard
 online
 online-backup
@@ -4644,6 +4654,7 @@ openholidaysapi
 openid
 openidconnect
 openinghours
+openport
 openprovider
 openscad
 opensearch
@@ -4724,6 +4735,8 @@ otp
 ou
 ou-object
 oui-search
+oura
+ouraring
 out-consolegridview
 out-default
 out-gridview
@@ -4835,6 +4848,7 @@ path
 pathfinder
 patternmatching
 pause
+pax8
 payload
 paylocity
 paypal
@@ -4948,10 +4962,11 @@ player
 playlists
 playwright
 pleasant
-pleasantpasswordserver
+plex
 plist
 plog
 plot
+plug-n-copy
 plugin
 plugins
 pluralsight
@@ -5033,6 +5048,7 @@ poshy-ls-isms
 poshy-lucidity
 poshy-multimedia
 poshy-net
+poshy-notify-send
 poshy-sh-isms
 poshy-sshconfig
 poshy-viewer-finder
@@ -5183,7 +5199,6 @@ prefixing
 preparead
 preparealldomains
 prepareschema
-prepend
 preprocessing
 preprocessor
 presentation
@@ -6750,6 +6765,7 @@ pscommand_nmap_ping_through_firewall
 pscommand_nmap_slow
 pscommand_nmap_traceroute
 pscommand_nmap_web_safe_osscan
+pscommand_notify-send-fallback
 pscommand_npm-disable-proxy
 pscommand_npm-enable-proxy
 pscommand_npm-show-proxy
@@ -8012,6 +8028,7 @@ psfunction_nmap_ping_through_firewall
 psfunction_nmap_slow
 psfunction_nmap_traceroute
 psfunction_nmap_web_safe_osscan
+psfunction_notify-send-fallback
 psfunction_npm-disable-proxy
 psfunction_npm-enable-proxy
 psfunction_npm-show-proxy
@@ -8652,6 +8669,7 @@ rightjoin
 rights
 rightsizing
 rightsmanagement
+ring
 ripe
 risk
 riskiq
@@ -9205,7 +9223,6 @@ sni
 snipe-it
 snippet
 snippets
-snippets-manager
 snippit
 snmp
 snmpget
@@ -9654,6 +9671,7 @@ taxonomy
 tcp
 tcp/ip
 tcpip
+tcpport
 tcprjmgmt
 tcpserver
 tcptest
@@ -9700,6 +9718,7 @@ terminal
 terminal-interface
 terminal-services
 terminal.gui
+terminalnotifier
 terminalvelocity
 termset
 terraform
@@ -9889,6 +9908,7 @@ treesize
 treffynnon
 trein
 trello
+trellops
 trend
 trend-micro
 trendmicro
@@ -10135,7 +10155,6 @@ userrights
 userrightsassignment
 users
 userworkstations
-usg
 usps
 utc
 utf-8
@@ -10183,6 +10202,7 @@ vba
 vbaproject
 vbproj
 vbr
+vbscript
 vbsinst
 vc
 vccmdlets
@@ -10277,6 +10297,7 @@ vmgroup
 vmhost
 vmhostgroup
 vmhostnetworkadapater
+vmmanagement
 vmnic
 vmrole
 vmss
@@ -10360,6 +10381,7 @@ w3svc
 w3w
 waa
 waas
+wac
 waf
 wait4x
 waitforobject
@@ -10509,6 +10531,7 @@ windows10
 windows10mui
 windows11
 windows365
+windowsadmincenter
 windowsaudit
 windowsbuilds
 windowscredential
