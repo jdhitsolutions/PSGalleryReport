@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Thursday, 07 March 2024 01:53:52 UTC
+Updated: Thursday, 07 March 2024 09:52:02 UTC
 
 .bat
 .env
@@ -19,6 +19,7 @@ Updated: Thursday, 07 March 2024 01:53:52 UTC
 🍄
 🍣
 💩
+🙇
 10
 11
 1607
@@ -224,6 +225,8 @@ adwords
 adx
 adxingestion
 aem
+aeries
+aeriessis
 aes
 afd
 affinity
@@ -259,7 +262,6 @@ aka.ms
 aks
 aks-hci
 akscluster
-al
 alac
 alarm
 alb
@@ -441,6 +443,7 @@ archlinux
 arcresourcebridge
 arcus
 area
+arg
 argcomplete
 argument
 argumentcompleter
@@ -468,6 +471,7 @@ asbuiltreport
 asc
 ascii
 ascii85
+asciiart
 asdatabase
 asigra
 asjob
@@ -620,7 +624,6 @@ azcompute
 azd
 azdisk
 azdo
-azereo
 azforensics
 azkeyvault
 aznetworking
@@ -689,7 +692,6 @@ azuremigrate
 azuremonitor
 azurenetworking
 azurepack
-azurepipelines
 azurepolicy
 azurepowershell
 azurerepos
@@ -726,7 +728,6 @@ backblaze
 backconnection
 backconnectionhostname
 backup
-backup_validation
 bamboo
 bamboohr
 bandwidth
@@ -858,6 +859,7 @@ blueteam
 bluetraitio
 bluetuxedo
 bmc
+bnm
 boards
 bofh
 boilerplate
@@ -910,6 +912,7 @@ broot
 brownserve-uk
 browser
 browserbox
+browserextension
 browserhistory
 browsing
 brs
@@ -923,7 +926,6 @@ bugzilla
 build
 build-log
 build-scripts
-builddefinition
 builder
 building
 buildingfile
@@ -990,7 +992,6 @@ capture
 carbon
 carbonawarecomputing
 carbonintensity
-card
 cardwirth
 cargo
 carousel
@@ -1236,7 +1237,6 @@ cmake
 cmakepresets.json
 cmbuild
 cmclibnet
-cmclustermaintenance
 cmd
 cmdb
 cmdkey
@@ -1365,6 +1365,7 @@ conda
 condition
 conditionalaccess
 conduit
+conference
 confidentialclient
 confidentialledger
 config
@@ -1608,6 +1609,7 @@ custom
 customchecks
 customdns
 customer
+customerengagement
 customers
 customeventchannel
 customeventlog
@@ -1646,6 +1648,7 @@ cylance
 cypher
 cyrillic
 d365
+d365ce
 d365fo
 daas
 dac
@@ -1872,7 +1875,6 @@ di
 diagnostic
 diagnostics
 diagram
-diagrammer
 diagrams
 dialog
 dice
@@ -1935,7 +1937,6 @@ dism
 dismal
 display
 displayresolution
-distance
 distinguishedname
 distributed-systems
 distributed-tracing
@@ -2138,7 +2139,9 @@ dynamics
 dynamics-365
 dynamics-crm
 dynamics365
+dynamics365ce
 dynamics365fo
+dynamics365sales
 dynamics365server
 dynamicsax
 dynamicsecuritygroups
@@ -2208,7 +2211,6 @@ emailautomation
 emailmanagment
 emailnotification
 emailnotificationcomponent
-emailsecurity
 embedded
 emc
 emcomm
@@ -2262,7 +2264,6 @@ enumerable
 env
 environment
 environment-variables
-environmentmanagent
 environmentmodules
 environments
 environmentvariable
@@ -2432,6 +2433,7 @@ extendscript
 extensibility
 extension
 extensionmethods
+extensionrisk
 extensions
 external
 externalip
@@ -2752,6 +2754,7 @@ generates
 generatewif
 generation
 generativeai
+generativeaiinference
 generator
 generic
 genericartifactscontent
@@ -3241,27 +3244,18 @@ ilocmdlets
 im
 image
 image-converter
-image-creation
-image-generation
-image-process
-image-validation
 imagebuilder
-imagecreate
-imagecreation
-imagegeneration
 imageoftheday
-imageprocess
 imageprocessing
 images
 imageservicing
 imageslide
-imagevalidate
-imagevalidation
 imagga
 imagination
 imaging
 imap
 imb
+imei
 imi
 impala
 impersonation
@@ -3807,6 +3801,7 @@ log4net
 loganalytics
 logbook
 logcat
+logentry
 logfile
 logfilearchivearchive
 logfilemanagement psmodule
@@ -3847,7 +3842,6 @@ logs
 logstash
 logtools
 logz
-loki
 lol
 lolcat
 longfile
@@ -3898,7 +3892,6 @@ magicpacket
 magnet
 mail
 mailbox
-mailchimp
 mailgroup
 mailgroupmember
 mailing
@@ -3967,7 +3960,6 @@ marvellfcprovider
 marvellqlogicfcpowerkit
 mas
 mask
-mass
 masstransit
 masterconfiguration
 match
@@ -4168,6 +4160,7 @@ moduleupdateinfo
 moduleupdater
 moduleversion
 mof
+moldova
 moment
 monaco
 monday
@@ -4238,7 +4231,6 @@ msi psmodule
 msiexec
 msil
 msix
-mslab
 msmq
 msol
 msoms
@@ -4673,7 +4665,6 @@ optimizer
 option
 option119
 options
-optionstring
 opus
 oracle
 oraclecloudinfrastructure
@@ -4963,7 +4954,6 @@ ply
 pmp
 pncit
 pnp
-pnp.powershell
 pnpm
 pode
 poe
@@ -5180,7 +5170,6 @@ pq
 pranks
 predicate
 prediction
-predictive
 predictive-text
 predictor
 preferences
@@ -5192,6 +5181,7 @@ prepareschema
 prepend
 preprocessing
 preprocessor
+presentation
 presenter
 presto
 preston-k-parsard
@@ -8505,7 +8495,6 @@ regex
 region
 regions
 regiser-argumentcompleter
-register
 register-argumentcompleter
 registered
 registrar
@@ -8519,7 +8508,6 @@ reinstall
 relational
 relay
 release
-releasedefinition
 releasehealth
 releasemanagement
 releasenotes
@@ -8606,6 +8594,7 @@ resource_monitor
 resource_watcher
 resourceaccount
 resourcecontroller
+resourcegraph
 resourcegroup
 resourceid
 resourcekit
@@ -8804,7 +8793,6 @@ scan
 scanner
 scap
 scatter
-scb
 scc
 sccm
 sccmam
@@ -9288,12 +9276,12 @@ spdx-license-identifier:ms-pl
 spe
 speach
 speak
+speaker
 spec
 specification
 specify
 spectre
 spectrumconnect
-spectrumcontrolbase
 speculation
 speculationcontrol
 speech
@@ -9304,7 +9292,6 @@ speedtester
 spellcheck
 spelling
 spf
-spfx
 spi
 spicetify
 spinnaker
@@ -9652,7 +9639,6 @@ task-runner
 task-scheduler
 taskbar
 tasker
-taskgroup
 taskmanagement
 tasks
 taskscheduler
@@ -9729,10 +9715,10 @@ test-samcmapplicationexists
 test-samcmpackageexists
 test-userisadministrator
 test-xml
+test123
 testaccount
 testautomation
 tester
-testimonial
 testing
 testlab
 testplans
@@ -10072,7 +10058,6 @@ unique-files
 unit
 unit_testing
 unit-testing
-unitconvesion
 unittest
 unittesting
 unity
@@ -10222,6 +10207,8 @@ venue
 venvlink
 vera
 veracrypt
+verbose psmodule
+verification
 verify
 version
 versioning
@@ -10367,6 +10354,7 @@ vxrail
 w32time
 w365
 w3svc
+w3w
 waa
 waas
 wac
@@ -10391,7 +10379,6 @@ warraty
 warrenty
 wasabi
 watch
-watchdog
 watchmen
 watery
 wave
@@ -10456,6 +10443,7 @@ wem
 wemsdk
 wer
 wget
+what3words
 whatismyip
 whatsnew
 whatsupgold
