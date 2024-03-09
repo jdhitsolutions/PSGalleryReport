@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Saturday, 09 March 2024 09:51:46 UTC
+Updated: Saturday, 09 March 2024 17:51:44 UTC
 
 .bat
 .env
@@ -415,6 +415,7 @@ appventix
 appveyor
 appvolumes
 appx
+appxmanifest
 aprs
 aprs-is
 aprsis
@@ -471,7 +472,6 @@ asbuiltreport
 asc
 ascii
 ascii85
-asciiart
 asdatabase
 asigra
 asjob
@@ -515,6 +515,7 @@ atom
 atp
 atrium
 att&ck
+attach
 attestation
 attila
 attribute
@@ -700,6 +701,7 @@ azurepowershell
 azurerepos
 azureresourcemanager
 azureresources
+azureresourcestuff
 azurerestapispecs
 azurerm
 azurerms
@@ -883,7 +885,6 @@ bootstrap
 bootstrapping
 bop
 bot
-bots
 botservice
 bouncer
 boundaries
@@ -1020,7 +1021,6 @@ cavium
 cb
 cblueshell
 cbr
-cbz
 cchoco
 cchocoex
 ccm
@@ -1097,10 +1097,6 @@ checklists
 checkpoint
 checks
 checksum
-chef
-chef-automate
-chef-compliance
-chef-server
 chefconf2016
 chenxizhang
 cherrypy
@@ -1437,6 +1433,8 @@ continious-integration
 continiousintergration
 continous
 continuous
+continuous-delivery
+continuous-deploy
 continuous-deployment
 continuous-integration
 continuousdelivery
@@ -1642,6 +1640,7 @@ cx
 cyber
 cyberark
 cyberark-api
+cyberark-dpa
 cyberark-identity
 cyberdrain
 cybereason
@@ -1825,6 +1824,7 @@ dependency
 dependencysearch
 deploy
 deployment
+deploymentconfig
 deploymentmanager
 deploymentresourceprovider
 depute
@@ -1832,7 +1832,6 @@ der
 description
 deserialize
 design
-design-pattern
 desired
 desiredstate
 desiredstateconfiguration
@@ -1974,6 +1973,7 @@ dmi
 dmtf
 dmx
 dnd
+dnf
 dns
 dns-01
 dns-administration
@@ -2138,6 +2138,7 @@ dword
 dxexpeditions
 dynamic
 dynamic-host-configuration-protocol
+dynamic-privileged-access
 dynamicdistributiongroups
 dynamicdnsoverhttps
 dynamicparam
@@ -2361,6 +2362,7 @@ evernote
 everydaypowershell
 everydayrewards
 everything
+evilprince2009
 evolutionary-algorithms
 evolutionary-database
 evtx
@@ -2722,7 +2724,6 @@ gainz
 gainz-chocolateysync
 gainz-keepass
 gainz-sqldb
-gal
 gallery
 game
 gamecategory:cards
@@ -2762,7 +2763,6 @@ generates
 generatewif
 generation
 generativeai
-generativeaiinference
 generator
 generic
 genericartifactscontent
@@ -2858,7 +2858,6 @@ glob
 globalclipboard
 globaldashboard
 globalentry
-globallydistributeddatabase
 globbing
 glpi
 gmail
@@ -2949,7 +2948,6 @@ guardicore
 gubbins
 guest
 guestconfiguration
-guests
 gui
 gui.cs
 guid
@@ -3052,7 +3050,6 @@ helper-functions
 helperfunctions
 helpers
 helpfile
-helpful
 heml
 here
 hewlett
@@ -3599,12 +3596,14 @@ keymapping
 keypair
 keysms
 keyvault
+keywords
 kibana
 kickstart
 kidrsa
 kill
 kindle
 kinetic
+kinopoisk
 kintone
 klantcontroles
 kms
@@ -3615,10 +3614,10 @@ knowbe4
 knowledge
 knowledgebase
 koans
+kodi
 korn
 kotlin
 kql
-kraken
 krbtgt
 krick
 kschemaplugin
@@ -4302,7 +4301,6 @@ mutation
 mute
 mutex
 mva
-mvc
 mvn
 mvp
 mx
@@ -5026,6 +5024,7 @@ posh-chocobear
 posh-direnv
 posh-git
 posh-ribbon
+posh-ssh
 poshbot
 poshcommence
 poshevents
@@ -5060,6 +5059,7 @@ poshy-wrap-apt
 poshy-wrap-argcomplete
 poshy-wrap-brew
 poshy-wrap-curl
+poshy-wrap-dnf
 poshy-wrap-docker
 poshy-wrap-docker-compose
 poshy-wrap-dotnet
@@ -5080,7 +5080,6 @@ poshy-wrap-pip
 poshy-wrap-pipenv
 poshy-wrap-pyenv
 poshy-wrap-pylint
-poshy-wrap-python
 poshy-wrap-ruby
 poshy-wrap-systemctl
 poshy-wrap-terraform
@@ -5197,6 +5196,7 @@ predictive-text
 predictor
 preferences
 prefix
+prefixing
 preparead
 preparealldomains
 prepareschema
@@ -5205,6 +5205,7 @@ preprocessing
 preprocessor
 presentation
 presenter
+presto
 preston-k-parsard
 prettifier
 pretty
@@ -5240,7 +5241,6 @@ privileges
 pro
 probe
 process
-process-inspector
 processing
 processmitigation
 processor
@@ -5333,7 +5333,6 @@ psbbix
 psbicep
 psclient
 pscmdlet
-pscommand__python3
 pscommand_--
 pscommand_..
 pscommand_...
@@ -5491,6 +5490,19 @@ pscommand_dlo
 pscommand_dnc
 pscommand_dncn
 pscommand_dndcn
+pscommand_dnfc
+pscommand_dnfgi
+pscommand_dnfgl
+pscommand_dnfgr
+pscommand_dnfi
+pscommand_dnfl
+pscommand_dnfli
+pscommand_dnfmc
+pscommand_dnfp
+pscommand_dnfr
+pscommand_dnfri
+pscommand_dnfs
+pscommand_dnfu
 pscommand_dni
 pscommand_dnls
 pscommand_dnrm
@@ -6044,6 +6056,19 @@ pscommand_invoke-curlfollowingredirectsdownloadasnamedcontinue
 pscommand_invoke-curlfollowingredirectsdownloadasnamedcontinueandretry
 pscommand_invoke-curlfollowingredirectsfetchbanner
 pscommand_invoke-curlonlyforgetresponseheaders
+pscommand_invoke-dnfcleanall
+pscommand_invoke-dnfgrouplist
+pscommand_invoke-dnfgrouppinstall
+pscommand_invoke-dnfgroupremove
+pscommand_invoke-dnfinfo
+pscommand_invoke-dnfinstall
+pscommand_invoke-dnflist
+pscommand_invoke-dnflistinstalled
+pscommand_invoke-dnfmakecache
+pscommand_invoke-dnfreinstall
+pscommand_invoke-dnfremove
+pscommand_invoke-dnfsearch
+pscommand_invoke-dnfupgrade
 pscommand_invoke-dockercomposebuild
 pscommand_invoke-dockercomposedown
 pscommand_invoke-dockercomposeexec
@@ -6560,8 +6585,6 @@ pscommand_invoke-zypperversioncompare
 pscommand_invoke-zypperwhatprovides
 pscommand_invokeyumgrouplist
 pscommand_ips
-pscommand_ipy
-pscommand_ipython
 pscommand_jump
 pscommand_k
 pscommand_kaf
@@ -6809,12 +6832,8 @@ pscommand_pushgr
 pscommand_pvenv
 pscommand_pwh
 pscommand_pwshrc-show-proxy
-pscommand_py
 pscommand_pyenv
 pscommand_pylint-quick
-pscommand_pyserver
-pscommand_python
-pscommand_python3
 pscommand_rb
 pscommand_read-dotenv
 pscommand_register-argcompleteargumentcompleter
@@ -6881,7 +6900,6 @@ pscommand_set-locationup5
 pscommand_sgem
 pscommand_show-gitremote
 pscommand_show-proxy
-pscommand_shttp
 pscommand_shuf
 pscommand_sl
 pscommand_ssh-add-all
@@ -7103,6 +7121,7 @@ psdesiredstateconfiguration
 psdevops
 psdocs
 psdocs-documents
+psdocsgenerator
 psdrawio
 psdrive
 psdrives
@@ -7134,7 +7153,6 @@ psfitbit
 psfive9
 psfive9admin
 psfoldersize
-psfunction__python3
 psfunction_aar
 psfunction_add_ssh
 psfunction_add-envpathitem
@@ -7439,6 +7457,19 @@ psfunction_invoke-curlfollowingredirectsdownloadasnamedcontinue
 psfunction_invoke-curlfollowingredirectsdownloadasnamedcontinueandretry
 psfunction_invoke-curlfollowingredirectsfetchbanner
 psfunction_invoke-curlonlyforgetresponseheaders
+psfunction_invoke-dnfcleanall
+psfunction_invoke-dnfgrouplist
+psfunction_invoke-dnfgrouppinstall
+psfunction_invoke-dnfgroupremove
+psfunction_invoke-dnfinfo
+psfunction_invoke-dnfinstall
+psfunction_invoke-dnflist
+psfunction_invoke-dnflistinstalled
+psfunction_invoke-dnfmakecache
+psfunction_invoke-dnfreinstall
+psfunction_invoke-dnfremove
+psfunction_invoke-dnfsearch
+psfunction_invoke-dnfupgrade
 psfunction_invoke-dockercomposebuild
 psfunction_invoke-dockercomposedown
 psfunction_invoke-dockercomposeexec
@@ -8015,7 +8046,6 @@ psfunction_publish-gitrepositorytosvn
 psfunction_push-gitstashentry
 psfunction_push-gitstashentrywithmessage
 psfunction_pwshrc-show-proxy
-psfunction_pyserver
 psfunction_read-dotenv
 psfunction_register-argcompleteargumentcompleter
 psfunction_remove-dockercontainerall
@@ -8077,7 +8107,6 @@ psfunction_set-locationup4
 psfunction_set-locationup5
 psfunction_show-gitremote
 psfunction_show-proxy
-psfunction_shttp
 psfunction_shuf
 psfunction_ssh-add-all
 psfunction_ssh-disable-proxy
@@ -8266,7 +8295,6 @@ puppetdb
 puppy
 pure
 pure1
-pureservice
 purestorage
 purple
 purview
@@ -8296,7 +8324,6 @@ pylint
 pyranja
 python
 python-for-dotnet
-python3
 qcloud
 qconvergeconsolepowerkit
 qemu
@@ -8860,6 +8887,7 @@ sdn
 sdp
 search
 search-adminauditlog
+search-engines
 searchengine
 searcher
 searching
@@ -9836,7 +9864,6 @@ tracert
 tracing
 tracker
 tracking
-trading
 traffic
 trafficfiltering
 trafficmanager
@@ -10704,7 +10731,6 @@ xpendingreboot
 xpertdoc
 xpo
 xprotect
-xpt
 xrm
 xsa
 xtremio
