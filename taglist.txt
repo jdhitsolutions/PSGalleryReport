@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Friday, 08 March 2024 17:51:48 UTC
+Updated: Saturday, 09 March 2024 01:59:06 UTC
 
 .bat
 .env
@@ -28,6 +28,7 @@ Updated: Friday, 08 March 2024 17:51:48 UTC
 1803
 1809
 1c
+1e
 1password
 1poshword
 200
@@ -76,6 +77,7 @@ about
 abr
 abstractsyntaxtree
 abuse
+abuseipdb
 acas
 accelerator
 access
@@ -123,6 +125,7 @@ activedirectoryauthenticationlibrary
 activedirectorycertificateservices
 activedirectoryfederationservices
 activedirectry-html
+activeefficiency
 activehours
 activeresponse
 activesession
@@ -751,6 +754,7 @@ base85
 basecamp
 based
 baseline
+basename
 bash
 basic
 bastion
@@ -761,6 +765,7 @@ batchclass
 batman
 battery
 bayern
+bazzo
 bb
 bbp
 bc
@@ -1017,6 +1022,7 @@ cavium
 cb
 cblueshell
 cbr
+cbz
 cchoco
 cchocoex
 ccm
@@ -1104,6 +1110,7 @@ cherwell
 chfs
 chi
 china
+chmod
 choco
 choco-bear
 chocobear
@@ -1361,7 +1368,6 @@ computer-site
 computername
 computers
 computersite
-concur
 concurrency
 concurrent
 conda
@@ -1486,6 +1492,7 @@ coreepower.module
 coreepower.net
 coreepower.net.soundcloudexplode
 coreposh
+coreutils
 corona
 cortex
 cos
@@ -1635,6 +1642,7 @@ cvrf
 cvss
 cwi
 cx
+cyber
 cyberark
 cyberark-api
 cyberark-dpa
@@ -1909,6 +1917,7 @@ directorysecurity
 directrouting
 direnv
 dirkjan
+dirname
 dirsync
 disa
 disable
@@ -2399,6 +2408,7 @@ exexml
 exif
 exiftool
 exists
+exitcode
 exitprocessrequest
 exo
 exov2
@@ -2965,6 +2975,7 @@ gzip-compression
 ha
 haarlemsdagblad
 hack
+hacking
 hacktoberfest
 hadoop
 hafr
@@ -4403,7 +4414,6 @@ networkloadbalancer
 networkpolicyserver
 networkscan
 networksecurity
-networksecuritygroup
 networkshares
 netwrix
 new
@@ -4846,12 +4856,14 @@ patching
 path
 pathfinder
 patternmatching
+paulobazzo
 pause
 pax8
 payload
 paylocity
 paypal
 pays
+pb
 pbench
 pbip
 pc
@@ -5040,6 +5052,7 @@ poshtemplate
 poshwsus
 poshy-code-search
 poshy-colors
+poshy-coreutils-ish
 poshy-dir-nav
 poshy-ecks
 poshy-env-proxy
@@ -5078,6 +5091,7 @@ poshy-wrap-pip
 poshy-wrap-pipenv
 poshy-wrap-pyenv
 poshy-wrap-pylint
+poshy-wrap-python
 poshy-wrap-ruby
 poshy-wrap-systemctl
 poshy-wrap-terraform
@@ -5332,6 +5346,7 @@ psbbix
 psbicep
 psclient
 pscmdlet
+pscommand__python3
 pscommand_--
 pscommand_..
 pscommand_...
@@ -5373,7 +5388,9 @@ pscommand_allpkgs
 pscommand_app
 pscommand_apt-history
 pscommand_apt-list-packages
+pscommand_arch
 pscommand_asrc
+pscommand_basename
 pscommand_bcubc
 pscommand_bcubo
 pscommand_bfu
@@ -5417,6 +5434,7 @@ pscommand_cloc
 pscommand_clocr
 pscommand_confirm-gitbisectcommitbad
 pscommand_confirm-gitbisectcommitgood
+pscommand_convertto-nixmode
 pscommand_convertto-rgb
 pscommand_d
 pscommand_d64
@@ -5454,6 +5472,7 @@ pscommand_dii
 pscommand_dils
 pscommand_dipu
 pscommand_dirm
+pscommand_dirname
 pscommand_disable-proxy
 pscommand_dit
 pscommand_dk
@@ -5803,6 +5822,7 @@ pscommand_get-gittaglist
 pscommand_get-gittrackedfiles
 pscommand_get-gituntrackedfiles
 pscommand_get-gitwhatchangedstylized
+pscommand_get-itemnixmode
 pscommand_get-netipaddresspublic
 pscommand_get-netipaddresssimple
 pscommand_get-pwshaliasdefinition
@@ -6022,6 +6042,7 @@ pscommand_gwc
 pscommand_gwch
 pscommand_h
 pscommand_hin
+pscommand_hostname
 pscommand_hse
 pscommand_hup
 pscommand_invoke-aptcachepolicy
@@ -6578,6 +6599,8 @@ pscommand_invoke-zypperversioncompare
 pscommand_invoke-zypperwhatprovides
 pscommand_invokeyumgrouplist
 pscommand_ips
+pscommand_ipy
+pscommand_ipython
 pscommand_jump
 pscommand_k
 pscommand_kaf
@@ -6825,8 +6848,12 @@ pscommand_pushgr
 pscommand_pvenv
 pscommand_pwh
 pscommand_pwshrc-show-proxy
+pscommand_py
 pscommand_pyenv
 pscommand_pylint-quick
+pscommand_pyserver
+pscommand_python
+pscommand_python3
 pscommand_rb
 pscommand_read-dotenv
 pscommand_register-argcompleteargumentcompleter
@@ -6867,6 +6894,7 @@ pscommand_search-commandpath
 pscommand_search-ruby
 pscommand_set-envvar
 pscommand_set-gitremoteurl
+pscommand_set-itemnixmode
 pscommand_set-locationback1
 pscommand_set-locationback2
 pscommand_set-locationback3
@@ -6892,6 +6920,8 @@ pscommand_set-locationup5
 pscommand_sgem
 pscommand_show-gitremote
 pscommand_show-proxy
+pscommand_shttp
+pscommand_shuf
 pscommand_sl
 pscommand_ssh-add-all
 pscommand_ssh-disable-proxy
@@ -7144,6 +7174,7 @@ psfitbit
 psfive9
 psfive9admin
 psfoldersize
+psfunction__python3
 psfunction_aar
 psfunction_add_ssh
 psfunction_add-envpathitem
@@ -7160,6 +7191,8 @@ psfunction_add-gittrackedfilesinteractively
 psfunction_add-gittrackedfilesverbosely
 psfunction_apt-history
 psfunction_apt-list-packages
+psfunction_arch
+psfunction_basename
 psfunction_bgblack
 psfunction_bgblue
 psfunction_bgbrightblack
@@ -7182,10 +7215,12 @@ psfunction_bgyellow
 psfunction_catimg
 psfunction_confirm-gitbisectcommitbad
 psfunction_confirm-gitbisectcommitgood
+psfunction_convertto-nixmode
 psfunction_convertto-rgb
 psfunction_d
 psfunction_decode64
 psfunction_decodefile64
+psfunction_dirname
 psfunction_disable-proxy
 psfunction_docker-archive-content
 psfunction_docker-build
@@ -7379,6 +7414,7 @@ psfunction_get-gittaglist
 psfunction_get-gittrackedfiles
 psfunction_get-gituntrackedfiles
 psfunction_get-gitwhatchangedstylized
+psfunction_get-itemnixmode
 psfunction_get-netipaddresspublic
 psfunction_get-netipaddresssimple
 psfunction_get-pwshaliasdefinition
@@ -7417,6 +7453,7 @@ psfunction_git-show-proxy
 psfunction_gitignore-reload
 psfunction_gittowork
 psfunction_gplfs
+psfunction_hostname
 psfunction_invoke-aptcachepolicy
 psfunction_invoke-aptcachesearch
 psfunction_invoke-aptcacheshowpkg
@@ -8031,6 +8068,7 @@ psfunction_publish-gitrepositorytosvn
 psfunction_push-gitstashentry
 psfunction_push-gitstashentrywithmessage
 psfunction_pwshrc-show-proxy
+psfunction_pyserver
 psfunction_read-dotenv
 psfunction_register-argcompleteargumentcompleter
 psfunction_remove-dockercontainerall
@@ -8067,6 +8105,7 @@ psfunction_search-commandpath
 psfunction_search-ruby
 psfunction_set-envvar
 psfunction_set-gitremoteurl
+psfunction_set-itemnixmode
 psfunction_set-locationback1
 psfunction_set-locationback2
 psfunction_set-locationback3
@@ -8091,6 +8130,8 @@ psfunction_set-locationup4
 psfunction_set-locationup5
 psfunction_show-gitremote
 psfunction_show-proxy
+psfunction_shttp
+psfunction_shuf
 psfunction_ssh-add-all
 psfunction_ssh-disable-proxy
 psfunction_ssh-enable-proxy
@@ -8308,6 +8349,7 @@ pylint
 pyranja
 python
 python-for-dotnet
+python3
 qcloud
 qconvergeconsolepowerkit
 qemu
@@ -8755,6 +8797,7 @@ saml psmodule
 saml2
 sample
 sampler
+samurai
 san
 sand
 sandbox
@@ -8937,6 +8980,7 @@ self
 self-hosted
 self-service
 self-signed
+selfdispatch
 selfhelp
 selfsigned
 semantic
@@ -9088,6 +9132,7 @@ show-on-command
 showdemo
 showoncommand
 shred
+shuf
 shutdown
 sid
 sidecar
@@ -9327,7 +9372,6 @@ sqlcodeguard
 sqldatabase
 sqldb
 sqldbatools
-sqldiagapi
 sqlexport
 sqlgateway
 sqlite
@@ -9391,6 +9435,8 @@ stan
 stanc
 standalone
 standard
+standarderror
+standardoutput
 stansummary
 start
 start-job
@@ -9419,6 +9465,7 @@ statusmonitor
 statusreportingcomponent
 staytus
 stderr
+stdio
 stdout
 steam
 steam-games
@@ -9535,6 +9582,7 @@ swimlane
 swis
 switch
 sxs
+sybase
 sybaseiq
 symantec
 symbolic
@@ -9655,6 +9703,7 @@ teamsdevices
 teamservices
 teamspolicy
 teamviewer
+techdirect
 techedna2014
 techlog
 technology
@@ -9790,8 +9839,6 @@ tip
 tips
 title
 tls
-tls11
-tls12
 tlsa
 tlsprotocol
 tlsrpt
@@ -10520,7 +10567,6 @@ windowsinternaldatabase
 windowsinternals
 windowsiotservices
 windowsiso
-windowsmanagementframework
 windowspackagemanager
 windowsplugins
 windowspowershell
@@ -10570,7 +10616,6 @@ with
 wizard
 wkhtmltopdf
 wlan
-wmf
 wmf5
 wmi
 wmifilter
@@ -10599,6 +10644,7 @@ workingtime
 workload
 workload-automation
 workloadidentity
+workloads
 workpoint
 workrequests
 worksheet
@@ -10703,7 +10749,6 @@ xmlutils
 xoauth2
 xor
 xpath
-xpendingreboot
 xpertdoc
 xpo
 xprotect
@@ -10713,7 +10758,7 @@ xsa
 xtremio
 xtrude
 xunit
-xwindowsupdate
+xwiki
 xwith
 yahoo
 yahw

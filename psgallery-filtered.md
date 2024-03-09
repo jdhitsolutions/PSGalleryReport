@@ -3,13 +3,104 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
-## [EpinovaAzureToolBucket](https://www.powershellgallery.com/Packages/EpinovaAzureToolBucket/0.15.24) | 0.15.24
+## [porthunter](https://www.powershellgallery.com/Packages/porthunter/1.5) | 1.5
 
-### Published: 03/08/2024 17:47:18 by Ove Lartelius
+### Published: 03/09/2024 01:50:19 by Paulo Bazzo - a.k.a CyberSamurai.co.uk
+
+-v1.5 Scan a list of IP on an specific port, loaded from an .txt or .csv file
+
+__Downloads__: 15 | __Repository__: 
+
+## [ShowDemo](https://www.powershellgallery.com/Packages/ShowDemo/0.1.6) | 0.1.6
+
+### Published: 03/09/2024 00:18:12 by James Brundage
+
+A simple tool to showcase your scripts.
+
+__Downloads__: 133 | __Repository__: https://github.com/StartAutomating/ShowDemo
+
+## [IDMCmdlets](https://www.powershellgallery.com/Packages/IDMCmdlets/1.0.1.9) | 1.0.1.9
+
+### Published: 03/09/2024 00:14:24 by Powershellcrack
+
+A module designed to help manage devices in Intune
+
+__Downloads__: 251 | __Repository__: https://github.com/PowerShellCrack/PSIntuneAutopilotCmdlets
+
+## [Emoji](https://www.powershellgallery.com/Packages/Emoji/0.1.4) | 0.1.4
+
+### Published: 03/08/2024 23:43:25 by James Brundage
+
+⟩⚡PowerShell Emoji 😎😉😍🥰🤔😟
+
+__Downloads__: 34 | __Repository__: https://github.com/StartAutomating/Emoji
+
+## [Posh-ACME.net46](https://www.powershellgallery.com/Packages/Posh-ACME.net46/4.21.0) | 4.21.0
+
+### Published: 03/08/2024 23:02:33 by Ryan Bolger
+
+ACME protocol client for obtaining certificates using Let''s Encrypt (or other ACME compliant CA)
+This is a custom build intended allow compatibility with .NET 4.6.1. It should not be used with PowerShell Core and you should only attempt to use RSA based key options.
+
+__Downloads__: 7,042 | __Repository__: https://github.com/rmbolger/Posh-ACME
+
+## [Posh-ACME](https://www.powershellgallery.com/Packages/Posh-ACME/4.21.0) | 4.21.0
+
+### Published: 03/08/2024 22:59:15 by Ryan Bolger
+
+ACME protocol client for obtaining certificates using Let's Encrypt (or other ACME compliant CA)
+
+__Downloads__: 1,450,578 | __Repository__: https://github.com/rmbolger/Posh-ACME
+
+## [EZOut](https://www.powershellgallery.com/Packages/EZOut/2.0.5) | 2.0.5
+
+### Published: 03/08/2024 22:53:08 by James Brundage
+
+Easily Author Rich Format Files to Customize PowerShell Output
+
+__Downloads__: 7,113 | __Repository__: https://github.com/StartAutomating/EZOut
+
+## [NVRAppDevOps](https://www.powershellgallery.com/Packages/NVRAppDevOps/2.8.1) | 2.8.1
+
+### Published: 03/08/2024 22:15:20 by Kamil Sacek
+
+cmdlets for DevOps for Business Central
+
+__Downloads__: 25,982 | __Repository__: https://www.github.com/kine/NVRAppDevOps
+
+## [EpinovaAzureToolBucket](https://www.powershellgallery.com/Packages/EpinovaAzureToolBucket/0.15.25) | 0.15.25
+
+### Published: 03/08/2024 19:23:32 by Ove Lartelius
 
 Module contain help functions for the Azure Portal.
 
 __Downloads__: 1,155 | __Repository__: 
+
+## [BenLPed.Scriptlogging](https://www.powershellgallery.com/Packages/BenLPed.Scriptlogging/1.10.0.4) | 1.10.0.4
+
+### Published: 03/08/2024 18:57:34 by Benni Ladevig Pedersen
+
+This module can help you create logging in your scripts. You can follow along live, which makes it easy to see what is happening. It also records which user runs the script, which line of the script is executed and the time. So if something goes wrong, it s easy to find out what went wrong.
+
+When you want to add something to the log, you write write-log "what needs to happen or what happens" and it is added to the log file. By default, it automatically sets 1 after "Text", but if you want to draw attention to something, you can write 2 numbers and the error text will turn yellow. If you write a number 3, the text turns red, it is only used in case of error.
+
+__Downloads__: 4 | __Repository__: https://github.com/BenLPed/BenLPed.Scriptlogging/tree/1.10.0.4
+
+## [dbatools](https://www.powershellgallery.com/Packages/dbatools/2.1.9) | 2.1.9
+
+### Published: 03/08/2024 18:49:17 by the dbatools team
+
+The community module that enables SQL Server Pros to automate database development and server administration
+
+__Downloads__: 3,792,316 | __Repository__: https://dbatools.io/
+
+## [EventLogTools](https://www.powershellgallery.com/Packages/EventLogTools/5.0.0.0) | 5.0.0.0
+
+### Published: 03/08/2024 18:03:56 by Erik Whitesides
+
+Takes output from a command and sends to Windows Event Log
+
+__Downloads__: 2,519 | __Repository__: https://github.com/ewhitesides/EventLogTools
 
 ## [BcContainerHelper](https://www.powershellgallery.com/Packages/BcContainerHelper/6.0.8) | 6.0.8
 
@@ -17,25 +108,7 @@ __Downloads__: 1,155 | __Repository__:
 
 PowerShell module, which makes it easier to work with Business Central Containers on Docker.
 
-__Downloads__: 1,736,474 | __Repository__: https://github.com/microsoft/navcontainerhelper
-
-## [BenLPed.Scriptlogging](https://www.powershellgallery.com/Packages/BenLPed.Scriptlogging/1.10.0.3) | 1.10.0.3
-
-### Published: 03/08/2024 16:31:24 by Benni Ladevig Pedersen
-
-This module can help you create logging in your scripts. You can follow along live, which makes it easy to see what is happening. It also records which user runs the script, which line of the script is executed and the time. So if something goes wrong, it s easy to find out what went wrong.
-    
-    When you want to add something to the log, you write write-log "what needs to happen or what happens" and it is added to the log file. By default, it automatically sets 1 after "Text", but if you want to draw attention to something, you can write 2 numbers and the error text will turn yellow. If you write a number 3, the text turns red, it is only used in case of error.
-
-__Downloads__: 4 | __Repository__: https://github.com/BenLPed/BenLPed.Scriptlogging/tree/1.10.0.2
-
-## [IDMCmdlets](https://www.powershellgallery.com/Packages/IDMCmdlets/1.0.1.5) | 1.0.1.5
-
-### Published: 03/08/2024 16:10:37 by Powershellcrack
-
-A module designed to help manage devices in Intune
-
-__Downloads__: 251 | __Repository__: https://github.com/PowerShellCrack/PSIntuneAutopilotCmdlets
+__Downloads__: 1,736,621 | __Repository__: https://github.com/microsoft/navcontainerhelper
 
 ## [EasyPIM](https://www.powershellgallery.com/Packages/EasyPIM/1.5.0) | 1.5.0
 
@@ -43,7 +116,7 @@ __Downloads__: 251 | __Repository__: https://github.com/PowerShellCrack/PSIntune
 
 Powershell module to manage PIM Azure Resource and PIM Entra role settings and assignments with simplicity in mind
 
-__Downloads__: 770 | __Repository__: https://github.com/kayasax/EasyPIM/
+__Downloads__: 769 | __Repository__: https://github.com/kayasax/EasyPIM/
 
 ## [IntuneWin32App](https://www.powershellgallery.com/Packages/IntuneWin32App/1.4.4) | 1.4.4
 
@@ -67,7 +140,7 @@ __Downloads__: 35,245 | __Repository__: https://github.com/microsoft/SdnDiagnost
 
 PowerShell module for listing Volkskrant articles
 
-__Downloads__: 4,466 | __Repository__: https://github.com/jhoek/UncommonSense.Volkskrant
+__Downloads__: 4,465 | __Repository__: https://github.com/jhoek/UncommonSense.Volkskrant
 
 ## [ps12exe](https://www.powershellgallery.com/Packages/ps12exe/0.2.4) | 0.2.4
 
@@ -187,7 +260,7 @@ __Downloads__: 436 | __Repository__: https://support.purestorage.com/Pure_Cloud_
 
 Build and test automation in PowerShell
 
-__Downloads__: 1,701,971 | __Repository__: https://github.com/nightroman/Invoke-Build
+__Downloads__: 1,702,008 | __Repository__: https://github.com/nightroman/Invoke-Build
 
 ## [PSBowWow](https://www.powershellgallery.com/Packages/PSBowWow/0.0.1) | 0.0.1
 
@@ -275,15 +348,7 @@ __Downloads__: 246 | __Repository__: https://github.com/bepsoccer/verkadaModule
 
 Powershell wrapper to interact with Google API
 
-__Downloads__: 425,156 | __Repository__: https://github.com/umn-microsoft-automation/UMN-Google
-
-## [NVRAppDevOps](https://www.powershellgallery.com/Packages/NVRAppDevOps/2.8.0) | 2.8.0
-
-### Published: 03/07/2024 18:51:33 by Kamil Sacek
-
-cmdlets for DevOps for Business Central
-
-__Downloads__: 25,982 | __Repository__: https://www.github.com/kine/NVRAppDevOps
+__Downloads__: 425,157 | __Repository__: https://github.com/umn-microsoft-automation/UMN-Google
 
 ## [ObjectGraphTools](https://www.powershellgallery.com/Packages/ObjectGraphTools/0.1.0) | 0.1.0
 
@@ -339,7 +404,7 @@ __Downloads__: 134 | __Repository__: https://github.com/TehMuffinMoo/ibPS
 
 Helper module for Active Directory with lots of useful functions that simplify supporting Active Directory.
 
-__Downloads__: 197,237 | __Repository__: https://github.com/EvotecIT/ADEssentials
+__Downloads__: 197,235 | __Repository__: https://github.com/EvotecIT/ADEssentials
 
 ## [JyskIT.Automation](https://www.powershellgallery.com/Packages/JyskIT.Automation/0.7.9) | 0.7.9
 
@@ -387,7 +452,7 @@ __Downloads__: 60 | __Repository__:
 
 A Toolset for Implementing and Adopting a full ALM strategy for the Microsoft PowerPlatform.
 
-__Downloads__: 52,920 | __Repository__: https://github.com/dylanhaskins/Microsoft.PowerPlatform.DevOps.Documentation
+__Downloads__: 52,921 | __Repository__: https://github.com/dylanhaskins/Microsoft.PowerPlatform.DevOps.Documentation
 
 ## [Harden-Windows-Security-Module](https://www.powershellgallery.com/Packages/Harden-Windows-Security-Module/0.3.4) | 0.3.4
 
@@ -448,7 +513,7 @@ __Downloads__: 7,650 | __Repository__: https://github.com/HotCakeX/Harden-Window
 
 Sample module for interacting with UEFI from PowerShell
 
-__Downloads__: 440,782 | __Repository__: 
+__Downloads__: 440,812 | __Repository__: 
 
 ## [JumpCloud.ADMU](https://www.powershellgallery.com/Packages/JumpCloud.ADMU/2.6.4) | 2.6.4
 
@@ -456,7 +521,7 @@ __Downloads__: 440,782 | __Repository__:
 
 Powershell Module to run JumpCloud Active Directory Migration Utility.
 
-__Downloads__: 13,789 | __Repository__: 
+__Downloads__: 13,790 | __Repository__: 
 
 ## [Quantum.DMS.PowerShell](https://www.powershellgallery.com/Packages/Quantum.DMS.PowerShell/3.0.2) | 3.0.2
 
@@ -530,14 +595,6 @@ PowerShell module for CapaInstaller containing functions for both the SDK and Po
 
 __Downloads__: 30 | __Repository__: https://github.com/Mark5900/Capa.PowerShell.Module
 
-## [Capa.PowerShell.Module.SDK](https://www.powershellgallery.com/Packages/Capa.PowerShell.Module.SDK/1.4.5) | 1.4.5
-
-### Published: 03/06/2024 12:53:22 by Mark5900
-
-PowerShell module for CapaInstaller containing functions for the SDK.
-
-__Downloads__: 31 | __Repository__: https://github.com/Mark5900/Capa.PowerShell.Module
-
 ## [Capa.PowerShell.Module.SDK.MDM](https://www.powershellgallery.com/Packages/Capa.PowerShell.Module.SDK.MDM/1.4.5) | 1.4.5
 
 ### Published: 03/06/2024 12:53:22 by Mark5900
@@ -546,6 +603,14 @@ PowerShell module for CapaInstaller SDK containing functions for MDM functions.
 	For more information, see https://capasystems.atlassian.net/wiki/spaces/CI65DOC/pages/19382173123/SDK+-+CapaInstaller+Software+Development+Kit+functions
 
 __Downloads__: 32 | __Repository__: https://github.com/Mark5900/Capa.PowerShell.Module
+
+## [Capa.PowerShell.Module.SDK](https://www.powershellgallery.com/Packages/Capa.PowerShell.Module.SDK/1.4.5) | 1.4.5
+
+### Published: 03/06/2024 12:53:22 by Mark5900
+
+PowerShell module for CapaInstaller containing functions for the SDK.
+
+__Downloads__: 31 | __Repository__: https://github.com/Mark5900/Capa.PowerShell.Module
 
 ## [Capa.PowerShell.Module.SDK.VPP](https://www.powershellgallery.com/Packages/Capa.PowerShell.Module.SDK.VPP/1.4.5) | 1.4.5
 
@@ -672,15 +737,6 @@ PowerShell module for CapaInstaller PowerPacks containing functions for Sys comm
 
 __Downloads__: 55 | __Repository__: https://github.com/Mark5900/Capa.PowerShell.Module
 
-## [Capa.PowerShell.Module.SDK.Container](https://www.powershellgallery.com/Packages/Capa.PowerShell.Module.SDK.Container/1.4.5) | 1.4.5
-
-### Published: 03/06/2024 12:52:32 by Mark5900
-
-PowerShell module for CapaInstaller SDK containing functions for Container functions.
-	For more information, see https://capasystems.atlassian.net/wiki/spaces/CI65DOC/pages/19382173123/SDK+-+CapaInstaller+Software+Development+Kit+functions
-
-__Downloads__: 52 | __Repository__: https://github.com/Mark5900/Capa.PowerShell.Module
-
 ## [Capa.PowerShell.Module.SDK.Inventory](https://www.powershellgallery.com/Packages/Capa.PowerShell.Module.SDK.Inventory/1.4.5) | 1.4.5
 
 ### Published: 03/06/2024 12:52:31 by Mark5900
@@ -768,7 +824,7 @@ __Downloads__: 53 | __Repository__: https://github.com/Mark5900/Capa.PowerShell.
 
 Module for PowerShell Universal.
 
-__Downloads__: 78,455 | __Repository__: https://ironmansoftware.com/powershell-universal
+__Downloads__: 78,453 | __Repository__: https://ironmansoftware.com/powershell-universal
 
 ## [BillyLove](https://www.powershellgallery.com/Packages/BillyLove/6.1) | 6.1
 
@@ -826,21 +882,13 @@ Things that make the life of a PowerShell developer easier.
 
 __Downloads__: 50 | __Repository__: https://attilakrick.com/powershell/
 
-## [SoftwareInstallDsc](https://www.powershellgallery.com/Packages/SoftwareInstallDsc/0.8) | 0.8
-
-### Published: 03/05/2024 20:43:20 by Shannon Graybrook
-
-DSC resources for configuring software installation.
-
-__Downloads__: 209 | __Repository__: https://github.com/realslacker/SoftwareInstallDsc
-
 ## [HPCMSL](https://www.powershellgallery.com/Packages/HPCMSL/1.7.1) | 1.7.1
 
 ### Published: 03/05/2024 19:21:34 by HP Development Company L.P.
 
 HP Client Management Script Library
 
-__Downloads__: 34,645,494 | __Repository__: 
+__Downloads__: 34,645,676 | __Repository__: 
 
 ## [OCI.PSModules](https://www.powershellgallery.com/Packages/OCI.PSModules/78.0.0) | 78.0.0
 
@@ -1953,7 +2001,7 @@ __Downloads__: 1,869 | __Repository__: https://github.com/oracle/oci-powershell-
 
 OCI Common module exports Cmdlets that manages features offered by OCI Modules for Powershell like History Store, OCI Configuration file setup and Per-Session Region/Config/Profile preferences. Common module also contains some functionalties that are common to all OCI Service modules, therefore all OCI Service modules depends on Common module.
 
-__Downloads__: 112,122 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+__Downloads__: 112,123 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
 ## [PS-WindowsInstaller](https://www.powershellgallery.com/Packages/PS-WindowsInstaller/1.1.8) | 1.1.8
 
@@ -1985,7 +2033,7 @@ __Downloads__: 34,928 | __Repository__: https://devolutions.net/
 
 Connect to Oriflame.Ps.Gallery
 
-__Downloads__: 48,796 | __Repository__: https://oriflame.visualstudio.com/Oriflame.PS.Gallery/
+__Downloads__: 48,794 | __Repository__: https://oriflame.visualstudio.com/Oriflame.PS.Gallery/
 
 ## [helium](https://www.powershellgallery.com/Packages/helium/1.1.10) | 1.1.10
 
@@ -2001,7 +2049,7 @@ __Downloads__: 402 | __Repository__: https://github.com/Skatterbrainz/helium
 
 Master module for a collection of modules. These modules are varied in their tasks. The overall purpose of them being to provide a powerfull Toolset to improve IT Admin workflows.
 
-__Downloads__: 41,888 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox
+__Downloads__: 41,893 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox
 
 ## [AdminToolbox.FortiWizard](https://www.powershellgallery.com/Packages/AdminToolbox.FortiWizard/2.18.41) | 2.18.41
 
@@ -2009,7 +2057,7 @@ __Downloads__: 41,888 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions that generate configuration scripts and manage FortiOS.
 
-__Downloads__: 21,346 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 21,347 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.VMWareAutomate](https://www.powershellgallery.com/Packages/AdminToolbox.VMWareAutomate/4.8.132) | 4.8.132
 
@@ -2017,7 +2065,7 @@ __Downloads__: 21,346 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions to Automate Bulk VMWare Tasks
 
-__Downloads__: 28,274 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 28,277 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.Remoting](https://www.powershellgallery.com/Packages/AdminToolbox.Remoting/1.9.135) | 1.9.135
 
@@ -2025,7 +2073,7 @@ __Downloads__: 28,274 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions for remote management and access.
 
-__Downloads__: 28,099 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 28,102 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.Office365](https://www.powershellgallery.com/Packages/AdminToolbox.Office365/3.1.85) | 3.1.85
 
@@ -2033,7 +2081,7 @@ __Downloads__: 28,099 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions for working with Office365 and Azure modules
 
-__Downloads__: 30,158 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 30,153 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.Networking](https://www.powershellgallery.com/Packages/AdminToolbox.Networking/2.18.43) | 2.18.43
 
@@ -2041,54 +2089,6 @@ __Downloads__: 30,158 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Network Troubleshooting Functions
 
-__Downloads__: 71,613 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 71,612 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
-## [AdminToolbox.MSGraph](https://www.powershellgallery.com/Packages/AdminToolbox.MSGraph/1.2.135) | 1.2.135
-
-### Published: 03/05/2024 14:17:32 by Taylor Lee
-
-Microsoft Graph interactive API Functions
-
-__Downloads__: 18,230 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-## [AdminToolbox.Fun](https://www.powershellgallery.com/Packages/AdminToolbox.Fun/1.6.136) | 1.6.136
-
-### Published: 03/05/2024 14:17:20 by Taylor Lee
-
-Functions that have no purpose
-
-__Downloads__: 28,554 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-## [AdminToolbox.FileManagement](https://www.powershellgallery.com/Packages/AdminToolbox.FileManagement/1.16.127) | 1.16.127
-
-### Published: 03/05/2024 14:16:58 by Taylor Lee
-
-File Management Functions
-
-__Downloads__: 29,029 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-## [AdminToolbox.FFTools](https://www.powershellgallery.com/Packages/AdminToolbox.FFTools/4.16.85) | 4.16.85
-
-### Published: 03/05/2024 14:16:46 by Taylor Lee
-
-Expedite simple ffmpeg actions
-
-__Downloads__: 28,922 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-## [AdminToolbox.Exchange](https://www.powershellgallery.com/Packages/AdminToolbox.Exchange/1.9.136) | 1.9.136
-
-### Published: 03/05/2024 14:16:21 by Taylor Lee
-
-Functions for Exchange Management
-
-__Downloads__: 30,140 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-## [AdminToolbox.EndpointManagement](https://www.powershellgallery.com/Packages/AdminToolbox.EndpointManagement/4.10.12) | 4.10.12
-
-### Published: 03/05/2024 14:15:49 by Taylor Lee
-
-Functions for management of endpoints
-
-__Downloads__: 34,682 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-*Updated: Friday, 08 March 2024 17:51:41 UTC*
+*Updated: Saturday, 09 March 2024 01:58:59 UTC*
