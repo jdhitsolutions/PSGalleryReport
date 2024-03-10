@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Saturday, 09 March 2024 17:51:44 UTC
+Updated: Sunday, 10 March 2024 02:03:29 UTC
 
 .bat
 .env
@@ -472,6 +472,7 @@ asbuiltreport
 asc
 ascii
 ascii85
+asciiart
 asdatabase
 asigra
 asjob
@@ -530,7 +531,6 @@ auditpol.exe
 auditpolicies
 auditpolicy
 audits
-aumid
 aut
 auth
 auth0
@@ -680,7 +680,6 @@ azuredataexplorer
 azuredatastudio
 azuredevops
 azuredevops_security
-azuredevopsserver
 azuredns
 azurefilesync
 azurefunctionapp
@@ -885,6 +884,7 @@ bootstrap
 bootstrapping
 bop
 bot
+bots
 botservice
 bouncer
 boundaries
@@ -1021,6 +1021,7 @@ cavium
 cb
 cblueshell
 cbr
+cbz
 cchoco
 cchocoex
 ccm
@@ -1097,6 +1098,10 @@ checklists
 checkpoint
 checks
 checksum
+chef
+chef-automate
+chef-compliance
+chef-server
 chefconf2016
 chenxizhang
 cherrypy
@@ -1609,7 +1614,6 @@ currency-convereter
 currency-exchange
 currencyconverterapi
 current
-curseforge
 custom
 customchecks
 customdns
@@ -1832,6 +1836,7 @@ der
 description
 deserialize
 design
+design-pattern
 desired
 desiredstate
 desiredstateconfiguration
@@ -2708,7 +2713,6 @@ fullmetalgnome
 fullscreen
 fun
 function
-function_calling
 functionality
 functionalprogramming
 functions
@@ -2724,6 +2728,7 @@ gainz
 gainz-chocolateysync
 gainz-keepass
 gainz-sqldb
+gal
 gallery
 game
 gamecategory:cards
@@ -2763,6 +2768,7 @@ generates
 generatewif
 generation
 generativeai
+generativeaiinference
 generator
 generic
 genericartifactscontent
@@ -2858,6 +2864,7 @@ glob
 globalclipboard
 globaldashboard
 globalentry
+globallydistributeddatabase
 globbing
 glpi
 gmail
@@ -2948,6 +2955,7 @@ guardicore
 gubbins
 guest
 guestconfiguration
+guests
 gui
 gui.cs
 guid
@@ -3050,6 +3058,7 @@ helper-functions
 helperfunctions
 helpers
 helpfile
+helpful
 heml
 here
 hewlett
@@ -3618,6 +3627,7 @@ kodi
 korn
 kotlin
 kql
+kraken
 krbtgt
 krick
 kschemaplugin
@@ -4228,7 +4238,6 @@ msband
 msbi
 msbuild
 msdeploy
-msdn
 msdtc
 msedge
 msexcel
@@ -4301,6 +4310,7 @@ mutation
 mute
 mutex
 mva
+mvc
 mvn
 mvp
 mx
@@ -4624,7 +4634,6 @@ online-backup
 onlinebackup
 onprem
 onpremisesdatagatewayhamgmt
-onq
 ons
 ontap
 ontap_9.14.1
@@ -5080,6 +5089,7 @@ poshy-wrap-pip
 poshy-wrap-pipenv
 poshy-wrap-pyenv
 poshy-wrap-pylint
+poshy-wrap-python
 poshy-wrap-ruby
 poshy-wrap-systemctl
 poshy-wrap-terraform
@@ -5155,7 +5165,6 @@ powershell.module.invokewinget
 powershell.one
 powershell.persistentpathstack
 powershell7
-powershellai
 powershellazuresql
 powershellconferenceeurope
 powershellcore
@@ -5241,6 +5250,7 @@ privileges
 pro
 probe
 process
+process-inspector
 processing
 processmitigation
 processor
@@ -5333,6 +5343,7 @@ psbbix
 psbicep
 psclient
 pscmdlet
+pscommand__python3
 pscommand_--
 pscommand_..
 pscommand_...
@@ -6585,6 +6596,8 @@ pscommand_invoke-zypperversioncompare
 pscommand_invoke-zypperwhatprovides
 pscommand_invokeyumgrouplist
 pscommand_ips
+pscommand_ipy
+pscommand_ipython
 pscommand_jump
 pscommand_k
 pscommand_kaf
@@ -6832,8 +6845,12 @@ pscommand_pushgr
 pscommand_pvenv
 pscommand_pwh
 pscommand_pwshrc-show-proxy
+pscommand_py
 pscommand_pyenv
 pscommand_pylint-quick
+pscommand_pyserver
+pscommand_python
+pscommand_python3
 pscommand_rb
 pscommand_read-dotenv
 pscommand_register-argcompleteargumentcompleter
@@ -6900,6 +6917,7 @@ pscommand_set-locationup5
 pscommand_sgem
 pscommand_show-gitremote
 pscommand_show-proxy
+pscommand_shttp
 pscommand_shuf
 pscommand_sl
 pscommand_ssh-add-all
@@ -7153,6 +7171,7 @@ psfitbit
 psfive9
 psfive9admin
 psfoldersize
+psfunction__python3
 psfunction_aar
 psfunction_add_ssh
 psfunction_add-envpathitem
@@ -8046,6 +8065,7 @@ psfunction_publish-gitrepositorytosvn
 psfunction_push-gitstashentry
 psfunction_push-gitstashentrywithmessage
 psfunction_pwshrc-show-proxy
+psfunction_pyserver
 psfunction_read-dotenv
 psfunction_register-argcompleteargumentcompleter
 psfunction_remove-dockercontainerall
@@ -8107,6 +8127,7 @@ psfunction_set-locationup4
 psfunction_set-locationup5
 psfunction_show-gitremote
 psfunction_show-proxy
+psfunction_shttp
 psfunction_shuf
 psfunction_ssh-add-all
 psfunction_ssh-disable-proxy
@@ -8263,7 +8284,6 @@ pstwitter
 pswa
 pswindocumentation
 pswinreporting
-pswinreportingv2
 psword
 pswriteword
 psyaml
@@ -8295,6 +8315,7 @@ puppetdb
 puppy
 pure
 pure1
+pureservice
 purestorage
 purple
 purview
@@ -8324,6 +8345,7 @@ pylint
 pyranja
 python
 python-for-dotnet
+python3
 qcloud
 qconvergeconsolepowerkit
 qemu
@@ -9822,7 +9844,6 @@ tlsrpt
 tmux
 to-do
 toast
-toasts
 tobias
 toc
 todo
@@ -9864,6 +9885,7 @@ tracert
 tracing
 tracker
 tracking
+trading
 traffic
 trafficfiltering
 trafficmanager
@@ -10453,7 +10475,6 @@ webview2
 wec
 wecutil
 weekday
-wef
 weixin
 well-known
 wem
@@ -10731,6 +10752,7 @@ xpendingreboot
 xpertdoc
 xpo
 xprotect
+xpt
 xrm
 xsa
 xtremio
@@ -10776,7 +10798,6 @@ zoomapi
 zoommeeting
 zoxide
 zsh
-zuora
 zvm
 zvml
 zvmlinux
