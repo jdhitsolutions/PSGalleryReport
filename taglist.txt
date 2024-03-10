@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Sunday, 10 March 2024 09:51:53 UTC
+Updated: Sunday, 10 March 2024 17:51:44 UTC
 
 .bat
 .env
@@ -250,6 +250,7 @@ ailanguage
 aim
 aip
 aipscanner
+aircall
 airpower
 airpwr
 airtable
@@ -331,7 +332,6 @@ anglesharp
 angular
 animals
 animate-svg
-animation
 animations
 annotated
 announcement
@@ -446,7 +446,6 @@ area
 arg
 argcomplete
 argument
-argumentcompleter
 arguments
 arm
 arm-json
@@ -471,7 +470,6 @@ asbuiltreport
 asc
 ascii
 ascii85
-asciiart
 asdatabase
 asigra
 asjob
@@ -618,7 +616,6 @@ axium
 az
 az-cli
 az.stackhci
-azautomation
 azcli
 azcompute
 azd
@@ -626,7 +623,6 @@ azdisk
 azdo
 azereo
 azforensics
-azkeyvault
 aznetworking
 aznetworkinterface
 aznicdetails
@@ -668,7 +664,6 @@ azureartifacts
 azureas
 azureatp
 azureautomation
-azureautomationaccount
 azureautomationnotsupported
 azurebasicloadbalancerupgrade
 azurecli
@@ -885,7 +880,6 @@ bootstrap
 bootstrapping
 bop
 bot
-bots
 botservice
 bouncer
 boundaries
@@ -973,6 +967,7 @@ cache
 caf
 cal
 calc
+calculate
 calculator
 calendar
 callingcode
@@ -1098,6 +1093,10 @@ checklists
 checkpoint
 checks
 checksum
+chef
+chef-automate
+chef-compliance
+chef-server
 chefconf2016
 chenxizhang
 cherrypy
@@ -1255,7 +1254,6 @@ cminifile
 cmnetworkports
 cms
 cmsiteconfig
-cmsmessage
 cmtrace
 cmwt
 cns
@@ -1394,9 +1392,6 @@ conjecture
 connect
 connect-dtcmsite
 connect-exchangeonprem
-connect-mstsc
-connect-rdp
-connect-remotedesktop
 connect-samcmsite
 connected
 connectedkubernetes
@@ -1445,6 +1440,7 @@ contrast
 control
 controller
 controlroom
+controlup
 conventional
 conventional-commits
 convereter
@@ -1783,7 +1779,6 @@ decode64
 decoding
 decompiler
 decrypt
-decryption
 dedicatedhsm
 deduplication
 deep
@@ -2013,7 +2008,6 @@ docs
 document
 documentation
 documentdb
-documentencryption
 documenting
 documents
 docusaurus
@@ -2174,7 +2168,6 @@ ec2
 ecommerce
 ecovadis
 ed25519
-edgaronline
 edge
 edgebackup
 edgeexport
@@ -2710,6 +2703,7 @@ fullmetalgnome
 fullscreen
 fun
 function
+function_calling
 functionality
 functionalprogramming
 functions
@@ -2765,6 +2759,7 @@ generates
 generatewif
 generation
 generativeai
+generativeaiinference
 generator
 generic
 genericartifactscontent
@@ -3170,7 +3165,6 @@ humanizer
 humanly
 humor
 humorous
-hunter
 hwid
 hybrid
 hybridrunbookworker
@@ -3308,10 +3302,7 @@ influxdb
 info
 infoblox
 information
-information-technology
 informationbarriers
-informationtechnology
-informationtechnologyoperations
 informix
 infosec
 infrastructure
@@ -3437,6 +3428,7 @@ iplookup
 ipmaths
 ipp
 iprange
+ips
 ipscan
 ipv4
 ipv4ping
@@ -3466,7 +3458,6 @@ ispss
 issues
 isvalidemail
 isvalidip
-it
 it-support
 it-tool
 it-tools
@@ -3622,7 +3613,6 @@ kodi
 korn
 kotlin
 kql
-kraken
 krbtgt
 krick
 kschemaplugin
@@ -3679,6 +3669,7 @@ latency
 latestupdate
 latin
 latitude
+launcher
 layer
 layman
 layout
@@ -3836,12 +3827,12 @@ logiclesstemplate
 logicmonitor
 login
 login-azurermaccount
-login-rdp
 logingestion
 loginscreen
 loginsight
 logiphys
 logistic
+logitech
 logmail
 logmails
 logman
@@ -3933,7 +3924,6 @@ manage-wmi
 manageability
 managed-identity
 manageddisks
-managedidentities
 managedidentity
 managedserviceidenity
 managedserviceidentity
@@ -3955,7 +3945,6 @@ mapapi
 mapi
 mappeddrives
 mapper24
-mapping
 maps
 mapsapi
 mariadb
@@ -4312,6 +4301,7 @@ mxlookup
 mycloudrevolution
 myget
 myhub
+myip
 myitprocess
 myjson
 myjson.com
@@ -4418,7 +4408,6 @@ new-githubrelease
 new-item
 new-itemproperty
 new-pinneditem
-new-rdpsession
 new-samcmapplicationfrompackagedefinitionsms
 new-samcmpackagefrompackagedefinitionsms
 new-system
@@ -4516,6 +4505,7 @@ nuget-references
 nuget.exe
 nuget.org
 nugetpackageprovider
+number
 numlock
 nunit
 nupkg
@@ -5051,6 +5041,7 @@ poshy-env-var
 poshy-ls-isms
 poshy-lucidity
 poshy-multimedia
+poshy-net
 poshy-notify-send
 poshy-sh-isms
 poshy-sshconfig
@@ -5156,6 +5147,7 @@ powershell.module.invokewinget
 powershell.one
 powershell.persistentpathstack
 powershell7
+powershellai
 powershellazuresql
 powershellconferenceeurope
 powershellcore
@@ -5204,6 +5196,7 @@ prepend
 preprocessing
 preprocessor
 presentation
+presenter
 presto
 preston-k-parsard
 prettifier
@@ -5810,6 +5803,8 @@ pscommand_get-gittrackedfiles
 pscommand_get-gituntrackedfiles
 pscommand_get-gitwhatchangedstylized
 pscommand_get-itemnixmode
+pscommand_get-netipaddresspublic
+pscommand_get-netipaddresssimple
 pscommand_get-pwshaliasdefinition
 pscommand_get-pwshfunctiondefinition
 pscommand_get-viewer
@@ -6583,6 +6578,7 @@ pscommand_invoke-zypperverify
 pscommand_invoke-zypperversioncompare
 pscommand_invoke-zypperwhatprovides
 pscommand_invokeyumgrouplist
+pscommand_ips
 pscommand_ipy
 pscommand_ipython
 pscommand_jump
@@ -6736,6 +6732,7 @@ pscommand_mpom
 pscommand_mrperf
 pscommand_mrprep
 pscommand_mrrb
+pscommand_myip
 pscommand_new-gitbranchfromstash
 pscommand_new-gitbranchtracked
 pscommand_new-gitpatchfile
@@ -6786,6 +6783,7 @@ pscommand_peek
 pscommand_pgr
 pscommand_pi
 pscommand_pidev
+pscommand_ping
 pscommand_pip
 pscommand_pip_package_location
 pscommand_pip3
@@ -7393,6 +7391,8 @@ psfunction_get-gittrackedfiles
 psfunction_get-gituntrackedfiles
 psfunction_get-gitwhatchangedstylized
 psfunction_get-itemnixmode
+psfunction_get-netipaddresspublic
+psfunction_get-netipaddresssimple
 psfunction_get-pwshaliasdefinition
 psfunction_get-pwshfunctiondefinition
 psfunction_get-viewer
@@ -8436,6 +8436,7 @@ readiness
 readme
 readpdf
 readthedocs
+real-time
 realschule
 realtimeprotection
 rebase
@@ -8541,7 +8542,6 @@ remotedesktopmanager
 remotedesktopservices
 remotefiles
 remoteforensics
-remotehost
 remotelocalgroup
 remotelogoff
 remotemanagement
@@ -8727,6 +8727,7 @@ runbook
 runbooks
 runbookstudio
 runcommand
+rundeck
 runner
 runspace
 runspacepool
@@ -8913,7 +8914,6 @@ securedns
 securegopher
 securegopher+
 securemfa
-securerdp
 securescore
 securesphere
 securestring
@@ -8969,7 +8969,6 @@ sendgrid
 sendkeys
 sendmail
 sense
-sensitive
 sensitivity
 sensor
 sensors
@@ -9594,7 +9593,6 @@ syspip3
 sysprep
 system
 system information 1394 controller baseboard motherboard systemboard battery bios bus cache memory cd dvd rom drive compact disc desktop monitor disk partition fan floppy glide point heatpipe ide infrared device keyboard local logical array mouse'
-system-administration
 system-group
 system-service
 system-services
@@ -9618,7 +9616,6 @@ tab-completion
 tab-expansion
 tabcompletion
 tabexpansion
-tabexpansion2
 tablacus
 table
 tableau
@@ -9678,7 +9675,6 @@ teamviewer
 techdirect
 techedna2014
 techlog
-technology
 techsmith
 tel
 telegram
@@ -9842,8 +9838,6 @@ topgrade
 topics
 topology
 tor
-toradex
-torizon
 torrent
 torrents
 toshiba
@@ -9861,7 +9855,6 @@ tracert
 tracing
 tracker
 tracking
-trading
 traffic
 trafficfiltering
 trafficmanager
@@ -10227,6 +10220,7 @@ verify
 version
 versioning
 versionmanager
+versionnumber
 vertical
 vester
 vhd
@@ -10328,6 +10322,7 @@ vpn-certificate
 vpro
 vps
 vra
+vrchat
 vrealize
 vrising
 vro
@@ -10727,7 +10722,6 @@ xpendingreboot
 xpertdoc
 xpo
 xprotect
-xpt
 xrm
 xsa
 xtremio
