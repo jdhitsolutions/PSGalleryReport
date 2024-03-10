@@ -3,6 +3,22 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [ps12exe](https://www.powershellgallery.com/Packages/ps12exe/0.3.0) | 0.3.0
+
+### Published: 03/10/2024 07:18:13 by steve02081504
+
+better repo 2 compile pwsh scripts to exe
+
+__Downloads__: 376 | __Repository__: https://github.com/steve02081504/ps12exe
+
+## [DevolutionsGateway](https://www.powershellgallery.com/Packages/DevolutionsGateway/2024.1.3) | 2024.1.3
+
+### Published: 03/10/2024 06:20:28 by Devolutions
+
+Devolutions Gateway PowerShell Module
+
+__Downloads__: 1,219 | __Repository__: https://github.com/Devolutions/devolutions-gateway/tree/master/powershell/
+
 ## [Orbit](https://www.powershellgallery.com/Packages/Orbit/0.12.0) | 0.12.0
 
 ### Published: 03/09/2024 18:56:30 by David Eberhardt
@@ -19,14 +35,6 @@ __Downloads__: 97 | __Repository__: https://github.com/DEberhardt/Orbit
 The Utilities repository contains a collection of scripts and tools that should have been in PowerShell to start with.
 
 __Downloads__: 2,890 | __Repository__: https://github.com/PSModule/Utilities
-
-## [ps12exe](https://www.powershellgallery.com/Packages/ps12exe/0.2.6) | 0.2.6
-
-### Published: 03/09/2024 18:12:29 by steve02081504
-
-better repo 2 compile pwsh scripts to exe
-
-__Downloads__: 376 | __Repository__: https://github.com/steve02081504/ps12exe
 
 ## [dbprv.MultiMediaHelpers](https://www.powershellgallery.com/Packages/dbprv.MultiMediaHelpers/1.3.0) | 1.3.0
 
@@ -81,7 +89,7 @@ __Downloads__: 34 | __Repository__: https://github.com/ztrhgf/useful_powershell_
 
 Provides commands that allow easy manipulation with data in Cosmos DB
 
-__Downloads__: 11,365 | __Repository__: https://github.com/greycorbel/CosmosLite
+__Downloads__: 11,361 | __Repository__: https://github.com/greycorbel/CosmosLite
 
 ## [GitHub](https://www.powershellgallery.com/Packages/GitHub/0.3.97) | 0.3.97
 
@@ -97,7 +105,7 @@ __Downloads__: 2,988 | __Repository__: https://github.com/PSModule/GitHub
 
 The community module that enables SQL Server Pros to automate database development and server administration
 
-__Downloads__: 3,798,090 | __Repository__: https://dbatools.io/
+__Downloads__: 3,798,226 | __Repository__: https://dbatools.io/
 
 ## [dbatools.library](https://www.powershellgallery.com/Packages/dbatools.library/2024.3.9) | 2024.3.9
 
@@ -105,7 +113,7 @@ __Downloads__: 3,798,090 | __Repository__: https://dbatools.io/
 
 The library that powers dbatools, the community module for SQL Server Pros
 
-__Downloads__: 731,070 | __Repository__: https://dbatools.io/
+__Downloads__: 730,917 | __Repository__: https://dbatools.io/
 
 ## [Paths](https://www.powershellgallery.com/Packages/Paths/0.0.5) | 0.0.5
 
@@ -113,7 +121,7 @@ __Downloads__: 731,070 | __Repository__: https://dbatools.io/
 
 PowerShell cmdlets for working with paths
 
-__Downloads__: 287 | __Repository__: https://dev.azure.com/michielvoo/public/_git/Paths
+__Downloads__: 289 | __Repository__: https://dev.azure.com/michielvoo/public/_git/Paths
 
 ## [porthunter](https://www.powershellgallery.com/Packages/porthunter/1.5) | 1.5
 
@@ -131,22 +139,6 @@ A simple tool to showcase your scripts.
 
 __Downloads__: 135 | __Repository__: https://github.com/StartAutomating/ShowDemo
 
-## [IDMCmdlets](https://www.powershellgallery.com/Packages/IDMCmdlets/1.0.1.9) | 1.0.1.9
-
-### Published: 03/09/2024 00:14:24 by Powershellcrack
-
-A module designed to help manage devices in Intune
-
-__Downloads__: 262 | __Repository__: https://github.com/PowerShellCrack/PSIntuneAutopilotCmdlets
-
-## [Emoji](https://www.powershellgallery.com/Packages/Emoji/0.1.4) | 0.1.4
-
-### Published: 03/08/2024 23:43:25 by James Brundage
-
-⟩⚡PowerShell Emoji 😎😉😍🥰🤔😟
-
-__Downloads__: 40 | __Repository__: https://github.com/StartAutomating/Emoji
-
 ## [Posh-ACME.net46](https://www.powershellgallery.com/Packages/Posh-ACME.net46/4.21.0) | 4.21.0
 
 ### Published: 03/08/2024 23:02:33 by Ryan Bolger
@@ -162,7 +154,7 @@ __Downloads__: 7,043 | __Repository__: https://github.com/rmbolger/Posh-ACME
 
 ACME protocol client for obtaining certificates using Let's Encrypt (or other ACME compliant CA)
 
-__Downloads__: 1,453,965 | __Repository__: https://github.com/rmbolger/Posh-ACME
+__Downloads__: 1,453,892 | __Repository__: https://github.com/rmbolger/Posh-ACME
 
 ## [EZOut](https://www.powershellgallery.com/Packages/EZOut/2.0.5) | 2.0.5
 
@@ -170,7 +162,7 @@ __Downloads__: 1,453,965 | __Repository__: https://github.com/rmbolger/Posh-ACME
 
 Easily Author Rich Format Files to Customize PowerShell Output
 
-__Downloads__: 7,158 | __Repository__: https://github.com/StartAutomating/EZOut
+__Downloads__: 7,157 | __Repository__: https://github.com/StartAutomating/EZOut
 
 ## [NVRAppDevOps](https://www.powershellgallery.com/Packages/NVRAppDevOps/2.8.1) | 2.8.1
 
@@ -204,7 +196,7 @@ __Downloads__: 8 | __Repository__: https://github.com/BenLPed/BenLPed.Scriptlogg
 
 Takes output from a command and sends to Windows Event Log
 
-__Downloads__: 2,550 | __Repository__: https://github.com/ewhitesides/EventLogTools
+__Downloads__: 2,549 | __Repository__: https://github.com/ewhitesides/EventLogTools
 
 ## [BcContainerHelper](https://www.powershellgallery.com/Packages/BcContainerHelper/6.0.8) | 6.0.8
 
@@ -212,7 +204,7 @@ __Downloads__: 2,550 | __Repository__: https://github.com/ewhitesides/EventLogTo
 
 PowerShell module, which makes it easier to work with Business Central Containers on Docker.
 
-__Downloads__: 1,739,834 | __Repository__: https://github.com/microsoft/navcontainerhelper
+__Downloads__: 1,739,771 | __Repository__: https://github.com/microsoft/navcontainerhelper
 
 ## [EasyPIM](https://www.powershellgallery.com/Packages/EasyPIM/1.5.0) | 1.5.0
 
@@ -228,7 +220,7 @@ __Downloads__: 797 | __Repository__: https://github.com/kayasax/EasyPIM/
 
 Provides a set of functions to manage Win32 apps in Microsoft Endpoint Manager (Intune).
 
-__Downloads__: 378,061 | __Repository__: https://github.com/MSEndpointMgr/IntuneWin32App
+__Downloads__: 378,067 | __Repository__: https://github.com/MSEndpointMgr/IntuneWin32App
 
 ## [SdnDiagnostics](https://www.powershellgallery.com/Packages/SdnDiagnostics/4.2403.967.122208) | 4.2403.967.122208
 
@@ -348,7 +340,7 @@ __Downloads__: 456 | __Repository__: https://support.purestorage.com/Pure_Cloud_
 
 Build and test automation in PowerShell
 
-__Downloads__: 1,703,617 | __Repository__: https://github.com/nightroman/Invoke-Build
+__Downloads__: 1,703,603 | __Repository__: https://github.com/nightroman/Invoke-Build
 
 ## [Kamino](https://www.powershellgallery.com/Packages/Kamino/1.0.3) | 1.0.3
 
@@ -396,7 +388,7 @@ __Downloads__: 7 | __Repository__: https://github.com/PSModule/WoW
 
 PowerShell tips delivered straight to your terminal.
 
-__Downloads__: 2,340 | __Repository__: https://github.com/deadlydog/PowerShell.tiPS
+__Downloads__: 2,339 | __Repository__: https://github.com/deadlydog/PowerShell.tiPS
 
 ## [Export-Bitwarden](https://www.powershellgallery.com/Packages/Export-Bitwarden/1.41) | 1.41
 
@@ -420,7 +412,7 @@ __Downloads__: 248 | __Repository__: https://github.com/bepsoccer/verkadaModule
 
 Powershell wrapper to interact with Google API
 
-__Downloads__: 425,373 | __Repository__: https://github.com/umn-microsoft-automation/UMN-Google
+__Downloads__: 425,371 | __Repository__: https://github.com/umn-microsoft-automation/UMN-Google
 
 ## [ObjectGraphTools](https://www.powershellgallery.com/Packages/ObjectGraphTools/0.1.0) | 0.1.0
 
@@ -460,7 +452,7 @@ __Downloads__: 4,239 | __Repository__: https://github.com/endjin/.github
 
 Automation tools for production quality database deployment
 
-__Downloads__: 5,191,670 | __Repository__: https://www.red-gate.com/sca/productpage
+__Downloads__: 5,191,706 | __Repository__: https://www.red-gate.com/sca/productpage
 
 ## [ibPS](https://www.powershellgallery.com/Packages/ibPS/1.9.2.10) | 1.9.2.10
 
@@ -476,7 +468,7 @@ __Downloads__: 137 | __Repository__: https://github.com/TehMuffinMoo/ibPS
 
 Helper module for Active Directory with lots of useful functions that simplify supporting Active Directory.
 
-__Downloads__: 197,723 | __Repository__: https://github.com/EvotecIT/ADEssentials
+__Downloads__: 197,722 | __Repository__: https://github.com/EvotecIT/ADEssentials
 
 ## [JyskIT.Automation](https://www.powershellgallery.com/Packages/JyskIT.Automation/0.7.9) | 0.7.9
 
@@ -577,7 +569,7 @@ Harden Windows Safely, Securely, only with Official Microsoft methods
 
 🟡 The module generates a nice output on the screen as well as giving users an option to export the results in a CSV file.
 
-__Downloads__: 7,761 | __Repository__: https://github.com/HotCakeX/Harden-Windows-Security
+__Downloads__: 7,759 | __Repository__: https://github.com/HotCakeX/Harden-Windows-Security
 
 ## [UEFIv2](https://www.powershellgallery.com/Packages/UEFIv2/2.8) | 2.8
 
@@ -585,7 +577,7 @@ __Downloads__: 7,761 | __Repository__: https://github.com/HotCakeX/Harden-Window
 
 Sample module for interacting with UEFI from PowerShell
 
-__Downloads__: 442,680 | __Repository__: 
+__Downloads__: 442,652 | __Repository__: 
 
 ## [JumpCloud.ADMU](https://www.powershellgallery.com/Packages/JumpCloud.ADMU/2.6.4) | 2.6.4
 
@@ -593,7 +585,7 @@ __Downloads__: 442,680 | __Repository__:
 
 Powershell Module to run JumpCloud Active Directory Migration Utility.
 
-__Downloads__: 13,817 | __Repository__: 
+__Downloads__: 13,816 | __Repository__: 
 
 ## [Quantum.DMS.PowerShell](https://www.powershellgallery.com/Packages/Quantum.DMS.PowerShell/3.0.2) | 3.0.2
 
@@ -617,7 +609,7 @@ __Downloads__: 446 | __Repository__: https://github.com/michielvoo/Pilot
 
 Invoke git using a PowerShell cmdlet
 
-__Downloads__: 285 | __Repository__: https://dev.azure.com/michielvoo/public/_git/Proxy?path=/Proxy.Git
+__Downloads__: 287 | __Repository__: https://dev.azure.com/michielvoo/public/_git/Proxy?path=/Proxy.Git
 
 ## [Proxy.Dotnet](https://www.powershellgallery.com/Packages/Proxy.Dotnet/0.0.5) | 0.0.5
 
@@ -649,7 +641,7 @@ __Downloads__: 38 | __Repository__: https://github.com/Clifra-Jones/AWS_Tools_Ad
 
 A PowerShell module to generate an as built report on the configuration of Microsoft Windows.
 
-__Downloads__: 7,691 | __Repository__: https://github.com/AsBuiltReport/AsBuiltReport.Microsoft.Windows
+__Downloads__: 7,690 | __Repository__: https://github.com/AsBuiltReport/AsBuiltReport.Microsoft.Windows
 
 ## [PS.Utilities](https://www.powershellgallery.com/Packages/PS.Utilities/1.2) | 1.2
 
@@ -667,6 +659,14 @@ PowerShell module for CapaInstaller containing functions for both the SDK and Po
 
 __Downloads__: 30 | __Repository__: https://github.com/Mark5900/Capa.PowerShell.Module
 
+## [Capa.PowerShell.Module.SDK](https://www.powershellgallery.com/Packages/Capa.PowerShell.Module.SDK/1.4.5) | 1.4.5
+
+### Published: 03/06/2024 12:53:22 by Mark5900
+
+PowerShell module for CapaInstaller containing functions for the SDK.
+
+__Downloads__: 31 | __Repository__: https://github.com/Mark5900/Capa.PowerShell.Module
+
 ## [Capa.PowerShell.Module.SDK.MDM](https://www.powershellgallery.com/Packages/Capa.PowerShell.Module.SDK.MDM/1.4.5) | 1.4.5
 
 ### Published: 03/06/2024 12:53:22 by Mark5900
@@ -675,14 +675,6 @@ PowerShell module for CapaInstaller SDK containing functions for MDM functions.
 	For more information, see https://capasystems.atlassian.net/wiki/spaces/CI65DOC/pages/19382173123/SDK+-+CapaInstaller+Software+Development+Kit+functions
 
 __Downloads__: 32 | __Repository__: https://github.com/Mark5900/Capa.PowerShell.Module
-
-## [Capa.PowerShell.Module.SDK](https://www.powershellgallery.com/Packages/Capa.PowerShell.Module.SDK/1.4.5) | 1.4.5
-
-### Published: 03/06/2024 12:53:22 by Mark5900
-
-PowerShell module for CapaInstaller containing functions for the SDK.
-
-__Downloads__: 31 | __Repository__: https://github.com/Mark5900/Capa.PowerShell.Module
 
 ## [Capa.PowerShell.Module.SDK.VPP](https://www.powershellgallery.com/Packages/Capa.PowerShell.Module.SDK.VPP/1.4.5) | 1.4.5
 
@@ -905,7 +897,7 @@ __Downloads__: 53 | __Repository__: https://github.com/Mark5900/Capa.PowerShell.
 
 Module for PowerShell Universal.
 
-__Downloads__: 78,849 | __Repository__: https://ironmansoftware.com/powershell-universal
+__Downloads__: 78,846 | __Repository__: https://ironmansoftware.com/powershell-universal
 
 ## [BillyLove](https://www.powershellgallery.com/Packages/BillyLove/6.1) | 6.1
 
@@ -977,7 +969,7 @@ __Downloads__: 209 | __Repository__: https://github.com/realslacker/SoftwareInst
 
 HP Client Management Script Library
 
-__Downloads__: 34,662,694 | __Repository__: 
+__Downloads__: 34,662,557 | __Repository__: 
 
 ## [OCI.PSModules](https://www.powershellgallery.com/Packages/OCI.PSModules/78.0.0) | 78.0.0
 
@@ -1002,7 +994,7 @@ __Downloads__: 4,859 | __Repository__: https://github.com/oracle/oci-powershell-
 
 This modules provides Cmdlets for OCI Waf Service
 
-__Downloads__: 3,706 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+__Downloads__: 3,708 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
 ## [OCI.PSModules.Waas](https://www.powershellgallery.com/Packages/OCI.PSModules.Waas/78.0.0) | 78.0.0
 
@@ -1010,7 +1002,7 @@ __Downloads__: 3,706 | __Repository__: https://github.com/oracle/oci-powershell-
 
 This modules provides Cmdlets for OCI Waas Service
 
-__Downloads__: 5,673 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+__Downloads__: 5,675 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
 ## [OCI.PSModules.Waa](https://www.powershellgallery.com/Packages/OCI.PSModules.Waa/78.0.0) | 78.0.0
 
@@ -1018,7 +1010,7 @@ __Downloads__: 5,673 | __Repository__: https://github.com/oracle/oci-powershell-
 
 This modules provides Cmdlets for OCI Waa Service
 
-__Downloads__: 2,889 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+__Downloads__: 2,891 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
 ## [OCI.PSModules.Vulnerabilityscanning](https://www.powershellgallery.com/Packages/OCI.PSModules.Vulnerabilityscanning/78.0.0) | 78.0.0
 
@@ -1042,7 +1034,7 @@ __Downloads__: 2,830 | __Repository__: https://github.com/oracle/oci-powershell-
 
 This modules provides Cmdlets for OCI Visualbuilder Service
 
-__Downloads__: 3,508 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+__Downloads__: 3,506 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
 ## [OCI.PSModules.Vbsinst](https://www.powershellgallery.com/Packages/OCI.PSModules.Vbsinst/78.0.0) | 78.0.0
 
@@ -1050,7 +1042,7 @@ __Downloads__: 3,508 | __Repository__: https://github.com/oracle/oci-powershell-
 
 This modules provides Cmdlets for OCI Vbsinst Service
 
-__Downloads__: 2,124 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+__Downloads__: 2,123 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
 ## [OCI.PSModules.Vault](https://www.powershellgallery.com/Packages/OCI.PSModules.Vault/78.0.0) | 78.0.0
 
@@ -1074,7 +1066,7 @@ __Downloads__: 4,928 | __Repository__: https://github.com/oracle/oci-powershell-
 
 This modules provides Cmdlets for OCI Usage Service
 
-__Downloads__: 3,696 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+__Downloads__: 3,698 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
 ## [OCI.PSModules.Threatintelligence](https://www.powershellgallery.com/Packages/OCI.PSModules.Threatintelligence/78.0.0) | 78.0.0
 
@@ -1106,7 +1098,7 @@ __Downloads__: 4,847 | __Repository__: https://github.com/oracle/oci-powershell-
 
 This modules provides Cmdlets for OCI Stackmonitoring Service
 
-__Downloads__: 3,175 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+__Downloads__: 3,177 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
 ## [OCI.PSModules.Servicemesh](https://www.powershellgallery.com/Packages/OCI.PSModules.Servicemesh/78.0.0) | 78.0.0
 
@@ -1114,7 +1106,7 @@ __Downloads__: 3,175 | __Repository__: https://github.com/oracle/oci-powershell-
 
 This modules provides Cmdlets for OCI Servicemesh Service
 
-__Downloads__: 3,141 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+__Downloads__: 3,143 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
 ## [OCI.PSModules.Servicemanagerproxy](https://www.powershellgallery.com/Packages/OCI.PSModules.Servicemanagerproxy/78.0.0) | 78.0.0
 
@@ -1162,7 +1154,7 @@ __Downloads__: 4,652 | __Repository__: https://github.com/oracle/oci-powershell-
 
 This modules provides Cmdlets for OCI Resourcesearch Service
 
-__Downloads__: 5,288 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+__Downloads__: 5,286 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
 ## [OCI.PSModules.Resourcemanager](https://www.powershellgallery.com/Packages/OCI.PSModules.Resourcemanager/78.0.0) | 78.0.0
 
@@ -1178,7 +1170,7 @@ __Downloads__: 4,837 | __Repository__: https://github.com/oracle/oci-powershell-
 
 This modules provides Cmdlets for OCI Redis Service
 
-__Downloads__: 929 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+__Downloads__: 927 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
 ## [OCI.PSModules.Recovery](https://www.powershellgallery.com/Packages/OCI.PSModules.Recovery/78.0.0) | 78.0.0
 
@@ -1186,7 +1178,7 @@ __Downloads__: 929 | __Repository__: https://github.com/oracle/oci-powershell-mo
 
 This modules provides Cmdlets for OCI Recovery Service
 
-__Downloads__: 2,128 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+__Downloads__: 2,127 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
 ## [OCI.PSModules.Queue](https://www.powershellgallery.com/Packages/OCI.PSModules.Queue/78.0.0) | 78.0.0
 
@@ -1202,7 +1194,7 @@ __Downloads__: 2,270 | __Repository__: https://github.com/oracle/oci-powershell-
 
 This modules provides Cmdlets for OCI Psql Service
 
-__Downloads__: 778 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+__Downloads__: 776 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
 ## [OCI.PSModules.Osubusage](https://www.powershellgallery.com/Packages/OCI.PSModules.Osubusage/78.0.0) | 78.0.0
 
@@ -1218,7 +1210,7 @@ __Downloads__: 3,461 | __Repository__: https://github.com/oracle/oci-powershell-
 
 This modules provides Cmdlets for OCI Osubsubscription Service
 
-__Downloads__: 3,470 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+__Downloads__: 3,468 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
 ## [OCI.PSModules.Osuborganizationsubscription](https://www.powershellgallery.com/Packages/OCI.PSModules.Osuborganizationsubscription/78.0.0) | 78.0.0
 
@@ -1226,7 +1218,7 @@ __Downloads__: 3,470 | __Repository__: https://github.com/oracle/oci-powershell-
 
 This modules provides Cmdlets for OCI Osuborganizationsubscription Service
 
-__Downloads__: 5,263 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+__Downloads__: 5,261 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
 ## [OCI.PSModules.Osubbillingschedule](https://www.powershellgallery.com/Packages/OCI.PSModules.Osubbillingschedule/78.0.0) | 78.0.0
 
@@ -1234,7 +1226,7 @@ __Downloads__: 5,263 | __Repository__: https://github.com/oracle/oci-powershell-
 
 This modules provides Cmdlets for OCI Osubbillingschedule Service
 
-__Downloads__: 3,483 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+__Downloads__: 3,481 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
 ## [OCI.PSModules.Ospgateway](https://www.powershellgallery.com/Packages/OCI.PSModules.Ospgateway/78.0.0) | 78.0.0
 
@@ -1242,7 +1234,7 @@ __Downloads__: 3,483 | __Repository__: https://github.com/oracle/oci-powershell-
 
 This modules provides Cmdlets for OCI Ospgateway Service
 
-__Downloads__: 3,549 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+__Downloads__: 3,547 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
 ## [OCI.PSModules.Osmanagementhub](https://www.powershellgallery.com/Packages/OCI.PSModules.Osmanagementhub/78.0.0) | 78.0.0
 
@@ -1314,7 +1306,7 @@ __Downloads__: 4,891 | __Repository__: https://github.com/oracle/oci-powershell-
 
 This modules provides Cmdlets for OCI Onesubscription Service
 
-__Downloads__: 2,886 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+__Downloads__: 2,888 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
 ## [OCI.PSModules.Oda](https://www.powershellgallery.com/Packages/OCI.PSModules.Oda/78.0.0) | 78.0.0
 
@@ -1330,7 +1322,7 @@ __Downloads__: 4,847 | __Repository__: https://github.com/oracle/oci-powershell-
 
 This modules provides Cmdlets for OCI Ocvp Service
 
-__Downloads__: 6,994 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+__Downloads__: 6,996 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
 ## [OCI.PSModules.Ocicontrolcenter](https://www.powershellgallery.com/Packages/OCI.PSModules.Ocicontrolcenter/78.0.0) | 78.0.0
 
@@ -1410,7 +1402,7 @@ __Downloads__: 3,276 | __Repository__: https://github.com/oracle/oci-powershell-
 
 This modules provides Cmdlets for OCI Marketplacepublisher Service
 
-__Downloads__: 930 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+__Downloads__: 928 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
 ## [OCI.PSModules.Marketplace](https://www.powershellgallery.com/Packages/OCI.PSModules.Marketplace/78.0.0) | 78.0.0
 
@@ -1466,7 +1458,7 @@ __Downloads__: 5,036 | __Repository__: https://github.com/oracle/oci-powershell-
 
 This modules provides Cmdlets for OCI Loganalytics Service
 
-__Downloads__: 7,155 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+__Downloads__: 7,157 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
 ## [OCI.PSModules.Lockbox](https://www.powershellgallery.com/Packages/OCI.PSModules.Lockbox/78.0.0) | 78.0.0
 
@@ -1498,7 +1490,7 @@ __Downloads__: 5,177 | __Repository__: https://github.com/oracle/oci-powershell-
 
 This modules provides Cmdlets for OCI Licensemanager Service
 
-__Downloads__: 2,940 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+__Downloads__: 2,942 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
 ## [OCI.PSModules.Keymanagement](https://www.powershellgallery.com/Packages/OCI.PSModules.Keymanagement/78.0.0) | 78.0.0
 
@@ -1538,7 +1530,7 @@ __Downloads__: 4,837 | __Repository__: https://github.com/oracle/oci-powershell-
 
 This modules provides Cmdlets for OCI Identitydomains Service
 
-__Downloads__: 2,030 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+__Downloads__: 2,031 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
 ## [OCI.PSModules.Identitydataplane](https://www.powershellgallery.com/Packages/OCI.PSModules.Identitydataplane/78.0.0) | 78.0.0
 
@@ -1546,7 +1538,7 @@ __Downloads__: 2,030 | __Repository__: https://github.com/oracle/oci-powershell-
 
 This modules provides Cmdlets for OCI Identitydataplane Service
 
-__Downloads__: 3,578 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+__Downloads__: 3,576 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
 ## [OCI.PSModules.Identity](https://www.powershellgallery.com/Packages/OCI.PSModules.Identity/78.0.0) | 78.0.0
 
@@ -1554,7 +1546,7 @@ __Downloads__: 3,578 | __Repository__: https://github.com/oracle/oci-powershell-
 
 This modules provides Cmdlets for OCI Identity Service
 
-__Downloads__: 9,319 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+__Downloads__: 9,321 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
 ## [OCI.PSModules.Healthchecks](https://www.powershellgallery.com/Packages/OCI.PSModules.Healthchecks/78.0.0) | 78.0.0
 
@@ -1596,14 +1588,6 @@ This modules provides Cmdlets for OCI Genericartifactscontent Service
 
 __Downloads__: 4,365 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-## [OCI.PSModules.Generativeaiinference](https://www.powershellgallery.com/Packages/OCI.PSModules.Generativeaiinference/78.0.0) | 78.0.0
-
-### Published: 03/05/2024 18:37:17 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Generativeaiinference Service
-
-__Downloads__: 339 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
 ## [OCI.PSModules.Generativeai](https://www.powershellgallery.com/Packages/OCI.PSModules.Generativeai/78.0.0) | 78.0.0
 
 ### Published: 03/05/2024 18:37:12 by Oracle Cloud Infrastructure
@@ -1642,7 +1626,7 @@ __Downloads__: 1,441 | __Repository__: https://github.com/oracle/oci-powershell-
 
 This modules provides Cmdlets for OCI Filestorage Service
 
-__Downloads__: 7,651 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+__Downloads__: 7,653 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
 ## [OCI.PSModules.Events](https://www.powershellgallery.com/Packages/OCI.PSModules.Events/78.0.0) | 78.0.0
 
@@ -1698,7 +1682,7 @@ __Downloads__: 2,416 | __Repository__: https://github.com/oracle/oci-powershell-
 
 This modules provides Cmdlets for OCI Devops Service
 
-__Downloads__: 4,129 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+__Downloads__: 4,127 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
 ## [OCI.PSModules.Desktops](https://www.powershellgallery.com/Packages/OCI.PSModules.Desktops/78.0.0) | 78.0.0
 
@@ -1754,7 +1738,7 @@ __Downloads__: 5,192 | __Repository__: https://github.com/oracle/oci-powershell-
 
 This modules provides Cmdlets for OCI Dataflow Service
 
-__Downloads__: 9,528 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+__Downloads__: 9,530 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
 ## [OCI.PSModules.Datacatalog](https://www.powershellgallery.com/Packages/OCI.PSModules.Datacatalog/78.0.0) | 78.0.0
 
@@ -1770,7 +1754,7 @@ __Downloads__: 5,166 | __Repository__: https://github.com/oracle/oci-powershell-
 
 This modules provides Cmdlets for OCI Databasetools Service
 
-__Downloads__: 3,807 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+__Downloads__: 3,809 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
 ## [OCI.PSModules.Databasemigration](https://www.powershellgallery.com/Packages/OCI.PSModules.Databasemigration/78.0.0) | 78.0.0
 
@@ -1882,7 +1866,7 @@ __Downloads__: 5,065 | __Repository__: https://github.com/oracle/oci-powershell-
 
 This modules provides Cmdlets for OCI Certificatesmanagement Service
 
-__Downloads__: 4,035 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+__Downloads__: 4,033 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
 ## [OCI.PSModules.Certificates](https://www.powershellgallery.com/Packages/OCI.PSModules.Certificates/78.0.0) | 78.0.0
 
@@ -1890,7 +1874,7 @@ __Downloads__: 4,035 | __Repository__: https://github.com/oracle/oci-powershell-
 
 This modules provides Cmdlets for OCI Certificates Service
 
-__Downloads__: 3,802 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+__Downloads__: 3,804 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
 ## [OCI.PSModules.Capacitymanagement](https://www.powershellgallery.com/Packages/OCI.PSModules.Capacitymanagement/78.0.0) | 78.0.0
 
@@ -1994,7 +1978,7 @@ __Downloads__: 4,525 | __Repository__: https://github.com/oracle/oci-powershell-
 
 This modules provides Cmdlets for OCI Apmcontrolplane Service
 
-__Downloads__: 5,920 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+__Downloads__: 5,918 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
 ## [OCI.PSModules.Apmconfig](https://www.powershellgallery.com/Packages/OCI.PSModules.Apmconfig/78.0.0) | 78.0.0
 
@@ -2042,7 +2026,7 @@ __Downloads__: 3,418 | __Repository__: https://github.com/oracle/oci-powershell-
 
 This modules provides Cmdlets for OCI Aispeech Service
 
-__Downloads__: 3,728 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+__Downloads__: 3,730 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
 ## [OCI.PSModules.Ailanguage](https://www.powershellgallery.com/Packages/OCI.PSModules.Ailanguage/78.0.0) | 78.0.0
 
@@ -2050,7 +2034,7 @@ __Downloads__: 3,728 | __Repository__: https://github.com/oracle/oci-powershell-
 
 This modules provides Cmdlets for OCI Ailanguage Service
 
-__Downloads__: 6,955 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+__Downloads__: 6,957 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
 ## [OCI.PSModules.Aidocument](https://www.powershellgallery.com/Packages/OCI.PSModules.Aidocument/78.0.0) | 78.0.0
 
@@ -2074,7 +2058,7 @@ __Downloads__: 4,242 | __Repository__: https://github.com/oracle/oci-powershell-
 
 This modules provides Cmdlets for OCI Adm Service
 
-__Downloads__: 3,141 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+__Downloads__: 3,143 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
 ## [OCI.PSModules.Accessgovernancecp](https://www.powershellgallery.com/Packages/OCI.PSModules.Accessgovernancecp/78.0.0) | 78.0.0
 
@@ -2082,7 +2066,7 @@ __Downloads__: 3,141 | __Repository__: https://github.com/oracle/oci-powershell-
 
 This modules provides Cmdlets for OCI Accessgovernancecp Service
 
-__Downloads__: 1,893 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+__Downloads__: 1,892 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
 ## [OCI.PSModules.Common](https://www.powershellgallery.com/Packages/OCI.PSModules.Common/78.0.0) | 78.0.0
 
@@ -2100,4 +2084,20 @@ PowerShell Module to wrap the WindowInstaller Objects, Methods, and Properties
 
 __Downloads__: 23 | __Repository__: 
 
-*Updated: Sunday, 10 March 2024 02:03:21 UTC*
+## [spec.tonoref.management](https://www.powershellgallery.com/Packages/spec.tonoref.management/1.0.7) | 1.0.7
+
+### Published: 03/05/2024 15:49:12 by owen.heaume
+
+A module to help manage Tonoref URL generation
+
+__Downloads__: 30 | __Repository__: 
+
+## [Devolutions.PowerShell](https://www.powershellgallery.com/Packages/Devolutions.PowerShell/2024.1.0) | 2024.1.0
+
+### Published: 03/05/2024 15:26:42 by Devolutions
+
+The Devolutions.PowerShell module is a set of cmdlets that allow administrators to manage Remote Desktop Manager, Devolutions Server and Devolutions Hub Business using PowerShell. This module provides a simple and consistent interface for interacting with these products, making it easy to automate various tasks, such as creating and managing connections, sessions, and credentials, configuring security settings, and generating reports. The module can be easily integrated with other PowerShell modules, allowing administrators to automate tasks across multiple products and platforms, streamline their workflows and increase efficiency.
+
+__Downloads__: 35,436 | __Repository__: https://devolutions.net/
+
+*Updated: Sunday, 10 March 2024 09:51:45 UTC*
