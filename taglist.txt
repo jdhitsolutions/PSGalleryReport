@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Sunday, 10 March 2024 17:51:44 UTC
+Updated: Monday, 11 March 2024 02:01:25 UTC
 
 .bat
 .env
@@ -332,6 +332,7 @@ anglesharp
 angular
 animals
 animate-svg
+animation
 animations
 annotated
 announcement
@@ -446,6 +447,7 @@ area
 arg
 argcomplete
 argument
+argumentcompleter
 arguments
 arm
 arm-json
@@ -470,6 +472,7 @@ asbuiltreport
 asc
 ascii
 ascii85
+asciiart
 asdatabase
 asigra
 asjob
@@ -616,6 +619,7 @@ axium
 az
 az-cli
 az.stackhci
+azautomation
 azcli
 azcompute
 azd
@@ -623,6 +627,7 @@ azdisk
 azdo
 azereo
 azforensics
+azkeyvault
 aznetworking
 aznetworkinterface
 aznicdetails
@@ -690,7 +695,6 @@ azuremigrate
 azuremonitor
 azurenetworking
 azurepack
-azurepipelines
 azurepolicy
 azurepowershell
 azurerepos
@@ -740,7 +744,6 @@ barcodes
 baremetal
 base
 base16
-base26
 base32
 base64
 base64string
@@ -880,6 +883,7 @@ bootstrap
 bootstrapping
 bop
 bot
+bots
 botservice
 bouncer
 boundaries
@@ -927,7 +931,6 @@ bugzilla
 build
 build-log
 build-scripts
-builddefinition
 builder
 building
 buildingfile
@@ -1254,6 +1257,7 @@ cminifile
 cmnetworkports
 cms
 cmsiteconfig
+cmsmessage
 cmtrace
 cmwt
 cns
@@ -1392,6 +1396,9 @@ conjecture
 connect
 connect-dtcmsite
 connect-exchangeonprem
+connect-mstsc
+connect-rdp
+connect-remotedesktop
 connect-samcmsite
 connected
 connectedkubernetes
@@ -1779,6 +1786,7 @@ decode64
 decoding
 decompiler
 decrypt
+decryption
 dedicatedhsm
 deduplication
 deep
@@ -2008,6 +2016,7 @@ docs
 document
 documentation
 documentdb
+documentencryption
 documenting
 documents
 docusaurus
@@ -2168,6 +2177,7 @@ ec2
 ecommerce
 ecovadis
 ed25519
+edgaronline
 edge
 edgebackup
 edgeexport
@@ -3005,8 +3015,6 @@ hashset
 hashtable
 hasicorp
 haskell
-haste
-hastebin
 haveibeenpwned
 hba
 hbase
@@ -3165,6 +3173,7 @@ humanizer
 humanly
 humor
 humorous
+hunter
 hwid
 hybrid
 hybridrunbookworker
@@ -3302,7 +3311,10 @@ influxdb
 info
 infoblox
 information
+information-technology
 informationbarriers
+informationtechnology
+informationtechnologyoperations
 informix
 infosec
 infrastructure
@@ -3458,6 +3470,7 @@ ispss
 issues
 isvalidemail
 isvalidip
+it
 it-support
 it-tool
 it-tools
@@ -3594,7 +3607,6 @@ keyvault
 keywords
 kibana
 kickstart
-kidrsa
 kill
 kindle
 kinetic
@@ -3613,6 +3625,7 @@ kodi
 korn
 kotlin
 kql
+kraken
 krbtgt
 krick
 kschemaplugin
@@ -3827,6 +3840,7 @@ logiclesstemplate
 logicmonitor
 login
 login-azurermaccount
+login-rdp
 logingestion
 loginscreen
 loginsight
@@ -3924,6 +3938,7 @@ manage-wmi
 manageability
 managed-identity
 manageddisks
+managedidentities
 managedidentity
 managedserviceidenity
 managedserviceidentity
@@ -3945,6 +3960,7 @@ mapapi
 mapi
 mappeddrives
 mapper24
+mapping
 maps
 mapsapi
 mariadb
@@ -4273,7 +4289,6 @@ multi-language
 multi-platform
 multi-threading
 multi-zone
-multiboxing
 multicloud
 multidimenstional
 multimedia
@@ -4408,6 +4423,7 @@ new-githubrelease
 new-item
 new-itemproperty
 new-pinneditem
+new-rdpsession
 new-samcmapplicationfrompackagedefinitionsms
 new-samcmpackagefrompackagedefinitionsms
 new-system
@@ -4830,7 +4846,6 @@ passwordstate
 passwordtool
 passwordvault
 passwordwolf
-paste
 patch
 patches
 patching
@@ -5035,7 +5050,6 @@ poshy-code-search
 poshy-colors
 poshy-coreutils-ish
 poshy-dir-nav
-poshy-ecks
 poshy-env-proxy
 poshy-env-var
 poshy-ls-isms
@@ -5065,6 +5079,7 @@ poshy-wrap-golang
 poshy-wrap-helm
 poshy-wrap-kubectl
 poshy-wrap-maven
+poshy-wrap-nginx
 poshy-wrap-nmap
 poshy-wrap-npm
 poshy-wrap-pip
@@ -6740,6 +6755,10 @@ pscommand_new-isofile
 pscommand_new-viewerinvocationfunction
 pscommand_new-windowsterminalpane
 pscommand_new-windowsterminaltab
+pscommand_nginx_reload
+pscommand_nginx_restart
+pscommand_nginx_start
+pscommand_nginx_stop
 pscommand_nmap_check_for_firewall
 pscommand_nmap_check_for_vulns
 pscommand_nmap_detect_versions
@@ -7042,8 +7061,6 @@ pscommand_write-gitcommitgpgsignedbykey
 pscommand_write-gitcommithelpfullyverbose
 pscommand_write-gitcommitinteractively
 pscommand_write-gitcommitsignedoff
-pscommand_xin
-pscommand_xwith
 pscommand_yc
 pscommand_ygi
 pscommand_ygl
@@ -7999,6 +8016,10 @@ psfunction_new-isofile
 psfunction_new-viewerinvocationfunction
 psfunction_new-windowsterminalpane
 psfunction_new-windowsterminaltab
+psfunction_nginx_reload
+psfunction_nginx_restart
+psfunction_nginx_start
+psfunction_nginx_stop
 psfunction_nmap_check_for_firewall
 psfunction_nmap_check_for_vulns
 psfunction_nmap_detect_versions
@@ -8174,8 +8195,6 @@ psfunction_write-gitcommitgpgsignedbykey
 psfunction_write-gitcommithelpfullyverbose
 psfunction_write-gitcommitinteractively
 psfunction_write-gitcommitsignedoff
-psfunction_xin
-psfunction_xwith
 psgallery
 psget
 psgitlab
@@ -8216,7 +8235,6 @@ psnexosisclient
 psngenposh
 psobject
 psoutlog
-pspath
 pspersonio
 pspowerhour
 psprofiler
@@ -8361,7 +8379,6 @@ quickaccess
 quickbase
 quickbooks
 quicksetup
-quiz
 qumulo
 quota
 quote
@@ -8516,7 +8533,6 @@ reinstall
 relational
 relay
 release
-releasedefinition
 releasehealth
 releasemanagement
 releasenotes
@@ -8542,6 +8558,7 @@ remotedesktopmanager
 remotedesktopservices
 remotefiles
 remoteforensics
+remotehost
 remotelocalgroup
 remotelogoff
 remotemanagement
@@ -8619,7 +8636,6 @@ restart
 restful
 restore
 resume
-retail
 retention
 retro
 retry
@@ -8914,6 +8930,7 @@ securedns
 securegopher
 securegopher+
 securemfa
+securerdp
 securescore
 securesphere
 securestring
@@ -8969,6 +8986,7 @@ sendgrid
 sendkeys
 sendmail
 sense
+sensitive
 sensitivity
 sensor
 sensors
@@ -9052,7 +9070,6 @@ sgw
 sha-256
 sha-512
 sha-crypt
-sha256
 sha256crypt
 sha512crypt
 shacrypt
@@ -9593,6 +9610,7 @@ syspip3
 sysprep
 system
 system information 1394 controller baseboard motherboard systemboard battery bios bus cache memory cd dvd rom drive compact disc desktop monitor disk partition fan floppy glide point heatpipe ide infrared device keyboard local logical array mouse'
+system-administration
 system-group
 system-service
 system-services
@@ -9616,6 +9634,7 @@ tab-completion
 tab-expansion
 tabcompletion
 tabexpansion
+tabexpansion2
 tablacus
 table
 tableau
@@ -9647,7 +9666,6 @@ task-runner
 task-scheduler
 taskbar
 tasker
-taskgroup
 taskmanagement
 tasks
 taskscheduler
@@ -9675,6 +9693,7 @@ teamviewer
 techdirect
 techedna2014
 techlog
+technology
 techsmith
 tel
 telegram
@@ -9855,6 +9874,7 @@ tracert
 tracing
 tracker
 tracking
+trading
 traffic
 trafficfiltering
 trafficmanager
@@ -10002,7 +10022,6 @@ ud-pivottable
 ud-progressstepbar
 ud-rangeslider
 ud-readingbar
-ud-scrollspy
 ud-selectdatetime
 ud-selector
 ud-signature
@@ -10386,7 +10405,6 @@ warraty
 warrenty
 wasabi
 watch
-watchdog
 watchmen
 watery
 wave
@@ -10613,7 +10631,6 @@ workingtime
 workload
 workload-automation
 workloadidentity
-workloads
 workpoint
 workrequests
 worksheet
@@ -10704,7 +10721,6 @@ xevents
 xh
 xi
 xiaomi
-xin
 xkcd
 xliff
 xlsx
@@ -10722,6 +10738,7 @@ xpendingreboot
 xpertdoc
 xpo
 xprotect
+xpt
 xrm
 xsa
 xtremio
@@ -10729,7 +10746,6 @@ xtrude
 xunit
 xwiki
 xwindowsupdate
-xwith
 yahoo
 yahw
 yamaha

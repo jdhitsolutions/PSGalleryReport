@@ -3,6 +3,22 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [UiPathOrch](https://www.powershellgallery.com/Packages/UiPathOrch/0.8.6.4) | 0.8.6.4
+
+### Published: 03/11/2024 00:41:12 by Yoshifumi Tsuda
+
+Provider for Orchestrator entities.
+
+__Downloads__: 211 | __Repository__: 
+
+## [Fonts](https://www.powershellgallery.com/Packages/Fonts/0.1.6) | 0.1.6
+
+### Published: 03/10/2024 21:13:32 by PSModule
+
+Powershell module for managing fonts.
+
+__Downloads__: 788 | __Repository__: https://github.com/PSModule/Fonts
+
 ## [terraform-tools](https://www.powershellgallery.com/Packages/terraform-tools/0.1.0) | 0.1.0
 
 ### Published: 03/10/2024 16:34:26 by ptavares
@@ -42,14 +58,6 @@ __Downloads__: 13 | __Repository__:
 Wraps external GIT / Azure Devops / Excel commands and provides other utilitiy services
 
 __Downloads__: 40 | __Repository__: https://github.com/Druid-Nutstone/Ps.Utilities.Help
-
-## [UiPathOrch](https://www.powershellgallery.com/Packages/UiPathOrch/0.8.6.3) | 0.8.6.3
-
-### Published: 03/10/2024 14:13:01 by Yoshifumi Tsuda
-
-Provider for Orchestrator entities.
-
-__Downloads__: 211 | __Repository__: 
 
 ## [ps12exe](https://www.powershellgallery.com/Packages/ps12exe/0.3.2) | 0.3.2
 
@@ -153,7 +161,7 @@ __Downloads__: 35 | __Repository__: https://github.com/ztrhgf/useful_powershell_
 
 Provides commands that allow easy manipulation with data in Cosmos DB
 
-__Downloads__: 11,596 | __Repository__: https://github.com/greycorbel/CosmosLite
+__Downloads__: 11,603 | __Repository__: https://github.com/greycorbel/CosmosLite
 
 ## [GitHub](https://www.powershellgallery.com/Packages/GitHub/0.3.97) | 0.3.97
 
@@ -177,7 +185,7 @@ __Downloads__: 3,802,398 | __Repository__: https://dbatools.io/
 
 The library that powers dbatools, the community module for SQL Server Pros
 
-__Downloads__: 733,554 | __Repository__: https://dbatools.io/
+__Downloads__: 733,512 | __Repository__: https://dbatools.io/
 
 ## [Paths](https://www.powershellgallery.com/Packages/Paths/0.0.5) | 0.0.5
 
@@ -234,7 +242,7 @@ __Downloads__: 7,043 | __Repository__: https://github.com/rmbolger/Posh-ACME
 
 ACME protocol client for obtaining certificates using Let's Encrypt (or other ACME compliant CA)
 
-__Downloads__: 1,457,063 | __Repository__: https://github.com/rmbolger/Posh-ACME
+__Downloads__: 1,456,964 | __Repository__: https://github.com/rmbolger/Posh-ACME
 
 ## [EZOut](https://www.powershellgallery.com/Packages/EZOut/2.0.5) | 2.0.5
 
@@ -284,7 +292,7 @@ __Downloads__: 2,579 | __Repository__: https://github.com/ewhitesides/EventLogTo
 
 PowerShell module, which makes it easier to work with Business Central Containers on Docker.
 
-__Downloads__: 1,741,617 | __Repository__: https://github.com/microsoft/navcontainerhelper
+__Downloads__: 1,741,626 | __Repository__: https://github.com/microsoft/navcontainerhelper
 
 ## [EasyPIM](https://www.powershellgallery.com/Packages/EasyPIM/1.5.0) | 1.5.0
 
@@ -300,7 +308,7 @@ __Downloads__: 801 | __Repository__: https://github.com/kayasax/EasyPIM/
 
 Provides a set of functions to manage Win32 apps in Microsoft Endpoint Manager (Intune).
 
-__Downloads__: 378,695 | __Repository__: https://github.com/MSEndpointMgr/IntuneWin32App
+__Downloads__: 378,680 | __Repository__: https://github.com/MSEndpointMgr/IntuneWin32App
 
 ## [SdnDiagnostics](https://www.powershellgallery.com/Packages/SdnDiagnostics/4.2403.967.122208) | 4.2403.967.122208
 
@@ -412,7 +420,15 @@ __Downloads__: 458 | __Repository__: https://support.purestorage.com/Pure_Cloud_
 
 Build and test automation in PowerShell
 
-__Downloads__: 1,704,335 | __Repository__: https://github.com/nightroman/Invoke-Build
+__Downloads__: 1,704,338 | __Repository__: https://github.com/nightroman/Invoke-Build
+
+## [Kamino](https://www.powershellgallery.com/Packages/Kamino/1.0.3) | 1.0.3
+
+### Published: 03/08/2024 03:46:05 by Evan Deters
+
+This module includes several commands that help with the deployment of virtual environments on vSphere.
+
+__Downloads__: 18 | __Repository__: https://github.com/evanjd711/Kamino
 
 ## [PoshToolbox](https://www.powershellgallery.com/Packages/PoshToolbox/4.2.2) | 4.2.2
 
@@ -438,21 +454,13 @@ Provides pre-defined pester tests for Azure Policy and Initiative definitions
 
 __Downloads__: 524 | __Repository__: https://github.com/tyconsulting/AzPolicyTest
 
-## [WoW](https://www.powershellgallery.com/Packages/WoW/0.0.6) | 0.0.6
-
-### Published: 03/08/2024 00:15:18 by PSModule
-
-This module is for working with settings and addons in WoW with PowerShell
-
-__Downloads__: 7 | __Repository__: https://github.com/PSModule/WoW
-
 ## [tiPS](https://www.powershellgallery.com/Packages/tiPS/1.2.0) | 1.2.0
 
 ### Published: 03/07/2024 23:50:08 by Daniel Schroeder
 
 PowerShell tips delivered straight to your terminal.
 
-__Downloads__: 2,373 | __Repository__: https://github.com/deadlydog/PowerShell.tiPS
+__Downloads__: 2,372 | __Repository__: https://github.com/deadlydog/PowerShell.tiPS
 
 ## [Export-Bitwarden](https://www.powershellgallery.com/Packages/Export-Bitwarden/1.41) | 1.41
 
@@ -516,7 +524,7 @@ __Downloads__: 4,243 | __Repository__: https://github.com/endjin/.github
 
 Automation tools for production quality database deployment
 
-__Downloads__: 5,193,131 | __Repository__: https://www.red-gate.com/sca/productpage
+__Downloads__: 5,193,109 | __Repository__: https://www.red-gate.com/sca/productpage
 
 ## [ibPS](https://www.powershellgallery.com/Packages/ibPS/1.9.2.10) | 1.9.2.10
 
@@ -532,7 +540,7 @@ __Downloads__: 137 | __Repository__: https://github.com/TehMuffinMoo/ibPS
 
 Helper module for Active Directory with lots of useful functions that simplify supporting Active Directory.
 
-__Downloads__: 198,021 | __Repository__: https://github.com/EvotecIT/ADEssentials
+__Downloads__: 198,022 | __Repository__: https://github.com/EvotecIT/ADEssentials
 
 ## [JyskIT.Automation](https://www.powershellgallery.com/Packages/JyskIT.Automation/0.7.9) | 0.7.9
 
@@ -633,7 +641,7 @@ Harden Windows Safely, Securely, only with Official Microsoft methods
 
 🟡 The module generates a nice output on the screen as well as giving users an option to export the results in a CSV file.
 
-__Downloads__: 7,841 | __Repository__: https://github.com/HotCakeX/Harden-Windows-Security
+__Downloads__: 7,840 | __Repository__: https://github.com/HotCakeX/Harden-Windows-Security
 
 ## [UEFIv2](https://www.powershellgallery.com/Packages/UEFIv2/2.8) | 2.8
 
@@ -641,7 +649,7 @@ __Downloads__: 7,841 | __Repository__: https://github.com/HotCakeX/Harden-Window
 
 Sample module for interacting with UEFI from PowerShell
 
-__Downloads__: 443,817 | __Repository__: 
+__Downloads__: 443,792 | __Repository__: 
 
 ## [JumpCloud.ADMU](https://www.powershellgallery.com/Packages/JumpCloud.ADMU/2.6.4) | 2.6.4
 
@@ -715,6 +723,14 @@ PowerShell module for CapaInstaller containing functions for both the SDK and Po
 
 __Downloads__: 30 | __Repository__: https://github.com/Mark5900/Capa.PowerShell.Module
 
+## [Capa.PowerShell.Module.SDK](https://www.powershellgallery.com/Packages/Capa.PowerShell.Module.SDK/1.4.5) | 1.4.5
+
+### Published: 03/06/2024 12:53:22 by Mark5900
+
+PowerShell module for CapaInstaller containing functions for the SDK.
+
+__Downloads__: 31 | __Repository__: https://github.com/Mark5900/Capa.PowerShell.Module
+
 ## [Capa.PowerShell.Module.SDK.MDM](https://www.powershellgallery.com/Packages/Capa.PowerShell.Module.SDK.MDM/1.4.5) | 1.4.5
 
 ### Published: 03/06/2024 12:53:22 by Mark5900
@@ -723,14 +739,6 @@ PowerShell module for CapaInstaller SDK containing functions for MDM functions.
 	For more information, see https://capasystems.atlassian.net/wiki/spaces/CI65DOC/pages/19382173123/SDK+-+CapaInstaller+Software+Development+Kit+functions
 
 __Downloads__: 32 | __Repository__: https://github.com/Mark5900/Capa.PowerShell.Module
-
-## [Capa.PowerShell.Module.SDK](https://www.powershellgallery.com/Packages/Capa.PowerShell.Module.SDK/1.4.5) | 1.4.5
-
-### Published: 03/06/2024 12:53:22 by Mark5900
-
-PowerShell module for CapaInstaller containing functions for the SDK.
-
-__Downloads__: 31 | __Repository__: https://github.com/Mark5900/Capa.PowerShell.Module
 
 ## [Capa.PowerShell.Module.SDK.VPP](https://www.powershellgallery.com/Packages/Capa.PowerShell.Module.SDK.VPP/1.4.5) | 1.4.5
 
@@ -953,7 +961,7 @@ __Downloads__: 53 | __Repository__: https://github.com/Mark5900/Capa.PowerShell.
 
 Module for PowerShell Universal.
 
-__Downloads__: 79,133 | __Repository__: https://ironmansoftware.com/powershell-universal
+__Downloads__: 79,128 | __Repository__: https://ironmansoftware.com/powershell-universal
 
 ## [BillyLove](https://www.powershellgallery.com/Packages/BillyLove/6.1) | 6.1
 
@@ -1025,7 +1033,7 @@ __Downloads__: 209 | __Repository__: https://github.com/realslacker/SoftwareInst
 
 HP Client Management Script Library
 
-__Downloads__: 34,667,850 | __Repository__: 
+__Downloads__: 34,667,801 | __Repository__: 
 
 ## [OCI.PSModules](https://www.powershellgallery.com/Packages/OCI.PSModules/78.0.0) | 78.0.0
 
@@ -2100,12 +2108,4 @@ This modules provides Cmdlets for OCI Ailanguage Service
 
 __Downloads__: 6,961 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-## [OCI.PSModules.Aidocument](https://www.powershellgallery.com/Packages/OCI.PSModules.Aidocument/78.0.0) | 78.0.0
-
-### Published: 03/05/2024 18:29:02 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Aidocument Service
-
-__Downloads__: 2,308 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-*Updated: Sunday, 10 March 2024 17:51:36 UTC*
+*Updated: Monday, 11 March 2024 02:01:18 UTC*
