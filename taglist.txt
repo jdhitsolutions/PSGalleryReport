@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 11 March 2024 02:01:25 UTC
+Updated: Monday, 11 March 2024 09:51:52 UTC
 
 .bat
 .env
@@ -118,7 +118,6 @@ active
 active_directory
 active-directory
 active-plug
-activecampaign
 activedirectory
 activedirectory_over_html
 activedirectoryauthenticationlibrary
@@ -472,7 +471,6 @@ asbuiltreport
 asc
 ascii
 ascii85
-asciiart
 asdatabase
 asigra
 asjob
@@ -669,10 +667,12 @@ azureartifacts
 azureas
 azureatp
 azureautomation
+azureautomationaccount
 azureautomationnotsupported
 azurebasicloadbalancerupgrade
 azurecli
 azurecognitiveservices
+azurecommonstuff
 azurecontainerapps
 azurecontainers
 azuredatabricks
@@ -695,6 +695,7 @@ azuremigrate
 azuremonitor
 azurenetworking
 azurepack
+azurepipelines
 azurepolicy
 azurepowershell
 azurerepos
@@ -744,6 +745,7 @@ barcodes
 baremetal
 base
 base16
+base26
 base32
 base64
 base64string
@@ -767,8 +769,6 @@ bazzo
 bb
 bbp
 bc
-bcd
-bcdedit
 bcdr
 bd
 bdd
@@ -878,7 +878,6 @@ bookmarks
 books
 bool
 boolean
-bootloader psmodule
 bootstrap
 bootstrapping
 bop
@@ -931,6 +930,7 @@ bugzilla
 build
 build-log
 build-scripts
+builddefinition
 builder
 building
 buildingfile
@@ -1613,7 +1613,6 @@ currency-convereter
 currency-exchange
 currencyconverterapi
 current
-curseforge
 custom
 customchecks
 customdns
@@ -1786,7 +1785,6 @@ decode64
 decoding
 decompiler
 decrypt
-decryption
 dedicatedhsm
 deduplication
 deep
@@ -1849,7 +1847,6 @@ detect
 detection
 detectionrule
 deutschland
-dev
 dev-tools
 devart
 devcenter
@@ -2031,7 +2028,6 @@ dok
 dokuwiki
 domain
 domainkey
-domainname
 domainnamesystem
 domains
 domino
@@ -3607,6 +3603,7 @@ keyvault
 keywords
 kibana
 kickstart
+kidrsa
 kill
 kindle
 kinetic
@@ -4289,6 +4286,7 @@ multi-language
 multi-platform
 multi-threading
 multi-zone
+multiboxing
 multicloud
 multidimenstional
 multimedia
@@ -4352,7 +4350,6 @@ nature
 nav
 navigation
 nbi
-ncal
 ndes
 nebulon
 nec-infrared-transmission-protocol
@@ -4968,7 +4965,6 @@ playbook
 player
 playlists
 playwright
-pleasant
 pleasantpasswordserver
 plex
 plist
@@ -5050,6 +5046,7 @@ poshy-code-search
 poshy-colors
 poshy-coreutils-ish
 poshy-dir-nav
+poshy-ecks
 poshy-env-proxy
 poshy-env-var
 poshy-ls-isms
@@ -5097,7 +5094,6 @@ poshy-wrap-vault
 poshy-wrap-vscode
 poshy-wrap-wget
 poshy-wrap-wt
-poshy-wrap-yum
 poshy-wrap-zypper
 position
 post
@@ -5190,7 +5186,6 @@ powertooldsc
 ppdm
 ppk
 pposh
-pps
 ppt
 pptp
 pptx
@@ -6534,18 +6529,6 @@ pscommand_invoke-vscodewithextensionsdir
 pscommand_invoke-vscodewithlog
 pscommand_invoke-vscodewithuserdatadir
 pscommand_invoke-vscodewithwait
-pscommand_invoke-yumcleanall
-pscommand_invoke-yumgroupinstall
-pscommand_invoke-yumgroupremove
-pscommand_invoke-yuminfo
-pscommand_invoke-yuminstall
-pscommand_invoke-yumlist
-pscommand_invoke-yumlistinstalled
-pscommand_invoke-yummakecache
-pscommand_invoke-yumremove
-pscommand_invoke-yumremoveleaves
-pscommand_invoke-yumsearch
-pscommand_invoke-yumupdate
 pscommand_invoke-zypper
 pscommand_invoke-zypperaddlock
 pscommand_invoke-zypperaddservice
@@ -6592,7 +6575,6 @@ pscommand_invoke-zypperupdate
 pscommand_invoke-zypperverify
 pscommand_invoke-zypperversioncompare
 pscommand_invoke-zypperwhatprovides
-pscommand_invokeyumgrouplist
 pscommand_ips
 pscommand_ipy
 pscommand_ipython
@@ -7061,19 +7043,8 @@ pscommand_write-gitcommitgpgsignedbykey
 pscommand_write-gitcommithelpfullyverbose
 pscommand_write-gitcommitinteractively
 pscommand_write-gitcommitsignedoff
-pscommand_yc
-pscommand_ygi
-pscommand_ygl
-pscommand_ygr
-pscommand_yi
-pscommand_yl
-pscommand_yli
-pscommand_ymc
-pscommand_yp
-pscommand_yr
-pscommand_yrl
-pscommand_ys
-pscommand_yu
+pscommand_xin
+pscommand_xwith
 pscommand_z
 pscommand_zal
 pscommand_zar
@@ -7941,18 +7912,6 @@ psfunction_invoke-vscodewithextensionsdir
 psfunction_invoke-vscodewithlog
 psfunction_invoke-vscodewithuserdatadir
 psfunction_invoke-vscodewithwait
-psfunction_invoke-yumcleanall
-psfunction_invoke-yumgroupinstall
-psfunction_invoke-yumgroupremove
-psfunction_invoke-yuminfo
-psfunction_invoke-yuminstall
-psfunction_invoke-yumlist
-psfunction_invoke-yumlistinstalled
-psfunction_invoke-yummakecache
-psfunction_invoke-yumremove
-psfunction_invoke-yumremoveleaves
-psfunction_invoke-yumsearch
-psfunction_invoke-yumupdate
 psfunction_invoke-zypper
 psfunction_invoke-zypperaddlock
 psfunction_invoke-zypperaddservice
@@ -7999,7 +7958,6 @@ psfunction_invoke-zypperupdate
 psfunction_invoke-zypperverify
 psfunction_invoke-zypperversioncompare
 psfunction_invoke-zypperwhatprovides
-psfunction_invokeyumgrouplist
 psfunction_jump
 psfunction_kerndeb
 psfunction_kres
@@ -8195,6 +8153,8 @@ psfunction_write-gitcommitgpgsignedbykey
 psfunction_write-gitcommithelpfullyverbose
 psfunction_write-gitcommitinteractively
 psfunction_write-gitcommitsignedoff
+psfunction_xin
+psfunction_xwith
 psgallery
 psget
 psgitlab
@@ -8301,7 +8261,6 @@ pubxml
 pulldistributionpoint
 pullrequest
 pullserver
-pulseway
 pulumi
 punycode
 puppet
@@ -8379,6 +8338,7 @@ quickaccess
 quickbase
 quickbooks
 quicksetup
+quiz
 qumulo
 quota
 quote
@@ -8521,9 +8481,6 @@ regions
 regiser-argumentcompleter
 register
 register-argumentcompleter
-registered
-registrar
-registration
 registry
 regression
 regular-expression
@@ -8533,6 +8490,7 @@ reinstall
 relational
 relay
 release
+releasedefinition
 releasehealth
 releasemanagement
 releasenotes
@@ -8636,6 +8594,7 @@ restart
 restful
 restore
 resume
+retail
 retention
 retro
 retry
@@ -8986,7 +8945,6 @@ sendgrid
 sendkeys
 sendmail
 sense
-sensitive
 sensitivity
 sensor
 sensors
@@ -9163,7 +9121,6 @@ sitesystemserver
 sitethumbprint
 size
 skatterbrainz
-skeleton-loader
 skia
 skiasharp
 skolnilogin
@@ -9666,6 +9623,7 @@ task-runner
 task-scheduler
 taskbar
 tasker
+taskgroup
 taskmanagement
 tasks
 taskscheduler
@@ -9857,6 +9815,8 @@ topgrade
 topics
 topology
 tor
+toradex
+torizon
 torrent
 torrents
 toshiba
@@ -10022,6 +9982,7 @@ ud-pivottable
 ud-progressstepbar
 ud-rangeslider
 ud-readingbar
+ud-scrollspy
 ud-selectdatetime
 ud-selector
 ud-signature
@@ -10127,7 +10088,6 @@ uqword
 uri
 uri-scheme
 url
-url-encode
 url-shortener
 urldecode
 urlencode
@@ -10341,7 +10301,6 @@ vpn-certificate
 vpro
 vps
 vra
-vrchat
 vrealize
 vrising
 vro
@@ -10405,6 +10364,7 @@ warraty
 warrenty
 wasabi
 watch
+watchdog
 watchmen
 watery
 wave
@@ -10631,6 +10591,7 @@ workingtime
 workload
 workload-automation
 workloadidentity
+workloads
 workpoint
 workrequests
 worksheet
@@ -10721,6 +10682,7 @@ xevents
 xh
 xi
 xiaomi
+xin
 xkcd
 xliff
 xlsx
@@ -10746,6 +10708,7 @@ xtrude
 xunit
 xwiki
 xwindowsupdate
+xwith
 yahoo
 yahw
 yamaha
@@ -10761,7 +10724,6 @@ youtube-dl
 youtubeextractor
 yq
 yubaba
-yum
 z
 zabbix
 zabbixps
@@ -10783,7 +10745,6 @@ zoomapi
 zoommeeting
 zoxide
 zsh
-zuora
 zvm
 zvml
 zvmlinux
