@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Tuesday, 12 March 2024 02:00:36 UTC
+Updated: Tuesday, 12 March 2024 09:51:49 UTC
 
 .bat
 .env
@@ -426,6 +426,8 @@ apt-get
 apt-get-update
 apteco
 aptitude
+aql
+arangodb
 arc
 arcade
 arcgis
@@ -577,7 +579,6 @@ autostart
 autotask
 autotaskapi
 autotaskpsa
-autounattend
 autoupdate
 autoupdate-script
 autowrapper
@@ -765,7 +766,6 @@ batchclass
 batman
 battery
 bayern
-bazzo
 bb
 bbp
 bc
@@ -908,7 +908,6 @@ brew
 brickset
 bridge
 brightbooking
-brightness
 britannica
 britannicaknowledgesystems
 british-gas
@@ -938,6 +937,7 @@ builder
 building
 buildingfile
 buildingmapping
+buildkit
 buildkite
 buildmaster
 builds
@@ -977,6 +977,7 @@ calculator
 calendar
 callingcode
 callqueue
+calvin-and-hobbes
 cam
 camera
 campaign
@@ -1238,6 +1239,7 @@ cloudshell
 clueser
 cluster
 clusterminimumvalues
+clusterplugins
 cmaccounts
 cmake
 cmakepresets.json
@@ -1443,7 +1445,6 @@ continuous-integration
 continuousdelivery
 continuousdeployment
 continuousintegration
-contrast
 control
 controller
 controlroom
@@ -1641,7 +1642,6 @@ cvrf
 cvss
 cwi
 cx
-cyber
 cyberark
 cyberark-api
 cyberark-identity
@@ -1665,6 +1665,7 @@ dacfx
 dacl
 dacpac
 dacpackage
+dagger
 daily
 dane
 dangling
@@ -1766,8 +1767,6 @@ dcim
 dcim_b324
 dcom
 dcr
-ddc
-ddc/ci
 ddns
 debian
 debug
@@ -2115,7 +2114,6 @@ dsregcmd
 dsutils
 dtc
 dts
-dtsx
 dtx
 du
 dual-stack
@@ -2362,6 +2360,7 @@ eventwatch
 evergreen
 evernote
 everydaypowershell
+everydayrewards
 everything
 evilprince2009
 evolutionary-algorithms
@@ -2534,7 +2533,6 @@ filelogger
 filemanagement
 filematcher
 filename
-filenames
 fileproperties
 filereplication
 files
@@ -2801,7 +2799,6 @@ get-dtscriptnewcmtasksequencefromdriverpackpackagedefinitionsms
 get-emptyadgroups
 get-externalip
 get-firmwaretype
-get-help
 get-history
 get-iislog
 get-openfile
@@ -2817,6 +2814,7 @@ get-samplingperiod
 get-stalecomps
 get-staleusers
 get-thermalstamp
+get-uptime
 getfirmwareenvironmentvariable
 getfirmwaretype
 ggplot
@@ -3226,6 +3224,7 @@ ide
 identifier
 identity
 identity-management
+identitydataplane
 identitydirector
 identitydomains
 identitynow
@@ -3361,7 +3360,6 @@ integration
 integrationaccount
 integrationruntime
 integrationruntimedependency
-integrationservicescatalog
 integrity
 intel
 inteligo
@@ -3513,6 +3511,7 @@ jitbit
 jms
 jnet
 jnetps
+joat
 job
 jobcan
 jobs
@@ -3834,6 +3833,7 @@ logicapps
 logiclesstemplate
 logicmonitor
 login
+login-azurermaccount
 login-rdp
 logingestion
 loginscreen
@@ -3926,7 +3926,6 @@ maker
 malware
 mamagedidentity
 maml
-man-highlighting
 manage
 manage-wmi
 manageability
@@ -3948,7 +3947,6 @@ managementpoint
 manager
 mangement
 manifest
-manual
 map
 mapapi
 mapi
@@ -4003,7 +4001,6 @@ mbs
 mc
 mcafee
 mcas
-mccs
 mcd
 mchapv2
 mct
@@ -4848,14 +4845,12 @@ patching
 path
 pathfinder
 patternmatching
-paulobazzo
 pause
 pax8
 payload
 paylocity
 paypal
 pays
-pb
 pbench
 pbip
 pc
@@ -4945,6 +4940,7 @@ pivot
 pivotal
 pivottable
 pixoo
+pkce
 pki
 pki psmodule
 pks
@@ -5013,7 +5009,6 @@ port
 port-scanner
 port70
 portal
-porthunter
 ports
 portscan
 porttest
@@ -8646,7 +8641,6 @@ retry
 returnuserprofile
 retype
 reuse
-reverse-engineer
 reverse-string
 reversed-color-text
 reversedsc
@@ -8789,7 +8783,6 @@ saml psmodule
 saml2
 sample
 sampler
-samurai
 san
 sand
 sandbox
@@ -8805,6 +8798,7 @@ sas
 sat
 satirical
 save
+savedcreds
 savefile
 savings
 savov
@@ -8906,7 +8900,6 @@ search
 search-adminauditlog
 search-engines
 searchengine
-searcher
 searching
 searchmanager
 searchplace
@@ -8957,6 +8950,7 @@ securitytxt
 sed
 seed
 seek
+seekatar
 seeshell
 select
 select-item
@@ -9815,6 +9809,7 @@ tibber
 tic-tac-toe
 tickle
 ticks
+tictactoe
 tiermodel
 time
 timeout
@@ -10017,7 +10012,6 @@ ud-hero
 ud-illustration
 ud-input
 ud-licensed
-ud-loadingoverlay
 ud-minesweeper
 ud-mouseparticle
 ud-navbarsearch
@@ -10049,6 +10043,7 @@ ud-typing
 ud-window
 ud-wordtree
 udcm
+udfeedback
 udp
 udpclient
 udptest
@@ -10118,6 +10113,7 @@ updatemgmt
 updater
 updates
 updateservices
+updmanagement
 updmgmt
 upgrade
 uplift
@@ -10360,6 +10356,7 @@ vsan
 vsan+
 vscode
 vsdevcmd
+vsdevshell
 vsenvironment
 vsm
 vso
@@ -10463,6 +10460,7 @@ websphereportal
 webtest
 webtesting
 webtime
+webview2
 wec
 wecutil
 weekday
@@ -10615,6 +10613,8 @@ wol
 wolfram
 wolframalpha
 woocommerce
+woolworths
+woolworthsrewards
 word
 word-wrap
 wordcloud
