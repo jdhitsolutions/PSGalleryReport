@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Wednesday, 13 March 2024 09:51:53 UTC
+Updated: Wednesday, 13 March 2024 17:52:03 UTC
 
 .bat
 .env
@@ -155,6 +155,7 @@ add
 add-member
 add-on
 add-on.module
+add-one
 add-path
 add-type
 addin
@@ -271,6 +272,7 @@ alero
 alert
 alerting
 alertmail
+alertmanagement
 alerts
 alertsmanagement
 alfresco
@@ -465,7 +467,6 @@ aruba
 as
 asa
 asa.unittest
-asana
 asbuiltreport
 asc
 ascii
@@ -547,7 +548,6 @@ authorization
 authorizationheaders
 authorize.net
 authz
-autify
 auto
 auto_cd
 auto-completion
@@ -791,6 +791,7 @@ benchpress
 ber
 bestpractice
 bestpractices
+beta
 bginfo
 bi
 bibliography
@@ -838,6 +839,8 @@ biztalkdeploymentframework
 bks
 black
 blackbaud
+blackberry
+blackberryuem
 blackbox
 blacklist
 blade
@@ -1486,6 +1489,7 @@ core
 coreepower
 coreepower.common
 coreepower.config
+coreepower.lib
 coreepower.module
 coreepower.net
 coreepower.net.soundcloudexplode
@@ -1612,6 +1616,7 @@ currency-convereter
 currency-exchange
 currencyconverterapi
 current
+curseforge
 custom
 customchecks
 customdns
@@ -1642,6 +1647,7 @@ cx
 cyber
 cyberark
 cyberark-api
+cyberark-dpa
 cyberark-identity
 cyberdrain
 cybereason
@@ -2139,6 +2145,7 @@ dword
 dxexpeditions
 dynamic
 dynamic-host-configuration-protocol
+dynamic-privileged-access
 dynamicdistributiongroups
 dynamicdnsoverhttps
 dynamicparam
@@ -2188,6 +2195,7 @@ education
 educational
 effectiveroutes
 efficientether
+efi
 egrep
 eid
 eigencontroles
@@ -2264,6 +2272,7 @@ enterprisevoice
 entity
 entityframework
 entra
+entra-id
 entraid
 entropy
 enum
@@ -2424,6 +2433,7 @@ exponentiation
 export
 export-cmhealthreport
 export-data
+export-passlist
 exportcertificate
 exportcertificates
 exporter
@@ -2796,12 +2806,15 @@ get-dtscriptnewcmpackagefromdriverpackpackagedefinitionsms
 get-dtscriptnewcmtasksequencefromdriverpackpackagedefinitionsms
 get-emptyadgroups
 get-externalip
+get-firmwaretype
 get-help
 get-history
 get-iislog
 get-openfile
 get-openfiles
+get-pass
 get-passivetrippoint
+get-passlist
 get-path
 get-pinneditem
 get-samcmassignedsite
@@ -2811,6 +2824,8 @@ get-stalecomps
 get-staleusers
 get-thermalstamp
 get-uptime
+getfirmwareenvironmentvariable
+getfirmwaretype
 ggplot
 gh
 gh-actions
@@ -2838,6 +2853,7 @@ gitforwindows
 github
 github-actions
 githubactions
+githubcli
 githubtools
 githubworkflow
 gitignore
@@ -2877,7 +2893,6 @@ googlecloudplatform
 googledrive
 googlemap
 googlemaps
-googleworkspace
 gopher
 gopher-tls
 gopher+
@@ -3031,8 +3046,6 @@ heating
 heavenbay
 helium
 helix
-hello
-helloid
 helloposhgallery
 helloworld
 helm
@@ -3275,6 +3288,7 @@ import
 import-csv
 import-dtdriverpackpackagedefinitionsms
 import-modulefrompath
+import-passlist
 import-sampackagedefinitionsms
 importer
 importexport
@@ -3488,6 +3502,7 @@ java
 javamanager
 javascript
 javaversion
+jboss
 jdbc
 jde
 jdedwards
@@ -3789,7 +3804,6 @@ location
 locationbasedservices
 lock
 lockbox
-lockdisplaytimeout
 lockdown
 locking
 lockoutreport
@@ -3889,6 +3903,7 @@ machine
 machinelearning
 machinelearningcompute
 machinelearningservices
+macmon
 macos
 macosx
 macro
@@ -4316,6 +4331,7 @@ mytest
 n-able
 n-central
 nabu
+nac
 nagios
 name
 name-of-dogs
@@ -4342,6 +4358,7 @@ ncal
 ndes
 nebulon
 nec-infrared-transmission-protocol
+nederland
 nedyalkov
 neo4j
 neovim
@@ -4490,6 +4507,7 @@ nql
 nrc
 nrql
 ns
+ns.nl
 nsg
 nslookup
 nsx
@@ -4504,6 +4522,7 @@ nuget
 nuget-references
 nuget.exe
 nuget.org
+nugetpackageprovider
 number
 numlock
 nunit
@@ -4775,7 +4794,9 @@ pages
 paloalto
 paloaltonetworks
 pam
+panels
 pansies
+panther
 panzerbjrn
 pap
 paper
@@ -4950,7 +4971,6 @@ playbook
 player
 playlists
 playwright
-pleasant
 pleasantpasswordserver
 plex
 plist
@@ -4964,6 +4984,7 @@ ply
 pmp
 pncit
 pnp
+pnp.powershell
 pnpm
 pode
 poe
@@ -5172,7 +5193,6 @@ powertooldsc
 ppdm
 ppk
 pposh
-pps
 ppt
 pptp
 pptx
@@ -8351,7 +8371,6 @@ qrcodes
 qrp
 qrs
 quality
-qualys
 quandl
 quantum
 quarantine
@@ -8390,7 +8409,6 @@ raisers
 raisersedge
 raj
 ram
-ram-it
 random
 random-date
 random-password
@@ -8443,6 +8461,7 @@ readpdf
 readthedocs
 real-time
 realschule
+realtimeprotection
 rebase
 reboot
 rebootnodeifneeded
@@ -8555,6 +8574,7 @@ remoting
 remove
 remove-githubsecrets
 remove-itemproperty
+remove-pass
 remove-path
 remove-pinneditem
 remove-tempfiles
@@ -8775,7 +8795,6 @@ sample
 sampler
 samurai
 san
-sand
 sandbox
 sanitization
 sanitizer
@@ -9038,8 +9057,10 @@ set-itemproperty
 set-location
 set-openfiles
 set-ownership
+set-pass
 set-psbreakpoint
 set-psenv
+set-randompass
 set-type
 setbios
 sets
@@ -9305,6 +9326,7 @@ speedtester
 spellcheck
 spelling
 spf
+spfx
 spi
 spicetify
 spinnaker
@@ -9386,8 +9408,6 @@ ssl
 sslcert
 sslcertificate
 sslflags
-ssllabs
-ssllabs-scan
 sslprotocol
 ssm
 sso
@@ -9525,7 +9545,6 @@ sudo
 sugar
 sugarcrm
 suggestion
-suitecrm
 sullivan
 summary
 sumologic
@@ -9683,7 +9702,6 @@ techedna2014
 techlog
 technology
 techsmith
-tel
 telegram
 telegram-bot
 telegram-bot-api
@@ -9729,7 +9747,6 @@ test-psremoting
 test-samcmapplicationexists
 test-samcmpackageexists
 test-userisadministrator
-test-xml
 test123
 testaccount
 testautomation
@@ -9839,7 +9856,6 @@ tool
 toolbox
 toolkit
 tools
-tools4ever
 topdesk
 topgrade
 topics
@@ -9869,6 +9885,7 @@ traffic
 trafficfiltering
 trafficmanager
 trafficmarking
+train
 training
 training-course
 tram
@@ -9896,6 +9913,7 @@ tree
 tree-structure
 treesize
 treffynnon
+trein
 trello
 trellops
 trend
@@ -9927,6 +9945,7 @@ trx
 ts
 tsa
 tsd
+tsheets
 tsqlbestpractice
 tst
 tst1
@@ -10012,6 +10031,7 @@ ud-scrollspy
 ud-selectdatetime
 ud-selector
 ud-signature
+ud-simpledrawer
 ud-singleselect
 ud-slider
 ud-speechbubble
@@ -10036,6 +10056,7 @@ udr
 udthememode
 udword
 uefi
+uem
 ui
 ui/ux
 ui7
@@ -10388,7 +10409,6 @@ warplaneporn
 warranty
 warraty
 warrenty
-wasabi
 watch
 watchdog
 watchmen
@@ -10477,6 +10497,7 @@ wifi
 wiki
 wildcard
 wildfire
+wildfly
 wim
 wim2vhd
 wimwitch
@@ -10625,7 +10646,6 @@ workspacemanager
 workspaceone
 workspaces
 workstation
-world
 worldcup
 worryfreebusinesssecurity
 wow
@@ -10656,6 +10676,7 @@ writelog
 writemanager
 writeprogress
 writer
+ws-federation
 wsapi
 wsb
 wsl
@@ -10715,7 +10736,6 @@ xml-rpc
 xml-transform
 xmla
 xmlrpc
-xmlutils
 xoauth2
 xor
 xpath
