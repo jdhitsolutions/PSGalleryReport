@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Wednesday, 13 March 2024 02:01:52 UTC
+Updated: Wednesday, 13 March 2024 09:51:53 UTC
 
 .bat
 .env
@@ -271,7 +271,6 @@ alero
 alert
 alerting
 alertmail
-alertmanagement
 alerts
 alertsmanagement
 alfresco
@@ -311,6 +310,7 @@ amp
 amqp
 amsi
 amt
+amxmodx
 anaconda
 analysis
 analysisservices
@@ -409,6 +409,7 @@ appservice
 appservices
 appsetting
 appv
+appventix
 appveyor
 appvolumes
 appx
@@ -481,6 +482,7 @@ asp
 asp.net
 aspnet
 aspnet_regiis
+asr
 assembleenationale
 assembly
 assemblyloadcontext
@@ -514,6 +516,7 @@ atrium
 att&ck
 attach
 attestation
+attila
 attribute
 attributes
 au
@@ -788,7 +791,6 @@ benchpress
 ber
 bestpractice
 bestpractices
-beta
 bginfo
 bi
 bibliography
@@ -836,8 +838,6 @@ biztalkdeploymentframework
 bks
 black
 blackbaud
-blackberry
-blackberryuem
 blackbox
 blacklist
 blade
@@ -884,6 +884,7 @@ bop
 bot
 bots
 botservice
+bouncer
 boundaries
 boundarygroups
 bounty
@@ -981,8 +982,10 @@ campaign
 camtasia
 canarie
 cancel
+cancellation
 canonical
 cantara
+capability
 capacity
 capacitymanagement
 capainstaller
@@ -1369,6 +1372,7 @@ conda
 condition
 conditionalaccess
 conduit
+conference
 confidentialclient
 confidentialledger
 config
@@ -1482,7 +1486,6 @@ core
 coreepower
 coreepower.common
 coreepower.config
-coreepower.lib
 coreepower.module
 coreepower.net
 coreepower.net.soundcloudexplode
@@ -1512,6 +1515,7 @@ cover
 coverage
 coveralls
 coveralls.io
+covid
 covid-19
 cpm
 cppm
@@ -1591,6 +1595,7 @@ csvhelper
 ctf
 ctglobal
 ctl
+ctrl+c
 ctx
 ctype
 cubes
@@ -1607,7 +1612,6 @@ currency-convereter
 currency-exchange
 currencyconverterapi
 current
-curseforge
 custom
 customchecks
 customdns
@@ -1638,7 +1642,6 @@ cx
 cyber
 cyberark
 cyberark-api
-cyberark-dpa
 cyberark-identity
 cyberdrain
 cybereason
@@ -2136,7 +2139,6 @@ dword
 dxexpeditions
 dynamic
 dynamic-host-configuration-protocol
-dynamic-privileged-access
 dynamicdistributiongroups
 dynamicdnsoverhttps
 dynamicparam
@@ -2159,6 +2161,7 @@ dz
 e-mail
 e1
 easy
+easy-to-use
 easylife365
 easyvista
 eaton
@@ -2185,7 +2188,6 @@ education
 educational
 effectiveroutes
 efficientether
-efi
 egrep
 eid
 eigencontroles
@@ -2262,7 +2264,6 @@ enterprisevoice
 entity
 entityframework
 entra
-entra-id
 entraid
 entropy
 enum
@@ -2364,6 +2365,7 @@ evolutionary-algorithms
 evolutionary-database
 evtx
 ews
+exact
 example
 examples
 excel
@@ -2422,7 +2424,6 @@ exponentiation
 export
 export-cmhealthreport
 export-data
-export-passlist
 exportcertificate
 exportcertificates
 exporter
@@ -2692,6 +2693,7 @@ fslogix
 fsrm
 ftp
 ftps
+fu-msauth
 fudge
 fudgepop
 fujitsu
@@ -2724,6 +2726,7 @@ gallery
 game
 gamecategory:cards
 games
+gameserver
 gaming
 garage
 gas
@@ -2793,15 +2796,12 @@ get-dtscriptnewcmpackagefromdriverpackpackagedefinitionsms
 get-dtscriptnewcmtasksequencefromdriverpackpackagedefinitionsms
 get-emptyadgroups
 get-externalip
-get-firmwaretype
 get-help
 get-history
 get-iislog
 get-openfile
 get-openfiles
-get-pass
 get-passivetrippoint
-get-passlist
 get-path
 get-pinneditem
 get-samcmassignedsite
@@ -2811,8 +2811,6 @@ get-stalecomps
 get-staleusers
 get-thermalstamp
 get-uptime
-getfirmwareenvironmentvariable
-getfirmwaretype
 ggplot
 gh
 gh-actions
@@ -2840,7 +2838,6 @@ gitforwindows
 github
 github-actions
 githubactions
-githubcli
 githubtools
 githubworkflow
 gitignore
@@ -3048,6 +3045,7 @@ helper-functions
 helperfunctions
 helpers
 helpfile
+helpful
 heml
 here
 hewlett
@@ -3277,7 +3275,6 @@ import
 import-csv
 import-dtdriverpackpackagedefinitionsms
 import-modulefrompath
-import-passlist
 import-sampackagedefinitionsms
 importer
 importexport
@@ -3491,7 +3488,6 @@ java
 javamanager
 javascript
 javaversion
-jboss
 jdbc
 jde
 jdedwards
@@ -3513,6 +3509,7 @@ job
 jobcan
 jobs
 jobscheduler
+johnshopkins
 join
 join-object
 jojoba
@@ -3617,6 +3614,7 @@ kotlin
 kql
 kraken
 krbtgt
+krick
 kschemaplugin
 kubclt
 kube
@@ -3891,7 +3889,6 @@ machine
 machinelearning
 machinelearningcompute
 machinelearningservices
-macmon
 macos
 macosx
 macro
@@ -4296,6 +4293,7 @@ musiccast
 mustache
 mutation
 mute
+mutex
 mva
 mvc
 mvn
@@ -4318,7 +4316,6 @@ mytest
 n-able
 n-central
 nabu
-nac
 nagios
 name
 name-of-dogs
@@ -4334,6 +4331,7 @@ nanoleaf
 nartac
 nasdaq
 native
+natpool
 natural-language-to-code
 natural-selection
 nature
@@ -4344,7 +4342,6 @@ ncal
 ndes
 nebulon
 nec-infrared-transmission-protocol
-nederland
 nedyalkov
 neo4j
 neovim
@@ -4493,7 +4490,6 @@ nql
 nrc
 nrql
 ns
-ns.nl
 nsg
 nslookup
 nsx
@@ -4508,7 +4504,6 @@ nuget
 nuget-references
 nuget.exe
 nuget.org
-nugetpackageprovider
 number
 numlock
 nunit
@@ -4577,6 +4572,7 @@ officedev
 officegraph
 officemessageencryption
 officertool
+offline
 offlinewimservicing
 ofx
 ogg
@@ -4595,6 +4591,7 @@ omnistack
 oms
 omsagent
 on
+on-demand
 on-premise
 onboard
 onboardadministrator
@@ -4677,6 +4674,7 @@ optimizer
 option
 option119
 options
+optionstring
 opus
 oracle
 oraclecloudinfrastructure
@@ -4777,9 +4775,7 @@ pages
 paloalto
 paloaltonetworks
 pam
-panels
 pansies
-panther
 panzerbjrn
 pap
 paper
@@ -4935,6 +4931,7 @@ pivot
 pivotal
 pivottable
 pixoo
+pkce
 pki
 pki psmodule
 pks
@@ -4967,7 +4964,6 @@ ply
 pmp
 pncit
 pnp
-pnp.powershell
 pnpm
 pode
 poe
@@ -5049,6 +5045,7 @@ poshy-viewer-finder
 poshy-wrap
 poshy-wrap-apt
 poshy-wrap-argcomplete
+poshy-wrap-brew
 poshy-wrap-curl
 poshy-wrap-dnf
 poshy-wrap-docker
@@ -5195,6 +5192,7 @@ prepareschema
 prepend
 preprocessing
 preprocessor
+presentation
 presenter
 presto
 preston-k-parsard
@@ -5370,6 +5368,9 @@ pscommand_apt-list-packages
 pscommand_arch
 pscommand_asrc
 pscommand_basename
+pscommand_bcubc
+pscommand_bcubo
+pscommand_bfu
 pscommand_bgblack
 pscommand_bgblue
 pscommand_bgbrightblack
@@ -5389,6 +5390,14 @@ pscommand_bgred
 pscommand_bgrgb
 pscommand_bgwhite
 pscommand_bgyellow
+pscommand_brewp
+pscommand_brewsp
+pscommand_bubc
+pscommand_bubo
+pscommand_bubu
+pscommand_bubug
+pscommand_bugbc
+pscommand_buz
 pscommand_catimg
 pscommand_cd-
 pscommand_cd..
@@ -6021,6 +6030,17 @@ pscommand_invoke-aptgetsource
 pscommand_invoke-aptlistinstalled
 pscommand_invoke-aptlistupgradable
 pscommand_invoke-aptpreferred
+pscommand_invoke-brewlistpinned
+pscommand_invoke-brewpin
+pscommand_invoke-brewuninstallzap
+pscommand_invoke-brewupdateandoutdated
+pscommand_invoke-brewupdateandoutdatedandupgradeandcleanup
+pscommand_invoke-brewupdateandoutdatedandupgradegreedyandcleanup
+pscommand_invoke-brewupdateandoutdatedcask
+pscommand_invoke-brewupgradeandcleanup
+pscommand_invoke-brewupgradecaskandcleanup
+pscommand_invoke-brewupgradeformula
+pscommand_invoke-brewupgradegreedyandcleanup
 pscommand_invoke-curlfollowingredirects
 pscommand_invoke-curlfollowingredirectsdownloadasnamed
 pscommand_invoke-curlfollowingredirectsdownloadasnamedcontinue
@@ -7419,6 +7439,17 @@ psfunction_invoke-aptgetsource
 psfunction_invoke-aptlistinstalled
 psfunction_invoke-aptlistupgradable
 psfunction_invoke-aptpreferred
+psfunction_invoke-brewlistpinned
+psfunction_invoke-brewpin
+psfunction_invoke-brewuninstallzap
+psfunction_invoke-brewupdateandoutdated
+psfunction_invoke-brewupdateandoutdatedandupgradeandcleanup
+psfunction_invoke-brewupdateandoutdatedandupgradegreedyandcleanup
+psfunction_invoke-brewupdateandoutdatedcask
+psfunction_invoke-brewupgradeandcleanup
+psfunction_invoke-brewupgradecaskandcleanup
+psfunction_invoke-brewupgradeformula
+psfunction_invoke-brewupgradegreedyandcleanup
 psfunction_invoke-curlfollowingredirects
 psfunction_invoke-curlfollowingredirectsdownloadasnamed
 psfunction_invoke-curlfollowingredirectsdownloadasnamedcontinue
@@ -8524,7 +8555,6 @@ remoting
 remove
 remove-githubsecrets
 remove-itemproperty
-remove-pass
 remove-path
 remove-pinneditem
 remove-tempfiles
@@ -9008,10 +9038,8 @@ set-itemproperty
 set-location
 set-openfiles
 set-ownership
-set-pass
 set-psbreakpoint
 set-psenv
-set-randompass
 set-type
 setbios
 sets
@@ -9240,7 +9268,9 @@ source-dedicated-server
 sourcecontrol
 sourceforge
 sourcegraph
+sourcemod
 sourceone
+sourcepawn
 sourcequery
 sovcloud
 space
@@ -9258,6 +9288,7 @@ spdx-license-identifier:ms-pl
 spe
 speach
 speak
+speaker
 spec
 specification
 specify
@@ -9274,7 +9305,6 @@ speedtester
 spellcheck
 spelling
 spf
-spfx
 spi
 spicetify
 spinnaker
@@ -9488,6 +9518,7 @@ subscriptiondefinition
 subset
 subsystem
 subtitle
+subversion
 success
 successfactors
 sudo
@@ -9838,7 +9869,6 @@ traffic
 trafficfiltering
 trafficmanager
 trafficmarking
-train
 training
 training-course
 tram
@@ -9866,7 +9896,6 @@ tree
 tree-structure
 treesize
 treffynnon
-trein
 trello
 trellops
 trend
@@ -9898,7 +9927,6 @@ trx
 ts
 tsa
 tsd
-tsheets
 tsqlbestpractice
 tst
 tst1
@@ -9986,6 +10014,7 @@ ud-selector
 ud-signature
 ud-singleselect
 ud-slider
+ud-speechbubble
 ud-step
 ud-stepbar
 ud-stickynavbar
@@ -10007,7 +10036,6 @@ udr
 udthememode
 udword
 uefi
-uem
 ui
 ui/ux
 ui7
@@ -10416,6 +10444,7 @@ websphereportal
 webtest
 webtesting
 webtime
+webview2
 wec
 wecutil
 weekday
@@ -10448,7 +10477,6 @@ wifi
 wiki
 wildcard
 wildfire
-wildfly
 wim
 wim2vhd
 wimwitch
@@ -10590,6 +10618,7 @@ workload-automation
 workloadidentity
 workloads
 workpoint
+workrequests
 worksheet
 workspace
 workspacemanager
@@ -10627,7 +10656,6 @@ writelog
 writemanager
 writeprogress
 writer
-ws-federation
 wsapi
 wsb
 wsl
