@@ -3,6 +3,54 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [IntuneBackupAndRestoreSP](https://www.powershellgallery.com/Packages/IntuneBackupAndRestoreSP/3.3.0) | 3.3.0
+
+### Published: 03/14/2024 17:29:18 by Steven Patterson
+
+PowerShell Module that queries Microsoft Graph, and allows for cross-tenant Backup & Restore actions of your Intune Configuration.
+
+__Downloads__: 0 | __Repository__: 
+
+## [Prelude](https://www.powershellgallery.com/Packages/Prelude/0.2.19) | 0.2.19
+
+### Published: 03/14/2024 16:01:10 by Jason Wohlgemuth
+
+A "standard" library for PowerShell inspired by the preludes of other languages
+
+__Downloads__: 4,160 | __Repository__: https://github.com/jhwohlgemuth/pwsh-prelude
+
+## [AzureBasicLoadBalancerUpgrade](https://www.powershellgallery.com/Packages/AzureBasicLoadBalancerUpgrade/2.4.8) | 2.4.8
+
+### Published: 03/14/2024 14:49:04 by FastTrack for Azure
+
+This module will migrate a Basic SKU load balancer connected to a Virtual Machine Scaleset or Virtual Machines to a Standard SKU load balancer, preserving the existing configuration and functionality.
+
+__Downloads__: 2,545 | __Repository__: https://github.com/Azure/AzLoadBalancerMigration
+
+## [SqlChangeAutomation](https://www.powershellgallery.com/Packages/SqlChangeAutomation/4.6.24074.3244) | 4.6.24074.3244
+
+### Published: 03/14/2024 14:41:38 by Red Gate Software Ltd.
+
+Automation tools for production quality database deployment
+
+__Downloads__: 5,207,633 | __Repository__: https://www.red-gate.com/sca/productpage
+
+## [TisaneLampClient](https://www.powershellgallery.com/Packages/TisaneLampClient/7.0.24) | 7.0.24
+
+### Published: 03/14/2024 11:18:35 by CR
+
+Client side scripts for Tisane to modify language models
+
+__Downloads__: 431 | __Repository__: 
+
+## [AzSK.ADO](https://www.powershellgallery.com/Packages/AzSK.ADO/1.22.0) | 1.22.0
+
+### Published: 03/14/2024 10:41:37 by AzSK Team
+
+Security Scanner for Azure DevOps (ADO)
+
+__Downloads__: 146,861 | __Repository__: https://github.com/azsk/azsk-docs
+
 ## [ibPS](https://www.powershellgallery.com/Packages/ibPS/1.9.3.0) | 1.9.3.0
 
 ### Published: 03/14/2024 09:35:00 by Mat Cox
@@ -26,6 +74,14 @@ __Downloads__: 386 | __Repository__: https://github.com/steve02081504/ps12exe
 PowerShell module, which makes it easier to work with Business Central Containers on Docker.
 
 __Downloads__: 1,751,140 | __Repository__: https://github.com/microsoft/navcontainerhelper
+
+## [RiverMeadow.Development.Migrate](https://www.powershellgallery.com/Packages/RiverMeadow.Development.Migrate/1.0.121.494) | 1.0.121.494
+
+### Published: 03/14/2024 07:01:00 by RiverMeadow Engineering Team
+
+Provides cmdlets for starting migration of applications to supported clouds using the RiverMeadow platform.
+
+__Downloads__: 610 | __Repository__: https://migrate.rivermeadow.com/
 
 ## [Cisco.IMC](https://www.powershellgallery.com/Packages/Cisco.IMC/3.0.4.9) | 3.0.4.9
 
@@ -105,7 +161,7 @@ __Downloads__: 161 | __Repository__: https://github.com/PSModule/PublicIP
 
 Powershell Logging Module. Support multiple logging targets, including console, file, sqlite, winevent, gelf, slack etc.
 
-__Downloads__: 8,198 | __Repository__: https://getps.dev/modules/PSLogs/getstarted
+__Downloads__: 8,197 | __Repository__: https://getps.dev/modules/PSLogs/getstarted
 
 ## [BinaryTree.Internal.Power365.Dev](https://www.powershellgallery.com/Packages/BinaryTree.Internal.Power365.Dev/20.12.15.2614) | 20.12.15.2614
 
@@ -145,7 +201,7 @@ __Downloads__: 1 | __Repository__:
 
 Powershell wrapper to interact with Google API
 
-__Downloads__: 426,064 | __Repository__: https://github.com/umn-microsoft-automation/UMN-Google
+__Downloads__: 426,068 | __Repository__: https://github.com/umn-microsoft-automation/UMN-Google
 
 ## [UiPathOrch](https://www.powershellgallery.com/Packages/UiPathOrch/0.8.6.7) | 0.8.6.7
 
@@ -796,14 +852,6 @@ This modules provides Cmdlets for OCI Jmsjavadownloads Service
 
 __Downloads__: 866 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-## [OCI.PSModules.Jms](https://www.powershellgallery.com/Packages/OCI.PSModules.Jms/78.1.0) | 78.1.0
-
-### Published: 03/12/2024 19:02:42 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Jms Service
-
-__Downloads__: 4,350 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
 ## [OCI.PSModules.Integration](https://www.powershellgallery.com/Packages/OCI.PSModules.Integration/78.1.0) | 78.1.0
 
 ### Published: 03/12/2024 19:02:35 by Oracle Cloud Infrastructure
@@ -1402,7 +1450,7 @@ __Downloads__: 187 | __Repository__:
 
 COMMVAULT POWERSHELL SDK
 
-__Downloads__: 795 | __Repository__: https://github.com/Commvault/CVPowershellSDKV2/tree/2022E
+__Downloads__: 796 | __Repository__: https://github.com/Commvault/CVPowershellSDKV2/tree/2022E
 
 ## [SPSAeries](https://www.powershellgallery.com/Packages/SPSAeries/0.3.5) | 0.3.5
 
@@ -1434,7 +1482,7 @@ __Downloads__: 42,918 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions that generate configuration scripts and manage FortiOS.
 
-__Downloads__: 22,389 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 22,393 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.VMWareAutomate](https://www.powershellgallery.com/Packages/AdminToolbox.VMWareAutomate/4.8.133) | 4.8.133
 
@@ -1442,7 +1490,7 @@ __Downloads__: 22,389 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions to Automate Bulk VMWare Tasks
 
-__Downloads__: 29,328 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 29,333 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.Remoting](https://www.powershellgallery.com/Packages/AdminToolbox.Remoting/1.9.136) | 1.9.136
 
@@ -1450,7 +1498,7 @@ __Downloads__: 29,328 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions for remote management and access.
 
-__Downloads__: 29,151 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 29,156 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.Office365](https://www.powershellgallery.com/Packages/AdminToolbox.Office365/3.1.86) | 3.1.86
 
@@ -1458,7 +1506,7 @@ __Downloads__: 29,151 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions for working with Office365 and Azure modules
 
-__Downloads__: 31,231 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 31,236 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.Networking](https://www.powershellgallery.com/Packages/AdminToolbox.Networking/2.18.44) | 2.18.44
 
@@ -1466,7 +1514,7 @@ __Downloads__: 31,231 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Network Troubleshooting Functions
 
-__Downloads__: 74,383 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 74,385 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.MSGraph](https://www.powershellgallery.com/Packages/AdminToolbox.MSGraph/1.2.136) | 1.2.136
 
@@ -1474,7 +1522,7 @@ __Downloads__: 74,383 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Microsoft Graph interactive API Functions
 
-__Downloads__: 19,272 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 19,276 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.Fun](https://www.powershellgallery.com/Packages/AdminToolbox.Fun/1.6.137) | 1.6.137
 
@@ -1482,7 +1530,7 @@ __Downloads__: 19,272 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions that have no purpose
 
-__Downloads__: 29,608 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 29,614 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.FileManagement](https://www.powershellgallery.com/Packages/AdminToolbox.FileManagement/1.16.128) | 1.16.128
 
@@ -1490,7 +1538,7 @@ __Downloads__: 29,608 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 File Management Functions
 
-__Downloads__: 30,112 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 30,117 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.FFTools](https://www.powershellgallery.com/Packages/AdminToolbox.FFTools/4.16.86) | 4.16.86
 
@@ -1498,7 +1546,7 @@ __Downloads__: 30,112 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Expedite simple ffmpeg actions
 
-__Downloads__: 29,975 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 29,980 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.Exchange](https://www.powershellgallery.com/Packages/AdminToolbox.Exchange/1.9.137) | 1.9.137
 
@@ -1506,7 +1554,7 @@ __Downloads__: 29,975 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions for Exchange Management
 
-__Downloads__: 31,195 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 31,200 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.EndpointManagement](https://www.powershellgallery.com/Packages/AdminToolbox.EndpointManagement/4.10.13) | 4.10.13
 
@@ -1514,7 +1562,7 @@ __Downloads__: 31,195 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions for management of endpoints
 
-__Downloads__: 35,887 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 35,892 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.ActiveDirectory](https://www.powershellgallery.com/Packages/AdminToolbox.ActiveDirectory/1.9.134) | 1.9.134
 
@@ -1522,7 +1570,7 @@ __Downloads__: 35,887 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions for Active Directory
 
-__Downloads__: 36,028 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 36,033 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [Capa.PowerShell.Module](https://www.powershellgallery.com/Packages/Capa.PowerShell.Module/1.5.0) | 1.5.0
 
@@ -1826,7 +1874,7 @@ __Downloads__: 622 | __Repository__:
 
 cmdlets for DevOps for Business Central
 
-__Downloads__: 26,167 | __Repository__: https://www.github.com/kine/NVRAppDevOps
+__Downloads__: 26,166 | __Repository__: https://www.github.com/kine/NVRAppDevOps
 
 ## [JyskIT.Automation](https://www.powershellgallery.com/Packages/JyskIT.Automation/0.8.2) | 0.8.2
 
@@ -1842,7 +1890,7 @@ __Downloads__: 342 | __Repository__:
 
 Automatically right sizes any Azure Windows VM based on configurable telemetry data to the optimal size based on cpu/mem, performance rating and cost. Use Get-Help set-vmRightSize or Get-Help set-rsgRightSize for more information on specific commands or check my blog.
 
-__Downloads__: 1,037 | __Repository__: https://www.lieben.nu/liebensraum/2022/05/automatic-modular-rightsizing-of-azure-vms-with-special-focus-on-azure-virtual-desktop/
+__Downloads__: 1,038 | __Repository__: https://www.lieben.nu/liebensraum/2022/05/automatic-modular-rightsizing-of-azure-vms-with-special-focus-on-azure-virtual-desktop/
 
 ## [PSBow](https://www.powershellgallery.com/Packages/PSBow/0.0.6) | 0.0.6
 
@@ -1980,65 +2028,4 @@ Chocolatey Automatic Package Updater Module
 
 __Downloads__: 4 | __Repository__: https://github.com/chocolatey-community/chocolatey-au
 
-## [Compex.NewRelic](https://www.powershellgallery.com/Packages/Compex.NewRelic/2.1.0) | 2.1.0
-
-### Published: 03/11/2024 15:20:41 by Mark Studer and Shaun Titus
-
-Module for working with NewRelic
-
-__Downloads__: 1,679 | __Repository__: https://bitbucket.org/compexlegal/newrelic.ps/src/
-
-## [PowerInfoblox](https://www.powershellgallery.com/Packages/PowerInfoblox/1.0.7) | 1.0.7
-
-### Published: 03/11/2024 12:21:39 by Przemyslaw Klys
-
-Helper module for Infoblox.
-
-__Downloads__: 52 | __Repository__: https://github.com/EvotecIT/PowerInfoblox
-
-## [MSGraphStuff](https://www.powershellgallery.com/Packages/MSGraphStuff/1.0.9) | 1.0.9
-
-### Published: 03/11/2024 12:17:54 by @AndrewZtrhgf
-
-Microsoft Graph API related functions. Some of them are explained at https://doitpsway.com.
-
-Some of the functions:
-- Expand-MgAdditionalProperties - Function for expanding "AdditionalProperties" hash property to the main object aka flattens the returned object
-- Get-CodeGraphModuleDependency - Function for getting Graph SDK modules required to run given code
-- Get-CodeGraphPermissionRequirement - Function for getting Graph API permissions (scopes) that are needed tu run selected code
-- Invoke-GraphAPIRequest - Function for creating request against Microsoft Graph API. Unlike official one supports paging and throttling
-- New-GraphAPIAuthHeader - Function for generating header that can be used for authentication of Graph API requests
-- ...
-
-__Downloads__: 15,258 | __Repository__: https://github.com/ztrhgf/useful_powershell_modules
-
-## [AzureCommonStuff](https://www.powershellgallery.com/Packages/AzureCommonStuff/1.0.1) | 1.0.1
-
-### Published: 03/11/2024 09:46:41 by @AndrewZtrhgf
-
-Various Azure related functions focused on authentication etc. More details at https://doitpsway.com/series/azure.
-Some of the interesting functions:
-- Connect-AzAccount2 - proxy function for Connect-AzAccount, but supports reusing the existing session
-- Connect-PnPOnline2 - proxy function for Connect-PnPOnline with some enhancements like: automatic MFA auth if MFA detected, skipping authentication if already authenticated etc
-- New-AzureDevOpsAuthHeader - creates auth header for DevOps authentication
-- ...
-
-__Downloads__: 61 | __Repository__: https://github.com/ztrhgf/useful_powershell_modules
-
-## [string](https://www.powershellgallery.com/Packages/string/1.1.5) | 1.1.5
-
-### Published: 03/11/2024 09:04:27 by Friedrich Weinmann
-
-Module to execute script operations
-
-__Downloads__: 39,121 | __Repository__: https://github.com/FriedrichWeinmann/string
-
-## [PowerShellBuild5_1](https://www.powershellgallery.com/Packages/PowerShellBuild5_1/0.6.2) | 0.6.2
-
-### Published: 03/11/2024 06:54:27 by Brandon Olin
-
-A common psake and Invoke-Build task module for PowerShell projects
-
-__Downloads__: 17 | __Repository__: https://github.com/psake/PowerShellBuild
-
-*Updated: Thursday, 14 March 2024 09:51:42 UTC*
+*Updated: Thursday, 14 March 2024 17:51:51 UTC*
