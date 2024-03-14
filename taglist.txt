@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Wednesday, 13 March 2024 17:52:03 UTC
+Updated: Thursday, 14 March 2024 02:00:57 UTC
 
 .bat
 .env
@@ -69,7 +69,6 @@ aadsecurity
 aadsts
 aam
 aas
-aatp
 abc
 abc_testing
 abe
@@ -411,7 +410,6 @@ appservice
 appservices
 appsetting
 appv
-appventix
 appveyor
 appvolumes
 appx
@@ -467,6 +465,7 @@ aruba
 as
 asa
 asa.unittest
+asana
 asbuiltreport
 asc
 ascii
@@ -499,7 +498,6 @@ assistant
 association
 ast
 astronomy
-asv
 asymmetric
 async
 asynchronous
@@ -548,6 +546,7 @@ authorization
 authorizationheaders
 authorize.net
 authz
+autify
 auto
 auto_cd
 auto-completion
@@ -660,12 +659,10 @@ azureadbackupandrestore
 azureadconnect
 azureadgraph
 azureadtoolkit
-azureadvancedthreatprotection
 azureappconfiguration
 azureapplicationstuff
 azureartifacts
 azureas
-azureatp
 azureautomation
 azureautomationaccount
 azureautomationnotsupported
@@ -764,7 +761,6 @@ batch
 batchclass
 batman
 battery
-bayern
 bazzo
 bb
 bbp
@@ -968,7 +964,6 @@ bytearray
 bzip2
 c#
 c++
-ca
 cache
 caf
 cal
@@ -1495,7 +1490,6 @@ coreepower.net
 coreepower.net.soundcloudexplode
 coreposh
 coreutils
-corona
 cortex
 cos
 cosmos
@@ -1519,7 +1513,6 @@ cover
 coverage
 coveralls
 coveralls.io
-covid
 covid-19
 cpm
 cppm
@@ -1665,7 +1658,6 @@ d365ce
 d365fo
 daas
 dac
-dacfx
 dacl
 dacpac
 dacpackage
@@ -1808,7 +1800,6 @@ defender-atp
 defender-for-endpoint
 defenderast
 defenderforendpoint
-defenderforidentity
 defense
 deflate
 delegated
@@ -1851,7 +1842,6 @@ details
 detect
 detection
 detectionrule
-deutschland
 dev
 dev-tools
 devart
@@ -2053,14 +2043,12 @@ dotteddecimalip
 doubleclick
 download
 downloader
-downloadfacebookvideo
-downloadfilefromsite
 downloadinfo
 downloading
 downloadoffice
 downloadofficertool
 downloads
-downloadyoutubevideo
+dozent
 dpa
 dpapi
 dpi
@@ -2583,7 +2571,6 @@ find-call
 find-caller
 find-file
 find-path
-finddownloadlinkfromwebsite
 findfile
 findlocation
 findplace
@@ -2734,7 +2721,6 @@ gainz-sqldb
 gal
 gallery
 game
-gamecategory:cards
 games
 gameserver
 gaming
@@ -2893,6 +2879,7 @@ googlecloudplatform
 googledrive
 googlemap
 googlemaps
+googleworkspace
 gopher
 gopher-tls
 gopher+
@@ -2968,7 +2955,6 @@ guru
 gvim
 gw2
 gwbasic
-gymnasium
 gz
 gzip
 gzip-compression
@@ -3046,6 +3032,8 @@ heating
 heavenbay
 helium
 helix
+hello
+helloid
 helloposhgallery
 helloworld
 helm
@@ -3110,7 +3098,6 @@ home
 home_automation
 homebrew
 homelandsecurity
-homeschooling
 hon
 hooking
 horizon
@@ -3227,7 +3214,6 @@ id
 id3
 idabus
 ide
-identifier
 identity
 identity-management
 identitydataplane
@@ -3312,10 +3298,7 @@ influxdb
 info
 infoblox
 information
-information-technology
 informationbarriers
-informationtechnology
-informationtechnologyoperations
 informix
 infosec
 infrastructure
@@ -3471,7 +3454,6 @@ ispss
 issues
 isvalidemail
 isvalidip
-it
 it-support
 it-tool
 it-tools
@@ -3524,7 +3506,6 @@ job
 jobcan
 jobs
 jobscheduler
-johnshopkins
 join
 join-object
 jojoba
@@ -3808,7 +3789,6 @@ lockdown
 locking
 lockoutreport
 lockscreen
-locksmith
 lockstep
 lod
 lodasoft
@@ -4021,7 +4001,6 @@ mdb
 mdbc
 mde
 mdep
-mdi
 mdm
 mdop
 mdt
@@ -4086,7 +4065,6 @@ mfa
 mga
 mgn
 mi
-micro-orm
 microfocus
 microk8s
 microservices
@@ -4114,7 +4092,6 @@ microsoftazure
 microsoftcloud
 microsoftdefender
 microsoftdefenderatp
-microsoftdefenderforidentity
 microsoftdeploymenttoolkit
 microsoftendpointmanager
 microsoftexchangeserver
@@ -4157,7 +4134,6 @@ mitigation
 mitre
 mitre_att&ck
 mitrend
-mittelschule
 mixedreality
 mixer
 mkdocs
@@ -4199,8 +4175,6 @@ monitor
 monitor psmodule
 monitorinformation
 monitoring
-monitoring_objects
-monitoring_variables
 monitoringplugins
 monitoringsolutions
 monitors
@@ -4549,7 +4523,6 @@ oact
 oauth
 oauth2
 oauth2.0
-oberstufe
 obj
 object
 objectid
@@ -4658,7 +4631,6 @@ opendata
 openedge
 openfiles
 openhere
-openholidaysapi
 openid
 openidconnect
 openinghours
@@ -4693,7 +4665,6 @@ optimizer
 option
 option119
 options
-optionstring
 opus
 oracle
 oraclecloudinfrastructure
@@ -4902,7 +4873,6 @@ persistent
 personal
 personalisation
 personalization
-personalvault
 personio
 pester
 pf
@@ -4924,7 +4894,6 @@ photos
 php
 phpapam
 pi
-picker
 pico
 picture
 pictures
@@ -4971,6 +4940,7 @@ playbook
 player
 playlists
 playwright
+pleasant
 pleasantpasswordserver
 plex
 plist
@@ -5193,6 +5163,7 @@ powertooldsc
 ppdm
 ppk
 pposh
+pps
 ppt
 pptp
 pptx
@@ -8296,7 +8267,6 @@ public-transport
 publicapi
 publicclient
 publicfolder
-publicholidays
 publicip
 publish
 publishedmodules
@@ -8371,6 +8341,7 @@ qrcodes
 qrp
 qrs
 quality
+qualys
 quandl
 quantum
 quarantine
@@ -8409,6 +8380,7 @@ raisers
 raisersedge
 raj
 ram
+ram-it
 random
 random-date
 random-password
@@ -8460,7 +8432,6 @@ readme
 readpdf
 readthedocs
 real-time
-realschule
 realtimeprotection
 rebase
 reboot
@@ -8795,6 +8766,7 @@ sample
 sampler
 samurai
 san
+sand
 sandbox
 sanitization
 sanitizer
@@ -8851,8 +8823,7 @@ schema
 schemaextensions
 scheme
 school-information-system
-schoolholidays
-schulverwaltung
+schulung
 science
 scissors
 scm
@@ -8925,7 +8896,6 @@ secrets
 secretsanta
 secretscanner
 secretserver
-secretsmanager
 secretvault
 section
 secur32
@@ -8989,7 +8959,6 @@ send-mailmessage
 send-message
 senderid
 sendgrid
-sendkeys
 sendmail
 sense
 sensitive
@@ -9408,6 +9377,8 @@ ssl
 sslcert
 sslcertificate
 sslflags
+ssllabs
+ssllabs-scan
 sslprotocol
 ssm
 sso
@@ -9545,6 +9516,7 @@ sudo
 sugar
 sugarcrm
 suggestion
+suitecrm
 sullivan
 summary
 sumologic
@@ -9616,7 +9588,6 @@ syspip3
 sysprep
 system
 system information 1394 controller baseboard motherboard systemboard battery bios bus cache memory cd dvd rom drive compact disc desktop monitor disk partition fan floppy glide point heatpipe ide infrared device keyboard local logical array mouse'
-system-administration
 system-group
 system-service
 system-services
@@ -9700,8 +9671,8 @@ teamviewer
 techdirect
 techedna2014
 techlog
-technology
 techsmith
+tel
 telegram
 telegram-bot
 telegram-bot-api
@@ -9747,6 +9718,7 @@ test-psremoting
 test-samcmapplicationexists
 test-samcmpackageexists
 test-userisadministrator
+test-xml
 test123
 testaccount
 testautomation
@@ -9856,6 +9828,7 @@ tool
 toolbox
 toolkit
 tools
+tools4ever
 topdesk
 topgrade
 topics
@@ -9886,6 +9859,7 @@ trafficfiltering
 trafficmanager
 trafficmarking
 train
+trainer
 training
 training-course
 tram
@@ -9980,7 +9954,6 @@ txt
 type
 typeaccelerators
 typedata
-typeextension
 types
 types.ps1xml
 typescript
@@ -10203,14 +10176,12 @@ variants
 vastlimits
 vault
 vaultextension
-vaultstore
 vaultwarden
 vb365
 vba
 vbaproject
 vbproj
 vbr
-vbscript
 vbsinst
 vc
 vccmdlets
@@ -10236,7 +10207,6 @@ venafi
 vencord
 vendor
 venue
-venvlink
 vera
 veracrypt
 verbose psmodule
@@ -10256,7 +10226,6 @@ video
 videos
 vie
 viewer
-vigenere
 vim
 vimode
 virole
@@ -10409,6 +10378,7 @@ warplaneporn
 warranty
 warraty
 warrenty
+wasabi
 watch
 watchdog
 watchmen
@@ -10526,7 +10496,6 @@ windows-environment
 windows-explorer
 windows-features
 windows-firewall
-windows-path
 windows-powershell
 windows-registry
 windows-remoting
@@ -10641,11 +10610,13 @@ workloads
 workpoint
 workrequests
 worksheet
+workshop
 workspace
 workspacemanager
 workspaceone
 workspaces
 workstation
+world
 worldcup
 worryfreebusinesssecurity
 wow
@@ -10736,6 +10707,7 @@ xml-rpc
 xml-transform
 xmla
 xmlrpc
+xmlutils
 xoauth2
 xor
 xpath
