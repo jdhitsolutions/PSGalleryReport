@@ -3,6 +3,78 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [awsModule](https://www.powershellgallery.com/Packages/awsModule/1.3.9) | 1.3.9
+
+### Published: 03/15/2024 09:41:18 by Anton Wittorff Stauersbøll
+
+Stuff I want to do easily
+
+__Downloads__: 5 | __Repository__: 
+
+## [UiPathOrch](https://www.powershellgallery.com/Packages/UiPathOrch/0.8.6.8) | 0.8.6.8
+
+### Published: 03/15/2024 09:39:38 by Yoshifumi Tsuda
+
+Provider for Orchestrator entities.
+
+__Downloads__: 225 | __Repository__: 
+
+## [Intersight.PowerShell](https://www.powershellgallery.com/Packages/Intersight.PowerShell/1.0.11.15473) | 1.0.11.15473
+
+### Published: 03/15/2024 09:04:12 by Cisco Systems
+
+Intersight Powershell module provides the cmdlets to manage, analyze, and automate the IT infrastructure in Intersight.
+
+__Downloads__: 7,141 | __Repository__: https://github.com/CiscoDevNet/intersight-powershell
+
+## [GitHub](https://www.powershellgallery.com/Packages/GitHub/0.3.99) | 0.3.99
+
+### Published: 03/15/2024 08:59:39 by PSModule
+
+GitHub PowerShell Module
+
+__Downloads__: 3,003 | __Repository__: https://github.com/PSModule/GitHub
+
+## [JyskIT.Automation](https://www.powershellgallery.com/Packages/JyskIT.Automation/0.8.3) | 0.8.3
+
+### Published: 03/15/2024 08:47:50 by Jysk IT
+
+Provides different cmdlets for automating Microsoft 365 and related services.
+
+__Downloads__: 348 | __Repository__: 
+
+## [DynamicParams](https://www.powershellgallery.com/Packages/DynamicParams/1.0.0) | 1.0.0
+
+### Published: 03/15/2024 07:31:44 by PSModule
+
+A PowerShell module that makes it easier to use dynamic params.
+
+__Downloads__: 0 | __Repository__: https://github.com/PSModule/DynamicParams
+
+## [Microsoft.PowerPlatform.DevOps](https://www.powershellgallery.com/Packages/Microsoft.PowerPlatform.DevOps/2.0.201) | 2.0.201
+
+### Published: 03/15/2024 04:37:16 by Dylan Haskins and Eugene Van Staden
+
+A Toolset for Implementing and Adopting a full ALM strategy for the Microsoft PowerPlatform.
+
+__Downloads__: 53,191 | __Repository__: https://github.com/dylanhaskins/Microsoft.PowerPlatform.DevOps.Documentation
+
+## [VpasModule](https://www.powershellgallery.com/Packages/VpasModule/14.0.3) | 14.0.3
+
+### Published: 03/15/2024 04:27:49 by Vadim Melamed
+
+Module for CyberArk v14.X Privileged Access Security Web Service REST API for both Self Hosted and Privilege Cloud Solutions as well as Identity API suite
+
+__Downloads__: 453 | __Repository__: https://github.com/vmelamed5/CyberArk/tree/VpasModule/VpasModule/14.0.3
+
+## [RubrikSecurityCloud](https://www.powershellgallery.com/Packages/RubrikSecurityCloud/0.27) | 0.27
+
+### Published: 03/15/2024 04:03:31 by Rubrik
+
+PowerShell Module for Rubrik Security Cloud. GraphQL schema version: v20240304-17 .
+
+__Downloads__: 1,130 | __Repository__: https://github.com/rubrikinc/rubrik-powershell-sdk
+
 ## [ImmersionTracker](https://www.powershellgallery.com/Packages/ImmersionTracker/0.18) | 0.18
 
 ### Published: 03/15/2024 00:27:56 by Jordan Sim-Smith
@@ -25,7 +97,7 @@ __Downloads__: 1,121 | __Repository__: https://uclobby.com/uclobby-teams-powersh
 
 pewtools is a collection of tools for managing and maintaining a Windows environment.
 
-__Downloads__: 1 | __Repository__: https://github.com/KevinKvissberg/pewtools
+__Downloads__: 0 | __Repository__: https://github.com/KevinKvissberg/pewtools
 
 ## [AGMPowerLib](https://www.powershellgallery.com/Packages/AGMPowerLib/0.0.0.77) | 0.0.0.77
 
@@ -92,7 +164,7 @@ __Downloads__: 1 | __Repository__:
 
 A "standard" library for PowerShell inspired by the preludes of other languages
 
-__Downloads__: 4,197 | __Repository__: https://github.com/jhwohlgemuth/pwsh-prelude
+__Downloads__: 4,195 | __Repository__: https://github.com/jhwohlgemuth/pwsh-prelude
 
 ## [AzureBasicLoadBalancerUpgrade](https://www.powershellgallery.com/Packages/AzureBasicLoadBalancerUpgrade/2.4.8) | 2.4.8
 
@@ -108,7 +180,7 @@ __Downloads__: 2,575 | __Repository__: https://github.com/Azure/AzLoadBalancerMi
 
 Automation tools for production quality database deployment
 
-__Downloads__: 5,215,382 | __Repository__: https://www.red-gate.com/sca/productpage
+__Downloads__: 5,215,288 | __Repository__: https://www.red-gate.com/sca/productpage
 
 ## [TisaneLampClient](https://www.powershellgallery.com/Packages/TisaneLampClient/7.0.24) | 7.0.24
 
@@ -261,14 +333,6 @@ __Downloads__: 3 | __Repository__:
 Powershell wrapper to interact with Google API
 
 __Downloads__: 426,269 | __Repository__: https://github.com/umn-microsoft-automation/UMN-Google
-
-## [UiPathOrch](https://www.powershellgallery.com/Packages/UiPathOrch/0.8.6.7) | 0.8.6.7
-
-### Published: 03/13/2024 12:04:04 by Yoshifumi Tsuda
-
-Provider for Orchestrator entities.
-
-__Downloads__: 225 | __Repository__: 
 
 ## [awsBox](https://www.powershellgallery.com/Packages/awsBox/1.0.1) | 1.0.1
 
@@ -1479,14 +1543,6 @@ OCI Common module exports Cmdlets that manages features offered by OCI Modules f
 
 __Downloads__: 120,146 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-## [VpasModule](https://www.powershellgallery.com/Packages/VpasModule/14.0.1) | 14.0.1
-
-### Published: 03/12/2024 18:00:41 by Vadim Melamed
-
-Module for CyberArk v14.X Privileged Access Security Web Service REST API for both Self Hosted and Privilege Cloud Solutions as well as Identity API suite
-
-__Downloads__: 453 | __Repository__: https://github.com/vmelamed5/CyberArk/tree/VpasModule/VpasModule/14.0.1
-
 ## [PowerDataOps](https://www.powershellgallery.com/Packages/PowerDataOps/1.0.0.146) | 1.0.0.146
 
 ### Published: 03/12/2024 17:57:08 by Aymeric Mouillé
@@ -1549,7 +1605,7 @@ __Downloads__: 22,614 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions to Automate Bulk VMWare Tasks
 
-__Downloads__: 29,551 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 29,553 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.Remoting](https://www.powershellgallery.com/Packages/AdminToolbox.Remoting/1.9.136) | 1.9.136
 
@@ -1557,7 +1613,7 @@ __Downloads__: 29,551 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions for remote management and access.
 
-__Downloads__: 29,374 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 29,376 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.Office365](https://www.powershellgallery.com/Packages/AdminToolbox.Office365/3.1.86) | 3.1.86
 
@@ -1565,7 +1621,7 @@ __Downloads__: 29,374 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions for working with Office365 and Azure modules
 
-__Downloads__: 31,456 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 31,458 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.Networking](https://www.powershellgallery.com/Packages/AdminToolbox.Networking/2.18.44) | 2.18.44
 
@@ -1573,7 +1629,7 @@ __Downloads__: 31,456 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Network Troubleshooting Functions
 
-__Downloads__: 74,992 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 74,993 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.MSGraph](https://www.powershellgallery.com/Packages/AdminToolbox.MSGraph/1.2.136) | 1.2.136
 
@@ -1581,7 +1637,7 @@ __Downloads__: 74,992 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Microsoft Graph interactive API Functions
 
-__Downloads__: 19,496 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 19,495 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.Fun](https://www.powershellgallery.com/Packages/AdminToolbox.Fun/1.6.137) | 1.6.137
 
@@ -1589,7 +1645,7 @@ __Downloads__: 19,496 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions that have no purpose
 
-__Downloads__: 29,847 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 29,849 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.FileManagement](https://www.powershellgallery.com/Packages/AdminToolbox.FileManagement/1.16.128) | 1.16.128
 
@@ -1597,7 +1653,7 @@ __Downloads__: 29,847 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 File Management Functions
 
-__Downloads__: 30,335 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 30,337 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.FFTools](https://www.powershellgallery.com/Packages/AdminToolbox.FFTools/4.16.86) | 4.16.86
 
@@ -1605,7 +1661,7 @@ __Downloads__: 30,335 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Expedite simple ffmpeg actions
 
-__Downloads__: 30,200 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 30,202 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.Exchange](https://www.powershellgallery.com/Packages/AdminToolbox.Exchange/1.9.137) | 1.9.137
 
@@ -1613,7 +1669,7 @@ __Downloads__: 30,200 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions for Exchange Management
 
-__Downloads__: 31,421 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 31,423 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.EndpointManagement](https://www.powershellgallery.com/Packages/AdminToolbox.EndpointManagement/4.10.13) | 4.10.13
 
@@ -1943,15 +1999,7 @@ __Downloads__: 25 | __Repository__: https://www.poshsvn.com/
 
 cmdlets for DevOps for Business Central
 
-__Downloads__: 26,227 | __Repository__: https://www.github.com/kine/NVRAppDevOps
-
-## [JyskIT.Automation](https://www.powershellgallery.com/Packages/JyskIT.Automation/0.8.2) | 0.8.2
-
-### Published: 03/12/2024 11:01:06 by Jysk IT
-
-Provides different cmdlets for automating Microsoft 365 and related services.
-
-__Downloads__: 348 | __Repository__: 
+__Downloads__: 26,226 | __Repository__: https://www.github.com/kine/NVRAppDevOps
 
 ## [ADDRS](https://www.powershellgallery.com/Packages/ADDRS/1.1.7) | 1.1.7
 
@@ -1985,52 +2033,4 @@ This module contains the cmdlets to manage and prepare Azure Tenants in a CAF co
 
 __Downloads__: 160 | __Repository__: https://devdeer.com/
 
-## [LDXLogging](https://www.powershellgallery.com/Packages/LDXLogging/0.99.89) | 0.99.89
-
-### Published: 03/12/2024 08:14:57 by Leif Almberg
-
-AB Lindex Log Module
-
-__Downloads__: 156 | __Repository__: 
-
-## [AzSKPreview.ADO](https://www.powershellgallery.com/Packages/AzSKPreview.ADO/1.24.4) | 1.24.4
-
-### Published: 03/12/2024 07:03:42 by AzSK Team
-
-Security Scanner for Azure DevOps (ADO)
-
-__Downloads__: 4,203 | __Repository__: https://github.com/azsk/azsk-docs
-
-## [VenafiPS](https://www.powershellgallery.com/Packages/VenafiPS/6.2.1) | 6.2.1
-
-### Published: 03/12/2024 02:06:53 by Greg Brownstein
-
-Automate your Venafi TLS Protect Datacenter and Cloud platforms!
-
-__Downloads__: 11,095 | __Repository__: https://github.com/Venafi/VenafiPS
-
-## [PowerShell.DynamicBatch](https://www.powershellgallery.com/Packages/PowerShell.DynamicBatch/1.63) | 1.63
-
-### Published: 03/12/2024 01:31:56 by HT
-
-Dynamically loads batch job configurations and executes the job.
-
-__Downloads__: 391 | __Repository__: 
-
-## [Sentry](https://www.powershellgallery.com/Packages/Sentry/0.0.2) | 0.0.2
-
-### Published: 03/12/2024 00:04:21 by Sentry
-
-An error reporting module that sends reports to Sentry.io
-
-__Downloads__: 9 | __Repository__: https://github.com/getsentry/sentry-powershell
-
-## [GitHub](https://www.powershellgallery.com/Packages/GitHub/0.3.98) | 0.3.98
-
-### Published: 03/11/2024 21:06:02 by PSModule
-
-GitHub PowerShell Module
-
-__Downloads__: 3,003 | __Repository__: https://github.com/PSModule/GitHub
-
-*Updated: Friday, 15 March 2024 02:01:22 UTC*
+*Updated: Friday, 15 March 2024 09:51:39 UTC*
