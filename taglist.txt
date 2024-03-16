@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Friday, 15 March 2024 17:51:53 UTC
+Updated: Saturday, 16 March 2024 02:00:23 UTC
 
 .bat
 .env
@@ -85,7 +85,6 @@ access-control
 access-points
 accesscontrol
 accesscontroldsc
-accessgovernancecp
 accesspoint
 accessrights
 accesstoken
@@ -103,6 +102,7 @@ acme
 acmesharp
 acmesharp_ext
 act-on
+act!
 actifio
 actifiogo
 action
@@ -284,7 +284,9 @@ aliases
 aliens
 all
 alletra
+alloydb
 alm
+almrangers
 alpha
 alphafs
 alpine
@@ -353,14 +355,11 @@ apachekafka
 apexlegends
 apexone
 api
-api-client
 api-gateway
 api-rest
 apichecks
 apiclient
 apigateway
-apigee
-apigeeedge
 apimanagement
 apis
 aplication
@@ -471,6 +470,7 @@ ascii
 ascii85
 asciiart
 asdatabase
+asigra
 asjob
 asm
 asn.1
@@ -490,7 +490,6 @@ assertion
 assessment
 asset
 assetintelligencepoint
-assets
 assistance
 assistant
 association
@@ -529,7 +528,6 @@ auditpolicy
 audits
 aumid
 aut
-auth
 auth0
 authenticate
 authentication
@@ -564,7 +562,6 @@ automanage
 automate
 automated
 automatedlab
-automatenow
 automaticpacketreportingsystem
 automation
 automation psmodule
@@ -660,7 +657,6 @@ azureadgraph
 azureadtoolkit
 azureadvancedthreatprotection
 azureappconfiguration
-azureapplicationstuff
 azureartifacts
 azureas
 azureatp
@@ -670,7 +666,6 @@ azureautomationnotsupported
 azurebasicloadbalancerupgrade
 azurecli
 azurecognitiveservices
-azurecommonstuff
 azurecontainerapps
 azurecontainers
 azuredatabricks
@@ -684,8 +679,9 @@ azurefilesync
 azurefunctionapp
 azurefunctions
 azuregraph
-azuregroupstuff
 azureinformationprotection
+azureiot
+azureiothub
 azurekeyvault
 azuremigrate
 azuremonitor
@@ -718,14 +714,11 @@ azurestorage
 azurestorageservices
 azuresync
 azuretable
-azuretestplan
 azurevirtualdesktop
 azurevirtualmachines
 azurevm
 azvm
-b2
 back
-backblaze
 backconnection
 backconnectionhostname
 backup
@@ -841,7 +834,6 @@ blackbox
 blacklist
 blade
 bladeserver
-blaze
 blinking-text
 blob
 blobstorage
@@ -849,6 +841,7 @@ block
 block-kit
 blockchain
 blocks
+blog
 blogs
 bloxone
 bloxoneddi
@@ -874,7 +867,6 @@ bookmark
 bookmarks
 books
 bool
-boolean
 bootloader psmodule
 bootstrap
 bootstrapping
@@ -1231,6 +1223,7 @@ cloudservice
 cloudshell
 clueser
 cluster
+clusterminimumvalues
 clusterplugins
 cmaccounts
 cmake
@@ -1382,6 +1375,7 @@ configurationdata
 configurationkey
 configurationmanagement
 configurationmanager
+configurationprofile
 configure
 confluence
 confluent
@@ -1407,7 +1401,6 @@ connectivity
 connectwise
 conservation
 console
-consoleguitools
 consolemenu
 consolemusic
 consumer
@@ -1440,7 +1433,6 @@ contrast
 control
 controller
 controlroom
-controlup
 conventional
 conventional-commits
 convereter
@@ -1529,7 +1521,6 @@ crc32
 create
 createcolumn
 createdatabase
-createfile
 createprocessasuser
 createschema
 createtable
@@ -1556,6 +1547,7 @@ crescendo
 crescendobuilt
 cresendo
 crestron
+crime
 crlf
 crm
 crm2016
@@ -1817,7 +1809,6 @@ demultiplex
 demultiplexing
 dependencies
 dependency
-dependencysearch
 deploy
 deployment
 deploymentconfig
@@ -2031,7 +2022,6 @@ donothing
 dos
 dot
 dotenv
-dotfile
 dotfiles
 dotnet
 dotnet-cli
@@ -2087,6 +2077,7 @@ drupal
 drush
 dry
 ds
+ds-client
 ds-utils
 dsa
 dsacls
@@ -2096,6 +2087,7 @@ dsc-resources
 dsccertificates
 dscconcepts
 dscdriftmonitor
+dsclient
 dscresource
 dscresourcekit
 dscresources
@@ -2138,6 +2130,7 @@ dynamicdistributiongroups
 dynamicdnsoverhttps
 dynamicparam
 dynamicparameters
+dynamicparams
 dynamics
 dynamics-365
 dynamics-crm
@@ -2319,7 +2312,6 @@ ether
 etherassist
 ethereum
 ethr
-ethz
 etl
 etl2pcapng
 etrade
@@ -2356,6 +2348,7 @@ evergreen
 evernote
 everydaypowershell
 everydayrewards
+everything
 evilprince2009
 evolutionary-algorithms
 evolutionary-database
@@ -2379,6 +2372,7 @@ exchangemigration
 exchangeon-premise
 exchangeon-premises
 exchangeonline
+exchangeonlinemanagement
 exchangeonlineprotection
 exchangeonprem
 exchangerate
@@ -2413,7 +2407,6 @@ expiring
 expiry
 exploit
 exploits
-exploration
 explorer
 exponentiation
 export
@@ -2425,6 +2418,7 @@ exportcertificates
 exporter
 exportexcel
 exportteams
+expression
 extend
 extended
 extendedattributes
@@ -2533,6 +2527,7 @@ files-cli
 files-cli.exe
 files.com
 filesecurity
+fileserver
 fileserverresourcemanager
 fileshare
 filesharing
@@ -2610,9 +2605,6 @@ flyway
 fmg
 focus
 fod
-fog
-fogapi
-fogproject
 folder
 folderpermission
 folders
@@ -2666,7 +2658,6 @@ freeipa
 freenas
 freesoftwarefoundation
 freshbooks
-freshdesk
 freshservice
 freshservice-api
 freshserviceps
@@ -2674,8 +2665,6 @@ freshworks
 friendly
 fritz
 fritzbox
-front
-frontapp
 frontdoor
 frontrange
 fs
@@ -2734,7 +2723,6 @@ gci
 gcloud
 gcp
 gcs
-gdap
 gdpr
 gedit
 gem
@@ -2753,7 +2741,6 @@ generates
 generatewif
 generation
 generativeai
-generativeaiinference
 generator
 generic
 genericartifactscontent
@@ -2793,6 +2780,7 @@ get-help
 get-history
 get-iislog
 get-openfile
+get-openfiles
 get-pass
 get-passivetrippoint
 get-passlist
@@ -2854,7 +2842,6 @@ glpi
 gmail
 gmap
 gmaps
-gmsa
 gnuwin32
 go
 gobright
@@ -2899,6 +2886,7 @@ gpt3
 gpx
 gradle
 grafana
+grafanaapi
 granttype
 graph
 graph-api
@@ -2913,7 +2901,6 @@ graphs
 graphservices
 graphviz
 graylog
-greenplum
 gremlin
 grep
 greynoise
@@ -2973,7 +2960,6 @@ hanaon
 handle
 handler
 hangouts
-hannelstoolbox
 hanwha
 har
 hard
@@ -3167,6 +3153,7 @@ hyperlinked-text
 hyperthreading
 hyperv
 hypervisor
+hypervplugins
 hypothesis
 hysolate
 hysolatemangementconsole
@@ -3199,7 +3186,6 @@ icingawindows
 icloud
 icmp
 icon
-icons
 icraftsoftware
 ics
 icws
@@ -3782,6 +3768,7 @@ location
 locationbasedservices
 lock
 lockbox
+lockdisplaytimeout
 lockdown
 locking
 lockoutreport
@@ -3918,7 +3905,6 @@ manageability
 managed-identity
 manageddisks
 managedidentities
-managedidentity
 managedserviceidenity
 managedserviceidentity
 managedserviceprovider
@@ -4016,7 +4002,6 @@ mediaplayer
 mediaservices
 mediawiki
 meditation
-meesman
 meeting
 meetup
 meetup.com
@@ -4120,9 +4105,7 @@ mim
 mime
 mimekit
 min
-mindmeister
 minecraft
-miniconda
 minifier
 minimal
 minimum
@@ -4278,7 +4261,6 @@ multiserver
 multistring
 multithread
 multithreaded
-multithreaded-helpers
 multithreading
 music
 musiccast
@@ -4307,7 +4289,6 @@ mysql-database
 mytest
 n-able
 n-central
-nabu
 nac
 nagios
 name
@@ -4399,7 +4380,6 @@ new-dtcmtasksequencefromdriverpackpackagedefinitionsms
 new-dynamicdictionary
 new-dynamicparameter
 new-githubrelease
-new-item
 new-itemproperty
 new-pinneditem
 new-rdpsession
@@ -4418,7 +4398,6 @@ nexenta
 nexentastor
 nexthink
 nexus
-nexusiq
 nfsv3
 ngen
 ngfw
@@ -4436,6 +4415,8 @@ nist
 nitrox
 njclipsh
 nl
+nla
+nlm
 nlog
 nmap
 nmbell
@@ -4532,7 +4513,6 @@ obs
 observeit
 oce
 ocg
-ocgv
 oci
 ocicontrolcenter
 ocr
@@ -4544,7 +4524,6 @@ octopusdeploy
 octopusenergy
 ocvp
 od4b
-oda
 odata
 odbc
 odfb
@@ -4629,6 +4608,7 @@ openamt
 openapi
 opendata
 openedge
+openfiles
 openhere
 openholidaysapi
 openid
@@ -4830,7 +4810,6 @@ patternmatching
 paulobazzo
 pause
 pax8
-payload
 paylocity
 paypal
 pays
@@ -4865,7 +4844,6 @@ perforce
 performance
 performance-counters
 performancemonitoring
-perl
 permission
 permissions
 permutations
@@ -4874,6 +4852,7 @@ persistent
 personal
 personalisation
 personalization
+personalvault
 personio
 pester
 pf
@@ -4886,6 +4865,7 @@ phabricator
 philips
 philosophical
 philpritchett
+phishing
 phoenix
 phoneautomation
 photo
@@ -5025,6 +5005,7 @@ poshy-coreutils-ish
 poshy-dir-nav
 poshy-ecks
 poshy-env-proxy
+poshy-env-var
 poshy-ls-isms
 poshy-lucidity
 poshy-multimedia
@@ -5036,6 +5017,7 @@ poshy-wrap
 poshy-wrap-apt
 poshy-wrap-argcomplete
 poshy-wrap-brew
+poshy-wrap-curl
 poshy-wrap-dnf
 poshy-wrap-docker
 poshy-wrap-docker-compose
@@ -5057,7 +5039,6 @@ poshy-wrap-pip
 poshy-wrap-pipenv
 poshy-wrap-pyenv
 poshy-wrap-pylint
-poshy-wrap-python
 poshy-wrap-ruby
 poshy-wrap-systemctl
 poshy-wrap-terraform
@@ -5069,6 +5050,7 @@ poshy-wrap-vscode
 poshy-wrap-wget
 poshy-wrap-wt
 poshy-wrap-yum
+poshy-wrap-zypper
 position
 post
 postgre
@@ -5143,6 +5125,7 @@ powershellgetformatversion_2.0
 powershellise
 powershelllogger
 powershellmodule
+powershellmoduleupdate
 powershellpr0mpt
 powershellscript
 powershelltemplate
@@ -5167,7 +5150,6 @@ pranks
 predicate
 prediction
 predictive
-predictive-text
 predictor
 preferences
 prefix
@@ -5226,7 +5208,6 @@ producer
 product
 productid
 productivity
-productmedia
 products
 productstate
 profile
@@ -5265,6 +5246,7 @@ provance
 proverb
 provider
 providerhub
+provision
 provisioning
 provisioningpackage
 provisonedpackage
@@ -5285,7 +5267,6 @@ ps-completions
 ps-ncentral
 ps.credentialmanager
 ps1
-ps12exe
 ps1xml
 ps1xmlgen
 ps2dll
@@ -5304,11 +5285,9 @@ psappdeploytoolkit
 psat
 psazd
 psbackup
-psbbix
 psbicep
 psclient
 pscmdlet
-pscommand__python3
 pscommand_--
 pscommand_..
 pscommand_...
@@ -5330,6 +5309,8 @@ pscommand_acp
 pscommand_acse
 pscommand_acsp
 pscommand_add_ssh
+pscommand_add-envpathitem
+pscommand_add-envvarpathitem
 pscommand_add-gitlfstrackedfiles
 pscommand_add-gitremote
 pscommand_add-gitskipworktreeflag
@@ -5386,6 +5367,12 @@ pscommand_cd-
 pscommand_cd..
 pscommand_cd+
 pscommand_cdgr
+pscommand_cl
+pscommand_clb
+pscommand_clhead
+pscommand_clo
+pscommand_cloc
+pscommand_clocr
 pscommand_confirm-gitbisectcommitbad
 pscommand_confirm-gitbisectcommitgood
 pscommand_convertto-nixmode
@@ -5732,6 +5719,9 @@ pscommand_get-dockercontainerlatestipaddress
 pscommand_get-dockercontainerlatestquiet
 pscommand_get-dockercontainerrunning
 pscommand_get-dockerimage
+pscommand_get-envpathitem
+pscommand_get-envvar
+pscommand_get-envvarpathitem
 pscommand_get-gitbranchdefault
 pscommand_get-gitbranchlist
 pscommand_get-gitbranchlistall
@@ -6015,6 +6005,12 @@ pscommand_invoke-brewupgradeandcleanup
 pscommand_invoke-brewupgradecaskandcleanup
 pscommand_invoke-brewupgradeformula
 pscommand_invoke-brewupgradegreedyandcleanup
+pscommand_invoke-curlfollowingredirects
+pscommand_invoke-curlfollowingredirectsdownloadasnamed
+pscommand_invoke-curlfollowingredirectsdownloadasnamedcontinue
+pscommand_invoke-curlfollowingredirectsdownloadasnamedcontinueandretry
+pscommand_invoke-curlfollowingredirectsfetchbanner
+pscommand_invoke-curlonlyforgetresponseheaders
 pscommand_invoke-dnfcleanall
 pscommand_invoke-dnfgrouplist
 pscommand_invoke-dnfgrouppinstall
@@ -6496,10 +6492,54 @@ pscommand_invoke-yumremove
 pscommand_invoke-yumremoveleaves
 pscommand_invoke-yumsearch
 pscommand_invoke-yumupdate
+pscommand_invoke-zypper
+pscommand_invoke-zypperaddlock
+pscommand_invoke-zypperaddservice
+pscommand_invoke-zypperadrepo
+pscommand_invoke-zypperclean
+pscommand_invoke-zyppercleanlocks
+pscommand_invoke-zypperdistupgrade
+pscommand_invoke-zypperhelp
+pscommand_invoke-zypperhelpsearch
+pscommand_invoke-zypperif
+pscommand_invoke-zypperin
+pscommand_invoke-zypperinstallnewrecommends
+pscommand_invoke-zypperlicenses
+pscommand_invoke-zypperlistlocks
+pscommand_invoke-zypperlistpackages
+pscommand_invoke-zypperlistprocesseslockingpackages
+pscommand_invoke-zypperlistrepos
+pscommand_invoke-zypperlistservices
+pscommand_invoke-zypperlistupdates
+pscommand_invoke-zyppermodifyrepo
+pscommand_invoke-zyppermodifyservice
+pscommand_invoke-zypperpackages
+pscommand_invoke-zypperpatch
+pscommand_invoke-zypperpatchcheck
+pscommand_invoke-zypperpatches
+pscommand_invoke-zypperpatchinfo
+pscommand_invoke-zypperpatterninfo
+pscommand_invoke-zypperpatterns
+pscommand_invoke-zypperproductinfo
+pscommand_invoke-zypperproducts
+pscommand_invoke-zypperrefresh
+pscommand_invoke-zypperrefreshservices
+pscommand_invoke-zypperremove
+pscommand_invoke-zypperremovelock
+pscommand_invoke-zypperremoverepo
+pscommand_invoke-zypperremoveservice
+pscommand_invoke-zypperrenamerepo
+pscommand_invoke-zyppersearch
+pscommand_invoke-zyppershell
+pscommand_invoke-zyppersourcedownload
+pscommand_invoke-zyppersourceinstall
+pscommand_invoke-zyppertargetos
+pscommand_invoke-zypperupdate
+pscommand_invoke-zypperverify
+pscommand_invoke-zypperversioncompare
+pscommand_invoke-zypperwhatprovides
 pscommand_invokeyumgrouplist
 pscommand_ips
-pscommand_ipy
-pscommand_ipython
 pscommand_jump
 pscommand_k
 pscommand_kaf
@@ -6640,6 +6680,7 @@ pscommand_mcisk
 pscommand_mcp
 pscommand_mcpsk
 pscommand_mdep
+pscommand_measure-envvarchanges
 pscommand_merge-gitrepositoryfromoriginbranchmain
 pscommand_merge-gitrepositoryfromupstreambranchmain
 pscommand_mi
@@ -6745,17 +6786,17 @@ pscommand_pushgr
 pscommand_pvenv
 pscommand_pwh
 pscommand_pwshrc-show-proxy
-pscommand_py
 pscommand_pyenv
 pscommand_pylint-quick
-pscommand_pyserver
-pscommand_python
-pscommand_python3
 pscommand_rb
+pscommand_read-dotenv
 pscommand_register-argcompleteargumentcompleter
 pscommand_remove_gem
 pscommand_remove-dockercontainerall
 pscommand_remove-dockerunusedimage
+pscommand_remove-envpathitem
+pscommand_remove-envvar
+pscommand_remove-envvarpathitem
 pscommand_remove-gitbranch
 pscommand_remove-gitbranchforcefully
 pscommand_remove-gitremote
@@ -6785,6 +6826,7 @@ pscommand_scu-enable-now
 pscommand_scu-mask-now
 pscommand_search-commandpath
 pscommand_search-ruby
+pscommand_set-envvar
 pscommand_set-gitremoteurl
 pscommand_set-itemnixmode
 pscommand_set-locationback1
@@ -6812,7 +6854,6 @@ pscommand_set-locationup5
 pscommand_sgem
 pscommand_show-gitremote
 pscommand_show-proxy
-pscommand_shttp
 pscommand_shuf
 pscommand_sl
 pscommand_ssh-add-all
@@ -6973,10 +7014,54 @@ pscommand_yr
 pscommand_yrl
 pscommand_ys
 pscommand_yu
+pscommand_z
+pscommand_zal
+pscommand_zar
+pscommand_zas
+pscommand_zcl
+pscommand_zdup
+pscommand_zh
+pscommand_zhse
+pscommand_zif
+pscommand_zin
+pscommand_zinr
+pscommand_zlicenses
+pscommand_zll
+pscommand_zlp
+pscommand_zlr
+pscommand_zls
+pscommand_zlu
+pscommand_zmr
+pscommand_zms
+pscommand_znr
+pscommand_zpa
+pscommand_zpatch
+pscommand_zpatch-info
+pscommand_zpattern-info
+pscommand_zpch
+pscommand_zpchk
+pscommand_zpd
+pscommand_zproduct-info
+pscommand_zps
+pscommand_zpt
+pscommand_zref
+pscommand_zrefs
+pscommand_zrl
+pscommand_zrm
+pscommand_zrr
+pscommand_zrs
+pscommand_zse
+pscommand_zshell
+pscommand_zsi
+pscommand_zsource-download
+pscommand_ztos
+pscommand_zup
+pscommand_zvcmp
+pscommand_zve
+pscommand_zwp
 pscommander
 psconfasia
 psconfeu
-psconfig
 pscore
 pscredential
 pscribo
@@ -6995,7 +7080,6 @@ psdrive
 psdrives
 psdsc
 psdscresource_vscomponents
-psdshook
 psedition_5
 psedition_5.1
 psedition_7.3
@@ -7022,9 +7106,10 @@ psfitbit
 psfive9
 psfive9admin
 psfoldersize
-psfunction__python3
 psfunction_aar
 psfunction_add_ssh
+psfunction_add-envpathitem
+psfunction_add-envvarpathitem
 psfunction_add-gitlfstrackedfiles
 psfunction_add-gitremote
 psfunction_add-gitskipworktreeflag
@@ -7216,6 +7301,9 @@ psfunction_get-dockercontainerlatestipaddress
 psfunction_get-dockercontainerlatestquiet
 psfunction_get-dockercontainerrunning
 psfunction_get-dockerimage
+psfunction_get-envpathitem
+psfunction_get-envvar
+psfunction_get-envvarpathitem
 psfunction_get-gitbranchdefault
 psfunction_get-gitbranchlist
 psfunction_get-gitbranchlistall
@@ -7316,6 +7404,12 @@ psfunction_invoke-brewupgradeandcleanup
 psfunction_invoke-brewupgradecaskandcleanup
 psfunction_invoke-brewupgradeformula
 psfunction_invoke-brewupgradegreedyandcleanup
+psfunction_invoke-curlfollowingredirects
+psfunction_invoke-curlfollowingredirectsdownloadasnamed
+psfunction_invoke-curlfollowingredirectsdownloadasnamedcontinue
+psfunction_invoke-curlfollowingredirectsdownloadasnamedcontinueandretry
+psfunction_invoke-curlfollowingredirectsfetchbanner
+psfunction_invoke-curlonlyforgetresponseheaders
 psfunction_invoke-dnfcleanall
 psfunction_invoke-dnfgrouplist
 psfunction_invoke-dnfgrouppinstall
@@ -7797,11 +7891,58 @@ psfunction_invoke-yumremove
 psfunction_invoke-yumremoveleaves
 psfunction_invoke-yumsearch
 psfunction_invoke-yumupdate
+psfunction_invoke-zypper
+psfunction_invoke-zypperaddlock
+psfunction_invoke-zypperaddservice
+psfunction_invoke-zypperadrepo
+psfunction_invoke-zypperclean
+psfunction_invoke-zyppercleanlocks
+psfunction_invoke-zypperdistupgrade
+psfunction_invoke-zypperhelp
+psfunction_invoke-zypperhelpsearch
+psfunction_invoke-zypperif
+psfunction_invoke-zypperin
+psfunction_invoke-zypperinstallnewrecommends
+psfunction_invoke-zypperlicenses
+psfunction_invoke-zypperlistlocks
+psfunction_invoke-zypperlistpackages
+psfunction_invoke-zypperlistprocesseslockingpackages
+psfunction_invoke-zypperlistrepos
+psfunction_invoke-zypperlistservices
+psfunction_invoke-zypperlistupdates
+psfunction_invoke-zyppermodifyrepo
+psfunction_invoke-zyppermodifyservice
+psfunction_invoke-zypperpackages
+psfunction_invoke-zypperpatch
+psfunction_invoke-zypperpatchcheck
+psfunction_invoke-zypperpatches
+psfunction_invoke-zypperpatchinfo
+psfunction_invoke-zypperpatterninfo
+psfunction_invoke-zypperpatterns
+psfunction_invoke-zypperproductinfo
+psfunction_invoke-zypperproducts
+psfunction_invoke-zypperrefresh
+psfunction_invoke-zypperrefreshservices
+psfunction_invoke-zypperremove
+psfunction_invoke-zypperremovelock
+psfunction_invoke-zypperremoverepo
+psfunction_invoke-zypperremoveservice
+psfunction_invoke-zypperrenamerepo
+psfunction_invoke-zyppersearch
+psfunction_invoke-zyppershell
+psfunction_invoke-zyppersourcedownload
+psfunction_invoke-zyppersourceinstall
+psfunction_invoke-zyppertargetos
+psfunction_invoke-zypperupdate
+psfunction_invoke-zypperverify
+psfunction_invoke-zypperversioncompare
+psfunction_invoke-zypperwhatprovides
 psfunction_invokeyumgrouplist
 psfunction_jump
 psfunction_kerndeb
 psfunction_kres
 psfunction_local-ignore
+psfunction_measure-envvarchanges
 psfunction_merge-gitrepositoryfromoriginbranchmain
 psfunction_merge-gitrepositoryfromupstreambranchmain
 psfunction_mirrorsite
@@ -7857,10 +7998,13 @@ psfunction_publish-gitrepositorytosvn
 psfunction_push-gitstashentry
 psfunction_push-gitstashentrywithmessage
 psfunction_pwshrc-show-proxy
-psfunction_pyserver
+psfunction_read-dotenv
 psfunction_register-argcompleteargumentcompleter
 psfunction_remove-dockercontainerall
 psfunction_remove-dockerunusedimage
+psfunction_remove-envpathitem
+psfunction_remove-envvar
+psfunction_remove-envvarpathitem
 psfunction_remove-gitbranch
 psfunction_remove-gitbranchforcefully
 psfunction_remove-gitremote
@@ -7888,6 +8032,7 @@ psfunction_scu-enable-now
 psfunction_scu-mask-now
 psfunction_search-commandpath
 psfunction_search-ruby
+psfunction_set-envvar
 psfunction_set-gitremoteurl
 psfunction_set-itemnixmode
 psfunction_set-locationback1
@@ -7914,7 +8059,6 @@ psfunction_set-locationup4
 psfunction_set-locationup5
 psfunction_show-gitremote
 psfunction_show-proxy
-psfunction_shttp
 psfunction_shuf
 psfunction_ssh-add-all
 psfunction_ssh-disable-proxy
@@ -8024,7 +8168,6 @@ psmssqlbynarymodule
 psmssqlmodule
 psmvp
 psnavigation
-psnexosisclient
 psngenposh
 psobject
 psoutlog
@@ -8075,7 +8218,6 @@ pswinreportingv2
 psword
 pswriteword
 psyaml
-pszabbix
 pubg
 public
 public-key
@@ -8133,7 +8275,6 @@ pylint
 pyranja
 python
 python-for-dotnet
-python3
 qcloud
 qconvergeconsolepowerkit
 qemu
@@ -8165,7 +8306,6 @@ quarantine
 queries
 query
 queryexcel
-question
 queue
 queues
 queuing
@@ -8248,7 +8388,6 @@ readiness
 readme
 readpdf
 readthedocs
-real-time
 realschule
 realtimeprotection
 rebase
@@ -8411,6 +8550,8 @@ resolve-stache
 resolve-template
 resolver
 resource
+resource_monitor
+resource_watcher
 resourceaccount
 resourcecontroller
 resourcegraph
@@ -8432,7 +8573,6 @@ restore
 resume
 retail
 retention
-retro
 retry
 returnuserprofile
 retype
@@ -8568,7 +8708,6 @@ sailpoint
 sale
 sales
 salesforce
-salesloft
 salt
 salt-api
 saltstack
@@ -8714,6 +8853,7 @@ secrets
 secretsanta
 secretscanner
 secretserver
+secretsmanager
 secretvault
 section
 secur32
@@ -8843,6 +8983,7 @@ set-dnsservers
 set-githubsecrets
 set-itemproperty
 set-location
+set-openfiles
 set-ownership
 set-pass
 set-psbreakpoint
@@ -8881,9 +9022,7 @@ shared
 sharefile
 sharepoint
 sharepoint_online
-sharepoint-on-prem
 sharepoint-online
-sharepoint-product-configuration-wizard
 sharepoint2013
 sharepointdevelopmentcommunity
 sharepointonline
@@ -8915,7 +9054,6 @@ showdemo
 showoncommand
 shred
 shuf
-shutdown
 sid
 sidecar
 siem
@@ -8931,7 +9069,6 @@ signtool
 silk
 sim
 simple
-simplecontainers
 simplepassword
 simplepasswordgenerator
 simplivity
@@ -9070,7 +9207,6 @@ soonr
 soonragent
 sophos
 sort
-sorting
 source
 source-dedicated-server
 sourcecontrol
@@ -9115,13 +9251,13 @@ spelling
 spf
 spfx
 spi
+spicetify
 spinnaker
 splash
 splat
 splatting
 split
 splunk
-spn
 spo
 spooler
 sport
@@ -9143,7 +9279,6 @@ sql-script
 sql-server
 sqlagent
 sqlautomation
-sqlbits
 sqlbrowser
 sqlbulkcopy
 sqlchangeautomation
@@ -9240,6 +9375,7 @@ statistics
 stats
 statsd
 status
+status_watcher
 statuscake
 statuscode
 statusmonitor
@@ -9365,7 +9501,6 @@ swis
 switch
 sxs
 sybase
-sybaseiq
 symantec
 symbolic
 symbolic_link
@@ -9382,7 +9517,6 @@ syndication
 synergy
 syntax
 syntax-highlighting
-syntaxcheck
 syntaxhighlighter
 synthesis
 synthetics
@@ -9544,7 +9678,6 @@ testimonial
 testing
 testlab
 testplans
-testreport
 tests
 testsuite
 testtag1
@@ -9569,6 +9702,7 @@ tfe
 tfenv
 tflint
 tfs
+tfscmdlets
 tfsec
 tfswitch
 tftd
@@ -9992,6 +10126,7 @@ variants
 vastlimits
 vault
 vaultextension
+vaultstore
 vaultwarden
 vb365
 vba
@@ -10093,7 +10228,6 @@ vmgroup
 vmhost
 vmhostgroup
 vmhostnetworkadapater
-vmmanagement
 vmnic
 vmrole
 vmss
@@ -10116,6 +10250,7 @@ vocabularies
 voice
 voiceconfig
 voiceservices
+voidtools
 volkskrant
 volta
 volume
@@ -10144,6 +10279,7 @@ vrtu
 vs
 vs-shell
 vsa
+vsa9
 vsan
 vsan+
 vscode
@@ -10294,10 +10430,8 @@ win10
 win2k8
 win32
 win32_installedwin32program
-win32_operatingsystem
 win32-api
 win32appmigrationtool
-win32shutdown
 window
 windows
 windows  server
@@ -10420,9 +10554,7 @@ workflows
 workingdays
 workinghours
 workingtime
-workload
 workload-automation
-workloadidentity
 workloads
 workpoint
 workrequests
@@ -10437,6 +10569,7 @@ world
 worldcup
 worryfreebusinesssecurity
 wow
+wpad
 wpf
 wql
 wrap
@@ -10558,7 +10691,6 @@ yubaba
 yum
 z
 zabbix
-zabbixps
 zap
 zcat
 zendesk
@@ -10581,6 +10713,7 @@ zuora
 zvm
 zvml
 zvmlinux
+zypper
 カタカナ
 ひらがな
 ローマ字
