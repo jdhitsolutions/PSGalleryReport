@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Thursday, 21 March 2024 17:51:49 UTC
+Updated: Friday, 22 March 2024 02:00:42 UTC
 
 .bat
 .env
@@ -58,6 +58,7 @@ Updated: Thursday, 21 March 2024 17:51:49 UTC
 8ball
 9
 aa
+aac
 aad
 aad-graph
 aadc
@@ -68,6 +69,7 @@ aadsecurity
 aadsts
 aam
 aas
+aatp
 abc
 abc_testing
 abe
@@ -217,7 +219,6 @@ adv190013
 adv220002
 advanced
 advapi32
-advice
 advisor
 adwords
 adx
@@ -261,6 +262,7 @@ aks
 aks-hci
 akscluster
 al
+alac
 alarm
 alb
 albums
@@ -272,7 +274,6 @@ alertmail
 alertmanagement
 alerts
 alertsmanagement
-alfresco
 algorithm
 algorithms
 alias
@@ -392,6 +393,7 @@ application-control
 application-transformer
 application-whitelisting
 applicationgateway
+applicationgrid
 applicationhost.config
 applicationinsights
 applicationmigration
@@ -462,12 +464,14 @@ artifacts
 aruba
 as
 asa
+asa.unittest
 asana
 asbuiltreport
 asc
 ascii
 ascii85
 asciiart
+asdatabase
 asigra
 asm
 asn.1
@@ -489,6 +493,7 @@ asset
 assetintelligencepoint
 assets
 assistance
+assistant
 association
 ast
 astronomy
@@ -498,7 +503,6 @@ async
 asynchronous
 atempo
 atera
-athena
 atlas
 atlassian
 atlassiancli
@@ -524,6 +528,7 @@ auditpolicies
 auditpolicy
 audits
 aumid
+aut
 auth
 auth0
 authenticate
@@ -531,12 +536,12 @@ authentication
 authenticationcertificate
 authenticode
 authn
-author
 authoring
 authoringtools
 authorisation
 authority
 authorization
+authorizationheaders
 authorize.net
 authz
 autify
@@ -558,7 +563,6 @@ automanage
 automate
 automated
 automatedlab
-automatenow
 automaticpacketreportingsystem
 automation
 automation psmodule
@@ -584,8 +588,6 @@ avd
 ave
 avepoint
 avi
-avm
-avmtools
 avro
 avs
 avset
@@ -645,21 +647,25 @@ azure-forensics
 azure-functions
 azure-pipelines
 azure-resource-graph
+azure-ssis
 azureactivedirectory
 azuread
 azureadbackupandrestore
 azureadconnect
 azureadgraph
 azureadtoolkit
+azureadvancedthreatprotection
 azureappconfiguration
 azureapplicationstuff
 azureartifacts
 azureas
+azureatp
 azureautomation
 azureautomationaccount
 azureautomationnotsupported
 azurebasicloadbalancerupgrade
 azurecli
+azurecodesigning
 azurecognitiveservices
 azurecommonstuff
 azurecontainerapps
@@ -699,14 +705,14 @@ azuresearch
 azuresearcher
 azuresecuritycenter
 azureservicebus
+azuresigntool
 azuresql
-azuresqlexport
-azuresqlimport
 azuressas
 azurestack
 azurestackhci
 azurestate
 azurestorage
+azurestorageservices
 azuresync
 azuretable
 azuretestplan
@@ -725,7 +731,6 @@ bamboo
 bamboohr
 bandwidth
 bank
-banking
 banner
 bar
 barcodes
@@ -833,6 +838,7 @@ blacklist
 blade
 bladeserver
 blaze
+blinking-text
 blob
 blobstorage
 block
@@ -857,6 +863,7 @@ boards
 bofh
 boilerplate
 boinc
+bold-text
 bolt
 bom
 book
@@ -872,7 +879,6 @@ bop
 bot
 bots
 botservice
-bouncer
 boundaries
 boundarygroups
 bounty
@@ -893,12 +899,12 @@ brew
 brickset
 bridge
 brightbooking
-brightness
 britannica
 britannicaknowledgesystems
 british-gas
 brk4452
 broadcast
+broadcom
 broot
 brownserve-uk
 browser
@@ -965,11 +971,12 @@ calvin-and-hobbes
 cam
 camera
 campaign
+camtasia
 canarie
 cancel
-cancellation
 canonical
 cantara
+capability
 capacity
 capacitymanagement
 capainstaller
@@ -1061,6 +1068,7 @@ changeanalysis
 changelog
 channel
 channel9
+char
 character
 chart
 charting
@@ -1132,8 +1140,6 @@ cis
 cisco
 ciscoucscmdlets
 ciscoucsdsc
-citation
-cite
 citrix
 citrixoptimizer
 civo
@@ -1260,6 +1266,7 @@ codegen
 codegeneration
 codegenerator
 codellama
+codepoint
 codereview
 codes
 codesign
@@ -1276,6 +1283,7 @@ collatz
 collection
 collectionmembershipevaluationcomponent
 collections
+collector
 color
 color-hex
 color-rgb
@@ -1297,7 +1305,6 @@ comical
 comics
 command
 command_line
-command-line-interface
 command-validation
 commandcoverage
 commandlets
@@ -1306,7 +1313,6 @@ commands
 commandsandresource
 commence
 comment
-comments
 commerce
 commfort
 commit
@@ -1424,7 +1430,6 @@ continuous-integration
 continuousdelivery
 continuousdeployment
 continuousintegration
-contrast
 control
 controller
 controlroom
@@ -1462,11 +1467,9 @@ coordinates
 copilot
 copy
 copy-item
-copyright
 core
 coreepower
 coreepower.common
-coreepower.config
 coreepower.lib
 coreepower.module
 coreepower.net
@@ -1493,6 +1496,7 @@ counter
 countries
 country
 countrycode
+cover
 coverage
 coveralls
 coveralls.io
@@ -1517,13 +1521,13 @@ create
 createcolumn
 createdatabase
 createfile
-createprocessasuser
 createschema
 createtable
 creationworkflowsimplification
 creator
 cred
 credential
+credential-dialog
 credential-file
 credential-files
 credential-manager
@@ -1573,8 +1577,8 @@ csv
 csv2adx
 csvhelper
 ctf
+ctglobal
 ctl
-ctrl+c
 ctx
 ctype
 cubes
@@ -1626,6 +1630,7 @@ cyberark-dpa
 cyberark-identity
 cyberdrain
 cybereason
+cybersamurai
 cybersecurity
 cyberwatch
 cyclic
@@ -1666,10 +1671,10 @@ data-uri
 data-uri-converter
 database
 database-migrations
-databaseautomation
 databasemanagement
 databasemigration
 databases
+databasetools
 databooster
 databox
 databoxedge
@@ -1743,8 +1748,6 @@ dcim
 dcim_b324
 dcom
 dcr
-ddc
-ddc/ci
 ddns
 debian
 debug
@@ -1758,6 +1761,7 @@ declarative
 decline
 decode
 decode64
+decoding
 decompiler
 decrypt
 decryption
@@ -1779,6 +1783,7 @@ defender-atp
 defender-for-endpoint
 defenderast
 defenderforendpoint
+defenderforidentity
 defense
 deflate
 delegated
@@ -1889,14 +1894,12 @@ directorysearcher
 directorysecurity
 directrouting
 direnv
-dirkjan
 dirname
 dirsync
 disa
 disable
 disable-internet
 disable-psremoting
-disablefilesyncngsc
 disablestartbutton
 disablestartkey
 disasm
@@ -1938,7 +1941,6 @@ dividends
 diving
 division
 divoom
-diy
 dkim
 dkschrutebeets
 dl
@@ -2010,7 +2012,6 @@ domainname
 domainnamesystem
 domains
 domino
-done.land
 donothing
 dos
 dot
@@ -2037,13 +2038,11 @@ downloadyoutubevideo
 dozent
 dpa
 dpapi
-dpi
 dps
 dq
 dr
 draw
 drawio
-dreams
 dreamweaver
 dreary
 drift
@@ -2122,6 +2121,7 @@ dynamicdistributiongroups
 dynamicdnsoverhttps
 dynamicparam
 dynamicparameters
+dynamicparams
 dynamics
 dynamics-365
 dynamics-crm
@@ -2146,6 +2146,7 @@ easyvista
 eaton
 ebay
 ebooks
+ebur128
 ec2
 ecommerce
 ecovadis
@@ -2237,6 +2238,7 @@ enteo
 enter
 enterprise
 enterprise-scale
+enterprisedb
 enterprisemanager
 enterprisevoice
 entity
@@ -2389,7 +2391,6 @@ expand-string
 expand-tab
 expandframework
 expect
-experience
 experiments
 expired
 expiring
@@ -2456,7 +2457,6 @@ fastlinq
 fastlookup
 fastping
 fasttrack
-fat32
 favorite
 favorites
 fb-pro
@@ -2547,6 +2547,7 @@ financeandoperations
 financeoperations
 financial
 financialedge
+financials
 find
 find-call
 find-caller
@@ -2557,7 +2558,6 @@ findfile
 findlocation
 findplace
 findproxyforurl
-fine-print
 fine-tuning
 finops
 firebird
@@ -2577,6 +2577,7 @@ fix-log
 fix-protocol
 fixlet
 fixpack
+flac
 flag
 flags
 flash
@@ -2616,7 +2617,6 @@ forensics
 forest
 forestdiscovery
 forgit
-forgiveness
 form
 format
 format-numberedlist
@@ -2642,7 +2642,6 @@ foudil
 fox
 foxpro
 fqdn
-frame
 framework
 france
 free
@@ -2657,8 +2656,6 @@ freshservice-api
 freshserviceps
 freshworks
 friendly
-fritz
-fritzbox
 front
 frontapp
 frontdoor
@@ -2746,6 +2743,8 @@ genetic-algorithm
 genp
 genxdev
 geo
+geocache
+geocaching
 geocode
 geoencode
 geoencoding
@@ -2884,7 +2883,6 @@ gpt3
 gpx
 gradle
 grafana
-grafanaapi
 granttype
 graph
 graph-api
@@ -2906,6 +2904,7 @@ greynoise
 grid
 gridfs
 grok
+groundspeak
 group
 group-membership
 group-policy
@@ -2993,7 +2992,6 @@ hcx
 hdfs
 hdinsight
 hdinsightonaks
-hdr
 header
 headhunter
 health
@@ -3081,6 +3079,7 @@ homeschooling
 hon
 hooking
 horizon
+horizontal
 hornbill
 host
 host-based
@@ -3116,6 +3115,7 @@ hponeview
 hpwritemanager
 hris
 hsdp
+hsl
 html
 http
 http_proxy
@@ -3147,6 +3147,7 @@ hyper-v
 hyperconverged
 hyperfine
 hyperlink
+hyperlinked-text
 hyperthreading
 hyperv
 hypervisor
@@ -3156,6 +3157,7 @@ hysolate
 hysolatemangementconsole
 i-doit
 i2c
+ia
 iaas
 iac
 iam
@@ -3187,6 +3189,7 @@ icraftsoftware
 ics
 icws
 id
+id3
 idabus
 ide
 identifier
@@ -3237,7 +3240,6 @@ imageslide
 imagevalidate
 imagevalidation
 imagga
-imagination
 imaging
 imap
 imb
@@ -3298,11 +3300,9 @@ inputobject
 insert
 insiderthreat
 insight
+insightanalytics
 insights
 inspect
-inspiration
-inspirationalquotes
-inspire
 inspur
 instagram
 install
@@ -3331,7 +3331,6 @@ integrationservicescatalog
 integrity
 intel
 inteligo
-intelligence
 intelligence"
 intellisearch
 intellisense
@@ -3426,6 +3425,7 @@ isnumeric
 iso
 iso-3166-1
 iso-8601
+ispac
 isprime
 ispss
 issues
@@ -3435,6 +3435,7 @@ it
 it-support
 it-tool
 it-tools
+italic-text
 item
 itemlist
 itemobject
@@ -3624,6 +3625,7 @@ labtest
 labworker
 lake
 lambda
+lame
 lametrictime
 lamp
 lan
@@ -3648,6 +3650,7 @@ latitude
 launcher
 layer
 layman
+layout
 lazywinadmin
 lbi
 lbs
@@ -3696,9 +3699,6 @@ licensemanager
 licensereport
 licenses
 licensing
-life
-lifequotes
-lifestyle
 light
 lights
 lime
@@ -3820,7 +3820,6 @@ logonright
 logonscript
 logontask
 logonto
-logonuser
 logparser
 logrotate
 logrotation
@@ -3836,11 +3835,8 @@ longfiles
 longitude
 look
 lookup
-loop
 loopback
 loremipsum
-love
-lovequotes
 lpsiamol
 ls
 lsa
@@ -3939,7 +3935,6 @@ marketplaceordering
 marketplacepublisher
 marking
 marklogic
-marquee
 marvel
 marvell
 marvell_semiconductor_inc
@@ -3973,7 +3968,6 @@ mbs
 mc
 mcafee
 mcas
-mccs
 mcd
 mchapv2
 mct
@@ -3984,6 +3978,7 @@ mdb
 mdbc
 mde
 mdep
+mdi
 mdm
 mdop
 mdt
@@ -4002,6 +3997,8 @@ mediawiki
 meditation
 meesman
 meeting
+meetup
+meetup.com
 meewind
 megabyte
 melamed
@@ -4014,7 +4011,6 @@ memcm
 memory
 memorydump
 memorystream
-mention
 menu
 menus
 meraki
@@ -4074,6 +4070,7 @@ microsoftazure
 microsoftcloud
 microsoftdefender
 microsoftdefenderatp
+microsoftdefenderforidentity
 microsoftdeploymenttoolkit
 microsoftendpointmanager
 microsoftexchangeserver
@@ -4122,7 +4119,6 @@ mixer
 mkdocs
 mkpasswd
 ml
-ml.net
 mlflow
 mmdc
 mobile
@@ -4156,6 +4152,7 @@ mongo
 mongodb
 monitor
 monitor psmodule
+monitorinformation
 monitoring
 monitoring_objects
 monitoring_variables
@@ -4166,9 +4163,8 @@ monthlyupdate
 moodle
 moonshot
 more
+mosaic
 motd
-motivation
-motivationalquotes
 mount
 mouse
 move
@@ -4268,6 +4264,7 @@ mute
 mutex
 mva
 mvc
+mvn
 mvp
 mx
 mxlookup
@@ -4278,6 +4275,7 @@ myip
 myitprocess
 myjson
 myjson.com
+myob
 myposh
 mypstag
 mysql
@@ -4290,6 +4288,7 @@ nac
 nagios
 name
 name-of-dogs
+namedpipe
 nameit
 nameresolution
 names
@@ -4337,9 +4336,9 @@ netcease
 netcore
 netfirewallrule
 netherlands
+netmap
 netmask
 nets
-netsapiens
 netscaler
 netscape
 netsec
@@ -4351,9 +4350,7 @@ network
 network adapter configuration operating os optical sensor physical pointing portable printer processor cpu refrigaration cooling cooler removable usb sd ram dimm scsi sound audio card enclosure tape temperature touchpad touch pad touchscreen screen trackball trackpoint video graphics voltage psmodule
 network-credentials
 network-info
-networkanalytics
 networkcloud
-networkcontroller
 networkdiscovery
 networkdrives
 networkfirewall
@@ -4459,7 +4456,6 @@ npslogfile
 nql
 nrc
 nrql
-ns
 ns.nl
 nsg
 nslookup
@@ -4488,6 +4484,7 @@ nvd
 nvdimm
 nvdimm-n
 nvm
+nvm-window
 nxt
 nyse
 nzb
@@ -4542,8 +4539,10 @@ officedev
 officegraph
 officemessageencryption
 officertool
+offline
 offlinewimservicing
 ofx
+ogg
 oh-my-posh
 oh-my-zsh
 oidc
@@ -4560,6 +4559,7 @@ omnistack
 oms
 omsagent
 on
+on-demand
 on-premise
 onboard
 onboardadministrator
@@ -4591,7 +4591,6 @@ ontap_pstk_9.14.1
 ontap_pstk_9.8.0
 onyphe
 onyphe.io
-oob
 oop
 op
 opa
@@ -4642,6 +4641,7 @@ option
 option119
 options
 optionstring
+opus
 oracle
 oraclecloudinfrastructure
 oraculum
@@ -4799,6 +4799,7 @@ paste
 patch
 patches
 patching
+patchtuesday
 path
 pathfinder
 patternmatching
@@ -4817,7 +4818,6 @@ pcapng
 pci-dss
 pcloud
 pcsetup
-pcsv
 pdb
 pdf
 pdf-document-processor
@@ -4849,7 +4849,6 @@ persistent
 personal
 personalisation
 personalization
-personalvault
 personio
 pester
 pf
@@ -4899,6 +4898,7 @@ pivot
 pivotal
 pivottable
 pixoo
+pkce
 pki
 pki psmodule
 pks
@@ -4935,8 +4935,6 @@ pnp.powershell
 pnpm
 pode
 poe
-poem
-poetry
 point
 point-to-site
 pointer
@@ -4995,6 +4993,7 @@ poshrsjob
 poshtemplate
 poshwsus
 poshy-code-search
+poshy-colors
 poshy-coreutils-ish
 poshy-dir-nav
 poshy-ecks
@@ -5006,6 +5005,7 @@ poshy-multimedia
 poshy-net
 poshy-notify-send
 poshy-sh-isms
+poshy-sshconfig
 poshy-viewer-finder
 poshy-wrap
 poshy-wrap-apt
@@ -5110,7 +5110,6 @@ powershell.one
 powershell.persistentpathstack
 powershell7
 powershellai
-powershellazuresql
 powershellconferenceeurope
 powershellcore
 powershellcourse
@@ -5241,7 +5240,6 @@ protection
 protocol
 protocols
 provance
-proverb
 provider
 providerhub
 provision
@@ -5268,7 +5266,6 @@ ps1
 ps12exe
 ps1xml
 ps1xmlgen
-ps2dll
 ps2exe
 ps3
 ps4
@@ -5309,6 +5306,7 @@ pscommand_aar
 pscommand_acp
 pscommand_acse
 pscommand_acsp
+pscommand_add_ssh
 pscommand_add-envpathitem
 pscommand_add-envvarpathitem
 pscommand_add-gitlfstrackedfiles
@@ -5335,6 +5333,25 @@ pscommand_basename
 pscommand_bcubc
 pscommand_bcubo
 pscommand_bfu
+pscommand_bgblack
+pscommand_bgblue
+pscommand_bgbrightblack
+pscommand_bgbrightblue
+pscommand_bgbrightcyan
+pscommand_bgbrightgreen
+pscommand_bgbrightmagenta
+pscommand_bgbrightred
+pscommand_bgbrightwhite
+pscommand_bgbrightyellow
+pscommand_bgcolor
+pscommand_bgcyan
+pscommand_bggreen
+pscommand_bghsl
+pscommand_bgmagenta
+pscommand_bgred
+pscommand_bgrgb
+pscommand_bgwhite
+pscommand_bgyellow
 pscommand_brewp
 pscommand_brewsp
 pscommand_bubc
@@ -5357,6 +5374,7 @@ pscommand_clocr
 pscommand_confirm-gitbisectcommitbad
 pscommand_confirm-gitbisectcommitgood
 pscommand_convertto-nixmode
+pscommand_convertto-rgb
 pscommand_d
 pscommand_d64
 pscommand_dbl
@@ -5529,6 +5547,41 @@ pscommand_encode64
 pscommand_encodefile64
 pscommand_export-gitrepositoryzip
 pscommand_extract
+pscommand_fgblack
+pscommand_fgblue
+pscommand_fgbrightblack
+pscommand_fgbrightblue
+pscommand_fgbrightcyan
+pscommand_fgbrightgreen
+pscommand_fgbrightmagenta
+pscommand_fgbrightred
+pscommand_fgbrightwhite
+pscommand_fgbrightyellow
+pscommand_fgcolor
+pscommand_fgcyan
+pscommand_fggreen
+pscommand_fghsl
+pscommand_fgmagenta
+pscommand_fgred
+pscommand_fgrgb
+pscommand_fgwhite
+pscommand_fgyellow
+pscommand_fmtblink
+pscommand_fmtblinkoff
+pscommand_fmtbold
+pscommand_fmtboldoff
+pscommand_fmthidden
+pscommand_fmthiddenoff
+pscommand_fmthyperlink
+pscommand_fmtitalic
+pscommand_fmtitalicoff
+pscommand_fmtreset
+pscommand_fmtreverse
+pscommand_fmtreverseoff
+pscommand_fmtstrikethrough
+pscommand_fmtstrikethroughoff
+pscommand_fmtunderline
+pscommand_fmtunderlineoff
 pscommand_forgit-add
 pscommand_forgit-blame
 pscommand_forgit-branch-delete
@@ -6809,9 +6862,11 @@ pscommand_show-proxy
 pscommand_shttp
 pscommand_shuf
 pscommand_sl
+pscommand_ssh-add-all
 pscommand_ssh-disable-proxy
 pscommand_ssh-enable-proxy
 pscommand_ssh-show-proxy
+pscommand_sshlist
 pscommand_start-gitbisect
 pscommand_start-gitcherrypick
 pscommand_start-gitcherrypickexplained
@@ -7019,14 +7074,12 @@ pscredential
 pscribo
 pscustomobject
 psd1
-psdb
 psdefaultparametervalues
 psdeploy
 psdesiredstateconfiguration
 psdevops
 psdocs
 psdocs-documents
-psdocsgenerator
 psdrawio
 psdrive
 psdrives
@@ -7060,6 +7113,7 @@ psfive9admin
 psfoldersize
 psfunction__python3
 psfunction_aar
+psfunction_add_ssh
 psfunction_add-envpathitem
 psfunction_add-envvarpathitem
 psfunction_add-gitlfstrackedfiles
@@ -7076,10 +7130,30 @@ psfunction_apt-history
 psfunction_apt-list-packages
 psfunction_arch
 psfunction_basename
+psfunction_bgblack
+psfunction_bgblue
+psfunction_bgbrightblack
+psfunction_bgbrightblue
+psfunction_bgbrightcyan
+psfunction_bgbrightgreen
+psfunction_bgbrightmagenta
+psfunction_bgbrightred
+psfunction_bgbrightwhite
+psfunction_bgbrightyellow
+psfunction_bgcolor
+psfunction_bgcyan
+psfunction_bggreen
+psfunction_bghsl
+psfunction_bgmagenta
+psfunction_bgred
+psfunction_bgrgb
+psfunction_bgwhite
+psfunction_bgyellow
 psfunction_catimg
 psfunction_confirm-gitbisectcommitbad
 psfunction_confirm-gitbisectcommitgood
 psfunction_convertto-nixmode
+psfunction_convertto-rgb
 psfunction_d
 psfunction_decode64
 psfunction_decodefile64
@@ -7155,6 +7229,41 @@ psfunction_encode64
 psfunction_encodefile64
 psfunction_export-gitrepositoryzip
 psfunction_extract
+psfunction_fgblack
+psfunction_fgblue
+psfunction_fgbrightblack
+psfunction_fgbrightblue
+psfunction_fgbrightcyan
+psfunction_fgbrightgreen
+psfunction_fgbrightmagenta
+psfunction_fgbrightred
+psfunction_fgbrightwhite
+psfunction_fgbrightyellow
+psfunction_fgcolor
+psfunction_fgcyan
+psfunction_fggreen
+psfunction_fghsl
+psfunction_fgmagenta
+psfunction_fgred
+psfunction_fgrgb
+psfunction_fgwhite
+psfunction_fgyellow
+psfunction_fmtblink
+psfunction_fmtblinkoff
+psfunction_fmtbold
+psfunction_fmtboldoff
+psfunction_fmthidden
+psfunction_fmthiddenoff
+psfunction_fmthyperlink
+psfunction_fmtitalic
+psfunction_fmtitalicoff
+psfunction_fmtreset
+psfunction_fmtreverse
+psfunction_fmtreverseoff
+psfunction_fmtstrikethrough
+psfunction_fmtstrikethroughoff
+psfunction_fmtunderline
+psfunction_fmtunderlineoff
 psfunction_forgit-add
 psfunction_forgit-blame
 psfunction_forgit-branch-delete
@@ -7960,9 +8069,11 @@ psfunction_show-gitremote
 psfunction_show-proxy
 psfunction_shttp
 psfunction_shuf
+psfunction_ssh-add-all
 psfunction_ssh-disable-proxy
 psfunction_ssh-enable-proxy
 psfunction_ssh-show-proxy
+psfunction_sshlist
 psfunction_start-gitbisect
 psfunction_start-gitcherrypick
 psfunction_start-gitcherrypickexplained
@@ -8118,6 +8229,7 @@ psword
 pswriteword
 psyaml
 pszabbix
+pubg
 public
 public-key
 public-transport
@@ -8129,7 +8241,6 @@ publicip
 publish
 publishedmodules
 publisher
-publishers
 publishing
 pubsub
 pubxml
@@ -8218,9 +8329,7 @@ quiz
 qumulo
 quota
 quote
-quoteoftheday
 quotes
-quotestoliveby
 quoting
 quser
 qword
@@ -8281,7 +8390,6 @@ rdpsign
 rds
 rdsgw
 react-stockcharts
-read
 read-slog
 readable
 reader
@@ -8336,7 +8444,6 @@ refactoring
 refeds
 refeds-mfa
 refedsmfa
-reference
 reflect
 reflection
 refresh
@@ -8420,6 +8527,7 @@ reparsepoint
 repeat
 repl
 replace
+replaygain
 replication
 repoo
 report
@@ -8481,7 +8589,9 @@ retype
 reuse
 reverse-engineer
 reverse-string
+reversed-color-text
 reversedsc
+reverseengineering
 review
 revision
 reword
@@ -8498,6 +8608,7 @@ rfc5952
 rfc826
 rfc9116
 rg
+rgb
 rhapsody
 ribbon
 ribcl
@@ -8505,15 +8616,14 @@ ricoh
 rightjoin
 rights
 rightsizing
+rightsmanagement
 ring
 ripe
 risk
 riskiq
-riskpro
 risksense
 rivermeadow
 rlan
-rmcp
 rmm
 rms
 rng
@@ -8647,7 +8757,6 @@ scaffoldingtemplate
 scala
 scalable
 scalablevectorgraphics
-scale
 scan
 scanner
 scap
@@ -8754,7 +8863,6 @@ secrets
 secretsanta
 secretscanner
 secretserver
-secretsmanager
 secretvault
 section
 secur32
@@ -8938,6 +9046,7 @@ shell-art
 shells
 shieldedvm
 ships
+shipsprovider
 shipstation
 shlink
 shodan
@@ -8990,7 +9099,6 @@ site_navigation
 sitecollection
 siteconfiguration
 sitecore
-sitecoresearch
 sitemaintenance
 sitemap
 siterecovery
@@ -9030,7 +9138,6 @@ smartarraycmdlets
 smarthome
 smartsheet
 smartwatch
-smash
 smb
 smb1
 smb2
@@ -9063,10 +9170,6 @@ snippet
 snippets
 snippit
 snmp
-snmpget
-snmpset
-snmpv3
-snmpwalk
 snowflake
 snsmssqlpsmodule
 snspsadgroupmembers
@@ -9110,6 +9213,7 @@ soonr
 soonragent
 sophos
 sort
+sort-json
 sorting
 source
 source-dedicated-server
@@ -9183,7 +9287,6 @@ sql-database
 sql-script
 sql-server
 sqlagent
-sqlautomation
 sqlbits
 sqlbrowser
 sqlbulkcopy
@@ -9195,7 +9298,6 @@ sqldatabase
 sqldb
 sqldbatools
 sqldiagapi
-sqlexport
 sqlgateway
 sqlite
 sqlitebynarymodule
@@ -9226,6 +9328,7 @@ ssc
 ssdt
 sse
 ssh
+ssh-config
 ssh-keygen
 sshmanagement
 sshservers
@@ -9327,6 +9430,7 @@ streamreader
 streamwriter
 stretch
 strictmode
+strikethrough-text
 string
 string-template
 stringmanager
@@ -9366,7 +9470,6 @@ subset
 subsystem
 subtitle
 subversion
-success
 successfactors
 sudo
 sugar
@@ -9529,6 +9632,7 @@ techdirect
 techedna2014
 techlog
 technology
+techsmith
 tel
 telegram
 telegram-bot
@@ -9701,8 +9805,6 @@ touch
 toughswitch
 tphubps
 tpm
-tr-064
-tr064
 trace
 traceevent
 tracer
@@ -9739,6 +9841,7 @@ transparency
 transpilation
 trap
 travel
+trec
 tree
 tree-structure
 treesize
@@ -9761,6 +9864,7 @@ tripunkt
 troubleshoot
 troubleshooting
 trouw
+true-color
 truecrypt
 truenas
 trumethods
@@ -9769,13 +9873,16 @@ trusted
 trusted-host
 trustedhosts
 trustedrootcertificate
-truth
+trustedsigning
 trx
 ts
 tsa
 tsd
 tsheets
 tsqlbestpractice
+tst
+tst1
+tst3
 tsv
 ttrpg
 tts
@@ -9827,6 +9934,7 @@ ud-breadcrumbitem
 ud-burger
 ud-button
 ud-buttonloader
+ud-buttonparticle
 ud-calendar
 ud-circle
 ud-component
@@ -9897,6 +10005,7 @@ unattend
 unattendedfile
 unblock
 unc
+underlined-text
 unicode
 unicode-emoji
 unicode-emojis
@@ -9915,6 +10024,7 @@ unit_testing
 unit-testing
 unitconvesion
 unittest
+unittesting
 unity
 universal
 universal-automation
@@ -9975,6 +10085,7 @@ useful
 user
 user-environment
 userdiscovery
+usergroup
 userinterface
 usermanagement
 username
@@ -10025,12 +10136,12 @@ variants
 vastlimits
 vault
 vaultextension
-vaultstore
 vaultwarden
 vb365
 vba
 vbaproject
 vbproj
+vbr
 vbscript
 vbsinst
 vc
@@ -10067,6 +10178,7 @@ version
 versioning
 versionmanager
 versionnumber
+vertical
 vester
 vhd
 vhdx
@@ -10155,6 +10267,7 @@ volume
 volumeshadowcopy
 volumio
 voperator
+vorbis
 vovin
 vpas
 vpasmodule
@@ -10285,6 +10398,7 @@ websphereportal
 webtest
 webtesting
 webtime
+webview2
 wec
 wecutil
 weekday
@@ -10320,6 +10434,8 @@ wildfire
 wildfly
 wim
 wim2vhd
+wimwitch
+wimwitchfk
 win
 win-ps2exe
 win10
@@ -10374,6 +10490,7 @@ windowsindex
 windowsinstaller
 windowsinternaldatabase
 windowsinternals
+windowsiotservices
 windowsiso
 windowsmanagementframework
 windowspackagemanager
@@ -10547,7 +10664,6 @@ xiaomi
 xin
 xkcd
 xliff
-xlsx
 xmc
 xml
 xml-rpc
@@ -10576,8 +10692,10 @@ yahw
 yamaha
 yaml
 yandex
+yapg
 yarn
 yetanotherhelloworld
+yml
 ynab
 youtube
 youtube-dl
