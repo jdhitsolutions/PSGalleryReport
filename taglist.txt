@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Tuesday, 26 March 2024 09:51:50 UTC
+Updated: Tuesday, 26 March 2024 17:51:41 UTC
 
 .bat
 .env
@@ -37,7 +37,6 @@ Updated: Tuesday, 26 March 2024 09:51:50 UTC
 2016
 2018
 2019
-21vianet
 24-bit
 2fa
 300
@@ -65,6 +64,7 @@ aadc
 aadconnect
 aadgraph
 aadrm
+aadsecurity
 aadsts
 aam
 aas
@@ -72,6 +72,7 @@ aatp
 abc
 abc_testing
 abe
+about
 abr
 abstractsyntaxtree
 abuse
@@ -295,7 +296,6 @@ alteryx
 alwaysontop
 alwaysonvpn
 alz
-amateur
 amateur-data-interchange-format
 amateur-radio
 amateurradio
@@ -333,7 +333,6 @@ animate-svg
 animation
 animations
 annotated
-announcement
 announcementsservice
 anonymous
 anova
@@ -416,9 +415,6 @@ appwrite
 appx
 appxmanifest
 aprs
-aprs-is
-aprsis
-aprsthursday
 aps
 apt
 apt-get
@@ -565,7 +561,6 @@ autologon
 automai
 automanage
 automate
-automated
 automatedlab
 automatenow
 automaticpacketreportingsystem
@@ -948,7 +943,6 @@ buildmaster
 builds
 buildtool
 bulk
-bulletin
 bullhorn
 bundle
 bup
@@ -2070,6 +2064,7 @@ downloadyoutubevideo
 dozent
 dpa
 dpapi
+dpi
 dps
 dq
 dr
@@ -2204,7 +2199,6 @@ effectiveroutes
 efficientether
 efi
 egrep
-eid
 eigencontroles
 einstein
 eklient psedition_core psedition_desktop
@@ -2214,6 +2208,8 @@ elasticsearch
 element
 elevate
 elevated
+elevatedconsole
+elevatedmode
 elevation
 elgato
 elk
@@ -2235,7 +2231,6 @@ emailnotificationcomponent
 emailsecurity
 embedded
 emc
-emcomm
 emergency
 emissions
 emoji
@@ -2392,7 +2387,6 @@ exchange2010
 exchange2013
 exchange2016
 exchangecluster
-exchangehybrid
 exchangemigration
 exchangeon-premise
 exchangeon-premises
@@ -2882,8 +2876,10 @@ gmaps
 gmsa
 gnucash
 gnuwin32
+go
 gobright
 godaddy
+golang
 goldengate
 goldsource
 goldsource-dedicated-server
@@ -2917,7 +2913,6 @@ gpo-tools
 gpodoc
 gpolinks
 gpp
-gps
 gpt
 gpt3
 gpx
@@ -2991,8 +2986,6 @@ haloitsm
 halopsa
 haloservicedesk
 haloservicesolutions
-ham
-hamradio
 hamradiodeluxe
 hana
 hanaon
@@ -3033,6 +3026,7 @@ hcx
 hdfs
 hdinsight
 hdinsightonaks
+hdr
 header
 headhunter
 health
@@ -3063,6 +3057,7 @@ helper
 helper-functions
 helperfunctions
 helpers
+helpfile
 helpful
 heml
 here
@@ -3241,7 +3236,6 @@ identitydomains
 identitynow
 idf
 idm
-idna
 ids
 ie
 iem
@@ -3354,7 +3348,6 @@ install-module
 install-windowsimage
 installation
 installationmanager
-installedapplications
 installer
 installers
 installoffice
@@ -3462,6 +3455,7 @@ isbn
 iscsi
 isdate
 ise
+iselevated
 isesteroids
 ish
 ishexstring
@@ -3485,6 +3479,7 @@ itemlist
 itemobject
 items
 itemstack
+iterate
 iteration
 itg
 itglue
@@ -3567,6 +3562,7 @@ jwe
 jwk
 jws
 jwt
+jwttoken
 k8s
 k8sshell
 kafka
@@ -4170,6 +4166,7 @@ mixer
 mkdocs
 mkpasswd
 ml
+ml.net
 mlflow
 mmdc
 mobile
@@ -4584,7 +4581,6 @@ odfb
 odin
 odoo
 oem-charset
-offboarding
 offence
 office
 office_365
@@ -4621,7 +4617,6 @@ on-demand
 on-premise
 onboard
 onboardadministrator
-onboarding
 oncommand-insight
 ondemand
 one
@@ -4979,6 +4974,7 @@ player
 playlists
 playwright
 pleasant
+pleasantpasswordserver
 plex
 plist
 plog
@@ -5085,6 +5081,7 @@ poshy-wrap-gh
 poshy-wrap-git
 poshy-wrap-git-flow
 poshy-wrap-git-lfs
+poshy-wrap-golang
 poshy-wrap-helm
 poshy-wrap-kubectl
 poshy-wrap-maven
@@ -5928,6 +5925,31 @@ pscommand_gmu
 pscommand_gmum
 pscommand_gmv
 pscommand_gnew
+pscommand_gob
+pscommand_goc
+pscommand_god
+pscommand_goe
+pscommand_gof
+pscommand_gofa
+pscommand_gofx
+pscommand_gog
+pscommand_goga
+pscommand_goi
+pscommand_gol
+pscommand_gom
+pscommand_gopa
+pscommand_gopb
+pscommand_gops
+pscommand_gor
+pscommand_got
+pscommand_gota
+pscommand_goto
+pscommand_gotoc
+pscommand_gotod
+pscommand_gotofx
+pscommand_gov
+pscommand_gove
+pscommand_gow
 pscommand_gp
 pscommand_gpatch
 pscommand_gpdo
@@ -6153,6 +6175,28 @@ pscommand_invoke-gitsubmoduleallpullorigin
 pscommand_invoke-gitswitch
 pscommand_invoke-gittag
 pscommand_invoke-gitwhatchanged
+pscommand_invoke-gobuild
+pscommand_invoke-goclean
+pscommand_invoke-godoc
+pscommand_invoke-goenv
+pscommand_invoke-gofix
+pscommand_invoke-gofmt
+pscommand_invoke-gofmtellipsis
+pscommand_invoke-goget
+pscommand_invoke-gogetellipsis
+pscommand_invoke-goinstall
+pscommand_invoke-golist
+pscommand_invoke-gomod
+pscommand_invoke-gorun
+pscommand_invoke-gotest
+pscommand_invoke-gotestellipsis
+pscommand_invoke-gotool
+pscommand_invoke-gotoolcompile
+pscommand_invoke-gotooldist
+pscommand_invoke-gotoolfix
+pscommand_invoke-goversion
+pscommand_invoke-govet
+pscommand_invoke-gowork
 pscommand_invoke-greppipfreeze
 pscommand_invoke-helm
 pscommand_invoke-helminstall
@@ -6864,6 +6908,9 @@ pscommand_set-locationback9
 pscommand_set-locationdown1
 pscommand_set-locationforward1
 pscommand_set-locationgithome
+pscommand_set-locationgopath
+pscommand_set-locationgopathbin
+pscommand_set-locationgopathsrc
 pscommand_set-locationnewdirectory
 pscommand_set-locationup
 pscommand_set-locationup1
@@ -7538,6 +7585,28 @@ psfunction_invoke-gitsubmoduleallpullorigin
 psfunction_invoke-gitswitch
 psfunction_invoke-gittag
 psfunction_invoke-gitwhatchanged
+psfunction_invoke-gobuild
+psfunction_invoke-goclean
+psfunction_invoke-godoc
+psfunction_invoke-goenv
+psfunction_invoke-gofix
+psfunction_invoke-gofmt
+psfunction_invoke-gofmtellipsis
+psfunction_invoke-goget
+psfunction_invoke-gogetellipsis
+psfunction_invoke-goinstall
+psfunction_invoke-golist
+psfunction_invoke-gomod
+psfunction_invoke-gorun
+psfunction_invoke-gotest
+psfunction_invoke-gotestellipsis
+psfunction_invoke-gotool
+psfunction_invoke-gotoolcompile
+psfunction_invoke-gotooldist
+psfunction_invoke-gotoolfix
+psfunction_invoke-goversion
+psfunction_invoke-govet
+psfunction_invoke-gowork
 psfunction_invoke-greppipfreeze
 psfunction_invoke-helm
 psfunction_invoke-helminstall
@@ -8051,6 +8120,9 @@ psfunction_set-locationback9
 psfunction_set-locationdown1
 psfunction_set-locationforward1
 psfunction_set-locationgithome
+psfunction_set-locationgopath
+psfunction_set-locationgopathbin
+psfunction_set-locationgopathsrc
 psfunction_set-locationnewdirectory
 psfunction_set-locationup
 psfunction_set-locationup1
@@ -8138,6 +8210,7 @@ psgallery
 psget
 psgitlab
 psgraph
+psgraylog
 pshot
 pshtml
 psimport
@@ -8148,6 +8221,7 @@ psini
 psinsight
 psintune
 psise
+psitem
 psjob
 psjobs
 psjobthreads
@@ -8241,7 +8315,6 @@ pullrequest
 pullserver
 pulseway
 pulumi
-punycode
 puppet
 puppetdb
 puppy
@@ -8312,6 +8385,7 @@ queryexcel
 question
 queue
 queues
+queuing
 quickaccess
 quickbase
 quickbooks
@@ -8684,6 +8758,7 @@ runbook
 runbooks
 runbookstudio
 runcommand
+rundeck
 runner
 runspace
 runspacepool
@@ -8753,6 +8828,7 @@ scaffoldingtemplate
 scala
 scalable
 scalablevectorgraphics
+scale
 scan
 scanner
 scap
@@ -9266,6 +9342,7 @@ spfx
 spi
 spicetify
 spinnaker
+splash
 splat
 splatting
 split
@@ -9360,6 +9437,7 @@ stackhci
 stackmonitoring
 stackoverflow
 staffhub
+staging
 stale
 stan
 stanc
@@ -9478,6 +9556,7 @@ subversion
 success
 successfactors
 sudo
+sugar
 sugarcrm
 suggestion
 suitecrm
@@ -9762,6 +9841,7 @@ timer
 timeseriesinsights
 timesheet
 timesheets
+timespan
 timezone
 tinkerpop
 tinymce
@@ -10145,6 +10225,7 @@ vault
 vaultextension
 vaultstore
 vaultwarden
+vb365
 vba
 vbaproject
 vbproj
@@ -10302,7 +10383,6 @@ vscode
 vsdevcmd
 vsdevshell
 vsenvironment
-vsm
 vso
 vsphere
 vsphere+
@@ -10447,7 +10527,6 @@ win-ps2exe
 win10
 win2k8
 win32
-win32_installedwin32program
 win32_operatingsystem
 win32-api
 win32appmigrationtool
@@ -10654,6 +10733,7 @@ x86
 xa
 xaf
 xbase
+xbox
 xclarity
 xdr
 xdschelper
