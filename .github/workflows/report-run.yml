@@ -1,0 +1,25 @@
+name: Run Reports
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "50 9,17,1 * * *"
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          token: ${{secrets.ACTION_BOT}}
+      - name: Run report script
+        shell: pwsh
+        run: ./scripts/run.ps1
+      - name: git add
+        run: git add .
+      - name: git commit
+        run: |
+          git config user.name "Action Bot"
+          git config user.email "<>"
+          git commit -m "PSGallery Report Run $(date +'%Y-%m-%dT%H:%M:%S')"
+      - name: git push
+        run: git push
