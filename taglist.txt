@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Thursday, 25 April 2024 02:03:31 UTC
+Updated: Thursday, 25 April 2024 09:52:24 UTC
 
 .bat
 .env
@@ -83,6 +83,7 @@ acas
 accelerator
 access
 access-control
+access-points
 accesscontrol
 accesscontroldsc
 accessgovernancecp
@@ -411,7 +412,6 @@ applicationmigration
 applicationmonitor
 applications
 applocker
-apply
 appmgmtcontrol
 apppool
 appraiser
@@ -717,6 +717,7 @@ azurepowershell
 azurerepos
 azureresourcemanager
 azureresources
+azureresourcestuff
 azurerestapispecs
 azurerm
 azurerms
@@ -1287,7 +1288,6 @@ coa
 cockroachdb
 codaamok
 code
-code-page
 code365
 codeanalysis
 codebuild
@@ -1377,6 +1377,7 @@ component
 composer
 composite
 compositeresource
+compoundproperty
 compress
 compression
 compute
@@ -1584,7 +1585,6 @@ credmanager
 crescendo
 crescendobuilt
 cresendo
-crestron
 crime
 crlf
 crm
@@ -1703,6 +1703,7 @@ dashboardservice
 dast
 data
 data_protection
+data_security
 data-archive
 data-backup
 data-tier
@@ -2009,6 +2010,7 @@ dns-client
 dns-over-https
 dns-resolver
 dnsbl
+dnsclient
 dnsdumpster
 dnsentry
 dnsimple
@@ -2139,7 +2141,6 @@ dsreg
 dsregcmd
 dsutils
 dtc
-dts
 dtsx
 dtx
 du
@@ -2174,6 +2175,7 @@ dynamicdistributiongroups
 dynamicdnsoverhttps
 dynamicparam
 dynamicparameters
+dynamicparams
 dynamics
 dynamics-365
 dynamics-crm
@@ -2229,6 +2231,7 @@ elastic
 elasticsan
 elasticsearch
 elb
+element
 elevate
 elevated
 elevatedconsole
@@ -2289,6 +2292,7 @@ enhancement
 enrichers
 enrichment
 enteo
+enter
 enterprise
 enterprise-scale
 enterprisedb
@@ -2319,6 +2323,7 @@ epicor
 episode
 epplus
 eprosima
+epub
 epv
 equality
 erb
@@ -2612,6 +2617,7 @@ finddownloadlinkfromwebsite
 findfile
 findlocation
 findplace
+findproxyforurl
 fine-print
 fine-tuning
 finops
@@ -2689,6 +2695,7 @@ fortigate
 fortigi
 fortimanager
 fortinet
+fortinetmanager
 fortios
 fortune
 forum
@@ -2771,6 +2778,7 @@ gauge
 gavin
 gavineke
 gc
+gcbdr
 gce
 gci
 gcloud
@@ -2795,6 +2803,7 @@ generates
 generatewif
 generation
 generativeai
+generativeaiinference
 generator
 generic
 genericartifactscontent
@@ -3019,6 +3028,7 @@ hana
 hanaon
 handle
 handler
+handy
 hangouts
 hannelstoolbox
 hanwha
@@ -3053,6 +3063,7 @@ hcm
 hcx
 hdfs
 hdinsight
+hdinsightonaks
 hdr
 header
 headhunter
@@ -3138,7 +3149,6 @@ home_automation
 homebrew
 homelandsecurity
 homeschooling
-hon
 hooking
 horizon
 horizontal
@@ -3159,6 +3169,7 @@ hotkeys
 howto
 hp
 hpc
+hpcc
 hpccache
 hpe
 hpealletra6000andnimblestoragepowershelltoolkit
@@ -3504,7 +3515,10 @@ it-tool
 it-tools
 italic-text
 item
+itemlist
+itemobject
 items
+itemstack
 iterate
 iteration
 itg
@@ -3627,6 +3641,7 @@ keylight
 keymanagement
 keymap
 keymapping
+keypair
 keysms
 keyvault
 keywords
@@ -3756,7 +3771,6 @@ licence
 license
 license-generator
 licenseautomation
-licensemanagement
 licensemanager
 licensereport
 licenses
@@ -3824,14 +3838,15 @@ localconfigurationmanager
 localdb
 locale
 localgroup
-localgroupmember
 localization
 localpolicy
 location
 locationbasedservices
 lock
 lockbox
+lockdisplaytimeout
 lockdown
+lockfile
 locking
 lockoutreport
 lockscreen
@@ -3841,10 +3856,6 @@ lod
 lodasoft
 log
 log-administration
-log-file
-log-files
-log-mail
-log-mails
 log-management
 log-rotation
 log4net
@@ -3875,8 +3886,6 @@ loginsight
 logiphys
 logistic
 logitech
-logmail
-logmails
 logman
 logoff
 logon
@@ -3946,9 +3955,7 @@ mailbox
 mailchimp
 mailgroup
 mailgroupmember
-mailing
 mailkit
-mails
 main
 main-menu
 maintain-module
@@ -3982,6 +3989,7 @@ managementdashboard
 managementgroups
 managementpoint
 manager
+mangement
 manifest
 manual
 map
@@ -4253,8 +4261,6 @@ mp4
 mpc
 mpeg
 mpn
-mrfk
-mrfylke
 mrvl_fc_powerkit
 mrvlfcprovider
 ms_365
@@ -4476,7 +4482,6 @@ ngfw
 nginx
 nhl
 nic
-nic.ru
 nightmare
 ninite
 ninja
@@ -4864,6 +4869,7 @@ passwd
 password
 password_generation
 password-generator
+password-less
 password-manager
 passwordexpiration
 passwordexpiry
@@ -4881,6 +4887,7 @@ passwordspray
 passwordstate
 passwordtool
 passwordvault
+passwordwolf
 paste
 patch
 patches
@@ -4915,6 +4922,7 @@ peek
 peering
 peheader
 pem
+pemfile
 pendingreboot
 penetration
 penetrationtesting
@@ -4973,6 +4981,7 @@ pinvoke
 pip
 pip3
 pipe
+pipedrive
 pipeline
 pipelinelastexecution
 pipelines
@@ -5013,7 +5022,6 @@ plugin
 plugins
 pluralsight
 ply
-pmp
 pncit
 pnp
 pnp.powershell
@@ -5086,6 +5094,7 @@ poshy-coreutils-ish
 poshy-dir-nav
 poshy-ecks
 poshy-env-proxy
+poshy-env-var
 poshy-ls-isms
 poshy-lucidity
 poshy-multimedia
@@ -5119,7 +5128,6 @@ poshy-wrap-npm
 poshy-wrap-pip
 poshy-wrap-pipenv
 poshy-wrap-pyenv
-poshy-wrap-pylint
 poshy-wrap-python
 poshy-wrap-ruby
 poshy-wrap-systemctl
@@ -5127,7 +5135,6 @@ poshy-wrap-terraform
 poshy-wrap-terragrunt
 poshy-wrap-tmux
 poshy-wrap-vagrant
-poshy-wrap-vault
 poshy-wrap-vscode
 poshy-wrap-wget
 poshy-wrap-wt
@@ -5269,8 +5276,10 @@ printserver
 prism
 prism_element
 privacy
+private
 private-key
 privatedns
+privatekey
 privatemethods
 privateprofilestring
 privilege
@@ -5394,6 +5403,8 @@ pscommand_acp
 pscommand_acse
 pscommand_acsp
 pscommand_add_ssh
+pscommand_add-envpathitem
+pscommand_add-envvarpathitem
 pscommand_add-gitlfstrackedfiles
 pscommand_add-gitremote
 pscommand_add-gitskipworktreeflag
@@ -5802,6 +5813,9 @@ pscommand_get-dockercontainerlatestipaddress
 pscommand_get-dockercontainerlatestquiet
 pscommand_get-dockercontainerrunning
 pscommand_get-dockerimage
+pscommand_get-envpathitem
+pscommand_get-envvar
+pscommand_get-envvarpathitem
 pscommand_get-gitbranchdefault
 pscommand_get-gitbranchlist
 pscommand_get-gitbranchlistall
@@ -6382,7 +6396,6 @@ pscommand_invoke-pipinstallupgrade
 pscommand_invoke-piplistoutdated
 pscommand_invoke-pipuninstall
 pscommand_invoke-pyenv
-pscommand_invoke-pylintreportsdisabled
 pscommand_invoke-ruby
 pscommand_invoke-rubyexecute
 pscommand_invoke-rubyexecutehttpdhere
@@ -6535,17 +6548,6 @@ pscommand_invoke-vagrantstatus
 pscommand_invoke-vagrantsuspend
 pscommand_invoke-vagrantup
 pscommand_invoke-vagrantuplogged
-pscommand_invoke-vaultdelete
-pscommand_invoke-vaultlist
-pscommand_invoke-vaultloginviagithub
-pscommand_invoke-vaultread
-pscommand_invoke-vaultreadfieldvalue
-pscommand_invoke-vaultrenew
-pscommand_invoke-vaultrevoke
-pscommand_invoke-vaultserver
-pscommand_invoke-vaultstatus
-pscommand_invoke-vaultversion
-pscommand_invoke-vaultwrite
 pscommand_invoke-vscodeadd
 pscommand_invoke-vscodediff
 pscommand_invoke-vscodeforpwd
@@ -6762,6 +6764,7 @@ pscommand_mcisk
 pscommand_mcp
 pscommand_mcpsk
 pscommand_mdep
+pscommand_measure-envvarchanges
 pscommand_merge-gitrepositoryfromoriginbranchmain
 pscommand_merge-gitrepositoryfromupstreambranchmain
 pscommand_mi
@@ -6870,15 +6873,18 @@ pscommand_pwh
 pscommand_pwshrc-show-proxy
 pscommand_py
 pscommand_pyenv
-pscommand_pylint-quick
 pscommand_pyserver
 pscommand_python
 pscommand_python3
 pscommand_rb
+pscommand_read-dotenv
 pscommand_register-argcompleteargumentcompleter
 pscommand_remove_gem
 pscommand_remove-dockercontainerall
 pscommand_remove-dockerunusedimage
+pscommand_remove-envpathitem
+pscommand_remove-envvar
+pscommand_remove-envvarpathitem
 pscommand_remove-gitbranch
 pscommand_remove-gitbranchforcefully
 pscommand_remove-gitremote
@@ -6908,6 +6914,7 @@ pscommand_scu-enable-now
 pscommand_scu-mask-now
 pscommand_search-commandpath
 pscommand_search-ruby
+pscommand_set-envvar
 pscommand_set-gitremoteurl
 pscommand_set-itemnixmode
 pscommand_set-locationback1
@@ -7030,16 +7037,6 @@ pscommand_use-gitflowbranchrelease
 pscommand_use-gitstashentry
 pscommand_uuid
 pscommand_uuidgen
-pscommand_vad
-pscommand_vag
-pscommand_val
-pscommand_var
-pscommand_varn
-pscommand_varv
-pscommand_vas
-pscommand_vasrv
-pscommand_vav
-pscommand_vaw
 pscommand_vdstr
 pscommand_vh
 pscommand_vhl
@@ -7151,7 +7148,6 @@ pscribo
 pscustomobject
 psd1
 psdb
-psdefaultparametervalues
 psdeploy
 psdesiredstateconfiguration
 psdevops
@@ -7193,6 +7189,8 @@ psfoldersize
 psfunction__python3
 psfunction_aar
 psfunction_add_ssh
+psfunction_add-envpathitem
+psfunction_add-envvarpathitem
 psfunction_add-gitlfstrackedfiles
 psfunction_add-gitremote
 psfunction_add-gitskipworktreeflag
@@ -7384,6 +7382,9 @@ psfunction_get-dockercontainerlatestipaddress
 psfunction_get-dockercontainerlatestquiet
 psfunction_get-dockercontainerrunning
 psfunction_get-dockerimage
+psfunction_get-envpathitem
+psfunction_get-envvar
+psfunction_get-envvarpathitem
 psfunction_get-gitbranchdefault
 psfunction_get-gitbranchlist
 psfunction_get-gitbranchlistall
@@ -7781,7 +7782,6 @@ psfunction_invoke-pipinstallupgrade
 psfunction_invoke-piplistoutdated
 psfunction_invoke-pipuninstall
 psfunction_invoke-pyenv
-psfunction_invoke-pylintreportsdisabled
 psfunction_invoke-ruby
 psfunction_invoke-rubyexecute
 psfunction_invoke-rubyexecutehttpdhere
@@ -7934,17 +7934,6 @@ psfunction_invoke-vagrantstatus
 psfunction_invoke-vagrantsuspend
 psfunction_invoke-vagrantup
 psfunction_invoke-vagrantuplogged
-psfunction_invoke-vaultdelete
-psfunction_invoke-vaultlist
-psfunction_invoke-vaultloginviagithub
-psfunction_invoke-vaultread
-psfunction_invoke-vaultreadfieldvalue
-psfunction_invoke-vaultrenew
-psfunction_invoke-vaultrevoke
-psfunction_invoke-vaultserver
-psfunction_invoke-vaultstatus
-psfunction_invoke-vaultversion
-psfunction_invoke-vaultwrite
 psfunction_invoke-vscodeadd
 psfunction_invoke-vscodediff
 psfunction_invoke-vscodeforpwd
@@ -8022,6 +8011,7 @@ psfunction_jump
 psfunction_kerndeb
 psfunction_kres
 psfunction_local-ignore
+psfunction_measure-envvarchanges
 psfunction_merge-gitrepositoryfromoriginbranchmain
 psfunction_merge-gitrepositoryfromupstreambranchmain
 psfunction_mirrorsite
@@ -8079,9 +8069,13 @@ psfunction_push-gitstashentry
 psfunction_push-gitstashentrywithmessage
 psfunction_pwshrc-show-proxy
 psfunction_pyserver
+psfunction_read-dotenv
 psfunction_register-argcompleteargumentcompleter
 psfunction_remove-dockercontainerall
 psfunction_remove-dockerunusedimage
+psfunction_remove-envpathitem
+psfunction_remove-envvar
+psfunction_remove-envvarpathitem
 psfunction_remove-gitbranch
 psfunction_remove-gitbranchforcefully
 psfunction_remove-gitremote
@@ -8109,6 +8103,7 @@ psfunction_scu-enable-now
 psfunction_scu-mask-now
 psfunction_search-commandpath
 psfunction_search-ruby
+psfunction_set-envvar
 psfunction_set-gitremoteurl
 psfunction_set-itemnixmode
 psfunction_set-locationback1
@@ -8284,6 +8279,7 @@ pssqlserverbynarymodule
 pssqlservermodule
 psst
 psstgenerator
+pstablacus
 pstanss
 psthread
 pstk
@@ -8351,7 +8347,6 @@ pwshrc
 pxedistributionpoint
 pyenv
 pygmentize
-pylint
 pyranja
 python
 python-for-dotnet
@@ -8429,6 +8424,7 @@ randomuser
 randomusers
 range
 rangescan
+ransomware_recovery
 ras
 raspberry-pi
 raspberrypi
@@ -8464,6 +8460,7 @@ react-stockcharts
 read
 read-slog
 readable
+reader
 readiness
 readme
 readpdf
@@ -8550,6 +8547,7 @@ relational
 relay
 release
 releasedefinition
+releasehealth
 releasemanagement
 releasenotes
 relevance
@@ -8562,7 +8560,6 @@ remote
 remote-browser
 remote-desktop
 remote'
-remoteadmin
 remotecert
 remoteconnection
 remoteconnectionsmanager
@@ -8575,7 +8572,6 @@ remotedesktopservices
 remotefiles
 remoteforensics
 remotehost
-remotelocalgroup
 remotelogoff
 remotemanagement
 remotesession
@@ -8664,6 +8660,7 @@ reverse-engineer
 reverse-string
 reversed-color-text
 reversedsc
+reverseengineering
 review
 revision
 reword
@@ -8715,6 +8712,7 @@ rocolatey
 role
 roleassignments
 rolebasedaccesscontrol_model
+roles
 rollingfile
 romaji
 ropc
@@ -8751,6 +8749,7 @@ rt
 rtu
 rubber
 rubrik
+rubriksecuritycloud
 ruby
 rulasg
 rule
@@ -9663,6 +9662,7 @@ tab-expansion
 tabcompletion
 tabexpansion
 tabexpansion2
+tablacus
 table
 tableau
 tableauserver
@@ -9971,6 +9971,7 @@ trustedrootcertificate
 trustedsigning
 truth
 trx
+ts
 tsa
 tsd
 tsheets
@@ -10064,6 +10065,7 @@ ud-singleselect
 ud-slider
 ud-speechbubble
 ud-step
+ud-stepbar
 ud-stickynavbar
 ud-tagcloud
 ud-timeline
@@ -10486,6 +10488,7 @@ webservice
 webservices
 website
 websites
+websocket
 websockets
 websphere
 websphereappserver
@@ -10530,8 +10533,6 @@ wildfire
 wildfly
 wim
 wim2vhd
-wimwitch
-wimwitchfk
 win
 win-ps2exe
 win10
@@ -10571,6 +10572,7 @@ windows11
 windows365
 windowsadmincenter
 windowsaudit
+windowsbuilds
 windowscredential
 windowscredentialmanager
 windowscredentials
@@ -10593,6 +10595,7 @@ windowspackagemanager
 windowsplugins
 windowspowershell
 windowspresentationfoundation
+windowsreleasehealth
 windowsrest
 windowssandbox
 windowssearchmanager
@@ -10616,6 +10619,7 @@ winget
 wingetbridge
 winrar
 winrm
+winrs
 winrt
 wins
 winsat
@@ -10667,6 +10671,7 @@ workload-automation
 workloadidentity
 workloads
 workpoint
+workrequests
 worksheet
 workshop
 workspace
@@ -10704,6 +10709,7 @@ writeaccess
 writelog
 writemanager
 writeprogress
+writer
 ws-federation
 wsapi
 wsb
@@ -10716,6 +10722,8 @@ wso2
 wsus
 wt
 wtsapi32
+wttr
+wttr.in
 wtx
 wu
 wug
