@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Saturday, 27 April 2024 02:02:40 UTC
+Updated: Saturday, 27 April 2024 09:52:01 UTC
 
 .bat
 .env
@@ -71,6 +71,7 @@ aadsts
 aam
 aas
 aatp
+abc
 abc_testing
 abe
 about
@@ -284,7 +285,6 @@ alerts
 alertsmanagement
 alfresco
 algorithm
-algorithms
 alias
 alias-hint
 alias-tips
@@ -815,6 +815,7 @@ bibtex
 bicep
 bicepnet
 big-ip
+big-iq
 bigcommerce
 bigeval
 bigfix
@@ -823,7 +824,6 @@ bikeshed
 billing
 billingbenefits
 bimi
-bin
 bin-obj
 binary
 binaryip
@@ -925,7 +925,6 @@ brickset
 brickstore
 bridge
 brightbooking
-brightness
 britannica
 britannicaknowledgesystems
 british-gas
@@ -936,7 +935,6 @@ broot
 brownserve-uk
 browser
 browserbox
-browserextension
 browserhistory
 browsing
 brs
@@ -1272,6 +1270,7 @@ cmdb
 cmdkey
 cmdlet
 cmdlets
+cmdstan
 cmgroupdiscovery
 cmhealth
 cmhealthcheck
@@ -1469,7 +1468,6 @@ continuous-integration
 continuousdelivery
 continuousdeployment
 continuousintegration
-contrast
 control
 controller
 controlroom
@@ -1558,7 +1556,6 @@ crc32
 create
 createcolumn
 createdatabase
-createfile
 createprocessasuser
 createschema
 createtable
@@ -1791,8 +1788,6 @@ dcim
 dcim_b324
 dcom
 dcr
-ddc
-ddc/ci
 ddns
 debian
 debug
@@ -1817,6 +1812,7 @@ deep-security
 deep-security-manager
 deepl
 deepvisibility
+def
 default
 defaultparameter
 defaultroutes
@@ -1878,6 +1874,7 @@ devcenter
 devdeer
 devdrive
 developer
+developer_command_prompt
 developercommandprompt
 developermode
 development
@@ -2084,6 +2081,7 @@ downloadyoutubevideo
 dozent
 dpa
 dpapi
+dpi
 dps
 dq
 dr
@@ -2476,7 +2474,6 @@ extendscript
 extensibility
 extension
 extensionmethods
-extensionrisk
 extensions
 external
 externalip
@@ -2615,7 +2612,6 @@ finddownloadlinkfromwebsite
 findfile
 findlocation
 findplace
-findproxyforurl
 fine-print
 fine-tuning
 finops
@@ -2816,6 +2812,8 @@ geoencode
 geoencoding
 geoip
 geolocation
+geosearching
+geotagging
 get
 get_random_password
 get-admodernreport
@@ -2869,7 +2867,7 @@ git
 git-client
 git-clone
 git-flow
-git-proxy
+git-lfs
 git-rename
 git-stat
 gitcmdline
@@ -3059,6 +3057,7 @@ hcx
 hdfs
 hdinsight
 hdinsightonaks
+hdr
 header
 headhunter
 health
@@ -3185,11 +3184,9 @@ hsdp
 hsl
 html
 http
-http_proxy
 httpclient
 httplistener
 https
-https_proxy
 httpserver
 huawei
 huawei-ibmc-cmdlets
@@ -3310,6 +3307,7 @@ imagga
 imagination
 imaging
 imap
+imb
 imei
 imi
 impala
@@ -3396,6 +3394,7 @@ integratedscriptingeditor
 integration
 integrationaccount
 integrationruntime
+integrationruntimedependency
 integrationservicescatalog
 integrity
 intel
@@ -3416,7 +3415,6 @@ internetexplorer
 intersight
 intersightcmdlets
 intigua
-intranet
 intrusion
 intuitive
 intune
@@ -3440,6 +3438,8 @@ invoke-dtdownloaddriverupdates
 invoke-dtdrivertool
 invoke-msbuild
 invoke-msbuildpreprocess
+invoke-vsbuild
+invoke-vsdevcommand
 invokebuild
 invokemethod
 io
@@ -3517,6 +3517,8 @@ itop
 itsm
 itstore
 ivanti
+ivb
+ivdc
 iwi
 j
 j81-blog
@@ -3642,7 +3644,6 @@ kinopoisk
 kintone
 klantcontroles
 kms
-knapsack
 knetps
 knob
 knowbe4
@@ -3886,7 +3887,6 @@ logoff
 logon
 logonright
 logonscript
-logontask
 logonto
 logonuser
 logparser
@@ -4043,7 +4043,6 @@ mbs
 mc
 mcafee
 mcas
-mccs
 mcd
 mchapv2
 mct
@@ -4453,8 +4452,9 @@ new
 new-completionresult
 new-dtcmpackagefromdriverpackpackagedefinitionsms
 new-dtcmtasksequencefromdriverpackpackagedefinitionsms
+new-dynamicdictionary
+new-dynamicparameter
 new-githubrelease
-new-item
 new-itemproperty
 new-pinneditem
 new-rdpsession
@@ -4504,7 +4504,6 @@ non-volatile
 none
 noneimages
 noninteractive
-noproxy
 nord
 nordtools
 normal
@@ -4529,7 +4528,6 @@ notify-send-wsl
 nova
 npgsql
 npm
-npm-proxy
 npm-upgrade
 nprinting
 nprintingapi
@@ -4603,7 +4601,6 @@ octopusdeploy
 octopusenergy
 ocvp
 od4b
-oda
 odata
 odbc
 odfb
@@ -4794,7 +4791,6 @@ outsystems
 overbite
 ovf
 ovgd
-ovh
 owasp
 owls
 owner
@@ -4819,7 +4815,6 @@ packaging psmodule
 packard
 packer
 packet
-packing
 pacli
 page
 pageant
@@ -4827,7 +4822,6 @@ pager
 pagerduty
 pages
 pagination
-paloalto
 paloaltonetworks
 pam
 panels
@@ -4869,7 +4863,6 @@ password
 password_generation
 password-generator
 password-less
-password-manager
 passwordexpiration
 passwordexpiry
 passwordgeneration
@@ -5011,6 +5004,7 @@ player
 playlists
 playwright
 pleasant
+pleasantpasswordserver
 plex
 plist
 plog
@@ -5091,7 +5085,6 @@ poshy-colors
 poshy-coreutils-ish
 poshy-dir-nav
 poshy-ecks
-poshy-env-proxy
 poshy-env-var
 poshy-ls-isms
 poshy-lucidity
@@ -5115,6 +5108,7 @@ poshy-wrap-gem
 poshy-wrap-gh
 poshy-wrap-git
 poshy-wrap-git-flow
+poshy-wrap-git-lfs
 poshy-wrap-golang
 poshy-wrap-helm
 poshy-wrap-kubectl
@@ -5179,20 +5173,17 @@ powershell
 powershell-class
 powershell-cmdlets
 powershell-core
-powershell-core-releases-api
 powershell-course
 powershell-credentials
 powershell-dsc
 powershell-examples
 powershell-gallery
-powershell-github-repo
 powershell-gitlab
 powershell-graphql
 powershell-isprime
 powershell-lightning
 powershell-module
 powershell-modules
-powershell-releases-api
 powershell-remoting
 powershell-terminal
 powershell-terminal-copilot
@@ -5404,6 +5395,7 @@ pscommand_acsp
 pscommand_add_ssh
 pscommand_add-envpathitem
 pscommand_add-envvarpathitem
+pscommand_add-gitlfstrackedfiles
 pscommand_add-gitremote
 pscommand_add-gitskipworktreeflag
 pscommand_add-gitsubmodule
@@ -5506,7 +5498,6 @@ pscommand_dils
 pscommand_dipu
 pscommand_dirm
 pscommand_dirname
-pscommand_disable-proxy
 pscommand_dit
 pscommand_dk
 pscommand_dkbash
@@ -5636,7 +5627,6 @@ pscommand_dxc
 pscommand_dxcit
 pscommand_e64
 pscommand_ef64
-pscommand_enable-proxy
 pscommand_encode64
 pscommand_encodefile64
 pscommand_export-gitrepositoryzip
@@ -5828,6 +5818,7 @@ pscommand_get-gitdiffstash
 pscommand_get-gitdiffstashhead
 pscommand_get-gitdiffstashparent
 pscommand_get-gitignoredfiles
+pscommand_get-gitlfstrackedfiles
 pscommand_get-gitlogbranchcommitsunpushed
 pscommand_get-gitlogcommitspulledlast
 pscommand_get-gitloggraph
@@ -5924,16 +5915,14 @@ pscommand_git_show_stash_file
 pscommand_git_stats
 pscommand_git_status_short_with_loglines
 pscommand_git-changelog
-pscommand_git-disable-proxy
-pscommand_git-enable-proxy
-pscommand_git-global-disable-proxy
-pscommand_git-global-enable-proxy
-pscommand_git-global-show-proxy
-pscommand_git-show-proxy
 pscommand_gitignore-reload
 pscommand_gittowork
 pscommand_gl
 pscommand_glf
+pscommand_glfsi
+pscommand_glfsls
+pscommand_glfsmi
+pscommand_glfst
 pscommand_glg
 pscommand_glgo
 pscommand_glgs
@@ -5982,6 +5971,7 @@ pscommand_gpatch
 pscommand_gpdo
 pscommand_gpf
 pscommand_gpl
+pscommand_gplfs
 pscommand_gplr
 pscommand_gplrs
 pscommand_gpo
@@ -6184,6 +6174,8 @@ pscommand_invoke-githubapi-bodyfields
 pscommand_invoke-githubapi-bodyfile
 pscommand_invoke-githubapi-bodyjson
 pscommand_invoke-githubapi-bodyraw
+pscommand_invoke-gitlfsinstall
+pscommand_invoke-gitlfsmigrateimport
 pscommand_invoke-gitmerge
 pscommand_invoke-gitpull
 pscommand_invoke-gitpush
@@ -6804,9 +6796,6 @@ pscommand_nmap_slow
 pscommand_nmap_traceroute
 pscommand_nmap_web_safe_osscan
 pscommand_notify-send-fallback
-pscommand_npm-disable-proxy
-pscommand_npm-enable-proxy
-pscommand_npm-show-proxy
 pscommand_npmd
 pscommand_npme
 pscommand_npmf
@@ -6852,7 +6841,6 @@ pscommand_pl
 pscommand_po
 pscommand_pop-gitstashentry
 pscommand_ppy
-pscommand_proxy-help
 pscommand_prun
 pscommand_psh
 pscommand_psy
@@ -6871,7 +6859,6 @@ pscommand_push-gitstashentrywithmessage
 pscommand_pushgr
 pscommand_pvenv
 pscommand_pwh
-pscommand_pwshrc-show-proxy
 pscommand_py
 pscommand_pylint-quick
 pscommand_pyserver
@@ -6942,14 +6929,10 @@ pscommand_set-locationup4
 pscommand_set-locationup5
 pscommand_sgem
 pscommand_show-gitremote
-pscommand_show-proxy
 pscommand_shttp
 pscommand_shuf
 pscommand_sl
 pscommand_ssh-add-all
-pscommand_ssh-disable-proxy
-pscommand_ssh-enable-proxy
-pscommand_ssh-show-proxy
 pscommand_sshlist
 pscommand_start-gitbisect
 pscommand_start-gitcherrypick
@@ -7203,6 +7186,7 @@ psfunction_aar
 psfunction_add_ssh
 psfunction_add-envpathitem
 psfunction_add-envvarpathitem
+psfunction_add-gitlfstrackedfiles
 psfunction_add-gitremote
 psfunction_add-gitskipworktreeflag
 psfunction_add-gitsubmodule
@@ -7244,7 +7228,6 @@ psfunction_d
 psfunction_decode64
 psfunction_decodefile64
 psfunction_dirname
-psfunction_disable-proxy
 psfunction_docker-archive-content
 psfunction_docker-build
 psfunction_docker-compose-fresh
@@ -7310,7 +7293,6 @@ psfunction_dotnet-tool-update-all-global
 psfunction_dotnet-watch
 psfunction_dotnet-watch-run
 psfunction_dotnet-watch-test
-psfunction_enable-proxy
 psfunction_encode64
 psfunction_encodefile64
 psfunction_export-gitrepositoryzip
@@ -7410,6 +7392,7 @@ psfunction_get-gitdiffstash
 psfunction_get-gitdiffstashhead
 psfunction_get-gitdiffstashparent
 psfunction_get-gitignoredfiles
+psfunction_get-gitlfstrackedfiles
 psfunction_get-gitlogbranchcommitsunpushed
 psfunction_get-gitlogcommitspulledlast
 psfunction_get-gitloggraph
@@ -7466,14 +7449,9 @@ psfunction_git_show_stash_file
 psfunction_git_stats
 psfunction_git_status_short_with_loglines
 psfunction_git-changelog
-psfunction_git-disable-proxy
-psfunction_git-enable-proxy
-psfunction_git-global-disable-proxy
-psfunction_git-global-enable-proxy
-psfunction_git-global-show-proxy
-psfunction_git-show-proxy
 psfunction_gitignore-reload
 psfunction_gittowork
+psfunction_gplfs
 psfunction_hostname
 psfunction_invoke-aptcachepolicy
 psfunction_invoke-aptcachesearch
@@ -7587,6 +7565,8 @@ psfunction_invoke-githubapi-bodyfields
 psfunction_invoke-githubapi-bodyfile
 psfunction_invoke-githubapi-bodyjson
 psfunction_invoke-githubapi-bodyraw
+psfunction_invoke-gitlfsinstall
+psfunction_invoke-gitlfsmigrateimport
 psfunction_invoke-gitmerge
 psfunction_invoke-gitpull
 psfunction_invoke-gitpush
@@ -8061,9 +8041,6 @@ psfunction_nmap_slow
 psfunction_nmap_traceroute
 psfunction_nmap_web_safe_osscan
 psfunction_notify-send-fallback
-psfunction_npm-disable-proxy
-psfunction_npm-enable-proxy
-psfunction_npm-show-proxy
 psfunction_open_command
 psfunction_peek
 psfunction_pipig
@@ -8074,7 +8051,6 @@ psfunction_pipreq
 psfunction_pipunall
 psfunction_pipupall
 psfunction_pop-gitstashentry
-psfunction_proxy-help
 psfunction_publish-gitcommitsforcefullywithlease
 psfunction_publish-gitcommitssettingupstream
 psfunction_publish-gitcommitssettingupstreamtoorigin
@@ -8085,7 +8061,6 @@ psfunction_publish-gitcommitswithtags
 psfunction_publish-gitrepositorytosvn
 psfunction_push-gitstashentry
 psfunction_push-gitstashentrywithmessage
-psfunction_pwshrc-show-proxy
 psfunction_pyserver
 psfunction_read-dotenv
 psfunction_register-argcompleteargumentcompleter
@@ -8147,13 +8122,9 @@ psfunction_set-locationup3
 psfunction_set-locationup4
 psfunction_set-locationup5
 psfunction_show-gitremote
-psfunction_show-proxy
 psfunction_shttp
 psfunction_shuf
 psfunction_ssh-add-all
-psfunction_ssh-disable-proxy
-psfunction_ssh-enable-proxy
-psfunction_ssh-show-proxy
 psfunction_sshlist
 psfunction_start-gitbisect
 psfunction_start-gitcherrypick
@@ -8257,7 +8228,6 @@ psmssql
 psmssqlbynarymodule
 psmssqlmodule
 psmvp
-psnavigation
 psnexosisclient
 psngenposh
 psobject
@@ -8289,9 +8259,6 @@ pssendgrid
 pssession
 pssharper
 psslack
-pssqlite
-pssqlitebynarymodule
-pssqlitemodule
 pssqlserver
 pssqlserverbynarymodule
 pssqlservermodule
@@ -8652,7 +8619,6 @@ resource_watcher
 resourcecontroller
 resourcegraph
 resourcegroup
-resourcegroups
 resourceid
 resourcekit
 resourcemanager
@@ -8729,7 +8695,6 @@ rocketcyber
 roco
 rocolatey
 role
-roleassignments
 rolebasedaccesscontrol_model
 roles
 rollingfile
@@ -8785,6 +8750,8 @@ runner
 runspace
 runspacepool
 runspaces
+runtimedefinedparameter
+runtimedefinedparameterdictionary
 runway
 russia
 rust
@@ -8822,7 +8789,6 @@ sample
 sampler
 samurai
 san
-sand
 sandbox
 sanitization
 sanitizer
@@ -8848,6 +8814,7 @@ scaffoldingtemplate
 scala
 scalable
 scalablevectorgraphics
+scale
 scan
 scanner
 scap
@@ -9198,7 +9165,6 @@ sitecoresearch
 sitemaintenance
 sitemap
 siterecovery
-sites
 sitesystemserver
 sitethumbprint
 size
@@ -9276,7 +9242,6 @@ snowflake
 snsmssqlpsmodule
 snspsadgroupmembers
 snspsscriptsmonitoring
-snssqlitepsmodule
 sntp
 soap
 soc
@@ -9315,7 +9280,6 @@ soonr
 soonragent
 sophos
 sort
-sort-json
 sorting
 source
 source-dedicated-server
@@ -9404,9 +9368,6 @@ sqldiagapi
 sqlexport
 sqlgateway
 sqlite
-sqlitebynarymodule
-sqlitebynarypsmodule
-sqlitemodule
 sqllocaldb
 sqlpackage
 sqlplus
@@ -9461,17 +9422,19 @@ stackoverflow
 staffhub
 staging
 stale
+stan
+stanc
 standard
 standarderror
 standardoutput
 standards
+stansummary
 start
 start-job
 start-jobthread
 start-threadjob
 startkey
 startmen
-startmenu
 starttls
 starwars
 stash
@@ -9510,7 +9473,6 @@ stocks
 stoicism
 stoics
 stolpe.io
-stop
 storablecolortheme
 storage
 storageaccount
@@ -9589,6 +9551,7 @@ supermarket
 support
 support-tool
 support-tools
+suppress
 supress-reboot
 surestacks
 surround
@@ -9712,6 +9675,7 @@ taskmanagement
 tasks
 taskscheduler
 taxjar
+taxonomy
 tcp
 tcp/ip
 tcpip
@@ -9765,9 +9729,8 @@ terminal-services
 terminal.gui
 terminalnotifier
 terminalvelocity
+termset
 terraform
-terraform-docs
-terraform-switcher
 terraformcloud
 terrafun
 terragrunt
@@ -9818,7 +9781,6 @@ tflint
 tfs
 tfscmdlets
 tfsec
-tfswitch
 tftd
 tftp
 tfvars
@@ -9833,6 +9795,7 @@ third-party-libraries
 third-party-notice
 thispc
 thoughtfortheday
+thousandeyes
 thread
 threading
 threadjob
@@ -9897,6 +9860,8 @@ topgrade
 topics
 topology
 tor
+toradex
+torizon
 torrent
 torrents
 toshiba
@@ -10537,7 +10502,6 @@ wif
 wifi
 wiki
 wildcard
-wildfire
 wildfly
 wim
 wim2vhd
