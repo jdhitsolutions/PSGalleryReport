@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Saturday, 27 April 2024 09:52:01 UTC
+Updated: Saturday, 27 April 2024 17:51:49 UTC
 
 .bat
 .env
@@ -172,7 +172,6 @@ addomainservices
 addon
 address
 address-book
-addresses
 addressrange
 adds
 addtypeaccelerators
@@ -285,13 +284,12 @@ alerts
 alertsmanagement
 alfresco
 algorithm
+algorithms
 alias
 alias-hint
 alias-tips
 aliases
 aliens
-alkane
-alkanepsf
 all
 alletra
 alloydb
@@ -341,7 +339,6 @@ anglesharp
 angular
 animals
 animate-svg
-animation
 animations
 annotated
 announcement
@@ -824,6 +821,7 @@ bikeshed
 billing
 billingbenefits
 bimi
+bin
 bin-obj
 binary
 binaryip
@@ -925,6 +923,7 @@ brickset
 brickstore
 bridge
 brightbooking
+brightness
 britannica
 britannicaknowledgesystems
 british-gas
@@ -935,6 +934,7 @@ broot
 brownserve-uk
 browser
 browserbox
+browserextension
 browserhistory
 browsing
 brs
@@ -1153,7 +1153,6 @@ cil
 cim
 cim_computersystem
 cimfs
-cimi
 ciminstance
 cims
 cimsession
@@ -1468,6 +1467,7 @@ continuous-integration
 continuousdelivery
 continuousdeployment
 continuousintegration
+contrast
 control
 controller
 controlroom
@@ -1556,6 +1556,7 @@ crc32
 create
 createcolumn
 createdatabase
+createfile
 createprocessasuser
 createschema
 createtable
@@ -1788,6 +1789,8 @@ dcim
 dcim_b324
 dcom
 dcr
+ddc
+ddc/ci
 ddns
 debian
 debug
@@ -1874,7 +1877,6 @@ devcenter
 devdeer
 devdrive
 developer
-developer_command_prompt
 developercommandprompt
 developermode
 development
@@ -2056,6 +2058,7 @@ domainnamesystem
 domains
 domino
 done.land
+donothing
 dos
 dot
 dotenv
@@ -2474,6 +2477,7 @@ extendscript
 extensibility
 extension
 extensionmethods
+extensionrisk
 extensions
 external
 externalip
@@ -2612,6 +2616,7 @@ finddownloadlinkfromwebsite
 findfile
 findlocation
 findplace
+findproxyforurl
 fine-print
 fine-tuning
 finops
@@ -2866,8 +2871,8 @@ gist
 git
 git-client
 git-clone
-git-flow
 git-lfs
+git-proxy
 git-rename
 git-stat
 gitcmdline
@@ -3184,9 +3189,11 @@ hsdp
 hsl
 html
 http
+http_proxy
 httpclient
 httplistener
 https
+https_proxy
 httpserver
 huawei
 huawei-ibmc-cmdlets
@@ -3307,7 +3314,6 @@ imagga
 imagination
 imaging
 imap
-imb
 imei
 imi
 impala
@@ -3414,7 +3420,10 @@ internetconnection
 internetexplorer
 intersight
 intersightcmdlets
+interval
+interval-timer
 intigua
+intranet
 intrusion
 intuitive
 intune
@@ -3438,8 +3447,6 @@ invoke-dtdownloaddriverupdates
 invoke-dtdrivertool
 invoke-msbuild
 invoke-msbuildpreprocess
-invoke-vsbuild
-invoke-vsdevcommand
 invokebuild
 invokemethod
 io
@@ -3517,8 +3524,6 @@ itop
 itsm
 itstore
 ivanti
-ivb
-ivdc
 iwi
 j
 j81-blog
@@ -3644,6 +3649,7 @@ kinopoisk
 kintone
 klantcontroles
 kms
+knapsack
 knetps
 knob
 knowbe4
@@ -3757,8 +3763,6 @@ library
 libvirt
 licence
 license
-license-generator
-licenseautomation
 licensemanagement
 licensemanager
 licensereport
@@ -3887,6 +3891,7 @@ logoff
 logon
 logonright
 logonscript
+logontask
 logonto
 logonuser
 logparser
@@ -4043,6 +4048,7 @@ mbs
 mc
 mcafee
 mcas
+mccs
 mcd
 mchapv2
 mct
@@ -4452,9 +4458,8 @@ new
 new-completionresult
 new-dtcmpackagefromdriverpackpackagedefinitionsms
 new-dtcmtasksequencefromdriverpackpackagedefinitionsms
-new-dynamicdictionary
-new-dynamicparameter
 new-githubrelease
+new-item
 new-itemproperty
 new-pinneditem
 new-rdpsession
@@ -4504,6 +4509,7 @@ non-volatile
 none
 noneimages
 noninteractive
+noproxy
 nord
 nordtools
 normal
@@ -4528,6 +4534,7 @@ notify-send-wsl
 nova
 npgsql
 npm
+npm-proxy
 npm-upgrade
 nprinting
 nprintingapi
@@ -4791,6 +4798,7 @@ outsystems
 overbite
 ovf
 ovgd
+ovh
 owasp
 owls
 owner
@@ -4815,6 +4823,7 @@ packaging psmodule
 packard
 packer
 packet
+packing
 pacli
 page
 pageant
@@ -4822,6 +4831,7 @@ pager
 pagerduty
 pages
 pagination
+paloalto
 paloaltonetworks
 pam
 panels
@@ -4863,6 +4873,7 @@ password
 password_generation
 password-generator
 password-less
+password-manager
 passwordexpiration
 passwordexpiry
 passwordgeneration
@@ -5039,6 +5050,7 @@ policystate
 poll
 polly
 polycom
+pomodoro
 ponduit
 pool
 poop
@@ -5085,6 +5097,7 @@ poshy-colors
 poshy-coreutils-ish
 poshy-dir-nav
 poshy-ecks
+poshy-env-proxy
 poshy-env-var
 poshy-ls-isms
 poshy-lucidity
@@ -5107,7 +5120,6 @@ poshy-wrap-forgit
 poshy-wrap-gem
 poshy-wrap-gh
 poshy-wrap-git
-poshy-wrap-git-flow
 poshy-wrap-git-lfs
 poshy-wrap-golang
 poshy-wrap-helm
@@ -5118,6 +5130,7 @@ poshy-wrap-nmap
 poshy-wrap-npm
 poshy-wrap-pip
 poshy-wrap-pipenv
+poshy-wrap-pyenv
 poshy-wrap-pylint
 poshy-wrap-python
 poshy-wrap-ruby
@@ -5125,7 +5138,6 @@ poshy-wrap-systemctl
 poshy-wrap-terraform
 poshy-wrap-terragrunt
 poshy-wrap-tmux
-poshy-wrap-vagrant
 poshy-wrap-vault
 poshy-wrap-vscode
 poshy-wrap-wget
@@ -5173,17 +5185,20 @@ powershell
 powershell-class
 powershell-cmdlets
 powershell-core
+powershell-core-releases-api
 powershell-course
 powershell-credentials
 powershell-dsc
 powershell-examples
 powershell-gallery
+powershell-github-repo
 powershell-gitlab
 powershell-graphql
 powershell-isprime
 powershell-lightning
 powershell-module
 powershell-modules
+powershell-releases-api
 powershell-remoting
 powershell-terminal
 powershell-terminal-copilot
@@ -5204,7 +5219,6 @@ powershellgetformatversion_2.0
 powershellise
 powershelllogger
 powershellmodule
-powershellmoduleupdate
 powershellpr0mpt
 powershellscript
 powershelltemplate
@@ -5237,7 +5251,6 @@ prefixing
 preparead
 preparealldomains
 prepareschema
-prepend
 preprocessing
 preprocessor
 presentation
@@ -5351,7 +5364,6 @@ ps1
 ps12exe
 ps1xml
 ps1xmlgen
-ps2dll
 ps2exe
 ps3
 ps4
@@ -5498,6 +5510,7 @@ pscommand_dils
 pscommand_dipu
 pscommand_dirm
 pscommand_dirname
+pscommand_disable-proxy
 pscommand_dit
 pscommand_dk
 pscommand_dkbash
@@ -5627,6 +5640,7 @@ pscommand_dxc
 pscommand_dxcit
 pscommand_e64
 pscommand_ef64
+pscommand_enable-proxy
 pscommand_encode64
 pscommand_encodefile64
 pscommand_export-gitrepositoryzip
@@ -5732,12 +5746,10 @@ pscommand_gcamg
 pscommand_gcams
 pscommand_gcamu
 pscommand_gcb
-pscommand_gcd
 pscommand_gcem
 pscommand_gcf
 pscommand_gcfl
 pscommand_gcfls
-pscommand_gch
 pscommand_gci
 pscommand_gcl
 pscommand_gclcd
@@ -5760,7 +5772,6 @@ pscommand_gcp
 pscommand_gcpa
 pscommand_gcpc
 pscommand_gcpx
-pscommand_gcr
 pscommand_gcsam
 pscommand_gct
 pscommand_gd
@@ -5855,27 +5866,6 @@ pscommand_geun
 pscommand_gexport
 pscommand_gf
 pscommand_gfa
-pscommand_gfl
-pscommand_gflf
-pscommand_gflff
-pscommand_gflffc
-pscommand_gflfp
-pscommand_gflfpc
-pscommand_gflfpll
-pscommand_gflfs
-pscommand_gflh
-pscommand_gflhf
-pscommand_gflhfc
-pscommand_gflhp
-pscommand_gflhpc
-pscommand_gflhs
-pscommand_gfli
-pscommand_gflr
-pscommand_gflrf
-pscommand_gflrfc
-pscommand_gflrp
-pscommand_gflrpc
-pscommand_gflrs
 pscommand_gfo
 pscommand_gft
 pscommand_gftv
@@ -5915,6 +5905,12 @@ pscommand_git_show_stash_file
 pscommand_git_stats
 pscommand_git_status_short_with_loglines
 pscommand_git-changelog
+pscommand_git-disable-proxy
+pscommand_git-enable-proxy
+pscommand_git-global-disable-proxy
+pscommand_git-global-enable-proxy
+pscommand_git-global-show-proxy
+pscommand_git-show-proxy
 pscommand_gitignore-reload
 pscommand_gittowork
 pscommand_gl
@@ -6146,27 +6142,6 @@ pscommand_invoke-gitconfig
 pscommand_invoke-gitdifftool
 pscommand_invoke-gitfetch
 pscommand_invoke-gitfetchorigin
-pscommand_invoke-gitflow
-pscommand_invoke-gitflowfeature
-pscommand_invoke-gitflowfeaturefinish
-pscommand_invoke-gitflowfeaturefinishcurrent
-pscommand_invoke-gitflowfeaturepublish
-pscommand_invoke-gitflowfeaturepublishcurrent
-pscommand_invoke-gitflowfeaturepull
-pscommand_invoke-gitflowfeaturestart
-pscommand_invoke-gitflowhotfix
-pscommand_invoke-gitflowhotfixfinish
-pscommand_invoke-gitflowhotfixfinishcurrent
-pscommand_invoke-gitflowhotfixpublish
-pscommand_invoke-gitflowhotfixpublishcurrent
-pscommand_invoke-gitflowhotfixstart
-pscommand_invoke-gitflowinit
-pscommand_invoke-gitflowrelease
-pscommand_invoke-gitflowreleasefinish
-pscommand_invoke-gitflowreleasefinishcurrent
-pscommand_invoke-gitflowreleasepublish
-pscommand_invoke-gitflowreleasepublishcurrent
-pscommand_invoke-gitflowreleasestart
 pscommand_invoke-gitgui
 pscommand_invoke-githubapi
 pscommand_invoke-githubapi-bodyempty
@@ -6377,6 +6352,7 @@ pscommand_invoke-pipinstall
 pscommand_invoke-pipinstallupgrade
 pscommand_invoke-piplistoutdated
 pscommand_invoke-pipuninstall
+pscommand_invoke-pyenv
 pscommand_invoke-pylintreportsdisabled
 pscommand_invoke-ruby
 pscommand_invoke-rubyexecute
@@ -6514,22 +6490,6 @@ pscommand_invoke-tmuxkillserver
 pscommand_invoke-tmuxkillsessionforterminal
 pscommand_invoke-tmuxlistsessions
 pscommand_invoke-tmuxnewsessionfromsource
-pscommand_invoke-vagrantdestroy
-pscommand_invoke-vagranthalt
-pscommand_invoke-vagranthostmanager
-pscommand_invoke-vagranthostslist
-pscommand_invoke-vagrantlist
-pscommand_invoke-vagrantprovision
-pscommand_invoke-vagrantreload
-pscommand_invoke-vagrantresume
-pscommand_invoke-vagrantscp
-pscommand_invoke-vagrantsnapshotlist
-pscommand_invoke-vagrantsnapshottake
-pscommand_invoke-vagrantssh
-pscommand_invoke-vagrantstatus
-pscommand_invoke-vagrantsuspend
-pscommand_invoke-vagrantup
-pscommand_invoke-vagrantuplogged
 pscommand_invoke-vaultdelete
 pscommand_invoke-vaultlist
 pscommand_invoke-vaultloginviagithub
@@ -6796,6 +6756,9 @@ pscommand_nmap_slow
 pscommand_nmap_traceroute
 pscommand_nmap_web_safe_osscan
 pscommand_notify-send-fallback
+pscommand_npm-disable-proxy
+pscommand_npm-enable-proxy
+pscommand_npm-show-proxy
 pscommand_npmd
 pscommand_npme
 pscommand_npmf
@@ -6841,6 +6804,7 @@ pscommand_pl
 pscommand_po
 pscommand_pop-gitstashentry
 pscommand_ppy
+pscommand_proxy-help
 pscommand_prun
 pscommand_psh
 pscommand_psy
@@ -6859,7 +6823,9 @@ pscommand_push-gitstashentrywithmessage
 pscommand_pushgr
 pscommand_pvenv
 pscommand_pwh
+pscommand_pwshrc-show-proxy
 pscommand_py
+pscommand_pyenv
 pscommand_pylint-quick
 pscommand_pyserver
 pscommand_python
@@ -6929,10 +6895,14 @@ pscommand_set-locationup4
 pscommand_set-locationup5
 pscommand_sgem
 pscommand_show-gitremote
+pscommand_show-proxy
 pscommand_shttp
 pscommand_shuf
 pscommand_sl
 pscommand_ssh-add-all
+pscommand_ssh-disable-proxy
+pscommand_ssh-enable-proxy
+pscommand_ssh-show-proxy
 pscommand_sshlist
 pscommand_start-gitbisect
 pscommand_start-gitcherrypick
@@ -7015,9 +6985,6 @@ pscommand_use-gitbranchmain
 pscommand_use-gitbranchnew
 pscommand_use-gitbranchprevious
 pscommand_use-gitbranchtracked
-pscommand_use-gitflowbranchdevelop
-pscommand_use-gitflowbranchhotfix
-pscommand_use-gitflowbranchrelease
 pscommand_use-gitstashentry
 pscommand_uuid
 pscommand_uuidgen
@@ -7031,15 +6998,6 @@ pscommand_vas
 pscommand_vasrv
 pscommand_vav
 pscommand_vaw
-pscommand_vdstr
-pscommand_vh
-pscommand_vhl
-pscommand_vhst
-pscommand_vl
-pscommand_vp
-pscommand_vr
-pscommand_vrl
-pscommand_vs
 pscommand_vsc
 pscommand_vsca
 pscommand_vscd
@@ -7049,17 +7007,11 @@ pscommand_vscg
 pscommand_vscie
 pscommand_vscl
 pscommand_vscn
-pscommand_vscp
 pscommand_vscr
 pscommand_vscu
 pscommand_vscue
 pscommand_vscv
 pscommand_vscw
-pscommand_vsl
-pscommand_vssh
-pscommand_vst
-pscommand_vup
-pscommand_vupl
 pscommand_write-gitcommit
 pscommand_write-gitcommitall
 pscommand_write-gitcommitallasupdate
@@ -7175,7 +7127,6 @@ psexcel
 psexec
 psexec.exe
 psexpandline
-psf
 psfciv
 psfitbit
 psfive9
@@ -7228,6 +7179,7 @@ psfunction_d
 psfunction_decode64
 psfunction_decodefile64
 psfunction_dirname
+psfunction_disable-proxy
 psfunction_docker-archive-content
 psfunction_docker-build
 psfunction_docker-compose-fresh
@@ -7293,6 +7245,7 @@ psfunction_dotnet-tool-update-all-global
 psfunction_dotnet-watch
 psfunction_dotnet-watch-run
 psfunction_dotnet-watch-test
+psfunction_enable-proxy
 psfunction_encode64
 psfunction_encodefile64
 psfunction_export-gitrepositoryzip
@@ -7449,6 +7402,12 @@ psfunction_git_show_stash_file
 psfunction_git_stats
 psfunction_git_status_short_with_loglines
 psfunction_git-changelog
+psfunction_git-disable-proxy
+psfunction_git-enable-proxy
+psfunction_git-global-disable-proxy
+psfunction_git-global-enable-proxy
+psfunction_git-global-show-proxy
+psfunction_git-show-proxy
 psfunction_gitignore-reload
 psfunction_gittowork
 psfunction_gplfs
@@ -7537,27 +7496,6 @@ psfunction_invoke-gitconfig
 psfunction_invoke-gitdifftool
 psfunction_invoke-gitfetch
 psfunction_invoke-gitfetchorigin
-psfunction_invoke-gitflow
-psfunction_invoke-gitflowfeature
-psfunction_invoke-gitflowfeaturefinish
-psfunction_invoke-gitflowfeaturefinishcurrent
-psfunction_invoke-gitflowfeaturepublish
-psfunction_invoke-gitflowfeaturepublishcurrent
-psfunction_invoke-gitflowfeaturepull
-psfunction_invoke-gitflowfeaturestart
-psfunction_invoke-gitflowhotfix
-psfunction_invoke-gitflowhotfixfinish
-psfunction_invoke-gitflowhotfixfinishcurrent
-psfunction_invoke-gitflowhotfixpublish
-psfunction_invoke-gitflowhotfixpublishcurrent
-psfunction_invoke-gitflowhotfixstart
-psfunction_invoke-gitflowinit
-psfunction_invoke-gitflowrelease
-psfunction_invoke-gitflowreleasefinish
-psfunction_invoke-gitflowreleasefinishcurrent
-psfunction_invoke-gitflowreleasepublish
-psfunction_invoke-gitflowreleasepublishcurrent
-psfunction_invoke-gitflowreleasestart
 psfunction_invoke-gitgui
 psfunction_invoke-githubapi
 psfunction_invoke-githubapi-bodyempty
@@ -7768,6 +7706,7 @@ psfunction_invoke-pipinstall
 psfunction_invoke-pipinstallupgrade
 psfunction_invoke-piplistoutdated
 psfunction_invoke-pipuninstall
+psfunction_invoke-pyenv
 psfunction_invoke-pylintreportsdisabled
 psfunction_invoke-ruby
 psfunction_invoke-rubyexecute
@@ -7905,22 +7844,6 @@ psfunction_invoke-tmuxkillserver
 psfunction_invoke-tmuxkillsessionforterminal
 psfunction_invoke-tmuxlistsessions
 psfunction_invoke-tmuxnewsessionfromsource
-psfunction_invoke-vagrantdestroy
-psfunction_invoke-vagranthalt
-psfunction_invoke-vagranthostmanager
-psfunction_invoke-vagranthostslist
-psfunction_invoke-vagrantlist
-psfunction_invoke-vagrantprovision
-psfunction_invoke-vagrantreload
-psfunction_invoke-vagrantresume
-psfunction_invoke-vagrantscp
-psfunction_invoke-vagrantsnapshotlist
-psfunction_invoke-vagrantsnapshottake
-psfunction_invoke-vagrantssh
-psfunction_invoke-vagrantstatus
-psfunction_invoke-vagrantsuspend
-psfunction_invoke-vagrantup
-psfunction_invoke-vagrantuplogged
 psfunction_invoke-vaultdelete
 psfunction_invoke-vaultlist
 psfunction_invoke-vaultloginviagithub
@@ -8041,6 +7964,9 @@ psfunction_nmap_slow
 psfunction_nmap_traceroute
 psfunction_nmap_web_safe_osscan
 psfunction_notify-send-fallback
+psfunction_npm-disable-proxy
+psfunction_npm-enable-proxy
+psfunction_npm-show-proxy
 psfunction_open_command
 psfunction_peek
 psfunction_pipig
@@ -8051,6 +7977,7 @@ psfunction_pipreq
 psfunction_pipunall
 psfunction_pipupall
 psfunction_pop-gitstashentry
+psfunction_proxy-help
 psfunction_publish-gitcommitsforcefullywithlease
 psfunction_publish-gitcommitssettingupstream
 psfunction_publish-gitcommitssettingupstreamtoorigin
@@ -8061,6 +7988,7 @@ psfunction_publish-gitcommitswithtags
 psfunction_publish-gitrepositorytosvn
 psfunction_push-gitstashentry
 psfunction_push-gitstashentrywithmessage
+psfunction_pwshrc-show-proxy
 psfunction_pyserver
 psfunction_read-dotenv
 psfunction_register-argcompleteargumentcompleter
@@ -8122,9 +8050,13 @@ psfunction_set-locationup3
 psfunction_set-locationup4
 psfunction_set-locationup5
 psfunction_show-gitremote
+psfunction_show-proxy
 psfunction_shttp
 psfunction_shuf
 psfunction_ssh-add-all
+psfunction_ssh-disable-proxy
+psfunction_ssh-enable-proxy
+psfunction_ssh-show-proxy
 psfunction_sshlist
 psfunction_start-gitbisect
 psfunction_start-gitcherrypick
@@ -8175,9 +8107,6 @@ psfunction_use-gitbranchmain
 psfunction_use-gitbranchnew
 psfunction_use-gitbranchprevious
 psfunction_use-gitbranchtracked
-psfunction_use-gitflowbranchdevelop
-psfunction_use-gitflowbranchhotfix
-psfunction_use-gitflowbranchrelease
 psfunction_use-gitstashentry
 psfunction_write-gitcommit
 psfunction_write-gitcommitall
@@ -8228,6 +8157,7 @@ psmssql
 psmssqlbynarymodule
 psmssqlmodule
 psmvp
+psnavigation
 psnexosisclient
 psngenposh
 psobject
@@ -8259,6 +8189,9 @@ pssendgrid
 pssession
 pssharper
 psslack
+pssqlite
+pssqlitebynarymodule
+pssqlitemodule
 pssqlserver
 pssqlserverbynarymodule
 pssqlservermodule
@@ -8330,6 +8263,7 @@ pwshake
 pwshfw
 pwshrc
 pxedistributionpoint
+pyenv
 pygmentize
 pylint
 pyranja
@@ -8612,6 +8546,7 @@ resize
 resolution
 resolve
 resolve-stache
+resolve-template
 resolver
 resource
 resource_monitor
@@ -8619,6 +8554,7 @@ resource_watcher
 resourcecontroller
 resourcegraph
 resourcegroup
+resourcegroups
 resourceid
 resourcekit
 resourcemanager
@@ -8695,6 +8631,7 @@ rocketcyber
 roco
 rocolatey
 role
+roleassignments
 rolebasedaccesscontrol_model
 roles
 rollingfile
@@ -8750,8 +8687,6 @@ runner
 runspace
 runspacepool
 runspaces
-runtimedefinedparameter
-runtimedefinedparameterdictionary
 runway
 russia
 rust
@@ -8789,6 +8724,7 @@ sample
 sampler
 samurai
 san
+sand
 sandbox
 sanitization
 sanitizer
@@ -9066,7 +9002,6 @@ setting
 settings
 setup
 sevenzip
-sf
 sfb
 sftp
 sfx
@@ -9165,6 +9100,7 @@ sitecoresearch
 sitemaintenance
 sitemap
 siterecovery
+sites
 sitesystemserver
 sitethumbprint
 size
@@ -9242,6 +9178,7 @@ snowflake
 snsmssqlpsmodule
 snspsadgroupmembers
 snspsscriptsmonitoring
+snssqlitepsmodule
 sntp
 soap
 soc
@@ -9280,6 +9217,7 @@ soonr
 soonragent
 sophos
 sort
+sort-json
 sorting
 source
 source-dedicated-server
@@ -9368,6 +9306,9 @@ sqldiagapi
 sqlexport
 sqlgateway
 sqlite
+sqlitebynarymodule
+sqlitebynarypsmodule
+sqlitemodule
 sqllocaldb
 sqlpackage
 sqlplus
@@ -9435,6 +9376,7 @@ start-jobthread
 start-threadjob
 startkey
 startmen
+startmenu
 starttls
 starwars
 stash
@@ -9473,6 +9415,7 @@ stocks
 stoicism
 stoics
 stolpe.io
+stop
 storablecolortheme
 storage
 storageaccount
@@ -9551,7 +9494,6 @@ supermarket
 support
 support-tool
 support-tools
-suppress
 supress-reboot
 surestacks
 surround
@@ -9731,6 +9673,8 @@ terminalnotifier
 terminalvelocity
 termset
 terraform
+terraform-docs
+terraform-switcher
 terraformcloud
 terrafun
 terragrunt
@@ -9781,6 +9725,7 @@ tflint
 tfs
 tfscmdlets
 tfsec
+tfswitch
 tftd
 tftp
 tfvars
@@ -10483,7 +10428,6 @@ wget
 what3words
 whatismyip
 whatsnew
-whatsupgold
 whd
 where
 whfb
@@ -10502,6 +10446,7 @@ wif
 wifi
 wiki
 wildcard
+wildfire
 wildfly
 wim
 wim2vhd
@@ -10595,7 +10540,6 @@ winrar
 winrm
 winrs
 winrt
-wins
 winsat
 winscp
 wintellect
@@ -10700,7 +10644,6 @@ wttr
 wttr.in
 wtx
 wu
-wug
 wunderlist
 wus
 wvd
