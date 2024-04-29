@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 29 April 2024 09:51:53 UTC
+Updated: Monday, 29 April 2024 17:51:54 UTC
 
 .bat
 .env
@@ -202,7 +202,6 @@ administrativeuser
 administrator
 admintools
 adml
-admpwd
 admx
 ado
 ado_security
@@ -217,6 +216,7 @@ adr
 ads
 adsi
 adsite
+adsp
 adsync
 aduser
 aduseraccountlockout
@@ -239,8 +239,6 @@ afd
 affinity
 affinity-co
 affinity-crm
-after-effects
-aftereffects
 agenda
 agent
 aggregates
@@ -258,6 +256,8 @@ aim
 aip
 aipscanner
 aircall
+airpower
+airpwr
 airtable
 ais
 aispeech
@@ -422,7 +422,6 @@ appv
 appventix
 appveyor
 appvolumes
-appwrite
 appx
 appxmanifest
 aprs
@@ -590,6 +589,8 @@ autotask
 autotaskapi
 autotaskpsa
 autounattend
+autoupdate
+autoupdate-script
 autowrapper
 autoyast
 auvik
@@ -674,6 +675,7 @@ azureadtoolkit
 azureadvancedthreatprotection
 azureappconfiguration
 azureapplicationstuff
+azureartifacts
 azureas
 azureatp
 azureautomation
@@ -743,7 +745,6 @@ back
 backblaze
 backconnection
 backconnectionhostname
-backend
 backup
 backup_validation
 bamboo
@@ -818,6 +819,7 @@ bigquery
 bikeshed
 billing
 billingbenefits
+bimi
 bin
 bin-obj
 binary
@@ -834,7 +836,9 @@ bios_settings
 bios-settings
 bit
 bitbucket
+bitbucket-api
 bitbucket-server
+bitbucketautomation
 bitbucketpipelines
 bitcoin
 bitlocker
@@ -1405,7 +1409,6 @@ configurationdata
 configurationkey
 configurationmanagement
 configurationmanager
-configurationprofile
 configurations
 configure
 confluence
@@ -1805,6 +1808,7 @@ decompiler
 decrypt
 decryption
 dedicatedhsm
+deduplication
 deep
 deep-security
 deep-security-manager
@@ -2049,6 +2053,7 @@ dok
 dokuwiki
 domain
 domaincontroller
+domainkey
 domainname
 domainnamesystem
 domains
@@ -2138,6 +2143,7 @@ dtc
 dts
 dtsx
 dtx
+du
 dual-stack
 duck
 duckduckgo
@@ -2154,6 +2160,7 @@ dupes
 duplicate
 duplicate-files
 duplicatioin
+duplication
 durable
 durabletask
 dust
@@ -2197,6 +2204,7 @@ ebur128
 ec2
 ecommerce
 ecovadis
+ed25519
 edgaronline
 edge
 edgebackup
@@ -2428,7 +2436,6 @@ execute
 exexml
 exif
 exiftool
-exists
 exitcode
 exitprocessrequest
 exo
@@ -2466,7 +2473,6 @@ extendedattributes
 extendedevents
 extendedproperties
 extendedproperty
-extendscript
 extensibility
 extension
 extensionmethods
@@ -2513,7 +2519,6 @@ favorites
 fb-pro
 fciv
 fd
-feather
 feature
 features
 featuresondemand
@@ -2548,6 +2553,7 @@ file-monitoring
 file-name
 file-name-extension
 file-name-extension-association
+file-server
 file-share
 file-system
 file-transform
@@ -2570,6 +2576,7 @@ files-cli.exe
 files.com
 filesecurity
 fileserver
+fileserverresourcemanager
 fileshare
 filesharing
 filestorage
@@ -2609,6 +2616,7 @@ findlocation
 findplace
 findproxyforurl
 fine-print
+fine-tuning
 finops
 firebird
 firefox
@@ -2715,11 +2723,13 @@ front
 frontapp
 frontdoor
 frontrange
+fs
 fsc-ps
 fscps
 fsf
 fsharp
 fslogix
+fsrm
 ftp
 ftps
 fu-msauth
@@ -2860,6 +2870,7 @@ git
 git-client
 git-clone
 git-flow
+git-lfs
 git-proxy
 git-rename
 git-stat
@@ -2912,6 +2923,7 @@ googlecloudplatform
 googledrive
 googlemap
 googlemaps
+googleworkspace
 gopher
 gopher-tls
 gopher+
@@ -3089,6 +3101,7 @@ hewlett-packard
 hewlett-packardenterprise
 hex
 hexdump
+hg
 hibernate
 hibernation
 hibp
@@ -3114,7 +3127,6 @@ historyninja
 hitrust
 hive
 hivehome
-hjson
 hkcu
 hkey_classes_root
 hkey_current_config
@@ -3327,6 +3339,7 @@ indexdb
 indicator
 inedo
 inetfwrule
+inetum
 infinity
 influx
 influxdb
@@ -3566,7 +3579,6 @@ json+
 json2ps
 jsonplus
 jsonwebencryption
-jsonwebkey
 jsonwebsignature
 jsonwebtoken
 jsp
@@ -3583,7 +3595,6 @@ jupytor
 justenoughadministration
 jvm
 jwe
-jwk
 jws
 jwt
 jwttoken
@@ -3661,7 +3672,6 @@ kubectx
 kubens
 kubernetes
 kubernetesconfiguration
-kubespray
 kudu
 kurukuru
 kusto
@@ -3705,6 +3715,7 @@ last.fm
 lastfm
 lastlogon
 lastpass
+latency
 latestupdate
 latin
 latitude
@@ -4088,6 +4099,7 @@ menu
 menus
 meraki
 merakiapi
+mercurial
 merge
 mermaid
 message
@@ -4203,11 +4215,13 @@ mobilitycontroller
 mock
 mocking
 model
+modeling
 modify
 module
 module-maintenance
 modulebuild
 modulecreation
+modulefast
 modulemanagement
 modules
 moduleupdate
@@ -4232,6 +4246,7 @@ monitoring_objects
 monitoring_variables
 monitoringplugins
 monitoringsolutions
+monitors
 monthlyupdate
 moodle
 moonshot
@@ -4310,6 +4325,7 @@ mstsc
 msu
 msvc
 msword
+mta-sts
 mule
 mulesoft
 multi-factor
@@ -4342,6 +4358,7 @@ mvp
 mx
 mxlookup
 mycloudrevolution
+myget
 myhub
 myip
 myitprocess
@@ -4781,7 +4798,6 @@ outline
 outlook
 output
 output-to-image
-outreach
 outsystems
 overbite
 ovf
@@ -4800,6 +4816,7 @@ pac
 pack
 package
 package-management
+package-manager
 package-transform
 packagemanagement
 packagemanager
@@ -4852,7 +4869,6 @@ pass-the-hash
 pass-the-ticket
 passcode
 passivetotal
-passkey
 passphrase
 passphraser passphrase password generator entropy
 passwd
@@ -4915,6 +4931,7 @@ pem
 pemfile
 pendingreboot
 penetration
+penetrationtesting
 pentesting
 pentia
 people
@@ -5107,6 +5124,7 @@ poshy-wrap-gem
 poshy-wrap-gh
 poshy-wrap-git
 poshy-wrap-git-flow
+poshy-wrap-git-lfs
 poshy-wrap-golang
 poshy-wrap-helm
 poshy-wrap-kubectl
@@ -5136,6 +5154,7 @@ post
 postgre
 postgres
 postgresql
+potato
 pow
 powdrgit
 power
@@ -5396,6 +5415,7 @@ pscommand_acsp
 pscommand_add_ssh
 pscommand_add-envpathitem
 pscommand_add-envvarpathitem
+pscommand_add-gitlfstrackedfiles
 pscommand_add-gitremote
 pscommand_add-gitskipworktreeflag
 pscommand_add-gitsubmodule
@@ -5820,6 +5840,7 @@ pscommand_get-gitdiffstash
 pscommand_get-gitdiffstashhead
 pscommand_get-gitdiffstashparent
 pscommand_get-gitignoredfiles
+pscommand_get-gitlfstrackedfiles
 pscommand_get-gitlogbranchcommitsunpushed
 pscommand_get-gitlogcommitspulledlast
 pscommand_get-gitloggraph
@@ -5926,6 +5947,10 @@ pscommand_gitignore-reload
 pscommand_gittowork
 pscommand_gl
 pscommand_glf
+pscommand_glfsi
+pscommand_glfsls
+pscommand_glfsmi
+pscommand_glfst
 pscommand_glg
 pscommand_glgo
 pscommand_glgs
@@ -5974,6 +5999,7 @@ pscommand_gpatch
 pscommand_gpdo
 pscommand_gpf
 pscommand_gpl
+pscommand_gplfs
 pscommand_gplr
 pscommand_gplrs
 pscommand_gpo
@@ -6176,6 +6202,8 @@ pscommand_invoke-githubapi-bodyfields
 pscommand_invoke-githubapi-bodyfile
 pscommand_invoke-githubapi-bodyjson
 pscommand_invoke-githubapi-bodyraw
+pscommand_invoke-gitlfsinstall
+pscommand_invoke-gitlfsmigrateimport
 pscommand_invoke-gitmerge
 pscommand_invoke-gitpull
 pscommand_invoke-gitpush
@@ -7143,6 +7171,7 @@ pscommand_zup
 pscommand_zvcmp
 pscommand_zve
 pscommand_zwp
+pscommander
 psconfasia
 psconfeu
 psconfig
@@ -7196,6 +7225,7 @@ psfunction_aar
 psfunction_add_ssh
 psfunction_add-envpathitem
 psfunction_add-envvarpathitem
+psfunction_add-gitlfstrackedfiles
 psfunction_add-gitremote
 psfunction_add-gitskipworktreeflag
 psfunction_add-gitsubmodule
@@ -7403,6 +7433,7 @@ psfunction_get-gitdiffstash
 psfunction_get-gitdiffstashhead
 psfunction_get-gitdiffstashparent
 psfunction_get-gitignoredfiles
+psfunction_get-gitlfstrackedfiles
 psfunction_get-gitlogbranchcommitsunpushed
 psfunction_get-gitlogcommitspulledlast
 psfunction_get-gitloggraph
@@ -7467,6 +7498,7 @@ psfunction_git-global-show-proxy
 psfunction_git-show-proxy
 psfunction_gitignore-reload
 psfunction_gittowork
+psfunction_gplfs
 psfunction_hostname
 psfunction_invoke-aptcachepolicy
 psfunction_invoke-aptcachesearch
@@ -7580,6 +7612,8 @@ psfunction_invoke-githubapi-bodyfields
 psfunction_invoke-githubapi-bodyfile
 psfunction_invoke-githubapi-bodyjson
 psfunction_invoke-githubapi-bodyraw
+psfunction_invoke-gitlfsinstall
+psfunction_invoke-gitlfsmigrateimport
 psfunction_invoke-gitmerge
 psfunction_invoke-gitpull
 psfunction_invoke-gitpush
@@ -8649,6 +8683,7 @@ resource_watcher
 resourcecontroller
 resourcegraph
 resourcegroup
+resourcegroups
 resourceid
 resourcekit
 resourcemanager
@@ -8725,6 +8760,7 @@ rocketcyber
 roco
 rocolatey
 role
+roleassignments
 rolebasedaccesscontrol_model
 roles
 rollingfile
@@ -8828,6 +8864,7 @@ sapazure
 saponazure
 sapstartstopazure
 sarcasm
+sarif
 sas
 sat
 satirical
@@ -9015,6 +9052,7 @@ send
 send-logtologanalytics
 send-mailmessage
 send-message
+senderid
 sendgrid
 sendkeys
 sendmail
@@ -9090,6 +9128,7 @@ set-psenv
 set-randompass
 set-type
 setbios
+sets
 setting
 settings
 setup
@@ -9132,6 +9171,7 @@ shares
 sheets
 shell
 shell-art
+shells
 shieldedvm
 ships
 shipsprovider
@@ -9176,7 +9216,9 @@ simplepasswordgenerator
 simplivity
 simplysql
 sin
+single
 singlestore
+singleton
 sinks
 sintez
 sintez.module.rds
@@ -9467,6 +9509,7 @@ start-threadjob
 startkey
 startmen
 startmenu
+starttls
 starwars
 stash
 stat
@@ -9552,6 +9595,7 @@ sublimetext
 submission
 subnet
 subnet-calculator
+subnetcalulator
 subnetdetails
 subnetmapping
 subnetmask
@@ -9752,6 +9796,7 @@ tenable
 tenable.sc
 tenant
 tenantmanagercontrolplane
+teradata
 termbin
 terminal
 terminal-interface
@@ -9763,9 +9808,9 @@ termset
 terraform
 terraform-docs
 terraform-switcher
+terraformcloud
 terrafun
 terragrunt
-tesla
 test
 test-automation
 test-dscconfiguration
@@ -9780,6 +9825,7 @@ test-xml
 test123
 testaccount
 testautomation
+tester
 testimonial
 testing
 testlab
@@ -9840,6 +9886,7 @@ threatintelligence
 thumbprint
 thunderbird
 thycotic
+tibber
 tic-tac-toe
 tickle
 ticks
@@ -9861,7 +9908,9 @@ title
 tls
 tls11
 tls12
+tlsa
 tlsprotocol
+tlsrpt
 tmux
 to-do
 toast
@@ -9988,6 +10037,7 @@ tubedownloader
 tui
 tulpep
 tuner
+tuning
 tutorial
 tv
 tweet
