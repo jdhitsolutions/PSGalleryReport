@@ -1282,7 +1282,7 @@ __Downloads__: 25,777,380 | __Repository__: https://github.com/Azure/azure-power
 
 This module includes DSC resources that simplify administration of certificates on a Windows Server
 
-__Downloads__: 25,738,825 | __Repository__: https://github.com/PowerShell/xCertificate
+__Downloads__: 25,738,824 | __Repository__: https://github.com/PowerShell/xCertificate
 
 ## [AzureRM.ServiceBus](https://www.powershellgallery.com/Packages/AzureRM.ServiceBus/0.6.14) | 0.6.14
 
@@ -1438,7 +1438,7 @@ __Downloads__: 23,519,673 | __Repository__: https://github.com/Azure/azure-power
 This DSC resource can change the user preference for the Windows PowerShell execution policy. THIS MODULE HAS BEEN DEPRECATED
 It will no longer be released. Please use the "PowerShellExecutionPolicy" resource in ComputerManagementDsc instead.
 
-__Downloads__: 23,090,088 | __Repository__: https://github.com/PowerShell/xPowerShellExecutionPolicy
+__Downloads__: 23,090,089 | __Repository__: https://github.com/PowerShell/xPowerShellExecutionPolicy
 
 ## [IISAdministration](https://www.powershellgallery.com/Packages/IISAdministration/1.1.0.0) | 1.1.0.0
 
@@ -1869,7 +1869,7 @@ __Downloads__: 8,996,852 | __Repository__: https://github.com/aws/aws-tools-for-
 
 Module with DSC resources for deployment and configuration of Microsoft SQL Server.
 
-__Downloads__: 8,995,758 | __Repository__: https://github.com/dsccommunity/SqlServerDsc
+__Downloads__: 8,995,756 | __Repository__: https://github.com/dsccommunity/SqlServerDsc
 
 ## [VMware.VimAutomation.Security](https://www.powershellgallery.com/Packages/VMware.VimAutomation.Security/13.1.0.21606510) | 13.1.0.21606510
 
@@ -2011,7 +2011,7 @@ __Downloads__: 7,550,820 | __Repository__:
 
 Serialize/Deserialize Json using Newtonsoft.json
 
-__Downloads__: 7,452,654 | __Repository__: https://github.com/qbikez/ps-entropy/tree/master/src/newtonsoft.json
+__Downloads__: 7,452,651 | __Repository__: https://github.com/qbikez/ps-entropy/tree/master/src/newtonsoft.json
 
 ## [AWS.Tools.S3](https://www.powershellgallery.com/Packages/AWS.Tools.S3/4.1.568) | 4.1.568
 
@@ -2225,4 +2225,4 @@ Microsoft Graph PowerShell Cmdlets
 
 __Downloads__: 5,576,261 | __Repository__: https://github.com/microsoftgraph/msgraph-sdk-powershell
 
-*Updated: Tuesday, 30 April 2024 09:51:44 UTC*
+*Updated: Tuesday, 30 April 2024 17:51:42 UTC*
