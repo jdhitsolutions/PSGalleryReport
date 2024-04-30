@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Tuesday, 30 April 2024 02:02:40 UTC
+Updated: Tuesday, 30 April 2024 09:51:48 UTC
 
 .bat
 .env
@@ -422,7 +422,6 @@ appservice
 appservices
 appsetting
 appv
-appventix
 appveyor
 appvolumes
 appwrite
@@ -449,9 +448,6 @@ architecuture
 archive
 archivedteams
 archivematica
-archivial
-archivial-backup
-archivial-cloud-backup
 archlinux
 arcresourcebridge
 arcus
@@ -661,7 +657,6 @@ azure
 azure_ad
 azure_security
 azure-adx
-azure-backup
 azure-cli
 azure-data-explorer
 azure-devops
@@ -729,8 +724,6 @@ azuresecuritycenter
 azureservicebus
 azuresigntool
 azuresql
-azuresqlexport
-azuresqlimport
 azuressas
 azurestack
 azurestackhci
@@ -780,7 +773,6 @@ bat
 batcat
 batch
 batchclass
-batman
 battery
 bayern
 bazzo
@@ -915,6 +907,8 @@ brainy
 branch
 branch-rename
 brave
+brawlapi
+brawlstars
 brazencloud
 bre
 breach
@@ -1185,10 +1179,8 @@ classified
 clccontrol
 clccontrolapiv1
 clccontrolapiv2
-clean-up
 cleanmgr
 cleanup
-cleanup-orphans
 clear
 clear-history
 clearpass
@@ -1228,7 +1220,6 @@ clone
 close-openfile
 cloud
 cloud_data_management
-cloud-backup
 cloud-computing
 cloud-init
 cloud-iq
@@ -1489,6 +1480,9 @@ convert-sid
 convert-windowsimage
 converter
 convertfrom
+convertfrom-string
+convertfrom-stringtable
+convertfrom-table
 convertfrom-yaml
 convertto
 convertto-excel
@@ -1703,14 +1697,11 @@ dast
 data
 data_protection
 data_security
-data-archive
-data-backup
 data-tier
 data-uri
 data-uri-converter
 database
 database-migrations
-databaseautomation
 databasemanagement
 databasemigration
 databases
@@ -1833,7 +1824,6 @@ delegated
 delegation
 delegationmodel
 delete
-delete-orphan-branches
 deletefile
 deleteuserprofile
 delivery
@@ -2436,6 +2426,7 @@ execute
 exexml
 exif
 exiftool
+exists
 exitcode
 exitprocessrequest
 exo
@@ -2606,7 +2597,6 @@ financeandoperations
 financeoperations
 financial
 financialedge
-financials
 find
 find-call
 find-caller
@@ -2872,6 +2862,7 @@ git
 git-client
 git-clone
 git-flow
+git-lfs
 git-proxy
 git-rename
 git-stat
@@ -4677,7 +4668,6 @@ onesubscription
 onetimesecret
 oneviewglobaldashboard
 online
-online-backup
 onlinebackup
 onprem
 onpremisesdatagatewayhamgmt
@@ -5130,6 +5120,7 @@ poshy-wrap-gem
 poshy-wrap-gh
 poshy-wrap-git
 poshy-wrap-git-flow
+poshy-wrap-git-lfs
 poshy-wrap-golang
 poshy-wrap-helm
 poshy-wrap-kubectl
@@ -5218,7 +5209,6 @@ powershell.one
 powershell.persistentpathstack
 powershell7
 powershellai
-powershellazuresql
 powershellconferenceeurope
 powershellcore
 powershellcourse
@@ -5420,6 +5410,7 @@ pscommand_acsp
 pscommand_add_ssh
 pscommand_add-envpathitem
 pscommand_add-envvarpathitem
+pscommand_add-gitlfstrackedfiles
 pscommand_add-gitremote
 pscommand_add-gitskipworktreeflag
 pscommand_add-gitsubmodule
@@ -5844,6 +5835,7 @@ pscommand_get-gitdiffstash
 pscommand_get-gitdiffstashhead
 pscommand_get-gitdiffstashparent
 pscommand_get-gitignoredfiles
+pscommand_get-gitlfstrackedfiles
 pscommand_get-gitlogbranchcommitsunpushed
 pscommand_get-gitlogcommitspulledlast
 pscommand_get-gitloggraph
@@ -5950,6 +5942,10 @@ pscommand_gitignore-reload
 pscommand_gittowork
 pscommand_gl
 pscommand_glf
+pscommand_glfsi
+pscommand_glfsls
+pscommand_glfsmi
+pscommand_glfst
 pscommand_glg
 pscommand_glgo
 pscommand_glgs
@@ -5998,6 +5994,7 @@ pscommand_gpatch
 pscommand_gpdo
 pscommand_gpf
 pscommand_gpl
+pscommand_gplfs
 pscommand_gplr
 pscommand_gplrs
 pscommand_gpo
@@ -6200,6 +6197,8 @@ pscommand_invoke-githubapi-bodyfields
 pscommand_invoke-githubapi-bodyfile
 pscommand_invoke-githubapi-bodyjson
 pscommand_invoke-githubapi-bodyraw
+pscommand_invoke-gitlfsinstall
+pscommand_invoke-gitlfsmigrateimport
 pscommand_invoke-gitmerge
 pscommand_invoke-gitpull
 pscommand_invoke-gitpush
@@ -7176,7 +7175,6 @@ pscredential
 pscribo
 pscustomobject
 psd1
-psdb
 psdefaultparametervalues
 psdeploy
 psdesiredstateconfiguration
@@ -7221,6 +7219,7 @@ psfunction_aar
 psfunction_add_ssh
 psfunction_add-envpathitem
 psfunction_add-envvarpathitem
+psfunction_add-gitlfstrackedfiles
 psfunction_add-gitremote
 psfunction_add-gitskipworktreeflag
 psfunction_add-gitsubmodule
@@ -7428,6 +7427,7 @@ psfunction_get-gitdiffstash
 psfunction_get-gitdiffstashhead
 psfunction_get-gitdiffstashparent
 psfunction_get-gitignoredfiles
+psfunction_get-gitlfstrackedfiles
 psfunction_get-gitlogbranchcommitsunpushed
 psfunction_get-gitlogcommitspulledlast
 psfunction_get-gitloggraph
@@ -7492,6 +7492,7 @@ psfunction_git-global-show-proxy
 psfunction_git-show-proxy
 psfunction_gitignore-reload
 psfunction_gittowork
+psfunction_gplfs
 psfunction_hostname
 psfunction_invoke-aptcachepolicy
 psfunction_invoke-aptcachesearch
@@ -7605,6 +7606,8 @@ psfunction_invoke-githubapi-bodyfields
 psfunction_invoke-githubapi-bodyfile
 psfunction_invoke-githubapi-bodyjson
 psfunction_invoke-githubapi-bodyraw
+psfunction_invoke-gitlfsinstall
+psfunction_invoke-gitlfsmigrateimport
 psfunction_invoke-gitmerge
 psfunction_invoke-gitpull
 psfunction_invoke-gitpush
@@ -8296,6 +8299,7 @@ psraw
 psreadexif
 psreadline
 psremoting
+psrepository
 psresourceget
 psrule
 psrule-rules
@@ -9026,7 +9030,6 @@ selection
 selectxmlinfo
 selenium
 self
-self-hosted
 self-service
 self-signed
 selfdispatch
@@ -9413,7 +9416,6 @@ sql-database
 sql-script
 sql-server
 sqlagent
-sqlautomation
 sqlbits
 sqlbrowser
 sqlbulkcopy
@@ -9425,7 +9427,6 @@ sqldatabase
 sqldb
 sqldbatools
 sqldiagapi
-sqlexport
 sqlgateway
 sqlite
 sqlitebynarymodule
@@ -9565,6 +9566,7 @@ string-template
 stringmanager
 stringmanagertool
 strings
+stringtable
 stringutilities
 strip-ansi
 stripe
@@ -9609,6 +9611,7 @@ sullivan
 summary
 summit
 sumologic
+supercell
 superheros
 supermarket
 support
@@ -10849,7 +10852,6 @@ z
 zabbix
 zabbixps
 zap
-zap-zsh
 zcat
 zendesk
 zerotrust
