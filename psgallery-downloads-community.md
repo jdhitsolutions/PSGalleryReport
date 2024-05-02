@@ -520,7 +520,7 @@ __Downloads__: 3,104,798 | __Repository__:
 
 Get NTP Time from a specified NTP Server
 
-__Downloads__: 3,079,846 | __Repository__: https://github.com/ChrisWarwick/PowerShell-NTP-Time
+__Downloads__: 3,079,845 | __Repository__: https://github.com/ChrisWarwick/PowerShell-NTP-Time
 
 ## [DSInternals](https://www.powershellgallery.com/Packages/DSInternals/4.14) | 4.14
 
@@ -722,7 +722,7 @@ __Downloads__: 2,186,240 | __Repository__: https://github.com/jcwalker/AuditSyst
 
 Invoke-SqlCmd2
 
-__Downloads__: 2,181,004 | __Repository__: https://github.com/RamblingCookieMonster/Invoke-SqlCmd2/
+__Downloads__: 2,181,003 | __Repository__: https://github.com/RamblingCookieMonster/Invoke-SqlCmd2/
 
 ## [DeviceManagement](https://www.powershellgallery.com/Packages/DeviceManagement/1.3.0) | 1.3.0
 
@@ -746,7 +746,7 @@ __Downloads__: 2,098,939 | __Repository__:
 
 Provides a function to retrieve an authentication token for Intune Graph API calls.
 
-__Downloads__: 2,053,857 | __Repository__: https://github.com/MSEndpointMgr/Intune/tree/master/Modules/PSIntuneAuth
+__Downloads__: 2,053,856 | __Repository__: https://github.com/MSEndpointMgr/Intune/tree/master/Modules/PSIntuneAuth
 
 ## [AzOps](https://www.powershellgallery.com/Packages/AzOps/2.6.2) | 2.6.2
 
@@ -777,7 +777,7 @@ It aims to focus on exposing New, Update, Remove and Get operations for all key 
 It is unlikely that it will ever expose 100% of the NSX API, but feature requests are welcomed if you find a particular function you require to be lacking.
 PowerNSX is currently a work in progress and is not yet feature complete.
 
-__Downloads__: 1,975,067 | __Repository__: https://powernsx.github.io/
+__Downloads__: 1,975,065 | __Repository__: https://powernsx.github.io/
 
 ## [VSTeam](https://www.powershellgallery.com/Packages/VSTeam/7.15.2) | 7.15.2
 
@@ -841,7 +841,7 @@ __Downloads__: 1,818,596 | __Repository__: https://github.com/tomohulk/WinSCP
 
 Decode a JWT Access Token and convert to a PowerShell Object. JWT Access Token updated to include the JWT Signature (sig), JWT Token Expiry (expiryDateTime) and JWT Token time to expiry (timeToExpiry).
 
-__Downloads__: 1,798,483 | __Repository__: https://github.com/darrenjrobinson/JWTDetails
+__Downloads__: 1,798,482 | __Repository__: https://github.com/darrenjrobinson/JWTDetails
 
 ## [InvokeBuild](https://www.powershellgallery.com/Packages/InvokeBuild/5.11.1) | 5.11.1
 
@@ -849,7 +849,7 @@ __Downloads__: 1,798,483 | __Repository__: https://github.com/darrenjrobinson/JW
 
 Build and test automation in PowerShell
 
-__Downloads__: 1,769,514 | __Repository__: https://github.com/nightroman/Invoke-Build
+__Downloads__: 1,769,511 | __Repository__: https://github.com/nightroman/Invoke-Build
 
 ## [2atMonitoring](https://www.powershellgallery.com/Packages/2atMonitoring/1.1.4824) | 1.1.4824
 
@@ -1450,7 +1450,7 @@ __Downloads__: 601,649 | __Repository__: https://github.com/rmbolger/DnsClient-P
 
 Manage and query your ePO server and it's assets using PowerShell.
 
-__Downloads__: 578,846 | __Repository__: 
+__Downloads__: 578,847 | __Repository__: 
 
 ## [BuildHelpers](https://www.powershellgallery.com/Packages/BuildHelpers/2.0.16) | 2.0.16
 
@@ -1798,7 +1798,7 @@ __Downloads__: 332,627 | __Repository__: https://github.com/OctopusDeploy/Octopu
 
 PoshGram provides functionality to send various message types to a specified Telegram chat via the Telegram Bot API. Separate PowerShell functions are used for each message type. Checks are included to ensure that file extensions, and file size restrictions are adhered to based on Telegram requirements.
 
-__Downloads__: 329,338 | __Repository__: https://github.com/techthoughts2/PoshGram
+__Downloads__: 329,339 | __Repository__: https://github.com/techthoughts2/PoshGram
 
 ## [Subnet](https://www.powershellgallery.com/Packages/Subnet/1.0.14) | 1.0.14
 
@@ -2001,7 +2001,7 @@ __Downloads__: 284,366 | __Repository__: https://github.com/jakkulabs/PowervRA
 
 Version string manipulation
 
-__Downloads__: 284,157 | __Repository__: https://github.com/qbikez/csproj.git
+__Downloads__: 284,155 | __Repository__: https://github.com/qbikez/csproj.git
 
 ## [PsHosts](https://www.powershellgallery.com/Packages/PsHosts/1.2.2) | 1.2.2
 
@@ -2009,7 +2009,7 @@ __Downloads__: 284,157 | __Repository__: https://github.com/qbikez/csproj.git
 
 Provides Cmdlets for manipulating the local hosts file
 
-__Downloads__: 278,507 | __Repository__: https://github.com/richardszalay/pshosts
+__Downloads__: 278,499 | __Repository__: https://github.com/richardszalay/pshosts
 
 ## [d365fo.tools](https://www.powershellgallery.com/Packages/d365fo.tools/0.7.9) | 0.7.9
 
@@ -2097,7 +2097,7 @@ __Downloads__: 247,115 | __Repository__: https://github.com/johnstep/OneGet-Micr
 
 Support for querying SQL Server, SQlite and ODBC sources.
 
-__Downloads__: 241,234 | __Repository__: https://github.com/jhoneill/GetSQL
+__Downloads__: 241,233 | __Repository__: https://github.com/jhoneill/GetSQL
 
 ## [IniManager](https://www.powershellgallery.com/Packages/IniManager/0.2) | 0.2
 
@@ -2177,7 +2177,7 @@ __Downloads__: 221,050 | __Repository__: https://github.com/tyconsulting/OMSData
 
 OSDCloudCLI PowerShell Module
 
-__Downloads__: 219,589 | __Repository__: https://github.com/OSDeploy/OSDCloudCLI
+__Downloads__: 219,587 | __Repository__: https://github.com/OSDeploy/OSDCloudCLI
 
 ## [icinga-powershell-framework](https://www.powershellgallery.com/Packages/icinga-powershell-framework/1.8.0) | 1.8.0
 
@@ -2187,4 +2187,4 @@ Icinga for Windows module which allows to entirely monitor the Windows Host syst
 
 __Downloads__: 218,307 | __Repository__: https://github.com/Icinga/icinga-powershell-framework
 
-*Updated: Wednesday, 01 May 2024 17:51:35 UTC*
+*Updated: Thursday, 02 May 2024 02:03:01 UTC*
