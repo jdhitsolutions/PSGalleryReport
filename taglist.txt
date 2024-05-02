@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Thursday, 02 May 2024 09:52:01 UTC
+Updated: Thursday, 02 May 2024 17:51:49 UTC
 
 .bat
 .env
@@ -448,6 +448,7 @@ architecture
 architecuture
 archive
 archivedteams
+archivematica
 archivial
 archivial-backup
 archivial-cloud-backup
@@ -458,6 +459,7 @@ area
 arg
 argcomplete
 argument
+argumentcompleter
 arguments
 arm
 arm-json
@@ -469,6 +471,7 @@ arp
 array
 arrays
 art
+artefactual
 artifact
 artifactory
 artifacts
@@ -685,7 +688,6 @@ azurebasicloadbalancerupgrade
 azurecli
 azurecodesigning
 azurecognitiveservices
-azurecommonstuff
 azurecontainerapps
 azurecontainers
 azuredatabricks
@@ -725,6 +727,8 @@ azuresecuritycenter
 azureservicebus
 azuresigntool
 azuresql
+azuresqlexport
+azuresqlimport
 azuressas
 azurestack
 azurestackhci
@@ -866,6 +870,7 @@ blockchain
 blocks
 blog
 blogs
+bloodhound
 bloxone
 bloxoneddi
 bls
@@ -1180,8 +1185,10 @@ classified
 clccontrol
 clccontrolapiv1
 clccontrolapiv2
+clean-up
 cleanmgr
 cleanup
+cleanup-orphans
 clear
 clear-history
 clearpass
@@ -1698,7 +1705,6 @@ dashboardservice
 dast
 data
 data_protection
-data_security
 data-archive
 data-backup
 data-tier
@@ -1706,6 +1712,7 @@ data-uri
 data-uri-converter
 database
 database-migrations
+databaseautomation
 databasemanagement
 databasemigration
 databases
@@ -1828,6 +1835,7 @@ delegated
 delegation
 delegationmodel
 delete
+delete-orphan-branches
 deletefile
 deleteuserprofile
 delivery
@@ -1897,6 +1905,7 @@ dfs
 dfw
 dg
 dhcp
+di
 diagnostic
 diagnostics
 diagram
@@ -3235,6 +3244,7 @@ ib
 ibm
 ibmc
 ibmhttpserver
+icacl
 icinga
 icinga2
 icinga2mssql
@@ -3332,7 +3342,6 @@ incidentresponse
 incontact
 indents
 index
-indexdb
 indicator
 inedo
 inetfwrule
@@ -3788,6 +3797,7 @@ linearalgebra
 lingeringobjects
 link
 link-capability
+link-preview
 linkedin
 linkedservice
 linkedservicedependency
@@ -5102,6 +5112,7 @@ poshy-code-search
 poshy-colors
 poshy-coreutils-ish
 poshy-dir-nav
+poshy-ecks
 poshy-env-proxy
 poshy-env-var
 poshy-ls-isms
@@ -5214,6 +5225,7 @@ powershell.module.invokewinget
 powershell.one
 powershell.persistentpathstack
 powershell7
+powershellazuresql
 powershellconferenceeurope
 powershellcore
 powershellcourse
@@ -5347,6 +5359,7 @@ provance
 proverb
 provider
 providerhub
+provision
 provisioning
 provisioningpackage
 provisonedpackage
@@ -7110,6 +7123,8 @@ pscommand_write-gitcommitgpgsignedbykey
 pscommand_write-gitcommithelpfullyverbose
 pscommand_write-gitcommitinteractively
 pscommand_write-gitcommitsignedoff
+pscommand_xin
+pscommand_xwith
 pscommand_yc
 pscommand_ygi
 pscommand_ygl
@@ -7177,6 +7192,7 @@ pscredential
 pscribo
 pscustomobject
 psd1
+psdb
 psdefaultparametervalues
 psdeploy
 psdesiredstateconfiguration
@@ -8244,6 +8260,8 @@ psfunction_write-gitcommitgpgsignedbykey
 psfunction_write-gitcommithelpfullyverbose
 psfunction_write-gitcommitinteractively
 psfunction_write-gitcommitsignedoff
+psfunction_xin
+psfunction_xwith
 psgallery
 psget
 psgitlab
@@ -8465,7 +8483,6 @@ randomuser
 randomusers
 range
 rangescan
-ransomware_recovery
 ras
 raspberry-pi
 raspberrypi
@@ -8793,7 +8810,6 @@ rt
 rtu
 rubber
 rubrik
-rubriksecuritycloud
 ruby
 rulasg
 rule
@@ -9417,6 +9433,7 @@ sql-database
 sql-script
 sql-server
 sqlagent
+sqlautomation
 sqlbits
 sqlbrowser
 sqlbulkcopy
@@ -9428,6 +9445,7 @@ sqldatabase
 sqldb
 sqldbatools
 sqldiagapi
+sqlexport
 sqlgateway
 sqlite
 sqlitebynarymodule
@@ -9704,6 +9722,7 @@ tab-completion
 tab-expansion
 tabcompletion
 tabexpansion
+tabexpansion2
 tablacus
 table
 tableau
@@ -10110,7 +10129,6 @@ ud-speechbubble
 ud-step
 ud-stepbar
 ud-stickynavbar
-ud-tagcloud
 ud-timeline
 ud-timeout
 ud-tool
@@ -10624,7 +10642,6 @@ windowscredentials
 windowscredentialsmanager
 windowsdataprotectionapi
 windowsdefender
-windowsdesktopsearch
 windowsevent
 windowseventlog
 windowsform
@@ -10804,6 +10821,7 @@ xevents
 xh
 xi
 xiaomi
+xin
 xkcd
 xliff
 xlsx
@@ -10829,6 +10847,7 @@ xtrude
 xunit
 xwiki
 xwindowsupdate
+xwith
 yahoo
 yahw
 yamaha
