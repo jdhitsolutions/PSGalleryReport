@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Thursday, 02 May 2024 17:51:49 UTC
+Updated: Friday, 03 May 2024 02:05:24 UTC
 
 .bat
 .env
@@ -459,7 +459,6 @@ area
 arg
 argcomplete
 argument
-argumentcompleter
 arguments
 arm
 arm-json
@@ -688,11 +687,11 @@ azurebasicloadbalancerupgrade
 azurecli
 azurecodesigning
 azurecognitiveservices
+azurecommonstuff
 azurecontainerapps
 azurecontainers
 azuredatabricks
 azuredataexplorer
-azuredatastudio
 azuredevops
 azuredevops_security
 azuredevopsserver
@@ -1041,7 +1040,6 @@ cavium
 cb
 cblueshell
 cbr
-cbz
 cchoco
 cchocoex
 ccm
@@ -1705,6 +1703,7 @@ dashboardservice
 dast
 data
 data_protection
+data_security
 data-archive
 data-backup
 data-tier
@@ -2355,7 +2354,6 @@ espressif
 esri
 essbase
 estimate
-estimation
 esx
 esxi
 eternalblue
@@ -2520,7 +2518,6 @@ fastlookup
 fastping
 fasttrack
 fat32
-favorite
 favorites
 fb-pro
 fciv
@@ -2951,7 +2948,6 @@ gpolinks
 gpp
 gps
 gpt
-gpt3
 gpx
 gradle
 grafana
@@ -3342,6 +3338,7 @@ incidentresponse
 incontact
 indents
 index
+indexdb
 indicator
 inedo
 inetfwrule
@@ -3487,7 +3484,6 @@ ipscan
 ipv4
 ipv4ping
 ipv6
-ipynb
 ir
 irc
 irkit
@@ -3597,7 +3593,6 @@ jumpstart
 junction
 junctions
 junit
-jupyter
 jupytor
 justenoughadministration
 jvm
@@ -8483,6 +8478,7 @@ randomuser
 randomusers
 range
 rangescan
+ransomware_recovery
 ras
 raspberry-pi
 raspberrypi
@@ -8810,6 +8806,7 @@ rt
 rtu
 rubber
 rubrik
+rubriksecuritycloud
 ruby
 rulasg
 rule
@@ -8983,7 +8980,6 @@ search
 search-adminauditlog
 search-engines
 searchconnector
-searchengine
 searcher
 searching
 searchmanager
@@ -9722,7 +9718,6 @@ tab-completion
 tab-expansion
 tabcompletion
 tabexpansion
-tabexpansion2
 tablacus
 table
 tableau
@@ -10129,6 +10124,7 @@ ud-speechbubble
 ud-step
 ud-stepbar
 ud-stickynavbar
+ud-tagcloud
 ud-timeline
 ud-timeout
 ud-tool
@@ -10642,6 +10638,7 @@ windowscredentials
 windowscredentialsmanager
 windowsdataprotectionapi
 windowsdefender
+windowsdesktopsearch
 windowsevent
 windowseventlog
 windowsform
