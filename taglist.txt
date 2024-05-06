@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Sunday, 05 May 2024 17:51:42 UTC
+Updated: Monday, 06 May 2024 02:05:31 UTC
 
 .bat
 .env
@@ -39,7 +39,6 @@ Updated: Sunday, 05 May 2024 17:51:42 UTC
 2018
 2019
 21vianet
-24-bit
 2fa
 300
 365
@@ -450,6 +449,7 @@ architecture
 architecuture
 archive
 archivedteams
+archivematica
 archivial
 archivial-backup
 archivial-cloud-backup
@@ -472,6 +472,7 @@ arp
 array
 arrays
 art
+artefactual
 artifact
 artifactory
 artifacts
@@ -652,6 +653,7 @@ azsk
 azsql
 azstackhci
 azstate
+azsubnet
 aztools
 azts
 azuead
@@ -936,6 +938,7 @@ broot
 brownserve-uk
 browser
 browserbox
+browserextension
 browserhistory
 browsing
 brs
@@ -952,7 +955,6 @@ build-scripts
 builddefinition
 builder
 buildhelpers
-building
 buildingfile
 buildingmapping
 buildkit
@@ -1185,10 +1187,8 @@ classified
 clccontrol
 clccontrolapiv1
 clccontrolapiv2
-clean-up
 cleanmgr
 cleanup
-cleanup-orphans
 clear
 clear-history
 clearpass
@@ -1260,7 +1260,6 @@ clueser
 cluster
 clusterminimumvalues
 clusterplacementgroups
-clusterplugins
 cmaccounts
 cmake
 cmakepresets.json
@@ -1333,6 +1332,7 @@ columns
 com
 combinations
 combine
+comdata
 comic
 comical
 comics
@@ -1835,7 +1835,6 @@ delegated
 delegation
 delegationmodel
 delete
-delete-orphan-branches
 deletefile
 deleteuserprofile
 delivery
@@ -2482,6 +2481,7 @@ extendscript
 extensibility
 extension
 extensionmethods
+extensionrisk
 extensions
 external
 externalip
@@ -2637,8 +2637,6 @@ fitbit
 fits
 five
 five9
-fix-log
-fix-protocol
 fixlet
 fixpack
 flac
@@ -2895,7 +2893,6 @@ gitlab-runner
 gitlab4
 gitlabpipeline
 gitops
-glimps
 glob
 globalclipboard
 globaldashboard
@@ -3041,7 +3038,6 @@ harden
 harden-windows-security
 hardening
 hardlink
-hardmatch
 hardware
 harperdb
 hartokens
@@ -3146,7 +3142,6 @@ hls
 hockey
 hol
 holiday
-home
 home_automation
 homebrew
 homelandsecurity
@@ -3872,7 +3867,6 @@ log4net
 loganalytics
 logbook
 logcat
-logentry
 logfile
 logfilearchivearchive
 logfilemanagement psmodule
@@ -3976,7 +3970,6 @@ maintain-module
 maintenance
 maintenance-window
 maintenancewindows
-make
 maker
 malware
 mamagedidentity
@@ -4038,7 +4031,6 @@ mask
 mass
 masstransit
 masterconfiguration
-match
 matcharray
 matchhashtable
 materialdesign
@@ -4529,8 +4521,6 @@ nord
 nordtools
 normal
 norskale
-norway
-norwegian
 nos
 nosql
 note
@@ -5370,6 +5360,7 @@ proxmox
 proxmoxve
 proxsys
 proxy
+proxyfunction
 proxyfunctions
 prtg
 prtg_network_monitor
@@ -8310,6 +8301,7 @@ psprojectcreator
 psprojectgenerator
 psprovider
 psprtg
+pspublicapi
 psql
 psraw
 psreadexif
@@ -8322,7 +8314,6 @@ psrule-rules
 pssa
 psscriptanalyzer
 psscriptanaylzer
-psscriptsmonitoring
 pssendgrid
 pssession
 pssharper
@@ -8334,6 +8325,7 @@ pssqlserver
 pssqlserverbynarymodule
 pssqlservermodule
 psst
+psstgenerator
 pstablacus
 pstanss
 psthread
@@ -8353,6 +8345,7 @@ pubg
 public
 public-key
 public-transport
+publicapi
 publicclient
 publicfolder
 publicholidays
@@ -8530,7 +8523,6 @@ reckon
 recommendation
 reconcile
 reconnaissance
-record
 recording
 recordsmanagement
 recovery
@@ -8639,7 +8631,6 @@ remove-itemproperty
 remove-pass
 remove-path
 remove-pinneditem
-remove-tempfiles
 removefile
 removetypeaccelerators
 remux
@@ -8966,7 +8957,6 @@ scriptmodule
 scriptoform
 scriptrunner
 scripts
-scriptsmonitoring
 scrolllock
 scrub
 scrubber
@@ -9236,6 +9226,7 @@ site_navigation
 sitecollection
 siteconfiguration
 sitecore
+sitecoresearch
 sitemaintenance
 sitemap
 siterecovery
@@ -9316,7 +9307,6 @@ snmpwalk
 snowflake
 snsmssqlpsmodule
 snspsadgroupmembers
-snspsscriptsmonitoring
 snssqlitepsmodule
 sntp
 soap
@@ -9603,6 +9593,7 @@ submission
 subnet
 subnet-calculator
 subnetcalulator
+subnetdetails
 subnetmapping
 subnetmask
 subnetmaths
@@ -9674,6 +9665,7 @@ syntax
 syntax-highlighting
 syntaxcheck
 syntaxhighlighter
+synthesis
 synthetics
 sysadmin
 sysadmin-tool
@@ -9977,6 +9969,8 @@ transact
 transaction
 transactions
 transcode
+transcript
+transcripts
 transform
 transformation
 transforms
@@ -10406,6 +10400,7 @@ vmwcluster
 vmwdatacenter
 vmwfolder
 vmwvmhost
+vnet
 vnmonitoring
 vnugglets
 vnugglets.com
