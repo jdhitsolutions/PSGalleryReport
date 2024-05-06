@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 06 May 2024 02:05:31 UTC
+Updated: Monday, 06 May 2024 09:52:01 UTC
 
 .bat
 .env
@@ -39,6 +39,7 @@ Updated: Monday, 06 May 2024 02:05:31 UTC
 2018
 2019
 21vianet
+24-bit
 2fa
 300
 365
@@ -257,7 +258,6 @@ ailanguage
 aim
 aip
 aipscanner
-aircall
 airpower
 airpwr
 airtable
@@ -647,13 +647,11 @@ aznetworkinterface
 aznicdetails
 azops
 azpublicipaddress
-azresources
 azsdk
 azsk
 azsql
 azstackhci
 azstate
-azsubnet
 aztools
 azts
 azuead
@@ -717,7 +715,6 @@ azurepolicy
 azurepowershell
 azurerepos
 azureresourcemanager
-azureresources
 azureresourcestuff
 azurerestapispecs
 azurerm
@@ -884,7 +881,6 @@ blueteam
 bluetraitio
 bluetuxedo
 bmc
-bnm
 boards
 bofh
 boilerplate
@@ -1007,7 +1003,6 @@ cancel
 cancellation
 canonical
 cantara
-capability
 capacity
 capacitymanagement
 capainstaller
@@ -1260,6 +1255,7 @@ clueser
 cluster
 clusterminimumvalues
 clusterplacementgroups
+clusterplugins
 cmaccounts
 cmake
 cmakepresets.json
@@ -1567,15 +1563,11 @@ creator
 cred
 credential
 credential-dialog
-credential-file
-credential-files
-credential-manager
 credentiallocker
 credentialmanagement
 credentialmanager
 credentialprovider
 credentials
-credentials-cache
 credentialsmanager
 credentialstore
 credentialtheaf
@@ -1964,9 +1956,7 @@ diskfree
 diskimage
 diskpart
 diskpool
-disksize
 diskspace
-diskusage
 dism
 dismal
 display
@@ -2060,7 +2050,6 @@ domainkey
 domainname
 domainnamesystem
 domains
-domino
 done.land
 donothing
 dos
@@ -2121,7 +2110,6 @@ drsrule
 drupal
 drush
 dry
-ds
 ds-client
 ds-utils
 dsa
@@ -2473,9 +2461,7 @@ exportteams
 expression
 extend
 extended
-extendedattributes
 extendedevents
-extendedproperties
 extendedproperty
 extendscript
 extensibility
@@ -2565,7 +2551,6 @@ file-system
 file-transform
 file-type
 file-type-association
-fileattributes
 fileencryption
 filelist
 filelog
@@ -2574,7 +2559,6 @@ filemanagement
 filematcher
 filename
 filenames
-fileproperties
 filereplication
 files
 files-cli
@@ -2637,6 +2621,8 @@ fitbit
 fits
 five
 five9
+fix-log
+fix-protocol
 fixlet
 fixpack
 flac
@@ -2874,7 +2860,6 @@ git-client
 git-clone
 git-flow
 git-lfs
-git-proxy
 git-rename
 git-stat
 gitcmdline
@@ -2893,6 +2878,7 @@ gitlab-runner
 gitlab4
 gitlabpipeline
 gitops
+glimps
 glob
 globalclipboard
 globaldashboard
@@ -3038,6 +3024,7 @@ harden
 harden-windows-security
 hardening
 hardlink
+hardmatch
 hardware
 harperdb
 hartokens
@@ -3142,6 +3129,7 @@ hls
 hockey
 hol
 holiday
+home
 home_automation
 homebrew
 homelandsecurity
@@ -3188,11 +3176,9 @@ hsdp
 hsl
 html
 http
-http_proxy
 httpclient
 httplistener
 https
-https_proxy
 httpserver
 huawei
 huawei-ibmc-cmdlets
@@ -3867,6 +3853,7 @@ log4net
 loganalytics
 logbook
 logcat
+logentry
 logfile
 logfilearchivearchive
 logfilemanagement psmodule
@@ -3887,7 +3874,6 @@ login-rdp
 logingestion
 loginscreen
 loginsight
-logiphys
 logistic
 logitech
 logmail
@@ -4031,6 +4017,7 @@ mask
 mass
 masstransit
 masterconfiguration
+match
 matcharray
 matchhashtable
 materialdesign
@@ -4209,7 +4196,6 @@ mkdocs
 mkpasswd
 mksapiviewer
 ml
-ml.net
 mlflow
 mmdc
 mobile
@@ -4232,7 +4218,6 @@ moduleupdateinfo
 moduleupdater
 moduleversion
 mof
-moldova
 moment
 monaco
 monday
@@ -4440,11 +4425,9 @@ netstat
 netsuite
 network
 network adapter configuration operating os optical sensor physical pointing portable printer processor cpu refrigaration cooling cooler removable usb sd ram dimm scsi sound audio card enclosure tape temperature touchpad touch pad touchscreen screen trackball trackpoint video graphics voltage psmodule
-network-credentials
 network-info
 networkanalytics
 networkcloud
-networkcontroller
 networkdiscovery
 networkdrives
 networkfirewall
@@ -4503,8 +4486,6 @@ nist
 nitrox
 njclipsh
 nl
-nla
-nlm
 nlog
 nmap
 nmbell
@@ -4516,11 +4497,12 @@ non-volatile
 none
 noneimages
 noninteractive
-noproxy
 nord
 nordtools
 normal
 norskale
+norway
+norwegian
 nos
 nosql
 note
@@ -4539,7 +4521,6 @@ notify-send-wsl
 nova
 npgsql
 npm
-npm-proxy
 npm-upgrade
 nprinting
 nprintingapi
@@ -4634,7 +4615,6 @@ officedev
 officegraph
 officemessageencryption
 officertool
-offline
 offlinewimservicing
 ofx
 ogg
@@ -4654,7 +4634,6 @@ omnistack
 oms
 omsagent
 on
-on-demand
 on-premise
 onboard
 onboardadministrator
@@ -5103,7 +5082,6 @@ poshy-colors
 poshy-coreutils-ish
 poshy-dir-nav
 poshy-ecks
-poshy-env-proxy
 poshy-env-var
 poshy-ls-isms
 poshy-lucidity
@@ -5195,7 +5173,6 @@ powershell-cmdlets
 powershell-core
 powershell-core-releases-api
 powershell-course
-powershell-credentials
 powershell-dsc
 powershell-examples
 powershell-gallery
@@ -5240,7 +5217,6 @@ powertab
 powertoolcmdlets
 powertooldsc
 ppdm
-ppk
 pposh
 pps
 ppt
@@ -5520,7 +5496,6 @@ pscommand_dils
 pscommand_dipu
 pscommand_dirm
 pscommand_dirname
-pscommand_disable-proxy
 pscommand_dit
 pscommand_dk
 pscommand_dkbash
@@ -5650,7 +5625,6 @@ pscommand_dxc
 pscommand_dxcit
 pscommand_e64
 pscommand_ef64
-pscommand_enable-proxy
 pscommand_encode64
 pscommand_encodefile64
 pscommand_export-gitrepositoryzip
@@ -5939,12 +5913,6 @@ pscommand_git_show_stash_file
 pscommand_git_stats
 pscommand_git_status_short_with_loglines
 pscommand_git-changelog
-pscommand_git-disable-proxy
-pscommand_git-enable-proxy
-pscommand_git-global-disable-proxy
-pscommand_git-global-enable-proxy
-pscommand_git-global-show-proxy
-pscommand_git-show-proxy
 pscommand_gitignore-reload
 pscommand_gittowork
 pscommand_gl
@@ -6827,9 +6795,6 @@ pscommand_nmap_slow
 pscommand_nmap_traceroute
 pscommand_nmap_web_safe_osscan
 pscommand_notify-send-fallback
-pscommand_npm-disable-proxy
-pscommand_npm-enable-proxy
-pscommand_npm-show-proxy
 pscommand_npmd
 pscommand_npme
 pscommand_npmf
@@ -6875,7 +6840,6 @@ pscommand_pl
 pscommand_po
 pscommand_pop-gitstashentry
 pscommand_ppy
-pscommand_proxy-help
 pscommand_prun
 pscommand_psh
 pscommand_psy
@@ -6894,7 +6858,6 @@ pscommand_push-gitstashentrywithmessage
 pscommand_pushgr
 pscommand_pvenv
 pscommand_pwh
-pscommand_pwshrc-show-proxy
 pscommand_py
 pscommand_pyenv
 pscommand_pylint-quick
@@ -6966,14 +6929,10 @@ pscommand_set-locationup4
 pscommand_set-locationup5
 pscommand_sgem
 pscommand_show-gitremote
-pscommand_show-proxy
 pscommand_shttp
 pscommand_shuf
 pscommand_sl
 pscommand_ssh-add-all
-pscommand_ssh-disable-proxy
-pscommand_ssh-enable-proxy
-pscommand_ssh-show-proxy
 pscommand_sshlist
 pscommand_start-gitbisect
 pscommand_start-gitcherrypick
@@ -7269,7 +7228,6 @@ psfunction_d
 psfunction_decode64
 psfunction_decodefile64
 psfunction_dirname
-psfunction_disable-proxy
 psfunction_docker-archive-content
 psfunction_docker-build
 psfunction_docker-compose-fresh
@@ -7335,7 +7293,6 @@ psfunction_dotnet-tool-update-all-global
 psfunction_dotnet-watch
 psfunction_dotnet-watch-run
 psfunction_dotnet-watch-test
-psfunction_enable-proxy
 psfunction_encode64
 psfunction_encodefile64
 psfunction_export-gitrepositoryzip
@@ -7492,12 +7449,6 @@ psfunction_git_show_stash_file
 psfunction_git_stats
 psfunction_git_status_short_with_loglines
 psfunction_git-changelog
-psfunction_git-disable-proxy
-psfunction_git-enable-proxy
-psfunction_git-global-disable-proxy
-psfunction_git-global-enable-proxy
-psfunction_git-global-show-proxy
-psfunction_git-show-proxy
 psfunction_gitignore-reload
 psfunction_gittowork
 psfunction_gplfs
@@ -8091,9 +8042,6 @@ psfunction_nmap_slow
 psfunction_nmap_traceroute
 psfunction_nmap_web_safe_osscan
 psfunction_notify-send-fallback
-psfunction_npm-disable-proxy
-psfunction_npm-enable-proxy
-psfunction_npm-show-proxy
 psfunction_open_command
 psfunction_peek
 psfunction_pipig
@@ -8104,7 +8052,6 @@ psfunction_pipreq
 psfunction_pipunall
 psfunction_pipupall
 psfunction_pop-gitstashentry
-psfunction_proxy-help
 psfunction_publish-gitcommitsforcefullywithlease
 psfunction_publish-gitcommitssettingupstream
 psfunction_publish-gitcommitssettingupstreamtoorigin
@@ -8115,7 +8062,6 @@ psfunction_publish-gitcommitswithtags
 psfunction_publish-gitrepositorytosvn
 psfunction_push-gitstashentry
 psfunction_push-gitstashentrywithmessage
-psfunction_pwshrc-show-proxy
 psfunction_pyserver
 psfunction_read-dotenv
 psfunction_register-argcompleteargumentcompleter
@@ -8177,13 +8123,9 @@ psfunction_set-locationup3
 psfunction_set-locationup4
 psfunction_set-locationup5
 psfunction_show-gitremote
-psfunction_show-proxy
 psfunction_shttp
 psfunction_shuf
 psfunction_ssh-add-all
-psfunction_ssh-disable-proxy
-psfunction_ssh-enable-proxy
-psfunction_ssh-show-proxy
 psfunction_sshlist
 psfunction_start-gitbisect
 psfunction_start-gitcherrypick
@@ -8314,6 +8256,7 @@ psrule-rules
 pssa
 psscriptanalyzer
 psscriptanaylzer
+psscriptsmonitoring
 pssendgrid
 pssession
 pssharper
@@ -8631,6 +8574,7 @@ remove-itemproperty
 remove-pass
 remove-path
 remove-pinneditem
+remove-tempfiles
 removefile
 removetypeaccelerators
 remux
@@ -8683,7 +8627,6 @@ resourcecontroller
 resourcegraph
 resourcegroup
 resourcegroups
-resourceid
 resourcekit
 resourcemanager
 resourcemover
@@ -8709,7 +8652,6 @@ reverse-engineer
 reverse-string
 reversed-color-text
 reversedsc
-reverseengineering
 review
 revision
 reword
@@ -8957,6 +8899,7 @@ scriptmodule
 scriptoform
 scriptrunner
 scripts
+scriptsmonitoring
 scrolllock
 scrub
 scrubber
@@ -9042,7 +8985,6 @@ selfhelp
 selfsigned
 semantic
 semantic-versioning
-semaphore
 semver
 senat
 senateur
@@ -9307,6 +9249,7 @@ snmpwalk
 snowflake
 snsmssqlpsmodule
 snspsadgroupmembers
+snspsscriptsmonitoring
 snssqlitepsmodule
 sntp
 soap
@@ -9593,7 +9536,6 @@ submission
 subnet
 subnet-calculator
 subnetcalulator
-subnetdetails
 subnetmapping
 subnetmask
 subnetmaths
@@ -10025,9 +9967,6 @@ tsa
 tsd
 tsheets
 tsqlbestpractice
-tst
-tst1
-tst3
 tsv
 ttrpg
 tts
@@ -10400,7 +10339,6 @@ vmwcluster
 vmwdatacenter
 vmwfolder
 vmwvmhost
-vnet
 vnmonitoring
 vnugglets
 vnugglets.com
@@ -10734,7 +10672,6 @@ world
 worldcup
 worryfreebusinesssecurity
 wow
-wpad
 wpf
 wql
 wrap
