@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Wednesday, 08 May 2024 09:51:58 UTC
+Updated: Wednesday, 08 May 2024 17:51:57 UTC
 
 .bat
 .env
@@ -14,8 +14,6 @@ Updated: Wednesday, 08 May 2024 09:51:58 UTC
 'provider'
 "interactive
 {modulenameplaceholder}
-**psedition_desktop**
-**windows**
 🍄
 🍣
 💩
@@ -112,7 +110,9 @@ action1
 actiongroup
 actionplan
 actions
+activate
 activation
+activationscripts
 active
 active_directory
 active-directory
@@ -169,7 +169,6 @@ addlevel
 addomainservices
 addon
 address
-address-book
 addresses
 addressrange
 adds
@@ -674,7 +673,6 @@ azureactivedirectory
 azuread
 azureadbackupandrestore
 azureadconnect
-azureadgraph
 azureadtoolkit
 azureadvancedthreatprotection
 azureappconfiguration
@@ -690,14 +688,11 @@ azurecli
 azurecodesigning
 azurecognitiveservices
 azurecommonstuff
-azurecontainerapps
-azurecontainers
 azuredatabricks
 azuredataexplorer
 azuredatastudio
 azuredevops
 azuredevops_security
-azuredevopsserver
 azuredns
 azurefilesync
 azurefunctionapp
@@ -727,6 +722,7 @@ azuresearch
 azuresearcher
 azuresecuritycenter
 azureservicebus
+azuresigntool
 azuresql
 azuresqlexport
 azuresqlimport
@@ -875,6 +871,7 @@ bloodhound
 bloxone
 bloxoneddi
 bls
+blue
 bluedolhin
 blueprint
 blueprints
@@ -882,7 +879,6 @@ blueteam
 bluetraitio
 bluetuxedo
 bmc
-bnm
 boards
 bofh
 boilerplate
@@ -930,7 +926,6 @@ britannica
 britannicaknowledgesystems
 british-gas
 brk4452
-broadcast
 broadcom
 broot
 brownserve-uk
@@ -1018,6 +1013,7 @@ capture
 carbon
 carbonawarecomputing
 carbonintensity
+card
 cardwirth
 cares
 cargo
@@ -1027,12 +1023,14 @@ cartoon
 case
 cassandra
 cat
+cat-names
 catalog
 catalogs
 catalyst
 catapult
 catesta
 catimage
+cats
 catty
 cavium
 cb
@@ -1309,7 +1307,6 @@ cognitiveservice
 cognitiveservices
 cohesity
 coinmarketcap
-collaboration
 collatordso
 collatz
 collection
@@ -1599,6 +1596,7 @@ crossover
 crossplatform
 crossplatformdevelopment
 crowdstrike
+crt.sh
 crud
 crypto
 cryptocompare
@@ -1617,6 +1615,7 @@ csv2adx
 csvhelper
 ctf
 ctglobal
+ctl
 ctrl+c
 ctx
 ctype
@@ -1680,6 +1679,7 @@ cyrillic
 d365
 d365ce
 d365fo
+d365fsc
 daas
 dac
 dacfx
@@ -1767,7 +1767,6 @@ datum
 dave
 davinci
 dax
-dayinweek
 days
 days-week
 db
@@ -1944,6 +1943,8 @@ disable
 disable-internet
 disable-psremoting
 disablefilesyncngsc
+disablestartbutton
+disablestartkey
 disasm
 disasterrecovery
 disconnect
@@ -2132,6 +2133,7 @@ dsclient
 dscresource
 dscresourcekit
 dscresources
+dsctools
 dsl
 dsm
 dsreg
@@ -2193,7 +2195,6 @@ e-mail
 e1
 easy
 easy-to-use
-easylife365
 easyvista
 eaton
 ebay
@@ -2725,6 +2726,8 @@ frontapp
 frontdoor
 frontrange
 fs
+fsc-ps
+fscps
 fsf
 fsharp
 fslogix
@@ -2915,7 +2918,6 @@ google-chrome
 google-fonts
 google-histogram
 google-sankey
-google-table
 googleadsv2
 googlecloudplatform
 googledrive
@@ -3208,6 +3210,7 @@ humanly
 humor
 humorous
 hunter
+hwid
 hybrid
 hybridrunbookworker
 hyper-v
@@ -3327,6 +3330,7 @@ importexport
 importteams
 inactive
 inboxrule
+incident
 incident-response
 incidentresponse
 incontact
@@ -3336,6 +3340,7 @@ indexdb
 indicator
 inedo
 inetfwrule
+inetum
 infinity
 influx
 influxdb
@@ -3561,6 +3566,7 @@ join-object
 jojoba
 joke
 jotform
+journal
 joyride
 jpg
 jq
@@ -3626,6 +3632,7 @@ key2wocas
 keybase
 keybinding
 keyboard
+keyboardstartkey
 keycipher
 keycloak
 keylight
@@ -3945,7 +3952,6 @@ macosx
 macro
 macros
 madlib
-magazine
 magento
 magic8ball
 magicpacket
@@ -4021,6 +4027,7 @@ marvell_semiconductor_inc
 marvellfcpowerkit
 marvellfcprovider
 marvellqlogicfcpowerkit
+mas
 mask
 mass
 masstransit
@@ -4051,6 +4058,7 @@ mccs
 mcd
 mchapv2
 mct
+md5
 md5_v2-18678d945a01f01ccd1b01ed86392fd5
 mdatp
 mdb
@@ -4218,6 +4226,7 @@ module
 module-maintenance
 modulebuild
 modulecreation
+modulefast
 modulemanagement
 modules
 moduleupdate
@@ -4225,7 +4234,6 @@ moduleupdateinfo
 moduleupdater
 moduleversion
 mof
-moldova
 moment
 monaco
 monday
@@ -4285,13 +4293,11 @@ msft
 msftnet
 msftnetworking
 msg
-msg.exe
 msgbox
 msgraph
 msgraphapi
 msgraphreport
 msgraphstuff
-msgraphtokenlifetimepolicy
 msi
 msi psmodule
 msiexec
@@ -4339,6 +4345,7 @@ multiserver
 multistring
 multithread
 multithreaded
+multithreaded-helpers
 multithreading
 music
 musiccast
@@ -4359,6 +4366,7 @@ myip
 myitprocess
 myjson
 myjson.com
+myob
 myposh
 mypstag
 mysql
@@ -4419,7 +4427,6 @@ netcease
 netcore
 netfirewallrule
 netherlands
-netmask
 nets
 netsapiens
 netscaler
@@ -4611,6 +4618,7 @@ odata
 odbc
 odfb
 odin
+odoo
 oem-charset
 offboarding
 offence
@@ -4900,6 +4908,7 @@ patternmatching
 paulo
 pause
 pax8
+payload
 paylocity
 paypal
 pays
@@ -4917,6 +4926,7 @@ pdf-document-processor
 pdf-files
 pdf-generation
 pdf-redaction
+pe
 peek
 peering
 peheader
@@ -4936,6 +4946,7 @@ perl
 permission
 permissions
 permutations
+persistence
 persistent
 personal
 personalisation
@@ -5067,6 +5078,7 @@ pos
 posershellise
 posh
 posh-acme
+posh-cats
 posh-chocobear
 posh-direnv
 posh-git
@@ -5242,7 +5254,6 @@ predictive
 predictive-text
 predictor
 preferences
-prefix
 prefixing
 preparead
 preparealldomains
@@ -5377,6 +5388,7 @@ psappdeploytoolkit
 psat
 psazd
 psbackup
+psbbix
 psbicep
 psclient
 pscmdlet
@@ -8326,6 +8338,7 @@ pswinreportingv2
 psword
 pswriteword
 psyaml
+pszabbix
 ptc
 ptcintegrity
 pubg
@@ -8338,6 +8351,7 @@ publicfolder
 publicholidays
 publicip
 publish
+publishedmodules
 publisher
 publishers
 publishing
@@ -8354,8 +8368,8 @@ puppetdb
 puppy
 pure
 pure1
-pureservice
 purestorage
+purple
 purview
 push
 push-location
@@ -8520,6 +8534,7 @@ recursion
 recursivefilesandfoldersdownload
 recursivefilesandfoldersupload
 recyclebin
+red
 redact
 redaction
 reddit
@@ -8668,6 +8683,7 @@ resource_watcher
 resourcecontroller
 resourcegraph
 resourcegroup
+resourcegroups
 resourceid
 resourcekit
 resourcemanager
@@ -8715,7 +8731,6 @@ rgb
 rhapsody
 ribbon
 ribcl
-ricoh
 rightcloud
 rightjoin
 rights
@@ -8744,6 +8759,7 @@ rocketcyber
 roco
 rocolatey
 role
+roleassignments
 rolebasedaccesscontrol_model
 roles
 rollingfile
@@ -8832,7 +8848,6 @@ saltstackconfig
 saltstackenterprise
 sam
 saml
-saml psmodule
 saml2
 sample
 sampler
@@ -9034,7 +9049,6 @@ senateur
 send
 send-logtologanalytics
 send-mailmessage
-send-message
 senderid
 sendgrid
 sendkeys
@@ -9076,6 +9090,7 @@ serviceconnectionpoint
 servicecontrol
 servicedesk
 servicedeskplus
+serviceendpoints
 servicefabric
 servicelinker
 servicemanagementautomation
@@ -9132,6 +9147,7 @@ shadow
 shadowcopy
 shadowcopybackups
 shadowgroups
+shanghaitech
 shard
 share
 share-permission
@@ -9487,6 +9503,7 @@ start
 start-job
 start-jobthread
 start-threadjob
+startkey
 startmen
 startmenu
 starttls
@@ -9732,7 +9749,6 @@ taskscheduler
 taxjar
 taxonomy
 tcp
-tcp/ip
 tcpip
 tcpport
 tcprjmgmt
@@ -9807,6 +9823,7 @@ test123
 testaccount
 testautomation
 tester
+testimonial
 testing
 testlab
 testplans
@@ -9902,7 +9919,6 @@ todo.txt
 toggl
 toggle
 token
-tokenlifetime
 tokens
 toml
 tonoref
@@ -9962,6 +9978,7 @@ translation
 translit
 transliteration
 transmission
+transparency
 transpilation
 trap
 travel
@@ -9979,7 +9996,6 @@ trendmicro
 trevor
 trevorsullivan
 triangle
-tribeloo
 trick
 tricks
 trigger
@@ -10837,6 +10853,7 @@ yubaba
 yum
 z
 zabbix
+zabbixps
 zap
 zap-zsh
 zcat
