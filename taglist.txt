@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Wednesday, 08 May 2024 01:57:33 UTC
+Updated: Wednesday, 08 May 2024 09:51:58 UTC
 
 .bat
 .env
@@ -20,6 +20,7 @@ Updated: Wednesday, 08 May 2024 01:57:33 UTC
 🍣
 💩
 🙇
+1&1
 10
 11
 1607
@@ -111,9 +112,7 @@ action1
 actiongroup
 actionplan
 actions
-activate
 activation
-activationscripts
 active
 active_directory
 active-directory
@@ -380,6 +379,7 @@ apis
 aplication
 apm
 apmconfig
+apmcontrolplane
 apmsynthetics
 apmtraces
 aportal
@@ -565,6 +565,7 @@ autify
 auto
 auto_cd
 auto-completion
+autoadapter
 autoattendant
 autocloudarc
 autocomplete
@@ -591,9 +592,11 @@ autostart
 autotask
 autotaskapi
 autotaskpsa
+autotyper
 autounattend
 autoupdate
 autoupdate-script
+autowrapper
 autoyast
 auvik
 availability
@@ -724,7 +727,6 @@ azuresearch
 azuresearcher
 azuresecuritycenter
 azureservicebus
-azuresigntool
 azuresql
 azuresqlexport
 azuresqlimport
@@ -823,6 +825,7 @@ billing
 billingbenefits
 bimi
 bin
+bin-obj
 binary
 binaryip
 bind
@@ -872,7 +875,6 @@ bloodhound
 bloxone
 bloxoneddi
 bls
-blue
 bluedolhin
 blueprint
 blueprints
@@ -1016,7 +1018,6 @@ capture
 carbon
 carbonawarecomputing
 carbonintensity
-card
 cardwirth
 cares
 cargo
@@ -1026,14 +1027,12 @@ cartoon
 case
 cassandra
 cat
-cat-names
 catalog
 catalogs
 catalyst
 catapult
 catesta
 catimage
-cats
 catty
 cavium
 cb
@@ -1508,6 +1507,7 @@ coordinates
 copilot
 copy
 copy-item
+copypaste
 copyright
 core
 coreposh
@@ -1599,7 +1599,6 @@ crossover
 crossplatform
 crossplatformdevelopment
 crowdstrike
-crt.sh
 crud
 crypto
 cryptocompare
@@ -1618,7 +1617,6 @@ csv2adx
 csvhelper
 ctf
 ctglobal
-ctl
 ctrl+c
 ctx
 ctype
@@ -1795,6 +1793,7 @@ ddc/ci
 ddns
 debian
 debug
+debug-files
 debugger
 debugging
 decimal
@@ -1933,6 +1932,7 @@ directory psedition_core psedition_desktop
 directory-transform
 directorymarks
 directoryname
+directorysearcher
 directorysecurity
 directrouting
 direnv
@@ -1944,8 +1944,6 @@ disable
 disable-internet
 disable-psremoting
 disablefilesyncngsc
-disablestartbutton
-disablestartkey
 disasm
 disasterrecovery
 disconnect
@@ -2134,7 +2132,6 @@ dsclient
 dscresource
 dscresourcekit
 dscresources
-dsctools
 dsl
 dsm
 dsreg
@@ -2148,6 +2145,7 @@ du
 dual-stack
 duck
 duckduckgo
+ducktyping
 dudckduckgo
 duf
 dummy
@@ -2892,6 +2890,7 @@ gitlabpipeline
 gitops
 glimps
 glob
+globalclipboard
 globaldashboard
 globalentry
 globallydistributeddatabase
@@ -3209,7 +3208,6 @@ humanly
 humor
 humorous
 hunter
-hwid
 hybrid
 hybridrunbookworker
 hyper-v
@@ -3329,7 +3327,6 @@ importexport
 importteams
 inactive
 inboxrule
-incident
 incident-response
 incidentresponse
 incontact
@@ -3339,7 +3336,7 @@ indexdb
 indicator
 inedo
 inetfwrule
-inetum
+infinity
 influx
 influxdb
 info
@@ -3362,6 +3359,7 @@ initiator
 inline-progress
 inlineprogress
 innerjoin
+innertext
 input
 inputbox
 inputobject
@@ -3449,6 +3447,7 @@ invoke-vsdevcommand
 invokebuild
 invokemethod
 io
+ionos
 ios
 iot
 iotcentral
@@ -3562,7 +3561,6 @@ join-object
 jojoba
 joke
 jotform
-journal
 joyride
 jpg
 jq
@@ -3628,7 +3626,6 @@ key2wocas
 keybase
 keybinding
 keyboard
-keyboardstartkey
 keycipher
 keycloak
 keylight
@@ -3636,6 +3633,7 @@ keymanagement
 keymap
 keymapping
 keypair
+keysms
 keyvault
 keywords
 kibana
@@ -3765,6 +3763,7 @@ licence
 license
 license-generator
 licenseautomation
+licensemanagement
 licensemanager
 licensereport
 licenses
@@ -3946,6 +3945,7 @@ macosx
 macro
 macros
 madlib
+magazine
 magento
 magic8ball
 magicpacket
@@ -4021,7 +4021,6 @@ marvell_semiconductor_inc
 marvellfcpowerkit
 marvellfcprovider
 marvellqlogicfcpowerkit
-mas
 mask
 mass
 masstransit
@@ -4052,7 +4051,6 @@ mccs
 mcd
 mchapv2
 mct
-md5
 md5_v2-18678d945a01f01ccd1b01ed86392fd5
 mdatp
 mdb
@@ -4220,7 +4218,6 @@ module
 module-maintenance
 modulebuild
 modulecreation
-modulefast
 modulemanagement
 modules
 moduleupdate
@@ -4342,7 +4339,6 @@ multiserver
 multistring
 multithread
 multithreaded
-multithreaded-helpers
 multithreading
 music
 musiccast
@@ -4363,7 +4359,7 @@ myip
 myitprocess
 myjson
 myjson.com
-myob
+myposh
 mypstag
 mysql
 mysql-database
@@ -4543,6 +4539,7 @@ nprintingapi
 nps
 npslog
 npslogfile
+nql
 nrc
 nrql
 ns
@@ -4614,7 +4611,6 @@ odata
 odbc
 odfb
 odin
-odoo
 oem-charset
 offboarding
 offence
@@ -4790,6 +4786,7 @@ out-default
 out-gridview
 out-json
 outerjoin
+outertext
 outline
 outlook
 output
@@ -4903,7 +4900,6 @@ patternmatching
 paulo
 pause
 pax8
-payload
 paylocity
 paypal
 pays
@@ -4921,7 +4917,6 @@ pdf-document-processor
 pdf-files
 pdf-generation
 pdf-redaction
-pe
 peek
 peering
 peheader
@@ -4941,7 +4936,6 @@ perl
 permission
 permissions
 permutations
-persistence
 persistent
 personal
 personalisation
@@ -5073,7 +5067,6 @@ pos
 posershellise
 posh
 posh-acme
-posh-cats
 posh-chocobear
 posh-direnv
 posh-git
@@ -5235,6 +5228,7 @@ powertab
 powertoolcmdlets
 powertooldsc
 ppdm
+ppk
 pposh
 pps
 ppt
@@ -5383,7 +5377,6 @@ psappdeploytoolkit
 psat
 psazd
 psbackup
-psbbix
 psbicep
 psclient
 pscmdlet
@@ -8333,7 +8326,6 @@ pswinreportingv2
 psword
 pswriteword
 psyaml
-pszabbix
 ptc
 ptcintegrity
 pubg
@@ -8346,7 +8338,6 @@ publicfolder
 publicholidays
 publicip
 publish
-publishedmodules
 publisher
 publishers
 publishing
@@ -8365,7 +8356,6 @@ pure
 pure1
 pureservice
 purestorage
-purple
 purview
 push
 push-location
@@ -8498,6 +8488,7 @@ rdp
 rdpsession
 rdpsign
 rds
+rdsgw
 react-stockcharts
 read
 read-slog
@@ -8529,7 +8520,6 @@ recursion
 recursivefilesandfoldersdownload
 recursivefilesandfoldersupload
 recyclebin
-red
 redact
 redaction
 reddit
@@ -8609,6 +8599,7 @@ remoteconnectionsmanager
 remotecontrol
 remotedesktop
 remotedesktopconnectionmanager
+remotedesktopgateway
 remotedesktopmanager
 remotedesktopservices
 remotefiles
@@ -8677,7 +8668,6 @@ resource_watcher
 resourcecontroller
 resourcegraph
 resourcegroup
-resourcegroups
 resourceid
 resourcekit
 resourcemanager
@@ -8693,6 +8683,7 @@ restart
 restful
 restore
 resume
+retail
 retention
 retro
 retry
@@ -8753,7 +8744,6 @@ rocketcyber
 roco
 rocolatey
 role
-roleassignments
 rolebasedaccesscontrol_model
 roles
 rollingfile
@@ -9086,7 +9076,6 @@ serviceconnectionpoint
 servicecontrol
 servicedesk
 servicedeskplus
-serviceendpoints
 servicefabric
 servicelinker
 servicemanagementautomation
@@ -9143,7 +9132,6 @@ shadow
 shadowcopy
 shadowcopybackups
 shadowgroups
-shanghaitech
 shard
 share
 share-permission
@@ -9332,6 +9320,7 @@ solutions
 sonarcloud
 sonarqube
 sonarr
+sonatype
 songs
 sonicwall
 sonicwallvpn
@@ -9492,12 +9481,12 @@ stanc
 standard
 standarderror
 standardoutput
+standards
 stansummary
 start
 start-job
 start-jobthread
 start-threadjob
-startkey
 startmen
 startmenu
 starttls
@@ -9619,7 +9608,7 @@ support-tool
 support-tools
 suppress
 supress-reboot
-surestacks
+surround
 survey
 surveymonkey
 sus
@@ -9684,6 +9673,7 @@ system-service
 system-services
 system.directoryservices.protocols
 system.text
+systemadmins
 systemcenter
 systemcolors
 systemctl
@@ -9817,7 +9807,6 @@ test123
 testaccount
 testautomation
 tester
-testimonial
 testing
 testlab
 testplans
@@ -9973,7 +9962,6 @@ translation
 translit
 transliteration
 transmission
-transparency
 transpilation
 trap
 travel
@@ -10330,6 +10318,7 @@ vie
 viewer
 vigenere
 vim
+vimode
 virole
 virsh
 virtual
@@ -10357,6 +10346,7 @@ virus
 virustotal
 visio
 visual
+visual-studio
 visualbuilder
 visualc
 visualfields
@@ -10442,6 +10432,7 @@ vss
 vssetup
 vsshell
 vst
+vsteambuilder
 vsteams
 vstest
 vsts
@@ -10846,7 +10837,6 @@ yubaba
 yum
 z
 zabbix
-zabbixps
 zap
 zap-zsh
 zcat
