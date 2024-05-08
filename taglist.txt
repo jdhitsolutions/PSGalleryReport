@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Tuesday, 07 May 2024 17:51:52 UTC
+Updated: Wednesday, 08 May 2024 01:57:33 UTC
 
 .bat
 .env
@@ -20,7 +20,6 @@ Updated: Tuesday, 07 May 2024 17:51:52 UTC
 🍣
 💩
 🙇
-1&1
 10
 11
 1607
@@ -276,6 +275,7 @@ alarm
 alb
 albums
 alc
+alero
 alert
 alerting
 alertmail
@@ -380,9 +380,9 @@ apis
 aplication
 apm
 apmconfig
-apmcontrolplane
 apmsynthetics
 apmtraces
+aportal
 app
 app-control-for-business
 app-only
@@ -565,7 +565,6 @@ autify
 auto
 auto_cd
 auto-completion
-autoadapter
 autoattendant
 autocloudarc
 autocomplete
@@ -595,7 +594,6 @@ autotaskpsa
 autounattend
 autoupdate
 autoupdate-script
-autowrapper
 autoyast
 auvik
 availability
@@ -686,6 +684,7 @@ azureautomationaccount
 azureautomationnotsupported
 azurebasicloadbalancerupgrade
 azurecli
+azurecodesigning
 azurecognitiveservices
 azurecommonstuff
 azurecontainerapps
@@ -824,7 +823,6 @@ billing
 billingbenefits
 bimi
 bin
-bin-obj
 binary
 binaryip
 bind
@@ -1018,6 +1016,7 @@ capture
 carbon
 carbonawarecomputing
 carbonintensity
+card
 cardwirth
 cares
 cargo
@@ -1193,6 +1192,8 @@ clear
 clear-history
 clearpass
 cli
+cli-menu
+cli-menu-helpers
 clickonce
 client
 client-management
@@ -1681,7 +1682,6 @@ cyrillic
 d365
 d365ce
 d365fo
-d365fsc
 daas
 dac
 dacfx
@@ -1795,7 +1795,6 @@ ddc/ci
 ddns
 debian
 debug
-debug-files
 debugger
 debugging
 decimal
@@ -1934,7 +1933,6 @@ directory psedition_core psedition_desktop
 directory-transform
 directorymarks
 directoryname
-directorysearcher
 directorysecurity
 directrouting
 direnv
@@ -2150,7 +2148,6 @@ du
 dual-stack
 duck
 duckduckgo
-ducktyping
 dudckduckgo
 duf
 dummy
@@ -2426,6 +2423,7 @@ exchangeonline
 exchangeonlinemanagement
 exchangeonlineprotection
 exchangeonprem
+exchangerate
 exchangeserver
 exchangewebservices
 exclusion
@@ -2599,6 +2597,7 @@ filewrite
 fill
 film
 filter
+filter-item
 filtering
 fim
 fims
@@ -2728,8 +2727,6 @@ frontapp
 frontdoor
 frontrange
 fs
-fsc-ps
-fscps
 fsf
 fsharp
 fslogix
@@ -2751,6 +2748,7 @@ function
 functionality
 functionalprogramming
 functions
+funds
 funny
 fusion
 fusionapps
@@ -2894,7 +2892,6 @@ gitlabpipeline
 gitops
 glimps
 glob
-globalclipboard
 globaldashboard
 globalentry
 globallydistributeddatabase
@@ -3335,6 +3332,7 @@ inboxrule
 incident
 incident-response
 incidentresponse
+incontact
 indents
 index
 indexdb
@@ -3342,7 +3340,6 @@ indicator
 inedo
 inetfwrule
 inetum
-infinity
 influx
 influxdb
 info
@@ -3365,7 +3362,6 @@ initiator
 inline-progress
 inlineprogress
 innerjoin
-innertext
 input
 inputbox
 inputobject
@@ -3453,7 +3449,6 @@ invoke-vsdevcommand
 invokebuild
 invokemethod
 io
-ionos
 ios
 iot
 iotcentral
@@ -3641,7 +3636,6 @@ keymanagement
 keymap
 keymapping
 keypair
-keysms
 keyvault
 keywords
 kibana
@@ -3771,7 +3765,6 @@ licence
 license
 license-generator
 licenseautomation
-licensemanagement
 licensemanager
 licensereport
 licenses
@@ -3812,6 +3805,7 @@ liquit.com
 list
 list_files
 list-directory
+list-item
 listener
 litecoin
 litedb
@@ -3824,6 +3818,7 @@ lmhosts
 lms
 load
 loadbalancer
+loadbalancer.org
 loader
 loadtesting
 loanddepot
@@ -3951,7 +3946,6 @@ macosx
 macro
 macros
 madlib
-magazine
 magento
 magic8ball
 magicpacket
@@ -4017,12 +4011,16 @@ marketing
 marketo
 marketplace
 marketplaceordering
+marketplacepublisher
 marking
 marklogic
 marquee
 marvel
 marvell
 marvell_semiconductor_inc
+marvellfcpowerkit
+marvellfcprovider
+marvellqlogicfcpowerkit
 mas
 mask
 mass
@@ -4054,6 +4052,7 @@ mccs
 mcd
 mchapv2
 mct
+md5
 md5_v2-18678d945a01f01ccd1b01ed86392fd5
 mdatp
 mdb
@@ -4081,6 +4080,7 @@ meesman
 meeting
 meetup
 meetup.com
+meewind
 megabyte
 melamed
 meltdown
@@ -4266,6 +4266,8 @@ mpeg
 mpn
 mrfk
 mrfylke
+mrvl_fc_powerkit
+mrvlfcprovider
 ms_365
 ms-graph
 ms365
@@ -4362,7 +4364,6 @@ myitprocess
 myjson
 myjson.com
 myob
-myposh
 mypstag
 mysql
 mysql-database
@@ -4542,7 +4543,6 @@ nprintingapi
 nps
 npslog
 npslogfile
-nql
 nrc
 nrql
 ns
@@ -4790,7 +4790,6 @@ out-default
 out-gridview
 out-json
 outerjoin
-outertext
 outline
 outlook
 output
@@ -5236,7 +5235,6 @@ powertab
 powertoolcmdlets
 powertooldsc
 ppdm
-ppk
 pposh
 pps
 ppt
@@ -8310,6 +8308,7 @@ psrule-rules
 pssa
 psscriptanalyzer
 psscriptanaylzer
+psscriptsmonitoring
 pssendgrid
 pssession
 pssharper
@@ -8364,6 +8363,7 @@ puppetdb
 puppy
 pure
 pure1
+pureservice
 purestorage
 purple
 purview
@@ -8397,6 +8397,7 @@ python3
 qcloud
 qconvergeconsolepowerkit
 qemu
+qlgc_fc_powerkit
 qlik
 qlik-api
 qlik-sense
@@ -8406,6 +8407,8 @@ qlikview
 qlikview-cli
 qlogic
 qlogicfastlinqpowerkit
+qlogicfcpowerkit
+qlogicfcprovider
 qna
 qol
 qq
@@ -8690,7 +8693,6 @@ restart
 restful
 restore
 resume
-retail
 retention
 retro
 retry
@@ -8943,11 +8945,13 @@ scriptcreation
 scriptcs
 scriptedui
 scripting
+scriptlog
 scriptlogging
 scriptmodule
 scriptoform
 scriptrunner
 scripts
+scriptsmonitoring
 scrolllock
 scrub
 scrubber
@@ -9017,6 +9021,7 @@ seek
 seekatar
 seeshell
 select
+select-item
 select-kubecontext
 select-kubenamespace
 select-string
@@ -9138,6 +9143,7 @@ shadow
 shadowcopy
 shadowcopybackups
 shadowgroups
+shanghaitech
 shard
 share
 share-permission
@@ -9296,6 +9302,7 @@ snmpwalk
 snowflake
 snsmssqlpsmodule
 snspsadgroupmembers
+snspsscriptsmonitoring
 snssqlitepsmodule
 sntp
 soap
@@ -9325,7 +9332,6 @@ solutions
 sonarcloud
 sonarqube
 sonarr
-sonatype
 songs
 sonicwall
 sonicwallvpn
@@ -9486,7 +9492,6 @@ stanc
 standard
 standarderror
 standardoutput
-standards
 stansummary
 start
 start-job
@@ -9615,7 +9620,6 @@ support-tools
 suppress
 supress-reboot
 surestacks
-surround
 survey
 surveymonkey
 sus
@@ -9813,6 +9817,7 @@ test123
 testaccount
 testautomation
 tester
+testimonial
 testing
 testlab
 testplans
@@ -10005,6 +10010,7 @@ trusted-host
 trustedhosts
 trustedinstaller
 trustedrootcertificate
+trustedsigning
 truth
 trx
 ts
@@ -10324,7 +10330,6 @@ vie
 viewer
 vigenere
 vim
-vimode
 virole
 virsh
 virtual
@@ -10352,7 +10357,6 @@ virus
 virustotal
 visio
 visual
-visual-studio
 visualbuilder
 visualc
 visualfields
@@ -10438,7 +10442,6 @@ vss
 vssetup
 vsshell
 vst
-vsteambuilder
 vsteams
 vstest
 vsts
