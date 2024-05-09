@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Wednesday, 08 May 2024 17:51:57 UTC
+Updated: Thursday, 09 May 2024 02:06:19 UTC
 
 .bat
 .env
@@ -14,6 +14,8 @@ Updated: Wednesday, 08 May 2024 17:51:57 UTC
 'provider'
 "interactive
 {modulenameplaceholder}
+**psedition_desktop**
+**windows**
 🍄
 🍣
 💩
@@ -169,6 +171,7 @@ addlevel
 addomainservices
 addon
 address
+address-book
 addresses
 addressrange
 adds
@@ -185,7 +188,6 @@ adgroupmembers
 adgroups
 adidns
 adif
-adlds
 adm
 admf
 admin
@@ -199,7 +201,6 @@ administrativeuser
 administrator
 admintools
 adml
-admpwd
 admx
 ado
 ado_security
@@ -671,8 +672,8 @@ azure-resource-graph
 azure-ssis
 azureactivedirectory
 azuread
-azureadbackupandrestore
 azureadconnect
+azureadgraph
 azureadtoolkit
 azureadvancedthreatprotection
 azureappconfiguration
@@ -688,11 +689,14 @@ azurecli
 azurecodesigning
 azurecognitiveservices
 azurecommonstuff
+azurecontainerapps
+azurecontainers
 azuredatabricks
 azuredataexplorer
 azuredatastudio
 azuredevops
 azuredevops_security
+azuredevopsserver
 azuredns
 azurefilesync
 azurefunctionapp
@@ -724,8 +728,6 @@ azuresecuritycenter
 azureservicebus
 azuresigntool
 azuresql
-azuresqlexport
-azuresqlimport
 azuressas
 azurestack
 azurestackhci
@@ -926,6 +928,7 @@ britannica
 britannicaknowledgesystems
 british-gas
 brk4452
+broadcast
 broadcom
 broot
 brownserve-uk
@@ -1058,7 +1061,6 @@ cdrom
 cds
 cdx
 ce
-celcat
 celerium
 censor
 center
@@ -1086,7 +1088,6 @@ certificateservices
 certificatesmanagement
 certinia
 certutil
-cf
 cfn
 ch9
 change
@@ -1307,6 +1308,7 @@ cognitiveservice
 cognitiveservices
 cohesity
 coinmarketcap
+collaboration
 collatordso
 collatz
 collection
@@ -1709,7 +1711,6 @@ data-uri
 data-uri-converter
 database
 database-migrations
-databaseautomation
 databasemanagement
 databasemigration
 databases
@@ -1767,6 +1768,7 @@ datum
 dave
 davinci
 dax
+dayinweek
 days
 days-week
 db
@@ -1943,8 +1945,6 @@ disable
 disable-internet
 disable-psremoting
 disablefilesyncngsc
-disablestartbutton
-disablestartkey
 disasm
 disasterrecovery
 disconnect
@@ -2195,6 +2195,7 @@ e-mail
 e1
 easy
 easy-to-use
+easylife365
 easyvista
 eaton
 ebay
@@ -2761,7 +2762,6 @@ gainz
 gainz-chocolateysync
 gainz-keepass
 gainz-sqldb
-gal
 gallery
 game
 gamecategory:cards
@@ -2785,7 +2785,6 @@ gcs
 gdap
 gdpr
 gedit
-gem
 gemini
 geminiprotocol
 gemlog
@@ -2893,7 +2892,6 @@ gitlabpipeline
 gitops
 glimps
 glob
-globalclipboard
 globaldashboard
 globalentry
 globallydistributeddatabase
@@ -2918,6 +2916,7 @@ google-chrome
 google-fonts
 google-histogram
 google-sankey
+google-table
 googleadsv2
 googlecloudplatform
 googledrive
@@ -2989,7 +2988,6 @@ guardicore
 gubbins
 guest
 guestconfiguration
-guests
 gui
 gui.cs
 guid
@@ -3008,7 +3006,6 @@ ha
 haarlemsdagblad
 hack
 hacking
-hacktoberfest
 hadoop
 hafr
 hailstone
@@ -3364,7 +3361,6 @@ initiator
 inline-progress
 inlineprogress
 innerjoin
-innertext
 input
 inputbox
 inputobject
@@ -3632,7 +3628,6 @@ key2wocas
 keybase
 keybinding
 keyboard
-keyboardstartkey
 keycipher
 keycloak
 keylight
@@ -3649,7 +3644,6 @@ kidrsa
 kill
 kindle
 kinetic
-kinopoisk
 kintone
 klantcontroles
 kms
@@ -3660,7 +3654,6 @@ knowbe4
 knowledge
 knowledgebase
 koans
-kodi
 korn
 kotlin
 kql
@@ -3952,6 +3945,7 @@ macosx
 macro
 macros
 madlib
+magazine
 magento
 magic8ball
 magicpacket
@@ -3985,7 +3979,6 @@ manageddevices
 manageddisks
 managedidentities
 managedidentity
-managedserviceidenity
 managedserviceidentity
 managedserviceprovider
 managedserviceproviders
@@ -4119,7 +4112,6 @@ messenger
 met
 meta
 metadata
-metadataservice
 metaprogramming
 method
 methodinfo
@@ -4293,11 +4285,13 @@ msft
 msftnet
 msftnetworking
 msg
+msg.exe
 msgbox
 msgraph
 msgraphapi
 msgraphreport
 msgraphstuff
+msgraphtokenlifetimepolicy
 msi
 msi psmodule
 msiexec
@@ -4427,6 +4421,7 @@ netcease
 netcore
 netfirewallrule
 netherlands
+netmask
 nets
 netsapiens
 netscaler
@@ -4794,7 +4789,6 @@ out-default
 out-gridview
 out-json
 outerjoin
-outertext
 outline
 outlook
 output
@@ -5123,7 +5117,6 @@ poshy-wrap-docker
 poshy-wrap-docker-compose
 poshy-wrap-dotnet
 poshy-wrap-forgit
-poshy-wrap-gem
 poshy-wrap-gh
 poshy-wrap-git
 poshy-wrap-git-flow
@@ -5138,7 +5131,6 @@ poshy-wrap-npm
 poshy-wrap-pip
 poshy-wrap-pipenv
 poshy-wrap-pyenv
-poshy-wrap-pylint
 poshy-wrap-python
 poshy-wrap-ruby
 poshy-wrap-systemctl
@@ -5215,7 +5207,6 @@ powershell.module.invokewinget
 powershell.one
 powershell.persistentpathstack
 powershell7
-powershellazuresql
 powershellconferenceeurope
 powershellcore
 powershellcourse
@@ -5254,6 +5245,7 @@ predictive
 predictive-text
 predictor
 preferences
+prefix
 prefixing
 preparead
 preparealldomains
@@ -5794,19 +5786,6 @@ pscommand_gdsth
 pscommand_gdstp
 pscommand_gdt
 pscommand_gdv
-pscommand_geca
-pscommand_gecb
-pscommand_geclup
-pscommand_gecr
-pscommand_gegi
-pscommand_geh
-pscommand_gei
-pscommand_geiall
-pscommand_gein
-pscommand_gel
-pscommand_geli
-pscommand_geo
-pscommand_geoe
 pscommand_get
 pscommand_get-aptinstalledpackages
 pscommand_get-childitemcolorfully
@@ -5874,7 +5853,6 @@ pscommand_get-netipaddresssimple
 pscommand_get-pwshaliasdefinition
 pscommand_get-pwshfunctiondefinition
 pscommand_get-viewer
-pscommand_geun
 pscommand_gexport
 pscommand_gf
 pscommand_gfa
@@ -6148,22 +6126,6 @@ pscommand_invoke-dockercomposeupdetached
 pscommand_invoke-dockercomposeupdetachedwithbuild
 pscommand_invoke-dockercomposeupnostart
 pscommand_invoke-dockercomposeupwithbuild
-pscommand_invoke-gemcertadd
-pscommand_invoke-gemcertbuild
-pscommand_invoke-gemcertremove
-pscommand_invoke-gemcleanupno
-pscommand_invoke-gemgenerateindex
-pscommand_invoke-gemhelp
-pscommand_invoke-geminfo
-pscommand_invoke-geminfoall
-pscommand_invoke-geminstall
-pscommand_invoke-gemlist
-pscommand_invoke-gemlock
-pscommand_invoke-gemopen
-pscommand_invoke-gemopeneditor
-pscommand_invoke-gemremovebypattern
-pscommand_invoke-gemsystem
-pscommand_invoke-gemuninstall
 pscommand_invoke-git
 pscommand_invoke-gitaddinteractivelypatch
 pscommand_invoke-gitbisect
@@ -6407,7 +6369,6 @@ pscommand_invoke-pipinstallupgrade
 pscommand_invoke-piplistoutdated
 pscommand_invoke-pipuninstall
 pscommand_invoke-pyenv
-pscommand_invoke-pylintreportsdisabled
 pscommand_invoke-ruby
 pscommand_invoke-rubyexecute
 pscommand_invoke-rubyexecutehttpdhere
@@ -6896,14 +6857,12 @@ pscommand_pwh
 pscommand_pwshrc-show-proxy
 pscommand_py
 pscommand_pyenv
-pscommand_pylint-quick
 pscommand_pyserver
 pscommand_python
 pscommand_python3
 pscommand_rb
 pscommand_read-dotenv
 pscommand_register-argcompleteargumentcompleter
-pscommand_remove_gem
 pscommand_remove-dockercontainerall
 pscommand_remove-dockerunusedimage
 pscommand_remove-envpathitem
@@ -6963,7 +6922,6 @@ pscommand_set-locationup2
 pscommand_set-locationup3
 pscommand_set-locationup4
 pscommand_set-locationup5
-pscommand_sgem
 pscommand_show-gitremote
 pscommand_show-proxy
 pscommand_shttp
@@ -7181,7 +7139,6 @@ pscredential
 pscribo
 pscustomobject
 psd1
-psdb
 psdefaultparametervalues
 psdeploy
 psdesiredstateconfiguration
@@ -7558,22 +7515,6 @@ psfunction_invoke-dockercomposeupdetached
 psfunction_invoke-dockercomposeupdetachedwithbuild
 psfunction_invoke-dockercomposeupnostart
 psfunction_invoke-dockercomposeupwithbuild
-psfunction_invoke-gemcertadd
-psfunction_invoke-gemcertbuild
-psfunction_invoke-gemcertremove
-psfunction_invoke-gemcleanupno
-psfunction_invoke-gemgenerateindex
-psfunction_invoke-gemhelp
-psfunction_invoke-geminfo
-psfunction_invoke-geminfoall
-psfunction_invoke-geminstall
-psfunction_invoke-gemlist
-psfunction_invoke-gemlock
-psfunction_invoke-gemopen
-psfunction_invoke-gemopeneditor
-psfunction_invoke-gemremovebypattern
-psfunction_invoke-gemsystem
-psfunction_invoke-gemuninstall
 psfunction_invoke-git
 psfunction_invoke-gitaddinteractivelypatch
 psfunction_invoke-gitbisect
@@ -7817,7 +7758,6 @@ psfunction_invoke-pipinstallupgrade
 psfunction_invoke-piplistoutdated
 psfunction_invoke-pipuninstall
 psfunction_invoke-pyenv
-psfunction_invoke-pylintreportsdisabled
 psfunction_invoke-ruby
 psfunction_invoke-rubyexecute
 psfunction_invoke-rubyexecutehttpdhere
@@ -8393,7 +8333,6 @@ pwshrc
 pxedistributionpoint
 pyenv
 pygmentize
-pylint
 pyranja
 python
 python-for-dotnet
@@ -8655,7 +8594,6 @@ reportingservicepoint
 reportingservices
 reportportal
 reportportal.io
-reportrunner
 reports
 repos
 repositories
@@ -8731,6 +8669,7 @@ rgb
 rhapsody
 ribbon
 ribcl
+ricoh
 rightcloud
 rightjoin
 rights
@@ -8848,6 +8787,7 @@ saltstackconfig
 saltstackenterprise
 sam
 saml
+saml psmodule
 saml2
 sample
 sampler
@@ -8966,7 +8906,6 @@ sd
 sddl
 sdk
 sdn
-sdp
 search
 search-adminauditlog
 search-engines
@@ -9049,6 +8988,7 @@ senateur
 send
 send-logtologanalytics
 send-mailmessage
+send-message
 senderid
 sendgrid
 sendkeys
@@ -9420,7 +9360,6 @@ sql-database
 sql-script
 sql-server
 sqlagent
-sqlautomation
 sqlbits
 sqlbrowser
 sqlbulkcopy
@@ -9432,7 +9371,6 @@ sqldatabase
 sqldb
 sqldbatools
 sqldiagapi
-sqlexport
 sqlgateway
 sqlite
 sqlitebynarymodule
@@ -9503,7 +9441,6 @@ start
 start-job
 start-jobthread
 start-threadjob
-startkey
 startmen
 startmenu
 starttls
@@ -9562,8 +9499,6 @@ streak
 stream
 streamanalytics
 streaming
-streamreader
-streamwriter
 stretch
 strictmode
 strikethrough-text
@@ -9625,7 +9560,7 @@ support-tool
 support-tools
 suppress
 supress-reboot
-surround
+surestacks
 survey
 surveymonkey
 sus
@@ -9749,6 +9684,7 @@ taskscheduler
 taxjar
 taxonomy
 tcp
+tcp/ip
 tcpip
 tcpport
 tcprjmgmt
@@ -9864,7 +9800,6 @@ theme
 themes
 thermal
 thermostat
-thinprint
 third-party-libraries
 third-party-notice
 thispc
@@ -9919,6 +9854,7 @@ todo.txt
 toggl
 toggle
 token
+tokenlifetime
 tokens
 toml
 tonoref
@@ -9942,7 +9878,6 @@ totp
 touch
 toughswitch
 tower
-tphubps
 tpm
 tr-064
 tr064
@@ -9996,6 +9931,7 @@ trendmicro
 trevor
 trevorsullivan
 triangle
+tribeloo
 trick
 tricks
 trigger
@@ -10076,7 +10012,6 @@ ud-breadcrumbitem
 ud-burger
 ud-button
 ud-buttonloader
-ud-buttonparticle
 ud-calendar
 ud-circle
 ud-component
@@ -10114,7 +10049,6 @@ ud-step
 ud-stepbar
 ud-stickynavbar
 ud-tagcloud
-ud-timeline
 ud-timeout
 ud-tool
 ud-toploader
@@ -10122,7 +10056,6 @@ ud-trendline
 ud-typing
 ud-window
 ud-wordtree
-udcm
 udfeedback
 udp
 udpclient
@@ -10334,7 +10267,6 @@ vie
 viewer
 vigenere
 vim
-vimode
 virole
 virsh
 virtual
@@ -10565,7 +10497,6 @@ whitespace
 who
 whoami
 whois
-whormi
 wi-fi
 wia
 wia.imagefile
@@ -10696,7 +10627,6 @@ wmipermanentevents
 wol
 wolfram
 wolframalpha
-woocommerce
 woolworths
 woolworthsrewards
 word
