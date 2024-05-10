@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Friday, 10 May 2024 09:51:50 UTC
+Updated: Friday, 10 May 2024 17:51:52 UTC
 
 .bat
 .env
@@ -568,6 +568,7 @@ autify
 auto
 auto_cd
 auto-completion
+autoadapter
 autoattendant
 autocloudarc
 autocomplete
@@ -598,6 +599,7 @@ autotyper
 autounattend
 autoupdate
 autoupdate-script
+autowrapper
 autoyast
 auvik
 availability
@@ -885,6 +887,7 @@ blueteam
 bluetraitio
 bluetuxedo
 bmc
+bnm
 boards
 bofh
 boilerplate
@@ -915,6 +918,8 @@ brainy
 branch
 branch-rename
 brave
+brawlapi
+brawlstars
 brazencloud
 bre
 breach
@@ -1023,6 +1028,7 @@ cardwirth
 cares
 cargo
 carousel
+carrier
 cartoon
 case
 cassandra
@@ -1299,6 +1305,7 @@ codecoverage
 codegen
 codegeneration
 codegenerator
+codellama
 codepoint
 codereview
 codes
@@ -1624,6 +1631,7 @@ ctrl+c
 ctx
 ctype
 cubes
+cudel
 culture
 cumulative
 cumulativeupdate
@@ -1635,6 +1643,7 @@ currency
 currency-convereter
 currency-exchange
 currencyconverterapi
+current
 curseforge
 custom
 customchecks
@@ -1666,6 +1675,7 @@ cx
 cyber
 cyberark
 cyberark-api
+cyberark-dpa
 cyberark-identity
 cyberdrain
 cybereason
@@ -1740,6 +1750,7 @@ datalabelingservicedataplane
 datalake
 datamanipulation
 datamodel
+datanorm
 dataplatform
 datapro
 dataprotection
@@ -1859,7 +1870,6 @@ deserialize
 design
 design-pattern
 desired
-desiredstate
 desiredstateconfiguration
 desk
 desktop
@@ -2148,6 +2158,7 @@ du
 dual-stack
 duck
 duckduckgo
+ducktyping
 dudckduckgo
 duf
 dummy
@@ -2170,6 +2181,7 @@ dword
 dxexpeditions
 dynamic
 dynamic-host-configuration-protocol
+dynamic-privileged-access
 dynamicdistributiongroups
 dynamicdnsoverhttps
 dynamicparam
@@ -2364,6 +2376,7 @@ etl2pcapng
 etrade
 ets
 etw
+eulanda
 evaluator
 evc
 event
@@ -2434,6 +2447,7 @@ execute
 exexml
 exif
 exiftool
+exists
 exitcode
 exitprocessrequest
 exo
@@ -2591,6 +2605,7 @@ filesystemwatcher
 filetransfer
 filetype
 filewrite
+fill
 film
 filter
 filter-item
@@ -3107,6 +3122,7 @@ hidden
 hide
 hids
 hiera
+hierarchialdistributionlist
 hierarchical
 hierarchy
 high-availability
@@ -3432,6 +3448,7 @@ investment
 investments
 invitation
 invocation
+invoice
 invoke
 invoke-asadmin
 invoke-asadministrator
@@ -3645,6 +3662,7 @@ kidrsa
 kill
 kindle
 kinetic
+kinopoisk
 kintone
 klantcontroles
 kms
@@ -3655,6 +3673,7 @@ knowbe4
 knowledge
 knowledgebase
 koans
+kodi
 korn
 kotlin
 kql
@@ -3747,6 +3766,7 @@ legends
 lego
 lein
 leiningnen
+lemonai
 lenel
 length
 lenovo
@@ -3810,6 +3830,7 @@ litecoin
 litedb
 literature
 live
+llama2
 lldp
 lmhost
 lmhosts
@@ -3832,6 +3853,7 @@ locale
 localgroup
 localgroupmember
 localization
+localpolicy
 location
 locationbasedservices
 lock
@@ -3909,6 +3931,7 @@ look
 lookup
 loop
 loopback
+loremipsum
 love
 lovequotes
 lpsiamol
@@ -3942,6 +3965,7 @@ macosx
 macro
 macros
 madlib
+magazine
 magento
 magic8ball
 magicpacket
@@ -4083,6 +4107,7 @@ meltdown
 mem
 member
 members
+membership
 memcm
 memory
 memorydump
@@ -4223,6 +4248,7 @@ moduleupdateinfo
 moduleupdater
 moduleversion
 mof
+moldova
 moment
 monaco
 monday
@@ -4611,6 +4637,7 @@ odbc
 odfb
 odin
 odoo
+oem-charset
 offboarding
 offence
 office
@@ -4637,6 +4664,7 @@ old
 older
 ole
 oledb
+ollama
 omaha
 ome
 omnisphere
@@ -5130,6 +5158,7 @@ poshy-wrap-pipenv
 poshy-wrap-pyenv
 poshy-wrap-pylint
 poshy-wrap-python
+poshy-wrap-ruby
 poshy-wrap-systemctl
 poshy-wrap-terraform
 poshy-wrap-terragrunt
@@ -6398,6 +6427,9 @@ pscommand_invoke-piplistoutdated
 pscommand_invoke-pipuninstall
 pscommand_invoke-pyenv
 pscommand_invoke-pylintreportsdisabled
+pscommand_invoke-ruby
+pscommand_invoke-rubyexecute
+pscommand_invoke-rubyexecutehttpdhere
 pscommand_invoke-systemctl-add-requires
 pscommand_invoke-systemctl-add-wants
 pscommand_invoke-systemctl-cancel
@@ -6887,6 +6919,7 @@ pscommand_pylint-quick
 pscommand_pyserver
 pscommand_python
 pscommand_python3
+pscommand_rb
 pscommand_read-dotenv
 pscommand_register-argcompleteargumentcompleter
 pscommand_remove_gem
@@ -6914,6 +6947,8 @@ pscommand_reset-gitworkingtreetolastcommitlosechanges
 pscommand_reset-gitworkingtreetolastcommitlosechangesandcleanfully
 pscommand_resume-gitbranchbaseupdate
 pscommand_resume-gitcherrypick
+pscommand_rrun
+pscommand_rserver
 pscommand_sc-disable-now
 pscommand_sc-enable-now
 pscommand_sc-mask-now
@@ -7802,6 +7837,9 @@ psfunction_invoke-piplistoutdated
 psfunction_invoke-pipuninstall
 psfunction_invoke-pyenv
 psfunction_invoke-pylintreportsdisabled
+psfunction_invoke-ruby
+psfunction_invoke-rubyexecute
+psfunction_invoke-rubyexecutehttpdhere
 psfunction_invoke-systemctl-add-requires
 psfunction_invoke-systemctl-add-wants
 psfunction_invoke-systemctl-cancel
@@ -8349,6 +8387,7 @@ puppetdb
 puppy
 pure
 pure1
+pureservice
 purestorage
 purple
 purview
@@ -8487,6 +8526,7 @@ rdsgw
 react-stockcharts
 read
 read-slog
+readable
 reader
 readiness
 readme
@@ -8791,12 +8831,14 @@ runbook
 runbooks
 runbookstudio
 runcommand
+rundeck
 runner
 runspace
 runspacepool
 runspaces
 runtimedefinedparameter
 runtimedefinedparameterdictionary
+runway
 russia
 rust
 rust-lang
@@ -9157,6 +9199,7 @@ shipstation
 shlink
 shodan
 shodanps
+shop
 shopify
 shortcut
 shortcuts
@@ -9235,6 +9278,7 @@ slash
 slashcommands
 slmgr
 sln
+slugify
 sm
 sma
 small_web
@@ -9387,6 +9431,7 @@ sports-tracker
 spotify
 spotify-api
 spotlight
+spotlightimages
 spp
 spread
 spreadsheet
@@ -9400,6 +9445,7 @@ sql-server
 sqlagent
 sqlautomation
 sqlbits
+sqlbrowser
 sqlbulkcopy
 sqlchangeautomation
 sqlclient
@@ -9534,6 +9580,7 @@ storedcredentials
 storefront
 storeonce
 storeserv
+strava
 streak
 stream
 streamanalytics
@@ -9593,6 +9640,7 @@ sullivan
 summary
 summit
 sumologic
+supercell
 superheros
 supermarket
 support
@@ -9823,6 +9871,7 @@ textbuffer
 texting
 texting-emoji
 texting-emojis
+textprocessing
 textwrapping
 tfe
 tfenv
@@ -10546,6 +10595,7 @@ whois
 whormi
 wi-fi
 wia
+wia.imagefile
 wid
 widedata
 wif
