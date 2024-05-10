@@ -3,6 +3,230 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [AdminToolbox](https://www.powershellgallery.com/Packages/AdminToolbox/11.0.158) | 11.0.158
+
+### Published: 05/10/2024 17:34:00 by Taylor Lee
+
+Master module for a collection of modules. These modules are varied in their tasks. The overall purpose of them being to provide a powerfull Toolset to improve IT Admin workflows.
+
+__Downloads__: 50,631 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox
+
+## [AdminToolbox.FortiWizard](https://www.powershellgallery.com/Packages/AdminToolbox.FortiWizard/2.19.5) | 2.19.5
+
+### Published: 05/10/2024 17:33:48 by Taylor Lee
+
+Functions that generate configuration scripts and manage FortiOS.
+
+__Downloads__: 30,050 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [AdminToolbox.VMWareAutomate](https://www.powershellgallery.com/Packages/AdminToolbox.VMWareAutomate/4.8.147) | 4.8.147
+
+### Published: 05/10/2024 17:32:43 by Taylor Lee
+
+Functions to Automate Bulk VMWare Tasks
+
+__Downloads__: 36,966 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [AdminToolbox.Remoting](https://www.powershellgallery.com/Packages/AdminToolbox.Remoting/1.9.150) | 1.9.150
+
+### Published: 05/10/2024 17:32:39 by Taylor Lee
+
+Functions for remote management and access.
+
+__Downloads__: 36,798 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [AdminToolbox.Office365](https://www.powershellgallery.com/Packages/AdminToolbox.Office365/4.0.10) | 4.0.10
+
+### Published: 05/10/2024 17:32:35 by Taylor Lee
+
+Functions for working with Office365 and Azure modules
+
+__Downloads__: 39,155 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [AdminToolbox.Networking](https://www.powershellgallery.com/Packages/AdminToolbox.Networking/2.19.1) | 2.19.1
+
+### Published: 05/10/2024 17:32:31 by Taylor Lee
+
+Network Troubleshooting Functions
+
+__Downloads__: 99,662 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [AdminToolbox.MSGraph](https://www.powershellgallery.com/Packages/AdminToolbox.MSGraph/1.3.4) | 1.3.4
+
+### Published: 05/10/2024 17:32:25 by Taylor Lee
+
+Microsoft Graph interactive API Functions
+
+__Downloads__: 26,862 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [AdminToolbox.Fun](https://www.powershellgallery.com/Packages/AdminToolbox.Fun/1.6.151) | 1.6.151
+
+### Published: 05/10/2024 17:32:21 by Taylor Lee
+
+Functions that have no purpose
+
+__Downloads__: 37,343 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [AdminToolbox.FileManagement](https://www.powershellgallery.com/Packages/AdminToolbox.FileManagement/1.16.142) | 1.16.142
+
+### Published: 05/10/2024 17:32:17 by Taylor Lee
+
+File Management Functions
+
+__Downloads__: 37,807 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [AdminToolbox.FFTools](https://www.powershellgallery.com/Packages/AdminToolbox.FFTools/4.16.100) | 4.16.100
+
+### Published: 05/10/2024 17:32:13 by Taylor Lee
+
+Expedite simple ffmpeg actions
+
+__Downloads__: 37,709 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [AdminToolbox.Exchange](https://www.powershellgallery.com/Packages/AdminToolbox.Exchange/1.9.151) | 1.9.151
+
+### Published: 05/10/2024 17:32:09 by Taylor Lee
+
+Functions for Exchange Management
+
+__Downloads__: 38,946 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [AdminToolbox.EndpointManagement](https://www.powershellgallery.com/Packages/AdminToolbox.EndpointManagement/4.10.28) | 4.10.28
+
+### Published: 05/10/2024 17:32:04 by Taylor Lee
+
+Functions for management of endpoints
+
+__Downloads__: 45,109 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [AdminToolbox.ActiveDirectory](https://www.powershellgallery.com/Packages/AdminToolbox.ActiveDirectory/1.10.12) | 1.10.12
+
+### Published: 05/10/2024 17:31:58 by Taylor Lee
+
+Functions for Active Directory
+
+__Downloads__: 46,162 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [PowerShell.DynamicBatch](https://www.powershellgallery.com/Packages/PowerShell.DynamicBatch/1.68) | 1.68
+
+### Published: 05/10/2024 16:49:45 by HT
+
+Dynamically loads batch job configurations and executes the job.
+
+__Downloads__: 505 | __Repository__: 
+
+## [tatux.telemetry](https://www.powershellgallery.com/Packages/tatux.telemetry/0.0.16) | 0.0.16
+
+### Published: 05/10/2024 16:34:10 by Nigel Tatschner
+
+Functions to perform telemetry collections for my suite of modules allowing for improvements to my code
+
+__Downloads__: 48 | __Repository__: https://github.com/ntatschner/Tatux.Telemetry
+
+## [ADEssentials](https://www.powershellgallery.com/Packages/ADEssentials/0.0.207) | 0.0.207
+
+### Published: 05/10/2024 16:06:38 by Przemyslaw Klys
+
+Helper module for Active Directory with lots of useful functions that simplify supporting Active Directory.
+
+__Downloads__: 212,326 | __Repository__: https://github.com/EvotecIT/ADEssentials
+
+## [powershell-designer](https://www.powershellgallery.com/Packages/powershell-designer/2.4.0) | 2.4.0
+
+### Published: 05/10/2024 15:04:06 by Brandon Cunningham
+
+The best free form designer for powershell.
+
+__Downloads__: 7,815 | __Repository__: https://github.com/brandoncomputer/powershell-designer
+
+## [Tatux.Utils](https://www.powershellgallery.com/Packages/Tatux.Utils/0.2.54) | 0.2.54
+
+### Published: 05/10/2024 15:02:12 by Nigel Tatschner
+
+A Set of utilities ive created to help with various tasks
+
+__Downloads__: 637 | __Repository__: 
+
+## [tatux.intune.packaging](https://www.powershellgallery.com/Packages/tatux.intune.packaging/0.9.0.57) | 0.9.0.57
+
+### Published: 05/10/2024 15:01:41 by Nigel Tatschner
+
+A set of functions designed to package and deploy Application packages to Microsoft Intune.
+
+__Downloads__: 140 | __Repository__: 
+
+## [PowerInfoblox](https://www.powershellgallery.com/Packages/PowerInfoblox/1.0.17) | 1.0.17
+
+### Published: 05/10/2024 14:25:03 by Przemyslaw Klys
+
+Helper module for Infoblox.
+
+__Downloads__: 145 | __Repository__: https://github.com/EvotecIT/PowerInfoblox
+
+## [Devolutions.PowerShell](https://www.powershellgallery.com/Packages/Devolutions.PowerShell/2024.1.5) | 2024.1.5
+
+### Published: 05/10/2024 13:50:31 by Devolutions
+
+The Devolutions.PowerShell module is a set of cmdlets that allow administrators to manage Remote Desktop Manager, Devolutions Server and Devolutions Hub Business using PowerShell. This module provides a simple and consistent interface for interacting with these products, making it easy to automate various tasks, such as creating and managing connections, sessions, and credentials, configuring security settings, and generating reports. The module can be easily integrated with other PowerShell modules, allowing administrators to automate tasks across multiple products and platforms, streamline their workflows and increase efficiency.
+
+__Downloads__: 65,583 | __Repository__: https://devolutions.net/
+
+## [Zerto.ZvmLinux.Commandlets](https://www.powershellgallery.com/Packages/Zerto.ZvmLinux.Commandlets/1.1041.0) | 1.1041.0
+
+### Published: 05/10/2024 13:36:18 by Zerto Ltd.
+
+Zerto PowerShell Commandlets
+
+__Downloads__: 238 | __Repository__: https://www.zerto.com/
+
+## [UiPathOrch](https://www.powershellgallery.com/Packages/UiPathOrch/0.8.10.8) | 0.8.10.8
+
+### Published: 05/10/2024 13:00:53 by Yoshifumi Tsuda
+
+A PowerShell provider for managing UiPath Orchestrator entities via cmdlets.
+
+__Downloads__: 426 | __Repository__: 
+
+## [TCC_Utilities-Module](https://www.powershellgallery.com/Packages/TCC_Utilities-Module/1.0) | 1.0
+
+### Published: 05/10/2024 12:57:19 by TCC
+
+TCC Utilities Module
+
+__Downloads__: 0 | __Repository__: 
+
+## [CoveBackupApi](https://www.powershellgallery.com/Packages/CoveBackupApi/0.0.7) | 0.0.7
+
+### Published: 05/10/2024 12:34:32 by Chris Foulstone
+
+A Powershell module to interact with the Cove JSON API
+
+__Downloads__: 58 | __Repository__: https://github.com/impelling/CoveBackupApi
+
+## [ShellGPT](https://www.powershellgallery.com/Packages/ShellGPT/1.3.5) | 1.3.5
+
+### Published: 05/10/2024 12:20:12 by Yanik Maurer
+
+Command-line tool that provides an easy-to-use interface for accessing OpenAIs GPT API using PowerShell. It makes it easy to access the full potential of GPT-3 from the comfort of your command line and within your scripts and automations. GitHub Repo: https://github.com/yamautomate/PowerGPT
+
+__Downloads__: 1,857 | __Repository__: 
+
+## [QAToolModule](https://www.powershellgallery.com/Packages/QAToolModule/1.1.2) | 1.1.2
+
+### Published: 05/10/2024 12:19:37 by NakulBhargava
+
+Simple project to create Microsoft Word in PowerShell without having Office installed.
+
+__Downloads__: 0 | __Repository__: 
+
+## [PSTableauREST](https://www.powershellgallery.com/Packages/PSTableauREST/0.7.5) | 0.7.5
+
+### Published: 05/10/2024 10:40:12 by Andrey Sluzhivoy
+
+This PowerShell module facilitates working with Tableau REST API for automation tasks. Most functions are implemented as wrappers for the corresponding API calls.
+
+__Downloads__: 107 | __Repository__: https://github.com/asluzh/PSTableauREST
+
 ## [Maester](https://www.powershellgallery.com/Packages/Maester/0.0.127) | 0.0.127
 
 ### Published: 05/10/2024 08:18:11 by Maester
@@ -88,22 +312,6 @@ Client for the Windmill platform.
 
 __Downloads__: 111 | __Repository__: https://github.com/windmill-labs/windmill/tree/main/powershell-client
 
-## [UiPathOrch](https://www.powershellgallery.com/Packages/UiPathOrch/0.8.10.7) | 0.8.10.7
-
-### Published: 05/09/2024 23:32:23 by Yoshifumi Tsuda
-
-A PowerShell provider for managing UiPath Orchestrator entities via cmdlets.
-
-__Downloads__: 426 | __Repository__: 
-
-## [tatux.intune.packaging](https://www.powershellgallery.com/Packages/tatux.intune.packaging/0.9.0.51) | 0.9.0.51
-
-### Published: 05/09/2024 20:23:00 by Nigel Tatschner
-
-A set of functions designed to package and deploy Application packages to Microsoft Intune.
-
-__Downloads__: 140 | __Repository__: 
-
 ## [fscps.tools](https://www.powershellgallery.com/Packages/fscps.tools/0.1.188) | 0.1.188
 
 ### Published: 05/09/2024 20:19:09 by Oleksandr Nikolaiev
@@ -112,14 +320,6 @@ fscps.tools
 
 __Downloads__: 1,117 | __Repository__: https://github.com/fscpscollaborative/fscps.tools
 
-## [tatux.telemetry](https://www.powershellgallery.com/Packages/tatux.telemetry/0.0.14) | 0.0.14
-
-### Published: 05/09/2024 18:06:32 by Nigel Tatschner
-
-Functions to perform telemetry collections for my suite of modules allowing for improvements to my code
-
-__Downloads__: 48 | __Repository__: https://github.com/ntatschner/Tatux.Telemetry
-
 ## [BinaryTree.Internal.Power365.ST](https://www.powershellgallery.com/Packages/BinaryTree.Internal.Power365.ST/20.12.15.114) | 20.12.15.114
 
 ### Published: 05/09/2024 17:59:56 by BinaryTreePackagePublisher
@@ -127,14 +327,6 @@ __Downloads__: 48 | __Repository__: https://github.com/ntatschner/Tatux.Telemetr
 PowerShell Management cmdlets for Binary Tree Power365
 
 __Downloads__: 1,071 | __Repository__: 
-
-## [powershell-designer](https://www.powershellgallery.com/Packages/powershell-designer/2.3.8) | 2.3.8
-
-### Published: 05/09/2024 17:57:49 by Brandon Cunningham
-
-The best free form designer for powershell.
-
-__Downloads__: 7,815 | __Repository__: https://github.com/brandoncomputer/powershell-designer
 
 ## [WFControlsLIB](https://www.powershellgallery.com/Packages/WFControlsLIB/2.0.8) | 2.0.8
 
@@ -192,14 +384,6 @@ Automatically right sizes any Azure Windows VM based on configurable telemetry d
 
 __Downloads__: 1,106 | __Repository__: https://www.lieben.nu/liebensraum/2022/05/automatic-modular-rightsizing-of-azure-vms-with-special-focus-on-azure-virtual-desktop/
 
-## [ADEssentials](https://www.powershellgallery.com/Packages/ADEssentials/0.0.206) | 0.0.206
-
-### Published: 05/09/2024 06:01:00 by Przemyslaw Klys
-
-Helper module for Active Directory with lots of useful functions that simplify supporting Active Directory.
-
-__Downloads__: 212,326 | __Repository__: https://github.com/EvotecIT/ADEssentials
-
 ## [FarNet.Redis](https://www.powershellgallery.com/Packages/FarNet.Redis/0.7.4) | 0.7.4
 
 ### Published: 05/09/2024 04:54:52 by Roman Kuzmin
@@ -256,110 +440,6 @@ Upgrades all public IP addresses attached to a VM to Standard SKU.
 
 __Downloads__: 851 | __Repository__: https://github.com/Azure/AzLoadBalancerMigration
 
-## [AdminToolbox](https://www.powershellgallery.com/Packages/AdminToolbox/11.0.157) | 11.0.157
-
-### Published: 05/08/2024 14:16:21 by Taylor Lee
-
-Master module for a collection of modules. These modules are varied in their tasks. The overall purpose of them being to provide a powerfull Toolset to improve IT Admin workflows.
-
-__Downloads__: 50,631 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox
-
-## [AdminToolbox.FortiWizard](https://www.powershellgallery.com/Packages/AdminToolbox.FortiWizard/2.19.4) | 2.19.4
-
-### Published: 05/08/2024 14:15:35 by Taylor Lee
-
-Functions that generate configuration scripts and manage FortiOS.
-
-__Downloads__: 30,050 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-## [AdminToolbox.VMWareAutomate](https://www.powershellgallery.com/Packages/AdminToolbox.VMWareAutomate/4.8.146) | 4.8.146
-
-### Published: 05/08/2024 14:14:27 by Taylor Lee
-
-Functions to Automate Bulk VMWare Tasks
-
-__Downloads__: 36,966 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-## [AdminToolbox.Remoting](https://www.powershellgallery.com/Packages/AdminToolbox.Remoting/1.9.149) | 1.9.149
-
-### Published: 05/08/2024 14:14:23 by Taylor Lee
-
-Functions for remote management and access.
-
-__Downloads__: 36,798 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-## [AdminToolbox.Office365](https://www.powershellgallery.com/Packages/AdminToolbox.Office365/4.0.9) | 4.0.9
-
-### Published: 05/08/2024 14:14:20 by Taylor Lee
-
-Functions for working with Office365 and Azure modules
-
-__Downloads__: 39,155 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-## [AdminToolbox.Networking](https://www.powershellgallery.com/Packages/AdminToolbox.Networking/2.18.57) | 2.18.57
-
-### Published: 05/08/2024 14:14:16 by Taylor Lee
-
-Network Troubleshooting Functions
-
-__Downloads__: 99,662 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-## [AdminToolbox.MSGraph](https://www.powershellgallery.com/Packages/AdminToolbox.MSGraph/1.3.3) | 1.3.3
-
-### Published: 05/08/2024 14:14:13 by Taylor Lee
-
-Microsoft Graph interactive API Functions
-
-__Downloads__: 26,862 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-## [AdminToolbox.Fun](https://www.powershellgallery.com/Packages/AdminToolbox.Fun/1.6.150) | 1.6.150
-
-### Published: 05/08/2024 14:14:09 by Taylor Lee
-
-Functions that have no purpose
-
-__Downloads__: 37,343 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-## [AdminToolbox.FileManagement](https://www.powershellgallery.com/Packages/AdminToolbox.FileManagement/1.16.141) | 1.16.141
-
-### Published: 05/08/2024 14:14:05 by Taylor Lee
-
-File Management Functions
-
-__Downloads__: 37,807 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-## [AdminToolbox.FFTools](https://www.powershellgallery.com/Packages/AdminToolbox.FFTools/4.16.99) | 4.16.99
-
-### Published: 05/08/2024 14:14:01 by Taylor Lee
-
-Expedite simple ffmpeg actions
-
-__Downloads__: 37,709 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-## [AdminToolbox.Exchange](https://www.powershellgallery.com/Packages/AdminToolbox.Exchange/1.9.150) | 1.9.150
-
-### Published: 05/08/2024 14:13:58 by Taylor Lee
-
-Functions for Exchange Management
-
-__Downloads__: 38,946 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-## [AdminToolbox.EndpointManagement](https://www.powershellgallery.com/Packages/AdminToolbox.EndpointManagement/4.10.27) | 4.10.27
-
-### Published: 05/08/2024 14:13:53 by Taylor Lee
-
-Functions for management of endpoints
-
-__Downloads__: 45,109 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-## [AdminToolbox.ActiveDirectory](https://www.powershellgallery.com/Packages/AdminToolbox.ActiveDirectory/1.10.11) | 1.10.11
-
-### Published: 05/08/2024 14:13:46 by Taylor Lee
-
-Functions for Active Directory
-
-__Downloads__: 46,162 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
 ## [PSCitrix](https://www.powershellgallery.com/Packages/PSCitrix/2.0.0) | 2.0.0
 
 ### Published: 05/08/2024 13:03:40 by eswaras
@@ -375,14 +455,6 @@ __Downloads__: 4 | __Repository__:
 Automation tools for production quality database deployment
 
 __Downloads__: 5,426,953 | __Repository__: https://www.red-gate.com/sca/productpage
-
-## [Tatux.Utils](https://www.powershellgallery.com/Packages/Tatux.Utils/0.2.52) | 0.2.52
-
-### Published: 05/08/2024 12:25:06 by Nigel Tatschner
-
-A Set of utilities ive created to help with various tasks
-
-__Downloads__: 637 | __Repository__: 
 
 ## [CTGlobal.Insight.Analytics](https://www.powershellgallery.com/Packages/CTGlobal.Insight.Analytics/0.4.0) | 0.4.0
 
@@ -408,14 +480,6 @@ Gestor de màquines virtuals
 
 __Downloads__: 16 | __Repository__: https://gitlab.com/xtec/box/
 
-## [PowerInfoblox](https://www.powershellgallery.com/Packages/PowerInfoblox/1.0.15) | 1.0.15
-
-### Published: 05/08/2024 09:38:14 by Przemyslaw Klys
-
-Helper module for Infoblox.
-
-__Downloads__: 145 | __Repository__: https://github.com/EvotecIT/PowerInfoblox
-
 ## [DisplayConfig](https://www.powershellgallery.com/Packages/DisplayConfig/1.0.6) | 1.0.6
 
 ### Published: 05/08/2024 08:49:10 by MartinGC94
@@ -423,14 +487,6 @@ __Downloads__: 145 | __Repository__: https://github.com/EvotecIT/PowerInfoblox
 Manage Windows display settings like resolution, DPI scale, HDR and more.
 
 __Downloads__: 1,813 | __Repository__: https://github.com/MartinGC94/DisplayConfig
-
-## [PSTableauREST](https://www.powershellgallery.com/Packages/PSTableauREST/0.7.4) | 0.7.4
-
-### Published: 05/08/2024 08:47:54 by Andrey Sluzhivoy
-
-This PowerShell module facilitates working with Tableau REST API for automation tasks. Most functions are implemented as wrappers for the corresponding API calls.
-
-__Downloads__: 107 | __Repository__: https://github.com/asluzh/PSTableauREST
 
 ## [Devdeer.Caf](https://www.powershellgallery.com/Packages/Devdeer.Caf/0.5.3) | 0.5.3
 
@@ -1765,14 +1821,6 @@ PowerShell helper to use Okta API
 
 __Downloads__: 239 | __Repository__: 
 
-## [PowerShell.DynamicBatch](https://www.powershellgallery.com/Packages/PowerShell.DynamicBatch/1.66) | 1.66
-
-### Published: 05/06/2024 22:26:08 by HT
-
-Dynamically loads batch job configurations and executes the job.
-
-__Downloads__: 505 | __Repository__: 
-
 ## [alias-tips](https://www.powershellgallery.com/Packages/alias-tips/1.1.0) | 1.1.0
 
 ### Published: 05/06/2024 21:20:14 by Cody Duong
@@ -1828,6 +1876,14 @@ __Downloads__: 105 | __Repository__:
 Manage PIM Azure Resource, PIM Entra role and PIM for Group settings and assignments with simplicity in mind
 
 __Downloads__: 1,598 | __Repository__: https://github.com/kayasax/EasyPIM/
+
+## [Wait-Net](https://www.powershellgallery.com/Packages/Wait-Net/0.1.2) | 0.1.2
+
+### Published: 05/06/2024 17:23:22 by Sedat Kapanoglu
+
+Provides cmdlets to diagnose Internet connectivity
+
+__Downloads__: 7 | __Repository__: 
 
 ## [sdp](https://www.powershellgallery.com/Packages/sdp/1.4.5) | 1.4.5
 
@@ -1965,107 +2021,4 @@ Virima JEA Configuration Setup.
 
 __Downloads__: 5 | __Repository__: 
 
-## [Rods-Tools](https://www.powershellgallery.com/Packages/Rods-Tools/24.5.5.0) | 24.5.5.0
-
-### Published: 05/05/2024 23:05:43 by Rod Hatley
-
-Rods Tools
-
-__Downloads__: 857 | __Repository__: 
-
-## [code365scripts.openai](https://www.powershellgallery.com/Packages/code365scripts.openai/3.0.0.3) | 3.0.0.3
-
-### Published: 05/05/2024 14:28:26 by chenxizhang
-
-The non-official OpenAI PowerShell module. This module is used to interact with OpenAI API.
-
-__Downloads__: 55,197 | __Repository__: https://github.com/chenxizhang/openai-powershell/
-
-## [QAModule](https://www.powershellgallery.com/Packages/QAModule/1.1.0) | 1.1.0
-
-### Published: 05/05/2024 14:10:51 by Nakul Bhargava
-
-Simple project to create Microsoft Word in PowerShell without having Office installed.
-
-__Downloads__: 1 | __Repository__: 
-
-## [Evergreen](https://www.powershellgallery.com/Packages/Evergreen/2405.994) | 2405.994
-
-### Published: 05/05/2024 12:05:58 by Aaron Parker
-
-Create evergreen Windows image builds with the latest versions of applications. Evergreen is a simple PowerShell module that retrieves the latest version numbers and download URLs for various software products directly from the vendor source.
-
-__Downloads__: 3,080,933 | __Repository__: https://stealthpuppy.com/evergreen/
-
-## [AVDManagementFramework](https://www.powershellgallery.com/Packages/AVDManagementFramework/1.0.86) | 1.0.86
-
-### Published: 05/05/2024 09:46:06 by Willy Moselhy
-
-Azure Virtual Desktop Management Framework
-
-__Downloads__: 1,399 | __Repository__: 
-
-## [NoUselessTech.PowerShellHelpers](https://www.powershellgallery.com/Packages/NoUselessTech.PowerShellHelpers/0.0.5) | 0.0.5
-
-### Published: 05/05/2024 05:48:35 by nouselesstech
-
-A collection of PowerShellHelpers for various tasks.
-
-__Downloads__: 23 | __Repository__: https://github.com/NoUselessTech/PowerShellHelpers
-
-## [Harden-Windows-Security-Module](https://www.powershellgallery.com/Packages/Harden-Windows-Security-Module/0.4.0) | 0.4.0
-
-### Published: 05/04/2024 20:12:19 by HotCakeX
-
-Harden Windows Safely, Securely, only with Official Microsoft methods
-
-⭕ This module provides 3 main features: Hardening, Auditing/checking the system compliance, and undoing the Hardening
-
-⭕ Please read the GitHub's readme before running this module: https://github.com/HotCakeX/Harden-Windows-Security
-
-💜 GUI (Graphical User Interface) is Available! Run (Protect-WindowsSecurity -GUI) to use the GUI instead of the CLI experience.
-
-💠 Features of this module:
-
-  ✅ Everything always stays up-to-date with the newest proactive security measures that are industry standards and scalable.
-  ✅ Everything is in plain text, nothing hidden, no 3rd party executable or pre-compiled binary is involved.
-  ✅ No Windows functionality is removed/disabled against Microsoft's recommendations.
-  ✅ The module primarily uses Group policies, the Microsoft recommended way of configuring Windows. It also uses PowerShell cmdlets where Group Policies aren't available, and finally uses a few registry keys to configure security measures that can neither be configured using Group Policies nor PowerShell cmdlets. This is why the module doesn't break anything or cause unwanted behavior.
-  ✅ When a hardening measure is no longer necessary because it's applied by default by Microsoft on new builds of Windows, it will also be removed from the module in order to prevent any problems and because it won't be necessary anymore.
-  ✅ The module can be run infinite number of times, it's made in a way that it won't make any duplicate changes.
-  ✅ The module prompts for confirmation before running each hardening category.
-  ✅ Applying these hardening measures makes your PC compliant with Microsoft Security Baselines and Secured-core PC specifications (provided that you use modern hardware that supports the latest Windows security features)
-
-💠 Hardening Categories from top to bottom: (⬇️Detailed info about each of them at my Github⬇️)
-
-⏹ Commands that require Administrator Privileges
-  ✅ Microsoft Security Baselines
-  ✅ Microsoft 365 Apps Security Baselines
-  ✅ Microsoft Defender
-  ✅ Attack surface reduction rules
-  ✅ Bitlocker Settings
-  ✅ TLS Security
-  ✅ Lock Screen
-  ✅ UAC (User Account Control)
-  ✅ Windows Firewall
-  ✅ Optional Windows Features
-  ✅ Windows Networking
-  ✅ Miscellaneous Configurations
-  ✅ Windows Update Configurations
-  ✅ Edge Browser Configurations
-  ✅ Certificate Checking Commands
-  ✅ Country IP Blocking
-  ✅ Downloads Defense Measures
-⏹ Commands that don't require Administrator Privileges
-  ✅ Non-Admin Commands that only affect the current user and do not make machine-wide changes.
-
-
-💎 This module has hybrid mode of operation. It can run Interactively and non-interactively (Silent/unattended mode). More info in the document: https://github.com/HotCakeX/Harden-Windows-Security/wiki/Harden%E2%80%90Windows%E2%80%90Security%E2%80%90Module
-
-🏴 If you have any questions, requests, suggestions etc. about this module, please open a new Discussion or Issue on GitHub
-
-🟡 The module generates a nice output on the screen as well as giving users an option to export the results in a CSV file.
-
-__Downloads__: 12,328 | __Repository__: https://github.com/HotCakeX/Harden-Windows-Security
-
-*Updated: Friday, 10 May 2024 09:51:42 UTC*
+*Updated: Friday, 10 May 2024 17:51:45 UTC*
