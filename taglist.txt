@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Friday, 10 May 2024 02:07:38 UTC
+Updated: Friday, 10 May 2024 09:51:50 UTC
 
 .bat
 .env
@@ -355,6 +355,7 @@ ansible-control-node
 ansible-playbook
 ansible-vault
 ansiblecontrolnode
+anti-malware
 antimalwarescaninterface
 antispam
 antivirus
@@ -567,7 +568,6 @@ autify
 auto
 auto_cd
 auto-completion
-autoadapter
 autoattendant
 autocloudarc
 autocomplete
@@ -598,7 +598,6 @@ autotyper
 autounattend
 autoupdate
 autoupdate-script
-autowrapper
 autoyast
 auvik
 availability
@@ -609,6 +608,8 @@ avd
 ave
 avepoint
 avi
+avm
+avmtools
 avro
 avs
 avset
@@ -672,6 +673,7 @@ azure-resource-graph
 azure-ssis
 azureactivedirectory
 azuread
+azureadbackupandrestore
 azureadconnect
 azureadgraph
 azureadtoolkit
@@ -883,7 +885,6 @@ blueteam
 bluetraitio
 bluetuxedo
 bmc
-bnm
 boards
 bofh
 boilerplate
@@ -914,8 +915,6 @@ brainy
 branch
 branch-rename
 brave
-brawlapi
-brawlstars
 brazencloud
 bre
 breach
@@ -1024,7 +1023,6 @@ cardwirth
 cares
 cargo
 carousel
-carrier
 cartoon
 case
 cassandra
@@ -1049,6 +1047,9 @@ ccm
 cd
 cd_path
 cd-
+cd-back
+cd-forward
+cd-up
 cd+
 cdable_vars
 cdata
@@ -1298,7 +1299,6 @@ codecoverage
 codegen
 codegeneration
 codegenerator
-codellama
 codepoint
 codereview
 codes
@@ -1624,7 +1624,6 @@ ctrl+c
 ctx
 ctype
 cubes
-cudel
 culture
 cumulative
 cumulativeupdate
@@ -1636,7 +1635,6 @@ currency
 currency-convereter
 currency-exchange
 currencyconverterapi
-current
 curseforge
 custom
 customchecks
@@ -1668,7 +1666,6 @@ cx
 cyber
 cyberark
 cyberark-api
-cyberark-dpa
 cyberark-identity
 cyberdrain
 cybereason
@@ -1743,7 +1740,6 @@ datalabelingservicedataplane
 datalake
 datamanipulation
 datamodel
-datanorm
 dataplatform
 datapro
 dataprotection
@@ -1771,6 +1767,7 @@ datum
 dave
 davinci
 dax
+dayinweek
 days
 days-week
 db
@@ -2151,7 +2148,6 @@ du
 dual-stack
 duck
 duckduckgo
-ducktyping
 dudckduckgo
 duf
 dummy
@@ -2171,9 +2167,9 @@ dust
 dutch
 dvls
 dword
+dxexpeditions
 dynamic
 dynamic-host-configuration-protocol
-dynamic-privileged-access
 dynamicdistributiongroups
 dynamicdnsoverhttps
 dynamicparam
@@ -2368,7 +2364,6 @@ etl2pcapng
 etrade
 ets
 etw
-eulanda
 evaluator
 evc
 event
@@ -2439,7 +2434,6 @@ execute
 exexml
 exif
 exiftool
-exists
 exitcode
 exitprocessrequest
 exo
@@ -2722,6 +2716,8 @@ freshservice-api
 freshserviceps
 freshworks
 friendly
+fritz
+fritzbox
 front
 frontapp
 frontdoor
@@ -2916,6 +2912,7 @@ goldsource
 goldsource-dedicated-server
 google
 google-chrome
+google-fonts
 google-histogram
 google-sankey
 google-table
@@ -3110,7 +3107,6 @@ hidden
 hide
 hids
 hiera
-hierarchialdistributionlist
 hierarchical
 hierarchy
 high-availability
@@ -3436,7 +3432,6 @@ investment
 investments
 invitation
 invocation
-invoice
 invoke
 invoke-asadmin
 invoke-asadministrator
@@ -3650,7 +3645,6 @@ kidrsa
 kill
 kindle
 kinetic
-kinopoisk
 kintone
 klantcontroles
 kms
@@ -3661,7 +3655,6 @@ knowbe4
 knowledge
 knowledgebase
 koans
-kodi
 korn
 kotlin
 kql
@@ -3754,7 +3747,6 @@ legends
 lego
 lein
 leiningnen
-lemonai
 lenel
 length
 lenovo
@@ -3818,7 +3810,6 @@ litecoin
 litedb
 literature
 live
-llama2
 lldp
 lmhost
 lmhosts
@@ -3841,7 +3832,6 @@ locale
 localgroup
 localgroupmember
 localization
-localpolicy
 location
 locationbasedservices
 lock
@@ -3919,7 +3909,6 @@ look
 lookup
 loop
 loopback
-loremipsum
 love
 lovequotes
 lpsiamol
@@ -3953,7 +3942,6 @@ macosx
 macro
 macros
 madlib
-magazine
 magento
 magic8ball
 magicpacket
@@ -4057,6 +4045,7 @@ mc
 mcafee
 mcas
 mccs
+mcd
 mchapv2
 mct
 md5
@@ -4094,7 +4083,6 @@ meltdown
 mem
 member
 members
-membership
 memcm
 memory
 memorydump
@@ -4235,7 +4223,6 @@ moduleupdateinfo
 moduleupdater
 moduleversion
 mof
-moldova
 moment
 monaco
 monday
@@ -4271,6 +4258,8 @@ mp4
 mpc
 mpeg
 mpn
+mrfk
+mrfylke
 mrvl_fc_powerkit
 mrvlfcprovider
 ms_365
@@ -4622,7 +4611,6 @@ odbc
 odfb
 odin
 odoo
-oem-charset
 offboarding
 offence
 office
@@ -4649,7 +4637,6 @@ old
 older
 ole
 oledb
-ollama
 omaha
 ome
 omnisphere
@@ -5104,6 +5091,7 @@ poshwsus
 poshy-code-search
 poshy-colors
 poshy-coreutils-ish
+poshy-dir-nav
 poshy-ecks
 poshy-env-proxy
 poshy-env-var
@@ -5142,7 +5130,6 @@ poshy-wrap-pipenv
 poshy-wrap-pyenv
 poshy-wrap-pylint
 poshy-wrap-python
-poshy-wrap-ruby
 poshy-wrap-systemctl
 poshy-wrap-terraform
 poshy-wrap-terragrunt
@@ -5396,6 +5383,22 @@ psbicep
 psclient
 pscmdlet
 pscommand__python3
+pscommand_--
+pscommand_..
+pscommand_...
+pscommand_....
+pscommand_.....
+pscommand_......
+pscommand_++
+pscommand_1
+pscommand_2
+pscommand_3
+pscommand_4
+pscommand_5
+pscommand_6
+pscommand_7
+pscommand_8
+pscommand_9
 pscommand_aar
 pscommand_acp
 pscommand_acse
@@ -5455,6 +5458,9 @@ pscommand_bubug
 pscommand_bugbc
 pscommand_buz
 pscommand_catimg
+pscommand_cd-
+pscommand_cd..
+pscommand_cd+
 pscommand_cdgr
 pscommand_cl
 pscommand_clb
@@ -5466,6 +5472,7 @@ pscommand_confirm-gitbisectcommitbad
 pscommand_confirm-gitbisectcommitgood
 pscommand_convertto-nixmode
 pscommand_convertto-rgb
+pscommand_d
 pscommand_d64
 pscommand_dbl
 pscommand_dcb
@@ -6391,9 +6398,6 @@ pscommand_invoke-piplistoutdated
 pscommand_invoke-pipuninstall
 pscommand_invoke-pyenv
 pscommand_invoke-pylintreportsdisabled
-pscommand_invoke-ruby
-pscommand_invoke-rubyexecute
-pscommand_invoke-rubyexecutehttpdhere
 pscommand_invoke-systemctl-add-requires
 pscommand_invoke-systemctl-add-wants
 pscommand_invoke-systemctl-cancel
@@ -6630,6 +6634,7 @@ pscommand_invokeyumgrouplist
 pscommand_ips
 pscommand_ipy
 pscommand_ipython
+pscommand_jump
 pscommand_k
 pscommand_kaf
 pscommand_kc
@@ -6763,6 +6768,7 @@ pscommand_ls
 pscommand_lsn
 pscommand_lsr
 pscommand_lt
+pscommand_mcd
 pscommand_mci
 pscommand_mcisk
 pscommand_mcp
@@ -6881,7 +6887,6 @@ pscommand_pylint-quick
 pscommand_pyserver
 pscommand_python
 pscommand_python3
-pscommand_rb
 pscommand_read-dotenv
 pscommand_register-argcompleteargumentcompleter
 pscommand_remove_gem
@@ -6909,8 +6914,6 @@ pscommand_reset-gitworkingtreetolastcommitlosechanges
 pscommand_reset-gitworkingtreetolastcommitlosechangesandcleanfully
 pscommand_resume-gitbranchbaseupdate
 pscommand_resume-gitcherrypick
-pscommand_rrun
-pscommand_rserver
 pscommand_sc-disable-now
 pscommand_sc-enable-now
 pscommand_sc-mask-now
@@ -6922,10 +6925,28 @@ pscommand_search-ruby
 pscommand_set-envvar
 pscommand_set-gitremoteurl
 pscommand_set-itemnixmode
+pscommand_set-locationback1
+pscommand_set-locationback2
+pscommand_set-locationback3
+pscommand_set-locationback4
+pscommand_set-locationback5
+pscommand_set-locationback6
+pscommand_set-locationback7
+pscommand_set-locationback8
+pscommand_set-locationback9
+pscommand_set-locationdown1
+pscommand_set-locationforward1
 pscommand_set-locationgithome
 pscommand_set-locationgopath
 pscommand_set-locationgopathbin
 pscommand_set-locationgopathsrc
+pscommand_set-locationnewdirectory
+pscommand_set-locationup
+pscommand_set-locationup1
+pscommand_set-locationup2
+pscommand_set-locationup3
+pscommand_set-locationup4
+pscommand_set-locationup5
 pscommand_sgem
 pscommand_show-gitremote
 pscommand_show-proxy
@@ -7227,6 +7248,7 @@ psfunction_confirm-gitbisectcommitbad
 psfunction_confirm-gitbisectcommitgood
 psfunction_convertto-nixmode
 psfunction_convertto-rgb
+psfunction_d
 psfunction_decode64
 psfunction_decodefile64
 psfunction_dirname
@@ -7780,9 +7802,6 @@ psfunction_invoke-piplistoutdated
 psfunction_invoke-pipuninstall
 psfunction_invoke-pyenv
 psfunction_invoke-pylintreportsdisabled
-psfunction_invoke-ruby
-psfunction_invoke-rubyexecute
-psfunction_invoke-rubyexecutehttpdhere
 psfunction_invoke-systemctl-add-requires
 psfunction_invoke-systemctl-add-wants
 psfunction_invoke-systemctl-cancel
@@ -8016,6 +8035,7 @@ psfunction_invoke-zypperverify
 psfunction_invoke-zypperversioncompare
 psfunction_invoke-zypperwhatprovides
 psfunction_invokeyumgrouplist
+psfunction_jump
 psfunction_kerndeb
 psfunction_kres
 psfunction_local-ignore
@@ -8114,10 +8134,28 @@ psfunction_search-ruby
 psfunction_set-envvar
 psfunction_set-gitremoteurl
 psfunction_set-itemnixmode
+psfunction_set-locationback1
+psfunction_set-locationback2
+psfunction_set-locationback3
+psfunction_set-locationback4
+psfunction_set-locationback5
+psfunction_set-locationback6
+psfunction_set-locationback7
+psfunction_set-locationback8
+psfunction_set-locationback9
+psfunction_set-locationdown1
+psfunction_set-locationforward1
 psfunction_set-locationgithome
 psfunction_set-locationgopath
 psfunction_set-locationgopathbin
 psfunction_set-locationgopathsrc
+psfunction_set-locationnewdirectory
+psfunction_set-locationup
+psfunction_set-locationup1
+psfunction_set-locationup2
+psfunction_set-locationup3
+psfunction_set-locationup4
+psfunction_set-locationup5
 psfunction_show-gitremote
 psfunction_show-proxy
 psfunction_shttp
@@ -8311,7 +8349,6 @@ puppetdb
 puppy
 pure
 pure1
-pureservice
 purestorage
 purple
 purview
@@ -8450,7 +8487,6 @@ rdsgw
 react-stockcharts
 read
 read-slog
-readable
 reader
 readiness
 readme
@@ -8755,14 +8791,12 @@ runbook
 runbooks
 runbookstudio
 runcommand
-rundeck
 runner
 runspace
 runspacepool
 runspaces
 runtimedefinedparameter
 runtimedefinedparameterdictionary
-runway
 russia
 rust
 rust-lang
@@ -9123,7 +9157,6 @@ shipstation
 shlink
 shodan
 shodanps
-shop
 shopify
 shortcut
 shortcuts
@@ -9202,7 +9235,6 @@ slash
 slashcommands
 slmgr
 sln
-slugify
 sm
 sma
 small_web
@@ -9368,7 +9400,6 @@ sql-server
 sqlagent
 sqlautomation
 sqlbits
-sqlbrowser
 sqlbulkcopy
 sqlchangeautomation
 sqlclient
@@ -9503,7 +9534,6 @@ storedcredentials
 storefront
 storeonce
 storeserv
-strava
 streak
 stream
 streamanalytics
@@ -9563,7 +9593,6 @@ sullivan
 summary
 summit
 sumologic
-supercell
 superheros
 supermarket
 support
@@ -9595,6 +9624,7 @@ sybase
 sybaseiq
 symantec
 symbolic
+symbolic_link
 symboliclink
 symbols
 symbolservers
@@ -9793,7 +9823,6 @@ textbuffer
 texting
 texting-emoji
 texting-emojis
-textprocessing
 textwrapping
 tfe
 tfenv
@@ -9892,6 +9921,8 @@ toughswitch
 tower
 tphubps
 tpm
+tr-064
+tr064
 trace
 traceevent
 tracer
@@ -9967,6 +9998,7 @@ trx
 ts
 tsa
 tsd
+tsheets
 tsqlbestpractice
 tst
 tst1
@@ -10249,6 +10281,7 @@ vdp
 vdportgroup
 vdswitch
 vduplink
+ve7cc
 vector
 veeam
 veeampn
@@ -10513,7 +10546,6 @@ whois
 whormi
 wi-fi
 wia
-wia.imagefile
 wid
 widedata
 wif

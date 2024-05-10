@@ -3,6 +3,67 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [Maester](https://www.powershellgallery.com/Packages/Maester/0.0.127) | 0.0.127
+
+### Published: 05/10/2024 08:18:11 by Maester
+
+Pester based test automation framework to monitor your Microsoft 365 security configuration.
+
+__Downloads__: 7,116 | __Repository__: https://maester.dev/
+
+## [PSWriteHTML](https://www.powershellgallery.com/Packages/PSWriteHTML/1.18.0) | 1.18.0
+
+### Published: 05/10/2024 06:36:40 by Przemyslaw Klys
+
+PSWriteHTML is PowerShell Module to generate beautiful HTML reports, pages, emails without any knowledge of HTML, CSS or JavaScript. To get started basics PowerShell knowledge is required.
+
+__Downloads__: 2,618,173 | __Repository__: https://github.com/EvotecIT/PSWriteHTML
+
+## [ps12exe](https://www.powershellgallery.com/Packages/ps12exe/0.3.43) | 0.3.43
+
+### Published: 05/10/2024 06:32:43 by steve02081504
+
+better pwsh code 2 exe repo:
+- Use `ps12exe a.ps1` to convert `a.ps1` into `a.exe`;
+- Use `ps12exeGUI` for a graphical interface that simplifies compilation;
+- Use `Set-ps12exeContextMenu` to add a context menu item for quick compilation or GUI access on `.ps1` files;
+- Use `Start-ps12exeWebServer` to launch a web server that allows users to compile scripts online;
+All commands in this module support the `-help` option for detailed assistance in your language.
+
+__Downloads__: 898 | __Repository__: https://github.com/steve02081504/ps12exe
+
+## [Intersight.PowerShell](https://www.powershellgallery.com/Packages/Intersight.PowerShell/1.0.11.16342) | 1.0.11.16342
+
+### Published: 05/10/2024 05:53:39 by Cisco Systems
+
+Intersight Powershell module provides the cmdlets to manage, analyze, and automate the IT infrastructure in Intersight.
+
+__Downloads__: 7,995 | __Repository__: https://github.com/CiscoDevNet/intersight-powershell
+
+## [Scan-Link](https://www.powershellgallery.com/Packages/Scan-Link/1.1.0) | 1.1.0
+
+### Published: 05/10/2024 04:13:35 by JB
+
+This module scans links for malicious activity.
+
+__Downloads__: 0 | __Repository__: http://yourprojecturi.com/
+
+## [GitlabCli](https://www.powershellgallery.com/Packages/GitlabCli/1.109.2) | 1.109.2
+
+### Published: 05/10/2024 03:42:41 by Chris Peterson
+
+Interact with GitLab via PowerShell
+
+__Downloads__: 18,719 | __Repository__: https://github.com/chris-peterson/pwsh-gitlab
+
+## [Neo.vTerm](https://www.powershellgallery.com/Packages/Neo.vTerm/1.1.0) | 1.1.0
+
+### Published: 05/10/2024 03:24:58 by ExceptionUnknown
+
+Ansi Escape Sequence Tokenizer
+
+__Downloads__: 0 | __Repository__: 
+
 ## [Veeam.Diagrammer](https://www.powershellgallery.com/Packages/Veeam.Diagrammer/0.6.0) | 0.6.0
 
 ### Published: 05/10/2024 01:40:27 by Jonathan Colon
@@ -1572,14 +1633,6 @@ Various tools for M365DSC deployments
 
 __Downloads__: 1,759 | __Repository__: https://github.com/ykuijs/M365DSCTools
 
-## [Maester](https://www.powershellgallery.com/Packages/Maester/0.0.126) | 0.0.126
-
-### Published: 05/07/2024 13:20:08 by Maester
-
-Pester based test automation framework to monitor your Microsoft 365 security configuration.
-
-__Downloads__: 7,116 | __Repository__: https://maester.dev/
-
 ## [Winpack](https://www.powershellgallery.com/Packages/Winpack/0.1.6) | 0.1.6
 
 ### Published: 05/07/2024 13:05:38 by yvesg
@@ -1775,14 +1828,6 @@ __Downloads__: 105 | __Repository__:
 Manage PIM Azure Resource, PIM Entra role and PIM for Group settings and assignments with simplicity in mind
 
 __Downloads__: 1,598 | __Repository__: https://github.com/kayasax/EasyPIM/
-
-## [Wait-Net](https://www.powershellgallery.com/Packages/Wait-Net/0.1.2) | 0.1.2
-
-### Published: 05/06/2024 17:23:22 by Sedat Kapanoglu
-
-Provides cmdlets to diagnose Internet connectivity
-
-__Downloads__: 7 | __Repository__: 
 
 ## [sdp](https://www.powershellgallery.com/Packages/sdp/1.4.5) | 1.4.5
 
@@ -2023,44 +2068,4 @@ Harden Windows Safely, Securely, only with Official Microsoft methods
 
 __Downloads__: 12,328 | __Repository__: https://github.com/HotCakeX/Harden-Windows-Security
 
-## [PSPlex](https://www.powershellgallery.com/Packages/PSPlex/1.0.17) | 1.0.17
-
-### Published: 05/04/2024 18:04:24 by Robin Malik
-
-A PowerShell module to aid Plex server management.
-
-__Downloads__: 2,161 | __Repository__: https://github.com/robinmalik/PSPlex
-
-## [rhubarb-geek-nz.Joinery](https://www.powershellgallery.com/Packages/rhubarb-geek-nz.Joinery/1.0.1) | 1.0.1
-
-### Published: 05/04/2024 17:03:27 by Roger Brown
-
-Join Tools
-
-__Downloads__: 11 | __Repository__: https://github.com/rhubarb-geek-nz/Joinery
-
-## [PSMotd](https://www.powershellgallery.com/Packages/PSMotd/0.1.0) | 0.1.0
-
-### Published: 05/04/2024 15:41:45 by Gilbert Sanchez
-
-A Message of the Day (MOTD) for your PowerShell profile.
-
-__Downloads__: 4 | __Repository__: 
-
-## [PSWeave](https://www.powershellgallery.com/Packages/PSWeave/0.3.2) | 0.3.2
-
-### Published: 05/04/2024 14:47:41 by Douglas Finke
-
-PowerShell module that innovates automation with AI to make you more productive
-
-__Downloads__: 191 | __Repository__: https://github.com/dfinke/PSWeave
-
-## [PSAI](https://www.powershellgallery.com/Packages/PSAI/0.1.2) | 0.1.2
-
-### Published: 05/04/2024 14:21:57 by Douglas Finke
-
-PSAI brings OpenAI ChatGPT to PowerShell, leveraging advanced AI capabilities in your PowerShell scripts for dynamic, intelligent automation and data processing
-
-__Downloads__: 167 | __Repository__: https://github.com/dfinke/PSAI
-
-*Updated: Friday, 10 May 2024 02:07:30 UTC*
+*Updated: Friday, 10 May 2024 09:51:42 UTC*
