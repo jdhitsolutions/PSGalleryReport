@@ -596,9 +596,9 @@ A set of tools that can simplify handle Wi-Fi profiles, connection. Also additio
 
 __Downloads__: 2,627,446 | __Repository__: https://github.com/buscseik/WifiTools/
 
-## [PSWriteHTML](https://www.powershellgallery.com/Packages/PSWriteHTML/1.17.0) | 1.17.0
+## [PSWriteHTML](https://www.powershellgallery.com/Packages/PSWriteHTML/1.18.0) | 1.18.0
 
-### Published: 01/15/2024 14:08:15 by Przemyslaw Klys
+### Published: 05/10/2024 06:36:40 by Przemyslaw Klys
 
 PSWriteHTML is PowerShell Module to generate beautiful HTML reports, pages, emails without any knowledge of HTML, CSS or JavaScript. To get started basics PowerShell knowledge is required.
 
@@ -2187,4 +2187,4 @@ Icinga for Windows module which allows to entirely monitor the Windows Host syst
 
 __Downloads__: 221,804 | __Repository__: https://github.com/Icinga/icinga-powershell-framework
 
-*Updated: Friday, 10 May 2024 02:07:35 UTC*
+*Updated: Friday, 10 May 2024 09:51:48 UTC*
