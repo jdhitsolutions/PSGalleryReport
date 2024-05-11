@@ -3,6 +3,54 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [code365scripts.openai](https://www.powershellgallery.com/Packages/code365scripts.openai/3.0.0.4) | 3.0.0.4
+
+### Published: 05/11/2024 00:58:09 by chenxizhang
+
+The non-official OpenAI PowerShell module. This module is used to interact with OpenAI API.
+
+__Downloads__: 55,197 | __Repository__: https://github.com/chenxizhang/openai-powershell/
+
+## [WindmillClient](https://www.powershellgallery.com/Packages/WindmillClient/1.325.2) | 1.325.2
+
+### Published: 05/11/2024 00:49:43 by Windmill Labs
+
+Client for the Windmill platform.
+
+__Downloads__: 111 | __Repository__: https://github.com/windmill-labs/windmill/tree/main/powershell-client
+
+## [powershell-designer](https://www.powershellgallery.com/Packages/powershell-designer/2.4.5) | 2.4.5
+
+### Published: 05/10/2024 22:33:06 by Brandon Cunningham
+
+The best free form designer for powershell.
+
+__Downloads__: 7,815 | __Repository__: https://github.com/brandoncomputer/powershell-designer
+
+## [Scan-Link](https://www.powershellgallery.com/Packages/Scan-Link/1.2.0) | 1.2.0
+
+### Published: 05/10/2024 20:19:53 by JB
+
+This module scans links for malicious activity.
+
+__Downloads__: 0 | __Repository__: http://yourprojecturi.com/
+
+## [WFControlsLIB](https://www.powershellgallery.com/Packages/WFControlsLIB/2.0.14) | 2.0.14
+
+### Published: 05/10/2024 20:10:32 by Antonny Godinho
+
+MÃ³dulo para facilitar o uso de WinForms
+
+__Downloads__: 261 | __Repository__: 
+
+## [PSMSALNet](https://www.powershellgallery.com/Packages/PSMSALNet/0.0.9) | 0.0.9
+
+### Published: 05/10/2024 20:06:23 by Francois LEON
+
+Module used to interact with Microsoft Authentication library
+
+__Downloads__: 426 | __Repository__: https://github.com/SCOMnewbie/PSMSALNet
+
 ## [AdminToolbox](https://www.powershellgallery.com/Packages/AdminToolbox/11.0.158) | 11.0.158
 
 ### Published: 05/10/2024 17:34:00 by Taylor Lee
@@ -131,13 +179,13 @@ Helper module for Active Directory with lots of useful functions that simplify s
 
 __Downloads__: 212,326 | __Repository__: https://github.com/EvotecIT/ADEssentials
 
-## [powershell-designer](https://www.powershellgallery.com/Packages/powershell-designer/2.4.0) | 2.4.0
+## [CoveBackupApi](https://www.powershellgallery.com/Packages/CoveBackupApi/0.0.8) | 0.0.8
 
-### Published: 05/10/2024 15:04:06 by Brandon Cunningham
+### Published: 05/10/2024 15:06:27 by Chris Foulstone
 
-The best free form designer for powershell.
+A Powershell module to interact with the Cove JSON API
 
-__Downloads__: 7,815 | __Repository__: https://github.com/brandoncomputer/powershell-designer
+__Downloads__: 58 | __Repository__: https://github.com/impelling/CoveBackupApi
 
 ## [Tatux.Utils](https://www.powershellgallery.com/Packages/Tatux.Utils/0.2.54) | 0.2.54
 
@@ -194,14 +242,6 @@ __Downloads__: 426 | __Repository__:
 TCC Utilities Module
 
 __Downloads__: 0 | __Repository__: 
-
-## [CoveBackupApi](https://www.powershellgallery.com/Packages/CoveBackupApi/0.0.7) | 0.0.7
-
-### Published: 05/10/2024 12:34:32 by Chris Foulstone
-
-A Powershell module to interact with the Cove JSON API
-
-__Downloads__: 58 | __Repository__: https://github.com/impelling/CoveBackupApi
 
 ## [ShellGPT](https://www.powershellgallery.com/Packages/ShellGPT/1.3.5) | 1.3.5
 
@@ -264,14 +304,6 @@ Intersight Powershell module provides the cmdlets to manage, analyze, and automa
 
 __Downloads__: 7,995 | __Repository__: https://github.com/CiscoDevNet/intersight-powershell
 
-## [Scan-Link](https://www.powershellgallery.com/Packages/Scan-Link/1.1.0) | 1.1.0
-
-### Published: 05/10/2024 04:13:35 by JB
-
-This module scans links for malicious activity.
-
-__Downloads__: 0 | __Repository__: http://yourprojecturi.com/
-
 ## [GitlabCli](https://www.powershellgallery.com/Packages/GitlabCli/1.109.2) | 1.109.2
 
 ### Published: 05/10/2024 03:42:41 by Chris Peterson
@@ -304,14 +336,6 @@ Create straight forward REST calls in PowerShell based on API endpoints defined 
 
 __Downloads__: 294 | __Repository__: https://github.com/CLEAResult/it.devops.psm.rest
 
-## [WindmillClient](https://www.powershellgallery.com/Packages/WindmillClient/1.324.2) | 1.324.2
-
-### Published: 05/09/2024 23:49:33 by Windmill Labs
-
-Client for the Windmill platform.
-
-__Downloads__: 111 | __Repository__: https://github.com/windmill-labs/windmill/tree/main/powershell-client
-
 ## [fscps.tools](https://www.powershellgallery.com/Packages/fscps.tools/0.1.188) | 0.1.188
 
 ### Published: 05/09/2024 20:19:09 by Oleksandr Nikolaiev
@@ -327,14 +351,6 @@ __Downloads__: 1,117 | __Repository__: https://github.com/fscpscollaborative/fsc
 PowerShell Management cmdlets for Binary Tree Power365
 
 __Downloads__: 1,071 | __Repository__: 
-
-## [WFControlsLIB](https://www.powershellgallery.com/Packages/WFControlsLIB/2.0.8) | 2.0.8
-
-### Published: 05/09/2024 17:31:24 by Antonny Godinho
-
-MÃ³dulo para facilitar o uso de WinForms
-
-__Downloads__: 261 | __Repository__: 
 
 ## [PSFzf](https://www.powershellgallery.com/Packages/PSFzf/2.6.1) | 2.6.1
 
@@ -2005,20 +2021,4 @@ A module for downloading videos from various platforms
 
 __Downloads__: 8 | __Repository__: 
 
-## [Particular.ServiceControl.Management](https://www.powershellgallery.com/Packages/Particular.ServiceControl.Management/5.1.2) | 5.1.2
-
-### Published: 05/06/2024 06:22:00 by Particular Software
-
-ServiceControl Management
-
-__Downloads__: 1,834 | __Repository__: https://github.com/Particular/ServiceControl
-
-## [VirimaJEASetup](https://www.powershellgallery.com/Packages/VirimaJEASetup/1.0.1) | 1.0.1
-
-### Published: 05/06/2024 06:12:56 by Chaitra M D
-
-Virima JEA Configuration Setup.
-
-__Downloads__: 5 | __Repository__: 
-
-*Updated: Friday, 10 May 2024 17:51:45 UTC*
+*Updated: Saturday, 11 May 2024 02:02:36 UTC*
