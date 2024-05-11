@@ -3,6 +3,22 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [PowerShell.DynamicBatch](https://www.powershellgallery.com/Packages/PowerShell.DynamicBatch/1.69) | 1.69
+
+### Published: 05/11/2024 16:46:16 by HT
+
+Dynamically loads batch job configurations and executes the job.
+
+__Downloads__: 505 | __Repository__: 
+
+## [code365scripts.openai](https://www.powershellgallery.com/Packages/code365scripts.openai/3.0.0.5) | 3.0.0.5
+
+### Published: 05/11/2024 09:59:47 by chenxizhang
+
+The non-official OpenAI PowerShell module. This module is used to interact with OpenAI API.
+
+__Downloads__: 55,197 | __Repository__: https://github.com/chenxizhang/openai-powershell/
+
 ## [fscps.tools](https://www.powershellgallery.com/Packages/fscps.tools/0.1.189) | 0.1.189
 
 ### Published: 05/11/2024 07:30:05 by Oleksandr Nikolaiev
@@ -26,14 +42,6 @@ __Downloads__: 2,309 | __Repository__: https://github.com/mkht/PSOpenAI
 The best free form designer for powershell.
 
 __Downloads__: 7,815 | __Repository__: https://github.com/brandoncomputer/powershell-designer
-
-## [code365scripts.openai](https://www.powershellgallery.com/Packages/code365scripts.openai/3.0.0.4) | 3.0.0.4
-
-### Published: 05/11/2024 00:58:09 by chenxizhang
-
-The non-official OpenAI PowerShell module. This module is used to interact with OpenAI API.
-
-__Downloads__: 55,197 | __Repository__: https://github.com/chenxizhang/openai-powershell/
 
 ## [WindmillClient](https://www.powershellgallery.com/Packages/WindmillClient/1.325.2) | 1.325.2
 
@@ -170,14 +178,6 @@ __Downloads__: 45,109 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 Functions for Active Directory
 
 __Downloads__: 46,162 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-## [PowerShell.DynamicBatch](https://www.powershellgallery.com/Packages/PowerShell.DynamicBatch/1.68) | 1.68
-
-### Published: 05/10/2024 16:49:45 by HT
-
-Dynamically loads batch job configurations and executes the job.
-
-__Downloads__: 505 | __Repository__: 
 
 ## [tatux.telemetry](https://www.powershellgallery.com/Packages/tatux.telemetry/0.0.16) | 0.0.16
 
@@ -2021,4 +2021,4 @@ Provides cmdlets for starting migration of applications to supported clouds usin
 
 __Downloads__: 934 | __Repository__: https://migrate.rivermeadow.com/
 
-*Updated: Saturday, 11 May 2024 09:51:45 UTC*
+*Updated: Saturday, 11 May 2024 17:51:34 UTC*

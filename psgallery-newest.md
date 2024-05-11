@@ -3,6 +3,22 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [PowerShell.DynamicBatch](https://www.powershellgallery.com/Packages/PowerShell.DynamicBatch/1.69) | 1.69
+
+### Published: 05/11/2024 16:46:16 by HT
+
+Dynamically loads batch job configurations and executes the job.
+
+__Downloads__: 505 | __Repository__: 
+
+## [code365scripts.openai](https://www.powershellgallery.com/Packages/code365scripts.openai/3.0.0.5) | 3.0.0.5
+
+### Published: 05/11/2024 09:59:47 by chenxizhang
+
+The non-official OpenAI PowerShell module. This module is used to interact with OpenAI API.
+
+__Downloads__: 55,197 | __Repository__: https://github.com/chenxizhang/openai-powershell/
+
 ## [fscps.tools](https://www.powershellgallery.com/Packages/fscps.tools/0.1.189) | 0.1.189
 
 ### Published: 05/11/2024 07:30:05 by Oleksandr Nikolaiev
@@ -26,14 +42,6 @@ __Downloads__: 2,309 | __Repository__: https://github.com/mkht/PSOpenAI
 The best free form designer for powershell.
 
 __Downloads__: 7,815 | __Repository__: https://github.com/brandoncomputer/powershell-designer
-
-## [code365scripts.openai](https://www.powershellgallery.com/Packages/code365scripts.openai/3.0.0.4) | 3.0.0.4
-
-### Published: 05/11/2024 00:58:09 by chenxizhang
-
-The non-official OpenAI PowerShell module. This module is used to interact with OpenAI API.
-
-__Downloads__: 55,197 | __Repository__: https://github.com/chenxizhang/openai-powershell/
 
 ## [WindmillClient](https://www.powershellgallery.com/Packages/WindmillClient/1.325.2) | 1.325.2
 
@@ -70,16 +78,6 @@ The module AWS.Tools.Installer (https://www.powershellgallery.com/packages/AWS.T
 This version of AWS Tools for PowerShell is compatible with Windows PowerShell 5.1+ and PowerShell Core 6+ on Windows, Linux and macOS. When running on Windows PowerShell, .NET Framework 4.7.2 or newer is required. Alternative modules AWSPowerShell.NetCore and AWSPowerShell, provide support for all AWS services from a single module and also support older versions of Windows PowerShell and .NET Framework.
 
 __Downloads__: 9,526 | __Repository__: https://github.com/aws/aws-tools-for-powershell
-
-## [AWS.Tools.WorkSpacesThinClient](https://www.powershellgallery.com/Packages/AWS.Tools.WorkSpacesThinClient/4.1.577) | 4.1.577
-
-### Published: 05/10/2024 23:48:12 by Amazon.com Inc
-
-The WorkSpacesThinClient module of AWS Tools for PowerShell lets developers and administrators manage Amazon WorkSpaces Thin Client from the PowerShell scripting environment. In order to manage each AWS service, install the corresponding module (e.g. AWS.Tools.EC2, AWS.Tools.S3...).
-The module AWS.Tools.Installer (https://www.powershellgallery.com/packages/AWS.Tools.Installer/) makes it easier to install, update and uninstall the AWS.Tools modules.
-This version of AWS Tools for PowerShell is compatible with Windows PowerShell 5.1+ and PowerShell Core 6+ on Windows, Linux and macOS. When running on Windows PowerShell, .NET Framework 4.7.2 or newer is required. Alternative modules AWSPowerShell.NetCore and AWSPowerShell, provide support for all AWS services from a single module and also support older versions of Windows PowerShell and .NET Framework.
-
-__Downloads__: 1,209 | __Repository__: https://github.com/aws/aws-tools-for-powershell
 
 ## [AWS.Tools.WorkSpaces](https://www.powershellgallery.com/Packages/AWS.Tools.WorkSpaces/4.1.577) | 4.1.577
 
@@ -2491,4 +2489,4 @@ This version of AWS Tools for PowerShell is compatible with Windows PowerShell 5
 
 __Downloads__: 10,630 | __Repository__: https://github.com/aws/aws-tools-for-powershell
 
-*Updated: Saturday, 11 May 2024 09:51:43 UTC*
+*Updated: Saturday, 11 May 2024 17:51:32 UTC*
