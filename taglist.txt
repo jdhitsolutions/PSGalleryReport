@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Saturday, 11 May 2024 02:02:43 UTC
+Updated: Saturday, 11 May 2024 09:51:53 UTC
 
 .bat
 .env
@@ -202,7 +202,6 @@ administrativeuser
 administrator
 admintools
 adml
-admpwd
 admx
 ado
 ado_security
@@ -675,8 +674,8 @@ azure-resource-graph
 azure-ssis
 azureactivedirectory
 azuread
-azureadbackupandrestore
 azureadconnect
+azureadgraph
 azureadtoolkit
 azureadvancedthreatprotection
 azureappconfiguration
@@ -739,6 +738,7 @@ azurestackhci
 azurestate
 azurestorage
 azurestorageservices
+azuresync
 azuretable
 azuretestplan
 azurevirtualdesktop
@@ -1019,14 +1019,11 @@ capslock
 captcha
 capture
 carbon
-carbonawarecomputing
-carbonintensity
 card
 cardwirth
 cares
 cargo
 carousel
-carrier
 cartoon
 case
 cassandra
@@ -1394,6 +1391,7 @@ computername
 computers
 computersite
 concur
+concurrency
 concurrent
 conda
 condition
@@ -1628,7 +1626,6 @@ ctrl+c
 ctx
 ctype
 cubes
-cudel
 culture
 cumulative
 cumulativeupdate
@@ -1747,7 +1744,6 @@ datalabelingservicedataplane
 datalake
 datamanipulation
 datamodel
-datanorm
 dataplatform
 datapro
 dataprotection
@@ -2103,6 +2099,8 @@ drawio
 dreams
 dreamweaver
 dreary
+drift
+driftmonitor
 drink
 drive
 drive letter
@@ -2135,6 +2133,7 @@ dsc-resource
 dsc-resources
 dsccertificates
 dscconcepts
+dscdriftmonitor
 dsclient
 dscresource
 dscresourcekit
@@ -2371,7 +2370,6 @@ etl2pcapng
 etrade
 ets
 etw
-eulanda
 evaluator
 evc
 event
@@ -2792,6 +2790,7 @@ gcs
 gdap
 gdpr
 gedit
+gem
 gemini
 geminiprotocol
 gemlog
@@ -2921,7 +2920,6 @@ goldsource
 goldsource-dedicated-server
 google
 google-chrome
-google-fonts
 google-histogram
 google-sankey
 google-table
@@ -3275,7 +3273,6 @@ identity-management
 identitydataplane
 identitydirector
 identitydomains
-identitynow
 idf
 idm
 idna
@@ -3442,7 +3439,6 @@ investment
 investments
 invitation
 invocation
-invoice
 invoke
 invoke-asadmin
 invoke-asadministrator
@@ -3925,7 +3921,6 @@ look
 lookup
 loop
 loopback
-loremipsum
 love
 lovequotes
 lpsiamol
@@ -3959,7 +3954,6 @@ macosx
 macro
 macros
 madlib
-magazine
 magento
 magic8ball
 magicpacket
@@ -4302,11 +4296,13 @@ msft
 msftnet
 msftnetworking
 msg
+msg.exe
 msgbox
 msgraph
 msgraphapi
 msgraphreport
 msgraphstuff
+msgraphtokenlifetimepolicy
 msi
 msi psmodule
 msiexec
@@ -4629,7 +4625,6 @@ odbc
 odfb
 odin
 odoo
-oem-charset
 offboarding
 offence
 office
@@ -4859,6 +4854,7 @@ paper
 papis
 paradox
 parallel
+parallel-processing
 parameter
 parameterinfo
 parameters
@@ -5003,6 +4999,7 @@ pipedrive
 pipeline
 pipelinelastexecution
 pipelines
+pipenv
 pipescript
 piraeus
 pivot
@@ -5027,6 +5024,7 @@ playback
 playbook
 player
 playlists
+playwright
 pleasant
 pleasantpasswordserver
 plex
@@ -5127,9 +5125,9 @@ poshy-wrap-brew
 poshy-wrap-curl
 poshy-wrap-dnf
 poshy-wrap-docker
-poshy-wrap-docker-compose
 poshy-wrap-dotnet
 poshy-wrap-forgit
+poshy-wrap-gem
 poshy-wrap-gh
 poshy-wrap-git
 poshy-wrap-git-flow
@@ -5142,6 +5140,7 @@ poshy-wrap-nginx
 poshy-wrap-nmap
 poshy-wrap-npm
 poshy-wrap-pip
+poshy-wrap-pipenv
 poshy-wrap-pyenv
 poshy-wrap-pylint
 poshy-wrap-python
@@ -5491,31 +5490,9 @@ pscommand_convertto-rgb
 pscommand_d
 pscommand_d64
 pscommand_dbl
-pscommand_dcb
-pscommand_dcdn
-pscommand_dce
 pscommand_dcin
-pscommand_dck
-pscommand_dcl
-pscommand_dclf
 pscommand_dcls
 pscommand_dclsa
-pscommand_dco
-pscommand_dcofresh
-pscommand_dcol
-pscommand_dcou
-pscommand_dcouns
-pscommand_dcps
-pscommand_dcpull
-pscommand_dcr
-pscommand_dcrestart
-pscommand_dcrm
-pscommand_dcstart
-pscommand_dcstop
-pscommand_dcup
-pscommand_dcupb
-pscommand_dcupbd
-pscommand_dcupd
 pscommand_decode64
 pscommand_decodefile64
 pscommand_df64
@@ -5574,7 +5551,6 @@ pscommand_dnls
 pscommand_dnrm
 pscommand_docker-archive-content
 pscommand_docker-build
-pscommand_docker-compose-fresh
 pscommand_docker-container-execute
 pscommand_docker-container-execute-interactively
 pscommand_docker-container-inspect
@@ -5800,6 +5776,19 @@ pscommand_gdsth
 pscommand_gdstp
 pscommand_gdt
 pscommand_gdv
+pscommand_geca
+pscommand_gecb
+pscommand_geclup
+pscommand_gecr
+pscommand_gegi
+pscommand_geh
+pscommand_gei
+pscommand_geiall
+pscommand_gein
+pscommand_gel
+pscommand_geli
+pscommand_geo
+pscommand_geoe
 pscommand_get
 pscommand_get-aptinstalledpackages
 pscommand_get-childitemcolorfully
@@ -5867,6 +5856,7 @@ pscommand_get-netipaddresssimple
 pscommand_get-pwshaliasdefinition
 pscommand_get-pwshfunctiondefinition
 pscommand_get-viewer
+pscommand_geun
 pscommand_gexport
 pscommand_gf
 pscommand_gfa
@@ -6121,25 +6111,22 @@ pscommand_invoke-dnfreinstall
 pscommand_invoke-dnfremove
 pscommand_invoke-dnfsearch
 pscommand_invoke-dnfupgrade
-pscommand_invoke-dockercomposebuild
-pscommand_invoke-dockercomposedown
-pscommand_invoke-dockercomposeexec
-pscommand_invoke-dockercomposekill
-pscommand_invoke-dockercomposelogs
-pscommand_invoke-dockercomposelogsfollow
-pscommand_invoke-dockercomposelogsfollowtail
-pscommand_invoke-dockercomposeps
-pscommand_invoke-dockercomposepull
-pscommand_invoke-dockercomposerestart
-pscommand_invoke-dockercomposerm
-pscommand_invoke-dockercomposerun
-pscommand_invoke-dockercomposestart
-pscommand_invoke-dockercomposestop
-pscommand_invoke-dockercomposeup
-pscommand_invoke-dockercomposeupdetached
-pscommand_invoke-dockercomposeupdetachedwithbuild
-pscommand_invoke-dockercomposeupnostart
-pscommand_invoke-dockercomposeupwithbuild
+pscommand_invoke-gemcertadd
+pscommand_invoke-gemcertbuild
+pscommand_invoke-gemcertremove
+pscommand_invoke-gemcleanupno
+pscommand_invoke-gemgenerateindex
+pscommand_invoke-gemhelp
+pscommand_invoke-geminfo
+pscommand_invoke-geminfoall
+pscommand_invoke-geminstall
+pscommand_invoke-gemlist
+pscommand_invoke-gemlock
+pscommand_invoke-gemopen
+pscommand_invoke-gemopeneditor
+pscommand_invoke-gemremovebypattern
+pscommand_invoke-gemsystem
+pscommand_invoke-gemuninstall
 pscommand_invoke-git
 pscommand_invoke-gitaddinteractivelypatch
 pscommand_invoke-gitbisect
@@ -6363,6 +6350,21 @@ pscommand_invoke-npmstart
 pscommand_invoke-npmtest
 pscommand_invoke-npmupdate
 pscommand_invoke-npmversion
+pscommand_invoke-pipenvcheck
+pscommand_invoke-pipenvclean
+pscommand_invoke-pipenvgraph
+pscommand_invoke-pipenvinstall
+pscommand_invoke-pipenvinstalldev
+pscommand_invoke-pipenvlock
+pscommand_invoke-pipenvopen
+pscommand_invoke-pipenvpy
+pscommand_invoke-pipenvrun
+pscommand_invoke-pipenvshell
+pscommand_invoke-pipenvsync
+pscommand_invoke-pipenvuninstall
+pscommand_invoke-pipenvupdate
+pscommand_invoke-pipenvvenv
+pscommand_invoke-pipenvwhere
 pscommand_invoke-pipinstall
 pscommand_invoke-pipinstallupgrade
 pscommand_invoke-piplistoutdated
@@ -6808,7 +6810,12 @@ pscommand_npmt
 pscommand_npmu
 pscommand_npmv
 pscommand_open_command
+pscommand_pch
+pscommand_pcl
 pscommand_peek
+pscommand_pgr
+pscommand_pi
+pscommand_pidev
 pscommand_ping
 pscommand_pip
 pscommand_pip_package_location
@@ -6826,8 +6833,15 @@ pscommand_pipu
 pscommand_pipun
 pscommand_pipunall
 pscommand_pipupall
+pscommand_pl
+pscommand_po
 pscommand_pop-gitstashentry
+pscommand_ppy
 pscommand_proxy-help
+pscommand_prun
+pscommand_psh
+pscommand_psy
+pscommand_pu
 pscommand_publish-gitcommitsforcefullywithlease
 pscommand_publish-gitcommitssettingupstream
 pscommand_publish-gitcommitssettingupstreamtoorigin
@@ -6836,9 +6850,12 @@ pscommand_publish-gitcommitstooriginfromhead
 pscommand_publish-gitcommitstooriginmain
 pscommand_publish-gitcommitswithtags
 pscommand_publish-gitrepositorytosvn
+pscommand_pupd
 pscommand_push-gitstashentry
 pscommand_push-gitstashentrywithmessage
 pscommand_pushgr
+pscommand_pvenv
+pscommand_pwh
 pscommand_pwshrc-show-proxy
 pscommand_py
 pscommand_pyenv
@@ -6849,6 +6866,7 @@ pscommand_python3
 pscommand_rb
 pscommand_read-dotenv
 pscommand_register-argcompleteargumentcompleter
+pscommand_remove_gem
 pscommand_remove-dockercontainerall
 pscommand_remove-dockerunusedimage
 pscommand_remove-envpathitem
@@ -6908,6 +6926,7 @@ pscommand_set-locationup2
 pscommand_set-locationup3
 pscommand_set-locationup4
 pscommand_set-locationup5
+pscommand_sgem
 pscommand_show-gitremote
 pscommand_show-proxy
 pscommand_shttp
@@ -7215,7 +7234,6 @@ psfunction_dirname
 psfunction_disable-proxy
 psfunction_docker-archive-content
 psfunction_docker-build
-psfunction_docker-compose-fresh
 psfunction_docker-container-execute
 psfunction_docker-container-execute-interactively
 psfunction_docker-container-inspect
@@ -7483,25 +7501,22 @@ psfunction_invoke-dnfreinstall
 psfunction_invoke-dnfremove
 psfunction_invoke-dnfsearch
 psfunction_invoke-dnfupgrade
-psfunction_invoke-dockercomposebuild
-psfunction_invoke-dockercomposedown
-psfunction_invoke-dockercomposeexec
-psfunction_invoke-dockercomposekill
-psfunction_invoke-dockercomposelogs
-psfunction_invoke-dockercomposelogsfollow
-psfunction_invoke-dockercomposelogsfollowtail
-psfunction_invoke-dockercomposeps
-psfunction_invoke-dockercomposepull
-psfunction_invoke-dockercomposerestart
-psfunction_invoke-dockercomposerm
-psfunction_invoke-dockercomposerun
-psfunction_invoke-dockercomposestart
-psfunction_invoke-dockercomposestop
-psfunction_invoke-dockercomposeup
-psfunction_invoke-dockercomposeupdetached
-psfunction_invoke-dockercomposeupdetachedwithbuild
-psfunction_invoke-dockercomposeupnostart
-psfunction_invoke-dockercomposeupwithbuild
+psfunction_invoke-gemcertadd
+psfunction_invoke-gemcertbuild
+psfunction_invoke-gemcertremove
+psfunction_invoke-gemcleanupno
+psfunction_invoke-gemgenerateindex
+psfunction_invoke-gemhelp
+psfunction_invoke-geminfo
+psfunction_invoke-geminfoall
+psfunction_invoke-geminstall
+psfunction_invoke-gemlist
+psfunction_invoke-gemlock
+psfunction_invoke-gemopen
+psfunction_invoke-gemopeneditor
+psfunction_invoke-gemremovebypattern
+psfunction_invoke-gemsystem
+psfunction_invoke-gemuninstall
 psfunction_invoke-git
 psfunction_invoke-gitaddinteractivelypatch
 psfunction_invoke-gitbisect
@@ -7725,6 +7740,21 @@ psfunction_invoke-npmstart
 psfunction_invoke-npmtest
 psfunction_invoke-npmupdate
 psfunction_invoke-npmversion
+psfunction_invoke-pipenvcheck
+psfunction_invoke-pipenvclean
+psfunction_invoke-pipenvgraph
+psfunction_invoke-pipenvinstall
+psfunction_invoke-pipenvinstalldev
+psfunction_invoke-pipenvlock
+psfunction_invoke-pipenvopen
+psfunction_invoke-pipenvpy
+psfunction_invoke-pipenvrun
+psfunction_invoke-pipenvshell
+psfunction_invoke-pipenvsync
+psfunction_invoke-pipenvuninstall
+psfunction_invoke-pipenvupdate
+psfunction_invoke-pipenvvenv
+psfunction_invoke-pipenvwhere
 psfunction_invoke-pipinstall
 psfunction_invoke-pipinstallupgrade
 psfunction_invoke-piplistoutdated
@@ -8493,7 +8523,6 @@ regex
 region
 regions
 regiser-argumentcompleter
-register
 register-argumentcompleter
 registered
 registrar
@@ -8732,7 +8761,6 @@ runspacepool
 runspaces
 runtimedefinedparameter
 runtimedefinedparameterdictionary
-runway
 russia
 rust
 rust-lang
@@ -8751,7 +8779,6 @@ safe
 safeguard
 sage
 saggiehaim
-sailpoint
 sale
 sales
 salesforce
@@ -8763,6 +8790,7 @@ saltstackconfig
 saltstackenterprise
 sam
 saml
+saml psmodule
 saml2
 sample
 sampler
@@ -8964,6 +8992,7 @@ senateur
 send
 send-logtologanalytics
 send-mailmessage
+send-message
 senderid
 sendgrid
 sendkeys
@@ -9091,7 +9120,6 @@ shipstation
 shlink
 shodan
 shodanps
-shop
 shopify
 shortcut
 shortcuts
@@ -9170,7 +9198,6 @@ slash
 slashcommands
 slmgr
 sln
-slugify
 sm
 sma
 small_web
@@ -9337,7 +9364,6 @@ sql-server
 sqlagent
 sqlautomation
 sqlbits
-sqlbrowser
 sqlbulkcopy
 sqlchangeautomation
 sqlclient
@@ -9763,7 +9789,6 @@ textbuffer
 texting
 texting-emoji
 texting-emojis
-textprocessing
 textwrapping
 tfe
 tfenv
@@ -9836,6 +9861,7 @@ todo.txt
 toggl
 toggle
 token
+tokenlifetime
 tokens
 toml
 tonoref
@@ -9938,7 +9964,6 @@ trx
 ts
 tsa
 tsd
-tsheets
 tsqlbestpractice
 tst
 tst1
@@ -9965,7 +9990,6 @@ twitter-api-v2
 twitter-client
 twitter-follow
 twitter-hashtag
-twitter-mention
 twitter-share
 twitter-timeline
 twitter-tweet
@@ -9994,6 +10018,7 @@ ud-breadcrumbitem
 ud-burger
 ud-button
 ud-buttonloader
+ud-buttonparticle
 ud-calendar
 ud-circle
 ud-component
@@ -10232,7 +10257,6 @@ venue
 venvlink
 vera
 veracrypt
-verbose psmodule
 verification
 verify
 version
@@ -10485,7 +10509,6 @@ whois
 whormi
 wi-fi
 wia
-wia.imagefile
 wid
 widedata
 wif
@@ -10613,6 +10636,7 @@ wmipermanentevents
 wol
 wolfram
 wolframalpha
+woocommerce
 woolworths
 woolworthsrewards
 word
@@ -10620,6 +10644,7 @@ word-wrap
 wordcloud
 wordlist
 wordpress
+wordwrap
 workbook
 workday
 worker
@@ -10649,6 +10674,7 @@ wow
 wpad
 wpf
 wql
+wrap
 wrap-text
 wrapper
 wrapperfunctions

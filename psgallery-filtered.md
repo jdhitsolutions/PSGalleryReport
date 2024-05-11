@@ -3,6 +3,30 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [fscps.tools](https://www.powershellgallery.com/Packages/fscps.tools/0.1.189) | 0.1.189
+
+### Published: 05/11/2024 07:30:05 by Oleksandr Nikolaiev
+
+fscps.tools
+
+__Downloads__: 1,117 | __Repository__: https://github.com/fscpscollaborative/fscps.tools
+
+## [PSOpenAI](https://www.powershellgallery.com/Packages/PSOpenAI/3.10.0) | 3.10.0
+
+### Published: 05/11/2024 06:32:08 by mkht
+
+PowerShell module for OpenAI API
+
+__Downloads__: 2,309 | __Repository__: https://github.com/mkht/PSOpenAI
+
+## [powershell-designer](https://www.powershellgallery.com/Packages/powershell-designer/2.4.6) | 2.4.6
+
+### Published: 05/11/2024 03:42:25 by Brandon Cunningham
+
+The best free form designer for powershell.
+
+__Downloads__: 7,815 | __Repository__: https://github.com/brandoncomputer/powershell-designer
+
 ## [code365scripts.openai](https://www.powershellgallery.com/Packages/code365scripts.openai/3.0.0.4) | 3.0.0.4
 
 ### Published: 05/11/2024 00:58:09 by chenxizhang
@@ -18,14 +42,6 @@ __Downloads__: 55,197 | __Repository__: https://github.com/chenxizhang/openai-po
 Client for the Windmill platform.
 
 __Downloads__: 111 | __Repository__: https://github.com/windmill-labs/windmill/tree/main/powershell-client
-
-## [powershell-designer](https://www.powershellgallery.com/Packages/powershell-designer/2.4.5) | 2.4.5
-
-### Published: 05/10/2024 22:33:06 by Brandon Cunningham
-
-The best free form designer for powershell.
-
-__Downloads__: 7,815 | __Repository__: https://github.com/brandoncomputer/powershell-designer
 
 ## [Scan-Link](https://www.powershellgallery.com/Packages/Scan-Link/1.2.0) | 1.2.0
 
@@ -335,14 +351,6 @@ __Downloads__: 6,086 | __Repository__: https://github.com/rebelinux/Veeam.Diagra
 Create straight forward REST calls in PowerShell based on API endpoints defined in .json files.  Add your own REST API endpoints by simply creating new .json files.
 
 __Downloads__: 294 | __Repository__: https://github.com/CLEAResult/it.devops.psm.rest
-
-## [fscps.tools](https://www.powershellgallery.com/Packages/fscps.tools/0.1.188) | 0.1.188
-
-### Published: 05/09/2024 20:19:09 by Oleksandr Nikolaiev
-
-fscps.tools
-
-__Downloads__: 1,117 | __Repository__: https://github.com/fscpscollaborative/fscps.tools
 
 ## [BinaryTree.Internal.Power365.ST](https://www.powershellgallery.com/Packages/BinaryTree.Internal.Power365.ST/20.12.15.114) | 20.12.15.114
 
@@ -2013,12 +2021,4 @@ Provides cmdlets for starting migration of applications to supported clouds usin
 
 __Downloads__: 934 | __Repository__: https://migrate.rivermeadow.com/
 
-## [SensationSnagger](https://www.powershellgallery.com/Packages/SensationSnagger/0.0.1) | 0.0.1
-
-### Published: 05/06/2024 06:51:08 by cryptofyre
-
-A module for downloading videos from various platforms
-
-__Downloads__: 8 | __Repository__: 
-
-*Updated: Saturday, 11 May 2024 02:02:36 UTC*
+*Updated: Saturday, 11 May 2024 09:51:45 UTC*
