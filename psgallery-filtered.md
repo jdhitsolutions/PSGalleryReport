@@ -3,6 +3,38 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [pocof](https://www.powershellgallery.com/Packages/pocof/0.12.1) | 0.12.1
+
+### Published: 05/12/2024 06:49:09 by Takatoshi Kuriyama
+
+An interactive pipeline filtering Cmdlet for PowerShell written in F#. A fork of poco which is a PowerShell port of peco.
+
+__Downloads__: 238 | __Repository__: https://github.com/krymtkts/pocof/
+
+## [PowerShell.DynamicBatch](https://www.powershellgallery.com/Packages/PowerShell.DynamicBatch/1.70) | 1.70
+
+### Published: 05/12/2024 02:40:34 by HT
+
+Dynamically loads batch job configurations and executes the job.
+
+__Downloads__: 505 | __Repository__: 
+
+## [WindmillClient](https://www.powershellgallery.com/Packages/WindmillClient/1.326.0) | 1.326.0
+
+### Published: 05/12/2024 02:33:48 by Windmill Labs
+
+Client for the Windmill platform.
+
+__Downloads__: 111 | __Repository__: https://github.com/windmill-labs/windmill/tree/main/powershell-client
+
+## [ShellMenuX](https://www.powershellgallery.com/Packages/ShellMenuX/1.0.0) | 1.0.0
+
+### Published: 05/12/2024 02:25:44 by Community
+
+Interactive arrowkey driven menu in PowerShell. Works with if/else and switch statements. Returns a nueric Value based on option selected. Code found somewhere online.
+
+__Downloads__: 0 | __Repository__: 
+
 ## [SimplySql](https://www.powershellgallery.com/Packages/SimplySql/2.0.3.73) | 2.0.3.73
 
 ### Published: 05/11/2024 22:36:30 by Mithrandyr
@@ -74,14 +106,6 @@ Harden Windows Safely, Securely, only with Official Microsoft methods
 
 __Downloads__: 12,328 | __Repository__: https://github.com/HotCakeX/Harden-Windows-Security
 
-## [PowerShell.DynamicBatch](https://www.powershellgallery.com/Packages/PowerShell.DynamicBatch/1.69) | 1.69
-
-### Published: 05/11/2024 16:46:16 by HT
-
-Dynamically loads batch job configurations and executes the job.
-
-__Downloads__: 505 | __Repository__: 
-
 ## [code365scripts.openai](https://www.powershellgallery.com/Packages/code365scripts.openai/3.0.0.5) | 3.0.0.5
 
 ### Published: 05/11/2024 09:59:47 by chenxizhang
@@ -113,14 +137,6 @@ __Downloads__: 2,309 | __Repository__: https://github.com/mkht/PSOpenAI
 The best free form designer for powershell.
 
 __Downloads__: 7,815 | __Repository__: https://github.com/brandoncomputer/powershell-designer
-
-## [WindmillClient](https://www.powershellgallery.com/Packages/WindmillClient/1.325.2) | 1.325.2
-
-### Published: 05/11/2024 00:49:43 by Windmill Labs
-
-Client for the Windmill platform.
-
-__Downloads__: 111 | __Repository__: https://github.com/windmill-labs/windmill/tree/main/powershell-client
 
 ## [Scan-Link](https://www.powershellgallery.com/Packages/Scan-Link/1.2.0) | 1.2.0
 
@@ -2060,20 +2076,4 @@ Liquit Workspace PowerShell Module
 
 __Downloads__: 3,700 | __Repository__: 
 
-## [PSSymantecSEPM](https://www.powershellgallery.com/Packages/PSSymantecSEPM/0.11.2) | 0.11.2
-
-### Published: 05/06/2024 13:16:10 by Aurélien BOUMANNE
-
-Common set of tools to interact with Symantec Endpoint Protection Manager (SEPM) product
-
-__Downloads__: 114 | __Repository__: https://github.com/Douda/PSSymantecSEPM
-
-## [NVRAppDevOps](https://www.powershellgallery.com/Packages/NVRAppDevOps/2.8.3) | 2.8.3
-
-### Published: 05/06/2024 13:07:04 by Kamil Sacek
-
-cmdlets for DevOps for Business Central
-
-__Downloads__: 27,991 | __Repository__: https://www.github.com/kine/NVRAppDevOps
-
-*Updated: Sunday, 12 May 2024 02:07:11 UTC*
+*Updated: Sunday, 12 May 2024 09:52:41 UTC*

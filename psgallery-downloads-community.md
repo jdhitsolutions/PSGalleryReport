@@ -2187,4 +2187,4 @@ Icinga for Windows module which allows to entirely monitor the Windows Host syst
 
 __Downloads__: 221,804 | __Repository__: https://github.com/Icinga/icinga-powershell-framework
 
-*Updated: Sunday, 12 May 2024 02:07:16 UTC*
+*Updated: Sunday, 12 May 2024 09:52:46 UTC*
