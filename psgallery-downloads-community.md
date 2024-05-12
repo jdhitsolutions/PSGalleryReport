@@ -988,9 +988,9 @@ This module provides an interface to the Hudu Rest API further information can b
 
 __Downloads__: 1,196,473 | __Repository__: 
 
-## [SimplySql](https://www.powershellgallery.com/Packages/SimplySql/2.0.2.70) | 2.0.2.70
+## [SimplySql](https://www.powershellgallery.com/Packages/SimplySql/2.0.3.73) | 2.0.3.73
 
-### Published: 03/02/2024 04:17:39 by Mithrandyr
+### Published: 05/11/2024 22:36:30 by Mithrandyr
 
 Querying SQL (SQL Server, Oracle, PostgreSql, SQLite, & mySql) the PowerShell way: simple commands... powerful opportunities.
 
@@ -2187,4 +2187,4 @@ Icinga for Windows module which allows to entirely monitor the Windows Host syst
 
 __Downloads__: 221,804 | __Repository__: https://github.com/Icinga/icinga-powershell-framework
 
-*Updated: Saturday, 11 May 2024 17:51:39 UTC*
+*Updated: Sunday, 12 May 2024 02:07:16 UTC*
