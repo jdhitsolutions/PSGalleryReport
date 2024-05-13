@@ -369,9 +369,9 @@ Automation tools for production quality database deployment
 
 __Downloads__: 5,426,953 | __Repository__: https://www.red-gate.com/sca/productpage
 
-## [ImportExcel](https://www.powershellgallery.com/Packages/ImportExcel/7.8.6) | 7.8.6
+## [ImportExcel](https://www.powershellgallery.com/Packages/ImportExcel/7.8.7) | 7.8.7
 
-### Published: 10/12/2023 22:33:34 by Douglas Finke
+### Published: 05/12/2024 17:53:22 by Douglas Finke
 
 PowerShell module to import/export Excel spreadsheets, without Excel.
 Check out the How To Videos https://www.youtube.com/watch?v=U3Ne_yX4tYo&list=PL5uoqS92stXioZw-u-ze_NtvSo0k0K0kq
@@ -2187,4 +2187,4 @@ Icinga for Windows module which allows to entirely monitor the Windows Host syst
 
 __Downloads__: 221,804 | __Repository__: https://github.com/Icinga/icinga-powershell-framework
 
-*Updated: Sunday, 12 May 2024 17:51:52 UTC*
+*Updated: Monday, 13 May 2024 02:09:31 UTC*

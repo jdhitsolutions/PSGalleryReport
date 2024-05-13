@@ -3,6 +3,65 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [UiPathOrch](https://www.powershellgallery.com/Packages/UiPathOrch/0.8.10.9) | 0.8.10.9
+
+### Published: 05/13/2024 01:44:02 by Yoshifumi Tsuda
+
+A PowerShell provider for managing UiPath Orchestrator entities via cmdlets.
+
+__Downloads__: 426 | __Repository__: 
+
+## [Adsi](https://www.powershellgallery.com/Packages/Adsi/4.0.112) | 4.0.112
+
+### Published: 05/12/2024 19:34:09 by Jeremy La Camera
+
+Use Active Directory Service Interfaces to query LDAP and WinNT directories
+
+__Downloads__: 2,000 | __Repository__: 
+
+## [WindmillClient](https://www.powershellgallery.com/Packages/WindmillClient/1.326.1) | 1.326.1
+
+### Published: 05/12/2024 19:25:02 by Windmill Labs
+
+Client for the Windmill platform.
+
+__Downloads__: 111 | __Repository__: https://github.com/windmill-labs/windmill/tree/main/powershell-client
+
+## [ErrorRecord](https://www.powershellgallery.com/Packages/ErrorRecord/0.2.6) | 0.2.6
+
+### Published: 05/12/2024 18:07:36 by Emrys MacInally
+
+Helps creating an ErrorRecord
+
+__Downloads__: 10 | __Repository__: 
+
+## [PoshSvn](https://www.powershellgallery.com/Packages/PoshSvn/1.0.0) | 1.0.0
+
+### Published: 05/12/2024 18:00:20 by Timofei Zhakov
+
+Apache Subversion client for PowerShell
+
+Project website: https://www.poshsvn.com
+
+__Downloads__: 114 | __Repository__: https://www.poshsvn.com/
+
+## [ImportExcel](https://www.powershellgallery.com/Packages/ImportExcel/7.8.7) | 7.8.7
+
+### Published: 05/12/2024 17:53:22 by Douglas Finke
+
+PowerShell module to import/export Excel spreadsheets, without Excel.
+Check out the How To Videos https://www.youtube.com/watch?v=U3Ne_yX4tYo&list=PL5uoqS92stXioZw-u-ze_NtvSo0k0K0kq
+
+__Downloads__: 5,367,124 | __Repository__: https://github.com/dfinke/ImportExcel
+
+## [fscps.tools](https://www.powershellgallery.com/Packages/fscps.tools/0.1.190) | 0.1.190
+
+### Published: 05/12/2024 17:49:43 by Oleksandr Nikolaiev
+
+fscps.tools
+
+__Downloads__: 1,117 | __Repository__: https://github.com/fscpscollaborative/fscps.tools
+
 ## [PsNtfs](https://www.powershellgallery.com/Packages/PsNtfs/2.0.192) | 2.0.192
 
 ### Published: 05/12/2024 17:23:26 by Jeremy La Camera
@@ -50,14 +109,6 @@ __Downloads__: 238 | __Repository__: https://github.com/krymtkts/pocof/
 Dynamically loads batch job configurations and executes the job.
 
 __Downloads__: 505 | __Repository__: 
-
-## [WindmillClient](https://www.powershellgallery.com/Packages/WindmillClient/1.326.0) | 1.326.0
-
-### Published: 05/12/2024 02:33:48 by Windmill Labs
-
-Client for the Windmill platform.
-
-__Downloads__: 111 | __Repository__: https://github.com/windmill-labs/windmill/tree/main/powershell-client
 
 ## [ShellMenuX](https://www.powershellgallery.com/Packages/ShellMenuX/1.0.0) | 1.0.0
 
@@ -145,14 +196,6 @@ __Downloads__: 12,328 | __Repository__: https://github.com/HotCakeX/Harden-Windo
 The non-official OpenAI PowerShell module. This module is used to interact with OpenAI API.
 
 __Downloads__: 55,197 | __Repository__: https://github.com/chenxizhang/openai-powershell/
-
-## [fscps.tools](https://www.powershellgallery.com/Packages/fscps.tools/0.1.189) | 0.1.189
-
-### Published: 05/11/2024 07:30:05 by Oleksandr Nikolaiev
-
-fscps.tools
-
-__Downloads__: 1,117 | __Repository__: https://github.com/fscpscollaborative/fscps.tools
 
 ## [PSOpenAI](https://www.powershellgallery.com/Packages/PSOpenAI/3.10.0) | 3.10.0
 
@@ -361,14 +404,6 @@ __Downloads__: 65,583 | __Repository__: https://devolutions.net/
 Zerto PowerShell Commandlets
 
 __Downloads__: 238 | __Repository__: https://www.zerto.com/
-
-## [UiPathOrch](https://www.powershellgallery.com/Packages/UiPathOrch/0.8.10.8) | 0.8.10.8
-
-### Published: 05/10/2024 13:00:53 by Yoshifumi Tsuda
-
-A PowerShell provider for managing UiPath Orchestrator entities via cmdlets.
-
-__Downloads__: 426 | __Repository__: 
 
 ## [TCC_Utilities-Module](https://www.powershellgallery.com/Packages/TCC_Utilities-Module/1.0) | 1.0
 
@@ -2044,36 +2079,4 @@ PowerShell module to query the Logic Monitor API. This PowerShell module is deve
 
 __Downloads__: 56,733 | __Repository__: https://github.com/logicmonitor/lm-powershell-module
 
-## [DevolutionsGateway](https://www.powershellgallery.com/Packages/DevolutionsGateway/2024.1.6) | 2024.1.6
-
-### Published: 05/06/2024 15:34:47 by Devolutions
-
-Devolutions Gateway PowerShell Module
-
-__Downloads__: 3,572 | __Repository__: https://github.com/Devolutions/devolutions-gateway/tree/master/powershell/
-
-## [azure-ad-license-status](https://www.powershellgallery.com/Packages/azure-ad-license-status/1.3.1.1) | 1.3.1.1
-
-### Published: 05/06/2024 15:28:22 by DMoenks
-
-Creates an Azure AD license report based on license assignments and consumption
-
-__Downloads__: 99 | __Repository__: https://dmoenks.github.io/azure-ad-license-status/
-
-## [Universal](https://www.powershellgallery.com/Packages/Universal/4.2.21) | 4.2.21
-
-### Published: 05/06/2024 14:19:13 by Ironman Software
-
-Module for PowerShell Universal.
-
-__Downloads__: 90,112 | __Repository__: https://ironmansoftware.com/powershell-universal
-
-## [JBUtils](https://www.powershellgallery.com/Packages/JBUtils/0.0.2) | 0.0.2
-
-### Published: 05/06/2024 14:14:13 by Justin Beeson
-
-A module of basic/low-level PowerShell functions.
-
-__Downloads__: 27 | __Repository__: https://github.com/thisjustin816/JBUtils
-
-*Updated: Sunday, 12 May 2024 17:51:47 UTC*
+*Updated: Monday, 13 May 2024 02:09:26 UTC*
