@@ -3,6 +3,103 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [Endjin.RecommendedPractices.Build](https://www.powershellgallery.com/Packages/Endjin.RecommendedPractices.Build/1.5.6) | 1.5.6
+
+### Published: 05/13/2024 16:05:12 by Endjineers
+
+Provides automated build features using on the InvokeBuild module
+
+__Downloads__: 29,680 | __Repository__: https://github.com/endjin/Endjin.RecommendedPractices.Build
+
+## [ADCSTools](https://www.powershellgallery.com/Packages/ADCSTools/1.5.2) | 1.5.2
+
+### Published: 05/13/2024 15:49:37 by Richard M. Hicks
+
+PowerShell module for performing administrative tasks on Microsoft Active Directory Certificate Services (AD CS) servers.
+
+__Downloads__: 146 | __Repository__: https://github.com/richardhicks/adcstools
+
+## [tatux.telemetry](https://www.powershellgallery.com/Packages/tatux.telemetry/0.0.25) | 0.0.25
+
+### Published: 05/13/2024 15:13:51 by Nigel Tatschner
+
+Functions to perform telemetry collections for my suite of modules allowing for improvements to my code
+
+__Downloads__: 48 | __Repository__: https://github.com/ntatschner/Tatux.Telemetry
+
+## [AzureAvSetBasicPublicIPUpgrade](https://www.powershellgallery.com/Packages/AzureAvSetBasicPublicIPUpgrade/0.0.0) | 0.0.0
+
+### Published: 05/13/2024 15:13:00 by FastTrack for Azure - Matthew Bratschun
+
+Upgrades all public IP addresses attached to all VMs in an Availability Set to Standard SKU.
+
+__Downloads__: 0 | __Repository__: https://github.com/Azure/AzLoadBalancerMigration
+
+## [ADEssentials](https://www.powershellgallery.com/Packages/ADEssentials/0.0.209) | 0.0.209
+
+### Published: 05/13/2024 14:44:30 by Przemyslaw Klys
+
+Helper module for Active Directory with lots of useful functions that simplify supporting Active Directory.
+
+__Downloads__: 212,326 | __Repository__: https://github.com/EvotecIT/ADEssentials
+
+## [PowerShell.DynamicBatch](https://www.powershellgallery.com/Packages/PowerShell.DynamicBatch/1.71) | 1.71
+
+### Published: 05/13/2024 14:36:10 by HT
+
+Dynamically loads batch job configurations and executes the job.
+
+__Downloads__: 505 | __Repository__: 
+
+## [WFControlsLIB](https://www.powershellgallery.com/Packages/WFControlsLIB/2.0.21) | 2.0.21
+
+### Published: 05/13/2024 14:26:45 by Antonny Godinho
+
+MÃ³dulo para facilitar o uso de WinForms
+
+__Downloads__: 261 | __Repository__: 
+
+## [ImportExcel](https://www.powershellgallery.com/Packages/ImportExcel/7.8.8) | 7.8.8
+
+### Published: 05/13/2024 13:37:57 by Douglas Finke
+
+PowerShell module to import/export Excel spreadsheets, without Excel.
+Check out the How To Videos https://www.youtube.com/watch?v=U3Ne_yX4tYo&list=PL5uoqS92stXioZw-u-ze_NtvSo0k0K0kq
+
+__Downloads__: 5,367,124 | __Repository__: https://github.com/dfinke/ImportExcel
+
+## [Tatux.Utils](https://www.powershellgallery.com/Packages/Tatux.Utils/0.2.56) | 0.2.56
+
+### Published: 05/13/2024 13:35:55 by Nigel Tatschner
+
+A Set of utilities ive created to help with various tasks
+
+__Downloads__: 637 | __Repository__: 
+
+## [fscps.tools](https://www.powershellgallery.com/Packages/fscps.tools/1.0.191) | 1.0.191
+
+### Published: 05/13/2024 13:25:05 by Oleksandr Nikolaiev
+
+fscps.tools
+
+__Downloads__: 1,117 | __Repository__: https://github.com/fscpscollaborative/fscps.tools
+
+## [AzurePIM](https://www.powershellgallery.com/Packages/AzurePIM/1.0.15175) | 1.0.15175
+
+### Published: 05/13/2024 11:42:42 by Azure Team VWGS
+
+Helper module to manage PIM for Azure Resources as code.
+
+__Downloads__: 92 | __Repository__: 
+
+## [PSAuthClient](https://www.powershellgallery.com/Packages/PSAuthClient/1.1.1) | 1.1.1
+
+### Published: 05/13/2024 10:59:39 by Alf Løkken
+
+PowerShell Authentication Client (OAuth2.0/OIDC)
+
+__Downloads__: 1,360 | __Repository__: https://github.com/alflokken/PSAuthClient
+
 ## [PSTableauREST](https://www.powershellgallery.com/Packages/PSTableauREST/0.7.6) | 0.7.6
 
 ### Published: 05/13/2024 08:37:06 by Andrey Sluzhivoy
@@ -43,14 +140,6 @@ Opinionated module to scaffold, manage and help build standardized powershell mo
 
 __Downloads__: 20 | __Repository__: https://github.com/Stephanevg/PsKrane
 
-## [ADEssentials](https://www.powershellgallery.com/Packages/ADEssentials/0.0.208) | 0.0.208
-
-### Published: 05/13/2024 06:22:11 by Przemyslaw Klys
-
-Helper module for Active Directory with lots of useful functions that simplify supporting Active Directory.
-
-__Downloads__: 212,326 | __Repository__: https://github.com/EvotecIT/ADEssentials
-
 ## [UiPathOrch](https://www.powershellgallery.com/Packages/UiPathOrch/0.8.10.9) | 0.8.10.9
 
 ### Published: 05/13/2024 01:44:02 by Yoshifumi Tsuda
@@ -85,23 +174,6 @@ Project website: https://www.poshsvn.com
 
 __Downloads__: 114 | __Repository__: https://www.poshsvn.com/
 
-## [ImportExcel](https://www.powershellgallery.com/Packages/ImportExcel/7.8.7) | 7.8.7
-
-### Published: 05/12/2024 17:53:22 by Douglas Finke
-
-PowerShell module to import/export Excel spreadsheets, without Excel.
-Check out the How To Videos https://www.youtube.com/watch?v=U3Ne_yX4tYo&list=PL5uoqS92stXioZw-u-ze_NtvSo0k0K0kq
-
-__Downloads__: 5,367,124 | __Repository__: https://github.com/dfinke/ImportExcel
-
-## [fscps.tools](https://www.powershellgallery.com/Packages/fscps.tools/0.1.190) | 0.1.190
-
-### Published: 05/12/2024 17:49:43 by Oleksandr Nikolaiev
-
-fscps.tools
-
-__Downloads__: 1,117 | __Repository__: https://github.com/fscpscollaborative/fscps.tools
-
 ## [PsNtfs](https://www.powershellgallery.com/Packages/PsNtfs/2.0.192) | 2.0.192
 
 ### Published: 05/12/2024 17:23:26 by Jeremy La Camera
@@ -126,6 +198,14 @@ Split-Content Cmdlet for PowerShell
 
 __Downloads__: 13 | __Repository__: https://github.com/rhubarb-geek-nz/SplitContent
 
+## [FarNet.Redis](https://www.powershellgallery.com/Packages/FarNet.Redis/0.7.5) | 0.7.5
+
+### Published: 05/12/2024 12:21:38 by Roman Kuzmin
+
+StackExchange.Redis cmdlets
+
+__Downloads__: 64 | __Repository__: https://github.com/nightroman/FarNet.Redis
+
 ## [pocof](https://www.powershellgallery.com/Packages/pocof/0.12.1) | 0.12.1
 
 ### Published: 05/12/2024 06:49:09 by Takatoshi Kuriyama
@@ -133,14 +213,6 @@ __Downloads__: 13 | __Repository__: https://github.com/rhubarb-geek-nz/SplitCont
 An interactive pipeline filtering Cmdlet for PowerShell written in F#. A fork of poco which is a PowerShell port of peco.
 
 __Downloads__: 238 | __Repository__: https://github.com/krymtkts/pocof/
-
-## [PowerShell.DynamicBatch](https://www.powershellgallery.com/Packages/PowerShell.DynamicBatch/1.70) | 1.70
-
-### Published: 05/12/2024 02:40:34 by HT
-
-Dynamically loads batch job configurations and executes the job.
-
-__Downloads__: 505 | __Repository__: 
 
 ## [ShellMenuX](https://www.powershellgallery.com/Packages/ShellMenuX/1.0.0) | 1.0.0
 
@@ -252,14 +324,6 @@ __Downloads__: 7,815 | __Repository__: https://github.com/brandoncomputer/powers
 This module scans links for malicious activity.
 
 __Downloads__: 0 | __Repository__: http://yourprojecturi.com/
-
-## [WFControlsLIB](https://www.powershellgallery.com/Packages/WFControlsLIB/2.0.14) | 2.0.14
-
-### Published: 05/10/2024 20:10:32 by Antonny Godinho
-
-MÃ³dulo para facilitar o uso de WinForms
-
-__Downloads__: 261 | __Repository__: 
 
 ## [PSMSALNet](https://www.powershellgallery.com/Packages/PSMSALNet/0.0.9) | 0.0.9
 
@@ -373,14 +437,6 @@ Functions for Active Directory
 
 __Downloads__: 46,162 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
-## [tatux.telemetry](https://www.powershellgallery.com/Packages/tatux.telemetry/0.0.16) | 0.0.16
-
-### Published: 05/10/2024 16:34:10 by Nigel Tatschner
-
-Functions to perform telemetry collections for my suite of modules allowing for improvements to my code
-
-__Downloads__: 48 | __Repository__: https://github.com/ntatschner/Tatux.Telemetry
-
 ## [CoveBackupApi](https://www.powershellgallery.com/Packages/CoveBackupApi/0.0.8) | 0.0.8
 
 ### Published: 05/10/2024 15:06:27 by Chris Foulstone
@@ -388,14 +444,6 @@ __Downloads__: 48 | __Repository__: https://github.com/ntatschner/Tatux.Telemetr
 A Powershell module to interact with the Cove JSON API
 
 __Downloads__: 58 | __Repository__: https://github.com/impelling/CoveBackupApi
-
-## [Tatux.Utils](https://www.powershellgallery.com/Packages/Tatux.Utils/0.2.54) | 0.2.54
-
-### Published: 05/10/2024 15:02:12 by Nigel Tatschner
-
-A Set of utilities ive created to help with various tasks
-
-__Downloads__: 637 | __Repository__: 
 
 ## [tatux.intune.packaging](https://www.powershellgallery.com/Packages/tatux.intune.packaging/0.9.0.57) | 0.9.0.57
 
@@ -428,14 +476,6 @@ __Downloads__: 65,583 | __Repository__: https://devolutions.net/
 Zerto PowerShell Commandlets
 
 __Downloads__: 238 | __Repository__: https://www.zerto.com/
-
-## [TCC_Utilities-Module](https://www.powershellgallery.com/Packages/TCC_Utilities-Module/1.0) | 1.0
-
-### Published: 05/10/2024 12:57:19 by TCC
-
-TCC Utilities Module
-
-__Downloads__: 0 | __Repository__: 
 
 ## [ShellGPT](https://www.powershellgallery.com/Packages/ShellGPT/1.3.5) | 1.3.5
 
@@ -2039,44 +2079,4 @@ A module for interacting with Azure DevOps.
 
 __Downloads__: 17 | __Repository__: https://github.com/thisjustin816/AzDO
 
-## [Export-Bitwarden](https://www.powershellgallery.com/Packages/Export-Bitwarden/1.42) | 1.42
-
-### Published: 05/06/2024 17:31:59 by Thomas Parkison
-
-A Powershell script to export your Bitwarden password vault.
-
-__Downloads__: 105 | __Repository__: 
-
-## [EasyPIM](https://www.powershellgallery.com/Packages/EasyPIM/1.5.10) | 1.5.10
-
-### Published: 05/06/2024 17:28:50 by Loïc MICHEL
-
-Manage PIM Azure Resource, PIM Entra role and PIM for Group settings and assignments with simplicity in mind
-
-__Downloads__: 1,598 | __Repository__: https://github.com/kayasax/EasyPIM/
-
-## [Wait-Net](https://www.powershellgallery.com/Packages/Wait-Net/0.1.2) | 0.1.2
-
-### Published: 05/06/2024 17:23:22 by Sedat Kapanoglu
-
-Provides cmdlets to diagnose Internet connectivity
-
-__Downloads__: 7 | __Repository__: 
-
-## [sdp](https://www.powershellgallery.com/Packages/sdp/1.4.5) | 1.4.5
-
-### Published: 05/06/2024 16:48:58 by J.R. Phillips
-
-Powershell SDK for Silk (formerly Kaminario) cloud data platform.
-
-__Downloads__: 634 | __Repository__: https://github.com/silk-us/silk-sdp-powershell-sdk
-
-## [RiverMeadow.Release.Migrate](https://www.powershellgallery.com/Packages/RiverMeadow.Release.Migrate/1.0.120.514) | 1.0.120.514
-
-### Published: 05/06/2024 16:01:22 by RiverMeadow Engineering Team
-
-Provides cmdlets for starting migration of applications to supported clouds using the RiverMeadow platform.
-
-__Downloads__: 691 | __Repository__: https://migrate.rivermeadow.com/
-
-*Updated: Monday, 13 May 2024 09:51:31 UTC*
+*Updated: Monday, 13 May 2024 17:51:54 UTC*
