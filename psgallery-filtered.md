@@ -3,6 +3,70 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [CramPOSH.PSSecret](https://www.powershellgallery.com/Packages/CramPOSH.PSSecret/0.0.11) | 0.0.11
+
+### Published: 05/14/2024 01:07:33 by Grant Le Roux
+
+Store secrets to AppData, encrypted by certificates
+
+__Downloads__: 17 | __Repository__: 
+
+## [UGDSB.PS](https://www.powershellgallery.com/Packages/UGDSB.PS/1.1.0) | 1.1.0
+
+### Published: 05/14/2024 00:17:17 by Jeremy Putman
+
+This bundles together functions related to powershell functions use for UGDSB
+
+__Downloads__: 17 | __Repository__: 
+
+## [CustomSecurityAttribute](https://www.powershellgallery.com/Packages/CustomSecurityAttribute/1.0.3) | 1.0.3
+
+### Published: 05/13/2024 23:58:49 by Marius Solbakken Mellum
+
+A PowerShell module for working with custom security attributes at scale. The module enables easy interaction with custom security attributes, as well as a simplified way of synchronizing HR data to Entra ID custom security attributes, by providing a lookup feature.
+
+__Downloads__: 0 | __Repository__: https://github.com/goodworkaround/PS-CustomSecurityAttribute/
+
+## [cr-devops-rest](https://www.powershellgallery.com/Packages/cr-devops-rest/2024.5.323) | 2024.5.323
+
+### Published: 05/13/2024 22:03:11 by Ryan.Phay@clearesult.com
+
+Create straight forward REST calls in PowerShell based on API endpoints defined in .json files.  Add your own REST API endpoints by simply creating new .json files.
+
+__Downloads__: 294 | __Repository__: https://github.com/CLEAResult/it.devops.psm.rest
+
+## [Box](https://www.powershellgallery.com/Packages/Box/0.0.7) | 0.0.7
+
+### Published: 05/13/2024 21:18:03 by David de Mingo
+
+Gestor de màquines virtuals
+
+__Downloads__: 16 | __Repository__: https://gitlab.com/xtec/box/
+
+## [fscps.tools](https://www.powershellgallery.com/Packages/fscps.tools/1.0.192) | 1.0.192
+
+### Published: 05/13/2024 21:03:03 by Oleksandr Nikolaiev
+
+fscps.tools
+
+__Downloads__: 1,117 | __Repository__: https://github.com/fscpscollaborative/fscps.tools
+
+## [WindmillClient](https://www.powershellgallery.com/Packages/WindmillClient/1.328.0) | 1.328.0
+
+### Published: 05/13/2024 20:55:03 by Windmill Labs
+
+Client for the Windmill platform.
+
+__Downloads__: 111 | __Repository__: https://github.com/windmill-labs/windmill/tree/main/powershell-client
+
+## [PSOpenAI](https://www.powershellgallery.com/Packages/PSOpenAI/3.11.0) | 3.11.0
+
+### Published: 05/13/2024 17:48:09 by mkht
+
+PowerShell module for OpenAI API
+
+__Downloads__: 2,309 | __Repository__: https://github.com/mkht/PSOpenAI
+
 ## [Endjin.RecommendedPractices.Build](https://www.powershellgallery.com/Packages/Endjin.RecommendedPractices.Build/1.5.6) | 1.5.6
 
 ### Published: 05/13/2024 16:05:12 by Endjineers
@@ -76,14 +140,6 @@ A Set of utilities ive created to help with various tasks
 
 __Downloads__: 637 | __Repository__: 
 
-## [fscps.tools](https://www.powershellgallery.com/Packages/fscps.tools/1.0.191) | 1.0.191
-
-### Published: 05/13/2024 13:25:05 by Oleksandr Nikolaiev
-
-fscps.tools
-
-__Downloads__: 1,117 | __Repository__: https://github.com/fscpscollaborative/fscps.tools
-
 ## [AzurePIM](https://www.powershellgallery.com/Packages/AzurePIM/1.0.15175) | 1.0.15175
 
 ### Published: 05/13/2024 11:42:42 by Azure Team VWGS
@@ -123,14 +179,6 @@ __Downloads__: 0 | __Repository__:
 Extract Azure API Management to ARM templates
 
 __Downloads__: 13,101 | __Repository__: https://github.com/MLogdberg/APIManagementARMTemplateCreator
-
-## [WindmillClient](https://www.powershellgallery.com/Packages/WindmillClient/1.327.0) | 1.327.0
-
-### Published: 05/13/2024 06:32:14 by Windmill Labs
-
-Client for the Windmill platform.
-
-__Downloads__: 111 | __Repository__: https://github.com/windmill-labs/windmill/tree/main/powershell-client
 
 ## [PsKrane](https://www.powershellgallery.com/Packages/PsKrane/0.3.0) | 0.3.0
 
@@ -301,14 +349,6 @@ The non-official OpenAI PowerShell module. This module is used to interact with 
 
 __Downloads__: 55,197 | __Repository__: https://github.com/chenxizhang/openai-powershell/
 
-## [PSOpenAI](https://www.powershellgallery.com/Packages/PSOpenAI/3.10.0) | 3.10.0
-
-### Published: 05/11/2024 06:32:08 by mkht
-
-PowerShell module for OpenAI API
-
-__Downloads__: 2,309 | __Repository__: https://github.com/mkht/PSOpenAI
-
 ## [powershell-designer](https://www.powershellgallery.com/Packages/powershell-designer/2.4.6) | 2.4.6
 
 ### Published: 05/11/2024 03:42:25 by Brandon Cunningham
@@ -477,6 +517,14 @@ Zerto PowerShell Commandlets
 
 __Downloads__: 238 | __Repository__: https://www.zerto.com/
 
+## [TCC_Utilities-Module](https://www.powershellgallery.com/Packages/TCC_Utilities-Module/1.0) | 1.0
+
+### Published: 05/10/2024 12:57:19 by TCC
+
+TCC Utilities Module
+
+__Downloads__: 0 | __Repository__: 
+
 ## [ShellGPT](https://www.powershellgallery.com/Packages/ShellGPT/1.3.5) | 1.3.5
 
 ### Published: 05/10/2024 12:20:12 by Yanik Maurer
@@ -553,14 +601,6 @@ __Downloads__: 0 | __Repository__:
 A PowerShell module to generate an Veeam Backup & Replication infrastructure diagram
 
 __Downloads__: 6,086 | __Repository__: https://github.com/rebelinux/Veeam.Diagrammer
-
-## [cr-devops-rest](https://www.powershellgallery.com/Packages/cr-devops-rest/2024.5.321) | 2024.5.321
-
-### Published: 05/09/2024 23:52:30 by Ryan.Phay@clearesult.com
-
-Create straight forward REST calls in PowerShell based on API endpoints defined in .json files.  Add your own REST API endpoints by simply creating new .json files.
-
-__Downloads__: 294 | __Repository__: https://github.com/CLEAResult/it.devops.psm.rest
 
 ## [BinaryTree.Internal.Power365.ST](https://www.powershellgallery.com/Packages/BinaryTree.Internal.Power365.ST/20.12.15.114) | 20.12.15.114
 
@@ -697,14 +737,6 @@ __Downloads__: 661 | __Repository__:
 Module to bootstrap amd support Sopra Steria Norway RightCloud private Powershell Gallery.
 
 __Downloads__: 15 | __Repository__: https://gitlab.com/rightcloud/rcpsgallery
-
-## [Box](https://www.powershellgallery.com/Packages/Box/0.0.6) | 0.0.6
-
-### Published: 05/08/2024 10:58:50 by David de Mingo
-
-Gestor de màquines virtuals
-
-__Downloads__: 16 | __Repository__: https://gitlab.com/xtec/box/
 
 ## [DisplayConfig](https://www.powershellgallery.com/Packages/DisplayConfig/1.0.6) | 1.0.6
 
@@ -2047,36 +2079,4 @@ PowerShell helper to use Okta API
 
 __Downloads__: 239 | __Repository__: 
 
-## [alias-tips](https://www.powershellgallery.com/Packages/alias-tips/1.1.0) | 1.1.0
-
-### Published: 05/06/2024 21:20:14 by Cody Duong
-
-Provides alias tips for commands. Help remembering those shell aliases defined
-
-__Downloads__: 462 | __Repository__: https://github.com/codyduong/powershell-alias-tips
-
-## [DnsClientX](https://www.powershellgallery.com/Packages/DnsClientX/0.2.0) | 0.2.0
-
-### Published: 05/06/2024 19:26:40 by Przemyslaw Klys
-
-DnsClientX is PowerShell module that allows you to query DNS servers for information. It supports DNS over UDP, TCP and DNS over HTTPS (DoH) and DNS over TLS (DoT). It supports multiple types of DNS queries and can be used to query public DNS servers, private DNS servers and has built-in DNS Providers.
-
-__Downloads__: 6 | __Repository__: https://github.com/EvotecIT/DnsClientX
-
-## [PSPublishModule](https://www.powershellgallery.com/Packages/PSPublishModule/2.0.12) | 2.0.12
-
-### Published: 05/06/2024 19:04:01 by Przemyslaw Klys
-
-Simple project allowing preparing, managing, building and publishing modules to PowerShellGallery
-
-__Downloads__: 1,964 | __Repository__: https://github.com/EvotecIT/PSPublishModule
-
-## [AzDOCmd](https://www.powershellgallery.com/Packages/AzDOCmd/0.0.4) | 0.0.4
-
-### Published: 05/06/2024 18:31:50 by Justin Beeson
-
-A module for interacting with Azure DevOps.
-
-__Downloads__: 17 | __Repository__: https://github.com/thisjustin816/AzDO
-
-*Updated: Monday, 13 May 2024 17:51:54 UTC*
+*Updated: Tuesday, 14 May 2024 02:04:15 UTC*
