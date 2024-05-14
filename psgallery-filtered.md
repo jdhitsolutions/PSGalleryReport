@@ -3,29 +3,143 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
-## [Tatux.Utils](https://www.powershellgallery.com/Packages/Tatux.Utils/0.2.57) | 0.2.57
+## [DTX.Cloud.Management](https://www.powershellgallery.com/Packages/DTX.Cloud.Management/1.8.1) | 1.8.1
 
-### Published: 05/14/2024 09:48:46 by Nigel Tatschner
+### Published: 05/14/2024 16:55:32 by Platform Operations Team
+
+Dotmatics cloud automation tool.
+
+__Downloads__: 5,507 | __Repository__: 
+
+## [PoshSvn](https://www.powershellgallery.com/Packages/PoshSvn/1.0.1) | 1.0.1
+
+### Published: 05/14/2024 16:15:34 by Timofei Zhakov
+
+Apache Subversion client for PowerShell
+
+Project website: https://www.poshsvn.com
+
+__Downloads__: 114 | __Repository__: https://www.poshsvn.com/
+
+## [CWTimeEntry](https://www.powershellgallery.com/Packages/CWTimeEntry/0.0.17) | 0.0.17
+
+### Published: 05/14/2024 16:12:59 by Joseph Robertson
+
+A Windows PowerShell module for managing time entries in ConnectWise
+
+__Downloads__: 113 | __Repository__: https://github.com/jrobertson20/CWTimeEntry
+
+## [PSOpenAI](https://www.powershellgallery.com/Packages/PSOpenAI/3.12.0) | 3.12.0
+
+### Published: 05/14/2024 15:43:12 by mkht
+
+PowerShell module for OpenAI API
+
+__Downloads__: 2,309 | __Repository__: https://github.com/mkht/PSOpenAI
+
+## [AzurePIM](https://www.powershellgallery.com/Packages/AzurePIM/1.0.15183) | 1.0.15183
+
+### Published: 05/14/2024 14:39:10 by Azure Team VWGS
+
+Helper module to manage PIM for Azure Resources as code.
+
+__Downloads__: 92 | __Repository__: 
+
+## [Tatux.Utils](https://www.powershellgallery.com/Packages/Tatux.Utils/0.2.60) | 0.2.60
+
+### Published: 05/14/2024 14:26:02 by Nigel Tatschner
 
 A Set of utilities ive created to help with various tasks
 
 __Downloads__: 637 | __Repository__: 
 
-## [tatux.intune.packaging](https://www.powershellgallery.com/Packages/tatux.intune.packaging/0.9.0.58) | 0.9.0.58
+## [SMART-BcBuildHelper](https://www.powershellgallery.com/Packages/SMART-BcBuildHelper/1.5.20) | 1.5.20
 
-### Published: 05/14/2024 09:42:46 by Nigel Tatschner
+### Published: 05/14/2024 14:19:06 by SMART business
+
+Module SMART-BcBuildHelper
+
+__Downloads__: 3,471 | __Repository__: 
+
+## [PS.Octopus](https://www.powershellgallery.com/Packages/PS.Octopus/1.2) | 1.2
+
+### Published: 05/14/2024 14:14:10 by Nutstone
+
+Wraps octopus api
+
+__Downloads__: 6 | __Repository__: 
+
+## [IntuneResourceLocalization](https://www.powershellgallery.com/Packages/IntuneResourceLocalization/0.2.69) | 0.2.69
+
+### Published: 05/14/2024 14:08:38 by Inetum Realdolmen
+
+PowerShell module for managing localization resources on intune-managed devices
+
+__Downloads__: 1,972 | __Repository__: 
+
+## [PowerShell.DynamicBatch](https://www.powershellgallery.com/Packages/PowerShell.DynamicBatch/1.72) | 1.72
+
+### Published: 05/14/2024 14:04:57 by HT
+
+Dynamically loads batch job configurations and executes the job.
+
+__Downloads__: 505 | __Repository__: 
+
+## [tatux.telemetry](https://www.powershellgallery.com/Packages/tatux.telemetry/0.0.34) | 0.0.34
+
+### Published: 05/14/2024 12:47:25 by Nigel Tatschner
+
+Functions to perform telemetry collections for my suite of modules allowing for improvements to my code
+
+__Downloads__: 48 | __Repository__: https://github.com/ntatschner/Tatux.Telemetry
+
+## [tatux.intune.packaging](https://www.powershellgallery.com/Packages/tatux.intune.packaging/0.9.0.61) | 0.9.0.61
+
+### Published: 05/14/2024 12:45:40 by Nigel Tatschner
 
 A set of functions designed to package and deploy Application packages to Microsoft Intune.
 
 __Downloads__: 140 | __Repository__: 
 
-## [tatux.telemetry](https://www.powershellgallery.com/Packages/tatux.telemetry/0.0.28) | 0.0.28
+## [WFControlsLIB](https://www.powershellgallery.com/Packages/WFControlsLIB/2.0.25) | 2.0.25
 
-### Published: 05/14/2024 09:42:05 by Nigel Tatschner
+### Published: 05/14/2024 12:28:12 by Antonny Godinho
 
-Functions to perform telemetry collections for my suite of modules allowing for improvements to my code
+MÃ³dulo para facilitar o uso de WinForms
 
-__Downloads__: 48 | __Repository__: https://github.com/ntatschner/Tatux.Telemetry
+__Downloads__: 261 | __Repository__: 
+
+## [EasyPIM](https://www.powershellgallery.com/Packages/EasyPIM/1.6) | 1.6
+
+### Published: 05/14/2024 11:38:52 by Loïc MICHEL
+
+Manage PIM Azure Resource, PIM Entra role and PIM for Group settings and assignments with simplicity in mind
+
+__Downloads__: 1,598 | __Repository__: https://github.com/kayasax/EasyPIM/
+
+## [AutomateNOW](https://www.powershellgallery.com/Packages/AutomateNOW/1.0.19) | 1.0.19
+
+### Published: 05/14/2024 11:17:08 by AutomateNOW-Fan
+
+Interact with the API of an AutomateNOW! instance
+
+__Downloads__: 137 | __Repository__: https://github.com/AutomateNOW-Fan/AutomateNOW
+
+## [CommvaultPowerShell](https://www.powershellgallery.com/Packages/CommvaultPowerShell/0.2.21) | 0.2.21
+
+### Published: 05/14/2024 11:10:40 by COMMVAULT
+
+COMMVAULT POWERSHELL SDK
+
+__Downloads__: 1,073 | __Repository__: https://github.com/Commvault/CVPowershellSDKV2/tree/2022E
+
+## [UnifiManagement](https://www.powershellgallery.com/Packages/UnifiManagement/1.0.1) | 1.0.1
+
+### Published: 05/14/2024 10:24:19 by Dan Searle
+
+Manage Unifi wireless netork settings and configuration.
+
+__Downloads__: 0 | __Repository__: 
 
 ## [Particular.ServiceControl.Management](https://www.powershellgallery.com/Packages/Particular.ServiceControl.Management/5.2.0) | 5.2.0
 
@@ -51,14 +165,6 @@ __Downloads__: 0 | __Repository__:
 fscps.tools
 
 __Downloads__: 1,117 | __Repository__: https://github.com/fscpscollaborative/fscps.tools
-
-## [code365scripts.sandbox](https://www.powershellgallery.com/Packages/code365scripts.sandbox/1.0.0.0) | 1.0.0.0
-
-### Published: 05/14/2024 07:55:15 by chenxizhang
-
-Start Windows Sandbox in a single line of command. You can set the language, and install apps. Enjoy.
-
-__Downloads__: 0 | __Repository__: 
 
 ## [CustomSecurityAttribute](https://www.powershellgallery.com/Packages/CustomSecurityAttribute/1.0.4) | 1.0.4
 
@@ -108,14 +214,6 @@ Client for the Windmill platform.
 
 __Downloads__: 111 | __Repository__: https://github.com/windmill-labs/windmill/tree/main/powershell-client
 
-## [PSOpenAI](https://www.powershellgallery.com/Packages/PSOpenAI/3.11.0) | 3.11.0
-
-### Published: 05/13/2024 17:48:09 by mkht
-
-PowerShell module for OpenAI API
-
-__Downloads__: 2,309 | __Repository__: https://github.com/mkht/PSOpenAI
-
 ## [Endjin.RecommendedPractices.Build](https://www.powershellgallery.com/Packages/Endjin.RecommendedPractices.Build/1.5.6) | 1.5.6
 
 ### Published: 05/13/2024 16:05:12 by Endjineers
@@ -148,22 +246,6 @@ Helper module for Active Directory with lots of useful functions that simplify s
 
 __Downloads__: 212,326 | __Repository__: https://github.com/EvotecIT/ADEssentials
 
-## [PowerShell.DynamicBatch](https://www.powershellgallery.com/Packages/PowerShell.DynamicBatch/1.71) | 1.71
-
-### Published: 05/13/2024 14:36:10 by HT
-
-Dynamically loads batch job configurations and executes the job.
-
-__Downloads__: 505 | __Repository__: 
-
-## [WFControlsLIB](https://www.powershellgallery.com/Packages/WFControlsLIB/2.0.21) | 2.0.21
-
-### Published: 05/13/2024 14:26:45 by Antonny Godinho
-
-MÃ³dulo para facilitar o uso de WinForms
-
-__Downloads__: 261 | __Repository__: 
-
 ## [ImportExcel](https://www.powershellgallery.com/Packages/ImportExcel/7.8.8) | 7.8.8
 
 ### Published: 05/13/2024 13:37:57 by Douglas Finke
@@ -172,14 +254,6 @@ PowerShell module to import/export Excel spreadsheets, without Excel.
 Check out the How To Videos https://www.youtube.com/watch?v=U3Ne_yX4tYo&list=PL5uoqS92stXioZw-u-ze_NtvSo0k0K0kq
 
 __Downloads__: 5,367,124 | __Repository__: https://github.com/dfinke/ImportExcel
-
-## [AzurePIM](https://www.powershellgallery.com/Packages/AzurePIM/1.0.15175) | 1.0.15175
-
-### Published: 05/13/2024 11:42:42 by Azure Team VWGS
-
-Helper module to manage PIM for Azure Resources as code.
-
-__Downloads__: 92 | __Repository__: 
 
 ## [PSAuthClient](https://www.powershellgallery.com/Packages/PSAuthClient/1.1.1) | 1.1.1
 
@@ -244,16 +318,6 @@ __Downloads__: 2,000 | __Repository__:
 Helps creating an ErrorRecord
 
 __Downloads__: 10 | __Repository__: 
-
-## [PoshSvn](https://www.powershellgallery.com/Packages/PoshSvn/1.0.0) | 1.0.0
-
-### Published: 05/12/2024 18:00:20 by Timofei Zhakov
-
-Apache Subversion client for PowerShell
-
-Project website: https://www.poshsvn.com
-
-__Downloads__: 114 | __Repository__: https://www.poshsvn.com/
 
 ## [PsNtfs](https://www.powershellgallery.com/Packages/PsNtfs/2.0.192) | 2.0.192
 
@@ -1948,22 +2012,6 @@ OCI Common module exports Cmdlets that manages features offered by OCI Modules f
 
 __Downloads__: 176,450 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-## [DTX.Cloud.Management](https://www.powershellgallery.com/Packages/DTX.Cloud.Management/1.7.0) | 1.7.0
-
-### Published: 05/07/2024 15:15:14 by Platform Operations Team
-
-Dotmatics cloud automation tool.
-
-__Downloads__: 5,507 | __Repository__: 
-
-## [SMART-BcBuildHelper](https://www.powershellgallery.com/Packages/SMART-BcBuildHelper/1.5.14) | 1.5.14
-
-### Published: 05/07/2024 14:41:58 by SMART business
-
-Module SMART-BcBuildHelper
-
-__Downloads__: 3,471 | __Repository__: 
-
 ## [M365DSCTools](https://www.powershellgallery.com/Packages/M365DSCTools/0.2.10) | 0.2.10
 
 ### Published: 05/07/2024 14:07:03 by Yorick Kuijs
@@ -1996,6 +2044,14 @@ MetaNull's Tools for Confluence
 
 __Downloads__: 32 | __Repository__: https://bitbucket.org/metanull/metanullps/src/develop/MetaNullWiki/source/
 
+## [MetaNullUtils](https://www.powershellgallery.com/Packages/MetaNullUtils/0.16.0.9) | 0.16.0.9
+
+### Published: 05/07/2024 11:29:29 by Pascal Havelange
+
+MetaNull's Utilities
+
+__Downloads__: 33 | __Repository__: https://bitbucket.org/metanull/metanullps/src/develop/MetaNullUtils/source/
+
 ## [MetaNullTechnologyReport](https://www.powershellgallery.com/Packages/MetaNullTechnologyReport/0.6.0.2) | 0.6.0.2
 
 ### Published: 05/07/2024 11:29:20 by Pascal Havelange
@@ -2012,72 +2068,4 @@ Powershell Module for confguration of JetStream Software on AVS
 
 __Downloads__: 2,556 | __Repository__: https://www.jetstreamsoft.com/about/support/
 
-## [BCSPowershellModule](https://www.powershellgallery.com/Packages/BCSPowershellModule/1.0.158) | 1.0.158
-
-### Published: 05/07/2024 09:15:58 by Mathias Stjernfelt
-
-BrightCom Solutions AB powershell helper.
-
-__Downloads__: 44,607 | __Repository__: 
-
-## [BaseApiBuilder](https://www.powershellgallery.com/Packages/BaseApiBuilder/1.1.0) | 1.1.0
-
-### Published: 05/07/2024 07:39:52 by LarryWisherMan
-
-Powershell toolset for building Powershell wrappers for RESTful APIs
-
-__Downloads__: 22 | __Repository__: 
-
-## [Microsoft.PowerPlatform.DevOps](https://www.powershellgallery.com/Packages/Microsoft.PowerPlatform.DevOps/2.0.210) | 2.0.210
-
-### Published: 05/07/2024 07:19:12 by Dylan Haskins and Eugene Van Staden
-
-A Toolset for Implementing and Adopting a full ALM strategy for the Microsoft PowerPlatform.
-
-__Downloads__: 56,066 | __Repository__: https://github.com/dylanhaskins/Microsoft.PowerPlatform.DevOps.Documentation
-
-## [AutomateNOW](https://www.powershellgallery.com/Packages/AutomateNOW/1.0.18) | 1.0.18
-
-### Published: 05/07/2024 06:36:29 by AutomateNOW-Fan
-
-Interact with the API of an AutomateNOW! instance
-
-__Downloads__: 137 | __Repository__: https://github.com/AutomateNOW-Fan/AutomateNOW
-
-## [DockerColorPosh](https://www.powershellgallery.com/Packages/DockerColorPosh/1.0.0) | 1.0.0
-
-### Published: 05/07/2024 04:32:29 by IsWladi
-
-Colorful Docker outputs for enhanced readability.
-
-__Downloads__: 25 | __Repository__: https://github.com/IsWladi/DockerColorPosh
-
-## [PSTcpIp](https://www.powershellgallery.com/Packages/PSTcpIp/4.30.3) | 4.30.3
-
-### Published: 05/07/2024 01:31:37 by Anthony Guimelli
-
-Provides cmdlets to perform various TCPIP and TLS/SSL related tasks.
-
-__Downloads__: 4,525 | __Repository__: https://github.com/anthonyg-1/PSTcpIp
-
-## [SecureMFA_SSPR](https://www.powershellgallery.com/Packages/SecureMFA_SSPR/2.0.1.2) | 2.0.1.2
-
-### Published: 05/07/2024 00:47:22 by SecureMFA.com
-
-SecureMFA SSPR Portal.
-
-Self-service password reset Portal allows to reset, change and unlock Active Directory accounts. The portal enforces multi factor authentication to verify user identity.
-User must have  OTP Account which is required to complete first factor authentication. Second factor authentication will be user password challenge or authorization token received via email.
-Portal supports different roles and multiple domain profiles.
- 
-Prerequisites
-
-- IIS 10 or above.
-- OS with Windows x64 architecture.
-- ASP.NET Core 8.0 Runtime (minimum v8.0.4).
-
-For quick start details look into Readme.txt or visit https://www.securemfa.com/downloads/mfa-sspr
-
-__Downloads__: 464 | __Repository__: https://www.securemfa.com/
-
-*Updated: Tuesday, 14 May 2024 09:51:43 UTC*
+*Updated: Tuesday, 14 May 2024 17:51:39 UTC*
