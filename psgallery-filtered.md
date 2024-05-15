@@ -3,6 +3,54 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [RCPSGallery](https://www.powershellgallery.com/Packages/RCPSGallery/1.2.2) | 1.2.2
+
+### Published: 05/15/2024 08:53:15 by RightCloud
+
+Module to bootstrap amd support Sopra Steria Norway RightCloud private Powershell Gallery.
+
+__Downloads__: 15 | __Repository__: https://gitlab.com/rightcloud/rcpsgallery
+
+## [anh2](https://www.powershellgallery.com/Packages/anh2/0.0.1) | 0.0.1
+
+### Published: 05/15/2024 08:40:58 by anh dang
+
+this is test
+
+__Downloads__: 0 | __Repository__: 
+
+## [WindmillClient](https://www.powershellgallery.com/Packages/WindmillClient/1.330.1) | 1.330.1
+
+### Published: 05/15/2024 08:37:20 by Windmill Labs
+
+Client for the Windmill platform.
+
+__Downloads__: 111 | __Repository__: https://github.com/windmill-labs/windmill/tree/main/powershell-client
+
+## [DTX.Cloud.Management](https://www.powershellgallery.com/Packages/DTX.Cloud.Management/1.9.0) | 1.9.0
+
+### Published: 05/15/2024 08:09:24 by Platform Operations Team
+
+Dotmatics cloud automation tool.
+
+__Downloads__: 5,507 | __Repository__: 
+
+## [UnifiedContactsPS](https://www.powershellgallery.com/Packages/UnifiedContactsPS/5.5.0) | 5.5.0
+
+### Published: 05/15/2024 06:08:46 by glueckkanja AG
+
+UnifiedContactsPS
+
+__Downloads__: 497 | __Repository__: 
+
+## [RiverMeadow.Development.Migrate](https://www.powershellgallery.com/Packages/RiverMeadow.Development.Migrate/1.0.121.519) | 1.0.121.519
+
+### Published: 05/15/2024 05:15:36 by RiverMeadow Engineering Team
+
+Provides cmdlets for starting migration of applications to supported clouds using the RiverMeadow platform.
+
+__Downloads__: 934 | __Repository__: https://migrate.rivermeadow.com/
+
 ## [Microsoft.PowerPlatform.DevOps](https://www.powershellgallery.com/Packages/Microsoft.PowerPlatform.DevOps/2.0.212) | 2.0.212
 
 ### Published: 05/15/2024 01:31:41 by Dylan Haskins and Eugene Van Staden
@@ -26,6 +74,30 @@ __Downloads__: 1,769 | __Repository__: https://github.com/ykuijs/M365DSC.Composi
 StackExchange.Redis cmdlets
 
 __Downloads__: 64 | __Repository__: https://github.com/nightroman/FarNet.Redis
+
+## [UnifiManagement](https://www.powershellgallery.com/Packages/UnifiManagement/1.1.0) | 1.1.0
+
+### Published: 05/14/2024 21:39:15 by Dan Searle
+
+Manage Unifi wireless netork settings and configuration.
+
+__Downloads__: 0 | __Repository__: 
+
+## [AuditTools](https://www.powershellgallery.com/Packages/AuditTools/1.4) | 1.4
+
+### Published: 05/14/2024 20:30:20 by UdehNdukwe
+
+Module to gather sign in information (Last Interactive and NonInteractive Sign In Date) for user accounts in Entra ID and export them to a CSV for reporting purposes. Future versions will have expanded Audit capabilities.
+
+__Downloads__: 0 | __Repository__: 
+
+## [1C.ParserLST](https://www.powershellgallery.com/Packages/1C.ParserLST/1.0.22.1) | 1.0.22.1
+
+### Published: 05/14/2024 19:55:54 by Pavel Aivazov
+
+Parse .lst 1c cluster files
+
+__Downloads__: 0 | __Repository__: 
 
 ## [CloudDeploymentFramework](https://www.powershellgallery.com/Packages/CloudDeploymentFramework/1.2.0) | 1.2.0
 
@@ -1192,14 +1264,6 @@ A set of PowerShell commands for creating and managing a WPF-based clock that ru
 
 __Downloads__: 3,565 | __Repository__: https://github.com/jdhitsolutions/PSClock
 
-## [DTX.Cloud.Management](https://www.powershellgallery.com/Packages/DTX.Cloud.Management/1.8.1) | 1.8.1
-
-### Published: 05/14/2024 16:55:32 by Platform Operations Team
-
-Dotmatics cloud automation tool.
-
-__Downloads__: 5,507 | __Repository__: 
-
 ## [PoshSvn](https://www.powershellgallery.com/Packages/PoshSvn/1.0.1) | 1.0.1
 
 ### Published: 05/14/2024 16:15:34 by Timofei Zhakov
@@ -1394,14 +1458,6 @@ __Downloads__: 294 | __Repository__: https://github.com/CLEAResult/it.devops.psm
 Gestor de màquines virtuals
 
 __Downloads__: 16 | __Repository__: https://gitlab.com/xtec/box/
-
-## [WindmillClient](https://www.powershellgallery.com/Packages/WindmillClient/1.328.0) | 1.328.0
-
-### Published: 05/13/2024 20:55:03 by Windmill Labs
-
-Client for the Windmill platform.
-
-__Downloads__: 111 | __Repository__: https://github.com/windmill-labs/windmill/tree/main/powershell-client
 
 ## [Endjin.RecommendedPractices.Build](https://www.powershellgallery.com/Packages/Endjin.RecommendedPractices.Build/1.5.6) | 1.5.6
 
@@ -2000,14 +2056,6 @@ This is the preview version of the PowerShell module that is used to automate pr
 
 __Downloads__: 661 | __Repository__: 
 
-## [RCPSGallery](https://www.powershellgallery.com/Packages/RCPSGallery/1.2.1) | 1.2.1
-
-### Published: 05/08/2024 11:04:22 by RightCloud
-
-Module to bootstrap amd support Sopra Steria Norway RightCloud private Powershell Gallery.
-
-__Downloads__: 15 | __Repository__: https://gitlab.com/rightcloud/rcpsgallery
-
 ## [DisplayConfig](https://www.powershellgallery.com/Packages/DisplayConfig/1.0.6) | 1.0.6
 
 ### Published: 05/08/2024 08:49:10 by MartinGC94
@@ -2024,52 +2072,4 @@ This module contains the functions to manage and prepare Azure Tenants in a CAF 
 
 __Downloads__: 329 | __Repository__: https://devdeer.com/
 
-## [SystemAdmins.AutoTyper](https://www.powershellgallery.com/Packages/SystemAdmins.AutoTyper/1.0.1) | 1.0.1
-
-### Published: 05/08/2024 07:56:23 by Alex Hansen
-
-Module to review the Microsoft 365 tenant settings
-
-__Downloads__: 3 | __Repository__: https://github.com/System-Admins/autotyper
-
-## [Diagrammer.Microsoft.AD](https://www.powershellgallery.com/Packages/Diagrammer.Microsoft.AD/0.2.2) | 0.2.2
-
-### Published: 05/08/2024 04:36:20 by Jonathan Colon
-
-A PowerShell module to generate an as built report on the configuration of Microsoft AD.
-
-__Downloads__: 2,856 | __Repository__: https://github.com/rebelinux/Diagrammer.Microsoft.AD
-
-## [QuestADTools](https://www.powershellgallery.com/Packages/QuestADTools/0.2.1.0) | 0.2.1.0
-
-### Published: 05/07/2024 21:59:19 by Gary Cook
-
-Internal AD Tool for Quest
-
-__Downloads__: 54 | __Repository__: 
-
-## [pwps_expimpandreports](https://www.powershellgallery.com/Packages/pwps_expimpandreports/2.0.0.0) | 2.0.0.0
-
-### Published: 05/07/2024 19:45:52 by Zach Kerr/Brian Flaherty
-
-ProjectWise PowerShell Export/Import/Reporting Cmdlets from System Architecture Group
-
-__Downloads__: 3 | __Repository__: 
-
-## [KpPwpush](https://www.powershellgallery.com/Packages/KpPwpush/1.3.1) | 1.3.1
-
-### Published: 05/07/2024 18:56:34 by Kamil Pro
-
-Module wraps pwpush.com API
-
-__Downloads__: 1,433 | __Repository__: https://github.com/thekamilpro/kppwpush
-
-## [ConnectWiseControlAPI](https://www.powershellgallery.com/Packages/ConnectWiseControlAPI/0.4.0.0) | 0.4.0.0
-
-### Published: 05/07/2024 18:40:27 by Chris Taylor
-
-PowerShell wrapper for ConnectWise Control web API
-
-__Downloads__: 206,600 | __Repository__: https://github.com/christaylorcodes/ConnectWiseControlAPI
-
-*Updated: Wednesday, 15 May 2024 02:07:50 UTC*
+*Updated: Wednesday, 15 May 2024 09:51:45 UTC*
