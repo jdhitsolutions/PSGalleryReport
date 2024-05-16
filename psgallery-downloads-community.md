@@ -1144,9 +1144,9 @@ Mailozaurr is a PowerShell module that aims to provide SMTP, POP3, IMAP and few 
 
 __Downloads__: 972,475 | __Repository__: https://github.com/EvotecIT/MailoZaurr
 
-## [JumpCloud.SDK.DirectoryInsights](https://www.powershellgallery.com/Packages/JumpCloud.SDK.DirectoryInsights/0.0.29) | 0.0.29
+## [JumpCloud.SDK.DirectoryInsights](https://www.powershellgallery.com/Packages/JumpCloud.SDK.DirectoryInsights/0.0.30) | 0.0.30
 
-### Published: 04/15/2024 20:46:47 by JumpCloud
+### Published: 05/16/2024 14:11:30 by JumpCloud
 
 The JumpCloud DirectoryInsights PowerShell SDK
 
@@ -1160,17 +1160,17 @@ SplitPipeline - Parallel Data Processing in PowerShell
 
 __Downloads__: 918,626 | __Repository__: https://github.com/nightroman/SplitPipeline
 
-## [JumpCloud.SDK.V1](https://www.powershellgallery.com/Packages/JumpCloud.SDK.V1/0.0.41) | 0.0.41
+## [JumpCloud.SDK.V1](https://www.powershellgallery.com/Packages/JumpCloud.SDK.V1/0.0.42) | 0.0.42
 
-### Published: 04/15/2024 20:47:00 by JumpCloud
+### Published: 05/16/2024 14:11:38 by JumpCloud
 
 The JumpCloud V1 PowerShell SDK
 
 __Downloads__: 908,851 | __Repository__: https://github.com/TheJumpCloud/jcapi-powershell/tree/master/SDKs/PowerShell/JumpCloud.SDK.V1/
 
-## [JumpCloud.SDK.V2](https://www.powershellgallery.com/Packages/JumpCloud.SDK.V2/0.0.45) | 0.0.45
+## [JumpCloud.SDK.V2](https://www.powershellgallery.com/Packages/JumpCloud.SDK.V2/0.0.46) | 0.0.46
 
-### Published: 04/15/2024 20:46:49 by JumpCloud
+### Published: 05/16/2024 14:12:10 by JumpCloud
 
 The JumpCloud V2 PowerShell SDK
 
@@ -2187,4 +2187,4 @@ Icinga for Windows module which allows to entirely monitor the Windows Host syst
 
 __Downloads__: 221,804 | __Repository__: https://github.com/Icinga/icinga-powershell-framework
 
-*Updated: Thursday, 16 May 2024 09:51:48 UTC*
+*Updated: Thursday, 16 May 2024 17:51:50 UTC*
