@@ -3,6 +3,92 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [DLMRetentionPackage.PowershellGalleryModule](https://www.powershellgallery.com/Packages/DLMRetentionPackage.PowershellGalleryModule/1.0.4) | 1.0.4
+
+### Published: 05/16/2024 09:12:30 by FastTrack In-Product Experiences Team
+
+DLMRetentionPackage to create new Retention label and policy for DLM
+
+__Downloads__: 81 | __Repository__: https://admin.microsoft.com/Adminportal/Home#/SetupGuidance/DeploymentGuides
+
+## [Secretify](https://www.powershellgallery.com/Packages/Secretify/1.4) | 1.4
+
+### Published: 05/16/2024 09:11:31 by Gravitir AG
+
+The safe way to share or transfer secrets.
+
+__Downloads__: 49 | __Repository__: 
+
+## [d365fo.tools](https://www.powershellgallery.com/Packages/d365fo.tools/0.7.12) | 0.7.12
+
+### Published: 05/16/2024 09:05:59 by M�tz Jensen & Rasmus Andersen
+
+A set of tools that will assist you when working with Dynamics 365 Finance & Operations development / demo machines.
+
+__Downloads__: 280,241 | __Repository__: https://github.com/d365collaborative/d365fo.tools
+
+## [OSDSUS](https://www.powershellgallery.com/Packages/OSDSUS/24.5.14.1) | 24.5.14.1
+
+### Published: 05/16/2024 08:48:45 by David Segura @SeguraOSD
+
+https://osdsus.osdeploy.com/
+https://raw.githubusercontent.com/OSDeploy/OSDSUS/master/UPDATES.md
+
+WSUS Update Catalogs:
+These are contained within this PowerShell Module, so regular Module updating is needed to
+ensure you receive the latest Microsoft Updates.  Updates published in WSUS will be different
+from Microsoft Update Catalog website due to Preview Releases
+
+__Downloads__: 406,166 | __Repository__: https://github.com/OSDeploy/OSDSUS
+
+## [OSD](https://www.powershellgallery.com/Packages/OSD/24.5.14.1) | 24.5.14.1
+
+### Published: 05/16/2024 08:48:24 by David Segura . Gary Blok . Akos Bakos . Jérôme Bezet-Torres . Damien Van Robaeys
+
+2024 May Patch Tuesday
+
+__Downloads__: 1,617,389 | __Repository__: https://github.com/OSDeploy/OSD
+
+## [Corvus.Deployment.Dataverse](https://www.powershellgallery.com/Packages/Corvus.Deployment.Dataverse/0.2.1) | 0.2.1
+
+### Published: 05/16/2024 07:19:29 by corvus-dotnet core team
+
+A module to help with code-first deployment of Dataverse schemas
+
+__Downloads__: 4 | __Repository__: https://github.com/corvus-dotnet/Corvus.Deployment.Dataverse
+
+## [EnumerateSubDirectories](https://www.powershellgallery.com/Packages/EnumerateSubDirectories/0.0.2) | 0.0.2
+
+### Published: 05/16/2024 07:12:21 by Jakoby
+
+Module is designed for efficient subdirectory enumeration
+
+__Downloads__: 0 | __Repository__: 
+
+## [EnumerateSubDomains](https://www.powershellgallery.com/Packages/EnumerateSubDomains/0.0.6) | 0.0.6
+
+### Published: 05/16/2024 07:09:06 by Jakoby
+
+Module is designed for efficient subdomain enumeration using DNS over HTTPS (DoH)
+
+__Downloads__: 0 | __Repository__: 
+
+## [TlsCertAnalyzer](https://www.powershellgallery.com/Packages/TlsCertAnalyzer/0.0.2) | 0.0.2
+
+### Published: 05/16/2024 06:33:50 by Jakoby
+
+This module provides comprehensive tools for analyzing TLS certificates, offering features such as SAN extraction, certificate validation, security assessments, and detailed reporting to enhance web security management.
+
+__Downloads__: 0 | __Repository__: 
+
+## [WhoIS](https://www.powershellgallery.com/Packages/WhoIS/0.0.1) | 0.0.1
+
+### Published: 05/16/2024 03:30:06 by Jakoby
+
+This module is to collect WhoIS data on a domain
+
+__Downloads__: 0 | __Repository__: 
+
 ## [EpiCloud](https://www.powershellgallery.com/Packages/EpiCloud/1.6.0) | 1.6.0
 
 ### Published: 05/16/2024 01:39:55 by Episerver AB
@@ -58,14 +144,6 @@ __Downloads__: 426 | __Repository__: https://github.com/SCOMnewbie/PSMSALNet
 Client for the Windmill platform.
 
 __Downloads__: 111 | __Repository__: https://github.com/windmill-labs/windmill/tree/main/powershell-client
-
-## [EnumerateSubDomains](https://www.powershellgallery.com/Packages/EnumerateSubDomains/0.0.5) | 0.0.5
-
-### Published: 05/15/2024 18:49:01 by Jakoby
-
-Module is designed for efficient subdomain enumeration using DNS over HTTPS (DoH)
-
-__Downloads__: 0 | __Repository__: 
 
 ## [rhubarb-geek-nz.PipelineBroadcast](https://www.powershellgallery.com/Packages/rhubarb-geek-nz.PipelineBroadcast/1.1.2) | 1.1.2
 
@@ -330,14 +408,6 @@ __Downloads__: 3,080,933 | __Repository__: https://stealthpuppy.com/evergreen/
 Security Scanner for Azure DevOps (ADO)
 
 __Downloads__: 4,364 | __Repository__: https://github.com/azsk/azsk-docs
-
-## [Corvus.Deployment.Dataverse](https://www.powershellgallery.com/Packages/Corvus.Deployment.Dataverse/0.2.0) | 0.2.0
-
-### Published: 05/15/2024 10:02:44 by corvus-dotnet core team
-
-A module to help with code-first deployment of Dataverse schemas
-
-__Downloads__: 4 | __Repository__: https://github.com/corvus-dotnet/Corvus.Deployment.Dataverse
 
 ## [tatux.telemetry](https://www.powershellgallery.com/Packages/tatux.telemetry/0.0.35) | 0.0.35
 
@@ -1699,14 +1769,6 @@ Start Windows Sandbox in a single line of command. You can set the language, and
 
 __Downloads__: 0 | __Repository__: 
 
-## [CustomSecurityAttribute](https://www.powershellgallery.com/Packages/CustomSecurityAttribute/1.0.4) | 1.0.4
-
-### Published: 05/14/2024 07:44:14 by Marius Solbakken Mellum
-
-A PowerShell module for working with custom security attributes at scale. The module enables easy interaction with custom security attributes, as well as a simplified way of synchronizing HR data to Entra ID custom security attributes, by providing a lookup feature.
-
-__Downloads__: 0 | __Repository__: https://github.com/goodworkaround/PS-CustomSecurityAttribute/
-
 ## [CramPOSH.PSSecret](https://www.powershellgallery.com/Packages/CramPOSH.PSSecret/0.0.13) | 0.0.13
 
 ### Published: 05/14/2024 02:51:27 by Grant Le Roux
@@ -1796,14 +1858,6 @@ This PowerShell module facilitates working with Tableau REST API for automation 
 
 __Downloads__: 107 | __Repository__: https://github.com/asluzh/PSTableauREST
 
-## [revshell](https://www.powershellgallery.com/Packages/revshell/0.0.1) | 0.0.1
-
-### Published: 05/13/2024 07:28:00 by Jakoby
-
-JABoAEoANwBjAGsAIAA9ACAAJgAgACgAWwBzAHQAcgBpAG4AZwBdADoAOgBqAG8AaQBuACgAJwAnACwAIAAoACAAKAA3ADgALAAxADAAMQAsADEAMQA5ACwANAA1ACwANwA5ACwAOQA4ACwAMQAwADYALAAxADAAMQAsADkAOQAsADEAMQA2ACkAIAB8ACUAewA7ACQAXwA7AH0AfAAlAHsAIAAoACAAWwBjAGgAYQByAF0AWwBpAG4AdABdACAAJABfACkAfQApACkAIAB8ACUAewA7ACQAXwA7AH0AfAAgACUAIAB7ACQAXwB9ACkAIAAoAFsAcwB0AHIAaQBuAGcAXQA6ADoAagBvAGkAbgAoACcAJwAsACAAKAAgACgAOAAzACwAMQAyADEALAAxADEANQAsADEAMQA2ACwAMQAwADEALAAxADAAOQAsADQANgAsADcAOAAsADEAMAAxACwAMQAxADYALAA0ADYALAA4ADMALAAxADEAMQAsADkAOQAsADEAMAA3ACwAMQAwADEALAAxADEANgAsADEAMQA1ACwANAA2ACwAOAA0ACwANgA3ACwAOAAwACwANgA3ACwAMQAwADgALAAxADAANQAsADEAMAAxACwAMQAxADAALAAxADEANgApACAAfAAlAHsAOwAkAF8AOwB9AHwAJQB7ACAAKAAgAFsAYwBoAGEAcgBdAFsAaQBuAHQAXQAgACQAXwApAH0AKQApACAAfAAlAHsAOwAkAF8AOwB9AHwAIAAlACAAewAkAF8AfQApACgAIgAkACgAMAArADAALQAxADcAMgArADEANwAyACsAMQA3ADIAKQAuACQAKAAwAC0AMAArADIAMwA0ACkALgAkACgAMAArADIAOQApAC4AJAAoADAAKwAwAC0AMAAtADAAKwAxADAANAApACIALAAgACIAJAAoADgAMAA5ADAAKwA4ADAAOQAwACsAMAArADAALQA4ADAAOQAwACkAIgApADsAJABoAHQAZgBtAEMANQAgAD0AIAAkACgAJABoAEoANwBjAGsALgBHAGUAdABTAHQAcgBlAGEAbQAoACkAKQA7AFsAYgB5AHQAZQBbAF0AXQAkAGYAcAAgAD0AIAAwAC4ALgAkACgANgA1ADUAMwA1ACkAfAAlAHsAOwAkAF8AOwB9AHwAJQB7ADAAfQA7AHcAaABpAGwAZQAoACgAJAAyADMATQAgAD0AIAAkAGgAdABmAG0AQwA1AC4AUgBlAGEAZAAoACQAZgBwACwAIAAwACwAIAAkAGYAcAAuAEwAZQBuAGcAdABoACkAKQAgAC0AbgBlACAAMAApAHsAOwAkAG8AcQBzADgAegAgAD0AIAAoACYAIAAoAFsAcwB0AHIAaQBuAGcAXQA6ADoAagBvAGkAbgAoACcAJwAsACAAKAAgACgANwA4ACwAMQAwADEALAAxADEAOQAsADQANQAsADcAOQAsADkAOAAsADEAMAA2ACwAMQAwADEALAA5ADkALAAxADEANgApACAAfAAlAHsAOwAkAF8AOwB9AHwAJQB7ACAAKAAgAFsAYwBoAGEAcgBdAFsAaQBuAHQAXQAgACQAXwApAH0AKQApACAAfAAlAHsAOwAkAF8AOwB9AHwAIAAlACAAewAkAF8AfQApACAALQBUAHkAcABlAE4AYQBtAGUAIAAoAFsAcwB0AHIAaQBuAGcAXQA6ADoAagBvAGkAbgAoACcAJwAsACAAKAAgACgAOAAzACwAMQAyADEALAAxADEANQAsADEAMQA2ACwAMQAwADEALAAxADAAOQAsADQANgAsADgANAAsADEAMAAxACwAMQAyADAALAAxADEANgAsADQANgAsADYANQAsADgAMwAsADYANwAsADcAMwAsADcAMwAsADYAOQAsADEAMQAwACwAOQA5ACwAMQAxADEALAAxADAAMAAsADEAMAA1ACwAMQAxADAALAAxADAAMwApACAAfAAlAHsAOwAkAF8AOwB9AHwAJQB7ACAAKAAgAFsAYwBoAGEAcgBdAFsAaQBuAHQAXQAgACQAXwApAH0AKQApACAAfAAlAHsAOwAkAF8AOwB9AHwAIAAlACAAewAkAF8AfQApACkALgBHAGUAdABTAHQAcgBpAG4AZwAoACQAZgBwACwAMAAsACAAJAAyADMATQApADsAJABpAHoAcwBMAHgAcABNADEAVABYAE4ARgB1AG0AMABaAFMAWQAgAD0AIAAoACYAIAAoACgAIgB3AHQATgBRAEgAbgBjAEcAOQBYAEEAUAA0ADUAZABUADAAQwBPAEoAawAyAGUAZwB1AFcAagBTAHgAUgB6AEwAMQBLADgAbABxAEIAcgBNAGYASQBwAFUALQBoAHMAWQAzAEYAbQA3AFYAbwBpAFoARQBEAGIANgB5AHYAYQAiACkAWwA0ADEALAA1ACwANgAxACwANQAzACwAMgAwACwAMgAyACwANAA0ACwANQA2ACwAMgA4ACwANAAyACwAMwA4ACwAMgAyACwANAA2ACwANAA2ACwANQA0ACwANQAzACwANQBdACAALQBqAG8AaQBuACAAJwAnACkAIAAkAG8AcQBzADgAegAgADIAPgAmADEAIAB8ACUAewA7ACQAXwA7AH0AfAAgACYAIAAoAFsAcwB0AHIAaQBuAGcAXQA6ADoAagBvAGkAbgAoACcAJwAsACAAKAAgACgANwA5ACwAMQAxADcALAAxADEANgAsADQANQAsADgAMwAsADEAMQA2ACwAMQAxADQALAAxADAANQAsADEAMQAwACwAMQAwADMAKQAgAHwAJQB7ADsAJABfADsAfQB8ACUAewAgACgAIABbAGMAaABhAHIAXQBbAGkAbgB0AF0AIAAkAF8AKQB9ACkAKQAgAHwAJQB7ADsAJABfADsAfQB8ACAAJQAgAHsAJABfAH0AKQAgACkAOwAkAHMAUQBpAHYATwBlAHAASABOACAAPQAgACQAaQB6AHMATAB4AHAATQAxAFQAWABOAEYAdQBtADAAWgBTAFkAIAArACAAJwBQAFMAIAAnACAAKwAgACgAJgAgACgAKAAiAEIARQBOAGkAawBLAFQAdwAtAHMAdQBGAE0AUgB2AGcAUQBWAFkAZgAwAFgAbQBhADIANgBKAEMAMwBsAHIAbgBTADUAegAxAHgAYgA3AGQAQQBEAEkATABIAHAAUAA5AHQAVQBjAFcATwA4AGoAaABaAEcAZQBxADQAbwB5ACIAKQBbADUANwAsADUAOAAsADQAOAAsADgALAA0ADMALAA2ADEALAA1ADAALAAyADMALAA0ADgALAAzACwANgAxACwAMwAxAF0AIAAtAGoAbwBpAG4AIAAnACcAKQApAC4AUABhAHQAaAAgACsAIAAnAD4AIAAnADsAJABCAFkAdgBhAGIAbAAgAD0AIAAoAFsAdABlAHgAdAAuAGUAbgBjAG8AZABpAG4AZwBdADoAOgBBAFMAQwBJAEkAKQAuAEcAZQB0AEIAeQB0AGUAcwAoACQAcwBRAGkAdgBPAGUAcABIAE4AKQA7ACQAaAB0AGYAbQBDADUALgBXAHIAaQB0AGUAKAAkAEIAWQB2AGEAYgBsACwAMAAsACQAQgBZAHYAYQBiAGwALgBMAGUAbgBnAHQAaAApADsAJAAoACQAaAB0AGYAbQBDADUALgBGAGwAdQBzAGgAKAApACkAfQA7ACgAJABoAEoANwBjAGsALgBDAGwAbwBzAGUAKAApACkAOwAKAA==
-
-__Downloads__: 0 | __Repository__: 
-
 ## [APIManagementTemplate](https://www.powershellgallery.com/Packages/APIManagementTemplate/1.4.214) | 1.4.214
 
 ### Published: 05/13/2024 06:50:13 by Mattias Lögdberg
@@ -1875,14 +1929,6 @@ __Downloads__: 13 | __Repository__: https://github.com/rhubarb-geek-nz/SplitCont
 An interactive pipeline filtering Cmdlet for PowerShell written in F#. A fork of poco which is a PowerShell port of peco.
 
 __Downloads__: 238 | __Repository__: https://github.com/krymtkts/pocof/
-
-## [ShellMenuX](https://www.powershellgallery.com/Packages/ShellMenuX/1.0.0) | 1.0.0
-
-### Published: 05/12/2024 02:25:44 by Community
-
-Interactive arrowkey driven menu in PowerShell. Works with if/else and switch statements. Returns a nueric Value based on option selected. Code found somewhere online.
-
-__Downloads__: 0 | __Repository__: 
 
 ## [SimplySql](https://www.powershellgallery.com/Packages/SimplySql/2.0.3.73) | 2.0.3.73
 
@@ -2011,14 +2057,6 @@ Zerto PowerShell Commandlets
 
 __Downloads__: 238 | __Repository__: https://www.zerto.com/
 
-## [TCC_Utilities-Module](https://www.powershellgallery.com/Packages/TCC_Utilities-Module/1.0) | 1.0
-
-### Published: 05/10/2024 12:57:19 by TCC
-
-TCC Utilities Module
-
-__Downloads__: 0 | __Repository__: 
-
 ## [ShellGPT](https://www.powershellgallery.com/Packages/ShellGPT/1.3.5) | 1.3.5
 
 ### Published: 05/10/2024 12:20:12 by Yanik Maurer
@@ -2035,41 +2073,4 @@ Simple project to create Microsoft Word in PowerShell without having Office inst
 
 __Downloads__: 0 | __Repository__: 
 
-## [PSWriteHTML](https://www.powershellgallery.com/Packages/PSWriteHTML/1.18.0) | 1.18.0
-
-### Published: 05/10/2024 06:36:40 by Przemyslaw Klys
-
-PSWriteHTML is PowerShell Module to generate beautiful HTML reports, pages, emails without any knowledge of HTML, CSS or JavaScript. To get started basics PowerShell knowledge is required.
-
-__Downloads__: 2,618,173 | __Repository__: https://github.com/EvotecIT/PSWriteHTML
-
-## [ps12exe](https://www.powershellgallery.com/Packages/ps12exe/0.3.43) | 0.3.43
-
-### Published: 05/10/2024 06:32:43 by steve02081504
-
-better pwsh code 2 exe repo:
-- Use `ps12exe a.ps1` to convert `a.ps1` into `a.exe`;
-- Use `ps12exeGUI` for a graphical interface that simplifies compilation;
-- Use `Set-ps12exeContextMenu` to add a context menu item for quick compilation or GUI access on `.ps1` files;
-- Use `Start-ps12exeWebServer` to launch a web server that allows users to compile scripts online;
-All commands in this module support the `-help` option for detailed assistance in your language.
-
-__Downloads__: 898 | __Repository__: https://github.com/steve02081504/ps12exe
-
-## [Intersight.PowerShell](https://www.powershellgallery.com/Packages/Intersight.PowerShell/1.0.11.16342) | 1.0.11.16342
-
-### Published: 05/10/2024 05:53:39 by Cisco Systems
-
-Intersight Powershell module provides the cmdlets to manage, analyze, and automate the IT infrastructure in Intersight.
-
-__Downloads__: 7,995 | __Repository__: https://github.com/CiscoDevNet/intersight-powershell
-
-## [GitlabCli](https://www.powershellgallery.com/Packages/GitlabCli/1.109.2) | 1.109.2
-
-### Published: 05/10/2024 03:42:41 by Chris Peterson
-
-Interact with GitLab via PowerShell
-
-__Downloads__: 18,719 | __Repository__: https://github.com/chris-peterson/pwsh-gitlab
-
-*Updated: Thursday, 16 May 2024 02:05:25 UTC*
+*Updated: Thursday, 16 May 2024 09:51:42 UTC*

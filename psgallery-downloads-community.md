@@ -900,11 +900,11 @@ Windows PowerShell module to interact with Atlassian JIRA
 
 __Downloads__: 1,665,191 | __Repository__: https://atlassianps.org/module/JiraPS
 
-## [OSD](https://www.powershellgallery.com/Packages/OSD/24.4.9.1) | 24.4.9.1
+## [OSD](https://www.powershellgallery.com/Packages/OSD/24.5.14.1) | 24.5.14.1
 
-### Published: 04/11/2024 00:32:17 by David Segura . Gary Blok . Jérôme Bezet-Torres . Damien Van Robaeys . Mike Marable . Akos Bakos
+### Published: 05/16/2024 08:48:24 by David Segura . Gary Blok . Akos Bakos . Jérôme Bezet-Torres . Damien Van Robaeys
 
-2024 April Patch Tuesday
+2024 May Patch Tuesday
 
 __Downloads__: 1,617,389 | __Repository__: https://github.com/OSDeploy/OSD
 
@@ -1648,9 +1648,9 @@ Provides a set of functions to manage Win32 apps in Microsoft Endpoint Manager (
 
 __Downloads__: 414,519 | __Repository__: https://github.com/MSEndpointMgr/IntuneWin32App
 
-## [OSDSUS](https://www.powershellgallery.com/Packages/OSDSUS/24.4.9.1) | 24.4.9.1
+## [OSDSUS](https://www.powershellgallery.com/Packages/OSDSUS/24.5.14.1) | 24.5.14.1
 
-### Published: 04/11/2024 00:32:28 by David Segura @SeguraOSD
+### Published: 05/16/2024 08:48:45 by David Segura @SeguraOSD
 
 https://osdsus.osdeploy.com/
 https://raw.githubusercontent.com/OSDeploy/OSDSUS/master/UPDATES.md
@@ -2003,9 +2003,9 @@ PowerShell Module for Managing VMware vRealize Automation
 
 __Downloads__: 284,909 | __Repository__: https://github.com/jakkulabs/PowervRA
 
-## [d365fo.tools](https://www.powershellgallery.com/Packages/d365fo.tools/0.7.10) | 0.7.10
+## [d365fo.tools](https://www.powershellgallery.com/Packages/d365fo.tools/0.7.12) | 0.7.12
 
-### Published: 05/02/2024 12:41:29 by Mötz Jensen & Rasmus Andersen
+### Published: 05/16/2024 09:05:59 by M�tz Jensen & Rasmus Andersen
 
 A set of tools that will assist you when working with Dynamics 365 Finance & Operations development / demo machines.
 
@@ -2187,4 +2187,4 @@ Icinga for Windows module which allows to entirely monitor the Windows Host syst
 
 __Downloads__: 221,804 | __Repository__: https://github.com/Icinga/icinga-powershell-framework
 
-*Updated: Thursday, 16 May 2024 02:05:30 UTC*
+*Updated: Thursday, 16 May 2024 09:51:48 UTC*
