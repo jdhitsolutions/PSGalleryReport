@@ -1608,9 +1608,9 @@ A PowerShell module for interacting with the time-series database platform Influ
 
 __Downloads__: 455,218 | __Repository__: https://github.com/markwragg/Powershell-Influx
 
-## [EpiCloud](https://www.powershellgallery.com/Packages/EpiCloud/1.5.0) | 1.5.0
+## [EpiCloud](https://www.powershellgallery.com/Packages/EpiCloud/1.6.0) | 1.6.0
 
-### Published: 02/13/2024 08:52:55 by Episerver AB
+### Published: 05/16/2024 01:39:55 by Episerver AB
 
 A module that can interact with the Episerver Cloud
 
@@ -2187,4 +2187,4 @@ Icinga for Windows module which allows to entirely monitor the Windows Host syst
 
 __Downloads__: 221,804 | __Repository__: https://github.com/Icinga/icinga-powershell-framework
 
-*Updated: Wednesday, 15 May 2024 17:53:28 UTC*
+*Updated: Thursday, 16 May 2024 02:05:30 UTC*
