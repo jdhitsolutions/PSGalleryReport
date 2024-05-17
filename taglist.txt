@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Thursday, 16 May 2024 17:51:53 UTC
+Updated: Friday, 17 May 2024 02:04:58 UTC
 
 .bat
 .env
@@ -70,12 +70,10 @@ aadsecurity
 aadsts
 aam
 aas
-aatp
 abc
 abc_testing
 abe
 about
-abr
 abstractsyntaxtree
 abuse
 abuseipdb
@@ -193,7 +191,6 @@ adm
 admf
 admin
 admin-tools
-adminbyrequest
 admindirectory
 administration
 administrative
@@ -279,8 +276,6 @@ alc
 alero
 alert
 alerting
-alertmail
-alertmanagement
 alerts
 alertsmanagement
 alfresco
@@ -304,7 +299,6 @@ alpine
 alt3
 alter
 alteryx
-alwaysontop
 alwaysonvpn
 alz
 amateur
@@ -355,7 +349,6 @@ ansible-control-node
 ansible-playbook
 ansible-vault
 ansiblecontrolnode
-anti-malware
 antimalwarescaninterface
 antispam
 antivirus
@@ -418,7 +411,6 @@ applocker
 apply
 appmgmtcontrol
 apppool
-appraiser
 approve
 apps
 appservice
@@ -679,18 +671,15 @@ azureadbackupandrestore
 azureadconnect
 azureadgraph
 azureadtoolkit
-azureadvancedthreatprotection
 azureappconfiguration
 azureapplicationstuff
 azureartifacts
 azureas
-azureatp
 azureautomation
 azureautomationaccount
 azureautomationnotsupported
 azurebasicloadbalancerupgrade
 azurecli
-azurecodesigning
 azurecognitiveservices
 azurecommonstuff
 azurecontainerapps
@@ -780,7 +769,6 @@ basename
 bash
 basic
 bastion
-bat
 batcat
 batch
 batchclass
@@ -888,6 +876,7 @@ blueteam
 bluetraitio
 bluetuxedo
 bmc
+bnm
 boards
 bofh
 boilerplate
@@ -900,7 +889,6 @@ bookmark
 bookmarks
 books
 bool
-boolean
 bootloader psmodule
 bootstrap
 bootstrapping
@@ -937,7 +925,6 @@ british-gas
 brk4452
 broadcast
 broadcom
-broot
 brownserve-uk
 browser
 browserbox
@@ -948,7 +935,6 @@ brs
 bruteforce
 bson
 btdf
-btm
 budget
 bugbounty
 bugzilla
@@ -978,13 +964,11 @@ business
 businesscentral
 businessdays
 businesshours
-businessobjects
 businessrulesengine
 businesstime
 bxor
 bydesign
 byexample
-bynarypsmodule
 byovd
 byte
 bytearray
@@ -1113,9 +1097,7 @@ chat
 chatbot
 chatgpt
 chatops
-chatroom
 chatter
-cheat
 check
 checker
 checklist
@@ -1237,7 +1219,6 @@ cloud_data_management
 cloud-backup
 cloud-computing
 cloud-init
-cloud-iq
 cloudant
 cloudbees
 cloudberry
@@ -1255,7 +1236,6 @@ cloudgovernance
 cloudguard
 cloudinairy
 cloudinit
-cloudiq
 cloudkey
 cloudmarque
 cloudmigrations
@@ -1307,7 +1287,6 @@ codegeneration
 codegenerator
 codellama
 codepoint
-codereview
 codes
 codesign
 codesigning
@@ -1419,7 +1398,6 @@ configurationkey
 configurationmanagement
 configurationmanager
 configurationprofile
-configurations
 configure
 confluence
 confluent
@@ -1438,7 +1416,6 @@ connectednetwork
 connectexchange
 connection
 connectionmonitor
-connections
 connectionsmanager
 connectionstring
 connectivity
@@ -1503,7 +1480,6 @@ convertfrom-table
 convertfrom-yaml
 convertto
 convertto-excel
-convertto-hashtable
 convertto-yaml
 converttodocx
 converttohtml
@@ -1529,7 +1505,6 @@ cosmos
 cosmosdb
 cost
 cost-management
-costmanagement
 costoptimization
 couchbase
 couchdb
@@ -1553,8 +1528,6 @@ covid-19
 cpm
 cppm
 cpu
-cpuid
-cpuid-information
 cq
 cqd
 cqdpowershell
@@ -1562,16 +1535,11 @@ cqhttp
 crack psmodule
 crash
 crawler
-crayon
 crc
 crc32
 create
-createcolumn
-createdatabase
 createfile
 createprocessasuser
-createschema
-createtable
 creationworkflowsimplification
 creator
 cred
@@ -1640,7 +1608,6 @@ cumulativeupdate
 cumulocity
 curious
 curl
-curlie
 currency
 currency-convereter
 currency-exchange
@@ -1838,7 +1805,6 @@ defender-atp
 defender-for-endpoint
 defenderast
 defenderforendpoint
-defenderforidentity
 defense
 deflate
 delegated
@@ -1851,7 +1817,6 @@ deleteuserprofile
 delivery
 dell
 dellemc
-delta
 demand
 demo
 democratie
@@ -1886,7 +1851,6 @@ deutschland
 dev
 dev-tools
 devart
-devcenter
 devdeer
 devdrive
 developer
@@ -1969,7 +1933,6 @@ discover
 discovery
 discutils
 disk
-disk_to_disk
 disk-space
 diskfree
 diskimage
@@ -2003,6 +1966,7 @@ dkim
 dkschrutebeets
 dl
 dll
+dlm
 dlmautomation
 dlmigration
 dlp
@@ -2047,7 +2011,6 @@ dockerize
 dockerswarm
 docking
 docs
-docset
 document
 documentation
 documentdb
@@ -2065,7 +2028,6 @@ dogstatsd
 dok
 dokuwiki
 domain
-domaincontroller
 domainkey
 domainname
 domainnamesystem
@@ -2076,7 +2038,6 @@ donothing
 dos
 dot
 dotenv
-dotfile
 dotfiles
 dotnet
 dotnet-cli
@@ -2123,9 +2084,7 @@ drm
 drone.io
 drop
 dropbox
-dropdatabase
 droplet
-droptable
 drs
 drsrule
 drupal
@@ -2162,7 +2121,6 @@ duck
 duckduckgo
 ducktyping
 dudckduckgo
-duf
 dummy
 dummyusers
 dump
@@ -2176,7 +2134,6 @@ duplicatioin
 duplication
 durable
 durabletask
-dust
 dutch
 dvls
 dword
@@ -2278,7 +2235,6 @@ emoji
 emojis
 emotion
 empire
-empty
 emwarehouse
 enable
 enable-internet
@@ -2351,7 +2307,6 @@ eryph
 esae
 escape
 escapecodes
-escapesequences
 escaping
 ese
 esent
@@ -2527,22 +2482,18 @@ fastgit
 fastlinq
 fastlookup
 fastping
-fasttrack
 fat32
 favorite
 favorites
 fb-pro
 fciv
-fd
 feather
 feature
 features
 featuresondemand
-featureupdate
 federated
 federateddirectory
 federation
-fedex
 feed
 fetch
 ffmpeg
@@ -2633,7 +2584,6 @@ findplace
 findproxyforurl
 fine-print
 fine-tuning
-finops
 firebird
 firefox
 firewall
@@ -2662,7 +2612,6 @@ fleetsoftwareupdate
 flex
 flex-query
 flexdesk
-flickr
 flowchart
 flowy
 fluidrelay
@@ -2825,7 +2774,6 @@ genxdev
 geo
 geocache
 geocaching
-geocode
 geoencode
 geoencoding
 geoip
@@ -2848,7 +2796,6 @@ get-dtdriverpack
 get-dtdriverupdates
 get-dtscriptnewcmpackagefromdriverpackpackagedefinitionsms
 get-dtscriptnewcmtasksequencefromdriverpackpackagedefinitionsms
-get-emptyadgroups
 get-externalip
 get-firmwaretype
 get-help
@@ -2864,8 +2811,6 @@ get-pinneditem
 get-samcmassignedsite
 get-samcmcurrentmanagementpoint
 get-samplingperiod
-get-stalecomps
-get-staleusers
 get-thermalstamp
 get-uptime
 getfirmwareenvironmentvariable
@@ -2884,7 +2829,6 @@ gist
 git
 git-client
 git-clone
-git-flow
 git-lfs
 git-proxy
 git-rename
@@ -2949,7 +2893,6 @@ governancerulescontrolplane
 gp
 gpedit
 gpg
-gping
 gpio
 gplink
 gpo
@@ -3046,9 +2989,7 @@ hannelstoolbox
 hanwha
 har
 hard
-hardblock
 harden
-harden-windows-security
 hardening
 hardlink
 hardmatch
@@ -3104,7 +3045,6 @@ help
 helpdesk
 helpdoc
 helper
-helper-functions
 helperfunctions
 helpers
 helpfile
@@ -3220,7 +3160,6 @@ hubspotcrm
 hubspotps
 hudson
 hue
-humanizer
 humanly
 humor
 humorous
@@ -3230,7 +3169,6 @@ hybrid
 hybridrunbookworker
 hyper-v
 hyperconverged
-hyperfine
 hyperlink
 hyperlinked-text
 hyperthreading
@@ -3303,7 +3241,6 @@ ikev2
 il
 illinois
 ilo
-ilo5
 ilocmdlets
 im
 image
@@ -3356,7 +3293,6 @@ indicator
 inedo
 inetfwrule
 inetum
-infinity
 influx
 influxdb
 info
@@ -3366,7 +3302,6 @@ information-technology
 informationbarriers
 informationtechnology
 informationtechnologyoperations
-informix
 infosec
 infrastructure
 infrastructureascode
@@ -3398,7 +3333,6 @@ install
 install-module
 install-windowsimage
 installation
-installationmanager
 installedapplications
 installer
 installers
@@ -3608,7 +3542,6 @@ junction
 junctions
 junit
 jupyter
-jupytor
 justenoughadministration
 jvm
 jwe
@@ -3681,6 +3614,7 @@ kotlin
 kql
 kraken
 krane
+krbtgt
 krick
 kschemaplugin
 kubclt
@@ -3732,7 +3666,6 @@ laserbeams
 last
 last.fm
 lastfm
-lastlogon
 lastpass
 latency
 latestupdate
@@ -3749,7 +3682,6 @@ lccn
 lcm
 lcminternals
 ldap
-leafs
 league
 lean
 learn
@@ -3782,8 +3714,6 @@ library
 libvirt
 licence
 license
-license-generator
-licenseautomation
 licensemanagement
 licensemanager
 licensereport
@@ -3803,7 +3733,6 @@ line
 line-endings
 linear
 linearalgebra
-lingeringobjects
 link
 link-capability
 link-preview
@@ -3861,7 +3790,6 @@ lock
 lockbox
 lockdisplaytimeout
 lockdown
-lockfile
 locking
 lockoutreport
 lockscreen
@@ -3891,7 +3819,6 @@ logging
 loggingingestion
 loggingsearch
 loggly
-logic
 logicapp
 logicapps
 logiclesstemplate
@@ -3900,6 +3827,7 @@ login
 login-azurermaccount
 login-rdp
 logingestion
+loginscreen
 loginsight
 logiphys
 logistic
@@ -4019,7 +3947,6 @@ mapapi
 mapi
 mappeddrives
 mapper24
-mapping
 maps
 mapsapi
 mariadb
@@ -4052,7 +3979,6 @@ matcharray
 matchhashtable
 materialdesign
 materialui
-mateso
 math
 mathematics
 matplotlib
@@ -4080,7 +4006,6 @@ mdb
 mdbc
 mde
 mdep
-mdi
 mdm
 mdop
 mdt
@@ -4104,7 +4029,6 @@ meetup.com
 meewind
 megabyte
 melamed
-meltdown
 mem
 member
 members
@@ -4165,17 +4089,13 @@ microsoft.graph
 microsoft.graph.api
 microsoft.identity.client
 microsoft.identitymodel.clients.activedirectory
-microsoft.logic
-microsoft.logic/workflows
 microsoft.web.administration
 microsoft365
 microsoft365dsc
 microsoftauthenticationlibrary
 microsoftazure
-microsoftcloud
 microsoftdefender
 microsoftdefenderatp
-microsoftdefenderforidentity
 microsoftdeploymenttoolkit
 microsoftendpointmanager
 microsoftexchangeserver
@@ -4249,6 +4169,7 @@ moduleupdateinfo
 moduleupdater
 moduleversion
 mof
+moldova
 moment
 monaco
 monday
@@ -4258,7 +4179,6 @@ moneyforward
 mongo
 mongodb
 monitor
-monitor psmodule
 monitorinformation
 monitoring
 monitoring_objects
@@ -4401,7 +4321,6 @@ nameit
 nameresolution
 names
 namespace
-naming
 nana
 nano
 nanoleaf
@@ -4474,7 +4393,6 @@ networkscan
 networksecurity
 networksecuritygroup
 networkshares
-netwrix
 new
 new-completionresult
 new-dtcmpackagefromdriverpackpackagedefinitionsms
@@ -4539,7 +4457,6 @@ normal
 norskale
 norway
 norwegian
-nos
 nosql
 note
 notebook
@@ -4564,7 +4481,6 @@ nprintingapi
 nps
 npslog
 npslogfile
-nql
 nrc
 nrql
 ns
@@ -4733,7 +4649,6 @@ opensourceinitiative
 openssh
 openssl
 openstack
-openstreetmaps
 openvpn
 operating
 operating_system
@@ -4785,7 +4700,6 @@ osdprogress
 osdsus
 osdupdate
 osi
-osm
 osmanagement
 osmanagementhub
 osp
@@ -4810,7 +4724,6 @@ ouraring
 out-consolegridview
 out-default
 out-gridview
-out-json
 outerjoin
 outertext
 outline
@@ -4858,7 +4771,6 @@ pagination
 paloalto
 paloaltonetworks
 pam
-panels
 pansies
 panther
 panzerbjrn
@@ -4909,7 +4821,6 @@ passwordlockoutreport
 passwordmanagement
 passwordmanager
 passwords
-passwordsecure
 passwordspray
 passwordstate
 passwordtool
@@ -5006,7 +4917,6 @@ pinneditem
 pinterest
 pinvoke
 pip
-pip3
 pipe
 pipedrive
 pipeline
@@ -5144,7 +5054,6 @@ poshy-wrap-forgit
 poshy-wrap-gem
 poshy-wrap-gh
 poshy-wrap-git
-poshy-wrap-git-flow
 poshy-wrap-git-lfs
 poshy-wrap-golang
 poshy-wrap-helm
@@ -5153,7 +5062,6 @@ poshy-wrap-maven
 poshy-wrap-nginx
 poshy-wrap-nmap
 poshy-wrap-npm
-poshy-wrap-pip
 poshy-wrap-pipenv
 poshy-wrap-pyenv
 poshy-wrap-pylint
@@ -5165,7 +5073,6 @@ poshy-wrap-terragrunt
 poshy-wrap-tmux
 poshy-wrap-vagrant
 poshy-wrap-vault
-poshy-wrap-vscode
 poshy-wrap-wget
 poshy-wrap-wt
 poshy-wrap-yum
@@ -5277,7 +5184,6 @@ prefixing
 preparead
 preparealldomains
 prepareschema
-prepend
 preprocessing
 preprocessor
 presentation
@@ -5323,7 +5229,6 @@ processing
 processmitigation
 processor
 procmap
-procs
 producer
 product
 productid
@@ -5387,6 +5292,7 @@ ps
 ps-completions
 ps-ncentral
 ps.credentialmanager
+ps1
 ps12exe
 ps1xml
 ps1xmlgen
@@ -5773,12 +5679,10 @@ pscommand_gcamg
 pscommand_gcams
 pscommand_gcamu
 pscommand_gcb
-pscommand_gcd
 pscommand_gcem
 pscommand_gcf
 pscommand_gcfl
 pscommand_gcfls
-pscommand_gch
 pscommand_gci
 pscommand_gcl
 pscommand_gclcd
@@ -5801,7 +5705,6 @@ pscommand_gcp
 pscommand_gcpa
 pscommand_gcpc
 pscommand_gcpx
-pscommand_gcr
 pscommand_gcsam
 pscommand_gct
 pscommand_gd
@@ -5896,27 +5799,6 @@ pscommand_geun
 pscommand_gexport
 pscommand_gf
 pscommand_gfa
-pscommand_gfl
-pscommand_gflf
-pscommand_gflff
-pscommand_gflffc
-pscommand_gflfp
-pscommand_gflfpc
-pscommand_gflfpll
-pscommand_gflfs
-pscommand_gflh
-pscommand_gflhf
-pscommand_gflhfc
-pscommand_gflhp
-pscommand_gflhpc
-pscommand_gflhs
-pscommand_gfli
-pscommand_gflr
-pscommand_gflrf
-pscommand_gflrfc
-pscommand_gflrp
-pscommand_gflrpc
-pscommand_gflrs
 pscommand_gfo
 pscommand_gft
 pscommand_gftv
@@ -6193,27 +6075,6 @@ pscommand_invoke-gitconfig
 pscommand_invoke-gitdifftool
 pscommand_invoke-gitfetch
 pscommand_invoke-gitfetchorigin
-pscommand_invoke-gitflow
-pscommand_invoke-gitflowfeature
-pscommand_invoke-gitflowfeaturefinish
-pscommand_invoke-gitflowfeaturefinishcurrent
-pscommand_invoke-gitflowfeaturepublish
-pscommand_invoke-gitflowfeaturepublishcurrent
-pscommand_invoke-gitflowfeaturepull
-pscommand_invoke-gitflowfeaturestart
-pscommand_invoke-gitflowhotfix
-pscommand_invoke-gitflowhotfixfinish
-pscommand_invoke-gitflowhotfixfinishcurrent
-pscommand_invoke-gitflowhotfixpublish
-pscommand_invoke-gitflowhotfixpublishcurrent
-pscommand_invoke-gitflowhotfixstart
-pscommand_invoke-gitflowinit
-pscommand_invoke-gitflowrelease
-pscommand_invoke-gitflowreleasefinish
-pscommand_invoke-gitflowreleasefinishcurrent
-pscommand_invoke-gitflowreleasepublish
-pscommand_invoke-gitflowreleasepublishcurrent
-pscommand_invoke-gitflowreleasestart
 pscommand_invoke-gitgui
 pscommand_invoke-githubapi
 pscommand_invoke-githubapi-bodyempty
@@ -6260,7 +6121,6 @@ pscommand_invoke-gotoolfix
 pscommand_invoke-goversion
 pscommand_invoke-govet
 pscommand_invoke-gowork
-pscommand_invoke-greppipfreeze
 pscommand_invoke-helm
 pscommand_invoke-helminstall
 pscommand_invoke-helmsearch
@@ -6420,10 +6280,6 @@ pscommand_invoke-pipenvuninstall
 pscommand_invoke-pipenvupdate
 pscommand_invoke-pipenvvenv
 pscommand_invoke-pipenvwhere
-pscommand_invoke-pipinstall
-pscommand_invoke-pipinstallupgrade
-pscommand_invoke-piplistoutdated
-pscommand_invoke-pipuninstall
 pscommand_invoke-pyenv
 pscommand_invoke-pylintreportsdisabled
 pscommand_invoke-ruby
@@ -6589,20 +6445,6 @@ pscommand_invoke-vaultserver
 pscommand_invoke-vaultstatus
 pscommand_invoke-vaultversion
 pscommand_invoke-vaultwrite
-pscommand_invoke-vscodeadd
-pscommand_invoke-vscodediff
-pscommand_invoke-vscodeforpwd
-pscommand_invoke-vscodegoto
-pscommand_invoke-vscodeinstallextension
-pscommand_invoke-vscodenewwindow
-pscommand_invoke-vscodereusewindow
-pscommand_invoke-vscodeuninstallextension
-pscommand_invoke-vscodeverbose
-pscommand_invoke-vscodewithdisableextensions
-pscommand_invoke-vscodewithextensionsdir
-pscommand_invoke-vscodewithlog
-pscommand_invoke-vscodewithuserdatadir
-pscommand_invoke-vscodewithwait
 pscommand_invoke-yumcleanall
 pscommand_invoke-yumgroupinstall
 pscommand_invoke-yumgroupremove
@@ -6872,22 +6714,6 @@ pscommand_pgr
 pscommand_pi
 pscommand_pidev
 pscommand_ping
-pscommand_pip
-pscommand_pip_package_location
-pscommand_pip3
-pscommand_pip3_package_location
-pscommand_pipgi
-pscommand_pipi
-pscommand_pipig
-pscommand_pipigb
-pscommand_pipigp
-pscommand_pipir
-pscommand_piplo
-pscommand_pipreq
-pscommand_pipu
-pscommand_pipun
-pscommand_pipunall
-pscommand_pipupall
 pscommand_pl
 pscommand_po
 pscommand_pop-gitstashentry
@@ -6999,10 +6825,6 @@ pscommand_stop-gitcherrypick
 pscommand_switch-gitbranchandtrack
 pscommand_switch-gitbranchmain
 pscommand_switch-gitbranchnew
-pscommand_syspip
-pscommand_syspip_package_location
-pscommand_syspip3
-pscommand_syspip3_package_location
 pscommand_ta
 pscommand_tad
 pscommand_test-command
@@ -7073,9 +6895,6 @@ pscommand_use-gitbranchmain
 pscommand_use-gitbranchnew
 pscommand_use-gitbranchprevious
 pscommand_use-gitbranchtracked
-pscommand_use-gitflowbranchdevelop
-pscommand_use-gitflowbranchhotfix
-pscommand_use-gitflowbranchrelease
 pscommand_use-gitstashentry
 pscommand_uuid
 pscommand_uuidgen
@@ -7098,21 +6917,7 @@ pscommand_vp
 pscommand_vr
 pscommand_vrl
 pscommand_vs
-pscommand_vsc
-pscommand_vsca
-pscommand_vscd
-pscommand_vscde
-pscommand_vsced
-pscommand_vscg
-pscommand_vscie
-pscommand_vscl
-pscommand_vscn
 pscommand_vscp
-pscommand_vscr
-pscommand_vscu
-pscommand_vscue
-pscommand_vscv
-pscommand_vscw
 pscommand_vsl
 pscommand_vssh
 pscommand_vst
@@ -7603,27 +7408,6 @@ psfunction_invoke-gitconfig
 psfunction_invoke-gitdifftool
 psfunction_invoke-gitfetch
 psfunction_invoke-gitfetchorigin
-psfunction_invoke-gitflow
-psfunction_invoke-gitflowfeature
-psfunction_invoke-gitflowfeaturefinish
-psfunction_invoke-gitflowfeaturefinishcurrent
-psfunction_invoke-gitflowfeaturepublish
-psfunction_invoke-gitflowfeaturepublishcurrent
-psfunction_invoke-gitflowfeaturepull
-psfunction_invoke-gitflowfeaturestart
-psfunction_invoke-gitflowhotfix
-psfunction_invoke-gitflowhotfixfinish
-psfunction_invoke-gitflowhotfixfinishcurrent
-psfunction_invoke-gitflowhotfixpublish
-psfunction_invoke-gitflowhotfixpublishcurrent
-psfunction_invoke-gitflowhotfixstart
-psfunction_invoke-gitflowinit
-psfunction_invoke-gitflowrelease
-psfunction_invoke-gitflowreleasefinish
-psfunction_invoke-gitflowreleasefinishcurrent
-psfunction_invoke-gitflowreleasepublish
-psfunction_invoke-gitflowreleasepublishcurrent
-psfunction_invoke-gitflowreleasestart
 psfunction_invoke-gitgui
 psfunction_invoke-githubapi
 psfunction_invoke-githubapi-bodyempty
@@ -7670,7 +7454,6 @@ psfunction_invoke-gotoolfix
 psfunction_invoke-goversion
 psfunction_invoke-govet
 psfunction_invoke-gowork
-psfunction_invoke-greppipfreeze
 psfunction_invoke-helm
 psfunction_invoke-helminstall
 psfunction_invoke-helmsearch
@@ -7830,10 +7613,6 @@ psfunction_invoke-pipenvuninstall
 psfunction_invoke-pipenvupdate
 psfunction_invoke-pipenvvenv
 psfunction_invoke-pipenvwhere
-psfunction_invoke-pipinstall
-psfunction_invoke-pipinstallupgrade
-psfunction_invoke-piplistoutdated
-psfunction_invoke-pipuninstall
 psfunction_invoke-pyenv
 psfunction_invoke-pylintreportsdisabled
 psfunction_invoke-ruby
@@ -7999,20 +7778,6 @@ psfunction_invoke-vaultserver
 psfunction_invoke-vaultstatus
 psfunction_invoke-vaultversion
 psfunction_invoke-vaultwrite
-psfunction_invoke-vscodeadd
-psfunction_invoke-vscodediff
-psfunction_invoke-vscodeforpwd
-psfunction_invoke-vscodegoto
-psfunction_invoke-vscodeinstallextension
-psfunction_invoke-vscodenewwindow
-psfunction_invoke-vscodereusewindow
-psfunction_invoke-vscodeuninstallextension
-psfunction_invoke-vscodeverbose
-psfunction_invoke-vscodewithdisableextensions
-psfunction_invoke-vscodewithextensionsdir
-psfunction_invoke-vscodewithlog
-psfunction_invoke-vscodewithuserdatadir
-psfunction_invoke-vscodewithwait
 psfunction_invoke-yumcleanall
 psfunction_invoke-yumgroupinstall
 psfunction_invoke-yumgroupremove
@@ -8113,13 +7878,6 @@ psfunction_npm-enable-proxy
 psfunction_npm-show-proxy
 psfunction_open_command
 psfunction_peek
-psfunction_pipig
-psfunction_pipigb
-psfunction_pipigp
-psfunction_pipir
-psfunction_pipreq
-psfunction_pipunall
-psfunction_pipupall
 psfunction_pop-gitstashentry
 psfunction_proxy-help
 psfunction_publish-gitcommitsforcefullywithlease
@@ -8251,9 +8009,6 @@ psfunction_use-gitbranchmain
 psfunction_use-gitbranchnew
 psfunction_use-gitbranchprevious
 psfunction_use-gitbranchtracked
-psfunction_use-gitflowbranchdevelop
-psfunction_use-gitflowbranchhotfix
-psfunction_use-gitflowbranchrelease
 psfunction_use-gitstashentry
 psfunction_write-gitcommit
 psfunction_write-gitcommitall
@@ -8308,7 +8063,6 @@ psnavigation
 psnexosisclient
 psngenposh
 psobject
-psoutlog
 pspath
 pspersonio
 pspowerhour
@@ -8403,7 +8157,6 @@ pvs
 pwa
 pwned
 pwpush
-pwsafe
 pwsh
 pwsh.fw
 pwshake
@@ -8435,7 +8188,6 @@ qlogicfcprovider
 qna
 qol
 qq
-qr
 qrcode
 qrcodes
 qrp
@@ -8543,6 +8295,7 @@ reconcile
 reconnaissance
 record
 recording
+recordsmanagement
 recovery
 recoveryservices
 recruiter
@@ -8729,7 +8482,6 @@ reverse-string
 reversed-color-text
 reversedsc
 reverseengineering
-review
 revision
 reword
 rewrite
@@ -8744,7 +8496,6 @@ rfc4291
 rfc5952
 rfc826
 rfc9116
-rg
 rgb
 rhapsody
 ribbon
@@ -8771,7 +8522,6 @@ roarwrecker
 robbyrussel
 robocopy
 robot
-roca
 rock
 rocket
 rocketcyber
@@ -8982,7 +8732,6 @@ scrub
 scrubber
 scsm
 scuba
-sd
 sddl
 sdk
 sdn
@@ -9026,7 +8775,6 @@ securestring
 security
 security-awareness-training
 security-policy
-security-score
 security-txt
 security.txt
 securityassertionmarkuplanguage
@@ -9228,7 +8976,6 @@ silk
 silver_ticket
 sim
 simple
-simplecontainers
 simplepassword
 simplepasswordgenerator
 simplivity
@@ -9307,7 +9054,6 @@ smtpaddressupdate psmodule
 smtpauth
 smtpoauth
 smtpsasl
-smtpsecure
 snap
 snapchat
 snapping
@@ -9392,7 +9138,6 @@ spdockit
 spdx
 spdx-license-identifier:ms-pl
 spe
-speach
 speak
 speaker
 spec
@@ -9401,8 +9146,6 @@ specify
 spectre
 spectrumconnect
 spectrumcontrolbase
-speculation
-speculationcontrol
 speech
 speed
 speedometer
@@ -9442,7 +9185,6 @@ sql-script
 sql-server
 sqlagent
 sqlautomation
-sqlbits
 sqlbrowser
 sqlbulkcopy
 sqlchangeautomation
@@ -9482,7 +9224,6 @@ srcsrv
 srm
 srylius-write
 ssas
-ssc
 ssdt
 sse
 ssh
@@ -9497,7 +9238,6 @@ sslcertificate
 sslflags
 ssllabs
 ssllabs-scan
-sslprotocol
 ssm
 sso
 sspi
@@ -9579,7 +9319,6 @@ storefront
 storeonce
 storeserv
 strava
-streak
 stream
 streamanalytics
 streaming
@@ -9701,8 +9440,6 @@ sysman
 sysmon
 sysop
 syspass
-syspip
-syspip3
 sysprep
 system
 system information 1394 controller baseboard motherboard systemboard battery bios bus cache memory cd dvd rom drive compact disc desktop monitor disk partition fan floppy glide point heatpipe ide infrared device keyboard local logical array mouse'
@@ -9801,7 +9538,6 @@ telegram-bot-api
 telegram-sticker
 telegramx
 telemetry
-teletext
 telligent
 telnet
 temp
@@ -9836,11 +9572,9 @@ test-automation
 test-dscconfiguration
 test-internetconnection
 test-modulepath
-test-osplatform
 test-psremoting
 test-samcmapplicationexists
 test-samcmpackageexists
-test-userisadministrator
 test-xml
 test123
 testaccount
@@ -9861,7 +9595,6 @@ text
 text-emoji
 text-emojis
 text-to-image
-text-to-speach"
 text-to-speech
 text2image
 textanalysis
@@ -9929,7 +9662,6 @@ tls
 tls11
 tls12
 tlsa
-tlsprotocol
 tlsrpt
 tmux
 to-do
@@ -10039,7 +9771,6 @@ trusted-host
 trustedhosts
 trustedinstaller
 trustedrootcertificate
-trustedsigning
 truth
 trx
 ts
@@ -10131,7 +9862,6 @@ ud-scrollspy
 ud-selectdatetime
 ud-selector
 ud-signature
-ud-simpledrawer
 ud-singleselect
 ud-slider
 ud-speechbubble
@@ -10224,7 +9954,6 @@ upgrade
 uplift
 uplink
 ups
-upsource
 upstream
 uptime
 uptimerobot
@@ -10270,7 +9999,6 @@ utf-sig
 utf7
 utf8
 utf8-sig
-utf8bom
 util
 utilities
 utility
@@ -10310,7 +10038,6 @@ vb365
 vba
 vbaproject
 vbproj
-vbr
 vbscript
 vbsinst
 vc
@@ -10434,7 +10161,6 @@ volkskrant
 volta
 volume
 volumeshadowcopy
-volumio
 voperator
 vorbis
 vovin
@@ -10467,6 +10193,7 @@ vsdevshell
 vsenvironment
 vsm
 vso
+vspc
 vsphere
 vsphere+
 vss
@@ -10539,6 +10266,7 @@ webcamera
 webcmdlets
 webdav
 webdeploy
+webfrequest
 webhdfs
 webhelpdesk
 webhistory
@@ -10583,7 +10311,6 @@ whatsnew
 whatsupgold
 whd
 where
-whfb
 whiteboard
 whitespace
 who
@@ -10632,8 +10359,6 @@ windows-features
 windows-firewall
 windows-path
 windows-powershell
-windows-registry
-windows-remoting
 windows-server-2016
 windows-terminal
 windows-user-folder
@@ -10731,7 +10456,6 @@ wordpress
 wordwrap
 workbook
 workday
-worker
 workflow
 workflowmax
 workflows
@@ -10829,7 +10553,6 @@ xendeskop
 xendesktop
 xero
 xevents
-xh
 xi
 xiaomi
 xin
@@ -10850,7 +10573,6 @@ xpendingreboot
 xpertdoc
 xpo
 xprotect
-xpt
 xrm
 xsa
 xtremio
@@ -10896,8 +10618,8 @@ zookeeper
 zoom
 zoomapi
 zoommeeting
-zoxide
 zsh
+zuora
 zvm
 zvml
 zvmlinux
@@ -10905,7 +10627,6 @@ zypper
 カタカナ
 ひらがな
 ローマ字
-全角半角変換
 寿司
 日本語
 湯婆婆
