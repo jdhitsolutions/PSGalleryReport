@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Sunday, 19 May 2024 02:07:45 UTC
+Updated: Sunday, 19 May 2024 09:51:57 UTC
 
 .bat
 .env
@@ -71,7 +71,6 @@ aadsecurity
 aadsts
 aam
 aas
-aatp
 abc
 abc_testing
 abe
@@ -156,6 +155,7 @@ adal
 adapter
 adapter-control
 adapters
+adaptivecards
 adb
 adc
 adcs
@@ -278,7 +278,6 @@ albums
 alc
 alero
 alert
-alerting
 alertmail
 alertmanagement
 alerts
@@ -415,6 +414,7 @@ applicationmigration
 applicationmonitor
 applications
 applocker
+apply
 appmgmtcontrol
 apppool
 appraiser
@@ -595,7 +595,6 @@ autotask
 autotaskapi
 autotaskpsa
 autotyper
-autounattend
 autoupdate
 autoupdate-script
 autowrapper
@@ -674,16 +673,13 @@ azure-resource-graph
 azure-ssis
 azureactivedirectory
 azuread
-azureadbackupandrestore
 azureadconnect
 azureadgraph
 azureadtoolkit
-azureadvancedthreatprotection
 azureappconfiguration
 azureapplicationstuff
 azureartifacts
 azureas
-azureatp
 azureautomation
 azureautomationaccount
 azureautomationnotsupported
@@ -907,7 +903,6 @@ bop
 bot
 bots
 botservice
-bouncer
 boundaries
 boundarygroups
 bounty
@@ -1007,7 +1002,6 @@ campaign
 camtasia
 canarie
 cancel
-cancellation
 canonical
 cantara
 capability
@@ -1036,7 +1030,6 @@ cat-names
 catalog
 catalogs
 catalyst
-catapult
 catesta
 catimage
 cats
@@ -1172,6 +1165,7 @@ cireson
 ciresonassetmanagement
 ciresonportal
 cis
+cisa
 cisco
 ciscoucscmdlets
 ciscoucsdsc
@@ -1278,7 +1272,6 @@ cmdlet
 cmdlets
 cmdstan
 cmgroupdiscovery
-cmhealth
 cmhealthcheck
 cminifile
 cmnetworkports
@@ -1440,6 +1433,8 @@ connections
 connectionsmanager
 connectionstring
 connectivity
+connector
+connectorcmd
 connectwise
 conservation
 console
@@ -1592,9 +1587,9 @@ crescendo
 crescendobuilt
 cresendo
 crestron
+crime
 crlf
 crm
-crm2016
 cron
 crontab
 cropping
@@ -1624,7 +1619,6 @@ csvhelper
 ctf
 ctglobal
 ctl
-ctrl+c
 ctx
 ctype
 cubes
@@ -1663,7 +1657,6 @@ customlogs
 customproviders
 cutehttpfileserver
 cvad
-cve
 cve-2021-34527
 cvrf
 cvss
@@ -1704,7 +1697,6 @@ dark
 darktrace
 dash
 dashboard
-dashboardapi
 dashboardservice
 dast
 data
@@ -1833,7 +1825,6 @@ defender-atp
 defender-for-endpoint
 defenderast
 defenderforendpoint
-defenderforidentity
 defense
 deflate
 delegated
@@ -1894,7 +1885,6 @@ devexpress
 deviation
 device
 devicecode
-deviceid
 deviceprovisioningservice
 devices
 deviceupdate
@@ -2008,7 +1998,6 @@ dmi
 dmtf
 dmx
 dnd
-dnf
 dns
 dns-01
 dns-administration
@@ -2124,8 +2113,6 @@ droplet
 droptable
 drs
 drsrule
-drupal
-drush
 dry
 ds
 ds-client
@@ -2192,7 +2179,6 @@ dynamics365
 dynamics365ce
 dynamics365fo
 dynamics365sales
-dynamics365server
 dynamicsax
 dynamicsecuritygroups
 dynamicsnav
@@ -2249,7 +2235,6 @@ elevation
 elgato
 elk
 elm
-elmah-io
 elonmusk
 eloqua
 elvish
@@ -2463,7 +2448,6 @@ expired
 expiring
 expiry
 exploit
-exploits
 exploration
 explorer
 exponentiation
@@ -2588,7 +2572,6 @@ files-cli.exe
 files.com
 filesecurity
 fileserver
-fileserverresourcemanager
 fileshare
 filesharing
 filestorage
@@ -2679,7 +2662,6 @@ food
 football
 for
 force
-forcedelete
 foreach
 foreach-object
 forecast
@@ -2741,7 +2723,6 @@ fscps
 fsf
 fsharp
 fslogix
-fsrm
 ftp
 ftps
 fu-msauth
@@ -2863,7 +2844,6 @@ get-samplingperiod
 get-stalecomps
 get-staleusers
 get-thermalstamp
-get-uptime
 getfirmwareenvironmentvariable
 getfirmwaretype
 ggplot
@@ -2966,6 +2946,7 @@ graph
 graph-api
 graphapi
 graphapirequests
+graphconnector
 graphexplorer
 graphic
 graphics
@@ -3035,6 +3016,7 @@ hana
 hanaon
 handle
 handler
+handy
 hangouts
 hannelstoolbox
 hanwha
@@ -3085,6 +3067,7 @@ healthz
 heartbeatdiscovery
 heat
 heating
+heavenbay
 helium
 helix
 hello
@@ -3285,7 +3268,6 @@ ie
 iem
 ifconfig
 ifttt
-igel
 igr
 ihs
 iiittttt
@@ -3323,7 +3305,6 @@ imaging
 imap
 imb
 imei
-imi
 impala
 impersonation
 imperva
@@ -3588,7 +3569,6 @@ json+
 json2ps
 jsonplus
 jsonwebencryption
-jsonwebkey
 jsonwebsignature
 jsonwebtoken
 jsp
@@ -3605,7 +3585,6 @@ jupytor
 justenoughadministration
 jvm
 jwe
-jwk
 jws
 jwt
 jwttoken
@@ -3617,7 +3596,6 @@ karabiner
 karabiner-elements
 karma
 kaseya
-kaseyavsa
 kaspersky
 katakana
 kb
@@ -3853,6 +3831,7 @@ location
 locationbasedservices
 lock
 lockbox
+lockdisplaytimeout
 lockdown
 lockfile
 locking
@@ -4013,7 +3992,6 @@ mapapi
 mapi
 mappeddrives
 mapper24
-mapping
 maps
 mapsapi
 mariadb
@@ -4074,7 +4052,6 @@ mdb
 mdbc
 mde
 mdep
-mdi
 mdm
 mdop
 mdt
@@ -4111,7 +4088,6 @@ mention
 menu
 menus
 meraki
-merakiapi
 mercurial
 merge
 mermaid
@@ -4169,7 +4145,6 @@ microsoftazure
 microsoftcloud
 microsoftdefender
 microsoftdefenderatp
-microsoftdefenderforidentity
 microsoftdeploymenttoolkit
 microsoftendpointmanager
 microsoftexchangeserver
@@ -4403,7 +4378,6 @@ nanoleaf
 nartac
 nasdaq
 native
-natpool
 natural-language-to-code
 natural-selection
 nature
@@ -4411,7 +4385,6 @@ nav
 navigation
 nbi
 ncal
-ndes
 nebulon
 nec-infrared-transmission-protocol
 nederland
@@ -4484,7 +4457,6 @@ new-rdpsession
 new-samcmapplicationfrompackagedefinitionsms
 new-samcmpackagefrompackagedefinitionsms
 new-system
-new-udmorph
 new-win32app
 newpassword
 newrelic
@@ -4510,7 +4482,6 @@ ninja
 ninjaone
 ninjarmm
 nios
-nist
 nitrox
 njclipsh
 nl
@@ -4586,7 +4557,6 @@ nuspec
 nutanix
 nuwave
 nva
-nvd
 nvdimm
 nvdimm-n
 nvm
@@ -5031,7 +5001,6 @@ playbook
 player
 playlists
 playwright
-pleasant
 pleasantpasswordserver
 plex
 plist
@@ -5130,7 +5099,6 @@ poshy-wrap-apt
 poshy-wrap-argcomplete
 poshy-wrap-brew
 poshy-wrap-curl
-poshy-wrap-dnf
 poshy-wrap-docker
 poshy-wrap-docker-compose
 poshy-wrap-dotnet
@@ -5211,8 +5179,6 @@ powershell-dsc
 powershell-examples
 powershell-gallery
 powershell-github-repo
-powershell-gitlab
-powershell-graphql
 powershell-isprime
 powershell-lightning
 powershell-module
@@ -5253,8 +5219,9 @@ powertooldsc
 ppdm
 ppk
 pposh
-pps
+ppt
 pptp
+pptx
 pq
 pranks
 predicate
@@ -5560,19 +5527,6 @@ pscommand_dlo
 pscommand_dnc
 pscommand_dncn
 pscommand_dndcn
-pscommand_dnfc
-pscommand_dnfgi
-pscommand_dnfgl
-pscommand_dnfgr
-pscommand_dnfi
-pscommand_dnfl
-pscommand_dnfli
-pscommand_dnfmc
-pscommand_dnfp
-pscommand_dnfr
-pscommand_dnfri
-pscommand_dnfs
-pscommand_dnfu
 pscommand_dni
 pscommand_dnls
 pscommand_dnrm
@@ -6126,19 +6080,6 @@ pscommand_invoke-curlfollowingredirectsdownloadasnamedcontinue
 pscommand_invoke-curlfollowingredirectsdownloadasnamedcontinueandretry
 pscommand_invoke-curlfollowingredirectsfetchbanner
 pscommand_invoke-curlonlyforgetresponseheaders
-pscommand_invoke-dnfcleanall
-pscommand_invoke-dnfgrouplist
-pscommand_invoke-dnfgrouppinstall
-pscommand_invoke-dnfgroupremove
-pscommand_invoke-dnfinfo
-pscommand_invoke-dnfinstall
-pscommand_invoke-dnflist
-pscommand_invoke-dnflistinstalled
-pscommand_invoke-dnfmakecache
-pscommand_invoke-dnfreinstall
-pscommand_invoke-dnfremove
-pscommand_invoke-dnfsearch
-pscommand_invoke-dnfupgrade
 pscommand_invoke-dockercomposebuild
 pscommand_invoke-dockercomposedown
 pscommand_invoke-dockercomposeexec
@@ -7422,19 +7363,6 @@ psfunction_invoke-curlfollowingredirectsdownloadasnamedcontinue
 psfunction_invoke-curlfollowingredirectsdownloadasnamedcontinueandretry
 psfunction_invoke-curlfollowingredirectsfetchbanner
 psfunction_invoke-curlonlyforgetresponseheaders
-psfunction_invoke-dnfcleanall
-psfunction_invoke-dnfgrouplist
-psfunction_invoke-dnfgrouppinstall
-psfunction_invoke-dnfgroupremove
-psfunction_invoke-dnfinfo
-psfunction_invoke-dnfinstall
-psfunction_invoke-dnflist
-psfunction_invoke-dnflistinstalled
-psfunction_invoke-dnfmakecache
-psfunction_invoke-dnfreinstall
-psfunction_invoke-dnfremove
-psfunction_invoke-dnfsearch
-psfunction_invoke-dnfupgrade
 psfunction_invoke-dockercomposebuild
 psfunction_invoke-dockercomposedown
 psfunction_invoke-dockercomposeexec
@@ -8211,6 +8139,7 @@ quantum
 quarantine
 queries
 query
+queryexcel
 question
 queue
 queues
@@ -8241,7 +8170,6 @@ railways
 rainbow
 raisers
 raisersedge
-raj
 ram
 ram-it
 random
@@ -8606,7 +8534,6 @@ rust
 rust-lang
 ryanairps
 ryver
-s.ds.p
 s1
 s3
 s4b
@@ -8754,6 +8681,7 @@ sdp
 search
 search-adminauditlog
 search-engines
+searchconnector
 searchengine
 searcher
 searching
@@ -9001,6 +8929,8 @@ single
 singlestore
 singleton
 sinks
+sintez
+sintez.module.rds
 sit
 site
 site_navigation
@@ -9471,7 +9401,6 @@ system-administration
 system-group
 system-service
 system-services
-system.directoryservices.protocols
 system.text
 systemadmins
 systemcenter
@@ -9481,7 +9410,6 @@ systeminfo
 systeminformation
 systemlocale
 systems
-systemsplash
 systray
 t
 t-sql
@@ -9928,7 +9856,6 @@ ultimatetool
 um
 uml
 umn
-ums
 unattend
 unattendedfile
 unblock
@@ -9998,7 +9925,6 @@ url-encode
 url-shortener
 urldecode
 urlencode
-urlhaus
 urlredirections
 urlrewrite
 urlscan
@@ -10006,7 +9932,6 @@ urlupdate
 uru
 usage
 usageaggregates
-usageapi
 usap
 usb
 useful
@@ -10239,7 +10164,6 @@ vsteams
 vstest
 vsts
 vsts-cli
-vulnerabilities
 vulnerability
 vulnerabilityassessment
 vulnerabilityscanning
@@ -10640,7 +10564,6 @@ zabbix
 zabbixps
 zap
 zap-zsh
-zcat
 zendesk
 zerotrust
 zerto
