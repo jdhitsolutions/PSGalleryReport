@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Tuesday, 21 May 2024 17:51:38 UTC
+Updated: Wednesday, 22 May 2024 02:06:10 UTC
 
 .bat
 .env
@@ -528,7 +528,6 @@ atlassian
 atlassiancli
 atlassianps
 atmosphere
-atom
 atp
 atrium
 att&ck
@@ -626,6 +625,7 @@ aws_profile
 aws-codebuild
 aws-lambda
 aws-vault
+aws.tools.powershell
 awscli
 awspricelist
 axapta
@@ -890,7 +890,6 @@ bluetuxedo
 bmc
 bnm
 boards
-bofh
 boilerplate
 boinc
 bold-text
@@ -1279,6 +1278,7 @@ cmdb
 cmdkey
 cmdlet
 cmdlets
+cmdstan
 cmgroupdiscovery
 cmhealth
 cmhealthcheck
@@ -2124,6 +2124,7 @@ driverupdates
 drm
 drone.io
 drop
+dropbox
 dropdatabase
 droplet
 droptable
@@ -2622,6 +2623,8 @@ finance&operations
 financeandoperations
 financeoperations
 financial
+financialedge
+financials
 find
 find-call
 find-caller
@@ -2703,7 +2706,6 @@ formatdata
 formatformat-tableformat-listformat-wideformat-customformat-defaultout-defaultout-fileout-hostout-printerout-string
 formatting
 forms
-fortiauth
 forticlient
 fortify
 fortifyondemand
@@ -3299,7 +3301,6 @@ ifttt
 igel
 igr
 ihs
-iiittttt
 iis
 iisadministration
 iiscrypto
@@ -3576,7 +3577,6 @@ jnet
 jnetps
 joat
 job
-jobcan
 jobs
 jobscheduler
 johnshopkins
@@ -4984,7 +4984,6 @@ pf
 pfe
 pfsense
 pfx
-pfy
 pgp
 phabricator
 philips
@@ -5027,7 +5026,6 @@ pivot
 pivotal
 pivottable
 pixoo
-pkce
 pki
 pki psmodule
 pks
@@ -5170,6 +5168,7 @@ poshy-wrap-python
 poshy-wrap-ruby
 poshy-wrap-systemctl
 poshy-wrap-terraform
+poshy-wrap-terragrunt
 poshy-wrap-tmux
 poshy-wrap-vagrant
 poshy-wrap-vault
@@ -6555,6 +6554,15 @@ pscommand_invoke-terraforminit
 pscommand_invoke-terraformoutput
 pscommand_invoke-terraformplan
 pscommand_invoke-terraformvalidate
+pscommand_invoke-terragrunt
+pscommand_invoke-terragruntapply
+pscommand_invoke-terragruntapplyall
+pscommand_invoke-terragruntdestroy
+pscommand_invoke-terragruntdestroyall
+pscommand_invoke-terragruntplan
+pscommand_invoke-terragruntplanall
+pscommand_invoke-terragruntvalidate
+pscommand_invoke-terragruntvalidateall
 pscommand_invoke-tmuxattachforterminal
 pscommand_invoke-tmuxattachforterminaldetachingothers
 pscommand_invoke-tmuxeditconfig
@@ -7023,6 +7031,15 @@ pscommand_tfi
 pscommand_tfo
 pscommand_tfp
 pscommand_tfv
+pscommand_tg
+pscommand_tga
+pscommand_tgaa
+pscommand_tgd
+pscommand_tgda
+pscommand_tgp
+pscommand_tgpa
+pscommand_tgv
+pscommand_tgva
 pscommand_tkss
 pscommand_tksv
 pscommand_tl
@@ -7947,6 +7964,15 @@ psfunction_invoke-terraforminit
 psfunction_invoke-terraformoutput
 psfunction_invoke-terraformplan
 psfunction_invoke-terraformvalidate
+psfunction_invoke-terragrunt
+psfunction_invoke-terragruntapply
+psfunction_invoke-terragruntapplyall
+psfunction_invoke-terragruntdestroy
+psfunction_invoke-terragruntdestroyall
+psfunction_invoke-terragruntplan
+psfunction_invoke-terragruntplanall
+psfunction_invoke-terragruntvalidate
+psfunction_invoke-terragruntvalidateall
 psfunction_invoke-tmuxattachforterminal
 psfunction_invoke-tmuxattachforterminaldetachingothers
 psfunction_invoke-tmuxeditconfig
@@ -8351,7 +8377,6 @@ publicfolder
 publicholidays
 publicip
 publish
-publishedmodules
 publisher
 publishers
 publishing
@@ -8459,6 +8484,7 @@ raidcontrollercmdlets
 railways
 rainbow
 raisers
+raisersedge
 raj
 ram
 ram-it
@@ -8689,6 +8715,7 @@ resourcekit
 resourcemanager
 resourcemover
 resources
+resourcescheduler
 resourcesearch
 response
 rest
@@ -8855,7 +8882,6 @@ sample
 sampler
 samurai
 san
-sand
 sandbox
 sanitization
 sanitizer
@@ -8863,7 +8889,6 @@ sap
 sapazure
 saponazure
 sapstartstopazure
-sarcasm
 sarif
 sas
 sat
@@ -9244,6 +9269,7 @@ skolnilogin
 sku
 skunklab
 sky
+skyapi
 skype
 skype_for_business
 skype4b
@@ -9496,11 +9522,14 @@ stackoverflow
 staffhub
 staging
 stale
+stan
+stanc
 standard
 standarderror
 standardoutput
 standards
 standbypool
+stansummary
 start
 start-job
 start-jobthread
@@ -9680,7 +9709,6 @@ syskit
 syslog
 sysman
 sysmon
-sysop
 syspass
 syspip
 syspip3
@@ -9811,6 +9839,7 @@ terraform-docs
 terraform-switcher
 terraformcloud
 terrafun
+terragrunt
 tesla
 test
 test-automation
@@ -9924,7 +9953,6 @@ toggl
 toggle
 token
 tokenlifetime
-tokens
 toml
 tonoref
 tookit
@@ -10549,7 +10577,6 @@ websphereportal
 webtest
 webtesting
 webtime
-webview2
 wec
 wecutil
 weekday
