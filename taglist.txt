@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Thursday, 23 May 2024 09:52:03 UTC
+Updated: Thursday, 23 May 2024 17:51:50 UTC
 
 .bat
 .env
@@ -186,6 +186,7 @@ adfstools
 adgroupmemberobjects
 adgroupmembers
 adgroups
+adidns
 adif
 adlds
 adm
@@ -343,7 +344,6 @@ animals
 animate-svg
 animation
 animations
-annotated
 announcement
 announcementsservice
 anonymous
@@ -521,7 +521,6 @@ asynchronous
 atempo
 atera
 athena
-atlas
 atlassian
 atlassiancli
 atlassianps
@@ -691,7 +690,6 @@ azurebasicloadbalancerupgrade
 azurecli
 azurecodesigning
 azurecognitiveservices
-azurecommonstuff
 azurecontainerapps
 azurecontainers
 azuredatabricks
@@ -885,6 +883,7 @@ blueprint
 blueprints
 blueteam
 bluetraitio
+bluetuxedo
 bmc
 bnm
 boards
@@ -981,7 +980,6 @@ businessobjects
 businessrulesengine
 businesstime
 bxor
-bydesign
 byexample
 bynarypsmodule
 byovd
@@ -995,6 +993,7 @@ cache
 caf
 cal
 calc
+calculate
 calculator
 calendar
 callingcode
@@ -1086,7 +1085,6 @@ certera
 certes
 certificate
 certificateauthority
-certificatechain
 certificatemanager
 certificatepolicy
 certificates
@@ -1144,6 +1142,7 @@ christmas
 chrome
 chromium
 chunk
+churchofjesuschrist
 ci
 ci/cd
 cic
@@ -1785,7 +1784,10 @@ db
 db2
 dba
 dbaas
+dbai
 dbase
+dbassistant
+dbatools
 dbcommand
 dbeaver
 dbfs
@@ -1983,7 +1985,6 @@ displayresolution
 distance
 distinguishedname
 distributed-systems
-distributed-tracing
 distributedcache
 distributedfilesystem
 distribution
@@ -2058,6 +2059,8 @@ docusign
 docx
 dod
 dog
+dog-names
+dogs
 dogstatsd
 dok
 dokuwiki
@@ -2065,6 +2068,7 @@ domain
 domaincontroller
 domainkey
 domainname
+domainnamesystem
 domains
 domino
 done.land
@@ -2325,7 +2329,6 @@ environments
 environmentvariable
 environmentvariables
 envvar
-envvars
 eol
 eop
 eperl
@@ -2370,7 +2373,6 @@ ether
 etherassist
 ethereum
 ethr
-ethz
 etl
 etl2pcapng
 etrade
@@ -3353,7 +3355,6 @@ incontact
 indents
 index
 indexdb
-indicator
 inedo
 inetfwrule
 inetum
@@ -3477,7 +3478,6 @@ iothub
 iothubproperties
 ip
 ip-address
-ip-scanner
 ipa
 ipaddress
 ipam
@@ -3697,6 +3697,7 @@ kubespray
 kudu
 kurukuru
 kusto
+kvm
 kvp
 kvt
 l1tf
@@ -3781,10 +3782,12 @@ lgpo
 libgit2
 libraries
 library
+libvirt
 licence
 license
 license-generator
 licenseautomation
+licensemanagement
 licensemanager
 licensereport
 licenses
@@ -4307,6 +4310,7 @@ msdtc
 msedge
 msexcel
 msexchange
+msft
 msftnet
 msftnetworking
 msg
@@ -4397,6 +4401,7 @@ nabu
 nac
 nagios
 name
+name-of-dogs
 namedpipe
 nameit
 nameresolution
@@ -4447,6 +4452,7 @@ netfirewallrule
 netherlands
 netmask
 nets
+netsapiens
 netscaler
 netscape
 netsec
@@ -4489,6 +4495,7 @@ new-rdpsession
 new-samcmapplicationfrompackagedefinitionsms
 new-samcmpackagefrompackagedefinitionsms
 new-system
+new-udmorph
 new-win32app
 newpassword
 newrelic
@@ -4566,6 +4573,7 @@ npslogfile
 nql
 nrc
 nrql
+ns
 ns.nl
 nsg
 nslookup
@@ -4581,6 +4589,7 @@ nuget
 nuget-references
 nuget.exe
 nuget.org
+number
 numlock
 nunit
 nupkg
@@ -4797,7 +4806,6 @@ osuborganizationsubscription
 osubsubscription
 osubusage
 osx
-otel
 otp
 ou
 ou-object
@@ -4957,7 +4965,6 @@ perforce
 performance
 performance-counters
 performancemonitoring
-perl
 permission
 permissions
 permutations
@@ -5083,7 +5090,6 @@ popd
 population
 popup
 port
-port-scanner
 port70
 portal
 porthunter
@@ -8275,6 +8281,7 @@ psgraph
 psgraylog
 pshot
 pshtml
+psimport
 psincludes_cmdlet
 psincludes_command
 psincludes_function
@@ -8417,6 +8424,7 @@ python-for-dotnet
 python3
 qcloud
 qconvergeconsolepowerkit
+qemu
 qlgc_fc_powerkit
 qlik
 qlik-api
@@ -9568,6 +9576,7 @@ stockcharts
 stocks
 stoicism
 stoics
+stolpe.io
 stop
 storablecolortheme
 storage
@@ -9763,6 +9772,7 @@ tanzu
 tar
 target
 task
+task-runner
 task-scheduler
 taskbar
 tasker
@@ -9833,7 +9843,6 @@ terraform-switcher
 terraformcloud
 terrafun
 terragrunt
-tesla
 test
 test-automation
 test-dscconfiguration
@@ -10349,6 +10358,7 @@ verify
 version
 versioning
 versionmanager
+versionnumber
 vertical
 vester
 vhd
@@ -10363,6 +10373,7 @@ vigenere
 vim
 vimode
 virole
+virsh
 virtual
 virtualappliance
 virtualbox
@@ -10436,6 +10447,7 @@ volta
 volume
 volumeshadowcopy
 volumio
+voperator
 vorbis
 vovin
 vpas
@@ -10450,7 +10462,6 @@ vps
 vra
 vrchat
 vrealize
-vrising
 vro
 vrops
 vrsns
@@ -10577,6 +10588,7 @@ weixin
 well-known
 wem
 wemsdk
+wer
 wget
 what3words
 whatismyip
@@ -10809,11 +10821,8 @@ x.509
 x1
 x2
 x509
-x509cerificate
-x509cerificate2
 x509certificate
 x509certificates
-x509chain
 x64
 x86
 xa
