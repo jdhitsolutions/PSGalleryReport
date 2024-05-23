@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Thursday, 23 May 2024 02:05:38 UTC
+Updated: Thursday, 23 May 2024 09:52:03 UTC
 
 .bat
 .env
@@ -19,6 +19,7 @@ Updated: Thursday, 23 May 2024 02:05:38 UTC
 🍄
 🍣
 💩
+🙇
 1&1
 10
 11
@@ -51,7 +52,6 @@ Updated: Thursday, 23 May 2024 02:05:38 UTC
 650
 650flb
 7
-7-preview.host
 7-zip
 7z
 7zip
@@ -995,7 +995,6 @@ cache
 caf
 cal
 calc
-calculate
 calculator
 calendar
 callingcode
@@ -1145,7 +1144,6 @@ christmas
 chrome
 chromium
 chunk
-churchofjesuschrist
 ci
 ci/cd
 cic
@@ -2060,8 +2058,6 @@ docusign
 docx
 dod
 dog
-dog-names
-dogs
 dogstatsd
 dok
 dokuwiki
@@ -2453,6 +2449,7 @@ exif
 exiftool
 exists
 exitcode
+exitprocessrequest
 exo
 exov2
 exov3
@@ -2516,6 +2513,7 @@ failure
 falcon
 fallbackstatuspoint
 fanarttv
+fancy
 faq
 farm
 farmanager
@@ -2812,7 +2810,9 @@ generate
 generate-dockerimagevariants
 generate-password
 generate-random-password
+generateaddress
 generates
+generatewif
 generation
 generativeai
 generativeaiinference
@@ -3697,7 +3697,6 @@ kubespray
 kudu
 kurukuru
 kusto
-kvm
 kvp
 kvt
 l1tf
@@ -3782,12 +3781,10 @@ lgpo
 libgit2
 libraries
 library
-libvirt
 licence
 license
 license-generator
 licenseautomation
-licensemanagement
 licensemanager
 licensereport
 licenses
@@ -4310,7 +4307,6 @@ msdtc
 msedge
 msexcel
 msexchange
-msft
 msftnet
 msftnetworking
 msg
@@ -4401,7 +4397,6 @@ nabu
 nac
 nagios
 name
-name-of-dogs
 namedpipe
 nameit
 nameresolution
@@ -4452,7 +4447,6 @@ netfirewallrule
 netherlands
 netmask
 nets
-netsapiens
 netscaler
 netscape
 netsec
@@ -4572,7 +4566,6 @@ npslogfile
 nql
 nrc
 nrql
-ns
 ns.nl
 nsg
 nslookup
@@ -4588,7 +4581,6 @@ nuget
 nuget-references
 nuget.exe
 nuget.org
-number
 numlock
 nunit
 nupkg
@@ -5161,6 +5153,7 @@ poshy-wrap-nmap
 poshy-wrap-npm
 poshy-wrap-pip
 poshy-wrap-pipenv
+poshy-wrap-pyenv
 poshy-wrap-pylint
 poshy-wrap-python
 poshy-wrap-ruby
@@ -6430,6 +6423,7 @@ pscommand_invoke-pipinstall
 pscommand_invoke-pipinstallupgrade
 pscommand_invoke-piplistoutdated
 pscommand_invoke-pipuninstall
+pscommand_invoke-pyenv
 pscommand_invoke-pylintreportsdisabled
 pscommand_invoke-ruby
 pscommand_invoke-rubyexecute
@@ -6918,6 +6912,7 @@ pscommand_pvenv
 pscommand_pwh
 pscommand_pwshrc-show-proxy
 pscommand_py
+pscommand_pyenv
 pscommand_pylint-quick
 pscommand_pyserver
 pscommand_python
@@ -7838,6 +7833,7 @@ psfunction_invoke-pipinstall
 psfunction_invoke-pipinstallupgrade
 psfunction_invoke-piplistoutdated
 psfunction_invoke-pipuninstall
+psfunction_invoke-pyenv
 psfunction_invoke-pylintreportsdisabled
 psfunction_invoke-ruby
 psfunction_invoke-rubyexecute
@@ -8279,7 +8275,6 @@ psgraph
 psgraylog
 pshot
 pshtml
-psimport
 psincludes_cmdlet
 psincludes_command
 psincludes_function
@@ -8413,6 +8408,7 @@ pwshake
 pwshfw
 pwshrc
 pxedistributionpoint
+pyenv
 pygmentize
 pylint
 pyranja
@@ -8421,7 +8417,6 @@ python-for-dotnet
 python3
 qcloud
 qconvergeconsolepowerkit
-qemu
 qlgc_fc_powerkit
 qlik
 qlik-api
@@ -9526,6 +9521,7 @@ stanc
 standard
 standarderror
 standardoutput
+standards
 standbypool
 stansummary
 start
@@ -9572,7 +9568,6 @@ stockcharts
 stocks
 stoicism
 stoics
-stolpe.io
 stop
 storablecolortheme
 storage
@@ -9591,6 +9586,8 @@ streak
 stream
 streamanalytics
 streaming
+streamreader
+streamwriter
 stretch
 strictmode
 strikethrough-text
@@ -9631,6 +9628,7 @@ subscription
 subscriptiondefinition
 subset
 subsystem
+subtitle
 subversion
 success
 successfactors
@@ -9765,7 +9763,6 @@ tanzu
 tar
 target
 task
-task-runner
 task-scheduler
 taskbar
 tasker
@@ -10352,7 +10349,6 @@ verify
 version
 versioning
 versionmanager
-versionnumber
 vertical
 vester
 vhd
@@ -10367,7 +10363,6 @@ vigenere
 vim
 vimode
 virole
-virsh
 virtual
 virtualappliance
 virtualbox
@@ -10441,7 +10436,6 @@ volta
 volume
 volumeshadowcopy
 volumio
-voperator
 vorbis
 vovin
 vpas
@@ -10454,6 +10448,7 @@ vpn-certificate
 vpro
 vps
 vra
+vrchat
 vrealize
 vrising
 vro
@@ -10582,7 +10577,6 @@ weixin
 well-known
 wem
 wemsdk
-wer
 wget
 what3words
 whatismyip
@@ -10602,6 +10596,7 @@ wia
 wia.imagefile
 wid
 widedata
+wif
 wifi
 wiki
 wildcard
@@ -10638,6 +10633,8 @@ windows-features
 windows-firewall
 windows-path
 windows-powershell
+windows-registry
+windows-remoting
 windows-server-2016
 windows-terminal
 windows-user-folder

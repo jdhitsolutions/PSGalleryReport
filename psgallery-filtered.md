@@ -3,6 +3,38 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [SCEPman](https://www.powershellgallery.com/Packages/SCEPman/1.15.4.0) | 1.15.4.0
+
+### Published: 05/23/2024 08:40:28 by glueckkanja-gab
+
+CMDlets to manage SCEPman (https://scepman.com/) installations
+
+__Downloads__: 8,301 | __Repository__: https://scepman.com/
+
+## [fscps.tools](https://www.powershellgallery.com/Packages/fscps.tools/1.0.200) | 1.0.200
+
+### Published: 05/23/2024 07:31:59 by Oleksandr Nikolaiev
+
+fscps.tools
+
+__Downloads__: 1,332 | __Repository__: https://github.com/fscpscollaborative/fscps.tools
+
+## [z](https://www.powershellgallery.com/Packages/z/1.1.14) | 1.1.14
+
+### Published: 05/23/2024 07:07:07 by Vince Panuccio
+
+z lets you quickly navigate the file system in PowerShell based on your cd command history. It's a port of the z bash shell script
+
+__Downloads__: 108,176 | __Repository__: https://github.com/vincpa/z
+
+## [SecurePasswordGenerator](https://www.powershellgallery.com/Packages/SecurePasswordGenerator/1.0.1) | 1.0.1
+
+### Published: 05/23/2024 03:47:38 by Siamak Haj Azim Zanjani
+
+A module to generate secure passwords.
+
+__Downloads__: 0 | __Repository__: 
+
 ## [M365DSC.CompositeResources](https://www.powershellgallery.com/Packages/M365DSC.CompositeResources/1.24.522.100) | 1.24.522.100
 
 ### Published: 05/23/2024 01:17:32 by Yorick Kuijs
@@ -58,14 +90,6 @@ __Downloads__: 380 | __Repository__:
 PowerShell Management cmdlets for Binary Tree Power365
 
 __Downloads__: 6,655 | __Repository__: 
-
-## [fscps.tools](https://www.powershellgallery.com/Packages/fscps.tools/1.0.199) | 1.0.199
-
-### Published: 05/22/2024 21:30:17 by Oleksandr Nikolaiev
-
-fscps.tools
-
-__Downloads__: 1,332 | __Repository__: https://github.com/fscpscollaborative/fscps.tools
 
 ## [WindmillClient](https://www.powershellgallery.com/Packages/WindmillClient/1.335.0) | 1.335.0
 
@@ -323,14 +347,6 @@ A PowerShell module for individual versioning of files in a git repository using
 
 __Downloads__: 2 | __Repository__: https://github.com/PalmEmanuel/VeilVer
 
-## [Capa.PowerShell.Module](https://www.powershellgallery.com/Packages/Capa.PowerShell.Module/1.6.0) | 1.6.0
-
-### Published: 05/22/2024 07:02:53 by Mark5900
-
-PowerShell module for CapaInstaller containing functions for both the SDK and PowerPack.
-
-__Downloads__: 65 | __Repository__: https://github.com/Mark5900/Capa.PowerShell.Module
-
 ## [Capa.PowerShell.Module.SDK](https://www.powershellgallery.com/Packages/Capa.PowerShell.Module.SDK/1.6.0) | 1.6.0
 
 ### Published: 05/22/2024 07:02:53 by Mark5900
@@ -338,6 +354,14 @@ __Downloads__: 65 | __Repository__: https://github.com/Mark5900/Capa.PowerShell.
 PowerShell module for CapaInstaller containing functions for the SDK.
 
 __Downloads__: 67 | __Repository__: https://github.com/Mark5900/Capa.PowerShell.Module
+
+## [Capa.PowerShell.Module](https://www.powershellgallery.com/Packages/Capa.PowerShell.Module/1.6.0) | 1.6.0
+
+### Published: 05/22/2024 07:02:53 by Mark5900
+
+PowerShell module for CapaInstaller containing functions for both the SDK and PowerPack.
+
+__Downloads__: 65 | __Repository__: https://github.com/Mark5900/Capa.PowerShell.Module
 
 ## [Capa.PowerShell.Module.SDK.MDM](https://www.powershellgallery.com/Packages/Capa.PowerShell.Module.SDK.MDM/1.6.0) | 1.6.0
 
@@ -1884,14 +1908,6 @@ Contains a set of resuable PowerShell functions for working with Azure Resource 
 
 __Downloads__: 3,375 | __Repository__: 
 
-## [TestEchoModule](https://www.powershellgallery.com/Packages/TestEchoModule/0.0.1) | 0.0.1
-
-### Published: 05/20/2024 10:29:44 by andersonvcv
-
-kkk
-
-__Downloads__: 6 | __Repository__: 
-
 ## [HRProvisioningTests](https://www.powershellgallery.com/Packages/HRProvisioningTests/1.0.0) | 1.0.0
 
 ### Published: 05/20/2024 09:35:17 by Martin Rublik
@@ -2103,32 +2119,4 @@ Some of the interesting functions:
 
 __Downloads__: 83 | __Repository__: https://github.com/ztrhgf/useful_powershell_modules
 
-## [AzureOtherStuff](https://www.powershellgallery.com/Packages/AzureOtherStuff/1.0.2) | 1.0.2
-
-### Published: 05/19/2024 13:18:14 by @AndrewZtrhgf
-
-Various Azure related functions. More details at https://doitpsway.com/series/azure.
-Some of the interesting functions:
-- Get-AzureAuditAggregatedSignInEvent - gets aggregated types of Azure sign-in logs: User sign-ins (non-interactive), Service principal sign-ins, Managed identity sign-ins 
-- Get-AzureAuditSignInEvent - proxy function for Get-MgBetaAuditLogSignIn that simplifies result filtering
-- Get-AzureAssessNotificationEmail
-- Get-AzureDevOpsOrganizationOverview
-- Open-AzureAdminConsentPage
-- ...
-
-__Downloads__: 66 | __Repository__: https://github.com/ztrhgf/useful_powershell_modules
-
-## [AzureGroupStuff](https://www.powershellgallery.com/Packages/AzureGroupStuff/1.0.2) | 1.0.2
-
-### Published: 05/19/2024 13:18:01 by @AndrewZtrhgf
-
-Various Azure related functions focused on group accounts. More details at https://doitpsway.com/series/azure.
-Some of the interesting functions:
-- Get-AzureGroupMemberRecursive - gets group members rerursive, supports various filtering options like skip disabled accounts etc
-- Get-AzureGroupSettings - official Get-MgGroup -Property Settings doesn`t return anything for some reason
-- Set-AzureRingGroup - function for dynamically setting members of specified "ring" groups based on the provided users list (members of the "rootGroup") and the members per group percent ratio ("ringGroupConfig").
-- ...
-
-__Downloads__: 42 | __Repository__: https://github.com/ztrhgf/useful_powershell_modules
-
-*Updated: Thursday, 23 May 2024 02:05:30 UTC*
+*Updated: Thursday, 23 May 2024 09:51:55 UTC*
