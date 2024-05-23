@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Wednesday, 22 May 2024 17:51:56 UTC
+Updated: Thursday, 23 May 2024 02:05:38 UTC
 
 .bat
 .env
@@ -19,7 +19,6 @@ Updated: Wednesday, 22 May 2024 17:51:56 UTC
 🍄
 🍣
 💩
-🙇
 1&1
 10
 11
@@ -172,6 +171,7 @@ addlevel
 addomainservices
 addon
 address
+address-book
 addresses
 addressrange
 adds
@@ -186,7 +186,6 @@ adfstools
 adgroupmemberobjects
 adgroupmembers
 adgroups
-adidns
 adif
 adlds
 adm
@@ -355,6 +354,7 @@ ansible-control-node
 ansible-playbook
 ansible-vault
 ansiblecontrolnode
+anti-malware
 antimalwarescaninterface
 antispam
 antivirus
@@ -885,7 +885,6 @@ blueprint
 blueprints
 blueteam
 bluetraitio
-bluetuxedo
 bmc
 bnm
 boards
@@ -2070,7 +2069,6 @@ domain
 domaincontroller
 domainkey
 domainname
-domainnamesystem
 domains
 domino
 done.land
@@ -2160,6 +2158,7 @@ dtsx
 dtx
 du
 dual-stack
+duck
 duckduckgo
 ducktyping
 dudckduckgo
@@ -2454,7 +2453,6 @@ exif
 exiftool
 exists
 exitcode
-exitprocessrequest
 exo
 exov2
 exov3
@@ -2814,9 +2812,7 @@ generate
 generate-dockerimagevariants
 generate-password
 generate-random-password
-generateaddress
 generates
-generatewif
 generation
 generativeai
 generativeaiinference
@@ -3349,6 +3345,7 @@ importer
 importexport
 importteams
 inactive
+inboxrule
 incident
 incident-response
 incidentresponse
@@ -3468,6 +3465,7 @@ invoke-msbuild
 invoke-msbuildpreprocess
 invoke-vsbuild
 invoke-vsdevcommand
+invoke-webrequest
 invokebuild
 invokemethod
 io
@@ -3699,6 +3697,7 @@ kubespray
 kudu
 kurukuru
 kusto
+kvm
 kvp
 kvt
 l1tf
@@ -3783,6 +3782,7 @@ lgpo
 libgit2
 libraries
 library
+libvirt
 licence
 license
 license-generator
@@ -4495,7 +4495,6 @@ new-rdpsession
 new-samcmapplicationfrompackagedefinitionsms
 new-samcmpackagefrompackagedefinitionsms
 new-system
-new-udmorph
 new-win32app
 newpassword
 newrelic
@@ -4979,6 +4978,7 @@ personalvault
 personio
 pester
 pf
+pfe
 pfsense
 pfx
 pfy
@@ -5161,7 +5161,6 @@ poshy-wrap-nmap
 poshy-wrap-npm
 poshy-wrap-pip
 poshy-wrap-pipenv
-poshy-wrap-pyenv
 poshy-wrap-pylint
 poshy-wrap-python
 poshy-wrap-ruby
@@ -6431,7 +6430,6 @@ pscommand_invoke-pipinstall
 pscommand_invoke-pipinstallupgrade
 pscommand_invoke-piplistoutdated
 pscommand_invoke-pipuninstall
-pscommand_invoke-pyenv
 pscommand_invoke-pylintreportsdisabled
 pscommand_invoke-ruby
 pscommand_invoke-rubyexecute
@@ -6920,7 +6918,6 @@ pscommand_pvenv
 pscommand_pwh
 pscommand_pwshrc-show-proxy
 pscommand_py
-pscommand_pyenv
 pscommand_pylint-quick
 pscommand_pyserver
 pscommand_python
@@ -7841,7 +7838,6 @@ psfunction_invoke-pipinstall
 psfunction_invoke-pipinstallupgrade
 psfunction_invoke-piplistoutdated
 psfunction_invoke-pipuninstall
-psfunction_invoke-pyenv
 psfunction_invoke-pylintreportsdisabled
 psfunction_invoke-ruby
 psfunction_invoke-rubyexecute
@@ -8417,7 +8413,6 @@ pwshake
 pwshfw
 pwshrc
 pxedistributionpoint
-pyenv
 pygmentize
 pylint
 pyranja
@@ -8426,6 +8421,7 @@ python-for-dotnet
 python3
 qcloud
 qconvergeconsolepowerkit
+qemu
 qlgc_fc_powerkit
 qlik
 qlik-api
@@ -8757,6 +8753,7 @@ rgb
 rhapsody
 ribbon
 ribcl
+ricoh
 rightcloud
 rightjoin
 rights
@@ -8822,6 +8819,7 @@ rsop
 rss
 rt
 rtu
+rubber
 rubrik
 rubriksecuritycloud
 ruby
@@ -8955,6 +8953,7 @@ scp
 scrap
 scrape
 scraper
+scraping
 screen
 screencap
 screencapture
@@ -8962,6 +8961,7 @@ screenconnect
 screenfetch
 screenresolution
 screensaver
+screenscraping
 screenshot
 script
 script_version
@@ -9507,6 +9507,7 @@ ssllabs-scan
 sslprotocol
 ssm
 sso
+sspi
 sspr
 ssrs
 ssst
@@ -9525,7 +9526,6 @@ stanc
 standard
 standarderror
 standardoutput
-standards
 standbypool
 stansummary
 start
@@ -9591,8 +9591,6 @@ streak
 stream
 streamanalytics
 streaming
-streamreader
-streamwriter
 stretch
 strictmode
 strikethrough-text
@@ -9633,7 +9631,6 @@ subscription
 subscriptiondefinition
 subset
 subsystem
-subtitle
 subversion
 success
 successfactors
@@ -9768,6 +9765,7 @@ tanzu
 tar
 target
 task
+task-runner
 task-scheduler
 taskbar
 tasker
@@ -9929,6 +9927,7 @@ timesheets
 timespan
 timezone
 tinkerpop
+tinymce
 tip
 tips
 title
@@ -10368,6 +10367,7 @@ vigenere
 vim
 vimode
 virole
+virsh
 virtual
 virtualappliance
 virtualbox
@@ -10454,7 +10454,6 @@ vpn-certificate
 vpro
 vps
 vra
-vrchat
 vrealize
 vrising
 vro
@@ -10603,7 +10602,6 @@ wia
 wia.imagefile
 wid
 widedata
-wif
 wifi
 wiki
 wildcard
@@ -10640,8 +10638,6 @@ windows-features
 windows-firewall
 windows-path
 windows-powershell
-windows-registry
-windows-remoting
 windows-server-2016
 windows-terminal
 windows-user-folder
