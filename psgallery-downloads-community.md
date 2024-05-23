@@ -2187,4 +2187,4 @@ Provide a better and easier way for GitHub Actions to communicate with the runne
 
 __Downloads__: 226,190 | __Repository__: https://github.com/hugoalh-studio/ghactions-toolkit-powershell
 
-*Updated: Thursday, 23 May 2024 02:05:35 UTC*
+*Updated: Thursday, 23 May 2024 09:52:00 UTC*
