@@ -859,9 +859,9 @@ Microsoft Azure PowerShell: MySql cmdlets
 
 __Downloads__: 40,561,558 | __Repository__: https://github.com/Azure/azure-powershell
 
-## [AWS.Tools.Common](https://www.powershellgallery.com/Packages/AWS.Tools.Common/4.1.585) | 4.1.585
+## [AWS.Tools.Common](https://www.powershellgallery.com/Packages/AWS.Tools.Common/4.1.586) | 4.1.586
 
-### Published: 05/22/2024 22:29:14 by Amazon.com Inc
+### Published: 05/23/2024 21:48:46 by Amazon.com Inc
 
 The AWS Tools for PowerShell lets developers and administrators manage their AWS services from the PowerShell scripting environment. In order to manage each AWS service, install the corresponding module (e.g. AWS.Tools.EC2, AWS.Tools.S3...).
 The module AWS.Tools.Installer (https://www.powershellgallery.com/packages/AWS.Tools.Installer/) makes it easier to install, update and uninstall the AWS.Tools modules.
@@ -1371,9 +1371,9 @@ Microsoft Azure PowerShell - Relay service cmdlets for Azure Resource Manager
 
 __Downloads__: 25,545,958 | __Repository__: https://github.com/Azure/azure-powershell
 
-## [AWSPowerShell](https://www.powershellgallery.com/Packages/AWSPowerShell/4.1.585) | 4.1.585
+## [AWSPowerShell](https://www.powershellgallery.com/Packages/AWSPowerShell/4.1.586) | 4.1.586
 
-### Published: 05/22/2024 22:28:39 by Amazon.com Inc
+### Published: 05/23/2024 21:48:10 by Amazon.com Inc
 
 The AWS Tools for Windows PowerShell lets developers and administrators manage their AWS services from the Windows PowerShell scripting environment.
 This version of AWS Tools for Windows PowerShell is compatible with Windows PowerShell 2-5.1. An alternative module, AWSPowerShell.NetCore, provides support for Windows PowerShell 3+ and PowerShell Core 6+ on Windows, Linux and macOS.
@@ -1683,9 +1683,9 @@ Microsoft Graph PowerShell Cmdlets
 
 __Downloads__: 10,933,373 | __Repository__: https://github.com/microsoftgraph/msgraph-sdk-powershell
 
-## [AWS.Tools.CloudWatch](https://www.powershellgallery.com/Packages/AWS.Tools.CloudWatch/4.1.585) | 4.1.585
+## [AWS.Tools.CloudWatch](https://www.powershellgallery.com/Packages/AWS.Tools.CloudWatch/4.1.586) | 4.1.586
 
-### Published: 05/22/2024 22:39:15 by Amazon.com Inc
+### Published: 05/23/2024 21:56:38 by Amazon.com Inc
 
 The CloudWatch module of AWS Tools for PowerShell lets developers and administrators manage Amazon CloudWatch from the PowerShell scripting environment. In order to manage each AWS service, install the corresponding module (e.g. AWS.Tools.EC2, AWS.Tools.S3...).
 The module AWS.Tools.Installer (https://www.powershellgallery.com/packages/AWS.Tools.Installer/) makes it easier to install, update and uninstall the AWS.Tools modules.
@@ -1909,9 +1909,9 @@ Windows Defender module allows you to configure Windows Defender settings.
 
 __Downloads__: 9,102,166 | __Repository__: 
 
-## [AWSPowerShell.NetCore](https://www.powershellgallery.com/Packages/AWSPowerShell.NetCore/4.1.585) | 4.1.585
+## [AWSPowerShell.NetCore](https://www.powershellgallery.com/Packages/AWSPowerShell.NetCore/4.1.586) | 4.1.586
 
-### Published: 05/22/2024 22:29:07 by Amazon.com Inc
+### Published: 05/23/2024 21:48:39 by Amazon.com Inc
 
 The AWS Tools for PowerShell lets developers and administrators manage their AWS services from the PowerShell scripting environment.
 This version of AWS Tools for PowerShell is compatible with Windows PowerShell 3+ and PowerShell Core 6+ on Windows, Linux and macOS. When running on Windows PowerShell, .NET Framework 4.7.2 or newer is required. An alternative module, AWSPowerShell, provides support for older versions of Windows PowerShell and .NET Framework.
@@ -1995,9 +1995,9 @@ PowerShell module that contains command for VMware Cloud Services.
 
 __Downloads__: 8,448,320 | __Repository__: https://developer.vmware.com/powercli
 
-## [AWS.Tools.S3](https://www.powershellgallery.com/Packages/AWS.Tools.S3/4.1.585) | 4.1.585
+## [AWS.Tools.S3](https://www.powershellgallery.com/Packages/AWS.Tools.S3/4.1.586) | 4.1.586
 
-### Published: 05/22/2024 23:03:33 by Amazon.com Inc
+### Published: 05/23/2024 22:22:55 by Amazon.com Inc
 
 The S3 module of AWS Tools for PowerShell lets developers and administrators manage Amazon Simple Storage Service (S3) from the PowerShell scripting environment. In order to manage each AWS service, install the corresponding module (e.g. AWS.Tools.EC2, AWS.Tools.S3...).
 The module AWS.Tools.Installer (https://www.powershellgallery.com/packages/AWS.Tools.Installer/) makes it easier to install, update and uninstall the AWS.Tools modules.
@@ -2191,4 +2191,4 @@ Microsoft Graph PowerShell Cmdlets
 
 __Downloads__: 5,983,134 | __Repository__: https://github.com/microsoftgraph/msgraph-sdk-powershell
 
-*Updated: Thursday, 23 May 2024 17:51:46 UTC*
+*Updated: Friday, 24 May 2024 02:06:06 UTC*

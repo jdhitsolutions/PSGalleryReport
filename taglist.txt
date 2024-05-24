@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Thursday, 23 May 2024 17:51:50 UTC
+Updated: Friday, 24 May 2024 02:06:10 UTC
 
 .bat
 .env
@@ -344,6 +344,7 @@ animals
 animate-svg
 animation
 animations
+annotated
 announcement
 announcementsservice
 anonymous
@@ -521,6 +522,7 @@ asynchronous
 atempo
 atera
 athena
+atlas
 atlassian
 atlassiancli
 atlassianps
@@ -690,6 +692,7 @@ azurebasicloadbalancerupgrade
 azurecli
 azurecodesigning
 azurecognitiveservices
+azurecommonstuff
 azurecontainerapps
 azurecontainers
 azuredatabricks
@@ -980,6 +983,7 @@ businessobjects
 businessrulesengine
 businesstime
 bxor
+bydesign
 byexample
 bynarypsmodule
 byovd
@@ -1085,6 +1089,7 @@ certera
 certes
 certificate
 certificateauthority
+certificatechain
 certificatemanager
 certificatepolicy
 certificates
@@ -1558,7 +1563,6 @@ cqdpowershell
 cqhttp
 crack psmodule
 crash
-crawler
 crayon
 crc
 crc32
@@ -1643,7 +1647,6 @@ currency-convereter
 currency-exchange
 currencyconverterapi
 current
-curseforge
 custom
 customchecks
 customdns
@@ -1695,7 +1698,6 @@ dac
 dacfx
 dacl
 dacpac
-dacpackage
 dagger
 daily
 dane
@@ -1829,7 +1831,6 @@ deepl
 deepvisibility
 def
 default
-defaultparameter
 defaultroutes
 defaults
 defence
@@ -1856,8 +1857,6 @@ demand
 demo
 democratie
 demonstration
-demultiplex
-demultiplexing
 dependencies
 dependency
 dependencysearch
@@ -1964,7 +1963,6 @@ disasterrecovery
 disconnect
 discord
 discordrpc
-discount
 discover
 discovery
 discutils
@@ -1985,6 +1983,7 @@ displayresolution
 distance
 distinguishedname
 distributed-systems
+distributed-tracing
 distributedcache
 distributedfilesystem
 distribution
@@ -2212,7 +2211,6 @@ easylife365
 easyvista
 eaton
 ebay
-ebooks
 ebur128
 ec2
 ecommerce
@@ -2329,6 +2327,7 @@ environments
 environmentvariable
 environmentvariables
 envvar
+envvars
 eol
 eop
 eperl
@@ -2373,6 +2372,7 @@ ether
 etherassist
 ethereum
 ethr
+ethz
 etl
 etl2pcapng
 etrade
@@ -2901,7 +2901,6 @@ github-actions
 githubactions
 githubtools
 githubworkflow
-gitignore
 gitlab
 gitlab-runner
 gitlab4
@@ -3355,6 +3354,7 @@ incontact
 indents
 index
 indexdb
+indicator
 inedo
 inetfwrule
 inetum
@@ -3709,8 +3709,6 @@ label
 labels
 lability
 labnotifications
-laborate
-laboratory
 labrecipe
 labservices
 labsnippet
@@ -4806,6 +4804,7 @@ osuborganizationsubscription
 osubsubscription
 osubusage
 osx
+otel
 otp
 ou
 ou-object
@@ -4965,6 +4964,7 @@ perforce
 performance
 performance-counters
 performancemonitoring
+perl
 permission
 permissions
 permutations
@@ -5164,7 +5164,6 @@ poshy-wrap-pylint
 poshy-wrap-python
 poshy-wrap-ruby
 poshy-wrap-systemctl
-poshy-wrap-terraform
 poshy-wrap-terragrunt
 poshy-wrap-tmux
 poshy-wrap-vagrant
@@ -5225,7 +5224,6 @@ powershell-github-repo
 powershell-gitlab
 powershell-graphql
 powershell-isprime
-powershell-lightning
 powershell-module
 powershell-modules
 powershell-releases-api
@@ -5288,7 +5286,6 @@ presentation
 presenter
 presto
 preston-k-parsard
-prettifier
 pretty
 prettyprinter
 preview
@@ -6542,15 +6539,6 @@ pscommand_invoke-systemctluser-try-reload-or-restart
 pscommand_invoke-systemctluser-try-restart
 pscommand_invoke-systemctluser-unmask
 pscommand_invoke-systemctluser-unset-environment
-pscommand_invoke-terraform
-pscommand_invoke-terraformapply
-pscommand_invoke-terraformconsole
-pscommand_invoke-terraformdestroy
-pscommand_invoke-terraformformat
-pscommand_invoke-terraforminit
-pscommand_invoke-terraformoutput
-pscommand_invoke-terraformplan
-pscommand_invoke-terraformvalidate
 pscommand_invoke-terragrunt
 pscommand_invoke-terragruntapply
 pscommand_invoke-terragruntapplyall
@@ -7019,15 +7007,6 @@ pscommand_test-o
 pscommand_test-reparsepoint
 pscommand_test-sessioninteractivity
 pscommand_test-x
-pscommand_tf
-pscommand_tfa
-pscommand_tfc
-pscommand_tfd
-pscommand_tff
-pscommand_tfi
-pscommand_tfo
-pscommand_tfp
-pscommand_tfv
 pscommand_tg
 pscommand_tga
 pscommand_tgaa
@@ -7952,15 +7931,6 @@ psfunction_invoke-systemctluser-try-reload-or-restart
 psfunction_invoke-systemctluser-try-restart
 psfunction_invoke-systemctluser-unmask
 psfunction_invoke-systemctluser-unset-environment
-psfunction_invoke-terraform
-psfunction_invoke-terraformapply
-psfunction_invoke-terraformconsole
-psfunction_invoke-terraformdestroy
-psfunction_invoke-terraformformat
-psfunction_invoke-terraforminit
-psfunction_invoke-terraformoutput
-psfunction_invoke-terraformplan
-psfunction_invoke-terraformvalidate
 psfunction_invoke-terragrunt
 psfunction_invoke-terragruntapply
 psfunction_invoke-terragruntapplyall
@@ -8650,7 +8620,6 @@ remotemanagement
 remotesession
 remoting
 remove
-remove-githubsecrets
 remove-itemproperty
 remove-pass
 remove-path
@@ -8863,7 +8832,6 @@ safeguard
 sage
 saggiehaim
 sailpoint
-sale
 sales
 salesforce
 salesloft
@@ -8987,8 +8955,6 @@ scriptrunner
 scripts
 scriptsmonitoring
 scrolllock
-scrub
-scrubber
 scsm
 scuba
 sd
@@ -9144,7 +9110,6 @@ set
 set_bios
 set-alias
 set-dnsservers
-set-githubsecrets
 set-itemproperty
 set-location
 set-openfiles
@@ -9441,7 +9406,6 @@ spotify-api
 spotlight
 spotlightimages
 spp
-spread
 spreadsheet
 spring
 spring-boot
@@ -9473,7 +9437,6 @@ sqllocaldb
 sqlpackage
 sqlplus
 sqlproj
-sqlproject
 sqlps
 sqlquery
 sqlserver
@@ -9673,7 +9636,6 @@ svt
 swagger
 swamid
 swarm
-swedish
 swimlane
 swis
 switch
@@ -9787,7 +9749,6 @@ tcp
 tcp/ip
 tcpip
 tcpport
-tcprjmgmt
 tcpserver
 tcptest
 tcx
@@ -9843,6 +9804,7 @@ terraform-switcher
 terraformcloud
 terrafun
 terragrunt
+tesla
 test
 test-automation
 test-dscconfiguration
@@ -10462,6 +10424,7 @@ vps
 vra
 vrchat
 vrealize
+vrising
 vro
 vrops
 vrsns
@@ -10620,7 +10583,6 @@ wimwitch
 wimwitchfk
 win
 win-ps2exe
-win10
 win2k8
 win32
 win32_installedwin32program
@@ -10821,8 +10783,11 @@ x.509
 x1
 x2
 x509
+x509cerificate
+x509cerificate2
 x509certificate
 x509certificates
+x509chain
 x64
 x86
 xa
