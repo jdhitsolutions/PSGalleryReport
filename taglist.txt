@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Friday, 24 May 2024 02:06:10 UTC
+Updated: Friday, 24 May 2024 09:51:54 UTC
 
 .bat
 .env
@@ -942,7 +942,6 @@ broot
 brownserve-uk
 browser
 browserbox
-browserextension
 browserhistory
 browsing
 brs
@@ -1159,10 +1158,8 @@ cif
 cifv3
 cil
 cim
-cim_computersystem
 cimfs
 cimi
-ciminstance
 cims
 cimsession
 cinema
@@ -1563,6 +1560,7 @@ cqdpowershell
 cqhttp
 crack psmodule
 crash
+crawler
 crayon
 crc
 crc32
@@ -1647,6 +1645,7 @@ currency-convereter
 currency-exchange
 currencyconverterapi
 current
+curseforge
 custom
 customchecks
 customdns
@@ -1698,6 +1697,7 @@ dac
 dacfx
 dacl
 dacpac
+dacpackage
 dagger
 daily
 dane
@@ -1831,6 +1831,7 @@ deepl
 deepvisibility
 def
 default
+defaultparameter
 defaultroutes
 defaults
 defence
@@ -1857,6 +1858,8 @@ demand
 demo
 democratie
 demonstration
+demultiplex
+demultiplexing
 dependencies
 dependency
 dependencysearch
@@ -1963,6 +1966,7 @@ disasterrecovery
 disconnect
 discord
 discordrpc
+discount
 discover
 discovery
 discutils
@@ -2075,7 +2079,6 @@ donothing
 dos
 dot
 dotenv
-dotfile
 dotfiles
 dotnet
 dotnet-cli
@@ -2170,7 +2173,6 @@ dumping
 dumps
 dupes
 duplicate
-duplicate-files
 duplicatioin
 duplication
 durable
@@ -2211,6 +2213,7 @@ easylife365
 easyvista
 eaton
 ebay
+ebooks
 ebur128
 ec2
 ecommerce
@@ -2407,7 +2410,6 @@ eventviewer
 eventwatch
 evergreen
 evernote
-everydaypowershell
 everydayrewards
 everything
 evilprince2009
@@ -2491,7 +2493,6 @@ extendscript
 extensibility
 extension
 extensionmethods
-extensionrisk
 extensions
 external
 externalip
@@ -2901,6 +2902,7 @@ github-actions
 githubactions
 githubtools
 githubworkflow
+gitignore
 gitlab
 gitlab-runner
 gitlab4
@@ -3041,7 +3043,6 @@ hana
 hanaon
 handle
 handler
-handy
 hangouts
 hannelstoolbox
 hanwha
@@ -3072,7 +3073,6 @@ hba
 hbase
 hci
 hcl
-hcm
 hcx
 hdfs
 hdinsight
@@ -3415,7 +3415,6 @@ intacct
 integrated
 integratedscriptingeditor
 integration
-integrationaccount
 integrationruntime
 integrationruntimedependency
 integrationservicescatalog
@@ -3478,6 +3477,7 @@ iothub
 iothubproperties
 ip
 ip-address
+ip-scanner
 ipa
 ipaddress
 ipam
@@ -3709,6 +3709,8 @@ label
 labels
 lability
 labnotifications
+laborate
+laboratory
 labrecipe
 labservices
 labsnippet
@@ -4455,7 +4457,6 @@ netscaler
 netscape
 netsec
 netsh
-netspell
 netstat
 netsuite
 network
@@ -4485,7 +4486,6 @@ new-dtcmpackagefromdriverpackpackagedefinitionsms
 new-dtcmtasksequencefromdriverpackpackagedefinitionsms
 new-dynamicdictionary
 new-dynamicparameter
-new-githubrelease
 new-item
 new-itemproperty
 new-pinneditem
@@ -4759,7 +4759,6 @@ optimizer
 option
 option119
 options
-optionstring
 opus
 oracle
 oraclecloudinfrastructure
@@ -5090,6 +5089,7 @@ popd
 population
 popup
 port
+port-scanner
 port70
 portal
 porthunter
@@ -5160,10 +5160,10 @@ poshy-wrap-npm
 poshy-wrap-pip
 poshy-wrap-pipenv
 poshy-wrap-pyenv
-poshy-wrap-pylint
 poshy-wrap-python
 poshy-wrap-ruby
 poshy-wrap-systemctl
+poshy-wrap-terraform
 poshy-wrap-terragrunt
 poshy-wrap-tmux
 poshy-wrap-vagrant
@@ -5224,6 +5224,7 @@ powershell-github-repo
 powershell-gitlab
 powershell-graphql
 powershell-isprime
+powershell-lightning
 powershell-module
 powershell-modules
 powershell-releases-api
@@ -5286,6 +5287,7 @@ presentation
 presenter
 presto
 preston-k-parsard
+prettifier
 pretty
 prettyprinter
 preview
@@ -6427,7 +6429,6 @@ pscommand_invoke-pipinstallupgrade
 pscommand_invoke-piplistoutdated
 pscommand_invoke-pipuninstall
 pscommand_invoke-pyenv
-pscommand_invoke-pylintreportsdisabled
 pscommand_invoke-ruby
 pscommand_invoke-rubyexecute
 pscommand_invoke-rubyexecutehttpdhere
@@ -6539,6 +6540,15 @@ pscommand_invoke-systemctluser-try-reload-or-restart
 pscommand_invoke-systemctluser-try-restart
 pscommand_invoke-systemctluser-unmask
 pscommand_invoke-systemctluser-unset-environment
+pscommand_invoke-terraform
+pscommand_invoke-terraformapply
+pscommand_invoke-terraformconsole
+pscommand_invoke-terraformdestroy
+pscommand_invoke-terraformformat
+pscommand_invoke-terraforminit
+pscommand_invoke-terraformoutput
+pscommand_invoke-terraformplan
+pscommand_invoke-terraformvalidate
 pscommand_invoke-terragrunt
 pscommand_invoke-terragruntapply
 pscommand_invoke-terragruntapplyall
@@ -6907,7 +6917,6 @@ pscommand_pwh
 pscommand_pwshrc-show-proxy
 pscommand_py
 pscommand_pyenv
-pscommand_pylint-quick
 pscommand_pyserver
 pscommand_python
 pscommand_python3
@@ -7007,6 +7016,15 @@ pscommand_test-o
 pscommand_test-reparsepoint
 pscommand_test-sessioninteractivity
 pscommand_test-x
+pscommand_tf
+pscommand_tfa
+pscommand_tfc
+pscommand_tfd
+pscommand_tff
+pscommand_tfi
+pscommand_tfo
+pscommand_tfp
+pscommand_tfv
 pscommand_tg
 pscommand_tga
 pscommand_tgaa
@@ -7819,7 +7837,6 @@ psfunction_invoke-pipinstallupgrade
 psfunction_invoke-piplistoutdated
 psfunction_invoke-pipuninstall
 psfunction_invoke-pyenv
-psfunction_invoke-pylintreportsdisabled
 psfunction_invoke-ruby
 psfunction_invoke-rubyexecute
 psfunction_invoke-rubyexecutehttpdhere
@@ -7931,6 +7948,15 @@ psfunction_invoke-systemctluser-try-reload-or-restart
 psfunction_invoke-systemctluser-try-restart
 psfunction_invoke-systemctluser-unmask
 psfunction_invoke-systemctluser-unset-environment
+psfunction_invoke-terraform
+psfunction_invoke-terraformapply
+psfunction_invoke-terraformconsole
+psfunction_invoke-terraformdestroy
+psfunction_invoke-terraformformat
+psfunction_invoke-terraforminit
+psfunction_invoke-terraformoutput
+psfunction_invoke-terraformplan
+psfunction_invoke-terraformvalidate
 psfunction_invoke-terragrunt
 psfunction_invoke-terragruntapply
 psfunction_invoke-terragruntapplyall
@@ -8387,7 +8413,6 @@ pwshrc
 pxedistributionpoint
 pyenv
 pygmentize
-pylint
 pyranja
 python
 python-for-dotnet
@@ -8620,6 +8645,7 @@ remotemanagement
 remotesession
 remoting
 remove
+remove-githubsecrets
 remove-itemproperty
 remove-pass
 remove-path
@@ -8832,6 +8858,7 @@ safeguard
 sage
 saggiehaim
 sailpoint
+sale
 sales
 salesforce
 salesloft
@@ -8955,13 +8982,14 @@ scriptrunner
 scripts
 scriptsmonitoring
 scrolllock
+scrub
+scrubber
 scsm
 scuba
 sd
 sddl
 sdk
 sdn
-sdp
 search
 search-adminauditlog
 search-engines
@@ -9110,6 +9138,7 @@ set
 set_bios
 set-alias
 set-dnsservers
+set-githubsecrets
 set-itemproperty
 set-location
 set-openfiles
@@ -9382,7 +9411,6 @@ speed
 speedometer
 speedtest
 speedtester
-spellcheck
 spelling
 spf
 spfx
@@ -9406,6 +9434,7 @@ spotify-api
 spotlight
 spotlightimages
 spp
+spread
 spreadsheet
 spring
 spring-boot
@@ -9437,6 +9466,7 @@ sqllocaldb
 sqlpackage
 sqlplus
 sqlproj
+sqlproject
 sqlps
 sqlquery
 sqlserver
@@ -9636,6 +9666,7 @@ svt
 swagger
 swamid
 swarm
+swedish
 swimlane
 swis
 switch
@@ -9749,6 +9780,7 @@ tcp
 tcp/ip
 tcpip
 tcpport
+tcprjmgmt
 tcpserver
 tcptest
 tcx
@@ -9804,7 +9836,6 @@ terraform-switcher
 terraformcloud
 terrafun
 terragrunt
-tesla
 test
 test-automation
 test-dscconfiguration
@@ -10158,8 +10189,6 @@ unifiedlabeling
 uninstall
 uninstaller
 union
-unique
-unique-files
 unit
 unit_testing
 unit-testing
@@ -10583,6 +10612,7 @@ wimwitch
 wimwitchfk
 win
 win-ps2exe
+win10
 win2k8
 win32
 win32_installedwin32program
