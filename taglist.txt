@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Friday, 24 May 2024 09:51:54 UTC
+Updated: Friday, 24 May 2024 17:51:43 UTC
 
 .bat
 .env
@@ -625,7 +625,6 @@ aws_profile
 aws-codebuild
 aws-lambda
 aws-vault
-aws.tools.powershell
 awscli
 awspricelist
 axapta
@@ -942,6 +941,7 @@ broot
 brownserve-uk
 browser
 browserbox
+browserextension
 browserhistory
 browsing
 brs
@@ -1031,7 +1031,6 @@ carousel
 carrier
 cartoon
 case
-cassandra
 cat
 cat-names
 catalog
@@ -1158,8 +1157,10 @@ cif
 cifv3
 cil
 cim
+cim_computersystem
 cimfs
 cimi
+ciminstance
 cims
 cimsession
 cinema
@@ -1645,7 +1646,6 @@ currency-convereter
 currency-exchange
 currencyconverterapi
 current
-curseforge
 custom
 customchecks
 customdns
@@ -2079,6 +2079,7 @@ donothing
 dos
 dot
 dotenv
+dotfile
 dotfiles
 dotnet
 dotnet-cli
@@ -2173,6 +2174,7 @@ dumping
 dumps
 dupes
 duplicate
+duplicate-files
 duplicatioin
 duplication
 durable
@@ -2410,6 +2412,7 @@ eventviewer
 eventwatch
 evergreen
 evernote
+everydaypowershell
 everydayrewards
 everything
 evilprince2009
@@ -2493,6 +2496,7 @@ extendscript
 extensibility
 extension
 extensionmethods
+extensionrisk
 extensions
 external
 externalip
@@ -3043,6 +3047,7 @@ hana
 hanaon
 handle
 handler
+handy
 hangouts
 hannelstoolbox
 hanwha
@@ -3073,6 +3078,7 @@ hba
 hbase
 hci
 hcl
+hcm
 hcx
 hdfs
 hdinsight
@@ -3415,6 +3421,7 @@ intacct
 integrated
 integratedscriptingeditor
 integration
+integrationaccount
 integrationruntime
 integrationruntimedependency
 integrationservicescatalog
@@ -3477,7 +3484,6 @@ iothub
 iothubproperties
 ip
 ip-address
-ip-scanner
 ipa
 ipaddress
 ipam
@@ -3622,8 +3628,6 @@ k8s
 k8sshell
 kafka
 kaminario
-karabiner
-karabiner-elements
 karma
 kaseya
 kaseyavsa
@@ -3647,15 +3651,12 @@ key
 key-vault
 key2wocas
 keybase
-keybinding
 keyboard
 keyboardstartkey
 keycipher
 keycloak
 keylight
 keymanagement
-keymap
-keymapping
 keypair
 keysms
 keyvault
@@ -4305,7 +4306,6 @@ msband
 msbi
 msbuild
 msdeploy
-msdn
 msdtc
 msedge
 msexcel
@@ -4457,6 +4457,7 @@ netscaler
 netscape
 netsec
 netsh
+netspell
 netstat
 netsuite
 network
@@ -4486,6 +4487,7 @@ new-dtcmpackagefromdriverpackpackagedefinitionsms
 new-dtcmtasksequencefromdriverpackpackagedefinitionsms
 new-dynamicdictionary
 new-dynamicparameter
+new-githubrelease
 new-item
 new-itemproperty
 new-pinneditem
@@ -4759,6 +4761,7 @@ optimizer
 option
 option119
 options
+optionstring
 opus
 oracle
 oraclecloudinfrastructure
@@ -5089,7 +5092,6 @@ popd
 population
 popup
 port
-port-scanner
 port70
 portal
 porthunter
@@ -5160,6 +5162,7 @@ poshy-wrap-npm
 poshy-wrap-pip
 poshy-wrap-pipenv
 poshy-wrap-pyenv
+poshy-wrap-pylint
 poshy-wrap-python
 poshy-wrap-ruby
 poshy-wrap-systemctl
@@ -5325,7 +5328,6 @@ process-inspector
 processing
 processmitigation
 processor
-procmap
 procs
 producer
 product
@@ -5381,7 +5383,6 @@ proxmox
 proxmoxve
 proxsys
 proxy
-proxyfunction
 proxyfunctions
 prtg
 prtg_network_monitor
@@ -6429,6 +6430,7 @@ pscommand_invoke-pipinstallupgrade
 pscommand_invoke-piplistoutdated
 pscommand_invoke-pipuninstall
 pscommand_invoke-pyenv
+pscommand_invoke-pylintreportsdisabled
 pscommand_invoke-ruby
 pscommand_invoke-rubyexecute
 pscommand_invoke-rubyexecutehttpdhere
@@ -6917,6 +6919,7 @@ pscommand_pwh
 pscommand_pwshrc-show-proxy
 pscommand_py
 pscommand_pyenv
+pscommand_pylint-quick
 pscommand_pyserver
 pscommand_python
 pscommand_python3
@@ -7208,7 +7211,6 @@ psdesiredstateconfiguration
 psdevops
 psdocs
 psdocs-documents
-psdocsgenerator
 psdrawio
 psdrive
 psdrives
@@ -7837,6 +7839,7 @@ psfunction_invoke-pipinstallupgrade
 psfunction_invoke-piplistoutdated
 psfunction_invoke-pipuninstall
 psfunction_invoke-pyenv
+psfunction_invoke-pylintreportsdisabled
 psfunction_invoke-ruby
 psfunction_invoke-rubyexecute
 psfunction_invoke-rubyexecutehttpdhere
@@ -8413,6 +8416,7 @@ pwshrc
 pxedistributionpoint
 pyenv
 pygmentize
+pylint
 pyranja
 python
 python-for-dotnet
@@ -8990,6 +8994,7 @@ sd
 sddl
 sdk
 sdn
+sdp
 search
 search-adminauditlog
 search-engines
@@ -9277,7 +9282,6 @@ skytap
 slack
 slash
 slashcommands
-slmgr
 sln
 slugify
 sm
@@ -9411,6 +9415,7 @@ speed
 speedometer
 speedtest
 speedtester
+spellcheck
 spelling
 spf
 spfx
@@ -9675,7 +9680,6 @@ sybase
 sybaseiq
 symantec
 symbolic
-symbolic_link
 symboliclink
 symbols
 symbolservers
@@ -9836,6 +9840,7 @@ terraform-switcher
 terraformcloud
 terrafun
 terragrunt
+tesla
 test
 test-automation
 test-dscconfiguration
@@ -9996,8 +10001,6 @@ transact
 transaction
 transactions
 transcode
-transcript
-transcripts
 transform
 transformation
 transforms
@@ -10128,7 +10131,6 @@ ud-navbarsearch
 ud-numbermask
 ud-orgchart
 ud-piechart3d
-ud-pivottable
 ud-progressstepbar
 ud-rangeslider
 ud-readingbar
@@ -10189,6 +10191,8 @@ unifiedlabeling
 uninstall
 uninstaller
 union
+unique
+unique-files
 unit
 unit_testing
 unit-testing
