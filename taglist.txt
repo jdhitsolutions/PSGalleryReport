@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Saturday, 25 May 2024 09:51:53 UTC
+Updated: Saturday, 25 May 2024 17:51:50 UTC
 
 .bat
 .env
@@ -166,6 +166,7 @@ add-on.module
 add-one
 add-path
 add-type
+addin
 addlevel
 addomainservices
 addon
@@ -187,6 +188,7 @@ adgroupmembers
 adgroups
 adidns
 adif
+adlds
 adm
 admf
 admin
@@ -305,6 +307,7 @@ alteryx
 alwaysontop
 alwaysonvpn
 alz
+amateur
 amateur-data-interchange-format
 amateur-radio
 amateurradio
@@ -342,6 +345,7 @@ animate-svg
 animation
 animations
 annotated
+announcement
 announcementsservice
 anonymous
 anova
@@ -428,6 +432,9 @@ appwrite
 appx
 appxmanifest
 aprs
+aprs-is
+aprsis
+aprsthursday
 aps
 apt
 apt-get
@@ -574,6 +581,7 @@ autologon
 automai
 automanage
 automate
+automated
 automatedlab
 automatenow
 automaticpacketreportingsystem
@@ -845,6 +853,7 @@ bitcoin
 bitlocker
 bitwarden
 bitwig
+bitwise
 biztalk
 biztalkalm
 biztalkdeploymentframework
@@ -870,7 +879,6 @@ blogs
 bloodhound
 bloxone
 bloxoneddi
-bls
 blue
 bluedolhin
 blueprint
@@ -959,8 +967,10 @@ buildmaster
 builds
 buildtool
 bulk
+bulletin
 bullhorn
 bundle
+bup
 burnttoast
 burpsuite
 bus
@@ -971,7 +981,7 @@ businesshours
 businessobjects
 businessrulesengine
 businesstime
-bydesign
+bxor
 byexample
 bynarypsmodule
 byovd
@@ -1002,6 +1012,7 @@ canonical
 cantara
 capability
 capacity
+capacitymanagement
 capainstaller
 capasystems
 capgemini
@@ -1250,6 +1261,7 @@ cloudmigrations
 cloudpc
 cloudservice
 cloudshell
+clueser
 cluster
 clusterminimumvalues
 clusterplacementgroups
@@ -1422,6 +1434,7 @@ connected
 connectedkubernetes
 connectedmachine
 connectednetwork
+connectedvmware
 connectexchange
 connection
 connectionmonitor
@@ -1451,6 +1464,7 @@ containers
 containment
 contentprep
 context
+context-menu-shortcut
 continious-deploy
 continious-integration
 continiousintergration
@@ -1477,6 +1491,7 @@ conversion
 conversiontool
 convert
 convert-dtexceptiontomessage
+convert-movietogif
 convert-sid
 convert-windowsimage
 converter
@@ -1620,7 +1635,6 @@ ctx
 ctype
 cubes
 cudel
-culture
 cumulative
 cumulativeupdate
 cumulocity
@@ -1942,7 +1956,6 @@ dirsync
 disa
 disable
 disable-internet
-disable-psremoting
 disablefilesyncngsc
 disablestartbutton
 disablestartkey
@@ -2060,6 +2073,7 @@ domainnamesystem
 domains
 domino
 done.land
+donothing
 dos
 dot
 dotenv
@@ -2074,11 +2088,14 @@ dotteddecimalip
 doubleclick
 download
 downloader
+downloadfacebookvideo
+downloadfilefromsite
 downloadinfo
 downloading
 downloadoffice
 downloadofficertool
 downloads
+downloadyoutubevideo
 dozent
 dpa
 dpapi
@@ -2132,7 +2149,6 @@ dscresourcekit
 dscresources
 dsctools
 dsl
-dsm
 dsreg
 dsregcmd
 dsutils
@@ -2255,6 +2271,7 @@ emailnotificationcomponent
 emailsecurity
 embedded
 emc
+emcomm
 emergency
 emissions
 emoji
@@ -2266,7 +2283,6 @@ emwarehouse
 enable
 enable-internet
 enable-psremoting
-enable-psremotingremote
 enbrea
 enclosure
 encode
@@ -2287,7 +2303,6 @@ english
 enhancement
 enrichers
 enrichment
-enteo
 enter
 enterprise
 enterprise-scale
@@ -2359,7 +2374,6 @@ ethr
 ethz
 etl
 etl2pcapng
-etrade
 ets
 etw
 eulanda
@@ -2417,6 +2431,7 @@ exchangemigration
 exchangeon-premise
 exchangeon-premises
 exchangeonline
+exchangeonlinemanagement
 exchangeonlineprotection
 exchangeonprem
 exchangerate
@@ -2505,6 +2520,8 @@ farmanager
 fast
 fast-dds
 fast-ping
+fastfilepub
+fastgit
 fastlinq
 fastlookup
 fastping
@@ -2551,6 +2568,7 @@ file-name
 file-name-extension
 file-name-extension-association
 file-server
+file-share
 file-system
 file-transform
 file-type
@@ -2606,6 +2624,7 @@ find-call
 find-caller
 find-file
 find-path
+finddownloadlinkfromwebsite
 findfile
 findlocation
 findplace
@@ -2719,7 +2738,6 @@ fritzbox
 front
 frontapp
 frontdoor
-frontrange
 fs
 fsc-ps
 fscps
@@ -2939,6 +2957,7 @@ gpo-tools
 gpodoc
 gpolinks
 gpp
+gps
 gpt
 gpt3
 gpx
@@ -3013,6 +3032,8 @@ haloitsm
 halopsa
 haloservicedesk
 haloservicesolutions
+ham
+hamradio
 hamradiodeluxe
 hana
 hanaon
@@ -3029,6 +3050,7 @@ harden
 harden-windows-security
 hardening
 hardlink
+hardmatch
 hardware
 harperdb
 hartokens
@@ -3066,7 +3088,6 @@ healthchecks
 healthservice
 healthz
 heartbeatdiscovery
-heat
 heating
 heavenbay
 helium
@@ -3264,7 +3285,6 @@ identitydomains
 identitynow
 idf
 idm
-idna
 ids
 ie
 iem
@@ -3453,6 +3473,7 @@ iotcentral
 iothub
 iothubproperties
 ip
+ip-address
 ip-scanner
 ipa
 ipaddress
@@ -3763,7 +3784,6 @@ licence
 license
 license-generator
 licenseautomation
-licensemanagement
 licensemanager
 licensereport
 licenses
@@ -3820,6 +3840,7 @@ loadbalancer
 loadbalancer.org
 loader
 loadtesting
+loanddepot
 loandepot
 loc
 local
@@ -3895,8 +3916,10 @@ logonto
 logonuser
 logparser
 logrotate
+logrotation
 logs
 logstash
+logtools
 logz
 loki
 lol
@@ -4025,6 +4048,7 @@ mask
 mass
 masstransit
 masterconfiguration
+match
 matcharray
 matchhashtable
 materialdesign
@@ -4044,6 +4068,7 @@ mb
 mbc
 mbs
 mc
+mcafee
 mcas
 mccs
 mcd
@@ -4220,6 +4245,9 @@ modulecreation
 modulefast
 modulemanagement
 modules
+moduleupdate
+moduleupdateinfo
+moduleupdater
 moduleversion
 mof
 moldova
@@ -4287,6 +4315,7 @@ msgbox
 msgraph
 msgraphapi
 msgraphreport
+msgraphstuff
 msgraphtokenlifetimepolicy
 msi
 msi psmodule
@@ -4306,9 +4335,6 @@ msproject
 msrc
 msrdc
 mssql
-mssqlbynarymodule
-mssqlbynarypsmodule
-mssqlmodule
 mssqlplugins
 mssqlserver
 msteams
@@ -4454,6 +4480,7 @@ new-dtcmpackagefromdriverpackpackagedefinitionsms
 new-dtcmtasksequencefromdriverpackpackagedefinitionsms
 new-dynamicdictionary
 new-dynamicparameter
+new-githubrelease
 new-item
 new-itemproperty
 new-pinneditem
@@ -4861,6 +4888,7 @@ pass-the-hash
 pass-the-ticket
 passcode
 passivetotal
+passkey
 passphrase
 passphraser passphrase password generator entropy
 passwd
@@ -4983,6 +5011,7 @@ pipedrive
 pipeline
 pipelinelastexecution
 pipelines
+pipenv
 pipescript
 piraeus
 pivot
@@ -5026,6 +5055,7 @@ pnp.powershell
 pnpm
 poc
 pode
+poe
 poem
 poetry
 point
@@ -5071,7 +5101,6 @@ posh-chocobear
 posh-direnv
 posh-git
 posh-ribbon
-posh-ssh
 poshbot
 poshcommence
 poshevents
@@ -5105,7 +5134,6 @@ poshy-wrap
 poshy-wrap-apt
 poshy-wrap-argcomplete
 poshy-wrap-brew
-poshy-wrap-curl
 poshy-wrap-dnf
 poshy-wrap-docker
 poshy-wrap-docker-compose
@@ -5124,6 +5152,7 @@ poshy-wrap-nginx
 poshy-wrap-nmap
 poshy-wrap-npm
 poshy-wrap-pip
+poshy-wrap-pipenv
 poshy-wrap-pyenv
 poshy-wrap-pylint
 poshy-wrap-python
@@ -5342,6 +5371,8 @@ provisonedpackage
 prowl
 prowl-notifications
 prowlapp
+proxmox
+proxmoxve
 proxsys
 proxy
 proxyfunction
@@ -5457,12 +5488,6 @@ pscommand_cd-
 pscommand_cd..
 pscommand_cd+
 pscommand_cdgr
-pscommand_cl
-pscommand_clb
-pscommand_clhead
-pscommand_clo
-pscommand_cloc
-pscommand_clocr
 pscommand_confirm-gitbisectcommitbad
 pscommand_confirm-gitbisectcommitgood
 pscommand_convertto-nixmode
@@ -6095,12 +6120,6 @@ pscommand_invoke-brewupgradeandcleanup
 pscommand_invoke-brewupgradecaskandcleanup
 pscommand_invoke-brewupgradeformula
 pscommand_invoke-brewupgradegreedyandcleanup
-pscommand_invoke-curlfollowingredirects
-pscommand_invoke-curlfollowingredirectsdownloadasnamed
-pscommand_invoke-curlfollowingredirectsdownloadasnamedcontinue
-pscommand_invoke-curlfollowingredirectsdownloadasnamedcontinueandretry
-pscommand_invoke-curlfollowingredirectsfetchbanner
-pscommand_invoke-curlonlyforgetresponseheaders
 pscommand_invoke-dnfcleanall
 pscommand_invoke-dnfgrouplist
 pscommand_invoke-dnfgrouppinstall
@@ -6372,6 +6391,21 @@ pscommand_invoke-npmstart
 pscommand_invoke-npmtest
 pscommand_invoke-npmupdate
 pscommand_invoke-npmversion
+pscommand_invoke-pipenvcheck
+pscommand_invoke-pipenvclean
+pscommand_invoke-pipenvgraph
+pscommand_invoke-pipenvinstall
+pscommand_invoke-pipenvinstalldev
+pscommand_invoke-pipenvlock
+pscommand_invoke-pipenvopen
+pscommand_invoke-pipenvpy
+pscommand_invoke-pipenvrun
+pscommand_invoke-pipenvshell
+pscommand_invoke-pipenvsync
+pscommand_invoke-pipenvuninstall
+pscommand_invoke-pipenvupdate
+pscommand_invoke-pipenvvenv
+pscommand_invoke-pipenvwhere
 pscommand_invoke-pipinstall
 pscommand_invoke-pipinstallupgrade
 pscommand_invoke-piplistoutdated
@@ -6817,7 +6851,12 @@ pscommand_npmt
 pscommand_npmu
 pscommand_npmv
 pscommand_open_command
+pscommand_pch
+pscommand_pcl
 pscommand_peek
+pscommand_pgr
+pscommand_pi
+pscommand_pidev
 pscommand_ping
 pscommand_pip
 pscommand_pip_package_location
@@ -6835,8 +6874,15 @@ pscommand_pipu
 pscommand_pipun
 pscommand_pipunall
 pscommand_pipupall
+pscommand_pl
+pscommand_po
 pscommand_pop-gitstashentry
+pscommand_ppy
 pscommand_proxy-help
+pscommand_prun
+pscommand_psh
+pscommand_psy
+pscommand_pu
 pscommand_publish-gitcommitsforcefullywithlease
 pscommand_publish-gitcommitssettingupstream
 pscommand_publish-gitcommitssettingupstreamtoorigin
@@ -6845,9 +6891,12 @@ pscommand_publish-gitcommitstooriginfromhead
 pscommand_publish-gitcommitstooriginmain
 pscommand_publish-gitcommitswithtags
 pscommand_publish-gitrepositorytosvn
+pscommand_pupd
 pscommand_push-gitstashentry
 pscommand_push-gitstashentrywithmessage
 pscommand_pushgr
+pscommand_pvenv
+pscommand_pwh
 pscommand_pwshrc-show-proxy
 pscommand_py
 pscommand_pyenv
@@ -7475,12 +7524,6 @@ psfunction_invoke-brewupgradeandcleanup
 psfunction_invoke-brewupgradecaskandcleanup
 psfunction_invoke-brewupgradeformula
 psfunction_invoke-brewupgradegreedyandcleanup
-psfunction_invoke-curlfollowingredirects
-psfunction_invoke-curlfollowingredirectsdownloadasnamed
-psfunction_invoke-curlfollowingredirectsdownloadasnamedcontinue
-psfunction_invoke-curlfollowingredirectsdownloadasnamedcontinueandretry
-psfunction_invoke-curlfollowingredirectsfetchbanner
-psfunction_invoke-curlonlyforgetresponseheaders
 psfunction_invoke-dnfcleanall
 psfunction_invoke-dnfgrouplist
 psfunction_invoke-dnfgrouppinstall
@@ -7752,6 +7795,21 @@ psfunction_invoke-npmstart
 psfunction_invoke-npmtest
 psfunction_invoke-npmupdate
 psfunction_invoke-npmversion
+psfunction_invoke-pipenvcheck
+psfunction_invoke-pipenvclean
+psfunction_invoke-pipenvgraph
+psfunction_invoke-pipenvinstall
+psfunction_invoke-pipenvinstalldev
+psfunction_invoke-pipenvlock
+psfunction_invoke-pipenvopen
+psfunction_invoke-pipenvpy
+psfunction_invoke-pipenvrun
+psfunction_invoke-pipenvshell
+psfunction_invoke-pipenvsync
+psfunction_invoke-pipenvuninstall
+psfunction_invoke-pipenvupdate
+psfunction_invoke-pipenvvenv
+psfunction_invoke-pipenvwhere
 psfunction_invoke-pipinstall
 psfunction_invoke-pipinstallupgrade
 psfunction_invoke-piplistoutdated
@@ -8222,9 +8280,6 @@ psmodules
 psmp
 psmsgraph
 psmsgraphapi
-psmssql
-psmssqlbynarymodule
-psmssqlmodule
 psmvp
 psnavigation
 psnexosisclient
@@ -8261,9 +8316,6 @@ psslack
 pssqlite
 pssqlitebynarymodule
 pssqlitemodule
-pssqlserver
-pssqlserverbynarymodule
-pssqlservermodule
 psst
 psstgenerator
 pstablacus
@@ -8302,7 +8354,6 @@ pullrequest
 pullserver
 pulseway
 pulumi
-punycode
 puppet
 puppetdb
 puppy
@@ -8319,6 +8370,7 @@ pushd
 pushover
 pushoverapi
 putty
+pve
 pvr
 pvs
 pwa
@@ -8365,6 +8417,7 @@ quality
 qualys
 quandl
 quantum
+quarantine
 queries
 query
 queryexcel
@@ -8461,6 +8514,7 @@ reckon
 recommendation
 reconcile
 reconnaissance
+record
 recording
 recordsmanagement
 recovery
@@ -9247,7 +9301,6 @@ snmpset
 snmpv3
 snmpwalk
 snowflake
-snsmssqlpsmodule
 snspsadgroupmembers
 snspsscriptsmonitoring
 snssqlitepsmodule
@@ -9260,6 +9313,7 @@ social-media
 socialmedia
 socketlabs
 sockets
+sodium
 software
 softwarecenter
 softwaredistributioncomponent
@@ -9390,9 +9444,6 @@ sqlps
 sqlquery
 sqlserver
 sqlserveragent
-sqlserverbynarymodule
-sqlserverbynarypsmodule
-sqlservermodule
 sqlvirtualmachine
 sqlvm
 sqr
@@ -9419,8 +9470,10 @@ sslcertificate
 sslflags
 ssllabs
 ssllabs-scan
+sslprotocol
 ssm
 sso
+sspi
 sspr
 ssrs
 ssst
@@ -9508,7 +9561,6 @@ streaming
 streamreader
 streamwriter
 stretch
-strictmode
 strikethrough-text
 string
 string-template
@@ -9583,6 +9635,7 @@ svt
 swagger
 swamid
 swarm
+swedish
 swimlane
 swis
 switch
@@ -9759,7 +9812,6 @@ test-dscconfiguration
 test-internetconnection
 test-modulepath
 test-osplatform
-test-psremoting
 test-samcmapplicationexists
 test-samcmpackageexists
 test-userisadministrator
@@ -9848,7 +9900,10 @@ tip
 tips
 title
 tls
+tls11
+tls12
 tlsa
+tlsprotocol
 tlsrpt
 tmux
 to-do
@@ -10057,6 +10112,7 @@ ud-speechbubble
 ud-step
 ud-stepbar
 ud-stickynavbar
+ud-tagcloud
 ud-timeline
 ud-timeout
 ud-tool
@@ -10131,10 +10187,13 @@ update-module
 update-moduletests
 update-typedata
 updatedeferral
+updatemanagement
+updatemgmt
 updater
 updates
 updateservices
 updmanagement
+updmgmt
 upgrade
 uplift
 uplink
@@ -10142,6 +10201,7 @@ ups
 upsource
 upstream
 uptime
+uptimerobot
 uptobox
 uqword
 uri
@@ -10177,6 +10237,7 @@ userrightsassignment
 users
 userworkstations
 usg
+usps
 utc
 utf-8
 utf-sig
@@ -10268,6 +10329,7 @@ vi
 vib
 video
 videos
+vie
 viewer
 vigenere
 vim
@@ -10483,6 +10545,7 @@ webtime
 webview2
 wec
 wecutil
+weekday
 wef
 weixin
 well-known
@@ -10643,6 +10706,7 @@ wordlist
 wordpress
 wordwrap
 workbook
+workday
 worker
 workflow
 workflowmax
@@ -10756,6 +10820,7 @@ xmla
 xmlrpc
 xmlutils
 xoauth2
+xor
 xpath
 xpendingreboot
 xpertdoc
