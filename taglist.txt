@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Sunday, 26 May 2024 02:08:36 UTC
+Updated: Sunday, 26 May 2024 09:51:59 UTC
 
 .bat
 .env
@@ -732,8 +732,6 @@ azuresecuritycenter
 azureservicebus
 azuresigntool
 azuresql
-azuresqlexport
-azuresqlimport
 azuressas
 azurestack
 azurestackhci
@@ -860,6 +858,8 @@ biztalkdeploymentframework
 bks
 black
 blackbaud
+blackberry
+blackberryuem
 blackbox
 blacklist
 blade
@@ -1045,7 +1045,6 @@ cavium
 cb
 cblueshell
 cbr
-cbz
 cchoco
 cchocoex
 ccm
@@ -1534,7 +1533,6 @@ costmanagement
 costoptimization
 couchbase
 couchdb
-couchpotato
 count
 count-lines-of-code
 count-loc
@@ -1569,7 +1567,6 @@ crc32
 create
 createcolumn
 createdatabase
-createfile
 createprocessasuser
 createschema
 createtable
@@ -1635,6 +1632,7 @@ ctx
 ctype
 cubes
 cudel
+culture
 cumulative
 cumulativeupdate
 cumulocity
@@ -1722,7 +1720,6 @@ data-uri
 data-uri-converter
 database
 database-migrations
-databaseautomation
 databasemanagement
 databasemigration
 databases
@@ -1960,8 +1957,6 @@ disable
 disable-internet
 disable-psremoting
 disablefilesyncngsc
-disablestartbutton
-disablestartkey
 disasm
 disasterrecovery
 disconnect
@@ -2368,6 +2363,7 @@ esp32
 esp32s2
 espressif
 esri
+essbase
 estimate
 estimation
 esx
@@ -2488,9 +2484,7 @@ exportteams
 expression
 extend
 extended
-extendedattributes
 extendedevents
-extendedproperties
 extendedproperty
 extendscript
 extensibility
@@ -2527,7 +2521,7 @@ farmanager
 fast
 fast-dds
 fast-ping
-fastfilepub
+fastgit
 fastlinq
 fastlookup
 fastping
@@ -2574,12 +2568,10 @@ file-name
 file-name-extension
 file-name-extension-association
 file-server
-file-share
 file-system
 file-transform
 file-type
 file-type-association
-fileattributes
 fileencryption
 filelist
 filelog
@@ -2588,7 +2580,6 @@ filemanagement
 filematcher
 filename
 filenames
-fileproperties
 filereplication
 files
 files-cli
@@ -2784,6 +2775,7 @@ gainz-sqldb
 gal
 gallery
 game
+gamecategory:cards
 games
 gameserver
 gaming
@@ -3292,6 +3284,7 @@ identitydomains
 identitynow
 idf
 idm
+idna
 ids
 ie
 iem
@@ -3653,7 +3646,6 @@ key2wocas
 keybase
 keybinding
 keyboard
-keyboardstartkey
 keycipher
 keycloak
 keylight
@@ -3779,7 +3771,6 @@ lenel
 length
 lenovo
 less
-lesspass
 letsencrypt
 lf
 lgpo
@@ -3791,6 +3782,7 @@ licence
 license
 license-generator
 licenseautomation
+licensemanagement
 licensemanager
 licensereport
 licenses
@@ -4274,7 +4266,6 @@ monitoring_objects
 monitoring_variables
 monitoringplugins
 monitoringsolutions
-monitors
 monthlyupdate
 moodle
 moonshot
@@ -4342,6 +4333,9 @@ msproject
 msrc
 msrdc
 mssql
+mssqlbynarymodule
+mssqlbynarypsmodule
+mssqlmodule
 mssqlplugins
 mssqlserver
 msteams
@@ -4457,6 +4451,7 @@ netscaler
 netscape
 netsec
 netsh
+netspell
 netstat
 netsuite
 network
@@ -4487,7 +4482,6 @@ new-dtcmtasksequencefromdriverpackpackagedefinitionsms
 new-dynamicdictionary
 new-dynamicparameter
 new-githubrelease
-new-item
 new-itemproperty
 new-pinneditem
 new-rdpsession
@@ -5062,6 +5056,7 @@ pnp.powershell
 pnpm
 poc
 pode
+poe
 poem
 poetry
 point
@@ -5239,8 +5234,6 @@ powershell.module.invokewinget
 powershell.one
 powershell.persistentpathstack
 powershell7
-powershellazuresql
-powershellconferenceeurope
 powershellcore
 powershellcourse
 powershellexamples
@@ -7206,7 +7199,6 @@ pscredential
 pscribo
 pscustomobject
 psd1
-psdb
 psdefaultparametervalues
 psdeploy
 psdesiredstateconfiguration
@@ -8307,6 +8299,9 @@ psmodules
 psmp
 psmsgraph
 psmsgraphapi
+psmssql
+psmssqlbynarymodule
+psmssqlmodule
 psmvp
 psnavigation
 psnexosisclient
@@ -8343,6 +8338,9 @@ psslack
 pssqlite
 pssqlitebynarymodule
 pssqlitemodule
+pssqlserver
+pssqlserverbynarymodule
+pssqlservermodule
 psst
 psstgenerator
 pstablacus
@@ -8381,6 +8379,7 @@ pullrequest
 pullserver
 pulseway
 pulumi
+punycode
 puppet
 puppetdb
 puppy
@@ -8541,6 +8540,7 @@ reckon
 recommendation
 reconcile
 reconnaissance
+record
 recording
 recordsmanagement
 recovery
@@ -8561,10 +8561,7 @@ redfish
 redforest
 redgate
 redirect
-redirecting
 redirects
-redirectstandarderror
-redirectstandardoutput
 redis
 redisenterprisecache
 redistributables
@@ -8692,6 +8689,7 @@ resharper
 resize
 resolution
 resolve
+resolve-dnsname
 resolve-stache
 resolve-template
 resolver
@@ -9277,6 +9275,7 @@ skytap
 slack
 slash
 slashcommands
+slmgr
 sln
 slugify
 sm
@@ -9327,6 +9326,7 @@ snmpset
 snmpv3
 snmpwalk
 snowflake
+snsmssqlpsmodule
 snspsadgroupmembers
 snspsscriptsmonitoring
 snssqlitepsmodule
@@ -9409,6 +9409,7 @@ speed
 speedometer
 speedtest
 speedtester
+spellcheck
 spelling
 spf
 spfx
@@ -9442,7 +9443,6 @@ sql-database
 sql-script
 sql-server
 sqlagent
-sqlautomation
 sqlbits
 sqlbrowser
 sqlbulkcopy
@@ -9454,7 +9454,6 @@ sqldatabase
 sqldb
 sqldbatools
 sqldiagapi
-sqlexport
 sqlgateway
 sqlite
 sqlitebynarymodule
@@ -9469,6 +9468,9 @@ sqlps
 sqlquery
 sqlserver
 sqlserveragent
+sqlserverbynarymodule
+sqlserverbynarypsmodule
+sqlservermodule
 sqlvirtualmachine
 sqlvm
 sqr
@@ -9524,7 +9526,6 @@ start
 start-job
 start-jobthread
 start-threadjob
-startkey
 startmen
 startmenu
 starttls
@@ -9546,7 +9547,6 @@ statuscode
 statusmonitor
 statusreportingcomponent
 staytus
-stderr
 stdio
 stdout
 steam
@@ -9586,6 +9586,7 @@ streaming
 streamreader
 streamwriter
 stretch
+strictmode
 strikethrough-text
 string
 string-template
@@ -9599,6 +9600,7 @@ stripe
 strongname
 structure
 sts
+stt
 studio
 style
 su
@@ -9861,6 +9863,7 @@ text-emoji
 text-emojis
 text-to-image
 text-to-speach"
+text-to-speech
 text2image
 textanalysis
 textbuffer
@@ -10095,6 +10098,7 @@ ud-avataaar
 ud-badgebutton
 ud-badgelink
 ud-breadcrumb
+ud-breadcrumbitem
 ud-burger
 ud-button
 ud-buttonloader
@@ -10153,6 +10157,7 @@ udr
 udthememode
 udword
 uefi
+uem
 ui
 ui/ux
 ui7
