@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Saturday, 25 May 2024 17:51:50 UTC
+Updated: Sunday, 26 May 2024 02:08:36 UTC
 
 .bat
 .env
@@ -860,8 +860,6 @@ biztalkdeploymentframework
 bks
 black
 blackbaud
-blackberry
-blackberryuem
 blackbox
 blacklist
 blade
@@ -879,6 +877,7 @@ blogs
 bloodhound
 bloxone
 bloxoneddi
+bls
 blue
 bluedolhin
 blueprint
@@ -982,6 +981,7 @@ businessobjects
 businessrulesengine
 businesstime
 bxor
+bydesign
 byexample
 bynarypsmodule
 byovd
@@ -1833,6 +1833,7 @@ deepvisibility
 def
 default
 defaultparameter
+defaultroutes
 defaults
 defence
 defender
@@ -1885,6 +1886,7 @@ detect
 detection
 detectionrule
 deutschland
+dev
 dev-tools
 devart
 devcenter
@@ -1956,6 +1958,7 @@ dirsync
 disa
 disable
 disable-internet
+disable-psremoting
 disablefilesyncngsc
 disablestartbutton
 disablestartkey
@@ -2149,6 +2152,7 @@ dscresourcekit
 dscresources
 dsctools
 dsl
+dsm
 dsreg
 dsregcmd
 dsutils
@@ -2233,6 +2237,7 @@ editorservices
 edr
 education
 educational
+effectiveroutes
 efficientether
 efi
 egrep
@@ -2283,6 +2288,7 @@ emwarehouse
 enable
 enable-internet
 enable-psremoting
+enable-psremotingremote
 enbrea
 enclosure
 encode
@@ -2303,6 +2309,7 @@ english
 enhancement
 enrichers
 enrichment
+enteo
 enter
 enterprise
 enterprise-scale
@@ -2361,7 +2368,6 @@ esp32
 esp32s2
 espressif
 esri
-essbase
 estimate
 estimation
 esx
@@ -2374,6 +2380,7 @@ ethr
 ethz
 etl
 etl2pcapng
+etrade
 ets
 etw
 eulanda
@@ -2521,7 +2528,6 @@ fast
 fast-dds
 fast-ping
 fastfilepub
-fastgit
 fastlinq
 fastlookup
 fastping
@@ -2738,6 +2744,7 @@ fritzbox
 front
 frontapp
 frontdoor
+frontrange
 fs
 fsc-ps
 fscps
@@ -2777,7 +2784,6 @@ gainz-sqldb
 gal
 gallery
 game
-gamecategory:cards
 games
 gameserver
 gaming
@@ -3088,6 +3094,7 @@ healthchecks
 healthservice
 healthz
 heartbeatdiscovery
+heat
 heating
 heavenbay
 helium
@@ -4450,7 +4457,6 @@ netscaler
 netscape
 netsec
 netsh
-netspell
 netstat
 netsuite
 network
@@ -5014,6 +5020,7 @@ pipelines
 pipenv
 pipescript
 piraeus
+piv
 pivot
 pivotal
 pivottable
@@ -5055,7 +5062,6 @@ pnp.powershell
 pnpm
 poc
 pode
-poe
 poem
 poetry
 point
@@ -5101,6 +5107,7 @@ posh-chocobear
 posh-direnv
 posh-git
 posh-ribbon
+posh-ssh
 poshbot
 poshcommence
 poshevents
@@ -5134,6 +5141,7 @@ poshy-wrap
 poshy-wrap-apt
 poshy-wrap-argcomplete
 poshy-wrap-brew
+poshy-wrap-curl
 poshy-wrap-dnf
 poshy-wrap-docker
 poshy-wrap-docker-compose
@@ -5242,6 +5250,7 @@ powershellgetformatversion_2.0
 powershellise
 powershelllogger
 powershellmodule
+powershellmoduleupdate
 powershellpr0mpt
 powershellscript
 powershelltemplate
@@ -5488,6 +5497,12 @@ pscommand_cd-
 pscommand_cd..
 pscommand_cd+
 pscommand_cdgr
+pscommand_cl
+pscommand_clb
+pscommand_clhead
+pscommand_clo
+pscommand_cloc
+pscommand_clocr
 pscommand_confirm-gitbisectcommitbad
 pscommand_confirm-gitbisectcommitgood
 pscommand_convertto-nixmode
@@ -6120,6 +6135,12 @@ pscommand_invoke-brewupgradeandcleanup
 pscommand_invoke-brewupgradecaskandcleanup
 pscommand_invoke-brewupgradeformula
 pscommand_invoke-brewupgradegreedyandcleanup
+pscommand_invoke-curlfollowingredirects
+pscommand_invoke-curlfollowingredirectsdownloadasnamed
+pscommand_invoke-curlfollowingredirectsdownloadasnamedcontinue
+pscommand_invoke-curlfollowingredirectsdownloadasnamedcontinueandretry
+pscommand_invoke-curlfollowingredirectsfetchbanner
+pscommand_invoke-curlonlyforgetresponseheaders
 pscommand_invoke-dnfcleanall
 pscommand_invoke-dnfgrouplist
 pscommand_invoke-dnfgrouppinstall
@@ -7524,6 +7545,12 @@ psfunction_invoke-brewupgradeandcleanup
 psfunction_invoke-brewupgradecaskandcleanup
 psfunction_invoke-brewupgradeformula
 psfunction_invoke-brewupgradegreedyandcleanup
+psfunction_invoke-curlfollowingredirects
+psfunction_invoke-curlfollowingredirectsdownloadasnamed
+psfunction_invoke-curlfollowingredirectsdownloadasnamedcontinue
+psfunction_invoke-curlfollowingredirectsdownloadasnamedcontinueandretry
+psfunction_invoke-curlfollowingredirectsfetchbanner
+psfunction_invoke-curlonlyforgetresponseheaders
 psfunction_invoke-dnfcleanall
 psfunction_invoke-dnfgrouplist
 psfunction_invoke-dnfgrouppinstall
@@ -8514,7 +8541,6 @@ reckon
 recommendation
 reconcile
 reconnaissance
-record
 recording
 recordsmanagement
 recovery
@@ -9179,6 +9205,7 @@ shopify
 shortcut
 shortcuts
 shortpath
+shotgun
 show
 show-command
 show-objecttree
@@ -9250,7 +9277,6 @@ skytap
 slack
 slash
 slashcommands
-slmgr
 sln
 slugify
 sm
@@ -9383,7 +9409,6 @@ speed
 speedometer
 speedtest
 speedtester
-spellcheck
 spelling
 spf
 spfx
@@ -9574,7 +9599,6 @@ stripe
 strongname
 structure
 sts
-stt
 studio
 style
 su
@@ -9812,6 +9836,7 @@ test-dscconfiguration
 test-internetconnection
 test-modulepath
 test-osplatform
+test-psremoting
 test-samcmapplicationexists
 test-samcmpackageexists
 test-userisadministrator
@@ -9836,7 +9861,6 @@ text-emoji
 text-emojis
 text-to-image
 text-to-speach"
-text-to-speech
 text2image
 textanalysis
 textbuffer
@@ -10071,7 +10095,6 @@ ud-avataaar
 ud-badgebutton
 ud-badgelink
 ud-breadcrumb
-ud-breadcrumbitem
 ud-burger
 ud-button
 ud-buttonloader
@@ -10130,7 +10153,6 @@ udr
 udthememode
 udword
 uefi
-uem
 ui
 ui/ux
 ui7
@@ -10850,6 +10872,7 @@ youtube-dl
 youtubeextractor
 yq
 yubaba
+yubikey
 yum
 z
 zabbix
