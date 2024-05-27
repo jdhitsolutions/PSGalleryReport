@@ -1,8 +1,7 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 27 May 2024 09:51:55 UTC
+Updated: Monday, 27 May 2024 17:51:48 UTC
 
-.bat
 .env
 .net
 .prom
@@ -18,6 +17,7 @@ Updated: Monday, 27 May 2024 09:51:55 UTC
 **windows**
 🍄
 🍣
+💩
 🙇
 1&1
 10
@@ -55,6 +55,7 @@ Updated: Monday, 27 May 2024 09:51:55 UTC
 7z
 7zip
 8.1
+8ball
 9
 aa
 aac
@@ -104,14 +105,13 @@ acmesharp_ext
 act-on
 act!
 actifio
+actifiogo
 action
 action1
 actiongroup
 actionplan
 actions
-activate
 activation
-activationscripts
 active
 active_directory
 active-directory
@@ -234,6 +234,9 @@ aeries
 aeriessis
 aes
 afd
+affinity
+affinity-co
+affinity-crm
 after-effects
 aftereffects
 agenda
@@ -327,7 +330,6 @@ analyticsrules
 analyze
 analyzer
 analyzerrules
-anchor
 and
 android
 anet
@@ -487,7 +489,6 @@ asjob
 asm
 asn.1
 asn1
-asnbank
 asp
 asp.net
 aspnet
@@ -535,7 +536,6 @@ audiocodes
 audit
 auditing
 auditpol
-auditpol.exe
 auditpolicies
 auditpolicy
 audits
@@ -597,7 +597,6 @@ autoyast
 auvik
 availability
 availabilityset
-avalara
 avatar
 avd
 ave
@@ -626,11 +625,8 @@ axinom
 axis
 axium
 az
-az-cli
-az.runtimeenvironment
 az.stackhci
 azautomation
-azcli
 azcompute
 azd
 azdisk
@@ -658,7 +654,6 @@ azure_ad
 azure_security
 azure-adx
 azure-backup
-azure-cli
 azure-data-explorer
 azure-devops
 azure-forensics
@@ -900,7 +895,6 @@ bootstrap
 bootstrapping
 bop
 bot
-bots
 botservice
 bouncer
 boundaries
@@ -912,6 +906,8 @@ brainy
 branch
 branch-rename
 brave
+brawlapi
+brawlstars
 brazencloud
 bre
 breach
@@ -1001,7 +997,6 @@ camtasia
 canarie
 cancel
 cancellation
-canonical
 cantara
 capability
 capacity
@@ -1020,7 +1015,6 @@ cardwirth
 cares
 cargo
 carousel
-carrier
 cartoon
 case
 cassandra
@@ -1150,8 +1144,10 @@ cif
 cifv3
 cil
 cim
+cim_computersystem
 cimfs
 cimi
+ciminstance
 cims
 cimsession
 cinema
@@ -1163,7 +1159,6 @@ cireson
 ciresonassetmanagement
 ciresonportal
 cis
-cisa
 cisco
 ciscoucscmdlets
 ciscoucsdsc
@@ -1455,6 +1450,7 @@ containers
 containment
 contentprep
 context
+context-menu-shortcut
 continious-deploy
 continious-integration
 continiousintergration
@@ -1617,13 +1613,13 @@ css
 csv
 csv2adx
 csvhelper
+ctf
 ctglobal
 ctl
 ctrl+c
 ctx
 ctype
 cubes
-cudel
 culture
 cumulative
 cumulativeupdate
@@ -1639,7 +1635,6 @@ current
 curseforge
 custom
 customchecks
-customdns
 customer
 customerengagement
 customers
@@ -1742,11 +1737,11 @@ datalabelingservicedataplane
 datalake
 datamanipulation
 datamodel
-datanorm
 dataplatform
 datapro
 dataprotection
 dataquality
+datarow
 datasafe
 datascience
 dataset
@@ -1769,7 +1764,6 @@ datum
 dave
 davinci
 dax
-dayinweek
 days
 days-week
 db
@@ -2020,7 +2014,6 @@ dnsentry
 dnsimple
 dnslookup
 dnsmadeeasy
-dnsoverhttps
 dnsrecord
 dnsresolver
 dnssec
@@ -2065,6 +2058,7 @@ domainnamesystem
 domains
 domino
 done.land
+donothing
 dos
 dot
 dotenv
@@ -2113,7 +2107,6 @@ drivertool.powercli
 driverupdates
 drm
 drone.io
-drop
 dropbox
 dropdatabase
 droplet
@@ -2177,7 +2170,6 @@ dynamic
 dynamic-host-configuration-protocol
 dynamic-privileged-access
 dynamicdistributiongroups
-dynamicdnsoverhttps
 dynamicparam
 dynamicparameters
 dynamicparams
@@ -2288,6 +2280,7 @@ encryption
 end-of-line
 endomondo
 endpoint
+endpoints
 energy
 engagement
 engine
@@ -2367,10 +2360,10 @@ ethereum
 ethr
 ethz
 etl
+etl2pcapng
 etrade
 ets
 etw
-eulanda
 evaluator
 evc
 event
@@ -2399,6 +2392,7 @@ eventviewer
 eventwatch
 evergreen
 evernote
+everydaypowershell
 everydayrewards
 everything
 evilprince2009
@@ -2427,6 +2421,7 @@ exchangeonline
 exchangeonlinemanagement
 exchangeonlineprotection
 exchangeonprem
+exchangerate
 exchangeserver
 exchangewebservices
 exclusion
@@ -2470,7 +2465,6 @@ exportcertificates
 exporter
 exportexcel
 exportteams
-expression
 extend
 extended
 extendedattributes
@@ -2513,6 +2507,7 @@ fast
 fast-dds
 fast-ping
 fastfilepub
+fastgit
 fastlinq
 fastlookup
 fastping
@@ -2718,6 +2713,7 @@ freeipa
 freenas
 freesoftwarefoundation
 freshbooks
+freshdesk
 freshservice
 freshservice-api
 freshserviceps
@@ -2895,6 +2891,7 @@ gitlab-runner
 gitlab4
 gitlabpipeline
 gitops
+glimps
 glob
 globalclipboard
 globaldashboard
@@ -3076,6 +3073,7 @@ healthcareapis
 healthcheck
 healthchecks
 healthservice
+healthz
 heartbeatdiscovery
 heat
 heating
@@ -3087,7 +3085,6 @@ helloid
 helloposhgallery
 helloworld
 helm
-helmet
 help
 helpdesk
 helpdoc
@@ -3214,7 +3211,6 @@ humanly
 humor
 humorous
 hunter
-hwid
 hybrid
 hybridrunbookworker
 hyper-v
@@ -3275,7 +3271,6 @@ identitydomains
 identitynow
 idf
 idm
-idna
 ids
 ie
 iem
@@ -3372,7 +3367,6 @@ innertext
 input
 inputbox
 inputobject
-insert
 insiderthreat
 insight
 insightanalytics
@@ -3439,7 +3433,6 @@ investment
 investments
 invitation
 invocation
-invoice
 invoke
 invoke-asadmin
 invoke-asadministrator
@@ -3557,7 +3550,6 @@ jira
 jiraservicemanagement
 jitbit
 jms
-jmsjavadownloads
 jnet
 jnetps
 joat
@@ -3569,6 +3561,7 @@ johnshopkins
 join
 join-object
 jojoba
+joke
 jotform
 journal
 joyride
@@ -3629,6 +3622,7 @@ kelverion
 kentico
 kerberos
 kernel32
+kestrel
 key
 key-vault
 key2wocas
@@ -3667,7 +3661,6 @@ kodi
 korn
 kotlin
 kql
-kraken
 krane
 krbtgt
 krick
@@ -3921,7 +3914,6 @@ look
 lookup
 loop
 loopback
-loremipsum
 love
 lovequotes
 lpsiamol
@@ -3953,6 +3945,7 @@ macmon
 macos
 macosx
 macro
+macros
 madlib
 magazine
 magento
@@ -4032,7 +4025,6 @@ marvell_semiconductor_inc
 marvellfcpowerkit
 marvellfcprovider
 marvellqlogicfcpowerkit
-mas
 mask
 mass
 masstransit
@@ -4051,6 +4043,7 @@ maven
 max
 max_path
 maximum
+maxoffice
 mazerat
 mb
 mbc
@@ -4203,7 +4196,6 @@ mipsdk
 miration-step
 mirror
 misc
-miscellaneous
 mitigation
 mitre
 mitre_att&ck
@@ -4310,7 +4302,6 @@ msi psmodule
 msiexec
 msil
 msix
-mslab
 msmq
 msol
 msoms
@@ -4346,7 +4337,6 @@ multicloud
 multidimenstional
 multimedia
 multios
-multipass
 multiple
 multiserver
 multistring
@@ -4362,6 +4352,7 @@ mute
 mutex
 mva
 mvc
+mvn
 mvp
 mx
 mxlookup
@@ -4491,7 +4482,6 @@ nexentastor
 nexthink
 nexus
 nexusiq
-nfsv3
 ngen
 ngfw
 nginx
@@ -4576,9 +4566,9 @@ number
 numlock
 nunit
 nupkg
+nuspec
 nutanix
 nuwave
-nva
 nvd
 nvdimm
 nvdimm-n
@@ -4625,7 +4615,6 @@ odbc
 odfb
 odin
 odoo
-oem-charset
 offboarding
 offence
 office
@@ -4877,6 +4866,7 @@ pass-the-hash
 pass-the-ticket
 passcode
 passivetotal
+passkey
 passphrase
 passphraser passphrase password generator entropy
 passwd
@@ -4920,6 +4910,7 @@ pays
 pbench
 pbip
 pc
+pcapng
 pci-dss
 pcloud
 pcsetup
@@ -4979,6 +4970,7 @@ phpapam
 pi
 picker
 pico
+picture
 pictures
 pid
 pie
@@ -5023,7 +5015,6 @@ playback
 playbook
 player
 playlists
-playwright
 pleasant
 pleasantpasswordserver
 plex
@@ -5064,6 +5055,7 @@ polycom
 pomodoro
 ponduit
 pool
+poop
 pop
 pop-location
 pop3
@@ -5141,7 +5133,6 @@ poshy-wrap-nmap
 poshy-wrap-npm
 poshy-wrap-pip
 poshy-wrap-pipenv
-poshy-wrap-pyenv
 poshy-wrap-pylint
 poshy-wrap-python
 poshy-wrap-ruby
@@ -5153,6 +5144,7 @@ poshy-wrap-vagrant
 poshy-wrap-vault
 poshy-wrap-vscode
 poshy-wrap-wget
+poshy-wrap-wt
 poshy-wrap-yum
 poshy-wrap-zypper
 position
@@ -6410,7 +6402,6 @@ pscommand_invoke-pipinstall
 pscommand_invoke-pipinstallupgrade
 pscommand_invoke-piplistoutdated
 pscommand_invoke-pipuninstall
-pscommand_invoke-pyenv
 pscommand_invoke-pylintreportsdisabled
 pscommand_invoke-ruby
 pscommand_invoke-rubyexecute
@@ -6808,6 +6799,8 @@ pscommand_new-gitbranchtracked
 pscommand_new-gitpatchfile
 pscommand_new-isofile
 pscommand_new-viewerinvocationfunction
+pscommand_new-windowsterminalpane
+pscommand_new-windowsterminaltab
 pscommand_nginx_reload
 pscommand_nginx_restart
 pscommand_nginx_start
@@ -6897,7 +6890,6 @@ pscommand_pvenv
 pscommand_pwh
 pscommand_pwshrc-show-proxy
 pscommand_py
-pscommand_pyenv
 pscommand_pylint-quick
 pscommand_pyserver
 pscommand_python
@@ -7818,7 +7810,6 @@ psfunction_invoke-pipinstall
 psfunction_invoke-pipinstallupgrade
 psfunction_invoke-piplistoutdated
 psfunction_invoke-pipuninstall
-psfunction_invoke-pyenv
 psfunction_invoke-pylintreportsdisabled
 psfunction_invoke-ruby
 psfunction_invoke-rubyexecute
@@ -8070,6 +8061,8 @@ psfunction_new-gitbranchtracked
 psfunction_new-gitpatchfile
 psfunction_new-isofile
 psfunction_new-viewerinvocationfunction
+psfunction_new-windowsterminalpane
+psfunction_new-windowsterminaltab
 psfunction_nginx_reload
 psfunction_nginx_restart
 psfunction_nginx_start
@@ -8298,7 +8291,6 @@ psprofiler
 psproject
 psprojectcreator
 psprojectgenerator
-psprovider
 psprtg
 pspublicapi
 psql
@@ -8362,7 +8354,6 @@ pullrequest
 pullserver
 pulseway
 pulumi
-punycode
 puppet
 puppetdb
 puppy
@@ -8392,7 +8383,6 @@ pwshake
 pwshfw
 pwshrc
 pxedistributionpoint
-pyenv
 pygmentize
 pylint
 pyranja
@@ -8490,8 +8480,6 @@ rbsu
 rcon
 rcs
 rcu
-rdb
-rdbms
 rdc
 rdcman
 rdcmanager
@@ -8591,7 +8579,6 @@ regular-expression
 regularexpression
 regularexpressions
 reinstall
-relational
 relay
 release
 releasedefinition
@@ -8662,6 +8649,7 @@ repos
 repositories
 repository
 request
+requestfiltering
 requiredmodules
 requirements
 res
@@ -8775,10 +8763,8 @@ round
 roundrobindatabase
 route
 route53
-routeconfig
 router
 routes
-routetable
 routine
 rover
 royalapps
@@ -9001,7 +8987,6 @@ secur32
 secure
 secureapplicationmodel
 securechannel
-securedns
 securegopher
 securegopher+
 securemfa
@@ -9109,6 +9094,7 @@ serviceplan
 servicepointmanager
 serviceprincipal
 services
+servicestatus
 servicestore
 servicing
 servicingstack
@@ -9173,6 +9159,7 @@ sharepointpnppowershellonline.add-on.module
 shares
 sheets
 shell
+shell-art
 shells
 shieldedvm
 ships
@@ -9181,7 +9168,6 @@ shipstation
 shlink
 shodan
 shodanps
-shop
 shopify
 shortcut
 shortcuts
@@ -9260,7 +9246,6 @@ slash
 slashcommands
 slmgr
 sln
-slugify
 sm
 sma
 small_web
@@ -9349,6 +9334,7 @@ sonus
 soon
 soonr
 soonragent
+sophos
 sort
 sort-json
 sorting
@@ -9395,6 +9381,7 @@ spellcheck
 spelling
 spf
 spfx
+sphere
 spi
 spicetify
 spinnaker
@@ -9426,7 +9413,6 @@ sql-server
 sqlagent
 sqlautomation
 sqlbits
-sqlbrowser
 sqlbulkcopy
 sqlchangeautomation
 sqlclient
@@ -9622,6 +9608,7 @@ sullivan
 summary
 summit
 sumologic
+supercell
 superheros
 supermarket
 support
@@ -9853,7 +9840,6 @@ textbuffer
 texting
 texting-emoji
 texting-emojis
-textprocessing
 textwrapping
 tfe
 tfenv
@@ -9892,7 +9878,6 @@ thunderbird
 thycotic
 tibber
 tic-tac-toe
-tickle
 ticks
 tictactoe
 tiermodel
@@ -9923,7 +9908,6 @@ tobias
 toc
 todo
 todo.txt
-toggl
 toggle
 token
 tokenlifetime
@@ -9961,7 +9945,6 @@ tracert
 tracing
 tracker
 tracking
-trading
 traffic
 trafficfiltering
 trafficmanager
@@ -10004,6 +9987,7 @@ trendmicro
 trevor
 trevorsullivan
 triangle
+tribeloo
 trick
 tricks
 trigger
@@ -10135,7 +10119,7 @@ udfeedback
 udp
 udpclient
 udptest
-udr
+udthememode
 udword
 uefi
 uem
@@ -10257,6 +10241,7 @@ util
 utilities
 utility
 utils
+utm
 uudecode
 uuencode
 uuid
@@ -10292,7 +10277,6 @@ vba
 vbaproject
 vbproj
 vbr
-vbscript
 vbsinst
 vc
 vccmdlets
@@ -10344,7 +10328,6 @@ vimode
 virole
 virsh
 virtual
-virtualappliance
 virtualbox
 virtualboxguestadditions
 virtualdesktop
@@ -10575,7 +10558,6 @@ whois
 whormi
 wi-fi
 wia
-wia.imagefile
 wid
 widedata
 wif
@@ -10618,6 +10600,7 @@ windows-powershell
 windows-registry
 windows-remoting
 windows-server-2016
+windows-terminal
 windows-user-folder
 windows-user-profile
 windows10
@@ -10625,7 +10608,6 @@ windows10mui
 windows11
 windows365
 windowsadmincenter
-windowsaudit
 windowsbuilds
 windowscredential
 windowscredentialmanager
@@ -10785,6 +10767,7 @@ wunderlist
 wus
 wvd
 www
+x-cart
 x.509
 x1
 x2
