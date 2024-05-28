@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Tuesday, 28 May 2024 02:07:24 UTC
+Updated: Tuesday, 28 May 2024 09:51:53 UTC
 
 .bat
 .env
@@ -919,10 +919,7 @@ brainy
 branch
 branch-rename
 brave
-brawlapi
-brawlstars
 brazencloud
-bre
 breach
 break
 breakpoint
@@ -980,7 +977,6 @@ businesscentral
 businessdays
 businesshours
 businessobjects
-businessrulesengine
 businesstime
 bxor
 bydesign
@@ -1579,7 +1575,6 @@ creationworkflowsimplification
 creator
 cred
 credential
-credential-dialog
 credential-file
 credential-files
 credential-manager
@@ -2159,11 +2154,11 @@ dsm
 dsreg
 dsregcmd
 dsutils
-dtc
 dts
 dtsx
 dtx
 du
+dual-stack
 duck
 duckduckgo
 ducktyping
@@ -2488,6 +2483,7 @@ exportcertificates
 exporter
 exportexcel
 exportteams
+expression
 extend
 extended
 extendedattributes
@@ -2914,7 +2910,6 @@ gitlab-runner
 gitlab4
 gitlabpipeline
 gitops
-glimps
 glob
 globalclipboard
 globaldashboard
@@ -3373,6 +3368,7 @@ info
 infoblox
 information
 information-technology
+informationbarriers
 informationtechnology
 informationtechnologyoperations
 informix
@@ -3470,6 +3466,7 @@ invoke-dtdownloaddriverpack
 invoke-dtdownloaddriverupdates
 invoke-dtdrivertool
 invoke-msbuild
+invoke-msbuildpreprocess
 invoke-vsbuild
 invoke-vsdevcommand
 invoke-webrequest
@@ -3513,7 +3510,6 @@ irkit
 irl
 irregular
 isadmin
-isbn
 iscsi
 isdate
 ise
@@ -3624,7 +3620,6 @@ jwe
 jwk
 jws
 jwt
-jwttoken
 k8s
 k8sshell
 kafka
@@ -3674,6 +3669,7 @@ kill
 kindle
 kinetic
 kinopoisk
+kintone
 klantcontroles
 kms
 knapsack
@@ -3754,7 +3750,6 @@ layout
 lazywinadmin
 lbi
 lbs
-lccn
 lcm
 lcminternals
 ldap
@@ -3939,7 +3934,6 @@ longfiles
 longitude
 look
 lookup
-loop
 loopback
 loremipsum
 love
@@ -4143,6 +4137,7 @@ messaging-emoji
 messaging-emojis
 messenger
 met
+meta
 metadata
 metadataservice
 metaprogramming
@@ -4311,7 +4306,6 @@ msbi
 msbuild
 msdeploy
 msdn
-msdtc
 msedge
 msexcel
 msexchange
@@ -4331,6 +4325,7 @@ msi psmodule
 msiexec
 msil
 msix
+mslab
 msmq
 msol
 msoms
@@ -4461,6 +4456,7 @@ netscaler
 netscape
 netsec
 netsh
+netspell
 netstat
 netsuite
 network
@@ -4936,6 +4932,7 @@ paulo
 pause
 pax8
 payload
+paylocity
 paypal
 pays
 pbench
@@ -4960,7 +4957,6 @@ pem
 pemfile
 pendingreboot
 penetration
-penetrationtesting
 pentesting
 pentia
 people
@@ -5111,6 +5107,7 @@ posh-chocobear
 posh-direnv
 posh-git
 posh-ribbon
+posh-ssh
 poshbot
 poshcommence
 poshevents
@@ -5164,7 +5161,6 @@ poshy-wrap-nmap
 poshy-wrap-npm
 poshy-wrap-pip
 poshy-wrap-pipenv
-poshy-wrap-pyenv
 poshy-wrap-pylint
 poshy-wrap-python
 poshy-wrap-ruby
@@ -5331,6 +5327,7 @@ process-inspector
 processing
 processmitigation
 processor
+procmap
 procs
 producer
 product
@@ -6433,7 +6430,6 @@ pscommand_invoke-pipinstall
 pscommand_invoke-pipinstallupgrade
 pscommand_invoke-piplistoutdated
 pscommand_invoke-pipuninstall
-pscommand_invoke-pyenv
 pscommand_invoke-pylintreportsdisabled
 pscommand_invoke-ruby
 pscommand_invoke-rubyexecute
@@ -6922,7 +6918,6 @@ pscommand_pvenv
 pscommand_pwh
 pscommand_pwshrc-show-proxy
 pscommand_py
-pscommand_pyenv
 pscommand_pylint-quick
 pscommand_pyserver
 pscommand_python
@@ -7843,7 +7838,6 @@ psfunction_invoke-pipinstall
 psfunction_invoke-pipinstallupgrade
 psfunction_invoke-piplistoutdated
 psfunction_invoke-pipuninstall
-psfunction_invoke-pyenv
 psfunction_invoke-pylintreportsdisabled
 psfunction_invoke-ruby
 psfunction_invoke-rubyexecute
@@ -8299,6 +8293,7 @@ psjobs
 psjobthreads
 pskeepass
 pslocalgallery
+psloganalytics
 psm
 psm1
 psmodule
@@ -8418,7 +8413,6 @@ pwshake
 pwshfw
 pwshrc
 pxedistributionpoint
-pyenv
 pygmentize
 pylint
 pyranja
@@ -8832,7 +8826,6 @@ rubriksecuritycloud
 ruby
 rulasg
 rule
-rulesengine
 run
 run-as-user
 runas
@@ -9202,7 +9195,6 @@ shares
 sheets
 shell
 shell-art
-shells
 shieldedvm
 ships
 shipsprovider
@@ -9421,6 +9413,7 @@ speed
 speedometer
 speedtest
 speedtester
+spellcheck
 spelling
 spf
 spfx
@@ -9653,7 +9646,6 @@ sullivan
 summary
 summit
 sumologic
-supercell
 superheros
 supermarket
 support
@@ -9972,6 +9964,7 @@ topdesk
 topgrade
 topics
 topology
+tor
 toradex
 torizon
 torrent
@@ -10441,7 +10434,6 @@ vnet
 vnmonitoring
 vnugglets
 vnugglets.com
-vocabularies
 voice
 voiceservices
 voidtools
@@ -10480,6 +10472,7 @@ vscode
 vsdevcmd
 vsdevshell
 vsenvironment
+vsm
 vso
 vspc
 vsphere
@@ -10515,7 +10508,6 @@ wakeup
 walk
 wallet
 wallpaper
-wallpapers
 wannacry
 wansi
 wap
@@ -10788,6 +10780,7 @@ write-debug
 write-host
 write-information
 write-log
+write-loganalytics
 write-message
 write-progress
 write-slog
