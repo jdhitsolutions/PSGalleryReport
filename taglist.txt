@@ -1,7 +1,8 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 27 May 2024 17:51:48 UTC
+Updated: Tuesday, 28 May 2024 02:07:24 UTC
 
+.bat
 .env
 .net
 .prom
@@ -111,7 +112,9 @@ action1
 actiongroup
 actionplan
 actions
+activate
 activation
+activationscripts
 active
 active_directory
 active-directory
@@ -330,6 +333,7 @@ analyticsrules
 analyze
 analyzer
 analyzerrules
+anchor
 and
 android
 anet
@@ -353,6 +357,7 @@ ansible-vault
 ansiblecontrolnode
 anti-malware
 antimalwarescaninterface
+antispam
 antivirus
 anws
 any
@@ -489,6 +494,7 @@ asjob
 asm
 asn.1
 asn1
+asnbank
 asp
 asp.net
 aspnet
@@ -536,6 +542,7 @@ audiocodes
 audit
 auditing
 auditpol
+auditpol.exe
 auditpolicies
 auditpolicy
 audits
@@ -597,6 +604,7 @@ autoyast
 auvik
 availability
 availabilityset
+avalara
 avatar
 avd
 ave
@@ -625,8 +633,11 @@ axinom
 axis
 axium
 az
+az-cli
+az.runtimeenvironment
 az.stackhci
 azautomation
+azcli
 azcompute
 azd
 azdisk
@@ -654,6 +665,7 @@ azure_ad
 azure_security
 azure-adx
 azure-backup
+azure-cli
 azure-data-explorer
 azure-devops
 azure-forensics
@@ -895,6 +907,7 @@ bootstrap
 bootstrapping
 bop
 bot
+bots
 botservice
 bouncer
 boundaries
@@ -997,6 +1010,7 @@ camtasia
 canarie
 cancel
 cancellation
+canonical
 cantara
 capability
 capacity
@@ -1015,6 +1029,7 @@ cardwirth
 cares
 cargo
 carousel
+carrier
 cartoon
 case
 cassandra
@@ -1159,6 +1174,7 @@ cireson
 ciresonassetmanagement
 ciresonportal
 cis
+cisa
 cisco
 ciscoucscmdlets
 ciscoucsdsc
@@ -1620,6 +1636,7 @@ ctrl+c
 ctx
 ctype
 cubes
+cudel
 culture
 cumulative
 cumulativeupdate
@@ -1635,6 +1652,7 @@ current
 curseforge
 custom
 customchecks
+customdns
 customer
 customerengagement
 customers
@@ -1737,6 +1755,7 @@ datalabelingservicedataplane
 datalake
 datamanipulation
 datamodel
+datanorm
 dataplatform
 datapro
 dataprotection
@@ -1764,6 +1783,7 @@ datum
 dave
 davinci
 dax
+dayinweek
 days
 days-week
 db
@@ -2014,6 +2034,7 @@ dnsentry
 dnsimple
 dnslookup
 dnsmadeeasy
+dnsoverhttps
 dnsrecord
 dnsresolver
 dnssec
@@ -2107,6 +2128,7 @@ drivertool.powercli
 driverupdates
 drm
 drone.io
+drop
 dropbox
 dropdatabase
 droplet
@@ -2142,7 +2164,6 @@ dts
 dtsx
 dtx
 du
-dual-stack
 duck
 duckduckgo
 ducktyping
@@ -2170,6 +2191,7 @@ dynamic
 dynamic-host-configuration-protocol
 dynamic-privileged-access
 dynamicdistributiongroups
+dynamicdnsoverhttps
 dynamicparam
 dynamicparameters
 dynamicparams
@@ -2364,6 +2386,7 @@ etl2pcapng
 etrade
 ets
 etw
+eulanda
 evaluator
 evc
 event
@@ -3085,6 +3108,7 @@ helloid
 helloposhgallery
 helloworld
 helm
+helmet
 help
 helpdesk
 helpdoc
@@ -3211,6 +3235,7 @@ humanly
 humor
 humorous
 hunter
+hwid
 hybrid
 hybridrunbookworker
 hyper-v
@@ -3271,6 +3296,7 @@ identitydomains
 identitynow
 idf
 idm
+idna
 ids
 ie
 iem
@@ -3347,7 +3373,6 @@ info
 infoblox
 information
 information-technology
-informationbarriers
 informationtechnology
 informationtechnologyoperations
 informix
@@ -3367,6 +3392,7 @@ innertext
 input
 inputbox
 inputobject
+insert
 insiderthreat
 insight
 insightanalytics
@@ -3433,6 +3459,7 @@ investment
 investments
 invitation
 invocation
+invoice
 invoke
 invoke-asadmin
 invoke-asadministrator
@@ -3443,7 +3470,6 @@ invoke-dtdownloaddriverpack
 invoke-dtdownloaddriverupdates
 invoke-dtdrivertool
 invoke-msbuild
-invoke-msbuildpreprocess
 invoke-vsbuild
 invoke-vsdevcommand
 invoke-webrequest
@@ -3550,6 +3576,7 @@ jira
 jiraservicemanagement
 jitbit
 jms
+jmsjavadownloads
 jnet
 jnetps
 joat
@@ -3647,7 +3674,6 @@ kill
 kindle
 kinetic
 kinopoisk
-kintone
 klantcontroles
 kms
 knapsack
@@ -3661,6 +3687,7 @@ kodi
 korn
 kotlin
 kql
+kraken
 krane
 krbtgt
 krick
@@ -3914,6 +3941,7 @@ look
 lookup
 loop
 loopback
+loremipsum
 love
 lovequotes
 lpsiamol
@@ -4025,6 +4053,7 @@ marvell_semiconductor_inc
 marvellfcpowerkit
 marvellfcprovider
 marvellqlogicfcpowerkit
+mas
 mask
 mass
 masstransit
@@ -4114,7 +4143,6 @@ messaging-emoji
 messaging-emojis
 messenger
 met
-meta
 metadata
 metadataservice
 metaprogramming
@@ -4196,6 +4224,7 @@ mipsdk
 miration-step
 mirror
 misc
+miscellaneous
 mitigation
 mitre
 mitre_att&ck
@@ -4337,6 +4366,7 @@ multicloud
 multidimenstional
 multimedia
 multios
+multipass
 multiple
 multiserver
 multistring
@@ -4431,7 +4461,6 @@ netscaler
 netscape
 netsec
 netsh
-netspell
 netstat
 netsuite
 network
@@ -4482,6 +4511,7 @@ nexentastor
 nexthink
 nexus
 nexusiq
+nfsv3
 ngen
 ngfw
 nginx
@@ -4569,6 +4599,7 @@ nupkg
 nuspec
 nutanix
 nuwave
+nva
 nvd
 nvdimm
 nvdimm-n
@@ -4615,6 +4646,7 @@ odbc
 odfb
 odin
 odoo
+oem-charset
 offboarding
 offence
 office
@@ -4904,7 +4936,6 @@ paulo
 pause
 pax8
 payload
-paylocity
 paypal
 pays
 pbench
@@ -5015,6 +5046,7 @@ playback
 playbook
 player
 playlists
+playwright
 pleasant
 pleasantpasswordserver
 plex
@@ -5079,7 +5111,6 @@ posh-chocobear
 posh-direnv
 posh-git
 posh-ribbon
-posh-ssh
 poshbot
 poshcommence
 poshevents
@@ -5133,6 +5164,7 @@ poshy-wrap-nmap
 poshy-wrap-npm
 poshy-wrap-pip
 poshy-wrap-pipenv
+poshy-wrap-pyenv
 poshy-wrap-pylint
 poshy-wrap-python
 poshy-wrap-ruby
@@ -5299,7 +5331,6 @@ process-inspector
 processing
 processmitigation
 processor
-procmap
 procs
 producer
 product
@@ -6402,6 +6433,7 @@ pscommand_invoke-pipinstall
 pscommand_invoke-pipinstallupgrade
 pscommand_invoke-piplistoutdated
 pscommand_invoke-pipuninstall
+pscommand_invoke-pyenv
 pscommand_invoke-pylintreportsdisabled
 pscommand_invoke-ruby
 pscommand_invoke-rubyexecute
@@ -6890,6 +6922,7 @@ pscommand_pvenv
 pscommand_pwh
 pscommand_pwshrc-show-proxy
 pscommand_py
+pscommand_pyenv
 pscommand_pylint-quick
 pscommand_pyserver
 pscommand_python
@@ -7810,6 +7843,7 @@ psfunction_invoke-pipinstall
 psfunction_invoke-pipinstallupgrade
 psfunction_invoke-piplistoutdated
 psfunction_invoke-pipuninstall
+psfunction_invoke-pyenv
 psfunction_invoke-pylintreportsdisabled
 psfunction_invoke-ruby
 psfunction_invoke-rubyexecute
@@ -8265,7 +8299,6 @@ psjobs
 psjobthreads
 pskeepass
 pslocalgallery
-psloganalytics
 psm
 psm1
 psmodule
@@ -8291,6 +8324,7 @@ psprofiler
 psproject
 psprojectcreator
 psprojectgenerator
+psprovider
 psprtg
 pspublicapi
 psql
@@ -8354,6 +8388,7 @@ pullrequest
 pullserver
 pulseway
 pulumi
+punycode
 puppet
 puppetdb
 puppy
@@ -8383,6 +8418,7 @@ pwshake
 pwshfw
 pwshrc
 pxedistributionpoint
+pyenv
 pygmentize
 pylint
 pyranja
@@ -8480,6 +8516,8 @@ rbsu
 rcon
 rcs
 rcu
+rdb
+rdbms
 rdc
 rdcman
 rdcmanager
@@ -8579,6 +8617,7 @@ regular-expression
 regularexpression
 regularexpressions
 reinstall
+relational
 relay
 release
 releasedefinition
@@ -8763,8 +8802,10 @@ round
 roundrobindatabase
 route
 route53
+routeconfig
 router
 routes
+routetable
 routine
 rover
 royalapps
@@ -8987,6 +9028,7 @@ secur32
 secure
 secureapplicationmodel
 securechannel
+securedns
 securegopher
 securegopher+
 securemfa
@@ -9168,6 +9210,7 @@ shipstation
 shlink
 shodan
 shodanps
+shop
 shopify
 shortcut
 shortcuts
@@ -9246,6 +9289,7 @@ slash
 slashcommands
 slmgr
 sln
+slugify
 sm
 sma
 small_web
@@ -9377,7 +9421,6 @@ speed
 speedometer
 speedtest
 speedtester
-spellcheck
 spelling
 spf
 spfx
@@ -9413,6 +9456,7 @@ sql-server
 sqlagent
 sqlautomation
 sqlbits
+sqlbrowser
 sqlbulkcopy
 sqlchangeautomation
 sqlclient
@@ -9489,6 +9533,7 @@ standard
 standarderror
 standardoutput
 standards
+standbypool
 stansummary
 start
 start-job
@@ -9840,6 +9885,7 @@ textbuffer
 texting
 texting-emoji
 texting-emojis
+textprocessing
 textwrapping
 tfe
 tfenv
@@ -9878,6 +9924,7 @@ thunderbird
 thycotic
 tibber
 tic-tac-toe
+tickle
 ticks
 tictactoe
 tiermodel
@@ -9908,6 +9955,7 @@ tobias
 toc
 todo
 todo.txt
+toggl
 toggle
 token
 tokenlifetime
@@ -9924,7 +9972,6 @@ topdesk
 topgrade
 topics
 topology
-tor
 toradex
 torizon
 torrent
@@ -9945,6 +9992,7 @@ tracert
 tracing
 tracker
 tracking
+trading
 traffic
 trafficfiltering
 trafficmanager
@@ -10119,6 +10167,7 @@ udfeedback
 udp
 udpclient
 udptest
+udr
 udthememode
 udword
 uefi
@@ -10277,6 +10326,7 @@ vba
 vbaproject
 vbproj
 vbr
+vbscript
 vbsinst
 vc
 vccmdlets
@@ -10328,6 +10378,7 @@ vimode
 virole
 virsh
 virtual
+virtualappliance
 virtualbox
 virtualboxguestadditions
 virtualdesktop
@@ -10429,7 +10480,6 @@ vscode
 vsdevcmd
 vsdevshell
 vsenvironment
-vsm
 vso
 vspc
 vsphere
@@ -10558,6 +10608,7 @@ whois
 whormi
 wi-fi
 wia
+wia.imagefile
 wid
 widedata
 wif
@@ -10608,6 +10659,7 @@ windows10mui
 windows11
 windows365
 windowsadmincenter
+windowsaudit
 windowsbuilds
 windowscredential
 windowscredentialmanager
@@ -10736,7 +10788,6 @@ write-debug
 write-host
 write-information
 write-log
-write-loganalytics
 write-message
 write-progress
 write-slog
