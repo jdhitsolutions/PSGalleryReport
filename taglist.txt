@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Wednesday, 29 May 2024 02:08:19 UTC
+Updated: Wednesday, 29 May 2024 09:51:44 UTC
 
 .bat
 .env
@@ -268,7 +268,6 @@ aivision
 ajustee
 aka.ms
 aks
-aks-hci
 akscluster
 al
 alac
@@ -351,10 +350,8 @@ anonymous
 anova
 ansi
 ansible
-ansible-control-node
 ansible-playbook
 ansible-vault
-ansiblecontrolnode
 anti-malware
 antimalwarescaninterface
 antispam
@@ -693,8 +690,6 @@ azurecli
 azurecodesigning
 azurecognitiveservices
 azurecommonstuff
-azurecontainerapps
-azurecontainers
 azuredatabricks
 azuredataexplorer
 azuredatastudio
@@ -907,7 +902,6 @@ bootstrap
 bootstrapping
 bop
 bot
-bots
 botservice
 bouncer
 boundaries
@@ -1673,7 +1667,6 @@ cvad
 cve
 cve-2021-34527
 cvrf
-cvss
 cwi
 cx
 cyber
@@ -1962,8 +1955,6 @@ disable
 disable-internet
 disable-psremoting
 disablefilesyncngsc
-disablestartbutton
-disablestartkey
 disasm
 disasterrecovery
 disconnect
@@ -2414,6 +2405,7 @@ eventsubscription
 eventviewer
 eventwatch
 evergreen
+evernote
 everydaypowershell
 everydayrewards
 everything
@@ -2858,7 +2850,6 @@ get-dtdriverupdates
 get-dtscriptnewcmpackagefromdriverpackpackagedefinitionsms
 get-dtscriptnewcmtasksequencefromdriverpackpackagedefinitionsms
 get-emptyadgroups
-get-externalip
 get-firmwaretype
 get-help
 get-history
@@ -2992,7 +2983,6 @@ graylog
 greenplum
 gremlin
 grep
-greynoise
 grid
 gridfs
 grok
@@ -3036,6 +3026,7 @@ hacktoberfest
 hadoop
 hafr
 hailstone
+haipa
 halo
 haloitsm
 halopsa
@@ -3295,6 +3286,7 @@ identitydomains
 identitynow
 idf
 idm
+idna
 ids
 ie
 iem
@@ -3435,6 +3427,7 @@ intellisense
 interactive
 interactive-brokers
 interface
+interlogix
 internal
 internet
 internet-explorer
@@ -3655,7 +3648,6 @@ key2wocas
 keybase
 keybinding
 keyboard
-keyboardstartkey
 keycipher
 keycloak
 keylight
@@ -3687,7 +3679,6 @@ kodi
 korn
 kotlin
 kql
-kraken
 krane
 krbtgt
 krick
@@ -4143,6 +4134,7 @@ messaging-emoji
 messaging-emojis
 messenger
 met
+meta
 metadata
 metadataservice
 metaprogramming
@@ -4770,7 +4762,6 @@ optionstring
 opus
 oracle
 oraclecloudinfrastructure
-oraculum
 orbital
 orchestration
 orchestrator
@@ -4963,7 +4954,6 @@ pem
 pemfile
 pendingreboot
 penetration
-penetrationtesting
 pentesting
 pentia
 people
@@ -5064,7 +5054,6 @@ ply
 pmp
 pncit
 pnp
-pnp.powershell
 pnpm
 poc
 pode
@@ -7242,7 +7231,6 @@ psedition_windows
 psedition-desktop
 psediton_desktop
 psenv
-pses
 psexcel
 psexec
 psexec.exe
@@ -8394,6 +8382,7 @@ pullrequest
 pullserver
 pulseway
 pulumi
+punycode
 puppet
 puppetdb
 puppy
@@ -8768,6 +8757,7 @@ ribcl
 ricoh
 rightcloud
 rightjoin
+rights
 rightsizing
 rightsmanagement
 ring
@@ -9206,7 +9196,6 @@ shares
 sheets
 shell
 shell-art
-shells
 shieldedvm
 ships
 shipsprovider
@@ -9428,7 +9417,6 @@ speedtester
 spellcheck
 spelling
 spf
-spfx
 sphere
 spi
 spicetify
@@ -9544,7 +9532,6 @@ start
 start-job
 start-jobthread
 start-threadjob
-startkey
 startmen
 startmenu
 starttls
@@ -9978,8 +9965,6 @@ topgrade
 topics
 topology
 tor
-toradex
-torizon
 torrent
 torrents
 toshiba
@@ -9998,7 +9983,6 @@ tracert
 tracing
 tracker
 tracking
-trading
 traffic
 trafficfiltering
 trafficmanager
@@ -10041,7 +10025,6 @@ trendmicro
 trevor
 trevorsullivan
 triangle
-tribeloo
 trick
 tricks
 trigger
@@ -10054,6 +10037,7 @@ true-color
 truecrypt
 truenas
 trumethods
+truportal
 trusted
 trusted-host
 trustedhosts
@@ -10094,6 +10078,7 @@ twitter-follow
 twitter-hashtag
 twitter-mention
 twitter-share
+twitter-timeline
 twitter-tweet
 txt
 type
@@ -10330,6 +10315,7 @@ vba
 vbaproject
 vbproj
 vbr
+vbscript
 vbsinst
 vc
 vccmdlets
@@ -10544,7 +10530,6 @@ wdapi
 wds
 weather
 weaviate
-weaviatenet
 web
 web-browser
 web-search
