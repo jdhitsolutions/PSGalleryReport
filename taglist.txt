@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Wednesday, 29 May 2024 09:51:44 UTC
+Updated: Wednesday, 29 May 2024 17:51:57 UTC
 
 .bat
 .env
@@ -192,7 +192,6 @@ adlds
 adm
 admf
 admin
-admin-tools
 adminbyrequest
 admindirectory
 administration
@@ -268,6 +267,7 @@ aivision
 ajustee
 aka.ms
 aks
+aks-hci
 akscluster
 al
 alac
@@ -350,8 +350,10 @@ anonymous
 anova
 ansi
 ansible
+ansible-control-node
 ansible-playbook
 ansible-vault
+ansiblecontrolnode
 anti-malware
 antimalwarescaninterface
 antispam
@@ -690,6 +692,8 @@ azurecli
 azurecodesigning
 azurecognitiveservices
 azurecommonstuff
+azurecontainerapps
+azurecontainers
 azuredatabricks
 azuredataexplorer
 azuredatastudio
@@ -902,6 +906,7 @@ bootstrap
 bootstrapping
 bop
 bot
+bots
 botservice
 bouncer
 boundaries
@@ -931,6 +936,7 @@ britannicaknowledgesystems
 british-gas
 brk4452
 broadcast
+broadcom
 broot
 brownserve-uk
 browser
@@ -1167,14 +1173,12 @@ cireson
 ciresonassetmanagement
 ciresonportal
 cis
-cisa
 cisco
 ciscoucscmdlets
 ciscoucsdsc
 citation
 cite
 citrix
-citrixoptimizer
 civo
 cix
 class
@@ -1667,6 +1671,7 @@ cvad
 cve
 cve-2021-34527
 cvrf
+cvss
 cwi
 cx
 cyber
@@ -1851,6 +1856,7 @@ dell
 dellemc
 delta
 demand
+demandsignal
 demo
 democratie
 demonstration
@@ -1955,6 +1961,8 @@ disable
 disable-internet
 disable-psremoting
 disablefilesyncngsc
+disablestartbutton
+disablestartkey
 disasm
 disasterrecovery
 disconnect
@@ -1999,7 +2007,6 @@ dkim
 dkschrutebeets
 dl
 dll
-dlm
 dlmautomation
 dlmigration
 dlp
@@ -2636,7 +2643,6 @@ finops
 firebird
 firefox
 firewall
-firewall-management
 firewallrule
 firmware
 firmwareanalysis
@@ -2850,6 +2856,7 @@ get-dtdriverupdates
 get-dtscriptnewcmpackagefromdriverpackpackagedefinitionsms
 get-dtscriptnewcmtasksequencefromdriverpackpackagedefinitionsms
 get-emptyadgroups
+get-externalip
 get-firmwaretype
 get-help
 get-history
@@ -2983,6 +2990,7 @@ graylog
 greenplum
 gremlin
 grep
+greynoise
 grid
 gridfs
 grok
@@ -3484,7 +3492,6 @@ ipbroadcast
 ipc
 ipcalc
 ipcalculator
-ipconfig
 iperf
 ipfy.org
 iphone
@@ -3648,6 +3655,7 @@ key2wocas
 keybase
 keybinding
 keyboard
+keyboardstartkey
 keycipher
 keycloak
 keylight
@@ -3679,6 +3687,7 @@ kodi
 korn
 kotlin
 kql
+kraken
 krane
 krbtgt
 krick
@@ -4474,7 +4483,6 @@ networkinterfaces
 networkloadbalancer
 networkpolicyserver
 networkscan
-networksecurity
 networksecuritygroup
 networkshares
 netwrix
@@ -4762,6 +4770,7 @@ optionstring
 opus
 oracle
 oraclecloudinfrastructure
+oraculum
 orbital
 orchestration
 orchestrator
@@ -4954,6 +4963,7 @@ pem
 pemfile
 pendingreboot
 penetration
+penetrationtesting
 pentesting
 pentia
 people
@@ -5054,6 +5064,7 @@ ply
 pmp
 pncit
 pnp
+pnp.powershell
 pnpm
 poc
 pode
@@ -7231,6 +7242,7 @@ psedition_windows
 psedition-desktop
 psediton_desktop
 psenv
+pses
 psexcel
 psexec
 psexec.exe
@@ -8525,7 +8537,6 @@ rdpsign
 rds
 rdsgw
 react-stockcharts
-read
 read-slog
 readable
 reader
@@ -8545,7 +8556,6 @@ reconcile
 reconnaissance
 record
 recording
-recordsmanagement
 recovery
 recoveryservices
 recruiter
@@ -8668,7 +8678,6 @@ repl
 replace
 replaygain
 replication
-repo
 repoo
 report
 reporting
@@ -8979,7 +8988,6 @@ scriptedui
 scripting
 scriptlog
 scriptlogging
-scriptmodule
 scriptoform
 scriptrunner
 scripts
@@ -9196,6 +9204,7 @@ shares
 sheets
 shell
 shell-art
+shells
 shieldedvm
 ships
 shipsprovider
@@ -9417,6 +9426,7 @@ speedtester
 spellcheck
 spelling
 spf
+spfx
 sphere
 spi
 spicetify
@@ -9532,6 +9542,7 @@ start
 start-job
 start-jobthread
 start-threadjob
+startkey
 startmen
 startmenu
 starttls
@@ -9653,7 +9664,6 @@ support-tool
 support-tools
 suppress
 supress-reboot
-surestacks
 surround
 survey
 surveymonkey
@@ -9965,6 +9975,8 @@ topgrade
 topics
 topology
 tor
+toradex
+torizon
 torrent
 torrents
 toshiba
@@ -9983,6 +9995,7 @@ tracert
 tracing
 tracker
 tracking
+trading
 traffic
 trafficfiltering
 trafficmanager
@@ -10025,6 +10038,7 @@ trendmicro
 trevor
 trevorsullivan
 triangle
+tribeloo
 trick
 tricks
 trigger
@@ -10051,9 +10065,6 @@ tsa
 tsd
 tsheets
 tsqlbestpractice
-tst
-tst1
-tst3
 tsv
 ttrpg
 tts
@@ -10530,6 +10541,7 @@ wdapi
 wds
 weather
 weaviate
+weaviatenet
 web
 web-browser
 web-search
@@ -10628,13 +10640,10 @@ windows explorer
 windows_events
 windows-10
 windows-api
-windows-control-panel
-windows-defender
 windows-defender-application-control
 windows-environment
 windows-explorer
 windows-features
-windows-firewall
 windows-path
 windows-powershell
 windows-registry
@@ -10840,7 +10849,6 @@ xiaomi
 xin
 xkcd
 xliff
-xlsx
 xmc
 xml
 xml-rpc
