@@ -1,8 +1,7 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Friday, 31 May 2024 09:52:04 UTC
+Updated: Friday, 31 May 2024 17:51:52 UTC
 
-.bat
 .env
 .net
 .prom
@@ -133,6 +132,7 @@ activehours
 activenet
 activenetworkstation
 activenetworkstationservice
+activeresponse
 activesession
 activiti
 activities
@@ -443,6 +443,7 @@ aptitude
 aql
 arangodb
 arc
+arcade
 arcgis
 arch
 architecture
@@ -821,7 +822,6 @@ bicepnet
 big-ip
 big-iq
 bigcommerce
-bigeval
 bigfix
 bigquery
 bikeshed
@@ -900,7 +900,6 @@ bookmark
 bookmarks
 books
 bool
-boolean
 bootloader psmodule
 bootstrap
 bootstrapping
@@ -1093,7 +1092,6 @@ certificatepolicy
 certificates
 certificateservices
 certificatesmanagement
-certinia
 certutil
 cf
 cfn
@@ -1401,7 +1399,6 @@ conda
 condition
 conditionalaccess
 conduit
-conference
 confidentialclient
 confidentialledger
 config
@@ -1461,6 +1458,7 @@ containerinstance
 containerinstances
 containerregistry
 containers
+containment
 contentprep
 context
 context-menu-shortcut
@@ -1942,6 +1940,7 @@ digitaltwins
 dilbert
 dimcry
 dircolors
+director
 directories
 directory
 directory psedition_core psedition_desktop
@@ -1960,8 +1959,6 @@ disable
 disable-internet
 disable-psremoting
 disablefilesyncngsc
-disablestartbutton
-disablestartkey
 disasm
 disasterrecovery
 disconnect
@@ -2013,6 +2010,7 @@ dlp
 dmarc
 dmgr
 dmi
+dmtf
 dmx
 dnd
 dnf
@@ -2367,7 +2365,6 @@ esp32
 esp32s2
 espressif
 esri
-essbase
 estimate
 estimation
 esx
@@ -2534,7 +2531,6 @@ fastlookup
 fastping
 fasttrack
 fat32
-favorite
 favorites
 fb-pro
 fciv
@@ -2584,6 +2580,7 @@ fileattributes
 fileencryption
 filelist
 filelog
+filelogger
 filemanagement
 filematcher
 filename
@@ -3222,6 +3219,9 @@ hub
 hubot
 hubsite
 hubspot
+hubspotapi
+hubspotcrm
+hubspotps
 hudson
 hue
 humanizer
@@ -3260,12 +3260,10 @@ ibmhttpserver
 icacl
 icinga
 icinga2
-icinga2mssql
 icinga2plugins
 icingachecks
 icingaforwindows
 icingainventory
-icingamssql
 icingaplugins
 icingapowershell
 icingapowershellframework
@@ -3285,6 +3283,7 @@ identifier
 identity
 identity-management
 identitydataplane
+identitydirector
 identitydomains
 identitynow
 idf
@@ -3543,6 +3542,7 @@ itglue
 itin
 itop
 itsm
+itstore
 ivanti
 ivb
 ivdc
@@ -3581,6 +3581,7 @@ jobscheduler
 johnshopkins
 join
 join-object
+jojoba
 joke
 jotform
 journal
@@ -3605,6 +3606,7 @@ jumbo
 jump
 jump-location
 jumpcloud
+jumpstart
 junction
 junctions
 junit
@@ -3648,7 +3650,6 @@ key2wocas
 keybase
 keybinding
 keyboard
-keyboardstartkey
 keycipher
 keycloak
 keylight
@@ -3943,15 +3944,15 @@ lsa
 lsasecrets
 lsd
 ltm
+lucd
 lucene
 lunches
 lwa
 lxca
 lxcapstool
-lxco
-lxcopstool
 lync
 m365
+m365defenderstuff
 m365dsc
 maatschap-fortigi
 mac
@@ -4265,8 +4266,6 @@ monitor
 monitor psmodule
 monitorinformation
 monitoring
-monitoring_objects
-monitoring_variables
 monitoringplugins
 monitoringsolutions
 monitors
@@ -4340,7 +4339,6 @@ mssql
 mssqlbynarymodule
 mssqlbynarypsmodule
 mssqlmodule
-mssqlplugins
 mssqlserver
 msteams
 mstest
@@ -4906,6 +4904,7 @@ passwordexpiration
 passwordexpiry
 passwordgeneration
 passwordgenerator
+passwordgenerators
 passwordhashing
 passwordlock
 passwordlockoutreport
@@ -5018,7 +5017,6 @@ pipelines
 pipenv
 pipescript
 piraeus
-piv
 pivot
 pivotal
 pivottable
@@ -5144,6 +5142,7 @@ poshy-wrap-curl
 poshy-wrap-dnf
 poshy-wrap-docker
 poshy-wrap-docker-compose
+poshy-wrap-dotnet
 poshy-wrap-forgit
 poshy-wrap-gem
 poshy-wrap-gh
@@ -5284,7 +5283,6 @@ prepareschema
 prepend
 preprocessing
 preprocessor
-presentation
 presenter
 presto
 preston-k-parsard
@@ -5640,6 +5638,20 @@ pscommand_docker-volume-inspect
 pscommand_docker-volume-list
 pscommand_docker-volume-prune
 pscommand_docker-volume-prune-forcefully
+pscommand_dotnet-add
+pscommand_dotnet-build
+pscommand_dotnet-new
+pscommand_dotnet-nuget
+pscommand_dotnet-pack
+pscommand_dotnet-run
+pscommand_dotnet-sln
+pscommand_dotnet-test
+pscommand_dotnet-tool-list-global
+pscommand_dotnet-tool-list-local
+pscommand_dotnet-tool-update-all-global
+pscommand_dotnet-watch
+pscommand_dotnet-watch-run
+pscommand_dotnet-watch-test
 pscommand_dpo
 pscommand_dpu
 pscommand_dr
@@ -7329,6 +7341,20 @@ psfunction_docker-volume-inspect
 psfunction_docker-volume-list
 psfunction_docker-volume-prune
 psfunction_docker-volume-prune-forcefully
+psfunction_dotnet-add
+psfunction_dotnet-build
+psfunction_dotnet-new
+psfunction_dotnet-nuget
+psfunction_dotnet-pack
+psfunction_dotnet-run
+psfunction_dotnet-sln
+psfunction_dotnet-test
+psfunction_dotnet-tool-list-global
+psfunction_dotnet-tool-list-local
+psfunction_dotnet-tool-update-all-global
+psfunction_dotnet-watch
+psfunction_dotnet-watch-run
+psfunction_dotnet-watch-test
 psfunction_enable-proxy
 psfunction_encode64
 psfunction_encodefile64
@@ -8376,6 +8402,7 @@ pushoverapi
 putty
 pve
 pvr
+pvs
 pwa
 pwned
 pwpush
@@ -8427,6 +8454,7 @@ queryexcel
 question
 queue
 queues
+queuing
 quickaccess
 quickbase
 quickbooks
@@ -8475,6 +8503,7 @@ rate-limit
 rates
 rating
 ratings
+ravendb
 razzle
 rbac
 rbacmodel
@@ -8628,6 +8657,7 @@ remove-tempfiles
 removefile
 removetypeaccelerators
 remux
+ren-isac
 rename
 rename-git
 rename-git-branch
@@ -9102,8 +9132,10 @@ servicepointmanager
 serviceprincipal
 services
 servicestatus
+servicestore
 servicing
 servicingstack
+ses
 session
 sessionize
 sessions
@@ -9267,6 +9299,7 @@ smb
 smb1
 smb2
 smbios
+smbios-information
 smfoxx
 smfx
 smileys
@@ -9363,12 +9396,12 @@ spark
 sparkline
 sparklines
 spawn
+spdockit
 spdx
 spdx-license-identifier:ms-pl
 spe
 speach
 speak
-speaker
 spec
 specification
 specify
@@ -9440,6 +9473,7 @@ sqlplus
 sqlproj
 sqlproject
 sqlps
+sqlquery
 sqlserver
 sqlserveragent
 sqlserverbynarymodule
@@ -9486,6 +9520,7 @@ stackhcivm
 stackmonitoring
 stackoverflow
 staffhub
+staging
 stale
 stan
 stanc
@@ -9499,7 +9534,6 @@ start
 start-job
 start-jobthread
 start-threadjob
-startkey
 startmen
 startmenu
 starttls
@@ -9670,6 +9704,7 @@ sysctr
 sysinfo
 sysinfocmdlets
 sysinternals
+syskit
 syslog
 sysman
 sysmon
@@ -9807,6 +9842,7 @@ terrafun
 terragrunt
 tesla
 test
+test-automation
 test-dscconfiguration
 test-internetconnection
 test-modulepath
@@ -9818,7 +9854,6 @@ test-userisadministrator
 test-xml
 test123
 testaccount
-testautomation
 tester
 testimonial
 testing
@@ -10093,7 +10128,6 @@ ud-licensed
 ud-loadingoverlay
 ud-minesweeper
 ud-mouseparticle
-ud-navbarsearch
 ud-numbermask
 ud-orgchart
 ud-piechart3d
@@ -10112,13 +10146,11 @@ ud-speechbubble
 ud-step
 ud-stepbar
 ud-stickynavbar
-ud-tagcloud
 ud-timeline
 ud-timeout
 ud-tool
 ud-toploader
 ud-trendline
-ud-typing
 ud-window
 ud-wordtree
 udcm
@@ -10285,6 +10317,7 @@ vba
 vbaproject
 vbproj
 vbr
+vbscript
 vbsinst
 vc
 vccmdlets
@@ -10391,6 +10424,10 @@ vmware.vsphere
 vmwarecloudfoundation
 vmwaredrs
 vmwarevalidatedsolutions
+vmwcluster
+vmwdatacenter
+vmwfolder
+vmwvmhost
 vnet
 vnmonitoring
 vnugglets
@@ -10400,6 +10437,7 @@ voice
 voiceservices
 voidtools
 volkskrant
+volta
 volume
 volumeshadowcopy
 volumio
@@ -10845,7 +10883,6 @@ youtube-dl
 youtubeextractor
 yq
 yubaba
-yubikey
 yum
 z
 zabbix
