@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Thursday, 30 May 2024 17:51:54 UTC
+Updated: Friday, 31 May 2024 02:07:07 UTC
 
 .bat
 .env
@@ -167,6 +167,7 @@ add-one
 add-path
 add-type
 addin
+addlevel
 addomainservices
 addon
 address
@@ -340,7 +341,6 @@ anf
 anglesharp
 angular
 animals
-animate-svg
 animation
 animations
 annotated
@@ -554,6 +554,7 @@ authentication
 authenticationcertificate
 authenticode
 authn
+author
 authoring
 authoringtools
 authorisation
@@ -566,6 +567,7 @@ autify
 auto
 auto_cd
 auto-completion
+autoadapter
 autoattendant
 autocloudarc
 autocomplete
@@ -596,6 +598,7 @@ autotyper
 autounattend
 autoupdate
 autoupdate-script
+autowrapper
 autoyast
 auvik
 availability
@@ -816,6 +819,7 @@ bibtex
 bicep
 bicepnet
 big-ip
+big-iq
 bigcommerce
 bigeval
 bigfix
@@ -848,6 +852,7 @@ bitcoin
 bitlocker
 bitwarden
 bitwig
+bitwise
 biztalk
 biztalkalm
 biztalkdeploymentframework
@@ -965,6 +970,7 @@ bulk
 bulletin
 bullhorn
 bundle
+bup
 burnttoast
 burpsuite
 bus
@@ -975,6 +981,7 @@ businesshours
 businessobjects
 businessrulesengine
 businesstime
+bxor
 bydesign
 byexample
 bynarypsmodule
@@ -1091,10 +1098,12 @@ certinia
 certutil
 cf
 cfn
+ch9
 change
 changeanalysis
 changelog
 channel
+channel9
 char
 character
 chart
@@ -1336,6 +1345,7 @@ comical
 comics
 command
 command_line
+command-line-interface
 command-validation
 commandcoverage
 commandlets
@@ -1344,6 +1354,7 @@ commands
 commandsandresource
 commence
 comment
+comments
 commerce
 commfort
 commit
@@ -1509,6 +1520,7 @@ copilot
 copy
 copy-item
 copypaste
+copyright
 core
 coreposh
 coreutils
@@ -1991,6 +2003,7 @@ distrubtionpoint
 dividends
 diving
 division
+divoom
 diy
 dkim
 dkschrutebeets
@@ -2154,6 +2167,7 @@ du
 dual-stack
 duck
 duckduckgo
+ducktyping
 dudckduckgo
 duf
 dummy
@@ -2524,7 +2538,6 @@ fastlookup
 fastping
 fasttrack
 fat32
-favorite
 favorites
 fb-pro
 fciv
@@ -2626,6 +2639,7 @@ findfile
 findlocation
 findplace
 findproxyforurl
+fine-print
 fine-tuning
 finops
 firebird
@@ -2714,6 +2728,7 @@ foudil
 fox
 foxpro
 fqdn
+frame
 framework
 france
 free
@@ -2805,9 +2820,7 @@ generate
 generate-dockerimagevariants
 generate-password
 generate-random-password
-generateaddress
 generates
-generatewif
 generation
 generativeai
 generativeaiinference
@@ -2902,9 +2915,9 @@ gitlabpipeline
 gitops
 glimps
 glob
+globalclipboard
 globaldashboard
 globalentry
-globallydistributeddatabase
 globbing
 glpi
 gmail
@@ -2926,7 +2939,6 @@ google-chrome
 google-fonts
 google-histogram
 google-sankey
-google-table
 googleadsv2
 googlecloudplatform
 googledrive
@@ -3374,6 +3386,7 @@ initiator
 inline-progress
 inlineprogress
 innerjoin
+innertext
 input
 inputbox
 inputobject
@@ -3713,6 +3726,7 @@ labworker
 lake
 lambda
 lame
+lametrictime
 lamp
 lan
 landingzones
@@ -3849,7 +3863,6 @@ locale
 localgroup
 localgroupmember
 localization
-localpolicy
 location
 locationbasedservices
 lock
@@ -4025,12 +4038,14 @@ markdig
 markdown
 markdownrender
 marketing
+marketo
 marketplace
 marketplaceordering
 marketplaceprivateoffer
 marketplacepublisher
 marking
 marklogic
+marquee
 marvel
 marvell
 marvell_semiconductor_inc
@@ -4062,6 +4077,7 @@ mb
 mbc
 mbs
 mc
+mcafee
 mcas
 mccs
 mcd
@@ -4070,6 +4086,7 @@ mct
 md5
 md5_v2-18678d945a01f01ccd1b01ed86392fd5
 mdatp
+mdb
 mdbc
 mde
 mdep
@@ -4375,8 +4392,6 @@ myget
 myhub
 myip
 myitprocess
-myjson
-myjson.com
 myob
 myposh
 mypstag
@@ -4398,6 +4413,7 @@ namespace
 naming
 nana
 nano
+nanoleaf
 nartac
 nasdaq
 native
@@ -4412,6 +4428,7 @@ ncal
 ndes
 nebulon
 nec-infrared-transmission-protocol
+nederland
 nedyalkov
 neo4j
 neovim
@@ -4560,6 +4577,7 @@ nql
 nrc
 nrql
 ns
+ns.nl
 nsg
 nslookup
 nsx
@@ -4803,6 +4821,7 @@ out-default
 out-gridview
 out-json
 outerjoin
+outertext
 outline
 outlook
 output
@@ -5009,6 +5028,7 @@ piv
 pivot
 pivotal
 pivottable
+pixoo
 pkce
 pki
 pki psmodule
@@ -8282,7 +8302,6 @@ psjobs
 psjobthreads
 pskeepass
 pslocalgallery
-psloganalytics
 psm
 psm1
 psmodule
@@ -8305,9 +8324,6 @@ pspath
 pspersonio
 pspowerhour
 psprofiler
-psproject
-psprojectcreator
-psprojectgenerator
 psprovider
 psprtg
 pspublicapi
@@ -8436,6 +8452,7 @@ quality
 qualys
 quandl
 quantum
+quarantine
 queries
 query
 queryexcel
@@ -9646,6 +9663,7 @@ support-tools
 suppress
 supress-reboot
 surestacks
+surround
 survey
 surveymonkey
 sus
@@ -9879,7 +9897,6 @@ tfsec
 tfswitch
 tftd
 tftp
-tfvars
 tfvc
 thecrushingemptinessofquotidianexistence
 theme
@@ -9981,6 +9998,7 @@ traffic
 trafficfiltering
 trafficmanager
 trafficmarking
+train
 trainer
 training
 training-course
@@ -10009,6 +10027,7 @@ tree
 tree-structure
 treesize
 treffynnon
+trein
 trello
 trellops
 trend
@@ -10061,6 +10080,7 @@ tweet
 twig
 twilio
 twincat
+twinkly
 twitch
 twitter
 twitter-api
@@ -10082,7 +10102,6 @@ types.ps1xml
 typescript
 tzutil
 uac
-uag
 uberagent
 ubiquiti
 ubnt
@@ -10194,7 +10213,6 @@ universal-automation
 universal-dashboard
 universalarchive
 universaldashboard
-universialaccessgateway
 university
 unix
 unlinked
@@ -10307,7 +10325,6 @@ vba
 vbaproject
 vbproj
 vbr
-vbscript
 vbsinst
 vc
 vccmdlets
@@ -10355,6 +10372,7 @@ vie
 viewer
 vigenere
 vim
+vimode
 virole
 virsh
 virtual
@@ -10592,7 +10610,6 @@ wia
 wia.imagefile
 wid
 widedata
-wif
 wifi
 wiki
 wildcard
@@ -10769,7 +10786,6 @@ write-debug
 write-host
 write-information
 write-log
-write-loganalytics
 write-message
 write-progress
 write-slog
@@ -10841,6 +10857,7 @@ xmla
 xmlrpc
 xmlutils
 xoauth2
+xor
 xpath
 xpendingreboot
 xpertdoc
