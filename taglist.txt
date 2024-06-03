@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 03 June 2024 02:08:19 UTC
+Updated: Monday, 03 June 2024 09:51:51 UTC
 
 .bat
 .env
@@ -605,6 +605,7 @@ auvik
 availability
 availabilityset
 avalara
+avatar
 avd
 ave
 avepoint
@@ -656,7 +657,6 @@ azsql
 azstackhci
 azstate
 azsubnet
-aztools
 azts
 azuead
 azure
@@ -890,6 +890,7 @@ bluetuxedo
 bmc
 bnm
 boards
+bofh
 boilerplate
 boinc
 bold-text
@@ -961,6 +962,7 @@ buildhelpers
 building
 buildingfile
 buildingmapping
+buildkit
 buildkite
 buildmaster
 builds
@@ -1157,8 +1159,10 @@ cif
 cifv3
 cil
 cim
+cim_computersystem
 cimfs
 cimi
+ciminstance
 cims
 cimsession
 cinema
@@ -1357,6 +1361,7 @@ commfort
 commit
 commits
 common
+common-data-service
 commondataservice
 commonmark
 commonstuff
@@ -1566,6 +1571,7 @@ crc32
 create
 createcolumn
 createdatabase
+createfile
 createprocessasuser
 createschema
 createtable
@@ -1696,6 +1702,8 @@ dacfx
 dacl
 dacpac
 dacpackage
+dagger
+daily
 dane
 dangling
 dapr
@@ -1883,7 +1891,6 @@ detection
 detectionrule
 deutschland
 dev
-dev-tools
 devart
 devcenter
 devdeer
@@ -1963,7 +1970,6 @@ disasterrecovery
 disconnect
 discord
 discordrpc
-discount
 discover
 discovery
 discutils
@@ -2210,8 +2216,8 @@ easy
 easy-to-use
 easylife365
 easyvista
+eaton
 ebay
-ebooks
 ebur128
 ec2
 ecommerce
@@ -2408,6 +2414,7 @@ eventviewer
 eventwatch
 evergreen
 evernote
+everydaypowershell
 everydayrewards
 everything
 evilprince2009
@@ -2488,6 +2495,7 @@ extendedevents
 extendedproperties
 extendedproperty
 extendscript
+extensibility
 extension
 extensionmethods
 extensionrisk
@@ -3106,6 +3114,7 @@ helpdesk
 helpdoc
 helper
 helper-functions
+helperfunctions
 helpers
 helpfile
 helpful
@@ -3239,6 +3248,8 @@ hyperv
 hypervisor
 hypervplugins
 hypothesis
+hysolate
+hysolatemangementconsole
 i-doit
 i2c
 ia
@@ -3294,6 +3305,7 @@ ifttt
 igel
 igr
 ihs
+iiittttt
 iis
 iisadministration
 iiscrypto
@@ -3656,7 +3668,6 @@ keymapping
 keypair
 keysms
 keyvault
-keywords
 kibana
 kickstart
 kidrsa
@@ -3815,7 +3826,6 @@ links
 linq
 linqpad
 lint
-linting
 linux
 linux-command
 linuxssh
@@ -4265,6 +4275,8 @@ monitor
 monitor psmodule
 monitorinformation
 monitoring
+monitoring_objects
+monitoring_variables
 monitoringplugins
 monitoringsolutions
 monitors
@@ -4484,6 +4496,7 @@ new-dtcmtasksequencefromdriverpackpackagedefinitionsms
 new-dynamicdictionary
 new-dynamicparameter
 new-githubrelease
+new-item
 new-itemproperty
 new-pinneditem
 new-rdpsession
@@ -4977,6 +4990,7 @@ pf
 pfe
 pfsense
 pfx
+pfy
 pgp
 phabricator
 philips
@@ -5275,6 +5289,9 @@ predictor
 preferences
 prefix
 prefixing
+preparead
+preparealldomains
+prepareschema
 prepend
 preprocessing
 preprocessor
@@ -5376,6 +5393,7 @@ proxmox
 proxmoxve
 proxsys
 proxy
+proxyfunction
 proxyfunctions
 prtg
 prtg_network_monitor
@@ -8829,7 +8847,6 @@ runas
 runbook
 runbooks
 runbookstudio
-runcommand
 rundeck
 runner
 runspace
@@ -8857,7 +8874,6 @@ safeguard
 sage
 saggiehaim
 sailpoint
-sale
 sales
 salesforce
 salesloft
@@ -8882,6 +8898,7 @@ sap
 sapazure
 saponazure
 sapstartstopazure
+sarcasm
 sarif
 sas
 sat
@@ -8991,7 +9008,6 @@ sdn
 sdp
 search
 search-adminauditlog
-search-engines
 searchconnector
 searchengine
 searcher
@@ -9522,7 +9538,6 @@ stanc
 standard
 standarderror
 standardoutput
-standards
 standbypool
 stansummary
 start
@@ -9704,6 +9719,7 @@ syskit
 syslog
 sysman
 sysmon
+sysop
 syspass
 syspip
 syspip3
@@ -9996,6 +10012,8 @@ transact
 transaction
 transactions
 transcode
+transcript
+transcripts
 transform
 transformation
 transforms
@@ -10498,6 +10516,7 @@ waas
 wac
 waf
 wait4x
+waitforobject
 wakeonlan
 wakeup
 walk
@@ -10632,7 +10651,6 @@ windows-control-panel
 windows-defender
 windows-defender-application-control
 windows-environment
-windows-explorer
 windows-features
 windows-firewall
 windows-path
@@ -10766,6 +10784,7 @@ wql
 wrap
 wrap-text
 wrapper
+wrapperfunctions
 wrc
 wrike
 write
