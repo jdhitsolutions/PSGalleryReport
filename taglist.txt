@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Tuesday, 04 June 2024 02:07:37 UTC
+Updated: Tuesday, 04 June 2024 09:51:56 UTC
 
 .bat
 .env
@@ -71,6 +71,7 @@ aadsts
 aam
 aas
 aatp
+abc
 abc_testing
 abe
 about
@@ -351,8 +352,6 @@ anova
 ansi
 ansible
 ansible-control-node
-ansible-playbook
-ansible-vault
 ansiblecontrolnode
 anti-malware
 antimalwarescaninterface
@@ -523,7 +522,6 @@ atera
 athena
 atlas
 atlassian
-atlassiancli
 atlassianps
 atmosphere
 atom
@@ -755,6 +753,7 @@ backend
 backup
 backup_validation
 bamboo
+bamboohr
 bandwidth
 bank
 banking
@@ -965,6 +964,7 @@ buildkit
 buildkite
 buildmaster
 builds
+buildtool
 bulk
 bulletin
 bullhorn
@@ -1073,6 +1073,7 @@ censor
 center
 centra
 central
+central-management
 centralcredentialprovider
 centrastage
 centreon
@@ -1289,7 +1290,6 @@ cmtrace
 cmwt
 cns
 coa
-cockroachdb
 codaamok
 code
 code-page
@@ -1830,6 +1830,7 @@ deep-security
 deep-security-manager
 deepl
 deepvisibility
+def
 default
 defaultparameter
 defaultroutes
@@ -1842,6 +1843,7 @@ defenderast
 defenderforendpoint
 defenderforidentity
 defense
+deflate
 delegated
 delegation
 delegationmodel
@@ -1854,7 +1856,6 @@ dell
 dellemc
 delta
 demand
-demandsignal
 demo
 democratie
 demonstration
@@ -2075,6 +2076,7 @@ domainnamesystem
 domains
 domino
 done.land
+donothing
 dos
 dot
 dotenv
@@ -2182,6 +2184,7 @@ dust
 dutch
 dvls
 dword
+dxexpeditions
 dynamic
 dynamic-host-configuration-protocol
 dynamic-privileged-access
@@ -2934,6 +2937,7 @@ goldsource
 goldsource-dedicated-server
 google
 google-chrome
+google-fonts
 google-histogram
 google-sankey
 google-table
@@ -3031,6 +3035,7 @@ hacktoberfest
 hadoop
 hafr
 hailstone
+haipa
 halo
 haloitsm
 halopsa
@@ -3104,6 +3109,7 @@ helloworld
 helm
 helmet
 help
+helpdesk
 helpdoc
 helper
 helper-functions
@@ -3200,6 +3206,7 @@ hpesmartarraycmdlets
 hpesynergy
 hponeview
 hpwritemanager
+hris
 hrprovisioning
 hsdp
 hsl
@@ -3271,6 +3278,7 @@ icingawindows
 icloud
 icmp
 icon
+icons
 icraftsoftware
 ics
 icws
@@ -3352,7 +3360,6 @@ incidentresponse
 incontact
 indents
 index
-indexdb
 indicator
 inedo
 inetfwrule
@@ -3363,10 +3370,7 @@ influxdb
 info
 infoblox
 information
-information-technology
 informationbarriers
-informationtechnology
-informationtechnologyoperations
 informix
 infosec
 infrastructure
@@ -3524,7 +3528,6 @@ ispss
 issues
 isvalidemail
 isvalidip
-it
 it-support
 it-tool
 it-tools
@@ -3567,6 +3570,7 @@ jenkins
 jetbrains
 jira
 jiraservicemanagement
+jitbit
 jms
 jmsjavadownloads
 jnet
@@ -3616,6 +3620,7 @@ jwe
 jwk
 jws
 jwt
+jwttoken
 k8s
 k8sshell
 kafka
@@ -3862,7 +3867,6 @@ lock
 lockbox
 lockdisplaytimeout
 lockdown
-lockfile
 locking
 lockoutreport
 lockscreen
@@ -3925,6 +3929,7 @@ logtools
 logz
 loki
 lol
+lolcat
 longfile
 longfiles
 longitude
@@ -4180,7 +4185,6 @@ microsoftdefender
 microsoftdefenderatp
 microsoftdefenderforidentity
 microsoftdeploymenttoolkit
-microsoftendpointmanager
 microsoftexchangeserver
 microsoftfabric
 microsoftgraph
@@ -4287,7 +4291,6 @@ mp3
 mp4
 mpc
 mpeg
-mpn
 mrfk
 mrfylke
 mrvl_fc_powerkit
@@ -4451,7 +4454,6 @@ netextender
 netfirewallrule
 netherlands
 netmask
-nets
 netsapiens
 netscaler
 netscape
@@ -5060,7 +5062,6 @@ pncit
 pnp
 pnp.powershell
 pnpm
-poc
 pode
 poe
 poem
@@ -5163,6 +5164,7 @@ poshy-wrap-npm
 poshy-wrap-pip
 poshy-wrap-pipenv
 poshy-wrap-pyenv
+poshy-wrap-pylint
 poshy-wrap-python
 poshy-wrap-ruby
 poshy-wrap-systemctl
@@ -5214,6 +5216,7 @@ powerprotect_datamanager
 powersaving
 powerscheme
 powershell
+powershell_universal
 powershell-class
 powershell-cmdlets
 powershell-core
@@ -5375,6 +5378,7 @@ provider
 providerhub
 provision
 provisioning
+provisioningpackage
 provisonedpackage
 prowl
 prowl-notifications
@@ -6431,6 +6435,7 @@ pscommand_invoke-pipinstallupgrade
 pscommand_invoke-piplistoutdated
 pscommand_invoke-pipuninstall
 pscommand_invoke-pyenv
+pscommand_invoke-pylintreportsdisabled
 pscommand_invoke-ruby
 pscommand_invoke-rubyexecute
 pscommand_invoke-rubyexecutehttpdhere
@@ -6919,6 +6924,7 @@ pscommand_pwh
 pscommand_pwshrc-show-proxy
 pscommand_py
 pscommand_pyenv
+pscommand_pylint-quick
 pscommand_pyserver
 pscommand_python
 pscommand_python3
@@ -7839,6 +7845,7 @@ psfunction_invoke-pipinstallupgrade
 psfunction_invoke-piplistoutdated
 psfunction_invoke-pipuninstall
 psfunction_invoke-pyenv
+psfunction_invoke-pylintreportsdisabled
 psfunction_invoke-ruby
 psfunction_invoke-rubyexecute
 psfunction_invoke-rubyexecutehttpdhere
@@ -8372,7 +8379,6 @@ publicfolder
 publicholidays
 publicip
 publish
-publishedmodules
 publisher
 publishers
 publishing
@@ -8415,6 +8421,7 @@ pwshrc
 pxedistributionpoint
 pyenv
 pygmentize
+pylint
 pyranja
 python
 python-for-dotnet
@@ -8477,6 +8484,7 @@ radarr
 radio
 raidcontrollercmdlets
 railways
+rainbow
 raisers
 raisersedge
 raj
@@ -9392,7 +9400,6 @@ spacex
 spam
 spanner
 spark
-sparkline
 sparklines
 spawn
 spdockit
@@ -9606,6 +9613,7 @@ stringmanagertool
 strings
 stringtable
 stringutilities
+strip-ansi
 stripe
 strongname
 structure
@@ -9716,7 +9724,6 @@ syspip3
 sysprep
 system
 system information 1394 controller baseboard motherboard systemboard battery bios bus cache memory cd dvd rom drive compact disc desktop monitor disk partition fan floppy glide point heatpipe ide infrared device keyboard local logical array mouse'
-system-administration
 system-group
 system-service
 system-services
@@ -9803,7 +9810,6 @@ teamviewer
 techdirect
 techedna2014
 techlog
-technology
 techsmith
 tel
 telegram
@@ -9841,6 +9847,7 @@ terraform-switcher
 terraformcloud
 terrafun
 terragrunt
+tesla
 test
 test-automation
 test-dscconfiguration
@@ -10082,6 +10089,7 @@ twitter-api-v2
 twitter-client
 twitter-follow
 twitter-hashtag
+twitter-mention
 twitter-share
 twitter-timeline
 twitter-tweet
@@ -10109,8 +10117,10 @@ ud-breadcrumb
 ud-breadcrumbitem
 ud-burger
 ud-button
+ud-buttonloader
 ud-buttonparticle
 ud-calendar
+ud-circle
 ud-component
 ud-confetti
 ud-control
@@ -10129,6 +10139,7 @@ ud-mouseparticle
 ud-navbarsearch
 ud-numbermask
 ud-orgchart
+ud-piechart3d
 ud-pivottable
 ud-progressstepbar
 ud-rangeslider
@@ -10291,6 +10302,7 @@ uwp
 ux
 vadim
 vagrant
+vale
 validate
 validate-dcb
 validatedsolutions
@@ -10333,6 +10345,7 @@ vdp
 vdportgroup
 vdswitch
 vduplink
+ve7cc
 vector
 veeam
 veeampn
@@ -10634,6 +10647,7 @@ windows-control-panel
 windows-defender
 windows-defender-application-control
 windows-environment
+windows-explorer
 windows-features
 windows-firewall
 windows-path
@@ -10657,7 +10671,6 @@ windowscredentials
 windowscredentialsmanager
 windowsdataprotectionapi
 windowsdefender
-windowsdesktopsearch
 windowsevent
 windowseventlog
 windowsform
@@ -10885,7 +10898,6 @@ z
 zabbix
 zabbixps
 zap
-zap-zsh
 zcat
 zendesk
 zerotrust
