@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Tuesday, 04 June 2024 09:51:56 UTC
+Updated: Tuesday, 04 June 2024 17:51:53 UTC
 
 .bat
 .env
@@ -153,8 +153,6 @@ ad-report
 ad-site
 adal
 adapter
-adapter-control
-adapters
 adaptivecards
 adb
 adc
@@ -352,6 +350,8 @@ anova
 ansi
 ansible
 ansible-control-node
+ansible-playbook
+ansible-vault
 ansiblecontrolnode
 anti-malware
 antimalwarescaninterface
@@ -522,6 +522,7 @@ atera
 athena
 atlas
 atlassian
+atlassiancli
 atlassianps
 atmosphere
 atom
@@ -698,7 +699,6 @@ azuredatastudio
 azuredevops
 azuredevops_security
 azuredevopsserver
-azuredns
 azurefilesync
 azurefunctionapp
 azurefunctions
@@ -886,7 +886,6 @@ blueteam
 bluetraitio
 bluetuxedo
 bmc
-bnm
 boards
 bofh
 boilerplate
@@ -1290,6 +1289,7 @@ cmtrace
 cmwt
 cns
 coa
+cockroachdb
 codaamok
 code
 code-page
@@ -1856,6 +1856,7 @@ dell
 dellemc
 delta
 demand
+demandsignal
 demo
 democratie
 demonstration
@@ -1956,8 +1957,6 @@ dirkjan
 dirname
 dirsync
 disa
-disable
-disable-internet
 disable-psremoting
 disablefilesyncngsc
 disablestartbutton
@@ -2285,8 +2284,6 @@ emotion
 empire
 empty
 emwarehouse
-enable
-enable-internet
 enable-psremoting
 enable-psremotingremote
 enbrea
@@ -2442,7 +2439,6 @@ exchangeonline
 exchangeonlinemanagement
 exchangeonlineprotection
 exchangeonprem
-exchangerate
 exchangeserver
 exchangewebservices
 exclusion
@@ -3340,7 +3336,6 @@ imap
 imb
 imei
 imi
-impala
 impersonation
 imperva
 import
@@ -3360,6 +3355,7 @@ incidentresponse
 incontact
 indents
 index
+indexdb
 indicator
 inedo
 inetfwrule
@@ -3370,7 +3366,10 @@ influxdb
 info
 infoblox
 information
+information-technology
 informationbarriers
+informationtechnology
+informationtechnologyoperations
 informix
 infosec
 infrastructure
@@ -3528,6 +3527,7 @@ ispss
 issues
 isvalidemail
 isvalidip
+it
 it-support
 it-tool
 it-tools
@@ -3867,6 +3867,7 @@ lock
 lockbox
 lockdisplaytimeout
 lockdown
+lockfile
 locking
 lockoutreport
 lockscreen
@@ -3966,7 +3967,6 @@ machine
 machinelearning
 machinelearningcompute
 machinelearningservices
-macmon
 macos
 macosx
 macro
@@ -4185,6 +4185,7 @@ microsoftdefender
 microsoftdefenderatp
 microsoftdefenderforidentity
 microsoftdeploymenttoolkit
+microsoftendpointmanager
 microsoftexchangeserver
 microsoftfabric
 microsoftgraph
@@ -4256,7 +4257,6 @@ moduleupdateinfo
 moduleupdater
 moduleversion
 mof
-moldova
 moment
 monaco
 monday
@@ -4291,6 +4291,7 @@ mp3
 mp4
 mpc
 mpeg
+mpn
 mrfk
 mrfylke
 mrvl_fc_powerkit
@@ -4399,7 +4400,6 @@ mytest
 n-able
 n-central
 nabu
-nac
 nagios
 name
 name-of-dogs
@@ -4454,6 +4454,7 @@ netextender
 netfirewallrule
 netherlands
 netmask
+nets
 netsapiens
 netscaler
 netscape
@@ -5062,6 +5063,7 @@ pncit
 pnp
 pnp.powershell
 pnpm
+poc
 pode
 poe
 poem
@@ -8323,9 +8325,6 @@ pspath
 pspersonio
 pspowerhour
 psprofiler
-psproject
-psprojectcreator
-psprojectgenerator
 psprovider
 psprtg
 pspublicapi
@@ -8379,6 +8378,7 @@ publicfolder
 publicholidays
 publicip
 publish
+publishedmodules
 publisher
 publishers
 publishing
@@ -9148,7 +9148,6 @@ sessions
 set
 set_bios
 set-alias
-set-dnsservers
 set-githubsecrets
 set-itemproperty
 set-location
@@ -9400,6 +9399,7 @@ spacex
 spam
 spanner
 spark
+sparkline
 sparklines
 spawn
 spdockit
@@ -9724,6 +9724,7 @@ syspip3
 sysprep
 system
 system information 1394 controller baseboard motherboard systemboard battery bios bus cache memory cd dvd rom drive compact disc desktop monitor disk partition fan floppy glide point heatpipe ide infrared device keyboard local logical array mouse'
+system-administration
 system-group
 system-service
 system-services
@@ -9810,6 +9811,7 @@ teamviewer
 techdirect
 techedna2014
 techlog
+technology
 techsmith
 tel
 telegram
@@ -10565,7 +10567,6 @@ webhook
 webinspect
 webjea
 webmanagement
-webmanagementservice
 webpage
 webpi
 webreport
@@ -10671,6 +10672,7 @@ windowscredentials
 windowscredentialsmanager
 windowsdataprotectionapi
 windowsdefender
+windowsdesktopsearch
 windowsevent
 windowseventlog
 windowsform
@@ -10898,6 +10900,7 @@ z
 zabbix
 zabbixps
 zap
+zap-zsh
 zcat
 zendesk
 zerotrust
