@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 03 June 2024 17:51:53 UTC
+Updated: Tuesday, 04 June 2024 02:07:37 UTC
 
 .bat
 .env
@@ -71,7 +71,6 @@ aadsts
 aam
 aas
 aatp
-abc
 abc_testing
 abe
 about
@@ -656,6 +655,7 @@ azsk
 azsql
 azstackhci
 azstate
+azsubnet
 aztools
 azts
 azuead
@@ -755,7 +755,6 @@ backend
 backup
 backup_validation
 bamboo
-bamboohr
 bandwidth
 bank
 banking
@@ -954,6 +953,7 @@ budget
 bugbounty
 bugzilla
 build
+build-log
 build-scripts
 builddefinition
 builder
@@ -965,12 +965,12 @@ buildkit
 buildkite
 buildmaster
 builds
-buildtool
 bulk
 bulletin
 bullhorn
 bundle
 bup
+burnttoast
 burpsuite
 bus
 business
@@ -1073,7 +1073,6 @@ censor
 center
 centra
 central
-central-management
 centralcredentialprovider
 centrastage
 centreon
@@ -1328,6 +1327,7 @@ color-hex
 color-rgb
 color-show
 colored
+colorful
 colorized
 colorpicker
 colors
@@ -1438,6 +1438,7 @@ connectexchange
 connection
 connectionmonitor
 connections
+connectionsmanager
 connectionstring
 connectivity
 connector
@@ -1829,7 +1830,6 @@ deep-security
 deep-security-manager
 deepl
 deepvisibility
-def
 default
 defaultparameter
 defaultroutes
@@ -1842,7 +1842,6 @@ defenderast
 defenderforendpoint
 defenderforidentity
 defense
-deflate
 delegated
 delegation
 delegationmodel
@@ -1887,6 +1886,7 @@ detection
 detectionrule
 deutschland
 dev
+dev-tools
 devart
 devcenter
 devdeer
@@ -1977,7 +1977,9 @@ diskfree
 diskimage
 diskpart
 diskpool
+disksize
 diskspace
+diskusage
 dism
 dismal
 display
@@ -2073,7 +2075,6 @@ domainnamesystem
 domains
 domino
 done.land
-donothing
 dos
 dot
 dotenv
@@ -2181,7 +2182,6 @@ dust
 dutch
 dvls
 dword
-dxexpeditions
 dynamic
 dynamic-host-configuration-protocol
 dynamic-privileged-access
@@ -2365,6 +2365,7 @@ esp32
 esp32s2
 espressif
 esri
+essbase
 estimate
 estimation
 esx
@@ -2490,6 +2491,7 @@ extendedevents
 extendedproperties
 extendedproperty
 extendscript
+extensibility
 extension
 extensionmethods
 extensionrisk
@@ -2564,6 +2566,8 @@ file-encoding
 file-extension
 file-extension-association
 file-invalidchar
+file-matcher
+file-matching
 file-monitoring
 file-name
 file-name-extension
@@ -2580,6 +2584,7 @@ filelist
 filelog
 filelogger
 filemanagement
+filematcher
 filename
 filenames
 fileproperties
@@ -2596,6 +2601,9 @@ filesharing
 filestorage
 filestream
 filesystem
+filesystementry-matcher
+filesystementry-matching
+filesystementrymatcher
 filesystemrights
 filesystemsecurity
 filesystemwatcher
@@ -2991,6 +2999,7 @@ groupmembership
 grouppolicy
 groups
 grouvee
+growlnotify
 grr
 gsuite
 gtx1080ti
@@ -3022,7 +3031,6 @@ hacktoberfest
 hadoop
 hafr
 hailstone
-haipa
 halo
 haloitsm
 halopsa
@@ -3096,7 +3104,6 @@ helloworld
 helm
 helmet
 help
-helpdesk
 helpdoc
 helper
 helper-functions
@@ -3124,6 +3131,7 @@ hierarchical
 hierarchy
 high-availability
 highlight
+highlighting
 highrise
 hint
 hipaa
@@ -3132,6 +3140,7 @@ hipchat
 hiragana
 histogram
 history
+historyninja
 hitrust
 hive
 hivehome
@@ -3191,7 +3200,6 @@ hpesmartarraycmdlets
 hpesynergy
 hponeview
 hpwritemanager
-hris
 hrprovisioning
 hsdp
 hsl
@@ -3263,7 +3271,6 @@ icingawindows
 icloud
 icmp
 icon
-icons
 icraftsoftware
 ics
 icws
@@ -3560,7 +3567,6 @@ jenkins
 jetbrains
 jira
 jiraservicemanagement
-jitbit
 jms
 jmsjavadownloads
 jnet
@@ -3610,7 +3616,6 @@ jwe
 jwk
 jws
 jwt
-jwttoken
 k8s
 k8sshell
 kafka
@@ -3625,6 +3630,7 @@ katakana
 kb
 kbarticle
 kdbx
+kdialog
 keenetic
 keepachangelog
 keepass
@@ -3810,6 +3816,7 @@ links
 linq
 linqpad
 lint
+linting
 linux
 linux-command
 linuxssh
@@ -3918,7 +3925,6 @@ logtools
 logz
 loki
 lol
-lolcat
 longfile
 longfiles
 longitude
@@ -4550,8 +4556,10 @@ notes
 notification
 notificationhubs
 notifications
+notifu
 notify
 notify-send
+notify-send-wsl
 nova
 npgsql
 npm
@@ -5126,6 +5134,7 @@ poshy-ls-isms
 poshy-lucidity
 poshy-multimedia
 poshy-net
+poshy-notify-send
 poshy-sh-isms
 poshy-sshconfig
 poshy-viewer-finder
@@ -5366,7 +5375,6 @@ provider
 providerhub
 provision
 provisioning
-provisioningpackage
 provisonedpackage
 prowl
 prowl-notifications
@@ -6840,6 +6848,7 @@ pscommand_nmap_ping_through_firewall
 pscommand_nmap_slow
 pscommand_nmap_traceroute
 pscommand_nmap_web_safe_osscan
+pscommand_notify-send-fallback
 pscommand_npm-disable-proxy
 pscommand_npm-enable-proxy
 pscommand_npm-show-proxy
@@ -8101,6 +8110,7 @@ psfunction_nmap_ping_through_firewall
 psfunction_nmap_slow
 psfunction_nmap_traceroute
 psfunction_nmap_web_safe_osscan
+psfunction_notify-send-fallback
 psfunction_npm-disable-proxy
 psfunction_npm-enable-proxy
 psfunction_npm-show-proxy
@@ -8467,7 +8477,6 @@ radarr
 radio
 raidcontrollercmdlets
 railways
-rainbow
 raisers
 raisersedge
 raj
@@ -8620,6 +8629,8 @@ remote-desktop
 remote'
 remoteadmin
 remotecert
+remoteconnection
+remoteconnectionsmanager
 remotecontrol
 remotedesktop
 remotedesktopconnectionmanager
@@ -9098,6 +9109,7 @@ servermanagement
 servers
 service
 service-bus
+service-messages
 servicebus
 servicebusforwindowsserver
 servicecatalog
@@ -9594,7 +9606,6 @@ stringmanagertool
 strings
 stringtable
 stringutilities
-strip-ansi
 stripe
 strongname
 structure
@@ -9613,6 +9624,7 @@ submission
 subnet
 subnet-calculator
 subnetcalulator
+subnetdetails
 subnetmapping
 subnetmask
 subnetmaths
@@ -9820,6 +9832,7 @@ terminal
 terminal-interface
 terminal-services
 terminal.gui
+terminalnotifier
 terminalvelocity
 termset
 terraform
@@ -9923,6 +9936,8 @@ tip
 tips
 title
 tls
+tls11
+tls12
 tlsa
 tlsprotocol
 tlsrpt
@@ -10067,7 +10082,6 @@ twitter-api-v2
 twitter-client
 twitter-follow
 twitter-hashtag
-twitter-mention
 twitter-share
 twitter-timeline
 twitter-tweet
@@ -10095,10 +10109,8 @@ ud-breadcrumb
 ud-breadcrumbitem
 ud-burger
 ud-button
-ud-buttonloader
 ud-buttonparticle
 ud-calendar
-ud-circle
 ud-component
 ud-confetti
 ud-control
@@ -10117,7 +10129,6 @@ ud-mouseparticle
 ud-navbarsearch
 ud-numbermask
 ud-orgchart
-ud-piechart3d
 ud-pivottable
 ud-progressstepbar
 ud-rangeslider
@@ -10280,7 +10291,6 @@ uwp
 ux
 vadim
 vagrant
-vale
 validate
 validate-dcb
 validatedsolutions
@@ -10323,7 +10333,6 @@ vdp
 vdportgroup
 vdswitch
 vduplink
-ve7cc
 vector
 veeam
 veeampn
@@ -10417,6 +10426,7 @@ vmwcluster
 vmwdatacenter
 vmwfolder
 vmwvmhost
+vnet
 vnmonitoring
 vnugglets
 vnugglets.com
@@ -10594,6 +10604,7 @@ widedata
 wif
 wifi
 wiki
+wildcard
 wildfire
 wildfly
 wim
@@ -10623,7 +10634,6 @@ windows-control-panel
 windows-defender
 windows-defender-application-control
 windows-environment
-windows-explorer
 windows-features
 windows-firewall
 windows-path
