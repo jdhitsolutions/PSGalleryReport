@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Tuesday, 04 June 2024 17:51:53 UTC
+Updated: Wednesday, 05 June 2024 02:07:16 UTC
 
 .bat
 .env
@@ -153,6 +153,8 @@ ad-report
 ad-site
 adal
 adapter
+adapter-control
+adapters
 adaptivecards
 adb
 adc
@@ -190,7 +192,6 @@ adlds
 adm
 admf
 admin
-admin-tools
 adminbyrequest
 admindirectory
 administration
@@ -629,7 +630,6 @@ awspricelist
 axapta
 axinom
 axis
-axium
 az
 az-cli
 az.runtimeenvironment
@@ -648,10 +648,8 @@ aznetworkinterface
 aznicdetails
 azops
 azpublicipaddress
-azresources
 azsdk
 azsk
-azsql
 azstackhci
 azstate
 azsubnet
@@ -717,7 +715,6 @@ azurepolicy
 azurepowershell
 azurerepos
 azureresourcemanager
-azureresources
 azureresourcestuff
 azurerestapispecs
 azurerm
@@ -818,7 +815,6 @@ bibtex
 bicep
 bicepnet
 big-ip
-big-iq
 bigcommerce
 bigeval
 bigfix
@@ -886,6 +882,7 @@ blueteam
 bluetraitio
 bluetuxedo
 bmc
+bnm
 boards
 bofh
 boilerplate
@@ -951,7 +948,6 @@ budget
 bugbounty
 bugzilla
 build
-build-log
 build-scripts
 builddefinition
 builder
@@ -1127,7 +1123,6 @@ chef-compliance
 chef-server
 chefconf2016
 chenxizhang
-cherrypy
 cherwell
 chfs
 chi
@@ -1738,7 +1733,6 @@ datacollectionrule
 dataconduit
 dataconnectivity
 datadog
-dataexchange
 dataexplorer
 datafactory
 dataflow
@@ -1780,7 +1774,6 @@ datum
 dave
 davinci
 dax
-dayinweek
 days
 days-week
 db
@@ -1844,6 +1837,7 @@ defenderforendpoint
 defenderforidentity
 defense
 deflate
+defrag
 delegated
 delegation
 delegationmodel
@@ -1957,6 +1951,8 @@ dirkjan
 dirname
 dirsync
 disa
+disable
+disable-internet
 disable-psremoting
 disablefilesyncngsc
 disablestartbutton
@@ -2191,7 +2187,6 @@ dynamicdistributiongroups
 dynamicdnsoverhttps
 dynamicparam
 dynamicparameters
-dynamicparams
 dynamics
 dynamics-365
 dynamics-crm
@@ -2284,6 +2279,8 @@ emotion
 empire
 empty
 emwarehouse
+enable
+enable-internet
 enable-psremoting
 enable-psremotingremote
 enbrea
@@ -2439,6 +2436,7 @@ exchangeonline
 exchangeonlinemanagement
 exchangeonlineprotection
 exchangeonprem
+exchangerate
 exchangeserver
 exchangewebservices
 exclusion
@@ -2639,7 +2637,6 @@ finops
 firebird
 firefox
 firewall
-firewall-management
 firewallrule
 firmware
 firmwareanalysis
@@ -2933,7 +2930,6 @@ goldsource
 goldsource-dedicated-server
 google
 google-chrome
-google-fonts
 google-histogram
 google-sankey
 google-table
@@ -3006,7 +3002,6 @@ gtx1080ti
 guardedfabric
 guardicore
 gubbins
-guest
 guestconfiguration
 guests
 gui
@@ -3336,6 +3331,7 @@ imap
 imb
 imei
 imi
+impala
 impersonation
 imperva
 import
@@ -3701,7 +3697,6 @@ kudu
 kurukuru
 kusto
 kvm
-kvp
 kvt
 l1tf
 l2tp
@@ -3967,6 +3962,7 @@ machine
 machinelearning
 machinelearningcompute
 machinelearningservices
+macmon
 macos
 macosx
 macro
@@ -4257,6 +4253,7 @@ moduleupdateinfo
 moduleupdater
 moduleversion
 mof
+moldova
 moment
 monaco
 monday
@@ -4400,6 +4397,7 @@ mytest
 n-able
 n-central
 nabu
+nac
 nagios
 name
 name-of-dogs
@@ -4426,7 +4424,6 @@ ncal
 ndes
 nebulon
 nec-infrared-transmission-protocol
-necli
 nederland
 nedyalkov
 neo4j
@@ -4450,7 +4447,6 @@ netappfiles
 netbox
 netcease
 netcore
-netextender
 netfirewallrule
 netherlands
 netmask
@@ -4480,7 +4476,6 @@ networkinterfaces
 networkloadbalancer
 networkpolicyserver
 networkscan
-networksecurity
 networksecuritygroup
 networkshares
 netwrix
@@ -4759,7 +4754,9 @@ ops
 opsi
 opsmgr
 optics
+optimise
 optimization
+optimize
 optimizer
 option
 option119
@@ -8325,6 +8322,9 @@ pspath
 pspersonio
 pspowerhour
 psprofiler
+psproject
+psprojectcreator
+psprojectgenerator
 psprovider
 psprtg
 pspublicapi
@@ -8450,7 +8450,6 @@ qrcodes
 qrp
 qrs
 quality
-qualys
 quandl
 quantum
 quarantine
@@ -8689,7 +8688,6 @@ repos
 repositories
 repository
 request
-requestfiltering
 requiredmodules
 requirements
 res
@@ -8713,7 +8711,6 @@ resourcecontroller
 resourcegraph
 resourcegroup
 resourcegroups
-resourceid
 resourcekit
 resourcemanager
 resourcemover
@@ -8722,7 +8719,6 @@ resourcescheduler
 resourcesearch
 response
 rest
-rest_cherrypy
 rest-api
 restapi
 restart
@@ -8872,8 +8868,6 @@ sale
 sales
 salesforce
 salesloft
-salt
-salt-api
 saltstack
 saltstackconfig
 saltstackenterprise
@@ -9117,7 +9111,6 @@ servermanagement
 servers
 service
 service-bus
-service-messages
 servicebus
 servicebusforwindowsserver
 servicecatalog
@@ -9148,6 +9141,7 @@ sessions
 set
 set_bios
 set-alias
+set-dnsservers
 set-githubsecrets
 set-itemproperty
 set-location
@@ -9372,7 +9366,6 @@ sonarqube
 sonarr
 sonatype
 songs
-sonicos
 sonicwall
 sonicwallvpn
 sonus
@@ -9399,7 +9392,6 @@ spacex
 spam
 spanner
 spark
-sparkline
 sparklines
 spawn
 spdockit
@@ -9465,11 +9457,9 @@ sqlclient
 sqlcmd
 sqlcodeguard
 sqldatabase
-sqldb
 sqldbatools
 sqldiagapi
 sqlexport
-sqlgateway
 sqlite
 sqlitebynarymodule
 sqlitebynarypsmodule
@@ -9510,10 +9500,7 @@ ssl
 sslcert
 sslcertificate
 sslflags
-ssllabs
-ssllabs-scan
 sslprotocol
-sslvpn
 ssm
 sso
 sspi
@@ -9662,7 +9649,6 @@ supermarket
 support
 support-tool
 support-tools
-suppress
 supress-reboot
 surestacks
 surround
@@ -9972,7 +9958,6 @@ toolkit
 tools
 tools4ever
 topdesk
-topgrade
 topics
 topology
 tor
@@ -10153,7 +10138,6 @@ ud-signature
 ud-simpledrawer
 ud-singleselect
 ud-slider
-ud-speechbubble
 ud-step
 ud-stepbar
 ud-stickynavbar
@@ -10353,7 +10337,6 @@ veeam
 veeampn
 veeva
 venafi
-vencord
 vendor
 venue
 venvlink
@@ -10567,6 +10550,7 @@ webhook
 webinspect
 webjea
 webmanagement
+webmanagementservice
 webpage
 webpi
 webreport
@@ -10644,13 +10628,10 @@ windows explorer
 windows_events
 windows-10
 windows-api
-windows-control-panel
-windows-defender
 windows-defender-application-control
 windows-environment
 windows-explorer
 windows-features
-windows-firewall
 windows-path
 windows-powershell
 windows-registry
@@ -10826,8 +10807,6 @@ wvd
 www
 x-cart
 x.509
-x1
-x2
 x509
 x509cerificate
 x509cerificate2
@@ -10873,8 +10852,6 @@ xpo
 xprotect
 xpt
 xrm
-xsa
-xtremio
 xtrude
 xunit
 xwiki
