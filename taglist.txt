@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Thursday, 06 June 2024 02:07:46 UTC
+Updated: Thursday, 06 June 2024 09:51:46 UTC
 
 .bat
 .env
@@ -263,6 +263,7 @@ airpower
 airpwr
 airtable
 ais
+aispeech
 aivision
 ajustee
 aka.ms
@@ -303,9 +304,9 @@ alpine
 alt3
 alter
 alteryx
-alwaysontop
 alwaysonvpn
 alz
+amateur
 amateur-data-interchange-format
 amateur-radio
 amateurradio
@@ -343,6 +344,7 @@ animate-svg
 animation
 animations
 annotated
+announcement
 announcementsservice
 anonymous
 anova
@@ -429,6 +431,9 @@ appwrite
 appx
 appxmanifest
 aprs
+aprs-is
+aprsis
+aprsthursday
 aps
 apt
 apt-get
@@ -575,6 +580,7 @@ autologon
 automai
 automanage
 automate
+automated
 automatedlab
 automatenow
 automaticpacketreportingsystem
@@ -743,8 +749,6 @@ azvm
 b2
 back
 backblaze
-backconnection
-backconnectionhostname
 backend
 backup
 backup_validation
@@ -962,6 +966,7 @@ buildmaster
 builds
 buildtool
 bulk
+bulletin
 bullhorn
 bundle
 bup
@@ -1735,7 +1740,6 @@ dataconduit
 dataconnectivity
 datadog
 dataexchange
-dataexplorer
 datafactory
 dataflow
 dataflowdependency
@@ -1996,7 +2000,6 @@ distributionlist
 distributionpointgroupmembers
 distrubtionpoint
 dividends
-diving
 division
 divoom
 diy
@@ -2274,6 +2277,7 @@ emailnotificationcomponent
 emailsecurity
 embedded
 emc
+emcomm
 emergency
 emissions
 emoji
@@ -2365,6 +2369,7 @@ esp32
 esp32s2
 espressif
 esri
+essbase
 estimate
 estimation
 esx
@@ -2634,7 +2639,6 @@ findlocation
 findplace
 findproxyforurl
 fine-print
-fine-tuning
 finops
 firebird
 firefox
@@ -2787,7 +2791,6 @@ games
 gameserver
 gaming
 garage
-gas
 gat
 gateway
 gauge
@@ -2932,7 +2935,6 @@ goldengate
 goldsource
 goldsource-dedicated-server
 google
-google-chrome
 google-fonts
 google-histogram
 google-sankey
@@ -2962,6 +2964,7 @@ gpo-tools
 gpodoc
 gpolinks
 gpp
+gps
 gpt
 gpt3
 gpx
@@ -3026,6 +3029,7 @@ ha
 haarlemsdagblad
 hack
 hacking
+hacktoberfest
 hadoop
 hafr
 hailstone
@@ -3035,6 +3039,8 @@ haloitsm
 halopsa
 haloservicedesk
 haloservicesolutions
+ham
+hamradio
 hamradiodeluxe
 hana
 hanaon
@@ -3561,6 +3567,8 @@ jde
 jdedwards
 jdt
 jea
+jea_module
+jeanalyzer
 jenkins
 jetbrains
 jira
@@ -3698,6 +3706,7 @@ kusto
 kvm
 kvp
 kvt
+l1tf
 l2tp
 lab
 labautomation
@@ -3722,6 +3731,7 @@ lamp
 lan
 landingzones
 language
+languagedsc
 languageexperiencepack
 languagepack
 lansweeper
@@ -4237,7 +4247,6 @@ mobilitycontroller
 mock
 mocking
 model
-modeling
 modify
 module
 module-maintenance
@@ -4521,7 +4530,6 @@ ninjaone
 ninjarmm
 nios
 nist
-nitrox
 njclipsh
 nl
 nla
@@ -4833,7 +4841,6 @@ ovh
 owasp
 owls
 owner
-oxygen
 oxyplot
 p2000
 p2s
@@ -5183,7 +5190,6 @@ post
 postgre
 postgres
 postgresql
-potato
 pow
 powdrgit
 power
@@ -5227,8 +5233,6 @@ powershell-dsc
 powershell-examples
 powershell-gallery
 powershell-github-repo
-powershell-gitlab
-powershell-graphql
 powershell-isprime
 powershell-lightning
 powershell-module
@@ -5331,7 +5335,6 @@ process-inspector
 processing
 processmitigation
 processor
-procmap
 procs
 producer
 product
@@ -8996,7 +8999,6 @@ scrolllock
 scrub
 scrubber
 scsm
-scuba
 sd
 sddl
 sdk
@@ -9070,7 +9072,6 @@ selectxmlinfo
 selenium
 self
 self-hosted
-self-service
 self-signed
 selfdispatch
 selfhelp
@@ -9519,7 +9520,6 @@ sslvpn
 ssm
 sso
 sspi
-sspr
 ssrs
 ssst
 sstp
@@ -9538,7 +9538,6 @@ standard
 standarderror
 standardoutput
 standards
-standbypool
 stansummary
 start
 start-job
@@ -9795,6 +9794,7 @@ tcp
 tcp/ip
 tcpip
 tcpport
+tcprjmgmt
 tcpserver
 tcptest
 tcx
@@ -10077,7 +10077,6 @@ tubedownloader
 tui
 tulpep
 tuner
-tuning
 tutorial
 tv
 tweet
@@ -10150,8 +10149,11 @@ ud-readingbar
 ud-scrollspy
 ud-selectdatetime
 ud-selector
+ud-signature
 ud-simpledrawer
+ud-singleselect
 ud-slider
+ud-speechbubble
 ud-step
 ud-stepbar
 ud-stickynavbar
@@ -10165,7 +10167,6 @@ ud-typing
 ud-window
 ud-wordtree
 udcm
-udfeedback
 udp
 udpclient
 udptest
@@ -10179,7 +10180,6 @@ ui/ux
 ui7
 uk
 ul
-ulid
 ultimatetool
 um
 uml
@@ -10295,7 +10295,6 @@ utils
 utm
 uudecode
 uuencode
-uuid
 uup
 uw
 uwp
@@ -10476,6 +10475,7 @@ vs
 vs-shell
 vsa
 vsa9
+vsan
 vsan+
 vscode
 vsdevcmd
@@ -10499,6 +10499,7 @@ vulnerabilities
 vulnerability
 vulnerabilityassessment
 vulnerabilityscanning
+vum
 vvx
 vxrail
 w32time
@@ -10696,6 +10697,7 @@ windowsserver2019
 windowsservercoresecurity
 windowsserverguisecurity
 windowsservice
+windowsservices
 windowsstore
 windowsterminal
 windowstimezone
@@ -10820,6 +10822,7 @@ wunderlist
 wus
 wvd
 www
+x-cart
 x.509
 x1
 x2
