@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Wednesday, 05 June 2024 17:51:47 UTC
+Updated: Thursday, 06 June 2024 02:07:46 UTC
 
 .bat
 .env
@@ -263,7 +263,6 @@ airpower
 airpwr
 airtable
 ais
-aispeech
 aivision
 ajustee
 aka.ms
@@ -307,7 +306,6 @@ alteryx
 alwaysontop
 alwaysonvpn
 alz
-amateur
 amateur-data-interchange-format
 amateur-radio
 amateurradio
@@ -315,6 +313,7 @@ amazon
 amazonaws
 amazonmgn
 amazonwebservices
+amend
 ami
 amiga
 amp
@@ -329,6 +328,7 @@ analyst
 analyth
 analytics
 analyticsrules
+analyze
 analyzer
 analyzerrules
 anchor
@@ -343,7 +343,6 @@ animate-svg
 animation
 animations
 annotated
-announcement
 announcementsservice
 anonymous
 anova
@@ -430,9 +429,6 @@ appwrite
 appx
 appxmanifest
 aprs
-aprs-is
-aprsis
-aprsthursday
 aps
 apt
 apt-get
@@ -579,7 +575,6 @@ autologon
 automai
 automanage
 automate
-automated
 automatedlab
 automatenow
 automaticpacketreportingsystem
@@ -629,6 +624,7 @@ awspricelist
 axapta
 axinom
 axis
+axium
 az
 az-cli
 az.runtimeenvironment
@@ -966,7 +962,6 @@ buildmaster
 builds
 buildtool
 bulk
-bulletin
 bullhorn
 bundle
 bup
@@ -1103,6 +1098,7 @@ changeanalysis
 changelog
 channel
 channel9
+char
 character
 chart
 charting
@@ -1304,6 +1300,7 @@ codegen
 codegeneration
 codegenerator
 codellama
+codepoint
 codereview
 codes
 codesign
@@ -1818,6 +1815,7 @@ declarative
 decline
 decode
 decode64
+decoding
 decompiler
 decrypt
 decryption
@@ -2192,6 +2190,7 @@ dynamicdistributiongroups
 dynamicdnsoverhttps
 dynamicparam
 dynamicparameters
+dynamicparams
 dynamics
 dynamics-365
 dynamics-crm
@@ -2275,7 +2274,6 @@ emailnotificationcomponent
 emailsecurity
 embedded
 emc
-emcomm
 emergency
 emissions
 emoji
@@ -2367,7 +2365,6 @@ esp32
 esp32s2
 espressif
 esri
-essbase
 estimate
 estimation
 esx
@@ -2439,6 +2436,7 @@ exchangeon-premise
 exchangeon-premises
 exchangeonline
 exchangeonlinemanagement
+exchangeonlineprotection
 exchangeonprem
 exchangerate
 exchangeserver
@@ -2644,6 +2642,7 @@ firewall
 firewall-management
 firewallrule
 firmware
+firmwareanalysis
 first
 fisher
 fissionproducts
@@ -2963,7 +2962,6 @@ gpo-tools
 gpodoc
 gpolinks
 gpp
-gps
 gpt
 gpt3
 gpx
@@ -3037,8 +3035,6 @@ haloitsm
 halopsa
 haloservicedesk
 haloservicesolutions
-ham
-hamradio
 hamradiodeluxe
 hana
 hanaon
@@ -3481,6 +3477,7 @@ iothub
 iothubproperties
 ip
 ip-address
+ip-scanner
 ipa
 ipaddress
 ipam
@@ -3564,8 +3561,6 @@ jde
 jdedwards
 jdt
 jea
-jea_module
-jeanalyzer
 jenkins
 jetbrains
 jira
@@ -3703,7 +3698,6 @@ kusto
 kvm
 kvp
 kvt
-l1tf
 l2tp
 lab
 labautomation
@@ -3728,7 +3722,6 @@ lamp
 lan
 landingzones
 language
-languagedsc
 languageexperiencepack
 languagepack
 lansweeper
@@ -4351,6 +4344,7 @@ mssqlserver
 msteams
 mstest
 mstsc
+msu
 msvc
 msword
 mta-sts
@@ -5099,6 +5093,7 @@ popd
 population
 popup
 port
+port-scanner
 port70
 portal
 porthunter
@@ -5165,6 +5160,7 @@ poshy-wrap-kubectl
 poshy-wrap-maven
 poshy-wrap-nginx
 poshy-wrap-nmap
+poshy-wrap-npm
 poshy-wrap-pip
 poshy-wrap-pipenv
 poshy-wrap-pyenv
@@ -6401,6 +6397,24 @@ pscommand_invoke-mavenpackage
 pscommand_invoke-mavenreleaseperform
 pscommand_invoke-mavenreleaseprepare
 pscommand_invoke-mavenreleaserollback
+pscommand_invoke-npmbinmungedpath
+pscommand_invoke-npminfo
+pscommand_invoke-npminit
+pscommand_invoke-npminstallforcefully
+pscommand_invoke-npminstallglobally
+pscommand_invoke-npminstallsave
+pscommand_invoke-npminstallsavedev
+pscommand_invoke-npmlist
+pscommand_invoke-npmlistdepth0
+pscommand_invoke-npmoutdated
+pscommand_invoke-npmpublish
+pscommand_invoke-npmrun
+pscommand_invoke-npmrundev
+pscommand_invoke-npmsearch
+pscommand_invoke-npmstart
+pscommand_invoke-npmtest
+pscommand_invoke-npmupdate
+pscommand_invoke-npmversion
 pscommand_invoke-pipenvcheck
 pscommand_invoke-pipenvclean
 pscommand_invoke-pipenvgraph
@@ -6843,6 +6857,23 @@ pscommand_notify-send-fallback
 pscommand_npm-disable-proxy
 pscommand_npm-enable-proxy
 pscommand_npm-show-proxy
+pscommand_npmd
+pscommand_npme
+pscommand_npmf
+pscommand_npmg
+pscommand_npmi
+pscommand_npml
+pscommand_npml0
+pscommand_npmo
+pscommand_npmp
+pscommand_npmr
+pscommand_npmrd
+pscommand_npms
+pscommand_npmse
+pscommand_npmst
+pscommand_npmt
+pscommand_npmu
+pscommand_npmv
 pscommand_open_command
 pscommand_pch
 pscommand_pcl
@@ -7776,6 +7807,24 @@ psfunction_invoke-mavenpackage
 psfunction_invoke-mavenreleaseperform
 psfunction_invoke-mavenreleaseprepare
 psfunction_invoke-mavenreleaserollback
+psfunction_invoke-npmbinmungedpath
+psfunction_invoke-npminfo
+psfunction_invoke-npminit
+psfunction_invoke-npminstallforcefully
+psfunction_invoke-npminstallglobally
+psfunction_invoke-npminstallsave
+psfunction_invoke-npminstallsavedev
+psfunction_invoke-npmlist
+psfunction_invoke-npmlistdepth0
+psfunction_invoke-npmoutdated
+psfunction_invoke-npmpublish
+psfunction_invoke-npmrun
+psfunction_invoke-npmrundev
+psfunction_invoke-npmsearch
+psfunction_invoke-npmstart
+psfunction_invoke-npmtest
+psfunction_invoke-npmupdate
+psfunction_invoke-npmversion
 psfunction_invoke-pipenvcheck
 psfunction_invoke-pipenvclean
 psfunction_invoke-pipenvgraph
@@ -8292,6 +8341,7 @@ psrule-rules
 pssa
 psscriptanalyzer
 psscriptanaylzer
+psscriptsmonitoring
 pssendgrid
 pssession
 pssharper
@@ -8401,6 +8451,7 @@ qrcodes
 qrp
 qrs
 quality
+qualys
 quandl
 quantum
 quarantine
@@ -8493,6 +8544,7 @@ readthedocs
 real-time
 realschule
 realtimeprotection
+rebase
 reboot
 rebootnodeifneeded
 reckon
@@ -8632,6 +8684,7 @@ reportingservicepoint
 reportingservices
 reportportal
 reportportal.io
+reportrunner
 reports
 repos
 repositories
@@ -8691,6 +8744,8 @@ reversedsc
 reverseengineering
 review
 revision
+reword
+rewrite
 rexec
 rfc1305
 rfc1436
@@ -8746,6 +8801,7 @@ rot13
 rotate
 rotation
 round
+roundrobindatabase
 route
 route53
 routeconfig
@@ -8762,6 +8818,7 @@ royaltsx
 rpa
 rpc
 rras
+rrd
 rs
 rsa
 rsat
@@ -8934,6 +8991,7 @@ scriptmodule
 scriptoform
 scriptrunner
 scripts
+scriptsmonitoring
 scrolllock
 scrub
 scrubber
@@ -9284,6 +9342,7 @@ snmpwalk
 snowflake
 snsmssqlpsmodule
 snspsadgroupmembers
+snspsscriptsmonitoring
 snssqlitepsmodule
 sntp
 soap
@@ -9342,6 +9401,7 @@ spacex
 spam
 spanner
 spark
+sparkline
 sparklines
 spawn
 spdockit
@@ -9386,6 +9446,7 @@ sports-tracker
 spotify
 spotify-api
 spotlight
+spotlightimages
 spp
 spread
 spreadsheet
@@ -9451,6 +9512,8 @@ ssl
 sslcert
 sslcertificate
 sslflags
+ssllabs
+ssllabs-scan
 sslprotocol
 sslvpn
 ssm
@@ -9732,7 +9795,6 @@ tcp
 tcp/ip
 tcpip
 tcpport
-tcprjmgmt
 tcpserver
 tcptest
 tcx
@@ -10088,11 +10150,8 @@ ud-readingbar
 ud-scrollspy
 ud-selectdatetime
 ud-selector
-ud-signature
 ud-simpledrawer
-ud-singleselect
 ud-slider
-ud-speechbubble
 ud-step
 ud-stepbar
 ud-stickynavbar
@@ -10416,7 +10475,7 @@ vrtu
 vs
 vs-shell
 vsa
-vsan
+vsa9
 vsan+
 vscode
 vsdevcmd
@@ -10440,7 +10499,6 @@ vulnerabilities
 vulnerability
 vulnerabilityassessment
 vulnerabilityscanning
-vum
 vvx
 vxrail
 w32time
@@ -10638,7 +10696,6 @@ windowsserver2019
 windowsservercoresecurity
 windowsserverguisecurity
 windowsservice
-windowsservices
 windowsstore
 windowsterminal
 windowstimezone
@@ -10763,7 +10820,6 @@ wunderlist
 wus
 wvd
 www
-x-cart
 x.509
 x1
 x2
