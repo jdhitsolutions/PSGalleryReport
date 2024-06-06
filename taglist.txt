@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Thursday, 06 June 2024 09:51:46 UTC
+Updated: Thursday, 06 June 2024 17:51:55 UTC
 
 .bat
 .env
@@ -304,6 +304,7 @@ alpine
 alt3
 alter
 alteryx
+alwaysontop
 alwaysonvpn
 alz
 amateur
@@ -487,7 +488,6 @@ asc
 ascii
 ascii85
 asciiart
-asdatabase
 asigra
 asjob
 asm
@@ -513,7 +513,6 @@ assistance
 assistant
 association
 ast
-astronomy
 asv
 asymmetric
 async
@@ -654,7 +653,6 @@ azsdk
 azsk
 azsql
 azstackhci
-azstate
 azsubnet
 aztools
 azts
@@ -671,7 +669,6 @@ azure-forensics
 azure-functions
 azure-pipelines
 azure-resource-graph
-azure-ssis
 azureactivedirectory
 azuread
 azureadbackupandrestore
@@ -736,7 +733,6 @@ azuresqlimport
 azuressas
 azurestack
 azurestackhci
-azurestate
 azurestorage
 azurestorageservices
 azuresync
@@ -749,6 +745,8 @@ azvm
 b2
 back
 backblaze
+backconnection
+backconnectionhostname
 backend
 backup
 backup_validation
@@ -825,7 +823,6 @@ bigfix
 bigquery
 bikeshed
 billing
-billingbenefits
 bimi
 bin
 bin-obj
@@ -1020,8 +1017,6 @@ capslock
 captcha
 capture
 carbon
-carbonawarecomputing
-carbonintensity
 card
 cardwirth
 cares
@@ -1740,6 +1735,7 @@ dataconduit
 dataconnectivity
 datadog
 dataexchange
+dataexplorer
 datafactory
 dataflow
 dataflowdependency
@@ -1881,7 +1877,6 @@ desiredstate
 desiredstateconfiguration
 desk
 desktop
-desktops
 desktopvirtualization
 details
 detect
@@ -2000,6 +1995,7 @@ distributionlist
 distributionpointgroupmembers
 distrubtionpoint
 dividends
+diving
 division
 divoom
 diy
@@ -2639,6 +2635,7 @@ findlocation
 findplace
 findproxyforurl
 fine-print
+fine-tuning
 finops
 firebird
 firefox
@@ -2651,7 +2648,6 @@ first
 fisher
 fissionproducts
 fitbit
-fits
 five
 five9
 fix-log
@@ -2765,7 +2761,6 @@ full-metal-gnome
 fullclr
 fulljoin
 fullmetalgnome
-fullscreen
 fun
 function
 functionality
@@ -2775,7 +2770,6 @@ funds
 funny
 fusion
 fusionapps
-fuzzy
 fyi
 fzf
 gac
@@ -2791,6 +2785,7 @@ games
 gameserver
 gaming
 garage
+gas
 gat
 gateway
 gauge
@@ -2806,7 +2801,6 @@ gcs
 gdap
 gdpr
 gedit
-gem
 gemini
 geminiprotocol
 gemlog
@@ -2935,6 +2929,7 @@ goldengate
 goldsource
 goldsource-dedicated-server
 google
+google-chrome
 google-fonts
 google-histogram
 google-sankey
@@ -3434,7 +3429,6 @@ intellisense
 interactive
 interactive-brokers
 interface
-interlogix
 internal
 internet
 internet-explorer
@@ -3524,7 +3518,6 @@ isnumeric
 iso
 iso-3166-1
 iso-8601
-ispac
 isprime
 ispss
 issues
@@ -3542,7 +3535,6 @@ items
 itemstack
 iterate
 iteration
-itg
 itglue
 itin
 itop
@@ -4247,10 +4239,10 @@ mobilitycontroller
 mock
 mocking
 model
+modeling
 modify
 module
 module-maintenance
-modulebuild
 modulecreation
 modulefast
 modulemanagement
@@ -4530,6 +4522,7 @@ ninjaone
 ninjarmm
 nios
 nist
+nitrox
 njclipsh
 nl
 nla
@@ -4552,7 +4545,6 @@ normal
 norskale
 norway
 norwegian
-nos
 nosql
 note
 notebook
@@ -4571,7 +4563,6 @@ nova
 npgsql
 npm
 npm-proxy
-npm-upgrade
 nprinting
 nprintingapi
 nps
@@ -4841,6 +4832,7 @@ ovh
 owasp
 owls
 owner
+oxygen
 oxyplot
 p2000
 p2s
@@ -4974,7 +4966,6 @@ perforce
 performance
 performance-counters
 performancemonitoring
-perl
 permission
 permissions
 permutations
@@ -5121,7 +5112,6 @@ poshbot
 poshcommence
 poshevents
 poshgraph
-poshgraph-sdk
 poshgrouppolicy
 poshkeepass
 poshlog
@@ -5156,7 +5146,6 @@ poshy-wrap-docker
 poshy-wrap-docker-compose
 poshy-wrap-dotnet
 poshy-wrap-forgit
-poshy-wrap-gem
 poshy-wrap-gh
 poshy-wrap-git
 poshy-wrap-git-flow
@@ -5171,7 +5160,6 @@ poshy-wrap-npm
 poshy-wrap-pip
 poshy-wrap-pipenv
 poshy-wrap-pyenv
-poshy-wrap-pylint
 poshy-wrap-python
 poshy-wrap-ruby
 poshy-wrap-systemctl
@@ -5190,12 +5178,11 @@ post
 postgre
 postgres
 postgresql
+potato
 pow
 powdrgit
 power
-power-apps
 power-cbr
-power-platform
 power-shell
 powerapps
 powerappsportal
@@ -5233,6 +5220,8 @@ powershell-dsc
 powershell-examples
 powershell-gallery
 powershell-github-repo
+powershell-gitlab
+powershell-graphql
 powershell-isprime
 powershell-lightning
 powershell-module
@@ -5271,7 +5260,6 @@ powertab
 powertoolcmdlets
 powertooldsc
 ppdm
-ppk
 pposh
 pps
 ppt
@@ -5335,6 +5323,7 @@ process-inspector
 processing
 processmitigation
 processor
+procmap
 procs
 producer
 product
@@ -5825,19 +5814,6 @@ pscommand_gdsth
 pscommand_gdstp
 pscommand_gdt
 pscommand_gdv
-pscommand_geca
-pscommand_gecb
-pscommand_geclup
-pscommand_gecr
-pscommand_gegi
-pscommand_geh
-pscommand_gei
-pscommand_geiall
-pscommand_gein
-pscommand_gel
-pscommand_geli
-pscommand_geo
-pscommand_geoe
 pscommand_get
 pscommand_get-aptinstalledpackages
 pscommand_get-childitemcolorfully
@@ -5905,7 +5881,6 @@ pscommand_get-netipaddresssimple
 pscommand_get-pwshaliasdefinition
 pscommand_get-pwshfunctiondefinition
 pscommand_get-viewer
-pscommand_geun
 pscommand_gexport
 pscommand_gf
 pscommand_gfa
@@ -6179,22 +6154,6 @@ pscommand_invoke-dockercomposeupdetached
 pscommand_invoke-dockercomposeupdetachedwithbuild
 pscommand_invoke-dockercomposeupnostart
 pscommand_invoke-dockercomposeupwithbuild
-pscommand_invoke-gemcertadd
-pscommand_invoke-gemcertbuild
-pscommand_invoke-gemcertremove
-pscommand_invoke-gemcleanupno
-pscommand_invoke-gemgenerateindex
-pscommand_invoke-gemhelp
-pscommand_invoke-geminfo
-pscommand_invoke-geminfoall
-pscommand_invoke-geminstall
-pscommand_invoke-gemlist
-pscommand_invoke-gemlock
-pscommand_invoke-gemopen
-pscommand_invoke-gemopeneditor
-pscommand_invoke-gemremovebypattern
-pscommand_invoke-gemsystem
-pscommand_invoke-gemuninstall
 pscommand_invoke-git
 pscommand_invoke-gitaddinteractivelypatch
 pscommand_invoke-gitbisect
@@ -6438,7 +6397,6 @@ pscommand_invoke-pipinstallupgrade
 pscommand_invoke-piplistoutdated
 pscommand_invoke-pipuninstall
 pscommand_invoke-pyenv
-pscommand_invoke-pylintreportsdisabled
 pscommand_invoke-ruby
 pscommand_invoke-rubyexecute
 pscommand_invoke-rubyexecutehttpdhere
@@ -6927,14 +6885,12 @@ pscommand_pwh
 pscommand_pwshrc-show-proxy
 pscommand_py
 pscommand_pyenv
-pscommand_pylint-quick
 pscommand_pyserver
 pscommand_python
 pscommand_python3
 pscommand_rb
 pscommand_read-dotenv
 pscommand_register-argcompleteargumentcompleter
-pscommand_remove_gem
 pscommand_remove-dockercontainerall
 pscommand_remove-dockerunusedimage
 pscommand_remove-envpathitem
@@ -6994,7 +6950,6 @@ pscommand_set-locationup2
 pscommand_set-locationup3
 pscommand_set-locationup4
 pscommand_set-locationup5
-pscommand_sgem
 pscommand_show-gitremote
 pscommand_show-proxy
 pscommand_shttp
@@ -7589,22 +7544,6 @@ psfunction_invoke-dockercomposeupdetached
 psfunction_invoke-dockercomposeupdetachedwithbuild
 psfunction_invoke-dockercomposeupnostart
 psfunction_invoke-dockercomposeupwithbuild
-psfunction_invoke-gemcertadd
-psfunction_invoke-gemcertbuild
-psfunction_invoke-gemcertremove
-psfunction_invoke-gemcleanupno
-psfunction_invoke-gemgenerateindex
-psfunction_invoke-gemhelp
-psfunction_invoke-geminfo
-psfunction_invoke-geminfoall
-psfunction_invoke-geminstall
-psfunction_invoke-gemlist
-psfunction_invoke-gemlock
-psfunction_invoke-gemopen
-psfunction_invoke-gemopeneditor
-psfunction_invoke-gemremovebypattern
-psfunction_invoke-gemsystem
-psfunction_invoke-gemuninstall
 psfunction_invoke-git
 psfunction_invoke-gitaddinteractivelypatch
 psfunction_invoke-gitbisect
@@ -7848,7 +7787,6 @@ psfunction_invoke-pipinstallupgrade
 psfunction_invoke-piplistoutdated
 psfunction_invoke-pipuninstall
 psfunction_invoke-pyenv
-psfunction_invoke-pylintreportsdisabled
 psfunction_invoke-ruby
 psfunction_invoke-rubyexecute
 psfunction_invoke-rubyexecutehttpdhere
@@ -8425,7 +8363,6 @@ pwshrc
 pxedistributionpoint
 pyenv
 pygmentize
-pylint
 pyranja
 python
 python-for-dotnet
@@ -8999,6 +8936,7 @@ scrolllock
 scrub
 scrubber
 scsm
+scuba
 sd
 sddl
 sdk
@@ -9072,6 +9010,7 @@ selectxmlinfo
 selenium
 self
 self-hosted
+self-service
 self-signed
 selfdispatch
 selfhelp
@@ -9520,6 +9459,7 @@ sslvpn
 ssm
 sso
 sspi
+sspr
 ssrs
 ssst
 sstp
@@ -9538,6 +9478,7 @@ standard
 standarderror
 standardoutput
 standards
+standbypool
 stansummary
 start
 start-job
@@ -9689,7 +9630,6 @@ sybase
 sybaseiq
 symantec
 symbolic
-symbolic_link
 symboliclink
 symbols
 symbolservers
@@ -9821,7 +9761,6 @@ telegram-bot-api
 telegram-sticker
 telegramx
 telemetry
-teletext
 telligent
 telnet
 temp
@@ -10053,7 +9992,6 @@ true-color
 truecrypt
 truenas
 trumethods
-truportal
 trusted
 trusted-host
 trustedhosts
@@ -10077,6 +10015,7 @@ tubedownloader
 tui
 tulpep
 tuner
+tuning
 tutorial
 tv
 tweet
@@ -10149,7 +10088,6 @@ ud-readingbar
 ud-scrollspy
 ud-selectdatetime
 ud-selector
-ud-signature
 ud-simpledrawer
 ud-singleselect
 ud-slider
@@ -10167,6 +10105,7 @@ ud-typing
 ud-window
 ud-wordtree
 udcm
+udfeedback
 udp
 udpclient
 udptest
@@ -10180,6 +10119,7 @@ ui/ux
 ui7
 uk
 ul
+ulid
 ultimatetool
 um
 uml
@@ -10295,6 +10235,7 @@ utils
 utm
 uudecode
 uuencode
+uuid
 uup
 uw
 uwp
@@ -10739,7 +10680,6 @@ wmipermanentevents
 wol
 wolfram
 wolframalpha
-woocommerce
 woolworths
 woolworthsrewards
 word
@@ -10917,7 +10857,6 @@ zoomapi
 zoommeeting
 zoxide
 zsh
-zuora
 zvm
 zvml
 zvmlinux
