@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Friday, 07 June 2024 02:08:50 UTC
+Updated: Friday, 07 June 2024 09:51:46 UTC
 
 .bat
 .env
@@ -20,7 +20,6 @@ Updated: Friday, 07 June 2024 02:08:50 UTC
 🍣
 💩
 🙇
-1&1
 10
 11
 1607
@@ -253,6 +252,7 @@ agnoster
 ahk
 ai
 aianomalydetection
+aidocument
 ailanguage
 aim
 aip
@@ -273,7 +273,6 @@ al
 alac
 alarm
 alb
-albums
 alc
 alero
 alert
@@ -407,6 +406,7 @@ application-control
 application-transformer
 application-whitelisting
 applicationgateway
+applicationgrid
 applicationhost.config
 applicationinsights
 applicationmigration
@@ -510,6 +510,7 @@ assetintelligencepoint
 assets
 assistance
 assistant
+association
 ast
 astronomy
 asv
@@ -621,6 +622,7 @@ aws
 aws_profile
 aws-codebuild
 aws-lambda
+aws-vault
 aws.tools.powershell
 awscli
 awspricelist
@@ -1108,6 +1110,7 @@ chart
 charting
 charts
 chat
+chatbot
 chatgpt
 chatops
 chatroom
@@ -1161,6 +1164,7 @@ cimi
 ciminstance
 cims
 cimsession
+cinema
 cinst
 cipher
 circuit-breaker
@@ -1314,6 +1318,7 @@ cognitiveservices
 cohesity
 coinmarketcap
 collaboration
+collatordso
 collatz
 collection
 collectionmembershipevaluationcomponent
@@ -1379,7 +1384,6 @@ component
 composer
 composite
 compositeresource
-compoundproperty
 compress
 compression
 compute
@@ -1426,6 +1430,7 @@ connect-mstsc
 connect-rdp
 connect-remotedesktop
 connect-samcmsite
+connected
 connectedkubernetes
 connectedmachine
 connectednetwork
@@ -1457,7 +1462,6 @@ containerinstances
 containerregistry
 containers
 containment
-contentprep
 context
 context-menu-shortcut
 continious-deploy
@@ -1524,7 +1528,7 @@ cos
 cosmos
 cosmosdb
 cost
-costmanagement
+cost-management
 costoptimization
 couchbase
 couchdb
@@ -1752,6 +1756,7 @@ dataplatform
 datapro
 dataprotection
 dataquality
+datarow
 datasafe
 datascience
 dataset
@@ -1774,6 +1779,7 @@ datum
 dave
 davinci
 dax
+dayinweek
 days
 days-week
 db
@@ -1850,6 +1856,7 @@ dell
 dellemc
 delta
 demand
+demandsignal
 demo
 democratie
 demonstration
@@ -1881,7 +1888,6 @@ detection
 detectionrule
 deutschland
 dev
-dev-tools
 devart
 devcenter
 devdeer
@@ -1942,6 +1948,7 @@ directory psedition_core psedition_desktop
 directory-transform
 directorymarks
 directoryname
+directorysearcher
 directorysecurity
 directrouting
 direnv
@@ -2166,6 +2173,7 @@ dump
 dumpify
 dumping
 dumps
+dupes
 duplicate
 duplicate-files
 duplicatioin
@@ -2254,6 +2262,7 @@ elmah-io
 elonmusk
 eloqua
 elvish
+elvui
 em
 emacs
 email
@@ -2293,6 +2302,7 @@ endomondo
 endpoint
 endpoints
 energy
+engagement
 engine
 engineevent
 english
@@ -2332,7 +2342,6 @@ epicor
 episode
 epplus
 eprosima
-epub
 epv
 equality
 erb
@@ -2358,6 +2367,7 @@ esp32
 esp32s2
 espressif
 esri
+essbase
 estimate
 estimation
 esx
@@ -2367,7 +2377,6 @@ ether
 etherassist
 ethereum
 ethr
-ethz
 etl
 etl2pcapng
 etrade
@@ -2431,6 +2440,7 @@ exchangeonline
 exchangeonlinemanagement
 exchangeonlineprotection
 exchangeonprem
+exchangerate
 exchangeserver
 exchangewebservices
 exclusion
@@ -2477,7 +2487,9 @@ exportteams
 expression
 extend
 extended
+extendedattributes
 extendedevents
+extendedproperties
 extendedproperty
 extendscript
 extensibility
@@ -2567,6 +2579,7 @@ file-system
 file-transform
 file-type
 file-type-association
+fileattributes
 fileencryption
 filelist
 filelog
@@ -2575,6 +2588,7 @@ filemanagement
 filematcher
 filename
 filenames
+fileproperties
 filereplication
 files
 files-cli
@@ -2595,8 +2609,10 @@ filesystemrights
 filesystemsecurity
 filesystemwatcher
 filetransfer
+filetype
 filewrite
 fill
+film
 filter
 filter-item
 filtering
@@ -2621,7 +2637,6 @@ findplace
 findproxyforurl
 fine-print
 fine-tuning
-finops
 firebird
 firefox
 firewall
@@ -2636,8 +2651,6 @@ fitbit
 fits
 five
 five9
-fix-log
-fix-protocol
 fixlet
 fixpack
 flac
@@ -2879,8 +2892,6 @@ git-lfs
 git-proxy
 git-rename
 git-stat
-gitcmdline
-gitdesktop
 gitea
 gitflow
 gitforwindows
@@ -2919,9 +2930,9 @@ goldsource
 goldsource-dedicated-server
 google
 google-chrome
-google-fonts
 google-histogram
 google-sankey
+google-table
 googleadsv2
 googlecloudplatform
 googledrive
@@ -3153,9 +3164,11 @@ homeschooling
 hon
 hooking
 horizon
+horizontal
 hornbill
 host
 host-based
+hosted
 hostentry
 hostfile
 hostinstance
@@ -3456,7 +3469,6 @@ invoke-webrequest
 invokebuild
 invokemethod
 io
-ionos
 ios
 iot
 iotcentral
@@ -3517,10 +3529,7 @@ it-tool
 it-tools
 italic-text
 item
-itemlist
-itemobject
 items
-itemstack
 iterate
 iteration
 itg
@@ -3548,6 +3557,8 @@ jde
 jdedwards
 jdt
 jea
+jea_module
+jeanalyzer
 jenkins
 jetbrains
 jira
@@ -3718,6 +3729,8 @@ laps
 laragon
 laserbeams
 last
+last.fm
+lastfm
 lastlogon
 lastpass
 latency
@@ -3727,11 +3740,13 @@ latitude
 launcher
 layer
 layman
+layout
 lazywinadmin
 lbi
 lbs
 lccn
 lcm
+lcminternals
 ldap
 leafs
 league
@@ -3799,7 +3814,6 @@ links
 linq
 linqpad
 lint
-linting
 linux
 linux-command
 linuxssh
@@ -3931,6 +3945,8 @@ lunches
 lwa
 lxca
 lxcapstool
+lxco
+lxcopstool
 lync
 m365
 m365defenderstuff
@@ -3948,6 +3964,7 @@ macos
 macosx
 macro
 macros
+madlib
 magazine
 magento
 magic8ball
@@ -3956,6 +3973,8 @@ magnet
 mail
 mailbox
 mailchimp
+mailgroup
+mailgroupmember
 mailing
 mailkit
 mails
@@ -4021,6 +4040,9 @@ marquee
 marvel
 marvell
 marvell_semiconductor_inc
+marvellfcpowerkit
+marvellfcprovider
+marvellqlogicfcpowerkit
 mas
 mask
 mass
@@ -4151,7 +4173,6 @@ microsoft365
 microsoft365dsc
 microsoftauthenticationlibrary
 microsoftazure
-microsoftcloud
 microsoftdefender
 microsoftdefenderatp
 microsoftdefenderforidentity
@@ -4227,6 +4248,7 @@ moduleupdate
 moduleupdateinfo
 moduleupdater
 moduleversion
+mof
 moldova
 moment
 monaco
@@ -4249,6 +4271,7 @@ monthlyupdate
 moodle
 moonshot
 more
+mosaic
 motd
 motivation
 motivationalquotes
@@ -4264,6 +4287,8 @@ mpeg
 mpn
 mrfk
 mrfylke
+mrvl_fc_powerkit
+mrvlfcprovider
 ms_365
 ms-graph
 ms365
@@ -4296,6 +4321,7 @@ msi psmodule
 msiexec
 msil
 msix
+mslab
 msmq
 msol
 msoms
@@ -4306,6 +4332,7 @@ msp360
 mspbackups
 msproject
 msrc
+msrdc
 mssql
 mssqlbynarymodule
 mssqlbynarypsmodule
@@ -4424,6 +4451,7 @@ netmask
 nets
 netsapiens
 netscaler
+netscape
 netsec
 netsh
 netspell
@@ -4465,6 +4493,7 @@ new-samcmapplicationfrompackagedefinitionsms
 new-samcmpackagefrompackagedefinitionsms
 new-system
 new-udmorph
+new-win32app
 newpassword
 newrelic
 news
@@ -4984,6 +5013,7 @@ pinvoke
 pip
 pip3
 pipe
+pipedrive
 pipeline
 pipelinelastexecution
 pipelines
@@ -5011,7 +5041,6 @@ play
 playback
 playbook
 player
-playlists
 playwright
 pleasant
 pleasantpasswordserver
@@ -5029,7 +5058,6 @@ pncit
 pnp
 pnp.powershell
 pnpm
-poc
 pode
 poe
 poem
@@ -5147,6 +5175,7 @@ poshy-wrap-wt
 poshy-wrap-yum
 poshy-wrap-zypper
 position
+post
 postgre
 postgres
 postgresql
@@ -5260,7 +5289,6 @@ presentation
 presenter
 presto
 preston-k-parsard
-prettifier
 pretty
 prettyprinter
 preview
@@ -8272,6 +8300,8 @@ psm
 psm1
 psmodule
 psmodule psedition_desktop
+psmodulepath
+psmodules
 psmp
 psmsgraph
 psmsgraphapi
@@ -8327,6 +8357,7 @@ pstwitter
 pswa
 pswindocumentation
 pswinreporting
+pswinreportingv2
 psword
 pswriteword
 psyaml
@@ -8392,7 +8423,9 @@ python
 python-for-dotnet
 python3
 qcloud
+qconvergeconsolepowerkit
 qemu
+qlgc_fc_powerkit
 qlik
 qlik-api
 qlik-sense
@@ -8402,6 +8435,8 @@ qlikview
 qlikview-cli
 qlogic
 qlogicfastlinqpowerkit
+qlogicfcpowerkit
+qlogicfcprovider
 qna
 qol
 qq
@@ -8480,6 +8515,7 @@ rcs
 rcu
 rdb
 rdbms
+rdc
 rdcman
 rdcmanager
 rdfe
@@ -8488,13 +8524,13 @@ rdl
 rdm
 rdp
 rdpsession
+rdpsign
 rds
 rdsgw
 react-stockcharts
 read
 read-slog
 readable
-reader
 readiness
 readme
 readpdf
@@ -8592,6 +8628,7 @@ remedy
 reminder
 remote
 remote-browser
+remote-desktop
 remote'
 remoteadmin
 remotecert
@@ -8634,7 +8671,6 @@ replace
 replaygain
 replication
 repo
-repoo
 report
 reporting
 reportingservicepoint
@@ -8648,7 +8684,6 @@ repositories
 repository
 request
 requestfiltering
-requiredmodules
 requirements
 res
 rescan
@@ -8661,7 +8696,6 @@ resize
 resolution
 resolve
 resolve-dnsname
-resolve-stache
 resolve-template
 resolver
 resource
@@ -8687,6 +8721,7 @@ restart
 restful
 restore
 resume
+retail
 retention
 retro
 retry
@@ -8812,6 +8847,7 @@ rust-lang
 ryanairps
 ryver
 s.ds.p
+s1
 s3
 s4b
 saas
@@ -8827,7 +8863,6 @@ sailpoint
 sale
 sales
 salesforce
-salesloft
 salt
 salt-api
 saltstack
@@ -9399,6 +9434,7 @@ sport
 sports
 sports-tracker
 spotify
+spotify-api
 spotlight
 spotlightimages
 spp
@@ -9477,7 +9513,6 @@ sspr
 ssrs
 ssst
 sstp
-stache
 stackexchange
 stackhci
 stackhcivm
@@ -9563,7 +9598,6 @@ stretch
 strictmode
 strikethrough-text
 string
-string-template
 stringmanager
 stringmanagertool
 strings
@@ -9597,6 +9631,7 @@ subnetting
 subscribedskus
 subscription
 subscriptiondefinition
+subset
 subsystem
 subtitle
 subversion
@@ -9684,6 +9719,7 @@ system-group
 system-service
 system-services
 system.directoryservices.protocols
+system.text
 systemadmins
 systemcenter
 systemcolors
@@ -9792,6 +9828,7 @@ teradata
 termbin
 terminal
 terminal-interface
+terminal-services
 terminal.gui
 terminalnotifier
 terminalvelocity
@@ -10046,6 +10083,7 @@ twitter-follow
 twitter-hashtag
 twitter-mention
 twitter-share
+twitter-timeline
 twitter-tweet
 txt
 type
@@ -10094,12 +10132,14 @@ ud-navbarsearch
 ud-numbermask
 ud-orgchart
 ud-piechart3d
+ud-pivottable
 ud-progressstepbar
 ud-rangeslider
 ud-readingbar
 ud-scrollspy
 ud-selectdatetime
 ud-selector
+ud-signature
 ud-simpledrawer
 ud-singleselect
 ud-slider
@@ -10316,6 +10356,7 @@ version
 versioning
 versionmanager
 versionnumber
+vertical
 vester
 vhd
 vhdx
@@ -10469,7 +10510,6 @@ wakeup
 walk
 wallet
 wallpaper
-wallpapers
 wannacry
 wansi
 wap
@@ -10540,6 +10580,7 @@ webview2
 wec
 wecutil
 weekday
+wef
 weixin
 well-known
 wem
@@ -10582,6 +10623,7 @@ win32
 win32_installedwin32program
 win32_operatingsystem
 win32-api
+win32appmigrationtool
 win32shutdown
 winbgp
 windchillrv&s
@@ -10625,6 +10667,7 @@ windowsevent
 windowseventlog
 windowsform
 windowsforms
+windowsindex
 windowsinstaller
 windowsinternaldatabase
 windowsinternals
@@ -10722,6 +10765,7 @@ workstation
 world
 worldcup
 worryfreebusinesssecurity
+wow
 wpad
 wpf
 wql
@@ -10748,7 +10792,6 @@ writeaccess
 writelog
 writemanager
 writeprogress
-writer
 ws-federation
 wsapi
 wsb
@@ -10830,6 +10873,7 @@ yahoo
 yahw
 yamaha
 yaml
+yandex
 yapg
 yarn
 yetanotherhelloworld
