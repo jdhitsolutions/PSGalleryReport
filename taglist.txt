@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Friday, 07 June 2024 09:51:46 UTC
+Updated: Friday, 07 June 2024 17:52:08 UTC
 
 .bat
 .env
@@ -10,7 +10,6 @@ Updated: Friday, 07 June 2024 09:51:46 UTC
 'azure'
 'blob storage'
 'code owls'
-'files
 'provider'
 "interactive
 {modulenameplaceholder}
@@ -20,6 +19,7 @@ Updated: Friday, 07 June 2024 09:51:46 UTC
 🍣
 💩
 🙇
+1&1
 10
 11
 1607
@@ -28,7 +28,6 @@ Updated: Friday, 07 June 2024 09:51:46 UTC
 1803
 1809
 1c
-1e
 1password
 1poshword
 200
@@ -127,7 +126,6 @@ activedirectoryauthenticationlibrary
 activedirectorycertificateservices
 activedirectoryfederationservices
 activedirectry-html
-activeefficiency
 activehours
 activenet
 activenetworkstation
@@ -232,8 +230,6 @@ adwords
 adx
 adxingestion
 aem
-aeries
-aeriessis
 aes
 afd
 affinity
@@ -253,7 +249,6 @@ ahk
 ai
 aianomalydetection
 aidocument
-ailanguage
 aim
 aip
 aipscanner
@@ -273,6 +268,7 @@ al
 alac
 alarm
 alb
+albums
 alc
 alero
 alert
@@ -1110,7 +1106,6 @@ chart
 charting
 charts
 chat
-chatbot
 chatgpt
 chatops
 chatroom
@@ -1164,7 +1159,6 @@ cimi
 ciminstance
 cims
 cimsession
-cinema
 cinst
 cipher
 circuit-breaker
@@ -1239,7 +1233,6 @@ cloud-computing
 cloud-init
 cloud-iq
 cloudant
-cloudbees
 cloudberry
 cloudblue
 cloudbolt
@@ -1265,13 +1258,11 @@ cloudshell
 clueser
 cluster
 clusterminimumvalues
-clusterplacementgroups
 clusterplugins
 cmaccounts
 cmake
 cmakepresets.json
 cmbuild
-cmclibnet
 cmclustermaintenance
 cmd
 cmdb
@@ -1318,7 +1309,6 @@ cognitiveservices
 cohesity
 coinmarketcap
 collaboration
-collatordso
 collatz
 collection
 collectionmembershipevaluationcomponent
@@ -1352,7 +1342,6 @@ commandlets
 commandline
 commands
 commandsandresource
-commence
 comment
 comments
 commerce
@@ -1384,6 +1373,7 @@ component
 composer
 composite
 compositeresource
+compoundproperty
 compress
 compression
 compute
@@ -1462,6 +1452,7 @@ containerinstances
 containerregistry
 containers
 containment
+contentprep
 context
 context-menu-shortcut
 continious-deploy
@@ -1483,7 +1474,6 @@ controlroom
 controlup
 conventional
 conventional-commits
-convereter
 converged_data_management
 conversational
 conversion
@@ -1516,7 +1506,6 @@ cooltag2
 coordinates
 copilot
 copy
-copy-item
 copypaste
 copyright
 core
@@ -1641,9 +1630,6 @@ curious
 curl
 curlie
 currency
-currency-convereter
-currency-exchange
-currencyconverterapi
 current
 curseforge
 custom
@@ -1888,6 +1874,7 @@ detection
 detectionrule
 deutschland
 dev
+dev-tools
 devart
 devcenter
 devdeer
@@ -1933,7 +1920,6 @@ diff
 difference
 dig
 digikam
-digital
 digital-forensics
 digitalforensics
 digitalocean
@@ -2342,6 +2328,7 @@ epicor
 episode
 epplus
 eprosima
+epub
 epv
 equality
 erb
@@ -2377,6 +2364,7 @@ ether
 etherassist
 ethereum
 ethr
+ethz
 etl
 etl2pcapng
 etrade
@@ -2418,7 +2406,6 @@ evilprince2009
 evolutionary-algorithms
 evolutionary-database
 evtx
-ews
 exact
 example
 examples
@@ -2427,7 +2414,6 @@ exception
 exceptionless
 exchange
 exchange_online
-exchange-rates
 exchange2010
 exchange2013
 exchange2016
@@ -2442,7 +2428,6 @@ exchangeonlineprotection
 exchangeonprem
 exchangerate
 exchangeserver
-exchangewebservices
 exclusion
 excuse
 exe
@@ -2612,7 +2597,6 @@ filetransfer
 filetype
 filewrite
 fill
-film
 filter
 filter-item
 filtering
@@ -2651,6 +2635,8 @@ fitbit
 fits
 five
 five9
+fix-log
+fix-protocol
 fixlet
 fixpack
 flac
@@ -2892,6 +2878,8 @@ git-lfs
 git-proxy
 git-rename
 git-stat
+gitcmdline
+gitdesktop
 gitea
 gitflow
 gitforwindows
@@ -2930,6 +2918,7 @@ goldsource
 goldsource-dedicated-server
 google
 google-chrome
+google-fonts
 google-histogram
 google-sankey
 google-table
@@ -3053,7 +3042,6 @@ hardening
 hardlink
 hardmatch
 hardware
-harperdb
 hartokens
 harvest
 harvestforecast
@@ -3118,7 +3106,6 @@ hex
 hexdump
 hg
 hibernate
-hibernation
 hibp
 hidden
 hide
@@ -3469,6 +3456,7 @@ invoke-webrequest
 invokebuild
 invokemethod
 io
+ionos
 ios
 iot
 iotcentral
@@ -3529,7 +3517,10 @@ it-tool
 it-tools
 italic-text
 item
+itemlist
+itemobject
 items
+itemstack
 iterate
 iteration
 itg
@@ -3814,6 +3805,7 @@ links
 linq
 linqpad
 lint
+linting
 linux
 linux-command
 linuxssh
@@ -3995,7 +3987,6 @@ manage-wmi
 manageability
 managed
 managed-identity
-manageddevices
 manageddisks
 managedidentities
 managedidentity
@@ -4077,7 +4068,6 @@ mct
 md5
 md5_v2-18678d945a01f01ccd1b01ed86392fd5
 mdatp
-mdb
 mdbc
 mde
 mdep
@@ -4239,7 +4229,6 @@ modeling
 modify
 module
 module-maintenance
-modulebuild
 modulecreation
 modulefast
 modulemanagement
@@ -4248,7 +4237,6 @@ moduleupdate
 moduleupdateinfo
 moduleupdater
 moduleversion
-mof
 moldova
 moment
 monaco
@@ -4810,8 +4798,6 @@ otp
 ou
 ou-object
 oui-search
-oura
-ouraring
 out-consolegridview
 out-default
 out-gridview
@@ -5041,6 +5027,7 @@ play
 playback
 playbook
 player
+playlists
 playwright
 pleasant
 pleasantpasswordserver
@@ -5058,6 +5045,7 @@ pncit
 pnp
 pnp.powershell
 pnpm
+poc
 pode
 poe
 poem
@@ -5107,7 +5095,6 @@ posh-git
 posh-ribbon
 posh-ssh
 poshbot
-poshcommence
 poshevents
 poshgraph
 poshgraph-sdk
@@ -5175,7 +5162,6 @@ poshy-wrap-wt
 poshy-wrap-yum
 poshy-wrap-zypper
 position
-post
 postgre
 postgres
 postgresql
@@ -5289,6 +5275,7 @@ presentation
 presenter
 presto
 preston-k-parsard
+prettifier
 pretty
 prettyprinter
 preview
@@ -5326,7 +5313,6 @@ process-inspector
 processing
 processmitigation
 processor
-procmap
 procs
 producer
 product
@@ -8375,7 +8361,6 @@ publicholidays
 publicip
 publish
 publishedmodules
-publisher
 publishers
 publishing
 pubsub
@@ -8531,6 +8516,7 @@ react-stockcharts
 read
 read-slog
 readable
+reader
 readiness
 readme
 readpdf
@@ -8629,7 +8615,6 @@ reminder
 remote
 remote-browser
 remote-desktop
-remote'
 remoteadmin
 remotecert
 remoteconnection
@@ -8640,7 +8625,6 @@ remotedesktopconnectionmanager
 remotedesktopgateway
 remotedesktopmanager
 remotedesktopservices
-remotefiles
 remoteforensics
 remotehost
 remotelocalgroup
@@ -8671,6 +8655,7 @@ replace
 replaygain
 replication
 repo
+repoo
 report
 reporting
 reportingservicepoint
@@ -8684,6 +8669,7 @@ repositories
 repository
 request
 requestfiltering
+requiredmodules
 requirements
 res
 rescan
@@ -8696,6 +8682,7 @@ resize
 resolution
 resolve
 resolve-dnsname
+resolve-stache
 resolve-template
 resolver
 resource
@@ -8710,7 +8697,6 @@ resourcekit
 resourcemanager
 resourcemover
 resources
-resourcescheduler
 resourcesearch
 response
 rest
@@ -8733,7 +8719,6 @@ reverse-string
 reversed-color-text
 reversedsc
 reverseengineering
-review
 revision
 reword
 rewrite
@@ -8759,7 +8744,6 @@ rightjoin
 rights
 rightsizing
 rightsmanagement
-ring
 ripe
 risk
 riskiq
@@ -8863,6 +8847,7 @@ sailpoint
 sale
 sales
 salesforce
+salesloft
 salt
 salt-api
 saltstack
@@ -9197,7 +9182,6 @@ shell-art
 shells
 shieldedvm
 ships
-shipsprovider
 shipstation
 shlink
 shodan
@@ -9513,6 +9497,7 @@ sspr
 ssrs
 ssst
 sstp
+stache
 stackexchange
 stackhci
 stackhcivm
@@ -9598,6 +9583,7 @@ stretch
 strictmode
 strikethrough-text
 string
+string-template
 stringmanager
 stringmanagertool
 strings
@@ -10320,7 +10306,6 @@ vba
 vbaproject
 vbproj
 vbr
-vbscript
 vbsinst
 vc
 vccmdlets
@@ -10446,7 +10431,6 @@ volumeshadowcopy
 volumio
 voperator
 vorbis
-vovin
 vpas
 vpasmodule
 vpc
@@ -10667,7 +10651,6 @@ windowsevent
 windowseventlog
 windowsform
 windowsforms
-windowsindex
 windowsinstaller
 windowsinternaldatabase
 windowsinternals
@@ -10792,6 +10775,7 @@ writeaccess
 writelog
 writemanager
 writeprogress
+writer
 ws-federation
 wsapi
 wsb
