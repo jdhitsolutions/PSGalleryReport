@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Saturday, 08 June 2024 09:51:55 UTC
+Updated: Saturday, 08 June 2024 17:51:54 UTC
 
 .bat
 .env
@@ -16,6 +16,7 @@ Updated: Saturday, 08 June 2024 09:51:55 UTC
 {modulenameplaceholder}
 **psedition_desktop**
 **windows**
+🍄
 🍣
 💩
 🙇
@@ -586,7 +587,6 @@ automatenow
 automaticpacketreportingsystem
 automation
 automation psmodule
-automationanywhere
 autopatching
 autopilot
 autoscaling
@@ -657,6 +657,7 @@ azstackhci
 azstate
 azsubnet
 aztools
+azts
 azuead
 azure
 azure_ad
@@ -844,7 +845,9 @@ bios_settings
 bios-settings
 bit
 bitbucket
+bitbucket-api
 bitbucket-server
+bitbucketautomation
 bitbucketpipelines
 bitcoin
 bitlocker
@@ -1031,14 +1034,12 @@ cartoon
 case
 cassandra
 cat
-cat-names
 catalog
 catalogs
 catalyst
 catapult
 catesta
 catimage
-cats
 catty
 cavium
 cb
@@ -1171,6 +1172,7 @@ cireson
 ciresonassetmanagement
 ciresonportal
 cis
+cisa
 cisco
 ciscoucscmdlets
 ciscoucsdsc
@@ -1194,6 +1196,7 @@ cleanup
 cleanup-orphans
 clear
 clear-history
+clearpass
 cli
 cli-menu
 cli-menu-helpers
@@ -1261,6 +1264,7 @@ cloudshell
 clueser
 cluster
 clusterminimumvalues
+clusterplacementgroups
 clusterplugins
 cmaccounts
 cmake
@@ -1379,6 +1383,7 @@ component
 composer
 composite
 compositeresource
+compoundproperty
 compress
 compression
 compute
@@ -1475,7 +1480,6 @@ continuousintegration
 contrast
 control
 controller
-controlroom
 controlup
 conventional
 conventional-commits
@@ -1547,6 +1551,7 @@ coveralls.io
 covid
 covid-19
 cpm
+cppm
 cpu
 cpuid
 cpuid-information
@@ -1663,8 +1668,10 @@ customlogs
 customproviders
 cutehttpfileserver
 cvad
+cve
 cve-2021-34527
 cvrf
+cvss
 cwi
 cx
 cyber
@@ -1732,7 +1739,6 @@ dataconduit
 dataconnectivity
 datadog
 dataexchange
-dataexplorer
 datafactory
 dataflow
 dataflowdependency
@@ -1928,6 +1934,7 @@ diff
 difference
 dig
 digikam
+digital
 digital-forensics
 digitalforensics
 digitalocean
@@ -2186,6 +2193,7 @@ dynamicdistributiongroups
 dynamicdnsoverhttps
 dynamicparam
 dynamicparameters
+dynamicparams
 dynamics
 dynamics-365
 dynamics-crm
@@ -2206,6 +2214,7 @@ e1
 easy
 easy-to-use
 easylife365
+easyvista
 eaton
 ebay
 ebooks
@@ -2334,6 +2343,7 @@ epicor
 episode
 epplus
 eprosima
+epub
 epv
 equality
 erb
@@ -2464,6 +2474,7 @@ expired
 expiring
 expiry
 exploit
+exploits
 exploration
 explorer
 exponentiation
@@ -2484,7 +2495,6 @@ extendedevents
 extendedproperties
 extendedproperty
 extendscript
-extensibility
 extension
 extensionmethods
 extensionrisk
@@ -2660,8 +2670,10 @@ fleetsoftwareupdate
 flex
 flex-query
 flexdesk
+flickr
 flowchart
 flowy
+fluidrelay
 flyway
 fmg
 focus
@@ -2871,6 +2883,7 @@ gh
 gh-actions
 ghactions
 ghc
+ghibli
 ghost
 gif
 gifs
@@ -2905,6 +2918,7 @@ glob
 globalclipboard
 globaldashboard
 globalentry
+globallydistributeddatabase
 globbing
 glpi
 gmail
@@ -3086,6 +3100,7 @@ heartbeatdiscovery
 heat
 heating
 heavenbay
+helium
 helix
 hello
 helloid
@@ -3146,7 +3161,6 @@ hklm
 hl7
 hlds
 hls
-hockey
 hol
 holiday
 home
@@ -3263,6 +3277,7 @@ icingawindows
 icloud
 icmp
 icon
+icons
 icraftsoftware
 ics
 icws
@@ -3477,6 +3492,7 @@ ipbroadcast
 ipc
 ipcalc
 ipcalculator
+ipconfig
 iperf
 ipfy.org
 iphone
@@ -3521,7 +3537,10 @@ it-tool
 it-tools
 italic-text
 item
+itemlist
+itemobject
 items
+itemstack
 iterate
 iteration
 itg
@@ -3560,6 +3579,7 @@ jms
 jmsjavadownloads
 jnet
 jnetps
+joat
 job
 jobcan
 jobs
@@ -3571,6 +3591,7 @@ jojoba
 joke
 jotform
 journal
+joyride
 jpg
 jq
 js7
@@ -3773,7 +3794,6 @@ licence
 license
 license-generator
 licenseautomation
-licensemanagement
 licensemanager
 licensereport
 licenses
@@ -3850,7 +3870,6 @@ lock
 lockbox
 lockdisplaytimeout
 lockdown
-lockfile
 locking
 lockoutreport
 lockscreen
@@ -4139,6 +4158,7 @@ mga
 mgn
 mi
 micro
+micro-orm
 microfocus
 microk8s
 microservices
@@ -4150,6 +4170,7 @@ microsoft_online
 microsoft_teams
 microsoft-graph
 microsoft-teams
+microsoft-web-platform
 microsoft-windows
 microsoft.graph
 microsoft.graph.api
@@ -4320,7 +4341,6 @@ msonlineext
 msp
 msp360
 mspbackups
-msproject
 msrc
 msrdc
 mssql
@@ -4499,7 +4519,6 @@ nfsv3
 ngen
 ngfw
 nginx
-nhl
 nic
 nic.ru
 nightmare
@@ -4508,6 +4527,7 @@ ninja
 ninjaone
 ninjarmm
 nios
+nist
 nitrox
 njclipsh
 nl
@@ -4583,6 +4603,7 @@ nuspec
 nutanix
 nuwave
 nva
+nvd
 nvdimm
 nvdimm-n
 nvm
@@ -4824,6 +4845,7 @@ oxyplot
 p2000
 p2s
 pa1reg
+paas
 pac
 pack
 package
@@ -4918,6 +4940,7 @@ patternmatching
 paulo
 pause
 pax8
+payload
 paylocity
 paypal
 pays
@@ -4964,7 +4987,6 @@ personalvault
 personio
 pester
 pf
-pfe
 pfsense
 pfx
 pfy
@@ -5088,7 +5110,6 @@ pos
 posershellise
 posh
 posh-acme
-posh-cats
 posh-chocobear
 posh-direnv
 posh-git
@@ -5174,6 +5195,7 @@ power
 power-apps
 power-cbr
 power-platform
+power-shell
 powerapps
 powerappsportal
 powerarcade
@@ -5383,6 +5405,7 @@ ps1
 ps12exe
 ps1xml
 ps1xmlgen
+ps2dll
 ps2exe
 ps3
 ps4
@@ -8282,6 +8305,7 @@ psjobs
 psjobthreads
 pskeepass
 pslocalgallery
+psloganalytics
 psm
 psm1
 psmodule
@@ -8361,6 +8385,7 @@ publicholidays
 publicip
 publish
 publishedmodules
+publisher
 publishers
 publishing
 pubsub
@@ -8516,6 +8541,7 @@ react-stockcharts
 read
 read-slog
 readable
+reader
 readiness
 readme
 readpdf
@@ -8607,6 +8633,7 @@ releasemanagement
 releasenotes
 relevance
 relic
+reload
 remediation
 remedy
 reminder
@@ -8669,6 +8696,7 @@ repositories
 repository
 request
 requestfiltering
+requiredmodules
 requirements
 res
 rescan
@@ -8792,7 +8820,6 @@ royaldocument
 royalserver
 royalts
 royaltsx
-rpa
 rpc
 rras
 rrd
@@ -8849,6 +8876,7 @@ sailpoint
 sale
 sales
 salesforce
+salesloft
 salt
 salt-api
 saltstack
@@ -8979,7 +9007,6 @@ sdk
 sdn
 sdp
 search
-search-adminauditlog
 search-engines
 searchconnector
 searchengine
@@ -9031,8 +9058,10 @@ securitypolicydsc
 securityroles
 securityscopes
 securitytxt
+sed
 seed
 seek
+seekatar
 seeshell
 select
 select-item
@@ -9325,7 +9354,6 @@ soccer
 social
 social-media
 socialmedia
-socketlabs
 sockets
 sodium
 software
@@ -9415,7 +9443,6 @@ spn
 spo
 spooler
 sport
-sports
 sports-tracker
 spotify
 spotify-api
@@ -9470,6 +9497,7 @@ squire
 srcds
 srcsrv
 srm
+srylius-write
 ssas
 ssc
 ssdt
@@ -9946,6 +9974,7 @@ toolkit
 tools
 tools4ever
 topdesk
+topgrade
 topics
 topology
 tor
@@ -10326,6 +10355,7 @@ veeam
 veeampn
 veeva
 venafi
+vencord
 vendor
 venue
 venvlink
@@ -10470,6 +10500,7 @@ vsteams
 vstest
 vsts
 vsts-cli
+vulnerabilities
 vulnerability
 vulnerabilityassessment
 vulnerabilityscanning
@@ -10540,6 +10571,7 @@ webjea
 webmanagement
 webmanagementservice
 webpage
+webpi
 webreport
 webrequest
 webresponse
@@ -10764,6 +10796,7 @@ write-debug
 write-host
 write-information
 write-log
+write-loganalytics
 write-message
 write-progress
 write-slog
@@ -10772,6 +10805,7 @@ writeaccess
 writelog
 writemanager
 writeprogress
+writer
 ws-federation
 wsapi
 wsb
@@ -10858,11 +10892,11 @@ yapg
 yarn
 yetanotherhelloworld
 yml
-ynab
 youtube
 youtube-dl
 youtubeextractor
 yq
+yubaba
 yum
 z
 zabbix
@@ -10898,3 +10932,4 @@ zypper
 全角半角変換
 寿司
 日本語
+湯婆婆
