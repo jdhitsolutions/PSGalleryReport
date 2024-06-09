@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Saturday, 08 June 2024 17:51:54 UTC
+Updated: Sunday, 09 June 2024 02:10:44 UTC
 
 .bat
 .env
@@ -90,8 +90,6 @@ accessgovernancecp
 accesspoint
 accessrights
 accesstoken
-accord
-accord.net
 accordian
 account
 accounting
@@ -194,7 +192,6 @@ admf
 admin
 admin-tools
 adminbyrequest
-admindirectory
 administration
 administrative
 administrativeunit
@@ -274,7 +271,6 @@ al
 alac
 alarm
 alb
-albums
 alc
 alero
 alert
@@ -348,7 +344,6 @@ annotated
 announcement
 announcementsservice
 anonymous
-anova
 ansi
 ansible
 ansible-control-node
@@ -387,7 +382,6 @@ apmsynthetics
 apmtraces
 aportal
 app
-app-control-for-business
 app-only
 app-v
 app-volumes
@@ -404,9 +398,7 @@ appinsights
 applayering
 apple
 application
-application-control
 application-transformer
-application-whitelisting
 applicationgateway
 applicationgrid
 applicationhost.config
@@ -549,7 +541,6 @@ audits
 aumid
 aut
 auth
-auth0
 authenticate
 authentication
 authenticationcertificate
@@ -587,6 +578,7 @@ automatenow
 automaticpacketreportingsystem
 automation
 automation psmodule
+automationanywhere
 autopatching
 autopilot
 autoscaling
@@ -839,7 +831,6 @@ bindings
 bing
 bingmap
 bingmaps
-binomial
 bios
 bios_settings
 bios-settings
@@ -877,8 +868,6 @@ blocks
 blog
 blogs
 bloodhound
-bloxone
-bloxoneddi
 bls
 blue
 bluedolhin
@@ -986,7 +975,6 @@ bxor
 bydesign
 byexample
 bynarypsmodule
-byovd
 byte
 bytearray
 bzip2
@@ -1022,8 +1010,6 @@ capslock
 captcha
 capture
 carbon
-carbonawarecomputing
-carbonintensity
 card
 cardwirth
 cares
@@ -1034,12 +1020,14 @@ cartoon
 case
 cassandra
 cat
+cat-names
 catalog
 catalogs
 catalyst
 catapult
 catesta
 catimage
+cats
 catty
 cavium
 cb
@@ -1093,7 +1081,6 @@ certificatepolicy
 certificates
 certificateservices
 certificatesmanagement
-certinia
 certutil
 cf
 cfn
@@ -1131,7 +1118,6 @@ chenxizhang
 cherrypy
 cherwell
 chfs
-chi
 china
 chmod
 choco
@@ -1480,6 +1466,7 @@ continuousintegration
 contrast
 control
 controller
+controlroom
 controlup
 conventional
 conventional-commits
@@ -1524,7 +1511,6 @@ coreposh
 coreutils
 corona
 cortex
-cos
 cosmos
 cosmosdb
 cost
@@ -1591,12 +1577,10 @@ credentialstore
 credentialtheaf
 credentialutility
 credman
-credmanager
 crescendo
 crescendobuilt
 cresendo
 crestron
-crime
 crlf
 crm
 crm2016
@@ -1669,7 +1653,6 @@ customproviders
 cutehttpfileserver
 cvad
 cve
-cve-2021-34527
 cvrf
 cvss
 cwi
@@ -1900,7 +1883,6 @@ developermode
 development
 devenv
 devexpress
-deviation
 device
 devicecode
 deviceid
@@ -2000,7 +1982,6 @@ distributionpointgroupmembers
 distrubtionpoint
 dividends
 diving
-division
 divoom
 diy
 dkim
@@ -2084,7 +2065,6 @@ dotenv
 dotfile
 dotfiles
 dotnet
-dotnet-cli
 dotnettool
 dotps1
 dots
@@ -2462,7 +2442,6 @@ exitprocessrequest
 exo
 exov2
 exov3
-exp
 expand
 expand-string
 expand-tab
@@ -2495,6 +2474,7 @@ extendedevents
 extendedproperties
 extendedproperty
 extendscript
+extensibility
 extension
 extensionmethods
 extensionrisk
@@ -2506,7 +2486,6 @@ extraction
 extractor
 extreme-networks
 eztheme
-f
 f#
 f5
 fabric
@@ -2628,8 +2607,6 @@ financial
 financialedge
 financials
 find
-find-call
-find-caller
 find-file
 find-path
 finddownloadlinkfromwebsite
@@ -2648,7 +2625,6 @@ firewallrule
 firmware
 firmwareanalysis
 first
-fisher
 fissionproducts
 fitbit
 fits
@@ -2894,7 +2870,6 @@ git-client
 git-clone
 git-flow
 git-lfs
-git-proxy
 git-rename
 git-stat
 gitcmdline
@@ -2936,8 +2911,6 @@ goldengate
 goldsource
 goldsource-dedicated-server
 google
-google-chrome
-google-fonts
 google-histogram
 google-sankey
 google-table
@@ -2970,7 +2943,6 @@ gps
 gpt
 gpt3
 gpx
-gradle
 grafana
 grafanaapi
 granttype
@@ -2988,7 +2960,6 @@ graphs
 graphservices
 graphviz
 graylog
-greenplum
 gremlin
 grep
 greynoise
@@ -3161,6 +3132,7 @@ hklm
 hl7
 hlds
 hls
+hockey
 hol
 holiday
 home
@@ -3211,11 +3183,9 @@ hsdp
 hsl
 html
 http
-http_proxy
 httpclient
 httplistener
 https
-https_proxy
 httpserver
 huawei
 huawei-ibmc-cmdlets
@@ -3245,7 +3215,6 @@ hyperthreading
 hyperv
 hypervisor
 hypervplugins
-hypothesis
 hysolate
 hysolatemangementconsole
 i-doit
@@ -3794,6 +3763,7 @@ licence
 license
 license-generator
 licenseautomation
+licensemanagement
 licensemanager
 licensereport
 licenses
@@ -3810,7 +3780,6 @@ limits
 lina
 line
 line-endings
-linear
 linearalgebra
 lingeringobjects
 link
@@ -3870,6 +3839,7 @@ lock
 lockbox
 lockdisplaytimeout
 lockdown
+lockfile
 locking
 lockoutreport
 lockscreen
@@ -3911,7 +3881,6 @@ logingestion
 loginscreen
 loginsight
 logiphys
-logistic
 logitech
 logmail
 logmails
@@ -4097,7 +4066,6 @@ mdop
 mdt
 mdx
 me4024
-mean
 measure
 measure-loc
 measure-process
@@ -4108,7 +4076,6 @@ mediaplayer
 mediaservices
 mediawiki
 meditation
-meesman
 meeting
 meetup
 meetup.com
@@ -4158,7 +4125,6 @@ mga
 mgn
 mi
 micro
-micro-orm
 microfocus
 microk8s
 microservices
@@ -4226,7 +4192,6 @@ miration-step
 mirror
 misc
 miscellaneous
-mitigation
 mitre
 mitre_att&ck
 mitrend
@@ -4341,6 +4306,7 @@ msonlineext
 msp
 msp360
 mspbackups
+msproject
 msrc
 msrdc
 mssql
@@ -4519,9 +4485,9 @@ nfsv3
 ngen
 ngfw
 nginx
+nhl
 nic
 nic.ru
-nightmare
 ninite
 ninja
 ninjaone
@@ -4544,10 +4510,8 @@ non-volatile
 none
 noneimages
 noninteractive
-noproxy
 nord
 nordtools
-normal
 norskale
 norway
 norwegian
@@ -4569,7 +4533,6 @@ notify-send-wsl
 nova
 npgsql
 npm
-npm-proxy
 npm-upgrade
 nprinting
 nprintingapi
@@ -4987,6 +4950,7 @@ personalvault
 personio
 pester
 pf
+pfe
 pfsense
 pfx
 pfy
@@ -5003,7 +4967,6 @@ photograph
 photos
 php
 phpapam
-pi
 picker
 pico
 picture
@@ -5049,7 +5012,6 @@ play
 playback
 playbook
 player
-playlists
 playwright
 pleasant
 pleasantpasswordserver
@@ -5110,6 +5072,7 @@ pos
 posershellise
 posh
 posh-acme
+posh-cats
 posh-chocobear
 posh-direnv
 posh-git
@@ -5122,7 +5085,6 @@ poshgraph
 poshgraph-sdk
 poshgrouppolicy
 poshkeepass
-poshlog
 poshorigin
 poshproject
 poshprtg
@@ -5134,7 +5096,6 @@ poshy-colors
 poshy-coreutils-ish
 poshy-dir-nav
 poshy-ecks
-poshy-env-proxy
 poshy-env-var
 poshy-ls-isms
 poshy-lucidity
@@ -5151,7 +5112,6 @@ poshy-wrap-brew
 poshy-wrap-curl
 poshy-wrap-dnf
 poshy-wrap-docker
-poshy-wrap-docker-compose
 poshy-wrap-dotnet
 poshy-wrap-forgit
 poshy-wrap-gem
@@ -5189,7 +5149,6 @@ postgre
 postgres
 postgresql
 potato
-pow
 powdrgit
 power
 power-apps
@@ -5314,7 +5273,6 @@ printer
 printers
 printershare
 printing
-printnightmare
 printserver
 prism
 prism_element
@@ -5518,31 +5476,9 @@ pscommand_convertto-rgb
 pscommand_d
 pscommand_d64
 pscommand_dbl
-pscommand_dcb
-pscommand_dcdn
-pscommand_dce
 pscommand_dcin
-pscommand_dck
-pscommand_dcl
-pscommand_dclf
 pscommand_dcls
 pscommand_dclsa
-pscommand_dco
-pscommand_dcofresh
-pscommand_dcol
-pscommand_dcou
-pscommand_dcouns
-pscommand_dcps
-pscommand_dcpull
-pscommand_dcr
-pscommand_dcrestart
-pscommand_dcrm
-pscommand_dcstart
-pscommand_dcstop
-pscommand_dcup
-pscommand_dcupb
-pscommand_dcupbd
-pscommand_dcupd
 pscommand_decode64
 pscommand_decodefile64
 pscommand_df64
@@ -5552,7 +5488,6 @@ pscommand_dils
 pscommand_dipu
 pscommand_dirm
 pscommand_dirname
-pscommand_disable-proxy
 pscommand_dit
 pscommand_dk
 pscommand_dkbash
@@ -5601,7 +5536,6 @@ pscommand_dnls
 pscommand_dnrm
 pscommand_docker-archive-content
 pscommand_docker-build
-pscommand_docker-compose-fresh
 pscommand_docker-container-execute
 pscommand_docker-container-execute-interactively
 pscommand_docker-container-inspect
@@ -5682,7 +5616,6 @@ pscommand_dxc
 pscommand_dxcit
 pscommand_e64
 pscommand_ef64
-pscommand_enable-proxy
 pscommand_encode64
 pscommand_encodefile64
 pscommand_export-gitrepositoryzip
@@ -5971,12 +5904,6 @@ pscommand_git_show_stash_file
 pscommand_git_stats
 pscommand_git_status_short_with_loglines
 pscommand_git-changelog
-pscommand_git-disable-proxy
-pscommand_git-enable-proxy
-pscommand_git-global-disable-proxy
-pscommand_git-global-enable-proxy
-pscommand_git-global-show-proxy
-pscommand_git-show-proxy
 pscommand_gitignore-reload
 pscommand_gittowork
 pscommand_gl
@@ -6162,25 +6089,6 @@ pscommand_invoke-dnfreinstall
 pscommand_invoke-dnfremove
 pscommand_invoke-dnfsearch
 pscommand_invoke-dnfupgrade
-pscommand_invoke-dockercomposebuild
-pscommand_invoke-dockercomposedown
-pscommand_invoke-dockercomposeexec
-pscommand_invoke-dockercomposekill
-pscommand_invoke-dockercomposelogs
-pscommand_invoke-dockercomposelogsfollow
-pscommand_invoke-dockercomposelogsfollowtail
-pscommand_invoke-dockercomposeps
-pscommand_invoke-dockercomposepull
-pscommand_invoke-dockercomposerestart
-pscommand_invoke-dockercomposerm
-pscommand_invoke-dockercomposerun
-pscommand_invoke-dockercomposestart
-pscommand_invoke-dockercomposestop
-pscommand_invoke-dockercomposeup
-pscommand_invoke-dockercomposeupdetached
-pscommand_invoke-dockercomposeupdetachedwithbuild
-pscommand_invoke-dockercomposeupnostart
-pscommand_invoke-dockercomposeupwithbuild
 pscommand_invoke-gemcertadd
 pscommand_invoke-gemcertbuild
 pscommand_invoke-gemcertremove
@@ -6859,9 +6767,6 @@ pscommand_nmap_slow
 pscommand_nmap_traceroute
 pscommand_nmap_web_safe_osscan
 pscommand_notify-send-fallback
-pscommand_npm-disable-proxy
-pscommand_npm-enable-proxy
-pscommand_npm-show-proxy
 pscommand_npmd
 pscommand_npme
 pscommand_npmf
@@ -6907,7 +6812,6 @@ pscommand_pl
 pscommand_po
 pscommand_pop-gitstashentry
 pscommand_ppy
-pscommand_proxy-help
 pscommand_prun
 pscommand_psh
 pscommand_psy
@@ -6926,7 +6830,6 @@ pscommand_push-gitstashentrywithmessage
 pscommand_pushgr
 pscommand_pvenv
 pscommand_pwh
-pscommand_pwshrc-show-proxy
 pscommand_py
 pscommand_pyenv
 pscommand_pylint-quick
@@ -6998,14 +6901,10 @@ pscommand_set-locationup4
 pscommand_set-locationup5
 pscommand_sgem
 pscommand_show-gitremote
-pscommand_show-proxy
 pscommand_shttp
 pscommand_shuf
 pscommand_sl
 pscommand_ssh-add-all
-pscommand_ssh-disable-proxy
-pscommand_ssh-enable-proxy
-pscommand_ssh-show-proxy
 pscommand_sshlist
 pscommand_start-gitbisect
 pscommand_start-gitcherrypick
@@ -7301,10 +7200,8 @@ psfunction_d
 psfunction_decode64
 psfunction_decodefile64
 psfunction_dirname
-psfunction_disable-proxy
 psfunction_docker-archive-content
 psfunction_docker-build
-psfunction_docker-compose-fresh
 psfunction_docker-container-execute
 psfunction_docker-container-execute-interactively
 psfunction_docker-container-inspect
@@ -7367,7 +7264,6 @@ psfunction_dotnet-tool-update-all-global
 psfunction_dotnet-watch
 psfunction_dotnet-watch-run
 psfunction_dotnet-watch-test
-psfunction_enable-proxy
 psfunction_encode64
 psfunction_encodefile64
 psfunction_export-gitrepositoryzip
@@ -7524,12 +7420,6 @@ psfunction_git_show_stash_file
 psfunction_git_stats
 psfunction_git_status_short_with_loglines
 psfunction_git-changelog
-psfunction_git-disable-proxy
-psfunction_git-enable-proxy
-psfunction_git-global-disable-proxy
-psfunction_git-global-enable-proxy
-psfunction_git-global-show-proxy
-psfunction_git-show-proxy
 psfunction_gitignore-reload
 psfunction_gittowork
 psfunction_gplfs
@@ -7572,25 +7462,6 @@ psfunction_invoke-dnfreinstall
 psfunction_invoke-dnfremove
 psfunction_invoke-dnfsearch
 psfunction_invoke-dnfupgrade
-psfunction_invoke-dockercomposebuild
-psfunction_invoke-dockercomposedown
-psfunction_invoke-dockercomposeexec
-psfunction_invoke-dockercomposekill
-psfunction_invoke-dockercomposelogs
-psfunction_invoke-dockercomposelogsfollow
-psfunction_invoke-dockercomposelogsfollowtail
-psfunction_invoke-dockercomposeps
-psfunction_invoke-dockercomposepull
-psfunction_invoke-dockercomposerestart
-psfunction_invoke-dockercomposerm
-psfunction_invoke-dockercomposerun
-psfunction_invoke-dockercomposestart
-psfunction_invoke-dockercomposestop
-psfunction_invoke-dockercomposeup
-psfunction_invoke-dockercomposeupdetached
-psfunction_invoke-dockercomposeupdetachedwithbuild
-psfunction_invoke-dockercomposeupnostart
-psfunction_invoke-dockercomposeupwithbuild
 psfunction_invoke-gemcertadd
 psfunction_invoke-gemcertbuild
 psfunction_invoke-gemcertremove
@@ -8123,9 +7994,6 @@ psfunction_nmap_slow
 psfunction_nmap_traceroute
 psfunction_nmap_web_safe_osscan
 psfunction_notify-send-fallback
-psfunction_npm-disable-proxy
-psfunction_npm-enable-proxy
-psfunction_npm-show-proxy
 psfunction_open_command
 psfunction_peek
 psfunction_pipig
@@ -8136,7 +8004,6 @@ psfunction_pipreq
 psfunction_pipunall
 psfunction_pipupall
 psfunction_pop-gitstashentry
-psfunction_proxy-help
 psfunction_publish-gitcommitsforcefullywithlease
 psfunction_publish-gitcommitssettingupstream
 psfunction_publish-gitcommitssettingupstreamtoorigin
@@ -8147,7 +8014,6 @@ psfunction_publish-gitcommitswithtags
 psfunction_publish-gitrepositorytosvn
 psfunction_push-gitstashentry
 psfunction_push-gitstashentrywithmessage
-psfunction_pwshrc-show-proxy
 psfunction_pyserver
 psfunction_read-dotenv
 psfunction_register-argcompleteargumentcompleter
@@ -8209,13 +8075,9 @@ psfunction_set-locationup3
 psfunction_set-locationup4
 psfunction_set-locationup5
 psfunction_show-gitremote
-psfunction_show-proxy
 psfunction_shttp
 psfunction_shuf
 psfunction_ssh-add-all
-psfunction_ssh-disable-proxy
-psfunction_ssh-enable-proxy
-psfunction_ssh-show-proxy
 psfunction_sshlist
 psfunction_start-gitbisect
 psfunction_start-gitcherrypick
@@ -8501,7 +8363,6 @@ random-date
 random-password
 random-password-generator
 randompassword
-randomuser
 randomusers
 range
 rangescan
@@ -8590,7 +8451,6 @@ redshift
 redteaming
 redundancy
 refactor
-refactoring
 refeds
 refeds-mfa
 refedsmfa
@@ -8820,6 +8680,7 @@ royaldocument
 royalserver
 royalts
 royaltsx
+rpa
 rpc
 rras
 rrd
@@ -8953,7 +8814,6 @@ schulverwaltung
 science
 scissors
 scm
-scmanager
 scom
 sconfig
 scoop
@@ -9007,6 +8867,7 @@ sdk
 sdn
 sdp
 search
+search-adminauditlog
 search-engines
 searchconnector
 searchengine
@@ -9251,7 +9112,6 @@ simplepassword
 simplepasswordgenerator
 simplivity
 simplysql
-sin
 single
 singlestore
 singleton
@@ -9354,6 +9214,7 @@ soccer
 social
 social-media
 socialmedia
+socketlabs
 sockets
 sodium
 software
@@ -9441,8 +9302,8 @@ split
 splunk
 spn
 spo
-spooler
 sport
+sports
 sports-tracker
 spotify
 spotify-api
@@ -9451,8 +9312,6 @@ spotlightimages
 spp
 spread
 spreadsheet
-spring
-spring-boot
 springcloud
 sql
 sql-database
@@ -9460,6 +9319,7 @@ sql-script
 sql-server
 sqlagent
 sqlautomation
+sqlbits
 sqlbrowser
 sqlbulkcopy
 sqlchangeautomation
@@ -9491,9 +9351,7 @@ sqlservermodule
 sqlvirtualmachine
 sqlvm
 sqr
-sqrt
 square
-squire
 srcds
 srcsrv
 srm
@@ -9534,7 +9392,6 @@ staging
 stale
 stan
 stanc
-standard
 standarderror
 standardoutput
 standards
@@ -9555,7 +9412,6 @@ state
 static
 staticanalysis
 statichtmlsites
-statistical
 statistics
 stats
 statsd
@@ -9743,7 +9599,6 @@ systemlocale
 systems
 systemsplash
 systray
-t
 t-sql
 tab
 tab-comletion
@@ -9921,7 +9776,6 @@ threads
 threadsanitizer
 threat
 threat-hunting
-threatdefense
 threathunting
 threatintelligence
 thumbprint
@@ -10138,7 +9992,6 @@ ud-illustration
 ud-input
 ud-licensed
 ud-loadingoverlay
-ud-minesweeper
 ud-mouseparticle
 ud-navbarsearch
 ud-numbermask
@@ -10148,7 +10001,6 @@ ud-pivottable
 ud-progressstepbar
 ud-rangeslider
 ud-readingbar
-ud-scrollspy
 ud-selectdatetime
 ud-selector
 ud-signature
@@ -10320,7 +10172,6 @@ vami
 vao
 variable
 variables
-variance
 variants
 vastlimits
 vault
@@ -10542,7 +10393,6 @@ wave
 wbem
 wcf
 wcry
-wdac
 wdapi
 wds
 weather
@@ -10649,7 +10499,6 @@ windows-10
 windows-api
 windows-control-panel
 windows-defender
-windows-defender-application-control
 windows-environment
 windows-explorer
 windows-features
@@ -10892,8 +10741,8 @@ yapg
 yarn
 yetanotherhelloworld
 yml
+ynab
 youtube
-youtube-dl
 youtubeextractor
 yq
 yubaba
@@ -10917,7 +10766,6 @@ zoicware
 zone
 zookeeper
 zoom
-zoomapi
 zoommeeting
 zoxide
 zsh
