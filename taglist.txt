@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Sunday, 09 June 2024 17:51:49 UTC
+Updated: Monday, 10 June 2024 02:09:50 UTC
 
 .bat
 .env
@@ -317,7 +317,6 @@ amazonwebservices
 amend
 ami
 amiga
-amp
 amqp
 amsi
 amt
@@ -731,6 +730,8 @@ azuresecuritycenter
 azureservicebus
 azuresigntool
 azuresql
+azuresqlexport
+azuresqlimport
 azuressas
 azurestack
 azurestackhci
@@ -747,8 +748,6 @@ azvm
 b2
 back
 backblaze
-backconnection
-backconnectionhostname
 backend
 backup
 backup_validation
@@ -1263,6 +1262,7 @@ cloudservice
 cloudshell
 clueser
 cluster
+clusterminimumvalues
 clusterplacementgroups
 clusterplugins
 cmaccounts
@@ -1722,6 +1722,7 @@ data-uri
 data-uri-converter
 database
 database-migrations
+databaseautomation
 databasemanagement
 databasemigration
 databases
@@ -1738,7 +1739,6 @@ dataconduit
 dataconnectivity
 datadog
 dataexchange
-dataexplorer
 datafactory
 dataflow
 dataflowdependency
@@ -1849,12 +1849,14 @@ delegation
 delegationmodel
 delete
 delete-orphan-branches
+deletefile
 deleteuserprofile
 delivery
 dell
 dellemc
 delta
 demand
+demandsignal
 demo
 democratie
 demonstration
@@ -1926,6 +1928,7 @@ diagrams
 dialog
 dice
 diceware
+dicom
 dictionary
 diff
 difference
@@ -1936,8 +1939,10 @@ digital-forensics
 digitalforensics
 digitalocean
 digitaltwins
+dilbert
 dimcry
 dircolors
+director
 directories
 directory
 directory psedition_core psedition_desktop
@@ -1984,7 +1989,6 @@ displayresolution
 distance
 distinguishedname
 distributed-systems
-distributed-tracing
 distributedcache
 distributedfilesystem
 distribution
@@ -2209,6 +2213,7 @@ e1
 easy
 easy-to-use
 easylife365
+easyvista
 eaton
 ebay
 ebooks
@@ -2333,6 +2338,7 @@ eol
 eop
 eperl
 ephesoft
+epicor
 episode
 epplus
 eprosima
@@ -3283,6 +3289,7 @@ identifier
 identity
 identity-management
 identitydataplane
+identitydirector
 identitydomains
 identitynow
 idf
@@ -3540,6 +3547,7 @@ itglue
 itin
 itop
 itsm
+itstore
 ivanti
 ivb
 ivdc
@@ -3582,6 +3590,7 @@ jojoba
 joke
 jotform
 journal
+joyride
 jpg
 jq
 js7
@@ -3662,6 +3671,7 @@ kickstart
 kidrsa
 kill
 kindle
+kinetic
 kinopoisk
 kintone
 klantcontroles
@@ -4807,7 +4817,6 @@ osuborganizationsubscription
 osubsubscription
 osubusage
 osx
-otel
 otp
 ou
 ou-object
@@ -5216,6 +5225,7 @@ powerprotect_datamanager
 powersaving
 powerscheme
 powershell
+powershell_universal
 powershell-class
 powershell-cmdlets
 powershell-core
@@ -5241,6 +5251,7 @@ powershell.module.invokewinget
 powershell.one
 powershell.persistentpathstack
 powershell7
+powershellazuresql
 powershellconferenceeurope
 powershellcore
 powershellcourse
@@ -7207,6 +7218,7 @@ pscredential
 pscribo
 pscustomobject
 psd1
+psdb
 psdefaultparametervalues
 psdeploy
 psdesiredstateconfiguration
@@ -8485,12 +8497,14 @@ railways
 rainbow
 raisers
 raisersedge
+raj
 ram
 random
 random-date
 random-password
 random-password-generator
 randompassword
+randomuser
 randomusers
 range
 rangescan
@@ -8655,6 +8669,7 @@ remove-pass
 remove-path
 remove-pinneditem
 remove-tempfiles
+removefile
 removetypeaccelerators
 remux
 ren-isac
@@ -8696,6 +8711,7 @@ resharper
 resize
 resolution
 resolve
+resolve-dnsname
 resolve-stache
 resolve-template
 resolver
@@ -8711,6 +8727,7 @@ resourcekit
 resourcemanager
 resourcemover
 resources
+resourcescheduler
 resourcesearch
 response
 rest
@@ -9130,6 +9147,7 @@ servicepointmanager
 serviceprincipal
 services
 servicestatus
+servicestore
 servicing
 servicingstack
 ses
@@ -9341,6 +9359,7 @@ soccer
 social
 social-media
 socialmedia
+socketlabs
 sockets
 sodium
 software
@@ -9390,6 +9409,7 @@ spacex
 spam
 spanner
 spark
+sparkline
 sparklines
 spawn
 spdockit
@@ -9446,6 +9466,7 @@ sql-database
 sql-script
 sql-server
 sqlagent
+sqlautomation
 sqlbrowser
 sqlbulkcopy
 sqlchangeautomation
@@ -9456,6 +9477,7 @@ sqldatabase
 sqldb
 sqldbatools
 sqldiagapi
+sqlexport
 sqlgateway
 sqlite
 sqlitebynarymodule
@@ -9482,7 +9504,6 @@ squire
 srcds
 srcsrv
 srm
-srylius-write
 ssas
 ssc
 ssdt
@@ -9927,7 +9948,6 @@ timesheets
 timespan
 timezone
 tinkerpop
-tinymce
 tip
 tips
 title
@@ -10042,6 +10062,7 @@ truportal
 trusted
 trusted-host
 trustedhosts
+trustedinstaller
 trustedrootcertificate
 trustedsigning
 truth
@@ -10130,6 +10151,7 @@ ud-piechart3d
 ud-pivottable
 ud-progressstepbar
 ud-rangeslider
+ud-readingbar
 ud-scrollspy
 ud-selectdatetime
 ud-selector
@@ -10253,6 +10275,7 @@ usap
 usb
 useful
 user
+user-environment
 userdiscovery
 usergroup
 userinterface
@@ -10631,6 +10654,7 @@ windows-api
 windows-control-panel
 windows-defender
 windows-defender-application-control
+windows-environment
 windows-explorer
 windows-features
 windows-firewall
@@ -10894,6 +10918,7 @@ zip-compression
 zipfile-transform
 zisson
 zoho
+zoicware
 zone
 zookeeper
 zoom
