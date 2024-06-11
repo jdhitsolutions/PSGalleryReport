@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 10 June 2024 17:51:53 UTC
+Updated: Tuesday, 11 June 2024 02:08:42 UTC
 
 .bat
 .env
@@ -75,7 +75,6 @@ abc
 abc_testing
 abe
 about
-abr
 abstractsyntaxtree
 abuse
 abuseipdb
@@ -112,9 +111,7 @@ action1
 actiongroup
 actionplan
 actions
-activate
 activation
-activationscripts
 active
 active_directory
 active-directory
@@ -193,7 +190,7 @@ adm
 admf
 admin
 admin-tools
-adminbyrequest
+admindirectory
 administration
 administrative
 administrativeunit
@@ -530,7 +527,6 @@ atom
 atp
 atrium
 att&ck
-attach
 attestation
 attila
 attribute
@@ -954,6 +950,7 @@ budget
 bugbounty
 bugzilla
 build
+build-log
 build-scripts
 builddefinition
 builder
@@ -1305,6 +1302,7 @@ codecoverage
 codegen
 codegeneration
 codegenerator
+codellama
 codepoint
 codereview
 codes
@@ -2419,7 +2417,6 @@ evernote
 everydaypowershell
 everydayrewards
 everything
-evilprince2009
 evolutionary-algorithms
 evolutionary-database
 evtx
@@ -2536,7 +2533,6 @@ fastgit
 fastlinq
 fastlookup
 fastping
-fasttrack
 fat32
 favorite
 favorites
@@ -2698,7 +2694,6 @@ forcedelete
 foreach
 foreach-object
 forecast
-forensic
 forensics
 forest
 forestdiscovery
@@ -2738,7 +2733,6 @@ freeipa
 freenas
 freesoftwarefoundation
 freshbooks
-freshdesk
 freshservice
 freshservice-api
 freshserviceps
@@ -2810,6 +2804,7 @@ gcs
 gdap
 gdpr
 gedit
+gem
 gemini
 geminiprotocol
 gemlog
@@ -3011,6 +3006,7 @@ gsuite
 gtx1080ti
 guardedfabric
 guardicore
+gubbins
 guest
 guestconfiguration
 guests
@@ -3235,7 +3231,6 @@ humanly
 humor
 humorous
 hunter
-hwid
 hybrid
 hybridrunbookworker
 hyper-v
@@ -3494,6 +3489,7 @@ ipbroadcast
 ipc
 ipcalc
 ipcalculator
+ipconfig
 iperf
 ipfy.org
 iphone
@@ -3778,6 +3774,7 @@ legends
 lego
 lein
 leiningnen
+lemonai
 lenel
 length
 lenovo
@@ -3840,6 +3837,8 @@ listener
 litecoin
 litedb
 literature
+live
+llama2
 lldp
 lmhost
 lmhosts
@@ -4053,7 +4052,6 @@ marvell_semiconductor_inc
 marvellfcpowerkit
 marvellfcprovider
 marvellqlogicfcpowerkit
-mas
 mask
 mass
 masstransit
@@ -4678,6 +4676,7 @@ old
 older
 ole
 oledb
+ollama
 omaha
 ome
 omnisphere
@@ -4837,7 +4836,6 @@ outsystems
 overbite
 ovf
 ovgd
-ovh
 owasp
 owls
 owner
@@ -4903,7 +4901,6 @@ pass
 pass-the-hash
 pass-the-ticket
 passcode
-passivetotal
 passkey
 passphrase
 passphraser passphrase password generator entropy
@@ -5157,6 +5154,7 @@ poshy-wrap-docker
 poshy-wrap-docker-compose
 poshy-wrap-dotnet
 poshy-wrap-forgit
+poshy-wrap-gem
 poshy-wrap-gh
 poshy-wrap-git
 poshy-wrap-git-flow
@@ -5224,6 +5222,7 @@ powersaving
 powerscheme
 powershell
 powershell_universal
+powershell-7
 powershell-class
 powershell-cmdlets
 powershell-core
@@ -5274,6 +5273,7 @@ powertab
 powertoolcmdlets
 powertooldsc
 ppdm
+ppk
 pposh
 pps
 ppt
@@ -5288,7 +5288,6 @@ predictive-text
 predictor
 preferences
 prefix
-prefixing
 preparead
 preparealldomains
 prepareschema
@@ -5828,6 +5827,19 @@ pscommand_gdsth
 pscommand_gdstp
 pscommand_gdt
 pscommand_gdv
+pscommand_geca
+pscommand_gecb
+pscommand_geclup
+pscommand_gecr
+pscommand_gegi
+pscommand_geh
+pscommand_gei
+pscommand_geiall
+pscommand_gein
+pscommand_gel
+pscommand_geli
+pscommand_geo
+pscommand_geoe
 pscommand_get
 pscommand_get-aptinstalledpackages
 pscommand_get-childitemcolorfully
@@ -5895,6 +5907,7 @@ pscommand_get-netipaddresssimple
 pscommand_get-pwshaliasdefinition
 pscommand_get-pwshfunctiondefinition
 pscommand_get-viewer
+pscommand_geun
 pscommand_gexport
 pscommand_gf
 pscommand_gfa
@@ -6168,6 +6181,22 @@ pscommand_invoke-dockercomposeupdetached
 pscommand_invoke-dockercomposeupdetachedwithbuild
 pscommand_invoke-dockercomposeupnostart
 pscommand_invoke-dockercomposeupwithbuild
+pscommand_invoke-gemcertadd
+pscommand_invoke-gemcertbuild
+pscommand_invoke-gemcertremove
+pscommand_invoke-gemcleanupno
+pscommand_invoke-gemgenerateindex
+pscommand_invoke-gemhelp
+pscommand_invoke-geminfo
+pscommand_invoke-geminfoall
+pscommand_invoke-geminstall
+pscommand_invoke-gemlist
+pscommand_invoke-gemlock
+pscommand_invoke-gemopen
+pscommand_invoke-gemopeneditor
+pscommand_invoke-gemremovebypattern
+pscommand_invoke-gemsystem
+pscommand_invoke-gemuninstall
 pscommand_invoke-git
 pscommand_invoke-gitaddinteractivelypatch
 pscommand_invoke-gitbisect
@@ -6907,6 +6936,7 @@ pscommand_python3
 pscommand_rb
 pscommand_read-dotenv
 pscommand_register-argcompleteargumentcompleter
+pscommand_remove_gem
 pscommand_remove-dockercontainerall
 pscommand_remove-dockerunusedimage
 pscommand_remove-envpathitem
@@ -6966,6 +6996,7 @@ pscommand_set-locationup2
 pscommand_set-locationup3
 pscommand_set-locationup4
 pscommand_set-locationup5
+pscommand_sgem
 pscommand_show-gitremote
 pscommand_show-proxy
 pscommand_shttp
@@ -7560,6 +7591,22 @@ psfunction_invoke-dockercomposeupdetached
 psfunction_invoke-dockercomposeupdetachedwithbuild
 psfunction_invoke-dockercomposeupnostart
 psfunction_invoke-dockercomposeupwithbuild
+psfunction_invoke-gemcertadd
+psfunction_invoke-gemcertbuild
+psfunction_invoke-gemcertremove
+psfunction_invoke-gemcleanupno
+psfunction_invoke-gemgenerateindex
+psfunction_invoke-gemhelp
+psfunction_invoke-geminfo
+psfunction_invoke-geminfoall
+psfunction_invoke-geminstall
+psfunction_invoke-gemlist
+psfunction_invoke-gemlock
+psfunction_invoke-gemopen
+psfunction_invoke-gemopeneditor
+psfunction_invoke-gemremovebypattern
+psfunction_invoke-gemsystem
+psfunction_invoke-gemuninstall
 psfunction_invoke-git
 psfunction_invoke-gitaddinteractivelypatch
 psfunction_invoke-gitbisect
@@ -8540,7 +8587,6 @@ redistributables
 redkite
 redseal
 redshift
-redteaming
 redundancy
 refactor
 refactoring
@@ -8729,7 +8775,6 @@ rightsmanagement
 ring
 ripe
 risk
-riskiq
 riskpro
 risksense
 rivermeadow
@@ -8835,8 +8880,6 @@ salesloft
 salt
 salt-api
 saltstack
-saltstackconfig
-saltstackenterprise
 sam
 saml
 saml psmodule
@@ -9077,6 +9120,7 @@ servermanagement
 servers
 service
 service-bus
+service-messages
 servicebus
 servicebusforwindowsserver
 servicecatalog
@@ -9459,7 +9503,6 @@ srylius-write
 ssas
 ssc
 ssdt
-sse
 ssh
 ssh-config
 ssh-keygen
@@ -10197,7 +10240,6 @@ updatemgmt
 updater
 updates
 updateservices
-updmanagement
 updmgmt
 upgrade
 uplift
@@ -10427,6 +10469,7 @@ vpn-certificate
 vpro
 vps
 vra
+vrchat
 vrealize
 vrising
 vro
@@ -10603,6 +10646,7 @@ windows  server
 windows explorer
 windows_events
 windows-10
+windows-11
 windows-api
 windows-control-panel
 windows-defender
@@ -10611,6 +10655,7 @@ windows-environment
 windows-explorer
 windows-features
 windows-firewall
+windows-lab
 windows-path
 windows-powershell
 windows-registry

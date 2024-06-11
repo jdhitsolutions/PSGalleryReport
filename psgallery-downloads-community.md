@@ -1989,9 +1989,9 @@ Powershell module for accessing the REST-API of the baramundi Management Suite.
 
 __Downloads__: 303,874 | __Repository__: 
 
-## [MilestonePSTools](https://www.powershellgallery.com/Packages/MilestonePSTools/23.3.4) | 23.3.4
+## [MilestonePSTools](https://www.powershellgallery.com/Packages/MilestonePSTools/23.3.42) | 23.3.42
 
-### Published: 05/29/2024 01:18:44 by Joshua Hendricks
+### Published: 06/10/2024 23:34:16 by Joshua Hendricks
 
 Milestone XProtect VMS configuration and automation powered by the Milestone MIP SDK.
 
@@ -2189,4 +2189,4 @@ This module contains functions to inject custom data into Log Analytics using th
 
 __Downloads__: 231,645 | __Repository__: https://github.com/tyconsulting/OMSDataInjection-PSModule
 
-*Updated: Monday, 10 June 2024 17:51:50 UTC*
+*Updated: Tuesday, 11 June 2024 02:08:39 UTC*
