@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Tuesday, 11 June 2024 02:08:42 UTC
+Updated: Tuesday, 11 June 2024 09:51:51 UTC
 
 .bat
 .env
@@ -75,6 +75,7 @@ abc
 abc_testing
 abe
 about
+abr
 abstractsyntaxtree
 abuse
 abuseipdb
@@ -184,12 +185,12 @@ adgroupmemberobjects
 adgroupmembers
 adgroups
 adidns
-adif
 adlds
 adm
 admf
 admin
 admin-tools
+adminbyrequest
 admindirectory
 administration
 administrative
@@ -259,7 +260,6 @@ airpower
 airpwr
 airtable
 ais
-aispeech
 aivision
 ajustee
 aka.ms
@@ -304,8 +304,6 @@ alwaysontop
 alwaysonvpn
 alz
 amateur
-amateur-data-interchange-format
-amateur-radio
 amateurradio
 amazon
 amazonaws
@@ -482,7 +480,6 @@ asana
 asbuiltreport
 asc
 ascii
-ascii85
 asciiart
 asdatabase
 asigra
@@ -527,6 +524,7 @@ atom
 atp
 atrium
 att&ck
+attach
 attestation
 attila
 attribute
@@ -629,7 +627,6 @@ axis
 axium
 az
 az-cli
-az.runtimeenvironment
 az.stackhci
 azautomation
 azcli
@@ -761,13 +758,10 @@ barcodes
 baremetal
 base
 base-in-json
-base16
 base26
-base32
 base64
 base64string
 base64url
-base85
 basecamp
 based
 baseline
@@ -839,7 +833,6 @@ binomial
 bios
 bios_settings
 bios-settings
-bit
 bitbucket
 bitbucket-api
 bitbucket-server
@@ -924,7 +917,6 @@ break
 breakpoint
 brew
 brickset
-brickstore
 bridge
 brightbooking
 brightness
@@ -1259,9 +1251,7 @@ cloudmigrations
 cloudpc
 cloudservice
 cloudshell
-clueser
 cluster
-clusterminimumvalues
 clusterplacementgroups
 clusterplugins
 cmaccounts
@@ -1614,7 +1604,6 @@ crypto
 cryptocompare
 cryptocurrency
 cryptography
-cs137
 csc
 csharp
 csharp-watch
@@ -1827,7 +1816,6 @@ deduplication
 deep
 deep-security
 deep-security-manager
-deepl
 deepvisibility
 def
 default
@@ -2007,7 +1995,6 @@ dkim
 dkschrutebeets
 dl
 dll
-dlm
 dlmautomation
 dlmigration
 dlp
@@ -2417,6 +2404,7 @@ evernote
 everydaypowershell
 everydayrewards
 everything
+evilprince2009
 evolutionary-algorithms
 evolutionary-database
 evtx
@@ -2494,7 +2482,6 @@ extendedevents
 extendedproperties
 extendedproperty
 extendscript
-extensibility
 extension
 extensionmethods
 extensionrisk
@@ -2533,6 +2520,7 @@ fastgit
 fastlinq
 fastlookup
 fastping
+fasttrack
 fat32
 favorite
 favorites
@@ -2597,7 +2585,6 @@ files-cli.exe
 files.com
 filesecurity
 fileserver
-fileserverresourcemanager
 fileshare
 filesharing
 filestorage
@@ -2648,7 +2635,6 @@ firmware
 firmwareanalysis
 first
 fisher
-fissionproducts
 fitbit
 fits
 five
@@ -2664,7 +2650,6 @@ flash
 flasharray
 flatfile
 flatten
-fleet
 fleetsoftwareupdate
 flex
 flex-query
@@ -2677,9 +2662,6 @@ flyway
 fmg
 focus
 fod
-fog
-fogapi
-fogproject
 folder
 folderpermission
 folders
@@ -2694,6 +2676,7 @@ forcedelete
 foreach
 foreach-object
 forecast
+forensic
 forensics
 forest
 forestdiscovery
@@ -2750,7 +2733,6 @@ fscps
 fsf
 fsharp
 fslogix
-fsrm
 ftp
 ftps
 fu-msauth
@@ -2773,7 +2755,6 @@ funny
 fusion
 fusionapps
 fuzzy
-fyi
 fzf
 gac
 gainz
@@ -2820,7 +2801,6 @@ generates
 generatewif
 generation
 generativeai
-generativeaiinference
 generator
 generic
 genericartifactscontent
@@ -3122,7 +3102,6 @@ hewlett-packardenterprise
 hex
 hexdump
 hg
-hibernate
 hibernation
 hibp
 hidden
@@ -3361,7 +3340,6 @@ indicator
 inedo
 inetfwrule
 inetum
-infinity
 influx
 influxdb
 info
@@ -3725,7 +3703,6 @@ lake
 lambda
 lame
 lametrictime
-lamp
 lan
 landingzones
 language
@@ -3837,7 +3814,6 @@ listener
 litecoin
 litedb
 literature
-live
 llama2
 lldp
 lmhost
@@ -3886,7 +3862,6 @@ log-management
 log-rotation
 log4net
 loganalytics
-logbook
 logcat
 logentry
 logfile
@@ -4012,7 +3987,6 @@ managednetworkfabric
 managedserviceidenity
 managedserviceidentity
 managedserviceprovider
-managedserviceproviders
 managedservices
 manageengine
 management
@@ -4163,7 +4137,6 @@ microservices
 microsoft
 microsoft_365
 microsoft_azure
-microsoft_endpoint_manager
 microsoft_online
 microsoft_teams
 microsoft-graph
@@ -4260,7 +4233,6 @@ moduleversion
 mof
 moldova
 moment
-monaco
 monday
 mondoo
 money
@@ -4576,7 +4548,6 @@ nprintingapi
 nps
 npslog
 npslogfile
-nql
 nrc
 nrql
 ns
@@ -4708,7 +4679,6 @@ online-backup
 onlinebackup
 onprem
 onpremisesdatagatewayhamgmt
-onq
 ons
 ontap
 ontap_9.14.1
@@ -4836,6 +4806,7 @@ outsystems
 overbite
 ovf
 ovgd
+ovh
 owasp
 owls
 owner
@@ -4901,6 +4872,7 @@ pass
 pass-the-hash
 pass-the-ticket
 passcode
+passivetotal
 passkey
 passphrase
 passphraser passphrase password generator entropy
@@ -5288,6 +5260,7 @@ predictive-text
 predictor
 preferences
 prefix
+prefixing
 preparead
 preparealldomains
 prepareschema
@@ -5388,8 +5361,6 @@ provisonedpackage
 prowl
 prowl-notifications
 prowlapp
-proxmox
-proxmoxve
 proxsys
 proxy
 proxyfunction
@@ -8360,7 +8331,6 @@ pssqlservermodule
 psst
 psstgenerator
 pstablacus
-pstanss
 psthread
 pstk
 pstwitter
@@ -8412,7 +8382,6 @@ pushd
 pushover
 pushoverapi
 putty
-pve
 pvr
 pvs
 pwa
@@ -8558,7 +8527,6 @@ reconcile
 reconnaissance
 record
 recording
-recordsmanagement
 recovery
 recoveryservices
 recruiter
@@ -8587,6 +8555,7 @@ redistributables
 redkite
 redseal
 redshift
+redteaming
 redundancy
 refactor
 refactoring
@@ -8717,13 +8686,11 @@ resource_watcher
 resourcecontroller
 resourcegraph
 resourcegroup
-resourcegroups
 resourceid
 resourcekit
 resourcemanager
 resourcemover
 resources
-resourcescheduler
 resourcesearch
 response
 rest
@@ -8775,6 +8742,7 @@ rightsmanagement
 ring
 ripe
 risk
+riskiq
 riskpro
 risksense
 rivermeadow
@@ -8782,7 +8750,6 @@ rlan
 rmcp
 rmm
 rms
-rng
 roarwrecker
 robbyrussel
 robocopy
@@ -8794,7 +8761,6 @@ rocketcyber
 roco
 rocolatey
 role
-roleassignments
 rolebasedaccesscontrol_model
 roles
 rollingfile
@@ -8880,6 +8846,8 @@ salesloft
 salt
 salt-api
 saltstack
+saltstackconfig
+saltstackenterprise
 sam
 saml
 saml psmodule
@@ -8961,7 +8929,6 @@ scouterna
 scouternasetjanster
 scoutnet
 scp
-scrap
 scrape
 scraper
 scraping
@@ -9353,7 +9320,6 @@ soccer
 social
 social-media
 socialmedia
-socketlabs
 sockets
 sodium
 software
@@ -9503,6 +9469,7 @@ srylius-write
 ssas
 ssc
 ssdt
+sse
 ssh
 ssh-config
 ssh-keygen
@@ -9776,7 +9743,6 @@ taken
 takeown
 tally
 talxis
-tanss
 tanzu
 tar
 target
@@ -10144,7 +10110,6 @@ ud-mouseparticle
 ud-navbarsearch
 ud-numbermask
 ud-orgchart
-ud-piechart3d
 ud-pivottable
 ud-progressstepbar
 ud-rangeslider
@@ -10184,7 +10149,6 @@ ui/ux
 ui7
 uk
 ul
-ulid
 ultimatetool
 um
 uml
@@ -10240,6 +10204,7 @@ updatemgmt
 updater
 updates
 updateservices
+updmanagement
 updmgmt
 upgrade
 uplift
@@ -10297,9 +10262,6 @@ utilities
 utility
 utils
 utm
-uudecode
-uuencode
-uuid
 uup
 uw
 uwp
@@ -10378,7 +10340,6 @@ video
 videos
 vie
 viewer
-vigenere
 vim
 vimode
 virole
