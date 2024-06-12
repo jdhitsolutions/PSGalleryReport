@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Wednesday, 12 June 2024 09:51:52 UTC
+Updated: Wednesday, 12 June 2024 17:51:51 UTC
 
 .bat
 .env
@@ -336,7 +336,6 @@ analyzerrules
 anchor
 and
 android
-anet
 anf
 anglesharp
 angular
@@ -370,7 +369,6 @@ apachekafka
 apexlegends
 api
 api-client
-api-gateway
 api-rest
 apichecks
 apiclient
@@ -587,6 +585,7 @@ automaticpacketreportingsystem
 automation
 automation psmodule
 automationanywhere
+autopatching
 autopilot
 autoscaling
 autostart
@@ -719,7 +718,6 @@ azurepowershell
 azurerepos
 azureresourcemanager
 azureresources
-azureresourcestuff
 azurerestapispecs
 azurerm
 azurerms
@@ -922,7 +920,6 @@ brawlstars
 brazencloud
 bre
 breach
-break
 breakpoint
 brew
 brickset
@@ -1252,7 +1249,6 @@ cloudfoundation
 cloudfront
 cloudgovernance
 cloudguard
-cloudinairy
 cloudinit
 cloudiq
 cloudkey
@@ -1330,6 +1326,7 @@ color-show
 colored
 colorful
 colorized
+colorpicker
 colors
 colour
 column
@@ -1354,7 +1351,6 @@ commence
 comment
 comments
 commerce
-commfort
 commit
 commits
 common
@@ -1682,6 +1678,7 @@ cyberark-identity
 cyberdrain
 cybereason
 cybersecurity
+cyberwatch
 cyclic
 cyclicredundancycheck
 cygwin
@@ -2030,6 +2027,7 @@ dnsdumpster
 dnsentry
 dnsimple
 dnslookup
+dnsmadeeasy
 dnsoverhttps
 dnsrecord
 dnsresolver
@@ -2200,7 +2198,6 @@ dynamics365sales
 dynamics365server
 dynamicsax
 dynamicsecuritygroups
-dynamicsnav
 dynamodb
 dynatrace
 dynatraceobservability
@@ -2221,8 +2218,11 @@ ecovadis
 ed25519
 edgaronline
 edge
+edgebackup
+edgeexport
 edgegateway
 edgeorder
+edgeprofiles
 edgezones
 ediscovery
 edit
@@ -2283,6 +2283,7 @@ enable
 enable-internet
 enable-psremoting
 enable-psremotingremote
+enbrea
 enclosure
 encode
 encode64
@@ -2381,6 +2382,8 @@ eulanda
 evaluator
 evc
 event
+event_id
+event_list
 event-timeline
 eventchannel
 eventchannels
@@ -2389,6 +2392,7 @@ eventful
 eventgrid
 eventhub
 eventing
+eventlist
 eventlog
 eventlogchannel
 eventlogchannels
@@ -2445,7 +2449,6 @@ execute
 exexml
 exif
 exiftool
-exists
 exitcode
 exitprocessrequest
 exo
@@ -2689,7 +2692,6 @@ forensic
 forensics
 forest
 forestdiscovery
-forgit
 forgiveness
 form
 format
@@ -2983,7 +2985,6 @@ gremlin
 grep
 greynoise
 grid
-gridfs
 grok
 groundspeak
 group
@@ -3639,6 +3640,7 @@ kelverion
 kentico
 kerberos
 kernel32
+kestrel
 key
 key-vault
 key2wocas
@@ -3835,7 +3837,6 @@ lldp
 lmhost
 lmhosts
 lms
-load
 loadbalancer
 loadbalancer.org
 loader
@@ -3994,6 +3995,7 @@ man-highlighting
 manage
 manage-wmi
 manageability
+managed
 managed-identity
 manageddevices
 manageddisks
@@ -4064,7 +4066,6 @@ max_path
 maxoffice
 mazerat
 mb
-mbc
 mbs
 mc
 mcafee
@@ -4082,7 +4083,6 @@ mde
 mdep
 mdi
 mdm
-mdop
 mdt
 mdx
 me4024
@@ -4148,6 +4148,7 @@ mi
 micro
 micro-orm
 microfocus
+microk8s
 microservices
 microsoft
 microsoft_365
@@ -4214,6 +4215,7 @@ misc
 miscellaneous
 mitigation
 mitre
+mitre_att&ck
 mitrend
 mittelschule
 mixedreality
@@ -4317,6 +4319,7 @@ msi psmodule
 msiexec
 msil
 msix
+mslab
 msmq
 msol
 msoms
@@ -4409,7 +4412,6 @@ natural-selection
 nature
 nav
 navigation
-nbi
 ncal
 ndes
 nebulon
@@ -4682,7 +4684,6 @@ onedriveforbusiness
 oneget
 oneidentity
 onelogin
-oneloginapi
 onenote
 onestools
 onesubscription
@@ -4852,6 +4853,7 @@ pageant
 pager
 pagerduty
 pages
+pagination
 paloalto
 paloaltonetworks
 pam
@@ -4919,7 +4921,6 @@ patching
 patchtuesday
 path
 pathfinder
-patternmatching
 paulo
 pause
 pax8
@@ -5035,6 +5036,7 @@ playbook
 player
 playlists
 playwright
+pleasant
 pleasantpasswordserver
 plex
 plist
@@ -5120,7 +5122,6 @@ poshy-dir-nav
 poshy-ecks
 poshy-env-proxy
 poshy-env-var
-poshy-ls-isms
 poshy-lucidity
 poshy-multimedia
 poshy-net
@@ -5137,7 +5138,6 @@ poshy-wrap-dnf
 poshy-wrap-docker
 poshy-wrap-docker-compose
 poshy-wrap-dotnet
-poshy-wrap-forgit
 poshy-wrap-gem
 poshy-wrap-gh
 poshy-wrap-git
@@ -5257,8 +5257,8 @@ powertab
 powertoolcmdlets
 powertooldsc
 ppdm
-ppk
 pposh
+pps
 ppt
 pptp
 pptx
@@ -5706,29 +5706,6 @@ pscommand_fmtstrikethrough
 pscommand_fmtstrikethroughoff
 pscommand_fmtunderline
 pscommand_fmtunderlineoff
-pscommand_forgit-add
-pscommand_forgit-blame
-pscommand_forgit-branch-delete
-pscommand_forgit-checkout-branch
-pscommand_forgit-checkout-commit
-pscommand_forgit-checkout-file
-pscommand_forgit-checkout-tag
-pscommand_forgit-cherry-pick
-pscommand_forgit-cherry-pick-from-branch
-pscommand_forgit-clean
-pscommand_forgit-diff
-pscommand_forgit-fixup
-pscommand_forgit-ignore
-pscommand_forgit-ignore-clean
-pscommand_forgit-ignore-list
-pscommand_forgit-ignore-update
-pscommand_forgit-ignoreget
-pscommand_forgit-log
-pscommand_forgit-rebase
-pscommand_forgit-reset-head
-pscommand_forgit-revert-commit
-pscommand_forgit-stash-push
-pscommand_forgit-stash-show
 pscommand_format-batcatstyle
 pscommand_format-lesstermcapenv
 pscommand_format-viewerinvocationsh
@@ -5771,7 +5748,6 @@ pscommand_gcame
 pscommand_gcamg
 pscommand_gcams
 pscommand_gcamu
-pscommand_gcb
 pscommand_gcd
 pscommand_gcem
 pscommand_gcf
@@ -5826,15 +5802,6 @@ pscommand_geo
 pscommand_geoe
 pscommand_get
 pscommand_get-aptinstalledpackages
-pscommand_get-childitemcolorfully
-pscommand_get-childitemcolorfullycramped
-pscommand_get-childitemcolorfullyrevealingly
-pscommand_get-childitemcolorfullyrevealinglycramped
-pscommand_get-childitemcolorfullyrevealinglyrecursively
-pscommand_get-childitemcolorfullyrevealinglyrecursivelywithrecency
-pscommand_get-childitemcolorfullyrevealinglywithrecency
-pscommand_get-childitemcolorfullywithrecency
-pscommand_get-childitemnamesonly
 pscommand_get-dockercontainerall
 pscommand_get-dockercontainerlatest
 pscommand_get-dockercontainerlatestipaddress
@@ -5919,7 +5886,6 @@ pscommand_gflrs
 pscommand_gfo
 pscommand_gft
 pscommand_gftv
-pscommand_gfu
 pscommand_gfv
 pscommand_gg
 pscommand_ggb
@@ -5928,7 +5894,6 @@ pscommand_ggs
 pscommand_ggui
 pscommand_ggup
 pscommand_ghm
-pscommand_gi
 pscommand_gignore
 pscommand_gignored
 pscommand_git_blame_line
@@ -6036,7 +6001,6 @@ pscommand_gra
 pscommand_grb
 pscommand_grbc
 pscommand_grbm
-pscommand_grc
 pscommand_grem
 pscommand_grema
 pscommand_gremrm
@@ -6061,7 +6025,6 @@ pscommand_gsd
 pscommand_gsh
 pscommand_gshsf
 pscommand_gsl
-pscommand_gsp
 pscommand_gsr
 pscommand_gss
 pscommand_gssll
@@ -6784,20 +6747,7 @@ pscommand_krsss
 pscommand_kru
 pscommand_ksd
 pscommand_ksss
-pscommand_l
-pscommand_l1
-pscommand_la
-pscommand_lart
-pscommand_ldot
-pscommand_lf
-pscommand_ll
 pscommand_local-ignore
-pscommand_lr
-pscommand_lrt
-pscommand_ls
-pscommand_lsn
-pscommand_lsr
-pscommand_lt
 pscommand_mcd
 pscommand_mci
 pscommand_mcisk
@@ -6985,7 +6935,6 @@ pscommand_show-gitremote
 pscommand_show-proxy
 pscommand_shttp
 pscommand_shuf
-pscommand_sl
 pscommand_ssh-add-all
 pscommand_ssh-disable-proxy
 pscommand_ssh-enable-proxy
@@ -7391,43 +7340,11 @@ psfunction_fmtstrikethrough
 psfunction_fmtstrikethroughoff
 psfunction_fmtunderline
 psfunction_fmtunderlineoff
-psfunction_forgit-add
-psfunction_forgit-blame
-psfunction_forgit-branch-delete
-psfunction_forgit-checkout-branch
-psfunction_forgit-checkout-commit
-psfunction_forgit-checkout-file
-psfunction_forgit-checkout-tag
-psfunction_forgit-cherry-pick
-psfunction_forgit-cherry-pick-from-branch
-psfunction_forgit-clean
-psfunction_forgit-diff
-psfunction_forgit-fixup
-psfunction_forgit-ignore
-psfunction_forgit-ignore-clean
-psfunction_forgit-ignore-list
-psfunction_forgit-ignore-update
-psfunction_forgit-ignoreget
-psfunction_forgit-log
-psfunction_forgit-rebase
-psfunction_forgit-reset-head
-psfunction_forgit-revert-commit
-psfunction_forgit-stash-push
-psfunction_forgit-stash-show
 psfunction_format-batcatstyle
 psfunction_format-lesstermcapenv
 psfunction_format-viewerinvocationsh
 psfunction_gdv
 psfunction_get-aptinstalledpackages
-psfunction_get-childitemcolorfully
-psfunction_get-childitemcolorfullycramped
-psfunction_get-childitemcolorfullyrevealingly
-psfunction_get-childitemcolorfullyrevealinglycramped
-psfunction_get-childitemcolorfullyrevealinglyrecursively
-psfunction_get-childitemcolorfullyrevealinglyrecursivelywithrecency
-psfunction_get-childitemcolorfullyrevealinglywithrecency
-psfunction_get-childitemcolorfullywithrecency
-psfunction_get-childitemnamesonly
 psfunction_get-dockercontainerall
 psfunction_get-dockercontainerlatest
 psfunction_get-dockercontainerlatestipaddress
@@ -8275,7 +8192,6 @@ psgraph
 psgraylog
 pshot
 pshtml
-psimport
 psincludes_cmdlet
 psincludes_command
 psincludes_function
@@ -8596,6 +8512,7 @@ regex
 region
 regions
 regiser-argumentcompleter
+register
 register-argumentcompleter
 registered
 registrar
@@ -8604,7 +8521,6 @@ registry
 regression
 regular-expression
 regularexpression
-regularexpressions
 reinstall
 relational
 relay
@@ -8750,7 +8666,6 @@ rhapsody
 ribbon
 ribcl
 ricoh
-rightcloud
 rightjoin
 rights
 rightsizing
@@ -8834,7 +8749,6 @@ runner
 runspace
 runspacepool
 runspaces
-runtime
 runtimedefinedparameter
 runtimedefinedparameterdictionary
 runway
@@ -9195,7 +9109,6 @@ shieldedvm
 ships
 shipsprovider
 shipstation
-shlink
 shodan
 shodanps
 shop
@@ -9349,6 +9262,7 @@ softwarepackagedataexchange
 softwareupdatepoint
 softwareupdatepointcomponent
 solarigate
+solarized
 solarwinds
 solr
 soltra
@@ -9412,7 +9326,6 @@ spellcheck
 spelling
 spf
 spfx
-sphere
 spi
 spicetify
 spinnaker
@@ -9473,6 +9386,7 @@ sqlserverbynarymodule
 sqlserverbynarypsmodule
 sqlservermodule
 sqlvirtualmachine
+sqlvm
 sqr
 sqrt
 square
@@ -9588,7 +9502,6 @@ streamanalytics
 streaming
 streamreader
 streamwriter
-stretch
 strictmode
 strikethrough-text
 string
@@ -9597,7 +9510,6 @@ stringmanager
 stringmanagertool
 strings
 stringtable
-stringutilities
 strip-ansi
 stripe
 strongname
@@ -9856,7 +9768,6 @@ testlab
 testplans
 testreport
 tests
-testsuite
 testtag1
 testtag2
 testtool
@@ -9969,6 +9880,7 @@ toshiba
 totp
 touch
 toughswitch
+tower
 tphubps
 tpm
 tr-064
@@ -10128,6 +10040,7 @@ ud-pivottable
 ud-progressstepbar
 ud-rangeslider
 ud-readingbar
+ud-scrollspy
 ud-selectdatetime
 ud-selector
 ud-signature
@@ -10142,6 +10055,7 @@ ud-tagcloud
 ud-timeline
 ud-timeout
 ud-tool
+ud-toploader
 ud-trendline
 ud-typing
 ud-window
@@ -10233,7 +10147,6 @@ uri
 uri-scheme
 url
 url-encode
-url-shortener
 urldecode
 urlencode
 urlhaus
@@ -10565,7 +10478,6 @@ websphereappserver
 websphereportal
 webtest
 webtesting
-webtime
 webview2
 wec
 wecutil
@@ -10621,6 +10533,7 @@ window
 windows
 windows  server
 windows explorer
+windows_events
 windows-10
 windows-11
 windows-api
@@ -10732,6 +10645,7 @@ wordlist
 wordpress
 wordwrap
 workbook
+workday
 worker
 workflow
 workflowmax
