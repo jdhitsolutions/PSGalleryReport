@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Thursday, 13 June 2024 09:52:04 UTC
+Updated: Thursday, 13 June 2024 17:52:07 UTC
 
 .bat
 .env
@@ -94,6 +94,7 @@ accord
 accord.net
 accordian
 account
+accounting
 accounts
 ace
 ack
@@ -274,6 +275,7 @@ alac
 alarm
 alb
 albums
+alc
 alero
 alert
 alerting
@@ -422,7 +424,6 @@ appservice
 appservices
 appsetting
 appv
-appventix
 appveyor
 appvolumes
 appwrite
@@ -498,6 +499,8 @@ aspnet
 aspnet_regiis
 asr
 assembleenationale
+assembly
+assemblyloadcontext
 assemblymeta
 assert
 assertion
@@ -543,6 +546,7 @@ auditpolicy
 audits
 aumid
 aut
+auth
 auth0
 authenticate
 authentication
@@ -788,6 +792,7 @@ bc
 bcd
 bcdedit
 bcdr
+bd
 bdd
 bds
 be.stateless
@@ -871,10 +876,9 @@ blocks
 blog
 blogs
 bloodhound
-bloxone
-bloxoneddi
 bls
 blue
+bluedolhin
 blueprint
 blueprints
 blueteam
@@ -958,7 +962,6 @@ buildingmapping
 buildkit
 buildkite
 buildmaster
-builds
 buildtool
 bulk
 bulletin
@@ -1664,7 +1667,6 @@ customproviders
 cutehttpfileserver
 cvad
 cve
-cve-2021-34527
 cvrf
 cvss
 cwi
@@ -1730,7 +1732,7 @@ datacatalog
 datacenter
 dataclassification
 datacollectionrule
-dataconnectivity
+dataconduit
 datadog
 dataexchange
 dataexplorer
@@ -1742,6 +1744,7 @@ datagateway
 dataintegration
 datakwaliteit
 datalabelingservice
+datalabelingservicedataplane
 datalake
 datamanipulation
 datamodel
@@ -1780,7 +1783,10 @@ db
 db2
 dba
 dbaas
+dbai
 dbase
+dbassistant
+dbatools
 dbcommand
 dbeaver
 dbfs
@@ -1813,6 +1819,7 @@ decoding
 decompiler
 decrypt
 decryption
+dedicatedhsm
 deduplication
 deep
 deep-security
@@ -2152,6 +2159,7 @@ dts
 dtsx
 dtx
 du
+dual-stack
 duck
 duckduckgo
 ducktyping
@@ -2226,6 +2234,7 @@ editor
 editorservices
 edr
 education
+educational
 effectiveroutes
 efficientether
 efi
@@ -2625,7 +2634,6 @@ finddownloadlinkfromwebsite
 findfile
 findlocation
 findplace
-findproxyforurl
 fine-print
 fine-tuning
 finops
@@ -3114,7 +3122,6 @@ hewlett-packardenterprise
 hex
 hexdump
 hg
-hibernate
 hibernation
 hibp
 hidden
@@ -3329,7 +3336,6 @@ imap
 imb
 imei
 imi
-impala
 impersonation
 imperva
 import
@@ -3450,7 +3456,6 @@ invitation
 invocation
 invoice
 invoke
-invoke-asadmin
 invoke-asadministrator
 invoke-ascurrentuser
 invoke-automation
@@ -3673,6 +3678,7 @@ knob
 knowbe4
 knowledge
 knowledgebase
+koans
 kodi
 korn
 kotlin
@@ -3695,7 +3701,6 @@ kurukuru
 kusto
 kvm
 kvp
-kvt
 l1tf
 l2tp
 lab
@@ -3738,6 +3743,7 @@ latestupdate
 latin
 latitude
 launcher
+layer
 layman
 layout
 lazywinadmin
@@ -3766,6 +3772,7 @@ lego
 lein
 leiningnen
 lemonai
+lenel
 length
 lenovo
 less
@@ -3796,6 +3803,7 @@ limesurvey
 limit-job
 limits
 lina
+line
 line-endings
 linear
 linearalgebra
@@ -3819,7 +3827,6 @@ liquid
 liquit
 liquit.com
 list
-list_files
 list-directory
 list-item
 listener
@@ -3897,7 +3904,6 @@ login-azurermaccount
 login-rdp
 logingestion
 loginscreen
-loginsight
 logiphys
 logistic
 logitech
@@ -3943,14 +3949,13 @@ lunches
 lwa
 lxca
 lxcapstool
-lxco
-lxcopstool
 lync
 m365
 m365defenderstuff
 m365dsc
 maatschap-fortigi
 mac
+mac-address
 macaddress
 machine
 machinelearning
@@ -3995,6 +4000,7 @@ managed-identity
 manageddevices
 manageddisks
 managedidentities
+managedidentity
 managednetworkfabric
 managedserviceidenity
 managedserviceidentity
@@ -4028,7 +4034,6 @@ marketing
 marketo
 marketplace
 marketplaceordering
-marketplaceprivateoffer
 marketplacepublisher
 marking
 marklogic
@@ -4070,7 +4075,6 @@ mccs
 mcd
 mchapv2
 mct
-md5
 md5_v2-18678d945a01f01ccd1b01ed86392fd5
 mdatp
 mdb
@@ -4212,7 +4216,6 @@ miration-step
 mirror
 misc
 miscellaneous
-mitigation
 mitre
 mitre_att&ck
 mitrend
@@ -4509,7 +4512,6 @@ nginx
 nhl
 nic
 nic.ru
-nightmare
 ninite
 ninja
 ninjaone
@@ -4685,6 +4687,7 @@ onedriveforbusiness
 oneget
 oneidentity
 onelogin
+oneloginapi
 onenote
 onestools
 onesubscription
@@ -4805,6 +4808,7 @@ otel
 otp
 ou
 ou-object
+oui-search
 oura
 ouraring
 out-consolegridview
@@ -4889,7 +4893,6 @@ pass-the-hash
 pass-the-ticket
 passcode
 passivetotal
-passkey
 passphrase
 passphraser passphrase password generator entropy
 passwd
@@ -5135,7 +5138,6 @@ poshy-viewer-finder
 poshy-wrap
 poshy-wrap-apt
 poshy-wrap-argcomplete
-poshy-wrap-brew
 poshy-wrap-curl
 poshy-wrap-dnf
 poshy-wrap-docker
@@ -5274,7 +5276,6 @@ prediction
 predictive
 predictive-text
 predictor
-preferences
 prefix
 prefixing
 preparead
@@ -5303,7 +5304,6 @@ printer
 printers
 printershare
 printing
-printnightmare
 printserver
 prism
 prism_element
@@ -5459,9 +5459,6 @@ pscommand_apt-list-packages
 pscommand_arch
 pscommand_asrc
 pscommand_basename
-pscommand_bcubc
-pscommand_bcubo
-pscommand_bfu
 pscommand_bgblack
 pscommand_bgblue
 pscommand_bgbrightblack
@@ -5481,14 +5478,6 @@ pscommand_bgred
 pscommand_bgrgb
 pscommand_bgwhite
 pscommand_bgyellow
-pscommand_brewp
-pscommand_brewsp
-pscommand_bubc
-pscommand_bubo
-pscommand_bubu
-pscommand_bubug
-pscommand_bugbc
-pscommand_buz
 pscommand_catimg
 pscommand_cd-
 pscommand_cd..
@@ -6121,17 +6110,6 @@ pscommand_invoke-aptgetsource
 pscommand_invoke-aptlistinstalled
 pscommand_invoke-aptlistupgradable
 pscommand_invoke-aptpreferred
-pscommand_invoke-brewlistpinned
-pscommand_invoke-brewpin
-pscommand_invoke-brewuninstallzap
-pscommand_invoke-brewupdateandoutdated
-pscommand_invoke-brewupdateandoutdatedandupgradeandcleanup
-pscommand_invoke-brewupdateandoutdatedandupgradegreedyandcleanup
-pscommand_invoke-brewupdateandoutdatedcask
-pscommand_invoke-brewupgradeandcleanup
-pscommand_invoke-brewupgradecaskandcleanup
-pscommand_invoke-brewupgradeformula
-pscommand_invoke-brewupgradegreedyandcleanup
 pscommand_invoke-curlfollowingredirects
 pscommand_invoke-curlfollowingredirectsdownloadasnamed
 pscommand_invoke-curlfollowingredirectsdownloadasnamedcontinue
@@ -7531,17 +7509,6 @@ psfunction_invoke-aptgetsource
 psfunction_invoke-aptlistinstalled
 psfunction_invoke-aptlistupgradable
 psfunction_invoke-aptpreferred
-psfunction_invoke-brewlistpinned
-psfunction_invoke-brewpin
-psfunction_invoke-brewuninstallzap
-psfunction_invoke-brewupdateandoutdated
-psfunction_invoke-brewupdateandoutdatedandupgradeandcleanup
-psfunction_invoke-brewupdateandoutdatedandupgradegreedyandcleanup
-psfunction_invoke-brewupdateandoutdatedcask
-psfunction_invoke-brewupgradeandcleanup
-psfunction_invoke-brewupgradecaskandcleanup
-psfunction_invoke-brewupgradeformula
-psfunction_invoke-brewupgradegreedyandcleanup
 psfunction_invoke-curlfollowingredirects
 psfunction_invoke-curlfollowingredirectsdownloadasnamed
 psfunction_invoke-curlfollowingredirectsdownloadasnamedcontinue
@@ -8275,7 +8242,6 @@ psfunction_xin
 psfunction_xwith
 psgallery
 psget
-psgitlab
 psgraph
 psgraylog
 pshot
@@ -8353,7 +8319,6 @@ pstanss
 psthread
 pstk
 pstwitter
-pswa
 pswindocumentation
 pswinreporting
 pswinreportingv2
@@ -8389,6 +8354,7 @@ puppet
 puppetdb
 puppy
 pure
+pure1
 pureservice
 purestorage
 purple
@@ -8403,7 +8369,6 @@ putty
 pve
 pvr
 pvs
-pwa
 pwned
 pwpush
 pwsafe
@@ -8456,6 +8421,7 @@ queue
 queues
 queuing
 quickaccess
+quickbase
 quickbooks
 quicksetup
 quiz
@@ -8468,6 +8434,7 @@ quotestoliveby
 quoting
 quser
 qword
+r
 r53
 rabbit
 rabbitmq
@@ -8710,7 +8677,6 @@ resourcekit
 resourcemanager
 resourcemover
 resources
-resourcescheduler
 resourcesearch
 response
 rest
@@ -8733,7 +8699,6 @@ reverse-string
 reversed-color-text
 reversedsc
 reverseengineering
-review
 revision
 reword
 rewrite
@@ -8907,6 +8872,7 @@ scale
 scan
 scanner
 scap
+scatter
 scb
 scc
 sccm
@@ -8963,6 +8929,7 @@ screensaver
 screenscraping
 screenshot
 script
+script_version
 script-to-assembly
 script-to-executable
 scriptanalyzer
@@ -9113,6 +9080,7 @@ servicebusforwindowsserver
 servicecatalog
 serviceconnectionpoint
 servicecontrol
+servicedesk
 servicedeskplus
 serviceendpoints
 servicefabric
@@ -9360,6 +9328,7 @@ solutions
 sonarcloud
 sonarqube
 sonarr
+sonatype
 songs
 sonicos
 sonicwall
@@ -9370,6 +9339,7 @@ soonr
 soonragent
 sophos
 sort
+sort-json
 sorting
 source
 source-dedicated-server
@@ -9423,8 +9393,8 @@ splat
 splatting
 split
 splunk
+spn
 spo
-spooler
 sport
 sports
 sports-tracker
@@ -9906,7 +9876,6 @@ threads
 threadsanitizer
 threat
 threat-hunting
-threatdefense
 threathunting
 threatintelligence
 thumbprint
@@ -9962,6 +9931,7 @@ topdesk
 topgrade
 topics
 topology
+tor
 toradex
 torizon
 torrent
@@ -10099,6 +10069,7 @@ ubuntu
 ucs
 ucspowertool
 ud-avataaar
+ud-badgebutton
 ud-badgelink
 ud-breadcrumb
 ud-breadcrumbitem
@@ -10113,10 +10084,12 @@ ud-confetti
 ud-control
 ud-dashboard
 ud-datepicker
+ud-field
 ud-flexytable
 ud-funnel
 ud-hero
 ud-illustration
+ud-input
 ud-licensed
 ud-loadingoverlay
 ud-minesweeper
@@ -10449,6 +10422,7 @@ vpn-certificate
 vpro
 vps
 vra
+vrchat
 vrealize
 vrising
 vro
@@ -10577,6 +10551,7 @@ weixin
 well-known
 wem
 wemsdk
+wer
 wget
 what3words
 whatismyip
@@ -10742,7 +10717,9 @@ workflows
 workingdays
 workinghours
 workingtime
+workload
 workload-automation
+workloadidentity
 workloads
 workpoint
 workrequests
