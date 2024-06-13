@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Wednesday, 12 June 2024 17:51:51 UTC
+Updated: Thursday, 13 June 2024 02:08:29 UTC
 
 .bat
 .env
@@ -291,8 +291,6 @@ alias-hint
 alias-tips
 aliases
 aliens
-alkane
-alkanepsf
 all
 alletra
 alloydb
@@ -354,7 +352,6 @@ ansible-control-node
 ansible-playbook
 ansible-vault
 ansiblecontrolnode
-anti-malware
 antimalwarescaninterface
 antispam
 antivirus
@@ -369,6 +366,7 @@ apachekafka
 apexlegends
 api
 api-client
+api-gateway
 api-rest
 apichecks
 apiclient
@@ -487,6 +485,7 @@ ascii
 ascii85
 asciiart
 asdatabase
+asigra
 asjob
 asm
 asn.1
@@ -699,7 +698,6 @@ azuredevops
 azuredevops_security
 azuredevopsserver
 azuredns
-azurefilesync
 azurefunctionapp
 azurefunctions
 azuregraph
@@ -718,6 +716,7 @@ azurepowershell
 azurerepos
 azureresourcemanager
 azureresources
+azureresourcestuff
 azurerestapispecs
 azurerm
 azurerms
@@ -871,6 +870,7 @@ block
 block-kit
 blockchain
 blocks
+blog
 blogs
 bloodhound
 bloxone
@@ -920,6 +920,7 @@ brawlstars
 brazencloud
 bre
 breach
+break
 breakpoint
 brew
 brickset
@@ -960,7 +961,6 @@ buildingmapping
 buildkit
 buildkite
 buildmaster
-builds
 buildtool
 bulk
 bulletin
@@ -1249,6 +1249,7 @@ cloudfoundation
 cloudfront
 cloudgovernance
 cloudguard
+cloudinairy
 cloudinit
 cloudiq
 cloudkey
@@ -1351,6 +1352,7 @@ commence
 comment
 comments
 commerce
+commfort
 commit
 commits
 common
@@ -1732,7 +1734,6 @@ datacenter
 dataclassification
 datacollectionrule
 dataconduit
-dataconnectivity
 datadog
 dataexchange
 dataexplorer
@@ -1816,6 +1817,7 @@ decline
 decode
 decode64
 decoding
+decompiler
 decrypt
 decryption
 dedicatedhsm
@@ -1845,7 +1847,6 @@ delegation
 delegationmodel
 delete
 delete-orphan-branches
-deletefile
 deleteuserprofile
 delivery
 dell
@@ -2133,6 +2134,7 @@ drupal
 drush
 dry
 ds
+ds-client
 ds-utils
 dsa
 dsacls
@@ -2142,6 +2144,7 @@ dsc-resources
 dsccertificates
 dscconcepts
 dscdriftmonitor
+dsclient
 dscresource
 dscresourcekit
 dscresources
@@ -2198,6 +2201,7 @@ dynamics365sales
 dynamics365server
 dynamicsax
 dynamicsecuritygroups
+dynamicsnav
 dynamodb
 dynatrace
 dynatraceobservability
@@ -2364,7 +2368,6 @@ espressif
 esri
 essbase
 estimate
-estimation
 esx
 esxi
 eternalblue
@@ -2449,6 +2452,7 @@ execute
 exexml
 exif
 exiftool
+exists
 exitcode
 exitprocessrequest
 exo
@@ -2497,7 +2501,6 @@ externalip
 extract
 extraction
 extractor
-extreme-networks
 eztheme
 f
 f#
@@ -2692,6 +2695,7 @@ forensic
 forensics
 forest
 forestdiscovery
+forgit
 forgiveness
 form
 format
@@ -2766,7 +2770,6 @@ functions
 funds
 funny
 fusion
-fusionapps
 fuzzy
 fyi
 fzf
@@ -2985,6 +2988,7 @@ gremlin
 grep
 greynoise
 grid
+gridfs
 grok
 groundspeak
 group
@@ -3453,7 +3457,6 @@ invocation
 invoice
 invoke
 invoke-asadmin
-invoke-asadministrator
 invoke-ascurrentuser
 invoke-automation
 invoke-build
@@ -3534,6 +3537,7 @@ itemobject
 items
 itemstack
 iterate
+iteration
 itg
 itglue
 itin
@@ -3567,7 +3571,6 @@ jira
 jiraservicemanagement
 jitbit
 jms
-jmsjavadownloads
 jnet
 jnetps
 joat
@@ -3837,6 +3840,7 @@ lldp
 lmhost
 lmhosts
 lms
+load
 loadbalancer
 loadbalancer.org
 loader
@@ -3858,7 +3862,6 @@ localpolicy
 location
 locationbasedservices
 lock
-lockbox
 lockdisplaytimeout
 lockdown
 lockfile
@@ -3991,7 +3994,6 @@ maker
 malware
 mamagedidentity
 maml
-man-highlighting
 manage
 manage-wmi
 manageability
@@ -4016,7 +4018,6 @@ managementpoint
 manager
 mangement
 manifest
-manual
 map
 mapapi
 mapi
@@ -4063,9 +4064,11 @@ matrix
 maven
 max
 max_path
+maximum
 maxoffice
 mazerat
 mb
+mbc
 mbs
 mc
 mcafee
@@ -4083,6 +4086,7 @@ mde
 mdep
 mdi
 mdm
+mdop
 mdt
 mdx
 me4024
@@ -4095,6 +4099,7 @@ media
 mediant
 mediaplayer
 mediaservices
+mediawiki
 meditation
 meesman
 meeting
@@ -4110,7 +4115,6 @@ members
 membership
 memcm
 memory
-memorydump
 memorystream
 mention
 menu
@@ -4207,6 +4211,7 @@ minecraft
 miniconda
 minifier
 minimal
+minimum
 mip
 mipsdk
 miration-step
@@ -4356,6 +4361,7 @@ multidimenstional
 multimedia
 multios
 multipass
+multiple
 multiserver
 multistring
 multithread
@@ -4684,6 +4690,7 @@ onedriveforbusiness
 oneget
 oneidentity
 onelogin
+oneloginapi
 onenote
 onestools
 onesubscription
@@ -4787,6 +4794,7 @@ osdupdate
 osi
 osm
 osmanagement
+osmanagementhub
 osp
 ospgateway
 osprovision
@@ -4921,6 +4929,7 @@ patching
 patchtuesday
 path
 pathfinder
+patternmatching
 paulo
 pause
 pax8
@@ -5122,6 +5131,7 @@ poshy-dir-nav
 poshy-ecks
 poshy-env-proxy
 poshy-env-var
+poshy-ls-isms
 poshy-lucidity
 poshy-multimedia
 poshy-net
@@ -5138,6 +5148,7 @@ poshy-wrap-dnf
 poshy-wrap-docker
 poshy-wrap-docker-compose
 poshy-wrap-dotnet
+poshy-wrap-forgit
 poshy-wrap-gem
 poshy-wrap-gh
 poshy-wrap-git
@@ -5257,6 +5268,7 @@ powertab
 powertoolcmdlets
 powertooldsc
 ppdm
+ppk
 pposh
 pps
 ppt
@@ -5706,6 +5718,29 @@ pscommand_fmtstrikethrough
 pscommand_fmtstrikethroughoff
 pscommand_fmtunderline
 pscommand_fmtunderlineoff
+pscommand_forgit-add
+pscommand_forgit-blame
+pscommand_forgit-branch-delete
+pscommand_forgit-checkout-branch
+pscommand_forgit-checkout-commit
+pscommand_forgit-checkout-file
+pscommand_forgit-checkout-tag
+pscommand_forgit-cherry-pick
+pscommand_forgit-cherry-pick-from-branch
+pscommand_forgit-clean
+pscommand_forgit-diff
+pscommand_forgit-fixup
+pscommand_forgit-ignore
+pscommand_forgit-ignore-clean
+pscommand_forgit-ignore-list
+pscommand_forgit-ignore-update
+pscommand_forgit-ignoreget
+pscommand_forgit-log
+pscommand_forgit-rebase
+pscommand_forgit-reset-head
+pscommand_forgit-revert-commit
+pscommand_forgit-stash-push
+pscommand_forgit-stash-show
 pscommand_format-batcatstyle
 pscommand_format-lesstermcapenv
 pscommand_format-viewerinvocationsh
@@ -5748,6 +5783,7 @@ pscommand_gcame
 pscommand_gcamg
 pscommand_gcams
 pscommand_gcamu
+pscommand_gcb
 pscommand_gcd
 pscommand_gcem
 pscommand_gcf
@@ -5802,6 +5838,15 @@ pscommand_geo
 pscommand_geoe
 pscommand_get
 pscommand_get-aptinstalledpackages
+pscommand_get-childitemcolorfully
+pscommand_get-childitemcolorfullycramped
+pscommand_get-childitemcolorfullyrevealingly
+pscommand_get-childitemcolorfullyrevealinglycramped
+pscommand_get-childitemcolorfullyrevealinglyrecursively
+pscommand_get-childitemcolorfullyrevealinglyrecursivelywithrecency
+pscommand_get-childitemcolorfullyrevealinglywithrecency
+pscommand_get-childitemcolorfullywithrecency
+pscommand_get-childitemnamesonly
 pscommand_get-dockercontainerall
 pscommand_get-dockercontainerlatest
 pscommand_get-dockercontainerlatestipaddress
@@ -5886,6 +5931,7 @@ pscommand_gflrs
 pscommand_gfo
 pscommand_gft
 pscommand_gftv
+pscommand_gfu
 pscommand_gfv
 pscommand_gg
 pscommand_ggb
@@ -5894,6 +5940,7 @@ pscommand_ggs
 pscommand_ggui
 pscommand_ggup
 pscommand_ghm
+pscommand_gi
 pscommand_gignore
 pscommand_gignored
 pscommand_git_blame_line
@@ -6001,6 +6048,7 @@ pscommand_gra
 pscommand_grb
 pscommand_grbc
 pscommand_grbm
+pscommand_grc
 pscommand_grem
 pscommand_grema
 pscommand_gremrm
@@ -6025,6 +6073,7 @@ pscommand_gsd
 pscommand_gsh
 pscommand_gshsf
 pscommand_gsl
+pscommand_gsp
 pscommand_gsr
 pscommand_gss
 pscommand_gssll
@@ -6747,7 +6796,20 @@ pscommand_krsss
 pscommand_kru
 pscommand_ksd
 pscommand_ksss
+pscommand_l
+pscommand_l1
+pscommand_la
+pscommand_lart
+pscommand_ldot
+pscommand_lf
+pscommand_ll
 pscommand_local-ignore
+pscommand_lr
+pscommand_lrt
+pscommand_ls
+pscommand_lsn
+pscommand_lsr
+pscommand_lt
 pscommand_mcd
 pscommand_mci
 pscommand_mcisk
@@ -6935,6 +6997,7 @@ pscommand_show-gitremote
 pscommand_show-proxy
 pscommand_shttp
 pscommand_shuf
+pscommand_sl
 pscommand_ssh-add-all
 pscommand_ssh-disable-proxy
 pscommand_ssh-enable-proxy
@@ -7181,7 +7244,6 @@ psexcel
 psexec
 psexec.exe
 psexpandline
-psf
 psfciv
 psfitbit
 psfive9
@@ -7340,11 +7402,43 @@ psfunction_fmtstrikethrough
 psfunction_fmtstrikethroughoff
 psfunction_fmtunderline
 psfunction_fmtunderlineoff
+psfunction_forgit-add
+psfunction_forgit-blame
+psfunction_forgit-branch-delete
+psfunction_forgit-checkout-branch
+psfunction_forgit-checkout-commit
+psfunction_forgit-checkout-file
+psfunction_forgit-checkout-tag
+psfunction_forgit-cherry-pick
+psfunction_forgit-cherry-pick-from-branch
+psfunction_forgit-clean
+psfunction_forgit-diff
+psfunction_forgit-fixup
+psfunction_forgit-ignore
+psfunction_forgit-ignore-clean
+psfunction_forgit-ignore-list
+psfunction_forgit-ignore-update
+psfunction_forgit-ignoreget
+psfunction_forgit-log
+psfunction_forgit-rebase
+psfunction_forgit-reset-head
+psfunction_forgit-revert-commit
+psfunction_forgit-stash-push
+psfunction_forgit-stash-show
 psfunction_format-batcatstyle
 psfunction_format-lesstermcapenv
 psfunction_format-viewerinvocationsh
 psfunction_gdv
 psfunction_get-aptinstalledpackages
+psfunction_get-childitemcolorfully
+psfunction_get-childitemcolorfullycramped
+psfunction_get-childitemcolorfullyrevealingly
+psfunction_get-childitemcolorfullyrevealinglycramped
+psfunction_get-childitemcolorfullyrevealinglyrecursively
+psfunction_get-childitemcolorfullyrevealinglyrecursivelywithrecency
+psfunction_get-childitemcolorfullyrevealinglywithrecency
+psfunction_get-childitemcolorfullywithrecency
+psfunction_get-childitemnamesonly
 psfunction_get-dockercontainerall
 psfunction_get-dockercontainerlatest
 psfunction_get-dockercontainerlatestipaddress
@@ -8187,11 +8281,11 @@ psfunction_xin
 psfunction_xwith
 psgallery
 psget
-psgitlab
 psgraph
 psgraylog
 pshot
 pshtml
+psimport
 psincludes_cmdlet
 psincludes_command
 psincludes_function
@@ -8495,6 +8589,7 @@ refeds
 refeds-mfa
 refedsmfa
 reference
+reflect
 reflection
 refresh
 refreshtoken
@@ -8521,6 +8616,7 @@ registry
 regression
 regular-expression
 regularexpression
+regularexpressions
 reinstall
 relational
 relay
@@ -8564,7 +8660,6 @@ remove-pass
 remove-path
 remove-pinneditem
 remove-tempfiles
-removefile
 removetypeaccelerators
 remux
 ren-isac
@@ -8638,7 +8733,6 @@ retention
 retro
 retry
 returnuserprofile
-retype
 reuse
 reverse-engineer
 reverse-string
@@ -8749,6 +8843,7 @@ runner
 runspace
 runspacepool
 runspaces
+runtime
 runtimedefinedparameter
 runtimedefinedparameterdictionary
 runway
@@ -9082,6 +9177,8 @@ sha256crypt
 sha512crypt
 shacrypt
 shadow
+shadowcopy
+shadowcopybackups
 shadowgroups
 shanghaitech
 shard
@@ -9109,6 +9206,7 @@ shieldedvm
 ships
 shipsprovider
 shipstation
+shlink
 shodan
 shodanps
 shop
@@ -9312,6 +9410,7 @@ speak
 speaker
 spec
 specification
+specify
 spectre
 spectrumconnect
 spectrumcontrolbase
@@ -9326,6 +9425,7 @@ spellcheck
 spelling
 spf
 spfx
+sphere
 spi
 spicetify
 spinnaker
@@ -9502,6 +9602,7 @@ streamanalytics
 streaming
 streamreader
 streamwriter
+stretch
 strictmode
 strikethrough-text
 string
@@ -9510,6 +9611,7 @@ stringmanager
 stringmanagertool
 strings
 stringtable
+stringutilities
 strip-ansi
 stripe
 strongname
@@ -9952,7 +10054,6 @@ truportal
 trusted
 trusted-host
 trustedhosts
-trustedinstaller
 trustedrootcertificate
 trustedsigning
 truth
@@ -10024,10 +10125,12 @@ ud-confetti
 ud-control
 ud-dashboard
 ud-datepicker
+ud-field
 ud-flexytable
 ud-funnel
 ud-hero
 ud-illustration
+ud-input
 ud-licensed
 ud-loadingoverlay
 ud-minesweeper
@@ -10147,6 +10250,7 @@ uri
 uri-scheme
 url
 url-encode
+url-shortener
 urldecode
 urlencode
 urlhaus
@@ -10157,7 +10261,6 @@ urlupdate
 uru
 usage
 usageaggregates
-usageapi
 usap
 usb
 useful
@@ -10345,6 +10448,7 @@ voidtools
 volkskrant
 volta
 volume
+volumeshadowcopy
 volumio
 voperator
 vorbis
@@ -10719,7 +10823,6 @@ wus
 wvd
 www
 x-cart
-x.509
 x1
 x2
 x509
@@ -10751,7 +10854,6 @@ xin
 xkcd
 xliff
 xlsx
-xmc
 xml
 xml-rpc
 xml-transform
@@ -10805,7 +10907,6 @@ zip-compression
 zipfile-transform
 zisson
 zoho
-zoicware
 zone
 zookeeper
 zoom
