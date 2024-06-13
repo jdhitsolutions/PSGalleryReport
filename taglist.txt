@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Thursday, 13 June 2024 02:08:29 UTC
+Updated: Thursday, 13 June 2024 09:52:04 UTC
 
 .bat
 .env
@@ -94,7 +94,6 @@ accord
 accord.net
 accordian
 account
-accounting
 accounts
 ace
 ack
@@ -275,7 +274,6 @@ alac
 alarm
 alb
 albums
-alc
 alero
 alert
 alerting
@@ -291,6 +289,8 @@ alias-hint
 alias-tips
 aliases
 aliens
+alkane
+alkanepsf
 all
 alletra
 alloydb
@@ -334,6 +334,7 @@ analyzerrules
 anchor
 and
 android
+anet
 anf
 anglesharp
 angular
@@ -497,8 +498,6 @@ aspnet
 aspnet_regiis
 asr
 assembleenationale
-assembly
-assemblyloadcontext
 assemblymeta
 assert
 assertion
@@ -544,7 +543,6 @@ auditpolicy
 audits
 aumid
 aut
-auth
 auth0
 authenticate
 authentication
@@ -698,6 +696,7 @@ azuredevops
 azuredevops_security
 azuredevopsserver
 azuredns
+azurefilesync
 azurefunctionapp
 azurefunctions
 azuregraph
@@ -789,7 +788,6 @@ bc
 bcd
 bcdedit
 bcdr
-bd
 bdd
 bds
 be.stateless
@@ -877,7 +875,6 @@ bloxone
 bloxoneddi
 bls
 blue
-bluedolhin
 blueprint
 blueprints
 blueteam
@@ -961,6 +958,7 @@ buildingmapping
 buildkit
 buildkite
 buildmaster
+builds
 buildtool
 bulk
 bulletin
@@ -1455,7 +1453,6 @@ container
 containerengine
 containergroup
 containerinstance
-containerinstances
 containerregistry
 containers
 containment
@@ -1733,7 +1730,7 @@ datacatalog
 datacenter
 dataclassification
 datacollectionrule
-dataconduit
+dataconnectivity
 datadog
 dataexchange
 dataexplorer
@@ -1745,7 +1742,6 @@ datagateway
 dataintegration
 datakwaliteit
 datalabelingservice
-datalabelingservicedataplane
 datalake
 datamanipulation
 datamodel
@@ -1784,10 +1780,7 @@ db
 db2
 dba
 dbaas
-dbai
 dbase
-dbassistant
-dbatools
 dbcommand
 dbeaver
 dbfs
@@ -1820,7 +1813,6 @@ decoding
 decompiler
 decrypt
 decryption
-dedicatedhsm
 deduplication
 deep
 deep-security
@@ -1847,6 +1839,7 @@ delegation
 delegationmodel
 delete
 delete-orphan-branches
+deletefile
 deleteuserprofile
 delivery
 dell
@@ -2159,7 +2152,6 @@ dts
 dtsx
 dtx
 du
-dual-stack
 duck
 duckduckgo
 ducktyping
@@ -2234,7 +2226,6 @@ editor
 editorservices
 edr
 education
-educational
 effectiveroutes
 efficientether
 efi
@@ -2368,6 +2359,7 @@ espressif
 esri
 essbase
 estimate
+estimation
 esx
 esxi
 eternalblue
@@ -2501,6 +2493,7 @@ externalip
 extract
 extraction
 extractor
+extreme-networks
 eztheme
 f
 f#
@@ -2770,6 +2763,7 @@ functions
 funds
 funny
 fusion
+fusionapps
 fuzzy
 fyi
 fzf
@@ -3457,6 +3451,7 @@ invocation
 invoice
 invoke
 invoke-asadmin
+invoke-asadministrator
 invoke-ascurrentuser
 invoke-automation
 invoke-build
@@ -3571,6 +3566,7 @@ jira
 jiraservicemanagement
 jitbit
 jms
+jmsjavadownloads
 jnet
 jnetps
 joat
@@ -3677,7 +3673,6 @@ knob
 knowbe4
 knowledge
 knowledgebase
-koans
 kodi
 korn
 kotlin
@@ -3743,7 +3738,6 @@ latestupdate
 latin
 latitude
 launcher
-layer
 layman
 layout
 lazywinadmin
@@ -3772,7 +3766,6 @@ lego
 lein
 leiningnen
 lemonai
-lenel
 length
 lenovo
 less
@@ -3803,7 +3796,6 @@ limesurvey
 limit-job
 limits
 lina
-line
 line-endings
 linear
 linearalgebra
@@ -3862,6 +3854,7 @@ localpolicy
 location
 locationbasedservices
 lock
+lockbox
 lockdisplaytimeout
 lockdown
 lockfile
@@ -3958,7 +3951,6 @@ m365defenderstuff
 m365dsc
 maatschap-fortigi
 mac
-mac-address
 macaddress
 machine
 machinelearning
@@ -3994,6 +3986,7 @@ maker
 malware
 mamagedidentity
 maml
+man-highlighting
 manage
 manage-wmi
 manageability
@@ -4002,7 +3995,6 @@ managed-identity
 manageddevices
 manageddisks
 managedidentities
-managedidentity
 managednetworkfabric
 managedserviceidenity
 managedserviceidentity
@@ -4018,6 +4010,7 @@ managementpoint
 manager
 mangement
 manifest
+manual
 map
 mapapi
 mapi
@@ -4115,6 +4108,7 @@ members
 membership
 memcm
 memory
+memorydump
 memorystream
 mention
 menu
@@ -4418,6 +4412,7 @@ natural-selection
 nature
 nav
 navigation
+nbi
 ncal
 ndes
 nebulon
@@ -4690,7 +4685,6 @@ onedriveforbusiness
 oneget
 oneidentity
 onelogin
-oneloginapi
 onenote
 onestools
 onesubscription
@@ -4811,7 +4805,6 @@ otel
 otp
 ou
 ou-object
-oui-search
 oura
 ouraring
 out-consolegridview
@@ -7244,6 +7237,7 @@ psexcel
 psexec
 psexec.exe
 psexpandline
+psf
 psfciv
 psfitbit
 psfive9
@@ -8281,6 +8275,7 @@ psfunction_xin
 psfunction_xwith
 psgallery
 psget
+psgitlab
 psgraph
 psgraylog
 pshot
@@ -8394,7 +8389,6 @@ puppet
 puppetdb
 puppy
 pure
-pure1
 pureservice
 purestorage
 purple
@@ -8462,7 +8456,6 @@ queue
 queues
 queuing
 quickaccess
-quickbase
 quickbooks
 quicksetup
 quiz
@@ -8475,7 +8468,6 @@ quotestoliveby
 quoting
 quser
 qword
-r
 r53
 rabbit
 rabbitmq
@@ -8660,6 +8652,7 @@ remove-pass
 remove-path
 remove-pinneditem
 remove-tempfiles
+removefile
 removetypeaccelerators
 remux
 ren-isac
@@ -8733,6 +8726,7 @@ retention
 retro
 retry
 returnuserprofile
+retype
 reuse
 reverse-engineer
 reverse-string
@@ -8913,7 +8907,6 @@ scale
 scan
 scanner
 scap
-scatter
 scb
 scc
 sccm
@@ -8970,7 +8963,6 @@ screensaver
 screenscraping
 screenshot
 script
-script_version
 script-to-assembly
 script-to-executable
 scriptanalyzer
@@ -9121,7 +9113,6 @@ servicebusforwindowsserver
 servicecatalog
 serviceconnectionpoint
 servicecontrol
-servicedesk
 servicedeskplus
 serviceendpoints
 servicefabric
@@ -9369,7 +9360,6 @@ solutions
 sonarcloud
 sonarqube
 sonarr
-sonatype
 songs
 sonicos
 sonicwall
@@ -9380,7 +9370,6 @@ soonr
 soonragent
 sophos
 sort
-sort-json
 sorting
 source
 source-dedicated-server
@@ -9434,7 +9423,6 @@ splat
 splatting
 split
 splunk
-spn
 spo
 spooler
 sport
@@ -9870,6 +9858,7 @@ testlab
 testplans
 testreport
 tests
+testsuite
 testtag1
 testtag2
 testtool
@@ -9973,7 +9962,6 @@ topdesk
 topgrade
 topics
 topology
-tor
 toradex
 torizon
 torrent
@@ -10054,6 +10042,7 @@ truportal
 trusted
 trusted-host
 trustedhosts
+trustedinstaller
 trustedrootcertificate
 trustedsigning
 truth
@@ -10110,7 +10099,6 @@ ubuntu
 ucs
 ucspowertool
 ud-avataaar
-ud-badgebutton
 ud-badgelink
 ud-breadcrumb
 ud-breadcrumbitem
@@ -10125,12 +10113,10 @@ ud-confetti
 ud-control
 ud-dashboard
 ud-datepicker
-ud-field
 ud-flexytable
 ud-funnel
 ud-hero
 ud-illustration
-ud-input
 ud-licensed
 ud-loadingoverlay
 ud-minesweeper
@@ -10261,6 +10247,7 @@ urlupdate
 uru
 usage
 usageaggregates
+usageapi
 usap
 usb
 useful
@@ -10294,7 +10281,6 @@ utm
 uudecode
 uuencode
 uuid
-uup
 uw
 uwp
 ux
@@ -10463,7 +10449,6 @@ vpn-certificate
 vpro
 vps
 vra
-vrchat
 vrealize
 vrising
 vro
@@ -10582,6 +10567,7 @@ websphereappserver
 websphereportal
 webtest
 webtesting
+webtime
 webview2
 wec
 wecutil
@@ -10591,7 +10577,6 @@ weixin
 well-known
 wem
 wemsdk
-wer
 wget
 what3words
 whatismyip
@@ -10757,9 +10742,7 @@ workflows
 workingdays
 workinghours
 workingtime
-workload
 workload-automation
-workloadidentity
 workloads
 workpoint
 workrequests
@@ -10823,6 +10806,7 @@ wus
 wvd
 www
 x-cart
+x.509
 x1
 x2
 x509
@@ -10854,6 +10838,7 @@ xin
 xkcd
 xliff
 xlsx
+xmc
 xml
 xml-rpc
 xml-transform
@@ -10907,6 +10892,7 @@ zip-compression
 zipfile-transform
 zisson
 zoho
+zoicware
 zone
 zookeeper
 zoom
