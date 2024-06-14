@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Friday, 14 June 2024 09:51:52 UTC
+Updated: Friday, 14 June 2024 17:51:51 UTC
 
 .bat
 .env
@@ -119,6 +119,7 @@ active
 active_directory
 active-directory
 active-plug
+activecampaign
 activedirectory
 activedirectory_delegation
 activedirectory_over_html
@@ -165,7 +166,6 @@ add-on.module
 add-one
 add-path
 add-type
-addin
 addlevel
 addomainservices
 addon
@@ -286,6 +286,8 @@ alfresco
 algorithm
 algorithms
 alias
+alias-hint
+alias-tips
 aliases
 aliens
 alkane
@@ -333,7 +335,6 @@ analyzerrules
 anchor
 and
 android
-anet
 anf
 anglesharp
 angular
@@ -375,7 +376,6 @@ apigateway
 apigee
 apigeeedge
 apimanagement
-apis
 aplication
 apm
 apmconfig
@@ -412,7 +412,6 @@ applicationmigration
 applicationmonitor
 applications
 applocker
-apply
 appmgmtcontrol
 apppool
 appraiser
@@ -567,7 +566,6 @@ auto_cd
 auto-completion
 autoadapter
 autoattendant
-autocloudarc
 autocomplete
 autocompletion
 autoenv
@@ -632,6 +630,7 @@ axis
 axium
 az
 az-cli
+az.runtimeenvironment
 az.stackhci
 azautomation
 azcli
@@ -998,7 +997,6 @@ calc
 calculate
 calculator
 calendar
-callingcode
 callqueue
 calvin-and-hobbes
 cam
@@ -1242,7 +1240,6 @@ cloudbees
 cloudberry
 cloudblue
 cloudbolt
-cloudbridge
 cloudendure
 cloudevents
 cloudflare
@@ -1257,7 +1254,6 @@ cloudinit
 cloudiq
 cloudkey
 cloudmarque
-cloudmigrations
 cloudpc
 cloudservice
 cloudshell
@@ -1395,7 +1391,6 @@ computername
 computers
 computersite
 concur
-concurrency
 concurrent
 conda
 condition
@@ -1541,10 +1536,6 @@ count-loc
 countdown
 counter
 countries
-country
-countrycode
-cove
-covebackup
 cover
 coverage
 coveralls
@@ -1847,6 +1838,7 @@ delegation
 delegationmodel
 delete
 delete-orphan-branches
+deletefile
 deleteuserprofile
 delivery
 dell
@@ -2114,6 +2106,7 @@ driftmonitor
 drink
 drive
 drive letter
+drivemap
 driver
 driverpacks
 drivers
@@ -2266,6 +2259,7 @@ email
 email-address
 emailaddressupdate
 emailautomation
+emaildataplane
 emailmanagment
 emailnotification
 emailnotificationcomponent
@@ -2448,6 +2442,7 @@ exec
 executable
 executables
 execute
+exexml
 exif
 exiftool
 exists
@@ -2515,7 +2510,6 @@ failedlogin
 failure
 falcon
 fallbackstatuspoint
-fanarttv
 fancy
 faq
 farm
@@ -2541,6 +2535,7 @@ features
 featuresondemand
 featureupdate
 federation
+fedex
 feed
 fetch
 ffmpeg
@@ -2691,6 +2686,7 @@ forensic
 forensics
 forest
 forestdiscovery
+forgit
 forgiveness
 form
 format
@@ -2702,6 +2698,7 @@ forms
 fortiauth
 forticlient
 fortify
+fortifyondemand
 fortigate
 fortigi
 fortimanager
@@ -2831,11 +2828,14 @@ geolocation
 geosearching
 geotagging
 get
+get_random_password
 get-admodernreport
 get-childitem
 get-cmhealthcheck
 get-command
 get-credential
+get-criticaltrippoint
+get-currentcputemperature
 get-dellwarranty
 get-directorycontents
 get-dtcmdevicemodel
@@ -2852,13 +2852,16 @@ get-iislog
 get-openfile
 get-openfiles
 get-pass
+get-passivetrippoint
 get-passlist
 get-path
 get-pinneditem
 get-samcmassignedsite
 get-samcmcurrentmanagementpoint
+get-samplingperiod
 get-stalecomps
 get-staleusers
+get-thermalstamp
 get-uptime
 getfirmwareenvironmentvariable
 getfirmwaretype
@@ -2878,6 +2881,7 @@ git-client
 git-clone
 git-flow
 git-lfs
+git-proxy
 git-rename
 git-stat
 gitcmdline
@@ -3083,9 +3087,11 @@ heartbeatdiscovery
 heat
 heating
 heavenbay
+helium
 helix
 hello
 helloid
+helloposhgallery
 helloworld
 helm
 helmet
@@ -3106,7 +3112,6 @@ hewlett-packardenterprise
 hex
 hexdump
 hg
-hibernate
 hibernation
 hibp
 hidden
@@ -3151,6 +3156,7 @@ homebrew
 homelandsecurity
 homeschooling
 hon
+hooking
 horizon
 horizontal
 hornbill
@@ -3192,9 +3198,11 @@ hsdp
 hsl
 html
 http
+http_proxy
 httpclient
 httplistener
 https
+https_proxy
 httpserver
 huawei
 huawei-ibmc-cmdlets
@@ -3318,6 +3326,7 @@ imap
 imb
 imei
 imi
+impala
 impersonation
 imperva
 import
@@ -3462,7 +3471,6 @@ iothub
 iothubproperties
 ip
 ip-address
-ip-scanner
 ipa
 ipaddress
 ipam
@@ -3582,7 +3590,6 @@ json+
 json2ps
 jsonplus
 jsonwebencryption
-jsonwebkey
 jsonwebsignature
 jsonwebtoken
 jsp
@@ -3599,7 +3606,6 @@ jupytor
 justenoughadministration
 jvm
 jwe
-jwk
 jws
 jwt
 jwttoken
@@ -3609,6 +3615,7 @@ kafka
 kaminario
 karabiner
 karabiner-elements
+karma
 kaseya
 kaseyavsa
 kaspersky
@@ -3724,7 +3731,6 @@ latency
 latestupdate
 latin
 latitude
-launcher
 layer
 layman
 layout
@@ -3795,6 +3801,7 @@ link-capability
 link-preview
 linkedin
 linkedservice
+linkedservicedependency
 linkid
 links
 linq
@@ -3936,6 +3943,7 @@ lxco
 lxcopstool
 lync
 m365
+m365defenderstuff
 m365dsc
 maatschap-fortigi
 mac
@@ -3998,6 +4006,7 @@ managementdashboard
 managementgroups
 managementpoint
 manager
+mangement
 manifest
 manual
 map
@@ -4267,6 +4276,7 @@ movies
 mozilla
 mp3
 mp4
+mpc
 mpeg
 mpn
 mrfk
@@ -4277,6 +4287,7 @@ ms_365
 ms-graph
 ms365
 msaccess
+msacpi_thermalzonetemperature
 msal
 msauth
 msband
@@ -4518,6 +4529,7 @@ non-volatile
 none
 noneimages
 noninteractive
+noproxy
 nord
 nordtools
 normal
@@ -4542,6 +4554,7 @@ notify-send-wsl
 nova
 npgsql
 npm
+npm-proxy
 nprinting
 nprintingapi
 nps
@@ -4853,7 +4866,6 @@ paper
 papis
 paradox
 parallel
-parallel-processing
 parameter
 parameterinfo
 parameters
@@ -4880,6 +4892,7 @@ passphrase
 passphraser passphrase password generator entropy
 passwd
 password
+password_generation
 password-generator
 password-less
 password-manager
@@ -4914,7 +4927,6 @@ pax8
 payload
 paylocity
 paypal
-pays
 pbench
 pbip
 pc
@@ -5072,7 +5084,6 @@ popd
 population
 popup
 port
-port-scanner
 port70
 portal
 porthunter
@@ -5108,6 +5119,7 @@ poshy-colors
 poshy-coreutils-ish
 poshy-dir-nav
 poshy-ecks
+poshy-env-proxy
 poshy-env-var
 poshy-ls-isms
 poshy-lucidity
@@ -5126,6 +5138,7 @@ poshy-wrap-dnf
 poshy-wrap-docker
 poshy-wrap-docker-compose
 poshy-wrap-dotnet
+poshy-wrap-forgit
 poshy-wrap-gem
 poshy-wrap-gh
 poshy-wrap-git
@@ -5270,7 +5283,6 @@ preprocessor
 presentation
 presenter
 presto
-preston-k-parsard
 prettifier
 pretty
 prettyprinter
@@ -5525,6 +5537,7 @@ pscommand_dils
 pscommand_dipu
 pscommand_dirm
 pscommand_dirname
+pscommand_disable-proxy
 pscommand_dit
 pscommand_dk
 pscommand_dkbash
@@ -5654,6 +5667,7 @@ pscommand_dxc
 pscommand_dxcit
 pscommand_e64
 pscommand_ef64
+pscommand_enable-proxy
 pscommand_encode64
 pscommand_encodefile64
 pscommand_export-gitrepositoryzip
@@ -5693,6 +5707,29 @@ pscommand_fmtstrikethrough
 pscommand_fmtstrikethroughoff
 pscommand_fmtunderline
 pscommand_fmtunderlineoff
+pscommand_forgit-add
+pscommand_forgit-blame
+pscommand_forgit-branch-delete
+pscommand_forgit-checkout-branch
+pscommand_forgit-checkout-commit
+pscommand_forgit-checkout-file
+pscommand_forgit-checkout-tag
+pscommand_forgit-cherry-pick
+pscommand_forgit-cherry-pick-from-branch
+pscommand_forgit-clean
+pscommand_forgit-diff
+pscommand_forgit-fixup
+pscommand_forgit-ignore
+pscommand_forgit-ignore-clean
+pscommand_forgit-ignore-list
+pscommand_forgit-ignore-update
+pscommand_forgit-ignoreget
+pscommand_forgit-log
+pscommand_forgit-rebase
+pscommand_forgit-reset-head
+pscommand_forgit-revert-commit
+pscommand_forgit-stash-push
+pscommand_forgit-stash-show
 pscommand_format-batcatstyle
 pscommand_format-lesstermcapenv
 pscommand_format-viewerinvocationsh
@@ -5735,6 +5772,7 @@ pscommand_gcame
 pscommand_gcamg
 pscommand_gcams
 pscommand_gcamu
+pscommand_gcb
 pscommand_gcd
 pscommand_gcem
 pscommand_gcf
@@ -5882,6 +5920,7 @@ pscommand_gflrs
 pscommand_gfo
 pscommand_gft
 pscommand_gftv
+pscommand_gfu
 pscommand_gfv
 pscommand_gg
 pscommand_ggb
@@ -5890,6 +5929,7 @@ pscommand_ggs
 pscommand_ggui
 pscommand_ggup
 pscommand_ghm
+pscommand_gi
 pscommand_gignore
 pscommand_gignored
 pscommand_git_blame_line
@@ -5916,6 +5956,12 @@ pscommand_git_show_stash_file
 pscommand_git_stats
 pscommand_git_status_short_with_loglines
 pscommand_git-changelog
+pscommand_git-disable-proxy
+pscommand_git-enable-proxy
+pscommand_git-global-disable-proxy
+pscommand_git-global-enable-proxy
+pscommand_git-global-show-proxy
+pscommand_git-show-proxy
 pscommand_gitignore-reload
 pscommand_gittowork
 pscommand_gl
@@ -5991,6 +6037,7 @@ pscommand_gra
 pscommand_grb
 pscommand_grbc
 pscommand_grbm
+pscommand_grc
 pscommand_grem
 pscommand_grema
 pscommand_gremrm
@@ -6015,6 +6062,7 @@ pscommand_gsd
 pscommand_gsh
 pscommand_gshsf
 pscommand_gsl
+pscommand_gsp
 pscommand_gsr
 pscommand_gss
 pscommand_gssll
@@ -6796,6 +6844,9 @@ pscommand_nmap_slow
 pscommand_nmap_traceroute
 pscommand_nmap_web_safe_osscan
 pscommand_notify-send-fallback
+pscommand_npm-disable-proxy
+pscommand_npm-enable-proxy
+pscommand_npm-show-proxy
 pscommand_npmd
 pscommand_npme
 pscommand_npmf
@@ -6841,6 +6892,7 @@ pscommand_pl
 pscommand_po
 pscommand_pop-gitstashentry
 pscommand_ppy
+pscommand_proxy-help
 pscommand_prun
 pscommand_psh
 pscommand_psy
@@ -6859,6 +6911,7 @@ pscommand_push-gitstashentrywithmessage
 pscommand_pushgr
 pscommand_pvenv
 pscommand_pwh
+pscommand_pwshrc-show-proxy
 pscommand_py
 pscommand_pyenv
 pscommand_pylint-quick
@@ -6930,10 +6983,14 @@ pscommand_set-locationup4
 pscommand_set-locationup5
 pscommand_sgem
 pscommand_show-gitremote
+pscommand_show-proxy
 pscommand_shttp
 pscommand_shuf
 pscommand_sl
 pscommand_ssh-add-all
+pscommand_ssh-disable-proxy
+pscommand_ssh-enable-proxy
+pscommand_ssh-show-proxy
 pscommand_sshlist
 pscommand_start-gitbisect
 pscommand_start-gitcherrypick
@@ -7229,6 +7286,7 @@ psfunction_d
 psfunction_decode64
 psfunction_decodefile64
 psfunction_dirname
+psfunction_disable-proxy
 psfunction_docker-archive-content
 psfunction_docker-build
 psfunction_docker-compose-fresh
@@ -7294,6 +7352,7 @@ psfunction_dotnet-tool-update-all-global
 psfunction_dotnet-watch
 psfunction_dotnet-watch-run
 psfunction_dotnet-watch-test
+psfunction_enable-proxy
 psfunction_encode64
 psfunction_encodefile64
 psfunction_export-gitrepositoryzip
@@ -7333,6 +7392,29 @@ psfunction_fmtstrikethrough
 psfunction_fmtstrikethroughoff
 psfunction_fmtunderline
 psfunction_fmtunderlineoff
+psfunction_forgit-add
+psfunction_forgit-blame
+psfunction_forgit-branch-delete
+psfunction_forgit-checkout-branch
+psfunction_forgit-checkout-commit
+psfunction_forgit-checkout-file
+psfunction_forgit-checkout-tag
+psfunction_forgit-cherry-pick
+psfunction_forgit-cherry-pick-from-branch
+psfunction_forgit-clean
+psfunction_forgit-diff
+psfunction_forgit-fixup
+psfunction_forgit-ignore
+psfunction_forgit-ignore-clean
+psfunction_forgit-ignore-list
+psfunction_forgit-ignore-update
+psfunction_forgit-ignoreget
+psfunction_forgit-log
+psfunction_forgit-rebase
+psfunction_forgit-reset-head
+psfunction_forgit-revert-commit
+psfunction_forgit-stash-push
+psfunction_forgit-stash-show
 psfunction_format-batcatstyle
 psfunction_format-lesstermcapenv
 psfunction_format-viewerinvocationsh
@@ -7427,6 +7509,12 @@ psfunction_git_show_stash_file
 psfunction_git_stats
 psfunction_git_status_short_with_loglines
 psfunction_git-changelog
+psfunction_git-disable-proxy
+psfunction_git-enable-proxy
+psfunction_git-global-disable-proxy
+psfunction_git-global-enable-proxy
+psfunction_git-global-show-proxy
+psfunction_git-show-proxy
 psfunction_gitignore-reload
 psfunction_gittowork
 psfunction_gplfs
@@ -8020,6 +8108,9 @@ psfunction_nmap_slow
 psfunction_nmap_traceroute
 psfunction_nmap_web_safe_osscan
 psfunction_notify-send-fallback
+psfunction_npm-disable-proxy
+psfunction_npm-enable-proxy
+psfunction_npm-show-proxy
 psfunction_open_command
 psfunction_peek
 psfunction_pipig
@@ -8030,6 +8121,7 @@ psfunction_pipreq
 psfunction_pipunall
 psfunction_pipupall
 psfunction_pop-gitstashentry
+psfunction_proxy-help
 psfunction_publish-gitcommitsforcefullywithlease
 psfunction_publish-gitcommitssettingupstream
 psfunction_publish-gitcommitssettingupstreamtoorigin
@@ -8040,6 +8132,7 @@ psfunction_publish-gitcommitswithtags
 psfunction_publish-gitrepositorytosvn
 psfunction_push-gitstashentry
 psfunction_push-gitstashentrywithmessage
+psfunction_pwshrc-show-proxy
 psfunction_pyserver
 psfunction_read-dotenv
 psfunction_register-argcompleteargumentcompleter
@@ -8101,9 +8194,13 @@ psfunction_set-locationup3
 psfunction_set-locationup4
 psfunction_set-locationup5
 psfunction_show-gitremote
+psfunction_show-proxy
 psfunction_shttp
 psfunction_shuf
 psfunction_ssh-add-all
+psfunction_ssh-disable-proxy
+psfunction_ssh-enable-proxy
+psfunction_ssh-show-proxy
 psfunction_sshlist
 psfunction_start-gitbisect
 psfunction_start-gitcherrypick
@@ -8553,6 +8650,7 @@ remove-pass
 remove-path
 remove-pinneditem
 remove-tempfiles
+removefile
 removetypeaccelerators
 remux
 ren-isac
@@ -8586,7 +8684,6 @@ requiredmodules
 requirements
 res
 rescan
-rescuetime
 reservation
 reservations
 reset
@@ -8604,6 +8701,7 @@ resource_watcher
 resourcecontroller
 resourcegraph
 resourcegroup
+resourcegroups
 resourceid
 resourcekit
 resourcemanager
@@ -8680,6 +8778,7 @@ rocketcyber
 roco
 rocolatey
 role
+roleassignments
 rolebasedaccesscontrol_model
 roles
 rollingfile
@@ -8689,6 +8788,7 @@ rot13
 rotate
 rotation
 round
+roundrobindatabase
 route
 route53
 routeconfig
@@ -8705,6 +8805,7 @@ royaltsx
 rpa
 rpc
 rras
+rrd
 rs
 rsa
 rsat
@@ -8829,7 +8930,6 @@ scheduling
 schema
 schemaextensions
 scheme
-school-information-system
 schoolholidays
 schulung
 schulverwaltung
@@ -8942,6 +9042,7 @@ securitypolicydsc
 securityroles
 securityscopes
 securitytxt
+sed
 seed
 seek
 seekatar
@@ -9006,6 +9107,7 @@ service
 service-bus
 service-messages
 servicebus
+servicebusforwindowsserver
 servicecatalog
 serviceconnectionpoint
 servicecontrol
@@ -9118,6 +9220,7 @@ siem
 sif
 sigma
 sign
+signalfx
 signalr
 signature
 signed
@@ -9157,7 +9260,6 @@ skatterbrainz
 skeleton-loader
 skia
 skiasharp
-skolnilogin
 sku
 skunklab
 sky
@@ -9266,7 +9368,6 @@ soonr
 soonragent
 sophos
 sort
-sort-json
 sorting
 source
 source-dedicated-server
@@ -9709,6 +9810,7 @@ teletext
 telligent
 telnet
 temp
+temperature
 template
 template-engine
 templates
@@ -9788,6 +9890,7 @@ tfvc
 thecrushingemptinessofquotidianexistence
 theme
 themes
+thermal
 thermostat
 thinprint
 third-party-libraries
@@ -9939,6 +10042,7 @@ truportal
 trusted
 trusted-host
 trustedhosts
+trustedinstaller
 trustedrootcertificate
 trustedsigning
 truth
@@ -10348,7 +10452,6 @@ vpn-certificate
 vpro
 vps
 vra
-vrchat
 vrealize
 vrising
 vro
@@ -10414,6 +10517,7 @@ warraty
 warrenty
 wasabi
 watch
+watchdog
 watchmen
 watery
 wave
@@ -10466,7 +10570,6 @@ websphereappserver
 websphereportal
 webtest
 webtesting
-webtime
 webview2
 wec
 wecutil
@@ -10795,6 +10898,7 @@ zip-compression
 zipfile-transform
 zisson
 zoho
+zoicware
 zone
 zookeeper
 zoom
