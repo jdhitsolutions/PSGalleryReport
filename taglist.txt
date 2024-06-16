@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Sunday, 16 June 2024 02:10:48 UTC
+Updated: Sunday, 16 June 2024 09:51:59 UTC
 
 .bat
 .env
@@ -92,7 +92,6 @@ accessrights
 accesstoken
 accord
 accord.net
-accordian
 account
 accounting
 accounts
@@ -119,7 +118,6 @@ active
 active_directory
 active-directory
 active-plug
-activecampaign
 activedirectory
 activedirectory_delegation
 activedirectory_over_html
@@ -133,7 +131,6 @@ activehours
 activenet
 activenetworkstation
 activenetworkstationservice
-activeresponse
 activesession
 activiti
 activities
@@ -291,8 +288,6 @@ alias-hint
 alias-tips
 aliases
 aliens
-alkane
-alkanepsf
 all
 alletra
 alloydb
@@ -617,6 +612,7 @@ avro
 avs
 avset
 await
+awareness
 awesome
 awp
 awpagent
@@ -742,6 +738,7 @@ azurestorage
 azurestorageservices
 azuresync
 azuretable
+azuretestplan
 azurevirtualdesktop
 azurevirtualmachines
 azurevm
@@ -780,7 +777,6 @@ bash
 basic
 bastion
 bat
-batcat
 batch
 batchclass
 batman
@@ -931,7 +927,6 @@ brickset
 brickstore
 bridge
 brightbooking
-brightness
 britannica
 britannicaknowledgesystems
 british-gas
@@ -942,6 +937,7 @@ broot
 brownserve-uk
 browser
 browserbox
+browserextension
 browserhistory
 browsing
 brs
@@ -1435,6 +1431,7 @@ connected
 connectedkubernetes
 connectedmachine
 connectednetwork
+connectedvmware
 connectexchange
 connection
 connectionmonitor
@@ -1461,7 +1458,6 @@ containerinstance
 containerinstances
 containerregistry
 containers
-containment
 contentprep
 context
 context-menu-shortcut
@@ -1477,7 +1473,6 @@ continuous-integration
 continuousdelivery
 continuousdeployment
 continuousintegration
-contrast
 control
 controller
 controlroom
@@ -1543,8 +1538,6 @@ counter
 countries
 country
 countrycode
-cove
-covebackup
 cover
 coverage
 coveralls
@@ -1596,6 +1589,7 @@ credmanager
 crescendo
 crescendobuilt
 cresendo
+crestron
 crime
 crlf
 crm
@@ -1804,8 +1798,6 @@ dcim
 dcim_b324
 dcom
 dcr
-ddc
-ddc/ci
 ddns
 debian
 debug
@@ -2020,6 +2012,7 @@ dmx
 dnd
 dnf
 dns
+dns-01
 dns-administration
 dns-async
 dns-client
@@ -2084,7 +2077,6 @@ dotenv
 dotfile
 dotfiles
 dotnet
-dotnet-cli
 dotnettool
 dotps1
 dots
@@ -2157,6 +2149,7 @@ dsm
 dsreg
 dsregcmd
 dsutils
+dtc
 dts
 dtsx
 dtx
@@ -2173,7 +2166,6 @@ dump
 dumpify
 dumping
 dumps
-dupes
 duplicate
 duplicate-files
 duplicatioin
@@ -2229,6 +2221,7 @@ edgeexport
 edgegateway
 edgeorder
 edgeprofiles
+edgezones
 ediscovery
 edit
 editor
@@ -2496,6 +2489,7 @@ extendscript
 extensibility
 extension
 extensionmethods
+extensionrisk
 extensions
 external
 externalip
@@ -2518,7 +2512,6 @@ failedlogin
 failure
 falcon
 fallbackstatuspoint
-fanarttv
 fancy
 faq
 farm
@@ -2804,7 +2797,6 @@ gcp
 gcs
 gdap
 gdpr
-gedit
 gem
 gemini
 geminiprotocol
@@ -3121,7 +3113,6 @@ hewlett
 hewlett-packard
 hewlett-packardenterprise
 hex
-hexdump
 hg
 hibernate
 hibernation
@@ -3167,7 +3158,6 @@ home_automation
 homebrew
 homelandsecurity
 homeschooling
-hon
 hooking
 horizon
 horizontal
@@ -3779,7 +3769,6 @@ lemonai
 lenel
 length
 lenovo
-less
 lesspass
 letsencrypt
 lf
@@ -3831,7 +3820,6 @@ liquid
 liquit
 liquit.com
 list
-list_files
 list-directory
 list-item
 listener
@@ -4080,7 +4068,6 @@ mbs
 mc
 mcafee
 mcas
-mccs
 mcd
 mchapv2
 mct
@@ -4214,7 +4201,6 @@ mim
 mime
 mimekit
 min
-mindmeister
 minecraft
 miniconda
 minifier
@@ -4281,7 +4267,6 @@ monitors
 monthlyupdate
 moodle
 moonshot
-more
 mosaic
 motd
 motivation
@@ -4312,6 +4297,7 @@ msbi
 msbuild
 msdeploy
 msdn
+msdtc
 msedge
 msexcel
 msexchange
@@ -4340,6 +4326,7 @@ msonlineext
 msp
 msp360
 mspbackups
+msproject
 msrc
 msrdc
 mssql
@@ -4433,7 +4420,6 @@ necli
 nederland
 nedyalkov
 neo4j
-neovim
 neptune
 nerdfonts
 nerdio
@@ -4556,7 +4542,6 @@ nosql
 note
 notebook
 notepad
-notepad2
 noteproperty
 notes
 notification
@@ -4618,6 +4603,7 @@ oacli
 oacmdlets
 oacommand
 oact
+oath
 oauth
 oauth2
 oauth2.0
@@ -4758,6 +4744,7 @@ operationsmanagementsuiteagent
 operationvalidation
 operatoraccesscontrol
 opml
+ops
 opsi
 opsmgr
 optics
@@ -4939,6 +4926,7 @@ patternmatching
 paulo
 pause
 pax8
+payload
 paylocity
 paypal
 pays
@@ -4972,7 +4960,6 @@ perforce
 performance
 performance-counters
 performancemonitoring
-perl
 permission
 permissions
 permutations
@@ -5004,7 +4991,6 @@ php
 phpapam
 pi
 picker
-pico
 picture
 pictures
 pid
@@ -5027,6 +5013,7 @@ pipelines
 pipenv
 pipescript
 piraeus
+piv
 pivot
 pivotal
 pivottable
@@ -5143,7 +5130,6 @@ poshy-net
 poshy-notify-send
 poshy-sh-isms
 poshy-sshconfig
-poshy-viewer-finder
 poshy-wrap
 poshy-wrap-apt
 poshy-wrap-argcomplete
@@ -5190,7 +5176,6 @@ postgres
 postgresql
 potato
 pow
-powdrgit
 power
 power-apps
 power-cbr
@@ -5222,6 +5207,7 @@ powersaving
 powerscheme
 powershell
 powershell_universal
+powershell-7
 powershell-class
 powershell-cmdlets
 powershell-core
@@ -5282,6 +5268,7 @@ pq
 pranks
 predicate
 prediction
+predictive
 predictive-text
 predictor
 preferences
@@ -5365,6 +5352,7 @@ proliant
 prometheus
 prompt
 pronounceable
+proofpoint
 properties
 property
 property-list
@@ -5416,6 +5404,7 @@ psadgroupmembers
 psadt
 psake
 psappdeploytoolkit
+psat
 psazd
 psbackup
 psbbix
@@ -5742,8 +5731,6 @@ pscommand_forgit-reset-head
 pscommand_forgit-revert-commit
 pscommand_forgit-stash-push
 pscommand_forgit-stash-show
-pscommand_format-batcatstyle
-pscommand_format-lesstermcapenv
 pscommand_format-viewerinvocationsh
 pscommand_g
 pscommand_ga
@@ -5903,7 +5890,6 @@ pscommand_get-netipaddresspublic
 pscommand_get-netipaddresssimple
 pscommand_get-pwshaliasdefinition
 pscommand_get-pwshfunctiondefinition
-pscommand_get-viewer
 pscommand_geun
 pscommand_gexport
 pscommand_gf
@@ -7245,7 +7231,6 @@ psexcel
 psexec
 psexec.exe
 psexpandline
-psf
 psfciv
 psfitbit
 psfive9
@@ -7427,8 +7412,6 @@ psfunction_forgit-reset-head
 psfunction_forgit-revert-commit
 psfunction_forgit-stash-push
 psfunction_forgit-stash-show
-psfunction_format-batcatstyle
-psfunction_format-lesstermcapenv
 psfunction_format-viewerinvocationsh
 psfunction_gdv
 psfunction_get-aptinstalledpackages
@@ -7496,7 +7479,6 @@ psfunction_get-netipaddresspublic
 psfunction_get-netipaddresssimple
 psfunction_get-pwshaliasdefinition
 psfunction_get-pwshfunctiondefinition
-psfunction_get-viewer
 psfunction_git_blame_line
 psfunction_git_checkout_child
 psfunction_git_checkout_parent
@@ -8423,7 +8405,6 @@ pwshfw
 pwshrc
 pxedistributionpoint
 pyenv
-pygmentize
 pylint
 pyranja
 python
@@ -8459,7 +8440,6 @@ quantum
 quarantine
 queries
 query
-queryexcel
 question
 queue
 queues
@@ -8721,7 +8701,6 @@ resourcekit
 resourcemanager
 resourcemover
 resources
-resourcescheduler
 resourcesearch
 response
 rest
@@ -9012,7 +8991,6 @@ searchconnector
 searchengine
 searcher
 searching
-searchmanager
 searchplace
 searchquery
 searchstring
@@ -9264,7 +9242,6 @@ site_navigation
 sitecollection
 siteconfiguration
 sitecore
-sitecoresearch
 sitemaintenance
 sitemap
 siterecovery
@@ -9606,8 +9583,6 @@ streak
 stream
 streamanalytics
 streaming
-streamreader
-streamwriter
 stretch
 strictmode
 strikethrough-text
@@ -9723,7 +9698,6 @@ syslog
 sysman
 sysmon
 sysop
-syspass
 syspip
 syspip3
 sysprep
@@ -9818,7 +9792,6 @@ techedna2014
 techlog
 technology
 techsmith
-tel
 telegram
 telegram-bot
 telegram-bot-api
@@ -9874,6 +9847,7 @@ testimonial
 testing
 testlab
 testplans
+testreport
 tests
 testsuite
 testtag1
@@ -10033,7 +10007,6 @@ trec
 tree
 tree-structure
 treesize
-treffynnon
 trein
 trello
 trellops
@@ -10098,6 +10071,7 @@ twitter-hashtag
 twitter-mention
 twitter-share
 twitter-timeline
+twitter-tweet
 txt
 type
 typeaccelerators
@@ -10535,7 +10509,6 @@ warraty
 warrenty
 wasabi
 watch
-watchdog
 watchmen
 watery
 wave
@@ -10646,6 +10619,7 @@ windows  server
 windows explorer
 windows_events
 windows-10
+windows-11
 windows-api
 windows-control-panel
 windows-defender
@@ -10654,6 +10628,7 @@ windows-environment
 windows-explorer
 windows-features
 windows-firewall
+windows-lab
 windows-path
 windows-powershell
 windows-registry
@@ -10694,7 +10669,6 @@ windowspresentationfoundation
 windowsreleasehealth
 windowsrest
 windowssandbox
-windowssearchmanager
 windowsserver
 windowsserver2008
 windowsserver2016
@@ -10898,6 +10872,7 @@ youtube-dl
 youtubeextractor
 yq
 yubaba
+yubikey
 yum
 z
 zabbix
