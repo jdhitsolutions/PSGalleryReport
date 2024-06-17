@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 17 June 2024 09:51:52 UTC
+Updated: Monday, 17 June 2024 17:51:48 UTC
 
 .bat
 .env
@@ -10,6 +10,7 @@ Updated: Monday, 17 June 2024 09:51:52 UTC
 'azure'
 'blob storage'
 'code owls'
+'files
 'provider'
 "interactive
 {modulenameplaceholder}
@@ -66,7 +67,6 @@ aadconnect
 aadgraph
 aadrm
 aadsecurity
-aadsts
 aam
 aas
 aatp
@@ -427,6 +427,7 @@ appv
 appventix
 appveyor
 appvolumes
+appwrite
 appx
 appxmanifest
 aprs
@@ -525,7 +526,6 @@ atlassian
 atlassiancli
 atlassianps
 atmosphere
-atom
 atp
 atrium
 att&ck
@@ -751,6 +751,7 @@ back
 backblaze
 backconnection
 backconnectionhostname
+backend
 backup
 backup_validation
 bamboo
@@ -940,6 +941,7 @@ broadcom
 broot
 brownserve-uk
 browser
+browserbox
 browserextension
 browserhistory
 browsing
@@ -977,7 +979,6 @@ business
 businesscentral
 businessdays
 businesshours
-businessobjects
 businessrulesengine
 businesstime
 bxor
@@ -1022,6 +1023,7 @@ capture
 carbon
 carbonawarecomputing
 carbonintensity
+card
 cardwirth
 cares
 cargo
@@ -1276,7 +1278,6 @@ cmdb
 cmdkey
 cmdlet
 cmdlets
-cmdstan
 cmgroupdiscovery
 cmhealth
 cmhealthcheck
@@ -1653,11 +1654,6 @@ customdns
 customer
 customerengagement
 customers
-customeventchannel
-customeventlog
-customeventlogchannel
-customeventlogfile
-customeventlogfiles
 customevents
 custominformationservices
 customis
@@ -2104,7 +2100,6 @@ downloadyoutubevideo
 dozent
 dpa
 dpapi
-dpi
 dps
 dq
 dr
@@ -2351,7 +2346,6 @@ erb
 erp
 error
 error-log
-errorcode
 errorfile
 errors
 errorview
@@ -2393,8 +2387,6 @@ event
 event_id
 event_list
 event-timeline
-eventchannel
-eventchannels
 eventcollector
 eventful
 eventgrid
@@ -2402,9 +2394,6 @@ eventhub
 eventing
 eventlist
 eventlog
-eventlogchannel
-eventlogchannels
-eventlogmanifest
 eventlogs
 eventmonitor
 eventmonitoring
@@ -2627,6 +2616,7 @@ finance&operations
 financeandoperations
 financeoperations
 financial
+financialedge
 financials
 find
 find-call
@@ -3085,12 +3075,9 @@ hcx
 hdfs
 hdinsight
 hdinsightonaks
-hdr
 header
-headhunter
 health
 health_checks
-healthbot
 healthcare
 healthcareapis
 healthcheck
@@ -3795,7 +3782,6 @@ licence
 license
 license-generator
 licenseautomation
-licensemanagement
 licensemanager
 licensereport
 licenses
@@ -3841,6 +3827,7 @@ listener
 litecoin
 litedb
 literature
+live
 llama2
 lldp
 lmhost
@@ -4172,7 +4159,6 @@ microsoft_online
 microsoft_teams
 microsoft-graph
 microsoft-teams
-microsoft-web-platform
 microsoft-windows
 microsoft.graph
 microsoft.graph.api
@@ -4236,7 +4222,6 @@ mittelschule
 mixedreality
 mixer
 mkdocs
-mkpasswd
 mksapiviewer
 ml
 ml.net
@@ -4432,7 +4417,6 @@ navigation
 nbi
 ncal
 ndes
-nebulon
 nec-infrared-transmission-protocol
 necli
 nederland
@@ -4912,7 +4896,6 @@ passivetotal
 passkey
 passphrase
 passphraser passphrase password generator entropy
-passwd
 password
 password_generation
 password-generator
@@ -5204,7 +5187,6 @@ power
 power-apps
 power-cbr
 power-platform
-power-shell
 powerapps
 powerappsportal
 powerarcade
@@ -5346,6 +5328,7 @@ process-inspector
 processing
 processmitigation
 processor
+procmap
 procs
 producer
 product
@@ -8501,6 +8484,7 @@ raidcontrollercmdlets
 railways
 rainbow
 raisers
+raisersedge
 raj
 ram
 ram-it
@@ -8569,7 +8553,6 @@ recording
 recordsmanagement
 recovery
 recoveryservices
-recruiter
 recrutch
 recurse
 recursion
@@ -8646,7 +8629,9 @@ remediation
 remedy
 reminder
 remote
+remote-browser
 remote-desktop
+remote'
 remoteadmin
 remotecert
 remoteconnection
@@ -8657,6 +8642,7 @@ remotedesktopconnectionmanager
 remotedesktopgateway
 remotedesktopmanager
 remotedesktopservices
+remotefiles
 remoteforensics
 remotehost
 remotelocalgroup
@@ -8923,7 +8909,6 @@ scaffoldingtemplate
 scala
 scalable
 scalablevectorgraphics
-scale
 scan
 scanner
 scap
@@ -9136,7 +9121,6 @@ servicecatalog
 serviceconnectionpoint
 servicecontrol
 servicedesk
-servicedeskplus
 serviceendpoints
 servicefabric
 servicelinker
@@ -9183,13 +9167,7 @@ sftp
 sfx
 sgopher
 sgw
-sha-256
-sha-512
-sha-crypt
 sha256
-sha256crypt
-sha512crypt
-shacrypt
 shadow
 shadowcopy
 shadowcopybackups
@@ -9288,6 +9266,7 @@ skolnilogin
 sku
 skunklab
 sky
+skyapi
 skype
 skype_for_business
 skype4b
@@ -9509,7 +9488,6 @@ srcsrv
 srm
 srylius-write
 ssas
-ssc
 ssdt
 sse
 ssh
@@ -9542,14 +9520,11 @@ stackoverflow
 staffhub
 staging
 stale
-stan
-stanc
 standard
 standarderror
 standardoutput
 standards
 standbypool
-stansummary
 start
 start-job
 start-jobthread
@@ -9877,6 +9852,7 @@ test123
 testaccount
 testautomation
 tester
+testimonial
 testing
 testlab
 testplans
@@ -10125,6 +10101,7 @@ ucs
 ucspowertool
 ud-avataaar
 ud-badgebutton
+ud-badgelink
 ud-breadcrumb
 ud-breadcrumbitem
 ud-burger
@@ -10557,6 +10534,7 @@ weather
 weaviate
 weaviatenet
 web
+web-browser
 web-search
 web.config
 webadministration
@@ -10578,7 +10556,6 @@ webjea
 webmanagement
 webmanagementservice
 webpage
-webpi
 webreport
 webrequest
 webresponse
@@ -10588,7 +10565,6 @@ webservice
 webservices
 website
 websites
-websocket
 websockets
 websphere
 websphereappserver
@@ -10685,7 +10661,6 @@ windowscredentialsmanager
 windowsdataprotectionapi
 windowsdefender
 windowsdesktopsearch
-windowsevent
 windowseventlog
 windowsform
 windowsforms
