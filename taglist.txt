@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 17 June 2024 02:10:06 UTC
+Updated: Monday, 17 June 2024 09:51:52 UTC
 
 .bat
 .env
@@ -10,7 +10,6 @@ Updated: Monday, 17 June 2024 02:10:06 UTC
 'azure'
 'blob storage'
 'code owls'
-'files
 'provider'
 "interactive
 {modulenameplaceholder}
@@ -415,6 +414,7 @@ applicationmigration
 applicationmonitor
 applications
 applocker
+apply
 appmgmtcontrol
 apppool
 appraiser
@@ -427,7 +427,6 @@ appv
 appventix
 appveyor
 appvolumes
-appwrite
 appx
 appxmanifest
 aprs
@@ -514,6 +513,7 @@ assistant
 association
 ast
 astronomy
+asv
 asymmetric
 async
 asynchronous
@@ -751,7 +751,6 @@ back
 backblaze
 backconnection
 backconnectionhostname
-backend
 backup
 backup_validation
 bamboo
@@ -785,6 +784,7 @@ batch
 batchclass
 batman
 battery
+bayern
 bazzo
 bb
 bbp
@@ -1022,7 +1022,6 @@ capture
 carbon
 carbonawarecomputing
 carbonintensity
-card
 cardwirth
 cares
 cargo
@@ -1071,6 +1070,7 @@ celcat
 celerium
 censor
 center
+centra
 central
 central-management
 centralcredentialprovider
@@ -1315,6 +1315,7 @@ cognitiveservice
 cognitiveservices
 cohesity
 coinmarketcap
+collaboration
 collatordso
 collatz
 collection
@@ -1521,6 +1522,7 @@ copyright
 core
 coreposh
 coreutils
+corona
 cortex
 cos
 cosmos
@@ -1826,6 +1828,7 @@ deduplication
 deep
 deep-security
 deep-security-manager
+deepl
 deepvisibility
 def
 default
@@ -1883,6 +1886,8 @@ desktopvirtualization
 details
 detect
 detection
+detectionrule
+deutschland
 dev
 dev-tools
 devart
@@ -1899,6 +1904,7 @@ devexpress
 deviation
 device
 devicecode
+deviceid
 deviceprovisioningservice
 devices
 deviceupdate
@@ -2208,6 +2214,7 @@ e-mail
 e1
 easy
 easy-to-use
+easylife365
 easyvista
 eaton
 ebay
@@ -2299,6 +2306,7 @@ endpoints
 energy
 engagement
 engine
+engineevent
 english
 enhancement
 enrichers
@@ -2603,6 +2611,7 @@ filesystementry-matching
 filesystementrymatcher
 filesystemrights
 filesystemsecurity
+filesystemwatcher
 filetransfer
 filetype
 filewrite
@@ -2618,7 +2627,6 @@ finance&operations
 financeandoperations
 financeoperations
 financial
-financialedge
 financials
 find
 find-call
@@ -3001,6 +3009,7 @@ grr
 gsuite
 gtx1080ti
 guardedfabric
+guardicore
 gubbins
 guest
 guestconfiguration
@@ -3015,6 +3024,7 @@ guru
 gvim
 gw2
 gwbasic
+gymnasium
 gz
 gzip
 gzip-compression
@@ -3159,6 +3169,7 @@ home
 home_automation
 homebrew
 homelandsecurity
+homeschooling
 hon
 hooking
 horizon
@@ -3640,6 +3651,7 @@ kelverion
 kentico
 kerberos
 kernel32
+kestrel
 key
 key-vault
 key2wocas
@@ -3737,6 +3749,7 @@ latency
 latestupdate
 latin
 latitude
+launcher
 layer
 layman
 layout
@@ -3828,7 +3841,6 @@ listener
 litecoin
 litedb
 literature
-live
 llama2
 lldp
 lmhost
@@ -4220,9 +4232,12 @@ mitigation
 mitre
 mitre_att&ck
 mitrend
+mittelschule
 mixedreality
 mixer
 mkdocs
+mkpasswd
+mksapiviewer
 ml
 ml.net
 mlflow
@@ -4251,6 +4266,7 @@ moldova
 moment
 monaco
 monday
+mondoo
 money
 moneyforward
 mongo
@@ -4611,6 +4627,7 @@ oath
 oauth
 oauth2
 oauth2.0
+oberstufe
 obj
 object
 objectid
@@ -4895,6 +4912,7 @@ passivetotal
 passkey
 passphrase
 passphraser passphrase password generator entropy
+passwd
 password
 password_generation
 password-generator
@@ -5105,6 +5123,7 @@ posh-chocobear
 posh-direnv
 posh-git
 posh-ribbon
+posh-ssh
 poshbot
 poshcommence
 poshevents
@@ -5211,6 +5230,7 @@ powerprotect_datamanager
 powersaving
 powerscheme
 powershell
+powershell_universal
 powershell-7
 powershell-class
 powershell-cmdlets
@@ -5326,7 +5346,6 @@ process-inspector
 processing
 processmitigation
 processor
-procmap
 procs
 producer
 product
@@ -8362,6 +8381,8 @@ psword
 pswriteword
 psyaml
 pszabbix
+ptc
+ptcintegrity
 pubg
 public
 public-key
@@ -8450,6 +8471,7 @@ quantum
 quarantine
 queries
 query
+queryexcel
 question
 queue
 queues
@@ -8479,7 +8501,6 @@ raidcontrollercmdlets
 railways
 rainbow
 raisers
-raisersedge
 raj
 ram
 ram-it
@@ -8534,6 +8555,7 @@ readme
 readpdf
 readthedocs
 real-time
+realschule
 realtimeprotection
 rebase
 reboot
@@ -8625,7 +8647,6 @@ remedy
 reminder
 remote
 remote-desktop
-remote'
 remoteadmin
 remotecert
 remoteconnection
@@ -8636,7 +8657,6 @@ remotedesktopconnectionmanager
 remotedesktopgateway
 remotedesktopmanager
 remotedesktopservices
-remotefiles
 remoteforensics
 remotehost
 remotelocalgroup
@@ -8936,6 +8956,7 @@ scheme
 school-information-system
 schoolholidays
 schulung
+schulverwaltung
 science
 scissors
 scm
@@ -9162,7 +9183,13 @@ sftp
 sfx
 sgopher
 sgw
+sha-256
+sha-512
+sha-crypt
 sha256
+sha256crypt
+sha512crypt
+shacrypt
 shadow
 shadowcopy
 shadowcopybackups
@@ -9215,6 +9242,7 @@ sid
 sidecar
 siem
 sif
+sigma
 sign
 signalfx
 signalr
@@ -9260,7 +9288,6 @@ skolnilogin
 sku
 skunklab
 sky
-skyapi
 skype
 skype_for_business
 skype4b
@@ -9593,11 +9620,14 @@ strictmode
 strikethrough-text
 string
 string-template
+stringmanager
+stringmanagertool
 strings
 stringtable
 stringutilities
 strip-ansi
 stripe
+strongname
 structure
 sts
 stt
@@ -9847,7 +9877,6 @@ test123
 testaccount
 testautomation
 tester
-testimonial
 testing
 testlab
 testplans
@@ -9864,6 +9893,7 @@ text-emojis
 text-to-image
 text-to-speach"
 text-to-speech
+text2image
 textanalysis
 textbuffer
 texting
@@ -10095,7 +10125,6 @@ ucs
 ucspowertool
 ud-avataaar
 ud-badgebutton
-ud-badgelink
 ud-breadcrumb
 ud-breadcrumbitem
 ud-burger
@@ -10110,11 +10139,13 @@ ud-control
 ud-dashboard
 ud-datepicker
 ud-field
+ud-flexytable
 ud-funnel
 ud-hero
 ud-illustration
 ud-input
 ud-licensed
+ud-loadingoverlay
 ud-minesweeper
 ud-mouseparticle
 ud-navbarsearch
@@ -10512,6 +10543,7 @@ warraty
 warrenty
 wasabi
 watch
+watchdog
 watchmen
 watery
 wave
@@ -10614,6 +10646,7 @@ win32-api
 win32appmigrationtool
 win32shutdown
 winbgp
+windchillrv&s
 window
 windows
 windows  server
@@ -10847,6 +10880,7 @@ xoauth2
 xor
 xpath
 xpendingreboot
+xpertdoc
 xpo
 xprotect
 xpt
@@ -10863,6 +10897,7 @@ yahw
 yamaha
 yaml
 yandex
+yapg
 yarn
 yetanotherhelloworld
 yml
