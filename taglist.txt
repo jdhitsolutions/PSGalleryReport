@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 17 June 2024 17:51:48 UTC
+Updated: Tuesday, 18 June 2024 02:08:52 UTC
 
 .bat
 .env
@@ -67,6 +67,7 @@ aadconnect
 aadgraph
 aadrm
 aadsecurity
+aadsts
 aam
 aas
 aatp
@@ -183,7 +184,6 @@ adfsendpoint
 adfstoolkit
 adfstools
 adgroupmemberobjects
-adgroupmembers
 adgroups
 adidns
 adif
@@ -931,7 +931,6 @@ brickset
 brickstore
 bridge
 brightbooking
-brightness
 britannica
 britannicaknowledgesystems
 british-gas
@@ -979,6 +978,7 @@ business
 businesscentral
 businessdays
 businesshours
+businessobjects
 businessrulesengine
 businesstime
 bxor
@@ -1278,6 +1278,7 @@ cmdb
 cmdkey
 cmdlet
 cmdlets
+cmdstan
 cmgroupdiscovery
 cmhealth
 cmhealthcheck
@@ -1315,7 +1316,6 @@ coercion
 cognitiveservice
 cognitiveservices
 cohesity
-coinmarketcap
 collaboration
 collatordso
 collatz
@@ -1477,7 +1477,6 @@ continuous-integration
 continuousdelivery
 continuousdeployment
 continuousintegration
-contrast
 control
 controller
 controlroom
@@ -1498,9 +1497,6 @@ converter
 convertfrom
 convertfrom-json
 convertfrom-jsontohashtable
-convertfrom-string
-convertfrom-stringtable
-convertfrom-table
 convertfrom-yaml
 convertto
 convertto-excel
@@ -1654,6 +1650,11 @@ customdns
 customer
 customerengagement
 customers
+customeventchannel
+customeventlog
+customeventlogchannel
+customeventlogfile
+customeventlogfiles
 customevents
 custominformationservices
 customis
@@ -1800,8 +1801,6 @@ dcim
 dcim_b324
 dcom
 dcr
-ddc
-ddc/ci
 ddns
 debian
 debug
@@ -1877,7 +1876,6 @@ desiredstate
 desiredstateconfiguration
 desk
 desktop
-desktops
 desktopvirtualization
 details
 detect
@@ -2100,6 +2098,7 @@ downloadyoutubevideo
 dozent
 dpa
 dpapi
+dpi
 dps
 dq
 dr
@@ -2170,7 +2169,6 @@ dump
 dumpify
 dumping
 dumps
-dupes
 duplicate
 duplicate-files
 duplicatioin
@@ -2346,6 +2344,7 @@ erb
 erp
 error
 error-log
+errorcode
 errorfile
 errors
 errorview
@@ -2354,7 +2353,6 @@ esae
 escape
 escapecodes
 escapesequences
-escaping
 ese
 esent
 esoteric
@@ -2387,13 +2385,17 @@ event
 event_id
 event_list
 event-timeline
+eventchannel
+eventchannels
 eventcollector
-eventful
 eventgrid
 eventhub
 eventing
 eventlist
 eventlog
+eventlogchannel
+eventlogchannels
+eventlogmanifest
 eventlogs
 eventmonitor
 eventmonitoring
@@ -2911,7 +2913,6 @@ globaldashboard
 globalentry
 globallydistributeddatabase
 globbing
-glpi
 gmail
 gmap
 gmaps
@@ -3075,9 +3076,12 @@ hcx
 hdfs
 hdinsight
 hdinsightonaks
+hdr
 header
+headhunter
 health
 health_checks
+healthbot
 healthcare
 healthcareapis
 healthcheck
@@ -3446,11 +3450,9 @@ investigation
 investment
 investments
 invitation
-invocation
 invoice
 invoke
 invoke-asadmin
-invoke-asadministrator
 invoke-ascurrentuser
 invoke-automation
 invoke-build
@@ -3782,6 +3784,7 @@ licence
 license
 license-generator
 licenseautomation
+licensemanagement
 licensemanager
 licensereport
 licenses
@@ -3827,7 +3830,6 @@ listener
 litecoin
 litedb
 literature
-live
 llama2
 lldp
 lmhost
@@ -4069,7 +4071,6 @@ mbs
 mc
 mcafee
 mcas
-mccs
 mcd
 mchapv2
 mct
@@ -4089,7 +4090,6 @@ me4024
 mean
 measure
 measure-loc
-measure-process
 mecm
 media
 mediant
@@ -4132,7 +4132,6 @@ messaging-emoji
 messaging-emojis
 messenger
 met
-meta
 metadata
 metadataservice
 metaprogramming
@@ -4222,6 +4221,7 @@ mittelschule
 mixedreality
 mixer
 mkdocs
+mkpasswd
 mksapiviewer
 ml
 ml.net
@@ -4408,7 +4408,6 @@ nanoleaf
 nartac
 nasdaq
 native
-natpool
 natural-language-to-code
 natural-selection
 nature
@@ -4417,6 +4416,7 @@ navigation
 nbi
 ncal
 ndes
+nebulon
 nec-infrared-transmission-protocol
 necli
 nederland
@@ -4461,7 +4461,6 @@ network-credentials
 network-info
 networkanalytics
 networkcloud
-networkcontroller
 networkdiscovery
 networkdrives
 networkfirewall
@@ -4649,7 +4648,6 @@ office2013
 office2016
 office2019
 office365
-office365managementapi
 officedev
 officegraph
 officemessageencryption
@@ -4679,7 +4677,6 @@ on-premise
 onboard
 onboardadministrator
 onboarding
-oncommand-insight
 ondemand
 one
 onedrive
@@ -4896,6 +4893,7 @@ passivetotal
 passkey
 passphrase
 passphraser passphrase password generator entropy
+passwd
 password
 password_generation
 password-generator
@@ -4933,7 +4931,6 @@ payload
 paylocity
 paypal
 pays
-pbench
 pbip
 pc
 pcapng
@@ -5328,7 +5325,6 @@ process-inspector
 processing
 processmitigation
 processor
-procmap
 procs
 producer
 product
@@ -5406,7 +5402,6 @@ ps6
 ps7
 psa
 psadbscreencap
-psadgroupmembers
 psadt
 psake
 psappdeploytoolkit
@@ -8470,7 +8465,6 @@ quote
 quoteoftheday
 quotes
 quotestoliveby
-quoting
 quser
 qword
 r
@@ -8553,6 +8547,7 @@ recording
 recordsmanagement
 recovery
 recoveryservices
+recruiter
 recrutch
 recurse
 recursion
@@ -8759,7 +8754,6 @@ rhapsody
 ribbon
 ribcl
 ricoh
-rightcloud
 rightjoin
 rights
 rightsizing
@@ -8909,6 +8903,7 @@ scaffoldingtemplate
 scala
 scalable
 scalablevectorgraphics
+scale
 scan
 scanner
 scap
@@ -9121,6 +9116,7 @@ servicecatalog
 serviceconnectionpoint
 servicecontrol
 servicedesk
+servicedeskplus
 serviceendpoints
 servicefabric
 servicelinker
@@ -9167,7 +9163,13 @@ sftp
 sfx
 sgopher
 sgw
+sha-256
+sha-512
+sha-crypt
 sha256
+sha256crypt
+sha512crypt
+shacrypt
 shadow
 shadowcopy
 shadowcopybackups
@@ -9330,7 +9332,6 @@ snmpv3
 snmpwalk
 snowflake
 snsmssqlpsmodule
-snspsadgroupmembers
 snspsscriptsmonitoring
 snssqlitepsmodule
 sntp
@@ -9488,6 +9489,7 @@ srcsrv
 srm
 srylius-write
 ssas
+ssc
 ssdt
 sse
 ssh
@@ -9520,11 +9522,14 @@ stackoverflow
 staffhub
 staging
 stale
+stan
+stanc
 standard
 standarderror
 standardoutput
 standards
 standbypool
+stansummary
 start
 start-job
 start-jobthread
@@ -9598,7 +9603,6 @@ string-template
 stringmanager
 stringmanagertool
 strings
-stringtable
 stringutilities
 strip-ansi
 stripe
@@ -9666,7 +9670,6 @@ svt
 swagger
 swamid
 swarm
-swedish
 swimlane
 swis
 switch
@@ -10565,6 +10568,7 @@ webservice
 webservices
 website
 websites
+websocket
 websockets
 websphere
 websphereappserver
@@ -10661,6 +10665,7 @@ windowscredentialsmanager
 windowsdataprotectionapi
 windowsdefender
 windowsdesktopsearch
+windowsevent
 windowseventlog
 windowsform
 windowsforms
@@ -10771,7 +10776,6 @@ wrap-text
 wrapper
 wrapperfunctions
 wrc
-wrike
 write
 write-ascii
 write-color
