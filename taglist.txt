@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Thursday, 20 June 2024 17:52:03 UTC
+Updated: Friday, 21 June 2024 02:07:33 UTC
 
 .bat
 .env
@@ -20,6 +20,7 @@ Updated: Thursday, 20 June 2024 17:52:03 UTC
 🍣
 💩
 🙇
+1&1
 10
 11
 1607
@@ -193,6 +194,7 @@ admf
 admin
 admin-tools
 adminbyrequest
+admindirectory
 administration
 administrative
 administrativeunit
@@ -238,6 +240,8 @@ afd
 affinity
 affinity-co
 affinity-crm
+after-effects
+aftereffects
 agenda
 agent
 aggregates
@@ -310,6 +314,7 @@ amateurradio
 amazon
 amazonaws
 amazonmgn
+amazonwebservices
 amend
 ami
 amiga
@@ -328,7 +333,6 @@ analyticsrules
 analyze
 analyzer
 analyzerrules
-anchor
 and
 android
 anet
@@ -612,6 +616,7 @@ avmtools
 avro
 avs
 avset
+await
 awareness
 awesome
 awp
@@ -772,6 +777,7 @@ base85
 basecamp
 based
 baseline
+basename
 bash
 basic
 bastion
@@ -824,6 +830,7 @@ bigfix
 bigquery
 bikeshed
 billing
+billingbenefits
 bimi
 bin
 bin-obj
@@ -1018,8 +1025,6 @@ capslock
 captcha
 capture
 carbon
-carbonawarecomputing
-carbonintensity
 card
 cardwirth
 cares
@@ -1131,6 +1136,7 @@ cherwell
 chfs
 chi
 china
+chmod
 choco
 choco-bear
 chocobear
@@ -1509,7 +1515,6 @@ converttohtml
 converttomarkdown
 converttomd
 cookie
-coolq
 cooltag1
 cooltag2
 coordinates
@@ -1520,6 +1525,7 @@ copypaste
 copyright
 core
 coreposh
+coreutils
 corona
 cortex
 cos
@@ -1553,10 +1559,8 @@ cppm
 cpu
 cpuid
 cpuid-information
-cq
 cqd
 cqdpowershell
-cqhttp
 crack psmodule
 crash
 crawler
@@ -1657,10 +1661,13 @@ customeventlogchannel
 customeventlogfile
 customeventlogfiles
 customevents
+custominformationservices
+customis
 customisation
 customization
 customlocation
 customlogs
+customproviders
 cutehttpfileserver
 cvad
 cve
@@ -1835,6 +1842,7 @@ defender
 defender-atp
 defender-for-endpoint
 defenderast
+defenderforendpoint
 defenderforidentity
 defense
 deflate
@@ -1844,6 +1852,7 @@ delegation
 delegationmodel
 delete
 delete-orphan-branches
+deletefile
 deleteuserprofile
 delivery
 dell
@@ -1897,7 +1906,6 @@ devexpress
 deviation
 device
 devicecode
-deviceid
 deviceprovisioningservice
 devices
 deviceupdate
@@ -1948,6 +1956,7 @@ directorysecurity
 directrouting
 direnv
 dirkjan
+dirname
 dirsync
 disa
 disable
@@ -2363,7 +2372,6 @@ esp32s2
 espressif
 esri
 essbase
-estimate
 estimation
 esx
 esxi
@@ -2388,6 +2396,7 @@ event-timeline
 eventchannel
 eventchannels
 eventcollector
+eventful
 eventgrid
 eventhub
 eventing
@@ -2486,6 +2495,7 @@ extendedattributes
 extendedevents
 extendedproperties
 extendedproperty
+extendscript
 extensibility
 extension
 extensionmethods
@@ -2516,6 +2526,7 @@ fallbackstatuspoint
 fanarttv
 fancy
 faq
+farm
 farmanager
 fast
 fast-dds
@@ -2970,6 +2981,7 @@ granttype
 graph
 graph-api
 graphapi
+graphapirequests
 graphconnector
 graphexplorer
 graphic
@@ -3330,6 +3342,7 @@ imagination
 imaging
 imap
 imb
+imei
 imi
 impala
 impersonation
@@ -3468,6 +3481,7 @@ invoke-webrequest
 invokebuild
 invokemethod
 io
+ionos
 ios
 iot
 iotcentral
@@ -3838,6 +3852,7 @@ lmhosts
 lms
 load
 loadbalancer
+loadbalancer.org
 loader
 loadtesting
 loanddepot
@@ -3857,6 +3872,7 @@ localpolicy
 location
 locationbasedservices
 lock
+lockbox
 lockdisplaytimeout
 lockdown
 lockfile
@@ -4027,6 +4043,7 @@ mariadb
 mark
 markdig
 markdown
+markdownrender
 marketing
 marketo
 marketplace
@@ -4066,6 +4083,7 @@ mazerat
 mb
 mbc
 mbs
+mc
 mcafee
 mcas
 mccs
@@ -4074,6 +4092,7 @@ mchapv2
 mct
 md5
 md5_v2-18678d945a01f01ccd1b01ed86392fd5
+mdatp
 mdb
 mdbc
 mde
@@ -4172,6 +4191,7 @@ microsoftauthenticationlibrary
 microsoftazure
 microsoftcloud
 microsoftdefender
+microsoftdefenderatp
 microsoftdefenderforidentity
 microsoftdeploymenttoolkit
 microsoftendpointmanager
@@ -4202,6 +4222,7 @@ mimekit
 min
 mindmeister
 minecraft
+miniconda
 minifier
 minimal
 minimum
@@ -4227,6 +4248,7 @@ mlflow
 mmdc
 mobile
 mobilenetwork
+mobilitycontroller
 mock
 mocking
 model
@@ -4316,6 +4338,7 @@ msi psmodule
 msiexec
 msil
 msix
+mslab
 msmq
 msol
 msoms
@@ -4386,6 +4409,7 @@ mysql-database
 mytest
 n-able
 n-central
+nabu
 nac
 nagios
 nakivo
@@ -4446,6 +4470,7 @@ nets
 netsapiens
 netscaler
 netscape
+netsec
 netsh
 netspell
 netstat
@@ -4758,6 +4783,7 @@ optionstring
 opus
 oracle
 oraclecloudinfrastructure
+oraculum
 orbital
 orchestration
 orchestrator
@@ -5041,6 +5067,7 @@ pleasant
 pleasantpasswordserver
 plex
 plist
+plog
 plot
 plug-n-copy
 plugin
@@ -5117,6 +5144,7 @@ poshtemplate
 poshwsus
 poshy-code-search
 poshy-colors
+poshy-coreutils-ish
 poshy-dir-nav
 poshy-ecks
 poshy-env-proxy
@@ -5133,6 +5161,7 @@ poshy-wrap
 poshy-wrap-apt
 poshy-wrap-argcomplete
 poshy-wrap-brew
+poshy-wrap-curl
 poshy-wrap-dnf
 poshy-wrap-docker
 poshy-wrap-docker-compose
@@ -5241,6 +5270,7 @@ powershellgallery
 powershellget
 powershellgetformatversion_2.0
 powershellise
+powershelllogger
 powershellmodule
 powershellmoduleupdate
 powershellpr0mpt
@@ -5267,6 +5297,7 @@ pranks
 predicate
 prediction
 predictive
+predictive-text
 predictor
 preferences
 prefix
@@ -5450,7 +5481,9 @@ pscommand_allpkgs
 pscommand_app
 pscommand_apt-history
 pscommand_apt-list-packages
+pscommand_arch
 pscommand_asrc
+pscommand_basename
 pscommand_bcubc
 pscommand_bcubo
 pscommand_bfu
@@ -5486,8 +5519,15 @@ pscommand_cd-
 pscommand_cd..
 pscommand_cd+
 pscommand_cdgr
+pscommand_cl
+pscommand_clb
+pscommand_clhead
+pscommand_clo
+pscommand_cloc
+pscommand_clocr
 pscommand_confirm-gitbisectcommitbad
 pscommand_confirm-gitbisectcommitgood
+pscommand_convertto-nixmode
 pscommand_convertto-rgb
 pscommand_d
 pscommand_d64
@@ -5525,6 +5565,7 @@ pscommand_dii
 pscommand_dils
 pscommand_dipu
 pscommand_dirm
+pscommand_dirname
 pscommand_disable-proxy
 pscommand_dit
 pscommand_dk
@@ -5874,6 +5915,7 @@ pscommand_get-gittaglist
 pscommand_get-gittrackedfiles
 pscommand_get-gituntrackedfiles
 pscommand_get-gitwhatchangedstylized
+pscommand_get-itemnixmode
 pscommand_get-netipaddresspublic
 pscommand_get-netipaddresssimple
 pscommand_get-pwshaliasdefinition
@@ -6093,6 +6135,7 @@ pscommand_gwc
 pscommand_gwch
 pscommand_h
 pscommand_hin
+pscommand_hostname
 pscommand_hse
 pscommand_hup
 pscommand_invoke-aptcachepolicy
@@ -6114,6 +6157,12 @@ pscommand_invoke-brewupgradeandcleanup
 pscommand_invoke-brewupgradecaskandcleanup
 pscommand_invoke-brewupgradeformula
 pscommand_invoke-brewupgradegreedyandcleanup
+pscommand_invoke-curlfollowingredirects
+pscommand_invoke-curlfollowingredirectsdownloadasnamed
+pscommand_invoke-curlfollowingredirectsdownloadasnamedcontinue
+pscommand_invoke-curlfollowingredirectsdownloadasnamedcontinueandretry
+pscommand_invoke-curlfollowingredirectsfetchbanner
+pscommand_invoke-curlonlyforgetresponseheaders
 pscommand_invoke-dnfcleanall
 pscommand_invoke-dnfgrouplist
 pscommand_invoke-dnfgrouppinstall
@@ -6938,6 +6987,7 @@ pscommand_search-commandpath
 pscommand_search-ruby
 pscommand_set-envvar
 pscommand_set-gitremoteurl
+pscommand_set-itemnixmode
 pscommand_set-locationback1
 pscommand_set-locationback2
 pscommand_set-locationback3
@@ -6964,6 +7014,7 @@ pscommand_sgem
 pscommand_show-gitremote
 pscommand_show-proxy
 pscommand_shttp
+pscommand_shuf
 pscommand_sl
 pscommand_ssh-add-all
 pscommand_ssh-disable-proxy
@@ -7234,6 +7285,8 @@ psfunction_add-gittrackedfilesinteractively
 psfunction_add-gittrackedfilesverbosely
 psfunction_apt-history
 psfunction_apt-list-packages
+psfunction_arch
+psfunction_basename
 psfunction_bgblack
 psfunction_bgblue
 psfunction_bgbrightblack
@@ -7256,10 +7309,12 @@ psfunction_bgyellow
 psfunction_catimg
 psfunction_confirm-gitbisectcommitbad
 psfunction_confirm-gitbisectcommitgood
+psfunction_convertto-nixmode
 psfunction_convertto-rgb
 psfunction_d
 psfunction_decode64
 psfunction_decodefile64
+psfunction_dirname
 psfunction_disable-proxy
 psfunction_docker-archive-content
 psfunction_docker-build
@@ -7453,6 +7508,7 @@ psfunction_get-gittaglist
 psfunction_get-gittrackedfiles
 psfunction_get-gituntrackedfiles
 psfunction_get-gitwhatchangedstylized
+psfunction_get-itemnixmode
 psfunction_get-netipaddresspublic
 psfunction_get-netipaddresssimple
 psfunction_get-pwshaliasdefinition
@@ -7491,6 +7547,7 @@ psfunction_git-show-proxy
 psfunction_gitignore-reload
 psfunction_gittowork
 psfunction_gplfs
+psfunction_hostname
 psfunction_invoke-aptcachepolicy
 psfunction_invoke-aptcachesearch
 psfunction_invoke-aptcacheshowpkg
@@ -7510,6 +7567,12 @@ psfunction_invoke-brewupgradeandcleanup
 psfunction_invoke-brewupgradecaskandcleanup
 psfunction_invoke-brewupgradeformula
 psfunction_invoke-brewupgradegreedyandcleanup
+psfunction_invoke-curlfollowingredirects
+psfunction_invoke-curlfollowingredirectsdownloadasnamed
+psfunction_invoke-curlfollowingredirectsdownloadasnamedcontinue
+psfunction_invoke-curlfollowingredirectsdownloadasnamedcontinueandretry
+psfunction_invoke-curlfollowingredirectsfetchbanner
+psfunction_invoke-curlonlyforgetresponseheaders
 psfunction_invoke-dnfcleanall
 psfunction_invoke-dnfgrouplist
 psfunction_invoke-dnfgrouppinstall
@@ -8136,6 +8199,7 @@ psfunction_search-commandpath
 psfunction_search-ruby
 psfunction_set-envvar
 psfunction_set-gitremoteurl
+psfunction_set-itemnixmode
 psfunction_set-locationback1
 psfunction_set-locationback2
 psfunction_set-locationback3
@@ -8161,6 +8225,7 @@ psfunction_set-locationup5
 psfunction_show-gitremote
 psfunction_show-proxy
 psfunction_shttp
+psfunction_shuf
 psfunction_ssh-add-all
 psfunction_ssh-disable-proxy
 psfunction_ssh-enable-proxy
@@ -8398,7 +8463,6 @@ qlogicfcpowerkit
 qlogicfcprovider
 qna
 qol
-qq
 qr
 qrcode
 qrcodes
@@ -8615,6 +8679,7 @@ remove-pass
 remove-path
 remove-pinneditem
 remove-tempfiles
+removefile
 removetypeaccelerators
 remux
 ren-isac
@@ -8685,6 +8750,7 @@ restore
 resume
 retail
 retention
+retro
 retry
 returnuserprofile
 retype
@@ -8725,6 +8791,7 @@ ripe
 risk
 riskiq
 riskpro
+risksense
 rivermeadow
 rlan
 rmcp
@@ -8961,6 +9028,7 @@ searchconnector
 searchengine
 searcher
 searching
+searchmanager
 searchplace
 searchquery
 searchstring
@@ -9177,6 +9245,7 @@ show-on-command
 showdemo
 showoncommand
 shred
+shuf
 shutdown
 sid
 sidecar
@@ -9488,7 +9557,6 @@ stanc
 standard
 standarderror
 standardoutput
-standards
 standbypool
 stansummary
 start
@@ -10009,6 +10077,7 @@ truportal
 trusted
 trusted-host
 trustedhosts
+trustedinstaller
 trustedrootcertificate
 trustedsigning
 truth
@@ -10089,6 +10158,7 @@ ud-input
 ud-licensed
 ud-loadingoverlay
 ud-minesweeper
+ud-mouseparticle
 ud-navbarsearch
 ud-numbermask
 ud-orgchart
@@ -10211,6 +10281,7 @@ urlhaus
 urlredirections
 urlrewrite
 urlscan
+urlscan.io
 urlupdate
 uru
 usage
@@ -10310,6 +10381,7 @@ venvlink
 vera
 veracrypt
 verbose psmodule
+verification
 verify
 version
 versioning
@@ -10494,6 +10566,7 @@ wdapi
 wds
 weather
 weaviate
+weaviatenet
 web
 web-browser
 web-search
@@ -10527,6 +10600,7 @@ webservice
 webservices
 website
 websites
+websocket
 websockets
 websphere
 websphereappserver
@@ -10633,6 +10707,7 @@ windowsinternaldatabase
 windowsinternals
 windowsiotservices
 windowsiso
+windowsmanagementframework
 windowspackagemanager
 windowsplugins
 windowspowershell
@@ -10640,6 +10715,7 @@ windowspresentationfoundation
 windowsreleasehealth
 windowsrest
 windowssandbox
+windowssearchmanager
 windowsserver
 windowsserver2008
 windowsserver2016
@@ -10661,6 +10737,7 @@ wingetbridge
 winrar
 winrm
 winrs
+winrt
 wins
 winsat
 winscp
@@ -10680,6 +10757,7 @@ with
 wizard
 wkhtmltopdf
 wlan
+wmf
 wmf5
 wmi
 wmifilter
@@ -10813,6 +10891,7 @@ xmlutils
 xoauth2
 xor
 xpath
+xpendingreboot
 xpertdoc
 xpo
 xprotect
@@ -10823,6 +10902,7 @@ xtremio
 xtrude
 xunit
 xwiki
+xwindowsupdate
 xwith
 yahoo
 yahw
@@ -10856,6 +10936,7 @@ zip-compression
 zipfile-transform
 zisson
 zoho
+zoicware
 zone
 zookeeper
 zoom
