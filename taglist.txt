@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Friday, 21 June 2024 02:07:33 UTC
+Updated: Friday, 21 June 2024 09:52:04 UTC
 
 .bat
 .env
@@ -31,7 +31,6 @@ Updated: Friday, 21 June 2024 02:07:33 UTC
 1c
 1e
 1password
-1poshword
 200
 2010
 2013
@@ -240,8 +239,6 @@ afd
 affinity
 affinity-co
 affinity-crm
-after-effects
-aftereffects
 agenda
 agent
 aggregates
@@ -321,7 +318,6 @@ amiga
 amp
 amqp
 amsi
-amt
 amxmodx
 anaconda
 analysis
@@ -333,6 +329,7 @@ analyticsrules
 analyze
 analyzer
 analyzerrules
+anchor
 and
 android
 anet
@@ -351,8 +348,6 @@ anova
 ansi
 ansible
 ansible-control-node
-ansible-playbook
-ansible-vault
 ansiblecontrolnode
 anti-malware
 antimalwarescaninterface
@@ -635,7 +630,6 @@ axis
 axium
 az
 az-cli
-az.runtimeenvironment
 az.stackhci
 azautomation
 azcli
@@ -751,8 +745,6 @@ azvm
 b2
 back
 backblaze
-backconnection
-backconnectionhostname
 backend
 backup
 backup_validation
@@ -1025,6 +1017,8 @@ capslock
 captcha
 capture
 carbon
+carbonawarecomputing
+carbonintensity
 card
 cardwirth
 cares
@@ -1102,7 +1096,6 @@ cf
 cfn
 ch9
 change
-changeanalysis
 changelog
 channel
 channel9
@@ -1320,7 +1313,6 @@ cognitiveservice
 cognitiveservices
 cohesity
 coinmarketcap
-collaboration
 collatordso
 collatz
 collection
@@ -1466,7 +1458,6 @@ containerinstances
 containerregistry
 containers
 containment
-contentprep
 context
 context-menu-shortcut
 continious-deploy
@@ -1515,6 +1506,7 @@ converttohtml
 converttomarkdown
 converttomd
 cookie
+coolq
 cooltag1
 cooltag2
 coordinates
@@ -1535,7 +1527,6 @@ cost
 cost-management
 costmanagement
 costoptimization
-couchbase
 couchdb
 couchpotato
 count
@@ -1559,8 +1550,10 @@ cppm
 cpu
 cpuid
 cpuid-information
+cq
 cqd
 cqdpowershell
+cqhttp
 crack psmodule
 crash
 crawler
@@ -1675,7 +1668,6 @@ cve-2021-34527
 cvrf
 cvss
 cwi
-cx
 cyber
 cyberark
 cyberark-api
@@ -1830,7 +1822,6 @@ deduplication
 deep
 deep-security
 deep-security-manager
-deepl
 deepvisibility
 def
 default
@@ -1840,7 +1831,6 @@ defaults
 defence
 defender
 defender-atp
-defender-for-endpoint
 defenderast
 defenderforendpoint
 defenderforidentity
@@ -1906,6 +1896,7 @@ devexpress
 deviation
 device
 devicecode
+deviceid
 deviceprovisioningservice
 devices
 deviceupdate
@@ -2215,7 +2206,6 @@ e-mail
 e1
 easy
 easy-to-use
-easylife365
 easyvista
 eaton
 ebay
@@ -2303,7 +2293,6 @@ encryption
 end-of-line
 endomondo
 endpoint
-endpoints
 energy
 engagement
 engine
@@ -2372,6 +2361,7 @@ esp32s2
 espressif
 esri
 essbase
+estimate
 estimation
 esx
 esxi
@@ -2380,7 +2370,6 @@ ether
 etherassist
 ethereum
 ethr
-ethz
 etl
 etl2pcapng
 etrade
@@ -2482,7 +2471,6 @@ exponentiation
 export
 export-cmhealthreport
 export-data
-export-passlist
 exportcertificate
 exportcertificates
 exporter
@@ -2495,7 +2483,6 @@ extendedattributes
 extendedevents
 extendedproperties
 extendedproperty
-extendscript
 extensibility
 extension
 extensionmethods
@@ -2523,7 +2510,6 @@ failure
 fake
 falcon
 fallbackstatuspoint
-fanarttv
 fancy
 faq
 farm
@@ -2600,7 +2586,6 @@ files-cli
 files-cli.exe
 files.com
 filesecurity
-fileserver
 fileserverresourcemanager
 fileshare
 filesharing
@@ -2649,7 +2634,6 @@ firewall
 firewall-management
 firewallrule
 firmware
-firmwareanalysis
 first
 fisher
 fissionproducts
@@ -2785,7 +2769,6 @@ fzf
 gac
 gainz
 gainz-chocolateysync
-gainz-keepass
 gainz-sqldb
 gal
 gallery
@@ -2802,7 +2785,6 @@ gauge
 gavin
 gavineke
 gc
-gcbdr
 gce
 gci
 gcloud
@@ -2867,10 +2849,7 @@ get-help
 get-history
 get-iislog
 get-openfile
-get-openfiles
-get-pass
 get-passivetrippoint
-get-passlist
 get-path
 get-pinneditem
 get-samcmassignedsite
@@ -2941,7 +2920,6 @@ goldsource
 goldsource-dedicated-server
 google
 google-chrome
-google-fonts
 google-histogram
 google-sankey
 google-table
@@ -2981,7 +2959,6 @@ granttype
 graph
 graph-api
 graphapi
-graphapirequests
 graphconnector
 graphexplorer
 graphic
@@ -3197,7 +3174,6 @@ hpc
 hpcc
 hpccache
 hpe
-hpealletra6000andnimblestoragepowershelltoolkit
 hpebioscmdlets
 hpeilocmdlets
 hpemigrationadvisorycmdlets
@@ -3351,7 +3327,6 @@ import
 import-csv
 import-dtdriverpackpackagedefinitionsms
 import-modulefrompath
-import-passlist
 import-sampackagedefinitionsms
 importer
 importexport
@@ -3424,14 +3399,12 @@ instapush
 instorage
 intacct
 integrated
-integratedscriptingeditor
 integration
 integrationaccount
 integrationruntime
 integrationruntimedependency
 integrationservicescatalog
 integrity
-intel
 inteligo
 intelligence
 intelligence"
@@ -3502,7 +3475,6 @@ iperf
 ipfy.org
 iphone
 ipilot
-iplookup
 ipmaths
 ipp
 iprange
@@ -3925,7 +3897,6 @@ logman
 logoff
 logon
 logonright
-logonscript
 logontask
 logonto
 logonuser
@@ -4009,7 +3980,6 @@ man-highlighting
 manage
 manage-wmi
 manageability
-managed
 managed-identity
 manageddevices
 manageddisks
@@ -4283,7 +4253,6 @@ monitoring_objects
 monitoring_variables
 monitoringplugins
 monitoringsolutions
-monitors
 monthlyupdate
 moodle
 moonshot
@@ -4371,7 +4340,6 @@ multi-platform
 multi-threading
 multi-zone
 multicloud
-multidimenstional
 multimedia
 multios
 multipass
@@ -4489,7 +4457,6 @@ networkfunction
 networkinfo
 networking
 networkinterfaces
-networkloadbalancer
 networkpolicyserver
 networkscan
 networksecurity
@@ -4626,7 +4593,6 @@ oa
 oacli
 oacmdlets
 oacommand
-oact
 oath
 oauth
 oauth2
@@ -4736,11 +4702,9 @@ open
 open-ai
 open-ssh
 openai
-openamt
 openapi
 opendata
 openedge
-openfiles
 openhere
 openholidaysapi
 openid
@@ -4878,7 +4842,6 @@ pageant
 pager
 pagerduty
 pages
-pagination
 paloalto
 paloaltonetworks
 pam
@@ -5372,7 +5335,6 @@ progressbars
 project
 project-management
 projectmanagement
-projectreunion
 projects
 projecttemplate
 projectwise
@@ -7234,7 +7196,6 @@ psdeploy
 psdesiredstateconfiguration
 psdevops
 psdocs
-psdocs-documents
 psdocsgenerator
 psdrawio
 psdrive
@@ -8398,7 +8359,6 @@ publicfolder
 publicholidays
 publicip
 publish
-publishedmodules
 publisher
 publishers
 publishing
@@ -8463,6 +8423,7 @@ qlogicfcpowerkit
 qlogicfcprovider
 qna
 qol
+qq
 qr
 qrcode
 qrcodes
@@ -8641,7 +8602,6 @@ relational
 relay
 release
 releasedefinition
-releasehealth
 releasemanagement
 releasenotes
 relevance
@@ -8675,14 +8635,12 @@ remoting
 remove
 remove-githubsecrets
 remove-itemproperty
-remove-pass
 remove-path
 remove-pinneditem
 remove-tempfiles
 removefile
 removetypeaccelerators
 remux
-ren-isac
 rename
 rename-git
 rename-git-branch
@@ -8781,7 +8739,6 @@ rhapsody
 ribbon
 ribcl
 ricoh
-rightcloud
 rightjoin
 rights
 rightsizing
@@ -9123,7 +9080,6 @@ seppmail
 seppmail.cloud
 seq
 sequence
-serial
 serialization
 serialize
 sericemanagement
@@ -9162,7 +9118,6 @@ servicestatus
 servicestore
 servicing
 servicingstack
-ses
 session
 sessionize
 sessions
@@ -9173,12 +9128,9 @@ set-dnsservers
 set-githubsecrets
 set-itemproperty
 set-location
-set-openfiles
 set-ownership
-set-pass
 set-psbreakpoint
 set-psenv
-set-randompass
 set-type
 setbios
 sets
@@ -9227,7 +9179,6 @@ shell-art
 shells
 shieldedvm
 ships
-shipsprovider
 shipstation
 shlink
 shodan
@@ -9401,7 +9352,6 @@ sonus
 soon
 soonr
 soonragent
-sophos
 sort
 sort-json
 sorting
@@ -9541,7 +9491,6 @@ sso
 sspi
 sspr
 ssrs
-ssst
 sstp
 stache
 stackexchange
@@ -9760,7 +9709,6 @@ systeminfo
 systeminformation
 systemlocale
 systems
-systemsplash
 systray
 t
 t-sql
@@ -9774,7 +9722,6 @@ tabexpansion2
 tablacus
 table
 tableau
-tableauserver
 tableauworkbook
 tabler
 tables
@@ -9950,7 +9897,6 @@ tibber
 tic-tac-toe
 tickle
 ticks
-tictactoe
 tiermodel
 time
 timeout
@@ -10316,7 +10262,6 @@ util
 utilities
 utility
 utils
-utm
 uudecode
 uuencode
 uuid
@@ -10485,7 +10430,6 @@ vpg
 vplex
 vpn
 vpn-certificate
-vpro
 vps
 vra
 vrchat
@@ -10689,7 +10633,6 @@ windows11
 windows365
 windowsadmincenter
 windowsaudit
-windowsbuilds
 windowscredential
 windowscredentialmanager
 windowscredentials
@@ -10712,7 +10655,6 @@ windowspackagemanager
 windowsplugins
 windowspowershell
 windowspresentationfoundation
-windowsreleasehealth
 windowsrest
 windowssandbox
 windowssearchmanager
@@ -10743,7 +10685,6 @@ winsat
 winscp
 wintellect
 winterminal
-winui
 wireless
 wirelessnetwork
 wireshark
@@ -10808,7 +10749,6 @@ wrap-text
 wrapper
 wrapperfunctions
 wrc
-wrike
 write
 write-ascii
 write-color
@@ -10839,8 +10779,6 @@ wso2
 wsus
 wt
 wtsapi32
-wttr
-wttr.in
 wtx
 wu
 wug
