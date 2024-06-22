@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Saturday, 22 June 2024 09:51:56 UTC
+Updated: Saturday, 22 June 2024 17:51:54 UTC
 
 .bat
 .env
@@ -278,6 +278,7 @@ albums
 alc
 alero
 alert
+alerting
 alertmail
 alertmanagement
 alerts
@@ -351,8 +352,6 @@ anova
 ansi
 ansible
 ansible-control-node
-ansible-playbook
-ansible-vault
 ansiblecontrolnode
 anti-malware
 antimalwarescaninterface
@@ -434,7 +433,6 @@ aprs
 aprs-is
 aprsis
 aprsthursday
-aps
 apt
 apt-get
 apt-get-update
@@ -510,7 +508,6 @@ assessment
 asset
 assetintelligencepoint
 assets
-assistance
 assistant
 association
 ast
@@ -644,7 +641,6 @@ azd
 azdisk
 azdo
 azereo
-azforensics
 azkeyvault
 aznetworking
 aznetworkinterface
@@ -669,8 +665,8 @@ azure-backup
 azure-cli
 azure-data-explorer
 azure-devops
-azure-forensics
 azure-functions
+azure-pipelines
 azure-resource-graph
 azure-ssis
 azureactivedirectory
@@ -727,7 +723,6 @@ azurerm
 azurerms
 azurerunasconnection
 azuresearch
-azuresearcher
 azuresecuritycenter
 azureservicebus
 azuresigntool
@@ -930,6 +925,7 @@ break
 breakpoint
 brew
 brickset
+brickstore
 bridge
 brightbooking
 brightness
@@ -1160,10 +1156,8 @@ cif
 cifv3
 cil
 cim
-cim_computersystem
 cimfs
 cimi
-ciminstance
 cims
 cimsession
 cinema
@@ -1249,7 +1243,6 @@ cloudbridge
 cloudendure
 cloudevents
 cloudflare
-cloudforensics
 cloudformation
 cloudfoundation
 cloudfront
@@ -1500,6 +1493,8 @@ convert-sid
 convert-windowsimage
 converter
 convertfrom
+convertfrom-json
+convertfrom-jsontohashtable
 convertfrom-string
 convertfrom-stringtable
 convertfrom-table
@@ -1705,7 +1700,6 @@ dacpackage
 dagger
 daily
 dane
-dangling
 dapr
 dare
 dark
@@ -1938,7 +1932,6 @@ difference
 dig
 digikam
 digital
-digital-forensics
 digitalforensics
 digitalocean
 digitaltwins
@@ -2373,6 +2366,7 @@ esp32s2
 espressif
 esri
 essbase
+estimate
 estimation
 esx
 esxi
@@ -2416,7 +2410,6 @@ eventviewer
 eventwatch
 evergreen
 evernote
-everydaypowershell
 everydayrewards
 everything
 evilprince2009
@@ -2921,7 +2914,6 @@ gitlabpipeline
 gitops
 glimps
 glob
-globalclipboard
 globaldashboard
 globalentry
 globallydistributeddatabase
@@ -3393,7 +3385,6 @@ initiator
 inline-progress
 inlineprogress
 innerjoin
-innertext
 input
 inputbox
 inputobject
@@ -3569,7 +3560,6 @@ javamanager
 javascript
 javaversion
 jboss
-jdbc
 jde
 jdedwards
 jdt
@@ -3672,7 +3662,6 @@ keymapping
 keypair
 keysms
 keyvault
-keywords
 kibana
 kickstart
 kidrsa
@@ -3821,7 +3810,6 @@ linearalgebra
 lingeringobjects
 link
 link-capability
-link-preview
 linkedin
 linkedservice
 linkedservicedependency
@@ -3945,7 +3933,6 @@ longfiles
 longitude
 look
 lookup
-loop
 loopback
 loremipsum
 love
@@ -3997,7 +3984,6 @@ mailkit
 mails
 main
 main-menu
-maintain-module
 maintenance
 maintenance-window
 maintenancewindows
@@ -4035,6 +4021,7 @@ map
 mapapi
 mapi
 mappeddrives
+mapper24
 mapping
 maps
 mapsapi
@@ -4253,7 +4240,6 @@ model
 modeling
 modify
 module
-module-maintenance
 modulebuild
 modulecreation
 modulefast
@@ -4341,7 +4327,6 @@ msmq
 msol
 msoms
 msonline
-msonlineext
 msp
 msp360
 mspbackups
@@ -4365,13 +4350,11 @@ mule
 mulesoft
 multi-factor
 multi-language
-multi-platform
 multi-threading
 multi-zone
 multicloud
 multidimenstional
 multimedia
-multios
 multipass
 multiple
 multiserver
@@ -4482,7 +4465,6 @@ networkcloud
 networkcontroller
 networkdiscovery
 networkdrives
-networkfirewall
 networkfunction
 networkinfo
 networking
@@ -4834,7 +4816,6 @@ out-default
 out-gridview
 out-json
 outerjoin
-outertext
 outline
 outlook
 output
@@ -4911,7 +4892,6 @@ pass-the-hash
 pass-the-ticket
 passcode
 passivetotal
-passkey
 passphrase
 passphraser passphrase password generator entropy
 passwd
@@ -5025,7 +5005,6 @@ ping
 ping-async
 pingsweep
 pinneditem
-pinterest
 pinvoke
 pip
 pip3
@@ -5214,7 +5193,6 @@ powerbi
 powerbidedicated
 powerbiembedded
 powerbiembeddedcapacity
-powerbot
 powercli
 powercligoodies
 powercommander
@@ -5277,7 +5255,6 @@ powershelltemplate
 powershelltraining
 powershelltypeaccelerators
 powershelluniversal
-powershellv5
 powerstig
 powerstore
 powertab
@@ -5348,6 +5325,7 @@ process-inspector
 processing
 processmitigation
 processor
+procmap
 procs
 producer
 product
@@ -5412,6 +5390,7 @@ ps
 ps-completions
 ps-ncentral
 ps.credentialmanager
+ps1
 ps12exe
 ps1xml
 ps1xmlgen
@@ -7218,7 +7197,6 @@ pscommand_zwp
 pscommander
 psconfasia
 psconfeu
-psconfig
 pscore
 pscredential
 pscribo
@@ -8512,7 +8490,6 @@ random-password
 random-password-generator
 randompassword
 randomuser
-randomusers
 range
 rangescan
 ransomware_recovery
@@ -8723,8 +8700,6 @@ resolve-stache
 resolve-template
 resolver
 resource
-resource_monitor
-resource_watcher
 resourcecontroller
 resourcegraph
 resourcegroup
@@ -8778,7 +8753,6 @@ rhapsody
 ribbon
 ribcl
 ricoh
-rightcloud
 rightjoin
 rights
 rightsizing
@@ -9020,7 +8994,6 @@ sdn
 sdp
 search
 search-adminauditlog
-search-engines
 searchconnector
 searchengine
 searcher
@@ -9120,7 +9093,6 @@ seppmail
 seppmail.cloud
 seq
 sequence
-serial
 serialization
 serialize
 sericemanagement
@@ -9209,9 +9181,7 @@ shared
 sharefile
 sharepoint
 sharepoint_online
-sharepoint-on-prem
 sharepoint-online
-sharepoint-product-configuration-wizard
 sharepoint2013
 sharepointdevelopmentcommunity
 sharepointonline
@@ -9280,6 +9250,7 @@ siteconfiguration
 sitecore
 sitecoresearch
 sitemaintenance
+sitemap
 siterecovery
 sites
 sitesystemserver
@@ -9462,7 +9433,6 @@ sports-tracker
 spotify
 spotify-api
 spotlight
-spotlightimages
 spp
 spread
 spreadsheet
@@ -9576,7 +9546,6 @@ statistics
 stats
 statsd
 status
-status_watcher
 statuscake
 statuscode
 statusmonitor
@@ -9683,7 +9652,6 @@ support-tools
 suppress
 supress-reboot
 surestacks
-surround
 survey
 surveymonkey
 sus
@@ -9801,7 +9769,6 @@ task-scheduler
 taskbar
 tasker
 taskgroup
-taskmanagement
 tasks
 taskscheduler
 tatux
@@ -9880,7 +9847,6 @@ test-samcmpackageexists
 test-userisadministrator
 test-xml
 test123
-testaccount
 testautomation
 tester
 testimonial
@@ -9917,6 +9883,7 @@ tfsec
 tfswitch
 tftd
 tftp
+tfvars
 tfvc
 thecrushingemptinessofquotidianexistence
 theme
@@ -9935,9 +9902,7 @@ threadjob
 threads
 threadsanitizer
 threat
-threat-hunting
 threatdefense
-threathunting
 threatintelligence
 thumbprint
 thunderbird
@@ -10003,7 +9968,6 @@ touch
 toughswitch
 tower
 tphubps
-tpm
 tr-064
 tr064
 trace
@@ -10083,9 +10047,6 @@ tsa
 tsd
 tsheets
 tsqlbestpractice
-tst
-tst1
-tst3
 tsv
 ttrpg
 tts
@@ -10215,7 +10176,6 @@ unicode-emojis
 unidesk
 unifi
 unified
-unifiedauditlog
 unifiedlabeling
 uninstall
 uninstaller
@@ -10267,6 +10227,7 @@ uptimerobot
 uptobox
 uqword
 uri
+uri-scheme
 url
 url-encode
 url-shortener
@@ -10293,7 +10254,6 @@ userinterface
 usermanagement
 username
 userprofile
-userright
 userrights
 userrightsassignment
 users
@@ -10394,7 +10354,6 @@ vie
 viewer
 vigenere
 vim
-vimode
 virole
 virsh
 virtual
@@ -10575,6 +10534,7 @@ webcamera
 webcmdlets
 webdav
 webdeploy
+webfrequest
 webhdfs
 webhelpdesk
 webhistory
@@ -10668,7 +10628,6 @@ windows-explorer
 windows-features
 windows-firewall
 windows-lab
-windows-path
 windows-powershell
 windows-registry
 windows-remoting
@@ -10853,7 +10812,6 @@ x509certificates
 x509chain
 x64
 x86
-xa
 xaf
 xbase
 xbox
