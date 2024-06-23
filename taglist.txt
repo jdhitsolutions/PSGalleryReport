@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Saturday, 22 June 2024 17:51:54 UTC
+Updated: Sunday, 23 June 2024 02:10:16 UTC
 
 .bat
 .env
@@ -352,6 +352,8 @@ anova
 ansi
 ansible
 ansible-control-node
+ansible-playbook
+ansible-vault
 ansiblecontrolnode
 anti-malware
 antimalwarescaninterface
@@ -426,13 +428,13 @@ appv
 appventix
 appveyor
 appvolumes
-appwrite
 appx
 appxmanifest
 aprs
 aprs-is
 aprsis
 aprsthursday
+aps
 apt
 apt-get
 apt-get-update
@@ -508,6 +510,7 @@ assessment
 asset
 assetintelligencepoint
 assets
+assistance
 assistant
 association
 ast
@@ -626,7 +629,6 @@ aws-vault
 aws.tools.powershell
 awscli
 awspricelist
-axapta
 axinom
 axis
 axium
@@ -641,6 +643,7 @@ azd
 azdisk
 azdo
 azereo
+azforensics
 azkeyvault
 aznetworking
 aznetworkinterface
@@ -665,6 +668,7 @@ azure-backup
 azure-cli
 azure-data-explorer
 azure-devops
+azure-forensics
 azure-functions
 azure-pipelines
 azure-resource-graph
@@ -723,6 +727,7 @@ azurerm
 azurerms
 azurerunasconnection
 azuresearch
+azuresearcher
 azuresecuritycenter
 azureservicebus
 azuresigntool
@@ -747,7 +752,6 @@ back
 backblaze
 backconnection
 backconnectionhostname
-backend
 backup
 backup_validation
 bamboo
@@ -1156,8 +1160,10 @@ cif
 cifv3
 cil
 cim
+cim_computersystem
 cimfs
 cimi
+ciminstance
 cims
 cimsession
 cinema
@@ -1243,6 +1249,7 @@ cloudbridge
 cloudendure
 cloudevents
 cloudflare
+cloudforensics
 cloudformation
 cloudfoundation
 cloudfront
@@ -1636,7 +1643,6 @@ culture
 cumulative
 cumulativeupdate
 cumulocity
-curious
 curl
 curlie
 currency
@@ -1700,9 +1706,11 @@ dacpackage
 dagger
 daily
 dane
+dangling
 dapr
 dare
 dark
+darktrace
 dash
 dashboard
 dashboardapi
@@ -1932,6 +1940,7 @@ difference
 dig
 digikam
 digital
+digital-forensics
 digitalforensics
 digitalocean
 digitaltwins
@@ -2129,8 +2138,6 @@ droplet
 droptable
 drs
 drsrule
-drupal
-drush
 dry
 ds
 ds-client
@@ -2198,7 +2205,6 @@ dynamics365ce
 dynamics365fo
 dynamics365sales
 dynamics365server
-dynamicsax
 dynamicsecuritygroups
 dynamicsnav
 dynamodb
@@ -2410,6 +2416,7 @@ eventviewer
 eventwatch
 evergreen
 evernote
+everydaypowershell
 everydayrewards
 everything
 evilprince2009
@@ -2594,7 +2601,6 @@ files-cli
 files-cli.exe
 files.com
 filesecurity
-fileserver
 fileserverresourcemanager
 fileshare
 filesharing
@@ -2862,7 +2868,6 @@ get-help
 get-history
 get-iislog
 get-openfile
-get-openfiles
 get-pass
 get-passivetrippoint
 get-passlist
@@ -2914,6 +2919,7 @@ gitlabpipeline
 gitops
 glimps
 glob
+globalclipboard
 globaldashboard
 globalentry
 globallydistributeddatabase
@@ -3203,6 +3209,7 @@ hpeosprovisioncmdlets
 hpesmartarraycmdlets
 hpesynergy
 hponeview
+hpwritemanager
 hris
 hrprovisioning
 hsdp
@@ -3385,6 +3392,7 @@ initiator
 inline-progress
 inlineprogress
 innerjoin
+innertext
 input
 inputbox
 inputobject
@@ -3560,6 +3568,7 @@ javamanager
 javascript
 javaversion
 jboss
+jdbc
 jde
 jdedwards
 jdt
@@ -3662,6 +3671,7 @@ keymapping
 keypair
 keysms
 keyvault
+keywords
 kibana
 kickstart
 kidrsa
@@ -3718,7 +3728,6 @@ labsnippet
 labtech
 labtest
 labworker
-lake
 lambda
 lame
 lametrictime
@@ -3810,6 +3819,7 @@ linearalgebra
 lingeringobjects
 link
 link-capability
+link-preview
 linkedin
 linkedservice
 linkedservicedependency
@@ -3933,6 +3943,7 @@ longfiles
 longitude
 look
 lookup
+loop
 loopback
 loremipsum
 love
@@ -3984,6 +3995,7 @@ mailkit
 mails
 main
 main-menu
+maintain-module
 maintenance
 maintenance-window
 maintenancewindows
@@ -4003,6 +4015,7 @@ manageddisks
 managedidentities
 managedidentity
 managednetworkfabric
+managedserviceidenity
 managedserviceidentity
 managedserviceprovider
 managedserviceproviders
@@ -4137,6 +4150,7 @@ messenger
 met
 meta
 metadata
+metadataservice
 metaprogramming
 method
 methodinfo
@@ -4240,6 +4254,7 @@ model
 modeling
 modify
 module
+module-maintenance
 modulebuild
 modulecreation
 modulefast
@@ -4327,6 +4342,7 @@ msmq
 msol
 msoms
 msonline
+msonlineext
 msp
 msp360
 mspbackups
@@ -4350,11 +4366,13 @@ mule
 mulesoft
 multi-factor
 multi-language
+multi-platform
 multi-threading
 multi-zone
 multicloud
 multidimenstional
 multimedia
+multios
 multipass
 multiple
 multiserver
@@ -4465,6 +4483,7 @@ networkcloud
 networkcontroller
 networkdiscovery
 networkdrives
+networkfirewall
 networkfunction
 networkinfo
 networking
@@ -4720,7 +4739,6 @@ openamt
 openapi
 opendata
 openedge
-openfiles
 openhere
 openholidaysapi
 openid
@@ -4816,10 +4834,10 @@ out-default
 out-gridview
 out-json
 outerjoin
+outertext
 outline
 outlook
 output
-output-to-image
 outreach
 outsystems
 overbite
@@ -4892,6 +4910,7 @@ pass-the-hash
 pass-the-ticket
 passcode
 passivetotal
+passkey
 passphrase
 passphraser passphrase password generator entropy
 passwd
@@ -5193,6 +5212,7 @@ powerbi
 powerbidedicated
 powerbiembedded
 powerbiembeddedcapacity
+powerbot
 powercli
 powercligoodies
 powercommander
@@ -5255,6 +5275,7 @@ powershelltemplate
 powershelltraining
 powershelltypeaccelerators
 powershelluniversal
+powershellv5
 powerstig
 powerstore
 powertab
@@ -5325,7 +5346,6 @@ process-inspector
 processing
 processmitigation
 processor
-procmap
 procs
 producer
 product
@@ -7197,6 +7217,7 @@ pscommand_zwp
 pscommander
 psconfasia
 psconfeu
+psconfig
 pscore
 pscredential
 pscribo
@@ -8490,6 +8511,7 @@ random-password
 random-password-generator
 randompassword
 randomuser
+randomusers
 range
 rangescan
 ransomware_recovery
@@ -8700,6 +8722,8 @@ resolve-stache
 resolve-template
 resolver
 resource
+resource_monitor
+resource_watcher
 resourcecontroller
 resourcegraph
 resourcegroup
@@ -8753,6 +8777,7 @@ rhapsody
 ribbon
 ribcl
 ricoh
+rightcloud
 rightjoin
 rights
 rightsizing
@@ -8994,6 +9019,7 @@ sdn
 sdp
 search
 search-adminauditlog
+search-engines
 searchconnector
 searchengine
 searcher
@@ -9093,6 +9119,7 @@ seppmail
 seppmail.cloud
 seq
 sequence
+serial
 serialization
 serialize
 sericemanagement
@@ -9142,7 +9169,6 @@ set-dnsservers
 set-githubsecrets
 set-itemproperty
 set-location
-set-openfiles
 set-ownership
 set-pass
 set-psbreakpoint
@@ -9181,7 +9207,9 @@ shared
 sharefile
 sharepoint
 sharepoint_online
+sharepoint-on-prem
 sharepoint-online
+sharepoint-product-configuration-wizard
 sharepoint2013
 sharepointdevelopmentcommunity
 sharepointonline
@@ -9433,6 +9461,7 @@ sports-tracker
 spotify
 spotify-api
 spotlight
+spotlightimages
 spp
 spread
 spreadsheet
@@ -9546,6 +9575,7 @@ statistics
 stats
 statsd
 status
+status_watcher
 statuscake
 statuscode
 statusmonitor
@@ -9652,6 +9682,7 @@ support-tools
 suppress
 supress-reboot
 surestacks
+surround
 survey
 surveymonkey
 sus
@@ -9769,6 +9800,7 @@ task-scheduler
 taskbar
 tasker
 taskgroup
+taskmanagement
 tasks
 taskscheduler
 tatux
@@ -9789,7 +9821,6 @@ team
 teamcity
 teamfoundationserver
 teams
-teamsdevices
 teamservices
 teamspolicy
 teamviewer
@@ -9847,6 +9878,7 @@ test-samcmpackageexists
 test-userisadministrator
 test-xml
 test123
+testaccount
 testautomation
 tester
 testimonial
@@ -9863,7 +9895,6 @@ testusers
 text
 text-emoji
 text-emojis
-text-to-image
 text-to-speach"
 text-to-speech
 text2image
@@ -9902,7 +9933,9 @@ threadjob
 threads
 threadsanitizer
 threat
+threat-hunting
 threatdefense
+threathunting
 threatintelligence
 thumbprint
 thunderbird
@@ -9968,6 +10001,7 @@ touch
 toughswitch
 tower
 tphubps
+tpm
 tr-064
 tr064
 trace
@@ -10047,6 +10081,9 @@ tsa
 tsd
 tsheets
 tsqlbestpractice
+tst
+tst1
+tst3
 tsv
 ttrpg
 tts
@@ -10092,7 +10129,6 @@ ucs
 ucspowertool
 ud-avataaar
 ud-badgebutton
-ud-badgelink
 ud-breadcrumb
 ud-breadcrumbitem
 ud-burger
@@ -10176,6 +10212,7 @@ unicode-emojis
 unidesk
 unifi
 unified
+unifiedauditlog
 unifiedlabeling
 uninstall
 uninstaller
@@ -10254,12 +10291,12 @@ userinterface
 usermanagement
 username
 userprofile
+userright
 userrights
 userrightsassignment
 users
 userworkstations
 usg
-usps
 utc
 utf-8
 utf-sig
@@ -10354,6 +10391,7 @@ vie
 viewer
 vigenere
 vim
+vimode
 virole
 virsh
 virtual
@@ -10585,6 +10623,7 @@ whitespace
 who
 whoami
 whois
+whormi
 wi-fi
 wia
 wia.imagefile
@@ -10628,6 +10667,7 @@ windows-explorer
 windows-features
 windows-firewall
 windows-lab
+windows-path
 windows-powershell
 windows-registry
 windows-remoting
@@ -10777,6 +10817,7 @@ write-slog
 write-wansi
 writeaccess
 writelog
+writemanager
 writeprogress
 writer
 ws-federation
@@ -10812,6 +10853,7 @@ x509certificates
 x509chain
 x64
 x86
+xa
 xaf
 xbase
 xbox
@@ -10844,7 +10886,6 @@ xor
 xpath
 xpendingreboot
 xpertdoc
-xpo
 xprotect
 xpt
 xrm
