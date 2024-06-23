@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Sunday, 23 June 2024 02:10:16 UTC
+Updated: Sunday, 23 June 2024 09:51:51 UTC
 
 .bat
 .env
@@ -428,13 +428,13 @@ appv
 appventix
 appveyor
 appvolumes
+appwrite
 appx
 appxmanifest
 aprs
 aprs-is
 aprsis
 aprsthursday
-aps
 apt
 apt-get
 apt-get-update
@@ -629,6 +629,7 @@ aws-vault
 aws.tools.powershell
 awscli
 awspricelist
+axapta
 axinom
 axis
 axium
@@ -752,6 +753,7 @@ back
 backblaze
 backconnection
 backconnectionhostname
+backend
 backup
 backup_validation
 bamboo
@@ -1308,7 +1310,6 @@ codecoverage
 codegen
 codegeneration
 codegenerator
-codellama
 codepoint
 codereview
 codes
@@ -1643,6 +1644,7 @@ culture
 cumulative
 cumulativeupdate
 cumulocity
+curious
 curl
 curlie
 currency
@@ -1710,7 +1712,6 @@ dangling
 dapr
 dare
 dark
-darktrace
 dash
 dashboard
 dashboardapi
@@ -2138,6 +2139,8 @@ droplet
 droptable
 drs
 drsrule
+drupal
+drush
 dry
 ds
 ds-client
@@ -2205,6 +2208,7 @@ dynamics365ce
 dynamics365fo
 dynamics365sales
 dynamics365server
+dynamicsax
 dynamicsecuritygroups
 dynamicsnav
 dynamodb
@@ -2601,6 +2605,7 @@ files-cli
 files-cli.exe
 files.com
 filesecurity
+fileserver
 fileserverresourcemanager
 fileshare
 filesharing
@@ -2868,6 +2873,7 @@ get-help
 get-history
 get-iislog
 get-openfile
+get-openfiles
 get-pass
 get-passivetrippoint
 get-passlist
@@ -3282,7 +3288,6 @@ icingawindows
 icloud
 icmp
 icon
-icons
 icraftsoftware
 ics
 icws
@@ -3422,6 +3427,7 @@ instance
 instant
 instapush
 instorage
+int
 intacct
 integrated
 integratedscriptingeditor
@@ -3728,6 +3734,7 @@ labsnippet
 labtech
 labtest
 labworker
+lake
 lambda
 lame
 lametrictime
@@ -3780,7 +3787,6 @@ legends
 lego
 lein
 leiningnen
-lemonai
 lenel
 length
 lenovo
@@ -3844,7 +3850,6 @@ litecoin
 litedb
 literature
 live
-llama2
 lldp
 lmhost
 lmhosts
@@ -4244,7 +4249,6 @@ mksapiviewer
 ml
 ml.net
 mlflow
-mmdc
 mobile
 mobilenetwork
 mobilitycontroller
@@ -4605,6 +4609,7 @@ nuget.exe
 nuget.org
 number
 numlock
+nummapper
 nunit
 nupkg
 nuspec
@@ -4685,7 +4690,6 @@ old
 older
 ole
 oledb
-ollama
 omaha
 ome
 omnisphere
@@ -4739,6 +4743,7 @@ openamt
 openapi
 opendata
 openedge
+openfiles
 openhere
 openholidaysapi
 openid
@@ -4838,6 +4843,7 @@ outertext
 outline
 outlook
 output
+output-to-image
 outreach
 outsystems
 overbite
@@ -5024,6 +5030,7 @@ ping
 ping-async
 pingsweep
 pinneditem
+pinterest
 pinvoke
 pip
 pip3
@@ -5346,6 +5353,7 @@ process-inspector
 processing
 processmitigation
 processor
+procmap
 procs
 producer
 product
@@ -8704,7 +8712,6 @@ repos
 repositories
 repository
 request
-requestfiltering
 requiredmodules
 requirements
 res
@@ -9169,6 +9176,7 @@ set-dnsservers
 set-githubsecrets
 set-itemproperty
 set-location
+set-openfiles
 set-ownership
 set-pass
 set-psbreakpoint
@@ -9658,7 +9666,6 @@ subnetting
 subscribedskus
 subscription
 subscriptiondefinition
-subset
 subsystem
 subtitle
 subversion
@@ -9821,6 +9828,7 @@ team
 teamcity
 teamfoundationserver
 teams
+teamsdevices
 teamservices
 teamspolicy
 teamviewer
@@ -9895,6 +9903,7 @@ testusers
 text
 text-emoji
 text-emojis
+text-to-image
 text-to-speach"
 text-to-speech
 text2image
@@ -10001,7 +10010,6 @@ touch
 toughswitch
 tower
 tphubps
-tpm
 tr-064
 tr064
 trace
@@ -10129,6 +10137,7 @@ ucs
 ucspowertool
 ud-avataaar
 ud-badgebutton
+ud-badgelink
 ud-breadcrumb
 ud-breadcrumbitem
 ud-burger
@@ -10297,6 +10306,7 @@ userrightsassignment
 users
 userworkstations
 usg
+usps
 utc
 utf-8
 utf-sig
@@ -10886,6 +10896,7 @@ xor
 xpath
 xpendingreboot
 xpertdoc
+xpo
 xprotect
 xpt
 xrm
