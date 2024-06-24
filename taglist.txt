@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 24 June 2024 09:51:50 UTC
+Updated: Monday, 24 June 2024 17:51:57 UTC
 
 .bat
 .env
@@ -451,7 +451,6 @@ architecture
 architecuture
 archive
 archivedteams
-archivematica
 archivial
 archivial-backup
 archivial-cloud-backup
@@ -474,7 +473,6 @@ arp
 array
 arrays
 art
-artefactual
 artifact
 artifactory
 artifacts
@@ -630,6 +628,7 @@ aws-vault
 aws.tools.powershell
 awscli
 awspricelist
+axapta
 axinom
 axis
 axium
@@ -1163,8 +1162,10 @@ cif
 cifv3
 cil
 cim
+cim_computersystem
 cimfs
 cimi
+ciminstance
 cims
 cimsession
 cinema
@@ -1820,6 +1821,7 @@ debugger
 debugging
 decimal
 decimalip
+decimalzero
 declarative
 decline
 decode
@@ -2036,6 +2038,7 @@ dnsclient
 dnsdumpster
 dnsentry
 dnsimple
+dnslookup
 dnsmadeeasy
 dnsoverhttps
 dnsrecord
@@ -2147,6 +2150,7 @@ ds-utils
 dsa
 dsacls
 dsc
+dsc-resource
 dsc-resources
 dsccertificates
 dscconcepts
@@ -2206,11 +2210,13 @@ dynamics365ce
 dynamics365fo
 dynamics365sales
 dynamics365server
+dynamicsax
 dynamicsecuritygroups
 dynamicsnav
 dynamodb
 dynatrace
 dynatraceobservability
+dz
 e-mail
 e1
 easy
@@ -2416,6 +2422,7 @@ eventviewer
 eventwatch
 evergreen
 evernote
+everydaypowershell
 everydayrewards
 everything
 evilprince2009
@@ -2572,6 +2579,8 @@ file-encoding
 file-extension
 file-extension-association
 file-invalidchar
+file-matcher
+file-matching
 file-monitoring
 file-name
 file-name-extension
@@ -2588,6 +2597,7 @@ filelist
 filelog
 filelogger
 filemanagement
+filematcher
 filename
 filenames
 fileproperties
@@ -2604,6 +2614,9 @@ filesharing
 filestorage
 filestream
 filesystem
+filesystementry-matcher
+filesystementry-matching
+filesystementrymatcher
 filesystemrights
 filesystemsecurity
 filesystemwatcher
@@ -3440,6 +3453,7 @@ interlogix
 internal
 internet
 internet-explorer
+internetconnection
 internetexplorer
 intersight
 intersightcmdlets
@@ -3993,6 +4007,7 @@ main
 main-menu
 maintain-module
 maintenance
+maintenance-window
 maintenancewindows
 make
 maker
@@ -4282,7 +4297,6 @@ monitoring_objects
 monitoring_variables
 monitoringplugins
 monitoringsolutions
-monitors
 monthlyupdate
 moodle
 moonshot
@@ -4599,7 +4613,6 @@ ntdll
 ntds
 ntfs
 ntp
-ntsystems
 nuget
 nuget-references
 nuget.exe
@@ -8731,6 +8744,7 @@ resolver
 resource
 resource_monitor
 resource_watcher
+resourcecontroller
 resourcegraph
 resourcegroup
 resourcegroups
@@ -8958,6 +8972,7 @@ scheduledjob
 scheduledtask
 scheduledtasks
 scheduler
+schedules-execution
 scheduling
 schema
 schemaextensions
@@ -9687,6 +9702,7 @@ support
 support-tool
 support-tools
 suppress
+supress-reboot
 surestacks
 surround
 survey
@@ -9876,6 +9892,7 @@ tesla
 test
 test-automation
 test-dscconfiguration
+test-internetconnection
 test-modulemanifest
 test-modulepath
 test-osplatform
@@ -10089,9 +10106,6 @@ tsa
 tsd
 tsheets
 tsqlbestpractice
-tst
-tst1
-tst3
 tsv
 ttrpg
 tts
@@ -10643,6 +10657,7 @@ widedata
 wif
 wifi
 wiki
+wildcard
 wildfire
 wildfly
 wim
@@ -10896,6 +10911,7 @@ xor
 xpath
 xpendingreboot
 xpertdoc
+xpo
 xprotect
 xpt
 xrm
