@@ -3,6 +3,45 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [AutomationUtils](https://www.powershellgallery.com/Packages/AutomationUtils/0.1.6) | 0.1.6
+
+### Published: 06/24/2024 01:50:12 by Jesse Reichman
+
+AutomationUtils
+
+__Downloads__: 21 | __Repository__: https://github.com/archmachina/ps-automationutils/
+
+## [MASES.KNetPS](https://www.powershellgallery.com/Packages/MASES.KNetPS/2.7.3) | 2.7.3
+
+### Published: 06/24/2024 01:34:19 by MASES s.r.l.
+
+KNet PowerShell command line interface is a PowerShell Module to use Apache Kafka and PowerShell side-by-side. With KNet PowerShell it is possible to:
+- execute all tools of Apache Kafka within a PowerShell shell: Administration tools, Console Consumer, Console Producer, manage Apache Kafka Streams, activate Apache Kafka Connect, server side (start Kafka and ZooKeeper), etc
+- create consumers and producers objects to interact with an Apache Kafka cluster
+- send data to and receive data from an Apache Kafka cluster
+- create a Kafka Admin Client object to manage an Apache Kafka cluster
+
+More information within the project hosted on GitHub. Further information at https://github.com/masesgroup/KNet.
+
+__Downloads__: 641 | __Repository__: https://github.com/masesgroup/KNet
+
+## [M365FoundationsCISReport](https://www.powershellgallery.com/Packages/M365FoundationsCISReport/0.1.14) | 0.1.14
+
+### Published: 06/24/2024 00:41:50 by Douglas S. Rios (DrIOSx)
+
+Automated assessment of 50 CIS 365 Foundations v3.0.0 benchmark.
+
+__Downloads__: 65 | __Repository__: https://github.com/CriticalSolutionsNetwork/M365FoundationsCISReport
+
+## [PdfLexer](https://www.powershellgallery.com/Packages/PdfLexer/0.1.23) | 0.1.23
+
+### Published: 06/23/2024 22:59:05 by PdfLexer Authors
+
+PdfLexer is a powershell pdf manipulation library for Powershell 7+.
+ https://github.com/pdflexer/pdflexer
+
+__Downloads__: 1,046 | __Repository__: https://github.com/pdflexer/pdflexer
+
 ## [PSTcpIp](https://www.powershellgallery.com/Packages/PSTcpIp/5.3.1) | 5.3.1
 
 ### Published: 06/23/2024 17:14:07 by Anthony Guimelli
@@ -68,19 +107,6 @@ __Downloads__: 293 | __Repository__: https://github.com/eryph-org/dotnet-compute
 Converts a 32-bit integer to its written representation. Ex. 1 => One, 69 => Sixty-nine, ...
 
 __Downloads__: 0 | __Repository__: 
-
-## [SmartAceDesigns.ScriptoFormTemplates](https://www.powershellgallery.com/Packages/SmartAceDesigns.ScriptoFormTemplates/2024.6.0) | 2024.6.0
-
-### Published: 06/23/2024 05:24:26 by Smart Ace Designs
-
-Smart Ace Designs ScriptoForm Templates Module.  This module contains a Plaster template and functions used for scaffolding a basic starter ScriptoForm project that a script developer can use to create complex management tools.
-
-A ScriptoForm is a PowerShell script that generates and displays a Microsoft Windows Forms application that can be used for a specific management or system administration task in a computer network environment.
-Typically, a ScriptoForm is compiled into an executable file which hides the PowerShell console window during execution and provides a more seamless and familiar experience to the user.
-
-A ScriptoForm project is the set of files and folders, including the PowerShell script, that can be compiled into an executable file using the Microsoft .NET CLI utility (dotnet.exe) which is available with any Microsoft .NET SDK.
-
-__Downloads__: 31 | __Repository__: https://github.com/Smart-Ace-Designs/SmartAceDesigns.ScriptoFormTemplates
 
 ## [rhubarb-geek-nz.AuthenticodeSignature](https://www.powershellgallery.com/Packages/rhubarb-geek-nz.AuthenticodeSignature/1.1.2) | 1.1.2
 
@@ -148,7 +174,7 @@ __Downloads__: 396,803 | __Repository__: https://www.milestonepstools.com/
 
 A PowerShell module working with the admin role.
 
-__Downloads__: 3,784 | __Repository__: https://github.com/PSModule/Admin
+__Downloads__: 3,783 | __Repository__: https://github.com/PSModule/Admin
 
 ## [Microsoft.FabricUpgrade](https://www.powershellgallery.com/Packages/Microsoft.FabricUpgrade/0.0.6) | 0.0.6
 
@@ -298,14 +324,6 @@ A drop in replacement for slmgr script
 
 __Downloads__: 408 | __Repository__: https://github.com/zbalkan/slmgr-ps
 
-## [AutomationUtils](https://www.powershellgallery.com/Packages/AutomationUtils/0.1.5) | 0.1.5
-
-### Published: 06/21/2024 06:12:39 by Jesse Reichman
-
-AutomationUtils
-
-__Downloads__: 21 | __Repository__: https://github.com/archmachina/ps-automationutils/
-
 ## [Posh-ACME.Deploy](https://www.powershellgallery.com/Packages/Posh-ACME.Deploy/2.0.0) | 2.0.0
 
 ### Published: 06/21/2024 05:05:03 by Ryan Bolger
@@ -413,15 +431,6 @@ PowerShell module for CapaInstaller SDK containing functions for WSUS functions.
 
 __Downloads__: 81 | __Repository__: https://github.com/Mark5900/Capa.PowerShell.Module
 
-## [Capa.PowerShell.Module.SDK.User](https://www.powershellgallery.com/Packages/Capa.PowerShell.Module.SDK.User/1.8.0) | 1.8.0
-
-### Published: 06/20/2024 20:24:50 by Mark5900
-
-PowerShell module for CapaInstaller SDK containing functions for User functions.
-	For more information, see https://capasystems.atlassian.net/wiki/spaces/CI65DOC/pages/19382173123/SDK+-+CapaInstaller+Software+Development+Kit+functions
-
-__Downloads__: 81 | __Repository__: https://github.com/Mark5900/Capa.PowerShell.Module
-
 ## [Capa.PowerShell.Module.SDK.Unit](https://www.powershellgallery.com/Packages/Capa.PowerShell.Module.SDK.Unit/1.8.0) | 1.8.0
 
 ### Published: 06/20/2024 20:24:50 by Mark5900
@@ -431,14 +440,14 @@ PowerShell module for CapaInstaller SDK containing functions for Unit functions.
 
 __Downloads__: 80 | __Repository__: https://github.com/Mark5900/Capa.PowerShell.Module
 
-## [Capa.PowerShell.Module.SDK.Group](https://www.powershellgallery.com/Packages/Capa.PowerShell.Module.SDK.Group/1.8.0) | 1.8.0
+## [Capa.PowerShell.Module.SDK.User](https://www.powershellgallery.com/Packages/Capa.PowerShell.Module.SDK.User/1.8.0) | 1.8.0
 
-### Published: 06/20/2024 20:24:49 by Mark5900
+### Published: 06/20/2024 20:24:50 by Mark5900
 
-PowerShell module for CapaInstaller SDK containing functions for Group functions.
+PowerShell module for CapaInstaller SDK containing functions for User functions.
 	For more information, see https://capasystems.atlassian.net/wiki/spaces/CI65DOC/pages/19382173123/SDK+-+CapaInstaller+Software+Development+Kit+functions
 
-__Downloads__: 111 | __Repository__: https://github.com/Mark5900/Capa.PowerShell.Module
+__Downloads__: 81 | __Repository__: https://github.com/Mark5900/Capa.PowerShell.Module
 
 ## [Capa.PowerShell.Module.PowerPack](https://www.powershellgallery.com/Packages/Capa.PowerShell.Module.PowerPack/1.8.0) | 1.8.0
 
@@ -447,6 +456,15 @@ __Downloads__: 111 | __Repository__: https://github.com/Mark5900/Capa.PowerShell
 PowerShell module for CapaInstaller containing functions for PowerPacks.
 
 __Downloads__: 245 | __Repository__: https://github.com/Mark5900/Capa.PowerShell.Module
+
+## [Capa.PowerShell.Module.SDK.Group](https://www.powershellgallery.com/Packages/Capa.PowerShell.Module.SDK.Group/1.8.0) | 1.8.0
+
+### Published: 06/20/2024 20:24:49 by Mark5900
+
+PowerShell module for CapaInstaller SDK containing functions for Group functions.
+	For more information, see https://capasystems.atlassian.net/wiki/spaces/CI65DOC/pages/19382173123/SDK+-+CapaInstaller+Software+Development+Kit+functions
+
+__Downloads__: 111 | __Repository__: https://github.com/Mark5900/Capa.PowerShell.Module
 
 ## [Capa.PowerShell.Module.SDK.SystemSdk](https://www.powershellgallery.com/Packages/Capa.PowerShell.Module.SDK.SystemSdk/1.8.0) | 1.8.0
 
@@ -466,6 +484,15 @@ PowerShell module for CapaInstaller SDK containing functions for Package functio
 
 __Downloads__: 111 | __Repository__: https://github.com/Mark5900/Capa.PowerShell.Module
 
+## [Capa.PowerShell.Module.PowerPack.Log](https://www.powershellgallery.com/Packages/Capa.PowerShell.Module.PowerPack.Log/1.8.0) | 1.8.0
+
+### Published: 06/20/2024 20:24:46 by Mark5900
+
+PowerShell module for CapaInstaller PowerPacks containing functions for Log commands.
+	For more information, see https://capasystems.atlassian.net/wiki/spaces/CI65DOC/pages/19462455297/PowerShell+Scripting+Library
+
+__Downloads__: 276 | __Repository__: https://github.com/Mark5900/Capa.PowerShell.Module
+
 ## [Capa.PowerShell.Module.PowerPack.Sys](https://www.powershellgallery.com/Packages/Capa.PowerShell.Module.PowerPack.Sys/1.8.0) | 1.8.0
 
 ### Published: 06/20/2024 20:24:46 by Mark5900
@@ -484,15 +511,6 @@ PowerShell module for CapaInstaller PowerPacks containing functions for MSI comm
 
 __Downloads__: 279 | __Repository__: https://github.com/Mark5900/Capa.PowerShell.Module
 
-## [Capa.PowerShell.Module.PowerPack.Log](https://www.powershellgallery.com/Packages/Capa.PowerShell.Module.PowerPack.Log/1.8.0) | 1.8.0
-
-### Published: 06/20/2024 20:24:46 by Mark5900
-
-PowerShell module for CapaInstaller PowerPacks containing functions for Log commands.
-	For more information, see https://capasystems.atlassian.net/wiki/spaces/CI65DOC/pages/19462455297/PowerShell+Scripting+Library
-
-__Downloads__: 276 | __Repository__: https://github.com/Mark5900/Capa.PowerShell.Module
-
 ## [Capa.PowerShell.Module.PowerPack.Reg](https://www.powershellgallery.com/Packages/Capa.PowerShell.Module.PowerPack.Reg/1.8.0) | 1.8.0
 
 ### Published: 06/20/2024 20:24:44 by Mark5900
@@ -510,15 +528,6 @@ PowerShell module for CapaInstaller SDK containing functions for Utilities funct
 	For more information, see https://capasystems.atlassian.net/wiki/spaces/CI65DOC/pages/19382173123/SDK+-+CapaInstaller+Software+Development+Kit+functions
 
 __Downloads__: 115 | __Repository__: https://github.com/Mark5900/Capa.PowerShell.Module
-
-## [Capa.PowerShell.Module.PowerPack.Ini](https://www.powershellgallery.com/Packages/Capa.PowerShell.Module.PowerPack.Ini/1.8.0) | 1.8.0
-
-### Published: 06/20/2024 20:24:42 by Mark5900
-
-PowerShell module for CapaInstaller PowerPacks containing functions for Ini commands.
-	For more information, see https://capasystems.atlassian.net/wiki/spaces/CI65DOC/pages/19462455297/PowerShell+Scripting+Library
-
-__Downloads__: 280 | __Repository__: https://github.com/Mark5900/Capa.PowerShell.Module
 
 ## [Capa.PowerShell.Module.PowerPack.CMS](https://www.powershellgallery.com/Packages/Capa.PowerShell.Module.PowerPack.CMS/1.8.0) | 1.8.0
 
@@ -670,7 +679,7 @@ __Downloads__: 21,910 | __Repository__: https://github.com/nohwnd/Assert
 
 PowerShell Module for VMware Validated Solutions
 
-__Downloads__: 7,421 | __Repository__: https://vmware.github.io/power-validated-solutions-for-cloud-foundation/
+__Downloads__: 7,419 | __Repository__: https://vmware.github.io/power-validated-solutions-for-cloud-foundation/
 
 ## [AzureDevOpsPowerShell](https://www.powershellgallery.com/Packages/AzureDevOpsPowerShell/0.5.2) | 0.5.2
 
@@ -791,7 +800,7 @@ __Downloads__: 55,038 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions that generate configuration scripts and manage FortiOS.
 
-__Downloads__: 34,633 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 34,632 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.VMWareAutomate](https://www.powershellgallery.com/Packages/AdminToolbox.VMWareAutomate/4.8.153) | 4.8.153
 
@@ -799,7 +808,7 @@ __Downloads__: 34,633 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions to Automate Bulk VMWare Tasks
 
-__Downloads__: 41,622 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 41,621 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.Remoting](https://www.powershellgallery.com/Packages/AdminToolbox.Remoting/1.9.156) | 1.9.156
 
@@ -807,7 +816,7 @@ __Downloads__: 41,622 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions for remote management and access.
 
-__Downloads__: 41,386 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 41,385 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.Office365](https://www.powershellgallery.com/Packages/AdminToolbox.Office365/4.0.16) | 4.0.16
 
@@ -831,7 +840,7 @@ __Downloads__: 116,952 | __Repository__: https://github.com/TheTaylorLee/AdminTo
 
 Microsoft Graph interactive API Functions
 
-__Downloads__: 31,446 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 31,445 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.Fun](https://www.powershellgallery.com/Packages/AdminToolbox.Fun/1.6.157) | 1.6.157
 
@@ -839,7 +848,7 @@ __Downloads__: 31,446 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions that have no purpose
 
-__Downloads__: 41,964 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 41,963 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.FileManagement](https://www.powershellgallery.com/Packages/AdminToolbox.FileManagement/1.16.148) | 1.16.148
 
@@ -871,7 +880,7 @@ __Downloads__: 44,080 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions for management of endpoints
 
-__Downloads__: 51,061 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 51,062 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.ActiveDirectory](https://www.powershellgallery.com/Packages/AdminToolbox.ActiveDirectory/1.10.18) | 1.10.18
 
@@ -879,7 +888,7 @@ __Downloads__: 51,061 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions for Active Directory
 
-__Downloads__: 51,830 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 51,832 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [PSOpenAI](https://www.powershellgallery.com/Packages/PSOpenAI/3.15.1) | 3.15.1
 
@@ -919,7 +928,7 @@ __Downloads__: 110,739 | __Repository__: https://github.com/f-bader/SentinelARCo
 
 PSAI brings OpenAI ChatGPT to PowerShell, leveraging advanced AI capabilities in your PowerShell scripts for dynamic, intelligent automation and data processing
 
-__Downloads__: 504 | __Repository__: https://github.com/dfinke/PSAI
+__Downloads__: 505 | __Repository__: https://github.com/dfinke/PSAI
 
 ## [IAMClient](https://www.powershellgallery.com/Packages/IAMClient/2.4.0) | 2.4.0
 
@@ -1009,21 +1018,13 @@ The test module to verify publishing to PSGallery from AppVeyor.
 
 __Downloads__: 40,955 | __Repository__: 
 
-## [M365FoundationsCISReport](https://www.powershellgallery.com/Packages/M365FoundationsCISReport/0.1.13) | 0.1.13
-
-### Published: 06/18/2024 22:44:13 by Douglas S. Rios (DrIOSx)
-
-Automated assessment of 50 CIS 365 Foundations v3.0.0 benchmark.
-
-__Downloads__: 65 | __Repository__: https://github.com/CriticalSolutionsNetwork/M365FoundationsCISReport
-
 ## [JumpCloud](https://www.powershellgallery.com/Packages/JumpCloud/2.12.0) | 2.12.0
 
 ### Published: 06/18/2024 21:14:23 by JumpCloud Solutions Architect Team
 
 PowerShell functions to manage a JumpCloud Directory-as-a-Service
 
-__Downloads__: 5,937,715 | __Repository__: https://github.com/TheJumpCloud/support/wiki
+__Downloads__: 5,937,716 | __Repository__: https://github.com/TheJumpCloud/support/wiki
 
 ## [DevolutionsGateway](https://www.powershellgallery.com/Packages/DevolutionsGateway/2024.2.3) | 2024.2.3
 
@@ -1039,7 +1040,7 @@ __Downloads__: 8,468 | __Repository__: https://github.com/Devolutions/devolution
 
 The Devolutions.PowerShell module is a set of cmdlets that allow administrators to manage Remote Desktop Manager, Devolutions Server and Devolutions Hub Business using PowerShell. This module provides a simple and consistent interface for interacting with these products, making it easy to automate various tasks, such as creating and managing connections, sessions, and credentials, configuring security settings, and generating reports. The module can be easily integrated with other PowerShell modules, allowing administrators to automate tasks across multiple products and platforms, streamline their workflows and increase efficiency.
 
-__Downloads__: 97,132 | __Repository__: https://devolutions.net/
+__Downloads__: 97,123 | __Repository__: https://devolutions.net/
 
 ## [ANWS](https://www.powershellgallery.com/Packages/ANWS/1.0.1) | 1.0.1
 
@@ -2066,4 +2067,4 @@ This modules provides Cmdlets for OCI Bastion Service
 
 __Downloads__: 5,710 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-*Updated: Sunday, 23 June 2024 17:51:44 UTC*
+*Updated: Monday, 24 June 2024 02:09:33 UTC*
