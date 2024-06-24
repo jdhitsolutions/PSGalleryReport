@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 24 June 2024 02:09:41 UTC
+Updated: Monday, 24 June 2024 09:51:50 UTC
 
 .bat
 .env
@@ -441,6 +441,8 @@ apt-get
 apt-get-update
 apteco
 aptitude
+aql
+arangodb
 arc
 arcade
 arcgis
@@ -628,7 +630,6 @@ aws-vault
 aws.tools.powershell
 awscli
 awspricelist
-axapta
 axinom
 axis
 axium
@@ -943,6 +944,7 @@ broadcom
 broot
 brownserve-uk
 browser
+browserbox
 browserextension
 browserhistory
 browsing
@@ -979,8 +981,11 @@ burpsuite
 bus
 business
 businesscentral
+businessdays
+businesshours
 businessobjects
 businessrulesengine
+businesstime
 bxor
 bydesign
 byexample
@@ -1158,10 +1163,8 @@ cif
 cifv3
 cil
 cim
-cim_computersystem
 cimfs
 cimi
-ciminstance
 cims
 cimsession
 cinema
@@ -1641,6 +1644,7 @@ culture
 cumulative
 cumulativeupdate
 cumulocity
+curious
 curl
 curlie
 currency
@@ -1763,6 +1767,7 @@ datarow
 datasafe
 datascience
 dataset
+datasetdependency
 datashare
 datasource
 datastore
@@ -1815,7 +1820,6 @@ debugger
 debugging
 decimal
 decimalip
-decimalzero
 declarative
 decline
 decode
@@ -2032,7 +2036,6 @@ dnsclient
 dnsdumpster
 dnsentry
 dnsimple
-dnslookup
 dnsmadeeasy
 dnsoverhttps
 dnsrecord
@@ -2144,7 +2147,6 @@ ds-utils
 dsa
 dsacls
 dsc
-dsc-resource
 dsc-resources
 dsccertificates
 dscconcepts
@@ -2179,6 +2181,7 @@ dumps
 dupes
 duplicate
 duplicate-files
+duplicatioin
 duplication
 durable
 durabletask
@@ -2203,13 +2206,11 @@ dynamics365ce
 dynamics365fo
 dynamics365sales
 dynamics365server
-dynamicsax
 dynamicsecuritygroups
 dynamicsnav
 dynamodb
 dynatrace
 dynatraceobservability
-dz
 e-mail
 e1
 easy
@@ -2415,7 +2416,6 @@ eventviewer
 eventwatch
 evergreen
 evernote
-everydaypowershell
 everydayrewards
 everything
 evilprince2009
@@ -2572,8 +2572,6 @@ file-encoding
 file-extension
 file-extension-association
 file-invalidchar
-file-matcher
-file-matching
 file-monitoring
 file-name
 file-name-extension
@@ -2590,7 +2588,6 @@ filelist
 filelog
 filelogger
 filemanagement
-filematcher
 filename
 filenames
 fileproperties
@@ -2607,9 +2604,6 @@ filesharing
 filestorage
 filestream
 filesystem
-filesystementry-matcher
-filesystementry-matching
-filesystementrymatcher
 filesystemrights
 filesystemsecurity
 filesystemwatcher
@@ -3446,7 +3440,6 @@ interlogix
 internal
 internet
 internet-explorer
-internetconnection
 internetexplorer
 intersight
 intersightcmdlets
@@ -3946,6 +3939,7 @@ longfiles
 longitude
 look
 lookup
+loop
 loopback
 loremipsum
 love
@@ -3966,6 +3960,7 @@ lxco
 lxcopstool
 lync
 m365
+m365defenderstuff
 m365dsc
 maatschap-fortigi
 mac
@@ -3996,8 +3991,8 @@ mailkit
 mails
 main
 main-menu
+maintain-module
 maintenance
-maintenance-window
 maintenancewindows
 make
 maker
@@ -4254,6 +4249,7 @@ model
 modeling
 modify
 module
+module-maintenance
 module-manifest
 module-publishing
 module-publishing-framework
@@ -4370,17 +4366,20 @@ mule
 mulesoft
 multi-factor
 multi-language
+multi-platform
 multi-threading
 multi-zone
 multicloud
 multidimenstional
 multimedia
+multios
 multipass
 multiple
 multiserver
 multistring
 multithread
 multithreaded
+multithreaded-helpers
 multithreading
 music
 musiccast
@@ -4996,6 +4995,7 @@ personal
 personalisation
 personalization
 personalvault
+personio
 pester
 pf
 pfe
@@ -8340,6 +8340,7 @@ psngenposh
 psobject
 psoutlog
 pspath
+pspersonio
 pspowerhour
 psprofiler
 psproject
@@ -8408,6 +8409,7 @@ pubxml
 pulldistributionpoint
 pullrequest
 pullserver
+pulseway
 pulumi
 punycode
 puppet
@@ -8652,6 +8654,7 @@ remediation
 remedy
 reminder
 remote
+remote-browser
 remote-desktop
 remote'
 remoteadmin
@@ -8728,7 +8731,6 @@ resolver
 resource
 resource_monitor
 resource_watcher
-resourcecontroller
 resourcegraph
 resourcegroup
 resourcegroups
@@ -8956,7 +8958,6 @@ scheduledjob
 scheduledtask
 scheduledtasks
 scheduler
-schedules-execution
 scheduling
 schema
 schemaextensions
@@ -8994,6 +8995,8 @@ screenshot
 script
 script_version
 script-module
+script-to-assembly
+script-to-executable
 scriptanalyzer
 scriptblock
 scriptblocklogging
@@ -9006,6 +9009,7 @@ scripting
 scriptlog
 scriptlogging
 scriptmodule
+scriptoform
 scriptrunner
 scripts
 scriptsmonitoring
@@ -9121,6 +9125,7 @@ seppmail
 seppmail.cloud
 seq
 sequence
+serial
 serialization
 serialize
 sericemanagement
@@ -9682,7 +9687,6 @@ support
 support-tool
 support-tools
 suppress
-supress-reboot
 surestacks
 surround
 survey
@@ -9872,7 +9876,6 @@ tesla
 test
 test-automation
 test-dscconfiguration
-test-internetconnection
 test-modulemanifest
 test-modulepath
 test-osplatform
@@ -10568,6 +10571,7 @@ weather
 weaviate
 weaviatenet
 web
+web-browser
 web-search
 web.config
 webadministration
@@ -10639,7 +10643,6 @@ widedata
 wif
 wifi
 wiki
-wildcard
 wildfire
 wildfly
 wim
@@ -10780,6 +10783,9 @@ worker
 workflow
 workflowmax
 workflows
+workingdays
+workinghours
+workingtime
 workload
 workload-automation
 workloadidentity
@@ -10890,11 +10896,9 @@ xor
 xpath
 xpendingreboot
 xpertdoc
-xpo
 xprotect
 xpt
 xrm
-xsa
 xtremio
 xtrude
 xunit
