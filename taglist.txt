@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Tuesday, 25 June 2024 02:08:48 UTC
+Updated: Tuesday, 25 June 2024 09:51:46 UTC
 
 .bat
 .env
@@ -58,6 +58,7 @@ Updated: Tuesday, 25 June 2024 02:08:48 UTC
 8.1
 8ball
 9
+aa
 aac
 aad
 aad-graph
@@ -509,7 +510,6 @@ assertion-testing
 assessment
 asset
 assetintelligencepoint
-assets
 assistance
 assistant
 association
@@ -569,6 +569,7 @@ auto
 auto_cd
 auto-completion
 autoadapter
+autoattendant
 autocloudarc
 autocomplete
 autocompletion
@@ -1004,6 +1005,7 @@ calculate
 calculator
 calendar
 callingcode
+callqueue
 calvin-and-hobbes
 cam
 camera
@@ -1082,8 +1084,6 @@ centralcredentialprovider
 centrastage
 centreon
 centreon.com
-centurylink
-centurylinkcloud
 cer
 cert
 certbasedauth
@@ -1191,9 +1191,6 @@ classes
 classic
 classification
 classified
-clccontrol
-clccontrolapiv1
-clccontrolapiv2
 clean-up
 cleanmgr
 cleanup
@@ -1712,7 +1709,6 @@ dangling
 dapr
 dare
 dark
-darktrace
 dash
 dashboard
 dashboardapi
@@ -1757,7 +1753,6 @@ datalabelingservice
 datalabelingservicedataplane
 datalake
 datamanipulation
-datamodel
 datanorm
 dataplatform
 datapro
@@ -1793,7 +1788,10 @@ db
 db2
 dba
 dbaas
+dbai
 dbase
+dbassistant
+dbatools
 dbcommand
 dbeaver
 dbfs
@@ -1854,7 +1852,6 @@ delegationmodel
 delete
 delete-orphan-branches
 deletefile
-deleteuserprofile
 delivery
 dell
 dellemc
@@ -1955,6 +1952,7 @@ directorymarks
 directoryname
 directorysearcher
 directorysecurity
+directrouting
 direnv
 dirkjan
 dirname
@@ -2319,6 +2317,7 @@ enterprise
 enterprise-scale
 enterprisedb
 enterprisemanager
+enterprisevoice
 entity
 entityframework
 entra
@@ -2472,6 +2471,7 @@ expandframework
 expect
 experience
 experiments
+expired
 expiring
 expiry
 exploit
@@ -2482,7 +2482,6 @@ exponentiation
 export
 export-cmhealthreport
 export-data
-export-passlist
 exportcertificate
 exportcertificates
 exporter
@@ -2869,9 +2868,7 @@ get-history
 get-iislog
 get-openfile
 get-openfiles
-get-pass
 get-passivetrippoint
-get-passlist
 get-path
 get-pinneditem
 get-samcmassignedsite
@@ -3352,7 +3349,6 @@ import
 import-csv
 import-dtdriverpackpackagedefinitionsms
 import-modulefrompath
-import-passlist
 import-sampackagedefinitionsms
 importer
 importexport
@@ -3541,7 +3537,6 @@ isvalidip
 it
 it-support
 it-tool
-it-tools
 italic-text
 item
 itemlist
@@ -3673,6 +3668,7 @@ keymapping
 keypair
 keysms
 keyvault
+keywords
 kibana
 kickstart
 kidrsa
@@ -4787,7 +4783,6 @@ optimizer
 option
 option119
 options
-optionstring
 opus
 oracle
 oraclecloudinfrastructure
@@ -5183,7 +5178,6 @@ poshy-wrap-golang
 poshy-wrap-helm
 poshy-wrap-kubectl
 poshy-wrap-maven
-poshy-wrap-nginx
 poshy-wrap-nmap
 poshy-wrap-npm
 poshy-wrap-pip
@@ -5348,6 +5342,7 @@ privatemethods
 privateprofilestring
 privilege
 privilegecloud
+privileged
 privileges
 pro
 probe
@@ -6859,10 +6854,6 @@ pscommand_new-isofile
 pscommand_new-viewerinvocationfunction
 pscommand_new-windowsterminalpane
 pscommand_new-windowsterminaltab
-pscommand_nginx_reload
-pscommand_nginx_restart
-pscommand_nginx_start
-pscommand_nginx_stop
 pscommand_nmap_check_for_firewall
 pscommand_nmap_check_for_vulns
 pscommand_nmap_detect_versions
@@ -8123,10 +8114,6 @@ psfunction_new-isofile
 psfunction_new-viewerinvocationfunction
 psfunction_new-windowsterminalpane
 psfunction_new-windowsterminaltab
-psfunction_nginx_reload
-psfunction_nginx_restart
-psfunction_nginx_start
-psfunction_nginx_stop
 psfunction_nmap_check_for_firewall
 psfunction_nmap_check_for_vulns
 psfunction_nmap_detect_versions
@@ -8682,7 +8669,6 @@ remoting
 remove
 remove-githubsecrets
 remove-itemproperty
-remove-pass
 remove-path
 remove-pinneditem
 remove-tempfiles
@@ -8759,7 +8745,6 @@ retail
 retention
 retro
 retry
-returnuserprofile
 retype
 reuse
 reverse-engineer
@@ -9031,6 +9016,7 @@ sdn
 sdp
 search
 search-adminauditlog
+search-engines
 searchconnector
 searchengine
 searcher
@@ -9182,10 +9168,8 @@ set-itemproperty
 set-location
 set-openfiles
 set-ownership
-set-pass
 set-psbreakpoint
 set-psenv
-set-randompass
 set-type
 setbios
 sets
@@ -9270,7 +9254,6 @@ silk
 silver_ticket
 sim
 simple
-simplecontainers
 simplepassword
 simplepasswordgenerator
 simplivity
@@ -9690,7 +9673,6 @@ superheros
 supermarket
 support
 support-tool
-support-tools
 suppress
 supress-reboot
 surestacks
@@ -9737,7 +9719,6 @@ synthesis
 synthetics
 sysadmin
 sysadmin-tool
-sysadmin-tools
 sysctr
 sysinfo
 sysinfocmdlets
@@ -10691,8 +10672,6 @@ windows-registry
 windows-remoting
 windows-server-2016
 windows-terminal
-windows-user-folder
-windows-user-profile
 windows10
 windows10mui
 windows11
@@ -10873,7 +10852,6 @@ x64
 x86
 xa
 xaf
-xbase
 xbox
 xclarity
 xdr
