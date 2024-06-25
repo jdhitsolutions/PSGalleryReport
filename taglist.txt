@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 24 June 2024 17:51:57 UTC
+Updated: Tuesday, 25 June 2024 02:08:48 UTC
 
 .bat
 .env
@@ -58,7 +58,6 @@ Updated: Monday, 24 June 2024 17:51:57 UTC
 8.1
 8ball
 9
-aa
 aac
 aad
 aad-graph
@@ -451,6 +450,7 @@ architecture
 architecuture
 archive
 archivedteams
+archivematica
 archivial
 archivial-backup
 archivial-cloud-backup
@@ -473,6 +473,7 @@ arp
 array
 arrays
 art
+artefactual
 artifact
 artifactory
 artifacts
@@ -568,7 +569,6 @@ auto
 auto_cd
 auto-completion
 autoadapter
-autoattendant
 autocloudarc
 autocomplete
 autocompletion
@@ -1004,7 +1004,6 @@ calculate
 calculator
 calendar
 callingcode
-callqueue
 calvin-and-hobbes
 cam
 camera
@@ -1794,10 +1793,7 @@ db
 db2
 dba
 dbaas
-dbai
 dbase
-dbassistant
-dbatools
 dbcommand
 dbeaver
 dbfs
@@ -1959,7 +1955,6 @@ directorymarks
 directoryname
 directorysearcher
 directorysecurity
-directrouting
 direnv
 dirkjan
 dirname
@@ -2324,7 +2319,6 @@ enterprise
 enterprise-scale
 enterprisedb
 enterprisemanager
-enterprisevoice
 entity
 entityframework
 entra
@@ -2478,7 +2472,6 @@ expandframework
 expect
 experience
 experiments
-expired
 expiring
 expiry
 exploit
@@ -3680,7 +3673,6 @@ keymapping
 keypair
 keysms
 keyvault
-keywords
 kibana
 kickstart
 kidrsa
@@ -4297,6 +4289,7 @@ monitoring_objects
 monitoring_variables
 monitoringplugins
 monitoringsolutions
+monitors
 monthlyupdate
 moodle
 moonshot
@@ -4613,6 +4606,7 @@ ntdll
 ntds
 ntfs
 ntp
+ntsystems
 nuget
 nuget-references
 nuget.exe
@@ -5008,7 +5002,6 @@ personal
 personalisation
 personalization
 personalvault
-personio
 pester
 pf
 pfe
@@ -5355,7 +5348,6 @@ privatemethods
 privateprofilestring
 privilege
 privilegecloud
-privileged
 privileges
 pro
 probe
@@ -8353,7 +8345,6 @@ psngenposh
 psobject
 psoutlog
 pspath
-pspersonio
 pspowerhour
 psprofiler
 psproject
@@ -9040,7 +9031,6 @@ sdn
 sdp
 search
 search-adminauditlog
-search-engines
 searchconnector
 searchengine
 searcher
@@ -10106,6 +10096,9 @@ tsa
 tsd
 tsheets
 tsqlbestpractice
+tst
+tst1
+tst3
 tsv
 ttrpg
 tts
@@ -10915,6 +10908,7 @@ xpo
 xprotect
 xpt
 xrm
+xsa
 xtremio
 xtrude
 xunit
