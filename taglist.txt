@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Tuesday, 25 June 2024 17:52:10 UTC
+Updated: Wednesday, 26 June 2024 02:08:20 UTC
 
 .bat
 .env
@@ -157,6 +157,7 @@ adapter-control
 adapters
 adaptivecards
 adb
+adc
 adcs
 add
 add-member
@@ -439,7 +440,6 @@ apt
 apt-get
 apt-get-update
 apteco
-aptitude
 aql
 arangodb
 arc
@@ -450,7 +450,6 @@ architecture
 architecuture
 archive
 archivedteams
-archivematica
 archivial
 archivial-backup
 archivial-cloud-backup
@@ -473,7 +472,6 @@ arp
 array
 arrays
 art
-artefactual
 artifact
 artifactory
 artifacts
@@ -1119,7 +1117,6 @@ chatbot
 chatgpt
 chatops
 chatroom
-chatter
 cheat
 check
 checker
@@ -1318,6 +1315,7 @@ codes
 codesign
 codesigning
 codex
+coercion
 cognitiveservice
 cognitiveservices
 cohesity
@@ -1711,7 +1709,6 @@ daily
 dane
 dangling
 dapr
-dare
 dark
 darktrace
 dash
@@ -1858,7 +1855,6 @@ delegationmodel
 delete
 delete-orphan-branches
 deletefile
-deleteuserprofile
 delivery
 dell
 dellemc
@@ -2283,7 +2279,6 @@ emailmanagment
 emailnotification
 emailnotificationcomponent
 emailsecurity
-embedded
 emc
 emcomm
 emergency
@@ -2371,11 +2366,6 @@ escaping
 ese
 esent
 esoteric
-esp
-esp-idf
-esp32
-esp32s2
-espressif
 esri
 essbase
 estimate
@@ -2530,7 +2520,6 @@ failure
 fake
 falcon
 fallbackstatuspoint
-fanarttv
 fancy
 faq
 farm
@@ -2798,7 +2787,6 @@ gainz-sqldb
 gal
 gallery
 game
-gamecategory:cards
 games
 gameserver
 gaming
@@ -2958,7 +2946,6 @@ googlecloudplatform
 googledrive
 googlemap
 googlemaps
-googleworkspace
 gopher
 gopher-tls
 gopher+
@@ -3003,7 +2990,6 @@ graylog
 greenplum
 gremlin
 grep
-greynoise
 grid
 gridfs
 grok
@@ -3138,6 +3124,7 @@ hex
 hexdump
 hg
 hibernate
+hibernation
 hibp
 hidden
 hide
@@ -3258,8 +3245,6 @@ hyperv
 hypervisor
 hypervplugins
 hypothesis
-hysolate
-hysolatemangementconsole
 i-doit
 i2c
 ia
@@ -3304,7 +3289,6 @@ identitydataplane
 identitydirector
 identitydomains
 identitynow
-idf
 idm
 idna
 ids
@@ -3435,6 +3419,7 @@ integrated
 integratedscriptingeditor
 integration
 integrationaccount
+integrationruntime
 integrationruntimedependency
 integrationservicescatalog
 integrity
@@ -3546,7 +3531,6 @@ isvalidip
 it
 it-support
 it-tool
-it-tools
 italic-text
 item
 itemlist
@@ -3566,6 +3550,7 @@ ivb
 ivdc
 iwi
 j
+j81-blog
 japanese
 jar
 jav
@@ -3637,6 +3622,7 @@ jws
 jwt
 jwttoken
 k8s
+k8sshell
 kafka
 kaminario
 karabiner
@@ -3704,6 +3690,7 @@ krbtgt
 krick
 kschemaplugin
 kubclt
+kube
 kubectl
 kubectx
 kubens
@@ -3872,7 +3859,6 @@ locale
 localgroup
 localgroupmember
 localization
-localpolicy
 location
 locationbasedservices
 lock
@@ -4100,7 +4086,6 @@ mdatp
 mdb
 mdbc
 mde
-mdep
 mdi
 mdm
 mdop
@@ -4156,6 +4141,7 @@ met
 meta
 metadata
 metadataservice
+metaprogramming
 method
 methodinfo
 methods
@@ -4451,6 +4437,7 @@ nederland
 nedyalkov
 neo4j
 neovim
+neptune
 nerdfonts
 nerdio
 nerdioapi
@@ -4500,7 +4487,6 @@ networkloadbalancer
 networkpolicyserver
 networkscan
 networksecurity
-networksecuritygroup
 networkshares
 netwrix
 new
@@ -4607,6 +4593,7 @@ ntdll
 ntds
 ntfs
 ntp
+ntsystems
 nuget
 nuget-references
 nuget.exe
@@ -4998,6 +4985,7 @@ permissions
 permutations
 persistence
 persistent
+personal
 personalisation
 personalization
 personalvault
@@ -5165,7 +5153,6 @@ poshy-sh-isms
 poshy-sshconfig
 poshy-viewer-finder
 poshy-wrap
-poshy-wrap-apt
 poshy-wrap-argcomplete
 poshy-wrap-brew
 poshy-wrap-curl
@@ -5182,6 +5169,7 @@ poshy-wrap-git-lfs
 poshy-wrap-golang
 poshy-wrap-helm
 poshy-wrap-kubectl
+poshy-wrap-maven
 poshy-wrap-nginx
 poshy-wrap-nmap
 poshy-wrap-npm
@@ -5200,6 +5188,7 @@ poshy-wrap-vault
 poshy-wrap-vscode
 poshy-wrap-wget
 poshy-wrap-wt
+poshy-wrap-yum
 poshy-wrap-zypper
 position
 post
@@ -5461,10 +5450,6 @@ pscommand_6
 pscommand_7
 pscommand_8
 pscommand_9
-pscommand_aar
-pscommand_acp
-pscommand_acse
-pscommand_acsp
 pscommand_add_ssh
 pscommand_add-envpathitem
 pscommand_add-envvarpathitem
@@ -5478,16 +5463,7 @@ pscommand_add-gittrackedfiles
 pscommand_add-gittrackedfilesall
 pscommand_add-gittrackedfilesinteractively
 pscommand_add-gittrackedfilesverbosely
-pscommand_afs
-pscommand_age
-pscommand_agli
-pscommand_aglu
-pscommand_allpkgs
-pscommand_app
-pscommand_apt-history
-pscommand_apt-list-packages
 pscommand_arch
-pscommand_asrc
 pscommand_basename
 pscommand_bcubc
 pscommand_bcubo
@@ -5860,7 +5836,6 @@ pscommand_geli
 pscommand_geo
 pscommand_geoe
 pscommand_get
-pscommand_get-aptinstalledpackages
 pscommand_get-childitemcolorfully
 pscommand_get-childitemcolorfullycramped
 pscommand_get-childitemcolorfullyrevealingly
@@ -6143,14 +6118,6 @@ pscommand_hin
 pscommand_hostname
 pscommand_hse
 pscommand_hup
-pscommand_invoke-aptcachepolicy
-pscommand_invoke-aptcachesearch
-pscommand_invoke-aptcacheshowpkg
-pscommand_invoke-aptfilesearchbyregex
-pscommand_invoke-aptgetsource
-pscommand_invoke-aptlistinstalled
-pscommand_invoke-aptlistupgradable
-pscommand_invoke-aptpreferred
 pscommand_invoke-brewlistpinned
 pscommand_invoke-brewpin
 pscommand_invoke-brewuninstallzap
@@ -6410,6 +6377,17 @@ pscommand_invoke-kubectlrolloutundo
 pscommand_invoke-kubectlrunnetshoot
 pscommand_invoke-kubectlscaledeployment
 pscommand_invoke-kubectlscalestatefulset
+pscommand_invoke-mavencleaninstall
+pscommand_invoke-mavencleaninstallskiptests
+pscommand_invoke-mavencleanpackage
+pscommand_invoke-mavencleanpackageskiptests
+pscommand_invoke-mavendependencytree
+pscommand_invoke-mavenhelpeffectivepom
+pscommand_invoke-maveninstall
+pscommand_invoke-mavenpackage
+pscommand_invoke-mavenreleaseperform
+pscommand_invoke-mavenreleaseprepare
+pscommand_invoke-mavenreleaserollback
 pscommand_invoke-npmbinmungedpath
 pscommand_invoke-npminfo
 pscommand_invoke-npminit
@@ -6626,6 +6604,18 @@ pscommand_invoke-vscodewithextensionsdir
 pscommand_invoke-vscodewithlog
 pscommand_invoke-vscodewithuserdatadir
 pscommand_invoke-vscodewithwait
+pscommand_invoke-yumcleanall
+pscommand_invoke-yumgroupinstall
+pscommand_invoke-yumgroupremove
+pscommand_invoke-yuminfo
+pscommand_invoke-yuminstall
+pscommand_invoke-yumlist
+pscommand_invoke-yumlistinstalled
+pscommand_invoke-yummakecache
+pscommand_invoke-yumremove
+pscommand_invoke-yumremoveleaves
+pscommand_invoke-yumsearch
+pscommand_invoke-yumupdate
 pscommand_invoke-zypper
 pscommand_invoke-zypperaddlock
 pscommand_invoke-zypperaddservice
@@ -6672,6 +6662,7 @@ pscommand_invoke-zypperupdate
 pscommand_invoke-zypperverify
 pscommand_invoke-zypperversioncompare
 pscommand_invoke-zypperwhatprovides
+pscommand_invokeyumgrouplist
 pscommand_ips
 pscommand_ipy
 pscommand_ipython
@@ -6737,7 +6728,6 @@ pscommand_keno
 pscommand_kens
 pscommand_kep
 pscommand_kepvc
-pscommand_kerndeb
 pscommand_kers
 pscommand_kes
 pscommand_kess
@@ -6810,11 +6800,22 @@ pscommand_lsn
 pscommand_lsr
 pscommand_lt
 pscommand_mcd
+pscommand_mci
+pscommand_mcisk
+pscommand_mcp
+pscommand_mcpsk
+pscommand_mdep
 pscommand_measure-envvarchanges
 pscommand_merge-gitrepositoryfromoriginbranchmain
 pscommand_merge-gitrepositoryfromupstreambranchmain
+pscommand_mi
 pscommand_mirrorsite
 pscommand_move-gittrackedfiles
+pscommand_mp
+pscommand_mpom
+pscommand_mrperf
+pscommand_mrprep
+pscommand_mrrb
 pscommand_myip
 pscommand_new-gitbranchfromstash
 pscommand_new-gitbranchtracked
@@ -7131,6 +7132,19 @@ pscommand_write-gitcommitinteractively
 pscommand_write-gitcommitsignedoff
 pscommand_xin
 pscommand_xwith
+pscommand_yc
+pscommand_ygi
+pscommand_ygl
+pscommand_ygr
+pscommand_yi
+pscommand_yl
+pscommand_yli
+pscommand_ymc
+pscommand_yp
+pscommand_yr
+pscommand_yrl
+pscommand_ys
+pscommand_yu
 pscommand_z
 pscommand_zal
 pscommand_zar
@@ -7226,7 +7240,6 @@ psfive9
 psfive9admin
 psfoldersize
 psfunction__python3
-psfunction_aar
 psfunction_add_ssh
 psfunction_add-envpathitem
 psfunction_add-envvarpathitem
@@ -7240,8 +7253,6 @@ psfunction_add-gittrackedfiles
 psfunction_add-gittrackedfilesall
 psfunction_add-gittrackedfilesinteractively
 psfunction_add-gittrackedfilesverbosely
-psfunction_apt-history
-psfunction_apt-list-packages
 psfunction_arch
 psfunction_basename
 psfunction_bgblack
@@ -7405,7 +7416,6 @@ psfunction_format-batcatstyle
 psfunction_format-lesstermcapenv
 psfunction_format-viewerinvocationsh
 psfunction_gdv
-psfunction_get-aptinstalledpackages
 psfunction_get-childitemcolorfully
 psfunction_get-childitemcolorfullycramped
 psfunction_get-childitemcolorfullyrevealingly
@@ -7505,14 +7515,6 @@ psfunction_gitignore-reload
 psfunction_gittowork
 psfunction_gplfs
 psfunction_hostname
-psfunction_invoke-aptcachepolicy
-psfunction_invoke-aptcachesearch
-psfunction_invoke-aptcacheshowpkg
-psfunction_invoke-aptfilesearchbyregex
-psfunction_invoke-aptgetsource
-psfunction_invoke-aptlistinstalled
-psfunction_invoke-aptlistupgradable
-psfunction_invoke-aptpreferred
 psfunction_invoke-brewlistpinned
 psfunction_invoke-brewpin
 psfunction_invoke-brewuninstallzap
@@ -7772,6 +7774,17 @@ psfunction_invoke-kubectlrolloutundo
 psfunction_invoke-kubectlrunnetshoot
 psfunction_invoke-kubectlscaledeployment
 psfunction_invoke-kubectlscalestatefulset
+psfunction_invoke-mavencleaninstall
+psfunction_invoke-mavencleaninstallskiptests
+psfunction_invoke-mavencleanpackage
+psfunction_invoke-mavencleanpackageskiptests
+psfunction_invoke-mavendependencytree
+psfunction_invoke-mavenhelpeffectivepom
+psfunction_invoke-maveninstall
+psfunction_invoke-mavenpackage
+psfunction_invoke-mavenreleaseperform
+psfunction_invoke-mavenreleaseprepare
+psfunction_invoke-mavenreleaserollback
 psfunction_invoke-npmbinmungedpath
 psfunction_invoke-npminfo
 psfunction_invoke-npminit
@@ -7988,6 +8001,18 @@ psfunction_invoke-vscodewithextensionsdir
 psfunction_invoke-vscodewithlog
 psfunction_invoke-vscodewithuserdatadir
 psfunction_invoke-vscodewithwait
+psfunction_invoke-yumcleanall
+psfunction_invoke-yumgroupinstall
+psfunction_invoke-yumgroupremove
+psfunction_invoke-yuminfo
+psfunction_invoke-yuminstall
+psfunction_invoke-yumlist
+psfunction_invoke-yumlistinstalled
+psfunction_invoke-yummakecache
+psfunction_invoke-yumremove
+psfunction_invoke-yumremoveleaves
+psfunction_invoke-yumsearch
+psfunction_invoke-yumupdate
 psfunction_invoke-zypper
 psfunction_invoke-zypperaddlock
 psfunction_invoke-zypperaddservice
@@ -8034,8 +8059,8 @@ psfunction_invoke-zypperupdate
 psfunction_invoke-zypperverify
 psfunction_invoke-zypperversioncompare
 psfunction_invoke-zypperwhatprovides
+psfunction_invokeyumgrouplist
 psfunction_jump
-psfunction_kerndeb
 psfunction_kres
 psfunction_local-ignore
 psfunction_measure-envvarchanges
@@ -8376,6 +8401,7 @@ pxedistributionpoint
 pyenv
 pygmentize
 pylint
+pyranja
 python
 python-for-dotnet
 python3
@@ -8686,7 +8712,6 @@ retail
 retention
 retro
 retry
-returnuserprofile
 retype
 reuse
 reverse-engineer
@@ -8963,6 +8988,7 @@ searchconnector
 searchengine
 searcher
 searching
+searchmanager
 searchplace
 searchquery
 searchstring
@@ -9375,7 +9401,6 @@ speculation
 speculationcontrol
 speech
 speed
-speedometer
 speedtest
 speedtester
 spellcheck
@@ -9617,7 +9642,6 @@ superheros
 supermarket
 support
 support-tool
-support-tools
 suppress
 supress-reboot
 surestacks
@@ -9664,7 +9688,6 @@ synthesis
 synthetics
 sysadmin
 sysadmin-tool
-sysadmin-tools
 sysctr
 sysinfo
 sysinfocmdlets
@@ -9896,6 +9919,7 @@ timesheet
 timesheets
 timespan
 timezone
+tinkerpop
 tinymce
 tip
 tips
@@ -10244,7 +10268,6 @@ usps
 utc
 utf-8
 utf-sig
-utf7
 utf8
 utf8-sig
 utf8bom
@@ -10617,8 +10640,6 @@ windows-registry
 windows-remoting
 windows-server-2016
 windows-terminal
-windows-user-folder
-windows-user-profile
 windows10
 windows10mui
 windows11
@@ -10651,6 +10672,7 @@ windowspresentationfoundation
 windowsreleasehealth
 windowsrest
 windowssandbox
+windowssearchmanager
 windowsserver
 windowsserver2008
 windowsserver2016
@@ -10856,9 +10878,11 @@ youtubeextractor
 yq
 yubaba
 yubikey
+yum
 z
 zabbix
 zabbixps
+zap
 zap-zsh
 zcat
 zendesk
@@ -10878,6 +10902,7 @@ zoomapi
 zoommeeting
 zoxide
 zsh
+zuora
 zvm
 zvml
 zvmlinux
