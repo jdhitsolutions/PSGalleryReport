@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Wednesday, 26 June 2024 17:51:52 UTC
+Updated: Thursday, 27 June 2024 02:08:33 UTC
 
 .bat
 .env
@@ -1085,6 +1085,8 @@ centralcredentialprovider
 centrastage
 centreon
 centreon.com
+centurylink
+centurylinkcloud
 cer
 cert
 certbasedauth
@@ -1192,6 +1194,9 @@ classes
 classic
 classification
 classified
+clccontrol
+clccontrolapiv1
+clccontrolapiv2
 clean-up
 cleanmgr
 cleanup
@@ -1313,6 +1318,7 @@ codereview
 codes
 codesign
 codesigning
+codex
 coercion
 cognitiveservice
 cognitiveservices
@@ -1680,7 +1686,6 @@ cx
 cyber
 cyberark
 cyberark-api
-cyberark-dpa
 cyberark-identity
 cyberdrain
 cybereason
@@ -1831,7 +1836,6 @@ deduplication
 deep
 deep-security
 deep-security-manager
-deepl
 deepvisibility
 def
 default
@@ -2064,6 +2068,7 @@ documentencryption
 documenting
 documents
 docusaurus
+docusign
 docx
 dod
 dog
@@ -2191,7 +2196,6 @@ dword
 dxexpeditions
 dynamic
 dynamic-host-configuration-protocol
-dynamic-privileged-access
 dynamicdistributiongroups
 dynamicdnsoverhttps
 dynamicparam
@@ -2757,7 +2761,6 @@ fsc-ps
 fscps
 fsf
 fsharp
-fslogix
 fsrm
 ftp
 ftps
@@ -4368,7 +4371,6 @@ mssqlserver
 msteams
 mstest
 mstsc
-msu
 msvc
 msword
 mta-sts
@@ -4412,7 +4414,6 @@ myjson
 myjson.com
 myob
 myposh
-mypstag
 mysql
 mysql-database
 mytest
@@ -4437,6 +4438,7 @@ nartac
 nasdaq
 native
 natpool
+natural-language-to-code
 natural-selection
 nature
 nav
@@ -4451,6 +4453,7 @@ nederland
 nedyalkov
 neo4j
 neovim
+neptune
 nerdfonts
 nerdio
 nerdioapi
@@ -4558,8 +4561,6 @@ nntp
 node
 nodejs
 non-volatile
-none
-noneimages
 noninteractive
 noproxy
 nord
@@ -4742,6 +4743,7 @@ op
 opa
 opc
 open
+open-ai
 open-ssh
 openai
 openamt
@@ -5262,6 +5264,8 @@ powershell-module
 powershell-modules
 powershell-releases-api
 powershell-remoting
+powershell-terminal
+powershell-terminal-copilot
 powershell-training
 powershell.module.invokewinget
 powershell.one
@@ -8551,7 +8555,6 @@ rdcman
 rdcmanager
 rdfe
 rdg
-rdl
 rdm
 rdp
 rdpsession
@@ -8769,7 +8772,6 @@ reversed-color-text
 reversedsc
 reverseengineering
 review
-revision
 reword
 rewrite
 rexec
@@ -8938,7 +8940,6 @@ scaffolding
 scaffoldingtemplate
 scala
 scalable
-scalablevectorgraphics
 scale
 scan
 scanner
@@ -9310,7 +9311,6 @@ skyapi
 skype
 skype_for_business
 skype4b
-skype4business
 skypeforbusiness
 skypeforbusinessonline
 skypeonline
@@ -9971,6 +9971,7 @@ timesheet
 timesheets
 timespan
 timezone
+tinkerpop
 tinymce
 tip
 tips
@@ -10319,6 +10320,7 @@ usps
 utc
 utf-8
 utf-sig
+utf7
 utf8
 utf8-sig
 utf8bom
