@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Friday, 28 June 2024 02:09:01 UTC
+Updated: Friday, 28 June 2024 09:52:13 UTC
 
 .bat
 .env
@@ -130,6 +130,9 @@ activedirectoryfederationservices
 activedirectry-html
 activeefficiency
 activehours
+activenet
+activenetworkstation
+activenetworkstationservice
 activeresponse
 activesession
 activiti
@@ -189,7 +192,6 @@ adlds
 adm
 admf
 admin
-admin-tools
 adminbyrequest
 admindirectory
 administration
@@ -356,6 +358,7 @@ anti-malware
 antimalwarescaninterface
 antispam
 antivirus
+anws
 any
 anypackage
 anypoint
@@ -436,6 +439,7 @@ apt
 apt-get
 apt-get-update
 apteco
+aptitude
 aql
 arangodb
 arc
@@ -628,6 +632,7 @@ awspricelist
 axapta
 axinom
 axis
+axium
 az
 az-cli
 az.runtimeenvironment
@@ -638,7 +643,6 @@ azcompute
 azd
 azdisk
 azdo
-azereo
 azforensics
 azkeyvault
 aznetworking
@@ -651,7 +655,6 @@ azsdk
 azsk
 azsql
 azstackhci
-azstate
 azsubnet
 aztools
 azts
@@ -733,7 +736,6 @@ azuresqlimport
 azuressas
 azurestack
 azurestackhci
-azurestate
 azurestorage
 azurestorageservices
 azuresync
@@ -906,7 +908,6 @@ bootstrap
 bootstrapping
 bop
 bot
-bots
 botservice
 bouncer
 boundaries
@@ -1022,6 +1023,8 @@ capslock
 captcha
 capture
 carbon
+carbonawarecomputing
+carbonintensity
 card
 cardwirth
 cares
@@ -1263,6 +1266,7 @@ cloudservice
 cloudshell
 clueser
 cluster
+clusterminimumvalues
 clusterplacementgroups
 clusterplugins
 cmaccounts
@@ -1316,6 +1320,7 @@ cognitiveservice
 cognitiveservices
 cohesity
 coinmarketcap
+collaboration
 collatordso
 collatz
 collection
@@ -1743,6 +1748,7 @@ dataexchange
 dataexplorer
 datafactory
 dataflow
+dataflowdependency
 dataframe
 datagateway
 dataintegration
@@ -1875,6 +1881,7 @@ der
 description
 deserialize
 design
+design-pattern
 desired
 desiredstate
 desiredstateconfiguration
@@ -2213,6 +2220,7 @@ e-mail
 e1
 easy
 easy-to-use
+easylife365
 easyvista
 eaton
 ebay
@@ -2368,6 +2376,7 @@ esp32
 esp32s2
 espressif
 esri
+essbase
 estimate
 estimation
 esx
@@ -2438,7 +2447,6 @@ exchangemigration
 exchangeon-premise
 exchangeon-premises
 exchangeonline
-exchangeonlinemanagement
 exchangeonlineprotection
 exchangeonprem
 exchangerate
@@ -2554,6 +2562,7 @@ fetch
 ffmpeg
 ffprobe
 fhirservice
+fiche
 fiddler
 fido
 fido2
@@ -2642,7 +2651,6 @@ finops
 firebird
 firefox
 firewall
-firewall-management
 firewallrule
 firmware
 firmwareanalysis
@@ -3048,7 +3056,6 @@ hana
 hanaon
 handle
 handler
-handy
 hangouts
 hannelstoolbox
 hanwha
@@ -3371,7 +3378,10 @@ influxdb
 info
 infoblox
 information
+information-technology
 informationbarriers
+informationtechnology
+informationtechnologyoperations
 informix
 infosec
 infrastructure
@@ -3530,6 +3540,7 @@ ispss
 issues
 isvalidemail
 isvalidip
+it
 it-support
 it-tool
 it-tools
@@ -3686,7 +3697,6 @@ kodi
 korn
 kotlin
 kql
-kraken
 krane
 krbtgt
 krick
@@ -3813,6 +3823,7 @@ linearalgebra
 lingeringobjects
 link
 link-capability
+link-preview
 linkedin
 linkedservice
 linkedservicedependency
@@ -3923,8 +3934,10 @@ logonto
 logonuser
 logparser
 logrotate
+logrotation
 logs
 logstash
+logtools
 logz
 loki
 lol
@@ -4384,6 +4397,7 @@ mutation
 mute
 mutex
 mva
+mvc
 mvn
 mvp
 mx
@@ -4414,7 +4428,6 @@ nameit
 nameresolution
 names
 namespace
-naming
 nana
 nano
 nanoleaf
@@ -4486,7 +4499,6 @@ networkinterfaces
 networkloadbalancer
 networkpolicyserver
 networkscan
-networksecurity
 networksecuritygroup
 networkshares
 netwrix
@@ -5142,7 +5154,6 @@ poshy-code-search
 poshy-colors
 poshy-coreutils-ish
 poshy-dir-nav
-poshy-ecks
 poshy-env-proxy
 poshy-env-var
 poshy-ls-isms
@@ -5154,6 +5165,7 @@ poshy-sh-isms
 poshy-sshconfig
 poshy-viewer-finder
 poshy-wrap
+poshy-wrap-apt
 poshy-wrap-argcomplete
 poshy-wrap-brew
 poshy-wrap-curl
@@ -5340,6 +5352,7 @@ privileges
 pro
 probe
 process
+process-inspector
 processing
 processmitigation
 processor
@@ -5449,11 +5462,24 @@ pscommand_6
 pscommand_7
 pscommand_8
 pscommand_9
+pscommand_aar
+pscommand_acp
+pscommand_acse
+pscommand_acsp
 pscommand_add_ssh
 pscommand_add-envpathitem
 pscommand_add-envvarpathitem
 pscommand_add-gitlfstrackedfiles
+pscommand_afs
+pscommand_age
+pscommand_agli
+pscommand_aglu
+pscommand_allpkgs
+pscommand_app
+pscommand_apt-history
+pscommand_apt-list-packages
 pscommand_arch
+pscommand_asrc
 pscommand_basename
 pscommand_bcubc
 pscommand_bcubo
@@ -5755,6 +5781,7 @@ pscommand_gel
 pscommand_geli
 pscommand_geo
 pscommand_geoe
+pscommand_get-aptinstalledpackages
 pscommand_get-childitemcolorfully
 pscommand_get-childitemcolorfullycramped
 pscommand_get-childitemcolorfullyrevealingly
@@ -5851,6 +5878,14 @@ pscommand_hin
 pscommand_hostname
 pscommand_hse
 pscommand_hup
+pscommand_invoke-aptcachepolicy
+pscommand_invoke-aptcachesearch
+pscommand_invoke-aptcacheshowpkg
+pscommand_invoke-aptfilesearchbyregex
+pscommand_invoke-aptgetsource
+pscommand_invoke-aptlistinstalled
+pscommand_invoke-aptlistupgradable
+pscommand_invoke-aptpreferred
 pscommand_invoke-brewlistpinned
 pscommand_invoke-brewpin
 pscommand_invoke-brewuninstallzap
@@ -6434,6 +6469,7 @@ pscommand_keno
 pscommand_kens
 pscommand_kep
 pscommand_kepvc
+pscommand_kerndeb
 pscommand_kers
 pscommand_kes
 pscommand_kess
@@ -6745,8 +6781,6 @@ pscommand_vssh
 pscommand_vst
 pscommand_vup
 pscommand_vupl
-pscommand_xin
-pscommand_xwith
 pscommand_yc
 pscommand_ygi
 pscommand_ygl
@@ -6855,10 +6889,13 @@ psfive9
 psfive9admin
 psfoldersize
 psfunction__python3
+psfunction_aar
 psfunction_add_ssh
 psfunction_add-envpathitem
 psfunction_add-envvarpathitem
 psfunction_add-gitlfstrackedfiles
+psfunction_apt-history
+psfunction_apt-list-packages
 psfunction_arch
 psfunction_basename
 psfunction_bgblack
@@ -7018,6 +7055,7 @@ psfunction_forgit-stash-show
 psfunction_format-batcatstyle
 psfunction_format-lesstermcapenv
 psfunction_format-viewerinvocationsh
+psfunction_get-aptinstalledpackages
 psfunction_get-childitemcolorfully
 psfunction_get-childitemcolorfullycramped
 psfunction_get-childitemcolorfullyrevealingly
@@ -7051,6 +7089,14 @@ psfunction_git-global-show-proxy
 psfunction_git-show-proxy
 psfunction_gplfs
 psfunction_hostname
+psfunction_invoke-aptcachepolicy
+psfunction_invoke-aptcachesearch
+psfunction_invoke-aptcacheshowpkg
+psfunction_invoke-aptfilesearchbyregex
+psfunction_invoke-aptgetsource
+psfunction_invoke-aptlistinstalled
+psfunction_invoke-aptlistupgradable
+psfunction_invoke-aptpreferred
 psfunction_invoke-brewlistpinned
 psfunction_invoke-brewpin
 psfunction_invoke-brewuninstallzap
@@ -7570,6 +7616,7 @@ psfunction_invoke-zypperversioncompare
 psfunction_invoke-zypperwhatprovides
 psfunction_invokeyumgrouplist
 psfunction_jump
+psfunction_kerndeb
 psfunction_kres
 psfunction_measure-envvarchanges
 psfunction_mirrorsite
@@ -7673,12 +7720,11 @@ psfunction_urlencode
 psfunction_use-gitflowbranchdevelop
 psfunction_use-gitflowbranchhotfix
 psfunction_use-gitflowbranchrelease
-psfunction_xin
-psfunction_xwith
 psgallery
 psget
 psgitlab
 psgraph
+psgraylog
 pshot
 pshtml
 psimport
@@ -8214,7 +8260,6 @@ rpa
 rpc
 rras
 rrd
-rs
 rsa
 rsat
 rshell
@@ -8803,6 +8848,7 @@ spdockit
 spdx
 spdx-license-identifier:ms-pl
 spe
+speach
 speak
 speaker
 spec
@@ -9119,6 +9165,7 @@ syspip3
 sysprep
 system
 system information 1394 controller baseboard motherboard systemboard battery bios bus cache memory cd dvd rom drive compact disc desktop monitor disk partition fan floppy glide point heatpipe ide infrared device keyboard local logical array mouse'
+system-administration
 system-group
 system-service
 system-services
@@ -9147,8 +9194,8 @@ tabexpansion2
 tablacus
 table
 tableau
+tableauserver
 tableauworkbook
-tabler
 tables
 tablestorage
 tabs
@@ -9204,6 +9251,7 @@ teamviewer
 techdirect
 techedna2014
 techlog
+technology
 techsmith
 tel
 telegram
@@ -9227,6 +9275,7 @@ tenable.sc
 tenant
 tenantmanagercontrolplane
 teradata
+termbin
 terminal
 terminal-interface
 terminal-services
@@ -9272,6 +9321,7 @@ text
 text-emoji
 text-emojis
 text-to-image
+text-to-speach"
 text-to-speech
 text2image
 textanalysis
@@ -9387,7 +9437,6 @@ tracert
 tracing
 tracker
 tracking
-trading
 traffic
 trafficfiltering
 trafficmanager
@@ -9544,7 +9593,6 @@ ud-signature
 ud-simpledrawer
 ud-singleselect
 ud-slider
-ud-speechbubble
 ud-step
 ud-stepbar
 ud-stickynavbar
@@ -10038,13 +10086,10 @@ windows_events
 windows-10
 windows-11
 windows-api
-windows-control-panel
-windows-defender
 windows-defender-application-control
 windows-environment
 windows-explorer
 windows-features
-windows-firewall
 windows-lab
 windows-path
 windows-powershell
@@ -10249,7 +10294,6 @@ xevents
 xh
 xi
 xiaomi
-xin
 xkcd
 xliff
 xlsx
@@ -10273,17 +10317,13 @@ xsa
 xtremio
 xtrude
 xunit
-xwiki
 xwindowsupdate
-xwith
 yahoo
-yahw
 yamaha
 yaml
 yandex
 yapg
 yarn
-yetanotherhelloworld
 yml
 ynab
 youtube
