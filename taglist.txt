@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Friday, 28 June 2024 17:51:47 UTC
+Updated: Saturday, 29 June 2024 02:07:38 UTC
 
 .bat
 .env
@@ -157,7 +157,6 @@ adapter-control
 adapters
 adaptivecards
 adb
-adc
 adcs
 add
 add-member
@@ -387,7 +386,6 @@ apmsynthetics
 apmtraces
 aportal
 app
-app-control-for-business
 app-only
 app-v
 app-volumes
@@ -404,9 +402,7 @@ appinsights
 applayering
 apple
 application
-application-control
 application-transformer
-application-whitelisting
 applicationgateway
 applicationgrid
 applicationhost.config
@@ -694,7 +690,6 @@ azureautomationaccount
 azureautomationnotsupported
 azurebasicloadbalancerupgrade
 azurecli
-azurecodesigning
 azurecognitiveservices
 azurecommonstuff
 azurecontainerapps
@@ -994,7 +989,6 @@ bxor
 bydesign
 byexample
 bynarypsmodule
-byovd
 byte
 bytearray
 bzip2
@@ -1508,8 +1502,6 @@ convert-sid
 convert-windowsimage
 converter
 convertfrom
-convertfrom-json
-convertfrom-jsontohashtable
 convertfrom-string
 convertfrom-stringtable
 convertfrom-table
@@ -1589,7 +1581,6 @@ creationworkflowsimplification
 creator
 cred
 credential
-credential-dialog
 credential-file
 credential-files
 credential-manager
@@ -1826,6 +1817,7 @@ debugger
 debugging
 decimal
 decimalip
+decimalzero
 declarative
 decline
 decode
@@ -1951,7 +1943,6 @@ digital-forensics
 digitalforensics
 digitalocean
 digitaltwins
-dilbert
 dimcry
 dircolors
 director
@@ -2041,6 +2032,7 @@ dnsclient
 dnsdumpster
 dnsentry
 dnsimple
+dnslookup
 dnsmadeeasy
 dnsoverhttps
 dnsrecord
@@ -2218,6 +2210,7 @@ dynamicsnav
 dynamodb
 dynatrace
 dynatraceobservability
+dz
 e-mail
 e1
 easy
@@ -2481,7 +2474,6 @@ experience
 experiments
 expired
 expiring
-expiry
 exploit
 exploits
 exploration
@@ -2637,7 +2629,6 @@ financeandoperations
 financeoperations
 financial
 financialedge
-financials
 find
 find-call
 find-caller
@@ -2681,6 +2672,7 @@ fleetsoftwareupdate
 flex
 flex-query
 flexdesk
+flickr
 flowchart
 flowy
 fluidrelay
@@ -2835,7 +2827,6 @@ generates
 generatewif
 generation
 generativeai
-generativeaiinference
 generator
 generic
 genericartifactscontent
@@ -2843,8 +2834,6 @@ genetic-algorithm
 genp
 genxdev
 geo
-geocache
-geocaching
 geocode
 geoencode
 geoencoding
@@ -2946,6 +2935,7 @@ golang
 golden_ticket
 goldengate
 goldsource
+goldsource-dedicated-server
 google
 google-chrome
 google-fonts
@@ -3006,7 +2996,6 @@ greynoise
 grid
 gridfs
 grok
-groundspeak
 group
 group-membership
 group-policy
@@ -3174,6 +3163,7 @@ hls
 hockey
 hol
 holiday
+home
 home_automation
 homebrew
 homelandsecurity
@@ -3450,6 +3440,7 @@ interlogix
 internal
 internet
 internet-explorer
+internetconnection
 internetexplorer
 intersight
 intersightcmdlets
@@ -3523,7 +3514,6 @@ irkit
 irl
 irregular
 isadmin
-isbn
 iscsi
 isdate
 ise
@@ -3564,7 +3554,6 @@ ivb
 ivdc
 iwi
 j
-j81-blog
 japanese
 jar
 jav
@@ -3745,7 +3734,6 @@ languageexperiencepack
 languagepack
 lansweeper
 laps
-laragon
 laserbeams
 last
 last.fm
@@ -3763,7 +3751,6 @@ layout
 lazywinadmin
 lbi
 lbs
-lccn
 lcm
 lcminternals
 ldap
@@ -4567,6 +4554,8 @@ nord
 nordtools
 normal
 norskale
+norway
+norwegian
 nos
 nosql
 note
@@ -4661,6 +4650,7 @@ octopusdeploy
 octopusenergy
 ocvp
 od4b
+oda
 odata
 odbc
 odfb
@@ -8299,7 +8289,6 @@ psmssql
 psmssqlbynarymodule
 psmssqlmodule
 psmvp
-psnavigation
 psnexosisclient
 psngenposh
 psobject
@@ -8501,6 +8490,7 @@ razzle
 rbac
 rbacmodel
 rbsu
+rcon
 rcs
 rcu
 rdb
@@ -8897,6 +8887,7 @@ scaffolding
 scaffoldingtemplate
 scala
 scalable
+scalablevectorgraphics
 scale
 scan
 scanner
@@ -9081,7 +9072,6 @@ sensitive
 sensitivity
 sensor
 sensors
-sensu
 sentinel
 sentinelone
 sentry
@@ -9357,7 +9347,6 @@ soltra
 solution
 solutions
 sonarcloud
-sonarqube
 sonarr
 sonatype
 songs
@@ -9373,12 +9362,14 @@ sort
 sort-json
 sorting
 source
+source-dedicated-server
 sourcecontrol
 sourceforge
 sourcegraph
 sourcemod
 sourceone
 sourcepawn
+sourcequery
 sovcloud
 space
 spaces
@@ -9482,7 +9473,6 @@ squire
 srcds
 srcsrv
 srm
-srylius-write
 ssas
 ssc
 ssdt
@@ -9555,6 +9545,7 @@ stderr
 stdio
 stdout
 steam
+steam-games
 steamcmd
 stepper
 sticker
@@ -9674,7 +9665,6 @@ sybase
 sybaseiq
 symantec
 symbolic
-symbolic_link
 symboliclink
 symbols
 symbolservers
@@ -9839,6 +9829,7 @@ tesla
 test
 test-automation
 test-dscconfiguration
+test-internetconnection
 test-modulemanifest
 test-modulepath
 test-osplatform
@@ -10044,7 +10035,6 @@ trusted-host
 trustedhosts
 trustedinstaller
 trustedrootcertificate
-trustedsigning
 truth
 trx
 ts
@@ -10105,7 +10095,6 @@ ud-breadcrumb
 ud-breadcrumbitem
 ud-burger
 ud-button
-ud-buttonloader
 ud-buttonparticle
 ud-calendar
 ud-circle
@@ -10136,7 +10125,6 @@ ud-scrollspy
 ud-selectdatetime
 ud-selector
 ud-signature
-ud-simpledrawer
 ud-singleselect
 ud-slider
 ud-speechbubble
@@ -10527,7 +10515,6 @@ wave
 wbem
 wcf
 wcry
-wdac
 wdapi
 wds
 weather
@@ -10634,7 +10621,6 @@ windows-11
 windows-api
 windows-control-panel
 windows-defender
-windows-defender-application-control
 windows-environment
 windows-explorer
 windows-features
