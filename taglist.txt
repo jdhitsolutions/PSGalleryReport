@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Sunday, 30 June 2024 09:51:53 UTC
+Updated: Sunday, 30 June 2024 17:51:46 UTC
 
 .bat
 .env
@@ -724,7 +724,6 @@ azurepowershell
 azurerepos
 azureresourcemanager
 azureresources
-azureresourcestuff
 azurerestapispecs
 azurerm
 azurerms
@@ -749,6 +748,7 @@ azuretestplan
 azurevirtualdesktop
 azurevirtualmachines
 azurevm
+azurevpn
 azvm
 b2
 back
@@ -921,7 +921,6 @@ box
 bpmn
 brainy
 branch
-branch-rename
 brave
 brawlapi
 brawlstars
@@ -1605,7 +1604,6 @@ crescendo
 crescendobuilt
 cresendo
 crestron
-crime
 crlf
 crm
 crm2016
@@ -1884,7 +1882,6 @@ der
 description
 deserialize
 design
-design-pattern
 desired
 desiredstate
 desiredstateconfiguration
@@ -2908,7 +2905,6 @@ git-clone
 git-flow
 git-lfs
 git-proxy
-git-rename
 git-stat
 gitcmdline
 gitdesktop
@@ -3877,7 +3873,6 @@ locale
 localgroup
 localgroupmember
 localization
-localpolicy
 location
 locationbasedservices
 lock
@@ -4403,7 +4398,6 @@ mutation
 mute
 mutex
 mva
-mvc
 mvn
 mvp
 mx
@@ -4431,6 +4425,8 @@ name
 name-of-dogs
 namedpipe
 nameit
+nameresolution
+names
 namespace
 naming
 nana
@@ -5360,7 +5356,6 @@ privileges
 pro
 probe
 process
-process-inspector
 processing
 processmitigation
 processor
@@ -8351,7 +8346,6 @@ psnavigation
 psnexosisclient
 psngenposh
 psobject
-psoutlog
 pspath
 pspersonio
 pspowerhour
@@ -8518,7 +8512,6 @@ rackspace
 radarr
 radio
 raidcontrollercmdlets
-railways
 rainbow
 raisers
 raisersedge
@@ -8700,9 +8693,6 @@ removetypeaccelerators
 remux
 ren-isac
 rename
-rename-git
-rename-git-branch
-rename-gitbranch
 repair-msauth
 reparsepoint
 repeat
@@ -8881,7 +8871,6 @@ runner
 runspace
 runspacepool
 runspaces
-runtime
 runtimedefinedparameter
 runtimedefinedparameterdictionary
 runway
@@ -9880,7 +9869,6 @@ terminal-interface
 terminal-services
 terminal.gui
 terminalnotifier
-terminalvelocity
 termset
 terraform
 terraform-docs
@@ -9890,6 +9878,7 @@ terrafun
 terragrunt
 tesla
 test
+test-automation
 test-dscconfiguration
 test-internetconnection
 test-modulemanifest
@@ -10299,6 +10288,7 @@ urlhaus
 urlredirections
 urlrewrite
 urlscan
+urlscan.io
 urlupdate
 uru
 usage
@@ -10412,7 +10402,6 @@ vi
 vib
 video
 videos
-vie
 viewer
 vigenere
 vim
