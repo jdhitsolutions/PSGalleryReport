@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Sunday, 30 June 2024 02:11:22 UTC
+Updated: Sunday, 30 June 2024 09:51:53 UTC
 
 .bat
 .env
@@ -327,7 +327,6 @@ anaconda
 analysis
 analysisservices
 analyst
-analyth
 analytics
 analyticsrules
 analyze
@@ -651,6 +650,7 @@ azforensics
 azkeyvault
 aznetworking
 aznetworkinterface
+aznicdetails
 azops
 azpublicipaddress
 azresources
@@ -749,7 +749,6 @@ azuretestplan
 azurevirtualdesktop
 azurevirtualmachines
 azurevm
-azurevpn
 azvm
 b2
 back
@@ -913,7 +912,6 @@ bootstrap
 bootstrapping
 bop
 bot
-bots
 botservice
 bouncer
 boundaries
@@ -1102,6 +1100,7 @@ certificatepolicy
 certificates
 certificateservices
 certificatesmanagement
+certinia
 certutil
 cf
 cfn
@@ -1199,7 +1198,6 @@ clccontrol
 clccontrolapiv1
 clccontrolapiv2
 clean-up
-cleanmgr
 cleanup
 cleanup-orphans
 clear
@@ -1540,6 +1538,7 @@ cosmos
 cosmosdb
 cost
 cost-management
+costmanagement
 costoptimization
 couchbase
 couchdb
@@ -1945,6 +1944,7 @@ diff
 difference
 dig
 digikam
+digital
 digital-forensics
 digitalforensics
 digitalocean
@@ -2420,7 +2420,6 @@ eventmonitoring
 eventprocessor
 events
 eventsubscription
-eventviewer
 eventwatch
 evergreen
 evernote
@@ -2541,6 +2540,7 @@ fast
 fast-dds
 fast-ping
 fastfilepub
+fastgit
 fastlinq
 fastlookup
 fastping
@@ -2637,6 +2637,7 @@ financeandoperations
 financeoperations
 financial
 financialedge
+financials
 find
 find-call
 find-caller
@@ -2649,6 +2650,7 @@ findplace
 findproxyforurl
 fine-print
 fine-tuning
+finops
 firebird
 firefox
 firewall
@@ -2951,6 +2953,7 @@ google-chrome
 google-fonts
 google-histogram
 google-sankey
+google-table
 googleadsv2
 googlecloudplatform
 googledrive
@@ -3174,6 +3177,7 @@ hls
 hockey
 hol
 holiday
+home
 home_automation
 homebrew
 homelandsecurity
@@ -3508,6 +3512,7 @@ iperf
 ipfy.org
 iphone
 ipilot
+iplookup
 ipmaths
 ipp
 iprange
@@ -3698,7 +3703,6 @@ kodi
 korn
 kotlin
 kql
-kraken
 krane
 krbtgt
 krick
@@ -4194,6 +4198,7 @@ microsoft365
 microsoft365dsc
 microsoftauthenticationlibrary
 microsoftazure
+microsoftcloud
 microsoftdefender
 microsoftdefenderatp
 microsoftdefenderforidentity
@@ -4310,6 +4315,7 @@ mp3
 mp4
 mpc
 mpeg
+mpn
 mrfk
 mrfylke
 mrvl_fc_powerkit
@@ -4425,8 +4431,6 @@ name
 name-of-dogs
 namedpipe
 nameit
-nameresolution
-names
 namespace
 naming
 nana
@@ -4496,6 +4500,7 @@ networkfirewall
 networkfunction
 networkinfo
 networking
+networkinterfaces
 networkloadbalancer
 networkpolicyserver
 networkscan
@@ -4566,6 +4571,8 @@ nord
 nordtools
 normal
 norskale
+norway
+norwegian
 nos
 nosql
 note
@@ -8349,6 +8356,9 @@ pspath
 pspersonio
 pspowerhour
 psprofiler
+psproject
+psprojectcreator
+psprojectgenerator
 psprovider
 psprtg
 pspublicapi
@@ -8404,6 +8414,7 @@ publicip
 publish
 publish-module
 publishedmodules
+publisher
 publishers
 publishing
 pubsub
@@ -8457,8 +8468,10 @@ qlgc_fc_powerkit
 qlik
 qlik-api
 qlik-sense
+qlik-view
 qliksesne
 qlikview
+qlikview-cli
 qlogic
 qlogicfastlinqpowerkit
 qlogicfcpowerkit
@@ -8629,6 +8642,7 @@ regex
 region
 regions
 regiser-argumentcompleter
+register
 register-argumentcompleter
 registered
 registrar
@@ -8994,6 +9008,7 @@ screensaver
 screenscraping
 screenshot
 script
+script_version
 script-module
 script-to-assembly
 script-to-executable
@@ -9092,6 +9107,7 @@ selectxmlinfo
 selenium
 self
 self-hosted
+self-service
 self-signed
 selfdispatch
 selfhelp
@@ -9540,6 +9556,7 @@ sslvpn
 ssm
 sso
 sspi
+sspr
 ssrs
 ssst
 sstp
@@ -9873,7 +9890,6 @@ terrafun
 terragrunt
 tesla
 test
-test-automation
 test-dscconfiguration
 test-internetconnection
 test-modulemanifest
@@ -10006,6 +10022,7 @@ torrents
 toshiba
 totp
 touch
+toughswitch
 tower
 tphubps
 tpm
@@ -10018,7 +10035,6 @@ tracert
 tracing
 tracker
 tracking
-trading
 traffic
 trafficfiltering
 trafficmanager
@@ -10283,7 +10299,6 @@ urlhaus
 urlredirections
 urlrewrite
 urlscan
-urlscan.io
 urlupdate
 uru
 usage
@@ -10397,6 +10412,7 @@ vi
 vib
 video
 videos
+vie
 viewer
 vigenere
 vim
@@ -10406,7 +10422,6 @@ virsh
 virtual
 virtualappliance
 virtualbox
-virtualboxguestadditions
 virtualdesktop
 virtualdesktopdevops
 virtualengine
