@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 01 July 2024 02:16:33 UTC
+Updated: Monday, 01 July 2024 09:52:06 UTC
 
 .bat
 .env
@@ -197,6 +197,7 @@ adminbyrequest
 admindirectory
 administration
 administrative
+administrativeunit
 administrativeuser
 administrator
 admintools
@@ -332,6 +333,7 @@ analyticsrules
 analyze
 analyzer
 analyzerrules
+anchor
 and
 android
 anet
@@ -1502,6 +1504,7 @@ conversiontool
 convert
 convert-dtexceptiontomessage
 convert-movietogif
+convert-sid
 convert-windowsimage
 converter
 convertfrom
@@ -1605,7 +1608,6 @@ credmanager
 crescendo
 crescendobuilt
 cresendo
-crestron
 crime
 crlf
 crm
@@ -1708,6 +1710,7 @@ dac
 dacfx
 dacl
 dacpac
+dacpackage
 dagger
 daily
 dane
@@ -1821,7 +1824,6 @@ debug
 debug-files
 debugger
 debugging
-decimal
 decimalip
 decimalzero
 declarative
@@ -2350,7 +2352,6 @@ eop
 eperl
 ephesoft
 epicor
-episode
 epplus
 eprosima
 epub
@@ -2777,7 +2778,6 @@ full-metal-gnome
 fullclr
 fulljoin
 fullmetalgnome
-fullscreen
 fun
 function
 function-testing
@@ -3548,6 +3548,7 @@ issues
 isvalidemail
 isvalidip
 it
+it-support
 it-tool
 it-tools
 italic-text
@@ -3885,6 +3886,7 @@ lock
 lockbox
 lockdisplaytimeout
 lockdown
+lockfile
 locking
 lockoutreport
 lockscreen
@@ -4180,7 +4182,6 @@ microservices
 microsoft
 microsoft_365
 microsoft_azure
-microsoft_endpoint_manager
 microsoft_online
 microsoft_teams
 microsoft-graph
@@ -4249,6 +4250,7 @@ mittelschule
 mixedreality
 mixer
 mkdocs
+mkpasswd
 mksapiviewer
 ml
 ml.net
@@ -4530,6 +4532,7 @@ newrelic
 news
 newspaper
 newtonsoft
+newtonsoft.json
 nexenta
 nexentastor
 nexthink
@@ -4929,6 +4932,7 @@ passivetotal
 passkey
 passphrase
 passphraser passphrase password generator entropy
+passwd
 password
 password_generation
 password-generator
@@ -5362,6 +5366,7 @@ process-inspector
 processing
 processmitigation
 processor
+procmap
 procs
 producer
 product
@@ -8439,7 +8444,6 @@ pushover
 pushoverapi
 putty
 pve
-pvr
 pvs
 pwa
 pwned
@@ -8512,7 +8516,6 @@ r53
 rabbit
 rabbitmq
 rackspace
-radarr
 radio
 raidcontrollercmdlets
 railways
@@ -8569,7 +8572,6 @@ read-slog
 readable
 reader
 readiness
-readme
 readpdf
 readthedocs
 real-time
@@ -8646,7 +8648,6 @@ registrar
 registration
 registry
 regression
-regular-expression
 regularexpression
 regularexpressions
 reinstall
@@ -8725,7 +8726,6 @@ requestfiltering
 requiredmodules
 requirements
 res
-rescan
 rescuetime
 reservation
 reservations
@@ -8734,7 +8734,6 @@ resharper
 resize
 resolution
 resolve
-resolve-dnsname
 resolve-stache
 resolve-template
 resolver
@@ -8904,7 +8903,6 @@ sailpoint
 sale
 sales
 salesforce
-salesloft
 salt
 salt-api
 saltstack
@@ -9057,7 +9055,6 @@ secretsanta
 secretscanner
 secretserver
 secretsmanager
-secretstore
 secretvault
 section
 secur32
@@ -9141,7 +9138,6 @@ serial
 serialization
 serialize
 sericemanagement
-series
 serilog
 serilog-for-powershell
 serilog-sink
@@ -9206,7 +9202,13 @@ sftp
 sfx
 sgopher
 sgw
+sha-256
+sha-512
+sha-crypt
 sha256
+sha256crypt
+sha512crypt
+shacrypt
 shadow
 shadowcopy
 shadowcopybackups
@@ -9508,6 +9510,7 @@ sqllocaldb
 sqlpackage
 sqlplus
 sqlproj
+sqlproject
 sqlps
 sqlquery
 sqlserver
@@ -10316,7 +10319,6 @@ userworkstations
 usg
 usps
 utc
-utf-8
 utf-sig
 utf7
 utf8
@@ -10733,7 +10735,6 @@ windowsserver2019
 windowsservercoresecurity
 windowsserverguisecurity
 windowsservice
-windowsservices
 windowsstore
 windowsterminal
 windowstimezone
