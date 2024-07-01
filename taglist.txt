@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Sunday, 30 June 2024 17:51:46 UTC
+Updated: Monday, 01 July 2024 02:16:33 UTC
 
 .bat
 .env
@@ -197,7 +197,6 @@ adminbyrequest
 admindirectory
 administration
 administrative
-administrativeunit
 administrativeuser
 administrator
 admintools
@@ -327,12 +326,12 @@ anaconda
 analysis
 analysisservices
 analyst
+analyth
 analytics
 analyticsrules
 analyze
 analyzer
 analyzerrules
-anchor
 and
 android
 anet
@@ -724,6 +723,7 @@ azurepowershell
 azurerepos
 azureresourcemanager
 azureresources
+azureresourcestuff
 azurerestapispecs
 azurerm
 azurerms
@@ -912,6 +912,7 @@ bootstrap
 bootstrapping
 bop
 bot
+bots
 botservice
 bouncer
 boundaries
@@ -921,6 +922,7 @@ box
 bpmn
 brainy
 branch
+branch-rename
 brave
 brawlapi
 brawlstars
@@ -1197,6 +1199,7 @@ clccontrol
 clccontrolapiv1
 clccontrolapiv2
 clean-up
+cleanmgr
 cleanup
 cleanup-orphans
 clear
@@ -1499,7 +1502,6 @@ conversiontool
 convert
 convert-dtexceptiontomessage
 convert-movietogif
-convert-sid
 convert-windowsimage
 converter
 convertfrom
@@ -1604,6 +1606,7 @@ crescendo
 crescendobuilt
 cresendo
 crestron
+crime
 crlf
 crm
 crm2016
@@ -1705,7 +1708,6 @@ dac
 dacfx
 dacl
 dacpac
-dacpackage
 dagger
 daily
 dane
@@ -1882,6 +1884,7 @@ der
 description
 deserialize
 design
+design-pattern
 desired
 desiredstate
 desiredstateconfiguration
@@ -2417,6 +2420,7 @@ eventmonitoring
 eventprocessor
 events
 eventsubscription
+eventviewer
 eventwatch
 evergreen
 evernote
@@ -2905,6 +2909,7 @@ git-clone
 git-flow
 git-lfs
 git-proxy
+git-rename
 git-stat
 gitcmdline
 gitdesktop
@@ -3543,7 +3548,6 @@ issues
 isvalidemail
 isvalidip
 it
-it-support
 it-tool
 it-tools
 italic-text
@@ -3699,6 +3703,7 @@ kodi
 korn
 kotlin
 kql
+kraken
 krane
 krbtgt
 krick
@@ -3873,13 +3878,13 @@ locale
 localgroup
 localgroupmember
 localization
+localpolicy
 location
 locationbasedservices
 lock
 lockbox
 lockdisplaytimeout
 lockdown
-lockfile
 locking
 lockoutreport
 lockscreen
@@ -4244,7 +4249,6 @@ mittelschule
 mixedreality
 mixer
 mkdocs
-mkpasswd
 mksapiviewer
 ml
 ml.net
@@ -4292,7 +4296,6 @@ monitoring_objects
 monitoring_variables
 monitoringplugins
 monitoringsolutions
-monitors
 monthlyupdate
 moodle
 moonshot
@@ -4398,6 +4401,7 @@ mutation
 mute
 mutex
 mva
+mvc
 mvn
 mvp
 mx
@@ -4526,7 +4530,6 @@ newrelic
 news
 newspaper
 newtonsoft
-newtonsoft.json
 nexenta
 nexentastor
 nexthink
@@ -4926,7 +4929,6 @@ passivetotal
 passkey
 passphrase
 passphraser passphrase password generator entropy
-passwd
 password
 password_generation
 password-generator
@@ -5356,10 +5358,10 @@ privileges
 pro
 probe
 process
+process-inspector
 processing
 processmitigation
 processor
-procmap
 procs
 producer
 product
@@ -8346,6 +8348,7 @@ psnavigation
 psnexosisclient
 psngenposh
 psobject
+psoutlog
 pspath
 pspersonio
 pspowerhour
@@ -8512,6 +8515,7 @@ rackspace
 radarr
 radio
 raidcontrollercmdlets
+railways
 rainbow
 raisers
 raisersedge
@@ -8693,6 +8697,9 @@ removetypeaccelerators
 remux
 ren-isac
 rename
+rename-git
+rename-git-branch
+rename-gitbranch
 repair-msauth
 reparsepoint
 repeat
@@ -8871,6 +8878,7 @@ runner
 runspace
 runspacepool
 runspaces
+runtime
 runtimedefinedparameter
 runtimedefinedparameterdictionary
 runway
@@ -9198,13 +9206,7 @@ sftp
 sfx
 sgopher
 sgw
-sha-256
-sha-512
-sha-crypt
 sha256
-sha256crypt
-sha512crypt
-shacrypt
 shadow
 shadowcopy
 shadowcopybackups
@@ -9506,7 +9508,6 @@ sqllocaldb
 sqlpackage
 sqlplus
 sqlproj
-sqlproject
 sqlps
 sqlquery
 sqlserver
@@ -9869,6 +9870,7 @@ terminal-interface
 terminal-services
 terminal.gui
 terminalnotifier
+terminalvelocity
 termset
 terraform
 terraform-docs
@@ -10024,6 +10026,7 @@ tracert
 tracing
 tracker
 tracking
+trading
 traffic
 trafficfiltering
 trafficmanager
@@ -10402,6 +10405,7 @@ vi
 vib
 video
 videos
+vie
 viewer
 vigenere
 vim
@@ -10411,6 +10415,7 @@ virsh
 virtual
 virtualappliance
 virtualbox
+virtualboxguestadditions
 virtualdesktop
 virtualdesktopdevops
 virtualengine
@@ -10771,7 +10776,6 @@ wmipermanentevents
 wol
 wolfram
 wolframalpha
-woocommerce
 woolworths
 woolworthsrewards
 word
@@ -10921,7 +10925,6 @@ yetanotherhelloworld
 yml
 ynab
 youtube
-youtube-dl
 youtubeextractor
 yq
 yubaba
