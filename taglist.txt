@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Tuesday, 02 July 2024 09:51:50 UTC
+Updated: Tuesday, 02 July 2024 17:51:52 UTC
 
 .bat
 .env
@@ -221,6 +221,7 @@ adsp
 adsync
 aduser
 aduseraccountlockout
+adusergroups
 adv180002
 adv180018
 adv190013
@@ -245,6 +246,7 @@ aftereffects
 agenda
 agent
 aggregates
+aggregation
 agile
 agility
 agm
@@ -351,6 +353,8 @@ anova
 ansi
 ansible
 ansible-control-node
+ansible-playbook
+ansible-vault
 ansiblecontrolnode
 anti-malware
 antimalwarescaninterface
@@ -628,6 +632,7 @@ aws-lambda
 aws-vault
 aws.tools.powershell
 awscli
+awspricelist
 axapta
 axinom
 axis
@@ -671,6 +676,7 @@ azure-devops
 azure-forensics
 azure-functions
 azure-pipelines
+azure-resource-graph
 azure-ssis
 azureactivedirectory
 azuread
@@ -988,6 +994,7 @@ businesstime
 bxor
 bydesign
 byexample
+bynarypsmodule
 byovd
 byte
 bytearray
@@ -1134,6 +1141,7 @@ chefconf2016
 chenxizhang
 cherrypy
 cherwell
+chfs
 chi
 china
 chmod
@@ -1345,6 +1353,7 @@ combine
 comdata
 comic
 comical
+comics
 command
 command_line
 command-line-interface
@@ -1553,6 +1562,7 @@ cover
 coverage
 coveralls
 coveralls.io
+covid
 covid-19
 cpm
 cppm
@@ -1670,6 +1680,7 @@ customization
 customlocation
 customlogs
 customproviders
+cutehttpfileserver
 cvad
 cve
 cve-2021-34527
@@ -2004,7 +2015,6 @@ distributionpointgroupmembers
 distrubtionpoint
 dividends
 diving
-division
 divoom
 diy
 dkim
@@ -2325,7 +2335,6 @@ entity
 entityframework
 entra
 entraid
-entraidgovernance
 entropy
 enum
 enumerable
@@ -3215,7 +3224,6 @@ hpesynergy
 hponeview
 hpwritemanager
 hris
-hrprovisioning
 hsdp
 hsl
 html
@@ -3502,7 +3510,6 @@ ipbroadcast
 ipc
 ipcalc
 ipcalculator
-ipconfig
 iperf
 ipfy.org
 iphone
@@ -3594,6 +3601,7 @@ job
 jobcan
 jobs
 jobscheduler
+johnshopkins
 join
 join-object
 jojoba
@@ -3649,7 +3657,6 @@ kb
 kbarticle
 kdbx
 kdialog
-keenetic
 keepachangelog
 keepass
 keepasslib
@@ -4057,6 +4064,7 @@ marketplacepublisher
 marking
 marklogic
 marquee
+marvel
 marvell
 marvell_semiconductor_inc
 marvellfcpowerkit
@@ -4218,6 +4226,7 @@ migrate
 migration
 migration-tool
 migrations
+mikrotik
 milestone
 mim
 mime
@@ -4778,7 +4787,6 @@ operationsmanagementsuiteagent
 operationvalidation
 operatoraccesscontrol
 opml
-ops
 opsi
 opsmgr
 optics
@@ -5066,6 +5074,7 @@ planner
 plantuml
 plaster
 platform
+platyps
 play
 playback
 playbook
@@ -5327,6 +5336,7 @@ prettyprinter
 preview
 previousversions
 price
+pricelist
 primenumber
 primera
 principal
@@ -8350,6 +8360,9 @@ pspath
 pspersonio
 pspowerhour
 psprofiler
+psproject
+psprojectcreator
+psprojectgenerator
 psprovider
 psprtg
 pspublicapi
@@ -8575,6 +8588,7 @@ rebootnodeifneeded
 reckon
 recommendation
 reconcile
+reconnaissance
 record
 recording
 recordsmanagement
@@ -8759,6 +8773,7 @@ retention
 retro
 retry
 returnuserprofile
+retype
 reuse
 reverse-engineer
 reverse-string
@@ -8829,6 +8844,7 @@ route
 route53
 routeconfig
 router
+routeros
 routes
 routetable
 routine
@@ -8878,7 +8894,6 @@ russia
 rust
 rust-lang
 ryanairps
-ryver
 s.ds.p
 s1
 s3
@@ -8966,6 +8981,7 @@ scheduling
 schema
 schemaextensions
 scheme
+school-information-system
 schoolholidays
 schulung
 schulverwaltung
@@ -9298,6 +9314,7 @@ skatterbrainz
 skeleton-loader
 skia
 skiasharp
+skolnilogin
 sku
 skunklab
 sky
@@ -9485,6 +9502,7 @@ sqlagent
 sqlautomation
 sqlbits
 sqlbrowser
+sqlbulkcopy
 sqlchangeautomation
 sqlclient
 sqlcmd
@@ -9682,6 +9700,7 @@ summary
 summit
 sumologic
 supercell
+superheros
 supermarket
 support
 support-tool
@@ -9997,7 +10016,6 @@ toolkit
 tools
 tools4ever
 topdesk
-topgrade
 topics
 topology
 tor
@@ -10054,6 +10072,7 @@ trec
 tree
 tree-structure
 treesize
+treffynnon
 trein
 trello
 trellops
@@ -10298,6 +10317,7 @@ user
 user-environment
 userdiscovery
 usergroup
+usergroups
 userinterface
 usermanagement
 username
@@ -10378,7 +10398,6 @@ veeam
 veeampn
 veeva
 venafi
-vencord
 vendor
 venue
 venvlink
@@ -10682,6 +10701,7 @@ windows-lab
 windows-path
 windows-powershell
 windows-registry
+windows-remoting
 windows-server-2016
 windows-terminal
 windows-user-folder
@@ -10769,7 +10789,6 @@ wmipermanentevents
 wol
 wolfram
 wolframalpha
-woocommerce
 woolworths
 woolworthsrewards
 word
