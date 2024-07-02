@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Tuesday, 02 July 2024 02:09:30 UTC
+Updated: Tuesday, 02 July 2024 09:51:50 UTC
 
 .bat
 .env
@@ -245,7 +245,6 @@ aftereffects
 agenda
 agent
 aggregates
-aggregation
 agile
 agility
 agm
@@ -352,8 +351,6 @@ anova
 ansi
 ansible
 ansible-control-node
-ansible-playbook
-ansible-vault
 ansiblecontrolnode
 anti-malware
 antimalwarescaninterface
@@ -631,7 +628,6 @@ aws-lambda
 aws-vault
 aws.tools.powershell
 awscli
-awspricelist
 axapta
 axinom
 axis
@@ -675,7 +671,6 @@ azure-devops
 azure-forensics
 azure-functions
 azure-pipelines
-azure-resource-graph
 azure-ssis
 azureactivedirectory
 azuread
@@ -993,7 +988,6 @@ businesstime
 bxor
 bydesign
 byexample
-bynarypsmodule
 byovd
 byte
 bytearray
@@ -1140,7 +1134,6 @@ chefconf2016
 chenxizhang
 cherrypy
 cherwell
-chfs
 chi
 china
 chmod
@@ -1352,7 +1345,6 @@ combine
 comdata
 comic
 comical
-comics
 command
 command_line
 command-line-interface
@@ -1476,6 +1468,7 @@ containers
 containment
 contentprep
 context
+context-menu-shortcut
 continious-deploy
 continious-integration
 continiousintergration
@@ -1560,7 +1553,6 @@ cover
 coverage
 coveralls
 coveralls.io
-covid
 covid-19
 cpm
 cppm
@@ -1678,7 +1670,6 @@ customization
 customlocation
 customlogs
 customproviders
-cutehttpfileserver
 cvad
 cve
 cve-2021-34527
@@ -3603,7 +3594,6 @@ job
 jobcan
 jobs
 jobscheduler
-johnshopkins
 join
 join-object
 jojoba
@@ -3622,6 +3612,7 @@ json-transform
 json+
 json2ps
 jsonplus
+jsonwebencryption
 jsonwebkey
 jsonwebsignature
 jsonwebtoken
@@ -3638,6 +3629,7 @@ jupyter
 jupytor
 justenoughadministration
 jvm
+jwe
 jwk
 jws
 jwt
@@ -4065,7 +4057,6 @@ marketplacepublisher
 marking
 marklogic
 marquee
-marvel
 marvell
 marvell_semiconductor_inc
 marvellfcpowerkit
@@ -4502,6 +4493,7 @@ networkcontroller
 networkdiscovery
 networkdrives
 networkfirewall
+networkfunction
 networkinfo
 networking
 networkinterfaces
@@ -5074,12 +5066,12 @@ planner
 plantuml
 plaster
 platform
-platyps
 play
 playback
 playbook
 player
 playlists
+playwright
 pleasant
 pleasantpasswordserver
 plex
@@ -5335,7 +5327,6 @@ prettyprinter
 preview
 previousversions
 price
-pricelist
 primenumber
 primera
 principal
@@ -8359,9 +8350,6 @@ pspath
 pspersonio
 pspowerhour
 psprofiler
-psproject
-psprojectcreator
-psprojectgenerator
 psprovider
 psprtg
 pspublicapi
@@ -8587,7 +8575,6 @@ rebootnodeifneeded
 reckon
 recommendation
 reconcile
-reconnaissance
 record
 recording
 recordsmanagement
@@ -8767,11 +8754,11 @@ restart
 restful
 restore
 resume
+retail
 retention
 retro
 retry
 returnuserprofile
-retype
 reuse
 reverse-engineer
 reverse-string
@@ -8979,7 +8966,6 @@ scheduling
 schema
 schemaextensions
 scheme
-school-information-system
 schoolholidays
 schulung
 schulverwaltung
@@ -9234,6 +9220,7 @@ sharepoint_online
 sharepoint-on-prem
 sharepoint-online
 sharepoint-product-configuration-wizard
+sharepoint2013
 sharepointdevelopmentcommunity
 sharepointonline
 sharepointpnp
@@ -9311,7 +9298,6 @@ skatterbrainz
 skeleton-loader
 skia
 skiasharp
-skolnilogin
 sku
 skunklab
 sky
@@ -9499,7 +9485,6 @@ sqlagent
 sqlautomation
 sqlbits
 sqlbrowser
-sqlbulkcopy
 sqlchangeautomation
 sqlclient
 sqlcmd
@@ -9697,7 +9682,6 @@ summary
 summit
 sumologic
 supercell
-superheros
 supermarket
 support
 support-tool
@@ -10070,7 +10054,6 @@ trec
 tree
 tree-structure
 treesize
-treffynnon
 trein
 trello
 trellops
@@ -10495,6 +10478,7 @@ volkskrant
 volta
 volume
 volumeshadowcopy
+volumio
 voperator
 vorbis
 vovin
@@ -10698,7 +10682,6 @@ windows-lab
 windows-path
 windows-powershell
 windows-registry
-windows-remoting
 windows-server-2016
 windows-terminal
 windows-user-folder
