@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Tuesday, 02 July 2024 17:51:52 UTC
+Updated: Wednesday, 03 July 2024 02:08:58 UTC
 
 .bat
 .env
@@ -992,7 +992,6 @@ businessobjects
 businessrulesengine
 businesstime
 bxor
-bydesign
 byexample
 bynarypsmodule
 byovd
@@ -1683,7 +1682,6 @@ customproviders
 cutehttpfileserver
 cvad
 cve
-cve-2021-34527
 cvrf
 cvss
 cwi
@@ -1712,7 +1710,6 @@ dac
 dacfx
 dacl
 dacpac
-dacpackage
 dagger
 daily
 dane
@@ -1910,7 +1907,6 @@ devdeer
 devdrive
 developer
 developer_command_prompt
-developercommandprompt
 developermode
 development
 devenv
@@ -2015,6 +2011,7 @@ distributionpointgroupmembers
 distrubtionpoint
 dividends
 diving
+division
 divoom
 diy
 dkim
@@ -2066,7 +2063,6 @@ dockerize
 dockerswarm
 docking
 docs
-docset
 document
 documentation
 documentdb
@@ -2669,8 +2665,6 @@ fitbit
 fits
 five
 five9
-fix-log
-fix-protocol
 fixlet
 fixpack
 flac
@@ -3187,7 +3181,6 @@ homebrew
 homelandsecurity
 homeschooling
 hon
-hooking
 horizon
 horizontal
 hornbill
@@ -3510,6 +3503,7 @@ ipbroadcast
 ipc
 ipcalc
 ipcalculator
+ipconfig
 iperf
 ipfy.org
 iphone
@@ -3657,6 +3651,7 @@ kb
 kbarticle
 kdbx
 kdialog
+keenetic
 keepachangelog
 keepass
 keepasslib
@@ -3848,7 +3843,6 @@ liquid
 liquit
 liquit.com
 list
-list_files
 list-directory
 list-item
 listener
@@ -4244,7 +4238,6 @@ miration-step
 mirror
 misc
 miscellaneous
-mitigation
 mitre
 mitre_att&ck
 mitrend
@@ -4548,7 +4541,6 @@ nginx
 nhl
 nic
 nic.ru
-nightmare
 ninite
 ninja
 ninjaone
@@ -4787,6 +4779,7 @@ operationsmanagementsuiteagent
 operationvalidation
 operatoraccesscontrol
 opml
+ops
 opsi
 opsmgr
 optics
@@ -5238,6 +5231,7 @@ powerbot
 powercli
 powercligoodies
 powercommander
+powerconfiguration
 powerdex
 powerforensics
 powergraph
@@ -5346,7 +5340,6 @@ printer
 printers
 printershare
 printing
-printnightmare
 printserver
 prism
 prism_element
@@ -7253,7 +7246,6 @@ psdesiredstateconfiguration
 psdevops
 psdocs
 psdocs-documents
-psdocsgenerator
 psdrawio
 psdrive
 psdrives
@@ -8360,9 +8352,6 @@ pspath
 pspersonio
 pspowerhour
 psprofiler
-psproject
-psprojectcreator
-psprojectgenerator
 psprovider
 psprtg
 pspublicapi
@@ -8773,7 +8762,6 @@ retention
 retro
 retry
 returnuserprofile
-retype
 reuse
 reverse-engineer
 reverse-string
@@ -8894,6 +8882,7 @@ russia
 rust
 rust-lang
 ryanairps
+ryver
 s.ds.p
 s1
 s3
@@ -9480,7 +9469,6 @@ split
 splunk
 spn
 spo
-spooler
 sport
 sports
 sports-tracker
@@ -9502,7 +9490,6 @@ sqlagent
 sqlautomation
 sqlbits
 sqlbrowser
-sqlbulkcopy
 sqlchangeautomation
 sqlclient
 sqlcmd
@@ -9521,7 +9508,6 @@ sqllocaldb
 sqlpackage
 sqlplus
 sqlproj
-sqlproject
 sqlps
 sqlquery
 sqlserver
@@ -9830,7 +9816,6 @@ taskmanagement
 tasks
 taskscheduler
 tatux
-taxjar
 taxonomy
 tcp
 tcp/ip
@@ -10016,6 +10001,7 @@ toolkit
 tools
 tools4ever
 topdesk
+topgrade
 topics
 topology
 tor
@@ -10204,7 +10190,6 @@ ud-tagcloud
 ud-timeline
 ud-timeout
 ud-tool
-ud-toploader
 ud-trendline
 ud-typing
 ud-window
@@ -10398,6 +10383,7 @@ veeam
 veeampn
 veeva
 venafi
+vencord
 vendor
 venue
 venvlink
@@ -10789,6 +10775,7 @@ wmipermanentevents
 wol
 wolfram
 wolframalpha
+woocommerce
 woolworths
 woolworthsrewards
 word
