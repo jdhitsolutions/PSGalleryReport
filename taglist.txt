@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Thursday, 04 July 2024 17:52:08 UTC
+Updated: Friday, 05 July 2024 02:08:39 UTC
 
 .bat
 .env
@@ -103,6 +103,7 @@ acl
 acme
 acmesharp
 acmesharp_ext
+act-on
 act!
 actifio
 actifiogo
@@ -493,7 +494,6 @@ asciiart
 asdatabase
 asigra
 asjob
-asm
 asn.1
 asn1
 asnbank
@@ -551,6 +551,7 @@ auditpolicy
 audits
 aumid
 aut
+auth
 auth0
 authenticate
 authentication
@@ -600,6 +601,8 @@ autotaskapi
 autotaskpsa
 autotyper
 autounattend
+autoupdate
+autoupdate-script
 autowrapper
 autoyast
 auvik
@@ -715,6 +718,7 @@ azurekeyvault
 azuremigrate
 azuremonitor
 azurenetworking
+azurepack
 azurepipelines
 azurepolicy
 azurepowershell
@@ -1030,6 +1034,7 @@ carbonintensity
 card
 cardwirth
 cares
+cargo
 carousel
 carrier
 cartoon
@@ -1176,6 +1181,7 @@ cireson
 ciresonassetmanagement
 ciresonportal
 cis
+cisa
 cisco
 ciscoucscmdlets
 ciscoucsdsc
@@ -1243,6 +1249,7 @@ cloud-iq
 cloudant
 cloudbees
 cloudberry
+cloudblue
 cloudbolt
 cloudbridge
 cloudendure
@@ -1266,10 +1273,12 @@ cloudshell
 clueser
 cluster
 clusterminimumvalues
+clusterplacementgroups
 clusterplugins
 cmaccounts
 cmake
 cmakepresets.json
+cmbuild
 cmclibnet
 cmclustermaintenance
 cmd
@@ -1285,6 +1294,7 @@ cmhealthcheck
 cminifile
 cmnetworkports
 cms
+cmsiteconfig
 cmsmessage
 cmtrace
 cmwt
@@ -1417,6 +1427,7 @@ configurationapi
 configurationdata
 configurationkey
 configurationmanagement
+configurationmanager
 configurationprofile
 configurations
 configure
@@ -1488,6 +1499,7 @@ convereter
 converged_data_management
 conversational
 conversion
+conversiontool
 convert
 convert-dtexceptiontomessage
 convert-movietogif
@@ -1678,7 +1690,6 @@ cyber
 cyberark
 cyberark-api
 cyberark-dpa
-cyberark-identity
 cyberdrain
 cybereason
 cybersecurity
@@ -1786,6 +1797,7 @@ days-week
 db
 db2
 dba
+dbaas
 dbai
 dbase
 dbassistant
@@ -1825,8 +1837,6 @@ decryption
 dedicatedhsm
 deduplication
 deep
-deep-security
-deep-security-manager
 deepl
 deepvisibility
 def
@@ -1880,6 +1890,7 @@ desiredstate
 desiredstateconfiguration
 desk
 desktop
+desktops
 desktopvirtualization
 details
 detect
@@ -2186,6 +2197,7 @@ dvls
 dword
 dxexpeditions
 dynamic
+dynamic-host-configuration-protocol
 dynamic-privileged-access
 dynamicdistributiongroups
 dynamicdnsoverhttps
@@ -2268,6 +2280,8 @@ email
 email-address
 emailaddressupdate
 emailautomation
+emaildataplane
+emailmanagment
 emailnotification
 emailnotificationcomponent
 emailsecurity
@@ -2349,6 +2363,7 @@ error-log
 errorcode
 errorfile
 errors
+errorview
 eryph
 esae
 escape
@@ -2408,7 +2423,6 @@ eventsubscription
 eventviewer
 eventwatch
 evergreen
-evernote
 everydaypowershell
 everydayrewards
 everything
@@ -2514,7 +2528,6 @@ facts
 faf
 failedlogin
 failure
-fake
 falcon
 fallbackstatuspoint
 fanarttv
@@ -2768,6 +2781,7 @@ function
 function-testing
 functionality
 functionalprogramming
+functionapp
 functions
 funds
 funny
@@ -2877,7 +2891,6 @@ get-uptime
 getfirmwareenvironmentvariable
 getfirmwaretype
 ggplot
-gh
 gh-actions
 ghactions
 ghc
@@ -3078,6 +3091,7 @@ hbase
 hci
 hcl
 hcm
+hcx
 hdfs
 hdinsight
 hdinsightonaks
@@ -3110,6 +3124,7 @@ helpdesk
 helpdoc
 helper
 helper-functions
+helperfunctions
 helpers
 helpfile
 helpful
@@ -3414,6 +3429,7 @@ instance
 instant
 instapush
 instorage
+int
 intacct
 integrated
 integratedscriptingeditor
@@ -3829,6 +3845,7 @@ liquid
 liquit
 liquit.com
 list
+list_files
 list-directory
 list-item
 listener
@@ -4005,6 +4022,7 @@ managed-identity
 manageddevices
 manageddisks
 managedidentities
+managedidentity
 managednetworkfabric
 managedserviceidenity
 managedserviceidentity
@@ -4603,6 +4621,7 @@ nuget.exe
 nuget.org
 number
 numlock
+nummapper
 nunit
 nupkg
 nuspec
@@ -4654,6 +4673,7 @@ oda
 odata
 odbc
 odfb
+odin
 odoo
 oem-charset
 offboarding
@@ -5058,6 +5078,7 @@ playback
 playbook
 player
 playlists
+playwright
 pleasant
 pleasantpasswordserver
 plex
@@ -5163,7 +5184,6 @@ poshy-wrap-docker-compose
 poshy-wrap-dotnet
 poshy-wrap-forgit
 poshy-wrap-gem
-poshy-wrap-gh
 poshy-wrap-git
 poshy-wrap-git-flow
 poshy-wrap-git-lfs
@@ -5198,6 +5218,7 @@ postgres
 postgresql
 potato
 pow
+powdrgit
 power
 power-apps
 power-cbr
@@ -5281,7 +5302,6 @@ powertab
 powertoolcmdlets
 powertooldsc
 ppdm
-ppk
 pposh
 pps
 ppt
@@ -6239,12 +6259,6 @@ pscommand_invoke-gitflowreleasepublish
 pscommand_invoke-gitflowreleasepublishcurrent
 pscommand_invoke-gitflowreleasestart
 pscommand_invoke-gitgui
-pscommand_invoke-githubapi
-pscommand_invoke-githubapi-bodyempty
-pscommand_invoke-githubapi-bodyfields
-pscommand_invoke-githubapi-bodyfile
-pscommand_invoke-githubapi-bodyjson
-pscommand_invoke-githubapi-bodyraw
 pscommand_invoke-gitlfsinstall
 pscommand_invoke-gitlfsmigrateimport
 pscommand_invoke-gitmerge
@@ -7649,12 +7663,6 @@ psfunction_invoke-gitflowreleasepublish
 psfunction_invoke-gitflowreleasepublishcurrent
 psfunction_invoke-gitflowreleasestart
 psfunction_invoke-gitgui
-psfunction_invoke-githubapi
-psfunction_invoke-githubapi-bodyempty
-psfunction_invoke-githubapi-bodyfields
-psfunction_invoke-githubapi-bodyfile
-psfunction_invoke-githubapi-bodyjson
-psfunction_invoke-githubapi-bodyraw
 psfunction_invoke-gitlfsinstall
 psfunction_invoke-gitlfsmigrateimport
 psfunction_invoke-gitmerge
@@ -8482,6 +8490,7 @@ quickbase
 quickbooks
 quicksetup
 quiz
+qumulo
 quota
 quote
 quoteoftheday
@@ -8545,6 +8554,7 @@ rdp
 rdpsession
 rdpsign
 rds
+rdsgw
 react-stockcharts
 read
 read-slog
@@ -8656,6 +8666,7 @@ remoteconnectionsmanager
 remotecontrol
 remotedesktop
 remotedesktopconnectionmanager
+remotedesktopgateway
 remotedesktopmanager
 remotedesktopservices
 remotefiles
@@ -8775,6 +8786,7 @@ rhapsody
 ribbon
 ribcl
 ricoh
+rightcloud
 rightjoin
 rights
 rightsizing
@@ -8865,6 +8877,7 @@ runtimedefinedparameterdictionary
 runway
 russia
 rust
+rust-lang
 ryanairps
 ryver
 s.ds.p
@@ -8991,6 +9004,7 @@ script-to-assembly
 script-to-executable
 scriptanalyzer
 scriptblock
+scriptblocklogging
 scriptbook
 scriptcop
 scriptcreation
@@ -9060,7 +9074,6 @@ security.txt
 securityassertionmarkuplanguage
 securitycenter
 securitycompliancecenter
-securitygroup
 securitygroups
 securityinsights
 securityoptions
@@ -9404,6 +9417,7 @@ sourcecontrol
 sourceforge
 sourcegraph
 sourcemod
+sourceone
 sourcepawn
 sourcequery
 sovcloud
@@ -9413,6 +9427,7 @@ spacex
 spam
 spanner
 spark
+sparkline
 sparklines
 spawn
 spdockit
@@ -9448,6 +9463,7 @@ splat
 splatting
 split
 splunk
+spn
 spo
 spooler
 sport
@@ -9565,6 +9581,7 @@ stat
 state
 static
 staticanalysis
+statichtmlsites
 statistical
 statistics
 stats
@@ -9655,6 +9672,7 @@ subscription
 subscriptiondefinition
 subset
 subsystem
+subtitle
 subversion
 success
 successfactors
@@ -10046,7 +10064,6 @@ trein
 trello
 trellops
 trend
-trend-micro
 trendmicro
 trevor
 trevorsullivan
@@ -10133,6 +10150,7 @@ ud-burger
 ud-button
 ud-buttonloader
 ud-buttonparticle
+ud-calendar
 ud-circle
 ud-component
 ud-confetti
@@ -10157,6 +10175,7 @@ ud-pivottable
 ud-progressstepbar
 ud-rangeslider
 ud-readingbar
+ud-scrollspy
 ud-selectdatetime
 ud-selector
 ud-signature
@@ -10175,7 +10194,6 @@ ud-toploader
 ud-trendline
 ud-typing
 ud-window
-ud-wordtree
 udcm
 udfeedback
 udp
@@ -10370,7 +10388,6 @@ venue
 venvlink
 vera
 veracrypt
-verbose psmodule
 verification
 verify
 version
@@ -10439,6 +10456,7 @@ vmhostgroup
 vmhostnetworkadapater
 vmmanagement
 vmnic
+vmrole
 vmss
 vmtovmhostrule
 vmtovmrule
@@ -10510,7 +10528,6 @@ vsts
 vsts-cli
 vulnerabilities
 vulnerability
-vulnerabilityassessment
 vulnerabilityscanning
 vum
 vvx
@@ -10772,7 +10789,9 @@ workflows
 workingdays
 workinghours
 workingtime
+workload
 workload-automation
+workloadidentity
 workloads
 workpoint
 workrequests
@@ -10793,6 +10812,7 @@ wql
 wrap
 wrap-text
 wrapper
+wrapperfunctions
 wrc
 wrike
 write
