@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Friday, 05 July 2024 17:51:48 UTC
+Updated: Saturday, 06 July 2024 02:06:57 UTC
 
 .bat
 .env
@@ -94,7 +94,6 @@ accord
 accord.net
 accordian
 account
-accounting
 accounts
 ace
 ack
@@ -299,6 +298,7 @@ alletra
 alloydb
 alm
 almrangers
+alpha
 alphafs
 alpine
 alt3
@@ -490,14 +490,12 @@ asc
 ascii
 ascii85
 asciiart
-asdatabase
 asigra
 asjob
 asm
 asn.1
 asn1
 asnbank
-asp
 asp.net
 aspnet
 aspnet_regiis
@@ -676,7 +674,6 @@ azure-forensics
 azure-functions
 azure-pipelines
 azure-resource-graph
-azure-ssis
 azureactivedirectory
 azuread
 azureadbackupandrestore
@@ -882,7 +879,6 @@ block
 block-kit
 blockchain
 blocks
-blog
 blogs
 bloodhound
 bloxone
@@ -1190,7 +1186,6 @@ ciscoucsdsc
 citation
 cite
 citrix
-citrixoptimizer
 civo
 cix
 class
@@ -1652,7 +1647,6 @@ culture
 cumulative
 cumulativeupdate
 cumulocity
-curious
 curl
 curlie
 currency
@@ -2352,15 +2346,14 @@ envvar
 envvars
 eol
 eop
-eperl
 ephesoft
+epicor
 episode
 epplus
 eprosima
 epub
 epv
 equality
-erb
 erp
 error
 error-log
@@ -2898,6 +2891,7 @@ get-uptime
 getfirmwareenvironmentvariable
 getfirmwaretype
 ggplot
+gh
 gh-actions
 ghactions
 ghc
@@ -2957,6 +2951,7 @@ google
 google-chrome
 google-fonts
 google-histogram
+google-sankey
 google-table
 googleadsv2
 googlecloudplatform
@@ -3076,6 +3071,7 @@ harden
 harden-windows-security
 hardening
 hardlink
+hardmatch
 hardware
 harperdb
 hartokens
@@ -3543,7 +3539,6 @@ isnumeric
 iso
 iso-3166-1
 iso-8601
-ispac
 isprime
 ispss
 issues
@@ -3625,7 +3620,6 @@ jsonwebencryption
 jsonwebkey
 jsonwebsignature
 jsonwebtoken
-jsp
 jumbo
 jump
 jump-location
@@ -3690,6 +3684,7 @@ kickstart
 kidrsa
 kill
 kindle
+kinetic
 kinopoisk
 kintone
 klantcontroles
@@ -3706,6 +3701,7 @@ korn
 kotlin
 kql
 kraken
+krane
 krbtgt
 krick
 kschemaplugin
@@ -3848,6 +3844,7 @@ liquid
 liquit
 liquit.com
 list
+list_files
 list-directory
 list-item
 listener
@@ -4074,6 +4071,7 @@ mask
 mass
 masstransit
 masterconfiguration
+match
 matcharray
 matchhashtable
 materialdesign
@@ -4123,6 +4121,7 @@ mediaplayer
 mediaservices
 mediawiki
 meditation
+medlemsservice
 meesman
 meeting
 meetup
@@ -4526,6 +4525,7 @@ new-rdpsession
 new-samcmapplicationfrompackagedefinitionsms
 new-samcmpackagefrompackagedefinitionsms
 new-system
+new-udmorph
 new-win32app
 newpassword
 newrelic
@@ -5184,6 +5184,7 @@ poshy-wrap-docker-compose
 poshy-wrap-dotnet
 poshy-wrap-forgit
 poshy-wrap-gem
+poshy-wrap-gh
 poshy-wrap-git
 poshy-wrap-git-flow
 poshy-wrap-git-lfs
@@ -5322,8 +5323,6 @@ preparead
 preparealldomains
 prepareschema
 prepend
-preprocessing
-preprocessor
 presentation
 presenter
 presto
@@ -6260,6 +6259,12 @@ pscommand_invoke-gitflowreleasepublish
 pscommand_invoke-gitflowreleasepublishcurrent
 pscommand_invoke-gitflowreleasestart
 pscommand_invoke-gitgui
+pscommand_invoke-githubapi
+pscommand_invoke-githubapi-bodyempty
+pscommand_invoke-githubapi-bodyfields
+pscommand_invoke-githubapi-bodyfile
+pscommand_invoke-githubapi-bodyjson
+pscommand_invoke-githubapi-bodyraw
 pscommand_invoke-gitlfsinstall
 pscommand_invoke-gitlfsmigrateimport
 pscommand_invoke-gitmerge
@@ -7664,6 +7669,12 @@ psfunction_invoke-gitflowreleasepublish
 psfunction_invoke-gitflowreleasepublishcurrent
 psfunction_invoke-gitflowreleasestart
 psfunction_invoke-gitgui
+psfunction_invoke-githubapi
+psfunction_invoke-githubapi-bodyempty
+psfunction_invoke-githubapi-bodyfields
+psfunction_invoke-githubapi-bodyfile
+psfunction_invoke-githubapi-bodyjson
+psfunction_invoke-githubapi-bodyraw
 psfunction_invoke-gitlfsinstall
 psfunction_invoke-gitlfsmigrateimport
 psfunction_invoke-gitmerge
@@ -9013,6 +9024,7 @@ scriptcs
 scriptedui
 scripting
 scriptlog
+scriptlogging
 scriptmodule
 scriptoform
 scriptrunner
@@ -9038,6 +9050,7 @@ searching
 searchmanager
 searchplace
 searchquery
+searchstring
 searchsuffixlist
 secaas
 secedit
@@ -9427,7 +9440,6 @@ spacex
 spam
 spanner
 spark
-sparkline
 sparklines
 spawn
 spdockit
@@ -9450,6 +9462,7 @@ speed
 speedometer
 speedtest
 speedtester
+spejder
 spellcheck
 spelling
 spf
@@ -9647,7 +9660,6 @@ stripe
 strongname
 structure
 sts
-stt
 studio
 style
 su
@@ -9815,7 +9827,6 @@ taskgroup
 taskmanagement
 tasks
 taskscheduler
-tatux
 taxjar
 taxonomy
 tcp
@@ -9911,7 +9922,6 @@ text-emoji
 text-emojis
 text-to-image
 text-to-speach"
-text-to-speech
 text2image
 textanalysis
 textbuffer
@@ -10111,7 +10121,6 @@ tutorial
 tv
 tvguide
 tweet
-twig
 twilio
 twincat
 twinkly
@@ -10775,6 +10784,8 @@ wmi
 wmifilter
 wmipermanentevents
 wol
+wolfram
+wolframalpha
 woocommerce
 woolworths
 woolworthsrewards
