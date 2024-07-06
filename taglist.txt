@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Saturday, 06 July 2024 02:06:57 UTC
+Updated: Saturday, 06 July 2024 09:51:57 UTC
 
 .bat
 .env
@@ -94,6 +94,7 @@ accord
 accord.net
 accordian
 account
+accounting
 accounts
 ace
 ack
@@ -293,7 +294,6 @@ aliases
 aliens
 alkane
 alkanepsf
-all
 alletra
 alloydb
 alm
@@ -360,7 +360,6 @@ antimalwarescaninterface
 antispam
 antivirus
 anws
-any
 anypackage
 anypoint
 anywhere
@@ -490,12 +489,14 @@ asc
 ascii
 ascii85
 asciiart
+asdatabase
 asigra
 asjob
 asm
 asn.1
 asn1
 asnbank
+asp
 asp.net
 aspnet
 aspnet_regiis
@@ -674,6 +675,7 @@ azure-forensics
 azure-functions
 azure-pipelines
 azure-resource-graph
+azure-ssis
 azureactivedirectory
 azuread
 azureadbackupandrestore
@@ -707,7 +709,6 @@ azurefilesync
 azurefunctionapp
 azurefunctions
 azuregraph
-azuregroupstuff
 azureinformationprotection
 azureiot
 azureiothub
@@ -879,6 +880,7 @@ block
 block-kit
 blockchain
 blocks
+blog
 blogs
 bloodhound
 bloxone
@@ -1119,7 +1121,6 @@ chat
 chatbot
 chatgpt
 chatops
-chatroom
 chatter
 cheat
 check
@@ -1186,6 +1187,7 @@ ciscoucsdsc
 citation
 cite
 citrix
+citrixoptimizer
 civo
 cix
 class
@@ -1406,7 +1408,6 @@ concur
 concurrency
 concurrent
 conda
-condition
 conditionalaccess
 conduit
 conference
@@ -1647,6 +1648,7 @@ culture
 cumulative
 cumulativeupdate
 cumulocity
+curious
 curl
 curlie
 currency
@@ -1996,7 +1998,6 @@ dismal
 display
 displayresolution
 distance
-distinguishedname
 distributed-systems
 distributed-tracing
 distributedcache
@@ -2101,14 +2102,11 @@ dotteddecimalip
 doubleclick
 download
 downloader
-downloadfacebookvideo
-downloadfilefromsite
 downloadinfo
 downloading
 downloadoffice
 downloadofficertool
 downloads
-downloadyoutubevideo
 dozent
 dpa
 dpapi
@@ -2185,7 +2183,6 @@ dumping
 dumps
 dupes
 duplicate
-duplicate-files
 duplicatioin
 duplication
 durable
@@ -2333,7 +2330,6 @@ entraid
 entraidgovernance
 entropy
 enum
-enumerable
 env
 environment
 environment-variables
@@ -2346,6 +2342,7 @@ envvar
 envvars
 eol
 eop
+eperl
 ephesoft
 epicor
 episode
@@ -2354,6 +2351,7 @@ eprosima
 epub
 epv
 equality
+erb
 erp
 error
 error-log
@@ -2642,7 +2640,6 @@ find-call
 find-caller
 find-file
 find-path
-finddownloadlinkfromwebsite
 findfile
 findlocation
 findplace
@@ -3080,7 +3077,6 @@ harvestforecast
 hash
 hashcat
 hashicorp
-hashset
 hashtable
 hasicorp
 haskell
@@ -3539,6 +3535,7 @@ isnumeric
 iso
 iso-3166-1
 iso-8601
+ispac
 isprime
 ispss
 issues
@@ -3620,6 +3617,7 @@ jsonwebencryption
 jsonwebkey
 jsonwebsignature
 jsonwebtoken
+jsp
 jumbo
 jump
 jump-location
@@ -4058,7 +4056,6 @@ marketplaceordering
 marketplaceprivateoffer
 marketplacepublisher
 marking
-marklogic
 marquee
 marvel
 marvell
@@ -4262,7 +4259,6 @@ mock
 mocking
 model
 modeling
-modify
 module
 module-maintenance
 module-manifest
@@ -4279,7 +4275,6 @@ moduleupdate
 moduleupdateinfo
 moduleupdater
 moduleversion
-mof
 moldova
 moment
 monaco
@@ -4459,8 +4454,6 @@ neo4j
 neovim
 neptune
 nerdfonts
-nerdio
-nerdioapi
 nerdymishka
 nessus
 nested
@@ -4560,7 +4553,6 @@ nlm
 nlog
 nmap
 nmbell
-nmm
 nntp
 node
 nodejs
@@ -5303,7 +5295,6 @@ powertab
 powertoolcmdlets
 powertooldsc
 ppdm
-ppk
 pposh
 pps
 ppt
@@ -5311,7 +5302,6 @@ pptp
 pptx
 pq
 pranks
-predicate
 prediction
 predictive
 predictive-text
@@ -5323,6 +5313,8 @@ preparead
 preparealldomains
 prepareschema
 prepend
+preprocessing
+preprocessor
 presentation
 presenter
 presto
@@ -5356,7 +5348,6 @@ privatemethods
 privateprofilestring
 privilege
 privilegecloud
-privileged
 privileges
 pro
 probe
@@ -8893,7 +8884,6 @@ rust-lang
 ryanairps
 ryver
 s.ds.p
-s1
 s3
 s4b
 saas
@@ -9557,7 +9547,6 @@ sslprotocol
 sslvpn
 ssm
 sso
-sspi
 sspr
 ssrs
 ssst
@@ -9660,6 +9649,7 @@ stripe
 strongname
 structure
 sts
+stt
 studio
 style
 su
@@ -9827,6 +9817,7 @@ taskgroup
 taskmanagement
 tasks
 taskscheduler
+tatux
 taxjar
 taxonomy
 tcp
@@ -9922,6 +9913,7 @@ text-emoji
 text-emojis
 text-to-image
 text-to-speach"
+text-to-speech
 text2image
 textanalysis
 textbuffer
@@ -10121,6 +10113,7 @@ tutorial
 tv
 tvguide
 tweet
+twig
 twilio
 twincat
 twinkly
@@ -10243,8 +10236,6 @@ unifiedlabeling
 uninstall
 uninstaller
 union
-unique
-unique-files
 unit
 unit_testing
 unit-testing
@@ -10644,7 +10635,6 @@ whatismyip
 whatsnew
 whatsupgold
 whd
-where
 whfb
 whiteboard
 whitespace
@@ -10765,7 +10755,6 @@ wintellect
 winterminal
 winui
 wireless
-wirelessnetwork
 wireshark
 wisc
 wiscmail
