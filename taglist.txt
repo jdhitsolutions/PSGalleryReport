@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Saturday, 06 July 2024 17:51:53 UTC
+Updated: Sunday, 07 July 2024 02:11:45 UTC
 
 .bat
 .env
@@ -185,7 +185,6 @@ adfstoolkit
 adfstools
 adgroupmemberobjects
 adgroupmembers
-adgroups
 adidns
 adif
 adlds
@@ -219,7 +218,6 @@ adsi
 adsite
 adsp
 adsync
-aduser
 aduseraccountlockout
 adusergroups
 adv180002
@@ -491,6 +489,7 @@ asc
 ascii
 ascii85
 asciiart
+asdatabase
 asigra
 asjob
 asm
@@ -620,6 +619,7 @@ avro
 avs
 avset
 await
+awareness
 awesome
 awp
 awpagent
@@ -675,6 +675,7 @@ azure-forensics
 azure-functions
 azure-pipelines
 azure-resource-graph
+azure-ssis
 azureactivedirectory
 azuread
 azureadbackupandrestore
@@ -699,7 +700,6 @@ azurecontainerapps
 azurecontainers
 azuredatabricks
 azuredataexplorer
-azuredatastudio
 azuredevops
 azuredevops_security
 azuredevopsserver
@@ -742,7 +742,6 @@ azurestackhci
 azurestate
 azurestorage
 azurestorageservices
-azuresync
 azuretable
 azuretestplan
 azurevirtualdesktop
@@ -792,7 +791,6 @@ battery
 bayern
 bazzo
 bb
-bbc
 bbp
 bc
 bc365
@@ -876,7 +874,6 @@ blaze
 blinking-text
 blob
 blobstorage
-block
 block-kit
 blockchain
 blocks
@@ -1013,7 +1010,6 @@ calvin-and-hobbes
 cam
 camera
 campaign
-camtasia
 canarie
 cancel
 cancellation
@@ -1098,7 +1094,6 @@ certificate
 certificateauthority
 certificatechain
 certificatemanager
-certificatepolicy
 certificates
 certificateservices
 certificatesmanagement
@@ -1121,7 +1116,6 @@ chat
 chatbot
 chatgpt
 chatops
-chatroom
 chatter
 cheat
 check
@@ -1314,7 +1308,6 @@ codecoverage
 codegen
 codegeneration
 codegenerator
-codellama
 codepoint
 codereview
 codes
@@ -1658,6 +1651,7 @@ currency-convereter
 currency-exchange
 currencyconverterapi
 current
+curseforge
 custom
 customchecks
 customdns
@@ -1669,7 +1663,6 @@ customeventlog
 customeventlogchannel
 customeventlogfile
 customeventlogfiles
-customevents
 custominformationservices
 customis
 customisation
@@ -1791,7 +1784,6 @@ datum
 dave
 davinci
 dax
-dayinweek
 days
 days-week
 db
@@ -1837,6 +1829,8 @@ decryption
 dedicatedhsm
 deduplication
 deep
+deep-security
+deep-security-manager
 deepl
 deepvisibility
 def
@@ -1859,7 +1853,6 @@ delegation
 delegationmodel
 delete
 delete-orphan-branches
-deletefile
 deleteuserprofile
 delivery
 dell
@@ -1890,7 +1883,6 @@ desiredstate
 desiredstateconfiguration
 desk
 desktop
-desktops
 desktopvirtualization
 details
 detect
@@ -2122,8 +2114,6 @@ drawio
 dreams
 dreamweaver
 dreary
-drift
-driftmonitor
 drink
 drive
 drive letter
@@ -2156,7 +2146,6 @@ dsc-resource
 dsc-resources
 dsccertificates
 dscconcepts
-dscdriftmonitor
 dsclient
 dscresource
 dscresourcekit
@@ -2182,9 +2171,6 @@ duf
 dummy
 dummyusers
 dump
-dumpify
-dumping
-dumps
 dupes
 duplicate
 duplicate-files
@@ -2266,7 +2252,6 @@ elevate
 elevated
 elevatedconsole
 elevatedmode
-elevation
 elgato
 elk
 elm
@@ -2280,9 +2265,7 @@ emacs
 email
 email-address
 emailaddressupdate
-emailautomation
 emaildataplane
-emailmanagment
 emailnotification
 emailnotificationcomponent
 emailsecurity
@@ -2543,7 +2526,6 @@ fast
 fast-dds
 fast-ping
 fastfilepub
-fastgit
 fastlinq
 fastlookup
 fastping
@@ -2573,7 +2555,6 @@ fiddler
 fido
 fido2
 fieldglass
-fields
 fifa
 figlet
 file
@@ -2696,7 +2677,6 @@ fog
 fogapi
 fogproject
 folder
-folderpermission
 folders
 font
 fonts
@@ -2849,7 +2829,6 @@ genxdev
 geo
 geocache
 geocaching
-geocode
 geoencode
 geoencoding
 geoip
@@ -3009,7 +2988,6 @@ gremlin
 grep
 greynoise
 grid
-gridfs
 grok
 groundspeak
 group
@@ -3018,7 +2996,6 @@ group-policy
 groupmembership
 grouppolicy
 groups
-grouvee
 growlnotify
 grr
 gsuite
@@ -3510,7 +3487,6 @@ ipbroadcast
 ipc
 ipcalc
 ipcalculator
-ipconfig
 iperf
 ipfy.org
 iphone
@@ -3524,7 +3500,6 @@ ipscan
 ipv4
 ipv4ping
 ipv6
-ipynb
 ir
 irc
 irkit
@@ -3543,6 +3518,7 @@ isnumeric
 iso
 iso-3166-1
 iso-8601
+ispac
 isprime
 ispss
 issues
@@ -3633,7 +3609,6 @@ jumpstart
 junction
 junctions
 junit
-jupyter
 jupytor
 justenoughadministration
 jvm
@@ -3793,7 +3768,6 @@ legends
 lego
 lein
 leiningnen
-lemonai
 lenel
 length
 lenovo
@@ -3831,7 +3805,6 @@ linear
 linearalgebra
 lingeringobjects
 link
-link-capability
 link-preview
 linkedin
 linkedservice
@@ -3857,7 +3830,6 @@ litecoin
 litedb
 literature
 live
-llama2
 lldp
 lmhost
 lmhosts
@@ -3968,7 +3940,6 @@ lsasecrets
 lsd
 ltm
 lucd
-lucene
 lunches
 lwa
 lxca
@@ -4045,7 +4016,6 @@ manifest
 manual
 map
 mapapi
-mapi
 mappeddrives
 mapper24
 mapping
@@ -4093,7 +4063,6 @@ maximum
 maxoffice
 mazerat
 mb
-mbc
 mbs
 mc
 mcafee
@@ -4189,7 +4158,6 @@ microsoft_online
 microsoft_teams
 microsoft-graph
 microsoft-teams
-microsoft-web-platform
 microsoft-windows
 microsoft.graph
 microsoft.graph.api
@@ -4228,7 +4196,6 @@ migrate
 migration
 migration-tool
 migrations
-mikrotik
 milestone
 mim
 mime
@@ -4254,7 +4221,6 @@ mittelschule
 mixedreality
 mixer
 mkdocs
-mkpasswd
 mksapiviewer
 ml
 ml.net
@@ -4284,6 +4250,7 @@ moduleupdate
 moduleupdateinfo
 moduleupdater
 moduleversion
+mof
 moldova
 moment
 monaco
@@ -4452,7 +4419,6 @@ nature
 nav
 navigation
 nbi
-ncal
 ndes
 nebulon
 nec-infrared-transmission-protocol
@@ -4529,6 +4495,7 @@ new-rdpsession
 new-samcmapplicationfrompackagedefinitionsms
 new-samcmpackagefrompackagedefinitionsms
 new-system
+new-udmorph
 new-win32app
 newpassword
 newrelic
@@ -4705,7 +4672,6 @@ old
 older
 ole
 oledb
-ollama
 omaha
 ome
 omnisphere
@@ -4774,7 +4740,6 @@ opensourceinitiative
 openssh
 openssl
 openstack
-openstreetmaps
 openvpn
 operating
 operating_system
@@ -4828,7 +4793,6 @@ osdprogress
 osdsus
 osdupdate
 osi
-osm
 osmanagement
 osmanagementhub
 osp
@@ -4906,7 +4870,6 @@ pansies
 panther
 panzerbjrn
 pap
-paper
 papis
 paradox
 parallel
@@ -4935,7 +4898,6 @@ passivetotal
 passkey
 passphrase
 passphraser passphrase password generator entropy
-passwd
 password
 password_generation
 password-generator
@@ -5169,7 +5131,6 @@ poshy-ecks
 poshy-env-proxy
 poshy-env-var
 poshy-ls-isms
-poshy-lucidity
 poshy-multimedia
 poshy-net
 poshy-notify-send
@@ -5227,7 +5188,6 @@ power
 power-apps
 power-cbr
 power-platform
-power-shell
 powerapps
 powerappsportal
 powerarcade
@@ -5361,7 +5321,6 @@ privatemethods
 privateprofilestring
 privilege
 privilegecloud
-privileged
 privileges
 pro
 probe
@@ -5399,7 +5358,7 @@ projectwise
 proliant
 prometheus
 prompt
-pronounceable
+proofpoint
 properties
 property
 property-list
@@ -5451,6 +5410,7 @@ psadgroupmembers
 psadt
 psake
 psappdeploytoolkit
+psat
 psazd
 psbackup
 psbbix
@@ -7001,7 +6961,6 @@ pscommand_sc-mask-now
 pscommand_scu-disable-now
 pscommand_scu-enable-now
 pscommand_scu-mask-now
-pscommand_search-commandpath
 pscommand_search-ruby
 pscommand_set-envvar
 pscommand_set-gitremoteurl
@@ -7052,14 +7011,9 @@ pscommand_syspip3
 pscommand_syspip3_package_location
 pscommand_ta
 pscommand_tad
-pscommand_test-command
 pscommand_test-d
-pscommand_test-elevation
 pscommand_test-f
-pscommand_test-linkcapability
 pscommand_test-o
-pscommand_test-reparsepoint
-pscommand_test-sessioninteractivity
 pscommand_test-x
 pscommand_tf
 pscommand_tfa
@@ -8213,7 +8167,6 @@ psfunction_sc-mask-now
 psfunction_scu-disable-now
 psfunction_scu-enable-now
 psfunction_scu-mask-now
-psfunction_search-commandpath
 psfunction_search-ruby
 psfunction_set-envvar
 psfunction_set-gitremoteurl
@@ -8256,14 +8209,9 @@ psfunction_stop-gitcherrypick
 psfunction_switch-gitbranchandtrack
 psfunction_switch-gitbranchmain
 psfunction_switch-gitbranchnew
-psfunction_test-command
 psfunction_test-d
-psfunction_test-elevation
 psfunction_test-f
-psfunction_test-linkcapability
 psfunction_test-o
-psfunction_test-reparsepoint
-psfunction_test-sessioninteractivity
 psfunction_test-x
 psfunction_universalarchive
 psfunction_update-gitbranchbasefrombranchmain
@@ -8486,7 +8434,6 @@ qq
 qr
 qrcode
 qrcodes
-qrp
 qrs
 quality
 qualys
@@ -8571,7 +8518,6 @@ rdpsign
 rds
 rdsgw
 react-stockcharts
-read
 read-slog
 readable
 reader
@@ -8699,7 +8645,6 @@ remove-pass
 remove-path
 remove-pinneditem
 remove-tempfiles
-removefile
 removetypeaccelerators
 remux
 ren-isac
@@ -8823,7 +8768,6 @@ robbyrussel
 robocopy
 robot
 roca
-rock
 rocket
 rocketcyber
 roco
@@ -8844,7 +8788,6 @@ route
 route53
 routeconfig
 router
-routeros
 routes
 routetable
 routine
@@ -8987,7 +8930,6 @@ schoolholidays
 schulung
 schulverwaltung
 science
-scissors
 scm
 scmanager
 scom
@@ -9110,13 +9052,11 @@ select-string
 selection
 selectxmlinfo
 selenium
-self
 self-hosted
 self-service
 self-signed
 selfdispatch
 selfhelp
-selfsigned
 semantic
 semantic-versioning
 semaphore
@@ -9154,7 +9094,6 @@ serilog
 serilog-for-powershell
 serilog-sink
 server
-servercertificatevalidationcallback
 serverless
 servermanagement
 servers
@@ -9214,13 +9153,7 @@ sftp
 sfx
 sgopher
 sgw
-sha-256
-sha-512
-sha-crypt
 sha256
-sha256crypt
-sha512crypt
-shacrypt
 shadow
 shadowcopy
 shadowcopybackups
@@ -9278,7 +9211,6 @@ sign
 signalfx
 signalr
 signature
-signed
 signing
 signtool
 silk
@@ -9433,7 +9365,6 @@ sourcecontrol
 sourceforge
 sourcegraph
 sourcemod
-sourceone
 sourcepawn
 sourcequery
 sovcloud
@@ -9473,7 +9404,6 @@ spf
 spfx
 sphere
 spi
-spicetify
 spinnaker
 splash
 splat
@@ -9504,6 +9434,7 @@ sqlagent
 sqlautomation
 sqlbits
 sqlbrowser
+sqlbulkcopy
 sqlchangeautomation
 sqlclient
 sqlcmd
@@ -9614,7 +9545,6 @@ stdio
 stdout
 steam
 steam-games
-steamcmd
 stepper
 sticker
 sticker-pack
@@ -9688,6 +9618,7 @@ subscription
 subscriptiondefinition
 subset
 subsystem
+subtitle
 subversion
 success
 successfactors
@@ -9744,7 +9675,6 @@ synchronization
 synchronize
 syndication
 synergy
-syntax
 syntax-highlighting
 syntaxcheck
 syntaxhighlighter
@@ -9830,6 +9760,7 @@ taskgroup
 taskmanagement
 tasks
 taskscheduler
+tatux
 taxjar
 taxonomy
 tcp
@@ -9855,7 +9786,6 @@ techdirect
 techedna2014
 techlog
 technology
-techsmith
 tel
 telegram
 telegram-bot
@@ -10069,7 +9999,6 @@ transparency
 transpilation
 trap
 travel
-trec
 tree
 tree-structure
 treesize
@@ -10078,6 +10007,7 @@ trein
 trello
 trellops
 trend
+trend-micro
 trendmicro
 trevor
 trevorsullivan
@@ -10099,7 +10029,6 @@ truportal
 trusted
 trusted-host
 trustedhosts
-trustedinstaller
 trustedrootcertificate
 trustedsigning
 truth
@@ -10122,7 +10051,6 @@ tuner
 tuning
 tutorial
 tv
-tvguide
 tweet
 twig
 twilio
@@ -10134,8 +10062,8 @@ twitter-api
 twitter-api-v2
 twitter-client
 twitter-follow
+twitter-hashtag
 twitter-mention
-twitter-share
 twitter-timeline
 twitter-tweet
 txt
@@ -10189,7 +10117,6 @@ ud-pivottable
 ud-progressstepbar
 ud-rangeslider
 ud-readingbar
-ud-scrollspy
 ud-selectdatetime
 ud-selector
 ud-signature
@@ -10281,7 +10208,6 @@ updatemgmt
 updater
 updates
 updateservices
-updmanagement
 updmgmt
 upgrade
 uplift
@@ -10357,7 +10283,6 @@ validatemapsconnectivity
 validation
 validator
 value
-values
 valve
 vami
 vao
@@ -10372,7 +10297,6 @@ vaultstore
 vaultwarden
 vb365
 vba
-vbaproject
 vbproj
 vbr
 vbscript
@@ -10531,7 +10455,6 @@ vsdevshell
 vsenvironment
 vsm
 vso
-vspc
 vsphere
 vsphere+
 vss
@@ -10548,7 +10471,6 @@ vulnerability
 vulnerabilityscanning
 vum
 vvx
-vxrail
 w32time
 w365
 w3svc
@@ -10613,7 +10535,6 @@ webjea
 webmanagement
 webmanagementservice
 webpage
-webpi
 webreport
 webrequest
 webresponse
@@ -10698,7 +10619,6 @@ windows-explorer
 windows-features
 windows-firewall
 windows-lab
-windows-path
 windows-powershell
 windows-registry
 windows-remoting
@@ -10904,7 +10824,6 @@ xiaomi
 xin
 xkcd
 xliff
-xlsx
 xmc
 xml
 xml-rpc
@@ -10960,7 +10879,6 @@ zip-compression
 zipfile-transform
 zisson
 zoho
-zoicware
 zone
 zookeeper
 zoom
