@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Sunday, 07 July 2024 09:51:53 UTC
+Updated: Sunday, 07 July 2024 17:51:46 UTC
 
 .bat
 .env
@@ -1661,7 +1661,6 @@ currency-convereter
 currency-exchange
 currencyconverterapi
 current
-curseforge
 custom
 customchecks
 customdns
@@ -1758,7 +1757,6 @@ dataexplorer
 datafactory
 dataflow
 dataflowdependency
-dataframe
 datagateway
 dataintegration
 datakwaliteit
@@ -1795,6 +1793,7 @@ datum
 dave
 davinci
 dax
+dayinweek
 days
 days-week
 db
@@ -2187,6 +2186,9 @@ duf
 dummy
 dummyusers
 dump
+dumpify
+dumping
+dumps
 dupes
 duplicate
 duplicate-files
@@ -2575,6 +2577,7 @@ fiddler
 fido
 fido2
 fieldglass
+fields
 fifa
 figlet
 file
@@ -2829,6 +2832,7 @@ gemini
 geminiprotocol
 gemlog
 gemtext
+genai
 general
 generate
 generate-dockerimagevariants
@@ -3132,6 +3136,7 @@ helper-functions
 helperfunctions
 helpers
 helpfile
+helpful
 heml
 here
 hewlett
@@ -3332,22 +3337,12 @@ ilocmdlets
 im
 image
 image-converter
-image-creation
-image-generation
-image-process
-image-validation
 imagebuilder
-imagecreate
-imagecreation
-imagegeneration
 imageoftheday
-imageprocess
 imageprocessing
 images
 imageservicing
 imageslide
-imagevalidate
-imagevalidation
 imagga
 imagination
 imaging
@@ -4021,6 +4016,7 @@ man-highlighting
 manage
 manage-wmi
 manageability
+managed
 managed-identity
 manageddevices
 manageddisks
@@ -4258,6 +4254,7 @@ mksapiviewer
 ml
 ml.net
 mlflow
+mmdc
 mobile
 mobilenetwork
 mobilitycontroller
@@ -4429,6 +4426,7 @@ n-central
 nabu
 nac
 nagios
+nakivo
 name
 name-of-dogs
 namedpipe
@@ -4579,12 +4577,10 @@ norway
 norwegian
 nos
 nosql
-note
 notebook
 notepad
 notepad2
 noteproperty
-notes
 notification
 notificationhubs
 notifications
@@ -4766,7 +4762,6 @@ openidconnect
 openinghours
 openport
 openprovider
-openscad
 opensearch
 opensource
 opensourceinitiative
@@ -4896,6 +4891,7 @@ pageant
 pager
 pagerduty
 pages
+pagination
 paloalto
 paloaltonetworks
 pam
@@ -5329,6 +5325,7 @@ presentation
 presenter
 presto
 preston-k-parsard
+prettifier
 pretty
 prettyprinter
 preview
@@ -5422,7 +5419,6 @@ proxmox
 proxmoxve
 proxsys
 proxy
-proxyfunction
 proxyfunctions
 prtg
 prtg_network_monitor
@@ -7133,6 +7129,7 @@ psd1
 psdb
 psdefaultparametervalues
 psdeploy
+psdesiredstateconfiguration
 psdevops
 psdocs
 psdocs-documents
@@ -7143,6 +7140,7 @@ psdrives
 psdsc
 psdscresource_vscomponents
 psdshook
+pse
 psedition_5
 psedition_5.1
 psedition_7.3
@@ -7157,6 +7155,7 @@ psedition_psedition_desktop
 psedition_windows
 psedition-desktop
 psediton_desktop
+psengine
 psenv
 pses
 psexcel
@@ -9826,8 +9825,6 @@ transact
 transaction
 transactions
 transcode
-transcript
-transcripts
 transform
 transformation
 transforms
@@ -9885,7 +9882,6 @@ tsqlbestpractice
 tst
 tst1
 tst3
-tsv
 ttrpg
 tts
 tubedownloader
@@ -10009,6 +10005,7 @@ unattendedfile
 unblock
 unc
 underlined-text
+unhide
 unicode
 unicode-emoji
 unicode-emojis
@@ -10131,6 +10128,7 @@ validatemapsconnectivity
 validation
 validator
 value
+values
 valve
 vami
 vao
