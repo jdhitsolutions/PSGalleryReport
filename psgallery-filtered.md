@@ -3,13 +3,100 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [Evergreen](https://www.powershellgallery.com/Packages/Evergreen/2407.1202) | 2407.1202
+
+### Published: 07/08/2024 01:15:29 by Aaron Parker
+
+Create evergreen Windows image builds with the latest versions of applications. Evergreen is a simple PowerShell module that retrieves the latest version numbers and download URLs for various software products directly from the vendor source.
+
+__Downloads__: 4,077,866 | __Repository__: https://stealthpuppy.com/evergreen/
+
+## [Harden-Windows-Security-Module](https://www.powershellgallery.com/Packages/Harden-Windows-Security-Module/0.4.6) | 0.4.6
+
+### Published: 07/07/2024 23:21:25 by HotCakeX
+
+Harden Windows Safely, Securely, only with Official Microsoft methods
+
+⭕ This module provides 3 main features: Hardening, Auditing/checking the system compliance, and undoing the Hardening
+
+⭕ Please read the GitHub's readme before running this module: https://github.com/HotCakeX/Harden-Windows-Security
+
+💜 GUI (Graphical User Interface) is Available! Run (Protect-WindowsSecurity -GUI) to use the GUI instead of the CLI experience.
+
+💠 Features of this module:
+
+  ✅ Everything always stays up-to-date with the newest proactive security measures that are industry standards and scalable.
+  ✅ Everything is in plain text, nothing hidden, no 3rd party executable or pre-compiled binary is involved.
+  ✅ No Windows functionality is removed/disabled against Microsoft's recommendations.
+  ✅ The module primarily uses Group policies, the Microsoft recommended way of configuring Windows. It also uses PowerShell cmdlets where Group Policies aren't available, and finally uses a few registry keys to configure security measures that can neither be configured using Group Policies nor PowerShell cmdlets. This is why the module doesn't break anything or cause unwanted behavior.
+  ✅ When a hardening measure is no longer necessary because it's applied by default by Microsoft on new builds of Windows, it will also be removed from the module in order to prevent any problems and because it won't be necessary anymore.
+  ✅ The module can be run infinite number of times, it's made in a way that it won't make any duplicate changes.
+  ✅ The module prompts for confirmation before running each hardening category.
+  ✅ Applying these hardening measures makes your PC compliant with Microsoft Security Baselines and Secured-core PC specifications (provided that you use modern hardware that supports the latest Windows security features)
+
+💠 Hardening Categories from top to bottom: (⬇️Detailed info about each of them at my Github⬇️)
+
+⏹ Commands that require Administrator Privileges
+  ✅ Microsoft Security Baselines
+  ✅ Microsoft 365 Apps Security Baselines
+  ✅ Microsoft Defender
+  ✅ Attack surface reduction rules
+  ✅ Bitlocker Settings
+  ✅ TLS Security
+  ✅ Lock Screen
+  ✅ UAC (User Account Control)
+  ✅ Windows Firewall
+  ✅ Optional Windows Features
+  ✅ Windows Networking
+  ✅ Miscellaneous Configurations
+  ✅ Windows Update Configurations
+  ✅ Edge Browser Configurations
+  ✅ Certificate Checking Commands
+  ✅ Country IP Blocking
+  ✅ Downloads Defense Measures
+⏹ Commands that don't require Administrator Privileges
+  ✅ Non-Admin Commands that only affect the current user and do not make machine-wide changes.
+
+
+💎 This module has hybrid mode of operation. It can run Interactively and non-interactively (Silent/unattended mode). More info in the document: https://github.com/HotCakeX/Harden-Windows-Security/wiki/Harden%E2%80%90Windows%E2%80%90Security%E2%80%90Module
+
+🏴 If you have any questions, requests, suggestions etc. about this module, please open a new Discussion or Issue on GitHub
+
+🟡 The module generates a nice output on the screen as well as giving users an option to export the results in a CSV file.
+
+__Downloads__: 17,310 | __Repository__: https://github.com/HotCakeX/Harden-Windows-Security
+
+## [M365FoundationsCISReport](https://www.powershellgallery.com/Packages/M365FoundationsCISReport/0.1.24) | 0.1.24
+
+### Published: 07/07/2024 22:26:42 by Douglas S. Rios (DrIOSx)
+
+Automated assessment of 50 CIS 365 Foundations v3.0.0 benchmark.
+
+__Downloads__: 113 | __Repository__: https://github.com/CriticalSolutionsNetwork/M365FoundationsCISReport
+
+## [PSDuckDB](https://www.powershellgallery.com/Packages/PSDuckDB/0.1.1) | 0.1.1
+
+### Published: 07/07/2024 20:34:32 by Douglas Finke
+
+PSDuckDB is a PowerShell module that provides seamless integration with DuckDB, enabling efficient execution of analytical SQL queries directly from the PowerShell environment.
+
+__Downloads__: 1 | __Repository__: https://github.com/dfinke/PSDuckDB
+
+## [BcAdmin](https://www.powershellgallery.com/Packages/BcAdmin/0.0.1) | 0.0.1
+
+### Published: 07/07/2024 18:52:11 by Jascha Vincke
+
+Collection of functions to make the daily life of Microsoft Dynamics 365 Business Cental administrators a bit easier.
+
+__Downloads__: 3 | __Repository__: 
+
 ## [UGDSB.PS](https://www.powershellgallery.com/Packages/UGDSB.PS/2.2.0) | 2.2.0
 
 ### Published: 07/07/2024 16:36:29 by Jeremy Putman
 
 This bundles together functions related to powershell functions use for UGDSB
 
-__Downloads__: 5,821 | __Repository__: 
+__Downloads__: 5,822 | __Repository__: 
 
 ## [psengine.module.management](https://www.powershellgallery.com/Packages/psengine.module.management/1.0.0) | 1.0.0
 
@@ -27,11 +114,11 @@ A module to help with deploying registry settings
 
 __Downloads__: 0 | __Repository__: 
 
-## [psengine.scheduledtask.management](https://www.powershellgallery.com/Packages/psengine.scheduledtask.management/1.0.0) | 1.0.0
+## [psengine.graphapi.management](https://www.powershellgallery.com/Packages/psengine.graphapi.management/1.0.0) | 1.0.0
 
-### Published: 07/07/2024 15:35:02 by Owen Heaume
+### Published: 07/07/2024 15:35:05 by Owen Heaume
 
-This module provides functions to manage scheduled tasks on a Windows system.
+A module to help with common graph api queries
 
 __Downloads__: 0 | __Repository__: 
 
@@ -99,14 +186,6 @@ This module provides an easy way to cleanup Active Directory from dead/old objec
 
 __Downloads__: 329 | __Repository__: https://github.com/EvotecIT/CleanupMonster
 
-## [Evergreen](https://www.powershellgallery.com/Packages/Evergreen/2407.1175) | 2407.1175
-
-### Published: 07/07/2024 10:36:29 by Aaron Parker
-
-Create evergreen Windows image builds with the latest versions of applications. Evergreen is a simple PowerShell module that retrieves the latest version numbers and download URLs for various software products directly from the vendor source.
-
-__Downloads__: 4,077,866 | __Repository__: https://stealthpuppy.com/evergreen/
-
 ## [pocof](https://www.powershellgallery.com/Packages/pocof/0.14.0) | 0.14.0
 
 ### Published: 07/07/2024 08:25:02 by Takatoshi Kuriyama
@@ -146,14 +225,6 @@ __Downloads__: 2,831 | __Repository__: https://github.com/joeltimothyoh/MyPublis
 PowerShell module for tv guide on bbcbenelux.com
 
 __Downloads__: 9 | __Repository__: https://github.com/jhoek/UncommonSense.BbcTvGuide
-
-## [PSDuckDB](https://www.powershellgallery.com/Packages/PSDuckDB/0.1.0) | 0.1.0
-
-### Published: 07/06/2024 17:20:56 by Douglas Finke
-
-PSDuckDB is a PowerShell module that provides seamless integration with DuckDB, enabling efficient execution of analytical SQL queries directly from the PowerShell environment.
-
-__Downloads__: 1 | __Repository__: https://github.com/dfinke/PSDuckDB
 
 ## [PsInPic](https://www.powershellgallery.com/Packages/PsInPic/0.0.1) | 0.0.1
 
@@ -201,7 +272,7 @@ __Downloads__: 4,435 | __Repository__: https://github.com/abgox/PSCompletions
 
 Group Policy Eater is a PowerShell module that aims to gather information about Group Policies but also allows fixing issues that you may find in them.
 
-__Downloads__: 155,218 | __Repository__: https://github.com/EvotecIT/GPOZaurr
+__Downloads__: 155,221 | __Repository__: https://github.com/EvotecIT/GPOZaurr
 
 ## [PSWriteHTML](https://www.powershellgallery.com/Packages/PSWriteHTML/1.26.0) | 1.26.0
 
@@ -217,7 +288,7 @@ __Downloads__: 2,844,981 | __Repository__: https://github.com/EvotecIT/PSWriteHT
 
 Module covering functions that are shared within multiple projects
 
-__Downloads__: 353,078 | __Repository__: https://github.com/EvotecIT/PSSharedGoods
+__Downloads__: 353,076 | __Repository__: https://github.com/EvotecIT/PSSharedGoods
 
 ## [Ldbc](https://www.powershellgallery.com/Packages/Ldbc/0.8.11) | 0.8.11
 
@@ -241,7 +312,7 @@ __Downloads__: 104,188 | __Repository__: https://github.com/PowerShellCrack/LGPO
 
 PowerShell script packaging and Windows Forms design.
 
-__Downloads__: 47,096 | __Repository__: 
+__Downloads__: 47,095 | __Repository__: 
 
 ## [MedlemsserviceModule](https://www.powershellgallery.com/Packages/MedlemsserviceModule/0.1.0) | 0.1.0
 
@@ -321,7 +392,7 @@ __Downloads__: 69 | __Repository__: https://github.com/belibug/ModuleTools
 
 The Devolutions.PowerShell module is a set of cmdlets that allow administrators to manage Remote Desktop Manager, Devolutions Server and Devolutions Hub Business using PowerShell. This module provides a simple and consistent interface for interacting with these products, making it easy to automate various tasks, such as creating and managing connections, sessions, and credentials, configuring security settings, and generating reports. The module can be easily integrated with other PowerShell modules, allowing administrators to automate tasks across multiple products and platforms, streamline their workflows and increase efficiency.
 
-__Downloads__: 105,807 | __Repository__: https://devolutions.net/
+__Downloads__: 105,806 | __Repository__: https://devolutions.net/
 
 ## [AutomateNOW](https://www.powershellgallery.com/Packages/AutomateNOW/1.0.22) | 1.0.22
 
@@ -345,7 +416,7 @@ __Downloads__: 24,077 | __Repository__: https://github.com/riedyw/PoshFunctions
 
 This module provides an interface to the Halo API.
 
-__Downloads__: 272,833 | __Repository__: https://github.com/homotechsual/HaloAPI
+__Downloads__: 272,828 | __Repository__: https://github.com/homotechsual/HaloAPI
 
 ## [Everix-Install](https://www.powershellgallery.com/Packages/Everix-Install/1.0.0) | 1.0.0
 
@@ -361,7 +432,7 @@ __Downloads__: 6 | __Repository__: https://github.com/everix-io/everix-install
 
 PowerShell-Mail Transfer Agent-Strict Transport Security | Enhancing mail flow by deploying and testing MTA-STS for Exchange Online using PowerShell.
 
-__Downloads__: 1,231 | __Repository__: https://github.com/jklotzsche-msft/PS.MTA-STS
+__Downloads__: 1,232 | __Repository__: https://github.com/jklotzsche-msft/PS.MTA-STS
 
 ## [Maester](https://www.powershellgallery.com/Packages/Maester/0.2.0) | 0.2.0
 
@@ -369,7 +440,7 @@ __Downloads__: 1,231 | __Repository__: https://github.com/jklotzsche-msft/PS.MTA
 
 Maester is an automation framework to assess and monitor your Microsoft 365 security configuration.
 
-__Downloads__: 25,435 | __Repository__: https://maester.dev/
+__Downloads__: 25,434 | __Repository__: https://maester.dev/
 
 ## [WindmillClient](https://www.powershellgallery.com/Packages/WindmillClient/1.358.1) | 1.358.1
 
@@ -385,7 +456,7 @@ __Downloads__: 365 | __Repository__: https://github.com/windmill-labs/windmill/t
 
 PowerShell module to query the Logic Monitor API. This PowerShell module is developed as an open-source project and is not officially supported by LogicMonitor. It is maintained by a community of users who are passionate about enhancing its capabilities and functionality. While LogicMonitor recognizes the effort and ingenuity behind this module, please note that it is provided "as is" without any official support or warranty from LogicMonitor.
 
-__Downloads__: 115,915 | __Repository__: https://github.com/logicmonitor/lm-powershell-module
+__Downloads__: 115,907 | __Repository__: https://github.com/logicmonitor/lm-powershell-module
 
 ## [Diagrammer.Core](https://www.powershellgallery.com/Packages/Diagrammer.Core/0.2.2) | 0.2.2
 
@@ -409,7 +480,7 @@ __Downloads__: 167 | __Repository__: https://github.com/TehMuffinMoo/URLScan.io
 
 PowerShell module to assist with Sale Engineering activities.
 
-__Downloads__: 109,316 | __Repository__: https://github.com/stevevillardi/Logic.Monitor.SE
+__Downloads__: 109,310 | __Repository__: https://github.com/stevevillardi/Logic.Monitor.SE
 
 ## [JyskIT.Automation](https://www.powershellgallery.com/Packages/JyskIT.Automation/1.1.0) | 1.1.0
 
@@ -481,7 +552,7 @@ __Downloads__: 264 | __Repository__: https://github.com/PSModule/PublicIP
 
 A PowerShell module adding a SemVer compatible class and functions.
 
-__Downloads__: 11,023 | __Repository__: https://github.com/PSModule/PSSemVer
+__Downloads__: 11,067 | __Repository__: https://github.com/PSModule/PSSemVer
 
 ## [PowerShellGallery](https://www.powershellgallery.com/Packages/PowerShellGallery/0.0.9) | 0.0.9
 
@@ -514,14 +585,6 @@ __Downloads__: 2 | __Repository__:
 Provides cmdlets to perform various TCPIP and TLS/SSL related tasks.
 
 __Downloads__: 5,616 | __Repository__: https://github.com/anthonyg-1/PSTcpIp
-
-## [BcAdmin](https://www.powershellgallery.com/Packages/BcAdmin/0.0.0) | 0.0.0
-
-### Published: 07/04/2024 20:24:01 by Jascha Vincke
-
-Collection of functions to make the daily life of Microsoft Dynamics 365 Business Cental administrators a bit easier.
-
-__Downloads__: 3 | __Repository__: 
 
 ## [fscps.tools](https://www.powershellgallery.com/Packages/fscps.tools/1.0.226) | 1.0.226
 
@@ -657,7 +720,7 @@ __Downloads__: 18 | __Repository__:
 
 Decode a JWT Access Token and convert to a PowerShell Object. JWT Access Token updated to include the JWT Signature (sig), JWT Token Expiry (expiryDateTime) and JWT Token time to expiry (timeToExpiry).
 
-__Downloads__: 1,856,619 | __Repository__: https://github.com/darrenjrobinson/JWTDetails
+__Downloads__: 1,856,620 | __Repository__: https://github.com/darrenjrobinson/JWTDetails
 
 ## [TorizonPlatformAPI](https://www.powershellgallery.com/Packages/TorizonPlatformAPI/0.2.2) | 0.2.2
 
@@ -721,7 +784,7 @@ __Downloads__: 662 | __Repository__: https://github.com/silk-us/silk-sdp-powersh
 
 Master module for a collection of modules. These modules are varied in their tasks. The overall purpose of them being to provide a powerfull Toolset to improve IT Admin workflows.
 
-__Downloads__: 56,637 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox
+__Downloads__: 56,635 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox
 
 ## [AdminToolbox.FortiWizard](https://www.powershellgallery.com/Packages/AdminToolbox.FortiWizard/2.19.13) | 2.19.13
 
@@ -729,7 +792,7 @@ __Downloads__: 56,637 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions that generate configuration scripts and manage FortiOS.
 
-__Downloads__: 36,279 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 36,281 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.VMWareAutomate](https://www.powershellgallery.com/Packages/AdminToolbox.VMWareAutomate/4.8.155) | 4.8.155
 
@@ -737,7 +800,7 @@ __Downloads__: 36,279 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions to Automate Bulk VMWare Tasks
 
-__Downloads__: 43,398 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 43,396 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.Remoting](https://www.powershellgallery.com/Packages/AdminToolbox.Remoting/1.9.158) | 1.9.158
 
@@ -745,7 +808,7 @@ __Downloads__: 43,398 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions for remote management and access.
 
-__Downloads__: 42,967 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 42,969 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.Office365](https://www.powershellgallery.com/Packages/AdminToolbox.Office365/4.0.18) | 4.0.18
 
@@ -753,7 +816,7 @@ __Downloads__: 42,967 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions for working with Office365 and Azure modules
 
-__Downloads__: 46,016 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 46,014 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.Networking](https://www.powershellgallery.com/Packages/AdminToolbox.Networking/2.19.11) | 2.19.11
 
@@ -769,7 +832,7 @@ __Downloads__: 122,561 | __Repository__: https://github.com/TheTaylorLee/AdminTo
 
 Microsoft Graph interactive API Functions
 
-__Downloads__: 33,093 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 33,095 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.Fun](https://www.powershellgallery.com/Packages/AdminToolbox.Fun/1.6.159) | 1.6.159
 
@@ -777,7 +840,7 @@ __Downloads__: 33,093 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions that have no purpose
 
-__Downloads__: 43,623 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 43,621 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.FileManagement](https://www.powershellgallery.com/Packages/AdminToolbox.FileManagement/1.16.150) | 1.16.150
 
@@ -785,7 +848,7 @@ __Downloads__: 43,623 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 File Management Functions
 
-__Downloads__: 44,081 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 44,079 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.FFTools](https://www.powershellgallery.com/Packages/AdminToolbox.FFTools/4.16.108) | 4.16.108
 
@@ -793,7 +856,7 @@ __Downloads__: 44,081 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Expedite simple ffmpeg actions
 
-__Downloads__: 44,027 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 44,025 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.Exchange](https://www.powershellgallery.com/Packages/AdminToolbox.Exchange/1.9.159) | 1.9.159
 
@@ -801,7 +864,7 @@ __Downloads__: 44,027 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions for Exchange Management
 
-__Downloads__: 46,026 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 46,024 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.EndpointManagement](https://www.powershellgallery.com/Packages/AdminToolbox.EndpointManagement/4.10.36) | 4.10.36
 
@@ -841,7 +904,7 @@ __Downloads__: 260 | __Repository__: https://github.com/ykuijs/M365DSC.CRG
 
 Gets Windows patch release information (Version, Build, Availability date, Hotpatch, Preview, Out-of-band, Servicing option, KB article, KB URL and Catalog URL) for Windows client and server versions. Useful for scripting and automation purposes. Supports Windows 10 and Windows Server 2016 onwards. Supports Hotpatch on Windows Server 2022 Azure Edition.
 
-__Downloads__: 92,712 | __Repository__: https://github.com/AshleyHow/WindowsOSBuild
+__Downloads__: 92,711 | __Repository__: https://github.com/AshleyHow/WindowsOSBuild
 
 ## [M365DSCTools](https://www.powershellgallery.com/Packages/M365DSCTools/0.2.12) | 0.2.12
 
@@ -897,7 +960,7 @@ __Downloads__: 14 | __Repository__:
 
 Terminal-based editor for PowerShell
 
-__Downloads__: 20,385 | __Repository__: https://github.com/ironmansoftware/psedit
+__Downloads__: 20,384 | __Repository__: https://github.com/ironmansoftware/psedit
 
 ## [TurnKeySdn](https://www.powershellgallery.com/Packages/TurnKeySdn/0.0.26) | 0.0.26
 
@@ -1988,20 +2051,4 @@ This modules provides Cmdlets for OCI Apigateway Service
 
 __Downloads__: 6,732 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-## [OCI.PSModules.Announcementsservice](https://www.powershellgallery.com/Packages/OCI.PSModules.Announcementsservice/86.1.0) | 86.1.0
-
-### Published: 07/02/2024 19:55:15 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Announcementsservice Service
-
-__Downloads__: 9,232 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Analytics](https://www.powershellgallery.com/Packages/OCI.PSModules.Analytics/86.1.0) | 86.1.0
-
-### Published: 07/02/2024 19:55:10 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Analytics Service
-
-__Downloads__: 6,613 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-*Updated: Sunday, 07 July 2024 17:51:38 UTC*
+*Updated: Monday, 08 July 2024 02:10:12 UTC*
