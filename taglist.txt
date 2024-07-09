@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Tuesday, 09 July 2024 09:51:53 UTC
+Updated: Tuesday, 09 July 2024 17:52:09 UTC
 
 .bat
 .env
@@ -14,8 +14,6 @@ Updated: Tuesday, 09 July 2024 09:51:53 UTC
 'provider'
 "interactive
 {modulenameplaceholder}
-**psedition_desktop**
-**windows**
 🍄
 🍣
 💩
@@ -416,7 +414,6 @@ applicationmigration
 applicationmonitor
 applications
 applocker
-apply
 appmgmtcontrol
 apppool
 appraiser
@@ -1085,7 +1082,6 @@ celcat
 celerium
 censor
 center
-centra
 central
 central-management
 centralcredentialprovider
@@ -1272,7 +1268,6 @@ cloudiq
 cloudkey
 cloudmarque
 cloudmigrations
-cloudpc
 cloudservice
 cloudshell
 clueser
@@ -1678,7 +1673,6 @@ customeventlogfiles
 customevents
 custominformationservices
 customis
-customisation
 customization
 customlocation
 customlogs
@@ -1903,7 +1897,6 @@ desktopvirtualization
 details
 detect
 detection
-detectionrule
 deutschland
 dev
 dev-tools
@@ -2242,6 +2235,7 @@ ec2
 ecommerce
 ecovadis
 ed25519
+edgaronline
 edge
 edgebackup
 edgeexport
@@ -2638,7 +2632,6 @@ fill
 film
 filter
 filter-item
-filtering
 fim
 fims
 finance
@@ -2938,6 +2931,7 @@ gitlabpipeline
 gitops
 glimps
 glob
+globalclipboard
 globaldashboard
 globalentry
 globallydistributeddatabase
@@ -3030,7 +3024,6 @@ grr
 gsuite
 gtx1080ti
 guardedfabric
-guardicore
 gubbins
 guest
 guestconfiguration
@@ -3410,6 +3403,7 @@ initiator
 inline-progress
 inlineprogress
 innerjoin
+innertext
 input
 inputbox
 inputobject
@@ -3962,7 +3956,6 @@ longfiles
 longitude
 look
 lookup
-loop
 loopback
 loremipsum
 love
@@ -4058,7 +4051,6 @@ mapping
 maps
 mapsapi
 mariadb
-mark
 markdig
 markdown
 markdownrender
@@ -4068,7 +4060,6 @@ marketplace
 marketplaceordering
 marketplaceprivateoffer
 marketplacepublisher
-marking
 marklogic
 marquee
 marvel
@@ -4234,12 +4225,12 @@ migrate
 migration
 migration-tool
 migrations
+mikrotik
 milestone
 mim
 mime
 mimekit
 min
-mindmeister
 minecraft
 miniconda
 minifier
@@ -4371,7 +4362,6 @@ msonlineext
 msp
 msp360
 mspbackups
-msproject
 msrc
 msrdc
 mssql
@@ -4862,6 +4852,7 @@ out-default
 out-gridview
 out-json
 outerjoin
+outertext
 outline
 outlook
 output
@@ -7261,7 +7252,6 @@ psdesiredstateconfiguration
 psdevops
 psdocs
 psdocs-documents
-psdocsgenerator
 psdrawio
 psdrive
 psdrives
@@ -8752,7 +8742,6 @@ resharper
 resize
 resolution
 resolve
-resolve-dnsname
 resolve-stache
 resolve-template
 resolver
@@ -8855,6 +8844,7 @@ route
 route53
 routeconfig
 router
+routeros
 routes
 routetable
 routine
@@ -9284,7 +9274,6 @@ sid
 sidecar
 siem
 sif
-sigma
 sign
 signalfx
 signalr
@@ -9722,6 +9711,7 @@ support-tools
 suppress
 supress-reboot
 surestacks
+surround
 survey
 surveymonkey
 sus
@@ -10056,9 +10046,7 @@ tracker
 tracking
 trading
 traffic
-trafficfiltering
 trafficmanager
-trafficmarking
 train
 trainer
 training
@@ -10097,7 +10085,6 @@ trendmicro
 trevor
 trevorsullivan
 triangle
-tribeloo
 trick
 tricks
 trigger
@@ -10302,7 +10289,6 @@ updmanagement
 updmgmt
 upgrade
 uplift
-uplink
 ups
 upsource
 upstream
@@ -10407,13 +10393,9 @@ vcsa
 vcvars
 vdi
 vdp
-vdportgroup
-vdswitch
-vduplink
 ve7cc
 vector
 veeam
-veeampn
 veeva
 venafi
 vencord
@@ -10441,6 +10423,7 @@ vie
 viewer
 vigenere
 vim
+vimode
 virole
 virsh
 virtual
@@ -10487,9 +10470,7 @@ vmfs
 vmgroup
 vmhost
 vmhostgroup
-vmhostnetworkadapater
 vmmanagement
-vmnic
 vmrole
 vmss
 vmtovmhostrule
@@ -10567,7 +10548,6 @@ vum
 vvx
 vxrail
 w32time
-w365
 w3svc
 w3w
 waa
@@ -10953,7 +10933,6 @@ yandex
 yapg
 yarn
 yetanotherhelloworld
-yml
 ynab
 youtube
 youtube-dl
