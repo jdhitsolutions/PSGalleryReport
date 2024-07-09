@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Tuesday, 09 July 2024 02:10:05 UTC
+Updated: Tuesday, 09 July 2024 09:51:53 UTC
 
 .bat
 .env
@@ -642,6 +642,7 @@ az
 az-cli
 az.runtimeenvironment
 az.stackhci
+azautomation
 azcli
 azcompute
 azd
@@ -649,6 +650,7 @@ azdisk
 azdo
 azereo
 azforensics
+azkeyvault
 aznetworking
 aznetworkinterface
 aznicdetails
@@ -659,6 +661,7 @@ azsdk
 azsk
 azsql
 azstackhci
+azstackhcivm
 azstate
 azsubnet
 aztools
@@ -896,6 +899,7 @@ blueteam
 bluetraitio
 bluetuxedo
 bmc
+bnm
 boards
 bofh
 boilerplate
@@ -1899,6 +1903,7 @@ desktopvirtualization
 details
 detect
 detection
+detectionrule
 deutschland
 dev
 dev-tools
@@ -2237,7 +2242,6 @@ ec2
 ecommerce
 ecovadis
 ed25519
-edgaronline
 edge
 edgebackup
 edgeexport
@@ -2510,6 +2514,7 @@ extendedevents
 extendedproperties
 extendedproperty
 extendscript
+extensibility
 extension
 extensionmethods
 extensionrisk
@@ -2933,7 +2938,6 @@ gitlabpipeline
 gitops
 glimps
 glob
-globalclipboard
 globaldashboard
 globalentry
 globallydistributeddatabase
@@ -3406,7 +3410,6 @@ initiator
 inline-progress
 inlineprogress
 innerjoin
-innertext
 input
 inputbox
 inputobject
@@ -4028,6 +4031,7 @@ managed
 managed-identity
 manageddevices
 manageddisks
+managedidentities
 managedidentity
 managednetworkfabric
 managedserviceidenity
@@ -4230,7 +4234,6 @@ migrate
 migration
 migration-tool
 migrations
-mikrotik
 milestone
 mim
 mime
@@ -4287,6 +4290,7 @@ moduleupdateinfo
 moduleupdater
 moduleversion
 mof
+moldova
 moment
 monaco
 monday
@@ -4858,7 +4862,6 @@ out-default
 out-gridview
 out-json
 outerjoin
-outertext
 outline
 outlook
 output
@@ -8852,7 +8855,6 @@ route
 route53
 routeconfig
 router
-routeros
 routes
 routetable
 routine
@@ -9282,6 +9284,7 @@ sid
 sidecar
 siem
 sif
+sigma
 sign
 signalfx
 signalr
@@ -9339,6 +9342,7 @@ skytap
 slack
 slash
 slashcommands
+slmgr
 sln
 slugify
 sm
@@ -9540,6 +9544,7 @@ sqlserverbynarypsmodule
 sqlservermodule
 sqlvirtualmachine
 sqlvm
+sqr
 sqrt
 square
 squire
@@ -9717,7 +9722,6 @@ support-tools
 suppress
 supress-reboot
 surestacks
-surround
 survey
 surveymonkey
 sus
@@ -10437,7 +10441,6 @@ vie
 viewer
 vigenere
 vim
-vimode
 virole
 virsh
 virtual
