@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Tuesday, 09 July 2024 17:52:09 UTC
+Updated: Wednesday, 10 July 2024 02:09:54 UTC
 
 .bat
 .env
@@ -14,6 +14,8 @@ Updated: Tuesday, 09 July 2024 17:52:09 UTC
 'provider'
 "interactive
 {modulenameplaceholder}
+**psedition_desktop**
+**windows**
 🍄
 🍣
 💩
@@ -239,8 +241,6 @@ afd
 affinity
 affinity-co
 affinity-crm
-after-effects
-aftereffects
 agenda
 agent
 aggregates
@@ -414,6 +414,7 @@ applicationmigration
 applicationmonitor
 applications
 applocker
+apply
 appmgmtcontrol
 apppool
 appraiser
@@ -606,7 +607,6 @@ autowrapper
 autoyast
 auvik
 availability
-availabilityset
 avalara
 avatar
 avd
@@ -617,7 +617,6 @@ avm
 avmtools
 avro
 avs
-avset
 await
 awareness
 awesome
@@ -875,7 +874,6 @@ blacklist
 blade
 bladeserver
 blaze
-blinking-text
 blob
 blobstorage
 block
@@ -901,7 +899,6 @@ boards
 bofh
 boilerplate
 boinc
-bold-text
 bolt
 bom
 book
@@ -1082,6 +1079,7 @@ celcat
 celerium
 censor
 center
+centra
 central
 central-management
 centralcredentialprovider
@@ -1268,6 +1266,7 @@ cloudiq
 cloudkey
 cloudmarque
 cloudmigrations
+cloudpc
 cloudservice
 cloudshell
 clueser
@@ -1662,7 +1661,6 @@ curseforge
 custom
 customchecks
 customdns
-customer
 customerengagement
 customers
 customeventchannel
@@ -1673,6 +1671,7 @@ customeventlogfiles
 customevents
 custominformationservices
 customis
+customisation
 customization
 customlocation
 customlogs
@@ -1897,6 +1896,7 @@ desktopvirtualization
 details
 detect
 detection
+detectionrule
 deutschland
 dev
 dev-tools
@@ -2045,7 +2045,6 @@ dnslookup
 dnsmadeeasy
 dnsoverhttps
 dnsrecord
-dnsresolver
 dnssec
 dnsserver
 dnssuffix
@@ -2507,7 +2506,6 @@ extendedattributes
 extendedevents
 extendedproperties
 extendedproperty
-extendscript
 extensibility
 extension
 extensionmethods
@@ -2632,6 +2630,7 @@ fill
 film
 filter
 filter-item
+filtering
 fim
 fims
 finance
@@ -3024,6 +3023,7 @@ grr
 gsuite
 gtx1080ti
 guardedfabric
+guardicore
 gubbins
 guest
 guestconfiguration
@@ -3044,7 +3044,6 @@ gzip
 gzip-compression
 ha
 haarlemsdagblad
-hack
 hacking
 hacktoberfest
 hadoop
@@ -3127,7 +3126,6 @@ help
 helpdesk
 helpdoc
 helper
-helper-functions
 helperfunctions
 helpers
 helpfile
@@ -3224,7 +3222,6 @@ hpwritemanager
 hris
 hrprovisioning
 hsdp
-hsl
 html
 http
 http_proxy
@@ -3256,7 +3253,6 @@ hyper-v
 hyperconverged
 hyperfine
 hyperlink
-hyperlinked-text
 hyperthreading
 hyperv
 hypervisor
@@ -3552,7 +3548,6 @@ it
 it-support
 it-tool
 it-tools
-italic-text
 item
 itemlist
 itemobject
@@ -3585,8 +3580,6 @@ jde
 jdedwards
 jdt
 jea
-jea_module
-jeanalyzer
 jenkins
 jetbrains
 jira
@@ -3808,8 +3801,6 @@ library
 libvirt
 licence
 license
-license-generator
-licenseautomation
 licensemanagement
 licensemanager
 licensereport
@@ -3956,6 +3947,7 @@ longfiles
 longitude
 look
 lookup
+loop
 loopback
 loremipsum
 love
@@ -4051,6 +4043,7 @@ mapping
 maps
 mapsapi
 mariadb
+mark
 markdig
 markdown
 markdownrender
@@ -4060,6 +4053,7 @@ marketplace
 marketplaceordering
 marketplaceprivateoffer
 marketplacepublisher
+marking
 marklogic
 marquee
 marvel
@@ -4362,6 +4356,7 @@ msonlineext
 msp
 msp360
 mspbackups
+msproject
 msrc
 msrdc
 mssql
@@ -4452,15 +4447,12 @@ ncal
 ndes
 nebulon
 nec-infrared-transmission-protocol
-necli
 nederland
 nedyalkov
 neo4j
 neovim
 neptune
 nerdfonts
-nerdio
-nerdioapi
 nerdymishka
 nessus
 nested
@@ -4476,7 +4468,6 @@ netappfiles
 netbox
 netcease
 netcore
-netextender
 netfirewallrule
 netherlands
 netmask
@@ -4560,7 +4551,6 @@ nlm
 nlog
 nmap
 nmbell
-nmm
 nntp
 node
 nodejs
@@ -4596,7 +4586,6 @@ npm
 npm-proxy
 npm-upgrade
 nprinting
-nprintingapi
 nps
 npslog
 npslogfile
@@ -4985,7 +4974,6 @@ pdf-files
 pdf-generation
 pdf-redaction
 pe
-peek
 peering
 peheader
 pem
@@ -5159,7 +5147,6 @@ poshrsjob
 poshtemplate
 poshwsus
 poshy-code-search
-poshy-colors
 poshy-coreutils-ish
 poshy-dir-nav
 poshy-ecks
@@ -5256,20 +5243,17 @@ powershell-7
 powershell-class
 powershell-cmdlets
 powershell-core
-powershell-core-releases-api
 powershell-course
 powershell-credentials
 powershell-dsc
 powershell-examples
 powershell-gallery
-powershell-github-repo
 powershell-gitlab
 powershell-graphql
 powershell-isprime
 powershell-lightning
 powershell-module
 powershell-modules
-powershell-releases-api
 powershell-remoting
 powershell-terminal
 powershell-terminal-copilot
@@ -5322,7 +5306,6 @@ prefixing
 preparead
 preparealldomains
 prepareschema
-prepend
 preprocessing
 preprocessor
 presentation
@@ -5504,25 +5487,6 @@ pscommand_basename
 pscommand_bcubc
 pscommand_bcubo
 pscommand_bfu
-pscommand_bgblack
-pscommand_bgblue
-pscommand_bgbrightblack
-pscommand_bgbrightblue
-pscommand_bgbrightcyan
-pscommand_bgbrightgreen
-pscommand_bgbrightmagenta
-pscommand_bgbrightred
-pscommand_bgbrightwhite
-pscommand_bgbrightyellow
-pscommand_bgcolor
-pscommand_bgcyan
-pscommand_bggreen
-pscommand_bghsl
-pscommand_bgmagenta
-pscommand_bgred
-pscommand_bgrgb
-pscommand_bgwhite
-pscommand_bgyellow
 pscommand_brewp
 pscommand_brewsp
 pscommand_bubc
@@ -5545,7 +5509,6 @@ pscommand_clocr
 pscommand_confirm-gitbisectcommitbad
 pscommand_confirm-gitbisectcommitgood
 pscommand_convertto-nixmode
-pscommand_convertto-rgb
 pscommand_d
 pscommand_d64
 pscommand_dbl
@@ -5718,41 +5681,6 @@ pscommand_encode64
 pscommand_encodefile64
 pscommand_export-gitrepositoryzip
 pscommand_extract
-pscommand_fgblack
-pscommand_fgblue
-pscommand_fgbrightblack
-pscommand_fgbrightblue
-pscommand_fgbrightcyan
-pscommand_fgbrightgreen
-pscommand_fgbrightmagenta
-pscommand_fgbrightred
-pscommand_fgbrightwhite
-pscommand_fgbrightyellow
-pscommand_fgcolor
-pscommand_fgcyan
-pscommand_fggreen
-pscommand_fghsl
-pscommand_fgmagenta
-pscommand_fgred
-pscommand_fgrgb
-pscommand_fgwhite
-pscommand_fgyellow
-pscommand_fmtblink
-pscommand_fmtblinkoff
-pscommand_fmtbold
-pscommand_fmtboldoff
-pscommand_fmthidden
-pscommand_fmthiddenoff
-pscommand_fmthyperlink
-pscommand_fmtitalic
-pscommand_fmtitalicoff
-pscommand_fmtreset
-pscommand_fmtreverse
-pscommand_fmtreverseoff
-pscommand_fmtstrikethrough
-pscommand_fmtstrikethroughoff
-pscommand_fmtunderline
-pscommand_fmtunderlineoff
 pscommand_forgit-add
 pscommand_forgit-blame
 pscommand_forgit-branch-delete
@@ -7252,6 +7180,7 @@ psdesiredstateconfiguration
 psdevops
 psdocs
 psdocs-documents
+psdocsgenerator
 psdrawio
 psdrive
 psdrives
@@ -7305,30 +7234,10 @@ psfunction_apt-history
 psfunction_apt-list-packages
 psfunction_arch
 psfunction_basename
-psfunction_bgblack
-psfunction_bgblue
-psfunction_bgbrightblack
-psfunction_bgbrightblue
-psfunction_bgbrightcyan
-psfunction_bgbrightgreen
-psfunction_bgbrightmagenta
-psfunction_bgbrightred
-psfunction_bgbrightwhite
-psfunction_bgbrightyellow
-psfunction_bgcolor
-psfunction_bgcyan
-psfunction_bggreen
-psfunction_bghsl
-psfunction_bgmagenta
-psfunction_bgred
-psfunction_bgrgb
-psfunction_bgwhite
-psfunction_bgyellow
 psfunction_catimg
 psfunction_confirm-gitbisectcommitbad
 psfunction_confirm-gitbisectcommitgood
 psfunction_convertto-nixmode
-psfunction_convertto-rgb
 psfunction_d
 psfunction_decode64
 psfunction_decodefile64
@@ -7404,41 +7313,6 @@ psfunction_encode64
 psfunction_encodefile64
 psfunction_export-gitrepositoryzip
 psfunction_extract
-psfunction_fgblack
-psfunction_fgblue
-psfunction_fgbrightblack
-psfunction_fgbrightblue
-psfunction_fgbrightcyan
-psfunction_fgbrightgreen
-psfunction_fgbrightmagenta
-psfunction_fgbrightred
-psfunction_fgbrightwhite
-psfunction_fgbrightyellow
-psfunction_fgcolor
-psfunction_fgcyan
-psfunction_fggreen
-psfunction_fghsl
-psfunction_fgmagenta
-psfunction_fgred
-psfunction_fgrgb
-psfunction_fgwhite
-psfunction_fgyellow
-psfunction_fmtblink
-psfunction_fmtblinkoff
-psfunction_fmtbold
-psfunction_fmtboldoff
-psfunction_fmthidden
-psfunction_fmthiddenoff
-psfunction_fmthyperlink
-psfunction_fmtitalic
-psfunction_fmtitalicoff
-psfunction_fmtreset
-psfunction_fmtreverse
-psfunction_fmtreverseoff
-psfunction_fmtstrikethrough
-psfunction_fmtstrikethroughoff
-psfunction_fmtunderline
-psfunction_fmtunderlineoff
 psfunction_forgit-add
 psfunction_forgit-blame
 psfunction_forgit-branch-delete
@@ -8739,9 +8613,9 @@ reservation
 reservations
 reset
 resharper
-resize
 resolution
 resolve
+resolve-dnsname
 resolve-stache
 resolve-template
 resolver
@@ -8777,7 +8651,6 @@ retype
 reuse
 reverse-engineer
 reverse-string
-reversed-color-text
 reversedsc
 reverseengineering
 review
@@ -8796,7 +8669,6 @@ rfc5952
 rfc826
 rfc9116
 rg
-rgb
 rhapsody
 ribbon
 ribcl
@@ -9274,6 +9146,7 @@ sid
 sidecar
 siem
 sif
+sigma
 sign
 signalfx
 signalr
@@ -9416,7 +9289,6 @@ sonarqube
 sonarr
 sonatype
 songs
-sonicos
 sonicwall
 sonicwallvpn
 sonus
@@ -9487,7 +9359,6 @@ sport
 sports
 sports-tracker
 spotify
-spotify-api
 spotlight
 spotlightimages
 spp
@@ -9558,7 +9429,6 @@ sslflags
 ssllabs
 ssllabs-scan
 sslprotocol
-sslvpn
 ssm
 sso
 sspi
@@ -9651,7 +9521,6 @@ streamreader
 streamwriter
 stretch
 strictmode
-strikethrough-text
 string
 string-template
 stringmanager
@@ -9692,7 +9561,6 @@ subsystem
 subtitle
 subversion
 success
-successfactors
 sudo
 sugar
 sugarcrm
@@ -9859,7 +9727,6 @@ techedna2014
 techlog
 technology
 techsmith
-tel
 telegram
 telegram-bot
 telegram-bot-api
@@ -10046,7 +9913,9 @@ tracker
 tracking
 trading
 traffic
+trafficfiltering
 trafficmanager
+trafficmarking
 train
 trainer
 training
@@ -10093,7 +9962,6 @@ tripunkt
 troubleshoot
 troubleshooting
 trouw
-true-color
 truecrypt
 truenas
 trumethods
@@ -10210,7 +10078,6 @@ ud-tool
 ud-toploader
 ud-trendline
 ud-typing
-ud-window
 ud-wordtree
 udcm
 udfeedback
@@ -10237,7 +10104,6 @@ unattend
 unattendedfile
 unblock
 unc
-underlined-text
 unhide
 unicode
 unicode-emoji
@@ -10289,6 +10155,7 @@ updmanagement
 updmgmt
 upgrade
 uplift
+uplink
 ups
 upsource
 upstream
@@ -10356,7 +10223,6 @@ vale
 validate
 validate-dcb
 validatedsolutions
-validatemapsconnectivity
 validation
 validator
 value
@@ -10393,9 +10259,13 @@ vcsa
 vcvars
 vdi
 vdp
+vdportgroup
+vdswitch
+vduplink
 ve7cc
 vector
 veeam
+veeampn
 veeva
 venafi
 vencord
@@ -10462,7 +10332,6 @@ visualstudioonline
 visualstudioteamservices
 vlan
 vlookup
-vlsm
 vm
 vmc
 vmelamed5
@@ -10470,7 +10339,9 @@ vmfs
 vmgroup
 vmhost
 vmhostgroup
+vmhostnetworkadapater
 vmmanagement
+vmnic
 vmrole
 vmss
 vmtovmhostrule
@@ -10548,6 +10419,7 @@ vum
 vvx
 vxrail
 w32time
+w365
 w3svc
 w3w
 waa
@@ -10728,7 +10600,6 @@ windowsinternals
 windowsiotservices
 windowsiso
 windowsmanagementframework
-windowspackagemanager
 windowsplugins
 windowspowershell
 windowspresentationfoundation
@@ -10933,6 +10804,7 @@ yandex
 yapg
 yarn
 yetanotherhelloworld
+yml
 ynab
 youtube
 youtube-dl
