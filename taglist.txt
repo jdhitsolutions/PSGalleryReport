@@ -1,7 +1,8 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Wednesday, 10 July 2024 17:51:57 UTC
+Updated: Thursday, 11 July 2024 02:10:40 UTC
 
+.bat
 .env
 .net
 .prom
@@ -266,6 +267,7 @@ ais
 aispeech
 aivision
 ajustee
+aka.ms
 aks
 aks-hci
 akscluster
@@ -613,6 +615,7 @@ avatar
 avd
 ave
 avepoint
+avi
 avm
 avmtools
 avro
@@ -1619,6 +1622,7 @@ crontab
 cropping
 cross-platform
 crossjoin
+crossover
 crossplatform
 crossplatformdevelopment
 crowdstrike
@@ -1838,6 +1842,7 @@ decrypt
 decryption
 dedicatedhsm
 deduplication
+deep
 deep-security
 deep-security-manager
 deepl
@@ -2105,6 +2110,7 @@ dots
 dotteddecimalip
 doubleclick
 download
+downloader
 downloadfacebookvideo
 downloadfilefromsite
 downloadinfo
@@ -2335,7 +2341,6 @@ entity
 entityframework
 entra
 entraid
-entraidgovernance
 entropy
 enum
 enumerable
@@ -2433,6 +2438,7 @@ everydaypowershell
 everydayrewards
 everything
 evilprince2009
+evolutionary-algorithms
 evolutionary-database
 evtx
 ews
@@ -2518,6 +2524,7 @@ external
 externalip
 extract
 extraction
+extractor
 extreme-networks
 eztheme
 f
@@ -2731,7 +2738,6 @@ fortigate
 fortigi
 fortimanager
 fortinet
-fortinetmanager
 fortios
 fortune
 forum
@@ -2833,8 +2839,6 @@ genai
 general
 generate
 generate-dockerimagevariants
-generate-password
-generate-random-password
 generateaddress
 generates
 generatewif
@@ -2844,6 +2848,7 @@ generativeaiinference
 generator
 generic
 genericartifactscontent
+genetic-algorithm
 genp
 genxdev
 geo
@@ -3185,6 +3190,7 @@ home_automation
 homebrew
 homelandsecurity
 homeschooling
+hon
 hooking
 horizon
 horizontal
@@ -3222,7 +3228,6 @@ hpesynergy
 hponeview
 hpwritemanager
 hris
-hrprovisioning
 hsdp
 hsl
 html
@@ -3358,7 +3363,6 @@ imei
 imi
 impala
 impersonation
-imperva
 import
 import-csv
 import-dtdriverpackpackagedefinitionsms
@@ -3833,10 +3837,10 @@ linearalgebra
 lingeringobjects
 link
 link-capability
-link-preview
 linkedin
 linkedservice
 linkedservicedependency
+linkid
 links
 linq
 linqpad
@@ -4404,6 +4408,7 @@ multithreading
 music
 musiccast
 mustache
+mutation
 mute
 mutex
 mva
@@ -4447,6 +4452,7 @@ nasdaq
 native
 natpool
 natural-language-to-code
+natural-selection
 nature
 nav
 navigation
@@ -4580,10 +4586,12 @@ norway
 norwegian
 nos
 nosql
+note
 notebook
 notepad
 notepad2
 noteproperty
+notes
 notification
 notificationhubs
 notifications
@@ -4597,6 +4605,7 @@ npm
 npm-proxy
 npm-upgrade
 nprinting
+nprintingapi
 nps
 npslog
 npslogfile
@@ -4789,6 +4798,7 @@ opsi
 opsmgr
 optics
 optimise
+optimization
 optimize
 optimizer
 option
@@ -5124,6 +5134,7 @@ pop
 pop-location
 pop3
 popd
+population
 popup
 port
 port-scanner
@@ -5373,6 +5384,7 @@ product
 productid
 productivity
 productmedia
+products
 productstate
 profile
 profiler
@@ -7260,6 +7272,8 @@ psdshook
 pse
 psedition_5
 psedition_5.1
+psedition_7.3
+psedition_7.4
 psedition_core
 psedition_desk
 psedition_desktop
@@ -8529,7 +8543,6 @@ ram-it
 random
 random-date
 random-password
-random-password-generator
 randompassword
 randomuser
 randomusers
@@ -9076,7 +9089,6 @@ securegopher+
 securemfa
 securerdp
 securescore
-securesphere
 securestring
 security
 security-awareness-training
@@ -9947,7 +9959,6 @@ tfsec
 tfswitch
 tftd
 tftp
-tfvars
 tfvc
 thecrushingemptinessofquotidianexistence
 theme
@@ -10335,6 +10346,7 @@ userrightsassignment
 users
 userworkstations
 usg
+usps
 utc
 utf-8
 utf-sig
@@ -10784,6 +10796,7 @@ wisconsin-madison
 wisconsin'uw-madison
 wisdom
 with
+wiz
 wizard
 wkhtmltopdf
 wlan
