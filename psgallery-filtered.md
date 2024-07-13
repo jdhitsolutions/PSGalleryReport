@@ -3,6 +3,14 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [PSPublishModule](https://www.powershellgallery.com/Packages/PSPublishModule/2.0.13) | 2.0.13
+
+### Published: 07/13/2024 07:15:21 by Przemyslaw Klys
+
+Simple project allowing preparing, managing, building and publishing modules to PowerShellGallery
+
+__Downloads__: 2,067 | __Repository__: https://github.com/EvotecIT/PSPublishModule
+
 ## [Harden-Windows-Security-Module](https://www.powershellgallery.com/Packages/Harden-Windows-Security-Module/0.4.7) | 0.4.7
 
 ### Published: 07/12/2024 23:28:31 by HotCakeX
@@ -2098,17 +2106,4 @@ Enables parallel processing of pipeline input objects.
 
 __Downloads__: 578 | __Repository__: https://github.com/santisq/PSParallelPipeline
 
-## [ps12exe](https://www.powershellgallery.com/Packages/ps12exe/0.3.49) | 0.3.49
-
-### Published: 07/09/2024 03:34:08 by steve02081504
-
-better pwsh code 2 exe repo:
-- Use `ps12exe a.ps1` to convert `a.ps1` into `a.exe`;
-- Use `ps12exeGUI` for a graphical interface that simplifies compilation;
-- Use `Set-ps12exeContextMenu` to add a context menu item for quick compilation or GUI access on `.ps1` files;
-- Use `Start-ps12exeWebServer` to launch a web server that allows users to compile scripts online;
-All commands in this module support the `-help` option for detailed assistance in your language.
-
-__Downloads__: 1,343 | __Repository__: https://github.com/steve02081504/ps12exe
-
-*Updated: Saturday, 13 July 2024 02:09:16 UTC*
+*Updated: Saturday, 13 July 2024 09:51:44 UTC*
