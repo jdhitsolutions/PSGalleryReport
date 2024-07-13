@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Saturday, 13 July 2024 09:51:52 UTC
+Updated: Saturday, 13 July 2024 17:52:00 UTC
 
 .bat
 .env
@@ -1050,7 +1050,6 @@ cat-names
 catalog
 catalogs
 catalyst
-catapult
 catesta
 catimage
 cats
@@ -1294,7 +1293,6 @@ cmdlet-testing
 cmdlets
 cmdstan
 cmgroupdiscovery
-cmhealth
 cmhealthcheck
 cminifile
 cmnetworkports
@@ -1760,6 +1758,7 @@ dataexplorer
 datafactory
 dataflow
 dataflowdependency
+dataframe
 datagateway
 dataintegration
 datakwaliteit
@@ -2135,7 +2134,6 @@ driftmonitor
 drink
 drive
 drive letter
-drivemap
 driver
 driverpacks
 drivers
@@ -2722,7 +2720,6 @@ forensic
 forensics
 forest
 forestdiscovery
-forgit
 forgiveness
 form
 format
@@ -2832,6 +2829,7 @@ gcs
 gdap
 gdpr
 gedit
+gem
 gemini
 geminiprotocol
 gemlog
@@ -2852,7 +2850,6 @@ generator
 generic
 genericartifactscontent
 genetic-algorithm
-genp
 genxdev
 geo
 geocache
@@ -2874,7 +2871,6 @@ get-credential
 get-criticaltrippoint
 get-currentcputemperature
 get-dellwarranty
-get-directorycontents
 get-dtcmdevicemodel
 get-dtdriverpack
 get-dtdriverupdates
@@ -3660,6 +3656,7 @@ karabiner
 karabiner-elements
 karma
 kaseya
+kaseyavsa
 kaspersky
 katakana
 kb
@@ -3706,7 +3703,6 @@ kms
 knapsack
 knetps
 knob
-knowbe4
 knowledge
 knowledgebase
 koans
@@ -3753,6 +3749,7 @@ lake
 lambda
 lame
 lametrictime
+lamp
 lan
 landingzones
 language
@@ -4806,7 +4803,6 @@ optimization
 optimize
 optimizer
 option
-option119
 options
 optionstring
 opus
@@ -5196,7 +5192,7 @@ poshy-wrap-dnf
 poshy-wrap-docker
 poshy-wrap-docker-compose
 poshy-wrap-dotnet
-poshy-wrap-forgit
+poshy-wrap-gem
 poshy-wrap-gh
 poshy-wrap-git
 poshy-wrap-git-flow
@@ -5264,7 +5260,6 @@ powerprotect_datamanager
 powersaving
 powerscheme
 powershell
-powershell_universal
 powershell-7
 powershell-class
 powershell-cmdlets
@@ -5312,7 +5307,6 @@ powershelluniversal
 powershellv5
 powerstig
 powerstore
-powertab
 powertoolcmdlets
 powertooldsc
 ppdm
@@ -5467,6 +5461,7 @@ psazd
 psbackup
 psbbix
 psbicep
+pscandy
 psclient
 pscmdlet
 pscommand__python3
@@ -5766,29 +5761,6 @@ pscommand_fmtstrikethrough
 pscommand_fmtstrikethroughoff
 pscommand_fmtunderline
 pscommand_fmtunderlineoff
-pscommand_forgit-add
-pscommand_forgit-blame
-pscommand_forgit-branch-delete
-pscommand_forgit-checkout-branch
-pscommand_forgit-checkout-commit
-pscommand_forgit-checkout-file
-pscommand_forgit-checkout-tag
-pscommand_forgit-cherry-pick
-pscommand_forgit-cherry-pick-from-branch
-pscommand_forgit-clean
-pscommand_forgit-diff
-pscommand_forgit-fixup
-pscommand_forgit-ignore
-pscommand_forgit-ignore-clean
-pscommand_forgit-ignore-list
-pscommand_forgit-ignore-update
-pscommand_forgit-ignoreget
-pscommand_forgit-log
-pscommand_forgit-rebase
-pscommand_forgit-reset-head
-pscommand_forgit-revert-commit
-pscommand_forgit-stash-push
-pscommand_forgit-stash-show
 pscommand_format-batcatstyle
 pscommand_format-lesstermcapenv
 pscommand_format-viewerinvocationsh
@@ -5831,7 +5803,6 @@ pscommand_gcame
 pscommand_gcamg
 pscommand_gcams
 pscommand_gcamu
-pscommand_gcb
 pscommand_gcd
 pscommand_gcem
 pscommand_gcf
@@ -5871,6 +5842,19 @@ pscommand_gdsth
 pscommand_gdstp
 pscommand_gdt
 pscommand_gdv
+pscommand_geca
+pscommand_gecb
+pscommand_geclup
+pscommand_gecr
+pscommand_gegi
+pscommand_geh
+pscommand_gei
+pscommand_geiall
+pscommand_gein
+pscommand_gel
+pscommand_geli
+pscommand_geo
+pscommand_geoe
 pscommand_get
 pscommand_get-aptinstalledpackages
 pscommand_get-childitemcolorfully
@@ -5938,6 +5922,7 @@ pscommand_get-netipaddresssimple
 pscommand_get-pwshaliasdefinition
 pscommand_get-pwshfunctiondefinition
 pscommand_get-viewer
+pscommand_geun
 pscommand_gexport
 pscommand_gf
 pscommand_gfa
@@ -5965,7 +5950,6 @@ pscommand_gflrs
 pscommand_gfo
 pscommand_gft
 pscommand_gftv
-pscommand_gfu
 pscommand_gfv
 pscommand_gg
 pscommand_ggb
@@ -5974,7 +5958,6 @@ pscommand_ggs
 pscommand_ggui
 pscommand_ggup
 pscommand_ghm
-pscommand_gi
 pscommand_gignore
 pscommand_gignored
 pscommand_git_blame_line
@@ -6082,7 +6065,6 @@ pscommand_gra
 pscommand_grb
 pscommand_grbc
 pscommand_grbm
-pscommand_grc
 pscommand_grem
 pscommand_grema
 pscommand_gremrm
@@ -6107,7 +6089,6 @@ pscommand_gsd
 pscommand_gsh
 pscommand_gshsf
 pscommand_gsl
-pscommand_gsp
 pscommand_gsr
 pscommand_gss
 pscommand_gssll
@@ -6211,6 +6192,22 @@ pscommand_invoke-dockercomposeupdetached
 pscommand_invoke-dockercomposeupdetachedwithbuild
 pscommand_invoke-dockercomposeupnostart
 pscommand_invoke-dockercomposeupwithbuild
+pscommand_invoke-gemcertadd
+pscommand_invoke-gemcertbuild
+pscommand_invoke-gemcertremove
+pscommand_invoke-gemcleanupno
+pscommand_invoke-gemgenerateindex
+pscommand_invoke-gemhelp
+pscommand_invoke-geminfo
+pscommand_invoke-geminfoall
+pscommand_invoke-geminstall
+pscommand_invoke-gemlist
+pscommand_invoke-gemlock
+pscommand_invoke-gemopen
+pscommand_invoke-gemopeneditor
+pscommand_invoke-gemremovebypattern
+pscommand_invoke-gemsystem
+pscommand_invoke-gemuninstall
 pscommand_invoke-git
 pscommand_invoke-gitaddinteractivelypatch
 pscommand_invoke-gitbisect
@@ -6950,6 +6947,7 @@ pscommand_python3
 pscommand_rb
 pscommand_read-dotenv
 pscommand_register-argcompleteargumentcompleter
+pscommand_remove_gem
 pscommand_remove-dockercontainerall
 pscommand_remove-dockerunusedimage
 pscommand_remove-envpathitem
@@ -7009,6 +7007,7 @@ pscommand_set-locationup2
 pscommand_set-locationup3
 pscommand_set-locationup4
 pscommand_set-locationup5
+pscommand_sgem
 pscommand_show-gitremote
 pscommand_show-proxy
 pscommand_shttp
@@ -7421,29 +7420,6 @@ psfunction_fmtstrikethrough
 psfunction_fmtstrikethroughoff
 psfunction_fmtunderline
 psfunction_fmtunderlineoff
-psfunction_forgit-add
-psfunction_forgit-blame
-psfunction_forgit-branch-delete
-psfunction_forgit-checkout-branch
-psfunction_forgit-checkout-commit
-psfunction_forgit-checkout-file
-psfunction_forgit-checkout-tag
-psfunction_forgit-cherry-pick
-psfunction_forgit-cherry-pick-from-branch
-psfunction_forgit-clean
-psfunction_forgit-diff
-psfunction_forgit-fixup
-psfunction_forgit-ignore
-psfunction_forgit-ignore-clean
-psfunction_forgit-ignore-list
-psfunction_forgit-ignore-update
-psfunction_forgit-ignoreget
-psfunction_forgit-log
-psfunction_forgit-rebase
-psfunction_forgit-reset-head
-psfunction_forgit-revert-commit
-psfunction_forgit-stash-push
-psfunction_forgit-stash-show
 psfunction_format-batcatstyle
 psfunction_format-lesstermcapenv
 psfunction_format-viewerinvocationsh
@@ -7605,6 +7581,22 @@ psfunction_invoke-dockercomposeupdetached
 psfunction_invoke-dockercomposeupdetachedwithbuild
 psfunction_invoke-dockercomposeupnostart
 psfunction_invoke-dockercomposeupwithbuild
+psfunction_invoke-gemcertadd
+psfunction_invoke-gemcertbuild
+psfunction_invoke-gemcertremove
+psfunction_invoke-gemcleanupno
+psfunction_invoke-gemgenerateindex
+psfunction_invoke-gemhelp
+psfunction_invoke-geminfo
+psfunction_invoke-geminfoall
+psfunction_invoke-geminstall
+psfunction_invoke-gemlist
+psfunction_invoke-gemlock
+psfunction_invoke-gemopen
+psfunction_invoke-gemopeneditor
+psfunction_invoke-gemremovebypattern
+psfunction_invoke-gemsystem
+psfunction_invoke-gemuninstall
 psfunction_invoke-git
 psfunction_invoke-gitaddinteractivelypatch
 psfunction_invoke-gitbisect
@@ -8537,6 +8529,7 @@ rdpsign
 rds
 rdsgw
 react-stockcharts
+read
 read-slog
 readable
 reader
@@ -8612,7 +8605,6 @@ region
 regions
 regiser-argumentcompleter
 register
-register-argumentcompleter
 registered
 registrar
 registration
@@ -8903,7 +8895,6 @@ sapstartstopazure
 sarcasm
 sarif
 sas
-sat
 satirical
 save
 savedcreds
@@ -9020,7 +9011,6 @@ searchmanager
 searchplace
 searchquery
 searchstring
-searchsuffixlist
 secaas
 secedit
 secret
@@ -9047,7 +9037,6 @@ securescore
 securesphere
 securestring
 security
-security-awareness-training
 security-policy
 security-score
 security-txt
@@ -9111,7 +9100,6 @@ seppmail
 seppmail.cloud
 seq
 sequence
-serial
 serialization
 serialize
 sericemanagement
@@ -10086,6 +10074,7 @@ tsqlbestpractice
 tst
 tst1
 tst3
+tsv
 ttrpg
 tts
 tubedownloader
@@ -10880,6 +10869,7 @@ xiaomi
 xin
 xkcd
 xliff
+xlsx
 xmc
 xml
 xml-rpc

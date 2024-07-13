@@ -3,6 +3,38 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [Winpack](https://www.powershellgallery.com/Packages/Winpack/0.2.1) | 0.2.1
+
+### Published: 07/13/2024 16:33:54 by yvesg
+
+Helpers functions for Winget
+
+__Downloads__: 291 | __Repository__: https://github.com/Yves848/winpack/tree/master
+
+## [psCandy](https://www.powershellgallery.com/Packages/psCandy/0.1.3) | 0.1.3
+
+### Published: 07/13/2024 16:26:49 by Yves Godart
+
+This module provides classes for Eye-Candy in the console.
+
+__Downloads__: 0 | __Repository__: https://github.com/Yves848/psCandy/tree/master
+
+## [FarNet.Stateless](https://www.powershellgallery.com/Packages/FarNet.Stateless/0.0.3) | 0.0.3
+
+### Published: 07/13/2024 15:41:28 by Roman Kuzmin
+
+Stateless library interactive helpers.
+
+__Downloads__: 3 | __Repository__: https://github.com/nightroman/FarNet.Stateless
+
+## [PSScriptTools](https://www.powershellgallery.com/Packages/PSScriptTools/2.50.0) | 2.50.0
+
+### Published: 07/13/2024 14:35:46 by Jeff Hicks
+
+A collection of PowerShell functions designed to enhance your own functions and scripts or to facilitate working in the console. Most of the commands should work in Windows PowerShell and PowerShell 7, even cross-platform. Any operating system limitations should be handled on a per-command basis.
+
+__Downloads__: 185,677 | __Repository__: https://github.com/jdhitsolutions/PSScriptTools
+
 ## [PSPublishModule](https://www.powershellgallery.com/Packages/PSPublishModule/2.0.13) | 2.0.13
 
 ### Published: 07/13/2024 07:15:21 by Przemyslaw Klys
@@ -114,14 +146,6 @@ PdfLexer is a powershell pdf manipulation library for Powershell 7+.
  https://github.com/pdflexer/pdflexer
 
 __Downloads__: 1,069 | __Repository__: https://github.com/pdflexer/pdflexer
-
-## [psCandy](https://www.powershellgallery.com/Packages/psCandy/0.1.2) | 0.1.2
-
-### Published: 07/12/2024 17:38:59 by Yves Godart
-
-This module provides classes for Eye-Candy in the console.
-
-__Downloads__: 0 | __Repository__: https://github.com/Yves848/psCandy/tree/master
 
 ## [RSCReporting](https://www.powershellgallery.com/Packages/RSCReporting/1.0.3) | 1.0.3
 
@@ -260,14 +284,6 @@ __Downloads__: 4,177 | __Repository__: https://github.com/fscpscollaborative/fsc
 ServiceControl Management
 
 __Downloads__: 2,165 | __Repository__: https://github.com/Particular/ServiceControl
-
-## [FarNet.Stateless](https://www.powershellgallery.com/Packages/FarNet.Stateless/0.0.2) | 0.0.2
-
-### Published: 07/12/2024 04:50:13 by Roman Kuzmin
-
-Stateless library interactive helpers.
-
-__Downloads__: 3 | __Repository__: https://github.com/nightroman/FarNet.Stateless
 
 ## [PSJet](https://www.powershellgallery.com/Packages/PSJet/0.2.7) | 0.2.7
 
@@ -2090,20 +2106,4 @@ PowerShell module to access the IAM API
 
 __Downloads__: 1,092 | __Repository__: https://gitlab.ethz.ch/iamclient/iam-powershell
 
-## [Intersight.PowerShell](https://www.powershellgallery.com/Packages/Intersight.PowerShell/1.0.11.17412) | 1.0.11.17412
-
-### Published: 07/09/2024 05:50:30 by Cisco Systems
-
-Intersight Powershell module provides the cmdlets to manage, analyze, and automate the IT infrastructure in Intersight.
-
-__Downloads__: 9,643 | __Repository__: https://github.com/CiscoDevNet/intersight-powershell
-
-## [PSParallelPipeline](https://www.powershellgallery.com/Packages/PSParallelPipeline/1.2.0) | 1.2.0
-
-### Published: 07/09/2024 04:15:17 by Santiago Squarzon
-
-Enables parallel processing of pipeline input objects.
-
-__Downloads__: 578 | __Repository__: https://github.com/santisq/PSParallelPipeline
-
-*Updated: Saturday, 13 July 2024 09:51:44 UTC*
+*Updated: Saturday, 13 July 2024 17:51:52 UTC*
