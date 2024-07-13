@@ -3,6 +3,110 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [Harden-Windows-Security-Module](https://www.powershellgallery.com/Packages/Harden-Windows-Security-Module/0.4.7) | 0.4.7
+
+### Published: 07/12/2024 23:28:31 by HotCakeX
+
+Harden Windows Safely, Securely, only with Official Microsoft methods
+
+⭕ This module provides 3 main features: Hardening, Auditing/checking the system compliance, and undoing the Hardening
+
+⭕ Please read the GitHub's readme before running this module: https://github.com/HotCakeX/Harden-Windows-Security
+
+💜 GUI (Graphical User Interface) is Available! Run (Protect-WindowsSecurity -GUI) to use the GUI instead of the CLI experience.
+
+💠 Features of this module:
+
+  ✅ Everything always stays up-to-date with the newest proactive security measures that are industry standards and scalable.
+  ✅ Everything is in plain text, nothing hidden, no 3rd party executable or pre-compiled binary is involved.
+  ✅ No Windows functionality is removed/disabled against Microsoft's recommendations.
+  ✅ The module primarily uses Group policies, the Microsoft recommended way of configuring Windows. It also uses PowerShell cmdlets where Group Policies aren't available, and finally uses a few registry keys to configure security measures that can neither be configured using Group Policies nor PowerShell cmdlets. This is why the module doesn't break anything or cause unwanted behavior.
+  ✅ When a hardening measure is no longer necessary because it's applied by default by Microsoft on new builds of Windows, it will also be removed from the module in order to prevent any problems and because it won't be necessary anymore.
+  ✅ The module can be run infinite number of times, it's made in a way that it won't make any duplicate changes.
+  ✅ The module prompts for confirmation before running each hardening category.
+  ✅ Applying these hardening measures makes your PC compliant with Microsoft Security Baselines and Secured-core PC specifications (provided that you use modern hardware that supports the latest Windows security features)
+
+💠 Hardening Categories from top to bottom: (⬇️Detailed info about each of them at my Github⬇️)
+
+⏹ Commands that require Administrator Privileges
+  ✅ Microsoft Security Baselines
+  ✅ Microsoft 365 Apps Security Baselines
+  ✅ Microsoft Defender
+  ✅ Attack surface reduction rules
+  ✅ Bitlocker Settings
+  ✅ TLS Security
+  ✅ Lock Screen
+  ✅ UAC (User Account Control)
+  ✅ Windows Firewall
+  ✅ Optional Windows Features
+  ✅ Windows Networking
+  ✅ Miscellaneous Configurations
+  ✅ Windows Update Configurations
+  ✅ Edge Browser Configurations
+  ✅ Certificate Checking Commands
+  ✅ Country IP Blocking
+  ✅ Downloads Defense Measures
+⏹ Commands that don't require Administrator Privileges
+  ✅ Non-Admin Commands that only affect the current user and do not make machine-wide changes.
+
+
+💎 This module has hybrid mode of operation. It can run Interactively and non-interactively (Silent/unattended mode). More info in the document: https://github.com/HotCakeX/Harden-Windows-Security/wiki/Harden%E2%80%90Windows%E2%80%90Security%E2%80%90Module
+
+🏴 If you have any questions, requests, suggestions etc. about this module, please open a new Discussion or Issue on GitHub
+
+🟡 The module generates a nice output on the screen as well as giving users an option to export the results in a CSV file.
+
+__Downloads__: 18,087 | __Repository__: https://github.com/HotCakeX/Harden-Windows-Security
+
+## [SortJson](https://www.powershellgallery.com/Packages/SortJson/1.0.5) | 1.0.5
+
+### Published: 07/12/2024 23:09:03 by PowershellCrack
+
+Sorts json objects in alphabetical order
+
+__Downloads__: 44 | __Repository__: https://github.com/PowerShellCrack/PSSortJsonModule
+
+## [PSDuckDB](https://www.powershellgallery.com/Packages/PSDuckDB/0.1.4) | 0.1.4
+
+### Published: 07/12/2024 20:59:36 by Douglas Finke
+
+PSDuckDB is a PowerShell module that provides seamless integration with DuckDB, enabling efficient execution of analytical SQL queries directly from the PowerShell environment.
+
+__Downloads__: 12 | __Repository__: https://github.com/dfinke/PSDuckDB
+
+## [Mold](https://www.powershellgallery.com/Packages/Mold/0.0.5) | 0.0.5
+
+### Published: 07/12/2024 20:32:57 by Manjunath Beli
+
+Mold is a fast and powerful templating and cloning engine for PowerShell (and beyond!)
+
+__Downloads__: 14 | __Repository__: https://github.com/belibug/Mold
+
+## [Abbr](https://www.powershellgallery.com/Packages/Abbr/0.1.1) | 0.1.1
+
+### Published: 07/12/2024 20:18:48 by wes
+
+Expanding abbreviations like fish shell
+
+__Downloads__: 0 | __Repository__: https://github.com/g0t4/pwsh-abbr
+
+## [MyPSFunctions](https://www.powershellgallery.com/Packages/MyPSFunctions/1.0.9.2) | 1.0.9.2
+
+### Published: 07/12/2024 20:04:45 by John@MyPSFunctions.com
+
+This Module has been created to provide a repository of my Daily Functions. - This module is provided as is without any support. Please be aware you are using this module as your own risks without any responsabilities from us.
+
+__Downloads__: 316 | __Repository__: 
+
+## [PdfLexer](https://www.powershellgallery.com/Packages/PdfLexer/0.1.24) | 0.1.24
+
+### Published: 07/12/2024 18:24:51 by PdfLexer Authors
+
+PdfLexer is a powershell pdf manipulation library for Powershell 7+.
+ https://github.com/pdflexer/pdflexer
+
+__Downloads__: 1,069 | __Repository__: https://github.com/pdflexer/pdflexer
+
 ## [psCandy](https://www.powershellgallery.com/Packages/psCandy/0.1.2) | 0.1.2
 
 ### Published: 07/12/2024 17:38:59 by Yves Godart
@@ -594,14 +698,6 @@ __Downloads__: 63 | __Repository__: https://github.com/Panzerbjrn/AzureGeneralHe
 This module will help with certain operations on your Azure DevOps board. Especially batch creating new items, or scheduling repeated tasks, etc. Feel free to get in touch via GitHub if there is anything you would like to see added.
 
 __Downloads__: 422 | __Repository__: https://github.com/Panzerbjrn/AzureDevOpsBoardHelper
-
-## [PSDuckDB](https://www.powershellgallery.com/Packages/PSDuckDB/0.1.3) | 0.1.3
-
-### Published: 07/10/2024 11:10:06 by Douglas Finke
-
-PSDuckDB is a PowerShell module that provides seamless integration with DuckDB, enabling efficient execution of analytical SQL queries directly from the PowerShell environment.
-
-__Downloads__: 12 | __Repository__: https://github.com/dfinke/PSDuckDB
 
 ## [365AutomatedCheck](https://www.powershellgallery.com/Packages/365AutomatedCheck/0.0.9) | 0.0.9
 
@@ -2015,80 +2111,4 @@ All commands in this module support the `-help` option for detailed assistance i
 
 __Downloads__: 1,343 | __Repository__: https://github.com/steve02081504/ps12exe
 
-## [ModuleTools](https://www.powershellgallery.com/Packages/ModuleTools/0.0.6) | 0.0.6
-
-### Published: 07/09/2024 02:32:58 by Manjunath Beli
-
-ModuleTools is a versatile, standalone PowerShell module builder. Create anything from simple to robust modules with ease. Built for CICD and Automation.
-
-__Downloads__: 103 | __Repository__: https://github.com/belibug/ModuleTools
-
-## [ConnectWiser](https://www.powershellgallery.com/Packages/ConnectWiser/0.2407.30) | 0.2407.30
-
-### Published: 07/08/2024 23:35:59 by Devin Rich
-
-A better PowerShell wrapper for ConnectWise Control API
-
-__Downloads__: 8 | __Repository__: https://github.com/Szeraax/ConnectWiser
-
-## [qbo4.Infrastructure](https://www.powershellgallery.com/Packages/qbo4.Infrastructure/1.0.21.25) | 1.0.21.25
-
-### Published: 07/08/2024 23:21:47 by Quandis Inc.
-
-Quandis Infrastructure Management, including publishing of qbo databases and websites.
-
-__Downloads__: 1,063 | __Repository__: https://dev.azure.com/quandis/qbo4/_git/qbo4.Infrastructure
-
-## [VenafiPS](https://www.powershellgallery.com/Packages/VenafiPS/6.4.0) | 6.4.0
-
-### Published: 07/08/2024 22:39:22 by Greg Brownstein
-
-Automate your Venafi TLS Protect Datacenter and Cloud platforms!
-
-__Downloads__: 17,017 | __Repository__: https://github.com/Venafi/VenafiPS
-
-## [WinSecureDNSMgr](https://www.powershellgallery.com/Packages/WinSecureDNSMgr/0.0.6) | 0.0.6
-
-### Published: 07/08/2024 21:58:31 by HotCakeX
-
-💎 This is a PowerShell module that can simplify setting up DNS over HTTPS in Windows for various scenarios 💎
-
-
-🔷 DNS over HTTPS in Windows using the default built-in OS DoH providers
-🔷 DNS over HTTPS in Windows using a custom DoH provider that has static IP address(s)
-🔷 DNS over HTTPS in Windows using a custom DoH provider that has dynamic IP address(s)
-
-
-It can automatically identify the correct and active network adapter/interface and set Secure DNS settings for it based on parameters supplied by user.
-
-
-✅ Features
-
-✅ Strongest possible End-to-End encrypted workflow
-
-✅ Created, targeted and tested on the latest version of Windows, on physical hardware and Virtual Machines
-
-✅ To make sure the module will always be able to acquire the IP address(s) of the DoH server, specially in case of dynamic DoH server when the currently set system IPv4s and IPv6s might be outdated, the module performs DNS queries in this exact order:
-
-✅  - First tries using Cloudflare's main encrypted API to get the IP address(s) of the DoH server's domain.
-✅  - If 1st one fails, tries using the Cloudflare's secondary encrypted API to get the IP address(s) of the DoH server's domain.
-✅  - If 2nd one fails, tries using Google's main encrypted API to get the IP address(s) of the DoH server's domain.
-✅  - If 3rd one fails, tries using Google's secondary encrypted API to get the IP address(s) of the DoH server's domain.
-✅  - if 4th one fails, tries using any system DNS that is available to get the IP address(s) of the DoH server's domain.
-
-✅ All of the connections to Cloudflare and Google servers use direct IP, are set to use TLS 1.3 with TLS_CHACHA20_POLY1305_SHA256 cipher suite and use HTTP/2
-
-More info about each of them in the GitHub repository
-https://github.com/HotCakeX/WinSecureDNSMgr
-
-__Downloads__: 758 | __Repository__: https://github.com/HotCakeX/WinSecureDNSMgr
-
-## [powershellYK](https://www.powershellgallery.com/Packages/powershellYK/0.0.15.1) | 0.0.15.1
-
-### Published: 07/08/2024 21:47:53 by Oscar Virot
-
-A unofficial powershell wrapper for Yubico .NET SDK. Allows administration of Yubikeys from Powershell.
-
-__Downloads__: 46 | __Repository__: https://github.com/virot/powershellYK
-
-*Updated: Friday, 12 July 2024 17:51:40 UTC*
+*Updated: Saturday, 13 July 2024 02:09:16 UTC*
