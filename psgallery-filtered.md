@@ -3,6 +3,22 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [WindmillClient](https://www.powershellgallery.com/Packages/WindmillClient/1.362.0) | 1.362.0
+
+### Published: 07/14/2024 08:37:20 by Windmill Labs
+
+Client for the Windmill platform.
+
+__Downloads__: 380 | __Repository__: https://github.com/windmill-labs/windmill/tree/main/powershell-client
+
+## [OpenDriverTool](https://www.powershellgallery.com/Packages/OpenDriverTool/0.5.1) | 0.5.1
+
+### Published: 07/14/2024 02:52:43 by w0
+
+Automate the creation of driver and bios packages in configmgr.
+
+__Downloads__: 1,636 | __Repository__: https://github.com/w0/OpenDriverTool
+
 ## [pocof](https://www.powershellgallery.com/Packages/pocof/0.14.1) | 0.14.1
 
 ### Published: 07/14/2024 00:49:13 by Takatoshi Kuriyama
@@ -178,14 +194,6 @@ __Downloads__: 411 | __Repository__: https://github.com/bepsoccer/verkadaModule
 Functions to support Microsoft Dynamics 365 Business Central / Dynamics NAV development and integration with the Azure DevOps REST API
 
 __Downloads__: 3,890 | __Repository__: 
-
-## [OpenDriverTool](https://www.powershellgallery.com/Packages/OpenDriverTool/0.5.0) | 0.5.0
-
-### Published: 07/12/2024 15:17:33 by w0
-
-Automate the creation of driver and bios packages in configmgr.
-
-__Downloads__: 1,636 | __Repository__: https://github.com/w0/OpenDriverTool
 
 ## [suterdev.tools](https://www.powershellgallery.com/Packages/suterdev.tools/1.0.2) | 1.0.2
 
@@ -449,14 +457,6 @@ __Downloads__: 858 | __Repository__:
 Powershell Module for Managing VMware Cloud Director Availability on AVS
 
 __Downloads__: 474 | __Repository__: https://www.vmware.com/products/cloud-director-availability.html
-
-## [WindmillClient](https://www.powershellgallery.com/Packages/WindmillClient/1.361.1) | 1.361.1
-
-### Published: 07/11/2024 06:03:39 by Windmill Labs
-
-Client for the Windmill platform.
-
-__Downloads__: 380 | __Repository__: https://github.com/windmill-labs/windmill/tree/main/powershell-client
 
 ## [Yayaml](https://www.powershellgallery.com/Packages/Yayaml/0.5.0) | 0.5.0
 
@@ -2106,4 +2106,4 @@ PowerShell Cmdlets for Azure DevOps and Team Foundation Server
 
 __Downloads__: 16,695 | __Repository__: https://github.com/igoravl/tfscmdlets/
 
-*Updated: Sunday, 14 July 2024 02:11:30 UTC*
+*Updated: Sunday, 14 July 2024 09:51:52 UTC*
