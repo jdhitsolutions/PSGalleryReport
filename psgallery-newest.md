@@ -3,6 +3,22 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [pocof](https://www.powershellgallery.com/Packages/pocof/0.14.1) | 0.14.1
+
+### Published: 07/14/2024 00:49:13 by Takatoshi Kuriyama
+
+An interactive pipeline filtering Cmdlet for PowerShell written in F#. A fork of poco which is a PowerShell port of peco.
+
+__Downloads__: 272 | __Repository__: https://github.com/krymtkts/pocof/
+
+## [psCandy](https://www.powershellgallery.com/Packages/psCandy/0.1.4) | 0.1.4
+
+### Published: 07/13/2024 19:12:18 by Yves Godart
+
+This module provides classes for Eye-Candy in the console.
+
+__Downloads__: 0 | __Repository__: https://github.com/Yves848/psCandy/tree/master
+
 ## [Winpack](https://www.powershellgallery.com/Packages/Winpack/0.2.1) | 0.2.1
 
 ### Published: 07/13/2024 16:33:54 by yvesg
@@ -10,14 +26,6 @@ These are the latest 250 modules published to the [PowerShell Gallery](https://p
 Helpers functions for Winget
 
 __Downloads__: 291 | __Repository__: https://github.com/Yves848/winpack/tree/master
-
-## [psCandy](https://www.powershellgallery.com/Packages/psCandy/0.1.3) | 0.1.3
-
-### Published: 07/13/2024 16:26:49 by Yves Godart
-
-This module provides classes for Eye-Candy in the console.
-
-__Downloads__: 0 | __Repository__: https://github.com/Yves848/psCandy/tree/master
 
 ## [FarNet.Stateless](https://www.powershellgallery.com/Packages/FarNet.Stateless/0.0.3) | 0.0.3
 
@@ -2528,14 +2536,4 @@ This version of AWS Tools for PowerShell is compatible with Windows PowerShell 5
 
 __Downloads__: 46,961 | __Repository__: https://github.com/aws/aws-tools-for-powershell
 
-## [AWS.Tools.EKSAuth](https://www.powershellgallery.com/Packages/AWS.Tools.EKSAuth/4.1.618) | 4.1.618
-
-### Published: 07/12/2024 23:27:09 by Amazon.com Inc
-
-The EKSAuth module of AWS Tools for PowerShell lets developers and administrators manage Amazon EKS Auth from the PowerShell scripting environment. In order to manage each AWS service, install the corresponding module (e.g. AWS.Tools.EC2, AWS.Tools.S3...).
-The module AWS.Tools.Installer (https://www.powershellgallery.com/packages/AWS.Tools.Installer/) makes it easier to install, update and uninstall the AWS.Tools modules.
-This version of AWS Tools for PowerShell is compatible with Windows PowerShell 5.1+ and PowerShell Core 6+ on Windows, Linux and macOS. When running on Windows PowerShell, .NET Framework 4.7.2 or newer is required. Alternative modules AWSPowerShell.NetCore and AWSPowerShell, provide support for all AWS services from a single module and also support older versions of Windows PowerShell and .NET Framework.
-
-__Downloads__: 1,782 | __Repository__: https://github.com/aws/aws-tools-for-powershell
-
-*Updated: Saturday, 13 July 2024 17:51:51 UTC*
+*Updated: Sunday, 14 July 2024 02:11:29 UTC*

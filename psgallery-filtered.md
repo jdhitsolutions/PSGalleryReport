@@ -3,6 +3,22 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [pocof](https://www.powershellgallery.com/Packages/pocof/0.14.1) | 0.14.1
+
+### Published: 07/14/2024 00:49:13 by Takatoshi Kuriyama
+
+An interactive pipeline filtering Cmdlet for PowerShell written in F#. A fork of poco which is a PowerShell port of peco.
+
+__Downloads__: 272 | __Repository__: https://github.com/krymtkts/pocof/
+
+## [psCandy](https://www.powershellgallery.com/Packages/psCandy/0.1.4) | 0.1.4
+
+### Published: 07/13/2024 19:12:18 by Yves Godart
+
+This module provides classes for Eye-Candy in the console.
+
+__Downloads__: 0 | __Repository__: https://github.com/Yves848/psCandy/tree/master
+
 ## [Winpack](https://www.powershellgallery.com/Packages/Winpack/0.2.1) | 0.2.1
 
 ### Published: 07/13/2024 16:33:54 by yvesg
@@ -10,14 +26,6 @@ These are the latest 250 modules published to the [PowerShell Gallery](https://p
 Helpers functions for Winget
 
 __Downloads__: 291 | __Repository__: https://github.com/Yves848/winpack/tree/master
-
-## [psCandy](https://www.powershellgallery.com/Packages/psCandy/0.1.3) | 0.1.3
-
-### Published: 07/13/2024 16:26:49 by Yves Godart
-
-This module provides classes for Eye-Candy in the console.
-
-__Downloads__: 0 | __Repository__: https://github.com/Yves848/psCandy/tree/master
 
 ## [FarNet.Stateless](https://www.powershellgallery.com/Packages/FarNet.Stateless/0.0.3) | 0.0.3
 
@@ -2098,12 +2106,4 @@ PowerShell Cmdlets for Azure DevOps and Team Foundation Server
 
 __Downloads__: 16,695 | __Repository__: https://github.com/igoravl/tfscmdlets/
 
-## [IAMClient](https://www.powershellgallery.com/Packages/IAMClient/2.4.2) | 2.4.2
-
-### Published: 07/09/2024 06:48:28 by Aurel Schwitter & Joel Grand
-
-PowerShell module to access the IAM API
-
-__Downloads__: 1,092 | __Repository__: https://gitlab.ethz.ch/iamclient/iam-powershell
-
-*Updated: Saturday, 13 July 2024 17:51:52 UTC*
+*Updated: Sunday, 14 July 2024 02:11:30 UTC*
