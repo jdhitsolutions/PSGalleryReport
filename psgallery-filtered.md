@@ -3,6 +3,22 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [PowerShell.Wiz.Utility](https://www.powershellgallery.com/Packages/PowerShell.Wiz.Utility/0.1.1) | 0.1.1
+
+### Published: 07/14/2024 15:38:32 by Chendrayan Venkatesan
+
+PowerShell cmdlets to work with Wiz
+
+__Downloads__: 28 | __Repository__: https://github.com/ChendrayanV/PowerShell.Wiz.Utility
+
+## [cdim](https://www.powershellgallery.com/Packages/cdim/1.0.0) | 1.0.0
+
+### Published: 07/14/2024 11:05:36 by Serge Weinstock
+
+An improved version of cd with bookmarks and navigation history
+
+__Downloads__: 0 | __Repository__: https://github.com/sweinst/cdim/tree/main
+
 ## [WindmillClient](https://www.powershellgallery.com/Packages/WindmillClient/1.362.0) | 1.362.0
 
 ### Published: 07/14/2024 08:37:20 by Windmill Labs
@@ -2090,20 +2106,4 @@ Microsoft365Dsc Composite Resource Generator
 
 __Downloads__: 267 | __Repository__: https://github.com/ykuijs/M365DSC.CRG
 
-## [VeilVer](https://www.powershellgallery.com/Packages/VeilVer/1.4.1) | 1.4.1
-
-### Published: 07/09/2024 08:03:57 by Emanuel Palm
-
-A PowerShell module for individual versioning of files in a git repository using hidden blob tags.
-
-__Downloads__: 25 | __Repository__: https://github.com/PalmEmanuel/VeilVer
-
-## [TfsCmdlets](https://www.powershellgallery.com/Packages/TfsCmdlets/2.8.0) | 2.8.0
-
-### Published: 07/09/2024 06:59:14 by Igor Abade V. Leite
-
-PowerShell Cmdlets for Azure DevOps and Team Foundation Server
-
-__Downloads__: 16,695 | __Repository__: https://github.com/igoravl/tfscmdlets/
-
-*Updated: Sunday, 14 July 2024 09:51:52 UTC*
+*Updated: Sunday, 14 July 2024 17:52:31 UTC*
