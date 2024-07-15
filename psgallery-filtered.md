@@ -3,6 +3,55 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [MyPublishingDebugger](https://www.powershellgallery.com/Packages/MyPublishingDebugger/0.0.97) | 0.0.97
+
+### Published: 07/15/2024 09:40:43 by Joel Timothy Oh
+
+A PowerShell module for debugging publishing of modules.
+
+__Downloads__: 2,837 | __Repository__: https://github.com/joeltimothyoh/MyPublishingDebugger
+
+## [fscps.tools](https://www.powershellgallery.com/Packages/fscps.tools/1.0.262) | 1.0.262
+
+### Published: 07/15/2024 09:04:18 by Oleksandr Nikolaiev
+
+fscps.tools
+
+__Downloads__: 4,177 | __Repository__: https://github.com/fscpscollaborative/fscps.tools
+
+## [RTDP.CLI.PartnerCmdlets](https://www.powershellgallery.com/Packages/RTDP.CLI.PartnerCmdlets/2.0.0) | 2.0.0
+
+### Published: 07/15/2024 08:39:09 by RISE Data Platform
+
+The Partner PowerShell Cmdlets module is targeted for Data Platform partner-usage.
+The cmdlets bring a breath of fresh air and come with an intuitive, verbose set of commands that can be ran as-is or as part of an automation script or a data management pipeline.
+
+__Downloads__: 112 | __Repository__: 
+
+## [PasswordSolution](https://www.powershellgallery.com/Packages/PasswordSolution/1.2.4) | 1.2.4
+
+### Published: 07/15/2024 07:56:56 by Przemyslaw Klys
+
+This module allows the creation of password expiry emails for users, managers, administrators, and security according to defined templates. It's able to work with different rules allowing to fully customize who gets the email and when.
+
+__Downloads__: 7,537 | __Repository__: https://github.com/EvotecIT/PasswordSolution
+
+## [Get-DMARCRecord](https://www.powershellgallery.com/Packages/Get-DMARCRecord/1.0.6) | 1.0.6
+
+### Published: 07/15/2024 04:43:18 by Jacob Schweyer
+
+Powershell cmdlet for retrieving DMARC Records for one or multiple domains via file paths, in-line lists, singular domains, or variables with arrays of domains.
+
+__Downloads__: 28 | __Repository__: https://github.com/Cyber-Jacob/Get-DMARCRecord
+
+## [FarNet.Stateless](https://www.powershellgallery.com/Packages/FarNet.Stateless/0.1.0) | 0.1.0
+
+### Published: 07/15/2024 03:23:16 by Roman Kuzmin
+
+Stateless library interactive helpers.
+
+__Downloads__: 3 | __Repository__: https://github.com/nightroman/FarNet.Stateless
+
 ## [Harden-Windows-Security-Module](https://www.powershellgallery.com/Packages/Harden-Windows-Security-Module/0.4.8) | 0.4.8
 
 ### Published: 07/14/2024 19:26:22 by HotCakeX
@@ -129,14 +178,6 @@ __Downloads__: 0 | __Repository__: https://github.com/Yves848/psCandy/tree/maste
 Helpers functions for Winget
 
 __Downloads__: 291 | __Repository__: https://github.com/Yves848/winpack/tree/master
-
-## [FarNet.Stateless](https://www.powershellgallery.com/Packages/FarNet.Stateless/0.0.3) | 0.0.3
-
-### Published: 07/13/2024 15:41:28 by Roman Kuzmin
-
-Stateless library interactive helpers.
-
-__Downloads__: 3 | __Repository__: https://github.com/nightroman/FarNet.Stateless
 
 ## [PSScriptTools](https://www.powershellgallery.com/Packages/PSScriptTools/2.50.0) | 2.50.0
 
@@ -317,14 +358,6 @@ Module for working with NewRelic
 
 __Downloads__: 2,314 | __Repository__: https://bitbucket.org/compexlegal/newrelic.ps/src/
 
-## [fscps.tools](https://www.powershellgallery.com/Packages/fscps.tools/1.0.260) | 1.0.260
-
-### Published: 07/12/2024 07:32:48 by Oleksandr Nikolaiev
-
-fscps.tools
-
-__Downloads__: 4,177 | __Repository__: https://github.com/fscpscollaborative/fscps.tools
-
 ## [Particular.ServiceControl.Management](https://www.powershellgallery.com/Packages/Particular.ServiceControl.Management/5.4.1) | 5.4.1
 
 ### Published: 07/12/2024 06:20:24 by Particular Software
@@ -348,14 +381,6 @@ __Downloads__: 274 | __Repository__: https://github.com/yveslaurentcreton/PSJet
 DSC composite resource for configuring Microsoft 365
 
 __Downloads__: 2,314 | __Repository__: https://github.com/ykuijs/M365DSC.CompositeResources
-
-## [MyPublishingDebugger](https://www.powershellgallery.com/Packages/MyPublishingDebugger/0.0.96) | 0.0.96
-
-### Published: 07/11/2024 22:06:23 by Joel Timothy Oh
-
-A PowerShell module for debugging publishing of modules.
-
-__Downloads__: 2,837 | __Repository__: https://github.com/joeltimothyoh/MyPublishingDebugger
 
 ## [AutopilotPartner](https://www.powershellgallery.com/Packages/AutopilotPartner/1.0.5) | 1.0.5
 
@@ -2082,28 +2107,4 @@ Various tools for M365DSC deployments
 
 __Downloads__: 2,263 | __Repository__: https://github.com/ykuijs/M365DSCTools
 
-## [d365fo.tools](https://www.powershellgallery.com/Packages/d365fo.tools/0.7.16) | 0.7.16
-
-### Published: 07/09/2024 10:32:55 by M�tz Jensen & Rasmus Andersen
-
-A set of tools that will assist you when working with Dynamics 365 Finance & Operations development / demo machines.
-
-__Downloads__: 316,336 | __Repository__: https://github.com/d365collaborative/d365fo.tools
-
-## [TisaneLampServer](https://www.powershellgallery.com/Packages/TisaneLampServer/7.0.2) | 7.0.2
-
-### Published: 07/09/2024 09:34:21 by CR
-
-Client side libs for Lamp Server
-
-__Downloads__: 188 | __Repository__: 
-
-## [Devdeer.Caf](https://www.powershellgallery.com/Packages/Devdeer.Caf/0.10.4) | 0.10.4
-
-### Published: 07/09/2024 09:17:32 by DEVDEER
-
-This module contains the functions to manage and prepare Azure Tenants in a CAF conform way.
-
-__Downloads__: 547 | __Repository__: https://devdeer.com/
-
-*Updated: Monday, 15 July 2024 02:11:58 UTC*
+*Updated: Monday, 15 July 2024 09:51:45 UTC*
