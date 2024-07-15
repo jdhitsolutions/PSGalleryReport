@@ -3,58 +3,105 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
-## [MyPublishingDebugger](https://www.powershellgallery.com/Packages/MyPublishingDebugger/0.0.97) | 0.0.97
+## [Everix-Install](https://www.powershellgallery.com/Packages/Everix-Install/1.0.2) | 1.0.2
 
-### Published: 07/15/2024 09:40:43 by Joel Timothy Oh
+### Published: 07/15/2024 15:03:52 by Everix
 
-A PowerShell module for debugging publishing of modules.
+Everix-Install is a PowerShell module to install Everix.
 
-__Downloads__: 2,837 | __Repository__: https://github.com/joeltimothyoh/MyPublishingDebugger
+__Downloads__: 12 | __Repository__: https://github.com/everix-io/everix-install
 
-## [fscps.tools](https://www.powershellgallery.com/Packages/fscps.tools/1.0.262) | 1.0.262
+## [WindmillClient](https://www.powershellgallery.com/Packages/WindmillClient/1.363.0) | 1.363.0
 
-### Published: 07/15/2024 09:04:18 by Oleksandr Nikolaiev
+### Published: 07/15/2024 14:24:08 by Windmill Labs
 
-fscps.tools
+Client for the Windmill platform.
 
-__Downloads__: 4,177 | __Repository__: https://github.com/fscpscollaborative/fscps.tools
+__Downloads__: 380 | __Repository__: https://github.com/windmill-labs/windmill/tree/main/powershell-client
 
-## [RTDP.CLI.PartnerCmdlets](https://www.powershellgallery.com/Packages/RTDP.CLI.PartnerCmdlets/2.0.0) | 2.0.0
+## [Hardensysvol](https://www.powershellgallery.com/Packages/Hardensysvol/1.0.0) | 1.0.0
 
-### Published: 07/15/2024 08:39:09 by RISE Data Platform
+### Published: 07/15/2024 14:23:28 by DAKHAMA Mehdi
 
-The Partner PowerShell Cmdlets module is targeted for Data Platform partner-usage.
-The cmdlets bring a breath of fresh air and come with an intuitive, verbose set of commands that can be ran as-is or as part of an automation script or a data management pipeline.
+Harden Sysvol is a Powershell Module to scan sysvol folder to search the sensitivity data
 
-__Downloads__: 112 | __Repository__: 
+__Downloads__: 0 | __Repository__: https://github.com/dakhama-mehdi/CheckSysvolsecurity
 
-## [PasswordSolution](https://www.powershellgallery.com/Packages/PasswordSolution/1.2.4) | 1.2.4
+## [SAPAzurePowerShellModules](https://www.powershellgallery.com/Packages/SAPAzurePowerShellModules/0.1.65) | 0.1.65
 
-### Published: 07/15/2024 07:56:56 by Przemyslaw Klys
+### Published: 07/15/2024 13:55:16 by Goran Condric
 
-This module allows the creation of password expiry emails for users, managers, administrators, and security according to defined templates. It's able to work with different rules allowing to fully customize who gets the email and when.
+SAP on Azure PowerShell Modules used for automation.
 
-__Downloads__: 7,537 | __Repository__: https://github.com/EvotecIT/PasswordSolution
+__Downloads__: 1,912 | __Repository__: 
 
-## [Get-DMARCRecord](https://www.powershellgallery.com/Packages/Get-DMARCRecord/1.0.6) | 1.0.6
+## [SdnDiagnostics](https://www.powershellgallery.com/Packages/SdnDiagnostics/4.2407.1096.133500) | 4.2407.1096.133500
 
-### Published: 07/15/2024 04:43:18 by Jacob Schweyer
+### Published: 07/15/2024 13:41:06 by Adam Rudell Luyao Feng
 
-Powershell cmdlet for retrieving DMARC Records for one or multiple domains via file paths, in-line lists, singular domains, or variables with arrays of domains.
+SdnDiagnostics is a tool used to simplify the data collection and diagnostics of Windows Software Defined Networking.
 
-__Downloads__: 28 | __Repository__: https://github.com/Cyber-Jacob/Get-DMARCRecord
+__Downloads__: 41,398 | __Repository__: https://github.com/microsoft/SdnDiagnostics
 
-## [FarNet.Stateless](https://www.powershellgallery.com/Packages/FarNet.Stateless/0.1.0) | 0.1.0
+## [LXCAPSTool](https://www.powershellgallery.com/Packages/LXCAPSTool/4.1.0.18) | 4.1.0.18
 
-### Published: 07/15/2024 03:23:16 by Roman Kuzmin
+### Published: 07/15/2024 13:26:59 by Lenovo Corporation
 
-Stateless library interactive helpers.
+Lenovo XClarity Administrator PowerShell tool
 
-__Downloads__: 3 | __Repository__: https://github.com/nightroman/FarNet.Stateless
+The LXCAPSTool cmdlets use REST APIs that are provided for Lenovo XClarity Administrator to enable you to automate functions such as:
+- Logging in to Lenovo XClarity Administrator;
+- Collecting inventory data to support the management of chassis and servers (endpoints);
+- Deploying an operating system image to one or more endpoints;
+- Configuring endpoints through the use of Configuration Patterns;
+- Applying firmware update to endpoint;
+- Managing user accounts;
+- Monitoring events;
 
-## [Harden-Windows-Security-Module](https://www.powershellgallery.com/Packages/Harden-Windows-Security-Module/0.4.8) | 0.4.8
+Lenovo XClarity Administrator is a centralized, resource-management solution that is aimed at reducing complexity, speeding response, and enhancing the availability of Lenovo server systems and solutions. It runs as a virtual appliance that you can use to manage Flex System chassis and System x rack servers in a secure environment.
+Get more detail information from:
+https://pubs.lenovo.com/lxca/
 
-### Published: 07/14/2024 19:26:22 by HotCakeX
+Lenovo XClarity Administrator REST APIs used in this module:
+https://pubs.lenovo.com/lxca_scripting/rest_apis
+
+__Downloads__: 8,158 | __Repository__: 
+
+## [spec.appx.management](https://www.powershellgallery.com/Packages/spec.appx.management/1.0.0) | 1.0.0
+
+### Published: 07/15/2024 12:55:56 by owen.heaume
+
+A module to help manage appx installation and removal
+
+__Downloads__: 0 | __Repository__: 
+
+## [PSSailpoint](https://www.powershellgallery.com/Packages/PSSailpoint/1.3.2) | 1.3.2
+
+### Published: 07/15/2024 12:48:38 by Sailpoint Developer Relations
+
+PSSailpoint - the PowerShell module for IdentityNow
+
+__Downloads__: 4,019 | __Repository__: 
+
+## [PS.Selenium](https://www.powershellgallery.com/Packages/PS.Selenium/1.5) | 1.5
+
+### Published: 07/15/2024 12:40:48 by Nutstone
+
+Wraps Selenium
+
+__Downloads__: 8 | __Repository__: 
+
+## [AsBuiltReport.Fortinet.FortiGate](https://www.powershellgallery.com/Packages/AsBuiltReport.Fortinet.FortiGate/0.4.0) | 0.4.0
+
+### Published: 07/15/2024 12:33:15 by Alexis La Goutte
+
+A PowerShell module to generate an as built report on the configuration of Fortinet FortiGate.
+
+__Downloads__: 2,483 | __Repository__: https://github.com/AsBuiltReport/AsBuiltReport.Fortinet.FortiGate
+
+## [Harden-Windows-Security-Module](https://www.powershellgallery.com/Packages/Harden-Windows-Security-Module/0.4.9) | 0.4.9
+
+### Published: 07/15/2024 12:20:41 by HotCakeX
 
 Harden Windows Safely, Securely, only with Official Microsoft methods
 
@@ -107,6 +154,79 @@ Harden Windows Safely, Securely, only with Official Microsoft methods
 
 __Downloads__: 18,087 | __Repository__: https://github.com/HotCakeX/Harden-Windows-Security
 
+## [NetApp.ONTAP](https://www.powershellgallery.com/Packages/NetApp.ONTAP/9.15.1.2407) | 9.15.1.2407
+
+### Published: 07/15/2024 12:13:35 by Clinton Knight Steven Beam Eric Nicholson Aparajita Raychaudhury Rajesh Rathnam Robert Mcdermot Sapan Jain Kartik Gupta
+
+NetApp.ONTAP PowerShell Toolkit. The ONTAP 9.15.1 PowerShell Toolkit provides end-to-end automation and enables more efficient and scalable administration of NetApp storage. This module contains over 2340 PowerShell cmdlets to help you automate ONTAP administration on FAS and AFF systems, commodity hardware, and the cloud. This toolkit also supports REST API with 9.10 and later version of ONTAP. The toolkit also provides cross-platform support for Windows, Ubuntu, Red Hat Enterprise Linux (RHEL), and macOS.
+
+__Downloads__: 64,455 | __Repository__: https://mysupport.netapp.com/site/tools/tool-eula/ontap-powershell-toolkit
+
+## [Corsinvest.ProxmoxVE.Api](https://www.powershellgallery.com/Packages/Corsinvest.ProxmoxVE.Api/8.2.1) | 8.2.1
+
+### Published: 07/15/2024 11:48:46 by Daniele Corsini
+
+PowerShell for Proxmox VE
+
+__Downloads__: 9,619 | __Repository__: https://github.com/Corsinvest/cv4pve-api-powershell
+
+## [fscps.tools](https://www.powershellgallery.com/Packages/fscps.tools/1.0.263) | 1.0.263
+
+### Published: 07/15/2024 11:43:00 by Oleksandr Nikolaiev
+
+fscps.tools
+
+__Downloads__: 4,177 | __Repository__: https://github.com/fscpscollaborative/fscps.tools
+
+## [PowerShell.Wiz.Utility](https://www.powershellgallery.com/Packages/PowerShell.Wiz.Utility/0.1.2) | 0.1.2
+
+### Published: 07/15/2024 10:47:58 by Chendrayan Venkatesan
+
+PowerShell cmdlets to work with Wiz
+
+__Downloads__: 28 | __Repository__: https://github.com/ChendrayanV/PowerShell.Wiz.Utility
+
+## [MyPublishingDebugger](https://www.powershellgallery.com/Packages/MyPublishingDebugger/0.0.97) | 0.0.97
+
+### Published: 07/15/2024 09:40:43 by Joel Timothy Oh
+
+A PowerShell module for debugging publishing of modules.
+
+__Downloads__: 2,837 | __Repository__: https://github.com/joeltimothyoh/MyPublishingDebugger
+
+## [RTDP.CLI.PartnerCmdlets](https://www.powershellgallery.com/Packages/RTDP.CLI.PartnerCmdlets/2.0.0) | 2.0.0
+
+### Published: 07/15/2024 08:39:09 by RISE Data Platform
+
+The Partner PowerShell Cmdlets module is targeted for Data Platform partner-usage.
+The cmdlets bring a breath of fresh air and come with an intuitive, verbose set of commands that can be ran as-is or as part of an automation script or a data management pipeline.
+
+__Downloads__: 112 | __Repository__: 
+
+## [PasswordSolution](https://www.powershellgallery.com/Packages/PasswordSolution/1.2.4) | 1.2.4
+
+### Published: 07/15/2024 07:56:56 by Przemyslaw Klys
+
+This module allows the creation of password expiry emails for users, managers, administrators, and security according to defined templates. It's able to work with different rules allowing to fully customize who gets the email and when.
+
+__Downloads__: 7,537 | __Repository__: https://github.com/EvotecIT/PasswordSolution
+
+## [Get-DMARCRecord](https://www.powershellgallery.com/Packages/Get-DMARCRecord/1.0.6) | 1.0.6
+
+### Published: 07/15/2024 04:43:18 by Jacob Schweyer
+
+Powershell cmdlet for retrieving DMARC Records for one or multiple domains via file paths, in-line lists, singular domains, or variables with arrays of domains.
+
+__Downloads__: 28 | __Repository__: https://github.com/Cyber-Jacob/Get-DMARCRecord
+
+## [FarNet.Stateless](https://www.powershellgallery.com/Packages/FarNet.Stateless/0.1.0) | 0.1.0
+
+### Published: 07/15/2024 03:23:16 by Roman Kuzmin
+
+Stateless library interactive helpers.
+
+__Downloads__: 3 | __Repository__: https://github.com/nightroman/FarNet.Stateless
+
 ## [PSTcpIp](https://www.powershellgallery.com/Packages/PSTcpIp/5.12.2) | 5.12.2
 
 ### Published: 07/14/2024 18:46:04 by Anthony Guimelli
@@ -123,14 +243,6 @@ Powershell cmdlets for Commence RM Designer Edition.
 
 __Downloads__: 349 | __Repository__: https://github.com/arnovb-github/PoshCommence
 
-## [PowerShell.Wiz.Utility](https://www.powershellgallery.com/Packages/PowerShell.Wiz.Utility/0.1.1) | 0.1.1
-
-### Published: 07/14/2024 15:38:32 by Chendrayan Venkatesan
-
-PowerShell cmdlets to work with Wiz
-
-__Downloads__: 28 | __Repository__: https://github.com/ChendrayanV/PowerShell.Wiz.Utility
-
 ## [cdim](https://www.powershellgallery.com/Packages/cdim/1.0.0) | 1.0.0
 
 ### Published: 07/14/2024 11:05:36 by Serge Weinstock
@@ -138,14 +250,6 @@ __Downloads__: 28 | __Repository__: https://github.com/ChendrayanV/PowerShell.Wi
 An improved version of cd with bookmarks and navigation history
 
 __Downloads__: 0 | __Repository__: https://github.com/sweinst/cdim/tree/main
-
-## [WindmillClient](https://www.powershellgallery.com/Packages/WindmillClient/1.362.0) | 1.362.0
-
-### Published: 07/14/2024 08:37:20 by Windmill Labs
-
-Client for the Windmill platform.
-
-__Downloads__: 380 | __Repository__: https://github.com/windmill-labs/windmill/tree/main/powershell-client
 
 ## [OpenDriverTool](https://www.powershellgallery.com/Packages/OpenDriverTool/0.5.1) | 0.5.1
 
@@ -413,14 +517,6 @@ __Downloads__: 722 | __Repository__: https://github.com/EvotecIT/Graphimo
 COMMVAULT POWERSHELL SDK
 
 __Downloads__: 1,254 | __Repository__: https://github.com/Commvault/CVPowershellSDKV2/tree/2022E
-
-## [PS.Selenium](https://www.powershellgallery.com/Packages/PS.Selenium/1.1) | 1.1
-
-### Published: 07/11/2024 15:28:59 by Nutstone
-
-Wraps Selenium
-
-__Downloads__: 8 | __Repository__: 
 
 ## [proxmox-rest-module](https://www.powershellgallery.com/Packages/proxmox-rest-module/0.0.1) | 0.0.1
 
@@ -2027,84 +2123,4 @@ This modules provides Cmdlets for OCI Aianomalydetection Service
 
 __Downloads__: 5,902 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-## [OCI.PSModules.Adm](https://www.powershellgallery.com/Packages/OCI.PSModules.Adm/86.2.0) | 86.2.0
-
-### Published: 07/09/2024 19:05:06 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Adm Service
-
-__Downloads__: 4,735 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Accessgovernancecp](https://www.powershellgallery.com/Packages/OCI.PSModules.Accessgovernancecp/86.2.0) | 86.2.0
-
-### Published: 07/09/2024 19:05:01 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Accessgovernancecp Service
-
-__Downloads__: 3,397 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Common](https://www.powershellgallery.com/Packages/OCI.PSModules.Common/86.2.0) | 86.2.0
-
-### Published: 07/09/2024 19:02:57 by Oracle Cloud Infrastructure
-
-OCI Common module exports Cmdlets that manages features offered by OCI Modules for Powershell like History Store, OCI Configuration file setup and Per-Session Region/Config/Profile preferences. Common module also contains some functionalties that are common to all OCI Service modules, therefore all OCI Service modules depends on Common module.
-
-__Downloads__: 250,938 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [TurnKeySdn](https://www.powershellgallery.com/Packages/TurnKeySdn/0.0.27) | 0.0.27
-
-### Published: 07/09/2024 17:18:40 by Network Controller SDN Dev Team
-
-Turn Key SDN for a quick sdn test deployment
-
-__Downloads__: 668 | __Repository__: 
-
-## [AzBobbyTables](https://www.powershellgallery.com/Packages/AzBobbyTables/3.2.1) | 3.2.1
-
-### Published: 07/09/2024 16:27:40 by Emanuel Palm
-
-A module for handling Azure Table Storage operations by wrapping the Azure Data Tables SDK.
-
-__Downloads__: 15,981 | __Repository__: https://github.com/PalmEmanuel/AzBobbyTables
-
-## [joshooaj.PowerShellBuild](https://www.powershellgallery.com/Packages/joshooaj.PowerShellBuild/0.6.3) | 0.6.3
-
-### Published: 07/09/2024 15:34:24 by Brandon Olin
-
-A common psake and Invoke-Build task module for PowerShell projects
-
-__Downloads__: 69 | __Repository__: https://github.com/joshooaj/PowerShellBuild
-
-## [SAPAzurePowerShellModules](https://www.powershellgallery.com/Packages/SAPAzurePowerShellModules/0.1.63) | 0.1.63
-
-### Published: 07/09/2024 15:32:29 by Goran Condric
-
-SAP on Azure PowerShell Modules used for automation.
-
-__Downloads__: 1,912 | __Repository__: 
-
-## [spec.base.utilities](https://www.powershellgallery.com/Packages/spec.base.utilities/1.2.11) | 1.2.11
-
-### Published: 07/09/2024 14:10:51 by owen.heaume
-
-Mandatory module for the foundation PowerShell scripts.
-
-__Downloads__: 80,069 | __Repository__: 
-
-## [ibPS](https://www.powershellgallery.com/Packages/ibPS/1.9.7.5) | 1.9.7.5
-
-### Published: 07/09/2024 13:34:30 by Mat Cox
-
-InfoBlox BloxOne PowerShell Module
-
-__Downloads__: 414 | __Repository__: https://github.com/TehMuffinMoo/ibPS
-
-## [M365DSCTools](https://www.powershellgallery.com/Packages/M365DSCTools/0.3.0) | 0.3.0
-
-### Published: 07/09/2024 12:37:15 by Yorick Kuijs
-
-Various tools for M365DSC deployments
-
-__Downloads__: 2,263 | __Repository__: https://github.com/ykuijs/M365DSCTools
-
-*Updated: Monday, 15 July 2024 09:51:45 UTC*
+*Updated: Monday, 15 July 2024 17:51:56 UTC*
