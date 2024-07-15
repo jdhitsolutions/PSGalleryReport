@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 15 July 2024 09:51:53 UTC
+Updated: Monday, 15 July 2024 17:52:04 UTC
 
 .bat
 .env
@@ -634,7 +634,6 @@ aws-vault
 aws.tools.powershell
 awscli
 awspricelist
-axapta
 axinom
 axis
 axium
@@ -1497,6 +1496,7 @@ contrast
 control
 controller
 controlroom
+controlup
 conventional
 conventional-commits
 convereter
@@ -1913,6 +1913,7 @@ devdrive
 developer
 developer_command_prompt
 developercommandprompt
+developermode
 development
 devenv
 devexpress
@@ -2220,7 +2221,6 @@ dynamics365ce
 dynamics365fo
 dynamics365sales
 dynamics365server
-dynamicsax
 dynamicsecuritygroups
 dynamicsnav
 dynamodb
@@ -2277,6 +2277,7 @@ elevation
 elgato
 elk
 elm
+elmah-io
 elonmusk
 eloqua
 elvish
@@ -2530,6 +2531,7 @@ f
 f#
 f5
 fabric
+fabtools
 facebook
 factoryorchestrator
 factoryorchestratorclient
@@ -2850,6 +2852,7 @@ generator
 generic
 genericartifactscontent
 genetic-algorithm
+genp
 genxdev
 geo
 geocache
@@ -2880,6 +2883,7 @@ get-dtscriptnewcmtasksequencefromdriverpackpackagedefinitionsms
 get-emptyadgroups
 get-externalip
 get-firmwaretype
+get-hardensysvol
 get-help
 get-history
 get-iislog
@@ -3054,7 +3058,6 @@ hack
 hacking
 hacktoberfest
 hadoop
-hafr
 hailstone
 haipa
 halo
@@ -3079,6 +3082,7 @@ hardblock
 harden
 harden-windows-security
 hardening
+hardensysvol
 hardlink
 hardmatch
 hardware
@@ -3393,10 +3397,7 @@ influxdb
 info
 infoblox
 information
-information-technology
 informationbarriers
-informationtechnology
-informationtechnologyoperations
 informix
 infosec
 infrastructure
@@ -3525,6 +3526,7 @@ iplookup
 ipmaths
 ipp
 iprange
+ips
 ipscan
 ipv4
 ipv4ping
@@ -4215,6 +4217,7 @@ microsoftdefenderforidentity
 microsoftdeploymenttoolkit
 microsoftendpointmanager
 microsoftexchangeserver
+microsoftfabric
 microsoftgraph
 microsoftgraphapi
 microsoftgraphrestapi
@@ -4259,6 +4262,7 @@ mittelschule
 mixedreality
 mixer
 mkdocs
+mkpasswd
 mksapiviewer
 ml
 ml.net
@@ -4420,6 +4424,7 @@ mxlookup
 mycloudrevolution
 myget
 myhub
+myip
 myitprocess
 myjson
 myjson.com
@@ -4479,7 +4484,7 @@ netapi32
 netapp
 netapp_ontap_powershell_toolkit
 netapp.ontap
-netapp.ontap_9.14.1
+netapp.ontap_9.15.1
 netappfiles
 netbox
 netcease
@@ -4545,6 +4550,7 @@ nexenta
 nexentastor
 nexthink
 nexus
+nexusiq
 nfsv3
 ngen
 ngfw
@@ -4744,9 +4750,9 @@ onpremisesdatagatewayhamgmt
 onq
 ons
 ontap
-ontap_9.14.1
+ontap_9.15.1
 ontap_9.8.0
-ontap_pstk_9.14.1
+ontap_pstk_9.15.1
 ontap_pstk_9.8.0
 onyphe
 onyphe.io
@@ -4939,6 +4945,7 @@ passivetotal
 passkey
 passphrase
 passphraser passphrase password generator entropy
+passwd
 password
 password_generation
 password-generator
@@ -4977,6 +4984,7 @@ paylocity
 paypal
 pays
 pbench
+pbip
 pc
 pcapng
 pci-dss
@@ -5174,7 +5182,9 @@ poshy-env-var
 poshy-ls-isms
 poshy-lucidity
 poshy-multimedia
+poshy-net
 poshy-notify-send
+poshy-sh-isms
 poshy-sshconfig
 poshy-viewer-finder
 poshy-wrap
@@ -5938,6 +5948,8 @@ pscommand_get-gittrackedfiles
 pscommand_get-gituntrackedfiles
 pscommand_get-gitwhatchangedstylized
 pscommand_get-itemnixmode
+pscommand_get-netipaddresspublic
+pscommand_get-netipaddresssimple
 pscommand_get-pwshaliasdefinition
 pscommand_get-pwshfunctiondefinition
 pscommand_get-viewer
@@ -6711,6 +6723,7 @@ pscommand_invoke-zypperverify
 pscommand_invoke-zypperversioncompare
 pscommand_invoke-zypperwhatprovides
 pscommand_invokeyumgrouplist
+pscommand_ips
 pscommand_ipy
 pscommand_ipython
 pscommand_jump
@@ -6864,6 +6877,7 @@ pscommand_mpom
 pscommand_mrperf
 pscommand_mrprep
 pscommand_mrrb
+pscommand_myip
 pscommand_new-gitbranchfromstash
 pscommand_new-gitbranchtracked
 pscommand_new-gitpatchfile
@@ -6918,6 +6932,7 @@ pscommand_peek
 pscommand_pgr
 pscommand_pi
 pscommand_pidev
+pscommand_ping
 pscommand_pip
 pscommand_pip_package_location
 pscommand_pip3
@@ -7052,10 +7067,14 @@ pscommand_syspip3_package_location
 pscommand_ta
 pscommand_tad
 pscommand_test-command
+pscommand_test-d
 pscommand_test-elevation
+pscommand_test-f
 pscommand_test-linkcapability
+pscommand_test-o
 pscommand_test-reparsepoint
 pscommand_test-sessioninteractivity
+pscommand_test-x
 pscommand_tf
 pscommand_tfa
 pscommand_tfc
@@ -7524,6 +7543,8 @@ psfunction_get-gittrackedfiles
 psfunction_get-gituntrackedfiles
 psfunction_get-gitwhatchangedstylized
 psfunction_get-itemnixmode
+psfunction_get-netipaddresspublic
+psfunction_get-netipaddresssimple
 psfunction_get-pwshaliasdefinition
 psfunction_get-pwshfunctiondefinition
 psfunction_get-viewer
@@ -8252,10 +8273,14 @@ psfunction_switch-gitbranchandtrack
 psfunction_switch-gitbranchmain
 psfunction_switch-gitbranchnew
 psfunction_test-command
+psfunction_test-d
 psfunction_test-elevation
+psfunction_test-f
 psfunction_test-linkcapability
+psfunction_test-o
 psfunction_test-reparsepoint
 psfunction_test-sessioninteractivity
+psfunction_test-x
 psfunction_universalarchive
 psfunction_update-gitbranchbasefrombranchmain
 psfunction_update-gitbranchbasefrommain
@@ -8570,6 +8595,7 @@ readiness
 readme
 readpdf
 readthedocs
+real-time
 realschule
 realtimeprotection
 rebase
@@ -9136,6 +9162,7 @@ seppmail
 seppmail.cloud
 seq
 sequence
+serial
 serialization
 serialize
 sericemanagement
@@ -9205,7 +9232,13 @@ sftp
 sfx
 sgopher
 sgw
+sha-256
+sha-512
+sha-crypt
 sha256
+sha256crypt
+sha512crypt
+shacrypt
 shadow
 shadowcopy
 shadowcopybackups
@@ -9757,7 +9790,6 @@ syspip3
 sysprep
 system
 system information 1394 controller baseboard motherboard systemboard battery bios bus cache memory cd dvd rom drive compact disc desktop monitor disk partition fan floppy glide point heatpipe ide infrared device keyboard local logical array mouse'
-system-administration
 system-group
 system-service
 system-services
@@ -9844,7 +9876,6 @@ teamviewer
 techdirect
 techedna2014
 techlog
-technology
 techsmith
 tel
 telegram
@@ -10912,7 +10943,6 @@ xor
 xpath
 xpendingreboot
 xpertdoc
-xpo
 xprotect
 xpt
 xrm
