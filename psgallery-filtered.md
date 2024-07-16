@@ -3,6 +3,78 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [IDMCmdlets](https://www.powershellgallery.com/Packages/IDMCmdlets/1.0.3.5) | 1.0.3.5
+
+### Published: 07/16/2024 02:04:01 by Powershellcrack
+
+A module designed to help manage devices in Intune
+
+__Downloads__: 470 | __Repository__: https://github.com/PowerShellCrack/PSIntuneAutopilotCmdlets
+
+## [PoshToolbox](https://www.powershellgallery.com/Packages/PoshToolbox/4.2.3) | 4.2.3
+
+### Published: 07/15/2024 23:25:20 by Anthony J. Raymond
+
+A collection of functions that can be used to build PowerShell scripts and modules.
+
+__Downloads__: 197 | __Repository__: https://gitlab.com/PoshAJ/PoshToolbox
+
+## [ModuleFast](https://www.powershellgallery.com/Packages/ModuleFast/0.3.0) | 0.3.0
+
+### Published: 07/15/2024 22:38:11 by Justin Grote @justinwgrote
+
+Optimizes the PowerShell Module Installation Process to be as fast as possible and operate in CI/CD scenarios in a declarative manner
+
+__Downloads__: 449 | __Repository__: https://github.com/JustinGrote/ModuleFast
+
+## [Hardensysvol](https://www.powershellgallery.com/Packages/Hardensysvol/1.1.1) | 1.1.1
+
+### Published: 07/15/2024 22:31:48 by DAKHAMA Mehdi
+
+Harden Sysvol is a Powershell Module to scan sysvol folder to search the sensitivity data
+
+__Downloads__: 0 | __Repository__: https://github.com/dakhama-mehdi/CheckSysvolsecurity
+
+## [WindmillClient](https://www.powershellgallery.com/Packages/WindmillClient/1.364.1) | 1.364.1
+
+### Published: 07/15/2024 21:10:19 by Windmill Labs
+
+Client for the Windmill platform.
+
+__Downloads__: 380 | __Repository__: https://github.com/windmill-labs/windmill/tree/main/powershell-client
+
+## [IPNetwork](https://www.powershellgallery.com/Packages/IPNetwork/0.1.0) | 0.1.0
+
+### Published: 07/15/2024 20:13:40 by Justin Grote @justinwgrote
+
+take care of complex network, ip, ipv4, ipv6, netmask, cidr, subnet, subnetting, supernet and supernetting calculation for .Net developpers. It works with IPv4 and IPv6 as well
+
+__Downloads__: 557 | __Repository__: https://github.com/JustinGrote/IPNetwork
+
+## [AzAPICall](https://www.powershellgallery.com/Packages/AzAPICall/1.2.3) | 1.2.3
+
+### Published: 07/15/2024 20:04:15 by Julian Hayward Kai Schulz
+
+Azure API call handler for Microsoft Graph, Azure Resource Management, KeyVault, Log Analytics, Storage and ingest.monitor.azure.*. Visit aka.ms/AzAPICall
+
+__Downloads__: 225,785 | __Repository__: https://aka.ms/AzAPICall
+
+## [psCandy](https://www.powershellgallery.com/Packages/psCandy/0.2.0) | 0.2.0
+
+### Published: 07/15/2024 19:22:50 by Yves Godart
+
+This module provides classes for Eye-Candy in the console.
+
+__Downloads__: 0 | __Repository__: https://github.com/Yves848/psCandy/tree/master
+
+## [UofIQualys](https://www.powershellgallery.com/Packages/UofIQualys/1.8.1) | 1.8.1
+
+### Published: 07/15/2024 18:05:22 by Cybersecurity Engineering
+
+This Powershell module acts as a wrapper for the Qualys REST API, allowing you to create scripts that run system administration commands against your Qualys account
+
+__Downloads__: 431 | __Repository__: https://github.com/techservicesillinois/SecOps-Powershell-Qualys
+
 ## [Everix-Install](https://www.powershellgallery.com/Packages/Everix-Install/1.0.2) | 1.0.2
 
 ### Published: 07/15/2024 15:03:52 by Everix
@@ -10,22 +82,6 @@ These are the latest 250 modules published to the [PowerShell Gallery](https://p
 Everix-Install is a PowerShell module to install Everix.
 
 __Downloads__: 12 | __Repository__: https://github.com/everix-io/everix-install
-
-## [WindmillClient](https://www.powershellgallery.com/Packages/WindmillClient/1.363.0) | 1.363.0
-
-### Published: 07/15/2024 14:24:08 by Windmill Labs
-
-Client for the Windmill platform.
-
-__Downloads__: 380 | __Repository__: https://github.com/windmill-labs/windmill/tree/main/powershell-client
-
-## [Hardensysvol](https://www.powershellgallery.com/Packages/Hardensysvol/1.0.0) | 1.0.0
-
-### Published: 07/15/2024 14:23:28 by DAKHAMA Mehdi
-
-Harden Sysvol is a Powershell Module to scan sysvol folder to search the sensitivity data
-
-__Downloads__: 0 | __Repository__: https://github.com/dakhama-mehdi/CheckSysvolsecurity
 
 ## [SAPAzurePowerShellModules](https://www.powershellgallery.com/Packages/SAPAzurePowerShellModules/0.1.65) | 0.1.65
 
@@ -266,14 +322,6 @@ __Downloads__: 1,636 | __Repository__: https://github.com/w0/OpenDriverTool
 An interactive pipeline filtering Cmdlet for PowerShell written in F#. A fork of poco which is a PowerShell port of peco.
 
 __Downloads__: 272 | __Repository__: https://github.com/krymtkts/pocof/
-
-## [psCandy](https://www.powershellgallery.com/Packages/psCandy/0.1.4) | 0.1.4
-
-### Published: 07/13/2024 19:12:18 by Yves Godart
-
-This module provides classes for Eye-Candy in the console.
-
-__Downloads__: 0 | __Repository__: https://github.com/Yves848/psCandy/tree/master
 
 ## [Winpack](https://www.powershellgallery.com/Packages/Winpack/0.2.1) | 0.2.1
 
@@ -698,14 +746,6 @@ __Downloads__: 3,690 | __Repository__:
 Scan Framework to analyze AD Object health
 
 __Downloads__: 5 | __Repository__: https://github.com/FriedrichWeinmann/ADObjectHealthScan
-
-## [PSRandomPassword](https://www.powershellgallery.com/Packages/PSRandomPassword/1.0.3) | 1.0.3
-
-### Published: 07/10/2024 14:41:55 by Danny Worth
-
-Random password generator with support for various password types, with the ability to customize password types and edit the word lists used for password generation.
-
-__Downloads__: 45 | __Repository__: https://github.com/tofuman0/PSRandomPassword
 
 ## [AdminToolbox](https://www.powershellgallery.com/Packages/AdminToolbox/11.0.167) | 11.0.167
 
@@ -2083,44 +2123,4 @@ This modules provides Cmdlets for OCI Analytics Service
 
 __Downloads__: 6,691 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-## [OCI.PSModules.Aivision](https://www.powershellgallery.com/Packages/OCI.PSModules.Aivision/86.2.0) | 86.2.0
-
-### Published: 07/09/2024 19:05:31 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Aivision Service
-
-__Downloads__: 5,024 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Aispeech](https://www.powershellgallery.com/Packages/OCI.PSModules.Aispeech/86.2.0) | 86.2.0
-
-### Published: 07/09/2024 19:05:27 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Aispeech Service
-
-__Downloads__: 5,334 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Ailanguage](https://www.powershellgallery.com/Packages/OCI.PSModules.Ailanguage/86.2.0) | 86.2.0
-
-### Published: 07/09/2024 19:05:21 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Ailanguage Service
-
-__Downloads__: 8,653 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Aidocument](https://www.powershellgallery.com/Packages/OCI.PSModules.Aidocument/86.2.0) | 86.2.0
-
-### Published: 07/09/2024 19:05:16 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Aidocument Service
-
-__Downloads__: 3,825 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Aianomalydetection](https://www.powershellgallery.com/Packages/OCI.PSModules.Aianomalydetection/86.2.0) | 86.2.0
-
-### Published: 07/09/2024 19:05:10 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Aianomalydetection Service
-
-__Downloads__: 5,902 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-*Updated: Monday, 15 July 2024 17:51:56 UTC*
+*Updated: Tuesday, 16 July 2024 02:10:32 UTC*
