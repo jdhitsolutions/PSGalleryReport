@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Tuesday, 16 July 2024 09:52:03 UTC
+Updated: Tuesday, 16 July 2024 17:51:55 UTC
 
 .bat
 .env
@@ -78,7 +78,6 @@ about
 abr
 abstractsyntaxtree
 abuse
-abuseipdb
 acas
 accelerator
 access
@@ -162,6 +161,7 @@ adcs
 add
 add-member
 add-on
+add-on.module
 add-one
 add-path
 add-type
@@ -227,7 +227,6 @@ adv190013
 adv220002
 advanced
 advapi32
-advice
 advisor
 adwords
 adx
@@ -638,7 +637,6 @@ axis
 axium
 az
 az-cli
-az.runtimeenvironment
 az.stackhci
 azautomation
 azcli
@@ -659,7 +657,6 @@ azsdk
 azsk
 azsql
 azstackhci
-azstackhcivm
 azstate
 azsubnet
 aztools
@@ -928,6 +925,8 @@ brainy
 branch
 branch-rename
 brave
+brawlapi
+brawlstars
 brazencloud
 bre
 breach
@@ -1132,6 +1131,10 @@ checklists
 checkpoint
 checks
 checksum
+chef
+chef-automate
+chef-compliance
+chef-server
 chefconf2016
 chenxizhang
 cherrypy
@@ -1182,8 +1185,6 @@ cisa
 cisco
 ciscoucscmdlets
 ciscoucsdsc
-citation
-cite
 citrix
 citrixoptimizer
 civo
@@ -1318,6 +1319,7 @@ codes
 codesign
 codesigning
 codex
+coercion
 cognitiveservice
 cognitiveservices
 cohesity
@@ -2062,7 +2064,6 @@ dockerize
 dockerswarm
 docking
 docs
-docset
 document
 documentation
 documentdb
@@ -2085,6 +2086,7 @@ domainkey
 domainname
 domainnamesystem
 domains
+domino
 done.land
 donothing
 dos
@@ -2118,7 +2120,6 @@ dq
 dr
 draw
 drawio
-dreams
 dreamweaver
 dreary
 drift
@@ -2135,7 +2136,6 @@ drivertool.powercli
 driverupdates
 drm
 drone.io
-drop
 dropbox
 dropdatabase
 droplet
@@ -2392,7 +2392,6 @@ ethr
 ethz
 etl
 etl2pcapng
-etrade
 ets
 etw
 eulanda
@@ -2479,7 +2478,6 @@ expand-string
 expand-tab
 expandframework
 expect
-experience
 experiments
 expired
 expiring
@@ -2688,6 +2686,7 @@ flickr
 flowchart
 flowy
 fluidrelay
+flyway
 fmg
 focus
 fod
@@ -2713,7 +2712,6 @@ forensics
 forest
 forestdiscovery
 forgit
-forgiveness
 form
 format
 format-numberedlist
@@ -3046,7 +3044,6 @@ gzip-compression
 ha
 haarlemsdagblad
 hack
-hacking
 hacktoberfest
 hadoop
 hafr
@@ -3159,7 +3156,6 @@ highrise
 hint
 hipaa
 hipb
-hipchat
 hiragana
 histogram
 history
@@ -3352,7 +3348,6 @@ imageslide
 imagevalidate
 imagevalidation
 imagga
-imagination
 imaging
 imap
 imb
@@ -3410,15 +3405,11 @@ innertext
 input
 inputbox
 inputobject
-insert
 insiderthreat
 insight
 insightanalytics
 insights
 inspect
-inspiration
-inspirationalquotes
-inspire
 inspur
 instagram
 install
@@ -3447,7 +3438,6 @@ integrationservicescatalog
 integrity
 intel
 inteligo
-intelligence
 intelligence"
 intellisearch
 intellisense
@@ -3652,7 +3642,6 @@ karabiner
 karabiner-elements
 karma
 kaseya
-kaseyavsa
 kaspersky
 katakana
 kb
@@ -3817,9 +3806,6 @@ licensemanager
 licensereport
 licenses
 licensing
-life
-lifequotes
-lifestyle
 light
 lights
 lime
@@ -3961,8 +3947,6 @@ lookup
 loop
 loopback
 loremipsum
-love
-lovequotes
 lpsiamol
 ls
 lsa
@@ -4145,7 +4129,6 @@ memcm
 memory
 memorydump
 memorystream
-mention
 menu
 menus
 meraki
@@ -4311,8 +4294,6 @@ moonshot
 more
 mosaic
 motd
-motivation
-motivationalquotes
 mount
 mouse
 move
@@ -4928,7 +4909,6 @@ partition
 partitions
 partner
 partnercenter
-partnerportal
 pas
 pass
 pass-the-hash
@@ -5105,8 +5085,6 @@ pnpm
 poc
 pode
 poe
-poem
-poetry
 point
 point-to-site
 pointer
@@ -5416,7 +5394,6 @@ protection
 protocol
 protocols
 provance
-proverb
 provider
 providerhub
 provision
@@ -8517,9 +8494,7 @@ quiz
 qumulo
 quota
 quote
-quoteoftheday
 quotes
-quotestoliveby
 quoting
 quser
 qword
@@ -8565,8 +8540,6 @@ rbsu
 rcon
 rcs
 rcu
-rdb
-rdbms
 rdc
 rdcman
 rdcmanager
@@ -8605,7 +8578,10 @@ recovery
 recoveryservices
 recruiter
 recrutch
+recurse
 recursion
+recursivefilesandfoldersdownload
+recursivefilesandfoldersupload
 recyclebin
 red
 redact
@@ -8633,7 +8609,6 @@ refactoring
 refeds
 refeds-mfa
 refedsmfa
-reference
 reflect
 reflection
 refresh
@@ -8663,7 +8638,6 @@ regular-expression
 regularexpression
 regularexpressions
 reinstall
-relational
 relay
 release
 releasedefinition
@@ -9019,6 +8993,7 @@ screensaver
 screenscraping
 screenshot
 script
+script_version
 script-module
 script-to-assembly
 script-to-executable
@@ -9244,7 +9219,10 @@ sharepoint-on-prem
 sharepoint-online
 sharepoint-product-configuration-wizard
 sharepoint2013
+sharepointdevelopmentcommunity
 sharepointonline
+sharepointpnp
+sharepointpnppowershellonline.add-on.module
 shares
 sheets
 shell
@@ -9446,7 +9424,6 @@ spacex
 spam
 spanner
 spark
-sparkline
 sparklines
 spawn
 spdockit
@@ -9696,7 +9673,6 @@ subsystem
 subtitle
 subtitles
 subversion
-success
 successfactors
 sudo
 sugar
@@ -9707,6 +9683,7 @@ sullivan
 summary
 summit
 sumologic
+supercell
 superheros
 supermarket
 support
@@ -9833,6 +9810,7 @@ task-scheduler
 taskbar
 tasker
 taskgroup
+taskmanagement
 tasks
 taskscheduler
 tatux
@@ -9962,6 +9940,7 @@ third-party-libraries
 third-party-notice
 thispc
 thoughtfortheday
+thousandeyes
 thread
 threading
 threadjob
@@ -10109,7 +10088,6 @@ trustedhosts
 trustedinstaller
 trustedrootcertificate
 trustedsigning
-truth
 trx
 ts
 tsa
@@ -10323,6 +10301,7 @@ usap
 usb
 useful
 user
+user-environment
 userdiscovery
 usergroup
 usergroups
@@ -10702,6 +10681,7 @@ windows-api
 windows-control-panel
 windows-defender
 windows-defender-application-control
+windows-environment
 windows-explorer
 windows-features
 windows-firewall
