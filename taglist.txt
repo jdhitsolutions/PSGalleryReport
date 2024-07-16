@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Tuesday, 16 July 2024 02:10:39 UTC
+Updated: Tuesday, 16 July 2024 09:52:03 UTC
 
 .bat
 .env
@@ -162,7 +162,6 @@ adcs
 add
 add-member
 add-on
-add-on.module
 add-one
 add-path
 add-type
@@ -631,7 +630,6 @@ aws_profile
 aws-codebuild
 aws-lambda
 aws-vault
-aws.tools.powershell
 awscli
 awspricelist
 axapta
@@ -930,8 +928,6 @@ brainy
 branch
 branch-rename
 brave
-brawlapi
-brawlstars
 brazencloud
 bre
 breach
@@ -1136,10 +1132,6 @@ checklists
 checkpoint
 checks
 checksum
-chef
-chef-automate
-chef-compliance
-chef-server
 chefconf2016
 chenxizhang
 cherrypy
@@ -1313,6 +1305,7 @@ code365
 codeanalysis
 codebuild
 codecommit
+codecomplexity
 codecov
 codecoverage
 codegen
@@ -1325,7 +1318,6 @@ codes
 codesign
 codesigning
 codex
-coercion
 cognitiveservice
 cognitiveservices
 cohesity
@@ -2093,7 +2085,6 @@ domainkey
 domainname
 domainnamesystem
 domains
-domino
 done.land
 donothing
 dos
@@ -2181,6 +2172,7 @@ dtsx
 dtx
 du
 dual-stack
+duck
 duckdb
 duckduckgo
 ducktyping
@@ -2696,7 +2688,6 @@ flickr
 flowchart
 flowy
 fluidrelay
-flyway
 fmg
 focus
 fod
@@ -3275,6 +3266,7 @@ hypervplugins
 hypothesis
 hysolate
 hysolatemangementconsole
+i-doit
 i2c
 ia
 iaas
@@ -3444,7 +3436,6 @@ instance
 instant
 instapush
 instorage
-int
 intacct
 integrated
 integratedscriptingeditor
@@ -3661,6 +3652,7 @@ karabiner
 karabiner-elements
 karma
 kaseya
+kaseyavsa
 kaspersky
 katakana
 kb
@@ -4636,7 +4628,6 @@ nuget.exe
 nuget.org
 number
 numlock
-nummapper
 nunit
 nupkg
 nuspec
@@ -8614,10 +8605,7 @@ recovery
 recoveryservices
 recruiter
 recrutch
-recurse
 recursion
-recursivefilesandfoldersdownload
-recursivefilesandfoldersupload
 recyclebin
 red
 redact
@@ -8824,7 +8812,6 @@ rightcloud
 rightjoin
 rights
 rightsizing
-rightsmanagement
 ring
 ripe
 risk
@@ -8886,6 +8873,7 @@ rsop
 rss
 rt
 rtu
+rubber
 rubrik
 rubriksecuritycloud
 ruby
@@ -9031,7 +9019,6 @@ screensaver
 screenscraping
 screenshot
 script
-script_version
 script-module
 script-to-assembly
 script-to-executable
@@ -9257,10 +9244,7 @@ sharepoint-on-prem
 sharepoint-online
 sharepoint-product-configuration-wizard
 sharepoint2013
-sharepointdevelopmentcommunity
 sharepointonline
-sharepointpnp
-sharepointpnppowershellonline.add-on.module
 shares
 sheets
 shell
@@ -9287,6 +9271,7 @@ showdemo
 showoncommand
 shred
 shuf
+shutdown
 sid
 sidecar
 siem
@@ -9347,6 +9332,8 @@ skypeforbusinessonline
 skypeonline
 skytap
 slack
+slash
+slashcommands
 slmgr
 sln
 slugify
@@ -9720,7 +9707,6 @@ sullivan
 summary
 summit
 sumologic
-supercell
 superheros
 supermarket
 support
@@ -9847,7 +9833,6 @@ task-scheduler
 taskbar
 tasker
 taskgroup
-taskmanagement
 tasks
 taskscheduler
 tatux
@@ -9949,6 +9934,7 @@ text-to-image
 text-to-speach"
 text-to-speech
 text2image
+textanalysis
 textbuffer
 texting
 texting-emoji
@@ -9976,7 +9962,6 @@ third-party-libraries
 third-party-notice
 thispc
 thoughtfortheday
-thousandeyes
 thread
 threading
 threadjob
@@ -10338,7 +10323,6 @@ usap
 usb
 useful
 user
-user-environment
 userdiscovery
 usergroup
 usergroups
@@ -10701,8 +10685,10 @@ win10
 win2k8
 win32
 win32_installedwin32program
+win32_operatingsystem
 win32-api
 win32appmigrationtool
+win32shutdown
 winbgp
 windchillrv&s
 window
@@ -10716,7 +10702,6 @@ windows-api
 windows-control-panel
 windows-defender
 windows-defender-application-control
-windows-environment
 windows-explorer
 windows-features
 windows-firewall
