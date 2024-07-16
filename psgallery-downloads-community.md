@@ -482,9 +482,9 @@ Windows PowerShell Module for managing file and folder security on NTFS volumes
 
 __Downloads__: 4,334,346 | __Repository__: https://github.com/raandree/NTFSSecurity
 
-## [Evergreen](https://www.powershellgallery.com/Packages/Evergreen/2407.1202) | 2407.1202
+## [Evergreen](https://www.powershellgallery.com/Packages/Evergreen/2407.1230) | 2407.1230
 
-### Published: 07/08/2024 01:15:29 by Aaron Parker
+### Published: 07/16/2024 11:42:06 by Aaron Parker
 
 Create evergreen Windows image builds with the latest versions of applications. Evergreen is a simple PowerShell module that retrieves the latest version numbers and download URLs for various software products directly from the vendor source.
 
@@ -2189,4 +2189,4 @@ Helper module for Active Directory with lots of useful functions that simplify s
 
 __Downloads__: 247,788 | __Repository__: https://github.com/EvotecIT/ADEssentials
 
-*Updated: Tuesday, 16 July 2024 09:52:01 UTC*
+*Updated: Tuesday, 16 July 2024 17:51:52 UTC*

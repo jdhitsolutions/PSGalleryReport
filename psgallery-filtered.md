@@ -3,13 +3,93 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
-## [psCandy](https://www.powershellgallery.com/Packages/psCandy/0.2.1) | 0.2.1
+## [UGDSB.PS](https://www.powershellgallery.com/Packages/UGDSB.PS/2.4.0) | 2.4.0
 
-### Published: 07/16/2024 08:38:59 by Yves Godart
+### Published: 07/16/2024 17:24:49 by Jeremy Putman
+
+This bundles together functions related to powershell functions use for UGDSB
+
+__Downloads__: 7,162 | __Repository__: 
+
+## [JumpCloud.ADMU](https://www.powershellgallery.com/Packages/JumpCloud.ADMU/2.7.1) | 2.7.1
+
+### Published: 07/16/2024 17:22:27 by JumpCloud Solutions Architect Team
+
+Powershell Module to run JumpCloud Active Directory Migration Utility.
+
+__Downloads__: 14,861 | __Repository__: 
+
+## [TfsCmdlets](https://www.powershellgallery.com/Packages/TfsCmdlets/2.8.1) | 2.8.1
+
+### Published: 07/16/2024 15:10:02 by Igor Abade V. Leite
+
+PowerShell Cmdlets for Azure DevOps and Team Foundation Server
+
+__Downloads__: 16,695 | __Repository__: https://github.com/igoravl/tfscmdlets/
+
+## [Hardensysvol](https://www.powershellgallery.com/Packages/Hardensysvol/1.2.0) | 1.2.0
+
+### Published: 07/16/2024 14:51:59 by DAKHAMA Mehdi
+
+Harden Sysvol is a Powershell Module to scan sysvol folder to search the sensitivity data
+
+__Downloads__: 0 | __Repository__: https://github.com/dakhama-mehdi/CheckSysvolsecurity
+
+## [PS.Selenium](https://www.powershellgallery.com/Packages/PS.Selenium/1.6) | 1.6
+
+### Published: 07/16/2024 14:37:58 by Nutstone
+
+Wraps Selenium
+
+__Downloads__: 8 | __Repository__: 
+
+## [PowerShell.FileTransformations](https://www.powershellgallery.com/Packages/PowerShell.FileTransformations/1.4) | 1.4
+
+### Published: 07/16/2024 14:24:00 by HT
+
+Transforms, converts, and/or secures data files.
+
+__Downloads__: 125 | __Repository__: 
+
+## [Admin](https://www.powershellgallery.com/Packages/Admin/1.0.7) | 1.0.7
+
+### Published: 07/16/2024 14:18:30 by PSModule
+
+A PowerShell module working with the admin role.
+
+__Downloads__: 5,150 | __Repository__: https://github.com/PSModule/Admin
+
+## [JyskIT.Automation](https://www.powershellgallery.com/Packages/JyskIT.Automation/1.1.1) | 1.1.1
+
+### Published: 07/16/2024 13:16:56 by Jysk IT
+
+Provides different cmdlets for automating Microsoft 365 and related services.
+
+__Downloads__: 631 | __Repository__: 
+
+## [psCandy](https://www.powershellgallery.com/Packages/psCandy/0.2.2) | 0.2.2
+
+### Published: 07/16/2024 12:23:10 by Yves Godart
 
 This module provides classes for Eye-Candy in the console.
 
 __Downloads__: 0 | __Repository__: https://github.com/Yves848/psCandy/tree/master
+
+## [Quantum.DMS.PowerShell](https://www.powershellgallery.com/Packages/Quantum.DMS.PowerShell/3.0.4) | 3.0.4
+
+### Published: 07/16/2024 12:04:57 by Radi Atanassov
+
+A set of PowerShell cmdlets for administering Quantum DMS.
+
+__Downloads__: 603 | __Repository__: 
+
+## [Evergreen](https://www.powershellgallery.com/Packages/Evergreen/2407.1230) | 2407.1230
+
+### Published: 07/16/2024 11:42:06 by Aaron Parker
+
+Create evergreen Windows image builds with the latest versions of applications. Evergreen is a simple PowerShell module that retrieves the latest version numbers and download URLs for various software products directly from the vendor source.
+
+__Downloads__: 4,180,856 | __Repository__: https://stealthpuppy.com/evergreen/
 
 ## [WindmillClient](https://www.powershellgallery.com/Packages/WindmillClient/1.364.2) | 1.364.2
 
@@ -79,14 +159,6 @@ __Downloads__: 197 | __Repository__: https://gitlab.com/PoshAJ/PoshToolbox
 Optimizes the PowerShell Module Installation Process to be as fast as possible and operate in CI/CD scenarios in a declarative manner
 
 __Downloads__: 449 | __Repository__: https://github.com/JustinGrote/ModuleFast
-
-## [Hardensysvol](https://www.powershellgallery.com/Packages/Hardensysvol/1.1.1) | 1.1.1
-
-### Published: 07/15/2024 22:31:48 by DAKHAMA Mehdi
-
-Harden Sysvol is a Powershell Module to scan sysvol folder to search the sensitivity data
-
-__Downloads__: 0 | __Repository__: https://github.com/dakhama-mehdi/CheckSysvolsecurity
 
 ## [IPNetwork](https://www.powershellgallery.com/Packages/IPNetwork/0.1.0) | 0.1.0
 
@@ -175,14 +247,6 @@ __Downloads__: 0 | __Repository__:
 PSSailpoint - the PowerShell module for IdentityNow
 
 __Downloads__: 4,019 | __Repository__: 
-
-## [PS.Selenium](https://www.powershellgallery.com/Packages/PS.Selenium/1.5) | 1.5
-
-### Published: 07/15/2024 12:40:48 by Nutstone
-
-Wraps Selenium
-
-__Downloads__: 8 | __Repository__: 
 
 ## [AsBuiltReport.Fortinet.FortiGate](https://www.powershellgallery.com/Packages/AsBuiltReport.Fortinet.FortiGate/0.4.0) | 0.4.0
 
@@ -2064,68 +2128,4 @@ This modules provides Cmdlets for OCI Bastion Service
 
 __Downloads__: 5,914 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-## [OCI.PSModules.Autoscaling](https://www.powershellgallery.com/Packages/OCI.PSModules.Autoscaling/86.2.0) | 86.2.0
-
-### Published: 07/09/2024 19:06:26 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Autoscaling Service
-
-__Downloads__: 6,638 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Audit](https://www.powershellgallery.com/Packages/OCI.PSModules.Audit/86.2.0) | 86.2.0
-
-### Published: 07/09/2024 19:06:21 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Audit Service
-
-__Downloads__: 6,832 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Artifacts](https://www.powershellgallery.com/Packages/OCI.PSModules.Artifacts/86.2.0) | 86.2.0
-
-### Published: 07/09/2024 19:06:16 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Artifacts Service
-
-__Downloads__: 6,239 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Appmgmtcontrol](https://www.powershellgallery.com/Packages/OCI.PSModules.Appmgmtcontrol/86.2.0) | 86.2.0
-
-### Published: 07/09/2024 19:06:11 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Appmgmtcontrol Service
-
-__Downloads__: 5,482 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Apmtraces](https://www.powershellgallery.com/Packages/OCI.PSModules.Apmtraces/86.2.0) | 86.2.0
-
-### Published: 07/09/2024 19:06:07 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Apmtraces Service
-
-__Downloads__: 8,473 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Apmsynthetics](https://www.powershellgallery.com/Packages/OCI.PSModules.Apmsynthetics/86.2.0) | 86.2.0
-
-### Published: 07/09/2024 19:06:02 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Apmsynthetics Service
-
-__Downloads__: 6,226 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Apmcontrolplane](https://www.powershellgallery.com/Packages/OCI.PSModules.Apmcontrolplane/86.2.0) | 86.2.0
-
-### Published: 07/09/2024 19:05:57 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Apmcontrolplane Service
-
-__Downloads__: 7,622 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Apmconfig](https://www.powershellgallery.com/Packages/OCI.PSModules.Apmconfig/86.2.0) | 86.2.0
-
-### Published: 07/09/2024 19:05:52 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Apmconfig Service
-
-__Downloads__: 6,054 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-*Updated: Tuesday, 16 July 2024 09:51:55 UTC*
+*Updated: Tuesday, 16 July 2024 17:51:47 UTC*
