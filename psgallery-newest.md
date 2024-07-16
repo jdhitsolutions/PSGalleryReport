@@ -3,6 +3,59 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [psCandy](https://www.powershellgallery.com/Packages/psCandy/0.2.1) | 0.2.1
+
+### Published: 07/16/2024 08:38:59 by Yves Godart
+
+This module provides classes for Eye-Candy in the console.
+
+__Downloads__: 0 | __Repository__: https://github.com/Yves848/psCandy/tree/master
+
+## [WindmillClient](https://www.powershellgallery.com/Packages/WindmillClient/1.364.2) | 1.364.2
+
+### Published: 07/16/2024 08:38:26 by Windmill Labs
+
+Client for the Windmill platform.
+
+__Downloads__: 380 | __Repository__: https://github.com/windmill-labs/windmill/tree/main/powershell-client
+
+## [PasswordSolution](https://www.powershellgallery.com/Packages/PasswordSolution/1.2.5) | 1.2.5
+
+### Published: 07/16/2024 06:58:46 by Przemyslaw Klys
+
+This module allows the creation of password expiry emails for users, managers, administrators, and security according to defined templates. It's able to work with different rules allowing to fully customize who gets the email and when.
+
+__Downloads__: 7,537 | __Repository__: https://github.com/EvotecIT/PasswordSolution
+
+## [ps12exe](https://www.powershellgallery.com/Packages/ps12exe/0.3.50) | 0.3.50
+
+### Published: 07/16/2024 06:22:35 by steve02081504
+
+better pwsh code 2 exe repo:
+- Use `ps12exe a.ps1` to convert `a.ps1` into `a.exe`;
+- Use `ps12exeGUI` for a graphical interface that simplifies compilation;
+- Use `Set-ps12exeContextMenu` to add a context menu item for quick compilation or GUI access on `.ps1` files;
+- Use `Start-ps12exeWebServer` to launch a web server that allows users to compile scripts online;
+All commands in this module support the `-help` option for detailed assistance in your language.
+
+__Downloads__: 1,343 | __Repository__: https://github.com/steve02081504/ps12exe
+
+## [PSAction1](https://www.powershellgallery.com/Packages/PSAction1/1.3.7) | 1.3.7
+
+### Published: 07/16/2024 02:42:52 by Gene Moody
+
+API Interface for Action1
+
+__Downloads__: 579 | __Repository__: 
+
+## [AzPolicyTest](https://www.powershellgallery.com/Packages/AzPolicyTest/2.6.1) | 2.6.1
+
+### Published: 07/16/2024 02:27:44 by Tao Yang
+
+Provides pre-defined pester tests for Azure Policy and Initiative definitions
+
+__Downloads__: 774 | __Repository__: https://github.com/tyconsulting/AzPolicyTest
+
 ## [IDMCmdlets](https://www.powershellgallery.com/Packages/IDMCmdlets/1.0.3.5) | 1.0.3.5
 
 ### Published: 07/16/2024 02:04:01 by Powershellcrack
@@ -35,14 +88,6 @@ Harden Sysvol is a Powershell Module to scan sysvol folder to search the sensiti
 
 __Downloads__: 0 | __Repository__: https://github.com/dakhama-mehdi/CheckSysvolsecurity
 
-## [WindmillClient](https://www.powershellgallery.com/Packages/WindmillClient/1.364.1) | 1.364.1
-
-### Published: 07/15/2024 21:10:19 by Windmill Labs
-
-Client for the Windmill platform.
-
-__Downloads__: 380 | __Repository__: https://github.com/windmill-labs/windmill/tree/main/powershell-client
-
 ## [IPNetwork](https://www.powershellgallery.com/Packages/IPNetwork/0.1.0) | 0.1.0
 
 ### Published: 07/15/2024 20:13:40 by Justin Grote @justinwgrote
@@ -58,14 +103,6 @@ __Downloads__: 557 | __Repository__: https://github.com/JustinGrote/IPNetwork
 Azure API call handler for Microsoft Graph, Azure Resource Management, KeyVault, Log Analytics, Storage and ingest.monitor.azure.*. Visit aka.ms/AzAPICall
 
 __Downloads__: 225,785 | __Repository__: https://aka.ms/AzAPICall
-
-## [psCandy](https://www.powershellgallery.com/Packages/psCandy/0.2.0) | 0.2.0
-
-### Published: 07/15/2024 19:22:50 by Yves Godart
-
-This module provides classes for Eye-Candy in the console.
-
-__Downloads__: 0 | __Repository__: https://github.com/Yves848/psCandy/tree/master
 
 ## [UofIQualys](https://www.powershellgallery.com/Packages/UofIQualys/1.8.1) | 1.8.1
 
@@ -266,14 +303,6 @@ The Partner PowerShell Cmdlets module is targeted for Data Platform partner-usag
 The cmdlets bring a breath of fresh air and come with an intuitive, verbose set of commands that can be ran as-is or as part of an automation script or a data management pipeline.
 
 __Downloads__: 112 | __Repository__: 
-
-## [PasswordSolution](https://www.powershellgallery.com/Packages/PasswordSolution/1.2.4) | 1.2.4
-
-### Published: 07/15/2024 07:56:56 by Przemyslaw Klys
-
-This module allows the creation of password expiry emails for users, managers, administrators, and security according to defined templates. It's able to work with different rules allowing to fully customize who gets the email and when.
-
-__Downloads__: 7,537 | __Repository__: https://github.com/EvotecIT/PasswordSolution
 
 ## [Get-DMARCRecord](https://www.powershellgallery.com/Packages/Get-DMARCRecord/1.0.6) | 1.0.6
 
@@ -2463,34 +2492,4 @@ This version of AWS Tools for PowerShell is compatible with Windows PowerShell 5
 
 __Downloads__: 11,095 | __Repository__: https://github.com/aws/aws-tools-for-powershell
 
-## [AWS.Tools.GuardDuty](https://www.powershellgallery.com/Packages/AWS.Tools.GuardDuty/4.1.618) | 4.1.618
-
-### Published: 07/12/2024 23:30:51 by Amazon.com Inc
-
-The GuardDuty module of AWS Tools for PowerShell lets developers and administrators manage Amazon GuardDuty from the PowerShell scripting environment. In order to manage each AWS service, install the corresponding module (e.g. AWS.Tools.EC2, AWS.Tools.S3...).
-The module AWS.Tools.Installer (https://www.powershellgallery.com/packages/AWS.Tools.Installer/) makes it easier to install, update and uninstall the AWS.Tools modules.
-This version of AWS Tools for PowerShell is compatible with Windows PowerShell 5.1+ and PowerShell Core 6+ on Windows, Linux and macOS. When running on Windows PowerShell, .NET Framework 4.7.2 or newer is required. Alternative modules AWSPowerShell.NetCore and AWSPowerShell, provide support for all AWS services from a single module and also support older versions of Windows PowerShell and .NET Framework.
-
-__Downloads__: 21,738 | __Repository__: https://github.com/aws/aws-tools-for-powershell
-
-## [AWS.Tools.GroundStation](https://www.powershellgallery.com/Packages/AWS.Tools.GroundStation/4.1.618) | 4.1.618
-
-### Published: 07/12/2024 23:30:44 by Amazon.com Inc
-
-The GroundStation module of AWS Tools for PowerShell lets developers and administrators manage AWS Ground Station from the PowerShell scripting environment. In order to manage each AWS service, install the corresponding module (e.g. AWS.Tools.EC2, AWS.Tools.S3...).
-The module AWS.Tools.Installer (https://www.powershellgallery.com/packages/AWS.Tools.Installer/) makes it easier to install, update and uninstall the AWS.Tools modules.
-This version of AWS Tools for PowerShell is compatible with Windows PowerShell 5.1+ and PowerShell Core 6+ on Windows, Linux and macOS. When running on Windows PowerShell, .NET Framework 4.7.2 or newer is required. Alternative modules AWSPowerShell.NetCore and AWSPowerShell, provide support for all AWS services from a single module and also support older versions of Windows PowerShell and .NET Framework.
-
-__Downloads__: 13,493 | __Repository__: https://github.com/aws/aws-tools-for-powershell
-
-## [AWS.Tools.GreengrassV2](https://www.powershellgallery.com/Packages/AWS.Tools.GreengrassV2/4.1.618) | 4.1.618
-
-### Published: 07/12/2024 23:30:38 by Amazon.com Inc
-
-The GreengrassV2 module of AWS Tools for PowerShell lets developers and administrators manage AWS GreengrassV2 from the PowerShell scripting environment. In order to manage each AWS service, install the corresponding module (e.g. AWS.Tools.EC2, AWS.Tools.S3...).
-The module AWS.Tools.Installer (https://www.powershellgallery.com/packages/AWS.Tools.Installer/) makes it easier to install, update and uninstall the AWS.Tools modules.
-This version of AWS Tools for PowerShell is compatible with Windows PowerShell 5.1+ and PowerShell Core 6+ on Windows, Linux and macOS. When running on Windows PowerShell, .NET Framework 4.7.2 or newer is required. Alternative modules AWSPowerShell.NetCore and AWSPowerShell, provide support for all AWS services from a single module and also support older versions of Windows PowerShell and .NET Framework.
-
-__Downloads__: 11,291 | __Repository__: https://github.com/aws/aws-tools-for-powershell
-
-*Updated: Tuesday, 16 July 2024 02:10:30 UTC*
+*Updated: Tuesday, 16 July 2024 09:51:54 UTC*
