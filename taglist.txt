@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Wednesday, 17 July 2024 02:10:20 UTC
+Updated: Wednesday, 17 July 2024 09:52:44 UTC
 
 .bat
 .env
@@ -78,7 +78,6 @@ about
 abr
 abstractsyntaxtree
 abuse
-abuseipdb
 acas
 accelerator
 access
@@ -251,7 +250,6 @@ agile
 agility
 agm
 agnoster
-ahk
 ai
 aianomalydetection
 aidocument
@@ -431,6 +429,7 @@ appveyor
 appvolumes
 appwrite
 appx
+appxmanifest
 appxpackage
 aprs
 aprs-is
@@ -559,6 +558,7 @@ authentication
 authenticationcertificate
 authenticode
 authn
+author
 authoring
 authoringtools
 authorisation
@@ -578,7 +578,6 @@ autocomplete
 autocompletion
 autoenv
 autograph
-autohotkey
 autoload
 autologon
 automai
@@ -690,6 +689,7 @@ azureartifacts
 azureas
 azureatp
 azureautomation
+azureautomationaccount
 azureautomationnotsupported
 azurebasicloadbalancerupgrade
 azurecli
@@ -926,6 +926,8 @@ brainy
 branch
 branch-rename
 brave
+brawlapi
+brawlstars
 brazencloud
 bre
 breach
@@ -1307,6 +1309,7 @@ code365
 codeanalysis
 codebuild
 codecommit
+codecomplexity
 codecov
 codecoverage
 codegen
@@ -1352,6 +1355,7 @@ comical
 comics
 command
 command_line
+command-line-interface
 command-validation
 commandcoverage
 commandhistory
@@ -1361,6 +1365,7 @@ commands
 commandsandresource
 commence
 comment
+comments
 commerce
 commfort
 commit
@@ -1525,6 +1530,7 @@ copilot
 copy
 copy-item
 copypaste
+copyright
 core
 coreposh
 coreutils
@@ -1749,6 +1755,7 @@ dataexplorer
 datafactory
 dataflow
 dataflowdependency
+dataframe
 datagateway
 dataintegration
 datakwaliteit
@@ -1873,6 +1880,7 @@ dependency
 dependencysearch
 deploy
 deployment
+deploymentconfig
 deploymentresourceprovider
 depute
 der
@@ -2081,6 +2089,7 @@ domainkey
 domainname
 domainnamesystem
 domains
+domino
 done.land
 donothing
 dos
@@ -2647,6 +2656,7 @@ findfile
 findlocation
 findplace
 findproxyforurl
+fine-print
 fine-tuning
 finops
 firebird
@@ -2735,6 +2745,7 @@ foudil
 fox
 foxpro
 fqdn
+frame
 framework
 france
 free
@@ -3041,9 +3052,9 @@ gzip-compression
 ha
 haarlemsdagblad
 hack
-hacking
 hacktoberfest
 hadoop
+hafr
 hailstone
 haipa
 halo
@@ -3430,7 +3441,6 @@ instance
 instant
 instapush
 instorage
-int
 intacct
 integrated
 integratedscriptingeditor
@@ -3877,6 +3887,7 @@ locale
 localgroup
 localgroupmember
 localization
+localpolicy
 location
 locationbasedservices
 lock
@@ -4060,6 +4071,7 @@ marketplaceprivateoffer
 marketplacepublisher
 marking
 marklogic
+marquee
 marvel
 marvell
 marvell_semiconductor_inc
@@ -4623,7 +4635,6 @@ nuget.exe
 nuget.org
 number
 numlock
-nummapper
 nunit
 nupkg
 nuspec
@@ -4924,6 +4935,7 @@ partition
 partitions
 partner
 partnercenter
+partnerportal
 pas
 pass
 pass-the-hash
@@ -9710,6 +9722,7 @@ sullivan
 summary
 summit
 sumologic
+supercell
 superheros
 supermarket
 support
@@ -9938,6 +9951,7 @@ text-to-image
 text-to-speach"
 text-to-speech
 text2image
+textanalysis
 textbuffer
 texting
 texting-emoji
@@ -9965,7 +9979,6 @@ third-party-libraries
 third-party-notice
 thispc
 thoughtfortheday
-thousandeyes
 thread
 threading
 threadjob
@@ -10123,6 +10136,7 @@ tsqlbestpractice
 tst
 tst1
 tst3
+tsv
 ttrpg
 tts
 tubedownloader

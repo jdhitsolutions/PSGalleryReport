@@ -3,6 +3,41 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [SEPPmailAPI](https://www.powershellgallery.com/Packages/SEPPmailAPI/1.1.0) | 1.1.0
+
+### Published: 07/17/2024 09:01:06 by The SEPPmail Dev-Team
+
+Receive and manipulate your SEPPmail Appliance beginning with SEPPmail Version 12.1.0.
+   With the REST-API you can retrieve and set information via REST, including the option to mass-generate users.
+   This PowerShell module is a wrapper around this API to allow more convenient operation and interaction from the command line.
+
+__Downloads__: 529 | __Repository__: https://github.com/seppmail/SEPPmailAPI
+
+## [RTDP.CLI.PartnerCmdlets](https://www.powershellgallery.com/Packages/RTDP.CLI.PartnerCmdlets/2.1.0) | 2.1.0
+
+### Published: 07/17/2024 07:49:36 by RISE Data Platform
+
+The Partner PowerShell Cmdlets module is targeted for Data Platform partner-usage.
+The cmdlets bring a breath of fresh air and come with an intuitive, verbose set of commands that can be ran as-is or as part of an automation script or a data management pipeline.
+
+__Downloads__: 112 | __Repository__: 
+
+## [PS.Selenium](https://www.powershellgallery.com/Packages/PS.Selenium/1.8) | 1.8
+
+### Published: 07/17/2024 07:46:53 by Nutstone
+
+Wraps Selenium
+
+__Downloads__: 8 | __Repository__: 
+
+## [rhubarb-geek-nz.Joinery](https://www.powershellgallery.com/Packages/rhubarb-geek-nz.Joinery/1.0.2) | 1.0.2
+
+### Published: 07/17/2024 06:43:17 by Roger Brown
+
+Join Tools
+
+__Downloads__: 16 | __Repository__: https://github.com/rhubarb-geek-nz/Joinery
+
 ## [IefPolicies](https://www.powershellgallery.com/Packages/IefPolicies/3.1.20) | 3.1.20
 
 ### Published: 07/17/2024 00:32:13 by Marius Rochon
@@ -1252,14 +1287,6 @@ Harden Sysvol is a Powershell Module to scan sysvol folder to search the sensiti
 
 __Downloads__: 0 | __Repository__: https://github.com/dakhama-mehdi/CheckSysvolsecurity
 
-## [PS.Selenium](https://www.powershellgallery.com/Packages/PS.Selenium/1.6) | 1.6
-
-### Published: 07/16/2024 14:37:58 by Nutstone
-
-Wraps Selenium
-
-__Downloads__: 8 | __Repository__: 
-
 ## [PowerShell.FileTransformations](https://www.powershellgallery.com/Packages/PowerShell.FileTransformations/1.4) | 1.4
 
 ### Published: 07/16/2024 14:24:00 by HT
@@ -1551,15 +1578,6 @@ __Downloads__: 28 | __Repository__: https://github.com/ChendrayanV/PowerShell.Wi
 A PowerShell module for debugging publishing of modules.
 
 __Downloads__: 2,837 | __Repository__: https://github.com/joeltimothyoh/MyPublishingDebugger
-
-## [RTDP.CLI.PartnerCmdlets](https://www.powershellgallery.com/Packages/RTDP.CLI.PartnerCmdlets/2.0.0) | 2.0.0
-
-### Published: 07/15/2024 08:39:09 by RISE Data Platform
-
-The Partner PowerShell Cmdlets module is targeted for Data Platform partner-usage.
-The cmdlets bring a breath of fresh air and come with an intuitive, verbose set of commands that can be ran as-is or as part of an automation script or a data management pipeline.
-
-__Downloads__: 112 | __Repository__: 
 
 ## [Get-DMARCRecord](https://www.powershellgallery.com/Packages/Get-DMARCRecord/1.0.6) | 1.0.6
 
@@ -2065,20 +2083,4 @@ Functions to Automate Bulk VMWare Tasks
 
 __Downloads__: 43,891 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
-## [AdminToolbox.Remoting](https://www.powershellgallery.com/Packages/AdminToolbox.Remoting/1.9.159) | 1.9.159
-
-### Published: 07/10/2024 14:07:10 by Taylor Lee
-
-Functions for remote management and access.
-
-__Downloads__: 43,465 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-## [AdminToolbox.Office365](https://www.powershellgallery.com/Packages/AdminToolbox.Office365/4.0.19) | 4.0.19
-
-### Published: 07/10/2024 14:06:53 by Taylor Lee
-
-Functions for working with Office365 and Azure modules
-
-__Downloads__: 46,593 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-*Updated: Wednesday, 17 July 2024 02:10:12 UTC*
+*Updated: Wednesday, 17 July 2024 09:52:36 UTC*
