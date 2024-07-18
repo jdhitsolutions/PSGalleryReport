@@ -3,6 +3,54 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [rhubarb-geek-nz.Joinery](https://www.powershellgallery.com/Packages/rhubarb-geek-nz.Joinery/1.0.4) | 1.0.4
+
+### Published: 07/18/2024 02:02:06 by Roger Brown
+
+Join Tools
+
+__Downloads__: 16 | __Repository__: https://github.com/rhubarb-geek-nz/Joinery
+
+## [M365DSC.CompositeResources](https://www.powershellgallery.com/Packages/M365DSC.CompositeResources/1.24.717.100) | 1.24.717.100
+
+### Published: 07/18/2024 01:20:25 by Yorick Kuijs
+
+DSC composite resource for configuring Microsoft 365
+
+__Downloads__: 2,314 | __Repository__: https://github.com/ykuijs/M365DSC.CompositeResources
+
+## [rhubarb-geek-nz.Joinery](https://www.powershellgallery.com/Packages/rhubarb-geek-nz.Joinery/1.0.3) | 1.0.3
+
+### Published: 07/18/2024 01:03:33 by Roger Brown
+
+Join Tools
+
+__Downloads__: 16 | __Repository__: https://github.com/rhubarb-geek-nz/Joinery
+
+## [Admin](https://www.powershellgallery.com/Packages/Admin/1.0.13) | 1.0.13
+
+### Published: 07/17/2024 21:34:43 by PSModule
+
+A PowerShell module working with the admin role.
+
+__Downloads__: 5,150 | __Repository__: https://github.com/PSModule/Admin
+
+## [SecretManagement.Warden](https://www.powershellgallery.com/Packages/SecretManagement.Warden/1.1.1) | 1.1.1
+
+### Published: 07/17/2024 21:16:10 by William P. Marshall
+
+Bitwarden/Vaultwarden extension for the PowerShell SecretManager allowing you to Get, Set, and Remove secrets in a standardized way. Supports storing and retrieving PowerShell Objects as secrets. Can be used for automated secret retrieval/management.
+
+__Downloads__: 117 | __Repository__: https://github.com/BinaryWizard904/SecretManagement.Warden
+
+## [PlaywrightAutomation](https://www.powershellgallery.com/Packages/PlaywrightAutomation/0.0.0) | 0.0.0
+
+### Published: 07/17/2024 18:46:24 by Cameron S. Williamson
+
+A wrapper for the Microsoft.Playwright .NET library.
+
+__Downloads__: 0 | __Repository__: https://gitea.therealkeyis.me/tools/PlaywrightAutomation
+
 ## [Devolutions.PowerShell](https://www.powershellgallery.com/Packages/Devolutions.PowerShell/2024.2.2) | 2024.2.2
 
 ### Published: 07/17/2024 17:39:34 by Devolutions
@@ -214,14 +262,6 @@ Wraps Selenium
 
 __Downloads__: 8 | __Repository__: 
 
-## [rhubarb-geek-nz.Joinery](https://www.powershellgallery.com/Packages/rhubarb-geek-nz.Joinery/1.0.2) | 1.0.2
-
-### Published: 07/17/2024 06:43:17 by Roger Brown
-
-Join Tools
-
-__Downloads__: 16 | __Repository__: https://github.com/rhubarb-geek-nz/Joinery
-
 ## [IefPolicies](https://www.powershellgallery.com/Packages/IefPolicies/3.1.20) | 3.1.20
 
 ### Published: 07/17/2024 00:32:13 by Marius Rochon
@@ -261,14 +301,6 @@ __Downloads__: 6,685 | __Repository__:
 PowerShell Commander
 
 __Downloads__: 10,867 | __Repository__: https://github.com/Keeper-Security/keeper-sdk-dotnet
-
-## [Admin](https://www.powershellgallery.com/Packages/Admin/1.0.8) | 1.0.8
-
-### Published: 07/16/2024 21:28:50 by PSModule
-
-A PowerShell module working with the admin role.
-
-__Downloads__: 5,150 | __Repository__: https://github.com/PSModule/Admin
 
 ## [JumpCloud.ADMU](https://www.powershellgallery.com/Packages/JumpCloud.ADMU/2.7.2) | 2.7.2
 
@@ -1998,14 +2030,6 @@ A collection of PowerShell functions for administrative tasks.
 
 __Downloads__: 274 | __Repository__: https://github.com/yveslaurentcreton/PSJet
 
-## [M365DSC.CompositeResources](https://www.powershellgallery.com/Packages/M365DSC.CompositeResources/1.24.710.300) | 1.24.710.300
-
-### Published: 07/12/2024 01:20:31 by Yorick Kuijs
-
-DSC composite resource for configuring Microsoft 365
-
-__Downloads__: 2,314 | __Repository__: https://github.com/ykuijs/M365DSC.CompositeResources
-
 ## [AutopilotPartner](https://www.powershellgallery.com/Packages/AutopilotPartner/1.0.5) | 1.0.5
 
 ### Published: 07/11/2024 21:20:25 by Onslivion
@@ -2054,28 +2078,4 @@ Liquit Workspace PowerShell Module
 
 __Downloads__: 5,493 | __Repository__: 
 
-## [DTX.Cloud.Management](https://www.powershellgallery.com/Packages/DTX.Cloud.Management/1.13.9) | 1.13.9
-
-### Published: 07/11/2024 14:30:02 by Platform Operations Team
-
-Dotmatics cloud automation tool.
-
-__Downloads__: 11,057 | __Repository__: 
-
-## [VMware.Community.VSANDP](https://www.powershellgallery.com/Packages/VMware.Community.VSANDP/1.0.1) | 1.0.1
-
-### Published: 07/11/2024 14:22:00 by William Lam
-
-PowerShell Module for Managing VMware vSAN Data Protection
-
-__Downloads__: 8 | __Repository__: https://github.com/lamw/VMware.Community.VSANDP
-
-## [IntuneWin32Deployer](https://www.powershellgallery.com/Packages/IntuneWin32Deployer/24.7.11.1) | 24.7.11.1
-
-### Published: 07/11/2024 12:44:11 by Florian Salzmann
-
-Manage, create and upload win32 applications to Intune
-
-__Downloads__: 1,142 | __Repository__: https://github.com/FlorianSLZ/IntuneWin32Deployer
-
-*Updated: Wednesday, 17 July 2024 17:52:00 UTC*
+*Updated: Thursday, 18 July 2024 02:09:41 UTC*
