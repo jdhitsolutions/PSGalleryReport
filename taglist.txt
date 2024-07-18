@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Wednesday, 17 July 2024 17:52:08 UTC
+Updated: Thursday, 18 July 2024 02:09:49 UTC
 
 .bat
 .env
@@ -20,6 +20,7 @@ Updated: Wednesday, 17 July 2024 17:52:08 UTC
 🍣
 💩
 🙇
+1&1
 10
 11
 1607
@@ -456,6 +457,8 @@ archivial
 archivial-backup
 archivial-cloud-backup
 archlinux
+archon
+archonagent
 arcresourcebridge
 arcus
 area
@@ -924,8 +927,6 @@ brainy
 branch
 branch-rename
 brave
-brawlapi
-brawlstars
 brazencloud
 bre
 breach
@@ -1515,6 +1516,10 @@ convertto
 convertto-excel
 convertto-hashtable
 convertto-yaml
+converttodocx
+converttohtml
+converttomarkdown
+converttomd
 cookie
 coolq
 cooltag1
@@ -2248,6 +2253,7 @@ edr
 education
 educational
 effectiveroutes
+efficientether
 efi
 egrep
 eid
@@ -2384,6 +2390,7 @@ esx
 esxi
 eternalblue
 ether
+etherassist
 ethereum
 ethr
 ethz
@@ -2841,6 +2848,7 @@ generator
 generic
 genericartifactscontent
 genetic-algorithm
+genp
 genxdev
 geo
 geocache
@@ -3219,6 +3227,7 @@ hpeosprovisioncmdlets
 hpesmartarraycmdlets
 hpesynergy
 hponeview
+hpwritemanager
 hris
 hrprovisioning
 hsdp
@@ -3430,6 +3439,7 @@ installwindows
 instance
 instant
 instapush
+int
 intacct
 integrated
 integratedscriptingeditor
@@ -3489,6 +3499,7 @@ invoke-webrequest
 invokebuild
 invokemethod
 io
+ionos
 ios
 iot
 iotcentral
@@ -4623,6 +4634,7 @@ nuget.exe
 nuget.org
 number
 numlock
+nummapper
 nunit
 nupkg
 nuspec
@@ -5243,6 +5255,7 @@ powerdex
 powerforensics
 powergraph
 powergui
+powermax
 powerpack
 powerplan
 powerplateform
@@ -9448,7 +9461,6 @@ spacex
 spam
 spanner
 spark
-sparkline
 sparklines
 spawn
 spdockit
@@ -9709,7 +9721,6 @@ sullivan
 summary
 summit
 sumologic
-supercell
 superheros
 supermarket
 support
@@ -10206,6 +10217,7 @@ ud-scrollspy
 ud-selectdatetime
 ud-selector
 ud-signature
+ud-simpledrawer
 ud-singleselect
 ud-slider
 ud-speechbubble
@@ -10862,6 +10874,7 @@ write-slog
 write-wansi
 writeaccess
 writelog
+writemanager
 writeprogress
 writer
 ws-federation
@@ -10971,7 +10984,6 @@ zigbee
 zip
 zip-compression
 zipfile-transform
-zisson
 zoho
 zoicware
 zone
@@ -10979,6 +10991,8 @@ zookeeper
 zoom
 zoomapi
 zoommeeting
+zorus
+zorusapi
 zoxide
 zsh
 zuora
