@@ -3,6 +3,54 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [rhubarb-geek-nz.Joinery](https://www.powershellgallery.com/Packages/rhubarb-geek-nz.Joinery/1.0.5) | 1.0.5
+
+### Published: 07/19/2024 16:24:10 by Roger Brown
+
+Join Tools
+
+__Downloads__: 16 | __Repository__: https://github.com/rhubarb-geek-nz/Joinery
+
+## [IOInfoExtensions.PowerShell](https://www.powershellgallery.com/Packages/IOInfoExtensions.PowerShell/0.1.0) | 0.1.0
+
+### Published: 07/19/2024 15:52:26 by Andrew Strickland
+
+Adds quality of life Extension methods to the System.IO.DirectoryInfo and System.IO.FileInfo classes.
+
+__Downloads__: 26 | __Repository__: https://github.com/APStrickland/IOInfoExtensions
+
+## [PSOpenAI](https://www.powershellgallery.com/Packages/PSOpenAI/4.0.0) | 4.0.0
+
+### Published: 07/19/2024 15:51:27 by mkht
+
+PowerShell module for OpenAI API
+
+__Downloads__: 3,365 | __Repository__: https://github.com/mkht/PSOpenAI
+
+## [PoshMongo](https://www.powershellgallery.com/Packages/PoshMongo/3.3.1) | 3.3.1
+
+### Published: 07/19/2024 15:27:12 by jeffrey@patton-tech.com
+
+A PowerShell module to work with MongoDB
+
+__Downloads__: 2,224 | __Repository__: https://github.com/PoshMongo/PoshMongo
+
+## [UGDSB.PS](https://www.powershellgallery.com/Packages/UGDSB.PS/2.5.1) | 2.5.1
+
+### Published: 07/19/2024 13:43:33 by Jeremy Putman
+
+This bundles together functions related to powershell functions use for UGDSB
+
+__Downloads__: 7,162 | __Repository__: 
+
+## [PSRuntimeEnviromentModule](https://www.powershellgallery.com/Packages/PSRuntimeEnviromentModule/1.0.0.2) | 1.0.0.2
+
+### Published: 07/19/2024 11:36:28 by Michal Gajda
+
+Module to manage PowerShell modules in Azure Automation Runtime Enviroments.
+
+__Downloads__: 0 | __Repository__: https://github.com/mgajda83/PSRuntimeEnviromentModule
+
 ## [fscps.tools](https://www.powershellgallery.com/Packages/fscps.tools/1.0.264) | 1.0.264
 
 ### Published: 07/19/2024 06:53:14 by Oleksandr Nikolaiev
@@ -151,22 +199,6 @@ __Downloads__: 4,820,604 | __Repository__: https://0install.net/
 A PowerShell module working with the admin role.
 
 __Downloads__: 5,150 | __Repository__: https://github.com/PSModule/Admin
-
-## [PSRuntimeEnviromentModule](https://www.powershellgallery.com/Packages/PSRuntimeEnviromentModule/1.0.0.1) | 1.0.0.1
-
-### Published: 07/18/2024 13:48:49 by Michal Gajda
-
-Module to manage PowerShell modules in Azure Automation Runtime Enviroments.
-
-__Downloads__: 0 | __Repository__: https://github.com/mgajda83/PSRuntimeEnviromentModule
-
-## [UGDSB.PS](https://www.powershellgallery.com/Packages/UGDSB.PS/2.5.0) | 2.5.0
-
-### Published: 07/18/2024 12:20:28 by Jeremy Putman
-
-This bundles together functions related to powershell functions use for UGDSB
-
-__Downloads__: 7,162 | __Repository__: 
 
 ## [PSFramework](https://www.powershellgallery.com/Packages/PSFramework/1.11.343) | 1.11.343
 
@@ -2046,36 +2078,4 @@ Automate against ServiceNow service and asset management.  This module can be us
 
 __Downloads__: 307,639 | __Repository__: https://github.com/Snow-Shell/servicenow-powershell
 
-## [PowerCfg](https://www.powershellgallery.com/Packages/PowerCfg/0.2.1) | 0.2.1
-
-### Published: 07/12/2024 13:00:25 by Keith Bruggemann
-
-PowerCfg as a PowerShell module
-
-__Downloads__: 24 | __Repository__: 
-
-## [Dmi3.PowerShell.FFTools](https://www.powershellgallery.com/Packages/Dmi3.PowerShell.FFTools/0.1.4) | 0.1.4
-
-### Published: 07/12/2024 12:48:49 by Dmitrij Drandarov
-
-Module that provides short and consise utility functions for working with ffmpeg.
-
-__Downloads__: 0 | __Repository__: https://github.com/drandarov-io/Dmi3.PowerShell.FFTools
-
-## [Swift-Powershell-File-Icon](https://www.powershellgallery.com/Packages/Swift-Powershell-File-Icon/1.0.1) | 1.0.1
-
-### Published: 07/12/2024 11:03:20 by waingt
-
-A PowerShell module for adding colorful icons when displaying file and folder names, while avoiding long loading times! Suggest adding startup code in powershell profile
-
-__Downloads__: 0 | __Repository__: https://github.com/waingt/Swift-Powershell-File-Icon
-
-## [UblionConnect](https://www.powershellgallery.com/Packages/UblionConnect/1.0.195) | 1.0.195
-
-### Published: 07/12/2024 10:15:39 by Sascha Greven
-
-Upload and download documents to Ublion
-
-__Downloads__: 1,403 | __Repository__: 
-
-*Updated: Friday, 19 July 2024 09:51:37 UTC*
+*Updated: Friday, 19 July 2024 17:51:43 UTC*
