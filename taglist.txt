@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Friday, 19 July 2024 02:09:59 UTC
+Updated: Friday, 19 July 2024 09:51:45 UTC
 
 .bat
 .env
@@ -560,6 +560,7 @@ authentication
 authenticationcertificate
 authenticode
 authn
+author
 authoring
 authoringtools
 authorisation
@@ -592,7 +593,6 @@ automaticpacketreportingsystem
 automation
 automation psmodule
 automationanywhere
-automationutils
 autopatching
 autopilot
 autoscaling
@@ -633,6 +633,7 @@ aws-vault
 aws.tools.powershell
 awscli
 awspricelist
+axapta
 axinom
 axis
 axium
@@ -927,8 +928,6 @@ brainy
 branch
 branch-rename
 brave
-brawlapi
-brawlstars
 brazencloud
 bre
 breach
@@ -1047,6 +1046,7 @@ cat-names
 catalog
 catalogs
 catalyst
+catapult
 catesta
 catimage
 cats
@@ -1290,6 +1290,7 @@ cmdlet-testing
 cmdlets
 cmdstan
 cmgroupdiscovery
+cmhealth
 cmhealthcheck
 cminifile
 cmnetworkports
@@ -1308,7 +1309,6 @@ code365
 codeanalysis
 codebuild
 codecommit
-codecomplexity
 codecov
 codecoverage
 codegen
@@ -1316,6 +1316,7 @@ codegeneration
 codegenerator
 codellama
 codepoint
+codereview
 codes
 codesign
 codesigning
@@ -1353,6 +1354,7 @@ comical
 comics
 command
 command_line
+command-line-interface
 command-validation
 commandcoverage
 commandhistory
@@ -1362,6 +1364,7 @@ commands
 commandsandresource
 commence
 comment
+comments
 commerce
 commfort
 commit
@@ -1527,6 +1530,7 @@ copilot
 copy
 copy-item
 copypaste
+copyright
 core
 coreposh
 coreutils
@@ -1635,6 +1639,7 @@ csv
 csv2adx
 csvhelper
 ctf
+ctglobal
 ctl
 ctrl+c
 ctx
@@ -1904,7 +1909,6 @@ devdrive
 developer
 developer_command_prompt
 developercommandprompt
-developermode
 development
 devenv
 devexpress
@@ -2212,6 +2216,7 @@ dynamics365ce
 dynamics365fo
 dynamics365sales
 dynamics365server
+dynamicsax
 dynamicsecuritygroups
 dynamicsnav
 dynamodb
@@ -2522,7 +2527,6 @@ f
 f#
 f5
 fabric
-fabtools
 facebook
 factoryorchestrator
 factoryorchestratorclient
@@ -2650,6 +2654,7 @@ findfile
 findlocation
 findplace
 findproxyforurl
+fine-print
 fine-tuning
 finops
 firebird
@@ -2738,6 +2743,7 @@ foudil
 fox
 foxpro
 fqdn
+frame
 framework
 france
 free
@@ -2841,7 +2847,6 @@ generator
 generic
 genericartifactscontent
 genetic-algorithm
-genp
 genxdev
 geo
 geocache
@@ -2863,7 +2868,6 @@ get-credential
 get-criticaltrippoint
 get-currentcputemperature
 get-dellwarranty
-get-directorycontents
 get-dtcmdevicemodel
 get-dtdriverpack
 get-dtdriverupdates
@@ -3220,6 +3224,7 @@ hpeosprovisioncmdlets
 hpesmartarraycmdlets
 hpesynergy
 hponeview
+hpwritemanager
 hris
 hrprovisioning
 hsdp
@@ -3265,6 +3270,7 @@ hysolate
 hysolatemangementconsole
 i-doit
 i2c
+ia
 iaas
 iac
 iam
@@ -3409,6 +3415,7 @@ inputobject
 insert
 insiderthreat
 insight
+insightanalytics
 insights
 inspect
 inspiration
@@ -4062,6 +4069,7 @@ marketplaceprivateoffer
 marketplacepublisher
 marking
 marklogic
+marquee
 marvel
 marvell
 marvell_semiconductor_inc
@@ -4206,7 +4214,6 @@ microsoftdefenderforidentity
 microsoftdeploymenttoolkit
 microsoftendpointmanager
 microsoftexchangeserver
-microsoftfabric
 microsoftgraph
 microsoftgraphapi
 microsoftgraphrestapi
@@ -4419,6 +4426,7 @@ myjson
 myjson.com
 myob
 myposh
+mypstag
 mysql
 mysql-database
 mytest
@@ -4540,6 +4548,7 @@ nexenta
 nexentastor
 nexthink
 nexus
+nexusiq
 nfsv3
 ngen
 ngfw
@@ -4760,7 +4769,6 @@ opendata
 openedge
 openfiles
 openhere
-openholidaysapi
 openid
 openidconnect
 openinghours
@@ -4973,7 +4981,6 @@ paylocity
 paypal
 pays
 pbench
-pbip
 pc
 pcapng
 pci-dss
@@ -5303,6 +5310,7 @@ powershelluniversal
 powershellv5
 powerstig
 powerstore
+powertab
 powertoolcmdlets
 powertooldsc
 ppdm
@@ -8417,7 +8425,6 @@ public-transport
 publicapi
 publicclient
 publicfolder
-publicholidays
 publicip
 publish
 publish-module
@@ -8651,6 +8658,7 @@ region
 regions
 regiser-argumentcompleter
 register
+register-argumentcompleter
 registered
 registrar
 registration
@@ -8701,7 +8709,6 @@ remove-itemproperty
 remove-pass
 remove-path
 remove-pinneditem
-remove-tempfiles
 removefile
 removetypeaccelerators
 remux
@@ -8987,7 +8994,6 @@ schema
 schemaextensions
 scheme
 school-information-system
-schoolholidays
 schulung
 schulverwaltung
 science
@@ -9697,6 +9703,7 @@ subtitle
 subtitles
 subversion
 success
+successfactors
 sudo
 sugar
 sugarcrm
@@ -9706,7 +9713,6 @@ sullivan
 summary
 summit
 sumologic
-supercell
 superheros
 supermarket
 support
@@ -10298,6 +10304,7 @@ upgrade
 uplift
 uplink
 ups
+upsource
 upstream
 uptime
 uptimerobot
@@ -10859,6 +10866,7 @@ write-slog
 write-wansi
 writeaccess
 writelog
+writemanager
 writeprogress
 writer
 ws-federation
@@ -10927,6 +10935,7 @@ xor
 xpath
 xpendingreboot
 xpertdoc
+xpo
 xprotect
 xpt
 xrm

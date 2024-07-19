@@ -3,6 +3,43 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [fscps.tools](https://www.powershellgallery.com/Packages/fscps.tools/1.0.264) | 1.0.264
+
+### Published: 07/19/2024 06:53:14 by Oleksandr Nikolaiev
+
+fscps.tools
+
+__Downloads__: 4,177 | __Repository__: https://github.com/fscpscollaborative/fscps.tools
+
+## [NetworkProfile](https://www.powershellgallery.com/Packages/NetworkProfile/1.4.2) | 1.4.2
+
+### Published: 07/19/2024 06:34:10 by Courtney Bodett
+
+Manage Network Profile information stored in the registry
+
+__Downloads__: 0 | __Repository__: https://github.com/grey0ut/NetworkProfile
+
+## [tiPS](https://www.powershellgallery.com/Packages/tiPS/1.3.12) | 1.3.12
+
+### Published: 07/19/2024 05:52:01 by Daniel Schroeder
+
+PowerShell tips delivered straight to your terminal.
+
+__Downloads__: 4,060 | __Repository__: https://github.com/deadlydog/PowerShell.tiPS
+
+## [ps12exe](https://www.powershellgallery.com/Packages/ps12exe/0.3.51) | 0.3.51
+
+### Published: 07/19/2024 04:17:42 by steve02081504
+
+better pwsh code 2 exe repo:
+- Use `ps12exe a.ps1` to convert `a.ps1` into `a.exe`;
+- Use `ps12exeGUI` for a graphical interface that simplifies compilation;
+- Use `Set-ps12exeContextMenu` to add a context menu item for quick compilation or GUI access on `.ps1` files;
+- Use `Start-ps12exeWebServer` to launch a web server that allows users to compile scripts online;
+All commands in this module support the `-help` option for detailed assistance in your language.
+
+__Downloads__: 1,343 | __Repository__: https://github.com/steve02081504/ps12exe
+
 ## [powershai](https://www.powershellgallery.com/Packages/powershai/1.3.4) | 1.3.4
 
 ### Published: 07/19/2024 01:49:45 by Rodrigo Ribeiro Gomes
@@ -162,14 +199,6 @@ __Downloads__: 589 | __Repository__:
 Module for CyberArk v14.X Privileged Access Security Web Service REST API for Self Hosted, PrivilegeCloud Standard, and SharedServices (ISPSS) solutions as well as Identity API suite
 
 __Downloads__: 655 | __Repository__: https://github.com/vmelamed5/CyberArk/tree/VpasModule/VpasModule/14.2.1
-
-## [rhubarb-geek-nz.Joinery](https://www.powershellgallery.com/Packages/rhubarb-geek-nz.Joinery/1.0.4) | 1.0.4
-
-### Published: 07/18/2024 02:02:06 by Roger Brown
-
-Join Tools
-
-__Downloads__: 16 | __Repository__: https://github.com/rhubarb-geek-nz/Joinery
 
 ## [M365DSC.CompositeResources](https://www.powershellgallery.com/Packages/M365DSC.CompositeResources/1.24.717.100) | 1.24.717.100
 
@@ -397,14 +426,6 @@ __Downloads__: 8 | __Repository__:
 Manage (create, extend, import, export) Azure B2C xml IEF policy sets used for custom journeys. See https://github.com/mrochon/IEFPolicies
 
 __Downloads__: 10,043 | __Repository__: https://github.com/mrochon/IEFPolicies
-
-## [NetworkProfile](https://www.powershellgallery.com/Packages/NetworkProfile/1.4.1) | 1.4.1
-
-### Published: 07/17/2024 00:07:38 by Courtney Bodett
-
-Manage Network Profile information stored in the registry
-
-__Downloads__: 0 | __Repository__: https://github.com/grey0ut/NetworkProfile
 
 ## [AOVPNTools](https://www.powershellgallery.com/Packages/AOVPNTools/1.8.3) | 1.8.3
 
@@ -1655,19 +1676,6 @@ This module allows the creation of password expiry emails for users, managers, a
 
 __Downloads__: 7,537 | __Repository__: https://github.com/EvotecIT/PasswordSolution
 
-## [ps12exe](https://www.powershellgallery.com/Packages/ps12exe/0.3.50) | 0.3.50
-
-### Published: 07/16/2024 06:22:35 by steve02081504
-
-better pwsh code 2 exe repo:
-- Use `ps12exe a.ps1` to convert `a.ps1` into `a.exe`;
-- Use `ps12exeGUI` for a graphical interface that simplifies compilation;
-- Use `Set-ps12exeContextMenu` to add a context menu item for quick compilation or GUI access on `.ps1` files;
-- Use `Start-ps12exeWebServer` to launch a web server that allows users to compile scripts online;
-All commands in this module support the `-help` option for detailed assistance in your language.
-
-__Downloads__: 1,343 | __Repository__: https://github.com/steve02081504/ps12exe
-
 ## [PSAction1](https://www.powershellgallery.com/Packages/PSAction1/1.3.7) | 1.3.7
 
 ### Published: 07/16/2024 02:42:52 by Gene Moody
@@ -1866,14 +1874,6 @@ __Downloads__: 64,455 | __Repository__: https://mysupport.netapp.com/site/tools/
 PowerShell for Proxmox VE
 
 __Downloads__: 9,619 | __Repository__: https://github.com/Corsinvest/cv4pve-api-powershell
-
-## [fscps.tools](https://www.powershellgallery.com/Packages/fscps.tools/1.0.263) | 1.0.263
-
-### Published: 07/15/2024 11:43:00 by Oleksandr Nikolaiev
-
-fscps.tools
-
-__Downloads__: 4,177 | __Repository__: https://github.com/fscpscollaborative/fscps.tools
 
 ## [PowerShell.Wiz.Utility](https://www.powershellgallery.com/Packages/PowerShell.Wiz.Utility/0.1.2) | 0.1.2
 
@@ -2078,4 +2078,4 @@ Upload and download documents to Ublion
 
 __Downloads__: 1,403 | __Repository__: 
 
-*Updated: Friday, 19 July 2024 02:09:51 UTC*
+*Updated: Friday, 19 July 2024 09:51:37 UTC*
