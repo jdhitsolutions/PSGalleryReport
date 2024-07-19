@@ -3,6 +3,70 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [powershai](https://www.powershellgallery.com/Packages/powershai/1.3.4) | 1.3.4
+
+### Published: 07/19/2024 01:49:45 by Rodrigo Ribeiro Gomes
+
+Permite usar Inteligência Artificial direto do PowerShell
+
+__Downloads__: 61 | __Repository__: 
+
+## [PSAI](https://www.powershellgallery.com/Packages/PSAI/0.2.3) | 0.2.3
+
+### Published: 07/18/2024 21:20:50 by Douglas Finke
+
+PSAI brings OpenAI ChatGPT to PowerShell, leveraging advanced AI capabilities in your PowerShell scripts for dynamic, intelligent automation and data processing
+
+__Downloads__: 1,316 | __Repository__: https://github.com/dfinke/PSAI
+
+## [SpnLibrary](https://www.powershellgallery.com/Packages/SpnLibrary/1.0.0.0) | 1.0.0.0
+
+### Published: 07/18/2024 20:23:03 by Jeff Patton
+
+The SetSpnLibrary PowerShell module is designed to facilitate the management of Service Principal Names (SPNs) within an Active Directory (AD) environment
+
+__Downloads__: 0 | __Repository__: https://github.com/orgs/mod-posh/projects/5
+
+## [Winpack](https://www.powershellgallery.com/Packages/Winpack/0.2.6) | 0.2.6
+
+### Published: 07/18/2024 19:59:12 by yvesg
+
+Helpers functions for Winget
+
+__Downloads__: 291 | __Repository__: https://github.com/Yves848/winpack/tree/master
+
+## [UnitySetup](https://www.powershellgallery.com/Packages/UnitySetup/5.7.168) | 5.7.168
+
+### Published: 07/18/2024 19:57:12 by Josh Wittner
+
+Tools for managing and automating your Unity installs and projects.
+
+__Downloads__: 212,635 | __Repository__: https://github.com/Microsoft/unitysetup.powershell
+
+## [PlaywrightAutomation](https://www.powershellgallery.com/Packages/PlaywrightAutomation/0.2.1) | 0.2.1
+
+### Published: 07/18/2024 19:42:42 by Cameron S. Williamson
+
+A wrapper for the Microsoft.Playwright .NET library.
+
+__Downloads__: 0 | __Repository__: https://gitea.therealkeyis.me/tools/PlaywrightAutomation
+
+## [psCandy](https://www.powershellgallery.com/Packages/psCandy/0.2.6) | 0.2.6
+
+### Published: 07/18/2024 19:29:22 by Yves Godart
+
+This module provides classes for Eye-Candy in the console.
+
+__Downloads__: 0 | __Repository__: https://github.com/Yves848/psCandy/tree/master
+
+## [Posh-Postcodes.io](https://www.powershellgallery.com/Packages/Posh-Postcodes.io/0.1.1) | 0.1.1
+
+### Published: 07/18/2024 18:41:53 by Chris Bradshaw
+
+A PowerShell wrapper for the postcodes.io API used for working with UK postcode data
+
+__Downloads__: 0 | __Repository__: https://github.com/isjwuk/posh-postcodes.io/
+
 ## [MarsEnums](https://www.powershellgallery.com/Packages/MarsEnums/0.0.16) | 0.0.16
 
 ### Published: 07/18/2024 17:13:05 by Douglas Chen <dougpuob@gmail.com>
@@ -58,22 +122,6 @@ __Downloads__: 5,150 | __Repository__: https://github.com/PSModule/Admin
 Module to manage PowerShell modules in Azure Automation Runtime Enviroments.
 
 __Downloads__: 0 | __Repository__: https://github.com/mgajda83/PSRuntimeEnviromentModule
-
-## [psCandy](https://www.powershellgallery.com/Packages/psCandy/0.2.4) | 0.2.4
-
-### Published: 07/18/2024 13:29:50 by Yves Godart
-
-This module provides classes for Eye-Candy in the console.
-
-__Downloads__: 0 | __Repository__: https://github.com/Yves848/psCandy/tree/master
-
-## [Winpack](https://www.powershellgallery.com/Packages/Winpack/0.2.4) | 0.2.4
-
-### Published: 07/18/2024 13:10:44 by yvesg
-
-Helpers functions for Winget
-
-__Downloads__: 291 | __Repository__: https://github.com/Yves848/winpack/tree/master
 
 ## [UGDSB.PS](https://www.powershellgallery.com/Packages/UGDSB.PS/2.5.0) | 2.5.0
 
@@ -138,14 +186,6 @@ __Downloads__: 2,314 | __Repository__: https://github.com/ykuijs/M365DSC.Composi
 Bitwarden/Vaultwarden extension for the PowerShell SecretManager allowing you to Get, Set, and Remove secrets in a standardized way. Supports storing and retrieving PowerShell Objects as secrets. Can be used for automated secret retrieval/management.
 
 __Downloads__: 117 | __Repository__: https://github.com/BinaryWizard904/SecretManagement.Warden
-
-## [PlaywrightAutomation](https://www.powershellgallery.com/Packages/PlaywrightAutomation/0.0.0) | 0.0.0
-
-### Published: 07/17/2024 18:46:24 by Cameron S. Williamson
-
-A wrapper for the Microsoft.Playwright .NET library.
-
-__Downloads__: 0 | __Repository__: https://gitea.therealkeyis.me/tools/PlaywrightAutomation
 
 ## [Devolutions.PowerShell](https://www.powershellgallery.com/Packages/Devolutions.PowerShell/2024.2.2) | 2024.2.2
 
@@ -2038,44 +2078,4 @@ Upload and download documents to Ublion
 
 __Downloads__: 1,403 | __Repository__: 
 
-## [d365fo.integrations](https://www.powershellgallery.com/Packages/d365fo.integrations/0.4.39) | 0.4.39
-
-### Published: 07/12/2024 09:48:10 by Mötz Jensen & Rasmus Andersen
-
-Tools for working against the OData and DMF endpoint with the D365FO platform
-
-__Downloads__: 61,143 | __Repository__: https://github.com/d365collaborative/d365fo.integrations
-
-## [PSChatBot](https://www.powershellgallery.com/Packages/PSChatBot/1.0.0.2) | 1.0.0.2
-
-### Published: 07/12/2024 08:33:59 by Michal Gajda
-
-Send teams message as chatbot
-
-__Downloads__: 0 | __Repository__: 
-
-## [Compex.NewRelic](https://www.powershellgallery.com/Packages/Compex.NewRelic/2.2.0) | 2.2.0
-
-### Published: 07/12/2024 08:03:56 by Mark Studer and Shaun Titus
-
-Module for working with NewRelic
-
-__Downloads__: 2,314 | __Repository__: https://bitbucket.org/compexlegal/newrelic.ps/src/
-
-## [Particular.ServiceControl.Management](https://www.powershellgallery.com/Packages/Particular.ServiceControl.Management/5.4.1) | 5.4.1
-
-### Published: 07/12/2024 06:20:24 by Particular Software
-
-ServiceControl Management
-
-__Downloads__: 2,165 | __Repository__: https://github.com/Particular/ServiceControl
-
-## [PSJet](https://www.powershellgallery.com/Packages/PSJet/0.2.7) | 0.2.7
-
-### Published: 07/12/2024 04:30:52 by Yves-Laurent Creton
-
-A collection of PowerShell functions for administrative tasks.
-
-__Downloads__: 274 | __Repository__: https://github.com/yveslaurentcreton/PSJet
-
-*Updated: Thursday, 18 July 2024 17:51:46 UTC*
+*Updated: Friday, 19 July 2024 02:09:51 UTC*
