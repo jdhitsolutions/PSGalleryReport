@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Saturday, 20 July 2024 02:08:31 UTC
+Updated: Saturday, 20 July 2024 09:52:01 UTC
 
 .bat
 .env
@@ -228,7 +228,6 @@ adv190013
 adv220002
 advanced
 advapi32
-advice
 advisor
 adwords
 adx
@@ -631,7 +630,6 @@ aws_profile
 aws-codebuild
 aws-lambda
 aws-vault
-aws.tools.powershell
 awscli
 awspricelist
 axapta
@@ -830,6 +828,7 @@ bibtex
 bicep
 bicepnet
 big-ip
+big-iq
 bigcommerce
 bigeval
 bigfix
@@ -916,7 +915,6 @@ bootstrap
 bootstrapping
 bop
 bot
-bots
 botservice
 bouncer
 boundaries
@@ -1188,8 +1186,6 @@ cisa
 cisco
 ciscoucscmdlets
 ciscoucsdsc
-citation
-cite
 citrix
 citrixoptimizer
 civo
@@ -1504,7 +1500,6 @@ conversion
 conversiontool
 convert
 convert-dtexceptiontomessage
-convert-movietogif
 convert-sid
 convert-windowsimage
 converter
@@ -1912,6 +1907,7 @@ devdrive
 developer
 developer_command_prompt
 developercommandprompt
+developermode
 development
 devenv
 devexpress
@@ -2125,7 +2121,6 @@ dq
 dr
 draw
 drawio
-dreams
 dreamweaver
 dreary
 drift
@@ -2142,7 +2137,6 @@ drivertool.powercli
 driverupdates
 drm
 drone.io
-drop
 dropbox
 dropdatabase
 droplet
@@ -2179,6 +2173,7 @@ dtsx
 dtx
 du
 dual-stack
+duck
 duckdb
 duckduckgo
 ducktyping
@@ -2486,7 +2481,6 @@ expand-string
 expand-tab
 expandframework
 expect
-experience
 experiments
 expired
 expiring
@@ -2524,12 +2518,12 @@ extract
 extraction
 extractor
 extreme-networks
-eye-candy
 eztheme
 f
 f#
 f5
 fabric
+fabtools
 facebook
 factoryorchestrator
 factoryorchestratorclient
@@ -2720,7 +2714,6 @@ forensics
 forest
 forestdiscovery
 forgit
-forgiveness
 form
 format
 format-numberedlist
@@ -2850,12 +2843,10 @@ generator
 generic
 genericartifactscontent
 genetic-algorithm
-genp
 genxdev
 geo
 geocache
 geocaching
-geocode
 geoencode
 geoencoding
 geoip
@@ -3123,7 +3114,6 @@ healthz
 heartbeatdiscovery
 heat
 heating
-heavenbay
 helium
 helix
 hello
@@ -3166,6 +3156,7 @@ highrise
 hint
 hipaa
 hipb
+hipchat
 hiragana
 histogram
 history
@@ -3228,6 +3219,7 @@ hpeosprovisioncmdlets
 hpesmartarraycmdlets
 hpesynergy
 hponeview
+hpwritemanager
 hris
 hrprovisioning
 hsdp
@@ -3357,7 +3349,6 @@ imageslide
 imagevalidate
 imagevalidation
 imagga
-imagination
 imaging
 imap
 imb
@@ -3415,15 +3406,11 @@ innertext
 input
 inputbox
 inputobject
-insert
 insiderthreat
 insight
 insightanalytics
 insights
 inspect
-inspiration
-inspirationalquotes
-inspire
 inspur
 instagram
 install
@@ -3453,7 +3440,6 @@ integrationservicescatalog
 integrity
 intel
 inteligo
-intelligence
 intelligence"
 intellisearch
 intellisense
@@ -3521,6 +3507,7 @@ ipconfig
 iperf
 ipfy.org
 iphone
+ipilot
 iplookup
 ipmaths
 ipp
@@ -3657,7 +3644,6 @@ karabiner
 karabiner-elements
 karma
 kaseya
-kaseyavsa
 kaspersky
 katakana
 kb
@@ -3712,7 +3698,6 @@ kodi
 korn
 kotlin
 kql
-kraken
 krane
 krbtgt
 krick
@@ -3724,7 +3709,6 @@ kubectx
 kubens
 kubernetes
 kubernetesconfiguration
-kubespray
 kudu
 kurukuru
 kusto
@@ -3822,9 +3806,6 @@ licensemanager
 licensereport
 licenses
 licensing
-life
-lifequotes
-lifestyle
 light
 lights
 lime
@@ -3965,8 +3946,6 @@ lookup
 loop
 loopback
 loremipsum
-love
-lovequotes
 lpsiamol
 ls
 lsa
@@ -4149,7 +4128,6 @@ memcm
 memory
 memorydump
 memorystream
-mention
 menu
 menus
 meraki
@@ -4215,6 +4193,7 @@ microsoftdefenderforidentity
 microsoftdeploymenttoolkit
 microsoftendpointmanager
 microsoftexchangeserver
+microsoftfabric
 microsoftgraph
 microsoftgraphapi
 microsoftgraphrestapi
@@ -4314,8 +4293,6 @@ moonshot
 more
 mosaic
 motd
-motivation
-motivationalquotes
 mount
 mouse
 move
@@ -4638,6 +4615,7 @@ nunit
 nupkg
 nuspec
 nutanix
+nuwave
 nva
 nvd
 nvdimm
@@ -4782,7 +4760,6 @@ opensourceinitiative
 openssh
 openssl
 openstack
-openstreetmaps
 openvpn
 operating
 operating_system
@@ -4836,7 +4813,6 @@ osdprogress
 osdsus
 osdupdate
 osi
-osm
 osmanagement
 osmanagementhub
 osp
@@ -4933,7 +4909,6 @@ partition
 partitions
 partner
 partnercenter
-partnerportal
 pas
 pass
 pass-the-hash
@@ -4982,6 +4957,7 @@ paylocity
 paypal
 pays
 pbench
+pbip
 pc
 pcapng
 pci-dss
@@ -5109,8 +5085,6 @@ pnpm
 poc
 pode
 poe
-poem
-poetry
 point
 point-to-site
 pointer
@@ -5248,6 +5222,7 @@ powerbot
 powercli
 powercligoodies
 powercommander
+powerconfiguration
 powerdex
 powerforensics
 powergraph
@@ -5312,7 +5287,6 @@ powershelluniversal
 powershellv5
 powerstig
 powerstore
-powertab
 powertoolcmdlets
 powertooldsc
 ppdm
@@ -5422,7 +5396,6 @@ protection
 protocol
 protocols
 provance
-proverb
 provider
 providerhub
 provision
@@ -8522,9 +8495,7 @@ quiz
 qumulo
 quota
 quote
-quoteoftheday
 quotes
-quotestoliveby
 quoting
 quser
 qword
@@ -8570,8 +8541,6 @@ rbsu
 rcon
 rcs
 rcu
-rdb
-rdbms
 rdc
 rdcman
 rdcmanager
@@ -8641,7 +8610,6 @@ refactoring
 refeds
 refeds-mfa
 refedsmfa
-reference
 reflect
 reflection
 refresh
@@ -8661,7 +8629,6 @@ region
 regions
 regiser-argumentcompleter
 register
-register-argumentcompleter
 registered
 registrar
 registration
@@ -8671,7 +8638,6 @@ regular-expression
 regularexpression
 regularexpressions
 reinstall
-relational
 relay
 release
 releasedefinition
@@ -8882,6 +8848,7 @@ rsop
 rss
 rt
 rtu
+rubber
 rubrik
 rubriksecuritycloud
 ruby
@@ -9241,6 +9208,7 @@ shadowcopy
 shadowcopybackups
 shadowgroups
 shanghaitech
+shard
 share
 share-permission
 share-stat
@@ -9276,7 +9244,6 @@ show
 show-command
 show-objecttree
 show-on-command
-showdemo
 showoncommand
 shred
 shuf
@@ -9307,8 +9274,6 @@ single
 singlestore
 singleton
 sinks
-sintez
-sintez.module.rds
 sit
 site
 site_navigation
@@ -9705,7 +9670,6 @@ subsystem
 subtitle
 subtitles
 subversion
-success
 successfactors
 sudo
 sugar
@@ -9945,7 +9909,6 @@ text-to-image
 text-to-speach"
 text-to-speech
 text2image
-textanalysis
 textbuffer
 texting
 texting-emoji
@@ -10058,7 +10021,6 @@ tracert
 tracing
 tracker
 tracking
-trading
 traffic
 trafficfiltering
 trafficmanager
@@ -10121,7 +10083,6 @@ trustedhosts
 trustedinstaller
 trustedrootcertificate
 trustedsigning
-truth
 trx
 ts
 tsa
@@ -10213,6 +10174,7 @@ ud-scrollspy
 ud-selectdatetime
 ud-selector
 ud-signature
+ud-simpledrawer
 ud-singleselect
 ud-slider
 ud-speechbubble
@@ -10392,7 +10354,6 @@ vaultwarden
 vb365
 vba
 vbaproject
-vbproj
 vbr
 vbscript
 vbsinst
@@ -10868,6 +10829,7 @@ write-slog
 write-wansi
 writeaccess
 writelog
+writemanager
 writeprogress
 writer
 ws-federation
@@ -10977,7 +10939,6 @@ zigbee
 zip
 zip-compression
 zipfile-transform
-zisson
 zoho
 zoicware
 zone
