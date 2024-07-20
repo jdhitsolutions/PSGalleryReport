@@ -1802,9 +1802,9 @@ A simple module that helps you with all the dirty details while trying to authen
 
 __Downloads__: 369,305 | __Repository__: https://github.com/d365collaborative/PSOAuthHelper
 
-## [Sampler](https://www.powershellgallery.com/Packages/Sampler/0.117.0) | 0.117.0
+## [Sampler](https://www.powershellgallery.com/Packages/Sampler/0.118.1) | 0.118.1
 
-### Published: 09/29/2023 18:38:01 by Gael Colas
+### Published: 07/20/2024 08:01:00 by Gael Colas
 
 Sample Module with Pipeline scripts and its Plaster template to create a module following some of the community accepted practices.
 
@@ -2189,4 +2189,4 @@ Helper module for Active Directory with lots of useful functions that simplify s
 
 __Downloads__: 247,788 | __Repository__: https://github.com/EvotecIT/ADEssentials
 
-*Updated: Saturday, 20 July 2024 02:08:28 UTC*
+*Updated: Saturday, 20 July 2024 09:51:58 UTC*

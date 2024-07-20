@@ -3,6 +3,22 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [Sampler](https://www.powershellgallery.com/Packages/Sampler/0.118.1) | 0.118.1
+
+### Published: 07/20/2024 08:01:00 by Gael Colas
+
+Sample Module with Pipeline scripts and its Plaster template to create a module following some of the community accepted practices.
+
+__Downloads__: 363,465 | __Repository__: https://github.com/gaelcolas/Sampler
+
+## [AzDevOps](https://www.powershellgallery.com/Packages/AzDevOps/3.0.0) | 3.0.0
+
+### Published: 07/20/2024 04:20:36 by jeffrey@patton-tech.com
+
+A PowerShell Module for working with and managing Azure Devops
+
+__Downloads__: 1,945 | __Repository__: https://github.com/Azure-Devops-PowerShell-Module
+
 ## [PSModulePublisher](https://www.powershellgallery.com/Packages/PSModulePublisher/0.10.0) | 0.10.0
 
 ### Published: 07/19/2024 23:13:07 by The Oh Brothers
@@ -175,14 +191,6 @@ __Downloads__: 212,635 | __Repository__: https://github.com/Microsoft/unitysetup
 A wrapper for the Microsoft.Playwright .NET library.
 
 __Downloads__: 0 | __Repository__: https://gitea.therealkeyis.me/tools/PlaywrightAutomation
-
-## [psCandy](https://www.powershellgallery.com/Packages/psCandy/0.2.6) | 0.2.6
-
-### Published: 07/18/2024 19:29:22 by Yves Godart
-
-This module provides classes for Eye-Candy in the console.
-
-__Downloads__: 0 | __Repository__: https://github.com/Yves848/psCandy/tree/master
 
 ## [Posh-Postcodes.io](https://www.powershellgallery.com/Packages/Posh-Postcodes.io/0.1.1) | 0.1.1
 
@@ -2068,12 +2076,4 @@ PdfLexer is a powershell pdf manipulation library for Powershell 7+.
 
 __Downloads__: 1,069 | __Repository__: https://github.com/pdflexer/pdflexer
 
-## [RSCReporting](https://www.powershellgallery.com/Packages/RSCReporting/1.0.3) | 1.0.3
-
-### Published: 07/12/2024 16:40:43 by Joshua Stenhouse
-
-A module for reporting on your Rubrik Security Cloud instance
-
-__Downloads__: 15 | __Repository__: https://github.com/joshuastenhouse/rscreporting
-
-*Updated: Saturday, 20 July 2024 02:08:22 UTC*
+*Updated: Saturday, 20 July 2024 09:51:53 UTC*
