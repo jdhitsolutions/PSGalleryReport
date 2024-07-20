@@ -3,6 +3,67 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [Admin](https://www.powershellgallery.com/Packages/Admin/1.0.15) | 1.0.15
+
+### Published: 07/20/2024 16:47:07 by PSModule
+
+A PowerShell module working with the admin role.
+
+__Downloads__: 5,150 | __Repository__: https://github.com/PSModule/Admin
+
+## [ps12exe](https://www.powershellgallery.com/Packages/ps12exe/0.4.0) | 0.4.0
+
+### Published: 07/20/2024 15:42:11 by steve02081504
+
+better pwsh code 2 exe repo:
+- Use `ps12exe a.ps1` to convert `a.ps1` into `a.exe`;
+- Use `ps12exeGUI` for a graphical interface that simplifies compilation;
+- Use `Set-ps12exeContextMenu` to add a context menu item for quick compilation or GUI access on `.ps1` files;
+- Use `Start-ps12exeWebServer` to launch a web server that allows users to compile scripts online;
+All commands in this module support the `-help` option for detailed assistance in your language.
+
+__Downloads__: 1,343 | __Repository__: https://github.com/steve02081504/ps12exe
+
+## [tatux.intune.packaging](https://www.powershellgallery.com/Packages/tatux.intune.packaging/0.9.0.96) | 0.9.0.96
+
+### Published: 07/20/2024 12:53:13 by Nigel Tatschner
+
+A set of functions designed to package and deploy Application packages to Microsoft Intune.
+
+__Downloads__: 311 | __Repository__: 
+
+## [DscResource.Common](https://www.powershellgallery.com/Packages/DscResource.Common/0.17.2) | 0.17.2
+
+### Published: 07/20/2024 11:23:17 by DSC Community
+
+Common functions used in DSC Resources
+
+__Downloads__: 24,061 | __Repository__: https://github.com/dsccommunity/DscResource.Common
+
+## [PSWindowsUpdate](https://www.powershellgallery.com/Packages/PSWindowsUpdate/2.2.1.5) | 2.2.1.5
+
+### Published: 07/20/2024 10:51:44 by Michal Gajda
+
+This module contain cmdlets to manage Windows Update Client.
+
+__Downloads__: 688,509,038 | __Repository__: https://github.com/mgajda83/PSWindowsUpdate
+
+## [psCandy](https://www.powershellgallery.com/Packages/psCandy/0.3.0) | 0.3.0
+
+### Published: 07/20/2024 10:38:27 by Yves Godart
+
+This module provides classes for Eye-Candy in the console.
+
+__Downloads__: 0 | __Repository__: https://github.com/Yves848/psCandy/tree/master
+
+## [PSCompletions](https://www.powershellgallery.com/Packages/PSCompletions/4.0.9) | 4.0.9
+
+### Published: 07/20/2024 10:03:06 by abgox
+
+A completion manager for better and simpler use powershell completions. For more information, please visit the project: https://github.com/abgox/PSCompletions | https://gitee.com/abgox/PSCompletions
+
+__Downloads__: 4,501 | __Repository__: https://github.com/abgox/PSCompletions
+
 ## [Sampler](https://www.powershellgallery.com/Packages/Sampler/0.118.1) | 0.118.1
 
 ### Published: 07/20/2024 08:01:00 by Gael Colas
@@ -50,27 +111,6 @@ __Downloads__: 49 | __Repository__: https://github.com/voytas75/PSAOAI
 This module provides cmdlets to help in daily work, find cost savings, and report on Azure Policy compliance
 
 __Downloads__: 3,118 | __Repository__: 
-
-## [ps12exe](https://www.powershellgallery.com/Packages/ps12exe/0.3.52) | 0.3.52
-
-### Published: 07/19/2024 19:08:24 by steve02081504
-
-better pwsh code 2 exe repo:
-- Use `ps12exe a.ps1` to convert `a.ps1` into `a.exe`;
-- Use `ps12exeGUI` for a graphical interface that simplifies compilation;
-- Use `Set-ps12exeContextMenu` to add a context menu item for quick compilation or GUI access on `.ps1` files;
-- Use `Start-ps12exeWebServer` to launch a web server that allows users to compile scripts online;
-All commands in this module support the `-help` option for detailed assistance in your language.
-
-__Downloads__: 1,343 | __Repository__: https://github.com/steve02081504/ps12exe
-
-## [SATLogger](https://www.powershellgallery.com/Packages/SATLogger/0.0.2) | 0.0.2
-
-### Published: 07/19/2024 18:15:58 by Ryan Bakonis
-
-Logger
-
-__Downloads__: 0 | __Repository__: 
 
 ## [rhubarb-geek-nz.Joinery](https://www.powershellgallery.com/Packages/rhubarb-geek-nz.Joinery/1.0.5) | 1.0.5
 
@@ -231,14 +271,6 @@ __Downloads__: 1,422 | __Repository__:
 Zero Install is a decentralized cross-platform software-installation system.
 
 __Downloads__: 4,820,604 | __Repository__: https://0install.net/
-
-## [Admin](https://www.powershellgallery.com/Packages/Admin/1.0.14) | 1.0.14
-
-### Published: 07/18/2024 14:49:06 by PSModule
-
-A PowerShell module working with the admin role.
-
-__Downloads__: 5,150 | __Repository__: https://github.com/PSModule/Admin
 
 ## [PSFramework](https://www.powershellgallery.com/Packages/PSFramework/1.11.343) | 1.11.343
 
@@ -2043,37 +2075,4 @@ PSDuckDB is a PowerShell module that provides seamless integration with DuckDB, 
 
 __Downloads__: 12 | __Repository__: https://github.com/dfinke/PSDuckDB
 
-## [Mold](https://www.powershellgallery.com/Packages/Mold/0.0.5) | 0.0.5
-
-### Published: 07/12/2024 20:32:57 by Manjunath Beli
-
-Mold is a fast and powerful templating and cloning engine for PowerShell (and beyond!)
-
-__Downloads__: 14 | __Repository__: https://github.com/belibug/Mold
-
-## [Abbr](https://www.powershellgallery.com/Packages/Abbr/0.1.1) | 0.1.1
-
-### Published: 07/12/2024 20:18:48 by wes
-
-Expanding abbreviations like fish shell
-
-__Downloads__: 0 | __Repository__: https://github.com/g0t4/pwsh-abbr
-
-## [MyPSFunctions](https://www.powershellgallery.com/Packages/MyPSFunctions/1.0.9.2) | 1.0.9.2
-
-### Published: 07/12/2024 20:04:45 by John@MyPSFunctions.com
-
-This Module has been created to provide a repository of my Daily Functions. - This module is provided as is without any support. Please be aware you are using this module as your own risks without any responsabilities from us.
-
-__Downloads__: 316 | __Repository__: 
-
-## [PdfLexer](https://www.powershellgallery.com/Packages/PdfLexer/0.1.24) | 0.1.24
-
-### Published: 07/12/2024 18:24:51 by PdfLexer Authors
-
-PdfLexer is a powershell pdf manipulation library for Powershell 7+.
- https://github.com/pdflexer/pdflexer
-
-__Downloads__: 1,069 | __Repository__: https://github.com/pdflexer/pdflexer
-
-*Updated: Saturday, 20 July 2024 09:51:53 UTC*
+*Updated: Saturday, 20 July 2024 17:51:42 UTC*

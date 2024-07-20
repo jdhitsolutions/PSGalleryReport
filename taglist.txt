@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Saturday, 20 July 2024 09:52:01 UTC
+Updated: Saturday, 20 July 2024 17:51:50 UTC
 
 .bat
 .env
@@ -228,6 +228,7 @@ adv190013
 adv220002
 advanced
 advapi32
+advice
 advisor
 adwords
 adx
@@ -630,6 +631,7 @@ aws_profile
 aws-codebuild
 aws-lambda
 aws-vault
+aws.tools.powershell
 awscli
 awspricelist
 axapta
@@ -797,7 +799,6 @@ bb
 bbc
 bbp
 bc
-bc365
 bcd
 bcdedit
 bcdr
@@ -1186,6 +1187,8 @@ cisa
 cisco
 ciscoucscmdlets
 ciscoucsdsc
+citation
+cite
 citrix
 citrixoptimizer
 civo
@@ -1248,7 +1251,6 @@ cloud-iq
 cloudant
 cloudbees
 cloudberry
-cloudblue
 cloudbolt
 cloudbridge
 cloudendure
@@ -1307,7 +1309,6 @@ code365
 codeanalysis
 codebuild
 codecommit
-codecomplexity
 codecov
 codecoverage
 codegen
@@ -1315,6 +1316,7 @@ codegeneration
 codegenerator
 codellama
 codepoint
+codereview
 codes
 codesign
 codesigning
@@ -1500,6 +1502,7 @@ conversion
 conversiontool
 convert
 convert-dtexceptiontomessage
+convert-movietogif
 convert-sid
 convert-windowsimage
 converter
@@ -1647,7 +1650,6 @@ culture
 cumulative
 cumulativeupdate
 cumulocity
-curious
 curl
 curlie
 currency
@@ -1753,7 +1755,6 @@ dataexplorer
 datafactory
 dataflow
 dataflowdependency
-dataframe
 datagateway
 dataintegration
 datakwaliteit
@@ -2121,6 +2122,7 @@ dq
 dr
 draw
 drawio
+dreams
 dreamweaver
 dreary
 drift
@@ -2137,6 +2139,7 @@ drivertool.powercli
 driverupdates
 drm
 drone.io
+drop
 dropbox
 dropdatabase
 droplet
@@ -2481,6 +2484,7 @@ expand-string
 expand-tab
 expandframework
 expect
+experience
 experiments
 expired
 expiring
@@ -2518,6 +2522,7 @@ extract
 extraction
 extractor
 extreme-networks
+eye-candy
 eztheme
 f
 f#
@@ -2714,6 +2719,7 @@ forensics
 forest
 forestdiscovery
 forgit
+forgiveness
 form
 format
 format-numberedlist
@@ -2843,10 +2849,12 @@ generator
 generic
 genericartifactscontent
 genetic-algorithm
+genp
 genxdev
 geo
 geocache
 geocaching
+geocode
 geoencode
 geoencoding
 geoip
@@ -3047,7 +3055,6 @@ hack
 hacking
 hacktoberfest
 hadoop
-hafr
 hailstone
 haipa
 halo
@@ -3349,6 +3356,7 @@ imageslide
 imagevalidate
 imagevalidation
 imagga
+imagination
 imaging
 imap
 imb
@@ -3406,11 +3414,15 @@ innertext
 input
 inputbox
 inputobject
+insert
 insiderthreat
 insight
 insightanalytics
 insights
 inspect
+inspiration
+inspirationalquotes
+inspire
 inspur
 instagram
 install
@@ -3440,6 +3452,7 @@ integrationservicescatalog
 integrity
 intel
 inteligo
+intelligence
 intelligence"
 intellisearch
 intellisense
@@ -3709,6 +3722,7 @@ kubectx
 kubens
 kubernetes
 kubernetesconfiguration
+kubespray
 kudu
 kurukuru
 kusto
@@ -3806,6 +3820,9 @@ licensemanager
 licensereport
 licenses
 licensing
+life
+lifequotes
+lifestyle
 light
 lights
 lime
@@ -3875,6 +3892,7 @@ lock
 lockbox
 lockdisplaytimeout
 lockdown
+lockfile
 locking
 lockoutreport
 lockscreen
@@ -3946,6 +3964,8 @@ lookup
 loop
 loopback
 loremipsum
+love
+lovequotes
 lpsiamol
 ls
 lsa
@@ -4128,6 +4148,7 @@ memcm
 memory
 memorydump
 memorystream
+mention
 menu
 menus
 meraki
@@ -4293,6 +4314,8 @@ moonshot
 more
 mosaic
 motd
+motivation
+motivationalquotes
 mount
 mouse
 move
@@ -4662,7 +4685,6 @@ oda
 odata
 odbc
 odfb
-odin
 odoo
 oem-charset
 offboarding
@@ -4760,6 +4782,7 @@ opensourceinitiative
 openssh
 openssl
 openstack
+openstreetmaps
 openvpn
 operating
 operating_system
@@ -4813,6 +4836,7 @@ osdprogress
 osdsus
 osdupdate
 osi
+osm
 osmanagement
 osmanagementhub
 osp
@@ -4909,6 +4933,7 @@ partition
 partitions
 partner
 partnercenter
+partnerportal
 pas
 pass
 pass-the-hash
@@ -5085,6 +5110,8 @@ pnpm
 poc
 pode
 poe
+poem
+poetry
 point
 point-to-site
 pointer
@@ -5287,6 +5314,7 @@ powershelluniversal
 powershellv5
 powerstig
 powerstore
+powertab
 powertoolcmdlets
 powertooldsc
 ppdm
@@ -5396,6 +5424,7 @@ protection
 protocol
 protocols
 provance
+proverb
 provider
 providerhub
 provision
@@ -7226,6 +7255,7 @@ pscommand_zwp
 pscommander
 psconfasia
 psconfeu
+psconfig
 pscore
 pscredential
 pscribo
@@ -8495,7 +8525,9 @@ quiz
 qumulo
 quota
 quote
+quoteoftheday
 quotes
+quotestoliveby
 quoting
 quser
 qword
@@ -8541,6 +8573,8 @@ rbsu
 rcon
 rcs
 rcu
+rdb
+rdbms
 rdc
 rdcman
 rdcmanager
@@ -8610,6 +8644,7 @@ refactoring
 refeds
 refeds-mfa
 refedsmfa
+reference
 reflect
 reflection
 refresh
@@ -8629,6 +8664,7 @@ region
 regions
 regiser-argumentcompleter
 register
+register-argumentcompleter
 registered
 registrar
 registration
@@ -8638,6 +8674,7 @@ regular-expression
 regularexpression
 regularexpressions
 reinstall
+relational
 relay
 release
 releasedefinition
@@ -8994,7 +9031,6 @@ screensaver
 screenscraping
 screenshot
 script
-script_version
 script-module
 script-to-assembly
 script-to-executable
@@ -9216,7 +9252,9 @@ shared
 sharefile
 sharepoint
 sharepoint_online
+sharepoint-on-prem
 sharepoint-online
+sharepoint-product-configuration-wizard
 sharepoint2013
 sharepointdevelopmentcommunity
 sharepointonline
@@ -9244,6 +9282,7 @@ show
 show-command
 show-objecttree
 show-on-command
+showdemo
 showoncommand
 shred
 shuf
@@ -9308,7 +9347,6 @@ skytap
 slack
 slash
 slashcommands
-slmgr
 sln
 slugify
 sm
@@ -9670,6 +9708,7 @@ subsystem
 subtitle
 subtitles
 subversion
+success
 successfactors
 sudo
 sugar
@@ -10083,6 +10122,7 @@ trustedhosts
 trustedinstaller
 trustedrootcertificate
 trustedsigning
+truth
 trx
 ts
 tsa
@@ -10092,7 +10132,6 @@ tsqlbestpractice
 tst
 tst1
 tst3
-tsv
 ttrpg
 tts
 tubedownloader
@@ -10174,7 +10213,6 @@ ud-scrollspy
 ud-selectdatetime
 ud-selector
 ud-signature
-ud-simpledrawer
 ud-singleselect
 ud-slider
 ud-speechbubble
@@ -10269,6 +10307,7 @@ upgrade
 uplift
 uplink
 ups
+upsource
 upstream
 uptime
 uptimerobot
@@ -10354,6 +10393,7 @@ vaultwarden
 vb365
 vba
 vbaproject
+vbproj
 vbr
 vbscript
 vbsinst
@@ -10939,6 +10979,7 @@ zigbee
 zip
 zip-compression
 zipfile-transform
+zisson
 zoho
 zoicware
 zone
