@@ -3,6 +3,59 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [PSModulePublisher](https://www.powershellgallery.com/Packages/PSModulePublisher/0.10.0) | 0.10.0
+
+### Published: 07/19/2024 23:13:07 by The Oh Brothers
+
+A project containing the necessary tools to ease publishing of PowerShell modules.
+
+__Downloads__: 7 | __Repository__: https://github.com/theohbrothers/PSModulePublisher
+
+## [Compex.ServerManagement](https://www.powershellgallery.com/Packages/Compex.ServerManagement/0.1.0) | 0.1.0
+
+### Published: 07/19/2024 21:19:54 by mark.studer
+
+Module for managing servers.
+
+__Downloads__: 0 | __Repository__: 
+
+## [PSAOAI](https://www.powershellgallery.com/Packages/PSAOAI/0.4.1) | 0.4.1
+
+### Published: 07/19/2024 20:51:38 by Wojciech Napierala (voytas75)
+
+The PowerShell AZURE OpenAI (PSAOAI) module is a powerful tool designed to interact with Azure OpenAI Services.
+
+__Downloads__: 49 | __Repository__: https://github.com/voytas75/PSAOAI
+
+## [AzureHelper](https://www.powershellgallery.com/Packages/AzureHelper/1.0.69) | 1.0.69
+
+### Published: 07/19/2024 20:06:55 by Paul Harrison
+
+This module provides cmdlets to help in daily work, find cost savings, and report on Azure Policy compliance
+
+__Downloads__: 3,118 | __Repository__: 
+
+## [ps12exe](https://www.powershellgallery.com/Packages/ps12exe/0.3.52) | 0.3.52
+
+### Published: 07/19/2024 19:08:24 by steve02081504
+
+better pwsh code 2 exe repo:
+- Use `ps12exe a.ps1` to convert `a.ps1` into `a.exe`;
+- Use `ps12exeGUI` for a graphical interface that simplifies compilation;
+- Use `Set-ps12exeContextMenu` to add a context menu item for quick compilation or GUI access on `.ps1` files;
+- Use `Start-ps12exeWebServer` to launch a web server that allows users to compile scripts online;
+All commands in this module support the `-help` option for detailed assistance in your language.
+
+__Downloads__: 1,343 | __Repository__: https://github.com/steve02081504/ps12exe
+
+## [SATLogger](https://www.powershellgallery.com/Packages/SATLogger/0.0.2) | 0.0.2
+
+### Published: 07/19/2024 18:15:58 by Ryan Bakonis
+
+Logger
+
+__Downloads__: 0 | __Repository__: 
+
 ## [rhubarb-geek-nz.Joinery](https://www.powershellgallery.com/Packages/rhubarb-geek-nz.Joinery/1.0.5) | 1.0.5
 
 ### Published: 07/19/2024 16:24:10 by Roger Brown
@@ -74,19 +127,6 @@ __Downloads__: 0 | __Repository__: https://github.com/grey0ut/NetworkProfile
 PowerShell tips delivered straight to your terminal.
 
 __Downloads__: 4,060 | __Repository__: https://github.com/deadlydog/PowerShell.tiPS
-
-## [ps12exe](https://www.powershellgallery.com/Packages/ps12exe/0.3.51) | 0.3.51
-
-### Published: 07/19/2024 04:17:42 by steve02081504
-
-better pwsh code 2 exe repo:
-- Use `ps12exe a.ps1` to convert `a.ps1` into `a.exe`;
-- Use `ps12exeGUI` for a graphical interface that simplifies compilation;
-- Use `Set-ps12exeContextMenu` to add a context menu item for quick compilation or GUI access on `.ps1` files;
-- Use `Start-ps12exeWebServer` to launch a web server that allows users to compile scripts online;
-All commands in this module support the `-help` option for detailed assistance in your language.
-
-__Downloads__: 1,343 | __Repository__: https://github.com/steve02081504/ps12exe
 
 ## [powershai](https://www.powershellgallery.com/Packages/powershai/1.3.4) | 1.3.4
 
@@ -175,14 +215,6 @@ __Downloads__: 0 | __Repository__:
 PowerShell module for Nectar DXP
 
 __Downloads__: 1,422 | __Repository__: 
-
-## [SATLogger](https://www.powershellgallery.com/Packages/SATLogger/0.0.1) | 0.0.1
-
-### Published: 07/18/2024 15:52:02 by Ryan Bakonis
-
-Logger
-
-__Downloads__: 0 | __Repository__: 
 
 ## [0install](https://www.powershellgallery.com/Packages/0install/2.25.9) | 2.25.9
 
@@ -2044,38 +2076,4 @@ A module for reporting on your Rubrik Security Cloud instance
 
 __Downloads__: 15 | __Repository__: https://github.com/joshuastenhouse/rscreporting
 
-## [verkadaModule](https://www.powershellgallery.com/Packages/verkadaModule/0.7.4) | 0.7.4
-
-### Published: 07/12/2024 16:35:09 by Verkada SE Community
-
-This is a community project that provides an easier way to interact with Verkada Command's various endpoints in a programatic way for ad-hoc tasks.
-
-__Downloads__: 411 | __Repository__: https://github.com/bepsoccer/verkadaModule
-
-## [Tecman.Tfs.Tools](https://www.powershellgallery.com/Packages/Tecman.Tfs.Tools/1.2.5.0) | 1.2.5.0
-
-### Published: 07/12/2024 16:26:02 by Clever Dynamics
-
-Functions to support Microsoft Dynamics 365 Business Central / Dynamics NAV development and integration with the Azure DevOps REST API
-
-__Downloads__: 3,890 | __Repository__: 
-
-## [suterdev.tools](https://www.powershellgallery.com/Packages/suterdev.tools/1.0.2) | 1.0.2
-
-### Published: 07/12/2024 13:39:28 by suterdev
-
-Misc tools, cmdlets and scripts.
-    
-    PS> Set-ESXiSyslogServer -vCenterServer "vcenter.example.com" -SyslogServer "udp://syslogserver.example.com:1514" -EnableSyslogFirewall
-
-__Downloads__: 0 | __Repository__: 
-
-## [ServiceNow](https://www.powershellgallery.com/Packages/ServiceNow/4.0.4) | 4.0.4
-
-### Published: 07/12/2024 13:15:34 by Greg Brownstein Rick Arroues Sam Martin
-
-Automate against ServiceNow service and asset management.  This module can be used standalone, with Azure Automation, or Docker.
-
-__Downloads__: 307,639 | __Repository__: https://github.com/Snow-Shell/servicenow-powershell
-
-*Updated: Friday, 19 July 2024 17:51:43 UTC*
+*Updated: Saturday, 20 July 2024 02:08:22 UTC*
