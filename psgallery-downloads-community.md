@@ -3,9 +3,9 @@
 
 These are the most popular 250 modules based on total download count for modules published to the [PowerShell Gallery](https://powershellgallery.org). The report filters out corporate authored modules from Microsoft, Amazon, Dell, Oracle, HP, and VMware. DSC modules are also excluded. The intent is to highlight contributions from individual members of the PowerShell community. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
-## [PSWindowsUpdate](https://www.powershellgallery.com/Packages/PSWindowsUpdate/2.2.1.4) | 2.2.1.4
+## [PSWindowsUpdate](https://www.powershellgallery.com/Packages/PSWindowsUpdate/2.2.1.5) | 2.2.1.5
 
-### Published: 12/13/2023 11:15:22 by Michal Gajda
+### Published: 07/20/2024 10:51:44 by Michal Gajda
 
 This module contain cmdlets to manage Windows Update Client.
 
@@ -2189,4 +2189,4 @@ Helper module for Active Directory with lots of useful functions that simplify s
 
 __Downloads__: 247,788 | __Repository__: https://github.com/EvotecIT/ADEssentials
 
-*Updated: Saturday, 20 July 2024 09:51:58 UTC*
+*Updated: Saturday, 20 July 2024 17:51:47 UTC*
