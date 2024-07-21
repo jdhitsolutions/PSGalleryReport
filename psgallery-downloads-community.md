@@ -466,9 +466,9 @@ View and modify the Global Assembly Cache (GAC)
 
 __Downloads__: 4,522,585 | __Repository__: https://github.com/LTruijens/powershell-gac
 
-## [dbatools](https://www.powershellgallery.com/Packages/dbatools/2.1.20) | 2.1.20
+## [dbatools](https://www.powershellgallery.com/Packages/dbatools/2.1.21) | 2.1.21
 
-### Published: 07/16/2024 20:46:53 by the dbatools team
+### Published: 07/21/2024 17:35:55 by the dbatools team
 
 The community module that enables SQL Server Pros to automate database development and server administration
 
@@ -1610,9 +1610,9 @@ This module contains a set of cmdlets that talk to the Octopus REST API to perfo
 
 __Downloads__: 476,980 | __Repository__: https://github.com/Dalmirog/OctoPosh
 
-## [PSEventViewer](https://www.powershellgallery.com/Packages/PSEventViewer/1.0.22) | 1.0.22
+## [PSEventViewer](https://www.powershellgallery.com/Packages/PSEventViewer/2.0.0) | 2.0.0
 
-### Published: 05/26/2022 08:27:48 by Przemyslaw Klys
+### Published: 07/21/2024 16:43:11 by Przemyslaw Klys
 
 Simple module allowing parsing of event logs. Has its own quirks...
 
@@ -2189,4 +2189,4 @@ Helper module for Active Directory with lots of useful functions that simplify s
 
 __Downloads__: 247,788 | __Repository__: https://github.com/EvotecIT/ADEssentials
 
-*Updated: Sunday, 21 July 2024 09:51:47 UTC*
+*Updated: Sunday, 21 July 2024 17:51:57 UTC*
