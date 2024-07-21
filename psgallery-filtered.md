@@ -3,6 +3,86 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [Prelude](https://www.powershellgallery.com/Packages/Prelude/0.2.20) | 0.2.20
+
+### Published: 07/21/2024 00:32:41 by Jason Wohlgemuth
+
+A "standard" library for PowerShell inspired by the preludes of other languages
+
+__Downloads__: 6,198 | __Repository__: https://github.com/jhwohlgemuth/pwsh-prelude
+
+## [PSAOAI](https://www.powershellgallery.com/Packages/PSAOAI/0.4.2) | 0.4.2
+
+### Published: 07/20/2024 23:26:53 by Wojciech Napierala (voytas75)
+
+The PowerShell AZURE OpenAI (PSAOAI) module is a powerful tool designed to interact with Azure OpenAI Services.
+
+__Downloads__: 49 | __Repository__: https://github.com/voytas75/PSAOAI
+
+## [NerdFonts](https://www.powershellgallery.com/Packages/NerdFonts/1.0.10) | 1.0.10
+
+### Published: 07/20/2024 23:15:42 by PSModule
+
+A PowerShell module to download and install fonts from NerdFonts.
+
+__Downloads__: 4,078 | __Repository__: https://github.com/PSModule/NerdFonts
+
+## [IPv4](https://www.powershellgallery.com/Packages/IPv4/0.0.3) | 0.0.3
+
+### Published: 07/20/2024 22:47:04 by PSModule
+
+A PowerShell module for managing IPv4 data
+
+__Downloads__: 11 | __Repository__: https://github.com/PSModule/IPv4
+
+## [GraphQL](https://www.powershellgallery.com/Packages/GraphQL/0.0.2) | 0.0.2
+
+### Published: 07/20/2024 22:10:21 by PSModule
+
+A PowerShell module to simplify working with a GraphQL APIs.
+
+__Downloads__: 2 | __Repository__: https://github.com/PSModule/GraphQL
+
+## [GoogleFonts](https://www.powershellgallery.com/Packages/GoogleFonts/0.0.6) | 0.0.6
+
+### Published: 07/20/2024 21:37:54 by PSModule
+
+A PowerShell module to download and install fonts from GoogleFonts.
+
+__Downloads__: 33 | __Repository__: https://github.com/PSModule/GoogleFonts
+
+## [GitHub](https://www.powershellgallery.com/Packages/GitHub/0.3.110) | 0.3.110
+
+### Published: 07/20/2024 21:26:21 by PSModule
+
+A PowerShell module to interact with the GitHub API.
+
+__Downloads__: 7,788 | __Repository__: https://github.com/PSModule/GitHub
+
+## [Fonts](https://www.powershellgallery.com/Packages/Fonts/1.1.7) | 1.1.7
+
+### Published: 07/20/2024 20:03:34 by PSModule
+
+A PowerShell module for managing fonts.
+
+__Downloads__: 5,051 | __Repository__: https://github.com/PSModule/Fonts
+
+## [DynamicParams](https://www.powershellgallery.com/Packages/DynamicParams/1.1.3) | 1.1.3
+
+### Published: 07/20/2024 19:53:20 by PSModule
+
+A PowerShell module that makes it easier to use dynamic params.
+
+__Downloads__: 8,583 | __Repository__: https://github.com/PSModule/DynamicParams
+
+## [AST](https://www.powershellgallery.com/Packages/AST/0.0.4) | 0.0.4
+
+### Published: 07/20/2024 19:31:47 by PSModule
+
+A PowerShell module for using the Abstract Syntax Tree (AST) to analyze any PowerShell code.
+
+__Downloads__: 14 | __Repository__: https://github.com/PSModule/AST
+
 ## [Admin](https://www.powershellgallery.com/Packages/Admin/1.0.15) | 1.0.15
 
 ### Published: 07/20/2024 16:47:07 by PSModule
@@ -96,14 +176,6 @@ Module for managing servers.
 
 __Downloads__: 0 | __Repository__: 
 
-## [PSAOAI](https://www.powershellgallery.com/Packages/PSAOAI/0.4.1) | 0.4.1
-
-### Published: 07/19/2024 20:51:38 by Wojciech Napierala (voytas75)
-
-The PowerShell AZURE OpenAI (PSAOAI) module is a powerful tool designed to interact with Azure OpenAI Services.
-
-__Downloads__: 49 | __Repository__: https://github.com/voytas75/PSAOAI
-
 ## [AzureHelper](https://www.powershellgallery.com/Packages/AzureHelper/1.0.69) | 1.0.69
 
 ### Published: 07/19/2024 20:06:55 by Paul Harrison
@@ -111,6 +183,14 @@ __Downloads__: 49 | __Repository__: https://github.com/voytas75/PSAOAI
 This module provides cmdlets to help in daily work, find cost savings, and report on Azure Policy compliance
 
 __Downloads__: 3,118 | __Repository__: 
+
+## [SATLogger](https://www.powershellgallery.com/Packages/SATLogger/0.0.2) | 0.0.2
+
+### Published: 07/19/2024 18:15:58 by Ryan Bakonis
+
+Logger
+
+__Downloads__: 0 | __Repository__: 
 
 ## [rhubarb-geek-nz.Joinery](https://www.powershellgallery.com/Packages/rhubarb-geek-nz.Joinery/1.0.5) | 1.0.5
 
@@ -1995,84 +2075,4 @@ Powershell cmdlet for retrieving DMARC Records for one or multiple domains via f
 
 __Downloads__: 28 | __Repository__: https://github.com/Cyber-Jacob/Get-DMARCRecord
 
-## [FarNet.Stateless](https://www.powershellgallery.com/Packages/FarNet.Stateless/0.1.0) | 0.1.0
-
-### Published: 07/15/2024 03:23:16 by Roman Kuzmin
-
-Stateless library interactive helpers.
-
-__Downloads__: 3 | __Repository__: https://github.com/nightroman/FarNet.Stateless
-
-## [PSTcpIp](https://www.powershellgallery.com/Packages/PSTcpIp/5.12.2) | 5.12.2
-
-### Published: 07/14/2024 18:46:04 by Anthony Guimelli
-
-Provides cmdlets to perform various TCPIP and TLS/SSL related tasks.
-
-__Downloads__: 5,745 | __Repository__: https://github.com/anthonyg-1/PSTcpIp
-
-## [PoshCommence](https://www.powershellgallery.com/Packages/PoshCommence/0.6.14) | 0.6.14
-
-### Published: 07/14/2024 17:57:43 by Arno van Boven
-
-Powershell cmdlets for Commence RM Designer Edition.
-
-__Downloads__: 349 | __Repository__: https://github.com/arnovb-github/PoshCommence
-
-## [cdim](https://www.powershellgallery.com/Packages/cdim/1.0.0) | 1.0.0
-
-### Published: 07/14/2024 11:05:36 by Serge Weinstock
-
-An improved version of cd with bookmarks and navigation history
-
-__Downloads__: 0 | __Repository__: https://github.com/sweinst/cdim/tree/main
-
-## [OpenDriverTool](https://www.powershellgallery.com/Packages/OpenDriverTool/0.5.1) | 0.5.1
-
-### Published: 07/14/2024 02:52:43 by w0
-
-Automate the creation of driver and bios packages in configmgr.
-
-__Downloads__: 1,636 | __Repository__: https://github.com/w0/OpenDriverTool
-
-## [pocof](https://www.powershellgallery.com/Packages/pocof/0.14.1) | 0.14.1
-
-### Published: 07/14/2024 00:49:13 by Takatoshi Kuriyama
-
-An interactive pipeline filtering Cmdlet for PowerShell written in F#. A fork of poco which is a PowerShell port of peco.
-
-__Downloads__: 272 | __Repository__: https://github.com/krymtkts/pocof/
-
-## [PSScriptTools](https://www.powershellgallery.com/Packages/PSScriptTools/2.50.0) | 2.50.0
-
-### Published: 07/13/2024 14:35:46 by Jeff Hicks
-
-A collection of PowerShell functions designed to enhance your own functions and scripts or to facilitate working in the console. Most of the commands should work in Windows PowerShell and PowerShell 7, even cross-platform. Any operating system limitations should be handled on a per-command basis.
-
-__Downloads__: 185,677 | __Repository__: https://github.com/jdhitsolutions/PSScriptTools
-
-## [PSPublishModule](https://www.powershellgallery.com/Packages/PSPublishModule/2.0.13) | 2.0.13
-
-### Published: 07/13/2024 07:15:21 by Przemyslaw Klys
-
-Simple project allowing preparing, managing, building and publishing modules to PowerShellGallery
-
-__Downloads__: 2,067 | __Repository__: https://github.com/EvotecIT/PSPublishModule
-
-## [SortJson](https://www.powershellgallery.com/Packages/SortJson/1.0.5) | 1.0.5
-
-### Published: 07/12/2024 23:09:03 by PowershellCrack
-
-Sorts json objects in alphabetical order
-
-__Downloads__: 44 | __Repository__: https://github.com/PowerShellCrack/PSSortJsonModule
-
-## [PSDuckDB](https://www.powershellgallery.com/Packages/PSDuckDB/0.1.4) | 0.1.4
-
-### Published: 07/12/2024 20:59:36 by Douglas Finke
-
-PSDuckDB is a PowerShell module that provides seamless integration with DuckDB, enabling efficient execution of analytical SQL queries directly from the PowerShell environment.
-
-__Downloads__: 12 | __Repository__: https://github.com/dfinke/PSDuckDB
-
-*Updated: Saturday, 20 July 2024 17:51:42 UTC*
+*Updated: Sunday, 21 July 2024 02:11:41 UTC*

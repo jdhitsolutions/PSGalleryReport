@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Saturday, 20 July 2024 17:51:50 UTC
+Updated: Sunday, 21 July 2024 02:11:49 UTC
 
 .bat
 .env
@@ -458,8 +458,6 @@ archivial
 archivial-backup
 archivial-cloud-backup
 archlinux
-archon
-archonagent
 arcresourcebridge
 arcus
 area
@@ -615,7 +613,6 @@ avatar
 avd
 ave
 avepoint
-avi
 avm
 avmtools
 avro
@@ -799,6 +796,7 @@ bb
 bbc
 bbp
 bc
+bc365
 bcd
 bcdedit
 bcdr
@@ -916,6 +914,7 @@ bootstrap
 bootstrapping
 bop
 bot
+bots
 botservice
 bouncer
 boundaries
@@ -1251,6 +1250,7 @@ cloud-iq
 cloudant
 cloudbees
 cloudberry
+cloudblue
 cloudbolt
 cloudbridge
 cloudendure
@@ -1309,6 +1309,7 @@ code365
 codeanalysis
 codebuild
 codecommit
+codecomplexity
 codecov
 codecoverage
 codegen
@@ -1412,7 +1413,6 @@ conda
 condition
 conditionalaccess
 conduit
-conference
 confidentialclient
 confidentialledger
 config
@@ -1507,8 +1507,6 @@ convert-sid
 convert-windowsimage
 converter
 convertfrom
-convertfrom-json
-convertfrom-jsontohashtable
 convertfrom-string
 convertfrom-stringtable
 convertfrom-table
@@ -1650,6 +1648,7 @@ culture
 cumulative
 cumulativeupdate
 cumulocity
+curious
 curl
 curlie
 currency
@@ -1755,6 +1754,7 @@ dataexplorer
 datafactory
 dataflow
 dataflowdependency
+dataframe
 datagateway
 dataintegration
 datakwaliteit
@@ -2139,7 +2139,6 @@ drivertool.powercli
 driverupdates
 drm
 drone.io
-drop
 dropbox
 dropdatabase
 droplet
@@ -2176,7 +2175,6 @@ dtsx
 dtx
 du
 dual-stack
-duck
 duckdb
 duckduckgo
 ducktyping
@@ -2849,7 +2847,6 @@ generator
 generic
 genericartifactscontent
 genetic-algorithm
-genp
 genxdev
 geo
 geocache
@@ -3055,6 +3052,7 @@ hack
 hacking
 hacktoberfest
 hadoop
+hafr
 hailstone
 haipa
 halo
@@ -3121,6 +3119,7 @@ healthz
 heartbeatdiscovery
 heat
 heating
+heavenbay
 helium
 helix
 hello
@@ -3414,7 +3413,6 @@ innertext
 input
 inputbox
 inputobject
-insert
 insiderthreat
 insight
 insightanalytics
@@ -3657,6 +3655,7 @@ karabiner
 karabiner-elements
 karma
 kaseya
+kaseyavsa
 kaspersky
 katakana
 kb
@@ -3711,6 +3710,7 @@ kodi
 korn
 kotlin
 kql
+kraken
 krane
 krbtgt
 krick
@@ -4259,7 +4259,6 @@ mittelschule
 mixedreality
 mixer
 mkdocs
-mkpasswd
 mksapiviewer
 ml
 ml.net
@@ -4685,6 +4684,7 @@ oda
 odata
 odbc
 odfb
+odin
 odoo
 oem-charset
 offboarding
@@ -4943,7 +4943,6 @@ passivetotal
 passkey
 passphrase
 passphraser passphrase password generator entropy
-passwd
 password
 password_generation
 password-generator
@@ -5249,7 +5248,6 @@ powerbot
 powercli
 powercligoodies
 powercommander
-powerconfiguration
 powerdex
 powerforensics
 powergraph
@@ -5340,7 +5338,6 @@ prepareschema
 prepend
 preprocessing
 preprocessor
-presentation
 presenter
 presto
 preston-k-parsard
@@ -7278,8 +7275,6 @@ psdshook
 pse
 psedition_5
 psedition_5.1
-psedition_7.3
-psedition_7.4
 psedition_core
 psedition_desk
 psedition_desktop
@@ -8573,8 +8568,6 @@ rbsu
 rcon
 rcs
 rcu
-rdb
-rdbms
 rdc
 rdcman
 rdcmanager
@@ -8674,7 +8667,6 @@ regular-expression
 regularexpression
 regularexpressions
 reinstall
-relational
 relay
 release
 releasedefinition
@@ -8885,7 +8877,6 @@ rsop
 rss
 rt
 rtu
-rubber
 rubrik
 rubriksecuritycloud
 ruby
@@ -9031,6 +9022,7 @@ screensaver
 screenscraping
 screenshot
 script
+script_version
 script-module
 script-to-assembly
 script-to-executable
@@ -9162,7 +9154,6 @@ seppmail
 seppmail.cloud
 seq
 sequence
-serial
 serialization
 serialize
 sericemanagement
@@ -9232,13 +9223,7 @@ sftp
 sfx
 sgopher
 sgw
-sha-256
-sha-512
-sha-crypt
 sha256
-sha256crypt
-sha512crypt
-shacrypt
 shadow
 shadowcopy
 shadowcopybackups
@@ -9313,6 +9298,8 @@ single
 singlestore
 singleton
 sinks
+sintez
+sintez.module.rds
 sit
 site
 site_navigation
@@ -9347,6 +9334,7 @@ skytap
 slack
 slash
 slashcommands
+slmgr
 sln
 slugify
 sm
@@ -9458,7 +9446,6 @@ spacex
 spam
 spanner
 spark
-sparkline
 sparklines
 spawn
 spdockit
@@ -9467,7 +9454,6 @@ spdx-license-identifier:ms-pl
 spe
 speach
 speak
-speaker
 spec
 specification
 specify
@@ -10060,6 +10046,7 @@ tracert
 tracing
 tracker
 tracking
+trading
 traffic
 trafficfiltering
 trafficmanager
@@ -10132,6 +10119,7 @@ tsqlbestpractice
 tst
 tst1
 tst3
+tsv
 ttrpg
 tts
 tubedownloader
@@ -10185,7 +10173,6 @@ ud-button
 ud-buttonloader
 ud-buttonparticle
 ud-calendar
-ud-circle
 ud-component
 ud-confetti
 ud-control
@@ -10987,8 +10974,6 @@ zookeeper
 zoom
 zoomapi
 zoommeeting
-zorus
-zorusapi
 zoxide
 zsh
 zuora
