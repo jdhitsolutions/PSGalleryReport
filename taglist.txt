@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Sunday, 21 July 2024 02:11:49 UTC
+Updated: Sunday, 21 July 2024 09:51:49 UTC
 
 .bat
 .env
@@ -228,7 +228,6 @@ adv190013
 adv220002
 advanced
 advapi32
-advice
 advisor
 adwords
 adx
@@ -458,6 +457,8 @@ archivial
 archivial-backup
 archivial-cloud-backup
 archlinux
+archon
+archonagent
 arcresourcebridge
 arcus
 area
@@ -613,8 +614,7 @@ avatar
 avd
 ave
 avepoint
-avm
-avmtools
+avi
 avro
 avs
 avset
@@ -827,7 +827,6 @@ bibtex
 bicep
 bicepnet
 big-ip
-big-iq
 bigcommerce
 bigeval
 bigfix
@@ -1186,8 +1185,6 @@ cisa
 cisco
 ciscoucscmdlets
 ciscoucsdsc
-citation
-cite
 citrix
 citrixoptimizer
 civo
@@ -1507,6 +1504,8 @@ convert-sid
 convert-windowsimage
 converter
 convertfrom
+convertfrom-json
+convertfrom-jsontohashtable
 convertfrom-string
 convertfrom-stringtable
 convertfrom-table
@@ -2088,7 +2087,6 @@ domainkey
 domainname
 domainnamesystem
 domains
-domino
 done.land
 donothing
 dos
@@ -2122,7 +2120,6 @@ dq
 dr
 draw
 drawio
-dreams
 dreamweaver
 dreary
 drift
@@ -2139,6 +2136,7 @@ drivertool.powercli
 driverupdates
 drm
 drone.io
+drop
 dropbox
 dropdatabase
 droplet
@@ -2175,6 +2173,7 @@ dtsx
 dtx
 du
 dual-stack
+duck
 duckdb
 duckduckgo
 ducktyping
@@ -2334,7 +2333,6 @@ entity
 entityframework
 entra
 entraid
-entraidgovernance
 entropy
 enum
 enumerable
@@ -2482,7 +2480,6 @@ expand-string
 expand-tab
 expandframework
 expect
-experience
 experiments
 expired
 expiring
@@ -2686,7 +2683,6 @@ fleet
 fleetsoftwareupdate
 flex
 flex-query
-flexdesk
 flickr
 flowchart
 flowy
@@ -2717,7 +2713,6 @@ forensics
 forest
 forestdiscovery
 forgit
-forgiveness
 form
 format
 format-numberedlist
@@ -2758,8 +2753,6 @@ freshservice-api
 freshserviceps
 freshworks
 friendly
-fritz
-fritzbox
 front
 frontapp
 frontdoor
@@ -2847,6 +2840,7 @@ generator
 generic
 genericartifactscontent
 genetic-algorithm
+genp
 genxdev
 geo
 geocache
@@ -3227,7 +3221,6 @@ hpesynergy
 hponeview
 hpwritemanager
 hris
-hrprovisioning
 hsdp
 hsl
 html
@@ -3355,7 +3348,6 @@ imageslide
 imagevalidate
 imagevalidation
 imagga
-imagination
 imaging
 imap
 imb
@@ -3413,15 +3405,12 @@ innertext
 input
 inputbox
 inputobject
+insert
 insiderthreat
 insight
 insightanalytics
 insights
 inspect
-inspiration
-inspirationalquotes
-inspire
-inspur
 instagram
 install
 install-module
@@ -3437,7 +3426,6 @@ installwindows
 instance
 instant
 instapush
-instorage
 int
 intacct
 integrated
@@ -3450,7 +3438,6 @@ integrationservicescatalog
 integrity
 intel
 inteligo
-intelligence
 intelligence"
 intellisearch
 intellisense
@@ -3820,9 +3807,6 @@ licensemanager
 licensereport
 licenses
 licensing
-life
-lifequotes
-lifestyle
 light
 lights
 lime
@@ -3964,8 +3948,6 @@ lookup
 loop
 loopback
 loremipsum
-love
-lovequotes
 lpsiamol
 ls
 lsa
@@ -4148,7 +4130,6 @@ memcm
 memory
 memorydump
 memorystream
-mention
 menu
 menus
 meraki
@@ -4259,6 +4240,7 @@ mittelschule
 mixedreality
 mixer
 mkdocs
+mkpasswd
 mksapiviewer
 ml
 ml.net
@@ -4313,8 +4295,6 @@ moonshot
 more
 mosaic
 motd
-motivation
-motivationalquotes
 mount
 mouse
 move
@@ -4503,7 +4483,6 @@ network adapter configuration operating os optical sensor physical pointing port
 network-credentials
 network-info
 networkanalytics
-networkcategory
 networkcloud
 networkcontroller
 networkdiscovery
@@ -4515,7 +4494,6 @@ networking
 networkinterfaces
 networkloadbalancer
 networkpolicyserver
-networkprofile
 networkscan
 networksecurity
 networksecuritygroup
@@ -4943,6 +4921,7 @@ passivetotal
 passkey
 passphrase
 passphraser passphrase password generator entropy
+passwd
 password
 password_generation
 password-generator
@@ -5109,8 +5088,6 @@ pnpm
 poc
 pode
 poe
-poem
-poetry
 point
 point-to-site
 pointer
@@ -5181,7 +5158,6 @@ poshy-lucidity
 poshy-multimedia
 poshy-net
 poshy-notify-send
-poshy-sh-isms
 poshy-sshconfig
 poshy-viewer-finder
 poshy-wrap
@@ -5248,6 +5224,7 @@ powerbot
 powercli
 powercligoodies
 powercommander
+powerconfiguration
 powerdex
 powerforensics
 powergraph
@@ -5262,7 +5239,6 @@ powerprotect_datamanager
 powersaving
 powerscheme
 powershell
-powershell_universal
 powershell-7
 powershell-class
 powershell-cmdlets
@@ -5421,7 +5397,6 @@ protection
 protocol
 protocols
 provance
-proverb
 provider
 providerhub
 provision
@@ -7065,14 +7040,10 @@ pscommand_syspip3_package_location
 pscommand_ta
 pscommand_tad
 pscommand_test-command
-pscommand_test-d
 pscommand_test-elevation
-pscommand_test-f
 pscommand_test-linkcapability
-pscommand_test-o
 pscommand_test-reparsepoint
 pscommand_test-sessioninteractivity
-pscommand_test-x
 pscommand_tf
 pscommand_tfa
 pscommand_tfc
@@ -7275,6 +7246,8 @@ psdshook
 pse
 psedition_5
 psedition_5.1
+psedition_7.3
+psedition_7.4
 psedition_core
 psedition_desk
 psedition_desktop
@@ -8269,14 +8242,10 @@ psfunction_switch-gitbranchandtrack
 psfunction_switch-gitbranchmain
 psfunction_switch-gitbranchnew
 psfunction_test-command
-psfunction_test-d
 psfunction_test-elevation
-psfunction_test-f
 psfunction_test-linkcapability
-psfunction_test-o
 psfunction_test-reparsepoint
 psfunction_test-sessioninteractivity
-psfunction_test-x
 psfunction_universalarchive
 psfunction_update-gitbranchbasefrombranchmain
 psfunction_update-gitbranchbasefrommain
@@ -8520,9 +8489,7 @@ quiz
 qumulo
 quota
 quote
-quoteoftheday
 quotes
-quotestoliveby
 quoting
 quser
 qword
@@ -8568,6 +8535,8 @@ rbsu
 rcon
 rcs
 rcu
+rdb
+rdbms
 rdc
 rdcman
 rdcmanager
@@ -8637,7 +8606,6 @@ refactoring
 refeds
 refeds-mfa
 refedsmfa
-reference
 reflect
 reflection
 refresh
@@ -8667,6 +8635,7 @@ regular-expression
 regularexpression
 regularexpressions
 reinstall
+relational
 relay
 release
 releasedefinition
@@ -8877,6 +8846,7 @@ rsop
 rss
 rt
 rtu
+rubber
 rubrik
 rubriksecuritycloud
 ruby
@@ -9154,6 +9124,7 @@ seppmail
 seppmail.cloud
 seq
 sequence
+serial
 serialization
 serialize
 sericemanagement
@@ -9223,7 +9194,13 @@ sftp
 sfx
 sgopher
 sgw
+sha-256
+sha-512
+sha-crypt
 sha256
+sha256crypt
+sha512crypt
+shacrypt
 shadow
 shadowcopy
 shadowcopybackups
@@ -9267,7 +9244,6 @@ show
 show-command
 show-objecttree
 show-on-command
-showdemo
 showoncommand
 shred
 shuf
@@ -9446,6 +9422,7 @@ spacex
 spam
 spanner
 spark
+sparkline
 sparklines
 spawn
 spdockit
@@ -9694,7 +9671,6 @@ subsystem
 subtitle
 subtitles
 subversion
-success
 successfactors
 sudo
 sugar
@@ -10037,8 +10013,6 @@ toughswitch
 tower
 tphubps
 tpm
-tr-064
-tr064
 trace
 traceevent
 tracer
@@ -10109,7 +10083,6 @@ trustedhosts
 trustedinstaller
 trustedrootcertificate
 trustedsigning
-truth
 trx
 ts
 tsa
@@ -10200,6 +10173,7 @@ ud-scrollspy
 ud-selectdatetime
 ud-selector
 ud-signature
+ud-simpledrawer
 ud-singleselect
 ud-slider
 ud-speechbubble
@@ -10974,6 +10948,8 @@ zookeeper
 zoom
 zoomapi
 zoommeeting
+zorus
+zorusapi
 zoxide
 zsh
 zuora

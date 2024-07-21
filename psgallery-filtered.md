@@ -3,6 +3,22 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [psCandy](https://www.powershellgallery.com/Packages/psCandy/0.3.1) | 0.3.1
+
+### Published: 07/21/2024 09:48:11 by Yves Godart
+
+This module provides classes for Eye-Candy in the console.
+
+__Downloads__: 0 | __Repository__: https://github.com/Yves848/psCandy/tree/master
+
+## [OpenAI](https://www.powershellgallery.com/Packages/OpenAI/0.0.2) | 0.0.2
+
+### Published: 07/21/2024 09:39:00 by PSModule
+
+A PowerShell module for interacting with OpenAI
+
+__Downloads__: 13 | __Repository__: https://github.com/PSModule/OpenAI
+
 ## [Prelude](https://www.powershellgallery.com/Packages/Prelude/0.2.20) | 0.2.20
 
 ### Published: 07/21/2024 00:32:41 by Jason Wohlgemuth
@@ -192,14 +208,6 @@ Logger
 
 __Downloads__: 0 | __Repository__: 
 
-## [rhubarb-geek-nz.Joinery](https://www.powershellgallery.com/Packages/rhubarb-geek-nz.Joinery/1.0.5) | 1.0.5
-
-### Published: 07/19/2024 16:24:10 by Roger Brown
-
-Join Tools
-
-__Downloads__: 16 | __Repository__: https://github.com/rhubarb-geek-nz/Joinery
-
 ## [IOInfoExtensions.PowerShell](https://www.powershellgallery.com/Packages/IOInfoExtensions.PowerShell/0.1.0) | 0.1.0
 
 ### Published: 07/19/2024 15:52:26 by Andrew Strickland
@@ -248,14 +256,6 @@ fscps.tools
 
 __Downloads__: 4,177 | __Repository__: https://github.com/fscpscollaborative/fscps.tools
 
-## [NetworkProfile](https://www.powershellgallery.com/Packages/NetworkProfile/1.4.2) | 1.4.2
-
-### Published: 07/19/2024 06:34:10 by Courtney Bodett
-
-Manage Network Profile information stored in the registry
-
-__Downloads__: 0 | __Repository__: https://github.com/grey0ut/NetworkProfile
-
 ## [tiPS](https://www.powershellgallery.com/Packages/tiPS/1.3.12) | 1.3.12
 
 ### Published: 07/19/2024 05:52:01 by Daniel Schroeder
@@ -303,14 +303,6 @@ __Downloads__: 291 | __Repository__: https://github.com/Yves848/winpack/tree/mas
 Tools for managing and automating your Unity installs and projects.
 
 __Downloads__: 212,635 | __Repository__: https://github.com/Microsoft/unitysetup.powershell
-
-## [PlaywrightAutomation](https://www.powershellgallery.com/Packages/PlaywrightAutomation/0.2.1) | 0.2.1
-
-### Published: 07/18/2024 19:42:42 by Cameron S. Williamson
-
-A wrapper for the Microsoft.Playwright .NET library.
-
-__Downloads__: 0 | __Repository__: https://gitea.therealkeyis.me/tools/PlaywrightAutomation
 
 ## [Posh-Postcodes.io](https://www.powershellgallery.com/Packages/Posh-Postcodes.io/0.1.1) | 0.1.1
 
@@ -2075,4 +2067,12 @@ Powershell cmdlet for retrieving DMARC Records for one or multiple domains via f
 
 __Downloads__: 28 | __Repository__: https://github.com/Cyber-Jacob/Get-DMARCRecord
 
-*Updated: Sunday, 21 July 2024 02:11:41 UTC*
+## [FarNet.Stateless](https://www.powershellgallery.com/Packages/FarNet.Stateless/0.1.0) | 0.1.0
+
+### Published: 07/15/2024 03:23:16 by Roman Kuzmin
+
+Stateless library interactive helpers.
+
+__Downloads__: 3 | __Repository__: https://github.com/nightroman/FarNet.Stateless
+
+*Updated: Sunday, 21 July 2024 09:51:41 UTC*

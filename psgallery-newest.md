@@ -3,6 +3,22 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [psCandy](https://www.powershellgallery.com/Packages/psCandy/0.3.1) | 0.3.1
+
+### Published: 07/21/2024 09:48:11 by Yves Godart
+
+This module provides classes for Eye-Candy in the console.
+
+__Downloads__: 0 | __Repository__: https://github.com/Yves848/psCandy/tree/master
+
+## [OpenAI](https://www.powershellgallery.com/Packages/OpenAI/0.0.2) | 0.0.2
+
+### Published: 07/21/2024 09:39:00 by PSModule
+
+A PowerShell module for interacting with OpenAI
+
+__Downloads__: 13 | __Repository__: https://github.com/PSModule/OpenAI
+
 ## [Prelude](https://www.powershellgallery.com/Packages/Prelude/0.2.20) | 0.2.20
 
 ### Published: 07/21/2024 00:32:41 by Jason Wohlgemuth
@@ -192,14 +208,6 @@ Logger
 
 __Downloads__: 0 | __Repository__: 
 
-## [rhubarb-geek-nz.Joinery](https://www.powershellgallery.com/Packages/rhubarb-geek-nz.Joinery/1.0.5) | 1.0.5
-
-### Published: 07/19/2024 16:24:10 by Roger Brown
-
-Join Tools
-
-__Downloads__: 16 | __Repository__: https://github.com/rhubarb-geek-nz/Joinery
-
 ## [IOInfoExtensions.PowerShell](https://www.powershellgallery.com/Packages/IOInfoExtensions.PowerShell/0.1.0) | 0.1.0
 
 ### Published: 07/19/2024 15:52:26 by Andrew Strickland
@@ -247,14 +255,6 @@ __Downloads__: 0 | __Repository__: https://github.com/mgajda83/PSRuntimeEnvirome
 fscps.tools
 
 __Downloads__: 4,177 | __Repository__: https://github.com/fscpscollaborative/fscps.tools
-
-## [NetworkProfile](https://www.powershellgallery.com/Packages/NetworkProfile/1.4.2) | 1.4.2
-
-### Published: 07/19/2024 06:34:10 by Courtney Bodett
-
-Manage Network Profile information stored in the registry
-
-__Downloads__: 0 | __Repository__: https://github.com/grey0ut/NetworkProfile
 
 ## [tiPS](https://www.powershellgallery.com/Packages/tiPS/1.3.12) | 1.3.12
 
@@ -2442,4 +2442,4 @@ This version of AWS Tools for PowerShell is compatible with Windows PowerShell 5
 
 __Downloads__: 22,563 | __Repository__: https://github.com/aws/aws-tools-for-powershell
 
-*Updated: Sunday, 21 July 2024 02:11:39 UTC*
+*Updated: Sunday, 21 July 2024 09:51:40 UTC*
