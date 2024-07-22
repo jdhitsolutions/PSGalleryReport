@@ -3,6 +3,54 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [tatux.core](https://www.powershellgallery.com/Packages/tatux.core/0.0.31) | 0.0.31
+
+### Published: 07/22/2024 09:14:02 by Nigel Tatschner
+
+Core functions required for my suite of modules.
+
+__Downloads__: 158 | __Repository__: https://github.com/ntatschner/tatux.core
+
+## [PS.Selenium](https://www.powershellgallery.com/Packages/PS.Selenium/1.11) | 1.11
+
+### Published: 07/22/2024 08:58:42 by Nutstone
+
+Wraps Selenium
+
+__Downloads__: 8 | __Repository__: 
+
+## [PsComplete](https://www.powershellgallery.com/Packages/PsComplete/0.0.27) | 0.0.27
+
+### Published: 07/22/2024 07:45:37 by ieviev
+
+Cross-platform custom powershell autocomplete / tab expansion
+
+__Downloads__: 3,454 | __Repository__: https://github.com/ieviev/pscomplete/
+
+## [MyPublishingDebugger](https://www.powershellgallery.com/Packages/MyPublishingDebugger/0.0.99) | 0.0.99
+
+### Published: 07/22/2024 06:33:44 by Joel Timothy Oh
+
+A PowerShell module for debugging publishing of modules.
+
+__Downloads__: 2,837 | __Repository__: https://github.com/joeltimothyoh/MyPublishingDebugger
+
+## [PSModulePublisher](https://www.powershellgallery.com/Packages/PSModulePublisher/0.10.1) | 0.10.1
+
+### Published: 07/22/2024 06:25:41 by The Oh Brothers
+
+A project containing the necessary tools to ease publishing of PowerShell modules.
+
+__Downloads__: 7 | __Repository__: https://github.com/theohbrothers/PSModulePublisher
+
+## [AutomateNOW](https://www.powershellgallery.com/Packages/AutomateNOW/1.0.23) | 1.0.23
+
+### Published: 07/22/2024 03:30:56 by AutomateNOW-Fan
+
+Interact with the API of an AutomateNOW! instance
+
+__Downloads__: 165 | __Repository__: https://github.com/AutomateNOW-Fan/AutomateNOW
+
 ## [SentinelARConverter](https://www.powershellgallery.com/Packages/SentinelARConverter/2.4.0) | 2.4.0
 
 ### Published: 07/21/2024 21:17:43 by Fabian Bader
@@ -345,14 +393,6 @@ A PowerShell Module for working with and managing Azure Devops
 
 __Downloads__: 1,945 | __Repository__: https://github.com/Azure-Devops-PowerShell-Module
 
-## [PSModulePublisher](https://www.powershellgallery.com/Packages/PSModulePublisher/0.10.0) | 0.10.0
-
-### Published: 07/19/2024 23:13:07 by The Oh Brothers
-
-A project containing the necessary tools to ease publishing of PowerShell modules.
-
-__Downloads__: 7 | __Repository__: https://github.com/theohbrothers/PSModulePublisher
-
 ## [Compex.ServerManagement](https://www.powershellgallery.com/Packages/Compex.ServerManagement/0.1.0) | 0.1.0
 
 ### Published: 07/19/2024 21:19:54 by mark.studer
@@ -368,14 +408,6 @@ __Downloads__: 0 | __Repository__:
 This module provides cmdlets to help in daily work, find cost savings, and report on Azure Policy compliance
 
 __Downloads__: 3,118 | __Repository__: 
-
-## [SATLogger](https://www.powershellgallery.com/Packages/SATLogger/0.0.2) | 0.0.2
-
-### Published: 07/19/2024 18:15:58 by Ryan Bakonis
-
-Logger
-
-__Downloads__: 0 | __Repository__: 
 
 ## [rhubarb-geek-nz.Joinery](https://www.powershellgallery.com/Packages/rhubarb-geek-nz.Joinery/1.0.5) | 1.0.5
 
@@ -544,14 +576,6 @@ __Downloads__: 4,820,604 | __Repository__: https://0install.net/
 General Scripting Framework, providing PowerShell-specific infrastructure for other modules.
 
 __Downloads__: 5,971,727 | __Repository__: http://psframework.org/
-
-## [MyPublishingDebugger](https://www.powershellgallery.com/Packages/MyPublishingDebugger/0.0.98) | 0.0.98
-
-### Published: 07/18/2024 11:08:18 by Joel Timothy Oh
-
-A PowerShell module for debugging publishing of modules.
-
-__Downloads__: 2,837 | __Repository__: https://github.com/joeltimothyoh/MyPublishingDebugger
 
 ## [VpasModule](https://www.powershellgallery.com/Packages/VpasModule/14.2.1) | 14.2.1
 
@@ -771,14 +795,6 @@ The Partner PowerShell Cmdlets module is targeted for Data Platform partner-usag
 The cmdlets bring a breath of fresh air and come with an intuitive, verbose set of commands that can be ran as-is or as part of an automation script or a data management pipeline.
 
 __Downloads__: 112 | __Repository__: 
-
-## [PS.Selenium](https://www.powershellgallery.com/Packages/PS.Selenium/1.8) | 1.8
-
-### Published: 07/17/2024 07:46:53 by Nutstone
-
-Wraps Selenium
-
-__Downloads__: 8 | __Repository__: 
 
 ## [IefPolicies](https://www.powershellgallery.com/Packages/IefPolicies/3.1.20) | 3.1.20
 
@@ -2045,20 +2061,4 @@ Provides pre-defined pester tests for Azure Policy and Initiative definitions
 
 __Downloads__: 774 | __Repository__: https://github.com/tyconsulting/AzPolicyTest
 
-## [IDMCmdlets](https://www.powershellgallery.com/Packages/IDMCmdlets/1.0.3.5) | 1.0.3.5
-
-### Published: 07/16/2024 02:04:01 by Powershellcrack
-
-A module designed to help manage devices in Intune
-
-__Downloads__: 470 | __Repository__: https://github.com/PowerShellCrack/PSIntuneAutopilotCmdlets
-
-## [PoshToolbox](https://www.powershellgallery.com/Packages/PoshToolbox/4.2.3) | 4.2.3
-
-### Published: 07/15/2024 23:25:20 by Anthony J. Raymond
-
-A collection of functions that can be used to build PowerShell scripts and modules.
-
-__Downloads__: 197 | __Repository__: https://gitlab.com/PoshAJ/PoshToolbox
-
-*Updated: Monday, 22 July 2024 02:11:52 UTC*
+*Updated: Monday, 22 July 2024 09:51:46 UTC*
