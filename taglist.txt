@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Sunday, 21 July 2024 17:52:00 UTC
+Updated: Monday, 22 July 2024 02:12:00 UTC
 
 .bat
 .env
@@ -315,6 +315,7 @@ amateurradio
 amazon
 amazonaws
 amazonmgn
+amazonwebservices
 amend
 ami
 amiga
@@ -457,6 +458,8 @@ archivial
 archivial-backup
 archivial-cloud-backup
 archlinux
+archon
+archonagent
 arcresourcebridge
 arcus
 area
@@ -590,7 +593,6 @@ automaticpacketreportingsystem
 automation
 automation psmodule
 automationanywhere
-automationutils
 autopatching
 autopilot
 autoscaling
@@ -689,7 +691,6 @@ azureartifacts
 azureas
 azureatp
 azureautomation
-azureautomationaccount
 azureautomationnotsupported
 azurebasicloadbalancerupgrade
 azurecli
@@ -926,8 +927,6 @@ brainy
 branch
 branch-rename
 brave
-brawlapi
-brawlstars
 brazencloud
 bre
 breach
@@ -1309,7 +1308,6 @@ code365
 codeanalysis
 codebuild
 codecommit
-codecomplexity
 codecov
 codecoverage
 codegen
@@ -1322,7 +1320,6 @@ codes
 codesign
 codesigning
 codex
-coercion
 cognitiveservice
 cognitiveservices
 cohesity
@@ -1508,8 +1505,6 @@ convert-sid
 convert-windowsimage
 converter
 convertfrom
-convertfrom-json
-convertfrom-jsontohashtable
 convertfrom-string
 convertfrom-stringtable
 convertfrom-table
@@ -1640,7 +1635,6 @@ csv
 csv2adx
 csvhelper
 ctf
-ctglobal
 ctl
 ctrl+c
 ctx
@@ -1651,7 +1645,6 @@ culture
 cumulative
 cumulativeupdate
 cumulocity
-curious
 curl
 curlie
 currency
@@ -1858,6 +1851,7 @@ defenderforendpoint
 defenderforidentity
 defense
 deflate
+defrag
 delegated
 delegation
 delegationmodel
@@ -1910,7 +1904,6 @@ devdrive
 developer
 developer_command_prompt
 developercommandprompt
-developermode
 development
 devenv
 devexpress
@@ -2090,7 +2083,6 @@ domainkey
 domainname
 domainnamesystem
 domains
-domino
 done.land
 donothing
 dos
@@ -2178,7 +2170,6 @@ dtsx
 dtx
 du
 dual-stack
-duck
 duckdb
 duckduckgo
 ducktyping
@@ -2255,6 +2246,7 @@ edr
 education
 educational
 effectiveroutes
+efficientether
 efi
 egrep
 eid
@@ -2274,6 +2266,7 @@ elevation
 elgato
 elk
 elm
+elmah-io
 elonmusk
 eloqua
 elvish
@@ -2391,6 +2384,7 @@ esx
 esxi
 eternalblue
 ether
+etherassist
 ethereum
 ethr
 ethz
@@ -2527,7 +2521,6 @@ f
 f#
 f5
 fabric
-fabtools
 facebook
 factoryorchestrator
 factoryorchestratorclient
@@ -3273,7 +3266,6 @@ hysolate
 hysolatemangementconsole
 i-doit
 i2c
-ia
 iaas
 iac
 iam
@@ -3418,13 +3410,11 @@ inputobject
 insert
 insiderthreat
 insight
-insightanalytics
 insights
 inspect
 inspiration
 inspirationalquotes
 inspire
-inspur
 instagram
 install
 install-module
@@ -3440,7 +3430,6 @@ installwindows
 instance
 instant
 instapush
-instorage
 int
 intacct
 integrated
@@ -3526,7 +3515,6 @@ iplookup
 ipmaths
 ipp
 iprange
-ips
 ipscan
 ipv4
 ipv4ping
@@ -4055,7 +4043,6 @@ map
 mapapi
 mapi
 mappeddrives
-mapper24
 mapping
 maps
 mapsapi
@@ -4217,7 +4204,6 @@ microsoftdefenderforidentity
 microsoftdeploymenttoolkit
 microsoftendpointmanager
 microsoftexchangeserver
-microsoftfabric
 microsoftgraph
 microsoftgraphapi
 microsoftgraphrestapi
@@ -4262,7 +4248,6 @@ mittelschule
 mixedreality
 mixer
 mkdocs
-mkpasswd
 mksapiviewer
 ml
 ml.net
@@ -4424,12 +4409,12 @@ mxlookup
 mycloudrevolution
 myget
 myhub
-myip
 myitprocess
 myjson
 myjson.com
 myob
 myposh
+mypstag
 mysql
 mysql-database
 mytest
@@ -4551,12 +4536,14 @@ nexenta
 nexentastor
 nexthink
 nexus
+nexusiq
 nfsv3
 ngen
 ngfw
 nginx
 nhl
 nic
+nic.ru
 nightmare
 ninite
 ninja
@@ -4770,6 +4757,7 @@ opendata
 openedge
 openfiles
 openhere
+openholidaysapi
 openid
 openidconnect
 openinghours
@@ -4799,7 +4787,9 @@ ops
 opsi
 opsmgr
 optics
+optimise
 optimization
+optimize
 optimizer
 option
 option119
@@ -4941,7 +4931,6 @@ passivetotal
 passkey
 passphrase
 passphraser passphrase password generator entropy
-passwd
 password
 password_generation
 password-generator
@@ -4980,7 +4969,6 @@ paylocity
 paypal
 pays
 pbench
-pbip
 pc
 pcapng
 pci-dss
@@ -5020,7 +5008,6 @@ personal
 personalisation
 personalization
 personalvault
-personio
 pester
 pf
 pfe
@@ -5178,7 +5165,6 @@ poshy-env-var
 poshy-ls-isms
 poshy-lucidity
 poshy-multimedia
-poshy-net
 poshy-notify-send
 poshy-sh-isms
 poshy-sshconfig
@@ -5252,6 +5238,7 @@ powerdex
 powerforensics
 powergraph
 powergui
+powermax
 powerpack
 powerplan
 powerplateform
@@ -5946,8 +5933,6 @@ pscommand_get-gittrackedfiles
 pscommand_get-gituntrackedfiles
 pscommand_get-gitwhatchangedstylized
 pscommand_get-itemnixmode
-pscommand_get-netipaddresspublic
-pscommand_get-netipaddresssimple
 pscommand_get-pwshaliasdefinition
 pscommand_get-pwshfunctiondefinition
 pscommand_get-viewer
@@ -6721,7 +6706,6 @@ pscommand_invoke-zypperverify
 pscommand_invoke-zypperversioncompare
 pscommand_invoke-zypperwhatprovides
 pscommand_invokeyumgrouplist
-pscommand_ips
 pscommand_ipy
 pscommand_ipython
 pscommand_jump
@@ -6875,7 +6859,6 @@ pscommand_mpom
 pscommand_mrperf
 pscommand_mrprep
 pscommand_mrrb
-pscommand_myip
 pscommand_new-gitbranchfromstash
 pscommand_new-gitbranchtracked
 pscommand_new-gitpatchfile
@@ -6930,7 +6913,6 @@ pscommand_peek
 pscommand_pgr
 pscommand_pi
 pscommand_pidev
-pscommand_ping
 pscommand_pip
 pscommand_pip_package_location
 pscommand_pip3
@@ -7541,8 +7523,6 @@ psfunction_get-gittrackedfiles
 psfunction_get-gituntrackedfiles
 psfunction_get-gitwhatchangedstylized
 psfunction_get-itemnixmode
-psfunction_get-netipaddresspublic
-psfunction_get-netipaddresssimple
 psfunction_get-pwshaliasdefinition
 psfunction_get-pwshfunctiondefinition
 psfunction_get-viewer
@@ -8371,7 +8351,6 @@ psngenposh
 psobject
 psoutlog
 pspath
-pspersonio
 pspowerhour
 psprofiler
 psproject
@@ -8427,6 +8406,7 @@ public-transport
 publicapi
 publicclient
 publicfolder
+publicholidays
 publicip
 publish
 publish-module
@@ -8881,7 +8861,6 @@ rsop
 rss
 rt
 rtu
-rubber
 rubrik
 rubriksecuritycloud
 ruby
@@ -8997,6 +8976,7 @@ schema
 schemaextensions
 scheme
 school-information-system
+schoolholidays
 schulung
 schulverwaltung
 science
@@ -9158,7 +9138,6 @@ seppmail
 seppmail.cloud
 seq
 sequence
-serial
 serialization
 serialize
 sericemanagement
@@ -9228,13 +9207,7 @@ sftp
 sfx
 sgopher
 sgw
-sha-256
-sha-512
-sha-crypt
 sha256
-sha256crypt
-sha512crypt
-shacrypt
 shadow
 shadowcopy
 shadowcopybackups
@@ -9457,7 +9430,6 @@ spacex
 spam
 spanner
 spark
-sparkline
 sparklines
 spawn
 spdockit
@@ -9718,7 +9690,6 @@ sullivan
 summary
 summit
 sumologic
-supercell
 superheros
 supermarket
 support
@@ -9875,7 +9846,6 @@ techedna2014
 techlog
 technology
 techsmith
-tel
 telegram
 telegram-bot
 telegram-bot-api
@@ -10519,7 +10489,6 @@ voice
 voiceservices
 voidtools
 volkskrant
-volta
 volume
 volumeshadowcopy
 volumio
@@ -10990,6 +10959,8 @@ zookeeper
 zoom
 zoomapi
 zoommeeting
+zorus
+zorusapi
 zoxide
 zsh
 zuora

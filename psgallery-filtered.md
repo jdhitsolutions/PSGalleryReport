@@ -3,6 +3,40 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [SentinelARConverter](https://www.powershellgallery.com/Packages/SentinelARConverter/2.4.0) | 2.4.0
+
+### Published: 07/21/2024 21:17:43 by Fabian Bader
+
+Helper module to convert Sentinel Analytics Rules between YAML, ARM and back
+
+__Downloads__: 121,955 | __Repository__: https://github.com/f-bader/SentinelARConverter
+
+## [PSAOAI](https://www.powershellgallery.com/Packages/PSAOAI/0.4.3) | 0.4.3
+
+### Published: 07/21/2024 20:05:23 by Wojciech Napierala (voytas75)
+
+The PowerShell AZURE OpenAI (PSAOAI) module is a powerful tool designed to interact with Azure OpenAI Services.
+
+__Downloads__: 49 | __Repository__: https://github.com/voytas75/PSAOAI
+
+## [PSBlackListChecker](https://www.powershellgallery.com/Packages/PSBlackListChecker/0.8.7) | 0.8.7
+
+### Published: 07/21/2024 19:58:25 by Przemyslaw Klys
+
+This module allows you to easily check if your defined list of IPs are on any of defined blacklists.
+It additionally allows you to easily setup Task Scheduled monitoring and send you reports daily / hourly or weekly if needed.
+In new version you now have ability to send notificatins to Microsoft Teams, Slack and Discord.
+
+__Downloads__: 31,040 | __Repository__: https://github.com/EvotecIT/PSBlackListChecker
+
+## [Log4NetParse](https://www.powershellgallery.com/Packages/Log4NetParse/1.0.0) | 1.0.0
+
+### Published: 07/21/2024 17:54:42 by Gilbert Sanchez
+
+A module to parse log4net logs.
+
+__Downloads__: 178 | __Repository__: https://github.com/HeyItsGilbert/Log4NetParse/
+
 ## [dbatools](https://www.powershellgallery.com/Packages/dbatools/2.1.21) | 2.1.21
 
 ### Published: 07/21/2024 17:35:55 by the dbatools team
@@ -185,14 +219,6 @@ __Downloads__: 13 | __Repository__: https://github.com/PSModule/OpenAI
 A "standard" library for PowerShell inspired by the preludes of other languages
 
 __Downloads__: 6,198 | __Repository__: https://github.com/jhwohlgemuth/pwsh-prelude
-
-## [PSAOAI](https://www.powershellgallery.com/Packages/PSAOAI/0.4.2) | 0.4.2
-
-### Published: 07/20/2024 23:26:53 by Wojciech Napierala (voytas75)
-
-The PowerShell AZURE OpenAI (PSAOAI) module is a powerful tool designed to interact with Azure OpenAI Services.
-
-__Downloads__: 49 | __Repository__: https://github.com/voytas75/PSAOAI
 
 ## [NerdFonts](https://www.powershellgallery.com/Packages/NerdFonts/1.0.10) | 1.0.10
 
@@ -391,6 +417,14 @@ This bundles together functions related to powershell functions use for UGDSB
 
 __Downloads__: 7,162 | __Repository__: 
 
+## [PSRuntimeEnviromentModule](https://www.powershellgallery.com/Packages/PSRuntimeEnviromentModule/1.0.0.2) | 1.0.0.2
+
+### Published: 07/19/2024 11:36:28 by Michal Gajda
+
+Module to manage PowerShell modules in Azure Automation Runtime Enviroments.
+
+__Downloads__: 0 | __Repository__: https://github.com/mgajda83/PSRuntimeEnviromentModule
+
 ## [fscps.tools](https://www.powershellgallery.com/Packages/fscps.tools/1.0.264) | 1.0.264
 
 ### Published: 07/19/2024 06:53:14 by Oleksandr Nikolaiev
@@ -430,6 +464,14 @@ __Downloads__: 61 | __Repository__:
 PSAI brings OpenAI ChatGPT to PowerShell, leveraging advanced AI capabilities in your PowerShell scripts for dynamic, intelligent automation and data processing
 
 __Downloads__: 1,316 | __Repository__: https://github.com/dfinke/PSAI
+
+## [SpnLibrary](https://www.powershellgallery.com/Packages/SpnLibrary/1.0.0.0) | 1.0.0.0
+
+### Published: 07/18/2024 20:23:03 by Jeff Patton
+
+The SetSpnLibrary PowerShell module is designed to facilitate the management of Service Principal Names (SPNs) within an Active Directory (AD) environment
+
+__Downloads__: 0 | __Repository__: https://github.com/orgs/mod-posh/projects/5
 
 ## [Winpack](https://www.powershellgallery.com/Packages/Winpack/0.2.6) | 0.2.6
 
@@ -2019,44 +2061,4 @@ A collection of functions that can be used to build PowerShell scripts and modul
 
 __Downloads__: 197 | __Repository__: https://gitlab.com/PoshAJ/PoshToolbox
 
-## [ModuleFast](https://www.powershellgallery.com/Packages/ModuleFast/0.3.0) | 0.3.0
-
-### Published: 07/15/2024 22:38:11 by Justin Grote @justinwgrote
-
-Optimizes the PowerShell Module Installation Process to be as fast as possible and operate in CI/CD scenarios in a declarative manner
-
-__Downloads__: 449 | __Repository__: https://github.com/JustinGrote/ModuleFast
-
-## [IPNetwork](https://www.powershellgallery.com/Packages/IPNetwork/0.1.0) | 0.1.0
-
-### Published: 07/15/2024 20:13:40 by Justin Grote @justinwgrote
-
-take care of complex network, ip, ipv4, ipv6, netmask, cidr, subnet, subnetting, supernet and supernetting calculation for .Net developpers. It works with IPv4 and IPv6 as well
-
-__Downloads__: 557 | __Repository__: https://github.com/JustinGrote/IPNetwork
-
-## [AzAPICall](https://www.powershellgallery.com/Packages/AzAPICall/1.2.3) | 1.2.3
-
-### Published: 07/15/2024 20:04:15 by Julian Hayward Kai Schulz
-
-Azure API call handler for Microsoft Graph, Azure Resource Management, KeyVault, Log Analytics, Storage and ingest.monitor.azure.*. Visit aka.ms/AzAPICall
-
-__Downloads__: 225,785 | __Repository__: https://aka.ms/AzAPICall
-
-## [UofIQualys](https://www.powershellgallery.com/Packages/UofIQualys/1.8.1) | 1.8.1
-
-### Published: 07/15/2024 18:05:22 by Cybersecurity Engineering
-
-This Powershell module acts as a wrapper for the Qualys REST API, allowing you to create scripts that run system administration commands against your Qualys account
-
-__Downloads__: 431 | __Repository__: https://github.com/techservicesillinois/SecOps-Powershell-Qualys
-
-## [Everix-Install](https://www.powershellgallery.com/Packages/Everix-Install/1.0.2) | 1.0.2
-
-### Published: 07/15/2024 15:03:52 by Everix
-
-Everix-Install is a PowerShell module to install Everix.
-
-__Downloads__: 12 | __Repository__: https://github.com/everix-io/everix-install
-
-*Updated: Sunday, 21 July 2024 17:51:52 UTC*
+*Updated: Monday, 22 July 2024 02:11:52 UTC*
