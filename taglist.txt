@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 22 July 2024 02:12:00 UTC
+Updated: Monday, 22 July 2024 09:51:54 UTC
 
 .bat
 .env
@@ -458,8 +458,6 @@ archivial
 archivial-backup
 archivial-cloud-backup
 archlinux
-archon
-archonagent
 arcresourcebridge
 arcus
 area
@@ -593,6 +591,7 @@ automaticpacketreportingsystem
 automation
 automation psmodule
 automationanywhere
+automationutils
 autopatching
 autopilot
 autoscaling
@@ -691,6 +690,7 @@ azureartifacts
 azureas
 azureatp
 azureautomation
+azureautomationaccount
 azureautomationnotsupported
 azurebasicloadbalancerupgrade
 azurecli
@@ -915,7 +915,6 @@ bootstrap
 bootstrapping
 bop
 bot
-bots
 botservice
 bouncer
 boundaries
@@ -927,6 +926,8 @@ brainy
 branch
 branch-rename
 brave
+brawlapi
+brawlstars
 brazencloud
 bre
 breach
@@ -1131,10 +1132,6 @@ checklists
 checkpoint
 checks
 checksum
-chef
-chef-automate
-chef-compliance
-chef-server
 chefconf2016
 chenxizhang
 cherrypy
@@ -1308,6 +1305,7 @@ code365
 codeanalysis
 codebuild
 codecommit
+codecomplexity
 codecov
 codecoverage
 codegen
@@ -1320,6 +1318,7 @@ codes
 codesign
 codesigning
 codex
+coercion
 cognitiveservice
 cognitiveservices
 cohesity
@@ -1505,6 +1504,8 @@ convert-sid
 convert-windowsimage
 converter
 convertfrom
+convertfrom-json
+convertfrom-jsontohashtable
 convertfrom-string
 convertfrom-stringtable
 convertfrom-table
@@ -1635,6 +1636,7 @@ csv
 csv2adx
 csvhelper
 ctf
+ctglobal
 ctl
 ctrl+c
 ctx
@@ -1645,6 +1647,7 @@ culture
 cumulative
 cumulativeupdate
 cumulocity
+curious
 curl
 curlie
 currency
@@ -1904,6 +1907,7 @@ devdrive
 developer
 developer_command_prompt
 developercommandprompt
+developermode
 development
 devenv
 devexpress
@@ -2083,6 +2087,7 @@ domainkey
 domainname
 domainnamesystem
 domains
+domino
 done.land
 donothing
 dos
@@ -2133,7 +2138,6 @@ drivertool.powercli
 driverupdates
 drm
 drone.io
-drop
 dropbox
 dropdatabase
 droplet
@@ -2170,6 +2174,7 @@ dtsx
 dtx
 du
 dual-stack
+duck
 duckdb
 duckduckgo
 ducktyping
@@ -2521,6 +2526,7 @@ f
 f#
 f5
 fabric
+fabtools
 facebook
 factoryorchestrator
 factoryorchestratorclient
@@ -2863,7 +2869,6 @@ get-credential
 get-criticaltrippoint
 get-currentcputemperature
 get-dellwarranty
-get-directorycontents
 get-dtcmdevicemodel
 get-dtdriverpack
 get-dtdriverupdates
@@ -3266,6 +3271,7 @@ hysolate
 hysolatemangementconsole
 i-doit
 i2c
+ia
 iaas
 iac
 iam
@@ -3407,14 +3413,15 @@ innertext
 input
 inputbox
 inputobject
-insert
 insiderthreat
 insight
+insightanalytics
 insights
 inspect
 inspiration
 inspirationalquotes
 inspire
+inspur
 instagram
 install
 install-module
@@ -3430,6 +3437,7 @@ installwindows
 instance
 instant
 instapush
+instorage
 int
 intacct
 integrated
@@ -3515,6 +3523,7 @@ iplookup
 ipmaths
 ipp
 iprange
+ips
 ipscan
 ipv4
 ipv4ping
@@ -3701,7 +3710,6 @@ kodi
 korn
 kotlin
 kql
-kraken
 krane
 krbtgt
 krick
@@ -3740,7 +3748,6 @@ lake
 lambda
 lame
 lametrictime
-lamp
 lan
 landingzones
 language
@@ -3883,7 +3890,6 @@ lock
 lockbox
 lockdisplaytimeout
 lockdown
-lockfile
 locking
 lockoutreport
 lockscreen
@@ -4043,6 +4049,7 @@ map
 mapapi
 mapi
 mappeddrives
+mapper24
 mapping
 maps
 mapsapi
@@ -4204,6 +4211,7 @@ microsoftdefenderforidentity
 microsoftdeploymenttoolkit
 microsoftendpointmanager
 microsoftexchangeserver
+microsoftfabric
 microsoftgraph
 microsoftgraphapi
 microsoftgraphrestapi
@@ -4409,6 +4417,7 @@ mxlookup
 mycloudrevolution
 myget
 myhub
+myip
 myitprocess
 myjson
 myjson.com
@@ -4969,6 +4978,7 @@ paylocity
 paypal
 pays
 pbench
+pbip
 pc
 pcapng
 pci-dss
@@ -5008,6 +5018,7 @@ personal
 personalisation
 personalization
 personalvault
+personio
 pester
 pf
 pfe
@@ -5165,6 +5176,7 @@ poshy-env-var
 poshy-ls-isms
 poshy-lucidity
 poshy-multimedia
+poshy-net
 poshy-notify-send
 poshy-sh-isms
 poshy-sshconfig
@@ -5233,7 +5245,6 @@ powerbot
 powercli
 powercligoodies
 powercommander
-powerconfiguration
 powerdex
 powerforensics
 powergraph
@@ -5933,6 +5944,8 @@ pscommand_get-gittrackedfiles
 pscommand_get-gituntrackedfiles
 pscommand_get-gitwhatchangedstylized
 pscommand_get-itemnixmode
+pscommand_get-netipaddresspublic
+pscommand_get-netipaddresssimple
 pscommand_get-pwshaliasdefinition
 pscommand_get-pwshfunctiondefinition
 pscommand_get-viewer
@@ -6706,6 +6719,7 @@ pscommand_invoke-zypperverify
 pscommand_invoke-zypperversioncompare
 pscommand_invoke-zypperwhatprovides
 pscommand_invokeyumgrouplist
+pscommand_ips
 pscommand_ipy
 pscommand_ipython
 pscommand_jump
@@ -6859,6 +6873,7 @@ pscommand_mpom
 pscommand_mrperf
 pscommand_mrprep
 pscommand_mrrb
+pscommand_myip
 pscommand_new-gitbranchfromstash
 pscommand_new-gitbranchtracked
 pscommand_new-gitpatchfile
@@ -6913,6 +6928,7 @@ pscommand_peek
 pscommand_pgr
 pscommand_pi
 pscommand_pidev
+pscommand_ping
 pscommand_pip
 pscommand_pip_package_location
 pscommand_pip3
@@ -7523,6 +7539,8 @@ psfunction_get-gittrackedfiles
 psfunction_get-gituntrackedfiles
 psfunction_get-gitwhatchangedstylized
 psfunction_get-itemnixmode
+psfunction_get-netipaddresspublic
+psfunction_get-netipaddresssimple
 psfunction_get-pwshaliasdefinition
 psfunction_get-pwshfunctiondefinition
 psfunction_get-viewer
@@ -8351,6 +8369,7 @@ psngenposh
 psobject
 psoutlog
 pspath
+pspersonio
 pspowerhour
 psprofiler
 psproject
@@ -8549,8 +8568,6 @@ rbsu
 rcon
 rcs
 rcu
-rdb
-rdbms
 rdc
 rdcman
 rdcmanager
@@ -8650,7 +8667,6 @@ regular-expression
 regularexpression
 regularexpressions
 reinstall
-relational
 relay
 release
 releasedefinition
@@ -8861,6 +8877,7 @@ rsop
 rss
 rt
 rtu
+rubber
 rubrik
 rubriksecuritycloud
 ruby
@@ -9138,6 +9155,7 @@ seppmail
 seppmail.cloud
 seq
 sequence
+serial
 serialization
 serialize
 sericemanagement
@@ -9255,7 +9273,6 @@ showdemo
 showoncommand
 shred
 shuf
-shutdown
 sid
 sidecar
 siem
@@ -9316,8 +9333,6 @@ skypeforbusinessonline
 skypeonline
 skytap
 slack
-slash
-slashcommands
 slmgr
 sln
 slugify
@@ -9430,6 +9445,7 @@ spacex
 spam
 spanner
 spark
+sparkline
 sparklines
 spawn
 spdockit
@@ -9690,6 +9706,7 @@ sullivan
 summary
 summit
 sumologic
+supercell
 superheros
 supermarket
 support
@@ -9846,6 +9863,7 @@ techedna2014
 techlog
 technology
 techsmith
+tel
 telegram
 telegram-bot
 telegram-bot-api
@@ -10030,7 +10048,6 @@ tracert
 tracing
 tracker
 tracking
-trading
 traffic
 trafficfiltering
 trafficmanager
@@ -10489,6 +10506,7 @@ voice
 voiceservices
 voidtools
 volkskrant
+volta
 volume
 volumeshadowcopy
 volumio
@@ -10669,10 +10687,8 @@ win10
 win2k8
 win32
 win32_installedwin32program
-win32_operatingsystem
 win32-api
 win32appmigrationtool
-win32shutdown
 winbgp
 windchillrv&s
 window
@@ -10959,8 +10975,6 @@ zookeeper
 zoom
 zoomapi
 zoommeeting
-zorus
-zorusapi
 zoxide
 zsh
 zuora
