@@ -3,21 +3,149 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
-## [tatux.core](https://www.powershellgallery.com/Packages/tatux.core/0.0.31) | 0.0.31
+## [Compex.NewRelic](https://www.powershellgallery.com/Packages/Compex.NewRelic/2.3.0) | 2.3.0
 
-### Published: 07/22/2024 09:14:02 by Nigel Tatschner
+### Published: 07/22/2024 17:38:15 by Mark Studer and Shaun Titus
+
+Module for working with NewRelic
+
+__Downloads__: 2,314 | __Repository__: https://bitbucket.org/compexlegal/newrelic.ps/src/
+
+## [tatux.intune.packaging](https://www.powershellgallery.com/Packages/tatux.intune.packaging/0.9.0.98) | 0.9.0.98
+
+### Published: 07/22/2024 16:24:12 by Nigel Tatschner
+
+A set of functions designed to package and deploy Application packages to Microsoft Intune.
+
+__Downloads__: 311 | __Repository__: 
+
+## [UncommonSense.NewScientist](https://www.powershellgallery.com/Packages/UncommonSense.NewScientist/0.1.1) | 0.1.1
+
+### Published: 07/22/2024 16:14:15 by Jan Hoek
+
+PowerShell module for listing New Scientist articles
+
+__Downloads__: 174 | __Repository__: https://github.com/jhoek/UncommonSense.NewScientist
+
+## [PsKrane](https://www.powershellgallery.com/Packages/PsKrane/0.5.0) | 0.5.0
+
+### Published: 07/22/2024 16:02:55 by Stephane van Gulick
+
+Opinionated module to scaffold, manage and help build standardized powershell modules implementing best pratcises out of the box with ease.
+
+__Downloads__: 264 | __Repository__: https://github.com/Stephanevg/PsKrane
+
+## [fscps.tools](https://www.powershellgallery.com/Packages/fscps.tools/1.0.265) | 1.0.265
+
+### Published: 07/22/2024 15:11:47 by Oleksandr Nikolaiev
+
+fscps.tools
+
+__Downloads__: 4,177 | __Repository__: https://github.com/fscpscollaborative/fscps.tools
+
+## [Eryph.ComputeClient](https://www.powershellgallery.com/Packages/Eryph.ComputeClient/0.7.0) | 0.7.0
+
+### Published: 07/22/2024 15:08:57 by dbosoft GmbH and eryph contributors
+
+Cmdlets for the eryph compute API.
+
+__Downloads__: 300 | __Repository__: https://github.com/eryph-org/dotnet-computeclient
+
+## [Universal](https://www.powershellgallery.com/Packages/Universal/4.3.3) | 4.3.3
+
+### Published: 07/22/2024 14:48:18 by Ironman Software
+
+Module for PowerShell Universal.
+
+__Downloads__: 101,566 | __Repository__: https://ironmansoftware.com/powershell-universal
+
+## [ObjectGraphTools](https://www.powershellgallery.com/Packages/ObjectGraphTools/0.2.1) | 0.2.1
+
+### Published: 07/22/2024 14:42:01 by Ronald Bode (iRon)
+
+Object Graph Tools
+
+__Downloads__: 2,740 | __Repository__: https://github.com/iRon7/ObjectGraphTools
+
+## [PS.Selenium](https://www.powershellgallery.com/Packages/PS.Selenium/1.16) | 1.16
+
+### Published: 07/22/2024 14:39:31 by Nutstone
+
+Wraps Selenium
+
+__Downloads__: 8 | __Repository__: 
+
+## [CIPPAPIModule](https://www.powershellgallery.com/Packages/CIPPAPIModule/1.1.5) | 1.1.5
+
+### Published: 07/22/2024 14:21:59 by Ben Weinberg - Bweinberg@prime-networks.co.uk
+
+Powershell Module for CIPP-API
+
+__Downloads__: 250 | __Repository__: https://github.com/BNWEIN/CIPPAPIModule/
+
+## [MemPolicyManager](https://www.powershellgallery.com/Packages/MemPolicyManager/0.1.0) | 0.1.0
+
+### Published: 07/22/2024 13:58:45 by Douglas S. Rios (DrIOSx)
+
+A PowerShell module for managing Microsoft Endpoint Manager policies, including backup, import, export, and comparison using Microsoft Graph API.
+
+__Downloads__: 0 | __Repository__: https://github.com/CriticalSolutionsNetwork/MemPolicyManager
+
+## [Yamautomate.Core](https://www.powershellgallery.com/Packages/Yamautomate.Core/1.0.5.8) | 1.0.5.8
+
+### Published: 07/22/2024 13:52:51 by Yanik Maurer
+
+A core module for logging, setting up config files, storing and accessing credentials and API Keys safely and more.
+
+__Downloads__: 39 | __Repository__: 
+
+## [tatux.core](https://www.powershellgallery.com/Packages/tatux.core/0.0.35) | 0.0.35
+
+### Published: 07/22/2024 13:29:32 by Nigel Tatschner
 
 Core functions required for my suite of modules.
 
 __Downloads__: 158 | __Repository__: https://github.com/ntatschner/tatux.core
 
-## [PS.Selenium](https://www.powershellgallery.com/Packages/PS.Selenium/1.11) | 1.11
+## [IONModule](https://www.powershellgallery.com/Packages/IONModule/0.0.1) | 0.0.1
 
-### Published: 07/22/2024 08:58:42 by Nutstone
+### Published: 07/22/2024 13:04:08 by Ben Weinberg - Bweinberg@prime-networks.co.uk
 
-Wraps Selenium
+Powershell Module for TD Synexx ION API
 
-__Downloads__: 8 | __Repository__: 
+__Downloads__: 0 | __Repository__: https://github.com/BNWEIN/IONModule/
+
+## [PSModulePublisher](https://www.powershellgallery.com/Packages/PSModulePublisher/0.10.2) | 0.10.2
+
+### Published: 07/22/2024 12:58:31 by The Oh Brothers
+
+A project containing the necessary tools to ease publishing of PowerShell modules.
+
+__Downloads__: 7 | __Repository__: https://github.com/theohbrothers/PSModulePublisher
+
+## [GMGoogleDrive](https://www.powershellgallery.com/Packages/GMGoogleDrive/1.3.0.0) | 1.3.0.0
+
+### Published: 07/22/2024 12:19:21 by Max Kozlov
+
+Google Drive and Google Sheets REST Api module
+
+__Downloads__: 5,206 | __Repository__: https://github.com/MVKozlov/GMGoogleDrive
+
+## [JyskIT.Automation](https://www.powershellgallery.com/Packages/JyskIT.Automation/1.1.2) | 1.1.2
+
+### Published: 07/22/2024 11:54:37 by Jysk IT
+
+Provides different cmdlets for automating Microsoft 365 and related services.
+
+__Downloads__: 631 | __Repository__: 
+
+## [easypeasy](https://www.powershellgallery.com/Packages/easypeasy/1.4.0) | 1.4.0
+
+### Published: 07/22/2024 10:59:36 by Igor Akkerman
+
+Collection of utility functions and aliases to simplify and automate common tasks in Windows environments.
+
+__Downloads__: 232 | __Repository__: https://github.com/igorakkerman/easypeasy
 
 ## [PsComplete](https://www.powershellgallery.com/Packages/PsComplete/0.0.27) | 0.0.27
 
@@ -34,14 +162,6 @@ __Downloads__: 3,454 | __Repository__: https://github.com/ieviev/pscomplete/
 A PowerShell module for debugging publishing of modules.
 
 __Downloads__: 2,837 | __Repository__: https://github.com/joeltimothyoh/MyPublishingDebugger
-
-## [PSModulePublisher](https://www.powershellgallery.com/Packages/PSModulePublisher/0.10.1) | 0.10.1
-
-### Published: 07/22/2024 06:25:41 by The Oh Brothers
-
-A project containing the necessary tools to ease publishing of PowerShell modules.
-
-__Downloads__: 7 | __Repository__: https://github.com/theohbrothers/PSModulePublisher
 
 ## [AutomateNOW](https://www.powershellgallery.com/Packages/AutomateNOW/1.0.23) | 1.0.23
 
@@ -163,14 +283,6 @@ __Downloads__: 18,087 | __Repository__: https://github.com/HotCakeX/Harden-Windo
 Simple module allowing parsing of event logs. Has its own quirks...
 
 __Downloads__: 466,143 | __Repository__: https://github.com/EvotecIT/PSEventViewer
-
-## [tatux.intune.packaging](https://www.powershellgallery.com/Packages/tatux.intune.packaging/0.9.0.97) | 0.9.0.97
-
-### Published: 07/21/2024 14:58:42 by Nigel Tatschner
-
-A set of functions designed to package and deploy Application packages to Microsoft Intune.
-
-__Downloads__: 311 | __Repository__: 
 
 ## [UiPathOrch](https://www.powershellgallery.com/Packages/UiPathOrch/0.9.5.6) | 0.9.5.6
 
@@ -409,6 +521,14 @@ This module provides cmdlets to help in daily work, find cost savings, and repor
 
 __Downloads__: 3,118 | __Repository__: 
 
+## [SATLogger](https://www.powershellgallery.com/Packages/SATLogger/0.0.2) | 0.0.2
+
+### Published: 07/19/2024 18:15:58 by Ryan Bakonis
+
+Logger
+
+__Downloads__: 0 | __Repository__: 
+
 ## [rhubarb-geek-nz.Joinery](https://www.powershellgallery.com/Packages/rhubarb-geek-nz.Joinery/1.0.5) | 1.0.5
 
 ### Published: 07/19/2024 16:24:10 by Roger Brown
@@ -456,14 +576,6 @@ __Downloads__: 7,162 | __Repository__:
 Module to manage PowerShell modules in Azure Automation Runtime Enviroments.
 
 __Downloads__: 0 | __Repository__: https://github.com/mgajda83/PSRuntimeEnviromentModule
-
-## [fscps.tools](https://www.powershellgallery.com/Packages/fscps.tools/1.0.264) | 1.0.264
-
-### Published: 07/19/2024 06:53:14 by Oleksandr Nikolaiev
-
-fscps.tools
-
-__Downloads__: 4,177 | __Repository__: https://github.com/fscpscollaborative/fscps.tools
 
 ## [NetworkProfile](https://www.powershellgallery.com/Packages/NetworkProfile/1.4.2) | 1.4.2
 
@@ -1949,116 +2061,4 @@ This modules provides Cmdlets for OCI Aidocument Service
 
 __Downloads__: 3,825 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-## [OCI.PSModules.Aianomalydetection](https://www.powershellgallery.com/Packages/OCI.PSModules.Aianomalydetection/86.3.0) | 86.3.0
-
-### Published: 07/16/2024 19:36:08 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Aianomalydetection Service
-
-__Downloads__: 5,902 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Adm](https://www.powershellgallery.com/Packages/OCI.PSModules.Adm/86.3.0) | 86.3.0
-
-### Published: 07/16/2024 19:36:00 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Adm Service
-
-__Downloads__: 4,735 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Accessgovernancecp](https://www.powershellgallery.com/Packages/OCI.PSModules.Accessgovernancecp/86.3.0) | 86.3.0
-
-### Published: 07/16/2024 19:35:54 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Accessgovernancecp Service
-
-__Downloads__: 3,397 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Common](https://www.powershellgallery.com/Packages/OCI.PSModules.Common/86.3.0) | 86.3.0
-
-### Published: 07/16/2024 19:33:47 by Oracle Cloud Infrastructure
-
-OCI Common module exports Cmdlets that manages features offered by OCI Modules for Powershell like History Store, OCI Configuration file setup and Per-Session Region/Config/Profile preferences. Common module also contains some functionalties that are common to all OCI Service modules, therefore all OCI Service modules depends on Common module.
-
-__Downloads__: 250,938 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [VsDevShell](https://www.powershellgallery.com/Packages/VsDevShell/2024.1.0) | 2024.1.0
-
-### Published: 07/16/2024 18:25:09 by Marc-André Moreau
-
-Visual Studio Developer PowerShell Module
-
-__Downloads__: 1,670 | __Repository__: https://github.com/awakecoding/VsDevShell-ps
-
-## [TfsCmdlets](https://www.powershellgallery.com/Packages/TfsCmdlets/2.8.1) | 2.8.1
-
-### Published: 07/16/2024 15:10:02 by Igor Abade V. Leite
-
-PowerShell Cmdlets for Azure DevOps and Team Foundation Server
-
-__Downloads__: 16,695 | __Repository__: https://github.com/igoravl/tfscmdlets/
-
-## [Hardensysvol](https://www.powershellgallery.com/Packages/Hardensysvol/1.2.0) | 1.2.0
-
-### Published: 07/16/2024 14:51:59 by DAKHAMA Mehdi
-
-Harden Sysvol is a Powershell Module to scan sysvol folder to search the sensitivity data
-
-__Downloads__: 0 | __Repository__: https://github.com/dakhama-mehdi/CheckSysvolsecurity
-
-## [PowerShell.FileTransformations](https://www.powershellgallery.com/Packages/PowerShell.FileTransformations/1.4) | 1.4
-
-### Published: 07/16/2024 14:24:00 by HT
-
-Transforms, converts, and/or secures data files.
-
-__Downloads__: 125 | __Repository__: 
-
-## [JyskIT.Automation](https://www.powershellgallery.com/Packages/JyskIT.Automation/1.1.1) | 1.1.1
-
-### Published: 07/16/2024 13:16:56 by Jysk IT
-
-Provides different cmdlets for automating Microsoft 365 and related services.
-
-__Downloads__: 631 | __Repository__: 
-
-## [Quantum.DMS.PowerShell](https://www.powershellgallery.com/Packages/Quantum.DMS.PowerShell/3.0.4) | 3.0.4
-
-### Published: 07/16/2024 12:04:57 by Radi Atanassov
-
-A set of PowerShell cmdlets for administering Quantum DMS.
-
-__Downloads__: 603 | __Repository__: 
-
-## [Evergreen](https://www.powershellgallery.com/Packages/Evergreen/2407.1230) | 2407.1230
-
-### Published: 07/16/2024 11:42:06 by Aaron Parker
-
-Create evergreen Windows image builds with the latest versions of applications. Evergreen is a simple PowerShell module that retrieves the latest version numbers and download URLs for various software products directly from the vendor source.
-
-__Downloads__: 4,180,856 | __Repository__: https://stealthpuppy.com/evergreen/
-
-## [PasswordSolution](https://www.powershellgallery.com/Packages/PasswordSolution/1.2.5) | 1.2.5
-
-### Published: 07/16/2024 06:58:46 by Przemyslaw Klys
-
-This module allows the creation of password expiry emails for users, managers, administrators, and security according to defined templates. It's able to work with different rules allowing to fully customize who gets the email and when.
-
-__Downloads__: 7,537 | __Repository__: https://github.com/EvotecIT/PasswordSolution
-
-## [PSAction1](https://www.powershellgallery.com/Packages/PSAction1/1.3.7) | 1.3.7
-
-### Published: 07/16/2024 02:42:52 by Gene Moody
-
-API Interface for Action1
-
-__Downloads__: 579 | __Repository__: 
-
-## [AzPolicyTest](https://www.powershellgallery.com/Packages/AzPolicyTest/2.6.1) | 2.6.1
-
-### Published: 07/16/2024 02:27:44 by Tao Yang
-
-Provides pre-defined pester tests for Azure Policy and Initiative definitions
-
-__Downloads__: 774 | __Repository__: https://github.com/tyconsulting/AzPolicyTest
-
-*Updated: Monday, 22 July 2024 09:51:46 UTC*
+*Updated: Monday, 22 July 2024 17:51:39 UTC*
