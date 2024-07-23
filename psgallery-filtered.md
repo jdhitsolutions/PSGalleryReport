@@ -3,13 +3,85 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
-## [Compex.NewRelic](https://www.powershellgallery.com/Packages/Compex.NewRelic/2.3.0) | 2.3.0
+## [MicrosoftPlaces2](https://www.powershellgallery.com/Packages/MicrosoftPlaces2/0.0.1) | 0.0.1
 
-### Published: 07/22/2024 17:38:15 by Mark Studer and Shaun Titus
+### Published: 07/22/2024 23:54:55 by americks
+
+test module
+
+__Downloads__: 0 | __Repository__: 
+
+## [Compex.NewRelic.Agents](https://www.powershellgallery.com/Packages/Compex.NewRelic.Agents/0.2.0) | 0.2.0
+
+### Published: 07/22/2024 22:50:05 by Mark Studer
+
+Module for working with New Relic agents on a server.
+
+__Downloads__: 0 | __Repository__: https://bitbucket.org/compexlegal/newrelic.agents.ps/src/master/
+
+## [VMware.Community.VSANDP](https://www.powershellgallery.com/Packages/VMware.Community.VSANDP/1.0.2) | 1.0.2
+
+### Published: 07/22/2024 22:40:42 by William Lam
+
+PowerShell Module for Managing VMware vSAN Data Protection
+
+__Downloads__: 8 | __Repository__: https://github.com/lamw/VMware.Community.VSANDP
+
+## [Compex.ServerManagement](https://www.powershellgallery.com/Packages/Compex.ServerManagement/0.2.0) | 0.2.0
+
+### Published: 07/22/2024 22:29:55 by mark.studer
+
+Module for managing servers.
+
+__Downloads__: 0 | __Repository__: 
+
+## [Compex.NewRelic](https://www.powershellgallery.com/Packages/Compex.NewRelic/2.3.1) | 2.3.1
+
+### Published: 07/22/2024 21:12:06 by Mark Studer and Shaun Titus
 
 Module for working with NewRelic
 
 __Downloads__: 2,314 | __Repository__: https://bitbucket.org/compexlegal/newrelic.ps/src/
+
+## [WindmillClient](https://www.powershellgallery.com/Packages/WindmillClient/1.366.5) | 1.366.5
+
+### Published: 07/22/2024 20:56:23 by Windmill Labs
+
+Client for the Windmill platform.
+
+__Downloads__: 380 | __Repository__: https://github.com/windmill-labs/windmill/tree/main/powershell-client
+
+## [MyPSFunctions](https://www.powershellgallery.com/Packages/MyPSFunctions/1.1) | 1.1
+
+### Published: 07/22/2024 20:27:13 by John@MyPSFunctions.com
+
+This Module has been created to provide a repository of my Daily Functions. - This module is provided as is without any support. Please be aware you are using this module as your own risks without any responsabilities from us.
+
+__Downloads__: 316 | __Repository__: 
+
+## [PSYT](https://www.powershellgallery.com/Packages/PSYT/0.1.0) | 0.1.0
+
+### Published: 07/22/2024 20:27:03 by Peter Cook
+
+PSYT is a PowerShell module that provides functions to retrieve YouTube video transcripts.
+
+__Downloads__: 0 | __Repository__: https://github.com/Blindpete/PSYT/
+
+## [Hardensysvol](https://www.powershellgallery.com/Packages/Hardensysvol/1.2.1) | 1.2.1
+
+### Published: 07/22/2024 19:38:57 by DAKHAMA Mehdi
+
+Harden Sysvol is a Powershell Module to scan sysvol folder to search the sensitivity data
+
+__Downloads__: 0 | __Repository__: https://github.com/dakhama-mehdi/CheckSysvolsecurity
+
+## [SATLogger](https://www.powershellgallery.com/Packages/SATLogger/0.0.3) | 0.0.3
+
+### Published: 07/22/2024 17:57:23 by Ryan Bakonis
+
+Logger
+
+__Downloads__: 0 | __Repository__: 
 
 ## [tatux.intune.packaging](https://www.powershellgallery.com/Packages/tatux.intune.packaging/0.9.0.98) | 0.9.0.98
 
@@ -505,14 +577,6 @@ A PowerShell Module for working with and managing Azure Devops
 
 __Downloads__: 1,945 | __Repository__: https://github.com/Azure-Devops-PowerShell-Module
 
-## [Compex.ServerManagement](https://www.powershellgallery.com/Packages/Compex.ServerManagement/0.1.0) | 0.1.0
-
-### Published: 07/19/2024 21:19:54 by mark.studer
-
-Module for managing servers.
-
-__Downloads__: 0 | __Repository__: 
-
 ## [AzureHelper](https://www.powershellgallery.com/Packages/AzureHelper/1.0.69) | 1.0.69
 
 ### Published: 07/19/2024 20:06:55 by Paul Harrison
@@ -521,14 +585,6 @@ This module provides cmdlets to help in daily work, find cost savings, and repor
 
 __Downloads__: 3,118 | __Repository__: 
 
-## [SATLogger](https://www.powershellgallery.com/Packages/SATLogger/0.0.2) | 0.0.2
-
-### Published: 07/19/2024 18:15:58 by Ryan Bakonis
-
-Logger
-
-__Downloads__: 0 | __Repository__: 
-
 ## [rhubarb-geek-nz.Joinery](https://www.powershellgallery.com/Packages/rhubarb-geek-nz.Joinery/1.0.5) | 1.0.5
 
 ### Published: 07/19/2024 16:24:10 by Roger Brown
@@ -536,14 +592,6 @@ __Downloads__: 0 | __Repository__:
 Join Tools
 
 __Downloads__: 16 | __Repository__: https://github.com/rhubarb-geek-nz/Joinery
-
-## [IOInfoExtensions.PowerShell](https://www.powershellgallery.com/Packages/IOInfoExtensions.PowerShell/0.1.0) | 0.1.0
-
-### Published: 07/19/2024 15:52:26 by Andrew Strickland
-
-Adds quality of life Extension methods to the System.IO.DirectoryInfo and System.IO.FileInfo classes.
-
-__Downloads__: 26 | __Repository__: https://github.com/APStrickland/IOInfoExtensions
 
 ## [PSOpenAI](https://www.powershellgallery.com/Packages/PSOpenAI/4.0.0) | 4.0.0
 
@@ -641,14 +689,6 @@ A wrapper for the Microsoft.Playwright .NET library.
 
 __Downloads__: 0 | __Repository__: https://gitea.therealkeyis.me/tools/PlaywrightAutomation
 
-## [Posh-Postcodes.io](https://www.powershellgallery.com/Packages/Posh-Postcodes.io/0.1.1) | 0.1.1
-
-### Published: 07/18/2024 18:41:53 by Chris Bradshaw
-
-A PowerShell wrapper for the postcodes.io API used for working with UK postcode data
-
-__Downloads__: 0 | __Repository__: https://github.com/isjwuk/posh-postcodes.io/
-
 ## [MarsEnums](https://www.powershellgallery.com/Packages/MarsEnums/0.0.16) | 0.0.16
 
 ### Published: 07/18/2024 17:13:05 by Douglas Chen <dougpuob@gmail.com>
@@ -720,14 +760,6 @@ __Downloads__: 117 | __Repository__: https://github.com/BinaryWizard904/SecretMa
 The Devolutions.PowerShell module is a set of cmdlets that allow administrators to manage Remote Desktop Manager, Devolutions Server and Devolutions Hub Business using PowerShell. This module provides a simple and consistent interface for interacting with these products, making it easy to automate various tasks, such as creating and managing connections, sessions, and credentials, configuring security settings, and generating reports. The module can be easily integrated with other PowerShell modules, allowing administrators to automate tasks across multiple products and platforms, streamline their workflows and increase efficiency.
 
 __Downloads__: 108,593 | __Repository__: https://devolutions.net/
-
-## [WindmillClient](https://www.powershellgallery.com/Packages/WindmillClient/1.365.0) | 1.365.0
-
-### Published: 07/17/2024 16:45:40 by Windmill Labs
-
-Client for the Windmill platform.
-
-__Downloads__: 380 | __Repository__: https://github.com/windmill-labs/windmill/tree/main/powershell-client
 
 ## [ModuleTools](https://www.powershellgallery.com/Packages/ModuleTools/0.0.9) | 0.0.9
 
@@ -872,14 +904,6 @@ __Downloads__: 17,878 | __Repository__:
 A module for efficient file management, enabling seamless file downloads from Azure Blob storage, file hash comparisons, and a suite of essential file operations.
 
 __Downloads__: 71,785 | __Repository__: 
-
-## [MyAnimatedLamp](https://www.powershellgallery.com/Packages/MyAnimatedLamp/1.0.6.0) | 1.0.6.0
-
-### Published: 07/17/2024 11:28:14 by iuv
-
-Show an animated lamp.
-
-__Downloads__: 0 | __Repository__: 
 
 ## [Icewolf.EXO.SpamAnalyze](https://www.powershellgallery.com/Packages/Icewolf.EXO.SpamAnalyze/2.0.11) | 2.0.11
 
@@ -2037,28 +2061,4 @@ This modules provides Cmdlets for OCI Aivision Service
 
 __Downloads__: 5,024 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-## [OCI.PSModules.Aispeech](https://www.powershellgallery.com/Packages/OCI.PSModules.Aispeech/86.3.0) | 86.3.0
-
-### Published: 07/16/2024 19:36:26 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Aispeech Service
-
-__Downloads__: 5,334 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Ailanguage](https://www.powershellgallery.com/Packages/OCI.PSModules.Ailanguage/86.3.0) | 86.3.0
-
-### Published: 07/16/2024 19:36:21 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Ailanguage Service
-
-__Downloads__: 8,653 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Aidocument](https://www.powershellgallery.com/Packages/OCI.PSModules.Aidocument/86.3.0) | 86.3.0
-
-### Published: 07/16/2024 19:36:14 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Aidocument Service
-
-__Downloads__: 3,825 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-*Updated: Monday, 22 July 2024 17:51:39 UTC*
+*Updated: Tuesday, 23 July 2024 02:10:15 UTC*
