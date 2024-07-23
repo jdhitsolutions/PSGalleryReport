@@ -3,6 +3,38 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [EasyPIM](https://www.powershellgallery.com/Packages/EasyPIM/1.6.6) | 1.6.6
+
+### Published: 07/23/2024 08:06:43 by Loïc MICHEL
+
+Manage PIM Azure Resource, PIM Entra role and PIM for Group settings and assignments with simplicity in mind
+
+__Downloads__: 2,992 | __Repository__: https://github.com/kayasax/EasyPIM/
+
+## [ibPS](https://www.powershellgallery.com/Packages/ibPS/1.9.8.1) | 1.9.8.1
+
+### Published: 07/23/2024 07:39:36 by Mat Cox
+
+InfoBlox BloxOne PowerShell Module
+
+__Downloads__: 414 | __Repository__: https://github.com/TehMuffinMoo/ibPS
+
+## [TisaneLampClient](https://www.powershellgallery.com/Packages/TisaneLampClient/7.1.3) | 7.1.3
+
+### Published: 07/23/2024 05:55:32 by CR
+
+Client side scripts for Tisane to modify language models
+
+__Downloads__: 672 | __Repository__: 
+
+## [Meraki](https://www.powershellgallery.com/Packages/Meraki/1.1.0) | 1.1.0
+
+### Published: 07/23/2024 02:12:58 by Alex Heimbuch
+
+A PowerShell module for the Cisco Meraki API
+
+__Downloads__: 7,010 | __Repository__: 
+
 ## [MicrosoftPlaces2](https://www.powershellgallery.com/Packages/MicrosoftPlaces2/0.0.1) | 0.0.1
 
 ### Published: 07/22/2024 23:54:55 by americks
@@ -26,14 +58,6 @@ __Downloads__: 0 | __Repository__: https://bitbucket.org/compexlegal/newrelic.ag
 PowerShell Module for Managing VMware vSAN Data Protection
 
 __Downloads__: 8 | __Repository__: https://github.com/lamw/VMware.Community.VSANDP
-
-## [Compex.ServerManagement](https://www.powershellgallery.com/Packages/Compex.ServerManagement/0.2.0) | 0.2.0
-
-### Published: 07/22/2024 22:29:55 by mark.studer
-
-Module for managing servers.
-
-__Downloads__: 0 | __Repository__: 
 
 ## [Compex.NewRelic](https://www.powershellgallery.com/Packages/Compex.NewRelic/2.3.1) | 2.3.1
 
@@ -178,14 +202,6 @@ __Downloads__: 39 | __Repository__:
 Core functions required for my suite of modules.
 
 __Downloads__: 158 | __Repository__: https://github.com/ntatschner/tatux.core
-
-## [IONModule](https://www.powershellgallery.com/Packages/IONModule/0.0.1) | 0.0.1
-
-### Published: 07/22/2024 13:04:08 by Ben Weinberg - Bweinberg@prime-networks.co.uk
-
-Powershell Module for TD Synexx ION API
-
-__Downloads__: 0 | __Repository__: https://github.com/BNWEIN/IONModule/
 
 ## [PSModulePublisher](https://www.powershellgallery.com/Packages/PSModulePublisher/0.10.2) | 0.10.2
 
@@ -428,14 +444,6 @@ A PowerShell module to manage the PATH environment variable on Windows.
 
 __Downloads__: 493 | __Repository__: https://github.com/PSModule/PATH
 
-## [psCandy](https://www.powershellgallery.com/Packages/psCandy/0.3.1) | 0.3.1
-
-### Published: 07/21/2024 09:48:11 by Yves Godart
-
-This module provides classes for Eye-Candy in the console.
-
-__Downloads__: 0 | __Repository__: https://github.com/Yves848/psCandy/tree/master
-
 ## [OpenAI](https://www.powershellgallery.com/Packages/OpenAI/0.0.2) | 0.0.2
 
 ### Published: 07/21/2024 09:39:00 by PSModule
@@ -585,13 +593,13 @@ This module provides cmdlets to help in daily work, find cost savings, and repor
 
 __Downloads__: 3,118 | __Repository__: 
 
-## [rhubarb-geek-nz.Joinery](https://www.powershellgallery.com/Packages/rhubarb-geek-nz.Joinery/1.0.5) | 1.0.5
+## [IOInfoExtensions.PowerShell](https://www.powershellgallery.com/Packages/IOInfoExtensions.PowerShell/0.1.0) | 0.1.0
 
-### Published: 07/19/2024 16:24:10 by Roger Brown
+### Published: 07/19/2024 15:52:26 by Andrew Strickland
 
-Join Tools
+Adds quality of life Extension methods to the System.IO.DirectoryInfo and System.IO.FileInfo classes.
 
-__Downloads__: 16 | __Repository__: https://github.com/rhubarb-geek-nz/Joinery
+__Downloads__: 26 | __Repository__: https://github.com/APStrickland/IOInfoExtensions
 
 ## [PSOpenAI](https://www.powershellgallery.com/Packages/PSOpenAI/4.0.0) | 4.0.0
 
@@ -688,6 +696,14 @@ __Downloads__: 212,635 | __Repository__: https://github.com/Microsoft/unitysetup
 A wrapper for the Microsoft.Playwright .NET library.
 
 __Downloads__: 0 | __Repository__: https://gitea.therealkeyis.me/tools/PlaywrightAutomation
+
+## [Posh-Postcodes.io](https://www.powershellgallery.com/Packages/Posh-Postcodes.io/0.1.1) | 0.1.1
+
+### Published: 07/18/2024 18:41:53 by Chris Bradshaw
+
+A PowerShell wrapper for the postcodes.io API used for working with UK postcode data
+
+__Downloads__: 0 | __Repository__: https://github.com/isjwuk/posh-postcodes.io/
 
 ## [MarsEnums](https://www.powershellgallery.com/Packages/MarsEnums/0.0.16) | 0.0.16
 
@@ -904,6 +920,14 @@ __Downloads__: 17,878 | __Repository__:
 A module for efficient file management, enabling seamless file downloads from Azure Blob storage, file hash comparisons, and a suite of essential file operations.
 
 __Downloads__: 71,785 | __Repository__: 
+
+## [MyAnimatedLamp](https://www.powershellgallery.com/Packages/MyAnimatedLamp/1.0.6.0) | 1.0.6.0
+
+### Published: 07/17/2024 11:28:14 by iuv
+
+Show an animated lamp.
+
+__Downloads__: 0 | __Repository__: 
 
 ## [Icewolf.EXO.SpamAnalyze](https://www.powershellgallery.com/Packages/Icewolf.EXO.SpamAnalyze/2.0.11) | 2.0.11
 
@@ -2037,28 +2061,4 @@ This modules provides Cmdlets for OCI Apigateway Service
 
 __Downloads__: 6,810 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-## [OCI.PSModules.Announcementsservice](https://www.powershellgallery.com/Packages/OCI.PSModules.Announcementsservice/86.3.0) | 86.3.0
-
-### Published: 07/16/2024 19:36:44 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Announcementsservice Service
-
-__Downloads__: 9,310 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Analytics](https://www.powershellgallery.com/Packages/OCI.PSModules.Analytics/86.3.0) | 86.3.0
-
-### Published: 07/16/2024 19:36:38 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Analytics Service
-
-__Downloads__: 6,691 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Aivision](https://www.powershellgallery.com/Packages/OCI.PSModules.Aivision/86.3.0) | 86.3.0
-
-### Published: 07/16/2024 19:36:32 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Aivision Service
-
-__Downloads__: 5,024 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-*Updated: Tuesday, 23 July 2024 02:10:15 UTC*
+*Updated: Tuesday, 23 July 2024 09:51:39 UTC*

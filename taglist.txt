@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Tuesday, 23 July 2024 02:10:23 UTC
+Updated: Tuesday, 23 July 2024 09:51:46 UTC
 
 .bat
 .env
@@ -162,6 +162,7 @@ adcs
 add
 add-member
 add-on
+add-on.module
 add-one
 add-path
 add-type
@@ -916,6 +917,7 @@ bootstrap
 bootstrapping
 bop
 bot
+bots
 botservice
 bouncer
 boundaries
@@ -971,7 +973,6 @@ buildhelpers
 building
 buildingfile
 buildingmapping
-buildkit
 buildkite
 buildmaster
 builds
@@ -1047,7 +1048,6 @@ cat-names
 catalog
 catalogs
 catalyst
-catapult
 catesta
 catimage
 cats
@@ -1291,7 +1291,6 @@ cmdlet-testing
 cmdlets
 cmdstan
 cmgroupdiscovery
-cmhealth
 cmhealthcheck
 cminifile
 cmnetworkports
@@ -1318,7 +1317,6 @@ codegeneration
 codegenerator
 codellama
 codepoint
-codereview
 codes
 codesign
 codesigning
@@ -1505,6 +1503,7 @@ conversiontool
 convert
 convert-dtexceptiontomessage
 convert-movietogif
+convert-sid
 convert-windowsimage
 converter
 convertfrom
@@ -1712,7 +1711,6 @@ dacfx
 dacl
 dacpac
 dacpackage
-dagger
 daily
 dalle3
 dane
@@ -1757,7 +1755,6 @@ dataexplorer
 datafactory
 dataflow
 dataflowdependency
-dataframe
 datagateway
 dataintegration
 datakwaliteit
@@ -2525,7 +2522,6 @@ extract
 extraction
 extractor
 extreme-networks
-eye-candy
 eztheme
 f
 f#
@@ -2730,6 +2726,7 @@ formatdata
 formatformat-tableformat-listformat-wideformat-customformat-defaultout-defaultout-fileout-hostout-printerout-string
 formatting
 forms
+fortiauth
 forticlient
 fortify
 fortifyondemand
@@ -2835,7 +2832,6 @@ gemini
 geminiprotocol
 gemlog
 gemtext
-genai
 general
 generate
 generate-dockerimagevariants
@@ -3124,7 +3120,6 @@ healthz
 heartbeatdiscovery
 heat
 heating
-heavenbay
 helium
 helix
 hello
@@ -3230,7 +3225,6 @@ hpeosprovisioncmdlets
 hpesmartarraycmdlets
 hpesynergy
 hponeview
-hpwritemanager
 hris
 hrprovisioning
 hsdp
@@ -3444,6 +3438,7 @@ instance
 instant
 instapush
 instorage
+int
 intacct
 integrated
 integratedscriptingeditor
@@ -3559,6 +3554,7 @@ issues
 isvalidemail
 isvalidip
 it
+it-support
 it-tool
 it-tools
 italic-text
@@ -3659,6 +3655,7 @@ karabiner
 karabiner-elements
 karma
 kaseya
+kaseyavsa
 kaspersky
 katakana
 kb
@@ -3713,6 +3710,7 @@ kodi
 korn
 kotlin
 kql
+kraken
 krane
 krbtgt
 krick
@@ -3894,7 +3892,6 @@ lock
 lockbox
 lockdisplaytimeout
 lockdown
-lockfile
 locking
 lockoutreport
 lockscreen
@@ -4558,7 +4555,6 @@ ngfw
 nginx
 nhl
 nic
-nic.ru
 nightmare
 ninite
 ninja
@@ -4635,6 +4631,7 @@ nuget.exe
 nuget.org
 number
 numlock
+nummapper
 nunit
 nupkg
 nuspec
@@ -5024,6 +5021,7 @@ personal
 personalisation
 personalization
 personalvault
+personio
 pester
 pf
 pfe
@@ -5227,6 +5225,7 @@ poshy-wrap-yum
 poshy-wrap-zypper
 position
 post
+postcode
 postgre
 postgres
 postgresql
@@ -5249,11 +5248,11 @@ powerbot
 powercli
 powercligoodies
 powercommander
-powerconfiguration
 powerdex
 powerforensics
 powergraph
 powergui
+powermax
 powerpack
 powerplan
 powerplateform
@@ -7254,6 +7253,7 @@ pscommand_zwp
 pscommander
 psconfasia
 psconfeu
+psconfig
 pscore
 pscredential
 pscribo
@@ -8372,6 +8372,7 @@ psngenposh
 psobject
 psoutlog
 pspath
+pspersonio
 pspowerhour
 psprofiler
 psproject
@@ -8610,7 +8611,10 @@ recovery
 recoveryservices
 recruiter
 recrutch
+recurse
 recursion
+recursivefilesandfoldersdownload
+recursivefilesandfoldersupload
 recyclebin
 red
 redact
@@ -9025,6 +9029,7 @@ screensaver
 screenscraping
 screenshot
 script
+script_version
 script-module
 script-to-assembly
 script-to-executable
@@ -9156,7 +9161,6 @@ seppmail
 seppmail.cloud
 seq
 sequence
-serial
 serialization
 serialize
 sericemanagement
@@ -9246,9 +9250,14 @@ shared
 sharefile
 sharepoint
 sharepoint_online
+sharepoint-on-prem
 sharepoint-online
+sharepoint-product-configuration-wizard
 sharepoint2013
+sharepointdevelopmentcommunity
 sharepointonline
+sharepointpnp
+sharepointpnppowershellonline.add-on.module
 shares
 sheets
 shell
@@ -9302,8 +9311,6 @@ single
 singlestore
 singleton
 sinks
-sintez
-sintez.module.rds
 sit
 site
 site_navigation
@@ -9869,7 +9876,6 @@ techedna2014
 techlog
 technology
 techsmith
-tel
 telegram
 telegram-bot
 telegram-bot-api
@@ -9941,7 +9947,6 @@ text-to-image
 text-to-speach"
 text-to-speech
 text2image
-textanalysis
 textbuffer
 texting
 texting-emoji
@@ -10020,6 +10025,7 @@ toggl
 toggle
 token
 tokenlifetime
+tokens
 toml
 tonoref
 tookit
@@ -10053,6 +10059,7 @@ tracert
 tracing
 tracker
 tracking
+trading
 traffic
 trafficfiltering
 trafficmanager
@@ -10125,7 +10132,6 @@ tsqlbestpractice
 tst
 tst1
 tst3
-tsv
 ttrpg
 tts
 tubedownloader
@@ -10302,7 +10308,6 @@ upgrade
 uplift
 uplink
 ups
-upsource
 upstream
 uptime
 uptimerobot
@@ -10864,7 +10869,6 @@ write-slog
 write-wansi
 writeaccess
 writelog
-writemanager
 writeprogress
 writer
 ws-federation
