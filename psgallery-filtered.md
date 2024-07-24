@@ -3,6 +3,46 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [Microsoft-Extractor-Suite](https://www.powershellgallery.com/Packages/Microsoft-Extractor-Suite/2.0.2) | 2.0.2
+
+### Published: 07/24/2024 08:08:50 by Joey Rentenaar & Korstiaan Stam
+
+Microsoft-Extractor-Suite is a fully-featured, actively-maintained, Powershell tool designed to streamline the process of collecting all necessary data and information from various sources within Microsoft.
+
+__Downloads__: 3,449 | __Repository__: 
+
+## [DevolutionsGateway](https://www.powershellgallery.com/Packages/DevolutionsGateway/2024.3.0) | 2024.3.0
+
+### Published: 07/24/2024 07:07:03 by Devolutions
+
+Devolutions Gateway PowerShell Module
+
+__Downloads__: 8,866 | __Repository__: https://github.com/Devolutions/devolutions-gateway/tree/master/powershell/
+
+## [PSParquet](https://www.powershellgallery.com/Packages/PSParquet/0.2.13) | 0.2.13
+
+### Published: 07/24/2024 06:54:45 by Axel Bøg Andersen
+
+Import and export objects to parquet format
+
+__Downloads__: 2,249 | __Repository__: https://github.com/Agazoth/PSParquet
+
+## [JyskIT.Automation](https://www.powershellgallery.com/Packages/JyskIT.Automation/1.1.3) | 1.1.3
+
+### Published: 07/24/2024 06:37:12 by Jysk IT
+
+Provides different cmdlets for automating Microsoft 365 and related services.
+
+__Downloads__: 631 | __Repository__: 
+
+## [PSNetScanners](https://www.powershellgallery.com/Packages/PSNetScanners/1.0.0) | 1.0.0
+
+### Published: 07/24/2024 02:36:16 by Santiago Squarzon
+
+tcp and icmp async scanners for powershell
+
+__Downloads__: 0 | __Repository__: https://github.com/santisq/PSNetScanners
+
 ## [PassPushPosh](https://www.powershellgallery.com/Packages/PassPushPosh/0.3.0) | 0.3.0
 
 ### Published: 07/24/2024 01:39:52 by Adam Burley
@@ -117,14 +157,6 @@ __Downloads__: 6,670 | __Repository__: https://github.com/oracle/oci-powershell-
 This modules provides Cmdlets for OCI Usage Service
 
 __Downloads__: 5,287 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [Compex.NewRelic.Agents](https://www.powershellgallery.com/Packages/Compex.NewRelic.Agents/0.3.0) | 0.3.0
-
-### Published: 07/23/2024 20:28:08 by Mark Studer
-
-Module for working with New Relic agents on a server.
-
-__Downloads__: 0 | __Repository__: https://bitbucket.org/compexlegal/newrelic.agents.ps/src/master/
 
 ## [OCI.PSModules.Threatintelligence](https://www.powershellgallery.com/Packages/OCI.PSModules.Threatintelligence/86.4.0) | 86.4.0
 
@@ -1230,6 +1262,14 @@ A module for reporting on your Rubrik Security Cloud instance
 
 __Downloads__: 15 | __Repository__: https://github.com/joshuastenhouse/rscreporting
 
+## [JsonEditorHtml](https://www.powershellgallery.com/Packages/JsonEditorHtml/0.1.1) | 0.1.1
+
+### Published: 07/23/2024 14:22:30 by Douglas S. Rios (DrIOSx)
+
+A PowerShell module for exporting Json files to an editable html file for export.
+
+__Downloads__: 0 | __Repository__: 
+
 ## [easypeasy](https://www.powershellgallery.com/Packages/easypeasy/1.4.1) | 1.4.1
 
 ### Published: 07/23/2024 13:47:22 by Igor Akkerman
@@ -1301,14 +1341,6 @@ __Downloads__: 1,796 | __Repository__:
 Manage PIM Azure Resource, PIM Entra role and PIM for Group settings and assignments with simplicity in mind
 
 __Downloads__: 2,992 | __Repository__: https://github.com/kayasax/EasyPIM/
-
-## [PSParquet](https://www.powershellgallery.com/Packages/PSParquet/0.2.12) | 0.2.12
-
-### Published: 07/23/2024 07:46:21 by Axel Bøg Andersen
-
-Import and export objects to parquet format
-
-__Downloads__: 2,249 | __Repository__: https://github.com/Agazoth/PSParquet
 
 ## [ibPS](https://www.powershellgallery.com/Packages/ibPS/1.9.8.1) | 1.9.8.1
 
@@ -1494,14 +1526,6 @@ Google Drive and Google Sheets REST Api module
 
 __Downloads__: 5,206 | __Repository__: https://github.com/MVKozlov/GMGoogleDrive
 
-## [JyskIT.Automation](https://www.powershellgallery.com/Packages/JyskIT.Automation/1.1.2) | 1.1.2
-
-### Published: 07/22/2024 11:54:37 by Jysk IT
-
-Provides different cmdlets for automating Microsoft 365 and related services.
-
-__Downloads__: 631 | __Repository__: 
-
 ## [PsComplete](https://www.powershellgallery.com/Packages/PsComplete/0.0.27) | 0.0.27
 
 ### Published: 07/22/2024 07:45:37 by ieviev
@@ -1662,14 +1686,6 @@ __Downloads__: 6,536 | __Repository__: https://github.com/PSModule/Store
 A PowerShell module with a collection of functions that should have been in PowerShell to start with.
 
 __Downloads__: 18,695 | __Repository__: https://github.com/PSModule/Utilities
-
-## [Sodium](https://www.powershellgallery.com/Packages/Sodium/0.0.3) | 0.0.3
-
-### Published: 07/21/2024 12:47:17 by PSModule
-
-A PowerShell module for handling Sodium encrypted secrets.
-
-__Downloads__: 26 | __Repository__: https://github.com/PSModule/Sodium
 
 ## [WoW](https://www.powershellgallery.com/Packages/WoW/0.0.18) | 0.0.18
 
@@ -1964,6 +1980,14 @@ Tools for managing and automating your Unity installs and projects.
 
 __Downloads__: 212,635 | __Repository__: https://github.com/Microsoft/unitysetup.powershell
 
+## [PlaywrightAutomation](https://www.powershellgallery.com/Packages/PlaywrightAutomation/0.2.1) | 0.2.1
+
+### Published: 07/18/2024 19:42:42 by Cameron S. Williamson
+
+A wrapper for the Microsoft.Playwright .NET library.
+
+__Downloads__: 0 | __Repository__: https://gitea.therealkeyis.me/tools/PlaywrightAutomation
+
 ## [Posh-Postcodes.io](https://www.powershellgallery.com/Packages/Posh-Postcodes.io/0.1.1) | 0.1.1
 
 ### Published: 07/18/2024 18:41:53 by Chris Bradshaw
@@ -2036,28 +2060,4 @@ Bitwarden/Vaultwarden extension for the PowerShell SecretManager allowing you to
 
 __Downloads__: 117 | __Repository__: https://github.com/BinaryWizard904/SecretManagement.Warden
 
-## [Devolutions.PowerShell](https://www.powershellgallery.com/Packages/Devolutions.PowerShell/2024.2.2) | 2024.2.2
-
-### Published: 07/17/2024 17:39:34 by Devolutions
-
-The Devolutions.PowerShell module is a set of cmdlets that allow administrators to manage Remote Desktop Manager, Devolutions Server and Devolutions Hub Business using PowerShell. This module provides a simple and consistent interface for interacting with these products, making it easy to automate various tasks, such as creating and managing connections, sessions, and credentials, configuring security settings, and generating reports. The module can be easily integrated with other PowerShell modules, allowing administrators to automate tasks across multiple products and platforms, streamline their workflows and increase efficiency.
-
-__Downloads__: 108,593 | __Repository__: https://devolutions.net/
-
-## [ModuleTools](https://www.powershellgallery.com/Packages/ModuleTools/0.0.9) | 0.0.9
-
-### Published: 07/17/2024 16:09:10 by Manjunath Beli
-
-ModuleTools is a versatile, standalone PowerShell module builder. Create anything from simple to robust modules with ease. Built for CICD and Automation.
-
-__Downloads__: 103 | __Repository__: https://github.com/belibug/ModuleTools
-
-## [pwps_dab](https://www.powershellgallery.com/Packages/pwps_dab/23.4.1) | 23.4.1
-
-### Published: 07/17/2024 15:51:31 by Bentley Systems Incorporated
-
-ProjectWise PowerShell Cmdlets from System Architecture Group
-
-__Downloads__: 89,118 | __Repository__: 
-
-*Updated: Wednesday, 24 July 2024 02:10:14 UTC*
+*Updated: Wednesday, 24 July 2024 09:51:53 UTC*
