@@ -1571,9 +1571,9 @@ MSAL.NET (Microsoft.Identity.Client) is an authentication library which enables 
 
 __Downloads__: 18,724,326 | __Repository__: https://github.com/jasoth/MSAL.PS
 
-## [VMware.VimAutomation.Sdk](https://www.powershellgallery.com/Packages/VMware.VimAutomation.Sdk/13.2.0.22643730) | 13.2.0.22643730
+## [VMware.VimAutomation.Sdk](https://www.powershellgallery.com/Packages/VMware.VimAutomation.Sdk/13.3.0.24144419) | 13.3.0.24144419
 
-### Published: 10/24/2023 07:16:32 by VMware
+### Published: 07/24/2024 16:56:33 by Broadcom
 
 This PowerShell module contains PowerCLI Sdk.
 
@@ -1587,9 +1587,9 @@ Module for creating and displaying Toast Notifications on Microsoft Windows 10.
 
 __Downloads__: 18,666,345 | __Repository__: https://github.com/Windos/BurntToast
 
-## [VMware.VimAutomation.Common](https://www.powershellgallery.com/Packages/VMware.VimAutomation.Common/13.2.0.22643733) | 13.2.0.22643733
+## [VMware.VimAutomation.Common](https://www.powershellgallery.com/Packages/VMware.VimAutomation.Common/13.3.0.24144419) | 13.3.0.24144419
 
-### Published: 10/24/2023 07:16:41 by VMware
+### Published: 07/24/2024 16:56:49 by Broadcom
 
 This PowerShell module contains functionality required by multiple PowerCLI modules.
 
@@ -1613,9 +1613,9 @@ Powershell module for creating and extracting 7-Zip archives
 
 __Downloads__: 16,956,226 | __Repository__: https://github.com/thoemmi/7Zip4Powershell
 
-## [VMware.Vim](https://www.powershellgallery.com/Packages/VMware.Vim/8.2.0.22643731) | 8.2.0.22643731
+## [VMware.Vim](https://www.powershellgallery.com/Packages/VMware.Vim/8.3.0.24144419) | 8.3.0.24144419
 
-### Published: 10/24/2023 07:28:38 by VMware
+### Published: 07/24/2024 16:57:08 by Broadcom
 
 This PowerShell module contains PowerCLI Vim.
 
@@ -1637,17 +1637,17 @@ DSC resources for configuring common operating systems features, files and setti
 
 __Downloads__: 15,643,578 | __Repository__: https://github.com/dsccommunity/xPSDesiredStateConfiguration
 
-## [VMware.VimAutomation.Cis.Core](https://www.powershellgallery.com/Packages/VMware.VimAutomation.Cis.Core/13.2.0.22643734) | 13.2.0.22643734
+## [VMware.VimAutomation.Cis.Core](https://www.powershellgallery.com/Packages/VMware.VimAutomation.Cis.Core/13.3.0.24144419) | 13.3.0.24144419
 
-### Published: 10/24/2023 07:28:47 by VMware
+### Published: 07/24/2024 16:57:25 by Broadcom
 
 This PowerShell module contains PowerCLI Cloud Infrastructure Suite cmdlets.
 
 __Downloads__: 15,572,114 | __Repository__: https://developer.vmware.com/powercli
 
-## [VMware.VimAutomation.Core](https://www.powershellgallery.com/Packages/VMware.VimAutomation.Core/13.2.0.22643732) | 13.2.0.22643732
+## [VMware.VimAutomation.Core](https://www.powershellgallery.com/Packages/VMware.VimAutomation.Core/13.3.0.24144419) | 13.3.0.24144419
 
-### Published: 10/24/2023 07:29:01 by VMware
+### Published: 07/24/2024 17:03:56 by Broadcom
 
 This PowerShell module contains Windows PowerShell cmdlets for managing vSphere.
 
@@ -1693,9 +1693,9 @@ Microsoft Graph PowerShell Cmdlets
 
 __Downloads__: 13,066,757 | __Repository__: https://github.com/microsoftgraph/msgraph-sdk-powershell
 
-## [VMware.VimAutomation.Vds](https://www.powershellgallery.com/Packages/VMware.VimAutomation.Vds/13.1.0.21610933) | 13.1.0.21610933
+## [VMware.VimAutomation.Vds](https://www.powershellgallery.com/Packages/VMware.VimAutomation.Vds/13.3.0.24144419) | 13.3.0.24144419
 
-### Published: 04/18/2023 13:04:09 by VMware
+### Published: 07/24/2024 17:11:04 by Broadcom
 
 This PowerShell module contains PowerCLI VDS cmdlets.
 
@@ -1717,9 +1717,9 @@ Microsoft Azure PowerShell - Service Management
 
 __Downloads__: 12,225,122 | __Repository__: https://github.com/Azure/azure-powershell
 
-## [VMware.VimAutomation.Storage](https://www.powershellgallery.com/Packages/VMware.VimAutomation.Storage/13.2.0.22643728) | 13.2.0.22643728
+## [VMware.VimAutomation.Storage](https://www.powershellgallery.com/Packages/VMware.VimAutomation.Storage/13.3.0.24144419) | 13.3.0.24144419
 
-### Published: 10/24/2023 07:29:18 by VMware
+### Published: 07/24/2024 17:04:14 by Broadcom
 
 This Windows PowerShell module contains PowerCLI storage management cmdlets.
 
@@ -1757,13 +1757,13 @@ Microsoft Azure PowerShell - Azure Backup service cmdlets for Azure Resource Man
 
 __Downloads__: 11,141,177 | __Repository__: https://github.com/Azure/azure-powershell
 
-## [VMware.VimAutomation.Srm](https://www.powershellgallery.com/Packages/VMware.VimAutomation.Srm/12.7.0.20091290) | 12.7.0.20091290
+## [VMware.VimAutomation.Srm](https://www.powershellgallery.com/Packages/VMware.VimAutomation.Srm/13.3.0.24144419) | 13.3.0.24144419
 
-### Published: 07/12/2022 13:05:18 by VMware
+### Published: 07/24/2024 17:21:51 by Broadcom
 
-This Windows PowerShell module contains PowerCLI SRM cmdlets.
+This PowerShell module contains PowerCLI SRM cmdlets.
 
-__Downloads__: 10,853,871 | __Repository__: 
+__Downloads__: 10,853,871 | __Repository__: https://developer.vmware.com/powercli
 
 ## [Az.ElasticSan](https://www.powershellgallery.com/Packages/Az.ElasticSan/1.0.2) | 1.0.2
 
@@ -1773,13 +1773,13 @@ Microsoft Azure PowerShell: ElasticSan cmdlets
 
 __Downloads__: 10,772,154 | __Repository__: https://github.com/Azure/azure-powershell
 
-## [VMware.VimAutomation.License](https://www.powershellgallery.com/Packages/VMware.VimAutomation.License/12.0.0.15939670) | 12.0.0.15939670
+## [VMware.VimAutomation.License](https://www.powershellgallery.com/Packages/VMware.VimAutomation.License/13.3.0.24144419) | 13.3.0.24144419
 
-### Published: 03/31/2020 14:36:20 by VMware
+### Published: 07/24/2024 17:22:04 by Broadcom
 
-This Windows PowerShell module contains PowerCLI cmdlets for managing VMware product licenses.
+This PowerShell module contains PowerCLI cmdlets for managing VMware product licenses.
 
-__Downloads__: 10,739,998 | __Repository__: 
+__Downloads__: 10,739,998 | __Repository__: https://developer.vmware.com/powercli
 
 ## [Az.Nginx](https://www.powershellgallery.com/Packages/Az.Nginx/1.0.1) | 1.0.1
 
@@ -1805,41 +1805,41 @@ This PowerShell module contains Connect/Disconnect cmdlets for View API service.
 
 __Downloads__: 10,524,335 | __Repository__: https://developer.vmware.com/powercli
 
-## [VMware.VimAutomation.Nsxt](https://www.powershellgallery.com/Packages/VMware.VimAutomation.Nsxt/13.1.0.21606089) | 13.1.0.21606089
+## [VMware.VimAutomation.Nsxt](https://www.powershellgallery.com/Packages/VMware.VimAutomation.Nsxt/13.3.0.24144419) | 13.3.0.24144419
 
-### Published: 04/18/2023 13:06:24 by VMware
+### Published: 07/24/2024 17:18:37 by Broadcom
 
 This PowerShell module contains PowerCLI NSXT cmdlets.
 
 __Downloads__: 10,518,198 | __Repository__: https://developer.vmware.com/powercli
 
-## [VMware.VimAutomation.vROps](https://www.powershellgallery.com/Packages/VMware.VimAutomation.vROps/13.1.0.21611158) | 13.1.0.21611158
+## [VMware.VimAutomation.vROps](https://www.powershellgallery.com/Packages/VMware.VimAutomation.vROps/13.3.0.24144419) | 13.3.0.24144419
 
-### Published: 04/18/2023 13:06:17 by VMware
+### Published: 07/24/2024 17:19:19 by Broadcom
 
 This PowerShell module contains PowerCLI vROps cmdlets.
 
 __Downloads__: 10,511,338 | __Repository__: https://developer.vmware.com/powercli
 
-## [VMware.VimAutomation.Cloud](https://www.powershellgallery.com/Packages/VMware.VimAutomation.Cloud/13.1.0.21611174) | 13.1.0.21611174
+## [VMware.VimAutomation.Cloud](https://www.powershellgallery.com/Packages/VMware.VimAutomation.Cloud/13.3.0.24144419) | 13.3.0.24144419
 
-### Published: 04/18/2023 13:07:19 by VMware
+### Published: 07/24/2024 17:22:51 by Broadcom
 
 This PowerShell module contains PowerCLI Cloud cmdlets.
 
 __Downloads__: 10,489,053 | __Repository__: https://developer.vmware.com/powercli
 
-## [VMware.VimAutomation.Vmc](https://www.powershellgallery.com/Packages/VMware.VimAutomation.Vmc/13.2.0.22643729) | 13.2.0.22643729
+## [VMware.VimAutomation.Vmc](https://www.powershellgallery.com/Packages/VMware.VimAutomation.Vmc/13.3.0.24144419) | 13.3.0.24144419
 
-### Published: 10/24/2023 07:33:17 by VMware
+### Published: 07/24/2024 17:21:35 by Broadcom
 
 This PowerShell module contains PowerCLI VMC cmdlets.
 
 __Downloads__: 10,463,814 | __Repository__: https://developer.vmware.com/powercli
 
-## [VMware.ImageBuilder](https://www.powershellgallery.com/Packages/VMware.ImageBuilder/8.0.2.22643727) | 8.0.2.22643727
+## [VMware.ImageBuilder](https://www.powershellgallery.com/Packages/VMware.ImageBuilder/13.3.0.24144419) | 13.3.0.24144419
 
-### Published: 10/24/2023 07:32:01 by VMware
+### Published: 07/24/2024 17:13:08 by Broadcom
 
 This PowerShell module contains PowerCLI ImageBuilder cmdlets.
 
@@ -1853,29 +1853,29 @@ PowerShell module for searching and downloading offline updates from https://www
 
 __Downloads__: 10,424,317 | __Repository__: https://github.com/ryan-jan/MSCatalog
 
-## [VMware.DeployAutomation](https://www.powershellgallery.com/Packages/VMware.DeployAutomation/8.0.2.22643738) | 8.0.2.22643738
+## [VMware.DeployAutomation](https://www.powershellgallery.com/Packages/VMware.DeployAutomation/13.3.0.24144419) | 13.3.0.24144419
 
-### Published: 10/24/2023 07:33:25 by VMware
+### Published: 07/24/2024 17:19:05 by Broadcom
 
 This PowerShell module contains PowerCLI Auto Deploy cmdlets.
 
 __Downloads__: 10,308,419 | __Repository__: https://developer.vmware.com/powercli
 
-## [VMware.PowerCLI](https://www.powershellgallery.com/Packages/VMware.PowerCLI/13.2.1.22851661) | 13.2.1.22851661
+## [VMware.PowerCLI](https://www.powershellgallery.com/Packages/VMware.PowerCLI/13.3.0.24144419) | 13.3.0.24144419
 
-### Published: 11/27/2023 17:10:50 by VMware
+### Published: 07/24/2024 17:26:41 by Broadcom
 
 This Windows PowerShell module contains VMware.PowerCLI
 
-__Downloads__: 10,248,874 | __Repository__: 
+__Downloads__: 10,248,874 | __Repository__: https://developer.vmware.com/powercli
 
-## [VMware.VumAutomation](https://www.powershellgallery.com/Packages/VMware.VumAutomation/12.7.0.20091294) | 12.7.0.20091294
+## [VMware.VumAutomation](https://www.powershellgallery.com/Packages/VMware.VumAutomation/13.3.0.24144419) | 13.3.0.24144419
 
-### Published: 07/12/2022 13:06:31 by VMware
+### Published: 07/24/2024 17:25:49 by Broadcom
 
-This Windows PowerShell module contains PowerCLI VUM cmdlets.
+This PowerShell module contains PowerCLI VUM cmdlets.
 
-__Downloads__: 10,218,158 | __Repository__: 
+__Downloads__: 10,218,158 | __Repository__: https://developer.vmware.com/powercli
 
 ## [VMware.VimAutomation.StorageUtility](https://www.powershellgallery.com/Packages/VMware.VimAutomation.StorageUtility/1.6.0.0) | 1.6.0.0
 
@@ -1901,21 +1901,21 @@ Microsoft Azure PowerShell - Machine Learning Compute cmdlets for Azure Resource
 
 __Downloads__: 9,993,600 | __Repository__: https://github.com/Azure/azure-powershell
 
-## [VMware.VimAutomation.Security](https://www.powershellgallery.com/Packages/VMware.VimAutomation.Security/13.1.0.21606510) | 13.1.0.21606510
+## [VMware.VimAutomation.Security](https://www.powershellgallery.com/Packages/VMware.VimAutomation.Security/13.3.0.24144419) | 13.3.0.24144419
 
-### Published: 04/18/2023 13:06:10 by VMware
+### Published: 07/24/2024 17:18:51 by Broadcom
 
 This PowerShell module contains PowerCLI security management cmdlets.
 
 __Downloads__: 9,807,309 | __Repository__: https://developer.vmware.com/powercli
 
-## [VMware.VimAutomation.Hcx](https://www.powershellgallery.com/Packages/VMware.VimAutomation.Hcx/13.0.0.20803747) | 13.0.0.20803747
+## [VMware.VimAutomation.Hcx](https://www.powershellgallery.com/Packages/VMware.VimAutomation.Hcx/13.3.0.24144419) | 13.3.0.24144419
 
-### Published: 11/21/2022 14:14:29 by VMware
+### Published: 07/24/2024 17:25:35 by Broadcom
 
 This Windows PowerShell module contains PowerCLI HCX cmdlets.
 
-__Downloads__: 9,716,679 | __Repository__: 
+__Downloads__: 9,716,679 | __Repository__: https://developer.vmware.com/powercli
 
 ## [Foil](https://www.powershellgallery.com/Packages/Foil/0.3.1) | 0.3.1
 
@@ -1987,9 +1987,9 @@ Module with DSC resources for deployment and configuration of Microsoft SQL Serv
 
 __Downloads__: 9,043,939 | __Repository__: https://github.com/dsccommunity/SqlServerDsc
 
-## [VMware.CloudServices](https://www.powershellgallery.com/Packages/VMware.CloudServices/13.2.0.22643735) | 13.2.0.22643735
+## [VMware.CloudServices](https://www.powershellgallery.com/Packages/VMware.CloudServices/13.3.0.24144419) | 13.3.0.24144419
 
-### Published: 10/24/2023 07:30:18 by VMware
+### Published: 07/24/2024 17:06:28 by Broadcom
 
 PowerShell module that contains command for VMware Cloud Services.
 
@@ -2061,13 +2061,13 @@ Microsoft Graph PowerShell Cmdlets
 
 __Downloads__: 8,597,646 | __Repository__: https://github.com/microsoftgraph/msgraph-sdk-powershell
 
-## [VMware.VimAutomation.WorkloadManagement](https://www.powershellgallery.com/Packages/VMware.VimAutomation.WorkloadManagement/12.4.0.18627055) | 12.4.0.18627055
+## [VMware.VimAutomation.WorkloadManagement](https://www.powershellgallery.com/Packages/VMware.VimAutomation.WorkloadManagement/13.3.0.24144419) | 13.3.0.24144419
 
-### Published: 09/14/2021 14:23:30 by VMware
+### Published: 07/24/2024 17:25:20 by Broadcom
 
 PowerShell commands for automation of workloads related functionality in vSphere.
 
-__Downloads__: 8,371,659 | __Repository__: 
+__Downloads__: 8,371,659 | __Repository__: https://developer.vmware.com/powercli
 
 ## [OMSIngestionAPI](https://www.powershellgallery.com/Packages/OMSIngestionAPI/1.6.0) | 1.6.0
 
@@ -2192,4 +2192,4 @@ Microsoft Graph PowerShell Cmdlets
 
 __Downloads__: 6,881,649 | __Repository__: https://github.com/microsoftgraph/msgraph-sdk-powershell
 
-*Updated: Wednesday, 24 July 2024 09:51:57 UTC*
+*Updated: Wednesday, 24 July 2024 17:51:49 UTC*
