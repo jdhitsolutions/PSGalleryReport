@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Wednesday, 24 July 2024 02:10:21 UTC
+Updated: Wednesday, 24 July 2024 09:52:01 UTC
 
 .bat
 .env
@@ -20,6 +20,7 @@ Updated: Wednesday, 24 July 2024 02:10:21 UTC
 🍣
 💩
 🙇
+1&1
 10
 11
 1607
@@ -398,6 +399,7 @@ appcmd
 appconfiguration
 appdynamics
 appearance
+appender
 appian
 appinsights
 applayering
@@ -632,7 +634,6 @@ aws-vault
 aws.tools.powershell
 awscli
 awspricelist
-axapta
 axinom
 axis
 axium
@@ -689,7 +690,6 @@ azureartifacts
 azureas
 azureatp
 azureautomation
-azureautomationaccount
 azureautomationnotsupported
 azurebasicloadbalancerupgrade
 azurecli
@@ -827,7 +827,6 @@ bibtex
 bicep
 bicepnet
 big-ip
-big-iq
 bigcommerce
 bigeval
 bigfix
@@ -926,8 +925,6 @@ brainy
 branch
 branch-rename
 brave
-brawlapi
-brawlstars
 brazencloud
 bre
 breach
@@ -1046,6 +1043,7 @@ cat-names
 catalog
 catalogs
 catalyst
+catapult
 catesta
 catimage
 cats
@@ -1166,8 +1164,10 @@ cif
 cifv3
 cil
 cim
+cim_computersystem
 cimfs
 cimi
+ciminstance
 cims
 cimsession
 cinema
@@ -1287,6 +1287,7 @@ cmdlet-testing
 cmdlets
 cmdstan
 cmgroupdiscovery
+cmhealth
 cmhealthcheck
 cminifile
 cmnetworkports
@@ -1313,6 +1314,7 @@ codegeneration
 codegenerator
 codellama
 codepoint
+codereview
 codes
 codesign
 codesigning
@@ -1499,7 +1501,6 @@ conversiontool
 convert
 convert-dtexceptiontomessage
 convert-movietogif
-convert-sid
 convert-windowsimage
 converter
 convertfrom
@@ -1708,6 +1709,7 @@ dacl
 dacpac
 dacpackage
 dagger
+daily
 dalle3
 dane
 dangling
@@ -1717,6 +1719,7 @@ dark
 darktrace
 dash
 dashboard
+dashboardapi
 dashboardservice
 dast
 data
@@ -2084,6 +2087,7 @@ domainkey
 domainname
 domainnamesystem
 domains
+domino
 done.land
 donothing
 dos
@@ -2193,6 +2197,7 @@ durabletask
 dust
 dutch
 dvls
+dword
 dxexpeditions
 dynamic
 dynamic-host-configuration-protocol
@@ -2210,7 +2215,6 @@ dynamics365ce
 dynamics365fo
 dynamics365sales
 dynamics365server
-dynamicsax
 dynamicsecuritygroups
 dynamicsnav
 dynamodb
@@ -2330,6 +2334,7 @@ entity
 entityframework
 entra
 entraid
+entraidgovernance
 entropy
 enum
 enumerable
@@ -2423,6 +2428,7 @@ eventwatch
 evergreen
 everix
 evernote
+everydaypowershell
 everydayrewards
 everything
 evilprince2009
@@ -3113,6 +3119,7 @@ healthz
 heartbeatdiscovery
 heat
 heating
+heavenbay
 helium
 helix
 hello
@@ -3164,6 +3171,13 @@ hitrust
 hive
 hivehome
 hjson
+hkcu
+hkey_classes_root
+hkey_current_config
+hkey_current_user
+hkey_local_machine
+hkey_users
+hklm
 hl7
 hlds
 hls
@@ -3213,6 +3227,7 @@ hpesynergy
 hponeview
 hpwritemanager
 hris
+hrprovisioning
 hsdp
 hsl
 html
@@ -3407,13 +3422,13 @@ inspect
 inspiration
 inspirationalquotes
 inspire
+inspur
 instagram
 install
 install-module
 install-windowsimage
 installation
 installationmanager
-installedapplications
 installer
 installers
 installoffice
@@ -3422,6 +3437,7 @@ installwindows
 instance
 instant
 instapush
+instorage
 int
 intacct
 integrated
@@ -3482,6 +3498,7 @@ invoke-webrequest
 invokebuild
 invokemethod
 io
+ionos
 ios
 iot
 iotcentral
@@ -3501,10 +3518,12 @@ ipconfig
 iperf
 ipfy.org
 iphone
+ipilot
 iplookup
 ipmaths
 ipp
 iprange
+ips
 ipscan
 ipv4
 ipv4ping
@@ -3535,7 +3554,6 @@ issues
 isvalidemail
 isvalidip
 it
-it-support
 it-tool
 it-tools
 italic-text
@@ -3730,7 +3748,6 @@ lake
 lambda
 lame
 lametrictime
-lamp
 lan
 landingzones
 language
@@ -3889,6 +3906,7 @@ log-mail
 log-mails
 log-management
 log-rotation
+log4net
 loganalytics
 logbook
 logcat
@@ -4133,6 +4151,7 @@ mention
 menu
 menus
 meraki
+merakiapi
 mercurial
 merge
 mermaid
@@ -4239,6 +4258,7 @@ mittelschule
 mixedreality
 mixer
 mkdocs
+mkpasswd
 mksapiviewer
 ml
 ml.net
@@ -4380,6 +4400,7 @@ multios
 multipass
 multiple
 multiserver
+multistring
 multithread
 multithreaded
 multithreaded-helpers
@@ -4399,6 +4420,7 @@ mxlookup
 mycloudrevolution
 myget
 myhub
+myip
 myitprocess
 myjson
 myjson.com
@@ -4507,6 +4529,7 @@ new-dynamicdictionary
 new-dynamicparameter
 new-githubrelease
 new-item
+new-itemproperty
 new-modulemanifest
 new-pinneditem
 new-rdpsession
@@ -4614,6 +4637,7 @@ nunit
 nupkg
 nuspec
 nutanix
+nuwave
 nva
 nvd
 nvdimm
@@ -4745,7 +4769,6 @@ opendata
 openedge
 openfiles
 openhere
-openholidaysapi
 openid
 openidconnect
 openinghours
@@ -4919,6 +4942,7 @@ passivetotal
 passkey
 passphrase
 passphraser passphrase password generator entropy
+passwd
 password
 password_generation
 password-generator
@@ -5155,6 +5179,7 @@ poshy-env-var
 poshy-ls-isms
 poshy-lucidity
 poshy-multimedia
+poshy-net
 poshy-notify-send
 poshy-sh-isms
 poshy-sshconfig
@@ -5923,6 +5948,8 @@ pscommand_get-gittrackedfiles
 pscommand_get-gituntrackedfiles
 pscommand_get-gitwhatchangedstylized
 pscommand_get-itemnixmode
+pscommand_get-netipaddresspublic
+pscommand_get-netipaddresssimple
 pscommand_get-pwshaliasdefinition
 pscommand_get-pwshfunctiondefinition
 pscommand_get-viewer
@@ -6696,6 +6723,7 @@ pscommand_invoke-zypperverify
 pscommand_invoke-zypperversioncompare
 pscommand_invoke-zypperwhatprovides
 pscommand_invokeyumgrouplist
+pscommand_ips
 pscommand_ipy
 pscommand_ipython
 pscommand_jump
@@ -6849,6 +6877,7 @@ pscommand_mpom
 pscommand_mrperf
 pscommand_mrprep
 pscommand_mrrb
+pscommand_myip
 pscommand_new-gitbranchfromstash
 pscommand_new-gitbranchtracked
 pscommand_new-gitpatchfile
@@ -6903,6 +6932,7 @@ pscommand_peek
 pscommand_pgr
 pscommand_pi
 pscommand_pidev
+pscommand_ping
 pscommand_pip
 pscommand_pip_package_location
 pscommand_pip3
@@ -7513,6 +7543,8 @@ psfunction_get-gittrackedfiles
 psfunction_get-gituntrackedfiles
 psfunction_get-gitwhatchangedstylized
 psfunction_get-itemnixmode
+psfunction_get-netipaddresspublic
+psfunction_get-netipaddresssimple
 psfunction_get-pwshaliasdefinition
 psfunction_get-pwshfunctiondefinition
 psfunction_get-viewer
@@ -8397,7 +8429,6 @@ public-transport
 publicapi
 publicclient
 publicfolder
-publicholidays
 publicip
 publish
 publish-module
@@ -8497,6 +8528,7 @@ quotes
 quotestoliveby
 quoting
 quser
+qword
 r
 r53
 rabbit
@@ -8616,8 +8648,15 @@ reflection
 refresh
 refreshtoken
 reg
+reg_binary
+reg_dword
+reg_expand_sz
+reg_multi_sz
+reg_qword
+reg_sz
 regardscitoyen
 regcli
+regedit
 regex
 region
 regions
@@ -8670,6 +8709,7 @@ remotesession
 remoting
 remove
 remove-githubsecrets
+remove-itemproperty
 remove-pass
 remove-path
 remove-pinneditem
@@ -8959,7 +8999,6 @@ schema
 schemaextensions
 scheme
 school-information-system
-schoolholidays
 schulung
 schulverwaltung
 science
@@ -8989,7 +9028,6 @@ screensaver
 screenscraping
 screenshot
 script
-script_version
 script-module
 script-to-assembly
 script-to-executable
@@ -9169,6 +9207,7 @@ set_bios
 set-alias
 set-dnsservers
 set-githubsecrets
+set-itemproperty
 set-location
 set-openfiles
 set-ownership
@@ -9190,7 +9229,13 @@ sftp
 sfx
 sgopher
 sgw
+sha-256
+sha-512
+sha-crypt
 sha256
+sha256crypt
+sha512crypt
+shacrypt
 shadow
 shadowcopy
 shadowcopybackups
@@ -9234,7 +9279,6 @@ show
 show-command
 show-objecttree
 show-on-command
-showdemo
 showoncommand
 shred
 shuf
@@ -9265,6 +9309,8 @@ single
 singlestore
 singleton
 sinks
+sintez
+sintez.module.rds
 sit
 site
 site_navigation
@@ -9660,7 +9706,6 @@ subscriptiondefinition
 subset
 subsystem
 subtitle
-subtitles
 subversion
 success
 successfactors
@@ -9673,7 +9718,6 @@ sullivan
 summary
 summit
 sumologic
-supercell
 superheros
 supermarket
 support
@@ -9788,7 +9832,6 @@ tags
 tak
 taken
 takeown
-tally
 talxis
 tanss
 tanzu
@@ -9830,6 +9873,7 @@ techedna2014
 techlog
 technology
 techsmith
+tel
 telegram
 telegram-bot
 telegram-bot-api
@@ -9901,7 +9945,6 @@ text-to-image
 text-to-speach"
 text-to-speech
 text2image
-textanalysis
 textbuffer
 texting
 texting-emoji
@@ -10192,6 +10235,7 @@ udpclient
 udptest
 udr
 udthememode
+udword
 uefi
 uem
 ui
@@ -10263,10 +10307,12 @@ upgrade
 uplift
 uplink
 ups
+upsource
 upstream
 uptime
 uptimerobot
 uptobox
+uqword
 uri
 uri-scheme
 url
@@ -10288,7 +10334,6 @@ usap
 usb
 useful
 user
-user-environment
 userdiscovery
 usergroup
 usergroups
@@ -10347,7 +10392,6 @@ vaultwarden
 vb365
 vba
 vbaproject
-vbproj
 vbr
 vbscript
 vbsinst
@@ -10650,7 +10694,6 @@ win-ps2exe
 win10
 win2k8
 win32
-win32_installedwin32program
 win32_operatingsystem
 win32-api
 win32appmigrationtool
@@ -10668,7 +10711,6 @@ windows-api
 windows-control-panel
 windows-defender
 windows-defender-application-control
-windows-environment
 windows-explorer
 windows-features
 windows-firewall
@@ -10728,7 +10770,6 @@ windowstimezone
 windowsupdate
 windowsupdates
 windowsvirtualdesktop
-winfield
 winform
 winforms
 winget
@@ -10744,7 +10785,6 @@ wintellect
 winterminal
 winui
 wireless
-wirelessnetwork
 wireshark
 wisc
 wiscmail
@@ -10893,7 +10933,6 @@ xor
 xpath
 xpendingreboot
 xpertdoc
-xpo
 xprotect
 xpt
 xrm
