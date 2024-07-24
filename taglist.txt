@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Tuesday, 23 July 2024 17:51:53 UTC
+Updated: Wednesday, 24 July 2024 02:10:21 UTC
 
 .bat
 .env
@@ -20,7 +20,6 @@ Updated: Tuesday, 23 July 2024 17:51:53 UTC
 🍣
 💩
 🙇
-1&1
 10
 11
 1607
@@ -399,7 +398,6 @@ appcmd
 appconfiguration
 appdynamics
 appearance
-appender
 appian
 appinsights
 applayering
@@ -560,6 +558,7 @@ authentication
 authenticationcertificate
 authenticode
 authn
+author
 authoring
 authoringtools
 authorisation
@@ -630,6 +629,7 @@ aws_profile
 aws-codebuild
 aws-lambda
 aws-vault
+aws.tools.powershell
 awscli
 awspricelist
 axapta
@@ -638,7 +638,6 @@ axis
 axium
 az
 az-cli
-az.runtimeenvironment
 az.stackhci
 azautomation
 azcli
@@ -1047,7 +1046,6 @@ cat-names
 catalog
 catalogs
 catalyst
-catapult
 catesta
 catimage
 cats
@@ -1168,10 +1166,8 @@ cif
 cifv3
 cil
 cim
-cim_computersystem
 cimfs
 cimi
-ciminstance
 cims
 cimsession
 cinema
@@ -1291,7 +1287,6 @@ cmdlet-testing
 cmdlets
 cmdstan
 cmgroupdiscovery
-cmhealth
 cmhealthcheck
 cminifile
 cmnetworkports
@@ -1318,7 +1313,6 @@ codegeneration
 codegenerator
 codellama
 codepoint
-codereview
 codes
 codesign
 codesigning
@@ -1356,6 +1350,7 @@ comical
 comics
 command
 command_line
+command-line-interface
 command-validation
 commandcoverage
 commandhistory
@@ -1365,6 +1360,7 @@ commands
 commandsandresource
 commence
 comment
+comments
 commerce
 commfort
 commit
@@ -1530,6 +1526,7 @@ copilot
 copy
 copy-item
 copypaste
+copyright
 core
 coreposh
 coreutils
@@ -1649,6 +1646,7 @@ culture
 cumulative
 cumulativeupdate
 cumulocity
+curious
 curl
 curlie
 currency
@@ -1710,7 +1708,6 @@ dacl
 dacpac
 dacpackage
 dagger
-daily
 dalle3
 dane
 dangling
@@ -1720,7 +1717,6 @@ dark
 darktrace
 dash
 dashboard
-dashboardapi
 dashboardservice
 dast
 data
@@ -1855,6 +1851,7 @@ defenderforendpoint
 defenderforidentity
 defense
 deflate
+defrag
 delegated
 delegation
 delegationmodel
@@ -2087,7 +2084,6 @@ domainkey
 domainname
 domainnamesystem
 domains
-domino
 done.land
 donothing
 dos
@@ -2197,7 +2193,6 @@ durabletask
 dust
 dutch
 dvls
-dword
 dxexpeditions
 dynamic
 dynamic-host-configuration-protocol
@@ -2335,7 +2330,6 @@ entity
 entityframework
 entra
 entraid
-entraidgovernance
 entropy
 enum
 enumerable
@@ -2429,7 +2423,6 @@ eventwatch
 evergreen
 everix
 evernote
-everydaypowershell
 everydayrewards
 everything
 evilprince2009
@@ -2655,6 +2648,7 @@ findfile
 findlocation
 findplace
 findproxyforurl
+fine-print
 fine-tuning
 finops
 firebird
@@ -2742,6 +2736,7 @@ foudil
 fox
 foxpro
 fqdn
+frame
 framework
 france
 free
@@ -3169,13 +3164,6 @@ hitrust
 hive
 hivehome
 hjson
-hkcu
-hkey_classes_root
-hkey_current_config
-hkey_current_user
-hkey_local_machine
-hkey_users
-hklm
 hl7
 hlds
 hls
@@ -3225,7 +3213,6 @@ hpesynergy
 hponeview
 hpwritemanager
 hris
-hrprovisioning
 hsdp
 hsl
 html
@@ -3267,6 +3254,7 @@ hypervplugins
 hypothesis
 hysolate
 hysolatemangementconsole
+i-doit
 i2c
 ia
 iaas
@@ -3419,7 +3407,6 @@ inspect
 inspiration
 inspirationalquotes
 inspire
-inspur
 instagram
 install
 install-module
@@ -3435,7 +3422,6 @@ installwindows
 instance
 instant
 instapush
-instorage
 int
 intacct
 integrated
@@ -3496,7 +3482,6 @@ invoke-webrequest
 invokebuild
 invokemethod
 io
-ionos
 ios
 iot
 iotcentral
@@ -3516,7 +3501,6 @@ ipconfig
 iperf
 ipfy.org
 iphone
-ipilot
 iplookup
 ipmaths
 ipp
@@ -3905,7 +3889,6 @@ log-mail
 log-mails
 log-management
 log-rotation
-log4net
 loganalytics
 logbook
 logcat
@@ -3985,6 +3968,7 @@ maatschap-fortigi
 mac
 mac-address
 macaddress
+macadmins
 machine
 machinelearning
 machinelearningcompute
@@ -4066,6 +4050,7 @@ marketplaceprivateoffer
 marketplacepublisher
 marking
 marklogic
+marquee
 marvel
 marvell
 marvell_semiconductor_inc
@@ -4148,7 +4133,6 @@ mention
 menu
 menus
 meraki
-merakiapi
 mercurial
 merge
 mermaid
@@ -4255,7 +4239,6 @@ mittelschule
 mixedreality
 mixer
 mkdocs
-mkpasswd
 mksapiviewer
 ml
 ml.net
@@ -4397,7 +4380,6 @@ multios
 multipass
 multiple
 multiserver
-multistring
 multithread
 multithreaded
 multithreaded-helpers
@@ -4525,7 +4507,6 @@ new-dynamicdictionary
 new-dynamicparameter
 new-githubrelease
 new-item
-new-itemproperty
 new-modulemanifest
 new-pinneditem
 new-rdpsession
@@ -4544,6 +4525,7 @@ nexenta
 nexentastor
 nexthink
 nexus
+nexusiq
 nfsv3
 ngen
 ngfw
@@ -4632,7 +4614,6 @@ nunit
 nupkg
 nuspec
 nutanix
-nuwave
 nva
 nvd
 nvdimm
@@ -4794,7 +4775,9 @@ ops
 opsi
 opsmgr
 optics
+optimise
 optimization
+optimize
 optimizer
 option
 option119
@@ -4936,7 +4919,6 @@ passivetotal
 passkey
 passphrase
 passphraser passphrase password generator entropy
-passwd
 password
 password_generation
 password-generator
@@ -5306,6 +5288,7 @@ powershelluniversal
 powershellv5
 powerstig
 powerstore
+powertab
 powertoolcmdlets
 powertooldsc
 ppdm
@@ -8514,7 +8497,6 @@ quotes
 quotestoliveby
 quoting
 quser
-qword
 r
 r53
 rabbit
@@ -8634,20 +8616,14 @@ reflection
 refresh
 refreshtoken
 reg
-reg_binary
-reg_dword
-reg_expand_sz
-reg_multi_sz
-reg_qword
-reg_sz
 regardscitoyen
 regcli
-regedit
 regex
 region
 regions
 regiser-argumentcompleter
 register
+register-argumentcompleter
 registered
 registrar
 registration
@@ -8694,10 +8670,10 @@ remotesession
 remoting
 remove
 remove-githubsecrets
-remove-itemproperty
 remove-pass
 remove-path
 remove-pinneditem
+remove-tempfiles
 removefile
 removetypeaccelerators
 remux
@@ -9193,7 +9169,6 @@ set_bios
 set-alias
 set-dnsservers
 set-githubsecrets
-set-itemproperty
 set-location
 set-openfiles
 set-ownership
@@ -9215,13 +9190,7 @@ sftp
 sfx
 sgopher
 sgw
-sha-256
-sha-512
-sha-crypt
 sha256
-sha256crypt
-sha512crypt
-shacrypt
 shadow
 shadowcopy
 shadowcopybackups
@@ -9265,6 +9234,7 @@ show
 show-command
 show-objecttree
 show-on-command
+showdemo
 showoncommand
 shred
 shuf
@@ -9860,7 +9830,6 @@ techedna2014
 techlog
 technology
 techsmith
-tel
 telegram
 telegram-bot
 telegram-bot-api
@@ -10200,6 +10169,7 @@ ud-scrollspy
 ud-selectdatetime
 ud-selector
 ud-signature
+ud-simpledrawer
 ud-singleselect
 ud-slider
 ud-speechbubble
@@ -10222,7 +10192,6 @@ udpclient
 udptest
 udr
 udthememode
-udword
 uefi
 uem
 ui
@@ -10294,12 +10263,10 @@ upgrade
 uplift
 uplink
 ups
-upsource
 upstream
 uptime
 uptimerobot
 uptobox
-uqword
 uri
 uri-scheme
 url
@@ -10761,6 +10728,7 @@ windowstimezone
 windowsupdate
 windowsupdates
 windowsvirtualdesktop
+winfield
 winform
 winforms
 winget
