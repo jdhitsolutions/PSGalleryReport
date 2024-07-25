@@ -3,21 +3,42 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
-## [KFSharedPassword](https://www.powershellgallery.com/Packages/KFSharedPassword/0.0.2) | 0.0.2
+## [UiPathOrch](https://www.powershellgallery.com/Packages/UiPathOrch/0.9.5.8) | 0.9.5.8
 
-### Published: 07/25/2024 01:39:21 by Keith Flannery
-
-Generates password and a shareable URL
-
-__Downloads__: 0 | __Repository__: https://github.com/keithflannery/KFSharedPassword
-
-## [UiPathOrch](https://www.powershellgallery.com/Packages/UiPathOrch/0.9.5.7) | 0.9.5.7
-
-### Published: 07/25/2024 01:30:17 by Yoshifumi Tsuda
+### Published: 07/25/2024 07:44:02 by Yoshifumi Tsuda
 
 A PowerShell provider for managing UiPath Orchestrator entities via cmdlets.
 
 __Downloads__: 589 | __Repository__: 
+
+## [ps12exe](https://www.powershellgallery.com/Packages/ps12exe/0.4.1) | 0.4.1
+
+### Published: 07/25/2024 04:50:36 by steve02081504
+
+better pwsh code 2 exe repo:
+- Use `ps12exe a.ps1` to convert `a.ps1` into `a.exe`;
+- Use `ps12exeGUI` for a graphical interface that simplifies compilation;
+- Use `Set-ps12exeContextMenu` to add a context menu item for quick compilation or GUI access on `.ps1` files;
+- Use `Start-ps12exeWebServer` to launch a web server that allows users to compile scripts online;
+All commands in this module support the `-help` option for detailed assistance in your language.
+
+__Downloads__: 1,343 | __Repository__: https://github.com/steve02081504/ps12exe
+
+## [ChocoLogParse](https://www.powershellgallery.com/Packages/ChocoLogParse/1.0.0) | 1.0.0
+
+### Published: 07/25/2024 03:14:35 by Gilbert Sanchez
+
+Parses Chocolatey logs into easy to use objects.
+
+__Downloads__: 72 | __Repository__: https://github.com/HeyItsGilbert/ChocoLogParse/
+
+## [KFSharedPassword](https://www.powershellgallery.com/Packages/KFSharedPassword/0.0.3) | 0.0.3
+
+### Published: 07/25/2024 02:29:48 by Keith Flannery
+
+Generates password and a shareable URL
+
+__Downloads__: 0 | __Repository__: https://github.com/keithflannery/KFSharedPassword
 
 ## [M365DSC.CompositeResources](https://www.powershellgallery.com/Packages/M365DSC.CompositeResources/1.24.724.100) | 1.24.724.100
 
@@ -143,22 +164,6 @@ A PowerShell module for the Cisco Meraki API
 
 __Downloads__: 7,010 | __Repository__: 
 
-## [Compex.NewRelic.Agents](https://www.powershellgallery.com/Packages/Compex.NewRelic.Agents/0.4.0) | 0.4.0
-
-### Published: 07/24/2024 15:05:03 by Mark Studer
-
-Module for working with New Relic agents on a server.
-
-__Downloads__: 0 | __Repository__: https://bitbucket.org/compexlegal/newrelic.agents.ps/src/master/
-
-## [OMINOUS](https://www.powershellgallery.com/Packages/OMINOUS/0.0.2) | 0.0.2
-
-### Published: 07/24/2024 14:31:50 by David Freer
-
-OMINOUS is a markdown generator for PowerShell. Use the commands to write markdown in a fluent manner or mnemonically invoking conventions, like H1, H2, Table
-
-__Downloads__: 0 | __Repository__: https://github.com/soulshined/OMINOUS
-
 ## [VMware.CloudFoundation.Reporting](https://www.powershellgallery.com/Packages/VMware.CloudFoundation.Reporting/2.6.3.1001) | 2.6.3.1001
 
 ### Published: 07/24/2024 14:30:17 by Broadcom
@@ -262,14 +267,6 @@ __Downloads__: 8,866 | __Repository__: https://github.com/Devolutions/devolution
 Import and export objects to parquet format
 
 __Downloads__: 2,249 | __Repository__: https://github.com/Agazoth/PSParquet
-
-## [PSNetScanners](https://www.powershellgallery.com/Packages/PSNetScanners/1.0.0) | 1.0.0
-
-### Published: 07/24/2024 02:36:16 by Santiago Squarzon
-
-tcp and icmp async scanners for powershell
-
-__Downloads__: 0 | __Repository__: https://github.com/santisq/PSNetScanners
 
 ## [PassPushPosh](https://www.powershellgallery.com/Packages/PassPushPosh/0.3.0) | 0.3.0
 
@@ -1482,14 +1479,6 @@ A module for reporting on your Rubrik Security Cloud instance
 
 __Downloads__: 15 | __Repository__: https://github.com/joshuastenhouse/rscreporting
 
-## [JsonEditorHtml](https://www.powershellgallery.com/Packages/JsonEditorHtml/0.1.1) | 0.1.1
-
-### Published: 07/23/2024 14:22:30 by Douglas S. Rios (DrIOSx)
-
-A PowerShell module for exporting Json files to an editable html file for export.
-
-__Downloads__: 0 | __Repository__: 
-
 ## [easypeasy](https://www.powershellgallery.com/Packages/easypeasy/1.4.1) | 1.4.1
 
 ### Published: 07/23/2024 13:47:22 by Igor Akkerman
@@ -1594,22 +1583,6 @@ This Module has been created to provide a repository of my Daily Functions. - Th
 
 __Downloads__: 316 | __Repository__: 
 
-## [PSYT](https://www.powershellgallery.com/Packages/PSYT/0.1.0) | 0.1.0
-
-### Published: 07/22/2024 20:27:03 by Peter Cook
-
-PSYT is a PowerShell module that provides functions to retrieve YouTube video transcripts.
-
-__Downloads__: 0 | __Repository__: https://github.com/Blindpete/PSYT/
-
-## [Hardensysvol](https://www.powershellgallery.com/Packages/Hardensysvol/1.2.1) | 1.2.1
-
-### Published: 07/22/2024 19:38:57 by DAKHAMA Mehdi
-
-Harden Sysvol is a Powershell Module to scan sysvol folder to search the sensitivity data
-
-__Downloads__: 0 | __Repository__: https://github.com/dakhama-mehdi/CheckSysvolsecurity
-
 ## [SATLogger](https://www.powershellgallery.com/Packages/SATLogger/0.0.3) | 0.0.3
 
 ### Published: 07/22/2024 17:57:23 by Ryan Bakonis
@@ -1689,14 +1662,6 @@ __Downloads__: 250 | __Repository__: https://github.com/BNWEIN/CIPPAPIModule/
 A PowerShell module for managing Microsoft Endpoint Manager policies, including backup, import, export, and comparison using Microsoft Graph API.
 
 __Downloads__: 0 | __Repository__: https://github.com/CriticalSolutionsNetwork/MemPolicyManager
-
-## [Yamautomate.Core](https://www.powershellgallery.com/Packages/Yamautomate.Core/1.0.5.8) | 1.0.5.8
-
-### Published: 07/22/2024 13:52:51 by Yanik Maurer
-
-A core module for logging, setting up config files, storing and accessing credentials and API Keys safely and more.
-
-__Downloads__: 39 | __Repository__: 
 
 ## [tatux.core](https://www.powershellgallery.com/Packages/tatux.core/0.0.35) | 0.0.35
 
@@ -1867,14 +1832,6 @@ A PowerShell module with a collection of functions that should have been in Powe
 
 __Downloads__: 18,695 | __Repository__: https://github.com/PSModule/Utilities
 
-## [Sodium](https://www.powershellgallery.com/Packages/Sodium/0.0.3) | 0.0.3
-
-### Published: 07/21/2024 12:47:17 by PSModule
-
-A PowerShell module for handling Sodium encrypted secrets.
-
-__Downloads__: 26 | __Repository__: https://github.com/PSModule/Sodium
-
 ## [WoW](https://www.powershellgallery.com/Packages/WoW/0.0.18) | 0.0.18
 
 ### Published: 07/21/2024 12:46:05 by PSModule
@@ -2011,19 +1968,6 @@ A PowerShell module working with the admin role.
 
 __Downloads__: 5,150 | __Repository__: https://github.com/PSModule/Admin
 
-## [ps12exe](https://www.powershellgallery.com/Packages/ps12exe/0.4.0) | 0.4.0
-
-### Published: 07/20/2024 15:42:11 by steve02081504
-
-better pwsh code 2 exe repo:
-- Use `ps12exe a.ps1` to convert `a.ps1` into `a.exe`;
-- Use `ps12exeGUI` for a graphical interface that simplifies compilation;
-- Use `Set-ps12exeContextMenu` to add a context menu item for quick compilation or GUI access on `.ps1` files;
-- Use `Start-ps12exeWebServer` to launch a web server that allows users to compile scripts online;
-All commands in this module support the `-help` option for detailed assistance in your language.
-
-__Downloads__: 1,343 | __Repository__: https://github.com/steve02081504/ps12exe
-
 ## [DscResource.Common](https://www.powershellgallery.com/Packages/DscResource.Common/0.17.2) | 0.17.2
 
 ### Published: 07/20/2024 11:23:17 by DSC Community
@@ -2072,4 +2016,60 @@ This module provides cmdlets to help in daily work, find cost savings, and repor
 
 __Downloads__: 3,118 | __Repository__: 
 
-*Updated: Thursday, 25 July 2024 02:10:08 UTC*
+## [rhubarb-geek-nz.Joinery](https://www.powershellgallery.com/Packages/rhubarb-geek-nz.Joinery/1.0.5) | 1.0.5
+
+### Published: 07/19/2024 16:24:10 by Roger Brown
+
+Join Tools
+
+__Downloads__: 16 | __Repository__: https://github.com/rhubarb-geek-nz/Joinery
+
+## [IOInfoExtensions.PowerShell](https://www.powershellgallery.com/Packages/IOInfoExtensions.PowerShell/0.1.0) | 0.1.0
+
+### Published: 07/19/2024 15:52:26 by Andrew Strickland
+
+Adds quality of life Extension methods to the System.IO.DirectoryInfo and System.IO.FileInfo classes.
+
+__Downloads__: 26 | __Repository__: https://github.com/APStrickland/IOInfoExtensions
+
+## [PSOpenAI](https://www.powershellgallery.com/Packages/PSOpenAI/4.0.0) | 4.0.0
+
+### Published: 07/19/2024 15:51:27 by mkht
+
+PowerShell module for OpenAI API
+
+__Downloads__: 3,365 | __Repository__: https://github.com/mkht/PSOpenAI
+
+## [PoshMongo](https://www.powershellgallery.com/Packages/PoshMongo/3.3.1) | 3.3.1
+
+### Published: 07/19/2024 15:27:12 by jeffrey@patton-tech.com
+
+A PowerShell module to work with MongoDB
+
+__Downloads__: 2,224 | __Repository__: https://github.com/PoshMongo/PoshMongo
+
+## [UGDSB.PS](https://www.powershellgallery.com/Packages/UGDSB.PS/2.5.1) | 2.5.1
+
+### Published: 07/19/2024 13:43:33 by Jeremy Putman
+
+This bundles together functions related to powershell functions use for UGDSB
+
+__Downloads__: 7,162 | __Repository__: 
+
+## [PSRuntimeEnviromentModule](https://www.powershellgallery.com/Packages/PSRuntimeEnviromentModule/1.0.0.2) | 1.0.0.2
+
+### Published: 07/19/2024 11:36:28 by Michal Gajda
+
+Module to manage PowerShell modules in Azure Automation Runtime Enviroments.
+
+__Downloads__: 0 | __Repository__: https://github.com/mgajda83/PSRuntimeEnviromentModule
+
+## [tiPS](https://www.powershellgallery.com/Packages/tiPS/1.3.12) | 1.3.12
+
+### Published: 07/19/2024 05:52:01 by Daniel Schroeder
+
+PowerShell tips delivered straight to your terminal.
+
+__Downloads__: 4,060 | __Repository__: https://github.com/deadlydog/PowerShell.tiPS
+
+*Updated: Thursday, 25 July 2024 09:51:45 UTC*
