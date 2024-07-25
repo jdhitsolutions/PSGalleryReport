@@ -2080,9 +2080,9 @@ https://docs.microsoft.com/en-us/azure/log-analytics/log-analytics-data-collecto
 
 __Downloads__: 8,354,029 | __Repository__: 
 
-## [Microsoft.PowerApps.Administration.PowerShell](https://www.powershellgallery.com/Packages/Microsoft.PowerApps.Administration.PowerShell/2.0.192) | 2.0.192
+## [Microsoft.PowerApps.Administration.PowerShell](https://www.powershellgallery.com/Packages/Microsoft.PowerApps.Administration.PowerShell/2.0.193) | 2.0.193
 
-### Published: 07/11/2024 23:19:49 by Microsoft Common Data Service Team
+### Published: 07/25/2024 03:02:13 by Microsoft Common Data Service Team
 
 PowerShell interface for Microsoft PowerApps and Flow Administrative features
 
@@ -2192,4 +2192,4 @@ Microsoft Graph PowerShell Cmdlets
 
 __Downloads__: 6,881,649 | __Repository__: https://github.com/microsoftgraph/msgraph-sdk-powershell
 
-*Updated: Thursday, 25 July 2024 02:10:11 UTC*
+*Updated: Thursday, 25 July 2024 09:51:49 UTC*
