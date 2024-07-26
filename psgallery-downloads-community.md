@@ -1082,9 +1082,9 @@ This PowerShell module contains cmdlets for managing VMware.Sdk.Nsx.Policy API.
 
 __Downloads__: 3,641,191 | __Repository__: https://developer.vmware.com/powercli
 
-## [VcRedist](https://www.powershellgallery.com/Packages/VcRedist/4.1.497) | 4.1.497
+## [VcRedist](https://www.powershellgallery.com/Packages/VcRedist/4.1.498) | 4.1.498
 
-### Published: 05/24/2024 10:00:26 by Aaron Parker
+### Published: 07/25/2024 23:41:44 by Aaron Parker
 
 A module for lifecycle management of the Microsoft Visual C++ Redistributables. VcRedist downloads, installs and uninstalls the supported (and unsupported) Redistributables. Use for local install, gold image creation and update, or importing as applications into the Microsoft Deployment Toolkit, Microsoft Configuration Manager or Microsoft Intune. Supports passive and silent installs, and uninstalls of the Visual C++ Redistributables.
 
@@ -2138,4 +2138,4 @@ Helper functions for PowerShell CI/CD scenarios.
 
 __Downloads__: 597,190 | __Repository__: https://github.com/RamblingCookieMonster/BuildHelpers/
 
-*Updated: Thursday, 25 July 2024 17:51:46 UTC*
+*Updated: Friday, 26 July 2024 02:09:45 UTC*
