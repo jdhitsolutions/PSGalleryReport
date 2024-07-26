@@ -3,13 +3,53 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
-## [MetaNullPortfolio](https://www.powershellgallery.com/Packages/MetaNullPortfolio/0.0.24.0) | 0.0.24.0
+## [OGraph](https://www.powershellgallery.com/Packages/OGraph/0.0.1.12) | 0.0.1.12
 
-### Published: 07/26/2024 09:41:04 by Pascal Havelange
+### Published: 07/26/2024 17:44:56 by Ben Pulido Mike Campbell
+
+PowerShell functions for administration of Microsoft 365 services using Graph endpoints
+
+__Downloads__: 128 | __Repository__: https://github.com/themodulecollective/OGraph
+
+## [UiPathOrch](https://www.powershellgallery.com/Packages/UiPathOrch/0.9.5.10) | 0.9.5.10
+
+### Published: 07/26/2024 16:16:50 by Yoshifumi Tsuda
+
+A PowerShell provider for managing UiPath Orchestrator entities via cmdlets.
+
+__Downloads__: 589 | __Repository__: 
+
+## [DTX.Cloud.Management](https://www.powershellgallery.com/Packages/DTX.Cloud.Management/1.16.0) | 1.16.0
+
+### Published: 07/26/2024 15:26:41 by Platform Operations Team
+
+Dotmatics cloud automation tool.
+
+__Downloads__: 11,057 | __Repository__: 
+
+## [PSTcpIp](https://www.powershellgallery.com/Packages/PSTcpIp/5.13.1) | 5.13.1
+
+### Published: 07/26/2024 14:13:52 by Anthony Guimelli
+
+Provides cmdlets to perform various TCPIP and TLS/SSL related tasks.
+
+__Downloads__: 5,745 | __Repository__: https://github.com/anthonyg-1/PSTcpIp
+
+## [MetaNullPortfolio](https://www.powershellgallery.com/Packages/MetaNullPortfolio/0.0.28.0) | 0.0.28.0
+
+### Published: 07/26/2024 13:59:42 by Pascal Havelange
 
 MetaNull's Confluence's portfolio and C4 model
 
 __Downloads__: 0 | __Repository__: https://bitbucket.org/metanull/metanullps/src/develop/MetaNullPortfolio/source/
+
+## [TcXaeMgmt](https://www.powershellgallery.com/Packages/TcXaeMgmt/6.0.166) | 6.0.166
+
+### Published: 07/26/2024 11:23:26 by Beckhoff
+
+Cmdlets for Twincat ADS and device management for Powershell Core and Windows Powershell
+
+__Downloads__: 24,152 | __Repository__: https://infosys.beckhoff.com/content/1033/tc3_ads_ps_tcxaemgmt/3972231819.html?id=8731138690123386389
 
 ## [AutomateNOW](https://www.powershellgallery.com/Packages/AutomateNOW/1.0.24) | 1.0.24
 
@@ -18,22 +58,6 @@ __Downloads__: 0 | __Repository__: https://bitbucket.org/metanull/metanullps/src
 Interact with the API of an AutomateNOW! instance
 
 __Downloads__: 165 | __Repository__: https://github.com/AutomateNOW-Fan/AutomateNOW
-
-## [pwshBedrock](https://www.powershellgallery.com/Packages/pwshBedrock/0.9.1) | 0.9.1
-
-### Published: 07/26/2024 01:46:52 by Jake Morrison
-
-pwshBedrock enables interfacing with Amazon Bedrock foundational models, supporting direct on-demand model calls via InvokeModel and the Converse API for supported models. It allows sending messages, retrieving responses, managing message context, displaying model information, and estimating token counts and costs. Use PowerShell to integrate generative AI applications with Amazon Bedrock.
-
-__Downloads__: 0 | __Repository__: https://github.com/techthoughts2/pwshBedrock
-
-## [PSTcpIp](https://www.powershellgallery.com/Packages/PSTcpIp/5.12.3) | 5.12.3
-
-### Published: 07/26/2024 00:31:26 by Anthony Guimelli
-
-Provides cmdlets to perform various TCPIP and TLS/SSL related tasks.
-
-__Downloads__: 5,745 | __Repository__: https://github.com/anthonyg-1/PSTcpIp
 
 ## [VcRedist](https://www.powershellgallery.com/Packages/VcRedist/4.1.498) | 4.1.498
 
@@ -90,14 +114,6 @@ __Downloads__: 264 | __Repository__: https://github.com/Stephanevg/PsKrane
 The Devolutions.PowerShell module is a set of cmdlets that allow administrators to manage Remote Desktop Manager, Devolutions Server and Devolutions Hub Business using PowerShell. This module provides a simple and consistent interface for interacting with these products, making it easy to automate various tasks, such as creating and managing connections, sessions, and credentials, configuring security settings, and generating reports. The module can be easily integrated with other PowerShell modules, allowing administrators to automate tasks across multiple products and platforms, streamline their workflows and increase efficiency.
 
 __Downloads__: 108,593 | __Repository__: https://devolutions.net/
-
-## [DTX.Cloud.Management](https://www.powershellgallery.com/Packages/DTX.Cloud.Management/1.15.2) | 1.15.2
-
-### Published: 07/25/2024 15:05:29 by Platform Operations Team
-
-Dotmatics cloud automation tool.
-
-__Downloads__: 11,057 | __Repository__: 
 
 ## [VMware.CloudFoundation.CertificateManagement](https://www.powershellgallery.com/Packages/VMware.CloudFoundation.CertificateManagement/1.5.4.1002) | 1.5.4.1002
 
@@ -258,14 +274,6 @@ __Downloads__: 10,511,338 | __Repository__: https://developer.vmware.com/powercl
 This PowerShell module contains PowerCLI Auto Deploy cmdlets.
 
 __Downloads__: 10,308,419 | __Repository__: https://developer.vmware.com/powercli
-
-## [UiPathOrch](https://www.powershellgallery.com/Packages/UiPathOrch/0.9.5.9) | 0.9.5.9
-
-### Published: 07/25/2024 13:02:28 by Yoshifumi Tsuda
-
-A PowerShell provider for managing UiPath Orchestrator entities via cmdlets.
-
-__Downloads__: 589 | __Repository__: 
 
 ## [VMware.VimAutomation.Security](https://www.powershellgallery.com/Packages/VMware.VimAutomation.Security/13.3.0.24145081) | 13.3.0.24145081
 
@@ -1423,14 +1431,6 @@ This modules provides Cmdlets for OCI Opsi Service
 
 __Downloads__: 6,439 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-## [Compex.ServerManagement](https://www.powershellgallery.com/Packages/Compex.ServerManagement/0.2.1) | 0.2.1
-
-### Published: 07/23/2024 20:23:45 by mark.studer
-
-Module for managing servers.
-
-__Downloads__: 0 | __Repository__: 
-
 ## [OCI.PSModules.Operatoraccesscontrol](https://www.powershellgallery.com/Packages/OCI.PSModules.Operatoraccesscontrol/86.4.0) | 86.4.0
 
 ### Published: 07/23/2024 20:23:44 by Oracle Cloud Infrastructure
@@ -2023,4 +2023,4 @@ This modules provides Cmdlets for OCI Computecloudatcustomer Service
 
 __Downloads__: 2,739 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-*Updated: Friday, 26 July 2024 09:51:49 UTC*
+*Updated: Friday, 26 July 2024 17:51:51 UTC*
