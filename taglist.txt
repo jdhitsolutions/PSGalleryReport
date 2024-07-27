@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Friday, 26 July 2024 17:51:59 UTC
+Updated: Saturday, 27 July 2024 02:09:23 UTC
 
 .bat
 .env
@@ -254,17 +254,26 @@ agm
 agnoster
 ahk
 ai
+ai21
+ai21labs
 aianomalydetection
+aiapplications
+aiautomation
 aidocument
+aiintegration
 ailanguage
 aim
+aimodels
 aip
+aiprompting
 aipscanner
+aircall
 airpower
 airpwr
 airtable
 ais
 aispeech
+aiutilities
 aivision
 ajustee
 aka.ms
@@ -315,6 +324,7 @@ amateurradio
 amazon
 amazonaws
 amazonmgn
+amazontitan
 amazonwebservices
 amend
 ami
@@ -356,6 +366,7 @@ ansible-control-node
 ansible-playbook
 ansible-vault
 ansiblecontrolnode
+anthropic
 anti-malware
 antimalwarescaninterface
 antispam
@@ -482,6 +493,7 @@ artefactual
 artifact
 artifactory
 artifacts
+artificialintelligence
 aruba
 as
 asa
@@ -632,6 +644,7 @@ aws-codebuild
 aws-lambda
 aws-vault
 aws.tools.powershell
+awsbedrock
 awscli
 awspricelist
 axapta
@@ -816,6 +829,7 @@ bearer
 beautifier
 beautify
 beckhoff
+bedrock
 beep
 benchmark
 benchmarking
@@ -1203,6 +1217,8 @@ classes
 classic
 classification
 classified
+claude
+claude3
 clccontrol
 clccontrolapiv1
 clccontrolapiv2
@@ -1253,6 +1269,7 @@ cloud-backup
 cloud-computing
 cloud-init
 cloud-iq
+cloudai
 cloudant
 cloudbees
 cloudberry
@@ -1274,6 +1291,7 @@ cloudiq
 cloudkey
 cloudmarque
 cloudmigrations
+cloudml
 cloudpc
 cloudservice
 cloudshell
@@ -1331,6 +1349,7 @@ codex
 coercion
 cognitiveservice
 cognitiveservices
+cohere
 cohesity
 coinmarketcap
 collaboration
@@ -1367,6 +1386,7 @@ commandcoverage
 commandhistory
 commandlets
 commandline
+commandr
 commands
 commandsandresource
 commence
@@ -1505,6 +1525,8 @@ conventional-commits
 convereter
 converged_data_management
 conversational
+converse
+converseapi
 conversion
 conversiontool
 convert
@@ -1763,7 +1785,6 @@ dataexplorer
 datafactory
 dataflow
 dataflowdependency
-dataframe
 datagateway
 dataintegration
 datakwaliteit
@@ -1917,6 +1938,7 @@ devdrive
 developer
 developer_command_prompt
 developercommandprompt
+developermode
 development
 devenv
 devexpress
@@ -2096,6 +2118,7 @@ domainkey
 domainname
 domainnamesystem
 domains
+domino
 done.land
 donothing
 dos
@@ -2260,7 +2283,6 @@ edr
 education
 educational
 effectiveroutes
-efficientether
 efi
 egrep
 eid
@@ -2398,7 +2420,6 @@ esx
 esxi
 eternalblue
 ether
-etherassist
 ethereum
 ethr
 ethz
@@ -2535,6 +2556,7 @@ f
 f#
 f5
 fabric
+fabtools
 facebook
 factoryorchestrator
 factoryorchestratorclient
@@ -2695,13 +2717,13 @@ fleet
 fleetsoftwareupdate
 flex
 flex-query
-flexdesk
 flickr
 flowchart
 flowy
 fluidrelay
 flyway
 fmg
+fms
 focus
 fod
 fog
@@ -2749,6 +2771,7 @@ forum
 forwardcompatibility
 forwardedevents
 foudil
+foundationmodels
 fox
 foxpro
 fqdn
@@ -2782,6 +2805,7 @@ fslogix
 fsrm
 ftp
 ftps
+fu-msauth
 fudge
 fudgepop
 fujitsu
@@ -3062,6 +3086,7 @@ hacking
 hacktoberfest
 hadoop
 hafr
+haiku
 hailstone
 haipa
 halo
@@ -3128,7 +3153,6 @@ healthz
 heartbeatdiscovery
 heat
 heating
-heavenbay
 helium
 helix
 hello
@@ -3419,6 +3443,7 @@ inline-progress
 inlineprogress
 innerjoin
 innertext
+inpainting
 input
 inputbox
 inputobject
@@ -3587,6 +3612,7 @@ ivdc
 iwi
 j
 j81-blog
+jamba
 japanese
 jar
 jav
@@ -3650,6 +3676,8 @@ junctions
 junit
 jupyter
 jupytor
+jurassic
+jurassic2
 justenoughadministration
 jvm
 jwe
@@ -3763,8 +3791,10 @@ lamp
 lan
 landingzones
 language
+languageai
 languagedsc
 languageexperiencepack
+languagemodels
 languagepack
 lansweeper
 laps
@@ -3872,7 +3902,9 @@ litecoin
 litedb
 literature
 live
+llama
 llama2
+llama3
 lldp
 lmhost
 lmhosts
@@ -4002,6 +4034,7 @@ macadmins
 machine
 machinelearning
 machinelearningcompute
+machinelearningmodels
 machinelearningservices
 macmon
 macos
@@ -4225,6 +4258,7 @@ microsoftdefenderforidentity
 microsoftdeploymenttoolkit
 microsoftendpointmanager
 microsoftexchangeserver
+microsoftfabric
 microsoftgraph
 microsoftgraphapi
 microsoftgraphrestapi
@@ -4261,6 +4295,8 @@ miration-step
 mirror
 misc
 miscellaneous
+mistral
+mistralai
 mitigation
 mitre
 mitre_att&ck
@@ -4274,6 +4310,8 @@ mksapiviewer
 ml
 ml.net
 mlflow
+mlmodels
+mltools
 mmdc
 mobile
 mobilenetwork
@@ -4282,6 +4320,7 @@ mock
 mocking
 model
 modeling
+models
 modify
 module
 module-maintenance
@@ -4877,6 +4916,7 @@ outerjoin
 outertext
 outline
 outlook
+outpainting
 output
 output-to-image
 outreach
@@ -4993,6 +5033,7 @@ paylocity
 paypal
 pays
 pbench
+pbip
 pc
 pcapng
 pci-dss
@@ -5303,6 +5344,7 @@ powershell.module.invokewinget
 powershell.one
 powershell.persistentpathstack
 powershell7
+powershellai
 powershellazuresql
 powershellconferenceeurope
 powershellcore
@@ -5313,6 +5355,7 @@ powershellget
 powershellgetformatversion_2.0
 powershellise
 powershelllogger
+powershellml
 powershellmodule
 powershellmoduleupdate
 powershellpr0mpt
@@ -9324,8 +9367,6 @@ single
 singlestore
 singleton
 sinks
-sintez
-sintez.module.rds
 sit
 site
 site_navigation
@@ -9448,6 +9489,7 @@ songs
 sonicos
 sonicwall
 sonicwallvpn
+sonnet
 sonus
 soon
 soonr
@@ -9596,6 +9638,7 @@ sspr
 ssrs
 ssst
 sstp
+stabilityai
 stache
 stackexchange
 stackhci
@@ -9849,7 +9892,6 @@ tags
 tak
 taken
 takeown
-tally
 talxis
 tanss
 tanzu
@@ -9891,6 +9933,7 @@ techedna2014
 techlog
 technology
 techsmith
+tel
 telegram
 telegram-bot
 telegram-bot-api
@@ -9964,6 +10007,7 @@ text-to-speech
 text2image
 textanalysis
 textbuffer
+textgeneration
 texting
 texting-emoji
 texting-emojis
@@ -10022,6 +10066,7 @@ tinkerpop
 tinymce
 tip
 tips
+titan
 title
 tls
 tls11
@@ -10148,7 +10193,6 @@ tsqlbestpractice
 tst
 tst1
 tst3
-tsv
 ttrpg
 tts
 tubedownloader
