@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Sunday, 28 July 2024 02:12:19 UTC
+Updated: Sunday, 28 July 2024 09:52:05 UTC
 
 .bat
 .env
@@ -16,7 +16,6 @@ Updated: Sunday, 28 July 2024 02:12:19 UTC
 {modulenameplaceholder}
 **psedition_desktop**
 **windows**
-🍄
 🍣
 💩
 🙇
@@ -267,6 +266,7 @@ aimodels
 aip
 aiprompting
 aipscanner
+aircall
 airpower
 airpwr
 airtable
@@ -312,6 +312,7 @@ alphafs
 alpine
 alt3
 alter
+alteryx
 alwaysontop
 alwaysonvpn
 alz
@@ -500,6 +501,7 @@ asana
 asbuiltreport
 asc
 ascii
+ascii85
 asciiart
 asdatabase
 asigra
@@ -643,7 +645,6 @@ aws-vault
 aws.tools.powershell
 awsbedrock
 awscli
-awspricelist
 axapta
 axcient
 axcient_x360recover
@@ -785,10 +786,13 @@ barcodes
 baremetal
 base
 base-in-json
+base16
 base26
+base32
 base64
 base64string
 base64url
+base85
 basecamp
 based
 baseline
@@ -863,6 +867,7 @@ binomial
 bios
 bios_settings
 bios-settings
+bit
 bitbucket
 bitbucket-api
 bitbucket-server
@@ -914,6 +919,7 @@ boilerplate
 boinc
 bold-text
 bolt
+bom
 book
 bookmark
 bookmarks
@@ -1110,6 +1116,7 @@ certes
 certificate
 certificateauthority
 certificatechain
+certificatemanager
 certificatepolicy
 certificates
 certificateservices
@@ -1178,10 +1185,8 @@ cif
 cifv3
 cil
 cim
-cim_computersystem
 cimfs
 cimi
-ciminstance
 cims
 cimsession
 cinema
@@ -1567,6 +1572,8 @@ couchbase
 couchdb
 couchpotato
 count
+count-lines-of-code
+count-loc
 countdown
 counter
 countries
@@ -1645,6 +1652,7 @@ crypto
 cryptocompare
 cryptocurrency
 cryptography
+cs137
 csc
 csharp
 csharp-watch
@@ -1914,6 +1922,7 @@ desktop
 desktops
 desktopvirtualization
 details
+detect
 detection
 detectionrule
 deutschland
@@ -2448,7 +2457,6 @@ eventwatch
 evergreen
 everix
 evernote
-everydaypowershell
 everydayrewards
 everything
 evilprince2009
@@ -2517,15 +2525,14 @@ export-cmhealthreport
 export-data
 export-passlist
 exportcertificate
+exportcertificates
 exporter
 exportexcel
 exportteams
 expression
 extend
 extended
-extendedattributes
 extendedevents
-extendedproperties
 extendedproperty
 extendscript
 extensibility
@@ -2617,16 +2624,13 @@ file-system
 file-transform
 file-type
 file-type-association
-fileattributes
 fileencryption
-filelist
 filelog
 filelogger
 filemanagement
 filematcher
 filename
 filenames
-fileproperties
 filereplication
 files
 files-cli
@@ -2685,6 +2689,7 @@ firmware
 firmwareanalysis
 first
 fisher
+fissionproducts
 fitbit
 fits
 five
@@ -2899,7 +2904,6 @@ get-dtscriptnewcmtasksequencefromdriverpackpackagedefinitionsms
 get-emptyadgroups
 get-externalip
 get-firmwaretype
-get-hardensysvol
 get-help
 get-history
 get-iislog
@@ -2924,7 +2928,6 @@ gh
 gh-actions
 ghactions
 ghc
-ghibli
 ghost
 gif
 gifs
@@ -2937,6 +2940,7 @@ git-flow
 git-lfs
 git-proxy
 git-rename
+git-stat
 gitcmdline
 gitdesktop
 gitea
@@ -3099,7 +3103,6 @@ hardblock
 harden
 harden-windows-security
 hardening
-hardensysvol
 hardlink
 hardmatch
 hardware
@@ -3203,7 +3206,6 @@ hklm
 hl7
 hlds
 hls
-hockey
 hol
 holiday
 home
@@ -3228,7 +3230,6 @@ hosts-file
 hostsfile
 hot-water
 hotkey
-hotkeys
 howto
 hp
 hpc
@@ -3401,6 +3402,7 @@ incident
 incident-response
 incidentresponse
 incontact
+indents
 index
 indexdb
 indicator
@@ -3635,7 +3637,6 @@ join
 join-object
 jojoba
 joke
-jotform
 journal
 joyride
 jpg
@@ -3663,6 +3664,7 @@ junction
 junctions
 junit
 jupyter
+jupytor
 jurassic
 jurassic2
 justenoughadministration
@@ -3858,6 +3860,7 @@ limit-job
 limits
 lina
 line
+line-endings
 linear
 linearalgebra
 lingeringobjects
@@ -3902,6 +3905,7 @@ loader
 loadtesting
 loanddepot
 loandepot
+loc
 local
 local-caching
 local-policy
@@ -3939,7 +3943,6 @@ log4net
 loganalytics
 logbook
 logcat
-logentry
 logfile
 logfilearchivearchive
 logfilemanagement psmodule
@@ -3975,10 +3978,8 @@ logonto
 logonuser
 logparser
 logrotate
-logrotation
 logs
 logstash
-logtools
 logz
 loki
 lol
@@ -4021,7 +4022,6 @@ machinelearning
 machinelearningcompute
 machinelearningmodels
 machinelearningservices
-macmon
 macos
 macosx
 macro
@@ -4151,6 +4151,7 @@ mdx
 me4024
 mean
 measure
+measure-loc
 measure-process
 mecm
 media
@@ -4159,7 +4160,6 @@ mediaplayer
 mediaservices
 mediawiki
 meditation
-medlemsservice
 meesman
 meeting
 meetup
@@ -4467,7 +4467,6 @@ mytest
 n-able
 n-central
 nabu
-nac
 nagios
 nakivo
 name
@@ -4502,8 +4501,6 @@ neo4j
 neovim
 neptune
 nerdfonts
-nerdio
-nerdioapi
 nerdymishka
 nessus
 nested
@@ -4587,7 +4584,6 @@ nfsv3
 ngen
 ngfw
 nginx
-nhl
 nic
 nic.ru
 nightmare
@@ -4605,7 +4601,6 @@ nlm
 nlog
 nmap
 nmbell
-nmm
 nntp
 node
 nodejs
@@ -4829,6 +4824,7 @@ operationsmanagementsuiteagent
 operationvalidation
 operatoraccesscontrol
 opml
+ops
 opsi
 opsmgr
 optics
@@ -5248,7 +5244,6 @@ poshy-wrap-pylint
 poshy-wrap-python
 poshy-wrap-ruby
 poshy-wrap-systemctl
-poshy-wrap-terraform
 poshy-wrap-terragrunt
 poshy-wrap-tmux
 poshy-wrap-vagrant
@@ -5283,6 +5278,7 @@ powerbot
 powercli
 powercligoodies
 powercommander
+powerconfiguration
 powerdex
 powerforensics
 powergraph
@@ -5385,7 +5381,6 @@ prettyprinter
 preview
 previousversions
 price
-pricelist
 primenumber
 primera
 principal
@@ -6634,15 +6629,6 @@ pscommand_invoke-systemctluser-try-reload-or-restart
 pscommand_invoke-systemctluser-try-restart
 pscommand_invoke-systemctluser-unmask
 pscommand_invoke-systemctluser-unset-environment
-pscommand_invoke-terraform
-pscommand_invoke-terraformapply
-pscommand_invoke-terraformconsole
-pscommand_invoke-terraformdestroy
-pscommand_invoke-terraformformat
-pscommand_invoke-terraforminit
-pscommand_invoke-terraformoutput
-pscommand_invoke-terraformplan
-pscommand_invoke-terraformvalidate
 pscommand_invoke-terragrunt
 pscommand_invoke-terragruntapply
 pscommand_invoke-terragruntapplyall
@@ -7111,15 +7097,6 @@ pscommand_test-o
 pscommand_test-reparsepoint
 pscommand_test-sessioninteractivity
 pscommand_test-x
-pscommand_tf
-pscommand_tfa
-pscommand_tfc
-pscommand_tfd
-pscommand_tff
-pscommand_tfi
-pscommand_tfo
-pscommand_tfp
-pscommand_tfv
 pscommand_tg
 pscommand_tga
 pscommand_tgaa
@@ -8046,15 +8023,6 @@ psfunction_invoke-systemctluser-try-reload-or-restart
 psfunction_invoke-systemctluser-try-restart
 psfunction_invoke-systemctluser-unmask
 psfunction_invoke-systemctluser-unset-environment
-psfunction_invoke-terraform
-psfunction_invoke-terraformapply
-psfunction_invoke-terraformconsole
-psfunction_invoke-terraformdestroy
-psfunction_invoke-terraformformat
-psfunction_invoke-terraforminit
-psfunction_invoke-terraformoutput
-psfunction_invoke-terraformplan
-psfunction_invoke-terraformvalidate
 psfunction_invoke-terragrunt
 psfunction_invoke-terragruntapply
 psfunction_invoke-terragruntapplyall
@@ -8523,9 +8491,7 @@ qemu
 qlgc_fc_powerkit
 qlik
 qlik-api
-qlik-sense
 qlik-view
-qliksesne
 qlikview
 qlikview-cli
 qlogic
@@ -8539,7 +8505,6 @@ qr
 qrcode
 qrcodes
 qrp
-qrs
 quality
 qualys
 quandl
@@ -8794,6 +8759,7 @@ resharper
 resize
 resolution
 resolve
+resolve-dnsname
 resolve-stache
 resolve-template
 resolver
@@ -8869,6 +8835,7 @@ rlan
 rmcp
 rmm
 rms
+rng
 roarwrecker
 robbyrussel
 robocopy
@@ -9219,7 +9186,6 @@ serviceconnectionpoint
 servicecontrol
 servicedesk
 servicedeskplus
-serviceendpoints
 servicefabric
 servicelinker
 servicemanagementautomation
@@ -9519,7 +9485,6 @@ speed
 speedometer
 speedtest
 speedtester
-spejder
 spellcheck
 spelling
 spf
@@ -9537,7 +9502,6 @@ spn
 spo
 spooler
 sport
-sports
 sports-tracker
 spotify
 spotify-api
@@ -9730,6 +9694,7 @@ sub
 sub-directory
 sub-menu
 subatomix
+subjectname
 sublimetext
 submission
 subnet
@@ -10398,14 +10363,18 @@ usg
 usps
 utc
 utf-8
+utf-sig
 utf7
 utf8
+utf8-sig
 utf8bom
 util
 utilities
 utility
 utils
 utm
+uudecode
+uuencode
 uuid
 uw
 uwp
@@ -10574,6 +10543,7 @@ vplex
 vpn
 vpn-certificate
 vpro
+vps
 vra
 vrchat
 vrealize
@@ -10697,7 +10667,6 @@ webtime
 webview2
 wec
 wecutil
-weekday
 wef
 weixin
 well-known
@@ -11006,7 +10975,6 @@ youtube
 youtube-dl
 youtubeextractor
 yq
-yubaba
 yubikey
 yum
 z
@@ -11034,7 +11002,6 @@ zorus
 zorusapi
 zoxide
 zsh
-zuora
 zvm
 zvml
 zvmlinux
@@ -11045,4 +11012,3 @@ zypper
 全角半角変換
 寿司
 日本語
-湯婆婆
