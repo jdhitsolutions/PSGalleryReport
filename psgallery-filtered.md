@@ -3,6 +3,39 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [Universal](https://www.powershellgallery.com/Packages/Universal/4.3.4) | 4.3.4
+
+### Published: 07/29/2024 16:14:12 by Ironman Software
+
+Module for PowerShell Universal.
+
+__Downloads__: 104,764 | __Repository__: https://ironmansoftware.com/powershell-universal
+
+## [ScubaGear](https://www.powershellgallery.com/Packages/ScubaGear/1.3.0.1722262837) | 1.3.0.1722262837
+
+### Published: 07/29/2024 14:21:15 by CISA
+
+The Secure Cloud Business Applications (SCuBA) Gear module automates
+conformance testing about CISA M365 Secure Configuration Baselines.
+
+__Downloads__: 8,290 | __Repository__: https://github.com/cisagov/ScubaGear
+
+## [SAPAzurePowerShellModules](https://www.powershellgallery.com/Packages/SAPAzurePowerShellModules/0.1.68) | 0.1.68
+
+### Published: 07/29/2024 11:48:53 by Goran Condric
+
+SAP on Azure PowerShell Modules used for automation.
+
+__Downloads__: 1,925 | __Repository__: 
+
+## [365AutomatedCheck](https://www.powershellgallery.com/Packages/365AutomatedCheck/0.0.11) | 0.0.11
+
+### Published: 07/29/2024 11:17:56 by Clayton Tyger
+
+This module checks for your fields in your Office 365 tenant to see if they meet company standards.
+
+__Downloads__: 20 | __Repository__: https://github.com/DevClate/365AutomatedCheck
+
 ## [PhpManager](https://www.powershellgallery.com/Packages/PhpManager/1.31.1) | 1.31.1
 
 ### Published: 07/29/2024 09:45:45 by Michele Locati
@@ -1381,14 +1414,6 @@ Powershell Module for TD Synnex ION API
 
 __Downloads__: 9 | __Repository__: https://github.com/BNWEIN/IONModule/
 
-## [365AutomatedCheck](https://www.powershellgallery.com/Packages/365AutomatedCheck/0.0.10) | 0.0.10
-
-### Published: 07/24/2024 10:24:46 by Clayton Tyger
-
-This module checks for your fields in your Office 365 tenant to see if they meet company standards.
-
-__Downloads__: 20 | __Repository__: https://github.com/DevClate/365AutomatedCheck
-
 ## [JyskIT.Automation](https://www.powershellgallery.com/Packages/JyskIT.Automation/1.1.4) | 1.1.4
 
 ### Published: 07/24/2024 09:54:02 by Jysk IT
@@ -2056,28 +2081,4 @@ This modules provides Cmdlets for OCI Governancerulescontrolplane Service
 
 __Downloads__: 4,610 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-## [OCI.PSModules.Goldengate](https://www.powershellgallery.com/Packages/OCI.PSModules.Goldengate/86.4.0) | 86.4.0
-
-### Published: 07/23/2024 20:17:47 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Goldengate Service
-
-__Downloads__: 6,359 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Globallydistributeddatabase](https://www.powershellgallery.com/Packages/OCI.PSModules.Globallydistributeddatabase/86.4.0) | 86.4.0
-
-### Published: 07/23/2024 20:17:40 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Globallydistributeddatabase Service
-
-__Downloads__: 1,739 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Genericartifactscontent](https://www.powershellgallery.com/Packages/OCI.PSModules.Genericartifactscontent/86.4.0) | 86.4.0
-
-### Published: 07/23/2024 20:17:33 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Genericartifactscontent Service
-
-__Downloads__: 6,102 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-*Updated: Monday, 29 July 2024 09:52:18 UTC*
+*Updated: Monday, 29 July 2024 17:51:47 UTC*

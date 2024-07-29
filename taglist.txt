@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 29 July 2024 09:52:26 UTC
+Updated: Monday, 29 July 2024 17:51:55 UTC
 
 .bat
 .env
@@ -363,8 +363,6 @@ anova
 ansi
 ansible
 ansible-control-node
-ansible-playbook
-ansible-vault
 ansiblecontrolnode
 anthropic
 anti-malware
@@ -604,8 +602,8 @@ automatenow
 automaticpacketreportingsystem
 automation
 automation psmodule
-automationanywhere
 automationutils
+autopatching
 autopilot
 autoscaling
 autostart
@@ -618,6 +616,7 @@ autoupdate
 autoupdate-script
 autowrapper
 autoyast
+auvik
 availability
 availabilityset
 avalara
@@ -918,6 +917,7 @@ boilerplate
 boinc
 bold-text
 bolt
+bom
 book
 bookmark
 bookmarks
@@ -1085,7 +1085,6 @@ cd+
 cdable_vars
 cdata
 cdb
-cdi
 cdm
 cdn
 cdp
@@ -1514,7 +1513,6 @@ continuousintegration
 contrast
 control
 controller
-controlroom
 controlup
 conventional
 conventional-commits
@@ -1736,7 +1734,6 @@ dacl
 dacpac
 dacpackage
 dagger
-daily
 dalle3
 dane
 dangling
@@ -1875,6 +1872,7 @@ defaults
 defence
 defender
 defender-atp
+defender-for-endpoint
 defenderast
 defenderforendpoint
 defenderforidentity
@@ -1920,6 +1918,7 @@ desktop
 desktops
 desktopvirtualization
 details
+detect
 detection
 detectionrule
 deutschland
@@ -2089,7 +2088,6 @@ dockerize
 dockerswarm
 docking
 docs
-docset
 document
 documentation
 documentdb
@@ -2988,7 +2986,6 @@ google-chrome
 google-fonts
 google-histogram
 google-sankey
-google-table
 googleadsv2
 googlecloudplatform
 googledrive
@@ -3208,7 +3205,6 @@ hkey_current_user
 hkey_local_machine
 hkey_users
 hklm
-hl7
 hlds
 hls
 hockey
@@ -3368,13 +3364,22 @@ im
 image
 image-comparison
 image-converter
+image-creation
+image-generation
+image-process
+image-validation
 imagebuilder
+imagecreate
+imagecreation
 imagegeneration
 imageoftheday
+imageprocess
 imageprocessing
 images
 imageservicing
 imageslide
+imagevalidate
+imagevalidation
 imagga
 imagination
 imaging
@@ -3400,6 +3405,7 @@ incident
 incident-response
 incidentresponse
 incontact
+indents
 index
 indexdb
 indicator
@@ -3662,7 +3668,6 @@ junction
 junctions
 junit
 jupyter
-jupytor
 jurassic
 jurassic2
 justenoughadministration
@@ -3858,6 +3863,7 @@ limit-job
 limits
 lina
 line
+line-endings
 linear
 linearalgebra
 lingeringobjects
@@ -4022,6 +4028,7 @@ machinelearning
 machinelearningcompute
 machinelearningmodels
 machinelearningservices
+macmon
 macos
 macosx
 macro
@@ -4148,6 +4155,7 @@ mdm
 mdop
 mdt
 mdx
+me4024
 mean
 measure
 measure-loc
@@ -4468,6 +4476,7 @@ mytest
 n-able
 n-central
 nabu
+nac
 nagios
 nakivo
 name
@@ -4620,6 +4629,7 @@ normal
 norskale
 norway
 norwegian
+nos
 nosql
 note
 notebook
@@ -5282,6 +5292,7 @@ powerbot
 powercli
 powercligoodies
 powercommander
+powerconfiguration
 powerdex
 powerforensics
 powergraph
@@ -5470,7 +5481,6 @@ prowl-notifications
 prowlapp
 proxmox
 proxmoxve
-proxsys
 proxy
 proxyfunction
 proxyfunctions
@@ -8856,7 +8866,6 @@ royaldocument
 royalserver
 royalts
 royaltsx
-rpa
 rpc
 rras
 rrd
@@ -8927,6 +8936,7 @@ saml2
 sample
 sampler
 samurai
+san
 sand
 sandbox
 sanitization
@@ -9191,6 +9201,7 @@ sessionize
 sessions
 set
 set_bios
+set-alias
 set-dnsservers
 set-githubsecrets
 set-itemproperty
@@ -9413,6 +9424,7 @@ soltra
 solution
 solutions
 sonarcloud
+sonarqube
 sonarr
 sonatype
 songs
@@ -9536,6 +9548,7 @@ sqlserverbynarypsmodule
 sqlserverclient
 sqlservermodule
 sqlvirtualmachine
+sqlvm
 sqr
 sqrt
 square
@@ -9873,6 +9886,7 @@ telegram-bot-api
 telegram-sticker
 telegramx
 telemetry
+teletext
 telligent
 telnet
 temp
@@ -10346,8 +10360,10 @@ usg
 usps
 utc
 utf-8
+utf-sig
 utf7
 utf8
+utf8-sig
 utf8bom
 util
 utilities
@@ -10648,6 +10664,7 @@ webtime
 webview2
 wec
 wecutil
+weekday
 wef
 weixin
 well-known
@@ -10872,6 +10889,7 @@ wsl2
 wsl2 psmodule psedition_core
 wsman
 wsmanlistener
+wso2
 wsus
 wt
 wtsapi32
