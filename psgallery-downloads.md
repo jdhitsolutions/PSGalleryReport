@@ -2192,4 +2192,4 @@ Microsoft Graph PowerShell Cmdlets
 
 __Downloads__: 7,116,595 | __Repository__: https://github.com/microsoftgraph/msgraph-sdk-powershell
 
-*Updated: Sunday, 28 July 2024 17:51:18 UTC*
+*Updated: Monday, 29 July 2024 02:11:32 UTC*
