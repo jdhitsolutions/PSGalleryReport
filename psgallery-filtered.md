@@ -3,6 +3,30 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [PhpManager](https://www.powershellgallery.com/Packages/PhpManager/1.31.1) | 1.31.1
+
+### Published: 07/29/2024 09:45:45 by Michele Locati
+
+A PowerShell module to install/update PHP, PHP extensions and Composer
+
+__Downloads__: 199,991 | __Repository__: https://github.com/mlocati/powershell-phpmanager
+
+## [PowerShell.DynamicBatch](https://www.powershellgallery.com/Packages/PowerShell.DynamicBatch/1.75) | 1.75
+
+### Published: 07/29/2024 04:23:16 by HT
+
+Dynamically loads batch job configurations and executes the job.
+
+__Downloads__: 572 | __Repository__: 
+
+## [MemPolicyManager](https://www.powershellgallery.com/Packages/MemPolicyManager/0.1.3) | 0.1.3
+
+### Published: 07/29/2024 02:39:10 by Douglas S. Rios (DrIOSx)
+
+A PowerShell module for managing Microsoft Endpoint Manager policies, including backup, import, export, and comparison using Microsoft Graph API.
+
+__Downloads__: 3 | __Repository__: https://github.com/CriticalSolutionsNetwork/MemPolicyManager
+
 ## [Test-PowerPing](https://www.powershellgallery.com/Packages/Test-PowerPing/1.3.1.0) | 1.3.1.0
 
 ### Published: 07/29/2024 01:17:27 by Hunter Hirsch
@@ -2056,28 +2080,4 @@ This modules provides Cmdlets for OCI Genericartifactscontent Service
 
 __Downloads__: 6,102 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-## [OCI.PSModules.Generativeaiinference](https://www.powershellgallery.com/Packages/OCI.PSModules.Generativeaiinference/86.4.0) | 86.4.0
-
-### Published: 07/23/2024 20:17:26 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Generativeaiinference Service
-
-__Downloads__: 1,829 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Generativeai](https://www.powershellgallery.com/Packages/OCI.PSModules.Generativeai/86.4.0) | 86.4.0
-
-### Published: 07/23/2024 20:17:20 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Generativeai Service
-
-__Downloads__: 1,827 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Fusionapps](https://www.powershellgallery.com/Packages/OCI.PSModules.Fusionapps/86.4.0) | 86.4.0
-
-### Published: 07/23/2024 20:17:14 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Fusionapps Service
-
-__Downloads__: 4,413 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-*Updated: Monday, 29 July 2024 02:11:28 UTC*
+*Updated: Monday, 29 July 2024 09:52:18 UTC*

@@ -2112,9 +2112,9 @@ Microsoft Graph PowerShell Cmdlets
 
 __Downloads__: 7,997,234 | __Repository__: https://github.com/microsoftgraph/msgraph-sdk-powershell
 
-## [Microsoft.Online.SharePoint.PowerShell](https://www.powershellgallery.com/Packages/Microsoft.Online.SharePoint.PowerShell/16.0.25012.12000) | 16.0.25012.12000
+## [Microsoft.Online.SharePoint.PowerShell](https://www.powershellgallery.com/Packages/Microsoft.Online.SharePoint.PowerShell/16.0.25110.12000) | 16.0.25110.12000
 
-### Published: 07/06/2024 16:03:36 by Microsoft Corporation
+### Published: 07/29/2024 08:13:41 by Microsoft Corporation
 
 Microsoft SharePoint Online Services Module for Windows PowerShell
 
@@ -2192,4 +2192,4 @@ Microsoft Graph PowerShell Cmdlets
 
 __Downloads__: 7,116,595 | __Repository__: https://github.com/microsoftgraph/msgraph-sdk-powershell
 
-*Updated: Monday, 29 July 2024 02:11:32 UTC*
+*Updated: Monday, 29 July 2024 09:52:22 UTC*
