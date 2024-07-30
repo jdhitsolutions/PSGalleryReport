@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 29 July 2024 17:51:55 UTC
+Updated: Tuesday, 30 July 2024 02:10:20 UTC
 
 .bat
 .env
@@ -267,7 +267,6 @@ aimodels
 aip
 aiprompting
 aipscanner
-aircall
 airpower
 airpwr
 airtable
@@ -363,6 +362,8 @@ anova
 ansi
 ansible
 ansible-control-node
+ansible-playbook
+ansible-vault
 ansiblecontrolnode
 anthropic
 anti-malware
@@ -425,7 +426,6 @@ applicationmigration
 applicationmonitor
 applications
 applocker
-apply
 appmgmtcontrol
 apppool
 appraiser
@@ -570,7 +570,6 @@ authentication
 authenticationcertificate
 authenticode
 authn
-author
 authoring
 authoringtools
 authorisation
@@ -602,6 +601,7 @@ automatenow
 automaticpacketreportingsystem
 automation
 automation psmodule
+automationanywhere
 automationutils
 autopatching
 autopilot
@@ -625,8 +625,6 @@ avd
 ave
 avepoint
 avi
-avm
-avmtools
 avro
 avs
 avset
@@ -640,6 +638,7 @@ aws_profile
 aws-codebuild
 aws-lambda
 aws-vault
+aws.tools.powershell
 awsbedrock
 awscli
 awspricelist
@@ -835,7 +834,6 @@ ber
 bestpractice
 bestpractices
 bginfo
-bgp
 bi
 bibliography
 bibtex
@@ -917,7 +915,6 @@ boilerplate
 boinc
 bold-text
 bolt
-bom
 book
 bookmark
 bookmarks
@@ -1085,6 +1082,7 @@ cd+
 cdable_vars
 cdata
 cdb
+cdi
 cdm
 cdn
 cdp
@@ -1375,7 +1373,6 @@ comical
 comics
 command
 command_line
-command-line-interface
 command-validation
 commandcoverage
 commandhistory
@@ -1386,7 +1383,6 @@ commands
 commandsandresource
 commence
 comment
-comments
 commerce
 commfort
 commit
@@ -1513,6 +1509,7 @@ continuousintegration
 contrast
 control
 controller
+controlroom
 controlup
 conventional
 conventional-commits
@@ -1553,7 +1550,6 @@ copilot
 copy
 copy-item
 copypaste
-copyright
 core
 coreposh
 coreutils
@@ -1563,14 +1559,13 @@ cos
 cosmos
 cosmosdb
 cost
+cost-management
 costmanagement
 costoptimization
 couchbase
 couchdb
 couchpotato
 count
-count-lines-of-code
-count-loc
 countdown
 counter
 countries
@@ -1734,6 +1729,7 @@ dacl
 dacpac
 dacpackage
 dagger
+daily
 dalle3
 dane
 dangling
@@ -1872,7 +1868,6 @@ defaults
 defence
 defender
 defender-atp
-defender-for-endpoint
 defenderast
 defenderforendpoint
 defenderforidentity
@@ -1918,9 +1913,7 @@ desktop
 desktops
 desktopvirtualization
 details
-detect
 detection
-detectionrule
 deutschland
 dev
 dev-tools
@@ -2088,6 +2081,7 @@ dockerize
 dockerswarm
 docking
 docs
+docset
 document
 documentation
 documentdb
@@ -2678,7 +2672,6 @@ findfile
 findlocation
 findplace
 findproxyforurl
-fine-print
 fine-tuning
 finops
 firebird
@@ -2742,6 +2735,7 @@ forensic
 forensics
 forest
 forestdiscovery
+forgit
 forgiveness
 form
 format
@@ -2769,7 +2763,6 @@ foundationmodels
 fox
 foxpro
 fqdn
-frame
 framework
 france
 free
@@ -2784,8 +2777,6 @@ freshservice-api
 freshserviceps
 freshworks
 friendly
-fritz
-fritzbox
 front
 frontapp
 frontdoor
@@ -2942,7 +2933,6 @@ git-flow
 git-lfs
 git-proxy
 git-rename
-git-stat
 gitcmdline
 gitdesktop
 gitea
@@ -2986,6 +2976,7 @@ google-chrome
 google-fonts
 google-histogram
 google-sankey
+google-table
 googleadsv2
 googlecloudplatform
 googledrive
@@ -3205,9 +3196,9 @@ hkey_current_user
 hkey_local_machine
 hkey_users
 hklm
+hl7
 hlds
 hls
-hockey
 hol
 holiday
 home
@@ -3364,22 +3355,13 @@ im
 image
 image-comparison
 image-converter
-image-creation
-image-generation
-image-process
-image-validation
 imagebuilder
-imagecreate
-imagecreation
 imagegeneration
 imageoftheday
-imageprocess
 imageprocessing
 images
 imageservicing
 imageslide
-imagevalidate
-imagevalidation
 imagga
 imagination
 imaging
@@ -3405,7 +3387,6 @@ incident
 incident-response
 incidentresponse
 incontact
-indents
 index
 indexdb
 indicator
@@ -3668,6 +3649,7 @@ junction
 junctions
 junit
 jupyter
+jupytor
 jurassic
 jurassic2
 justenoughadministration
@@ -3863,7 +3845,6 @@ limit-job
 limits
 lina
 line
-line-endings
 linear
 linearalgebra
 lingeringobjects
@@ -3908,7 +3889,6 @@ loader
 loadtesting
 loanddepot
 loandepot
-loc
 local
 local-caching
 local-policy
@@ -4105,7 +4085,6 @@ marketplaceprivateoffer
 marketplacepublisher
 marking
 marklogic
-marquee
 marvel
 marvell
 marvell_semiconductor_inc
@@ -4158,7 +4137,6 @@ mdx
 me4024
 mean
 measure
-measure-loc
 measure-process
 mecm
 media
@@ -4167,7 +4145,6 @@ mediaplayer
 mediaservices
 mediawiki
 meditation
-medlemsservice
 meesman
 meeting
 meetup
@@ -4596,7 +4573,6 @@ nfsv3
 ngen
 ngfw
 nginx
-nhl
 nic
 nic.ru
 nightmare
@@ -4770,7 +4746,6 @@ onboard
 onboardadministrator
 onboarding
 oncommand-insight
-ondemand
 one
 onedrive
 onedriveforbusiness
@@ -5146,7 +5121,6 @@ plugin
 plugins
 pluralsight
 ply
-pmp
 pncit
 pnp
 pnp.powershell
@@ -5238,6 +5212,7 @@ poshy-wrap-dnf
 poshy-wrap-docker
 poshy-wrap-docker-compose
 poshy-wrap-dotnet
+poshy-wrap-forgit
 poshy-wrap-gem
 poshy-wrap-gh
 poshy-wrap-git
@@ -5253,7 +5228,6 @@ poshy-wrap-npm
 poshy-wrap-pip
 poshy-wrap-pipenv
 poshy-wrap-pyenv
-poshy-wrap-pylint
 poshy-wrap-python
 poshy-wrap-ruby
 poshy-wrap-systemctl
@@ -5481,6 +5455,7 @@ prowl-notifications
 prowlapp
 proxmox
 proxmoxve
+proxsys
 proxy
 proxyfunction
 proxyfunctions
@@ -5813,6 +5788,29 @@ pscommand_fmtstrikethrough
 pscommand_fmtstrikethroughoff
 pscommand_fmtunderline
 pscommand_fmtunderlineoff
+pscommand_forgit-add
+pscommand_forgit-blame
+pscommand_forgit-branch-delete
+pscommand_forgit-checkout-branch
+pscommand_forgit-checkout-commit
+pscommand_forgit-checkout-file
+pscommand_forgit-checkout-tag
+pscommand_forgit-cherry-pick
+pscommand_forgit-cherry-pick-from-branch
+pscommand_forgit-clean
+pscommand_forgit-diff
+pscommand_forgit-fixup
+pscommand_forgit-ignore
+pscommand_forgit-ignore-clean
+pscommand_forgit-ignore-list
+pscommand_forgit-ignore-update
+pscommand_forgit-ignoreget
+pscommand_forgit-log
+pscommand_forgit-rebase
+pscommand_forgit-reset-head
+pscommand_forgit-revert-commit
+pscommand_forgit-stash-push
+pscommand_forgit-stash-show
 pscommand_format-batcatstyle
 pscommand_format-lesstermcapenv
 pscommand_format-viewerinvocationsh
@@ -5855,6 +5853,7 @@ pscommand_gcame
 pscommand_gcamg
 pscommand_gcams
 pscommand_gcamu
+pscommand_gcb
 pscommand_gcd
 pscommand_gcem
 pscommand_gcf
@@ -6002,6 +6001,7 @@ pscommand_gflrs
 pscommand_gfo
 pscommand_gft
 pscommand_gftv
+pscommand_gfu
 pscommand_gfv
 pscommand_gg
 pscommand_ggb
@@ -6010,6 +6010,7 @@ pscommand_ggs
 pscommand_ggui
 pscommand_ggup
 pscommand_ghm
+pscommand_gi
 pscommand_gignore
 pscommand_gignored
 pscommand_git_blame_line
@@ -6117,6 +6118,7 @@ pscommand_gra
 pscommand_grb
 pscommand_grbc
 pscommand_grbm
+pscommand_grc
 pscommand_grem
 pscommand_grema
 pscommand_gremrm
@@ -6141,6 +6143,7 @@ pscommand_gsd
 pscommand_gsh
 pscommand_gshsf
 pscommand_gsl
+pscommand_gsp
 pscommand_gsr
 pscommand_gss
 pscommand_gssll
@@ -6503,7 +6506,6 @@ pscommand_invoke-pipinstallupgrade
 pscommand_invoke-piplistoutdated
 pscommand_invoke-pipuninstall
 pscommand_invoke-pyenv
-pscommand_invoke-pylintreportsdisabled
 pscommand_invoke-ruby
 pscommand_invoke-rubyexecute
 pscommand_invoke-rubyexecutehttpdhere
@@ -6992,7 +6994,6 @@ pscommand_pwh
 pscommand_pwshrc-show-proxy
 pscommand_py
 pscommand_pyenv
-pscommand_pylint-quick
 pscommand_pyserver
 pscommand_python
 pscommand_python3
@@ -7472,6 +7473,29 @@ psfunction_fmtstrikethrough
 psfunction_fmtstrikethroughoff
 psfunction_fmtunderline
 psfunction_fmtunderlineoff
+psfunction_forgit-add
+psfunction_forgit-blame
+psfunction_forgit-branch-delete
+psfunction_forgit-checkout-branch
+psfunction_forgit-checkout-commit
+psfunction_forgit-checkout-file
+psfunction_forgit-checkout-tag
+psfunction_forgit-cherry-pick
+psfunction_forgit-cherry-pick-from-branch
+psfunction_forgit-clean
+psfunction_forgit-diff
+psfunction_forgit-fixup
+psfunction_forgit-ignore
+psfunction_forgit-ignore-clean
+psfunction_forgit-ignore-list
+psfunction_forgit-ignore-update
+psfunction_forgit-ignoreget
+psfunction_forgit-log
+psfunction_forgit-rebase
+psfunction_forgit-reset-head
+psfunction_forgit-revert-commit
+psfunction_forgit-stash-push
+psfunction_forgit-stash-show
 psfunction_format-batcatstyle
 psfunction_format-lesstermcapenv
 psfunction_format-viewerinvocationsh
@@ -7892,7 +7916,6 @@ psfunction_invoke-pipinstallupgrade
 psfunction_invoke-piplistoutdated
 psfunction_invoke-pipuninstall
 psfunction_invoke-pyenv
-psfunction_invoke-pylintreportsdisabled
 psfunction_invoke-ruby
 psfunction_invoke-rubyexecute
 psfunction_invoke-rubyexecutehttpdhere
@@ -8470,7 +8493,6 @@ pwshrc
 pxedistributionpoint
 pyenv
 pygmentize
-pylint
 pyranja
 python
 python-for-dotnet
@@ -8866,6 +8888,7 @@ royaldocument
 royalserver
 royalts
 royaltsx
+rpa
 rpc
 rras
 rrd
@@ -9285,7 +9308,6 @@ sid
 sidecar
 siem
 sif
-sigma
 sign
 signalfx
 signalr
@@ -9424,7 +9446,6 @@ soltra
 solution
 solutions
 sonarcloud
-sonarqube
 sonarr
 sonatype
 songs
@@ -9479,7 +9500,6 @@ speed
 speedometer
 speedtest
 speedtester
-spejder
 spellcheck
 spelling
 spf
@@ -9497,7 +9517,6 @@ spn
 spo
 spooler
 sport
-sports
 sports-tracker
 spotify
 spotify-api
@@ -10057,8 +10076,6 @@ toughswitch
 tower
 tphubps
 tpm
-tr-064
-tr064
 trace
 traceevent
 tracer
@@ -10360,10 +10377,8 @@ usg
 usps
 utc
 utf-8
-utf-sig
 utf7
 utf8
-utf8-sig
 utf8bom
 util
 utilities
@@ -10710,7 +10725,6 @@ win32_operatingsystem
 win32-api
 win32appmigrationtool
 win32shutdown
-winbgp
 windchillrv&s
 window
 windows
