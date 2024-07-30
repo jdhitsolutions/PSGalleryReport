@@ -3,6 +3,22 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [PS.Selenium](https://www.powershellgallery.com/Packages/PS.Selenium/1.18) | 1.18
+
+### Published: 07/30/2024 09:15:09 by Nutstone
+
+Wraps Selenium
+
+__Downloads__: 161 | __Repository__: 
+
+## [PsKrane](https://www.powershellgallery.com/Packages/PsKrane/0.5.2) | 0.5.2
+
+### Published: 07/30/2024 06:22:50 by Stephane van Gulick
+
+Opinionated module to scaffold, manage and help build standardized powershell modules implementing best pratcises out of the box with ease.
+
+__Downloads__: 268 | __Repository__: https://github.com/Stephanevg/PsKrane
+
 ## [MASES.KNetPS](https://www.powershellgallery.com/Packages/MASES.KNetPS/2.7.7) | 2.7.7
 
 ### Published: 07/30/2024 01:36:28 by MASES s.r.l.
@@ -483,14 +499,6 @@ __Downloads__: 26,390 | __Repository__: https://github.com/sbattenberg/SharePoin
 Powershell Module to run JumpCloud Active Directory Migration Utility.
 
 __Downloads__: 14,961 | __Repository__: 
-
-## [PsKrane](https://www.powershellgallery.com/Packages/PsKrane/0.5.1) | 0.5.1
-
-### Published: 07/25/2024 15:39:40 by Stephane van Gulick
-
-Opinionated module to scaffold, manage and help build standardized powershell modules implementing best pratcises out of the box with ease.
-
-__Downloads__: 268 | __Repository__: https://github.com/Stephanevg/PsKrane
 
 ## [Devolutions.PowerShell](https://www.powershellgallery.com/Packages/Devolutions.PowerShell/2024.2.3) | 2024.2.3
 
@@ -2072,12 +2080,4 @@ This modules provides Cmdlets for OCI Identitydataplane Service
 
 __Downloads__: 5,245 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-## [OCI.PSModules.Identity](https://www.powershellgallery.com/Packages/OCI.PSModules.Identity/86.4.0) | 86.4.0
-
-### Published: 07/23/2024 20:18:10 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Identity Service
-
-__Downloads__: 11,538 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-*Updated: Tuesday, 30 July 2024 02:10:12 UTC*
+*Updated: Tuesday, 30 July 2024 09:51:52 UTC*
