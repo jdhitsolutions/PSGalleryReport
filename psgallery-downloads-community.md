@@ -834,9 +834,9 @@ This PowerShell module contains PowerShell Advanced functions for VMware.Sdk.vSp
 
 __Downloads__: 4,445,887 | __Repository__: https://developer.vmware.com/powercli
 
-## [Evergreen](https://www.powershellgallery.com/Packages/Evergreen/2407.1230) | 2407.1230
+## [Evergreen](https://www.powershellgallery.com/Packages/Evergreen/2407.1259) | 2407.1259
 
-### Published: 07/16/2024 11:42:06 by Aaron Parker
+### Published: 07/30/2024 00:06:03 by Aaron Parker
 
 Create evergreen Windows image builds with the latest versions of applications. Evergreen is a simple PowerShell module that retrieves the latest version numbers and download URLs for various software products directly from the vendor source.
 
@@ -2138,4 +2138,4 @@ Helper functions for PowerShell CI/CD scenarios.
 
 __Downloads__: 602,464 | __Repository__: https://github.com/RamblingCookieMonster/BuildHelpers/
 
-*Updated: Monday, 29 July 2024 17:51:52 UTC*
+*Updated: Tuesday, 30 July 2024 02:10:17 UTC*

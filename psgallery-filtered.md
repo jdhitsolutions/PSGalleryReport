@@ -3,74 +3,9 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
-## [Universal](https://www.powershellgallery.com/Packages/Universal/4.3.4) | 4.3.4
+## [MASES.KNetPS](https://www.powershellgallery.com/Packages/MASES.KNetPS/2.7.7) | 2.7.7
 
-### Published: 07/29/2024 16:14:12 by Ironman Software
-
-Module for PowerShell Universal.
-
-__Downloads__: 104,764 | __Repository__: https://ironmansoftware.com/powershell-universal
-
-## [ScubaGear](https://www.powershellgallery.com/Packages/ScubaGear/1.3.0.1722262837) | 1.3.0.1722262837
-
-### Published: 07/29/2024 14:21:15 by CISA
-
-The Secure Cloud Business Applications (SCuBA) Gear module automates
-conformance testing about CISA M365 Secure Configuration Baselines.
-
-__Downloads__: 8,290 | __Repository__: https://github.com/cisagov/ScubaGear
-
-## [SAPAzurePowerShellModules](https://www.powershellgallery.com/Packages/SAPAzurePowerShellModules/0.1.68) | 0.1.68
-
-### Published: 07/29/2024 11:48:53 by Goran Condric
-
-SAP on Azure PowerShell Modules used for automation.
-
-__Downloads__: 1,925 | __Repository__: 
-
-## [365AutomatedCheck](https://www.powershellgallery.com/Packages/365AutomatedCheck/0.0.11) | 0.0.11
-
-### Published: 07/29/2024 11:17:56 by Clayton Tyger
-
-This module checks for your fields in your Office 365 tenant to see if they meet company standards.
-
-__Downloads__: 20 | __Repository__: https://github.com/DevClate/365AutomatedCheck
-
-## [PhpManager](https://www.powershellgallery.com/Packages/PhpManager/1.31.1) | 1.31.1
-
-### Published: 07/29/2024 09:45:45 by Michele Locati
-
-A PowerShell module to install/update PHP, PHP extensions and Composer
-
-__Downloads__: 199,991 | __Repository__: https://github.com/mlocati/powershell-phpmanager
-
-## [PowerShell.DynamicBatch](https://www.powershellgallery.com/Packages/PowerShell.DynamicBatch/1.75) | 1.75
-
-### Published: 07/29/2024 04:23:16 by HT
-
-Dynamically loads batch job configurations and executes the job.
-
-__Downloads__: 572 | __Repository__: 
-
-## [MemPolicyManager](https://www.powershellgallery.com/Packages/MemPolicyManager/0.1.3) | 0.1.3
-
-### Published: 07/29/2024 02:39:10 by Douglas S. Rios (DrIOSx)
-
-A PowerShell module for managing Microsoft Endpoint Manager policies, including backup, import, export, and comparison using Microsoft Graph API.
-
-__Downloads__: 3 | __Repository__: https://github.com/CriticalSolutionsNetwork/MemPolicyManager
-
-## [Test-PowerPing](https://www.powershellgallery.com/Packages/Test-PowerPing/1.3.1.0) | 1.3.1.0
-
-### Published: 07/29/2024 01:17:27 by Hunter Hirsch
-
-Sends single pings (ICMP) asynchronously to devices to determine network accessibility. Returns simple ping results (Status,IPv4Address,DeviceName,Time) with status codes. Additional features: Address list generation, CIDR calculator, Range to CIDR conversion.
-
-__Downloads__: 100 | __Repository__: https://www.powershellgallery.com/packages/Test-PowerPing
-
-## [MASES.KNetPS](https://www.powershellgallery.com/Packages/MASES.KNetPS/2.7.6) | 2.7.6
-
-### Published: 07/29/2024 01:17:18 by MASES s.r.l.
+### Published: 07/30/2024 01:36:28 by MASES s.r.l.
 
 KNet PowerShell command line interface is a PowerShell Module to use Apache Kafka and PowerShell side-by-side. With KNet PowerShell it is possible to:
 - execute all tools of Apache Kafka within a PowerShell shell: Administration tools, Console Consumer, Console Producer, manage Apache Kafka Streams, activate Apache Kafka Connect, server side (start Kafka and ZooKeeper), etc
@@ -82,41 +17,9 @@ More information within the project hosted on GitHub. Further information at htt
 
 __Downloads__: 673 | __Repository__: https://github.com/masesgroup/KNet
 
-## [dbatools.ai](https://www.powershellgallery.com/Packages/dbatools.ai/1.1) | 1.1
+## [MASES.JNetPS](https://www.powershellgallery.com/Packages/MASES.JNetPS/2.5.7) | 2.5.7
 
-### Published: 07/28/2024 20:46:06 by Chrissy LeMaire
-
-dbatools.ai is a copilot for SQL Server databases
-
-__Downloads__: 34 | __Repository__: https://github.com/potatoqualitee/dbatools.ai
-
-## [AppManiProgramManager](https://www.powershellgallery.com/Packages/AppManiProgramManager/1.55.1) | 1.55.1
-
-### Published: 07/28/2024 20:29:08 by AppMani
-
-Module for installing basic programs: This module provides functions for downloading installers from specified links, installing the programs, verifying the installed programs/services, and cleaning up the installer files.
-
-__Downloads__: 124,255 | __Repository__: 
-
-## [brickBOX](https://www.powershellgallery.com/Packages/brickBOX/1.3.0) | 1.3.0
-
-### Published: 07/28/2024 19:35:56 by Patrick Page Gehrig
-
-A collection of powershell functions, put in a module to make scripting easier
-
-__Downloads__: 57 | __Repository__: https://github.com/pageBOX/brickBOX/
-
-## [WindmillClient](https://www.powershellgallery.com/Packages/WindmillClient/1.368.3) | 1.368.3
-
-### Published: 07/28/2024 17:35:40 by Windmill Labs
-
-Client for the Windmill platform.
-
-__Downloads__: 428 | __Repository__: https://github.com/windmill-labs/windmill/tree/main/powershell-client
-
-## [MASES.JNetPS](https://www.powershellgallery.com/Packages/MASES.JNetPS/2.5.6) | 2.5.6
-
-### Published: 07/28/2024 16:51:03 by MASES s.r.l.
+### Published: 07/30/2024 00:38:52 by MASES s.r.l.
 
 JNet (Java/JVM suite for .NET) PowerShell (aka JNetPS) is a PowerShell Module to use JVM and PowerShell side-by-side. With JNetPS it is possible to:
 - create and use JVM objects from PowerShell: initialize JVM object (Java, Scala, Kotlin, ...), execute mehods on the object, read data from the object to be used for further PowerShell code 
@@ -126,33 +29,33 @@ More information within the project hosted on GitHub at https://github.com/mases
 
 __Downloads__: 227 | __Repository__: https://github.com/masesgroup/JNet
 
-## [PSAuthClient](https://www.powershellgallery.com/Packages/PSAuthClient/1.2.0) | 1.2.0
+## [Evergreen](https://www.powershellgallery.com/Packages/Evergreen/2407.1259) | 2407.1259
 
-### Published: 07/28/2024 15:55:51 by Alf Løkken
+### Published: 07/30/2024 00:06:03 by Aaron Parker
 
-PowerShell Authentication Client (OAuth2.0/OIDC)
+Create evergreen Windows image builds with the latest versions of applications. Evergreen is a simple PowerShell module that retrieves the latest version numbers and download URLs for various software products directly from the vendor source.
 
-__Downloads__: 2,052 | __Repository__: https://github.com/alflokken/PSAuthClient
+__Downloads__: 4,444,554 | __Repository__: https://stealthpuppy.com/evergreen/
 
-## [PSPassPhrase](https://www.powershellgallery.com/Packages/PSPassPhrase/1.0.1) | 1.0.1
+## [PSPassPhrase](https://www.powershellgallery.com/Packages/PSPassPhrase/1.0.3) | 1.0.3
 
-### Published: 07/28/2024 13:18:56 by Martin Cooper (@mc1903)
+### Published: 07/29/2024 20:08:32 by Martin Cooper (@mc1903)
 
 A simple PowerShell Bulk Passphrase Generator
 
 __Downloads__: 0 | __Repository__: https://github.com/mc1903/PSPassPhrase
 
-## [JS7](https://www.powershellgallery.com/Packages/JS7/2.0.21.0) | 2.0.21.0
+## [WindmillClient](https://www.powershellgallery.com/Packages/WindmillClient/1.370.0) | 1.370.0
 
-### Published: 07/28/2024 07:38:32 by Andreas Pueschel
+### Published: 07/29/2024 19:38:15 by Windmill Labs
 
-Manage and Control workflows and jobs with JS7 JobScheduler Controller and Agents, access the JS7 REST Web Service API
+Client for the Windmill platform.
 
-__Downloads__: 912 | __Repository__: https://kb.sos-berlin.com/x/PpQwAw
+__Downloads__: 428 | __Repository__: https://github.com/windmill-labs/windmill/tree/main/powershell-client
 
-## [Harden-Windows-Security-Module](https://www.powershellgallery.com/Packages/Harden-Windows-Security-Module/0.5.1) | 0.5.1
+## [Harden-Windows-Security-Module](https://www.powershellgallery.com/Packages/Harden-Windows-Security-Module/0.5.2) | 0.5.2
 
-### Published: 07/28/2024 07:08:47 by HotCakeX
+### Published: 07/29/2024 19:32:12 by HotCakeX
 
 Harden Windows Safely, Securely, only with Official Microsoft methods - 🦄 Intune - 🧩 Group Policy - 🛡️ Local - ☁️ Cloud (All scenarios supported 💯)
 
@@ -204,6 +107,118 @@ Harden Windows Safely, Securely, only with Official Microsoft methods - 🦄 Int
 🟡 The module generates a nice output on the screen as well as giving users an option to export the results in a CSV file.
 
 __Downloads__: 22,034 | __Repository__: https://github.com/HotCakeX/Harden-Windows-Security
+
+## [AsBuiltReport.Microsoft.Windows](https://www.powershellgallery.com/Packages/AsBuiltReport.Microsoft.Windows/0.5.5) | 0.5.5
+
+### Published: 07/29/2024 19:11:49 by Andrew Ramsay
+
+A PowerShell module to generate an as built report on the configuration of Microsoft Windows.
+
+__Downloads__: 11,653 | __Repository__: https://github.com/AsBuiltReport/AsBuiltReport.Microsoft.Windows
+
+## [psCandy](https://www.powershellgallery.com/Packages/psCandy/0.3.2) | 0.3.2
+
+### Published: 07/29/2024 17:59:24 by Yves Godart
+
+This module provides classes for Eye-Candy in the console.
+
+__Downloads__: 4,536 | __Repository__: https://github.com/Yves848/psCandy/tree/master
+
+## [Universal](https://www.powershellgallery.com/Packages/Universal/4.3.4) | 4.3.4
+
+### Published: 07/29/2024 16:14:12 by Ironman Software
+
+Module for PowerShell Universal.
+
+__Downloads__: 104,764 | __Repository__: https://ironmansoftware.com/powershell-universal
+
+## [SAPAzurePowerShellModules](https://www.powershellgallery.com/Packages/SAPAzurePowerShellModules/0.1.68) | 0.1.68
+
+### Published: 07/29/2024 11:48:53 by Goran Condric
+
+SAP on Azure PowerShell Modules used for automation.
+
+__Downloads__: 1,925 | __Repository__: 
+
+## [365AutomatedCheck](https://www.powershellgallery.com/Packages/365AutomatedCheck/0.0.11) | 0.0.11
+
+### Published: 07/29/2024 11:17:56 by Clayton Tyger
+
+This module checks for your fields in your Office 365 tenant to see if they meet company standards.
+
+__Downloads__: 20 | __Repository__: https://github.com/DevClate/365AutomatedCheck
+
+## [PhpManager](https://www.powershellgallery.com/Packages/PhpManager/1.31.1) | 1.31.1
+
+### Published: 07/29/2024 09:45:45 by Michele Locati
+
+A PowerShell module to install/update PHP, PHP extensions and Composer
+
+__Downloads__: 199,991 | __Repository__: https://github.com/mlocati/powershell-phpmanager
+
+## [PowerShell.DynamicBatch](https://www.powershellgallery.com/Packages/PowerShell.DynamicBatch/1.75) | 1.75
+
+### Published: 07/29/2024 04:23:16 by HT
+
+Dynamically loads batch job configurations and executes the job.
+
+__Downloads__: 572 | __Repository__: 
+
+## [MemPolicyManager](https://www.powershellgallery.com/Packages/MemPolicyManager/0.1.3) | 0.1.3
+
+### Published: 07/29/2024 02:39:10 by Douglas S. Rios (DrIOSx)
+
+A PowerShell module for managing Microsoft Endpoint Manager policies, including backup, import, export, and comparison using Microsoft Graph API.
+
+__Downloads__: 3 | __Repository__: https://github.com/CriticalSolutionsNetwork/MemPolicyManager
+
+## [Test-PowerPing](https://www.powershellgallery.com/Packages/Test-PowerPing/1.3.1.0) | 1.3.1.0
+
+### Published: 07/29/2024 01:17:27 by Hunter Hirsch
+
+Sends single pings (ICMP) asynchronously to devices to determine network accessibility. Returns simple ping results (Status,IPv4Address,DeviceName,Time) with status codes. Additional features: Address list generation, CIDR calculator, Range to CIDR conversion.
+
+__Downloads__: 100 | __Repository__: https://www.powershellgallery.com/packages/Test-PowerPing
+
+## [dbatools.ai](https://www.powershellgallery.com/Packages/dbatools.ai/1.1) | 1.1
+
+### Published: 07/28/2024 20:46:06 by Chrissy LeMaire
+
+dbatools.ai is a copilot for SQL Server databases
+
+__Downloads__: 34 | __Repository__: https://github.com/potatoqualitee/dbatools.ai
+
+## [AppManiProgramManager](https://www.powershellgallery.com/Packages/AppManiProgramManager/1.55.1) | 1.55.1
+
+### Published: 07/28/2024 20:29:08 by AppMani
+
+Module for installing basic programs: This module provides functions for downloading installers from specified links, installing the programs, verifying the installed programs/services, and cleaning up the installer files.
+
+__Downloads__: 124,255 | __Repository__: 
+
+## [brickBOX](https://www.powershellgallery.com/Packages/brickBOX/1.3.0) | 1.3.0
+
+### Published: 07/28/2024 19:35:56 by Patrick Page Gehrig
+
+A collection of powershell functions, put in a module to make scripting easier
+
+__Downloads__: 57 | __Repository__: https://github.com/pageBOX/brickBOX/
+
+## [PSAuthClient](https://www.powershellgallery.com/Packages/PSAuthClient/1.2.0) | 1.2.0
+
+### Published: 07/28/2024 15:55:51 by Alf Løkken
+
+PowerShell Authentication Client (OAuth2.0/OIDC)
+
+__Downloads__: 2,052 | __Repository__: https://github.com/alflokken/PSAuthClient
+
+## [JS7](https://www.powershellgallery.com/Packages/JS7/2.0.21.0) | 2.0.21.0
+
+### Published: 07/28/2024 07:38:32 by Andreas Pueschel
+
+Manage and Control workflows and jobs with JS7 JobScheduler Controller and Agents, access the JS7 REST Web Service API
+
+__Downloads__: 912 | __Repository__: https://kb.sos-berlin.com/x/PpQwAw
 
 ## [SqlServerTools](https://www.powershellgallery.com/Packages/SqlServerTools/3.4.0.1) | 3.4.0.1
 
@@ -2065,20 +2080,4 @@ This modules provides Cmdlets for OCI Identity Service
 
 __Downloads__: 11,538 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-## [OCI.PSModules.Healthchecks](https://www.powershellgallery.com/Packages/OCI.PSModules.Healthchecks/86.4.0) | 86.4.0
-
-### Published: 07/23/2024 20:18:02 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Healthchecks Service
-
-__Downloads__: 20,991 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Governancerulescontrolplane](https://www.powershellgallery.com/Packages/OCI.PSModules.Governancerulescontrolplane/86.4.0) | 86.4.0
-
-### Published: 07/23/2024 20:17:55 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Governancerulescontrolplane Service
-
-__Downloads__: 4,610 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-*Updated: Monday, 29 July 2024 17:51:47 UTC*
+*Updated: Tuesday, 30 July 2024 02:10:12 UTC*
