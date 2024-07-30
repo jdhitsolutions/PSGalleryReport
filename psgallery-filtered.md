@@ -3,6 +3,182 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [PSAzureSignTool](https://www.powershellgallery.com/Packages/PSAzureSignTool/0.4.6) | 0.4.6
+
+### Published: 07/30/2024 17:30:14 by DevOps
+
+Module for code signing assemblies using AzureSignTool
+
+__Downloads__: 11,503 | __Repository__: 
+
+## [WindmillClient](https://www.powershellgallery.com/Packages/WindmillClient/1.371.1) | 1.371.1
+
+### Published: 07/30/2024 16:22:59 by Windmill Labs
+
+Client for the Windmill platform.
+
+__Downloads__: 428 | __Repository__: https://github.com/windmill-labs/windmill/tree/main/powershell-client
+
+## [DscConfig.AADConnect](https://www.powershellgallery.com/Packages/DscConfig.AADConnect/0.1.1) | 0.1.1
+
+### Published: 07/30/2024 16:14:36 by DSC Community
+
+DSC composite resource for https://github.com/dsccommunity/DscWorkshop
+
+__Downloads__: 10 | __Repository__: https://github.com/dsccommunity/DscConfig.AADConnect
+
+## [Winpack](https://www.powershellgallery.com/Packages/Winpack/0.2.7) | 0.2.7
+
+### Published: 07/30/2024 14:23:07 by yvesg
+
+Helpers functions for Winget
+
+__Downloads__: 4,878 | __Repository__: https://github.com/Yves848/winpack/tree/master
+
+## [Intersight.PowerShell](https://www.powershellgallery.com/Packages/Intersight.PowerShell/1.0.11.17769) | 1.0.11.17769
+
+### Published: 07/30/2024 14:16:29 by Cisco Systems
+
+Intersight Powershell module provides the cmdlets to manage, analyze, and automate the IT infrastructure in Intersight.
+
+__Downloads__: 10,009 | __Repository__: https://github.com/CiscoDevNet/intersight-powershell
+
+## [psCandy](https://www.powershellgallery.com/Packages/psCandy/0.3.3) | 0.3.3
+
+### Published: 07/30/2024 14:13:21 by Yves Godart
+
+This module provides classes for Eye-Candy in the console.
+
+__Downloads__: 4,536 | __Repository__: https://github.com/Yves848/psCandy/tree/master
+
+## [AdminToolbox](https://www.powershellgallery.com/Packages/AdminToolbox/11.0.171) | 11.0.171
+
+### Published: 07/30/2024 14:05:32 by Taylor Lee
+
+Master module for a collection of modules. These modules are varied in their tasks. The overall purpose of them being to provide a powerfull Toolset to improve IT Admin workflows.
+
+__Downloads__: 59,588 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox
+
+## [AdminToolbox.FortiWizard](https://www.powershellgallery.com/Packages/AdminToolbox.FortiWizard/2.19.19) | 2.19.19
+
+### Published: 07/30/2024 14:05:11 by Taylor Lee
+
+Functions that generate configuration scripts and manage FortiOS.
+
+__Downloads__: 39,303 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [AdminToolbox.VMWareAutomate](https://www.powershellgallery.com/Packages/AdminToolbox.VMWareAutomate/4.8.160) | 4.8.160
+
+### Published: 07/30/2024 14:04:03 by Taylor Lee
+
+Functions to Automate Bulk VMWare Tasks
+
+__Downloads__: 46,308 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [AdminToolbox.Remoting](https://www.powershellgallery.com/Packages/AdminToolbox.Remoting/1.9.163) | 1.9.163
+
+### Published: 07/30/2024 14:03:56 by Taylor Lee
+
+Functions for remote management and access.
+
+__Downloads__: 45,801 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [AdminToolbox.Office365](https://www.powershellgallery.com/Packages/AdminToolbox.Office365/4.0.23) | 4.0.23
+
+### Published: 07/30/2024 14:03:50 by Taylor Lee
+
+Functions for working with Office365 and Azure modules
+
+__Downloads__: 49,273 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [AdminToolbox.Networking](https://www.powershellgallery.com/Packages/AdminToolbox.Networking/2.20.4) | 2.20.4
+
+### Published: 07/30/2024 14:03:45 by Taylor Lee
+
+Network Troubleshooting Functions
+
+__Downloads__: 131,265 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [AdminToolbox.MSGraph](https://www.powershellgallery.com/Packages/AdminToolbox.MSGraph/1.3.17) | 1.3.17
+
+### Published: 07/30/2024 14:03:39 by Taylor Lee
+
+Microsoft Graph interactive API Functions
+
+__Downloads__: 36,111 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [AdminToolbox.Fun](https://www.powershellgallery.com/Packages/AdminToolbox.Fun/1.6.164) | 1.6.164
+
+### Published: 07/30/2024 14:03:34 by Taylor Lee
+
+Functions that have no purpose
+
+__Downloads__: 46,651 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [AdminToolbox.FileManagement](https://www.powershellgallery.com/Packages/AdminToolbox.FileManagement/1.16.155) | 1.16.155
+
+### Published: 07/30/2024 14:03:30 by Taylor Lee
+
+File Management Functions
+
+__Downloads__: 47,111 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [AdminToolbox.FFTools](https://www.powershellgallery.com/Packages/AdminToolbox.FFTools/4.16.113) | 4.16.113
+
+### Published: 07/30/2024 14:03:24 by Taylor Lee
+
+Expedite simple ffmpeg actions
+
+__Downloads__: 47,068 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [AdminToolbox.Exchange](https://www.powershellgallery.com/Packages/AdminToolbox.Exchange/1.9.164) | 1.9.164
+
+### Published: 07/30/2024 14:03:15 by Taylor Lee
+
+Functions for Exchange Management
+
+__Downloads__: 49,513 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [AdminToolbox.EndpointManagement](https://www.powershellgallery.com/Packages/AdminToolbox.EndpointManagement/4.10.41) | 4.10.41
+
+### Published: 07/30/2024 14:03:07 by Taylor Lee
+
+Functions for management of endpoints
+
+__Downloads__: 56,731 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [AdminToolbox.ActiveDirectory](https://www.powershellgallery.com/Packages/AdminToolbox.ActiveDirectory/1.10.25) | 1.10.25
+
+### Published: 07/30/2024 14:02:54 by Taylor Lee
+
+Functions for Active Directory
+
+__Downloads__: 57,444 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [MemPolicyManager](https://www.powershellgallery.com/Packages/MemPolicyManager/0.1.4) | 0.1.4
+
+### Published: 07/30/2024 13:30:59 by Douglas S. Rios (DrIOSx)
+
+A PowerShell module for managing Microsoft Endpoint Manager policies, including backup, import, export, and comparison using Microsoft Graph API.
+
+__Downloads__: 3 | __Repository__: https://github.com/CriticalSolutionsNetwork/MemPolicyManager
+
+## [SixPivot.Azure](https://www.powershellgallery.com/Packages/SixPivot.Azure/1.0.36) | 1.0.36
+
+### Published: 07/30/2024 13:06:56 by David Gardiner
+
+Azure cmdlets created by SixPivot
+
+__Downloads__: 900 | __Repository__: https://github.com/SixPivot/sixpivot-azure-powershell-module
+
+## [Evergreen](https://www.powershellgallery.com/Packages/Evergreen/2407.1289) | 2407.1289
+
+### Published: 07/30/2024 11:25:34 by Aaron Parker
+
+Create evergreen Windows image builds with the latest versions of applications. Evergreen is a simple PowerShell module that retrieves the latest version numbers and download URLs for various software products directly from the vendor source.
+
+__Downloads__: 4,444,554 | __Repository__: https://stealthpuppy.com/evergreen/
+
 ## [PS.Selenium](https://www.powershellgallery.com/Packages/PS.Selenium/1.18) | 1.18
 
 ### Published: 07/30/2024 09:15:09 by Nutstone
@@ -45,14 +221,6 @@ More information within the project hosted on GitHub at https://github.com/mases
 
 __Downloads__: 227 | __Repository__: https://github.com/masesgroup/JNet
 
-## [Evergreen](https://www.powershellgallery.com/Packages/Evergreen/2407.1259) | 2407.1259
-
-### Published: 07/30/2024 00:06:03 by Aaron Parker
-
-Create evergreen Windows image builds with the latest versions of applications. Evergreen is a simple PowerShell module that retrieves the latest version numbers and download URLs for various software products directly from the vendor source.
-
-__Downloads__: 4,444,554 | __Repository__: https://stealthpuppy.com/evergreen/
-
 ## [PSPassPhrase](https://www.powershellgallery.com/Packages/PSPassPhrase/1.0.3) | 1.0.3
 
 ### Published: 07/29/2024 20:08:32 by Martin Cooper (@mc1903)
@@ -60,14 +228,6 @@ __Downloads__: 4,444,554 | __Repository__: https://stealthpuppy.com/evergreen/
 A simple PowerShell Bulk Passphrase Generator
 
 __Downloads__: 0 | __Repository__: https://github.com/mc1903/PSPassPhrase
-
-## [WindmillClient](https://www.powershellgallery.com/Packages/WindmillClient/1.370.0) | 1.370.0
-
-### Published: 07/29/2024 19:38:15 by Windmill Labs
-
-Client for the Windmill platform.
-
-__Downloads__: 428 | __Repository__: https://github.com/windmill-labs/windmill/tree/main/powershell-client
 
 ## [Harden-Windows-Security-Module](https://www.powershellgallery.com/Packages/Harden-Windows-Security-Module/0.5.2) | 0.5.2
 
@@ -132,14 +292,6 @@ A PowerShell module to generate an as built report on the configuration of Micro
 
 __Downloads__: 11,653 | __Repository__: https://github.com/AsBuiltReport/AsBuiltReport.Microsoft.Windows
 
-## [psCandy](https://www.powershellgallery.com/Packages/psCandy/0.3.2) | 0.3.2
-
-### Published: 07/29/2024 17:59:24 by Yves Godart
-
-This module provides classes for Eye-Candy in the console.
-
-__Downloads__: 4,536 | __Repository__: https://github.com/Yves848/psCandy/tree/master
-
 ## [Universal](https://www.powershellgallery.com/Packages/Universal/4.3.4) | 4.3.4
 
 ### Published: 07/29/2024 16:14:12 by Ironman Software
@@ -179,14 +331,6 @@ __Downloads__: 199,991 | __Repository__: https://github.com/mlocati/powershell-p
 Dynamically loads batch job configurations and executes the job.
 
 __Downloads__: 572 | __Repository__: 
-
-## [MemPolicyManager](https://www.powershellgallery.com/Packages/MemPolicyManager/0.1.3) | 0.1.3
-
-### Published: 07/29/2024 02:39:10 by Douglas S. Rios (DrIOSx)
-
-A PowerShell module for managing Microsoft Endpoint Manager policies, including backup, import, export, and comparison using Microsoft Graph API.
-
-__Downloads__: 3 | __Repository__: https://github.com/CriticalSolutionsNetwork/MemPolicyManager
 
 ## [Test-PowerPing](https://www.powershellgallery.com/Packages/Test-PowerPing/1.3.1.0) | 1.3.1.0
 
@@ -291,110 +435,6 @@ __Downloads__: 1,068 | __Repository__: https://dev.azure.com/analyth/Analyth.Pow
 PowerShell functions for administration of Microsoft 365 services using Graph endpoints
 
 __Downloads__: 129 | __Repository__: https://github.com/themodulecollective/OGraph
-
-## [AdminToolbox](https://www.powershellgallery.com/Packages/AdminToolbox/11.0.170) | 11.0.170
-
-### Published: 07/27/2024 01:06:35 by Taylor Lee
-
-Master module for a collection of modules. These modules are varied in their tasks. The overall purpose of them being to provide a powerfull Toolset to improve IT Admin workflows.
-
-__Downloads__: 59,588 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox
-
-## [AdminToolbox.FortiWizard](https://www.powershellgallery.com/Packages/AdminToolbox.FortiWizard/2.19.18) | 2.19.18
-
-### Published: 07/27/2024 01:06:19 by Taylor Lee
-
-Functions that generate configuration scripts and manage FortiOS.
-
-__Downloads__: 39,303 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-## [AdminToolbox.VMWareAutomate](https://www.powershellgallery.com/Packages/AdminToolbox.VMWareAutomate/4.8.159) | 4.8.159
-
-### Published: 07/27/2024 01:05:13 by Taylor Lee
-
-Functions to Automate Bulk VMWare Tasks
-
-__Downloads__: 46,308 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-## [AdminToolbox.Remoting](https://www.powershellgallery.com/Packages/AdminToolbox.Remoting/1.9.162) | 1.9.162
-
-### Published: 07/27/2024 01:05:08 by Taylor Lee
-
-Functions for remote management and access.
-
-__Downloads__: 45,801 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-## [AdminToolbox.Office365](https://www.powershellgallery.com/Packages/AdminToolbox.Office365/4.0.22) | 4.0.22
-
-### Published: 07/27/2024 01:05:02 by Taylor Lee
-
-Functions for working with Office365 and Azure modules
-
-__Downloads__: 49,273 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-## [AdminToolbox.Networking](https://www.powershellgallery.com/Packages/AdminToolbox.Networking/2.20.3) | 2.20.3
-
-### Published: 07/27/2024 01:04:57 by Taylor Lee
-
-Network Troubleshooting Functions
-
-__Downloads__: 131,265 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-## [AdminToolbox.MSGraph](https://www.powershellgallery.com/Packages/AdminToolbox.MSGraph/1.3.16) | 1.3.16
-
-### Published: 07/27/2024 01:04:51 by Taylor Lee
-
-Microsoft Graph interactive API Functions
-
-__Downloads__: 36,111 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-## [AdminToolbox.Fun](https://www.powershellgallery.com/Packages/AdminToolbox.Fun/1.6.163) | 1.6.163
-
-### Published: 07/27/2024 01:04:46 by Taylor Lee
-
-Functions that have no purpose
-
-__Downloads__: 46,651 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-## [AdminToolbox.FileManagement](https://www.powershellgallery.com/Packages/AdminToolbox.FileManagement/1.16.154) | 1.16.154
-
-### Published: 07/27/2024 01:04:40 by Taylor Lee
-
-File Management Functions
-
-__Downloads__: 47,111 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-## [AdminToolbox.FFTools](https://www.powershellgallery.com/Packages/AdminToolbox.FFTools/4.16.112) | 4.16.112
-
-### Published: 07/27/2024 01:04:33 by Taylor Lee
-
-Expedite simple ffmpeg actions
-
-__Downloads__: 47,068 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-## [AdminToolbox.Exchange](https://www.powershellgallery.com/Packages/AdminToolbox.Exchange/1.9.163) | 1.9.163
-
-### Published: 07/27/2024 01:04:27 by Taylor Lee
-
-Functions for Exchange Management
-
-__Downloads__: 49,513 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-## [AdminToolbox.EndpointManagement](https://www.powershellgallery.com/Packages/AdminToolbox.EndpointManagement/4.10.40) | 4.10.40
-
-### Published: 07/27/2024 01:04:21 by Taylor Lee
-
-Functions for management of endpoints
-
-__Downloads__: 56,731 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-## [AdminToolbox.ActiveDirectory](https://www.powershellgallery.com/Packages/AdminToolbox.ActiveDirectory/1.10.24) | 1.10.24
-
-### Published: 07/27/2024 01:04:12 by Taylor Lee
-
-Functions for Active Directory
-
-__Downloads__: 57,444 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [PSAdaptiveCard](https://www.powershellgallery.com/Packages/PSAdaptiveCard/0.0.4) | 0.0.4
 
@@ -2040,44 +2080,4 @@ This modules provides Cmdlets for OCI Keymanagement Service
 
 __Downloads__: 6,770 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-## [OCI.PSModules.Jmsjavadownloads](https://www.powershellgallery.com/Packages/OCI.PSModules.Jmsjavadownloads/86.4.0) | 86.4.0
-
-### Published: 07/23/2024 20:18:45 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Jmsjavadownloads Service
-
-__Downloads__: 2,312 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Jms](https://www.powershellgallery.com/Packages/OCI.PSModules.Jms/86.4.0) | 86.4.0
-
-### Published: 07/23/2024 20:18:39 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Jms Service
-
-__Downloads__: 6,026 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Integration](https://www.powershellgallery.com/Packages/OCI.PSModules.Integration/86.4.0) | 86.4.0
-
-### Published: 07/23/2024 20:18:32 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Integration Service
-
-__Downloads__: 6,647 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Identitydomains](https://www.powershellgallery.com/Packages/OCI.PSModules.Identitydomains/86.4.0) | 86.4.0
-
-### Published: 07/23/2024 20:18:25 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Identitydomains Service
-
-__Downloads__: 3,597 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Identitydataplane](https://www.powershellgallery.com/Packages/OCI.PSModules.Identitydataplane/86.4.0) | 86.4.0
-
-### Published: 07/23/2024 20:18:17 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Identitydataplane Service
-
-__Downloads__: 5,245 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-*Updated: Tuesday, 30 July 2024 09:51:52 UTC*
+*Updated: Tuesday, 30 July 2024 17:51:34 UTC*

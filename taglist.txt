@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Tuesday, 30 July 2024 09:52:00 UTC
+Updated: Tuesday, 30 July 2024 17:51:42 UTC
 
 .bat
 .env
@@ -267,6 +267,7 @@ aimodels
 aip
 aiprompting
 aipscanner
+aircall
 airpower
 airpwr
 airtable
@@ -283,6 +284,7 @@ al
 alac
 alarm
 alb
+albums
 alc
 alero
 alert
@@ -361,6 +363,8 @@ anova
 ansi
 ansible
 ansible-control-node
+ansible-playbook
+ansible-vault
 ansiblecontrolnode
 anthropic
 anti-malware
@@ -423,7 +427,6 @@ applicationmigration
 applicationmonitor
 applications
 applocker
-apply
 appmgmtcontrol
 apppool
 appraiser
@@ -444,7 +447,6 @@ aprs
 aprs-is
 aprsis
 aprsthursday
-aps
 apt
 apt-get
 apt-get-update
@@ -600,6 +602,7 @@ automatenow
 automaticpacketreportingsystem
 automation
 automation psmodule
+automationanywhere
 automationutils
 autopatching
 autopilot
@@ -623,6 +626,8 @@ avd
 ave
 avepoint
 avi
+avm
+avmtools
 avro
 avs
 avset
@@ -656,6 +661,7 @@ azcompute
 azd
 azdisk
 azdo
+azereo
 azforensics
 azkeyvault
 aznetworking
@@ -1510,6 +1516,7 @@ continuousintegration
 contrast
 control
 controller
+controlroom
 controlup
 conventional
 conventional-commits
@@ -1560,13 +1567,14 @@ cos
 cosmos
 cosmosdb
 cost
-cost-management
 costmanagement
 costoptimization
 couchbase
 couchdb
 couchpotato
 count
+count-lines-of-code
+count-loc
 countdown
 counter
 countries
@@ -1917,6 +1925,7 @@ desktopvirtualization
 details
 detect
 detection
+detectionrule
 deutschland
 dev
 dev-tools
@@ -2781,6 +2790,8 @@ freshservice-api
 freshserviceps
 freshworks
 friendly
+fritz
+fritzbox
 front
 frontapp
 frontdoor
@@ -2937,6 +2948,7 @@ git-flow
 git-lfs
 git-proxy
 git-rename
+git-stat
 gitcmdline
 gitdesktop
 gitea
@@ -3360,13 +3372,22 @@ im
 image
 image-comparison
 image-converter
+image-creation
+image-generation
+image-process
+image-validation
 imagebuilder
+imagecreate
+imagecreation
 imagegeneration
 imageoftheday
+imageprocess
 imageprocessing
 images
 imageservicing
 imageslide
+imagevalidate
+imagevalidation
 imagga
 imagination
 imaging
@@ -3655,6 +3676,7 @@ junction
 junctions
 junit
 jupyter
+jupytor
 jurassic
 jurassic2
 justenoughadministration
@@ -3712,7 +3734,6 @@ kidrsa
 kill
 kindle
 kinetic
-kinopoisk
 kintone
 klantcontroles
 kms
@@ -3723,7 +3744,6 @@ knowbe4
 knowledge
 knowledgebase
 koans
-kodi
 korn
 kotlin
 kql
@@ -3894,6 +3914,7 @@ loader
 loadtesting
 loanddepot
 loandepot
+loc
 local
 local-caching
 local-policy
@@ -3931,6 +3952,7 @@ log4net
 loganalytics
 logbook
 logcat
+logentry
 logfile
 logfilearchivearchive
 logfilemanagement psmodule
@@ -3984,6 +4006,7 @@ loopback
 loremipsum
 love
 lovequotes
+lpsiamol
 ls
 lsa
 lsasecrets
@@ -3991,6 +4014,7 @@ lsd
 ltm
 lucd
 lucene
+lunches
 lwa
 lxca
 lxcapstool
@@ -4140,6 +4164,7 @@ mdx
 me4024
 mean
 measure
+measure-loc
 measure-process
 mecm
 media
@@ -4579,6 +4604,7 @@ ngfw
 nginx
 nhl
 nic
+nic.ru
 nightmare
 ninite
 ninja
@@ -4666,6 +4692,7 @@ nvd
 nvdimm
 nvdimm-n
 nvm
+nvm-window
 nxt
 nyse
 nzb
@@ -4896,7 +4923,6 @@ outsystems
 overbite
 ovf
 ovgd
-ovh
 owasp
 owls
 owner
@@ -5112,6 +5138,7 @@ play
 playback
 playbook
 player
+playlists
 playwright
 pleasant
 pleasantpasswordserver
@@ -5204,6 +5231,7 @@ poshy-lucidity
 poshy-multimedia
 poshy-net
 poshy-notify-send
+poshy-sh-isms
 poshy-sshconfig
 poshy-viewer-finder
 poshy-wrap
@@ -7091,10 +7119,14 @@ pscommand_syspip3_package_location
 pscommand_ta
 pscommand_tad
 pscommand_test-command
+pscommand_test-d
 pscommand_test-elevation
+pscommand_test-f
 pscommand_test-linkcapability
+pscommand_test-o
 pscommand_test-reparsepoint
 pscommand_test-sessioninteractivity
+pscommand_test-x
 pscommand_tf
 pscommand_tfa
 pscommand_tfc
@@ -8293,10 +8325,14 @@ psfunction_switch-gitbranchandtrack
 psfunction_switch-gitbranchmain
 psfunction_switch-gitbranchnew
 psfunction_test-command
+psfunction_test-d
 psfunction_test-elevation
+psfunction_test-f
 psfunction_test-linkcapability
+psfunction_test-o
 psfunction_test-reparsepoint
 psfunction_test-sessioninteractivity
+psfunction_test-x
 psfunction_universalarchive
 psfunction_update-gitbranchbasefrombranchmain
 psfunction_update-gitbranchbasefrommain
@@ -8424,7 +8460,6 @@ pssqlservermodule
 psst
 psstgenerator
 pstablacus
-pstanss
 psthread
 pstk
 pstwitter
@@ -8888,6 +8923,7 @@ royaldocument
 royalserver
 royalts
 royaltsx
+rpa
 rpc
 rras
 rrd
@@ -9307,6 +9343,7 @@ sid
 sidecar
 siem
 sif
+sigma
 sign
 signalfx
 signalr
@@ -9686,8 +9723,6 @@ streak
 stream
 streamanalytics
 streaming
-streamreader
-streamwriter
 stretch
 strictmode
 strikethrough-text
@@ -9805,6 +9840,7 @@ syslog
 sysman
 sysmon
 sysop
+syspass
 syspip
 syspip3
 sysprep
@@ -9859,7 +9895,6 @@ taken
 takeown
 tally
 talxis
-tanss
 tanzu
 tar
 target
@@ -9962,6 +9997,7 @@ tests
 testsuite
 testtag1
 testtag2
+testtool
 testusers
 text
 text-emoji
@@ -10076,6 +10112,8 @@ toughswitch
 tower
 tphubps
 tpm
+tr-064
+tr064
 trace
 traceevent
 tracer
@@ -10153,6 +10191,9 @@ tsa
 tsd
 tsheets
 tsqlbestpractice
+tst
+tst1
+tst3
 tsv
 ttrpg
 tts
@@ -10240,6 +10281,7 @@ ud-singleselect
 ud-slider
 ud-speechbubble
 ud-step
+ud-stepbar
 ud-stickynavbar
 ud-tagcloud
 ud-timeline
@@ -10677,6 +10719,7 @@ webtime
 webview2
 wec
 wecutil
+weekday
 wef
 weixin
 well-known
@@ -10852,7 +10895,6 @@ workingtime
 workload
 workload-automation
 workloadidentity
-workloads
 workpoint
 workrequests
 worksheet
