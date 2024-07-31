@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Tuesday, 30 July 2024 17:51:42 UTC
+Updated: Wednesday, 31 July 2024 01:59:01 UTC
 
 .bat
 .env
@@ -427,6 +427,7 @@ applicationmigration
 applicationmonitor
 applications
 applocker
+apply
 appmgmtcontrol
 apppool
 appraiser
@@ -447,6 +448,7 @@ aprs
 aprs-is
 aprsis
 aprsthursday
+aps
 apt
 apt-get
 apt-get-update
@@ -661,7 +663,6 @@ azcompute
 azd
 azdisk
 azdo
-azereo
 azforensics
 azkeyvault
 aznetworking
@@ -879,8 +880,6 @@ bitwarden
 bitwig
 bitwise
 biztalk
-biztalkalm
-biztalkdeploymentframework
 bks
 black
 blackbaud
@@ -972,7 +971,6 @@ browsing
 brs
 bruteforce
 bson
-btdf
 btm
 budget
 bugbounty
@@ -1567,7 +1565,7 @@ cos
 cosmos
 cosmosdb
 cost
-costmanagement
+cost-management
 costoptimization
 couchbase
 couchdb
@@ -2093,6 +2091,7 @@ dockerize
 dockerswarm
 docking
 docs
+docset
 document
 documentation
 documentdb
@@ -2513,6 +2512,7 @@ expandframework
 expect
 experience
 experiments
+expiration
 expired
 expiring
 expiry
@@ -2533,9 +2533,7 @@ exportteams
 expression
 extend
 extended
-extendedattributes
 extendedevents
-extendedproperties
 extendedproperty
 extendscript
 extensibility
@@ -2627,7 +2625,6 @@ file-system
 file-transform
 file-type
 file-type-association
-fileattributes
 fileencryption
 filelist
 filelog
@@ -2636,7 +2633,6 @@ filemanagement
 filematcher
 filename
 filenames
-fileproperties
 filereplication
 files
 files-cli
@@ -2685,7 +2681,6 @@ findplace
 findproxyforurl
 fine-print
 fine-tuning
-finops
 firebird
 firefox
 firewall
@@ -3212,7 +3207,6 @@ hkey_current_user
 hkey_local_machine
 hkey_users
 hklm
-hl7
 hlds
 hls
 hockey
@@ -3734,6 +3728,7 @@ kidrsa
 kill
 kindle
 kinetic
+kinopoisk
 kintone
 klantcontroles
 kms
@@ -3744,6 +3739,7 @@ knowbe4
 knowledge
 knowledgebase
 koans
+kodi
 korn
 kotlin
 kql
@@ -4249,7 +4245,6 @@ microsoft365
 microsoft365dsc
 microsoftauthenticationlibrary
 microsoftazure
-microsoftcloud
 microsoftdefender
 microsoftdefenderatp
 microsoftdefenderforidentity
@@ -4448,7 +4443,6 @@ multimedia
 multios
 multipass
 multiple
-multiserver
 multistring
 multithread
 multithreaded
@@ -4491,6 +4485,8 @@ namedpipe
 nameit
 nameresolution
 names
+nameserver
+nameservers
 namespace
 naming
 nana
@@ -4923,6 +4919,7 @@ outsystems
 overbite
 ovf
 ovgd
+ovh
 owasp
 owls
 owner
@@ -8460,6 +8457,7 @@ pssqlservermodule
 psst
 psstgenerator
 pstablacus
+pstanss
 psthread
 pstk
 pstwitter
@@ -9723,6 +9721,8 @@ streak
 stream
 streamanalytics
 streaming
+streamreader
+streamwriter
 stretch
 strictmode
 strikethrough-text
@@ -9895,6 +9895,7 @@ taken
 takeown
 tally
 talxis
+tanss
 tanzu
 tar
 target
@@ -10069,6 +10070,7 @@ tip
 tips
 titan
 title
+tld
 tls
 tls11
 tls12
@@ -10099,6 +10101,7 @@ tools4ever
 topdesk
 topgrade
 topics
+topleveldomain
 topology
 tor
 toradex
@@ -10739,6 +10742,28 @@ whitespace
 who
 whoami
 whois
+whoiscmdlet
+whoiscommand
+whoisdata
+whoisdetails
+whoisfunction
+whoishelper
+whoisinformation
+whoislookup
+whoislookuptool
+whoismodule
+whoisoutput
+whoispowershellmodule
+whoisquery
+whoisrecord
+whoisreport
+whoisresponse
+whoisresults
+whoisscript
+whoisserver
+whoissummary
+whoistool
+whoisutility
 whormi
 wi-fi
 wia
@@ -10895,6 +10920,7 @@ workingtime
 workload
 workload-automation
 workloadidentity
+workloads
 workpoint
 workrequests
 worksheet
