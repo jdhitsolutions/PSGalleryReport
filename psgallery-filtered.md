@@ -3,6 +3,54 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [WindmillClient](https://www.powershellgallery.com/Packages/WindmillClient/1.371.4) | 1.371.4
+
+### Published: 07/31/2024 16:09:25 by Windmill Labs
+
+Client for the Windmill platform.
+
+__Downloads__: 428 | __Repository__: https://github.com/windmill-labs/windmill/tree/main/powershell-client
+
+## [EC2Remote](https://www.powershellgallery.com/Packages/EC2Remote/0.0.3) | 0.0.3
+
+### Published: 07/31/2024 15:32:58 by Joshua Rowland
+
+Opens remote desktop connections to AWS EC2 instances using SSM Session Manager.
+
+__Downloads__: 16 | __Repository__: https://github.com/row-io/ec2-remote
+
+## [UiPathOrch](https://www.powershellgallery.com/Packages/UiPathOrch/0.9.5.11) | 0.9.5.11
+
+### Published: 07/31/2024 15:12:53 by Yoshifumi Tsuda
+
+A PowerShell provider for managing UiPath Orchestrator entities via cmdlets.
+
+__Downloads__: 638 | __Repository__: 
+
+## [ProcessTree](https://www.powershellgallery.com/Packages/ProcessTree/2.0.0) | 2.0.0
+
+### Published: 07/31/2024 13:40:28 by BaldCat
+
+This module writes the process tree.
+
+__Downloads__: 35 | __Repository__: https://github.com/baldcat18/ProcessTree
+
+## [Az.RuntimeEnvironment](https://www.powershellgallery.com/Packages/Az.RuntimeEnvironment/1.0.3) | 1.0.3
+
+### Published: 07/31/2024 13:15:56 by daoradmin
+
+Powershell Module for Azure Runtime Environment
+
+__Downloads__: 168 | __Repository__: https://github.com/daoradmin/Az.RuntimeEnvironment
+
+## [TeamsPhoneNumberManagement](https://www.powershellgallery.com/Packages/TeamsPhoneNumberManagement/1.0.0) | 1.0.0
+
+### Published: 07/31/2024 10:34:25 by Jamy Klotzsche
+
+Custom module to manage Teams phone numbers. This module is used as part of the TeamsPhoneNumberManagement solution and provides the needed functions for the API based on an Azure Function App. This API has CRUD capabilities with database, which contains information about configured countries, departments, forbidden numbers (e.g. emergency telephone numbers), extension / phone ranges and already used phone numbers. The already used phone numbers include phone numbers used by Teams users as well as blocked phone numbers for certain devices.
+
+__Downloads__: 0 | __Repository__: https://github.com/jklotzsche-msft/TeamsPhoneNumberManagement
+
 ## [CAT](https://www.powershellgallery.com/Packages/CAT/1.6.0.1) | 1.6.0.1
 
 ### Published: 07/31/2024 09:29:24 by Joyful Craftsmen CAT Team
@@ -1244,14 +1292,6 @@ OCI Common module exports Cmdlets that manages features offered by OCI Modules f
 
 __Downloads__: 254,823 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-## [WindmillClient](https://www.powershellgallery.com/Packages/WindmillClient/1.371.3) | 1.371.3
-
-### Published: 07/30/2024 19:55:56 by Windmill Labs
-
-Client for the Windmill platform.
-
-__Downloads__: 428 | __Repository__: https://github.com/windmill-labs/windmill/tree/main/powershell-client
-
 ## [PSAzureSignTool](https://www.powershellgallery.com/Packages/PSAzureSignTool/0.4.6) | 0.4.6
 
 ### Published: 07/30/2024 17:30:14 by DevOps
@@ -1665,14 +1705,6 @@ A PowerShell module to generate an as built report on the configuration of Veeam
 
 __Downloads__: 16,903 | __Repository__: https://github.com/AsBuiltReport/AsBuiltReport.Veeam.VBR
 
-## [UiPathOrch](https://www.powershellgallery.com/Packages/UiPathOrch/0.9.5.10) | 0.9.5.10
-
-### Published: 07/26/2024 16:16:50 by Yoshifumi Tsuda
-
-A PowerShell provider for managing UiPath Orchestrator entities via cmdlets.
-
-__Downloads__: 638 | __Repository__: 
-
 ## [DTX.Cloud.Management](https://www.powershellgallery.com/Packages/DTX.Cloud.Management/1.16.0) | 1.16.0
 
 ### Published: 07/26/2024 15:26:41 by Platform Operations Team
@@ -1704,6 +1736,14 @@ __Downloads__: 8 | __Repository__: https://bitbucket.org/metanull/metanullps/src
 Cmdlets for Twincat ADS and device management for Powershell Core and Windows Powershell
 
 __Downloads__: 24,675 | __Repository__: https://infosys.beckhoff.com/content/1033/tc3_ads_ps_tcxaemgmt/3972231819.html?id=8731138690123386389
+
+## [AutomateNOW](https://www.powershellgallery.com/Packages/AutomateNOW/1.0.24) | 1.0.24
+
+### Published: 07/26/2024 04:53:16 by AutomateNOW-Fan
+
+Interact with the API of an AutomateNOW! instance
+
+__Downloads__: 171 | __Repository__: https://github.com/AutomateNOW-Fan/AutomateNOW
 
 ## [pwshBedrock](https://www.powershellgallery.com/Packages/pwshBedrock/0.9.1) | 0.9.1
 
@@ -2025,44 +2065,4 @@ This PowerShell module contains PowerShell Advanced functions for VMware.Sdk.vSp
 
 __Downloads__: 4,498,970 | __Repository__: https://developer.vmware.com/powercli
 
-## [VMware.Sdk.vSphere.Appliance.Recovery](https://www.powershellgallery.com/Packages/VMware.Sdk.vSphere.Appliance.Recovery/8.0.2099.24145081) | 8.0.2099.24145081
-
-### Published: 07/25/2024 12:58:57 by Broadcom
-
-This PowerShell module contains PowerShell Advanced functions for VMware.Sdk.vSphere.Appliance.Recovery.
-
-__Downloads__: 4,522,775 | __Repository__: https://developer.vmware.com/powercli
-
-## [VMware.Sdk.vSphere.Appliance.Networking](https://www.powershellgallery.com/Packages/VMware.Sdk.vSphere.Appliance.Networking/8.0.2099.24145081) | 8.0.2099.24145081
-
-### Published: 07/25/2024 12:58:42 by Broadcom
-
-This PowerShell module contains PowerShell Advanced functions for VMware.Sdk.vSphere.Appliance.Networking.
-
-__Downloads__: 4,493,303 | __Repository__: https://developer.vmware.com/powercli
-
-## [VMware.Sdk.vSphere.Appliance.Logging](https://www.powershellgallery.com/Packages/VMware.Sdk.vSphere.Appliance.Logging/8.0.2099.24145081) | 8.0.2099.24145081
-
-### Published: 07/25/2024 12:58:28 by Broadcom
-
-This PowerShell module contains PowerShell Advanced functions for VMware.Sdk.vSphere.Appliance.Logging.
-
-__Downloads__: 4,496,191 | __Repository__: https://developer.vmware.com/powercli
-
-## [VMware.PowerCLI.Sdk](https://www.powershellgallery.com/Packages/VMware.PowerCLI.Sdk/13.3.0.24145081) | 13.3.0.24145081
-
-### Published: 07/25/2024 12:58:14 by Broadcom
-
-Product agnostic types definitions for the VMware.PowerCLI.VCenter module.
-
-__Downloads__: 4,420,199 | __Repository__: https://developer.vmware.com/powercli
-
-## [VMware.Sdk.vSphere.Appliance.InfraProfile](https://www.powershellgallery.com/Packages/VMware.Sdk.vSphere.Appliance.InfraProfile/8.0.2099.24145081) | 8.0.2099.24145081
-
-### Published: 07/25/2024 12:58:01 by Broadcom
-
-This PowerShell module contains PowerShell Advanced functions for VMware.Sdk.vSphere.Appliance.InfraProfile.
-
-__Downloads__: 4,502,252 | __Repository__: https://developer.vmware.com/powercli
-
-*Updated: Wednesday, 31 July 2024 09:51:42 UTC*
+*Updated: Wednesday, 31 July 2024 17:51:36 UTC*
