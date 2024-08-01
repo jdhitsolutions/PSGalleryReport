@@ -3,6 +3,76 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [TeamsPhoneNumberManagement](https://www.powershellgallery.com/Packages/TeamsPhoneNumberManagement/1.1.1) | 1.1.1
+
+### Published: 07/31/2024 23:21:34 by Jamy Klotzsche
+
+Custom module to manage Teams phone numbers. This module is used as part of the TeamsPhoneNumberManagement solution and provides the needed functions for the API based on an Azure Function App. This API has CRUD capabilities with database, which contains information about configured countries, departments, forbidden numbers (e.g. emergency telephone numbers), extension / phone ranges and already used phone numbers. The already used phone numbers include phone numbers used by Teams users as well as blocked phone numbers for certain devices.
+
+__Downloads__: 0 | __Repository__: https://github.com/jklotzsche-msft/TeamsPhoneNumberManagement
+
+## [DefenderConfigAssessment](https://www.powershellgallery.com/Packages/DefenderConfigAssessment/1.0.2) | 1.0.2
+
+### Published: 07/31/2024 22:28:33 by Shaun Hardneck
+
+This module evaluates Microsoft Defender for Endpoint configurations against best practices and exports the results to a CSV file.
+
+__Downloads__: 0 | __Repository__: https://www.thatlazyadmin.com/
+
+## [PSAdaptiveCard](https://www.powershellgallery.com/Packages/PSAdaptiveCard/0.0.5) | 0.0.5
+
+### Published: 07/31/2024 21:30:25 by EW
+
+A module to create Adaptive Cards in JSON format from PowerShell-objects
+
+__Downloads__: 4 | __Repository__: https://github.com/erlwes/PSAdaptiveCards
+
+## [qbo4.Infrastructure](https://www.powershellgallery.com/Packages/qbo4.Infrastructure/1.0.21.27) | 1.0.21.27
+
+### Published: 07/31/2024 21:24:12 by Quandis Inc.
+
+Quandis Infrastructure Management, including publishing of qbo databases and websites.
+
+__Downloads__: 1,078 | __Repository__: https://dev.azure.com/quandis/qbo4/_git/qbo4.Infrastructure
+
+## [PSStringToQRCode](https://www.powershellgallery.com/Packages/PSStringToQRCode/1.0.1) | 1.0.1
+
+### Published: 07/31/2024 20:59:42 by EW
+
+A module to convert strings to QR codes and display or save them as PNG images.
+
+__Downloads__: 0 | __Repository__: https://github.com/erlwes/PSStringToQRCode
+
+## [MASES.KNetPS](https://www.powershellgallery.com/Packages/MASES.KNetPS/2.7.8) | 2.7.8
+
+### Published: 07/31/2024 19:12:28 by MASES s.r.l.
+
+KNet PowerShell command line interface is a PowerShell Module to use Apache Kafka and PowerShell side-by-side. With KNet PowerShell it is possible to:
+- execute all tools of Apache Kafka within a PowerShell shell: Administration tools, Console Consumer, Console Producer, manage Apache Kafka Streams, activate Apache Kafka Connect, server side (start Kafka and ZooKeeper), etc
+- create consumers and producers objects to interact with an Apache Kafka cluster
+- send data to and receive data from an Apache Kafka cluster
+- create a Kafka Admin Client object to manage an Apache Kafka cluster
+
+More information within the project hosted on GitHub. Further information at https://github.com/masesgroup/KNet.
+
+__Downloads__: 673 | __Repository__: https://github.com/masesgroup/KNet
+
+## [Nectar10](https://www.powershellgallery.com/Packages/Nectar10/3.90) | 3.90
+
+### Published: 07/31/2024 19:01:34 by Ken Lasko
+
+PowerShell module for Nectar DXP
+
+__Downloads__: 1,443 | __Repository__: 
+
+## [GitlabCli](https://www.powershellgallery.com/Packages/GitlabCli/1.112.0) | 1.112.0
+
+### Published: 07/31/2024 18:55:47 by Chris Peterson
+
+Interact with GitLab via PowerShell
+
+__Downloads__: 19,705 | __Repository__: https://github.com/chris-peterson/pwsh-gitlab
+
 ## [WindmillClient](https://www.powershellgallery.com/Packages/WindmillClient/1.371.4) | 1.371.4
 
 ### Published: 07/31/2024 16:09:25 by Windmill Labs
@@ -43,14 +113,6 @@ Powershell Module for Azure Runtime Environment
 
 __Downloads__: 168 | __Repository__: https://github.com/daoradmin/Az.RuntimeEnvironment
 
-## [TeamsPhoneNumberManagement](https://www.powershellgallery.com/Packages/TeamsPhoneNumberManagement/1.0.0) | 1.0.0
-
-### Published: 07/31/2024 10:34:25 by Jamy Klotzsche
-
-Custom module to manage Teams phone numbers. This module is used as part of the TeamsPhoneNumberManagement solution and provides the needed functions for the API based on an Azure Function App. This API has CRUD capabilities with database, which contains information about configured countries, departments, forbidden numbers (e.g. emergency telephone numbers), extension / phone ranges and already used phone numbers. The already used phone numbers include phone numbers used by Teams users as well as blocked phone numbers for certain devices.
-
-__Downloads__: 0 | __Repository__: https://github.com/jklotzsche-msft/TeamsPhoneNumberManagement
-
 ## [CAT](https://www.powershellgallery.com/Packages/CAT/1.6.0.1) | 1.6.0.1
 
 ### Published: 07/31/2024 09:29:24 by Joyful Craftsmen CAT Team
@@ -86,14 +148,6 @@ AADInternals allows you to export ADFS certificates, Azure AD Connect passwords,
 DISCLAIMER: Functionality provided through this module are not supported by Microsoft and thus should not be used in a production environment. Use on your own risk!
 
 __Downloads__: 142,964 | __Repository__: https://aadinternals.com/aadinternals
-
-## [qbo4.Infrastructure](https://www.powershellgallery.com/Packages/qbo4.Infrastructure/1.0.21.26) | 1.0.21.26
-
-### Published: 07/31/2024 06:50:24 by Quandis Inc.
-
-Quandis Infrastructure Management, including publishing of qbo databases and websites.
-
-__Downloads__: 1,078 | __Repository__: https://dev.azure.com/quandis/qbo4/_git/qbo4.Infrastructure
 
 ## [PowerShell.DynamicBatch](https://www.powershellgallery.com/Packages/PowerShell.DynamicBatch/1.76) | 1.76
 
@@ -1476,20 +1530,6 @@ Opinionated module to scaffold, manage and help build standardized powershell mo
 
 __Downloads__: 268 | __Repository__: https://github.com/Stephanevg/PsKrane
 
-## [MASES.KNetPS](https://www.powershellgallery.com/Packages/MASES.KNetPS/2.7.7) | 2.7.7
-
-### Published: 07/30/2024 01:36:28 by MASES s.r.l.
-
-KNet PowerShell command line interface is a PowerShell Module to use Apache Kafka and PowerShell side-by-side. With KNet PowerShell it is possible to:
-- execute all tools of Apache Kafka within a PowerShell shell: Administration tools, Console Consumer, Console Producer, manage Apache Kafka Streams, activate Apache Kafka Connect, server side (start Kafka and ZooKeeper), etc
-- create consumers and producers objects to interact with an Apache Kafka cluster
-- send data to and receive data from an Apache Kafka cluster
-- create a Kafka Admin Client object to manage an Apache Kafka cluster
-
-More information within the project hosted on GitHub. Further information at https://github.com/masesgroup/KNet.
-
-__Downloads__: 673 | __Repository__: https://github.com/masesgroup/KNet
-
 ## [PSPassPhrase](https://www.powershellgallery.com/Packages/PSPassPhrase/1.0.3) | 1.0.3
 
 ### Published: 07/29/2024 20:08:32 by Martin Cooper (@mc1903)
@@ -1688,14 +1728,6 @@ __Downloads__: 1,068 | __Repository__: https://dev.azure.com/analyth/Analyth.Pow
 PowerShell functions for administration of Microsoft 365 services using Graph endpoints
 
 __Downloads__: 129 | __Repository__: https://github.com/themodulecollective/OGraph
-
-## [PSAdaptiveCard](https://www.powershellgallery.com/Packages/PSAdaptiveCard/0.0.4) | 0.0.4
-
-### Published: 07/26/2024 22:56:07 by EW
-
-A module to create Adaptive Cards in JSON format from PowerShell-objects
-
-__Downloads__: 4 | __Repository__: 
 
 ## [AsBuiltReport.Veeam.VBR](https://www.powershellgallery.com/Packages/AsBuiltReport.Veeam.VBR/0.8.8) | 0.8.8
 
@@ -2033,36 +2065,4 @@ This PowerShell module contains PowerShell Advanced functions for VMware.Sdk.vSp
 
 __Downloads__: 4,475,817 | __Repository__: https://developer.vmware.com/powercli
 
-## [VMware.Sdk.vSphere.Appliance.Update](https://www.powershellgallery.com/Packages/VMware.Sdk.vSphere.Appliance.Update/8.0.2099.24145081) | 8.0.2099.24145081
-
-### Published: 07/25/2024 12:59:51 by Broadcom
-
-This PowerShell module contains PowerShell Advanced functions for VMware.Sdk.vSphere.Appliance.Update.
-
-__Downloads__: 4,475,389 | __Repository__: https://developer.vmware.com/powercli
-
-## [VMware.Sdk.vSphere.Appliance.Tls](https://www.powershellgallery.com/Packages/VMware.Sdk.vSphere.Appliance.Tls/8.0.2099.24145081) | 8.0.2099.24145081
-
-### Published: 07/25/2024 12:59:37 by Broadcom
-
-This PowerShell module contains PowerShell Advanced functions for VMware.Sdk.vSphere.Appliance.Tls.
-
-__Downloads__: 5,684 | __Repository__: https://developer.vmware.com/powercli
-
-## [VMware.Sdk.vSphere.Appliance.System](https://www.powershellgallery.com/Packages/VMware.Sdk.vSphere.Appliance.System/8.0.2099.24145081) | 8.0.2099.24145081
-
-### Published: 07/25/2024 12:59:24 by Broadcom
-
-This PowerShell module contains PowerShell Advanced functions for VMware.Sdk.vSphere.Appliance.System.
-
-__Downloads__: 4,478,696 | __Repository__: https://developer.vmware.com/powercli
-
-## [VMware.Sdk.vSphere.Appliance.LocalAccounts](https://www.powershellgallery.com/Packages/VMware.Sdk.vSphere.Appliance.LocalAccounts/8.0.2099.24145081) | 8.0.2099.24145081
-
-### Published: 07/25/2024 12:59:11 by Broadcom
-
-This PowerShell module contains PowerShell Advanced functions for VMware.Sdk.vSphere.Appliance.LocalAccounts.
-
-__Downloads__: 4,498,970 | __Repository__: https://developer.vmware.com/powercli
-
-*Updated: Wednesday, 31 July 2024 17:51:36 UTC*
+*Updated: Thursday, 01 August 2024 02:13:09 UTC*
