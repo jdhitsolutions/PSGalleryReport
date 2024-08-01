@@ -634,9 +634,9 @@ This PowerShell module contains PowerShell Advanced functions for VMware.Sdk.vSp
 
 __Downloads__: 4,828,776 | __Repository__: https://developer.vmware.com/powercli
 
-## [0install](https://www.powershellgallery.com/Packages/0install/2.25.10) | 2.25.10
+## [0install](https://www.powershellgallery.com/Packages/0install/2.25.11) | 2.25.11
 
-### Published: 07/27/2024 18:32:40 by Bastian Eicher
+### Published: 08/01/2024 15:10:54 by Bastian Eicher
 
 Zero Install is a decentralized cross-platform software-installation system.
 
@@ -2138,4 +2138,4 @@ Helper functions for PowerShell CI/CD scenarios.
 
 __Downloads__: 602,464 | __Repository__: https://github.com/RamblingCookieMonster/BuildHelpers/
 
-*Updated: Thursday, 01 August 2024 09:51:45 UTC*
+*Updated: Thursday, 01 August 2024 17:51:50 UTC*

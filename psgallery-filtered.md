@@ -3,6 +3,130 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [UiPathOrch](https://www.powershellgallery.com/Packages/UiPathOrch/0.9.5.12) | 0.9.5.12
+
+### Published: 08/01/2024 15:38:38 by Yoshifumi Tsuda
+
+A PowerShell provider for managing UiPath Orchestrator entities via cmdlets.
+
+__Downloads__: 638 | __Repository__: 
+
+## [0install](https://www.powershellgallery.com/Packages/0install/2.25.11) | 2.25.11
+
+### Published: 08/01/2024 15:10:54 by Bastian Eicher
+
+Zero Install is a decentralized cross-platform software-installation system.
+
+__Downloads__: 4,820,963 | __Repository__: https://0install.net/
+
+## [DevolutionsGateway](https://www.powershellgallery.com/Packages/DevolutionsGateway/2024.3.1) | 2024.3.1
+
+### Published: 08/01/2024 15:09:26 by Devolutions
+
+Devolutions Gateway PowerShell Module
+
+__Downloads__: 8,892 | __Repository__: https://github.com/Devolutions/devolutions-gateway/tree/master/powershell/
+
+## [WindmillClient](https://www.powershellgallery.com/Packages/WindmillClient/1.372.0) | 1.372.0
+
+### Published: 08/01/2024 14:29:52 by Windmill Labs
+
+Client for the Windmill platform.
+
+__Downloads__: 428 | __Repository__: https://github.com/windmill-labs/windmill/tree/main/powershell-client
+
+## [SMART-BcBuildHelper](https://www.powershellgallery.com/Packages/SMART-BcBuildHelper/1.5.23) | 1.5.23
+
+### Published: 08/01/2024 14:23:59 by SMART business
+
+Module SMART-BcBuildHelper
+
+__Downloads__: 12,741 | __Repository__: 
+
+## [Arcane_Server](https://www.powershellgallery.com/Packages/Arcane_Server/1.0.0) | 1.0.0
+
+### Published: 08/01/2024 14:13:14 by Jean-Pierre LESUEUR
+
+Arcane - A secure remote desktop application for Windows with the particularity of having a server entirely written in PowerShell and a cross-platform client (Python/QT6).
+
+__Downloads__: 0 | __Repository__: 
+
+## [ControlUp.Automation](https://www.powershellgallery.com/Packages/ControlUp.Automation/1.0.2) | 1.0.2
+
+### Published: 08/01/2024 14:02:57 by ControlUp
+
+ControlUp Automation is a new module which allows ControlUp users to deploy and configure ControlUp components in a ControlUp organization. With this module, you can do the following:
+Deploy, upgrade, or uninstall ControlUp Monitors.
+Deploy, upgrade, or uninstall ControlUp Agents.
+For each version release, ControlUp will publish detailed release notes. These notes will cover new features, improvements, bug fixes, and any deprecated features. Release notes will be available on the ControlUp website to ensure you get updated about the changes and how they may affect the use of this module
+
+__Downloads__: 195 | __Repository__: 
+
+## [AZSBTools](https://www.powershellgallery.com/Packages/AZSBTools/1.266.115) | 1.266.115
+
+### Published: 08/01/2024 13:50:12 by Sam Boutros
+
+PowerShell module containing several Azure tools by Sam Boutros
+
+__Downloads__: 37,900 | __Repository__: https://superwidgets.wordpress.com/
+
+## [MyAnimatedLamp](https://www.powershellgallery.com/Packages/MyAnimatedLamp/1.0.8) | 1.0.8
+
+### Published: 08/01/2024 13:49:44 by iuv
+
+Show an animated lamp.
+
+__Downloads__: 22 | __Repository__: 
+
+## [PowerInfoblox](https://www.powershellgallery.com/Packages/PowerInfoblox/1.0.26) | 1.0.26
+
+### Published: 08/01/2024 12:37:10 by Przemyslaw Klys
+
+Helper module for Infoblox.
+
+__Downloads__: 207 | __Repository__: https://github.com/EvotecIT/PowerInfoblox
+
+## [TeamsPhoneNumberManagement](https://www.powershellgallery.com/Packages/TeamsPhoneNumberManagement/1.1.2) | 1.1.2
+
+### Published: 08/01/2024 11:35:42 by Jamy Klotzsche
+
+Custom module to manage Teams phone numbers. This module is used as part of the TeamsPhoneNumberManagement solution and provides the needed functions for the API based on an Azure Function App. This API has CRUD capabilities with database, which contains information about configured countries, departments, forbidden numbers (e.g. emergency telephone numbers), extension / phone ranges and already used phone numbers. The already used phone numbers include phone numbers used by Teams users as well as blocked phone numbers for certain devices.
+
+__Downloads__: 0 | __Repository__: https://github.com/jklotzsche-msft/TeamsPhoneNumberManagement
+
+## [HaloAPI](https://www.powershellgallery.com/Packages/HaloAPI/1.22.1) | 1.22.1
+
+### Published: 08/01/2024 10:20:38 by Mikey O'Toole / Luke Whitelock
+
+This module provides an interface to the Halo API.
+
+__Downloads__: 283,074 | __Repository__: https://github.com/homotechsual/HaloAPI
+
+## [DTX.Cloud.Management](https://www.powershellgallery.com/Packages/DTX.Cloud.Management/1.16.1) | 1.16.1
+
+### Published: 08/01/2024 10:13:44 by Platform Operations Team
+
+Dotmatics cloud automation tool.
+
+__Downloads__: 11,749 | __Repository__: 
+
+## [MfaOnDemand](https://www.powershellgallery.com/Packages/MfaOnDemand/0.10.0) | 0.10.0
+
+### Published: 08/01/2024 10:01:58 by lestoilfante
+
+MfaOnDemand is a PowerShell module designed to send custom and arbitrary MFA requests to Entra ID users.
+Useful for quickly confirming user identities for Service Desk usage or for any automation purposes.
+
+__Downloads__: 8 | __Repository__: https://github.com/lestoilfante/MfaOnDemand
+
+## [NetApp.CBS.AVS](https://www.powershellgallery.com/Packages/NetApp.CBS.AVS/1.0.37) | 1.0.37
+
+### Published: 08/01/2024 09:57:01 by NetApp
+
+Netapp CBS Appliance
+
+__Downloads__: 737 | __Repository__: https://mysupport.netapp.com/
+
 ## [3CX](https://www.powershellgallery.com/Packages/3CX/0.0.5) | 0.0.5
 
 ### Published: 08/01/2024 09:28:13 by xasz
@@ -10,14 +134,6 @@ These are the latest 250 modules published to the [PowerShell Gallery](https://p
 This modules provides a set of cmdlets to interact with 3CX V20 API
 
 __Downloads__: 0 | __Repository__: https://github.com/xasz/3CX
-
-## [SMART-BcBuildHelper](https://www.powershellgallery.com/Packages/SMART-BcBuildHelper/1.5.22) | 1.5.22
-
-### Published: 08/01/2024 07:35:36 by SMART business
-
-Module SMART-BcBuildHelper
-
-__Downloads__: 12,741 | __Repository__: 
 
 ## [RiverMeadow.Development.Migrate](https://www.powershellgallery.com/Packages/RiverMeadow.Development.Migrate/1.0.121.546) | 1.0.121.546
 
@@ -50,22 +166,6 @@ __Downloads__: 362,917 | __Repository__: https://github.com/EvotecIT/PSSharedGoo
 ServiceControl Management
 
 __Downloads__: 2,374 | __Repository__: https://github.com/Particular/ServiceControl
-
-## [AZSBTools](https://www.powershellgallery.com/Packages/AZSBTools/1.266.111) | 1.266.111
-
-### Published: 08/01/2024 04:37:30 by Sam Boutros
-
-PowerShell module containing several Azure tools by Sam Boutros
-
-__Downloads__: 37,900 | __Repository__: https://superwidgets.wordpress.com/
-
-## [TeamsPhoneNumberManagement](https://www.powershellgallery.com/Packages/TeamsPhoneNumberManagement/1.1.1) | 1.1.1
-
-### Published: 07/31/2024 23:21:34 by Jamy Klotzsche
-
-Custom module to manage Teams phone numbers. This module is used as part of the TeamsPhoneNumberManagement solution and provides the needed functions for the API based on an Azure Function App. This API has CRUD capabilities with database, which contains information about configured countries, departments, forbidden numbers (e.g. emergency telephone numbers), extension / phone ranges and already used phone numbers. The already used phone numbers include phone numbers used by Teams users as well as blocked phone numbers for certain devices.
-
-__Downloads__: 0 | __Repository__: https://github.com/jklotzsche-msft/TeamsPhoneNumberManagement
 
 ## [DefenderConfigAssessment](https://www.powershellgallery.com/Packages/DefenderConfigAssessment/1.0.2) | 1.0.2
 
@@ -129,14 +229,6 @@ Interact with GitLab via PowerShell
 
 __Downloads__: 19,705 | __Repository__: https://github.com/chris-peterson/pwsh-gitlab
 
-## [WindmillClient](https://www.powershellgallery.com/Packages/WindmillClient/1.371.4) | 1.371.4
-
-### Published: 07/31/2024 16:09:25 by Windmill Labs
-
-Client for the Windmill platform.
-
-__Downloads__: 428 | __Repository__: https://github.com/windmill-labs/windmill/tree/main/powershell-client
-
 ## [EC2Remote](https://www.powershellgallery.com/Packages/EC2Remote/0.0.3) | 0.0.3
 
 ### Published: 07/31/2024 15:32:58 by Joshua Rowland
@@ -144,14 +236,6 @@ __Downloads__: 428 | __Repository__: https://github.com/windmill-labs/windmill/t
 Opens remote desktop connections to AWS EC2 instances using SSM Session Manager.
 
 __Downloads__: 16 | __Repository__: https://github.com/row-io/ec2-remote
-
-## [UiPathOrch](https://www.powershellgallery.com/Packages/UiPathOrch/0.9.5.11) | 0.9.5.11
-
-### Published: 07/31/2024 15:12:53 by Yoshifumi Tsuda
-
-A PowerShell provider for managing UiPath Orchestrator entities via cmdlets.
-
-__Downloads__: 638 | __Repository__: 
 
 ## [ProcessTree](https://www.powershellgallery.com/Packages/ProcessTree/2.0.0) | 2.0.0
 
@@ -1745,14 +1829,6 @@ Cross-platform custom powershell autocomplete / tab expansion
 
 __Downloads__: 3,978 | __Repository__: https://github.com/ieviev/pscomplete/
 
-## [0install](https://www.powershellgallery.com/Packages/0install/2.25.10) | 2.25.10
-
-### Published: 07/27/2024 18:32:40 by Bastian Eicher
-
-Zero Install is a decentralized cross-platform software-installation system.
-
-__Downloads__: 4,820,963 | __Repository__: https://0install.net/
-
 ## [Invoke-AsAdmin-Module](https://www.powershellgallery.com/Packages/Invoke-AsAdmin-Module/1.0.2) | 1.0.2
 
 ### Published: 07/27/2024 09:47:31 by Jonas Schmitz
@@ -1792,14 +1868,6 @@ __Downloads__: 129 | __Repository__: https://github.com/themodulecollective/OGra
 A PowerShell module to generate an as built report on the configuration of Veeam VBR.
 
 __Downloads__: 16,903 | __Repository__: https://github.com/AsBuiltReport/AsBuiltReport.Veeam.VBR
-
-## [DTX.Cloud.Management](https://www.powershellgallery.com/Packages/DTX.Cloud.Management/1.16.0) | 1.16.0
-
-### Published: 07/26/2024 15:26:41 by Platform Operations Team
-
-Dotmatics cloud automation tool.
-
-__Downloads__: 11,749 | __Repository__: 
 
 ## [PSTcpIp](https://www.powershellgallery.com/Packages/PSTcpIp/5.13.1) | 5.13.1
 
@@ -1888,14 +1956,6 @@ __Downloads__: 857 | __Repository__: https://vmware.github.io/powershell-module-
 The community module that enables SQL Server Pros to automate database development and server administration
 
 __Downloads__: 4,415,273 | __Repository__: https://dbatools.io/
-
-## [MyAnimatedLamp](https://www.powershellgallery.com/Packages/MyAnimatedLamp/1.0.7) | 1.0.7
-
-### Published: 07/25/2024 13:20:25 by iuv
-
-Show an animated lamp.
-
-__Downloads__: 22 | __Repository__: 
 
 ## [VMware.PowerCLI](https://www.powershellgallery.com/Packages/VMware.PowerCLI/13.3.0.24145081) | 13.3.0.24145081
 
@@ -2009,60 +2069,4 @@ This PowerShell module contains PowerCLI SRM cmdlets.
 
 __Downloads__: 10,996,179 | __Repository__: https://developer.vmware.com/powercli
 
-## [VMware.VimAutomation.Vmc](https://www.powershellgallery.com/Packages/VMware.VimAutomation.Vmc/13.3.0.24145081) | 13.3.0.24145081
-
-### Published: 07/25/2024 13:03:10 by Broadcom
-
-This PowerShell module contains PowerCLI VMC cmdlets.
-
-__Downloads__: 10,603,733 | __Repository__: https://developer.vmware.com/powercli
-
-## [VMware.VimAutomation.vROps](https://www.powershellgallery.com/Packages/VMware.VimAutomation.vROps/13.3.0.24145081) | 13.3.0.24145081
-
-### Published: 07/25/2024 13:02:56 by Broadcom
-
-This PowerShell module contains PowerCLI vROps cmdlets.
-
-__Downloads__: 10,650,612 | __Repository__: https://developer.vmware.com/powercli
-
-## [VMware.DeployAutomation](https://www.powershellgallery.com/Packages/VMware.DeployAutomation/13.3.0.24145081) | 13.3.0.24145081
-
-### Published: 07/25/2024 13:02:41 by Broadcom
-
-This PowerShell module contains PowerCLI Auto Deploy cmdlets.
-
-__Downloads__: 10,446,510 | __Repository__: https://developer.vmware.com/powercli
-
-## [VMware.VimAutomation.Security](https://www.powershellgallery.com/Packages/VMware.VimAutomation.Security/13.3.0.24145081) | 13.3.0.24145081
-
-### Published: 07/25/2024 13:02:25 by Broadcom
-
-This PowerShell module contains PowerCLI security management cmdlets.
-
-__Downloads__: 9,942,070 | __Repository__: https://developer.vmware.com/powercli
-
-## [VMware.VimAutomation.Nsxt](https://www.powershellgallery.com/Packages/VMware.VimAutomation.Nsxt/13.3.0.24145081) | 13.3.0.24145081
-
-### Published: 07/25/2024 13:02:11 by Broadcom
-
-This PowerShell module contains PowerCLI NSXT cmdlets.
-
-__Downloads__: 10,657,849 | __Repository__: https://developer.vmware.com/powercli
-
-## [VMware.Sdk.vSphere.Esx.Hosts](https://www.powershellgallery.com/Packages/VMware.Sdk.vSphere.Esx.Hosts/8.0.2099.24145081) | 8.0.2099.24145081
-
-### Published: 07/25/2024 13:01:53 by Broadcom
-
-This PowerShell module contains PowerShell Advanced functions for VMware.Sdk.vSphere.Esx.Hosts.
-
-__Downloads__: 4,461,860 | __Repository__: https://developer.vmware.com/powercli
-
-## [VMware.Sdk.vSphere.Esx.Settings](https://www.powershellgallery.com/Packages/VMware.Sdk.vSphere.Esx.Settings/8.0.2099.24145081) | 8.0.2099.24145081
-
-### Published: 07/25/2024 13:01:36 by Broadcom
-
-This PowerShell module contains PowerShell Advanced functions for VMware.Sdk.vSphere.Esx.Settings.
-
-__Downloads__: 4,453,846 | __Repository__: https://developer.vmware.com/powercli
-
-*Updated: Thursday, 01 August 2024 09:51:39 UTC*
+*Updated: Thursday, 01 August 2024 17:51:44 UTC*
