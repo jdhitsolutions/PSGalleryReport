@@ -1156,9 +1156,9 @@ Exposes Windows Installer functionality to Windows PowerShell
 
 __Downloads__: 3,047,310 | __Repository__: https://github.com/heaths/psmsi
 
-## [PSWriteHTML](https://www.powershellgallery.com/Packages/PSWriteHTML/1.26.0) | 1.26.0
+## [PSWriteHTML](https://www.powershellgallery.com/Packages/PSWriteHTML/1.27.0) | 1.27.0
 
-### Published: 07/06/2024 07:00:18 by Przemyslaw Klys
+### Published: 08/01/2024 06:37:53 by Przemyslaw Klys
 
 PSWriteHTML is PowerShell Module to generate beautiful HTML reports, pages, emails without any knowledge of HTML, CSS or JavaScript. To get started basics PowerShell knowledge is required.
 
@@ -2138,4 +2138,4 @@ Helper functions for PowerShell CI/CD scenarios.
 
 __Downloads__: 602,464 | __Repository__: https://github.com/RamblingCookieMonster/BuildHelpers/
 
-*Updated: Thursday, 01 August 2024 02:13:14 UTC*
+*Updated: Thursday, 01 August 2024 09:51:45 UTC*
