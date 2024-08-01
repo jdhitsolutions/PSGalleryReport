@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Thursday, 01 August 2024 09:51:48 UTC
+Updated: Thursday, 01 August 2024 17:51:52 UTC
 
 .bat
 .env
@@ -279,7 +279,6 @@ aispeech
 aiutilities
 aivision
 ajustee
-aka.ms
 aks
 aks-hci
 akscluster
@@ -923,7 +922,6 @@ boilerplate
 boinc
 bold-text
 bolt
-bom
 book
 bookmark
 bookmarks
@@ -1572,7 +1570,6 @@ cosmos
 cosmosdb
 cost
 cost-management
-costmanagement
 costoptimization
 couchbase
 couchdb
@@ -1689,7 +1686,6 @@ currency-convereter
 currency-exchange
 currencyconverterapi
 current
-curseforge
 custom
 customchecks
 customdns
@@ -1928,7 +1924,6 @@ desktop
 desktops
 desktopvirtualization
 details
-detect
 detection
 detectionrule
 deutschland
@@ -2137,7 +2132,6 @@ dots
 dotteddecimalip
 doubleclick
 download
-downloader
 downloadfacebookvideo
 downloadfilefromsite
 downloadinfo
@@ -2205,6 +2199,7 @@ dsregcmd
 dsutils
 dtc
 dts
+dtsx
 dtx
 du
 dual-stack
@@ -2539,7 +2534,9 @@ exportteams
 expression
 extend
 extended
+extendedattributes
 extendedevents
+extendedproperties
 extendedproperty
 extendscript
 extensibility
@@ -2551,7 +2548,6 @@ external
 externalip
 extract
 extraction
-extractor
 extreme-networks
 eye-candy
 eztheme
@@ -2631,6 +2627,7 @@ file-system
 file-transform
 file-type
 file-type-association
+fileattributes
 fileencryption
 filelist
 filelog
@@ -2639,6 +2636,7 @@ filemanagement
 filematcher
 filename
 filenames
+fileproperties
 filereplication
 files
 files-cli
@@ -2687,7 +2685,6 @@ findplace
 findproxyforurl
 fine-print
 fine-tuning
-finops
 firebird
 firefox
 firewall
@@ -3395,6 +3392,7 @@ imagination
 imaging
 imap
 imb
+imei
 imi
 impala
 impersonation
@@ -3414,7 +3412,6 @@ incident
 incident-response
 incidentresponse
 incontact
-indents
 index
 indexdb
 indicator
@@ -3483,6 +3480,7 @@ integration
 integrationaccount
 integrationruntime
 integrationruntimedependency
+integrationservicescatalog
 integrity
 intel
 inteligo
@@ -3542,6 +3540,7 @@ iothub
 iothubproperties
 ip
 ip-address
+ip-scanner
 ipa
 ipaddress
 ipam
@@ -3870,7 +3869,6 @@ limit-job
 limits
 lina
 line
-line-endings
 linear
 linearalgebra
 lingeringobjects
@@ -3880,7 +3878,6 @@ link-preview
 linkedin
 linkedservice
 linkedservicedependency
-linkid
 links
 linq
 linqpad
@@ -3955,8 +3952,6 @@ logbook
 logcat
 logentry
 logfile
-logfilearchivearchive
-logfilemanagement psmodule
 logfiles
 logger
 logging
@@ -3989,10 +3984,8 @@ logonto
 logonuser
 logparser
 logrotate
-logrotation
 logs
 logstash
-logtools
 logz
 loki
 lol
@@ -4174,7 +4167,6 @@ mediaplayer
 mediaservices
 mediawiki
 meditation
-medlemsservice
 meesman
 meeting
 meetup
@@ -4250,7 +4242,6 @@ microsoft365
 microsoft365dsc
 microsoftauthenticationlibrary
 microsoftazure
-microsoftcloud
 microsoftdefender
 microsoftdefenderatp
 microsoftdefenderforidentity
@@ -4423,6 +4414,9 @@ msproject
 msrc
 msrdc
 mssql
+mssqlbynarymodule
+mssqlbynarypsmodule
+mssqlmodule
 mssqlplugins
 mssqlserver
 msteams
@@ -4776,6 +4770,7 @@ onboard
 onboardadministrator
 onboarding
 oncommand-insight
+ondemand
 one
 onedrive
 onedriveforbusiness
@@ -5118,13 +5113,11 @@ pipescript
 piraeus
 piv
 pivot
-pivotal
 pivottable
 pixoo
 pkce
 pki
 pki psmodule
-pks
 place
 places
 plain
@@ -5188,6 +5181,7 @@ popd
 population
 popup
 port
+port-scanner
 port70
 portal
 porthunter
@@ -5258,6 +5252,7 @@ poshy-wrap-npm
 poshy-wrap-pip
 poshy-wrap-pipenv
 poshy-wrap-pyenv
+poshy-wrap-pylint
 poshy-wrap-python
 poshy-wrap-ruby
 poshy-wrap-systemctl
@@ -5438,7 +5433,6 @@ product
 productid
 productivity
 productmedia
-products
 productstate
 profile
 profiler
@@ -5453,7 +5447,6 @@ progressbars
 project
 project-management
 projectmanagement
-projectreunion
 projects
 projecttemplate
 projectwise
@@ -6536,6 +6529,7 @@ pscommand_invoke-pipinstallupgrade
 pscommand_invoke-piplistoutdated
 pscommand_invoke-pipuninstall
 pscommand_invoke-pyenv
+pscommand_invoke-pylintreportsdisabled
 pscommand_invoke-ruby
 pscommand_invoke-rubyexecute
 pscommand_invoke-rubyexecutehttpdhere
@@ -7024,6 +7018,7 @@ pscommand_pwh
 pscommand_pwshrc-show-proxy
 pscommand_py
 pscommand_pyenv
+pscommand_pylint-quick
 pscommand_pyserver
 pscommand_python
 pscommand_python3
@@ -7946,6 +7941,7 @@ psfunction_invoke-pipinstallupgrade
 psfunction_invoke-piplistoutdated
 psfunction_invoke-pipuninstall
 psfunction_invoke-pyenv
+psfunction_invoke-pylintreportsdisabled
 psfunction_invoke-ruby
 psfunction_invoke-rubyexecute
 psfunction_invoke-rubyexecutehttpdhere
@@ -8410,6 +8406,9 @@ psmodules
 psmp
 psmsgraph
 psmsgraphapi
+psmssql
+psmssqlbynarymodule
+psmssqlmodule
 psmvp
 psnavigation
 psnexosisclient
@@ -8446,10 +8445,12 @@ psslack
 pssqlite
 pssqlitebynarymodule
 pssqlitemodule
+pssqlserver
+pssqlserverbynarymodule
+pssqlservermodule
 psst
 psstgenerator
 pstablacus
-pstanss
 psthread
 pstk
 pstwitter
@@ -8517,6 +8518,7 @@ pwshrc
 pxedistributionpoint
 pyenv
 pygmentize
+pylint
 pyranja
 python
 python-for-dotnet
@@ -8835,6 +8837,7 @@ retry
 returnuserprofile
 retype
 reuse
+reverse-engineer
 reverse-string
 reversed-color-text
 reversedsc
@@ -9227,6 +9230,7 @@ serviceconnectionpoint
 servicecontrol
 servicedesk
 servicedeskplus
+serviceendpoints
 servicefabric
 servicelinker
 servicemanagementautomation
@@ -9284,7 +9288,6 @@ shadow
 shadowcopy
 shadowcopybackups
 shadowgroups
-shanghaitech
 shard
 share
 share-permission
@@ -9441,6 +9444,7 @@ snmpset
 snmpv3
 snmpwalk
 snowflake
+snsmssqlpsmodule
 snspsadgroupmembers
 snspsscriptsmonitoring
 snssqlitepsmodule
@@ -9525,7 +9529,6 @@ speed
 speedometer
 speedtest
 speedtester
-spejder
 spellcheck
 spelling
 spf
@@ -9589,7 +9592,10 @@ sqlps
 sqlquery
 sqlserver
 sqlserveragent
+sqlserverbynarymodule
+sqlserverbynarypsmodule
 sqlserverclient
+sqlservermodule
 sqlvirtualmachine
 sqlvm
 sqr
@@ -9708,6 +9714,8 @@ streak
 stream
 streamanalytics
 streaming
+streamreader
+streamwriter
 stretch
 strictmode
 strikethrough-text
@@ -9880,7 +9888,6 @@ taken
 takeown
 tally
 talxis
-tanss
 tanzu
 tar
 target
@@ -9934,7 +9941,6 @@ temp
 temperature
 template
 template-engine
-templater
 templates
 templating
 temporary
@@ -10246,6 +10252,7 @@ ud-field
 ud-flexytable
 ud-funnel
 ud-hero
+ud-illustration
 ud-input
 ud-licensed
 ud-loadingoverlay
@@ -10402,10 +10409,8 @@ usg
 usps
 utc
 utf-8
-utf-sig
 utf7
 utf8
-utf8-sig
 utf8bom
 util
 utilities
@@ -10469,6 +10474,7 @@ ve7cc
 vector
 veeam
 veeampn
+veeva
 venafi
 vencord
 vendor
@@ -10477,6 +10483,7 @@ venvlink
 vera
 veracrypt
 verbose psmodule
+verification
 verify
 version
 versioning
@@ -10649,6 +10656,7 @@ warrenty
 wasabi
 watch
 watchdog
+watchguard
 watchmen
 watery
 wave
@@ -10860,7 +10868,6 @@ winsat
 winscp
 wintellect
 winterminal
-winui
 wireless
 wirelessnetwork
 wireshark
