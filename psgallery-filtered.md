@@ -3,6 +3,63 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [AzureDevOpsLogging](https://www.powershellgallery.com/Packages/AzureDevOpsLogging/1.0.2) | 1.0.2
+
+### Published: 08/02/2024 09:08:59 by Marius Solbakken Mellum
+
+A module for logging in Azure DevOps Pipelines
+
+__Downloads__: 0 | __Repository__: https://github.com/goodworkaround/PS-ADOLogging
+
+## [PSEasy.Utility](https://www.powershellgallery.com/Packages/PSEasy.Utility/1.6.0) | 1.6.0
+
+### Published: 08/02/2024 08:34:10 by Brett Gerhardi
+
+Lightweight army of helpers for general powershell activities
+
+__Downloads__: 12,094 | __Repository__: https://github.com/o-o00o-o/PSEasy.Utility
+
+## [RiverMeadow.Development.Migrate](https://www.powershellgallery.com/Packages/RiverMeadow.Development.Migrate/1.0.121.548) | 1.0.121.548
+
+### Published: 08/02/2024 07:44:04 by RiverMeadow Engineering Team
+
+Provides cmdlets for starting migration of applications to supported clouds using the RiverMeadow platform.
+
+__Downloads__: 970 | __Repository__: https://migrate.rivermeadow.com/
+
+## [SMART-BcBuildHelper](https://www.powershellgallery.com/Packages/SMART-BcBuildHelper/1.5.24) | 1.5.24
+
+### Published: 08/02/2024 07:22:31 by SMART business
+
+Module SMART-BcBuildHelper
+
+__Downloads__: 12,741 | __Repository__: 
+
+## [IntuneBulkMaster](https://www.powershellgallery.com/Packages/IntuneBulkMaster/24.8.1.0) | 24.8.1.0
+
+### Published: 08/02/2024 06:54:51 by Florian Salzmann | @FlorianSLZ
+
+Easier bulk Actions for Microsoft Intune. 
+The `IntuneBulkMaster` PowerShell module provides a set of functions for managing and interacting with Microsoft Intune. It is designed to perform bulk operations on Intune-managed devices, such as rebooting, collecting diagnostics, and rotating keys. This module facilitates efficient management of devices by allowing administrators to perform tasks across multiple devices or groups with ease.
+
+__Downloads__: 0 | __Repository__: https://github.com/FlorianSLZ/IntuneBulkMaster
+
+## [powershai](https://www.powershellgallery.com/Packages/powershai/1.4.1) | 1.4.1
+
+### Published: 08/02/2024 05:01:33 by Rodrigo Ribeiro Gomes
+
+Permite usar Inteligência Artificial direto do PowerShell
+
+__Downloads__: 70 | __Repository__: 
+
+## [linuxtools](https://www.powershellgallery.com/Packages/linuxtools/1.0.0) | 1.0.0
+
+### Published: 08/02/2024 04:10:34 by skatterbrainz
+
+An experimental PowerShell thing for Linux nerds. Laugh if you want. I have my earbuds on full volume.
+
+__Downloads__: 0 | __Repository__: https://github.com/Skatterbrainz/LinuxTools
+
 ## [M365DSC.CompositeResources](https://www.powershellgallery.com/Packages/M365DSC.CompositeResources/1.24.731.100) | 1.24.731.100
 
 ### Published: 08/02/2024 01:21:22 by Yorick Kuijs
@@ -79,14 +136,6 @@ __Downloads__: 4,820,963 | __Repository__: https://0install.net/
 Devolutions Gateway PowerShell Module
 
 __Downloads__: 8,892 | __Repository__: https://github.com/Devolutions/devolutions-gateway/tree/master/powershell/
-
-## [SMART-BcBuildHelper](https://www.powershellgallery.com/Packages/SMART-BcBuildHelper/1.5.23) | 1.5.23
-
-### Published: 08/01/2024 14:23:59 by SMART business
-
-Module SMART-BcBuildHelper
-
-__Downloads__: 12,741 | __Repository__: 
 
 ## [Arcane_Server](https://www.powershellgallery.com/Packages/Arcane_Server/1.0.0) | 1.0.0
 
@@ -179,14 +228,6 @@ __Downloads__: 737 | __Repository__: https://mysupport.netapp.com/
 This modules provides a set of cmdlets to interact with 3CX V20 API
 
 __Downloads__: 0 | __Repository__: https://github.com/xasz/3CX
-
-## [RiverMeadow.Development.Migrate](https://www.powershellgallery.com/Packages/RiverMeadow.Development.Migrate/1.0.121.546) | 1.0.121.546
-
-### Published: 08/01/2024 07:27:06 by RiverMeadow Engineering Team
-
-Provides cmdlets for starting migration of applications to supported clouds using the RiverMeadow platform.
-
-__Downloads__: 970 | __Repository__: https://migrate.rivermeadow.com/
 
 ## [PSWriteHTML](https://www.powershellgallery.com/Packages/PSWriteHTML/1.27.0) | 1.27.0
 
@@ -1946,14 +1987,6 @@ A module for lifecycle management of the Microsoft Visual C++ Redistributables. 
 
 __Downloads__: 3,660,607 | __Repository__: https://vcredist.com/
 
-## [powershai](https://www.powershellgallery.com/Packages/powershai/1.4.0) | 1.4.0
-
-### Published: 07/25/2024 19:54:33 by Rodrigo Ribeiro Gomes
-
-Permite usar Inteligência Artificial direto do PowerShell
-
-__Downloads__: 70 | __Repository__: 
-
 ## [SharePointOnline.CSOM](https://www.powershellgallery.com/Packages/SharePointOnline.CSOM/1.0.10) | 1.0.10
 
 ### Published: 07/25/2024 19:34:24 by S. Battenberg
@@ -2042,36 +2075,4 @@ This PowerShell module contains cmdlets for managing VMware.Sdk.Vcf.SddcManager 
 
 __Downloads__: 1,747,092 | __Repository__: https://developer.vmware.com/powercli
 
-## [VMware.Sdk.Vcf.CloudBuilder](https://www.powershellgallery.com/Packages/VMware.Sdk.Vcf.CloudBuilder/13.3.0.24145081) | 13.3.0.24145081
-
-### Published: 07/25/2024 13:05:21 by Broadcom
-
-This PowerShell module contains cmdlets for managing VMware.Sdk.Vcf.CloudBuilder API.
-
-__Downloads__: 1,747,450 | __Repository__: https://developer.vmware.com/powercli
-
-## [VMware.Sdk.Srm](https://www.powershellgallery.com/Packages/VMware.Sdk.Srm/13.3.0.24145081) | 13.3.0.24145081
-
-### Published: 07/25/2024 13:05:05 by Broadcom
-
-This PowerShell module contains cmdlets for managing VMware.Sdk.Srm API.
-
-__Downloads__: 2,421,851 | __Repository__: https://developer.vmware.com/powercli
-
-## [VMware.Sdk.Nsx.Policy](https://www.powershellgallery.com/Packages/VMware.Sdk.Nsx.Policy/13.3.0.24145081) | 13.3.0.24145081
-
-### Published: 07/25/2024 13:04:51 by Broadcom
-
-This PowerShell module contains cmdlets for managing VMware.Sdk.Nsx.Policy API.
-
-__Downloads__: 3,740,660 | __Repository__: https://developer.vmware.com/powercli
-
-## [VMware.VimAutomation.Cloud](https://www.powershellgallery.com/Packages/VMware.VimAutomation.Cloud/13.3.0.24145081) | 13.3.0.24145081
-
-### Published: 07/25/2024 13:04:28 by Broadcom
-
-This PowerShell module contains PowerCLI Cloud cmdlets.
-
-__Downloads__: 10,628,487 | __Repository__: https://developer.vmware.com/powercli
-
-*Updated: Friday, 02 August 2024 02:10:19 UTC*
+*Updated: Friday, 02 August 2024 09:51:55 UTC*
