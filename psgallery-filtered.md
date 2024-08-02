@@ -3,6 +3,59 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [M365DSC.CompositeResources](https://www.powershellgallery.com/Packages/M365DSC.CompositeResources/1.24.731.100) | 1.24.731.100
+
+### Published: 08/02/2024 01:21:22 by Yorick Kuijs
+
+DSC composite resource for configuring Microsoft 365
+
+__Downloads__: 2,342 | __Repository__: https://github.com/ykuijs/M365DSC.CompositeResources
+
+## [StaffCalendar](https://www.powershellgallery.com/Packages/StaffCalendar/1.0.2) | 1.0.2
+
+### Published: 08/02/2024 01:07:21 by Bradley Herbst
+
+A module with different tools around creating staff calendars for a specified year, either from a list of users with the same work hours or from a CSV file.
+
+__Downloads__: 6 | __Repository__: https://github.com/bordwalk2000/StaffCalendar
+
+## [ps12exe](https://www.powershellgallery.com/Packages/ps12exe/0.4.2) | 0.4.2
+
+### Published: 08/02/2024 00:28:49 by steve02081504
+
+better pwsh code 2 exe repo:
+- Use `ps12exe a.ps1` to convert `a.ps1` into `a.exe`;
+- Use `ps12exeGUI` for a graphical interface that simplifies compilation;
+- Use `Set-ps12exeContextMenu` to add a context menu item for quick compilation or GUI access on `.ps1` files;
+- Use `Start-ps12exeWebServer` to launch a web server that allows users to compile scripts online;
+All commands in this module support the `-help` option for detailed assistance in your language.
+
+__Downloads__: 1,601 | __Repository__: https://github.com/steve02081504/ps12exe
+
+## [Adsi](https://www.powershellgallery.com/Packages/Adsi/4.0.113) | 4.0.113
+
+### Published: 08/01/2024 23:00:05 by Jeremy La Camera
+
+Use Active Directory Service Interfaces to query LDAP and WinNT directories
+
+__Downloads__: 2,097 | __Repository__: 
+
+## [WindmillClient](https://www.powershellgallery.com/Packages/WindmillClient/1.373.0) | 1.373.0
+
+### Published: 08/01/2024 20:50:46 by Windmill Labs
+
+Client for the Windmill platform.
+
+__Downloads__: 428 | __Repository__: https://github.com/windmill-labs/windmill/tree/main/powershell-client
+
+## [qbo4.Infrastructure](https://www.powershellgallery.com/Packages/qbo4.Infrastructure/1.0.21.28) | 1.0.21.28
+
+### Published: 08/01/2024 20:24:32 by Quandis Inc.
+
+Quandis Infrastructure Management, including publishing of qbo databases and websites.
+
+__Downloads__: 1,078 | __Repository__: https://dev.azure.com/quandis/qbo4/_git/qbo4.Infrastructure
+
 ## [UiPathOrch](https://www.powershellgallery.com/Packages/UiPathOrch/0.9.5.12) | 0.9.5.12
 
 ### Published: 08/01/2024 15:38:38 by Yoshifumi Tsuda
@@ -26,14 +79,6 @@ __Downloads__: 4,820,963 | __Repository__: https://0install.net/
 Devolutions Gateway PowerShell Module
 
 __Downloads__: 8,892 | __Repository__: https://github.com/Devolutions/devolutions-gateway/tree/master/powershell/
-
-## [WindmillClient](https://www.powershellgallery.com/Packages/WindmillClient/1.372.0) | 1.372.0
-
-### Published: 08/01/2024 14:29:52 by Windmill Labs
-
-Client for the Windmill platform.
-
-__Downloads__: 428 | __Repository__: https://github.com/windmill-labs/windmill/tree/main/powershell-client
 
 ## [SMART-BcBuildHelper](https://www.powershellgallery.com/Packages/SMART-BcBuildHelper/1.5.23) | 1.5.23
 
@@ -183,14 +228,6 @@ A module to create Adaptive Cards in JSON format from PowerShell-objects
 
 __Downloads__: 4 | __Repository__: https://github.com/erlwes/PSAdaptiveCards
 
-## [qbo4.Infrastructure](https://www.powershellgallery.com/Packages/qbo4.Infrastructure/1.0.21.27) | 1.0.21.27
-
-### Published: 07/31/2024 21:24:12 by Quandis Inc.
-
-Quandis Infrastructure Management, including publishing of qbo databases and websites.
-
-__Downloads__: 1,078 | __Repository__: https://dev.azure.com/quandis/qbo4/_git/qbo4.Infrastructure
-
 ## [PSStringToQRCode](https://www.powershellgallery.com/Packages/PSStringToQRCode/1.0.1) | 1.0.1
 
 ### Published: 07/31/2024 20:59:42 by EW
@@ -228,14 +265,6 @@ __Downloads__: 1,443 | __Repository__:
 Interact with GitLab via PowerShell
 
 __Downloads__: 19,705 | __Repository__: https://github.com/chris-peterson/pwsh-gitlab
-
-## [EC2Remote](https://www.powershellgallery.com/Packages/EC2Remote/0.0.3) | 0.0.3
-
-### Published: 07/31/2024 15:32:58 by Joshua Rowland
-
-Opens remote desktop connections to AWS EC2 instances using SSM Session Manager.
-
-__Downloads__: 16 | __Repository__: https://github.com/row-io/ec2-remote
 
 ## [ProcessTree](https://www.powershellgallery.com/Packages/ProcessTree/2.0.0) | 2.0.0
 
@@ -1893,6 +1922,14 @@ Cmdlets for Twincat ADS and device management for Powershell Core and Windows Po
 
 __Downloads__: 24,675 | __Repository__: https://infosys.beckhoff.com/content/1033/tc3_ads_ps_tcxaemgmt/3972231819.html?id=8731138690123386389
 
+## [AutomateNOW](https://www.powershellgallery.com/Packages/AutomateNOW/1.0.24) | 1.0.24
+
+### Published: 07/26/2024 04:53:16 by AutomateNOW-Fan
+
+Interact with the API of an AutomateNOW! instance
+
+__Downloads__: 171 | __Repository__: https://github.com/AutomateNOW-Fan/AutomateNOW
+
 ## [pwshBedrock](https://www.powershellgallery.com/Packages/pwshBedrock/0.9.1) | 0.9.1
 
 ### Published: 07/26/2024 01:46:52 by Jake Morrison
@@ -2037,36 +2074,4 @@ This PowerShell module contains PowerCLI Cloud cmdlets.
 
 __Downloads__: 10,628,487 | __Repository__: https://developer.vmware.com/powercli
 
-## [VMware.PowerCLI.VCenter](https://www.powershellgallery.com/Packages/VMware.PowerCLI.VCenter/13.3.0.24145081) | 13.3.0.24145081
-
-### Published: 07/25/2024 13:04:14 by Broadcom
-
-Modules for automating and managing VMware vCenter
-
-__Downloads__: 4,407,847 | __Repository__: https://developer.vmware.com/powercli
-
-## [VMware.Sdk.Vr](https://www.powershellgallery.com/Packages/VMware.Sdk.Vr/13.3.0.24145081) | 13.3.0.24145081
-
-### Published: 07/25/2024 13:03:54 by Broadcom
-
-This PowerShell module contains cmdlets for managing VMware.Sdk.Vr API.
-
-__Downloads__: 2,421,262 | __Repository__: https://developer.vmware.com/powercli
-
-## [VMware.VimAutomation.License](https://www.powershellgallery.com/Packages/VMware.VimAutomation.License/13.3.0.24145081) | 13.3.0.24145081
-
-### Published: 07/25/2024 13:03:40 by Broadcom
-
-This PowerShell module contains PowerCLI cmdlets for managing VMware product licenses.
-
-__Downloads__: 10,882,319 | __Repository__: https://developer.vmware.com/powercli
-
-## [VMware.VimAutomation.Srm](https://www.powershellgallery.com/Packages/VMware.VimAutomation.Srm/13.3.0.24145081) | 13.3.0.24145081
-
-### Published: 07/25/2024 13:03:26 by Broadcom
-
-This PowerShell module contains PowerCLI SRM cmdlets.
-
-__Downloads__: 10,996,179 | __Repository__: https://developer.vmware.com/powercli
-
-*Updated: Thursday, 01 August 2024 17:51:44 UTC*
+*Updated: Friday, 02 August 2024 02:10:19 UTC*

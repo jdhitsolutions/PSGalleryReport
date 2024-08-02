@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Thursday, 01 August 2024 17:51:52 UTC
+Updated: Friday, 02 August 2024 02:10:27 UTC
 
 .bat
 .env
@@ -279,6 +279,7 @@ aispeech
 aiutilities
 aivision
 ajustee
+aka.ms
 aks
 aks-hci
 akscluster
@@ -429,7 +430,6 @@ applicationmigration
 applicationmonitor
 applications
 applocker
-apply
 appmgmtcontrol
 apppool
 appraiser
@@ -504,7 +504,6 @@ asana
 asbuiltreport
 asc
 ascii
-ascii85
 asciiart
 asdatabase
 asigra
@@ -602,6 +601,7 @@ automanage
 automate
 automated
 automatedlab
+automatenow
 automaticpacketreportingsystem
 automation
 automation psmodule
@@ -644,7 +644,6 @@ aws_profile
 aws-codebuild
 aws-lambda
 aws-vault
-aws.tools.powershell
 awsbedrock
 awscli
 awspricelist
@@ -789,13 +788,10 @@ barcodes
 baremetal
 base
 base-in-json
-base16
 base26
-base32
 base64
 base64string
 base64url
-base85
 basecamp
 based
 baseline
@@ -870,7 +866,6 @@ binomial
 bios
 bios_settings
 bios-settings
-bit
 bitbucket
 bitbucket-api
 bitbucket-server
@@ -922,6 +917,7 @@ boilerplate
 boinc
 bold-text
 bolt
+bom
 book
 bookmark
 bookmarks
@@ -1570,6 +1566,7 @@ cosmos
 cosmosdb
 cost
 cost-management
+costmanagement
 costoptimization
 couchbase
 couchdb
@@ -1655,7 +1652,6 @@ crypto
 cryptocompare
 cryptocurrency
 cryptography
-cs137
 csc
 csharp
 csharp-watch
@@ -1686,6 +1682,7 @@ currency-convereter
 currency-exchange
 currencyconverterapi
 current
+curseforge
 custom
 customchecks
 customdns
@@ -1739,7 +1736,6 @@ dacl
 dacpac
 dacpackage
 dagger
-daily
 dalle3
 dane
 dangling
@@ -1924,6 +1920,7 @@ desktop
 desktops
 desktopvirtualization
 details
+detect
 detection
 detectionrule
 deutschland
@@ -1934,7 +1931,6 @@ devcenter
 devdeer
 devdrive
 developer
-developer_command_prompt
 developercommandprompt
 developermode
 development
@@ -2132,6 +2128,7 @@ dots
 dotteddecimalip
 doubleclick
 download
+downloader
 downloadfacebookvideo
 downloadfilefromsite
 downloadinfo
@@ -2140,7 +2137,6 @@ downloadoffice
 downloadofficertool
 downloads
 downloadyoutubevideo
-dozent
 dpa
 dpapi
 dpi
@@ -2548,6 +2544,7 @@ external
 externalip
 extract
 extraction
+extractor
 extreme-networks
 eye-candy
 eztheme
@@ -2685,6 +2682,7 @@ findplace
 findproxyforurl
 fine-print
 fine-tuning
+finops
 firebird
 firefox
 firewall
@@ -2694,7 +2692,6 @@ firmware
 firmwareanalysis
 first
 fisher
-fissionproducts
 fitbit
 fits
 five
@@ -3391,7 +3388,6 @@ imagga
 imagination
 imaging
 imap
-imb
 imei
 imi
 impala
@@ -3412,6 +3408,7 @@ incident
 incident-response
 incidentresponse
 incontact
+indents
 index
 indexdb
 indicator
@@ -3526,8 +3523,6 @@ invoke-dtdownloaddriverupdates
 invoke-dtdrivertool
 invoke-msbuild
 invoke-msbuildpreprocess
-invoke-vsbuild
-invoke-vsdevcommand
 invoke-webrequest
 invokebuild
 invokemethod
@@ -3606,8 +3601,6 @@ itop
 itsm
 itstore
 ivanti
-ivb
-ivdc
 iwi
 j
 j81-blog
@@ -3674,7 +3667,6 @@ junction
 junctions
 junit
 jupyter
-jupytor
 jurassic
 jurassic2
 justenoughadministration
@@ -3786,6 +3778,7 @@ lake
 lambda
 lame
 lametrictime
+lamp
 lan
 landingzones
 language
@@ -3869,6 +3862,7 @@ limit-job
 limits
 lina
 line
+line-endings
 linear
 linearalgebra
 lingeringobjects
@@ -3878,6 +3872,7 @@ link-preview
 linkedin
 linkedservice
 linkedservicedependency
+linkid
 links
 linq
 linqpad
@@ -3952,6 +3947,8 @@ logbook
 logcat
 logentry
 logfile
+logfilearchivearchive
+logfilemanagement psmodule
 logfiles
 logger
 logging
@@ -3984,8 +3981,10 @@ logonto
 logonuser
 logparser
 logrotate
+logrotation
 logs
 logstash
+logtools
 logz
 loki
 lol
@@ -4167,6 +4166,7 @@ mediaplayer
 mediaservices
 mediawiki
 meditation
+medlemsservice
 meesman
 meeting
 meetup
@@ -4242,6 +4242,7 @@ microsoft365
 microsoft365dsc
 microsoftauthenticationlibrary
 microsoftazure
+microsoftcloud
 microsoftdefender
 microsoftdefenderatp
 microsoftdefenderforidentity
@@ -5113,11 +5114,13 @@ pipescript
 piraeus
 piv
 pivot
+pivotal
 pivottable
 pixoo
 pkce
 pki
 pki psmodule
+pks
 place
 places
 plain
@@ -5433,6 +5436,7 @@ product
 productid
 productivity
 productmedia
+products
 productstate
 profile
 profiler
@@ -5447,6 +5451,7 @@ progressbars
 project
 project-management
 projectmanagement
+projectreunion
 projects
 projecttemplate
 projectwise
@@ -8451,6 +8456,7 @@ pssqlservermodule
 psst
 psstgenerator
 pstablacus
+pstanss
 psthread
 pstk
 pstwitter
@@ -8867,7 +8873,6 @@ rightcloud
 rightjoin
 rights
 rightsizing
-rightsmanagement
 ring
 ripe
 risk
@@ -8879,7 +8884,6 @@ rlan
 rmcp
 rmm
 rms
-rng
 roarwrecker
 robbyrussel
 robocopy
@@ -9046,7 +9050,6 @@ schemaextensions
 scheme
 school-information-system
 schoolholidays
-schulung
 schulverwaltung
 science
 scissors
@@ -9288,6 +9291,7 @@ shadow
 shadowcopy
 shadowcopybackups
 shadowgroups
+shanghaitech
 shard
 share
 share-permission
@@ -9529,6 +9533,7 @@ speed
 speedometer
 speedtest
 speedtester
+spejder
 spellcheck
 spelling
 spf
@@ -9888,6 +9893,7 @@ taken
 takeown
 tally
 talxis
+tanss
 tanzu
 tar
 target
@@ -9941,6 +9947,7 @@ temp
 temperature
 template
 template-engine
+templater
 templates
 templating
 temporary
@@ -10121,7 +10128,6 @@ trafficfiltering
 trafficmanager
 trafficmarking
 train
-trainer
 training
 training-course
 tram
@@ -10312,7 +10318,6 @@ unattendedfile
 unblock
 unc
 underlined-text
-unhide
 unicode
 unicode-emoji
 unicode-emojis
@@ -10409,16 +10414,16 @@ usg
 usps
 utc
 utf-8
+utf-sig
 utf7
 utf8
+utf8-sig
 utf8bom
 util
 utilities
 utility
 utils
 utm
-uudecode
-uuencode
 uuid
 uw
 uwp
@@ -10868,6 +10873,7 @@ winsat
 winscp
 wintellect
 winterminal
+winui
 wireless
 wirelessnetwork
 wireshark
@@ -10915,7 +10921,6 @@ workloads
 workpoint
 workrequests
 worksheet
-workshop
 workspace
 workspacemanager
 workspaceone
