@@ -3,9 +3,88 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
-## [AzureDevOpsLogging](https://www.powershellgallery.com/Packages/AzureDevOpsLogging/1.0.2) | 1.0.2
+## [WindmillClient](https://www.powershellgallery.com/Packages/WindmillClient/1.373.1) | 1.373.1
 
-### Published: 08/02/2024 09:08:59 by Marius Solbakken Mellum
+### Published: 08/02/2024 15:38:16 by Windmill Labs
+
+Client for the Windmill platform.
+
+__Downloads__: 428 | __Repository__: https://github.com/windmill-labs/windmill/tree/main/powershell-client
+
+## [ibPS](https://www.powershellgallery.com/Packages/ibPS/1.9.8.2) | 1.9.8.2
+
+### Published: 08/02/2024 14:50:25 by Mat Cox
+
+InfoBlox BloxOne PowerShell Module
+
+__Downloads__: 435 | __Repository__: https://github.com/TehMuffinMoo/ibPS
+
+## [SMART-BcBuildHelper](https://www.powershellgallery.com/Packages/SMART-BcBuildHelper/1.5.25) | 1.5.25
+
+### Published: 08/02/2024 13:14:15 by SMART business
+
+Module SMART-BcBuildHelper
+
+__Downloads__: 12,741 | __Repository__: 
+
+## [Bicep](https://www.powershellgallery.com/Packages/Bicep/2.6.0) | 2.6.0
+
+### Published: 08/02/2024 12:05:17 by Stefan Ivemo
+
+A module to run Bicep using PowerShell. The module is a community project built using the Bicep assemblies to provide you with an enhanced Bicep experience directly from PowerShell without having Bicep CLI installed. 
+
+The module also provides the additional features:
+- Generate ARM template parameter files directly from a Bicep file
+- Quickly open the API reference docs by referencing the Bicep types
+- Get the result from a build as a string or hashtable instead of writing to a file
+- Test if a Bicep file is valid without building it
+- Convert JSON objects to Bicep Language
+- Install/Update/Uninstall Bicep CLI
+- Specify output folder when building* and decompiling Bicep/ARM templates
+- Specify output filename when building Bicep files
+- Find modules in private module registries
+- Clear local module cache
+
+For more information about Bicep, please visit the official Bicep GitHub Repository:
+https://github.com/Azure/bicep
+
+__Downloads__: 2,872,724 | __Repository__: https://github.com/PSBicep/PSBicep
+
+## [awsBox](https://www.powershellgallery.com/Packages/awsBox/1.0.2) | 1.0.2
+
+### Published: 08/02/2024 11:41:07 by aws
+
+Module to quickly create simple prompts.
+
+__Downloads__: 49 | __Repository__: 
+
+## [Juriba.Platform](https://www.powershellgallery.com/Packages/Juriba.Platform/0.0.55.0) | 0.0.55.0
+
+### Published: 08/02/2024 11:26:36 by Juriba
+
+PowerShell Module to interact with Juriba Platform.
+
+__Downloads__: 7,442 | __Repository__: https://github.com/juribalimited/powershell-module-platform
+
+## [TelligentLocalInstance](https://www.powershellgallery.com/Packages/TelligentLocalInstance/0.0.16) | 0.0.16
+
+### Published: 08/02/2024 10:27:53 by Alex Crome Rich Mercer
+
+Telligent Instance Manager allows you to create and manage local Telligent Community instances.
+
+__Downloads__: 1,190 | __Repository__: https://github.com/RichMercer/TelligentInstanceManager/
+
+## [TelligentInstall](https://www.powershellgallery.com/Packages/TelligentInstall/0.0.16) | 0.0.16
+
+### Published: 08/02/2024 10:27:19 by Alex Crome Rich Mercer
+
+Helper functions for installing Telligent Community
+
+__Downloads__: 2,029 | __Repository__: https://github.com/RichMercer/TelligentInstanceManager/
+
+## [AzureDevOpsLogging](https://www.powershellgallery.com/Packages/AzureDevOpsLogging/1.1.0) | 1.1.0
+
+### Published: 08/02/2024 10:25:10 by Marius Solbakken Mellum
 
 A module for logging in Azure DevOps Pipelines
 
@@ -26,14 +105,6 @@ __Downloads__: 12,094 | __Repository__: https://github.com/o-o00o-o/PSEasy.Utili
 Provides cmdlets for starting migration of applications to supported clouds using the RiverMeadow platform.
 
 __Downloads__: 970 | __Repository__: https://migrate.rivermeadow.com/
-
-## [SMART-BcBuildHelper](https://www.powershellgallery.com/Packages/SMART-BcBuildHelper/1.5.24) | 1.5.24
-
-### Published: 08/02/2024 07:22:31 by SMART business
-
-Module SMART-BcBuildHelper
-
-__Downloads__: 12,741 | __Repository__: 
 
 ## [IntuneBulkMaster](https://www.powershellgallery.com/Packages/IntuneBulkMaster/24.8.1.0) | 24.8.1.0
 
@@ -96,14 +167,6 @@ __Downloads__: 1,601 | __Repository__: https://github.com/steve02081504/ps12exe
 Use Active Directory Service Interfaces to query LDAP and WinNT directories
 
 __Downloads__: 2,097 | __Repository__: 
-
-## [WindmillClient](https://www.powershellgallery.com/Packages/WindmillClient/1.373.0) | 1.373.0
-
-### Published: 08/01/2024 20:50:46 by Windmill Labs
-
-Client for the Windmill platform.
-
-__Downloads__: 428 | __Repository__: https://github.com/windmill-labs/windmill/tree/main/powershell-client
 
 ## [qbo4.Infrastructure](https://www.powershellgallery.com/Packages/qbo4.Infrastructure/1.0.21.28) | 1.0.21.28
 
@@ -306,6 +369,14 @@ __Downloads__: 1,443 | __Repository__:
 Interact with GitLab via PowerShell
 
 __Downloads__: 19,705 | __Repository__: https://github.com/chris-peterson/pwsh-gitlab
+
+## [EC2Remote](https://www.powershellgallery.com/Packages/EC2Remote/0.0.3) | 0.0.3
+
+### Published: 07/31/2024 15:32:58 by Joshua Rowland
+
+Opens remote desktop connections to AWS EC2 instances using SSM Session Manager.
+
+__Downloads__: 16 | __Repository__: https://github.com/row-io/ec2-remote
 
 ## [ProcessTree](https://www.powershellgallery.com/Packages/ProcessTree/2.0.0) | 2.0.0
 
@@ -2019,60 +2090,4 @@ PowerShell Module for VMware Cloud Foundation Certificate Management
 
 __Downloads__: 857 | __Repository__: https://vmware.github.io/powershell-module-for-vmware-cloud-foundation-certificate-management
 
-## [dbatools](https://www.powershellgallery.com/Packages/dbatools/2.1.22) | 2.1.22
-
-### Published: 07/25/2024 13:55:33 by the dbatools team
-
-The community module that enables SQL Server Pros to automate database development and server administration
-
-__Downloads__: 4,415,273 | __Repository__: https://dbatools.io/
-
-## [VMware.PowerCLI](https://www.powershellgallery.com/Packages/VMware.PowerCLI/13.3.0.24145081) | 13.3.0.24145081
-
-### Published: 07/25/2024 13:08:12 by Broadcom
-
-This Windows PowerShell module contains VMware.PowerCLI
-
-__Downloads__: 10,380,301 | __Repository__: https://developer.vmware.com/powercli
-
-## [VMware.VumAutomation](https://www.powershellgallery.com/Packages/VMware.VumAutomation/13.3.0.24145081) | 13.3.0.24145081
-
-### Published: 07/25/2024 13:07:28 by Broadcom
-
-This PowerShell module contains PowerCLI VUM cmdlets.
-
-__Downloads__: 10,354,509 | __Repository__: https://developer.vmware.com/powercli
-
-## [VMware.VimAutomation.Hcx](https://www.powershellgallery.com/Packages/VMware.VimAutomation.Hcx/13.3.0.24145081) | 13.3.0.24145081
-
-### Published: 07/25/2024 13:07:13 by Broadcom
-
-This Windows PowerShell module contains PowerCLI HCX cmdlets.
-
-__Downloads__: 9,851,582 | __Repository__: https://developer.vmware.com/powercli
-
-## [VMware.VimAutomation.WorkloadManagement](https://www.powershellgallery.com/Packages/VMware.VimAutomation.WorkloadManagement/13.3.0.24145081) | 13.3.0.24145081
-
-### Published: 07/25/2024 13:06:59 by Broadcom
-
-PowerShell commands for automation of workloads related functionality in vSphere.
-
-__Downloads__: 8,503,553 | __Repository__: https://developer.vmware.com/powercli
-
-## [VMware.Sdk.vSphere](https://www.powershellgallery.com/Packages/VMware.Sdk.vSphere/13.3.2099.24145081) | 13.3.2099.24145081
-
-### Published: 07/25/2024 13:06:43 by VMware
-
-This PowerShell module is a parent module for VMware.Sdk.vSphere modules.
-
-__Downloads__: 4,426,577 | __Repository__: https://developer.vmware.com/powercli
-
-## [VMware.Sdk.Vcf.SddcManager](https://www.powershellgallery.com/Packages/VMware.Sdk.Vcf.SddcManager/13.3.0.24145081) | 13.3.0.24145081
-
-### Published: 07/25/2024 13:05:36 by Broadcom
-
-This PowerShell module contains cmdlets for managing VMware.Sdk.Vcf.SddcManager API.
-
-__Downloads__: 1,747,092 | __Repository__: https://developer.vmware.com/powercli
-
-*Updated: Friday, 02 August 2024 09:51:55 UTC*
+*Updated: Friday, 02 August 2024 17:51:45 UTC*

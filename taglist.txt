@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Friday, 02 August 2024 09:52:03 UTC
+Updated: Friday, 02 August 2024 17:51:53 UTC
 
 .bat
 .env
@@ -287,7 +287,6 @@ al
 alac
 alarm
 alb
-albums
 alc
 alero
 alert
@@ -430,7 +429,6 @@ applicationmigration
 applicationmonitor
 applications
 applocker
-apply
 appmgmtcontrol
 apppool
 appraiser
@@ -851,7 +849,6 @@ bicepnet
 big-ip
 big-iq
 bigcommerce
-bigeval
 bigfix
 bigquery
 bikeshed
@@ -1398,7 +1395,6 @@ comments
 commerce
 commfort
 commit
-commits
 common
 common-data-service
 commondataservice
@@ -1523,8 +1519,6 @@ control
 controller
 controlroom
 controlup
-conventional
-conventional-commits
 convereter
 converged_data_management
 conversational
@@ -1693,6 +1687,7 @@ current
 curseforge
 custom
 customchecks
+customdns
 customer
 customerengagement
 customers
@@ -2078,6 +2073,7 @@ dnsentry
 dnsimple
 dnslookup
 dnsmadeeasy
+dnsoverhttps
 dnsrecord
 dnsresolver
 dnssec
@@ -2097,7 +2093,6 @@ dockerize
 dockerswarm
 docking
 docs
-docset
 document
 documentation
 documentdb
@@ -2145,6 +2140,7 @@ downloadoffice
 downloadofficertool
 downloads
 downloadyoutubevideo
+dozent
 dpa
 dpapi
 dpi
@@ -2235,6 +2231,7 @@ dynamic
 dynamic-host-configuration-protocol
 dynamic-privileged-access
 dynamicdistributiongroups
+dynamicdnsoverhttps
 dynamicparam
 dynamicparameters
 dynamicparams
@@ -2782,8 +2779,6 @@ fqdn
 frame
 framework
 france
-free
-free-ware
 freeipa
 freenas
 freesoftwarefoundation
@@ -3680,7 +3675,6 @@ junction
 junctions
 junit
 jupyter
-jupytor
 jurassic
 jurassic2
 justenoughadministration
@@ -4429,6 +4423,9 @@ msproject
 msrc
 msrdc
 mssql
+mssqlbynarymodule
+mssqlbynarypsmodule
+mssqlmodule
 mssqlplugins
 mssqlserver
 msteams
@@ -4698,7 +4695,6 @@ nvd
 nvdimm
 nvdimm-n
 nvm
-nvm-window
 nxt
 nyse
 nzb
@@ -5125,11 +5121,13 @@ pipescript
 piraeus
 piv
 pivot
+pivotal
 pivottable
 pixoo
 pkce
 pki
 pki psmodule
+pks
 place
 places
 plain
@@ -5143,7 +5141,6 @@ play
 playback
 playbook
 player
-playlists
 playwright
 pleasant
 pleasantpasswordserver
@@ -5156,7 +5153,6 @@ plugin
 plugins
 pluralsight
 ply
-pmp
 pncit
 pnp
 pnp.powershell
@@ -5264,6 +5260,7 @@ poshy-wrap-npm
 poshy-wrap-pip
 poshy-wrap-pipenv
 poshy-wrap-pyenv
+poshy-wrap-pylint
 poshy-wrap-python
 poshy-wrap-ruby
 poshy-wrap-systemctl
@@ -5459,7 +5456,6 @@ progressbars
 project
 project-management
 projectmanagement
-projectreunion
 projects
 projecttemplate
 projectwise
@@ -6542,6 +6538,7 @@ pscommand_invoke-pipinstallupgrade
 pscommand_invoke-piplistoutdated
 pscommand_invoke-pipuninstall
 pscommand_invoke-pyenv
+pscommand_invoke-pylintreportsdisabled
 pscommand_invoke-ruby
 pscommand_invoke-rubyexecute
 pscommand_invoke-rubyexecutehttpdhere
@@ -7030,6 +7027,7 @@ pscommand_pwh
 pscommand_pwshrc-show-proxy
 pscommand_py
 pscommand_pyenv
+pscommand_pylint-quick
 pscommand_pyserver
 pscommand_python
 pscommand_python3
@@ -7952,6 +7950,7 @@ psfunction_invoke-pipinstallupgrade
 psfunction_invoke-piplistoutdated
 psfunction_invoke-pipuninstall
 psfunction_invoke-pyenv
+psfunction_invoke-pylintreportsdisabled
 psfunction_invoke-ruby
 psfunction_invoke-rubyexecute
 psfunction_invoke-rubyexecutehttpdhere
@@ -8416,6 +8415,9 @@ psmodules
 psmp
 psmsgraph
 psmsgraphapi
+psmssql
+psmssqlbynarymodule
+psmssqlmodule
 psmvp
 psnavigation
 psnexosisclient
@@ -8452,9 +8454,13 @@ psslack
 pssqlite
 pssqlitebynarymodule
 pssqlitemodule
+pssqlserver
+pssqlserverbynarymodule
+pssqlservermodule
 psst
 psstgenerator
 pstablacus
+pstanss
 psthread
 pstk
 pstwitter
@@ -8522,6 +8528,7 @@ pwshrc
 pxedistributionpoint
 pyenv
 pygmentize
+pylint
 pyranja
 python
 python-for-dotnet
@@ -9049,6 +9056,7 @@ schemaextensions
 scheme
 school-information-system
 schoolholidays
+schulung
 schulverwaltung
 science
 scissors
@@ -9136,6 +9144,7 @@ secur32
 secure
 secureapplicationmodel
 securechannel
+securedns
 securegopher
 securegopher+
 securemfa
@@ -9253,7 +9262,6 @@ sessionize
 sessions
 set
 set_bios
-set-alias
 set-dnsservers
 set-githubsecrets
 set-itemproperty
@@ -9446,6 +9454,7 @@ snmpset
 snmpv3
 snmpwalk
 snowflake
+snsmssqlpsmodule
 snspsadgroupmembers
 snspsscriptsmonitoring
 snssqlitepsmodule
@@ -9594,7 +9603,10 @@ sqlps
 sqlquery
 sqlserver
 sqlserveragent
+sqlserverbynarymodule
+sqlserverbynarypsmodule
 sqlserverclient
+sqlservermodule
 sqlvirtualmachine
 sqlvm
 sqr
@@ -9886,6 +9898,7 @@ taken
 takeown
 tally
 talxis
+tanss
 tanzu
 tar
 target
@@ -9939,6 +9952,7 @@ temp
 temperature
 template
 template-engine
+templater
 templates
 templating
 temporary
@@ -9976,7 +9990,6 @@ test-userisadministrator
 test-xml
 test123
 testaccount
-testautomation
 tester
 testimonial
 testing
@@ -10119,6 +10132,7 @@ trafficfiltering
 trafficmanager
 trafficmarking
 train
+trainer
 training
 training-course
 tram
@@ -10258,6 +10272,7 @@ ud-mouseparticle
 ud-navbarsearch
 ud-numbermask
 ud-orgchart
+ud-piechart3d
 ud-pivottable
 ud-progressstepbar
 ud-rangeslider
@@ -10866,7 +10881,6 @@ winsat
 winscp
 wintellect
 winterminal
-winui
 wireless
 wirelessnetwork
 wireshark
@@ -10914,6 +10928,7 @@ workloads
 workpoint
 workrequests
 worksheet
+workshop
 workspace
 workspacemanager
 workspaceone
