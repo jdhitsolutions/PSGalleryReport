@@ -3,6 +3,22 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [PsKrane](https://www.powershellgallery.com/Packages/PsKrane/0.6.0) | 0.6.0
+
+### Published: 08/03/2024 04:56:34 by Stephane van Gulick
+
+Opinionated module to scaffold, manage and help build standardized powershell modules implementing best pratcises out of the box with ease.
+
+__Downloads__: 268 | __Repository__: https://github.com/Stephanevg/PsKrane
+
+## [SdnExpress](https://www.powershellgallery.com/Packages/SdnExpress/1.1.230) | 1.1.230
+
+### Published: 08/03/2024 04:20:05 by Microsoft Windows Networking Developer Team (SDN)
+
+SDN Express
+
+__Downloads__: 1,297 | __Repository__: 
+
 ## [MilestonePSTools](https://www.powershellgallery.com/Packages/MilestonePSTools/24.1.6) | 24.1.6
 
 ### Published: 08/03/2024 01:23:00 by Joshua Hendricks
@@ -2524,24 +2540,4 @@ This version of AWS Tools for PowerShell is compatible with Windows PowerShell 5
 
 __Downloads__: 33,969 | __Repository__: https://github.com/aws/aws-tools-for-powershell
 
-## [AWS.Tools.ECS](https://www.powershellgallery.com/Packages/AWS.Tools.ECS/4.1.627) | 4.1.627
-
-### Published: 08/02/2024 22:54:36 by Amazon.com Inc
-
-The ECS module of AWS Tools for PowerShell lets developers and administrators manage Amazon EC2 Container Service from the PowerShell scripting environment. In order to manage each AWS service, install the corresponding module (e.g. AWS.Tools.EC2, AWS.Tools.S3...).
-The module AWS.Tools.Installer (https://www.powershellgallery.com/packages/AWS.Tools.Installer/) makes it easier to install, update and uninstall the AWS.Tools modules.
-This version of AWS Tools for PowerShell is compatible with Windows PowerShell 5.1+ and PowerShell Core 6+ on Windows, Linux and macOS. When running on Windows PowerShell, .NET Framework 4.7.2 or newer is required. Alternative modules AWSPowerShell.NetCore and AWSPowerShell, provide support for all AWS services from a single module and also support older versions of Windows PowerShell and .NET Framework.
-
-__Downloads__: 163,408 | __Repository__: https://github.com/aws/aws-tools-for-powershell
-
-## [AWS.Tools.ECRPublic](https://www.powershellgallery.com/Packages/AWS.Tools.ECRPublic/4.1.627) | 4.1.627
-
-### Published: 08/02/2024 22:54:30 by Amazon.com Inc
-
-The ECRPublic module of AWS Tools for PowerShell lets developers and administrators manage Amazon Elastic Container Registry Public from the PowerShell scripting environment. In order to manage each AWS service, install the corresponding module (e.g. AWS.Tools.EC2, AWS.Tools.S3...).
-The module AWS.Tools.Installer (https://www.powershellgallery.com/packages/AWS.Tools.Installer/) makes it easier to install, update and uninstall the AWS.Tools modules.
-This version of AWS Tools for PowerShell is compatible with Windows PowerShell 5.1+ and PowerShell Core 6+ on Windows, Linux and macOS. When running on Windows PowerShell, .NET Framework 4.7.2 or newer is required. Alternative modules AWSPowerShell.NetCore and AWSPowerShell, provide support for all AWS services from a single module and also support older versions of Windows PowerShell and .NET Framework.
-
-__Downloads__: 11,458 | __Repository__: https://github.com/aws/aws-tools-for-powershell
-
-*Updated: Saturday, 03 August 2024 02:09:33 UTC*
+*Updated: Saturday, 03 August 2024 09:51:53 UTC*
