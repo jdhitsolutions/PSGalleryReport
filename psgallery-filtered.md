@@ -3,6 +3,14 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [PsKrane](https://www.powershellgallery.com/Packages/PsKrane/0.6.0) | 0.6.0
+
+### Published: 08/03/2024 04:56:34 by Stephane van Gulick
+
+Opinionated module to scaffold, manage and help build standardized powershell modules implementing best pratcises out of the box with ease.
+
+__Downloads__: 268 | __Repository__: https://github.com/Stephanevg/PsKrane
+
 ## [MilestonePSTools](https://www.powershellgallery.com/Packages/MilestonePSTools/24.1.6) | 24.1.6
 
 ### Published: 08/03/2024 01:23:00 by Joshua Hendricks
@@ -1866,14 +1874,6 @@ Wraps Selenium
 
 __Downloads__: 161 | __Repository__: 
 
-## [PsKrane](https://www.powershellgallery.com/Packages/PsKrane/0.5.2) | 0.5.2
-
-### Published: 07/30/2024 06:22:50 by Stephane van Gulick
-
-Opinionated module to scaffold, manage and help build standardized powershell modules implementing best pratcises out of the box with ease.
-
-__Downloads__: 268 | __Repository__: https://github.com/Stephanevg/PsKrane
-
 ## [PSPassPhrase](https://www.powershellgallery.com/Packages/PSPassPhrase/1.0.3) | 1.0.3
 
 ### Published: 07/29/2024 20:08:32 by Martin Cooper (@mc1903)
@@ -2090,4 +2090,4 @@ The Devolutions.PowerShell module is a set of cmdlets that allow administrators 
 
 __Downloads__: 116,597 | __Repository__: https://devolutions.net/
 
-*Updated: Saturday, 03 August 2024 02:09:34 UTC*
+*Updated: Saturday, 03 August 2024 09:51:55 UTC*

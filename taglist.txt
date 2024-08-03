@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Saturday, 03 August 2024 02:09:42 UTC
+Updated: Saturday, 03 August 2024 09:52:03 UTC
 
 .bat
 .env
@@ -270,7 +270,6 @@ aimodels
 aip
 aiprompting
 aipscanner
-aircall
 airpower
 airpwr
 airtable
@@ -287,6 +286,7 @@ al
 alac
 alarm
 alb
+albums
 alc
 alero
 alert
@@ -546,6 +546,7 @@ atlassian
 atlassiancli
 atlassianps
 atmosphere
+atom
 atp
 atrium
 att&ck
@@ -644,6 +645,7 @@ aws_profile
 aws-codebuild
 aws-lambda
 aws-vault
+aws.tools.powershell
 awsbedrock
 awscli
 awspricelist
@@ -839,7 +841,6 @@ ber
 bestpractice
 bestpractices
 bginfo
-bgp
 bi
 bibliography
 bibtex
@@ -1118,6 +1119,7 @@ certes
 certificate
 certificateauthority
 certificatechain
+certificatemanager
 certificatepolicy
 certificates
 certificateservices
@@ -1157,7 +1159,6 @@ chef-compliance
 chef-server
 chefconf2016
 chenxizhang
-cherrypy
 cherwell
 chfs
 chi
@@ -1568,7 +1569,6 @@ cos
 cosmos
 cosmosdb
 cost
-cost-management
 costmanagement
 costoptimization
 couchbase
@@ -1982,7 +1982,6 @@ digitalforensics
 digitalocean
 digitaltwins
 dilbert
-dimcry
 dircolors
 director
 directories
@@ -2094,6 +2093,7 @@ dockerize
 dockerswarm
 docking
 docs
+docset
 document
 documentation
 documentdb
@@ -2528,13 +2528,16 @@ export-cmhealthreport
 export-data
 export-passlist
 exportcertificate
+exportcertificates
 exporter
 exportexcel
 exportteams
 expression
 extend
 extended
+extendedattributes
 extendedevents
+extendedproperties
 extendedproperty
 extendscript
 extensibility
@@ -2609,7 +2612,6 @@ fifa
 figlet
 file
 file-association
-file-copy
 file-encoding
 file-extension
 file-extension-association
@@ -2626,6 +2628,7 @@ file-system
 file-transform
 file-type
 file-type-association
+fileattributes
 fileencryption
 filelist
 filelog
@@ -2634,6 +2637,7 @@ filemanagement
 filematcher
 filename
 filenames
+fileproperties
 filereplication
 files
 files-cli
@@ -2838,7 +2842,6 @@ gamecategory:cards
 games
 gameserver
 gaming
-garage
 gas
 gat
 gateway
@@ -3167,6 +3170,7 @@ helper-functions
 helperfunctions
 helpers
 helpfile
+helpful
 heml
 here
 hewlett
@@ -3783,6 +3787,7 @@ lake
 lambda
 lame
 lametrictime
+lamp
 lan
 landingzones
 language
@@ -3859,7 +3864,6 @@ life
 lifequotes
 lifestyle
 light
-lights
 lime
 limesurvey
 limit-job
@@ -4001,7 +4005,6 @@ loopback
 loremipsum
 love
 lovequotes
-lpsiamol
 ls
 lsa
 lsasecrets
@@ -4009,7 +4012,6 @@ lsd
 ltm
 lucd
 lucene
-lunches
 lwa
 lxca
 lxcapstool
@@ -4622,6 +4624,8 @@ nntp
 node
 nodejs
 non-volatile
+none
+noneimages
 noninteractive
 noproxy
 nord
@@ -4918,6 +4922,7 @@ outsystems
 overbite
 ovf
 ovgd
+ovh
 owasp
 owls
 owner
@@ -5039,7 +5044,6 @@ pdf-document-processor
 pdf-files
 pdf-generation
 pdf-redaction
-pe
 peek
 peering
 peheader
@@ -5133,6 +5137,7 @@ play
 playback
 playbook
 player
+playlists
 playwright
 pleasant
 pleasantpasswordserver
@@ -5140,7 +5145,6 @@ plex
 plist
 plog
 plot
-plug-n-copy
 plugin
 plugins
 pluralsight
@@ -5257,6 +5261,7 @@ poshy-wrap-pylint
 poshy-wrap-python
 poshy-wrap-ruby
 poshy-wrap-systemctl
+poshy-wrap-terraform
 poshy-wrap-terragrunt
 poshy-wrap-tmux
 poshy-wrap-vagrant
@@ -6643,6 +6648,15 @@ pscommand_invoke-systemctluser-try-reload-or-restart
 pscommand_invoke-systemctluser-try-restart
 pscommand_invoke-systemctluser-unmask
 pscommand_invoke-systemctluser-unset-environment
+pscommand_invoke-terraform
+pscommand_invoke-terraformapply
+pscommand_invoke-terraformconsole
+pscommand_invoke-terraformdestroy
+pscommand_invoke-terraformformat
+pscommand_invoke-terraforminit
+pscommand_invoke-terraformoutput
+pscommand_invoke-terraformplan
+pscommand_invoke-terraformvalidate
 pscommand_invoke-terragrunt
 pscommand_invoke-terragruntapply
 pscommand_invoke-terragruntapplyall
@@ -7111,6 +7125,15 @@ pscommand_test-o
 pscommand_test-reparsepoint
 pscommand_test-sessioninteractivity
 pscommand_test-x
+pscommand_tf
+pscommand_tfa
+pscommand_tfc
+pscommand_tfd
+pscommand_tff
+pscommand_tfi
+pscommand_tfo
+pscommand_tfp
+pscommand_tfv
 pscommand_tg
 pscommand_tga
 pscommand_tgaa
@@ -8037,6 +8060,15 @@ psfunction_invoke-systemctluser-try-reload-or-restart
 psfunction_invoke-systemctluser-try-restart
 psfunction_invoke-systemctluser-unmask
 psfunction_invoke-systemctluser-unset-environment
+psfunction_invoke-terraform
+psfunction_invoke-terraformapply
+psfunction_invoke-terraformconsole
+psfunction_invoke-terraformdestroy
+psfunction_invoke-terraformformat
+psfunction_invoke-terraforminit
+psfunction_invoke-terraformoutput
+psfunction_invoke-terraformplan
+psfunction_invoke-terraformvalidate
 psfunction_invoke-terragrunt
 psfunction_invoke-terragruntapply
 psfunction_invoke-terragruntapplyall
@@ -8683,6 +8715,7 @@ regex
 region
 regions
 regiser-argumentcompleter
+register
 register-argumentcompleter
 registered
 registrar
@@ -8798,7 +8831,6 @@ resourcescheduler
 resourcesearch
 response
 rest
-rest_cherrypy
 rest-api
 restapi
 restart
@@ -8950,8 +8982,6 @@ sale
 sales
 salesforce
 salesloft
-salt
-salt-api
 saltstack
 saltstackconfig
 saltstackenterprise
@@ -9227,7 +9257,6 @@ sessionize
 sessions
 set
 set_bios
-set-alias
 set-dnsservers
 set-githubsecrets
 set-itemproperty
@@ -9716,6 +9745,7 @@ sub
 sub-directory
 sub-menu
 subatomix
+subjectname
 sublimetext
 submission
 subnet
@@ -9809,6 +9839,7 @@ syslog
 sysman
 sysmon
 sysop
+syspass
 syspip
 syspip3
 sysprep
@@ -9966,7 +9997,6 @@ tests
 testsuite
 testtag1
 testtag2
-testtool
 testusers
 text
 text-emoji
@@ -10761,7 +10791,6 @@ win32_operatingsystem
 win32-api
 win32appmigrationtool
 win32shutdown
-winbgp
 windchillrv&s
 window
 windows
@@ -10940,7 +10969,6 @@ wsl2
 wsl2 psmodule psedition_core
 wsman
 wsmanlistener
-wso2
 wsus
 wt
 wtsapi32
