@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Saturday, 03 August 2024 09:52:03 UTC
+Updated: Saturday, 03 August 2024 17:51:52 UTC
 
 .bat
 .env
@@ -16,7 +16,6 @@ Updated: Saturday, 03 August 2024 09:52:03 UTC
 {modulenameplaceholder}
 **psedition_desktop**
 **windows**
-🍄
 🍣
 💩
 🙇
@@ -270,6 +269,7 @@ aimodels
 aip
 aiprompting
 aipscanner
+aircall
 airpower
 airpwr
 airtable
@@ -365,8 +365,6 @@ anova
 ansi
 ansible
 ansible-control-node
-ansible-playbook
-ansible-vault
 ansiblecontrolnode
 anthropic
 anti-malware
@@ -608,7 +606,6 @@ automation
 automation psmodule
 automationanywhere
 automationutils
-autopatching
 autopilot
 autoscaling
 autostart
@@ -621,7 +618,6 @@ autoupdate
 autoupdate-script
 autowrapper
 autoyast
-auvik
 availability
 availabilityset
 avalara
@@ -841,6 +837,7 @@ ber
 bestpractice
 bestpractices
 bginfo
+bgp
 bi
 bibliography
 bibtex
@@ -942,7 +939,6 @@ boundarygroups
 bounty
 box
 bpmn
-brainy
 branch
 branch-rename
 brave
@@ -1071,7 +1067,6 @@ catapult
 catesta
 catimage
 cats
-catty
 cavium
 cb
 cblueshell
@@ -1159,6 +1154,7 @@ chef-compliance
 chef-server
 chefconf2016
 chenxizhang
+cherrypy
 cherwell
 chfs
 chi
@@ -1376,7 +1372,6 @@ combinations
 combine
 comdata
 comic
-comical
 comics
 command
 command_line
@@ -1524,7 +1519,6 @@ conventional
 conventional-commits
 convereter
 converged_data_management
-conversational
 converse
 converseapi
 conversion
@@ -1569,6 +1563,7 @@ cos
 cosmos
 cosmosdb
 cost
+cost-management
 costmanagement
 costoptimization
 couchbase
@@ -1833,6 +1828,7 @@ dbase
 dbassistant
 dbatools
 dbcommand
+dbeaver
 dbfs
 dbnull
 dbops
@@ -1935,7 +1931,6 @@ devcenter
 devdeer
 devdrive
 developer
-developer_command_prompt
 developercommandprompt
 developermode
 development
@@ -1982,6 +1977,7 @@ digitalforensics
 digitalocean
 digitaltwins
 dilbert
+dimcry
 dircolors
 director
 directories
@@ -2349,7 +2345,6 @@ energy
 engagement
 engine
 engineevent
-english
 enhancement
 enrichers
 enrichment
@@ -2364,7 +2359,6 @@ entity
 entityframework
 entra
 entraid
-entraidgovernance
 entropy
 enum
 enumerable
@@ -2511,7 +2505,6 @@ expand
 expand-string
 expand-tab
 expandframework
-expect
 experience
 experiments
 expiration
@@ -2612,6 +2605,7 @@ fifa
 figlet
 file
 file-association
+file-copy
 file-encoding
 file-extension
 file-extension-association
@@ -2720,7 +2714,6 @@ flex-query
 flexdesk
 flickr
 flowchart
-flowy
 fluidrelay
 flyway
 fmg
@@ -2842,6 +2835,7 @@ gamecategory:cards
 games
 gameserver
 gaming
+garage
 gas
 gat
 gateway
@@ -2935,7 +2929,6 @@ gh
 gh-actions
 ghactions
 ghc
-ghibli
 ghost
 gif
 gifs
@@ -3153,7 +3146,6 @@ healthz
 heartbeatdiscovery
 heat
 heating
-heavenbay
 helium
 helix
 hello
@@ -3223,6 +3215,7 @@ home_automation
 homebrew
 homelandsecurity
 homeschooling
+hon
 hooking
 horizon
 horizontal
@@ -3260,7 +3253,6 @@ hpesynergy
 hponeview
 hpwritemanager
 hris
-hrprovisioning
 hsdp
 hsl
 html
@@ -3283,9 +3275,7 @@ hubspotps
 hudson
 hue
 humanizer
-humanly
 humor
-humorous
 hunter
 hwid
 hybrid
@@ -3391,7 +3381,6 @@ imagga
 imagination
 imaging
 imap
-imb
 imei
 imi
 impala
@@ -3505,7 +3494,6 @@ interval-timer
 intigua
 intranet
 intrusion
-intuitive
 intune
 intuneappwinutil
 intunestuff
@@ -3527,8 +3515,6 @@ invoke-dtdownloaddriverupdates
 invoke-dtdrivertool
 invoke-msbuild
 invoke-msbuildpreprocess
-invoke-vsbuild
-invoke-vsdevcommand
 invoke-webrequest
 invokebuild
 invokemethod
@@ -3607,8 +3593,6 @@ itop
 itsm
 itstore
 ivanti
-ivb
-ivdc
 iwi
 j
 j81-blog
@@ -3811,7 +3795,6 @@ latin
 latitude
 launcher
 layer
-layman
 layout
 lazywinadmin
 lbi
@@ -3864,6 +3847,7 @@ life
 lifequotes
 lifestyle
 light
+lights
 lime
 limesurvey
 limit-job
@@ -3989,8 +3973,10 @@ logonto
 logonuser
 logparser
 logrotate
+logrotation
 logs
 logstash
+logtools
 logz
 loki
 lol
@@ -4543,7 +4529,6 @@ netscaler
 netscape
 netsec
 netsh
-netspell
 netstat
 netsuite
 network
@@ -5044,6 +5029,7 @@ pdf-document-processor
 pdf-files
 pdf-generation
 pdf-redaction
+pe
 peek
 peering
 peheader
@@ -5080,7 +5066,6 @@ pfy
 pgp
 phabricator
 philips
-philosophical
 philpritchett
 phishing
 phoenix
@@ -5145,6 +5130,7 @@ plex
 plist
 plog
 plot
+plug-n-copy
 plugin
 plugins
 pluralsight
@@ -8831,6 +8817,7 @@ resourcescheduler
 resourcesearch
 response
 rest
+rest_cherrypy
 rest-api
 restapi
 restart
@@ -8982,6 +8969,8 @@ sale
 sales
 salesforce
 salesloft
+salt
+salt-api
 saltstack
 saltstackconfig
 saltstackenterprise
@@ -9005,7 +8994,6 @@ sarcasm
 sarif
 sas
 sat
-satirical
 save
 savedcreds
 savefile
@@ -9257,6 +9245,7 @@ sessionize
 sessions
 set
 set_bios
+set-alias
 set-dnsservers
 set-githubsecrets
 set-itemproperty
@@ -9362,8 +9351,6 @@ single
 singlestore
 singleton
 sinks
-sintez
-sintez.module.rds
 sit
 site
 site_navigation
@@ -9513,7 +9500,6 @@ spanner
 spark
 sparkline
 sparklines
-spawn
 spdockit
 spdx
 spdx-license-identifier:ms-pl
@@ -9535,7 +9521,6 @@ speedometer
 speedtest
 speedtester
 spejder
-spellcheck
 spelling
 spf
 spfx
@@ -9603,7 +9588,6 @@ sqlserverbynarypsmodule
 sqlserverclient
 sqlservermodule
 sqlvirtualmachine
-sqlvm
 sqr
 sqrt
 square
@@ -9668,7 +9652,6 @@ starwars
 stash
 stat
 state
-stateless
 static
 staticanalysis
 statichtmlsites
@@ -9791,7 +9774,6 @@ survey
 surveymonkey
 sus
 sushi
-suspensive
 svesavov
 svetoslav
 svg
@@ -9800,7 +9782,6 @@ svt
 swagger
 swamid
 swarm
-swedish
 swimlane
 swis
 switch
@@ -10667,7 +10648,6 @@ watch
 watchdog
 watchguard
 watchmen
-watery
 wave
 wbem
 wcf
@@ -10791,6 +10771,7 @@ win32_operatingsystem
 win32-api
 win32appmigrationtool
 win32shutdown
+winbgp
 windchillrv&s
 window
 windows
@@ -10969,6 +10950,7 @@ wsl2
 wsl2 psmodule psedition_core
 wsman
 wsmanlistener
+wso2
 wsus
 wt
 wtsapi32
@@ -11052,7 +11034,6 @@ youtube
 youtube-dl
 youtubeextractor
 yq
-yubaba
 yubikey
 yum
 z
@@ -11080,7 +11061,6 @@ zorus
 zorusapi
 zoxide
 zsh
-zuora
 zvm
 zvml
 zvmlinux
@@ -11091,4 +11071,3 @@ zypper
 全角半角変換
 寿司
 日本語
-湯婆婆

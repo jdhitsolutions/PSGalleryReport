@@ -3,6 +3,62 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [PSTcpIp](https://www.powershellgallery.com/Packages/PSTcpIp/5.13.3) | 5.13.3
+
+### Published: 08/03/2024 15:34:49 by Anthony Guimelli
+
+Provides cmdlets to perform various TCPIP and TLS/SSL related tasks.
+
+__Downloads__: 5,999 | __Repository__: https://github.com/anthonyg-1/PSTcpIp
+
+## [AutomateNOW](https://www.powershellgallery.com/Packages/AutomateNOW/1.0.25) | 1.0.25
+
+### Published: 08/03/2024 14:55:12 by AutomateNOW-Fan
+
+Interact with the API of an AutomateNOW! instance
+
+__Downloads__: 171 | __Repository__: https://github.com/AutomateNOW-Fan/AutomateNOW
+
+## [Locksmith](https://www.powershellgallery.com/Packages/Locksmith/2024.8) | 2024.8
+
+### Published: 08/03/2024 13:32:19 by Jake Hildreth
+
+A small tool to find and fix common misconfigurations in Active Directory Certificate Services.
+
+__Downloads__: 4,669 | __Repository__: https://github.com/TrimarcJake/Locksmith
+
+## [NinjaRmmApiTool](https://www.powershellgallery.com/Packages/NinjaRmmApiTool/1.0.1) | 1.0.1
+
+### Published: 08/03/2024 13:28:30 by Kalichuza
+
+A very unofficial PowerShell module to interact with NinjaRMM. Forked from Colin Cogle's NinjaRmmApi.
+
+__Downloads__: 0 | __Repository__: https://github.com/kalichuza/NinjaRmmApi-Tool/
+
+## [RSCReporting](https://www.powershellgallery.com/Packages/RSCReporting/1.0.5) | 1.0.5
+
+### Published: 08/03/2024 13:27:39 by Joshua Stenhouse
+
+A module for reporting on your Rubrik Security Cloud instance
+
+__Downloads__: 29 | __Repository__: https://github.com/joshuastenhouse/rscreporting
+
+## [PSAI](https://www.powershellgallery.com/Packages/PSAI/0.2.6) | 0.2.6
+
+### Published: 08/03/2024 12:12:09 by Douglas Finke
+
+PSAI brings OpenAI ChatGPT to PowerShell, leveraging advanced AI capabilities in your PowerShell scripts for dynamic, intelligent automation and data processing
+
+__Downloads__: 2,108 | __Repository__: https://github.com/dfinke/PSAI
+
+## [MSCatalogLTS](https://www.powershellgallery.com/Packages/MSCatalogLTS/1.0.2) | 1.0.2
+
+### Published: 08/03/2024 10:36:08 by Marco-online
+
+MSCatalogLTS is a Long-term support module for searching and downloading Windows updates
+
+__Downloads__: 0 | __Repository__: https://github.com/Marco-online/MSCatalogLTS
+
 ## [PsKrane](https://www.powershellgallery.com/Packages/PsKrane/0.6.0) | 0.6.0
 
 ### Published: 08/03/2024 04:56:34 by Stephane van Gulick
@@ -2018,14 +2074,6 @@ A PowerShell module to generate an as built report on the configuration of Veeam
 
 __Downloads__: 16,903 | __Repository__: https://github.com/AsBuiltReport/AsBuiltReport.Veeam.VBR
 
-## [PSTcpIp](https://www.powershellgallery.com/Packages/PSTcpIp/5.13.1) | 5.13.1
-
-### Published: 07/26/2024 14:13:52 by Anthony Guimelli
-
-Provides cmdlets to perform various TCPIP and TLS/SSL related tasks.
-
-__Downloads__: 5,999 | __Repository__: https://github.com/anthonyg-1/PSTcpIp
-
 ## [MetaNullPortfolio](https://www.powershellgallery.com/Packages/MetaNullPortfolio/0.0.28.0) | 0.0.28.0
 
 ### Published: 07/26/2024 13:59:42 by Pascal Havelange
@@ -2042,52 +2090,4 @@ Cmdlets for Twincat ADS and device management for Powershell Core and Windows Po
 
 __Downloads__: 24,675 | __Repository__: https://infosys.beckhoff.com/content/1033/tc3_ads_ps_tcxaemgmt/3972231819.html?id=8731138690123386389
 
-## [AutomateNOW](https://www.powershellgallery.com/Packages/AutomateNOW/1.0.24) | 1.0.24
-
-### Published: 07/26/2024 04:53:16 by AutomateNOW-Fan
-
-Interact with the API of an AutomateNOW! instance
-
-__Downloads__: 171 | __Repository__: https://github.com/AutomateNOW-Fan/AutomateNOW
-
-## [pwshBedrock](https://www.powershellgallery.com/Packages/pwshBedrock/0.9.1) | 0.9.1
-
-### Published: 07/26/2024 01:46:52 by Jake Morrison
-
-pwshBedrock enables interfacing with Amazon Bedrock foundational models, supporting direct on-demand model calls via InvokeModel and the Converse API for supported models. It allows sending messages, retrieving responses, managing message context, displaying model information, and estimating token counts and costs. Use PowerShell to integrate generative AI applications with Amazon Bedrock.
-
-__Downloads__: 2 | __Repository__: https://github.com/techthoughts2/pwshBedrock
-
-## [VcRedist](https://www.powershellgallery.com/Packages/VcRedist/4.1.498) | 4.1.498
-
-### Published: 07/25/2024 23:41:44 by Aaron Parker
-
-A module for lifecycle management of the Microsoft Visual C++ Redistributables. VcRedist downloads, installs and uninstalls the supported (and unsupported) Redistributables. Use for local install, gold image creation and update, or importing as applications into the Microsoft Deployment Toolkit, Microsoft Configuration Manager or Microsoft Intune. Supports passive and silent installs, and uninstalls of the Visual C++ Redistributables.
-
-__Downloads__: 3,660,607 | __Repository__: https://vcredist.com/
-
-## [SharePointOnline.CSOM](https://www.powershellgallery.com/Packages/SharePointOnline.CSOM/1.0.10) | 1.0.10
-
-### Published: 07/25/2024 19:34:24 by S. Battenberg
-
-This module allows the usage oft the SharePoint Online Client Side Object Model (CSOM) libraries at Azure Runbooks.This module uses the libraries from the NuGet package "Microsoft.SharePointOnline.CSOM.16.1.25012.12000".
-
-__Downloads__: 26,390 | __Repository__: https://github.com/sbattenberg/SharePointOnline.CSOM
-
-## [JumpCloud.ADMU](https://www.powershellgallery.com/Packages/JumpCloud.ADMU/2.7.3) | 2.7.3
-
-### Published: 07/25/2024 17:24:39 by JumpCloud Solutions Architect Team
-
-Powershell Module to run JumpCloud Active Directory Migration Utility.
-
-__Downloads__: 14,961 | __Repository__: 
-
-## [Devolutions.PowerShell](https://www.powershellgallery.com/Packages/Devolutions.PowerShell/2024.2.3) | 2024.2.3
-
-### Published: 07/25/2024 15:16:51 by Devolutions
-
-The Devolutions.PowerShell module is a set of cmdlets that allow administrators to manage Remote Desktop Manager, Devolutions Server and Devolutions Hub Business using PowerShell. This module provides a simple and consistent interface for interacting with these products, making it easy to automate various tasks, such as creating and managing connections, sessions, and credentials, configuring security settings, and generating reports. The module can be easily integrated with other PowerShell modules, allowing administrators to automate tasks across multiple products and platforms, streamline their workflows and increase efficiency.
-
-__Downloads__: 116,597 | __Repository__: https://devolutions.net/
-
-*Updated: Saturday, 03 August 2024 09:51:55 UTC*
+*Updated: Saturday, 03 August 2024 17:51:44 UTC*
