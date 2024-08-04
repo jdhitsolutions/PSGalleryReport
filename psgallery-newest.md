@@ -3,6 +3,47 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [Get-ChildItemColor](https://www.powershellgallery.com/Packages/Get-ChildItemColor/3.5.2) | 3.5.2
+
+### Published: 08/04/2024 17:06:40 by Joon Ro
+
+Get-ChildItemColor provides colored versions of Get-ChildItem Cmdlet and Get-ChildItem | Format-Wide (ls equivalent)
+
+__Downloads__: 107,362 | __Repository__: https://github.com/joonro/Get-ChildItemColor
+
+## [SAPAzurePowerShellModules](https://www.powershellgallery.com/Packages/SAPAzurePowerShellModules/0.1.69) | 0.1.69
+
+### Published: 08/04/2024 14:29:16 by Goran Condric
+
+SAP on Azure PowerShell Modules used for automation.
+
+__Downloads__: 1,925 | __Repository__: 
+
+## [EnhancedBoilerPlateAO](https://www.powershellgallery.com/Packages/EnhancedBoilerPlateAO/0.0.1) | 0.0.1
+
+### Published: 08/04/2024 14:26:45 by Abdullah Ollivierre
+
+Enhanced Boiler Plate for PowerShell scripts.
+
+__Downloads__: 0 | __Repository__: 
+
+## [IntuneBulkMaster](https://www.powershellgallery.com/Packages/IntuneBulkMaster/24.8.4.0) | 24.8.4.0
+
+### Published: 08/04/2024 13:41:40 by Florian Salzmann | @FlorianSLZ | https://scloud.work
+
+Easier bulk Actions for Microsoft Intune. 
+The `IntuneBulkMaster` PowerShell module provides a set of functions for managing and interacting with Microsoft Intune. It is designed to perform bulk operations on Intune-managed devices, such as rebooting, collecting diagnostics, and rotating keys. This module facilitates efficient management of devices by allowing administrators to perform tasks across multiple devices or groups with ease.
+
+__Downloads__: 0 | __Repository__: https://github.com/FlorianSLZ/IntuneBulkMaster
+
+## [UiPathOrch](https://www.powershellgallery.com/Packages/UiPathOrch/0.9.5.13) | 0.9.5.13
+
+### Published: 08/04/2024 12:01:58 by Yoshifumi Tsuda
+
+A PowerShell provider for managing UiPath Orchestrator entities via cmdlets.
+
+__Downloads__: 638 | __Repository__: 
+
 ## [CAT](https://www.powershellgallery.com/Packages/CAT/1.7.0.1) | 1.7.0.1
 
 ### Published: 08/04/2024 09:06:05 by Joyful Craftsmen CAT Team
@@ -50,14 +91,6 @@ __Downloads__: 0 | __Repository__: https://github.com/shanehoey/TeamsTools/
 A collection of scripts to extend the funtionality of the Direct Routing Cmdlets
 
 __Downloads__: 0 | __Repository__: https://github.com/shanehoey/TeamsTools/
-
-## [Get-ChildItemColor](https://www.powershellgallery.com/Packages/Get-ChildItemColor/3.5.1) | 3.5.1
-
-### Published: 08/04/2024 02:24:07 by Joon Ro
-
-Get-ChildItemColor provides colored versions of Get-ChildItem Cmdlet and Get-ChildItem | Format-Wide (ls equivalent)
-
-__Downloads__: 107,362 | __Repository__: https://github.com/joonro/Get-ChildItemColor
 
 ## [EnhancedLoggingAO](https://www.powershellgallery.com/Packages/EnhancedLoggingAO/0.0.1) | 0.0.1
 
@@ -2462,44 +2495,4 @@ This version of AWS Tools for PowerShell is compatible with Windows PowerShell 5
 
 __Downloads__: 90,694 | __Repository__: https://github.com/aws/aws-tools-for-powershell
 
-## [AWS.Tools.FreeTier](https://www.powershellgallery.com/Packages/AWS.Tools.FreeTier/4.1.627) | 4.1.627
-
-### Published: 08/02/2024 22:58:38 by Amazon.com Inc
-
-The FreeTier module of AWS Tools for PowerShell lets developers and administrators manage AWS Free Tier from the PowerShell scripting environment. In order to manage each AWS service, install the corresponding module (e.g. AWS.Tools.EC2, AWS.Tools.S3...).
-The module AWS.Tools.Installer (https://www.powershellgallery.com/packages/AWS.Tools.Installer/) makes it easier to install, update and uninstall the AWS.Tools modules.
-This version of AWS Tools for PowerShell is compatible with Windows PowerShell 5.1+ and PowerShell Core 6+ on Windows, Linux and macOS. When running on Windows PowerShell, .NET Framework 4.7.2 or newer is required. Alternative modules AWSPowerShell.NetCore and AWSPowerShell, provide support for all AWS services from a single module and also support older versions of Windows PowerShell and .NET Framework.
-
-__Downloads__: 1,904 | __Repository__: https://github.com/aws/aws-tools-for-powershell
-
-## [AWS.Tools.FraudDetector](https://www.powershellgallery.com/Packages/AWS.Tools.FraudDetector/4.1.627) | 4.1.627
-
-### Published: 08/02/2024 22:58:32 by Amazon.com Inc
-
-The FraudDetector module of AWS Tools for PowerShell lets developers and administrators manage Amazon Fraud Detector from the PowerShell scripting environment. In order to manage each AWS service, install the corresponding module (e.g. AWS.Tools.EC2, AWS.Tools.S3...).
-The module AWS.Tools.Installer (https://www.powershellgallery.com/packages/AWS.Tools.Installer/) makes it easier to install, update and uninstall the AWS.Tools modules.
-This version of AWS Tools for PowerShell is compatible with Windows PowerShell 5.1+ and PowerShell Core 6+ on Windows, Linux and macOS. When running on Windows PowerShell, .NET Framework 4.7.2 or newer is required. Alternative modules AWSPowerShell.NetCore and AWSPowerShell, provide support for all AWS services from a single module and also support older versions of Windows PowerShell and .NET Framework.
-
-__Downloads__: 12,177 | __Repository__: https://github.com/aws/aws-tools-for-powershell
-
-## [AWS.Tools.ForecastService](https://www.powershellgallery.com/Packages/AWS.Tools.ForecastService/4.1.627) | 4.1.627
-
-### Published: 08/02/2024 22:58:23 by Amazon.com Inc
-
-The ForecastService module of AWS Tools for PowerShell lets developers and administrators manage Amazon Forecast Service from the PowerShell scripting environment. In order to manage each AWS service, install the corresponding module (e.g. AWS.Tools.EC2, AWS.Tools.S3...).
-The module AWS.Tools.Installer (https://www.powershellgallery.com/packages/AWS.Tools.Installer/) makes it easier to install, update and uninstall the AWS.Tools modules.
-This version of AWS Tools for PowerShell is compatible with Windows PowerShell 5.1+ and PowerShell Core 6+ on Windows, Linux and macOS. When running on Windows PowerShell, .NET Framework 4.7.2 or newer is required. Alternative modules AWSPowerShell.NetCore and AWSPowerShell, provide support for all AWS services from a single module and also support older versions of Windows PowerShell and .NET Framework.
-
-__Downloads__: 13,360 | __Repository__: https://github.com/aws/aws-tools-for-powershell
-
-## [AWS.Tools.ForecastQueryService](https://www.powershellgallery.com/Packages/AWS.Tools.ForecastQueryService/4.1.627) | 4.1.627
-
-### Published: 08/02/2024 22:58:17 by Amazon.com Inc
-
-The ForecastQueryService module of AWS Tools for PowerShell lets developers and administrators manage Amazon Forecast Query Service from the PowerShell scripting environment. In order to manage each AWS service, install the corresponding module (e.g. AWS.Tools.EC2, AWS.Tools.S3...).
-The module AWS.Tools.Installer (https://www.powershellgallery.com/packages/AWS.Tools.Installer/) makes it easier to install, update and uninstall the AWS.Tools modules.
-This version of AWS Tools for PowerShell is compatible with Windows PowerShell 5.1+ and PowerShell Core 6+ on Windows, Linux and macOS. When running on Windows PowerShell, .NET Framework 4.7.2 or newer is required. Alternative modules AWSPowerShell.NetCore and AWSPowerShell, provide support for all AWS services from a single module and also support older versions of Windows PowerShell and .NET Framework.
-
-__Downloads__: 19,719 | __Repository__: https://github.com/aws/aws-tools-for-powershell
-
-*Updated: Sunday, 04 August 2024 09:51:46 UTC*
+*Updated: Sunday, 04 August 2024 17:51:40 UTC*

@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Sunday, 04 August 2024 09:51:56 UTC
+Updated: Sunday, 04 August 2024 17:51:50 UTC
 
 .bat
 .env
@@ -270,6 +270,7 @@ aimodels
 aip
 aiprompting
 aipscanner
+aircall
 airpower
 airpwr
 airtable
@@ -365,6 +366,8 @@ anova
 ansi
 ansible
 ansible-control-node
+ansible-playbook
+ansible-vault
 ansiblecontrolnode
 anthropic
 anti-malware
@@ -448,6 +451,7 @@ aprs
 aprs-is
 aprsis
 aprsthursday
+aps
 apt
 apt-get
 apt-get-update
@@ -618,7 +622,6 @@ autoupdate
 autoupdate-script
 autowrapper
 autoyast
-auvik
 availability
 availabilityset
 avalara
@@ -642,6 +645,7 @@ aws_profile
 aws-codebuild
 aws-lambda
 aws-vault
+aws.tools.powershell
 awsbedrock
 awscli
 awspricelist
@@ -661,6 +665,7 @@ azcompute
 azd
 azdisk
 azdo
+azereo
 azforensics
 azkeyvault
 aznetworking
@@ -836,6 +841,7 @@ ber
 bestpractice
 bestpractices
 bginfo
+bgp
 bi
 bibliography
 bibtex
@@ -937,6 +943,7 @@ boundarygroups
 bounty
 box
 bpmn
+brainy
 branch
 branch-rename
 brave
@@ -1065,6 +1072,7 @@ catapult
 catesta
 catimage
 cats
+catty
 cavium
 cb
 cblueshell
@@ -1117,6 +1125,7 @@ certificatepolicy
 certificates
 certificateservices
 certificatesmanagement
+certinia
 certutil
 cf
 cfn
@@ -1369,6 +1378,7 @@ combinations
 combine
 comdata
 comic
+comical
 comics
 command
 command_line
@@ -1516,6 +1526,7 @@ conventional
 conventional-commits
 convereter
 converged_data_management
+conversational
 converse
 converseapi
 conversion
@@ -1825,7 +1836,6 @@ dbase
 dbassistant
 dbatools
 dbcommand
-dbeaver
 dbfs
 dbnull
 dbops
@@ -2135,7 +2145,6 @@ downloadoffice
 downloadofficertool
 downloads
 downloadyoutubevideo
-dozent
 dpa
 dpapi
 dpi
@@ -2343,6 +2352,7 @@ energy
 engagement
 engine
 engineevent
+english
 enhancement
 enrichers
 enrichment
@@ -2357,7 +2367,6 @@ entity
 entityframework
 entra
 entraid
-entraidgovernance
 entropy
 enum
 enumerable
@@ -2714,6 +2723,7 @@ flex-query
 flexdesk
 flickr
 flowchart
+flowy
 fluidrelay
 flyway
 fmg
@@ -2904,7 +2914,6 @@ get-dtscriptnewcmtasksequencefromdriverpackpackagedefinitionsms
 get-emptyadgroups
 get-externalip
 get-firmwaretype
-get-hardensysvol
 get-help
 get-history
 get-iislog
@@ -3105,7 +3114,6 @@ hardblock
 harden
 harden-windows-security
 hardening
-hardensysvol
 hardlink
 hardmatch
 hardware
@@ -3164,7 +3172,6 @@ helper-functions
 helperfunctions
 helpers
 helpfile
-helpful
 heml
 here
 hewlett
@@ -3217,6 +3224,7 @@ home_automation
 homebrew
 homelandsecurity
 homeschooling
+hon
 hooking
 horizon
 horizontal
@@ -3254,7 +3262,6 @@ hpesynergy
 hponeview
 hpwritemanager
 hris
-hrprovisioning
 hsdp
 hsl
 html
@@ -3277,7 +3284,9 @@ hubspotps
 hudson
 hue
 humanizer
+humanly
 humor
+humorous
 hunter
 hwid
 hybrid
@@ -3497,6 +3506,7 @@ interval-timer
 intigua
 intranet
 intrusion
+intuitive
 intune
 intuneappwinutil
 intunestuff
@@ -3723,6 +3733,7 @@ kidrsa
 kill
 kindle
 kinetic
+kinopoisk
 kintone
 klantcontroles
 kms
@@ -3733,6 +3744,7 @@ knowbe4
 knowledge
 knowledgebase
 koans
+kodi
 korn
 kotlin
 kql
@@ -3799,6 +3811,7 @@ latin
 latitude
 launcher
 layer
+layman
 layout
 lazywinadmin
 lbi
@@ -3912,6 +3925,7 @@ localconfigurationmanager
 localdb
 locale
 localgroup
+localgroupmember
 localization
 localpolicy
 location
@@ -3942,6 +3956,8 @@ logbook
 logcat
 logentry
 logfile
+logfilearchivearchive
+logfilemanagement psmodule
 logfiles
 logger
 logging
@@ -4505,6 +4521,8 @@ neo4j
 neovim
 neptune
 nerdfonts
+nerdio
+nerdioapi
 nerdymishka
 nessus
 nested
@@ -4530,6 +4548,7 @@ netscaler
 netscape
 netsec
 netsh
+netspell
 netstat
 netsuite
 network
@@ -4605,6 +4624,7 @@ nlm
 nlog
 nmap
 nmbell
+nmm
 nntp
 node
 nodejs
@@ -5056,6 +5076,7 @@ personal
 personalisation
 personalization
 personalvault
+personio
 pester
 pf
 pfe
@@ -5065,6 +5086,7 @@ pfy
 pgp
 phabricator
 philips
+philosophical
 philpritchett
 phishing
 phoenix
@@ -5214,6 +5236,7 @@ poshy-lucidity
 poshy-multimedia
 poshy-net
 poshy-notify-send
+poshy-sh-isms
 poshy-sshconfig
 poshy-viewer-finder
 poshy-wrap
@@ -5245,7 +5268,6 @@ poshy-wrap-pylint
 poshy-wrap-python
 poshy-wrap-ruby
 poshy-wrap-systemctl
-poshy-wrap-terraform
 poshy-wrap-terragrunt
 poshy-wrap-tmux
 poshy-wrap-vagrant
@@ -6632,15 +6654,6 @@ pscommand_invoke-systemctluser-try-reload-or-restart
 pscommand_invoke-systemctluser-try-restart
 pscommand_invoke-systemctluser-unmask
 pscommand_invoke-systemctluser-unset-environment
-pscommand_invoke-terraform
-pscommand_invoke-terraformapply
-pscommand_invoke-terraformconsole
-pscommand_invoke-terraformdestroy
-pscommand_invoke-terraformformat
-pscommand_invoke-terraforminit
-pscommand_invoke-terraformoutput
-pscommand_invoke-terraformplan
-pscommand_invoke-terraformvalidate
 pscommand_invoke-terragrunt
 pscommand_invoke-terragruntapply
 pscommand_invoke-terragruntapplyall
@@ -7101,19 +7114,14 @@ pscommand_syspip3_package_location
 pscommand_ta
 pscommand_tad
 pscommand_test-command
+pscommand_test-d
 pscommand_test-elevation
+pscommand_test-f
 pscommand_test-linkcapability
+pscommand_test-o
 pscommand_test-reparsepoint
 pscommand_test-sessioninteractivity
-pscommand_tf
-pscommand_tfa
-pscommand_tfc
-pscommand_tfd
-pscommand_tff
-pscommand_tfi
-pscommand_tfo
-pscommand_tfp
-pscommand_tfv
+pscommand_test-x
 pscommand_tg
 pscommand_tga
 pscommand_tgaa
@@ -8040,15 +8048,6 @@ psfunction_invoke-systemctluser-try-reload-or-restart
 psfunction_invoke-systemctluser-try-restart
 psfunction_invoke-systemctluser-unmask
 psfunction_invoke-systemctluser-unset-environment
-psfunction_invoke-terraform
-psfunction_invoke-terraformapply
-psfunction_invoke-terraformconsole
-psfunction_invoke-terraformdestroy
-psfunction_invoke-terraformformat
-psfunction_invoke-terraforminit
-psfunction_invoke-terraformoutput
-psfunction_invoke-terraformplan
-psfunction_invoke-terraformvalidate
 psfunction_invoke-terragrunt
 psfunction_invoke-terragruntapply
 psfunction_invoke-terragruntapplyall
@@ -8303,10 +8302,14 @@ psfunction_switch-gitbranchandtrack
 psfunction_switch-gitbranchmain
 psfunction_switch-gitbranchnew
 psfunction_test-command
+psfunction_test-d
 psfunction_test-elevation
+psfunction_test-f
 psfunction_test-linkcapability
+psfunction_test-o
 psfunction_test-reparsepoint
 psfunction_test-sessioninteractivity
+psfunction_test-x
 psfunction_universalarchive
 psfunction_update-gitbranchbasefrombranchmain
 psfunction_update-gitbranchbasefrommain
@@ -8399,6 +8402,7 @@ psngenposh
 psobject
 psoutlog
 pspath
+pspersonio
 pspowerhour
 psprofiler
 psproject
@@ -8718,6 +8722,7 @@ remote
 remote-browser
 remote-desktop
 remote'
+remoteadmin
 remotecert
 remoteconnection
 remoteconnectionsmanager
@@ -8730,6 +8735,7 @@ remotedesktopservices
 remotefiles
 remoteforensics
 remotehost
+remotelocalgroup
 remotelogoff
 remotemanagement
 remotesession
@@ -8868,6 +8874,7 @@ robot
 roca
 rock
 rocket
+rocketcyber
 roco
 rocolatey
 role
@@ -8980,6 +8987,7 @@ sarcasm
 sarif
 sas
 sat
+satirical
 save
 savedcreds
 savefile
@@ -9025,7 +9033,6 @@ schemaextensions
 scheme
 school-information-system
 schoolholidays
-schulung
 schulverwaltung
 science
 scissors
@@ -9511,6 +9518,7 @@ speedometer
 speedtest
 speedtester
 spejder
+spellcheck
 spelling
 spf
 spfx
@@ -9766,6 +9774,7 @@ survey
 surveymonkey
 sus
 sushi
+suspensive
 svesavov
 svetoslav
 svg
@@ -10103,7 +10112,6 @@ trafficfiltering
 trafficmanager
 trafficmarking
 train
-trainer
 training
 training-course
 tram
@@ -10642,6 +10650,7 @@ watch
 watchdog
 watchguard
 watchmen
+watery
 wave
 wbem
 wcf
@@ -10765,6 +10774,7 @@ win32_operatingsystem
 win32-api
 win32appmigrationtool
 win32shutdown
+winbgp
 windchillrv&s
 window
 windows
@@ -10898,7 +10908,6 @@ workloads
 workpoint
 workrequests
 worksheet
-workshop
 workspace
 workspacemanager
 workspaceone

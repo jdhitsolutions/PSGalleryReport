@@ -3,6 +3,47 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [Get-ChildItemColor](https://www.powershellgallery.com/Packages/Get-ChildItemColor/3.5.2) | 3.5.2
+
+### Published: 08/04/2024 17:06:40 by Joon Ro
+
+Get-ChildItemColor provides colored versions of Get-ChildItem Cmdlet and Get-ChildItem | Format-Wide (ls equivalent)
+
+__Downloads__: 107,362 | __Repository__: https://github.com/joonro/Get-ChildItemColor
+
+## [SAPAzurePowerShellModules](https://www.powershellgallery.com/Packages/SAPAzurePowerShellModules/0.1.69) | 0.1.69
+
+### Published: 08/04/2024 14:29:16 by Goran Condric
+
+SAP on Azure PowerShell Modules used for automation.
+
+__Downloads__: 1,925 | __Repository__: 
+
+## [EnhancedBoilerPlateAO](https://www.powershellgallery.com/Packages/EnhancedBoilerPlateAO/0.0.1) | 0.0.1
+
+### Published: 08/04/2024 14:26:45 by Abdullah Ollivierre
+
+Enhanced Boiler Plate for PowerShell scripts.
+
+__Downloads__: 0 | __Repository__: 
+
+## [IntuneBulkMaster](https://www.powershellgallery.com/Packages/IntuneBulkMaster/24.8.4.0) | 24.8.4.0
+
+### Published: 08/04/2024 13:41:40 by Florian Salzmann | @FlorianSLZ | https://scloud.work
+
+Easier bulk Actions for Microsoft Intune. 
+The `IntuneBulkMaster` PowerShell module provides a set of functions for managing and interacting with Microsoft Intune. It is designed to perform bulk operations on Intune-managed devices, such as rebooting, collecting diagnostics, and rotating keys. This module facilitates efficient management of devices by allowing administrators to perform tasks across multiple devices or groups with ease.
+
+__Downloads__: 0 | __Repository__: https://github.com/FlorianSLZ/IntuneBulkMaster
+
+## [UiPathOrch](https://www.powershellgallery.com/Packages/UiPathOrch/0.9.5.13) | 0.9.5.13
+
+### Published: 08/04/2024 12:01:58 by Yoshifumi Tsuda
+
+A PowerShell provider for managing UiPath Orchestrator entities via cmdlets.
+
+__Downloads__: 638 | __Repository__: 
+
 ## [CAT](https://www.powershellgallery.com/Packages/CAT/1.7.0.1) | 1.7.0.1
 
 ### Published: 08/04/2024 09:06:05 by Joyful Craftsmen CAT Team
@@ -50,14 +91,6 @@ __Downloads__: 0 | __Repository__: https://github.com/shanehoey/TeamsTools/
 A collection of scripts to extend the funtionality of the Direct Routing Cmdlets
 
 __Downloads__: 0 | __Repository__: https://github.com/shanehoey/TeamsTools/
-
-## [Get-ChildItemColor](https://www.powershellgallery.com/Packages/Get-ChildItemColor/3.5.1) | 3.5.1
-
-### Published: 08/04/2024 02:24:07 by Joon Ro
-
-Get-ChildItemColor provides colored versions of Get-ChildItem Cmdlet and Get-ChildItem | Format-Wide (ls equivalent)
-
-__Downloads__: 107,362 | __Repository__: https://github.com/joonro/Get-ChildItemColor
 
 ## [EnhancedLoggingAO](https://www.powershellgallery.com/Packages/EnhancedLoggingAO/0.0.1) | 0.0.1
 
@@ -345,15 +378,6 @@ Provides cmdlets for starting migration of applications to supported clouds usin
 
 __Downloads__: 970 | __Repository__: https://migrate.rivermeadow.com/
 
-## [IntuneBulkMaster](https://www.powershellgallery.com/Packages/IntuneBulkMaster/24.8.1.0) | 24.8.1.0
-
-### Published: 08/02/2024 06:54:51 by Florian Salzmann | @FlorianSLZ
-
-Easier bulk Actions for Microsoft Intune. 
-The `IntuneBulkMaster` PowerShell module provides a set of functions for managing and interacting with Microsoft Intune. It is designed to perform bulk operations on Intune-managed devices, such as rebooting, collecting diagnostics, and rotating keys. This module facilitates efficient management of devices by allowing administrators to perform tasks across multiple devices or groups with ease.
-
-__Downloads__: 0 | __Repository__: https://github.com/FlorianSLZ/IntuneBulkMaster
-
 ## [powershai](https://www.powershellgallery.com/Packages/powershai/1.4.1) | 1.4.1
 
 ### Published: 08/02/2024 05:01:33 by Rodrigo Ribeiro Gomes
@@ -406,14 +430,6 @@ __Downloads__: 1,601 | __Repository__: https://github.com/steve02081504/ps12exe
 Use Active Directory Service Interfaces to query LDAP and WinNT directories
 
 __Downloads__: 2,097 | __Repository__: 
-
-## [UiPathOrch](https://www.powershellgallery.com/Packages/UiPathOrch/0.9.5.12) | 0.9.5.12
-
-### Published: 08/01/2024 15:38:38 by Yoshifumi Tsuda
-
-A PowerShell provider for managing UiPath Orchestrator entities via cmdlets.
-
-__Downloads__: 638 | __Repository__: 
 
 ## [0install](https://www.powershellgallery.com/Packages/0install/2.25.11) | 2.25.11
 
@@ -2042,14 +2058,6 @@ Module for PowerShell Universal.
 
 __Downloads__: 104,764 | __Repository__: https://ironmansoftware.com/powershell-universal
 
-## [SAPAzurePowerShellModules](https://www.powershellgallery.com/Packages/SAPAzurePowerShellModules/0.1.68) | 0.1.68
-
-### Published: 07/29/2024 11:48:53 by Goran Condric
-
-SAP on Azure PowerShell Modules used for automation.
-
-__Downloads__: 1,925 | __Repository__: 
-
 ## [365AutomatedCheck](https://www.powershellgallery.com/Packages/365AutomatedCheck/0.0.11) | 0.0.11
 
 ### Published: 07/29/2024 11:17:56 by Clayton Tyger
@@ -2082,12 +2090,4 @@ dbatools.ai is a copilot for SQL Server databases
 
 __Downloads__: 34 | __Repository__: https://github.com/potatoqualitee/dbatools.ai
 
-## [AppManiProgramManager](https://www.powershellgallery.com/Packages/AppManiProgramManager/1.55.1) | 1.55.1
-
-### Published: 07/28/2024 20:29:08 by AppMani
-
-Module for installing basic programs: This module provides functions for downloading installers from specified links, installing the programs, verifying the installed programs/services, and cleaning up the installer files.
-
-__Downloads__: 124,255 | __Repository__: 
-
-*Updated: Sunday, 04 August 2024 09:51:48 UTC*
+*Updated: Sunday, 04 August 2024 17:51:42 UTC*
