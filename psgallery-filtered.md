@@ -3,6 +3,54 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [EnhancedLoggingAO](https://www.powershellgallery.com/Packages/EnhancedLoggingAO/0.0.1) | 0.0.1
+
+### Published: 08/04/2024 01:25:58 by Abdullah Ollivierre
+
+Enhanced logging module for PowerShell scripts.
+
+__Downloads__: 0 | __Repository__: 
+
+## [PokeAPI](https://www.powershellgallery.com/Packages/PokeAPI/1.1.0) | 1.1.0
+
+### Published: 08/04/2024 00:36:14 by David Schulte
+
+This module provides a PowerShell wrapper for PokeAPI
+
+__Downloads__: 22 | __Repository__: https://github.com/Celerium/PokeAPI-PowerShellWrapper
+
+## [Utilities](https://www.powershellgallery.com/Packages/Utilities/0.1.23) | 0.1.23
+
+### Published: 08/03/2024 22:08:33 by PSModule
+
+A PowerShell module with a collection of functions that should have been in PowerShell to start with.
+
+__Downloads__: 23,273 | __Repository__: https://github.com/PSModule/Utilities
+
+## [PATH](https://www.powershellgallery.com/Packages/PATH/1.0.9) | 1.0.9
+
+### Published: 08/03/2024 21:10:32 by PSModule
+
+A PowerShell module to manage the PATH environment variable on Windows.
+
+__Downloads__: 512 | __Repository__: https://github.com/PSModule/PATH
+
+## [Get-ChildItemColor](https://www.powershellgallery.com/Packages/Get-ChildItemColor/3.5.0) | 3.5.0
+
+### Published: 08/03/2024 20:33:13 by Joon Ro
+
+Get-ChildItemColor provides colored versions of Get-ChildItem Cmdlet and Get-ChildItem | Format-Wide (ls equivalent)
+
+__Downloads__: 107,362 | __Repository__: https://github.com/joonro/Get-ChildItemColor
+
+## [PS.Reporting](https://www.powershellgallery.com/Packages/PS.Reporting/1.0) | 1.0
+
+### Published: 08/03/2024 19:31:39 by Nutstone
+
+Reporting Using HTM/CSV/EXCEL
+
+__Downloads__: 0 | __Repository__: 
+
 ## [PSTcpIp](https://www.powershellgallery.com/Packages/PSTcpIp/5.13.3) | 5.13.3
 
 ### Published: 08/03/2024 15:34:49 by Anthony Guimelli
@@ -2042,52 +2090,4 @@ Führt einen Skriptblock mit Adminrechten im Usercontext aus.
 
 __Downloads__: 0 | __Repository__: 
 
-## [UncommonSense.Rdlc.Utils](https://www.powershellgallery.com/Packages/UncommonSense.Rdlc.Utils/0.0.2) | 0.0.2
-
-### Published: 07/27/2024 09:02:14 by Jan Hoek
-
-PowerShell utility cmdlets for working with SQL Server Report Definition Language files
-
-__Downloads__: 0 | __Repository__: https://github.com/jhoek/UncommonSense.Rdlc.Utils
-
-## [Analyth.PowerShell](https://www.powershellgallery.com/Packages/Analyth.PowerShell/0.0.34) | 0.0.34
-
-### Published: 07/27/2024 08:15:28 by Analyth
-
-This module contains functions to manage Windows Servers and Windows Clients.
-
-__Downloads__: 1,068 | __Repository__: https://dev.azure.com/analyth/Analyth.PowerShell/_git/Analyth.PowerShell
-
-## [OGraph](https://www.powershellgallery.com/Packages/OGraph/0.0.1.14) | 0.0.1.14
-
-### Published: 07/27/2024 03:00:09 by Ben Pulido Mike Campbell
-
-PowerShell functions for administration of Microsoft 365 services using Graph endpoints
-
-__Downloads__: 129 | __Repository__: https://github.com/themodulecollective/OGraph
-
-## [AsBuiltReport.Veeam.VBR](https://www.powershellgallery.com/Packages/AsBuiltReport.Veeam.VBR/0.8.8) | 0.8.8
-
-### Published: 07/26/2024 21:02:02 by Jonathan Colon
-
-A PowerShell module to generate an as built report on the configuration of Veeam VBR.
-
-__Downloads__: 16,903 | __Repository__: https://github.com/AsBuiltReport/AsBuiltReport.Veeam.VBR
-
-## [MetaNullPortfolio](https://www.powershellgallery.com/Packages/MetaNullPortfolio/0.0.28.0) | 0.0.28.0
-
-### Published: 07/26/2024 13:59:42 by Pascal Havelange
-
-MetaNull's Confluence's portfolio and C4 model
-
-__Downloads__: 8 | __Repository__: https://bitbucket.org/metanull/metanullps/src/develop/MetaNullPortfolio/source/
-
-## [TcXaeMgmt](https://www.powershellgallery.com/Packages/TcXaeMgmt/6.0.166) | 6.0.166
-
-### Published: 07/26/2024 11:23:26 by Beckhoff
-
-Cmdlets for Twincat ADS and device management for Powershell Core and Windows Powershell
-
-__Downloads__: 24,675 | __Repository__: https://infosys.beckhoff.com/content/1033/tc3_ads_ps_tcxaemgmt/3972231819.html?id=8731138690123386389
-
-*Updated: Saturday, 03 August 2024 17:51:44 UTC*
+*Updated: Sunday, 04 August 2024 02:12:11 UTC*

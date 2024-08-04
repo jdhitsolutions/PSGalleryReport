@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Saturday, 03 August 2024 17:51:52 UTC
+Updated: Sunday, 04 August 2024 02:12:19 UTC
 
 .bat
 .env
@@ -16,6 +16,7 @@ Updated: Saturday, 03 August 2024 17:51:52 UTC
 {modulenameplaceholder}
 **psedition_desktop**
 **windows**
+🍄
 🍣
 💩
 🙇
@@ -278,7 +279,6 @@ aispeech
 aiutilities
 aivision
 ajustee
-aka.ms
 aks
 aks-hci
 akscluster
@@ -365,6 +365,8 @@ anova
 ansi
 ansible
 ansible-control-node
+ansible-playbook
+ansible-vault
 ansiblecontrolnode
 anthropic
 anti-malware
@@ -606,6 +608,7 @@ automation
 automation psmodule
 automationanywhere
 automationutils
+autopatching
 autopilot
 autoscaling
 autostart
@@ -618,6 +621,7 @@ autoupdate
 autoupdate-script
 autowrapper
 autoyast
+auvik
 availability
 availabilityset
 avalara
@@ -661,7 +665,6 @@ azcompute
 azd
 azdisk
 azdo
-azereo
 azforensics
 azkeyvault
 aznetworking
@@ -939,6 +942,7 @@ boundarygroups
 bounty
 box
 bpmn
+brainy
 branch
 branch-rename
 brave
@@ -1067,6 +1071,7 @@ catapult
 catesta
 catimage
 cats
+catty
 cavium
 cb
 cblueshell
@@ -1372,6 +1377,7 @@ combinations
 combine
 comdata
 comic
+comical
 comics
 command
 command_line
@@ -1519,6 +1525,7 @@ conventional
 conventional-commits
 convereter
 converged_data_management
+conversational
 converse
 converseapi
 conversion
@@ -1828,7 +1835,6 @@ dbase
 dbassistant
 dbatools
 dbcommand
-dbeaver
 dbfs
 dbnull
 dbops
@@ -1931,6 +1937,7 @@ devcenter
 devdeer
 devdrive
 developer
+developer_command_prompt
 developercommandprompt
 developermode
 development
@@ -2089,7 +2096,6 @@ dockerize
 dockerswarm
 docking
 docs
-docset
 document
 documentation
 documentdb
@@ -2128,7 +2134,6 @@ dots
 dotteddecimalip
 doubleclick
 download
-downloader
 downloadfacebookvideo
 downloadfilefromsite
 downloadinfo
@@ -2345,6 +2350,7 @@ energy
 engagement
 engine
 engineevent
+english
 enhancement
 enrichers
 enrichment
@@ -2505,6 +2511,7 @@ expand
 expand-string
 expand-tab
 expandframework
+expect
 experience
 experiments
 expiration
@@ -2542,7 +2549,6 @@ external
 externalip
 extract
 extraction
-extractor
 extreme-networks
 eye-candy
 eztheme
@@ -2714,6 +2720,7 @@ flex-query
 flexdesk
 flickr
 flowchart
+flowy
 fluidrelay
 flyway
 fmg
@@ -2929,6 +2936,7 @@ gh
 gh-actions
 ghactions
 ghc
+ghibli
 ghost
 gif
 gifs
@@ -3146,6 +3154,7 @@ healthz
 heartbeatdiscovery
 heat
 heating
+heavenbay
 helium
 helix
 hello
@@ -3275,7 +3284,9 @@ hubspotps
 hudson
 hue
 humanizer
+humanly
 humor
+humorous
 hunter
 hwid
 hybrid
@@ -3381,6 +3392,7 @@ imagga
 imagination
 imaging
 imap
+imb
 imei
 imi
 impala
@@ -3494,6 +3506,7 @@ interval-timer
 intigua
 intranet
 intrusion
+intuitive
 intune
 intuneappwinutil
 intunestuff
@@ -3515,6 +3528,8 @@ invoke-dtdownloaddriverupdates
 invoke-dtdrivertool
 invoke-msbuild
 invoke-msbuildpreprocess
+invoke-vsbuild
+invoke-vsdevcommand
 invoke-webrequest
 invokebuild
 invokemethod
@@ -3593,6 +3608,8 @@ itop
 itsm
 itstore
 ivanti
+ivb
+ivdc
 iwi
 j
 j81-blog
@@ -3795,6 +3812,7 @@ latin
 latitude
 launcher
 layer
+layman
 layout
 lazywinadmin
 lbi
@@ -3864,7 +3882,6 @@ link-preview
 linkedin
 linkedservice
 linkedservicedependency
-linkid
 links
 linq
 linqpad
@@ -3937,7 +3954,6 @@ log4net
 loganalytics
 logbook
 logcat
-logentry
 logfile
 logfilearchivearchive
 logfilemanagement psmodule
@@ -3991,6 +4007,7 @@ loopback
 loremipsum
 love
 lovequotes
+lpsiamol
 ls
 lsa
 lsasecrets
@@ -3998,6 +4015,7 @@ lsd
 ltm
 lucd
 lucene
+lunches
 lwa
 lxca
 lxcapstool
@@ -4529,6 +4547,7 @@ netscaler
 netscape
 netsec
 netsh
+netspell
 netstat
 netsuite
 network
@@ -4907,7 +4926,6 @@ outsystems
 overbite
 ovf
 ovgd
-ovh
 owasp
 owls
 owner
@@ -5066,6 +5084,7 @@ pfy
 pgp
 phabricator
 philips
+philosophical
 philpritchett
 phishing
 phoenix
@@ -5135,7 +5154,6 @@ plugin
 plugins
 pluralsight
 ply
-pmp
 pncit
 pnp
 pnp.powershell
@@ -5424,7 +5442,6 @@ product
 productid
 productivity
 productmedia
-products
 productstate
 profile
 profiler
@@ -8994,6 +9011,7 @@ sarcasm
 sarif
 sas
 sat
+satirical
 save
 savedcreds
 savefile
@@ -9351,6 +9369,8 @@ single
 singlestore
 singleton
 sinks
+sintez
+sintez.module.rds
 sit
 site
 site_navigation
@@ -9500,6 +9520,7 @@ spanner
 spark
 sparkline
 sparklines
+spawn
 spdockit
 spdx
 spdx-license-identifier:ms-pl
@@ -9521,6 +9542,7 @@ speedometer
 speedtest
 speedtester
 spejder
+spellcheck
 spelling
 spf
 spfx
@@ -9588,6 +9610,7 @@ sqlserverbynarypsmodule
 sqlserverclient
 sqlservermodule
 sqlvirtualmachine
+sqlvm
 sqr
 sqrt
 square
@@ -9652,6 +9675,7 @@ starwars
 stash
 stat
 state
+stateless
 static
 staticanalysis
 statichtmlsites
@@ -9774,6 +9798,7 @@ survey
 surveymonkey
 sus
 sushi
+suspensive
 svesavov
 svetoslav
 svg
@@ -9978,6 +10003,7 @@ tests
 testsuite
 testtag1
 testtag2
+testtool
 testusers
 text
 text-emoji
@@ -10240,7 +10266,6 @@ ud-field
 ud-flexytable
 ud-funnel
 ud-hero
-ud-illustration
 ud-input
 ud-licensed
 ud-loadingoverlay
@@ -10648,6 +10673,7 @@ watch
 watchdog
 watchguard
 watchmen
+watery
 wave
 wbem
 wcf
@@ -11034,6 +11060,7 @@ youtube
 youtube-dl
 youtubeextractor
 yq
+yubaba
 yubikey
 yum
 z
@@ -11061,6 +11088,7 @@ zorus
 zorusapi
 zoxide
 zsh
+zuora
 zvm
 zvml
 zvmlinux
@@ -11071,3 +11099,4 @@ zypper
 全角半角変換
 寿司
 日本語
+湯婆婆
