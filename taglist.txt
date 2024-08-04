@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Sunday, 04 August 2024 02:12:19 UTC
+Updated: Sunday, 04 August 2024 09:51:56 UTC
 
 .bat
 .env
@@ -270,7 +270,6 @@ aimodels
 aip
 aiprompting
 aipscanner
-aircall
 airpower
 airpwr
 airtable
@@ -279,6 +278,7 @@ aispeech
 aiutilities
 aivision
 ajustee
+aka.ms
 aks
 aks-hci
 akscluster
@@ -365,8 +365,6 @@ anova
 ansi
 ansible
 ansible-control-node
-ansible-playbook
-ansible-vault
 ansiblecontrolnode
 anthropic
 anti-malware
@@ -450,7 +448,6 @@ aprs
 aprs-is
 aprsis
 aprsthursday
-aps
 apt
 apt-get
 apt-get-update
@@ -645,7 +642,6 @@ aws_profile
 aws-codebuild
 aws-lambda
 aws-vault
-aws.tools.powershell
 awsbedrock
 awscli
 awspricelist
@@ -840,7 +836,6 @@ ber
 bestpractice
 bestpractices
 bginfo
-bgp
 bi
 bibliography
 bibtex
@@ -942,7 +937,6 @@ boundarygroups
 bounty
 box
 bpmn
-brainy
 branch
 branch-rename
 brave
@@ -1071,7 +1065,6 @@ catapult
 catesta
 catimage
 cats
-catty
 cavium
 cb
 cblueshell
@@ -1124,7 +1117,6 @@ certificatepolicy
 certificates
 certificateservices
 certificatesmanagement
-certinia
 certutil
 cf
 cfn
@@ -1377,7 +1369,6 @@ combinations
 combine
 comdata
 comic
-comical
 comics
 command
 command_line
@@ -1525,7 +1516,6 @@ conventional
 conventional-commits
 convereter
 converged_data_management
-conversational
 converse
 converseapi
 conversion
@@ -1835,6 +1825,7 @@ dbase
 dbassistant
 dbatools
 dbcommand
+dbeaver
 dbfs
 dbnull
 dbops
@@ -2096,6 +2087,7 @@ dockerize
 dockerswarm
 docking
 docs
+docset
 document
 documentation
 documentdb
@@ -2134,6 +2126,7 @@ dots
 dotteddecimalip
 doubleclick
 download
+downloader
 downloadfacebookvideo
 downloadfilefromsite
 downloadinfo
@@ -2350,7 +2343,6 @@ energy
 engagement
 engine
 engineevent
-english
 enhancement
 enrichers
 enrichment
@@ -2365,6 +2357,7 @@ entity
 entityframework
 entra
 entraid
+entraidgovernance
 entropy
 enum
 enumerable
@@ -2549,6 +2542,7 @@ external
 externalip
 extract
 extraction
+extractor
 extreme-networks
 eye-candy
 eztheme
@@ -2720,7 +2714,6 @@ flex-query
 flexdesk
 flickr
 flowchart
-flowy
 fluidrelay
 flyway
 fmg
@@ -3224,7 +3217,6 @@ home_automation
 homebrew
 homelandsecurity
 homeschooling
-hon
 hooking
 horizon
 horizontal
@@ -3262,6 +3254,7 @@ hpesynergy
 hponeview
 hpwritemanager
 hris
+hrprovisioning
 hsdp
 hsl
 html
@@ -3284,9 +3277,7 @@ hubspotps
 hudson
 hue
 humanizer
-humanly
 humor
-humorous
 hunter
 hwid
 hybrid
@@ -3506,7 +3497,6 @@ interval-timer
 intigua
 intranet
 intrusion
-intuitive
 intune
 intuneappwinutil
 intunestuff
@@ -3648,7 +3638,6 @@ join
 join-object
 jojoba
 joke
-jotform
 journal
 joyride
 jpg
@@ -3734,7 +3723,6 @@ kidrsa
 kill
 kindle
 kinetic
-kinopoisk
 kintone
 klantcontroles
 kms
@@ -3745,7 +3733,6 @@ knowbe4
 knowledge
 knowledgebase
 koans
-kodi
 korn
 kotlin
 kql
@@ -3812,7 +3799,6 @@ latin
 latitude
 launcher
 layer
-layman
 layout
 lazywinadmin
 lbi
@@ -3882,6 +3868,7 @@ link-preview
 linkedin
 linkedservice
 linkedservicedependency
+linkid
 links
 linq
 linqpad
@@ -3925,7 +3912,6 @@ localconfigurationmanager
 localdb
 locale
 localgroup
-localgroupmember
 localization
 localpolicy
 location
@@ -3954,9 +3940,8 @@ log4net
 loganalytics
 logbook
 logcat
+logentry
 logfile
-logfilearchivearchive
-logfilemanagement psmodule
 logfiles
 logger
 logging
@@ -4520,8 +4505,6 @@ neo4j
 neovim
 neptune
 nerdfonts
-nerdio
-nerdioapi
 nerdymishka
 nessus
 nested
@@ -4547,7 +4530,6 @@ netscaler
 netscape
 netsec
 netsh
-netspell
 netstat
 netsuite
 network
@@ -4623,7 +4605,6 @@ nlm
 nlog
 nmap
 nmbell
-nmm
 nntp
 node
 nodejs
@@ -4926,6 +4907,7 @@ outsystems
 overbite
 ovf
 ovgd
+ovh
 owasp
 owls
 owner
@@ -5074,7 +5056,6 @@ personal
 personalisation
 personalization
 personalvault
-personio
 pester
 pf
 pfe
@@ -5084,7 +5065,6 @@ pfy
 pgp
 phabricator
 philips
-philosophical
 philpritchett
 phishing
 phoenix
@@ -5154,6 +5134,7 @@ plugin
 plugins
 pluralsight
 ply
+pmp
 pncit
 pnp
 pnp.powershell
@@ -5233,7 +5214,6 @@ poshy-lucidity
 poshy-multimedia
 poshy-net
 poshy-notify-send
-poshy-sh-isms
 poshy-sshconfig
 poshy-viewer-finder
 poshy-wrap
@@ -5442,6 +5422,7 @@ product
 productid
 productivity
 productmedia
+products
 productstate
 profile
 profiler
@@ -7120,14 +7101,10 @@ pscommand_syspip3_package_location
 pscommand_ta
 pscommand_tad
 pscommand_test-command
-pscommand_test-d
 pscommand_test-elevation
-pscommand_test-f
 pscommand_test-linkcapability
-pscommand_test-o
 pscommand_test-reparsepoint
 pscommand_test-sessioninteractivity
-pscommand_test-x
 pscommand_tf
 pscommand_tfa
 pscommand_tfc
@@ -8326,14 +8303,10 @@ psfunction_switch-gitbranchandtrack
 psfunction_switch-gitbranchmain
 psfunction_switch-gitbranchnew
 psfunction_test-command
-psfunction_test-d
 psfunction_test-elevation
-psfunction_test-f
 psfunction_test-linkcapability
-psfunction_test-o
 psfunction_test-reparsepoint
 psfunction_test-sessioninteractivity
-psfunction_test-x
 psfunction_universalarchive
 psfunction_update-gitbranchbasefrombranchmain
 psfunction_update-gitbranchbasefrommain
@@ -8426,7 +8399,6 @@ psngenposh
 psobject
 psoutlog
 pspath
-pspersonio
 pspowerhour
 psprofiler
 psproject
@@ -8746,7 +8718,6 @@ remote
 remote-browser
 remote-desktop
 remote'
-remoteadmin
 remotecert
 remoteconnection
 remoteconnectionsmanager
@@ -8759,7 +8730,6 @@ remotedesktopservices
 remotefiles
 remoteforensics
 remotehost
-remotelocalgroup
 remotelogoff
 remotemanagement
 remotesession
@@ -8898,7 +8868,6 @@ robot
 roca
 rock
 rocket
-rocketcyber
 roco
 rocolatey
 role
@@ -9011,7 +8980,6 @@ sarcasm
 sarif
 sas
 sat
-satirical
 save
 savedcreds
 savefile
@@ -9299,6 +9267,7 @@ shadow
 shadowcopy
 shadowcopybackups
 shadowgroups
+shanehoey
 shanghaitech
 shard
 share
@@ -9542,7 +9511,6 @@ speedometer
 speedtest
 speedtester
 spejder
-spellcheck
 spelling
 spf
 spfx
@@ -9798,7 +9766,6 @@ survey
 surveymonkey
 sus
 sushi
-suspensive
 svesavov
 svetoslav
 svg
@@ -9807,6 +9774,7 @@ svt
 swagger
 swamid
 swarm
+swedish
 swimlane
 swis
 switch
@@ -10266,6 +10234,7 @@ ud-field
 ud-flexytable
 ud-funnel
 ud-hero
+ud-illustration
 ud-input
 ud-licensed
 ud-loadingoverlay
@@ -10673,7 +10642,6 @@ watch
 watchdog
 watchguard
 watchmen
-watery
 wave
 wbem
 wcf
@@ -10797,7 +10765,6 @@ win32_operatingsystem
 win32-api
 win32appmigrationtool
 win32shutdown
-winbgp
 windchillrv&s
 window
 windows

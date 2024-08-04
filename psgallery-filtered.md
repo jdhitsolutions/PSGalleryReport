@@ -3,6 +3,62 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [CAT](https://www.powershellgallery.com/Packages/CAT/1.7.0.1) | 1.7.0.1
+
+### Published: 08/04/2024 09:06:05 by Joyful Craftsmen CAT Team
+
+Author, run and manage AUTOMATED TESTS for your DATA with minimum effort.
+
+__Downloads__: 1,909 | __Repository__: https://docs.justcat.it/
+
+## [dbatools](https://www.powershellgallery.com/Packages/dbatools/2.1.23) | 2.1.23
+
+### Published: 08/04/2024 07:02:19 by the dbatools team
+
+The community module that enables SQL Server Pros to automate database development and server administration
+
+__Downloads__: 4,415,273 | __Repository__: https://dbatools.io/
+
+## [OSD](https://www.powershellgallery.com/Packages/OSD/24.8.4.1) | 24.8.4.1
+
+### Published: 08/04/2024 05:59:15 by David Segura . Gary Blok . Akos Bakos . Jérôme Bezet-Torres . Damien Van Robaeys
+
+2024. June Patch Update. August Driver Update.
+
+__Downloads__: 1,932,514 | __Repository__: https://github.com/OSDeploy/OSD
+
+## [FarNet.Stateless](https://www.powershellgallery.com/Packages/FarNet.Stateless/0.1.1) | 0.1.1
+
+### Published: 08/04/2024 04:58:35 by Roman Kuzmin
+
+Stateless library interactive helpers.
+
+__Downloads__: 13 | __Repository__: https://github.com/nightroman/FarNet.Stateless
+
+## [TeamsToolsReset](https://www.powershellgallery.com/Packages/TeamsToolsReset/1.0.0) | 1.0.0
+
+### Published: 08/04/2024 04:00:13 by Shane Hoey
+
+A collection of scripts to extend the funtionality of the Direct Routing Cmdlets
+
+__Downloads__: 0 | __Repository__: https://github.com/shanehoey/TeamsTools/
+
+## [TeamsTools](https://www.powershellgallery.com/Packages/TeamsTools/1.0.0) | 1.0.0
+
+### Published: 08/04/2024 03:46:03 by Shane Hoey
+
+A collection of scripts to extend the funtionality of the Direct Routing Cmdlets
+
+__Downloads__: 0 | __Repository__: https://github.com/shanehoey/TeamsTools/
+
+## [Get-ChildItemColor](https://www.powershellgallery.com/Packages/Get-ChildItemColor/3.5.1) | 3.5.1
+
+### Published: 08/04/2024 02:24:07 by Joon Ro
+
+Get-ChildItemColor provides colored versions of Get-ChildItem Cmdlet and Get-ChildItem | Format-Wide (ls equivalent)
+
+__Downloads__: 107,362 | __Repository__: https://github.com/joonro/Get-ChildItemColor
+
 ## [EnhancedLoggingAO](https://www.powershellgallery.com/Packages/EnhancedLoggingAO/0.0.1) | 0.0.1
 
 ### Published: 08/04/2024 01:25:58 by Abdullah Ollivierre
@@ -34,14 +90,6 @@ __Downloads__: 23,273 | __Repository__: https://github.com/PSModule/Utilities
 A PowerShell module to manage the PATH environment variable on Windows.
 
 __Downloads__: 512 | __Repository__: https://github.com/PSModule/PATH
-
-## [Get-ChildItemColor](https://www.powershellgallery.com/Packages/Get-ChildItemColor/3.5.0) | 3.5.0
-
-### Published: 08/03/2024 20:33:13 by Joon Ro
-
-Get-ChildItemColor provides colored versions of Get-ChildItem Cmdlet and Get-ChildItem | Format-Wide (ls equivalent)
-
-__Downloads__: 107,362 | __Repository__: https://github.com/joonro/Get-ChildItemColor
 
 ## [PS.Reporting](https://www.powershellgallery.com/Packages/PS.Reporting/1.0) | 1.0
 
@@ -576,14 +624,6 @@ __Downloads__: 35 | __Repository__: https://github.com/baldcat18/ProcessTree
 Powershell Module for Azure Runtime Environment
 
 __Downloads__: 168 | __Repository__: https://github.com/daoradmin/Az.RuntimeEnvironment
-
-## [CAT](https://www.powershellgallery.com/Packages/CAT/1.6.0.1) | 1.6.0.1
-
-### Published: 07/31/2024 09:29:24 by Joyful Craftsmen CAT Team
-
-Author, run and manage AUTOMATED TESTS for your DATA with minimum effort.
-
-__Downloads__: 1,909 | __Repository__: https://docs.justcat.it/
 
 ## [EntraAuth](https://www.powershellgallery.com/Packages/EntraAuth/1.2.15) | 1.2.15
 
@@ -2050,44 +2090,4 @@ Module for installing basic programs: This module provides functions for downloa
 
 __Downloads__: 124,255 | __Repository__: 
 
-## [brickBOX](https://www.powershellgallery.com/Packages/brickBOX/1.3.0) | 1.3.0
-
-### Published: 07/28/2024 19:35:56 by Patrick Page Gehrig
-
-A collection of powershell functions, put in a module to make scripting easier
-
-__Downloads__: 57 | __Repository__: https://github.com/pageBOX/brickBOX/
-
-## [PSAuthClient](https://www.powershellgallery.com/Packages/PSAuthClient/1.2.0) | 1.2.0
-
-### Published: 07/28/2024 15:55:51 by Alf Løkken
-
-PowerShell Authentication Client (OAuth2.0/OIDC)
-
-__Downloads__: 2,052 | __Repository__: https://github.com/alflokken/PSAuthClient
-
-## [SqlServerTools](https://www.powershellgallery.com/Packages/SqlServerTools/3.4.0.1) | 3.4.0.1
-
-### Published: 07/28/2024 00:00:30 by Robert Eder
-
-Module provides SQL Server Client and SQL Management Object (SMO) functions.
-
-__Downloads__: 0 | __Repository__: https://github.com/netsec4u/SqlServerTools
-
-## [PsComplete](https://www.powershellgallery.com/Packages/PsComplete/0.0.28) | 0.0.28
-
-### Published: 07/27/2024 20:25:56 by ieviev
-
-Cross-platform custom powershell autocomplete / tab expansion
-
-__Downloads__: 3,978 | __Repository__: https://github.com/ieviev/pscomplete/
-
-## [Invoke-AsAdmin-Module](https://www.powershellgallery.com/Packages/Invoke-AsAdmin-Module/1.0.2) | 1.0.2
-
-### Published: 07/27/2024 09:47:31 by Jonas Schmitz
-
-Führt einen Skriptblock mit Adminrechten im Usercontext aus.
-
-__Downloads__: 0 | __Repository__: 
-
-*Updated: Sunday, 04 August 2024 02:12:11 UTC*
+*Updated: Sunday, 04 August 2024 09:51:48 UTC*
