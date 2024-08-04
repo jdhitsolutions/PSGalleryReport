@@ -1034,9 +1034,9 @@ This PowerShell module contains PowerShell Advanced functions for VMware.Sdk.vSp
 
 __Downloads__: 4,416,287 | __Repository__: https://developer.vmware.com/powercli
 
-## [dbatools](https://www.powershellgallery.com/Packages/dbatools/2.1.22) | 2.1.22
+## [dbatools](https://www.powershellgallery.com/Packages/dbatools/2.1.23) | 2.1.23
 
-### Published: 07/25/2024 13:55:33 by the dbatools team
+### Published: 08/04/2024 07:02:19 by the dbatools team
 
 The community module that enables SQL Server Pros to automate database development and server administration
 
@@ -1475,11 +1475,11 @@ PowerShell Module Wrapper for WinSCP.
 
 __Downloads__: 1,951,424 | __Repository__: https://github.com/tomohulk/WinSCP
 
-## [OSD](https://www.powershellgallery.com/Packages/OSD/24.6.18.1) | 24.6.18.1
+## [OSD](https://www.powershellgallery.com/Packages/OSD/24.8.4.1) | 24.8.4.1
 
-### Published: 06/18/2024 06:31:43 by David Segura . Gary Blok . Akos Bakos . Jérôme Bezet-Torres . Damien Van Robaeys
+### Published: 08/04/2024 05:59:15 by David Segura . Gary Blok . Akos Bakos . Jérôme Bezet-Torres . Damien Van Robaeys
 
-2024 June Update
+2024. June Patch Update. August Driver Update.
 
 __Downloads__: 1,932,514 | __Repository__: https://github.com/OSDeploy/OSD
 
@@ -2138,4 +2138,4 @@ Helper functions for PowerShell CI/CD scenarios.
 
 __Downloads__: 602,464 | __Repository__: https://github.com/RamblingCookieMonster/BuildHelpers/
 
-*Updated: Sunday, 04 August 2024 02:12:16 UTC*
+*Updated: Sunday, 04 August 2024 09:51:53 UTC*
