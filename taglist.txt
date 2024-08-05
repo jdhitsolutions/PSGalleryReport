@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Sunday, 04 August 2024 17:51:50 UTC
+Updated: Monday, 05 August 2024 02:11:24 UTC
 
 .bat
 .env
@@ -430,7 +430,6 @@ applicationmigration
 applicationmonitor
 applications
 applocker
-apply
 appmgmtcontrol
 apppool
 appraiser
@@ -622,6 +621,7 @@ autoupdate
 autoupdate-script
 autowrapper
 autoyast
+auvik
 availability
 availabilityset
 avalara
@@ -1836,6 +1836,7 @@ dbase
 dbassistant
 dbatools
 dbcommand
+dbeaver
 dbfs
 dbnull
 dbops
@@ -2145,6 +2146,7 @@ downloadoffice
 downloadofficertool
 downloads
 downloadyoutubevideo
+dozent
 dpa
 dpapi
 dpi
@@ -2367,6 +2369,7 @@ entity
 entityframework
 entra
 entraid
+entraidgovernance
 entropy
 enum
 enumerable
@@ -2914,6 +2917,7 @@ get-dtscriptnewcmtasksequencefromdriverpackpackagedefinitionsms
 get-emptyadgroups
 get-externalip
 get-firmwaretype
+get-hardensysvol
 get-help
 get-history
 get-iislog
@@ -3114,6 +3118,7 @@ hardblock
 harden
 harden-windows-security
 hardening
+hardensysvol
 hardlink
 hardmatch
 hardware
@@ -3172,6 +3177,7 @@ helper-functions
 helperfunctions
 helpers
 helpfile
+helpful
 heml
 here
 hewlett
@@ -3262,6 +3268,7 @@ hpesynergy
 hponeview
 hpwritemanager
 hris
+hrprovisioning
 hsdp
 hsl
 html
@@ -3372,22 +3379,13 @@ im
 image
 image-comparison
 image-converter
-image-creation
-image-generation
-image-process
-image-validation
 imagebuilder
-imagecreate
-imagecreation
 imagegeneration
 imageoftheday
-imageprocess
 imageprocessing
 images
 imageservicing
 imageslide
-imagevalidate
-imagevalidation
 imagga
 imagination
 imaging
@@ -3648,6 +3646,7 @@ join
 join-object
 jojoba
 joke
+jotform
 journal
 joyride
 jpg
@@ -4036,7 +4035,6 @@ machinelearning
 machinelearningcompute
 machinelearningmodels
 machinelearningservices
-macmon
 macos
 macosx
 macro
@@ -4390,7 +4388,6 @@ msband
 msbi
 msbuild
 msdeploy
-msdn
 msdtc
 msedge
 msexcel
@@ -4484,7 +4481,6 @@ mytest
 n-able
 n-central
 nabu
-nac
 nagios
 nakivo
 name
@@ -4927,7 +4923,6 @@ outsystems
 overbite
 ovf
 ovgd
-ovh
 owasp
 owls
 owner
@@ -5268,6 +5263,7 @@ poshy-wrap-pylint
 poshy-wrap-python
 poshy-wrap-ruby
 poshy-wrap-systemctl
+poshy-wrap-terraform
 poshy-wrap-terragrunt
 poshy-wrap-tmux
 poshy-wrap-vagrant
@@ -6654,6 +6650,15 @@ pscommand_invoke-systemctluser-try-reload-or-restart
 pscommand_invoke-systemctluser-try-restart
 pscommand_invoke-systemctluser-unmask
 pscommand_invoke-systemctluser-unset-environment
+pscommand_invoke-terraform
+pscommand_invoke-terraformapply
+pscommand_invoke-terraformconsole
+pscommand_invoke-terraformdestroy
+pscommand_invoke-terraformformat
+pscommand_invoke-terraforminit
+pscommand_invoke-terraformoutput
+pscommand_invoke-terraformplan
+pscommand_invoke-terraformvalidate
 pscommand_invoke-terragrunt
 pscommand_invoke-terragruntapply
 pscommand_invoke-terragruntapplyall
@@ -7122,6 +7127,15 @@ pscommand_test-o
 pscommand_test-reparsepoint
 pscommand_test-sessioninteractivity
 pscommand_test-x
+pscommand_tf
+pscommand_tfa
+pscommand_tfc
+pscommand_tfd
+pscommand_tff
+pscommand_tfi
+pscommand_tfo
+pscommand_tfp
+pscommand_tfv
 pscommand_tg
 pscommand_tga
 pscommand_tgaa
@@ -8048,6 +8062,15 @@ psfunction_invoke-systemctluser-try-reload-or-restart
 psfunction_invoke-systemctluser-try-restart
 psfunction_invoke-systemctluser-unmask
 psfunction_invoke-systemctluser-unset-environment
+psfunction_invoke-terraform
+psfunction_invoke-terraformapply
+psfunction_invoke-terraformconsole
+psfunction_invoke-terraformdestroy
+psfunction_invoke-terraformformat
+psfunction_invoke-terraforminit
+psfunction_invoke-terraformoutput
+psfunction_invoke-terraformplan
+psfunction_invoke-terraformvalidate
 psfunction_invoke-terragrunt
 psfunction_invoke-terragruntapply
 psfunction_invoke-terragruntapplyall
@@ -8516,9 +8539,7 @@ qemu
 qlgc_fc_powerkit
 qlik
 qlik-api
-qlik-sense
 qlik-view
-qliksesne
 qlikview
 qlikview-cli
 qlogic
@@ -8533,7 +8554,6 @@ qr-code
 qrcode
 qrcodes
 qrp
-qrs
 quality
 qualys
 quandl
@@ -8694,7 +8714,6 @@ regex
 region
 regions
 regiser-argumentcompleter
-register
 register-argumentcompleter
 registered
 registrar
@@ -9033,6 +9052,7 @@ schemaextensions
 scheme
 school-information-system
 schoolholidays
+schulung
 schulverwaltung
 science
 scissors
@@ -10112,6 +10132,7 @@ trafficfiltering
 trafficmanager
 trafficmarking
 train
+trainer
 training
 training-course
 tram
@@ -10908,6 +10929,7 @@ workloads
 workpoint
 workrequests
 worksheet
+workshop
 workspace
 workspacemanager
 workspaceone
