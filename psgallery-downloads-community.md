@@ -1475,11 +1475,11 @@ PowerShell Module Wrapper for WinSCP.
 
 __Downloads__: 1,951,424 | __Repository__: https://github.com/tomohulk/WinSCP
 
-## [OSD](https://www.powershellgallery.com/Packages/OSD/24.8.4.1) | 24.8.4.1
+## [OSD](https://www.powershellgallery.com/Packages/OSD/24.8.5.1) | 24.8.5.1
 
-### Published: 08/04/2024 05:59:15 by David Segura . Gary Blok . Akos Bakos . Jérôme Bezet-Torres . Damien Van Robaeys
+### Published: 08/05/2024 06:58:24 by David Segura . Gary Blok . Akos Bakos . Jérôme Bezet-Torres . Damien Van Robaeys
 
-2024. June Patch Update. August Driver Update.
+2024. July Patch Update. August Driver Update.
 
 __Downloads__: 1,932,514 | __Repository__: https://github.com/OSDeploy/OSD
 
@@ -2138,4 +2138,4 @@ Helper functions for PowerShell CI/CD scenarios.
 
 __Downloads__: 602,464 | __Repository__: https://github.com/RamblingCookieMonster/BuildHelpers/
 
-*Updated: Monday, 05 August 2024 02:11:21 UTC*
+*Updated: Monday, 05 August 2024 09:51:56 UTC*

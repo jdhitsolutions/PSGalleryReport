@@ -3,6 +3,68 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [PS.Selenium](https://www.powershellgallery.com/Packages/PS.Selenium/1.19) | 1.19
+
+### Published: 08/05/2024 08:59:19 by Nutstone
+
+Wraps Selenium
+
+__Downloads__: 161 | __Repository__: 
+
+## [XpandPwsh](https://www.powershellgallery.com/Packages/XpandPwsh/1.221.0.19) | 1.221.0.19
+
+### Published: 08/05/2024 07:17:21 by Apostolis Bekiaris
+
+Various functions working with DevExpress XAF, eXpandFramework and not only
+
+__Downloads__: 38,060 | __Repository__: http://xpandpwsh.expandframework.com/
+
+## [OSD](https://www.powershellgallery.com/Packages/OSD/24.8.5.1) | 24.8.5.1
+
+### Published: 08/05/2024 06:58:24 by David Segura . Gary Blok . Akos Bakos . Jérôme Bezet-Torres . Damien Van Robaeys
+
+2024. July Patch Update. August Driver Update.
+
+__Downloads__: 1,932,514 | __Repository__: https://github.com/OSDeploy/OSD
+
+## [AzureStackHCIJumpstart](https://www.powershellgallery.com/Packages/AzureStackHCIJumpstart/2024.8.5.35) | 2024.8.5.35
+
+### Published: 08/05/2024 06:44:22 by Dan Cuomo
+
+Helps deploy the Azure Stack HCI Deployment labs
+
+__Downloads__: 659 | __Repository__: https://github.com/microsoft/AzureStackHCIJumpstart
+
+## [OSDSUS](https://www.powershellgallery.com/Packages/OSDSUS/24.8.5.1) | 24.8.5.1
+
+### Published: 08/05/2024 06:35:55 by David Segura @SeguraOSD
+
+https://osdsus.osdeploy.com/
+https://raw.githubusercontent.com/OSDeploy/OSDSUS/master/UPDATES.md
+
+WSUS Update Catalogs:
+These are contained within this PowerShell Module, so regular Module updating is needed to
+ensure you receive the latest Microsoft Updates.  Updates published in WSUS will be different
+from Microsoft Update Catalog website due to Preview Releases
+
+__Downloads__: 433,242 | __Repository__: https://github.com/OSDeploy/OSDSUS
+
+## [Rpic.PowerShell](https://www.powershellgallery.com/Packages/Rpic.PowerShell/1.10.2) | 1.10.2
+
+### Published: 08/05/2024 06:34:47 by tobiaslekman
+
+Contains a set of resuable PowerShell functions for working with Azure Resource Manager and Bicep.
+
+__Downloads__: 3,881 | __Repository__: 
+
+## [UiPathOrch](https://www.powershellgallery.com/Packages/UiPathOrch/0.9.5.14) | 0.9.5.14
+
+### Published: 08/05/2024 03:13:56 by Yoshifumi Tsuda
+
+A PowerShell provider for managing UiPath Orchestrator entities via cmdlets.
+
+__Downloads__: 638 | __Repository__: 
+
 ## [Maester](https://www.powershellgallery.com/Packages/Maester/0.3.0) | 0.3.0
 
 ### Published: 08/04/2024 22:25:32 by Maester Team
@@ -68,14 +130,6 @@ The `IntuneBulkMaster` PowerShell module provides a set of functions for managin
 
 __Downloads__: 0 | __Repository__: https://github.com/FlorianSLZ/IntuneBulkMaster
 
-## [UiPathOrch](https://www.powershellgallery.com/Packages/UiPathOrch/0.9.5.13) | 0.9.5.13
-
-### Published: 08/04/2024 12:01:58 by Yoshifumi Tsuda
-
-A PowerShell provider for managing UiPath Orchestrator entities via cmdlets.
-
-__Downloads__: 638 | __Repository__: 
-
 ## [CAT](https://www.powershellgallery.com/Packages/CAT/1.7.0.1) | 1.7.0.1
 
 ### Published: 08/04/2024 09:06:05 by Joyful Craftsmen CAT Team
@@ -91,14 +145,6 @@ __Downloads__: 1,909 | __Repository__: https://docs.justcat.it/
 The community module that enables SQL Server Pros to automate database development and server administration
 
 __Downloads__: 4,415,273 | __Repository__: https://dbatools.io/
-
-## [OSD](https://www.powershellgallery.com/Packages/OSD/24.8.4.1) | 24.8.4.1
-
-### Published: 08/04/2024 05:59:15 by David Segura . Gary Blok . Akos Bakos . Jérôme Bezet-Torres . Damien Van Robaeys
-
-2024. June Patch Update. August Driver Update.
-
-__Downloads__: 1,932,514 | __Repository__: https://github.com/OSDeploy/OSD
 
 ## [FarNet.Stateless](https://www.powershellgallery.com/Packages/FarNet.Stateless/0.1.1) | 0.1.1
 
@@ -2050,44 +2096,4 @@ Create evergreen Windows image builds with the latest versions of applications. 
 
 __Downloads__: 4,444,554 | __Repository__: https://stealthpuppy.com/evergreen/
 
-## [PS.Selenium](https://www.powershellgallery.com/Packages/PS.Selenium/1.18) | 1.18
-
-### Published: 07/30/2024 09:15:09 by Nutstone
-
-Wraps Selenium
-
-__Downloads__: 161 | __Repository__: 
-
-## [PSPassPhrase](https://www.powershellgallery.com/Packages/PSPassPhrase/1.0.3) | 1.0.3
-
-### Published: 07/29/2024 20:08:32 by Martin Cooper (@mc1903)
-
-A simple PowerShell Bulk Passphrase Generator
-
-__Downloads__: 0 | __Repository__: https://github.com/mc1903/PSPassPhrase
-
-## [AsBuiltReport.Microsoft.Windows](https://www.powershellgallery.com/Packages/AsBuiltReport.Microsoft.Windows/0.5.5) | 0.5.5
-
-### Published: 07/29/2024 19:11:49 by Andrew Ramsay
-
-A PowerShell module to generate an as built report on the configuration of Microsoft Windows.
-
-__Downloads__: 11,653 | __Repository__: https://github.com/AsBuiltReport/AsBuiltReport.Microsoft.Windows
-
-## [Universal](https://www.powershellgallery.com/Packages/Universal/4.3.4) | 4.3.4
-
-### Published: 07/29/2024 16:14:12 by Ironman Software
-
-Module for PowerShell Universal.
-
-__Downloads__: 104,764 | __Repository__: https://ironmansoftware.com/powershell-universal
-
-## [365AutomatedCheck](https://www.powershellgallery.com/Packages/365AutomatedCheck/0.0.11) | 0.0.11
-
-### Published: 07/29/2024 11:17:56 by Clayton Tyger
-
-This module checks for your fields in your Office 365 tenant to see if they meet company standards.
-
-__Downloads__: 20 | __Repository__: https://github.com/DevClate/365AutomatedCheck
-
-*Updated: Monday, 05 August 2024 02:11:16 UTC*
+*Updated: Monday, 05 August 2024 09:51:51 UTC*
