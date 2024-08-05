@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 05 August 2024 02:11:24 UTC
+Updated: Monday, 05 August 2024 09:51:58 UTC
 
 .bat
 .env
@@ -430,6 +430,7 @@ applicationmigration
 applicationmonitor
 applications
 applocker
+apply
 appmgmtcontrol
 apppool
 appraiser
@@ -608,7 +609,6 @@ automation
 automation psmodule
 automationanywhere
 automationutils
-autopatching
 autopilot
 autoscaling
 autostart
@@ -644,8 +644,6 @@ aws
 aws_profile
 aws-codebuild
 aws-lambda
-aws-vault
-aws.tools.powershell
 awsbedrock
 awscli
 awspricelist
@@ -1986,7 +1984,6 @@ digitalforensics
 digitalocean
 digitaltwins
 dilbert
-dimcry
 dircolors
 director
 directories
@@ -2848,7 +2845,6 @@ gamecategory:cards
 games
 gameserver
 gaming
-garage
 gas
 gat
 gateway
@@ -3379,13 +3375,22 @@ im
 image
 image-comparison
 image-converter
+image-creation
+image-generation
+image-process
+image-validation
 imagebuilder
+imagecreate
+imagecreation
 imagegeneration
 imageoftheday
+imageprocess
 imageprocessing
 images
 imageservicing
 imageslide
+imagevalidate
+imagevalidation
 imagga
 imagination
 imaging
@@ -3413,7 +3418,6 @@ incidentresponse
 incontact
 indents
 index
-indexdb
 indicator
 inedo
 inetfwrule
@@ -3953,7 +3957,6 @@ log4net
 loganalytics
 logbook
 logcat
-logentry
 logfile
 logfilearchivearchive
 logfilemanagement psmodule
@@ -3989,10 +3992,8 @@ logonto
 logonuser
 logparser
 logrotate
-logrotation
 logs
 logstash
-logtools
 logz
 loki
 lol
@@ -4275,7 +4276,6 @@ migrate
 migration
 migration-tool
 migrations
-mikrotik
 milestone
 mim
 mime
@@ -4388,6 +4388,7 @@ msband
 msbi
 msbuild
 msdeploy
+msdn
 msdtc
 msedge
 msexcel
@@ -4923,6 +4924,7 @@ outsystems
 overbite
 ovf
 ovgd
+ovh
 owasp
 owls
 owner
@@ -8539,7 +8541,9 @@ qemu
 qlgc_fc_powerkit
 qlik
 qlik-api
+qlik-sense
 qlik-view
+qliksesne
 qlikview
 qlikview-cli
 qlogic
@@ -8554,6 +8558,7 @@ qr-code
 qrcode
 qrcodes
 qrp
+qrs
 quality
 qualys
 quandl
@@ -8714,6 +8719,7 @@ regex
 region
 regions
 regiser-argumentcompleter
+register
 register-argumentcompleter
 registered
 registrar
@@ -8912,7 +8918,6 @@ route
 route53
 routeconfig
 router
-routeros
 routes
 routetable
 routine
@@ -9482,7 +9487,6 @@ soltra
 solution
 solutions
 sonarcloud
-sonarqube
 sonarr
 sonatype
 songs
@@ -9606,7 +9610,6 @@ sqlserverbynarypsmodule
 sqlserverclient
 sqlservermodule
 sqlvirtualmachine
-sqlvm
 sqr
 sqrt
 square
@@ -10834,7 +10837,6 @@ windowscredentials
 windowscredentialsmanager
 windowsdataprotectionapi
 windowsdefender
-windowsdesktopsearch
 windowsevent
 windowseventlog
 windowsform
