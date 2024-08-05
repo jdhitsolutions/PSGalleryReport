@@ -3,13 +3,146 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
-## [PS.Selenium](https://www.powershellgallery.com/Packages/PS.Selenium/1.19) | 1.19
+## [ps12exe](https://www.powershellgallery.com/Packages/ps12exe/0.4.3) | 0.4.3
 
-### Published: 08/05/2024 08:59:19 by Nutstone
+### Published: 08/05/2024 17:17:32 by steve02081504
+
+better pwsh code 2 exe repo:
+- Use `ps12exe a.ps1` to convert `a.ps1` into `a.exe`;
+- Use `ps12exeGUI` for a graphical interface that simplifies compilation;
+- Use `Set-ps12exeContextMenu` to add a context menu item for quick compilation or GUI access on `.ps1` files;
+- Use `Start-ps12exeWebServer` to launch a web server that allows users to compile scripts online;
+All commands in this module support the `-help` option for detailed assistance in your language.
+
+__Downloads__: 1,601 | __Repository__: https://github.com/steve02081504/ps12exe
+
+## [EnhancedWin32DeployerAO](https://www.powershellgallery.com/Packages/EnhancedWin32DeployerAO/0.0.1) | 0.0.1
+
+### Published: 08/05/2024 15:46:33 by Abdullah Ollivierre
+
+EnhancedWin32DeployerAO for PowerShell scripts.
+
+__Downloads__: 0 | __Repository__: 
+
+## [EnhancedSPOAO](https://www.powershellgallery.com/Packages/EnhancedSPOAO/0.0.1) | 0.0.1
+
+### Published: 08/05/2024 15:46:32 by Abdullah Ollivierre
+
+EnhancedSPOAO for PowerShell scripts.
+
+__Downloads__: 0 | __Repository__: 
+
+## [EnhancedPSADTAO](https://www.powershellgallery.com/Packages/EnhancedPSADTAO/0.0.1) | 0.0.1
+
+### Published: 08/05/2024 15:46:31 by Abdullah Ollivierre
+
+EnhancedPSADTAO for PowerShell scripts.
+
+__Downloads__: 0 | __Repository__: 
+
+## [EnhancedHyperVAO](https://www.powershellgallery.com/Packages/EnhancedHyperVAO/0.0.1) | 0.0.1
+
+### Published: 08/05/2024 15:46:30 by Abdullah Ollivierre
+
+EnhancedHyperVAO for PowerShell scripts.
+
+__Downloads__: 0 | __Repository__: 
+
+## [EnhancedGraphAO](https://www.powershellgallery.com/Packages/EnhancedGraphAO/0.0.1) | 0.0.1
+
+### Published: 08/05/2024 15:46:28 by Abdullah Ollivierre
+
+EnhancedGraphAO for PowerShell scripts.
+
+__Downloads__: 0 | __Repository__: 
+
+## [EnhancedDeviceMigrationAO](https://www.powershellgallery.com/Packages/EnhancedDeviceMigrationAO/0.0.1) | 0.0.1
+
+### Published: 08/05/2024 15:46:27 by Abdullah Ollivierre
+
+EnhancedDeviceMigrationAO for PowerShell scripts.
+
+__Downloads__: 0 | __Repository__: 
+
+## [EnhancedAO.Graph.SignInLogs](https://www.powershellgallery.com/Packages/EnhancedAO.Graph.SignInLogs/0.0.1) | 0.0.1
+
+### Published: 08/05/2024 15:46:24 by Abdullah Ollivierre
+
+EnhancedAO.Graph.SignInLogs for PowerShell scripts.
+
+__Downloads__: 0 | __Repository__: 
+
+## [DTX.Cloud.Management](https://www.powershellgallery.com/Packages/DTX.Cloud.Management/1.16.3) | 1.16.3
+
+### Published: 08/05/2024 15:24:45 by Platform Operations Team
+
+Dotmatics cloud automation tool.
+
+__Downloads__: 11,749 | __Repository__: 
+
+## [PS.Reporting](https://www.powershellgallery.com/Packages/PS.Reporting/1.2) | 1.2
+
+### Published: 08/05/2024 15:16:52 by Nutstone
+
+Reporting Using HTM/CSV/EXCEL
+
+__Downloads__: 0 | __Repository__: 
+
+## [PSTcpIp](https://www.powershellgallery.com/Packages/PSTcpIp/5.14.0) | 5.14.0
+
+### Published: 08/05/2024 15:03:40 by Anthony Guimelli
+
+Provides cmdlets to perform various TCPIP and TLS/SSL related tasks.
+
+__Downloads__: 5,999 | __Repository__: https://github.com/anthonyg-1/PSTcpIp
+
+## [PS.Selenium](https://www.powershellgallery.com/Packages/PS.Selenium/1.20) | 1.20
+
+### Published: 08/05/2024 13:39:22 by Nutstone
 
 Wraps Selenium
 
 __Downloads__: 161 | __Repository__: 
+
+## [kurukuru-pwsh](https://www.powershellgallery.com/Packages/kurukuru-pwsh/2.0.1) | 2.0.1
+
+### Published: 08/05/2024 13:37:09 by kzrnm
+
+This module is a wrrapper of Kurukuru.
+
+__Downloads__: 153 | __Repository__: https://github.com/kzrnm/Kurukuru-PowerShell
+
+## [MyPublishingDebugger](https://www.powershellgallery.com/Packages/MyPublishingDebugger/0.0.100) | 0.0.100
+
+### Published: 08/05/2024 13:24:13 by Joel Timothy Oh
+
+A PowerShell module for debugging publishing of modules.
+
+__Downloads__: 2,848 | __Repository__: https://github.com/joeltimothyoh/MyPublishingDebugger
+
+## [WindmillClient](https://www.powershellgallery.com/Packages/WindmillClient/1.375.0) | 1.375.0
+
+### Published: 08/05/2024 11:36:38 by Windmill Labs
+
+Client for the Windmill platform.
+
+__Downloads__: 428 | __Repository__: https://github.com/windmill-labs/windmill/tree/main/powershell-client
+
+## [SAPAzurePowerShellModules](https://www.powershellgallery.com/Packages/SAPAzurePowerShellModules/0.1.70) | 0.1.70
+
+### Published: 08/05/2024 10:56:25 by Goran Condric
+
+SAP on Azure PowerShell Modules used for automation.
+
+__Downloads__: 1,925 | __Repository__: 
+
+## [ZertoAVSModule](https://www.powershellgallery.com/Packages/ZertoAVSModule/3.5.8) | 3.5.8
+
+### Published: 08/05/2024 09:46:50 by Zerto
+
+Zerto AVS solution package
+
+__Downloads__: 1,678 | __Repository__: https://help.zerto.com/
 
 ## [XpandPwsh](https://www.powershellgallery.com/Packages/XpandPwsh/1.221.0.19) | 1.221.0.19
 
@@ -73,14 +206,6 @@ Maester is an automation framework to assess and monitor your Microsoft 365 secu
 
 __Downloads__: 32,241 | __Repository__: https://maester.dev/
 
-## [WindmillClient](https://www.powershellgallery.com/Packages/WindmillClient/1.374.0) | 1.374.0
-
-### Published: 08/04/2024 21:21:42 by Windmill Labs
-
-Client for the Windmill platform.
-
-__Downloads__: 428 | __Repository__: https://github.com/windmill-labs/windmill/tree/main/powershell-client
-
 ## [M365FoundationsCISReport](https://www.powershellgallery.com/Packages/M365FoundationsCISReport/0.1.26) | 0.1.26
 
 ### Published: 08/04/2024 20:49:47 by Douglas S. Rios (DrIOSx)
@@ -104,14 +229,6 @@ __Downloads__: 0 | __Repository__:
 Get-ChildItemColor provides colored versions of Get-ChildItem Cmdlet and Get-ChildItem | Format-Wide (ls equivalent)
 
 __Downloads__: 107,362 | __Repository__: https://github.com/joonro/Get-ChildItemColor
-
-## [SAPAzurePowerShellModules](https://www.powershellgallery.com/Packages/SAPAzurePowerShellModules/0.1.69) | 0.1.69
-
-### Published: 08/04/2024 14:29:16 by Goran Condric
-
-SAP on Azure PowerShell Modules used for automation.
-
-__Downloads__: 1,925 | __Repository__: 
 
 ## [EnhancedBoilerPlateAO](https://www.powershellgallery.com/Packages/EnhancedBoilerPlateAO/0.0.1) | 0.0.1
 
@@ -201,22 +318,6 @@ __Downloads__: 23,273 | __Repository__: https://github.com/PSModule/Utilities
 A PowerShell module to manage the PATH environment variable on Windows.
 
 __Downloads__: 512 | __Repository__: https://github.com/PSModule/PATH
-
-## [PS.Reporting](https://www.powershellgallery.com/Packages/PS.Reporting/1.0) | 1.0
-
-### Published: 08/03/2024 19:31:39 by Nutstone
-
-Reporting Using HTM/CSV/EXCEL
-
-__Downloads__: 0 | __Repository__: 
-
-## [PSTcpIp](https://www.powershellgallery.com/Packages/PSTcpIp/5.13.3) | 5.13.3
-
-### Published: 08/03/2024 15:34:49 by Anthony Guimelli
-
-Provides cmdlets to perform various TCPIP and TLS/SSL related tasks.
-
-__Downloads__: 5,999 | __Repository__: https://github.com/anthonyg-1/PSTcpIp
 
 ## [AutomateNOW](https://www.powershellgallery.com/Packages/AutomateNOW/1.0.25) | 1.0.25
 
@@ -480,19 +581,6 @@ A module with different tools around creating staff calendars for a specified ye
 
 __Downloads__: 6 | __Repository__: https://github.com/bordwalk2000/StaffCalendar
 
-## [ps12exe](https://www.powershellgallery.com/Packages/ps12exe/0.4.2) | 0.4.2
-
-### Published: 08/02/2024 00:28:49 by steve02081504
-
-better pwsh code 2 exe repo:
-- Use `ps12exe a.ps1` to convert `a.ps1` into `a.exe`;
-- Use `ps12exeGUI` for a graphical interface that simplifies compilation;
-- Use `Set-ps12exeContextMenu` to add a context menu item for quick compilation or GUI access on `.ps1` files;
-- Use `Start-ps12exeWebServer` to launch a web server that allows users to compile scripts online;
-All commands in this module support the `-help` option for detailed assistance in your language.
-
-__Downloads__: 1,601 | __Repository__: https://github.com/steve02081504/ps12exe
-
 ## [Adsi](https://www.powershellgallery.com/Packages/Adsi/4.0.113) | 4.0.113
 
 ### Published: 08/01/2024 23:00:05 by Jeremy La Camera
@@ -516,14 +604,6 @@ __Downloads__: 4,820,963 | __Repository__: https://0install.net/
 Devolutions Gateway PowerShell Module
 
 __Downloads__: 8,892 | __Repository__: https://github.com/Devolutions/devolutions-gateway/tree/master/powershell/
-
-## [Arcane_Server](https://www.powershellgallery.com/Packages/Arcane_Server/1.0.0) | 1.0.0
-
-### Published: 08/01/2024 14:13:14 by Jean-Pierre LESUEUR
-
-Arcane - A secure remote desktop application for Windows with the particularity of having a server entirely written in PowerShell and a cross-platform client (Python/QT6).
-
-__Downloads__: 0 | __Repository__: 
 
 ## [ControlUp.Automation](https://www.powershellgallery.com/Packages/ControlUp.Automation/1.0.2) | 1.0.2
 
@@ -575,14 +655,6 @@ __Downloads__: 0 | __Repository__: https://github.com/jklotzsche-msft/TeamsPhone
 This module provides an interface to the Halo API.
 
 __Downloads__: 283,074 | __Repository__: https://github.com/homotechsual/HaloAPI
-
-## [DTX.Cloud.Management](https://www.powershellgallery.com/Packages/DTX.Cloud.Management/1.16.1) | 1.16.1
-
-### Published: 08/01/2024 10:13:44 by Platform Operations Team
-
-Dotmatics cloud automation tool.
-
-__Downloads__: 11,749 | __Repository__: 
 
 ## [MfaOnDemand](https://www.powershellgallery.com/Packages/MfaOnDemand/0.10.0) | 0.10.0
 
@@ -2024,76 +2096,4 @@ Microsoft Graph interactive API Functions
 
 __Downloads__: 36,111 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
-## [AdminToolbox.Fun](https://www.powershellgallery.com/Packages/AdminToolbox.Fun/1.6.164) | 1.6.164
-
-### Published: 07/30/2024 14:03:34 by Taylor Lee
-
-Functions that have no purpose
-
-__Downloads__: 46,651 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-## [AdminToolbox.FileManagement](https://www.powershellgallery.com/Packages/AdminToolbox.FileManagement/1.16.155) | 1.16.155
-
-### Published: 07/30/2024 14:03:30 by Taylor Lee
-
-File Management Functions
-
-__Downloads__: 47,111 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-## [AdminToolbox.FFTools](https://www.powershellgallery.com/Packages/AdminToolbox.FFTools/4.16.113) | 4.16.113
-
-### Published: 07/30/2024 14:03:24 by Taylor Lee
-
-Expedite simple ffmpeg actions
-
-__Downloads__: 47,068 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-## [AdminToolbox.Exchange](https://www.powershellgallery.com/Packages/AdminToolbox.Exchange/1.9.164) | 1.9.164
-
-### Published: 07/30/2024 14:03:15 by Taylor Lee
-
-Functions for Exchange Management
-
-__Downloads__: 49,513 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-## [AdminToolbox.EndpointManagement](https://www.powershellgallery.com/Packages/AdminToolbox.EndpointManagement/4.10.41) | 4.10.41
-
-### Published: 07/30/2024 14:03:07 by Taylor Lee
-
-Functions for management of endpoints
-
-__Downloads__: 56,731 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-## [AdminToolbox.ActiveDirectory](https://www.powershellgallery.com/Packages/AdminToolbox.ActiveDirectory/1.10.25) | 1.10.25
-
-### Published: 07/30/2024 14:02:54 by Taylor Lee
-
-Functions for Active Directory
-
-__Downloads__: 57,444 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-## [MemPolicyManager](https://www.powershellgallery.com/Packages/MemPolicyManager/0.1.4) | 0.1.4
-
-### Published: 07/30/2024 13:30:59 by Douglas S. Rios (DrIOSx)
-
-A PowerShell module for managing Microsoft Endpoint Manager policies, including backup, import, export, and comparison using Microsoft Graph API.
-
-__Downloads__: 3 | __Repository__: https://github.com/CriticalSolutionsNetwork/MemPolicyManager
-
-## [SixPivot.Azure](https://www.powershellgallery.com/Packages/SixPivot.Azure/1.0.36) | 1.0.36
-
-### Published: 07/30/2024 13:06:56 by David Gardiner
-
-Azure cmdlets created by SixPivot
-
-__Downloads__: 900 | __Repository__: https://github.com/SixPivot/sixpivot-azure-powershell-module
-
-## [Evergreen](https://www.powershellgallery.com/Packages/Evergreen/2407.1289) | 2407.1289
-
-### Published: 07/30/2024 11:25:34 by Aaron Parker
-
-Create evergreen Windows image builds with the latest versions of applications. Evergreen is a simple PowerShell module that retrieves the latest version numbers and download URLs for various software products directly from the vendor source.
-
-__Downloads__: 4,444,554 | __Repository__: https://stealthpuppy.com/evergreen/
-
-*Updated: Monday, 05 August 2024 09:51:51 UTC*
+*Updated: Monday, 05 August 2024 17:51:47 UTC*

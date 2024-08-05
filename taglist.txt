@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 05 August 2024 09:51:58 UTC
+Updated: Monday, 05 August 2024 17:51:55 UTC
 
 .bat
 .env
@@ -430,7 +430,6 @@ applicationmigration
 applicationmonitor
 applications
 applocker
-apply
 appmgmtcontrol
 apppool
 appraiser
@@ -607,7 +606,6 @@ automatenow
 automaticpacketreportingsystem
 automation
 automation psmodule
-automationanywhere
 automationutils
 autopilot
 autoscaling
@@ -644,6 +642,8 @@ aws
 aws_profile
 aws-codebuild
 aws-lambda
+aws-vault
+aws.tools.powershell
 awsbedrock
 awscli
 awspricelist
@@ -839,7 +839,6 @@ ber
 bestpractice
 bestpractices
 bginfo
-bgp
 bi
 bibliography
 bibtex
@@ -1518,7 +1517,6 @@ continuousintegration
 contrast
 control
 controller
-controlroom
 controlup
 conventional
 conventional-commits
@@ -1984,6 +1982,7 @@ digitalforensics
 digitalocean
 digitaltwins
 dilbert
+dimcry
 dircolors
 director
 directories
@@ -2633,7 +2632,6 @@ file-type
 file-type-association
 fileattributes
 fileencryption
-filelist
 filelog
 filelogger
 filemanagement
@@ -2845,6 +2843,7 @@ gamecategory:cards
 games
 gameserver
 gaming
+garage
 gas
 gat
 gateway
@@ -3418,6 +3417,7 @@ incidentresponse
 incontact
 indents
 index
+indexdb
 indicator
 inedo
 inetfwrule
@@ -3957,6 +3957,7 @@ log4net
 loganalytics
 logbook
 logcat
+logentry
 logfile
 logfilearchivearchive
 logfilemanagement psmodule
@@ -3992,8 +3993,10 @@ logonto
 logonuser
 logparser
 logrotate
+logrotation
 logs
 logstash
+logtools
 logz
 loki
 lol
@@ -4036,6 +4039,7 @@ machinelearning
 machinelearningcompute
 machinelearningmodels
 machinelearningservices
+macmon
 macos
 macosx
 macro
@@ -4276,6 +4280,7 @@ migrate
 migration
 migration-tool
 migrations
+mikrotik
 milestone
 mim
 mime
@@ -4481,7 +4486,7 @@ mysql-database
 mytest
 n-able
 n-central
-nabu
+nac
 nagios
 nakivo
 name
@@ -4845,7 +4850,6 @@ operationsmanagementsuiteagent
 operationvalidation
 operatoraccesscontrol
 opml
-ops
 opsi
 opsmgr
 optics
@@ -4867,7 +4871,6 @@ orchestrator
 order
 organization
 orgnetwork
-oriflame
 orion
 orleans
 orm
@@ -8844,7 +8847,6 @@ restore
 resume
 retail
 retention
-retro
 retry
 returnuserprofile
 retype
@@ -8918,6 +8920,7 @@ route
 route53
 routeconfig
 router
+routeros
 routes
 routetable
 routine
@@ -8927,7 +8930,6 @@ royaldocument
 royalserver
 royalts
 royaltsx
-rpa
 rpc
 rras
 rrd
@@ -9487,6 +9489,7 @@ soltra
 solution
 solutions
 sonarcloud
+sonarqube
 sonarr
 sonatype
 songs
@@ -10798,7 +10801,6 @@ win32_operatingsystem
 win32-api
 win32appmigrationtool
 win32shutdown
-winbgp
 windchillrv&s
 window
 windows
@@ -10837,6 +10839,7 @@ windowscredentials
 windowscredentialsmanager
 windowsdataprotectionapi
 windowsdefender
+windowsdesktopsearch
 windowsevent
 windowseventlog
 windowsform
