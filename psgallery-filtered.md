@@ -3,6 +3,38 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [Maester](https://www.powershellgallery.com/Packages/Maester/0.3.0) | 0.3.0
+
+### Published: 08/04/2024 22:25:32 by Maester Team
+
+Maester is an automation framework to assess and monitor your Microsoft 365 security configuration.
+
+__Downloads__: 32,241 | __Repository__: https://maester.dev/
+
+## [WindmillClient](https://www.powershellgallery.com/Packages/WindmillClient/1.374.0) | 1.374.0
+
+### Published: 08/04/2024 21:21:42 by Windmill Labs
+
+Client for the Windmill platform.
+
+__Downloads__: 428 | __Repository__: https://github.com/windmill-labs/windmill/tree/main/powershell-client
+
+## [M365FoundationsCISReport](https://www.powershellgallery.com/Packages/M365FoundationsCISReport/0.1.26) | 0.1.26
+
+### Published: 08/04/2024 20:49:47 by Douglas S. Rios (DrIOSx)
+
+Automated assessment of 50 CIS 365 Foundations v3.0.0 benchmark.
+
+__Downloads__: 134 | __Repository__: https://github.com/CriticalSolutionsNetwork/M365FoundationsCISReport
+
+## [EnhancedSchedTaskAO](https://www.powershellgallery.com/Packages/EnhancedSchedTaskAO/0.0.1) | 0.0.1
+
+### Published: 08/04/2024 20:36:14 by Abdullah Ollivierre
+
+EnhancedSchedTaskAO for PowerShell scripts.
+
+__Downloads__: 0 | __Repository__: 
+
 ## [Get-ChildItemColor](https://www.powershellgallery.com/Packages/Get-ChildItemColor/3.5.2) | 3.5.2
 
 ### Published: 08/04/2024 17:06:40 by Joon Ro
@@ -274,14 +306,6 @@ __Downloads__: 22,034 | __Repository__: https://github.com/HotCakeX/Harden-Windo
 Quandis Infrastructure Management, including publishing of qbo databases and websites.
 
 __Downloads__: 1,078 | __Repository__: https://dev.azure.com/quandis/qbo4/_git/qbo4.Infrastructure
-
-## [WindmillClient](https://www.powershellgallery.com/Packages/WindmillClient/1.373.1) | 1.373.1
-
-### Published: 08/02/2024 15:38:16 by Windmill Labs
-
-Client for the Windmill platform.
-
-__Downloads__: 428 | __Repository__: https://github.com/windmill-labs/windmill/tree/main/powershell-client
 
 ## [ibPS](https://www.powershellgallery.com/Packages/ibPS/1.9.8.2) | 1.9.8.2
 
@@ -2066,28 +2090,4 @@ This module checks for your fields in your Office 365 tenant to see if they meet
 
 __Downloads__: 20 | __Repository__: https://github.com/DevClate/365AutomatedCheck
 
-## [PhpManager](https://www.powershellgallery.com/Packages/PhpManager/1.31.1) | 1.31.1
-
-### Published: 07/29/2024 09:45:45 by Michele Locati
-
-A PowerShell module to install/update PHP, PHP extensions and Composer
-
-__Downloads__: 199,991 | __Repository__: https://github.com/mlocati/powershell-phpmanager
-
-## [Test-PowerPing](https://www.powershellgallery.com/Packages/Test-PowerPing/1.3.1.0) | 1.3.1.0
-
-### Published: 07/29/2024 01:17:27 by Hunter Hirsch
-
-Sends single pings (ICMP) asynchronously to devices to determine network accessibility. Returns simple ping results (Status,IPv4Address,DeviceName,Time) with status codes. Additional features: Address list generation, CIDR calculator, Range to CIDR conversion.
-
-__Downloads__: 100 | __Repository__: https://www.powershellgallery.com/packages/Test-PowerPing
-
-## [dbatools.ai](https://www.powershellgallery.com/Packages/dbatools.ai/1.1) | 1.1
-
-### Published: 07/28/2024 20:46:06 by Chrissy LeMaire
-
-dbatools.ai is a copilot for SQL Server databases
-
-__Downloads__: 34 | __Repository__: https://github.com/potatoqualitee/dbatools.ai
-
-*Updated: Sunday, 04 August 2024 17:51:42 UTC*
+*Updated: Monday, 05 August 2024 02:11:16 UTC*
