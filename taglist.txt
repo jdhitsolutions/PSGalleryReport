@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Tuesday, 06 August 2024 09:52:01 UTC
+Updated: Tuesday, 06 August 2024 17:51:57 UTC
 
 .bat
 .env
@@ -287,7 +287,6 @@ al
 alac
 alarm
 alb
-albums
 alc
 alero
 alert
@@ -917,6 +916,7 @@ blueteam
 bluetraitio
 bluetuxedo
 bmc
+bnm
 boards
 bofh
 boilerplate
@@ -1160,6 +1160,7 @@ chef-compliance
 chef-server
 chefconf2016
 chenxizhang
+cherrypy
 cherwell
 chfs
 chi
@@ -1396,6 +1397,7 @@ comments
 commerce
 commfort
 commit
+commits
 common
 common-data-service
 commondataservice
@@ -1428,6 +1430,7 @@ compute
 computecloudatcustomer
 computeinstanceagent
 computer
+computer-laboratory
 computer-site
 computername
 computers
@@ -1520,6 +1523,8 @@ control
 controller
 controlroom
 controlup
+conventional
+conventional-commits
 convereter
 converged_data_management
 conversational
@@ -2010,6 +2015,7 @@ disasterrecovery
 disconnect
 discord
 discordrpc
+discount
 discover
 discovery
 discutils
@@ -2068,6 +2074,7 @@ dns-over-https
 dns-resolver
 dnsbl
 dnsclient
+dnsdumpster
 dnsentry
 dnsimple
 dnslookup
@@ -2117,7 +2124,6 @@ domainnamesystem
 domains
 domino
 done.land
-donothing
 dos
 dot
 dotenv
@@ -2258,6 +2264,7 @@ easylife365
 easyvista
 eaton
 ebay
+ebooks
 ebur128
 ec2
 ecommerce
@@ -2509,6 +2516,7 @@ expand
 expand-string
 expand-tab
 expandframework
+expect
 experience
 experiments
 expiration
@@ -2777,6 +2785,8 @@ fqdn
 frame
 framework
 france
+free
+free-ware
 freeipa
 freenas
 freesoftwarefoundation
@@ -3209,7 +3219,6 @@ hkey_current_user
 hkey_local_machine
 hkey_users
 hklm
-hl7
 hlds
 hls
 hockey
@@ -4337,6 +4346,7 @@ moduleupdateinfo
 moduleupdater
 moduleversion
 mof
+moldova
 moment
 monaco
 monday
@@ -4421,6 +4431,9 @@ msproject
 msrc
 msrdc
 mssql
+mssqlbynarymodule
+mssqlbynarypsmodule
+mssqlmodule
 mssqlplugins
 mssqlserver
 msteams
@@ -4542,7 +4555,6 @@ netscaler
 netscape
 netsec
 netsh
-netspell
 netstat
 netsuite
 network
@@ -4623,6 +4635,8 @@ nntp
 node
 nodejs
 non-volatile
+none
+noneimages
 noninteractive
 noproxy
 nord
@@ -4840,7 +4854,6 @@ operationsmanagementsuiteagent
 operationvalidation
 operatoraccesscontrol
 opml
-ops
 opsi
 opsmgr
 optics
@@ -5136,7 +5149,6 @@ play
 playback
 playbook
 player
-playlists
 playwright
 pleasant
 pleasantpasswordserver
@@ -5312,7 +5324,6 @@ powersaving
 powerscheme
 powershell
 powershell_universal
-powershell-7
 powershell-class
 powershell-cmdlets
 powershell-core
@@ -8413,6 +8424,9 @@ psmodules
 psmp
 psmsgraph
 psmsgraphapi
+psmssql
+psmssqlbynarymodule
+psmssqlmodule
 psmvp
 psnavigation
 psnexosisclient
@@ -8449,6 +8463,9 @@ psslack
 pssqlite
 pssqlitebynarymodule
 pssqlitemodule
+pssqlserver
+pssqlserverbynarymodule
+pssqlservermodule
 psst
 psstgenerator
 pstablacus
@@ -8825,6 +8842,7 @@ resourcescheduler
 resourcesearch
 response
 rest
+rest_cherrypy
 rest-api
 restapi
 restart
@@ -8972,9 +8990,12 @@ safeguard
 sage
 saggiehaim
 sailpoint
+sale
 sales
 salesforce
 salesloft
+salt
+salt-api
 saltstack
 saltstackconfig
 saltstackenterprise
@@ -9444,6 +9465,7 @@ snmpset
 snmpv3
 snmpwalk
 snowflake
+snsmssqlpsmodule
 snspsadgroupmembers
 snspsscriptsmonitoring
 snssqlitepsmodule
@@ -9507,6 +9529,7 @@ spanner
 spark
 sparkline
 sparklines
+spawn
 spdockit
 spdx
 spdx-license-identifier:ms-pl
@@ -9528,7 +9551,6 @@ speedometer
 speedtest
 speedtester
 spejder
-spellcheck
 spelling
 spf
 spfx
@@ -9591,7 +9613,10 @@ sqlps
 sqlquery
 sqlserver
 sqlserveragent
+sqlserverbynarymodule
+sqlserverbynarypsmodule
 sqlserverclient
+sqlservermodule
 sqlvirtualmachine
 sqlvm
 sqr
@@ -10061,6 +10086,8 @@ titan
 title
 tld
 tls
+tls11
+tls12
 tlsa
 tlsprotocol
 tlsrpt
@@ -10257,7 +10284,6 @@ ud-mouseparticle
 ud-navbarsearch
 ud-numbermask
 ud-orgchart
-ud-piechart3d
 ud-pivottable
 ud-progressstepbar
 ud-rangeslider
@@ -10788,7 +10814,6 @@ windows  server
 windows explorer
 windows_events
 windows-10
-windows-11
 windows-api
 windows-control-panel
 windows-defender
@@ -10797,7 +10822,6 @@ windows-environment
 windows-explorer
 windows-features
 windows-firewall
-windows-lab
 windows-path
 windows-powershell
 windows-registry
