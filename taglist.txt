@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Tuesday, 06 August 2024 02:10:42 UTC
+Updated: Tuesday, 06 August 2024 09:52:01 UTC
 
 .bat
 .env
@@ -270,6 +270,7 @@ aimodels
 aip
 aiprompting
 aipscanner
+aircall
 airpower
 airpwr
 airtable
@@ -606,7 +607,9 @@ automatenow
 automaticpacketreportingsystem
 automation
 automation psmodule
+automationanywhere
 automationutils
+autopatching
 autopilot
 autoscaling
 autostart
@@ -914,7 +917,6 @@ blueteam
 bluetraitio
 bluetuxedo
 bmc
-bnm
 boards
 bofh
 boilerplate
@@ -1158,7 +1160,6 @@ chef-compliance
 chef-server
 chefconf2016
 chenxizhang
-cherrypy
 cherwell
 chfs
 chi
@@ -1339,6 +1340,7 @@ codecoverage
 codegen
 codegeneration
 codegenerator
+codellama
 codepoint
 codereview
 codes
@@ -1394,7 +1396,6 @@ comments
 commerce
 commfort
 commit
-commits
 common
 common-data-service
 commondataservice
@@ -1517,9 +1518,8 @@ continuousintegration
 contrast
 control
 controller
+controlroom
 controlup
-conventional
-conventional-commits
 convereter
 converged_data_management
 conversational
@@ -2010,7 +2010,6 @@ disasterrecovery
 disconnect
 discord
 discordrpc
-discount
 discover
 discovery
 discutils
@@ -2069,7 +2068,6 @@ dns-over-https
 dns-resolver
 dnsbl
 dnsclient
-dnsdumpster
 dnsentry
 dnsimple
 dnslookup
@@ -2119,6 +2117,7 @@ domainnamesystem
 domains
 domino
 done.land
+donothing
 dos
 dot
 dotenv
@@ -2259,7 +2258,6 @@ easylife365
 easyvista
 eaton
 ebay
-ebooks
 ebur128
 ec2
 ecommerce
@@ -2511,7 +2509,6 @@ expand
 expand-string
 expand-tab
 expandframework
-expect
 experience
 experiments
 expiration
@@ -2780,8 +2777,6 @@ fqdn
 frame
 framework
 france
-free
-free-ware
 freeipa
 freenas
 freesoftwarefoundation
@@ -2994,6 +2989,7 @@ google-chrome
 google-fonts
 google-histogram
 google-sankey
+google-table
 googleadsv2
 googlecloudplatform
 googledrive
@@ -3059,6 +3055,7 @@ grouvee
 growlnotify
 grr
 gsuite
+gtx1080ti
 guardedfabric
 guardicore
 gubbins
@@ -3120,6 +3117,7 @@ hartokens
 harvest
 harvestforecast
 hash
+hashcat
 hashicorp
 hashset
 hashtable
@@ -3733,6 +3731,7 @@ kidrsa
 kill
 kindle
 kinetic
+kinopoisk
 kintone
 klantcontroles
 kms
@@ -3743,6 +3742,7 @@ knowbe4
 knowledge
 knowledgebase
 koans
+kodi
 korn
 kotlin
 kql
@@ -3836,6 +3836,7 @@ legends
 lego
 lein
 leiningnen
+lemonai
 lenel
 length
 lenovo
@@ -4033,6 +4034,7 @@ machinelearning
 machinelearningcompute
 machinelearningmodels
 machinelearningservices
+macmon
 macos
 macosx
 macro
@@ -4335,7 +4337,6 @@ moduleupdateinfo
 moduleupdater
 moduleversion
 mof
-moldova
 moment
 monaco
 monday
@@ -4477,6 +4478,7 @@ mytest
 n-able
 n-central
 nabu
+nac
 nagios
 nakivo
 name
@@ -4621,8 +4623,6 @@ nntp
 node
 nodejs
 non-volatile
-none
-noneimages
 noninteractive
 noproxy
 nord
@@ -4758,6 +4758,7 @@ old
 older
 ole
 oledb
+ollama
 omaha
 ome
 omnisphere
@@ -4856,6 +4857,7 @@ oracle
 oraclecloudinfrastructure
 oraculum
 orbital
+orchestrate
 orchestration
 orchestrator
 order
@@ -8823,7 +8825,6 @@ resourcescheduler
 resourcesearch
 response
 rest
-rest_cherrypy
 rest-api
 restapi
 restart
@@ -8916,6 +8917,7 @@ royaldocument
 royalserver
 royalts
 royaltsx
+rpa
 rpc
 rras
 rrd
@@ -8932,6 +8934,7 @@ rubber
 rubrik
 rubriksecuritycloud
 ruby
+rulasg
 rule
 rulesengine
 run
@@ -8969,12 +8972,9 @@ safeguard
 sage
 saggiehaim
 sailpoint
-sale
 sales
 salesforce
 salesloft
-salt
-salt-api
 saltstack
 saltstackconfig
 saltstackenterprise
@@ -9507,7 +9507,6 @@ spanner
 spark
 sparkline
 sparklines
-spawn
 spdockit
 spdx
 spdx-license-identifier:ms-pl
@@ -9594,6 +9593,7 @@ sqlserver
 sqlserveragent
 sqlserverclient
 sqlvirtualmachine
+sqlvm
 sqr
 sqrt
 square
@@ -9963,6 +9963,7 @@ terrafun
 terragrunt
 tesla
 test
+test-automation
 test-dscconfiguration
 test-internetconnection
 test-modulemanifest
@@ -10060,8 +10061,6 @@ titan
 title
 tld
 tls
-tls11
-tls12
 tlsa
 tlsprotocol
 tlsrpt
@@ -10155,6 +10154,7 @@ trendmicro
 trevor
 trevorsullivan
 triangle
+tribeloo
 trick
 tricks
 trigger
@@ -10571,6 +10571,7 @@ voice
 voiceservices
 voidtools
 volkskrant
+volta
 volume
 volumeshadowcopy
 volumio

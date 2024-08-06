@@ -3,6 +3,46 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [SentinelARConverter](https://www.powershellgallery.com/Packages/SentinelARConverter/2.4.2) | 2.4.2
+
+### Published: 08/06/2024 09:15:26 by Fabian Bader
+
+Helper module to convert Sentinel Analytics Rules between YAML, ARM and back
+
+__Downloads__: 132,955 | __Repository__: https://github.com/f-bader/SentinelARConverter
+
+## [UiPathOrch](https://www.powershellgallery.com/Packages/UiPathOrch/0.9.5.16) | 0.9.5.16
+
+### Published: 08/06/2024 06:04:15 by Yoshifumi Tsuda
+
+A PowerShell provider for managing UiPath Orchestrator entities via cmdlets.
+
+__Downloads__: 638 | __Repository__: 
+
+## [Freer.Scaffold](https://www.powershellgallery.com/Packages/Freer.Scaffold/0.0.1) | 0.0.1
+
+### Published: 08/06/2024 03:30:40 by David Freer
+
+Scaffold is project/directory orchestration utility for creating similiar/frequently created folder & file layouts
+
+__Downloads__: 0 | __Repository__: https://github.com/soulshined/workflow/tree/master/powershell/Modules/Freer.Scaffold
+
+## [linuxtools](https://www.powershellgallery.com/Packages/linuxtools/1.0.1) | 1.0.1
+
+### Published: 08/06/2024 03:23:03 by skatterbrainz
+
+An experimental PowerShell thing for Linux nerds. Laugh if you want. I have my earbuds on full volume.
+
+__Downloads__: 0 | __Repository__: https://github.com/Skatterbrainz/LinuxTools
+
+## [OSDPShell](https://www.powershellgallery.com/Packages/OSDPShell/0.0.2) | 0.0.2
+
+### Published: 08/06/2024 02:55:14 by Jonathan Horvath
+
+Connect to OSDP devices using PowerShell
+
+__Downloads__: 14 | __Repository__: 
+
 ## [ADOPS](https://www.powershellgallery.com/Packages/ADOPS/2.3.0) | 2.3.0
 
 ### Published: 08/05/2024 20:12:40 by the PwrOps collective
@@ -78,19 +118,19 @@ All commands in this module support the `-help` option for detailed assistance i
 
 __Downloads__: 1,601 | __Repository__: https://github.com/steve02081504/ps12exe
 
-## [EnhancedWin32DeployerAO](https://www.powershellgallery.com/Packages/EnhancedWin32DeployerAO/0.0.1) | 0.0.1
-
-### Published: 08/05/2024 15:46:33 by Abdullah Ollivierre
-
-EnhancedWin32DeployerAO for PowerShell scripts.
-
-__Downloads__: 0 | __Repository__: 
-
 ## [EnhancedVPNAO](https://www.powershellgallery.com/Packages/EnhancedVPNAO/0.0.1) | 0.0.1
 
 ### Published: 08/05/2024 15:46:33 by Abdullah Ollivierre
 
 EnhancedVPNAO for PowerShell scripts.
+
+__Downloads__: 0 | __Repository__: 
+
+## [EnhancedWin32DeployerAO](https://www.powershellgallery.com/Packages/EnhancedWin32DeployerAO/0.0.1) | 0.0.1
+
+### Published: 08/05/2024 15:46:33 by Abdullah Ollivierre
+
+EnhancedWin32DeployerAO for PowerShell scripts.
 
 __Downloads__: 0 | __Repository__: 
 
@@ -118,6 +158,30 @@ EnhancedHyperVAO for PowerShell scripts.
 
 __Downloads__: 0 | __Repository__: 
 
+## [EnhancedGraphAO](https://www.powershellgallery.com/Packages/EnhancedGraphAO/0.0.1) | 0.0.1
+
+### Published: 08/05/2024 15:46:28 by Abdullah Ollivierre
+
+EnhancedGraphAO for PowerShell scripts.
+
+__Downloads__: 0 | __Repository__: 
+
+## [EnhancedDeviceMigrationAO](https://www.powershellgallery.com/Packages/EnhancedDeviceMigrationAO/0.0.1) | 0.0.1
+
+### Published: 08/05/2024 15:46:27 by Abdullah Ollivierre
+
+EnhancedDeviceMigrationAO for PowerShell scripts.
+
+__Downloads__: 0 | __Repository__: 
+
+## [EnhancedAO.Graph.SignInLogs](https://www.powershellgallery.com/Packages/EnhancedAO.Graph.SignInLogs/0.0.1) | 0.0.1
+
+### Published: 08/05/2024 15:46:24 by Abdullah Ollivierre
+
+EnhancedAO.Graph.SignInLogs for PowerShell scripts.
+
+__Downloads__: 0 | __Repository__: 
+
 ## [DTX.Cloud.Management](https://www.powershellgallery.com/Packages/DTX.Cloud.Management/1.16.3) | 1.16.3
 
 ### Published: 08/05/2024 15:24:45 by Platform Operations Team
@@ -125,6 +189,14 @@ __Downloads__: 0 | __Repository__:
 Dotmatics cloud automation tool.
 
 __Downloads__: 11,749 | __Repository__: 
+
+## [PS.Reporting](https://www.powershellgallery.com/Packages/PS.Reporting/1.2) | 1.2
+
+### Published: 08/05/2024 15:16:52 by Nutstone
+
+Reporting Using HTM/CSV/EXCEL
+
+__Downloads__: 0 | __Repository__: 
 
 ## [PSTcpIp](https://www.powershellgallery.com/Packages/PSTcpIp/5.14.0) | 5.14.0
 
@@ -228,14 +300,6 @@ Contains a set of resuable PowerShell functions for working with Azure Resource 
 
 __Downloads__: 3,881 | __Repository__: 
 
-## [UiPathOrch](https://www.powershellgallery.com/Packages/UiPathOrch/0.9.5.14) | 0.9.5.14
-
-### Published: 08/05/2024 03:13:56 by Yoshifumi Tsuda
-
-A PowerShell provider for managing UiPath Orchestrator entities via cmdlets.
-
-__Downloads__: 638 | __Repository__: 
-
 ## [Maester](https://www.powershellgallery.com/Packages/Maester/0.3.0) | 0.3.0
 
 ### Published: 08/04/2024 22:25:32 by Maester Team
@@ -316,6 +380,22 @@ __Downloads__: 13 | __Repository__: https://github.com/nightroman/FarNet.Statele
 A collection of scripts to extend the funtionality of the Direct Routing Cmdlets
 
 __Downloads__: 0 | __Repository__: https://github.com/shanehoey/TeamsTools/
+
+## [TeamsTools](https://www.powershellgallery.com/Packages/TeamsTools/1.0.0) | 1.0.0
+
+### Published: 08/04/2024 03:46:03 by Shane Hoey
+
+A collection of scripts to extend the funtionality of the Direct Routing Cmdlets
+
+__Downloads__: 0 | __Repository__: https://github.com/shanehoey/TeamsTools/
+
+## [EnhancedLoggingAO](https://www.powershellgallery.com/Packages/EnhancedLoggingAO/0.0.1) | 0.0.1
+
+### Published: 08/04/2024 01:25:58 by Abdullah Ollivierre
+
+Enhanced logging module for PowerShell scripts.
+
+__Downloads__: 0 | __Repository__: 
 
 ## [PokeAPI](https://www.powershellgallery.com/Packages/PokeAPI/1.1.0) | 1.1.0
 
@@ -579,14 +659,6 @@ Permite usar Inteligência Artificial direto do PowerShell
 
 __Downloads__: 70 | __Repository__: 
 
-## [linuxtools](https://www.powershellgallery.com/Packages/linuxtools/1.0.0) | 1.0.0
-
-### Published: 08/02/2024 04:10:34 by skatterbrainz
-
-An experimental PowerShell thing for Linux nerds. Laugh if you want. I have my earbuds on full volume.
-
-__Downloads__: 0 | __Repository__: https://github.com/Skatterbrainz/LinuxTools
-
 ## [M365DSC.CompositeResources](https://www.powershellgallery.com/Packages/M365DSC.CompositeResources/1.24.731.100) | 1.24.731.100
 
 ### Published: 08/02/2024 01:21:22 by Yorick Kuijs
@@ -669,6 +741,14 @@ __Downloads__: 22 | __Repository__:
 Helper module for Infoblox.
 
 __Downloads__: 207 | __Repository__: https://github.com/EvotecIT/PowerInfoblox
+
+## [TeamsPhoneNumberManagement](https://www.powershellgallery.com/Packages/TeamsPhoneNumberManagement/1.1.2) | 1.1.2
+
+### Published: 08/01/2024 11:35:42 by Jamy Klotzsche
+
+Custom module to manage Teams phone numbers. This module is used as part of the TeamsPhoneNumberManagement solution and provides the needed functions for the API based on an Azure Function App. This API has CRUD capabilities with database, which contains information about configured countries, departments, forbidden numbers (e.g. emergency telephone numbers), extension / phone ranges and already used phone numbers. The already used phone numbers include phone numbers used by Teams users as well as blocked phone numbers for certain devices.
+
+__Downloads__: 0 | __Repository__: https://github.com/jklotzsche-msft/TeamsPhoneNumberManagement
 
 ## [HaloAPI](https://www.powershellgallery.com/Packages/HaloAPI/1.22.1) | 1.22.1
 
@@ -2062,84 +2142,4 @@ This module provides classes for Eye-Candy in the console.
 
 __Downloads__: 4,536 | __Repository__: https://github.com/Yves848/psCandy/tree/master
 
-## [AdminToolbox](https://www.powershellgallery.com/Packages/AdminToolbox/11.0.171) | 11.0.171
-
-### Published: 07/30/2024 14:05:32 by Taylor Lee
-
-Master module for a collection of modules. These modules are varied in their tasks. The overall purpose of them being to provide a powerfull Toolset to improve IT Admin workflows.
-
-__Downloads__: 59,588 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox
-
-## [AdminToolbox.FortiWizard](https://www.powershellgallery.com/Packages/AdminToolbox.FortiWizard/2.19.19) | 2.19.19
-
-### Published: 07/30/2024 14:05:11 by Taylor Lee
-
-Functions that generate configuration scripts and manage FortiOS.
-
-__Downloads__: 39,303 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-## [AdminToolbox.VMWareAutomate](https://www.powershellgallery.com/Packages/AdminToolbox.VMWareAutomate/4.8.160) | 4.8.160
-
-### Published: 07/30/2024 14:04:03 by Taylor Lee
-
-Functions to Automate Bulk VMWare Tasks
-
-__Downloads__: 46,308 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-## [AdminToolbox.Remoting](https://www.powershellgallery.com/Packages/AdminToolbox.Remoting/1.9.163) | 1.9.163
-
-### Published: 07/30/2024 14:03:56 by Taylor Lee
-
-Functions for remote management and access.
-
-__Downloads__: 45,801 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-## [AdminToolbox.Office365](https://www.powershellgallery.com/Packages/AdminToolbox.Office365/4.0.23) | 4.0.23
-
-### Published: 07/30/2024 14:03:50 by Taylor Lee
-
-Functions for working with Office365 and Azure modules
-
-__Downloads__: 49,273 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-## [AdminToolbox.Networking](https://www.powershellgallery.com/Packages/AdminToolbox.Networking/2.20.4) | 2.20.4
-
-### Published: 07/30/2024 14:03:45 by Taylor Lee
-
-Network Troubleshooting Functions
-
-__Downloads__: 131,265 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-## [AdminToolbox.MSGraph](https://www.powershellgallery.com/Packages/AdminToolbox.MSGraph/1.3.17) | 1.3.17
-
-### Published: 07/30/2024 14:03:39 by Taylor Lee
-
-Microsoft Graph interactive API Functions
-
-__Downloads__: 36,111 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-## [AdminToolbox.Fun](https://www.powershellgallery.com/Packages/AdminToolbox.Fun/1.6.164) | 1.6.164
-
-### Published: 07/30/2024 14:03:34 by Taylor Lee
-
-Functions that have no purpose
-
-__Downloads__: 46,651 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-## [AdminToolbox.FileManagement](https://www.powershellgallery.com/Packages/AdminToolbox.FileManagement/1.16.155) | 1.16.155
-
-### Published: 07/30/2024 14:03:30 by Taylor Lee
-
-File Management Functions
-
-__Downloads__: 47,111 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-## [AdminToolbox.FFTools](https://www.powershellgallery.com/Packages/AdminToolbox.FFTools/4.16.113) | 4.16.113
-
-### Published: 07/30/2024 14:03:24 by Taylor Lee
-
-Expedite simple ffmpeg actions
-
-__Downloads__: 47,068 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-*Updated: Tuesday, 06 August 2024 02:10:34 UTC*
+*Updated: Tuesday, 06 August 2024 09:51:53 UTC*
