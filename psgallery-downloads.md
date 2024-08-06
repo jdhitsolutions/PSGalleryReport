@@ -39,9 +39,9 @@ PackageManagement (a.k.a. OneGet) is a new way to discover and install software 
 
 __Downloads__: 416,756,395 | __Repository__: https://oneget.org/
 
-## [Az.Accounts](https://www.powershellgallery.com/Packages/Az.Accounts/3.0.2) | 3.0.2
+## [Az.Accounts](https://www.powershellgallery.com/Packages/Az.Accounts/3.0.3) | 3.0.3
 
-### Published: 07/12/2024 14:46:02 by Microsoft Corporation
+### Published: 08/06/2024 01:15:40 by Microsoft Corporation
 
 Microsoft Azure PowerShell - Accounts credential management cmdlets for Azure Resource Manager in Windows PowerShell and PowerShell Core.
 
@@ -65,9 +65,9 @@ Microsoft Azure PowerShell - Profile credential management cmdlets for Azure Res
 
 __Downloads__: 132,382,751 | __Repository__: https://github.com/Azure/azure-powershell
 
-## [Az.Storage](https://www.powershellgallery.com/Packages/Az.Storage/7.1.0) | 7.1.0
+## [Az.Storage](https://www.powershellgallery.com/Packages/Az.Storage/7.2.0) | 7.2.0
 
-### Published: 07/09/2024 01:46:32 by Microsoft Corporation
+### Published: 08/06/2024 01:15:44 by Microsoft Corporation
 
 Microsoft Azure PowerShell - Storage service data plane and management cmdlets for Azure Resource Manager in Windows PowerShell and PowerShell Core.  Creates and manages storage accounts in Azure Resource Manager.
 
@@ -75,9 +75,9 @@ For more information on Storage, please visit the following: https://learn.micro
 
 __Downloads__: 127,003,452 | __Repository__: https://github.com/Azure/azure-powershell
 
-## [Az.Resources](https://www.powershellgallery.com/Packages/Az.Resources/7.2.0) | 7.2.0
+## [Az.Resources](https://www.powershellgallery.com/Packages/Az.Resources/7.3.0) | 7.3.0
 
-### Published: 07/09/2024 01:53:10 by Microsoft Corporation
+### Published: 08/06/2024 01:23:10 by Microsoft Corporation
 
 Microsoft Azure PowerShell - Azure Resource Manager and Active Directory cmdlets in Windows PowerShell and PowerShell Core.  Manages subscriptions, tenants, resource groups, deployment templates, providers, and resource permissions in Azure Resource Manager.  Provides cmdlets for managing resources generically across resource providers.
 For more information on Resource Manager, please visit the following: https://learn.microsoft.com/azure/azure-resource-manager/
@@ -95,9 +95,9 @@ For more information on Key Vault, please visit the following: https://learn.mic
 
 __Downloads__: 108,942,570 | __Repository__: https://github.com/Azure/azure-powershell
 
-## [Az.Compute](https://www.powershellgallery.com/Packages/Az.Compute/8.1.0) | 8.1.0
+## [Az.Compute](https://www.powershellgallery.com/Packages/Az.Compute/8.2.0) | 8.2.0
 
-### Published: 07/09/2024 01:47:56 by Microsoft Corporation
+### Published: 08/06/2024 01:17:23 by Microsoft Corporation
 
 Microsoft Azure PowerShell - Compute service cmdlets for Azure Resource Manager in Windows PowerShell and PowerShell Core.  Manages virtual machines, hosted services, and related resources in Azure Resource Manager.
 
@@ -200,17 +200,17 @@ For information on Batch, please visit the following: https://learn.microsoft.co
 
 __Downloads__: 85,328,660 | __Repository__: https://github.com/Azure/azure-powershell
 
-## [Az.Cdn](https://www.powershellgallery.com/Packages/Az.Cdn/3.2.0) | 3.2.0
+## [Az.Cdn](https://www.powershellgallery.com/Packages/Az.Cdn/3.2.1) | 3.2.1
 
-### Published: 04/30/2024 02:21:58 by Microsoft Corporation
+### Published: 08/06/2024 01:16:56 by Microsoft Corporation
 
 Microsoft Azure PowerShell: Cdn cmdlets
 
 __Downloads__: 85,279,963 | __Repository__: https://github.com/Azure/azure-powershell
 
-## [Az.DataFactory](https://www.powershellgallery.com/Packages/Az.DataFactory/1.18.5) | 1.18.5
+## [Az.DataFactory](https://www.powershellgallery.com/Packages/Az.DataFactory/1.18.6) | 1.18.6
 
-### Published: 07/09/2024 01:48:46 by Microsoft Corporation
+### Published: 08/06/2024 01:18:18 by Microsoft Corporation
 
 Microsoft Azure PowerShell - Data Factory service cmdlets for Azure Resource Manager in Windows PowerShell and PowerShell Core.
 
@@ -246,9 +246,9 @@ For more information on Cognitive Services, please visit the following: https://
 
 __Downloads__: 84,388,000 | __Repository__: https://github.com/Azure/azure-powershell
 
-## [Az.Sql](https://www.powershellgallery.com/Packages/Az.Sql/5.1.0) | 5.1.0
+## [Az.Sql](https://www.powershellgallery.com/Packages/Az.Sql/5.2.0) | 5.2.0
 
-### Published: 07/09/2024 01:53:41 by Microsoft Corporation
+### Published: 08/06/2024 01:23:42 by Microsoft Corporation
 
 Microsoft Azure PowerShell - SQL service cmdlets for Azure Resource Manager in Windows PowerShell and PowerShell Core.
 
@@ -419,9 +419,9 @@ For more information on Site Recovery, please visit the following: https://learn
 
 __Downloads__: 81,929,717 | __Repository__: https://github.com/Azure/azure-powershell
 
-## [Az.RedisCache](https://www.powershellgallery.com/Packages/Az.RedisCache/1.9.1) | 1.9.1
+## [Az.RedisCache](https://www.powershellgallery.com/Packages/Az.RedisCache/1.10.0) | 1.10.0
 
-### Published: 05/07/2024 08:32:00 by Microsoft Corporation
+### Published: 08/06/2024 01:22:54 by Microsoft Corporation
 
 Microsoft Azure PowerShell - Redis Cache service cmdlets for Azure Resource Manager in Windows PowerShell and PowerShell Core.
 
@@ -515,9 +515,9 @@ For more information on Power BI Embedded, please visit the following: https://l
 
 __Downloads__: 81,236,373 | __Repository__: https://github.com/Azure/azure-powershell
 
-## [Az](https://www.powershellgallery.com/Packages/Az/12.1.0) | 12.1.0
+## [Az](https://www.powershellgallery.com/Packages/Az/12.2.0) | 12.2.0
 
-### Published: 07/09/2024 02:18:37 by Microsoft Corporation
+### Published: 08/06/2024 01:24:43 by Microsoft Corporation
 
 Microsoft Azure PowerShell - Cmdlets to manage resources in Azure. This module is compatible with PowerShell and Windows PowerShell.
 For more information about the Az module, please visit the following: https://learn.microsoft.com/powershell/azure/
@@ -550,9 +550,9 @@ Microsoft Azure PowerShell: ManagedServices cmdlets
 
 __Downloads__: 80,291,084 | __Repository__: https://github.com/Azure/azure-powershell
 
-## [Az.StorageSync](https://www.powershellgallery.com/Packages/Az.StorageSync/2.2.0) | 2.2.0
+## [Az.StorageSync](https://www.powershellgallery.com/Packages/Az.StorageSync/2.3.0) | 2.3.0
 
-### Published: 07/11/2024 01:53:13 by Microsoft Corporation
+### Published: 08/06/2024 01:24:08 by Microsoft Corporation
 
 Microsoft Azure PowerShell - Storage Sync cmdlets in Windows PowerShell and PowerShell Core. Manages operations pertaining to Azure File Sync in PowerShell.
 
@@ -663,9 +663,9 @@ Microsoft Azure PowerShell - DataShare service cmdlets for Azure Resource Manage
 
 __Downloads__: 74,016,511 | __Repository__: https://github.com/Azure/azure-powershell
 
-## [Az.Databricks](https://www.powershellgallery.com/Packages/Az.Databricks/1.8.0) | 1.8.0
+## [Az.Databricks](https://www.powershellgallery.com/Packages/Az.Databricks/1.8.1) | 1.8.1
 
-### Published: 07/09/2024 01:48:41 by Microsoft Corporation
+### Published: 08/06/2024 01:18:12 by Microsoft Corporation
 
 Microsoft Azure PowerShell: Databricks cmdlets
 
@@ -707,9 +707,9 @@ Microsoft Azure PowerShell: AppConfiguration cmdlets
 
 __Downloads__: 67,217,509 | __Repository__: https://github.com/Azure/azure-powershell
 
-## [AWS.Tools.Common](https://www.powershellgallery.com/Packages/AWS.Tools.Common/4.1.627) | 4.1.627
+## [AWS.Tools.Common](https://www.powershellgallery.com/Packages/AWS.Tools.Common/4.1.628) | 4.1.628
 
-### Published: 08/02/2024 22:37:38 by Amazon.com Inc
+### Published: 08/05/2024 22:33:16 by Amazon.com Inc
 
 The AWS Tools for PowerShell lets developers and administrators manage their AWS services from the PowerShell scripting environment. In order to manage each AWS service, install the corresponding module (e.g. AWS.Tools.EC2, AWS.Tools.S3...).
 The module AWS.Tools.Installer (https://www.powershellgallery.com/packages/AWS.Tools.Installer/) makes it easier to install, update and uninstall the AWS.Tools modules.
@@ -838,9 +838,9 @@ For more information on Azure Synapse Analytics, please visit the following: htt
 
 __Downloads__: 48,636,999 | __Repository__: https://github.com/Azure/azure-powershell
 
-## [Az.StackHCI](https://www.powershellgallery.com/Packages/Az.StackHCI/2.3.2) | 2.3.2
+## [Az.StackHCI](https://www.powershellgallery.com/Packages/Az.StackHCI/2.4.0) | 2.4.0
 
-### Published: 04/30/2024 02:27:13 by Microsoft Corporation
+### Published: 08/06/2024 01:23:51 by Microsoft Corporation
 
 Microsoft Azure PowerShell: StackHci cmdlets
 
@@ -955,9 +955,9 @@ Microsoft Azure PowerShell: DataProtection cmdlets
 
 __Downloads__: 33,292,058 | __Repository__: https://github.com/Azure/azure-powershell
 
-## [AWS.Tools.CloudWatch](https://www.powershellgallery.com/Packages/AWS.Tools.CloudWatch/4.1.627) | 4.1.627
+## [AWS.Tools.CloudWatch](https://www.powershellgallery.com/Packages/AWS.Tools.CloudWatch/4.1.628) | 4.1.628
 
-### Published: 08/02/2024 22:45:47 by Amazon.com Inc
+### Published: 08/05/2024 22:40:54 by Amazon.com Inc
 
 The CloudWatch module of AWS Tools for PowerShell lets developers and administrators manage Amazon CloudWatch from the PowerShell scripting environment. In order to manage each AWS service, install the corresponding module (e.g. AWS.Tools.EC2, AWS.Tools.S3...).
 The module AWS.Tools.Installer (https://www.powershellgallery.com/packages/AWS.Tools.Installer/) makes it easier to install, update and uninstall the AWS.Tools modules.
@@ -1421,9 +1421,9 @@ This module includes DSC resources that simplify administration of certificates 
 
 __Downloads__: 25,753,470 | __Repository__: https://github.com/PowerShell/xCertificate
 
-## [AWSPowerShell](https://www.powershellgallery.com/Packages/AWSPowerShell/4.1.627) | 4.1.627
+## [AWSPowerShell](https://www.powershellgallery.com/Packages/AWSPowerShell/4.1.628) | 4.1.628
 
-### Published: 08/02/2024 22:37:01 by Amazon.com Inc
+### Published: 08/05/2024 22:32:43 by Amazon.com Inc
 
 The AWS Tools for Windows PowerShell lets developers and administrators manage their AWS services from the Windows PowerShell scripting environment.
 This version of AWS Tools for Windows PowerShell is compatible with Windows PowerShell 2-5.1. An alternative module, AWSPowerShell.NetCore, provides support for Windows PowerShell 3+ and PowerShell Core 6+ on Windows, Linux and macOS.
@@ -1496,9 +1496,9 @@ Microsoft Azure PowerShell - Azure SignalR service commands
 
 __Downloads__: 23,998,315 | __Repository__: https://github.com/Azure/azure-powershell
 
-## [Az.MachineLearningServices](https://www.powershellgallery.com/Packages/Az.MachineLearningServices/1.0.1) | 1.0.1
+## [Az.MachineLearningServices](https://www.powershellgallery.com/Packages/Az.MachineLearningServices/1.1.0) | 1.1.0
 
-### Published: 05/21/2024 02:18:48 by Microsoft Corporation
+### Published: 08/06/2024 01:20:46 by Microsoft Corporation
 
 Microsoft Azure PowerShell: MachineLearningServices cmdlets
 
@@ -1741,9 +1741,9 @@ Microsoft Azure PowerShell: ElasticSan cmdlets
 
 __Downloads__: 11,645,792 | __Repository__: https://github.com/Azure/azure-powershell
 
-## [Az.Nginx](https://www.powershellgallery.com/Packages/Az.Nginx/1.0.1) | 1.0.1
+## [Az.Nginx](https://www.powershellgallery.com/Packages/Az.Nginx/1.1.0) | 1.1.0
 
-### Published: 04/30/2024 02:25:46 by Microsoft Corporation
+### Published: 08/06/2024 01:21:58 by Microsoft Corporation
 
 Microsoft Azure PowerShell: Nginx cmdlets
 
@@ -1944,9 +1944,9 @@ A PowerShell Crescendo wrapper for Chocolatey
 
 __Downloads__: 9,616,204 | __Repository__: https://github.com/ethanbergstrom/Foil
 
-## [AWS.Tools.S3](https://www.powershellgallery.com/Packages/AWS.Tools.S3/4.1.627) | 4.1.627
+## [AWS.Tools.S3](https://www.powershellgallery.com/Packages/AWS.Tools.S3/4.1.628) | 4.1.628
 
-### Published: 08/02/2024 23:21:52 by Amazon.com Inc
+### Published: 08/05/2024 23:04:41 by Amazon.com Inc
 
 The S3 module of AWS Tools for PowerShell lets developers and administrators manage Amazon Simple Storage Service (S3) from the PowerShell scripting environment. In order to manage each AWS service, install the corresponding module (e.g. AWS.Tools.EC2, AWS.Tools.S3...).
 The module AWS.Tools.Installer (https://www.powershellgallery.com/packages/AWS.Tools.Installer/) makes it easier to install, update and uninstall the AWS.Tools modules.
@@ -1980,9 +1980,9 @@ Microsoft Graph PowerShell Cmdlets
 
 __Downloads__: 9,174,654 | __Repository__: https://github.com/microsoftgraph/msgraph-sdk-powershell
 
-## [AWSPowerShell.NetCore](https://www.powershellgallery.com/Packages/AWSPowerShell.NetCore/4.1.627) | 4.1.627
+## [AWSPowerShell.NetCore](https://www.powershellgallery.com/Packages/AWSPowerShell.NetCore/4.1.628) | 4.1.628
 
-### Published: 08/02/2024 22:37:31 by Amazon.com Inc
+### Published: 08/05/2024 22:33:10 by Amazon.com Inc
 
 The AWS Tools for PowerShell lets developers and administrators manage their AWS services from the PowerShell scripting environment.
 This version of AWS Tools for PowerShell is compatible with Windows PowerShell 3+ and PowerShell Core 6+ on Windows, Linux and macOS. When running on Windows PowerShell, .NET Framework 4.7.2 or newer is required. An alternative module, AWSPowerShell, provides support for older versions of Windows PowerShell and .NET Framework.
@@ -2192,4 +2192,4 @@ Microsoft Graph PowerShell Cmdlets
 
 __Downloads__: 7,116,595 | __Repository__: https://github.com/microsoftgraph/msgraph-sdk-powershell
 
-*Updated: Monday, 05 August 2024 17:51:50 UTC*
+*Updated: Tuesday, 06 August 2024 02:10:37 UTC*

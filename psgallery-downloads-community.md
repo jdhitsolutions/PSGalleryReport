@@ -2138,4 +2138,4 @@ Helper functions for PowerShell CI/CD scenarios.
 
 __Downloads__: 602,464 | __Repository__: https://github.com/RamblingCookieMonster/BuildHelpers/
 
-*Updated: Monday, 05 August 2024 17:51:52 UTC*
+*Updated: Tuesday, 06 August 2024 02:10:39 UTC*
