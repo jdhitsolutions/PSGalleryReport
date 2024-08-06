@@ -3,6 +3,68 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [ADOPS](https://www.powershellgallery.com/Packages/ADOPS/2.3.0) | 2.3.0
+
+### Published: 08/05/2024 20:12:40 by the PwrOps collective
+
+Manage Azure DevOps using PowerShell
+
+__Downloads__: 923 | __Repository__: https://github.com/AZDOPS/AZDOPS/
+
+## [WDACConfig](https://www.powershellgallery.com/Packages/WDACConfig/0.4.3) | 0.4.3
+
+### Published: 08/05/2024 18:33:40 by HotCakeX
+
+This is an advanced PowerShell module for WDAC (Windows Defender Application Control) and automates a lot of tasks.
+
+
+🟢 Please see the GitHub page for Full details and everything about the module: https://github.com/HotCakeX/Harden-Windows-Security/wiki/WDACConfig
+
+
+🛡️ Here is the list of module's cmdlets
+
+✔️ New-WDACConfig: https://github.com/HotCakeX/Harden-Windows-Security/wiki/New-WDACConfig
+
+✔️ New-SupplementalWDACConfig: https://github.com/HotCakeX/Harden-Windows-Security/wiki/New-SupplementalWDACConfig
+
+✔️ Remove-WDACConfig: https://github.com/HotCakeX/Harden-Windows-Security/wiki/Remove-WDACConfig
+
+✔️ Edit-WDACConfig: https://github.com/HotCakeX/Harden-Windows-Security/wiki/Edit-WDACConfig
+
+✔️ Edit-SignedWDACConfig: https://github.com/HotCakeX/Harden-Windows-Security/wiki/Edit-SignedWDACConfig
+
+✔️ Deploy-SignedWDACConfig: https://github.com/HotCakeX/Harden-Windows-Security/wiki/Deploy-SignedWDACConfig
+
+✔️ Confirm-WDACConfig: https://github.com/HotCakeX/Harden-Windows-Security/wiki/Confirm-WDACConfig
+
+✔️ New-DenyWDACConfig: https://github.com/HotCakeX/Harden-Windows-Security/wiki/New-DenyWDACConfig
+
+✔️ Set-CommonWDACConfig: https://github.com/HotCakeX/Harden-Windows-Security/wiki/Set-CommonWDACConfig
+
+✔️ New-KernelModeWDACConfig: https://github.com/HotCakeX/Harden-Windows-Security/wiki/New%E2%80%90KernelModeWDACConfig
+
+✔️ Get-CommonWDACConfig: https://github.com/HotCakeX/Harden-Windows-Security/wiki/Get-CommonWDACConfig
+
+✔️ Invoke-WDACSimulation: https://github.com/HotCakeX/Harden-Windows-Security/wiki/Invoke-WDACSimulation
+
+✔️ Remove-CommonWDACConfig: https://github.com/HotCakeX/Harden-Windows-Security/wiki/Remove-CommonWDACConfig
+
+✔️ Assert-WDACConfigIntegrity: https://github.com/HotCakeX/Harden-Windows-Security/wiki/Assert-WDACConfigIntegrity
+
+✔️ Build-WDACCertificate: https://github.com/HotCakeX/Harden-Windows-Security/wiki/Build-WDACCertificate
+
+✔️ Test-CiPolicy: https://github.com/HotCakeX/Harden-Windows-Security/wiki/Test-CiPolicy
+
+✔️ ConvertTo-WDACPolicy: https://github.com/HotCakeX/Harden-Windows-Security/wiki/ConvertTo-WDACPolicy
+
+✔️ Get-CiFileHashes: https://github.com/HotCakeX/Harden-Windows-Security/wiki/Get-CiFileHashes
+
+✔️ Set-CiRuleOptions: https://github.com/HotCakeX/Harden-Windows-Security/wiki/Set-CiRuleOptions
+
+✔️ Get-CIPolicySetting: https://github.com/HotCakeX/Harden-Windows-Security/wiki/Get-CIPolicySetting
+
+__Downloads__: 4,219 | __Repository__: https://github.com/HotCakeX/Harden-Windows-Security/wiki/WDACConfig
+
 ## [ps12exe](https://www.powershellgallery.com/Packages/ps12exe/0.4.3) | 0.4.3
 
 ### Published: 08/05/2024 17:17:32 by steve02081504
@@ -21,6 +83,14 @@ __Downloads__: 1,601 | __Repository__: https://github.com/steve02081504/ps12exe
 ### Published: 08/05/2024 15:46:33 by Abdullah Ollivierre
 
 EnhancedWin32DeployerAO for PowerShell scripts.
+
+__Downloads__: 0 | __Repository__: 
+
+## [EnhancedVPNAO](https://www.powershellgallery.com/Packages/EnhancedVPNAO/0.0.1) | 0.0.1
+
+### Published: 08/05/2024 15:46:33 by Abdullah Ollivierre
+
+EnhancedVPNAO for PowerShell scripts.
 
 __Downloads__: 0 | __Repository__: 
 
@@ -48,30 +118,6 @@ EnhancedHyperVAO for PowerShell scripts.
 
 __Downloads__: 0 | __Repository__: 
 
-## [EnhancedGraphAO](https://www.powershellgallery.com/Packages/EnhancedGraphAO/0.0.1) | 0.0.1
-
-### Published: 08/05/2024 15:46:28 by Abdullah Ollivierre
-
-EnhancedGraphAO for PowerShell scripts.
-
-__Downloads__: 0 | __Repository__: 
-
-## [EnhancedDeviceMigrationAO](https://www.powershellgallery.com/Packages/EnhancedDeviceMigrationAO/0.0.1) | 0.0.1
-
-### Published: 08/05/2024 15:46:27 by Abdullah Ollivierre
-
-EnhancedDeviceMigrationAO for PowerShell scripts.
-
-__Downloads__: 0 | __Repository__: 
-
-## [EnhancedAO.Graph.SignInLogs](https://www.powershellgallery.com/Packages/EnhancedAO.Graph.SignInLogs/0.0.1) | 0.0.1
-
-### Published: 08/05/2024 15:46:24 by Abdullah Ollivierre
-
-EnhancedAO.Graph.SignInLogs for PowerShell scripts.
-
-__Downloads__: 0 | __Repository__: 
-
 ## [DTX.Cloud.Management](https://www.powershellgallery.com/Packages/DTX.Cloud.Management/1.16.3) | 1.16.3
 
 ### Published: 08/05/2024 15:24:45 by Platform Operations Team
@@ -79,14 +125,6 @@ __Downloads__: 0 | __Repository__:
 Dotmatics cloud automation tool.
 
 __Downloads__: 11,749 | __Repository__: 
-
-## [PS.Reporting](https://www.powershellgallery.com/Packages/PS.Reporting/1.2) | 1.2
-
-### Published: 08/05/2024 15:16:52 by Nutstone
-
-Reporting Using HTM/CSV/EXCEL
-
-__Downloads__: 0 | __Repository__: 
 
 ## [PSTcpIp](https://www.powershellgallery.com/Packages/PSTcpIp/5.14.0) | 5.14.0
 
@@ -278,22 +316,6 @@ __Downloads__: 13 | __Repository__: https://github.com/nightroman/FarNet.Statele
 A collection of scripts to extend the funtionality of the Direct Routing Cmdlets
 
 __Downloads__: 0 | __Repository__: https://github.com/shanehoey/TeamsTools/
-
-## [TeamsTools](https://www.powershellgallery.com/Packages/TeamsTools/1.0.0) | 1.0.0
-
-### Published: 08/04/2024 03:46:03 by Shane Hoey
-
-A collection of scripts to extend the funtionality of the Direct Routing Cmdlets
-
-__Downloads__: 0 | __Repository__: https://github.com/shanehoey/TeamsTools/
-
-## [EnhancedLoggingAO](https://www.powershellgallery.com/Packages/EnhancedLoggingAO/0.0.1) | 0.0.1
-
-### Published: 08/04/2024 01:25:58 by Abdullah Ollivierre
-
-Enhanced logging module for PowerShell scripts.
-
-__Downloads__: 0 | __Repository__: 
 
 ## [PokeAPI](https://www.powershellgallery.com/Packages/PokeAPI/1.1.0) | 1.1.0
 
@@ -605,6 +627,14 @@ Devolutions Gateway PowerShell Module
 
 __Downloads__: 8,892 | __Repository__: https://github.com/Devolutions/devolutions-gateway/tree/master/powershell/
 
+## [Arcane_Server](https://www.powershellgallery.com/Packages/Arcane_Server/1.0.0) | 1.0.0
+
+### Published: 08/01/2024 14:13:14 by Jean-Pierre LESUEUR
+
+Arcane - A secure remote desktop application for Windows with the particularity of having a server entirely written in PowerShell and a cross-platform client (Python/QT6).
+
+__Downloads__: 0 | __Repository__: 
+
 ## [ControlUp.Automation](https://www.powershellgallery.com/Packages/ControlUp.Automation/1.0.2) | 1.0.2
 
 ### Published: 08/01/2024 14:02:57 by ControlUp
@@ -639,14 +669,6 @@ __Downloads__: 22 | __Repository__:
 Helper module for Infoblox.
 
 __Downloads__: 207 | __Repository__: https://github.com/EvotecIT/PowerInfoblox
-
-## [TeamsPhoneNumberManagement](https://www.powershellgallery.com/Packages/TeamsPhoneNumberManagement/1.1.2) | 1.1.2
-
-### Published: 08/01/2024 11:35:42 by Jamy Klotzsche
-
-Custom module to manage Teams phone numbers. This module is used as part of the TeamsPhoneNumberManagement solution and provides the needed functions for the API based on an Azure Function App. This API has CRUD capabilities with database, which contains information about configured countries, departments, forbidden numbers (e.g. emergency telephone numbers), extension / phone ranges and already used phone numbers. The already used phone numbers include phone numbers used by Teams users as well as blocked phone numbers for certain devices.
-
-__Downloads__: 0 | __Repository__: https://github.com/jklotzsche-msft/TeamsPhoneNumberManagement
 
 ## [HaloAPI](https://www.powershellgallery.com/Packages/HaloAPI/1.22.1) | 1.22.1
 
@@ -2096,4 +2118,28 @@ Microsoft Graph interactive API Functions
 
 __Downloads__: 36,111 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
-*Updated: Monday, 05 August 2024 17:51:47 UTC*
+## [AdminToolbox.Fun](https://www.powershellgallery.com/Packages/AdminToolbox.Fun/1.6.164) | 1.6.164
+
+### Published: 07/30/2024 14:03:34 by Taylor Lee
+
+Functions that have no purpose
+
+__Downloads__: 46,651 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [AdminToolbox.FileManagement](https://www.powershellgallery.com/Packages/AdminToolbox.FileManagement/1.16.155) | 1.16.155
+
+### Published: 07/30/2024 14:03:30 by Taylor Lee
+
+File Management Functions
+
+__Downloads__: 47,111 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [AdminToolbox.FFTools](https://www.powershellgallery.com/Packages/AdminToolbox.FFTools/4.16.113) | 4.16.113
+
+### Published: 07/30/2024 14:03:24 by Taylor Lee
+
+Expedite simple ffmpeg actions
+
+__Downloads__: 47,068 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+*Updated: Tuesday, 06 August 2024 02:10:34 UTC*
