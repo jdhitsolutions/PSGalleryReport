@@ -3,6 +3,193 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [ApplicationFactoryService](https://www.powershellgallery.com/Packages/ApplicationFactoryService/1.5.1) | 1.5.1
+
+### Published: 08/06/2024 16:32:36 by Jeremy Putman
+
+This bundles together functions related to powershell functions use for App Factory
+
+__Downloads__: 36 | __Repository__: 
+
+## [ApplicationFactoryServicePSU](https://www.powershellgallery.com/Packages/ApplicationFactoryServicePSU/1.5.1) | 1.5.1
+
+### Published: 08/06/2024 16:31:51 by Jeremy Putman
+
+This bundles together functions related to powershell functions use for App Factory
+
+__Downloads__: 14 | __Repository__: 
+
+## [ps12exe](https://www.powershellgallery.com/Packages/ps12exe/0.4.4) | 0.4.4
+
+### Published: 08/06/2024 15:52:49 by steve02081504
+
+better pwsh code 2 exe repo:
+- Use `ps12exe a.ps1` to convert `a.ps1` into `a.exe`;
+- Use `ps12exeGUI` for a graphical interface that simplifies compilation;
+- Use `Set-ps12exeContextMenu` to add a context menu item for quick compilation or GUI access on `.ps1` files;
+- Use `Start-ps12exeWebServer` to launch a web server that allows users to compile scripts online;
+All commands in this module support the `-help` option for detailed assistance in your language.
+
+__Downloads__: 1,601 | __Repository__: https://github.com/steve02081504/ps12exe
+
+## [MASES.KNetPS](https://www.powershellgallery.com/Packages/MASES.KNetPS/2.8.0) | 2.8.0
+
+### Published: 08/06/2024 15:25:20 by MASES s.r.l.
+
+KNet PowerShell command line interface is a PowerShell Module to use Apache Kafka and PowerShell side-by-side. With KNet PowerShell it is possible to:
+- execute all tools of Apache Kafka within a PowerShell shell: Administration tools, Console Consumer, Console Producer, manage Apache Kafka Streams, activate Apache Kafka Connect, server side (start Kafka and ZooKeeper), etc
+- create consumers and producers objects to interact with an Apache Kafka cluster
+- send data to and receive data from an Apache Kafka cluster
+- create a Kafka Admin Client object to manage an Apache Kafka cluster
+
+More information within the project hosted on GitHub. Further information at https://github.com/masesgroup/KNet.
+
+__Downloads__: 673 | __Repository__: https://github.com/masesgroup/KNet
+
+## [sdp](https://www.powershellgallery.com/Packages/sdp/1.5.0) | 1.5.0
+
+### Published: 08/06/2024 14:53:54 by J.R. Phillips
+
+Powershell SDK for Silk (formerly Kaminario) cloud data platform.
+
+__Downloads__: 666 | __Repository__: https://github.com/silk-us/silk-sdp-powershell-sdk
+
+## [AdminToolbox](https://www.powershellgallery.com/Packages/AdminToolbox/11.0.172) | 11.0.172
+
+### Published: 08/06/2024 14:04:22 by Taylor Lee
+
+Master module for a collection of modules. These modules are varied in their tasks. The overall purpose of them being to provide a powerfull Toolset to improve IT Admin workflows.
+
+__Downloads__: 59,588 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox
+
+## [AdminToolbox.FortiWizard](https://www.powershellgallery.com/Packages/AdminToolbox.FortiWizard/2.19.20) | 2.19.20
+
+### Published: 08/06/2024 14:04:12 by Taylor Lee
+
+Functions that generate configuration scripts and manage FortiOS.
+
+__Downloads__: 39,303 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [AdminToolbox.VMWareAutomate](https://www.powershellgallery.com/Packages/AdminToolbox.VMWareAutomate/4.8.161) | 4.8.161
+
+### Published: 08/06/2024 14:03:07 by Taylor Lee
+
+Functions to Automate Bulk VMWare Tasks
+
+__Downloads__: 46,308 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [AdminToolbox.Remoting](https://www.powershellgallery.com/Packages/AdminToolbox.Remoting/1.9.164) | 1.9.164
+
+### Published: 08/06/2024 14:03:00 by Taylor Lee
+
+Functions for remote management and access.
+
+__Downloads__: 45,801 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [AdminToolbox.Office365](https://www.powershellgallery.com/Packages/AdminToolbox.Office365/4.0.24) | 4.0.24
+
+### Published: 08/06/2024 14:02:57 by Taylor Lee
+
+Functions for working with Office365 and Azure modules
+
+__Downloads__: 49,273 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [AdminToolbox.Networking](https://www.powershellgallery.com/Packages/AdminToolbox.Networking/2.20.5) | 2.20.5
+
+### Published: 08/06/2024 14:02:54 by Taylor Lee
+
+Network Troubleshooting Functions
+
+__Downloads__: 131,265 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [AdminToolbox.MSGraph](https://www.powershellgallery.com/Packages/AdminToolbox.MSGraph/1.3.18) | 1.3.18
+
+### Published: 08/06/2024 14:02:51 by Taylor Lee
+
+Microsoft Graph interactive API Functions
+
+__Downloads__: 36,111 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [AdminToolbox.Fun](https://www.powershellgallery.com/Packages/AdminToolbox.Fun/1.6.165) | 1.6.165
+
+### Published: 08/06/2024 14:02:48 by Taylor Lee
+
+Functions that have no purpose
+
+__Downloads__: 46,651 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [AdminToolbox.FileManagement](https://www.powershellgallery.com/Packages/AdminToolbox.FileManagement/1.16.156) | 1.16.156
+
+### Published: 08/06/2024 14:02:44 by Taylor Lee
+
+File Management Functions
+
+__Downloads__: 47,111 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [AdminToolbox.FFTools](https://www.powershellgallery.com/Packages/AdminToolbox.FFTools/4.16.114) | 4.16.114
+
+### Published: 08/06/2024 14:02:40 by Taylor Lee
+
+Expedite simple ffmpeg actions
+
+__Downloads__: 47,068 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [AdminToolbox.Exchange](https://www.powershellgallery.com/Packages/AdminToolbox.Exchange/1.9.165) | 1.9.165
+
+### Published: 08/06/2024 14:02:36 by Taylor Lee
+
+Functions for Exchange Management
+
+__Downloads__: 49,513 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [AdminToolbox.EndpointManagement](https://www.powershellgallery.com/Packages/AdminToolbox.EndpointManagement/4.10.42) | 4.10.42
+
+### Published: 08/06/2024 14:02:32 by Taylor Lee
+
+Functions for management of endpoints
+
+__Downloads__: 56,731 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [AdminToolbox.ActiveDirectory](https://www.powershellgallery.com/Packages/AdminToolbox.ActiveDirectory/1.10.26) | 1.10.26
+
+### Published: 08/06/2024 14:02:25 by Taylor Lee
+
+Functions for Active Directory
+
+__Downloads__: 57,444 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [DTX.Cloud.Management](https://www.powershellgallery.com/Packages/DTX.Cloud.Management/1.16.4) | 1.16.4
+
+### Published: 08/06/2024 13:32:38 by Platform Operations Team
+
+Dotmatics cloud automation tool.
+
+__Downloads__: 11,749 | __Repository__: 
+
+## [PS.Selenium](https://www.powershellgallery.com/Packages/PS.Selenium/1.21) | 1.21
+
+### Published: 08/06/2024 11:39:06 by Nutstone
+
+Wraps Selenium
+
+__Downloads__: 161 | __Repository__: 
+
+## [WindowsLab](https://www.powershellgallery.com/Packages/WindowsLab/0.9.0) | 0.9.0
+
+### Published: 08/06/2024 11:29:42 by Human.Against.Machine
+
+Tools to administer a Windows OS computer lab
+
+__Downloads__: 0 | __Repository__: https://github.com/HumanAgainstMachine/WindowsLab
+
+## [MSCatalogLTS](https://www.powershellgallery.com/Packages/MSCatalogLTS/1.0.3) | 1.0.3
+
+### Published: 08/06/2024 09:51:43 by Marco-online
+
+MSCatalogLTS is a Long-term support module for searching and downloading Windows updates
+
+__Downloads__: 0 | __Repository__: https://github.com/Marco-online/MSCatalogLTS
+
 ## [SentinelARConverter](https://www.powershellgallery.com/Packages/SentinelARConverter/2.4.2) | 2.4.2
 
 ### Published: 08/06/2024 09:15:26 by Fabian Bader
@@ -105,32 +292,19 @@ This is an advanced PowerShell module for WDAC (Windows Defender Application Con
 
 __Downloads__: 4,219 | __Repository__: https://github.com/HotCakeX/Harden-Windows-Security/wiki/WDACConfig
 
-## [ps12exe](https://www.powershellgallery.com/Packages/ps12exe/0.4.3) | 0.4.3
+## [EnhancedWin32DeployerAO](https://www.powershellgallery.com/Packages/EnhancedWin32DeployerAO/0.0.1) | 0.0.1
 
-### Published: 08/05/2024 17:17:32 by steve02081504
+### Published: 08/05/2024 15:46:33 by Abdullah Ollivierre
 
-better pwsh code 2 exe repo:
-- Use `ps12exe a.ps1` to convert `a.ps1` into `a.exe`;
-- Use `ps12exeGUI` for a graphical interface that simplifies compilation;
-- Use `Set-ps12exeContextMenu` to add a context menu item for quick compilation or GUI access on `.ps1` files;
-- Use `Start-ps12exeWebServer` to launch a web server that allows users to compile scripts online;
-All commands in this module support the `-help` option for detailed assistance in your language.
+EnhancedWin32DeployerAO for PowerShell scripts.
 
-__Downloads__: 1,601 | __Repository__: https://github.com/steve02081504/ps12exe
+__Downloads__: 0 | __Repository__: 
 
 ## [EnhancedVPNAO](https://www.powershellgallery.com/Packages/EnhancedVPNAO/0.0.1) | 0.0.1
 
 ### Published: 08/05/2024 15:46:33 by Abdullah Ollivierre
 
 EnhancedVPNAO for PowerShell scripts.
-
-__Downloads__: 0 | __Repository__: 
-
-## [EnhancedWin32DeployerAO](https://www.powershellgallery.com/Packages/EnhancedWin32DeployerAO/0.0.1) | 0.0.1
-
-### Published: 08/05/2024 15:46:33 by Abdullah Ollivierre
-
-EnhancedWin32DeployerAO for PowerShell scripts.
 
 __Downloads__: 0 | __Repository__: 
 
@@ -182,14 +356,6 @@ EnhancedAO.Graph.SignInLogs for PowerShell scripts.
 
 __Downloads__: 0 | __Repository__: 
 
-## [DTX.Cloud.Management](https://www.powershellgallery.com/Packages/DTX.Cloud.Management/1.16.3) | 1.16.3
-
-### Published: 08/05/2024 15:24:45 by Platform Operations Team
-
-Dotmatics cloud automation tool.
-
-__Downloads__: 11,749 | __Repository__: 
-
 ## [PS.Reporting](https://www.powershellgallery.com/Packages/PS.Reporting/1.2) | 1.2
 
 ### Published: 08/05/2024 15:16:52 by Nutstone
@@ -205,14 +371,6 @@ __Downloads__: 0 | __Repository__:
 Provides cmdlets to perform various TCPIP and TLS/SSL related tasks.
 
 __Downloads__: 5,999 | __Repository__: https://github.com/anthonyg-1/PSTcpIp
-
-## [PS.Selenium](https://www.powershellgallery.com/Packages/PS.Selenium/1.20) | 1.20
-
-### Published: 08/05/2024 13:39:22 by Nutstone
-
-Wraps Selenium
-
-__Downloads__: 161 | __Repository__: 
 
 ## [kurukuru-pwsh](https://www.powershellgallery.com/Packages/kurukuru-pwsh/2.0.1) | 2.0.1
 
@@ -460,14 +618,6 @@ __Downloads__: 29 | __Repository__: https://github.com/joshuastenhouse/rscreport
 PSAI brings OpenAI ChatGPT to PowerShell, leveraging advanced AI capabilities in your PowerShell scripts for dynamic, intelligent automation and data processing
 
 __Downloads__: 2,108 | __Repository__: https://github.com/dfinke/PSAI
-
-## [MSCatalogLTS](https://www.powershellgallery.com/Packages/MSCatalogLTS/1.0.2) | 1.0.2
-
-### Published: 08/03/2024 10:36:08 by Marco-online
-
-MSCatalogLTS is a Long-term support module for searching and downloading Windows updates
-
-__Downloads__: 0 | __Repository__: https://github.com/Marco-online/MSCatalogLTS
 
 ## [PsKrane](https://www.powershellgallery.com/Packages/PsKrane/0.6.0) | 0.6.0
 
@@ -830,20 +980,6 @@ __Downloads__: 4 | __Repository__: https://github.com/erlwes/PSAdaptiveCards
 A module to convert strings to QR codes and display or save them as PNG images.
 
 __Downloads__: 0 | __Repository__: https://github.com/erlwes/PSStringToQRCode
-
-## [MASES.KNetPS](https://www.powershellgallery.com/Packages/MASES.KNetPS/2.7.8) | 2.7.8
-
-### Published: 07/31/2024 19:12:28 by MASES s.r.l.
-
-KNet PowerShell command line interface is a PowerShell Module to use Apache Kafka and PowerShell side-by-side. With KNet PowerShell it is possible to:
-- execute all tools of Apache Kafka within a PowerShell shell: Administration tools, Console Consumer, Console Producer, manage Apache Kafka Streams, activate Apache Kafka Connect, server side (start Kafka and ZooKeeper), etc
-- create consumers and producers objects to interact with an Apache Kafka cluster
-- send data to and receive data from an Apache Kafka cluster
-- create a Kafka Admin Client object to manage an Apache Kafka cluster
-
-More information within the project hosted on GitHub. Further information at https://github.com/masesgroup/KNet.
-
-__Downloads__: 673 | __Repository__: https://github.com/masesgroup/KNet
 
 ## [Nectar10](https://www.powershellgallery.com/Packages/Nectar10/3.90) | 3.90
 
@@ -2006,140 +2142,4 @@ This modules provides Cmdlets for OCI Apmcontrolplane Service
 
 __Downloads__: 7,714 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-## [OCI.PSModules.Apmconfig](https://www.powershellgallery.com/Packages/OCI.PSModules.Apmconfig/87.0.0) | 87.0.0
-
-### Published: 07/30/2024 20:12:37 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Apmconfig Service
-
-__Downloads__: 6,148 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Apigateway](https://www.powershellgallery.com/Packages/OCI.PSModules.Apigateway/87.0.0) | 87.0.0
-
-### Published: 07/30/2024 20:12:31 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Apigateway Service
-
-__Downloads__: 6,903 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Announcementsservice](https://www.powershellgallery.com/Packages/OCI.PSModules.Announcementsservice/87.0.0) | 87.0.0
-
-### Published: 07/30/2024 20:12:25 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Announcementsservice Service
-
-__Downloads__: 9,403 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Analytics](https://www.powershellgallery.com/Packages/OCI.PSModules.Analytics/87.0.0) | 87.0.0
-
-### Published: 07/30/2024 20:12:19 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Analytics Service
-
-__Downloads__: 6,784 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Aivision](https://www.powershellgallery.com/Packages/OCI.PSModules.Aivision/87.0.0) | 87.0.0
-
-### Published: 07/30/2024 20:12:12 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Aivision Service
-
-__Downloads__: 5,116 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Aispeech](https://www.powershellgallery.com/Packages/OCI.PSModules.Aispeech/87.0.0) | 87.0.0
-
-### Published: 07/30/2024 20:12:05 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Aispeech Service
-
-__Downloads__: 5,425 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Ailanguage](https://www.powershellgallery.com/Packages/OCI.PSModules.Ailanguage/87.0.0) | 87.0.0
-
-### Published: 07/30/2024 20:11:59 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Ailanguage Service
-
-__Downloads__: 8,746 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Aidocument](https://www.powershellgallery.com/Packages/OCI.PSModules.Aidocument/87.0.0) | 87.0.0
-
-### Published: 07/30/2024 20:11:53 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Aidocument Service
-
-__Downloads__: 3,916 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Aianomalydetection](https://www.powershellgallery.com/Packages/OCI.PSModules.Aianomalydetection/87.0.0) | 87.0.0
-
-### Published: 07/30/2024 20:11:46 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Aianomalydetection Service
-
-__Downloads__: 5,993 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Adm](https://www.powershellgallery.com/Packages/OCI.PSModules.Adm/87.0.0) | 87.0.0
-
-### Published: 07/30/2024 20:11:40 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Adm Service
-
-__Downloads__: 4,826 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Accessgovernancecp](https://www.powershellgallery.com/Packages/OCI.PSModules.Accessgovernancecp/87.0.0) | 87.0.0
-
-### Published: 07/30/2024 20:11:33 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Accessgovernancecp Service
-
-__Downloads__: 3,489 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Common](https://www.powershellgallery.com/Packages/OCI.PSModules.Common/87.0.0) | 87.0.0
-
-### Published: 07/30/2024 20:10:40 by Oracle Cloud Infrastructure
-
-OCI Common module exports Cmdlets that manages features offered by OCI Modules for Powershell like History Store, OCI Configuration file setup and Per-Session Region/Config/Profile preferences. Common module also contains some functionalties that are common to all OCI Service modules, therefore all OCI Service modules depends on Common module.
-
-__Downloads__: 254,823 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [PSAzureSignTool](https://www.powershellgallery.com/Packages/PSAzureSignTool/0.4.6) | 0.4.6
-
-### Published: 07/30/2024 17:30:14 by DevOps
-
-Module for code signing assemblies using AzureSignTool
-
-__Downloads__: 11,503 | __Repository__: 
-
-## [DscConfig.AADConnect](https://www.powershellgallery.com/Packages/DscConfig.AADConnect/0.1.1) | 0.1.1
-
-### Published: 07/30/2024 16:14:36 by DSC Community
-
-DSC composite resource for https://github.com/dsccommunity/DscWorkshop
-
-__Downloads__: 10 | __Repository__: https://github.com/dsccommunity/DscConfig.AADConnect
-
-## [Winpack](https://www.powershellgallery.com/Packages/Winpack/0.2.7) | 0.2.7
-
-### Published: 07/30/2024 14:23:07 by yvesg
-
-Helpers functions for Winget
-
-__Downloads__: 4,878 | __Repository__: https://github.com/Yves848/winpack/tree/master
-
-## [Intersight.PowerShell](https://www.powershellgallery.com/Packages/Intersight.PowerShell/1.0.11.17769) | 1.0.11.17769
-
-### Published: 07/30/2024 14:16:29 by Cisco Systems
-
-Intersight Powershell module provides the cmdlets to manage, analyze, and automate the IT infrastructure in Intersight.
-
-__Downloads__: 10,009 | __Repository__: https://github.com/CiscoDevNet/intersight-powershell
-
-## [psCandy](https://www.powershellgallery.com/Packages/psCandy/0.3.3) | 0.3.3
-
-### Published: 07/30/2024 14:13:21 by Yves Godart
-
-This module provides classes for Eye-Candy in the console.
-
-__Downloads__: 4,536 | __Repository__: https://github.com/Yves848/psCandy/tree/master
-
-*Updated: Tuesday, 06 August 2024 09:51:53 UTC*
+*Updated: Tuesday, 06 August 2024 17:51:49 UTC*
