@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Wednesday, 07 August 2024 09:51:55 UTC
+Updated: Wednesday, 07 August 2024 17:51:54 UTC
 
 .bat
 .env
@@ -16,7 +16,6 @@ Updated: Wednesday, 07 August 2024 09:51:55 UTC
 {modulenameplaceholder}
 **psedition_desktop**
 **windows**
-🍄
 🍣
 💩
 🙇
@@ -450,6 +449,7 @@ aprs
 aprs-is
 aprsis
 aprsthursday
+aps
 apt
 apt-get
 apt-get-update
@@ -503,6 +503,7 @@ asana
 asbuiltreport
 asc
 ascii
+ascii85
 asciiart
 asdatabase
 asigra
@@ -606,7 +607,6 @@ automation
 automation psmodule
 automationanywhere
 automationutils
-autopatching
 autopilot
 autoscaling
 autostart
@@ -788,10 +788,13 @@ barcodes
 baremetal
 base
 base-in-json
+base16
 base26
+base32
 base64
 base64string
 base64url
+base85
 basecamp
 based
 baseline
@@ -836,7 +839,6 @@ ber
 bestpractice
 bestpractices
 bginfo
-bgp
 bi
 bibliography
 bibtex
@@ -845,7 +847,6 @@ bicepnet
 big-ip
 big-iq
 bigcommerce
-bigeval
 bigfix
 bigquery
 bikeshed
@@ -866,6 +867,7 @@ binomial
 bios
 bios_settings
 bios-settings
+bit
 bitbucket
 bitbucket-api
 bitbucket-server
@@ -917,7 +919,6 @@ boilerplate
 boinc
 bold-text
 bolt
-bom
 book
 bookmark
 bookmarks
@@ -1085,6 +1086,7 @@ cd+
 cdable_vars
 cdata
 cdb
+cdi
 cdm
 cdn
 cdp
@@ -1390,6 +1392,7 @@ comments
 commerce
 commfort
 commit
+commits
 common
 common-data-service
 commondataservice
@@ -1422,7 +1425,6 @@ compute
 computecloudatcustomer
 computeinstanceagent
 computer
-computer-laboratory
 computer-site
 computername
 computers
@@ -1515,6 +1517,8 @@ control
 controller
 controlroom
 controlup
+conventional
+conventional-commits
 convereter
 converged_data_management
 conversational
@@ -1649,6 +1653,7 @@ crypto
 cryptocompare
 cryptocurrency
 cryptography
+cs137
 csc
 csharp
 csharp-watch
@@ -1694,7 +1699,6 @@ customeventlogfiles
 customevents
 custominformationservices
 customis
-customisation
 customization
 customlocation
 customlogs
@@ -1826,6 +1830,7 @@ dbase
 dbassistant
 dbatools
 dbcommand
+dbeaver
 dbfs
 dbnull
 dbops
@@ -1917,7 +1922,6 @@ desktop
 desktops
 desktopvirtualization
 details
-detect
 detection
 detectionrule
 deutschland
@@ -1928,7 +1932,6 @@ devcenter
 devdeer
 devdrive
 developer
-developer_command_prompt
 developercommandprompt
 developermode
 development
@@ -2625,7 +2628,6 @@ file-type
 file-type-association
 fileattributes
 fileencryption
-filelist
 filelog
 filelogger
 filemanagement
@@ -2691,6 +2693,7 @@ firmware
 firmwareanalysis
 first
 fisher
+fissionproducts
 fitbit
 fits
 five
@@ -2773,6 +2776,8 @@ fqdn
 frame
 framework
 france
+free
+free-ware
 freeipa
 freenas
 freesoftwarefoundation
@@ -2827,6 +2832,7 @@ gainz
 gainz-chocolateysync
 gainz-keepass
 gainz-sqldb
+gal
 gallery
 game
 gamecategory:cards
@@ -2927,7 +2933,6 @@ gh
 gh-actions
 ghactions
 ghc
-ghibli
 ghost
 gif
 gifs
@@ -3050,12 +3055,12 @@ grouvee
 growlnotify
 grr
 gsuite
-gtx1080ti
 guardedfabric
 guardicore
 gubbins
 guest
 guestconfiguration
+guests
 gui
 gui.cs
 guid
@@ -3111,7 +3116,6 @@ hartokens
 harvest
 harvestforecast
 hash
-hashcat
 hashicorp
 hashset
 hashtable
@@ -3203,7 +3207,6 @@ hkey_current_user
 hkey_local_machine
 hkey_users
 hklm
-hl7
 hlds
 hls
 hockey
@@ -3383,7 +3386,6 @@ imagga
 imagination
 imaging
 imap
-imb
 imei
 imi
 impala
@@ -3404,7 +3406,6 @@ incident
 incident-response
 incidentresponse
 incontact
-indents
 index
 indexdb
 indicator
@@ -3463,7 +3464,6 @@ installofficertool
 installwindows
 instance
 instant
-instapush
 instorage
 int
 intacct
@@ -3519,8 +3519,6 @@ invoke-dtdownloaddriverupdates
 invoke-dtdrivertool
 invoke-msbuild
 invoke-msbuildpreprocess
-invoke-vsbuild
-invoke-vsdevcommand
 invoke-webrequest
 invokebuild
 invokemethod
@@ -3599,8 +3597,6 @@ itop
 itsm
 itstore
 ivanti
-ivb
-ivdc
 iwi
 j
 j81-blog
@@ -3725,7 +3721,6 @@ kidrsa
 kill
 kindle
 kinetic
-kinopoisk
 kintone
 klantcontroles
 kms
@@ -3736,7 +3731,6 @@ knowbe4
 knowledge
 knowledgebase
 koans
-kodi
 korn
 kotlin
 kql
@@ -3805,7 +3799,6 @@ launcher
 layer
 layman
 layout
-lazywinadmin
 lbi
 lbs
 lccn
@@ -3863,7 +3856,6 @@ limit-job
 limits
 lina
 line
-line-endings
 linear
 linearalgebra
 lingeringobjects
@@ -3982,8 +3974,10 @@ logonto
 logonuser
 logparser
 logrotate
+logrotation
 logs
 logstash
+logtools
 logz
 loki
 lol
@@ -4005,7 +3999,6 @@ lsd
 ltm
 lucd
 lucene
-lwa
 lxca
 lxcapstool
 lxco
@@ -4426,7 +4419,6 @@ msword
 mta-sts
 mule
 mulesoft
-multi
 multi-factor
 multi-language
 multi-platform
@@ -4509,8 +4501,6 @@ neo4j
 neovim
 neptune
 nerdfonts
-nerdio
-nerdioapi
 nerdymishka
 nessus
 nested
@@ -4612,7 +4602,6 @@ nlm
 nlog
 nmap
 nmbell
-nmm
 nntp
 node
 nodejs
@@ -4627,7 +4616,6 @@ normal
 norskale
 norway
 norwegian
-nos
 nosql
 note
 notebook
@@ -4836,7 +4824,6 @@ operationsmanagementsuiteagent
 operationvalidation
 operatoraccesscontrol
 opml
-ops
 opsi
 opsmgr
 optics
@@ -5037,7 +5024,6 @@ pdf-document-processor
 pdf-files
 pdf-generation
 pdf-redaction
-pe
 peek
 peering
 peheader
@@ -5116,7 +5102,6 @@ pivottable
 pixoo
 pkce
 pki
-pki psmodule
 pks
 place
 places
@@ -5218,7 +5203,6 @@ poshy-coreutils-ish
 poshy-dir-nav
 poshy-ecks
 poshy-env-proxy
-poshy-env-var
 poshy-ls-isms
 poshy-lucidity
 poshy-multimedia
@@ -5479,6 +5463,7 @@ prowl-notifications
 prowlapp
 proxmox
 proxmoxve
+proxsys
 proxy
 proxyfunction
 proxyfunctions
@@ -5507,7 +5492,6 @@ psadt
 psake
 psappdeploytoolkit
 psat
-psazd
 psbackup
 psbbix
 psbicep
@@ -5536,8 +5520,6 @@ pscommand_acp
 pscommand_acse
 pscommand_acsp
 pscommand_add_ssh
-pscommand_add-envpathitem
-pscommand_add-envvarpathitem
 pscommand_add-gitlfstrackedfiles
 pscommand_add-gitremote
 pscommand_add-gitskipworktreeflag
@@ -5946,9 +5928,6 @@ pscommand_get-dockercontainerlatestipaddress
 pscommand_get-dockercontainerlatestquiet
 pscommand_get-dockercontainerrunning
 pscommand_get-dockerimage
-pscommand_get-envpathitem
-pscommand_get-envvar
-pscommand_get-envvarpathitem
 pscommand_get-gitbranchdefault
 pscommand_get-gitbranchlist
 pscommand_get-gitbranchlistall
@@ -6909,7 +6888,6 @@ pscommand_mcisk
 pscommand_mcp
 pscommand_mcpsk
 pscommand_mdep
-pscommand_measure-envvarchanges
 pscommand_merge-gitrepositoryfromoriginbranchmain
 pscommand_merge-gitrepositoryfromupstreambranchmain
 pscommand_mi
@@ -7023,14 +7001,10 @@ pscommand_pyserver
 pscommand_python
 pscommand_python3
 pscommand_rb
-pscommand_read-dotenv
 pscommand_register-argcompleteargumentcompleter
 pscommand_remove_gem
 pscommand_remove-dockercontainerall
 pscommand_remove-dockerunusedimage
-pscommand_remove-envpathitem
-pscommand_remove-envvar
-pscommand_remove-envvarpathitem
 pscommand_remove-gitbranch
 pscommand_remove-gitbranchforcefully
 pscommand_remove-gitremote
@@ -7060,7 +7034,6 @@ pscommand_scu-enable-now
 pscommand_scu-mask-now
 pscommand_search-commandpath
 pscommand_search-ruby
-pscommand_set-envvar
 pscommand_set-gitremoteurl
 pscommand_set-itemnixmode
 pscommand_set-locationback1
@@ -7348,8 +7321,6 @@ psfoldersize
 psfunction__python3
 psfunction_aar
 psfunction_add_ssh
-psfunction_add-envpathitem
-psfunction_add-envvarpathitem
 psfunction_add-gitlfstrackedfiles
 psfunction_add-gitremote
 psfunction_add-gitskipworktreeflag
@@ -7541,9 +7512,6 @@ psfunction_get-dockercontainerlatestipaddress
 psfunction_get-dockercontainerlatestquiet
 psfunction_get-dockercontainerrunning
 psfunction_get-dockerimage
-psfunction_get-envpathitem
-psfunction_get-envvar
-psfunction_get-envvarpathitem
 psfunction_get-gitbranchdefault
 psfunction_get-gitbranchlist
 psfunction_get-gitbranchlistall
@@ -8182,7 +8150,6 @@ psfunction_jump
 psfunction_kerndeb
 psfunction_kres
 psfunction_local-ignore
-psfunction_measure-envvarchanges
 psfunction_merge-gitrepositoryfromoriginbranchmain
 psfunction_merge-gitrepositoryfromupstreambranchmain
 psfunction_mirrorsite
@@ -8240,13 +8207,9 @@ psfunction_push-gitstashentry
 psfunction_push-gitstashentrywithmessage
 psfunction_pwshrc-show-proxy
 psfunction_pyserver
-psfunction_read-dotenv
 psfunction_register-argcompleteargumentcompleter
 psfunction_remove-dockercontainerall
 psfunction_remove-dockerunusedimage
-psfunction_remove-envpathitem
-psfunction_remove-envvar
-psfunction_remove-envvarpathitem
 psfunction_remove-gitbranch
 psfunction_remove-gitbranchforcefully
 psfunction_remove-gitremote
@@ -8274,7 +8237,6 @@ psfunction_scu-enable-now
 psfunction_scu-mask-now
 psfunction_search-commandpath
 psfunction_search-ruby
-psfunction_set-envvar
 psfunction_set-gitremoteurl
 psfunction_set-itemnixmode
 psfunction_set-locationback1
@@ -8451,7 +8413,6 @@ pssqlservermodule
 psst
 psstgenerator
 pstablacus
-pstanss
 psthread
 pstk
 pstwitter
@@ -8880,6 +8841,7 @@ rlan
 rmcp
 rmm
 rms
+rng
 roarwrecker
 robbyrussel
 robocopy
@@ -9288,7 +9250,6 @@ shadow
 shadowcopy
 shadowcopybackups
 shadowgroups
-shanehoey
 shanghaitech
 shard
 share
@@ -9476,7 +9437,6 @@ soltra
 solution
 solutions
 sonarcloud
-sonarqube
 sonarr
 sonatype
 songs
@@ -9586,7 +9546,6 @@ sqlitebynarymodule
 sqlitebynarypsmodule
 sqlitemodule
 sqllocaldb
-sqlmanagementobjects
 sqlpackage
 sqlplus
 sqlproj
@@ -9597,10 +9556,8 @@ sqlserver
 sqlserveragent
 sqlserverbynarymodule
 sqlserverbynarypsmodule
-sqlserverclient
 sqlservermodule
 sqlvirtualmachine
-sqlvm
 sqr
 sqrt
 square
@@ -9891,7 +9848,6 @@ taken
 takeown
 tally
 talxis
-tanss
 tanzu
 tar
 target
@@ -9938,7 +9894,6 @@ telegram-bot-api
 telegram-sticker
 telegramx
 telemetry
-teletext
 telligent
 telnet
 temp
@@ -9983,7 +9938,6 @@ test-userisadministrator
 test-xml
 test123
 testaccount
-testautomation
 tester
 testimonial
 testing
@@ -10413,16 +10367,16 @@ usg
 usps
 utc
 utf-8
-utf-sig
 utf7
 utf8
-utf8-sig
 utf8bom
 util
 utilities
 utility
 utils
 utm
+uudecode
+uuencode
 uuid
 uw
 uwp
@@ -10620,7 +10574,6 @@ vssetup
 vsshell
 vst
 vsteambuilder
-vsteams
 vstest
 vsts
 vsts-cli
@@ -10785,7 +10738,6 @@ win32_operatingsystem
 win32-api
 win32appmigrationtool
 win32shutdown
-winbgp
 windchillrv&s
 window
 windows
@@ -10995,7 +10947,6 @@ xbox
 xclarity
 xdr
 xdschelper
-xdscresources
 xdt
 xenapp
 xendeskop
@@ -11046,7 +10997,6 @@ youtube
 youtube-dl
 youtubeextractor
 yq
-yubaba
 yubikey
 yum
 z
@@ -11085,4 +11035,3 @@ zypper
 全角半角変換
 寿司
 日本語
-湯婆婆
