@@ -3,6 +3,107 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [Set-ScheduleRepositoryUpdateREDFISH](https://www.powershellgallery.com/Packages/Set-ScheduleRepositoryUpdateREDFISH/1.0.0) | 1.0.0
+
+### Published: 08/07/2024 17:14:28 by Texas Roemer
+
+iDRAC cmdlet using Redfish API with OEM extension to schedule a repository update at a future reoccurrence date time."
+
+__Downloads__: 0 | __Repository__: 
+
+## [IdracRedfishSupport](https://www.powershellgallery.com/Packages/IdracRedfishSupport/22.20.0.0) | 22.20.0.0
+
+### Published: 08/07/2024 17:13:15 by Texas Roemer
+
+Main module used to import all individual iDRAC Redfish modules listed in the Powershell gallery. For more details and examples for each module, execute get-help on the specific module.
+
+__Downloads__: 6,745 | __Repository__: 
+
+## [EtherAssist](https://www.powershellgallery.com/Packages/EtherAssist/1.2.0) | 1.2.0
+
+### Published: 08/07/2024 16:53:36 by Ryan Mangan
+
+The EtherAssist PowerShell Module provides seamless integration with the EtherAssist API, allowing users to leverage both standard and advanced AI models directly within the PowerShell environment. This module enhances automation and task management by centralizing access to EtherAssists powerful features through a command-line interface. It simplifies complex processes and eliminates the need for multiple interfaces, making PowerShell the go-to tool for sophisticated AI-driven operations and decision-making. Ideal for users who prefer command-line oriented workflows and require robust AI capabilities.
+
+__Downloads__: 46 | __Repository__: https://www.etherassist.co.uk/
+
+## [AdoAzureHelper](https://www.powershellgallery.com/Packages/AdoAzureHelper/1.0.12) | 1.0.12
+
+### Published: 08/07/2024 16:21:43 by Louis Wu
+
+PowerShell Module for functions access Azure Resources using AAD Token
+
+__Downloads__: 85 | __Repository__: 
+
+## [PS.Reporting](https://www.powershellgallery.com/Packages/PS.Reporting/1.4) | 1.4
+
+### Published: 08/07/2024 14:07:31 by Nutstone
+
+Reporting Using HTM/CSV/EXCEL
+
+__Downloads__: 0 | __Repository__: 
+
+## [ps12exe](https://www.powershellgallery.com/Packages/ps12exe/0.4.7) | 0.4.7
+
+### Published: 08/07/2024 13:54:19 by steve02081504
+
+better pwsh code 2 exe repo:
+- Use `ps12exe a.ps1` to convert `a.ps1` into `a.exe`;
+- Use `ps12exeGUI` for a graphical interface that simplifies compilation;
+- Use `Set-ps12exeContextMenu` to add a context menu item for quick compilation or GUI access on `.ps1` files;
+- Use `Start-ps12exeWebServer` to launch a web server that allows users to compile scripts online;
+All commands in this module support the `-help` option for detailed assistance in your language.
+
+__Downloads__: 1,601 | __Repository__: https://github.com/steve02081504/ps12exe
+
+## [awsnetsec](https://www.powershellgallery.com/Packages/awsnetsec/4.5) | 4.5
+
+### Published: 08/07/2024 13:39:49 by aws
+
+Helps answer stuff when Cisco is being a bitch
+
+__Downloads__: 183 | __Repository__: 
+
+## [AADConnectDsc](https://www.powershellgallery.com/Packages/AADConnectDsc/0.3.0) | 0.3.0
+
+### Published: 08/07/2024 13:37:17 by DscCommunity
+
+DSC Module for managing the ADSync configuration
+
+__Downloads__: 38 | __Repository__: 
+
+## [PSEasy.Utility](https://www.powershellgallery.com/Packages/PSEasy.Utility/1.6.1) | 1.6.1
+
+### Published: 08/07/2024 13:16:38 by Brett Gerhardi
+
+Lightweight army of helpers for general powershell activities
+
+__Downloads__: 12,094 | __Repository__: https://github.com/o-o00o-o/PSEasy.Utility
+
+## [AZSBTools](https://www.powershellgallery.com/Packages/AZSBTools/1.267.100) | 1.267.100
+
+### Published: 08/07/2024 11:23:33 by Sam Boutros
+
+PowerShell module containing several Azure tools by Sam Boutros
+
+__Downloads__: 37,900 | __Repository__: https://superwidgets.wordpress.com/
+
+## [WindmillClient](https://www.powershellgallery.com/Packages/WindmillClient/1.376.1) | 1.376.1
+
+### Published: 08/07/2024 10:06:08 by Windmill Labs
+
+Client for the Windmill platform.
+
+__Downloads__: 428 | __Repository__: https://github.com/windmill-labs/windmill/tree/main/powershell-client
+
+## [UiPathOrch](https://www.powershellgallery.com/Packages/UiPathOrch/0.9.6.0) | 0.9.6.0
+
+### Published: 08/07/2024 09:57:42 by Yoshifumi Tsuda
+
+A PowerShell provider for managing UiPath Orchestrator entities via cmdlets.
+
+__Downloads__: 638 | __Repository__: 
+
 ## [code365scripts.openai](https://www.powershellgallery.com/Packages/code365scripts.openai/4.0.0.3) | 4.0.0.3
 
 ### Published: 08/07/2024 09:47:34 by chenxizhang
@@ -18,19 +119,6 @@ __Downloads__: 55,726 | __Repository__: https://github.com/chenxizhang/openai-po
 Some functions for my work
 
 __Downloads__: 0 | __Repository__: 
-
-## [ps12exe](https://www.powershellgallery.com/Packages/ps12exe/0.4.5) | 0.4.5
-
-### Published: 08/07/2024 09:31:28 by steve02081504
-
-better pwsh code 2 exe repo:
-- Use `ps12exe a.ps1` to convert `a.ps1` into `a.exe`;
-- Use `ps12exeGUI` for a graphical interface that simplifies compilation;
-- Use `Set-ps12exeContextMenu` to add a context menu item for quick compilation or GUI access on `.ps1` files;
-- Use `Start-ps12exeWebServer` to launch a web server that allows users to compile scripts online;
-All commands in this module support the `-help` option for detailed assistance in your language.
-
-__Downloads__: 1,601 | __Repository__: https://github.com/steve02081504/ps12exe
 
 ## [CleanupMonster](https://www.powershellgallery.com/Packages/CleanupMonster/2.7.1) | 2.7.1
 
@@ -1240,13 +1328,21 @@ https://github.com/Azure/bicep
 
 __Downloads__: 2,872,724 | __Repository__: https://github.com/PSBicep/PSBicep
 
-## [WindmillClient](https://www.powershellgallery.com/Packages/WindmillClient/1.376.0) | 1.376.0
+## [EnhancedFileManagerAO](https://www.powershellgallery.com/Packages/EnhancedFileManagerAO/0.0.1) | 0.0.1
 
-### Published: 08/06/2024 20:04:51 by Windmill Labs
+### Published: 08/06/2024 20:23:04 by Abdullah Ollivierre
 
-Client for the Windmill platform.
+EnhancedFileManagerAO for PowerShell scripts.
 
-__Downloads__: 428 | __Repository__: https://github.com/windmill-labs/windmill/tree/main/powershell-client
+__Downloads__: 0 | __Repository__: 
+
+## [JAz.LogIngestion](https://www.powershellgallery.com/Packages/JAz.LogIngestion/0.0.5) | 0.0.5
+
+### Published: 08/06/2024 20:16:24 by Justin Grote @JustinWGrote
+
+A PowerShell Wrapper for the Azure Log Analytics Ingestion API
+
+__Downloads__: 0 | __Repository__: https://github.com/JustinGrote/JAz.LogIngestion
 
 ## [IntuneBulkMaster](https://www.powershellgallery.com/Packages/IntuneBulkMaster/24.8.6.0) | 24.8.6.0
 
@@ -1415,22 +1511,6 @@ Wraps Selenium
 
 __Downloads__: 161 | __Repository__: 
 
-## [WindowsLab](https://www.powershellgallery.com/Packages/WindowsLab/0.9.0) | 0.9.0
-
-### Published: 08/06/2024 11:29:42 by Human.Against.Machine
-
-Tools to administer a Windows OS computer lab
-
-__Downloads__: 0 | __Repository__: https://github.com/HumanAgainstMachine/WindowsLab
-
-## [MSCatalogLTS](https://www.powershellgallery.com/Packages/MSCatalogLTS/1.0.3) | 1.0.3
-
-### Published: 08/06/2024 09:51:43 by Marco-online
-
-MSCatalogLTS is a Long-term support module for searching and downloading Windows updates
-
-__Downloads__: 0 | __Repository__: https://github.com/Marco-online/MSCatalogLTS
-
 ## [SentinelARConverter](https://www.powershellgallery.com/Packages/SentinelARConverter/2.4.2) | 2.4.2
 
 ### Published: 08/06/2024 09:15:26 by Fabian Bader
@@ -1439,13 +1519,13 @@ Helper module to convert Sentinel Analytics Rules between YAML, ARM and back
 
 __Downloads__: 132,955 | __Repository__: https://github.com/f-bader/SentinelARConverter
 
-## [UiPathOrch](https://www.powershellgallery.com/Packages/UiPathOrch/0.9.5.16) | 0.9.5.16
+## [linuxtools](https://www.powershellgallery.com/Packages/linuxtools/1.0.1) | 1.0.1
 
-### Published: 08/06/2024 06:04:15 by Yoshifumi Tsuda
+### Published: 08/06/2024 03:23:03 by skatterbrainz
 
-A PowerShell provider for managing UiPath Orchestrator entities via cmdlets.
+An experimental PowerShell thing for Linux nerds. Laugh if you want. I have my earbuds on full volume.
 
-__Downloads__: 638 | __Repository__: 
+__Downloads__: 0 | __Repository__: https://github.com/Skatterbrainz/LinuxTools
 
 ## [OSDPShell](https://www.powershellgallery.com/Packages/OSDPShell/0.0.2) | 0.0.2
 
@@ -1517,6 +1597,30 @@ This is an advanced PowerShell module for WDAC (Windows Defender Application Con
 
 __Downloads__: 4,219 | __Repository__: https://github.com/HotCakeX/Harden-Windows-Security/wiki/WDACConfig
 
+## [EnhancedVPNAO](https://www.powershellgallery.com/Packages/EnhancedVPNAO/0.0.1) | 0.0.1
+
+### Published: 08/05/2024 15:46:33 by Abdullah Ollivierre
+
+EnhancedVPNAO for PowerShell scripts.
+
+__Downloads__: 0 | __Repository__: 
+
+## [EnhancedSPOAO](https://www.powershellgallery.com/Packages/EnhancedSPOAO/0.0.1) | 0.0.1
+
+### Published: 08/05/2024 15:46:32 by Abdullah Ollivierre
+
+EnhancedSPOAO for PowerShell scripts.
+
+__Downloads__: 0 | __Repository__: 
+
+## [EnhancedPSADTAO](https://www.powershellgallery.com/Packages/EnhancedPSADTAO/0.0.1) | 0.0.1
+
+### Published: 08/05/2024 15:46:31 by Abdullah Ollivierre
+
+EnhancedPSADTAO for PowerShell scripts.
+
+__Downloads__: 0 | __Repository__: 
+
 ## [EnhancedHyperVAO](https://www.powershellgallery.com/Packages/EnhancedHyperVAO/0.0.1) | 0.0.1
 
 ### Published: 08/05/2024 15:46:30 by Abdullah Ollivierre
@@ -1546,14 +1650,6 @@ __Downloads__: 0 | __Repository__:
 ### Published: 08/05/2024 15:46:24 by Abdullah Ollivierre
 
 EnhancedAO.Graph.SignInLogs for PowerShell scripts.
-
-__Downloads__: 0 | __Repository__: 
-
-## [PS.Reporting](https://www.powershellgallery.com/Packages/PS.Reporting/1.2) | 1.2
-
-### Published: 08/05/2024 15:16:52 by Nutstone
-
-Reporting Using HTM/CSV/EXCEL
 
 __Downloads__: 0 | __Repository__: 
 
@@ -1706,22 +1802,6 @@ __Downloads__: 4,415,273 | __Repository__: https://dbatools.io/
 Stateless library interactive helpers.
 
 __Downloads__: 13 | __Repository__: https://github.com/nightroman/FarNet.Stateless
-
-## [TeamsToolsReset](https://www.powershellgallery.com/Packages/TeamsToolsReset/1.0.0) | 1.0.0
-
-### Published: 08/04/2024 04:00:13 by Shane Hoey
-
-A collection of scripts to extend the funtionality of the Direct Routing Cmdlets
-
-__Downloads__: 0 | __Repository__: https://github.com/shanehoey/TeamsTools/
-
-## [TeamsTools](https://www.powershellgallery.com/Packages/TeamsTools/1.0.0) | 1.0.0
-
-### Published: 08/04/2024 03:46:03 by Shane Hoey
-
-A collection of scripts to extend the funtionality of the Direct Routing Cmdlets
-
-__Downloads__: 0 | __Repository__: https://github.com/shanehoey/TeamsTools/
 
 ## [PokeAPI](https://www.powershellgallery.com/Packages/PokeAPI/1.1.0) | 1.1.0
 
@@ -1922,14 +2002,6 @@ A module for logging in Azure DevOps Pipelines
 
 __Downloads__: 0 | __Repository__: https://github.com/goodworkaround/PS-ADOLogging
 
-## [PSEasy.Utility](https://www.powershellgallery.com/Packages/PSEasy.Utility/1.6.0) | 1.6.0
-
-### Published: 08/02/2024 08:34:10 by Brett Gerhardi
-
-Lightweight army of helpers for general powershell activities
-
-__Downloads__: 12,094 | __Repository__: https://github.com/o-o00o-o/PSEasy.Utility
-
 ## [powershai](https://www.powershellgallery.com/Packages/powershai/1.4.1) | 1.4.1
 
 ### Published: 08/02/2024 05:01:33 by Rodrigo Ribeiro Gomes
@@ -1997,14 +2069,6 @@ For each version release, ControlUp will publish detailed release notes. These n
 
 __Downloads__: 195 | __Repository__: 
 
-## [AZSBTools](https://www.powershellgallery.com/Packages/AZSBTools/1.266.115) | 1.266.115
-
-### Published: 08/01/2024 13:50:12 by Sam Boutros
-
-PowerShell module containing several Azure tools by Sam Boutros
-
-__Downloads__: 37,900 | __Repository__: https://superwidgets.wordpress.com/
-
 ## [MyAnimatedLamp](https://www.powershellgallery.com/Packages/MyAnimatedLamp/1.0.8) | 1.0.8
 
 ### Published: 08/01/2024 13:49:44 by iuv
@@ -2070,68 +2134,4 @@ Module covering functions that are shared within multiple projects
 
 __Downloads__: 362,917 | __Repository__: https://github.com/EvotecIT/PSSharedGoods
 
-## [Particular.ServiceControl.Management](https://www.powershellgallery.com/Packages/Particular.ServiceControl.Management/5.5.2) | 5.5.2
-
-### Published: 08/01/2024 04:47:52 by Particular Software
-
-ServiceControl Management
-
-__Downloads__: 2,374 | __Repository__: https://github.com/Particular/ServiceControl
-
-## [DefenderConfigAssessment](https://www.powershellgallery.com/Packages/DefenderConfigAssessment/1.0.2) | 1.0.2
-
-### Published: 07/31/2024 22:28:33 by Shaun Hardneck
-
-This module evaluates Microsoft Defender for Endpoint configurations against best practices and exports the results to a CSV file.
-
-__Downloads__: 0 | __Repository__: https://www.thatlazyadmin.com/
-
-## [PSAdaptiveCard](https://www.powershellgallery.com/Packages/PSAdaptiveCard/0.0.5) | 0.0.5
-
-### Published: 07/31/2024 21:30:25 by EW
-
-A module to create Adaptive Cards in JSON format from PowerShell-objects
-
-__Downloads__: 4 | __Repository__: https://github.com/erlwes/PSAdaptiveCards
-
-## [PSStringToQRCode](https://www.powershellgallery.com/Packages/PSStringToQRCode/1.0.1) | 1.0.1
-
-### Published: 07/31/2024 20:59:42 by EW
-
-A module to convert strings to QR codes and display or save them as PNG images.
-
-__Downloads__: 0 | __Repository__: https://github.com/erlwes/PSStringToQRCode
-
-## [Nectar10](https://www.powershellgallery.com/Packages/Nectar10/3.90) | 3.90
-
-### Published: 07/31/2024 19:01:34 by Ken Lasko
-
-PowerShell module for Nectar DXP
-
-__Downloads__: 1,443 | __Repository__: 
-
-## [GitlabCli](https://www.powershellgallery.com/Packages/GitlabCli/1.112.0) | 1.112.0
-
-### Published: 07/31/2024 18:55:47 by Chris Peterson
-
-Interact with GitLab via PowerShell
-
-__Downloads__: 19,705 | __Repository__: https://github.com/chris-peterson/pwsh-gitlab
-
-## [EC2Remote](https://www.powershellgallery.com/Packages/EC2Remote/0.0.3) | 0.0.3
-
-### Published: 07/31/2024 15:32:58 by Joshua Rowland
-
-Opens remote desktop connections to AWS EC2 instances using SSM Session Manager.
-
-__Downloads__: 16 | __Repository__: https://github.com/row-io/ec2-remote
-
-## [ProcessTree](https://www.powershellgallery.com/Packages/ProcessTree/2.0.0) | 2.0.0
-
-### Published: 07/31/2024 13:40:28 by BaldCat
-
-This module writes the process tree.
-
-__Downloads__: 35 | __Repository__: https://github.com/baldcat18/ProcessTree
-
-*Updated: Wednesday, 07 August 2024 09:51:47 UTC*
+*Updated: Wednesday, 07 August 2024 17:51:45 UTC*
