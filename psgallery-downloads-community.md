@@ -1181,9 +1181,9 @@ See https://github.com/jborean93/omi for more details.
 
 __Downloads__: 2,876,286 | __Repository__: https://github.com/jborean93/omi
 
-## [Bicep](https://www.powershellgallery.com/Packages/Bicep/2.6.0) | 2.6.0
+## [Bicep](https://www.powershellgallery.com/Packages/Bicep/2.6.1) | 2.6.1
 
-### Published: 08/02/2024 12:05:17 by Stefan Ivemo
+### Published: 08/06/2024 21:08:50 by Stefan Ivemo
 
 A module to run Bicep using PowerShell. The module is a community project built using the Bicep assemblies to provide you with an enhanced Bicep experience directly from PowerShell without having Bicep CLI installed. 
 
@@ -2138,4 +2138,4 @@ Helper functions for PowerShell CI/CD scenarios.
 
 __Downloads__: 602,464 | __Repository__: https://github.com/RamblingCookieMonster/BuildHelpers/
 
-*Updated: Tuesday, 06 August 2024 17:51:54 UTC*
+*Updated: Wednesday, 07 August 2024 02:11:35 UTC*
