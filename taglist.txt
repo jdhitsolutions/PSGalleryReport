@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Wednesday, 07 August 2024 02:11:38 UTC
+Updated: Wednesday, 07 August 2024 09:51:55 UTC
 
 .bat
 .env
@@ -44,7 +44,6 @@ Updated: Wednesday, 07 August 2024 02:11:38 UTC
 300
 365
 36867
-3cx
 3d
 3dprinting
 3par
@@ -504,7 +503,6 @@ asana
 asbuiltreport
 asc
 ascii
-ascii85
 asciiart
 asdatabase
 asigra
@@ -665,6 +663,7 @@ azcompute
 azd
 azdisk
 azdo
+azereo
 azforensics
 azkeyvault
 aznetworking
@@ -789,13 +788,10 @@ barcodes
 baremetal
 base
 base-in-json
-base16
 base26
-base32
 base64
 base64string
 base64url
-base85
 basecamp
 based
 baseline
@@ -870,7 +866,6 @@ binomial
 bios
 bios_settings
 bios-settings
-bit
 bitbucket
 bitbucket-api
 bitbucket-server
@@ -1090,7 +1085,6 @@ cd+
 cdable_vars
 cdata
 cdb
-cdi
 cdm
 cdn
 cdp
@@ -1396,7 +1390,6 @@ comments
 commerce
 commfort
 commit
-commits
 common
 common-data-service
 commondataservice
@@ -1522,8 +1515,6 @@ control
 controller
 controlroom
 controlup
-conventional
-conventional-commits
 convereter
 converged_data_management
 conversational
@@ -1533,6 +1524,7 @@ conversion
 conversiontool
 convert
 convert-dtexceptiontomessage
+convert-movietogif
 convert-sid
 convert-windowsimage
 converter
@@ -1657,7 +1649,6 @@ crypto
 cryptocompare
 cryptocurrency
 cryptography
-cs137
 csc
 csharp
 csharp-watch
@@ -1703,6 +1694,7 @@ customeventlogfiles
 customevents
 custominformationservices
 customis
+customisation
 customization
 customlocation
 customlogs
@@ -1834,7 +1826,6 @@ dbase
 dbassistant
 dbatools
 dbcommand
-dbeaver
 dbfs
 dbnull
 dbops
@@ -2700,7 +2691,6 @@ firmware
 firmwareanalysis
 first
 fisher
-fissionproducts
 fitbit
 fits
 five
@@ -2783,8 +2773,6 @@ fqdn
 frame
 framework
 france
-free
-free-ware
 freeipa
 freenas
 freesoftwarefoundation
@@ -2839,7 +2827,6 @@ gainz
 gainz-chocolateysync
 gainz-keepass
 gainz-sqldb
-gal
 gallery
 game
 gamecategory:cards
@@ -3069,7 +3056,6 @@ guardicore
 gubbins
 guest
 guestconfiguration
-guests
 gui
 gui.cs
 guid
@@ -3739,6 +3725,7 @@ kidrsa
 kill
 kindle
 kinetic
+kinopoisk
 kintone
 klantcontroles
 kms
@@ -3749,6 +3736,7 @@ knowbe4
 knowledge
 knowledgebase
 koans
+kodi
 korn
 kotlin
 kql
@@ -4424,6 +4412,9 @@ msproject
 msrc
 msrdc
 mssql
+mssqlbynarymodule
+mssqlbynarypsmodule
+mssqlmodule
 mssqlplugins
 mssqlserver
 msteams
@@ -4518,6 +4509,8 @@ neo4j
 neovim
 neptune
 nerdfonts
+nerdio
+nerdioapi
 nerdymishka
 nessus
 nested
@@ -4619,6 +4612,7 @@ nlm
 nlog
 nmap
 nmbell
+nmm
 nntp
 node
 nodejs
@@ -4859,7 +4853,6 @@ oracle
 oraclecloudinfrastructure
 oraculum
 orbital
-orchestrate
 orchestration
 orchestrator
 order
@@ -5151,6 +5144,7 @@ plugin
 plugins
 pluralsight
 ply
+pmp
 pncit
 pnp
 pnp.powershell
@@ -5485,7 +5479,6 @@ prowl-notifications
 prowlapp
 proxmox
 proxmoxve
-proxsys
 proxy
 proxyfunction
 proxyfunctions
@@ -8413,6 +8406,9 @@ psmodules
 psmp
 psmsgraph
 psmsgraphapi
+psmssql
+psmssqlbynarymodule
+psmssqlmodule
 psmvp
 psnavigation
 psnexosisclient
@@ -8445,9 +8441,13 @@ psscriptsmonitoring
 pssendgrid
 pssession
 pssharper
+psslack
 pssqlite
 pssqlitebynarymodule
 pssqlitemodule
+pssqlserver
+pssqlserverbynarymodule
+pssqlservermodule
 psst
 psstgenerator
 pstablacus
@@ -8880,7 +8880,6 @@ rlan
 rmcp
 rmm
 rms
-rng
 roarwrecker
 robbyrussel
 robocopy
@@ -9447,6 +9446,7 @@ snmpset
 snmpv3
 snmpwalk
 snowflake
+snsmssqlpsmodule
 snspsadgroupmembers
 snspsscriptsmonitoring
 snssqlitepsmodule
@@ -9595,7 +9595,10 @@ sqlps
 sqlquery
 sqlserver
 sqlserveragent
+sqlserverbynarymodule
+sqlserverbynarypsmodule
 sqlserverclient
+sqlservermodule
 sqlvirtualmachine
 sqlvm
 sqr
@@ -10420,13 +10423,10 @@ utilities
 utility
 utils
 utm
-uudecode
-uuencode
 uuid
 uw
 uwp
 ux
-v20
 vadim
 vagrant
 vale
