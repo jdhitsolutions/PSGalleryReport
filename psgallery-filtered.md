@@ -3,6 +3,38 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [VMware.CloudFoundation.CertificateManagement](https://www.powershellgallery.com/Packages/VMware.CloudFoundation.CertificateManagement/1.5.4.1003) | 1.5.4.1003
+
+### Published: 08/07/2024 21:49:30 by Broadcom
+
+PowerShell Module for VMware Cloud Foundation Certificate Management
+
+__Downloads__: 857 | __Repository__: https://vmware.github.io/powershell-module-for-vmware-cloud-foundation-certificate-management
+
+## [PSLockScreenSlideShow](https://www.powershellgallery.com/Packages/PSLockScreenSlideShow/0.0.0) | 0.0.0
+
+### Published: 08/07/2024 21:35:29 by Frank Lindenblatt (Flittermelint)
+
+set single lockscreen image or display multiple images as slideshow
+
+__Downloads__: 0 | __Repository__: https://github.com/Flittermelint/PSLockScreenSlideShow
+
+## [PSSmartsheet](https://www.powershellgallery.com/Packages/PSSmartsheet/0.2.2) | 0.2.2
+
+### Published: 08/07/2024 20:34:03 by Skylar Ragan
+
+A Powershell wrapper for the Smartsheet C# SDK
+
+__Downloads__: 742 | __Repository__: https://github.com/skywayskase/PSSmartsheet
+
+## [Box](https://www.powershellgallery.com/Packages/Box/0.0.9) | 0.0.9
+
+### Published: 08/07/2024 20:04:58 by David de Mingo
+
+Gestor de màquines virtuals
+
+__Downloads__: 66 | __Repository__: https://gitlab.com/xtec/box/
+
 ## [Set-ScheduleRepositoryUpdateREDFISH](https://www.powershellgallery.com/Packages/Set-ScheduleRepositoryUpdateREDFISH/1.0.0) | 1.0.0
 
 ### Published: 08/07/2024 17:14:28 by Texas Roemer
@@ -111,14 +143,6 @@ __Downloads__: 638 | __Repository__:
 The non-official OpenAI PowerShell module. This module is used to interact with OpenAI API.
 
 __Downloads__: 55,726 | __Repository__: https://github.com/chenxizhang/openai-powershell/
-
-## [LS.Commands](https://www.powershellgallery.com/Packages/LS.Commands/1.0.4) | 1.0.4
-
-### Published: 08/07/2024 09:45:05 by larry.song
-
-Some functions for my work
-
-__Downloads__: 0 | __Repository__: 
 
 ## [CleanupMonster](https://www.powershellgallery.com/Packages/CleanupMonster/2.7.1) | 2.7.1
 
@@ -1511,6 +1535,22 @@ Wraps Selenium
 
 __Downloads__: 161 | __Repository__: 
 
+## [WindowsLab](https://www.powershellgallery.com/Packages/WindowsLab/0.9.0) | 0.9.0
+
+### Published: 08/06/2024 11:29:42 by Human.Against.Machine
+
+Tools to administer a Windows OS computer lab
+
+__Downloads__: 0 | __Repository__: https://github.com/HumanAgainstMachine/WindowsLab
+
+## [MSCatalogLTS](https://www.powershellgallery.com/Packages/MSCatalogLTS/1.0.3) | 1.0.3
+
+### Published: 08/06/2024 09:51:43 by Marco-online
+
+MSCatalogLTS is a Long-term support module for searching and downloading Windows updates
+
+__Downloads__: 0 | __Repository__: https://github.com/Marco-online/MSCatalogLTS
+
 ## [SentinelARConverter](https://www.powershellgallery.com/Packages/SentinelARConverter/2.4.2) | 2.4.2
 
 ### Published: 08/06/2024 09:15:26 by Fabian Bader
@@ -1518,6 +1558,14 @@ __Downloads__: 161 | __Repository__:
 Helper module to convert Sentinel Analytics Rules between YAML, ARM and back
 
 __Downloads__: 132,955 | __Repository__: https://github.com/f-bader/SentinelARConverter
+
+## [Freer.Scaffold](https://www.powershellgallery.com/Packages/Freer.Scaffold/0.0.1) | 0.0.1
+
+### Published: 08/06/2024 03:30:40 by David Freer
+
+Scaffold is project/directory orchestration utility for creating similiar/frequently created folder & file layouts
+
+__Downloads__: 0 | __Repository__: https://github.com/soulshined/workflow/tree/master/powershell/Modules/Freer.Scaffold
 
 ## [linuxtools](https://www.powershellgallery.com/Packages/linuxtools/1.0.1) | 1.0.1
 
@@ -1596,6 +1644,14 @@ This is an advanced PowerShell module for WDAC (Windows Defender Application Con
 ✔️ Get-CIPolicySetting: https://github.com/HotCakeX/Harden-Windows-Security/wiki/Get-CIPolicySetting
 
 __Downloads__: 4,219 | __Repository__: https://github.com/HotCakeX/Harden-Windows-Security/wiki/WDACConfig
+
+## [EnhancedWin32DeployerAO](https://www.powershellgallery.com/Packages/EnhancedWin32DeployerAO/0.0.1) | 0.0.1
+
+### Published: 08/05/2024 15:46:33 by Abdullah Ollivierre
+
+EnhancedWin32DeployerAO for PowerShell scripts.
+
+__Downloads__: 0 | __Repository__: 
 
 ## [EnhancedVPNAO](https://www.powershellgallery.com/Packages/EnhancedVPNAO/0.0.1) | 0.0.1
 
@@ -1802,6 +1858,30 @@ __Downloads__: 4,415,273 | __Repository__: https://dbatools.io/
 Stateless library interactive helpers.
 
 __Downloads__: 13 | __Repository__: https://github.com/nightroman/FarNet.Stateless
+
+## [TeamsToolsReset](https://www.powershellgallery.com/Packages/TeamsToolsReset/1.0.0) | 1.0.0
+
+### Published: 08/04/2024 04:00:13 by Shane Hoey
+
+A collection of scripts to extend the funtionality of the Direct Routing Cmdlets
+
+__Downloads__: 0 | __Repository__: https://github.com/shanehoey/TeamsTools/
+
+## [TeamsTools](https://www.powershellgallery.com/Packages/TeamsTools/1.0.0) | 1.0.0
+
+### Published: 08/04/2024 03:46:03 by Shane Hoey
+
+A collection of scripts to extend the funtionality of the Direct Routing Cmdlets
+
+__Downloads__: 0 | __Repository__: https://github.com/shanehoey/TeamsTools/
+
+## [EnhancedLoggingAO](https://www.powershellgallery.com/Packages/EnhancedLoggingAO/0.0.1) | 0.0.1
+
+### Published: 08/04/2024 01:25:58 by Abdullah Ollivierre
+
+Enhanced logging module for PowerShell scripts.
+
+__Downloads__: 0 | __Repository__: 
 
 ## [PokeAPI](https://www.powershellgallery.com/Packages/PokeAPI/1.1.0) | 1.1.0
 
@@ -2050,88 +2130,4 @@ Devolutions Gateway PowerShell Module
 
 __Downloads__: 8,892 | __Repository__: https://github.com/Devolutions/devolutions-gateway/tree/master/powershell/
 
-## [Arcane_Server](https://www.powershellgallery.com/Packages/Arcane_Server/1.0.0) | 1.0.0
-
-### Published: 08/01/2024 14:13:14 by Jean-Pierre LESUEUR
-
-Arcane - A secure remote desktop application for Windows with the particularity of having a server entirely written in PowerShell and a cross-platform client (Python/QT6).
-
-__Downloads__: 0 | __Repository__: 
-
-## [ControlUp.Automation](https://www.powershellgallery.com/Packages/ControlUp.Automation/1.0.2) | 1.0.2
-
-### Published: 08/01/2024 14:02:57 by ControlUp
-
-ControlUp Automation is a new module which allows ControlUp users to deploy and configure ControlUp components in a ControlUp organization. With this module, you can do the following:
-Deploy, upgrade, or uninstall ControlUp Monitors.
-Deploy, upgrade, or uninstall ControlUp Agents.
-For each version release, ControlUp will publish detailed release notes. These notes will cover new features, improvements, bug fixes, and any deprecated features. Release notes will be available on the ControlUp website to ensure you get updated about the changes and how they may affect the use of this module
-
-__Downloads__: 195 | __Repository__: 
-
-## [MyAnimatedLamp](https://www.powershellgallery.com/Packages/MyAnimatedLamp/1.0.8) | 1.0.8
-
-### Published: 08/01/2024 13:49:44 by iuv
-
-Show an animated lamp.
-
-__Downloads__: 22 | __Repository__: 
-
-## [PowerInfoblox](https://www.powershellgallery.com/Packages/PowerInfoblox/1.0.26) | 1.0.26
-
-### Published: 08/01/2024 12:37:10 by Przemyslaw Klys
-
-Helper module for Infoblox.
-
-__Downloads__: 207 | __Repository__: https://github.com/EvotecIT/PowerInfoblox
-
-## [TeamsPhoneNumberManagement](https://www.powershellgallery.com/Packages/TeamsPhoneNumberManagement/1.1.2) | 1.1.2
-
-### Published: 08/01/2024 11:35:42 by Jamy Klotzsche
-
-Custom module to manage Teams phone numbers. This module is used as part of the TeamsPhoneNumberManagement solution and provides the needed functions for the API based on an Azure Function App. This API has CRUD capabilities with database, which contains information about configured countries, departments, forbidden numbers (e.g. emergency telephone numbers), extension / phone ranges and already used phone numbers. The already used phone numbers include phone numbers used by Teams users as well as blocked phone numbers for certain devices.
-
-__Downloads__: 0 | __Repository__: https://github.com/jklotzsche-msft/TeamsPhoneNumberManagement
-
-## [HaloAPI](https://www.powershellgallery.com/Packages/HaloAPI/1.22.1) | 1.22.1
-
-### Published: 08/01/2024 10:20:38 by Mikey O'Toole / Luke Whitelock
-
-This module provides an interface to the Halo API.
-
-__Downloads__: 283,074 | __Repository__: https://github.com/homotechsual/HaloAPI
-
-## [MfaOnDemand](https://www.powershellgallery.com/Packages/MfaOnDemand/0.10.0) | 0.10.0
-
-### Published: 08/01/2024 10:01:58 by lestoilfante
-
-MfaOnDemand is a PowerShell module designed to send custom and arbitrary MFA requests to Entra ID users.
-Useful for quickly confirming user identities for Service Desk usage or for any automation purposes.
-
-__Downloads__: 8 | __Repository__: https://github.com/lestoilfante/MfaOnDemand
-
-## [NetApp.CBS.AVS](https://www.powershellgallery.com/Packages/NetApp.CBS.AVS/1.0.37) | 1.0.37
-
-### Published: 08/01/2024 09:57:01 by NetApp
-
-Netapp CBS Appliance
-
-__Downloads__: 737 | __Repository__: https://mysupport.netapp.com/
-
-## [PSWriteHTML](https://www.powershellgallery.com/Packages/PSWriteHTML/1.27.0) | 1.27.0
-
-### Published: 08/01/2024 06:37:53 by Przemyslaw Klys
-
-PSWriteHTML is PowerShell Module to generate beautiful HTML reports, pages, emails without any knowledge of HTML, CSS or JavaScript. To get started basics PowerShell knowledge is required.
-
-__Downloads__: 2,923,903 | __Repository__: https://github.com/EvotecIT/PSWriteHTML
-
-## [PSSharedGoods](https://www.powershellgallery.com/Packages/PSSharedGoods/0.0.295) | 0.0.295
-
-### Published: 08/01/2024 06:31:01 by Przemyslaw Klys
-
-Module covering functions that are shared within multiple projects
-
-__Downloads__: 362,917 | __Repository__: https://github.com/EvotecIT/PSSharedGoods
-
-*Updated: Wednesday, 07 August 2024 17:51:45 UTC*
+*Updated: Thursday, 08 August 2024 02:11:00 UTC*
