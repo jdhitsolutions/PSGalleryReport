@@ -3,6 +3,46 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [TeamPermissions](https://www.powershellgallery.com/Packages/TeamPermissions/1.0.1) | 1.0.1
+
+### Published: 08/08/2024 08:19:26 by Jos Lieben (jos@lieben.nu)
+
+Reporting on ALL permissions in a Team site (or sharepoint or onedrive...)
+
+__Downloads__: 0 | __Repository__: 
+
+## [GitHub](https://www.powershellgallery.com/Packages/GitHub/0.3.111) | 0.3.111
+
+### Published: 08/08/2024 07:58:55 by PSModule
+
+A PowerShell module to interact with the GitHub API.
+
+__Downloads__: 8,872 | __Repository__: https://github.com/PSModule/GitHub
+
+## [RiverMeadow.Development.Migrate](https://www.powershellgallery.com/Packages/RiverMeadow.Development.Migrate/1.0.121.554) | 1.0.121.554
+
+### Published: 08/08/2024 05:42:30 by RiverMeadow Engineering Team
+
+Provides cmdlets for starting migration of applications to supported clouds using the RiverMeadow platform.
+
+__Downloads__: 970 | __Repository__: https://migrate.rivermeadow.com/
+
+## [Catesta](https://www.powershellgallery.com/Packages/Catesta/2.20.0) | 2.20.0
+
+### Published: 08/08/2024 04:27:47 by Jake Morrison
+
+Catesta is a PowerShell module project generator. It uses templates to rapidly scaffold test and build integration for a variety of CI/CD platforms.
+
+__Downloads__: 28,445 | __Repository__: https://github.com/techthoughts2/Catesta
+
+## [NCRestAPI](https://www.powershellgallery.com/Packages/NCRestAPI/1.0.3) | 1.0.3
+
+### Published: 08/08/2024 04:18:15 by zach.frazier
+
+PowerShell module for interacting with N-able N-central REST API
+
+__Downloads__: 0 | __Repository__: https://github.com/soybigmac/NCRestAPI
+
 ## [VMware.CloudFoundation.CertificateManagement](https://www.powershellgallery.com/Packages/VMware.CloudFoundation.CertificateManagement/1.5.4.1003) | 1.5.4.1003
 
 ### Published: 08/07/2024 21:49:30 by Broadcom
@@ -18,6 +58,22 @@ __Downloads__: 857 | __Repository__: https://vmware.github.io/powershell-module-
 set single lockscreen image or display multiple images as slideshow
 
 __Downloads__: 0 | __Repository__: https://github.com/Flittermelint/PSLockScreenSlideShow
+
+## [test_dependency_mod](https://www.powershellgallery.com/Packages/test_dependency_mod/1.0.0) | 1.0.0
+
+### Published: 08/07/2024 21:32:17 by americks
+
+Test dependency module
+
+__Downloads__: 0 | __Repository__: 
+
+## [NinjaRmmTicketTool](https://www.powershellgallery.com/Packages/NinjaRmmTicketTool/1.0.0) | 1.0.0
+
+### Published: 08/07/2024 20:53:53 by Kevin Cleary
+
+A very unofficial PowerShell module for creating NinjaRMM tickets.
+
+__Downloads__: 0 | __Repository__: https://github.com/Kalichuza/NinjaRmmTicketTool
 
 ## [PSSmartsheet](https://www.powershellgallery.com/Packages/PSSmartsheet/0.2.2) | 0.2.2
 
@@ -144,6 +200,14 @@ The non-official OpenAI PowerShell module. This module is used to interact with 
 
 __Downloads__: 55,726 | __Repository__: https://github.com/chenxizhang/openai-powershell/
 
+## [LS.Commands](https://www.powershellgallery.com/Packages/LS.Commands/1.0.4) | 1.0.4
+
+### Published: 08/07/2024 09:45:05 by larry.song
+
+Some functions for my work
+
+__Downloads__: 0 | __Repository__: 
+
 ## [CleanupMonster](https://www.powershellgallery.com/Packages/CleanupMonster/2.7.1) | 2.7.1
 
 ### Published: 08/07/2024 08:54:49 by Przemyslaw Klys
@@ -151,14 +215,6 @@ __Downloads__: 55,726 | __Repository__: https://github.com/chenxizhang/openai-po
 This module provides an easy way to cleanup Active Directory from dead/old objects based on various criteria. It can also disable, move or delete objects. It can utilize Azure AD, Intune and Jamf to get additional information about objects before deleting them.
 
 __Downloads__: 432 | __Repository__: https://github.com/EvotecIT/CleanupMonster
-
-## [RiverMeadow.Development.Migrate](https://www.powershellgallery.com/Packages/RiverMeadow.Development.Migrate/1.0.121.550) | 1.0.121.550
-
-### Published: 08/07/2024 06:31:18 by RiverMeadow Engineering Team
-
-Provides cmdlets for starting migration of applications to supported clouds using the RiverMeadow platform.
-
-__Downloads__: 970 | __Repository__: https://migrate.rivermeadow.com/
 
 ## [AzureToolsBD09](https://www.powershellgallery.com/Packages/AzureToolsBD09/4.0) | 4.0
 
@@ -1559,22 +1615,6 @@ Helper module to convert Sentinel Analytics Rules between YAML, ARM and back
 
 __Downloads__: 132,955 | __Repository__: https://github.com/f-bader/SentinelARConverter
 
-## [Freer.Scaffold](https://www.powershellgallery.com/Packages/Freer.Scaffold/0.0.1) | 0.0.1
-
-### Published: 08/06/2024 03:30:40 by David Freer
-
-Scaffold is project/directory orchestration utility for creating similiar/frequently created folder & file layouts
-
-__Downloads__: 0 | __Repository__: https://github.com/soulshined/workflow/tree/master/powershell/Modules/Freer.Scaffold
-
-## [linuxtools](https://www.powershellgallery.com/Packages/linuxtools/1.0.1) | 1.0.1
-
-### Published: 08/06/2024 03:23:03 by skatterbrainz
-
-An experimental PowerShell thing for Linux nerds. Laugh if you want. I have my earbuds on full volume.
-
-__Downloads__: 0 | __Repository__: https://github.com/Skatterbrainz/LinuxTools
-
 ## [OSDPShell](https://www.powershellgallery.com/Packages/OSDPShell/0.0.2) | 0.0.2
 
 ### Published: 08/06/2024 02:55:14 by Jonathan Horvath
@@ -1644,30 +1684,6 @@ This is an advanced PowerShell module for WDAC (Windows Defender Application Con
 ✔️ Get-CIPolicySetting: https://github.com/HotCakeX/Harden-Windows-Security/wiki/Get-CIPolicySetting
 
 __Downloads__: 4,219 | __Repository__: https://github.com/HotCakeX/Harden-Windows-Security/wiki/WDACConfig
-
-## [EnhancedWin32DeployerAO](https://www.powershellgallery.com/Packages/EnhancedWin32DeployerAO/0.0.1) | 0.0.1
-
-### Published: 08/05/2024 15:46:33 by Abdullah Ollivierre
-
-EnhancedWin32DeployerAO for PowerShell scripts.
-
-__Downloads__: 0 | __Repository__: 
-
-## [EnhancedVPNAO](https://www.powershellgallery.com/Packages/EnhancedVPNAO/0.0.1) | 0.0.1
-
-### Published: 08/05/2024 15:46:33 by Abdullah Ollivierre
-
-EnhancedVPNAO for PowerShell scripts.
-
-__Downloads__: 0 | __Repository__: 
-
-## [EnhancedSPOAO](https://www.powershellgallery.com/Packages/EnhancedSPOAO/0.0.1) | 0.0.1
-
-### Published: 08/05/2024 15:46:32 by Abdullah Ollivierre
-
-EnhancedSPOAO for PowerShell scripts.
-
-__Downloads__: 0 | __Repository__: 
 
 ## [EnhancedPSADTAO](https://www.powershellgallery.com/Packages/EnhancedPSADTAO/0.0.1) | 0.0.1
 
@@ -2114,20 +2130,4 @@ Use Active Directory Service Interfaces to query LDAP and WinNT directories
 
 __Downloads__: 2,097 | __Repository__: 
 
-## [0install](https://www.powershellgallery.com/Packages/0install/2.25.11) | 2.25.11
-
-### Published: 08/01/2024 15:10:54 by Bastian Eicher
-
-Zero Install is a decentralized cross-platform software-installation system.
-
-__Downloads__: 4,820,963 | __Repository__: https://0install.net/
-
-## [DevolutionsGateway](https://www.powershellgallery.com/Packages/DevolutionsGateway/2024.3.1) | 2024.3.1
-
-### Published: 08/01/2024 15:09:26 by Devolutions
-
-Devolutions Gateway PowerShell Module
-
-__Downloads__: 8,892 | __Repository__: https://github.com/Devolutions/devolutions-gateway/tree/master/powershell/
-
-*Updated: Thursday, 08 August 2024 02:11:00 UTC*
+*Updated: Thursday, 08 August 2024 09:51:39 UTC*
