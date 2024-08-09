@@ -538,9 +538,9 @@ General Scripting Framework, providing PowerShell-specific infrastructure for ot
 
 __Downloads__: 6,067,753 | __Repository__: http://psframework.org/
 
-## [JumpCloud](https://www.powershellgallery.com/Packages/JumpCloud/2.12.0) | 2.12.0
+## [JumpCloud](https://www.powershellgallery.com/Packages/JumpCloud/2.13.0) | 2.13.0
 
-### Published: 06/18/2024 21:14:23 by JumpCloud Solutions Architect Team
+### Published: 08/08/2024 22:23:39 by JumpCloud Solutions Architect Team
 
 PowerShell functions to manage a JumpCloud Directory-as-a-Service
 
@@ -2138,4 +2138,4 @@ Helper functions for PowerShell CI/CD scenarios.
 
 __Downloads__: 602,464 | __Repository__: https://github.com/RamblingCookieMonster/BuildHelpers/
 
-*Updated: Thursday, 08 August 2024 17:51:36 UTC*
+*Updated: Friday, 09 August 2024 02:11:44 UTC*
