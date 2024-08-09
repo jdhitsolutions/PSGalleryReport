@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Friday, 09 August 2024 09:51:52 UTC
+Updated: Friday, 09 August 2024 17:51:54 UTC
 
 .bat
 .env
@@ -113,7 +113,9 @@ action1
 actiongroup
 actionplan
 actions
+activate
 activation
+activationscripts
 active
 active_directory
 active-directory
@@ -203,6 +205,7 @@ administrativeuser
 administrator
 admintools
 adml
+admonition
 admpwd
 admx
 ado
@@ -222,7 +225,6 @@ adsp
 adsync
 aduser
 aduseraccountlockout
-adusergroups
 adv180002
 adv180018
 adv190013
@@ -322,8 +324,6 @@ amateur-data-interchange-format
 amateur-radio
 amateurradio
 amazon
-amazonaws
-amazonmgn
 amazontitan
 amazonwebservices
 amend
@@ -663,7 +663,6 @@ azcompute
 azd
 azdisk
 azdo
-azereo
 azforensics
 azkeyvault
 aznetworking
@@ -850,6 +849,7 @@ bigcommerce
 bigeval
 bigfix
 bigquery
+bikeshed
 billing
 billingbenefits
 bimi
@@ -918,6 +918,7 @@ bofh
 boilerplate
 boinc
 bold-text
+bolt
 bom
 book
 bookmark
@@ -1025,6 +1026,7 @@ calculate
 calculator
 calendar
 callingcode
+callout
 callqueue
 calvin-and-hobbes
 cam
@@ -1036,7 +1038,6 @@ cancel
 cancellation
 canonical
 cantara
-capability
 capacity
 capacitymanagement
 capainstaller
@@ -1049,7 +1050,6 @@ carbon
 carbonawarecomputing
 carbonintensity
 card
-cardwirth
 cares
 cargo
 carousel
@@ -1156,6 +1156,7 @@ chefconf2016
 chenxizhang
 cherrypy
 cherwell
+chfs
 chi
 china
 chmod
@@ -1587,6 +1588,7 @@ coveralls.io
 covid
 covid-19
 cpm
+cppm
 cpu
 cpuid
 cpuid-information
@@ -1701,6 +1703,7 @@ customization
 customlocation
 customlogs
 customproviders
+cutehttpfileserver
 cvad
 cve
 cve-2021-34527
@@ -1797,7 +1800,6 @@ datarow
 datasafe
 datascience
 dataset
-datasetdependency
 datashare
 datasource
 datastore
@@ -1823,10 +1825,7 @@ db
 db2
 dba
 dbaas
-dbai
 dbase
-dbassistant
-dbatools
 dbcommand
 dbeaver
 dbfs
@@ -2134,6 +2133,8 @@ downloadfacebookvideo
 downloadfilefromsite
 downloadinfo
 downloading
+downloadoffice
+downloadofficertool
 downloads
 downloadyoutubevideo
 dozent
@@ -2292,6 +2293,7 @@ elevate
 elevated
 elevatedconsole
 elevatedmode
+elevation
 elgato
 elk
 elm
@@ -2707,6 +2709,7 @@ flash
 flasharray
 flatfile
 flatten
+flavor
 fleet
 fleetsoftwareupdate
 flex
@@ -2869,6 +2872,7 @@ generates
 generatewif
 generation
 generativeai
+generativeaiinference
 generator
 generic
 genericartifactscontent
@@ -2921,6 +2925,7 @@ get-samplingperiod
 get-stalecomps
 get-staleusers
 get-thermalstamp
+get-uptime
 getfirmwareenvironmentvariable
 getfirmwaretype
 ggplot
@@ -3280,6 +3285,7 @@ humanly
 humor
 humorous
 hunter
+hwid
 hybrid
 hybridrunbookworker
 hyper-v
@@ -3320,7 +3326,6 @@ icingaplugins
 icingapowershell
 icingapowershellframework
 icingawindows
-icloud
 icmp
 icon
 icons
@@ -3458,6 +3463,8 @@ installationmanager
 installedapplications
 installer
 installers
+installoffice
+installofficertool
 installwindows
 instance
 instant
@@ -3636,6 +3643,7 @@ jobscheduler
 johnshopkins
 join
 join-object
+jojoba
 joke
 jotform
 journal
@@ -3866,6 +3874,7 @@ linear
 linearalgebra
 lingeringobjects
 link
+link-capability
 link-preview
 linkedin
 linkedservice
@@ -3897,6 +3906,7 @@ llama3
 lldp
 lmhost
 lmhosts
+lms
 load
 loadbalancer
 loadbalancer.org
@@ -4108,6 +4118,7 @@ marvell_semiconductor_inc
 marvellfcpowerkit
 marvellfcprovider
 marvellqlogicfcpowerkit
+mas
 mask
 mass
 masstransit
@@ -4210,7 +4221,6 @@ metrics
 metrolink
 mfa
 mga
-mgn
 mi
 micro
 micro-orm
@@ -4345,6 +4355,7 @@ monitoringplugins
 monitoringsolutions
 monitors
 monthlyupdate
+moodle
 moonshot
 more
 mosaic
@@ -4735,11 +4746,11 @@ office2013
 office2016
 office2019
 office365
+office365managementapi
 officedev
 officegraph
 officemessageencryption
 officertool
-offline
 offlinewimservicing
 ofx
 ogg
@@ -4759,7 +4770,6 @@ omnistack
 oms
 omsagent
 on
-on-demand
 on-premise
 onboard
 onboardadministrator
@@ -4792,6 +4802,7 @@ ontap_pstk_9.15.1
 ontap_pstk_9.8.0
 onyphe
 onyphe.io
+oob
 oop
 op
 opa
@@ -5027,6 +5038,7 @@ pcapng
 pci-dss
 pcloud
 pcsetup
+pcsv
 pdb
 pdf
 pdf-document-processor
@@ -5130,6 +5142,7 @@ player
 playlists
 playwright
 pleasant
+pleasantpasswordserver
 plex
 plist
 plog
@@ -5215,6 +5228,7 @@ poshy-ecks
 poshy-env-proxy
 poshy-env-var
 poshy-ls-isms
+poshy-lucidity
 poshy-multimedia
 poshy-net
 poshy-notify-send
@@ -5248,6 +5262,7 @@ poshy-wrap-pipenv
 poshy-wrap-pyenv
 poshy-wrap-pylint
 poshy-wrap-python
+poshy-wrap-ruby
 poshy-wrap-systemctl
 poshy-wrap-terraform
 poshy-wrap-terragrunt
@@ -6524,6 +6539,9 @@ pscommand_invoke-piplistoutdated
 pscommand_invoke-pipuninstall
 pscommand_invoke-pyenv
 pscommand_invoke-pylintreportsdisabled
+pscommand_invoke-ruby
+pscommand_invoke-rubyexecute
+pscommand_invoke-rubyexecutehttpdhere
 pscommand_invoke-systemctl-add-requires
 pscommand_invoke-systemctl-add-wants
 pscommand_invoke-systemctl-cancel
@@ -7013,6 +7031,7 @@ pscommand_pylint-quick
 pscommand_pyserver
 pscommand_python
 pscommand_python3
+pscommand_rb
 pscommand_read-dotenv
 pscommand_register-argcompleteargumentcompleter
 pscommand_remove_gem
@@ -7040,12 +7059,15 @@ pscommand_reset-gitworkingtreetolastcommitlosechanges
 pscommand_reset-gitworkingtreetolastcommitlosechangesandcleanfully
 pscommand_resume-gitbranchbaseupdate
 pscommand_resume-gitcherrypick
+pscommand_rrun
+pscommand_rserver
 pscommand_sc-disable-now
 pscommand_sc-enable-now
 pscommand_sc-mask-now
 pscommand_scu-disable-now
 pscommand_scu-enable-now
 pscommand_scu-mask-now
+pscommand_search-commandpath
 pscommand_search-ruby
 pscommand_set-envvar
 pscommand_set-gitremoteurl
@@ -7096,9 +7118,14 @@ pscommand_syspip3
 pscommand_syspip3_package_location
 pscommand_ta
 pscommand_tad
+pscommand_test-command
 pscommand_test-d
+pscommand_test-elevation
 pscommand_test-f
+pscommand_test-linkcapability
 pscommand_test-o
+pscommand_test-reparsepoint
+pscommand_test-sessioninteractivity
 pscommand_test-x
 pscommand_tf
 pscommand_tfa
@@ -7924,6 +7951,9 @@ psfunction_invoke-piplistoutdated
 psfunction_invoke-pipuninstall
 psfunction_invoke-pyenv
 psfunction_invoke-pylintreportsdisabled
+psfunction_invoke-ruby
+psfunction_invoke-rubyexecute
+psfunction_invoke-rubyexecutehttpdhere
 psfunction_invoke-systemctl-add-requires
 psfunction_invoke-systemctl-add-wants
 psfunction_invoke-systemctl-cancel
@@ -8251,6 +8281,7 @@ psfunction_sc-mask-now
 psfunction_scu-disable-now
 psfunction_scu-enable-now
 psfunction_scu-mask-now
+psfunction_search-commandpath
 psfunction_search-ruby
 psfunction_set-envvar
 psfunction_set-gitremoteurl
@@ -8293,9 +8324,14 @@ psfunction_stop-gitcherrypick
 psfunction_switch-gitbranchandtrack
 psfunction_switch-gitbranchmain
 psfunction_switch-gitbranchnew
+psfunction_test-command
 psfunction_test-d
+psfunction_test-elevation
 psfunction_test-f
+psfunction_test-linkcapability
 psfunction_test-o
+psfunction_test-reparsepoint
+psfunction_test-sessioninteractivity
 psfunction_test-x
 psfunction_universalarchive
 psfunction_update-gitbranchbasefrombranchmain
@@ -8428,6 +8464,7 @@ pstanss
 psthread
 pstk
 pstwitter
+pswa
 pswindocumentation
 pswinreporting
 pswinreportingv2
@@ -8479,6 +8516,7 @@ putty
 pve
 pvr
 pvs
+pwa
 pwned
 pwpush
 pwsafe
@@ -8532,7 +8570,6 @@ queue
 queues
 queuing
 quick-response
-quickaccess
 quickbase
 quickbooks
 quicksetup
@@ -8567,6 +8604,7 @@ random-password
 random-password-generator
 randompassword
 randomuser
+randomusers
 range
 rangescan
 rangetocidr
@@ -8602,12 +8640,12 @@ rdpsession
 rdpsign
 rds
 rdsgw
+react-stockcharts
 read
 read-slog
 readable
 reader
 readiness
-readme
 readpdf
 readthedocs
 real-time
@@ -8677,6 +8715,7 @@ regex
 region
 regions
 regiser-argumentcompleter
+register
 register-argumentcompleter
 registered
 registrar
@@ -8844,6 +8883,8 @@ riskiq
 riskpro
 risksense
 rivermeadow
+rlan
+rmcp
 rmm
 rms
 rng
@@ -9049,6 +9090,7 @@ script-to-executable
 scriptanalyzer
 scriptblock
 scriptblocklogging
+scriptbook
 scriptcop
 scriptcreation
 scriptcs
@@ -9360,6 +9402,8 @@ skypeforbusinessonline
 skypeonline
 skytap
 slack
+slash
+slashcommands
 slideshow
 slmgr
 sln
@@ -9373,6 +9417,7 @@ smartarraycmdlets
 smarthome
 smartsheet
 smartwatch
+smash
 smb
 smb1
 smb2
@@ -9484,6 +9529,7 @@ speach
 speak
 speaker
 spec
+specification
 specify
 spectre
 spectrumconnect
@@ -9658,6 +9704,7 @@ stig
 stigrepo
 stingar
 stock
+stockcharts
 stocks
 stoicism
 stoics
@@ -9711,6 +9758,7 @@ submission
 subnet
 subnet-calculator
 subnetcalculator
+subnetcalulator
 subnetdetails
 subnetmapping
 subnetmask
@@ -9944,6 +9992,7 @@ test-samcmpackageexists
 test-userisadministrator
 test-xml
 test123
+testaccount
 testautomation
 tester
 testimonial
@@ -9991,7 +10040,6 @@ thermostat
 thinprint
 third-party-libraries
 third-party-notice
-thispc
 thoughtfortheday
 thousandeyes
 thread
@@ -10115,6 +10163,7 @@ trec
 tree
 tree-structure
 treesize
+treffynnon
 trein
 trello
 trellops
@@ -10167,6 +10216,7 @@ tv
 tvguide
 tweet
 twig
+twilio
 twincat
 twinkly
 twitch
@@ -10250,6 +10300,7 @@ ud-toploader
 ud-trendline
 ud-typing
 ud-window
+ud-wordtree
 udcm
 udfeedback
 udp
@@ -10359,7 +10410,6 @@ user
 user-environment
 userdiscovery
 usergroup
-usergroups
 userinterface
 usermanagement
 username
@@ -10845,6 +10895,7 @@ wisdom
 with
 wiz
 wizard
+wkhtmltopdf
 wlan
 wmf
 wmf5
@@ -10999,6 +11050,7 @@ yahw
 yamaha
 yaml
 yandex
+yapg
 yarn
 yetanotherhelloworld
 yml

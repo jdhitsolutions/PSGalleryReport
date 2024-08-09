@@ -9,7 +9,7 @@ These are the most popular 250 modules based on total download count for modules
 
 This module contain cmdlets to manage Windows Update Client.
 
-__Downloads__: 730,171,962 | __Repository__: https://github.com/mgajda83/PSWindowsUpdate
+__Downloads__: 730,199,841 | __Repository__: https://github.com/mgajda83/PSWindowsUpdate
 
 ## [SpeculationControl](https://www.powershellgallery.com/Packages/SpeculationControl/1.0.18) | 1.0.18
 
@@ -17,7 +17,7 @@ __Downloads__: 730,171,962 | __Repository__: https://github.com/mgajda83/PSWindo
 
 This module provides the ability to query the speculation control settings for the system.
 
-__Downloads__: 518,250,905 | __Repository__: 
+__Downloads__: 518,251,019 | __Repository__: 
 
 ## [RunAsUser](https://www.powershellgallery.com/Packages/RunAsUser/2.4.0) | 2.4.0
 
@@ -25,7 +25,7 @@ __Downloads__: 518,250,905 | __Repository__:
 
 This module allows you to execute scripts under the current user while running as SYSTEM using impersonation.
 
-__Downloads__: 86,242,355 | __Repository__: https://github.com/KelvinTegelaar/RunAsUser
+__Downloads__: 86,244,359 | __Repository__: https://github.com/KelvinTegelaar/RunAsUser
 
 ## [powershell-yaml](https://www.powershellgallery.com/Packages/powershell-yaml/0.4.7) | 0.4.7
 
@@ -33,7 +33,7 @@ __Downloads__: 86,242,355 | __Repository__: https://github.com/KelvinTegelaar/Ru
 
 Powershell module for serializing and deserializing YAML
 
-__Downloads__: 84,172,018 | __Repository__: 
+__Downloads__: 84,173,185 | __Repository__: 
 
 ## [Carbon](https://www.powershellgallery.com/Packages/Carbon/2.15.1) | 2.15.1
 
@@ -58,7 +58,7 @@ Carbon is a PowerShell module for automating the configuration Windows 7, 8, 200
 
 All functions are idempotent: when run multiple times with the same arguments, your system will be in the same state without failing or producing errors.
 
-__Downloads__: 74,217,551 | __Repository__: http://get-carbon.org/
+__Downloads__: 74,217,957 | __Repository__: http://get-carbon.org/
 
 ## [PendingReboot](https://www.powershellgallery.com/Packages/PendingReboot/0.9.0.6) | 0.9.0.6
 
@@ -66,7 +66,7 @@ __Downloads__: 74,217,551 | __Repository__: http://get-carbon.org/
 
 Module to detect Windows OS pending reboots.
 
-__Downloads__: 61,402,530 | __Repository__: https://github.com/bcwilhite/PendingReboot/
+__Downloads__: 61,402,809 | __Repository__: https://github.com/bcwilhite/PendingReboot/
 
 ## [GetBIOS](https://www.powershellgallery.com/Packages/GetBIOS/1.3.3) | 1.3.3
 
@@ -1764,7 +1764,7 @@ __Downloads__: 1,219,115 | __Repository__: https://dbatools.io/
 
 Scripting Tools for Windows PowerShell : iLO Cmdlets uses the RIBCL and Redfish interface to communicate to iLO. These cmdlets can be used to configure and manage iLO on HPE ProLiant Gen8, Gen9, Gen10, Gen10 Plus or Gen11 servers.
 
-__Downloads__: 1,211,122 | __Repository__: https://www.hpe.com/servers/powershell
+__Downloads__: 1,211,141 | __Repository__: https://www.hpe.com/servers/powershell
 
 ## [AdmPwd.PS](https://www.powershellgallery.com/Packages/AdmPwd.PS/6.3.1.0) | 6.3.1.0
 
@@ -1772,7 +1772,7 @@ __Downloads__: 1,211,122 | __Repository__: https://www.hpe.com/servers/powershel
 
 Provides cmdlets for configuration and usage of Local admin password management solution
 
-__Downloads__: 1,162,911 | __Repository__: 
+__Downloads__: 1,162,920 | __Repository__: 
 
 ## [Pscx](https://www.powershellgallery.com/Packages/Pscx/3.3.2) | 3.3.2
 
@@ -1780,7 +1780,7 @@ __Downloads__: 1,162,911 | __Repository__:
 
 PowerShell Community Extensions (PSCX) base module which implements a general purpose set of Cmdlets.
 
-__Downloads__: 1,156,271 | __Repository__: https://github.com/Pscx/Pscx
+__Downloads__: 1,156,301 | __Repository__: https://github.com/Pscx/Pscx
 
 ## [Mdbc](https://www.powershellgallery.com/Packages/Mdbc/6.7.2) | 6.7.2
 
@@ -1788,7 +1788,7 @@ __Downloads__: 1,156,271 | __Repository__: https://github.com/Pscx/Pscx
 
 Mdbc module - MongoDB Cmdlets for PowerShell
 
-__Downloads__: 1,134,351 | __Repository__: https://github.com/nightroman/Mdbc
+__Downloads__: 1,134,356 | __Repository__: https://github.com/nightroman/Mdbc
 
 ## [AzStorageTable](https://www.powershellgallery.com/Packages/AzStorageTable/1.0.2) | 1.0.2
 
@@ -1804,7 +1804,7 @@ __Downloads__: 1,092,789 | __Repository__:
 
 Package Management (OneGet) provider that facilitates installing WinGet packages from any NuGet repository.
 
-__Downloads__: 1,071,132 | __Repository__: https://github.com/ethanbergstrom/WinGet
+__Downloads__: 1,071,173 | __Repository__: https://github.com/ethanbergstrom/WinGet
 
 ## [azure.databricks.cicd.tools](https://www.powershellgallery.com/Packages/azure.databricks.cicd.tools/2.2.5727) | 2.2.5727
 
@@ -1812,7 +1812,7 @@ __Downloads__: 1,071,132 | __Repository__: https://github.com/ethanbergstrom/Win
 
 PowerShell module to help with Azure Databricks CI & CD Scenarios by simplifying the API or CLI calls into idempotent commands. See https://github.com/DataThirstLtd/azure.databricks.cicd.tools & https://datathirst.net
 
-__Downloads__: 1,068,010 | __Repository__: https://github.com/DataThirstLtd/azure.databricks.cicd.tools
+__Downloads__: 1,068,012 | __Repository__: https://github.com/DataThirstLtd/azure.databricks.cicd.tools
 
 ## [testmodule99](https://www.powershellgallery.com/Packages/testmodule99/0.0.93) | 0.0.93
 
@@ -1820,7 +1820,7 @@ __Downloads__: 1,068,010 | __Repository__: https://github.com/DataThirstLtd/azur
 
 test
 
-__Downloads__: 1,062,444 | __Repository__: 
+__Downloads__: 1,062,468 | __Repository__: 
 
 ## [DisplaySettings](https://www.powershellgallery.com/Packages/DisplaySettings/0.0.2) | 0.0.2
 
@@ -1828,7 +1828,7 @@ __Downloads__: 1,062,444 | __Repository__:
 
 get/set display resolution info on windows
 
-__Downloads__: 1,029,709 | __Repository__: https://github.com/lust4life/display-resolution
+__Downloads__: 1,029,802 | __Repository__: https://github.com/lust4life/display-resolution
 
 ## [Emailimo](https://www.powershellgallery.com/Packages/Emailimo/0.0.12) | 0.0.12
 
@@ -1836,7 +1836,7 @@ __Downloads__: 1,029,709 | __Repository__: https://github.com/lust4life/display-
 
 Easy way to send emails in PowerShell
 
-__Downloads__: 1,028,285 | __Repository__: https://github.com/EvotecIT/Emailimo
+__Downloads__: 1,028,289 | __Repository__: https://github.com/EvotecIT/Emailimo
 
 ## [AutoRuns](https://www.powershellgallery.com/Packages/AutoRuns/14.0.2) | 14.0.2
 
@@ -1852,7 +1852,7 @@ __Downloads__: 1,016,931 | __Repository__: https://github.com/p0w3rsh3ll/AutoRun
 
 This module allows you to connect to the Autotask REST API. The Autotask REST API was launched with version 2020.2
 
-__Downloads__: 999,589 | __Repository__: https://github.com/KelvinTegelaar/AutotaskAPI
+__Downloads__: 999,712 | __Repository__: https://github.com/KelvinTegelaar/AutotaskAPI
 
 ## [ConfluencePS](https://www.powershellgallery.com/Packages/ConfluencePS/2.5.1) | 2.5.1
 
@@ -1860,7 +1860,7 @@ __Downloads__: 999,589 | __Repository__: https://github.com/KelvinTegelaar/Autot
 
 PowerShell module to interact with the Atlassian Confluence REST API
 
-__Downloads__: 997,087 | __Repository__: https://github.com/AtlassianPS/ConfluencePS
+__Downloads__: 997,102 | __Repository__: https://github.com/AtlassianPS/ConfluencePS
 
 ## [Mailozaurr](https://www.powershellgallery.com/Packages/Mailozaurr/1.0.2) | 1.0.2
 
@@ -1868,7 +1868,7 @@ __Downloads__: 997,087 | __Repository__: https://github.com/AtlassianPS/Confluen
 
 Mailozaurr is a PowerShell module that aims to provide SMTP, POP3, IMAP and few other ways to interact with Email. Underneath it uses MimeKit and MailKit and EmailValidation libraries written by Jeffrey Stedfast.
 
-__Downloads__: 995,730 | __Repository__: https://github.com/EvotecIT/MailoZaurr
+__Downloads__: 995,735 | __Repository__: https://github.com/EvotecIT/MailoZaurr
 
 ## [ps2exe](https://www.powershellgallery.com/Packages/ps2exe/1.0.13) | 1.0.13
 
@@ -1878,7 +1878,7 @@ Compiles Powershell scripts to executables. Overworking of the great script of I
 'Invoke-ps2exe script.ps1' (or 'ps2exe script.ps1') compiles to script.exe. Several control parameters available.
 Or use Win-PS2EXE as a graphical front end to the compiler.
 
-__Downloads__: 988,182 | __Repository__: https://github.com/MScholtes/PS2EXE
+__Downloads__: 988,271 | __Repository__: https://github.com/MScholtes/PS2EXE
 
 ## [JumpCloud.SDK.DirectoryInsights](https://www.powershellgallery.com/Packages/JumpCloud.SDK.DirectoryInsights/0.0.32) | 0.0.32
 
@@ -1886,7 +1886,7 @@ __Downloads__: 988,182 | __Repository__: https://github.com/MScholtes/PS2EXE
 
 The JumpCloud DirectoryInsights PowerShell SDK
 
-__Downloads__: 951,047 | __Repository__: https://github.com/TheJumpCloud/jcapi-powershell/tree/master/SDKs/PowerShell/JumpCloud.SDK.DirectoryInsights/
+__Downloads__: 951,050 | __Repository__: https://github.com/TheJumpCloud/jcapi-powershell/tree/master/SDKs/PowerShell/JumpCloud.SDK.DirectoryInsights/
 
 ## [PSGELF](https://www.powershellgallery.com/Packages/PSGELF/1.21) | 1.21
 
@@ -1894,7 +1894,7 @@ __Downloads__: 951,047 | __Repository__: https://github.com/TheJumpCloud/jcapi-p
 
 PowerShell module to send GELF log data to compatible servers like Graylog.
 
-__Downloads__: 933,136 | __Repository__: 
+__Downloads__: 933,144 | __Repository__: 
 
 ## [JumpCloud.SDK.V1](https://www.powershellgallery.com/Packages/JumpCloud.SDK.V1/0.0.44) | 0.0.44
 
@@ -1902,7 +1902,7 @@ __Downloads__: 933,136 | __Repository__:
 
 The JumpCloud V1 PowerShell SDK
 
-__Downloads__: 923,304 | __Repository__: https://github.com/TheJumpCloud/jcapi-powershell/tree/master/SDKs/PowerShell/JumpCloud.SDK.V1/
+__Downloads__: 923,307 | __Repository__: https://github.com/TheJumpCloud/jcapi-powershell/tree/master/SDKs/PowerShell/JumpCloud.SDK.V1/
 
 ## [JumpCloud.SDK.V2](https://www.powershellgallery.com/Packages/JumpCloud.SDK.V2/0.0.48) | 0.0.48
 
@@ -1910,7 +1910,7 @@ __Downloads__: 923,304 | __Repository__: https://github.com/TheJumpCloud/jcapi-p
 
 The JumpCloud V2 PowerShell SDK
 
-__Downloads__: 921,516 | __Repository__: https://github.com/TheJumpCloud/jcapi-powershell/tree/master/SDKs/PowerShell/JumpCloud.SDK.V2/
+__Downloads__: 921,519 | __Repository__: https://github.com/TheJumpCloud/jcapi-powershell/tree/master/SDKs/PowerShell/JumpCloud.SDK.V2/
 
 ## [psake](https://www.powershellgallery.com/Packages/psake/4.9.0) | 4.9.0
 
@@ -1918,7 +1918,7 @@ __Downloads__: 921,516 | __Repository__: https://github.com/TheJumpCloud/jcapi-p
 
 psake is a build automation tool written in PowerShell.
 
-__Downloads__: 909,354 | __Repository__: https://github.com/psake/psake
+__Downloads__: 909,377 | __Repository__: https://github.com/psake/psake
 
 ## [Kva](https://www.powershellgallery.com/Packages/Kva/1.0.32) | 1.0.32
 
@@ -1926,7 +1926,7 @@ __Downloads__: 909,354 | __Repository__: https://github.com/psake/psake
 
 KVA Module
 
-__Downloads__: 901,223 | __Repository__: 
+__Downloads__: 901,242 | __Repository__: 
 
 ## [AksHci](https://www.powershellgallery.com/Packages/AksHci/1.2.4) | 1.2.4
 
@@ -1934,7 +1934,7 @@ __Downloads__: 901,223 | __Repository__:
 
 AKS HCI Module
 
-__Downloads__: 900,902 | __Repository__: 
+__Downloads__: 900,921 | __Repository__: 
 
 ## [cChocoEx](https://www.powershellgallery.com/Packages/cChocoEx/23.10.7.1) | 23.10.7.1
 
@@ -1942,7 +1942,7 @@ __Downloads__: 900,902 | __Repository__:
 
 Adds some additional functionality to the PowerShell DSC module cChoco
 
-__Downloads__: 885,915 | __Repository__: https://github.com/jyonke/cChocoEx
+__Downloads__: 885,916 | __Repository__: https://github.com/jyonke/cChocoEx
 
 ## [dockeraccesshelper](https://www.powershellgallery.com/Packages/dockeraccesshelper/0.0.3) | 0.0.3
 
@@ -1959,7 +1959,7 @@ __Downloads__: 797,678 | __Repository__: https://www.github.com/tfenster/dockera
 EPS (Embedded PowerShell), inspired by ERB (see https://en.wikipedia.org/wiki/ERuby), is a templating language that embeds PowerShell code into a text document. It is conceptually and syntactically similar to ERB for Ruby or Twig (see http://twig.sensiolabs.org/) for PHP.
 EPS can be used to generate any kind of text. The example below illustrates generating plain text, but it could be used to generate HTML in a web application or PowerShell code as in the Forge Module generator (see https://github.com/dbroeglin/Forge.Module)
 
-__Downloads__: 794,682 | __Repository__: https://github.com/straightdave/eps
+__Downloads__: 794,687 | __Repository__: https://github.com/straightdave/eps
 
 ## [PoshRSJob](https://www.powershellgallery.com/Packages/PoshRSJob/1.7.4.4) | 1.7.4.4
 
@@ -1967,7 +1967,7 @@ __Downloads__: 794,682 | __Repository__: https://github.com/straightdave/eps
 
 Module designed to use PowerShell runspaces to create jobs that allow throttling and quicker execution of commands
 
-__Downloads__: 789,146 | __Repository__: https://github.com/proxb/PoshRSJob
+__Downloads__: 789,153 | __Repository__: https://github.com/proxb/PoshRSJob
 
 ## [kbupdate-library](https://www.powershellgallery.com/Packages/kbupdate-library/1.1.24) | 1.1.24
 
@@ -1975,7 +1975,7 @@ __Downloads__: 789,146 | __Repository__: https://github.com/proxb/PoshRSJob
 
 Database for KB Viewer and Saver
 
-__Downloads__: 762,169 | __Repository__: 
+__Downloads__: 762,174 | __Repository__: 
 
 ## [PSWriteColor](https://www.powershellgallery.com/Packages/PSWriteColor/1.0.1) | 1.0.1
 
@@ -1983,7 +1983,7 @@ __Downloads__: 762,169 | __Repository__:
 
 Write-Color is a wrapper around Write-Host allowing you to create nice looking scripts, with colorized output. It provides easy manipulation of colors, logging output to file (log) and nice formatting options out of the box.
 
-__Downloads__: 753,514 | __Repository__: https://github.com/EvotecIT/PSWriteColor
+__Downloads__: 753,548 | __Repository__: https://github.com/EvotecIT/PSWriteColor
 
 ## [test_module2](https://www.powershellgallery.com/Packages/test_module2/5.0.0.0) | 5.0.0.0
 
@@ -1999,7 +1999,7 @@ __Downloads__: 747,223 | __Repository__:
 
 KB Viewer, Saver, Installer and Uninstaller
 
-__Downloads__: 745,647 | __Repository__: 
+__Downloads__: 745,652 | __Repository__: 
 
 ## [AzSK](https://www.powershellgallery.com/Packages/AzSK/4.16.0) | 4.16.0
 
@@ -2015,7 +2015,7 @@ __Downloads__: 734,993 | __Repository__: https://github.com/azsk/DevOpsKit-docs
 
 PSTeams is a PowerShell Module working on Windows / Linux and Mac. It allows sending notifications to Microsoft Teams via WebHook Notifications. It's pretty flexible and provides a bunch of options. Initially, it only supported one sort of Team Cards but since version 2.X.X it supports Adaptive Cards, Hero Cards, List Cards, and Thumbnail Cards. All those new cards have their own cmdlets and the old version of creating Teams Cards stays as-is for compatibility reasons.
 
-__Downloads__: 700,139 | __Repository__: https://github.com/EvotecIT/PSTeams
+__Downloads__: 700,151 | __Repository__: https://github.com/EvotecIT/PSTeams
 
 ## [PSWinDocumentation.O365HealthService](https://www.powershellgallery.com/Packages/PSWinDocumentation.O365HealthService/1.0.4) | 1.0.4
 
@@ -2031,7 +2031,7 @@ __Downloads__: 691,736 | __Repository__: https://github.com/EvotecIT/PSWinDocume
 
 Work with Excel without installing Excel
 
-__Downloads__: 686,974 | __Repository__: https://github.com/RamblingCookieMonster/PSExcel/
+__Downloads__: 686,980 | __Repository__: https://github.com/RamblingCookieMonster/PSExcel/
 
 ## [2atGeneral](https://www.powershellgallery.com/Packages/2atGeneral/1.0.277) | 1.0.277
 
@@ -2055,7 +2055,7 @@ __Downloads__: 660,316 | __Repository__: https://github.com/jjcarrier/PS-TextTab
 
 Module designed to use allow easier access to work with User Rights (privileges)
 
-__Downloads__: 655,968 | __Repository__: 
+__Downloads__: 655,970 | __Repository__: 
 
 ## [TableUI](https://www.powershellgallery.com/Packages/TableUI/1.8.0) | 1.8.0
 
@@ -2071,7 +2071,7 @@ __Downloads__: 651,380 | __Repository__: https://github.com/jjcarrier/PS-TableUI
 
 Dynamics 365 CE PowerShell Cmdlets to support automation of common build and deployment tasks
 
-__Downloads__: 649,840 | __Repository__: https://github.com/WaelHamze/xrm-ci-framework/
+__Downloads__: 649,844 | __Repository__: https://github.com/WaelHamze/xrm-ci-framework/
 
 ## [WinGet-Essentials](https://www.powershellgallery.com/Packages/WinGet-Essentials/1.11.2) | 1.11.2
 
@@ -2087,7 +2087,7 @@ __Downloads__: 648,606 | __Repository__: https://github.com/jjcarrier/PS-WinGet-
 
 A cross-platform DNS client for PowerShell utilizing the DnsClient.NET library.
 
-__Downloads__: 646,941 | __Repository__: https://github.com/rmbolger/DnsClient-PS
+__Downloads__: 646,949 | __Repository__: https://github.com/rmbolger/DnsClient-PS
 
 ## [UMN-Google](https://www.powershellgallery.com/Packages/UMN-Google/2.0.3) | 2.0.3
 
@@ -2095,7 +2095,7 @@ __Downloads__: 646,941 | __Repository__: https://github.com/rmbolger/DnsClient-P
 
 Powershell wrapper to interact with Google API
 
-__Downloads__: 646,121 | __Repository__: https://github.com/umn-microsoft-automation/UMN-Google
+__Downloads__: 646,122 | __Repository__: https://github.com/umn-microsoft-automation/UMN-Google
 
 ## [endpointmanager.wingetbridge](https://www.powershellgallery.com/Packages/endpointmanager.wingetbridge/1.3.0.0) | 1.3.0.0
 
@@ -2128,7 +2128,7 @@ __Downloads__: 629,886 | __Repository__: https://github.com/murati-hu/DogStatsD
 
 Supports interacting with Github Actions environment
 
-__Downloads__: 613,132 | __Repository__: https://github.com/ebekker/pwsh-github-action-tools
+__Downloads__: 613,165 | __Repository__: https://github.com/ebekker/pwsh-github-action-tools
 
 ## [PPoShTools](https://www.powershellgallery.com/Packages/PPoShTools/1.0.24) | 1.0.24
 
@@ -2138,4 +2138,4 @@ __Downloads__: 613,132 | __Repository__: https://github.com/ebekker/pwsh-github-
 
 __Downloads__: 608,377 | __Repository__: https://github.com/PPOSHGROUP/PPoShTools
 
-*Updated: Friday, 09 August 2024 09:51:50 UTC*
+*Updated: Friday, 09 August 2024 17:51:51 UTC*
