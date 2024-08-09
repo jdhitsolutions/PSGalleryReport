@@ -3,6 +3,70 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [DTX.Cloud.Management](https://www.powershellgallery.com/Packages/DTX.Cloud.Management/1.16.5) | 1.16.5
+
+### Published: 08/09/2024 16:24:45 by Platform Operations Team
+
+Dotmatics cloud automation tool.
+
+__Downloads__: 13,456 | __Repository__: 
+
+## [NinjaOne](https://www.powershellgallery.com/Packages/NinjaOne/2.0.0) | 2.0.0
+
+### Published: 08/09/2024 16:06:26 by Mikey O'Toole
+
+This module provides an interface to the NinjaOne API.
+
+__Downloads__: 12,655 | __Repository__: https://github.com/homotechsual/NinjaOne
+
+## [PSCompletions](https://www.powershellgallery.com/Packages/PSCompletions/4.2.3) | 4.2.3
+
+### Published: 08/09/2024 14:07:37 by abgox
+
+A completion manager for better and simpler use powershell completions. For more information, please visit the project: https://github.com/abgox/PSCompletions | https://gitee.com/abgox/PSCompletions
+
+__Downloads__: 5,027 | __Repository__: https://github.com/abgox/PSCompletions
+
+## [powershai](https://www.powershellgallery.com/Packages/powershai/1.4.2) | 1.4.2
+
+### Published: 08/09/2024 14:06:58 by Rodrigo Ribeiro Gomes
+
+Permite usar Inteligência Artificial direto do PowerShell
+
+__Downloads__: 77 | __Repository__: 
+
+## [PSEasy.Utility](https://www.powershellgallery.com/Packages/PSEasy.Utility/1.7.1) | 1.7.1
+
+### Published: 08/09/2024 13:59:14 by Brett Gerhardi
+
+Lightweight army of helpers for general powershell activities
+
+__Downloads__: 12,257 | __Repository__: https://github.com/o-o00o-o/PSEasy.Utility
+
+## [ADOPS](https://www.powershellgallery.com/Packages/ADOPS/2.3.1) | 2.3.1
+
+### Published: 08/09/2024 13:07:23 by the PwrOps collective
+
+Manage Azure DevOps using PowerShell
+
+__Downloads__: 963 | __Repository__: https://github.com/AZDOPS/AZDOPS/
+
+## [spec.appx.management](https://www.powershellgallery.com/Packages/spec.appx.management/1.0.1) | 1.0.1
+
+### Published: 08/09/2024 11:24:53 by owen.heaume
+
+A module to help manage appx installation and removal
+
+__Downloads__: 18,061 | __Repository__: 
+
+## [Az.RuntimeEnvironment](https://www.powershellgallery.com/Packages/Az.RuntimeEnvironment/1.0.5) | 1.0.5
+
+### Published: 08/09/2024 11:19:44 by daoradmin
+
+Powershell Module for Azure Runtime Environment
+
+__Downloads__: 208 | __Repository__: https://github.com/daoradmin/Az.RuntimeEnvironment
+
 ## [XpandPwsh](https://www.powershellgallery.com/Packages/XpandPwsh/1.221.0.20) | 1.221.0.20
 
 ### Published: 08/09/2024 09:33:36 by Apostolis Bekiaris
@@ -169,7 +233,7 @@ __Downloads__: 13,730 | __Repository__: https://github.com/PSModule/DynamicParam
 
 A PowerShell module working with the admin role.
 
-__Downloads__: 8,792 | __Repository__: https://github.com/PSModule/Admin
+__Downloads__: 8,796 | __Repository__: https://github.com/PSModule/Admin
 
 ## [Utilities](https://www.powershellgallery.com/Packages/Utilities/0.1.24) | 0.1.24
 
@@ -325,14 +389,6 @@ Reporting on ALL permissions in a Team site (or sharepoint or onedrive...). Note
 
 __Downloads__: 7 | __Repository__: 
 
-## [Az.RuntimeEnvironment](https://www.powershellgallery.com/Packages/Az.RuntimeEnvironment/1.0.4) | 1.0.4
-
-### Published: 08/08/2024 11:21:08 by daoradmin
-
-Powershell Module for Azure Runtime Environment
-
-__Downloads__: 208 | __Repository__: https://github.com/daoradmin/Az.RuntimeEnvironment
-
 ## [spec.registry.management](https://www.powershellgallery.com/Packages/spec.registry.management/1.0.0) | 1.0.0
 
 ### Published: 08/08/2024 11:17:27 by owen.heaume
@@ -453,14 +509,6 @@ DSC Module for managing the ADSync configuration
 
 __Downloads__: 56 | __Repository__: 
 
-## [PSEasy.Utility](https://www.powershellgallery.com/Packages/PSEasy.Utility/1.6.1) | 1.6.1
-
-### Published: 08/07/2024 13:16:38 by Brett Gerhardi
-
-Lightweight army of helpers for general powershell activities
-
-__Downloads__: 12,257 | __Repository__: https://github.com/o-o00o-o/PSEasy.Utility
-
 ## [AZSBTools](https://www.powershellgallery.com/Packages/AZSBTools/1.267.100) | 1.267.100
 
 ### Published: 08/07/2024 11:23:33 by Sam Boutros
@@ -500,14 +548,6 @@ __Downloads__: 534 | __Repository__: https://github.com/EvotecIT/CleanupMonster
 Tools to assist with things never added to the Azure Portal
 
 __Downloads__: 16 | __Repository__: 
-
-## [PSCompletions](https://www.powershellgallery.com/Packages/PSCompletions/4.1.0) | 4.1.0
-
-### Published: 08/07/2024 01:28:00 by abgox
-
-A completion manager for better and simpler use powershell completions. For more information, please visit the project: https://github.com/abgox/PSCompletions | https://gitee.com/abgox/PSCompletions
-
-__Downloads__: 5,027 | __Repository__: https://github.com/abgox/PSCompletions
 
 ## [OCI.PSModules](https://www.powershellgallery.com/Packages/OCI.PSModules/88.0.0) | 88.0.0
 
@@ -1142,6 +1182,22 @@ This modules provides Cmdlets for OCI Genericartifactscontent Service
 
 __Downloads__: 6,270 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
+## [OCI.PSModules.Generativeaiinference](https://www.powershellgallery.com/Packages/OCI.PSModules.Generativeaiinference/88.0.0) | 88.0.0
+
+### Published: 08/06/2024 22:15:45 by Oracle Cloud Infrastructure
+
+This modules provides Cmdlets for OCI Generativeaiinference Service
+
+__Downloads__: 1,987 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+
+## [OCI.PSModules.Generativeai](https://www.powershellgallery.com/Packages/OCI.PSModules.Generativeai/88.0.0) | 88.0.0
+
+### Published: 08/06/2024 22:15:41 by Oracle Cloud Infrastructure
+
+This modules provides Cmdlets for OCI Generativeai Service
+
+__Downloads__: 1,985 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+
 ## [OCI.PSModules.Fusionapps](https://www.powershellgallery.com/Packages/OCI.PSModules.Fusionapps/88.0.0) | 88.0.0
 
 ### Published: 08/06/2024 22:15:36 by Oracle Cloud Infrastructure
@@ -1738,7 +1794,7 @@ __Downloads__: 691 | __Repository__: https://github.com/silk-us/silk-sdp-powersh
 
 Master module for a collection of modules. These modules are varied in their tasks. The overall purpose of them being to provide a powerfull Toolset to improve IT Admin workflows.
 
-__Downloads__: 62,144 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox
+__Downloads__: 62,147 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox
 
 ## [AdminToolbox.FortiWizard](https://www.powershellgallery.com/Packages/AdminToolbox.FortiWizard/2.19.20) | 2.19.20
 
@@ -1754,7 +1810,7 @@ __Downloads__: 41,939 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions to Automate Bulk VMWare Tasks
 
-__Downloads__: 49,033 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 49,036 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.Remoting](https://www.powershellgallery.com/Packages/AdminToolbox.Remoting/1.9.164) | 1.9.164
 
@@ -1762,7 +1818,7 @@ __Downloads__: 49,033 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions for remote management and access.
 
-__Downloads__: 48,532 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 48,536 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.Office365](https://www.powershellgallery.com/Packages/AdminToolbox.Office365/4.0.24) | 4.0.24
 
@@ -1794,7 +1850,7 @@ __Downloads__: 38,686 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions that have no purpose
 
-__Downloads__: 49,308 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 49,312 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.FileManagement](https://www.powershellgallery.com/Packages/AdminToolbox.FileManagement/1.16.156) | 1.16.156
 
@@ -1802,7 +1858,7 @@ __Downloads__: 49,308 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 File Management Functions
 
-__Downloads__: 49,767 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 49,771 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.FFTools](https://www.powershellgallery.com/Packages/AdminToolbox.FFTools/4.16.114) | 4.16.114
 
@@ -1810,7 +1866,7 @@ __Downloads__: 49,767 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Expedite simple ffmpeg actions
 
-__Downloads__: 49,732 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 49,736 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.Exchange](https://www.powershellgallery.com/Packages/AdminToolbox.Exchange/1.9.165) | 1.9.165
 
@@ -1826,7 +1882,7 @@ __Downloads__: 52,523 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions for management of endpoints
 
-__Downloads__: 59,736 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 59,741 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.ActiveDirectory](https://www.powershellgallery.com/Packages/AdminToolbox.ActiveDirectory/1.10.26) | 1.10.26
 
@@ -1834,15 +1890,7 @@ __Downloads__: 59,736 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions for Active Directory
 
-__Downloads__: 60,181 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-## [DTX.Cloud.Management](https://www.powershellgallery.com/Packages/DTX.Cloud.Management/1.16.4) | 1.16.4
-
-### Published: 08/06/2024 13:32:38 by Platform Operations Team
-
-Dotmatics cloud automation tool.
-
-__Downloads__: 13,456 | __Repository__: 
+__Downloads__: 60,185 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [PS.Selenium](https://www.powershellgallery.com/Packages/PS.Selenium/1.21) | 1.21
 
@@ -1900,14 +1948,6 @@ Connect to OSDP devices using PowerShell
 
 __Downloads__: 21 | __Repository__: 
 
-## [ADOPS](https://www.powershellgallery.com/Packages/ADOPS/2.3.0) | 2.3.0
-
-### Published: 08/05/2024 20:12:40 by the PwrOps collective
-
-Manage Azure DevOps using PowerShell
-
-__Downloads__: 963 | __Repository__: https://github.com/AZDOPS/AZDOPS/
-
 ## [WDACConfig](https://www.powershellgallery.com/Packages/WDACConfig/0.4.3) | 0.4.3
 
 ### Published: 08/05/2024 18:33:40 by HotCakeX
@@ -1960,7 +2000,7 @@ This is an advanced PowerShell module for WDAC (Windows Defender Application Con
 
 ✔️ Get-CIPolicySetting: https://github.com/HotCakeX/Harden-Windows-Security/wiki/Get-CIPolicySetting
 
-__Downloads__: 5,357 | __Repository__: https://github.com/HotCakeX/Harden-Windows-Security/wiki/WDACConfig
+__Downloads__: 5,358 | __Repository__: https://github.com/HotCakeX/Harden-Windows-Security/wiki/WDACConfig
 
 ## [EnhancedWin32DeployerAO](https://www.powershellgallery.com/Packages/EnhancedWin32DeployerAO/0.0.1) | 0.0.1
 
@@ -2040,52 +2080,6 @@ __Downloads__: 2,852 | __Repository__: https://github.com/joeltimothyoh/MyPublis
 
 SAP on Azure PowerShell Modules used for automation.
 
-__Downloads__: 1,925 | __Repository__: 
+__Downloads__: 1,965 | __Repository__: 
 
-## [ZertoAVSModule](https://www.powershellgallery.com/Packages/ZertoAVSModule/3.5.8) | 3.5.8
-
-### Published: 08/05/2024 09:46:50 by Zerto
-
-Zerto AVS solution package
-
-__Downloads__: 1,711 | __Repository__: https://help.zerto.com/
-
-## [OSD](https://www.powershellgallery.com/Packages/OSD/24.8.5.1) | 24.8.5.1
-
-### Published: 08/05/2024 06:58:24 by David Segura . Gary Blok . Akos Bakos . Jérôme Bezet-Torres . Damien Van Robaeys
-
-2024. July Patch Update. August Driver Update.
-
-__Downloads__: 1,989,564 | __Repository__: https://github.com/OSDeploy/OSD
-
-## [AzureStackHCIJumpstart](https://www.powershellgallery.com/Packages/AzureStackHCIJumpstart/2024.8.5.35) | 2024.8.5.35
-
-### Published: 08/05/2024 06:44:22 by Dan Cuomo
-
-Helps deploy the Azure Stack HCI Deployment labs
-
-__Downloads__: 667 | __Repository__: https://github.com/microsoft/AzureStackHCIJumpstart
-
-## [OSDSUS](https://www.powershellgallery.com/Packages/OSDSUS/24.8.5.1) | 24.8.5.1
-
-### Published: 08/05/2024 06:35:55 by David Segura @SeguraOSD
-
-https://osdsus.osdeploy.com/
-https://raw.githubusercontent.com/OSDeploy/OSDSUS/master/UPDATES.md
-
-WSUS Update Catalogs:
-These are contained within this PowerShell Module, so regular Module updating is needed to
-ensure you receive the latest Microsoft Updates.  Updates published in WSUS will be different
-from Microsoft Update Catalog website due to Preview Releases
-
-__Downloads__: 438,061 | __Repository__: https://github.com/OSDeploy/OSDSUS
-
-## [Rpic.PowerShell](https://www.powershellgallery.com/Packages/Rpic.PowerShell/1.10.2) | 1.10.2
-
-### Published: 08/05/2024 06:34:47 by tobiaslekman
-
-Contains a set of resuable PowerShell functions for working with Azure Resource Manager and Bicep.
-
-__Downloads__: 3,924 | __Repository__: 
-
-*Updated: Friday, 09 August 2024 09:51:45 UTC*
+*Updated: Friday, 09 August 2024 17:51:45 UTC*
