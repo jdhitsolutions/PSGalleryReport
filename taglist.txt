@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Friday, 09 August 2024 17:51:54 UTC
+Updated: Saturday, 10 August 2024 02:10:55 UTC
 
 .bat
 .env
@@ -187,7 +187,6 @@ adfsendpoint
 adfstoolkit
 adfstools
 adgroupmemberobjects
-adgroupmembers
 adgroups
 adidns
 adif
@@ -225,6 +224,7 @@ adsp
 adsync
 aduser
 aduseraccountlockout
+adusergroups
 adv180002
 adv180018
 adv190013
@@ -324,6 +324,8 @@ amateur-data-interchange-format
 amateur-radio
 amateurradio
 amazon
+amazonaws
+amazonmgn
 amazontitan
 amazonwebservices
 amend
@@ -663,10 +665,12 @@ azcompute
 azd
 azdisk
 azdo
+azereo
 azforensics
 azkeyvault
 aznetworking
 aznetworkinterface
+aznicdetails
 azops
 azpublicipaddress
 azresources
@@ -1038,6 +1042,7 @@ cancel
 cancellation
 canonical
 cantara
+capability
 capacity
 capacitymanagement
 capainstaller
@@ -1050,6 +1055,7 @@ carbon
 carbonawarecomputing
 carbonintensity
 card
+cardwirth
 cares
 cargo
 carousel
@@ -1408,6 +1414,7 @@ complete
 completer
 completion
 completion-manager
+completionresult
 completions
 complex
 compliance
@@ -1726,7 +1733,6 @@ cyclicredundancycheck
 cygwin
 cylance
 cypher
-cyrillic
 d365
 d365ce
 d365fo
@@ -1800,6 +1806,7 @@ datarow
 datasafe
 datascience
 dataset
+datasetdependency
 datashare
 datasource
 datastore
@@ -1825,7 +1832,10 @@ db
 db2
 dba
 dbaas
+dbai
 dbase
+dbassistant
+dbatools
 dbcommand
 dbeaver
 dbfs
@@ -2452,7 +2462,6 @@ eventsubscription
 eventviewer
 eventwatch
 evergreen
-everix
 evernote
 everydaypowershell
 everydayrewards
@@ -2967,7 +2976,6 @@ glimps
 glob
 globalclipboard
 globaldashboard
-globalentry
 globallydistributeddatabase
 globbing
 glpi
@@ -3162,6 +3170,7 @@ helm
 helmet
 help
 helpdesk
+helpdoc
 helper
 helper-functions
 helperfunctions
@@ -3218,7 +3227,6 @@ holiday
 home
 home_automation
 homebrew
-homelandsecurity
 homeschooling
 hon
 hooking
@@ -3326,6 +3334,7 @@ icingaplugins
 icingapowershell
 icingapowershellframework
 icingawindows
+icloud
 icmp
 icon
 icons
@@ -3805,7 +3814,6 @@ lastlogon
 lastpass
 latency
 latestupdate
-latin
 latitude
 launcher
 layer
@@ -3932,7 +3940,6 @@ lock
 lockbox
 lockdisplaytimeout
 lockdown
-lockfile
 locking
 lockoutreport
 lockscreen
@@ -4221,6 +4228,7 @@ metrics
 metrolink
 mfa
 mga
+mgn
 mi
 micro
 micro-orm
@@ -4563,6 +4571,7 @@ networkfirewall
 networkfunction
 networkinfo
 networking
+networkinterfaces
 networkloadbalancer
 networkpolicyserver
 networkprofile
@@ -4751,6 +4760,7 @@ officedev
 officegraph
 officemessageencryption
 officertool
+offline
 offlinewimservicing
 ofx
 ogg
@@ -4770,6 +4780,7 @@ omnistack
 oms
 omsagent
 on
+on-demand
 on-premise
 onboard
 onboardadministrator
@@ -4918,7 +4929,6 @@ outlook
 outpainting
 output
 output-to-image
-outreach
 outsystems
 overbite
 ovf
@@ -4932,7 +4942,6 @@ oxyplot
 p2000
 p2s
 pa1reg
-paas
 pac
 pack
 package
@@ -5053,7 +5062,6 @@ pem
 pemfile
 pendingreboot
 penetration
-penetrationtesting
 pentesting
 pentia
 people
@@ -5511,7 +5519,6 @@ ps6
 ps7
 psa
 psadbscreencap
-psadgroupmembers
 psadt
 psake
 psappdeploytoolkit
@@ -8409,7 +8416,6 @@ psloganalytics
 psm
 psm1
 psmodule
-psmodule psedition_desktop
 psmodulepath
 psmodules
 psmp
@@ -8498,7 +8504,6 @@ pulseway
 pulumi
 punycode
 puppet
-puppetdb
 puppy
 pure
 pure1
@@ -8570,6 +8575,7 @@ queue
 queues
 queuing
 quick-response
+quickaccess
 quickbase
 quickbooks
 quicksetup
@@ -8646,6 +8652,7 @@ read-slog
 readable
 reader
 readiness
+readme
 readpdf
 readthedocs
 real-time
@@ -8767,7 +8774,6 @@ remove-itemproperty
 remove-pass
 remove-path
 remove-pinneditem
-remove-tempfiles
 removefile
 removetypeaccelerators
 remux
@@ -9319,7 +9325,6 @@ shares
 sheets
 shell
 shell-art
-shells
 shieldedvm
 ships
 shipsprovider
@@ -9457,7 +9462,6 @@ snmpv3
 snmpwalk
 snowflake
 snsmssqlpsmodule
-snspsadgroupmembers
 snspsscriptsmonitoring
 snssqlitepsmodule
 sntp
@@ -10040,6 +10044,7 @@ thermostat
 thinprint
 third-party-libraries
 third-party-notice
+thispc
 thoughtfortheday
 thousandeyes
 thread
@@ -10152,8 +10157,6 @@ transforms
 transitionmanager
 translate
 translation
-translit
-transliteration
 transmission
 transparency
 transpilation
@@ -10196,7 +10199,6 @@ trustedsigning
 truth
 trx
 ts
-tsa
 tsd
 tsheets
 tsqlbestpractice
@@ -10274,7 +10276,6 @@ ud-loadingoverlay
 ud-minesweeper
 ud-mouseparticle
 ud-navbarsearch
-ud-numbermask
 ud-orgchart
 ud-piechart3d
 ud-pivottable
@@ -10410,6 +10411,7 @@ user
 user-environment
 userdiscovery
 usergroup
+usergroups
 userinterface
 usermanagement
 username
@@ -10885,7 +10887,6 @@ winterminal
 winui
 wireless
 wirelessnetwork
-wireshark
 wisc
 wiscmail
 wisco365
