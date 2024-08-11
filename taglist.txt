@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Sunday, 11 August 2024 09:51:56 UTC
+Updated: Sunday, 11 August 2024 17:52:17 UTC
 
 .bat
 .env
@@ -109,7 +109,6 @@ act!
 actifio
 actifiogo
 action
-action1
 actiongroup
 actionplan
 actions
@@ -384,7 +383,6 @@ apache
 apachekafka
 apexlegends
 api
-api-client
 api-gateway
 api-rest
 apichecks
@@ -477,7 +475,6 @@ archonagent
 arcresourcebridge
 arcus
 area
-arg
 argcomplete
 argument
 argumentcompleter
@@ -490,6 +487,7 @@ armtemplate
 armtemplates
 arp
 array
+arrays
 art
 artefactual
 artifact
@@ -535,6 +533,7 @@ association
 ast
 astronomy
 asv
+asymmetric
 async
 asynchronous
 atempo
@@ -584,7 +583,6 @@ authorize.net
 authz
 autify
 auto
-auto_cd
 auto-completion
 autoadapter
 autoattendant
@@ -621,6 +619,7 @@ autoupdate-script
 autowrapper
 autoyast
 auvik
+availability
 availabilityset
 avalara
 avatar
@@ -633,6 +632,7 @@ avmtools
 avro
 avs
 avset
+await
 awareness
 awesome
 awp
@@ -726,7 +726,6 @@ azurefilesync
 azurefunctionapp
 azurefunctions
 azuregraph
-azuregroupstuff
 azureinformationprotection
 azureiot
 azureiothub
@@ -965,7 +964,6 @@ broot
 brownserve-uk
 browser
 browserbox
-browserextension
 browserhistory
 browsing
 brs
@@ -986,7 +984,6 @@ buildhelpers
 building
 buildingfile
 buildingmapping
-buildkit
 buildkite
 buildmaster
 builds
@@ -1078,13 +1075,9 @@ cchoco
 cchocoex
 ccm
 cd
-cd_path
-cd-
 cd-back
 cd-forward
 cd-up
-cd+
-cdable_vars
 cdata
 cdb
 cdi
@@ -1117,7 +1110,6 @@ certificate
 certificateauthority
 certificatechain
 certificatemanager
-certificatepolicy
 certificates
 certificateservices
 certificatesmanagement
@@ -1158,6 +1150,7 @@ chefconf2016
 chenxizhang
 cherrypy
 cherwell
+chfs
 chi
 china
 chmod
@@ -1282,6 +1275,7 @@ cloudfoundation
 cloudfront
 cloudgovernance
 cloudguard
+cloudinairy
 cloudinit
 cloudiq
 cloudkey
@@ -1290,14 +1284,13 @@ cloudmigrations
 cloudml
 cloudpc
 cloudservice
+cloudshell
 clueser
 cluster
 clusterminimumvalues
 clusterplacementgroups
 clusterplugins
 cmaccounts
-cmake
-cmakepresets.json
 cmbuild
 cmclibnet
 cmclustermaintenance
@@ -1416,7 +1409,6 @@ component
 composer
 composite
 compositeresource
-compoundproperty
 compress
 compression
 compute
@@ -1459,7 +1451,6 @@ confluent
 conjecture
 connect
 connect-dtcmsite
-connect-exchangeonprem
 connect-mstsc
 connect-rdp
 connect-remotedesktop
@@ -1469,7 +1460,6 @@ connectedkubernetes
 connectedmachine
 connectednetwork
 connectedvmware
-connectexchange
 connection
 connectionmonitor
 connections
@@ -1703,6 +1693,7 @@ customization
 customlocation
 customlogs
 customproviders
+cutehttpfileserver
 cvad
 cve
 cve-2021-34527
@@ -1719,7 +1710,6 @@ cyberattacks
 cyberdrain
 cybereason
 cybersecurity
-cyberwatch
 cyclic
 cyclicredundancycheck
 cygwin
@@ -1736,7 +1726,6 @@ dacfx
 dacl
 dacpac
 dacpackage
-dagger
 daily
 dalle3
 dane
@@ -1864,8 +1853,6 @@ decryption
 dedicatedhsm
 deduplication
 deep
-deep-security
-deep-security-manager
 deepl
 deepvisibility
 def
@@ -1895,7 +1882,6 @@ dell
 dellemc
 delta
 demand
-demandsignal
 demo
 democratie
 demonstration
@@ -1942,7 +1928,6 @@ devexpress
 deviation
 device
 devicecode
-deviceid
 deviceprovisioningservice
 devices
 deviceupdate
@@ -1968,6 +1953,7 @@ diagrams
 dialog
 dice
 diceware
+dicom
 dictionary
 diff
 difference
@@ -2087,7 +2073,6 @@ docker-image
 docker-machine
 docker-volumes
 dockerfile
-dockerize
 dockerswarm
 docking
 docs
@@ -2255,7 +2240,6 @@ easy
 easy-to-use
 easylife365
 easyvista
-eaton
 ebay
 ebooks
 ebur128
@@ -2344,6 +2328,7 @@ endomondo
 endpoint
 endpoints
 energy
+engagement
 engine
 engineevent
 english
@@ -2361,7 +2346,6 @@ entity
 entityframework
 entra
 entraid
-entraidgovernance
 entropy
 enum
 enumerable
@@ -2383,7 +2367,6 @@ epicor
 episode
 epplus
 eprosima
-epub
 epv
 equality
 erb
@@ -2483,7 +2466,6 @@ exchangeon-premises
 exchangeonline
 exchangeonlinemanagement
 exchangeonlineprotection
-exchangeonprem
 exchangerate
 exchangeserver
 exchangewebservices
@@ -2540,7 +2522,6 @@ extendscript
 extensibility
 extension
 extensionmethods
-extensionrisk
 extensions
 external
 externalip
@@ -2573,8 +2554,10 @@ farmanager
 fast
 fast-dds
 fast-ping
+fastfilepub
 fastgit
 fastlinq
+fastlookup
 fastping
 fasttrack
 fat32
@@ -2588,6 +2571,8 @@ feature
 features
 featuresondemand
 featureupdate
+federated
+federateddirectory
 federation
 fedex
 feed
@@ -2617,6 +2602,7 @@ file-name
 file-name-extension
 file-name-extension-association
 file-server
+file-share
 file-system
 file-transform
 file-type
@@ -2849,6 +2835,7 @@ gci
 gcloud
 gcp
 gcs
+gdap
 gdpr
 gedit
 gem
@@ -2960,7 +2947,6 @@ gitlabpipeline
 gitops
 glimps
 glob
-globalclipboard
 globaldashboard
 globalentry
 globallydistributeddatabase
@@ -2982,6 +2968,7 @@ goldsource
 goldsource-dedicated-server
 google
 google-chrome
+google-fonts
 google-histogram
 google-sankey
 google-table
@@ -3185,6 +3172,7 @@ high-availability
 highlight
 highlighting
 highrise
+hint
 hipaa
 hipb
 hipchat
@@ -3252,7 +3240,6 @@ hpesynergy
 hponeview
 hpwritemanager
 hris
-hrprovisioning
 hsdp
 hsl
 html
@@ -3434,7 +3421,6 @@ initiator
 inline-progress
 inlineprogress
 innerjoin
-innertext
 inpainting
 input
 inputbox
@@ -3587,10 +3573,7 @@ it-tool
 it-tools
 italic-text
 item
-itemlist
-itemobject
 items
-itemstack
 iterate
 iteration
 itg
@@ -3669,6 +3652,7 @@ junction
 junctions
 junit
 jupyter
+jupytor
 jurassic
 jurassic2
 justenoughadministration
@@ -3706,7 +3690,6 @@ kestrel
 key
 key-vault
 key2wocas
-keybase
 keybinding
 keyboard
 keyboardstartkey
@@ -3745,6 +3728,7 @@ kraken
 krane
 krbtgt
 krick
+kschemaplugin
 kubclt
 kube
 kubectl
@@ -4225,7 +4209,6 @@ microservices
 microsoft
 microsoft_365
 microsoft_azure
-microsoft_endpoint_manager
 microsoft_online
 microsoft_teams
 microsoft-graph
@@ -4297,6 +4280,7 @@ mittelschule
 mixedreality
 mixer
 mkdocs
+mkpasswd
 mksapiviewer
 ml
 ml.net
@@ -4593,7 +4577,6 @@ nexenta
 nexentastor
 nexthink
 nexus
-nexusiq
 nfsv3
 ngen
 ngfw
@@ -4910,7 +4893,6 @@ out-default
 out-gridview
 out-json
 outerjoin
-outertext
 outline
 outlook
 outpainting
@@ -4991,6 +4973,7 @@ passivetotal
 passkey
 passphrase
 passphraser passphrase password generator entropy
+passwd
 password
 password_generation
 password-generator
@@ -5161,6 +5144,7 @@ poem
 poetry
 point
 point-to-site
+pointer
 pokeapi
 pokedex
 pokemon
@@ -5300,6 +5284,7 @@ powerdex
 powerforensics
 powergraph
 powergui
+powermax
 powerpack
 powerplan
 powerplateform
@@ -5412,6 +5397,7 @@ prism
 prism_element
 privacy
 private
+private-key
 privatedns
 privatekey
 privatemethods
@@ -8415,7 +8401,6 @@ psmssqlbynarymodule
 psmssqlmodule
 psmvp
 psnavigation
-psnexosisclient
 psngenposh
 psobject
 psoutlog
@@ -8471,6 +8456,7 @@ ptc
 ptcintegrity
 pubg
 public
+public-key
 public-transport
 publicapi
 publicclient
@@ -8578,7 +8564,6 @@ quotestoliveby
 quoting
 quser
 qword
-r
 r53
 rabbit
 rabbitmq
@@ -8639,7 +8624,6 @@ react-stockcharts
 read
 read-slog
 readable
-reader
 readiness
 readme
 readpdf
@@ -8815,7 +8799,6 @@ resource
 resource_monitor
 resource_watcher
 resourcecontroller
-resourcegraph
 resourcegroup
 resourcegroups
 resourceid
@@ -9079,7 +9062,6 @@ screensaver
 screenscraping
 screenshot
 script
-script_version
 script-module
 script-to-assembly
 script-to-executable
@@ -9108,7 +9090,6 @@ sd
 sddl
 sdk
 sdn
-sdp
 search
 search-adminauditlog
 search-engines
@@ -9166,7 +9147,6 @@ securityroles
 securityscopes
 securitytxt
 sed
-seed
 seek
 seekatar
 seeshell
@@ -9178,13 +9158,11 @@ select-string
 selection
 selectxmlinfo
 selenium
-self
 self-hosted
 self-service
 self-signed
 selfdispatch
 selfhelp
-selfsigned
 semantic
 semantic-versioning
 semaphore
@@ -9222,7 +9200,6 @@ serilog
 serilog-for-powershell
 serilog-sink
 server
-servercertificatevalidationcallback
 serverless
 servermanagement
 servers
@@ -9283,7 +9260,14 @@ sftp
 sfx
 sgopher
 sgw
+sha-256
+sha-512
+sha-crypt
 sha256
+sha256crypt
+sha512crypt
+shacrypt
+shadow
 shadowcopy
 shadowcopybackups
 shadowgroups
@@ -9341,7 +9325,6 @@ sign
 signalfx
 signalr
 signature
-signed
 signing
 signtool
 silk
@@ -9538,7 +9521,6 @@ spf
 spfx
 sphere
 spi
-spicetify
 spinnaker
 splash
 splat
@@ -9768,6 +9750,7 @@ successfactors
 sudo
 sugar
 sugarcrm
+suggestion
 suitecrm
 sullivan
 summary
@@ -9782,7 +9765,6 @@ support-tools
 suppress
 supress-reboot
 surestacks
-surround
 surveillance
 survey
 surveymonkey
@@ -9811,6 +9793,7 @@ symboliclink
 symbols
 symbolservers
 symlink
+symmetric
 synapse
 sync
 synchronization
@@ -10062,6 +10045,7 @@ timespan
 timezone
 tinkerpop
 tinymce
+tip
 tips
 titan
 title
@@ -10157,12 +10141,13 @@ trein
 trello
 trellops
 trend
-trend-micro
 trendmicro
 trevor
 trevorsullivan
 triangle
 tribeloo
+trick
+tricks
 trigger
 triodos
 tripunkt
@@ -10246,7 +10231,6 @@ ud-buttonparticle
 ud-calendar
 ud-circle
 ud-component
-ud-confetti
 ud-control
 ud-dashboard
 ud-datepicker
@@ -10441,6 +10425,7 @@ value
 values
 valve
 vami
+vao
 variable
 variables
 variance
@@ -10452,6 +10437,7 @@ vaultstore
 vaultwarden
 vb365
 vba
+vbaproject
 vbproj
 vbr
 vbscript
@@ -10503,7 +10489,6 @@ vie
 viewer
 vigenere
 vim
-vimode
 virole
 virsh
 virtual
@@ -10636,7 +10621,6 @@ waa
 waas
 wac
 waf
-wait4x
 waitforobject
 wakeonlan
 wakeup
@@ -10861,6 +10845,7 @@ wingetbridge
 winrar
 winrm
 winrs
+winrt
 wins
 winsat
 winscp
@@ -10950,7 +10935,6 @@ writeaccess
 writelog
 writemanager
 writeprogress
-writer
 ws-federation
 wsapi
 wsb
@@ -10980,6 +10964,8 @@ x360recover
 x509
 x509cerificate
 x509cerificate2
+x509certificate
+x509certificates
 x509chain
 x64
 x86
@@ -11057,7 +11043,6 @@ zigbee
 zip
 zip-compression
 zipfile-transform
-zisson
 zoho
 zoicware
 zone
