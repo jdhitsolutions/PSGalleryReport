@@ -820,9 +820,9 @@ TeamViewerPS allows to interact with the TeamViewer Web API as well as a locally
 
 __Downloads__: 52,440,135 | __Repository__: https://github.com/teamviewer/TeamViewerPS
 
-## [Microsoft.Graph.Authentication](https://www.powershellgallery.com/Packages/Microsoft.Graph.Authentication/2.21.1) | 2.21.1
+## [Microsoft.Graph.Authentication](https://www.powershellgallery.com/Packages/Microsoft.Graph.Authentication/2.22.0) | 2.22.0
 
-### Published: 08/01/2024 11:37:11 by Microsoft
+### Published: 08/13/2024 07:09:50 by Microsoft
 
 Microsoft Graph PowerShell Authentication Module.
 
@@ -1693,9 +1693,9 @@ DSC resources for configuring common operating systems features, files and setti
 
 __Downloads__: 15,700,168 | __Repository__: https://github.com/dsccommunity/xPSDesiredStateConfiguration
 
-## [Microsoft.Graph.Groups](https://www.powershellgallery.com/Packages/Microsoft.Graph.Groups/2.21.1) | 2.21.1
+## [Microsoft.Graph.Groups](https://www.powershellgallery.com/Packages/Microsoft.Graph.Groups/2.22.0) | 2.22.0
 
-### Published: 08/01/2024 11:38:18 by Microsoft Corporation
+### Published: 08/13/2024 07:11:11 by Microsoft Corporation
 
 Microsoft Graph PowerShell Cmdlets
 
@@ -1709,9 +1709,9 @@ This PowerShell module contains PowerCLI VDS cmdlets.
 
 __Downloads__: 13,059,813 | __Repository__: https://developer.vmware.com/powercli
 
-## [Microsoft.Graph.Users](https://www.powershellgallery.com/Packages/Microsoft.Graph.Users/2.21.1) | 2.21.1
+## [Microsoft.Graph.Users](https://www.powershellgallery.com/Packages/Microsoft.Graph.Users/2.22.0) | 2.22.0
 
-### Published: 08/01/2024 11:39:22 by Microsoft Corporation
+### Published: 08/13/2024 07:12:30 by Microsoft Corporation
 
 Microsoft Graph PowerShell Cmdlets
 
@@ -1896,9 +1896,9 @@ PowerShell module for searching and downloading offline updates from https://www
 
 __Downloads__: 10,457,246 | __Repository__: https://github.com/ryan-jan/MSCatalog
 
-## [Microsoft.Graph.Identity.DirectoryManagement](https://www.powershellgallery.com/Packages/Microsoft.Graph.Identity.DirectoryManagement/2.21.1) | 2.21.1
+## [Microsoft.Graph.Identity.DirectoryManagement](https://www.powershellgallery.com/Packages/Microsoft.Graph.Identity.DirectoryManagement/2.22.0) | 2.22.0
 
-### Published: 08/01/2024 11:38:23 by Microsoft Corporation
+### Published: 08/13/2024 07:11:15 by Microsoft Corporation
 
 Microsoft Graph PowerShell Cmdlets
 
@@ -1954,9 +1954,9 @@ A PowerShell Crescendo wrapper for Chocolatey
 
 __Downloads__: 9,676,719 | __Repository__: https://github.com/ethanbergstrom/Foil
 
-## [Microsoft.Graph.Mail](https://www.powershellgallery.com/Packages/Microsoft.Graph.Mail/2.21.1) | 2.21.1
+## [Microsoft.Graph.Mail](https://www.powershellgallery.com/Packages/Microsoft.Graph.Mail/2.22.0) | 2.22.0
 
-### Published: 08/01/2024 11:38:37 by Microsoft Corporation
+### Published: 08/13/2024 07:11:31 by Microsoft Corporation
 
 Microsoft Graph PowerShell Cmdlets
 
@@ -1988,9 +1988,9 @@ PowerShell module that contains command for VMware Cloud Services.
 
 __Downloads__: 9,301,575 | __Repository__: https://developer.vmware.com/powercli
 
-## [Microsoft.Graph.Sites](https://www.powershellgallery.com/Packages/Microsoft.Graph.Sites/2.21.1) | 2.21.1
+## [Microsoft.Graph.Sites](https://www.powershellgallery.com/Packages/Microsoft.Graph.Sites/2.22.0) | 2.22.0
 
-### Published: 08/01/2024 11:39:08 by Microsoft Corporation
+### Published: 08/13/2024 07:12:13 by Microsoft Corporation
 
 Microsoft Graph PowerShell Cmdlets
 
@@ -2080,25 +2080,25 @@ PowerShell commands for automation of workloads related functionality in vSphere
 
 __Downloads__: 8,675,764 | __Repository__: https://developer.vmware.com/powercli
 
-## [Microsoft.Graph.Applications](https://www.powershellgallery.com/Packages/Microsoft.Graph.Applications/2.21.1) | 2.21.1
+## [Microsoft.Graph.Applications](https://www.powershellgallery.com/Packages/Microsoft.Graph.Applications/2.22.0) | 2.22.0
 
-### Published: 08/01/2024 11:37:06 by Microsoft Corporation
+### Published: 08/13/2024 07:09:45 by Microsoft Corporation
 
 Microsoft Graph PowerShell Cmdlets
 
 __Downloads__: 8,541,175 | __Repository__: https://github.com/microsoftgraph/msgraph-sdk-powershell
 
-## [Microsoft.Graph.Teams](https://www.powershellgallery.com/Packages/Microsoft.Graph.Teams/2.21.1) | 2.21.1
+## [Microsoft.Graph.Teams](https://www.powershellgallery.com/Packages/Microsoft.Graph.Teams/2.22.0) | 2.22.0
 
-### Published: 08/01/2024 11:39:12 by Microsoft Corporation
+### Published: 08/13/2024 07:12:18 by Microsoft Corporation
 
 Microsoft Graph PowerShell Cmdlets
 
 __Downloads__: 8,374,985 | __Repository__: https://github.com/microsoftgraph/msgraph-sdk-powershell
 
-## [Microsoft.Graph.Planner](https://www.powershellgallery.com/Packages/Microsoft.Graph.Planner/2.21.1) | 2.21.1
+## [Microsoft.Graph.Planner](https://www.powershellgallery.com/Packages/Microsoft.Graph.Planner/2.22.0) | 2.22.0
 
-### Published: 08/01/2024 11:38:50 by Microsoft Corporation
+### Published: 08/13/2024 07:11:52 by Microsoft Corporation
 
 Microsoft Graph PowerShell Cmdlets
 
@@ -2144,17 +2144,17 @@ The module includes cmdlets to manage MSP360 (CloudBerry) Backup agent, MBS API 
 
 __Downloads__: 7,796,662 | __Repository__: https://mspbackups.com/AP/Help/powershell
 
-## [Microsoft.Graph.DeviceManagement](https://www.powershellgallery.com/Packages/Microsoft.Graph.DeviceManagement/2.21.1) | 2.21.1
+## [Microsoft.Graph.DeviceManagement](https://www.powershellgallery.com/Packages/Microsoft.Graph.DeviceManagement/2.22.0) | 2.22.0
 
-### Published: 08/01/2024 11:37:48 by Microsoft Corporation
+### Published: 08/13/2024 07:10:37 by Microsoft Corporation
 
 Microsoft Graph PowerShell Cmdlets
 
 __Downloads__: 7,753,343 | __Repository__: https://github.com/microsoftgraph/msgraph-sdk-powershell
 
-## [Microsoft.Graph.Users.Actions](https://www.powershellgallery.com/Packages/Microsoft.Graph.Users.Actions/2.21.1) | 2.21.1
+## [Microsoft.Graph.Users.Actions](https://www.powershellgallery.com/Packages/Microsoft.Graph.Users.Actions/2.22.0) | 2.22.0
 
-### Published: 08/01/2024 11:39:15 by Microsoft Corporation
+### Published: 08/13/2024 07:12:22 by Microsoft Corporation
 
 Microsoft Graph PowerShell Cmdlets
 
@@ -2168,9 +2168,9 @@ Wrapper for Robocopy
 
 __Downloads__: 7,651,524 | __Repository__: https://github.com/sbergwall/RobocopyPS
 
-## [Microsoft.Graph.DeviceManagement.Administration](https://www.powershellgallery.com/Packages/Microsoft.Graph.DeviceManagement.Administration/2.21.1) | 2.21.1
+## [Microsoft.Graph.DeviceManagement.Administration](https://www.powershellgallery.com/Packages/Microsoft.Graph.DeviceManagement.Administration/2.22.0) | 2.22.0
 
-### Published: 08/01/2024 11:37:39 by Microsoft Corporation
+### Published: 08/13/2024 07:10:25 by Microsoft Corporation
 
 Microsoft Graph PowerShell Cmdlets
 
@@ -2184,12 +2184,12 @@ Serialize/Deserialize Json using Newtonsoft.json
 
 __Downloads__: 7,518,784 | __Repository__: https://github.com/qbikez/ps-entropy/tree/master/src/newtonsoft.json
 
-## [Microsoft.Graph.Identity.SignIns](https://www.powershellgallery.com/Packages/Microsoft.Graph.Identity.SignIns/2.21.1) | 2.21.1
+## [Microsoft.Graph.Identity.SignIns](https://www.powershellgallery.com/Packages/Microsoft.Graph.Identity.SignIns/2.22.0) | 2.22.0
 
-### Published: 08/01/2024 11:38:34 by Microsoft Corporation
+### Published: 08/13/2024 07:11:27 by Microsoft Corporation
 
 Microsoft Graph PowerShell Cmdlets
 
 __Downloads__: 7,459,759 | __Repository__: https://github.com/microsoftgraph/msgraph-sdk-powershell
 
-*Updated: Tuesday, 13 August 2024 02:11:44 UTC*
+*Updated: Tuesday, 13 August 2024 09:51:46 UTC*

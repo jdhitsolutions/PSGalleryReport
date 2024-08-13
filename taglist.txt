@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Tuesday, 13 August 2024 02:11:49 UTC
+Updated: Tuesday, 13 August 2024 09:51:51 UTC
 
 .bat
 .env
@@ -154,6 +154,8 @@ ad-report
 ad-site
 adal
 adapter
+adapter-control
+adapters
 adaptive-card
 adaptivecard
 adaptivecards
@@ -345,6 +347,7 @@ analyticsrules
 analyze
 analyzer
 analyzerrules
+anchor
 and
 android
 anet
@@ -933,7 +936,6 @@ bootstrap
 bootstrapping
 bop
 bot
-bots
 botservice
 bouncer
 boundaries
@@ -1486,6 +1488,7 @@ connector
 connectorcmd
 connectormanagement
 connectwise
+conservation
 console
 consoleguitools
 consolemenu
@@ -2004,6 +2007,8 @@ dirkjan
 dirname
 dirsync
 disa
+disable
+disable-internet
 disable-psremoting
 disablefilesyncngsc
 disablestartbutton
@@ -2105,7 +2110,6 @@ documentencryption
 documenting
 documents
 docusaurus
-docusign
 docx
 dod
 dog
@@ -2178,6 +2182,8 @@ droplet
 droptable
 drs
 drsrule
+drupal
+drush
 dry
 ds
 ds-client
@@ -2332,6 +2338,8 @@ emotion
 empire
 empty
 emwarehouse
+enable
+enable-internet
 enable-psremoting
 enable-psremotingremote
 enbrea
@@ -2787,7 +2795,6 @@ freeipa
 freenas
 freesoftwarefoundation
 freshbooks
-freshdesk
 freshservice
 freshservice-api
 freshserviceps
@@ -3692,6 +3699,7 @@ jws
 jwt
 jwttoken
 k8s
+k8sshell
 kafka
 kaminario
 karabiner
@@ -3753,12 +3761,12 @@ kodi
 korn
 kotlin
 kql
-kraken
 krane
 krbtgt
 krick
 kschemaplugin
 kubclt
+kube
 kubectl
 kubectx
 kubens
@@ -3977,6 +3985,7 @@ login
 login-azurermaccount
 login-rdp
 logingestion
+loginscreen
 loginsight
 logiphys
 logistic
@@ -4178,6 +4187,7 @@ mediaplayer
 mediaservices
 mediawiki
 meditation
+medlemsservice
 meesman
 meeting
 meetup
@@ -4307,6 +4317,7 @@ mittelschule
 mixedreality
 mixer
 mkdocs
+mkpasswd
 mksapiviewer
 ml
 ml.net
@@ -4550,6 +4561,7 @@ netscaler
 netscape
 netsec
 netsh
+netspell
 netstat
 netsuite
 network
@@ -5001,6 +5013,7 @@ passkey
 passkeys
 passphrase
 passphraser passphrase password generator entropy
+passwd
 password
 password_generation
 password-generator
@@ -5322,6 +5335,7 @@ powerprotect_datamanager
 powersaving
 powerscheme
 powershell
+powershell_universal
 powershell-class
 powershell-cmdlets
 powershell-core
@@ -9273,6 +9287,7 @@ sessions
 set
 set_bios
 set-alias
+set-dnsservers
 set-githubsecrets
 set-itemproperty
 set-location
@@ -9296,7 +9311,13 @@ sftp
 sfx
 sgopher
 sgw
+sha-256
+sha-512
+sha-crypt
 sha256
+sha256crypt
+sha512crypt
+shacrypt
 shadow
 shadowcopy
 shadowcopybackups
@@ -9545,6 +9566,8 @@ speed
 speedometer
 speedtest
 speedtester
+spejder
+spellcheck
 spelling
 spf
 spfx
@@ -9566,7 +9589,6 @@ sports-tracker
 spotify
 spotify-api
 spotlight
-spotlightimages
 spp
 spread
 spreadsheet
@@ -9641,6 +9663,7 @@ sslprotocol
 sslvpn
 ssm
 sso
+sspi
 sspr
 ssrs
 ssst
@@ -9709,6 +9732,7 @@ stockcharts
 stocks
 stoicism
 stoics
+stolpe.io
 stop
 storablecolortheme
 storage
@@ -9738,6 +9762,7 @@ stringmanager
 stringmanagertool
 strings
 stringtable
+stringutilities
 strip-ansi
 stripe
 strongname
@@ -9963,6 +9988,7 @@ tenable
 tenable.sc
 tenant
 tenantmanagercontrolplane
+teradata
 termbin
 terminal
 terminal-interface
@@ -10130,7 +10156,6 @@ tracert
 tracing
 tracker
 tracking
-trading
 traffic
 trafficfiltering
 trafficmanager
@@ -10255,6 +10280,7 @@ ud-breadcrumbitem
 ud-burger
 ud-button
 ud-buttonloader
+ud-buttonparticle
 ud-calendar
 ud-circle
 ud-component
@@ -10589,9 +10615,11 @@ voice
 voiceservices
 voidtools
 volkskrant
+volta
 volume
 volumeshadowcopy
 volumio
+voperator
 vorbis
 vovin
 vpas
@@ -10670,6 +10698,7 @@ warrenty
 wasabi
 watch
 watchdog
+watchguard
 watchmen
 watery
 wave
