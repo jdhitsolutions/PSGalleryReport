@@ -1,8 +1,7 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Tuesday, 13 August 2024 09:51:51 UTC
+Updated: Tuesday, 13 August 2024 17:52:27 UTC
 
-.bat
 .env
 .net
 .prom
@@ -332,7 +331,6 @@ amazonwebservices
 amend
 ami
 amiga
-amp
 amqp
 amsi
 amt
@@ -936,6 +934,7 @@ bootstrap
 bootstrapping
 bop
 bot
+bots
 botservice
 bouncer
 boundaries
@@ -1575,7 +1574,6 @@ cosmosdb
 cost
 cost-management
 costmanagement
-costoptimization
 couchbase
 couchdb
 couchpotato
@@ -2110,6 +2108,7 @@ documentencryption
 documenting
 documents
 docusaurus
+docusign
 docx
 dod
 dog
@@ -2650,9 +2649,6 @@ filenames
 fileproperties
 filereplication
 files
-files-cli
-files-cli.exe
-files.com
 filesecurity
 fileserver
 fileserverresourcemanager
@@ -3699,7 +3695,6 @@ jws
 jwt
 jwttoken
 k8s
-k8sshell
 kafka
 kaminario
 karabiner
@@ -3761,12 +3756,12 @@ kodi
 korn
 kotlin
 kql
+kraken
 krane
 krbtgt
 krick
 kschemaplugin
 kubclt
-kube
 kubectl
 kubectx
 kubens
@@ -4862,7 +4857,6 @@ operationsmanagementsuiteagent
 operationvalidation
 operatoraccesscontrol
 opml
-ops
 opsi
 opsmgr
 optics
@@ -4908,7 +4902,6 @@ osm
 osmanagement
 osmanagementhub
 osp
-ospgateway
 osprovision
 osprovisioning
 osr
@@ -5066,7 +5059,6 @@ pdf-document-processor
 pdf-files
 pdf-generation
 pdf-redaction
-pe
 peek
 peering
 peheader
@@ -5082,7 +5074,6 @@ perceptual-hash
 perforce
 performance
 performance-counters
-performancemonitoring
 perl
 permission
 permissions
@@ -8460,6 +8451,7 @@ psql
 psraw
 psreadexif
 psreadline
+psreminder
 psremoting
 psrepository
 psresourceget
@@ -8898,7 +8890,6 @@ ricoh
 rightcloud
 rightjoin
 rights
-rightsizing
 rightsmanagement
 ring
 ripe
@@ -9589,6 +9580,7 @@ sports-tracker
 spotify
 spotify-api
 spotlight
+spotlightimages
 spp
 spread
 spreadsheet
@@ -9980,7 +9972,6 @@ temp
 temperature
 template
 template-engine
-templater
 templates
 templating
 temporary
@@ -10156,6 +10147,7 @@ tracert
 tracing
 tracker
 tracking
+trading
 traffic
 trafficfiltering
 trafficmanager
@@ -10560,7 +10552,6 @@ virtualenvwrapper
 virtualization
 virtualmachine
 virtualmachinemonitor
-virtualmachines
 virtualmachne
 virtualnetwork
 virtualnetworking
@@ -10763,7 +10754,6 @@ weixin
 well-known
 wem
 wemsdk
-wer
 wget
 what3words
 whatismyip
