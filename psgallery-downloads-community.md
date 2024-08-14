@@ -455,7 +455,7 @@ bool
 Boolean
 GUID
 
-__Downloads__: 8,703,020 | __Repository__: https://github.com/JohnRoos/PowerShell/tree/master/Modules/Write-ObjectToSQL
+__Downloads__: 8,703,019 | __Repository__: https://github.com/JohnRoos/PowerShell/tree/master/Modules/Write-ObjectToSQL
 
 ## [VMware.VimAutomation.WorkloadManagement](https://www.powershellgallery.com/Packages/VMware.VimAutomation.WorkloadManagement/13.3.0.24145081) | 13.3.0.24145081
 
@@ -552,7 +552,7 @@ __Downloads__: 5,991,739 | __Repository__: https://github.com/TobiasPSP/Modules.
 
 PowerShell functions to manage a JumpCloud Directory-as-a-Service
 
-__Downloads__: 5,945,144 | __Repository__: https://github.com/TheJumpCloud/support/wiki
+__Downloads__: 5,945,143 | __Repository__: https://github.com/TheJumpCloud/support/wiki
 
 ## [PSInternetConnectionSharing](https://www.powershellgallery.com/Packages/PSInternetConnectionSharing/1.4.1) | 1.4.1
 
@@ -640,7 +640,7 @@ __Downloads__: 4,893,568 | __Repository__: https://github.com/dlwyatt/PolicyFile
 
 Zero Install is a decentralized cross-platform software-installation system.
 
-__Downloads__: 4,821,423 | __Repository__: https://0install.net/
+__Downloads__: 4,821,422 | __Repository__: https://0install.net/
 
 ## [Evergreen](https://www.powershellgallery.com/Packages/Evergreen/2407.1289) | 2407.1289
 
@@ -1349,7 +1349,7 @@ __Downloads__: 2,531,644 | __Repository__: https://developer.vmware.com/powercli
 
 This module contains the DSC resources for manipulating the content of text files.
 
-__Downloads__: 2,486,200 | __Repository__: https://github.com/PlagueHO/FileContentDsc
+__Downloads__: 2,486,199 | __Repository__: https://github.com/PlagueHO/FileContentDsc
 
 ## [Invoke-SqlCmd2](https://www.powershellgallery.com/Packages/Invoke-SqlCmd2/1.6.4) | 1.6.4
 
@@ -1373,7 +1373,7 @@ __Downloads__: 2,255,412 | __Repository__: https://github.com/Azure/AzOps
 
 Manages the security mitigations available in the Windows Defender Security Center
 
-__Downloads__: 2,204,428 | __Repository__: https://github.com/jcwalker/WindowsDefenderDsc
+__Downloads__: 2,204,427 | __Repository__: https://github.com/jcwalker/WindowsDefenderDsc
 
 ## [AuditSystemDsc](https://www.powershellgallery.com/Packages/AuditSystemDsc/1.1.0) | 1.1.0
 
@@ -1381,7 +1381,7 @@ __Downloads__: 2,204,428 | __Repository__: https://github.com/jcwalker/WindowsDe
 
 This module contains resources used to audit system settings/verify compliance.
 
-__Downloads__: 2,194,786 | __Repository__: https://github.com/jcwalker/AuditSystemDsc
+__Downloads__: 2,194,785 | __Repository__: https://github.com/jcwalker/AuditSystemDsc
 
 ## [PowerHTML](https://www.powershellgallery.com/Packages/PowerHTML/0.2.0) | 0.2.0
 
@@ -1489,7 +1489,7 @@ __Downloads__: 1,971,669 | __Repository__:
 
 SplitPipeline - Parallel Data Processing in PowerShell
 
-__Downloads__: 1,939,660 | __Repository__: https://github.com/nightroman/SplitPipeline
+__Downloads__: 1,939,659 | __Repository__: https://github.com/nightroman/SplitPipeline
 
 ## [InvokeBuild](https://www.powershellgallery.com/Packages/InvokeBuild/5.11.3) | 5.11.3
 
@@ -1562,7 +1562,7 @@ __Downloads__: 1,735,690 | __Repository__:
 This module assists software deployment administrators in deploying disparate software. It is designed to
 provide a standard interface to treat software installers of all types exactly the same.
 
-__Downloads__: 1,686,181 | __Repository__: https://github.com/adbertram/PSSoftware
+__Downloads__: 1,686,180 | __Repository__: https://github.com/adbertram/PSSoftware
 
 ## [CommonStuff](https://www.powershellgallery.com/Packages/CommonStuff/1.0.20) | 1.0.20
 
@@ -1608,7 +1608,7 @@ __Downloads__: 1,677,187 | __Repository__: https://www.zerto.com/
 
 A PowerShell wrapper for the dsregcmd executable's output.
 
-__Downloads__: 1,554,163 | __Repository__: https://github.com/Yevrag35/DsRegModule
+__Downloads__: 1,554,162 | __Repository__: https://github.com/Yevrag35/DsRegModule
 
 ## [PSEverything](https://www.powershellgallery.com/Packages/PSEverything/3.3.0) | 3.3.0
 
@@ -1632,7 +1632,7 @@ __Downloads__: 1,483,010 | __Repository__: https://www.pkisolutions.com/tools/ps
 
 PowerShell module for working with the ConnectWise Automate Agent.
 
-__Downloads__: 1,480,128 | __Repository__: https://github.com/christaylorcodes/ConnectWiseAutomateAgent
+__Downloads__: 1,480,126 | __Repository__: https://github.com/christaylorcodes/ConnectWiseAutomateAgent
 
 ## [Terminal-Icons](https://www.powershellgallery.com/Packages/Terminal-Icons/0.11.0) | 0.11.0
 
@@ -1844,7 +1844,7 @@ __Downloads__: 1,029,319 | __Repository__: https://github.com/EvotecIT/Emailimo
 
 AutoRuns is a module that will help do live incident response and enumerate autoruns artifacts that may be used by legitimate programs as well as malware to achieve persistence
 
-__Downloads__: 1,017,030 | __Repository__: https://github.com/p0w3rsh3ll/AutoRuns
+__Downloads__: 1,017,029 | __Repository__: https://github.com/p0w3rsh3ll/AutoRuns
 
 ## [AutoTaskAPI](https://www.powershellgallery.com/Packages/AutoTaskAPI/1.2.2) | 1.2.2
 
@@ -1886,7 +1886,7 @@ __Downloads__: 997,204 | __Repository__: https://github.com/EvotecIT/MailoZaurr
 
 The JumpCloud DirectoryInsights PowerShell SDK
 
-__Downloads__: 951,873 | __Repository__: https://github.com/TheJumpCloud/jcapi-powershell/tree/master/SDKs/PowerShell/JumpCloud.SDK.DirectoryInsights/
+__Downloads__: 951,872 | __Repository__: https://github.com/TheJumpCloud/jcapi-powershell/tree/master/SDKs/PowerShell/JumpCloud.SDK.DirectoryInsights/
 
 ## [PSGELF](https://www.powershellgallery.com/Packages/PSGELF/1.21) | 1.21
 
@@ -1902,7 +1902,7 @@ __Downloads__: 934,683 | __Repository__:
 
 The JumpCloud V1 PowerShell SDK
 
-__Downloads__: 924,121 | __Repository__: https://github.com/TheJumpCloud/jcapi-powershell/tree/master/SDKs/PowerShell/JumpCloud.SDK.V1/
+__Downloads__: 924,120 | __Repository__: https://github.com/TheJumpCloud/jcapi-powershell/tree/master/SDKs/PowerShell/JumpCloud.SDK.V1/
 
 ## [JumpCloud.SDK.V2](https://www.powershellgallery.com/Packages/JumpCloud.SDK.V2/0.0.48) | 0.0.48
 
@@ -1910,7 +1910,7 @@ __Downloads__: 924,121 | __Repository__: https://github.com/TheJumpCloud/jcapi-p
 
 The JumpCloud V2 PowerShell SDK
 
-__Downloads__: 922,333 | __Repository__: https://github.com/TheJumpCloud/jcapi-powershell/tree/master/SDKs/PowerShell/JumpCloud.SDK.V2/
+__Downloads__: 922,332 | __Repository__: https://github.com/TheJumpCloud/jcapi-powershell/tree/master/SDKs/PowerShell/JumpCloud.SDK.V2/
 
 ## [psake](https://www.powershellgallery.com/Packages/psake/4.9.0) | 4.9.0
 
@@ -2047,7 +2047,7 @@ __Downloads__: 671,534 | __Repository__:
 
 Provides a generic toolset to convert text-based table output from various CLI programs into PowerShell objects.
 
-__Downloads__: 661,019 | __Repository__: https://github.com/jjcarrier/PS-TextTable
+__Downloads__: 661,018 | __Repository__: https://github.com/jjcarrier/PS-TextTable
 
 ## [UMN-Google](https://www.powershellgallery.com/Packages/UMN-Google/2.0.3) | 2.0.3
 
@@ -2071,7 +2071,7 @@ __Downloads__: 656,650 | __Repository__:
 
 A simple interface for making selections on an array of PS objects
 
-__Downloads__: 652,080 | __Repository__: https://github.com/jjcarrier/PS-TableUI
+__Downloads__: 652,079 | __Repository__: https://github.com/jjcarrier/PS-TableUI
 
 ## [Xrm.Framework.CI.PowerShell.Cmdlets](https://www.powershellgallery.com/Packages/Xrm.Framework.CI.PowerShell.Cmdlets/9.1.0.16) | 9.1.0.16
 
@@ -2095,7 +2095,7 @@ __Downloads__: 649,292 | __Repository__: https://github.com/rmbolger/DnsClient-P
 
 Provides cmdlets that compliment the existing WinGet CLI. Primarily, improves the user-experience for software updates and offers a convenient way to install collections of software via WinGet through the use of user-defined tags.
 
-__Downloads__: 649,251 | __Repository__: https://github.com/jjcarrier/PS-WinGet-Essentials
+__Downloads__: 649,250 | __Repository__: https://github.com/jjcarrier/PS-WinGet-Essentials
 
 ## [endpointmanager.wingetbridge](https://www.powershellgallery.com/Packages/endpointmanager.wingetbridge/1.3.0.0) | 1.3.0.0
 
@@ -2103,7 +2103,7 @@ __Downloads__: 649,251 | __Repository__: https://github.com/jjcarrier/PS-WinGet-
 
 PowerShell Cmdlets, to retrieve package and installer informations from winget repository. This allows us to automatically maintain application installers in our software deployment tool like Microsoft Endpoint Manager Configuration Manager (ConfigMgr).
 
-__Downloads__: 645,760 | __Repository__: https://github.com/endpointmanager/wingetbridge-powershell
+__Downloads__: 645,759 | __Repository__: https://github.com/endpointmanager/wingetbridge-powershell
 
 ## [PowerShell.Module.InvokeWinGet](https://www.powershellgallery.com/Packages/PowerShell.Module.InvokeWinGet/1.0.80.0) | 1.0.80.0
 
@@ -2111,7 +2111,7 @@ __Downloads__: 645,760 | __Repository__: https://github.com/endpointmanager/wing
 
 Module to Invoke WinGet and parse the output in PSOjects
 
-__Downloads__: 643,825 | __Repository__: https://github.com/arsscriptum/PowerShell.Module.InvokeWinGet
+__Downloads__: 643,824 | __Repository__: https://github.com/arsscriptum/PowerShell.Module.InvokeWinGet
 
 ## [DogStatsD](https://www.powershellgallery.com/Packages/DogStatsD/1.1.0.0) | 1.1.0.0
 
@@ -2138,4 +2138,4 @@ PowerShell for the CrowdStrike Falcon OAuth2 APIs
 
 __Downloads__: 610,280 | __Repository__: https://github.com/crowdstrike/psfalcon
 
-*Updated: Wednesday, 14 August 2024 09:51:54 UTC*
+*Updated: Wednesday, 14 August 2024 17:51:26 UTC*

@@ -1518,7 +1518,7 @@ __Downloads__: 24,063,128 | __Repository__: https://github.com/dsccommunity/xWeb
 
 DSC resources for configuring WS-Man.
 
-__Downloads__: 23,581,109 | __Repository__: https://github.com/dsccommunity/WSManDsc
+__Downloads__: 23,581,107 | __Repository__: https://github.com/dsccommunity/WSManDsc
 
 ## [Microsoft.WinGet.Client](https://www.powershellgallery.com/Packages/Microsoft.WinGet.Client/1.8.1911) | 1.8.1911
 
@@ -2070,7 +2070,7 @@ bool
 Boolean
 GUID
 
-__Downloads__: 8,703,020 | __Repository__: https://github.com/JohnRoos/PowerShell/tree/master/Modules/Write-ObjectToSQL
+__Downloads__: 8,703,019 | __Repository__: https://github.com/JohnRoos/PowerShell/tree/master/Modules/Write-ObjectToSQL
 
 ## [VMware.VimAutomation.WorkloadManagement](https://www.powershellgallery.com/Packages/VMware.VimAutomation.WorkloadManagement/13.3.0.24145081) | 13.3.0.24145081
 
@@ -2192,4 +2192,4 @@ Microsoft Graph PowerShell Cmdlets
 
 __Downloads__: 7,499,910 | __Repository__: https://github.com/microsoftgraph/msgraph-sdk-powershell
 
-*Updated: Wednesday, 14 August 2024 09:51:52 UTC*
+*Updated: Wednesday, 14 August 2024 17:51:25 UTC*
