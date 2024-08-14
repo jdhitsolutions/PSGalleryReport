@@ -1,7 +1,8 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Tuesday, 13 August 2024 17:52:27 UTC
+Updated: Wednesday, 14 August 2024 02:11:14 UTC
 
+.bat
 .env
 .net
 .prom
@@ -224,7 +225,6 @@ adsp
 adsync
 aduser
 aduseraccountlockout
-adusergroups
 adv180002
 adv180018
 adv190013
@@ -249,7 +249,6 @@ aftereffects
 agenda
 agent
 aggregates
-aggregation
 agile
 agility
 agm
@@ -331,6 +330,7 @@ amazonwebservices
 amend
 ami
 amiga
+amp
 amqp
 amsi
 amt
@@ -511,7 +511,6 @@ asjob
 asm
 asn.1
 asn1
-asnbank
 asp
 asp.net
 aspnet
@@ -848,7 +847,6 @@ bicep
 bicepnet
 big-ip
 big-iq
-bigcommerce
 bigeval
 bigfix
 bigquery
@@ -1354,7 +1352,6 @@ cognitiveservices
 cohere
 cohesity
 coinmarketcap
-collaboration
 collatordso
 collatz
 collection
@@ -1574,6 +1571,7 @@ cosmosdb
 cost
 cost-management
 costmanagement
+costoptimization
 couchbase
 couchdb
 couchpotato
@@ -2123,7 +2121,6 @@ domainkey
 domainname
 domainnamesystem
 domains
-domino
 done.land
 donothing
 dos
@@ -2263,7 +2260,6 @@ e-mail
 e1
 easy
 easy-to-use
-easylife365
 easyvista
 eaton
 ebay
@@ -2508,7 +2504,6 @@ execute
 exexml
 exif
 exiftool
-exists
 exitcode
 exitprocessrequest
 exo
@@ -2649,6 +2644,9 @@ filenames
 fileproperties
 filereplication
 files
+files-cli
+files-cli.exe
+files.com
 filesecurity
 fileserver
 fileserverresourcemanager
@@ -2791,6 +2789,7 @@ freeipa
 freenas
 freesoftwarefoundation
 freshbooks
+freshdesk
 freshservice
 freshservice-api
 freshserviceps
@@ -3695,6 +3694,7 @@ jws
 jwt
 jwttoken
 k8s
+k8sshell
 kafka
 kaminario
 karabiner
@@ -3762,6 +3762,7 @@ krbtgt
 krick
 kschemaplugin
 kubclt
+kube
 kubectl
 kubectx
 kubens
@@ -4182,7 +4183,6 @@ mediaplayer
 mediaservices
 mediawiki
 meditation
-medlemsservice
 meesman
 meeting
 meetup
@@ -4556,7 +4556,6 @@ netscaler
 netscape
 netsec
 netsh
-netspell
 netstat
 netsuite
 network
@@ -4818,7 +4817,6 @@ onyphe
 onyphe.io
 oob
 oop
-op
 opa
 opc
 open
@@ -4902,6 +4900,7 @@ osm
 osmanagement
 osmanagementhub
 osp
+ospgateway
 osprovision
 osprovisioning
 osr
@@ -4916,6 +4915,7 @@ otel
 otp
 ou
 ou-object
+oui
 oui-search
 oura
 ouraring
@@ -5059,6 +5059,7 @@ pdf-document-processor
 pdf-files
 pdf-generation
 pdf-redaction
+pe
 peek
 peering
 peheader
@@ -5074,6 +5075,7 @@ perceptual-hash
 perforce
 performance
 performance-counters
+performancemonitoring
 perl
 permission
 permissions
@@ -5468,7 +5470,6 @@ progressbars
 project
 project-management
 projectmanagement
-projectreunion
 projects
 projecttemplate
 projectwise
@@ -5530,7 +5531,6 @@ psake
 psappdeploytoolkit
 psat
 psazd
-psbackup
 psbbix
 psbicep
 pscandy
@@ -7353,7 +7353,6 @@ psedition_psedition_core
 psedition_psedition_desktop
 psedition_windows
 psedition-desktop
-psediton_desktop
 psengine
 psenv
 pses
@@ -8854,7 +8853,6 @@ restart
 restful
 restore
 resume
-retail
 retention
 retro
 retry
@@ -8890,6 +8888,7 @@ ricoh
 rightcloud
 rightjoin
 rights
+rightsizing
 rightsmanagement
 ring
 ripe
@@ -9040,6 +9039,7 @@ scalablevectorgraphics
 scale
 scan
 scanner
+scanning
 scap
 scatter
 scb
@@ -9557,8 +9557,6 @@ speed
 speedometer
 speedtest
 speedtester
-spejder
-spellcheck
 spelling
 spf
 spfx
@@ -9972,6 +9970,7 @@ temp
 temperature
 template
 template-engine
+templater
 templates
 templating
 temporary
@@ -10272,7 +10271,6 @@ ud-breadcrumbitem
 ud-burger
 ud-button
 ud-buttonloader
-ud-buttonparticle
 ud-calendar
 ud-circle
 ud-component
@@ -10427,7 +10425,6 @@ user
 user-environment
 userdiscovery
 usergroup
-usergroups
 userinterface
 usermanagement
 username
@@ -10552,6 +10549,7 @@ virtualenvwrapper
 virtualization
 virtualmachine
 virtualmachinemonitor
+virtualmachines
 virtualmachne
 virtualnetwork
 virtualnetworking
@@ -10754,6 +10752,7 @@ weixin
 well-known
 wem
 wemsdk
+wer
 wget
 what3words
 whatismyip
@@ -10899,7 +10898,6 @@ winsat
 winscp
 wintellect
 winterminal
-winui
 wireless
 wirelessnetwork
 wireshark
