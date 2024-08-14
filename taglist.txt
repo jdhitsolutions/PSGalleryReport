@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Wednesday, 14 August 2024 02:11:14 UTC
+Updated: Wednesday, 14 August 2024 09:51:57 UTC
 
 .bat
 .env
@@ -20,7 +20,6 @@ Updated: Wednesday, 14 August 2024 02:11:14 UTC
 🍣
 💩
 🙇
-1&1
 10
 11
 1607
@@ -225,6 +224,7 @@ adsp
 adsync
 aduser
 aduseraccountlockout
+adusergroups
 adv180002
 adv180018
 adv190013
@@ -249,6 +249,7 @@ aftereffects
 agenda
 agent
 aggregates
+aggregation
 agile
 agility
 agm
@@ -504,13 +505,13 @@ asbuiltreport
 asc
 ascii
 ascii85
-asciiart
 asdatabase
 asigra
 asjob
 asm
 asn.1
 asn1
+asnbank
 asp
 asp.net
 aspnet
@@ -623,7 +624,6 @@ auvik
 availability
 availabilityset
 avalara
-avatar
 avd
 ave
 avepoint
@@ -648,8 +648,6 @@ awsbedrock
 awscli
 awspricelist
 axapta
-axcient
-axcient_x360recover
 axinom
 axis
 axium
@@ -761,7 +759,6 @@ azurestackhci
 azurestate
 azurestorage
 azurestorageservices
-azuresync
 azuretable
 azuretestplan
 azurevirtualdesktop
@@ -847,6 +844,7 @@ bicep
 bicepnet
 big-ip
 big-iq
+bigcommerce
 bigeval
 bigfix
 bigquery
@@ -1060,7 +1058,6 @@ carousel
 carrier
 cartoon
 case
-cassandra
 cat
 cat-names
 catalog
@@ -1255,7 +1252,6 @@ clientsettingssoftwareupdate
 clientsettingsstatemessaging
 clientsettingsuserdeviceaffinity
 clientstatussettings
-clipart
 clipasswordsdk
 clipboard
 clixml
@@ -1352,6 +1348,7 @@ cognitiveservices
 cohere
 cohesity
 coinmarketcap
+collaboration
 collatordso
 collatz
 collection
@@ -2121,6 +2118,7 @@ domainkey
 domainname
 domainnamesystem
 domains
+domino
 done.land
 donothing
 dos
@@ -2260,6 +2258,7 @@ e-mail
 e1
 easy
 easy-to-use
+easylife365
 easyvista
 eaton
 ebay
@@ -2296,7 +2295,6 @@ elastic
 elasticsan
 elasticsearch
 elb
-element
 elevate
 elevated
 elevatedconsole
@@ -2504,6 +2502,7 @@ execute
 exexml
 exif
 exiftool
+exists
 exitcode
 exitprocessrequest
 exo
@@ -2995,7 +2994,6 @@ goldsource-dedicated-server
 google
 google-chrome
 google-fonts
-google-histogram
 google-sankey
 google-table
 googleadsv2
@@ -3093,7 +3091,6 @@ hadoop
 hafr
 haiku
 hailstone
-haipa
 halo
 haloitsm
 halopsa
@@ -3539,7 +3536,6 @@ invoke-webrequest
 invokebuild
 invokemethod
 io
-ionos
 ios
 iot
 iotcentral
@@ -3863,7 +3859,6 @@ licence
 license
 license-generator
 licenseautomation
-licensemanagement
 licensemanager
 licensereport
 licenses
@@ -4183,6 +4178,7 @@ mediaplayer
 mediaservices
 mediawiki
 meditation
+medlemsservice
 meesman
 meeting
 meetup
@@ -4556,6 +4552,7 @@ netscaler
 netscape
 netsec
 netsh
+netspell
 netstat
 netsuite
 network
@@ -4817,6 +4814,7 @@ onyphe
 onyphe.io
 oob
 oop
+op
 opa
 opc
 open
@@ -4855,6 +4853,7 @@ operationsmanagementsuiteagent
 operationvalidation
 operatoraccesscontrol
 opml
+ops
 opsi
 opsmgr
 optics
@@ -5076,7 +5075,6 @@ perforce
 performance
 performance-counters
 performancemonitoring
-perl
 permission
 permissions
 permutations
@@ -5470,6 +5468,7 @@ progressbars
 project
 project-management
 projectmanagement
+projectreunion
 projects
 projecttemplate
 projectwise
@@ -5531,6 +5530,7 @@ psake
 psappdeploytoolkit
 psat
 psazd
+psbackup
 psbbix
 psbicep
 pscandy
@@ -7319,7 +7319,6 @@ pscommand_zwp
 pscommander
 psconfasia
 psconfeu
-psconfig
 pscore
 pscredential
 pscribo
@@ -7353,6 +7352,7 @@ psedition_psedition_core
 psedition_psedition_desktop
 psedition_windows
 psedition-desktop
+psediton_desktop
 psengine
 psenv
 pses
@@ -8853,6 +8853,7 @@ restart
 restful
 restore
 resume
+retail
 retention
 retro
 retry
@@ -9010,7 +9011,6 @@ sample
 sampler
 samurai
 san
-sand
 sandbox
 sanitization
 sanitizer
@@ -9323,9 +9323,7 @@ shared
 sharefile
 sharepoint
 sharepoint_online
-sharepoint-on-prem
 sharepoint-online
-sharepoint-product-configuration-wizard
 sharepoint2013
 sharepointdevelopmentcommunity
 sharepointonline
@@ -9557,6 +9555,8 @@ speed
 speedometer
 speedtest
 speedtester
+spejder
+spellcheck
 spelling
 spf
 spfx
@@ -10189,7 +10189,6 @@ trendmicro
 trevor
 trevorsullivan
 triangle
-tribeloo
 trick
 tricks
 trigger
@@ -10271,6 +10270,7 @@ ud-breadcrumbitem
 ud-burger
 ud-button
 ud-buttonloader
+ud-buttonparticle
 ud-calendar
 ud-circle
 ud-component
@@ -10425,6 +10425,7 @@ user
 user-environment
 userdiscovery
 usergroup
+usergroups
 userinterface
 usermanagement
 username
@@ -10878,7 +10879,6 @@ windowsserver2019
 windowsservercoresecurity
 windowsserverguisecurity
 windowsservice
-windowsservices
 windowsstore
 windowsterminal
 windowstimezone
@@ -10898,6 +10898,7 @@ winsat
 winscp
 wintellect
 winterminal
+winui
 wireless
 wirelessnetwork
 wireshark
@@ -11007,7 +11008,6 @@ x-cart
 x.509
 x1
 x2
-x360recover
 x509
 x509cerificate
 x509cerificate2
@@ -11105,7 +11105,6 @@ zsh
 zuora
 zvm
 zvml
-zvmlinux
 zypper
 カタカナ
 ひらがな
