@@ -1421,7 +1421,7 @@ __Downloads__: 2,111,669 | __Repository__: https://github.com/PlagueHO/CosmosDB
 
 This module can be used to run scheduled tasks and synchronously wait for them to complete.
 
-__Downloads__: 2,099,762 | __Repository__: 
+__Downloads__: 2,099,779 | __Repository__: 
 
 ## [VSTeam](https://www.powershellgallery.com/Packages/VSTeam/7.15.2) | 7.15.2
 
@@ -1844,7 +1844,7 @@ __Downloads__: 1,029,593 | __Repository__: https://github.com/EvotecIT/Emailimo
 
 AutoRuns is a module that will help do live incident response and enumerate autoruns artifacts that may be used by legitimate programs as well as malware to achieve persistence
 
-__Downloads__: 1,017,029 | __Repository__: https://github.com/p0w3rsh3ll/AutoRuns
+__Downloads__: 1,017,052 | __Repository__: https://github.com/p0w3rsh3ll/AutoRuns
 
 ## [AutoTaskAPI](https://www.powershellgallery.com/Packages/AutoTaskAPI/1.2.2) | 1.2.2
 
@@ -2023,7 +2023,7 @@ __Downloads__: 707,037 | __Repository__: https://github.com/EvotecIT/PSTeams
 
 Office 365 Health Service
 
-__Downloads__: 691,756 | __Repository__: https://github.com/EvotecIT/PSWinDocumentation.O365HealthService
+__Downloads__: 691,760 | __Repository__: https://github.com/EvotecIT/PSWinDocumentation.O365HealthService
 
 ## [PSExcel](https://www.powershellgallery.com/Packages/PSExcel/1.0.2) | 1.0.2
 
@@ -2111,7 +2111,7 @@ __Downloads__: 645,894 | __Repository__: https://github.com/endpointmanager/wing
 
 Module to Invoke WinGet and parse the output in PSOjects
 
-__Downloads__: 643,824 | __Repository__: https://github.com/arsscriptum/PowerShell.Module.InvokeWinGet
+__Downloads__: 643,866 | __Repository__: https://github.com/arsscriptum/PowerShell.Module.InvokeWinGet
 
 ## [DogStatsD](https://www.powershellgallery.com/Packages/DogStatsD/1.1.0.0) | 1.1.0.0
 
@@ -2120,7 +2120,7 @@ __Downloads__: 643,824 | __Repository__: https://github.com/arsscriptum/PowerShe
 Lightweight PowerShell module to send DataDog metrics and events
 via DogStatsD custom UDP protocol.
 
-__Downloads__: 629,886 | __Repository__: https://github.com/murati-hu/DogStatsD
+__Downloads__: 629,887 | __Repository__: https://github.com/murati-hu/DogStatsD
 
 ## [GitHubActions](https://www.powershellgallery.com/Packages/GitHubActions/1.1.0.2) | 1.1.0.2
 
@@ -2138,4 +2138,4 @@ PowerShell for the CrowdStrike Falcon OAuth2 APIs
 
 __Downloads__: 617,110 | __Repository__: https://github.com/crowdstrike/psfalcon
 
-*Updated: Thursday, 15 August 2024 09:51:50 UTC*
+*Updated: Thursday, 15 August 2024 17:51:50 UTC*

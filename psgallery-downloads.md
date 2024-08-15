@@ -1543,7 +1543,7 @@ __Downloads__: 23,442,812 | __Repository__:
 This DSC resource can change the user preference for the Windows PowerShell execution policy. THIS MODULE HAS BEEN DEPRECATED
 It will no longer be released. Please use the "PowerShellExecutionPolicy" resource in ComputerManagementDsc instead.
 
-__Downloads__: 23,125,470 | __Repository__: https://github.com/PowerShell/xPowerShellExecutionPolicy
+__Downloads__: 23,125,469 | __Repository__: https://github.com/PowerShell/xPowerShellExecutionPolicy
 
 ## [Az.ArcResourceBridge](https://www.powershellgallery.com/Packages/Az.ArcResourceBridge/1.0.1) | 1.0.1
 
@@ -2192,4 +2192,4 @@ Serialize/Deserialize Json using Newtonsoft.json
 
 __Downloads__: 7,521,006 | __Repository__: https://github.com/qbikez/ps-entropy/tree/master/src/newtonsoft.json
 
-*Updated: Thursday, 15 August 2024 09:51:48 UTC*
+*Updated: Thursday, 15 August 2024 17:51:48 UTC*

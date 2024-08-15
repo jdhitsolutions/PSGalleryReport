@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Thursday, 15 August 2024 09:51:53 UTC
+Updated: Thursday, 15 August 2024 17:51:53 UTC
 
 .bat
 .env
@@ -20,7 +20,6 @@ Updated: Thursday, 15 August 2024 09:51:53 UTC
 🍣
 💩
 🙇
-1&1
 10
 11
 1607
@@ -443,6 +442,7 @@ appv
 appventix
 appveyor
 appvolumes
+appwrite
 appx
 appxmanifest
 appxpackage
@@ -625,6 +625,7 @@ auvik
 availability
 availabilityset
 avalara
+avatar
 avd
 ave
 avepoint
@@ -649,6 +650,8 @@ awsbedrock
 awscli
 awspricelist
 axapta
+axcient
+axcient_x360recover
 axinom
 axis
 axium
@@ -773,6 +776,7 @@ back
 backblaze
 backconnection
 backconnectionhostname
+backend
 backup
 backup_validation
 bamboo
@@ -980,7 +984,6 @@ bugzilla
 build
 build-log
 build-scripts
-build-test-publish
 builddefinition
 builder
 buildhelpers
@@ -1551,6 +1554,8 @@ converttomarkdown
 converttomd
 cookie
 coolq
+cooltag1
+cooltag2
 coordinates
 copilot
 copy
@@ -1826,7 +1831,10 @@ db
 db2
 dba
 dbaas
+dbai
 dbase
+dbassistant
+dbatools
 dbcommand
 dbeaver
 dbfs
@@ -2006,6 +2014,7 @@ disasterrecovery
 disconnect
 discord
 discordrpc
+discount
 discover
 discovery
 discutils
@@ -2101,6 +2110,8 @@ docusign
 docx
 dod
 dog
+dog-names
+dogs
 dogstatsd
 dok
 dokuwiki
@@ -2254,6 +2265,7 @@ easylife365
 easyvista
 eaton
 ebay
+ebooks
 ebur128
 ec2
 ecommerce
@@ -2541,7 +2553,6 @@ extensions
 external
 externalip
 extract
-extraction
 extractor
 extreme-networks
 eye-candy
@@ -3111,7 +3122,6 @@ hardlink
 hardmatch
 hardware
 harperdb
-hartokens
 harvest
 harvestforecast
 hash
@@ -3528,7 +3538,6 @@ invoke-webrequest
 invokebuild
 invokemethod
 io
-ionos
 ios
 iot
 iotcentral
@@ -3537,6 +3546,7 @@ iothubproperties
 ip
 ip_cameras
 ip-address
+ip-scanner
 ipa
 ipaddress
 ipam
@@ -4170,6 +4180,7 @@ mediaplayer
 mediaservices
 mediawiki
 meditation
+medlemsservice
 meesman
 meeting
 meetup
@@ -4318,11 +4329,6 @@ models
 modify
 module
 module-maintenance
-module-manifest
-module-publishing
-module-publishing-framework
-module-testing
-module-testing-framework
 modulebuild
 modulecreation
 modulefast
@@ -4482,6 +4488,7 @@ nac
 nagios
 nakivo
 name
+name-of-dogs
 namedpipe
 nameit
 nameresolution
@@ -4504,7 +4511,6 @@ nav
 navigation
 nbi
 ncal
-ncrestapi
 ndes
 nebulon
 nec-infrared-transmission-protocol
@@ -4577,7 +4583,6 @@ new-dynamicparameter
 new-githubrelease
 new-item
 new-itemproperty
-new-modulemanifest
 new-pinneditem
 new-rdpsession
 new-samcmapplicationfrompackagedefinitionsms
@@ -5191,6 +5196,7 @@ popd
 population
 popup
 port
+port-scanner
 port70
 portal
 porthunter
@@ -5332,8 +5338,6 @@ powershell-isprime
 powershell-lightning
 powershell-module
 powershell-modules
-powershell-modules-convention
-powershell-project-convention
 powershell-releases-api
 powershell-remoting
 powershell-terminal
@@ -8449,6 +8453,7 @@ psrule-rules
 pssa
 psscriptanalyzer
 psscriptanaylzer
+psscriptsmonitoring
 pssendgrid
 pssession
 pssharper
@@ -8486,7 +8491,6 @@ publicfolder
 publicholidays
 publicip
 publish
-publish-module
 publishedmodules
 publisher
 publishers
@@ -8729,7 +8733,6 @@ regression
 regular-expression
 regularexpression
 regularexpressions
-reinstall
 relational
 relay
 release
@@ -8983,6 +8986,7 @@ safeguard
 sage
 saggiehaim
 sailpoint
+sale
 sales
 salesforce
 salesloft
@@ -9088,7 +9092,6 @@ screenscraping
 screenshot
 script
 script_version
-script-module
 script-to-assembly
 script-to-executable
 scriptanalyzer
@@ -9106,6 +9109,7 @@ scriptmodule
 scriptoform
 scriptrunner
 scripts
+scriptsmonitoring
 scrolllock
 scrub
 scrubber
@@ -9138,6 +9142,7 @@ secretsanta
 secretscanner
 secretserver
 secretsmanager
+secretstore
 secretvault
 section
 secur32
@@ -9459,6 +9464,7 @@ snmpwalk
 snowflake
 snsmssqlpsmodule
 snspsadgroupmembers
+snspsscriptsmonitoring
 snssqlitepsmodule
 sntp
 soap
@@ -9541,6 +9547,7 @@ speed
 speedometer
 speedtest
 speedtester
+spejder
 spellcheck
 spelling
 spf
@@ -9694,6 +9701,7 @@ stdout
 steam
 steam-games
 steamcmd
+stepper
 sticker
 sticker-pack
 stickers
@@ -9913,6 +9921,7 @@ taskmanagement
 tasks
 taskscheduler
 tatux
+taxjar
 taxonomy
 tcp
 tcp/ip
@@ -9980,7 +9989,6 @@ test
 test-automation
 test-dscconfiguration
 test-internetconnection
-test-modulemanifest
 test-modulepath
 test-osplatform
 test-psremoting
@@ -10362,7 +10370,6 @@ unzip
 up
 update
 update-module
-update-modulemanifest
 update-moduletests
 update-typedata
 updatedeferral
@@ -10665,6 +10672,7 @@ wapi
 warning
 warplaneporn
 warranty
+warraty
 warrenty
 wasabi
 watch
@@ -10859,7 +10867,6 @@ windowsserver2019
 windowsservercoresecurity
 windowsserverguisecurity
 windowsservice
-windowsservices
 windowsstore
 windowsterminal
 windowstimezone
@@ -10989,6 +10996,7 @@ x-cart
 x.509
 x1
 x2
+x360recover
 x509
 x509cerificate
 x509cerificate2
