@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Thursday, 15 August 2024 02:06:48 UTC
+Updated: Thursday, 15 August 2024 09:51:53 UTC
 
 .bat
 .env
@@ -443,7 +443,6 @@ appv
 appventix
 appveyor
 appvolumes
-appwrite
 appx
 appxmanifest
 appxpackage
@@ -477,6 +476,7 @@ archonagent
 arcresourcebridge
 arcus
 area
+arg
 argcomplete
 argument
 argumentcompleter
@@ -625,7 +625,6 @@ auvik
 availability
 availabilityset
 avalara
-avatar
 avd
 ave
 avepoint
@@ -650,8 +649,6 @@ awsbedrock
 awscli
 awspricelist
 axapta
-axcient
-axcient_x360recover
 axinom
 axis
 axium
@@ -776,7 +773,6 @@ back
 backblaze
 backconnection
 backconnectionhostname
-backend
 backup
 backup_validation
 bamboo
@@ -1012,6 +1008,7 @@ businessobjects
 businessrulesengine
 businesstime
 bxor
+bydesign
 byexample
 bynarypsmodule
 byovd
@@ -1059,7 +1056,6 @@ cardwirth
 cares
 cargo
 carousel
-carrier
 cartoon
 case
 cassandra
@@ -1068,6 +1064,7 @@ cat-names
 catalog
 catalogs
 catalyst
+catapult
 catesta
 catimage
 cats
@@ -1256,6 +1253,7 @@ clientsettingssoftwareupdate
 clientsettingsstatemessaging
 clientsettingsuserdeviceaffinity
 clientstatussettings
+clipart
 clipasswordsdk
 clipboard
 clixml
@@ -1314,6 +1312,7 @@ cmdlet-testing
 cmdlets
 cmdstan
 cmgroupdiscovery
+cmhealth
 cmhealthcheck
 cminifile
 cmnetworkports
@@ -1519,6 +1518,7 @@ contrast
 control
 controller
 controlroom
+controlup
 conventional
 conventional-commits
 convereter
@@ -1531,6 +1531,7 @@ conversiontool
 convert
 convert-dtexceptiontomessage
 convert-movietogif
+convert-sid
 convert-windowsimage
 converter
 convertfrom
@@ -1550,8 +1551,6 @@ converttomarkdown
 converttomd
 cookie
 coolq
-cooltag1
-cooltag2
 coordinates
 copilot
 copy
@@ -1673,7 +1672,6 @@ ctrl+c
 ctx
 ctype
 cubes
-cudel
 culture
 cumulative
 cumulativeupdate
@@ -1794,7 +1792,6 @@ datalabelingservicedataplane
 datalake
 datamanipulation
 datamodel
-datanorm
 dataplatform
 datapro
 dataprotection
@@ -1829,10 +1826,7 @@ db
 db2
 dba
 dbaas
-dbai
 dbase
-dbassistant
-dbatools
 dbcommand
 dbeaver
 dbfs
@@ -2012,7 +2006,6 @@ disasterrecovery
 disconnect
 discord
 discordrpc
-discount
 discover
 discovery
 discutils
@@ -2108,8 +2101,6 @@ docusign
 docx
 dod
 dog
-dog-names
-dogs
 dogstatsd
 dok
 dokuwiki
@@ -2263,7 +2254,6 @@ easylife365
 easyvista
 eaton
 ebay
-ebooks
 ebur128
 ec2
 ecommerce
@@ -2290,6 +2280,7 @@ efi
 egrep
 eid
 eigencontroles
+einstein
 eklient psedition_core psedition_desktop
 elastic
 elasticsan
@@ -2431,7 +2422,6 @@ etl2pcapng
 etrade
 ets
 etw
-eulanda
 evaluator
 evc
 event
@@ -3462,6 +3452,7 @@ inspect
 inspiration
 inspirationalquotes
 inspire
+inspur
 instagram
 install
 install-module
@@ -3477,6 +3468,7 @@ installwindows
 instance
 instant
 instapush
+instorage
 int
 intacct
 integrated
@@ -3519,7 +3511,6 @@ investment
 investments
 invitation
 invocation
-invoice
 invoke
 invoke-asadmin
 invoke-asadministrator
@@ -3546,7 +3537,6 @@ iothubproperties
 ip
 ip_cameras
 ip-address
-ip-scanner
 ipa
 ipaddress
 ipam
@@ -3594,6 +3584,7 @@ issues
 isvalidemail
 isvalidip
 it
+it-support
 it-tool
 it-tools
 italic-text
@@ -4010,7 +4001,6 @@ look
 lookup
 loop
 loopback
-loremipsum
 love
 lovequotes
 lpsiamol
@@ -4180,7 +4170,6 @@ mediaplayer
 mediaservices
 mediawiki
 meditation
-medlemsservice
 meesman
 meeting
 meetup
@@ -4493,7 +4482,6 @@ nac
 nagios
 nakivo
 name
-name-of-dogs
 namedpipe
 nameit
 nameresolution
@@ -4745,7 +4733,6 @@ odbc
 odfb
 odin
 odoo
-oem-charset
 offboarding
 offence
 office
@@ -5159,6 +5146,7 @@ playwright
 pleasant
 pleasantpasswordserver
 plex
+plist
 plog
 plot
 plug-n-copy
@@ -5203,7 +5191,6 @@ popd
 population
 popup
 port
-port-scanner
 port70
 portal
 porthunter
@@ -5290,6 +5277,7 @@ poshy-wrap-yum
 poshy-wrap-zypper
 position
 post
+postcode
 postgre
 postgres
 postgresql
@@ -5480,6 +5468,7 @@ pronounceable
 proofpoint
 properties
 property
+property-list
 prose
 protect
 protect-blob
@@ -7319,6 +7308,7 @@ pscommand_zwp
 pscommander
 psconfasia
 psconfeu
+psconfig
 pscore
 pscredential
 pscribo
@@ -8459,7 +8449,6 @@ psrule-rules
 pssa
 psscriptanalyzer
 psscriptanaylzer
-psscriptsmonitoring
 pssendgrid
 pssession
 pssharper
@@ -8663,6 +8652,7 @@ readiness
 readme
 readpdf
 readthedocs
+real-time
 realschule
 realtimeprotection
 rebase
@@ -8776,6 +8766,7 @@ remotemanagement
 remotesession
 remoting
 remove
+remove-githubsecrets
 remove-itemproperty
 remove-pass
 remove-path
@@ -8832,6 +8823,7 @@ resource
 resource_monitor
 resource_watcher
 resourcecontroller
+resourcegraph
 resourcegroup
 resourcegroups
 resourceid
@@ -8991,7 +8983,6 @@ safeguard
 sage
 saggiehaim
 sailpoint
-sale
 sales
 salesforce
 salesloft
@@ -9115,7 +9106,6 @@ scriptmodule
 scriptoform
 scriptrunner
 scripts
-scriptsmonitoring
 scrolllock
 scrub
 scrubber
@@ -9127,6 +9117,7 @@ sdk
 sdn
 sdp
 search
+search-adminauditlog
 search-engines
 searchconnector
 searchengine
@@ -9147,7 +9138,6 @@ secretsanta
 secretscanner
 secretserver
 secretsmanager
-secretstore
 secretvault
 section
 secur32
@@ -9276,6 +9266,7 @@ set
 set_bios
 set-alias
 set-dnsservers
+set-githubsecrets
 set-itemproperty
 set-location
 set-openfiles
@@ -9319,7 +9310,9 @@ shared
 sharefile
 sharepoint
 sharepoint_online
+sharepoint-on-prem
 sharepoint-online
+sharepoint-product-configuration-wizard
 sharepoint2013
 sharepointdevelopmentcommunity
 sharepointonline
@@ -9337,7 +9330,6 @@ shipstation
 shlink
 shodan
 shodanps
-shop
 shopify
 shortcut
 shortcuts
@@ -9417,7 +9409,6 @@ slashcommands
 slideshow
 slmgr
 sln
-slugify
 sm
 sma
 small_web
@@ -9468,7 +9459,6 @@ snmpwalk
 snowflake
 snsmssqlpsmodule
 snspsadgroupmembers
-snspsscriptsmonitoring
 snssqlitepsmodule
 sntp
 soap
@@ -9551,7 +9541,6 @@ speed
 speedometer
 speedtest
 speedtester
-spejder
 spellcheck
 spelling
 spf
@@ -9589,7 +9578,6 @@ sql-server
 sqlagent
 sqlautomation
 sqlbits
-sqlbrowser
 sqlbulkcopy
 sqlchangeautomation
 sqlclient
@@ -9706,7 +9694,6 @@ stdout
 steam
 steam-games
 steamcmd
-stepper
 sticker
 sticker-pack
 stickers
@@ -9926,7 +9913,6 @@ taskmanagement
 tasks
 taskscheduler
 tatux
-taxjar
 taxonomy
 tcp
 tcp/ip
@@ -10030,7 +10016,6 @@ textgeneration
 texting
 texting-emoji
 texting-emojis
-textprocessing
 textwrapping
 tfe
 tfenv
@@ -10680,7 +10665,6 @@ wapi
 warning
 warplaneporn
 warranty
-warraty
 warrenty
 wasabi
 watch
@@ -10789,7 +10773,6 @@ whoisutility
 whormi
 wi-fi
 wia
-wia.imagefile
 wid
 widedata
 wif
@@ -11006,7 +10989,6 @@ x-cart
 x.509
 x1
 x2
-x360recover
 x509
 x509cerificate
 x509cerificate2
