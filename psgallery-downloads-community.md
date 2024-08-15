@@ -552,7 +552,7 @@ __Downloads__: 5,991,739 | __Repository__: https://github.com/TobiasPSP/Modules.
 
 PowerShell functions to manage a JumpCloud Directory-as-a-Service
 
-__Downloads__: 5,945,143 | __Repository__: https://github.com/TheJumpCloud/support/wiki
+__Downloads__: 5,945,144 | __Repository__: https://github.com/TheJumpCloud/support/wiki
 
 ## [PSInternetConnectionSharing](https://www.powershellgallery.com/Packages/PSInternetConnectionSharing/1.4.1) | 1.4.1
 
@@ -640,7 +640,7 @@ __Downloads__: 4,893,568 | __Repository__: https://github.com/dlwyatt/PolicyFile
 
 Zero Install is a decentralized cross-platform software-installation system.
 
-__Downloads__: 4,821,422 | __Repository__: https://0install.net/
+__Downloads__: 4,821,423 | __Repository__: https://0install.net/
 
 ## [Evergreen](https://www.powershellgallery.com/Packages/Evergreen/2407.1289) | 2407.1289
 
@@ -1096,7 +1096,7 @@ __Downloads__: 3,741,165 | __Repository__: https://vcredist.com/
 
 A Simple module to allow the management of local users and groups on a computer
 
-__Downloads__: 3,411,028 | __Repository__: 
+__Downloads__: 3,411,002 | __Repository__: 
 
 ## [Strapper](https://www.powershellgallery.com/Packages/Strapper/1.6) | 1.6
 
@@ -1349,7 +1349,7 @@ __Downloads__: 2,531,644 | __Repository__: https://developer.vmware.com/powercli
 
 This module contains the DSC resources for manipulating the content of text files.
 
-__Downloads__: 2,486,199 | __Repository__: https://github.com/PlagueHO/FileContentDsc
+__Downloads__: 2,486,200 | __Repository__: https://github.com/PlagueHO/FileContentDsc
 
 ## [Invoke-SqlCmd2](https://www.powershellgallery.com/Packages/Invoke-SqlCmd2/1.6.4) | 1.6.4
 
@@ -1373,7 +1373,7 @@ __Downloads__: 2,255,412 | __Repository__: https://github.com/Azure/AzOps
 
 Manages the security mitigations available in the Windows Defender Security Center
 
-__Downloads__: 2,204,427 | __Repository__: https://github.com/jcwalker/WindowsDefenderDsc
+__Downloads__: 2,204,428 | __Repository__: https://github.com/jcwalker/WindowsDefenderDsc
 
 ## [AuditSystemDsc](https://www.powershellgallery.com/Packages/AuditSystemDsc/1.1.0) | 1.1.0
 
@@ -1381,7 +1381,7 @@ __Downloads__: 2,204,427 | __Repository__: https://github.com/jcwalker/WindowsDe
 
 This module contains resources used to audit system settings/verify compliance.
 
-__Downloads__: 2,194,785 | __Repository__: https://github.com/jcwalker/AuditSystemDsc
+__Downloads__: 2,194,786 | __Repository__: https://github.com/jcwalker/AuditSystemDsc
 
 ## [PowerHTML](https://www.powershellgallery.com/Packages/PowerHTML/0.2.0) | 0.2.0
 
@@ -1421,7 +1421,7 @@ __Downloads__: 2,106,869 | __Repository__: https://github.com/PlagueHO/CosmosDB
 
 This module can be used to run scheduled tasks and synchronously wait for them to complete.
 
-__Downloads__: 2,099,762 | __Repository__: 
+__Downloads__: 2,099,763 | __Repository__: 
 
 ## [VSTeam](https://www.powershellgallery.com/Packages/VSTeam/7.15.2) | 7.15.2
 
@@ -2138,4 +2138,4 @@ PowerShell for the CrowdStrike Falcon OAuth2 APIs
 
 __Downloads__: 610,280 | __Repository__: https://github.com/crowdstrike/psfalcon
 
-*Updated: Wednesday, 14 August 2024 17:51:26 UTC*
+*Updated: Thursday, 15 August 2024 02:06:45 UTC*
