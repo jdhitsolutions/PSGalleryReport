@@ -3,13 +3,69 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
-## [MISP.Tools](https://www.powershellgallery.com/Packages/MISP.Tools/1.1.3) | 1.1.3
+## [UncommonSense.Volkskrant](https://www.powershellgallery.com/Packages/UncommonSense.Volkskrant/0.0.51.0) | 0.0.51.0
 
-### Published: 08/16/2024 00:41:07 by John Berkers
+### Published: 08/16/2024 08:56:48 by Jan Hoek
+
+PowerShell module for listing Volkskrant articles
+
+__Downloads__: 4,845 | __Repository__: https://github.com/jhoek/UncommonSense.Volkskrant
+
+## [JyskIT.Automation](https://www.powershellgallery.com/Packages/JyskIT.Automation/1.1.5) | 1.1.5
+
+### Published: 08/16/2024 07:52:46 by Jysk IT
+
+Provides different cmdlets for automating Microsoft 365 and related services.
+
+__Downloads__: 654 | __Repository__: 
+
+## [DSInternals.Passkeys](https://www.powershellgallery.com/Packages/DSInternals.Passkeys/1.0.3) | 1.0.3
+
+### Published: 08/16/2024 06:58:19 by Michael Grafnetter
+
+Allows administrative registration of passkeys (i.e. FIDO2 security keys and Microsoft Authenticator mobile app) in Microsoft Entra ID (formerly Azure Active Directory) through the Microsoft Graph API.
+
+__Downloads__: 18 | __Repository__: https://github.com/MichaelGrafnetter/webauthn-interop
+
+## [RiverMeadow.Development.Migrate](https://www.powershellgallery.com/Packages/RiverMeadow.Development.Migrate/1.0.122.558) | 1.0.122.558
+
+### Published: 08/16/2024 06:57:48 by RiverMeadow Engineering Team
+
+Provides cmdlets for starting migration of applications to supported clouds using the RiverMeadow platform.
+
+__Downloads__: 991 | __Repository__: https://migrate.rivermeadow.com/
+
+## [MISP.Tools](https://www.powershellgallery.com/Packages/MISP.Tools/1.1.5) | 1.1.5
+
+### Published: 08/16/2024 06:31:23 by John Berkers
 
 This module assists organisations using PowerShell to interface to the MISP.
 
 __Downloads__: 7,897 | __Repository__: https://github.com/IPSecMSSP/misp.tools
+
+## [UiPathOrch](https://www.powershellgallery.com/Packages/UiPathOrch/0.9.6.3) | 0.9.6.3
+
+### Published: 08/16/2024 06:29:49 by Yoshifumi Tsuda
+
+A PowerShell provider for managing UiPath Orchestrator entities via cmdlets.
+
+__Downloads__: 865 | __Repository__: 
+
+## [PSOpenAI](https://www.powershellgallery.com/Packages/PSOpenAI/4.2.0) | 4.2.0
+
+### Published: 08/16/2024 04:13:52 by mkht
+
+PowerShell module for OpenAI API
+
+__Downloads__: 4,465 | __Repository__: https://github.com/mkht/PSOpenAI
+
+## [Particular.ServiceControl.Management](https://www.powershellgallery.com/Packages/Particular.ServiceControl.Management/5.6.1) | 5.6.1
+
+### Published: 08/16/2024 03:01:16 by Particular Software
+
+ServiceControl Management
+
+__Downloads__: 2,476 | __Repository__: https://github.com/Particular/ServiceControl
 
 ## [LS.Commands](https://www.powershellgallery.com/Packages/LS.Commands/1.0.8) | 1.0.8
 
@@ -41,21 +97,21 @@ __Downloads__: 7 | __Repository__: https://github.com/microsoft/ARI
 
 A PowerShell module that makes interfacing with Azure Pipelines a little easier
 
-__Downloads__: 52,115 | __Repository__: https://github.com/Dejulia489/AzurePipelinesPS
-
-## [EnhancedVPNAO](https://www.powershellgallery.com/Packages/EnhancedVPNAO/0.0.15) | 0.0.15
-
-### Published: 08/15/2024 20:29:42 by Abdullah Ollivierre
-
-EnhancedVPNAO for PowerShell scripts.
-
-__Downloads__: 23 | __Repository__: 
+__Downloads__: 52,113 | __Repository__: https://github.com/Dejulia489/AzurePipelinesPS
 
 ## [EnhancedWin32DeployerAO](https://www.powershellgallery.com/Packages/EnhancedWin32DeployerAO/0.0.15) | 0.0.15
 
 ### Published: 08/15/2024 20:29:42 by Abdullah Ollivierre
 
 EnhancedWin32DeployerAO for PowerShell scripts.
+
+__Downloads__: 23 | __Repository__: 
+
+## [EnhancedVPNAO](https://www.powershellgallery.com/Packages/EnhancedVPNAO/0.0.15) | 0.0.15
+
+### Published: 08/15/2024 20:29:42 by Abdullah Ollivierre
+
+EnhancedVPNAO for PowerShell scripts.
 
 __Downloads__: 23 | __Repository__: 
 
@@ -66,14 +122,6 @@ __Downloads__: 23 | __Repository__:
 EnhancedSPOAO for PowerShell scripts.
 
 __Downloads__: 16 | __Repository__: 
-
-## [EnhancedSchedTaskAO](https://www.powershellgallery.com/Packages/EnhancedSchedTaskAO/0.0.15) | 0.0.15
-
-### Published: 08/15/2024 20:29:41 by Abdullah Ollivierre
-
-EnhancedSchedTaskAO for PowerShell scripts.
-
-__Downloads__: 25 | __Repository__: 
 
 ## [EnhancedLoggingAO](https://www.powershellgallery.com/Packages/EnhancedLoggingAO/0.0.15) | 0.0.15
 
@@ -91,6 +139,14 @@ EnhancedPSADTAO for PowerShell scripts.
 
 __Downloads__: 29 | __Repository__: 
 
+## [EnhancedSchedTaskAO](https://www.powershellgallery.com/Packages/EnhancedSchedTaskAO/0.0.15) | 0.0.15
+
+### Published: 08/15/2024 20:29:41 by Abdullah Ollivierre
+
+EnhancedSchedTaskAO for PowerShell scripts.
+
+__Downloads__: 25 | __Repository__: 
+
 ## [EnhancedGraphAO](https://www.powershellgallery.com/Packages/EnhancedGraphAO/0.0.15) | 0.0.15
 
 ### Published: 08/15/2024 20:29:40 by Abdullah Ollivierre
@@ -107,22 +163,6 @@ EnhancedHyperVAO for PowerShell scripts.
 
 __Downloads__: 23 | __Repository__: 
 
-## [EnhancedDeviceMigrationAO](https://www.powershellgallery.com/Packages/EnhancedDeviceMigrationAO/0.0.15) | 0.0.15
-
-### Published: 08/15/2024 20:29:39 by Abdullah Ollivierre
-
-EnhancedDeviceMigrationAO for PowerShell scripts.
-
-__Downloads__: 24 | __Repository__: 
-
-## [EnhancedFileManagerAO](https://www.powershellgallery.com/Packages/EnhancedFileManagerAO/0.0.15) | 0.0.15
-
-### Published: 08/15/2024 20:29:39 by Abdullah Ollivierre
-
-EnhancedFileManagerAO for PowerShell scripts.
-
-__Downloads__: 24 | __Repository__: 
-
 ## [EnhancedBoilerPlateAO](https://www.powershellgallery.com/Packages/EnhancedBoilerPlateAO/0.0.15) | 0.0.15
 
 ### Published: 08/15/2024 20:29:38 by Abdullah Ollivierre
@@ -130,14 +170,6 @@ __Downloads__: 24 | __Repository__:
 EnhancedBoilerPlateAO for PowerShell scripts.
 
 __Downloads__: 32 | __Repository__: 
-
-## [EnhancedAO.Graph.SignInLogs](https://www.powershellgallery.com/Packages/EnhancedAO.Graph.SignInLogs/0.0.15) | 0.0.15
-
-### Published: 08/15/2024 20:29:37 by Abdullah Ollivierre
-
-EnhancedAO.Graph.SignInLogs for PowerShell scripts.
-
-__Downloads__: 24 | __Repository__: 
 
 ## [RemoteLocalGroups](https://www.powershellgallery.com/Packages/RemoteLocalGroups/1.0.5) | 1.0.5
 
@@ -153,7 +185,7 @@ __Downloads__: 55 | __Repository__: https://github.com/LuisCarrilloTech
 
 Lightweight army of helpers for general powershell activities
 
-__Downloads__: 12,385 | __Repository__: https://github.com/o-o00o-o/PSEasy.Utility
+__Downloads__: 12,384 | __Repository__: https://github.com/o-o00o-o/PSEasy.Utility
 
 ## [Arcane_Server](https://www.powershellgallery.com/Packages/Arcane_Server/1.0.4) | 1.0.4
 
@@ -636,14 +668,6 @@ This modules provides a set of cmdlets to interact with 3CX V20 API
 
 __Downloads__: 43 | __Repository__: https://github.com/xasz/3CX
 
-## [RiverMeadow.Development.Migrate](https://www.powershellgallery.com/Packages/RiverMeadow.Development.Migrate/1.0.121.556) | 1.0.121.556
-
-### Published: 08/14/2024 06:47:18 by RiverMeadow Engineering Team
-
-Provides cmdlets for starting migration of applications to supported clouds using the RiverMeadow platform.
-
-__Downloads__: 991 | __Repository__: https://migrate.rivermeadow.com/
-
 ## [Intersight.PowerShell](https://www.powershellgallery.com/Packages/Intersight.PowerShell/1.0.11.17956) | 1.0.11.17956
 
 ### Published: 08/14/2024 06:11:31 by Cisco Systems
@@ -651,14 +675,6 @@ __Downloads__: 991 | __Repository__: https://migrate.rivermeadow.com/
 Intersight Powershell module provides the cmdlets to manage, analyze, and automate the IT infrastructure in Intersight.
 
 __Downloads__: 10,733 | __Repository__: https://github.com/CiscoDevNet/intersight-powershell
-
-## [DSInternals.Passkeys](https://www.powershellgallery.com/Packages/DSInternals.Passkeys/1.0.2) | 1.0.2
-
-### Published: 08/14/2024 05:42:28 by Michael Grafnetter
-
-Allows administrative registration of passkeys (i.e. FIDO2 security keys and Microsoft Authenticator mobile app) in Microsoft Entra ID (formerly Azure Active Directory) through the Microsoft Graph API.
-
-__Downloads__: 18 | __Repository__: https://github.com/MichaelGrafnetter/webauthn-interop
 
 ## [OCI.PSModules](https://www.powershellgallery.com/Packages/OCI.PSModules/88.1.0) | 88.1.0
 
@@ -1819,7 +1835,7 @@ __Downloads__: 125,693 | __Repository__:
 
 Master module for a collection of modules. These modules are varied in their tasks. The overall purpose of them being to provide a powerfull Toolset to improve IT Admin workflows.
 
-__Downloads__: 63,531 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox
+__Downloads__: 63,530 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox
 
 ## [AdminToolbox.FortiWizard](https://www.powershellgallery.com/Packages/AdminToolbox.FortiWizard/2.19.23) | 2.19.23
 
@@ -1835,7 +1851,7 @@ __Downloads__: 43,341 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions to Automate Bulk VMWare Tasks
 
-__Downloads__: 50,565 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 50,562 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.Remoting](https://www.powershellgallery.com/Packages/AdminToolbox.Remoting/1.9.167) | 1.9.167
 
@@ -1843,7 +1859,7 @@ __Downloads__: 50,565 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions for remote management and access.
 
-__Downloads__: 49,935 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 49,932 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.Office365](https://www.powershellgallery.com/Packages/AdminToolbox.Office365/4.0.27) | 4.0.27
 
@@ -1859,7 +1875,7 @@ __Downloads__: 53,764 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Network Troubleshooting Functions
 
-__Downloads__: 141,803 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 141,799 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.MSGraph](https://www.powershellgallery.com/Packages/AdminToolbox.MSGraph/1.3.21) | 1.3.21
 
@@ -1875,7 +1891,7 @@ __Downloads__: 40,052 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions that have no purpose
 
-__Downloads__: 50,736 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 50,733 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.FileManagement](https://www.powershellgallery.com/Packages/AdminToolbox.FileManagement/1.16.159) | 1.16.159
 
@@ -1883,7 +1899,7 @@ __Downloads__: 50,736 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 File Management Functions
 
-__Downloads__: 51,219 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 51,216 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.FFTools](https://www.powershellgallery.com/Packages/AdminToolbox.FFTools/4.16.117) | 4.16.117
 
@@ -1891,7 +1907,7 @@ __Downloads__: 51,219 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Expedite simple ffmpeg actions
 
-__Downloads__: 51,265 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 51,262 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.Exchange](https://www.powershellgallery.com/Packages/AdminToolbox.Exchange/1.9.168) | 1.9.168
 
@@ -1907,7 +1923,7 @@ __Downloads__: 54,177 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions for management of endpoints
 
-__Downloads__: 61,365 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 61,364 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.ActiveDirectory](https://www.powershellgallery.com/Packages/AdminToolbox.ActiveDirectory/1.10.29) | 1.10.29
 
@@ -1915,23 +1931,7 @@ __Downloads__: 61,365 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions for Active Directory
 
-__Downloads__: 61,714 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-## [Particular.ServiceControl.Management](https://www.powershellgallery.com/Packages/Particular.ServiceControl.Management/5.6.0) | 5.6.0
-
-### Published: 08/13/2024 18:16:06 by Particular Software
-
-ServiceControl Management
-
-__Downloads__: 2,476 | __Repository__: https://github.com/Particular/ServiceControl
-
-## [UiPathOrch](https://www.powershellgallery.com/Packages/UiPathOrch/0.9.6.2) | 0.9.6.2
-
-### Published: 08/13/2024 16:35:12 by Yoshifumi Tsuda
-
-A PowerShell provider for managing UiPath Orchestrator entities via cmdlets.
-
-__Downloads__: 865 | __Repository__: 
+__Downloads__: 61,713 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [XD-PSTools](https://www.powershellgallery.com/Packages/XD-PSTools/2.0.3) | 2.0.3
 
@@ -1971,7 +1971,7 @@ __Downloads__: 2 | __Repository__:
 
 The Devolutions.PowerShell module is a set of cmdlets that allow administrators to manage Remote Desktop Manager, Devolutions Server and Devolutions Hub Business using PowerShell. This module provides a simple and consistent interface for interacting with these products, making it easy to automate various tasks, such as creating and managing connections, sessions, and credentials, configuring security settings, and generating reports. The module can be easily integrated with other PowerShell modules, allowing administrators to automate tasks across multiple products and platforms, streamline their workflows and increase efficiency.
 
-__Downloads__: 128,937 | __Repository__: https://devolutions.net/
+__Downloads__: 128,929 | __Repository__: https://devolutions.net/
 
 ## [TeamPermissions](https://www.powershellgallery.com/Packages/TeamPermissions/1.0.6) | 1.0.6
 
@@ -1990,7 +1990,7 @@ __Downloads__: 17 | __Repository__:
 
 Provides AAD authentication factory for easy Public Client, Confidential Client flow and Managed Identity authentication with AAD in PowerShell
 
-__Downloads__: 20,665 | __Repository__: https://github.com/GreyCorbel/AadAuthenticationFactory
+__Downloads__: 20,664 | __Repository__: https://github.com/GreyCorbel/AadAuthenticationFactory
 
 ## [ADEssentials](https://www.powershellgallery.com/Packages/ADEssentials/0.0.219) | 0.0.219
 
@@ -1998,7 +1998,7 @@ __Downloads__: 20,665 | __Repository__: https://github.com/GreyCorbel/AadAuthent
 
 Helper module for Active Directory with lots of useful functions that simplify supporting Active Directory.
 
-__Downloads__: 290,972 | __Repository__: https://github.com/EvotecIT/ADEssentials
+__Downloads__: 290,967 | __Repository__: https://github.com/EvotecIT/ADEssentials
 
 ## [GWS.CloudDepot](https://www.powershellgallery.com/Packages/GWS.CloudDepot/0.1.319) | 0.1.319
 
@@ -2054,4 +2054,4 @@ https://help.pdq.com/hc/en-us
 
 __Downloads__: 1,271 | __Repository__: https://gitlab.com/ColbyBouma/pdqstuff
 
-*Updated: Friday, 16 August 2024 02:12:53 UTC*
+*Updated: Friday, 16 August 2024 09:52:16 UTC*

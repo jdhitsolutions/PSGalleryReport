@@ -1099,7 +1099,7 @@ __Downloads__: 29,032,588 | __Repository__: https://github.com/Azure/azure-power
 
 Microsoft Azure PowerShell - Insights service cmdlets for Azure Resource Manager
 
-__Downloads__: 29,024,083 | __Repository__: https://github.com/Azure/azure-powershell
+__Downloads__: 29,023,941 | __Repository__: https://github.com/Azure/azure-powershell
 
 ## [AzureRM.Cdn](https://www.powershellgallery.com/Packages/AzureRM.Cdn/5.0.7) | 5.0.7
 
@@ -1107,7 +1107,7 @@ __Downloads__: 29,024,083 | __Repository__: https://github.com/Azure/azure-power
 
 Microsoft Azure PowerShell - CDN service cmdlets for Azure Resource Manager
 
-__Downloads__: 29,022,347 | __Repository__: https://github.com/Azure/azure-powershell
+__Downloads__: 29,022,193 | __Repository__: https://github.com/Azure/azure-powershell
 
 ## [Az.StorageMover](https://www.powershellgallery.com/Packages/Az.StorageMover/1.4.0) | 1.4.0
 
@@ -1115,7 +1115,7 @@ __Downloads__: 29,022,347 | __Repository__: https://github.com/Azure/azure-power
 
 Microsoft Azure PowerShell: StorageMover cmdlets
 
-__Downloads__: 29,021,252 | __Repository__: https://github.com/Azure/azure-powershell
+__Downloads__: 29,020,648 | __Repository__: https://github.com/Azure/azure-powershell
 
 ## [AzureRM.DataLakeAnalytics](https://www.powershellgallery.com/Packages/AzureRM.DataLakeAnalytics/5.1.5) | 5.1.5
 
@@ -1123,7 +1123,7 @@ __Downloads__: 29,021,252 | __Repository__: https://github.com/Azure/azure-power
 
 Microsoft Azure PowerShell - Data Lake Analytics
 
-__Downloads__: 28,975,315 | __Repository__: https://github.com/Azure/azure-powershell
+__Downloads__: 28,975,170 | __Repository__: https://github.com/Azure/azure-powershell
 
 ## [AzureRM.DataLakeStore](https://www.powershellgallery.com/Packages/AzureRM.DataLakeStore/6.2.2) | 6.2.2
 
@@ -1131,7 +1131,7 @@ __Downloads__: 28,975,315 | __Repository__: https://github.com/Azure/azure-power
 
 Microsoft Azure PowerShell - Data Lake Store
 
-__Downloads__: 28,953,474 | __Repository__: https://github.com/Azure/azure-powershell
+__Downloads__: 28,953,330 | __Repository__: https://github.com/Azure/azure-powershell
 
 ## [AzureRM.CognitiveServices](https://www.powershellgallery.com/Packages/AzureRM.CognitiveServices/0.9.13) | 0.9.13
 
@@ -1139,7 +1139,7 @@ __Downloads__: 28,953,474 | __Repository__: https://github.com/Azure/azure-power
 
 Microsoft Azure PowerShell - Cognitive Services management cmdlets for Azure Resource Manager. Creates and manages cognitive services accounts in Azure Resource Manager.
 
-__Downloads__: 28,875,020 | __Repository__: https://github.com/Azure/azure-powershell
+__Downloads__: 28,874,867 | __Repository__: https://github.com/Azure/azure-powershell
 
 ## [AzureRM.HDInsight](https://www.powershellgallery.com/Packages/AzureRM.HDInsight/4.1.9) | 4.1.9
 
@@ -1147,7 +1147,7 @@ __Downloads__: 28,875,020 | __Repository__: https://github.com/Azure/azure-power
 
 Microsoft Azure PowerShell - HDInsight service cmdlets for Azure Resource Manager
 
-__Downloads__: 28,874,094 | __Repository__: https://github.com/Azure/azure-powershell
+__Downloads__: 28,873,952 | __Repository__: https://github.com/Azure/azure-powershell
 
 ## [SharePointPnPPowerShellOnline](https://www.powershellgallery.com/Packages/SharePointPnPPowerShellOnline/3.29.2101.0) | 3.29.2101.0
 
@@ -1155,7 +1155,7 @@ __Downloads__: 28,874,094 | __Repository__: https://github.com/Azure/azure-power
 
 Microsoft 365 Patterns and Practices PowerShell Cmdlets for SharePoint Online
 
-__Downloads__: 28,767,468 | __Repository__: https://aka.ms/sppnp
+__Downloads__: 28,767,414 | __Repository__: https://aka.ms/sppnp
 
 ## [AzureRM.Billing](https://www.powershellgallery.com/Packages/AzureRM.Billing/0.14.7) | 0.14.7
 
@@ -1163,7 +1163,7 @@ __Downloads__: 28,767,468 | __Repository__: https://aka.ms/sppnp
 
 Microsoft Azure PowerShell - Billing service cmdlets for Azure Resource Manager
 
-__Downloads__: 28,691,840 | __Repository__: https://github.com/Azure/azure-powershell
+__Downloads__: 28,691,681 | __Repository__: https://github.com/Azure/azure-powershell
 
 ## [AzureRM.ContainerRegistry](https://www.powershellgallery.com/Packages/AzureRM.ContainerRegistry/1.0.11) | 1.0.11
 
@@ -1171,7 +1171,7 @@ __Downloads__: 28,691,840 | __Repository__: https://github.com/Azure/azure-power
 
 Microsoft Azure PowerShell - ContainerRegistry service cmdlets for Azure Resource Manager
 
-__Downloads__: 28,657,627 | __Repository__: https://github.com/Azure/azure-powershell
+__Downloads__: 28,657,483 | __Repository__: https://github.com/Azure/azure-powershell
 
 ## [AzureRM.DevTestLabs](https://www.powershellgallery.com/Packages/AzureRM.DevTestLabs/4.0.10) | 4.0.10
 
@@ -1179,7 +1179,7 @@ __Downloads__: 28,657,627 | __Repository__: https://github.com/Azure/azure-power
 
 Microsoft Azure PowerShell - DevTestLabs service cmdlets for Azure Resource Manager
 
-__Downloads__: 28,644,591 | __Repository__: https://github.com/Azure/azure-powershell
+__Downloads__: 28,644,448 | __Repository__: https://github.com/Azure/azure-powershell
 
 ## [AzureRM.LogicApp](https://www.powershellgallery.com/Packages/AzureRM.LogicApp/4.1.5) | 4.1.5
 
@@ -1187,7 +1187,7 @@ __Downloads__: 28,644,591 | __Repository__: https://github.com/Azure/azure-power
 
 Microsoft Azure PowerShell - LogicApp cmdlets for Azure Resource Manager
 
-__Downloads__: 28,636,653 | __Repository__: https://github.com/Azure/azure-powershell
+__Downloads__: 28,636,512 | __Repository__: https://github.com/Azure/azure-powershell
 
 ## [AzureRM.ApplicationInsights](https://www.powershellgallery.com/Packages/AzureRM.ApplicationInsights/0.1.9) | 0.1.9
 
@@ -1195,7 +1195,7 @@ __Downloads__: 28,636,653 | __Repository__: https://github.com/Azure/azure-power
 
 Microsoft Azure PowerShell - Application Insights service management cmdlets for Azure Resource Manager.  Creates and manages application insights in Azure Resource Manager.
 
-__Downloads__: 28,554,446 | __Repository__: https://github.com/Azure/azure-powershell
+__Downloads__: 28,554,272 | __Repository__: https://github.com/Azure/azure-powershell
 
 ## [AzureRM.MachineLearning](https://www.powershellgallery.com/Packages/AzureRM.MachineLearning/0.18.6) | 0.18.6
 
@@ -1203,7 +1203,7 @@ __Downloads__: 28,554,446 | __Repository__: https://github.com/Azure/azure-power
 
 Microsoft Azure PowerShell - Machine Learning Web Services cmdlets for Azure Resource Manager
 
-__Downloads__: 28,541,036 | __Repository__: https://github.com/Azure/azure-powershell
+__Downloads__: 28,540,895 | __Repository__: https://github.com/Azure/azure-powershell
 
 ## [AzureRM.EventHub](https://www.powershellgallery.com/Packages/AzureRM.EventHub/0.7.1) | 0.7.1
 
@@ -1211,7 +1211,7 @@ __Downloads__: 28,541,036 | __Repository__: https://github.com/Azure/azure-power
 
 Microsoft Azure PowerShell - EventHubs service cmdlets for Azure Resource Manager
 
-__Downloads__: 28,499,011 | __Repository__: https://github.com/Azure/azure-powershell
+__Downloads__: 28,498,871 | __Repository__: https://github.com/Azure/azure-powershell
 
 ## [AzureRM.Sql](https://www.powershellgallery.com/Packages/AzureRM.Sql/4.12.2) | 4.12.2
 
@@ -1219,7 +1219,7 @@ __Downloads__: 28,499,011 | __Repository__: https://github.com/Azure/azure-power
 
 Microsoft Azure PowerShell - Sql service cmdlets for Azure Resource Manager
 
-__Downloads__: 28,497,085 | __Repository__: https://github.com/Azure/azure-powershell
+__Downloads__: 28,497,007 | __Repository__: https://github.com/Azure/azure-powershell
 
 ## [AzureRM.Media](https://www.powershellgallery.com/Packages/AzureRM.Media/0.10.5) | 0.10.5
 
@@ -1227,7 +1227,7 @@ __Downloads__: 28,497,085 | __Repository__: https://github.com/Azure/azure-power
 
 Microsoft Azure PowerShell - Media service cmdlets for Azure Resource Manager
 
-__Downloads__: 28,493,922 | __Repository__: https://github.com/Azure/azure-powershell
+__Downloads__: 28,493,782 | __Repository__: https://github.com/Azure/azure-powershell
 
 ## [AzureRM.Consumption](https://www.powershellgallery.com/Packages/AzureRM.Consumption/0.3.8) | 0.3.8
 
@@ -1235,7 +1235,7 @@ __Downloads__: 28,493,922 | __Repository__: https://github.com/Azure/azure-power
 
 Microsoft Azure PowerShell - Consumption service cmdlets for Azure Resource Manager
 
-__Downloads__: 28,479,315 | __Repository__: https://github.com/Azure/azure-powershell
+__Downloads__: 28,479,169 | __Repository__: https://github.com/Azure/azure-powershell
 
 ## [AzureRM.ContainerInstance](https://www.powershellgallery.com/Packages/AzureRM.ContainerInstance/0.2.13) | 0.2.13
 
@@ -1243,7 +1243,7 @@ __Downloads__: 28,479,315 | __Repository__: https://github.com/Azure/azure-power
 
 Microsoft Azure PowerShell - Container Instance cmdlets for Azure Resource Manager
 
-__Downloads__: 28,477,142 | __Repository__: https://github.com/Azure/azure-powershell
+__Downloads__: 28,476,997 | __Repository__: https://github.com/Azure/azure-powershell
 
 ## [AzureRM.IotHub](https://www.powershellgallery.com/Packages/AzureRM.IotHub/3.1.9) | 3.1.9
 
@@ -1251,7 +1251,7 @@ __Downloads__: 28,477,142 | __Repository__: https://github.com/Azure/azure-power
 
 Microsoft Azure PowerShell - IotHub service cmdlets for Azure Resource Manager
 
-__Downloads__: 28,385,299 | __Repository__: https://github.com/Azure/azure-powershell
+__Downloads__: 28,385,160 | __Repository__: https://github.com/Azure/azure-powershell
 
 ## [AzureRM.DataFactoryV2](https://www.powershellgallery.com/Packages/AzureRM.DataFactoryV2/0.5.12) | 0.5.12
 
@@ -1259,7 +1259,7 @@ __Downloads__: 28,385,299 | __Repository__: https://github.com/Azure/azure-power
 
 Microsoft Azure PowerShell - DataFactories service cmdlets for Azure Resource Manager
 
-__Downloads__: 28,356,537 | __Repository__: https://github.com/Azure/azure-powershell
+__Downloads__: 28,356,395 | __Repository__: https://github.com/Azure/azure-powershell
 
 ## [AzureRM.EventGrid](https://www.powershellgallery.com/Packages/AzureRM.EventGrid/0.3.8) | 0.3.8
 
@@ -1267,7 +1267,7 @@ __Downloads__: 28,356,537 | __Repository__: https://github.com/Azure/azure-power
 
 Microsoft Azure PowerShell - EventGrid service cmdlets for Azure Resource Manager
 
-__Downloads__: 28,057,000 | __Repository__: https://github.com/Azure/azure-powershell
+__Downloads__: 28,056,860 | __Repository__: https://github.com/Azure/azure-powershell
 
 ## [AzureRM.RedisCache](https://www.powershellgallery.com/Packages/AzureRM.RedisCache/5.1.1) | 5.1.1
 
@@ -1275,7 +1275,7 @@ __Downloads__: 28,057,000 | __Repository__: https://github.com/Azure/azure-power
 
 Microsoft Azure PowerShell - RedisCache service cmdlets for Azure Resource Manager
 
-__Downloads__: 27,970,381 | __Repository__: https://github.com/Azure/azure-powershell
+__Downloads__: 27,970,261 | __Repository__: https://github.com/Azure/azure-powershell
 
 ## [AzureRM.NotificationHubs](https://www.powershellgallery.com/Packages/AzureRM.NotificationHubs/5.0.4) | 5.0.4
 
@@ -1283,7 +1283,7 @@ __Downloads__: 27,970,381 | __Repository__: https://github.com/Azure/azure-power
 
 Microsoft Azure PowerShell - NotificationHubs
 
-__Downloads__: 27,941,523 | __Repository__: https://github.com/Azure/azure-powershell
+__Downloads__: 27,941,384 | __Repository__: https://github.com/Azure/azure-powershell
 
 ## [AzureRM.RecoveryServices](https://www.powershellgallery.com/Packages/AzureRM.RecoveryServices/4.1.10) | 4.1.10
 
@@ -1291,7 +1291,7 @@ __Downloads__: 27,941,523 | __Repository__: https://github.com/Azure/azure-power
 
 Microsoft Azure PowerShell - RecoveryServices cmdlets for Azure Resource Manager
 
-__Downloads__: 27,898,481 | __Repository__: https://github.com/Azure/azure-powershell
+__Downloads__: 27,898,348 | __Repository__: https://github.com/Azure/azure-powershell
 
 ## [AzureRM.MarketplaceOrdering](https://www.powershellgallery.com/Packages/AzureRM.MarketplaceOrdering/0.2.8) | 0.2.8
 
@@ -1299,7 +1299,7 @@ __Downloads__: 27,898,481 | __Repository__: https://github.com/Azure/azure-power
 
 Microsoft Azure PowerShell - MarketplaceOrdering agreements service cmdlets for Azure Resource Manager
 
-__Downloads__: 27,828,947 | __Repository__: https://github.com/Azure/azure-powershell
+__Downloads__: 27,828,810 | __Repository__: https://github.com/Azure/azure-powershell
 
 ## [AzureRM.RecoveryServices.Backup](https://www.powershellgallery.com/Packages/AzureRM.RecoveryServices.Backup/4.5.3) | 4.5.3
 
@@ -1307,7 +1307,7 @@ __Downloads__: 27,828,947 | __Repository__: https://github.com/Azure/azure-power
 
 Microsoft Azure PowerShell - Azure Backup service cmdlets for Azure Resource Manager
 
-__Downloads__: 27,699,814 | __Repository__: https://github.com/Azure/azure-powershell
+__Downloads__: 27,699,684 | __Repository__: https://github.com/Azure/azure-powershell
 
 ## [AzureRM.PowerBIEmbedded](https://www.powershellgallery.com/Packages/AzureRM.PowerBIEmbedded/4.1.11) | 4.1.11
 
@@ -1315,7 +1315,7 @@ __Downloads__: 27,699,814 | __Repository__: https://github.com/Azure/azure-power
 
 Microsoft Azure PowerShell - Power BI Embedded service management cmdlets for Azure Resource Manager.  Creates and manages Power BI Embedded workspace collections and Power BI Dedicated Capacities in Azure Resource Manager.
 
-__Downloads__: 27,678,973 | __Repository__: https://github.com/Azure/azure-powershell
+__Downloads__: 27,678,839 | __Repository__: https://github.com/Azure/azure-powershell
 
 ## [AzureRM.ServiceBus](https://www.powershellgallery.com/Packages/AzureRM.ServiceBus/0.6.14) | 0.6.14
 
@@ -1323,7 +1323,7 @@ __Downloads__: 27,678,973 | __Repository__: https://github.com/Azure/azure-power
 
 Microsoft Azure PowerShell - ServiceBus service cmdlets for Azure Resource Manager
 
-__Downloads__: 27,520,728 | __Repository__: https://github.com/Azure/azure-powershell
+__Downloads__: 27,520,621 | __Repository__: https://github.com/Azure/azure-powershell
 
 ## [AzureRM](https://www.powershellgallery.com/Packages/AzureRM/6.13.2) | 6.13.2
 
@@ -1331,7 +1331,7 @@ __Downloads__: 27,520,728 | __Repository__: https://github.com/Azure/azure-power
 
 Azure Resource Manager Module
 
-__Downloads__: 27,497,275 | __Repository__: https://github.com/Azure/azure-powershell
+__Downloads__: 27,497,220 | __Repository__: https://github.com/Azure/azure-powershell
 
 ## [AzureRM.Tags](https://www.powershellgallery.com/Packages/AzureRM.Tags/4.0.6) | 4.0.6
 
@@ -1339,7 +1339,7 @@ __Downloads__: 27,497,275 | __Repository__: https://github.com/Azure/azure-power
 
 Microsoft Azure PowerShell - Tags service cmdlets for Azure Resource Manager
 
-__Downloads__: 27,479,606 | __Repository__: https://github.com/Azure/azure-powershell
+__Downloads__: 27,479,544 | __Repository__: https://github.com/Azure/azure-powershell
 
 ## [AzureRM.UsageAggregates](https://www.powershellgallery.com/Packages/AzureRM.UsageAggregates/4.0.6) | 4.0.6
 
@@ -1347,7 +1347,7 @@ __Downloads__: 27,479,606 | __Repository__: https://github.com/Azure/azure-power
 
 Microsoft Azure PowerShell - UsageAggregates service cmdlets for Azure Resource Manager
 
-__Downloads__: 27,411,811 | __Repository__: https://github.com/Azure/azure-powershell
+__Downloads__: 27,411,753 | __Repository__: https://github.com/Azure/azure-powershell
 
 ## [AzureRM.Websites](https://www.powershellgallery.com/Packages/AzureRM.Websites/5.2.1) | 5.2.1
 
@@ -1355,7 +1355,7 @@ __Downloads__: 27,411,811 | __Repository__: https://github.com/Azure/azure-power
 
 Microsoft Azure PowerShell - Websites service cmdlets for Azure Resource Manager
 
-__Downloads__: 27,315,337 | __Repository__: https://github.com/Azure/azure-powershell
+__Downloads__: 27,315,281 | __Repository__: https://github.com/Azure/azure-powershell
 
 ## [Az.LoadTesting](https://www.powershellgallery.com/Packages/Az.LoadTesting/1.0.1) | 1.0.1
 
@@ -1363,7 +1363,7 @@ __Downloads__: 27,315,337 | __Repository__: https://github.com/Azure/azure-power
 
 Microsoft Azure PowerShell: LoadTesting cmdlets
 
-__Downloads__: 27,236,498 | __Repository__: https://github.com/Azure/azure-powershell
+__Downloads__: 27,235,887 | __Repository__: https://github.com/Azure/azure-powershell
 
 ## [AzureRM.TrafficManager](https://www.powershellgallery.com/Packages/AzureRM.TrafficManager/4.1.4) | 4.1.4
 
@@ -1371,7 +1371,7 @@ __Downloads__: 27,236,498 | __Repository__: https://github.com/Azure/azure-power
 
 Microsoft Azure PowerShell - TrafficManager service cmdlets for Azure Resource Manager
 
-__Downloads__: 27,207,046 | __Repository__: https://github.com/Azure/azure-powershell
+__Downloads__: 27,206,987 | __Repository__: https://github.com/Azure/azure-powershell
 
 ## [QuserObject](https://www.powershellgallery.com/Packages/QuserObject/1.0.50) | 1.0.50
 
@@ -1379,7 +1379,7 @@ __Downloads__: 27,207,046 | __Repository__: https://github.com/Azure/azure-power
 
 Query `quser.exe` and return a proper PowerShell Object.
 
-__Downloads__: 27,184,919 | __Repository__: 
+__Downloads__: 27,183,378 | __Repository__: 
 
 ## [AzureRM.StreamAnalytics](https://www.powershellgallery.com/Packages/AzureRM.StreamAnalytics/4.0.11) | 4.0.11
 
@@ -1387,7 +1387,7 @@ __Downloads__: 27,184,919 | __Repository__:
 
 Microsoft Azure PowerShell - StreamAnalytics service cmdlets for Azure Resource Manager
 
-__Downloads__: 27,142,134 | __Repository__: https://github.com/Azure/azure-powershell
+__Downloads__: 27,142,072 | __Repository__: https://github.com/Azure/azure-powershell
 
 ## [AzureRM.ServiceFabric](https://www.powershellgallery.com/Packages/AzureRM.ServiceFabric/0.3.16) | 0.3.16
 
@@ -1395,7 +1395,7 @@ __Downloads__: 27,142,134 | __Repository__: https://github.com/Azure/azure-power
 
 Microsoft Azure PowerShell - Service Fabric cmdlets for Azure Resource Manager
 
-__Downloads__: 27,081,991 | __Repository__: https://github.com/Azure/azure-powershell
+__Downloads__: 27,081,890 | __Repository__: https://github.com/Azure/azure-powershell
 
 ## [AzureRM.Relay](https://www.powershellgallery.com/Packages/AzureRM.Relay/0.3.13) | 0.3.13
 
@@ -1403,7 +1403,7 @@ __Downloads__: 27,081,991 | __Repository__: https://github.com/Azure/azure-power
 
 Microsoft Azure PowerShell - Relay service cmdlets for Azure Resource Manager
 
-__Downloads__: 27,012,325 | __Repository__: https://github.com/Azure/azure-powershell
+__Downloads__: 27,012,209 | __Repository__: https://github.com/Azure/azure-powershell
 
 ## [PnP.PowerShell](https://www.powershellgallery.com/Packages/PnP.PowerShell/2.5.0) | 2.5.0
 
@@ -1411,7 +1411,7 @@ __Downloads__: 27,012,325 | __Repository__: https://github.com/Azure/azure-power
 
 Microsoft 365 Patterns and Practices PowerShell Cmdlets
 
-__Downloads__: 26,873,605 | __Repository__: https://aka.ms/sppnp
+__Downloads__: 26,873,382 | __Repository__: https://aka.ms/sppnp
 
 ## [ModernWorkplaceClientCenter](https://www.powershellgallery.com/Packages/ModernWorkplaceClientCenter/0.1.17) | 0.1.17
 
@@ -1453,7 +1453,7 @@ __Downloads__: 25,776,567 | __Repository__: https://github.com/aws/aws-tools-for
 
 This module includes DSC resources that simplify administration of certificates on a Windows Server
 
-__Downloads__: 25,756,907 | __Repository__: https://github.com/PowerShell/xCertificate
+__Downloads__: 25,756,908 | __Repository__: https://github.com/PowerShell/xCertificate
 
 ## [PSDscResources](https://www.powershellgallery.com/Packages/PSDscResources/2.12.0.0) | 2.12.0.0
 
@@ -2118,7 +2118,7 @@ __Downloads__: 8,448,813 | __Repository__: https://github.com/microsoftgraph/msg
 
 PowerShell interface for Microsoft PowerApps and Flow Administrative features
 
-__Downloads__: 8,328,325 | __Repository__: https://docs.microsoft.com/en-us/powerapps/administrator/powerapps-powershell
+__Downloads__: 8,328,259 | __Repository__: https://docs.microsoft.com/en-us/powerapps/administrator/powerapps-powershell
 
 ## [PSAtera](https://www.powershellgallery.com/Packages/PSAtera/1.5.7) | 1.5.7
 
@@ -2126,7 +2126,7 @@ __Downloads__: 8,328,325 | __Repository__: https://docs.microsoft.com/en-us/powe
 
 PowerShell Module for interacting with the Atera API
 
-__Downloads__: 8,265,234 | __Repository__: https://github.com/davejlong/PSAtera
+__Downloads__: 8,265,114 | __Repository__: https://github.com/davejlong/PSAtera
 
 ## [Microsoft.Online.SharePoint.PowerShell](https://www.powershellgallery.com/Packages/Microsoft.Online.SharePoint.PowerShell/16.0.25110.12000) | 16.0.25110.12000
 
@@ -2134,7 +2134,7 @@ __Downloads__: 8,265,234 | __Repository__: https://github.com/davejlong/PSAtera
 
 Microsoft SharePoint Online Services Module for Windows PowerShell
 
-__Downloads__: 8,067,131 | __Repository__: https://docs.microsoft.com/en-us/powershell/sharepoint/sharepoint-online/introduction-sharepoint-online-management-shell?view=sharepoint-ps
+__Downloads__: 8,067,071 | __Repository__: https://docs.microsoft.com/en-us/powershell/sharepoint/sharepoint-online/introduction-sharepoint-online-management-shell?view=sharepoint-ps
 
 ## [Microsoft.Graph.DeviceManagement](https://www.powershellgallery.com/Packages/Microsoft.Graph.DeviceManagement/2.22.0) | 2.22.0
 
@@ -2142,7 +2142,7 @@ __Downloads__: 8,067,131 | __Repository__: https://docs.microsoft.com/en-us/powe
 
 Microsoft Graph PowerShell Cmdlets
 
-__Downloads__: 7,853,871 | __Repository__: https://github.com/microsoftgraph/msgraph-sdk-powershell
+__Downloads__: 7,853,701 | __Repository__: https://github.com/microsoftgraph/msgraph-sdk-powershell
 
 ## [Microsoft.Graph.Users.Actions](https://www.powershellgallery.com/Packages/Microsoft.Graph.Users.Actions/2.22.0) | 2.22.0
 
@@ -2150,7 +2150,7 @@ __Downloads__: 7,853,871 | __Repository__: https://github.com/microsoftgraph/msg
 
 Microsoft Graph PowerShell Cmdlets
 
-__Downloads__: 7,848,296 | __Repository__: https://github.com/microsoftgraph/msgraph-sdk-powershell
+__Downloads__: 7,848,131 | __Repository__: https://github.com/microsoftgraph/msgraph-sdk-powershell
 
 ## [msp360](https://www.powershellgallery.com/Packages/msp360/3.29.201) | 3.29.201
 
@@ -2158,7 +2158,7 @@ __Downloads__: 7,848,296 | __Repository__: https://github.com/microsoftgraph/msg
 
 The module includes cmdlets to manage MSP360 (CloudBerry) Backup agent, MBS API and tools.
 
-__Downloads__: 7,825,022 | __Repository__: https://mspbackups.com/AP/Help/powershell
+__Downloads__: 7,824,989 | __Repository__: https://mspbackups.com/AP/Help/powershell
 
 ## [Microsoft.Graph.DeviceManagement.Administration](https://www.powershellgallery.com/Packages/Microsoft.Graph.DeviceManagement.Administration/2.22.0) | 2.22.0
 
@@ -2166,7 +2166,7 @@ __Downloads__: 7,825,022 | __Repository__: https://mspbackups.com/AP/Help/powers
 
 Microsoft Graph PowerShell Cmdlets
 
-__Downloads__: 7,706,397 | __Repository__: https://github.com/microsoftgraph/msgraph-sdk-powershell
+__Downloads__: 7,706,231 | __Repository__: https://github.com/microsoftgraph/msgraph-sdk-powershell
 
 ## [RobocopyPS](https://www.powershellgallery.com/Packages/RobocopyPS/0.2.21) | 0.2.21
 
@@ -2174,7 +2174,7 @@ __Downloads__: 7,706,397 | __Repository__: https://github.com/microsoftgraph/msg
 
 Wrapper for Robocopy
 
-__Downloads__: 7,667,295 | __Repository__: https://github.com/sbergwall/RobocopyPS
+__Downloads__: 7,667,291 | __Repository__: https://github.com/sbergwall/RobocopyPS
 
 ## [Microsoft.Graph.Identity.SignIns](https://www.powershellgallery.com/Packages/Microsoft.Graph.Identity.SignIns/2.22.0) | 2.22.0
 
@@ -2182,7 +2182,7 @@ __Downloads__: 7,667,295 | __Repository__: https://github.com/sbergwall/Robocopy
 
 Microsoft Graph PowerShell Cmdlets
 
-__Downloads__: 7,553,354 | __Repository__: https://github.com/microsoftgraph/msgraph-sdk-powershell
+__Downloads__: 7,553,207 | __Repository__: https://github.com/microsoftgraph/msgraph-sdk-powershell
 
 ## [newtonsoft.json](https://www.powershellgallery.com/Packages/newtonsoft.json/1.0.2.201) | 1.0.2.201
 
@@ -2190,6 +2190,6 @@ __Downloads__: 7,553,354 | __Repository__: https://github.com/microsoftgraph/msg
 
 Serialize/Deserialize Json using Newtonsoft.json
 
-__Downloads__: 7,521,436 | __Repository__: https://github.com/qbikez/ps-entropy/tree/master/src/newtonsoft.json
+__Downloads__: 7,521,424 | __Repository__: https://github.com/qbikez/ps-entropy/tree/master/src/newtonsoft.json
 
-*Updated: Friday, 16 August 2024 02:12:56 UTC*
+*Updated: Friday, 16 August 2024 09:52:20 UTC*
