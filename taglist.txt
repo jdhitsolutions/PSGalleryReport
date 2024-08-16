@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Thursday, 15 August 2024 17:51:53 UTC
+Updated: Friday, 16 August 2024 02:13:01 UTC
 
 .bat
 .env
@@ -20,6 +20,7 @@ Updated: Thursday, 15 August 2024 17:51:53 UTC
 🍣
 💩
 🙇
+1&1
 10
 11
 1607
@@ -481,6 +482,7 @@ argcomplete
 argument
 argumentcompleter
 arguments
+ari
 arm
 arm-json
 arm-templates
@@ -742,6 +744,7 @@ azurepipelines
 azurepolicy
 azurepowershell
 azurerepos
+azureresourceinventory
 azureresourcemanager
 azureresources
 azureresourcestuff
@@ -984,6 +987,7 @@ bugzilla
 build
 build-log
 build-scripts
+build-test-publish
 builddefinition
 builder
 buildhelpers
@@ -2205,7 +2209,6 @@ dsregcmd
 dsutils
 dtc
 dts
-dtsx
 dtx
 du
 dual-stack
@@ -2307,7 +2310,6 @@ elevation
 elgato
 elk
 elm
-elmah-io
 elonmusk
 eloqua
 elvish
@@ -2420,7 +2422,6 @@ espressif
 esri
 essbase
 estimate
-estimation
 esx
 esxi
 eternalblue
@@ -2553,6 +2554,7 @@ extensions
 external
 externalip
 extract
+extraction
 extractor
 extreme-networks
 eye-candy
@@ -3122,6 +3124,7 @@ hardlink
 hardmatch
 hardware
 harperdb
+hartokens
 harvest
 harvestforecast
 hash
@@ -3487,7 +3490,6 @@ integration
 integrationaccount
 integrationruntime
 integrationruntimedependency
-integrationservicescatalog
 integrity
 intel
 inteligo
@@ -3519,7 +3521,6 @@ inventory
 investigation
 investment
 investments
-invitation
 invocation
 invoke
 invoke-asadmin
@@ -3538,6 +3539,7 @@ invoke-webrequest
 invokebuild
 invokemethod
 io
+ionos
 ios
 iot
 iotcentral
@@ -3996,10 +3998,8 @@ logonto
 logonuser
 logparser
 logrotate
-logrotation
 logs
 logstash
-logtools
 logz
 loki
 lol
@@ -4329,6 +4329,11 @@ models
 modify
 module
 module-maintenance
+module-manifest
+module-publishing
+module-publishing-framework
+module-testing
+module-testing-framework
 modulebuild
 modulecreation
 modulefast
@@ -4395,7 +4400,6 @@ msdtc
 msedge
 msexcel
 msexchange
-msft
 msftnet
 msftnetworking
 msg
@@ -4424,9 +4428,6 @@ msproject
 msrc
 msrdc
 mssql
-mssqlbynarymodule
-mssqlbynarypsmodule
-mssqlmodule
 mssqlplugins
 mssqlserver
 msteams
@@ -4511,6 +4512,7 @@ nav
 navigation
 nbi
 ncal
+ncrestapi
 ndes
 nebulon
 nec-infrared-transmission-protocol
@@ -4583,6 +4585,7 @@ new-dynamicparameter
 new-githubrelease
 new-item
 new-itemproperty
+new-modulemanifest
 new-pinneditem
 new-rdpsession
 new-samcmapplicationfrompackagedefinitionsms
@@ -5338,6 +5341,8 @@ powershell-isprime
 powershell-lightning
 powershell-module
 powershell-modules
+powershell-modules-convention
+powershell-project-convention
 powershell-releases-api
 powershell-remoting
 powershell-terminal
@@ -8421,9 +8426,6 @@ psmodules
 psmp
 psmsgraph
 psmsgraphapi
-psmssql
-psmssqlbynarymodule
-psmssqlmodule
 psmvp
 psnavigation
 psnexosisclient
@@ -8461,9 +8463,6 @@ psslack
 pssqlite
 pssqlitebynarymodule
 pssqlitemodule
-pssqlserver
-pssqlserverbynarymodule
-pssqlservermodule
 psst
 psstgenerator
 pstablacus
@@ -8491,6 +8490,7 @@ publicfolder
 publicholidays
 publicip
 publish
+publish-module
 publishedmodules
 publisher
 publishers
@@ -8733,6 +8733,7 @@ regression
 regular-expression
 regularexpression
 regularexpressions
+reinstall
 relational
 relay
 release
@@ -8830,6 +8831,7 @@ resourcegraph
 resourcegroup
 resourcegroups
 resourceid
+resourceinventory
 resourcekit
 resourcemanager
 resourcemover
@@ -8852,7 +8854,6 @@ retry
 returnuserprofile
 retype
 reuse
-reverse-engineer
 reverse-string
 reversed-color-text
 reversedsc
@@ -8973,7 +8974,6 @@ rust-lang
 ryanairps
 ryver
 s.ds.p
-s1
 s3
 s4b
 saas
@@ -9092,6 +9092,7 @@ screenscraping
 screenshot
 script
 script_version
+script-module
 script-to-assembly
 script-to-executable
 scriptanalyzer
@@ -9403,7 +9404,6 @@ skyapi
 skype
 skype_for_business
 skype4b
-skype4business
 skypeforbusiness
 skypeforbusinessonline
 skypeonline
@@ -9462,7 +9462,6 @@ snmpset
 snmpv3
 snmpwalk
 snowflake
-snsmssqlpsmodule
 snspsadgroupmembers
 snspsscriptsmonitoring
 snssqlitepsmodule
@@ -9610,10 +9609,7 @@ sqlps
 sqlquery
 sqlserver
 sqlserveragent
-sqlserverbynarymodule
-sqlserverbynarypsmodule
 sqlserverclient
-sqlservermodule
 sqlvirtualmachine
 sqlvm
 sqr
@@ -9989,6 +9985,7 @@ test
 test-automation
 test-dscconfiguration
 test-internetconnection
+test-modulemanifest
 test-modulepath
 test-osplatform
 test-psremoting
@@ -10370,6 +10367,7 @@ unzip
 up
 update
 update-module
+update-modulemanifest
 update-moduletests
 update-typedata
 updatedeferral
@@ -10473,7 +10471,6 @@ vba
 vbaproject
 vbproj
 vbr
-vbscript
 vbsinst
 vc
 vccmdlets
@@ -10867,6 +10864,7 @@ windowsserver2019
 windowsservercoresecurity
 windowsserverguisecurity
 windowsservice
+windowsservices
 windowsstore
 windowsterminal
 windowstimezone
