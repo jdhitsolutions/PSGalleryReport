@@ -1405,9 +1405,9 @@ Microsoft Azure PowerShell - Relay service cmdlets for Azure Resource Manager
 
 __Downloads__: 27,012,209 | __Repository__: https://github.com/Azure/azure-powershell
 
-## [PnP.PowerShell](https://www.powershellgallery.com/Packages/PnP.PowerShell/2.5.0) | 2.5.0
+## [PnP.PowerShell](https://www.powershellgallery.com/Packages/PnP.PowerShell/2.7.0) | 2.7.0
 
-### Published: 06/27/2024 16:24:24 by Microsoft 365 Patterns and Practices
+### Published: 08/16/2024 15:11:58 by Microsoft 365 Patterns and Practices
 
 Microsoft 365 Patterns and Practices PowerShell Cmdlets
 
@@ -2192,4 +2192,4 @@ Serialize/Deserialize Json using Newtonsoft.json
 
 __Downloads__: 7,521,424 | __Repository__: https://github.com/qbikez/ps-entropy/tree/master/src/newtonsoft.json
 
-*Updated: Friday, 16 August 2024 09:52:20 UTC*
+*Updated: Friday, 16 August 2024 17:51:55 UTC*

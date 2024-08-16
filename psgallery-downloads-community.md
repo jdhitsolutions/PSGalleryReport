@@ -1421,7 +1421,7 @@ __Downloads__: 2,114,008 | __Repository__: https://github.com/PlagueHO/CosmosDB
 
 This module can be used to run scheduled tasks and synchronously wait for them to complete.
 
-__Downloads__: 2,099,786 | __Repository__: 
+__Downloads__: 2,099,785 | __Repository__: 
 
 ## [VSTeam](https://www.powershellgallery.com/Packages/VSTeam/7.15.2) | 7.15.2
 
@@ -2138,4 +2138,4 @@ PowerShell for the CrowdStrike Falcon OAuth2 APIs
 
 __Downloads__: 618,687 | __Repository__: https://github.com/crowdstrike/psfalcon
 
-*Updated: Friday, 16 August 2024 09:52:22 UTC*
+*Updated: Friday, 16 August 2024 17:51:57 UTC*

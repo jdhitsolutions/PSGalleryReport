@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Friday, 16 August 2024 09:52:25 UTC
+Updated: Friday, 16 August 2024 17:52:00 UTC
 
 .bat
 .env
@@ -1058,6 +1058,7 @@ capture
 carbon
 carbonawarecomputing
 carbonintensity
+card
 cardwirth
 cares
 cargo
@@ -1686,7 +1687,6 @@ culture
 cumulative
 cumulativeupdate
 cumulocity
-curious
 curl
 curlie
 currency
@@ -2116,8 +2116,6 @@ docusign
 docx
 dod
 dog
-dog-names
-dogs
 dogstatsd
 dok
 dokuwiki
@@ -2197,6 +2195,7 @@ dsc
 dsc-resource
 dsc-resources
 dsccertificates
+dscconcepts
 dscdriftmonitor
 dsclient
 dscresource
@@ -2423,7 +2422,6 @@ esp32
 esp32s2
 espressif
 esri
-essbase
 estimate
 estimation
 esx
@@ -2900,6 +2898,7 @@ geocaching
 geocode
 geoencode
 geoencoding
+geoip
 geolocation
 geosearching
 geotagging
@@ -3112,6 +3111,7 @@ hamradiodeluxe
 hana
 hanaon
 handle
+handler
 handy
 hangouts
 hannelstoolbox
@@ -3244,6 +3244,7 @@ host-based
 hosted
 hostentry
 hostfile
+hostinstance
 hostname
 hosts
 hosts-file
@@ -3524,7 +3525,6 @@ inventory
 investigation
 investment
 investments
-invitation
 invocation
 invoice
 invoke
@@ -3557,6 +3557,7 @@ ip-scanner
 ipa
 ipaddress
 ipam
+ipbroadcast
 ipc
 ipcalc
 ipcalculator
@@ -3649,6 +3650,7 @@ jms
 jmsjavadownloads
 jnet
 jnetps
+joat
 job
 jobcan
 jobs
@@ -3677,6 +3679,7 @@ jsonwebkey
 jsonwebsignature
 jsonwebtoken
 jsp
+jumbo
 jump
 jump-location
 jumpcloud
@@ -4498,7 +4501,6 @@ nac
 nagios
 nakivo
 name
-name-of-dogs
 namedpipe
 nameit
 nameresolution
@@ -4837,6 +4839,7 @@ openhere
 openholidaysapi
 openid
 openidconnect
+openinghours
 openport
 openprovider
 openscad
@@ -5081,6 +5084,7 @@ perforce
 performance
 performance-counters
 performancemonitoring
+perl
 permission
 permissions
 permutations
@@ -5175,6 +5179,7 @@ pncit
 pnp
 pnp.powershell
 pnpm
+poc
 pode
 poe
 poem
@@ -5324,6 +5329,7 @@ powergui
 powermax
 powerpack
 powerplan
+powerplateform
 powerplatform
 powerprotect
 powerprotect_datamanager
@@ -7336,6 +7342,7 @@ psdesiredstateconfiguration
 psdevops
 psdocs
 psdocs-documents
+psdocsgenerator
 psdrawio
 psdrive
 psdrives
@@ -9085,6 +9092,7 @@ scom
 sconfig
 scoop
 scope
+score
 scouterna
 scouternasetjanster
 scoutnet
@@ -9192,6 +9200,7 @@ securitytxt
 sed
 seed
 seek
+seekatar
 seeshell
 select
 select-item
@@ -9638,7 +9647,6 @@ squire
 srcds
 srcsrv
 srm
-srylius-write
 ssas
 ssc
 ssdt
@@ -9806,6 +9814,7 @@ summit
 sumologic
 supercell
 superheros
+supermarket
 support
 support-tool
 support-tools
@@ -10015,6 +10024,7 @@ test123
 testaccount
 testautomation
 tester
+testimonial
 testing
 testlab
 testplans
@@ -10324,6 +10334,7 @@ ud-wordtree
 udcm
 udfeedback
 udp
+udpclient
 udptest
 udr
 udthememode
@@ -10636,6 +10647,7 @@ vrtu
 vs
 vs-shell
 vsa
+vsa9
 vsan
 vsan+
 vscode
