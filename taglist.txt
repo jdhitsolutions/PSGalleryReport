@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Friday, 16 August 2024 02:13:01 UTC
+Updated: Friday, 16 August 2024 09:52:25 UTC
 
 .bat
 .env
@@ -1058,11 +1058,11 @@ capture
 carbon
 carbonawarecomputing
 carbonintensity
-card
 cardwirth
 cares
 cargo
 carousel
+carrier
 cartoon
 case
 cassandra
@@ -1681,6 +1681,7 @@ ctrl+c
 ctx
 ctype
 cubes
+cudel
 culture
 cumulative
 cumulativeupdate
@@ -1801,6 +1802,7 @@ datalabelingservicedataplane
 datalake
 datamanipulation
 datamodel
+datanorm
 dataplatform
 datapro
 dataprotection
@@ -2195,7 +2197,6 @@ dsc
 dsc-resource
 dsc-resources
 dsccertificates
-dscconcepts
 dscdriftmonitor
 dsclient
 dscresource
@@ -2209,6 +2210,7 @@ dsregcmd
 dsutils
 dtc
 dts
+dtsx
 dtx
 du
 dual-stack
@@ -2310,6 +2312,7 @@ elevation
 elgato
 elk
 elm
+elmah-io
 elonmusk
 eloqua
 elvish
@@ -2422,6 +2425,7 @@ espressif
 esri
 essbase
 estimate
+estimation
 esx
 esxi
 eternalblue
@@ -2435,6 +2439,7 @@ etl2pcapng
 etrade
 ets
 etw
+eulanda
 evaluator
 evc
 event
@@ -2895,7 +2900,6 @@ geocaching
 geocode
 geoencode
 geoencoding
-geoip
 geolocation
 geosearching
 geotagging
@@ -3108,7 +3112,6 @@ hamradiodeluxe
 hana
 hanaon
 handle
-handler
 handy
 hangouts
 hannelstoolbox
@@ -3241,7 +3244,6 @@ host-based
 hosted
 hostentry
 hostfile
-hostinstance
 hostname
 hosts
 hosts-file
@@ -3490,6 +3492,7 @@ integration
 integrationaccount
 integrationruntime
 integrationruntimedependency
+integrationservicescatalog
 integrity
 intel
 inteligo
@@ -3521,7 +3524,9 @@ inventory
 investigation
 investment
 investments
+invitation
 invocation
+invoice
 invoke
 invoke-asadmin
 invoke-asadministrator
@@ -3552,7 +3557,6 @@ ip-scanner
 ipa
 ipaddress
 ipam
-ipbroadcast
 ipc
 ipcalc
 ipcalculator
@@ -3645,7 +3649,6 @@ jms
 jmsjavadownloads
 jnet
 jnetps
-joat
 job
 jobcan
 jobs
@@ -3674,7 +3677,6 @@ jsonwebkey
 jsonwebsignature
 jsonwebtoken
 jsp
-jumbo
 jump
 jump-location
 jumpcloud
@@ -3998,8 +4000,10 @@ logonto
 logonuser
 logparser
 logrotate
+logrotation
 logs
 logstash
+logtools
 logz
 loki
 lol
@@ -4011,6 +4015,7 @@ look
 lookup
 loop
 loopback
+loremipsum
 love
 lovequotes
 lpsiamol
@@ -4400,6 +4405,7 @@ msdtc
 msedge
 msexcel
 msexchange
+msft
 msftnet
 msftnetworking
 msg
@@ -4428,6 +4434,9 @@ msproject
 msrc
 msrdc
 mssql
+mssqlbynarymodule
+mssqlbynarypsmodule
+mssqlmodule
 mssqlplugins
 mssqlserver
 msteams
@@ -4741,6 +4750,7 @@ odbc
 odfb
 odin
 odoo
+oem-charset
 offboarding
 offence
 office
@@ -4827,7 +4837,6 @@ openhere
 openholidaysapi
 openid
 openidconnect
-openinghours
 openport
 openprovider
 openscad
@@ -5072,7 +5081,6 @@ perforce
 performance
 performance-counters
 performancemonitoring
-perl
 permission
 permissions
 permutations
@@ -5167,7 +5175,6 @@ pncit
 pnp
 pnp.powershell
 pnpm
-poc
 pode
 poe
 poem
@@ -5317,7 +5324,6 @@ powergui
 powermax
 powerpack
 powerplan
-powerplateform
 powerplatform
 powerprotect
 powerprotect_datamanager
@@ -7330,7 +7336,6 @@ psdesiredstateconfiguration
 psdevops
 psdocs
 psdocs-documents
-psdocsgenerator
 psdrawio
 psdrive
 psdrives
@@ -8426,6 +8431,9 @@ psmodules
 psmp
 psmsgraph
 psmsgraphapi
+psmssql
+psmssqlbynarymodule
+psmssqlmodule
 psmvp
 psnavigation
 psnexosisclient
@@ -8463,6 +8471,9 @@ psslack
 pssqlite
 pssqlitebynarymodule
 pssqlitemodule
+pssqlserver
+pssqlserverbynarymodule
+pssqlservermodule
 psst
 psstgenerator
 pstablacus
@@ -8854,6 +8865,7 @@ retry
 returnuserprofile
 retype
 reuse
+reverse-engineer
 reverse-string
 reversed-color-text
 reversedsc
@@ -8974,6 +8986,7 @@ rust-lang
 ryanairps
 ryver
 s.ds.p
+s1
 s3
 s4b
 saas
@@ -9072,7 +9085,6 @@ scom
 sconfig
 scoop
 scope
-score
 scouterna
 scouternasetjanster
 scoutnet
@@ -9180,7 +9192,6 @@ securitytxt
 sed
 seed
 seek
-seekatar
 seeshell
 select
 select-item
@@ -9336,6 +9347,7 @@ shipstation
 shlink
 shodan
 shodanps
+shop
 shopify
 shortcut
 shortcuts
@@ -9404,6 +9416,7 @@ skyapi
 skype
 skype_for_business
 skype4b
+skype4business
 skypeforbusiness
 skypeforbusinessonline
 skypeonline
@@ -9414,6 +9427,7 @@ slashcommands
 slideshow
 slmgr
 sln
+slugify
 sm
 sma
 small_web
@@ -9462,6 +9476,7 @@ snmpset
 snmpv3
 snmpwalk
 snowflake
+snsmssqlpsmodule
 snspsadgroupmembers
 snspsscriptsmonitoring
 snssqlitepsmodule
@@ -9584,6 +9599,7 @@ sql-server
 sqlagent
 sqlautomation
 sqlbits
+sqlbrowser
 sqlbulkcopy
 sqlchangeautomation
 sqlclient
@@ -9609,7 +9625,10 @@ sqlps
 sqlquery
 sqlserver
 sqlserveragent
+sqlserverbynarymodule
+sqlserverbynarypsmodule
 sqlserverclient
+sqlservermodule
 sqlvirtualmachine
 sqlvm
 sqr
@@ -9787,7 +9806,6 @@ summit
 sumologic
 supercell
 superheros
-supermarket
 support
 support-tool
 support-tools
@@ -9997,7 +10015,6 @@ test123
 testaccount
 testautomation
 tester
-testimonial
 testing
 testlab
 testplans
@@ -10021,6 +10038,7 @@ textgeneration
 texting
 texting-emoji
 texting-emojis
+textprocessing
 textwrapping
 tfe
 tfenv
@@ -10306,7 +10324,6 @@ ud-wordtree
 udcm
 udfeedback
 udp
-udpclient
 udptest
 udr
 udthememode
@@ -10471,6 +10488,7 @@ vba
 vbaproject
 vbproj
 vbr
+vbscript
 vbsinst
 vc
 vccmdlets
@@ -10618,7 +10636,6 @@ vrtu
 vs
 vs-shell
 vsa
-vsa9
 vsan
 vsan+
 vscode
@@ -10778,6 +10795,7 @@ whoisutility
 whormi
 wi-fi
 wia
+wia.imagefile
 wid
 widedata
 wif
