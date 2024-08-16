@@ -3,6 +3,158 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [ZertoAVSModule](https://www.powershellgallery.com/Packages/ZertoAVSModule/3.5.9) | 3.5.9
+
+### Published: 08/16/2024 16:31:27 by Zerto
+
+Zerto AVS solution package
+
+__Downloads__: 1,798 | __Repository__: https://help.zerto.com/
+
+## [Hardensysvol](https://www.powershellgallery.com/Packages/Hardensysvol/1.3.0) | 1.3.0
+
+### Published: 08/16/2024 16:21:27 by DAKHAMA Mehdi
+
+Harden Sysvol is a Powershell Module to scan sysvol folder to search the sensitivity data
+
+__Downloads__: 29 | __Repository__: https://github.com/dakhama-mehdi/CheckSysvolsecurity
+
+## [AzureResourceInventory](https://www.powershellgallery.com/Packages/AzureResourceInventory/3.4.10) | 3.4.10
+
+### Published: 08/16/2024 16:06:05 by Claudio Merola
+
+Azure Resource Inventory - Its a Powerful tool to create EXCEL inventory from Azure Resources with low effort
+
+__Downloads__: 4 | __Repository__: https://github.com/microsoft/ARI
+
+## [WindmillClient](https://www.powershellgallery.com/Packages/WindmillClient/1.381.0) | 1.381.0
+
+### Published: 08/16/2024 15:35:52 by Windmill Labs
+
+Client for the Windmill platform.
+
+__Downloads__: 517 | __Repository__: https://github.com/windmill-labs/windmill/tree/main/powershell-client
+
+## [Box](https://www.powershellgallery.com/Packages/Box/0.1.1) | 0.1.1
+
+### Published: 08/16/2024 14:32:46 by David de Mingo
+
+Gestor de màquines virtuals
+
+__Downloads__: 73 | __Repository__: https://gitlab.com/xtec/box/
+
+## [PSLog](https://www.powershellgallery.com/Packages/PSLog/5.54.0) | 5.54.0
+
+### Published: 08/16/2024 11:40:57 by Raimund Andree Per Pedersen
+
+Redirects stanard Write-* cmdlets to a log and offers some basic tracing functions
+
+__Downloads__: 61,691 | __Repository__: https://github.com/AutomatedLab/AutomatedLab
+
+## [PSFileTransfer](https://www.powershellgallery.com/Packages/PSFileTransfer/5.54.0) | 5.54.0
+
+### Published: 08/16/2024 11:40:52 by Raimund Andree Per Pedersen
+
+This module packages functions created by Lee Holmes for transfering files over PowerShell Remoting
+
+__Downloads__: 67,298 | __Repository__: https://github.com/AutomatedLab/AutomatedLab
+
+## [HostsFile](https://www.powershellgallery.com/Packages/HostsFile/5.54.0) | 5.54.0
+
+### Published: 08/16/2024 11:40:46 by Raimund Andree Per Pedersen
+
+This module provides management of hosts file content
+
+__Downloads__: 59,783 | __Repository__: https://github.com/AutomatedLab/AutomatedLab
+
+## [AutomatedLabWorker](https://www.powershellgallery.com/Packages/AutomatedLabWorker/5.54.0) | 5.54.0
+
+### Published: 08/16/2024 11:40:41 by Raimund Andree Per Pedersen Jan-Hendrik Peters
+
+This module encapsulates all the work activities to prepare the lab
+
+__Downloads__: 59,989 | __Repository__: https://github.com/AutomatedLab/AutomatedLab
+
+## [AutomatedLabUnattended](https://www.powershellgallery.com/Packages/AutomatedLabUnattended/5.54.0) | 5.54.0
+
+### Published: 08/16/2024 11:40:34 by Raimund Andree Per Pedersen
+
+The module is managing settings inside an unattended.xml file
+
+__Downloads__: 63,782 | __Repository__: https://github.com/AutomatedLab/AutomatedLab
+
+## [AutomatedLabTest](https://www.powershellgallery.com/Packages/AutomatedLabTest/5.54.0) | 5.54.0
+
+### Published: 08/16/2024 11:40:28 by Raimund Andree Per Pedersen Jan-Hendrik Peters
+
+The module is for testing AutomatedLab
+
+__Downloads__: 40,487 | __Repository__: https://github.com/AutomatedLab/AutomatedLab
+
+## [AutomatedLabNotifications](https://www.powershellgallery.com/Packages/AutomatedLabNotifications/5.54.0) | 5.54.0
+
+### Published: 08/16/2024 11:40:23 by Raimund Andree Per Pedersen Jan-Hendrik Peters
+
+This module uses pluggable providers to send various kinds of notifications for AutomatedLab
+
+__Downloads__: 70,352 | __Repository__: https://github.com/AutomatedLab/AutomatedLab
+
+## [AutomatedLabDefinition](https://www.powershellgallery.com/Packages/AutomatedLabDefinition/5.54.0) | 5.54.0
+
+### Published: 08/16/2024 11:40:14 by Raimund Andree Per Pedersen Jan-Hendrik Peters
+
+The module creates the lab and machine definition for the AutomatedLab module saved in XML
+
+__Downloads__: 58,030 | __Repository__: https://github.com/AutomatedLab/AutomatedLab
+
+## [AutomatedLabCore](https://www.powershellgallery.com/Packages/AutomatedLabCore/5.54.0) | 5.54.0
+
+### Published: 08/16/2024 11:40:08 by Raimund Andree Per Pedersen Jan-Hendrik Peters
+
+Automated lab environments with ease - Linux and Windows, Hyper-V and Azure
+
+__Downloads__: 23,768 | __Repository__: https://github.com/AutomatedLab/AutomatedLab
+
+## [AutomatedLab.Ships](https://www.powershellgallery.com/Packages/AutomatedLab.Ships/5.54.0) | 5.54.0
+
+### Published: 08/16/2024 11:39:57 by Raimund Andree Per Pedersen Jan-Hendrik Peters
+
+The SHiPS module to mount a lab drive containing all lab data
+
+__Downloads__: 26,939 | __Repository__: https://github.com/AutomatedLab/AutomatedLab
+
+## [AutomatedLab.Recipe](https://www.powershellgallery.com/Packages/AutomatedLab.Recipe/5.54.0) | 5.54.0
+
+### Published: 08/16/2024 11:39:52 by Raimund Andree Per Pedersen Jan-Hendrik Peters
+
+This module enables easy to use recipes to create lab environments
+
+__Downloads__: 27,363 | __Repository__: https://github.com/AutomatedLab/AutomatedLab
+
+## [AutomatedLab](https://www.powershellgallery.com/Packages/AutomatedLab/5.54.0) | 5.54.0
+
+### Published: 08/16/2024 11:39:46 by Raimund Andree Per Pedersen Jan-Hendrik Peters
+
+Automated lab environments with ease - Linux and Windows, Hyper-V and Azure
+
+__Downloads__: 56,611 | __Repository__: https://github.com/AutomatedLab/AutomatedLab
+
+## [UiPathOrch](https://www.powershellgallery.com/Packages/UiPathOrch/0.9.6.4) | 0.9.6.4
+
+### Published: 08/16/2024 10:55:31 by Yoshifumi Tsuda
+
+A PowerShell provider for managing UiPath Orchestrator entities via cmdlets.
+
+__Downloads__: 865 | __Repository__: 
+
+## [NinjaOne](https://www.powershellgallery.com/Packages/NinjaOne/2.0.1) | 2.0.1
+
+### Published: 08/16/2024 10:50:20 by Mikey O'Toole
+
+This module provides an interface to the NinjaOne API.
+
+__Downloads__: 13,211 | __Repository__: https://github.com/homotechsual/NinjaOne
+
 ## [UncommonSense.Volkskrant](https://www.powershellgallery.com/Packages/UncommonSense.Volkskrant/0.0.51.0) | 0.0.51.0
 
 ### Published: 08/16/2024 08:56:48 by Jan Hoek
@@ -43,14 +195,6 @@ This module assists organisations using PowerShell to interface to the MISP.
 
 __Downloads__: 7,897 | __Repository__: https://github.com/IPSecMSSP/misp.tools
 
-## [UiPathOrch](https://www.powershellgallery.com/Packages/UiPathOrch/0.9.6.3) | 0.9.6.3
-
-### Published: 08/16/2024 06:29:49 by Yoshifumi Tsuda
-
-A PowerShell provider for managing UiPath Orchestrator entities via cmdlets.
-
-__Downloads__: 865 | __Repository__: 
-
 ## [PSOpenAI](https://www.powershellgallery.com/Packages/PSOpenAI/4.2.0) | 4.2.0
 
 ### Published: 08/16/2024 04:13:52 by mkht
@@ -83,21 +227,21 @@ Permite usar Inteligência Artificial direto do PowerShell
 
 __Downloads__: 86 | __Repository__: 
 
-## [AzureResourceInventory](https://www.powershellgallery.com/Packages/AzureResourceInventory/3.4.7) | 3.4.7
-
-### Published: 08/15/2024 21:25:04 by Claudio Merola
-
-Azure Resource Inventory - Its a Powerful tool to create EXCEL inventory from Azure Resources with low effort
-
-__Downloads__: 7 | __Repository__: https://github.com/microsoft/ARI
-
 ## [AzurePipelinesPS](https://www.powershellgallery.com/Packages/AzurePipelinesPS/4.0.63) | 4.0.63
 
 ### Published: 08/15/2024 20:59:08 by Dejulia489
 
 A PowerShell module that makes interfacing with Azure Pipelines a little easier
 
-__Downloads__: 52,113 | __Repository__: https://github.com/Dejulia489/AzurePipelinesPS
+__Downloads__: 52,115 | __Repository__: https://github.com/Dejulia489/AzurePipelinesPS
+
+## [EnhancedSPOAO](https://www.powershellgallery.com/Packages/EnhancedSPOAO/0.0.15) | 0.0.15
+
+### Published: 08/15/2024 20:29:42 by Abdullah Ollivierre
+
+EnhancedSPOAO for PowerShell scripts.
+
+__Downloads__: 16 | __Repository__: 
 
 ## [EnhancedWin32DeployerAO](https://www.powershellgallery.com/Packages/EnhancedWin32DeployerAO/0.0.15) | 0.0.15
 
@@ -115,21 +259,13 @@ EnhancedVPNAO for PowerShell scripts.
 
 __Downloads__: 23 | __Repository__: 
 
-## [EnhancedSPOAO](https://www.powershellgallery.com/Packages/EnhancedSPOAO/0.0.15) | 0.0.15
-
-### Published: 08/15/2024 20:29:42 by Abdullah Ollivierre
-
-EnhancedSPOAO for PowerShell scripts.
-
-__Downloads__: 16 | __Repository__: 
-
-## [EnhancedLoggingAO](https://www.powershellgallery.com/Packages/EnhancedLoggingAO/0.0.15) | 0.0.15
+## [EnhancedSchedTaskAO](https://www.powershellgallery.com/Packages/EnhancedSchedTaskAO/0.0.15) | 0.0.15
 
 ### Published: 08/15/2024 20:29:41 by Abdullah Ollivierre
 
-EnhancedLoggingAO for PowerShell scripts.
+EnhancedSchedTaskAO for PowerShell scripts.
 
-__Downloads__: 34 | __Repository__: 
+__Downloads__: 25 | __Repository__: 
 
 ## [EnhancedPSADTAO](https://www.powershellgallery.com/Packages/EnhancedPSADTAO/0.0.15) | 0.0.15
 
@@ -139,21 +275,13 @@ EnhancedPSADTAO for PowerShell scripts.
 
 __Downloads__: 29 | __Repository__: 
 
-## [EnhancedSchedTaskAO](https://www.powershellgallery.com/Packages/EnhancedSchedTaskAO/0.0.15) | 0.0.15
+## [EnhancedLoggingAO](https://www.powershellgallery.com/Packages/EnhancedLoggingAO/0.0.15) | 0.0.15
 
 ### Published: 08/15/2024 20:29:41 by Abdullah Ollivierre
 
-EnhancedSchedTaskAO for PowerShell scripts.
+EnhancedLoggingAO for PowerShell scripts.
 
-__Downloads__: 25 | __Repository__: 
-
-## [EnhancedGraphAO](https://www.powershellgallery.com/Packages/EnhancedGraphAO/0.0.15) | 0.0.15
-
-### Published: 08/15/2024 20:29:40 by Abdullah Ollivierre
-
-EnhancedGraphAO for PowerShell scripts.
-
-__Downloads__: 27 | __Repository__: 
+__Downloads__: 34 | __Repository__: 
 
 ## [EnhancedHyperVAO](https://www.powershellgallery.com/Packages/EnhancedHyperVAO/0.0.15) | 0.0.15
 
@@ -163,6 +291,30 @@ EnhancedHyperVAO for PowerShell scripts.
 
 __Downloads__: 23 | __Repository__: 
 
+## [EnhancedGraphAO](https://www.powershellgallery.com/Packages/EnhancedGraphAO/0.0.15) | 0.0.15
+
+### Published: 08/15/2024 20:29:40 by Abdullah Ollivierre
+
+EnhancedGraphAO for PowerShell scripts.
+
+__Downloads__: 27 | __Repository__: 
+
+## [EnhancedFileManagerAO](https://www.powershellgallery.com/Packages/EnhancedFileManagerAO/0.0.15) | 0.0.15
+
+### Published: 08/15/2024 20:29:39 by Abdullah Ollivierre
+
+EnhancedFileManagerAO for PowerShell scripts.
+
+__Downloads__: 24 | __Repository__: 
+
+## [EnhancedDeviceMigrationAO](https://www.powershellgallery.com/Packages/EnhancedDeviceMigrationAO/0.0.15) | 0.0.15
+
+### Published: 08/15/2024 20:29:39 by Abdullah Ollivierre
+
+EnhancedDeviceMigrationAO for PowerShell scripts.
+
+__Downloads__: 24 | __Repository__: 
+
 ## [EnhancedBoilerPlateAO](https://www.powershellgallery.com/Packages/EnhancedBoilerPlateAO/0.0.15) | 0.0.15
 
 ### Published: 08/15/2024 20:29:38 by Abdullah Ollivierre
@@ -170,6 +322,14 @@ __Downloads__: 23 | __Repository__:
 EnhancedBoilerPlateAO for PowerShell scripts.
 
 __Downloads__: 32 | __Repository__: 
+
+## [EnhancedAO.Graph.SignInLogs](https://www.powershellgallery.com/Packages/EnhancedAO.Graph.SignInLogs/0.0.15) | 0.0.15
+
+### Published: 08/15/2024 20:29:37 by Abdullah Ollivierre
+
+EnhancedAO.Graph.SignInLogs for PowerShell scripts.
+
+__Downloads__: 24 | __Repository__: 
 
 ## [RemoteLocalGroups](https://www.powershellgallery.com/Packages/RemoteLocalGroups/1.0.5) | 1.0.5
 
@@ -185,7 +345,7 @@ __Downloads__: 55 | __Repository__: https://github.com/LuisCarrilloTech
 
 Lightweight army of helpers for general powershell activities
 
-__Downloads__: 12,384 | __Repository__: https://github.com/o-o00o-o/PSEasy.Utility
+__Downloads__: 12,385 | __Repository__: https://github.com/o-o00o-o/PSEasy.Utility
 
 ## [Arcane_Server](https://www.powershellgallery.com/Packages/Arcane_Server/1.0.4) | 1.0.4
 
@@ -267,14 +427,6 @@ Manage SendGrid using its API with PowerShell functions and wrappers.
 
 __Downloads__: 358 | __Repository__: https://github.com/PhilipHaglund/SendGridTools/
 
-## [Box](https://www.powershellgallery.com/Packages/Box/0.1.0) | 0.1.0
-
-### Published: 08/15/2024 14:38:01 by David de Mingo
-
-Gestor de màquines virtuals
-
-__Downloads__: 73 | __Repository__: https://gitlab.com/xtec/box/
-
 ## [Cps.Base](https://www.powershellgallery.com/Packages/Cps.Base/1.0.0.2) | 1.0.0.2
 
 ### Published: 08/15/2024 14:19:46 by mirza@chalmers.se
@@ -290,14 +442,6 @@ __Downloads__: 9 | __Repository__:
 Chalmers.Powershell.Module Cps.Logger
 
 __Downloads__: 15 | __Repository__: 
-
-## [WindmillClient](https://www.powershellgallery.com/Packages/WindmillClient/1.380.1) | 1.380.1
-
-### Published: 08/15/2024 12:29:58 by Windmill Labs
-
-Client for the Windmill platform.
-
-__Downloads__: 517 | __Repository__: https://github.com/windmill-labs/windmill/tree/main/powershell-client
 
 ## [Puppet.Dsc](https://www.powershellgallery.com/Packages/Puppet.Dsc/2.1.0) | 2.1.0
 
@@ -1835,7 +1979,7 @@ __Downloads__: 125,693 | __Repository__:
 
 Master module for a collection of modules. These modules are varied in their tasks. The overall purpose of them being to provide a powerfull Toolset to improve IT Admin workflows.
 
-__Downloads__: 63,530 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox
+__Downloads__: 63,531 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox
 
 ## [AdminToolbox.FortiWizard](https://www.powershellgallery.com/Packages/AdminToolbox.FortiWizard/2.19.23) | 2.19.23
 
@@ -1851,7 +1995,7 @@ __Downloads__: 43,341 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions to Automate Bulk VMWare Tasks
 
-__Downloads__: 50,562 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 50,563 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.Remoting](https://www.powershellgallery.com/Packages/AdminToolbox.Remoting/1.9.167) | 1.9.167
 
@@ -1859,7 +2003,7 @@ __Downloads__: 50,562 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions for remote management and access.
 
-__Downloads__: 49,932 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 49,933 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.Office365](https://www.powershellgallery.com/Packages/AdminToolbox.Office365/4.0.27) | 4.0.27
 
@@ -1875,7 +2019,7 @@ __Downloads__: 53,764 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Network Troubleshooting Functions
 
-__Downloads__: 141,799 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 141,801 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.MSGraph](https://www.powershellgallery.com/Packages/AdminToolbox.MSGraph/1.3.21) | 1.3.21
 
@@ -1885,173 +2029,4 @@ Microsoft Graph interactive API Functions
 
 __Downloads__: 40,052 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
-## [AdminToolbox.Fun](https://www.powershellgallery.com/Packages/AdminToolbox.Fun/1.6.168) | 1.6.168
-
-### Published: 08/13/2024 18:22:49 by Taylor Lee
-
-Functions that have no purpose
-
-__Downloads__: 50,733 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-## [AdminToolbox.FileManagement](https://www.powershellgallery.com/Packages/AdminToolbox.FileManagement/1.16.159) | 1.16.159
-
-### Published: 08/13/2024 18:22:42 by Taylor Lee
-
-File Management Functions
-
-__Downloads__: 51,216 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-## [AdminToolbox.FFTools](https://www.powershellgallery.com/Packages/AdminToolbox.FFTools/4.16.117) | 4.16.117
-
-### Published: 08/13/2024 18:22:37 by Taylor Lee
-
-Expedite simple ffmpeg actions
-
-__Downloads__: 51,262 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-## [AdminToolbox.Exchange](https://www.powershellgallery.com/Packages/AdminToolbox.Exchange/1.9.168) | 1.9.168
-
-### Published: 08/13/2024 18:22:30 by Taylor Lee
-
-Functions for Exchange Management
-
-__Downloads__: 54,177 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-## [AdminToolbox.EndpointManagement](https://www.powershellgallery.com/Packages/AdminToolbox.EndpointManagement/4.10.45) | 4.10.45
-
-### Published: 08/13/2024 18:22:24 by Taylor Lee
-
-Functions for management of endpoints
-
-__Downloads__: 61,364 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-## [AdminToolbox.ActiveDirectory](https://www.powershellgallery.com/Packages/AdminToolbox.ActiveDirectory/1.10.29) | 1.10.29
-
-### Published: 08/13/2024 18:22:15 by Taylor Lee
-
-Functions for Active Directory
-
-__Downloads__: 61,713 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-## [XD-PSTools](https://www.powershellgallery.com/Packages/XD-PSTools/2.0.3) | 2.0.3
-
-### Published: 08/13/2024 15:42:55 by Eric Meinders
-
-Contains function toolset for Xpressducks IT personnel.
-
-__Downloads__: 265 | __Repository__: 
-
-## [PSReminderLite](https://www.powershellgallery.com/Packages/PSReminderLite/1.0.0) | 1.0.0
-
-### Published: 08/13/2024 15:03:13 by Jeff Hicks
-
-This is a port of the MyTickle module that uses a SQLite database to store event or reminder information.
-
-__Downloads__: 4 | __Repository__: https://github.com/jdhitsolutions/PSReminderLite
-
-## [Liquit.Server.PowerShell](https://www.powershellgallery.com/Packages/Liquit.Server.PowerShell/4.2.3606.5264) | 4.2.3606.5264
-
-### Published: 08/13/2024 14:52:34 by Liquit Software B.V.
-
-Liquit Workspace PowerShell Module
-
-__Downloads__: 8,581 | __Repository__: 
-
-## [PowerSNOW](https://www.powershellgallery.com/Packages/PowerSNOW/1.0.0.1) | 1.0.0.1
-
-### Published: 08/13/2024 13:58:46 by substump
-
-Retrieves task info from ServiceNow using REST API
-
-__Downloads__: 2 | __Repository__: 
-
-## [Devolutions.PowerShell](https://www.powershellgallery.com/Packages/Devolutions.PowerShell/2024.2.4) | 2024.2.4
-
-### Published: 08/13/2024 13:39:41 by Devolutions
-
-The Devolutions.PowerShell module is a set of cmdlets that allow administrators to manage Remote Desktop Manager, Devolutions Server and Devolutions Hub Business using PowerShell. This module provides a simple and consistent interface for interacting with these products, making it easy to automate various tasks, such as creating and managing connections, sessions, and credentials, configuring security settings, and generating reports. The module can be easily integrated with other PowerShell modules, allowing administrators to automate tasks across multiple products and platforms, streamline their workflows and increase efficiency.
-
-__Downloads__: 128,929 | __Repository__: https://devolutions.net/
-
-## [TeamPermissions](https://www.powershellgallery.com/Packages/TeamPermissions/1.0.6) | 1.0.6
-
-### Published: 08/13/2024 11:26:55 by Jos Lieben (jos@lieben.nu)
-
-Reporting on ALL permissions in a Team site (or sharepoint or onedrive...). Note: for now a proof of concept. Features to be added soon:
-    
-    -Scanning multiple teams / sites
-    -Paralellization / multi-threading
-
-__Downloads__: 17 | __Repository__: 
-
-## [AadAuthenticationFactory](https://www.powershellgallery.com/Packages/AadAuthenticationFactory/3.1.1) | 3.1.1
-
-### Published: 08/13/2024 09:13:43 by Jiri Formacek
-
-Provides AAD authentication factory for easy Public Client, Confidential Client flow and Managed Identity authentication with AAD in PowerShell
-
-__Downloads__: 20,664 | __Repository__: https://github.com/GreyCorbel/AadAuthenticationFactory
-
-## [ADEssentials](https://www.powershellgallery.com/Packages/ADEssentials/0.0.219) | 0.0.219
-
-### Published: 08/13/2024 08:59:17 by Przemyslaw Klys
-
-Helper module for Active Directory with lots of useful functions that simplify supporting Active Directory.
-
-__Downloads__: 290,967 | __Repository__: https://github.com/EvotecIT/ADEssentials
-
-## [GWS.CloudDepot](https://www.powershellgallery.com/Packages/GWS.CloudDepot/0.1.319) | 0.1.319
-
-### Published: 08/13/2024 08:45:53 by Matthias Brahm
-
-CloudDepot PowerShell Module
-
-__Downloads__: 1,321 | __Repository__: 
-
-## [LXCOPSTool](https://www.powershellgallery.com/Packages/LXCOPSTool/2.1.0.45) | 2.1.0.45
-
-### Published: 08/13/2024 05:13:25 by Lenovo Corporation
-
-Lenovo XClarity Orchestrator PowerShell tool
-
-The LXCOPSTool cmdlets use REST APIs that are provided for Lenovo XClarity Orchestrator to enable you to automate functions such as:
-- Logging in to Lenovo XClarity Orchestrator;
-
-Lenovo XClarity Orchestrator is a centralized, resource-management solution that is aimed at reducing complexity, speeding response, and enhancing the availability of Lenovo server systems and solutions. It runs as a virtual appliance that you can use to manage Flex System chassis and System x rack servers in a secure environment.
-Get more detail information from:
-https://pubs.lenovo.com/lxco/
-
-Lenovo XClarity Orchestrator REST APIs used in this module:
-https://pubs.lenovo.com/lxco_scripting/rest-apis
-
-__Downloads__: 603 | __Repository__: 
-
-## [TisaneLampClient](https://www.powershellgallery.com/Packages/TisaneLampClient/7.1.8) | 7.1.8
-
-### Published: 08/13/2024 04:21:34 by CR
-
-Client side scripts for Tisane to modify language models
-
-__Downloads__: 701 | __Repository__: 
-
-## [PdqStuff](https://www.powershellgallery.com/Packages/PdqStuff/6.2.3) | 6.2.3
-
-### Published: 08/13/2024 04:16:34 by Colby Bouma
-
-A collection of functions that do useful things with PDQ Deploy and Inventory.
-
-This module is not supported by PDQ.com. I do not work for PDQ.com.
-
-Many of these functions directly access your databases, so please create a backup before using them!
-
-A description of each function is available in the README:
-https://gitlab.com/ColbyBouma/pdqstuff#functions
-
-I hang out in the following places:
-https://www.reddit.com/r/pdq/
-https://discord.gg/T3xHUWu
-https://help.pdq.com/hc/en-us
-
-__Downloads__: 1,271 | __Repository__: https://gitlab.com/ColbyBouma/pdqstuff
-
-*Updated: Friday, 16 August 2024 09:52:16 UTC*
+*Updated: Friday, 16 August 2024 17:51:52 UTC*
