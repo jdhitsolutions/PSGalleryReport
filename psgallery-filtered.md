@@ -3,6 +3,38 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [WinGet-Essentials](https://www.powershellgallery.com/Packages/WinGet-Essentials/1.12.0) | 1.12.0
+
+### Published: 08/17/2024 17:40:14 by Jon Carrier
+
+Provides cmdlets that compliment the existing WinGet CLI. Primarily, improves the user-experience for software updates and offers a convenient way to install collections of software via WinGet through the use of user-defined tags.
+
+__Downloads__: 649,718 | __Repository__: https://github.com/jjcarrier/PS-WinGet-Essentials
+
+## [Catesta](https://www.powershellgallery.com/Packages/Catesta/2.21.0) | 2.21.0
+
+### Published: 08/17/2024 17:17:02 by Jake Morrison
+
+Catesta is a PowerShell module project generator. It uses templates to rapidly scaffold test and build integration for a variety of CI/CD platforms.
+
+__Downloads__: 29,583 | __Repository__: https://github.com/techthoughts2/Catesta
+
+## [DscResource.Base](https://www.powershellgallery.com/Packages/DscResource.Base/1.1.2) | 1.1.2
+
+### Published: 08/17/2024 14:45:12 by DSC Community
+
+This module contains common classes that can be used for class-based DSC resources development.
+
+__Downloads__: 39,026 | __Repository__: https://github.com/dsccommunity/DscResource.Base
+
+## [GitHub](https://www.powershellgallery.com/Packages/GitHub/0.3.117) | 0.3.117
+
+### Published: 08/17/2024 11:44:01 by PSModule
+
+A PowerShell module to interact with the GitHub API.
+
+__Downloads__: 10,842 | __Repository__: https://github.com/PSModule/GitHub
+
 ## [UiPathOrch](https://www.powershellgallery.com/Packages/UiPathOrch/0.9.6.5) | 0.9.6.5
 
 ### Published: 08/17/2024 04:57:30 by Yoshifumi Tsuda
@@ -35,6 +67,14 @@ EnhancedSchedTaskAO for PowerShell scripts.
 
 __Downloads__: 31 | __Repository__: 
 
+## [EnhancedVPNAO](https://www.powershellgallery.com/Packages/EnhancedVPNAO/0.0.16) | 0.0.16
+
+### Published: 08/17/2024 00:18:09 by Abdullah Ollivierre
+
+EnhancedVPNAO for PowerShell scripts.
+
+__Downloads__: 29 | __Repository__: 
+
 ## [EnhancedPSADTAO](https://www.powershellgallery.com/Packages/EnhancedPSADTAO/0.0.16) | 0.0.16
 
 ### Published: 08/17/2024 00:18:08 by Abdullah Ollivierre
@@ -59,19 +99,19 @@ EnhancedGraphAO for PowerShell scripts.
 
 __Downloads__: 33 | __Repository__: 
 
-## [EnhancedDeviceMigrationAO](https://www.powershellgallery.com/Packages/EnhancedDeviceMigrationAO/0.0.16) | 0.0.16
-
-### Published: 08/17/2024 00:18:06 by Abdullah Ollivierre
-
-EnhancedDeviceMigrationAO for PowerShell scripts.
-
-__Downloads__: 31 | __Repository__: 
-
 ## [EnhancedFileManagerAO](https://www.powershellgallery.com/Packages/EnhancedFileManagerAO/0.0.16) | 0.0.16
 
 ### Published: 08/17/2024 00:18:06 by Abdullah Ollivierre
 
 EnhancedFileManagerAO for PowerShell scripts.
+
+__Downloads__: 31 | __Repository__: 
+
+## [EnhancedDeviceMigrationAO](https://www.powershellgallery.com/Packages/EnhancedDeviceMigrationAO/0.0.16) | 0.0.16
+
+### Published: 08/17/2024 00:18:06 by Abdullah Ollivierre
+
+EnhancedDeviceMigrationAO for PowerShell scripts.
 
 __Downloads__: 31 | __Repository__: 
 
@@ -219,7 +259,7 @@ __Downloads__: 64,003 | __Repository__: https://github.com/AutomatedLab/Automate
 
 The module is for testing AutomatedLab
 
-__Downloads__: 40,687 | __Repository__: https://github.com/AutomatedLab/AutomatedLab
+__Downloads__: 40,689 | __Repository__: https://github.com/AutomatedLab/AutomatedLab
 
 ## [AutomatedLabNotifications](https://www.powershellgallery.com/Packages/AutomatedLabNotifications/5.54.0) | 5.54.0
 
@@ -429,14 +469,6 @@ Powershell Module to run JumpCloud Active Directory Migration Utility.
 
 __Downloads__: 15,140 | __Repository__: 
 
-## [GitHub](https://www.powershellgallery.com/Packages/GitHub/0.3.116) | 0.3.116
-
-### Published: 08/15/2024 15:14:55 by PSModule
-
-A PowerShell module to interact with the GitHub API.
-
-__Downloads__: 10,842 | __Repository__: https://github.com/PSModule/GitHub
-
 ## [pwshBedrock](https://www.powershellgallery.com/Packages/pwshBedrock/0.15.0) | 0.15.0
 
 ### Published: 08/15/2024 15:07:50 by Jake Morrison
@@ -452,6 +484,14 @@ __Downloads__: 26 | __Repository__: https://github.com/techthoughts2/pwshBedrock
 Manage SendGrid using its API with PowerShell functions and wrappers.
 
 __Downloads__: 361 | __Repository__: https://github.com/PhilipHaglund/SendGridTools/
+
+## [Cps.Base](https://www.powershellgallery.com/Packages/Cps.Base/1.0.0.2) | 1.0.0.2
+
+### Published: 08/15/2024 14:19:46 by mirza@chalmers.se
+
+Chalmers.Powershell.Module Cps.Base
+
+__Downloads__: 10 | __Repository__: 
 
 ## [Cps.Logger](https://www.powershellgallery.com/Packages/Cps.Logger/1.0.0.7) | 1.0.0.7
 
@@ -788,7 +828,7 @@ __Downloads__: 25,880 | __Repository__: https://github.com/dsccommunity/DscResou
 
 A PowerShell module for debugging publishing of modules.
 
-__Downloads__: 2,857 | __Repository__: https://github.com/joeltimothyoh/MyPublishingDebugger
+__Downloads__: 2,856 | __Repository__: https://github.com/joeltimothyoh/MyPublishingDebugger
 
 ## [PsLogicAppExtractor](https://www.powershellgallery.com/Packages/PsLogicAppExtractor/0.6.23) | 0.6.23
 
@@ -1037,7 +1077,7 @@ __Downloads__: 6,942 | __Repository__: https://github.com/oracle/oci-powershell-
 
 This modules provides Cmdlets for OCI Redis Service
 
-__Downloads__: 2,715 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+__Downloads__: 2,714 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
 ## [OCI.PSModules.Recovery](https://www.powershellgallery.com/Packages/OCI.PSModules.Recovery/88.1.0) | 88.1.0
 
@@ -1269,7 +1309,7 @@ __Downloads__: 5,387 | __Repository__: https://github.com/oracle/oci-powershell-
 
 This modules provides Cmdlets for OCI Marketplacepublisher Service
 
-__Downloads__: 2,716 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+__Downloads__: 2,715 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
 ## [OCI.PSModules.Marketplaceprivateoffer](https://www.powershellgallery.com/Packages/OCI.PSModules.Marketplaceprivateoffer/88.1.0) | 88.1.0
 
@@ -1991,44 +2031,4 @@ Master module for a collection of modules. These modules are varied in their tas
 
 __Downloads__: 63,844 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox
 
-## [AdminToolbox.FortiWizard](https://www.powershellgallery.com/Packages/AdminToolbox.FortiWizard/2.19.23) | 2.19.23
-
-### Published: 08/13/2024 18:24:27 by Taylor Lee
-
-Functions that generate configuration scripts and manage FortiOS.
-
-__Downloads__: 43,662 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-## [AdminToolbox.VMWareAutomate](https://www.powershellgallery.com/Packages/AdminToolbox.VMWareAutomate/4.8.164) | 4.8.164
-
-### Published: 08/13/2024 18:23:19 by Taylor Lee
-
-Functions to Automate Bulk VMWare Tasks
-
-__Downloads__: 50,883 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-## [AdminToolbox.Remoting](https://www.powershellgallery.com/Packages/AdminToolbox.Remoting/1.9.167) | 1.9.167
-
-### Published: 08/13/2024 18:23:14 by Taylor Lee
-
-Functions for remote management and access.
-
-__Downloads__: 50,255 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-## [AdminToolbox.Office365](https://www.powershellgallery.com/Packages/AdminToolbox.Office365/4.0.27) | 4.0.27
-
-### Published: 08/13/2024 18:23:07 by Taylor Lee
-
-Functions for working with Office365 and Azure modules
-
-__Downloads__: 54,117 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-## [AdminToolbox.Networking](https://www.powershellgallery.com/Packages/AdminToolbox.Networking/2.20.8) | 2.20.8
-
-### Published: 08/13/2024 18:23:00 by Taylor Lee
-
-Network Troubleshooting Functions
-
-__Downloads__: 142,473 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-*Updated: Saturday, 17 August 2024 09:51:38 UTC*
+*Updated: Saturday, 17 August 2024 17:51:42 UTC*
