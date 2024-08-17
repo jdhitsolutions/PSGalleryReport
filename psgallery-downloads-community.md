@@ -2089,9 +2089,9 @@ A cross-platform DNS client for PowerShell utilizing the DnsClient.NET library.
 
 __Downloads__: 650,915 | __Repository__: https://github.com/rmbolger/DnsClient-PS
 
-## [WinGet-Essentials](https://www.powershellgallery.com/Packages/WinGet-Essentials/1.11.2) | 1.11.2
+## [WinGet-Essentials](https://www.powershellgallery.com/Packages/WinGet-Essentials/1.12.0) | 1.12.0
 
-### Published: 06/11/2024 23:50:26 by Jon Carrier
+### Published: 08/17/2024 17:40:14 by Jon Carrier
 
 Provides cmdlets that compliment the existing WinGet CLI. Primarily, improves the user-experience for software updates and offers a convenient way to install collections of software via WinGet through the use of user-defined tags.
 
@@ -2138,4 +2138,4 @@ PowerShell for the CrowdStrike Falcon OAuth2 APIs
 
 __Downloads__: 621,594 | __Repository__: https://github.com/crowdstrike/psfalcon
 
-*Updated: Saturday, 17 August 2024 09:51:43 UTC*
+*Updated: Saturday, 17 August 2024 17:51:47 UTC*

@@ -3,6 +3,38 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [WinGet-Essentials](https://www.powershellgallery.com/Packages/WinGet-Essentials/1.12.0) | 1.12.0
+
+### Published: 08/17/2024 17:40:14 by Jon Carrier
+
+Provides cmdlets that compliment the existing WinGet CLI. Primarily, improves the user-experience for software updates and offers a convenient way to install collections of software via WinGet through the use of user-defined tags.
+
+__Downloads__: 649,718 | __Repository__: https://github.com/jjcarrier/PS-WinGet-Essentials
+
+## [Catesta](https://www.powershellgallery.com/Packages/Catesta/2.21.0) | 2.21.0
+
+### Published: 08/17/2024 17:17:02 by Jake Morrison
+
+Catesta is a PowerShell module project generator. It uses templates to rapidly scaffold test and build integration for a variety of CI/CD platforms.
+
+__Downloads__: 29,583 | __Repository__: https://github.com/techthoughts2/Catesta
+
+## [DscResource.Base](https://www.powershellgallery.com/Packages/DscResource.Base/1.1.2) | 1.1.2
+
+### Published: 08/17/2024 14:45:12 by DSC Community
+
+This module contains common classes that can be used for class-based DSC resources development.
+
+__Downloads__: 39,026 | __Repository__: https://github.com/dsccommunity/DscResource.Base
+
+## [GitHub](https://www.powershellgallery.com/Packages/GitHub/0.3.117) | 0.3.117
+
+### Published: 08/17/2024 11:44:01 by PSModule
+
+A PowerShell module to interact with the GitHub API.
+
+__Downloads__: 10,842 | __Repository__: https://github.com/PSModule/GitHub
+
 ## [UiPathOrch](https://www.powershellgallery.com/Packages/UiPathOrch/0.9.6.5) | 0.9.6.5
 
 ### Published: 08/17/2024 04:57:30 by Yoshifumi Tsuda
@@ -35,13 +67,13 @@ EnhancedSchedTaskAO for PowerShell scripts.
 
 __Downloads__: 31 | __Repository__: 
 
-## [EnhancedLoggingAO](https://www.powershellgallery.com/Packages/EnhancedLoggingAO/0.0.16) | 0.0.16
+## [EnhancedVPNAO](https://www.powershellgallery.com/Packages/EnhancedVPNAO/0.0.16) | 0.0.16
 
-### Published: 08/17/2024 00:18:08 by Abdullah Ollivierre
+### Published: 08/17/2024 00:18:09 by Abdullah Ollivierre
 
-EnhancedLoggingAO for PowerShell scripts.
+EnhancedVPNAO for PowerShell scripts.
 
-__Downloads__: 40 | __Repository__: 
+__Downloads__: 29 | __Repository__: 
 
 ## [EnhancedPSADTAO](https://www.powershellgallery.com/Packages/EnhancedPSADTAO/0.0.16) | 0.0.16
 
@@ -50,6 +82,14 @@ __Downloads__: 40 | __Repository__:
 EnhancedPSADTAO for PowerShell scripts.
 
 __Downloads__: 35 | __Repository__: 
+
+## [EnhancedLoggingAO](https://www.powershellgallery.com/Packages/EnhancedLoggingAO/0.0.16) | 0.0.16
+
+### Published: 08/17/2024 00:18:08 by Abdullah Ollivierre
+
+EnhancedLoggingAO for PowerShell scripts.
+
+__Downloads__: 40 | __Repository__: 
 
 ## [EnhancedGraphAO](https://www.powershellgallery.com/Packages/EnhancedGraphAO/0.0.16) | 0.0.16
 
@@ -2431,54 +2471,4 @@ This version of AWS Tools for PowerShell is compatible with Windows PowerShell 5
 
 __Downloads__: 14,071 | __Repository__: https://github.com/aws/aws-tools-for-powershell
 
-## [AWS.Tools.ElasticTranscoder](https://www.powershellgallery.com/Packages/AWS.Tools.ElasticTranscoder/4.1.637) | 4.1.637
-
-### Published: 08/16/2024 22:37:29 by Amazon.com Inc
-
-The ElasticTranscoder module of AWS Tools for PowerShell lets developers and administrators manage Amazon Elastic Transcoder from the PowerShell scripting environment. In order to manage each AWS service, install the corresponding module (e.g. AWS.Tools.EC2, AWS.Tools.S3...).
-The module AWS.Tools.Installer (https://www.powershellgallery.com/packages/AWS.Tools.Installer/) makes it easier to install, update and uninstall the AWS.Tools modules.
-This version of AWS Tools for PowerShell is compatible with Windows PowerShell 5.1+ and PowerShell Core 6+ on Windows, Linux and macOS. When running on Windows PowerShell, .NET Framework 4.7.2 or newer is required. Alternative modules AWSPowerShell.NetCore and AWSPowerShell, provide support for all AWS services from a single module and also support older versions of Windows PowerShell and .NET Framework.
-
-__Downloads__: 18,529 | __Repository__: https://github.com/aws/aws-tools-for-powershell
-
-## [AWS.Tools.Elasticsearch](https://www.powershellgallery.com/Packages/AWS.Tools.Elasticsearch/4.1.637) | 4.1.637
-
-### Published: 08/16/2024 22:37:22 by Amazon.com Inc
-
-The Elasticsearch module of AWS Tools for PowerShell lets developers and administrators manage Amazon Elasticsearch from the PowerShell scripting environment. In order to manage each AWS service, install the corresponding module (e.g. AWS.Tools.EC2, AWS.Tools.S3...).
-The module AWS.Tools.Installer (https://www.powershellgallery.com/packages/AWS.Tools.Installer/) makes it easier to install, update and uninstall the AWS.Tools modules.
-This version of AWS Tools for PowerShell is compatible with Windows PowerShell 5.1+ and PowerShell Core 6+ on Windows, Linux and macOS. When running on Windows PowerShell, .NET Framework 4.7.2 or newer is required. Alternative modules AWSPowerShell.NetCore and AWSPowerShell, provide support for all AWS services from a single module and also support older versions of Windows PowerShell and .NET Framework.
-
-__Downloads__: 63,660 | __Repository__: https://github.com/aws/aws-tools-for-powershell
-
-## [AWS.Tools.ElasticMapReduce](https://www.powershellgallery.com/Packages/AWS.Tools.ElasticMapReduce/4.1.637) | 4.1.637
-
-### Published: 08/16/2024 22:37:16 by Amazon.com Inc
-
-The ElasticMapReduce module of AWS Tools for PowerShell lets developers and administrators manage Amazon Elastic MapReduce from the PowerShell scripting environment. In order to manage each AWS service, install the corresponding module (e.g. AWS.Tools.EC2, AWS.Tools.S3...).
-The module AWS.Tools.Installer (https://www.powershellgallery.com/packages/AWS.Tools.Installer/) makes it easier to install, update and uninstall the AWS.Tools modules.
-This version of AWS Tools for PowerShell is compatible with Windows PowerShell 5.1+ and PowerShell Core 6+ on Windows, Linux and macOS. When running on Windows PowerShell, .NET Framework 4.7.2 or newer is required. Alternative modules AWSPowerShell.NetCore and AWSPowerShell, provide support for all AWS services from a single module and also support older versions of Windows PowerShell and .NET Framework.
-
-__Downloads__: 17,863 | __Repository__: https://github.com/aws/aws-tools-for-powershell
-
-## [AWS.Tools.ElasticLoadBalancingV2](https://www.powershellgallery.com/Packages/AWS.Tools.ElasticLoadBalancingV2/4.1.637) | 4.1.637
-
-### Published: 08/16/2024 22:37:09 by Amazon.com Inc
-
-The ElasticLoadBalancingV2 module of AWS Tools for PowerShell lets developers and administrators manage Elastic Load Balancing V2 from the PowerShell scripting environment. In order to manage each AWS service, install the corresponding module (e.g. AWS.Tools.EC2, AWS.Tools.S3...).
-The module AWS.Tools.Installer (https://www.powershellgallery.com/packages/AWS.Tools.Installer/) makes it easier to install, update and uninstall the AWS.Tools modules.
-This version of AWS Tools for PowerShell is compatible with Windows PowerShell 5.1+ and PowerShell Core 6+ on Windows, Linux and macOS. When running on Windows PowerShell, .NET Framework 4.7.2 or newer is required. Alternative modules AWSPowerShell.NetCore and AWSPowerShell, provide support for all AWS services from a single module and also support older versions of Windows PowerShell and .NET Framework.
-
-__Downloads__: 228,370 | __Repository__: https://github.com/aws/aws-tools-for-powershell
-
-## [AWS.Tools.ElasticLoadBalancing](https://www.powershellgallery.com/Packages/AWS.Tools.ElasticLoadBalancing/4.1.637) | 4.1.637
-
-### Published: 08/16/2024 22:37:03 by Amazon.com Inc
-
-The ElasticLoadBalancing module of AWS Tools for PowerShell lets developers and administrators manage Elastic Load Balancing from the PowerShell scripting environment. In order to manage each AWS service, install the corresponding module (e.g. AWS.Tools.EC2, AWS.Tools.S3...).
-The module AWS.Tools.Installer (https://www.powershellgallery.com/packages/AWS.Tools.Installer/) makes it easier to install, update and uninstall the AWS.Tools modules.
-This version of AWS Tools for PowerShell is compatible with Windows PowerShell 5.1+ and PowerShell Core 6+ on Windows, Linux and macOS. When running on Windows PowerShell, .NET Framework 4.7.2 or newer is required. Alternative modules AWSPowerShell.NetCore and AWSPowerShell, provide support for all AWS services from a single module and also support older versions of Windows PowerShell and .NET Framework.
-
-__Downloads__: 103,947 | __Repository__: https://github.com/aws/aws-tools-for-powershell
-
-*Updated: Saturday, 17 August 2024 09:51:36 UTC*
+*Updated: Saturday, 17 August 2024 17:51:40 UTC*

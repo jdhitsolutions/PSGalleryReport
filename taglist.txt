@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Saturday, 17 August 2024 09:51:46 UTC
+Updated: Saturday, 17 August 2024 17:51:50 UTC
 
 .bat
 .env
@@ -627,7 +627,6 @@ auvik
 availability
 availabilityset
 avalara
-avatar
 avd
 ave
 avepoint
@@ -906,7 +905,6 @@ block
 block-kit
 blockchain
 blocks
-blog
 blogs
 bloodhound
 bloxone
@@ -936,6 +934,7 @@ bool
 boolean
 bootloader psmodule
 bootstrap
+bootstrapping
 bop
 bot
 bots
@@ -1839,10 +1838,7 @@ db
 db2
 dba
 dbaas
-dbai
 dbase
-dbassistant
-dbatools
 dbcommand
 dbeaver
 dbfs
@@ -2562,7 +2558,6 @@ extensions
 external
 externalip
 extract
-extraction
 extractor
 extreme-networks
 eye-candy
@@ -2834,7 +2829,6 @@ fullscreen
 fun
 function
 function-testing
-functionality
 functionalprogramming
 functionapp
 functions
@@ -2859,8 +2853,11 @@ gameserver
 gaming
 garage
 gas
+gat
 gateway
 gauge
+gavin
+gavineke
 gc
 gcbdr
 gce
@@ -3005,7 +3002,6 @@ google-chrome
 google-fonts
 google-histogram
 google-sankey
-google-table
 googleadsv2
 googlecloudplatform
 googledrive
@@ -3129,7 +3125,6 @@ hardlink
 hardmatch
 hardware
 harperdb
-hartokens
 harvest
 harvestforecast
 hash
@@ -3232,6 +3227,7 @@ hls
 hockey
 hol
 holiday
+home
 home_automation
 homebrew
 homelandsecurity
@@ -3850,7 +3846,6 @@ learnpowershell
 lease
 leftjoin
 legacy
-legacyad
 legends
 lego
 lein
@@ -4323,7 +4318,6 @@ mixedreality
 mixer
 mkdocs
 mkpasswd
-mksapiviewer
 ml
 ml.net
 mlflow
@@ -4655,6 +4649,8 @@ nord
 nordtools
 normal
 norskale
+norway
+norwegian
 nos
 nosql
 note
@@ -4694,7 +4690,6 @@ ntdll
 ntds
 ntfs
 ntp
-ntsystems
 nuget
 nuget-references
 nuget.exe
@@ -5143,6 +5138,7 @@ pipenv
 pipescript
 piraeus
 piv
+pivot
 pivotal
 pivottable
 pixoo
@@ -5389,7 +5385,6 @@ powershelluniversal
 powershellv5
 powerstig
 powerstore
-powertab
 powertoolcmdlets
 powertooldsc
 ppdm
@@ -8453,6 +8448,9 @@ pspath
 pspersonio
 pspowerhour
 psprofiler
+psproject
+psprojectcreator
+psprojectgenerator
 psprovider
 psprtg
 pspublicapi
@@ -8495,8 +8493,6 @@ psword
 pswriteword
 psyaml
 pszabbix
-ptc
-ptcintegrity
 pubg
 public
 public-key
@@ -8712,6 +8708,7 @@ redis
 redisenterprisecache
 redistributables
 redkite
+redseal
 redshift
 redteaming
 redundancy
@@ -8740,7 +8737,6 @@ region
 regions
 regiser-argumentcompleter
 register
-register-argumentcompleter
 registered
 registrar
 registration
@@ -9227,13 +9223,13 @@ send-mailmessage
 send-message
 senderid
 sendgrid
-sendkeys
 sendmail
 sense
 sensitive
 sensitivity
 sensor
 sensors
+sensu
 sentinel
 sentinelone
 sentry
@@ -9358,6 +9354,7 @@ shopify
 shortcut
 shortcuts
 shortpath
+shotgun
 show
 show-command
 show-objecttree
@@ -9429,6 +9426,7 @@ skytap
 slack
 slash
 slashcommands
+slideshow
 slmgr
 sln
 slugify
@@ -9803,6 +9801,7 @@ sudo
 sugar
 sugarcrm
 suggestion
+suitecrm
 sullivan
 summary
 summit
@@ -10061,7 +10060,6 @@ theme
 themes
 thermal
 thermostat
-thinprint
 third-party-libraries
 third-party-notice
 thispc
@@ -10123,6 +10121,7 @@ tokenlifetime
 tokens
 toml
 tonoref
+tookit
 tool
 toolbox
 toolkit
@@ -10143,7 +10142,6 @@ totp
 touch
 toughswitch
 tower
-tphubps
 tpm
 tr-064
 tr064
@@ -10461,7 +10459,6 @@ utm
 uudecode
 uuencode
 uuid
-uw
 uwp
 ux
 v20
@@ -10696,7 +10693,6 @@ warraty
 warrenty
 wasabi
 watch
-watchdog
 watchguard
 watchmen
 watery
@@ -10825,7 +10821,6 @@ win32-api
 win32appmigrationtool
 win32shutdown
 winbgp
-windchillrv&s
 window
 windows
 windows  server
@@ -10912,11 +10907,6 @@ winui
 wireless
 wirelessnetwork
 wireshark
-wisc
-wiscmail
-wisco365
-wisconsin-madison
-wisconsin'uw-madison
 wisdom
 with
 wiz
