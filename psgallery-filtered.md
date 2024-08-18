@@ -3,6 +3,39 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [Posh-ACME.net46](https://www.powershellgallery.com/Packages/Posh-ACME.net46/4.25.0) | 4.25.0
+
+### Published: 08/18/2024 17:00:29 by Ryan Bolger
+
+ACME protocol client for obtaining certificates using Let''s Encrypt (or other ACME compliant CA)
+This is a custom build intended allow compatibility with .NET 4.6.1. It should not be used with PowerShell Core and you should only attempt to use RSA based key options.
+
+__Downloads__: 7,211 | __Repository__: https://github.com/rmbolger/Posh-ACME
+
+## [Posh-ACME](https://www.powershellgallery.com/Packages/Posh-ACME/4.25.0) | 4.25.0
+
+### Published: 08/18/2024 16:56:38 by Ryan Bolger
+
+ACME protocol client for obtaining certificates using Let's Encrypt (or other ACME compliant CA)
+
+__Downloads__: 1,843,493 | __Repository__: https://github.com/rmbolger/Posh-ACME
+
+## [PSCompletions](https://www.powershellgallery.com/Packages/PSCompletions/4.3.2) | 4.3.2
+
+### Published: 08/18/2024 13:14:33 by abgox
+
+A completion manager for better and simpler use powershell completions. For more information, please visit the project or website: https://github.com/abgox/PSCompletions | https://gitee.com/abgox/PSCompletions | https://pscompletions.pages.dev
+
+__Downloads__: 5,904 | __Repository__: https://github.com/abgox/PSCompletions
+
+## [UiPathOrch](https://www.powershellgallery.com/Packages/UiPathOrch/0.9.6.6) | 0.9.6.6
+
+### Published: 08/18/2024 12:14:32 by Yoshifumi Tsuda
+
+A PowerShell provider for managing UiPath Orchestrator entities via cmdlets.
+
+__Downloads__: 919 | __Repository__: 
+
 ## [easypeasy](https://www.powershellgallery.com/Packages/easypeasy/1.4.2) | 1.4.2
 
 ### Published: 08/18/2024 09:00:23 by Igor Akkerman
@@ -10,14 +43,6 @@ These are the latest 250 modules published to the [PowerShell Gallery](https://p
 Collection of utility functions and aliases to simplify and automate common tasks in Windows environments.
 
 __Downloads__: 254 | __Repository__: https://github.com/igorakkerman/easypeasy
-
-## [PSCompletions](https://www.powershellgallery.com/Packages/PSCompletions/4.3.1) | 4.3.1
-
-### Published: 08/18/2024 04:17:17 by abgox
-
-A completion manager for better and simpler use powershell completions. For more information, please visit the project or website: https://github.com/abgox/PSCompletions | https://gitee.com/abgox/PSCompletions | https://pscompletions.pages.dev
-
-__Downloads__: 5,904 | __Repository__: https://github.com/abgox/PSCompletions
 
 ## [Nevergreen](https://www.powershellgallery.com/Packages/Nevergreen/2408.1) | 2408.1
 
@@ -67,13 +92,13 @@ This module contains common classes that can be used for class-based DSC resourc
 
 __Downloads__: 39,236 | __Repository__: https://github.com/dsccommunity/DscResource.Base
 
-## [UiPathOrch](https://www.powershellgallery.com/Packages/UiPathOrch/0.9.6.5) | 0.9.6.5
+## [EnhancedWin32DeployerAO](https://www.powershellgallery.com/Packages/EnhancedWin32DeployerAO/0.0.16) | 0.0.16
 
-### Published: 08/17/2024 04:57:30 by Yoshifumi Tsuda
+### Published: 08/17/2024 00:18:10 by Abdullah Ollivierre
 
-A PowerShell provider for managing UiPath Orchestrator entities via cmdlets.
+EnhancedWin32DeployerAO for PowerShell scripts.
 
-__Downloads__: 919 | __Repository__: 
+__Downloads__: 30 | __Repository__: 
 
 ## [EnhancedSPOAO](https://www.powershellgallery.com/Packages/EnhancedSPOAO/0.0.16) | 0.0.16
 
@@ -83,22 +108,6 @@ EnhancedSPOAO for PowerShell scripts.
 
 __Downloads__: 23 | __Repository__: 
 
-## [EnhancedWin32DeployerAO](https://www.powershellgallery.com/Packages/EnhancedWin32DeployerAO/0.0.16) | 0.0.16
-
-### Published: 08/17/2024 00:18:10 by Abdullah Ollivierre
-
-EnhancedWin32DeployerAO for PowerShell scripts.
-
-__Downloads__: 30 | __Repository__: 
-
-## [EnhancedSchedTaskAO](https://www.powershellgallery.com/Packages/EnhancedSchedTaskAO/0.0.16) | 0.0.16
-
-### Published: 08/17/2024 00:18:09 by Abdullah Ollivierre
-
-EnhancedSchedTaskAO for PowerShell scripts.
-
-__Downloads__: 32 | __Repository__: 
-
 ## [EnhancedVPNAO](https://www.powershellgallery.com/Packages/EnhancedVPNAO/0.0.16) | 0.0.16
 
 ### Published: 08/17/2024 00:18:09 by Abdullah Ollivierre
@@ -107,14 +116,6 @@ EnhancedVPNAO for PowerShell scripts.
 
 __Downloads__: 30 | __Repository__: 
 
-## [EnhancedPSADTAO](https://www.powershellgallery.com/Packages/EnhancedPSADTAO/0.0.16) | 0.0.16
-
-### Published: 08/17/2024 00:18:08 by Abdullah Ollivierre
-
-EnhancedPSADTAO for PowerShell scripts.
-
-__Downloads__: 36 | __Repository__: 
-
 ## [EnhancedLoggingAO](https://www.powershellgallery.com/Packages/EnhancedLoggingAO/0.0.16) | 0.0.16
 
 ### Published: 08/17/2024 00:18:08 by Abdullah Ollivierre
@@ -122,6 +123,14 @@ __Downloads__: 36 | __Repository__:
 EnhancedLoggingAO for PowerShell scripts.
 
 __Downloads__: 41 | __Repository__: 
+
+## [EnhancedPSADTAO](https://www.powershellgallery.com/Packages/EnhancedPSADTAO/0.0.16) | 0.0.16
+
+### Published: 08/17/2024 00:18:08 by Abdullah Ollivierre
+
+EnhancedPSADTAO for PowerShell scripts.
+
+__Downloads__: 36 | __Repository__: 
 
 ## [EnhancedHyperVAO](https://www.powershellgallery.com/Packages/EnhancedHyperVAO/0.0.16) | 0.0.16
 
@@ -221,14 +230,6 @@ Harden Sysvol is a Powershell Module to scan sysvol folder to search the sensiti
 
 __Downloads__: 32 | __Repository__: https://github.com/dakhama-mehdi/CheckSysvolsecurity
 
-## [AzureResourceInventory](https://www.powershellgallery.com/Packages/AzureResourceInventory/3.4.10) | 3.4.10
-
-### Published: 08/16/2024 16:06:05 by Claudio Merola
-
-Azure Resource Inventory - Its a Powerful tool to create EXCEL inventory from Azure Resources with low effort
-
-__Downloads__: 24 | __Repository__: https://github.com/microsoft/ARI
-
 ## [WindmillClient](https://www.powershellgallery.com/Packages/WindmillClient/1.381.0) | 1.381.0
 
 ### Published: 08/16/2024 15:35:52 by Windmill Labs
@@ -251,7 +252,7 @@ __Downloads__: 76 | __Repository__: https://gitlab.com/xtec/box/
 
 Redirects stanard Write-* cmdlets to a log and offers some basic tracing functions
 
-__Downloads__: 62,218 | __Repository__: https://github.com/AutomatedLab/AutomatedLab
+__Downloads__: 62,220 | __Repository__: https://github.com/AutomatedLab/AutomatedLab
 
 ## [PSFileTransfer](https://www.powershellgallery.com/Packages/PSFileTransfer/5.54.0) | 5.54.0
 
@@ -259,7 +260,7 @@ __Downloads__: 62,218 | __Repository__: https://github.com/AutomatedLab/Automate
 
 This module packages functions created by Lee Holmes for transfering files over PowerShell Remoting
 
-__Downloads__: 67,815 | __Repository__: https://github.com/AutomatedLab/AutomatedLab
+__Downloads__: 67,813 | __Repository__: https://github.com/AutomatedLab/AutomatedLab
 
 ## [HostsFile](https://www.powershellgallery.com/Packages/HostsFile/5.54.0) | 5.54.0
 
@@ -267,7 +268,7 @@ __Downloads__: 67,815 | __Repository__: https://github.com/AutomatedLab/Automate
 
 This module provides management of hosts file content
 
-__Downloads__: 60,275 | __Repository__: https://github.com/AutomatedLab/AutomatedLab
+__Downloads__: 60,277 | __Repository__: https://github.com/AutomatedLab/AutomatedLab
 
 ## [AutomatedLabWorker](https://www.powershellgallery.com/Packages/AutomatedLabWorker/5.54.0) | 5.54.0
 
@@ -275,7 +276,7 @@ __Downloads__: 60,275 | __Repository__: https://github.com/AutomatedLab/Automate
 
 This module encapsulates all the work activities to prepare the lab
 
-__Downloads__: 60,476 | __Repository__: https://github.com/AutomatedLab/AutomatedLab
+__Downloads__: 60,477 | __Repository__: https://github.com/AutomatedLab/AutomatedLab
 
 ## [AutomatedLabUnattended](https://www.powershellgallery.com/Packages/AutomatedLabUnattended/5.54.0) | 5.54.0
 
@@ -283,7 +284,7 @@ __Downloads__: 60,476 | __Repository__: https://github.com/AutomatedLab/Automate
 
 The module is managing settings inside an unattended.xml file
 
-__Downloads__: 64,283 | __Repository__: https://github.com/AutomatedLab/AutomatedLab
+__Downloads__: 64,284 | __Repository__: https://github.com/AutomatedLab/AutomatedLab
 
 ## [AutomatedLabTest](https://www.powershellgallery.com/Packages/AutomatedLabTest/5.54.0) | 5.54.0
 
@@ -299,7 +300,7 @@ __Downloads__: 40,940 | __Repository__: https://github.com/AutomatedLab/Automate
 
 This module uses pluggable providers to send various kinds of notifications for AutomatedLab
 
-__Downloads__: 70,840 | __Repository__: https://github.com/AutomatedLab/AutomatedLab
+__Downloads__: 70,839 | __Repository__: https://github.com/AutomatedLab/AutomatedLab
 
 ## [AutomatedLabDefinition](https://www.powershellgallery.com/Packages/AutomatedLabDefinition/5.54.0) | 5.54.0
 
@@ -307,7 +308,7 @@ __Downloads__: 70,840 | __Repository__: https://github.com/AutomatedLab/Automate
 
 The module creates the lab and machine definition for the AutomatedLab module saved in XML
 
-__Downloads__: 58,531 | __Repository__: https://github.com/AutomatedLab/AutomatedLab
+__Downloads__: 58,532 | __Repository__: https://github.com/AutomatedLab/AutomatedLab
 
 ## [AutomatedLabCore](https://www.powershellgallery.com/Packages/AutomatedLabCore/5.54.0) | 5.54.0
 
@@ -315,7 +316,7 @@ __Downloads__: 58,531 | __Repository__: https://github.com/AutomatedLab/Automate
 
 Automated lab environments with ease - Linux and Windows, Hyper-V and Azure
 
-__Downloads__: 24,165 | __Repository__: https://github.com/AutomatedLab/AutomatedLab
+__Downloads__: 24,164 | __Repository__: https://github.com/AutomatedLab/AutomatedLab
 
 ## [AutomatedLab.Ships](https://www.powershellgallery.com/Packages/AutomatedLab.Ships/5.54.0) | 5.54.0
 
@@ -339,7 +340,7 @@ __Downloads__: 27,755 | __Repository__: https://github.com/AutomatedLab/Automate
 
 Automated lab environments with ease - Linux and Windows, Hyper-V and Azure
 
-__Downloads__: 57,009 | __Repository__: https://github.com/AutomatedLab/AutomatedLab
+__Downloads__: 57,010 | __Repository__: https://github.com/AutomatedLab/AutomatedLab
 
 ## [NinjaOne](https://www.powershellgallery.com/Packages/NinjaOne/2.0.1) | 2.0.1
 
@@ -347,7 +348,7 @@ __Downloads__: 57,009 | __Repository__: https://github.com/AutomatedLab/Automate
 
 This module provides an interface to the NinjaOne API.
 
-__Downloads__: 13,353 | __Repository__: https://github.com/homotechsual/NinjaOne
+__Downloads__: 13,352 | __Repository__: https://github.com/homotechsual/NinjaOne
 
 ## [UncommonSense.Volkskrant](https://www.powershellgallery.com/Packages/UncommonSense.Volkskrant/0.0.51.0) | 0.0.51.0
 
@@ -395,7 +396,7 @@ __Downloads__: 7,906 | __Repository__: https://github.com/IPSecMSSP/misp.tools
 
 PowerShell module for OpenAI API
 
-__Downloads__: 4,571 | __Repository__: https://github.com/mkht/PSOpenAI
+__Downloads__: 4,572 | __Repository__: https://github.com/mkht/PSOpenAI
 
 ## [Particular.ServiceControl.Management](https://www.powershellgallery.com/Packages/Particular.ServiceControl.Management/5.6.1) | 5.6.1
 
@@ -483,7 +484,7 @@ __Downloads__: 4,281 | __Repository__: https://github.com/anypackage/scoop
 
 Use various package managers with a single set of commands.
 
-__Downloads__: 26,080 | __Repository__: https://github.com/anypackage/anypackage
+__Downloads__: 26,079 | __Repository__: https://github.com/anypackage/anypackage
 
 ## [Scoop](https://www.powershellgallery.com/Packages/Scoop/0.2.0) | 0.2.0
 
@@ -644,7 +645,7 @@ __Downloads__: 132 | __Repository__: https://github.com/Mark5900/Capa.PowerShell
 PowerShell module for CapaInstaller PowerPacks containing functions for Sys commands.
 	For more information, see https://capasystems.atlassian.net/wiki/spaces/CI65DOC/pages/19462455297/PowerShell+Scripting+Library
 
-__Downloads__: 3,319 | __Repository__: https://github.com/Mark5900/Capa.PowerShell.Module
+__Downloads__: 3,318 | __Repository__: https://github.com/Mark5900/Capa.PowerShell.Module
 
 ## [Capa.PowerShell.Module.PowerPack.Log](https://www.powershellgallery.com/Packages/Capa.PowerShell.Module.PowerPack.Log/1.8.3) | 1.8.3
 
@@ -653,7 +654,7 @@ __Downloads__: 3,319 | __Repository__: https://github.com/Mark5900/Capa.PowerShe
 PowerShell module for CapaInstaller PowerPacks containing functions for Log commands.
 	For more information, see https://capasystems.atlassian.net/wiki/spaces/CI65DOC/pages/19462455297/PowerShell+Scripting+Library
 
-__Downloads__: 3,333 | __Repository__: https://github.com/Mark5900/Capa.PowerShell.Module
+__Downloads__: 3,332 | __Repository__: https://github.com/Mark5900/Capa.PowerShell.Module
 
 ## [Capa.PowerShell.Module.PowerPack.MSI](https://www.powershellgallery.com/Packages/Capa.PowerShell.Module.PowerPack.MSI/1.8.3) | 1.8.3
 
@@ -662,7 +663,7 @@ __Downloads__: 3,333 | __Repository__: https://github.com/Mark5900/Capa.PowerShe
 PowerShell module for CapaInstaller PowerPacks containing functions for MSI commands.
 	For more information, see https://capasystems.atlassian.net/wiki/spaces/CI65DOC/pages/19462455297/PowerShell+Scripting+Library
 
-__Downloads__: 3,342 | __Repository__: https://github.com/Mark5900/Capa.PowerShell.Module
+__Downloads__: 3,341 | __Repository__: https://github.com/Mark5900/Capa.PowerShell.Module
 
 ## [Capa.PowerShell.Module.PowerPack.Reg](https://www.powershellgallery.com/Packages/Capa.PowerShell.Module.PowerPack.Reg/1.8.3) | 1.8.3
 
@@ -671,7 +672,7 @@ __Downloads__: 3,342 | __Repository__: https://github.com/Mark5900/Capa.PowerShe
 PowerShell module for CapaInstaller PowerPacks containing functions for Registry commands.
 	For more information, see https://capasystems.atlassian.net/wiki/spaces/CI65DOC/pages/19462455297/PowerShell+Scripting+Library
 
-__Downloads__: 3,341 | __Repository__: https://github.com/Mark5900/Capa.PowerShell.Module
+__Downloads__: 3,340 | __Repository__: https://github.com/Mark5900/Capa.PowerShell.Module
 
 ## [Capa.PowerShell.Module.SDK.Utilities](https://www.powershellgallery.com/Packages/Capa.PowerShell.Module.SDK.Utilities/1.8.3) | 1.8.3
 
@@ -689,7 +690,7 @@ __Downloads__: 134 | __Repository__: https://github.com/Mark5900/Capa.PowerShell
 PowerShell module for CapaInstaller PowerPacks containing functions for Ini commands.
 	For more information, see https://capasystems.atlassian.net/wiki/spaces/CI65DOC/pages/19462455297/PowerShell+Scripting+Library
 
-__Downloads__: 3,333 | __Repository__: https://github.com/Mark5900/Capa.PowerShell.Module
+__Downloads__: 3,332 | __Repository__: https://github.com/Mark5900/Capa.PowerShell.Module
 
 ## [Capa.PowerShell.Module.PowerPack.CMS](https://www.powershellgallery.com/Packages/Capa.PowerShell.Module.PowerPack.CMS/1.8.3) | 1.8.3
 
@@ -725,7 +726,7 @@ __Downloads__: 131 | __Repository__: https://github.com/Mark5900/Capa.PowerShell
 PowerShell module for CapaInstaller PowerPacks containing functions for Job commands.
 	For more information, see https://capasystems.atlassian.net/wiki/spaces/CI65DOC/pages/19462455297/PowerShell+Scripting+Library
 
-__Downloads__: 3,343 | __Repository__: https://github.com/Mark5900/Capa.PowerShell.Module
+__Downloads__: 3,342 | __Repository__: https://github.com/Mark5900/Capa.PowerShell.Module
 
 ## [Capa.PowerShell.Module.PowerPack.Exit](https://www.powershellgallery.com/Packages/Capa.PowerShell.Module.PowerPack.Exit/1.8.3) | 1.8.3
 
@@ -743,7 +744,7 @@ __Downloads__: 122 | __Repository__: https://github.com/Mark5900/Capa.PowerShell
 PowerShell module for CapaInstaller PowerPacks containing functions for File commands.
 	For more information, see https://capasystems.atlassian.net/wiki/spaces/CI65DOC/pages/19462455297/PowerShell+Scripting+Library
 
-__Downloads__: 3,334 | __Repository__: https://github.com/Mark5900/Capa.PowerShell.Module
+__Downloads__: 3,333 | __Repository__: https://github.com/Mark5900/Capa.PowerShell.Module
 
 ## [Capa.PowerShell.Module.PowerPack.Shell](https://www.powershellgallery.com/Packages/Capa.PowerShell.Module.PowerPack.Shell/1.8.3) | 1.8.3
 
@@ -752,7 +753,7 @@ __Downloads__: 3,334 | __Repository__: https://github.com/Mark5900/Capa.PowerShe
 PowerShell module for CapaInstaller PowerPacks containing functions for Shell commands.
 	For more information, see https://capasystems.atlassian.net/wiki/spaces/CI65DOC/pages/19462455297/PowerShell+Scripting+Library
 
-__Downloads__: 3,333 | __Repository__: https://github.com/Mark5900/Capa.PowerShell.Module
+__Downloads__: 3,332 | __Repository__: https://github.com/Mark5900/Capa.PowerShell.Module
 
 ## [Capa.PowerShell.Module.PowerPack.UsrMgr](https://www.powershellgallery.com/Packages/Capa.PowerShell.Module.PowerPack.UsrMgr/1.8.3) | 1.8.3
 
@@ -761,7 +762,7 @@ __Downloads__: 3,333 | __Repository__: https://github.com/Mark5900/Capa.PowerShe
 PowerShell module for CapaInstaller PowerPacks containing functions for User Manager commands.
 	For more information, see https://capasystems.atlassian.net/wiki/spaces/CI65DOC/pages/19462455297/PowerShell+Scripting+Library
 
-__Downloads__: 3,321 | __Repository__: https://github.com/Mark5900/Capa.PowerShell.Module
+__Downloads__: 3,320 | __Repository__: https://github.com/Mark5900/Capa.PowerShell.Module
 
 ## [Capa.PowerShell.Module.SDK.OSDeployment](https://www.powershellgallery.com/Packages/Capa.PowerShell.Module.SDK.OSDeployment/1.8.3) | 1.8.3
 
@@ -787,7 +788,7 @@ __Downloads__: 3,201 | __Repository__: https://github.com/Mark5900/Capa.PowerShe
 PowerShell module for CapaInstaller PowerPacks containing functions for Service commands.
 	For more information, see https://capasystems.atlassian.net/wiki/spaces/CI65DOC/pages/19462455297/PowerShell+Scripting+Library
 
-__Downloads__: 3,341 | __Repository__: https://github.com/Mark5900/Capa.PowerShell.Module
+__Downloads__: 3,340 | __Repository__: https://github.com/Mark5900/Capa.PowerShell.Module
 
 ## [Capa.PowerShell.Module.SDK.Authentication](https://www.powershellgallery.com/Packages/Capa.PowerShell.Module.SDK.Authentication/1.8.3) | 1.8.3
 
@@ -828,7 +829,7 @@ __Downloads__: 3,866 | __Repository__: https://github.com/dfinke/PSAI
 
 Simple project allowing preparing, managing, building and publishing modules to PowerShellGallery
 
-__Downloads__: 2,172 | __Repository__: https://github.com/EvotecIT/PSPublishModule
+__Downloads__: 2,170 | __Repository__: https://github.com/EvotecIT/PSPublishModule
 
 ## [ProfileAsync](https://www.powershellgallery.com/Packages/ProfileAsync/0.1.0) | 0.1.0
 
@@ -892,7 +893,7 @@ __Downloads__: 43 | __Repository__: https://github.com/xasz/3CX
 
 Intersight Powershell module provides the cmdlets to manage, analyze, and automate the IT infrastructure in Intersight.
 
-__Downloads__: 10,837 | __Repository__: https://github.com/CiscoDevNet/intersight-powershell
+__Downloads__: 10,838 | __Repository__: https://github.com/CiscoDevNet/intersight-powershell
 
 ## [OCI.PSModules](https://www.powershellgallery.com/Packages/OCI.PSModules/88.1.0) | 88.1.0
 
@@ -1901,7 +1902,7 @@ __Downloads__: 7,084 | __Repository__: https://github.com/oracle/oci-powershell-
 
 This modules provides Cmdlets for OCI Audit Service
 
-__Downloads__: 7,319 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+__Downloads__: 7,318 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
 ## [OCI.PSModules.Artifacts](https://www.powershellgallery.com/Packages/OCI.PSModules.Artifacts/88.1.0) | 88.1.0
 
@@ -2031,4 +2032,4 @@ This modules provides Cmdlets for OCI Accessgovernancecp Service
 
 __Downloads__: 3,829 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-*Updated: Sunday, 18 August 2024 09:51:43 UTC*
+*Updated: Sunday, 18 August 2024 17:51:57 UTC*
