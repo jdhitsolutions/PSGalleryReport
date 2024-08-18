@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Sunday, 18 August 2024 09:51:51 UTC
+Updated: Sunday, 18 August 2024 17:52:05 UTC
 
 .bat
 .env
@@ -136,6 +136,7 @@ activenetworkstation
 activenetworkstationservice
 activeresponse
 activesession
+activiti
 activities
 activity
 activitycount
@@ -481,7 +482,6 @@ argcomplete
 argument
 argumentcompleter
 arguments
-ari
 arm
 arm-json
 arm-templates
@@ -622,7 +622,6 @@ autoupdate
 autoupdate-script
 autowrapper
 autoyast
-auvik
 availability
 availabilityset
 avalara
@@ -630,7 +629,6 @@ avatar
 avd
 ave
 avepoint
-avi
 avm
 avmtools
 avro
@@ -743,7 +741,6 @@ azurepipelines
 azurepolicy
 azurepowershell
 azurerepos
-azureresourceinventory
 azureresourcemanager
 azureresources
 azureresourcestuff
@@ -945,6 +942,7 @@ boundaries
 boundarygroups
 bounty
 box
+bpmn
 brainy
 branch
 branch-rename
@@ -1488,6 +1486,7 @@ connectionsmanager
 connectionstring
 connectivity
 connector
+connectorcmd
 connectormanagement
 connectwise
 conservation
@@ -1837,10 +1836,7 @@ db
 db2
 dba
 dbaas
-dbai
 dbase
-dbassistant
-dbatools
 dbcommand
 dbeaver
 dbfs
@@ -1969,6 +1965,7 @@ dfir
 dfs
 dfw
 dg
+dhash
 dhcp
 di
 diagnostic
@@ -2388,7 +2385,6 @@ environments
 environmentvariable
 environmentvariables
 envvar
-envvars
 eol
 eop
 eperl
@@ -2805,6 +2801,8 @@ freshworks
 friendly
 fritz
 fritzbox
+front
+frontapp
 frontdoor
 frontrange
 fs
@@ -2890,7 +2888,6 @@ generator
 generic
 genericartifactscontent
 genetic-algorithm
-genp
 genxdev
 geo
 geocache
@@ -3041,6 +3038,7 @@ graph
 graph-api
 graphapi
 graphapirequests
+graphconnector
 graphexplorer
 graphic
 graphics
@@ -3223,6 +3221,7 @@ hkey_current_user
 hkey_local_machine
 hkey_users
 hklm
+hl7
 hlds
 hls
 hockey
@@ -3380,6 +3379,7 @@ ilo5
 ilocmdlets
 im
 image
+image-comparison
 image-converter
 image-creation
 image-generation
@@ -3660,6 +3660,7 @@ join
 join-object
 jojoba
 joke
+jotform
 journal
 joyride
 jpg
@@ -3825,6 +3826,7 @@ launcher
 layer
 layman
 layout
+lazywinadmin
 lbi
 lbs
 lccn
@@ -4028,6 +4030,7 @@ ltm
 lucd
 lucene
 lunches
+lwa
 lxca
 lxcapstool
 lxco
@@ -4316,6 +4319,7 @@ mixedreality
 mixer
 mkdocs
 mkpasswd
+mksapiviewer
 ml
 ml.net
 mlflow
@@ -5075,6 +5079,7 @@ penetrationtesting
 pentesting
 pentia
 people
+perceptual-hash
 perforce
 performance
 performance-counters
@@ -5135,7 +5140,6 @@ pipenv
 pipescript
 piraeus
 piv
-pivot
 pivotal
 pivottable
 pixoo
@@ -5293,6 +5297,7 @@ poshy-wrap-yum
 poshy-wrap-zypper
 position
 post
+postcode
 postgre
 postgres
 postgresql
@@ -5527,6 +5532,7 @@ ps5
 ps6
 ps7
 psa
+psadbscreencap
 psadgroupmembers
 psadt
 psake
@@ -7345,8 +7351,6 @@ psdshook
 pse
 psedition_5
 psedition_5.1
-psedition_7.3
-psedition_7.4
 psedition_core
 psedition_desk
 psedition_desktop
@@ -8489,6 +8493,8 @@ psword
 pswriteword
 psyaml
 pszabbix
+ptc
+ptcintegrity
 pubg
 public
 public-key
@@ -8840,7 +8846,6 @@ resourcegraph
 resourcegroup
 resourcegroups
 resourceid
-resourceinventory
 resourcekit
 resourcemanager
 resourcemover
@@ -9093,6 +9098,7 @@ scrape
 scraper
 scraping
 screen
+screencap
 screencapture
 screenconnect
 screenfetch
@@ -9134,6 +9140,7 @@ sdp
 search
 search-adminauditlog
 search-engines
+searchconnector
 searchengine
 searcher
 searching
@@ -10097,8 +10104,6 @@ titan
 title
 tld
 tls
-tls11
-tls12
 tlsa
 tlsprotocol
 tlsrpt
@@ -10307,7 +10312,6 @@ ud-signature
 ud-simpledrawer
 ud-singleselect
 ud-slider
-ud-speechbubble
 ud-step
 ud-stepbar
 ud-stickynavbar
@@ -10320,6 +10324,7 @@ ud-trendline
 ud-typing
 ud-window
 ud-wordtree
+udcm
 udfeedback
 udp
 udpclient
@@ -10819,6 +10824,7 @@ win32-api
 win32appmigrationtool
 win32shutdown
 winbgp
+windchillrv&s
 window
 windows
 windows  server
@@ -11007,6 +11013,7 @@ wunderlist
 wus
 wvd
 www
+x-cart
 x.509
 x1
 x2
