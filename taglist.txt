@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Wednesday, 14 August 2024 09:51:57 UTC
+Updated: Monday, 19 August 2024 17:51:53 UTC
 
 .bat
 .env
@@ -20,6 +20,7 @@ Updated: Wednesday, 14 August 2024 09:51:57 UTC
 🍣
 💩
 🙇
+1&1
 10
 11
 1607
@@ -481,6 +482,7 @@ argcomplete
 argument
 argumentcompleter
 arguments
+ari
 arm
 arm-json
 arm-templates
@@ -505,6 +507,7 @@ asbuiltreport
 asc
 ascii
 ascii85
+asciiart
 asdatabase
 asigra
 asjob
@@ -624,6 +627,7 @@ auvik
 availability
 availabilityset
 avalara
+avatar
 avd
 ave
 avepoint
@@ -648,6 +652,8 @@ awsbedrock
 awscli
 awspricelist
 axapta
+axcient
+axcient_x360recover
 axinom
 axis
 axium
@@ -738,6 +744,7 @@ azurepipelines
 azurepolicy
 azurepowershell
 azurerepos
+azureresourceinventory
 azureresourcemanager
 azureresources
 azureresourcestuff
@@ -759,6 +766,7 @@ azurestackhci
 azurestate
 azurestorage
 azurestorageservices
+azuresync
 azuretable
 azuretestplan
 azurevirtualdesktop
@@ -825,6 +833,7 @@ bearded-avenger
 bearer
 beautifier
 beautify
+bec
 beckhoff
 bedrock
 beep
@@ -1000,6 +1009,7 @@ burnttoast
 burpsuite
 bus
 business
+business_email_compromise
 businesscentral
 businessdays
 businesshours
@@ -1058,6 +1068,7 @@ carousel
 carrier
 cartoon
 case
+cassandra
 cat
 cat-names
 catalog
@@ -1252,6 +1263,7 @@ clientsettingssoftwareupdate
 clientsettingsstatemessaging
 clientsettingsuserdeviceaffinity
 clientstatussettings
+clipart
 clipasswordsdk
 clipboard
 clixml
@@ -2295,6 +2307,7 @@ elastic
 elasticsan
 elasticsearch
 elb
+element
 elevate
 elevated
 elevatedconsole
@@ -2871,8 +2884,6 @@ genai
 general
 generate
 generate-dockerimagevariants
-generate-password
-generate-random-password
 generateaddress
 generates
 generatewif
@@ -2994,6 +3005,7 @@ goldsource-dedicated-server
 google
 google-chrome
 google-fonts
+google-histogram
 google-sankey
 google-table
 googleadsv2
@@ -3091,6 +3103,7 @@ hadoop
 hafr
 haiku
 hailstone
+haipa
 halo
 haloitsm
 halopsa
@@ -3131,6 +3144,7 @@ haskell
 haste
 hastebin
 haveibeenpwned
+hawk
 hba
 hbase
 hci
@@ -3412,6 +3426,7 @@ importteams
 inactive
 inboxrule
 incident
+incident_response
 incident-response
 incidentresponse
 incontact
@@ -3536,6 +3551,7 @@ invoke-webrequest
 invokebuild
 invokemethod
 io
+ionos
 ios
 iot
 iotcentral
@@ -3859,6 +3875,7 @@ licence
 license
 license-generator
 licenseautomation
+licensemanagement
 licensemanager
 licensereport
 licenses
@@ -5075,6 +5092,7 @@ perforce
 performance
 performance-counters
 performancemonitoring
+perl
 permission
 permissions
 permutations
@@ -7319,6 +7337,7 @@ pscommand_zwp
 pscommander
 psconfasia
 psconfeu
+psconfig
 pscore
 pscredential
 pscribo
@@ -8615,7 +8634,6 @@ ram-it
 random
 random-date
 random-password
-random-password-generator
 randompassword
 randomuser
 randomusers
@@ -8838,6 +8856,7 @@ resourcegraph
 resourcegroup
 resourcegroups
 resourceid
+resourceinventory
 resourcekit
 resourcemanager
 resourcemover
@@ -9011,6 +9030,7 @@ sample
 sampler
 samurai
 san
+sand
 sandbox
 sanitization
 sanitizer
@@ -9323,7 +9343,9 @@ shared
 sharefile
 sharepoint
 sharepoint_online
+sharepoint-on-prem
 sharepoint-online
+sharepoint-product-configuration-wizard
 sharepoint2013
 sharepointdevelopmentcommunity
 sharepointonline
@@ -9532,7 +9554,6 @@ spacex
 spam
 spanner
 spark
-sparkline
 sparklines
 spawn
 spdockit
@@ -10134,7 +10155,6 @@ toshiba
 totp
 touch
 toughswitch
-tower
 tphubps
 tpm
 tr-064
@@ -10189,6 +10209,7 @@ trendmicro
 trevor
 trevorsullivan
 triangle
+tribeloo
 trick
 tricks
 trigger
@@ -10879,6 +10900,7 @@ windowsserver2019
 windowsservercoresecurity
 windowsserverguisecurity
 windowsservice
+windowsservices
 windowsstore
 windowsterminal
 windowstimezone
@@ -11008,6 +11030,7 @@ x-cart
 x.509
 x1
 x2
+x360recover
 x509
 x509cerificate
 x509cerificate2
@@ -11105,6 +11128,7 @@ zsh
 zuora
 zvm
 zvml
+zvmlinux
 zypper
 カタカナ
 ひらがな
