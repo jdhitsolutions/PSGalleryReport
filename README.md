@@ -64,7 +64,8 @@ This repository will also contain a JSON file of export PSGallery information. Y
 
 ```powershell
 $data = Get-Content psgallerydata.json | ConvertFrom-JSON
-$data | where-object {$_.name -match "(SQL)|(database)"} | Select-Object -property name,author,version,description,projecturi
+$data | where-object {$_.name -match "(SQL)|(database)"} |
+Select-Object -property name,author,version,description,projecturi
 ```
 
 ## A Note on Scripts
