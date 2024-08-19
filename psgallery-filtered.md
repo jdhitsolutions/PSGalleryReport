@@ -3,6 +3,25 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [PSAction1](https://www.powershellgallery.com/Packages/PSAction1/1.3.8) | 1.3.8
+
+### Published: 08/19/2024 02:07:56 by Gene Moody
+
+API Interface for Action1
+
+__Downloads__: 1,153 | __Repository__: 
+
+## [PSLockScreenSlideShow](https://www.powershellgallery.com/Packages/PSLockScreenSlideShow/0.0.2) | 0.0.2
+
+### Published: 08/18/2024 18:23:02 by Frank Lindenblatt (Flittermelint)
+
+Set single lockscreen image or display multiple images as slideshow.
+In contrast to the OS slideshow, each image will always be shown alone (no collage).
+Images will be displayed in the alphabetical order of the filenames (no randomness).
+Display time of each image can be individually be defined as part of the filename.
+
+__Downloads__: 8 | __Repository__: https://github.com/Flittermelint/PSLockScreenSlideShow
+
 ## [Posh-ACME.net46](https://www.powershellgallery.com/Packages/Posh-ACME.net46/4.25.0) | 4.25.0
 
 ### Published: 08/18/2024 17:00:29 by Ryan Bolger
@@ -18,7 +37,7 @@ __Downloads__: 7,211 | __Repository__: https://github.com/rmbolger/Posh-ACME
 
 ACME protocol client for obtaining certificates using Let's Encrypt (or other ACME compliant CA)
 
-__Downloads__: 1,843,493 | __Repository__: https://github.com/rmbolger/Posh-ACME
+__Downloads__: 1,843,504 | __Repository__: https://github.com/rmbolger/Posh-ACME
 
 ## [PSCompletions](https://www.powershellgallery.com/Packages/PSCompletions/4.3.2) | 4.3.2
 
@@ -92,6 +111,14 @@ This module contains common classes that can be used for class-based DSC resourc
 
 __Downloads__: 39,236 | __Repository__: https://github.com/dsccommunity/DscResource.Base
 
+## [EnhancedSPOAO](https://www.powershellgallery.com/Packages/EnhancedSPOAO/0.0.16) | 0.0.16
+
+### Published: 08/17/2024 00:18:10 by Abdullah Ollivierre
+
+EnhancedSPOAO for PowerShell scripts.
+
+__Downloads__: 23 | __Repository__: 
+
 ## [EnhancedWin32DeployerAO](https://www.powershellgallery.com/Packages/EnhancedWin32DeployerAO/0.0.16) | 0.0.16
 
 ### Published: 08/17/2024 00:18:10 by Abdullah Ollivierre
@@ -100,13 +127,13 @@ EnhancedWin32DeployerAO for PowerShell scripts.
 
 __Downloads__: 30 | __Repository__: 
 
-## [EnhancedSPOAO](https://www.powershellgallery.com/Packages/EnhancedSPOAO/0.0.16) | 0.0.16
+## [EnhancedSchedTaskAO](https://www.powershellgallery.com/Packages/EnhancedSchedTaskAO/0.0.16) | 0.0.16
 
-### Published: 08/17/2024 00:18:10 by Abdullah Ollivierre
+### Published: 08/17/2024 00:18:09 by Abdullah Ollivierre
 
-EnhancedSPOAO for PowerShell scripts.
+EnhancedSchedTaskAO for PowerShell scripts.
 
-__Downloads__: 23 | __Repository__: 
+__Downloads__: 32 | __Repository__: 
 
 ## [EnhancedVPNAO](https://www.powershellgallery.com/Packages/EnhancedVPNAO/0.0.16) | 0.0.16
 
@@ -132,14 +159,6 @@ EnhancedPSADTAO for PowerShell scripts.
 
 __Downloads__: 36 | __Repository__: 
 
-## [EnhancedHyperVAO](https://www.powershellgallery.com/Packages/EnhancedHyperVAO/0.0.16) | 0.0.16
-
-### Published: 08/17/2024 00:18:07 by Abdullah Ollivierre
-
-EnhancedHyperVAO for PowerShell scripts.
-
-__Downloads__: 30 | __Repository__: 
-
 ## [EnhancedGraphAO](https://www.powershellgallery.com/Packages/EnhancedGraphAO/0.0.16) | 0.0.16
 
 ### Published: 08/17/2024 00:18:07 by Abdullah Ollivierre
@@ -148,11 +167,27 @@ EnhancedGraphAO for PowerShell scripts.
 
 __Downloads__: 34 | __Repository__: 
 
+## [EnhancedHyperVAO](https://www.powershellgallery.com/Packages/EnhancedHyperVAO/0.0.16) | 0.0.16
+
+### Published: 08/17/2024 00:18:07 by Abdullah Ollivierre
+
+EnhancedHyperVAO for PowerShell scripts.
+
+__Downloads__: 30 | __Repository__: 
+
 ## [EnhancedDeviceMigrationAO](https://www.powershellgallery.com/Packages/EnhancedDeviceMigrationAO/0.0.16) | 0.0.16
 
 ### Published: 08/17/2024 00:18:06 by Abdullah Ollivierre
 
 EnhancedDeviceMigrationAO for PowerShell scripts.
+
+__Downloads__: 32 | __Repository__: 
+
+## [EnhancedFileManagerAO](https://www.powershellgallery.com/Packages/EnhancedFileManagerAO/0.0.16) | 0.0.16
+
+### Published: 08/17/2024 00:18:06 by Abdullah Ollivierre
+
+EnhancedFileManagerAO for PowerShell scripts.
 
 __Downloads__: 32 | __Repository__: 
 
@@ -230,6 +265,14 @@ Harden Sysvol is a Powershell Module to scan sysvol folder to search the sensiti
 
 __Downloads__: 32 | __Repository__: https://github.com/dakhama-mehdi/CheckSysvolsecurity
 
+## [AzureResourceInventory](https://www.powershellgallery.com/Packages/AzureResourceInventory/3.4.10) | 3.4.10
+
+### Published: 08/16/2024 16:06:05 by Claudio Merola
+
+Azure Resource Inventory - Its a Powerful tool to create EXCEL inventory from Azure Resources with low effort
+
+__Downloads__: 24 | __Repository__: https://github.com/microsoft/ARI
+
 ## [WindmillClient](https://www.powershellgallery.com/Packages/WindmillClient/1.381.0) | 1.381.0
 
 ### Published: 08/16/2024 15:35:52 by Windmill Labs
@@ -252,7 +295,7 @@ __Downloads__: 76 | __Repository__: https://gitlab.com/xtec/box/
 
 Redirects stanard Write-* cmdlets to a log and offers some basic tracing functions
 
-__Downloads__: 62,220 | __Repository__: https://github.com/AutomatedLab/AutomatedLab
+__Downloads__: 62,218 | __Repository__: https://github.com/AutomatedLab/AutomatedLab
 
 ## [PSFileTransfer](https://www.powershellgallery.com/Packages/PSFileTransfer/5.54.0) | 5.54.0
 
@@ -268,7 +311,7 @@ __Downloads__: 67,813 | __Repository__: https://github.com/AutomatedLab/Automate
 
 This module provides management of hosts file content
 
-__Downloads__: 60,277 | __Repository__: https://github.com/AutomatedLab/AutomatedLab
+__Downloads__: 60,275 | __Repository__: https://github.com/AutomatedLab/AutomatedLab
 
 ## [AutomatedLabWorker](https://www.powershellgallery.com/Packages/AutomatedLabWorker/5.54.0) | 5.54.0
 
@@ -276,7 +319,7 @@ __Downloads__: 60,277 | __Repository__: https://github.com/AutomatedLab/Automate
 
 This module encapsulates all the work activities to prepare the lab
 
-__Downloads__: 60,477 | __Repository__: https://github.com/AutomatedLab/AutomatedLab
+__Downloads__: 60,476 | __Repository__: https://github.com/AutomatedLab/AutomatedLab
 
 ## [AutomatedLabUnattended](https://www.powershellgallery.com/Packages/AutomatedLabUnattended/5.54.0) | 5.54.0
 
@@ -284,7 +327,7 @@ __Downloads__: 60,477 | __Repository__: https://github.com/AutomatedLab/Automate
 
 The module is managing settings inside an unattended.xml file
 
-__Downloads__: 64,284 | __Repository__: https://github.com/AutomatedLab/AutomatedLab
+__Downloads__: 64,283 | __Repository__: https://github.com/AutomatedLab/AutomatedLab
 
 ## [AutomatedLabTest](https://www.powershellgallery.com/Packages/AutomatedLabTest/5.54.0) | 5.54.0
 
@@ -292,7 +335,7 @@ __Downloads__: 64,284 | __Repository__: https://github.com/AutomatedLab/Automate
 
 The module is for testing AutomatedLab
 
-__Downloads__: 40,940 | __Repository__: https://github.com/AutomatedLab/AutomatedLab
+__Downloads__: 40,941 | __Repository__: https://github.com/AutomatedLab/AutomatedLab
 
 ## [AutomatedLabNotifications](https://www.powershellgallery.com/Packages/AutomatedLabNotifications/5.54.0) | 5.54.0
 
@@ -308,7 +351,7 @@ __Downloads__: 70,839 | __Repository__: https://github.com/AutomatedLab/Automate
 
 The module creates the lab and machine definition for the AutomatedLab module saved in XML
 
-__Downloads__: 58,532 | __Repository__: https://github.com/AutomatedLab/AutomatedLab
+__Downloads__: 58,531 | __Repository__: https://github.com/AutomatedLab/AutomatedLab
 
 ## [AutomatedLabCore](https://www.powershellgallery.com/Packages/AutomatedLabCore/5.54.0) | 5.54.0
 
@@ -340,7 +383,7 @@ __Downloads__: 27,755 | __Repository__: https://github.com/AutomatedLab/Automate
 
 Automated lab environments with ease - Linux and Windows, Hyper-V and Azure
 
-__Downloads__: 57,010 | __Repository__: https://github.com/AutomatedLab/AutomatedLab
+__Downloads__: 57,009 | __Repository__: https://github.com/AutomatedLab/AutomatedLab
 
 ## [NinjaOne](https://www.powershellgallery.com/Packages/NinjaOne/2.0.1) | 2.0.1
 
@@ -396,7 +439,7 @@ __Downloads__: 7,906 | __Repository__: https://github.com/IPSecMSSP/misp.tools
 
 PowerShell module for OpenAI API
 
-__Downloads__: 4,572 | __Repository__: https://github.com/mkht/PSOpenAI
+__Downloads__: 4,571 | __Repository__: https://github.com/mkht/PSOpenAI
 
 ## [Particular.ServiceControl.Management](https://www.powershellgallery.com/Packages/Particular.ServiceControl.Management/5.6.1) | 5.6.1
 
@@ -609,7 +652,7 @@ __Downloads__: 98 | __Repository__: https://github.com/Mark5900/Capa.PowerShell.
 
 PowerShell module for CapaInstaller containing functions for PowerPacks.
 
-__Downloads__: 3,287 | __Repository__: https://github.com/Mark5900/Capa.PowerShell.Module
+__Downloads__: 3,286 | __Repository__: https://github.com/Mark5900/Capa.PowerShell.Module
 
 ## [Capa.PowerShell.Module.SDK.Group](https://www.powershellgallery.com/Packages/Capa.PowerShell.Module.SDK.Group/1.8.3) | 1.8.3
 
@@ -779,7 +822,7 @@ __Downloads__: 133 | __Repository__: https://github.com/Mark5900/Capa.PowerShell
 
 PowerShell module for CapaInstaller PowerPacks containing functions for Winget commands.
 
-__Downloads__: 3,201 | __Repository__: https://github.com/Mark5900/Capa.PowerShell.Module
+__Downloads__: 3,200 | __Repository__: https://github.com/Mark5900/Capa.PowerShell.Module
 
 ## [Capa.PowerShell.Module.PowerPack.Service](https://www.powershellgallery.com/Packages/Capa.PowerShell.Module.PowerPack.Service/1.8.3) | 1.8.3
 
@@ -893,7 +936,7 @@ __Downloads__: 43 | __Repository__: https://github.com/xasz/3CX
 
 Intersight Powershell module provides the cmdlets to manage, analyze, and automate the IT infrastructure in Intersight.
 
-__Downloads__: 10,838 | __Repository__: https://github.com/CiscoDevNet/intersight-powershell
+__Downloads__: 10,837 | __Repository__: https://github.com/CiscoDevNet/intersight-powershell
 
 ## [OCI.PSModules](https://www.powershellgallery.com/Packages/OCI.PSModules/88.1.0) | 88.1.0
 
@@ -1902,7 +1945,7 @@ __Downloads__: 7,084 | __Repository__: https://github.com/oracle/oci-powershell-
 
 This modules provides Cmdlets for OCI Audit Service
 
-__Downloads__: 7,318 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+__Downloads__: 7,319 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
 ## [OCI.PSModules.Artifacts](https://www.powershellgallery.com/Packages/OCI.PSModules.Artifacts/88.1.0) | 88.1.0
 
@@ -1992,44 +2035,4 @@ This modules provides Cmdlets for OCI Aispeech Service
 
 __Downloads__: 5,781 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-## [OCI.PSModules.Ailanguage](https://www.powershellgallery.com/Packages/OCI.PSModules.Ailanguage/88.1.0) | 88.1.0
-
-### Published: 08/13/2024 20:43:19 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Ailanguage Service
-
-__Downloads__: 9,102 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Aidocument](https://www.powershellgallery.com/Packages/OCI.PSModules.Aidocument/88.1.0) | 88.1.0
-
-### Published: 08/13/2024 20:43:14 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Aidocument Service
-
-__Downloads__: 4,256 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Aianomalydetection](https://www.powershellgallery.com/Packages/OCI.PSModules.Aianomalydetection/88.1.0) | 88.1.0
-
-### Published: 08/13/2024 20:43:08 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Aianomalydetection Service
-
-__Downloads__: 6,348 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Adm](https://www.powershellgallery.com/Packages/OCI.PSModules.Adm/88.1.0) | 88.1.0
-
-### Published: 08/13/2024 20:43:03 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Adm Service
-
-__Downloads__: 5,182 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Accessgovernancecp](https://www.powershellgallery.com/Packages/OCI.PSModules.Accessgovernancecp/88.1.0) | 88.1.0
-
-### Published: 08/13/2024 20:42:57 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Accessgovernancecp Service
-
-__Downloads__: 3,829 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-*Updated: Sunday, 18 August 2024 17:51:57 UTC*
+*Updated: Monday, 19 August 2024 02:13:58 UTC*

@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Sunday, 18 August 2024 17:52:05 UTC
+Updated: Monday, 19 August 2024 02:14:07 UTC
 
 .bat
 .env
@@ -480,8 +480,8 @@ area
 arg
 argcomplete
 argument
-argumentcompleter
 arguments
+ari
 arm
 arm-json
 arm-templates
@@ -622,6 +622,7 @@ autoupdate
 autoupdate-script
 autowrapper
 autoyast
+auvik
 availability
 availabilityset
 avalara
@@ -629,6 +630,7 @@ avatar
 avd
 ave
 avepoint
+avi
 avm
 avmtools
 avro
@@ -741,6 +743,7 @@ azurepipelines
 azurepolicy
 azurepowershell
 azurerepos
+azureresourceinventory
 azureresourcemanager
 azureresources
 azureresourcestuff
@@ -1836,7 +1839,10 @@ db
 db2
 dba
 dbaas
+dbai
 dbase
+dbassistant
+dbatools
 dbcommand
 dbeaver
 dbfs
@@ -2385,6 +2391,7 @@ environments
 environmentvariable
 environmentvariables
 envvar
+envvars
 eol
 eop
 eperl
@@ -2583,7 +2590,6 @@ farmanager
 fast
 fast-dds
 fast-ping
-fastfilepub
 fastgit
 fastlinq
 fastlookup
@@ -2631,7 +2637,6 @@ file-name
 file-name-extension
 file-name-extension-association
 file-server
-file-share
 file-system
 file-transform
 file-type
@@ -2888,6 +2893,7 @@ generator
 generic
 genericartifactscontent
 genetic-algorithm
+genp
 genxdev
 geo
 geocache
@@ -3358,7 +3364,6 @@ identitydomains
 identitynow
 idf
 idm
-idna
 ids
 ie
 iem
@@ -3826,7 +3831,6 @@ launcher
 layer
 layman
 layout
-lazywinadmin
 lbi
 lbs
 lccn
@@ -4030,7 +4034,6 @@ ltm
 lucd
 lucene
 lunches
-lwa
 lxca
 lxcapstool
 lxco
@@ -4325,7 +4328,6 @@ ml.net
 mlflow
 mlmodels
 mltools
-mmdc
 mobile
 mobilenetwork
 mobilitycontroller
@@ -4841,6 +4843,7 @@ openholidaysapi
 openid
 openidconnect
 openinghours
+openport
 openprovider
 openscad
 opensearch
@@ -5140,6 +5143,7 @@ pipenv
 pipescript
 piraeus
 piv
+pivot
 pivotal
 pivottable
 pixoo
@@ -7351,6 +7355,8 @@ psdshook
 pse
 psedition_5
 psedition_5.1
+psedition_7.3
+psedition_7.4
 psedition_core
 psedition_desk
 psedition_desktop
@@ -8517,7 +8523,6 @@ pullrequest
 pullserver
 pulseway
 pulumi
-punycode
 puppet
 puppetdb
 puppy
@@ -8846,6 +8851,7 @@ resourcegraph
 resourcegroup
 resourcegroups
 resourceid
+resourceinventory
 resourcekit
 resourcemanager
 resourcemover
@@ -8944,7 +8950,6 @@ routine
 rover
 royalapps
 royaldocument
-royalserver
 royalts
 royaltsx
 rpa
@@ -9225,7 +9230,6 @@ send-mailmessage
 send-message
 senderid
 sendgrid
-sendkeys
 sendmail
 sense
 sensitive
@@ -9643,7 +9647,6 @@ squire
 srcds
 srcsrv
 srm
-srylius-write
 ssas
 ssc
 ssdt
@@ -9946,6 +9949,7 @@ taxonomy
 tcp
 tcp/ip
 tcpip
+tcpport
 tcprjmgmt
 tcpserver
 tcptest
@@ -10104,6 +10108,8 @@ titan
 title
 tld
 tls
+tls11
+tls12
 tlsa
 tlsprotocol
 tlsrpt
@@ -10312,6 +10318,7 @@ ud-signature
 ud-simpledrawer
 ud-singleselect
 ud-slider
+ud-speechbubble
 ud-step
 ud-stepbar
 ud-stickynavbar
