@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Wednesday, 21 August 2024 09:51:53 UTC
+Updated: Wednesday, 21 August 2024 17:51:52 UTC
 
 .bat
 .env
@@ -526,6 +526,7 @@ assemblyloadcontext
 assemblymeta
 assert
 assertion
+assertion-testing
 assessment
 asset
 assetintelligencepoint
@@ -575,6 +576,7 @@ authentication
 authenticationcertificate
 authenticode
 authn
+author
 authoring
 authoringtools
 authorisation
@@ -716,8 +718,6 @@ azurecli
 azurecodesigning
 azurecognitiveservices
 azurecommonstuff
-azurecontainerapps
-azurecontainers
 azuredatabricks
 azuredataexplorer
 azuredatastudio
@@ -1315,6 +1315,7 @@ cmd
 cmdb
 cmdkey
 cmdlet
+cmdlet-testing
 cmdlets
 cmdstan
 cmgroupdiscovery
@@ -1384,6 +1385,7 @@ comical
 comics
 command
 command_line
+command-line-interface
 command-validation
 commandcoverage
 commandhistory
@@ -1394,6 +1396,7 @@ commands
 commandsandresource
 commence
 comment
+comments
 commerce
 commfort
 commit
@@ -1435,6 +1438,7 @@ computer-site
 computername
 computers
 computersite
+concur
 concurrency
 concurrent
 conda
@@ -1461,7 +1465,6 @@ configurationprofile
 configurations
 configure
 confluence
-confluent
 conjecture
 connect
 connect-dtcmsite
@@ -1561,6 +1564,7 @@ copilot
 copy
 copy-item
 copypaste
+copyright
 core
 coreposh
 coreutils
@@ -1844,7 +1848,6 @@ dbops
 dbpool
 dbup
 dbwebapi
-dc
 dcim
 dcim_b324
 dcom
@@ -1964,6 +1967,7 @@ dfir
 dfs
 dfw
 dg
+dhash
 dhcp
 di
 diagnostic
@@ -2691,6 +2695,7 @@ findfile
 findlocation
 findplace
 findproxyforurl
+fine-print
 fine-tuning
 finops
 firebird
@@ -2783,6 +2788,7 @@ foundationmodels
 fox
 foxpro
 fqdn
+frame
 framework
 france
 free
@@ -2824,6 +2830,7 @@ fullmetalgnome
 fullscreen
 fun
 function
+function-testing
 functionality
 functionalprogramming
 functionapp
@@ -3377,6 +3384,7 @@ ilo5
 ilocmdlets
 im
 image
+image-comparison
 image-converter
 image-creation
 image-generation
@@ -3819,7 +3827,6 @@ latency
 latestupdate
 latin
 latitude
-launcher
 layer
 layman
 layout
@@ -4123,6 +4130,7 @@ marketplaceprivateoffer
 marketplacepublisher
 marking
 marklogic
+marquee
 marvel
 marvell
 marvell_semiconductor_inc
@@ -4226,7 +4234,6 @@ metadataservice
 metaprogramming
 method
 methodinfo
-methods
 metric
 metrics
 metrolink
@@ -4838,7 +4845,6 @@ openid
 openidconnect
 openinghours
 openport
-openprovider
 openscad
 opensearch
 opensource
@@ -5052,6 +5058,8 @@ paypal
 pays
 pbench
 pbip
+pbixtopbip
+pbixtopbit
 pc
 pcapng
 pci-dss
@@ -5064,7 +5072,6 @@ pdf-document-processor
 pdf-files
 pdf-generation
 pdf-redaction
-pe
 peek
 peering
 peheader
@@ -5076,6 +5083,7 @@ penetrationtesting
 pentesting
 pentia
 people
+perceptual-hash
 perforce
 performance
 performance-counters
@@ -5282,7 +5290,6 @@ poshy-wrap-pylint
 poshy-wrap-python
 poshy-wrap-ruby
 poshy-wrap-systemctl
-poshy-wrap-terraform
 poshy-wrap-terragrunt
 poshy-wrap-tmux
 poshy-wrap-vagrant
@@ -5294,6 +5301,7 @@ poshy-wrap-yum
 poshy-wrap-zypper
 position
 post
+postcode
 postgre
 postgres
 postgresql
@@ -6668,15 +6676,6 @@ pscommand_invoke-systemctluser-try-reload-or-restart
 pscommand_invoke-systemctluser-try-restart
 pscommand_invoke-systemctluser-unmask
 pscommand_invoke-systemctluser-unset-environment
-pscommand_invoke-terraform
-pscommand_invoke-terraformapply
-pscommand_invoke-terraformconsole
-pscommand_invoke-terraformdestroy
-pscommand_invoke-terraformformat
-pscommand_invoke-terraforminit
-pscommand_invoke-terraformoutput
-pscommand_invoke-terraformplan
-pscommand_invoke-terraformvalidate
 pscommand_invoke-terragrunt
 pscommand_invoke-terragruntapply
 pscommand_invoke-terragruntapplyall
@@ -7145,15 +7144,6 @@ pscommand_test-o
 pscommand_test-reparsepoint
 pscommand_test-sessioninteractivity
 pscommand_test-x
-pscommand_tf
-pscommand_tfa
-pscommand_tfc
-pscommand_tfd
-pscommand_tff
-pscommand_tfi
-pscommand_tfo
-pscommand_tfp
-pscommand_tfv
 pscommand_tg
 pscommand_tga
 pscommand_tgaa
@@ -8080,15 +8070,6 @@ psfunction_invoke-systemctluser-try-reload-or-restart
 psfunction_invoke-systemctluser-try-restart
 psfunction_invoke-systemctluser-unmask
 psfunction_invoke-systemctluser-unset-environment
-psfunction_invoke-terraform
-psfunction_invoke-terraformapply
-psfunction_invoke-terraformconsole
-psfunction_invoke-terraformdestroy
-psfunction_invoke-terraformformat
-psfunction_invoke-terraforminit
-psfunction_invoke-terraformoutput
-psfunction_invoke-terraformplan
-psfunction_invoke-terraformvalidate
 psfunction_invoke-terragrunt
 psfunction_invoke-terragruntapply
 psfunction_invoke-terragruntapplyall
@@ -8521,6 +8502,7 @@ puppetdb
 puppy
 pure
 pure1
+pureservice
 purestorage
 purple
 purview
@@ -9306,7 +9288,6 @@ sf
 sfb
 sfc
 sftp
-sfx
 sgopher
 sgw
 sha-256
@@ -9427,7 +9408,6 @@ skytap
 slack
 slash
 slashcommands
-slideshow
 slmgr
 sln
 slugify
@@ -9452,7 +9432,6 @@ smileys
 smimeemail
 smimeimap
 smimepop
-smlets
 smo
 smorgasbord
 sms
@@ -9573,6 +9552,7 @@ sphere
 spi
 spicetify
 spinnaker
+splash
 splat
 splatting
 split
@@ -10249,7 +10229,6 @@ twitter-api-v2
 twitter-client
 twitter-follow
 twitter-hashtag
-twitter-mention
 twitter-share
 twitter-timeline
 twitter-tweet
@@ -10273,7 +10252,6 @@ ucspowertool
 ud-avataaar
 ud-badgebutton
 ud-badgelink
-ud-breadcrumb
 ud-breadcrumbitem
 ud-burger
 ud-button
@@ -10630,7 +10608,6 @@ vpn-certificate
 vpro
 vps
 vra
-vrchat
 vrealize
 vrising
 vro
@@ -10757,6 +10734,7 @@ wec
 wecutil
 weekday
 wef
+weixin
 well-known
 wem
 wemsdk
@@ -11005,7 +10983,6 @@ wt
 wtsapi32
 wttr
 wttr.in
-wtx
 wu
 wug
 wunderlist
