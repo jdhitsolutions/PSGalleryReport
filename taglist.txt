@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Wednesday, 21 August 2024 17:51:52 UTC
+Updated: Thursday, 22 August 2024 02:11:45 UTC
 
 .bat
 .env
@@ -430,7 +430,6 @@ applicationmigration
 applicationmonitor
 applications
 applocker
-apply
 appmgmtcontrol
 apppool
 appraiser
@@ -638,7 +637,6 @@ avro
 avs
 avset
 await
-awareness
 awesome
 awp
 awpagent
@@ -718,6 +716,8 @@ azurecli
 azurecodesigning
 azurecognitiveservices
 azurecommonstuff
+azurecontainerapps
+azurecontainers
 azuredatabricks
 azuredataexplorer
 azuredatastudio
@@ -1058,6 +1058,7 @@ capture
 carbon
 carbonawarecomputing
 carbonintensity
+card
 cardwirth
 cares
 cargo
@@ -1465,6 +1466,7 @@ configurationprofile
 configurations
 configure
 confluence
+confluent
 conjecture
 connect
 connect-dtcmsite
@@ -1848,6 +1850,7 @@ dbops
 dbpool
 dbup
 dbwebapi
+dc
 dcim
 dcim_b324
 dcom
@@ -2110,7 +2113,6 @@ documentencryption
 documenting
 documents
 docusaurus
-docusign
 docx
 dod
 dog
@@ -2322,7 +2324,6 @@ email
 email-address
 emailaddressupdate
 emailautomation
-emaildataplane
 emailmanagment
 emailnotification
 emailnotificationcomponent
@@ -2435,7 +2436,6 @@ ethr
 ethz
 etl
 etl2pcapng
-etrade
 ets
 etw
 eulanda
@@ -3154,7 +3154,6 @@ hdinsight
 hdinsightonaks
 hdr
 header
-headhunter
 health
 health_checks
 healthbot
@@ -3704,7 +3703,6 @@ jws
 jwt
 jwttoken
 k8s
-k8sshell
 kafka
 kaminario
 karabiner
@@ -3772,7 +3770,6 @@ krbtgt
 krick
 kschemaplugin
 kubclt
-kube
 kubectl
 kubectx
 kubens
@@ -3805,7 +3802,6 @@ lake
 lambda
 lame
 lametrictime
-lamp
 lan
 landingzones
 language
@@ -3827,6 +3823,7 @@ latency
 latestupdate
 latin
 latitude
+launcher
 layer
 layman
 layout
@@ -4089,7 +4086,6 @@ manage-wmi
 manageability
 managed
 managed-identity
-manageddevices
 manageddisks
 managedidentities
 managedidentity
@@ -4845,6 +4841,7 @@ openid
 openidconnect
 openinghours
 openport
+openprovider
 openscad
 opensearch
 opensource
@@ -5072,6 +5069,7 @@ pdf-document-processor
 pdf-files
 pdf-generation
 pdf-redaction
+pe
 peek
 peering
 peheader
@@ -5183,7 +5181,6 @@ pncit
 pnp
 pnp.powershell
 pnpm
-poc
 pode
 poe
 poem
@@ -5489,7 +5486,6 @@ proliant
 prometheus
 prompt
 pronounceable
-proofpoint
 properties
 property
 property-list
@@ -5541,7 +5537,6 @@ psadgroupmembers
 psadt
 psake
 psappdeploytoolkit
-psat
 psazd
 psbackup
 psbbix
@@ -8427,9 +8422,6 @@ pspath
 pspersonio
 pspowerhour
 psprofiler
-psproject
-psprojectcreator
-psprojectgenerator
 psprovider
 psprtg
 pspublicapi
@@ -8665,7 +8657,6 @@ recording
 recordsmanagement
 recovery
 recoveryservices
-recruiter
 recrutch
 recurse
 recursion
@@ -9288,6 +9279,7 @@ sf
 sfb
 sfc
 sftp
+sfx
 sgopher
 sgw
 sha-256
@@ -9408,6 +9400,7 @@ skytap
 slack
 slash
 slashcommands
+slideshow
 slmgr
 sln
 slugify
@@ -9432,6 +9425,7 @@ smileys
 smimeemail
 smimeimap
 smimepop
+smlets
 smo
 smorgasbord
 sms
@@ -9966,7 +9960,6 @@ tenable
 tenable.sc
 tenant
 tenantmanagercontrolplane
-teradata
 termbin
 terminal
 terminal-interface
@@ -9998,6 +9991,7 @@ test123
 testaccount
 testautomation
 tester
+testimonial
 testing
 testlab
 testplans
@@ -10229,6 +10223,7 @@ twitter-api-v2
 twitter-client
 twitter-follow
 twitter-hashtag
+twitter-mention
 twitter-share
 twitter-timeline
 twitter-tweet
@@ -10252,6 +10247,7 @@ ucspowertool
 ud-avataaar
 ud-badgebutton
 ud-badgelink
+ud-breadcrumb
 ud-breadcrumbitem
 ud-burger
 ud-button
@@ -10608,6 +10604,7 @@ vpn-certificate
 vpro
 vps
 vra
+vrchat
 vrealize
 vrising
 vro
@@ -10983,6 +10980,7 @@ wt
 wtsapi32
 wttr
 wttr.in
+wtx
 wu
 wug
 wunderlist
