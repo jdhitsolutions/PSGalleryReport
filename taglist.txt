@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Saturday, 24 August 2024 02:10:51 UTC
+Updated: Saturday, 24 August 2024 09:51:49 UTC
 
 .bat
 .env
@@ -154,8 +154,6 @@ ad-report
 ad-site
 adal
 adapter
-adapter-control
-adapters
 adaptive-card
 adaptivecard
 adaptivecards
@@ -370,9 +368,7 @@ ansible-playbook
 ansible-vault
 ansiblecontrolnode
 anthropic
-anti-malware
 antimalwarescaninterface
-antispam
 antivirus
 anws
 any
@@ -394,6 +390,7 @@ apigee
 apigeeedge
 apimanagement
 apis
+aplication
 apm
 apmconfig
 apmcontrolplane
@@ -631,6 +628,8 @@ avd
 ave
 avepoint
 avi
+avm
+avmtools
 avro
 avs
 avset
@@ -714,7 +713,6 @@ azurebasicloadbalancerupgrade
 azurecli
 azurecodesigning
 azurecognitiveservices
-azurecommonstuff
 azurecontainerapps
 azurecontainers
 azuredatabricks
@@ -905,7 +903,6 @@ blockchain
 blocks
 blog
 blogs
-bloodhound
 bloxone
 bloxoneddi
 bls
@@ -924,7 +921,6 @@ boilerplate
 boinc
 bold-text
 bolt
-bom
 book
 bookmark
 bookmarks
@@ -1059,7 +1055,6 @@ carbonawarecomputing
 carbonintensity
 card
 cardwirth
-cares
 cargo
 carousel
 carrier
@@ -1556,6 +1551,7 @@ converttodocx
 converttohtml
 converttomarkdown
 converttomd
+cookie
 coolq
 cooltag1
 cooltag2
@@ -1810,6 +1806,7 @@ datarow
 datasafe
 datascience
 dataset
+datasetdependency
 datashare
 datasource
 datastore
@@ -1849,7 +1846,6 @@ dbup
 dbwebapi
 dc
 dcim
-dcim_b324
 dcom
 dcr
 ddc
@@ -1904,7 +1900,6 @@ delivery
 dell
 dellemc
 delta
-demand
 demandsignal
 demo
 democratie
@@ -1932,9 +1927,7 @@ desktop
 desktops
 desktopvirtualization
 details
-detect
 detection
-detectionrule
 deutschland
 dev
 dev-tools
@@ -2007,12 +2000,8 @@ dirkjan
 dirname
 dirsync
 disa
-disable
-disable-internet
 disable-psremoting
 disablefilesyncngsc
-disablestartbutton
-disablestartkey
 disasm
 disasterrecovery
 disconnect
@@ -2081,6 +2070,7 @@ dnsdumpster
 dnsentry
 dnsimple
 dnslookup
+dnsmadeeasy
 dnsoverhttps
 dnsrecord
 dnsresolver
@@ -2313,6 +2303,7 @@ elm
 elmah-io
 elonmusk
 eloqua
+elvish
 elvui
 em
 emacs
@@ -2337,8 +2328,6 @@ emotion
 empire
 empty
 emwarehouse
-enable
-enable-internet
 enable-psremoting
 enable-psremotingremote
 enbrea
@@ -2373,7 +2362,6 @@ entityframework
 entra
 entraid
 entraidgovernance
-entropy
 enum
 enumerable
 env
@@ -2464,6 +2452,7 @@ eventsubscription
 eventviewer
 eventwatch
 evergreen
+everix
 evernote
 everydaypowershell
 everydayrewards
@@ -2509,7 +2498,6 @@ exif
 exiftool
 exists
 exitcode
-exitprocessrequest
 exo
 exov2
 exov3
@@ -2533,7 +2521,6 @@ exponentiation
 export
 export-cmhealthreport
 export-data
-export-passlist
 exportcertificate
 exportcertificates
 exporter
@@ -2609,7 +2596,6 @@ fetch
 ffmpeg
 ffprobe
 fhirservice
-fiche
 fiddler
 fido
 fido2
@@ -2657,6 +2643,7 @@ fileserverresourcemanager
 fileshare
 filesharing
 filestorage
+filestream
 filesystem
 filesystementry-matcher
 filesystementry-matching
@@ -2721,7 +2708,6 @@ flatfile
 flatten
 flavor
 fleet
-fleetappsmanagement
 fleetsoftwareupdate
 flex
 flex-query
@@ -2751,7 +2737,6 @@ force
 forcedelete
 foreach
 foreach-object
-forecast
 forensic
 forensics
 forest
@@ -2775,6 +2760,7 @@ fortimanager
 fortinet
 fortinetmanager
 fortios
+fortune
 forum
 forwardcompatibility
 forwardedevents
@@ -2798,6 +2784,8 @@ freshservice-api
 freshserviceps
 freshworks
 friendly
+fritz
+fritzbox
 front
 frontapp
 frontdoor
@@ -2922,9 +2910,7 @@ get-history
 get-iislog
 get-openfile
 get-openfiles
-get-pass
 get-passivetrippoint
-get-passlist
 get-path
 get-pinneditem
 get-samcmassignedsite
@@ -2994,7 +2980,6 @@ goldsource
 goldsource-dedicated-server
 google
 google-chrome
-google-fonts
 google-histogram
 google-sankey
 google-table
@@ -3063,7 +3048,6 @@ grouvee
 growlnotify
 grr
 gsuite
-gtx1080ti
 guardedfabric
 guardicore
 gubbins
@@ -3125,7 +3109,6 @@ hartokens
 harvest
 harvestforecast
 hash
-hashcat
 hashicorp
 hashset
 hashtable
@@ -3140,7 +3123,6 @@ hbase
 hci
 hcl
 hcm
-hcx
 hdfs
 hdinsight
 hdinsightonaks
@@ -3222,7 +3204,6 @@ hl7
 hlds
 hls
 hockey
-hol
 holiday
 home
 home_automation
@@ -3322,7 +3303,6 @@ ib
 ibm
 ibmc
 ibmhttpserver
-icacl
 icinga
 icinga2
 icinga2mssql
@@ -3346,7 +3326,6 @@ id
 id3
 idabus
 ide
-identifier
 identity
 identity-management
 identitydataplane
@@ -3408,7 +3387,6 @@ import
 import-csv
 import-dtdriverpackpackagedefinitionsms
 import-modulefrompath
-import-passlist
 import-sampackagedefinitionsms
 importer
 importexport
@@ -3420,7 +3398,6 @@ incident_response
 incident-response
 incidentresponse
 incontact
-indents
 index
 indexdb
 indicator
@@ -3630,7 +3607,6 @@ java
 javamanager
 javascript
 javaversion
-jboss
 jdbc
 jde
 jdedwards
@@ -3703,7 +3679,6 @@ karabiner
 karabiner-elements
 karma
 kaseya
-kaseyavsa
 kaspersky
 katakana
 kb
@@ -3726,7 +3701,6 @@ key2wocas
 keybase
 keybinding
 keyboard
-keyboardstartkey
 keycipher
 keycloak
 keylight
@@ -3881,7 +3855,6 @@ limit-job
 limits
 lina
 line
-line-endings
 linear
 linearalgebra
 lingeringobjects
@@ -3950,7 +3923,6 @@ lockoutreport
 lockscreen
 locksmith
 lockstep
-lod
 lodasoft
 log
 log-administration
@@ -4013,7 +3985,6 @@ longfiles
 longitude
 look
 lookup
-loop
 loopback
 loremipsum
 love
@@ -4119,7 +4090,6 @@ marketing
 marketo
 marketplace
 marketplaceordering
-marketplaceprivateoffer
 marketplacepublisher
 marking
 marklogic
@@ -4254,8 +4224,6 @@ microsoft.graph
 microsoft.graph.api
 microsoft.identity.client
 microsoft.identitymodel.clients.activedirectory
-microsoft.logic
-microsoft.logic/workflows
 microsoft.web.administration
 microsoft365
 microsoft365dsc
@@ -4532,8 +4500,6 @@ neo4j
 neovim
 neptune
 nerdfonts
-nerdio
-nerdioapi
 nerdymishka
 nessus
 nested
@@ -4567,6 +4533,7 @@ network adapter configuration operating os optical sensor physical pointing port
 network-credentials
 network-info
 networkanalytics
+networkcategory
 networkcloud
 networkcontroller
 networkdiscovery
@@ -4578,6 +4545,7 @@ networking
 networkinterfaces
 networkloadbalancer
 networkpolicyserver
+networkprofile
 networkscan
 networksecurity
 networksecuritygroup
@@ -4633,7 +4601,6 @@ nlm
 nlog
 nmap
 nmbell
-nmm
 nntp
 node
 nodejs
@@ -4650,12 +4617,10 @@ norway
 norwegian
 nos
 nosql
-note
 notebook
 notepad
 notepad2
 noteproperty
-notes
 notification
 notificationhubs
 notifications
@@ -4782,7 +4747,6 @@ omnisphere
 omnistack
 oms
 omsagent
-on
 on-demand
 on-premise
 onbehalfof
@@ -4857,7 +4821,6 @@ operationsmanagementsuite
 operationsmanagementsuiteagent
 operationvalidation
 operatoraccesscontrol
-opml
 ops
 opsi
 opsmgr
@@ -4880,7 +4843,6 @@ orchestration
 orchestrator
 order
 organization
-orgnetwork
 oriflame
 orion
 orleans
@@ -4929,11 +4891,9 @@ out-gridview
 out-json
 outerjoin
 outertext
-outline
 outlook
 outpainting
 output
-output-to-image
 outreach
 outsystems
 overbite
@@ -5001,10 +4961,8 @@ partner
 partnercenter
 partnerportal
 pas
-pass
 pass-the-hash
 pass-the-ticket
-passcode
 passivetotal
 passkey
 passkeys
@@ -5164,7 +5122,6 @@ pleasant
 pleasantpasswordserver
 plex
 plist
-plog
 plot
 plug-n-copy
 plugin
@@ -5275,10 +5232,10 @@ poshy-wrap-kubectl
 poshy-wrap-maven
 poshy-wrap-nginx
 poshy-wrap-nmap
+poshy-wrap-npm
 poshy-wrap-pip
 poshy-wrap-pipenv
 poshy-wrap-pyenv
-poshy-wrap-pylint
 poshy-wrap-python
 poshy-wrap-ruby
 poshy-wrap-systemctl
@@ -5370,7 +5327,6 @@ powershellgallery
 powershellget
 powershellgetformatversion_2.0
 powershellise
-powershelllogger
 powershellml
 powershellmodule
 powershellmoduleupdate
@@ -5470,11 +5426,9 @@ program-association
 programs
 progress
 progressbar
-progressbars
 project
 project-management
 projectmanagement
-projectreunion
 projects
 projecttemplate
 projectwise
@@ -5499,6 +5453,7 @@ provider
 providerhub
 provision
 provisioning
+provisioningpackage
 provisonedpackage
 prowl
 prowl-notifications
@@ -6518,6 +6473,24 @@ pscommand_invoke-mavenpackage
 pscommand_invoke-mavenreleaseperform
 pscommand_invoke-mavenreleaseprepare
 pscommand_invoke-mavenreleaserollback
+pscommand_invoke-npmbinmungedpath
+pscommand_invoke-npminfo
+pscommand_invoke-npminit
+pscommand_invoke-npminstallforcefully
+pscommand_invoke-npminstallglobally
+pscommand_invoke-npminstallsave
+pscommand_invoke-npminstallsavedev
+pscommand_invoke-npmlist
+pscommand_invoke-npmlistdepth0
+pscommand_invoke-npmoutdated
+pscommand_invoke-npmpublish
+pscommand_invoke-npmrun
+pscommand_invoke-npmrundev
+pscommand_invoke-npmsearch
+pscommand_invoke-npmstart
+pscommand_invoke-npmtest
+pscommand_invoke-npmupdate
+pscommand_invoke-npmversion
 pscommand_invoke-pipenvcheck
 pscommand_invoke-pipenvclean
 pscommand_invoke-pipenvgraph
@@ -6538,7 +6511,6 @@ pscommand_invoke-pipinstallupgrade
 pscommand_invoke-piplistoutdated
 pscommand_invoke-pipuninstall
 pscommand_invoke-pyenv
-pscommand_invoke-pylintreportsdisabled
 pscommand_invoke-ruby
 pscommand_invoke-rubyexecute
 pscommand_invoke-rubyexecutehttpdhere
@@ -6960,6 +6932,23 @@ pscommand_notify-send-fallback
 pscommand_npm-disable-proxy
 pscommand_npm-enable-proxy
 pscommand_npm-show-proxy
+pscommand_npmd
+pscommand_npme
+pscommand_npmf
+pscommand_npmg
+pscommand_npmi
+pscommand_npml
+pscommand_npml0
+pscommand_npmo
+pscommand_npmp
+pscommand_npmr
+pscommand_npmrd
+pscommand_npms
+pscommand_npmse
+pscommand_npmst
+pscommand_npmt
+pscommand_npmu
+pscommand_npmv
 pscommand_open_command
 pscommand_pch
 pscommand_pcl
@@ -7010,7 +6999,6 @@ pscommand_pwh
 pscommand_pwshrc-show-proxy
 pscommand_py
 pscommand_pyenv
-pscommand_pylint-quick
 pscommand_pyserver
 pscommand_python
 pscommand_python3
@@ -7895,6 +7883,24 @@ psfunction_invoke-mavenpackage
 psfunction_invoke-mavenreleaseperform
 psfunction_invoke-mavenreleaseprepare
 psfunction_invoke-mavenreleaserollback
+psfunction_invoke-npmbinmungedpath
+psfunction_invoke-npminfo
+psfunction_invoke-npminit
+psfunction_invoke-npminstallforcefully
+psfunction_invoke-npminstallglobally
+psfunction_invoke-npminstallsave
+psfunction_invoke-npminstallsavedev
+psfunction_invoke-npmlist
+psfunction_invoke-npmlistdepth0
+psfunction_invoke-npmoutdated
+psfunction_invoke-npmpublish
+psfunction_invoke-npmrun
+psfunction_invoke-npmrundev
+psfunction_invoke-npmsearch
+psfunction_invoke-npmstart
+psfunction_invoke-npmtest
+psfunction_invoke-npmupdate
+psfunction_invoke-npmversion
 psfunction_invoke-pipenvcheck
 psfunction_invoke-pipenvclean
 psfunction_invoke-pipenvgraph
@@ -7915,7 +7921,6 @@ psfunction_invoke-pipinstallupgrade
 psfunction_invoke-piplistoutdated
 psfunction_invoke-pipuninstall
 psfunction_invoke-pyenv
-psfunction_invoke-pylintreportsdisabled
 psfunction_invoke-ruby
 psfunction_invoke-rubyexecute
 psfunction_invoke-rubyexecutehttpdhere
@@ -8402,7 +8407,6 @@ psql
 psraw
 psreadexif
 psreadline
-psreminder
 psremoting
 psrepository
 psresourceget
@@ -8493,7 +8497,6 @@ pwshrc
 pxedistributionpoint
 pyenv
 pygmentize
-pylint
 pyranja
 python
 python-for-dotnet
@@ -8731,7 +8734,6 @@ remoting
 remove
 remove-githubsecrets
 remove-itemproperty
-remove-pass
 remove-path
 remove-pinneditem
 remove-tempfiles
@@ -8826,11 +8828,7 @@ rexec
 rfc1305
 rfc1436
 rfc2030
-rfc3986
-rfc4007
 rfc4266
-rfc4291
-rfc5952
 rfc826
 rfc9116
 rg
@@ -9140,6 +9138,7 @@ securityscopes
 securitytxt
 sed
 seed
+seek
 seekatar
 seeshell
 select
@@ -9231,16 +9230,13 @@ sessions
 set
 set_bios
 set-alias
-set-dnsservers
 set-githubsecrets
 set-itemproperty
 set-location
 set-openfiles
 set-ownership
-set-pass
 set-psbreakpoint
 set-psenv
-set-randompass
 set-type
 setbios
 sets
@@ -9315,7 +9311,6 @@ sid
 sidecar
 siem
 sif
-sigma
 sign
 signalfx
 signalr
@@ -9334,7 +9329,6 @@ simplivity
 simplysql
 sin
 single
-singlestore
 singleton
 sinks
 sintez
@@ -9518,7 +9512,6 @@ spfx
 sphere
 spi
 spicetify
-spinnaker
 splash
 splat
 splatting
@@ -9565,6 +9558,7 @@ sqlitebynarymodule
 sqlitebynarypsmodule
 sqlitemodule
 sqllocaldb
+sqlmanagementobjects
 sqlpackage
 sqlplus
 sqlproj
@@ -9575,6 +9569,7 @@ sqlserver
 sqlserveragent
 sqlserverbynarymodule
 sqlserverbynarypsmodule
+sqlserverclient
 sqlservermodule
 sqlvirtualmachine
 sqlvm
@@ -9634,7 +9629,6 @@ start
 start-job
 start-jobthread
 start-threadjob
-startkey
 startmen
 startmenu
 starttls
@@ -9673,8 +9667,6 @@ stingar
 stock
 stockcharts
 stocks
-stoicism
-stoics
 stolpe.io
 stop
 storablecolortheme
@@ -9799,6 +9791,7 @@ synergy
 syntax
 syntax-highlighting
 syntaxcheck
+syntaxhighlighter
 synthesis
 synthetics
 sysadmin
@@ -9904,7 +9897,6 @@ teamservices
 teamspolicy
 teamviewer
 techdirect
-techedna2014
 techlog
 technology
 techsmith
@@ -9931,7 +9923,6 @@ tenable.sc
 tenant
 tenantmanagercontrolplane
 teradata
-termbin
 terminal
 terminal-interface
 terminal-services
@@ -9976,7 +9967,6 @@ testusers
 text
 text-emoji
 text-emojis
-text-to-image
 text-to-speach"
 text-to-speech
 text2image
@@ -9995,7 +9985,6 @@ tfs
 tfscmdlets
 tfsec
 tfswitch
-tftd
 tftp
 tfvars
 tfvc
@@ -10008,7 +9997,6 @@ thinprint
 third-party-libraries
 third-party-notice
 thispc
-thoughtfortheday
 thousandeyes
 thread
 threading
@@ -10024,11 +10012,9 @@ thumbprint
 thunderbird
 thycotic
 tibber
-tic-tac-toe
 ticketing
 tickle
 ticks
-tictactoe
 tiermodel
 time
 timeout
@@ -10089,6 +10075,8 @@ toughswitch
 tower
 tphubps
 tpm
+tr-064
+tr064
 trace
 traceevent
 tracer
@@ -10390,10 +10378,8 @@ usg
 usps
 utc
 utf-8
-utf-sig
 utf7
 utf8
-utf8-sig
 utf8bom
 util
 utilities
@@ -10432,7 +10418,6 @@ vaultstore
 vaultwarden
 vb365
 vba
-vbaproject
 vbproj
 vbr
 vbscript
@@ -10553,6 +10538,7 @@ vnugglets
 vnugglets.com
 vocabularies
 voice
+voiceservices
 voidtools
 volkskrant
 volta
@@ -10714,7 +10700,6 @@ where
 whfb
 whiteboard
 whitespace
-who
 whoami
 whois
 whoiscmdlet
@@ -10743,13 +10728,13 @@ whormi
 wi-fi
 wia
 wia.imagefile
+wid
 widedata
 wif
 wifi
 wiki
 wildcard
 wildfire
-wildfly
 wim
 wim2vhd
 wimwitch
@@ -10808,6 +10793,7 @@ windowsform
 windowsforms
 windowsindex
 windowsinstaller
+windowsinternaldatabase
 windowsinternals
 windowsiotservices
 windowsiso
@@ -10847,7 +10833,6 @@ winsat
 winscp
 wintellect
 winterminal
-winui
 wireless
 wirelessnetwork
 wireshark
@@ -10856,7 +10841,6 @@ wiscmail
 wisco365
 wisconsin-madison
 wisconsin'uw-madison
-wisdom
 with
 wiz
 wizard
@@ -10876,7 +10860,6 @@ woolworthsrewards
 word
 word-wrap
 wordcloud
-wordlist
 wordpress
 wordwrap
 workbook
