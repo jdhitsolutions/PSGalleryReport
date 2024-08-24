@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Friday, 23 August 2024 17:51:42 UTC
+Updated: Saturday, 24 August 2024 02:10:51 UTC
 
 .bat
 .env
@@ -394,7 +394,6 @@ apigee
 apigeeedge
 apimanagement
 apis
-aplication
 apm
 apmconfig
 apmcontrolplane
@@ -632,8 +631,6 @@ avd
 ave
 avepoint
 avi
-avm
-avmtools
 avro
 avs
 avset
@@ -995,6 +992,7 @@ buildhelpers
 building
 buildingfile
 buildingmapping
+buildkit
 buildkite
 buildmaster
 builds
@@ -1404,6 +1402,7 @@ commfort
 commit
 commits
 common
+common-data-service
 commondataservice
 commonmark
 commonstuff
@@ -1557,7 +1556,6 @@ converttodocx
 converttohtml
 converttomarkdown
 converttomd
-cookie
 coolq
 cooltag1
 cooltag2
@@ -1702,6 +1700,11 @@ customdns
 customer
 customerengagement
 customers
+customeventchannel
+customeventlog
+customeventlogchannel
+customeventlogfile
+customeventlogfiles
 customevents
 custominformationservices
 customis
@@ -1744,6 +1747,7 @@ dacfx
 dacl
 dacpac
 dacpackage
+dagger
 daily
 dalle3
 dane
@@ -1806,7 +1810,6 @@ datarow
 datasafe
 datascience
 dataset
-datasetdependency
 datashare
 datasource
 datastore
@@ -2078,7 +2081,6 @@ dnsdumpster
 dnsentry
 dnsimple
 dnslookup
-dnsmadeeasy
 dnsoverhttps
 dnsrecord
 dnsresolver
@@ -2147,6 +2149,7 @@ downloadoffice
 downloadofficertool
 downloads
 downloadyoutubevideo
+dozent
 dpa
 dpapi
 dpi
@@ -2310,7 +2313,6 @@ elm
 elmah-io
 elonmusk
 eloqua
-elvish
 elvui
 em
 emacs
@@ -2441,6 +2443,8 @@ event
 event_id
 event_list
 event-timeline
+eventchannel
+eventchannels
 eventcollector
 eventful
 eventgrid
@@ -2448,6 +2452,9 @@ eventhub
 eventing
 eventlist
 eventlog
+eventlogchannel
+eventlogchannels
+eventlogmanifest
 eventlogs
 eventmonitor
 eventmonitoring
@@ -2457,7 +2464,6 @@ eventsubscription
 eventviewer
 eventwatch
 evergreen
-everix
 evernote
 everydaypowershell
 everydayrewards
@@ -2651,7 +2657,6 @@ fileserverresourcemanager
 fileshare
 filesharing
 filestorage
-filestream
 filesystem
 filesystementry-matcher
 filesystementry-matching
@@ -2770,7 +2775,6 @@ fortimanager
 fortinet
 fortinetmanager
 fortios
-fortune
 forum
 forwardcompatibility
 forwardedevents
@@ -2794,8 +2798,6 @@ freshservice-api
 freshserviceps
 freshworks
 friendly
-fritz
-fritzbox
 front
 frontapp
 frontdoor
@@ -2940,7 +2942,6 @@ gh-actions
 ghactions
 ghc
 ghibli
-ghost
 gif
 gifs
 giphy
@@ -3219,6 +3220,7 @@ hkey_users
 hklm
 hl7
 hlds
+hls
 hockey
 hol
 holiday
@@ -4381,6 +4383,7 @@ mozilla
 mp3
 mp4
 mpc
+mpeg
 mpn
 mrfk
 mrfylke
@@ -4564,7 +4567,6 @@ network adapter configuration operating os optical sensor physical pointing port
 network-credentials
 network-info
 networkanalytics
-networkcategory
 networkcloud
 networkcontroller
 networkdiscovery
@@ -4576,7 +4578,6 @@ networking
 networkinterfaces
 networkloadbalancer
 networkpolicyserver
-networkprofile
 networkscan
 networksecurity
 networksecuritygroup
@@ -5274,7 +5275,6 @@ poshy-wrap-kubectl
 poshy-wrap-maven
 poshy-wrap-nginx
 poshy-wrap-nmap
-poshy-wrap-npm
 poshy-wrap-pip
 poshy-wrap-pipenv
 poshy-wrap-pyenv
@@ -5499,7 +5499,6 @@ provider
 providerhub
 provision
 provisioning
-provisioningpackage
 provisonedpackage
 prowl
 prowl-notifications
@@ -6519,24 +6518,6 @@ pscommand_invoke-mavenpackage
 pscommand_invoke-mavenreleaseperform
 pscommand_invoke-mavenreleaseprepare
 pscommand_invoke-mavenreleaserollback
-pscommand_invoke-npmbinmungedpath
-pscommand_invoke-npminfo
-pscommand_invoke-npminit
-pscommand_invoke-npminstallforcefully
-pscommand_invoke-npminstallglobally
-pscommand_invoke-npminstallsave
-pscommand_invoke-npminstallsavedev
-pscommand_invoke-npmlist
-pscommand_invoke-npmlistdepth0
-pscommand_invoke-npmoutdated
-pscommand_invoke-npmpublish
-pscommand_invoke-npmrun
-pscommand_invoke-npmrundev
-pscommand_invoke-npmsearch
-pscommand_invoke-npmstart
-pscommand_invoke-npmtest
-pscommand_invoke-npmupdate
-pscommand_invoke-npmversion
 pscommand_invoke-pipenvcheck
 pscommand_invoke-pipenvclean
 pscommand_invoke-pipenvgraph
@@ -6979,23 +6960,6 @@ pscommand_notify-send-fallback
 pscommand_npm-disable-proxy
 pscommand_npm-enable-proxy
 pscommand_npm-show-proxy
-pscommand_npmd
-pscommand_npme
-pscommand_npmf
-pscommand_npmg
-pscommand_npmi
-pscommand_npml
-pscommand_npml0
-pscommand_npmo
-pscommand_npmp
-pscommand_npmr
-pscommand_npmrd
-pscommand_npms
-pscommand_npmse
-pscommand_npmst
-pscommand_npmt
-pscommand_npmu
-pscommand_npmv
 pscommand_open_command
 pscommand_pch
 pscommand_pcl
@@ -7931,24 +7895,6 @@ psfunction_invoke-mavenpackage
 psfunction_invoke-mavenreleaseperform
 psfunction_invoke-mavenreleaseprepare
 psfunction_invoke-mavenreleaserollback
-psfunction_invoke-npmbinmungedpath
-psfunction_invoke-npminfo
-psfunction_invoke-npminit
-psfunction_invoke-npminstallforcefully
-psfunction_invoke-npminstallglobally
-psfunction_invoke-npminstallsave
-psfunction_invoke-npminstallsavedev
-psfunction_invoke-npmlist
-psfunction_invoke-npmlistdepth0
-psfunction_invoke-npmoutdated
-psfunction_invoke-npmpublish
-psfunction_invoke-npmrun
-psfunction_invoke-npmrundev
-psfunction_invoke-npmsearch
-psfunction_invoke-npmstart
-psfunction_invoke-npmtest
-psfunction_invoke-npmupdate
-psfunction_invoke-npmversion
 psfunction_invoke-pipenvcheck
 psfunction_invoke-pipenvclean
 psfunction_invoke-pipenvgraph
@@ -8756,6 +8702,7 @@ releasemanagement
 releasenotes
 relevance
 relic
+reload
 remediation
 remedy
 reminder
@@ -9076,6 +9023,7 @@ schemaextensions
 scheme
 school-information-system
 schoolholidays
+schulung
 schulverwaltung
 science
 scissors
@@ -9192,7 +9140,6 @@ securityscopes
 securitytxt
 sed
 seed
-seek
 seekatar
 seeshell
 select
@@ -9490,6 +9437,7 @@ social
 social-media
 socialmedia
 socketlabs
+sockets
 sodium
 software
 softwarecenter
@@ -9617,7 +9565,6 @@ sqlitebynarymodule
 sqlitebynarypsmodule
 sqlitemodule
 sqllocaldb
-sqlmanagementobjects
 sqlpackage
 sqlplus
 sqlproj
@@ -9628,7 +9575,6 @@ sqlserver
 sqlserveragent
 sqlserverbynarymodule
 sqlserverbynarypsmodule
-sqlserverclient
 sqlservermodule
 sqlvirtualmachine
 sqlvm
@@ -9853,7 +9799,6 @@ synergy
 syntax
 syntax-highlighting
 syntaxcheck
-syntaxhighlighter
 synthesis
 synthetics
 sysadmin
@@ -10094,6 +10039,7 @@ timesheets
 timespan
 timezone
 tinkerpop
+tinymce
 tip
 tips
 titan
@@ -10143,8 +10089,6 @@ toughswitch
 tower
 tphubps
 tpm
-tr-064
-tr064
 trace
 traceevent
 tracer
@@ -10158,6 +10102,7 @@ trafficfiltering
 trafficmanager
 trafficmarking
 train
+trainer
 training
 training-course
 tram
@@ -10608,7 +10553,6 @@ vnugglets
 vnugglets.com
 vocabularies
 voice
-voiceservices
 voidtools
 volkskrant
 volta
@@ -10799,7 +10743,6 @@ whormi
 wi-fi
 wia
 wia.imagefile
-wid
 widedata
 wif
 wifi
@@ -10859,12 +10802,12 @@ windowscredentialsmanager
 windowsdataprotectionapi
 windowsdefender
 windowsdesktopsearch
+windowsevent
 windowseventlog
 windowsform
 windowsforms
 windowsindex
 windowsinstaller
-windowsinternaldatabase
 windowsinternals
 windowsiotservices
 windowsiso
@@ -10952,6 +10895,7 @@ workloads
 workpoint
 workrequests
 worksheet
+workshop
 workspace
 workspacemanager
 workspaceone
