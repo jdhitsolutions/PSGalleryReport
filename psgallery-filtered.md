@@ -3,13 +3,21 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [Viscalyx.Common](https://www.powershellgallery.com/Packages/Viscalyx.Common/0.2.0) | 0.2.0
+
+### Published: 08/25/2024 08:47:34 by Viscalyx
+
+Common commands that adds or improves functionality in various scenarios.
+
+__Downloads__: 44 | __Repository__: https://github.com/viscalyx/Viscalyx.Common
+
 ## [GitlabCli](https://www.powershellgallery.com/Packages/GitlabCli/1.116.0) | 1.116.0
 
 ### Published: 08/24/2024 23:00:01 by Chris Peterson
 
 Interact with GitLab via PowerShell
 
-__Downloads__: 20,196 | __Repository__: https://github.com/chris-peterson/pwsh-gitlab
+__Downloads__: 20,195 | __Repository__: https://github.com/chris-peterson/pwsh-gitlab
 
 ## [Endjin.RecommendedPractices.Build](https://www.powershellgallery.com/Packages/Endjin.RecommendedPractices.Build/1.5.8) | 1.5.8
 
@@ -19,14 +27,6 @@ Provides automated build features using on the InvokeBuild module
 
 __Downloads__: 34,079 | __Repository__: https://github.com/endjin/Endjin.RecommendedPractices.Build
 
-## [EnhancedVPNAO](https://www.powershellgallery.com/Packages/EnhancedVPNAO/0.0.26) | 0.0.26
-
-### Published: 08/24/2024 17:30:22 by Abdullah Ollivierre
-
-EnhancedVPNAO for PowerShell scripts.
-
-__Downloads__: 61 | __Repository__: 
-
 ## [EnhancedWin32DeployerAO](https://www.powershellgallery.com/Packages/EnhancedWin32DeployerAO/0.0.26) | 0.0.26
 
 ### Published: 08/24/2024 17:30:22 by Abdullah Ollivierre
@@ -35,13 +35,13 @@ EnhancedWin32DeployerAO for PowerShell scripts.
 
 __Downloads__: 61 | __Repository__: 
 
-## [EnhancedPSADTAO](https://www.powershellgallery.com/Packages/EnhancedPSADTAO/0.0.26) | 0.0.26
+## [EnhancedVPNAO](https://www.powershellgallery.com/Packages/EnhancedVPNAO/0.0.26) | 0.0.26
 
-### Published: 08/24/2024 17:30:21 by Abdullah Ollivierre
+### Published: 08/24/2024 17:30:22 by Abdullah Ollivierre
 
-EnhancedPSADTAO for PowerShell scripts.
+EnhancedVPNAO for PowerShell scripts.
 
-__Downloads__: 69 | __Repository__: 
+__Downloads__: 61 | __Repository__: 
 
 ## [EnhancedSPOAO](https://www.powershellgallery.com/Packages/EnhancedSPOAO/0.0.26) | 0.0.26
 
@@ -59,6 +59,14 @@ EnhancedSchedTaskAO for PowerShell scripts.
 
 __Downloads__: 65 | __Repository__: 
 
+## [EnhancedPSADTAO](https://www.powershellgallery.com/Packages/EnhancedPSADTAO/0.0.26) | 0.0.26
+
+### Published: 08/24/2024 17:30:21 by Abdullah Ollivierre
+
+EnhancedPSADTAO for PowerShell scripts.
+
+__Downloads__: 69 | __Repository__: 
+
 ## [EnhancedLoggingAO](https://www.powershellgallery.com/Packages/EnhancedLoggingAO/0.0.26) | 0.0.26
 
 ### Published: 08/24/2024 17:30:19 by Abdullah Ollivierre
@@ -75,14 +83,6 @@ EnhancedHyperVAO for PowerShell scripts.
 
 __Downloads__: 63 | __Repository__: 
 
-## [EnhancedFileManagerAO](https://www.powershellgallery.com/Packages/EnhancedFileManagerAO/0.0.26) | 0.0.26
-
-### Published: 08/24/2024 17:30:18 by Abdullah Ollivierre
-
-EnhancedFileManagerAO for PowerShell scripts.
-
-__Downloads__: 64 | __Repository__: 
-
 ## [EnhancedGraphAO](https://www.powershellgallery.com/Packages/EnhancedGraphAO/0.0.26) | 0.0.26
 
 ### Published: 08/24/2024 17:30:18 by Abdullah Ollivierre
@@ -91,19 +91,19 @@ EnhancedGraphAO for PowerShell scripts.
 
 __Downloads__: 67 | __Repository__: 
 
+## [EnhancedFileManagerAO](https://www.powershellgallery.com/Packages/EnhancedFileManagerAO/0.0.26) | 0.0.26
+
+### Published: 08/24/2024 17:30:18 by Abdullah Ollivierre
+
+EnhancedFileManagerAO for PowerShell scripts.
+
+__Downloads__: 64 | __Repository__: 
+
 ## [EnhancedDeviceMigrationAO](https://www.powershellgallery.com/Packages/EnhancedDeviceMigrationAO/0.0.26) | 0.0.26
 
 ### Published: 08/24/2024 17:30:17 by Abdullah Ollivierre
 
 EnhancedDeviceMigrationAO for PowerShell scripts.
-
-__Downloads__: 65 | __Repository__: 
-
-## [EnhancedAO.Graph.SignInLogs](https://www.powershellgallery.com/Packages/EnhancedAO.Graph.SignInLogs/0.0.26) | 0.0.26
-
-### Published: 08/24/2024 17:30:16 by Abdullah Ollivierre
-
-EnhancedAO.Graph.SignInLogs for PowerShell scripts.
 
 __Downloads__: 65 | __Repository__: 
 
@@ -114,6 +114,14 @@ __Downloads__: 65 | __Repository__:
 EnhancedBoilerPlateAO for PowerShell scripts.
 
 __Downloads__: 82 | __Repository__: 
+
+## [EnhancedAO.Graph.SignInLogs](https://www.powershellgallery.com/Packages/EnhancedAO.Graph.SignInLogs/0.0.26) | 0.0.26
+
+### Published: 08/24/2024 17:30:16 by Abdullah Ollivierre
+
+EnhancedAO.Graph.SignInLogs for PowerShell scripts.
+
+__Downloads__: 65 | __Repository__: 
 
 ## [PSServU](https://www.powershellgallery.com/Packages/PSServU/2.6.0) | 2.6.0
 
@@ -169,7 +177,7 @@ __Downloads__: 1,983 | __Repository__:
 
 This module allows the creation of password expiry emails for users, managers, administrators, and security according to defined templates. It's able to work with different rules allowing to fully customize who gets the email and when.
 
-__Downloads__: 9,082 | __Repository__: https://github.com/EvotecIT/PasswordSolution
+__Downloads__: 9,081 | __Repository__: https://github.com/EvotecIT/PasswordSolution
 
 ## [WhatsUpGoldPS](https://www.powershellgallery.com/Packages/WhatsUpGoldPS/0.1.12) | 0.1.12
 
@@ -209,7 +217,7 @@ __Downloads__: 2 | __Repository__:
 
 This module provides an interface to the Hudu Rest API further information can be found at https://github.com/lwhitelock/HuduAPI
 
-__Downloads__: 1,323,451 | __Repository__: 
+__Downloads__: 1,323,427 | __Repository__: 
 
 ## [CAT](https://www.powershellgallery.com/Packages/CAT/1.8.0.1) | 1.8.0.1
 
@@ -274,6 +282,14 @@ __Downloads__: 678 | __Repository__: https://github.com/vmelamed5/CyberArk/tree/
 Dynamically loads batch job configurations and executes the job.
 
 __Downloads__: 625 | __Repository__: 
+
+## [Prelude](https://www.powershellgallery.com/Packages/Prelude/0.2.21) | 0.2.21
+
+### Published: 08/22/2024 23:58:10 by Jason Wohlgemuth
+
+A "standard" library for PowerShell inspired by the preludes of other languages
+
+__Downloads__: 7,042 | __Repository__: https://github.com/jhwohlgemuth/pwsh-prelude
 
 ## [ItGlue](https://www.powershellgallery.com/Packages/ItGlue/2024.8.22.0) | 2024.8.22.0
 
@@ -364,7 +380,7 @@ __Downloads__: 5 | __Repository__:
 
 PowerShell Module for Rubrik Security Cloud. GraphQL schema version: v20240812-12 .
 
-__Downloads__: 10,972 | __Repository__: https://github.com/rubrikinc/rubrik-powershell-sdk
+__Downloads__: 10,970 | __Repository__: https://github.com/rubrikinc/rubrik-powershell-sdk
 
 ## [mySQLite](https://www.powershellgallery.com/Packages/mySQLite/0.14.0) | 0.14.0
 
@@ -388,7 +404,7 @@ __Downloads__: 530 | __Repository__: https://github.com/windmill-labs/windmill/t
 
 Liquit Workspace PowerShell Module
 
-__Downloads__: 9,307 | __Repository__: 
+__Downloads__: 9,305 | __Repository__: 
 
 ## [Cps.Logger](https://www.powershellgallery.com/Packages/Cps.Logger/1.0.1.2) | 1.0.1.2
 
@@ -404,7 +420,7 @@ __Downloads__: 35 | __Repository__:
 
 This module is designed to make it easier to use the DattoRMM API in your PowerShell scripts. As all the hard work is done, you can develop your scripts faster and be more effecient. There is no need to go through a big learning curve spending lots of time working out how to use the Datto RMM API. Simply load the module, enter your API keys and get results within minutes!
 
-__Downloads__: 231,729 | __Repository__: https://github.com/aaronengels/DattoRMM
+__Downloads__: 231,730 | __Repository__: https://github.com/aaronengels/DattoRMM
 
 ## [Cisco.UCSManager](https://www.powershellgallery.com/Packages/Cisco.UCSManager/3.0.5.4) | 3.0.5.4
 
@@ -428,7 +444,7 @@ __Downloads__: 13,730 | __Repository__:
 
 PowerShell Module for Cisco IMC (IMC module in Cisco PowerTool Suite)
 
-__Downloads__: 21,643 | __Repository__: 
+__Downloads__: 21,642 | __Repository__: 
 
 ## [Cisco.UCS.Common](https://www.powershellgallery.com/Packages/Cisco.UCS.Common/3.0.5.4) | 3.0.5.4
 
@@ -436,7 +452,7 @@ __Downloads__: 21,643 | __Repository__:
 
 PowerShell Module for Cisco Core (Core module in Cisco PowerTool Suite)
 
-__Downloads__: 57,157 | __Repository__: 
+__Downloads__: 57,158 | __Repository__: 
 
 ## [PanasonicCommandBIOSSettings](https://www.powershellgallery.com/Packages/PanasonicCommandBIOSSettings/2.10110.0.0) | 2.10110.0.0
 
@@ -492,7 +508,7 @@ __Downloads__: 337 | __Repository__: https://github.com/PSModule/GoogleFonts
 
 A PowerShell module that makes it easier to use dynamic params.
 
-__Downloads__: 18,795 | __Repository__: https://github.com/PSModule/DynamicParams
+__Downloads__: 18,791 | __Repository__: https://github.com/PSModule/DynamicParams
 
 ## [Admin](https://www.powershellgallery.com/Packages/Admin/1.1.0) | 1.1.0
 
@@ -500,7 +516,7 @@ __Downloads__: 18,795 | __Repository__: https://github.com/PSModule/DynamicParam
 
 A PowerShell module working with the admin role.
 
-__Downloads__: 10,926 | __Repository__: https://github.com/PSModule/Admin
+__Downloads__: 10,924 | __Repository__: https://github.com/PSModule/Admin
 
 ## [AzurePipelinesPS](https://www.powershellgallery.com/Packages/AzurePipelinesPS/4.0.66) | 4.0.66
 
@@ -652,7 +668,7 @@ __Downloads__: 20 | __Repository__: https://github.com/rhubarb-geek-nz/Authentic
 
 PowerShell functions to manage a JumpCloud Directory-as-a-Service
 
-__Downloads__: 5,946,509 | __Repository__: https://github.com/TheJumpCloud/support/wiki
+__Downloads__: 5,946,510 | __Repository__: https://github.com/TheJumpCloud/support/wiki
 
 ## [Akamai](https://www.powershellgallery.com/Packages/Akamai/2.1.0) | 2.1.0
 
@@ -2039,20 +2055,4 @@ This modules provides Cmdlets for OCI Analytics Service
 
 __Downloads__: 7,227 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-## [OCI.PSModules.Aivision](https://www.powershellgallery.com/Packages/OCI.PSModules.Aivision/89.0.0) | 89.0.0
-
-### Published: 08/20/2024 17:44:12 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Aivision Service
-
-__Downloads__: 5,560 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Aispeech](https://www.powershellgallery.com/Packages/OCI.PSModules.Aispeech/89.0.0) | 89.0.0
-
-### Published: 08/20/2024 17:44:06 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Aispeech Service
-
-__Downloads__: 5,869 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-*Updated: Sunday, 25 August 2024 02:13:31 UTC*
+*Updated: Sunday, 25 August 2024 09:51:43 UTC*
