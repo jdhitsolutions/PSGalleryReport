@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Saturday, 24 August 2024 17:51:48 UTC
+Updated: Sunday, 25 August 2024 02:13:39 UTC
 
 .bat
 .env
@@ -316,7 +316,6 @@ alphafs
 alpine
 alt3
 alter
-alteryx
 alwaysontop
 alwaysonvpn
 alz
@@ -890,6 +889,7 @@ biztalk
 biztalkalm
 biztalkdeploymentframework
 bks
+black
 blackbaud
 blackberry
 blackberryuem
@@ -998,7 +998,6 @@ buildkit
 buildkite
 buildmaster
 builds
-buildtool
 bulk
 bulletin
 bullhorn
@@ -1079,6 +1078,7 @@ catimage
 cats
 catty
 cavium
+cb
 cblueshell
 cbr
 cbz
@@ -1559,6 +1559,8 @@ converttomarkdown
 converttomd
 cookie
 coolq
+cooltag1
+cooltag2
 coordinates
 copilot
 copy
@@ -1787,6 +1789,7 @@ datacollectionrule
 dataconduit
 dataconnectivity
 datadog
+dataexchange
 dataexplorer
 datafactory
 dataflow
@@ -2466,7 +2469,6 @@ eventsubscription
 eventviewer
 eventwatch
 evergreen
-everix
 evernote
 everydaypowershell
 everydayrewards
@@ -3073,6 +3075,7 @@ gtx1080ti
 guardedfabric
 guardicore
 gubbins
+guest
 guestconfiguration
 guests
 gui
@@ -3191,7 +3194,6 @@ hex
 hexdump
 hg
 hibernate
-hibernation
 hibp
 hidden
 hide
@@ -3312,8 +3314,6 @@ hyperv
 hypervisor
 hypervplugins
 hypothesis
-hysolate
-hysolatemangementconsole
 i-doit
 i2c
 ia
@@ -3755,6 +3755,7 @@ kms
 knapsack
 knetps
 knob
+knowbe4
 knowledge
 knowledgebase
 koans
@@ -3779,6 +3780,7 @@ kudu
 kurukuru
 kusto
 kvm
+kvp
 l1tf
 l2tp
 lab
@@ -4484,6 +4486,7 @@ mycloudrevolution
 myget
 myhub
 myip
+myitprocess
 myjson
 myjson.com
 myob
@@ -4502,8 +4505,6 @@ name
 name-of-dogs
 namedpipe
 nameit
-nameresolution
-names
 nameserver
 nameservers
 namespace
@@ -4968,7 +4969,6 @@ packard
 packer
 packet
 packing
-pacli
 page
 pageant
 pager
@@ -5008,6 +5008,7 @@ pass
 pass-the-hash
 pass-the-ticket
 passcode
+passivetotal
 passkey
 passkeys
 passphrase
@@ -5307,6 +5308,7 @@ pow
 powdrgit
 power
 power-apps
+power-cbr
 power-platform
 power-shell
 powerapps
@@ -8508,7 +8510,6 @@ publicholidays
 publicip
 publish
 publish-module
-publishedmodules
 publisher
 publishers
 publishing
@@ -8905,6 +8906,7 @@ rightsmanagement
 ring
 ripe
 risk
+riskiq
 riskpro
 risksense
 rivermeadow
@@ -9032,6 +9034,7 @@ sapstartstopazure
 sarcasm
 sarif
 sas
+sat
 satirical
 save
 savedcreds
@@ -9090,9 +9093,6 @@ sconfig
 scoop
 scope
 score
-scouterna
-scouternasetjanster
-scoutnet
 scp
 scrap
 scrape
@@ -9177,6 +9177,7 @@ securesphere
 securestring
 security
 security_cameras
+security-awareness-training
 security-policy
 security-score
 security-txt
@@ -10212,6 +10213,7 @@ trouw
 true-color
 truecrypt
 truenas
+trumethods
 truportal
 trusted
 trusted-host
@@ -10307,6 +10309,7 @@ ud-pivottable
 ud-progressstepbar
 ud-rangeslider
 ud-readingbar
+ud-scrollspy
 ud-selectdatetime
 ud-selector
 ud-signature
@@ -11092,6 +11095,7 @@ z
 zabbix
 zabbixps
 zap
+zap-zsh
 zcat
 zendesk
 zerotrust
