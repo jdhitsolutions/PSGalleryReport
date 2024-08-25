@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Sunday, 25 August 2024 02:13:39 UTC
+Updated: Sunday, 25 August 2024 09:51:51 UTC
 
 .bat
 .env
@@ -316,6 +316,7 @@ alphafs
 alpine
 alt3
 alter
+alteryx
 alwaysontop
 alwaysonvpn
 alz
@@ -987,7 +988,6 @@ bugzilla
 build
 build-log
 build-scripts
-build-test-publish
 builddefinition
 builder
 buildhelpers
@@ -998,6 +998,7 @@ buildkit
 buildkite
 buildmaster
 builds
+buildtool
 bulk
 bulletin
 bullhorn
@@ -1118,7 +1119,6 @@ centurylink
 centurylinkcloud
 cer
 cert
-certbasedauth
 certera
 certes
 certificate
@@ -1463,7 +1463,6 @@ configurationkey
 configurationmanagement
 configurationmanager
 configurationprofile
-configurations
 configure
 confluence
 confluent
@@ -1751,7 +1750,6 @@ dacpac
 dacpackage
 dagger
 daily
-dalle3
 dane
 dangling
 dapr
@@ -2123,7 +2121,6 @@ dogstatsd
 dok
 dokuwiki
 domain
-domaincontroller
 domainkey
 domainname
 domainnamesystem
@@ -2331,7 +2328,6 @@ emailnotification
 emailnotificationcomponent
 emailsecurity
 embedded
-embedding
 emc
 emcomm
 emergency
@@ -2834,6 +2830,7 @@ fun
 function
 function-testing
 functionality
+functionalprogramming
 functionapp
 functions
 funds
@@ -3050,6 +3047,7 @@ graphic
 graphics
 graphite
 graphql
+graphs
 graphservices
 graphviz
 graylog
@@ -3194,6 +3192,7 @@ hex
 hexdump
 hg
 hibernate
+hibernation
 hibp
 hidden
 hide
@@ -3888,6 +3887,7 @@ lina
 line
 line-endings
 linear
+linearalgebra
 lingeringobjects
 link
 link-capability
@@ -4338,11 +4338,6 @@ models
 modify
 module
 module-maintenance
-module-manifest
-module-publishing
-module-publishing-framework
-module-testing
-module-testing-framework
 modulebuild
 modulecreation
 modulefast
@@ -4486,7 +4481,6 @@ mycloudrevolution
 myget
 myhub
 myip
-myitprocess
 myjson
 myjson.com
 myob
@@ -4505,6 +4499,8 @@ name
 name-of-dogs
 namedpipe
 nameit
+nameresolution
+names
 nameserver
 nameservers
 namespace
@@ -4534,8 +4530,6 @@ neo4j
 neovim
 neptune
 nerdfonts
-nerdio
-nerdioapi
 nerdymishka
 nessus
 nested
@@ -4596,7 +4590,6 @@ new-dynamicparameter
 new-githubrelease
 new-item
 new-itemproperty
-new-modulemanifest
 new-pinneditem
 new-rdpsession
 new-samcmapplicationfrompackagedefinitionsms
@@ -4637,7 +4630,6 @@ nlm
 nlog
 nmap
 nmbell
-nmm
 nntp
 node
 nodejs
@@ -4969,6 +4961,7 @@ packard
 packer
 packet
 packing
+pacli
 page
 pageant
 pager
@@ -5354,8 +5347,6 @@ powershell-isprime
 powershell-lightning
 powershell-module
 powershell-modules
-powershell-modules-convention
-powershell-project-convention
 powershell-releases-api
 powershell-remoting
 powershell-terminal
@@ -5541,7 +5532,6 @@ psake
 psappdeploytoolkit
 psat
 psazd
-psbackup
 psbbix
 psbicep
 pscandy
@@ -8509,7 +8499,7 @@ publicfolder
 publicholidays
 publicip
 publish
-publish-module
+publishedmodules
 publisher
 publishers
 publishing
@@ -9093,6 +9083,9 @@ sconfig
 scoop
 scope
 score
+scouterna
+scouternasetjanster
+scoutnet
 scp
 scrap
 scrape
@@ -9109,7 +9102,6 @@ screenscraping
 screenshot
 script
 script_version
-script-module
 script-to-assembly
 script-to-executable
 scriptanalyzer
@@ -9369,7 +9361,6 @@ shred
 shuf
 shutdown
 sid
-sidecar
 siem
 sif
 sigma
@@ -9382,7 +9373,6 @@ signing
 signtool
 silk
 silver_ticket
-sim
 simple
 simplecontainers
 simplepassword
@@ -10010,7 +10000,6 @@ test
 test-automation
 test-dscconfiguration
 test-internetconnection
-test-modulemanifest
 test-modulepath
 test-osplatform
 test-psremoting
@@ -10213,7 +10202,6 @@ trouw
 true-color
 truecrypt
 truenas
-trumethods
 truportal
 trusted
 trusted-host
@@ -10305,11 +10293,9 @@ ud-navbarsearch
 ud-numbermask
 ud-orgchart
 ud-piechart3d
-ud-pivottable
 ud-progressstepbar
 ud-rangeslider
 ud-readingbar
-ud-scrollspy
 ud-selectdatetime
 ud-selector
 ud-signature
@@ -10340,6 +10326,7 @@ udword
 uefi
 uem
 ui
+ui/ux
 ui7
 uk
 ul
@@ -10392,7 +10379,6 @@ unzip
 up
 update
 update-module
-update-modulemanifest
 update-moduletests
 update-typedata
 updatedeferral
