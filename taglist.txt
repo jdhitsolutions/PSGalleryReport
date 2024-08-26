@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 26 August 2024 02:11:49 UTC
+Updated: Monday, 26 August 2024 09:51:52 UTC
 
 .bat
 .env
@@ -329,7 +329,6 @@ amazonaws
 amazonmgn
 amazontitan
 amazonwebservices
-amend
 ami
 amiga
 amp
@@ -610,6 +609,7 @@ automation
 automation psmodule
 automationanywhere
 automationutils
+autopatching
 autopilot
 autoscaling
 autostart
@@ -1010,11 +1010,8 @@ bus
 business
 business_email_compromise
 businesscentral
-businessdays
-businesshours
 businessobjects
 businessrulesengine
-businesstime
 bxor
 bydesign
 byexample
@@ -2226,6 +2223,9 @@ duf
 dummy
 dummyusers
 dump
+dumpify
+dumping
+dumps
 dupes
 duplicate
 duplicate-files
@@ -2618,6 +2618,7 @@ fiddler
 fido
 fido2
 fieldglass
+fields
 fifa
 figlet
 file
@@ -2959,7 +2960,6 @@ git-client
 git-clone
 git-flow
 git-lfs
-git-proxy
 git-rename
 git-stat
 gitcmdline
@@ -3280,11 +3280,9 @@ hsdp
 hsl
 html
 http
-http_proxy
 httpclient
 httplistener
 https
-https_proxy
 httpserver
 huawei
 huawei-ibmc-cmdlets
@@ -3575,7 +3573,6 @@ iplookup
 ipmaths
 ipp
 iprange
-ips
 ipscan
 ipv4
 ipv4ping
@@ -4489,8 +4486,9 @@ mxlookup
 mycloudrevolution
 myget
 myhub
-myip
 myitprocess
+myjson
+myjson.com
 myob
 myposh
 mypstag
@@ -4649,7 +4647,6 @@ non-volatile
 none
 noneimages
 noninteractive
-noproxy
 nord
 nordtools
 normal
@@ -4674,7 +4671,6 @@ notify-send-wsl
 nova
 npgsql
 npm
-npm-proxy
 npm-upgrade
 nprinting
 nprintingapi
@@ -4826,7 +4822,6 @@ ontap_pstk_9.8.0
 onyphe
 onyphe.io
 oob
-oop
 op
 opa
 opc
@@ -4844,7 +4839,6 @@ openholidaysapi
 openid
 openidconnect
 openinghours
-openport
 openprovider
 openscad
 opensearch
@@ -5253,12 +5247,10 @@ poshy-colors
 poshy-coreutils-ish
 poshy-dir-nav
 poshy-ecks
-poshy-env-proxy
 poshy-env-var
 poshy-ls-isms
 poshy-lucidity
 poshy-multimedia
-poshy-net
 poshy-notify-send
 poshy-sh-isms
 poshy-sshconfig
@@ -5679,7 +5671,6 @@ pscommand_dils
 pscommand_dipu
 pscommand_dirm
 pscommand_dirname
-pscommand_disable-proxy
 pscommand_dit
 pscommand_dk
 pscommand_dkbash
@@ -5809,7 +5800,6 @@ pscommand_dxc
 pscommand_dxcit
 pscommand_e64
 pscommand_ef64
-pscommand_enable-proxy
 pscommand_encode64
 pscommand_encodefile64
 pscommand_export-gitrepositoryzip
@@ -6029,8 +6019,6 @@ pscommand_get-gittrackedfiles
 pscommand_get-gituntrackedfiles
 pscommand_get-gitwhatchangedstylized
 pscommand_get-itemnixmode
-pscommand_get-netipaddresspublic
-pscommand_get-netipaddresssimple
 pscommand_get-pwshaliasdefinition
 pscommand_get-pwshfunctiondefinition
 pscommand_get-viewer
@@ -6098,12 +6086,6 @@ pscommand_git_show_stash_file
 pscommand_git_stats
 pscommand_git_status_short_with_loglines
 pscommand_git-changelog
-pscommand_git-disable-proxy
-pscommand_git-enable-proxy
-pscommand_git-global-disable-proxy
-pscommand_git-global-enable-proxy
-pscommand_git-global-show-proxy
-pscommand_git-show-proxy
 pscommand_gitignore-reload
 pscommand_gittowork
 pscommand_gl
@@ -6804,7 +6786,6 @@ pscommand_invoke-zypperverify
 pscommand_invoke-zypperversioncompare
 pscommand_invoke-zypperwhatprovides
 pscommand_invokeyumgrouplist
-pscommand_ips
 pscommand_ipy
 pscommand_ipython
 pscommand_jump
@@ -6958,7 +6939,6 @@ pscommand_mpom
 pscommand_mrperf
 pscommand_mrprep
 pscommand_mrrb
-pscommand_myip
 pscommand_new-gitbranchfromstash
 pscommand_new-gitbranchtracked
 pscommand_new-gitpatchfile
@@ -6986,9 +6966,6 @@ pscommand_nmap_slow
 pscommand_nmap_traceroute
 pscommand_nmap_web_safe_osscan
 pscommand_notify-send-fallback
-pscommand_npm-disable-proxy
-pscommand_npm-enable-proxy
-pscommand_npm-show-proxy
 pscommand_npmd
 pscommand_npme
 pscommand_npmf
@@ -7013,7 +6990,6 @@ pscommand_peek
 pscommand_pgr
 pscommand_pi
 pscommand_pidev
-pscommand_ping
 pscommand_pip
 pscommand_pip_package_location
 pscommand_pip3
@@ -7034,7 +7010,6 @@ pscommand_pl
 pscommand_po
 pscommand_pop-gitstashentry
 pscommand_ppy
-pscommand_proxy-help
 pscommand_prun
 pscommand_psh
 pscommand_psy
@@ -7053,7 +7028,6 @@ pscommand_push-gitstashentrywithmessage
 pscommand_pushgr
 pscommand_pvenv
 pscommand_pwh
-pscommand_pwshrc-show-proxy
 pscommand_py
 pscommand_pyenv
 pscommand_pylint-quick
@@ -7125,14 +7099,10 @@ pscommand_set-locationup4
 pscommand_set-locationup5
 pscommand_sgem
 pscommand_show-gitremote
-pscommand_show-proxy
 pscommand_shttp
 pscommand_shuf
 pscommand_sl
 pscommand_ssh-add-all
-pscommand_ssh-disable-proxy
-pscommand_ssh-enable-proxy
-pscommand_ssh-show-proxy
 pscommand_sshlist
 pscommand_start-gitbisect
 pscommand_start-gitcherrypick
@@ -7430,7 +7400,6 @@ psfunction_d
 psfunction_decode64
 psfunction_decodefile64
 psfunction_dirname
-psfunction_disable-proxy
 psfunction_docker-archive-content
 psfunction_docker-build
 psfunction_docker-compose-fresh
@@ -7496,7 +7465,6 @@ psfunction_dotnet-tool-update-all-global
 psfunction_dotnet-watch
 psfunction_dotnet-watch-run
 psfunction_dotnet-watch-test
-psfunction_enable-proxy
 psfunction_encode64
 psfunction_encodefile64
 psfunction_export-gitrepositoryzip
@@ -7624,8 +7592,6 @@ psfunction_get-gittrackedfiles
 psfunction_get-gituntrackedfiles
 psfunction_get-gitwhatchangedstylized
 psfunction_get-itemnixmode
-psfunction_get-netipaddresspublic
-psfunction_get-netipaddresssimple
 psfunction_get-pwshaliasdefinition
 psfunction_get-pwshfunctiondefinition
 psfunction_get-viewer
@@ -7653,12 +7619,6 @@ psfunction_git_show_stash_file
 psfunction_git_stats
 psfunction_git_status_short_with_loglines
 psfunction_git-changelog
-psfunction_git-disable-proxy
-psfunction_git-enable-proxy
-psfunction_git-global-disable-proxy
-psfunction_git-global-enable-proxy
-psfunction_git-global-show-proxy
-psfunction_git-show-proxy
 psfunction_gitignore-reload
 psfunction_gittowork
 psfunction_gplfs
@@ -8252,9 +8212,6 @@ psfunction_nmap_slow
 psfunction_nmap_traceroute
 psfunction_nmap_web_safe_osscan
 psfunction_notify-send-fallback
-psfunction_npm-disable-proxy
-psfunction_npm-enable-proxy
-psfunction_npm-show-proxy
 psfunction_open_command
 psfunction_peek
 psfunction_pipig
@@ -8265,7 +8222,6 @@ psfunction_pipreq
 psfunction_pipunall
 psfunction_pipupall
 psfunction_pop-gitstashentry
-psfunction_proxy-help
 psfunction_publish-gitcommitsforcefullywithlease
 psfunction_publish-gitcommitssettingupstream
 psfunction_publish-gitcommitssettingupstreamtoorigin
@@ -8276,7 +8232,6 @@ psfunction_publish-gitcommitswithtags
 psfunction_publish-gitrepositorytosvn
 psfunction_push-gitstashentry
 psfunction_push-gitstashentrywithmessage
-psfunction_pwshrc-show-proxy
 psfunction_pyserver
 psfunction_read-dotenv
 psfunction_register-argcompleteargumentcompleter
@@ -8338,13 +8293,9 @@ psfunction_set-locationup3
 psfunction_set-locationup4
 psfunction_set-locationup5
 psfunction_show-gitremote
-psfunction_show-proxy
 psfunction_shttp
 psfunction_shuf
 psfunction_ssh-add-all
-psfunction_ssh-disable-proxy
-psfunction_ssh-enable-proxy
-psfunction_ssh-show-proxy
 psfunction_sshlist
 psfunction_start-gitbisect
 psfunction_start-gitcherrypick
@@ -8683,7 +8634,6 @@ readthedocs
 real-time
 realschule
 realtimeprotection
-rebase
 reboot
 rebootnodeifneeded
 reckon
@@ -8885,8 +8835,6 @@ reversedsc
 reverseengineering
 review
 revision
-reword
-rewrite
 rexec
 rfc1305
 rfc1436
@@ -9413,7 +9361,6 @@ siteconfiguration
 sitecore
 sitecoresearch
 sitemaintenance
-sitemap
 siterecovery
 sites
 sitesystemserver
@@ -9645,6 +9592,7 @@ sqlserverbynarypsmodule
 sqlserverclient
 sqlservermodule
 sqlvirtualmachine
+sqlvm
 sqr
 sqrt
 square
@@ -9955,7 +9903,6 @@ taxonomy
 tcp
 tcp/ip
 tcpip
-tcpport
 tcprjmgmt
 tcpserver
 tcptest
@@ -10423,7 +10370,6 @@ uptimerobot
 uptobox
 uqword
 uri
-uri-scheme
 url
 url-encode
 url-shortener
@@ -10487,6 +10433,7 @@ validatemapsconnectivity
 validation
 validator
 value
+values
 valve
 vami
 vao
@@ -10957,9 +10904,6 @@ worker
 workflow
 workflowmax
 workflows
-workingdays
-workinghours
-workingtime
 workload
 workload-automation
 workloadidentity
