@@ -155,7 +155,7 @@ __Downloads__: 27,820,283 | __Repository__: https://github.com/ThomasKur/ModernW
 
 Orchestrate driver, BIOS/UEFI and firmware updates for Lenovo computers 👨‍💻
 
-__Downloads__: 25,828,837 | __Repository__: https://www.github.com/jantari/LSUClient
+__Downloads__: 25,829,042 | __Repository__: https://www.github.com/jantari/LSUClient
 
 ## [Pester](https://www.powershellgallery.com/Packages/Pester/5.6.1) | 5.6.1
 
@@ -163,7 +163,7 @@ __Downloads__: 25,828,837 | __Repository__: https://www.github.com/jantari/LSUCl
 
 Pester provides a framework for running BDD style Tests to execute and validate PowerShell commands inside of PowerShell and offers a powerful set of Mocking Functions that allow tests to mimic and mock the functionality of any command inside of a piece of PowerShell code being tested. Pester tests can execute any command or script that is accessible to a pester test file. This can include functions, Cmdlets, Modules and scripts. Pester can be run in ad hoc style in a console or it can be integrated into the Build scripts of a Continuous Integration system.
 
-__Downloads__: 21,720,053 | __Repository__: https://github.com/Pester/Pester
+__Downloads__: 21,720,169 | __Repository__: https://github.com/Pester/Pester
 
 ## [AzTable](https://www.powershellgallery.com/Packages/AzTable/2.1.0) | 2.1.0
 
@@ -171,7 +171,7 @@ __Downloads__: 21,720,053 | __Repository__: https://github.com/Pester/Pester
 
 Sample functions to add/retrieve/update entities on Azure Storage Tables from PowerShell (This is the same as AzureRmStorageTable module but with a new module name). It requires latest PowerShell Az module installed. Instructions at https://docs.microsoft.com/en-us/powershell/azure/install-az-ps?view=azps-1.6.0. For documentation, please visit https://paulomarquesc.github.io/working-with-azure-storage-tables-from-powershell/.
 
-__Downloads__: 20,852,975 | __Repository__: 
+__Downloads__: 20,853,343 | __Repository__: 
 
 ## [SecurityPolicy](https://www.powershellgallery.com/Packages/SecurityPolicy/0.0.13) | 0.0.13
 
@@ -179,7 +179,7 @@ __Downloads__: 20,852,975 | __Repository__:
 
 Module that allows getting, adding and removing User Rights Assignment without using secedit.exe
 
-__Downloads__: 20,072,319 | __Repository__: https://github.com/EvotecIT/SecurityPolicy
+__Downloads__: 20,073,532 | __Repository__: https://github.com/EvotecIT/SecurityPolicy
 
 ## [MSAL.PS](https://www.powershellgallery.com/Packages/MSAL.PS/4.37.0.0) | 4.37.0.0
 
@@ -189,7 +189,7 @@ The MSAL.PS PowerShell module wraps MSAL.NET functionality into PowerShell-frien
 
 MSAL.NET (Microsoft.Identity.Client) is an authentication library which enables you to acquire tokens from Azure AD, to access protected Web APIs (Microsoft APIs or applications registered with Azure Active Directory).
 
-__Downloads__: 19,639,058 | __Repository__: https://github.com/jasoth/MSAL.PS
+__Downloads__: 19,639,287 | __Repository__: https://github.com/jasoth/MSAL.PS
 
 ## [VMware.VimAutomation.Sdk](https://www.powershellgallery.com/Packages/VMware.VimAutomation.Sdk/13.3.0.24145081) | 13.3.0.24145081
 
@@ -197,7 +197,7 @@ __Downloads__: 19,639,058 | __Repository__: https://github.com/jasoth/MSAL.PS
 
 This PowerShell module contains PowerCLI Sdk.
 
-__Downloads__: 19,474,732 | __Repository__: https://developer.vmware.com/powercli
+__Downloads__: 19,474,955 | __Repository__: https://developer.vmware.com/powercli
 
 ## [BurntToast](https://www.powershellgallery.com/Packages/BurntToast/0.8.5) | 0.8.5
 
@@ -205,7 +205,7 @@ __Downloads__: 19,474,732 | __Repository__: https://developer.vmware.com/powercl
 
 Module for creating and displaying Toast Notifications on Microsoft Windows 10.
 
-__Downloads__: 19,207,640 | __Repository__: https://github.com/Windos/BurntToast
+__Downloads__: 19,207,728 | __Repository__: https://github.com/Windos/BurntToast
 
 ## [VMware.VimAutomation.Common](https://www.powershellgallery.com/Packages/VMware.VimAutomation.Common/13.3.0.24145081) | 13.3.0.24145081
 
@@ -213,7 +213,7 @@ __Downloads__: 19,207,640 | __Repository__: https://github.com/Windos/BurntToast
 
 This PowerShell module contains functionality required by multiple PowerCLI modules.
 
-__Downloads__: 18,783,724 | __Repository__: https://developer.vmware.com/powercli
+__Downloads__: 18,783,941 | __Repository__: https://developer.vmware.com/powercli
 
 ## [VMware.Vim](https://www.powershellgallery.com/Packages/VMware.Vim/8.3.0.24145081) | 8.3.0.24145081
 
@@ -221,7 +221,7 @@ __Downloads__: 18,783,724 | __Repository__: https://developer.vmware.com/powercl
 
 This PowerShell module contains PowerCLI Vim.
 
-__Downloads__: 17,585,708 | __Repository__: https://developer.vmware.com/powercli
+__Downloads__: 17,585,923 | __Repository__: https://developer.vmware.com/powercli
 
 ## [7Zip4Powershell](https://www.powershellgallery.com/Packages/7Zip4Powershell/2.5.0) | 2.5.0
 
@@ -229,7 +229,7 @@ __Downloads__: 17,585,708 | __Repository__: https://developer.vmware.com/powercl
 
 Powershell module for creating and extracting 7-Zip archives
 
-__Downloads__: 17,226,961 | __Repository__: https://github.com/thoemmi/7Zip4Powershell
+__Downloads__: 17,227,008 | __Repository__: https://github.com/thoemmi/7Zip4Powershell
 
 ## [VMware.VimAutomation.Cis.Core](https://www.powershellgallery.com/Packages/VMware.VimAutomation.Cis.Core/13.3.0.24145081) | 13.3.0.24145081
 
@@ -237,7 +237,7 @@ __Downloads__: 17,226,961 | __Repository__: https://github.com/thoemmi/7Zip4Powe
 
 This PowerShell module contains PowerCLI Cloud Infrastructure Suite cmdlets.
 
-__Downloads__: 16,233,493 | __Repository__: https://developer.vmware.com/powercli
+__Downloads__: 16,233,710 | __Repository__: https://developer.vmware.com/powercli
 
 ## [VMware.VimAutomation.Core](https://www.powershellgallery.com/Packages/VMware.VimAutomation.Core/13.3.0.24145081) | 13.3.0.24145081
 
@@ -245,7 +245,7 @@ __Downloads__: 16,233,493 | __Repository__: https://developer.vmware.com/powercl
 
 This PowerShell module contains Windows PowerShell cmdlets for managing vSphere.
 
-__Downloads__: 16,199,408 | __Repository__: https://developer.vmware.com/powercli
+__Downloads__: 16,199,610 | __Repository__: https://developer.vmware.com/powercli
 
 ## [VMware.VimAutomation.Vds](https://www.powershellgallery.com/Packages/VMware.VimAutomation.Vds/13.3.0.24145081) | 13.3.0.24145081
 
@@ -2138,4 +2138,4 @@ via DogStatsD custom UDP protocol.
 
 __Downloads__: 629,889 | __Repository__: https://github.com/murati-hu/DogStatsD
 
-*Updated: Monday, 26 August 2024 09:51:49 UTC*
+*Updated: Monday, 26 August 2024 17:51:11 UTC*
