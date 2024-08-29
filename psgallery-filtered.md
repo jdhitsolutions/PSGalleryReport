@@ -3,6 +3,205 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [Harden-Windows-Security-Module](https://www.powershellgallery.com/Packages/Harden-Windows-Security-Module/0.5.8) | 0.5.8
+
+### Published: 08/28/2024 23:01:12 by HotCakeX
+
+Harden Windows Safely, Securely, only with Official Microsoft methods - 🦄 Intune - 🧩 Group Policy - 🛡️ Local - ☁️ Cloud (All scenarios supported 💯)
+
+⭕ This module provides 3 main features: Hardening, Auditing/checking the system compliance, and undoing the Hardening
+
+⭕ Please read the GitHub's readme before running this module: https://github.com/HotCakeX/Harden-Windows-Security
+
+💜 GUI (Graphical User Interface) is Available! Run (Protect-WindowsSecurity -GUI) to use the GUI instead of the CLI experience.
+
+💠 Features of this module:
+
+  ✅ Everything always stays up-to-date with the newest proactive security measures that are industry standards and scalable.
+  ✅ Everything is in plain text, nothing hidden, no 3rd party executable or pre-compiled binary is involved.
+  ✅ No Windows functionality is removed/disabled against Microsoft's recommendations.
+  ✅ The module primarily uses Group policies, the Microsoft recommended way of configuring Windows. It also uses PowerShell cmdlets where Group Policies aren't available, and finally uses a few registry keys to configure security measures that can neither be configured using Group Policies nor PowerShell cmdlets. This is why the module doesn't break anything or cause unwanted behavior.
+  ✅ When a hardening measure is no longer necessary because it's applied by default by Microsoft on new builds of Windows, it will also be removed from the module in order to prevent any problems and because it won't be necessary anymore.
+  ✅ The module can be run infinite number of times, it's made in a way that it won't make any duplicate changes.
+  ✅ The module prompts for confirmation before running each hardening category.
+  ✅ Applying these hardening measures makes your PC compliant with Microsoft Security Baselines and Secured-core PC specifications (provided that you use modern hardware that supports the latest Windows security features)
+
+💠 Hardening Categories from top to bottom: (⬇️Detailed info about each of them at my Github⬇️)
+
+⏹ Commands that require Administrator Privileges
+  ✅ Microsoft Security Baselines
+  ✅ Microsoft 365 Apps Security Baselines
+  ✅ Microsoft Defender
+  ✅ Attack surface reduction rules
+  ✅ Bitlocker Settings
+  ✅ TLS Security
+  ✅ Lock Screen
+  ✅ UAC (User Account Control)
+  ✅ Windows Firewall
+  ✅ Optional Windows Features
+  ✅ Windows Networking
+  ✅ Miscellaneous Configurations
+  ✅ Windows Update Configurations
+  ✅ Edge Browser Configurations
+  ✅ Certificate Checking Commands
+  ✅ Country IP Blocking
+  ✅ Downloads Defense Measures
+⏹ Commands that don't require Administrator Privileges
+  ✅ Non-Admin Commands that only affect the current user and do not make machine-wide changes.
+
+
+💎 This module has hybrid mode of operation. It can run Interactively and non-interactively (Silent/unattended mode). More info in the document: https://github.com/HotCakeX/Harden-Windows-Security/wiki/Harden%E2%80%90Windows%E2%80%90Security%E2%80%90Module
+
+🏴 If you have any questions, requests, suggestions etc. about this module, please open a new Discussion or Issue on GitHub
+
+🟡 The module generates a nice output on the screen as well as giving users an option to export the results in a CSV file.
+
+__Downloads__: 31,642 | __Repository__: https://github.com/HotCakeX/Harden-Windows-Security
+
+## [AzureLoadBalancerNATPoolMigration](https://www.powershellgallery.com/Packages/AzureLoadBalancerNATPoolMigration/2.0.7) | 2.0.7
+
+### Published: 08/28/2024 20:52:38 by Matthew Bratschun at FastTrack for Azure
+
+Migrates an Azure Standard Load Balancer Inbound NAT Pools to Inbound NAT Rules
+
+__Downloads__: 127 | __Repository__: https://github.com/Azure/AzLoadBalancerMigration
+
+## [powershellYK](https://www.powershellgallery.com/Packages/powershellYK/0.0.15.3) | 0.0.15.3
+
+### Published: 08/28/2024 20:41:59 by Oscar Virot
+
+A unofficial powershell wrapper for Yubico .NET SDK. Allows administration of Yubikeys from Powershell.
+
+__Downloads__: 64 | __Repository__: https://github.com/virot/powershellYK
+
+## [Nectar10](https://www.powershellgallery.com/Packages/Nectar10/3.91) | 3.91
+
+### Published: 08/28/2024 20:06:54 by Ken Lasko
+
+PowerShell module for Nectar DXP
+
+__Downloads__: 1,458 | __Repository__: 
+
+## [AdminToolbox](https://www.powershellgallery.com/Packages/AdminToolbox/11.0.178) | 11.0.178
+
+### Published: 08/28/2024 19:47:14 by Taylor Lee
+
+Master module for a collection of modules. These modules are varied in their tasks. The overall purpose of them being to provide a powerfull Toolset to improve IT Admin workflows.
+
+__Downloads__: 66,495 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox
+
+## [AdminToolbox.FortiWizard](https://www.powershellgallery.com/Packages/AdminToolbox.FortiWizard/2.19.26) | 2.19.26
+
+### Published: 08/28/2024 19:47:01 by Taylor Lee
+
+Functions that generate configuration scripts and manage FortiOS.
+
+__Downloads__: 46,161 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [AdminToolbox.VMWareAutomate](https://www.powershellgallery.com/Packages/AdminToolbox.VMWareAutomate/4.8.167) | 4.8.167
+
+### Published: 08/28/2024 19:45:55 by Taylor Lee
+
+Functions to Automate Bulk VMWare Tasks
+
+__Downloads__: 53,687 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [AdminToolbox.Remoting](https://www.powershellgallery.com/Packages/AdminToolbox.Remoting/1.9.170) | 1.9.170
+
+### Published: 08/28/2024 19:45:50 by Taylor Lee
+
+Functions for remote management and access.
+
+__Downloads__: 52,932 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [AdminToolbox.Office365](https://www.powershellgallery.com/Packages/AdminToolbox.Office365/4.0.30) | 4.0.30
+
+### Published: 08/28/2024 19:45:46 by Taylor Lee
+
+Functions for working with Office365 and Azure modules
+
+__Downloads__: 56,980 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [AdminToolbox.Networking](https://www.powershellgallery.com/Packages/AdminToolbox.Networking/2.20.11) | 2.20.11
+
+### Published: 08/28/2024 19:45:42 by Taylor Lee
+
+Network Troubleshooting Functions
+
+__Downloads__: 148,522 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [AdminToolbox.MSGraph](https://www.powershellgallery.com/Packages/AdminToolbox.MSGraph/1.3.24) | 1.3.24
+
+### Published: 08/28/2024 19:45:37 by Taylor Lee
+
+Microsoft Graph interactive API Functions
+
+__Downloads__: 42,757 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [AdminToolbox.Fun](https://www.powershellgallery.com/Packages/AdminToolbox.Fun/1.6.171) | 1.6.171
+
+### Published: 08/28/2024 19:45:33 by Taylor Lee
+
+Functions that have no purpose
+
+__Downloads__: 53,742 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [AdminToolbox.FileManagement](https://www.powershellgallery.com/Packages/AdminToolbox.FileManagement/1.16.162) | 1.16.162
+
+### Published: 08/28/2024 19:45:28 by Taylor Lee
+
+File Management Functions
+
+__Downloads__: 54,326 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [AdminToolbox.FFTools](https://www.powershellgallery.com/Packages/AdminToolbox.FFTools/4.16.120) | 4.16.120
+
+### Published: 08/28/2024 19:45:24 by Taylor Lee
+
+Expedite simple ffmpeg actions
+
+__Downloads__: 54,477 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [AdminToolbox.Exchange](https://www.powershellgallery.com/Packages/AdminToolbox.Exchange/1.9.171) | 1.9.171
+
+### Published: 08/28/2024 19:45:18 by Taylor Lee
+
+Functions for Exchange Management
+
+__Downloads__: 57,679 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [AdminToolbox.EndpointManagement](https://www.powershellgallery.com/Packages/AdminToolbox.EndpointManagement/4.10.48) | 4.10.48
+
+### Published: 08/28/2024 19:45:14 by Taylor Lee
+
+Functions for management of endpoints
+
+__Downloads__: 65,017 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [AdminToolbox.ActiveDirectory](https://www.powershellgallery.com/Packages/AdminToolbox.ActiveDirectory/1.10.32) | 1.10.32
+
+### Published: 08/28/2024 19:45:07 by Taylor Lee
+
+Functions for Active Directory
+
+__Downloads__: 65,042 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [cr-devops-rest](https://www.powershellgallery.com/Packages/cr-devops-rest/2024.8.342) | 2024.8.342
+
+### Published: 08/28/2024 19:41:56 by Ryan.Phay@clearesult.com
+
+Create straight forward REST calls in PowerShell based on API endpoints defined in .json files.  Add your own REST API endpoints by simply creating new .json files.
+
+__Downloads__: 371 | __Repository__: https://github.com/CLEAResult/it.devops.psm.rest
+
+## [AzureBasicLoadBalancerUpgrade](https://www.powershellgallery.com/Packages/AzureBasicLoadBalancerUpgrade/2.4.13) | 2.4.13
+
+### Published: 08/28/2024 18:41:02 by FastTrack for Azure
+
+This module will migrate a Basic SKU load balancer connected to a Virtual Machine Scaleset or Virtual Machines to a Standard SKU load balancer, preserving the existing configuration and functionality.
+
+__Downloads__: 6,758 | __Repository__: https://github.com/Azure/AzLoadBalancerMigration
+
 ## [GitlabCli](https://www.powershellgallery.com/Packages/GitlabCli/1.117.2) | 1.117.2
 
 ### Published: 08/28/2024 17:39:18 by Chris Peterson
@@ -25,7 +224,7 @@ __Downloads__: 8,346 | __Repository__:
 
 Module for PowerShell Universal.
 
-__Downloads__: 116,532 | __Repository__: https://ironmansoftware.com/powershell-universal
+__Downloads__: 116,536 | __Repository__: https://ironmansoftware.com/powershell-universal
 
 ## [HPCMSL](https://www.powershellgallery.com/Packages/HPCMSL/1.7.2) | 1.7.2
 
@@ -33,95 +232,7 @@ __Downloads__: 116,532 | __Repository__: https://ironmansoftware.com/powershell-
 
 HP Client Management Script Library
 
-__Downloads__: 36,233,489 | __Repository__: 
-
-## [HP.SmartExperiences](https://www.powershellgallery.com/Packages/HP.SmartExperiences/1.7.2) | 1.7.2
-
-### Published: 08/28/2024 15:28:53 by HP Development Company L.P.
-
-SmartExperiences module
-
-__Downloads__: 15,635,134 | __Repository__: https://developers.hp.com/clientmanagement
-
-## [HP.Notifications](https://www.powershellgallery.com/Packages/HP.Notifications/1.7.2) | 1.7.2
-
-### Published: 08/28/2024 15:26:21 by HP Development Company L.P.
-
-Notifications utility module
-
-__Downloads__: 29,979,407 | __Repository__: https://developers.hp.com/clientmanagement
-
-## [HP.Retail](https://www.powershellgallery.com/Packages/HP.Retail/1.7.2) | 1.7.2
-
-### Published: 08/28/2024 15:23:46 by HP Development Company L.P.
-
-Retail Point of Sale Module for HP Client Management Script Library
-
-__Downloads__: 43,270,371 | __Repository__: https://developers.hp.com/clientmanagement
-
-## [HP.Consent](https://www.powershellgallery.com/Packages/HP.Consent/1.7.2) | 1.7.2
-
-### Published: 08/28/2024 15:21:14 by HP Development Company L.P.
-
-Module to manage consent for HP Analytics
-
-__Downloads__: 49,909,138 | __Repository__: https://developers.hp.com/clientmanagement
-
-## [HP.Sinks](https://www.powershellgallery.com/Packages/HP.Sinks/1.7.2) | 1.7.2
-
-### Published: 08/28/2024 15:18:43 by HP Development Company L.P.
-
-Output sinks module
-
-__Downloads__: 67,525,796 | __Repository__: https://developers.hp.com/clientmanagement
-
-## [HP.Repo](https://www.powershellgallery.com/Packages/HP.Repo/1.7.2) | 1.7.2
-
-### Published: 08/28/2024 15:16:11 by HP Development Company L.P.
-
-Softpaq repository management modules
-
-__Downloads__: 76,103,296 | __Repository__: https://developers.hp.com/clientmanagement
-
-## [HP.Softpaq](https://www.powershellgallery.com/Packages/HP.Softpaq/1.7.2) | 1.7.2
-
-### Published: 08/28/2024 15:13:40 by HP Development Company L.P.
-
-Softpaq management module for HP Client Management Script Library
-
-__Downloads__: 58,298,671 | __Repository__: https://developers.hp.com/clientmanagement
-
-## [HP.Firmware](https://www.powershellgallery.com/Packages/HP.Firmware/1.7.2) | 1.7.2
-
-### Published: 08/28/2024 15:11:09 by HP Development Company L.P.
-
-Firmware access module for HP Client Management Script Library
-
-__Downloads__: 88,377,562 | __Repository__: https://developers.hp.com/clientmanagement
-
-## [HP.ClientManagement](https://www.powershellgallery.com/Packages/HP.ClientManagement/1.7.2) | 1.7.2
-
-### Published: 08/28/2024 15:08:39 by HP Development Company L.P.
-
-Device and BIOS management module for HP Client Management Script Library
-
-__Downloads__: 90,629,559 | __Repository__: https://developers.hp.com/clientmanagement
-
-## [HP.Utility](https://www.powershellgallery.com/Packages/HP.Utility/1.7.2) | 1.7.2
-
-### Published: 08/28/2024 15:06:08 by HP Development Company L.P.
-
-Public utility module for HP Client Management Script Library
-
-__Downloads__: 90,738,505 | __Repository__: https://developers.hp.com/clientmanagement
-
-## [HP.Private](https://www.powershellgallery.com/Packages/HP.Private/1.7.2) | 1.7.2
-
-### Published: 08/28/2024 15:03:22 by HP Development Company L.P.
-
-Private utility module for HP Client Management Script Library
-
-__Downloads__: 91,920,592 | __Repository__: https://developers.hp.com/clientmanagement
+__Downloads__: 36,233,527 | __Repository__: 
 
 ## [Bricklead.BCDev.Tools](https://www.powershellgallery.com/Packages/Bricklead.BCDev.Tools/0.1.9006.61218) | 0.1.9006.61218
 
@@ -130,6 +241,14 @@ __Downloads__: 91,920,592 | __Repository__: https://developers.hp.com/clientmana
 PowerShell module, which makes it easier to work Around AL developments.
 
 __Downloads__: 34 | __Repository__: 
+
+## [PoshUnifi](https://www.powershellgallery.com/Packages/PoshUnifi/0.5) | 0.5
+
+### Published: 08/28/2024 14:44:03 by Zack Moss
+
+Module to work with Self Hosted Unifi Controller
+
+__Downloads__: 564 | __Repository__: https://github.com/zackmoss/Unifi
 
 ## [PS.Selenium](https://www.powershellgallery.com/Packages/PS.Selenium/1.26) | 1.26
 
@@ -1036,6 +1155,14 @@ This modules provides Cmdlets for OCI Databasemigration Service
 
 __Downloads__: 6,616 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
+## [OCI.PSModules.Databasemanagement](https://www.powershellgallery.com/Packages/OCI.PSModules.Databasemanagement/90.0.0) | 90.0.0
+
+### Published: 08/28/2024 00:17:41 by Oracle Cloud Infrastructure
+
+This modules provides Cmdlets for OCI Databasemanagement Service
+
+__Downloads__: 6,875 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+
 ## [OCI.PSModules.Database](https://www.powershellgallery.com/Packages/OCI.PSModules.Database/90.0.0) | 90.0.0
 
 ### Published: 08/28/2024 00:17:36 by Oracle Cloud Infrastructure
@@ -1260,6 +1387,14 @@ This modules provides Cmdlets for OCI Apigateway Service
 
 __Downloads__: 7,419 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
+## [OCI.PSModules.Announcementsservice](https://www.powershellgallery.com/Packages/OCI.PSModules.Announcementsservice/90.0.0) | 90.0.0
+
+### Published: 08/28/2024 00:15:18 by Oracle Cloud Infrastructure
+
+This modules provides Cmdlets for OCI Announcementsservice Service
+
+__Downloads__: 9,921 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+
 ## [OCI.PSModules.Analytics](https://www.powershellgallery.com/Packages/OCI.PSModules.Analytics/90.0.0) | 90.0.0
 
 ### Published: 08/28/2024 00:15:12 by Oracle Cloud Infrastructure
@@ -1300,6 +1435,14 @@ This modules provides Cmdlets for OCI Aidocument Service
 
 __Downloads__: 4,420 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
+## [OCI.PSModules.Aianomalydetection](https://www.powershellgallery.com/Packages/OCI.PSModules.Aianomalydetection/90.0.0) | 90.0.0
+
+### Published: 08/28/2024 00:14:47 by Oracle Cloud Infrastructure
+
+This modules provides Cmdlets for OCI Aianomalydetection Service
+
+__Downloads__: 6,514 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+
 ## [OCI.PSModules.Adm](https://www.powershellgallery.com/Packages/OCI.PSModules.Adm/90.0.0) | 90.0.0
 
 ### Published: 08/28/2024 00:14:42 by Oracle Cloud Infrastructure
@@ -1322,7 +1465,7 @@ __Downloads__: 3,995 | __Repository__: https://github.com/oracle/oci-powershell-
 
 OCI Common module exports Cmdlets that manages features offered by OCI Modules for Powershell like History Store, OCI Configuration file setup and Per-Session Region/Config/Profile preferences. Common module also contains some functionalties that are common to all OCI Service modules, therefore all OCI Service modules depends on Common module.
 
-__Downloads__: 259,679 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+__Downloads__: 259,680 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
 ## [AppVeyorTestPsGallery](https://www.powershellgallery.com/Packages/AppVeyorTestPsGallery/1.0.603) | 1.0.603
 
@@ -1354,7 +1497,7 @@ __Downloads__: 1,133 | __Repository__: https://dev.azure.com/quandis/qbo4/_git/q
 
 An unofficial PowerShell module for Scoop.
 
-__Downloads__: 108,081 | __Repository__: https://github.com/ThomasNieto/Scoop
+__Downloads__: 108,101 | __Repository__: https://github.com/ThomasNieto/Scoop
 
 ## [NemoVoteClient](https://www.powershellgallery.com/Packages/NemoVoteClient/0.1.2) | 0.1.2
 
@@ -1436,102 +1579,6 @@ Provides cmdlets for starting migration of applications to supported clouds usin
 
 __Downloads__: 291 | __Repository__: https://migrate.rivermeadow.com/
 
-## [AdminToolbox.FortiWizard](https://www.powershellgallery.com/Packages/AdminToolbox.FortiWizard/2.19.25) | 2.19.25
-
-### Published: 08/27/2024 14:03:49 by Taylor Lee
-
-Functions that generate configuration scripts and manage FortiOS.
-
-__Downloads__: 46,161 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-## [AdminToolbox.VMWareAutomate](https://www.powershellgallery.com/Packages/AdminToolbox.VMWareAutomate/4.8.166) | 4.8.166
-
-### Published: 08/27/2024 14:02:44 by Taylor Lee
-
-Functions to Automate Bulk VMWare Tasks
-
-__Downloads__: 53,685 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-## [AdminToolbox.Remoting](https://www.powershellgallery.com/Packages/AdminToolbox.Remoting/1.9.169) | 1.9.169
-
-### Published: 08/27/2024 14:02:40 by Taylor Lee
-
-Functions for remote management and access.
-
-__Downloads__: 52,930 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-## [AdminToolbox.Office365](https://www.powershellgallery.com/Packages/AdminToolbox.Office365/4.0.29) | 4.0.29
-
-### Published: 08/27/2024 14:02:37 by Taylor Lee
-
-Functions for working with Office365 and Azure modules
-
-__Downloads__: 56,982 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-## [AdminToolbox.Networking](https://www.powershellgallery.com/Packages/AdminToolbox.Networking/2.20.10) | 2.20.10
-
-### Published: 08/27/2024 14:02:33 by Taylor Lee
-
-Network Troubleshooting Functions
-
-__Downloads__: 148,518 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-## [AdminToolbox.MSGraph](https://www.powershellgallery.com/Packages/AdminToolbox.MSGraph/1.3.23) | 1.3.23
-
-### Published: 08/27/2024 14:02:29 by Taylor Lee
-
-Microsoft Graph interactive API Functions
-
-__Downloads__: 42,755 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-## [AdminToolbox.Fun](https://www.powershellgallery.com/Packages/AdminToolbox.Fun/1.6.170) | 1.6.170
-
-### Published: 08/27/2024 14:02:26 by Taylor Lee
-
-Functions that have no purpose
-
-__Downloads__: 53,744 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-## [AdminToolbox.FileManagement](https://www.powershellgallery.com/Packages/AdminToolbox.FileManagement/1.16.161) | 1.16.161
-
-### Published: 08/27/2024 14:02:22 by Taylor Lee
-
-File Management Functions
-
-__Downloads__: 54,329 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-## [AdminToolbox.FFTools](https://www.powershellgallery.com/Packages/AdminToolbox.FFTools/4.16.119) | 4.16.119
-
-### Published: 08/27/2024 14:02:17 by Taylor Lee
-
-Expedite simple ffmpeg actions
-
-__Downloads__: 54,480 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-## [AdminToolbox.Exchange](https://www.powershellgallery.com/Packages/AdminToolbox.Exchange/1.9.170) | 1.9.170
-
-### Published: 08/27/2024 14:02:13 by Taylor Lee
-
-Functions for Exchange Management
-
-__Downloads__: 57,682 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-## [AdminToolbox.EndpointManagement](https://www.powershellgallery.com/Packages/AdminToolbox.EndpointManagement/4.10.47) | 4.10.47
-
-### Published: 08/27/2024 14:02:09 by Taylor Lee
-
-Functions for management of endpoints
-
-__Downloads__: 65,015 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-## [AdminToolbox.ActiveDirectory](https://www.powershellgallery.com/Packages/AdminToolbox.ActiveDirectory/1.10.31) | 1.10.31
-
-### Published: 08/27/2024 14:02:02 by Taylor Lee
-
-Functions for Active Directory
-
-__Downloads__: 65,039 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
 ## [PSAzureSignTool](https://www.powershellgallery.com/Packages/PSAzureSignTool/0.5.3) | 0.5.3
 
 ### Published: 08/27/2024 13:40:32 by DevOps
@@ -1562,7 +1609,7 @@ __Downloads__: 5 | __Repository__:
 
 Mdbc module - MongoDB Cmdlets for PowerShell
 
-__Downloads__: 1,139,086 | __Repository__: https://github.com/nightroman/Mdbc
+__Downloads__: 1,139,090 | __Repository__: https://github.com/nightroman/Mdbc
 
 ## [PsLogicAppExtractor](https://www.powershellgallery.com/Packages/PsLogicAppExtractor/0.6.25) | 0.6.25
 
@@ -1596,14 +1643,6 @@ PowerShell Module for Rubrik Security Cloud. GraphQL schema version: v20240819-2
 
 __Downloads__: 11,294 | __Repository__: https://github.com/rubrikinc/rubrik-powershell-sdk
 
-## [powershellYK](https://www.powershellgallery.com/Packages/powershellYK/0.0.15.2) | 0.0.15.2
-
-### Published: 08/27/2024 05:25:46 by Oscar Virot
-
-A unofficial powershell wrapper for Yubico .NET SDK. Allows administration of Yubikeys from Powershell.
-
-__Downloads__: 64 | __Repository__: https://github.com/virot/powershellYK
-
 ## [PowerShell.DynamicBatch](https://www.powershellgallery.com/Packages/PowerShell.DynamicBatch/2.5) | 2.5
 
 ### Published: 08/27/2024 05:21:26 by HT
@@ -1635,61 +1674,6 @@ __Downloads__: 50 | __Repository__: https://github.com/joshuastenhouse/rscreport
 A PowerShell module for Okta administration. Supports credential, private key, and API authentication and pipelining objects.
 
 __Downloads__: 19 | __Repository__: 
-
-## [Harden-Windows-Security-Module](https://www.powershellgallery.com/Packages/Harden-Windows-Security-Module/0.5.7) | 0.5.7
-
-### Published: 08/26/2024 22:10:48 by HotCakeX
-
-Harden Windows Safely, Securely, only with Official Microsoft methods - 🦄 Intune - 🧩 Group Policy - 🛡️ Local - ☁️ Cloud (All scenarios supported 💯)
-
-⭕ This module provides 3 main features: Hardening, Auditing/checking the system compliance, and undoing the Hardening
-
-⭕ Please read the GitHub's readme before running this module: https://github.com/HotCakeX/Harden-Windows-Security
-
-💜 GUI (Graphical User Interface) is Available! Run (Protect-WindowsSecurity -GUI) to use the GUI instead of the CLI experience.
-
-💠 Features of this module:
-
-  ✅ Everything always stays up-to-date with the newest proactive security measures that are industry standards and scalable.
-  ✅ Everything is in plain text, nothing hidden, no 3rd party executable or pre-compiled binary is involved.
-  ✅ No Windows functionality is removed/disabled against Microsoft's recommendations.
-  ✅ The module primarily uses Group policies, the Microsoft recommended way of configuring Windows. It also uses PowerShell cmdlets where Group Policies aren't available, and finally uses a few registry keys to configure security measures that can neither be configured using Group Policies nor PowerShell cmdlets. This is why the module doesn't break anything or cause unwanted behavior.
-  ✅ When a hardening measure is no longer necessary because it's applied by default by Microsoft on new builds of Windows, it will also be removed from the module in order to prevent any problems and because it won't be necessary anymore.
-  ✅ The module can be run infinite number of times, it's made in a way that it won't make any duplicate changes.
-  ✅ The module prompts for confirmation before running each hardening category.
-  ✅ Applying these hardening measures makes your PC compliant with Microsoft Security Baselines and Secured-core PC specifications (provided that you use modern hardware that supports the latest Windows security features)
-
-💠 Hardening Categories from top to bottom: (⬇️Detailed info about each of them at my Github⬇️)
-
-⏹ Commands that require Administrator Privileges
-  ✅ Microsoft Security Baselines
-  ✅ Microsoft 365 Apps Security Baselines
-  ✅ Microsoft Defender
-  ✅ Attack surface reduction rules
-  ✅ Bitlocker Settings
-  ✅ TLS Security
-  ✅ Lock Screen
-  ✅ UAC (User Account Control)
-  ✅ Windows Firewall
-  ✅ Optional Windows Features
-  ✅ Windows Networking
-  ✅ Miscellaneous Configurations
-  ✅ Windows Update Configurations
-  ✅ Edge Browser Configurations
-  ✅ Certificate Checking Commands
-  ✅ Country IP Blocking
-  ✅ Downloads Defense Measures
-⏹ Commands that don't require Administrator Privileges
-  ✅ Non-Admin Commands that only affect the current user and do not make machine-wide changes.
-
-
-💎 This module has hybrid mode of operation. It can run Interactively and non-interactively (Silent/unattended mode). More info in the document: https://github.com/HotCakeX/Harden-Windows-Security/wiki/Harden%E2%80%90Windows%E2%80%90Security%E2%80%90Module
-
-🏴 If you have any questions, requests, suggestions etc. about this module, please open a new Discussion or Issue on GitHub
-
-🟡 The module generates a nice output on the screen as well as giving users an option to export the results in a CSV file.
-
-__Downloads__: 31,639 | __Repository__: https://github.com/HotCakeX/Harden-Windows-Security
 
 ## [JumpCloud.ADMU](https://www.powershellgallery.com/Packages/JumpCloud.ADMU/2.7.5) | 2.7.5
 
@@ -1737,7 +1721,7 @@ __Downloads__: 89 | __Repository__: https://github.com/microsoft/ARI
 
 ServiceControl Management
 
-__Downloads__: 2,510 | __Repository__: https://github.com/Particular/ServiceControl
+__Downloads__: 2,509 | __Repository__: https://github.com/Particular/ServiceControl
 
 ## [WebAdministrationDsc](https://www.powershellgallery.com/Packages/WebAdministrationDsc/4.2.0) | 4.2.0
 
@@ -1745,7 +1729,7 @@ __Downloads__: 2,510 | __Repository__: https://github.com/Particular/ServiceCont
 
 Module with DSC Resources for Web Administration
 
-__Downloads__: 1,845,688 | __Repository__: https://github.com/dsccommunity/WebAdministrationDsc
+__Downloads__: 1,845,631 | __Repository__: https://github.com/dsccommunity/WebAdministrationDsc
 
 ## [Regex-Filter](https://www.powershellgallery.com/Packages/Regex-Filter/1.0.1) | 1.0.1
 
@@ -1761,7 +1745,7 @@ __Downloads__: 8 | __Repository__:
 
 Manage Windows display settings like resolution, DPI scale, HDR and more.
 
-__Downloads__: 11,496 | __Repository__: https://github.com/MartinGC94/DisplayConfig
+__Downloads__: 11,495 | __Repository__: https://github.com/MartinGC94/DisplayConfig
 
 ## [CommonStuff](https://www.powershellgallery.com/Packages/CommonStuff/1.0.21) | 1.0.21
 
@@ -1791,7 +1775,7 @@ Various helper functions for modules IntuneStuff, AzureADStuff etc. Some of them
     - Send-EmailViaSendGrid - send email using SendGrid (supports api token retrieval from Azure Keyvault or credentials object)
     - ...
 
-__Downloads__: 1,724,804 | __Repository__: https://github.com/ztrhgf/useful_powershell_modules
+__Downloads__: 1,724,744 | __Repository__: https://github.com/ztrhgf/useful_powershell_modules
 
 ## [Graph](https://www.powershellgallery.com/Packages/Graph/1.0.2) | 1.0.2
 
@@ -1815,7 +1799,7 @@ __Downloads__: 4 | __Repository__:
 
 Use various package managers with a single set of commands.
 
-__Downloads__: 29,659 | __Repository__: https://github.com/anypackage/anypackage
+__Downloads__: 29,665 | __Repository__: https://github.com/anypackage/anypackage
 
 ## [PwshUnifi](https://www.powershellgallery.com/Packages/PwshUnifi/0.1.2) | 0.1.2
 
@@ -1847,7 +1831,7 @@ __Downloads__: 277 | __Repository__: https://github.com/PSModule/OpenAI
 
 A PowerShell module to download and install fonts from NerdFonts.
 
-__Downloads__: 8,624 | __Repository__: https://github.com/PSModule/NerdFonts
+__Downloads__: 8,627 | __Repository__: https://github.com/PSModule/NerdFonts
 
 ## [PSSophos](https://www.powershellgallery.com/Packages/PSSophos/0.1.0) | 0.1.0
 
@@ -1897,13 +1881,13 @@ EnhancedVPNAO for PowerShell scripts.
 
 __Downloads__: 64 | __Repository__: 
 
-## [EnhancedSchedTaskAO](https://www.powershellgallery.com/Packages/EnhancedSchedTaskAO/0.0.26) | 0.0.26
+## [EnhancedSPOAO](https://www.powershellgallery.com/Packages/EnhancedSPOAO/0.0.26) | 0.0.26
 
 ### Published: 08/24/2024 17:30:21 by Abdullah Ollivierre
 
-EnhancedSchedTaskAO for PowerShell scripts.
+EnhancedSPOAO for PowerShell scripts.
 
-__Downloads__: 68 | __Repository__: 
+__Downloads__: 63 | __Repository__: 
 
 ## [EnhancedPSADTAO](https://www.powershellgallery.com/Packages/EnhancedPSADTAO/0.0.26) | 0.0.26
 
@@ -1913,13 +1897,13 @@ EnhancedPSADTAO for PowerShell scripts.
 
 __Downloads__: 72 | __Repository__: 
 
-## [EnhancedSPOAO](https://www.powershellgallery.com/Packages/EnhancedSPOAO/0.0.26) | 0.0.26
+## [EnhancedSchedTaskAO](https://www.powershellgallery.com/Packages/EnhancedSchedTaskAO/0.0.26) | 0.0.26
 
 ### Published: 08/24/2024 17:30:21 by Abdullah Ollivierre
 
-EnhancedSPOAO for PowerShell scripts.
+EnhancedSchedTaskAO for PowerShell scripts.
 
-__Downloads__: 63 | __Repository__: 
+__Downloads__: 68 | __Repository__: 
 
 ## [EnhancedHyperVAO](https://www.powershellgallery.com/Packages/EnhancedHyperVAO/0.0.26) | 0.0.26
 
@@ -1937,14 +1921,6 @@ EnhancedLoggingAO for PowerShell scripts.
 
 __Downloads__: 86 | __Repository__: 
 
-## [EnhancedGraphAO](https://www.powershellgallery.com/Packages/EnhancedGraphAO/0.0.26) | 0.0.26
-
-### Published: 08/24/2024 17:30:18 by Abdullah Ollivierre
-
-EnhancedGraphAO for PowerShell scripts.
-
-__Downloads__: 70 | __Repository__: 
-
 ## [EnhancedFileManagerAO](https://www.powershellgallery.com/Packages/EnhancedFileManagerAO/0.0.26) | 0.0.26
 
 ### Published: 08/24/2024 17:30:18 by Abdullah Ollivierre
@@ -1952,6 +1928,14 @@ __Downloads__: 70 | __Repository__:
 EnhancedFileManagerAO for PowerShell scripts.
 
 __Downloads__: 67 | __Repository__: 
+
+## [EnhancedGraphAO](https://www.powershellgallery.com/Packages/EnhancedGraphAO/0.0.26) | 0.0.26
+
+### Published: 08/24/2024 17:30:18 by Abdullah Ollivierre
+
+EnhancedGraphAO for PowerShell scripts.
+
+__Downloads__: 70 | __Repository__: 
 
 ## [EnhancedDeviceMigrationAO](https://www.powershellgallery.com/Packages/EnhancedDeviceMigrationAO/0.0.26) | 0.0.26
 
@@ -2049,6 +2033,14 @@ __Downloads__: 1,592 | __Repository__:
 
 __Downloads__: 2 | __Repository__: 
 
+## [HuduAPI](https://www.powershellgallery.com/Packages/HuduAPI/2.50) | 2.50
+
+### Published: 08/23/2024 12:51:17 by Luke Whitelock
+
+This module provides an interface to the Hudu Rest API further information can be found at https://github.com/lwhitelock/HuduAPI
+
+__Downloads__: 1,327,609 | __Repository__: 
+
 ## [CAT](https://www.powershellgallery.com/Packages/CAT/1.8.0.1) | 1.8.0.1
 
 ### Published: 08/23/2024 11:15:42 by Joyful Craftsmen CAT Team
@@ -2081,4 +2073,12 @@ Module for CyberArk v14.X Privileged Access Security Web Service REST API for Se
 
 __Downloads__: 690 | __Repository__: https://github.com/vmelamed5/CyberArk/tree/VpasModule/VpasModule/14.2.2
 
-*Updated: Wednesday, 28 August 2024 17:51:56 UTC*
+## [Prelude](https://www.powershellgallery.com/Packages/Prelude/0.2.21) | 0.2.21
+
+### Published: 08/22/2024 23:58:10 by Jason Wohlgemuth
+
+A "standard" library for PowerShell inspired by the preludes of other languages
+
+__Downloads__: 7,115 | __Repository__: https://github.com/jhwohlgemuth/pwsh-prelude
+
+*Updated: Thursday, 29 August 2024 02:12:56 UTC*
