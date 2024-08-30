@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Thursday, 29 August 2024 17:51:57 UTC
+Updated: Friday, 30 August 2024 02:13:08 UTC
 
 .bat
 .env
@@ -140,6 +140,8 @@ activiti
 activities
 activity
 activitycount
+actor-model
+actors
 acumatica
 ad
 ad_delegation
@@ -223,6 +225,7 @@ adsp
 adsync
 aduser
 aduseraccountlockout
+adusergroups
 adv180002
 adv180018
 adv190013
@@ -352,6 +355,7 @@ anf
 anglesharp
 angular
 animals
+animate-svg
 animation
 animations
 annotated
@@ -414,6 +418,8 @@ appian
 appinsights
 applayering
 apple
+applescript
+applescript_bridge
 application
 application-control
 application-transformer
@@ -559,6 +565,7 @@ audiocodes
 audit
 auditing
 auditpol
+auditpol.exe
 auditpolicies
 auditpolicy
 audits
@@ -763,6 +770,7 @@ azurestorage
 azurestorageservices
 azuresync
 azuretable
+azuretestplan
 azurevirtualdesktop
 azurevirtualmachines
 azurevm
@@ -847,7 +855,6 @@ bicepnet
 big-ip
 big-iq
 bigcommerce
-bigeval
 bigfix
 bigquery
 bikeshed
@@ -1035,6 +1042,7 @@ cam
 camera
 cameras
 campaign
+camtasia
 canarie
 cancel
 cancellation
@@ -1266,6 +1274,7 @@ close-openfile
 cloud
 cloud_data_management
 cloud-backup
+cloud-computing
 cloud-init
 cloud-iq
 cloudai
@@ -1636,7 +1645,6 @@ credmanager
 crescendo
 crescendobuilt
 cresendo
-crestron
 crime
 crlf
 crm
@@ -1646,7 +1654,6 @@ crontab
 cropping
 cross-platform
 crossjoin
-crossover
 crossplatform
 crossplatformdevelopment
 crowdstrike
@@ -1987,7 +1994,6 @@ digitalforensics
 digitalocean
 digitaltwins
 dilbert
-dimcry
 dircolors
 director
 directories
@@ -2032,9 +2038,11 @@ diskusage
 dism
 dismal
 display
+display_dialog
 displayresolution
 distance
 distinguishedname
+distributed-systems
 distributed-tracing
 distributedcache
 distributedfilesystem
@@ -2138,11 +2146,14 @@ dotteddecimalip
 doubleclick
 download
 downloader
+downloadfacebookvideo
+downloadfilefromsite
 downloadinfo
 downloading
 downloadoffice
 downloadofficertool
 downloads
+downloadyoutubevideo
 dozent
 dpa
 dpapi
@@ -2402,6 +2413,7 @@ errors
 errorview
 eryph
 esae
+esc
 escape
 escapecodes
 escapesequences
@@ -2465,7 +2477,6 @@ everydaypowershell
 everydayrewards
 everything
 evilprince2009
-evolutionary-algorithms
 evolutionary-database
 evtx
 ews
@@ -2478,11 +2489,14 @@ exceptionless
 exchange
 exchange_online
 exchange-rates
+exchange2010
 exchange2013
 exchange2016
 exchangecluster
 exchangehybrid
 exchangemigration
+exchangeon-premise
+exchangeon-premises
 exchangeonline
 exchangeonlinemanagement
 exchangeonlineprotection
@@ -2596,6 +2610,7 @@ featureupdate
 federated
 federateddirectory
 federation
+fedex
 feed
 fetch
 ffmpeg
@@ -2679,6 +2694,7 @@ find-call
 find-caller
 find-file
 find-path
+finddownloadlinkfromwebsite
 findfile
 findlocation
 findplace
@@ -2842,20 +2858,19 @@ gamecategory:cards
 games
 gameserver
 gaming
-garage
 gas
 gat
 gateway
 gauge
 gavin
 gavineke
-gc
 gcbdr
 gce
 gci
 gcloud
 gcp
 gcs
+gdap
 gdpr
 gedit
 gem
@@ -2878,7 +2893,6 @@ generativeaiinference
 generator
 generic
 genericartifactscontent
-genetic-algorithm
 genp
 genxdev
 geo
@@ -2989,6 +3003,7 @@ goldsource
 goldsource-dedicated-server
 google
 google-chrome
+google-fonts
 google-histogram
 google-sankey
 google-table
@@ -3056,6 +3071,7 @@ groups
 grouvee
 growlnotify
 grr
+gsudo
 gsuite
 gtx1080ti
 guardedfabric
@@ -3408,6 +3424,7 @@ importer
 importexport
 importteams
 inactive
+inboxrule
 incident
 incident_response
 incident-response
@@ -3654,6 +3671,7 @@ journal
 joyride
 jpg
 jq
+js7
 jsm
 jsm.insight
 json
@@ -4456,11 +4474,11 @@ multiserver
 multistring
 multithread
 multithreaded
+multithreaded-helpers
 multithreading
 music
 musiccast
 mustache
-mutation
 mute
 mutex
 mva
@@ -4484,6 +4502,7 @@ mysql-database
 mytest
 n-able
 n-central
+nabu
 nac
 nagios
 nakivo
@@ -4505,12 +4524,12 @@ nasdaq
 native
 natpool
 natural-language-to-code
-natural-selection
 nature
 nav
 navigation
 nbi
 ncal
+ncrestapi
 ndes
 nebulon
 nec-infrared-transmission-protocol
@@ -4717,7 +4736,6 @@ obj
 object
 objectid
 objectstorage
-objecttree
 obs
 observeit
 oce
@@ -4781,6 +4799,7 @@ onbehalfof
 onboard
 onboardadministrator
 onboarding
+oncommand-insight
 ondemand
 one
 onedrive
@@ -4854,7 +4873,6 @@ opsi
 opsmgr
 optics
 optimise
-optimization
 optimize
 optimizer
 option
@@ -4874,6 +4892,7 @@ organization
 orgnetwork
 oriflame
 orion
+orleans
 orm
 os
 osbuild
@@ -5166,6 +5185,7 @@ pmp
 pncit
 pnp
 pnp.powershell
+pnpm
 poc
 pode
 poe
@@ -5195,7 +5215,6 @@ pop
 pop-location
 pop3
 popd
-population
 popup
 port
 port-scanner
@@ -5456,7 +5475,6 @@ profile
 profiler
 profiles
 proget
-program
 program-association
 programs
 progress
@@ -5499,7 +5517,6 @@ proxmox
 proxmoxve
 proxsys
 proxy
-proxyfunction
 proxyfunctions
 prtg
 prtg_network_monitor
@@ -8653,12 +8670,12 @@ rdpsign
 rds
 rdsgw
 react-stockcharts
-read
 read-slog
 readable
 reader
 readiness
 readme
+readpdf
 readthedocs
 real-time
 realschule
@@ -8853,6 +8870,7 @@ restore
 resume
 retail
 retention
+retro
 retry
 returnuserprofile
 retype
@@ -9898,7 +9916,6 @@ table
 tableau
 tableauserver
 tableauworkbook
-tabler
 tables
 tablestorage
 tabs
@@ -9955,6 +9972,7 @@ techdirect
 techedna2014
 techlog
 technology
+techsmith
 tel
 telegram
 telegram-bot
@@ -10007,12 +10025,12 @@ test-userisadministrator
 test-xml
 test123
 testaccount
-testautomation
 tester
 testimonial
 testing
 testlab
 testplans
+testreport
 tests
 testsuite
 testtag1
@@ -10092,6 +10110,8 @@ titan
 title
 tld
 tls
+tls11
+tls12
 tlsa
 tlsprotocol
 tlsrpt
@@ -10156,7 +10176,6 @@ transact
 transaction
 transactions
 transcode
-transcript
 transcripts
 transform
 transformation
@@ -10171,6 +10190,7 @@ transparency
 transpilation
 trap
 travel
+trec
 tree
 tree-structure
 treesize
@@ -10326,6 +10346,7 @@ ui/ux
 ui7
 uk
 ul
+ulid
 ultimatetool
 um
 uml
@@ -10336,7 +10357,6 @@ unattendedfile
 unblock
 unc
 underlined-text
-unhide
 unicode
 unicode-emoji
 unicode-emojis
@@ -10346,7 +10366,6 @@ unified
 unifiedauditlog
 unifiedlabeling
 uninstall
-uninstaller
 union
 unique
 unique-files
@@ -10419,6 +10438,7 @@ user
 user-environment
 userdiscovery
 usergroup
+usergroups
 userinterface
 usermanagement
 username
@@ -10444,6 +10464,7 @@ utils
 utm
 uudecode
 uuencode
+uuid
 uw
 uwp
 ux
@@ -10680,6 +10701,7 @@ warraty
 warrenty
 wasabi
 watch
+watchdog
 watchguard
 watchmen
 watery
@@ -10836,6 +10858,7 @@ windows10mui
 windows11
 windows365
 windowsadmincenter
+windowsaudit
 windowsbuilds
 windowscredential
 windowscredentialmanager
@@ -11029,7 +11052,6 @@ xiaomi
 xin
 xkcd
 xliff
-xlsx
 xmc
 xml
 xml-rpc
