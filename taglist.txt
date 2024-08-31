@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Friday, 30 August 2024 17:51:58 UTC
+Updated: Saturday, 31 August 2024 02:12:46 UTC
 
 .bat
 .env
@@ -130,6 +130,7 @@ activedirectorycertificateservices
 activedirectoryfederationservices
 activedirectry-html
 activeefficiency
+activehours
 activenet
 activenetworkstation
 activenetworkstationservice
@@ -147,10 +148,7 @@ ad_delegation
 ad_monitoring
 ad_security
 ad-ds
-ad-object
-ad-ou-object
 ad-report
-ad-site
 adal
 adapter
 adapter-control
@@ -212,14 +210,11 @@ ado_security
 ado.net
 adobe
 adobeflash
-adobject
-adouobject
 adoxio
 adp
 adr
 ads
 adsi
-adsite
 adsp
 adsync
 aduser
@@ -277,6 +272,7 @@ ais
 aispeech
 aiutilities
 aivision
+ajustee
 aka.ms
 aks
 aks-hci
@@ -285,6 +281,7 @@ al
 alac
 alarm
 alb
+albums
 alc
 alero
 alert
@@ -329,6 +326,7 @@ amazonwebservices
 amend
 ami
 amiga
+amp
 amqp
 amsi
 amt
@@ -366,6 +364,7 @@ ansible-playbook
 ansible-vault
 ansiblecontrolnode
 anthropic
+anti-malware
 antimalwarescaninterface
 antispam
 antivirus
@@ -406,6 +405,7 @@ appattach
 appclusive
 appcmd
 appconfiguration
+appdynamics
 appearance
 appender
 appian
@@ -819,7 +819,6 @@ bc365
 bcd
 bcdedit
 bcdr
-bd
 bdd
 bds
 be.stateless
@@ -841,6 +840,7 @@ ber
 bestpractice
 bestpractices
 bginfo
+bgp
 bi
 bibliography
 bibtex
@@ -908,7 +908,6 @@ bloxone
 bloxoneddi
 bls
 blue
-bluedolhin
 blueprint
 blueprints
 blueteam
@@ -966,6 +965,7 @@ brk4452
 broadcast
 broadcom
 broot
+brownserve-uk
 browser
 browserbox
 browserextension
@@ -1007,6 +1007,7 @@ business_email_compromise
 businesscentral
 businessdays
 businesshours
+businessobjects
 businessrulesengine
 businesstime
 bxor
@@ -1056,7 +1057,6 @@ carbonintensity
 card
 cardwirth
 cares
-cargo
 carousel
 carrier
 cartoon
@@ -1269,7 +1269,6 @@ cloud_data_management
 cloud-backup
 cloud-computing
 cloud-init
-cloud-iq
 cloudai
 cloudant
 cloudbees
@@ -1288,7 +1287,6 @@ cloudgovernance
 cloudguard
 cloudinairy
 cloudinit
-cloudiq
 cloudkey
 cloudmarque
 cloudmigrations
@@ -1298,6 +1296,7 @@ cloudservice
 cloudshell
 clueser
 cluster
+clusterminimumvalues
 clusterplacementgroups
 clusterplugins
 cmaccounts
@@ -1447,11 +1446,13 @@ config
 configapi
 configascode
 configdata
+configkey
 configmgr
 configmgrcbdsc
 configuration
 configurationapi
 configurationdata
+configurationkey
 configurationmanagement
 configurationmanager
 configurationprofile
@@ -1601,8 +1602,6 @@ cqdpowershell
 cqhttp
 crack psmodule
 crash
-crawler
-crayon
 crc
 crc32
 create
@@ -1747,6 +1746,7 @@ dalle3
 dane
 dangling
 dapr
+dare
 dark
 darktrace
 dash
@@ -1777,6 +1777,7 @@ datacatalog
 datacenter
 dataclassification
 datacollectionrule
+dataconduit
 dataconnectivity
 datadog
 dataexchange
@@ -2031,7 +2032,6 @@ dismal
 display
 display_dialog
 displayresolution
-distance
 distinguishedname
 distributed-systems
 distributed-tracing
@@ -2091,6 +2091,7 @@ docker
 docker-compose
 docker-image
 docker-machine
+docker-volumes
 dockerfile
 dockerize
 dockerswarm
@@ -2125,7 +2126,6 @@ donothing
 dos
 dot
 dotenv
-dotfile
 dotfiles
 dotnet
 dotnet-cli
@@ -2147,7 +2147,6 @@ downloadyoutubevideo
 dozent
 dpa
 dpapi
-dpi
 dps
 dq
 dr
@@ -2418,7 +2417,7 @@ esp32
 esp32s2
 espressif
 esri
-estimate
+essbase
 estimation
 esx
 esxi
@@ -2483,6 +2482,7 @@ exchange-rates
 exchange2010
 exchange2013
 exchange2016
+exchangecluster
 exchangehybrid
 exchangemigration
 exchangeon-premise
@@ -2497,7 +2497,9 @@ exchangewebservices
 exclusion
 excuse
 exe
+exec
 executable
+executables
 execute
 exexml
 exif
@@ -2518,7 +2520,6 @@ experience
 experiments
 expiration
 expired
-expiring
 expiry
 exploit
 exploits
@@ -2577,7 +2578,6 @@ farm
 farmanager
 fast
 fast-dds
-fast-ping
 fastfilepub
 fastgit
 fastlinq
@@ -2683,7 +2683,6 @@ find-caller
 find-file
 find-path
 finddownloadlinkfromwebsite
-findfile
 findlocation
 findplace
 findproxyforurl
@@ -2832,6 +2831,7 @@ funny
 fusion
 fusionapps
 fuzzy
+fyi
 fzf
 gac
 gainz
@@ -2867,6 +2867,7 @@ gemini
 geminiprotocol
 gemlog
 gemtext
+genai
 general
 generate
 generate-dockerimagevariants
@@ -3052,7 +3053,6 @@ gridfs
 grok
 groundspeak
 group
-group-membership
 group-policy
 groupmembership
 grouppolicy
@@ -3113,13 +3113,11 @@ har
 hard
 hardblock
 harden
-harden-windows-security
 hardening
 hardensysvol
 hardlink
 hardmatch
 hardware
-harperdb
 hartokens
 harvest
 harvestforecast
@@ -3143,7 +3141,6 @@ hcx
 hdfs
 hdinsight
 hdinsightonaks
-hdr
 header
 headhunter
 health
@@ -3168,6 +3165,7 @@ helloworld
 helm
 helmet
 help
+helpdesk
 helpdoc
 helper
 helper-functions
@@ -3401,6 +3399,7 @@ imei
 imi
 impala
 impersonation
+imperva
 import
 import-csv
 import-dtdriverpackpackagedefinitionsms
@@ -3444,8 +3443,6 @@ inifile
 initialization
 initials-avatar
 initiator
-inline-progress
-inlineprogress
 innerjoin
 innertext
 inpainting
@@ -3639,6 +3636,7 @@ jenkins
 jetbrains
 jira
 jiraservicemanagement
+jitbit
 jms
 jmsjavadownloads
 jnet
@@ -3681,6 +3679,7 @@ junction
 junctions
 junit
 jupyter
+jupytor
 jurassic
 jurassic2
 justenoughadministration
@@ -3731,7 +3730,6 @@ keymapping
 keypair
 keysms
 keyvault
-keywords
 kfum-spejderne
 kibana
 kickstart
@@ -3845,6 +3843,7 @@ lego
 lein
 leiningnen
 lemonai
+lenel
 length
 lenovo
 less
@@ -4127,7 +4126,6 @@ marvellfcprovider
 marvellqlogicfcpowerkit
 mas
 mask
-mass
 masstransit
 masterconfiguration
 match
@@ -4162,6 +4160,7 @@ mdatp
 mdb
 mdbc
 mde
+mdep
 mdi
 mdm
 mdop
@@ -4194,7 +4193,6 @@ members
 membership
 memcm
 memory
-memorydump
 memorystream
 mention
 menu
@@ -4261,6 +4259,7 @@ microsoftdefenderatp
 microsoftdefenderforidentity
 microsoftdeploymenttoolkit
 microsoftendpointmanager
+microsoftexchangeserver
 microsoftfabric
 microsoftgraph
 microsoftgraphapi
@@ -4315,7 +4314,6 @@ ml.net
 mlflow
 mlmodels
 mltools
-mmdc
 mobile
 mobilenetwork
 mobilitycontroller
@@ -4445,7 +4443,6 @@ multi
 multi-factor
 multi-language
 multi-platform
-multi-threading
 multi-zone
 multicloud
 multidimenstional
@@ -4460,7 +4457,6 @@ multithreaded
 multithreaded-helpers
 multithreading
 music
-musiccast
 mustache
 mutation
 mute
@@ -4559,7 +4555,6 @@ netsuite
 network
 network adapter configuration operating os optical sensor physical pointing portable printer processor cpu refrigaration cooling cooler removable usb sd ram dimm scsi sound audio card enclosure tape temperature touchpad touch pad touchscreen screen trackball trackpoint video graphics voltage psmodule
 network-credentials
-network-info
 networkanalytics
 networkcategory
 networkcloud
@@ -4568,7 +4563,6 @@ networkdiscovery
 networkdrives
 networkfirewall
 networkfunction
-networkinfo
 networking
 networkinterfaces
 networkloadbalancer
@@ -4683,6 +4677,7 @@ ntdll
 ntds
 ntfs
 ntp
+ntsystems
 nuget
 nuget-references
 nuget.exe
@@ -4912,7 +4907,6 @@ osx
 otel
 otp
 ou
-ou-object
 oui
 oui-search
 oura
@@ -5114,6 +5108,7 @@ pictures
 pid
 pie
 pim
+pin
 ping
 ping-async
 pingsweep
@@ -5152,6 +5147,7 @@ play
 playback
 playbook
 player
+playlists
 playwright
 pleasant
 pleasantpasswordserver
@@ -5405,6 +5401,7 @@ preprocessing
 preprocessor
 presentation
 presenter
+presto
 preston-k-parsard
 prettifier
 pretty
@@ -8660,6 +8657,7 @@ readable
 reader
 readiness
 readme
+readpdf
 readthedocs
 real-time
 realschule
@@ -8976,7 +8974,6 @@ runtimedefinedparameterdictionary
 runway
 russia
 rust
-rust-lang
 ryanairps
 ryver
 s.ds.p
@@ -9026,7 +9023,6 @@ satirical
 save
 savedcreds
 savefile
-savings
 savov
 sbc
 sc
@@ -9036,7 +9032,6 @@ scaffoldingtemplate
 scala
 scalable
 scalablevectorgraphics
-scale
 scan
 scanner
 scanning
@@ -9130,12 +9125,10 @@ sdn
 sdp
 search
 search-adminauditlog
-search-engines
 searchconnector
 searchengine
 searcher
 searching
-searchmanager
 searchplace
 searchquery
 searchstring
@@ -9163,12 +9156,12 @@ securegopher+
 securemfa
 securerdp
 securescore
+securesphere
 securestring
 security
 security_cameras
 security-awareness-training
 security-policy
-security-score
 security-txt
 security.txt
 securityassertionmarkuplanguage
@@ -9266,7 +9259,6 @@ serviceplan
 servicepointmanager
 serviceprincipal
 services
-servicestatus
 servicestore
 servicing
 servicingstack
@@ -9653,7 +9645,6 @@ sslprotocol
 sslvpn
 ssm
 sso
-sspi
 sspr
 ssrs
 ssst
@@ -9806,7 +9797,6 @@ support-tool
 support-tools
 suppress
 supress-reboot
-surestacks
 surround
 surveillance
 survey
@@ -9898,6 +9888,7 @@ table
 tableau
 tableauserver
 tableauworkbook
+tabler
 tables
 tablestorage
 tabs
@@ -9984,7 +9975,6 @@ terminal-interface
 terminal-services
 terminal.gui
 terminalnotifier
-terminalvelocity
 termset
 terraform
 terraform-docs
@@ -10359,7 +10349,6 @@ unique-files
 unit
 unit_testing
 unit-testing
-unitconvesion
 unittest
 unittesting
 unity
@@ -10383,6 +10372,7 @@ update-module
 update-modulemanifest
 update-moduletests
 update-typedata
+updatedeferral
 updatemanagement
 updatemgmt
 updater
@@ -10671,6 +10661,7 @@ wait4x
 waitforobject
 wakeonlan
 wakeup
+walk
 wallet
 wallpaper
 wallpapers
@@ -10741,6 +10732,7 @@ websphere
 websphereappserver
 websphereportal
 webtest
+webtesting
 webtime
 webview2
 wec
@@ -10791,6 +10783,7 @@ whormi
 wi-fi
 wia
 wia.imagefile
+wid
 widedata
 wif
 wifi
@@ -10812,6 +10805,7 @@ win32_operatingsystem
 win32-api
 win32appmigrationtool
 win32shutdown
+winbgp
 windchillrv&s
 window
 windows
@@ -10855,6 +10849,7 @@ windowsform
 windowsforms
 windowsindex
 windowsinstaller
+windowsinternaldatabase
 windowsinternals
 windowsiotservices
 windowsiso
@@ -10866,7 +10861,6 @@ windowspresentationfoundation
 windowsreleasehealth
 windowsrest
 windowssandbox
-windowssearchmanager
 windowsserver
 windowsserver2008
 windowsserver2016
@@ -10897,6 +10891,7 @@ winterminal
 winui
 wireless
 wirelessnetwork
+wireshark
 wisc
 wiscmail
 wisco365
@@ -10976,7 +10971,6 @@ write-wansi
 writeaccess
 writelog
 writemanager
-writeprogress
 writer
 ws-federation
 wsapi
@@ -11058,7 +11052,6 @@ xwindowsupdate
 xwith
 yahoo
 yahw
-yamaha
 yaml
 yandex
 yapg
