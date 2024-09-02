@@ -1756,7 +1756,7 @@ __Downloads__: 1,254,005 | __Repository__: https://github.com/jasoth/ADAL.PS
 
 PowerShell Dependency Handler
 
-__Downloads__: 1,232,970 | __Repository__: https://github.com/RamblingCookieMonster/PSDepend/
+__Downloads__: 1,232,889 | __Repository__: https://github.com/RamblingCookieMonster/PSDepend/
 
 ## [HPEiLOCmdlets](https://www.powershellgallery.com/Packages/HPEiLOCmdlets/4.3.0.0) | 4.3.0.0
 
@@ -1764,7 +1764,7 @@ __Downloads__: 1,232,970 | __Repository__: https://github.com/RamblingCookieMons
 
 Scripting Tools for Windows PowerShell : iLO Cmdlets uses the RIBCL and Redfish interface to communicate to iLO. These cmdlets can be used to configure and manage iLO on HPE ProLiant Gen8, Gen9, Gen10, Gen10 Plus or Gen11 servers.
 
-__Downloads__: 1,230,448 | __Repository__: https://www.hpe.com/servers/powershell
+__Downloads__: 1,230,250 | __Repository__: https://www.hpe.com/servers/powershell
 
 ## [Pscx](https://www.powershellgallery.com/Packages/Pscx/3.3.2) | 3.3.2
 
@@ -1772,7 +1772,7 @@ __Downloads__: 1,230,448 | __Repository__: https://www.hpe.com/servers/powershel
 
 PowerShell Community Extensions (PSCX) base module which implements a general purpose set of Cmdlets.
 
-__Downloads__: 1,174,889 | __Repository__: https://github.com/Pscx/Pscx
+__Downloads__: 1,174,689 | __Repository__: https://github.com/Pscx/Pscx
 
 ## [AdmPwd.PS](https://www.powershellgallery.com/Packages/AdmPwd.PS/6.3.1.0) | 6.3.1.0
 
@@ -1780,7 +1780,7 @@ __Downloads__: 1,174,889 | __Repository__: https://github.com/Pscx/Pscx
 
 Provides cmdlets for configuration and usage of Local admin password management solution
 
-__Downloads__: 1,173,322 | __Repository__: 
+__Downloads__: 1,173,229 | __Repository__: 
 
 ## [Mdbc](https://www.powershellgallery.com/Packages/Mdbc/6.7.3) | 6.7.3
 
@@ -1788,7 +1788,7 @@ __Downloads__: 1,173,322 | __Repository__:
 
 Mdbc module - MongoDB Cmdlets for PowerShell
 
-__Downloads__: 1,140,566 | __Repository__: https://github.com/nightroman/Mdbc
+__Downloads__: 1,140,519 | __Repository__: https://github.com/nightroman/Mdbc
 
 ## [WinGet](https://www.powershellgallery.com/Packages/WinGet/0.0.8) | 0.0.8
 
@@ -1796,7 +1796,7 @@ __Downloads__: 1,140,566 | __Repository__: https://github.com/nightroman/Mdbc
 
 Package Management (OneGet) provider that facilitates installing WinGet packages from any NuGet repository.
 
-__Downloads__: 1,138,793 | __Repository__: https://github.com/ethanbergstrom/WinGet
+__Downloads__: 1,138,473 | __Repository__: https://github.com/ethanbergstrom/WinGet
 
 ## [DisplaySettings](https://www.powershellgallery.com/Packages/DisplaySettings/0.0.2) | 0.0.2
 
@@ -1804,7 +1804,7 @@ __Downloads__: 1,138,793 | __Repository__: https://github.com/ethanbergstrom/Win
 
 get/set display resolution info on windows
 
-__Downloads__: 1,107,569 | __Repository__: https://github.com/lust4life/display-resolution
+__Downloads__: 1,106,677 | __Repository__: https://github.com/lust4life/display-resolution
 
 ## [AzStorageTable](https://www.powershellgallery.com/Packages/AzStorageTable/1.0.2) | 1.0.2
 
@@ -1820,7 +1820,7 @@ __Downloads__: 1,092,791 | __Repository__:
 
 PowerShell module to help with Azure Databricks CI & CD Scenarios by simplifying the API or CLI calls into idempotent commands. See https://github.com/DataThirstLtd/azure.databricks.cicd.tools & https://datathirst.net
 
-__Downloads__: 1,084,008 | __Repository__: https://github.com/DataThirstLtd/azure.databricks.cicd.tools
+__Downloads__: 1,083,980 | __Repository__: https://github.com/DataThirstLtd/azure.databricks.cicd.tools
 
 ## [testmodule99](https://www.powershellgallery.com/Packages/testmodule99/0.0.93) | 0.0.93
 
@@ -1828,7 +1828,7 @@ __Downloads__: 1,084,008 | __Repository__: https://github.com/DataThirstLtd/azur
 
 test
 
-__Downloads__: 1,083,943 | __Repository__: 
+__Downloads__: 1,083,661 | __Repository__: 
 
 ## [ps2exe](https://www.powershellgallery.com/Packages/ps2exe/1.0.13) | 1.0.13
 
@@ -1838,7 +1838,7 @@ Compiles Powershell scripts to executables. Overworking of the great script of I
 'Invoke-ps2exe script.ps1' (or 'ps2exe script.ps1') compiles to script.exe. Several control parameters available.
 Or use Win-PS2EXE as a graphical front end to the compiler.
 
-__Downloads__: 1,083,268 | __Repository__: https://github.com/MScholtes/PS2EXE
+__Downloads__: 1,082,256 | __Repository__: https://github.com/MScholtes/PS2EXE
 
 ## [AutoTaskAPI](https://www.powershellgallery.com/Packages/AutoTaskAPI/1.2.2) | 1.2.2
 
@@ -1846,7 +1846,7 @@ __Downloads__: 1,083,268 | __Repository__: https://github.com/MScholtes/PS2EXE
 
 This module allows you to connect to the Autotask REST API. The Autotask REST API was launched with version 2020.2
 
-__Downloads__: 1,046,041 | __Repository__: https://github.com/KelvinTegelaar/AutotaskAPI
+__Downloads__: 1,045,233 | __Repository__: https://github.com/KelvinTegelaar/AutotaskAPI
 
 ## [Emailimo](https://www.powershellgallery.com/Packages/Emailimo/0.0.12) | 0.0.12
 
@@ -1854,7 +1854,7 @@ __Downloads__: 1,046,041 | __Repository__: https://github.com/KelvinTegelaar/Aut
 
 Easy way to send emails in PowerShell
 
-__Downloads__: 1,033,166 | __Repository__: https://github.com/EvotecIT/Emailimo
+__Downloads__: 1,033,106 | __Repository__: https://github.com/EvotecIT/Emailimo
 
 ## [ConfluencePS](https://www.powershellgallery.com/Packages/ConfluencePS/2.5.1) | 2.5.1
 
@@ -1862,7 +1862,7 @@ __Downloads__: 1,033,166 | __Repository__: https://github.com/EvotecIT/Emailimo
 
 PowerShell module to interact with the Atlassian Confluence REST API
 
-__Downloads__: 1,024,530 | __Repository__: https://github.com/AtlassianPS/ConfluencePS
+__Downloads__: 1,024,367 | __Repository__: https://github.com/AtlassianPS/ConfluencePS
 
 ## [AutoRuns](https://www.powershellgallery.com/Packages/AutoRuns/14.0.2) | 14.0.2
 
@@ -1870,7 +1870,7 @@ __Downloads__: 1,024,530 | __Repository__: https://github.com/AtlassianPS/Conflu
 
 AutoRuns is a module that will help do live incident response and enumerate autoruns artifacts that may be used by legitimate programs as well as malware to achieve persistence
 
-__Downloads__: 1,017,333 | __Repository__: https://github.com/p0w3rsh3ll/AutoRuns
+__Downloads__: 1,017,332 | __Repository__: https://github.com/p0w3rsh3ll/AutoRuns
 
 ## [Mailozaurr](https://www.powershellgallery.com/Packages/Mailozaurr/1.0.2) | 1.0.2
 
@@ -1878,7 +1878,7 @@ __Downloads__: 1,017,333 | __Repository__: https://github.com/p0w3rsh3ll/AutoRun
 
 Mailozaurr is a PowerShell module that aims to provide SMTP, POP3, IMAP and few other ways to interact with Email. Underneath it uses MimeKit and MailKit and EmailValidation libraries written by Jeffrey Stedfast.
 
-__Downloads__: 1,003,277 | __Repository__: https://github.com/EvotecIT/MailoZaurr
+__Downloads__: 1,003,205 | __Repository__: https://github.com/EvotecIT/MailoZaurr
 
 ## [JumpCloud.SDK.DirectoryInsights](https://www.powershellgallery.com/Packages/JumpCloud.SDK.DirectoryInsights/0.0.32) | 0.0.32
 
@@ -1886,7 +1886,7 @@ __Downloads__: 1,003,277 | __Repository__: https://github.com/EvotecIT/MailoZaur
 
 The JumpCloud DirectoryInsights PowerShell SDK
 
-__Downloads__: 954,236 | __Repository__: https://github.com/TheJumpCloud/jcapi-powershell/tree/master/SDKs/PowerShell/JumpCloud.SDK.DirectoryInsights/
+__Downloads__: 954,219 | __Repository__: https://github.com/TheJumpCloud/jcapi-powershell/tree/master/SDKs/PowerShell/JumpCloud.SDK.DirectoryInsights/
 
 ## [PSGELF](https://www.powershellgallery.com/Packages/PSGELF/1.21) | 1.21
 
@@ -1894,7 +1894,7 @@ __Downloads__: 954,236 | __Repository__: https://github.com/TheJumpCloud/jcapi-p
 
 PowerShell module to send GELF log data to compatible servers like Graylog.
 
-__Downloads__: 940,515 | __Repository__: 
+__Downloads__: 940,413 | __Repository__: 
 
 ## [JumpCloud.SDK.V1](https://www.powershellgallery.com/Packages/JumpCloud.SDK.V1/0.0.44) | 0.0.44
 
@@ -1902,7 +1902,7 @@ __Downloads__: 940,515 | __Repository__:
 
 The JumpCloud V1 PowerShell SDK
 
-__Downloads__: 926,436 | __Repository__: https://github.com/TheJumpCloud/jcapi-powershell/tree/master/SDKs/PowerShell/JumpCloud.SDK.V1/
+__Downloads__: 926,419 | __Repository__: https://github.com/TheJumpCloud/jcapi-powershell/tree/master/SDKs/PowerShell/JumpCloud.SDK.V1/
 
 ## [JumpCloud.SDK.V2](https://www.powershellgallery.com/Packages/JumpCloud.SDK.V2/0.0.48) | 0.0.48
 
@@ -1910,7 +1910,7 @@ __Downloads__: 926,436 | __Repository__: https://github.com/TheJumpCloud/jcapi-p
 
 The JumpCloud V2 PowerShell SDK
 
-__Downloads__: 924,655 | __Repository__: https://github.com/TheJumpCloud/jcapi-powershell/tree/master/SDKs/PowerShell/JumpCloud.SDK.V2/
+__Downloads__: 924,638 | __Repository__: https://github.com/TheJumpCloud/jcapi-powershell/tree/master/SDKs/PowerShell/JumpCloud.SDK.V2/
 
 ## [psake](https://www.powershellgallery.com/Packages/psake/4.9.0) | 4.9.0
 
@@ -1918,7 +1918,7 @@ __Downloads__: 924,655 | __Repository__: https://github.com/TheJumpCloud/jcapi-p
 
 psake is a build automation tool written in PowerShell.
 
-__Downloads__: 922,070 | __Repository__: https://github.com/psake/psake
+__Downloads__: 921,945 | __Repository__: https://github.com/psake/psake
 
 ## [Kva](https://www.powershellgallery.com/Packages/Kva/1.0.32) | 1.0.32
 
@@ -1926,7 +1926,7 @@ __Downloads__: 922,070 | __Repository__: https://github.com/psake/psake
 
 KVA Module
 
-__Downloads__: 920,578 | __Repository__: 
+__Downloads__: 920,552 | __Repository__: 
 
 ## [AksHci](https://www.powershellgallery.com/Packages/AksHci/1.2.4) | 1.2.4
 
@@ -1934,7 +1934,7 @@ __Downloads__: 920,578 | __Repository__:
 
 AKS HCI Module
 
-__Downloads__: 920,246 | __Repository__: 
+__Downloads__: 920,220 | __Repository__: 
 
 ## [cChocoEx](https://www.powershellgallery.com/Packages/cChocoEx/23.10.7.1) | 23.10.7.1
 
@@ -2135,6 +2135,6 @@ __Downloads__: 644,733 | __Repository__: https://github.com/arsscriptum/PowerShe
 
 PSRedstone is framework designed to streamline third software installation and configuration. It is designed to make endpoint managers more agile with a Configuration Management, DevOps, and Infrastructure as Code (IaC) mentality.
 
-__Downloads__: 640,584 | __Repository__: 
+__Downloads__: 639,944 | __Repository__: 
 
-*Updated: Monday, 02 September 2024 02:12:55 UTC*
+*Updated: Monday, 02 September 2024 09:51:52 UTC*
