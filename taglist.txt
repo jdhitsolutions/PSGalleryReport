@@ -1,13 +1,17 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Sunday, 08 September 2024 02:15:12 UTC
+Updated: Sunday, 08 September 2024 09:51:47 UTC
 
 .bat
 .env
 .net
 .prom
 .ps1xml
+'azure'
+'blob storage'
+'code owls'
 'files
+'provider'
 "interactive
 {modulenameplaceholder}
 **psedition_desktop**
@@ -37,10 +41,10 @@ Updated: Sunday, 08 September 2024 02:15:12 UTC
 21vianet
 24-bit
 2fa
-300
 365
 36867
 3cx
+3d
 3dprinting
 3par
 50
@@ -52,7 +56,6 @@ Updated: Sunday, 08 September 2024 02:15:12 UTC
 7z
 7zip
 8.1
-8ball
 9
 aa
 aac
@@ -233,6 +236,8 @@ adwords
 adx
 adxingestion
 aem
+aeries
+aeriessis
 aes
 afd
 affinity
@@ -363,7 +368,6 @@ ansible-playbook
 ansible-vault
 ansiblecontrolnode
 anthropic
-anti-malware
 antimalwarescaninterface
 antispam
 antivirus
@@ -405,7 +409,6 @@ appclusive
 appcmd
 appconfiguration
 appdynamics
-appearance
 appender
 appian
 appinsights
@@ -438,7 +441,6 @@ appv
 appventix
 appveyor
 appvolumes
-appwrite
 appx
 appxmanifest
 appxpackage
@@ -502,7 +504,6 @@ asbuiltreport
 asc
 ascii
 ascii85
-asciiart
 asdatabase
 asigra
 asjob
@@ -562,6 +563,7 @@ auditpol.exe
 auditpolicies
 auditpolicy
 audits
+aumid
 aut
 auth
 auth0
@@ -611,7 +613,6 @@ autostart
 autotask
 autotaskapi
 autotaskpsa
-autotyper
 autounattend
 autoupdate
 autoupdate-script
@@ -773,7 +774,6 @@ back
 backblaze
 backconnection
 backconnectionhostname
-backend
 backup
 backup_validation
 bamboo
@@ -886,8 +886,6 @@ biztalkdeploymentframework
 bks
 black
 blackbaud
-blackberry
-blackberryuem
 blackbox
 blacklist
 blade
@@ -993,7 +991,6 @@ buildkit
 buildkite
 buildmaster
 builds
-buildtool
 bulk
 bulletin
 bullhorn
@@ -1057,6 +1054,7 @@ carbonintensity
 card
 cardwirth
 cares
+cargo
 carousel
 carrier
 cartoon
@@ -1143,6 +1141,7 @@ chat
 chatbot
 chatgpt
 chatops
+chatroom
 chatter
 cheat
 check
@@ -1352,6 +1351,7 @@ cognitiveservices
 cohere
 cohesity
 coinmarketcap
+collaboration
 collatordso
 collatz
 collection
@@ -1365,7 +1365,6 @@ color-show
 colored
 colorful
 colorized
-colorpicker
 colors
 colour
 column
@@ -1376,7 +1375,6 @@ combine
 comdata
 comic
 comical
-comics
 command
 command_line
 command-line-interface
@@ -1411,7 +1409,6 @@ complete
 completer
 completion
 completion-manager
-completionresult
 completions
 complex
 compliance
@@ -1558,7 +1555,6 @@ coordinates
 copilot
 copy
 copy-item
-copypaste
 copyright
 core
 coreposh
@@ -1741,7 +1737,6 @@ dac
 dacfx
 dacl
 dacpac
-dacpackage
 dagger
 daily
 dalle3
@@ -1872,7 +1867,6 @@ deduplication
 deep
 deep-security
 deep-security-manager
-deepl
 deepvisibility
 def
 default
@@ -1902,6 +1896,7 @@ dell
 dellemc
 delta
 demand
+demandsignal
 demo
 democratie
 demonstration
@@ -1940,7 +1935,6 @@ devdeer
 devdrive
 developer
 developer_command_prompt
-developercommandprompt
 developermode
 development
 devenv
@@ -1974,6 +1968,7 @@ diagrams
 dialog
 dice
 diceware
+dicom
 dictionary
 diff
 difference
@@ -1992,6 +1987,7 @@ directories
 directory
 directory psedition_core psedition_desktop
 directory-transform
+directorymarks
 directoryname
 directorysearcher
 directorysecurity
@@ -2027,7 +2023,6 @@ disksize
 diskspace
 diskusage
 dism
-dismal
 display
 display_dialog
 displayresolution
@@ -2047,6 +2042,7 @@ dividends
 diving
 division
 divoom
+diy
 dkim
 dkschrutebeets
 dl
@@ -2120,6 +2116,7 @@ domainname
 domainnamesystem
 domains
 domino
+done.land
 donothing
 dos
 dot
@@ -2154,7 +2151,6 @@ draw
 drawio
 dreams
 dreamweaver
-dreary
 drift
 driftmonitor
 drink
@@ -2207,7 +2203,6 @@ dtx
 du
 dual-stack
 duck
-duckdb
 duckduckgo
 ducktyping
 dudckduckgo
@@ -2260,6 +2255,7 @@ e-mail
 e1
 easy
 easy-to-use
+easylife365
 easyvista
 eaton
 ebay
@@ -2492,6 +2488,7 @@ exchangeonline
 exchangeonlinemanagement
 exchangeonlineprotection
 exchangeonprem
+exchangerate
 exchangeserver
 exchangewebservices
 exclusion
@@ -2573,7 +2570,6 @@ fake
 falcon
 fallbackstatuspoint
 fanarttv
-fancy
 faq
 farm
 farmanager
@@ -2586,6 +2582,7 @@ fastlinq
 fastlookup
 fastping
 fasttrack
+fat32
 favorite
 favorites
 fb-pro
@@ -2748,6 +2745,7 @@ force
 forcedelete
 foreach
 foreach-object
+forecast
 forensic
 forensics
 forest
@@ -2815,7 +2813,6 @@ fudge
 fudgepop
 fujitsu
 full
-full-metal-gnome
 fullclr
 fulljoin
 fullmetalgnome
@@ -2860,6 +2857,7 @@ gci
 gcloud
 gcp
 gcs
+gdap
 gdpr
 gedit
 gem
@@ -2883,6 +2881,7 @@ generator
 generic
 genericartifactscontent
 genetic-algorithm
+genp
 genxdev
 geo
 geocache
@@ -2948,10 +2947,9 @@ git-client
 git-clone
 git-flow
 git-lfs
+git-proxy
 git-rename
 git-stat
-gitcmdline
-gitdesktop
 gitea
 gitflow
 gitforwindows
@@ -3158,7 +3156,6 @@ heating
 heavenbay
 helium
 helix
-hello
 helloid
 helloposhgallery
 helloworld
@@ -3166,7 +3163,6 @@ helm
 helmet
 help
 helpdesk
-helpdoc
 helper
 helper-functions
 helperfunctions
@@ -3268,9 +3264,11 @@ hsdp
 hsl
 html
 http
+http_proxy
 httpclient
 httplistener
 https
+https_proxy
 httpserver
 huawei
 huawei-ibmc-cmdlets
@@ -3346,9 +3344,9 @@ identity-management
 identitydataplane
 identitydirector
 identitydomains
-identitynow
 idf
 idm
+idna
 ids
 ie
 iem
@@ -3464,6 +3462,7 @@ install-module
 install-windowsimage
 installation
 installationmanager
+installedapplications
 installer
 installers
 installoffice
@@ -3800,6 +3799,7 @@ languagemodels
 languagepack
 lansweeper
 laps
+laragon
 laserbeams
 last
 last.fm
@@ -3896,6 +3896,7 @@ liquit
 liquit.com
 list
 list_files
+list-directory
 list-item
 listener
 litecoin
@@ -4106,7 +4107,6 @@ markdig
 markdown
 markdownrender
 marketing
-marketo
 marketplace
 marketplaceordering
 marketplaceprivateoffer
@@ -4114,7 +4114,6 @@ marketplacepublisher
 marking
 marklogic
 marquee
-marvel
 marvell
 marvell_semiconductor_inc
 marvellfcpowerkit
@@ -4173,7 +4172,9 @@ media
 mediant
 mediaplayer
 mediaservices
+mediawiki
 meditation
+medlemsservice
 meesman
 meeting
 meetup
@@ -4231,7 +4232,6 @@ microservices
 microsoft
 microsoft_365
 microsoft_azure
-microsoft_endpoint_manager
 microsoft_online
 microsoft_teams
 microsoft-graph
@@ -4312,7 +4312,6 @@ mlmodels
 mltools
 mmdc
 mobile
-mobilenetwork
 mobilitycontroller
 mock
 mocking
@@ -4354,6 +4353,7 @@ monitoring_objects
 monitoring_variables
 monitoringplugins
 monitoringsolutions
+monitors
 monthlyupdate
 moodle
 moonshot
@@ -4631,6 +4631,7 @@ non-volatile
 none
 noneimages
 noninteractive
+noproxy
 nord
 nordtools
 normal
@@ -4652,8 +4653,10 @@ notifu
 notify
 notify-send
 notify-send-wsl
+nova
 npgsql
 npm
+npm-proxy
 npm-upgrade
 nprinting
 nprintingapi
@@ -4708,6 +4711,7 @@ oauth
 oauth2
 oauth2.0
 oberstufe
+obj
 object
 objectid
 objectstorage
@@ -4830,6 +4834,7 @@ opensource
 opensourceinitiative
 openssh
 openssl
+openstack
 openstreetmaps
 openvpn
 operating
@@ -4843,7 +4848,6 @@ operationsmanagementsuiteagent
 operationvalidation
 operatoraccesscontrol
 opml
-ops
 opsi
 opsmgr
 optics
@@ -5018,6 +5022,7 @@ passwordspray
 passwordstate
 passwordtool
 passwordvault
+passwordwolf
 paste
 patch
 patches
@@ -5031,7 +5036,6 @@ pause
 pax8
 payload
 paylocity
-paypal
 pays
 pbench
 pbip
@@ -5073,7 +5077,6 @@ permutations
 persistence
 persistent
 personal
-personalisation
 personalization
 personalvault
 personio
@@ -5155,6 +5158,7 @@ plug-n-copy
 plugin
 plugins
 pluralsight
+ply
 pmp
 pncit
 pnp
@@ -5165,6 +5169,7 @@ pode
 poe
 poem
 poetry
+point
 point-to-site
 pointer
 pokeapi
@@ -5227,6 +5232,7 @@ poshy-colors
 poshy-coreutils-ish
 poshy-dir-nav
 poshy-ecks
+poshy-env-proxy
 poshy-env-var
 poshy-ls-isms
 poshy-lucidity
@@ -5435,7 +5441,6 @@ process-inspector
 processing
 processmitigation
 processor
-procmap
 procs
 producer
 product
@@ -5652,6 +5657,7 @@ pscommand_dils
 pscommand_dipu
 pscommand_dirm
 pscommand_dirname
+pscommand_disable-proxy
 pscommand_dit
 pscommand_dk
 pscommand_dkbash
@@ -5781,6 +5787,7 @@ pscommand_dxc
 pscommand_dxcit
 pscommand_e64
 pscommand_ef64
+pscommand_enable-proxy
 pscommand_encode64
 pscommand_encodefile64
 pscommand_export-gitrepositoryzip
@@ -6069,6 +6076,12 @@ pscommand_git_show_stash_file
 pscommand_git_stats
 pscommand_git_status_short_with_loglines
 pscommand_git-changelog
+pscommand_git-disable-proxy
+pscommand_git-enable-proxy
+pscommand_git-global-disable-proxy
+pscommand_git-global-enable-proxy
+pscommand_git-global-show-proxy
+pscommand_git-show-proxy
 pscommand_gitignore-reload
 pscommand_gittowork
 pscommand_gl
@@ -6951,6 +6964,9 @@ pscommand_nmap_slow
 pscommand_nmap_traceroute
 pscommand_nmap_web_safe_osscan
 pscommand_notify-send-fallback
+pscommand_npm-disable-proxy
+pscommand_npm-enable-proxy
+pscommand_npm-show-proxy
 pscommand_npmd
 pscommand_npme
 pscommand_npmf
@@ -6996,6 +7012,7 @@ pscommand_pl
 pscommand_po
 pscommand_pop-gitstashentry
 pscommand_ppy
+pscommand_proxy-help
 pscommand_prun
 pscommand_psh
 pscommand_psy
@@ -7014,6 +7031,7 @@ pscommand_push-gitstashentrywithmessage
 pscommand_pushgr
 pscommand_pvenv
 pscommand_pwh
+pscommand_pwshrc-show-proxy
 pscommand_py
 pscommand_pyenv
 pscommand_pylint-quick
@@ -7085,10 +7103,14 @@ pscommand_set-locationup4
 pscommand_set-locationup5
 pscommand_sgem
 pscommand_show-gitremote
+pscommand_show-proxy
 pscommand_shttp
 pscommand_shuf
 pscommand_sl
 pscommand_ssh-add-all
+pscommand_ssh-disable-proxy
+pscommand_ssh-enable-proxy
+pscommand_ssh-show-proxy
 pscommand_sshlist
 pscommand_start-gitbisect
 pscommand_start-gitcherrypick
@@ -7304,7 +7326,6 @@ psdesiredstateconfiguration
 psdevops
 psdocs
 psdocs-documents
-psdocsgenerator
 psdrawio
 psdrive
 psdrives
@@ -7386,6 +7407,7 @@ psfunction_d
 psfunction_decode64
 psfunction_decodefile64
 psfunction_dirname
+psfunction_disable-proxy
 psfunction_docker-archive-content
 psfunction_docker-build
 psfunction_docker-compose-fresh
@@ -7451,6 +7473,7 @@ psfunction_dotnet-tool-update-all-global
 psfunction_dotnet-watch
 psfunction_dotnet-watch-run
 psfunction_dotnet-watch-test
+psfunction_enable-proxy
 psfunction_encode64
 psfunction_encodefile64
 psfunction_export-gitrepositoryzip
@@ -7607,6 +7630,12 @@ psfunction_git_show_stash_file
 psfunction_git_stats
 psfunction_git_status_short_with_loglines
 psfunction_git-changelog
+psfunction_git-disable-proxy
+psfunction_git-enable-proxy
+psfunction_git-global-disable-proxy
+psfunction_git-global-enable-proxy
+psfunction_git-global-show-proxy
+psfunction_git-show-proxy
 psfunction_gitignore-reload
 psfunction_gittowork
 psfunction_gplfs
@@ -8200,6 +8229,9 @@ psfunction_nmap_slow
 psfunction_nmap_traceroute
 psfunction_nmap_web_safe_osscan
 psfunction_notify-send-fallback
+psfunction_npm-disable-proxy
+psfunction_npm-enable-proxy
+psfunction_npm-show-proxy
 psfunction_open_command
 psfunction_peek
 psfunction_pipig
@@ -8210,6 +8242,7 @@ psfunction_pipreq
 psfunction_pipunall
 psfunction_pipupall
 psfunction_pop-gitstashentry
+psfunction_proxy-help
 psfunction_publish-gitcommitsforcefullywithlease
 psfunction_publish-gitcommitssettingupstream
 psfunction_publish-gitcommitssettingupstreamtoorigin
@@ -8220,6 +8253,7 @@ psfunction_publish-gitcommitswithtags
 psfunction_publish-gitrepositorytosvn
 psfunction_push-gitstashentry
 psfunction_push-gitstashentrywithmessage
+psfunction_pwshrc-show-proxy
 psfunction_pyserver
 psfunction_read-dotenv
 psfunction_register-argcompleteargumentcompleter
@@ -8281,9 +8315,13 @@ psfunction_set-locationup3
 psfunction_set-locationup4
 psfunction_set-locationup5
 psfunction_show-gitremote
+psfunction_show-proxy
 psfunction_shttp
 psfunction_shuf
 psfunction_ssh-add-all
+psfunction_ssh-disable-proxy
+psfunction_ssh-enable-proxy
+psfunction_ssh-show-proxy
 psfunction_sshlist
 psfunction_start-gitbisect
 psfunction_start-gitcherrypick
@@ -8356,7 +8394,6 @@ psgallery
 psget
 psgitlab
 psgraph
-psgraylog
 pshot
 pshtml
 psimport
@@ -8404,6 +8441,7 @@ psprtg
 pspublicapi
 psql
 psraw
+psreadexif
 psreadline
 psreminder
 psremoting
@@ -8464,6 +8502,7 @@ pullrequest
 pullserver
 pulseway
 pulumi
+punycode
 puppet
 puppetdb
 puppy
@@ -8498,7 +8537,6 @@ pygmentize
 pylint
 pyranja
 python
-python-for-dotnet
 python3
 qcloud
 qconvergeconsolepowerkit
@@ -8555,6 +8593,7 @@ r
 r53
 rabbit
 rabbitmq
+rackspace
 radarr
 radio
 raidcontrollercmdlets
@@ -8753,7 +8792,6 @@ replace
 replaygain
 replication
 repo
-repoo
 report
 reporting
 reportingservicepoint
@@ -8931,6 +8969,7 @@ runtimedefinedparameterdictionary
 runway
 russia
 rust
+rust-lang
 ryanairps
 ryver
 s.ds.p
@@ -8946,7 +8985,6 @@ safe
 safeguard
 sage
 saggiehaim
-sailpoint
 sale
 sales
 salesforce
@@ -9058,7 +9096,6 @@ script-to-assembly
 script-to-executable
 scriptanalyzer
 scriptblock
-scriptblocklogging
 scriptbook
 scriptcop
 scriptcreation
@@ -9302,6 +9339,7 @@ shopify
 shortcut
 shortcuts
 shortpath
+shotgun
 show
 show-command
 show-objecttree
@@ -9371,6 +9409,8 @@ skypeforbusinessonline
 skypeonline
 skytap
 slack
+slash
+slashcommands
 slideshow
 slmgr
 sln
@@ -9508,6 +9548,7 @@ speed
 speedometer
 speedtest
 speedtester
+spejder
 spellcheck
 spelling
 spf
@@ -9566,7 +9607,6 @@ sqlmanagementobjects
 sqlpackage
 sqlplus
 sqlproj
-sqlproject
 sqlps
 sqlquery
 sqlserver
@@ -9638,6 +9678,7 @@ startmen
 startmenu
 starttls
 starwars
+stash
 stat
 state
 stateless
@@ -9705,6 +9746,7 @@ strings
 stringtable
 stringutilities
 strip-ansi
+stripe
 strongname
 structure
 sts
@@ -9749,7 +9791,6 @@ summary
 summit
 sumologic
 supercell
-superheros
 supermarket
 support
 support-tool
@@ -9823,7 +9864,6 @@ system-service
 system-services
 system.directoryservices.protocols
 system.text
-systemadmins
 systemcenter
 systemcolors
 systemctl
@@ -9997,7 +10037,6 @@ tftd
 tftp
 tfvars
 tfvc
-thecrushingemptinessofquotidianexistence
 theme
 themes
 thermal
@@ -10052,6 +10091,7 @@ tlsrpt
 tmux
 to-do
 toast
+toasts
 tobias
 toc
 todo
@@ -10274,7 +10314,6 @@ udr
 udthememode
 udword
 uefi
-uem
 ui
 ui/ux
 ui7
@@ -10389,6 +10428,7 @@ usps
 utc
 utf-8
 utf-sig
+utf7
 utf8
 utf8-sig
 utf8bom
@@ -10759,6 +10799,7 @@ win-ps2exe
 win10
 win2k8
 win32
+win32_installedwin32program
 win32_operatingsystem
 win32-api
 win32appmigrationtool
@@ -10901,7 +10942,6 @@ workspacemanager
 workspaceone
 workspaces
 workstation
-world
 worldcup
 worryfreebusinesssecurity
 wow
@@ -10953,6 +10993,7 @@ wunderlist
 wus
 wvd
 www
+x-cart
 x.509
 x1
 x2
