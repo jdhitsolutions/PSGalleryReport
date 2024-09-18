@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Wednesday, 18 September 2024 02:13:59 UTC
+Updated: Wednesday, 18 September 2024 09:51:53 UTC
 
 .bat
 .env
@@ -225,7 +225,6 @@ adsp
 adsync
 aduser
 aduseraccountlockout
-adusergroups
 adv180002
 adv180018
 adv190013
@@ -344,7 +343,6 @@ analyst
 analyth
 analytics
 analyticsrules
-analyze
 analyzer
 analyzerrules
 anchor
@@ -509,7 +507,6 @@ asbuiltreport
 asc
 ascii
 ascii85
-asciiart
 asdatabase
 asigra
 asjob
@@ -667,16 +664,13 @@ azautomation
 azcli
 azcompute
 azd
-azdisk
 azdo
 azereo
 azforensics
 azkeyvault
 aznetworking
-aznetworkinterface
 aznicdetails
 azops
-azpublicipaddress
 azresources
 azsdk
 azsk
@@ -2066,6 +2060,7 @@ distrubtionpoint
 dividends
 diving
 division
+divoom
 diy
 dkim
 dkschrutebeets
@@ -2390,7 +2385,6 @@ entity
 entityframework
 entra
 entraid
-entraidgovernance
 entropy
 enum
 enumerable
@@ -2513,7 +2507,6 @@ exchangeon-premise
 exchangeon-premises
 exchangeonline
 exchangeonlinemanagement
-exchangeonlineprotection
 exchangeonprem
 exchangerate
 exchangeserver
@@ -2732,6 +2725,8 @@ fitbit
 fits
 five
 five9
+fix-log
+fix-protocol
 fixlet
 fixpack
 flac
@@ -3116,7 +3111,6 @@ hack
 hacking
 hacktoberfest
 hadoop
-hafr
 haiku
 hailstone
 haipa
@@ -3292,7 +3286,6 @@ hpesynergy
 hponeview
 hpwritemanager
 hris
-hrprovisioning
 hsdp
 hsl
 html
@@ -3403,13 +3396,22 @@ im
 image
 image-comparison
 image-converter
+image-creation
+image-generation
+image-process
+image-validation
 imagebuilder
+imagecreate
+imagecreation
 imagegeneration
 imageoftheday
+imageprocess
 imageprocessing
 images
 imageservicing
 imageslide
+imagevalidate
+imagevalidation
 imagga
 imagination
 imaging
@@ -3551,7 +3553,6 @@ invoke-dtdownloaddriverpack
 invoke-dtdownloaddriverupdates
 invoke-dtdrivertool
 invoke-msbuild
-invoke-msbuildpreprocess
 invoke-vsbuild
 invoke-vsdevcommand
 invoke-webrequest
@@ -3663,6 +3664,8 @@ jiraservicemanagement
 jitbit
 jms
 jmsjavadownloads
+jnet
+jnetps
 joat
 job
 jobcan
@@ -3705,6 +3708,7 @@ jupytor
 jurassic
 jurassic2
 justenoughadministration
+jvm
 jwe
 jwk
 jws
@@ -3812,6 +3816,7 @@ labworker
 lake
 lambda
 lame
+lametrictime
 lamp
 lan
 landingzones
@@ -3823,6 +3828,7 @@ languagemodels
 languagepack
 lansweeper
 laps
+laragon
 laserbeams
 last
 last.fm
@@ -4524,6 +4530,7 @@ namespace
 naming
 nana
 nano
+nanoleaf
 nartac
 nasdaq
 native
@@ -4951,7 +4958,6 @@ outline
 outlook
 outpainting
 output
-output-to-image
 outreach
 outsystems
 overbite
@@ -5159,6 +5165,7 @@ piv
 pivot
 pivotal
 pivottable
+pixoo
 pkce
 pkgx
 pki
@@ -5499,7 +5506,6 @@ progressbars
 project
 project-management
 projectmanagement
-projectreunion
 projects
 projecttemplate
 projectwise
@@ -9070,6 +9076,7 @@ sc
 scaffold
 scaffolding
 scaffoldingtemplate
+scala
 scalable
 scalablevectorgraphics
 scale
@@ -9554,7 +9561,6 @@ soonr
 soonragent
 sophos
 sort
-sort-json
 sorting
 source
 source-dedicated-server
@@ -9956,7 +9962,6 @@ tags
 tak
 taken
 takeown
-tally
 talxis
 tanss
 tanzu
@@ -10066,7 +10071,6 @@ testusers
 text
 text-emoji
 text-emojis
-text-to-image
 text-to-speach"
 text-to-speech
 text2image
@@ -10276,6 +10280,7 @@ tweet
 twig
 twilio
 twincat
+twinkly
 twitch
 twitter
 twitter-api
@@ -10468,7 +10473,6 @@ user
 user-environment
 userdiscovery
 usergroup
-usergroups
 userinterface
 usermanagement
 username
@@ -10793,7 +10797,6 @@ webtime
 webview2
 wec
 wecutil
-weekday
 wef
 weixin
 well-known
@@ -10879,6 +10882,8 @@ windows-features
 windows-firewall
 windows-path
 windows-powershell
+windows-registry
+windows-remoting
 windows-server-2016
 windows-terminal
 windows-user-folder
@@ -10947,7 +10952,6 @@ winsat
 winscp
 wintellect
 winterminal
-winui
 wireless
 wirelessnetwork
 wireshark
