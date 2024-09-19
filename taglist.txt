@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Thursday, 19 September 2024 02:14:35 UTC
+Updated: Thursday, 19 September 2024 09:51:55 UTC
 
 .bat
 .env
@@ -174,7 +174,6 @@ addlevel
 addomainservices
 addon
 address
-address-book
 addresses
 addressrange
 adds
@@ -287,6 +286,7 @@ al
 alac
 alarm
 alb
+albums
 alc
 alero
 alert
@@ -455,7 +455,6 @@ aprsthursday
 aps
 apt
 apt-get
-apt-get-update
 apteco
 aptitude
 aql
@@ -718,6 +717,7 @@ azurebasicloadbalancerupgrade
 azurecli
 azurecodesigning
 azurecognitiveservices
+azurecommonstuff
 azurecontainerapps
 azurecontainers
 azuredatabricks
@@ -890,7 +890,6 @@ biztalk
 biztalkalm
 biztalkdeploymentframework
 bks
-black
 blackbaud
 blackberry
 blackberryuem
@@ -1079,7 +1078,6 @@ catimage
 cats
 catty
 cavium
-cb
 cblueshell
 cbr
 cbz
@@ -1182,6 +1180,7 @@ christmas
 chrome
 chromium
 chunk
+churchofjesuschrist
 ci
 ci/cd
 cic
@@ -1236,8 +1235,6 @@ clear
 clear-history
 clearpass
 cli
-cli-menu
-cli-menu-helpers
 clickonce
 client
 client-management
@@ -1300,7 +1297,6 @@ cloudmigrations
 cloudml
 cloudpc
 cloudservice
-cloudshell
 clueser
 cluster
 clusterminimumvalues
@@ -1432,7 +1428,6 @@ compoundproperty
 compress
 compression
 compute
-computecloudatcustomer
 computeinstanceagent
 computer
 computer-laboratory
@@ -1554,10 +1549,6 @@ convertto
 convertto-excel
 convertto-hashtable
 convertto-yaml
-converttodocx
-converttohtml
-converttomarkdown
-converttomd
 cookie
 coolq
 cooltag1
@@ -1900,7 +1891,6 @@ defenderforidentity
 defense
 deflate
 defrag
-delegateaccesscontrol
 delegated
 delegation
 delegationmodel
@@ -1913,7 +1903,6 @@ dell
 dellemc
 delta
 demand
-demandsignal
 demo
 democratie
 demonstration
@@ -2233,8 +2222,12 @@ duf
 dummy
 dummyusers
 dump
+dumpify
+dumping
+dumps
 duo
 duosecurity
+dupes
 duplicate
 duplicate-files
 duplicatioin
@@ -2282,6 +2275,7 @@ ebooks
 ebur128
 ec2
 ecommerce
+ecovadis
 ed25519
 edgaronline
 edge
@@ -2627,6 +2621,7 @@ fiddler
 fido
 fido2
 fieldglass
+fields
 fifa
 figlet
 file
@@ -2685,7 +2680,6 @@ filewrite
 fill
 film
 filter
-filter-item
 filtering
 fim
 fims
@@ -2838,7 +2832,6 @@ full-metal-gnome
 fullclr
 fulljoin
 fullmetalgnome
-fullscreen
 fun
 function
 function-testing
@@ -2873,7 +2866,6 @@ gauge
 gavin
 gavineke
 gc
-gcbdr
 gce
 gci
 gcloud
@@ -3021,7 +3013,6 @@ googlecloudplatform
 googledrive
 googlemap
 googlemaps
-googleworkspace
 gopher
 gopher-tls
 gopher+
@@ -3185,6 +3176,7 @@ helloid
 helloposhgallery
 helloworld
 helm
+helmet
 help
 helpdesk
 helpdoc
@@ -3420,7 +3412,6 @@ imei
 imi
 impala
 impersonation
-imperva
 import
 import-csv
 import-dtdriverpackpackagedefinitionsms
@@ -3428,10 +3419,10 @@ import-module
 import-modulefrompath
 import-passlist
 import-sampackagedefinitionsms
-importer
 importexport
 importteams
 inactive
+inboxrule
 incident
 incident_response
 incident-response
@@ -3579,7 +3570,6 @@ ipconfig
 iperf
 ipfy.org
 iphone
-ipilot
 iplookup
 ipmaths
 ipp
@@ -3749,6 +3739,7 @@ keycipher
 keycloak
 keylight
 keymanagement
+keymanagementserver
 keymap
 keymapping
 keypair
@@ -3917,7 +3908,6 @@ linqpad
 lint
 linting
 linux
-linux-command
 linuxssh
 liquid
 liquit
@@ -3925,7 +3915,6 @@ liquit.com
 list
 list_files
 list-directory
-list-item
 listener
 litecoin
 litedb
@@ -3937,7 +3926,6 @@ llama3
 lldp
 llm
 lmhost
-lmhosts
 lms
 load
 loadbalancer
@@ -3948,7 +3936,6 @@ loanddepot
 loandepot
 loc
 local
-local-caching
 local-policy
 localadmin
 localconfigurationmanager
@@ -4092,6 +4079,7 @@ maintain-module
 maintenance
 maintenance-window
 maintenancewindows
+mak
 make
 maker
 malware
@@ -4255,6 +4243,7 @@ metrolink
 mfa
 mga
 mgn
+mi
 micro
 micro-orm
 microfocus
@@ -4274,8 +4263,6 @@ microsoft.graph
 microsoft.graph.api
 microsoft.identity.client
 microsoft.identitymodel.clients.activedirectory
-microsoft.logic
-microsoft.logic/workflows
 microsoft.web.administration
 microsoft365
 microsoft365dsc
@@ -4545,7 +4532,6 @@ ncrestapi
 ndes
 nebulon
 nec-infrared-transmission-protocol
-necli
 nederland
 nedyalkov
 nemovote
@@ -4570,7 +4556,6 @@ netappfiles
 netbox
 netcease
 netcore
-netextender
 netfirewallrule
 netherlands
 netmask
@@ -4649,7 +4634,6 @@ ninjarmm
 nios
 nist
 nitrox
-njclipsh
 nl
 nla
 nlm
@@ -4722,7 +4706,6 @@ nunit
 nupkg
 nuspec
 nutanix
-nuwave
 nva
 nvd
 nvdimm
@@ -4976,7 +4959,6 @@ paas
 pac
 pack
 package
-package-management
 package-manager
 package-transform
 packagemanagement
@@ -4992,6 +4974,7 @@ packing
 pacli
 page
 pageant
+pager
 pagerduty
 pages
 pagination
@@ -5183,6 +5166,7 @@ play
 playback
 playbook
 player
+playlists
 playwright
 pleasant
 pleasantpasswordserver
@@ -5307,6 +5291,7 @@ poshy-wrap-pylint
 poshy-wrap-python
 poshy-wrap-ruby
 poshy-wrap-systemctl
+poshy-wrap-terraform
 poshy-wrap-terragrunt
 poshy-wrap-tmux
 poshy-wrap-vagrant
@@ -5327,7 +5312,6 @@ pow
 powdrgit
 power
 power-apps
-power-cbr
 power-platform
 power-shell
 powerapps
@@ -5349,6 +5333,7 @@ powergui
 powermax
 powerpack
 powerplan
+powerplateform
 powerplatform
 powerprotect
 powerprotect_datamanager
@@ -6697,6 +6682,15 @@ pscommand_invoke-systemctluser-try-reload-or-restart
 pscommand_invoke-systemctluser-try-restart
 pscommand_invoke-systemctluser-unmask
 pscommand_invoke-systemctluser-unset-environment
+pscommand_invoke-terraform
+pscommand_invoke-terraformapply
+pscommand_invoke-terraformconsole
+pscommand_invoke-terraformdestroy
+pscommand_invoke-terraformformat
+pscommand_invoke-terraforminit
+pscommand_invoke-terraformoutput
+pscommand_invoke-terraformplan
+pscommand_invoke-terraformvalidate
 pscommand_invoke-terragrunt
 pscommand_invoke-terragruntapply
 pscommand_invoke-terragruntapplyall
@@ -7165,6 +7159,15 @@ pscommand_test-o
 pscommand_test-reparsepoint
 pscommand_test-sessioninteractivity
 pscommand_test-x
+pscommand_tf
+pscommand_tfa
+pscommand_tfc
+pscommand_tfd
+pscommand_tff
+pscommand_tfi
+pscommand_tfo
+pscommand_tfp
+pscommand_tfv
 pscommand_tg
 pscommand_tga
 pscommand_tgaa
@@ -8091,6 +8094,15 @@ psfunction_invoke-systemctluser-try-reload-or-restart
 psfunction_invoke-systemctluser-try-restart
 psfunction_invoke-systemctluser-unmask
 psfunction_invoke-systemctluser-unset-environment
+psfunction_invoke-terraform
+psfunction_invoke-terraformapply
+psfunction_invoke-terraformconsole
+psfunction_invoke-terraformdestroy
+psfunction_invoke-terraformformat
+psfunction_invoke-terraforminit
+psfunction_invoke-terraformoutput
+psfunction_invoke-terraformplan
+psfunction_invoke-terraformvalidate
 psfunction_invoke-terragrunt
 psfunction_invoke-terragruntapply
 psfunction_invoke-terragruntapplyall
@@ -8448,9 +8460,6 @@ pspath
 pspersonio
 pspowerhour
 psprofiler
-psproject
-psprojectcreator
-psprojectgenerator
 psprovider
 psprtg
 pspublicapi
@@ -8508,6 +8517,7 @@ publish
 publish-module
 publishedmodules
 publisher
+publishers
 publishing
 pubsub
 pubxml
@@ -8896,7 +8906,6 @@ rgb
 rhapsody
 ribbon
 ribcl
-ricoh
 rightcloud
 rightjoin
 rights
@@ -9149,7 +9158,6 @@ searching
 searchmanager
 searchplace
 searchquery
-searchstring
 searchsuffixlist
 secaas
 secedit
@@ -9174,7 +9182,6 @@ securegopher+
 securemfa
 securerdp
 securescore
-securesphere
 securestring
 security
 security_cameras
@@ -9201,7 +9208,6 @@ seek
 seekatar
 seeshell
 select
-select-item
 select-kubecontext
 select-kubenamespace
 select-string
@@ -9519,7 +9525,6 @@ sonarqube
 sonarr
 sonatype
 songs
-sonicos
 sonicwall
 sonicwallvpn
 sonnet
@@ -9665,7 +9670,6 @@ sslflags
 ssllabs
 ssllabs-scan
 sslprotocol
-sslvpn
 ssm
 sso
 sspi
@@ -9756,8 +9760,6 @@ streak
 stream
 streamanalytics
 streaming
-streamreader
-streamwriter
 stretch
 strictmode
 strikethrough-text
@@ -9821,6 +9823,7 @@ support-tool
 support-tools
 suppress
 supress-reboot
+surestacks
 surround
 surveillance
 survey
@@ -9855,6 +9858,7 @@ synapse
 sync
 synchronization
 synchronize
+syndication
 synergy
 syntax
 syntax-highlighting
@@ -9887,6 +9891,7 @@ system-services
 system.directoryservices.protocols
 system.text
 systemadministration
+systemadministrator
 systemadmins
 systemcenter
 systemcolors
@@ -10088,7 +10093,6 @@ thunderbird
 thycotic
 tibber
 tic-tac-toe
-ticketing
 tickle
 ticks
 tictactoe
@@ -10235,6 +10239,7 @@ tst1
 tst3
 tsv
 ttrpg
+tts
 tubedownloader
 tui
 tulpep
@@ -10280,11 +10285,11 @@ ud-avataaar
 ud-badgebutton
 ud-badgelink
 ud-breadcrumb
+ud-breadcrumbitem
 ud-burger
 ud-button
 ud-buttonloader
 ud-buttonparticle
-ud-calendar
 ud-circle
 ud-component
 ud-confetti
@@ -10317,6 +10322,7 @@ ud-simpledrawer
 ud-singleselect
 ud-slider
 ud-speechbubble
+ud-step
 ud-stepbar
 ud-stickynavbar
 ud-tagcloud
@@ -10481,6 +10487,7 @@ validatemapsconnectivity
 validation
 validator
 value
+values
 valve
 vami
 vao
@@ -10497,7 +10504,6 @@ vb365
 vba
 vbaproject
 vbproj
-vbr
 vbscript
 vbsinst
 vc
@@ -10586,6 +10592,7 @@ visualstudioonline
 visualstudioteamservices
 vlan
 vlookup
+vlsc
 vlsm
 vm
 vmc
@@ -10621,6 +10628,8 @@ voidtools
 volkskrant
 volta
 volume
+volumelicense
+volumelicenseagreement
 volumeshadowcopy
 volumio
 voperator
@@ -10843,6 +10852,7 @@ windows-control-panel
 windows-defender
 windows-defender-application-control
 windows-environment
+windows-explorer
 windows-features
 windows-firewall
 windows-path
@@ -10866,6 +10876,7 @@ windowscredentials
 windowscredentialsmanager
 windowsdataprotectionapi
 windowsdefender
+windowsdesktop
 windowsdesktopsearch
 windowsdirectories
 windowsevent
@@ -10894,6 +10905,8 @@ windowsserver
 windowsserver2008
 windowsserver2016
 windowsserver2019
+windowsserver2022
+windowsserver2025
 windowsservercoresecurity
 windowsserverguisecurity
 windowsservice
@@ -11038,6 +11051,7 @@ x64
 x86
 xa
 xaf
+xbase
 xbox
 xclarity
 xdr
@@ -11051,6 +11065,7 @@ xero
 xevents
 xh
 xi
+xiaomi
 xin
 xkcd
 xliff
@@ -11104,6 +11119,7 @@ zcat
 zendesk
 zerotrust
 zerto
+zigbee
 zip
 zip-compression
 zipfile-transform
