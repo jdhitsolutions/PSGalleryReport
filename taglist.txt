@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Thursday, 19 September 2024 09:51:55 UTC
+Updated: Thursday, 19 September 2024 17:51:56 UTC
 
 .bat
 .env
@@ -174,6 +174,7 @@ addlevel
 addomainservices
 addon
 address
+address-book
 addresses
 addressrange
 adds
@@ -455,6 +456,7 @@ aprsthursday
 aps
 apt
 apt-get
+apt-get-update
 apteco
 aptitude
 aql
@@ -536,7 +538,6 @@ assistant
 association
 ast
 astronomy
-asv
 asymmetric
 async
 asynchronous
@@ -623,7 +624,6 @@ autoupdate
 autoupdate-script
 autowrapper
 autoyast
-auvik
 availability
 availabilityset
 avalara
@@ -707,6 +707,7 @@ azureadtoolkit
 azureadvancedthreatprotection
 azureappconfiguration
 azureapplicationstuff
+azurearc
 azureartifacts
 azureas
 azureatp
@@ -813,7 +814,6 @@ batch
 batchclass
 batman
 battery
-bayern
 bazzo
 bb
 bbc
@@ -890,6 +890,7 @@ biztalk
 biztalkalm
 biztalkdeploymentframework
 bks
+black
 blackbaud
 blackberry
 blackberryuem
@@ -1062,6 +1063,7 @@ carbonintensity
 card
 cardwirth
 cares
+cargo
 carousel
 carrier
 cartoon
@@ -1078,6 +1080,7 @@ catimage
 cats
 catty
 cavium
+cb
 cblueshell
 cbr
 cbz
@@ -1180,7 +1183,6 @@ christmas
 chrome
 chromium
 chunk
-churchofjesuschrist
 ci
 ci/cd
 cic
@@ -1297,6 +1299,7 @@ cloudmigrations
 cloudml
 cloudpc
 cloudservice
+cloudshell
 clueser
 cluster
 clusterminimumvalues
@@ -1428,6 +1431,7 @@ compoundproperty
 compress
 compression
 compute
+computecloudatcustomer
 computeinstanceagent
 computer
 computer-laboratory
@@ -1562,7 +1566,6 @@ copyright
 core
 coreposh
 coreutils
-corona
 cortex
 cos
 cosmos
@@ -1885,12 +1888,12 @@ defence
 defender
 defender-atp
 defender-for-endpoint
-defenderast
 defenderforendpoint
 defenderforidentity
 defense
 deflate
 defrag
+delegateaccesscontrol
 delegated
 delegation
 delegationmodel
@@ -1903,6 +1906,7 @@ dell
 dellemc
 delta
 demand
+demandsignal
 demo
 democratie
 demonstration
@@ -1933,7 +1937,6 @@ details
 detect
 detection
 detectionrule
-deutschland
 dev
 dev-tools
 devart
@@ -2213,6 +2216,7 @@ dts
 dtsx
 dtx
 du
+dual-stack
 duck
 duckdb
 duckduckgo
@@ -2227,7 +2231,6 @@ dumping
 dumps
 duo
 duosecurity
-dupes
 duplicate
 duplicate-files
 duplicatioin
@@ -2383,7 +2386,6 @@ enumerable
 env
 environment
 environment-variables
-environmentmanagent
 environmentmodules
 environments
 environmentvariable
@@ -2832,6 +2834,7 @@ full-metal-gnome
 fullclr
 fulljoin
 fullmetalgnome
+fullscreen
 fun
 function
 function-testing
@@ -2866,6 +2869,7 @@ gauge
 gavin
 gavineke
 gc
+gcbdr
 gce
 gci
 gcloud
@@ -3013,6 +3017,7 @@ googlecloudplatform
 googledrive
 googlemap
 googlemaps
+googleworkspace
 gopher
 gopher-tls
 gopher+
@@ -3090,7 +3095,6 @@ guru
 gvim
 gw2
 gwbasic
-gymnasium
 gz
 gzip
 gzip-compression
@@ -3237,7 +3241,6 @@ home
 home_automation
 homebrew
 homelandsecurity
-homeschooling
 hon
 hooking
 horizon
@@ -3412,6 +3415,7 @@ imei
 imi
 impala
 impersonation
+imperva
 import
 import-csv
 import-dtdriverpackpackagedefinitionsms
@@ -3419,6 +3423,7 @@ import-module
 import-modulefrompath
 import-passlist
 import-sampackagedefinitionsms
+importer
 importexport
 importteams
 inactive
@@ -3570,6 +3575,7 @@ ipconfig
 iperf
 ipfy.org
 iphone
+ipilot
 iplookup
 ipmaths
 ipp
@@ -3784,7 +3790,6 @@ kubespray
 kudu
 kurukuru
 kusto
-kvm
 kvp
 l1tf
 l2tp
@@ -3870,7 +3875,6 @@ lgpo
 libgit2
 libraries
 library
-libvirt
 licence
 license
 license-generator
@@ -3908,6 +3912,7 @@ linqpad
 lint
 linting
 linux
+linux-command
 linuxssh
 liquid
 liquit
@@ -3926,6 +3931,7 @@ llama3
 lldp
 llm
 lmhost
+lmhosts
 lms
 load
 loadbalancer
@@ -3936,6 +3942,7 @@ loanddepot
 loandepot
 loc
 local
+local-caching
 local-policy
 localadmin
 localconfigurationmanager
@@ -4263,6 +4270,8 @@ microsoft.graph
 microsoft.graph.api
 microsoft.identity.client
 microsoft.identitymodel.clients.activedirectory
+microsoft.logic
+microsoft.logic/workflows
 microsoft.web.administration
 microsoft365
 microsoft365dsc
@@ -4318,7 +4327,6 @@ mitigation
 mitre
 mitre_att&ck
 mitrend
-mittelschule
 mixedreality
 mixer
 mkdocs
@@ -4532,6 +4540,7 @@ ncrestapi
 ndes
 nebulon
 nec-infrared-transmission-protocol
+necli
 nederland
 nedyalkov
 nemovote
@@ -4556,6 +4565,7 @@ netappfiles
 netbox
 netcease
 netcore
+netextender
 netfirewallrule
 netherlands
 netmask
@@ -4634,6 +4644,7 @@ ninjarmm
 nios
 nist
 nitrox
+njclipsh
 nl
 nla
 nlm
@@ -4706,6 +4717,7 @@ nunit
 nupkg
 nuspec
 nutanix
+nuwave
 nva
 nvd
 nvdimm
@@ -4726,7 +4738,6 @@ oath
 oauth
 oauth2
 oauth2.0
-oberstufe
 obj
 object
 objectid
@@ -4959,6 +4970,7 @@ paas
 pac
 pack
 package
+package-management
 package-manager
 package-transform
 packagemanagement
@@ -5312,6 +5324,7 @@ pow
 powdrgit
 power
 power-apps
+power-cbr
 power-platform
 power-shell
 powerapps
@@ -8460,6 +8473,9 @@ pspath
 pspersonio
 pspowerhour
 psprofiler
+psproject
+psprojectcreator
+psprojectgenerator
 psprovider
 psprtg
 pspublicapi
@@ -8565,7 +8581,6 @@ python-for-dotnet
 python3
 qcloud
 qconvergeconsolepowerkit
-qemu
 qlgc_fc_powerkit
 qlik
 qlik-api
@@ -8681,7 +8696,6 @@ readme
 readpdf
 readthedocs
 real-time
-realschule
 realtimeprotection
 rebase
 reboot
@@ -8811,6 +8825,7 @@ rename
 rename-git
 rename-git-branch
 rename-gitbranch
+reonboarding
 repair
 repair-msauth
 reparsepoint
@@ -8906,6 +8921,7 @@ rgb
 rhapsody
 ribbon
 ribcl
+ricoh
 rightcloud
 rightjoin
 rights
@@ -8997,6 +9013,7 @@ runtimedefinedparameterdictionary
 runway
 russia
 rust
+rust-lang
 ryanairps
 ryver
 s.ds.p
@@ -9090,7 +9107,6 @@ scheme
 school-information-system
 schoolholidays
 schulung
-schulverwaltung
 science
 scissors
 scm
@@ -9158,6 +9174,7 @@ searching
 searchmanager
 searchplace
 searchquery
+searchstring
 searchsuffixlist
 secaas
 secedit
@@ -9182,6 +9199,7 @@ securegopher+
 securemfa
 securerdp
 securescore
+securesphere
 securestring
 security
 security_cameras
@@ -9278,7 +9296,6 @@ servicelinker
 servicemanagementautomation
 servicemanager
 servicemanagerproxy
-servicemesh
 servicenow
 serviceplan
 servicepointmanager
@@ -9440,7 +9457,6 @@ slash
 slashcommands
 sleeper
 slideshow
-slmgr
 sln
 slugify
 sm
@@ -9525,6 +9541,7 @@ sonarqube
 sonarr
 sonatype
 songs
+sonicos
 sonicwall
 sonicwallvpn
 sonnet
@@ -9670,6 +9687,7 @@ sslflags
 ssllabs
 ssllabs-scan
 sslprotocol
+sslvpn
 ssm
 sso
 sspi
@@ -9760,6 +9778,8 @@ streak
 stream
 streamanalytics
 streaming
+streamreader
+streamwriter
 stretch
 strictmode
 strikethrough-text
@@ -10144,6 +10164,7 @@ topgrade
 topics
 topleveldomain
 topology
+tor
 toradex
 torizon
 torrent
@@ -10290,6 +10311,7 @@ ud-burger
 ud-button
 ud-buttonloader
 ud-buttonparticle
+ud-calendar
 ud-circle
 ud-component
 ud-confetti
@@ -10504,6 +10526,7 @@ vb365
 vba
 vbaproject
 vbproj
+vbr
 vbscript
 vbsinst
 vc
@@ -10555,7 +10578,6 @@ vigenere
 vim
 vimode
 virole
-virsh
 virtual
 virtualappliance
 virtualbox
