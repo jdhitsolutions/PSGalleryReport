@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Friday, 20 September 2024 09:51:50 UTC
+Updated: Friday, 20 September 2024 17:51:59 UTC
 
 .bat
 .env
@@ -370,6 +370,7 @@ ansible-playbook
 ansible-vault
 ansiblecontrolnode
 anthropic
+anti-malware
 antimalwarescaninterface
 antispam
 antivirus
@@ -609,6 +610,7 @@ automatenow
 automaticpacketreportingsystem
 automation
 automation psmodule
+automationanywhere
 automationutils
 autopatching
 autopilot
@@ -854,7 +856,6 @@ bicep
 bicepnet
 big-ip
 big-iq
-bigcommerce
 bigeval
 bigfix
 bigquery
@@ -989,7 +990,6 @@ bugzilla
 build
 build-log
 build-scripts
-build-test-publish
 builddefinition
 builder
 buildhelpers
@@ -1018,7 +1018,6 @@ businessrulesengine
 businesstime
 bxor
 bydesign
-byexample
 bynarypsmodule
 byovd
 byte
@@ -1528,6 +1527,7 @@ continuousintegration
 contrast
 control
 controller
+controlroom
 controlup
 conventional
 conventional-commits
@@ -2238,6 +2238,7 @@ dumpify
 dumping
 dumps
 duo
+duosecurity
 dupes
 duplicate
 duplicate-files
@@ -2437,6 +2438,7 @@ esp32
 esp32s2
 espressif
 esri
+essbase
 estimate
 estimation
 esx
@@ -4364,11 +4366,6 @@ models
 modify
 module
 module-maintenance
-module-manifest
-module-publishing
-module-publishing-framework
-module-testing
-module-testing-framework
 modulebuild
 modulecreation
 modulefast
@@ -4531,6 +4528,8 @@ name
 name-of-dogs
 namedpipe
 nameit
+nameresolution
+names
 nameserver
 nameservers
 namespace
@@ -4541,6 +4540,7 @@ nanoleaf
 nartac
 nasdaq
 native
+natpool
 natural-language-to-code
 natural-selection
 nature
@@ -4622,7 +4622,6 @@ new-dynamicparameter
 new-githubrelease
 new-item
 new-itemproperty
-new-modulemanifest
 new-pinneditem
 new-rdpsession
 new-samcmapplicationfrompackagedefinitionsms
@@ -5244,9 +5243,11 @@ port
 port-scanner
 port70
 portal
+porthunter
 ports
 portscan
 porttest
+pos
 posershellise
 posh
 posh-acme
@@ -5318,7 +5319,6 @@ poshy-wrap-terraform
 poshy-wrap-terragrunt
 poshy-wrap-tmux
 poshy-wrap-vagrant
-poshy-wrap-vault
 poshy-wrap-vscode
 poshy-wrap-wget
 poshy-wrap-wt
@@ -5381,8 +5381,6 @@ powershell-isprime
 powershell-lightning
 powershell-module
 powershell-modules
-powershell-modules-convention
-powershell-project-convention
 powershell-releases-api
 powershell-remoting
 powershell-terminal
@@ -5507,6 +5505,7 @@ program-association
 programs
 progress
 progressbar
+progressbars
 project
 project-management
 projectmanagement
@@ -5522,7 +5521,6 @@ proofpoint
 properties
 property
 property-list
-prose
 protect
 protect-blob
 protect-string
@@ -6746,17 +6744,6 @@ pscommand_invoke-vagrantstatus
 pscommand_invoke-vagrantsuspend
 pscommand_invoke-vagrantup
 pscommand_invoke-vagrantuplogged
-pscommand_invoke-vaultdelete
-pscommand_invoke-vaultlist
-pscommand_invoke-vaultloginviagithub
-pscommand_invoke-vaultread
-pscommand_invoke-vaultreadfieldvalue
-pscommand_invoke-vaultrenew
-pscommand_invoke-vaultrevoke
-pscommand_invoke-vaultserver
-pscommand_invoke-vaultstatus
-pscommand_invoke-vaultversion
-pscommand_invoke-vaultwrite
 pscommand_invoke-vscodeadd
 pscommand_invoke-vscodediff
 pscommand_invoke-vscodeforpwd
@@ -7247,16 +7234,6 @@ pscommand_use-gitflowbranchrelease
 pscommand_use-gitstashentry
 pscommand_uuid
 pscommand_uuidgen
-pscommand_vad
-pscommand_vag
-pscommand_val
-pscommand_var
-pscommand_varn
-pscommand_varv
-pscommand_vas
-pscommand_vasrv
-pscommand_vav
-pscommand_vaw
 pscommand_vdstr
 pscommand_vh
 pscommand_vhl
@@ -8158,17 +8135,6 @@ psfunction_invoke-vagrantstatus
 psfunction_invoke-vagrantsuspend
 psfunction_invoke-vagrantup
 psfunction_invoke-vagrantuplogged
-psfunction_invoke-vaultdelete
-psfunction_invoke-vaultlist
-psfunction_invoke-vaultloginviagithub
-psfunction_invoke-vaultread
-psfunction_invoke-vaultreadfieldvalue
-psfunction_invoke-vaultrenew
-psfunction_invoke-vaultrevoke
-psfunction_invoke-vaultserver
-psfunction_invoke-vaultstatus
-psfunction_invoke-vaultversion
-psfunction_invoke-vaultwrite
 psfunction_invoke-vscodeadd
 psfunction_invoke-vscodediff
 psfunction_invoke-vscodeforpwd
@@ -8540,7 +8506,6 @@ publicfolder
 publicholidays
 publicip
 publish
-publish-module
 publishedmodules
 publisher
 publishers
@@ -8987,6 +8952,7 @@ royaldocument
 royalserver
 royalts
 royaltsx
+rpa
 rpc
 rras
 rrd
@@ -9147,7 +9113,6 @@ screenscraping
 screenshot
 script
 script_version
-script-module
 script-to-assembly
 script-to-executable
 scriptanalyzer
@@ -9264,6 +9229,7 @@ send-mailmessage
 send-message
 senderid
 sendgrid
+sendkeys
 sendmail
 sense
 sensitive
@@ -10052,7 +10018,6 @@ test
 test-automation
 test-dscconfiguration
 test-internetconnection
-test-modulemanifest
 test-modulepath
 test-osplatform
 test-psremoting
@@ -10060,7 +10025,6 @@ test-samcmapplicationexists
 test-samcmpackageexists
 test-userisadministrator
 test-xml
-test123
 testaccount
 testautomation
 tester
@@ -10083,6 +10047,7 @@ text-to-speach"
 text-to-speech
 text2image
 textanalysis
+textbuffer
 textgeneration
 texting
 texting-emoji
@@ -10435,7 +10400,6 @@ unzip
 up
 update
 update-module
-update-modulemanifest
 update-moduletests
 update-typedata
 updatedeferral
@@ -10453,6 +10417,7 @@ ups
 upsource
 upstream
 uptime
+uptimerobot
 uptobox
 uqword
 uri
@@ -10997,6 +10962,7 @@ word-wrap
 wordcloud
 wordlist
 wordpress
+wordwrap
 workbook
 workday
 worker
@@ -11026,6 +10992,7 @@ wow
 wpad
 wpf
 wql
+wrap
 wrap-text
 wrapper
 wrapperfunctions
