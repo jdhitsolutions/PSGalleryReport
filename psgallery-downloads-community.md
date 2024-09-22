@@ -2137,4 +2137,4 @@ Module to Invoke WinGet and parse the output in PSOjects
 
 __Downloads__: 645,060 | __Repository__: https://github.com/arsscriptum/PowerShell.Module.InvokeWinGet
 
-*Updated: Sunday, 22 September 2024 02:16:32 UTC*
+*Updated: Sunday, 22 September 2024 09:51:52 UTC*
