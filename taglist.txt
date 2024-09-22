@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Saturday, 21 September 2024 17:51:57 UTC
+Updated: Sunday, 22 September 2024 02:16:36 UTC
 
 .bat
 .env
@@ -19,6 +19,7 @@ Updated: Saturday, 21 September 2024 17:51:57 UTC
 🍄
 🍣
 💩
+🙇
 1&1
 10
 11
@@ -701,6 +702,7 @@ azure-resource-graph
 azure-ssis
 azureactivedirectory
 azuread
+azureadbackupandrestore
 azureadconnect
 azureadgraph
 azureadtoolkit
@@ -767,6 +769,7 @@ azurestackhci
 azurestate
 azurestorage
 azurestorageservices
+azuresync
 azuretable
 azuretestplan
 azurevirtualdesktop
@@ -823,6 +826,7 @@ bc365
 bcd
 bcdedit
 bcdr
+bd
 bdd
 bds
 be.stateless
@@ -912,6 +916,7 @@ bloxone
 bloxoneddi
 bls
 blue
+bluedolhin
 blueprint
 blueprints
 blueteam
@@ -993,6 +998,7 @@ buildhelpers
 building
 buildingfile
 buildingmapping
+buildkit
 buildkite
 buildmaster
 builds
@@ -1060,7 +1066,6 @@ carbonintensity
 card
 cardwirth
 cares
-cargo
 carousel
 carrier
 cartoon
@@ -1389,6 +1394,7 @@ command_line
 command-line-interface
 command-validation
 commandcoverage
+commandhistory
 commandlets
 commandline
 commandr
@@ -1748,6 +1754,7 @@ dacfx
 dacl
 dacpac
 dacpackage
+dagger
 daily
 dalle3
 dane
@@ -1875,8 +1882,6 @@ decryption
 dedicatedhsm
 deduplication
 deep
-deep-security
-deep-security-manager
 deepl
 deepseek
 deepseek-coder
@@ -1961,7 +1966,6 @@ devicecode
 deviceid
 deviceprovisioningservice
 devices
-deviceupdate
 devolutions
 devops
 devops psmodule
@@ -1984,7 +1988,6 @@ diagrams
 dialog
 dice
 diceware
-dicom
 dictionary
 diff
 difference
@@ -2231,11 +2234,7 @@ duf
 dummy
 dummyusers
 dump
-dumpify
-dumping
-dumps
 duo
-duosecurity
 dupes
 duplicate
 duplicate-files
@@ -2393,7 +2392,6 @@ env
 environment
 environment-variables
 environmentmanagent
-environmentmodules
 environments
 environmentvariable
 environmentvariables
@@ -2435,7 +2433,6 @@ esp32
 esp32s2
 espressif
 esri
-essbase
 estimate
 estimation
 esx
@@ -2630,7 +2627,6 @@ fiddler
 fido
 fido2
 fieldglass
-fields
 fifa
 figlet
 file
@@ -2929,6 +2925,7 @@ get-credential
 get-criticaltrippoint
 get-currentcputemperature
 get-dellwarranty
+get-directorycontents
 get-dtcmdevicemodel
 get-dtdriverpack
 get-dtdriverupdates
@@ -3080,7 +3077,6 @@ group-policy
 groupmembership
 grouppolicy
 groups
-grouvee
 growlnotify
 grr
 gsudo
@@ -3152,8 +3148,6 @@ hashset
 hashtable
 hasicorp
 haskell
-haste
-hastebin
 haveibeenpwned
 hawk
 hba
@@ -3164,7 +3158,6 @@ hcm
 hcx
 hdfs
 hdinsight
-hdinsightonaks
 hdr
 header
 headhunter
@@ -3775,7 +3768,6 @@ kms
 knapsack
 knetps
 knob
-knowbe4
 knowledge
 knowledgebase
 koans
@@ -4073,7 +4065,6 @@ machinelearning
 machinelearningcompute
 machinelearningmodels
 machinelearningservices
-macmon
 macos
 macosx
 macro
@@ -4437,7 +4428,6 @@ msft
 msftnet
 msftnetworking
 msg
-msg.exe
 msgbox
 msgraph
 msgraphapi
@@ -4522,7 +4512,6 @@ mytest
 n-able
 n-central
 nabu
-nac
 nagios
 nakivo
 name
@@ -4863,6 +4852,7 @@ opendata
 openedge
 openfiles
 openhere
+openholidaysapi
 openid
 openidconnect
 openinghours
@@ -5065,7 +5055,6 @@ passwordstate
 passwordtool
 passwordvault
 passwordwolf
-paste
 patch
 patches
 patching
@@ -5209,6 +5198,7 @@ pncit
 pnp
 pnp.powershell
 pnpm
+poc
 pode
 poe
 poem
@@ -5369,13 +5359,11 @@ powershell_universal
 powershell-class
 powershell-cmdlets
 powershell-core
-powershell-core-releases-api
 powershell-course
 powershell-credentials
 powershell-dsc
 powershell-examples
 powershell-gallery
-powershell-github-repo
 powershell-gitlab
 powershell-graphql
 powershell-isprime
@@ -5384,7 +5372,6 @@ powershell-module
 powershell-modules
 powershell-modules-convention
 powershell-project-convention
-powershell-releases-api
 powershell-remoting
 powershell-terminal
 powershell-terminal-copilot
@@ -8539,6 +8526,7 @@ public-transport
 publicapi
 publicclient
 publicfolder
+publicholidays
 publicip
 publish
 publish-module
@@ -8959,7 +8947,6 @@ robot
 roca
 rock
 rocket
-rocketcyber
 roco
 rocolatey
 role
@@ -9026,7 +9013,6 @@ runtimedefinedparameterdictionary
 runway
 russia
 rust
-rust-lang
 ryanairps
 ryver
 s.ds.p
@@ -9071,7 +9057,6 @@ sapstartstopazure
 sarcasm
 sarif
 sas
-sat
 satirical
 save
 savedcreds
@@ -9117,7 +9102,7 @@ scheduling
 schema
 schemaextensions
 scheme
-school-information-system
+schoolholidays
 schulung
 schulverwaltung
 science
@@ -9216,7 +9201,6 @@ securesphere
 securestring
 security
 security_cameras
-security-awareness-training
 security-policy
 security-score
 security-txt
@@ -9262,7 +9246,6 @@ senateur
 send
 send-logtologanalytics
 send-mailmessage
-send-message
 senderid
 sendgrid
 sendkeys
@@ -9275,7 +9258,6 @@ sensors
 sensu
 sentinel
 sentinelone
-sentry
 sep
 seppmail
 seppmail.cloud
@@ -9454,7 +9436,6 @@ skatterbrainz
 skeleton-loader
 skia
 skiasharp
-skolnilogin
 sku
 skunklab
 sky
@@ -10143,6 +10124,7 @@ timesheets
 timespan
 timezone
 tinkerpop
+tinymce
 tip
 tips
 titan
@@ -10239,7 +10221,6 @@ trein
 trello
 trellops
 trend
-trend-micro
 trendmicro
 trevor
 trevorsullivan
@@ -10525,7 +10506,6 @@ validatemapsconnectivity
 validation
 validator
 value
-values
 valve
 vami
 vao
@@ -10746,7 +10726,6 @@ wapi
 warning
 warplaneporn
 warranty
-warraty
 warrenty
 wasabi
 watch
@@ -10968,7 +10947,6 @@ wins
 winsat
 winscp
 wintellect
-winterminal
 winui
 wireless
 wirelessnetwork
