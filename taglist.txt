@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Sunday, 22 September 2024 09:51:55 UTC
+Updated: Sunday, 22 September 2024 17:51:50 UTC
 
 .bat
 .env
@@ -178,6 +178,7 @@ address-book
 addresses
 addressrange
 adds
+addtypeaccelerators
 adf
 adfs
 adfsconfiguration
@@ -854,6 +855,7 @@ bibtex
 bicep
 bicepnet
 big-ip
+big-iq
 bigcommerce
 bigeval
 bigfix
@@ -961,6 +963,7 @@ break
 breakpoint
 brew
 brickset
+brickstore
 bridge
 brightbooking
 brightness
@@ -1130,6 +1133,7 @@ certificatemanager
 certificatepolicy
 certificates
 certificateservices
+certificatesmanagement
 certinia
 certutil
 cf
@@ -1753,6 +1757,7 @@ dacpac
 dacpackage
 dagger
 daily
+dalle3
 dane
 dangling
 dapr
@@ -1926,7 +1931,6 @@ deploy
 deployment
 deploymentconfig
 deploymentresourceprovider
-deploymenttasks
 depute
 der
 description
@@ -2006,8 +2010,6 @@ directories
 directory
 directory psedition_core psedition_desktop
 directory-transform
-directorycleanup
-directorymanagement
 directorymarks
 directoryname
 directorysearcher
@@ -2238,7 +2240,6 @@ dumpify
 dumping
 dumps
 duo
-duosecurity
 dupes
 duplicate
 duplicate-files
@@ -2342,6 +2343,7 @@ emailnotification
 emailnotificationcomponent
 emailsecurity
 embedded
+embedding
 emc
 emcomm
 emergency
@@ -2418,7 +2420,6 @@ error
 error-log
 errorcode
 errorfile
-errorhandling
 errors
 errorview
 eryph
@@ -2659,7 +2660,6 @@ fileencryption
 filelist
 filelog
 filelogger
-filemaintenance
 filemanagement
 filematcher
 filename
@@ -3118,6 +3118,7 @@ hadoop
 hafr
 haiku
 hailstone
+haipa
 halo
 haloitsm
 halopsa
@@ -3269,7 +3270,6 @@ hosts-file
 hostsfile
 hot-water
 hotkey
-hotkeys
 howto
 hp
 hpc
@@ -3961,7 +3961,6 @@ local-policy
 localadmin
 localconfigurationmanager
 localdb
-localdirectories
 locale
 localgroup
 localgroupmember
@@ -4075,7 +4074,6 @@ machinelearning
 machinelearningcompute
 machinelearningmodels
 machinelearningservices
-macmon
 macos
 macosx
 macro
@@ -4523,8 +4521,6 @@ mysql-database
 mytest
 n-able
 n-central
-nabu
-nac
 nagios
 nakivo
 name
@@ -5412,10 +5408,10 @@ powershellml
 powershellmodule
 powershellmoduleupdate
 powershellpr0mpt
-powershellremoting
 powershellscript
 powershelltemplate
 powershelltraining
+powershelltypeaccelerators
 powershelluniversal
 powershellv5
 powerstig
@@ -8817,7 +8813,6 @@ remotedesktopconnectionmanager
 remotedesktopgateway
 remotedesktopmanager
 remotedesktopservices
-remotedirectories
 remotefiles
 remoteforensics
 remotehost
@@ -8835,6 +8830,7 @@ remove-path
 remove-pinneditem
 remove-tempfiles
 removefile
+removetypeaccelerators
 remux
 ren-isac
 rename
@@ -8907,7 +8903,6 @@ restore
 resume
 retail
 retention
-retro
 retry
 returnuserprofile
 retype
@@ -9269,7 +9264,6 @@ send-mailmessage
 send-message
 senderid
 sendgrid
-sendkeys
 sendmail
 sense
 sensitive
@@ -9407,7 +9401,6 @@ show
 show-command
 show-objecttree
 show-on-command
-showdemo
 showoncommand
 shred
 shuf
@@ -9448,7 +9441,6 @@ siteconfiguration
 sitecore
 sitecoresearch
 sitemaintenance
-sitemap
 siterecovery
 sites
 sitesystemserver
@@ -9472,6 +9464,8 @@ skypeforbusinessonline
 skypeonline
 skytap
 slack
+slash
+slashcommands
 sleeper
 slideshow
 slmgr
@@ -10031,6 +10025,7 @@ template-engine
 templater
 templates
 templating
+temporary
 tenable
 tenable.sc
 tenant
@@ -10271,6 +10266,7 @@ trx
 ts
 tsa
 tsd
+tsheets
 tsqlbestpractice
 tst
 tst1
@@ -10304,6 +10300,7 @@ twitter-timeline
 twitter-tweet
 txt
 type
+typeaccelerators
 typedata
 typeextension
 types
@@ -10397,7 +10394,6 @@ unattend
 unattendedfile
 unblock
 unc
-uncpaths
 underlined-text
 unhide
 unicode
@@ -10459,7 +10455,6 @@ uptimerobot
 uptobox
 uqword
 uri
-uri-scheme
 url
 url-encode
 url-shortener
@@ -10917,7 +10912,6 @@ windowsdataprotectionapi
 windowsdefender
 windowsdesktop
 windowsdesktopsearch
-windowsdirectories
 windowsevent
 windowseventlog
 windowsform
@@ -11125,6 +11119,7 @@ xpo
 xprotect
 xpt
 xrm
+xsa
 xtremio
 xtrude
 xunit
