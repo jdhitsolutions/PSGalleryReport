@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Sunday, 22 September 2024 17:51:50 UTC
+Updated: Monday, 23 September 2024 02:15:32 UTC
 
 .bat
 .env
@@ -29,7 +29,6 @@ Updated: Sunday, 22 September 2024 17:51:50 UTC
 1803
 1809
 1c
-1e
 1password
 1poshword
 200
@@ -129,7 +128,6 @@ activedirectoryauthenticationlibrary
 activedirectorycertificateservices
 activedirectoryfederationservices
 activedirectry-html
-activeefficiency
 activehours
 activenet
 activenetworkstation
@@ -238,8 +236,6 @@ adwords
 adx
 adxingestion
 aem
-aeries
-aeriessis
 aes
 afd
 affinity
@@ -304,8 +300,6 @@ alias-hint
 alias-tips
 aliases
 aliens
-alkane
-alkanepsf
 all
 alletra
 alloydb
@@ -578,7 +572,6 @@ authentication
 authenticationcertificate
 authenticode
 authn
-author
 authoring
 authoringtools
 authorisation
@@ -610,7 +603,6 @@ automatenow
 automaticpacketreportingsystem
 automation
 automation psmodule
-automationanywhere
 automationutils
 autopatching
 autopilot
@@ -628,7 +620,6 @@ autoyast
 auvik
 availability
 availabilityset
-avalara
 avatar
 avd
 ave
@@ -943,7 +934,6 @@ bootstrapping
 bop
 bot
 bots
-botservice
 bouncer
 boundaries
 boundarygroups
@@ -991,7 +981,6 @@ bugzilla
 build
 build-log
 build-scripts
-build-test-publish
 builddefinition
 builder
 buildhelpers
@@ -1363,7 +1352,6 @@ cognitiveservice
 cognitiveservices
 cohere
 cohesity
-coinmarketcap
 collaboration
 collatordso
 collatz
@@ -1392,7 +1380,6 @@ comical
 comics
 command
 command_line
-command-line-interface
 command-validation
 commandcoverage
 commandhistory
@@ -1403,7 +1390,6 @@ commands
 commandsandresource
 commence
 comment
-comments
 commerce
 commfort
 commit
@@ -1424,7 +1410,6 @@ complete
 completer
 completion
 completion-manager
-completionresult
 completions
 complex
 compliance
@@ -1445,7 +1430,6 @@ computer-site
 computername
 computers
 computersite
-concur
 concurrency
 concurrent
 conda
@@ -1531,7 +1515,6 @@ continuousintegration
 contrast
 control
 controller
-controlroom
 controlup
 conventional
 conventional-commits
@@ -1572,7 +1555,6 @@ copilot
 copy
 copy-item
 copypaste
-copyright
 core
 coreposh
 coreutils
@@ -1837,7 +1819,6 @@ datum
 dave
 davinci
 dax
-dayinweek
 days
 days-week
 db
@@ -1931,6 +1912,7 @@ deploy
 deployment
 deploymentconfig
 deploymentresourceprovider
+deploymenttasks
 depute
 der
 description
@@ -2002,7 +1984,6 @@ digital-forensics
 digitalforensics
 digitalocean
 digitaltwins
-dilbert
 dimcry
 dircolors
 director
@@ -2010,6 +1991,8 @@ directories
 directory
 directory psedition_core psedition_desktop
 directory-transform
+directorycleanup
+directorymanagement
 directorymarks
 directoryname
 directorysearcher
@@ -2240,6 +2223,7 @@ dumpify
 dumping
 dumps
 duo
+duosecurity
 dupes
 duplicate
 duplicate-files
@@ -2311,7 +2295,6 @@ efi
 egrep
 eid
 eigencontroles
-einstein
 eklient psedition_core psedition_desktop
 elastic
 elasticsan
@@ -2419,7 +2402,7 @@ erp
 error
 error-log
 errorcode
-errorfile
+errorhandling
 errors
 errorview
 eryph
@@ -2660,6 +2643,7 @@ fileencryption
 filelist
 filelog
 filelogger
+filemaintenance
 filemanagement
 filematcher
 filename
@@ -2712,7 +2696,6 @@ findfile
 findlocation
 findplace
 findproxyforurl
-fine-print
 fine-tuning
 finops
 firebird
@@ -2799,13 +2782,11 @@ fortios
 fortune
 forum
 forwardcompatibility
-forwardedevents
 foudil
 foundationmodels
 fox
 foxpro
 fqdn
-frame
 framework
 france
 free
@@ -3022,7 +3003,6 @@ google-fonts
 google-histogram
 google-sankey
 google-table
-googleadsv2
 googlecloudplatform
 googledrive
 googlemap
@@ -3102,7 +3082,6 @@ guidtoname
 guildwars2
 gumby
 guru
-gvim
 gw2
 gwbasic
 gymnasium
@@ -3110,7 +3089,6 @@ gz
 gzip
 gzip-compression
 ha
-haarlemsdagblad
 hack
 hacking
 hacktoberfest
@@ -3194,7 +3172,6 @@ helm
 helmet
 help
 helpdesk
-helpdoc
 helper
 helper-functions
 helperfunctions
@@ -3270,6 +3247,7 @@ hosts-file
 hostsfile
 hot-water
 hotkey
+hotkeys
 howto
 hp
 hpc
@@ -3578,7 +3556,6 @@ ip-scanner
 ipa
 ipaddress
 ipam
-ipbroadcast
 ipc
 ipcalc
 ipcalculator
@@ -3721,7 +3698,6 @@ jws
 jwt
 jwttoken
 k8s
-k8sshell
 kafka
 kaminario
 karabiner
@@ -3756,7 +3732,6 @@ keycipher
 keycloak
 keylight
 keymanagement
-keymanagementserver
 keymap
 keymapping
 keypair
@@ -3791,7 +3766,6 @@ krbtgt
 krick
 kschemaplugin
 kubclt
-kube
 kubectl
 kubectx
 kubens
@@ -3961,6 +3935,7 @@ local-policy
 localadmin
 localconfigurationmanager
 localdb
+localdirectories
 locale
 localgroup
 localgroupmember
@@ -4012,7 +3987,6 @@ login-azurermaccount
 login-rdp
 logingestion
 loginscreen
-loginsight
 logiphys
 logistic
 logitech
@@ -4074,6 +4048,7 @@ machinelearning
 machinelearningcompute
 machinelearningmodels
 machinelearningservices
+macmon
 macos
 macosx
 macro
@@ -4098,7 +4073,6 @@ maintain-module
 maintenance
 maintenance-window
 maintenancewindows
-mak
 make
 maker
 malware
@@ -4151,7 +4125,6 @@ marketplaceprivateoffer
 marketplacepublisher
 marking
 marklogic
-marquee
 marvel
 marvell
 marvell_semiconductor_inc
@@ -4362,11 +4335,6 @@ models
 modify
 module
 module-maintenance
-module-manifest
-module-publishing
-module-publishing-framework
-module-testing
-module-testing-framework
 modulebuild
 modulecreation
 modulefast
@@ -4379,7 +4347,6 @@ moduleversion
 mof
 moldova
 moment
-monaco
 monday
 mondoo
 money
@@ -4437,7 +4404,6 @@ msft
 msftnet
 msftnetworking
 msg
-msg.exe
 msgbox
 msgraph
 msgraphapi
@@ -4521,6 +4487,8 @@ mysql-database
 mytest
 n-able
 n-central
+nabu
+nac
 nagios
 nakivo
 name
@@ -4621,7 +4589,6 @@ new-dynamicparameter
 new-githubrelease
 new-item
 new-itemproperty
-new-modulemanifest
 new-pinneditem
 new-rdpsession
 new-samcmapplicationfrompackagedefinitionsms
@@ -5319,7 +5286,6 @@ poshy-wrap-terraform
 poshy-wrap-terragrunt
 poshy-wrap-tmux
 poshy-wrap-vagrant
-poshy-wrap-vault
 poshy-wrap-vscode
 poshy-wrap-wget
 poshy-wrap-wt
@@ -5382,8 +5348,6 @@ powershell-isprime
 powershell-lightning
 powershell-module
 powershell-modules
-powershell-modules-convention
-powershell-project-convention
 powershell-releases-api
 powershell-remoting
 powershell-terminal
@@ -5408,6 +5372,7 @@ powershellml
 powershellmodule
 powershellmoduleupdate
 powershellpr0mpt
+powershellremoting
 powershellscript
 powershelltemplate
 powershelltraining
@@ -6747,17 +6712,6 @@ pscommand_invoke-vagrantstatus
 pscommand_invoke-vagrantsuspend
 pscommand_invoke-vagrantup
 pscommand_invoke-vagrantuplogged
-pscommand_invoke-vaultdelete
-pscommand_invoke-vaultlist
-pscommand_invoke-vaultloginviagithub
-pscommand_invoke-vaultread
-pscommand_invoke-vaultreadfieldvalue
-pscommand_invoke-vaultrenew
-pscommand_invoke-vaultrevoke
-pscommand_invoke-vaultserver
-pscommand_invoke-vaultstatus
-pscommand_invoke-vaultversion
-pscommand_invoke-vaultwrite
 pscommand_invoke-vscodeadd
 pscommand_invoke-vscodediff
 pscommand_invoke-vscodeforpwd
@@ -7248,16 +7202,6 @@ pscommand_use-gitflowbranchrelease
 pscommand_use-gitstashentry
 pscommand_uuid
 pscommand_uuidgen
-pscommand_vad
-pscommand_vag
-pscommand_val
-pscommand_var
-pscommand_varn
-pscommand_varv
-pscommand_vas
-pscommand_vasrv
-pscommand_vav
-pscommand_vaw
 pscommand_vdstr
 pscommand_vh
 pscommand_vhl
@@ -7404,7 +7348,6 @@ psexcel
 psexec
 psexec.exe
 psexpandline
-psf
 psfciv
 psfitbit
 psfive9
@@ -8159,17 +8102,6 @@ psfunction_invoke-vagrantstatus
 psfunction_invoke-vagrantsuspend
 psfunction_invoke-vagrantup
 psfunction_invoke-vagrantuplogged
-psfunction_invoke-vaultdelete
-psfunction_invoke-vaultlist
-psfunction_invoke-vaultloginviagithub
-psfunction_invoke-vaultread
-psfunction_invoke-vaultreadfieldvalue
-psfunction_invoke-vaultrenew
-psfunction_invoke-vaultrevoke
-psfunction_invoke-vaultserver
-psfunction_invoke-vaultstatus
-psfunction_invoke-vaultversion
-psfunction_invoke-vaultwrite
 psfunction_invoke-vscodeadd
 psfunction_invoke-vscodediff
 psfunction_invoke-vscodeforpwd
@@ -8541,8 +8473,6 @@ publicfolder
 publicholidays
 publicip
 publish
-publish-module
-publishedmodules
 publisher
 publishers
 publishing
@@ -8813,6 +8743,7 @@ remotedesktopconnectionmanager
 remotedesktopgateway
 remotedesktopmanager
 remotedesktopservices
+remotedirectories
 remotefiles
 remoteforensics
 remotehost
@@ -8903,6 +8834,7 @@ restore
 resume
 retail
 retention
+retro
 retry
 returnuserprofile
 retype
@@ -8986,7 +8918,6 @@ royaldocument
 royalserver
 royalts
 royaltsx
-rpa
 rpc
 rras
 rrd
@@ -9147,7 +9078,6 @@ screenscraping
 screenshot
 script
 script_version
-script-module
 script-to-assembly
 script-to-executable
 scriptanalyzer
@@ -9182,7 +9112,6 @@ search-engines
 searchconnector
 searchengine
 searcher
-searching
 searchmanager
 searchplace
 searchquery
@@ -9261,9 +9190,9 @@ senateur
 send
 send-logtologanalytics
 send-mailmessage
-send-message
 senderid
 sendgrid
+sendkeys
 sendmail
 sense
 sensitive
@@ -9466,7 +9395,6 @@ skytap
 slack
 slash
 slashcommands
-sleeper
 slideshow
 slmgr
 sln
@@ -9923,7 +9851,6 @@ system-services
 system.directoryservices.protocols
 system.text
 systemadministration
-systemadministrator
 systemadmins
 systemcenter
 systemcolors
@@ -10050,7 +9977,6 @@ test
 test-automation
 test-dscconfiguration
 test-internetconnection
-test-modulemanifest
 test-modulepath
 test-osplatform
 test-psremoting
@@ -10139,7 +10065,6 @@ timesheets
 timespan
 timezone
 tinkerpop
-tinymce
 tip
 tips
 titan
@@ -10372,7 +10297,6 @@ ud-wordtree
 udcm
 udfeedback
 udp
-udpclient
 udptest
 udr
 udthememode
@@ -10394,6 +10318,7 @@ unattend
 unattendedfile
 unblock
 unc
+uncpaths
 underlined-text
 unhide
 unicode
@@ -10433,7 +10358,6 @@ unzip
 up
 update
 update-module
-update-modulemanifest
 update-moduletests
 update-typedata
 updatedeferral
@@ -10464,7 +10388,6 @@ urlhaus
 urlredirections
 urlrewrite
 urlscan
-urlscan.io
 urlupdate
 uru
 usage
@@ -10626,7 +10549,6 @@ visualstudioonline
 visualstudioteamservices
 vlan
 vlookup
-vlsc
 vlsm
 vm
 vmc
@@ -10662,8 +10584,6 @@ voidtools
 volkskrant
 volta
 volume
-volumelicense
-volumelicenseagreement
 volumeshadowcopy
 volumio
 voperator
@@ -10910,8 +10830,8 @@ windowscredentials
 windowscredentialsmanager
 windowsdataprotectionapi
 windowsdefender
-windowsdesktop
 windowsdesktopsearch
+windowsdirectories
 windowsevent
 windowseventlog
 windowsform
@@ -10938,8 +10858,6 @@ windowsserver
 windowsserver2008
 windowsserver2016
 windowsserver2019
-windowsserver2022
-windowsserver2025
 windowsservercoresecurity
 windowsserverguisecurity
 windowsservice
@@ -11119,7 +11037,6 @@ xpo
 xprotect
 xpt
 xrm
-xsa
 xtremio
 xtrude
 xunit
