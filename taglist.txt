@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 23 September 2024 02:15:32 UTC
+Updated: Monday, 23 September 2024 09:52:01 UTC
 
 .bat
 .env
@@ -78,7 +78,6 @@ about
 abr
 abstractsyntaxtree
 abuse
-abuseipdb
 acas
 accelerator
 access
@@ -236,6 +235,8 @@ adwords
 adx
 adxingestion
 aem
+aeries
+aeriessis
 aes
 afd
 affinity
@@ -300,6 +301,8 @@ alias-hint
 alias-tips
 aliases
 aliens
+alkane
+alkanepsf
 all
 alletra
 alloydb
@@ -572,6 +575,7 @@ authentication
 authenticationcertificate
 authenticode
 authn
+author
 authoring
 authoringtools
 authorisation
@@ -603,6 +607,7 @@ automatenow
 automaticpacketreportingsystem
 automation
 automation psmodule
+automationanywhere
 automationutils
 autopatching
 autopilot
@@ -620,6 +625,7 @@ autoyast
 auvik
 availability
 availabilityset
+avalara
 avatar
 avd
 ave
@@ -934,6 +940,7 @@ bootstrapping
 bop
 bot
 bots
+botservice
 bouncer
 boundaries
 boundarygroups
@@ -1050,8 +1057,6 @@ capslock
 captcha
 capture
 carbon
-carbonawarecomputing
-carbonintensity
 card
 cardwirth
 cares
@@ -1352,6 +1357,7 @@ cognitiveservice
 cognitiveservices
 cohere
 cohesity
+coinmarketcap
 collaboration
 collatordso
 collatz
@@ -1380,6 +1386,7 @@ comical
 comics
 command
 command_line
+command-line-interface
 command-validation
 commandcoverage
 commandhistory
@@ -1390,6 +1397,7 @@ commands
 commandsandresource
 commence
 comment
+comments
 commerce
 commfort
 commit
@@ -1410,6 +1418,7 @@ complete
 completer
 completion
 completion-manager
+completionresult
 completions
 complex
 compliance
@@ -1430,6 +1439,7 @@ computer-site
 computername
 computers
 computersite
+concur
 concurrency
 concurrent
 conda
@@ -1515,6 +1525,7 @@ continuousintegration
 contrast
 control
 controller
+controlroom
 controlup
 conventional
 conventional-commits
@@ -1555,6 +1566,7 @@ copilot
 copy
 copy-item
 copypaste
+copyright
 core
 coreposh
 coreutils
@@ -1819,6 +1831,7 @@ datum
 dave
 davinci
 dax
+dayinweek
 days
 days-week
 db
@@ -1984,6 +1997,7 @@ digital-forensics
 digitalforensics
 digitalocean
 digitaltwins
+dilbert
 dimcry
 dircolors
 director
@@ -2295,6 +2309,7 @@ efi
 egrep
 eid
 eigencontroles
+einstein
 eklient psedition_core psedition_desktop
 elastic
 elasticsan
@@ -2402,6 +2417,7 @@ erp
 error
 error-log
 errorcode
+errorfile
 errorhandling
 errors
 errorview
@@ -2696,6 +2712,7 @@ findfile
 findlocation
 findplace
 findproxyforurl
+fine-print
 fine-tuning
 finops
 firebird
@@ -2782,11 +2799,13 @@ fortios
 fortune
 forum
 forwardcompatibility
+forwardedevents
 foudil
 foundationmodels
 fox
 foxpro
 fqdn
+frame
 framework
 france
 free
@@ -2909,8 +2928,6 @@ get-childitem
 get-cmhealthcheck
 get-command
 get-credential
-get-criticaltrippoint
-get-currentcputemperature
 get-dellwarranty
 get-directorycontents
 get-dtcmdevicemodel
@@ -2927,16 +2944,13 @@ get-iislog
 get-openfile
 get-openfiles
 get-pass
-get-passivetrippoint
 get-passlist
 get-path
 get-pinneditem
 get-samcmassignedsite
 get-samcmcurrentmanagementpoint
-get-samplingperiod
 get-stalecomps
 get-staleusers
-get-thermalstamp
 get-uptime
 getfirmwareenvironmentvariable
 getfirmwaretype
@@ -3003,6 +3017,7 @@ google-fonts
 google-histogram
 google-sankey
 google-table
+googleadsv2
 googlecloudplatform
 googledrive
 googlemap
@@ -3082,6 +3097,7 @@ guidtoname
 guildwars2
 gumby
 guru
+gvim
 gw2
 gwbasic
 gymnasium
@@ -3089,8 +3105,8 @@ gz
 gzip
 gzip-compression
 ha
+haarlemsdagblad
 hack
-hacking
 hacktoberfest
 hadoop
 hafr
@@ -3172,6 +3188,7 @@ helm
 helmet
 help
 helpdesk
+helpdoc
 helper
 helper-functions
 helperfunctions
@@ -3556,6 +3573,7 @@ ip-scanner
 ipa
 ipaddress
 ipam
+ipbroadcast
 ipc
 ipcalc
 ipcalculator
@@ -3698,6 +3716,7 @@ jws
 jwt
 jwttoken
 k8s
+k8sshell
 kafka
 kaminario
 karabiner
@@ -3732,6 +3751,7 @@ keycipher
 keycloak
 keylight
 keymanagement
+keymanagementserver
 keymap
 keymapping
 keypair
@@ -3766,6 +3786,7 @@ krbtgt
 krick
 kschemaplugin
 kubclt
+kube
 kubectl
 kubectx
 kubens
@@ -3987,6 +4008,7 @@ login-azurermaccount
 login-rdp
 logingestion
 loginscreen
+loginsight
 logiphys
 logistic
 logitech
@@ -4073,6 +4095,7 @@ maintain-module
 maintenance
 maintenance-window
 maintenancewindows
+mak
 make
 maker
 malware
@@ -4125,6 +4148,7 @@ marketplaceprivateoffer
 marketplacepublisher
 marking
 marklogic
+marquee
 marvel
 marvell
 marvell_semiconductor_inc
@@ -4347,6 +4371,7 @@ moduleversion
 mof
 moldova
 moment
+monaco
 monday
 mondoo
 money
@@ -4388,7 +4413,6 @@ ms_365
 ms-graph
 ms365
 msaccess
-msacpi_thermalzonetemperature
 msal
 msauth
 msband
@@ -4404,6 +4428,7 @@ msft
 msftnet
 msftnetworking
 msg
+msg.exe
 msgbox
 msgraph
 msgraphapi
@@ -5286,6 +5311,7 @@ poshy-wrap-terraform
 poshy-wrap-terragrunt
 poshy-wrap-tmux
 poshy-wrap-vagrant
+poshy-wrap-vault
 poshy-wrap-vscode
 poshy-wrap-wget
 poshy-wrap-wt
@@ -5472,7 +5498,6 @@ program-association
 programs
 progress
 progressbar
-progressbars
 project
 project-management
 projectmanagement
@@ -6712,6 +6737,17 @@ pscommand_invoke-vagrantstatus
 pscommand_invoke-vagrantsuspend
 pscommand_invoke-vagrantup
 pscommand_invoke-vagrantuplogged
+pscommand_invoke-vaultdelete
+pscommand_invoke-vaultlist
+pscommand_invoke-vaultloginviagithub
+pscommand_invoke-vaultread
+pscommand_invoke-vaultreadfieldvalue
+pscommand_invoke-vaultrenew
+pscommand_invoke-vaultrevoke
+pscommand_invoke-vaultserver
+pscommand_invoke-vaultstatus
+pscommand_invoke-vaultversion
+pscommand_invoke-vaultwrite
 pscommand_invoke-vscodeadd
 pscommand_invoke-vscodediff
 pscommand_invoke-vscodeforpwd
@@ -7202,6 +7238,16 @@ pscommand_use-gitflowbranchrelease
 pscommand_use-gitstashentry
 pscommand_uuid
 pscommand_uuidgen
+pscommand_vad
+pscommand_vag
+pscommand_val
+pscommand_var
+pscommand_varn
+pscommand_varv
+pscommand_vas
+pscommand_vasrv
+pscommand_vav
+pscommand_vaw
 pscommand_vdstr
 pscommand_vh
 pscommand_vhl
@@ -7348,6 +7394,7 @@ psexcel
 psexec
 psexec.exe
 psexpandline
+psf
 psfciv
 psfitbit
 psfive9
@@ -8102,6 +8149,17 @@ psfunction_invoke-vagrantstatus
 psfunction_invoke-vagrantsuspend
 psfunction_invoke-vagrantup
 psfunction_invoke-vagrantuplogged
+psfunction_invoke-vaultdelete
+psfunction_invoke-vaultlist
+psfunction_invoke-vaultloginviagithub
+psfunction_invoke-vaultread
+psfunction_invoke-vaultreadfieldvalue
+psfunction_invoke-vaultrenew
+psfunction_invoke-vaultrevoke
+psfunction_invoke-vaultserver
+psfunction_invoke-vaultstatus
+psfunction_invoke-vaultversion
+psfunction_invoke-vaultwrite
 psfunction_invoke-vscodeadd
 psfunction_invoke-vscodediff
 psfunction_invoke-vscodeforpwd
@@ -8473,6 +8531,7 @@ publicfolder
 publicholidays
 publicip
 publish
+publishedmodules
 publisher
 publishers
 publishing
@@ -8521,7 +8580,6 @@ python
 python-for-dotnet
 python3
 qcloud
-qconvergeconsolepowerkit
 qemu
 qlgc_fc_powerkit
 qlik
@@ -8918,6 +8976,7 @@ royaldocument
 royalserver
 royalts
 royaltsx
+rpa
 rpc
 rras
 rrd
@@ -9112,6 +9171,7 @@ search-engines
 searchconnector
 searchengine
 searcher
+searching
 searchmanager
 searchplace
 searchquery
@@ -9190,9 +9250,9 @@ senateur
 send
 send-logtologanalytics
 send-mailmessage
+send-message
 senderid
 sendgrid
-sendkeys
 sendmail
 sense
 sensitive
@@ -9330,6 +9390,7 @@ show
 show-command
 show-objecttree
 show-on-command
+showdemo
 showoncommand
 shred
 shuf
@@ -9370,6 +9431,7 @@ siteconfiguration
 sitecore
 sitecoresearch
 sitemaintenance
+sitemap
 siterecovery
 sites
 sitesystemserver
@@ -9395,6 +9457,7 @@ skytap
 slack
 slash
 slashcommands
+sleeper
 slideshow
 slmgr
 sln
@@ -9851,6 +9914,7 @@ system-services
 system.directoryservices.protocols
 system.text
 systemadministration
+systemadministrator
 systemadmins
 systemcenter
 systemcolors
@@ -9946,7 +10010,6 @@ teletext
 telligent
 telnet
 temp
-temperature
 template
 template-engine
 templater
@@ -10028,7 +10091,6 @@ tfvc
 thecrushingemptinessofquotidianexistence
 theme
 themes
-thermal
 thermostat
 thinprint
 third-party-libraries
@@ -10065,6 +10127,7 @@ timesheets
 timespan
 timezone
 tinkerpop
+tinymce
 tip
 tips
 titan
@@ -10297,6 +10360,7 @@ ud-wordtree
 udcm
 udfeedback
 udp
+udpclient
 udptest
 udr
 udthememode
@@ -10379,6 +10443,7 @@ uptimerobot
 uptobox
 uqword
 uri
+uri-scheme
 url
 url-encode
 url-shortener
@@ -10388,6 +10453,7 @@ urlhaus
 urlredirections
 urlrewrite
 urlscan
+urlscan.io
 urlupdate
 uru
 usage
@@ -10549,6 +10615,7 @@ visualstudioonline
 visualstudioteamservices
 vlan
 vlookup
+vlsc
 vlsm
 vm
 vmc
@@ -10584,6 +10651,8 @@ voidtools
 volkskrant
 volta
 volume
+volumelicense
+volumelicenseagreement
 volumeshadowcopy
 volumio
 voperator
@@ -10830,6 +10899,7 @@ windowscredentials
 windowscredentialsmanager
 windowsdataprotectionapi
 windowsdefender
+windowsdesktop
 windowsdesktopsearch
 windowsdirectories
 windowsevent
@@ -10858,6 +10928,8 @@ windowsserver
 windowsserver2008
 windowsserver2016
 windowsserver2019
+windowsserver2022
+windowsserver2025
 windowsservercoresecurity
 windowsserverguisecurity
 windowsservice
@@ -10947,7 +11019,6 @@ wrap-text
 wrapper
 wrapperfunctions
 wrc
-wrike
 write
 write-ascii
 write-color
@@ -11037,6 +11108,7 @@ xpo
 xprotect
 xpt
 xrm
+xsa
 xtremio
 xtrude
 xunit
