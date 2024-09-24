@@ -957,11 +957,11 @@ Microsoft Azure PowerShell: DataProtection cmdlets
 
 __Downloads__: 38,165,172 | __Repository__: https://github.com/Azure/azure-powershell
 
-## [Microsoft.WinGet.Client](https://www.powershellgallery.com/Packages/Microsoft.WinGet.Client/1.9.2411) | 1.9.2411
+## [Microsoft.WinGet.Client](https://www.powershellgallery.com/Packages/Microsoft.WinGet.Client/1.9.2505) | 1.9.2505
 
-### Published: 08/29/2024 02:13:58 by Microsoft Corporation
+### Published: 09/24/2024 16:31:16 by Microsoft Corporation
 
-PowerShell Module for the Windows Package Manager Client.
+PowerShell Module for the Windows Package Manager Client. Due to https://github.com/PowerShell/PSResourceGet/issues/85 this version is not marked as prerelease but should be treated as such.
 
 __Downloads__: 36,792,163 | __Repository__: https://github.com/microsoft/winget-cli
 
@@ -2192,4 +2192,4 @@ Microsoft Graph PowerShell Cmdlets
 
 __Downloads__: 8,254,340 | __Repository__: https://github.com/microsoftgraph/msgraph-sdk-powershell
 
-*Updated: Tuesday, 24 September 2024 09:51:49 UTC*
+*Updated: Tuesday, 24 September 2024 17:51:53 UTC*

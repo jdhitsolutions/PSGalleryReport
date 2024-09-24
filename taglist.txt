@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Tuesday, 24 September 2024 09:51:54 UTC
+Updated: Tuesday, 24 September 2024 17:51:58 UTC
 
 .bat
 .env
@@ -610,7 +610,6 @@ automatenow
 automaticpacketreportingsystem
 automation
 automation psmodule
-automationanywhere
 automationutils
 autopatching
 autopilot
@@ -637,6 +636,7 @@ avi
 avm
 avmtools
 avro
+avs
 avset
 await
 awareness
@@ -713,6 +713,7 @@ azureartifacts
 azureas
 azureatp
 azureautomation
+azureautomationaccount
 azureautomationnotsupported
 azurebasicloadbalancerupgrade
 azurecli
@@ -1161,10 +1162,6 @@ checklists
 checkpoint
 checks
 checksum
-chef
-chef-automate
-chef-compliance
-chef-server
 chefconf2016
 chenxizhang
 cherrypy
@@ -1294,7 +1291,6 @@ cloudfoundation
 cloudfront
 cloudgovernance
 cloudguard
-cloudinairy
 cloudinit
 cloudiq
 cloudkey
@@ -1529,7 +1525,6 @@ continuousintegration
 contrast
 control
 controller
-controlroom
 controlup
 conventional
 conventional-commits
@@ -1568,7 +1563,6 @@ cooltag2
 coordinates
 copilot
 copy
-copy-item
 copypaste
 copyright
 core
@@ -1867,6 +1861,7 @@ debug
 debug-files
 debugger
 debugging
+decimal
 decimalip
 decimalzero
 declarative
@@ -2197,8 +2192,6 @@ droplet
 droptable
 drs
 drsrule
-drupal
-drush
 dry
 ds
 ds-client
@@ -2457,6 +2450,7 @@ etrade
 ets
 etw
 eulanda
+evaluator
 evc
 event
 event_id
@@ -2565,7 +2559,6 @@ extended
 extendedattributes
 extendedevents
 extendedproperties
-extendedproperty
 extendscript
 extensibility
 extension
@@ -2669,9 +2662,6 @@ filenames
 fileproperties
 filereplication
 files
-files-cli
-files-cli.exe
-files.com
 filesecurity
 fileserver
 fileserverresourcemanager
@@ -3159,8 +3149,6 @@ hashset
 hashtable
 hasicorp
 haskell
-haste
-hastebin
 haveibeenpwned
 hawk
 hba
@@ -4648,7 +4636,6 @@ nexenta
 nexentastor
 nexthink
 nexus
-nexusiq
 nfsv3
 ngen
 ngfw
@@ -5073,7 +5060,6 @@ passwordstate
 passwordtool
 passwordvault
 passwordwolf
-paste
 patch
 patches
 patching
@@ -8632,6 +8618,7 @@ quarantine
 queries
 query
 queryexcel
+querystring
 question
 queue
 queues
@@ -8784,7 +8771,6 @@ regex
 region
 regions
 regiser-argumentcompleter
-register
 register-argumentcompleter
 registered
 registrar
@@ -8839,7 +8825,6 @@ remove-itemproperty
 remove-pass
 remove-path
 remove-pinneditem
-remove-tempfiles
 removefile
 removetypeaccelerators
 remux
@@ -8998,7 +8983,6 @@ royaldocument
 royalserver
 royalts
 royaltsx
-rpa
 rpc
 rras
 rrd
@@ -10359,7 +10343,6 @@ ud-navbarsearch
 ud-numbermask
 ud-orgchart
 ud-piechart3d
-ud-pivottable
 ud-progressstepbar
 ud-rangeslider
 ud-readingbar
@@ -10375,7 +10358,6 @@ ud-step
 ud-stepbar
 ud-stickynavbar
 ud-tagcloud
-ud-timeline
 ud-timeout
 ud-tool
 ud-toploader
@@ -10508,6 +10490,7 @@ userworkstations
 usg
 usps
 utc
+utf-8
 utf-sig
 utf7
 utf8
@@ -10707,6 +10690,7 @@ vs-shell
 vsa
 vsa9
 vsan
+vsan+
 vscode
 vsdevcmd
 vsdevshell
@@ -10715,10 +10699,12 @@ vsm
 vso
 vspc
 vsphere
+vsphere+
 vss
 vssetup
 vsshell
 vst
+vsteambuilder
 vsteams
 vstest
 vsts
@@ -10971,6 +10957,7 @@ winrar
 winrm
 winrs
 winrt
+wins
 winsat
 winscp
 wintellect
