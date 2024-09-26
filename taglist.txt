@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Wednesday, 25 September 2024 17:52:42 UTC
+Updated: Thursday, 26 September 2024 02:15:26 UTC
 
 .bat
 .env
@@ -70,6 +70,7 @@ aadrm
 aadsecurity
 aadsts
 aam
+aas
 aatp
 abc
 abc_testing
@@ -240,7 +241,6 @@ aem
 aeries
 aeriessis
 aes
-afd
 affinity
 affinity-co
 affinity-crm
@@ -355,6 +355,7 @@ anglesharp
 angular
 animals
 animate-svg
+animation
 animations
 annotated
 announcement
@@ -480,7 +481,6 @@ area
 arg
 argcomplete
 argument
-argumentcompleter
 arguments
 ari
 arm
@@ -512,6 +512,7 @@ asdatabase
 asigra
 asjob
 asm
+asn
 asn.1
 asn1
 asnbank
@@ -569,7 +570,6 @@ auditpolicy
 audits
 aumid
 aut
-auth
 auth0
 authenticate
 authentication
@@ -583,6 +583,7 @@ authorisation
 authority
 authorization
 authorizationheaders
+authorize.net
 authz
 autify
 auto
@@ -609,6 +610,8 @@ automation
 automation psmodule
 automationanywhere
 automationutils
+autonomoussystem
+autonomoussystemnumber
 autopatching
 autopilot
 autoscaling
@@ -646,7 +649,6 @@ aws
 aws_profile
 aws-codebuild
 aws-lambda
-aws-vault
 aws.tools.powershell
 awsbedrock
 awscli
@@ -676,6 +678,7 @@ aznicdetails
 azops
 azpipelines
 azpublicipaddress
+azresources
 azsdk
 azsk
 azsql
@@ -747,6 +750,7 @@ azurepowershell
 azurerepos
 azureresourceinventory
 azureresourcemanager
+azureresources
 azureresourcestuff
 azurerestapispecs
 azurerm
@@ -865,6 +869,7 @@ bin
 bin-obj
 binary
 binaryip
+bind
 binding
 bindings
 bing
@@ -1204,6 +1209,7 @@ cinema
 cinst
 cipher
 circuit-breaker
+circumlunar
 cireson
 ciresonassetmanagement
 ciresonportal
@@ -1236,6 +1242,8 @@ clear
 clear-history
 clearpass
 cli
+cli-menu
+cli-menu-helpers
 clickonce
 client
 client-management
@@ -1682,7 +1690,7 @@ cudel
 culture
 cumulative
 cumulativeupdate
-cumulocity
+curious
 curl
 curlie
 currency
@@ -1985,6 +1993,7 @@ dictionary
 diff
 difference
 dig
+digikam
 digital
 digital-forensics
 digitalforensics
@@ -2092,6 +2101,7 @@ dnsresolver
 dnssec
 dnsserver
 dnssuffix
+dnvm
 doc
 docfx
 dock
@@ -2229,6 +2239,7 @@ dumpify
 dumping
 dumps
 duo
+duosecurity
 dupes
 duplicate
 duplicate-files
@@ -2306,6 +2317,7 @@ elastic
 elasticsan
 elasticsearch
 elb
+element
 elevate
 elevated
 elevatedconsole
@@ -2324,6 +2336,7 @@ emacs
 email
 email-address
 emailaddressupdate
+emailautomation
 emaildataplane
 emailmanagment
 emailnotification
@@ -2512,6 +2525,7 @@ executables
 execute
 exexml
 exif
+exiftool
 exists
 exitcode
 exitprocessrequest
@@ -2596,7 +2610,6 @@ fastping
 fasttrack
 fat32
 favorite
-favorites
 fb-pro
 fciv
 fd
@@ -2615,7 +2628,6 @@ ffmpeg
 ffprobe
 fhirservice
 fiche
-fiddler
 fido
 fido2
 fieldglass
@@ -2678,6 +2690,7 @@ filewrite
 fill
 film
 filter
+filter-item
 filtering
 fim
 fims
@@ -2873,6 +2886,10 @@ gdap
 gdpr
 gedit
 gem
+gemini
+geminiprotocol
+gemlog
+gemtext
 genai
 general
 generate
@@ -2959,8 +2976,6 @@ git-lfs
 git-proxy
 git-rename
 git-stat
-gitcmdline
-gitdesktop
 gitea
 gitflow
 gitforwindows
@@ -3002,7 +3017,6 @@ google-chrome
 google-fonts
 google-histogram
 google-sankey
-google-table
 googleadsv2
 googlecloudplatform
 googledrive
@@ -3116,7 +3130,6 @@ handy
 hangouts
 hannelstoolbox
 hanwha
-har
 hard
 hardblock
 harden
@@ -3329,6 +3342,7 @@ ibm
 ibmc
 ibmhttpserver
 icacl
+icann
 icinga
 icinga2
 icinga2mssql
@@ -3587,6 +3601,7 @@ irl
 irregular
 isadmin
 isbn
+isc
 iscsi
 isdate
 ise
@@ -3676,7 +3691,9 @@ jsm.insight
 json
 json-converter
 json-transform
+json+
 json2ps
+jsonplus
 jsonwebencryption
 jsonwebkey
 jsonwebsignature
@@ -3691,6 +3708,7 @@ junction
 junctions
 junit
 jupyter
+jupytor
 jurassic
 jurassic2
 justenoughadministration
@@ -3774,6 +3792,8 @@ kubclt
 kube
 kubeconfig
 kubectl
+kubectx
+kubens
 kubernetes
 kubernetesconfiguration
 kubespray
@@ -3913,6 +3933,7 @@ liquit.com
 list
 list_files
 list-directory
+list-item
 listener
 litecoin
 litedb
@@ -3937,7 +3958,6 @@ loc
 local
 local-caching
 local-policy
-localaccounts
 localadmin
 localconfigurationmanager
 localdb
@@ -4093,7 +4113,6 @@ managed-identity
 manageddevices
 manageddisks
 managedidentities
-managedidentity
 managednetworkfabric
 managedserviceidenity
 managedserviceidentity
@@ -4438,7 +4457,6 @@ msonlineext
 msp
 msp360
 mspbackups
-msproject
 msrc
 msrdc
 mssql
@@ -4450,7 +4468,6 @@ mssqlserver
 msteams
 mstest
 mstsc
-msu
 msvc
 msword
 mta-sts
@@ -4562,6 +4579,7 @@ netextender
 netfirewallrule
 netherlands
 netmask
+nets
 netsapiens
 netscaler
 netscape
@@ -4907,6 +4925,7 @@ osddriver
 osddrivers
 osdeploy
 osdeployment
+osdprogress
 osdsus
 osdupdate
 osi
@@ -4999,6 +5018,7 @@ parameter
 parameterinfo
 parameters
 parclient
+parititions
 parool
 parquet
 parse
@@ -5151,6 +5171,8 @@ pivot
 pivotal
 pivottable
 pixoo
+pkce
+pkgx
 pki
 pki psmodule
 pks
@@ -5362,7 +5384,6 @@ powershell-modules
 powershell-modules-convention
 powershell-project-convention
 powershell-releases-api
-powershell-remoting
 powershell-terminal
 powershell-terminal-copilot
 powershell-training
@@ -8600,13 +8621,13 @@ quarantine
 queries
 query
 queryexcel
-querystring
 question
 queue
 queues
 queuing
 quick-response
 quickaccess
+quickbase
 quickbooks
 quicksetup
 quiz
@@ -8662,6 +8683,8 @@ rbsu
 rcon
 rcs
 rcu
+rdap
+rdap.org
 rdb
 rdbms
 rdc
@@ -8826,7 +8849,6 @@ replace
 replaygain
 replication
 repo
-repoo
 report
 reporting
 reportingservicepoint
@@ -8844,6 +8866,7 @@ requiredmodules
 requirements
 res
 rescan
+rescuetime
 reservation
 reservations
 reset
@@ -8862,6 +8885,7 @@ resourcecontroller
 resourcegraph
 resourcegroup
 resourcegroups
+resourceid
 resourceinventory
 resourcekit
 resourcemanager
@@ -8985,7 +9009,6 @@ rulasg
 rule
 rulesengine
 run
-run-as-user
 runas
 runbook
 runbooks
@@ -9082,7 +9105,6 @@ schannel
 schannelpolicydsc
 schedule
 scheduled
-scheduled-task
 scheduled-tasks
 scheduledjob
 scheduledtask
@@ -9216,6 +9238,9 @@ seek
 seekatar
 seeshell
 select
+select-item
+select-kubecontext
+select-kubenamespace
 select-string
 selection
 selectxmlinfo
@@ -9422,7 +9447,6 @@ sitemap
 siterecovery
 sites
 sitesystemserver
-sitethumbprint
 size
 skatterbrainz
 skeleton-loader
@@ -9446,7 +9470,6 @@ slash
 slashcommands
 sleeper
 slideshow
-slmgr
 sln
 slugify
 sm
@@ -9593,7 +9616,6 @@ splat
 splatting
 split
 splunk
-spn
 spo
 spooler
 sport
@@ -9893,8 +9915,6 @@ system
 system information 1394 controller baseboard motherboard systemboard battery bios bus cache memory cd dvd rom drive compact disc desktop monitor disk partition fan floppy glide point heatpipe ide infrared device keyboard local logical array mouse'
 system-administration
 system-group
-system-service
-system-services
 system.directoryservices.protocols
 system.text
 systemadministration
@@ -10339,7 +10359,6 @@ ud-tagcloud
 ud-timeline
 ud-timeout
 ud-tool
-ud-toploader
 ud-trendline
 ud-typing
 ud-window
@@ -10418,6 +10437,7 @@ updatemgmt
 updater
 updates
 updateservices
+updmanagement
 updmgmt
 upgrade
 uplift
@@ -10437,7 +10457,6 @@ url-shortener
 urldecode
 urlencode
 urlhaus
-urlredirections
 urlrewrite
 urlscan
 urlscan.io
@@ -10536,7 +10555,6 @@ ve7cc
 vector
 veeam
 veeampn
-veeva
 venafi
 vencord
 vendor
@@ -10778,6 +10796,7 @@ websphereportal
 webtest
 webtesting
 webtime
+webview2
 wec
 wecutil
 weekday
@@ -10980,9 +10999,7 @@ workflows
 workingdays
 workinghours
 workingtime
-workload
 workload-automation
-workloadidentity
 workloads
 workpoint
 workrequests
