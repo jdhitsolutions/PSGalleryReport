@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Saturday, 28 September 2024 02:15:10 UTC
+Updated: Saturday, 28 September 2024 09:51:59 UTC
 
 .bat
 .env
@@ -10,7 +10,6 @@ Updated: Saturday, 28 September 2024 02:15:10 UTC
 'azure'
 'blob storage'
 'code owls'
-'files
 'provider'
 "interactive
 {modulenameplaceholder}
@@ -199,12 +198,12 @@ admin-tools
 adminbyrequest
 admindirectory
 administration
-administrative
 administrativeunit
 administrativeuser
 administrator
 admintools
 adml
+admonition
 admpwd
 admx
 ado
@@ -255,18 +254,11 @@ agm
 agnoster
 ahk
 ai
-ai21
-ai21labs
 aianomalydetection
-aiapplications
-aiautomation
 aidocument
-aiintegration
 ailanguage
 aim
-aimodels
 aip
-aiprompting
 aipscanner
 aircall
 airpower
@@ -274,7 +266,6 @@ airpwr
 airtable
 ais
 aispeech
-aiutilities
 aivision
 ajustee
 aka.ms
@@ -306,7 +297,6 @@ alkane
 alkanepsf
 all
 alletra
-alloydb
 alm
 almrangers
 alpha
@@ -325,7 +315,6 @@ amateurradio
 amazon
 amazonaws
 amazonmgn
-amazontitan
 amazonwebservices
 amend
 ami
@@ -367,7 +356,6 @@ ansible-control-node
 ansible-playbook
 ansible-vault
 ansiblecontrolnode
-anthropic
 anti-malware
 antimalwarescaninterface
 antispam
@@ -375,7 +363,6 @@ antivirus
 anws
 any
 anypackage
-anypoint
 anywhere
 aovpn psmodule
 apache
@@ -459,7 +446,6 @@ apteco
 aptitude
 aql
 arangodb
-arc
 arcade
 arcgis
 arch
@@ -482,7 +468,6 @@ argcomplete
 argument
 argumentcompleter
 arguments
-ari
 arm
 arm-json
 arm-templates
@@ -497,7 +482,6 @@ artefactual
 artifact
 artifactory
 artifacts
-artificialintelligence
 aruba
 as
 asa
@@ -543,7 +527,6 @@ async
 asynchronous
 atempo
 atera
-athena
 atlas
 atlassian
 atlassiancli
@@ -652,7 +635,6 @@ aws-codebuild
 aws-lambda
 aws-vault
 aws.tools.powershell
-awsbedrock
 awscli
 awspricelist
 axapta
@@ -750,7 +732,6 @@ azurepipelines
 azurepolicy
 azurepowershell
 azurerepos
-azureresourceinventory
 azureresourcemanager
 azureresources
 azureresourcestuff
@@ -841,7 +822,6 @@ beautifier
 beautify
 bec
 beckhoff
-bedrock
 beep
 benchmark
 benchmarking
@@ -929,7 +909,6 @@ bnm
 boards
 bofh
 boilerplate
-boinc
 bold-text
 bolt
 bom
@@ -949,6 +928,7 @@ botservice
 bouncer
 boundaries
 boundarygroups
+bounty
 box
 bpmn
 brainy
@@ -987,6 +967,7 @@ bson
 btdf
 btm
 budget
+bugbounty
 bugzilla
 build
 build-log
@@ -1038,6 +1019,7 @@ calculate
 calculator
 calendar
 callingcode
+callout
 callqueue
 calvin-and-hobbes
 cam
@@ -1070,7 +1052,6 @@ carousel
 carrier
 cartoon
 case
-cassandra
 cat
 cat-names
 catalog
@@ -1227,8 +1208,6 @@ classes
 classic
 classification
 classified
-claude
-claude3
 clccontrol
 clccontrolapiv1
 clccontrolapiv2
@@ -1279,7 +1258,6 @@ cloud-backup
 cloud-computing
 cloud-init
 cloud-iq
-cloudai
 cloudant
 cloudbees
 cloudberry
@@ -1301,7 +1279,6 @@ cloudiq
 cloudkey
 cloudmarque
 cloudmigrations
-cloudml
 cloudpc
 cloudservice
 cloudshell
@@ -1311,8 +1288,6 @@ clusterminimumvalues
 clusterplacementgroups
 clusterplugins
 cmaccounts
-cmake
-cmakepresets.json
 cmbuild
 cmclibnet
 cmclustermaintenance
@@ -1360,7 +1335,6 @@ codex
 coercion
 cognitiveservice
 cognitiveservices
-cohere
 cohesity
 coinmarketcap
 collaboration
@@ -1398,7 +1372,6 @@ commandcoverage
 commandhistory
 commandlets
 commandline
-commandr
 commands
 commandsandresource
 commence
@@ -1532,21 +1505,17 @@ contrast
 control
 controller
 controlroom
-controlup
 conventional
 conventional-commits
 convereter
 converged_data_management
 conversational
-converse
-converseapi
 conversion
 conversiontool
 convert
 convert-dtexceptiontomessage
 convert-movietogif
 convert-sid
-convert-windowsimage
 converter
 convertfrom
 convertfrom-json
@@ -1727,7 +1696,6 @@ cve
 cve-2021-34527
 cvrf
 cvss
-cwi
 cx
 cyber
 cyberark
@@ -1794,7 +1762,6 @@ datacollectionrule
 dataconduit
 dataconnectivity
 datadog
-dataexchange
 dataexplorer
 datafactory
 dataflow
@@ -1882,6 +1849,8 @@ decryption
 dedicatedhsm
 deduplication
 deep
+deep-security
+deep-security-manager
 deepl
 deepseek
 deepseek-coder
@@ -1889,7 +1858,6 @@ deepseek-coder-v2
 deepvisibility
 def
 default
-defaultparameter
 defaultroutes
 defaults
 defence
@@ -1901,7 +1869,6 @@ defenderforendpoint
 defenderforidentity
 defense
 deflate
-defrag
 delegateaccesscontrol
 delegated
 delegation
@@ -1919,8 +1886,6 @@ demandsignal
 demo
 democratie
 demonstration
-demultiplex
-demultiplexing
 dependencies
 dependency
 dependencysearch
@@ -1934,7 +1899,6 @@ der
 description
 deserialize
 design
-design-pattern
 desired
 desiredstate
 desiredstateconfiguration
@@ -1994,7 +1958,6 @@ dictionary
 diff
 difference
 dig
-digikam
 digital
 digital-forensics
 digitalforensics
@@ -2144,7 +2107,6 @@ donothing
 dos
 dot
 dotenv
-dotfile
 dotfiles
 dotnet
 dotnet-cli
@@ -2257,6 +2219,7 @@ dynamic
 dynamic-host-configuration-protocol
 dynamic-privileged-access
 dynamicdistributiongroups
+dynamicdistributionlist
 dynamicdnsoverhttps
 dynamicparam
 dynamicparameters
@@ -2506,7 +2469,6 @@ exchange2013
 exchange2016
 exchangecluster
 exchangehybrid
-exchangemigration
 exchangeon-premise
 exchangeon-premises
 exchangeonline
@@ -2524,7 +2486,6 @@ executable
 executables
 execute
 exif
-exiftool
 exists
 exitcode
 exitprocessrequest
@@ -2687,7 +2648,6 @@ filesystemsecurity
 filesystemwatcher
 filetransfer
 filetype
-filewrite
 fill
 film
 filter
@@ -2740,6 +2700,7 @@ flash
 flasharray
 flatfile
 flatten
+flavor
 fleet
 fleetappsmanagement
 fleetsoftwareupdate
@@ -2752,7 +2713,6 @@ flowy
 fluidrelay
 flyway
 fmg
-fms
 focus
 fod
 fog
@@ -2798,7 +2758,8 @@ fortios
 fortune
 forum
 forwardcompatibility
-foundationmodels
+forwardedevents
+foudil
 fox
 foxpro
 fqdn
@@ -3090,7 +3051,6 @@ gtx1080ti
 guardedfabric
 guardicore
 gubbins
-guest
 guestconfiguration
 guests
 gui
@@ -3114,7 +3074,6 @@ hacking
 hacktoberfest
 hadoop
 hafr
-haiku
 hailstone
 haipa
 halo
@@ -3348,7 +3307,6 @@ ib
 ibm
 ibmc
 ibmhttpserver
-icacl
 icann
 icinga
 icinga2
@@ -3479,7 +3437,6 @@ inline-progress
 inlineprogress
 innerjoin
 innertext
-inpainting
 input
 inputbox
 inputobject
@@ -3496,7 +3453,6 @@ inspur
 instagram
 install
 install-module
-install-windowsimage
 installation
 installationmanager
 installedapplications
@@ -3512,7 +3468,6 @@ instorage
 int
 intacct
 integrated
-integratedscriptingeditor
 integration
 integrationaccount
 integrationruntime
@@ -3649,10 +3604,8 @@ itstore
 ivanti
 ivb
 ivdc
-iwi
 j
 j81-blog
-jamba
 japanese
 jar
 jav
@@ -3717,8 +3670,6 @@ junctions
 junit
 jupyter
 jupytor
-jurassic
-jurassic2
 justenoughadministration
 jvm
 jwe
@@ -3798,18 +3749,16 @@ krick
 kschemaplugin
 kubclt
 kube
-kubeconfig
 kubectl
 kubectx
 kubens
 kubernetes
 kubernetesconfiguration
-kubetidy
+kubespray
 kudu
 kurukuru
 kusto
 kvm
-kvp
 l1tf
 l2tp
 lab
@@ -3835,10 +3784,8 @@ lamp
 lan
 landingzones
 language
-languageai
 languagedsc
 languageexperiencepack
-languagemodels
 languagepack
 lansweeper
 laps
@@ -3948,7 +3895,6 @@ literature
 live
 llama
 llama2
-llama3
 lldp
 llm
 lmhost
@@ -3965,7 +3911,6 @@ loc
 local
 local-caching
 local-policy
-localaccounts
 localadmin
 localconfigurationmanager
 localdb
@@ -4041,7 +3986,6 @@ logrotation
 logs
 logstash
 logtools
-logz
 loki
 lol
 lolcat
@@ -4081,7 +4025,6 @@ macadmins
 machine
 machinelearning
 machinelearningcompute
-machinelearningmodels
 machinelearningservices
 macmon
 macos
@@ -4281,7 +4224,6 @@ microservices
 microsoft
 microsoft_365
 microsoft_azure
-microsoft_endpoint_manager
 microsoft_online
 microsoft_teams
 microsoft-graph
@@ -4304,7 +4246,6 @@ microsoftdefender
 microsoftdefenderatp
 microsoftdefenderforidentity
 microsoftdeploymenttoolkit
-microsoftendpointmanager
 microsoftexchangeserver
 microsoftfabric
 microsoftgraph
@@ -4318,7 +4259,6 @@ microsoftonline
 microsoftstaffhub
 microsoftstore
 microsoftteams
-microsoftword
 middleware
 midserver
 migrate
@@ -4343,8 +4283,6 @@ miration-step
 mirror
 misc
 miscellaneous
-mistral
-mistralai
 mitigation
 mitre
 mitre_att&ck
@@ -4358,8 +4296,6 @@ mksapiviewer
 ml
 ml.net
 mlflow
-mlmodels
-mltools
 mmdc
 mobile
 mobilenetwork
@@ -4368,7 +4304,6 @@ mock
 mocking
 model
 modeling
-models
 modify
 module
 module-maintenance
@@ -4483,8 +4418,6 @@ mstsc
 msu
 msvc
 msword
-mule
-mulesoft
 multi
 multi-factor
 multi-language
@@ -4510,7 +4443,6 @@ mutation
 mute
 mutex
 mva
-mvc
 mvn
 mvp
 mx
@@ -4715,7 +4647,6 @@ npslog
 npslogfile
 nql
 nrc
-nrql
 ns
 ns.nl
 nsg
@@ -4902,9 +4833,7 @@ ops
 opsi
 opsmgr
 optics
-optimise
 optimization
-optimize
 optimizer
 option
 option119
@@ -4943,7 +4872,6 @@ osdupdate
 osi
 osm
 osmanagement
-osmanagementhub
 osp
 ospgateway
 osprovision
@@ -4961,7 +4889,6 @@ otp
 ou
 ou-object
 oui
-oui-search
 oura
 ouraring
 out-consolegridview
@@ -4972,7 +4899,6 @@ outerjoin
 outertext
 outline
 outlook
-outpainting
 output
 output-to-image
 outreach
@@ -5132,7 +5058,6 @@ persistent
 personal
 personalisation
 personalization
-personalvault
 personio
 pester
 pf
@@ -5220,7 +5145,6 @@ pncit
 pnp
 pnp.powershell
 pnpm
-poc
 pode
 poe
 poem
@@ -5265,7 +5189,6 @@ posh
 posh-acme
 posh-cats
 posh-chocobear
-posh-direnv
 posh-git
 posh-ribbon
 posh-ssh
@@ -5347,9 +5270,7 @@ potato
 pow
 powdrgit
 power
-power-apps
 power-cbr
-power-platform
 power-shell
 powerapps
 powerappsportal
@@ -5405,7 +5326,6 @@ powershell.module.invokewinget
 powershell.one
 powershell.persistentpathstack
 powershell7
-powershellai
 powershellazuresql
 powershellconferenceeurope
 powershellcore
@@ -5416,7 +5336,6 @@ powershellget
 powershellgetformatversion_2.0
 powershellise
 powershelllogger
-powershellml
 powershellmodule
 powershellmoduleupdate
 powershellpr0mpt
@@ -5459,7 +5378,6 @@ presentation
 presenter
 presto
 preston-k-parsard
-prettifier
 pretty
 prettyprinter
 preview
@@ -5495,7 +5413,6 @@ pro
 probability
 probe
 process
-process-inspector
 processing
 processmitigation
 processor
@@ -8623,7 +8540,6 @@ qna
 qol
 qq
 qr
-qr-code
 qrcode
 qrcodes
 qrp
@@ -8641,7 +8557,6 @@ question
 queue
 queues
 queuing
-quick-response
 quickaccess
 quickbase
 quickbooks
@@ -8724,7 +8639,6 @@ readiness
 readme
 readpdf
 readthedocs
-real-time
 realschule
 realtimeprotection
 rebase
@@ -8820,7 +8734,6 @@ reminder
 remote
 remote-browser
 remote-desktop
-remote'
 remoteadmin
 remotecert
 remoteconnection
@@ -8832,7 +8745,6 @@ remotedesktopgateway
 remotedesktopmanager
 remotedesktopservices
 remotedirectories
-remotefiles
 remoteforensics
 remotehost
 remotelocalgroup
@@ -8904,7 +8816,6 @@ resourcegraph
 resourcegroup
 resourcegroups
 resourceid
-resourceinventory
 resourcekit
 resourcemanager
 resourcemover
@@ -8946,6 +8857,7 @@ rfc4266
 rfc4291
 rfc5952
 rfc826
+rfc9116
 rg
 rgb
 rhapsody
@@ -9146,7 +9058,6 @@ scom
 sconfig
 scoop
 scope
-score
 scouterna
 scouternasetjanster
 scoutnet
@@ -9216,7 +9127,6 @@ secrets
 secretsanta
 secretscanner
 secretserver
-secretsmanager
 secretstore
 secretvault
 section
@@ -9237,6 +9147,8 @@ security_cameras
 security-awareness-training
 security-policy
 security-score
+security-txt
+security.txt
 securityassertionmarkuplanguage
 securitycenter
 securitycompliancecenter
@@ -9248,6 +9160,7 @@ securityoptions
 securitypolicydsc
 securityroles
 securityscopes
+securitytxt
 sed
 seed
 seek
@@ -9289,7 +9202,6 @@ sensors
 sensu
 sentinel
 sentinelone
-sentry
 sep
 seppmail
 seppmail.cloud
@@ -9340,7 +9252,6 @@ sessionize
 sessions
 set
 set_bios
-set-alias
 set-dnsservers
 set-githubsecrets
 set-itemproperty
@@ -9423,6 +9334,7 @@ shred
 shuf
 shutdown
 sid
+sidecar
 siem
 sif
 sigma
@@ -9574,7 +9486,6 @@ songs
 sonicos
 sonicwall
 sonicwallvpn
-sonnet
 sonus
 soon
 soonr
@@ -9647,7 +9558,6 @@ spotify-api
 spotlight
 spotlightimages
 spp
-spread
 spreadsheet
 spreadsheets
 spring
@@ -9725,13 +9635,13 @@ sspr
 ssrs
 ssst
 sstp
-stabilityai
 stache
 stackexchange
 stackhci
 stackhcivm
 stackmonitoring
 stackoverflow
+staff
 staffhub
 staging
 stale
@@ -9913,7 +9823,6 @@ syntax-highlighting
 syntaxcheck
 syntaxhighlighter
 synthesis
-synthetics
 sysadmin
 sysadmin-tool
 sysadmin-tools
@@ -10097,7 +10006,6 @@ text-to-speech
 text2image
 textanalysis
 textbuffer
-textgeneration
 texting
 texting-emoji
 texting-emojis
@@ -10157,7 +10065,6 @@ tinkerpop
 tinymce
 tip
 tips
-titan
 title
 tld
 tls
@@ -10249,6 +10156,7 @@ trein
 trello
 trellops
 trend
+trend-micro
 trendmicro
 trevor
 trevorsullivan
@@ -10364,11 +10272,9 @@ ud-readingbar
 ud-scrollspy
 ud-selectdatetime
 ud-selector
-ud-signature
 ud-simpledrawer
 ud-singleselect
 ud-slider
-ud-speechbubble
 ud-step
 ud-stepbar
 ud-stickynavbar
@@ -10478,7 +10384,6 @@ urlhaus
 urlredirections
 urlrewrite
 urlscan
-urlscan.io
 urlupdate
 uru
 usage
@@ -10545,7 +10450,6 @@ variants
 vastlimits
 vault
 vaultextension
-vaultstore
 vaultwarden
 vb365
 vba
@@ -10599,7 +10503,6 @@ video
 videos
 vie
 viewer
-vigenere
 vim
 vimode
 virole
@@ -10874,7 +10777,6 @@ wildcard
 wildfire
 wildfly
 wim
-wim2vhd
 wimwitch
 wimwitchfk
 win
@@ -11058,7 +10960,6 @@ write-message
 write-progress
 write-slog
 write-wansi
-writeaccess
 writelog
 writemanager
 writeprogress
