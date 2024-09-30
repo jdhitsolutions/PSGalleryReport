@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 30 September 2024 02:16:38 UTC
+Updated: Monday, 30 September 2024 09:51:55 UTC
 
 .bat
 .env
@@ -551,6 +551,7 @@ atlassian
 atlassiancli
 atlassianps
 atmosphere
+atom
 atp
 atrium
 att&ck
@@ -611,6 +612,7 @@ automaticpacketreportingsystem
 automation
 automation psmodule
 automationanywhere
+automationutils
 autonomoussystem
 autonomoussystemnumber
 autopatching
@@ -635,6 +637,7 @@ avatax
 avd
 ave
 avepoint
+avi
 avm
 avmtools
 avro
@@ -776,7 +779,6 @@ azuretestplan
 azurevirtualdesktop
 azurevirtualmachines
 azurevm
-azurevpn
 azvm
 b2
 back
@@ -2181,6 +2183,8 @@ drawio
 dreams
 dreamweaver
 dreary
+drift
+driftmonitor
 drink
 drive
 drive letter
@@ -2213,6 +2217,7 @@ dsc-resource
 dsc-resources
 dsccertificates
 dscconcepts
+dscdriftmonitor
 dsclient
 dscresource
 dscresourcekit
@@ -2228,7 +2233,6 @@ dts
 dtsx
 dtx
 du
-dual-stack
 duck
 duckdb
 duckduckgo
@@ -3171,7 +3175,6 @@ hba
 hbase
 hci
 hcl
-hcm
 hcx
 hdfs
 hdhomerun
@@ -3518,6 +3521,7 @@ instance
 instant
 instapush
 instorage
+int
 intacct
 integrated
 integratedscriptingeditor
@@ -3990,6 +3994,7 @@ lock
 lockbox
 lockdisplaytimeout
 lockdown
+lockfile
 locking
 lockoutreport
 lockscreen
@@ -4231,7 +4236,6 @@ mediaplayer
 mediaservices
 mediawiki
 meditation
-medlemsservice
 meesman
 meeting
 meetup
@@ -4743,6 +4747,7 @@ nuget.exe
 nuget.org
 number
 numlock
+nummapper
 nunit
 nupkg
 nuspec
@@ -5114,6 +5119,7 @@ pdf-document-processor
 pdf-files
 pdf-generation
 pdf-redaction
+pe
 peek
 peering
 peheader
@@ -7405,6 +7411,8 @@ psdshook
 pse
 psedition_5
 psedition_5.1
+psedition_7.3
+psedition_7.4
 psedition_core
 psedition_desk
 psedition_desktop
@@ -8962,6 +8970,7 @@ rightcloud
 rightjoin
 rights
 rightsizing
+rightsmanagement
 ring
 ripe
 risk
@@ -9631,7 +9640,6 @@ speed
 speedometer
 speedtest
 speedtester
-spejder
 spellcheck
 spelling
 spf
@@ -10204,7 +10212,6 @@ topgrade
 topics
 topleveldomain
 topology
-tor
 toradex
 torizon
 torrent
@@ -10268,7 +10275,6 @@ trendmicro
 trevor
 trevorsullivan
 triangle
-tribeloo
 trick
 tricks
 trigger
@@ -10374,6 +10380,7 @@ ud-orgchart
 ud-piechart3d
 ud-pivottable
 ud-progressstepbar
+ud-rangeslider
 ud-readingbar
 ud-scrollspy
 ud-selectdatetime
@@ -10381,6 +10388,7 @@ ud-selector
 ud-signature
 ud-simpledrawer
 ud-singleselect
+ud-slider
 ud-speechbubble
 ud-step
 ud-stepbar
@@ -10477,6 +10485,7 @@ ups
 upsource
 upstream
 uptime
+uptimerobot
 uptobox
 uqword
 uri
@@ -10802,6 +10811,7 @@ webdav
 webdeploy
 webfrequest
 webhdfs
+webhelpdesk
 webhistory
 webhook
 webinspect
@@ -10842,6 +10852,7 @@ what3words
 whatismyip
 whatsnew
 whatsupgold
+whd
 where
 whfb
 whiteboard
@@ -10968,6 +10979,7 @@ windowsserver2025
 windowsservercoresecurity
 windowsserverguisecurity
 windowsservice
+windowsservices
 windowsstore
 windowsterminal
 windowstimezone
@@ -11180,6 +11192,7 @@ zigbee
 zip
 zip-compression
 zipfile-transform
+zisson
 zoho
 zoicware
 zone
