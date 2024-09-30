@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 30 September 2024 09:51:55 UTC
+Updated: Monday, 30 September 2024 17:51:57 UTC
 
 .bat
 .env
@@ -18,7 +18,6 @@ Updated: Monday, 30 September 2024 09:51:55 UTC
 **windows**
 🍄
 🍣
-💩
 🙇
 1&1
 10
@@ -238,8 +237,6 @@ adwords
 adx
 adxingestion
 aem
-aeries
-aeriessis
 aes
 afd
 affinity
@@ -689,6 +686,7 @@ azsql
 azstackhci
 azstate
 azsubnet
+aztools
 azts
 azuead
 azure
@@ -779,6 +777,7 @@ azuretestplan
 azurevirtualdesktop
 azurevirtualmachines
 azurevm
+azurevpn
 azvm
 b2
 back
@@ -900,7 +899,6 @@ black
 blackbaud
 blackberry
 blackberryuem
-blackbox
 blacklist
 blade
 bladeserver
@@ -932,7 +930,6 @@ bofh
 boilerplate
 boinc
 bold-text
-bolt
 bom
 book
 bookmark
@@ -1409,7 +1406,6 @@ commence
 comment
 comments
 commerce
-commfort
 commit
 commits
 common
@@ -1428,7 +1424,6 @@ complete
 completer
 completion
 completion-manager
-completionresult
 completions
 complex
 compliance
@@ -1484,7 +1479,6 @@ connect-exchangeonprem
 connect-mstsc
 connect-rdp
 connect-remotedesktop
-connect-samcmsite
 connected
 connectedkubernetes
 connectedmachine
@@ -1536,7 +1530,6 @@ contrast
 control
 controller
 controlroom
-controlup
 conventional
 conventional-commits
 convereter
@@ -1685,7 +1678,6 @@ csv
 csv2adx
 csvhelper
 ctap
-ctf
 ctglobal
 ctl
 ctrl+c
@@ -1922,7 +1914,6 @@ dell
 dellemc
 delta
 demand
-demandsignal
 demo
 democratie
 demonstration
@@ -2041,7 +2032,6 @@ discordrpc
 discount
 discover
 discovery
-discutils
 disk
 disk_to_disk
 disk-space
@@ -2233,6 +2223,7 @@ dts
 dtsx
 dtx
 du
+dual-stack
 duck
 duckdb
 duckduckgo
@@ -2261,7 +2252,6 @@ dvr
 dword
 dxexpeditions
 dynamic
-dynamic-host-configuration-protocol
 dynamic-privileged-access
 dynamicdistributiongroups
 dynamicdistributionlist
@@ -2397,7 +2387,6 @@ entity
 entityframework
 entra
 entraid
-entraidgovernance
 entropy
 enum
 enumerable
@@ -2535,7 +2524,6 @@ execute
 exexml
 exif
 exiftool
-exists
 exitcode
 exitprocessrequest
 exo
@@ -2782,7 +2770,6 @@ force
 forcedelete
 foreach
 foreach-object
-forecast
 forensic
 forensics
 forest
@@ -2845,7 +2832,6 @@ fslogix
 fsrm
 ftp
 ftps
-fu-msauth
 fudge
 fudgepop
 fujitsu
@@ -2889,7 +2875,6 @@ gauge
 gavin
 gavineke
 gc
-gcbdr
 gce
 gci
 gcloud
@@ -2961,8 +2946,6 @@ get-passivetrippoint
 get-passlist
 get-path
 get-pinneditem
-get-samcmassignedsite
-get-samcmcurrentmanagementpoint
 get-samplingperiod
 get-stalecomps
 get-staleusers
@@ -3026,7 +3009,6 @@ golang
 golden_ticket
 goldengate
 goldsource
-goldsource-dedicated-server
 google
 google-chrome
 google-fonts
@@ -3039,11 +3021,6 @@ googledrive
 googlemap
 googlemaps
 googleworkspace
-gopher
-gopher-tls
-gopher+
-gopherplus
-gophers
 governance
 governancerulescontrolplane
 gp
@@ -3175,6 +3152,7 @@ hba
 hbase
 hci
 hcl
+hcm
 hcx
 hdfs
 hdhomerun
@@ -3206,7 +3184,6 @@ helm
 helmet
 help
 helpdesk
-helpdoc
 helper
 helper-functions
 helperfunctions
@@ -3304,7 +3281,6 @@ hpesynergy
 hponeview
 hpwritemanager
 hris
-hrprovisioning
 hsdp
 hsl
 html
@@ -3401,7 +3377,6 @@ iem
 ifconfig
 ifttt
 igel
-igr
 ihs
 iiittttt
 iis
@@ -3449,7 +3424,6 @@ import-dtdriverpackpackagedefinitionsms
 import-module
 import-modulefrompath
 import-passlist
-import-sampackagedefinitionsms
 importer
 importexport
 importteams
@@ -3615,7 +3589,6 @@ ipv6
 ipynb
 ir
 irc
-irkit
 irl
 irregular
 isadmin
@@ -3728,7 +3701,6 @@ junction
 junctions
 junit
 jupyter
-jupytor
 jurassic
 jurassic2
 justenoughadministration
@@ -4075,7 +4047,6 @@ lsasecrets
 lsd
 ltm
 lucd
-lucene
 lunches
 lwa
 lxca
@@ -4165,7 +4136,6 @@ mariadb
 mark
 markdig
 markdown
-markdownrender
 marketing
 marketo
 marketplace
@@ -4236,6 +4206,7 @@ mediaplayer
 mediaservices
 mediawiki
 meditation
+medlemsservice
 meesman
 meeting
 meetup
@@ -4401,7 +4372,6 @@ moduleversion
 mof
 moldova
 moment
-monaco
 monday
 mondoo
 money
@@ -4574,7 +4544,6 @@ ncal
 ncrestapi
 ndes
 nebulon
-nec-infrared-transmission-protocol
 necli
 nederland
 nedyalkov
@@ -4648,8 +4617,6 @@ new-itemproperty
 new-modulemanifest
 new-pinneditem
 new-rdpsession
-new-samcmapplicationfrompackagedefinitionsms
-new-samcmpackagefrompackagedefinitionsms
 new-system
 new-udmorph
 new-win32app
@@ -4990,7 +4957,6 @@ output
 output-to-image
 outreach
 outsystems
-overbite
 ovf
 ovgd
 ovh
@@ -5221,7 +5187,6 @@ pleasant
 pleasantpasswordserver
 plex
 plist
-plog
 plot
 plug-n-copy
 plugin
@@ -5232,7 +5197,6 @@ pmp
 pncit
 pnp
 pnp.powershell
-pnpm
 poc
 pode
 poe
@@ -5257,7 +5221,6 @@ polycom
 pomodoro
 ponduit
 pool
-poop
 pop
 pop-location
 pop3
@@ -5266,7 +5229,6 @@ population
 popup
 port
 port-scanner
-port70
 portal
 porthunter
 ports
@@ -5375,7 +5337,6 @@ powerbot
 powercli
 powercligoodies
 powercommander
-powerconfiguration
 powerdex
 powerforensics
 powergraph
@@ -5428,7 +5389,6 @@ powershellgallery
 powershellget
 powershellgetformatversion_2.0
 powershellise
-powershelllogger
 powershellml
 powershellmodule
 powershellmoduleupdate
@@ -5564,9 +5524,6 @@ provision
 provisioning
 provisioningpackage
 provisonedpackage
-prowl
-prowl-notifications
-prowlapp
 proxmox
 proxmoxve
 proxsys
@@ -8544,7 +8501,6 @@ pssqlservermodule
 psst
 psstgenerator
 pstablacus
-pstanss
 psthread
 pstk
 pstwitter
@@ -8592,7 +8548,6 @@ purple
 purview
 push
 push-location
-push-notifications
 pushd
 pushover
 pushoverapi
@@ -8709,7 +8664,6 @@ razzle
 rbac
 rbacmodel
 rbsu
-rcon
 rcs
 rcu
 rdap
@@ -8737,7 +8691,6 @@ readiness
 readme
 readpdf
 readthedocs
-real-time
 realschule
 realtimeprotection
 rebase
@@ -8951,11 +8904,9 @@ reword
 rewrite
 rexec
 rfc1305
-rfc1436
 rfc2030
 rfc3986
 rfc4007
-rfc4266
 rfc4291
 rfc5952
 rfc826
@@ -8970,7 +8921,6 @@ rightcloud
 rightjoin
 rights
 rightsizing
-rightsmanagement
 ring
 ripe
 risk
@@ -9045,6 +8995,7 @@ runas
 runbook
 runbooks
 runbookstudio
+runcommand
 rundeck
 runner
 runspace
@@ -9125,10 +9076,7 @@ scatter
 scb
 scc
 sccm
-sccmam
-sccmapplication
 sccminstall
-sccmpackage
 sccmprereqs
 scep
 sch
@@ -9170,7 +9118,6 @@ scraper
 scraping
 screen
 screencap
-screencapture
 screenconnect
 screenfetch
 screenresolution
@@ -9238,8 +9185,6 @@ secure
 secureapplicationmodel
 securechannel
 securedns
-securegopher
-securegopher+
 securemfa
 securerdp
 securescore
@@ -9380,7 +9325,6 @@ sfb
 sfc
 sftp
 sfx
-sgopher
 sgw
 sha-256
 sha-512
@@ -9414,7 +9358,6 @@ sharepointpnppowershellonline.add-on.module
 shares
 sheets
 shell
-shell-art
 shell-integration
 shells
 shieldedvm
@@ -9509,7 +9452,6 @@ sln
 slugify
 sm
 sma
-small_web
 smart_home
 smartarray
 smartarraycmdlets
@@ -9591,7 +9533,6 @@ sonatype
 songs
 sonicos
 sonicwall
-sonicwallvpn
 sonnet
 sonus
 soon
@@ -9602,14 +9543,12 @@ sort
 sort-json
 sorting
 source
-source-dedicated-server
 sourcecontrol
 sourceforge
 sourcegraph
 sourcemod
 sourceone
 sourcepawn
-sourcequery
 sovcloud
 space
 spaces
@@ -9623,7 +9562,6 @@ spawn
 spdockit
 spdx
 spdx-license-identifier:ms-pl
-spe
 speach
 speak
 speaker
@@ -9640,6 +9578,7 @@ speed
 speedometer
 speedtest
 speedtester
+spejder
 spellcheck
 spelling
 spf
@@ -9792,7 +9731,6 @@ stderr
 stdio
 stdout
 steam
-steam-games
 steamcmd
 stepper
 sticker
@@ -9890,7 +9828,6 @@ support-tool
 support-tools
 suppress
 supress-reboot
-surestacks
 surround
 surveillance
 survey
@@ -10003,7 +9940,6 @@ taken
 takeown
 tally
 talxis
-tanss
 tanzu
 tar
 target
@@ -10089,8 +10025,6 @@ test-modulemanifest
 test-modulepath
 test-osplatform
 test-psremoting
-test-samcmapplicationexists
-test-samcmpackageexists
 test-userisadministrator
 test-xml
 test123
@@ -10212,6 +10146,7 @@ topgrade
 topics
 topleveldomain
 topology
+tor
 toradex
 torizon
 torrent
@@ -10275,6 +10210,7 @@ trendmicro
 trevor
 trevorsullivan
 triangle
+tribeloo
 trick
 tricks
 trigger
@@ -11086,7 +11022,6 @@ writeprogress
 writer
 ws-federation
 wsapi
-wsb
 wsl
 wsl2
 wsl2 psmodule psedition_core
