@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Tuesday, 01 October 2024 09:51:52 UTC
+Updated: Tuesday, 01 October 2024 17:51:59 UTC
 
 .bat
 .env
@@ -178,7 +178,6 @@ address-book
 addresses
 addressrange
 adds
-addtypeaccelerators
 adf
 adfs
 adfsconfiguration
@@ -245,8 +244,6 @@ afd
 affinity
 affinity-co
 affinity-crm
-after-effects
-aftereffects
 agenda
 agent
 aggregates
@@ -583,7 +580,6 @@ authoringtools
 authorisation
 authority
 authorization
-authorizationheaders
 authorize.net
 authz
 autify
@@ -771,7 +767,6 @@ azurestack
 azurestackhci
 azurestate
 azurestorage
-azurestorageservices
 azuresync
 azuretable
 azuretestplan
@@ -914,6 +909,7 @@ blockchain
 blocks
 blog
 blogs
+bloodhound
 bloxone
 bloxoneddi
 bls
@@ -1042,6 +1038,7 @@ calendar
 callingcode
 callout
 callqueue
+calvin-and-hobbes
 cam
 camera
 cameras
@@ -1100,6 +1097,7 @@ cd-up
 cd+
 cdable_vars
 cdata
+cdb
 cdi
 cdm
 cdn
@@ -1453,6 +1451,7 @@ conda
 condition
 conditionalaccess
 conduit
+conference
 confidentialclient
 confidentialledger
 config
@@ -1494,7 +1493,6 @@ connectionsmanager
 connectionstring
 connectivity
 connector
-connectorcmd
 connectormanagement
 connectwise
 conservation
@@ -1564,6 +1562,7 @@ converttohtml
 converttomarkdown
 converttomd
 cookie
+coolq
 cooltag1
 cooltag2
 coordinates
@@ -1608,8 +1607,10 @@ cppm
 cpu
 cpuid
 cpuid-information
+cq
 cqd
 cqdpowershell
+cqhttp
 crack psmodule
 crash
 crawler
@@ -1792,6 +1793,7 @@ datacollectionrule
 dataconduit
 dataconnectivity
 datadog
+dataexchange
 dataexplorer
 datafactory
 dataflow
@@ -1993,6 +1995,7 @@ dictionary
 diff
 difference
 dig
+digikam
 digital
 digital-forensics
 digitalforensics
@@ -2089,7 +2092,6 @@ dns-over-https
 dns-resolver
 dnsbl
 dnsclient
-dnsdumpster
 dnsentry
 dnsimple
 dnslookup
@@ -2526,6 +2528,7 @@ executables
 execute
 exexml
 exif
+exiftool
 exists
 exitcode
 exitprocessrequest
@@ -2565,7 +2568,6 @@ extendedattributes
 extendedevents
 extendedproperties
 extendedproperty
-extendscript
 extensibility
 extension
 extensionmethods
@@ -2836,6 +2838,7 @@ fslogix
 fsrm
 ftp
 ftps
+fu-msauth
 fudge
 fudgepop
 fujitsu
@@ -3060,7 +3063,6 @@ graph
 graph-api
 graphapi
 graphapirequests
-graphconnector
 graphexplorer
 graphic
 graphics
@@ -3093,6 +3095,7 @@ gtx1080ti
 guardedfabric
 guardicore
 gubbins
+guest
 guestconfiguration
 guests
 gui
@@ -3753,7 +3756,6 @@ kelverion
 kentico
 kerberos
 kernel32
-kestrel
 key
 key-vault
 key2wocas
@@ -3813,6 +3815,7 @@ kudu
 kurukuru
 kusto
 kvm
+kvp
 l1tf
 l2tp
 lab
@@ -3900,8 +3903,6 @@ library
 libvirt
 licence
 license
-license-generator
-licenseautomation
 licensemanagement
 licensemanager
 licensereport
@@ -4449,7 +4450,6 @@ msexchange
 msft
 msftnet
 msftnetworking
-msg
 msg.exe
 msgbox
 msgraph
@@ -4760,6 +4760,7 @@ oacli
 oacmdlets
 oacommand
 oact
+oath
 oauth
 oauth2
 oauth2.0
@@ -4948,7 +4949,6 @@ osm
 osmanagement
 osmanagementhub
 osp
-ospgateway
 osprovision
 osprovisioning
 osr
@@ -5135,7 +5135,6 @@ persistent
 personal
 personalisation
 personalization
-personalvault
 personio
 pester
 pf
@@ -5182,6 +5181,7 @@ pipelines
 pipenv
 pipescript
 piraeus
+piv
 pivot
 pivotal
 pivottable
@@ -5426,7 +5426,6 @@ powershellremoting
 powershellscript
 powershelltemplate
 powershelltraining
-powershelltypeaccelerators
 powershelluniversal
 powershellv5
 powerstig
@@ -5436,7 +5435,6 @@ powertoolcmdlets
 powertooldsc
 ppdm
 ppk
-pposh
 pps
 ppt
 pptp
@@ -5454,9 +5452,9 @@ prefixing
 preparead
 preparealldomains
 prepareschema
-prepend
 preprocessing
 preprocessor
+presentation
 presenter
 presto
 preston-k-parsard
@@ -8546,7 +8544,6 @@ psyaml
 pszabbix
 ptc
 ptcintegrity
-pubg
 public
 public-key
 public-transport
@@ -8622,6 +8619,7 @@ qlogicfcpowerkit
 qlogicfcprovider
 qna
 qol
+qq
 qr
 qr-code
 qrcode
@@ -8721,7 +8719,6 @@ read-slog
 readable
 reader
 readiness
-readme
 readpdf
 readthedocs
 real-time
@@ -8849,7 +8846,6 @@ remove-path
 remove-pinneditem
 remove-tempfiles
 removefile
-removetypeaccelerators
 remux
 ren-isac
 rename
@@ -8978,6 +8974,8 @@ roca
 rock
 rocket
 rocketcyber
+roco
+rocolatey
 role
 roleassignments
 rolebasedaccesscontrol_model
@@ -9076,6 +9074,7 @@ sample
 sampler
 samurai
 san
+sand
 sandbox
 sanitization
 sanitizer
@@ -9196,7 +9195,6 @@ sdp
 search
 search-adminauditlog
 search-engines
-searchconnector
 searchengine
 searcher
 searching
@@ -9214,7 +9212,6 @@ secrets
 secretsanta
 secretscanner
 secretserver
-secretsmanager
 secretstore
 secretvault
 section
@@ -9456,6 +9453,7 @@ sintez.module.rds
 sit
 site
 site_navigation
+sitecollection
 siteconfiguration
 sitecore
 sitecoresearch
@@ -9482,6 +9480,7 @@ skype4business
 skypeforbusiness
 skypeforbusinessonline
 skypeonline
+skytap
 slack
 slash
 slashcommands
@@ -9609,6 +9608,7 @@ spdx-license-identifier:ms-pl
 spe
 speach
 speak
+speaker
 spec
 specification
 specify
@@ -9848,7 +9848,6 @@ subnets
 subnetting
 subscribedskus
 subscription
-subscriptiondefinition
 subset
 subsystem
 subtitle
@@ -9928,6 +9927,7 @@ syslog
 sysman
 sysmon
 sysop
+syspass
 syspip
 syspip3
 sysprep
@@ -10319,7 +10319,6 @@ twitter-timeline
 twitter-tweet
 txt
 type
-typeaccelerators
 typedata
 typeextension
 types
@@ -10362,6 +10361,7 @@ ud-minesweeper
 ud-mouseparticle
 ud-navbarsearch
 ud-numbermask
+ud-orgchart
 ud-piechart3d
 ud-pivottable
 ud-progressstepbar
@@ -10470,7 +10470,6 @@ ups
 upsource
 upstream
 uptime
-uptimerobot
 uptobox
 uqword
 uri
@@ -10499,6 +10498,7 @@ userdiscovery
 usergroup
 usergroups
 userinterface
+usermanagement
 username
 userprofile
 userprofiles
@@ -10550,7 +10550,6 @@ variants
 vastlimits
 vault
 vaultextension
-vaultstore
 vaultwarden
 vb365
 vba
@@ -11028,6 +11027,7 @@ workload
 workload-automation
 workloadidentity
 workloads
+workpoint
 workrequests
 worksheet
 workshop
@@ -11160,6 +11160,7 @@ youtube-dl
 youtubeextractor
 yq
 yubaba
+yubikey
 yum
 z
 zabbix
