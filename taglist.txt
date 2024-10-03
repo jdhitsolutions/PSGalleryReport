@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Thursday, 03 October 2024 02:15:27 UTC
+Updated: Thursday, 03 October 2024 09:51:49 UTC
 
 .bat
 .env
@@ -76,6 +76,7 @@ abc
 abc_testing
 abe
 about
+abr
 abstractsyntaxtree
 abuse
 abuseipdb
@@ -195,6 +196,7 @@ adm
 admf
 admin
 admin-tools
+adminbyrequest
 admindirectory
 administration
 administrative
@@ -472,6 +474,8 @@ archivial
 archivial-backup
 archivial-cloud-backup
 archlinux
+archon
+archonagent
 arcresourcebridge
 arcus
 area
@@ -547,6 +551,7 @@ atlassian
 atlassiancli
 atlassianps
 atmosphere
+atom
 atp
 atrium
 att&ck
@@ -632,7 +637,6 @@ avatax
 avd
 ave
 avepoint
-avi
 avm
 avmtools
 avro
@@ -656,7 +660,6 @@ axapta
 axcient
 axcient_x360recover
 axinom
-axis
 axium
 az
 az-cli
@@ -944,7 +947,6 @@ bop
 bot
 bots
 botservice
-bouncer
 boundaries
 boundarygroups
 bounty
@@ -1048,7 +1050,6 @@ campaign
 camtasia
 canarie
 cancel
-cancellation
 canonical
 cantara
 capability
@@ -1406,6 +1407,7 @@ commence
 comment
 comments
 commerce
+commfort
 commit
 commits
 common
@@ -1684,7 +1686,6 @@ ctap
 ctf
 ctglobal
 ctl
-ctrl+c
 ctx
 ctype
 cubes
@@ -2056,7 +2057,6 @@ displayresolution
 distance
 distinguishedname
 distributed-systems
-distributed-tracing
 distributedcache
 distributedfilesystem
 distribution
@@ -2093,6 +2093,7 @@ dns-client
 dns-over-https
 dns-resolver
 dnsbl
+dnsclient
 dnsdumpster
 dnsentry
 dnsimple
@@ -2333,7 +2334,6 @@ elm
 elmah-io
 elonmusk
 eloqua
-elvish
 elvui
 em
 emacs
@@ -2612,6 +2612,7 @@ fastgit
 fastlinq
 fastlookup
 fastping
+fasttrack
 fat32
 favorite
 favorites
@@ -3059,7 +3060,6 @@ gps
 gpt
 gpt3
 gpx
-gradle
 grafana
 grafanaapi
 granttype
@@ -3142,7 +3142,6 @@ handler
 handy
 hangouts
 hannelstoolbox
-hanwha
 har
 hard
 hardblock
@@ -3462,7 +3461,6 @@ incontact
 indents
 index
 indexdb
-indicator
 inedo
 inetfwrule
 inetum
@@ -3806,7 +3804,6 @@ kraken
 krane
 krbtgt
 krick
-kschemaplugin
 kubclt
 kube
 kubeconfig
@@ -4095,7 +4092,6 @@ machinelearning
 machinelearningcompute
 machinelearningmodels
 machinelearningservices
-macmon
 macos
 macosx
 macro
@@ -4546,7 +4542,6 @@ mytest
 n-able
 n-central
 nabu
-nac
 nagios
 nakivo
 name
@@ -4971,7 +4966,6 @@ osuborganizationsubscription
 osubsubscription
 osubusage
 osx
-otel
 otp
 ou
 ou-object
@@ -5028,7 +5022,6 @@ pager
 pagerduty
 pages
 pagination
-paloalto
 paloaltonetworks
 pam
 panels
@@ -7414,8 +7407,6 @@ psdshook
 pse
 psedition_5
 psedition_5.1
-psedition_7.3
-psedition_7.4
 psedition_core
 psedition_desk
 psedition_desktop
@@ -8724,6 +8715,7 @@ rdcman
 rdcmanager
 rdfe
 rdg
+rdl
 rdm
 rdp
 rdpsession
@@ -9672,8 +9664,6 @@ spp
 spread
 spreadsheet
 spreadsheets
-spring
-spring-boot
 springcloud
 sql
 sql-database
@@ -10171,6 +10161,7 @@ thunderbird
 thycotic
 tibber
 tic-tac-toe
+ticketing
 tickle
 ticks
 tictactoe
@@ -10386,7 +10377,6 @@ ud-licensed
 ud-loadingoverlay
 ud-minesweeper
 ud-mouseparticle
-ud-navbarsearch
 ud-numbermask
 ud-orgchart
 ud-piechart3d
@@ -10498,7 +10488,6 @@ upsource
 upstream
 uptime
 uptimerobot
-uptobox
 uqword
 uri
 uri-scheme
@@ -10904,7 +10893,6 @@ wif
 wifi
 wiki
 wildcard
-wildfire
 wildfly
 wim
 wim2vhd
@@ -11104,7 +11092,6 @@ wsl2
 wsl2 psmodule psedition_core
 wsman
 wsmanlistener
-wso2
 wsus
 wt
 wtsapi32
@@ -11212,6 +11199,8 @@ zookeeper
 zoom
 zoomapi
 zoommeeting
+zorus
+zorusapi
 zoxide
 zpr
 zsh
