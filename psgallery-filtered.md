@@ -3,6 +3,38 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [Bricklead.BCDev.Tools](https://www.powershellgallery.com/Packages/Bricklead.BCDev.Tools/0.1.9042.39420) | 0.1.9042.39420
+
+### Published: 10/03/2024 08:58:05 by Yves DESRUMAUX
+
+PowerShell module, which makes it easier to work Around AL developments.
+
+__Downloads__: 574 | __Repository__: 
+
+## [UncommonSense.Pushover](https://www.powershellgallery.com/Packages/UncommonSense.Pushover/0.0.11.0) | 0.0.11.0
+
+### Published: 10/03/2024 08:28:52 by Jan Hoek
+
+PowerShell module for sending Pushover notifications
+
+__Downloads__: 181,771 | __Repository__: 
+
+## [Bricklead.DevOps.Tools](https://www.powershellgallery.com/Packages/Bricklead.DevOps.Tools/0.1.9042.36317) | 0.1.9042.36317
+
+### Published: 10/03/2024 08:06:11 by Yves DESRUMAUX
+
+PowerShell module, which makes it easier to work with DevOps api.
+
+__Downloads__: 181 | __Repository__: 
+
+## [Permission](https://www.powershellgallery.com/Packages/Permission/0.0.760) | 0.0.760
+
+### Published: 10/03/2024 07:20:26 by Jeremy La Camera
+
+Module for working with Access Control Lists
+
+__Downloads__: 4,650 | __Repository__: 
+
 ## [AppList](https://www.powershellgallery.com/Packages/AppList/1.0.18) | 1.0.18
 
 ### Published: 10/02/2024 22:13:57 by Aaron Rykhus
@@ -41,7 +73,7 @@ __Downloads__: 99 | __Repository__:
 
 PowerShell Module for VMware Cloud Foundation Power Management
 
-__Downloads__: 4,006 | __Repository__: https://vmware.github.io/powershell-module-for-vmware-cloud-foundation-power-management/
+__Downloads__: 4,007 | __Repository__: https://vmware.github.io/powershell-module-for-vmware-cloud-foundation-power-management/
 
 ## [casing_TestModule2](https://www.powershellgallery.com/Packages/casing_TestModule2/3.0) | 3.0
 
@@ -131,22 +163,6 @@ This module is DEPRECATED in favor of ArwynFr.SemanticVersion
 
 __Downloads__: 908 | __Repository__: 
 
-## [Bricklead.BCDev.Tools](https://www.powershellgallery.com/Packages/Bricklead.BCDev.Tools/0.1.9041.50160) | 0.1.9041.50160
-
-### Published: 10/02/2024 11:57:07 by Yves DESRUMAUX
-
-PowerShell module, which makes it easier to work Around AL developments.
-
-__Downloads__: 574 | __Repository__: 
-
-## [Bricklead.DevOps.Tools](https://www.powershellgallery.com/Packages/Bricklead.DevOps.Tools/0.1.9041.46941) | 0.1.9041.46941
-
-### Published: 10/02/2024 11:03:14 by Yves DESRUMAUX
-
-PowerShell module, which makes it easier to work with DevOps api.
-
-__Downloads__: 181 | __Repository__: 
-
 ## [KubeTidy](https://www.powershellgallery.com/Packages/KubeTidy/0.0.15) | 0.0.15
 
 ### Published: 10/02/2024 10:48:52 by Richard Hooper
@@ -201,7 +217,7 @@ __Downloads__: 4,823,223 | __Repository__: https://0install.net/
 
 2024 October 24H2 Update
 
-__Downloads__: 2,255,940 | __Repository__: https://github.com/OSDeploy/OSD
+__Downloads__: 2,255,999 | __Repository__: https://github.com/OSDeploy/OSD
 
 ## [Pretendpoint](https://www.powershellgallery.com/Packages/Pretendpoint/1.1.8) | 1.1.8
 
@@ -226,7 +242,7 @@ __Downloads__: 5,165 | __Repository__: https://github.com/brianary/CertAdmin/
 
 PowerShell module for working with the ConnectWise Automate Agent.
 
-__Downloads__: 1,491,878 | __Repository__: https://github.com/christaylorcodes/ConnectWiseAutomateAgent
+__Downloads__: 1,491,893 | __Repository__: https://github.com/christaylorcodes/ConnectWiseAutomateAgent
 
 ## [HPEOneView.910](https://www.powershellgallery.com/Packages/HPEOneView.910/9.10.4012.2256) | 9.10.4012.2256
 
@@ -274,7 +290,7 @@ __Downloads__: 7,502 | __Repository__: https://github.com/anthonyg-1/PSTcpIp
 
 Interact with GitLab via PowerShell
 
-__Downloads__: 21,607 | __Repository__: https://github.com/chris-peterson/pwsh-gitlab
+__Downloads__: 21,608 | __Repository__: https://github.com/chris-peterson/pwsh-gitlab
 
 ## [JumpCloud](https://www.powershellgallery.com/Packages/JumpCloud/2.14.1) | 2.14.1
 
@@ -282,7 +298,7 @@ __Downloads__: 21,607 | __Repository__: https://github.com/chris-peterson/pwsh-g
 
 PowerShell functions to manage a JumpCloud Directory-as-a-Service
 
-__Downloads__: 5,956,185 | __Repository__: https://github.com/TheJumpCloud/support/wiki
+__Downloads__: 5,956,188 | __Repository__: https://github.com/TheJumpCloud/support/wiki
 
 ## [NinjaOne](https://www.powershellgallery.com/Packages/NinjaOne/2.0.4) | 2.0.4
 
@@ -298,7 +314,7 @@ __Downloads__: 17,323 | __Repository__: https://github.com/homotechsual/NinjaOne
 
 Tools for managing and automating your Unity installs and projects.
 
-__Downloads__: 263,481 | __Repository__: https://github.com/Microsoft/unitysetup.powershell
+__Downloads__: 263,484 | __Repository__: https://github.com/Microsoft/unitysetup.powershell
 
 ## [OCI.PSModules](https://www.powershellgallery.com/Packages/OCI.PSModules/92.0.0) | 92.0.0
 
@@ -357,14 +373,6 @@ EnhancedPSTools for PowerShell scripts.
 
 __Downloads__: 397 | __Repository__: 
 
-## [EnhancedPSADTAO](https://www.powershellgallery.com/Packages/EnhancedPSADTAO/0.0.82) | 0.0.82
-
-### Published: 10/01/2024 18:34:01 by Abdullah Ollivierre
-
-EnhancedPSADTAO for PowerShell scripts.
-
-__Downloads__: 443 | __Repository__: 
-
 ## [EnhancedModuleStarterAO](https://www.powershellgallery.com/Packages/EnhancedModuleStarterAO/0.0.82) | 0.0.82
 
 ### Published: 10/01/2024 18:34:01 by Abdullah Ollivierre
@@ -372,6 +380,14 @@ __Downloads__: 443 | __Repository__:
 EnhancedModuleStarterAO for PowerShell scripts.
 
 __Downloads__: 805 | __Repository__: 
+
+## [EnhancedPSADTAO](https://www.powershellgallery.com/Packages/EnhancedPSADTAO/0.0.82) | 0.0.82
+
+### Published: 10/01/2024 18:34:01 by Abdullah Ollivierre
+
+EnhancedPSADTAO for PowerShell scripts.
+
+__Downloads__: 443 | __Repository__: 
 
 ## [EnhancedLoggingAO](https://www.powershellgallery.com/Packages/EnhancedLoggingAO/0.0.82) | 0.0.82
 
@@ -381,14 +397,6 @@ EnhancedLoggingAO for PowerShell scripts.
 
 __Downloads__: 465 | __Repository__: 
 
-## [EnhancedIntuneAO](https://www.powershellgallery.com/Packages/EnhancedIntuneAO/0.0.6) | 0.0.6
-
-### Published: 10/01/2024 18:33:59 by Abdullah Ollivierre
-
-EnhancedIntuneAO for PowerShell scripts.
-
-__Downloads__: 13 | __Repository__: 
-
 ## [EnhancedHyperVAO](https://www.powershellgallery.com/Packages/EnhancedHyperVAO/0.0.82) | 0.0.82
 
 ### Published: 10/01/2024 18:33:59 by Abdullah Ollivierre
@@ -396,6 +404,14 @@ __Downloads__: 13 | __Repository__:
 EnhancedHyperVAO for PowerShell scripts.
 
 __Downloads__: 441 | __Repository__: 
+
+## [EnhancedIntuneAO](https://www.powershellgallery.com/Packages/EnhancedIntuneAO/0.0.6) | 0.0.6
+
+### Published: 10/01/2024 18:33:59 by Abdullah Ollivierre
+
+EnhancedIntuneAO for PowerShell scripts.
+
+__Downloads__: 13 | __Repository__: 
 
 ## [EnhancedGraphAO](https://www.powershellgallery.com/Packages/EnhancedGraphAO/0.0.82) | 0.0.82
 
@@ -835,7 +851,7 @@ __Downloads__: 10,511 | __Repository__: https://github.com/oracle/oci-powershell
 
 This modules provides Cmdlets for OCI Networkloadbalancer Service
 
-__Downloads__: 7,900 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+__Downloads__: 7,901 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
 ## [OCI.PSModules.Networkfirewall](https://www.powershellgallery.com/Packages/OCI.PSModules.Networkfirewall/92.0.0) | 92.0.0
 
@@ -1611,7 +1627,7 @@ __Downloads__: 4,693 | __Repository__: https://github.com/oracle/oci-powershell-
 
 OCI Common module exports Cmdlets that manages features offered by OCI Modules for Powershell like History Store, OCI Configuration file setup and Per-Session Region/Config/Profile preferences. Common module also contains some functionalties that are common to all OCI Service modules, therefore all OCI Service modules depends on Common module.
 
-__Downloads__: 265,613 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+__Downloads__: 265,614 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
 ## [PowerCfg](https://www.powershellgallery.com/Packages/PowerCfg/0.2.3) | 0.2.3
 
@@ -1675,7 +1691,7 @@ __Downloads__: 1,036 | __Repository__: https://github.com/windmill-labs/windmill
 
 Master module for a collection of modules. These modules are varied in their tasks. The overall purpose of them being to provide a powerfull Toolset to improve IT Admin workflows.
 
-__Downloads__: 75,457 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox
+__Downloads__: 75,460 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox
 
 ## [AdminToolbox.FortiWizard](https://www.powershellgallery.com/Packages/AdminToolbox.FortiWizard/2.20.0.6) | 2.20.0.6
 
@@ -1683,7 +1699,7 @@ __Downloads__: 75,457 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions that generate configuration scripts and manage FortiOS.
 
-__Downloads__: 54,440 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 54,444 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.VMWareAutomate](https://www.powershellgallery.com/Packages/AdminToolbox.VMWareAutomate/4.9.0.6) | 4.9.0.6
 
@@ -1691,7 +1707,7 @@ __Downloads__: 54,440 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions to Automate Bulk VMWare Tasks
 
-__Downloads__: 62,402 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 62,407 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.Remoting](https://www.powershellgallery.com/Packages/AdminToolbox.Remoting/1.10.0.6) | 1.10.0.6
 
@@ -1699,7 +1715,7 @@ __Downloads__: 62,402 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions for remote management and access.
 
-__Downloads__: 61,519 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 61,524 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.Office365](https://www.powershellgallery.com/Packages/AdminToolbox.Office365/4.3.0.5) | 4.3.0.5
 
@@ -1707,7 +1723,7 @@ __Downloads__: 61,519 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions for working with Office365 and Azure modules
 
-__Downloads__: 66,622 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 66,627 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.Networking](https://www.powershellgallery.com/Packages/AdminToolbox.Networking/2.21.0.6) | 2.21.0.6
 
@@ -1731,7 +1747,7 @@ __Downloads__: 50,794 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions that have no purpose
 
-__Downloads__: 62,379 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 62,384 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.FileManagement](https://www.powershellgallery.com/Packages/AdminToolbox.FileManagement/1.17.0.6) | 1.17.0.6
 
@@ -1739,7 +1755,7 @@ __Downloads__: 62,379 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 File Management Functions
 
-__Downloads__: 63,071 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 63,074 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.FFTools](https://www.powershellgallery.com/Packages/AdminToolbox.FFTools/4.17.0.6) | 4.17.0.6
 
@@ -1747,7 +1763,7 @@ __Downloads__: 63,071 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Expedite simple ffmpeg actions
 
-__Downloads__: 63,575 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 63,580 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.Exchange](https://www.powershellgallery.com/Packages/AdminToolbox.Exchange/1.10.0.6) | 1.10.0.6
 
@@ -1755,7 +1771,7 @@ __Downloads__: 63,575 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions for Exchange Management
 
-__Downloads__: 67,398 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 67,400 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.EndpointManagement](https://www.powershellgallery.com/Packages/AdminToolbox.EndpointManagement/4.11.0.6) | 4.11.0.6
 
@@ -1763,7 +1779,7 @@ __Downloads__: 67,398 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions for management of endpoints
 
-__Downloads__: 75,125 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 75,128 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.ActiveDirectory](https://www.powershellgallery.com/Packages/AdminToolbox.ActiveDirectory/1.11.0.6) | 1.11.0.6
 
@@ -1771,7 +1787,7 @@ __Downloads__: 75,125 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions for Active Directory
 
-__Downloads__: 74,338 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 74,342 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [SCEPman](https://www.powershellgallery.com/Packages/SCEPman/1.15.10.0) | 1.15.10.0
 
@@ -1859,7 +1875,7 @@ __Downloads__: 220 | __Repository__: https://github.com/themodulecollective/OGra
 
 Automate your Venafi TLS Protect Datacenter and Cloud platforms!
 
-__Downloads__: 21,829 | __Repository__: https://github.com/Venafi/VenafiPS
+__Downloads__: 21,830 | __Repository__: https://github.com/Venafi/VenafiPS
 
 ## [PwSh.Fw.Core](https://www.powershellgallery.com/Packages/PwSh.Fw.Core/1.11.4.312) | 1.11.4.312
 
@@ -1892,14 +1908,6 @@ __Downloads__: 11,203 | __Repository__: https://github.com/EvotecIT/PasswordSolu
 Use Active Directory Service Interfaces to query LDAP and WinNT directories
 
 __Downloads__: 3,422 | __Repository__: 
-
-## [Permission](https://www.powershellgallery.com/Packages/Permission/0.0.759) | 0.0.759
-
-### Published: 10/01/2024 06:26:19 by Jeremy La Camera
-
-Module for working with Access Control Lists
-
-__Downloads__: 4,650 | __Repository__: 
 
 ## [PSServU](https://www.powershellgallery.com/Packages/PSServU/2.7.0) | 2.7.0
 
@@ -1939,7 +1947,7 @@ __Downloads__: 65 | __Repository__: https://github.com/Skatterbrainz/LinuxTools
 
 Utility module for generating text and HTML templates.
 
-__Downloads__: 4 | __Repository__: https://github.com/AriDevK/Scout-PS
+__Downloads__: 5 | __Repository__: https://github.com/AriDevK/Scout-PS
 
 ## [PsNtfs](https://www.powershellgallery.com/Packages/PsNtfs/2.0.207) | 2.0.207
 
@@ -1971,7 +1979,7 @@ __Downloads__: 9,113,250 | __Repository__: https://github.com/dsccommunity/SqlSe
 
 DSC resources for configuration of a Windows computer. These DSC resources allow you to perform computer management tasks, such as renaming the computer, joining a domain and scheduling tasks as well as configuring items such as virtual memory, event logs, time zones and power settings.
 
-__Downloads__: 43,961,933 | __Repository__: https://github.com/dsccommunity/ComputerManagementDsc
+__Downloads__: 43,961,966 | __Repository__: https://github.com/dsccommunity/ComputerManagementDsc
 
 ## [Universal](https://www.powershellgallery.com/Packages/Universal/5.0.9) | 5.0.9
 
@@ -1979,7 +1987,7 @@ __Downloads__: 43,961,933 | __Repository__: https://github.com/dsccommunity/Comp
 
 Module for PowerShell Universal.
 
-__Downloads__: 134,991 | __Repository__: https://ironmansoftware.com/powershell-universal
+__Downloads__: 134,999 | __Repository__: https://ironmansoftware.com/powershell-universal
 
 ## [ServerEye.Powershell.Api](https://www.powershellgallery.com/Packages/ServerEye.Powershell.Api/2.3.5) | 2.3.5
 
@@ -2013,12 +2021,4 @@ PowerShell providers for managing UiPath Orchestrator entities via cmdlets.
 
 __Downloads__: 1,479 | __Repository__: 
 
-## [DscResource.Common](https://www.powershellgallery.com/Packages/DscResource.Common/0.18.0) | 0.18.0
-
-### Published: 09/30/2024 07:36:52 by DSC Community
-
-Common functions used in DSC Resources
-
-__Downloads__: 25,933 | __Repository__: https://github.com/dsccommunity/DscResource.Common
-
-*Updated: Thursday, 03 October 2024 02:15:18 UTC*
+*Updated: Thursday, 03 October 2024 09:51:41 UTC*
