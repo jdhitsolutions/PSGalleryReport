@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Thursday, 03 October 2024 09:51:49 UTC
+Updated: Thursday, 03 October 2024 17:51:53 UTC
 
 .bat
 .env
@@ -637,6 +637,7 @@ avatax
 avd
 ave
 avepoint
+avi
 avm
 avmtools
 avro
@@ -660,6 +661,7 @@ axapta
 axcient
 axcient_x360recover
 axinom
+axis
 axium
 az
 az-cli
@@ -1023,7 +1025,6 @@ businessrulesengine
 businesstime
 bxor
 bydesign
-byexample
 bynarypsmodule
 byovd
 byte
@@ -1702,7 +1703,6 @@ currency-convereter
 currency-exchange
 currencyconverterapi
 current
-curseforge
 custom
 customchecks
 customdns
@@ -2057,6 +2057,7 @@ displayresolution
 distance
 distinguishedname
 distributed-systems
+distributed-tracing
 distributedcache
 distributedfilesystem
 distribution
@@ -3060,6 +3061,7 @@ gps
 gpt
 gpt3
 gpx
+gradle
 grafana
 grafanaapi
 granttype
@@ -3142,6 +3144,7 @@ handler
 handy
 hangouts
 hannelstoolbox
+hanwha
 har
 hard
 hardblock
@@ -3197,7 +3200,6 @@ helium
 helix
 hello
 helloid
-helloposhgallery
 helloworld
 helm
 helmet
@@ -3532,7 +3534,6 @@ intel
 inteligo
 intelligence
 intelligence"
-intellisearch
 intellisense
 interactive
 interactive-brokers
@@ -3600,7 +3601,6 @@ iperf
 ipfy.org
 iphone
 ipilot
-iplookup
 ipmaths
 ipp
 iprange
@@ -3804,6 +3804,7 @@ kraken
 krane
 krbtgt
 krick
+kschemaplugin
 kubclt
 kube
 kubeconfig
@@ -3815,7 +3816,6 @@ kubernetesconfiguration
 kubespray
 kubetidy
 kudu
-kurukuru
 kusto
 kvm
 kvp
@@ -4092,6 +4092,7 @@ machinelearning
 machinelearningcompute
 machinelearningmodels
 machinelearningservices
+macmon
 macos
 macosx
 macro
@@ -4326,8 +4327,6 @@ microsoftonline
 microsoftstaffhub
 microsoftstore
 microsoftteams
-microsoftteamsdevices
-microsoftteamsphone
 microsoftword
 middleware
 midserver
@@ -4542,6 +4541,7 @@ mytest
 n-able
 n-central
 nabu
+nac
 nagios
 nakivo
 name
@@ -4966,6 +4966,7 @@ osuborganizationsubscription
 osubsubscription
 osubusage
 osx
+otel
 otp
 ou
 ou-object
@@ -5022,6 +5023,7 @@ pager
 pagerduty
 pages
 pagination
+paloalto
 paloaltonetworks
 pam
 panels
@@ -5545,7 +5547,6 @@ proofpoint
 properties
 property
 property-list
-prose
 protect
 protect-blob
 protect-string
@@ -7407,6 +7408,8 @@ psdshook
 pse
 psedition_5
 psedition_5.1
+psedition_7.3
+psedition_7.4
 psedition_core
 psedition_desk
 psedition_desktop
@@ -9225,7 +9228,6 @@ secretsanta
 secretscanner
 secretserver
 secretsmanager
-secretstore
 secretvault
 section
 secur32
@@ -9664,6 +9666,8 @@ spp
 spread
 spreadsheet
 spreadsheets
+spring
+spring-boot
 springcloud
 sql
 sql-database
@@ -9799,8 +9803,6 @@ stingar
 stock
 stockcharts
 stocks
-stoicism
-stoics
 stolpe.io
 stop
 storablecolortheme
@@ -10031,10 +10033,6 @@ teamfoundationserver
 teams
 teamsdevices
 teamservices
-teamsphones
-teamsphonesoftwareupdate
-teamsphonessoftwareupdates
-teamsphoneupdatesoftware
 teamspolicy
 teamviewer
 techdirect
@@ -10131,7 +10129,6 @@ tfs
 tfscmdlets
 tfsec
 tfswitch
-tftd
 tftp
 tfvars
 tfvc
@@ -10144,7 +10141,6 @@ thinprint
 third-party-libraries
 third-party-notice
 thispc
-thoughtfortheday
 thousandeyes
 thread
 threading
@@ -10161,7 +10157,6 @@ thunderbird
 thycotic
 tibber
 tic-tac-toe
-ticketing
 tickle
 ticks
 tictactoe
@@ -10377,6 +10372,7 @@ ud-licensed
 ud-loadingoverlay
 ud-minesweeper
 ud-mouseparticle
+ud-navbarsearch
 ud-numbermask
 ud-orgchart
 ud-piechart3d
@@ -10488,6 +10484,7 @@ upsource
 upstream
 uptime
 uptimerobot
+uptobox
 uqword
 uri
 uri-scheme
@@ -10893,6 +10890,7 @@ wif
 wifi
 wiki
 wildcard
+wildfire
 wildfly
 wim
 wim2vhd
@@ -11008,7 +11006,6 @@ wiscmail
 wisco365
 wisconsin-madison
 wisconsin'uw-madison
-wisdom
 with
 wiz
 wizard
@@ -11092,6 +11089,7 @@ wsl2
 wsl2 psmodule psedition_core
 wsman
 wsmanlistener
+wso2
 wsus
 wt
 wtsapi32
@@ -11162,13 +11160,11 @@ xwiki
 xwindowsupdate
 xwith
 yahoo
-yahw
 yamaha
 yaml
 yandex
 yapg
 yarn
-yetanotherhelloworld
 yml
 ynab
 youtube
