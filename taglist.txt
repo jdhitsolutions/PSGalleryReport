@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Wednesday, 02 October 2024 17:52:03 UTC
+Updated: Thursday, 03 October 2024 02:15:27 UTC
 
 .bat
 .env
@@ -76,7 +76,6 @@ abc
 abc_testing
 abe
 about
-abr
 abstractsyntaxtree
 abuse
 abuseipdb
@@ -196,7 +195,6 @@ adm
 admf
 admin
 admin-tools
-adminbyrequest
 admindirectory
 administration
 administrative
@@ -271,6 +269,8 @@ aip
 aiprompting
 aipscanner
 aircall
+airpower
+airpwr
 airtable
 ais
 aispeech
@@ -471,8 +471,7 @@ archivematica
 archivial
 archivial-backup
 archivial-cloud-backup
-archon
-archonagent
+archlinux
 arcresourcebridge
 arcus
 area
@@ -548,7 +547,6 @@ atlassian
 atlassiancli
 atlassianps
 atmosphere
-atom
 atp
 atrium
 att&ck
@@ -571,6 +569,7 @@ aumid
 aut
 auth
 auth0
+authenticate
 authentication
 authenticationcertificate
 authenticode
@@ -721,6 +720,7 @@ azurebasicloadbalancerupgrade
 azurecli
 azurecodesigning
 azurecognitiveservices
+azurecommonstuff
 azurecontainerapps
 azurecontainers
 azuredatabricks
@@ -939,6 +939,7 @@ bool
 boolean
 bootloader psmodule
 bootstrap
+bootstrapping
 bop
 bot
 bots
@@ -1153,6 +1154,7 @@ chatbot
 chatgpt
 chatops
 chatroom
+chatter
 cheat
 check
 checker
@@ -1404,7 +1406,6 @@ commence
 comment
 comments
 commerce
-commfort
 commit
 commits
 common
@@ -1573,6 +1574,7 @@ copy-item
 copypaste
 copyright
 core
+coreposh
 coreutils
 corona
 cortex
@@ -1628,6 +1630,7 @@ creationworkflowsimplification
 creator
 cred
 credential
+credential-dialog
 credential-file
 credential-files
 credential-manager
@@ -1833,6 +1836,7 @@ dattormm
 datum
 dave
 davinci
+dax
 dayinweek
 days
 days-week
@@ -1889,6 +1893,7 @@ deepvisibility
 def
 default
 defaultparameter
+defaultroutes
 defaults
 defence
 defender
@@ -1943,6 +1948,7 @@ desktopvirtualization
 details
 detect
 detection
+detectionrule
 deutschland
 dev
 dev-tools
@@ -2050,6 +2056,7 @@ displayresolution
 distance
 distinguishedname
 distributed-systems
+distributed-tracing
 distributedcache
 distributedfilesystem
 distribution
@@ -2075,6 +2082,7 @@ dmarc
 dmgr
 dmi
 dmtf
+dmx
 dnd
 dnf
 dns
@@ -2085,7 +2093,6 @@ dns-client
 dns-over-https
 dns-resolver
 dnsbl
-dnsclient
 dnsdumpster
 dnsentry
 dnsimple
@@ -2250,6 +2257,7 @@ dvr
 dword
 dxexpeditions
 dynamic
+dynamic-host-configuration-protocol
 dynamic-privileged-access
 dynamicdistributiongroups
 dynamicdistributionlist
@@ -2269,6 +2277,7 @@ dynamicsax
 dynamicsecuritygroups
 dynamicsnav
 dynamodb
+dynatrace
 dynatraceobservability
 dz
 e-mail
@@ -2300,6 +2309,7 @@ editorservices
 edr
 education
 educational
+effectiveroutes
 efficientether
 efi
 egrep
@@ -2396,6 +2406,7 @@ environments
 environmentvariable
 environmentvariables
 envvar
+envvars
 eol
 eop
 eperl
@@ -2522,6 +2533,7 @@ exif
 exiftool
 exists
 exitcode
+exitprocessrequest
 exo
 exov2
 exov3
@@ -2600,7 +2612,6 @@ fastgit
 fastlinq
 fastlookup
 fastping
-fasttrack
 fat32
 favorite
 favorites
@@ -2666,6 +2677,7 @@ files-cli.exe
 files.com
 filesecurity
 fileserver
+fileserverresourcemanager
 fileshare
 filesharing
 filestorage
@@ -2766,6 +2778,7 @@ forcedelete
 foreach
 foreach-object
 forecast
+forensic
 forensics
 forest
 forestdiscovery
@@ -2824,6 +2837,7 @@ fscps
 fsf
 fsharp
 fslogix
+fsrm
 ftp
 ftps
 fu-msauth
@@ -3029,6 +3043,7 @@ gopherplus
 gophers
 governance
 governancerulescontrolplane
+gp
 gpedit
 gpg
 gping
@@ -3384,6 +3399,7 @@ ie
 iem
 ifconfig
 ifttt
+igel
 igr
 ihs
 iiittttt
@@ -3422,6 +3438,7 @@ imaging
 imap
 imb
 imei
+imi
 impala
 impersonation
 imperva
@@ -3852,6 +3869,7 @@ launcher
 layer
 layman
 layout
+lazywinadmin
 lbi
 lbs
 lccn
@@ -3871,6 +3889,7 @@ learnpowershell
 lease
 leftjoin
 legacy
+legacyad
 legends
 lego
 lein
@@ -4057,6 +4076,7 @@ ltm
 lucd
 lucene
 lunches
+lwa
 lxca
 lxcapstool
 lxco
@@ -4149,6 +4169,7 @@ marketing
 marketo
 marketplace
 marketplaceordering
+marketplaceprivateoffer
 marketplacepublisher
 marking
 marklogic
@@ -4199,7 +4220,9 @@ mde
 mdep
 mdi
 mdm
+mdop
 mdt
+mdx
 me4024
 mean
 measure
@@ -4270,6 +4293,7 @@ microservices
 microsoft
 microsoft_365
 microsoft_azure
+microsoft_endpoint_manager
 microsoft_online
 microsoft_teams
 microsoft-graph
@@ -4947,6 +4971,7 @@ osuborganizationsubscription
 osubsubscription
 osubusage
 osx
+otel
 otp
 ou
 ou-object
@@ -4984,6 +5009,7 @@ pac
 pack
 package
 package-management
+package-manager
 package-transform
 packagemanagement
 packagemanager
@@ -5002,6 +5028,7 @@ pager
 pagerduty
 pages
 pagination
+paloalto
 paloaltonetworks
 pam
 panels
@@ -5219,6 +5246,7 @@ pointer
 pokeapi
 pokedex
 pokemon
+poker
 policies
 policy
 policyevent
@@ -5354,6 +5382,7 @@ powerconfiguration
 powerdex
 powerforensics
 powergraph
+powergui
 powermax
 powerpack
 powerplan
@@ -5436,6 +5465,9 @@ predictor
 preferences
 prefix
 prefixing
+preparead
+preparealldomains
+prepareschema
 prepend
 preprocessing
 preprocessor
@@ -8490,6 +8522,7 @@ psprtg
 pspublicapi
 psql
 psraw
+psreadexif
 psreadline
 psreminder
 psremoting
@@ -8691,7 +8724,6 @@ rdcman
 rdcmanager
 rdfe
 rdg
-rdl
 rdm
 rdp
 rdpsession
@@ -8749,6 +8781,7 @@ redistributables
 redkite
 redseal
 redshift
+redteaming
 redundancy
 refactor
 refactoring
@@ -9346,6 +9379,7 @@ setting
 settings
 setup
 sevenzip
+sf
 sfb
 sfc
 sftp
@@ -9413,6 +9447,7 @@ sid
 sidecar
 siem
 sif
+sigma
 sign
 signalfx
 signalr
@@ -10136,7 +10171,6 @@ thunderbird
 thycotic
 tibber
 tic-tac-toe
-ticketing
 tickle
 ticks
 tictactoe
@@ -10210,6 +10244,7 @@ tracing
 tracker
 tracking
 trading
+traffic
 trafficfiltering
 trafficmanager
 trafficmarking
@@ -10351,6 +10386,7 @@ ud-licensed
 ud-loadingoverlay
 ud-minesweeper
 ud-mouseparticle
+ud-navbarsearch
 ud-numbermask
 ud-orgchart
 ud-piechart3d
@@ -10398,6 +10434,7 @@ ultimatetool
 um
 uml
 umn
+ums
 unattend
 unattendedfile
 unblock
@@ -10736,6 +10773,7 @@ waas
 wac
 waf
 wait4x
+waitforobject
 wakeonlan
 wakeup
 walk
@@ -10866,6 +10904,7 @@ wif
 wifi
 wiki
 wildcard
+wildfire
 wildfly
 wim
 wim2vhd
@@ -11069,6 +11108,8 @@ wso2
 wsus
 wt
 wtsapi32
+wttr
+wttr.in
 wtx
 wu
 wug
@@ -11171,8 +11212,6 @@ zookeeper
 zoom
 zoomapi
 zoommeeting
-zorus
-zorusapi
 zoxide
 zpr
 zsh
