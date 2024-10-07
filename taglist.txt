@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Sunday, 06 October 2024 17:51:52 UTC
+Updated: Monday, 07 October 2024 02:16:27 UTC
 
 .bat
 .env
@@ -323,8 +323,6 @@ amateur-data-interchange-format
 amateur-radio
 amateurradio
 amazon
-amazonaws
-amazonmgn
 amazontitan
 amazonwebservices
 amend
@@ -369,6 +367,7 @@ ansible-vault
 ansiblecontrolnode
 anthropic
 anti-malware
+antimalwarescaninterface
 antispam
 antivirus
 anws
@@ -576,6 +575,7 @@ authentication
 authenticationcertificate
 authenticode
 authn
+author
 authoring
 authoringtools
 authorisation
@@ -640,6 +640,7 @@ avro
 avs
 avset
 await
+awareness
 awesome
 awp
 awpagent
@@ -750,6 +751,7 @@ azurerepos
 azureresourceinventory
 azureresourcemanager
 azureresources
+azureresourcestuff
 azurerestapispecs
 azurerm
 azurerms
@@ -1285,7 +1287,6 @@ cloudbees
 cloudberry
 cloudblue
 cloudbolt
-cloudbridge
 cloudendure
 cloudevents
 cloudflare
@@ -1392,6 +1393,7 @@ comical
 comics
 command
 command_line
+command-line-interface
 command-validation
 commandcoverage
 commandhistory
@@ -1402,6 +1404,7 @@ commands
 commandsandresource
 commence
 comment
+comments
 commerce
 commfort
 commit
@@ -1570,6 +1573,7 @@ copilot
 copy
 copy-item
 copypaste
+copyright
 core
 coreposh
 coreutils
@@ -1978,7 +1982,6 @@ dfir
 dfs
 dfw
 dg
-dhash
 dhcp
 di
 diagnostic
@@ -2084,6 +2087,7 @@ dnd
 dnf
 dns
 dns-01
+dns-administration
 dns-async
 dns-client
 dns-over-https
@@ -2091,6 +2095,7 @@ dns-resolver
 dnsbl
 dnsclient
 dnsdumpster
+dnsentry
 dnsimple
 dnslookup
 dnsmadeeasy
@@ -2098,6 +2103,7 @@ dnsoverhttps
 dnsrecord
 dnsresolver
 dnssec
+dnsserver
 dnssuffix
 dnvm
 doc
@@ -2712,6 +2718,7 @@ findfile
 findlocation
 findplace
 findproxyforurl
+fine-print
 fine-tuning
 finops
 firebird
@@ -2804,6 +2811,7 @@ foundationmodels
 fox
 foxpro
 fqdn
+frame
 framework
 france
 free
@@ -3022,7 +3030,6 @@ google-chrome
 google-fonts
 google-histogram
 google-sankey
-google-table
 googleadsv2
 googlecloudplatform
 googledrive
@@ -3407,7 +3414,6 @@ ilo5
 ilocmdlets
 im
 image
-image-comparison
 image-converter
 image-creation
 image-generation
@@ -3566,6 +3572,7 @@ invoke-dtdownloaddriverpack
 invoke-dtdownloaddriverupdates
 invoke-dtdrivertool
 invoke-msbuild
+invoke-msbuildpreprocess
 invoke-vsbuild
 invoke-vsdevcommand
 invoke-webrequest
@@ -4165,6 +4172,7 @@ marketplaceprivateoffer
 marketplacepublisher
 marking
 marklogic
+marquee
 marvel
 marvell
 marvell_semiconductor_inc
@@ -4274,7 +4282,6 @@ metrics
 metrolink
 mfa
 mga
-mgn
 mi
 micro
 micro-orm
@@ -5125,7 +5132,6 @@ penetrationtesting
 pentesting
 pentia
 people
-perceptual-hash
 perforce
 performance
 performance-counters
@@ -5540,6 +5546,7 @@ proliant
 prometheus
 prompt
 pronounceable
+proofpoint
 properties
 property
 property-list
@@ -5590,6 +5597,7 @@ psadgroupmembers
 psadt
 psake
 psappdeploytoolkit
+psat
 psazd
 psbackup
 psbbix
@@ -8900,6 +8908,7 @@ resolution
 resolve
 resolve-dnsname
 resolve-stache
+resolve-template
 resolver
 resource
 resource_monitor
@@ -9043,6 +9052,7 @@ runner
 runspace
 runspacepool
 runspaces
+runtime
 runtimedefinedparameter
 runtimedefinedparameterdictionary
 runway
@@ -9319,7 +9329,6 @@ serverless
 servermanagement
 servers
 service
-service-bus
 service-messages
 servicebus
 servicebusforwindowsserver
@@ -9438,7 +9447,6 @@ siem
 sif
 sigma
 sign
-signalfx
 signalr
 signature
 signed
@@ -9449,7 +9457,6 @@ silk
 silver_ticket
 sim
 simple
-simplecontainers
 simplepassword
 simplepasswordgenerator
 simplivity
@@ -9752,6 +9759,7 @@ stanc
 standard
 standarderror
 standardoutput
+standards
 standbypool
 stansummary
 start
@@ -9899,6 +9907,7 @@ svt
 swagger
 swamid
 swarm
+swedish
 swimlane
 swis
 switch
@@ -10072,8 +10081,6 @@ terminalnotifier
 terminalvelocity
 termset
 terraform
-terraform-docs
-terraform-switcher
 terraformcloud
 terrafun
 terragrunt
@@ -10127,7 +10134,6 @@ tflint
 tfs
 tfscmdlets
 tfsec
-tfswitch
 tftd
 tftp
 tfvars
@@ -10325,6 +10331,7 @@ twitter
 twitter-api
 twitter-api-v2
 twitter-client
+twitter-follow
 twitter-hashtag
 twitter-mention
 twitter-share
