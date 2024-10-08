@@ -9,7 +9,7 @@ These are the most popular 250 modules based on total download count for modules
 
 This module contain cmdlets to manage Windows Update Client.
 
-__Downloads__: 840,030,089 | __Repository__: https://github.com/mgajda83/PSWindowsUpdate
+__Downloads__: 840,055,332 | __Repository__: https://github.com/mgajda83/PSWindowsUpdate
 
 ## [SpeculationControl](https://www.powershellgallery.com/Packages/SpeculationControl/1.0.18) | 1.0.18
 
@@ -17,7 +17,7 @@ __Downloads__: 840,030,089 | __Repository__: https://github.com/mgajda83/PSWindo
 
 This module provides the ability to query the speculation control settings for the system.
 
-__Downloads__: 519,007,340 | __Repository__: 
+__Downloads__: 519,007,678 | __Repository__: 
 
 ## [RunAsUser](https://www.powershellgallery.com/Packages/RunAsUser/2.4.0) | 2.4.0
 
@@ -25,7 +25,7 @@ __Downloads__: 519,007,340 | __Repository__:
 
 This module allows you to execute scripts under the current user while running as SYSTEM using impersonation.
 
-__Downloads__: 93,101,079 | __Repository__: https://github.com/KelvinTegelaar/RunAsUser
+__Downloads__: 93,102,605 | __Repository__: https://github.com/KelvinTegelaar/RunAsUser
 
 ## [powershell-yaml](https://www.powershellgallery.com/Packages/powershell-yaml/0.4.7) | 0.4.7
 
@@ -33,7 +33,7 @@ __Downloads__: 93,101,079 | __Repository__: https://github.com/KelvinTegelaar/Ru
 
 Powershell module for serializing and deserializing YAML
 
-__Downloads__: 91,634,759 | __Repository__: 
+__Downloads__: 91,636,383 | __Repository__: 
 
 ## [Carbon](https://www.powershellgallery.com/Packages/Carbon/2.15.1) | 2.15.1
 
@@ -58,7 +58,7 @@ Carbon is a PowerShell module for automating the configuration Windows 7, 8, 200
 
 All functions are idempotent: when run multiple times with the same arguments, your system will be in the same state without failing or producing errors.
 
-__Downloads__: 74,988,000 | __Repository__: http://get-carbon.org/
+__Downloads__: 74,988,061 | __Repository__: http://get-carbon.org/
 
 ## [PendingReboot](https://www.powershellgallery.com/Packages/PendingReboot/0.9.0.6) | 0.9.0.6
 
@@ -66,7 +66,7 @@ __Downloads__: 74,988,000 | __Repository__: http://get-carbon.org/
 
 Module to detect Windows OS pending reboots.
 
-__Downloads__: 63,122,434 | __Repository__: https://github.com/bcwilhite/PendingReboot/
+__Downloads__: 63,122,848 | __Repository__: https://github.com/bcwilhite/PendingReboot/
 
 ## [psprivilege](https://www.powershellgallery.com/Packages/psprivilege/0.2.0) | 0.2.0
 
@@ -2015,7 +2015,7 @@ __Downloads__: 768,244 | __Repository__: https://github.com/EvotecIT/PSTeams
 
 KB Viewer, Saver, Installer and Uninstaller
 
-__Downloads__: 762,248 | __Repository__: 
+__Downloads__: 762,251 | __Repository__: 
 
 ## [test_module2](https://www.powershellgallery.com/Packages/test_module2/5.0.0.0) | 5.0.0.0
 
@@ -2039,7 +2039,7 @@ __Downloads__: 740,157 | __Repository__: https://github.com/azsk/DevOpsKit-docs
 
 PowerShell for the CrowdStrike Falcon OAuth2 APIs
 
-__Downloads__: 731,196 | __Repository__: https://github.com/crowdstrike/psfalcon
+__Downloads__: 731,263 | __Repository__: https://github.com/crowdstrike/psfalcon
 
 ## [PSExcel](https://www.powershellgallery.com/Packages/PSExcel/1.0.2) | 1.0.2
 
@@ -2047,7 +2047,7 @@ __Downloads__: 731,196 | __Repository__: https://github.com/crowdstrike/psfalcon
 
 Work with Excel without installing Excel
 
-__Downloads__: 721,068 | __Repository__: https://github.com/RamblingCookieMonster/PSExcel/
+__Downloads__: 721,074 | __Repository__: https://github.com/RamblingCookieMonster/PSExcel/
 
 ## [GitHubActions](https://www.powershellgallery.com/Packages/GitHubActions/1.1.0.2) | 1.1.0.2
 
@@ -2055,7 +2055,7 @@ __Downloads__: 721,068 | __Repository__: https://github.com/RamblingCookieMonste
 
 Supports interacting with Github Actions environment
 
-__Downloads__: 719,641 | __Repository__: https://github.com/ebekker/pwsh-github-action-tools
+__Downloads__: 719,677 | __Repository__: https://github.com/ebekker/pwsh-github-action-tools
 
 ## [PSWinDocumentation.O365HealthService](https://www.powershellgallery.com/Packages/PSWinDocumentation.O365HealthService/1.0.4) | 1.0.4
 
@@ -2071,7 +2071,7 @@ __Downloads__: 692,016 | __Repository__: https://github.com/EvotecIT/PSWinDocume
 
 Module which allows ftp, ftps, sftp file transfers with advanced features. It also allows to transfer files and directorires between servers using fxp protocol. As a side feature it allows to conenct to SSH and executes commands on it.
 
-__Downloads__: 689,069 | __Repository__: https://github.com/EvotecIT/Transferetto
+__Downloads__: 689,161 | __Repository__: https://github.com/EvotecIT/Transferetto
 
 ## [DnsClient-PS](https://www.powershellgallery.com/Packages/DnsClient-PS/1.1.1) | 1.1.1
 
@@ -2079,7 +2079,7 @@ __Downloads__: 689,069 | __Repository__: https://github.com/EvotecIT/Transferett
 
 A cross-platform DNS client for PowerShell utilizing the DnsClient.NET library.
 
-__Downloads__: 684,246 | __Repository__: https://github.com/rmbolger/DnsClient-PS
+__Downloads__: 684,256 | __Repository__: https://github.com/rmbolger/DnsClient-PS
 
 ## [ConnectWiseManageAPI-Evident](https://www.powershellgallery.com/Packages/ConnectWiseManageAPI-Evident/0.4.7.6) | 0.4.7.6
 
@@ -2087,7 +2087,7 @@ __Downloads__: 684,246 | __Repository__: https://github.com/rmbolger/DnsClient-P
 
 PowerShell wrapper for the ConnectWise Manage REST API
 
-__Downloads__: 674,427 | __Repository__: https://github.com/christaylorcodes/ConnectWiseManageAPI
+__Downloads__: 674,485 | __Repository__: https://github.com/christaylorcodes/ConnectWiseManageAPI
 
 ## [2atGeneral](https://www.powershellgallery.com/Packages/2atGeneral/1.0.277) | 1.0.277
 
@@ -2103,7 +2103,7 @@ __Downloads__: 671,668 | __Repository__:
 
 Provides a generic toolset to convert text-based table output from various CLI programs into PowerShell objects.
 
-__Downloads__: 671,404 | __Repository__: https://github.com/jjcarrier/PS-TextTable
+__Downloads__: 671,406 | __Repository__: https://github.com/jjcarrier/PS-TextTable
 
 ## [PoshPrivilege](https://www.powershellgallery.com/Packages/PoshPrivilege/0.3.0.0) | 0.3.0.0
 
@@ -2111,7 +2111,7 @@ __Downloads__: 671,404 | __Repository__: https://github.com/jjcarrier/PS-TextTab
 
 Module designed to use allow easier access to work with User Rights (privileges)
 
-__Downloads__: 665,758 | __Repository__: 
+__Downloads__: 665,759 | __Repository__: 
 
 ## [TableUI](https://www.powershellgallery.com/Packages/TableUI/1.9.0) | 1.9.0
 
@@ -2119,7 +2119,7 @@ __Downloads__: 665,758 | __Repository__:
 
 A simple interface for making selections on an array of PS objects
 
-__Downloads__: 662,093 | __Repository__: https://github.com/jjcarrier/PS-TableUI
+__Downloads__: 662,095 | __Repository__: https://github.com/jjcarrier/PS-TableUI
 
 ## [Xrm.Framework.CI.PowerShell.Cmdlets](https://www.powershellgallery.com/Packages/Xrm.Framework.CI.PowerShell.Cmdlets/9.1.0.16) | 9.1.0.16
 
@@ -2135,6 +2135,6 @@ __Downloads__: 661,155 | __Repository__: https://github.com/WaelHamze/xrm-ci-fra
 
 Provides cmdlets that compliment the existing WinGet CLI. Primarily, improves the user-experience for software updates and offers a convenient way to install collections of software via WinGet through the use of user-defined tags.
 
-__Downloads__: 658,459 | __Repository__: https://github.com/jjcarrier/PS-WinGet-Essentials
+__Downloads__: 658,460 | __Repository__: https://github.com/jjcarrier/PS-WinGet-Essentials
 
-*Updated: Tuesday, 08 October 2024 02:16:12 UTC*
+*Updated: Tuesday, 08 October 2024 09:51:48 UTC*

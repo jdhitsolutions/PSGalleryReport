@@ -3,6 +3,54 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [NSLoggingModule](https://www.powershellgallery.com/Packages/NSLoggingModule/0.1.1) | 0.1.1
+
+### Published: 10/08/2024 08:56:56 by Clive Norman
+
+A module for logging output either to a log file or console and log file
+
+__Downloads__: 22 | __Repository__: https://normansolutions.co.uk/powershell-logging/
+
+## [PS.Selenium](https://www.powershellgallery.com/Packages/PS.Selenium/1.36) | 1.36
+
+### Published: 10/08/2024 07:51:49 by David Nuttall
+
+Wraps Selenium
+
+__Downloads__: 547 | __Repository__: https://github.com/Druid-Nutstone/Ps.Utilities.Help/blob/main/ReadmeSelenium.md
+
+## [PsBuildTasks](https://www.powershellgallery.com/Packages/PsBuildTasks/1.11.0) | 1.11.0
+
+### Published: 10/08/2024 07:51:31 by Steffen Kampmann
+
+Manage PsBuildTasks
+
+__Downloads__: 225 | __Repository__: https://github.com/abbgrade/PsBuildTasks
+
+## [TheDashboard](https://www.powershellgallery.com/Packages/TheDashboard/0.0.29) | 0.0.29
+
+### Published: 10/08/2024 07:02:44 by Przemyslaw Klys
+
+TheDashboard is a module that allows you to create a dashboard for your HTML reports
+
+__Downloads__: 4,545 | __Repository__: https://github.com/EvotecIT/TheDashboard
+
+## [TrustedSigning](https://www.powershellgallery.com/Packages/TrustedSigning/0.5.0) | 0.5.0
+
+### Published: 10/08/2024 04:43:27 by James Parsons
+
+Enables the signing of a set of files with the Trusted Signing service.
+
+__Downloads__: 96,916 | __Repository__: 
+
+## [SelectHtml](https://www.powershellgallery.com/Packages/SelectHtml/1.0.5) | 1.0.5
+
+### Published: 10/08/2024 03:30:21 by Brian Lalonde
+
+Extracts content from an HTML document using an XPath expression.
+
+__Downloads__: 1,237 | __Repository__: https://github.com/brianary/SelectHtml/
+
 ## [Universal](https://www.powershellgallery.com/Packages/Universal/5.0.10) | 5.0.10
 
 ### Published: 10/08/2024 01:36:11 by Ironman Software
@@ -90,14 +138,6 @@ Utility to spawn SYSTEM process with an option to spawn a SYSTEM process interac
 
 __Downloads__: 6,800 | __Repository__: 
 
-## [NSLoggingModule](https://www.powershellgallery.com/Packages/NSLoggingModule/0.0.8) | 0.0.8
-
-### Published: 10/07/2024 15:33:37 by Clive Norman
-
-A module for logging output either to a log file or console and log file
-
-__Downloads__: 22 | __Repository__: 
-
 ## [KubeTidy](https://www.powershellgallery.com/Packages/KubeTidy/0.0.16) | 0.0.16
 
 ### Published: 10/07/2024 14:59:19 by Richard Hooper
@@ -147,14 +187,6 @@ __Downloads__: 24,599 | __Repository__: https://github.com/PSModule/Store
         and even makes it easy to open the folders/projects in your favorite tools.
 
 __Downloads__: 6 | __Repository__: 
-
-## [PS.Selenium](https://www.powershellgallery.com/Packages/PS.Selenium/1.35) | 1.35
-
-### Published: 10/07/2024 09:57:46 by David Nuttall
-
-Wraps Selenium
-
-__Downloads__: 547 | __Repository__: https://github.com/Druid-Nutstone/Ps.Utilities.Help/blob/main/ReadmeSelenium.md
 
 ## [PSAYX](https://www.powershellgallery.com/Packages/PSAYX/1.1.0) | 1.1.0
 
@@ -581,14 +613,6 @@ EnhancedVPNAO for PowerShell scripts.
 
 __Downloads__: 476 | __Repository__: 
 
-## [EnhancedSchedTaskAO](https://www.powershellgallery.com/Packages/EnhancedSchedTaskAO/0.0.89) | 0.0.89
-
-### Published: 10/04/2024 20:38:38 by Abdullah Ollivierre
-
-EnhancedSchedTaskAO for PowerShell scripts.
-
-__Downloads__: 483 | __Repository__: 
-
 ## [EnhancedSPOAO](https://www.powershellgallery.com/Packages/EnhancedSPOAO/0.0.89) | 0.0.89
 
 ### Published: 10/04/2024 20:38:38 by Abdullah Ollivierre
@@ -605,6 +629,14 @@ EnhancedSecretsAO for PowerShell scripts.
 
 __Downloads__: 34 | __Repository__: 
 
+## [EnhancedSchedTaskAO](https://www.powershellgallery.com/Packages/EnhancedSchedTaskAO/0.0.89) | 0.0.89
+
+### Published: 10/04/2024 20:38:38 by Abdullah Ollivierre
+
+EnhancedSchedTaskAO for PowerShell scripts.
+
+__Downloads__: 483 | __Repository__: 
+
 ## [EnhancedPSTools](https://www.powershellgallery.com/Packages/EnhancedPSTools/0.0.29) | 0.0.29
 
 ### Published: 10/04/2024 20:38:37 by Abdullah Ollivierre
@@ -612,6 +644,14 @@ __Downloads__: 34 | __Repository__:
 EnhancedPSTools for PowerShell scripts.
 
 __Downloads__: 506 | __Repository__: 
+
+## [EnhancedModuleStarterAO](https://www.powershellgallery.com/Packages/EnhancedModuleStarterAO/0.0.90) | 0.0.90
+
+### Published: 10/04/2024 20:38:36 by Abdullah Ollivierre
+
+EnhancedModuleStarterAO for PowerShell scripts.
+
+__Downloads__: 998 | __Repository__: 
 
 ## [EnhancedLoggingAO](https://www.powershellgallery.com/Packages/EnhancedLoggingAO/0.0.90) | 0.0.90
 
@@ -629,14 +669,6 @@ EnhancedPSADTAO for PowerShell scripts.
 
 __Downloads__: 487 | __Repository__: 
 
-## [EnhancedModuleStarterAO](https://www.powershellgallery.com/Packages/EnhancedModuleStarterAO/0.0.90) | 0.0.90
-
-### Published: 10/04/2024 20:38:36 by Abdullah Ollivierre
-
-EnhancedModuleStarterAO for PowerShell scripts.
-
-__Downloads__: 998 | __Repository__: 
-
 ## [EnhancedIntuneAO](https://www.powershellgallery.com/Packages/EnhancedIntuneAO/0.0.14) | 0.0.14
 
 ### Published: 10/04/2024 20:38:34 by Abdullah Ollivierre
@@ -653,14 +685,6 @@ EnhancedHyperVAO for PowerShell scripts.
 
 __Downloads__: 482 | __Repository__: 
 
-## [EnhancedGraphAO](https://www.powershellgallery.com/Packages/EnhancedGraphAO/0.0.90) | 0.0.90
-
-### Published: 10/04/2024 20:38:33 by Abdullah Ollivierre
-
-EnhancedGraphAO for PowerShell scripts.
-
-__Downloads__: 485 | __Repository__: 
-
 ## [EnhancedFileManagerAO](https://www.powershellgallery.com/Packages/EnhancedFileManagerAO/0.0.90) | 0.0.90
 
 ### Published: 10/04/2024 20:38:33 by Abdullah Ollivierre
@@ -668,6 +692,14 @@ __Downloads__: 485 | __Repository__:
 EnhancedFileManagerAO for PowerShell scripts.
 
 __Downloads__: 486 | __Repository__: 
+
+## [EnhancedGraphAO](https://www.powershellgallery.com/Packages/EnhancedGraphAO/0.0.90) | 0.0.90
+
+### Published: 10/04/2024 20:38:33 by Abdullah Ollivierre
+
+EnhancedGraphAO for PowerShell scripts.
+
+__Downloads__: 485 | __Repository__: 
 
 ## [EnhancedDeviceMigrationAO](https://www.powershellgallery.com/Packages/EnhancedDeviceMigrationAO/0.0.90) | 0.0.90
 
@@ -1172,7 +1204,7 @@ __Downloads__: 5,958,408 | __Repository__: https://github.com/TheJumpCloud/suppo
 
 This module provides an interface to the NinjaOne API.
 
-__Downloads__: 17,703 | __Repository__: https://github.com/homotechsual/NinjaOne
+__Downloads__: 17,705 | __Repository__: https://github.com/homotechsual/NinjaOne
 
 ## [UnitySetup](https://www.powershellgallery.com/Packages/UnitySetup/6.0.190) | 6.0.190
 
@@ -2031,36 +2063,4 @@ This modules provides Cmdlets for OCI Dataintegration Service
 
 __Downloads__: 8,546 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-## [OCI.PSModules.Dataflow](https://www.powershellgallery.com/Packages/OCI.PSModules.Dataflow/92.0.0) | 92.0.0
-
-### Published: 10/01/2024 18:05:49 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Dataflow Service
-
-__Downloads__: 12,896 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Datacatalog](https://www.powershellgallery.com/Packages/OCI.PSModules.Datacatalog/92.0.0) | 92.0.0
-
-### Published: 10/01/2024 18:05:39 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Datacatalog Service
-
-__Downloads__: 8,527 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Databasetools](https://www.powershellgallery.com/Packages/OCI.PSModules.Databasetools/92.0.0) | 92.0.0
-
-### Published: 10/01/2024 18:05:28 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Databasetools Service
-
-__Downloads__: 6,910 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Databasemigration](https://www.powershellgallery.com/Packages/OCI.PSModules.Databasemigration/92.0.0) | 92.0.0
-
-### Published: 10/01/2024 18:05:18 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Databasemigration Service
-
-__Downloads__: 7,616 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-*Updated: Tuesday, 08 October 2024 02:16:07 UTC*
+*Updated: Tuesday, 08 October 2024 09:51:43 UTC*
