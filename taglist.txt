@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Tuesday, 08 October 2024 02:16:15 UTC
+Updated: Tuesday, 08 October 2024 09:51:51 UTC
 
 .bat
 .env
@@ -325,6 +325,8 @@ amateur-data-interchange-format
 amateur-radio
 amateurradio
 amazon
+amazonaws
+amazonmgn
 amazontitan
 amazonwebservices
 amend
@@ -620,6 +622,7 @@ autostart
 autotask
 autotaskapi
 autotaskpsa
+autotyper
 autounattend
 autoupdate
 autoupdate-script
@@ -739,6 +742,8 @@ azurefunctions
 azuregraph
 azuregroupstuff
 azureinformationprotection
+azureiot
+azureiothub
 azurekeyvault
 azuremigrate
 azuremonitor
@@ -781,6 +786,8 @@ azvm
 b2
 back
 backblaze
+backconnection
+backconnectionhostname
 backend
 backup
 backup_validation
@@ -953,8 +960,6 @@ brainy
 branch
 branch-rename
 brave
-brawlapi
-brawlstars
 brazencloud
 bre
 breach
@@ -1085,6 +1090,7 @@ cavium
 cb
 cblueshell
 cbr
+cbz
 cchoco
 cchocoex
 ccm
@@ -1499,6 +1505,7 @@ connectwise
 conservation
 console
 consoleguitools
+consolemenu
 consolemusic
 consumer
 consumption
@@ -1569,6 +1576,7 @@ coordinates
 copilot
 copy
 copy-item
+copypaste
 copyright
 core
 coreposh
@@ -1653,6 +1661,7 @@ crm
 crm2016
 cron
 crontab
+cropping
 cross-platform
 crossjoin
 crossover
@@ -2030,6 +2039,7 @@ disasterrecovery
 disconnect
 discord
 discordrpc
+discount
 discover
 discovery
 discutils
@@ -2149,6 +2159,7 @@ dotnet
 dotnet-cli
 dotnettool
 dotps1
+dots
 dotteddecimalip
 doubleclick
 download
@@ -2283,6 +2294,7 @@ easylife365
 easyvista
 eaton
 ebay
+ebooks
 ebur128
 ec2
 ecommerce
@@ -2748,6 +2760,7 @@ flex
 flex-query
 flexdesk
 flickr
+flowchart
 flowy
 fluidrelay
 flyway
@@ -3426,6 +3439,7 @@ imageservicing
 imageslide
 imagevalidate
 imagevalidation
+imagga
 imagination
 imaging
 imap
@@ -4277,6 +4291,7 @@ metrics
 metrolink
 mfa
 mga
+mgn
 mi
 micro
 micro-orm
@@ -4538,7 +4553,6 @@ mysql-database
 mytest
 n-able
 n-central
-nabu
 nac
 nagios
 nakivo
@@ -8471,6 +8485,7 @@ psgraylog
 pshdhomerun
 pshot
 pshtml
+psimport
 psincludes_cmdlet
 psincludes_command
 psincludes_function
@@ -8931,7 +8946,6 @@ restore
 resume
 retail
 retention
-retro
 retry
 returnuserprofile
 retype
@@ -9070,6 +9084,7 @@ safeguard
 sage
 saggiehaim
 sailpoint
+sale
 sales
 salesforce
 salesloft
@@ -9416,7 +9431,6 @@ shell-integration
 shells
 shieldedvm
 ships
-shipsprovider
 shipstation
 shlink
 shodan
@@ -9880,7 +9894,6 @@ sullivan
 summary
 summit
 sumologic
-supercell
 superheros
 supermarket
 support
@@ -9957,6 +9970,7 @@ system.directoryservices.protocols
 system.text
 systemadministration
 systemadministrator
+systemadmins
 systemcenter
 systemcolors
 systemconfiguration
@@ -10402,7 +10416,6 @@ ud-tagcloud
 ud-timeline
 ud-timeout
 ud-tool
-ud-toploader
 ud-trendline
 ud-typing
 ud-window
