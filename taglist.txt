@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 07 October 2024 17:51:56 UTC
+Updated: Tuesday, 08 October 2024 02:16:15 UTC
 
 .bat
 .env
@@ -325,8 +325,6 @@ amateur-data-interchange-format
 amateur-radio
 amateurradio
 amazon
-amazonaws
-amazonmgn
 amazontitan
 amazonwebservices
 amend
@@ -336,6 +334,7 @@ amp
 amqp
 amsi
 amt
+amxmodx
 anaconda
 analysis
 analysisservices
@@ -621,7 +620,6 @@ autostart
 autotask
 autotaskapi
 autotaskpsa
-autotyper
 autounattend
 autoupdate
 autoupdate-script
@@ -741,8 +739,6 @@ azurefunctions
 azuregraph
 azuregroupstuff
 azureinformationprotection
-azureiot
-azureiothub
 azurekeyvault
 azuremigrate
 azuremonitor
@@ -785,8 +781,6 @@ azvm
 b2
 back
 backblaze
-backconnection
-backconnectionhostname
 backend
 backup
 backup_validation
@@ -827,6 +821,7 @@ bb
 bbc
 bbp
 bc
+bc365
 bcd
 bcdedit
 bcdr
@@ -995,6 +990,7 @@ bugzilla
 build
 build-log
 build-scripts
+build-test-publish
 builddefinition
 builder
 buildhelpers
@@ -1089,7 +1085,6 @@ cavium
 cb
 cblueshell
 cbr
-cbz
 cchoco
 cchocoex
 ccm
@@ -1444,7 +1439,7 @@ compute
 computecloudatcustomer
 computeinstanceagent
 computer
-computer-laboratory
+computer-room
 computer-site
 computername
 computers
@@ -1504,7 +1499,6 @@ connectwise
 conservation
 console
 consoleguitools
-consolemenu
 consolemusic
 consumer
 consumption
@@ -1575,7 +1569,6 @@ coordinates
 copilot
 copy
 copy-item
-copypaste
 copyright
 core
 coreposh
@@ -1660,7 +1653,6 @@ crm
 crm2016
 cron
 crontab
-cropping
 cross-platform
 crossjoin
 crossover
@@ -2038,7 +2030,6 @@ disasterrecovery
 disconnect
 discord
 discordrpc
-discount
 discover
 discovery
 discutils
@@ -2158,7 +2149,6 @@ dotnet
 dotnet-cli
 dotnettool
 dotps1
-dots
 dotteddecimalip
 doubleclick
 download
@@ -2293,7 +2283,6 @@ easylife365
 easyvista
 eaton
 ebay
-ebooks
 ebur128
 ec2
 ecommerce
@@ -2571,7 +2560,9 @@ exportteams
 expression
 extend
 extended
+extendedattributes
 extendedevents
+extendedproperties
 extendedproperty
 extendscript
 extensibility
@@ -2663,6 +2654,7 @@ file-system
 file-transform
 file-type
 file-type-association
+fileattributes
 fileencryption
 filelist
 filelog
@@ -2672,6 +2664,7 @@ filemanagement
 filematcher
 filename
 filenames
+fileproperties
 filereplication
 files
 files-cli
@@ -2755,7 +2748,6 @@ flex
 flex-query
 flexdesk
 flickr
-flowchart
 flowy
 fluidrelay
 flyway
@@ -2876,6 +2868,7 @@ gallery
 game
 gamecategory:cards
 games
+gameserver
 gaming
 garage
 gas
@@ -2982,6 +2975,7 @@ gist
 git
 git-client
 git-clone
+git-flow
 git-lfs
 git-proxy
 git-rename
@@ -3432,7 +3426,6 @@ imageservicing
 imageslide
 imagevalidate
 imagevalidation
-imagga
 imagination
 imaging
 imap
@@ -3825,6 +3818,7 @@ kvp
 l1tf
 l2tp
 lab
+lab-management
 labautomation
 labdefinition
 label
@@ -4283,7 +4277,6 @@ metrics
 metrolink
 mfa
 mga
-mgn
 mi
 micro
 micro-orm
@@ -4371,6 +4364,7 @@ mkpasswd
 mksapiviewer
 ml
 ml.net
+mlflow
 mlmodels
 mltools
 mmdc
@@ -4385,6 +4379,11 @@ models
 modify
 module
 module-maintenance
+module-manifest
+module-publishing
+module-publishing-framework
+module-testing
+module-testing-framework
 modulebuild
 modulecreation
 modulefast
@@ -4641,6 +4640,7 @@ new-dynamicparameter
 new-githubrelease
 new-item
 new-itemproperty
+new-modulemanifest
 new-pinneditem
 new-rdpsession
 new-samcmapplicationfrompackagedefinitionsms
@@ -5224,6 +5224,7 @@ plugin
 plugins
 pluralsight
 ply
+pmp
 pncit
 pnp
 pnp.powershell
@@ -5319,6 +5320,7 @@ poshy-wrap-forgit
 poshy-wrap-gem
 poshy-wrap-gh
 poshy-wrap-git
+poshy-wrap-git-flow
 poshy-wrap-git-lfs
 poshy-wrap-golang
 poshy-wrap-helm
@@ -5402,6 +5404,8 @@ powershell-isprime
 powershell-lightning
 powershell-module
 powershell-modules
+powershell-modules-convention
+powershell-project-convention
 powershell-releases-api
 powershell-remoting
 powershell-terminal
@@ -5961,10 +5965,12 @@ pscommand_gcamg
 pscommand_gcams
 pscommand_gcamu
 pscommand_gcb
+pscommand_gcd
 pscommand_gcem
 pscommand_gcf
 pscommand_gcfl
 pscommand_gcfls
+pscommand_gch
 pscommand_gci
 pscommand_gcl
 pscommand_gclcd
@@ -5987,6 +5993,7 @@ pscommand_gcp
 pscommand_gcpa
 pscommand_gcpc
 pscommand_gcpx
+pscommand_gcr
 pscommand_gcsam
 pscommand_gct
 pscommand_gd
@@ -6081,6 +6088,27 @@ pscommand_geun
 pscommand_gexport
 pscommand_gf
 pscommand_gfa
+pscommand_gfl
+pscommand_gflf
+pscommand_gflff
+pscommand_gflffc
+pscommand_gflfp
+pscommand_gflfpc
+pscommand_gflfpll
+pscommand_gflfs
+pscommand_gflh
+pscommand_gflhf
+pscommand_gflhfc
+pscommand_gflhp
+pscommand_gflhpc
+pscommand_gflhs
+pscommand_gfli
+pscommand_gflr
+pscommand_gflrf
+pscommand_gflrfc
+pscommand_gflrp
+pscommand_gflrpc
+pscommand_gflrs
 pscommand_gfo
 pscommand_gft
 pscommand_gftv
@@ -6357,6 +6385,27 @@ pscommand_invoke-gitconfig
 pscommand_invoke-gitdifftool
 pscommand_invoke-gitfetch
 pscommand_invoke-gitfetchorigin
+pscommand_invoke-gitflow
+pscommand_invoke-gitflowfeature
+pscommand_invoke-gitflowfeaturefinish
+pscommand_invoke-gitflowfeaturefinishcurrent
+pscommand_invoke-gitflowfeaturepublish
+pscommand_invoke-gitflowfeaturepublishcurrent
+pscommand_invoke-gitflowfeaturepull
+pscommand_invoke-gitflowfeaturestart
+pscommand_invoke-gitflowhotfix
+pscommand_invoke-gitflowhotfixfinish
+pscommand_invoke-gitflowhotfixfinishcurrent
+pscommand_invoke-gitflowhotfixpublish
+pscommand_invoke-gitflowhotfixpublishcurrent
+pscommand_invoke-gitflowhotfixstart
+pscommand_invoke-gitflowinit
+pscommand_invoke-gitflowrelease
+pscommand_invoke-gitflowreleasefinish
+pscommand_invoke-gitflowreleasefinishcurrent
+pscommand_invoke-gitflowreleasepublish
+pscommand_invoke-gitflowreleasepublishcurrent
+pscommand_invoke-gitflowreleasestart
 pscommand_invoke-gitgui
 pscommand_invoke-githubapi
 pscommand_invoke-githubapi-bodyempty
@@ -7216,6 +7265,9 @@ pscommand_use-gitbranchmain
 pscommand_use-gitbranchnew
 pscommand_use-gitbranchprevious
 pscommand_use-gitbranchtracked
+pscommand_use-gitflowbranchdevelop
+pscommand_use-gitflowbranchhotfix
+pscommand_use-gitflowbranchrelease
 pscommand_use-gitstashentry
 pscommand_uuid
 pscommand_uuidgen
@@ -7745,6 +7797,27 @@ psfunction_invoke-gitconfig
 psfunction_invoke-gitdifftool
 psfunction_invoke-gitfetch
 psfunction_invoke-gitfetchorigin
+psfunction_invoke-gitflow
+psfunction_invoke-gitflowfeature
+psfunction_invoke-gitflowfeaturefinish
+psfunction_invoke-gitflowfeaturefinishcurrent
+psfunction_invoke-gitflowfeaturepublish
+psfunction_invoke-gitflowfeaturepublishcurrent
+psfunction_invoke-gitflowfeaturepull
+psfunction_invoke-gitflowfeaturestart
+psfunction_invoke-gitflowhotfix
+psfunction_invoke-gitflowhotfixfinish
+psfunction_invoke-gitflowhotfixfinishcurrent
+psfunction_invoke-gitflowhotfixpublish
+psfunction_invoke-gitflowhotfixpublishcurrent
+psfunction_invoke-gitflowhotfixstart
+psfunction_invoke-gitflowinit
+psfunction_invoke-gitflowrelease
+psfunction_invoke-gitflowreleasefinish
+psfunction_invoke-gitflowreleasefinishcurrent
+psfunction_invoke-gitflowreleasepublish
+psfunction_invoke-gitflowreleasepublishcurrent
+psfunction_invoke-gitflowreleasestart
 psfunction_invoke-gitgui
 psfunction_invoke-githubapi
 psfunction_invoke-githubapi-bodyempty
@@ -8372,6 +8445,9 @@ psfunction_use-gitbranchmain
 psfunction_use-gitbranchnew
 psfunction_use-gitbranchprevious
 psfunction_use-gitbranchtracked
+psfunction_use-gitflowbranchdevelop
+psfunction_use-gitflowbranchhotfix
+psfunction_use-gitflowbranchrelease
 psfunction_use-gitstashentry
 psfunction_write-gitcommit
 psfunction_write-gitcommitall
@@ -8395,7 +8471,6 @@ psgraylog
 pshdhomerun
 pshot
 pshtml
-psimport
 psincludes_cmdlet
 psincludes_command
 psincludes_function
@@ -8489,6 +8564,7 @@ publicfolder
 publicholidays
 publicip
 publish
+publish-module
 publishedmodules
 publisher
 publishers
@@ -8994,7 +9070,6 @@ safeguard
 sage
 saggiehaim
 sailpoint
-sale
 sales
 salesforce
 salesloft
@@ -9100,6 +9175,7 @@ screenscraping
 screenshot
 script
 script_version
+script-module
 script-to-assembly
 script-to-executable
 scriptanalyzer
@@ -9350,6 +9426,7 @@ shopify
 shortcut
 shortcuts
 shortpath
+shotgun
 show
 show-command
 show-objecttree
@@ -9526,7 +9603,9 @@ source-dedicated-server
 sourcecontrol
 sourceforge
 sourcegraph
+sourcemod
 sourceone
+sourcepawn
 sourcequery
 sovcloud
 space
@@ -9878,7 +9957,6 @@ system.directoryservices.protocols
 system.text
 systemadministration
 systemadministrator
-systemadmins
 systemcenter
 systemcolors
 systemconfiguration
@@ -9999,6 +10077,8 @@ terminalnotifier
 terminalvelocity
 termset
 terraform
+terraform-docs
+terraform-switcher
 terraformcloud
 terrafun
 terragrunt
@@ -10007,6 +10087,7 @@ test
 test-automation
 test-dscconfiguration
 test-internetconnection
+test-modulemanifest
 test-modulepath
 test-osplatform
 test-psremoting
@@ -10014,6 +10095,7 @@ test-samcmapplicationexists
 test-samcmpackageexists
 test-userisadministrator
 test-xml
+test123
 testaccount
 testautomation
 tester
@@ -10050,6 +10132,7 @@ tflint
 tfs
 tfscmdlets
 tfsec
+tfswitch
 tftd
 tftp
 tfvars
@@ -10389,6 +10472,7 @@ unzip
 up
 update
 update-module
+update-modulemanifest
 update-moduletests
 update-typedata
 updatedeferral
@@ -10444,6 +10528,7 @@ userright
 userrights
 userrightsassignment
 users
+users-management
 userworkstations
 usg
 usps
@@ -10943,6 +11028,7 @@ wmipermanentevents
 wol
 wolfram
 wolframalpha
+woocommerce
 woolworths
 woolworthsrewards
 word

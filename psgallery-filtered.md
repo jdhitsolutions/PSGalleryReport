@@ -3,6 +3,61 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [Universal](https://www.powershellgallery.com/Packages/Universal/5.0.10) | 5.0.10
+
+### Published: 10/08/2024 01:36:11 by Ironman Software
+
+Module for PowerShell Universal.
+
+__Downloads__: 137,316 | __Repository__: https://ironmansoftware.com/powershell-universal
+
+## [AnyPackage.Msu](https://www.powershellgallery.com/Packages/AnyPackage.Msu/0.3.1) | 0.3.1
+
+### Published: 10/08/2024 01:26:47 by Thomas Nieto
+
+Windows Msu provider for AnyPackage.
+
+__Downloads__: 410 | __Repository__: https://github.com/anypackage/msu
+
+## [PowerCommander](https://www.powershellgallery.com/Packages/PowerCommander/0.9.13) | 0.9.13
+
+### Published: 10/08/2024 00:32:25 by Keeper Security Inc.
+
+PowerShell Commander
+
+__Downloads__: 14,897 | __Repository__: https://github.com/Keeper-Security/keeper-sdk-dotnet
+
+## [AnyPackage.Programs](https://www.powershellgallery.com/Packages/AnyPackage.Programs/0.3.2) | 0.3.2
+
+### Published: 10/08/2024 00:10:15 by Thomas Nieto
+
+Windows programs provider for AnyPackage.
+
+__Downloads__: 616 | __Repository__: https://github.com/anypackage/programs
+
+## [WindowsLab](https://www.powershellgallery.com/Packages/WindowsLab/1.0.1) | 1.0.1
+
+### Published: 10/07/2024 19:48:21 by Human.Against.Machine
+
+WindowsLab is a PowerShell module designed to simplify the administration of a computer lab running Windows OS. It provides cmdlets for common tasks such as:
+
+- Starting, restarting, and stopping all computers.
+- Updating date and time on all computers.
+- Creating and removing local accounts.
+- Changing passwords.
+- Disconnecting users.
+- Sending files to all computers at once.
+
+__Downloads__: 23 | __Repository__: https://github.com/HumanAgainstMachine/WindowsLab
+
+## [JSDR.Configuration](https://www.powershellgallery.com/Packages/JSDR.Configuration/6.0.5) | 6.0.5
+
+### Published: 10/07/2024 18:56:07 by JetStream Software
+
+Powershell Module for confguration of JetStream Software on AVS
+
+__Downloads__: 2,882 | __Repository__: https://www.jetstreamsoft.com/about/support/
+
 ## [TMD.Common](https://www.powershellgallery.com/Packages/TMD.Common/2.6.0) | 2.6.0
 
 ### Published: 10/07/2024 17:20:41 by TransitionManager
@@ -81,7 +136,7 @@ __Downloads__: 1,061 | __Repository__:
 
 A PowerShell module that manages a store of secrets and variables.
 
-__Downloads__: 24,598 | __Repository__: https://github.com/PSModule/Store
+__Downloads__: 24,599 | __Repository__: https://github.com/PSModule/Store
 
 ## [quickpath](https://www.powershellgallery.com/Packages/quickpath/0.0.5) | 0.0.5
 
@@ -235,7 +290,7 @@ __Downloads__: 14 | __Repository__: https://github.com/AriDevK/Scout-PS
 
 psake is a build automation tool written in PowerShell.
 
-__Downloads__: 941,860 | __Repository__: https://github.com/psake/psake
+__Downloads__: 941,864 | __Repository__: https://github.com/psake/psake
 
 ## [ExoReports](https://www.powershellgallery.com/Packages/ExoReports/1.0.0) | 1.0.0
 
@@ -404,7 +459,7 @@ Harden Windows Safely, Securely, only with Official Microsoft methods - 🦄 Int
 
 🟡 The module generates a nice output on the screen as well as giving users an option to export the results in a CSV file.
 
-__Downloads__: 45,548 | __Repository__: https://github.com/HotCakeX/Harden-Windows-Security
+__Downloads__: 45,555 | __Repository__: https://github.com/HotCakeX/Harden-Windows-Security
 
 ## [PSAOAI](https://www.powershellgallery.com/Packages/PSAOAI/0.5.1) | 0.5.1
 
@@ -420,22 +475,7 @@ __Downloads__: 128 | __Repository__: https://github.com/voytas75/PSAOAI
 
 The community module that enables SQL Server Pros to automate database development and server administration
 
-__Downloads__: 4,807,740 | __Repository__: https://dbatools.io/
-
-## [WindowsLab](https://www.powershellgallery.com/Packages/WindowsLab/1.0.0) | 1.0.0
-
-### Published: 10/05/2024 17:40:20 by Human.Against.Machine
-
-"**WindowsLab** is a PowerShell module designed to simplify the administration of a computer lab running Windows OS. It provides cmdlets for common tasks such as:
-
-- Starting, restarting, and stopping all computers.
-- Updating date and time on all computers.
-- Creating and removing local accounts.
-- Changing passwords.
-- Disconnecting users.
-- Sending files to all computers at once."
-
-__Downloads__: 23 | __Repository__: https://github.com/HumanAgainstMachine/WindowsLab
+__Downloads__: 4,807,792 | __Repository__: https://dbatools.io/
 
 ## [SHIMSOFT-MS365info](https://www.powershellgallery.com/Packages/SHIMSOFT-MS365info/1.0) | 1.0
 
@@ -491,7 +531,7 @@ __Downloads__: 6,555 | __Repository__: https://github.com/TrimarcJake/Locksmith
 
 DSC resources for managing certificates on a Windows Server.
 
-__Downloads__: 25,291,533 | __Repository__: https://github.com/dsccommunity/CertificateDsc
+__Downloads__: 25,291,541 | __Repository__: https://github.com/dsccommunity/CertificateDsc
 
 ## [FarNet.Redis](https://www.powershellgallery.com/Packages/FarNet.Redis/0.7.11) | 0.7.11
 
@@ -541,6 +581,14 @@ EnhancedVPNAO for PowerShell scripts.
 
 __Downloads__: 476 | __Repository__: 
 
+## [EnhancedSchedTaskAO](https://www.powershellgallery.com/Packages/EnhancedSchedTaskAO/0.0.89) | 0.0.89
+
+### Published: 10/04/2024 20:38:38 by Abdullah Ollivierre
+
+EnhancedSchedTaskAO for PowerShell scripts.
+
+__Downloads__: 483 | __Repository__: 
+
 ## [EnhancedSPOAO](https://www.powershellgallery.com/Packages/EnhancedSPOAO/0.0.89) | 0.0.89
 
 ### Published: 10/04/2024 20:38:38 by Abdullah Ollivierre
@@ -557,14 +605,6 @@ EnhancedSecretsAO for PowerShell scripts.
 
 __Downloads__: 34 | __Repository__: 
 
-## [EnhancedSchedTaskAO](https://www.powershellgallery.com/Packages/EnhancedSchedTaskAO/0.0.89) | 0.0.89
-
-### Published: 10/04/2024 20:38:38 by Abdullah Ollivierre
-
-EnhancedSchedTaskAO for PowerShell scripts.
-
-__Downloads__: 483 | __Repository__: 
-
 ## [EnhancedPSTools](https://www.powershellgallery.com/Packages/EnhancedPSTools/0.0.29) | 0.0.29
 
 ### Published: 10/04/2024 20:38:37 by Abdullah Ollivierre
@@ -572,14 +612,6 @@ __Downloads__: 483 | __Repository__:
 EnhancedPSTools for PowerShell scripts.
 
 __Downloads__: 506 | __Repository__: 
-
-## [EnhancedModuleStarterAO](https://www.powershellgallery.com/Packages/EnhancedModuleStarterAO/0.0.90) | 0.0.90
-
-### Published: 10/04/2024 20:38:36 by Abdullah Ollivierre
-
-EnhancedModuleStarterAO for PowerShell scripts.
-
-__Downloads__: 998 | __Repository__: 
 
 ## [EnhancedLoggingAO](https://www.powershellgallery.com/Packages/EnhancedLoggingAO/0.0.90) | 0.0.90
 
@@ -597,6 +629,14 @@ EnhancedPSADTAO for PowerShell scripts.
 
 __Downloads__: 487 | __Repository__: 
 
+## [EnhancedModuleStarterAO](https://www.powershellgallery.com/Packages/EnhancedModuleStarterAO/0.0.90) | 0.0.90
+
+### Published: 10/04/2024 20:38:36 by Abdullah Ollivierre
+
+EnhancedModuleStarterAO for PowerShell scripts.
+
+__Downloads__: 998 | __Repository__: 
+
 ## [EnhancedIntuneAO](https://www.powershellgallery.com/Packages/EnhancedIntuneAO/0.0.14) | 0.0.14
 
 ### Published: 10/04/2024 20:38:34 by Abdullah Ollivierre
@@ -613,14 +653,6 @@ EnhancedHyperVAO for PowerShell scripts.
 
 __Downloads__: 482 | __Repository__: 
 
-## [EnhancedFileManagerAO](https://www.powershellgallery.com/Packages/EnhancedFileManagerAO/0.0.90) | 0.0.90
-
-### Published: 10/04/2024 20:38:33 by Abdullah Ollivierre
-
-EnhancedFileManagerAO for PowerShell scripts.
-
-__Downloads__: 486 | __Repository__: 
-
 ## [EnhancedGraphAO](https://www.powershellgallery.com/Packages/EnhancedGraphAO/0.0.90) | 0.0.90
 
 ### Published: 10/04/2024 20:38:33 by Abdullah Ollivierre
@@ -628,6 +660,14 @@ __Downloads__: 486 | __Repository__:
 EnhancedGraphAO for PowerShell scripts.
 
 __Downloads__: 485 | __Repository__: 
+
+## [EnhancedFileManagerAO](https://www.powershellgallery.com/Packages/EnhancedFileManagerAO/0.0.90) | 0.0.90
+
+### Published: 10/04/2024 20:38:33 by Abdullah Ollivierre
+
+EnhancedFileManagerAO for PowerShell scripts.
+
+__Downloads__: 486 | __Repository__: 
 
 ## [EnhancedDeviceMigrationAO](https://www.powershellgallery.com/Packages/EnhancedDeviceMigrationAO/0.0.90) | 0.0.90
 
@@ -707,7 +747,7 @@ __Downloads__: 164,794 | __Repository__: https://devolutions.net/
 
 2024 October 24H2 Update
 
-__Downloads__: 2,275,727 | __Repository__: https://github.com/OSDeploy/OSD
+__Downloads__: 2,275,792 | __Repository__: https://github.com/OSDeploy/OSD
 
 ## [Invokeall](https://www.powershellgallery.com/Packages/Invokeall/1.2.5) | 1.2.5
 
@@ -763,7 +803,7 @@ __Downloads__: 62 | __Repository__: https://github.com/Kaseya-Automation-Team/Ka
 
 PowerShell module, which makes it easier to work with Business Central Containers on Docker.
 
-__Downloads__: 2,305,811 | __Repository__: https://github.com/microsoft/navcontainerhelper
+__Downloads__: 2,305,843 | __Repository__: https://github.com/microsoft/navcontainerhelper
 
 ## [PsNtfs](https://www.powershellgallery.com/Packages/PsNtfs/2.0.209) | 2.0.209
 
@@ -1132,7 +1172,7 @@ __Downloads__: 5,958,408 | __Repository__: https://github.com/TheJumpCloud/suppo
 
 This module provides an interface to the NinjaOne API.
 
-__Downloads__: 17,705 | __Repository__: https://github.com/homotechsual/NinjaOne
+__Downloads__: 17,703 | __Repository__: https://github.com/homotechsual/NinjaOne
 
 ## [UnitySetup](https://www.powershellgallery.com/Packages/UnitySetup/6.0.190) | 6.0.190
 
@@ -2023,44 +2063,4 @@ This modules provides Cmdlets for OCI Databasemigration Service
 
 __Downloads__: 7,616 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-## [OCI.PSModules.Databasemanagement](https://www.powershellgallery.com/Packages/OCI.PSModules.Databasemanagement/92.0.0) | 92.0.0
-
-### Published: 10/01/2024 18:05:09 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Databasemanagement Service
-
-__Downloads__: 7,908 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Database](https://www.powershellgallery.com/Packages/OCI.PSModules.Database/92.0.0) | 92.0.0
-
-### Published: 10/01/2024 18:04:57 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Database Service
-
-__Downloads__: 17,117 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Dashboardservice](https://www.powershellgallery.com/Packages/OCI.PSModules.Dashboardservice/92.0.0) | 92.0.0
-
-### Published: 10/01/2024 18:04:45 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Dashboardservice Service
-
-__Downloads__: 6,975 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Core](https://www.powershellgallery.com/Packages/OCI.PSModules.Core/92.0.0) | 92.0.0
-
-### Published: 10/01/2024 18:04:37 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Core Service
-
-__Downloads__: 17,188 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Containerinstances](https://www.powershellgallery.com/Packages/OCI.PSModules.Containerinstances/92.0.0) | 92.0.0
-
-### Published: 10/01/2024 18:04:26 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Containerinstances Service
-
-__Downloads__: 5,086 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-*Updated: Monday, 07 October 2024 17:51:48 UTC*
+*Updated: Tuesday, 08 October 2024 02:16:07 UTC*
