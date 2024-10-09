@@ -3,9 +3,91 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
-## [Retry](https://www.powershellgallery.com/Packages/Retry/0.1.1) | 0.1.1
+## [quickpath](https://www.powershellgallery.com/Packages/quickpath/0.1.7) | 0.1.7
 
-### Published: 10/09/2024 09:34:46 by PSModule
+### Published: 10/09/2024 17:34:55 by Mark Visschers
+
+'quickpath' is a script to help easily navigate your system using the commandline.
+        Using aliases the script saves relative paths to quickly navigate to folders associated with the alias
+        and even makes it easy to open the folders/projects in your favorite tools.
+
+__Downloads__: 8 | __Repository__: 
+
+## [PowerValidatedSolutions](https://www.powershellgallery.com/Packages/PowerValidatedSolutions/2.12.0.1050) | 2.12.0.1050
+
+### Published: 10/09/2024 16:18:57 by Broadcom
+
+PowerShell Module for VMware Validated Solutions
+
+__Downloads__: 11,502 | __Repository__: https://vmware.github.io/power-validated-solutions-for-cloud-foundation/
+
+## [Microsoft.Xrm.Data.Powershell](https://www.powershellgallery.com/Packages/Microsoft.Xrm.Data.Powershell/2.8.21) | 2.8.21
+
+### Published: 10/09/2024 15:59:50 by Sean McNellis Kenichiro Nakamura
+
+This module applies many helpful functions which use the Microsoft.Xrm.Tooling.CrmConnector.Powershell CrmServiceClient. Functions are included to create, delete, query, and update data as well as functions for common tasks such as publishing, and manipulating System and DataVerse User Settings, etc. The module should function for both Dynamics Customer Engagement Online, DataVerse environments, and On-Premise environments.
+
+__Downloads__: 4,520,361 | __Repository__: https://github.com/seanmcne/Microsoft.Xrm.Data.PowerShell
+
+## [PS.Selenium](https://www.powershellgallery.com/Packages/PS.Selenium/1.40) | 1.40
+
+### Published: 10/09/2024 15:28:17 by David Nuttall
+
+Wraps Selenium
+
+__Downloads__: 556 | __Repository__: https://github.com/Druid-Nutstone/Ps.Utilities.Help/blob/main/ReadmeSelenium.md
+
+## [TMD.Common](https://www.powershellgallery.com/Packages/TMD.Common/2.6.1) | 2.6.1
+
+### Published: 10/09/2024 15:15:35 by TransitionManager
+
+Provides commands to an end user within TMD PowerShell Scripts.
+
+__Downloads__: 1,425 | __Repository__: 
+
+## [SdnDiagnostics](https://www.powershellgallery.com/Packages/SdnDiagnostics/4.2410.1182.140029) | 4.2410.1182.140029
+
+### Published: 10/09/2024 14:06:24 by Adam Rudell Luyao Feng
+
+SdnDiagnostics is a tool used to simplify the data collection and diagnostics of Windows Software Defined Networking.
+
+__Downloads__: 43,686 | __Repository__: https://github.com/microsoft/SdnDiagnostics
+
+## [Graph.EasyPIM](https://www.powershellgallery.com/Packages/Graph.EasyPIM/0.0.6) | 0.0.6
+
+### Published: 10/09/2024 13:30:59 by Rakhesh Sasidharan
+
+Making the end-user experience of Entra ID PIM slightly easier.
+
+__Downloads__: 20 | __Repository__: https://github.com/rakheshster/PowerShell-GraphEasyPIM
+
+## [Lomtec.com.SourceCode](https://www.powershellgallery.com/Packages/Lomtec.com.SourceCode/1.6.0) | 1.6.0
+
+### Published: 10/09/2024 13:22:59 by Imrich Szolik
+
+Lomtec.com SourceCode cmdlets
+
+__Downloads__: 1,062 | __Repository__: 
+
+## [EntraFIDOFinder](https://www.powershellgallery.com/Packages/EntraFIDOFinder/0.0.7) | 0.0.7
+
+### Published: 10/09/2024 10:42:17 by Clayton Tyger
+
+PowerShell Module to find compatible attestation FIDO2 keys for Entra.
+
+__Downloads__: 98 | __Repository__: https://github.com/DevClate/EntraFIDOFinder
+
+## [PowerInfoblox](https://www.powershellgallery.com/Packages/PowerInfoblox/1.0.31) | 1.0.31
+
+### Published: 10/09/2024 10:40:51 by Przemyslaw Klys
+
+Helper module for Infoblox.
+
+__Downloads__: 303 | __Repository__: https://github.com/EvotecIT/PowerInfoblox
+
+## [Retry](https://www.powershellgallery.com/Packages/Retry/0.1.2) | 0.1.2
+
+### Published: 10/09/2024 10:06:17 by PSModule
 
 A PowerShell module to create a retry mechanism around functions
 
@@ -44,7 +126,7 @@ https://osdbuilder.osdeploy.com
 Requirements:
 PowerShell Module OSD 24.10.8.1 or newer
 
-__Downloads__: 241,528 | __Repository__: https://github.com/OSDeploy/OSDBuilder
+__Downloads__: 241,970 | __Repository__: https://github.com/OSDeploy/OSDBuilder
 
 ## [OSD](https://www.powershellgallery.com/Packages/OSD/24.10.8.1) | 24.10.8.1
 
@@ -55,7 +137,7 @@ https://osd.osdeploy.com
 
 Required for OSDCloud and OSDBuilder
 
-__Downloads__: 2,283,781 | __Repository__: https://github.com/OSDeploy/OSD
+__Downloads__: 2,288,324 | __Repository__: https://github.com/OSDeploy/OSD
 
 ## [BulkToken](https://www.powershellgallery.com/Packages/BulkToken/1.1) | 1.1
 
@@ -456,7 +538,7 @@ __Downloads__: 10,343 | __Repository__: https://github.com/oracle/oci-powershell
 
 This modules provides Cmdlets for OCI Ocicontrolcenter Service
 
-__Downloads__: 4,320 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+__Downloads__: 4,321 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
 ## [OCI.PSModules.Oce](https://www.powershellgallery.com/Packages/OCI.PSModules.Oce/92.1.0) | 92.1.0
 
@@ -944,7 +1026,7 @@ __Downloads__: 8,542 | __Repository__: https://github.com/oracle/oci-powershell-
 
 This modules provides Cmdlets for OCI Databasetools Service
 
-__Downloads__: 6,925 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+__Downloads__: 6,924 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
 ## [OCI.PSModules.Databasemigration](https://www.powershellgallery.com/Packages/OCI.PSModules.Databasemigration/92.1.0) | 92.1.0
 
@@ -1264,31 +1346,7 @@ __Downloads__: 4,755 | __Repository__: https://github.com/oracle/oci-powershell-
 
 OCI Common module exports Cmdlets that manages features offered by OCI Modules for Powershell like History Store, OCI Configuration file setup and Per-Session Region/Config/Profile preferences. Common module also contains some functionalties that are common to all OCI Service modules, therefore all OCI Service modules depends on Common module.
 
-__Downloads__: 266,581 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [Graph.EasyPIM](https://www.powershellgallery.com/Packages/Graph.EasyPIM/0.0.3) | 0.0.3
-
-### Published: 10/08/2024 19:07:21 by Rakhesh Sasidharan
-
-Making the end-user experience of Entra ID PIM slightly easier.
-
-__Downloads__: 20 | __Repository__: https://github.com/rakheshster/PowerShell-GraphEasyPIM
-
-## [PS.Selenium](https://www.powershellgallery.com/Packages/PS.Selenium/1.37) | 1.37
-
-### Published: 10/08/2024 18:36:52 by David Nuttall
-
-Wraps Selenium
-
-__Downloads__: 556 | __Repository__: https://github.com/Druid-Nutstone/Ps.Utilities.Help/blob/main/ReadmeSelenium.md
-
-## [EnhancedWin32DeployerAO](https://www.powershellgallery.com/Packages/EnhancedWin32DeployerAO/0.0.91) | 0.0.91
-
-### Published: 10/08/2024 18:24:19 by Abdullah Ollivierre
-
-EnhancedWin32DeployerAO for PowerShell scripts.
-
-__Downloads__: 484 | __Repository__: 
+__Downloads__: 266,702 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
 ## [EnhancedVPNAO](https://www.powershellgallery.com/Packages/EnhancedVPNAO/0.0.91) | 0.0.91
 
@@ -1297,6 +1355,14 @@ __Downloads__: 484 | __Repository__:
 EnhancedVPNAO for PowerShell scripts.
 
 __Downloads__: 479 | __Repository__: 
+
+## [EnhancedWin32DeployerAO](https://www.powershellgallery.com/Packages/EnhancedWin32DeployerAO/0.0.91) | 0.0.91
+
+### Published: 10/08/2024 18:24:19 by Abdullah Ollivierre
+
+EnhancedWin32DeployerAO for PowerShell scripts.
+
+__Downloads__: 484 | __Repository__: 
 
 ## [EnhancedSPOAO](https://www.powershellgallery.com/Packages/EnhancedSPOAO/0.0.90) | 0.0.90
 
@@ -1314,14 +1380,6 @@ EnhancedSchedTaskAO for PowerShell scripts.
 
 __Downloads__: 486 | __Repository__: 
 
-## [EnhancedPSTools](https://www.powershellgallery.com/Packages/EnhancedPSTools/0.0.30) | 0.0.30
-
-### Published: 10/08/2024 18:24:17 by Abdullah Ollivierre
-
-EnhancedPSTools for PowerShell scripts.
-
-__Downloads__: 519 | __Repository__: 
-
 ## [EnhancedSecretsAO](https://www.powershellgallery.com/Packages/EnhancedSecretsAO/0.0.11) | 0.0.11
 
 ### Published: 10/08/2024 18:24:17 by Abdullah Ollivierre
@@ -1329,6 +1387,14 @@ __Downloads__: 519 | __Repository__:
 EnhancedSecretsAO for PowerShell scripts.
 
 __Downloads__: 36 | __Repository__: 
+
+## [EnhancedPSTools](https://www.powershellgallery.com/Packages/EnhancedPSTools/0.0.30) | 0.0.30
+
+### Published: 10/08/2024 18:24:17 by Abdullah Ollivierre
+
+EnhancedPSTools for PowerShell scripts.
+
+__Downloads__: 519 | __Repository__: 
 
 ## [EnhancedPSADTAO](https://www.powershellgallery.com/Packages/EnhancedPSADTAO/0.0.91) | 0.0.91
 
@@ -1386,14 +1452,6 @@ EnhancedFileManagerAO for PowerShell scripts.
 
 __Downloads__: 488 | __Repository__: 
 
-## [EnhancedDeviceMigrationAO](https://www.powershellgallery.com/Packages/EnhancedDeviceMigrationAO/0.0.91) | 0.0.91
-
-### Published: 10/08/2024 18:24:11 by Abdullah Ollivierre
-
-EnhancedDeviceMigrationAO for PowerShell scripts.
-
-__Downloads__: 487 | __Repository__: 
-
 ## [EnhancedAO.Graph.SignInLogs](https://www.powershellgallery.com/Packages/EnhancedAO.Graph.SignInLogs/0.0.91) | 0.0.91
 
 ### Published: 10/08/2024 18:24:11 by Abdullah Ollivierre
@@ -1401,6 +1459,14 @@ __Downloads__: 487 | __Repository__:
 EnhancedAO.Graph.SignInLogs for PowerShell scripts.
 
 __Downloads__: 492 | __Repository__: 
+
+## [EnhancedDeviceMigrationAO](https://www.powershellgallery.com/Packages/EnhancedDeviceMigrationAO/0.0.91) | 0.0.91
+
+### Published: 10/08/2024 18:24:11 by Abdullah Ollivierre
+
+EnhancedDeviceMigrationAO for PowerShell scripts.
+
+__Downloads__: 487 | __Repository__: 
 
 ## [Diagrammer.Microsoft.AD](https://www.powershellgallery.com/Packages/Diagrammer.Microsoft.AD/0.2.5) | 0.2.5
 
@@ -1424,15 +1490,7 @@ __Downloads__: 20,048 | __Repository__: https://github.com/rebelinux/Diagrammer.
 
 Cmdlets for Twincat ADS and device management for Powershell Core and Windows Powershell
 
-__Downloads__: 28,018 | __Repository__: https://infosys.beckhoff.com/content/1033/tc3_ads_ps_tcxaemgmt/3972231819.html?id=8731138690123386389
-
-## [Microsoft.Xrm.Data.Powershell](https://www.powershellgallery.com/Packages/Microsoft.Xrm.Data.Powershell/2.8.20) | 2.8.20
-
-### Published: 10/08/2024 15:20:30 by Sean McNellis Kenichiro Nakamura
-
-This module applies many helpful functions which use the Microsoft.Xrm.Tooling.CrmConnector.Powershell CrmServiceClient. Functions are included to create, delete, query, and update data as well as functions for common tasks such as publishing, and manipulating System and DataVerse User Settings, etc. The module should function for both Dynamics Customer Engagement Online, DataVerse environments, and On-Premise environments.
-
-__Downloads__: 4,520,288 | __Repository__: https://github.com/seanmcne/Microsoft.Xrm.Data.PowerShell
+__Downloads__: 28,053 | __Repository__: https://infosys.beckhoff.com/content/1033/tc3_ads_ps_tcxaemgmt/3972231819.html?id=8731138690123386389
 
 ## [PowerShellRun](https://www.powershellgallery.com/Packages/PowerShellRun/0.9.0) | 0.9.0
 
@@ -1456,7 +1514,7 @@ __Downloads__: 37,729 | __Repository__:
 
 Master module for a collection of modules. These modules are varied in their tasks. The overall purpose of them being to provide a powerfull Toolset to improve IT Admin workflows.
 
-__Downloads__: 76,682 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox
+__Downloads__: 76,875 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox
 
 ## [AdminToolbox.FortiWizard](https://www.powershellgallery.com/Packages/AdminToolbox.FortiWizard/2.20.0.7) | 2.20.0.7
 
@@ -1496,7 +1554,7 @@ __Downloads__: 68,140 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Network Troubleshooting Functions
 
-__Downloads__: 171,575 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 171,963 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.MSGraph](https://www.powershellgallery.com/Packages/AdminToolbox.MSGraph/1.5.0.4) | 1.5.0.4
 
@@ -1504,7 +1562,7 @@ __Downloads__: 171,575 | __Repository__: https://github.com/TheTaylorLee/AdminTo
 
 Microsoft Graph interactive API Functions
 
-__Downloads__: 51,985 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 52,166 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.Fun](https://www.powershellgallery.com/Packages/AdminToolbox.Fun/1.7.0.7) | 1.7.0.7
 
@@ -1536,7 +1594,7 @@ __Downloads__: 64,974 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions for Exchange Management
 
-__Downloads__: 68,896 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 69,142 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.EndpointManagement](https://www.powershellgallery.com/Packages/AdminToolbox.EndpointManagement/4.11.0.7) | 4.11.0.7
 
@@ -1544,7 +1602,7 @@ __Downloads__: 68,896 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions for management of endpoints
 
-__Downloads__: 76,723 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 76,967 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [MyPSFunctions](https://www.powershellgallery.com/Packages/MyPSFunctions/1.4) | 1.4
 
@@ -1560,7 +1618,7 @@ __Downloads__: 433 | __Repository__:
 
 Functions for Active Directory
 
-__Downloads__: 75,832 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 76,065 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [EntraAuth](https://www.powershellgallery.com/Packages/EntraAuth/1.3.18) | 1.3.18
 
@@ -1577,14 +1635,6 @@ __Downloads__: 2,862 | __Repository__: https://github.com/FriedrichWeinmann/Entr
 Framework to deploy Azure resouces with PowerShell, Bicep, or Terraform
 
 __Downloads__: 536 | __Repository__: 
-
-## [LDXLogging](https://www.powershellgallery.com/Packages/LDXLogging/0.99.91) | 0.99.91
-
-### Published: 10/08/2024 12:52:27 by Leif Almberg Niklas Goude
-
-AB Lindex Log Module
-
-__Downloads__: 238 | __Repository__: 
 
 ## [PSAYX](https://www.powershellgallery.com/Packages/PSAYX/1.1.1) | 1.1.1
 
@@ -1664,7 +1714,7 @@ __Downloads__: 1,242 | __Repository__: https://github.com/brianary/SelectHtml/
 
 Module for PowerShell Universal.
 
-__Downloads__: 138,001 | __Repository__: https://ironmansoftware.com/powershell-universal
+__Downloads__: 138,295 | __Repository__: https://ironmansoftware.com/powershell-universal
 
 ## [AnyPackage.Msu](https://www.powershellgallery.com/Packages/AnyPackage.Msu/0.3.1) | 0.3.1
 
@@ -1704,14 +1754,6 @@ __Downloads__: 26 | __Repository__: https://github.com/HumanAgainstMachine/Windo
 Powershell Module for confguration of JetStream Software on AVS
 
 __Downloads__: 2,889 | __Repository__: https://www.jetstreamsoft.com/about/support/
-
-## [TMD.Common](https://www.powershellgallery.com/Packages/TMD.Common/2.6.0) | 2.6.0
-
-### Published: 10/07/2024 17:20:41 by TransitionManager
-
-Provides commands to an end user within TMD PowerShell Scripts.
-
-__Downloads__: 1,425 | __Repository__: 
 
 ## [milvus](https://www.powershellgallery.com/Packages/milvus/0.0.3) | 0.0.3
 
@@ -1761,14 +1803,6 @@ A module to convert stuff.
 
 __Downloads__: 4 | __Repository__: https://github.com/alainQtec/cliHelper.xconvert
 
-## [Lomtec.com.SourceCode](https://www.powershellgallery.com/Packages/Lomtec.com.SourceCode/1.5.6) | 1.5.6
-
-### Published: 10/07/2024 11:52:43 by Imrich Szolik
-
-Lomtec.com SourceCode cmdlets
-
-__Downloads__: 1,062 | __Repository__: 
-
 ## [Store](https://www.powershellgallery.com/Packages/Store/0.2.0) | 0.2.0
 
 ### Published: 10/07/2024 11:37:08 by PSModule
@@ -1777,16 +1811,6 @@ A PowerShell module that manages a store of secrets and variables.
 
 __Downloads__: 24,844 | __Repository__: https://github.com/PSModule/Store
 
-## [quickpath](https://www.powershellgallery.com/Packages/quickpath/0.0.5) | 0.0.5
-
-### Published: 10/07/2024 10:04:02 by Mark Visschers
-
-'quickpath' is a script to help easily navigate your system using the commandline.
-        Using aliases the script saves relative paths to quickly navigate to folders associated with the alias
-        and even makes it easy to open the folders/projects in your favorite tools.
-
-__Downloads__: 8 | __Repository__: 
-
 ## [Sodium](https://www.powershellgallery.com/Packages/Sodium/0.1.0) | 0.1.0
 
 ### Published: 10/07/2024 09:43:43 by PSModule
@@ -1794,14 +1818,6 @@ __Downloads__: 8 | __Repository__:
 A PowerShell module for handling Sodium encrypted secrets.
 
 __Downloads__: 44 | __Repository__: https://github.com/PSModule/Sodium
-
-## [SMART-BcBuildHelper](https://www.powershellgallery.com/Packages/SMART-BcBuildHelper/1.5.34) | 1.5.34
-
-### Published: 10/07/2024 09:32:25 by SMART business
-
-Module SMART-BcBuildHelper
-
-__Downloads__: 19,973 | __Repository__: 
 
 ## [PublicIP](https://www.powershellgallery.com/Packages/PublicIP/1.1.0) | 1.1.0
 
@@ -1841,7 +1857,7 @@ __Downloads__: 1,489 | __Repository__: https://github.com/PSModule/PowerShellGal
 
 Manage PIM Azure Resource, PIM Entra role and PIM for Group settings and assignments with simplicity in mind
 
-__Downloads__: 5,925 | __Repository__: https://github.com/kayasax/EasyPIM/
+__Downloads__: 5,923 | __Repository__: https://github.com/kayasax/EasyPIM/
 
 ## [IONModule](https://www.powershellgallery.com/Packages/IONModule/0.0.4) | 0.0.4
 
@@ -1961,7 +1977,7 @@ __Downloads__: 3,019 | __Repository__: https://github.com/MrSeekatar/K8sUtils
 
 PSAI brings OpenAI ChatGPT to PowerShell, leveraging advanced AI capabilities in your PowerShell scripts for dynamic, intelligent automation and data processing
 
-__Downloads__: 8,495 | __Repository__: https://github.com/dfinke/PSAI
+__Downloads__: 8,494 | __Repository__: https://github.com/dfinke/PSAI
 
 ## [PS.Reporting](https://www.powershellgallery.com/Packages/PS.Reporting/1.5) | 1.5
 
@@ -1987,14 +2003,6 @@ The unofficial toolkit for Microsoft Copilot
 
 __Downloads__: 475 | __Repository__: https://github.com/code365opensource/microsoft.copilot.toolkit/
 
-## [EntraFIDOFinder](https://www.powershellgallery.com/Packages/EntraFIDOFinder/0.0.6) | 0.0.6
-
-### Published: 10/06/2024 11:56:53 by Clayton Tyger
-
-PowerShell Module to find compatible attestation FIDO2 keys for Entra.
-
-__Downloads__: 98 | __Repository__: https://github.com/DevClate/EntraFIDOFinder
-
 ## [PSCloudPC](https://www.powershellgallery.com/Packages/PSCloudPC/1.0.13) | 1.0.13
 
 ### Published: 10/06/2024 10:40:26 by Stefan Dingemanse Niels Kok
@@ -2009,16 +2017,6 @@ __Downloads__: 8,091 | __Repository__: https://github.com/Windows365Management/P
 
 An assortment of useful PowerShell scripts
 
-__Downloads__: 69,276 | __Repository__: https://github.com/ralish/PSWinGlue
+__Downloads__: 69,344 | __Repository__: https://github.com/ralish/PSWinGlue
 
-## [Osprey](https://www.powershellgallery.com/Packages/Osprey/1.0.3) | 1.0.3
-
-### Published: 10/05/2024 22:20:13 by Damien Miller-McAndrews
-
-Microsoft 365 Incident Response and Threat Hunting PowerShell tool.
-    Osprey is designed to ease the burden on M365 administrators who are performing Cloud forensic tasks for their organization.
-    It accelerates the gathering of data from multiple sources in the service that be used to quickly identify malicious presence and activity.
-
-__Downloads__: 54 | __Repository__: https://github.com/syne0/Osprey
-
-*Updated: Wednesday, 09 October 2024 09:51:41 UTC*
+*Updated: Wednesday, 09 October 2024 17:51:47 UTC*

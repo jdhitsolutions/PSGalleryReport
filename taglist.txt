@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Wednesday, 09 October 2024 09:51:50 UTC
+Updated: Wednesday, 09 October 2024 17:51:56 UTC
 
 .bat
 .env
@@ -16,6 +16,7 @@ Updated: Wednesday, 09 October 2024 09:51:50 UTC
 {modulenameplaceholder}
 **psedition_desktop**
 **windows**
+🍄
 🍣
 💩
 🙇
@@ -900,6 +901,8 @@ biztalkdeploymentframework
 bks
 black
 blackbaud
+blackberry
+blackberryuem
 blackbox
 blacklist
 blade
@@ -945,6 +948,7 @@ bootstrap
 bootstrapping
 bop
 bot
+bots
 botservice
 bouncer
 boundaries
@@ -1004,7 +1008,6 @@ buildkit
 buildkite
 buildmaster
 builds
-buildtool
 bulk
 bulletin
 bullhorn
@@ -1847,7 +1850,6 @@ db2
 dba
 dbaas
 dbai
-dbase
 dbassistant
 dbatools
 dbcommand
@@ -2133,6 +2135,8 @@ docusign
 docx
 dod
 dog
+dog-names
+dogs
 dogstatsd
 dok
 dokuwiki
@@ -2810,7 +2814,6 @@ forwardedevents
 foudil
 foundationmodels
 fox
-foxpro
 fqdn
 frame
 framework
@@ -2974,6 +2977,7 @@ gh
 gh-actions
 ghactions
 ghc
+ghibli
 ghost
 gif
 gifs
@@ -2982,6 +2986,7 @@ gist
 git
 git-client
 git-clone
+git-flow
 git-lfs
 git-proxy
 git-rename
@@ -3629,7 +3634,6 @@ ish
 ishexstring
 isnumeric
 iso
-iso-3166-1
 iso-8601
 ispac
 isprime
@@ -3801,6 +3805,7 @@ kodi
 korn
 kotlin
 kql
+kraken
 krane
 krbtgt
 krick
@@ -4549,6 +4554,7 @@ nac
 nagios
 nakivo
 name
+name-of-dogs
 namedpipe
 nameit
 nameresolution
@@ -4583,6 +4589,8 @@ neo4j
 neovim
 neptune
 nerdfonts
+nerdio
+nerdioapi
 nerdymishka
 nessus
 nested
@@ -4684,6 +4692,7 @@ nlm
 nlog
 nmap
 nmbell
+nmm
 nntp
 node
 nodejs
@@ -5191,6 +5200,7 @@ pipenv
 pipescript
 piraeus
 piv
+pivot
 pivotal
 pivottable
 pixoo
@@ -5321,6 +5331,7 @@ poshy-wrap-forgit
 poshy-wrap-gem
 poshy-wrap-gh
 poshy-wrap-git
+poshy-wrap-git-flow
 poshy-wrap-git-lfs
 poshy-wrap-golang
 poshy-wrap-helm
@@ -5965,10 +5976,12 @@ pscommand_gcamg
 pscommand_gcams
 pscommand_gcamu
 pscommand_gcb
+pscommand_gcd
 pscommand_gcem
 pscommand_gcf
 pscommand_gcfl
 pscommand_gcfls
+pscommand_gch
 pscommand_gci
 pscommand_gcl
 pscommand_gclcd
@@ -5991,6 +6004,7 @@ pscommand_gcp
 pscommand_gcpa
 pscommand_gcpc
 pscommand_gcpx
+pscommand_gcr
 pscommand_gcsam
 pscommand_gct
 pscommand_gd
@@ -6085,6 +6099,27 @@ pscommand_geun
 pscommand_gexport
 pscommand_gf
 pscommand_gfa
+pscommand_gfl
+pscommand_gflf
+pscommand_gflff
+pscommand_gflffc
+pscommand_gflfp
+pscommand_gflfpc
+pscommand_gflfpll
+pscommand_gflfs
+pscommand_gflh
+pscommand_gflhf
+pscommand_gflhfc
+pscommand_gflhp
+pscommand_gflhpc
+pscommand_gflhs
+pscommand_gfli
+pscommand_gflr
+pscommand_gflrf
+pscommand_gflrfc
+pscommand_gflrp
+pscommand_gflrpc
+pscommand_gflrs
 pscommand_gfo
 pscommand_gft
 pscommand_gftv
@@ -6361,6 +6396,27 @@ pscommand_invoke-gitconfig
 pscommand_invoke-gitdifftool
 pscommand_invoke-gitfetch
 pscommand_invoke-gitfetchorigin
+pscommand_invoke-gitflow
+pscommand_invoke-gitflowfeature
+pscommand_invoke-gitflowfeaturefinish
+pscommand_invoke-gitflowfeaturefinishcurrent
+pscommand_invoke-gitflowfeaturepublish
+pscommand_invoke-gitflowfeaturepublishcurrent
+pscommand_invoke-gitflowfeaturepull
+pscommand_invoke-gitflowfeaturestart
+pscommand_invoke-gitflowhotfix
+pscommand_invoke-gitflowhotfixfinish
+pscommand_invoke-gitflowhotfixfinishcurrent
+pscommand_invoke-gitflowhotfixpublish
+pscommand_invoke-gitflowhotfixpublishcurrent
+pscommand_invoke-gitflowhotfixstart
+pscommand_invoke-gitflowinit
+pscommand_invoke-gitflowrelease
+pscommand_invoke-gitflowreleasefinish
+pscommand_invoke-gitflowreleasefinishcurrent
+pscommand_invoke-gitflowreleasepublish
+pscommand_invoke-gitflowreleasepublishcurrent
+pscommand_invoke-gitflowreleasestart
 pscommand_invoke-gitgui
 pscommand_invoke-githubapi
 pscommand_invoke-githubapi-bodyempty
@@ -7220,6 +7276,9 @@ pscommand_use-gitbranchmain
 pscommand_use-gitbranchnew
 pscommand_use-gitbranchprevious
 pscommand_use-gitbranchtracked
+pscommand_use-gitflowbranchdevelop
+pscommand_use-gitflowbranchhotfix
+pscommand_use-gitflowbranchrelease
 pscommand_use-gitstashentry
 pscommand_uuid
 pscommand_uuidgen
@@ -7749,6 +7808,27 @@ psfunction_invoke-gitconfig
 psfunction_invoke-gitdifftool
 psfunction_invoke-gitfetch
 psfunction_invoke-gitfetchorigin
+psfunction_invoke-gitflow
+psfunction_invoke-gitflowfeature
+psfunction_invoke-gitflowfeaturefinish
+psfunction_invoke-gitflowfeaturefinishcurrent
+psfunction_invoke-gitflowfeaturepublish
+psfunction_invoke-gitflowfeaturepublishcurrent
+psfunction_invoke-gitflowfeaturepull
+psfunction_invoke-gitflowfeaturestart
+psfunction_invoke-gitflowhotfix
+psfunction_invoke-gitflowhotfixfinish
+psfunction_invoke-gitflowhotfixfinishcurrent
+psfunction_invoke-gitflowhotfixpublish
+psfunction_invoke-gitflowhotfixpublishcurrent
+psfunction_invoke-gitflowhotfixstart
+psfunction_invoke-gitflowinit
+psfunction_invoke-gitflowrelease
+psfunction_invoke-gitflowreleasefinish
+psfunction_invoke-gitflowreleasefinishcurrent
+psfunction_invoke-gitflowreleasepublish
+psfunction_invoke-gitflowreleasepublishcurrent
+psfunction_invoke-gitflowreleasestart
 psfunction_invoke-gitgui
 psfunction_invoke-githubapi
 psfunction_invoke-githubapi-bodyempty
@@ -8376,6 +8456,9 @@ psfunction_use-gitbranchmain
 psfunction_use-gitbranchnew
 psfunction_use-gitbranchprevious
 psfunction_use-gitbranchtracked
+psfunction_use-gitflowbranchdevelop
+psfunction_use-gitflowbranchhotfix
+psfunction_use-gitflowbranchrelease
 psfunction_use-gitstashentry
 psfunction_write-gitcommit
 psfunction_write-gitcommitall
@@ -8417,7 +8500,6 @@ psloganalytics
 psm
 psm1
 psmodule
-psmodule psedition_desktop
 psmodulepath
 psmodules
 psmp
@@ -8863,7 +8945,6 @@ retention
 retro
 retry
 returnuserprofile
-retype
 reuse
 reverse-engineer
 reverse-string
@@ -10007,6 +10088,8 @@ terminalnotifier
 terminalvelocity
 termset
 terraform
+terraform-docs
+terraform-switcher
 terraformcloud
 terrafun
 terragrunt
@@ -10060,6 +10143,7 @@ tflint
 tfs
 tfscmdlets
 tfsec
+tfswitch
 tftd
 tftp
 tfvars
@@ -10163,6 +10247,7 @@ tracert
 tracing
 tracker
 tracking
+trading
 traffic
 trafficfiltering
 trafficmanager
@@ -10342,6 +10427,7 @@ udr
 udthememode
 udword
 uefi
+uem
 ui
 ui/ux
 ui7
@@ -11107,6 +11193,7 @@ youtube
 youtube-dl
 youtubeextractor
 yq
+yubaba
 yubikey
 yum
 z
@@ -11146,3 +11233,4 @@ zypper
 全角半角変換
 寿司
 日本語
+湯婆婆
