@@ -3,6 +3,30 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [Retry](https://www.powershellgallery.com/Packages/Retry/0.1.1) | 0.1.1
+
+### Published: 10/09/2024 09:34:46 by PSModule
+
+A PowerShell module to create a retry mechanism around functions
+
+__Downloads__: 4 | __Repository__: https://github.com/PSModule/Retry
+
+## [PsDataFactory](https://www.powershellgallery.com/Packages/PsDataFactory/0.2.0) | 0.2.0
+
+### Published: 10/09/2024 09:27:12 by Steffen Kampmann
+
+PowerShell module to generate DataFactory pipelines and datasets.
+
+__Downloads__: 6,300 | __Repository__: https://abbgrade.github.io/PsDataFactory/
+
+## [PSEasyOpenSSH](https://www.powershellgallery.com/Packages/PSEasyOpenSSH/0.0.13) | 0.0.13
+
+### Published: 10/09/2024 03:42:23 by Michael Free
+
+Simple tools to mangage the installation and operation of OpenSSH server on a Windows host.
+
+__Downloads__: 0 | __Repository__: https://github.com/Michael-Free/PSEasyOpenSSH
+
 ## [PowerCommander](https://www.powershellgallery.com/Packages/PowerCommander/0.9.14) | 0.9.14
 
 ### Published: 10/09/2024 01:09:45 by Keeper Security Inc.
@@ -31,7 +55,7 @@ https://osd.osdeploy.com
 
 Required for OSDCloud and OSDBuilder
 
-__Downloads__: 2,283,819 | __Repository__: https://github.com/OSDeploy/OSD
+__Downloads__: 2,283,781 | __Repository__: https://github.com/OSDeploy/OSD
 
 ## [BulkToken](https://www.powershellgallery.com/Packages/BulkToken/1.1) | 1.1
 
@@ -56,7 +80,7 @@ __Downloads__: 234 | __Repository__: https://github.com/themodulecollective/OGra
 Oracle Cloud Infrastructure (OCI) PowerShell Modules - Cmdlets to manage resources in OCI.
 For more information, please visit: https://docs.oracle.com/en-us/iaas/Content/API/SDKDocs/powershell.htm
 
-__Downloads__: 5,988 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+__Downloads__: 5,989 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
 ## [OCI.PSModules.Zpr](https://www.powershellgallery.com/Packages/OCI.PSModules.Zpr/92.1.0) | 92.1.0
 
@@ -432,7 +456,7 @@ __Downloads__: 10,343 | __Repository__: https://github.com/oracle/oci-powershell
 
 This modules provides Cmdlets for OCI Ocicontrolcenter Service
 
-__Downloads__: 4,321 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+__Downloads__: 4,320 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
 ## [OCI.PSModules.Oce](https://www.powershellgallery.com/Packages/OCI.PSModules.Oce/92.1.0) | 92.1.0
 
@@ -1330,14 +1354,6 @@ EnhancedModuleStarterAO for PowerShell scripts.
 
 __Downloads__: 1,042 | __Repository__: 
 
-## [EnhancedIntuneAO](https://www.powershellgallery.com/Packages/EnhancedIntuneAO/0.0.15) | 0.0.15
-
-### Published: 10/08/2024 18:24:14 by Abdullah Ollivierre
-
-EnhancedIntuneAO for PowerShell scripts.
-
-__Downloads__: 50 | __Repository__: 
-
 ## [EnhancedHyperVAO](https://www.powershellgallery.com/Packages/EnhancedHyperVAO/0.0.90) | 0.0.90
 
 ### Published: 10/08/2024 18:24:14 by Abdullah Ollivierre
@@ -1345,6 +1361,14 @@ __Downloads__: 50 | __Repository__:
 EnhancedHyperVAO for PowerShell scripts.
 
 __Downloads__: 485 | __Repository__: 
+
+## [EnhancedIntuneAO](https://www.powershellgallery.com/Packages/EnhancedIntuneAO/0.0.15) | 0.0.15
+
+### Published: 10/08/2024 18:24:14 by Abdullah Ollivierre
+
+EnhancedIntuneAO for PowerShell scripts.
+
+__Downloads__: 50 | __Repository__: 
 
 ## [EnhancedGraphAO](https://www.powershellgallery.com/Packages/EnhancedGraphAO/0.0.91) | 0.0.91
 
@@ -1362,14 +1386,6 @@ EnhancedFileManagerAO for PowerShell scripts.
 
 __Downloads__: 488 | __Repository__: 
 
-## [EnhancedAO.Graph.SignInLogs](https://www.powershellgallery.com/Packages/EnhancedAO.Graph.SignInLogs/0.0.91) | 0.0.91
-
-### Published: 10/08/2024 18:24:11 by Abdullah Ollivierre
-
-EnhancedAO.Graph.SignInLogs for PowerShell scripts.
-
-__Downloads__: 492 | __Repository__: 
-
 ## [EnhancedDeviceMigrationAO](https://www.powershellgallery.com/Packages/EnhancedDeviceMigrationAO/0.0.91) | 0.0.91
 
 ### Published: 10/08/2024 18:24:11 by Abdullah Ollivierre
@@ -1378,13 +1394,21 @@ EnhancedDeviceMigrationAO for PowerShell scripts.
 
 __Downloads__: 487 | __Repository__: 
 
+## [EnhancedAO.Graph.SignInLogs](https://www.powershellgallery.com/Packages/EnhancedAO.Graph.SignInLogs/0.0.91) | 0.0.91
+
+### Published: 10/08/2024 18:24:11 by Abdullah Ollivierre
+
+EnhancedAO.Graph.SignInLogs for PowerShell scripts.
+
+__Downloads__: 492 | __Repository__: 
+
 ## [Diagrammer.Microsoft.AD](https://www.powershellgallery.com/Packages/Diagrammer.Microsoft.AD/0.2.5) | 0.2.5
 
 ### Published: 10/08/2024 17:36:52 by Jonathan Colon
 
 A PowerShell module to generate an as built report on the configuration of Microsoft AD.
 
-__Downloads__: 14,189 | __Repository__: https://github.com/rebelinux/Diagrammer.Microsoft.AD
+__Downloads__: 14,193 | __Repository__: https://github.com/rebelinux/Diagrammer.Microsoft.AD
 
 ## [Diagrammer.Core](https://www.powershellgallery.com/Packages/Diagrammer.Core/0.2.9) | 0.2.9
 
@@ -1392,7 +1416,7 @@ __Downloads__: 14,189 | __Repository__: https://github.com/rebelinux/Diagrammer.
 
 A PowerShell module which provides the core framework for generating Diagrams for many common datacentre systems.
 
-__Downloads__: 20,045 | __Repository__: https://github.com/rebelinux/Diagrammer.Core
+__Downloads__: 20,048 | __Repository__: https://github.com/rebelinux/Diagrammer.Core
 
 ## [TcXaeMgmt](https://www.powershellgallery.com/Packages/TcXaeMgmt/6.0.182) | 6.0.182
 
@@ -1400,7 +1424,7 @@ __Downloads__: 20,045 | __Repository__: https://github.com/rebelinux/Diagrammer.
 
 Cmdlets for Twincat ADS and device management for Powershell Core and Windows Powershell
 
-__Downloads__: 28,016 | __Repository__: https://infosys.beckhoff.com/content/1033/tc3_ads_ps_tcxaemgmt/3972231819.html?id=8731138690123386389
+__Downloads__: 28,018 | __Repository__: https://infosys.beckhoff.com/content/1033/tc3_ads_ps_tcxaemgmt/3972231819.html?id=8731138690123386389
 
 ## [Microsoft.Xrm.Data.Powershell](https://www.powershellgallery.com/Packages/Microsoft.Xrm.Data.Powershell/2.8.20) | 2.8.20
 
@@ -1464,7 +1488,7 @@ __Downloads__: 62,761 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions for working with Office365 and Azure modules
 
-__Downloads__: 68,139 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 68,140 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.Networking](https://www.powershellgallery.com/Packages/AdminToolbox.Networking/2.21.0.7) | 2.21.0.7
 
@@ -1512,7 +1536,7 @@ __Downloads__: 64,974 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions for Exchange Management
 
-__Downloads__: 68,897 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 68,896 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.EndpointManagement](https://www.powershellgallery.com/Packages/AdminToolbox.EndpointManagement/4.11.0.7) | 4.11.0.7
 
@@ -1553,14 +1577,6 @@ __Downloads__: 2,862 | __Repository__: https://github.com/FriedrichWeinmann/Entr
 Framework to deploy Azure resouces with PowerShell, Bicep, or Terraform
 
 __Downloads__: 536 | __Repository__: 
-
-## [Retry](https://www.powershellgallery.com/Packages/Retry/0.1.0) | 0.1.0
-
-### Published: 10/08/2024 12:59:31 by PSModule
-
-A PowerShell module to create a retry mechanism around functions
-
-__Downloads__: 4 | __Repository__: https://github.com/PSModule/Retry
 
 ## [LDXLogging](https://www.powershellgallery.com/Packages/LDXLogging/0.99.91) | 0.99.91
 
@@ -1849,7 +1865,7 @@ __Downloads__: 1,270 | __Repository__: https://migrate.rivermeadow.com/
 
 Automation tools for production quality database deployment
 
-__Downloads__: 5,982,358 | __Repository__: https://www.red-gate.com/sca/productpage
+__Downloads__: 5,982,383 | __Repository__: https://www.red-gate.com/sca/productpage
 
 ## [cliHelper.env](https://www.powershellgallery.com/Packages/cliHelper.env/0.1.0) | 0.1.0
 
@@ -1945,7 +1961,7 @@ __Downloads__: 3,019 | __Repository__: https://github.com/MrSeekatar/K8sUtils
 
 PSAI brings OpenAI ChatGPT to PowerShell, leveraging advanced AI capabilities in your PowerShell scripts for dynamic, intelligent automation and data processing
 
-__Downloads__: 8,494 | __Repository__: https://github.com/dfinke/PSAI
+__Downloads__: 8,495 | __Repository__: https://github.com/dfinke/PSAI
 
 ## [PS.Reporting](https://www.powershellgallery.com/Packages/PS.Reporting/1.5) | 1.5
 
@@ -1977,7 +1993,7 @@ __Downloads__: 475 | __Repository__: https://github.com/code365opensource/micros
 
 PowerShell Module to find compatible attestation FIDO2 keys for Entra.
 
-__Downloads__: 99 | __Repository__: https://github.com/DevClate/EntraFIDOFinder
+__Downloads__: 98 | __Repository__: https://github.com/DevClate/EntraFIDOFinder
 
 ## [PSCloudPC](https://www.powershellgallery.com/Packages/PSCloudPC/1.0.13) | 1.0.13
 
@@ -1993,7 +2009,7 @@ __Downloads__: 8,091 | __Repository__: https://github.com/Windows365Management/P
 
 An assortment of useful PowerShell scripts
 
-__Downloads__: 69,277 | __Repository__: https://github.com/ralish/PSWinGlue
+__Downloads__: 69,276 | __Repository__: https://github.com/ralish/PSWinGlue
 
 ## [Osprey](https://www.powershellgallery.com/Packages/Osprey/1.0.3) | 1.0.3
 
@@ -2005,67 +2021,4 @@ Microsoft 365 Incident Response and Threat Hunting PowerShell tool.
 
 __Downloads__: 54 | __Repository__: https://github.com/syne0/Osprey
 
-## [Harden-Windows-Security-Module](https://www.powershellgallery.com/Packages/Harden-Windows-Security-Module/0.6.5) | 0.6.5
-
-### Published: 10/05/2024 21:35:11 by Violet Hansen
-
-Harden Windows Safely, Securely, only with Official Microsoft methods - 🦄 Intune - 🧩 Group Policy - 🛡️ Local - ☁️ Cloud (All scenarios supported 💯)
-
-⭕ This module provides 3 main features: Hardening, Auditing/checking the system compliance, and undoing the Hardening
-
-⭕ Please read the GitHub's readme before running this module: https://github.com/HotCakeX/Harden-Windows-Security
-
-💜 GUI (Graphical User Interface) is Available! Run (Protect-WindowsSecurity -GUI) to use the GUI instead of the CLI experience.
-
-💠 Features of this module:
-
-  ✅ Everything always stays up-to-date with the newest proactive security measures that are industry standards and scalable.
-  ✅ Everything is in plain text, nothing hidden, no 3rd party executable or pre-compiled binary is involved.
-  ✅ No Windows functionality is removed/disabled against Microsoft's recommendations.
-  ✅ The module primarily uses Group policies, the Microsoft recommended way of configuring Windows. It also uses PowerShell cmdlets where Group Policies aren't available, and finally uses a few registry keys to configure security measures that can neither be configured using Group Policies nor PowerShell cmdlets. This is why the module doesn't break anything or cause unwanted behavior.
-  ✅ When a hardening measure is no longer necessary because it's applied by default by Microsoft on new builds of Windows, it will also be removed from the module in order to prevent any problems and because it won't be necessary anymore.
-  ✅ The module can be run infinite number of times, it's made in a way that it won't make any duplicate changes.
-  ✅ The module prompts for confirmation before running each hardening category.
-  ✅ Applying these hardening measures makes your PC compliant with Microsoft Security Baselines and Secured-core PC specifications (provided that you use modern hardware that supports the latest Windows security features)
-
-💠 Hardening Categories from top to bottom: (⬇️Detailed info about each of them at my Github⬇️)
-
-⏹ Commands that require Administrator Privileges
-  ✅ Microsoft Security Baselines
-  ✅ Microsoft 365 Apps Security Baselines
-  ✅ Microsoft Defender
-  ✅ Attack surface reduction rules
-  ✅ Bitlocker Settings
-  ✅ TLS Security
-  ✅ Lock Screen
-  ✅ UAC (User Account Control)
-  ✅ Windows Firewall
-  ✅ Optional Windows Features
-  ✅ Windows Networking
-  ✅ Miscellaneous Configurations
-  ✅ Windows Update Configurations
-  ✅ Edge Browser Configurations
-  ✅ Certificate Checking Commands
-  ✅ Country IP Blocking
-  ✅ Downloads Defense Measures
-⏹ Commands that don't require Administrator Privileges
-  ✅ Non-Admin Commands that only affect the current user and do not make machine-wide changes.
-
-
-💎 This module has hybrid mode of operation. It can run Interactively and non-interactively (Silent/unattended mode). More info in the document: https://github.com/HotCakeX/Harden-Windows-Security/wiki/Harden%E2%80%90Windows%E2%80%90Security%E2%80%90Module
-
-🏴 If you have any questions, requests, suggestions etc. about this module, please open a new Discussion or Issue on GitHub
-
-🟡 The module generates a nice output on the screen as well as giving users an option to export the results in a CSV file.
-
-__Downloads__: 46,076 | __Repository__: https://github.com/HotCakeX/Harden-Windows-Security
-
-## [PSAOAI](https://www.powershellgallery.com/Packages/PSAOAI/0.5.1) | 0.5.1
-
-### Published: 10/05/2024 18:51:49 by Wojciech Napierala (voytas75)
-
-The PowerShell AZURE OpenAI (PSAOAI) module is a powerful tool designed to interact with Azure OpenAI Services.
-
-__Downloads__: 128 | __Repository__: https://github.com/voytas75/PSAOAI
-
-*Updated: Wednesday, 09 October 2024 02:15:18 UTC*
+*Updated: Wednesday, 09 October 2024 09:51:41 UTC*
