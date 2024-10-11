@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Thursday, 10 October 2024 17:51:54 UTC
+Updated: Friday, 11 October 2024 02:15:18 UTC
 
 .bat
 .env
@@ -365,8 +365,10 @@ anonymous
 anova
 ansi
 ansible
+ansible-control-node
 ansible-playbook
 ansible-vault
+ansiblecontrolnode
 anthropic
 anti-malware
 antimalwarescaninterface
@@ -380,6 +382,7 @@ anywhere
 aovpn psmodule
 apache
 apachekafka
+apexlegends
 api
 api-client
 api-gateway
@@ -479,6 +482,7 @@ area
 arg
 argcomplete
 argument
+argumentcompleter
 arguments
 ari
 arm
@@ -651,6 +655,7 @@ aws-lambda
 aws-vault
 aws.tools.powershell
 awsbedrock
+awscli
 awspricelist
 axapta
 axcient
@@ -837,6 +842,7 @@ bearded-avenger
 bearer
 beautifier
 beautify
+bec
 beckhoff
 bedrock
 beep
@@ -1008,9 +1014,11 @@ bulletin
 bullhorn
 bundle
 bup
+burnttoast
 burpsuite
 bus
 business
+business_email_compromise
 businesscentral
 businessdays
 businesshours
@@ -1310,6 +1318,9 @@ clusterminimumvalues
 clusterplacementgroups
 clusterplugins
 cmaccounts
+cmake
+cmakepresets.json
+cmbuild
 cmclibnet
 cmclustermaintenance
 cmd
@@ -1325,6 +1336,7 @@ cmhealthcheck
 cminifile
 cmnetworkports
 cms
+cmsiteconfig
 cmsmessage
 cmtrace
 cmwt
@@ -1347,6 +1359,7 @@ codegeneration
 codegenerator
 codellama
 codepoint
+codereview
 codes
 codesign
 codesigning
@@ -1461,6 +1474,7 @@ configurationapi
 configurationdata
 configurationkey
 configurationmanagement
+configurationmanager
 configurationprofile
 configurations
 configure
@@ -2029,6 +2043,7 @@ discordrpc
 discount
 discover
 discovery
+discutils
 disk
 disk_to_disk
 disk-space
@@ -2072,6 +2087,7 @@ dlp
 dmarc
 dmgr
 dmi
+dmtf
 dmx
 dnd
 dnf
@@ -2183,7 +2199,6 @@ drivertool.powercli
 driverupdates
 drm
 drone.io
-drop
 dropbox
 dropdatabase
 droplet
@@ -2268,6 +2283,7 @@ dynamicsax
 dynamicsecuritygroups
 dynamicsnav
 dynamodb
+dynatrace
 dynatraceobservability
 dz
 e-mail
@@ -2332,6 +2348,7 @@ email-address
 emailaddressupdate
 emailautomation
 emaildataplane
+emailmanagment
 emailnotification
 emailnotificationcomponent
 emailsecurity
@@ -2395,6 +2412,7 @@ environments
 environmentvariable
 environmentvariables
 envvar
+envvars
 eol
 eop
 eperl
@@ -2417,6 +2435,7 @@ errors
 errorview
 eryph
 esae
+esc
 escape
 escapecodes
 escapesequences
@@ -2630,16 +2649,24 @@ fields
 fifa
 figlet
 file
+file-association
+file-copy
 file-encoding
+file-extension
+file-extension-association
 file-invalidchar
 file-matcher
 file-matching
 file-monitoring
 file-name
+file-name-extension
+file-name-extension-association
 file-server
 file-share
 file-system
 file-transform
+file-type
+file-type-association
 fileattributes
 fileencryption
 filelist
@@ -2864,6 +2891,7 @@ gateway
 gauge
 gavin
 gavineke
+gc
 gcbdr
 gce
 gci
@@ -2878,14 +2906,13 @@ gemini
 geminiprotocol
 gemlog
 gemtext
+genai
 general
 generate
 generate-dockerimagevariants
 generate-password
 generate-random-password
-generateaddress
 generates
-generatewif
 generation
 generativeai
 generativeaiagent
@@ -2960,6 +2987,7 @@ gist
 git
 git-client
 git-clone
+git-flow
 git-lfs
 git-proxy
 git-rename
@@ -2975,7 +3003,6 @@ githubaction
 githubactions
 githubtools
 githubworkflow
-gitignore
 gitlab
 gitlab-runner
 gitlab4
@@ -3056,7 +3083,6 @@ graphs
 graphservices
 graphviz
 graylog
-greenplum
 gremlin
 grep
 greynoise
@@ -3071,7 +3097,9 @@ groupmembership
 grouppolicy
 groups
 grouvee
+growlnotify
 grr
+gsudo
 gsuite
 gtx1080ti
 guardedfabric
@@ -3144,6 +3172,7 @@ haskell
 haste
 hastebin
 haveibeenpwned
+hawk
 hba
 hbase
 hci
@@ -3431,6 +3460,7 @@ importteams
 inactive
 inboxrule
 incident
+incident_response
 incident-response
 incidentresponse
 incontact
@@ -3469,7 +3499,6 @@ inpainting
 input
 inputbox
 inputobject
-insert
 insiderthreat
 insight
 insightanalytics
@@ -3575,6 +3604,7 @@ ipcalculator
 ipconfig
 iperf
 ipfy.org
+iphone
 ipilot
 iplookup
 ipmaths
@@ -3725,6 +3755,8 @@ katakana
 kb
 kbarticle
 kdbx
+kdialog
+keenetic
 keepachangelog
 keepass
 keepasslib
@@ -3790,6 +3822,7 @@ kubernetesconfiguration
 kubespray
 kubetidy
 kudu
+kurukuru
 kusto
 kvm
 kvp
@@ -3881,6 +3914,8 @@ library
 libvirt
 licence
 license
+license-generator
+licenseautomation
 licensemanagement
 licensemanager
 licensereport
@@ -3906,6 +3941,7 @@ link-capability
 link-preview
 linkedin
 linkedservice
+linkedservicedependency
 linkid
 links
 linq
@@ -4157,6 +4193,7 @@ masstransit
 masterconfiguration
 match
 matcharray
+matchhashtable
 materialdesign
 materialui
 mateso
@@ -4205,7 +4242,6 @@ mediaservices
 mediawiki
 meditation
 medlemsservice
-meesman
 meeting
 meetup
 meetup.com
@@ -4344,6 +4380,7 @@ mlflow
 mlmodels
 mltools
 mmdc
+mobile
 mobilenetwork
 mobilitycontroller
 mock
@@ -4580,7 +4617,6 @@ netscaler
 netscape
 netsec
 netsh
-netspell
 netstat
 netsuite
 network
@@ -4682,8 +4718,10 @@ notes
 notification
 notificationhubs
 notifications
+notifu
 notify
 notify-send
+notify-send-wsl
 nova
 npgsql
 npm
@@ -4708,6 +4746,7 @@ ntdll
 ntds
 ntfs
 ntp
+ntsystems
 nuget
 nuget-references
 nuget.exe
@@ -4877,6 +4916,7 @@ operationalinsights
 operations
 operationsmanagementsuite
 operationsmanagementsuiteagent
+operationvalidation
 operatoraccesscontrol
 opml
 ops
@@ -5166,7 +5206,6 @@ pivotal
 pivottable
 pixoo
 pkce
-pkgx
 pki
 pki psmodule
 pks
@@ -5189,7 +5228,9 @@ pleasant
 pleasantpasswordserver
 plex
 plist
+plog
 plot
+plug-n-copy
 plugin
 plugins
 pluralsight
@@ -5273,6 +5314,7 @@ poshy-ls-isms
 poshy-lucidity
 poshy-multimedia
 poshy-net
+poshy-notify-send
 poshy-sh-isms
 poshy-sshconfig
 poshy-viewer-finder
@@ -5289,6 +5331,7 @@ poshy-wrap-forgit
 poshy-wrap-gem
 poshy-wrap-gh
 poshy-wrap-git
+poshy-wrap-git-flow
 poshy-wrap-git-lfs
 poshy-wrap-golang
 poshy-wrap-helm
@@ -5369,7 +5412,6 @@ powershell-github-repo
 powershell-gitlab
 powershell-graphql
 powershell-isprime
-powershell-lightning
 powershell-module
 powershell-modules
 powershell-modules-convention
@@ -5393,6 +5435,7 @@ powershellgallery
 powershellget
 powershellgetformatversion_2.0
 powershellise
+powershelllogger
 powershellml
 powershellmodule
 powershellmoduleupdate
@@ -5430,6 +5473,7 @@ prefixing
 preparead
 preparealldomains
 prepareschema
+prepend
 preprocessing
 preprocessor
 presentation
@@ -5493,10 +5537,10 @@ profiles
 profilevalidation
 proget
 program
+program-association
 programs
 progress
 progressbar
-progressbars
 project
 project-management
 projectmanagement
@@ -5931,10 +5975,12 @@ pscommand_gcamg
 pscommand_gcams
 pscommand_gcamu
 pscommand_gcb
+pscommand_gcd
 pscommand_gcem
 pscommand_gcf
 pscommand_gcfl
 pscommand_gcfls
+pscommand_gch
 pscommand_gci
 pscommand_gcl
 pscommand_gclcd
@@ -5957,6 +6003,7 @@ pscommand_gcp
 pscommand_gcpa
 pscommand_gcpc
 pscommand_gcpx
+pscommand_gcr
 pscommand_gcsam
 pscommand_gct
 pscommand_gd
@@ -6051,6 +6098,27 @@ pscommand_geun
 pscommand_gexport
 pscommand_gf
 pscommand_gfa
+pscommand_gfl
+pscommand_gflf
+pscommand_gflff
+pscommand_gflffc
+pscommand_gflfp
+pscommand_gflfpc
+pscommand_gflfpll
+pscommand_gflfs
+pscommand_gflh
+pscommand_gflhf
+pscommand_gflhfc
+pscommand_gflhp
+pscommand_gflhpc
+pscommand_gflhs
+pscommand_gfli
+pscommand_gflr
+pscommand_gflrf
+pscommand_gflrfc
+pscommand_gflrp
+pscommand_gflrpc
+pscommand_gflrs
 pscommand_gfo
 pscommand_gft
 pscommand_gftv
@@ -6327,6 +6395,27 @@ pscommand_invoke-gitconfig
 pscommand_invoke-gitdifftool
 pscommand_invoke-gitfetch
 pscommand_invoke-gitfetchorigin
+pscommand_invoke-gitflow
+pscommand_invoke-gitflowfeature
+pscommand_invoke-gitflowfeaturefinish
+pscommand_invoke-gitflowfeaturefinishcurrent
+pscommand_invoke-gitflowfeaturepublish
+pscommand_invoke-gitflowfeaturepublishcurrent
+pscommand_invoke-gitflowfeaturepull
+pscommand_invoke-gitflowfeaturestart
+pscommand_invoke-gitflowhotfix
+pscommand_invoke-gitflowhotfixfinish
+pscommand_invoke-gitflowhotfixfinishcurrent
+pscommand_invoke-gitflowhotfixpublish
+pscommand_invoke-gitflowhotfixpublishcurrent
+pscommand_invoke-gitflowhotfixstart
+pscommand_invoke-gitflowinit
+pscommand_invoke-gitflowrelease
+pscommand_invoke-gitflowreleasefinish
+pscommand_invoke-gitflowreleasefinishcurrent
+pscommand_invoke-gitflowreleasepublish
+pscommand_invoke-gitflowreleasepublishcurrent
+pscommand_invoke-gitflowreleasestart
 pscommand_invoke-gitgui
 pscommand_invoke-githubapi
 pscommand_invoke-githubapi-bodyempty
@@ -6956,6 +7045,7 @@ pscommand_nmap_ping_through_firewall
 pscommand_nmap_slow
 pscommand_nmap_traceroute
 pscommand_nmap_web_safe_osscan
+pscommand_notify-send-fallback
 pscommand_npm-disable-proxy
 pscommand_npm-enable-proxy
 pscommand_npm-show-proxy
@@ -7185,6 +7275,9 @@ pscommand_use-gitbranchmain
 pscommand_use-gitbranchnew
 pscommand_use-gitbranchprevious
 pscommand_use-gitbranchtracked
+pscommand_use-gitflowbranchdevelop
+pscommand_use-gitflowbranchhotfix
+pscommand_use-gitflowbranchrelease
 pscommand_use-gitstashentry
 pscommand_uuid
 pscommand_uuidgen
@@ -7714,6 +7807,27 @@ psfunction_invoke-gitconfig
 psfunction_invoke-gitdifftool
 psfunction_invoke-gitfetch
 psfunction_invoke-gitfetchorigin
+psfunction_invoke-gitflow
+psfunction_invoke-gitflowfeature
+psfunction_invoke-gitflowfeaturefinish
+psfunction_invoke-gitflowfeaturefinishcurrent
+psfunction_invoke-gitflowfeaturepublish
+psfunction_invoke-gitflowfeaturepublishcurrent
+psfunction_invoke-gitflowfeaturepull
+psfunction_invoke-gitflowfeaturestart
+psfunction_invoke-gitflowhotfix
+psfunction_invoke-gitflowhotfixfinish
+psfunction_invoke-gitflowhotfixfinishcurrent
+psfunction_invoke-gitflowhotfixpublish
+psfunction_invoke-gitflowhotfixpublishcurrent
+psfunction_invoke-gitflowhotfixstart
+psfunction_invoke-gitflowinit
+psfunction_invoke-gitflowrelease
+psfunction_invoke-gitflowreleasefinish
+psfunction_invoke-gitflowreleasefinishcurrent
+psfunction_invoke-gitflowreleasepublish
+psfunction_invoke-gitflowreleasepublishcurrent
+psfunction_invoke-gitflowreleasestart
 psfunction_invoke-gitgui
 psfunction_invoke-githubapi
 psfunction_invoke-githubapi-bodyempty
@@ -8197,6 +8311,7 @@ psfunction_nmap_ping_through_firewall
 psfunction_nmap_slow
 psfunction_nmap_traceroute
 psfunction_nmap_web_safe_osscan
+psfunction_notify-send-fallback
 psfunction_npm-disable-proxy
 psfunction_npm-enable-proxy
 psfunction_npm-show-proxy
@@ -8340,6 +8455,9 @@ psfunction_use-gitbranchmain
 psfunction_use-gitbranchnew
 psfunction_use-gitbranchprevious
 psfunction_use-gitbranchtracked
+psfunction_use-gitflowbranchdevelop
+psfunction_use-gitflowbranchhotfix
+psfunction_use-gitflowbranchrelease
 psfunction_use-gitstashentry
 psfunction_write-gitcommit
 psfunction_write-gitcommitall
@@ -8447,6 +8565,7 @@ psyaml
 pszabbix
 ptc
 ptcintegrity
+pubg
 public
 public-key
 public-transport
@@ -8602,8 +8721,6 @@ rcs
 rcu
 rdap
 rdap.org
-rdb
-rdbms
 rdc
 rdcman
 rdcmanager
@@ -8658,6 +8775,7 @@ redforest
 redgate
 redirect
 redirecting
+redirects
 redirectstandarderror
 redirectstandardoutput
 redis
@@ -8704,7 +8822,6 @@ regular-expression
 regularexpression
 regularexpressions
 reinstall
-relational
 relay
 release
 releasedefinition
@@ -8825,6 +8942,7 @@ retention
 retro
 retry
 returnuserprofile
+retype
 reuse
 reverse-engineer
 reverse-string
@@ -9102,6 +9220,7 @@ searchconnector
 searchengine
 searcher
 searching
+searchmanager
 searchplace
 searchquery
 searchstring
@@ -9385,6 +9504,7 @@ skype4business
 skypeforbusiness
 skypeforbusinessonline
 skypeonline
+skytap
 slack
 slash
 slashcommands
@@ -9407,6 +9527,7 @@ smb
 smb1
 smb2
 smbios
+smbios-information
 smfoxx
 smfx
 smileys
@@ -9492,6 +9613,7 @@ sourcecontrol
 sourceforge
 sourcegraph
 sourcemod
+sourceone
 sourcepawn
 sourcequery
 sovcloud
@@ -9525,10 +9647,10 @@ speedometer
 speedtest
 speedtester
 spejder
-spellcheck
 spelling
 spf
 spfx
+sphere
 spi
 spicetify
 spinnaker
@@ -9854,6 +9976,7 @@ systeminfo
 systeminformation
 systemlocale
 systems
+systemsplash
 systray
 t
 t-sql
@@ -9871,6 +9994,7 @@ tableauserver
 tableauworkbook
 tabler
 tables
+tablestorage
 tabs
 tabular
 tag
@@ -9959,6 +10083,7 @@ terminal
 terminal-interface
 terminal-services
 terminal.gui
+terminalnotifier
 terminalvelocity
 termset
 terraform
@@ -10372,6 +10497,7 @@ upgrade
 uplift
 uplink
 ups
+upsource
 upstream
 uptime
 uptimerobot
@@ -10455,6 +10581,7 @@ variance
 variants
 vastlimits
 vault
+vaultextension
 vaultstore
 vaultwarden
 vb365
@@ -10616,6 +10743,7 @@ vs-shell
 vsa
 vsa9
 vsan
+vsan+
 vscode
 vsdevcmd
 vsdevshell
@@ -10624,6 +10752,7 @@ vsm
 vso
 vspc
 vsphere
+vsphere+
 vss
 vssetup
 vsshell
@@ -10775,7 +10904,6 @@ wia
 wia.imagefile
 wid
 widedata
-wif
 wifi
 wiki
 wildcard
@@ -10856,6 +10984,7 @@ windowsregistry
 windowsreleasehealth
 windowsrest
 windowssandbox
+windowssearchmanager
 windowsserver
 windowsserver2008
 windowsserver2016
