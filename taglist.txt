@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Friday, 11 October 2024 09:51:54 UTC
+Updated: Friday, 11 October 2024 17:51:46 UTC
 
 .bat
 .env
@@ -12,7 +12,6 @@ Updated: Friday, 11 October 2024 09:51:54 UTC
 'code owls'
 'files
 'provider'
-"interactive
 {modulenameplaceholder}
 **psedition_desktop**
 **windows**
@@ -365,8 +364,10 @@ anonymous
 anova
 ansi
 ansible
+ansible-control-node
 ansible-playbook
 ansible-vault
+ansiblecontrolnode
 anthropic
 anti-malware
 antimalwarescaninterface
@@ -1079,7 +1080,6 @@ cassandra
 cat
 cat-names
 catalog
-catalogs
 catalyst
 catapult
 catesta
@@ -1193,7 +1193,6 @@ chunk
 churchofjesuschrist
 ci
 ci/cd
-cic
 cicd
 cicdpipeline
 cidr
@@ -1537,7 +1536,6 @@ contrast
 control
 controller
 controlroom
-controlup
 conventional
 conventional-commits
 convereter
@@ -3387,7 +3385,6 @@ icon
 icons
 icraftsoftware
 ics
-icws
 id
 id3
 idabus
@@ -3541,7 +3538,6 @@ integrity
 intel
 inteligo
 intelligence
-intelligence"
 intellisearch
 intellisense
 interactive
@@ -4559,7 +4555,6 @@ n-central
 nabu
 nac
 nagios
-nakivo
 name
 name-of-dogs
 namedpipe
@@ -5362,6 +5357,7 @@ poshy-wrap-vagrant
 poshy-wrap-vault
 poshy-wrap-vscode
 poshy-wrap-wget
+poshy-wrap-wt
 poshy-wrap-yum
 poshy-wrap-zypper
 position
@@ -5521,7 +5517,6 @@ privileged
 privilegedidentitymanagement
 privileges
 pro
-probability
 probe
 process
 process-inspector
@@ -7033,6 +7028,8 @@ pscommand_new-gitbranchtracked
 pscommand_new-gitpatchfile
 pscommand_new-isofile
 pscommand_new-viewerinvocationfunction
+pscommand_new-windowsterminalpane
+pscommand_new-windowsterminaltab
 pscommand_nginx_reload
 pscommand_nginx_restart
 pscommand_nginx_start
@@ -8297,6 +8294,8 @@ psfunction_new-gitbranchtracked
 psfunction_new-gitpatchfile
 psfunction_new-isofile
 psfunction_new-viewerinvocationfunction
+psfunction_new-windowsterminalpane
+psfunction_new-windowsterminaltab
 psfunction_nginx_reload
 psfunction_nginx_restart
 psfunction_nginx_start
@@ -8749,7 +8748,6 @@ readiness
 readme
 readpdf
 readthedocs
-real-time
 realschule
 realtimeprotection
 rebase
@@ -9144,7 +9142,6 @@ sccminstall
 sccmpackage
 sccmprereqs
 scep
-sch
 schannel
 schannelpolicydsc
 schedule
@@ -9613,6 +9610,7 @@ soonr
 soonragent
 sophos
 sort
+sort-json
 sorting
 source
 source-dedicated-server
@@ -9628,6 +9626,7 @@ space
 spaces
 spacex
 spam
+spanner
 spark
 sparkline
 sparklines
@@ -9951,7 +9950,6 @@ synthetics
 sysadmin
 sysadmin-tool
 sysadmin-tools
-sysctr
 sysinfo
 sysinfocmdlets
 sysinternals
@@ -10549,6 +10547,7 @@ users
 users-management
 userworkstations
 usg
+usps
 utc
 utf-8
 utf-sig
@@ -10564,6 +10563,7 @@ utm
 uudecode
 uuencode
 uuid
+uw
 uwp
 ux
 v20
@@ -11025,6 +11025,11 @@ winui
 wireless
 wirelessnetwork
 wireshark
+wisc
+wiscmail
+wisco365
+wisconsin-madison
+wisconsin'uw-madison
 wisdom
 with
 wiz
