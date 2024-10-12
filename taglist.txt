@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Friday, 11 October 2024 17:51:46 UTC
+Updated: Saturday, 12 October 2024 02:14:35 UTC
 
 .bat
 .env
@@ -12,6 +12,7 @@ Updated: Friday, 11 October 2024 17:51:46 UTC
 'code owls'
 'files
 'provider'
+"interactive
 {modulenameplaceholder}
 **psedition_desktop**
 **windows**
@@ -204,7 +205,6 @@ administrativeuser
 administrator
 admintools
 adml
-admonition
 admpwd
 admx
 ado
@@ -386,7 +386,6 @@ api
 api-client
 api-gateway
 api-rest
-apichecks
 apiclient
 apigateway
 apigee
@@ -1043,7 +1042,6 @@ calculate
 calculator
 calendar
 callingcode
-callout
 callqueue
 calvin-and-hobbes
 cam
@@ -1080,6 +1078,7 @@ cassandra
 cat
 cat-names
 catalog
+catalogs
 catalyst
 catapult
 catesta
@@ -1193,6 +1192,7 @@ chunk
 churchofjesuschrist
 ci
 ci/cd
+cic
 cicd
 cicdpipeline
 cidr
@@ -1536,6 +1536,7 @@ contrast
 control
 controller
 controlroom
+controlup
 conventional
 conventional-commits
 convereter
@@ -2569,10 +2570,8 @@ exportteams
 expression
 extend
 extended
-extendedattributes
 extendedevents
 extendedgroups
-extendedproperties
 extendedproperty
 extendscript
 extensibility
@@ -2664,7 +2663,6 @@ file-system
 file-transform
 file-type
 file-type-association
-fileattributes
 fileencryption
 filelist
 filelog
@@ -2674,7 +2672,6 @@ filemanagement
 filematcher
 filename
 filenames
-fileproperties
 filereplication
 files
 files-cli
@@ -2750,7 +2747,6 @@ flash
 flasharray
 flatfile
 flatten
-flavor
 fleet
 fleetappsmanagement
 fleetsoftwareupdate
@@ -3371,7 +3367,6 @@ icinga
 icinga2
 icinga2mssql
 icinga2plugins
-icingachecks
 icingaforwindows
 icingainventory
 icingamssql
@@ -3385,6 +3380,7 @@ icon
 icons
 icraftsoftware
 ics
+icws
 id
 id3
 idabus
@@ -3538,6 +3534,7 @@ integrity
 intel
 inteligo
 intelligence
+intelligence"
 intellisearch
 intellisense
 interactive
@@ -4305,7 +4302,6 @@ microsoft_online
 microsoft_teams
 microsoft-graph
 microsoft-teams
-microsoft-web-platform
 microsoft-windows
 microsoft.graph
 microsoft.graph.api
@@ -5374,7 +5370,6 @@ power
 power-apps
 power-cbr
 power-platform
-power-shell
 powerapps
 powerappsportal
 powerarcade
@@ -5427,7 +5422,6 @@ powershell-terminal-copilot
 powershell-training
 powershell.module.invokewinget
 powershell.one
-powershell.persistentpathstack
 powershell7
 powershellai
 powershellazuresql
@@ -5517,6 +5511,7 @@ privileged
 privilegedidentitymanagement
 privileges
 pro
+probability
 probe
 process
 process-inspector
@@ -5575,9 +5570,6 @@ provision
 provisioning
 provisioningpackage
 provisonedpackage
-prowl
-prowl-notifications
-prowlapp
 proxmox
 proxmoxve
 proxsys
@@ -8603,7 +8595,6 @@ purple
 purview
 push
 push-location
-push-notifications
 pushd
 pushover
 pushoverapi
@@ -8748,6 +8739,7 @@ readiness
 readme
 readpdf
 readthedocs
+real-time
 realschule
 realtimeprotection
 rebase
@@ -9057,7 +9049,6 @@ runbooks
 runbookstudio
 runcommand
 rundeck
-runner
 runspace
 runspacepool
 runspaces
@@ -9142,6 +9133,7 @@ sccminstall
 sccmpackage
 sccmprereqs
 scep
+sch
 schannel
 schannelpolicydsc
 schedule
@@ -9950,6 +9942,7 @@ synthetics
 sysadmin
 sysadmin-tool
 sysadmin-tools
+sysctr
 sysinfo
 sysinfocmdlets
 sysinternals
@@ -10143,7 +10136,6 @@ texting-emojis
 textprocessing
 textwrapping
 tfe
-tfenv
 tflint
 tfs
 tfscmdlets
@@ -10547,7 +10539,6 @@ users
 users-management
 userworkstations
 usg
-usps
 utc
 utf-8
 utf-sig
@@ -10841,7 +10832,6 @@ webjea
 webmanagement
 webmanagementservice
 webpage
-webpi
 webreport
 webrequest
 webresponse
@@ -11087,7 +11077,6 @@ wrap-text
 wrapper
 wrapperfunctions
 wrc
-wrike
 write
 write-ascii
 write-color

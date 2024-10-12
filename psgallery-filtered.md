@@ -3,6 +3,24 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [quickpath](https://www.powershellgallery.com/Packages/quickpath/0.10.0) | 0.10.0
+
+### Published: 10/11/2024 23:36:31 by Mark Visschers
+
+'quickpath' is a script to help easily navigate your system using the commandline.
+        Using aliases the script saves relative paths to quickly navigate to folders associated with the alias
+        and even makes it easy to open the folders/projects in your favorite tools.
+
+__Downloads__: 53 | __Repository__: https://github.com/MatrTech/quickpath
+
+## [PSTypeExtensionTools](https://www.powershellgallery.com/Packages/PSTypeExtensionTools/1.10.0) | 1.10.0
+
+### Published: 10/11/2024 20:51:37 by Jeff Hicks
+
+A set of PowerShell tools for working with custom type extensions.
+
+__Downloads__: 2,241 | __Repository__: https://github.com/jdhitsolutions/PSTypeExtensionTools
+
 ## [PowerSNOW](https://www.powershellgallery.com/Packages/PowerSNOW/1.0.0.9) | 1.0.0.9
 
 ### Published: 10/11/2024 17:45:17 by Bruce Stump
@@ -97,7 +115,7 @@ __Downloads__: 0 | __Repository__: https://github.com/EvotecIT/Updatomatic
 
 Converter strings into camelcase etc.
 
-__Downloads__: 0 | __Repository__: https://github.com/mGloerfeld/string-converter
+__Downloads__: 1 | __Repository__: https://github.com/mGloerfeld/string-converter
 
 ## [UiPathOrch](https://www.powershellgallery.com/Packages/UiPathOrch/0.9.7.11) | 0.9.7.11
 
@@ -113,17 +131,7 @@ __Downloads__: 1,508 | __Repository__:
 
 Converter strings into camelcase etc.
 
-__Downloads__: 0 | __Repository__: https://github.com/mGloerfeld/string-converter
-
-## [quickpath](https://www.powershellgallery.com/Packages/quickpath/0.9.4) | 0.9.4
-
-### Published: 10/11/2024 09:07:55 by Mark Visschers
-
-'quickpath' is a script to help easily navigate your system using the commandline.
-        Using aliases the script saves relative paths to quickly navigate to folders associated with the alias
-        and even makes it easy to open the folders/projects in your favorite tools.
-
-__Downloads__: 53 | __Repository__: https://github.com/MatrTech/quickpath
+__Downloads__: 1 | __Repository__: https://github.com/mGloerfeld/string-converter
 
 ## [Fly.Client](https://www.powershellgallery.com/Packages/Fly.Client/4.6.3) | 4.6.3
 
@@ -195,7 +203,7 @@ __Downloads__: 24 | __Repository__: https://github.com/RobBiddle/Get-RDAP
 
 Milestone XProtect VMS configuration and automation powered by the Milestone MIP SDK.
 
-__Downloads__: 433,967 | __Repository__: https://www.milestonepstools.com/
+__Downloads__: 433,968 | __Repository__: https://www.milestonepstools.com/
 
 ## [Get-AwsTemporaryCredential](https://www.powershellgallery.com/Packages/Get-AwsTemporaryCredential/1.0.4) | 1.0.4
 
@@ -213,14 +221,6 @@ EnhancedWin32DeployerAO for PowerShell scripts.
 
 __Downloads__: 505 | __Repository__: 
 
-## [EnhancedVPNAO](https://www.powershellgallery.com/Packages/EnhancedVPNAO/0.0.96) | 0.0.96
-
-### Published: 10/10/2024 19:27:35 by Abdullah Ollivierre
-
-EnhancedVPNAO for PowerShell scripts.
-
-__Downloads__: 500 | __Repository__: 
-
 ## [EnhancedSPOAO](https://www.powershellgallery.com/Packages/EnhancedSPOAO/0.0.95) | 0.0.95
 
 ### Published: 10/10/2024 19:27:35 by Abdullah Ollivierre
@@ -228,6 +228,14 @@ __Downloads__: 500 | __Repository__:
 EnhancedSPOAO for PowerShell scripts.
 
 __Downloads__: 493 | __Repository__: 
+
+## [EnhancedVPNAO](https://www.powershellgallery.com/Packages/EnhancedVPNAO/0.0.96) | 0.0.96
+
+### Published: 10/10/2024 19:27:35 by Abdullah Ollivierre
+
+EnhancedVPNAO for PowerShell scripts.
+
+__Downloads__: 500 | __Repository__: 
 
 ## [EnhancedSecretsAO](https://www.powershellgallery.com/Packages/EnhancedSecretsAO/0.0.16) | 0.0.16
 
@@ -261,14 +269,6 @@ EnhancedPSADTAO for PowerShell scripts.
 
 __Downloads__: 511 | __Repository__: 
 
-## [EnhancedIntuneAO](https://www.powershellgallery.com/Packages/EnhancedIntuneAO/0.0.20) | 0.0.20
-
-### Published: 10/10/2024 19:27:31 by Abdullah Ollivierre
-
-EnhancedIntuneAO for PowerShell scripts.
-
-__Downloads__: 71 | __Repository__: 
-
 ## [EnhancedLoggingAO](https://www.powershellgallery.com/Packages/EnhancedLoggingAO/0.0.96) | 0.0.96
 
 ### Published: 10/10/2024 19:27:31 by Abdullah Ollivierre
@@ -276,6 +276,14 @@ __Downloads__: 71 | __Repository__:
 EnhancedLoggingAO for PowerShell scripts.
 
 __Downloads__: 529 | __Repository__: 
+
+## [EnhancedIntuneAO](https://www.powershellgallery.com/Packages/EnhancedIntuneAO/0.0.20) | 0.0.20
+
+### Published: 10/10/2024 19:27:31 by Abdullah Ollivierre
+
+EnhancedIntuneAO for PowerShell scripts.
+
+__Downloads__: 71 | __Repository__: 
 
 ## [EnhancedModuleStarterAO](https://www.powershellgallery.com/Packages/EnhancedModuleStarterAO/0.0.96) | 0.0.96
 
@@ -285,13 +293,13 @@ EnhancedModuleStarterAO for PowerShell scripts.
 
 __Downloads__: 1,192 | __Repository__: 
 
-## [EnhancedHyperVAO](https://www.powershellgallery.com/Packages/EnhancedHyperVAO/0.0.95) | 0.0.95
+## [EnhancedFileManagerAO](https://www.powershellgallery.com/Packages/EnhancedFileManagerAO/0.0.96) | 0.0.96
 
 ### Published: 10/10/2024 19:27:29 by Abdullah Ollivierre
 
-EnhancedHyperVAO for PowerShell scripts.
+EnhancedFileManagerAO for PowerShell scripts.
 
-__Downloads__: 505 | __Repository__: 
+__Downloads__: 509 | __Repository__: 
 
 ## [EnhancedGraphAO](https://www.powershellgallery.com/Packages/EnhancedGraphAO/0.0.96) | 0.0.96
 
@@ -301,13 +309,13 @@ EnhancedGraphAO for PowerShell scripts.
 
 __Downloads__: 509 | __Repository__: 
 
-## [EnhancedFileManagerAO](https://www.powershellgallery.com/Packages/EnhancedFileManagerAO/0.0.96) | 0.0.96
+## [EnhancedHyperVAO](https://www.powershellgallery.com/Packages/EnhancedHyperVAO/0.0.95) | 0.0.95
 
 ### Published: 10/10/2024 19:27:29 by Abdullah Ollivierre
 
-EnhancedFileManagerAO for PowerShell scripts.
+EnhancedHyperVAO for PowerShell scripts.
 
-__Downloads__: 509 | __Repository__: 
+__Downloads__: 505 | __Repository__: 
 
 ## [EnhancedDeviceMigrationAO](https://www.powershellgallery.com/Packages/EnhancedDeviceMigrationAO/0.0.96) | 0.0.96
 
@@ -411,7 +419,7 @@ __Downloads__: 1,677,484 | __Repository__: https://www.zerto.com/
 
 Mandatory module for the foundation PowerShell scripts.
 
-__Downloads__: 102,640 | __Repository__: 
+__Downloads__: 102,643 | __Repository__: 
 
 ## [NFSv3ExtendedGroups](https://www.powershellgallery.com/Packages/NFSv3ExtendedGroups/0.0.1) | 0.0.1
 
@@ -427,7 +435,7 @@ __Downloads__: 2 | __Repository__: https://github.com/Azure/NFSv3ExtendedGroups
 
 Provides automated build features using on the InvokeBuild module
 
-__Downloads__: 37,320 | __Repository__: https://github.com/endjin/Endjin.RecommendedPractices.Build
+__Downloads__: 37,321 | __Repository__: https://github.com/endjin/Endjin.RecommendedPractices.Build
 
 ## [PSc8y](https://www.powershellgallery.com/Packages/PSc8y/2.43.3) | 2.43.3
 
@@ -594,7 +602,7 @@ __Downloads__: 13 | __Repository__: https://github.com/PSModule/Retry
 
 PowerShell module to generate DataFactory pipelines and datasets.
 
-__Downloads__: 6,380 | __Repository__: https://abbgrade.github.io/PsDataFactory/
+__Downloads__: 6,382 | __Repository__: https://abbgrade.github.io/PsDataFactory/
 
 ## [PSEasyOpenSSH](https://www.powershellgallery.com/Packages/PSEasyOpenSSH/0.0.13) | 0.0.13
 
@@ -621,7 +629,7 @@ https://osdbuilder.osdeploy.com
 Requirements:
 PowerShell Module OSD 24.10.8.1 or newer
 
-__Downloads__: 243,055 | __Repository__: https://github.com/OSDeploy/OSDBuilder
+__Downloads__: 243,059 | __Repository__: https://github.com/OSDeploy/OSDBuilder
 
 ## [OSD](https://www.powershellgallery.com/Packages/OSD/24.10.8.1) | 24.10.8.1
 
@@ -826,6 +834,14 @@ __Downloads__: 29 | __Repository__: https://github.com/oracle/oci-powershell-mod
 This modules provides Cmdlets for OCI Secrets Service
 
 __Downloads__: 8,393 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+
+## [OCI.PSModules.Sch](https://www.powershellgallery.com/Packages/OCI.PSModules.Sch/92.1.0) | 92.1.0
+
+### Published: 10/08/2024 19:37:16 by Oracle Cloud Infrastructure
+
+This modules provides Cmdlets for OCI Sch Service
+
+__Downloads__: 8,175 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
 ## [OCI.PSModules.Rover](https://www.powershellgallery.com/Packages/OCI.PSModules.Rover/92.1.0) | 92.1.0
 
@@ -1857,7 +1873,7 @@ __Downloads__: 28,185 | __Repository__: https://infosys.beckhoff.com/content/103
 
 Terminal Based Launcher and Fuzzy Finder for PowerShell
 
-__Downloads__: 10,757 | __Repository__: https://github.com/mdgrs-mei/PowerShellRun
+__Downloads__: 10,758 | __Repository__: https://github.com/mdgrs-mei/PowerShellRun
 
 ## [spec.teamviewer.utilities](https://www.powershellgallery.com/Packages/spec.teamviewer.utilities/1.1.6) | 1.1.6
 
@@ -1873,7 +1889,7 @@ __Downloads__: 37,799 | __Repository__:
 
 Master module for a collection of modules. These modules are varied in their tasks. The overall purpose of them being to provide a powerfull Toolset to improve IT Admin workflows.
 
-__Downloads__: 77,420 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox
+__Downloads__: 77,423 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox
 
 ## [AdminToolbox.FortiWizard](https://www.powershellgallery.com/Packages/AdminToolbox.FortiWizard/2.20.0.7) | 2.20.0.7
 
@@ -1889,7 +1905,7 @@ __Downloads__: 56,279 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions to Automate Bulk VMWare Tasks
 
-__Downloads__: 64,398 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 64,401 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.Remoting](https://www.powershellgallery.com/Packages/AdminToolbox.Remoting/1.10.0.7) | 1.10.0.7
 
@@ -1897,7 +1913,7 @@ __Downloads__: 64,398 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions for remote management and access.
 
-__Downloads__: 63,505 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 63,508 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.Office365](https://www.powershellgallery.com/Packages/AdminToolbox.Office365/4.3.0.6) | 4.3.0.6
 
@@ -1905,7 +1921,7 @@ __Downloads__: 63,505 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions for working with Office365 and Azure modules
 
-__Downloads__: 68,975 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 68,978 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.Networking](https://www.powershellgallery.com/Packages/AdminToolbox.Networking/2.21.0.7) | 2.21.0.7
 
@@ -1921,7 +1937,7 @@ __Downloads__: 172,923 | __Repository__: https://github.com/TheTaylorLee/AdminTo
 
 Microsoft Graph interactive API Functions
 
-__Downloads__: 52,672 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 52,675 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.Fun](https://www.powershellgallery.com/Packages/AdminToolbox.Fun/1.7.0.7) | 1.7.0.7
 
@@ -1929,7 +1945,7 @@ __Downloads__: 52,672 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions that have no purpose
 
-__Downloads__: 64,374 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 64,377 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.FileManagement](https://www.powershellgallery.com/Packages/AdminToolbox.FileManagement/1.17.0.7) | 1.17.0.7
 
@@ -1937,7 +1953,7 @@ __Downloads__: 64,374 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 File Management Functions
 
-__Downloads__: 65,205 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 65,208 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.FFTools](https://www.powershellgallery.com/Packages/AdminToolbox.FFTools/4.17.0.7) | 4.17.0.7
 
@@ -1945,7 +1961,7 @@ __Downloads__: 65,205 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Expedite simple ffmpeg actions
 
-__Downloads__: 65,828 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 65,831 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.Exchange](https://www.powershellgallery.com/Packages/AdminToolbox.Exchange/1.10.0.7) | 1.10.0.7
 
@@ -1953,7 +1969,7 @@ __Downloads__: 65,828 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions for Exchange Management
 
-__Downloads__: 69,813 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 69,816 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.EndpointManagement](https://www.powershellgallery.com/Packages/AdminToolbox.EndpointManagement/4.11.0.7) | 4.11.0.7
 
@@ -1961,7 +1977,7 @@ __Downloads__: 69,813 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions for management of endpoints
 
-__Downloads__: 77,676 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 77,679 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [MyPSFunctions](https://www.powershellgallery.com/Packages/MyPSFunctions/1.4) | 1.4
 
@@ -1977,7 +1993,7 @@ __Downloads__: 439 | __Repository__:
 
 Functions for Active Directory
 
-__Downloads__: 76,713 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 76,716 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [EntraAuth](https://www.powershellgallery.com/Packages/EntraAuth/1.3.18) | 1.3.18
 
@@ -2043,20 +2059,4 @@ Manage PsBuildTasks
 
 __Downloads__: 231 | __Repository__: https://github.com/abbgrade/PsBuildTasks
 
-## [TheDashboard](https://www.powershellgallery.com/Packages/TheDashboard/0.0.29) | 0.0.29
-
-### Published: 10/08/2024 07:02:44 by Przemyslaw Klys
-
-TheDashboard is a module that allows you to create a dashboard for your HTML reports
-
-__Downloads__: 4,642 | __Repository__: https://github.com/EvotecIT/TheDashboard
-
-## [TrustedSigning](https://www.powershellgallery.com/Packages/TrustedSigning/0.5.0) | 0.5.0
-
-### Published: 10/08/2024 04:43:27 by James Parsons
-
-Enables the signing of a set of files with the Trusted Signing service.
-
-__Downloads__: 97,820 | __Repository__: 
-
-*Updated: Friday, 11 October 2024 17:51:37 UTC*
+*Updated: Saturday, 12 October 2024 02:14:27 UTC*
