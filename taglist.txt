@@ -1,11 +1,10 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 14 October 2024 09:51:56 UTC
+Updated: Monday, 14 October 2024 17:51:57 UTC
 
 .bat
 .env
 .net
-.prom
 .ps1xml
 'azure'
 'blob storage'
@@ -356,6 +355,7 @@ anglesharp
 angular
 animals
 animate-svg
+animation
 animations
 annotated
 announcement
@@ -473,6 +473,8 @@ archivial
 archivial-backup
 archivial-cloud-backup
 archlinux
+archon
+archonagent
 arcresourcebridge
 arcus
 area
@@ -879,6 +881,7 @@ bingmap
 bingmaps
 binomial
 bios
+bios_settings
 bios-settings
 bit
 bitbucket
@@ -938,6 +941,7 @@ bookmark
 bookmarks
 books
 bool
+boolean
 bootloader psmodule
 bootstrap
 bootstrapping
@@ -1288,7 +1292,6 @@ cloudbees
 cloudberry
 cloudblue
 cloudbolt
-cloudbridge
 cloudendure
 cloudevents
 cloudflare
@@ -1310,7 +1313,6 @@ cloudservice
 cloudshell
 clueser
 cluster
-clusterminimumvalues
 clusterplacementgroups
 clusterplugins
 cmaccounts
@@ -1662,7 +1664,6 @@ crontab
 cropping
 cross-platform
 crossjoin
-crossover
 crossplatform
 crossplatformdevelopment
 crowdstrike
@@ -2071,7 +2072,6 @@ dividends
 diving
 division
 divoom
-diy
 dkim
 dkschrutebeets
 dl
@@ -2145,7 +2145,6 @@ domainname
 domainnamesystem
 domains
 domino
-done.land
 donothing
 dos
 dot
@@ -2323,7 +2322,6 @@ eklient psedition_core psedition_desktop
 elastic
 elasticsan
 elasticsearch
-elb
 element
 elevate
 elevated
@@ -2434,6 +2432,7 @@ eryph
 esae
 esc
 escape
+escapecodes
 escapesequences
 escaping
 ese
@@ -2495,7 +2494,6 @@ everydaypowershell
 everydayrewards
 everything
 evilprince2009
-evolutionary-algorithms
 evolutionary-database
 evtx
 ews
@@ -2616,7 +2614,6 @@ fastlinq
 fastlookup
 fastping
 fasttrack
-fat32
 favorite
 favorites
 fb-pro
@@ -2918,7 +2915,6 @@ generativeaiinference
 generator
 generic
 genericartifactscontent
-genetic-algorithm
 genp
 genxdev
 geo
@@ -3524,6 +3520,7 @@ instance
 instant
 instapush
 instorage
+int
 intacct
 integrated
 integratedscriptingeditor
@@ -3704,6 +3701,7 @@ joke
 jokes
 jotform
 journal
+joyride
 jpg
 jq
 js7
@@ -3741,6 +3739,7 @@ jwt
 jwttoken
 k8s
 k8sshell
+k8ssnapshots
 kafka
 kaminario
 karabiner
@@ -3818,6 +3817,7 @@ kubectx
 kubens
 kubernetes
 kubernetesconfiguration
+kubesnapit
 kubespray
 kubetidy
 kudu
@@ -4183,6 +4183,9 @@ marquee
 marvel
 marvell
 marvell_semiconductor_inc
+marvellfcpowerkit
+marvellfcprovider
+marvellqlogicfcpowerkit
 mas
 mask
 mass
@@ -4442,6 +4445,8 @@ mpeg
 mpn
 mrfk
 mrfylke
+mrvl_fc_powerkit
+mrvlfcprovider
 ms_365
 ms-graph
 ms365
@@ -4522,7 +4527,6 @@ multithreading
 music
 musiccast
 mustache
-mutation
 mute
 mutex
 mva
@@ -4568,7 +4572,6 @@ nasdaq
 native
 natpool
 natural-language-to-code
-natural-selection
 nature
 nav
 navigation
@@ -4750,6 +4753,7 @@ nuget.exe
 nuget.org
 number
 numlock
+nummapper
 nunit
 nupkg
 nuspec
@@ -4920,7 +4924,6 @@ opsi
 opsmgr
 optics
 optimise
-optimization
 optimize
 optimizer
 option
@@ -5136,7 +5139,6 @@ pentesting
 pentia
 people
 perceptual-hash
-perforce
 performance
 performance-counters
 performancemonitoring
@@ -5266,7 +5268,6 @@ pop
 pop-location
 pop3
 popd
-population
 popup
 port
 port-scanner
@@ -5351,10 +5352,12 @@ poshy-wrap-vagrant
 poshy-wrap-vault
 poshy-wrap-vscode
 poshy-wrap-wget
+poshy-wrap-wt
 poshy-wrap-yum
 poshy-wrap-zypper
 position
 post
+postcode
 postgre
 postgres
 postgresql
@@ -7021,6 +7024,8 @@ pscommand_new-gitbranchtracked
 pscommand_new-gitpatchfile
 pscommand_new-isofile
 pscommand_new-viewerinvocationfunction
+pscommand_new-windowsterminalpane
+pscommand_new-windowsterminaltab
 pscommand_nginx_reload
 pscommand_nginx_restart
 pscommand_nginx_start
@@ -8285,6 +8290,8 @@ psfunction_new-gitbranchtracked
 psfunction_new-gitpatchfile
 psfunction_new-isofile
 psfunction_new-viewerinvocationfunction
+psfunction_new-windowsterminalpane
+psfunction_new-windowsterminaltab
 psfunction_nginx_reload
 psfunction_nginx_restart
 psfunction_nginx_start
@@ -8488,7 +8495,6 @@ psjobs
 psjobthreads
 pskeepass
 pslocalgallery
-psloganalytics
 psm
 psm1
 psmodule
@@ -8506,6 +8512,7 @@ psnavigation
 psnexosisclient
 psngenposh
 psobject
+psoutlog
 pspath
 pspersonio
 pspowerhour
@@ -8619,6 +8626,7 @@ python3
 qcloud
 qconvergeconsolepowerkit
 qemu
+qlgc_fc_powerkit
 qlik
 qlik-api
 qlik-sense
@@ -8628,6 +8636,8 @@ qlikview
 qlikview-cli
 qlogic
 qlogicfastlinqpowerkit
+qlogicfcpowerkit
+qlogicfcprovider
 qna
 qol
 qq
@@ -8666,7 +8676,6 @@ quoting
 quser
 qword
 r
-r53
 rabbit
 rabbitmq
 rackspace
@@ -8685,6 +8694,7 @@ random-date
 random-password
 random-password-generator
 randompassword
+randomuser
 randomusers
 range
 rangescan
@@ -9352,6 +9362,7 @@ session
 sessionize
 sessions
 set
+set_bios
 set-alias
 set-dnsservers
 set-githubsecrets
@@ -9364,6 +9375,7 @@ set-psbreakpoint
 set-psenv
 set-randompass
 set-type
+setbios
 sets
 setting
 settings
@@ -9534,7 +9546,6 @@ smtpoauth
 smtpsasl
 smtpsecure
 snap
-snapchat
 snapping
 snapshot
 snapshots
@@ -9712,7 +9723,6 @@ squire
 srcds
 srcsrv
 srm
-srylius-write
 ssas
 ssc
 ssdt
@@ -9746,7 +9756,6 @@ stackhci
 stackhcivm
 stackmonitoring
 stackoverflow
-staff
 staffhub
 staging
 stale
@@ -10713,7 +10722,6 @@ voting
 vovin
 vpas
 vpasmodule
-vpc
 vpg
 vplex
 vpn
@@ -11080,7 +11088,6 @@ write-debug
 write-host
 write-information
 write-log
-write-loganalytics
 write-message
 write-progress
 write-slog
@@ -11092,6 +11099,7 @@ writeprogress
 writer
 ws-federation
 wsapi
+wsb
 wsl
 wsl2
 wsl2 psmodule psedition_core
@@ -11206,6 +11214,8 @@ zookeeper
 zoom
 zoomapi
 zoommeeting
+zorus
+zorusapi
 zoxide
 zpr
 zsh
