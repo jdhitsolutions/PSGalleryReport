@@ -1,10 +1,11 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 14 October 2024 17:51:57 UTC
+Updated: Tuesday, 15 October 2024 02:16:08 UTC
 
 .bat
 .env
 .net
+.prom
 .ps1xml
 'azure'
 'blob storage'
@@ -343,7 +344,6 @@ analyst
 analyth
 analytics
 analyticsrules
-analyze
 analyzer
 analyzerrules
 anchor
@@ -1292,6 +1292,7 @@ cloudbees
 cloudberry
 cloudblue
 cloudbolt
+cloudbridge
 cloudendure
 cloudevents
 cloudflare
@@ -1313,6 +1314,7 @@ cloudservice
 cloudshell
 clueser
 cluster
+clusterminimumvalues
 clusterplacementgroups
 clusterplugins
 cmaccounts
@@ -1664,6 +1666,7 @@ crontab
 cropping
 cross-platform
 crossjoin
+crossover
 crossplatform
 crossplatformdevelopment
 crowdstrike
@@ -2072,6 +2075,7 @@ dividends
 diving
 division
 divoom
+diy
 dkim
 dkschrutebeets
 dl
@@ -2089,7 +2093,6 @@ dnd
 dnf
 dns
 dns-01
-dns-administration
 dns-async
 dns-client
 dns-over-https
@@ -2097,7 +2100,6 @@ dns-resolver
 dnsbl
 dnsclient
 dnsdumpster
-dnsentry
 dnsimple
 dnslookup
 dnsmadeeasy
@@ -2105,7 +2107,6 @@ dnsoverhttps
 dnsrecord
 dnsresolver
 dnssec
-dnsserver
 dnssuffix
 dnvm
 doc
@@ -2145,6 +2146,7 @@ domainname
 domainnamesystem
 domains
 domino
+done.land
 donothing
 dos
 dot
@@ -2322,6 +2324,7 @@ eklient psedition_core psedition_desktop
 elastic
 elasticsan
 elasticsearch
+elb
 element
 elevate
 elevated
@@ -2494,6 +2497,7 @@ everydaypowershell
 everydayrewards
 everything
 evilprince2009
+evolutionary-algorithms
 evolutionary-database
 evtx
 ews
@@ -2516,7 +2520,6 @@ exchangeon-premise
 exchangeon-premises
 exchangeonline
 exchangeonlinemanagement
-exchangeonlineprotection
 exchangeonprem
 exchangerate
 exchangeserver
@@ -2614,6 +2617,7 @@ fastlinq
 fastlookup
 fastping
 fasttrack
+fat32
 favorite
 favorites
 fb-pro
@@ -2910,11 +2914,13 @@ generates
 generatewif
 generation
 generativeai
+generativeaiagent
 generativeaiagentruntime
 generativeaiinference
 generator
 generic
 genericartifactscontent
+genetic-algorithm
 genp
 genxdev
 geo
@@ -3588,7 +3594,6 @@ iothub
 iothubproperties
 ip
 ip_cameras
-ip-address
 ip-scanner
 ipa
 ipaddress
@@ -4136,7 +4141,6 @@ man-highlighting
 manage
 manage-wmi
 manageability
-managed
 managed-identity
 manageddevices
 manageddisks
@@ -4527,6 +4531,7 @@ multithreading
 music
 musiccast
 mustache
+mutation
 mute
 mutex
 mva
@@ -4572,6 +4577,7 @@ nasdaq
 native
 natpool
 natural-language-to-code
+natural-selection
 nature
 nav
 navigation
@@ -4924,6 +4930,7 @@ opsi
 opsmgr
 optics
 optimise
+optimization
 optimize
 optimizer
 option
@@ -5032,7 +5039,6 @@ pageant
 pager
 pagerduty
 pages
-pagination
 paloalto
 paloaltonetworks
 pam
@@ -5101,7 +5107,6 @@ patches
 patching
 patchtuesday
 path
-pathfinder
 patternmatching
 paulo
 pause
@@ -5139,6 +5144,7 @@ pentesting
 pentia
 people
 perceptual-hash
+perforce
 performance
 performance-counters
 performancemonitoring
@@ -5268,6 +5274,7 @@ pop
 pop-location
 pop3
 popd
+population
 popup
 port
 port-scanner
@@ -8495,6 +8502,7 @@ psjobs
 psjobthreads
 pskeepass
 pslocalgallery
+psloganalytics
 psm
 psm1
 psmodule
@@ -8676,6 +8684,7 @@ quoting
 quser
 qword
 r
+r53
 rabbit
 rabbitmq
 rackspace
@@ -9546,6 +9555,7 @@ smtpoauth
 smtpsasl
 smtpsecure
 snap
+snapchat
 snapping
 snapshot
 snapshots
@@ -9723,6 +9733,7 @@ squire
 srcds
 srcsrv
 srm
+srylius-write
 ssas
 ssc
 ssdt
@@ -9756,6 +9767,7 @@ stackhci
 stackhcivm
 stackmonitoring
 stackoverflow
+staff
 staffhub
 staging
 stale
@@ -10015,6 +10027,7 @@ tanzu
 tar
 target
 task
+task_automation
 task-runner
 task-scheduler
 taskbar
@@ -10294,7 +10307,6 @@ trick
 tricks
 trigger
 triodos
-tripunkt
 troubleshoot
 troubleshooting
 trouw
@@ -10444,6 +10456,7 @@ unblock
 unc
 uncpaths
 underlined-text
+unhide
 unicode
 unicode-emoji
 unicode-emojis
@@ -10722,6 +10735,7 @@ voting
 vovin
 vpas
 vpasmodule
+vpc
 vpg
 vplex
 vpn
@@ -11088,6 +11102,7 @@ write-debug
 write-host
 write-information
 write-log
+write-loganalytics
 write-message
 write-progress
 write-slog
