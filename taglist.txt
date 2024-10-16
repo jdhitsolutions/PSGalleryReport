@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Wednesday, 16 October 2024 02:16:12 UTC
+Updated: Wednesday, 16 October 2024 09:52:15 UTC
 
 .bat
 .env
@@ -552,7 +552,6 @@ atlassiancli
 atlassianps
 atmosphere
 atom
-atp
 atrium
 att&ck
 attach
@@ -659,17 +658,14 @@ awscli
 awspricelist
 axapta
 axcient
-axcient_x360recover
 axinom
 axis
 axium
 ayx
 az
-az-cli
 az.runtimeenvironment
 az.stackhci
 azautomation
-azcli
 azcompute
 azd
 azdisk
@@ -698,7 +694,6 @@ azure_ad
 azure_security
 azure-adx
 azure-backup
-azure-cli
 azure-data-explorer
 azure-devops
 azure-forensics
@@ -720,7 +715,6 @@ azureartifacts
 azureas
 azureatp
 azureautomation
-azureautomationaccount
 azureautomationnotsupported
 azurebasicloadbalancerupgrade
 azurecli
@@ -919,7 +913,6 @@ blogs
 bloodhound
 bloxone
 bloxoneddi
-bls
 blue
 bluedolhin
 blueprint
@@ -1128,7 +1121,6 @@ centurylink
 centurylinkcloud
 cer
 cert
-certbasedauth
 certera
 certes
 certificate
@@ -1432,7 +1424,6 @@ complete
 completer
 completion
 completion-manager
-completionresult
 completions
 complex
 compliance
@@ -1522,7 +1513,6 @@ containerinstances
 containerregistry
 containers
 containment
-content
 contentprep
 context
 continious-deploy
@@ -1573,6 +1563,7 @@ converttohtml
 converttomarkdown
 converttomd
 cookie
+coolq
 cooltag1
 cooltag2
 coordinates
@@ -1617,8 +1608,10 @@ cppm
 cpu
 cpuid
 cpuid-information
+cq
 cqd
 cqdpowershell
+cqhttp
 crack psmodule
 crash
 crawler
@@ -1910,7 +1903,6 @@ defenderforidentity
 defense
 deflate
 defrag
-delegateaccesscontrol
 delegated
 delegation
 delegationmodel
@@ -2224,7 +2216,6 @@ dscresourcekit
 dscresources
 dsctools
 dsl
-dsm
 dsreg
 dsregcmd
 dsutils
@@ -2235,7 +2226,6 @@ dtx
 du
 dual-stack
 duck
-duckdb
 duckduckgo
 ducktyping
 dudckduckgo
@@ -2326,7 +2316,6 @@ elastic
 elasticsan
 elasticsearch
 elb
-element
 elevate
 elevated
 elevatedconsole
@@ -2387,7 +2376,6 @@ english
 enhancement
 enrichers
 enrichment
-enteo
 enter
 enterprise
 enterprise-scale
@@ -2839,7 +2827,6 @@ fritzbox
 front
 frontapp
 frontdoor
-frontrange
 fs
 fsc-ps
 fscps
@@ -2878,7 +2865,6 @@ gainz
 gainz-chocolateysync
 gainz-keepass
 gainz-sqldb
-gal
 gallery
 game
 gamecategory:cards
@@ -2918,7 +2904,6 @@ generates
 generatewif
 generation
 generativeai
-generativeaiagent
 generativeaiagentruntime
 generativeaiinference
 generator
@@ -3112,7 +3097,6 @@ guardicore
 gubbins
 guest
 guestconfiguration
-guests
 gui
 gui.cs
 guid
@@ -3187,7 +3171,6 @@ hcx
 hdfs
 hdhomerun
 hdinsight
-hdinsightonaks
 hdr
 header
 headhunter
@@ -3201,7 +3184,6 @@ healthchecks
 healthservice
 healthz
 heartbeatdiscovery
-heat
 heating
 heavenbay
 helium
@@ -3214,7 +3196,6 @@ helm
 helmet
 help
 helpdesk
-helpdoc
 helper
 helper-functions
 helperfunctions
@@ -3320,7 +3301,6 @@ html-templates
 http
 http_proxy
 httpclient
-httplistener
 https
 https_proxy
 httpserver
@@ -3455,6 +3435,7 @@ imperva
 import
 import-csv
 import-dtdriverpackpackagedefinitionsms
+import-module
 import-modulefrompath
 import-passlist
 import-sampackagedefinitionsms
@@ -3659,6 +3640,7 @@ items
 itemstack
 iterate
 iteration
+itg
 itglue
 itin
 itop
@@ -3755,6 +3737,7 @@ karabiner-elements
 karma
 kaseya
 kaseyavsa
+kaspersky
 katakana
 kb
 kbarticle
@@ -3969,7 +3952,6 @@ listener
 litecoin
 litedb
 literature
-live
 llama
 llama2
 llama3
@@ -4223,6 +4205,7 @@ mcas
 mccs
 mcd
 mchapv2
+mct
 md5
 md5_v2-18678d945a01f01ccd1b01ed86392fd5
 mdatp
@@ -4342,6 +4325,8 @@ microsoftonline
 microsoftstaffhub
 microsoftstore
 microsoftteams
+microsoftteamsdevices
+microsoftteamsphone
 microsoftword
 middleware
 midserver
@@ -4827,6 +4812,7 @@ office365managementapi
 officedev
 officegraph
 officemessageencryption
+officertool
 offline
 offlinewimservicing
 ofx
@@ -5211,6 +5197,7 @@ pivotal
 pivottable
 pixoo
 pkce
+pkgx
 pki
 pki psmodule
 pks
@@ -5245,6 +5232,7 @@ pncit
 pnp
 pnp.powershell
 pnpm
+poc
 pode
 poe
 poem
@@ -5406,13 +5394,11 @@ powershell_universal
 powershell-class
 powershell-cmdlets
 powershell-core
-powershell-core-releases-api
 powershell-course
 powershell-credentials
 powershell-dsc
 powershell-examples
 powershell-gallery
-powershell-github-repo
 powershell-gitlab
 powershell-graphql
 powershell-isprime
@@ -5421,7 +5407,6 @@ powershell-module
 powershell-modules
 powershell-modules-convention
 powershell-project-convention
-powershell-releases-api
 powershell-remoting
 powershell-terminal
 powershell-terminal-copilot
@@ -5540,6 +5525,7 @@ profiler
 profiles
 profilevalidation
 proget
+program
 program-association
 programs
 progress
@@ -5548,6 +5534,7 @@ progressbars
 project
 project-management
 projectmanagement
+projectreunion
 projects
 projecttemplate
 projectwise
@@ -8643,6 +8630,7 @@ qlogicfcpowerkit
 qlogicfcprovider
 qna
 qol
+qq
 qr
 qr-code
 qrcode
@@ -8742,6 +8730,7 @@ read-slog
 readable
 reader
 readiness
+readme
 readpdf
 readthedocs
 real-time
@@ -9129,7 +9118,6 @@ scanner
 scanning
 scap
 scatter
-scb
 scc
 sccm
 sccmam
@@ -9195,7 +9183,6 @@ scriptblocklogging
 scriptbook
 scriptcop
 scriptcreation
-scriptcs
 scriptedui
 scripting
 scriptlog
@@ -9312,7 +9299,6 @@ sensors
 sensu
 sentinel
 sentinelone
-sentry
 sep
 seppmail
 seppmail.cloud
@@ -9638,7 +9624,6 @@ specification
 specify
 spectre
 spectrumconnect
-spectrumcontrolbase
 speculation
 speculationcontrol
 speech
@@ -9887,7 +9872,6 @@ sudo
 sugar
 sugarcrm
 suggestion
-suitecrm
 sullivan
 summary
 summit
@@ -10018,7 +10002,6 @@ tar
 target
 task
 task_automation
-task-runner
 task-scheduler
 taskbar
 tasker
@@ -10046,6 +10029,10 @@ teamfoundationserver
 teams
 teamsdevices
 teamservices
+teamsphones
+teamsphonesoftwareupdate
+teamsphonessoftwareupdates
+teamsphoneupdatesoftware
 teamspolicy
 teamviewer
 techdirect
@@ -10321,6 +10308,7 @@ tst3
 tsv
 ttrpg
 tts
+tubedownloader
 tui
 tulpep
 tuner
@@ -10430,6 +10418,7 @@ ui7
 uk
 ul
 ulid
+ultimatetool
 um
 uml
 umn
@@ -10450,6 +10439,7 @@ unified
 unifiedauditlog
 unifiedlabeling
 uninstall
+uninstaller
 union
 unique
 unique-files
@@ -10931,6 +10921,7 @@ windows-control-panel
 windows-defender
 windows-defender-application-control
 windows-environment
+windows-explorer
 windows-features
 windows-firewall
 windows-path
@@ -10966,6 +10957,7 @@ windowsinstaller
 windowsinternaldatabase
 windowsinternals
 windowsiotservices
+windowsiso
 windowsmanagement
 windowsmanagementframework
 windowspackagemanager
@@ -11007,6 +10999,7 @@ winsat
 winscp
 wintellect
 winterminal
+winui
 wireless
 wirelessnetwork
 wireshark
