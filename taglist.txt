@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Tuesday, 15 October 2024 17:52:17 UTC
+Updated: Wednesday, 16 October 2024 02:16:12 UTC
 
 .bat
 .env
@@ -825,7 +825,6 @@ battery
 bayern
 bazzo
 bb
-bbc
 bbp
 bc
 bc365
@@ -1574,7 +1573,6 @@ converttohtml
 converttomarkdown
 converttomd
 cookie
-coolq
 cooltag1
 cooltag2
 coordinates
@@ -1619,10 +1617,8 @@ cppm
 cpu
 cpuid
 cpuid-information
-cq
 cqd
 cqdpowershell
-cqhttp
 crack psmodule
 crash
 crawler
@@ -1880,6 +1876,7 @@ debugger
 debugging
 decimal
 decimalip
+decimalzero
 declarative
 decline
 decode
@@ -2075,7 +2072,6 @@ distributionpointgroupmembers
 distrubtionpoint
 dividends
 diving
-division
 divoom
 diy
 dkim
@@ -2101,9 +2097,11 @@ dns-client
 dns-over-https
 dns-resolver
 dnsbl
+dnsclient
 dnsdumpster
 dnsentry
 dnsimple
+dnslookup
 dnsmadeeasy
 dnsoverhttps
 dnsrecord
@@ -2260,6 +2258,7 @@ durabletask
 dust
 dutch
 dvls
+dvr
 dword
 dxexpeditions
 dynamic
@@ -2285,6 +2284,7 @@ dynamicsnav
 dynamodb
 dynatrace
 dynatraceobservability
+dz
 e-mail
 e1
 easy
@@ -3185,6 +3185,7 @@ hcl
 hcm
 hcx
 hdfs
+hdhomerun
 hdinsight
 hdinsightonaks
 hdr
@@ -3272,6 +3273,7 @@ home_automation
 homebrew
 homelandsecurity
 homeschooling
+hometheater
 hon
 hooking
 horizon
@@ -3453,7 +3455,6 @@ imperva
 import
 import-csv
 import-dtdriverpackpackagedefinitionsms
-import-module
 import-modulefrompath
 import-passlist
 import-sampackagedefinitionsms
@@ -3551,6 +3552,7 @@ interlogix
 internal
 internet
 internet-explorer
+internetconnection
 internetexplorer
 intersight
 intersightcmdlets
@@ -3657,7 +3659,6 @@ items
 itemstack
 iterate
 iteration
-itg
 itglue
 itin
 itop
@@ -3708,6 +3709,7 @@ joke
 jokes
 jotform
 journal
+joyride
 jpg
 jq
 js7
@@ -3753,7 +3755,6 @@ karabiner-elements
 karma
 kaseya
 kaseyavsa
-kaspersky
 katakana
 kb
 kbarticle
@@ -4111,6 +4112,7 @@ macmon
 macos
 macosx
 macro
+macros
 madlib
 magazine
 magento
@@ -4210,6 +4212,7 @@ maven
 max
 max_path
 maximum
+maxoffice
 mazerat
 mb
 mbc
@@ -4220,7 +4223,6 @@ mcas
 mccs
 mcd
 mchapv2
-mct
 md5
 md5_v2-18678d945a01f01ccd1b01ed86392fd5
 mdatp
@@ -4246,6 +4248,7 @@ mediaservices
 mediawiki
 meditation
 medlemsservice
+meesman
 meeting
 meetup
 meetup.com
@@ -4339,8 +4342,6 @@ microsoftonline
 microsoftstaffhub
 microsoftstore
 microsoftteams
-microsoftteamsdevices
-microsoftteamsphone
 microsoftword
 middleware
 midserver
@@ -4582,6 +4583,7 @@ nav
 navigation
 nbi
 ncal
+ncrestapi
 ndes
 nebulon
 nec-infrared-transmission-protocol
@@ -4825,7 +4827,6 @@ office365managementapi
 officedev
 officegraph
 officemessageencryption
-officertool
 offline
 offlinewimservicing
 ofx
@@ -5210,8 +5211,8 @@ pivotal
 pivottable
 pixoo
 pkce
-pkgx
 pki
+pki psmodule
 pks
 place
 places
@@ -5231,6 +5232,7 @@ playwright
 pleasant
 pleasantpasswordserver
 plex
+plist
 plog
 plot
 plug-n-copy
@@ -5243,7 +5245,6 @@ pncit
 pnp
 pnp.powershell
 pnpm
-poc
 pode
 poe
 poem
@@ -5454,7 +5455,6 @@ powershellv5
 powershellweb
 powerstig
 powerstore
-powertab
 powertoolcmdlets
 powertooldsc
 ppdm
@@ -5540,7 +5540,6 @@ profiler
 profiles
 profilevalidation
 proget
-program
 program-association
 programs
 progress
@@ -5549,7 +5548,6 @@ progressbars
 project
 project-management
 projectmanagement
-projectreunion
 projects
 projecttemplate
 projectwise
@@ -5560,6 +5558,7 @@ pronounceable
 proofpoint
 properties
 property
+property-list
 prose
 protect
 protect-blob
@@ -8482,6 +8481,7 @@ psget
 psgitlab
 psgraph
 psgraylog
+pshdhomerun
 pshot
 pshtml
 psimport
@@ -8540,7 +8540,6 @@ psrule-rules
 pssa
 psscriptanalyzer
 psscriptanaylzer
-psscriptsmonitoring
 pssendgrid
 pssession
 pssharper
@@ -8644,8 +8643,8 @@ qlogicfcpowerkit
 qlogicfcprovider
 qna
 qol
-qq
 qr
+qr-code
 qrcode
 qrcodes
 qrp
@@ -8663,6 +8662,7 @@ question
 queue
 queues
 queuing
+quick-response
 quickaccess
 quickbase
 quickbooks
@@ -8742,7 +8742,6 @@ read-slog
 readable
 reader
 readiness
-readme
 readpdf
 readthedocs
 real-time
@@ -8757,6 +8756,7 @@ reconcile
 reconnaissance
 record
 recording
+recordings
 recordsmanagement
 recovery
 recoveryservices
@@ -8813,7 +8813,6 @@ region
 regions
 regiser-argumentcompleter
 register
-register-argumentcompleter
 registered
 registrar
 registration
@@ -9205,7 +9204,6 @@ scriptmodule
 scriptoform
 scriptrunner
 scripts
-scriptsmonitoring
 scrolllock
 scrub
 scrubber
@@ -9459,6 +9457,7 @@ signature
 signed
 signing
 signtool
+silicondust
 silk
 silver_ticket
 sim
@@ -9565,7 +9564,6 @@ snmpwalk
 snowflake
 snsmssqlpsmodule
 snspsadgroupmembers
-snspsscriptsmonitoring
 snssqlitepsmodule
 sntp
 soap
@@ -10048,10 +10046,6 @@ teamfoundationserver
 teams
 teamsdevices
 teamservices
-teamsphones
-teamsphonesoftwareupdate
-teamsphonessoftwareupdates
-teamsphoneupdatesoftware
 teamspolicy
 teamviewer
 techdirect
@@ -10101,6 +10095,7 @@ tesla
 test
 test-automation
 test-dscconfiguration
+test-internetconnection
 test-modulemanifest
 test-modulepath
 test-osplatform
@@ -10326,14 +10321,12 @@ tst3
 tsv
 ttrpg
 tts
-tubedownloader
 tui
 tulpep
 tuner
 tuning
 tutorial
 tv
-tvguide
 tweet
 twig
 twilio
@@ -10437,7 +10430,6 @@ ui7
 uk
 ul
 ulid
-ultimatetool
 um
 uml
 umn
@@ -10458,7 +10450,6 @@ unified
 unifiedauditlog
 unifiedlabeling
 uninstall
-uninstaller
 union
 unique
 unique-files
@@ -10590,7 +10581,6 @@ vaultstore
 vaultwarden
 vb365
 vba
-vbaproject
 vbproj
 vbr
 vbscript
@@ -10715,6 +10705,7 @@ voice
 voiceservices
 voidtools
 volkskrant
+volta
 volume
 volumelicense
 volumelicenseagreement
@@ -10940,7 +10931,6 @@ windows-control-panel
 windows-defender
 windows-defender-application-control
 windows-environment
-windows-explorer
 windows-features
 windows-firewall
 windows-path
@@ -10976,7 +10966,6 @@ windowsinstaller
 windowsinternaldatabase
 windowsinternals
 windowsiotservices
-windowsiso
 windowsmanagement
 windowsmanagementframework
 windowspackagemanager
@@ -11018,7 +11007,6 @@ winsat
 winscp
 wintellect
 winterminal
-winui
 wireless
 wirelessnetwork
 wireshark
