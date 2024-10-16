@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Wednesday, 16 October 2024 09:52:15 UTC
+Updated: Wednesday, 16 October 2024 17:51:56 UTC
 
 .bat
 .env
@@ -552,6 +552,7 @@ atlassiancli
 atlassianps
 atmosphere
 atom
+atp
 atrium
 att&ck
 attach
@@ -658,14 +659,17 @@ awscli
 awspricelist
 axapta
 axcient
+axcient_x360recover
 axinom
 axis
 axium
 ayx
 az
+az-cli
 az.runtimeenvironment
 az.stackhci
 azautomation
+azcli
 azcompute
 azd
 azdisk
@@ -694,6 +698,7 @@ azure_ad
 azure_security
 azure-adx
 azure-backup
+azure-cli
 azure-data-explorer
 azure-devops
 azure-forensics
@@ -715,6 +720,7 @@ azureartifacts
 azureas
 azureatp
 azureautomation
+azureautomationaccount
 azureautomationnotsupported
 azurebasicloadbalancerupgrade
 azurecli
@@ -819,6 +825,7 @@ battery
 bayern
 bazzo
 bb
+bbc
 bbp
 bc
 bc365
@@ -913,6 +920,7 @@ blogs
 bloodhound
 bloxone
 bloxoneddi
+bls
 blue
 bluedolhin
 blueprint
@@ -1121,6 +1129,7 @@ centurylink
 centurylinkcloud
 cer
 cert
+certbasedauth
 certera
 certes
 certificate
@@ -1424,6 +1433,7 @@ complete
 completer
 completion
 completion-manager
+completionresult
 completions
 complex
 compliance
@@ -1513,6 +1523,7 @@ containerinstances
 containerregistry
 containers
 containment
+content
 contentprep
 context
 continious-deploy
@@ -1903,6 +1914,7 @@ defenderforidentity
 defense
 deflate
 defrag
+delegateaccesscontrol
 delegated
 delegation
 delegationmodel
@@ -2064,7 +2076,7 @@ distributionpointgroupmembers
 distrubtionpoint
 dividends
 diving
-divoom
+division
 diy
 dkim
 dkschrutebeets
@@ -2216,6 +2228,7 @@ dscresourcekit
 dscresources
 dsctools
 dsl
+dsm
 dsreg
 dsregcmd
 dsutils
@@ -2226,6 +2239,7 @@ dtx
 du
 dual-stack
 duck
+duckdb
 duckduckgo
 ducktyping
 dudckduckgo
@@ -2316,6 +2330,7 @@ elastic
 elasticsan
 elasticsearch
 elb
+element
 elevate
 elevated
 elevatedconsole
@@ -2376,6 +2391,7 @@ english
 enhancement
 enrichers
 enrichment
+enteo
 enter
 enterprise
 enterprise-scale
@@ -2827,6 +2843,7 @@ fritzbox
 front
 frontapp
 frontdoor
+frontrange
 fs
 fsc-ps
 fscps
@@ -2865,6 +2882,7 @@ gainz
 gainz-chocolateysync
 gainz-keepass
 gainz-sqldb
+gal
 gallery
 game
 gamecategory:cards
@@ -2904,6 +2922,7 @@ generates
 generatewif
 generation
 generativeai
+generativeaiagent
 generativeaiagentruntime
 generativeaiinference
 generator
@@ -3097,6 +3116,7 @@ guardicore
 gubbins
 guest
 guestconfiguration
+guests
 gui
 gui.cs
 guid
@@ -3171,6 +3191,7 @@ hcx
 hdfs
 hdhomerun
 hdinsight
+hdinsightonaks
 hdr
 header
 headhunter
@@ -3184,6 +3205,7 @@ healthchecks
 healthservice
 healthz
 heartbeatdiscovery
+heat
 heating
 heavenbay
 helium
@@ -3196,6 +3218,7 @@ helm
 helmet
 help
 helpdesk
+helpdoc
 helper
 helper-functions
 helperfunctions
@@ -3301,6 +3324,7 @@ html-templates
 http
 http_proxy
 httpclient
+httplistener
 https
 https_proxy
 httpserver
@@ -3726,7 +3750,6 @@ jwe
 jwk
 jws
 jwt
-jwttoken
 k8s
 k8sshell
 k8ssnapshots
@@ -3836,7 +3859,6 @@ labworker
 lake
 lambda
 lame
-lametrictime
 lamp
 lan
 landingzones
@@ -3952,6 +3974,7 @@ listener
 litecoin
 litedb
 literature
+live
 llama
 llama2
 llama3
@@ -4556,7 +4579,6 @@ namespace
 naming
 nana
 nano
-nanoleaf
 nartac
 nasdaq
 native
@@ -5195,7 +5217,6 @@ piv
 pivot
 pivotal
 pivottable
-pixoo
 pkce
 pkgx
 pki
@@ -5329,7 +5350,6 @@ poshy-wrap-golang
 poshy-wrap-helm
 poshy-wrap-kubectl
 poshy-wrap-maven
-poshy-wrap-nginx
 poshy-wrap-nmap
 poshy-wrap-npm
 poshy-wrap-pip
@@ -5394,11 +5414,13 @@ powershell_universal
 powershell-class
 powershell-cmdlets
 powershell-core
+powershell-core-releases-api
 powershell-course
 powershell-credentials
 powershell-dsc
 powershell-examples
 powershell-gallery
+powershell-github-repo
 powershell-gitlab
 powershell-graphql
 powershell-isprime
@@ -5407,6 +5429,7 @@ powershell-module
 powershell-modules
 powershell-modules-convention
 powershell-project-convention
+powershell-releases-api
 powershell-remoting
 powershell-terminal
 powershell-terminal-copilot
@@ -5440,6 +5463,7 @@ powershellv5
 powershellweb
 powerstig
 powerstore
+powertab
 powertoolcmdlets
 powertooldsc
 ppdm
@@ -7016,10 +7040,6 @@ pscommand_new-isofile
 pscommand_new-viewerinvocationfunction
 pscommand_new-windowsterminalpane
 pscommand_new-windowsterminaltab
-pscommand_nginx_reload
-pscommand_nginx_restart
-pscommand_nginx_start
-pscommand_nginx_stop
 pscommand_nmap_check_for_firewall
 pscommand_nmap_check_for_vulns
 pscommand_nmap_detect_versions
@@ -8282,10 +8302,6 @@ psfunction_new-isofile
 psfunction_new-viewerinvocationfunction
 psfunction_new-windowsterminalpane
 psfunction_new-windowsterminaltab
-psfunction_nginx_reload
-psfunction_nginx_restart
-psfunction_nginx_start
-psfunction_nginx_stop
 psfunction_nmap_check_for_firewall
 psfunction_nmap_check_for_vulns
 psfunction_nmap_detect_versions
@@ -8499,7 +8515,6 @@ psmssql
 psmssqlbynarymodule
 psmssqlmodule
 psmvp
-psnavigation
 psnexosisclient
 psngenposh
 psobject
@@ -8527,6 +8542,7 @@ psrule-rules
 pssa
 psscriptanalyzer
 psscriptanaylzer
+psscriptsmonitoring
 pssendgrid
 pssession
 pssharper
@@ -8802,6 +8818,7 @@ region
 regions
 regiser-argumentcompleter
 register
+register-argumentcompleter
 registered
 registrar
 registration
@@ -9118,6 +9135,7 @@ scanner
 scanning
 scap
 scatter
+scb
 scc
 sccm
 sccmam
@@ -9183,6 +9201,7 @@ scriptblocklogging
 scriptbook
 scriptcop
 scriptcreation
+scriptcs
 scriptedui
 scripting
 scriptlog
@@ -9191,6 +9210,7 @@ scriptmodule
 scriptoform
 scriptrunner
 scripts
+scriptsmonitoring
 scrolllock
 scrub
 scrubber
@@ -9299,6 +9319,7 @@ sensors
 sensu
 sentinel
 sentinelone
+sentry
 sep
 seppmail
 seppmail.cloud
@@ -9550,6 +9571,7 @@ snmpwalk
 snowflake
 snsmssqlpsmodule
 snspsadgroupmembers
+snspsscriptsmonitoring
 snssqlitepsmodule
 sntp
 soap
@@ -9624,6 +9646,7 @@ specification
 specify
 spectre
 spectrumconnect
+spectrumcontrolbase
 speculation
 speculationcontrol
 speech
@@ -9872,6 +9895,7 @@ sudo
 sugar
 sugarcrm
 suggestion
+suitecrm
 sullivan
 summary
 summit
@@ -10002,6 +10026,7 @@ tar
 target
 task
 task_automation
+task-runner
 task-scheduler
 taskbar
 tasker
@@ -10315,11 +10340,11 @@ tuner
 tuning
 tutorial
 tv
+tvguide
 tweet
 twig
 twilio
 twincat
-twinkly
 twitch
 twitter
 twitter-api
@@ -10571,6 +10596,7 @@ vaultstore
 vaultwarden
 vb365
 vba
+vbaproject
 vbproj
 vbr
 vbscript
@@ -10715,7 +10741,6 @@ vpn-certificate
 vpro
 vps
 vra
-vrchat
 vrealize
 vrising
 vro
@@ -10755,7 +10780,6 @@ vxrail
 w32time
 w365
 w3svc
-w3w
 waa
 waas
 wac
@@ -10848,7 +10872,6 @@ wem
 wemsdk
 wer
 wget
-what3words
 whatismyip
 whatsnew
 whatsupgold
