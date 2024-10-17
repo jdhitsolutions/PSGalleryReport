@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Wednesday, 16 October 2024 17:51:56 UTC
+Updated: Thursday, 17 October 2024 02:15:38 UTC
 
 .bat
 .env
@@ -20,7 +20,6 @@ Updated: Wednesday, 16 October 2024 17:51:56 UTC
 🍣
 💩
 🙇
-1&1
 10
 11
 1607
@@ -674,7 +673,6 @@ azcompute
 azd
 azdisk
 azdo
-azereo
 azforensics
 azkeyvault
 aznetworking
@@ -2077,6 +2075,7 @@ distrubtionpoint
 dividends
 diving
 division
+divoom
 diy
 dkim
 dkschrutebeets
@@ -2342,7 +2341,6 @@ elm
 elmah-io
 elonmusk
 eloqua
-elvish
 elvui
 em
 emacs
@@ -3186,7 +3184,6 @@ hba
 hbase
 hci
 hcl
-hcm
 hcx
 hdfs
 hdhomerun
@@ -3269,7 +3266,6 @@ hklm
 hl7
 hlds
 hls
-hockey
 hol
 holiday
 home
@@ -3442,7 +3438,6 @@ imageoftheday
 imageprocess
 imageprocessing
 images
-imageservicing
 imageslide
 imagevalidate
 imagevalidation
@@ -3594,7 +3589,6 @@ invoke-webrequest
 invokebuild
 invokemethod
 io
-ionos
 ios
 iot
 iotcentral
@@ -3750,6 +3744,7 @@ jwe
 jwk
 jws
 jwt
+jwttoken
 k8s
 k8sshell
 k8ssnapshots
@@ -3859,6 +3854,7 @@ labworker
 lake
 lambda
 lame
+lametrictime
 lamp
 lan
 landingzones
@@ -4553,8 +4549,6 @@ myget
 myhub
 myip
 myitprocess
-myjson
-myjson.com
 myob
 myposh
 mypstag
@@ -4579,6 +4573,7 @@ namespace
 naming
 nana
 nano
+nanoleaf
 nartac
 nasdaq
 native
@@ -4687,7 +4682,6 @@ nfsv3
 ngen
 ngfw
 nginx
-nhl
 nic
 nic.ru
 nightmare
@@ -4763,7 +4757,6 @@ ntsystems
 nuget
 nuget-references
 nuget.exe
-nuget.org
 number
 numlock
 nummapper
@@ -4836,7 +4829,6 @@ officegraph
 officemessageencryption
 officertool
 offline
-offlinewimservicing
 ofx
 ogg
 oh-my-posh
@@ -4970,7 +4962,6 @@ osdcloud
 osddriver
 osddrivers
 osdeploy
-osdeployment
 osdprogress
 osdsus
 osdupdate
@@ -5163,7 +5154,6 @@ permissions
 permutations
 persistence
 persistent
-personal
 personalisation
 personalization
 personalvault
@@ -5178,7 +5168,6 @@ pgp
 phabricator
 philips
 philosophical
-philpritchett
 phishing
 phoenix
 phone
@@ -5217,6 +5206,7 @@ piv
 pivot
 pivotal
 pivottable
+pixoo
 pkce
 pkgx
 pki
@@ -5253,7 +5243,6 @@ pncit
 pnp
 pnp.powershell
 pnpm
-poc
 pode
 poe
 poem
@@ -5350,6 +5339,7 @@ poshy-wrap-golang
 poshy-wrap-helm
 poshy-wrap-kubectl
 poshy-wrap-maven
+poshy-wrap-nginx
 poshy-wrap-nmap
 poshy-wrap-npm
 poshy-wrap-pip
@@ -5380,9 +5370,7 @@ potato
 pow
 powdrgit
 power
-power-apps
 power-cbr
-power-platform
 power-shell
 powerapps
 powerappsportal
@@ -7040,6 +7028,10 @@ pscommand_new-isofile
 pscommand_new-viewerinvocationfunction
 pscommand_new-windowsterminalpane
 pscommand_new-windowsterminaltab
+pscommand_nginx_reload
+pscommand_nginx_restart
+pscommand_nginx_start
+pscommand_nginx_stop
 pscommand_nmap_check_for_firewall
 pscommand_nmap_check_for_vulns
 pscommand_nmap_detect_versions
@@ -8302,6 +8294,10 @@ psfunction_new-isofile
 psfunction_new-viewerinvocationfunction
 psfunction_new-windowsterminalpane
 psfunction_new-windowsterminaltab
+psfunction_nginx_reload
+psfunction_nginx_restart
+psfunction_nginx_start
+psfunction_nginx_stop
 psfunction_nmap_check_for_firewall
 psfunction_nmap_check_for_vulns
 psfunction_nmap_detect_versions
@@ -8515,6 +8511,7 @@ psmssql
 psmssqlbynarymodule
 psmssqlmodule
 psmvp
+psnavigation
 psnexosisclient
 psngenposh
 psobject
@@ -8625,7 +8622,6 @@ pxedistributionpoint
 pyenv
 pygmentize
 pylint
-pyranja
 python
 python-for-dotnet
 python3
@@ -8883,7 +8879,6 @@ rename-git-branch
 rename-gitbranch
 reonboarding
 repair
-repair-msauth
 reparsepoint
 repeat
 repl
@@ -9516,7 +9511,6 @@ skytap
 slack
 slash
 slashcommands
-sleeper
 slideshow
 slmgr
 sln
@@ -9672,7 +9666,6 @@ spn
 spo
 spooler
 sport
-sports
 sports-tracker
 spotify
 spotify-api
@@ -10345,6 +10338,7 @@ tweet
 twig
 twilio
 twincat
+twinkly
 twitch
 twitter
 twitter-api
@@ -10741,6 +10735,7 @@ vpn-certificate
 vpro
 vps
 vra
+vrchat
 vrealize
 vrising
 vro
@@ -10780,6 +10775,7 @@ vxrail
 w32time
 w365
 w3svc
+w3w
 waa
 waas
 wac
@@ -10872,6 +10868,7 @@ wem
 wemsdk
 wer
 wget
+what3words
 whatismyip
 whatsnew
 whatsupgold
