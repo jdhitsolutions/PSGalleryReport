@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Sunday, 27 October 2024 02:17:06 UTC
+Updated: Sunday, 27 October 2024 09:52:03 UTC
 
 .bat
 .env
@@ -256,6 +256,7 @@ agile
 agility
 agm
 agnoster
+ahk
 ai
 ai21
 ai21labs
@@ -325,8 +326,11 @@ amateur-data-interchange-format
 amateur-radio
 amateurradio
 amazon
+amazonaws
+amazonmgn
 amazontitan
 amazonwebservices
+amend
 ami
 amiga
 amp
@@ -477,6 +481,7 @@ archonagent
 arcresourcebridge
 arcus
 area
+arg
 argcomplete
 argument
 argumentcompleter
@@ -596,6 +601,7 @@ autocomplete
 autocompletion
 autoenv
 autograph
+autohotkey
 autoload
 autologon
 automai
@@ -717,7 +723,6 @@ azureartifacts
 azureas
 azureatp
 azureautomation
-azureautomationaccount
 azureautomationnotsupported
 azurebasicloadbalancerupgrade
 azurecli
@@ -817,6 +822,7 @@ bat
 batcat
 batch
 batchclass
+batman
 battery
 bayern
 bazzo
@@ -997,6 +1003,7 @@ build-test-publish
 builddefinition
 builder
 buildhelpers
+building
 buildingfile
 buildingmapping
 buildkit
@@ -1044,6 +1051,7 @@ callqueue
 calvin-and-hobbes
 cam
 camera
+cameras
 campaign
 camtasia
 canarie
@@ -1169,6 +1177,7 @@ chef-compliance
 chef-server
 chefconf2016
 chenxizhang
+cherrypy
 cherwell
 chfs
 chi
@@ -1311,6 +1320,7 @@ clueser
 cluster
 clusterminimumvalues
 clusterplacementgroups
+clusterplugins
 cmaccounts
 cmake
 cmakepresets.json
@@ -1515,6 +1525,7 @@ containerinstances
 containerregistry
 containers
 containment
+content
 contentprep
 context
 continious-deploy
@@ -1707,7 +1718,6 @@ custom
 customchecks
 customdns
 customer
-customerengagement
 customers
 customeventchannel
 customeventlog
@@ -1746,7 +1756,6 @@ cylance
 cypher
 cyrillic
 d365
-d365ce
 d365fo
 d365fsc
 daas
@@ -1783,7 +1792,6 @@ databaseautomation
 databasemanagement
 databasemigration
 databases
-databasetools
 databooster
 databox
 databoxedge
@@ -1899,7 +1907,6 @@ defence
 defender
 defender-atp
 defender-for-endpoint
-defenderast
 defenderforendpoint
 defenderforidentity
 defense
@@ -2086,7 +2093,6 @@ dmx
 dnd
 dnf
 dns
-dns-01
 dns-administration
 dns-async
 dns-client
@@ -2240,9 +2246,6 @@ dumb
 dummy
 dummyusers
 dump
-dumpify
-dumping
-dumps
 duo
 duosecurity
 dupes
@@ -2271,9 +2274,7 @@ dynamics
 dynamics-365
 dynamics-crm
 dynamics365
-dynamics365ce
 dynamics365fo
-dynamics365sales
 dynamics365server
 dynamicsax
 dynamicsecuritygroups
@@ -2546,11 +2547,11 @@ expand
 expand-string
 expand-tab
 expandframework
-expect
 experience
 experiments
 expiration
 expired
+expiring
 expiry
 exploit
 exploits
@@ -2642,7 +2643,6 @@ fiddler
 fido
 fido2
 fieldglass
-fields
 fifa
 figlet
 file
@@ -2684,7 +2684,6 @@ filesecurity
 fileserver
 fileserverresourcemanager
 fileshare
-filesharing
 filestorage
 filestream
 filesystem
@@ -2721,8 +2720,8 @@ finddownloadlinkfromwebsite
 findfile
 findlocation
 findplace
+findproxyforurl
 fine-print
-fine-tuning
 finops
 firebird
 firefox
@@ -2915,7 +2914,6 @@ generatewif
 generation
 generativeai
 generativeaiagent
-generativeaiagentruntime
 generativeaiinference
 generator
 generic
@@ -2998,6 +2996,7 @@ gitflow
 gitforwindows
 github
 github-actions
+githubaction
 githubactions
 githubtools
 githubworkflow
@@ -3240,7 +3239,6 @@ highlighting
 highrise
 hint
 hipaa
-hipb
 hipchat
 hiragana
 histogram
@@ -3571,6 +3569,7 @@ invocation
 invoice
 invoke
 invoke-asadmin
+invoke-asadministrator
 invoke-ascurrentuser
 invoke-automation
 invoke-build
@@ -3592,6 +3591,7 @@ iotcentral
 iothub
 iothubproperties
 ip
+ip_cameras
 ip-address
 ip-scanner
 ipa
@@ -3682,6 +3682,7 @@ jdt
 jea
 jea_module
 jeanalyzer
+jekyll
 jenkins
 jetbrains
 jira
@@ -3944,6 +3945,7 @@ link-capability
 link-preview
 linkedin
 linkedservice
+linkedservicedependency
 linkid
 links
 linq
@@ -4129,6 +4131,7 @@ maintenance
 maintenance-window
 maintenancewindows
 mak
+make
 maker
 malware
 mamagedidentity
@@ -4291,6 +4294,7 @@ metrics
 metrolink
 mfa
 mga
+mgn
 mi
 micro
 micro-orm
@@ -4388,7 +4392,6 @@ mobilitycontroller
 mock
 mocking
 model
-modeling
 models
 modify
 module
@@ -4763,6 +4766,7 @@ nupkg
 nuspec
 nutanix
 nuwave
+nva
 nvd
 nvdimm
 nvdimm-n
@@ -4836,6 +4840,7 @@ oidc
 okta
 old
 older
+ole
 oledb
 ollama
 omaha
@@ -5246,6 +5251,7 @@ pnp.powershell
 pnpm
 poc
 pode
+poe
 poem
 poetry
 point
@@ -5346,6 +5352,7 @@ poshy-wrap-npm
 poshy-wrap-pip
 poshy-wrap-pipenv
 poshy-wrap-pyenv
+poshy-wrap-pylint
 poshy-wrap-python
 poshy-wrap-ruby
 poshy-wrap-systemctl
@@ -5353,6 +5360,7 @@ poshy-wrap-terraform
 poshy-wrap-terragrunt
 poshy-wrap-tmux
 poshy-wrap-vagrant
+poshy-wrap-vault
 poshy-wrap-vscode
 poshy-wrap-wget
 poshy-wrap-wt
@@ -5384,7 +5392,6 @@ powerbot
 powercli
 powercligoodies
 powercommander
-powerconfiguration
 powerdex
 powerforensics
 powergraph
@@ -5449,8 +5456,10 @@ powershelltraining
 powershelltypeaccelerators
 powershelluniversal
 powershellv5
+powershellweb
 powerstig
 powerstore
+powertab
 powertoolcmdlets
 powertooldsc
 ppdm
@@ -6628,6 +6637,7 @@ pscommand_invoke-pipinstallupgrade
 pscommand_invoke-piplistoutdated
 pscommand_invoke-pipuninstall
 pscommand_invoke-pyenv
+pscommand_invoke-pylintreportsdisabled
 pscommand_invoke-ruby
 pscommand_invoke-rubyexecute
 pscommand_invoke-rubyexecutehttpdhere
@@ -6780,6 +6790,17 @@ pscommand_invoke-vagrantstatus
 pscommand_invoke-vagrantsuspend
 pscommand_invoke-vagrantup
 pscommand_invoke-vagrantuplogged
+pscommand_invoke-vaultdelete
+pscommand_invoke-vaultlist
+pscommand_invoke-vaultloginviagithub
+pscommand_invoke-vaultread
+pscommand_invoke-vaultreadfieldvalue
+pscommand_invoke-vaultrenew
+pscommand_invoke-vaultrevoke
+pscommand_invoke-vaultserver
+pscommand_invoke-vaultstatus
+pscommand_invoke-vaultversion
+pscommand_invoke-vaultwrite
 pscommand_invoke-vscodeadd
 pscommand_invoke-vscodediff
 pscommand_invoke-vscodeforpwd
@@ -7105,6 +7126,7 @@ pscommand_pwh
 pscommand_pwshrc-show-proxy
 pscommand_py
 pscommand_pyenv
+pscommand_pylint-quick
 pscommand_pyserver
 pscommand_python
 pscommand_python3
@@ -7269,6 +7291,16 @@ pscommand_use-gitflowbranchrelease
 pscommand_use-gitstashentry
 pscommand_uuid
 pscommand_uuidgen
+pscommand_vad
+pscommand_vag
+pscommand_val
+pscommand_var
+pscommand_varn
+pscommand_varv
+pscommand_vas
+pscommand_vasrv
+pscommand_vav
+pscommand_vaw
 pscommand_vdstr
 pscommand_vh
 pscommand_vhl
@@ -8017,6 +8049,7 @@ psfunction_invoke-pipinstallupgrade
 psfunction_invoke-piplistoutdated
 psfunction_invoke-pipuninstall
 psfunction_invoke-pyenv
+psfunction_invoke-pylintreportsdisabled
 psfunction_invoke-ruby
 psfunction_invoke-rubyexecute
 psfunction_invoke-rubyexecutehttpdhere
@@ -8169,6 +8202,17 @@ psfunction_invoke-vagrantstatus
 psfunction_invoke-vagrantsuspend
 psfunction_invoke-vagrantup
 psfunction_invoke-vagrantuplogged
+psfunction_invoke-vaultdelete
+psfunction_invoke-vaultlist
+psfunction_invoke-vaultloginviagithub
+psfunction_invoke-vaultread
+psfunction_invoke-vaultreadfieldvalue
+psfunction_invoke-vaultrenew
+psfunction_invoke-vaultrevoke
+psfunction_invoke-vaultserver
+psfunction_invoke-vaultstatus
+psfunction_invoke-vaultversion
+psfunction_invoke-vaultwrite
 psfunction_invoke-vscodeadd
 psfunction_invoke-vscodediff
 psfunction_invoke-vscodeforpwd
@@ -8574,7 +8618,6 @@ pve
 pvr
 pvs
 pwa
-pwned
 pwpush
 pwsafe
 pwsh
@@ -8585,10 +8628,12 @@ pwshrc
 pxedistributionpoint
 pyenv
 pygmentize
+pylint
 pyranja
 python
 python-for-dotnet
 python3
+qatam
 qcloud
 qconvergeconsolepowerkit
 qemu
@@ -8663,6 +8708,7 @@ random-password-generator
 randompassword
 randomuser
 randomusers
+range
 rangescan
 rangetocidr
 ransomware_recovery
@@ -8711,6 +8757,7 @@ readthedocs
 real-time
 realschule
 realtimeprotection
+rebase
 reboot
 rebootnodeifneeded
 reckon
@@ -8776,6 +8823,7 @@ region
 regions
 regiser-argumentcompleter
 register
+register-argumentcompleter
 registered
 registrar
 registration
@@ -8882,6 +8930,7 @@ resource
 resource_monitor
 resource_watcher
 resourcecontroller
+resourcegraph
 resourcegroup
 resourcegroups
 resourceid
@@ -8894,6 +8943,7 @@ resourcescheduler
 resourcesearch
 response
 rest
+rest_cherrypy
 rest-api
 restapi
 restart
@@ -8914,6 +8964,8 @@ reversedsc
 reverseengineering
 review
 revision
+reword
+rewrite
 rexec
 rfc1305
 rfc1436
@@ -8972,9 +9024,11 @@ round
 roundrobindatabase
 route
 route53
+routeconfig
 router
 routeros
 routes
+routetable
 routine
 rover
 royalapps
@@ -9009,6 +9063,7 @@ runbook
 runbooks
 runbookstudio
 runcommand
+rundeck
 runner
 runspace
 runspacepool
@@ -9040,6 +9095,8 @@ sale
 sales
 salesforce
 salesloft
+salt
+salt-api
 saltstack
 saltstackconfig
 saltstackenterprise
@@ -9208,6 +9265,7 @@ securescore
 securesphere
 securestring
 security
+security_cameras
 security-awareness-training
 security-policy
 security-score
@@ -9239,6 +9297,7 @@ selection
 selectxmlinfo
 selenium
 self
+self-hosted
 self-service
 self-signed
 selfdispatch
@@ -9381,7 +9440,6 @@ shieldedvm
 ships
 shipsprovider
 shipstation
-shlink
 shodan
 shodanps
 shop
@@ -9580,7 +9638,6 @@ spanner
 spark
 sparkline
 sparklines
-spawn
 spdockit
 spdx
 spdx-license-identifier:ms-pl
@@ -9740,6 +9797,7 @@ stateless
 static
 staticanalysis
 statichtmlsites
+staticsite
 statistical
 statistics
 stats
@@ -9854,6 +9912,7 @@ suppress
 supress-reboot
 surestacks
 surround
+surveillance
 survey
 surveymonkey
 sus
@@ -9984,7 +10043,6 @@ tcp
 tcp/ip
 tcpip
 tcpport
-tcprjmgmt
 tcpserver
 tcptest
 tcx
@@ -10038,7 +10096,6 @@ terminal-interface
 terminal-services
 terminal.gui
 terminalnotifier
-terminalvelocity
 termset
 terraform
 terraform-docs
@@ -10122,7 +10179,6 @@ threat-hunting
 threatdefense
 threathunting
 threatintelligence
-thumbprint
 thunderbird
 thycotic
 tibber
@@ -10178,6 +10234,8 @@ topics
 topleveldomain
 topology
 tor
+toradex
+torizon
 torrent
 torrents
 toshiba
@@ -10276,7 +10334,6 @@ tubedownloader
 tui
 tulpep
 tuner
-tuning
 tutorial
 tv
 tvguide
@@ -10372,6 +10429,7 @@ udfeedback
 udp
 udpclient
 udptest
+udr
 udthememode
 udword
 uefi
@@ -10456,7 +10514,6 @@ uri
 uri-scheme
 url
 url-encode
-url-shortener
 urldecode
 urlencode
 urlhaus
@@ -10520,7 +10577,6 @@ validatemapsconnectivity
 validation
 validator
 value
-values
 valve
 vami
 vao
@@ -10591,6 +10647,7 @@ vimode
 virole
 virsh
 virtual
+virtualappliance
 virtualbox
 virtualboxguestadditions
 virtualdesktop
@@ -10659,7 +10716,6 @@ voice
 voiceservices
 voidtools
 volkskrant
-volta
 volume
 volumelicense
 volumelicenseagreement
@@ -11014,6 +11070,7 @@ workrequests
 worksheet
 workshop
 workspace
+workspacemanager
 workspaceone
 workspaces
 workstation
