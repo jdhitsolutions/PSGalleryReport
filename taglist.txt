@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 28 October 2024 09:52:04 UTC
+Updated: Monday, 28 October 2024 17:51:44 UTC
 
 .bat
 .env
@@ -182,8 +182,11 @@ adds
 addtypeaccelerators
 adf
 adfs
+adfsconfiguration
 adfsdiagnostics
+adfsendpoint
 adfstoolkit
+adfstools
 adgroupmemberobjects
 adgroupmembers
 adgroups
@@ -203,7 +206,6 @@ administrativeuser
 administrator
 admintools
 adml
-admonition
 admpwd
 admx
 ado
@@ -248,11 +250,11 @@ aftereffects
 agenda
 agent
 aggregates
-aggregation
 agile
 agility
 agm
 agnoster
+ahk
 ai
 ai21
 ai21labs
@@ -326,6 +328,7 @@ amazonaws
 amazonmgn
 amazontitan
 amazonwebservices
+amend
 ami
 amiga
 amp
@@ -382,8 +385,6 @@ apachekafka
 apexlegends
 api
 api-client
-api-gateway
-api-rest
 apichecks
 apiclient
 apigateway
@@ -409,6 +410,7 @@ appclusive
 appcmd
 appconfiguration
 appdynamics
+appearance
 appender
 appian
 appinsights
@@ -550,7 +552,6 @@ atmosphere
 atom
 atp
 atrium
-att&ck
 attach
 attestation
 attila
@@ -595,6 +596,7 @@ autocomplete
 autocompletion
 autoenv
 autograph
+autohotkey
 autoload
 autologon
 automai
@@ -648,6 +650,7 @@ aws_profile
 aws-codebuild
 aws-lambda
 aws-vault
+aws.tools.powershell
 awsbedrock
 awscli
 awspricelist
@@ -789,6 +792,7 @@ backup_validation
 bamboo
 bamboohr
 bandwidth
+bank
 banking
 banner
 bar
@@ -860,7 +864,6 @@ bigcommerce
 bigeval
 bigfix
 bigquery
-bikeshed
 billing
 billingbenefits
 bimi
@@ -991,7 +994,6 @@ bugzilla
 build
 build-log
 build-scripts
-build-test-publish
 builddefinition
 builder
 buildhelpers
@@ -1038,7 +1040,6 @@ calculate
 calculator
 calendar
 callingcode
-callout
 callqueue
 calvin-and-hobbes
 cam
@@ -1310,7 +1311,6 @@ cloudshell
 cloudsync
 clueser
 cluster
-clusterminimumvalues
 clusterplacementgroups
 clusterplugins
 cmaccounts
@@ -1497,12 +1497,10 @@ connectionsmanager
 connectionstring
 connectivity
 connector
-connectorcmd
 connectormanagement
 connectwise
 conservation
 console
-consoleguitools
 consolemenu
 consolemusic
 consumer
@@ -1529,8 +1527,6 @@ continuous-delivery
 continuous-deploy
 continuous-deployment
 continuous-integration
-continuousdelivery
-continuousdeployment
 continuousintegration
 contrast
 control
@@ -1569,8 +1565,6 @@ converttomarkdown
 converttomd
 cookie
 coolq
-cooltag1
-cooltag2
 coordinates
 copilot
 copy
@@ -1798,7 +1792,6 @@ dataconduit
 dataconnectivity
 datadog
 dataexchange
-dataexplorer
 datafactory
 dataflow
 dataflowdependency
@@ -2041,16 +2034,14 @@ discover
 discovery
 discutils
 disk
-disk_to_disk
 disk-space
 diskfree
 diskimage
 diskpart
 diskpool
-disksize
 diskspace
-diskusage
 dism
+dismal
 display
 display_dialog
 displayresolution
@@ -2152,7 +2143,6 @@ dotenv
 dotfile
 dotfiles
 dotnet
-dotnet-cli
 dotnettool
 dotps1
 dots
@@ -2179,6 +2169,7 @@ draw
 drawio
 dreams
 dreamweaver
+dreary
 drift
 driftmonitor
 drink
@@ -2247,7 +2238,6 @@ duosecurity
 dupes
 duplicate
 duplicate-files
-duplicatioin
 duplication
 durable
 durabletask
@@ -2340,6 +2330,7 @@ em
 emacs
 email
 email-address
+emailaddressupdate
 emailautomation
 emaildataplane
 emailmanagment
@@ -2416,6 +2407,7 @@ ephesoft
 epicor
 episode
 epplus
+eprosima
 epub
 epv
 equality
@@ -2444,7 +2436,6 @@ esp32
 esp32s2
 espressif
 esri
-essbase
 estimate
 estimation
 esx
@@ -2534,6 +2525,7 @@ exif
 exiftool
 exists
 exitcode
+exitprocessrequest
 exo
 exov2
 exov3
@@ -2542,7 +2534,6 @@ expand
 expand-string
 expand-tab
 expandframework
-expect
 experience
 experiments
 expiration
@@ -2606,6 +2597,7 @@ faq
 farm
 farmanager
 fast
+fast-dds
 fast-ping
 fastfilepub
 fastgit
@@ -2735,8 +2727,6 @@ fitbit
 fits
 five
 five9
-fix-log
-fix-protocol
 fixlet
 fixpack
 flac
@@ -2746,9 +2736,7 @@ flash
 flasharray
 flatfile
 flatten
-flavor
 fleet
-fleetappsmanagement
 fleetsoftwareupdate
 flex
 flex-query
@@ -2805,7 +2793,6 @@ fortinetmanager
 fortios
 fortune
 forum
-forwardcompatibility
 forwardedevents
 foudil
 foundationmodels
@@ -2823,9 +2810,6 @@ freesoftwarefoundation
 freshbooks
 freshdesk
 freshservice
-freshservice-api
-freshserviceps
-freshworks
 friendly
 fritz
 fritzbox
@@ -2847,6 +2831,7 @@ fudge
 fudgepop
 fujitsu
 full
+full-metal-gnome
 fullclr
 fulljoin
 fullmetalgnome
@@ -2879,11 +2864,8 @@ gameserver
 gaming
 garage
 gas
-gat
 gateway
 gauge
-gavin
-gavineke
 gc
 gcbdr
 gce
@@ -2894,7 +2876,6 @@ gcs
 gdap
 gdpr
 gedit
-gem
 gemini
 geminiprotocol
 gemlog
@@ -2911,7 +2892,6 @@ generatewif
 generation
 generativeai
 generativeaiagent
-generativeaiagentruntime
 generativeaiinference
 generator
 generic
@@ -3069,7 +3049,6 @@ graph
 graph-api
 graphapi
 graphapirequests
-graphconnector
 graphexplorer
 graphic
 graphics
@@ -3101,7 +3080,6 @@ gsuite
 gtx1080ti
 guardedfabric
 guardicore
-gubbins
 guest
 guestconfiguration
 guests
@@ -3198,7 +3176,6 @@ heating
 heavenbay
 helium
 helix
-hello
 helloid
 helloposhgallery
 helloworld
@@ -3534,6 +3511,7 @@ integrationruntimedependency
 integrationservicescatalog
 integrity
 intel
+inteligo
 intelligence
 intelligence"
 intellisearch
@@ -3684,7 +3662,6 @@ jekyll
 jenkins
 jetbrains
 jira
-jiraservicemanagement
 jitbit
 jms
 jmsjavadownloads
@@ -3701,12 +3678,12 @@ join-object
 jojoba
 joke
 jokes
+jotform
 journal
+joyride
 jpg
 jq
 js7
-jsm
-jsm.insight
 json
 json-converter
 json-transform
@@ -3738,7 +3715,6 @@ jws
 jwt
 jwttoken
 k8s
-k8sshell
 k8ssnapshots
 kafka
 kaminario
@@ -3810,10 +3786,10 @@ krbtgt
 krick
 kschemaplugin
 kubclt
-kube
 kubeconfig
 kubectl
 kubectx
+kubedeck
 kubens
 kubernetes
 kubernetesconfiguration
@@ -4021,8 +3997,6 @@ logbook
 logcat
 logentry
 logfile
-logfilearchivearchive
-logfilemanagement psmodule
 logfiles
 logger
 logging
@@ -4100,7 +4074,6 @@ machinelearning
 machinelearningcompute
 machinelearningmodels
 machinelearningservices
-macmon
 macos
 macosx
 macro
@@ -4141,6 +4114,7 @@ manageddevices
 manageddisks
 managedidentities
 managedidentity
+managednetworkfabric
 managedserviceidenity
 managedserviceidentity
 managedserviceprovider
@@ -4391,11 +4365,6 @@ models
 modify
 module
 module-maintenance
-module-manifest
-module-publishing
-module-publishing-framework
-module-testing
-module-testing-framework
 modulebuild
 modulecreation
 modulefast
@@ -4528,7 +4497,6 @@ musiccast
 mustache
 mutation
 mute
-mutex
 mva
 mvc
 mvn
@@ -4551,12 +4519,10 @@ mytest
 n-able
 n-central
 nabu
-nac
 nagios
 nakivo
 name
 name-of-dogs
-namedpipe
 nameit
 nameresolution
 names
@@ -4652,7 +4618,6 @@ new-dynamicparameter
 new-githubrelease
 new-item
 new-itemproperty
-new-modulemanifest
 new-pinneditem
 new-rdpsession
 new-samcmapplicationfrompackagedefinitionsms
@@ -4778,7 +4743,6 @@ oacli
 oacmdlets
 oacommand
 oact
-oath
 oauth
 oauth2
 oauth2.0
@@ -4792,7 +4756,6 @@ obs
 observeit
 oce
 ocg
-ocgv
 oci
 ocicontrolcenter
 ocr
@@ -4880,7 +4843,6 @@ ontap_pstk_9.8.0
 onyphe
 onyphe.io
 oob
-oop
 op
 opa
 opc
@@ -5154,6 +5116,7 @@ permutations
 persistence
 persistent
 personal
+personalisation
 personalization
 personalvault
 personio
@@ -5202,7 +5165,6 @@ pipelines
 pipenv
 pipescript
 piraeus
-piv
 pivot
 pivotal
 pivottable
@@ -5238,6 +5200,7 @@ plugin
 plugins
 pluralsight
 ply
+pmp
 pncit
 pnp
 pnp.powershell
@@ -5330,7 +5293,6 @@ poshy-wrap-docker
 poshy-wrap-docker-compose
 poshy-wrap-dotnet
 poshy-wrap-forgit
-poshy-wrap-gem
 poshy-wrap-gh
 poshy-wrap-git
 poshy-wrap-git-flow
@@ -5361,7 +5323,6 @@ poshy-wrap-yum
 poshy-wrap-zypper
 position
 post
-postcode
 postgre
 postgres
 postgresql
@@ -5417,8 +5378,6 @@ powershell-isprime
 powershell-lightning
 powershell-module
 powershell-modules
-powershell-modules-convention
-powershell-project-convention
 powershell-releases-api
 powershell-remoting
 powershell-terminal
@@ -6018,19 +5977,6 @@ pscommand_gdsth
 pscommand_gdstp
 pscommand_gdt
 pscommand_gdv
-pscommand_geca
-pscommand_gecb
-pscommand_geclup
-pscommand_gecr
-pscommand_gegi
-pscommand_geh
-pscommand_gei
-pscommand_geiall
-pscommand_gein
-pscommand_gel
-pscommand_geli
-pscommand_geo
-pscommand_geoe
 pscommand_get
 pscommand_get-aptinstalledpackages
 pscommand_get-childitemcolorfully
@@ -6098,7 +6044,6 @@ pscommand_get-netipaddresssimple
 pscommand_get-pwshaliasdefinition
 pscommand_get-pwshfunctiondefinition
 pscommand_get-viewer
-pscommand_geun
 pscommand_gexport
 pscommand_gf
 pscommand_gfa
@@ -6372,22 +6317,6 @@ pscommand_invoke-dockercomposeupdetached
 pscommand_invoke-dockercomposeupdetachedwithbuild
 pscommand_invoke-dockercomposeupnostart
 pscommand_invoke-dockercomposeupwithbuild
-pscommand_invoke-gemcertadd
-pscommand_invoke-gemcertbuild
-pscommand_invoke-gemcertremove
-pscommand_invoke-gemcleanupno
-pscommand_invoke-gemgenerateindex
-pscommand_invoke-gemhelp
-pscommand_invoke-geminfo
-pscommand_invoke-geminfoall
-pscommand_invoke-geminstall
-pscommand_invoke-gemlist
-pscommand_invoke-gemlock
-pscommand_invoke-gemopen
-pscommand_invoke-gemopeneditor
-pscommand_invoke-gemremovebypattern
-pscommand_invoke-gemsystem
-pscommand_invoke-gemuninstall
 pscommand_invoke-git
 pscommand_invoke-gitaddinteractivelypatch
 pscommand_invoke-gitbisect
@@ -7127,7 +7056,6 @@ pscommand_python3
 pscommand_rb
 pscommand_read-dotenv
 pscommand_register-argcompleteargumentcompleter
-pscommand_remove_gem
 pscommand_remove-dockercontainerall
 pscommand_remove-dockerunusedimage
 pscommand_remove-envpathitem
@@ -7187,7 +7115,6 @@ pscommand_set-locationup2
 pscommand_set-locationup3
 pscommand_set-locationup4
 pscommand_set-locationup5
-pscommand_sgem
 pscommand_show-gitremote
 pscommand_show-proxy
 pscommand_shttp
@@ -7784,22 +7711,6 @@ psfunction_invoke-dockercomposeupdetached
 psfunction_invoke-dockercomposeupdetachedwithbuild
 psfunction_invoke-dockercomposeupnostart
 psfunction_invoke-dockercomposeupwithbuild
-psfunction_invoke-gemcertadd
-psfunction_invoke-gemcertbuild
-psfunction_invoke-gemcertremove
-psfunction_invoke-gemcleanupno
-psfunction_invoke-gemgenerateindex
-psfunction_invoke-gemhelp
-psfunction_invoke-geminfo
-psfunction_invoke-geminfoall
-psfunction_invoke-geminstall
-psfunction_invoke-gemlist
-psfunction_invoke-gemlock
-psfunction_invoke-gemopen
-psfunction_invoke-gemopeneditor
-psfunction_invoke-gemremovebypattern
-psfunction_invoke-gemsystem
-psfunction_invoke-gemuninstall
 psfunction_invoke-git
 psfunction_invoke-gitaddinteractivelypatch
 psfunction_invoke-gitbisect
@@ -8579,7 +8490,6 @@ publicfolder
 publicholidays
 publicip
 publish
-publish-module
 publishedmodules
 publisher
 publishers
@@ -8648,7 +8558,6 @@ qna
 qol
 qq
 qr
-qr-code
 qrcode
 qrcodes
 qrp
@@ -8666,7 +8575,6 @@ question
 queue
 queues
 queuing
-quick-response
 quickaccess
 quickbase
 quickbooks
@@ -8752,6 +8660,7 @@ readthedocs
 real-time
 realschule
 realtimeprotection
+rebase
 reboot
 rebootnodeifneeded
 reckon
@@ -8816,7 +8725,6 @@ regex
 region
 regions
 regiser-argumentcompleter
-register
 register-argumentcompleter
 registered
 registrar
@@ -8833,7 +8741,6 @@ relay
 release
 releasedefinition
 releasehealth
-releasemanagement
 releasenotes
 relevance
 relic
@@ -8958,6 +8865,8 @@ reversedsc
 reverseengineering
 review
 revision
+reword
+rewrite
 rexec
 rfc1305
 rfc1436
@@ -9103,6 +9012,7 @@ san
 sand
 sandbox
 sanitization
+sanitizer
 sap
 sapazure
 saponazure
@@ -9188,7 +9098,6 @@ screenscraping
 screenshot
 script
 script_version
-script-module
 script-to-assembly
 script-to-executable
 scriptanalyzer
@@ -9220,7 +9129,6 @@ sdp
 search
 search-adminauditlog
 search-engines
-searchconnector
 searchengine
 searcher
 searching
@@ -9544,6 +9452,7 @@ smo
 smorgasbord
 sms
 smtp
+smtpaddressupdate psmodule
 smtpauth
 smtpoauth
 smtpsasl
@@ -9629,7 +9538,6 @@ spanner
 spark
 sparkline
 sparklines
-spawn
 spdockit
 spdx
 spdx-license-identifier:ms-pl
@@ -9638,7 +9546,6 @@ speach
 speak
 speaker
 spec
-specification
 specify
 spectre
 spectrumconnect
@@ -9761,7 +9668,6 @@ stackhci
 stackhcivm
 stackmonitoring
 stackoverflow
-staff
 staffhub
 staging
 stale
@@ -9920,7 +9826,6 @@ svt
 swagger
 swamid
 swarm
-swimlane
 swis
 switch
 sxs
@@ -9983,7 +9888,6 @@ systeminformation
 systemlocale
 systems
 systemsplash
-systray
 t
 t-sql
 tab
@@ -10104,7 +10008,6 @@ test
 test-automation
 test-dscconfiguration
 test-internetconnection
-test-modulemanifest
 test-modulepath
 test-osplatform
 test-psremoting
@@ -10154,6 +10057,7 @@ tftd
 tftp
 tfvars
 tfvc
+thecrushingemptinessofquotidianexistence
 theme
 themes
 thermal
@@ -10168,6 +10072,7 @@ thread
 threading
 threadjob
 threads
+threadsanitizer
 threat
 threat-hunting
 threatdefense
@@ -10219,7 +10124,6 @@ tokenlifetime
 tokens
 toml
 tonoref
-tookit
 tool
 toolbox
 toolkit
@@ -10441,7 +10345,6 @@ ulid
 ultimatetool
 um
 uml
-umn
 ums
 unattend
 unattendedfile
@@ -10487,7 +10390,6 @@ unzip
 up
 update
 update-module
-update-modulemanifest
 update-moduletests
 update-typedata
 updatedeferral
@@ -10520,6 +10422,7 @@ urlredirections
 urlrewrite
 urlscan
 urlscan.io
+urlupdate
 uru
 usage
 usageaggregates
@@ -10585,7 +10488,6 @@ variance
 variants
 vastlimits
 vault
-vaultextension
 vaultstore
 vaultwarden
 vb365
@@ -10729,7 +10631,6 @@ vpas
 vpasmodule
 vpc
 vpg
-vplex
 vpn
 vpn-certificate
 vpro
@@ -10829,7 +10730,6 @@ webcamera
 webcmdlets
 webdav
 webdeploy
-webdeveloper
 webfrequest
 webhdfs
 webhelpdesk
@@ -10946,7 +10846,6 @@ windows-explorer
 windows-features
 windows-firewall
 windows-path
-windows-powershell
 windows-registry
 windows-remoting
 windows-server-2016
@@ -11033,7 +10932,6 @@ wisdom
 with
 wiz
 wizard
-wkhtmltopdf
 wlan
 wmf
 wmf5
@@ -11074,7 +10972,6 @@ workspacemanager
 workspaceone
 workspaces
 workstation
-world
 worldcup
 worryfreebusinesssecurity
 wow
@@ -11144,7 +11041,6 @@ xaf
 xbase
 xbox
 xclarity
-xconvert
 xdr
 xdschelper
 xdscresources
@@ -11200,7 +11096,6 @@ youtube-dl
 youtubeextractor
 yq
 yubaba
-yubikey
 yum
 z
 zabbix
@@ -11226,7 +11121,6 @@ zoommeeting
 zorus
 zorusapi
 zoxide
-zpr
 zsh
 zuora
 zvm
