@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Tuesday, 29 October 2024 17:51:54 UTC
+Updated: Wednesday, 30 October 2024 02:16:16 UTC
 
 .bat
 .env
@@ -36,7 +36,6 @@ Updated: Tuesday, 29 October 2024 17:51:54 UTC
 2010
 2013
 2016
-2018
 2019
 21vianet
 24-bit
@@ -256,7 +255,6 @@ agile
 agility
 agm
 agnoster
-ahk
 ai
 ai21
 ai21labs
@@ -330,7 +328,6 @@ amazonaws
 amazonmgn
 amazontitan
 amazonwebservices
-amend
 ami
 amiga
 amp
@@ -338,6 +335,7 @@ amqp
 amsi
 amt
 amxmodx
+anaconda
 analysis
 analysisservices
 analyst
@@ -565,12 +563,15 @@ au
 audio
 audiocodes
 audit
+auditad
 auditing
+auditnetlogon
 auditpol
 auditpol.exe
 auditpolicies
 auditpolicy
 audits
+auditsysvol
 aumid
 aut
 auth
@@ -600,7 +601,6 @@ autocomplete
 autocompletion
 autoenv
 autograph
-autohotkey
 autoload
 autologon
 automai
@@ -653,6 +653,7 @@ aws
 aws_profile
 aws-codebuild
 aws-lambda
+aws-vault
 aws.tools.powershell
 awsbedrock
 awscli
@@ -673,14 +674,17 @@ azautomation
 azcli
 azcompute
 azd
+azdisk
 azdo
 azereo
 azforensics
 azkeyvault
 aznetworking
+aznetworkinterface
 aznicdetails
 azops
 azpipelines
+azpublicipaddress
 azresources
 azsdk
 azsk
@@ -1077,12 +1081,14 @@ cartoon
 case
 cassandra
 cat
+cat-names
 catalog
 catalogs
 catalyst
 catapult
 catesta
 catimage
+cats
 catty
 cavium
 cb
@@ -1223,6 +1229,7 @@ ciscoucsdsc
 citation
 cite
 citrix
+citrixoptimizer
 civo
 cix
 class
@@ -1452,6 +1459,7 @@ computersite
 concur
 concurrency
 concurrent
+conda
 condition
 conditionalaccess
 conduit
@@ -1555,6 +1563,9 @@ converter
 convertfrom
 convertfrom-json
 convertfrom-jsontohashtable
+convertfrom-string
+convertfrom-stringtable
+convertfrom-table
 convertfrom-yaml
 convertto
 convertto-excel
@@ -1584,6 +1595,7 @@ cosmos
 cosmosdb
 cost
 cost-management
+costmanagement
 costoptimization
 couchbase
 couchdb
@@ -1690,6 +1702,7 @@ ctype
 cubes
 cudel
 culture
+cumulative
 cumulativeupdate
 cumulocity
 curious
@@ -1843,7 +1856,6 @@ db2
 dba
 dbaas
 dbai
-dbase
 dbassistant
 dbatools
 dbcommand
@@ -1869,7 +1881,6 @@ debugger
 debugging
 decimal
 decimalip
-decimalzero
 declarative
 decline
 decode
@@ -1903,6 +1914,7 @@ defenderforidentity
 defense
 deflate
 defrag
+delegateaccesscontrol
 delegated
 delegation
 delegationmodel
@@ -1994,6 +2006,7 @@ dictionary
 diff
 difference
 dig
+digikam
 digital
 digital-forensics
 digitalforensics
@@ -2093,7 +2106,6 @@ dnsclient
 dnsdumpster
 dnsentry
 dnsimple
-dnslookup
 dnsmadeeasy
 dnsoverhttps
 dnsrecord
@@ -2226,6 +2238,7 @@ dtsx
 dtx
 du
 dual-stack
+duck
 duckdb
 duckduckgo
 ducktyping
@@ -2276,7 +2289,6 @@ dynamicsnav
 dynamodb
 dynatrace
 dynatraceobservability
-dz
 e-mail
 e1
 easy
@@ -2324,6 +2336,7 @@ elevated
 elevatedconsole
 elevatedmode
 elevation
+elevenlabs
 elgato
 elitism
 elk
@@ -2530,6 +2543,7 @@ executables
 execute
 exexml
 exif
+exiftool
 exists
 exitcode
 exitprocessrequest
@@ -2549,6 +2563,7 @@ expired
 expiring
 expiry
 exploit
+exploits
 exploration
 explorer
 exponentiation
@@ -2623,8 +2638,6 @@ feature
 features
 featuresondemand
 featureupdate
-federated
-federateddirectory
 federation
 fedex
 feed
@@ -2638,7 +2651,6 @@ fido
 fido2
 fieldglass
 fields
-fifa
 figlet
 file
 file-association
@@ -2719,6 +2731,7 @@ findplace
 findproxyforurl
 fine-print
 fine-tuning
+finops
 firebird
 firefox
 firewall
@@ -2771,7 +2784,6 @@ font
 fonts
 foo
 food
-football
 for
 force
 forcedelete
@@ -2786,6 +2798,7 @@ forgit
 forgiveness
 form
 format
+format-numberedlist
 formatdata
 formatformat-tableformat-listformat-wideformat-customformat-defaultout-defaultout-fileout-hostout-printerout-string
 formatting
@@ -2807,7 +2820,6 @@ forwardedevents
 foudil
 foundationmodels
 fox
-foxpro
 fqdn
 frame
 framework
@@ -2991,6 +3003,7 @@ gitflow
 gitforwindows
 github
 github-actions
+githubaction
 githubactions
 githubtools
 githubworkflow
@@ -3147,6 +3160,7 @@ hardblock
 harden
 harden-windows-security
 hardening
+hardensysvol
 hardlink
 hardmatch
 hardware
@@ -3371,6 +3385,7 @@ icingaplugins
 icingapowershell
 icingapowershellframework
 icingawindows
+icloud
 icmp
 icon
 icons
@@ -3517,7 +3532,6 @@ instance
 instant
 instapush
 instorage
-int
 intacct
 integrated
 integratedscriptingeditor
@@ -3540,7 +3554,6 @@ interlogix
 internal
 internet
 internet-explorer
-internetconnection
 internetexplorer
 intersight
 intersightcmdlets
@@ -3599,6 +3612,7 @@ iperf
 ipfy.org
 iphone
 ipilot
+iplookup
 ipmaths
 ipp
 iprange
@@ -3625,6 +3639,7 @@ ish
 ishexstring
 isnumeric
 iso
+iso-3166-1
 iso-8601
 ispac
 isprime
@@ -3673,6 +3688,7 @@ jdt
 jea
 jea_module
 jeanalyzer
+jekyll
 jenkins
 jetbrains
 jira
@@ -3921,8 +3937,7 @@ lifestyle
 light
 lighthouse
 lights
-lime
-limesurvey
+limit-job
 limits
 lina
 line
@@ -3979,6 +3994,7 @@ local-policy
 localaccounts
 localadmin
 localconfigurationmanager
+localdb
 localdirectories
 locale
 localgroup
@@ -4311,6 +4327,7 @@ microsoft365
 microsoft365dsc
 microsoftauthenticationlibrary
 microsoftazure
+microsoftcloud
 microsoftdefender
 microsoftdefenderatp
 microsoftdefenderforidentity
@@ -4346,6 +4363,7 @@ mimekit
 min
 mindmeister
 minecraft
+miniconda
 minifier
 minimal
 minimum
@@ -4365,6 +4383,7 @@ mittelschule
 mixedreality
 mixer
 mkdocs
+mkpasswd
 mksapiviewer
 ml
 ml.net
@@ -4651,6 +4670,7 @@ new-samcmapplicationfrompackagedefinitionsms
 new-samcmpackagefrompackagedefinitionsms
 new-system
 new-udmorph
+new-win32app
 newpassword
 newrelic
 news
@@ -4661,6 +4681,7 @@ nexenta
 nexentastor
 nexthink
 nexus
+nexusiq
 nfsv3
 ngen
 ngfw
@@ -4674,6 +4695,7 @@ ninja
 ninjaone
 ninjarmm
 nios
+nist
 nitrox
 njclipsh
 nl
@@ -4745,13 +4767,13 @@ nuget.exe
 nuget.org
 number
 numlock
-nummapper
 nunit
 nupkg
 nuspec
 nutanix
 nuwave
 nva
+nvd
 nvdimm
 nvdimm-n
 nvm
@@ -4767,6 +4789,7 @@ oacli
 oacmdlets
 oacommand
 oact
+oath
 oauth
 oauth2
 oauth2.0
@@ -4858,6 +4881,7 @@ online-backup
 onlinebackup
 onprem
 onpremisesdatagatewayhamgmt
+onq
 ons
 ontap
 ontap_9.15.1
@@ -4886,6 +4910,7 @@ openid
 openidconnect
 openinghours
 openport
+openprovider
 openscad
 opensearch
 opensource
@@ -4938,6 +4963,7 @@ orleans
 orm
 orphanedprofiles
 os
+osbuild
 osbuilder
 osbuildersus
 osd
@@ -4963,6 +4989,7 @@ oss
 ossec
 osubbillingschedule
 osuborganizationsubscription
+osubsubscription
 osubusage
 osx
 otel
@@ -5060,6 +5087,7 @@ passkey
 passkeys
 passphrase
 passphraser passphrase password generator entropy
+passwd
 password
 password_generation
 password-generator
@@ -5187,6 +5215,7 @@ pipelines
 pipenv
 pipescript
 piraeus
+piv
 pivot
 pivotal
 pivottable
@@ -5194,7 +5223,6 @@ pixoo
 pkce
 pkgx
 pki
-pki psmodule
 pks
 place
 places
@@ -5270,6 +5298,7 @@ pos
 posershellise
 posh
 posh-acme
+posh-cats
 posh-chocobear
 posh-direnv
 posh-git
@@ -5282,6 +5311,7 @@ poshgraph
 poshgraph-sdk
 poshgrouppolicy
 poshkeepass
+poshlog
 poshorigin
 poshproject
 poshprtg
@@ -5321,6 +5351,7 @@ poshy-wrap-git-lfs
 poshy-wrap-golang
 poshy-wrap-helm
 poshy-wrap-kubectl
+poshy-wrap-maven
 poshy-wrap-nginx
 poshy-wrap-nmap
 poshy-wrap-npm
@@ -5328,28 +5359,31 @@ poshy-wrap-pip
 poshy-wrap-pipenv
 poshy-wrap-pyenv
 poshy-wrap-pylint
+poshy-wrap-python
 poshy-wrap-ruby
 poshy-wrap-systemctl
 poshy-wrap-terraform
 poshy-wrap-terragrunt
 poshy-wrap-tmux
-poshy-wrap-vagrant
 poshy-wrap-vault
 poshy-wrap-vscode
 poshy-wrap-wget
+poshy-wrap-wt
 poshy-wrap-yum
 poshy-wrap-zypper
 position
 post
-postcode
 postgre
 postgres
 postgresql
+postgrest
 potato
 pow
 powdrgit
 power
+power-apps
 power-cbr
+power-platform
 power-shell
 powerapps
 powerappsportal
@@ -5427,6 +5461,7 @@ powershelltraining
 powershelltypeaccelerators
 powershelluniversal
 powershellv5
+powershellweb
 powerstig
 powerstore
 powertab
@@ -5444,6 +5479,7 @@ pranks
 predicate
 prediction
 predictive
+predictive-text
 predictor
 preferences
 prefix
@@ -5491,7 +5527,6 @@ privileged
 privilegedidentitymanagement
 privileges
 pro
-probability
 probe
 process
 process-inspector
@@ -5591,6 +5626,7 @@ psc
 pscandy
 psclient
 pscmdlet
+pscommand__python3
 pscommand_--
 pscommand_..
 pscommand_...
@@ -6556,6 +6592,17 @@ pscommand_invoke-kubectlrolloutundo
 pscommand_invoke-kubectlrunnetshoot
 pscommand_invoke-kubectlscaledeployment
 pscommand_invoke-kubectlscalestatefulset
+pscommand_invoke-mavencleaninstall
+pscommand_invoke-mavencleaninstallskiptests
+pscommand_invoke-mavencleanpackage
+pscommand_invoke-mavencleanpackageskiptests
+pscommand_invoke-mavendependencytree
+pscommand_invoke-mavenhelpeffectivepom
+pscommand_invoke-maveninstall
+pscommand_invoke-mavenpackage
+pscommand_invoke-mavenreleaseperform
+pscommand_invoke-mavenreleaseprepare
+pscommand_invoke-mavenreleaserollback
 pscommand_invoke-npmbinmungedpath
 pscommand_invoke-npminfo
 pscommand_invoke-npminit
@@ -6731,22 +6778,6 @@ pscommand_invoke-tmuxkillserver
 pscommand_invoke-tmuxkillsessionforterminal
 pscommand_invoke-tmuxlistsessions
 pscommand_invoke-tmuxnewsessionfromsource
-pscommand_invoke-vagrantdestroy
-pscommand_invoke-vagranthalt
-pscommand_invoke-vagranthostmanager
-pscommand_invoke-vagranthostslist
-pscommand_invoke-vagrantlist
-pscommand_invoke-vagrantprovision
-pscommand_invoke-vagrantreload
-pscommand_invoke-vagrantresume
-pscommand_invoke-vagrantscp
-pscommand_invoke-vagrantsnapshotlist
-pscommand_invoke-vagrantsnapshottake
-pscommand_invoke-vagrantssh
-pscommand_invoke-vagrantstatus
-pscommand_invoke-vagrantsuspend
-pscommand_invoke-vagrantup
-pscommand_invoke-vagrantuplogged
 pscommand_invoke-vaultdelete
 pscommand_invoke-vaultlist
 pscommand_invoke-vaultloginviagithub
@@ -6832,6 +6863,8 @@ pscommand_invoke-zypperversioncompare
 pscommand_invoke-zypperwhatprovides
 pscommand_invokeyumgrouplist
 pscommand_ips
+pscommand_ipy
+pscommand_ipython
 pscommand_jump
 pscommand_k
 pscommand_kaf
@@ -6967,17 +7000,30 @@ pscommand_lsn
 pscommand_lsr
 pscommand_lt
 pscommand_mcd
+pscommand_mci
+pscommand_mcisk
+pscommand_mcp
+pscommand_mcpsk
+pscommand_mdep
 pscommand_measure-envvarchanges
 pscommand_merge-gitrepositoryfromoriginbranchmain
 pscommand_merge-gitrepositoryfromupstreambranchmain
+pscommand_mi
 pscommand_mirrorsite
 pscommand_move-gittrackedfiles
+pscommand_mp
+pscommand_mpom
+pscommand_mrperf
+pscommand_mrprep
+pscommand_mrrb
 pscommand_myip
 pscommand_new-gitbranchfromstash
 pscommand_new-gitbranchtracked
 pscommand_new-gitpatchfile
 pscommand_new-isofile
 pscommand_new-viewerinvocationfunction
+pscommand_new-windowsterminalpane
+pscommand_new-windowsterminaltab
 pscommand_nginx_reload
 pscommand_nginx_restart
 pscommand_nginx_start
@@ -7066,8 +7112,12 @@ pscommand_pushgr
 pscommand_pvenv
 pscommand_pwh
 pscommand_pwshrc-show-proxy
+pscommand_py
 pscommand_pyenv
 pscommand_pylint-quick
+pscommand_pyserver
+pscommand_python
+pscommand_python3
 pscommand_rb
 pscommand_read-dotenv
 pscommand_register-argcompleteargumentcompleter
@@ -7134,6 +7184,7 @@ pscommand_set-locationup5
 pscommand_sgem
 pscommand_show-gitremote
 pscommand_show-proxy
+pscommand_shttp
 pscommand_shuf
 pscommand_sl
 pscommand_ssh-add-all
@@ -7238,15 +7289,6 @@ pscommand_vas
 pscommand_vasrv
 pscommand_vav
 pscommand_vaw
-pscommand_vdstr
-pscommand_vh
-pscommand_vhl
-pscommand_vhst
-pscommand_vl
-pscommand_vp
-pscommand_vr
-pscommand_vrl
-pscommand_vs
 pscommand_vsc
 pscommand_vsca
 pscommand_vscd
@@ -7256,17 +7298,11 @@ pscommand_vscg
 pscommand_vscie
 pscommand_vscl
 pscommand_vscn
-pscommand_vscp
 pscommand_vscr
 pscommand_vscu
 pscommand_vscue
 pscommand_vscv
 pscommand_vscw
-pscommand_vsl
-pscommand_vssh
-pscommand_vst
-pscommand_vup
-pscommand_vupl
 pscommand_write-gitcommit
 pscommand_write-gitcommitall
 pscommand_write-gitcommitallasupdate
@@ -7390,6 +7426,7 @@ psfitbit
 psfive9
 psfive9admin
 psfoldersize
+psfunction__python3
 psfunction_aar
 psfunction_add_ssh
 psfunction_add-envpathitem
@@ -7936,6 +7973,17 @@ psfunction_invoke-kubectlrolloutundo
 psfunction_invoke-kubectlrunnetshoot
 psfunction_invoke-kubectlscaledeployment
 psfunction_invoke-kubectlscalestatefulset
+psfunction_invoke-mavencleaninstall
+psfunction_invoke-mavencleaninstallskiptests
+psfunction_invoke-mavencleanpackage
+psfunction_invoke-mavencleanpackageskiptests
+psfunction_invoke-mavendependencytree
+psfunction_invoke-mavenhelpeffectivepom
+psfunction_invoke-maveninstall
+psfunction_invoke-mavenpackage
+psfunction_invoke-mavenreleaseperform
+psfunction_invoke-mavenreleaseprepare
+psfunction_invoke-mavenreleaserollback
 psfunction_invoke-npmbinmungedpath
 psfunction_invoke-npminfo
 psfunction_invoke-npminit
@@ -8111,22 +8159,6 @@ psfunction_invoke-tmuxkillserver
 psfunction_invoke-tmuxkillsessionforterminal
 psfunction_invoke-tmuxlistsessions
 psfunction_invoke-tmuxnewsessionfromsource
-psfunction_invoke-vagrantdestroy
-psfunction_invoke-vagranthalt
-psfunction_invoke-vagranthostmanager
-psfunction_invoke-vagranthostslist
-psfunction_invoke-vagrantlist
-psfunction_invoke-vagrantprovision
-psfunction_invoke-vagrantreload
-psfunction_invoke-vagrantresume
-psfunction_invoke-vagrantscp
-psfunction_invoke-vagrantsnapshotlist
-psfunction_invoke-vagrantsnapshottake
-psfunction_invoke-vagrantssh
-psfunction_invoke-vagrantstatus
-psfunction_invoke-vagrantsuspend
-psfunction_invoke-vagrantup
-psfunction_invoke-vagrantuplogged
 psfunction_invoke-vaultdelete
 psfunction_invoke-vaultlist
 psfunction_invoke-vaultloginviagithub
@@ -8225,6 +8257,8 @@ psfunction_new-gitbranchtracked
 psfunction_new-gitpatchfile
 psfunction_new-isofile
 psfunction_new-viewerinvocationfunction
+psfunction_new-windowsterminalpane
+psfunction_new-windowsterminaltab
 psfunction_nginx_reload
 psfunction_nginx_restart
 psfunction_nginx_start
@@ -8270,6 +8304,7 @@ psfunction_publish-gitrepositorytosvn
 psfunction_push-gitstashentry
 psfunction_push-gitstashentrywithmessage
 psfunction_pwshrc-show-proxy
+psfunction_pyserver
 psfunction_read-dotenv
 psfunction_register-argcompleteargumentcompleter
 psfunction_remove-dockercontainerall
@@ -8331,6 +8366,7 @@ psfunction_set-locationup4
 psfunction_set-locationup5
 psfunction_show-gitremote
 psfunction_show-proxy
+psfunction_shttp
 psfunction_shuf
 psfunction_ssh-add-all
 psfunction_ssh-disable-proxy
@@ -8486,6 +8522,7 @@ pstanss
 psthread
 pstk
 pstwitter
+pswa
 pswindocumentation
 pswinreporting
 pswinreportingv2
@@ -8537,6 +8574,7 @@ putty
 pve
 pvr
 pvs
+pwa
 pwned
 pwpush
 pwsafe
@@ -8552,6 +8590,7 @@ pylint
 pyranja
 python
 python-for-dotnet
+python3
 qatam
 qcloud
 qconvergeconsolepowerkit
@@ -8591,6 +8630,7 @@ queue
 queues
 queuing
 quick-response
+quickaccess
 quickbase
 quickbooks
 quicksetup
@@ -8675,7 +8715,6 @@ readthedocs
 real-time
 realschule
 realtimeprotection
-rebase
 reboot
 rebootnodeifneeded
 reckon
@@ -8882,8 +8921,6 @@ reversedsc
 reverseengineering
 review
 revision
-reword
-rewrite
 rexec
 rfc1305
 rfc1436
@@ -8967,6 +9004,7 @@ rsop
 rss
 rt
 rtu
+rubber
 rubrik
 rubriksecuritycloud
 ruby
@@ -8989,7 +9027,6 @@ runtime
 runtimedefinedparameter
 runtimedefinedparameterdictionary
 runway
-russia
 rust
 rust-lang
 ryanairps
@@ -9261,6 +9298,7 @@ serverless
 servermanagement
 servers
 service
+service-bus
 service-messages
 servicebus
 servicebusforwindowsserver
@@ -9316,7 +9354,13 @@ sftp
 sfx
 sgopher
 sgw
+sha-256
+sha-512
+sha-crypt
 sha256
+sha256crypt
+sha512crypt
+shacrypt
 shadow
 shadowcopy
 shadowcopybackups
@@ -9349,6 +9393,7 @@ shieldedvm
 ships
 shipsprovider
 shipstation
+shitpost
 shlink
 shodan
 shodanps
@@ -9491,7 +9536,6 @@ snssqlitepsmodule
 sntp
 soap
 soc
-soccer
 social
 social-media
 socialmedia
@@ -9708,6 +9752,7 @@ stateless
 static
 staticanalysis
 statichtmlsites
+staticsite
 statistical
 statistics
 stats
@@ -9767,6 +9812,7 @@ string-template
 stringmanager
 stringmanagertool
 strings
+stringtable
 stringutilities
 strip-ansi
 stripe
@@ -9821,9 +9867,9 @@ support-tool
 support-tools
 suppress
 supress-reboot
+surestacks
 surround
 surveillance
-survey
 surveymonkey
 sus
 sushi
@@ -10019,7 +10065,6 @@ tesla
 test
 test-automation
 test-dscconfiguration
-test-internetconnection
 test-modulemanifest
 test-modulepath
 test-osplatform
@@ -10078,6 +10123,7 @@ thermostat
 thinprint
 third-party-libraries
 third-party-notice
+thispc
 thoughtfortheday
 thousandeyes
 thread
@@ -10303,7 +10349,6 @@ ud-dashboard
 ud-datepicker
 ud-field
 ud-flexytable
-ud-funnel
 ud-hero
 ud-illustration
 ud-input
@@ -10345,7 +10390,6 @@ udp
 udpclient
 udptest
 udr
-udthememode
 udword
 uefi
 uem
@@ -10436,6 +10480,7 @@ urlhaus
 urlredirections
 urlrewrite
 urlscan
+urlscan.io
 urlupdate
 uru
 usage
@@ -10683,6 +10728,7 @@ vsteams
 vstest
 vsts
 vsts-cli
+vulnerabilities
 vulnerability
 vulnerabilityscanning
 vum
@@ -10843,6 +10889,7 @@ win32
 win32_installedwin32program
 win32_operatingsystem
 win32-api
+win32appmigrationtool
 win32shutdown
 winbgp
 windchillrv&s
@@ -10862,6 +10909,8 @@ windows-features
 windows-firewall
 windows-path
 windows-powershell
+windows-registry
+windows-remoting
 windows-server-2016
 windows-terminal
 windows-user-folder
@@ -10988,7 +11037,6 @@ workspaceone
 workspaces
 workstation
 world
-worldcup
 worryfreebusinesssecurity
 wow
 wpad
@@ -11113,6 +11161,7 @@ youtube-dl
 youtubeextractor
 yq
 yubaba
+yubikey
 yum
 z
 zabbix
@@ -11133,6 +11182,8 @@ zoicware
 zone
 zookeeper
 zoom
+zoomapi
+zoommeeting
 zorus
 zorusapi
 zoxide
