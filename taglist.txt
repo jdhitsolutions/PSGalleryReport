@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Sunday, 03 November 2024 09:51:54 UTC
+Updated: Sunday, 03 November 2024 17:51:50 UTC
 
 .bat
 .env
@@ -190,6 +190,7 @@ adfstools
 adgroupmemberobjects
 adgroupmembers
 adgroups
+adidns
 adif
 adlds
 adm
@@ -387,7 +388,6 @@ apexlegends
 api
 api-client
 api-gateway
-api-rest
 apichecks
 apiclient
 apigateway
@@ -474,7 +474,6 @@ archivematica
 archivial
 archivial-backup
 archivial-cloud-backup
-archlinux
 archon
 archonagent
 arcresourcebridge
@@ -933,6 +932,7 @@ blueprints
 bluesky
 blueteam
 bluetraitio
+bluetuxedo
 bmc
 bnm
 boards
@@ -1019,7 +1019,6 @@ bulletin
 bullhorn
 bundle
 bup
-burnttoast
 burpsuite
 bus
 business
@@ -1511,7 +1510,6 @@ connector
 connectorcmd
 connectormanagement
 connectwise
-conservation
 console
 consoleguitools
 consolemenu
@@ -1622,6 +1620,8 @@ covid-19
 cpm
 cppm
 cpu
+cpuid
+cpuid-information
 cq
 cqd
 cqdpowershell
@@ -1693,7 +1693,6 @@ css
 csv
 csv2adx
 csvhelper
-ctap
 ctf
 ctglobal
 ctl
@@ -1812,7 +1811,6 @@ dataexplorer
 datafactory
 dataflow
 dataflowdependency
-dataframe
 datagateway
 dataintegration
 datakwaliteit
@@ -1855,10 +1853,7 @@ db
 db2
 dba
 dbaas
-dbai
 dbase
-dbassistant
-dbatools
 dbcommand
 dbeaver
 dbfs
@@ -2150,17 +2145,18 @@ domain
 domaincontroller
 domainkey
 domainname
+domainnamesystem
 domains
 domino
 done.land
 donothing
+dos
 dot
 dotenv
 dotfile
 dotfiles
 dotnet
 dotnet-cli
-dotnettool
 dotps1
 dots
 dotteddecimalip
@@ -2263,7 +2259,6 @@ durabletask
 dust
 dutch
 dvls
-dvr
 dword
 dxexpeditions
 dynamic
@@ -2838,9 +2833,6 @@ freesoftwarefoundation
 freshbooks
 freshdesk
 freshservice
-freshservice-api
-freshserviceps
-freshworks
 friendly
 fritz
 fritzbox
@@ -3022,7 +3014,6 @@ glimps
 glob
 globalclipboard
 globaldashboard
-globalentry
 globallydistributeddatabase
 globbing
 glpi
@@ -3108,7 +3099,6 @@ groupmembership
 grouppolicy
 groups
 grouvee
-growlnotify
 grr
 gsudo
 gsuite
@@ -3191,7 +3181,6 @@ hcl
 hcm
 hcx
 hdfs
-hdhomerun
 hdinsight
 hdinsightonaks
 hdr
@@ -3214,6 +3203,7 @@ helium
 helix
 hello
 helloid
+helloposhgallery
 helloworld
 helm
 helmet
@@ -3250,6 +3240,7 @@ highlighting
 highrise
 hint
 hipaa
+hipb
 hipchat
 hiragana
 histogram
@@ -3275,9 +3266,7 @@ holiday
 home
 home_automation
 homebrew
-homelandsecurity
 homeschooling
-hometheater
 hon
 hooking
 hooks
@@ -3766,7 +3755,6 @@ katakana
 kb
 kbarticle
 kdbx
-kdialog
 kebab-case
 keenetic
 keepachangelog
@@ -3847,7 +3835,6 @@ lab-management
 labautomation
 labdefinition
 label
-labels
 lability
 labnotifications
 laborate
@@ -3867,7 +3854,6 @@ lan
 landingzones
 language
 languageai
-languagedsc
 languageexperiencepack
 languagemodels
 languagepack
@@ -3895,6 +3881,7 @@ lccn
 lcm
 lcminternals
 ldap
+leafs
 league
 lean
 learn
@@ -4183,7 +4170,6 @@ maps
 mapsapi
 mariadb
 mark
-markdig
 markdown
 markdownrender
 marketing
@@ -4576,6 +4562,8 @@ namedpipe
 nameit
 nameresolution
 names
+nameserver
+nameservers
 namespace
 naming
 nana
@@ -4641,7 +4629,6 @@ network-info
 networkanalytics
 networkcategory
 networkcloud
-networkcontroller
 networkdiscovery
 networkdrives
 networkfirewall
@@ -4735,10 +4722,8 @@ nothing
 notification
 notificationhubs
 notifications
-notifu
 notify
 notify-send
-notify-send-wsl
 nova
 npgsql
 npm
@@ -4878,6 +4863,7 @@ oneloginapi
 onenote
 onestools
 onesubscription
+onetimesecret
 oneviewglobaldashboard
 online
 online-backup
@@ -5086,7 +5072,6 @@ pass-the-ticket
 passcode
 passivetotal
 passkey
-passkeys
 passphrase
 passphraser passphrase password generator entropy
 passwd
@@ -5101,7 +5086,6 @@ passwordgeneration
 passwordgenerator
 passwordgenerators
 passwordhashing
-passwordless
 passwordlock
 passwordlockoutreport
 passwordmanagement
@@ -5240,6 +5224,7 @@ playback
 playbook
 player
 playlists
+playwright
 pleasant
 pleasantpasswordserver
 plex
@@ -5267,6 +5252,7 @@ pointer
 pokeapi
 pokedex
 pokemon
+pokemontcg
 poker
 policies
 policy
@@ -5330,7 +5316,6 @@ poshy-ls-isms
 poshy-lucidity
 poshy-multimedia
 poshy-net
-poshy-notify-send
 poshy-sh-isms
 poshy-viewer-finder
 poshy-wrap
@@ -5370,10 +5355,10 @@ poshy-wrap-vault
 poshy-wrap-vscode
 poshy-wrap-wget
 poshy-wrap-wt
-poshy-wrap-yum
 poshy-wrap-zypper
 position
 post
+postcode
 postgre
 postgres
 postgresql
@@ -6820,18 +6805,6 @@ pscommand_invoke-vscodewithextensionsdir
 pscommand_invoke-vscodewithlog
 pscommand_invoke-vscodewithuserdatadir
 pscommand_invoke-vscodewithwait
-pscommand_invoke-yumcleanall
-pscommand_invoke-yumgroupinstall
-pscommand_invoke-yumgroupremove
-pscommand_invoke-yuminfo
-pscommand_invoke-yuminstall
-pscommand_invoke-yumlist
-pscommand_invoke-yumlistinstalled
-pscommand_invoke-yummakecache
-pscommand_invoke-yumremove
-pscommand_invoke-yumremoveleaves
-pscommand_invoke-yumsearch
-pscommand_invoke-yumupdate
 pscommand_invoke-zypper
 pscommand_invoke-zypperaddlock
 pscommand_invoke-zypperaddservice
@@ -6878,7 +6851,6 @@ pscommand_invoke-zypperupdate
 pscommand_invoke-zypperverify
 pscommand_invoke-zypperversioncompare
 pscommand_invoke-zypperwhatprovides
-pscommand_invokeyumgrouplist
 pscommand_ips
 pscommand_ipy
 pscommand_ipython
@@ -7060,7 +7032,6 @@ pscommand_nmap_ping_through_firewall
 pscommand_nmap_slow
 pscommand_nmap_traceroute
 pscommand_nmap_web_safe_osscan
-pscommand_notify-send-fallback
 pscommand_npm-disable-proxy
 pscommand_npm-enable-proxy
 pscommand_npm-show-proxy
@@ -7347,19 +7318,6 @@ pscommand_write-gitcommitinteractively
 pscommand_write-gitcommitsignedoff
 pscommand_xin
 pscommand_xwith
-pscommand_yc
-pscommand_ygi
-pscommand_ygl
-pscommand_ygr
-pscommand_yi
-pscommand_yl
-pscommand_yli
-pscommand_ymc
-pscommand_yp
-pscommand_yr
-pscommand_yrl
-pscommand_ys
-pscommand_yu
 pscommand_z
 pscommand_zal
 pscommand_zar
@@ -8229,18 +8187,6 @@ psfunction_invoke-vscodewithextensionsdir
 psfunction_invoke-vscodewithlog
 psfunction_invoke-vscodewithuserdatadir
 psfunction_invoke-vscodewithwait
-psfunction_invoke-yumcleanall
-psfunction_invoke-yumgroupinstall
-psfunction_invoke-yumgroupremove
-psfunction_invoke-yuminfo
-psfunction_invoke-yuminstall
-psfunction_invoke-yumlist
-psfunction_invoke-yumlistinstalled
-psfunction_invoke-yummakecache
-psfunction_invoke-yumremove
-psfunction_invoke-yumremoveleaves
-psfunction_invoke-yumsearch
-psfunction_invoke-yumupdate
 psfunction_invoke-zypper
 psfunction_invoke-zypperaddlock
 psfunction_invoke-zypperaddservice
@@ -8287,7 +8233,6 @@ psfunction_invoke-zypperupdate
 psfunction_invoke-zypperverify
 psfunction_invoke-zypperversioncompare
 psfunction_invoke-zypperwhatprovides
-psfunction_invokeyumgrouplist
 psfunction_jump
 psfunction_kerndeb
 psfunction_kres
@@ -8323,7 +8268,6 @@ psfunction_nmap_ping_through_firewall
 psfunction_nmap_slow
 psfunction_nmap_traceroute
 psfunction_nmap_web_safe_osscan
-psfunction_notify-send-fallback
 psfunction_npm-disable-proxy
 psfunction_npm-enable-proxy
 psfunction_npm-show-proxy
@@ -8488,7 +8432,6 @@ psget
 psgitlab
 psgraph
 psgraylog
-pshdhomerun
 pshot
 pshtml
 psimport
@@ -8618,6 +8561,7 @@ pve
 pvr
 pvs
 pwa
+pwned
 pwpush
 pwsafe
 pwsh
@@ -8766,7 +8710,6 @@ reconcile
 reconnaissance
 record
 recording
-recordings
 recordsmanagement
 recovery
 recoveryservices
@@ -8822,8 +8765,9 @@ regex
 region
 regions
 regiser-argumentcompleter
-register
 register-argumentcompleter
+registered
+registrar
 registration
 registry
 registryoperations
@@ -9005,7 +8949,6 @@ robot
 roca
 rock
 rocket
-rocketcyber
 roco
 rocolatey
 role
@@ -9467,7 +9410,6 @@ signature
 signed
 signing
 signtool
-silicondust
 silk
 silver_ticket
 sim
@@ -9735,7 +9677,6 @@ squire
 srcds
 srcsrv
 srm
-srylius-write
 ssas
 ssc
 ssdt
@@ -10039,6 +9980,7 @@ taskscheduler
 tatux
 taxjar
 taxonomy
+tcg
 tcp
 tcp/ip
 tcpip
@@ -10096,7 +10038,6 @@ terminal
 terminal-interface
 terminal-services
 terminal.gui
-terminalnotifier
 terminalvelocity
 termset
 terraform
@@ -10236,6 +10177,7 @@ tools4ever
 topdesk
 topgrade
 topics
+topleveldomain
 topology
 tor
 toradex
@@ -10324,14 +10266,12 @@ trustedsigning
 truth
 trx
 ts
-tsa
 tsd
 tsheets
 tsqlbestpractice
 tst
 tst1
 tst3
-tsv
 ttrpg
 tts
 tubedownloader
@@ -10379,7 +10319,6 @@ ud-avataaar
 ud-badgebutton
 ud-badgelink
 ud-breadcrumb
-ud-breadcrumbitem
 ud-burger
 ud-button
 ud-buttonloader
@@ -10832,7 +10771,6 @@ webapi
 webapp
 webapplicationproxy
 webapps
-webauthn
 webcamera
 webcmdlets
 webdav
@@ -10889,6 +10827,28 @@ whitespace
 who
 whoami
 whois
+whoiscmdlet
+whoiscommand
+whoisdata
+whoisdetails
+whoisfunction
+whoishelper
+whoisinformation
+whoislookup
+whoislookuptool
+whoismodule
+whoisoutput
+whoispowershellmodule
+whoisquery
+whoisrecord
+whoisreport
+whoisresponse
+whoisresults
+whoisscript
+whoisserver
+whoissummary
+whoistool
+whoisutility
 whormi
 wi-fi
 wia
@@ -10932,7 +10892,6 @@ windows-explorer
 windows-features
 windows-firewall
 windows-path
-windows-powershell
 windows-registry
 windows-remoting
 windows-server-2016
@@ -11187,7 +11146,6 @@ youtubeextractor
 yq
 yubaba
 yubikey
-yum
 z
 zabbix
 zabbixps
