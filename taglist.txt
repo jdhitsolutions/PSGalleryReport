@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Thursday, 07 November 2024 09:52:04 UTC
+Updated: Thursday, 07 November 2024 17:51:50 UTC
 
 .bat
 .env
@@ -271,7 +271,6 @@ aimodels
 aip
 aiprompting
 aipscanner
-aircall
 airpower
 airpwr
 airtable
@@ -976,7 +975,6 @@ break
 breakpoint
 brew
 brickset
-brickstore
 bridge
 brightbooking
 brightness
@@ -1095,7 +1093,6 @@ catesta
 catimage
 cats
 catty
-cavium
 cb
 cblueshell
 cbr
@@ -1287,7 +1284,6 @@ clixml
 clock
 clojure
 clone
-close-openfile
 cloud
 cloud_data_management
 cloud-backup
@@ -1461,7 +1457,6 @@ computer-site
 computername
 computers
 computersite
-concur
 concurrency
 concurrent
 conda
@@ -1562,6 +1557,7 @@ conversiontool
 convert
 convert-dtexceptiontomessage
 convert-movietogif
+convert-sid
 convert-windowsimage
 converter
 convertfrom
@@ -1586,7 +1582,6 @@ cooltag2
 coordinates
 copilot
 copy
-copy-item
 copypaste
 copyright
 core
@@ -1858,10 +1853,7 @@ db
 db2
 dba
 dbaas
-dbai
 dbase
-dbassistant
-dbatools
 dbcommand
 dbeaver
 dbfs
@@ -2106,6 +2098,7 @@ dns-client
 dns-over-https
 dns-resolver
 dnsbl
+dnsclient
 dnsdumpster
 dnsentry
 dnsimple
@@ -2127,7 +2120,6 @@ docker-image
 docker-machine
 docker-volumes
 dockerfile
-dockerize
 dockerswarm
 docking
 docs
@@ -2256,7 +2248,6 @@ dumpify
 dumping
 dumps
 duo
-duosecurity
 dupes
 duplicate
 duplicate-files
@@ -2343,6 +2334,7 @@ elevatedmode
 elevation
 elevenlabs
 elgato
+elitism
 elk
 elm
 elmah-io
@@ -2627,7 +2619,6 @@ fast-dds
 fast-ping
 fastfilepub
 fastgit
-fastlinq
 fastlookup
 fastping
 fasttrack
@@ -2970,7 +2961,6 @@ get-firmwaretype
 get-help
 get-history
 get-iislog
-get-openfile
 get-openfiles
 get-pass
 get-passivetrippoint
@@ -3487,7 +3477,6 @@ indexdb
 indicator
 inedo
 inetfwrule
-inetum
 infinity
 influx
 influxdb
@@ -3610,7 +3599,6 @@ iothubproperties
 ip
 ip_cameras
 ip-address
-ip-scanner
 ipa
 ipaddress
 ipam
@@ -3659,6 +3647,7 @@ issues
 isvalidemail
 isvalidip
 it
+it-support
 it-tool
 it-tools
 itadministration
@@ -3796,6 +3785,7 @@ keycipher
 keycloak
 keylight
 keymanagement
+keymanagementserver
 keymap
 keymapping
 keypair
@@ -3988,7 +3978,6 @@ llama
 llama2
 llama3
 lldp
-llm
 lmhost
 lmhosts
 lms
@@ -4147,6 +4136,7 @@ maintain-module
 maintenance
 maintenance-window
 maintenancewindows
+mak
 make
 maker
 malware
@@ -4202,7 +4192,6 @@ marklogic
 marquee
 marvel
 marvell
-marvell_semiconductor_inc
 marvellfcpowerkit
 marvellfcprovider
 marvellqlogicfcpowerkit
@@ -4719,6 +4708,7 @@ nmm
 nntp
 node
 nodejs
+non-idiomatic
 non-volatile
 none
 noneimages
@@ -4730,6 +4720,7 @@ normal
 norskale
 norway
 norwegian
+nos
 nosql
 note
 notebook
@@ -4950,6 +4941,7 @@ optics
 optimise
 optimization
 optimize
+optimized
 optimizer
 option
 option119
@@ -5298,7 +5290,6 @@ popd
 population
 popup
 port
-port-scanner
 port70
 portal
 porthunter
@@ -5348,7 +5339,6 @@ poshy-wrap
 poshy-wrap-apt
 poshy-wrap-argcomplete
 poshy-wrap-brew
-poshy-wrap-curl
 poshy-wrap-dnf
 poshy-wrap-docker
 poshy-wrap-docker-compose
@@ -5720,12 +5710,6 @@ pscommand_cd-
 pscommand_cd..
 pscommand_cd+
 pscommand_cdgr
-pscommand_cl
-pscommand_clb
-pscommand_clhead
-pscommand_clo
-pscommand_cloc
-pscommand_clocr
 pscommand_confirm-gitbisectcommitbad
 pscommand_confirm-gitbisectcommitgood
 pscommand_convertto-nixmode
@@ -6358,12 +6342,6 @@ pscommand_invoke-brewupgradeandcleanup
 pscommand_invoke-brewupgradecaskandcleanup
 pscommand_invoke-brewupgradeformula
 pscommand_invoke-brewupgradegreedyandcleanup
-pscommand_invoke-curlfollowingredirects
-pscommand_invoke-curlfollowingredirectsdownloadasnamed
-pscommand_invoke-curlfollowingredirectsdownloadasnamedcontinue
-pscommand_invoke-curlfollowingredirectsdownloadasnamedcontinueandretry
-pscommand_invoke-curlfollowingredirectsfetchbanner
-pscommand_invoke-curlonlyforgetresponseheaders
 pscommand_invoke-dnfcleanall
 pscommand_invoke-dnfgrouplist
 pscommand_invoke-dnfgrouppinstall
@@ -7770,12 +7748,6 @@ psfunction_invoke-brewupgradeandcleanup
 psfunction_invoke-brewupgradecaskandcleanup
 psfunction_invoke-brewupgradeformula
 psfunction_invoke-brewupgradegreedyandcleanup
-psfunction_invoke-curlfollowingredirects
-psfunction_invoke-curlfollowingredirectsdownloadasnamed
-psfunction_invoke-curlfollowingredirectsdownloadasnamedcontinue
-psfunction_invoke-curlfollowingredirectsdownloadasnamedcontinueandretry
-psfunction_invoke-curlfollowingredirectsfetchbanner
-psfunction_invoke-curlonlyforgetresponseheaders
 psfunction_invoke-dnfcleanall
 psfunction_invoke-dnfgrouplist
 psfunction_invoke-dnfgrouppinstall
@@ -8546,6 +8518,9 @@ pspath
 pspersonio
 pspowerhour
 psprofiler
+psproject
+psprojectcreator
+psprojectgenerator
 psprovider
 psprtg
 pspublicapi
@@ -8662,7 +8637,6 @@ qliksesne
 qlikview
 qlikview-cli
 qlogic
-qlogicfastlinqpowerkit
 qlogicfcpowerkit
 qlogicfcprovider
 qna
@@ -8930,7 +8904,6 @@ requiredmodules
 requirements
 res
 rescan
-rescuetime
 reservation
 reservations
 reset
@@ -9214,8 +9187,6 @@ screenshot
 script
 script_version
 script-module
-script-to-assembly
-script-to-executable
 scriptanalyzer
 scriptblock
 scriptblocklogging
@@ -9228,7 +9199,6 @@ scripting
 scriptlog
 scriptlogging
 scriptmodule
-scriptoform
 scriptrunner
 scripts
 scriptsmonitoring
@@ -9300,7 +9270,6 @@ securityroles
 securityscopes
 securitytxt
 sed
-seed
 seek
 seekatar
 seeshell
@@ -9999,6 +9968,7 @@ system-services
 system.directoryservices.protocols
 system.text
 systemadministration
+systemadministrator
 systemadmins
 systemcenter
 systemcolors
@@ -10023,7 +9993,6 @@ tabexpansion2
 tablacus
 table
 tableau
-tableauserver
 tableauworkbook
 tabler
 tables
@@ -10096,6 +10065,7 @@ telegram-bot-api
 telegram-sticker
 telegramx
 telemetry
+teletext
 telligent
 telnet
 temp
@@ -10711,6 +10681,7 @@ visualstudioonline
 visualstudioteamservices
 vlan
 vlookup
+vlsc
 vlsm
 vm
 vmc
@@ -10746,6 +10717,8 @@ voidtools
 volkskrant
 volta
 volume
+volumelicense
+volumelicenseagreement
 volumeshadowcopy
 volumio
 voperator
@@ -10772,6 +10745,7 @@ vrtu
 vs
 vs-shell
 vsa
+vsa9
 vsan
 vsan+
 vscode
@@ -10806,7 +10780,6 @@ waa
 waas
 wac
 waf
-wait4x
 waitforobject
 wakeonlan
 wakeup
@@ -10893,7 +10866,6 @@ weixin
 well-known
 wem
 wemsdk
-wer
 wget
 what3words
 whatismyip
@@ -10992,6 +10964,7 @@ windowscredentials
 windowscredentialsmanager
 windowsdataprotectionapi
 windowsdefender
+windowsdesktop
 windowsdesktopsearch
 windowsdirectories
 windowsevent
@@ -11020,6 +10993,8 @@ windowsserver
 windowsserver2008
 windowsserver2016
 windowsserver2019
+windowsserver2022
+windowsserver2025
 windowsservercoresecurity
 windowsserverguisecurity
 windowsservice
@@ -11034,7 +11009,6 @@ winform
 winforms
 winget
 wingetbridge
-winrar
 winrm
 winrs
 winrt
@@ -11133,7 +11107,6 @@ wsapi
 wsb
 wsl
 wsl2
-wsl2 psmodule psedition_core
 wsman
 wsmanlistener
 wso2
