@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Thursday, 07 November 2024 02:15:00 UTC
+Updated: Thursday, 07 November 2024 09:52:04 UTC
 
 .bat
 .env
@@ -1562,7 +1562,6 @@ conversiontool
 convert
 convert-dtexceptiontomessage
 convert-movietogif
-convert-sid
 convert-windowsimage
 converter
 convertfrom
@@ -2128,6 +2127,7 @@ docker-image
 docker-machine
 docker-volumes
 dockerfile
+dockerize
 dockerswarm
 docking
 docs
@@ -2248,6 +2248,7 @@ duckduckgo
 ducktyping
 dudckduckgo
 duf
+dumb
 dummy
 dummyusers
 dump
@@ -2342,7 +2343,6 @@ elevatedmode
 elevation
 elevenlabs
 elgato
-elitism
 elk
 elm
 elmah-io
@@ -2771,6 +2771,7 @@ fleetsoftwareupdate
 flex
 flex-query
 flexdesk
+flexible
 flickr
 flowchart
 flowy
@@ -2948,6 +2949,7 @@ geolocation
 geosearching
 geotagging
 get
+get_random_password
 get-admodernreport
 get-childitem
 get-cmhealthcheck
@@ -3025,6 +3027,7 @@ glob
 globalclipboard
 globaldashboard
 globalentry
+globallydistributeddatabase
 globbing
 glpi
 gmail
@@ -3129,6 +3132,7 @@ gumby
 guru
 gvim
 gw2
+gwbasic
 gymnasium
 gz
 gzip
@@ -3219,6 +3223,7 @@ helloworld
 helm
 helmet
 help
+helpdesk
 helpdoc
 helper
 helper-functions
@@ -3482,6 +3487,7 @@ indexdb
 indicator
 inedo
 inetfwrule
+inetum
 infinity
 influx
 influxdb
@@ -3653,7 +3659,6 @@ issues
 isvalidemail
 isvalidip
 it
-it-support
 it-tool
 it-tools
 itadministration
@@ -3698,6 +3703,7 @@ jenkins
 jetbrains
 jira
 jiraservicemanagement
+jitbit
 jms
 jmsjavadownloads
 jnet
@@ -3790,7 +3796,6 @@ keycipher
 keycloak
 keylight
 keymanagement
-keymanagementserver
 keymap
 keymapping
 keypair
@@ -4142,7 +4147,6 @@ maintain-module
 maintenance
 maintenance-window
 maintenancewindows
-mak
 make
 maker
 malware
@@ -4166,6 +4170,7 @@ managedserviceproviders
 managedservices
 manageengine
 management
+managementagent
 managementdashboard
 managementgroups
 managementpoint
@@ -4714,7 +4719,6 @@ nmm
 nntp
 node
 nodejs
-non-idiomatic
 non-volatile
 none
 noneimages
@@ -4726,7 +4730,6 @@ normal
 norskale
 norway
 norwegian
-nos
 nosql
 note
 notebook
@@ -4734,6 +4737,7 @@ notepad
 notepad2
 noteproperty
 notes
+nothing
 notification
 notificationhubs
 notifications
@@ -4938,6 +4942,7 @@ operationsmanagementsuite
 operationsmanagementsuiteagent
 operationvalidation
 operatoraccesscontrol
+opml
 ops
 opsi
 opsmgr
@@ -4945,7 +4950,6 @@ optics
 optimise
 optimization
 optimize
-optimized
 optimizer
 option
 option119
@@ -5011,6 +5015,7 @@ out-gridview
 out-json
 outerjoin
 outertext
+outline
 outlook
 outpainting
 output
@@ -5093,6 +5098,7 @@ passphrase
 passphraser passphrase password generator entropy
 passwd
 password
+password_generation
 password-generator
 password-less
 password-manager
@@ -8540,9 +8546,6 @@ pspath
 pspersonio
 pspowerhour
 psprofiler
-psproject
-psprojectcreator
-psprojectgenerator
 psprovider
 psprtg
 pspublicapi
@@ -8734,6 +8737,7 @@ rate-limit
 rates
 rating
 ratings
+ravendb
 razzle
 rbac
 rbacmodel
@@ -9177,6 +9181,7 @@ scheduling
 schema
 schemaextensions
 scheme
+school-information-system
 schoolholidays
 schulung
 schulverwaltung
@@ -9209,6 +9214,8 @@ screenshot
 script
 script_version
 script-module
+script-to-assembly
+script-to-executable
 scriptanalyzer
 scriptblock
 scriptblocklogging
@@ -9221,6 +9228,7 @@ scripting
 scriptlog
 scriptlogging
 scriptmodule
+scriptoform
 scriptrunner
 scripts
 scriptsmonitoring
@@ -9292,6 +9300,7 @@ securityroles
 securityscopes
 securitytxt
 sed
+seed
 seek
 seekatar
 seeshell
@@ -9332,6 +9341,7 @@ sensors
 sensu
 sentinel
 sentinelone
+sentry
 sep
 seppmail
 seppmail.cloud
@@ -9514,6 +9524,7 @@ skeet
 skeleton-loader
 skia
 skiasharp
+skolnilogin
 sku
 skunklab
 sky
@@ -9785,6 +9796,8 @@ stale
 stan
 stanc
 standard
+standarderror
+standardoutput
 standards
 standbypool
 stansummary
@@ -9817,6 +9830,7 @@ statusmonitor
 statusreportingcomponent
 staytus
 stderr
+stdio
 stdout
 steam
 steam-games
@@ -9985,7 +9999,6 @@ system-services
 system.directoryservices.protocols
 system.text
 systemadministration
-systemadministrator
 systemadmins
 systemcenter
 systemcolors
@@ -10083,7 +10096,6 @@ telegram-bot-api
 telegram-sticker
 telegramx
 telemetry
-teletext
 telligent
 telnet
 temp
@@ -10258,6 +10270,7 @@ touch
 toughswitch
 tower
 tphubps
+tpm
 tr-064
 tr064
 trace
@@ -10698,7 +10711,6 @@ visualstudioonline
 visualstudioteamservices
 vlan
 vlookup
-vlsc
 vlsm
 vm
 vmc
@@ -10734,8 +10746,6 @@ voidtools
 volkskrant
 volta
 volume
-volumelicense
-volumelicenseagreement
 volumeshadowcopy
 volumio
 voperator
@@ -10762,7 +10772,6 @@ vrtu
 vs
 vs-shell
 vsa
-vsa9
 vsan
 vsan+
 vscode
@@ -10797,6 +10806,7 @@ waa
 waas
 wac
 waf
+wait4x
 waitforobject
 wakeonlan
 wakeup
@@ -10982,7 +10992,6 @@ windowscredentials
 windowscredentialsmanager
 windowsdataprotectionapi
 windowsdefender
-windowsdesktop
 windowsdesktopsearch
 windowsdirectories
 windowsevent
@@ -11011,8 +11020,6 @@ windowsserver
 windowsserver2008
 windowsserver2016
 windowsserver2019
-windowsserver2022
-windowsserver2025
 windowsservercoresecurity
 windowsserverguisecurity
 windowsservice
