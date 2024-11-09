@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Saturday, 09 November 2024 09:51:53 UTC
+Updated: Saturday, 09 November 2024 17:51:56 UTC
 
 .bat
 .env
@@ -73,7 +73,6 @@ aam
 aas
 aatp
 abc
-abc_testing
 abe
 about
 abr
@@ -192,6 +191,7 @@ adgroupmembers
 adgroups
 adidns
 adif
+adlds
 adm
 admf
 admin
@@ -474,7 +474,6 @@ archivematica
 archivial
 archivial-backup
 archivial-cloud-backup
-archlinux
 archon
 archonagent
 arcresourcebridge
@@ -684,6 +683,7 @@ azforensics
 azkeyvault
 aznetworking
 aznetworkinterface
+aznicdetails
 azops
 azpipelines
 azpublicipaddress
@@ -867,7 +867,6 @@ bicepnet
 big-ip
 big-iq
 bigcommerce
-bigeval
 bigfix
 bigquery
 bikeshed
@@ -968,7 +967,6 @@ brave
 brawlapi
 brawlstars
 brazencloud
-bre
 breach
 break
 breakpoint
@@ -1028,7 +1026,6 @@ businesscentral
 businessdays
 businesshours
 businessobjects
-businessrulesengine
 businesstime
 bxor
 bydesign
@@ -1182,7 +1179,6 @@ chefconf2016
 chenxizhang
 cherrypy
 cherwell
-chfs
 chi
 china
 chmod
@@ -1423,7 +1419,6 @@ commfort
 commit
 commits
 common
-common-data-service
 commondataservice
 commonmark
 commonstuff
@@ -1736,7 +1731,6 @@ customization
 customlocation
 customlogs
 customproviders
-cutehttpfileserver
 cvad
 cve
 cve-2021-34527
@@ -2402,7 +2396,6 @@ enteo
 enter
 enterprise
 enterprise-scale
-enterprisedb
 enterprisemanager
 enterprisevoice
 entity
@@ -2429,7 +2422,6 @@ eol
 eop
 eperl
 ephesoft
-epicor
 episode
 epplus
 eprosima
@@ -2516,7 +2508,6 @@ evolutionary-algorithms
 evolutionary-database
 evtx
 ews
-exact
 example
 examples
 excel
@@ -2862,7 +2853,6 @@ fslogix
 fsrm
 ftp
 ftps
-fu-msauth
 fudge
 fudgepop
 fujitsu
@@ -3143,7 +3133,6 @@ ha
 haarlemsdagblad
 hack
 hacking
-hacktoberfest
 hadoop
 hafr
 haiku
@@ -3177,8 +3166,6 @@ hardmatch
 hardware
 harperdb
 hartokens
-harvest
-harvestforecast
 hash
 hashcat
 hashicorp
@@ -3258,7 +3245,6 @@ highrise
 hint
 hipaa
 hipb
-hipchat
 hiragana
 histogram
 history
@@ -3486,7 +3472,6 @@ incontact
 indents
 index
 indexdb
-indicator
 inedo
 inetfwrule
 inetum
@@ -3805,14 +3790,12 @@ keymapping
 keypair
 keysms
 keyvault
-keywords
 kfum-spejderne
 kibana
 kickstart
 kidrsa
 kill
 kindle
-kinetic
 kinopoisk
 kintone
 klantcontroles
@@ -3975,7 +3958,6 @@ lint
 linting
 linux
 linux-command
-linuxssh
 liquid
 liquit
 liquit.com
@@ -4091,7 +4073,6 @@ lolcat
 longfile
 longfiles
 longitude
-look
 lookup
 loop
 loopback
@@ -4548,7 +4529,6 @@ multiserver
 multistring
 multithread
 multithreaded
-multithreaded-helpers
 multithreading
 music
 musiccast
@@ -4561,7 +4541,6 @@ mvc
 mvn
 mvp
 mx
-mxlookup
 mycloudrevolution
 myget
 myhub
@@ -4574,7 +4553,6 @@ myposh
 mypstag
 mysql
 mysql-database
-mytest
 n-able
 n-central
 nabu
@@ -4661,6 +4639,7 @@ networkfirewall
 networkfunction
 networkinfo
 networking
+networkinterfaces
 networkloadbalancer
 networkpolicyserver
 networkprofile
@@ -4805,7 +4784,6 @@ oacli
 oacmdlets
 oacommand
 oact
-oath
 oauth
 oauth2
 oauth2.0
@@ -4897,7 +4875,6 @@ online-backup
 onlinebackup
 onprem
 onpremisesdatagatewayhamgmt
-onq
 ons
 ontap
 ontap_9.15.1
@@ -4937,7 +4914,6 @@ openssl
 openstack
 openstreetmaps
 openvpn
-openxml
 operating
 operating_system
 operating-system
@@ -5232,7 +5208,6 @@ pipelines
 pipenv
 pipescript
 piraeus
-piv
 pivot
 pivotal
 pivottable
@@ -5370,7 +5345,6 @@ poshy-wrap-git-lfs
 poshy-wrap-golang
 poshy-wrap-helm
 poshy-wrap-kubectl
-poshy-wrap-maven
 poshy-wrap-nginx
 poshy-wrap-nmap
 poshy-wrap-npm
@@ -5489,7 +5463,6 @@ powertab
 powertoolcmdlets
 powertooldsc
 ppdm
-ppk
 pposh
 pps
 ppt
@@ -5602,6 +5575,7 @@ protocols
 provance
 proverb
 provider
+providerhub
 provision
 provisioning
 provisioningpackage
@@ -6613,17 +6587,6 @@ pscommand_invoke-kubectlrolloutundo
 pscommand_invoke-kubectlrunnetshoot
 pscommand_invoke-kubectlscaledeployment
 pscommand_invoke-kubectlscalestatefulset
-pscommand_invoke-mavencleaninstall
-pscommand_invoke-mavencleaninstallskiptests
-pscommand_invoke-mavencleanpackage
-pscommand_invoke-mavencleanpackageskiptests
-pscommand_invoke-mavendependencytree
-pscommand_invoke-mavenhelpeffectivepom
-pscommand_invoke-maveninstall
-pscommand_invoke-mavenpackage
-pscommand_invoke-mavenreleaseperform
-pscommand_invoke-mavenreleaseprepare
-pscommand_invoke-mavenreleaserollback
 pscommand_invoke-npmbinmungedpath
 pscommand_invoke-npminfo
 pscommand_invoke-npminit
@@ -7037,22 +7000,11 @@ pscommand_lsn
 pscommand_lsr
 pscommand_lt
 pscommand_mcd
-pscommand_mci
-pscommand_mcisk
-pscommand_mcp
-pscommand_mcpsk
-pscommand_mdep
 pscommand_measure-envvarchanges
 pscommand_merge-gitrepositoryfromoriginbranchmain
 pscommand_merge-gitrepositoryfromupstreambranchmain
-pscommand_mi
 pscommand_mirrorsite
 pscommand_move-gittrackedfiles
-pscommand_mp
-pscommand_mpom
-pscommand_mrperf
-pscommand_mrprep
-pscommand_mrrb
 pscommand_myip
 pscommand_new-gitbranchfromstash
 pscommand_new-gitbranchtracked
@@ -8025,17 +7977,6 @@ psfunction_invoke-kubectlrolloutundo
 psfunction_invoke-kubectlrunnetshoot
 psfunction_invoke-kubectlscaledeployment
 psfunction_invoke-kubectlscalestatefulset
-psfunction_invoke-mavencleaninstall
-psfunction_invoke-mavencleaninstallskiptests
-psfunction_invoke-mavencleanpackage
-psfunction_invoke-mavencleanpackageskiptests
-psfunction_invoke-mavendependencytree
-psfunction_invoke-mavenhelpeffectivepom
-psfunction_invoke-maveninstall
-psfunction_invoke-mavenpackage
-psfunction_invoke-mavenreleaseperform
-psfunction_invoke-mavenreleaseprepare
-psfunction_invoke-mavenreleaserollback
 psfunction_invoke-npmbinmungedpath
 psfunction_invoke-npminfo
 psfunction_invoke-npminit
@@ -8686,7 +8627,6 @@ qrp
 qrs
 quality
 qualys
-quandl
 quantum
 quarantine
 queries
@@ -9034,8 +8974,6 @@ roca
 rock
 rocket
 rocketcyber
-roco
-rocolatey
 role
 roleassignments
 rolebasedaccesscontrol_model
@@ -9079,9 +9017,7 @@ rubber
 rubrik
 rubriksecuritycloud
 ruby
-rulasg
 rule
-rulesengine
 run
 run-as-user
 runas
@@ -9200,7 +9136,6 @@ scissors
 scm
 scmanager
 scom
-sconfig
 scoop
 scope
 score
@@ -9254,7 +9189,6 @@ sdn
 sdp
 search
 search-adminauditlog
-search-engines
 searchconnector
 searchengine
 searcher
@@ -9673,6 +9607,7 @@ spdockit
 spdx
 spdx-license-identifier:ms-pl
 spe
+speach
 speak
 speaker
 spec
@@ -9727,7 +9662,6 @@ sqlagent
 sqlautomation
 sqlbits
 sqlbrowser
-sqlbulkcopy
 sqlchangeautomation
 sqlclient
 sqlcmd
@@ -9773,9 +9707,7 @@ sse
 ssh
 ssh-config
 ssh-keygen
-sshmanagement
 sshserver
-sshservers
 ssis
 ssl
 sslcert
@@ -10068,7 +10000,6 @@ taskgroup
 taskmanagement
 tasks
 taskscheduler
-tatux
 taxjar
 taxonomy
 tcg
@@ -10153,7 +10084,6 @@ test-userisadministrator
 test-xml
 test123
 testaccount
-testautomation
 tester
 testimonial
 testing
@@ -10171,6 +10101,7 @@ text-emoji
 text-emojis
 text-templates
 text-to-image
+text-to-speach"
 text-to-speech
 text2image
 textanalysis
@@ -10547,7 +10478,6 @@ upsource
 upstream
 uptime
 uptimerobot
-uptobox
 uqword
 uri
 uri-scheme
@@ -10752,7 +10682,6 @@ vnet
 vnmonitoring
 vnugglets
 vnugglets.com
-vocabularies
 voice
 voiceservices
 voidtools
@@ -10779,7 +10708,6 @@ vps
 vra
 vrchat
 vrealize
-vrising
 vro
 vrops
 vrsns
@@ -11074,7 +11002,6 @@ wisconsin-madison
 wisconsin'uw-madison
 wisdom
 with
-wiz
 wizard
 wkhtmltopdf
 wlan
@@ -11243,7 +11170,6 @@ youtube-dl
 youtubeextractor
 yq
 yubaba
-yubikey
 yum
 z
 zabbix

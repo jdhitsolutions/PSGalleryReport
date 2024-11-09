@@ -3,6 +3,69 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [Store](https://www.powershellgallery.com/Packages/Store/0.3.1) | 0.3.1
+
+### Published: 11/09/2024 16:26:49 by PSModule
+
+A PowerShell module that manages a store of secrets and variables.
+
+__Downloads__: 33,597 | __Repository__: https://github.com/PSModule/Store
+
+## [GitHub](https://www.powershellgallery.com/Packages/GitHub/0.8.3) | 0.8.3
+
+### Published: 11/09/2024 15:10:39 by PSModule
+
+A PowerShell module to interact with the GitHub API.
+
+__Downloads__: 29,711 | __Repository__: https://github.com/PSModule/GitHub
+
+## [AlkanePSF](https://www.powershellgallery.com/Packages/AlkanePSF/2.1.0) | 2.1.0
+
+### Published: 11/09/2024 13:04:18 by Kae Travis
+
+Alkane PSF Helpers for MSIX, enabling MSIX Packagers to inject Microsoft or Tim Mangan PSF fix-ups using cmdlets.  
+
+For usage, visit https://www.alkanesolutions.co.uk/2024/03/26/free-msix-packaging-tool-for-the-package-support-framework/
+
+__Downloads__: 84 | __Repository__: https://www.alkanesolutions.co.uk/2024/03/26/free-msix-packaging-tool-for-the-package-support-framework/
+
+## [Adsi](https://www.powershellgallery.com/Packages/Adsi/4.0.357) | 4.0.357
+
+### Published: 11/09/2024 11:12:17 by Jeremy La Camera
+
+Use Active Directory Service Interfaces to query LDAP and WinNT directories
+
+__Downloads__: 4,238 | __Repository__: 
+
+## [Sampler.DscPipeline](https://www.powershellgallery.com/Packages/Sampler.DscPipeline/0.2.0) | 0.2.0
+
+### Published: 11/09/2024 10:42:34 by Gael Colas
+
+Samper tasks for a DSC Pipeline using a Datum Yaml hierarchy.
+
+__Downloads__: 23,708 | __Repository__: https://github.com/SynEdgy/Sampler.DscPipeline
+
+## [DscBuildHelpers](https://www.powershellgallery.com/Packages/DscBuildHelpers/0.2.3) | 0.2.3
+
+### Published: 11/09/2024 10:40:41 by Gael Colas
+
+Build Helpers for DSC Resources and Configurations
+
+__Downloads__: 64,784 | __Repository__: https://github.com/gaelcolas/DscBuildHelpers
+
+## [PSCompletions](https://www.powershellgallery.com/Packages/PSCompletions/5.0.7) | 5.0.7
+
+### Published: 11/09/2024 10:15:46 by abgox
+
+A completion manager for better and simpler use PowerShell completions.
+ It provides a better GUI-style tab-completion menu to enhance the command line experience.
+ For more information, please visit the project or website:
+  - Website: https://pscompletions.pages.dev
+  - Github:  https://github.com/abgox/PSCompletions
+  - Gitee:   https://gitee.com/abgox/PSCompletions
+
+__Downloads__: 15,483 | __Repository__: https://github.com/abgox/PSCompletions
+
 ## [SqlDatabase](https://www.powershellgallery.com/Packages/SqlDatabase/4.3.0) | 4.3.0
 
 ### Published: 11/09/2024 09:35:58 by Max Ieremenko
@@ -18,7 +81,7 @@ __Downloads__: 12,140 | __Repository__: https://github.com/max-ieremenko/SqlData
 
 Module for to help finding next free Subnet in Azure Virtual Network
 
-__Downloads__: 1 | __Repository__: 
+__Downloads__: 0 | __Repository__: 
 
 ## [Ndimensions.Automation.NafSetup](https://www.powershellgallery.com/Packages/Ndimensions.Automation.NafSetup/1.0.135) | 1.0.135
 
@@ -26,7 +89,7 @@ __Downloads__: 1 | __Repository__:
 
 N-DIMENSIONS Automation Framework Setup. `n- Prepare machine for downloading git repositories. Installs git related client software `n- Downloads the NAF repositories
 
-__Downloads__: 424 | __Repository__: https://blog.n-dimensions.de/
+__Downloads__: 423 | __Repository__: https://blog.n-dimensions.de/
 
 ## [MilestonePSTools](https://www.powershellgallery.com/Packages/MilestonePSTools/24.2.1) | 24.2.1
 
@@ -44,14 +107,6 @@ One Zero One custom functions
 
 __Downloads__: 3 | __Repository__: https://github.com/onezeroone-dev/OZO-PowerShell-Module
 
-## [Adsi](https://www.powershellgallery.com/Packages/Adsi/4.0.356) | 4.0.356
-
-### Published: 11/08/2024 23:54:11 by Jeremy La Camera
-
-Use Active Directory Service Interfaces to query LDAP and WinNT directories
-
-__Downloads__: 4,238 | __Repository__: 
-
 ## [ZorusAPI](https://www.powershellgallery.com/Packages/ZorusAPI/0.6) | 0.6
 
 ### Published: 11/08/2024 22:52:05 by Michael McCool
@@ -59,16 +114,6 @@ __Downloads__: 4,238 | __Repository__:
 This module allows you to connect to the Zorus API via PowerShell.
 
 __Downloads__: 8 | __Repository__: https://github.com/MichaelMcCool/ZorusAPI
-
-## [AlkanePSF](https://www.powershellgallery.com/Packages/AlkanePSF/2.0.9) | 2.0.9
-
-### Published: 11/08/2024 21:30:19 by Kae Travis
-
-Alkane PSF Helpers for MSIX, enabling MSIX Packagers to inject Microsoft or Tim Mangan PSF fix-ups using cmdlets.  
-
-For usage, visit https://www.alkanesolutions.co.uk/2024/03/26/free-msix-packaging-tool-for-the-package-support-framework/
-
-__Downloads__: 86 | __Repository__: https://www.alkanesolutions.co.uk/2024/03/26/free-msix-packaging-tool-for-the-package-support-framework/
 
 ## [AdminToolbox](https://www.powershellgallery.com/Packages/AdminToolbox/11.1.0.12) | 11.1.0.12
 
@@ -238,14 +283,6 @@ A module to manage windows networking.
 
 __Downloads__: 4 | __Repository__: 
 
-## [GitHub](https://www.powershellgallery.com/Packages/GitHub/0.8.2) | 0.8.2
-
-### Published: 11/08/2024 09:51:58 by PSModule
-
-A PowerShell module to interact with the GitHub API.
-
-__Downloads__: 29,711 | __Repository__: https://github.com/PSModule/GitHub
-
 ## [Capa.PowerShell.Module](https://www.powershellgallery.com/Packages/Capa.PowerShell.Module/1.10.0) | 1.10.0
 
 ### Published: 11/08/2024 07:36:46 by Mark5900
@@ -262,15 +299,6 @@ PowerShell module for CapaInstaller containing functions for the SDK.
 
 __Downloads__: 165 | __Repository__: https://github.com/Mark5900/Capa.PowerShell.Module
 
-## [Capa.PowerShell.Module.SDK.VPP](https://www.powershellgallery.com/Packages/Capa.PowerShell.Module.SDK.VPP/1.10.0) | 1.10.0
-
-### Published: 11/08/2024 07:36:43 by Mark5900
-
-PowerShell module for CapaInstaller SDK containing functions for VPP functions.
-	For more information, see https://capasystems.atlassian.net/wiki/spaces/CI65DOC/pages/19382173123/SDK+-+CapaInstaller+Software+Development+Kit+functions
-
-__Downloads__: 177 | __Repository__: https://github.com/Mark5900/Capa.PowerShell.Module
-
 ## [Capa.PowerShell.Module.SDK.MDM](https://www.powershellgallery.com/Packages/Capa.PowerShell.Module.SDK.MDM/1.10.0) | 1.10.0
 
 ### Published: 11/08/2024 07:36:43 by Mark5900
@@ -280,14 +308,14 @@ PowerShell module for CapaInstaller SDK containing functions for MDM functions.
 
 __Downloads__: 178 | __Repository__: https://github.com/Mark5900/Capa.PowerShell.Module
 
-## [Capa.PowerShell.Module.SDK.WSUS](https://www.powershellgallery.com/Packages/Capa.PowerShell.Module.SDK.WSUS/1.10.0) | 1.10.0
+## [Capa.PowerShell.Module.SDK.VPP](https://www.powershellgallery.com/Packages/Capa.PowerShell.Module.SDK.VPP/1.10.0) | 1.10.0
 
-### Published: 11/08/2024 07:36:42 by Mark5900
+### Published: 11/08/2024 07:36:43 by Mark5900
 
-PowerShell module for CapaInstaller SDK containing functions for WSUS functions.
+PowerShell module for CapaInstaller SDK containing functions for VPP functions.
 	For more information, see https://capasystems.atlassian.net/wiki/spaces/CI65DOC/pages/19382173123/SDK+-+CapaInstaller+Software+Development+Kit+functions
 
-__Downloads__: 175 | __Repository__: https://github.com/Mark5900/Capa.PowerShell.Module
+__Downloads__: 177 | __Repository__: https://github.com/Mark5900/Capa.PowerShell.Module
 
 ## [Capa.PowerShell.Module.SDK.Unit](https://www.powershellgallery.com/Packages/Capa.PowerShell.Module.SDK.Unit/1.10.0) | 1.10.0
 
@@ -297,6 +325,15 @@ PowerShell module for CapaInstaller SDK containing functions for Unit functions.
 	For more information, see https://capasystems.atlassian.net/wiki/spaces/CI65DOC/pages/19382173123/SDK+-+CapaInstaller+Software+Development+Kit+functions
 
 __Downloads__: 176 | __Repository__: https://github.com/Mark5900/Capa.PowerShell.Module
+
+## [Capa.PowerShell.Module.SDK.WSUS](https://www.powershellgallery.com/Packages/Capa.PowerShell.Module.SDK.WSUS/1.10.0) | 1.10.0
+
+### Published: 11/08/2024 07:36:42 by Mark5900
+
+PowerShell module for CapaInstaller SDK containing functions for WSUS functions.
+	For more information, see https://capasystems.atlassian.net/wiki/spaces/CI65DOC/pages/19382173123/SDK+-+CapaInstaller+Software+Development+Kit+functions
+
+__Downloads__: 175 | __Repository__: https://github.com/Mark5900/Capa.PowerShell.Module
 
 ## [Capa.PowerShell.Module.SDK.User](https://www.powershellgallery.com/Packages/Capa.PowerShell.Module.SDK.User/1.10.0) | 1.10.0
 
@@ -549,7 +586,7 @@ __Downloads__: 27 | __Repository__:
 
 Retrieves a password from BeyondTrust Password Safe and creates a pscredential object
 
-__Downloads__: 16 | __Repository__: https://github.com/timbrigham-oc/OC-BTPS
+__Downloads__: 15 | __Repository__: https://github.com/timbrigham-oc/OC-BTPS
 
 ## [Mercury.PowerShell.Hooks](https://www.powershellgallery.com/Packages/Mercury.PowerShell.Hooks/0.2.0.1) | 0.2.0.1
 
@@ -565,7 +602,7 @@ __Downloads__: 21 | __Repository__: https://github.com/mercury-sh/hooks
 
 Microsoft365Dsc Composite Resource Generator
 
-__Downloads__: 734 | __Repository__: https://github.com/ykuijs/M365DSC.CRG
+__Downloads__: 733 | __Repository__: https://github.com/ykuijs/M365DSC.CRG
 
 ## [JumpCloud](https://www.powershellgallery.com/Packages/JumpCloud/2.14.3) | 2.14.3
 
@@ -638,14 +675,6 @@ __Downloads__: 316,711 | __Repository__: https://github.com/Esri/arcgis-powershe
 Pure Storage FlashArray REST 2.33 API integration with Windows PowerShell.
 
 __Downloads__: 28,462 | __Repository__: https://github.com/PureStorage-Connect/PowerShellSDK2
-
-## [Store](https://www.powershellgallery.com/Packages/Store/0.2.2) | 0.2.2
-
-### Published: 11/07/2024 17:31:18 by PSModule
-
-A PowerShell module that manages a store of secrets and variables.
-
-__Downloads__: 33,597 | __Repository__: https://github.com/PSModule/Store
 
 ## [PsDataFactory](https://www.powershellgallery.com/Packages/PsDataFactory/0.3.1) | 0.3.1
 
@@ -729,14 +758,6 @@ Cmdlets to transfer assets and accessories in Snipe-IT between users, locations,
 
 __Downloads__: 20 | __Repository__: 
 
-## [Butcher](https://www.powershellgallery.com/Packages/Butcher/1.0.0.0) | 1.0.0.0
-
-### Published: 11/07/2024 10:23:33 by David Janou�ek
-
-Binary conversion module
-
-__Downloads__: 22 | __Repository__: https://github.com/dagid4/butcher
-
 ## [Cisco.UCSCentral](https://www.powershellgallery.com/Packages/Cisco.UCSCentral/3.0.5.6) | 3.0.5.6
 
 ### Published: 11/07/2024 10:21:28 by Cisco Systems
@@ -775,7 +796,7 @@ __Downloads__: 64,725 | __Repository__:
 
 Common set of tools to interact with Symantec Endpoint Protection Manager (SEPM) product
 
-__Downloads__: 138 | __Repository__: https://github.com/Douda/PSSymantecSEPM
+__Downloads__: 137 | __Repository__: https://github.com/Douda/PSSymantecSEPM
 
 ## [JyskIT.Automation](https://www.powershellgallery.com/Packages/JyskIT.Automation/1.3.2) | 1.3.2
 
@@ -807,7 +828,7 @@ __Downloads__: 17,130 | __Repository__: https://github.com/Keeper-Security/keepe
 
 Exposes the Windows Process creation Win32 functions in PowerShell.`nSee https://github.com/jborean93/ProcessEx for more info
 
-__Downloads__: 895 | __Repository__: https://github.com/jborean93/ProcessEx
+__Downloads__: 892 | __Repository__: https://github.com/jborean93/ProcessEx
 
 ## [tiPS](https://www.powershellgallery.com/Packages/tiPS/1.3.17) | 1.3.17
 
@@ -839,7 +860,7 @@ __Downloads__: 201,052 | __Repository__: https://github.com/santisq/PSCompressio
 
 A PowerShell module for the Jamf Classic API and Jamf Pro API
 
-__Downloads__: 396 | __Repository__: https://github.com/TrustyTristan/JamfPSPro
+__Downloads__: 395 | __Repository__: https://github.com/TrustyTristan/JamfPSPro
 
 ## [root3i](https://www.powershellgallery.com/Packages/root3i/0.0.1) | 0.0.1
 
@@ -887,7 +908,7 @@ __Downloads__: 44,392 | __Repository__: https://github.com/microsoft/SdnDiagnost
 
 SQLite Connection Tool
 
-__Downloads__: 83 | __Repository__: https://github.com/rhubarb-geek-nz/SQLiteConnection
+__Downloads__: 82 | __Repository__: https://github.com/rhubarb-geek-nz/SQLiteConnection
 
 ## [BurpSuite](https://www.powershellgallery.com/Packages/BurpSuite/1.4.0) | 1.4.0
 
@@ -2026,20 +2047,4 @@ This modules provides Cmdlets for OCI Containerinstances Service
 
 __Downloads__: 5,761 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-## [OCI.PSModules.Containerengine](https://www.powershellgallery.com/Packages/OCI.PSModules.Containerengine/95.0.0) | 95.0.0
-
-### Published: 11/05/2024 18:43:41 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Containerengine Service
-
-__Downloads__: 8,935 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Computeinstanceagent](https://www.powershellgallery.com/Packages/OCI.PSModules.Computeinstanceagent/95.0.0) | 95.0.0
-
-### Published: 11/05/2024 18:43:34 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Computeinstanceagent Service
-
-__Downloads__: 9,099 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-*Updated: Saturday, 09 November 2024 09:51:44 UTC*
+*Updated: Saturday, 09 November 2024 17:51:47 UTC*
