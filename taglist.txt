@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Saturday, 09 November 2024 02:13:27 UTC
+Updated: Saturday, 09 November 2024 09:51:53 UTC
 
 .bat
 .env
@@ -192,7 +192,6 @@ adgroupmembers
 adgroups
 adidns
 adif
-adlds
 adm
 admf
 admin
@@ -620,6 +619,7 @@ automationanywhere
 automationutils
 autonomoussystem
 autonomoussystemnumber
+autopatching
 autopilot
 autoscaling
 autostart
@@ -684,7 +684,6 @@ azforensics
 azkeyvault
 aznetworking
 aznetworkinterface
-aznicdetails
 azops
 azpipelines
 azpublicipaddress
@@ -829,7 +828,9 @@ batman
 battery
 bayern
 bazzo
+bb
 bbc
+bbp
 bc
 bc365
 bcd
@@ -1053,6 +1054,7 @@ callqueue
 calvin-and-hobbes
 cam
 camera
+cameras
 campaign
 camtasia
 canarie
@@ -1218,6 +1220,7 @@ cinst
 cipher
 cipp
 circuit-breaker
+circumlunar
 cireson
 ciresonassetmanagement
 ciresonportal
@@ -1295,6 +1298,7 @@ cloudbees
 cloudberry
 cloudblue
 cloudbolt
+cloudbridge
 cloudendure
 cloudevents
 cloudflare
@@ -1897,6 +1901,7 @@ deepl
 deepseek
 deepseek-coder
 deepseek-coder-v2
+deepvisibility
 def
 default
 defaultparameter
@@ -2424,6 +2429,7 @@ eol
 eop
 eperl
 ephesoft
+epicor
 episode
 epplus
 eprosima
@@ -2478,6 +2484,7 @@ evc
 event
 event_id
 event_list
+event-timeline
 eventchannel
 eventchannels
 eventcollector
@@ -2757,8 +2764,10 @@ flag
 flags
 flash
 flasharray
+flatfile
 flatten
 flavor
+fleet
 fleetappsmanagement
 fleetsoftwareupdate
 flex
@@ -2854,6 +2863,8 @@ fsrm
 ftp
 ftps
 fu-msauth
+fudge
+fudgepop
 fujitsu
 full
 full-metal-gnome
@@ -2904,7 +2915,11 @@ gcs
 gdap
 gdpr
 gedit
+gem
 gemini
+geminiprotocol
+gemlog
+gemtext
 genai
 general
 generate
@@ -2982,6 +2997,7 @@ ghibli
 ghost
 gif
 gifs
+giphy
 gist
 git
 git-client
@@ -3020,6 +3036,7 @@ gmail
 gmap
 gmaps
 gmsa
+gnucash
 gnuwin32
 go
 gobright
@@ -3066,6 +3083,7 @@ gpt3
 gpx
 gradle
 grafana
+grafanaapi
 granttype
 graph
 graph-api
@@ -3592,6 +3610,7 @@ iotcentral
 iothub
 iothubproperties
 ip
+ip_cameras
 ip-address
 ip-scanner
 ipa
@@ -3793,12 +3812,14 @@ kickstart
 kidrsa
 kill
 kindle
+kinetic
 kinopoisk
 kintone
 klantcontroles
 kms
 knapsack
 knetps
+knob
 knowbe4
 knowledge
 knowledgebase
@@ -4640,7 +4661,6 @@ networkfirewall
 networkfunction
 networkinfo
 networking
-networkinterfaces
 networkloadbalancer
 networkpolicyserver
 networkprofile
@@ -4941,6 +4961,7 @@ optimizer
 option
 option119
 options
+optionstring
 opus
 oracle
 oraclecloudinfrastructure
@@ -5202,6 +5223,7 @@ pinneditem
 pinterest
 pinvoke
 pip
+pip3
 pipe
 pipedrive
 pipeline
@@ -5340,16 +5362,19 @@ poshy-wrap-docker
 poshy-wrap-docker-compose
 poshy-wrap-dotnet
 poshy-wrap-forgit
+poshy-wrap-gem
 poshy-wrap-gh
 poshy-wrap-git
 poshy-wrap-git-flow
 poshy-wrap-git-lfs
 poshy-wrap-golang
+poshy-wrap-helm
 poshy-wrap-kubectl
 poshy-wrap-maven
 poshy-wrap-nginx
 poshy-wrap-nmap
 poshy-wrap-npm
+poshy-wrap-pip
 poshy-wrap-pipenv
 poshy-wrap-pyenv
 poshy-wrap-pylint
@@ -5360,6 +5385,7 @@ poshy-wrap-terraform
 poshy-wrap-terragrunt
 poshy-wrap-tmux
 poshy-wrap-vagrant
+poshy-wrap-vault
 poshy-wrap-vscode
 poshy-wrap-wget
 poshy-wrap-wt
@@ -5515,6 +5541,7 @@ private-key
 privatedns
 privatekey
 privatemethods
+privateprofilestring
 privilege
 privilegecloud
 privileged
@@ -5575,7 +5602,6 @@ protocols
 provance
 proverb
 provider
-providerhub
 provision
 provisioning
 provisioningpackage
@@ -6023,6 +6049,19 @@ pscommand_gdsth
 pscommand_gdstp
 pscommand_gdt
 pscommand_gdv
+pscommand_geca
+pscommand_gecb
+pscommand_geclup
+pscommand_gecr
+pscommand_gegi
+pscommand_geh
+pscommand_gei
+pscommand_geiall
+pscommand_gein
+pscommand_gel
+pscommand_geli
+pscommand_geo
+pscommand_geoe
 pscommand_get
 pscommand_get-aptinstalledpackages
 pscommand_get-childitemcolorfully
@@ -6090,6 +6129,7 @@ pscommand_get-netipaddresssimple
 pscommand_get-pwshaliasdefinition
 pscommand_get-pwshfunctiondefinition
 pscommand_get-viewer
+pscommand_geun
 pscommand_gexport
 pscommand_gf
 pscommand_gfa
@@ -6301,7 +6341,11 @@ pscommand_gup
 pscommand_gus
 pscommand_gwc
 pscommand_gwch
+pscommand_h
+pscommand_hin
 pscommand_hostname
+pscommand_hse
+pscommand_hup
 pscommand_invoke-aptcachepolicy
 pscommand_invoke-aptcachesearch
 pscommand_invoke-aptcacheshowpkg
@@ -6359,6 +6403,22 @@ pscommand_invoke-dockercomposeupdetached
 pscommand_invoke-dockercomposeupdetachedwithbuild
 pscommand_invoke-dockercomposeupnostart
 pscommand_invoke-dockercomposeupwithbuild
+pscommand_invoke-gemcertadd
+pscommand_invoke-gemcertbuild
+pscommand_invoke-gemcertremove
+pscommand_invoke-gemcleanupno
+pscommand_invoke-gemgenerateindex
+pscommand_invoke-gemhelp
+pscommand_invoke-geminfo
+pscommand_invoke-geminfoall
+pscommand_invoke-geminstall
+pscommand_invoke-gemlist
+pscommand_invoke-gemlock
+pscommand_invoke-gemopen
+pscommand_invoke-gemopeneditor
+pscommand_invoke-gemremovebypattern
+pscommand_invoke-gemsystem
+pscommand_invoke-gemuninstall
 pscommand_invoke-git
 pscommand_invoke-gitaddinteractivelypatch
 pscommand_invoke-gitbisect
@@ -6437,6 +6497,11 @@ pscommand_invoke-gotoolfix
 pscommand_invoke-goversion
 pscommand_invoke-govet
 pscommand_invoke-gowork
+pscommand_invoke-greppipfreeze
+pscommand_invoke-helm
+pscommand_invoke-helminstall
+pscommand_invoke-helmsearch
+pscommand_invoke-helmupgrade
 pscommand_invoke-kubectl
 pscommand_invoke-kubectlallnamespaces
 pscommand_invoke-kubectlapplyfromfile
@@ -6592,6 +6657,10 @@ pscommand_invoke-pipenvuninstall
 pscommand_invoke-pipenvupdate
 pscommand_invoke-pipenvvenv
 pscommand_invoke-pipenvwhere
+pscommand_invoke-pipinstall
+pscommand_invoke-pipinstallupgrade
+pscommand_invoke-piplistoutdated
+pscommand_invoke-pipuninstall
 pscommand_invoke-pyenv
 pscommand_invoke-pylintreportsdisabled
 pscommand_invoke-ruby
@@ -6746,6 +6815,17 @@ pscommand_invoke-vagrantstatus
 pscommand_invoke-vagrantsuspend
 pscommand_invoke-vagrantup
 pscommand_invoke-vagrantuplogged
+pscommand_invoke-vaultdelete
+pscommand_invoke-vaultlist
+pscommand_invoke-vaultloginviagithub
+pscommand_invoke-vaultread
+pscommand_invoke-vaultreadfieldvalue
+pscommand_invoke-vaultrenew
+pscommand_invoke-vaultrevoke
+pscommand_invoke-vaultserver
+pscommand_invoke-vaultstatus
+pscommand_invoke-vaultversion
+pscommand_invoke-vaultwrite
 pscommand_invoke-vscodeadd
 pscommand_invoke-vscodediff
 pscommand_invoke-vscodeforpwd
@@ -7029,6 +7109,22 @@ pscommand_pgr
 pscommand_pi
 pscommand_pidev
 pscommand_ping
+pscommand_pip
+pscommand_pip_package_location
+pscommand_pip3
+pscommand_pip3_package_location
+pscommand_pipgi
+pscommand_pipi
+pscommand_pipig
+pscommand_pipigb
+pscommand_pipigp
+pscommand_pipir
+pscommand_piplo
+pscommand_pipreq
+pscommand_pipu
+pscommand_pipun
+pscommand_pipunall
+pscommand_pipupall
 pscommand_pl
 pscommand_po
 pscommand_pop-gitstashentry
@@ -7062,6 +7158,7 @@ pscommand_python3
 pscommand_rb
 pscommand_read-dotenv
 pscommand_register-argcompleteargumentcompleter
+pscommand_remove_gem
 pscommand_remove-dockercontainerall
 pscommand_remove-dockerunusedimage
 pscommand_remove-envpathitem
@@ -7121,6 +7218,7 @@ pscommand_set-locationup2
 pscommand_set-locationup3
 pscommand_set-locationup4
 pscommand_set-locationup5
+pscommand_sgem
 pscommand_show-gitremote
 pscommand_show-proxy
 pscommand_shttp
@@ -7138,6 +7236,10 @@ pscommand_stop-gitcherrypick
 pscommand_switch-gitbranchandtrack
 pscommand_switch-gitbranchmain
 pscommand_switch-gitbranchnew
+pscommand_syspip
+pscommand_syspip_package_location
+pscommand_syspip3
+pscommand_syspip3_package_location
 pscommand_ta
 pscommand_tad
 pscommand_test-command
@@ -7214,6 +7316,16 @@ pscommand_use-gitflowbranchrelease
 pscommand_use-gitstashentry
 pscommand_uuid
 pscommand_uuidgen
+pscommand_vad
+pscommand_vag
+pscommand_val
+pscommand_var
+pscommand_varn
+pscommand_varv
+pscommand_vas
+pscommand_vasrv
+pscommand_vav
+pscommand_vaw
 pscommand_vdstr
 pscommand_vh
 pscommand_vhl
@@ -7703,6 +7815,22 @@ psfunction_invoke-dockercomposeupdetached
 psfunction_invoke-dockercomposeupdetachedwithbuild
 psfunction_invoke-dockercomposeupnostart
 psfunction_invoke-dockercomposeupwithbuild
+psfunction_invoke-gemcertadd
+psfunction_invoke-gemcertbuild
+psfunction_invoke-gemcertremove
+psfunction_invoke-gemcleanupno
+psfunction_invoke-gemgenerateindex
+psfunction_invoke-gemhelp
+psfunction_invoke-geminfo
+psfunction_invoke-geminfoall
+psfunction_invoke-geminstall
+psfunction_invoke-gemlist
+psfunction_invoke-gemlock
+psfunction_invoke-gemopen
+psfunction_invoke-gemopeneditor
+psfunction_invoke-gemremovebypattern
+psfunction_invoke-gemsystem
+psfunction_invoke-gemuninstall
 psfunction_invoke-git
 psfunction_invoke-gitaddinteractivelypatch
 psfunction_invoke-gitbisect
@@ -7781,6 +7909,11 @@ psfunction_invoke-gotoolfix
 psfunction_invoke-goversion
 psfunction_invoke-govet
 psfunction_invoke-gowork
+psfunction_invoke-greppipfreeze
+psfunction_invoke-helm
+psfunction_invoke-helminstall
+psfunction_invoke-helmsearch
+psfunction_invoke-helmupgrade
 psfunction_invoke-kubectl
 psfunction_invoke-kubectlallnamespaces
 psfunction_invoke-kubectlapplyfromfile
@@ -7936,6 +8069,10 @@ psfunction_invoke-pipenvuninstall
 psfunction_invoke-pipenvupdate
 psfunction_invoke-pipenvvenv
 psfunction_invoke-pipenvwhere
+psfunction_invoke-pipinstall
+psfunction_invoke-pipinstallupgrade
+psfunction_invoke-piplistoutdated
+psfunction_invoke-pipuninstall
 psfunction_invoke-pyenv
 psfunction_invoke-pylintreportsdisabled
 psfunction_invoke-ruby
@@ -8090,6 +8227,17 @@ psfunction_invoke-vagrantstatus
 psfunction_invoke-vagrantsuspend
 psfunction_invoke-vagrantup
 psfunction_invoke-vagrantuplogged
+psfunction_invoke-vaultdelete
+psfunction_invoke-vaultlist
+psfunction_invoke-vaultloginviagithub
+psfunction_invoke-vaultread
+psfunction_invoke-vaultreadfieldvalue
+psfunction_invoke-vaultrenew
+psfunction_invoke-vaultrevoke
+psfunction_invoke-vaultserver
+psfunction_invoke-vaultstatus
+psfunction_invoke-vaultversion
+psfunction_invoke-vaultwrite
 psfunction_invoke-vscodeadd
 psfunction_invoke-vscodediff
 psfunction_invoke-vscodeforpwd
@@ -8204,6 +8352,13 @@ psfunction_npm-enable-proxy
 psfunction_npm-show-proxy
 psfunction_open_command
 psfunction_peek
+psfunction_pipig
+psfunction_pipigb
+psfunction_pipigp
+psfunction_pipir
+psfunction_pipreq
+psfunction_pipunall
+psfunction_pipupall
 psfunction_pop-gitstashentry
 psfunction_proxy-help
 psfunction_publish-gitcommitsforcefullywithlease
@@ -8502,6 +8657,7 @@ pygmentize
 pylint
 pyranja
 python
+python-for-dotnet
 python3
 qatam
 qcloud
@@ -8849,6 +9005,7 @@ rfc826
 rfc9116
 rg
 rgb
+rhapsody
 ribbon
 ribcl
 ricoh
@@ -9134,6 +9291,7 @@ securescore
 securesphere
 securestring
 security
+security_cameras
 security-awareness-training
 security-policy
 security-score
@@ -9281,6 +9439,7 @@ shadowcopy
 shadowcopybackups
 shadowgroups
 shanehoey
+shanghaitech
 shard
 share
 share-permission
@@ -9433,6 +9592,7 @@ snapping
 snapshot
 snapshots
 sni
+snipe-it
 snippet
 snippets
 snippets-manager
@@ -9513,7 +9673,6 @@ spdockit
 spdx
 spdx-license-identifier:ms-pl
 spe
-speach
 speak
 speaker
 spec
@@ -9598,6 +9757,7 @@ sqlserverbynarypsmodule
 sqlserverclient
 sqlservermodule
 sqlvirtualmachine
+sqlvm
 sqr
 sqrt
 square
@@ -9758,6 +9918,7 @@ subnetting
 subscribedskus
 subscription
 subscriptiondefinition
+subset
 subsystem
 subtitle
 subtitles
@@ -9783,6 +9944,7 @@ suppress
 supress-reboot
 surestacks
 surround
+surveillance
 survey
 surveymonkey
 sus
@@ -9835,6 +9997,8 @@ sysman
 sysmon
 sysop
 syspass
+syspip
+syspip3
 sysprep
 system
 system information 1394 controller baseboard motherboard systemboard battery bios bus cache memory cd dvd rom drive compact disc desktop monitor disk partition fan floppy glide point heatpipe ide infrared device keyboard local logical array mouse'
@@ -10007,7 +10171,6 @@ text-emoji
 text-emojis
 text-templates
 text-to-image
-text-to-speach"
 text-to-speech
 text2image
 textanalysis
@@ -10262,12 +10425,15 @@ ud-confetti
 ud-control
 ud-dashboard
 ud-datepicker
+ud-field
 ud-flexytable
 ud-funnel
 ud-hero
 ud-illustration
+ud-input
 ud-licensed
 ud-loadingoverlay
+ud-minesweeper
 ud-mouseparticle
 ud-navbarsearch
 ud-numbermask
@@ -10661,6 +10827,7 @@ waitforobject
 wakeonlan
 wakeup
 walk
+wallet
 wallpaper
 wallpapers
 wannacry
