@@ -5,10 +5,5 @@ This is a report of contributions to the [PowerShell Gallery](https://powershell
 This report does not include pre-release modules and be aware that not every module will have an online repository.
 
 Internal navigation links may not work in the PDF version of this report.
-+ [Jeremy La Camera](#Jeremy-La-Camera) (1)
 
-## Jeremy La Camera
-
-+ **Permission 0.0.825**  - Module for working with Access Control Lists [*11/10/2024 01:35:48*]
-
-*Updated: Sunday, 10 November 2024 02:15:03 UTC*
+*Updated: Sunday, 10 November 2024 09:50:54 UTC*
