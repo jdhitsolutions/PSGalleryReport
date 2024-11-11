@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Sunday, 10 November 2024 17:51:48 UTC
+Updated: Monday, 11 November 2024 02:15:35 UTC
 
 .bat
 .env
@@ -190,6 +190,7 @@ adfstools
 adgroupmemberobjects
 adgroupmembers
 adgroups
+adidns
 adif
 adlds
 adm
@@ -225,6 +226,7 @@ adsp
 adsync
 aduser
 aduseraccountlockout
+adusergroups
 adv180002
 adv180018
 adv190013
@@ -448,10 +450,12 @@ appvolumes
 appwrite
 appx
 appxmanifest
+appxpackage
 aprs
 aprs-is
 aprsis
 aprsthursday
+aps
 apt
 apt-get
 apt-get-update
@@ -706,6 +710,7 @@ azure-devops
 azure-forensics
 azure-functions
 azure-pipelines
+azure-resource-graph
 azure-ssis
 azureactivedirectory
 azuread
@@ -795,7 +800,6 @@ backup_validation
 bamboo
 bamboohr
 bandwidth
-bank
 banking
 banner
 bar
@@ -929,6 +933,7 @@ blueprints
 bluesky
 blueteam
 bluetraitio
+bluetuxedo
 bmc
 bnm
 boards
@@ -1072,7 +1077,6 @@ carbonawarecomputing
 carbonintensity
 card
 cardwirth
-cares
 cargo
 carousel
 carrier
@@ -1313,6 +1317,7 @@ cloudmigrations
 cloudml
 cloudpc
 cloudservice
+cloudshell
 cloudsync
 clueser
 cluster
@@ -1911,6 +1916,7 @@ defenderforendpoint
 defenderforidentity
 defense
 deflate
+defrag
 delegateaccesscontrol
 delegated
 delegation
@@ -2099,7 +2105,6 @@ dns-client
 dns-over-https
 dns-resolver
 dnsbl
-dnsclient
 dnsdumpster
 dnsentry
 dnsimple
@@ -2146,6 +2151,7 @@ domain
 domaincontroller
 domainkey
 domainname
+domainnamesystem
 domains
 domino
 done.land
@@ -2417,7 +2423,6 @@ environments
 environmentvariable
 environmentvariables
 envvar
-envvars
 eol
 eop
 eperl
@@ -2908,7 +2913,6 @@ gcs
 gdap
 gdpr
 gedit
-gem
 gemini
 geminiprotocol
 gemlog
@@ -3017,8 +3021,8 @@ gitlab-runner
 gitlab4
 gitlabpipeline
 gitops
+glimps
 glob
-globalclipboard
 globaldashboard
 globalentry
 globallydistributeddatabase
@@ -3478,6 +3482,7 @@ incontact
 indents
 index
 indexdb
+indicator
 inedo
 inetfwrule
 inetum
@@ -3504,7 +3509,6 @@ initiator
 inline-progress
 inlineprogress
 innerjoin
-innertext
 inpainting
 input
 inputbox
@@ -3546,7 +3550,6 @@ integrationruntimedependency
 integrationservicescatalog
 integrity
 intel
-inteligo
 intelligence
 intelligence"
 intellisearch
@@ -3966,6 +3969,7 @@ lint
 linting
 linux
 linux-command
+linuxssh
 liquid
 liquit
 liquit.com
@@ -4367,7 +4371,6 @@ mim
 mime
 mimekit
 min
-mindmeister
 minecraft
 miniconda
 minifier
@@ -4538,6 +4541,7 @@ multiserver
 multistring
 multithread
 multithreaded
+multithreaded-helpers
 multithreading
 music
 musiccast
@@ -4943,7 +4947,9 @@ ops
 opsi
 opsmgr
 optics
+optimise
 optimization
+optimize
 optimized
 optimizer
 option
@@ -5009,7 +5015,6 @@ out-default
 out-gridview
 out-json
 outerjoin
-outertext
 outline
 outlook
 outpainting
@@ -5309,6 +5314,7 @@ posh-cats
 posh-chocobear
 posh-direnv
 posh-git
+posh-ribbon
 posh-ssh
 poshbot
 poshcommence
@@ -5349,7 +5355,6 @@ poshy-wrap-docker
 poshy-wrap-docker-compose
 poshy-wrap-dotnet
 poshy-wrap-forgit
-poshy-wrap-gem
 poshy-wrap-gh
 poshy-wrap-git
 poshy-wrap-git-flow
@@ -5430,6 +5435,8 @@ powershell-dsc
 powershell-examples
 powershell-gallery
 powershell-github-repo
+powershell-gitlab
+powershell-graphql
 powershell-isprime
 powershell-lightning
 powershell-module
@@ -6035,19 +6042,6 @@ pscommand_gdsth
 pscommand_gdstp
 pscommand_gdt
 pscommand_gdv
-pscommand_geca
-pscommand_gecb
-pscommand_geclup
-pscommand_gecr
-pscommand_gegi
-pscommand_geh
-pscommand_gei
-pscommand_geiall
-pscommand_gein
-pscommand_gel
-pscommand_geli
-pscommand_geo
-pscommand_geoe
 pscommand_get
 pscommand_get-aptinstalledpackages
 pscommand_get-childitemcolorfully
@@ -6115,7 +6109,6 @@ pscommand_get-netipaddresssimple
 pscommand_get-pwshaliasdefinition
 pscommand_get-pwshfunctiondefinition
 pscommand_get-viewer
-pscommand_geun
 pscommand_gexport
 pscommand_gf
 pscommand_gfa
@@ -6389,22 +6382,6 @@ pscommand_invoke-dockercomposeupdetached
 pscommand_invoke-dockercomposeupdetachedwithbuild
 pscommand_invoke-dockercomposeupnostart
 pscommand_invoke-dockercomposeupwithbuild
-pscommand_invoke-gemcertadd
-pscommand_invoke-gemcertbuild
-pscommand_invoke-gemcertremove
-pscommand_invoke-gemcleanupno
-pscommand_invoke-gemgenerateindex
-pscommand_invoke-gemhelp
-pscommand_invoke-geminfo
-pscommand_invoke-geminfoall
-pscommand_invoke-geminstall
-pscommand_invoke-gemlist
-pscommand_invoke-gemlock
-pscommand_invoke-gemopen
-pscommand_invoke-gemopeneditor
-pscommand_invoke-gemremovebypattern
-pscommand_invoke-gemsystem
-pscommand_invoke-gemuninstall
 pscommand_invoke-git
 pscommand_invoke-gitaddinteractivelypatch
 pscommand_invoke-gitbisect
@@ -7144,7 +7121,6 @@ pscommand_python3
 pscommand_rb
 pscommand_read-dotenv
 pscommand_register-argcompleteargumentcompleter
-pscommand_remove_gem
 pscommand_remove-dockercontainerall
 pscommand_remove-dockerunusedimage
 pscommand_remove-envpathitem
@@ -7204,7 +7180,6 @@ pscommand_set-locationup2
 pscommand_set-locationup3
 pscommand_set-locationup4
 pscommand_set-locationup5
-pscommand_sgem
 pscommand_show-gitremote
 pscommand_show-proxy
 pscommand_shttp
@@ -7801,22 +7776,6 @@ psfunction_invoke-dockercomposeupdetached
 psfunction_invoke-dockercomposeupdetachedwithbuild
 psfunction_invoke-dockercomposeupnostart
 psfunction_invoke-dockercomposeupwithbuild
-psfunction_invoke-gemcertadd
-psfunction_invoke-gemcertbuild
-psfunction_invoke-gemcertremove
-psfunction_invoke-gemcleanupno
-psfunction_invoke-gemgenerateindex
-psfunction_invoke-gemhelp
-psfunction_invoke-geminfo
-psfunction_invoke-geminfoall
-psfunction_invoke-geminstall
-psfunction_invoke-gemlist
-psfunction_invoke-gemlock
-psfunction_invoke-gemopen
-psfunction_invoke-gemopeneditor
-psfunction_invoke-gemremovebypattern
-psfunction_invoke-gemsystem
-psfunction_invoke-gemuninstall
 psfunction_invoke-git
 psfunction_invoke-gitaddinteractivelypatch
 psfunction_invoke-gitbisect
@@ -8775,6 +8734,7 @@ rebootnodeifneeded
 reckon
 recommendation
 reconcile
+reconnaissance
 record
 recording
 recordings
@@ -8898,6 +8858,7 @@ rename-git
 rename-git-branch
 rename-gitbranch
 reonboarding
+repair
 repair-msauth
 reparsepoint
 repeat
@@ -8990,6 +8951,7 @@ rfc9116
 rg
 rgb
 rhapsody
+ribbon
 ribcl
 ricoh
 rightcloud
@@ -9405,6 +9367,7 @@ setup
 sevenzip
 sf
 sfb
+sfc
 sftp
 sfx
 sgopher
@@ -9502,6 +9465,7 @@ site_navigation
 sitecollection
 siteconfiguration
 sitecore
+sitecoresearch
 sitemaintenance
 sitemap
 siterecovery
@@ -9622,6 +9586,7 @@ sonicos
 sonicwall
 sonicwallvpn
 sonnet
+sonus
 soon
 soonr
 soonragent
@@ -9754,7 +9719,9 @@ sse
 ssh
 ssh-config
 ssh-keygen
+sshmanagement
 sshserver
+sshservers
 ssis
 ssl
 sslcert
@@ -9922,7 +9889,6 @@ support-tools
 suppress
 supress-reboot
 surestacks
-surround
 surveillance
 survey
 surveymonkey
@@ -10170,7 +10136,6 @@ tfsec
 tfswitch
 tftd
 tftp
-tfvars
 tfvc
 thecrushingemptinessofquotidianexistence
 theme
@@ -10391,7 +10356,6 @@ ucs
 ucspowertool
 ud-avataaar
 ud-badgebutton
-ud-badgelink
 ud-breadcrumb
 ud-breadcrumbitem
 ud-burger
@@ -10552,6 +10516,7 @@ user
 user-environment
 userdiscovery
 usergroup
+usergroups
 userinterface
 usermanagement
 username
@@ -10662,7 +10627,6 @@ vie
 viewer
 vigenere
 vim
-vimode
 virole
 virsh
 virtual
@@ -10898,7 +10862,6 @@ where
 whfb
 whiteboard
 whitespace
-who
 whoami
 whois
 whoiscmdlet
