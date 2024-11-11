@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 11 November 2024 02:15:35 UTC
+Updated: Monday, 11 November 2024 09:51:52 UTC
 
 .bat
 .env
@@ -305,8 +305,6 @@ alias-hint
 alias-tips
 aliases
 aliens
-alkane
-alkanepsf
 all
 alletra
 alloydb
@@ -450,7 +448,6 @@ appvolumes
 appwrite
 appx
 appxmanifest
-appxpackage
 aprs
 aprs-is
 aprsis
@@ -642,7 +639,6 @@ avatax
 avd
 ave
 avepoint
-avi
 avm
 avmtools
 avro
@@ -800,6 +796,7 @@ backup_validation
 bamboo
 bamboohr
 bandwidth
+bank
 banking
 banner
 bar
@@ -930,7 +927,6 @@ blue
 bluedolhin
 blueprint
 blueprints
-bluesky
 blueteam
 bluetraitio
 bluetuxedo
@@ -1077,6 +1073,7 @@ carbonawarecomputing
 carbonintensity
 card
 cardwirth
+cares
 cargo
 carousel
 carrier
@@ -1630,7 +1627,6 @@ cqdpowershell
 cqhttp
 crack psmodule
 crash
-crawler
 crayon
 crc
 crc32
@@ -1813,7 +1809,6 @@ dataexchange
 dataexplorer
 datafactory
 dataflow
-dataflowdependency
 dataframe
 datagateway
 dataintegration
@@ -2105,6 +2100,7 @@ dns-client
 dns-over-https
 dns-resolver
 dnsbl
+dnsclient
 dnsdumpster
 dnsentry
 dnsimple
@@ -2211,8 +2207,6 @@ droplet
 droptable
 drs
 drsrule
-drupal
-drush
 dry
 ds
 ds-client
@@ -2423,6 +2417,7 @@ environments
 environmentvariable
 environmentvariables
 envvar
+envvars
 eol
 eop
 eperl
@@ -2460,7 +2455,6 @@ esp32s2
 espressif
 esri
 essbase
-estimate
 estimation
 esx
 esxi
@@ -2574,7 +2568,6 @@ exponentiation
 export
 export-cmhealthreport
 export-data
-export-passlist
 exportcertificate
 exportcertificates
 exporter
@@ -2626,7 +2619,6 @@ fast
 fast-dds
 fast-ping
 fastfilepub
-fastgit
 fastlinq
 fastlookup
 fastping
@@ -2645,7 +2637,6 @@ featureupdate
 federated
 federateddirectory
 federation
-fedex
 feed
 fetch
 ffmpeg
@@ -2860,7 +2851,6 @@ fslogix
 fsrm
 ftp
 ftps
-fu-msauth
 fudge
 fudgepop
 fujitsu
@@ -2913,6 +2903,7 @@ gcs
 gdap
 gdpr
 gedit
+gem
 gemini
 geminiprotocol
 gemlog
@@ -2971,9 +2962,7 @@ get-history
 get-iislog
 get-openfile
 get-openfiles
-get-pass
 get-passivetrippoint
-get-passlist
 get-path
 get-pinneditem
 get-samcmassignedsite
@@ -3023,6 +3012,7 @@ gitlabpipeline
 gitops
 glimps
 glob
+globalclipboard
 globaldashboard
 globalentry
 globallydistributeddatabase
@@ -3198,7 +3188,6 @@ hdinsight
 hdinsightonaks
 hdr
 header
-headhunter
 health
 health_checks
 healthbot
@@ -3206,6 +3195,7 @@ healthcare
 healthcareapis
 healthcheck
 healthchecks
+healthdataaiservices
 healthservice
 healthz
 heartbeatdiscovery
@@ -3467,7 +3457,6 @@ import-csv
 import-dtdriverpackpackagedefinitionsms
 import-module
 import-modulefrompath
-import-passlist
 import-sampackagedefinitionsms
 importer
 importexport
@@ -3509,6 +3498,7 @@ initiator
 inline-progress
 inlineprogress
 innerjoin
+innertext
 inpainting
 input
 inputbox
@@ -3546,10 +3536,10 @@ integratedscriptingeditor
 integration
 integrationaccount
 integrationruntime
-integrationruntimedependency
 integrationservicescatalog
 integrity
 intel
+inteligo
 intelligence
 intelligence"
 intellisearch
@@ -3616,7 +3606,6 @@ ipcalc
 ipcalculator
 ipconfig
 iperf
-ipfy.org
 iphone
 ipilot
 iplookup
@@ -3684,9 +3673,7 @@ japanese
 jar
 jav
 java
-javamanager
 javascript
-javaversion
 jboss
 jdbc
 jde
@@ -3813,7 +3800,6 @@ klantcontroles
 kms
 knapsack
 knetps
-knob
 knowbe4
 knowledge
 knowledgebase
@@ -3934,7 +3920,6 @@ licence
 license
 license-generator
 licenseautomation
-licensemanagement
 licensemanager
 licensereport
 licenses
@@ -4069,7 +4054,6 @@ logoff
 logon
 logonright
 logonscript
-logontask
 logonto
 logonuser
 logparser
@@ -4289,7 +4273,6 @@ mermaid
 message
 message-emoji
 message-emojis
-messagebox
 messageoftheday
 messages
 messaging
@@ -4371,6 +4354,7 @@ mim
 mime
 mimekit
 min
+mindmeister
 minecraft
 miniconda
 minifier
@@ -4610,8 +4594,6 @@ neo4j
 neovim
 neptune
 nerdfonts
-nerdio
-nerdioapi
 nerdymishka
 nessus
 nested
@@ -4713,7 +4695,6 @@ nlm
 nlog
 nmap
 nmbell
-nmm
 nntp
 node
 nodejs
@@ -5015,6 +4996,7 @@ out-default
 out-gridview
 out-json
 outerjoin
+outertext
 outline
 outlook
 outpainting
@@ -5045,7 +5027,6 @@ packagemanagement
 packagemanager
 packages
 packagesregistry
-packagesupportframework
 packaging
 packaging psmodule
 packard
@@ -5213,7 +5194,6 @@ ping
 ping-async
 pingsweep
 pinneditem
-pinterest
 pinvoke
 pip
 pip3
@@ -5266,7 +5246,6 @@ pncit
 pnp
 pnp.powershell
 pnpm
-poc
 pode
 poe
 poem
@@ -5355,6 +5334,7 @@ poshy-wrap-docker
 poshy-wrap-docker-compose
 poshy-wrap-dotnet
 poshy-wrap-forgit
+poshy-wrap-gem
 poshy-wrap-gh
 poshy-wrap-git
 poshy-wrap-git-flow
@@ -6042,6 +6022,19 @@ pscommand_gdsth
 pscommand_gdstp
 pscommand_gdt
 pscommand_gdv
+pscommand_geca
+pscommand_gecb
+pscommand_geclup
+pscommand_gecr
+pscommand_gegi
+pscommand_geh
+pscommand_gei
+pscommand_geiall
+pscommand_gein
+pscommand_gel
+pscommand_geli
+pscommand_geo
+pscommand_geoe
 pscommand_get
 pscommand_get-aptinstalledpackages
 pscommand_get-childitemcolorfully
@@ -6109,6 +6102,7 @@ pscommand_get-netipaddresssimple
 pscommand_get-pwshaliasdefinition
 pscommand_get-pwshfunctiondefinition
 pscommand_get-viewer
+pscommand_geun
 pscommand_gexport
 pscommand_gf
 pscommand_gfa
@@ -6382,6 +6376,22 @@ pscommand_invoke-dockercomposeupdetached
 pscommand_invoke-dockercomposeupdetachedwithbuild
 pscommand_invoke-dockercomposeupnostart
 pscommand_invoke-dockercomposeupwithbuild
+pscommand_invoke-gemcertadd
+pscommand_invoke-gemcertbuild
+pscommand_invoke-gemcertremove
+pscommand_invoke-gemcleanupno
+pscommand_invoke-gemgenerateindex
+pscommand_invoke-gemhelp
+pscommand_invoke-geminfo
+pscommand_invoke-geminfoall
+pscommand_invoke-geminstall
+pscommand_invoke-gemlist
+pscommand_invoke-gemlock
+pscommand_invoke-gemopen
+pscommand_invoke-gemopeneditor
+pscommand_invoke-gemremovebypattern
+pscommand_invoke-gemsystem
+pscommand_invoke-gemuninstall
 pscommand_invoke-git
 pscommand_invoke-gitaddinteractivelypatch
 pscommand_invoke-gitbisect
@@ -7121,6 +7131,7 @@ pscommand_python3
 pscommand_rb
 pscommand_read-dotenv
 pscommand_register-argcompleteargumentcompleter
+pscommand_remove_gem
 pscommand_remove-dockercontainerall
 pscommand_remove-dockerunusedimage
 pscommand_remove-envpathitem
@@ -7180,6 +7191,7 @@ pscommand_set-locationup2
 pscommand_set-locationup3
 pscommand_set-locationup4
 pscommand_set-locationup5
+pscommand_sgem
 pscommand_show-gitremote
 pscommand_show-proxy
 pscommand_shttp
@@ -7414,8 +7426,6 @@ psdshook
 pse
 psedition_5
 psedition_5.1
-psedition_7.3
-psedition_7.4
 psedition_core
 psedition_desk
 psedition_desktop
@@ -7433,7 +7443,6 @@ psexcel
 psexec
 psexec.exe
 psexpandline
-psf
 psfciv
 psfitbit
 psfive9
@@ -7776,6 +7785,22 @@ psfunction_invoke-dockercomposeupdetached
 psfunction_invoke-dockercomposeupdetachedwithbuild
 psfunction_invoke-dockercomposeupnostart
 psfunction_invoke-dockercomposeupwithbuild
+psfunction_invoke-gemcertadd
+psfunction_invoke-gemcertbuild
+psfunction_invoke-gemcertremove
+psfunction_invoke-gemcleanupno
+psfunction_invoke-gemgenerateindex
+psfunction_invoke-gemhelp
+psfunction_invoke-geminfo
+psfunction_invoke-geminfoall
+psfunction_invoke-geminstall
+psfunction_invoke-gemlist
+psfunction_invoke-gemlock
+psfunction_invoke-gemopen
+psfunction_invoke-gemopeneditor
+psfunction_invoke-gemremovebypattern
+psfunction_invoke-gemsystem
+psfunction_invoke-gemuninstall
 psfunction_invoke-git
 psfunction_invoke-gitaddinteractivelypatch
 psfunction_invoke-gitbisect
@@ -8624,7 +8649,6 @@ qna
 qol
 qq
 qr
-qr-code
 qrcode
 qrcodes
 qrp
@@ -8642,7 +8666,6 @@ question
 queue
 queues
 queuing
-quick-response
 quickaccess
 quickbase
 quickbooks
@@ -8741,7 +8764,6 @@ recordings
 recordsmanagement
 recovery
 recoveryservices
-recruiter
 recrutch
 recurse
 recursion
@@ -8845,7 +8867,6 @@ remoting
 remove
 remove-githubsecrets
 remove-itemproperty
-remove-pass
 remove-path
 remove-pinneditem
 remove-tempfiles
@@ -8858,7 +8879,6 @@ rename-git
 rename-git-branch
 rename-gitbranch
 reonboarding
-repair
 repair-msauth
 reparsepoint
 repeat
@@ -9354,10 +9374,8 @@ set-itemproperty
 set-location
 set-openfiles
 set-ownership
-set-pass
 set-psbreakpoint
 set-psenv
-set-randompass
 set-type
 setbios
 sets
@@ -9367,7 +9385,6 @@ setup
 sevenzip
 sf
 sfb
-sfc
 sftp
 sfx
 sgopher
@@ -9475,7 +9492,6 @@ sitethumbprint
 sixel
 size
 skatterbrainz
-skeet
 skeleton-loader
 skia
 skiasharp
@@ -9763,7 +9779,6 @@ start-jobthread
 start-threadjob
 startkey
 startmen
-startmenu
 starttls
 starwars
 stash
@@ -9889,6 +9904,7 @@ support-tools
 suppress
 supress-reboot
 surestacks
+surround
 surveillance
 survey
 surveymonkey
@@ -10136,6 +10152,7 @@ tfsec
 tfswitch
 tftd
 tftp
+tfvars
 tfvc
 thecrushingemptinessofquotidianexistence
 theme
@@ -10381,7 +10398,6 @@ ud-minesweeper
 ud-mouseparticle
 ud-navbarsearch
 ud-numbermask
-ud-orgchart
 ud-piechart3d
 ud-pivottable
 ud-progressstepbar
@@ -10392,6 +10408,7 @@ ud-selectdatetime
 ud-selector
 ud-signature
 ud-simpledrawer
+ud-singleselect
 ud-slider
 ud-speechbubble
 ud-step
@@ -10556,7 +10573,6 @@ vale
 validate
 validate-dcb
 validatedsolutions
-validatemapsconnectivity
 validation
 validator
 value
@@ -10613,7 +10629,6 @@ verification
 verify
 version
 versioning
-versionmanager
 versionnumber
 vertical
 vester
@@ -10627,6 +10642,7 @@ vie
 viewer
 vigenere
 vim
+vimode
 virole
 virsh
 virtual
@@ -10778,7 +10794,6 @@ wap
 wapack
 wapi
 warning
-warplaneporn
 warranty
 warraty
 warrenty
@@ -10854,7 +10869,6 @@ wemsdk
 wer
 wget
 what3words
-whatismyip
 whatsnew
 whatsupgold
 whd
@@ -10862,6 +10876,7 @@ where
 whfb
 whiteboard
 whitespace
+who
 whoami
 whois
 whoiscmdlet
@@ -10990,7 +11005,6 @@ windowstimezone
 windowsupdate
 windowsupdates
 windowsvirtualdesktop
-winform
 winforms
 winget
 wingetbridge
@@ -11126,7 +11140,6 @@ x86
 xa
 xaf
 xbase
-xbox
 xclarity
 xconvert
 xdr
@@ -11159,7 +11172,6 @@ xpendingreboot
 xpertdoc
 xpo
 xprotect
-xpt
 xrm
 xsa
 xtremio
