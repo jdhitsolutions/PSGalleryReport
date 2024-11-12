@@ -3,6 +3,168 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [UiPathOrch](https://www.powershellgallery.com/Packages/UiPathOrch/0.9.8.11) | 0.9.8.11
+
+### Published: 11/12/2024 15:01:41 by Yoshifumi Tsuda
+
+PowerShell providers for managing UiPath Orchestrator entities via cmdlets.
+
+__Downloads__: 1,707 | __Repository__: 
+
+## [PsKrane](https://www.powershellgallery.com/Packages/PsKrane/0.6.3) | 0.6.3
+
+### Published: 11/12/2024 14:27:44 by Stephane van Gulick
+
+Opinionated module to scaffold, manage and help build standardized powershell modules implementing best pratcises out of the box with ease.
+
+__Downloads__: 304 | __Repository__: https://github.com/Stephanevg/PsKrane
+
+## [AdminToolbox](https://www.powershellgallery.com/Packages/AdminToolbox/11.1.0.13) | 11.1.0.13
+
+### Published: 11/12/2024 14:04:51 by Taylor Lee
+
+Master module for a collection of modules. These modules are varied in their tasks. The overall purpose of them being to provide a powerfull Toolset to improve IT Admin workflows.
+
+__Downloads__: 84,284 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox
+
+## [AdminToolbox.FortiWizard](https://www.powershellgallery.com/Packages/AdminToolbox.FortiWizard/2.20.1.2) | 2.20.1.2
+
+### Published: 11/12/2024 14:04:34 by Taylor Lee
+
+Functions that generate configuration scripts and manage FortiOS.
+
+__Downloads__: 63,025 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [AdminToolbox.VMWareAutomate](https://www.powershellgallery.com/Packages/AdminToolbox.VMWareAutomate/4.9.0.13) | 4.9.0.13
+
+### Published: 11/12/2024 14:03:28 by Taylor Lee
+
+Functions to Automate Bulk VMWare Tasks
+
+__Downloads__: 71,858 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [AdminToolbox.Remoting](https://www.powershellgallery.com/Packages/AdminToolbox.Remoting/1.10.0.13) | 1.10.0.13
+
+### Published: 11/12/2024 14:03:20 by Taylor Lee
+
+Functions for remote management and access.
+
+__Downloads__: 70,446 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [AdminToolbox.Office365](https://www.powershellgallery.com/Packages/AdminToolbox.Office365/4.3.0.12) | 4.3.0.12
+
+### Published: 11/12/2024 14:03:14 by Taylor Lee
+
+Functions for working with Office365 and Azure modules
+
+__Downloads__: 78,298 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [AdminToolbox.Networking](https://www.powershellgallery.com/Packages/AdminToolbox.Networking/2.21.0.13) | 2.21.0.13
+
+### Published: 11/12/2024 14:03:06 by Taylor Lee
+
+Network Troubleshooting Functions
+
+__Downloads__: 190,622 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [AdminToolbox.MSGraph](https://www.powershellgallery.com/Packages/AdminToolbox.MSGraph/1.5.0.10) | 1.5.0.10
+
+### Published: 11/12/2024 14:03:01 by Taylor Lee
+
+Microsoft Graph interactive API Functions
+
+__Downloads__: 59,127 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [AdminToolbox.Fun](https://www.powershellgallery.com/Packages/AdminToolbox.Fun/1.7.0.13) | 1.7.0.13
+
+### Published: 11/12/2024 14:02:53 by Taylor Lee
+
+Functions that have no purpose
+
+__Downloads__: 71,367 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [AdminToolbox.FileManagement](https://www.powershellgallery.com/Packages/AdminToolbox.FileManagement/1.17.0.13) | 1.17.0.13
+
+### Published: 11/12/2024 14:02:49 by Taylor Lee
+
+File Management Functions
+
+__Downloads__: 72,678 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [AdminToolbox.FFTools](https://www.powershellgallery.com/Packages/AdminToolbox.FFTools/4.17.0.13) | 4.17.0.13
+
+### Published: 11/12/2024 14:02:45 by Taylor Lee
+
+Expedite simple ffmpeg actions
+
+__Downloads__: 73,594 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [AdminToolbox.Exchange](https://www.powershellgallery.com/Packages/AdminToolbox.Exchange/1.10.0.13) | 1.10.0.13
+
+### Published: 11/12/2024 14:02:40 by Taylor Lee
+
+Functions for Exchange Management
+
+__Downloads__: 78,623 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [AdminToolbox.EndpointManagement](https://www.powershellgallery.com/Packages/AdminToolbox.EndpointManagement/4.11.0.13) | 4.11.0.13
+
+### Published: 11/12/2024 14:02:35 by Taylor Lee
+
+Functions for management of endpoints
+
+__Downloads__: 86,354 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [AdminToolbox.ActiveDirectory](https://www.powershellgallery.com/Packages/AdminToolbox.ActiveDirectory/1.11.1.3) | 1.11.1.3
+
+### Published: 11/12/2024 14:02:27 by Taylor Lee
+
+Functions for Active Directory
+
+__Downloads__: 85,313 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [SMART-BcBuildHelper](https://www.powershellgallery.com/Packages/SMART-BcBuildHelper/1.5.35) | 1.5.35
+
+### Published: 11/12/2024 13:51:40 by SMART business
+
+Module SMART-BcBuildHelper
+
+__Downloads__: 23,218 | __Repository__: 
+
+## [PsLogicAppExtractor](https://www.powershellgallery.com/Packages/PsLogicAppExtractor/0.6.27) | 0.6.27
+
+### Published: 11/12/2024 13:12:25 by Mötz Jensen
+
+A set of tools that will assist you with extracting / exporting Azure Logic Apps, and turn them into a fully working ARM template. It contains of several small tasks, which can be configured to meet your needs.
+
+__Downloads__: 1,068 | __Repository__: https://github.com/LogicAppCollaborative/PsLogicAppExtractor
+
+## [AlkanePSF](https://www.powershellgallery.com/Packages/AlkanePSF/2.1.8) | 2.1.8
+
+### Published: 11/12/2024 12:13:32 by Kae Travis
+
+Alkane PSF Helpers for MSIX, enabling MSIX Packagers to inject Microsoft or Tim Mangan PSF fix-ups using cmdlets.  
+
+For usage, visit https://www.alkanesolutions.co.uk/2024/03/26/free-msix-packaging-tool-for-the-package-support-framework/
+
+__Downloads__: 97 | __Repository__: https://www.alkanesolutions.co.uk/2024/03/26/free-msix-packaging-tool-for-the-package-support-framework/
+
+## [DevolutionsGateway](https://www.powershellgallery.com/Packages/DevolutionsGateway/2024.3.5) | 2024.3.5
+
+### Published: 11/12/2024 12:01:30 by Devolutions
+
+Devolutions Gateway PowerShell Module
+
+__Downloads__: 10,949 | __Repository__: https://github.com/Devolutions/devolutions-gateway/tree/master/powershell/
+
+## [spec.teamviewer.utilities](https://www.powershellgallery.com/Packages/spec.teamviewer.utilities/1.2.0) | 1.2.0
+
+### Published: 11/12/2024 10:52:55 by owen.heaume
+
+A module to help manage TeamViewer
+
+__Downloads__: 38,461 | __Repository__: 
+
 ## [WindmillClient](https://www.powershellgallery.com/Packages/WindmillClient/1.422.1) | 1.422.1
 
 ### Published: 11/12/2024 09:46:48 by Windmill Labs
@@ -91,16 +253,6 @@ ADPlayground is a module that allows you to do some basic Active Directory opera
 
 __Downloads__: 47 | __Repository__: 
 
-## [AlkanePSF](https://www.powershellgallery.com/Packages/AlkanePSF/2.1.7) | 2.1.7
-
-### Published: 11/11/2024 22:34:24 by Kae Travis
-
-Alkane PSF Helpers for MSIX, enabling MSIX Packagers to inject Microsoft or Tim Mangan PSF fix-ups using cmdlets.  
-
-For usage, visit https://www.alkanesolutions.co.uk/2024/03/26/free-msix-packaging-tool-for-the-package-support-framework/
-
-__Downloads__: 97 | __Repository__: https://www.alkanesolutions.co.uk/2024/03/26/free-msix-packaging-tool-for-the-package-support-framework/
-
 ## [Context](https://www.powershellgallery.com/Packages/Context/0.0.1) | 0.0.1
 
 ### Published: 11/11/2024 22:08:54 by PSModule
@@ -139,7 +291,7 @@ __Downloads__: 1,933 | __Repository__:
 
 PowerShell module for loading .env files into environment variables
 
-__Downloads__: 0 | __Repository__: https://github.com/juangelos/DotEnv-Tools
+__Downloads__: 5 | __Repository__: https://github.com/juangelos/DotEnv-Tools
 
 ## [Particular.ServiceControl.Management](https://www.powershellgallery.com/Packages/Particular.ServiceControl.Management/6.0.1) | 6.0.1
 
@@ -155,19 +307,7 @@ __Downloads__: 3,710 | __Repository__: https://github.com/Particular/ServiceCont
 
 DSC resources for configuring common operating systems features, files and settings.
 
-__Downloads__: 15,865,824 | __Repository__: https://github.com/dsccommunity/xPSDesiredStateConfiguration
-
-## [PSoAuth](https://www.powershellgallery.com/Packages/PSoAuth/0.1.0) | 0.1.0
-
-### Published: 11/11/2024 17:33:13 by florian.von.bracht@apteco.de
-
-Apteco PS Modules - PowerShell oAuth
-
-Support of oAuth v2 in PowerShell! This module allows the oAuth flow to create your first api token for Microsoft Dynamics, Salesforce, CleverReach and much more...
-We support redirect urls to local urls `http://localhost:54321` and app urls (handled via registry) `apttoken://localhost`. The local url is instantly starting up a
-basic webserver on the port you have defined. This module can be used for debugging or server2server communication. Here you can see the two methods than can be used:
-
-__Downloads__: 121 | __Repository__: https://github.com/Apteco/AptecoPSModules/tree/main/PSOAuth
+__Downloads__: 15,865,821 | __Repository__: https://github.com/dsccommunity/xPSDesiredStateConfiguration
 
 ## [Locksmith](https://www.powershellgallery.com/Packages/Locksmith/2024.11.11) | 2024.11.11
 
@@ -246,14 +386,6 @@ __Downloads__: 219 | __Repository__:
 Use Active Directory Service Interfaces to query LDAP and WinNT directories
 
 __Downloads__: 4,333 | __Repository__: 
-
-## [PsKrane](https://www.powershellgallery.com/Packages/PsKrane/0.6.2) | 0.6.2
-
-### Published: 11/11/2024 06:02:08 by Stephane van Gulick
-
-Opinionated module to scaffold, manage and help build standardized powershell modules implementing best pratcises out of the box with ease.
-
-__Downloads__: 304 | __Repository__: https://github.com/Stephanevg/PsKrane
 
 ## [autographps](https://www.powershellgallery.com/Packages/autographps/0.44.0) | 0.44.0
 
@@ -447,7 +579,7 @@ A completion manager for better and simpler use PowerShell completions.
   - Github:  https://github.com/abgox/PSCompletions
   - Gitee:   https://gitee.com/abgox/PSCompletions
 
-__Downloads__: 15,838 | __Repository__: https://github.com/abgox/PSCompletions
+__Downloads__: 15,840 | __Repository__: https://github.com/abgox/PSCompletions
 
 ## [SqlDatabase](https://www.powershellgallery.com/Packages/SqlDatabase/4.3.0) | 4.3.0
 
@@ -456,7 +588,7 @@ __Downloads__: 15,838 | __Repository__: https://github.com/abgox/PSCompletions
 This module for MSSQL Server, PostgreSQL and MySQL, allows to execute scripts, database migrations and export data.
 PowerShell versions: desktop 5.1, core 7.2+.
 
-__Downloads__: 12,224 | __Repository__: https://github.com/max-ieremenko/SqlDatabase
+__Downloads__: 12,223 | __Repository__: https://github.com/max-ieremenko/SqlDatabase
 
 ## [MilestonePSTools](https://www.powershellgallery.com/Packages/MilestonePSTools/24.2.1) | 24.2.1
 
@@ -482,110 +614,6 @@ This module allows you to connect to the Zorus API via PowerShell.
 
 __Downloads__: 10 | __Repository__: https://github.com/MichaelMcCool/ZorusAPI
 
-## [AdminToolbox](https://www.powershellgallery.com/Packages/AdminToolbox/11.1.0.12) | 11.1.0.12
-
-### Published: 11/08/2024 20:40:52 by Taylor Lee
-
-Master module for a collection of modules. These modules are varied in their tasks. The overall purpose of them being to provide a powerfull Toolset to improve IT Admin workflows.
-
-__Downloads__: 84,284 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox
-
-## [AdminToolbox.FortiWizard](https://www.powershellgallery.com/Packages/AdminToolbox.FortiWizard/2.20.1.1) | 2.20.1.1
-
-### Published: 11/08/2024 20:36:26 by Taylor Lee
-
-Functions that generate configuration scripts and manage FortiOS.
-
-__Downloads__: 63,025 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-## [AdminToolbox.VMWareAutomate](https://www.powershellgallery.com/Packages/AdminToolbox.VMWareAutomate/4.9.0.12) | 4.9.0.12
-
-### Published: 11/08/2024 20:35:22 by Taylor Lee
-
-Functions to Automate Bulk VMWare Tasks
-
-__Downloads__: 71,858 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-## [AdminToolbox.Remoting](https://www.powershellgallery.com/Packages/AdminToolbox.Remoting/1.10.0.12) | 1.10.0.12
-
-### Published: 11/08/2024 20:35:19 by Taylor Lee
-
-Functions for remote management and access.
-
-__Downloads__: 70,446 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-## [AdminToolbox.Office365](https://www.powershellgallery.com/Packages/AdminToolbox.Office365/4.3.0.11) | 4.3.0.11
-
-### Published: 11/08/2024 20:35:16 by Taylor Lee
-
-Functions for working with Office365 and Azure modules
-
-__Downloads__: 78,298 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-## [AdminToolbox.Networking](https://www.powershellgallery.com/Packages/AdminToolbox.Networking/2.21.0.12) | 2.21.0.12
-
-### Published: 11/08/2024 20:35:12 by Taylor Lee
-
-Network Troubleshooting Functions
-
-__Downloads__: 190,622 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-## [AdminToolbox.MSGraph](https://www.powershellgallery.com/Packages/AdminToolbox.MSGraph/1.5.0.9) | 1.5.0.9
-
-### Published: 11/08/2024 20:35:08 by Taylor Lee
-
-Microsoft Graph interactive API Functions
-
-__Downloads__: 59,127 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-## [AdminToolbox.Fun](https://www.powershellgallery.com/Packages/AdminToolbox.Fun/1.7.0.12) | 1.7.0.12
-
-### Published: 11/08/2024 20:35:06 by Taylor Lee
-
-Functions that have no purpose
-
-__Downloads__: 71,367 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-## [AdminToolbox.FileManagement](https://www.powershellgallery.com/Packages/AdminToolbox.FileManagement/1.17.0.12) | 1.17.0.12
-
-### Published: 11/08/2024 20:35:02 by Taylor Lee
-
-File Management Functions
-
-__Downloads__: 72,678 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-## [AdminToolbox.FFTools](https://www.powershellgallery.com/Packages/AdminToolbox.FFTools/4.17.0.12) | 4.17.0.12
-
-### Published: 11/08/2024 20:34:58 by Taylor Lee
-
-Expedite simple ffmpeg actions
-
-__Downloads__: 73,594 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-## [AdminToolbox.Exchange](https://www.powershellgallery.com/Packages/AdminToolbox.Exchange/1.10.0.12) | 1.10.0.12
-
-### Published: 11/08/2024 20:34:54 by Taylor Lee
-
-Functions for Exchange Management
-
-__Downloads__: 78,623 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-## [AdminToolbox.EndpointManagement](https://www.powershellgallery.com/Packages/AdminToolbox.EndpointManagement/4.11.0.12) | 4.11.0.12
-
-### Published: 11/08/2024 20:34:49 by Taylor Lee
-
-Functions for management of endpoints
-
-__Downloads__: 86,354 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-## [AdminToolbox.ActiveDirectory](https://www.powershellgallery.com/Packages/AdminToolbox.ActiveDirectory/1.11.1.2) | 1.11.1.2
-
-### Published: 11/08/2024 20:34:43 by Taylor Lee
-
-Functions for Active Directory
-
-__Downloads__: 85,313 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
 ## [RSCReporting](https://www.powershellgallery.com/Packages/RSCReporting/1.1.1) | 1.1.1
 
 ### Published: 11/08/2024 20:00:23 by Joshua Stenhouse
@@ -609,14 +637,6 @@ __Downloads__: 4 | __Repository__:
 Lightweight army of helpers for general powershell activities
 
 __Downloads__: 13,500 | __Repository__: https://github.com/o-o00o-o/PSEasy.Utility
-
-## [DevolutionsGateway](https://www.powershellgallery.com/Packages/DevolutionsGateway/2024.3.4) | 2024.3.4
-
-### Published: 11/08/2024 15:20:06 by Devolutions
-
-Devolutions Gateway PowerShell Module
-
-__Downloads__: 10,949 | __Repository__: https://github.com/Devolutions/devolutions-gateway/tree/master/powershell/
 
 ## [M365PSProfile](https://www.powershellgallery.com/Packages/M365PSProfile/0.8.0) | 0.8.0
 
@@ -650,15 +670,6 @@ PowerShell module for CapaInstaller containing functions for the SDK.
 
 __Downloads__: 166 | __Repository__: https://github.com/Mark5900/Capa.PowerShell.Module
 
-## [Capa.PowerShell.Module.SDK.VPP](https://www.powershellgallery.com/Packages/Capa.PowerShell.Module.SDK.VPP/1.10.0) | 1.10.0
-
-### Published: 11/08/2024 07:36:43 by Mark5900
-
-PowerShell module for CapaInstaller SDK containing functions for VPP functions.
-	For more information, see https://capasystems.atlassian.net/wiki/spaces/CI65DOC/pages/19382173123/SDK+-+CapaInstaller+Software+Development+Kit+functions
-
-__Downloads__: 178 | __Repository__: https://github.com/Mark5900/Capa.PowerShell.Module
-
 ## [Capa.PowerShell.Module.SDK.MDM](https://www.powershellgallery.com/Packages/Capa.PowerShell.Module.SDK.MDM/1.10.0) | 1.10.0
 
 ### Published: 11/08/2024 07:36:43 by Mark5900
@@ -668,14 +679,14 @@ PowerShell module for CapaInstaller SDK containing functions for MDM functions.
 
 __Downloads__: 179 | __Repository__: https://github.com/Mark5900/Capa.PowerShell.Module
 
-## [Capa.PowerShell.Module.SDK.Unit](https://www.powershellgallery.com/Packages/Capa.PowerShell.Module.SDK.Unit/1.10.0) | 1.10.0
+## [Capa.PowerShell.Module.SDK.VPP](https://www.powershellgallery.com/Packages/Capa.PowerShell.Module.SDK.VPP/1.10.0) | 1.10.0
 
-### Published: 11/08/2024 07:36:42 by Mark5900
+### Published: 11/08/2024 07:36:43 by Mark5900
 
-PowerShell module for CapaInstaller SDK containing functions for Unit functions.
+PowerShell module for CapaInstaller SDK containing functions for VPP functions.
 	For more information, see https://capasystems.atlassian.net/wiki/spaces/CI65DOC/pages/19382173123/SDK+-+CapaInstaller+Software+Development+Kit+functions
 
-__Downloads__: 177 | __Repository__: https://github.com/Mark5900/Capa.PowerShell.Module
+__Downloads__: 178 | __Repository__: https://github.com/Mark5900/Capa.PowerShell.Module
 
 ## [Capa.PowerShell.Module.SDK.WSUS](https://www.powershellgallery.com/Packages/Capa.PowerShell.Module.SDK.WSUS/1.10.0) | 1.10.0
 
@@ -685,6 +696,15 @@ PowerShell module for CapaInstaller SDK containing functions for WSUS functions.
 	For more information, see https://capasystems.atlassian.net/wiki/spaces/CI65DOC/pages/19382173123/SDK+-+CapaInstaller+Software+Development+Kit+functions
 
 __Downloads__: 176 | __Repository__: https://github.com/Mark5900/Capa.PowerShell.Module
+
+## [Capa.PowerShell.Module.SDK.Unit](https://www.powershellgallery.com/Packages/Capa.PowerShell.Module.SDK.Unit/1.10.0) | 1.10.0
+
+### Published: 11/08/2024 07:36:42 by Mark5900
+
+PowerShell module for CapaInstaller SDK containing functions for Unit functions.
+	For more information, see https://capasystems.atlassian.net/wiki/spaces/CI65DOC/pages/19382173123/SDK+-+CapaInstaller+Software+Development+Kit+functions
+
+__Downloads__: 177 | __Repository__: https://github.com/Mark5900/Capa.PowerShell.Module
 
 ## [Capa.PowerShell.Module.SDK.User](https://www.powershellgallery.com/Packages/Capa.PowerShell.Module.SDK.User/1.10.0) | 1.10.0
 
@@ -701,7 +721,7 @@ __Downloads__: 176 | __Repository__: https://github.com/Mark5900/Capa.PowerShell
 
 PowerShell module for CapaInstaller containing functions for PowerPacks.
 
-__Downloads__: 10,850 | __Repository__: https://github.com/Mark5900/Capa.PowerShell.Module
+__Downloads__: 10,852 | __Repository__: https://github.com/Mark5900/Capa.PowerShell.Module
 
 ## [Capa.PowerShell.Module.SDK.Group](https://www.powershellgallery.com/Packages/Capa.PowerShell.Module.SDK.Group/1.10.0) | 1.10.0
 
@@ -737,7 +757,7 @@ __Downloads__: 227 | __Repository__: https://github.com/Mark5900/Capa.PowerShell
 PowerShell module for CapaInstaller PowerPacks containing functions for Sys commands.
 	For more information, see https://capasystems.atlassian.net/wiki/spaces/CI65DOC/pages/19462455297/PowerShell+Scripting+Library
 
-__Downloads__: 10,984 | __Repository__: https://github.com/Mark5900/Capa.PowerShell.Module
+__Downloads__: 10,985 | __Repository__: https://github.com/Mark5900/Capa.PowerShell.Module
 
 ## [Capa.PowerShell.Module.PowerPack.Log](https://www.powershellgallery.com/Packages/Capa.PowerShell.Module.PowerPack.Log/1.10.0) | 1.10.0
 
@@ -746,7 +766,7 @@ __Downloads__: 10,984 | __Repository__: https://github.com/Mark5900/Capa.PowerSh
 PowerShell module for CapaInstaller PowerPacks containing functions for Log commands.
 	For more information, see https://capasystems.atlassian.net/wiki/spaces/CI65DOC/pages/19462455297/PowerShell+Scripting+Library
 
-__Downloads__: 11,034 | __Repository__: https://github.com/Mark5900/Capa.PowerShell.Module
+__Downloads__: 11,036 | __Repository__: https://github.com/Mark5900/Capa.PowerShell.Module
 
 ## [Capa.PowerShell.Module.PowerPack.MSI](https://www.powershellgallery.com/Packages/Capa.PowerShell.Module.PowerPack.MSI/1.10.0) | 1.10.0
 
@@ -755,7 +775,7 @@ __Downloads__: 11,034 | __Repository__: https://github.com/Mark5900/Capa.PowerSh
 PowerShell module for CapaInstaller PowerPacks containing functions for MSI commands.
 	For more information, see https://capasystems.atlassian.net/wiki/spaces/CI65DOC/pages/19462455297/PowerShell+Scripting+Library
 
-__Downloads__: 11,039 | __Repository__: https://github.com/Mark5900/Capa.PowerShell.Module
+__Downloads__: 11,041 | __Repository__: https://github.com/Mark5900/Capa.PowerShell.Module
 
 ## [Capa.PowerShell.Module.PowerPack.Reg](https://www.powershellgallery.com/Packages/Capa.PowerShell.Module.PowerPack.Reg/1.10.0) | 1.10.0
 
@@ -764,7 +784,7 @@ __Downloads__: 11,039 | __Repository__: https://github.com/Mark5900/Capa.PowerSh
 PowerShell module for CapaInstaller PowerPacks containing functions for Registry commands.
 	For more information, see https://capasystems.atlassian.net/wiki/spaces/CI65DOC/pages/19462455297/PowerShell+Scripting+Library
 
-__Downloads__: 11,031 | __Repository__: https://github.com/Mark5900/Capa.PowerShell.Module
+__Downloads__: 11,032 | __Repository__: https://github.com/Mark5900/Capa.PowerShell.Module
 
 ## [Capa.PowerShell.Module.SDK.Utilities](https://www.powershellgallery.com/Packages/Capa.PowerShell.Module.SDK.Utilities/1.10.0) | 1.10.0
 
@@ -782,16 +802,7 @@ __Downloads__: 3,473 | __Repository__: https://github.com/Mark5900/Capa.PowerShe
 PowerShell module for CapaInstaller PowerPacks containing functions for Ini commands.
 	For more information, see https://capasystems.atlassian.net/wiki/spaces/CI65DOC/pages/19462455297/PowerShell+Scripting+Library
 
-__Downloads__: 11,045 | __Repository__: https://github.com/Mark5900/Capa.PowerShell.Module
-
-## [Capa.PowerShell.Module.PowerPack.CMS](https://www.powershellgallery.com/Packages/Capa.PowerShell.Module.PowerPack.CMS/1.10.0) | 1.10.0
-
-### Published: 11/08/2024 07:36:27 by Mark5900
-
-PowerShell module for CapaInstaller PowerPacks containing functions for Sys commands.
-	For more information, see https://capasystems.atlassian.net/wiki/spaces/CI65DOC/pages/19462455297/PowerShell+Scripting+Library
-
-__Downloads__: 45 | __Repository__: https://github.com/Mark5900/Capa.PowerShell.Module
+__Downloads__: 11,047 | __Repository__: https://github.com/Mark5900/Capa.PowerShell.Module
 
 ## [Capa.PowerShell.Module.SDK.Container](https://www.powershellgallery.com/Packages/Capa.PowerShell.Module.SDK.Container/1.10.0) | 1.10.0
 
@@ -818,7 +829,7 @@ __Downloads__: 224 | __Repository__: https://github.com/Mark5900/Capa.PowerShell
 PowerShell module for CapaInstaller PowerPacks containing functions for Job commands.
 	For more information, see https://capasystems.atlassian.net/wiki/spaces/CI65DOC/pages/19462455297/PowerShell+Scripting+Library
 
-__Downloads__: 11,044 | __Repository__: https://github.com/Mark5900/Capa.PowerShell.Module
+__Downloads__: 11,046 | __Repository__: https://github.com/Mark5900/Capa.PowerShell.Module
 
 ## [Capa.PowerShell.Module.PowerPack.Exit](https://www.powershellgallery.com/Packages/Capa.PowerShell.Module.PowerPack.Exit/1.10.0) | 1.10.0
 
@@ -836,7 +847,7 @@ __Downloads__: 198 | __Repository__: https://github.com/Mark5900/Capa.PowerShell
 PowerShell module for CapaInstaller PowerPacks containing functions for File commands.
 	For more information, see https://capasystems.atlassian.net/wiki/spaces/CI65DOC/pages/19462455297/PowerShell+Scripting+Library
 
-__Downloads__: 11,050 | __Repository__: https://github.com/Mark5900/Capa.PowerShell.Module
+__Downloads__: 11,052 | __Repository__: https://github.com/Mark5900/Capa.PowerShell.Module
 
 ## [Capa.PowerShell.Module.PowerPack.Shell](https://www.powershellgallery.com/Packages/Capa.PowerShell.Module.PowerPack.Shell/1.10.0) | 1.10.0
 
@@ -845,7 +856,7 @@ __Downloads__: 11,050 | __Repository__: https://github.com/Mark5900/Capa.PowerSh
 PowerShell module for CapaInstaller PowerPacks containing functions for Shell commands.
 	For more information, see https://capasystems.atlassian.net/wiki/spaces/CI65DOC/pages/19462455297/PowerShell+Scripting+Library
 
-__Downloads__: 11,009 | __Repository__: https://github.com/Mark5900/Capa.PowerShell.Module
+__Downloads__: 11,010 | __Repository__: https://github.com/Mark5900/Capa.PowerShell.Module
 
 ## [Capa.PowerShell.Module.PowerPack.UsrMgr](https://www.powershellgallery.com/Packages/Capa.PowerShell.Module.PowerPack.UsrMgr/1.10.0) | 1.10.0
 
@@ -854,7 +865,7 @@ __Downloads__: 11,009 | __Repository__: https://github.com/Mark5900/Capa.PowerSh
 PowerShell module for CapaInstaller PowerPacks containing functions for User Manager commands.
 	For more information, see https://capasystems.atlassian.net/wiki/spaces/CI65DOC/pages/19462455297/PowerShell+Scripting+Library
 
-__Downloads__: 10,983 | __Repository__: https://github.com/Mark5900/Capa.PowerShell.Module
+__Downloads__: 10,984 | __Repository__: https://github.com/Mark5900/Capa.PowerShell.Module
 
 ## [Capa.PowerShell.Module.SDK.OSDeployment](https://www.powershellgallery.com/Packages/Capa.PowerShell.Module.SDK.OSDeployment/1.10.0) | 1.10.0
 
@@ -871,7 +882,7 @@ __Downloads__: 225 | __Repository__: https://github.com/Mark5900/Capa.PowerShell
 
 PowerShell module for CapaInstaller PowerPacks containing functions for Winget commands.
 
-__Downloads__: 10,708 | __Repository__: https://github.com/Mark5900/Capa.PowerShell.Module
+__Downloads__: 10,709 | __Repository__: https://github.com/Mark5900/Capa.PowerShell.Module
 
 ## [Capa.PowerShell.Module.PowerPack.Service](https://www.powershellgallery.com/Packages/Capa.PowerShell.Module.PowerPack.Service/1.10.0) | 1.10.0
 
@@ -880,7 +891,7 @@ __Downloads__: 10,708 | __Repository__: https://github.com/Mark5900/Capa.PowerSh
 PowerShell module for CapaInstaller PowerPacks containing functions for Service commands.
 	For more information, see https://capasystems.atlassian.net/wiki/spaces/CI65DOC/pages/19462455297/PowerShell+Scripting+Library
 
-__Downloads__: 11,021 | __Repository__: https://github.com/Mark5900/Capa.PowerShell.Module
+__Downloads__: 11,022 | __Repository__: https://github.com/Mark5900/Capa.PowerShell.Module
 
 ## [Capa.PowerShell.Module.SDK.Authentication](https://www.powershellgallery.com/Packages/Capa.PowerShell.Module.SDK.Authentication/1.10.0) | 1.10.0
 
@@ -938,14 +949,6 @@ __Downloads__: 18 | __Repository__: https://github.com/timbrigham-oc/OC-BTPS
 This module is inspired by the z-shell hooks, trying to bring the same functionality of hooks to PowerShell 7+.
 
 __Downloads__: 24 | __Repository__: https://github.com/mercury-sh/hooks
-
-## [M365DSC.CRG](https://www.powershellgallery.com/Packages/M365DSC.CRG/0.1.23) | 0.1.23
-
-### Published: 11/07/2024 21:12:12 by Yorick Kuijs
-
-Microsoft365Dsc Composite Resource Generator
-
-__Downloads__: 736 | __Repository__: https://github.com/ykuijs/M365DSC.CRG
 
 ## [JumpCloud](https://www.powershellgallery.com/Packages/JumpCloud/2.14.3) | 2.14.3
 
@@ -1025,7 +1028,7 @@ __Downloads__: 28,696 | __Repository__: https://github.com/PureStorage-Connect/P
 
 PowerShell module to generate DataFactory pipelines and datasets.
 
-__Downloads__: 7,127 | __Repository__: https://abbgrade.github.io/PsDataFactory/
+__Downloads__: 7,126 | __Repository__: https://abbgrade.github.io/PsDataFactory/
 
 ## [UGDSBTopdeskPS](https://www.powershellgallery.com/Packages/UGDSBTopdeskPS/0.6.0) | 0.6.0
 
@@ -1035,21 +1038,13 @@ This bundles together functions related to powershell functions use for UGDSB To
 
 __Downloads__: 19 | __Repository__: 
 
-## [UiPathOrch](https://www.powershellgallery.com/Packages/UiPathOrch/0.9.8.10) | 0.9.8.10
-
-### Published: 11/07/2024 14:33:24 by Yoshifumi Tsuda
-
-PowerShell providers for managing UiPath Orchestrator entities via cmdlets.
-
-__Downloads__: 1,707 | __Repository__: 
-
 ## [Liquit.Server.PowerShell](https://www.powershellgallery.com/Packages/Liquit.Server.PowerShell/4.2.3691.6481) | 4.2.3691.6481
 
 ### Published: 11/07/2024 13:45:12 by Liquit Software B.V.
 
 Liquit Workspace PowerShell Module
 
-__Downloads__: 15,668 | __Repository__: 
+__Downloads__: 15,670 | __Repository__: 
 
 ## [babash](https://www.powershellgallery.com/Packages/babash/0.1.5) | 0.1.5
 
@@ -1107,7 +1102,7 @@ __Downloads__: 17,368 | __Repository__:
 
 PowerShell Module for Cisco IMC (IMC module in Cisco PowerTool Suite)
 
-__Downloads__: 27,969 | __Repository__: 
+__Downloads__: 27,968 | __Repository__: 
 
 ## [Cisco.UCSManager](https://www.powershellgallery.com/Packages/Cisco.UCSManager/3.0.5.6) | 3.0.5.6
 
@@ -1339,7 +1334,7 @@ __Downloads__: 3,953 | __Repository__: https://github.com/genXdev/GenXdev.Webbro
 
 A Windows PowerShell module that provides ui Windows manipulation helpers
 
-__Downloads__: 3,654 | __Repository__: https://github.com/genXdev/GenXdev.Windows
+__Downloads__: 3,653 | __Repository__: https://github.com/genXdev/GenXdev.Windows
 
 ## [GenXdev.FileSystem](https://www.powershellgallery.com/Packages/GenXdev.FileSystem/1.49.2024) | 1.49.2024
 
@@ -1396,22 +1391,6 @@ __Downloads__: 365,085 | __Repository__: https://github.com/OctopusDeploy/Octopu
 This module has been **discontinued**. Please use the [M365Permissions](https://www.powershellgallery.com/packages/M365Permissions) module which has many fixes and improvements and can scan more than just Teams.
 
 __Downloads__: 1,044 | __Repository__: 
-
-## [TSG.AzureDevOps](https://www.powershellgallery.com/Packages/TSG.AzureDevOps/1.0.1001) | 1.0.1001
-
-### Published: 11/05/2024 19:35:06 by TSG
-
-A PowerShell module used to simplify the usage of the HaloITSM REST API
-
-__Downloads__: 27 | __Repository__: 
-
-## [TSG](https://www.powershellgallery.com/Packages/TSG/1.0.1004) | 1.0.1004
-
-### Published: 11/05/2024 19:34:38 by TSG
-
-A PowerShell module containng various helper functions
-
-__Downloads__: 106 | __Repository__: 
 
 ## [OCI.PSModules](https://www.powershellgallery.com/Packages/OCI.PSModules/95.0.0) | 95.0.0
 
@@ -2078,4 +2057,20 @@ This modules provides Cmdlets for OCI Generativeaiinference Service
 
 __Downloads__: 3,567 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-*Updated: Tuesday, 12 November 2024 09:51:43 UTC*
+## [OCI.PSModules.Generativeaiagentruntime](https://www.powershellgallery.com/Packages/OCI.PSModules.Generativeaiagentruntime/95.0.0) | 95.0.0
+
+### Published: 11/05/2024 18:47:06 by Oracle Cloud Infrastructure
+
+This modules provides Cmdlets for OCI Generativeaiagentruntime Service
+
+__Downloads__: 180 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+
+## [OCI.PSModules.Generativeaiagent](https://www.powershellgallery.com/Packages/OCI.PSModules.Generativeaiagent/95.0.0) | 95.0.0
+
+### Published: 11/05/2024 18:47:01 by Oracle Cloud Infrastructure
+
+This modules provides Cmdlets for OCI Generativeaiagent Service
+
+__Downloads__: 183 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+
+*Updated: Tuesday, 12 November 2024 17:51:54 UTC*
