@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Tuesday, 12 November 2024 09:51:51 UTC
+Updated: Tuesday, 12 November 2024 17:52:02 UTC
 
 .bat
 .env
@@ -76,7 +76,6 @@ abc
 abc_testing
 abe
 about
-abr
 abstractsyntaxtree
 abuse
 abuseipdb
@@ -197,7 +196,6 @@ adm
 admf
 admin
 admin-tools
-adminbyrequest
 admindirectory
 administration
 administrative
@@ -710,6 +708,7 @@ azure-devops
 azure-forensics
 azure-functions
 azure-pipelines
+azure-resource-graph
 azure-ssis
 azureactivedirectory
 azuread
@@ -975,6 +974,7 @@ break
 breakpoint
 brew
 brickset
+brickstore
 bridge
 brightbooking
 brightness
@@ -1062,6 +1062,7 @@ cancel
 cancellation
 canonical
 cantara
+capability
 capacity
 capacitymanagement
 capainstaller
@@ -1075,7 +1076,6 @@ carbonawarecomputing
 carbonintensity
 card
 cardwirth
-cares
 cargo
 carousel
 carrier
@@ -1399,6 +1399,7 @@ com
 combinations
 combine
 comdata
+comedy
 comic
 comical
 comics
@@ -1893,8 +1894,6 @@ decryption
 dedicatedhsm
 deduplication
 deep
-deep-security
-deep-security-manager
 deepl
 deepseek
 deepseek-coder
@@ -2504,6 +2503,7 @@ eventsubscription
 eventviewer
 eventwatch
 evergreen
+everix
 evernote
 everydaypowershell
 everydayrewards
@@ -2629,7 +2629,6 @@ fastgit
 fastlinq
 fastlookup
 fastping
-fasttrack
 fat32
 favorite
 favorites
@@ -2764,6 +2763,7 @@ flasharray
 flatfile
 flatten
 flavor
+fleet
 fleetappsmanagement
 fleetsoftwareupdate
 flex
@@ -3010,6 +3010,7 @@ gitflow
 gitforwindows
 github
 github-actions
+githubaction
 githubactions
 githubtools
 githubworkflow
@@ -3348,6 +3349,7 @@ humanizer
 humanly
 humor
 humorous
+humour
 hunter
 hwid
 hybrid
@@ -3696,6 +3698,7 @@ jdt
 jea
 jea_module
 jeanalyzer
+jekyll
 jenkins
 jetbrains
 jira
@@ -3715,6 +3718,7 @@ join
 join-object
 jojoba
 joke
+jokes
 jotform
 journal
 joyride
@@ -3770,7 +3774,6 @@ kb4
 kbarticle
 kdbx
 kdialog
-kebab-case
 keenetic
 keepachangelog
 keepass
@@ -4068,6 +4071,7 @@ logoff
 logon
 logonright
 logonscript
+logontask
 logonto
 logonuser
 logparser
@@ -4845,6 +4849,7 @@ officedev
 officegraph
 officemessageencryption
 officertool
+offline
 offlinewimservicing
 ofx
 ogg
@@ -4864,6 +4869,7 @@ omnistack
 oms
 omsagent
 on
+on-demand
 on-premise
 onbehalfof
 onboard
@@ -5275,6 +5281,7 @@ pointer
 pokeapi
 pokedex
 pokemon
+pokemontcg
 poker
 policies
 policy
@@ -5390,6 +5397,7 @@ postgresql
 postgrest
 potato
 pow
+powdrgit
 power
 power-apps
 power-cbr
@@ -5471,6 +5479,7 @@ powershelltraining
 powershelltypeaccelerators
 powershelluniversal
 powershellv5
+powershellweb
 powerstig
 powerstore
 powertab
@@ -8778,6 +8787,7 @@ rebootnodeifneeded
 reckon
 recommendation
 reconcile
+reconnaissance
 record
 recording
 recordings
@@ -9641,7 +9651,6 @@ source
 source-dedicated-server
 sourcecontrol
 sourceforge
-sourcegraph
 sourcemod
 sourceone
 sourcepawn
@@ -9806,6 +9815,7 @@ start-jobthread
 start-threadjob
 startkey
 startmen
+startmenu
 starttls
 starwars
 stash
@@ -9815,6 +9825,7 @@ stateless
 static
 staticanalysis
 statichtmlsites
+staticsite
 statistical
 statistics
 stats
@@ -9869,7 +9880,6 @@ stretch
 strictmode
 strikethrough-text
 string
-string-converter
 string-template
 stringmanager
 stringmanagertool
@@ -10058,6 +10068,7 @@ taskscheduler
 tatux
 taxjar
 taxonomy
+tcg
 tcp
 tcp/ip
 tcpip
@@ -10214,6 +10225,8 @@ time
 timeout
 timer
 timeseriesinsights
+timesheet
+timesheets
 timespan
 timezone
 tinkerpop
@@ -10315,7 +10328,6 @@ trein
 trello
 trellops
 trend
-trend-micro
 trendmicro
 trevor
 trevorsullivan
@@ -10625,6 +10637,7 @@ vbsinst
 vc
 vccmdlets
 vcenter
+vcf
 vcloud
 vclouddirector
 vcm
@@ -10904,7 +10917,6 @@ where
 whfb
 whiteboard
 whitespace
-who
 whoami
 whois
 whoiscmdlet
