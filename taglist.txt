@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Wednesday, 13 November 2024 02:15:03 UTC
+Updated: Wednesday, 13 November 2024 09:51:51 UTC
 
 .bat
 .env
@@ -326,8 +326,6 @@ amateur-data-interchange-format
 amateur-radio
 amateurradio
 amazon
-amazonaws
-amazonmgn
 amazontitan
 amazonwebservices
 amend
@@ -687,7 +685,6 @@ aznetworking
 aznetworkinterface
 aznicdetails
 azops
-azpipelines
 azpublicipaddress
 azresources
 azsdk
@@ -926,7 +923,6 @@ blogs
 bloodhound
 bloxone
 bloxoneddi
-bls
 blue
 bluedolhin
 blueprint
@@ -949,6 +945,7 @@ bookmark
 bookmarks
 books
 bool
+boolean
 bootloader psmodule
 bootstrap
 bootstrapping
@@ -1078,18 +1075,21 @@ carbonintensity
 card
 cardwirth
 cares
+cargo
 carousel
 carrier
 cartoon
 case
 cassandra
 cat
+cat-names
 catalog
 catalogs
 catalyst
 catapult
 catesta
 catimage
+cats
 catty
 cavium
 cb
@@ -1346,7 +1346,6 @@ cmtrace
 cmwt
 cns
 coa
-cockroachdb
 codaamok
 code
 code-completion
@@ -1525,6 +1524,7 @@ containerinstances
 containerregistry
 containers
 containment
+content
 contentprep
 context
 continious-deploy
@@ -1576,6 +1576,8 @@ converttomarkdown
 converttomd
 cookie
 coolq
+cooltag1
+cooltag2
 coordinates
 copilot
 copy
@@ -1626,8 +1628,6 @@ crack psmodule
 crash
 crawler
 crayon
-crc
-crc32
 create
 createcolumn
 createdatabase
@@ -1747,8 +1747,6 @@ cyberdrain
 cybereason
 cybersecurity
 cyberwatch
-cyclic
-cyclicredundancycheck
 cygwin
 cylance
 cypher
@@ -1774,7 +1772,6 @@ dark
 darktrace
 dash
 dashboard
-dashboardapi
 dashboardservice
 dast
 data
@@ -1808,7 +1805,6 @@ dataexplorer
 datafactory
 dataflow
 dataflowdependency
-dataframe
 datagateway
 dataintegration
 datakwaliteit
@@ -2067,7 +2063,6 @@ distributedcache
 distributedfilesystem
 distribution
 distributiongroup
-distributiongroups
 distributionlist
 distributionpointgroupmembers
 distrubtionpoint
@@ -2208,7 +2203,6 @@ drs
 drsrule
 drupal
 drush
-dry
 ds
 ds-client
 ds-utils
@@ -2226,7 +2220,6 @@ dscresourcekit
 dscresources
 dsctools
 dsl
-dsm
 dsreg
 dsregcmd
 dsutils
@@ -2392,7 +2385,6 @@ english
 enhancement
 enrichers
 enrichment
-enteo
 enter
 enterprise
 enterprise-scale
@@ -2412,7 +2404,6 @@ enumerable
 env
 environment
 environment-variables
-environmentmanagent
 environmentmodules
 environments
 environmentvariable
@@ -2721,7 +2712,6 @@ financeandoperations
 financeoperations
 financial
 financialedge
-financials
 find
 find-call
 find-caller
@@ -2846,7 +2836,6 @@ fritzbox
 front
 frontapp
 frontdoor
-frontrange
 fs
 fsc-ps
 fscps
@@ -3135,7 +3124,6 @@ gzip
 gzip-compression
 ha
 haarlemsdagblad
-hack
 hacking
 hacktoberfest
 hadoop
@@ -3206,8 +3194,8 @@ healthcheck
 healthchecks
 healthdataaiservices
 healthservice
+healthz
 heartbeatdiscovery
-heat
 heating
 heavenbay
 helium
@@ -3684,9 +3672,7 @@ japanese
 jar
 jav
 java
-javamanager
 javascript
-javaversion
 jboss
 jdbc
 jde
@@ -3727,7 +3713,9 @@ jsm.insight
 json
 json-converter
 json-transform
+json+
 json2ps
+jsonplus
 jsonwebencryption
 jsonwebkey
 jsonwebsignature
@@ -3737,6 +3725,7 @@ jumbo
 jump
 jump-location
 jumpcloud
+jumpstart
 junction
 junctions
 junit
@@ -3998,7 +3987,6 @@ loc
 local
 local-caching
 local-policy
-localaccounts
 localadmin
 localconfigurationmanager
 localdb
@@ -4199,9 +4187,6 @@ marquee
 marvel
 marvell
 marvell_semiconductor_inc
-marvellfcpowerkit
-marvellfcprovider
-marvellqlogicfcpowerkit
 mas
 mask
 mass
@@ -4278,7 +4263,6 @@ mention
 menu
 menus
 meraki
-merakiapi
 mercurial
 mercury
 merge
@@ -4306,7 +4290,6 @@ metrics
 metrolink
 mfa
 mga
-mgn
 mi
 micro
 micro-orm
@@ -4391,7 +4374,6 @@ mixedreality
 mixer
 mkdocs
 mkpasswd
-mksapiviewer
 ml
 ml.net
 mlflow
@@ -4462,8 +4444,6 @@ mpeg
 mpn
 mrfk
 mrfylke
-mrvl_fc_powerkit
-mrvlfcprovider
 ms_365
 ms-graph
 ms365
@@ -4539,7 +4519,6 @@ multiserver
 multistring
 multithread
 multithreaded
-multithreaded-helpers
 multithreading
 music
 musiccast
@@ -4568,7 +4547,6 @@ mysql-database
 mytest
 n-able
 n-central
-nabu
 nac
 nagios
 nakivo
@@ -4878,6 +4856,7 @@ onedriveforbusiness
 oneget
 oneidentity
 onelogin
+oneloginapi
 onenote
 onestools
 onesubscription
@@ -5125,6 +5104,7 @@ patches
 patching
 patchtuesday
 path
+pathfinder
 patternmatching
 paulo
 pause
@@ -5150,7 +5130,6 @@ pdf-files
 pdf-generation
 pdf-redaction
 pe
-peek
 peering
 peheader
 pem
@@ -5246,7 +5225,6 @@ playback
 playbook
 player
 playlists
-playwright
 pleasant
 pleasantpasswordserver
 plex
@@ -5307,6 +5285,7 @@ pos
 posershellise
 posh
 posh-acme
+posh-cats
 posh-chocobear
 posh-direnv
 posh-git
@@ -5370,10 +5349,8 @@ poshy-wrap-pylint
 poshy-wrap-python
 poshy-wrap-ruby
 poshy-wrap-systemctl
-poshy-wrap-terraform
 poshy-wrap-terragrunt
 poshy-wrap-tmux
-poshy-wrap-vagrant
 poshy-wrap-vault
 poshy-wrap-vscode
 poshy-wrap-wget
@@ -5391,9 +5368,7 @@ potato
 pow
 powdrgit
 power
-power-apps
 power-cbr
-power-platform
 power-shell
 powerapps
 powerappsportal
@@ -5410,7 +5385,6 @@ powerconfiguration
 powerdex
 powerforensics
 powergraph
-powergui
 powermax
 powerpack
 powerplan
@@ -5514,7 +5488,6 @@ pricelist
 primenumber
 primera
 principal
-principle
 print
 printer
 printers
@@ -6763,15 +6736,6 @@ pscommand_invoke-systemctluser-try-reload-or-restart
 pscommand_invoke-systemctluser-try-restart
 pscommand_invoke-systemctluser-unmask
 pscommand_invoke-systemctluser-unset-environment
-pscommand_invoke-terraform
-pscommand_invoke-terraformapply
-pscommand_invoke-terraformconsole
-pscommand_invoke-terraformdestroy
-pscommand_invoke-terraformformat
-pscommand_invoke-terraforminit
-pscommand_invoke-terraformoutput
-pscommand_invoke-terraformplan
-pscommand_invoke-terraformvalidate
 pscommand_invoke-terragrunt
 pscommand_invoke-terragruntapply
 pscommand_invoke-terragruntapplyall
@@ -6788,22 +6752,6 @@ pscommand_invoke-tmuxkillserver
 pscommand_invoke-tmuxkillsessionforterminal
 pscommand_invoke-tmuxlistsessions
 pscommand_invoke-tmuxnewsessionfromsource
-pscommand_invoke-vagrantdestroy
-pscommand_invoke-vagranthalt
-pscommand_invoke-vagranthostmanager
-pscommand_invoke-vagranthostslist
-pscommand_invoke-vagrantlist
-pscommand_invoke-vagrantprovision
-pscommand_invoke-vagrantreload
-pscommand_invoke-vagrantresume
-pscommand_invoke-vagrantscp
-pscommand_invoke-vagrantsnapshotlist
-pscommand_invoke-vagrantsnapshottake
-pscommand_invoke-vagrantssh
-pscommand_invoke-vagrantstatus
-pscommand_invoke-vagrantsuspend
-pscommand_invoke-vagrantup
-pscommand_invoke-vagrantuplogged
 pscommand_invoke-vaultdelete
 pscommand_invoke-vaultlist
 pscommand_invoke-vaultloginviagithub
@@ -7240,15 +7188,6 @@ pscommand_test-o
 pscommand_test-reparsepoint
 pscommand_test-sessioninteractivity
 pscommand_test-x
-pscommand_tf
-pscommand_tfa
-pscommand_tfc
-pscommand_tfd
-pscommand_tff
-pscommand_tfi
-pscommand_tfo
-pscommand_tfp
-pscommand_tfv
 pscommand_tg
 pscommand_tga
 pscommand_tgaa
@@ -7315,15 +7254,6 @@ pscommand_vas
 pscommand_vasrv
 pscommand_vav
 pscommand_vaw
-pscommand_vdstr
-pscommand_vh
-pscommand_vhl
-pscommand_vhst
-pscommand_vl
-pscommand_vp
-pscommand_vr
-pscommand_vrl
-pscommand_vs
 pscommand_vsc
 pscommand_vsca
 pscommand_vscd
@@ -7333,17 +7263,11 @@ pscommand_vscg
 pscommand_vscie
 pscommand_vscl
 pscommand_vscn
-pscommand_vscp
 pscommand_vscr
 pscommand_vscu
 pscommand_vscue
 pscommand_vscv
 pscommand_vscw
-pscommand_vsl
-pscommand_vssh
-pscommand_vst
-pscommand_vup
-pscommand_vupl
 pscommand_write-gitcommit
 pscommand_write-gitcommitall
 pscommand_write-gitcommitallasupdate
@@ -8175,15 +8099,6 @@ psfunction_invoke-systemctluser-try-reload-or-restart
 psfunction_invoke-systemctluser-try-restart
 psfunction_invoke-systemctluser-unmask
 psfunction_invoke-systemctluser-unset-environment
-psfunction_invoke-terraform
-psfunction_invoke-terraformapply
-psfunction_invoke-terraformconsole
-psfunction_invoke-terraformdestroy
-psfunction_invoke-terraformformat
-psfunction_invoke-terraforminit
-psfunction_invoke-terraformoutput
-psfunction_invoke-terraformplan
-psfunction_invoke-terraformvalidate
 psfunction_invoke-terragrunt
 psfunction_invoke-terragruntapply
 psfunction_invoke-terragruntapplyall
@@ -8200,22 +8115,6 @@ psfunction_invoke-tmuxkillserver
 psfunction_invoke-tmuxkillsessionforterminal
 psfunction_invoke-tmuxlistsessions
 psfunction_invoke-tmuxnewsessionfromsource
-psfunction_invoke-vagrantdestroy
-psfunction_invoke-vagranthalt
-psfunction_invoke-vagranthostmanager
-psfunction_invoke-vagranthostslist
-psfunction_invoke-vagrantlist
-psfunction_invoke-vagrantprovision
-psfunction_invoke-vagrantreload
-psfunction_invoke-vagrantresume
-psfunction_invoke-vagrantscp
-psfunction_invoke-vagrantsnapshotlist
-psfunction_invoke-vagrantsnapshottake
-psfunction_invoke-vagrantssh
-psfunction_invoke-vagrantstatus
-psfunction_invoke-vagrantsuspend
-psfunction_invoke-vagrantup
-psfunction_invoke-vagrantuplogged
 psfunction_invoke-vaultdelete
 psfunction_invoke-vaultlist
 psfunction_invoke-vaultloginviagithub
@@ -8587,8 +8486,6 @@ psword
 pswriteword
 psyaml
 pszabbix
-ptc
-ptcintegrity
 pubg
 public
 public-key
@@ -8652,7 +8549,6 @@ qatam
 qcloud
 qconvergeconsolepowerkit
 qemu
-qlgc_fc_powerkit
 qlik
 qlik-api
 qlik-sense
@@ -8662,8 +8558,6 @@ qlikview
 qlikview-cli
 qlogic
 qlogicfastlinqpowerkit
-qlogicfcpowerkit
-qlogicfcprovider
 qna
 qol
 qq
@@ -8709,7 +8603,6 @@ rackspace
 radarr
 radio
 raidcontrollercmdlets
-railways
 rainbow
 raisers
 raisersedge
@@ -8812,7 +8705,6 @@ redkite
 redseal
 redshift
 redteaming
-redundancy
 refactor
 refactoring
 refeds
@@ -8850,6 +8742,7 @@ regularexpression
 regularexpressions
 reinstall
 relational
+relativity
 relay
 release
 releasedefinition
@@ -8954,7 +8847,6 @@ resourcekit
 resourcemanager
 resourcemover
 resources
-resourcescheduler
 resourcesearch
 response
 rest
@@ -8967,7 +8859,6 @@ restore
 resume
 retail
 retention
-retro
 retry
 returnuserprofile
 retype
@@ -9089,6 +8980,7 @@ runtimedefinedparameterdictionary
 runway
 russia
 rust
+rust-lang
 ryanairps
 ryver
 s.ds.p
@@ -9583,7 +9475,6 @@ sni
 snipe-it
 snippet
 snippets
-snippets-manager
 snippit
 snmp
 snmpget
@@ -9651,7 +9542,6 @@ space
 spaces
 spacex
 spam
-spamtitan
 spanner
 spark
 sparkline
@@ -9738,6 +9628,7 @@ sqlplus
 sqlproj
 sqlproject
 sqlps
+sqlquery
 sqlserver
 sqlserveragent
 sqlserverbynarymodule
@@ -10216,8 +10107,6 @@ time
 timeout
 timer
 timeseriesinsights
-timesheet
-timesheets
 timespan
 timezone
 tinkerpop
@@ -10225,7 +10114,6 @@ tinymce
 tip
 tips
 titan
-titanhq
 title
 tld
 tls
@@ -10329,6 +10217,7 @@ trick
 tricks
 trigger
 triodos
+tripunkt
 troubleshoot
 troubleshooting
 trouw
@@ -10353,7 +10242,6 @@ tsqlbestpractice
 tst
 tst1
 tst3
-tsv
 ttrpg
 tts
 tubedownloader
@@ -10474,7 +10362,6 @@ umn
 ums
 unattend
 unattendedfile
-unblock
 unc
 uncpaths
 underlined-text
@@ -10658,7 +10545,6 @@ verification
 verify
 version
 versioning
-versionmanager
 versionnumber
 vertical
 vester
@@ -10897,6 +10783,7 @@ weixin
 well-known
 wem
 wemsdk
+wer
 wget
 what3words
 whatismyip
@@ -10959,7 +10846,6 @@ win32-api
 win32appmigrationtool
 win32shutdown
 winbgp
-windchillrv&s
 window
 windows
 windows  server
@@ -11101,6 +10987,7 @@ worksheet
 workshop
 workspace
 workspacemanager
+workspaceone
 workspaces
 workstation
 world
@@ -11226,7 +11113,6 @@ yml
 ynab
 youtube
 youtube-dl
-youtubeextractor
 yq
 yubaba
 yubikey
