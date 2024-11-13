@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Tuesday, 12 November 2024 17:52:02 UTC
+Updated: Wednesday, 13 November 2024 02:15:03 UTC
 
 .bat
 .env
@@ -76,6 +76,7 @@ abc
 abc_testing
 abe
 about
+abr
 abstractsyntaxtree
 abuse
 abuseipdb
@@ -196,6 +197,7 @@ adm
 admf
 admin
 admin-tools
+adminbyrequest
 admindirectory
 administration
 administrative
@@ -947,7 +949,6 @@ bookmark
 bookmarks
 books
 bool
-boolean
 bootloader psmodule
 bootstrap
 bootstrapping
@@ -1076,21 +1077,19 @@ carbonawarecomputing
 carbonintensity
 card
 cardwirth
-cargo
+cares
 carousel
 carrier
 cartoon
 case
 cassandra
 cat
-cat-names
 catalog
 catalogs
 catalyst
 catapult
 catesta
 catimage
-cats
 catty
 cavium
 cb
@@ -1231,7 +1230,6 @@ ciscoucsdsc
 citation
 cite
 citrix
-citrixoptimizer
 civo
 cix
 class
@@ -1527,7 +1525,6 @@ containerinstances
 containerregistry
 containers
 containment
-content
 contentprep
 context
 continious-deploy
@@ -1579,8 +1576,6 @@ converttomarkdown
 converttomd
 cookie
 coolq
-cooltag1
-cooltag2
 coordinates
 copilot
 copy
@@ -1894,6 +1889,8 @@ decryption
 dedicatedhsm
 deduplication
 deep
+deep-security
+deep-security-manager
 deepl
 deepseek
 deepseek-coder
@@ -2629,6 +2626,7 @@ fastgit
 fastlinq
 fastlookup
 fastping
+fasttrack
 fat32
 favorite
 favorites
@@ -3208,7 +3206,6 @@ healthcheck
 healthchecks
 healthdataaiservices
 healthservice
-healthz
 heartbeatdiscovery
 heat
 heating
@@ -3730,9 +3727,7 @@ jsm.insight
 json
 json-converter
 json-transform
-json+
 json2ps
-jsonplus
 jsonwebencryption
 jsonwebkey
 jsonwebsignature
@@ -3742,7 +3737,6 @@ jumbo
 jump
 jump-location
 jumpcloud
-jumpstart
 junction
 junctions
 junit
@@ -3774,6 +3768,7 @@ kb4
 kbarticle
 kdbx
 kdialog
+kebab-case
 keenetic
 keepachangelog
 keepass
@@ -4883,7 +4878,6 @@ onedriveforbusiness
 oneget
 oneidentity
 onelogin
-oneloginapi
 onenote
 onestools
 onesubscription
@@ -5131,7 +5125,6 @@ patches
 patching
 patchtuesday
 path
-pathfinder
 patternmatching
 paulo
 pause
@@ -5314,7 +5307,6 @@ pos
 posershellise
 posh
 posh-acme
-posh-cats
 posh-chocobear
 posh-direnv
 posh-git
@@ -5599,7 +5591,6 @@ protocols
 provance
 proverb
 provider
-providerhub
 provision
 provisioning
 provisioningpackage
@@ -9098,7 +9089,6 @@ runtimedefinedparameterdictionary
 runway
 russia
 rust
-rust-lang
 ryanairps
 ryver
 s.ds.p
@@ -9651,6 +9641,7 @@ source
 source-dedicated-server
 sourcecontrol
 sourceforge
+sourcegraph
 sourcemod
 sourceone
 sourcepawn
@@ -9747,7 +9738,6 @@ sqlplus
 sqlproj
 sqlproject
 sqlps
-sqlquery
 sqlserver
 sqlserveragent
 sqlserverbynarymodule
@@ -9880,6 +9870,7 @@ stretch
 strictmode
 strikethrough-text
 string
+string-converter
 string-template
 stringmanager
 stringmanagertool
@@ -10328,6 +10319,7 @@ trein
 trello
 trellops
 trend
+trend-micro
 trendmicro
 trevor
 trevorsullivan
@@ -10337,7 +10329,6 @@ trick
 tricks
 trigger
 triodos
-tripunkt
 troubleshoot
 troubleshooting
 trouw
@@ -10906,7 +10897,6 @@ weixin
 well-known
 wem
 wemsdk
-wer
 wget
 what3words
 whatismyip
@@ -10917,6 +10907,7 @@ where
 whfb
 whiteboard
 whitespace
+who
 whoami
 whois
 whoiscmdlet
@@ -11110,7 +11101,6 @@ worksheet
 workshop
 workspace
 workspacemanager
-workspaceone
 workspaces
 workstation
 world
