@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Thursday, 14 November 2024 09:52:04 UTC
+Updated: Thursday, 14 November 2024 17:52:03 UTC
 
 .bat
 .env
@@ -19,7 +19,6 @@ Updated: Thursday, 14 November 2024 09:52:04 UTC
 🍄
 🍣
 💩
-🙇
 1&1
 10
 11
@@ -352,6 +351,7 @@ analyzerrules
 anchor
 and
 android
+anet
 anf
 anglesharp
 angular
@@ -687,7 +687,6 @@ aznetworking
 aznetworkinterface
 aznicdetails
 azops
-azpipelines
 azpublicipaddress
 azresources
 azsdk
@@ -1349,6 +1348,7 @@ cmsiteconfig
 cmsmessage
 cmtrace
 cmwt
+cns
 coa
 cockroachdb
 codaamok
@@ -1720,6 +1720,7 @@ currencyconverterapi
 current
 curseforge
 custom
+customchecks
 customdns
 customer
 customerengagement
@@ -1818,6 +1819,7 @@ dataflowdependency
 dataframe
 datagateway
 dataintegration
+datakwaliteit
 datalabelingservice
 datalabelingservicedataplane
 datalake
@@ -1943,7 +1945,6 @@ deploy
 deployment
 deploymentconfig
 deploymentresourceprovider
-deploymenttasks
 depute
 der
 description
@@ -2023,8 +2024,6 @@ directories
 directory
 directory psedition_core psedition_desktop
 directory-transform
-directorycleanup
-directorymanagement
 directorymarks
 directoryname
 directorysearcher
@@ -2328,6 +2327,7 @@ efficientether
 efi
 egrep
 eid
+eigencontroles
 einstein
 eklient psedition_core psedition_desktop
 elastic
@@ -2370,6 +2370,7 @@ emissions
 emoji
 emojis
 emotion
+empire
 empty
 emwarehouse
 enable
@@ -2440,7 +2441,6 @@ error
 error-log
 errorcode
 errorfile
-errorhandling
 errors
 errorview
 eryph
@@ -2683,7 +2683,6 @@ fileencryption
 filelist
 filelog
 filelogger
-filemaintenance
 filemanagement
 filematcher
 filename
@@ -2819,7 +2818,6 @@ fortigate
 fortigi
 fortimanager
 fortinet
-fortinetmanager
 fortios
 fortune
 forum
@@ -3793,6 +3791,7 @@ kernel32
 kestrel
 key
 key-vault
+key2wocas
 keybase
 keybinding
 keyboard
@@ -3817,6 +3816,7 @@ kindle
 kinetic
 kinopoisk
 kintone
+klantcontroles
 kms
 knapsack
 knetps
@@ -3999,6 +3999,7 @@ lmhosts
 lms
 load
 loadbalancer
+loadbalancer.org
 loader
 loadtesting
 loanddepot
@@ -4011,7 +4012,6 @@ localaccounts
 localadmin
 localconfigurationmanager
 localdb
-localdirectories
 locale
 localgroup
 localgroupmember
@@ -4067,6 +4067,7 @@ loginscreen
 loginsight
 logiphys
 logistic
+logitech
 logmail
 logmails
 logman
@@ -4483,6 +4484,7 @@ msband
 msbi
 msbuild
 msdeploy
+msdn
 msdtc
 msedge
 msexcel
@@ -4546,7 +4548,6 @@ multiserver
 multistring
 multithread
 multithreaded
-multithreaded-helpers
 multithreading
 music
 musiccast
@@ -4792,6 +4793,7 @@ nvd
 nvdimm
 nvdimm-n
 nvm
+nvm-window
 nxt
 nyse
 nzb
@@ -5112,7 +5114,6 @@ passwordexpiration
 passwordexpiry
 passwordgeneration
 passwordgenerator
-passwordgenerators
 passwordhashing
 passwordless
 passwordlock
@@ -5473,7 +5474,6 @@ powershellml
 powershellmodule
 powershellmoduleupdate
 powershellpr0mpt
-powershellremoting
 powershellscript
 powershelltemplate
 powershelltraining
@@ -5510,6 +5510,7 @@ prepend
 preprocessing
 preprocessor
 presentation
+presenter
 presto
 preston-k-parsard
 prettifier
@@ -5545,7 +5546,6 @@ privileged
 privilegedidentitymanagement
 privileges
 pro
-probability
 probe
 process
 process-inspector
@@ -8514,6 +8514,7 @@ psgraylog
 pshdhomerun
 pshot
 pshtml
+psimport
 psincludes_cmdlet
 psincludes_command
 psincludes_function
@@ -8656,6 +8657,7 @@ pyranja
 python
 python-for-dotnet
 python3
+qatam
 qcloud
 qconvergeconsolepowerkit
 qemu
@@ -8884,7 +8886,6 @@ remotedesktopconnectionmanager
 remotedesktopgateway
 remotedesktopmanager
 remotedesktopservices
-remotedirectories
 remotefiles
 remoteforensics
 remotehost
@@ -9497,6 +9498,7 @@ signtool
 silicondust
 silk
 silver_ticket
+sim
 simple
 simplecontainers
 simplepassword
@@ -10247,6 +10249,7 @@ tmux
 to-do
 toast
 toasts
+tobias
 toc
 todo
 todo.txt
@@ -10264,6 +10267,7 @@ toolkit
 tools
 tools4ever
 topdesk
+topgrade
 topics
 topleveldomain
 topology
@@ -10327,7 +10331,6 @@ trello
 trellops
 trend
 trend-micro
-trendmicro
 trevor
 trevorsullivan
 triangle
@@ -10484,7 +10487,6 @@ unattend
 unattendedfile
 unblock
 unc
-uncpaths
 underlined-text
 unhide
 unicode
@@ -10655,6 +10657,7 @@ veeam
 veeampn
 veeva
 venafi
+vencord
 vendor
 venue
 venvlink
@@ -10894,6 +10897,7 @@ websphereappserver
 websphereportal
 webtest
 webtesting
+webtime
 webview2
 wec
 wecutil
@@ -11004,7 +11008,6 @@ windowsdataprotectionapi
 windowsdefender
 windowsdesktop
 windowsdesktopsearch
-windowsdirectories
 windowsevent
 windowseventlog
 windowsform
@@ -11113,7 +11116,6 @@ workspaces
 workstation
 world
 worldcup
-worryfreebusinesssecurity
 wow
 wpad
 wpf
