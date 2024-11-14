@@ -3,6 +3,62 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [TransitionManager](https://www.powershellgallery.com/Packages/TransitionManager/6.6.0) | 6.6.0
+
+### Published: 11/14/2024 17:22:41 by TransitionManager
+
+Provides TransitionManager Functionality
+
+__Downloads__: 1,647 | __Repository__: 
+
+## [FarNet.Redis](https://www.powershellgallery.com/Packages/FarNet.Redis/0.14.0) | 0.14.0
+
+### Published: 11/14/2024 16:41:07 by Roman Kuzmin
+
+StackExchange.Redis cmdlets
+
+__Downloads__: 225 | __Repository__: https://github.com/nightroman/FarNet.Redis
+
+## [spec.registry.management](https://www.powershellgallery.com/Packages/spec.registry.management/1.0.7) | 1.0.7
+
+### Published: 11/14/2024 13:36:55 by owen.heaume
+
+A module to help manage the Windows registry
+
+__Downloads__: 11,819 | __Repository__: 
+
+## [UncommonSense.AL.AppSymbols](https://www.powershellgallery.com/Packages/UncommonSense.AL.AppSymbols/0.0.0.1) | 0.0.0.1
+
+### Published: 11/14/2024 11:41:37 by Jan Hoek
+
+PowerShell module for retrieving symbol information from Business Central .app files
+
+__Downloads__: 0 | __Repository__: https://github.com/jhoek/UncommonSense.AL.AppSymbols
+
+## [CAT](https://www.powershellgallery.com/Packages/CAT/1.11.0.1) | 1.11.0.1
+
+### Published: 11/14/2024 10:52:03 by Joyful Craftsmen CAT Team
+
+Author, run and manage AUTOMATED TESTS for your DATA with minimum effort.
+
+__Downloads__: 3,393 | __Repository__: https://docs.justcat.it/
+
+## [GitHub](https://www.powershellgallery.com/Packages/GitHub/0.8.14) | 0.8.14
+
+### Published: 11/14/2024 10:21:11 by PSModule
+
+A PowerShell module to interact with the GitHub API.
+
+__Downloads__: 31,785 | __Repository__: https://github.com/PSModule/GitHub
+
+## [spec.teamviewer.utilities](https://www.powershellgallery.com/Packages/spec.teamviewer.utilities/1.2.1) | 1.2.1
+
+### Published: 11/14/2024 09:47:14 by owen.heaume
+
+A module to help manage TeamViewer
+
+__Downloads__: 38,578 | __Repository__: 
+
 ## [JS7](https://www.powershellgallery.com/Packages/JS7/2.0.26.0) | 2.0.26.0
 
 ### Published: 11/14/2024 09:14:26 by Andreas Pueschel
@@ -309,14 +365,6 @@ __Downloads__: 34 | __Repository__:
 A PowerShell module that manages contexts with secrets and variables.
 
 __Downloads__: 9 | __Repository__: https://github.com/PSModule/Context
-
-## [FarNet.Redis](https://www.powershellgallery.com/Packages/FarNet.Redis/0.13.0) | 0.13.0
-
-### Published: 11/13/2024 01:50:01 by Roman Kuzmin
-
-StackExchange.Redis cmdlets
-
-__Downloads__: 225 | __Repository__: https://github.com/nightroman/FarNet.Redis
 
 ## [AdminToolbox](https://www.powershellgallery.com/Packages/AdminToolbox/11.1.0.14) | 11.1.0.14
 
@@ -1721,14 +1769,6 @@ Devolutions Gateway PowerShell Module
 
 __Downloads__: 11,061 | __Repository__: https://github.com/Devolutions/devolutions-gateway/tree/master/powershell/
 
-## [spec.teamviewer.utilities](https://www.powershellgallery.com/Packages/spec.teamviewer.utilities/1.2.0) | 1.2.0
-
-### Published: 11/12/2024 10:52:55 by owen.heaume
-
-A module to help manage TeamViewer
-
-__Downloads__: 38,578 | __Repository__: 
-
 ## [Ndimensions.Automation.NafSetup](https://www.powershellgallery.com/Packages/Ndimensions.Automation.NafSetup/1.0.136) | 1.0.136
 
 ### Published: 11/12/2024 07:16:37 by hillesheim@n-dimensions.de
@@ -1972,14 +2012,6 @@ This module contains the functions to manage and prepare Azure Tenants in a CAF 
 
 __Downloads__: 810 | __Repository__: https://docs.devdeer.io/caf/devdeer-caf-overview.html
 
-## [GitHub](https://www.powershellgallery.com/Packages/GitHub/0.8.13) | 0.8.13
-
-### Published: 11/10/2024 17:32:48 by PSModule
-
-A PowerShell module to interact with the GitHub API.
-
-__Downloads__: 31,785 | __Repository__: https://github.com/PSModule/GitHub
-
 ## [AMSoftware.Dataverse.PowerShell](https://www.powershellgallery.com/Packages/AMSoftware.Dataverse.PowerShell/0.4.0) | 0.4.0
 
 ### Published: 11/10/2024 16:54:38 by AMSoftwareNL
@@ -2006,38 +2038,4 @@ __Downloads__: 4,072 | __Repository__: https://github.com/masters274/pfSense_API
 
 __Downloads__: 124 | __Repository__: https://github.com/MatrTech/quickpath
 
-## [PermacultureTreeGuildsDesigner](https://www.powershellgallery.com/Packages/PermacultureTreeGuildsDesigner/1.0) | 1.0
-
-### Published: 11/10/2024 11:48:58 by Sebastian Schucht
-
-This module generates map elements and management cards for your permaculture design management game. The aim of these elements is to make the design process easier, more flexible and simpler, more flexible and to the point. There are several game components targeting different steps within the permaculture design process:
-        1. Tree Circles: These are round elements that you can place on your map to check that the plants are positioned correctly.
-        2. Stripe cards: These cards help you to plan a patch on your map. It allows you to get a deeper look at your polyculture/guild plan.
-
-__Downloads__: 3 | __Repository__: 
-
-## [AzVnetTools](https://www.powershellgallery.com/Packages/AzVnetTools/0.0.3) | 0.0.3
-
-### Published: 11/10/2024 10:44:18 by FredrikRydin
-
-Module to help find next free Subnet in Azure Virtual Network and more
-
-__Downloads__: 22 | __Repository__: https://github.com/Fredrik81/AzVnetTools
-
-## [d365fo.tools](https://www.powershellgallery.com/Packages/d365fo.tools/0.7.18) | 0.7.18
-
-### Published: 11/10/2024 10:41:18 by M�tz Jensen & Rasmus Andersen
-
-A set of tools that will assist you when working with Dynamics 365 Finance & Operations development / demo machines.
-
-__Downloads__: 399,104 | __Repository__: https://github.com/d365collaborative/d365fo.tools
-
-## [SqlQueryHelper](https://www.powershellgallery.com/Packages/SqlQueryHelper/1.0.4) | 1.0.4
-
-### Published: 11/10/2024 08:46:45 by Saw-Friendship
-
-CmdLets for easy creation of an sql query
-
-__Downloads__: 7,090 | __Repository__: 
-
-*Updated: Thursday, 14 November 2024 09:51:56 UTC*
+*Updated: Thursday, 14 November 2024 17:51:54 UTC*
