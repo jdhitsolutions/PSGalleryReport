@@ -2144,4 +2144,4 @@ Dynamics 365 CE PowerShell Cmdlets to support automation of common build and dep
 
 __Downloads__: 669,827 | __Repository__: https://github.com/WaelHamze/xrm-ci-framework/
 
-*Updated: Thursday, 14 November 2024 17:52:00 UTC*
+*Updated: Friday, 15 November 2024 02:16:59 UTC*
