@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Thursday, 14 November 2024 17:52:03 UTC
+Updated: Friday, 15 November 2024 02:17:02 UTC
 
 .bat
 .env
@@ -19,6 +19,7 @@ Updated: Thursday, 14 November 2024 17:52:03 UTC
 🍄
 🍣
 💩
+🙇
 1&1
 10
 11
@@ -205,7 +206,6 @@ administrativeuser
 administrator
 admintools
 adml
-admonition
 admpwd
 admx
 ado
@@ -252,7 +252,6 @@ agenda
 agent
 aggregates
 aggregation
-agile
 agility
 agm
 agnoster
@@ -667,12 +666,10 @@ axapta
 axcient
 axcient_x360recover
 axinom
-axis
 axium
 ayx
 az
 az-cli
-az.runtimeenvironment
 az.stackhci
 azautomation
 azcli
@@ -687,6 +684,7 @@ aznetworking
 aznetworkinterface
 aznicdetails
 azops
+azpipelines
 azpublicipaddress
 azresources
 azsdk
@@ -1050,9 +1048,7 @@ calculate
 calculator
 calendar
 callingcode
-callout
 callqueue
-calvin-and-hobbes
 cam
 camera
 cameras
@@ -1221,7 +1217,6 @@ cinst
 cipher
 cipp
 circuit-breaker
-circumlunar
 cireson
 ciresonassetmanagement
 ciresonportal
@@ -1632,7 +1627,6 @@ cqdpowershell
 cqhttp
 crack psmodule
 crash
-crawler
 crayon
 crc
 crc32
@@ -1877,7 +1871,6 @@ dcom
 dcr
 ddc
 ddc/ci
-ddns
 debian
 debug
 debug-files
@@ -1945,6 +1938,7 @@ deploy
 deployment
 deploymentconfig
 deploymentresourceprovider
+deploymenttasks
 depute
 der
 description
@@ -2024,6 +2018,8 @@ directories
 directory
 directory psedition_core psedition_desktop
 directory-transform
+directorycleanup
+directorymanagement
 directorymarks
 directoryname
 directorysearcher
@@ -2195,7 +2191,6 @@ driftmonitor
 drink
 drive
 drive letter
-drivemap
 driver
 driverpacks
 drivers
@@ -2441,6 +2436,7 @@ error
 error-log
 errorcode
 errorfile
+errorhandling
 errors
 errorview
 eryph
@@ -2583,10 +2579,8 @@ exportteams
 expression
 extend
 extended
-extendedattributes
 extendedevents
 extendedgroups
-extendedproperties
 extendedproperty
 extendscript
 extensibility
@@ -2678,16 +2672,15 @@ file-system
 file-transform
 file-type
 file-type-association
-fileattributes
 fileencryption
 filelist
 filelog
 filelogger
+filemaintenance
 filemanagement
 filematcher
 filename
 filenames
-fileproperties
 filereplication
 files
 files-cli
@@ -2752,8 +2745,6 @@ fitbit
 fits
 five
 five9
-fix-log
-fix-protocol
 fixlet
 fixpack
 flac
@@ -2763,7 +2754,6 @@ flash
 flasharray
 flatfile
 flatten
-flavor
 fleet
 fleetappsmanagement
 fleetsoftwareupdate
@@ -2818,6 +2808,7 @@ fortigate
 fortigi
 fortimanager
 fortinet
+fortinetmanager
 fortios
 fortune
 forum
@@ -2913,9 +2904,6 @@ gdpr
 gedit
 gem
 gemini
-geminiprotocol
-gemlog
-gemtext
 genai
 general
 generate
@@ -3046,7 +3034,6 @@ goldsource-dedicated-server
 google
 google-chrome
 google-fonts
-google-histogram
 google-sankey
 google-table
 googleadsv2
@@ -3162,7 +3149,6 @@ handler
 handy
 hangouts
 hannelstoolbox
-hanwha
 har
 hard
 hardblock
@@ -3333,7 +3319,6 @@ html
 html-templates
 http
 http_proxy
-httpclient
 httplistener
 https
 https_proxy
@@ -3999,7 +3984,6 @@ lmhosts
 lms
 load
 loadbalancer
-loadbalancer.org
 loader
 loadtesting
 loanddepot
@@ -4012,6 +3996,7 @@ localaccounts
 localadmin
 localconfigurationmanager
 localdb
+localdirectories
 locale
 localgroup
 localgroupmember
@@ -4484,7 +4469,6 @@ msband
 msbi
 msbuild
 msdeploy
-msdn
 msdtc
 msedge
 msexcel
@@ -5114,6 +5098,7 @@ passwordexpiration
 passwordexpiry
 passwordgeneration
 passwordgenerator
+passwordgenerators
 passwordhashing
 passwordless
 passwordlock
@@ -5198,7 +5183,6 @@ philips
 philosophical
 philpritchett
 phishing
-phoenix
 phone
 phoneautomation
 photo
@@ -5396,7 +5380,6 @@ postcode
 postgre
 postgres
 postgresql
-postgrest
 potato
 pow
 powdrgit
@@ -5474,6 +5457,7 @@ powershellml
 powershellmodule
 powershellmoduleupdate
 powershellpr0mpt
+powershellremoting
 powershellscript
 powershelltemplate
 powershelltraining
@@ -5483,7 +5467,6 @@ powershellv5
 powershellweb
 powerstig
 powerstore
-powertab
 powertoolcmdlets
 powertooldsc
 ppdm
@@ -5513,7 +5496,6 @@ presentation
 presenter
 presto
 preston-k-parsard
-prettifier
 pretty
 prettyprinter
 preview
@@ -5546,6 +5528,7 @@ privileged
 privilegedidentitymanagement
 privileges
 pro
+probability
 probe
 process
 process-inspector
@@ -5570,10 +5553,10 @@ profilevalidation
 proget
 program
 program-association
+programming
 programs
 progress
 progressbar
-progressbars
 project
 project-management
 projectmanagement
@@ -8618,7 +8601,6 @@ pubxml
 pulldistributionpoint
 pullrequest
 pullserver
-pulseway
 pulumi
 punycode
 puppet
@@ -8847,7 +8829,6 @@ region
 regions
 regiser-argumentcompleter
 register
-register-argumentcompleter
 registered
 registrar
 registration
@@ -8886,6 +8867,7 @@ remotedesktopconnectionmanager
 remotedesktopgateway
 remotedesktopmanager
 remotedesktopservices
+remotedirectories
 remotefiles
 remoteforensics
 remotehost
@@ -9271,7 +9253,6 @@ secrets
 secretsanta
 secretscanner
 secretserver
-secretsmanagement
 secretsmanager
 secretstore
 secretvault
@@ -9329,7 +9310,6 @@ selfhelp
 selfsigned
 semantic
 semantic-versioning
-semaphore
 semver
 senat
 senateur
@@ -9478,13 +9458,11 @@ show
 show-command
 show-objecttree
 show-on-command
-showdemo
 showoncommand
 shred
 shuf
 shutdown
 sid
-sidecar
 siem
 sif
 sigma
@@ -10331,6 +10309,7 @@ trello
 trellops
 trend
 trend-micro
+trendmicro
 trevor
 trevorsullivan
 triangle
@@ -10487,6 +10466,7 @@ unattend
 unattendedfile
 unblock
 unc
+uncpaths
 underlined-text
 unhide
 unicode
@@ -10517,7 +10497,6 @@ universaldashboard
 universialaccessgateway
 university
 unix
-unlinked
 unlock
 unprotect
 unsupported
@@ -10755,7 +10734,6 @@ voice
 voiceservices
 voidtools
 volkskrant
-volta
 volume
 volumelicense
 volumelicenseagreement
@@ -10792,7 +10770,6 @@ vscode
 vsdevcmd
 vsdevshell
 vsenvironment
-vsm
 vso
 vspc
 vsphere
@@ -10903,7 +10880,6 @@ wec
 wecutil
 weekday
 wef
-weixin
 well-known
 wem
 wemsdk
@@ -11008,6 +10984,7 @@ windowsdataprotectionapi
 windowsdefender
 windowsdesktop
 windowsdesktopsearch
+windowsdirectories
 windowsevent
 windowseventlog
 windowsform
@@ -11116,6 +11093,7 @@ workspaces
 workstation
 world
 worldcup
+worryfreebusinesssecurity
 wow
 wpad
 wpf

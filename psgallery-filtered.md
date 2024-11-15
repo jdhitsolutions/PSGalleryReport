@@ -3,6 +3,78 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [AppVeyorTestPsGallery](https://www.powershellgallery.com/Packages/AppVeyorTestPsGallery/1.0.618) | 1.0.618
+
+### Published: 11/15/2024 01:12:19 by Feodor Fitsner
+
+The test module to verify publishing to PSGallery from AppVeyor.
+
+__Downloads__: 42,457 | __Repository__: 
+
+## [Rivet](https://www.powershellgallery.com/Packages/Rivet/0.23.1) | 0.23.1
+
+### Published: 11/15/2024 01:08:01 by WebMD Health Services
+
+Rivet is a database migration/change management/versioning tool inspired by Ruby on Rails' Migrations. It creates and applies migration scripts for SQL Server databases. Migration scripts describe changes to make to your database, e.g. add a table, add a column, remove an index, etc. Migrations scripts should get added to your version control system so they can be packaged and deployed with your application's code.
+
+__Downloads__: 1,749 | __Repository__: http://get-rivet.org/
+
+## [Pmirin](https://www.powershellgallery.com/Packages/Pmirin/0.1.3) | 0.1.3
+
+### Published: 11/14/2024 23:30:51 by Jack Nemitz
+
+A Powershell module for managing Powershell modules.
+
+__Downloads__: 385 | __Repository__: 
+
+## [BCWHSendpoint](https://www.powershellgallery.com/Packages/BCWHSendpoint/1.1) | 1.1
+
+### Published: 11/14/2024 21:51:00 by Wadebach22
+
+Black Cat White Hit Security Presents Microsoft Windows Endpoint Security Module. Please view our website for more detailed information.
+
+__Downloads__: 25 | __Repository__: https://blackcatwhitehatsecurity.com/endpoint.cfm
+
+## [FMDevToolbox](https://www.powershellgallery.com/Packages/FMDevToolbox/1.0.1) | 1.0.1
+
+### Published: 11/14/2024 21:08:39 by Futuremotion
+
+Provides a large amount of functions related to file processing and transformation, as well as automating development workflows.
+
+__Downloads__: 1 | __Repository__: https://github.com/futuremotiondev/FMDevToolbox
+
+## [WindmillClient](https://www.powershellgallery.com/Packages/WindmillClient/1.424.0) | 1.424.0
+
+### Published: 11/14/2024 20:30:04 by Windmill Labs
+
+Client for the Windmill platform.
+
+__Downloads__: 1,356 | __Repository__: https://github.com/windmill-labs/windmill/tree/main/powershell-client
+
+## [sdp](https://www.powershellgallery.com/Packages/sdp/1.5.5) | 1.5.5
+
+### Published: 11/14/2024 20:17:48 by J.R. Phillips
+
+Powershell SDK for Silk (formerly Kaminario) cloud data platform.
+
+__Downloads__: 769 | __Repository__: https://github.com/silk-us/silk-sdp-powershell-sdk
+
+## [PowerBGInfo](https://www.powershellgallery.com/Packages/PowerBGInfo/0.0.4) | 0.0.4
+
+### Published: 11/14/2024 18:16:40 by Przemyslaw Klys
+
+PowerBGInfo is a module that allows you to create background images with information about your environment.
+
+__Downloads__: 95,619 | __Repository__: https://github.com/EvotecIT/PowerBGInfo
+
+## [TMD.Common](https://www.powershellgallery.com/Packages/TMD.Common/2.7.0) | 2.7.0
+
+### Published: 11/14/2024 17:47:31 by TransitionManager
+
+Provides commands to an end user within TMD PowerShell Scripts.
+
+__Downloads__: 1,464 | __Repository__: 
+
 ## [TransitionManager](https://www.powershellgallery.com/Packages/TransitionManager/6.6.0) | 6.6.0
 
 ### Published: 11/14/2024 17:22:41 by TransitionManager
@@ -17,7 +89,7 @@ __Downloads__: 1,647 | __Repository__:
 
 StackExchange.Redis cmdlets
 
-__Downloads__: 225 | __Repository__: https://github.com/nightroman/FarNet.Redis
+__Downloads__: 228 | __Repository__: https://github.com/nightroman/FarNet.Redis
 
 ## [spec.registry.management](https://www.powershellgallery.com/Packages/spec.registry.management/1.0.7) | 1.0.7
 
@@ -75,14 +147,6 @@ Lomtec.com SourceCode cmdlets
 
 __Downloads__: 1,075 | __Repository__: 
 
-## [Az.RuntimeEnvironment](https://www.powershellgallery.com/Packages/Az.RuntimeEnvironment/1.0.6) | 1.0.6
-
-### Published: 11/14/2024 09:06:41 by daoradmin
-
-Powershell Module for Azure Runtime Environment
-
-__Downloads__: 329 | __Repository__: https://github.com/daoradmin/Az.RuntimeEnvironment
-
 ## [TeamViewerPS](https://www.powershellgallery.com/Packages/TeamViewerPS/2.0.2) | 2.0.2
 
 ### Published: 11/14/2024 09:00:24 by TeamViewer Germany GmbH
@@ -113,7 +177,7 @@ __Downloads__: 1,118 | __Repository__:
 
 HPE Compute Ops Management PowerShell library
 
-__Downloads__: 0 | __Repository__: https://github.com/jullienl/HPE-COM-PowerShell-library
+__Downloads__: 13 | __Repository__: https://github.com/jullienl/HPE-COM-PowerShell-library
 
 ## [LOCToolkit](https://www.powershellgallery.com/Packages/LOCToolkit/1.0.1) | 1.0.1
 
@@ -121,7 +185,7 @@ __Downloads__: 0 | __Repository__: https://github.com/jullienl/HPE-COM-PowerShel
 
 Test module for Advanced PowerShell training
 
-__Downloads__: 34 | __Repository__: 
+__Downloads__: 38 | __Repository__: 
 
 ## [M365DSC.CompositeResources](https://www.powershellgallery.com/Packages/M365DSC.CompositeResources/1.24.1113.100) | 1.24.1113.100
 
@@ -153,7 +217,7 @@ __Downloads__: 625 | __Repository__: https://github.com/CLEAResult/it.devops.psm
 
 Panasonic PC Command for PowerShell | BIOS Settings
 
-__Downloads__: 126 | __Repository__: https://panasonic.net/cns/pc
+__Downloads__: 129 | __Repository__: https://panasonic.net/cns/pc
 
 ## [PanasonicCommandUpdate](https://www.powershellgallery.com/Packages/PanasonicCommandUpdate/2.10211.0.0) | 2.10211.0.0
 
@@ -161,7 +225,7 @@ __Downloads__: 126 | __Repository__: https://panasonic.net/cns/pc
 
 Panasonic PC Command for PowerShell | Update
 
-__Downloads__: 85 | __Repository__: https://panasonic.net/cns/pc
+__Downloads__: 88 | __Repository__: https://panasonic.net/cns/pc
 
 ## [Hardensysvol](https://www.powershellgallery.com/Packages/Hardensysvol/1.7.0) | 1.7.0
 
@@ -169,15 +233,7 @@ __Downloads__: 85 | __Repository__: https://panasonic.net/cns/pc
 
 Harden Sysvol is a Powershell Module to scan sysvol folder to search the sensitivity data, and vulnerability.
 
-__Downloads__: 224 | __Repository__: https://github.com/dakhama-mehdi/Harden-Sysvol
-
-## [WindmillClient](https://www.powershellgallery.com/Packages/WindmillClient/1.423.2) | 1.423.2
-
-### Published: 11/13/2024 23:36:50 by Windmill Labs
-
-Client for the Windmill platform.
-
-__Downloads__: 1,356 | __Repository__: https://github.com/windmill-labs/windmill/tree/main/powershell-client
+__Downloads__: 229 | __Repository__: https://github.com/dakhama-mehdi/Harden-Sysvol
 
 ## [PSSemVer](https://www.powershellgallery.com/Packages/PSSemVer/1.1.3) | 1.1.3
 
@@ -194,22 +250,6 @@ __Downloads__: 39,118 | __Repository__: https://github.com/PSModule/PSSemVer
 Module to handle SAML2 federation aggregates.
 
 __Downloads__: 4,922 | __Repository__: https://github.com/fedtools/adfstoolkit
-
-## [AppVeyorTestPsGallery](https://www.powershellgallery.com/Packages/AppVeyorTestPsGallery/1.0.616) | 1.0.616
-
-### Published: 11/13/2024 19:17:15 by Feodor Fitsner
-
-The test module to verify publishing to PSGallery from AppVeyor.
-
-__Downloads__: 42,457 | __Repository__: 
-
-## [sdp](https://www.powershellgallery.com/Packages/sdp/1.5.4) | 1.5.4
-
-### Published: 11/13/2024 17:40:09 by J.R. Phillips
-
-Powershell SDK for Silk (formerly Kaminario) cloud data platform.
-
-__Downloads__: 769 | __Repository__: https://github.com/silk-us/silk-sdp-powershell-sdk
 
 ## [Get-NetView](https://www.powershellgallery.com/Packages/Get-NetView/2024.11.13.242) | 2024.11.13.242
 
@@ -244,7 +284,7 @@ __Downloads__: 22,521 | __Repository__: https://github.com/rebelinux/Veeam.Diagr
 
 PowerShell Module to integrate Juriba DPC with ServiceNow.
 
-__Downloads__: 34 | __Repository__: https://github.com/juribalimited/powershell-module-dpc
+__Downloads__: 37 | __Repository__: https://github.com/juribalimited/powershell-module-dpc
 
 ## [PSBlueSky](https://www.powershellgallery.com/Packages/PSBlueSky/1.2.0) | 1.2.0
 
@@ -364,7 +404,7 @@ __Downloads__: 34 | __Repository__:
 
 A PowerShell module that manages contexts with secrets and variables.
 
-__Downloads__: 9 | __Repository__: https://github.com/PSModule/Context
+__Downloads__: 13 | __Repository__: https://github.com/PSModule/Context
 
 ## [AdminToolbox](https://www.powershellgallery.com/Packages/AdminToolbox/11.1.0.14) | 11.1.0.14
 
@@ -1701,7 +1741,7 @@ __Downloads__: 272,921 | __Repository__: https://github.com/oracle/oci-powershel
 
 One Zero One custom functions
 
-__Downloads__: 11 | __Repository__: https://github.com/onezeroone-dev/OZO-PowerShell-Module
+__Downloads__: 13 | __Repository__: https://github.com/onezeroone-dev/OZO-PowerShell-Module
 
 ## [AzureDevOpsIngest](https://www.powershellgallery.com/Packages/AzureDevOpsIngest/0.3.10.0) | 0.3.10.0
 
@@ -1733,7 +1773,7 @@ __Downloads__: 1,719 | __Repository__:
 
 Opinionated module to scaffold, manage and help build standardized powershell modules implementing best pratcises out of the box with ease.
 
-__Downloads__: 326 | __Repository__: https://github.com/Stephanevg/PsKrane
+__Downloads__: 329 | __Repository__: https://github.com/Stephanevg/PsKrane
 
 ## [SMART-BcBuildHelper](https://www.powershellgallery.com/Packages/SMART-BcBuildHelper/1.5.35) | 1.5.35
 
@@ -1775,7 +1815,7 @@ __Downloads__: 11,061 | __Repository__: https://github.com/Devolutions/devolutio
 
 N-DIMENSIONS Automation Framework Setup. `n- Prepare machine for downloading git repositories. Installs git related client software `n- Downloads the NAF repositories
 
-__Downloads__: 442 | __Repository__: https://blog.n-dimensions.de/
+__Downloads__: 444 | __Repository__: https://blog.n-dimensions.de/
 
 ## [Permission](https://www.powershellgallery.com/Packages/Permission/0.0.905) | 0.0.905
 
@@ -1863,7 +1903,7 @@ __Downloads__: 2,382 | __Repository__: https://github.com/WodongaTAFE/PSMoodle
 
 This powershell module will assist customers in managing and setting group based licensing.
 
-__Downloads__: 119 | __Repository__: 
+__Downloads__: 130 | __Repository__: 
 
 ## [PowerShell.DynamicBatch](https://www.powershellgallery.com/Packages/PowerShell.DynamicBatch/2.17) | 2.17
 
@@ -1879,7 +1919,7 @@ __Downloads__: 1,996 | __Repository__:
 
 PowerShell module for loading .env files into environment variables
 
-__Downloads__: 75 | __Repository__: https://github.com/juangelos/DotEnv-Tools
+__Downloads__: 87 | __Repository__: https://github.com/juangelos/DotEnv-Tools
 
 ## [Particular.ServiceControl.Management](https://www.powershellgallery.com/Packages/Particular.ServiceControl.Management/6.0.1) | 6.0.1
 
@@ -1933,36 +1973,6 @@ This module lets you interact with the APIs provided by the Sitecore Customer En
 
 __Downloads__: 508 | __Repository__: https://www.github.com/jballe/SitecoreCecSearchModule
 
-## [M365Permissions](https://www.powershellgallery.com/Packages/M365Permissions/1.0.2) | 1.0.2
-
-### Published: 11/11/2024 07:14:27 by Jos Lieben (jos@lieben.nu)
-
-SUMMARY:
-
-    Report on permissions in a Microsoft 365 tenant. Provides a 360° view of what a given identity can see and do.
-
-    INSTALLATION:
-
-    Install-PSResource -Name M365Permissions -Repository PSGallery
-
-    EXAMPLES:
-
-    Get-AllM365Permissions -OutputFormat XLSX -expandGroups -ignoreCurrentUser
-    
-    Get-SpOPermissions -siteUrl "https://tenant.sharepoint.com/sites/site" -ExpandGroups -OutputFormat Default
-    
-    Get-SpOPermissions -teamName "INT-Finance Department" -OutputFormat XLSX,CSV
-    
-    get-AllSPOPermissions -ExpandGroups -OutputFormat XLSX -ignoreCurrentUser -IncludeOneDriveSites
-    
-    Get-EntraPermissions -OutputFormat XLSX -expandGroups
-
-    Get-ExOPermissions -OutputFormat XLSX -expandGroups -ignoreCurrentUser 
-
-    Please note that this module is provided AS-IS, no guarantees or warranties provided. Use at your own risk.
-
-__Downloads__: 248 | __Repository__: 
-
 ## [Adsi](https://www.powershellgallery.com/Packages/Adsi/4.0.377) | 4.0.377
 
 ### Published: 11/11/2024 06:34:29 by Jeremy La Camera
@@ -2004,38 +2014,4 @@ PowerShell implemtation of the Python's ctypes library for PInvoke methods
 
 __Downloads__: 332 | __Repository__: https://github.com/jborean93/PowerShell-ctypes
 
-## [Devdeer.Caf](https://www.powershellgallery.com/Packages/Devdeer.Caf/0.12.3) | 0.12.3
-
-### Published: 11/10/2024 18:20:58 by DEVDEER
-
-This module contains the functions to manage and prepare Azure Tenants in a CAF conform way.
-
-__Downloads__: 810 | __Repository__: https://docs.devdeer.io/caf/devdeer-caf-overview.html
-
-## [AMSoftware.Dataverse.PowerShell](https://www.powershellgallery.com/Packages/AMSoftware.Dataverse.PowerShell/0.4.0) | 0.4.0
-
-### Published: 11/10/2024 16:54:38 by AMSoftwareNL
-
-PowerShell Module for Power Platform Dataverse
-
-__Downloads__: 4 | __Repository__: https://github.com/AMSoftwareNL/DataversePowershell
-
-## [pfSense](https://www.powershellgallery.com/Packages/pfSense/0.9.9) | 0.9.9
-
-### Published: 11/10/2024 16:39:59 by Chris Masters
-
-pfSense management functions built for pfSense version 2.x
-
-__Downloads__: 4,072 | __Repository__: https://github.com/masters274/pfSense_API
-
-## [quickpath](https://www.powershellgallery.com/Packages/quickpath/0.10.4) | 0.10.4
-
-### Published: 11/10/2024 13:53:20 by Mark Visschers
-
-'quickpath' is a script to help easily navigate your system using the commandline.
-        Using aliases the script saves relative paths to quickly navigate to folders associated with the alias
-        and even makes it easy to open the folders/projects in your favorite tools.
-
-__Downloads__: 124 | __Repository__: https://github.com/MatrTech/quickpath
-
-*Updated: Thursday, 14 November 2024 17:51:54 UTC*
+*Updated: Friday, 15 November 2024 02:16:54 UTC*
