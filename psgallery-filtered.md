@@ -3,6 +3,38 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [SelectHtml](https://www.powershellgallery.com/Packages/SelectHtml/1.0.7) | 1.0.7
+
+### Published: 11/16/2024 23:18:01 by Brian Lalonde
+
+Extracts content from an HTML document using an XPath expression.
+
+__Downloads__: 1,306 | __Repository__: https://github.com/brianary/SelectHtml/
+
+## [HtmlToMarkdown](https://www.powershellgallery.com/Packages/HtmlToMarkdown/1.1.3) | 1.1.3
+
+### Published: 11/16/2024 23:12:13 by Brian Lalonde
+
+Converts HTML to Markdown/CommonMark.
+
+__Downloads__: 4,686 | __Repository__: https://github.com/brianary/HtmlToMarkdown/
+
+## [Context](https://www.powershellgallery.com/Packages/Context/2.0.4) | 2.0.4
+
+### Published: 11/16/2024 22:25:58 by PSModule
+
+A PowerShell module that manages contexts with secrets and variables.
+
+__Downloads__: 75 | __Repository__: https://github.com/PSModule/Context
+
+## [tiPS](https://www.powershellgallery.com/Packages/tiPS/1.3.20) | 1.3.20
+
+### Published: 11/16/2024 20:09:34 by Daniel Schroeder
+
+PowerShell tips delivered straight to your terminal.
+
+__Downloads__: 11,090 | __Repository__: https://github.com/deadlydog/PowerShell.tiPS
+
 ## [WDACConfig](https://www.powershellgallery.com/Packages/WDACConfig/0.4.9) | 0.4.9
 
 ### Published: 11/16/2024 17:04:55 by HotCakeX
@@ -228,14 +260,6 @@ Logger
 
 __Downloads__: 102 | __Repository__: 
 
-## [Context](https://www.powershellgallery.com/Packages/Context/2.0.2) | 2.0.2
-
-### Published: 11/16/2024 00:46:45 by PSModule
-
-A PowerShell module that manages contexts with secrets and variables.
-
-__Downloads__: 75 | __Repository__: https://github.com/PSModule/Context
-
 ## [PSPreworkout](https://www.powershellgallery.com/Packages/PSPreworkout/1.6.0) | 1.6.0
 
 ### Published: 11/15/2024 20:28:06 by Sam Erde
@@ -366,6 +390,14 @@ __Downloads__: 293 | __Repository__:
 ConfigMgr healthcheck reporting
 
 __Downloads__: 6,870 | __Repository__: https://github.com/Skatterbrainz/CMHealthCheck
+
+## [linuxtools](https://www.powershellgallery.com/Packages/linuxtools/1.0.12) | 1.0.12
+
+### Published: 11/15/2024 04:56:42 by skatterbrainz
+
+An experimental PowerShell module for Linux nerds. Because: why not?
+
+__Downloads__: 111 | __Repository__: https://github.com/Skatterbrainz/LinuxTools
 
 ## [AppVeyorTestPsGallery](https://www.powershellgallery.com/Packages/AppVeyorTestPsGallery/1.0.619) | 1.0.619
 
@@ -2043,36 +2075,4 @@ This modules provides Cmdlets for OCI Aidocument Service
 
 __Downloads__: 6,069 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-## [OCI.PSModules.Aianomalydetection](https://www.powershellgallery.com/Packages/OCI.PSModules.Aianomalydetection/95.1.0) | 95.1.0
-
-### Published: 11/12/2024 18:41:20 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Aianomalydetection Service
-
-__Downloads__: 8,369 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Adm](https://www.powershellgallery.com/Packages/OCI.PSModules.Adm/95.1.0) | 95.1.0
-
-### Published: 11/12/2024 18:41:13 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Adm Service
-
-__Downloads__: 6,919 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Accessgovernancecp](https://www.powershellgallery.com/Packages/OCI.PSModules.Accessgovernancecp/95.1.0) | 95.1.0
-
-### Published: 11/12/2024 18:41:07 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Accessgovernancecp Service
-
-__Downloads__: 5,416 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Common](https://www.powershellgallery.com/Packages/OCI.PSModules.Common/95.1.0) | 95.1.0
-
-### Published: 11/12/2024 18:40:13 by Oracle Cloud Infrastructure
-
-OCI Common module exports Cmdlets that manages features offered by OCI Modules for Powershell like History Store, OCI Configuration file setup and Per-Session Region/Config/Profile preferences. Common module also contains some functionalties that are common to all OCI Service modules, therefore all OCI Service modules depends on Common module.
-
-__Downloads__: 273,198 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-*Updated: Saturday, 16 November 2024 17:51:41 UTC*
+*Updated: Sunday, 17 November 2024 02:19:19 UTC*

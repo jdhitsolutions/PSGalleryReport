@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Saturday, 16 November 2024 17:51:49 UTC
+Updated: Sunday, 17 November 2024 02:19:28 UTC
 
 .bat
 .env
@@ -206,6 +206,7 @@ administrativeuser
 administrator
 admintools
 adml
+admonition
 admpwd
 admx
 ado
@@ -972,7 +973,6 @@ brawlstars
 brazencloud
 bre
 breach
-break
 breakpoint
 brew
 brickset
@@ -1051,6 +1051,7 @@ calculate
 calculator
 calendar
 callingcode
+callout
 callqueue
 calvin-and-hobbes
 cam
@@ -1141,7 +1142,6 @@ certes
 certificate
 certificateauthority
 certificatechain
-certificatemanager
 certificatepolicy
 certificates
 certificateservices
@@ -1772,6 +1772,7 @@ dacl
 dacpac
 dacpackage
 dagger
+daily
 dalle3
 dane
 dangling
@@ -2040,6 +2041,8 @@ disable
 disable-internet
 disable-psremoting
 disablefilesyncngsc
+disablestartbutton
+disablestartkey
 disasm
 disasterrecovery
 disconnect
@@ -2240,6 +2243,7 @@ dts
 dtsx
 dtx
 du
+dual-stack
 duck
 duckdb
 duckduckgo
@@ -2575,7 +2579,6 @@ export-cmhealthreport
 export-data
 export-passlist
 exportcertificate
-exportcertificates
 exporter
 exportexcel
 exportteams
@@ -2763,6 +2766,7 @@ flash
 flasharray
 flatfile
 flatten
+flavor
 fleet
 fleetappsmanagement
 fleetsoftwareupdate
@@ -2939,6 +2943,7 @@ genxdev
 geo
 geocache
 geocaching
+geocode
 geoencode
 geoencoding
 geoip
@@ -3526,6 +3531,7 @@ inspect
 inspiration
 inspirationalquotes
 inspire
+inspur
 instagram
 install
 install-module
@@ -3541,6 +3547,7 @@ installwindows
 instance
 instant
 instapush
+instorage
 int
 intacct
 integrated
@@ -3634,6 +3641,7 @@ ipv6
 ipynb
 ir
 irc
+irkit
 irl
 irregular
 isadmin
@@ -3790,6 +3798,7 @@ key2wocas
 keybase
 keybinding
 keyboard
+keyboardstartkey
 keycipher
 keycloak
 keylight
@@ -4262,7 +4271,6 @@ mediaservices
 mediawiki
 meditation
 medlemsservice
-meesman
 meeting
 meetup
 meetup.com
@@ -4603,6 +4611,7 @@ ncal
 ncrestapi
 ndes
 nebulon
+nec-infrared-transmission-protocol
 necli
 nederland
 nedyalkov
@@ -4903,6 +4912,7 @@ ontap_pstk_9.8.0
 onyphe
 onyphe.io
 oob
+oop
 op
 opa
 opc
@@ -4930,6 +4940,7 @@ openssh
 opensshserver
 openssl
 openstack
+openstreetmaps
 openvpn
 openxml
 operating
@@ -4953,6 +4964,7 @@ optimize
 optimized
 optimizer
 option
+option119
 options
 optionstring
 opus
@@ -4986,6 +4998,7 @@ osdprogress
 osdsus
 osdupdate
 osi
+osm
 osmanagement
 osmanagementhub
 osp
@@ -5540,6 +5553,7 @@ privileged
 privilegedidentitymanagement
 privileges
 pro
+probability
 probe
 process
 process-inspector
@@ -8570,9 +8584,6 @@ pssendgrid
 pssession
 pssharper
 psslack
-pssqlite
-pssqlitebynarymodule
-pssqlitemodule
 pssqlserver
 pssqlserverbynarymodule
 pssqlservermodule
@@ -8897,7 +8908,6 @@ remove-itemproperty
 remove-pass
 remove-path
 remove-pinneditem
-remove-tempfiles
 removefile
 removetypeaccelerators
 remux
@@ -9256,6 +9266,7 @@ searchmanager
 searchplace
 searchquery
 searchstring
+searchsuffixlist
 secaas
 secedit
 secret
@@ -9598,7 +9609,6 @@ snowflake
 snsmssqlpsmodule
 snspsadgroupmembers
 snspsscriptsmonitoring
-snssqlitepsmodule
 sntp
 soap
 soc
@@ -9732,9 +9742,6 @@ sqldiagapi
 sqlexport
 sqlgateway
 sqlite
-sqlitebynarymodule
-sqlitebynarypsmodule
-sqlitemodule
 sqllocaldb
 sqlmanagementobjects
 sqlpackage
@@ -9808,6 +9815,7 @@ start
 start-job
 start-jobthread
 start-threadjob
+startkey
 startmen
 startmenu
 starttls
@@ -9870,7 +9878,6 @@ streamanalytics
 streaming
 streamreader
 streamwriter
-stretch
 strictmode
 strikethrough-text
 string
@@ -9894,7 +9901,6 @@ sub
 sub-directory
 sub-menu
 subatomix
-subjectname
 sublimetext
 submission
 subnet
@@ -10122,6 +10128,7 @@ terminal-interface
 terminal-services
 terminal.gui
 terminalnotifier
+terminalvelocity
 termset
 terraform
 terraform-docs
@@ -10263,6 +10270,7 @@ topgrade
 topics
 topleveldomain
 topology
+tor
 toradex
 torizon
 torrent
@@ -10452,6 +10460,7 @@ ud-tool
 ud-toploader
 ud-trendline
 ud-typing
+ud-window
 ud-wordtree
 udcm
 udfeedback
@@ -11223,7 +11232,6 @@ yamaha
 yaml
 yandex
 yandexdisk
-yapg
 yarn
 yetanotherhelloworld
 yml
