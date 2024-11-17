@@ -1619,7 +1619,7 @@ __Downloads__: 1,703,539 | __Repository__: https://github.com/adbertram/PSSoftwa
 
 Zerto PowerShell Commandlets
 
-__Downloads__: 1,678,069 | __Repository__: https://www.zerto.com/
+__Downloads__: 1,678,067 | __Repository__: https://www.zerto.com/
 
 ## [dbatools.library](https://www.powershellgallery.com/Packages/dbatools.library/2024.4.12) | 2024.4.12
 
@@ -2144,4 +2144,4 @@ Dynamics 365 CE PowerShell Cmdlets to support automation of common build and dep
 
 __Downloads__: 670,109 | __Repository__: https://github.com/WaelHamze/xrm-ci-framework/
 
-*Updated: Saturday, 16 November 2024 17:51:46 UTC*
+*Updated: Sunday, 17 November 2024 02:19:25 UTC*

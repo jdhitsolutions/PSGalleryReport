@@ -3,6 +3,38 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [SelectHtml](https://www.powershellgallery.com/Packages/SelectHtml/1.0.7) | 1.0.7
+
+### Published: 11/16/2024 23:18:01 by Brian Lalonde
+
+Extracts content from an HTML document using an XPath expression.
+
+__Downloads__: 1,306 | __Repository__: https://github.com/brianary/SelectHtml/
+
+## [HtmlToMarkdown](https://www.powershellgallery.com/Packages/HtmlToMarkdown/1.1.3) | 1.1.3
+
+### Published: 11/16/2024 23:12:13 by Brian Lalonde
+
+Converts HTML to Markdown/CommonMark.
+
+__Downloads__: 4,686 | __Repository__: https://github.com/brianary/HtmlToMarkdown/
+
+## [Context](https://www.powershellgallery.com/Packages/Context/2.0.4) | 2.0.4
+
+### Published: 11/16/2024 22:25:58 by PSModule
+
+A PowerShell module that manages contexts with secrets and variables.
+
+__Downloads__: 75 | __Repository__: https://github.com/PSModule/Context
+
+## [tiPS](https://www.powershellgallery.com/Packages/tiPS/1.3.20) | 1.3.20
+
+### Published: 11/16/2024 20:09:34 by Daniel Schroeder
+
+PowerShell tips delivered straight to your terminal.
+
+__Downloads__: 11,090 | __Repository__: https://github.com/deadlydog/PowerShell.tiPS
+
 ## [WDACConfig](https://www.powershellgallery.com/Packages/WDACConfig/0.4.9) | 0.4.9
 
 ### Published: 11/16/2024 17:04:55 by HotCakeX
@@ -227,14 +259,6 @@ __Downloads__: 19,097 | __Repository__: https://github.com/rebelinux/Diagrammer.
 Logger
 
 __Downloads__: 102 | __Repository__: 
-
-## [Context](https://www.powershellgallery.com/Packages/Context/2.0.2) | 2.0.2
-
-### Published: 11/16/2024 00:46:45 by PSModule
-
-A PowerShell module that manages contexts with secrets and variables.
-
-__Downloads__: 75 | __Repository__: https://github.com/PSModule/Context
 
 ## [AWS.Tools.XRay](https://www.powershellgallery.com/Packages/AWS.Tools.XRay/4.1.700) | 4.1.700
 
@@ -2466,34 +2490,4 @@ This version of AWS Tools for PowerShell is compatible with Windows PowerShell 5
 
 __Downloads__: 96 | __Repository__: https://github.com/aws/aws-tools-for-powershell
 
-## [AWS.Tools.GeoPlaces](https://www.powershellgallery.com/Packages/AWS.Tools.GeoPlaces/4.1.700) | 4.1.700
-
-### Published: 11/15/2024 23:24:17 by Amazon.com Inc
-
-The GeoPlaces module of AWS Tools for PowerShell lets developers and administrators manage Amazon Location Service Places V2 from the PowerShell scripting environment. In order to manage each AWS service, install the corresponding module (e.g. AWS.Tools.EC2, AWS.Tools.S3...).
-The module AWS.Tools.Installer (https://www.powershellgallery.com/packages/AWS.Tools.Installer/) makes it easier to install, update and uninstall the AWS.Tools modules.
-This version of AWS Tools for PowerShell is compatible with Windows PowerShell 5.1+ and PowerShell Core 6+ on Windows, Linux and macOS. When running on Windows PowerShell, .NET Framework 4.7.2 or newer is required. Alternative modules AWSPowerShell.NetCore and AWSPowerShell, provide support for all AWS services from a single module and also support older versions of Windows PowerShell and .NET Framework.
-
-__Downloads__: 95 | __Repository__: https://github.com/aws/aws-tools-for-powershell
-
-## [AWS.Tools.GeoMaps](https://www.powershellgallery.com/Packages/AWS.Tools.GeoMaps/4.1.700) | 4.1.700
-
-### Published: 11/15/2024 23:24:12 by Amazon.com Inc
-
-The GeoMaps module of AWS Tools for PowerShell lets developers and administrators manage Amazon Location Service Maps V2 from the PowerShell scripting environment. In order to manage each AWS service, install the corresponding module (e.g. AWS.Tools.EC2, AWS.Tools.S3...).
-The module AWS.Tools.Installer (https://www.powershellgallery.com/packages/AWS.Tools.Installer/) makes it easier to install, update and uninstall the AWS.Tools modules.
-This version of AWS Tools for PowerShell is compatible with Windows PowerShell 5.1+ and PowerShell Core 6+ on Windows, Linux and macOS. When running on Windows PowerShell, .NET Framework 4.7.2 or newer is required. Alternative modules AWSPowerShell.NetCore and AWSPowerShell, provide support for all AWS services from a single module and also support older versions of Windows PowerShell and .NET Framework.
-
-__Downloads__: 95 | __Repository__: https://github.com/aws/aws-tools-for-powershell
-
-## [AWS.Tools.GameLift](https://www.powershellgallery.com/Packages/AWS.Tools.GameLift/4.1.700) | 4.1.700
-
-### Published: 11/15/2024 23:24:07 by Amazon.com Inc
-
-The GameLift module of AWS Tools for PowerShell lets developers and administrators manage Amazon GameLift Service from the PowerShell scripting environment. In order to manage each AWS service, install the corresponding module (e.g. AWS.Tools.EC2, AWS.Tools.S3...).
-The module AWS.Tools.Installer (https://www.powershellgallery.com/packages/AWS.Tools.Installer/) makes it easier to install, update and uninstall the AWS.Tools modules.
-This version of AWS Tools for PowerShell is compatible with Windows PowerShell 5.1+ and PowerShell Core 6+ on Windows, Linux and macOS. When running on Windows PowerShell, .NET Framework 4.7.2 or newer is required. Alternative modules AWSPowerShell.NetCore and AWSPowerShell, provide support for all AWS services from a single module and also support older versions of Windows PowerShell and .NET Framework.
-
-__Downloads__: 18,894 | __Repository__: https://github.com/aws/aws-tools-for-powershell
-
-*Updated: Saturday, 16 November 2024 17:51:39 UTC*
+*Updated: Sunday, 17 November 2024 02:19:18 UTC*
