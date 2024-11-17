@@ -3,6 +3,72 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [AppVeyorTestPsGallery](https://www.powershellgallery.com/Packages/AppVeyorTestPsGallery/1.0.620) | 1.0.620
+
+### Published: 11/17/2024 06:54:23 by Feodor Fitsner
+
+The test module to verify publishing to PSGallery from AppVeyor.
+
+__Downloads__: 42,472 | __Repository__: 
+
+## [PSTcpIp](https://www.powershellgallery.com/Packages/PSTcpIp/6.2.0) | 6.2.0
+
+### Published: 11/17/2024 04:38:39 by Anthony Guimelli
+
+Provides cmdlets to perform various TCPIP and TLS/SSL related tasks.
+
+__Downloads__: 8,109 | __Repository__: https://github.com/anthonyg-1/PSTcpIp
+
+## [FogApi](https://www.powershellgallery.com/Packages/FogApi/2411.9.17) | 2411.9.17
+
+### Published: 11/17/2024 04:10:17 by JJ Fullmer FOG Project
+
+# FOG Api Powershell Module
+
+This is a powershell module to simplify the use of the Fog Project API.
+This module is used to easily run Fog API commands on your fogserver from a powershell console or script.
+FOG is an opensource tool for imaging comptuters, this module uses the API on your internal fog server to 
+perform almost any operation you can do in the GUI of Fog and provides you with the ability to extend things further.
+It can be used to create more automation or to simply have a command line method of controlling fog operations.
+This essentially gives you a crossplatform commandline interface for fog tasks and makes many things easier to automate.
+
+Docs for this module can be found at https://fogapi.readthedocs.io/en/latest/
+
+For more information about FOG see
+
+- https://FOGProject.org
+- https://docs.fogproject.org
+- https://github.com/FOGProject
+- https://github.com/FOGProject/fogproject
+- https://forums.fogproject.org
+
+# Versioning
+
+The versioning of this module follows this pattern
+
+`{Year|Month}.{Major Version}.{Revision #}`
+
+See https://github.com/darksidemilk/FogApi?tab=readme-ov-file#versioning for more info
+
+# Usage
+
+You can use Set-fogserverSettings to set your fogserver hostname and api keys.
+Or, the first time you try to run a command the settings.json file will automatically open in an OS Specific editor.
+You can also open the settings.json file and edit it manually before running your first command.
+The default settings are explanations of where to find the proper settings since json cannot have comments
+
+Once the settings are set you can utilze the fog documentation found here https://news.fogproject.org/simplified-api-documentation/ that was used to model the parameters for Get-FogObject, Update-FogObject, and Remove-FogObject.
+You can also utilize simpler functions of common tasks, see the links below for more info.
+
+# Additional info
+
+  - Examples and More: https://github.com/darksidemilk/FogApi/blob/master/README.md
+  - All Commands - https://fogapi.readthedocs.io/en/latest/commands/
+  - FogForums module thread: https://forums.fogproject.org/topic/12026/powershell-api-module/2
+  - Full change log available at https://fogapi.readthedocs.io/en/latest/ReleaseNotes/
+
+__Downloads__: 32,986 | __Repository__: https://github.com/darksidemilk/FogApi
+
 ## [SelectHtml](https://www.powershellgallery.com/Packages/SelectHtml/1.0.7) | 1.0.7
 
 ### Published: 11/16/2024 23:18:01 by Brian Lalonde
@@ -2460,34 +2526,4 @@ This version of AWS Tools for PowerShell is compatible with Windows PowerShell 5
 
 __Downloads__: 22,621 | __Repository__: https://github.com/aws/aws-tools-for-powershell
 
-## [AWS.Tools.SQS](https://www.powershellgallery.com/Packages/AWS.Tools.SQS/4.1.700) | 4.1.700
-
-### Published: 11/15/2024 23:24:36 by Amazon.com Inc
-
-The SQS module of AWS Tools for PowerShell lets developers and administrators manage Amazon Simple Queue Service (SQS) from the PowerShell scripting environment. In order to manage each AWS service, install the corresponding module (e.g. AWS.Tools.EC2, AWS.Tools.S3...).
-The module AWS.Tools.Installer (https://www.powershellgallery.com/packages/AWS.Tools.Installer/) makes it easier to install, update and uninstall the AWS.Tools modules.
-This version of AWS Tools for PowerShell is compatible with Windows PowerShell 5.1+ and PowerShell Core 6+ on Windows, Linux and macOS. When running on Windows PowerShell, .NET Framework 4.7.2 or newer is required. Alternative modules AWSPowerShell.NetCore and AWSPowerShell, provide support for all AWS services from a single module and also support older versions of Windows PowerShell and .NET Framework.
-
-__Downloads__: 637,418 | __Repository__: https://github.com/aws/aws-tools-for-powershell
-
-## [AWS.Tools.SimpleNotificationService](https://www.powershellgallery.com/Packages/AWS.Tools.SimpleNotificationService/4.1.700) | 4.1.700
-
-### Published: 11/15/2024 23:24:28 by Amazon.com Inc
-
-The SimpleNotificationService module of AWS Tools for PowerShell lets developers and administrators manage Amazon Simple Notification Service (SNS) from the PowerShell scripting environment. In order to manage each AWS service, install the corresponding module (e.g. AWS.Tools.EC2, AWS.Tools.S3...).
-The module AWS.Tools.Installer (https://www.powershellgallery.com/packages/AWS.Tools.Installer/) makes it easier to install, update and uninstall the AWS.Tools modules.
-This version of AWS Tools for PowerShell is compatible with Windows PowerShell 5.1+ and PowerShell Core 6+ on Windows, Linux and macOS. When running on Windows PowerShell, .NET Framework 4.7.2 or newer is required. Alternative modules AWSPowerShell.NetCore and AWSPowerShell, provide support for all AWS services from a single module and also support older versions of Windows PowerShell and .NET Framework.
-
-__Downloads__: 3,308,754 | __Repository__: https://github.com/aws/aws-tools-for-powershell
-
-## [AWS.Tools.GeoRoutes](https://www.powershellgallery.com/Packages/AWS.Tools.GeoRoutes/4.1.700) | 4.1.700
-
-### Published: 11/15/2024 23:24:22 by Amazon.com Inc
-
-The GeoRoutes module of AWS Tools for PowerShell lets developers and administrators manage Amazon Location Service Routes V2 from the PowerShell scripting environment. In order to manage each AWS service, install the corresponding module (e.g. AWS.Tools.EC2, AWS.Tools.S3...).
-The module AWS.Tools.Installer (https://www.powershellgallery.com/packages/AWS.Tools.Installer/) makes it easier to install, update and uninstall the AWS.Tools modules.
-This version of AWS Tools for PowerShell is compatible with Windows PowerShell 5.1+ and PowerShell Core 6+ on Windows, Linux and macOS. When running on Windows PowerShell, .NET Framework 4.7.2 or newer is required. Alternative modules AWSPowerShell.NetCore and AWSPowerShell, provide support for all AWS services from a single module and also support older versions of Windows PowerShell and .NET Framework.
-
-__Downloads__: 96 | __Repository__: https://github.com/aws/aws-tools-for-powershell
-
-*Updated: Sunday, 17 November 2024 02:19:18 UTC*
+*Updated: Sunday, 17 November 2024 09:51:41 UTC*

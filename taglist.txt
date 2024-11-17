@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Sunday, 17 November 2024 02:19:28 UTC
+Updated: Sunday, 17 November 2024 09:51:51 UTC
 
 .bat
 .env
@@ -190,7 +190,6 @@ adfstools
 adgroupmemberobjects
 adgroupmembers
 adgroups
-adidns
 adif
 adlds
 adm
@@ -906,7 +905,6 @@ biztalk
 biztalkalm
 biztalkdeploymentframework
 bks
-black
 blackbaud
 blackberry
 blackberryuem
@@ -935,7 +933,6 @@ blueprints
 bluesky
 blueteam
 bluetraitio
-bluetuxedo
 bmc
 bnm
 boards
@@ -973,6 +970,7 @@ brawlstars
 brazencloud
 bre
 breach
+break
 breakpoint
 brew
 brickset
@@ -987,7 +985,6 @@ brk4452
 broadcast
 broadcom
 broot
-brownserve-uk
 browser
 browserbox
 browserextension
@@ -1096,7 +1093,6 @@ catimage
 cats
 catty
 cavium
-cb
 cblueshell
 cbr
 cbz
@@ -2067,7 +2063,6 @@ dismal
 display
 display_dialog
 displayresolution
-distance
 distinguishedname
 distributed-systems
 distributed-tracing
@@ -2154,7 +2149,6 @@ domain
 domaincontroller
 domainkey
 domainname
-domainnamesystem
 domains
 domino
 done.land
@@ -2291,7 +2285,6 @@ dynamics365sales
 dynamics365server
 dynamicsax
 dynamicsecuritygroups
-dynamicsnav
 dynamodb
 dynatrace
 dynatraceobservability
@@ -3251,7 +3244,6 @@ hidden
 hide
 hids
 hiera
-hierarchialdistributionlist
 hierarchical
 hierarchy
 high-availability
@@ -3386,7 +3378,6 @@ ib
 ibm
 ibmc
 ibmhttpserver
-icacl
 icann
 icinga
 icinga2
@@ -4217,7 +4208,6 @@ marvellfcprovider
 marvellqlogicfcpowerkit
 mas
 mask
-mass
 masstransit
 masterconfiguration
 match
@@ -4271,6 +4261,7 @@ mediaservices
 mediawiki
 meditation
 medlemsservice
+meesman
 meeting
 meetup
 meetup.com
@@ -4583,7 +4574,6 @@ n-central
 nabu
 nac
 nagios
-nakivo
 name
 name-of-dogs
 namedpipe
@@ -4964,7 +4954,6 @@ optimize
 optimized
 optimizer
 option
-option119
 options
 optionstring
 opus
@@ -5408,7 +5397,6 @@ pow
 powdrgit
 power
 power-apps
-power-cbr
 power-platform
 power-shell
 powerapps
@@ -8584,6 +8572,9 @@ pssendgrid
 pssession
 pssharper
 psslack
+pssqlite
+pssqlitebynarymodule
+pssqlitemodule
 pssqlserver
 pssqlserverbynarymodule
 pssqlservermodule
@@ -8908,6 +8899,7 @@ remove-itemproperty
 remove-pass
 remove-path
 remove-pinneditem
+remove-tempfiles
 removefile
 removetypeaccelerators
 remux
@@ -9138,6 +9130,7 @@ sample
 sampler
 samurai
 san
+sand
 sandbox
 sanitization
 sanitizer
@@ -9266,7 +9259,6 @@ searchmanager
 searchplace
 searchquery
 searchstring
-searchsuffixlist
 secaas
 secedit
 secret
@@ -9609,6 +9601,7 @@ snowflake
 snsmssqlpsmodule
 snspsadgroupmembers
 snspsscriptsmonitoring
+snssqlitepsmodule
 sntp
 soap
 soc
@@ -9742,6 +9735,9 @@ sqldiagapi
 sqlexport
 sqlgateway
 sqlite
+sqlitebynarymodule
+sqlitebynarypsmodule
+sqlitemodule
 sqllocaldb
 sqlmanagementobjects
 sqlpackage
@@ -9878,6 +9874,7 @@ streamanalytics
 streaming
 streamreader
 streamwriter
+stretch
 strictmode
 strikethrough-text
 string
@@ -10460,7 +10457,6 @@ ud-tool
 ud-toploader
 ud-trendline
 ud-typing
-ud-window
 ud-wordtree
 udcm
 udfeedback
@@ -10506,7 +10502,6 @@ unique-files
 unit
 unit_testing
 unit-testing
-unitconvesion
 unittest
 unittesting
 unity
@@ -11135,7 +11130,6 @@ write-color
 write-colour
 write-debug
 write-host
-write-information
 write-log
 write-loganalytics
 write-message
