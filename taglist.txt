@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 18 November 2024 09:51:53 UTC
+Updated: Monday, 18 November 2024 17:52:19 UTC
 
 .bat
 .env
@@ -45,6 +45,7 @@ Updated: Monday, 18 November 2024 09:51:53 UTC
 365
 36867
 3cx
+3d
 3dprinting
 3par
 50
@@ -115,6 +116,7 @@ actionplan
 actions
 activate
 activation
+activationscripts
 active
 active_directory
 active-directory
@@ -412,6 +414,7 @@ appattach
 appclusive
 appcmd
 appconfiguration
+appdynamics
 appearance
 appender
 appian
@@ -458,6 +461,7 @@ apt
 apt-get
 apt-get-update
 apteco
+aptitude
 aql
 arangodb
 arc
@@ -1139,6 +1143,7 @@ certes
 certificate
 certificateauthority
 certificatechain
+certificatemanager
 certificatepolicy
 certificates
 certificateservices
@@ -1395,6 +1400,7 @@ colour
 column
 columns
 com
+combinations
 combine
 comdata
 comedy
@@ -1737,6 +1743,7 @@ customproviders
 cutehttpfileserver
 cvad
 cve
+cve-2021-34527
 cvrf
 cvss
 cwi
@@ -2575,6 +2582,7 @@ export-cmhealthreport
 export-data
 export-passlist
 exportcertificate
+exportcertificates
 exporter
 exportexcel
 exportteams
@@ -2800,6 +2808,7 @@ forensic
 forensics
 forest
 forestdiscovery
+forgit
 forgiveness
 form
 format
@@ -3046,6 +3055,7 @@ google-chrome
 google-fonts
 google-histogram
 google-sankey
+google-table
 googleadsv2
 googlecloudplatform
 googledrive
@@ -3351,6 +3361,7 @@ humor
 humorous
 humour
 hunter
+hwid
 hybrid
 hybridrunbookworker
 hyper-v
@@ -4058,6 +4069,7 @@ login
 login-azurermaccount
 login-rdp
 logingestion
+loginscreen
 loginsight
 logiphys
 logistic
@@ -4114,6 +4126,7 @@ maatschap-fortigi
 mac
 mac-address
 macaddress
+macadmins
 machine
 machinelearning
 machinelearningcompute
@@ -4204,6 +4217,7 @@ marvell_semiconductor_inc
 marvellfcpowerkit
 marvellfcprovider
 marvellqlogicfcpowerkit
+mas
 mask
 mass
 masstransit
@@ -4273,7 +4287,6 @@ members
 membership
 memcm
 memory
-memorydump
 memorystream
 mention
 menu
@@ -4383,6 +4396,7 @@ misc
 miscellaneous
 mistral
 mistralai
+mitigation
 mitre
 mitre_att&ck
 mitrend
@@ -4696,6 +4710,7 @@ nginx
 nhl
 nic
 nic.ru
+nightmare
 ninite
 ninja
 ninjaone
@@ -4748,7 +4763,6 @@ npm
 npm-proxy
 npm-upgrade
 nprinting
-nprintingapi
 nps
 npslog
 npslogfile
@@ -4801,6 +4815,7 @@ oauth
 oauth2
 oauth2.0
 oberstufe
+obj
 object
 objectid
 objectstorage
@@ -5155,6 +5170,7 @@ peheader
 pem
 pemfile
 pendingreboot
+penetration
 penetrationtesting
 pentesting
 pentia
@@ -5167,6 +5183,7 @@ performancemonitoring
 perl
 permission
 permissions
+permutations
 persistence
 persistent
 personal
@@ -5254,6 +5271,7 @@ plug-n-copy
 plugin
 plugins
 pluralsight
+ply
 pmp
 pncit
 pnp
@@ -5264,6 +5282,7 @@ pode
 poe
 poem
 poetry
+point
 point-to-site
 pointer
 pokeapi
@@ -5338,6 +5357,7 @@ poshy-sh-isms
 poshy-sshconfig
 poshy-viewer-finder
 poshy-wrap
+poshy-wrap-apt
 poshy-wrap-argcomplete
 poshy-wrap-brew
 poshy-wrap-curl
@@ -5345,6 +5365,7 @@ poshy-wrap-dnf
 poshy-wrap-docker
 poshy-wrap-docker-compose
 poshy-wrap-dotnet
+poshy-wrap-forgit
 poshy-wrap-gem
 poshy-wrap-gh
 poshy-wrap-git
@@ -5514,6 +5535,7 @@ printer
 printers
 printershare
 printing
+printnightmare
 printserver
 prism
 prism_element
@@ -5648,6 +5670,10 @@ pscommand_6
 pscommand_7
 pscommand_8
 pscommand_9
+pscommand_aar
+pscommand_acp
+pscommand_acse
+pscommand_acsp
 pscommand_add_ssh
 pscommand_add-envpathitem
 pscommand_add-envvarpathitem
@@ -5661,7 +5687,16 @@ pscommand_add-gittrackedfiles
 pscommand_add-gittrackedfilesall
 pscommand_add-gittrackedfilesinteractively
 pscommand_add-gittrackedfilesverbosely
+pscommand_afs
+pscommand_age
+pscommand_agli
+pscommand_aglu
+pscommand_allpkgs
+pscommand_app
+pscommand_apt-history
+pscommand_apt-list-packages
 pscommand_arch
+pscommand_asrc
 pscommand_basename
 pscommand_bcubc
 pscommand_bcubo
@@ -5915,6 +5950,29 @@ pscommand_fmtstrikethrough
 pscommand_fmtstrikethroughoff
 pscommand_fmtunderline
 pscommand_fmtunderlineoff
+pscommand_forgit-add
+pscommand_forgit-blame
+pscommand_forgit-branch-delete
+pscommand_forgit-checkout-branch
+pscommand_forgit-checkout-commit
+pscommand_forgit-checkout-file
+pscommand_forgit-checkout-tag
+pscommand_forgit-cherry-pick
+pscommand_forgit-cherry-pick-from-branch
+pscommand_forgit-clean
+pscommand_forgit-diff
+pscommand_forgit-fixup
+pscommand_forgit-ignore
+pscommand_forgit-ignore-clean
+pscommand_forgit-ignore-list
+pscommand_forgit-ignore-update
+pscommand_forgit-ignoreget
+pscommand_forgit-log
+pscommand_forgit-rebase
+pscommand_forgit-reset-head
+pscommand_forgit-revert-commit
+pscommand_forgit-stash-push
+pscommand_forgit-stash-show
 pscommand_format-batcatstyle
 pscommand_format-lesstermcapenv
 pscommand_format-viewerinvocationsh
@@ -5957,6 +6015,7 @@ pscommand_gcame
 pscommand_gcamg
 pscommand_gcams
 pscommand_gcamu
+pscommand_gcb
 pscommand_gcd
 pscommand_gcem
 pscommand_gcf
@@ -6010,6 +6069,7 @@ pscommand_geli
 pscommand_geo
 pscommand_geoe
 pscommand_get
+pscommand_get-aptinstalledpackages
 pscommand_get-childitemcolorfully
 pscommand_get-childitemcolorfullycramped
 pscommand_get-childitemcolorfullyrevealingly
@@ -6103,6 +6163,7 @@ pscommand_gflrs
 pscommand_gfo
 pscommand_gft
 pscommand_gftv
+pscommand_gfu
 pscommand_gfv
 pscommand_gg
 pscommand_ggb
@@ -6111,6 +6172,7 @@ pscommand_ggs
 pscommand_ggui
 pscommand_ggup
 pscommand_ghm
+pscommand_gi
 pscommand_gignore
 pscommand_gignored
 pscommand_git_blame_line
@@ -6218,6 +6280,7 @@ pscommand_gra
 pscommand_grb
 pscommand_grbc
 pscommand_grbm
+pscommand_grc
 pscommand_grem
 pscommand_grema
 pscommand_gremrm
@@ -6242,6 +6305,7 @@ pscommand_gsd
 pscommand_gsh
 pscommand_gshsf
 pscommand_gsl
+pscommand_gsp
 pscommand_gsr
 pscommand_gss
 pscommand_gssll
@@ -6288,6 +6352,14 @@ pscommand_hin
 pscommand_hostname
 pscommand_hse
 pscommand_hup
+pscommand_invoke-aptcachepolicy
+pscommand_invoke-aptcachesearch
+pscommand_invoke-aptcacheshowpkg
+pscommand_invoke-aptfilesearchbyregex
+pscommand_invoke-aptgetsource
+pscommand_invoke-aptlistinstalled
+pscommand_invoke-aptlistupgradable
+pscommand_invoke-aptpreferred
 pscommand_invoke-brewlistpinned
 pscommand_invoke-brewpin
 pscommand_invoke-brewuninstallzap
@@ -6898,6 +6970,7 @@ pscommand_keno
 pscommand_kens
 pscommand_kep
 pscommand_kepvc
+pscommand_kerndeb
 pscommand_kers
 pscommand_kes
 pscommand_kess
@@ -7412,6 +7485,7 @@ psfive9
 psfive9admin
 psfoldersize
 psfunction__python3
+psfunction_aar
 psfunction_add_ssh
 psfunction_add-envpathitem
 psfunction_add-envvarpathitem
@@ -7425,6 +7499,8 @@ psfunction_add-gittrackedfiles
 psfunction_add-gittrackedfilesall
 psfunction_add-gittrackedfilesinteractively
 psfunction_add-gittrackedfilesverbosely
+psfunction_apt-history
+psfunction_apt-list-packages
 psfunction_arch
 psfunction_basename
 psfunction_bgblack
@@ -7561,10 +7637,34 @@ psfunction_fmtstrikethrough
 psfunction_fmtstrikethroughoff
 psfunction_fmtunderline
 psfunction_fmtunderlineoff
+psfunction_forgit-add
+psfunction_forgit-blame
+psfunction_forgit-branch-delete
+psfunction_forgit-checkout-branch
+psfunction_forgit-checkout-commit
+psfunction_forgit-checkout-file
+psfunction_forgit-checkout-tag
+psfunction_forgit-cherry-pick
+psfunction_forgit-cherry-pick-from-branch
+psfunction_forgit-clean
+psfunction_forgit-diff
+psfunction_forgit-fixup
+psfunction_forgit-ignore
+psfunction_forgit-ignore-clean
+psfunction_forgit-ignore-list
+psfunction_forgit-ignore-update
+psfunction_forgit-ignoreget
+psfunction_forgit-log
+psfunction_forgit-rebase
+psfunction_forgit-reset-head
+psfunction_forgit-revert-commit
+psfunction_forgit-stash-push
+psfunction_forgit-stash-show
 psfunction_format-batcatstyle
 psfunction_format-lesstermcapenv
 psfunction_format-viewerinvocationsh
 psfunction_gdv
+psfunction_get-aptinstalledpackages
 psfunction_get-childitemcolorfully
 psfunction_get-childitemcolorfullycramped
 psfunction_get-childitemcolorfullyrevealingly
@@ -7664,6 +7764,14 @@ psfunction_gitignore-reload
 psfunction_gittowork
 psfunction_gplfs
 psfunction_hostname
+psfunction_invoke-aptcachepolicy
+psfunction_invoke-aptcachesearch
+psfunction_invoke-aptcacheshowpkg
+psfunction_invoke-aptfilesearchbyregex
+psfunction_invoke-aptgetsource
+psfunction_invoke-aptlistinstalled
+psfunction_invoke-aptlistupgradable
+psfunction_invoke-aptpreferred
 psfunction_invoke-brewlistpinned
 psfunction_invoke-brewpin
 psfunction_invoke-brewuninstallzap
@@ -8210,6 +8318,7 @@ psfunction_invoke-zypperversioncompare
 psfunction_invoke-zypperwhatprovides
 psfunction_invokeyumgrouplist
 psfunction_jump
+psfunction_kerndeb
 psfunction_kres
 psfunction_local-ignore
 psfunction_measure-envvarchanges
@@ -8885,6 +8994,7 @@ reverse-engineer
 reverse-string
 reversed-color-text
 reversedsc
+reverseengineering
 review
 revision
 reword
@@ -9145,6 +9255,7 @@ scrubber
 scsm
 scuba
 sd
+sddl
 sdk
 sdn
 sdp
@@ -9336,7 +9447,6 @@ shadowcopybackups
 shadowgroups
 shanehoey
 shanghaitech
-shard
 share
 share-permission
 share-stat
@@ -9442,7 +9552,6 @@ skype4business
 skypeforbusiness
 skypeforbusinessonline
 skypeonline
-skytap
 slack
 slash
 slashcommands
@@ -9601,6 +9710,7 @@ split
 splunk
 spn
 spo
+spooler
 sport
 sports
 sports-tracker
@@ -9798,6 +9908,7 @@ sub
 sub-directory
 sub-menu
 subatomix
+subjectname
 sublimetext
 submission
 subnet
@@ -10128,7 +10239,6 @@ timesheets
 timespan
 timezone
 tinkerpop
-tinymce
 tip
 tips
 titan
