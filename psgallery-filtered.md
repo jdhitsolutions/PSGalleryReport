@@ -3,9 +3,57 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
-## [OktaPS](https://www.powershellgallery.com/Packages/OktaPS/0.1.69) | 0.1.69
+## [PShell-AI](https://www.powershellgallery.com/Packages/PShell-AI/0.2.4) | 0.2.4
 
-### Published: 11/18/2024 01:42:46 by evan.x.yeung@gmail.com
+### Published: 11/18/2024 09:40:36 by Douglas Finke
+
+Is a minimal, powerful AI assistant in your console
+
+__Downloads__: 209 | __Repository__: https://github.com/dfinke/PShell-AI
+
+## [LOCToolkit](https://www.powershellgallery.com/Packages/LOCToolkit/1.0.2) | 1.0.2
+
+### Published: 11/18/2024 08:01:06 by Anton Minzyanov
+
+Powershell Module for learning purposes
+
+__Downloads__: 39 | __Repository__: 
+
+## [Adsi](https://www.powershellgallery.com/Packages/Adsi/4.0.391) | 4.0.391
+
+### Published: 11/18/2024 08:00:58 by Jeremy La Camera
+
+Use Active Directory Service Interfaces to query LDAP and WinNT directories
+
+__Downloads__: 4,405 | __Repository__: 
+
+## [Permission](https://www.powershellgallery.com/Packages/Permission/0.0.915) | 0.0.915
+
+### Published: 11/18/2024 06:45:52 by Jeremy La Camera
+
+Module for working with Access Control Lists
+
+__Downloads__: 5,417 | __Repository__: 
+
+## [SPClientCore](https://www.powershellgallery.com/Packages/SPClientCore/7.0.6.5) | 7.0.6.5
+
+### Published: 11/18/2024 05:10:43 by karamem0
+
+SharePoint Service Module for PowerShell
+
+__Downloads__: 2,967 | __Repository__: https://github.com/karamem0/sp-client-core
+
+## [UiPathOrch](https://www.powershellgallery.com/Packages/UiPathOrch/0.9.8.12) | 0.9.8.12
+
+### Published: 11/18/2024 05:06:00 by Yoshifumi Tsuda
+
+PowerShell providers for managing UiPath Orchestrator entities via cmdlets.
+
+__Downloads__: 1,729 | __Repository__: 
+
+## [OktaPS](https://www.powershellgallery.com/Packages/OktaPS/0.1.70) | 0.1.70
+
+### Published: 11/18/2024 02:20:47 by evan.x.yeung@gmail.com
 
 A PowerShell module for Okta administration. Supports credential, private key, and API authentication and pipelining objects.
 
@@ -25,7 +73,7 @@ __Downloads__: 115,182 | __Repository__: https://github.com/dlwyatt/ProtectedDat
 
 PowerShell Module to enable devops automation of AAGUID management of Passkey Providers. The FIDO2 specification requires each security key vendor to provide an Authenticator Attestation GUID (AAGUID) during registration. An AAGUID is a 128-bit identifier indicating the key type, such as the make and model. Passkey providers on desktop and mobile devices are also expected to provide an AAGUID during registration.
 
-__Downloads__: 49 | __Repository__: https://github.com/darrenjrobinson/passkey_provider_aaguids
+__Downloads__: 50 | __Repository__: https://github.com/darrenjrobinson/passkey_provider_aaguids
 
 ## [powershellYK](https://www.powershellgallery.com/Packages/powershellYK/0.0.16.0) | 0.0.16.0
 
@@ -67,14 +115,6 @@ The community module that enables SQL Server Pros to automate database developme
 
 __Downloads__: 5,042,846 | __Repository__: https://dbatools.io/
 
-## [Context](https://www.powershellgallery.com/Packages/Context/2.0.6) | 2.0.6
-
-### Published: 11/17/2024 18:20:26 by PSModule
-
-A PowerShell module that manages contexts with secrets and variables.
-
-__Downloads__: 254 | __Repository__: https://github.com/PSModule/Context
-
 ## [pwshBedrock](https://www.powershellgallery.com/Packages/pwshBedrock/0.33.0) | 0.33.0
 
 ### Published: 11/17/2024 18:09:01 by Jake Morrison
@@ -107,13 +147,21 @@ This module contains the functions to manage and prepare Azure Tenants in a CAF 
 
 __Downloads__: 843 | __Repository__: https://docs.devdeer.io/caf/devdeer-caf-overview.html
 
+## [PokeAPI](https://www.powershellgallery.com/Packages/PokeAPI/1.2.1) | 1.2.1
+
+### Published: 11/17/2024 14:10:06 by David Schulte
+
+This module provides a PowerShell wrapper for PokeAPI.This website provides a RESTful API interface to highly detailed objects built from thousands of lines of data related to Pokemon. We specifically cover the video game franchise. Using this website, you can consume information on Pokemon, their moves, abilities, types, egg groups and much, much more.
+
+__Downloads__: 48 | __Repository__: https://github.com/Celerium/PokeAPI-PowerShellWrapper
+
 ## [PSShamir](https://www.powershellgallery.com/Packages/PSShamir/1.0.2) | 1.0.2
 
 ### Published: 11/17/2024 12:47:18 by Conitental
 
 PowerShell implementation of shamirs secret sharing algorythm
 
-__Downloads__: 6 | __Repository__: https://github.com/Conitental/PSShamir
+__Downloads__: 0 | __Repository__: https://github.com/Conitental/PSShamir
 
 ## [AppVeyorTestPsGallery](https://www.powershellgallery.com/Packages/AppVeyorTestPsGallery/1.0.620) | 1.0.620
 
@@ -254,29 +302,13 @@ Please see the GitHub page for Full details and everything about the module: htt
 
 __Downloads__: 17,644 | __Repository__: https://github.com/HotCakeX/Harden-Windows-Security/wiki/WDACConfig
 
-## [Permission](https://www.powershellgallery.com/Packages/Permission/0.0.910) | 0.0.910
-
-### Published: 11/16/2024 15:26:12 by Jeremy La Camera
-
-Module for working with Access Control Lists
-
-__Downloads__: 5,417 | __Repository__: 
-
 ## [PsLogMessage](https://www.powershellgallery.com/Packages/PsLogMessage/1.0.104) | 1.0.104
 
 ### Published: 11/16/2024 14:42:25 by Jeremy La Camera
 
 Logs, displays, and outputs log messages after adding metadata such as timestamp, hostname, etc.
 
-__Downloads__: 837 | __Repository__: 
-
-## [Adsi](https://www.powershellgallery.com/Packages/Adsi/4.0.382) | 4.0.382
-
-### Published: 11/16/2024 14:31:48 by Jeremy La Camera
-
-Use Active Directory Service Interfaces to query LDAP and WinNT directories
-
-__Downloads__: 4,405 | __Repository__: 
+__Downloads__: 838 | __Repository__: 
 
 ## [Omnishell](https://www.powershellgallery.com/Packages/Omnishell/0.0.12) | 0.0.12
 
@@ -316,7 +348,7 @@ __Downloads__: 766 | __Repository__: https://github.com/genXdev/GenXdev.Console
 
 A Windows PowerShell module for finding resources and information on the internet
 
-__Downloads__: 800 | __Repository__: https://github.com/genXdev/GenXdev.Queries
+__Downloads__: 801 | __Repository__: https://github.com/genXdev/GenXdev.Queries
 
 ## [GenXdev.Webbrowser](https://www.powershellgallery.com/Packages/GenXdev.Webbrowser/1.52.2024) | 1.52.2024
 
@@ -340,7 +372,7 @@ __Downloads__: 3,807 | __Repository__: https://github.com/genXdev/GenXdev.Window
 
 A Windows PowerShell module for basic and advanced file management tasks
 
-__Downloads__: 4,173 | __Repository__: https://github.com/genXdev/GenXdev.FileSystem
+__Downloads__: 4,166 | __Repository__: https://github.com/genXdev/GenXdev.FileSystem
 
 ## [GenXdev.Helpers](https://www.powershellgallery.com/Packages/GenXdev.Helpers/1.52.2024) | 1.52.2024
 
@@ -348,7 +380,7 @@ __Downloads__: 4,173 | __Repository__: https://github.com/genXdev/GenXdev.FileSy
 
 A Windows PowerShell module with helpers mostly used by other GenXdev modules
 
-__Downloads__: 4,158 | __Repository__: https://github.com/genXdev/GenXdev.Helpers
+__Downloads__: 4,151 | __Repository__: https://github.com/genXdev/GenXdev.Helpers
 
 ## [pocof](https://www.powershellgallery.com/Packages/pocof/0.17.0) | 0.17.0
 
@@ -468,7 +500,7 @@ __Downloads__: 2,496 | __Repository__: https://github.com/zackmoss/Unifi
 
 A set of PowerShell commands that use the Bluesky API. You can skeet and upload images from a PowerShell prompt. This module is written for PowerShell 7 and uses features like $PSStyle.
 
-__Downloads__: 201 | __Repository__: https://github.com/jdhitsolutions/PSBluesky
+__Downloads__: 202 | __Repository__: https://github.com/jdhitsolutions/PSBluesky
 
 ## [WinSCP](https://www.powershellgallery.com/Packages/WinSCP/6.3.5.0) | 6.3.5.0
 
@@ -729,21 +761,13 @@ HPE Compute Ops Management PowerShell library
 
 __Downloads__: 17 | __Repository__: https://github.com/jullienl/HPE-COM-PowerShell-library
 
-## [LOCToolkit](https://www.powershellgallery.com/Packages/LOCToolkit/1.0.1) | 1.0.1
-
-### Published: 11/14/2024 06:29:48 by Anton Minzyanov
-
-Test module for Advanced PowerShell training
-
-__Downloads__: 39 | __Repository__: 
-
 ## [M365DSC.CompositeResources](https://www.powershellgallery.com/Packages/M365DSC.CompositeResources/1.24.1113.100) | 1.24.1113.100
 
 ### Published: 11/14/2024 01:32:44 by Yorick Kuijs
 
 DSC composite resource for configuring Microsoft 365
 
-__Downloads__: 4,285 | __Repository__: https://github.com/ykuijs/M365DSC.CompositeResources
+__Downloads__: 4,277 | __Repository__: https://github.com/ykuijs/M365DSC.CompositeResources
 
 ## [PanasonicCommandPCSettings](https://www.powershellgallery.com/Packages/PanasonicCommandPCSettings/2.10111.0.0) | 2.10111.0.0
 
@@ -2101,28 +2125,4 @@ This modules provides Cmdlets for OCI Bastion Service
 
 __Downloads__: 8,392 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-## [OCI.PSModules.Autoscaling](https://www.powershellgallery.com/Packages/OCI.PSModules.Autoscaling/95.1.0) | 95.1.0
-
-### Published: 11/12/2024 18:43:20 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Autoscaling Service
-
-__Downloads__: 9,207 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Audit](https://www.powershellgallery.com/Packages/OCI.PSModules.Audit/95.1.0) | 95.1.0
-
-### Published: 11/12/2024 18:43:13 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Audit Service
-
-__Downloads__: 9,540 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Artifacts](https://www.powershellgallery.com/Packages/OCI.PSModules.Artifacts/95.1.0) | 95.1.0
-
-### Published: 11/12/2024 18:43:06 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Artifacts Service
-
-__Downloads__: 8,742 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-*Updated: Monday, 18 November 2024 02:18:30 UTC*
+*Updated: Monday, 18 November 2024 09:51:44 UTC*
