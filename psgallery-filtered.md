@@ -3,13 +3,29 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
-## [Entrinsec.Powershell.SETUP](https://www.powershellgallery.com/Packages/Entrinsec.Powershell.SETUP/1.10.66) | 1.10.66
+## [Fly.Client](https://www.powershellgallery.com/Packages/Fly.Client/4.6.6) | 4.6.6
 
-### Published: 12/06/2024 02:09:50 by entrinsec
+### Published: 12/06/2024 08:34:42 by AvePointInc
+
+Fly.Client - the PowerShell module for Fly SDK API
+
+__Downloads__: 693 | __Repository__: https://github.com/AvePoint/fly-client
+
+## [Entrinsec.Powershell.SETUP](https://www.powershellgallery.com/Packages/Entrinsec.Powershell.SETUP/1.10.73) | 1.10.73
+
+### Published: 12/06/2024 04:39:10 by entrinsec
 
 Public functions
 
-__Downloads__: 768 | __Repository__: https://nuget.entrinsec.com/
+__Downloads__: 764 | __Repository__: https://nuget.entrinsec.com/
+
+## [Adsi](https://www.powershellgallery.com/Packages/Adsi/4.0.520) | 4.0.520
+
+### Published: 12/06/2024 04:05:01 by Jeremy La Camera
+
+Use Active Directory Service Interfaces to query LDAP and WinNT directories
+
+__Downloads__: 5,334 | __Repository__: 
 
 ## [PSSailpoint](https://www.powershellgallery.com/Packages/PSSailpoint/1.4.6) | 1.4.6
 
@@ -17,7 +33,71 @@ __Downloads__: 768 | __Repository__: https://nuget.entrinsec.com/
 
 PSSailpoint - the PowerShell module for IdentityNow
 
-__Downloads__: 8,910 | __Repository__: 
+__Downloads__: 8,946 | __Repository__: 
+
+## [PSSailpoint.V2024](https://www.powershellgallery.com/Packages/PSSailpoint.V2024/1.4.6) | 1.4.6
+
+### Published: 12/06/2024 01:38:30 by OpenAPI Generator Team
+
+PSSailpoint.V2024 - the PowerShell module for Identity Security Cloud V2024 API
+
+__Downloads__: 1,226 | __Repository__: 
+
+## [PSSailpoint.V3](https://www.powershellgallery.com/Packages/PSSailpoint.V3/1.4.6) | 1.4.6
+
+### Published: 12/06/2024 01:38:24 by OpenAPI Generator Team
+
+PSSailpoint.V3 - the PowerShell module for Identity Security Cloud V3 API
+
+__Downloads__: 1,227 | __Repository__: 
+
+## [PSSailpoint.Beta](https://www.powershellgallery.com/Packages/PSSailpoint.Beta/1.4.6) | 1.4.6
+
+### Published: 12/06/2024 01:38:18 by OpenAPI Generator Team
+
+PSSailpoint.Beta - the PowerShell module for Identity Security Cloud Beta API
+
+__Downloads__: 1,263 | __Repository__: 
+
+## [SATLogger](https://www.powershellgallery.com/Packages/SATLogger/0.1.4) | 0.1.4
+
+### Published: 12/05/2024 23:23:25 by Ryan Bakonis
+
+Logger
+
+__Downloads__: 135 | __Repository__: 
+
+## [PowerAzPlus](https://www.powershellgallery.com/Packages/PowerAzPlus/1.0.0) | 1.0.0
+
+### Published: 12/05/2024 22:08:01 by Jeff Brown
+
+PowerAzPlus contains custom functions for daily Azure administration not found in the Az modules.
+
+__Downloads__: 0 | __Repository__: https://github.com/JeffBrownTech/PowerAzPlus
+
+## [ProductivityTools.DirectoryReverseOrder](https://www.powershellgallery.com/Packages/ProductivityTools.DirectoryReverseOrder/0.0.1) | 0.0.1
+
+### Published: 12/05/2024 21:48:58 by Pawel Wujczyk
+
+Set the leading number to the directory
+
+__Downloads__: 0 | __Repository__: 
+
+## [RelateIT_BC](https://www.powershellgallery.com/Packages/RelateIT_BC/2.11) | 2.11
+
+### Published: 12/05/2024 21:00:34 by twoday
+
+Productivity tools for twoday Business Applications.
+
+__Downloads__: 18,604 | __Repository__: 
+
+## [WSTools](https://www.powershellgallery.com/Packages/WSTools/2024.12.1) | 2024.12.1
+
+### Published: 12/05/2024 20:59:52 by Skyler Hart
+
+Provides ability to perform a lot of tasks in an automated manner, Insider Threat detection, remediations, and enhancements to PowerShell. Also provides numerous shortcuts.
+
+__Downloads__: 9 | __Repository__: https://wanderingstag.github.io/
 
 ## [Rnwood.Dataverse.Data.PowerShell](https://www.powershellgallery.com/Packages/Rnwood.Dataverse.Data.PowerShell/1.0.15) | 1.0.15
 
@@ -25,7 +105,63 @@ __Downloads__: 8,910 | __Repository__:
 
 Dataverse data manipulation cmdlets
 
-__Downloads__: 2,849 | __Repository__: 
+__Downloads__: 2,868 | __Repository__: 
+
+## [psrod](https://www.powershellgallery.com/Packages/psrod/1.2.0) | 1.2.0
+
+### Published: 12/05/2024 20:29:40 by Rodrigo Cordeiro
+
+Module for automating daily tasks
+
+__Downloads__: 16 | __Repository__: https://github.com/rodcordeiro/PSROD
+
+## [PSModuleUtils](https://www.powershellgallery.com/Packages/PSModuleUtils/1.6.1) | 1.6.1
+
+### Published: 12/05/2024 19:55:55 by Justin Beeson
+
+A module with helper functions to build and publish PowerShell modules to the PSGallery.
+
+__Downloads__: 348 | __Repository__: https://github.com/thisjustin816/PSModuleUtils
+
+## [GitHub](https://www.powershellgallery.com/Packages/GitHub/0.9.16) | 0.9.16
+
+### Published: 12/05/2024 19:53:50 by PSModule
+
+A PowerShell module to interact with GitHub, both interactively and via automation.
+
+__Downloads__: 39,956 | __Repository__: https://github.com/PSModule/GitHub
+
+## [JsonCli](https://www.powershellgallery.com/Packages/JsonCli/1.0) | 1.0
+
+### Published: 12/05/2024 19:11:31 by Alain Herve
+
+JsonCli wrapper
+
+__Downloads__: 2 | __Repository__: 
+
+## [NerdioManagerPowerShell](https://www.powershellgallery.com/Packages/NerdioManagerPowerShell/0.9.3) | 0.9.3
+
+### Published: 12/05/2024 18:57:30 by Nick Wagner
+
+A PowerShell module for managing Nerdio Manager for Enterprise (NME)
+
+__Downloads__: 1,168 | __Repository__: 
+
+## [Quantum.DMS.PowerShell](https://www.powershellgallery.com/Packages/Quantum.DMS.PowerShell/3.4.2) | 3.4.2
+
+### Published: 12/05/2024 17:09:34 by Radi Atanassov
+
+A set of PowerShell cmdlets for administering Quantum DMS.
+
+__Downloads__: 744 | __Repository__: 
+
+## [UncommonSense.Cinema](https://www.powershellgallery.com/Packages/UncommonSense.Cinema/0.1.1) | 0.1.1
+
+### Published: 12/05/2024 17:01:46 by Jan Hoek
+
+Film listing for my favorite cinemas
+
+__Downloads__: 2,232 | __Repository__: https://github.com/jhoek/UncommonSense.Cinema
 
 ## [WinTuner](https://www.powershellgallery.com/Packages/WinTuner/1.0.4) | 1.0.4
 
@@ -33,7 +169,52 @@ __Downloads__: 2,849 | __Repository__:
 
 Package and publish any apps from WinGet to Intune.
 
-__Downloads__: 56,262 | __Repository__: https://wintuner.app/
+__Downloads__: 56,821 | __Repository__: https://wintuner.app/
+
+## [Nectar10](https://www.powershellgallery.com/Packages/Nectar10/3.98) | 3.98
+
+### Published: 12/05/2024 15:25:29 by Ken Lasko
+
+PowerShell module for Nectar DXP
+
+__Downloads__: 1,838 | __Repository__: 
+
+## [Simpleverse.AsciiDoc](https://www.powershellgallery.com/Packages/Simpleverse.AsciiDoc/1.0.2) | 1.0.2
+
+### Published: 12/05/2024 12:59:56 by luka@ferlez.hr
+
+Simplifies operations with custom Bicep modules and version maintenance.
+		* Get-BicepModuleImport - Returns list of imports/modules used in Bicep files.
+		* Get-BicepModuleChanged - Returns list of impacted modules impacted by changes between two commits. It will include modules changes following the import hierarchy provuiding a full list of impacted modules.
+		* Get-BicepModuleForPublish - Returns list of Bicep modules to publish based on the changes between two commits or all modules based on parameters. It will include modules changes following the import hierarchy provuiding a full list of impacted modules.
+		* Publish-BicepModule - Publishes Bicep modules to Azure ACR.
+		* Update-BicepModuleVersion - Updates the version of the imports & modules from custom repositories to the latest version available in the registry. Currently supports only Azure ACR.
+
+__Downloads__: 12 | __Repository__: https://github.com/lukaferlez/Simpleverse.Bicep
+
+## [IONModule](https://www.powershellgallery.com/Packages/IONModule/0.0.5) | 0.0.5
+
+### Published: 12/05/2024 09:26:31 by Ben Weinberg - Bweinberg@prime-networks.co.uk
+
+Powershell Module for TD Synnex ION API
+
+__Downloads__: 37 | __Repository__: https://github.com/BNWEIN/IONModule/
+
+## [AzPolicyTest](https://www.powershellgallery.com/Packages/AzPolicyTest/2.7.3) | 2.7.3
+
+### Published: 12/05/2024 09:02:38 by Tao Yang
+
+Provides pre-defined pester tests for Azure Policy and Initiative definitions
+
+__Downloads__: 1,346 | __Repository__: https://github.com/tyconsulting/AzPolicyTest
+
+## [PowerAdobe](https://www.powershellgallery.com/Packages/PowerAdobe/1.0.4) | 1.0.4
+
+### Published: 12/05/2024 08:53:34 by Przemyslaw Klys
+
+PowerAdobe is an unofficial PowerShell module for Adobe API.
+
+__Downloads__: 34 | __Repository__: https://github.com/EvotecIT/PowerAdobe
 
 ## [PSAppDeployToolkit](https://www.powershellgallery.com/Packages/PSAppDeployToolkit/4.0.2) | 4.0.2
 
@@ -41,7 +222,15 @@ __Downloads__: 56,262 | __Repository__: https://wintuner.app/
 
 Enterprise App Deployment, Simplified.
 
-__Downloads__: 153,952 | __Repository__: https://psappdeploytoolkit.com/
+__Downloads__: 162,057 | __Repository__: https://psappdeploytoolkit.com/
+
+## [TurnKeySdn](https://www.powershellgallery.com/Packages/TurnKeySdn/0.0.28) | 0.0.28
+
+### Published: 12/05/2024 04:05:30 by Network Controller SDN Dev Team
+
+Turn Key SDN for a quick sdn test deployment
+
+__Downloads__: 999 | __Repository__: 
 
 ## [M365DSC.CompositeResources](https://www.powershellgallery.com/Packages/M365DSC.CompositeResources/1.24.1204.100) | 1.24.1204.100
 
@@ -49,7 +238,7 @@ __Downloads__: 153,952 | __Repository__: https://psappdeploytoolkit.com/
 
 DSC composite resource for configuring Microsoft 365
 
-__Downloads__: 5,440 | __Repository__: https://github.com/ykuijs/M365DSC.CompositeResources
+__Downloads__: 5,518 | __Repository__: https://github.com/ykuijs/M365DSC.CompositeResources
 
 ## [VcRedist](https://www.powershellgallery.com/Packages/VcRedist/4.1.501) | 4.1.501
 
@@ -57,7 +246,7 @@ __Downloads__: 5,440 | __Repository__: https://github.com/ykuijs/M365DSC.Composi
 
 A module for lifecycle management of the Microsoft Visual C++ Redistributables. VcRedist downloads, installs and uninstalls the supported (and unsupported) Redistributables. Use for local install, gold image creation and update, or importing as applications into the Microsoft Deployment Toolkit, Microsoft Configuration Manager or Microsoft Intune. Supports passive and silent installs, and uninstalls of the Visual C++ Redistributables.
 
-__Downloads__: 4,341,722 | __Repository__: https://vcredist.com/
+__Downloads__: 4,341,688 | __Repository__: https://vcredist.com/
 
 ## [Carbon.IIS](https://www.powershellgallery.com/Packages/Carbon.IIS/1.5.0) | 1.5.0
 
@@ -65,7 +254,61 @@ __Downloads__: 4,341,722 | __Repository__: https://vcredist.com/
 
 Carbon.IIS is a module for installing and managing IIS app pools, websites, applications, and configuring other parts of IIS.
 
-__Downloads__: 4,783 | __Repository__: http://get-carbon.org/
+__Downloads__: 4,786 | __Repository__: http://get-carbon.org/
+
+## [Carbon.Registry](https://www.powershellgallery.com/Packages/Carbon.Registry/1.2.1) | 1.2.1
+
+### Published: 12/04/2024 21:57:25 by WebMD Health Services
+
+Functions for working with the Windows registry to get, remove, set, and test registry key values and install registry keys.
+
+__Downloads__: 1,214 | __Repository__: https://github.com/webmd-health-services/Carbon.Registry
+
+## [Prism](https://www.powershellgallery.com/Packages/Prism/0.10.0) | 0.10.0
+
+### Published: 12/04/2024 21:56:26 by WebMD Health Services
+
+Prism is a PowerShell module manager inspired by NuGet. Run `prism install` in a source code repository, and Prism will
+save private modules into a "PSModules" directory in that repository. Prism let's you:
+
+* Package and deploy modules side-by-side with the app or tool that uses them without needing to install
+modules globally ahead of time.
+* Not worry about what modules are or aren't installed. Scripts can import and use modules from the "PSModules"
+directory in the script's source code repository.
+* Avoid comitting modules to the source code repository. Team members and build processes run `prism install` to
+get modules installed.
+
+__Downloads__: 18,747 | __Repository__: https://github.com/webmd-health-services/Prism
+
+## [TlsCertificateValidation](https://www.powershellgallery.com/Packages/TlsCertificateValidation/2.0.1) | 2.0.1
+
+### Published: 12/04/2024 20:29:40 by Aaron Jensen
+
+The "TlsCertificateValidation" PowerShell module allows you to manage TLS server certificate validation. With it, you
+can:
+
+* Completely disable TLS server certificate validation with its Disable-TlsCertificateValidation function.
+* Write your own server certificate validation in PowerShell with its Set-TlsCertificateValidator function.
+* Check if PowerShell supports the SkipCertificateCheck switch on Invoke-WebRequest and Invoke-RestMethod with its
+  Test-SkipCertificateChec function.
+
+__Downloads__: 338 | __Repository__: https://github.com/webmd-health-services/TlsCertificateValidation
+
+## [PSWorkItem](https://www.powershellgallery.com/Packages/PSWorkItem/1.11.0) | 1.11.0
+
+### Published: 12/04/2024 19:57:35 by Jeff Hicks
+
+A PowerShell 7 module for managing work and personal tasks or to-do items. This module uses a SQLite database to store task and category information. The module is not a full-featured project management solution, but should be fine for personal needs. The module requires a 64-bit Windows or Linux platform.
+
+__Downloads__: 1,166 | __Repository__: https://github.com/jdhitsolutions/PSWorkItem
+
+## [dbc_pwps](https://www.powershellgallery.com/Packages/dbc_pwps/24.3.0) | 24.3.0
+
+### Published: 12/04/2024 19:16:29 by Dave Brumbaugh Consulting LLC
+
+Dave Brumbaugh Consulting's ProjectWise PowerShell Cmdlets
+
+__Downloads__: 72 | __Repository__: 
 
 ## [JumpCloud.ADMU](https://www.powershellgallery.com/Packages/JumpCloud.ADMU/2.7.9) | 2.7.9
 
@@ -73,7 +316,31 @@ __Downloads__: 4,783 | __Repository__: http://get-carbon.org/
 
 Powershell Module to run JumpCloud Active Directory Migration Utility.
 
-__Downloads__: 16,483 | __Repository__: 
+__Downloads__: 16,482 | __Repository__: 
+
+## [KubeSnapIt](https://www.powershellgallery.com/Packages/KubeSnapIt/0.0.10) | 0.0.10
+
+### Published: 12/04/2024 15:33:45 by Richard Hooper
+
+A tool to create, manage, and restore snapshots of Kubernetes objects, providing peace of mind during cluster operations.
+
+__Downloads__: 79 | __Repository__: https://github.com/KubeDeckio/KubeSnapIt/
+
+## [GraphLicenseManager](https://www.powershellgallery.com/Packages/GraphLicenseManager/1.1.4) | 1.1.4
+
+### Published: 12/04/2024 14:40:48 by timmcmic
+
+This powershell module will assist customers in managing and setting group based licensing.
+
+__Downloads__: 168 | __Repository__: 
+
+## [AcuInstallerHelper](https://www.powershellgallery.com/Packages/AcuInstallerHelper/0.6.92) | 0.6.92
+
+### Published: 12/04/2024 14:29:04 by Kyle Vanderstoep
+
+Assists with the installation and removal of Acu Sites and Versions
+
+__Downloads__: 150 | __Repository__: https://github.com/lekker-solutions/acumatica-installerHelper
 
 ## [EntraAuth](https://www.powershellgallery.com/Packages/EntraAuth/1.4.22) | 1.4.22
 
@@ -81,7 +348,7 @@ __Downloads__: 16,483 | __Repository__:
 
 Get Tokens from Entra ID
 
-__Downloads__: 5,841 | __Repository__: https://github.com/FriedrichWeinmann/EntraAuth
+__Downloads__: 5,857 | __Repository__: https://github.com/FriedrichWeinmann/EntraAuth
 
 ## [7ZipArchiveDsc](https://www.powershellgallery.com/Packages/7ZipArchiveDsc/2.1.0) | 2.1.0
 
@@ -89,7 +356,57 @@ __Downloads__: 5,841 | __Repository__: https://github.com/FriedrichWeinmann/Entr
 
 PowerShell DSC Resource to expand an archive file to a specific path.
 
-__Downloads__: 24,293 | __Repository__: https://github.com/mkht/7ZipArchiveDsc
+__Downloads__: 24,270 | __Repository__: https://github.com/mkht/7ZipArchiveDsc
+
+## [RepairFileFormat](https://www.powershellgallery.com/Packages/RepairFileFormat/1.0.0) | 1.0.0
+
+### Published: 12/04/2024 12:20:33 by Axel M. Kjønsberg
+
+Functions for repairing common file formatting issues when working between Windows and Unix systems.
+
+__Downloads__: 4 | __Repository__: 
+
+## [M365Permissions](https://www.powershellgallery.com/Packages/M365Permissions/1.0.7) | 1.0.7
+
+### Published: 12/04/2024 07:36:33 by Jos Lieben (jos@lieben.nu)
+
+SUMMARY:
+
+    Report on permissions in a Microsoft 365 tenant. Provides a 360° view of what a given identity can see and do.
+
+    INSTALLATION:
+
+    Install-PSResource -Name M365Permissions -Repository PSGallery
+
+    EXAMPLES:
+
+    Get-AllM365Permissions -expandGroups
+    
+    Get-SpOPermissions -siteUrl "https://tenant.sharepoint.com/sites/site" -ExpandGroups
+    
+    Get-SpOPermissions -teamName "INT-Finance Department" -OutputFormat XLSX,CSV
+    
+    get-AllSPOPermissions -ExpandGroups -IncludeOneDriveSites -ExcludeOtherSites
+    
+    get-AllEntraPermissions -expandGroups
+
+    Get-AllExOPermissions -includeFolderLevelPermissions
+
+    Get-ExOPermissions -recipientIdentity $mailbox.Identity -includeFolderLevelPermissions
+
+    get-AllPBIPermissions
+
+    Please note that this module is provided AS-IS, no guarantees or warranties provided. Use at your own risk.
+
+__Downloads__: 974 | __Repository__: 
+
+## [MyPSFunctions](https://www.powershellgallery.com/Packages/MyPSFunctions/1.7) | 1.7
+
+### Published: 12/04/2024 04:38:40 by John@MyPSFunctions.com
+
+This Module has been created to provide a repository of my Daily Functions. - This module is provided as is without any support. Please be aware you are using this module as your own risks without any responsabilities from us.
+
+__Downloads__: 479 | __Repository__: 
 
 ## [Evergreen](https://www.powershellgallery.com/Packages/Evergreen/2412.1685) | 2412.1685
 
@@ -97,7 +414,29 @@ __Downloads__: 24,293 | __Repository__: https://github.com/mkht/7ZipArchiveDsc
 
 Create evergreen Windows image builds with the latest versions of applications. Evergreen is a simple PowerShell module that retrieves the latest version numbers and download URLs for various software products directly from the vendor source.
 
-__Downloads__: 6,612,834 | __Repository__: https://stealthpuppy.com/evergreen/
+__Downloads__: 6,612,789 | __Repository__: https://stealthpuppy.com/evergreen/
+
+## [TaskTamer](https://www.powershellgallery.com/Packages/TaskTamer/0.13.3) | 0.13.3
+
+### Published: 12/04/2024 00:27:29 by Ben Kennish
+
+Whenever chosen 'trigger' processes (e.g. video games) are running, TaskTamer automatically throttles/tames chosen 'target' processes (e.g. web browsers, instant messaging apps, and game launchers), and automatically restores them when the trigger process ends.
+
+The precise nature of the throttle/taming can be defined in the config file, including a choice of suspending a process (the default), setting it to Low priority, closing it, or doing nothing.  Target processes can also have their windows minimized, have their RAM usage ('working set') trimmed, and be defined as a launcher which means they will not be affected if they were responsible for launching the trigger process.
+
+Suspended target processes are effectively frozen and therefore can't slow down the trigger process (or any other running process) by using CPU or accessing the disk or network in the background. Windows is also more likely to move memory used by target processes from fast RAM to the slower pagefile on disk, which leaves more speedy RAM available for the trigger process to use.
+
+__Downloads__: 26 | __Repository__: 
+
+## [Carbon.FileSystem](https://www.powershellgallery.com/Packages/Carbon.FileSystem/1.1.1) | 1.1.1
+
+### Published: 12/04/2024 00:00:42 by WebMD Health Services
+
+The Carbon.FileSystem module currently only has one function, Get-CNtfsHardLink, which is used to
+    retrieve hard link targets. This fixes a breaking change from Windows PowerShell where the Target property is
+    not populated in PowerShell Core when using Get-Item to retrieve a previously linked file.
+
+__Downloads__: 571 | __Repository__: https://github.com/webmd-health-services/Carbon.FileSystem
 
 ## [Carbon.Cryptography](https://www.powershellgallery.com/Packages/Carbon.Cryptography/3.4.2) | 3.4.2
 
@@ -105,7 +444,55 @@ __Downloads__: 6,612,834 | __Repository__: https://stealthpuppy.com/evergreen/
 
 Makes encrypting and decrypting strings and other security work easy.
 
-__Downloads__: 12,690 | __Repository__: https://github.com/webmd-health-services/Carbon.Cryptography
+__Downloads__: 12,697 | __Repository__: https://github.com/webmd-health-services/Carbon.Cryptography
+
+## [Get-RDAP](https://www.powershellgallery.com/Packages/Get-RDAP/1.0.0) | 1.0.0
+
+### Published: 12/03/2024 22:23:08 by Robert D. Biddle
+
+Registration Data Access Protocol (RDAP) lookups via PowerShell
+
+__Downloads__: 50 | __Repository__: https://github.com/RobBiddle/Get-RDAP
+
+## [PackerBaseAMI](https://www.powershellgallery.com/Packages/PackerBaseAMI/1.0.9) | 1.0.9
+
+### Published: 12/03/2024 21:46:15 by Robert D. Biddle
+
+Creates a Windows Base AMI via Packer
+
+__Downloads__: 692 | __Repository__: https://github.com/RobBiddle/PackerBaseAMI
+
+## [Get-AwsTemporaryCredential](https://www.powershellgallery.com/Packages/Get-AwsTemporaryCredential/1.0.5) | 1.0.5
+
+### Published: 12/03/2024 21:45:13 by Robert D. Biddle
+
+Retrieves AWS Credentials from a stored profile and uses these to obtain temporary credentials for the specified AWS account, using the specified IAM Role.
+
+__Downloads__: 600 | __Repository__: https://github.com/RobBiddle/Get-AwsTemporaryCredential
+
+## [OctopusDeploy](https://www.powershellgallery.com/Packages/OctopusDeploy/1.1.7) | 1.1.7
+
+### Published: 12/03/2024 20:04:45 by Emrys MacInally
+
+Powershell wrapper around Octopus.Client.dll to help with standard problems
+
+__Downloads__: 187 | __Repository__: https://github.com/LindnerBrewery/OctopusDeploy
+
+## [Carbon.Security](https://www.powershellgallery.com/Packages/Carbon.Security/1.0.3) | 1.0.3
+
+### Published: 12/03/2024 19:13:22 by WebMD Health Services
+
+Manages security.
+
+__Downloads__: 674 | __Repository__: https://github.com/webmd-health-services/Carbon.Security
+
+## [FabricPS](https://www.powershellgallery.com/Packages/FabricPS/0.5.0) | 0.5.0
+
+### Published: 12/03/2024 16:27:00 by Mark Garner
+
+FabricPS module to manage and list workspaces.
+
+__Downloads__: 99 | __Repository__: 
 
 ## [PersistenceSniper](https://www.powershellgallery.com/Packages/PersistenceSniper/1.16.3) | 1.16.3
 
@@ -113,7 +500,7 @@ __Downloads__: 12,690 | __Repository__: https://github.com/webmd-health-services
 
 This module tries to enumerate all the persistence techniques implanted on a compromised machine.
 
-__Downloads__: 44,583 | __Repository__: https://github.com/last-byte/PersistenceSniper
+__Downloads__: 44,735 | __Repository__: https://github.com/last-byte/PersistenceSniper
 
 ## [SvRooij.ContentPrep.Cmdlet](https://www.powershellgallery.com/Packages/SvRooij.ContentPrep.Cmdlet/0.2.2) | 0.2.2
 
@@ -121,7 +508,23 @@ __Downloads__: 44,583 | __Repository__: https://github.com/last-byte/Persistence
 
 An open-source re-implementation of the ContentPrepTool for Intune Win32 apps.
 
-__Downloads__: 21,838 | __Repository__: https://github.com/svrooij/ContentPrep/
+__Downloads__: 21,806 | __Repository__: https://github.com/svrooij/ContentPrep/
+
+## [Gordon](https://www.powershellgallery.com/Packages/Gordon/2.0.209) | 2.0.209
+
+### Published: 12/03/2024 13:45:05 by EOS Solutions
+
+Your friendly neighborhood helper for all things BC, NAV and AL
+
+__Downloads__: 169 | __Repository__: https://eos-solutions.github.io/Gordon
+
+## [CIPPAPIModule](https://www.powershellgallery.com/Packages/CIPPAPIModule/1.1.9) | 1.1.9
+
+### Published: 12/03/2024 13:23:41 by Ben Weinberg - Bweinberg@prime-networks.co.uk
+
+Powershell Module for CIPP-API
+
+__Downloads__: 570 | __Repository__: https://github.com/BNWEIN/CIPPAPIModule/
 
 ## [Dynapro.BCModules](https://www.powershellgallery.com/Packages/Dynapro.BCModules/2.22.0) | 2.22.0
 
@@ -129,7 +532,7 @@ __Downloads__: 21,838 | __Repository__: https://github.com/svrooij/ContentPrep/
 
 PowerShell Module for handling Microsoft Business Central related automation.  This is a submodule that add some small functions to make PowerShell somewhat easier.
 
-__Downloads__: 7,569 | __Repository__: 
+__Downloads__: 7,571 | __Repository__: 
 
 ## [SqlChangeAutomation](https://www.powershellgallery.com/Packages/SqlChangeAutomation/4.7.24338.4707) | 4.7.24338.4707
 
@@ -137,7 +540,15 @@ __Downloads__: 7,569 | __Repository__:
 
 Automation tools for production quality database deployment
 
-__Downloads__: 6,190,711 | __Repository__: https://www.red-gate.com/sca/productpage
+__Downloads__: 6,190,696 | __Repository__: https://www.red-gate.com/sca/productpage
+
+## [PsBootstrapCss](https://www.powershellgallery.com/Packages/PsBootstrapCss/1.0.53) | 1.0.53
+
+### Published: 12/03/2024 05:50:15 by Jeremy La Camera
+
+Use the Bootstrap CSS library to generate advanced HTML
+
+__Downloads__: 1,588 | __Repository__: 
 
 ## [Permission](https://www.powershellgallery.com/Packages/Permission/0.0.1049) | 0.0.1049
 
@@ -145,7 +556,7 @@ __Downloads__: 6,190,711 | __Repository__: https://www.red-gate.com/sca/productp
 
 Module for working with Access Control Lists
 
-__Downloads__: 6,155 | __Repository__: 
+__Downloads__: 6,264 | __Repository__: 
 
 ## [AdminToolbox](https://www.powershellgallery.com/Packages/AdminToolbox/11.1.0.19) | 11.1.0.19
 
@@ -153,7 +564,7 @@ __Downloads__: 6,155 | __Repository__:
 
 Master module for a collection of modules. These modules are varied in their tasks. The overall purpose of them being to provide a powerfull Toolset to improve IT Admin workflows.
 
-__Downloads__: 89,207 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox
+__Downloads__: 89,157 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox
 
 ## [AdminToolbox.FortiWizard](https://www.powershellgallery.com/Packages/AdminToolbox.FortiWizard/2.21.2.2) | 2.21.2.2
 
@@ -161,7 +572,7 @@ __Downloads__: 89,207 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions that generate configuration scripts and manage FortiOS.
 
-__Downloads__: 67,845 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 67,913 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.VMWareAutomate](https://www.powershellgallery.com/Packages/AdminToolbox.VMWareAutomate/4.9.0.19) | 4.9.0.19
 
@@ -169,7 +580,7 @@ __Downloads__: 67,845 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions to Automate Bulk VMWare Tasks
 
-__Downloads__: 76,980 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 77,134 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.Remoting](https://www.powershellgallery.com/Packages/AdminToolbox.Remoting/1.10.0.19) | 1.10.0.19
 
@@ -177,7 +588,7 @@ __Downloads__: 76,980 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions for remote management and access.
 
-__Downloads__: 75,640 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 75,806 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.Office365](https://www.powershellgallery.com/Packages/AdminToolbox.Office365/4.3.0.18) | 4.3.0.18
 
@@ -185,7 +596,7 @@ __Downloads__: 75,640 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions for working with Office365 and Azure modules
 
-__Downloads__: 84,320 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 84,559 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.Networking](https://www.powershellgallery.com/Packages/AdminToolbox.Networking/2.21.0.19) | 2.21.0.19
 
@@ -193,7 +604,7 @@ __Downloads__: 84,320 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Network Troubleshooting Functions
 
-__Downloads__: 203,368 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 203,839 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.MSGraph](https://www.powershellgallery.com/Packages/AdminToolbox.MSGraph/1.5.0.16) | 1.5.0.16
 
@@ -201,7 +612,7 @@ __Downloads__: 203,368 | __Repository__: https://github.com/TheTaylorLee/AdminTo
 
 Microsoft Graph interactive API Functions
 
-__Downloads__: 63,419 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 63,479 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.Fun](https://www.powershellgallery.com/Packages/AdminToolbox.Fun/1.7.0.19) | 1.7.0.19
 
@@ -209,7 +620,7 @@ __Downloads__: 63,419 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions that have no purpose
 
-__Downloads__: 76,220 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 76,373 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.FileManagement](https://www.powershellgallery.com/Packages/AdminToolbox.FileManagement/1.17.0.19) | 1.17.0.19
 
@@ -217,7 +628,7 @@ __Downloads__: 76,220 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 File Management Functions
 
-__Downloads__: 77,875 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 78,025 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.FFTools](https://www.powershellgallery.com/Packages/AdminToolbox.FFTools/4.17.0.19) | 4.17.0.19
 
@@ -225,7 +636,7 @@ __Downloads__: 77,875 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Expedite simple ffmpeg actions
 
-__Downloads__: 78,801 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 78,968 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.Exchange](https://www.powershellgallery.com/Packages/AdminToolbox.Exchange/1.10.0.19) | 1.10.0.19
 
@@ -233,7 +644,7 @@ __Downloads__: 78,801 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions for Exchange Management
 
-__Downloads__: 84,398 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 84,632 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.EndpointManagement](https://www.powershellgallery.com/Packages/AdminToolbox.EndpointManagement/4.11.0.19) | 4.11.0.19
 
@@ -241,7 +652,7 @@ __Downloads__: 84,398 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions for management of endpoints
 
-__Downloads__: 92,652 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 92,592 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.ActiveDirectory](https://www.powershellgallery.com/Packages/AdminToolbox.ActiveDirectory/1.11.1.9) | 1.11.1.9
 
@@ -249,15 +660,23 @@ __Downloads__: 92,652 | __Repository__: https://github.com/TheTaylorLee/AdminToo
 
 Functions for Active Directory
 
-__Downloads__: 90,895 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 90,841 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
-## [Adsi](https://www.powershellgallery.com/Packages/Adsi/4.0.516) | 4.0.516
+## [Carbon.Accounts](https://www.powershellgallery.com/Packages/Carbon.Accounts/2.0.2) | 2.0.2
 
-### Published: 12/03/2024 01:35:24 by Jeremy La Camera
+### Published: 12/03/2024 02:34:44 by WebMD Health Services
 
-Use Active Directory Service Interfaces to query LDAP and WinNT directories
+Manages accounts, identities, principals, users, groups, and privileges.
 
-__Downloads__: 5,327 | __Repository__: 
+__Downloads__: 1,077 | __Repository__: https://github.com/webmd-health-services/Carbon.Accounts
+
+## [PSChristmas](https://www.powershellgallery.com/Packages/PSChristmas/2.2.0) | 2.2.0
+
+### Published: 12/02/2024 23:13:46 by Jeff Hicks
+
+a demonstration class-based PowerShell module with a number of Christmas related commands.
+
+__Downloads__: 917 | __Repository__: https://github.com/jdhitsolutions/PSChristmas
 
 ## [GPOZaurr](https://www.powershellgallery.com/Packages/GPOZaurr/1.1.9) | 1.1.9
 
@@ -265,7 +684,7 @@ __Downloads__: 5,327 | __Repository__:
 
 Group Policy Eater is a PowerShell module that aims to gather information about Group Policies but also allows fixing issues that you may find in them.
 
-__Downloads__: 257,243 | __Repository__: https://github.com/EvotecIT/GPOZaurr
+__Downloads__: 257,505 | __Repository__: https://github.com/EvotecIT/GPOZaurr
 
 ## [PSSharedGoods](https://www.powershellgallery.com/Packages/PSSharedGoods/0.0.301) | 0.0.301
 
@@ -273,7 +692,15 @@ __Downloads__: 257,243 | __Repository__: https://github.com/EvotecIT/GPOZaurr
 
 Module covering functions that are shared within multiple projects
 
-__Downloads__: 446,609 | __Repository__: https://github.com/EvotecIT/PSSharedGoods
+__Downloads__: 446,061 | __Repository__: https://github.com/EvotecIT/PSSharedGoods
+
+## [cr-devops-rest](https://www.powershellgallery.com/Packages/cr-devops-rest/2024.12.349) | 2024.12.349
+
+### Published: 12/02/2024 21:00:37 by Ryan.Phay@clearesult.com
+
+Create straight forward REST calls in PowerShell based on API endpoints defined in .json files.  Add your own REST API endpoints by simply creating new .json files.
+
+__Downloads__: 650 | __Repository__: https://github.com/CLEAResult/it.devops.psm.rest
 
 ## [AppVeyorTestPsGallery](https://www.powershellgallery.com/Packages/AppVeyorTestPsGallery/1.0.631) | 1.0.631
 
@@ -281,7 +708,23 @@ __Downloads__: 446,609 | __Repository__: https://github.com/EvotecIT/PSSharedGoo
 
 The test module to verify publishing to PSGallery from AppVeyor.
 
-__Downloads__: 42,543 | __Repository__: 
+__Downloads__: 42,573 | __Repository__: 
+
+## [Carbon.DSC](https://www.powershellgallery.com/Packages/Carbon.DSC/1.1.0) | 1.1.0
+
+### Published: 12/02/2024 17:46:05 by WebMD Health Services
+
+A collection of helpful DSC resources.
+
+__Downloads__: 35 | __Repository__: https://github.com/webmd-health-services/Carbon.DSC
+
+## [AzureDevOpsIngest](https://www.powershellgallery.com/Packages/AzureDevOpsIngest/0.42.141.0) | 0.42.141.0
+
+### Published: 12/02/2024 17:02:49 by Pascal Havelange
+
+Azure DevOps Ingestion Module
+
+__Downloads__: 79 | __Repository__: https://dev.azure.com/EESC-CoR/ARC/_git/psmodule-portfolio-confluence?path=/AzureDevOpsIngest
 
 ## [DevolutionsGateway](https://www.powershellgallery.com/Packages/DevolutionsGateway/2024.3.6) | 2024.3.6
 
@@ -289,7 +732,15 @@ __Downloads__: 42,543 | __Repository__:
 
 Devolutions Gateway PowerShell Module
 
-__Downloads__: 11,644 | __Repository__: https://github.com/Devolutions/devolutions-gateway/tree/master/powershell/
+__Downloads__: 11,664 | __Repository__: https://github.com/Devolutions/devolutions-gateway/tree/master/powershell/
+
+## [CertNoob](https://www.powershellgallery.com/Packages/CertNoob/0.1.0) | 0.1.0
+
+### Published: 12/02/2024 16:37:50 by Przemyslaw Klys
+
+Simple project CertNoob
+
+__Downloads__: 6 | __Repository__: 
 
 ## [IntuneStuff](https://www.powershellgallery.com/Packages/IntuneStuff/1.6.1) | 1.6.1
 
@@ -319,7 +770,15 @@ Some of the interesting functions:
 - Upload-IntuneAutopilotHash - upload given autopilot hash (owner and hostname) into Intune
 - ...
 
-__Downloads__: 80,437 | __Repository__: https://github.com/ztrhgf/useful_powershell_modules
+__Downloads__: 80,685 | __Repository__: https://github.com/ztrhgf/useful_powershell_modules
+
+## [Arcus.Scripting.Storage.Table](https://www.powershellgallery.com/Packages/Arcus.Scripting.Storage.Table/1.4.0) | 1.4.0
+
+### Published: 12/02/2024 08:43:19 by Arcus
+
+Scripts related to interacting with Azure Table Storage
+
+__Downloads__: 8,170 | __Repository__: https://scripting.arcus-azure.net/
 
 ## [Arcus.Scripting.Storage.FileShare](https://www.powershellgallery.com/Packages/Arcus.Scripting.Storage.FileShare/1.4.0) | 1.4.0
 
@@ -335,7 +794,23 @@ __Downloads__: 5,177 | __Repository__: https://scripting.arcus-azure.net/
 
 Scripts related to interacting with Azure Blob Storage
 
-__Downloads__: 3,655 | __Repository__: https://scripting.arcus-azure.net/
+__Downloads__: 3,656 | __Repository__: https://scripting.arcus-azure.net/
+
+## [Arcus.Scripting.Storage.All](https://www.powershellgallery.com/Packages/Arcus.Scripting.Storage.All/1.4.0) | 1.4.0
+
+### Published: 12/02/2024 08:43:13 by Arcus
+
+Scripts related to Azure Storage
+
+__Downloads__: 2,223 | __Repository__: https://scripting.arcus-azure.net/
+
+## [Arcus.Scripting.Sql](https://www.powershellgallery.com/Packages/Arcus.Scripting.Sql/1.4.0) | 1.4.0
+
+### Published: 12/02/2024 08:43:11 by Arcus
+
+Scripts related to Azure SQL Database Migrations
+
+__Downloads__: 6,988 | __Repository__: https://scripting.arcus-azure.net/
 
 ## [Arcus.Scripting.Security](https://www.powershellgallery.com/Packages/Arcus.Scripting.Security/1.4.0) | 1.4.0
 
@@ -343,7 +818,15 @@ __Downloads__: 3,655 | __Repository__: https://scripting.arcus-azure.net/
 
 Scripts related to Azure security
 
-__Downloads__: 16,611 | __Repository__: https://scripting.arcus-azure.net/
+__Downloads__: 16,623 | __Repository__: https://scripting.arcus-azure.net/
+
+## [Arcus.Scripting.Management](https://www.powershellgallery.com/Packages/Arcus.Scripting.Management/1.4.0) | 1.4.0
+
+### Published: 12/02/2024 08:43:07 by Arcus
+
+Scripts related to Azure Management
+
+__Downloads__: 246 | __Repository__: https://scripting.arcus-azure.net/
 
 ## [Arcus.Scripting.LogicApps](https://www.powershellgallery.com/Packages/Arcus.Scripting.LogicApps/1.4.0) | 1.4.0
 
@@ -351,7 +834,7 @@ __Downloads__: 16,611 | __Repository__: https://scripting.arcus-azure.net/
 
 Scripts related to Azure Logic Apps
 
-__Downloads__: 17,027 | __Repository__: https://scripting.arcus-azure.net/
+__Downloads__: 17,037 | __Repository__: https://scripting.arcus-azure.net/
 
 ## [Arcus.Scripting.KeyVault](https://www.powershellgallery.com/Packages/Arcus.Scripting.KeyVault/1.4.0) | 1.4.0
 
@@ -359,7 +842,15 @@ __Downloads__: 17,027 | __Repository__: https://scripting.arcus-azure.net/
 
 Scripts related to Azure Key Vault
 
-__Downloads__: 12,680 | __Repository__: https://scripting.arcus-azure.net/
+__Downloads__: 12,684 | __Repository__: https://scripting.arcus-azure.net/
+
+## [Arcus.Scripting.IntegrationAccount](https://www.powershellgallery.com/Packages/Arcus.Scripting.IntegrationAccount/1.4.0) | 1.4.0
+
+### Published: 12/02/2024 08:43:02 by Arcus
+
+Scripts related to Azure Integration Account
+
+__Downloads__: 1,918 | __Repository__: https://scripting.arcus-azure.net/
 
 ## [Arcus.Scripting.DevOps](https://www.powershellgallery.com/Packages/Arcus.Scripting.DevOps/1.4.0) | 1.4.0
 
@@ -367,7 +858,7 @@ __Downloads__: 12,680 | __Repository__: https://scripting.arcus-azure.net/
 
 Scripts related to Azure DevOps
 
-__Downloads__: 29,319 | __Repository__: https://scripting.arcus-azure.net/
+__Downloads__: 29,328 | __Repository__: https://scripting.arcus-azure.net/
 
 ## [Arcus.Scripting.DataFactory](https://www.powershellgallery.com/Packages/Arcus.Scripting.DataFactory/1.4.0) | 1.4.0
 
@@ -375,7 +866,7 @@ __Downloads__: 29,319 | __Repository__: https://scripting.arcus-azure.net/
 
 Scripts relates to Azure Data Factory
 
-__Downloads__: 2,970 | __Repository__: https://scripting.arcus-azure.net/
+__Downloads__: 2,971 | __Repository__: https://scripting.arcus-azure.net/
 
 ## [Arcus.Scripting.ARM](https://www.powershellgallery.com/Packages/Arcus.Scripting.ARM/1.4.0) | 1.4.0
 
@@ -383,7 +874,7 @@ __Downloads__: 2,970 | __Repository__: https://scripting.arcus-azure.net/
 
 Scripts related to Azure Resource Manager
 
-__Downloads__: 148,060 | __Repository__: https://scripting.arcus-azure.net/
+__Downloads__: 148,104 | __Repository__: https://scripting.arcus-azure.net/
 
 ## [Arcus.Scripting.AppService](https://www.powershellgallery.com/Packages/Arcus.Scripting.AppService/1.4.0) | 1.4.0
 
@@ -391,7 +882,7 @@ __Downloads__: 148,060 | __Repository__: https://scripting.arcus-azure.net/
 
 Scripts related to Azure App Service
 
-__Downloads__: 5,935 | __Repository__: https://scripting.arcus-azure.net/
+__Downloads__: 5,936 | __Repository__: https://scripting.arcus-azure.net/
 
 ## [Arcus.Scripting.ApiManagement](https://www.powershellgallery.com/Packages/Arcus.Scripting.ApiManagement/1.4.0) | 1.4.0
 
@@ -401,13 +892,53 @@ Scripts related to Azure API Management
 
 __Downloads__: 9,575 | __Repository__: https://scripting.arcus-azure.net/
 
+## [Arcus.Scripting.ActiveDirectory](https://www.powershellgallery.com/Packages/Arcus.Scripting.ActiveDirectory/1.4.0) | 1.4.0
+
+### Published: 12/02/2024 08:42:50 by Arcus
+
+Scripts related to Azure Active Directory
+
+__Downloads__: 332 | __Repository__: https://scripting.arcus-azure.net/
+
+## [cp-miv.ExcelCoordinate](https://www.powershellgallery.com/Packages/cp-miv.ExcelCoordinate/0.0.39) | 0.0.39
+
+### Published: 12/02/2024 08:18:08 by Vogel Michael
+
+Commandlet to convert an Excel coordinate (i.e. D3) to a hashtable containing Row and Column properties, where Column is the numerical representation (i.e. D becomes 4)
+
+__Downloads__: 216 | __Repository__: 
+
+## [JyskIT.Automation](https://www.powershellgallery.com/Packages/JyskIT.Automation/2.0.8) | 2.0.8
+
+### Published: 12/02/2024 08:15:20 by Jysk IT
+
+Provides different cmdlets for automating Microsoft 365 and related services.
+
+__Downloads__: 1,173 | __Repository__: 
+
+## [CWJMDEDeviceControl](https://www.powershellgallery.com/Packages/CWJMDEDeviceControl/0.0.7) | 0.0.7
+
+### Published: 12/02/2024 07:11:03 by Charles W. Jones
+
+PowerShell module to create and test MDE Device Control configurations
+
+__Downloads__: 5 | __Repository__: https://github.com/charleswj/CWJMDEDeviceControl
+
+## [PowerShell.DynamicBatch](https://www.powershellgallery.com/Packages/PowerShell.DynamicBatch/2.91) | 2.91
+
+### Published: 12/02/2024 04:54:49 by HT
+
+Dynamically loads batch job configurations and executes the job.
+
+__Downloads__: 2,533 | __Repository__: 
+
 ## [AsBuiltReport.Core](https://www.powershellgallery.com/Packages/AsBuiltReport.Core/1.4.1) | 1.4.1
 
 ### Published: 12/02/2024 00:56:32 by Tim Carman
 
 A PowerShell module which provides the core framework for generating As-Built documentation for many common datacentre systems.
 
-__Downloads__: 118,647 | __Repository__: https://github.com/AsBuiltReport/AsBuiltReport.Core
+__Downloads__: 119,118 | __Repository__: https://github.com/AsBuiltReport/AsBuiltReport.Core
 
 ## [HAWK](https://www.powershellgallery.com/Packages/HAWK/3.1.2) | 3.1.2
 
@@ -417,7 +948,31 @@ Microsoft 365 Incident Response and Threat Hunting PowerShell tool.
 	The Hawk is designed to ease the burden on M365 administrators who are performing Cloud forensic tasks for their organization.
 	It accelerates the gathering of data from multiple sources in the service that be used to quickly identify malicious presence and activity.
 
-__Downloads__: 62,487 | __Repository__: https://github.com/T0pCyber/Hawk
+__Downloads__: 62,555 | __Repository__: https://github.com/T0pCyber/Hawk
+
+## [PSGumshoe](https://www.powershellgallery.com/Packages/PSGumshoe/2.0.13) | 2.0.13
+
+### Published: 12/01/2024 17:03:48 by Carlos Perez (carlos_perez@darkoperator.com)
+
+PowerShell module for data collection, incident response, hunting, and security analysis
+
+__Downloads__: 2,447 | __Repository__: 
+
+## [MSCatalogLTS](https://www.powershellgallery.com/Packages/MSCatalogLTS/1.0.5) | 1.0.5
+
+### Published: 12/01/2024 16:40:02 by Marco-online
+
+MSCatalogLTS is a Long-term support module for searching and downloading Windows updates
+
+__Downloads__: 423 | __Repository__: https://github.com/Marco-online/MSCatalogLTS
+
+## [PsCraft](https://www.powershellgallery.com/Packages/PsCraft/0.2.4) | 0.2.4
+
+### Published: 12/01/2024 15:52:24 by Alain Herve
+
+Provides cmdlets to speed up common PowerShell development tasks.
+
+__Downloads__: 247 | __Repository__: https://github.com/alainQtec/PsCraft
 
 ## [PSc8y](https://www.powershellgallery.com/Packages/PSc8y/2.45.0) | 2.45.0
 
@@ -425,7 +980,23 @@ __Downloads__: 62,487 | __Repository__: https://github.com/T0pCyber/Hawk
 
 Cumulocity REST API
 
-__Downloads__: 3,089 | __Repository__: https://reubenmiller.github.io/go-c8y-cli
+__Downloads__: 3,090 | __Repository__: https://reubenmiller.github.io/go-c8y-cli
+
+## [AutomateNOW](https://www.powershellgallery.com/Packages/AutomateNOW/1.0.31) | 1.0.31
+
+### Published: 12/01/2024 05:26:53 by AutomateNOW-Fan
+
+Interact with the API of an AutomateNOW! instance
+
+__Downloads__: 315 | __Repository__: https://github.com/AutomateNOW-Fan/AutomateNOW
+
+## [PsLogMessage](https://www.powershellgallery.com/Packages/PsLogMessage/1.0.118) | 1.0.118
+
+### Published: 12/01/2024 04:15:55 by Jeremy La Camera
+
+Logs, displays, and outputs log messages after adding metadata such as timestamp, hostname, etc.
+
+__Downloads__: 980 | __Repository__: 
 
 ## [PSWinGlue](https://www.powershellgallery.com/Packages/PSWinGlue/0.6.11) | 0.6.11
 
@@ -433,7 +1004,47 @@ __Downloads__: 3,089 | __Repository__: https://reubenmiller.github.io/go-c8y-cli
 
 An assortment of useful PowerShell scripts
 
-__Downloads__: 74,303 | __Repository__: https://github.com/ralish/PSWinGlue
+__Downloads__: 74,375 | __Repository__: https://github.com/ralish/PSWinGlue
+
+## [PSPuTTYCfg](https://www.powershellgallery.com/Packages/PSPuTTYCfg/0.2.15) | 0.2.15
+
+### Published: 12/01/2024 00:10:37 by Samuel Leslie
+
+Bringing simple dotfiles management to Windows
+
+__Downloads__: 669 | __Repository__: https://github.com/ralish/PSPuTTYCfg
+
+## [PsNtfs](https://www.powershellgallery.com/Packages/PsNtfs/2.0.227) | 2.0.227
+
+### Published: 11/30/2024 23:19:13 by Jeremy La Camera
+
+Work with the contents of NTFS volumes
+
+__Downloads__: 2,332 | __Repository__: 
+
+## [PowerTools](https://www.powershellgallery.com/Packages/PowerTools/2.0.0) | 2.0.0
+
+### Published: 11/30/2024 21:33:36 by Stefan Greve
+
+General purpose Cmdlets for all platforms.
+
+__Downloads__: 8 | __Repository__: https://github.com/StefanGreve/profile
+
+## [OZO](https://www.powershellgallery.com/Packages/OZO/1.2.0) | 1.2.0
+
+### Published: 11/30/2024 21:14:27 by Andy Lievertz <alievertz@onezeroone.dev>
+
+One Zero One custom functions
+
+__Downloads__: 22 | __Repository__: https://github.com/onezeroone-dev/OZO-PowerShell-Module
+
+## [cliHelper.core](https://www.powershellgallery.com/Packages/cliHelper.core/0.1.5) | 0.1.5
+
+### Published: 11/30/2024 17:39:02 by Alain Herve
+
+PowerShell module to improve core devx
+
+__Downloads__: 197 | __Repository__: https://github.com/alainQtec/cliHelper.core
 
 ## [AzureResourceInventory](https://www.powershellgallery.com/Packages/AzureResourceInventory/3.5.12) | 3.5.12
 
@@ -441,7 +1052,63 @@ __Downloads__: 74,303 | __Repository__: https://github.com/ralish/PSWinGlue
 
 Azure Resource Inventory - Its a Powerful tool to create EXCEL inventory from Azure Resources with low effort
 
-__Downloads__: 11,384 | __Repository__: https://github.com/microsoft/ARI
+__Downloads__: 11,594 | __Repository__: https://github.com/microsoft/ARI
+
+## [PSDify](https://www.powershellgallery.com/Packages/PSDify/0.1.0) | 0.1.0
+
+### Published: 11/30/2024 14:11:14 by kurokobo
+
+PowerShell module for Dify.
+
+__Downloads__: 17 | __Repository__: https://github.com/kurokobo/psdify
+
+## [SHIMSOFT-Fundamentals](https://www.powershellgallery.com/Packages/SHIMSOFT-Fundamentals/2.0) | 2.0
+
+### Published: 11/30/2024 14:10:41 by SHIMSOFT
+
+PowerShell の利用に関する支援機能を提供します。
+
+__Downloads__: 538 | __Repository__: 
+
+## [SystemAdmins.M365Assessment](https://www.powershellgallery.com/Packages/SystemAdmins.M365Assessment/1.0.13) | 1.0.13
+
+### Published: 11/30/2024 13:27:06 by Alex Hansen
+
+Module to review the Microsoft 365 tenant settings
+
+__Downloads__: 3,459 | __Repository__: https://github.com/System-Admins/m365assessment
+
+## [Pash](https://www.powershellgallery.com/Packages/Pash/0.1.1) | 0.1.1
+
+### Published: 11/30/2024 12:04:42 by moluopro
+
+Bash cmdlet in PowerShell
+
+__Downloads__: 7 | __Repository__: https://github.com/moluopro/pash
+
+## [CloudStack](https://www.powershellgallery.com/Packages/CloudStack/1.2) | 1.2
+
+### Published: 11/30/2024 11:25:09 by Jörg Tuttas
+
+PowerShell-Modul zur Verwaltung von CloudStack-Projekten und Benutzern
+
+__Downloads__: 18 | __Repository__: 
+
+## [Confluence](https://www.powershellgallery.com/Packages/Confluence/0.0.1) | 0.0.1
+
+### Published: 11/30/2024 10:14:35 by PSModule
+
+A PowerShell module that interacts with Atlassian Confluence
+
+__Downloads__: 5 | __Repository__: https://github.com/PSModule/Confluence
+
+## [LinkedIn](https://www.powershellgallery.com/Packages/LinkedIn/0.0.1) | 0.0.1
+
+### Published: 11/30/2024 09:53:11 by PSModule
+
+A PowerShell module to programmatically interact with LinkedIn
+
+__Downloads__: 6 | __Repository__: https://github.com/PSModule/LinkedIn
 
 ## [PSCompletions](https://www.powershellgallery.com/Packages/PSCompletions/5.1.4) | 5.1.4
 
@@ -454,7 +1121,15 @@ A completion manager for better and simpler use PowerShell completions.
   - Github:  https://github.com/abgox/PSCompletions
   - Gitee:   https://gitee.com/abgox/PSCompletions
 
-__Downloads__: 20,031 | __Repository__: https://github.com/abgox/PSCompletions
+__Downloads__: 20,190 | __Repository__: https://github.com/abgox/PSCompletions
+
+## [Find-InFiles](https://www.powershellgallery.com/Packages/Find-InFiles/1.2) | 1.2
+
+### Published: 11/29/2024 23:04:40 by Phillip Beazley
+
+Finds a string within files of a specific type within the given locations and/or files with names containing that string.
+
+__Downloads__: 1,730 | __Repository__: 
 
 ## [VenafiPS](https://www.powershellgallery.com/Packages/VenafiPS/6.6.1) | 6.6.1
 
@@ -462,7 +1137,33 @@ __Downloads__: 20,031 | __Repository__: https://github.com/abgox/PSCompletions
 
 Automate your Venafi TLS Protect Datacenter and Cloud platforms!
 
-__Downloads__: 26,818 | __Repository__: https://github.com/Venafi/VenafiPS
+__Downloads__: 26,810 | __Repository__: https://github.com/Venafi/VenafiPS
+
+## [PSProfileMigrationAssistant](https://www.powershellgallery.com/Packages/PSProfileMigrationAssistant/2.0.6) | 2.0.6
+
+### Published: 11/29/2024 15:50:34 by eswaras
+
+This PowerShell module is designed to migrate profile data from one location to another
+
+__Downloads__: 78 | __Repository__: https://github.com/eswarawaka/PSProfileMigrationAssistant
+
+## [quickpath](https://www.powershellgallery.com/Packages/quickpath/0.14.0) | 0.14.0
+
+### Published: 11/29/2024 13:49:16 by Mark Visschers
+
+'quickpath' is a script to help easily navigate your system using the commandline.
+        Using aliases the script saves relative paths to quickly navigate to folders associated with the alias
+        and even makes it easy to open the folders/projects in your favorite tools.
+
+__Downloads__: 170 | __Repository__: https://github.com/MatrTech/quickpath
+
+## [AnyPackage.NuGet](https://www.powershellgallery.com/Packages/AnyPackage.NuGet/0.1.0) | 0.1.0
+
+### Published: 11/28/2024 20:38:32 by Thomas Nieto
+
+NuGet provider for AnyPackage.
+
+__Downloads__: 13 | __Repository__: https://github.com/anypackage/nuget
 
 ## [Veeam.Diagrammer](https://www.powershellgallery.com/Packages/Veeam.Diagrammer/0.6.17) | 0.6.17
 
@@ -470,7 +1171,7 @@ __Downloads__: 26,818 | __Repository__: https://github.com/Venafi/VenafiPS
 
 A PowerShell module to generate an Veeam Backup & Replication infrastructure diagram
 
-__Downloads__: 25,017 | __Repository__: https://github.com/rebelinux/Veeam.Diagrammer
+__Downloads__: 24,957 | __Repository__: https://github.com/rebelinux/Veeam.Diagrammer
 
 ## [DomainHealthChecker](https://www.powershellgallery.com/Packages/DomainHealthChecker/1.7) | 1.7
 
@@ -478,7 +1179,49 @@ __Downloads__: 25,017 | __Repository__: https://github.com/rebelinux/Veeam.Diagr
 
 PowerShell module for checking SPF, DKIM, and DMARC records for one or multiple domains. This module also checks for the existence of MTA-STS and whether DNSSEC is configured.
 
-__Downloads__: 50,295 | __Repository__: https://github.com/T13nn3s/Show-SpfDkimDmarc/
+__Downloads__: 50,255 | __Repository__: https://github.com/T13nn3s/Show-SpfDkimDmarc/
+
+## [MarvellQLogicFCPowerKit](https://www.powershellgallery.com/Packages/MarvellQLogicFCPowerKit/2.3.2.0) | 2.3.2.0
+
+### Published: 11/28/2024 12:22:38 by Marvell_Semiconductor_Inc
+
+Marvell QLogic FC PowerKit for managing QLogic FC adapters using PowerShell CmdLets on Windows, Linux and VMware_ESXi hosts.
+
+__Downloads__: 939 | __Repository__: https://www.marvell.com/support/downloads.html?PLATFORMLIST=&PORTLIST=&CATEGORYLIST=Fibre%20Channel%20Adapters&KEYWORDS=Power%20Kit&OEM=&LEGACY=&SUBOS=&RESOURCETYPE=Management%20Tools&RELEASEDATERANGE=06/10/2024%20-%2006/10/2024
+
+## [get-xkcdpassword](https://www.powershellgallery.com/Packages/get-xkcdpassword/0.0.4) | 0.0.4
+
+### Published: 11/28/2024 12:10:45 by Pavel Ryzhkov
+
+A PowerShell module for generating memorable XKCD-style passwords.
+
+__Downloads__: 20 | __Repository__: https://github.com/pavelryzhkov/XKCDPasswordGenerator
+
+## [AlkanePSF](https://www.powershellgallery.com/Packages/AlkanePSF/2.2.3) | 2.2.3
+
+### Published: 11/28/2024 10:18:04 by Kae Travis
+
+Alkane PSF Helpers for MSIX, enabling MSIX Packagers to inject Microsoft or Tim Mangan PSF fix-ups using cmdlets.
+
+For usage, visit https://www.alkanesolutions.co.uk/2024/03/26/free-msix-packaging-tool-for-the-package-support-framework/
+
+__Downloads__: 149 | __Repository__: https://www.alkanesolutions.co.uk/2024/03/26/free-msix-packaging-tool-for-the-package-support-framework/
+
+## [PsArchTools](https://www.powershellgallery.com/Packages/PsArchTools/0.4.1) | 0.4.1
+
+### Published: 11/28/2024 09:40:01 by Steffen Kampmann
+
+Tools to support software architects.
+
+__Downloads__: 86 | __Repository__: 
+
+## [DataFrame](https://www.powershellgallery.com/Packages/DataFrame/0.2.3) | 0.2.3
+
+### Published: 11/28/2024 08:50:19 by Roman Kuzmin
+
+Cmdlets for Microsoft.Data.Analysis.DataFrame
+
+__Downloads__: 1,351 | __Repository__: https://github.com/nightroman/DataFrame
 
 ## [7Zip4Powershell](https://www.powershellgallery.com/Packages/7Zip4Powershell/2.6.0) | 2.6.0
 
@@ -486,7 +1229,7 @@ __Downloads__: 50,295 | __Repository__: https://github.com/T13nn3s/Show-SpfDkimD
 
 Powershell module for creating and extracting 7-Zip archives
 
-__Downloads__: 17,877,060 | __Repository__: https://github.com/thoemmi/7Zip4Powershell
+__Downloads__: 17,873,539 | __Repository__: https://github.com/thoemmi/7Zip4Powershell
 
 ## [tiPS](https://www.powershellgallery.com/Packages/tiPS/1.3.23) | 1.3.23
 
@@ -494,7 +1237,15 @@ __Downloads__: 17,877,060 | __Repository__: https://github.com/thoemmi/7Zip4Powe
 
 PowerShell tips delivered straight to your terminal.
 
-__Downloads__: 11,819 | __Repository__: https://github.com/deadlydog/PowerShell.tiPS
+__Downloads__: 11,835 | __Repository__: https://github.com/deadlydog/PowerShell.tiPS
+
+## [SmtpClientDiag](https://www.powershellgallery.com/Packages/SmtpClientDiag/1.4.0.4) | 1.4.0.4
+
+### Published: 11/28/2024 03:09:43 by Richard Fajardo
+
+Smtp client diagnostic modules for troubleshoting SMTP client submission
+
+__Downloads__: 2,066 | __Repository__: https://github.com/richfaj/SmtpClientDiag
 
 ## [powershell-designer](https://www.powershellgallery.com/Packages/powershell-designer/2.7.4) | 2.7.4
 
@@ -502,7 +1253,15 @@ __Downloads__: 11,819 | __Repository__: https://github.com/deadlydog/PowerShell.
 
 The best free form designer for powershell.
 
-__Downloads__: 19,839 | __Repository__: https://github.com/brandoncomputer/powershell-designer
+__Downloads__: 19,905 | __Repository__: https://github.com/brandoncomputer/powershell-designer
+
+## [PSAPIClient](https://www.powershellgallery.com/Packages/PSAPIClient/1.1.4) | 1.1.4
+
+### Published: 11/27/2024 21:43:11 by ThomasWilla
+
+This Powershell module is a wrapper for the use of one or more API(s). Each API can be configured and addressed independently. This allows easy use of multiple APIs within a session.
+
+__Downloads__: 21 | __Repository__: https://github.com/ThomasWilla/PSAPIClient
 
 ## [PSEasy.Utility](https://www.powershellgallery.com/Packages/PSEasy.Utility/1.11.2) | 1.11.2
 
@@ -512,13 +1271,21 @@ Lightweight army of helpers for general powershell activities
 
 __Downloads__: 13,778 | __Repository__: https://github.com/o-o00o-o/PSEasy.Utility
 
+## [FarNet.Redis](https://www.powershellgallery.com/Packages/FarNet.Redis/0.14.1) | 0.14.1
+
+### Published: 11/27/2024 16:21:00 by Roman Kuzmin
+
+StackExchange.Redis cmdlets
+
+__Downloads__: 241 | __Repository__: https://github.com/nightroman/FarNet.Redis
+
 ## [Kelverion.ServiceNow](https://www.powershellgallery.com/Packages/Kelverion.ServiceNow/3.6) | 3.6
 
 ### Published: 11/27/2024 12:12:21 by Kelverion Inc.
 
 This Integration Module provides cmdlets for automating interaction with ServiceNow and is designed to be used with Runbook Studio and Azure Automation. Get more information and download the Runbook Studio from (https://www.kelverion.com/runbook-studio/). For a free evaluation licence please email info@kelverion.com.
 
-__Downloads__: 4,161 | __Repository__: https://www.kelverion.com/runbook-service-now/
+__Downloads__: 4,162 | __Repository__: https://www.kelverion.com/runbook-service-now/
 
 ## [InvokeBuild](https://www.powershellgallery.com/Packages/InvokeBuild/5.12.1) | 5.12.1
 
@@ -526,7 +1293,7 @@ __Downloads__: 4,161 | __Repository__: https://www.kelverion.com/runbook-service
 
 Build and test automation in PowerShell
 
-__Downloads__: 2,086,743 | __Repository__: https://github.com/nightroman/Invoke-Build
+__Downloads__: 2,085,715 | __Repository__: https://github.com/nightroman/Invoke-Build
 
 ## [Alt3.Docusaurus.Powershell](https://www.powershellgallery.com/Packages/Alt3.Docusaurus.Powershell/1.0.37) | 1.0.37
 
@@ -536,7 +1303,47 @@ Feature-rich websites for PowerShell Modules.
 
 Live demo at https://docusaurus-powershell.vercel.app/
 
-__Downloads__: 7,546 | __Repository__: https://www.github.com/alt3/Docusaurus.Powershell
+__Downloads__: 7,583 | __Repository__: https://www.github.com/alt3/Docusaurus.Powershell
+
+## [Omnishell](https://www.powershellgallery.com/Packages/Omnishell/0.0.14) | 0.0.14
+
+### Published: 11/27/2024 11:46:36 by Tomasz.Brasse
+
+C# module augmenting your powershell prompt
+
+__Downloads__: 131 | __Repository__: 
+
+## [AzureDevOpsBoardHelper](https://www.powershellgallery.com/Packages/AzureDevOpsBoardHelper/3.2.1) | 3.2.1
+
+### Published: 11/27/2024 11:30:18 by Lars Panzerbjørn
+
+This module will help with certain operations in your Azure DevOps organisation. Especially batch creating new items, or scheduling repeated tasks, pipelines etc. Feel free to get in touch via GitHub if there is anything you would like to see added.
+
+__Downloads__: 635 | __Repository__: https://github.com/Panzerbjrn/AzureDevOpsBoardHelper
+
+## [GeneralHelperModule](https://www.powershellgallery.com/Packages/GeneralHelperModule/3.0.2) | 3.0.2
+
+### Published: 11/27/2024 11:28:11 by Lars Panzerbjørn
+
+A variety of generic functions I use occasionally, or keep for inclusion in other modules as helper functions.
+
+__Downloads__: 116 | __Repository__: https://github.com/Panzerbjrn/GeneralHelperModule
+
+## [AzureGeneralHelpers](https://www.powershellgallery.com/Packages/AzureGeneralHelpers/3.0.0) | 3.0.0
+
+### Published: 11/27/2024 11:28:04 by Lars Panzerbjørn
+
+Module to help with simple Azure tasks
+
+__Downloads__: 123 | __Repository__: https://github.com/Panzerbjrn/AzureGeneralHelpers
+
+## [AdaptiveCard](https://www.powershellgallery.com/Packages/AdaptiveCard/1.2.0) | 1.2.0
+
+### Published: 11/27/2024 11:25:45 by Aleksey Abramov
+
+Create Adaptive Cards in PowerShell with different elements
+
+__Downloads__: 34 | __Repository__: https://github.com/alxcreate/adaptivecard-powershell-module
 
 ## [AZSBTools](https://www.powershellgallery.com/Packages/AZSBTools/1.271.100) | 1.271.100
 
@@ -544,7 +1351,7 @@ __Downloads__: 7,546 | __Repository__: https://www.github.com/alt3/Docusaurus.Po
 
 PowerShell module containing several Azure tools by Sam Boutros
 
-__Downloads__: 45,172 | __Repository__: https://superwidgets.wordpress.com/
+__Downloads__: 45,247 | __Repository__: https://superwidgets.wordpress.com/
 
 ## [PSTcpIp](https://www.powershellgallery.com/Packages/PSTcpIp/6.3.0) | 6.3.0
 
@@ -552,7 +1359,7 @@ __Downloads__: 45,172 | __Repository__: https://superwidgets.wordpress.com/
 
 Provides cmdlets to perform various TCPIP and TLS/SSL related tasks.
 
-__Downloads__: 8,349 | __Repository__: https://github.com/anthonyg-1/PSTcpIp
+__Downloads__: 8,359 | __Repository__: https://github.com/anthonyg-1/PSTcpIp
 
 ## [DCToolbox](https://www.powershellgallery.com/Packages/DCToolbox/2.1.6) | 2.1.6
 
@@ -560,7 +1367,7 @@ __Downloads__: 8,349 | __Repository__: https://github.com/anthonyg-1/PSTcpIp
 
 A PowerShell toolbox for Microsoft 365 security fans.
 
-__Downloads__: 96,848 | __Repository__: https://github.com/DanielChronlund/DCToolbox
+__Downloads__: 96,773 | __Repository__: https://github.com/DanielChronlund/DCToolbox
 
 ## [ScubaGear](https://www.powershellgallery.com/Packages/ScubaGear/1.4.0) | 1.4.0
 
@@ -569,7 +1376,15 @@ __Downloads__: 96,848 | __Repository__: https://github.com/DanielChronlund/DCToo
 The Secure Cloud Business Applications (SCuBA) Gear module automates
 conformance testing about CISA M365 Secure Configuration Baselines.
 
-__Downloads__: 41,819 | __Repository__: https://github.com/cisagov/ScubaGear
+__Downloads__: 42,316 | __Repository__: https://github.com/cisagov/ScubaGear
+
+## [PsImport](https://www.powershellgallery.com/Packages/PsImport/0.1.4) | 0.1.4
+
+### Published: 11/26/2024 20:08:41 by Alain Herve
+
+A module to import functions from PowerShell scripts in your project, and remote scripts making it easier to organize and reuse your code.
+
+__Downloads__: 61 | __Repository__: https://github.com/alainQtec/PsImport
 
 ## [WDACConfig](https://www.powershellgallery.com/Packages/WDACConfig/0.5.0) | 0.5.0
 
@@ -615,7 +1430,15 @@ Please see the GitHub page for Full details and everything about the module: htt
 
 ✔️ Get-CIPolicySetting: https://github.com/HotCakeX/Harden-Windows-Security/wiki/Get-CIPolicySetting
 
-__Downloads__: 21,396 | __Repository__: https://github.com/HotCakeX/Harden-Windows-Security/wiki/WDACConfig
+__Downloads__: 21,367 | __Repository__: https://github.com/HotCakeX/Harden-Windows-Security/wiki/WDACConfig
+
+## [BCWHSendpoint](https://www.powershellgallery.com/Packages/BCWHSendpoint/1.3) | 1.3
+
+### Published: 11/26/2024 19:31:43 by Wadebach22
+
+Black Cat White Hit Security Presents Microsoft Windows Endpoint Security Module. Please view our website for more detailed information.
+
+__Downloads__: 55 | __Repository__: https://blackcatwhitehatsecurity.com/endpoint.cfm
 
 ## [spec.network.management](https://www.powershellgallery.com/Packages/spec.network.management/1.0.2) | 1.0.2
 
@@ -623,7 +1446,15 @@ __Downloads__: 21,396 | __Repository__: https://github.com/HotCakeX/Harden-Windo
 
 A module to manage windows networking.
 
-__Downloads__: 2,653 | __Repository__: 
+__Downloads__: 2,667 | __Repository__: 
+
+## [CommvaultPowerShell](https://www.powershellgallery.com/Packages/CommvaultPowerShell/0.3.2) | 0.3.2
+
+### Published: 11/26/2024 13:51:47 by COMMVAULT
+
+COMMVAULT POWERSHELL SDK
+
+__Downloads__: 1,733 | __Repository__: https://github.com/Commvault/CVPowershellSDKV2/tree/2022E
 
 ## [TeamViewerPS](https://www.powershellgallery.com/Packages/TeamViewerPS/2.1.0) | 2.1.0
 
@@ -631,7 +1462,7 @@ __Downloads__: 2,653 | __Repository__:
 
 TeamViewerPS allows to interact with the TeamViewer Web API as well as a locally installed TeamViewer client.
 
-__Downloads__: 61,464,249 | __Repository__: https://github.com/teamviewer/TeamViewerPS
+__Downloads__: 61,524,034 | __Repository__: https://github.com/teamviewer/TeamViewerPS
 
 ## [PSEventViewer](https://www.powershellgallery.com/Packages/PSEventViewer/2.4.3) | 2.4.3
 
@@ -647,7 +1478,31 @@ __Downloads__: 770,342 | __Repository__: https://github.com/EvotecIT/PSEventView
 
 PowerShell module to generate DataFactory pipelines and datasets.
 
-__Downloads__: 7,569 | __Repository__: https://abbgrade.github.io/PsDataFactory/
+__Downloads__: 7,593 | __Repository__: https://abbgrade.github.io/PsDataFactory/
+
+## [AWSProfileManager](https://www.powershellgallery.com/Packages/AWSProfileManager/1.0.1) | 1.0.1
+
+### Published: 11/26/2024 05:31:07 by Zoltán Magyar
+
+A PowerShell module for managing AWS profiles
+
+__Downloads__: 14 | __Repository__: https://github.com/zoltan-magyar/aws-profile-manager-ps
+
+## [PSJumpStart](https://www.powershellgallery.com/Packages/PSJumpStart/2.0.0) | 2.0.0
+
+### Published: 11/25/2024 23:26:39 by Jack Olsson
+
+The PowerShell PSJumpStart module is a dynamic framework to create an environment for jumpstarting PS-script authoring. Please visit the project site for documentation and samples
+
+__Downloads__: 1,965 | __Repository__: https://github.com/jaols/PSJumpStart
+
+## [powershai](https://www.powershellgallery.com/Packages/powershai/0.6.6) | 0.6.6
+
+### Published: 11/25/2024 21:39:39 by Rodrigo Ribeiro Gomes
+
+Access AI capabilities directly from PowerShell
+
+__Downloads__: 296 | __Repository__: https://github.com/rrg92/powershai
 
 ## [DisplayConfig](https://www.powershellgallery.com/Packages/DisplayConfig/3.2) | 3.2
 
@@ -655,7 +1510,47 @@ __Downloads__: 7,569 | __Repository__: https://abbgrade.github.io/PsDataFactory/
 
 Manage Windows display settings like resolution, DPI scale, HDR and more.
 
-__Downloads__: 25,038 | __Repository__: https://github.com/MartinGC94/DisplayConfig
+__Downloads__: 24,926 | __Repository__: https://github.com/MartinGC94/DisplayConfig
+
+## [DnsClientX](https://www.powershellgallery.com/Packages/DnsClientX/0.3.4) | 0.3.4
+
+### Published: 11/25/2024 16:26:52 by Przemyslaw Klys
+
+DnsClientX is PowerShell module that allows you to query DNS servers for information. It supports DNS over UDP, TCP and DNS over HTTPS (DoH) and DNS over TLS (DoT). It supports multiple types of DNS queries and can be used to query public DNS servers, private DNS servers and has built-in DNS Providers.
+
+__Downloads__: 239 | __Repository__: https://github.com/EvotecIT/DnsClientX
+
+## [Hardensysvol](https://www.powershellgallery.com/Packages/Hardensysvol/1.7.4) | 1.7.4
+
+### Published: 11/25/2024 15:30:26 by DAKHAMA Mehdi
+
+Harden Sysvol is a Powershell Module to scan sysvol folder to search the sensitivity data, and vulnerability.
+
+__Downloads__: 1,776 | __Repository__: https://github.com/dakhama-mehdi/Harden-Sysvol
+
+## [Juriba.DPC](https://www.powershellgallery.com/Packages/Juriba.DPC/1.1.0.1) | 1.1.0.1
+
+### Published: 11/25/2024 15:14:55 by Juriba
+
+PowerShell Module to interact with Juriba DPC.
+
+__Downloads__: 83 | __Repository__: https://github.com/juribalimited/powershell-module-dpc
+
+## [PSSymantecSEPM](https://www.powershellgallery.com/Packages/PSSymantecSEPM/0.12.1) | 0.12.1
+
+### Published: 11/25/2024 15:09:24 by Aurélien BOUMANNE
+
+Common set of tools to interact with Symantec Endpoint Protection Manager (SEPM) product
+
+__Downloads__: 154 | __Repository__: https://github.com/Douda/PSSymantecSEPM
+
+## [RiverMeadow.Development.Migrate](https://www.powershellgallery.com/Packages/RiverMeadow.Development.Migrate/1.0.124.579) | 1.0.124.579
+
+### Published: 11/25/2024 11:38:36 by RiverMeadow Engineering Team
+
+Provides cmdlets for starting migration of applications to supported clouds using the RiverMeadow platform.
+
+__Downloads__: 1,296 | __Repository__: https://migrate.rivermeadow.com/
 
 ## [SMART-BcBuildHelper](https://www.powershellgallery.com/Packages/SMART-BcBuildHelper/1.5.36) | 1.5.36
 
@@ -663,7 +1558,23 @@ __Downloads__: 25,038 | __Repository__: https://github.com/MartinGC94/DisplayCon
 
 Module SMART-BcBuildHelper
 
-__Downloads__: 26,507 | __Repository__: 
+__Downloads__: 26,497 | __Repository__: 
+
+## [PSProgress](https://www.powershellgallery.com/Packages/PSProgress/1.0) | 1.0
+
+### Published: 11/25/2024 07:12:55 by Daniel Potter
+
+This module provides a cmdlet that simplifies the process of creating and managing progress bars in your PowerShell scripts.
+
+__Downloads__: 20 | __Repository__: https://github.com/DanielPotter/PSProgress
+
+## [SesioWorker](https://www.powershellgallery.com/Packages/SesioWorker/0.0.5) | 0.0.5
+
+### Published: 11/24/2024 22:00:26 by Chandan Bhagat
+
+Sesio Worker Module
+
+__Downloads__: 42 | __Repository__: 
 
 ## [Context](https://www.powershellgallery.com/Packages/Context/4.0.0) | 4.0.0
 
@@ -671,7 +1582,15 @@ __Downloads__: 26,507 | __Repository__:
 
 A PowerShell module that manages contexts with secrets and variables.
 
-__Downloads__: 4,296 | __Repository__: https://github.com/PSModule/Context
+__Downloads__: 4,563 | __Repository__: https://github.com/PSModule/Context
+
+## [powerrti](https://www.powershellgallery.com/Packages/powerrti/0.2.0) | 0.2.0
+
+### Published: 11/24/2024 20:24:12 by Frank Geisler
+
+PowerRTI is a PowerShell module to automate Fabric Real-Time Intelligence in PowerShell
+
+__Downloads__: 14 | __Repository__: 
 
 ## [ADEssentials](https://www.powershellgallery.com/Packages/ADEssentials/0.0.226) | 0.0.226
 
@@ -679,7 +1598,7 @@ __Downloads__: 4,296 | __Repository__: https://github.com/PSModule/Context
 
 Helper module for Active Directory with lots of useful functions that simplify supporting Active Directory.
 
-__Downloads__: 460,648 | __Repository__: https://github.com/EvotecIT/ADEssentials
+__Downloads__: 460,240 | __Repository__: https://github.com/EvotecIT/ADEssentials
 
 ## [gitlab4](https://www.powershellgallery.com/Packages/gitlab4/1.11.0) | 1.11.0
 
@@ -687,7 +1606,47 @@ __Downloads__: 460,648 | __Repository__: https://github.com/EvotecIT/ADEssential
 
 Gitlab API v4 helper functions
 
-__Downloads__: 465,610 | __Repository__: https://gitlab.com/mteodor/gitlab4
+__Downloads__: 465,604 | __Repository__: https://gitlab.com/mteodor/gitlab4
+
+## [ExoReports](https://www.powershellgallery.com/Packages/ExoReports/1.0.1) | 1.0.1
+
+### Published: 11/24/2024 16:38:00 by Krystian Zieja
+
+PowerShell module to generate Exchange Online reports, which can be handy for auditing and monitoring purposes.
+
+__Downloads__: 18 | __Repository__: https://github.com/conceptoria/exo-reports
+
+## [AMSoftware.Dataverse.PowerShell](https://www.powershellgallery.com/Packages/AMSoftware.Dataverse.PowerShell/0.5.0) | 0.5.0
+
+### Published: 11/24/2024 15:08:14 by AMSoftwareNL
+
+PowerShell Module for Power Platform Dataverse
+
+__Downloads__: 16 | __Repository__: https://github.com/AMSoftwareNL/DataversePowershell
+
+## [GenXdev.AI](https://www.powershellgallery.com/Packages/GenXdev.AI/1.76.2024) | 1.76.2024
+
+### Published: 11/23/2024 23:16:28 by GenXdev
+
+A Windows PowerShell module for local and online AI related operations
+
+__Downloads__: 59 | __Repository__: https://github.com/genXdev/GenXdev.AI
+
+## [GenXdev.Console](https://www.powershellgallery.com/Packages/GenXdev.Console/1.76.2024) | 1.76.2024
+
+### Published: 11/23/2024 23:14:49 by GenXdev
+
+A Windows PowerShell module for enhancing the commandline experience
+
+__Downloads__: 821 | __Repository__: https://github.com/genXdev/GenXdev.Console
+
+## [GenXdev.Queries](https://www.powershellgallery.com/Packages/GenXdev.Queries/1.76.2024) | 1.76.2024
+
+### Published: 11/23/2024 23:13:27 by GenXdev
+
+A Windows PowerShell module for finding resources and information on the internet
+
+__Downloads__: 854 | __Repository__: https://github.com/genXdev/GenXdev.Queries
 
 ## [GenXdev.Webbrowser](https://www.powershellgallery.com/Packages/GenXdev.Webbrowser/1.76.2024) | 1.76.2024
 
@@ -695,7 +1654,7 @@ __Downloads__: 465,610 | __Repository__: https://gitlab.com/mteodor/gitlab4
 
 A Windows PowerShell module that allows you to run scripts against your casual desktop webbrowser-tab
 
-__Downloads__: 4,579 | __Repository__: https://github.com/genXdev/GenXdev.Webbrowser
+__Downloads__: 4,598 | __Repository__: https://github.com/genXdev/GenXdev.Webbrowser
 
 ## [GenXdev.Windows](https://www.powershellgallery.com/Packages/GenXdev.Windows/1.76.2024) | 1.76.2024
 
@@ -703,7 +1662,7 @@ __Downloads__: 4,579 | __Repository__: https://github.com/genXdev/GenXdev.Webbro
 
 A Windows PowerShell module that provides ui Windows manipulation helpers
 
-__Downloads__: 4,289 | __Repository__: https://github.com/genXdev/GenXdev.Windows
+__Downloads__: 4,316 | __Repository__: https://github.com/genXdev/GenXdev.Windows
 
 ## [GenXdev.FileSystem](https://www.powershellgallery.com/Packages/GenXdev.FileSystem/1.76.2024) | 1.76.2024
 
@@ -711,7 +1670,7 @@ __Downloads__: 4,289 | __Repository__: https://github.com/genXdev/GenXdev.Window
 
 A Windows PowerShell module for basic and advanced file management tasks
 
-__Downloads__: 4,658 | __Repository__: https://github.com/genXdev/GenXdev.FileSystem
+__Downloads__: 4,680 | __Repository__: https://github.com/genXdev/GenXdev.FileSystem
 
 ## [GenXdev.Helpers](https://www.powershellgallery.com/Packages/GenXdev.Helpers/1.76.2024) | 1.76.2024
 
@@ -719,1420 +1678,454 @@ __Downloads__: 4,658 | __Repository__: https://github.com/genXdev/GenXdev.FileSy
 
 A Windows PowerShell module with helpers mostly used by other GenXdev modules
 
-__Downloads__: 4,642 | __Repository__: https://github.com/genXdev/GenXdev.Helpers
+__Downloads__: 4,661 | __Repository__: https://github.com/genXdev/GenXdev.Helpers
 
-## [IdracRedfishSupport](https://www.powershellgallery.com/Packages/IdracRedfishSupport/23.0.0.0) | 23.0.0.0
+## [InstallPSModules](https://www.powershellgallery.com/Packages/InstallPSModules/1.1.0) | 1.1.0
 
-### Published: 11/22/2024 20:08:15 by Texas Roemer
+### Published: 11/23/2024 18:09:06 by Kevin Berridge
 
-Main module used to import all individual iDRAC Redfish modules listed in the Powershell gallery. For more details and examples for each module, execute get-help on the specific module.
+Installs and imports PowerShell modules defined in psmodules.json.
 
-__Downloads__: 13,529 | __Repository__: 
+__Downloads__: 16 | __Repository__: https://github.com/kberridge/InstallPSModules
 
-## [AsBuiltReport.VMware.Horizon](https://www.powershellgallery.com/Packages/AsBuiltReport.VMware.Horizon/1.1.4) | 1.1.4
+## [qbo4.Infrastructure](https://www.powershellgallery.com/Packages/qbo4.Infrastructure/1.0.21.35) | 1.0.21.35
 
-### Published: 11/22/2024 19:25:41 by Chris Hildebrandt
+### Published: 11/23/2024 17:14:34 by Quandis Inc.
 
-A PowerShell module to generate as built reports on the configuration of VMware Horizon
+Quandis Infrastructure Management, including publishing of qbo databases and websites.
 
-__Downloads__: 14,121 | __Repository__: https://github.com/AsBuiltReport/AsBuiltReport.VMware.Horizon
+__Downloads__: 1,259 | __Repository__: https://dev.azure.com/quandis/qbo4/_git/qbo4.Infrastructure
 
-## [CAT](https://www.powershellgallery.com/Packages/CAT/1.12.0.2) | 1.12.0.2
+## [HelperFunctions](https://www.powershellgallery.com/Packages/HelperFunctions/2.7.6) | 2.7.6
 
-### Published: 11/22/2024 19:14:55 by Joyful Craftsmen CAT Team
+### Published: 11/23/2024 16:08:15 by Heather Miller
 
-Author, run and manage AUTOMATED TESTS for your DATA with minimum effort.
+This module contains a number of functions PowerShell scripts and scriptlets that make it quicker to write new code utilizing functions to handle common methods.
 
-__Downloads__: 4,017 | __Repository__: https://docs.justcat.it/
+__Downloads__: 1,229 | __Repository__: https://github.com/hmiller10/HelperFunctions
 
-## [OriAzBopBoostrapOriPsgallery](https://www.powershellgallery.com/Packages/OriAzBopBoostrapOriPsgallery/3.10.1) | 3.10.1
+## [AsBuiltReport.Veeam.VBR](https://www.powershellgallery.com/Packages/AsBuiltReport.Veeam.VBR/0.8.12) | 0.8.12
 
-### Published: 11/22/2024 09:31:44 by Petr Jezek
+### Published: 11/23/2024 02:19:20 by Jonathan Colon
 
-Connect to Oriflame.Ps.Gallery
+A PowerShell module to generate an as built report on the configuration of Veeam VBR.
 
-__Downloads__: 84,887 | __Repository__: https://oriflame.visualstudio.com/Oriflame.PS.Gallery/
+__Downloads__: 27,710 | __Repository__: https://github.com/AsBuiltReport/AsBuiltReport.Veeam.VBR
 
-## [Microsoft.PowerPlatform.DevOps](https://www.powershellgallery.com/Packages/Microsoft.PowerPlatform.DevOps/2.0.216) | 2.0.216
+## [Set-ScheduleRepositoryUpdateREDFISH](https://www.powershellgallery.com/Packages/Set-ScheduleRepositoryUpdateREDFISH/2.0.0) | 2.0.0
 
-### Published: 11/22/2024 01:45:50 by Dylan Haskins and Eugene Van Staden
+### Published: 11/22/2024 21:25:23 by Texas Roemer
 
-A Toolset for Implementing and Adopting a full ALM strategy for the Microsoft PowerPlatform.
+iDRAC cmdlet using Redfish API with OEM extension to schedule a repository update at a future reoccurrence date time."
 
-__Downloads__: 67,958 | __Repository__: https://github.com/dylanhaskins/Microsoft.PowerPlatform.DevOps.Documentation
+__Downloads__: 17 | __Repository__: 
 
-## [AsBuiltReport.VMware.AppVolumes](https://www.powershellgallery.com/Packages/AsBuiltReport.VMware.AppVolumes/1.2.0) | 1.2.0
+## [Set-OneBIOSAttributeREDFISH](https://www.powershellgallery.com/Packages/Set-OneBIOSAttributeREDFISH/8.0.0) | 8.0.0
 
-### Published: 11/22/2024 00:30:53 by Chris Hildebrandt
+### Published: 11/22/2024 21:24:35 by Texas Roemer
 
-A PowerShell module to generate As built reports on the configuration of VMware AppVolumes
+Cmdlet using iDRAC with Redfish API to either set one BIOS attribute or get current value of BIOS attributes. When setting BIOS attribute, make sure you pass in exact name of the attribute and value since these are case sensitive. Example: For attribute MemTest, you must pass in "MemTest". Passing in "memtest" will fail.
 
-__Downloads__: 10,952 | __Repository__: https://github.com/AsBuiltReport/AsBuiltReport.VMware.AppVolumes
+__Downloads__: 382 | __Repository__: 
 
-## [VeeamSPC](https://www.powershellgallery.com/Packages/VeeamSPC/0.1.3.0) | 0.1.3.0
+## [Set-OemNetworkPropertiesREDFISH](https://www.powershellgallery.com/Packages/Set-OemNetworkPropertiesREDFISH/7.0.0) | 7.0.0
 
-### Published: 11/21/2024 23:48:43 by Chris Taylor
+### Published: 11/22/2024 21:24:12 by Texas Roemer
 
-PowerShell module for working with Veeam Service Provider Console.
+iDRAC cmdlet using Redfish API with OEM extension to either get current network card settings, get specific network card attribute current value, get network card attribute registry or set mulitple network card attributes. This cmdlet will allow you to set network card attributes which are not supported by DMTF.
 
-__Downloads__: 40,708 | __Repository__: https://github.com/christaylorcodes/VeeamSPC
+__Downloads__: 107 | __Repository__: 
 
-## [Export-Bitwarden](https://www.powershellgallery.com/Packages/Export-Bitwarden/1.47) | 1.47
+## [Set-NextOneTimeBootVirtualMediaDeviceOemREDFISH](https://www.powershellgallery.com/Packages/Set-NextOneTimeBootVirtualMediaDeviceOemREDFISH/7.0.0) | 7.0.0
 
-### Published: 11/21/2024 18:44:13 by Thomas Parkison
+### Published: 11/22/2024 21:23:42 by Texas Roemer
 
-A Powershell script to export your Bitwarden password vault.
+iDRAC cmdlet using Redfish API with OEM extension to set next onetime boot device to either virtual optical or virtual floppy. DMTF does not support setting virtual CD or virtual floppy as next one time boot. This cmdlet uses OEM extension to solve this issue.
 
-__Downloads__: 3,566 | __Repository__: 
+__Downloads__: 481 | __Repository__: 
 
-## [PSBlueSky](https://www.powershellgallery.com/Packages/PSBlueSky/2.1.0) | 2.1.0
+## [Set-ImportServerConfigurationProfileLocalREDFISH](https://www.powershellgallery.com/Packages/Set-ImportServerConfigurationProfileLocalREDFISH/3.0.0) | 3.0.0
 
-### Published: 11/21/2024 16:21:18 by Jeff Hicks
+### Published: 11/22/2024 21:22:40 by Texas Roemer
 
-A set of PowerShell commands that use the Bluesky API. You can skeet and upload images from a PowerShell prompt. This module is written for PowerShell 7 and uses features like $PSStyle.
+Cmdlet using iDRAC with Redfish OEM extension to import server configuration profile (SCP) file locally using ImportBuffer property. The SCP file contents will be passed directly in the script.
 
-__Downloads__: 744 | __Repository__: https://github.com/jdhitsolutions/PSBluesky
+__Downloads__: 252 | __Repository__: 
 
-## [LXCAPSTool](https://www.powershellgallery.com/Packages/LXCAPSTool/4.1.0.22) | 4.1.0.22
+## [Set-NetworkPropertiesREDFISH](https://www.powershellgallery.com/Packages/Set-NetworkPropertiesREDFISH/6.0.0) | 6.0.0
 
-### Published: 11/21/2024 15:33:33 by Lenovo Corporation
+### Published: 11/22/2024 21:21:34 by Texas Roemer
 
-Lenovo XClarity Administrator PowerShell tool
+iDRAC cmdlet using Redfish API to either get network device IDs, get network port IDs, get network port properties or set network properties.
 
-The LXCAPSTool cmdlets use REST APIs that are provided for Lenovo XClarity Administrator to enable you to automate functions such as:
-- Logging in to Lenovo XClarity Administrator;
-- Collecting inventory data to support the management of chassis and servers (endpoints);
-- Deploying an operating system image to one or more endpoints;
-- Configuring endpoints through the use of Configuration Patterns;
-- Applying firmware update to endpoint;
-- Managing user accounts;
-- Monitoring events;
+__Downloads__: 283 | __Repository__: 
 
-Lenovo XClarity Administrator is a centralized, resource-management solution that is aimed at reducing complexity, speeding response, and enhancing the availability of Lenovo server systems and solutions. It runs as a virtual appliance that you can use to manage Flex System chassis and System x rack servers in a secure environment.
-Get more detail information from:
-https://pubs.lenovo.com/lxca/
+## [Set-MultipleBIOSAttributesREDFISH](https://www.powershellgallery.com/Packages/Set-MultipleBIOSAttributesREDFISH/8.0.0) | 8.0.0
 
-Lenovo XClarity Administrator REST APIs used in this module:
-https://pubs.lenovo.com/lxca_scripting/rest_apis
+### Published: 11/22/2024 21:20:19 by Texas Roemer
 
-__Downloads__: 10,016 | __Repository__: 
+iDRAC cmdlet using Redfish API to either get current BIOS attribute settings, get specific BIOS attribute current value, get BIOS attribute registry or set mulitple BIOS attributes.
 
-## [Endjin.RecommendedPractices.Build](https://www.powershellgallery.com/Packages/Endjin.RecommendedPractices.Build/1.5.12) | 1.5.12
+__Downloads__: 375 | __Repository__: 
 
-### Published: 11/21/2024 11:59:45 by Endjineers
+## [Set-ImportServerConfigurationProfileLocalFilenameREDFISH](https://www.powershellgallery.com/Packages/Set-ImportServerConfigurationProfileLocalFilenameREDFISH/10.0.0) | 10.0.0
 
-Provides automated build features using on the InvokeBuild module
+### Published: 11/22/2024 21:19:26 by Texas Roemer
 
-__Downloads__: 39,616 | __Repository__: https://github.com/endjin/Endjin.RecommendedPractices.Build
+Cmdlet using iDRAC with Redfish OEM extension to import server configuration profile (SCP) file locally. Filename can either be in supported JSON or XML format. If SCP file is needed, execute SCP export cmdlet.
 
-## [K8sUtils](https://www.powershellgallery.com/Packages/K8sUtils/1.0.27) | 1.0.27
+__Downloads__: 371 | __Repository__: 
 
-### Published: 11/21/2024 11:38:20 by Jim Wallace
+## [Set-IdracLcSystemAttributesREDFISH](https://www.powershellgallery.com/Packages/Set-IdracLcSystemAttributesREDFISH/9.0.0) | 9.0.0
 
-time-saving PowerShell module for deploying Helm charts and jobs in CI/CD pipelines. It captures all the logs and events of a deployment in the pipeline's output. In the event of a failure, it will return early, instead of timing out.
+### Published: 11/22/2024 21:18:55 by Texas Roemer
 
-__Downloads__: 11,210 | __Repository__: https://github.com/MrSeekatar/K8sUtils
+iDRAC cmdlet using Redfish API with OEM extension to either get iDRAC, Lifecycle Controller(LC) or System attributes or set one or multiple iDRAC, LC or System attributes.
 
-## [spec.teamviewer.utilities](https://www.powershellgallery.com/Packages/spec.teamviewer.utilities/1.2.2) | 1.2.2
+__Downloads__: 360 | __Repository__: 
 
-### Published: 11/21/2024 10:39:45 by owen.heaume
+## [Set-IdracDefaultSettingsREDFISH](https://www.powershellgallery.com/Packages/Set-IdracDefaultSettingsREDFISH/7.0.0) | 7.0.0
 
-A module to help manage TeamViewer
+### Published: 11/22/2024 21:18:32 by Texas Roemer
 
-__Downloads__: 47,026 | __Repository__: 
+iDRAC cmdlet using Redfish API to reset iDRAC to default settings. Once the action is invoked, iDRAC will reset to defaults and restart the iDRAC. iDRAC should be back up within a couple of minutes.
 
-## [AsBuiltReport.Microsoft.Windows](https://www.powershellgallery.com/Packages/AsBuiltReport.Microsoft.Windows/0.5.6) | 0.5.6
+__Downloads__: 316 | __Repository__: 
 
-### Published: 11/20/2024 17:54:09 by Andrew Ramsay
+## [Set-ExportServerConfigurationProfileLocalREDFISH](https://www.powershellgallery.com/Packages/Set-ExportServerConfigurationProfileLocalREDFISH/7.0.0) | 7.0.0
 
-A PowerShell module to generate an as built report on the configuration of Microsoft Windows.
+### Published: 11/22/2024 21:18:09 by Texas Roemer
 
-__Downloads__: 20,906 | __Repository__: https://github.com/AsBuiltReport/AsBuiltReport.Microsoft.Windows
+iDRAC cmdlet used to export server configuration profile locally using Redfish API. It will display the attributes locally to the screen along with copying them to a file. For more details on SCP feature, refer to document "https://downloads.dell.com/Manuals/Common/dellemc-server-config-profile-refguide.pdf"
 
-## [PSOpenAI](https://www.powershellgallery.com/Packages/PSOpenAI/4.11.0) | 4.11.0
+__Downloads__: 308 | __Repository__: 
 
-### Published: 11/20/2024 16:02:45 by mkht
+## [Set-ExportImportServerConfigurationProfileNetworkShareREDFISH](https://www.powershellgallery.com/Packages/Set-ExportImportServerConfigurationProfileNetworkShareREDFISH/7.0.0) | 7.0.0
 
-PowerShell module for OpenAI API
+### Published: 11/22/2024 21:16:59 by Texas Roemer
 
-__Downloads__: 12,066 | __Repository__: https://github.com/mkht/PSOpenAI
+iDRAC cmdlet using Redfish API with OEM extension to export or import server configuration profile or SCP. It will call either ExportSystemConfiguration or ImportSystemConfiguration method. For more details on SCP feature, refer to document "https://downloads.dell.com/Manuals/Common/dellemc-server-config-profile-refguide.pdf"
 
-## [NTware.Ufo.PowerShell.ObjectManagement](https://www.powershellgallery.com/Packages/NTware.Ufo.PowerShell.ObjectManagement/2024.4.0.0) | 2024.4.0.0
+__Downloads__: 340 | __Repository__: 
 
-### Published: 11/20/2024 07:59:47 by NT-ware Systemprogrammierungs-GmbH
+## [Set-DeviceFirmwareSimpleUpdateTransferProtocolREDFISH](https://www.powershellgallery.com/Packages/Set-DeviceFirmwareSimpleUpdateTransferProtocolREDFISH/8.0.0) | 8.0.0
 
-PowerShell cmdlets which allow to manage uniFLOW Online
+### Published: 11/22/2024 21:15:53 by Texas Roemer
 
-__Downloads__: 19,831 | __Repository__: 
+iDRAC cmdlet using Redfish DMTF action SimpleUpdate to update one device firmware using a firmware image stored on a supported network share
 
-## [Diagrammer.Core](https://www.powershellgallery.com/Packages/Diagrammer.Core/0.2.13) | 0.2.13
+__Downloads__: 572 | __Repository__: 
 
-### Published: 11/19/2024 23:46:44 by Jonathan Colon
+## [Set-DeviceFirmwareSimpleUpdateREDFISH](https://www.powershellgallery.com/Packages/Set-DeviceFirmwareSimpleUpdateREDFISH/9.0.0) | 9.0.0
 
-A PowerShell module which provides the core framework for generating Diagrams for many common datacentre systems.
+### Published: 11/22/2024 21:15:14 by Texas Roemer
 
-__Downloads__: 31,445 | __Repository__: https://github.com/rebelinux/Diagrammer.Core
+iDRAC cmdlet using Redfish DMTF action SimpleUpdate to update device firmware using a firmware image stored locally
 
-## [OCI.PSModules.Common](https://www.powershellgallery.com/Packages/OCI.PSModules.Common/96.0.0) | 96.0.0
+__Downloads__: 516 | __Repository__: 
 
-### Published: 11/19/2024 23:19:45 by Oracle Cloud Infrastructure
+## [Set-DeviceFirmwareRollbackREDFISH](https://www.powershellgallery.com/Packages/Set-DeviceFirmwareRollbackREDFISH/7.0.0) | 7.0.0
 
-OCI Common module exports Cmdlets that manages features offered by OCI Modules for Powershell like History Store, OCI Configuration file setup and Per-Session Region/Config/Profile preferences. Common module also contains some functionalties that are common to all OCI Service modules, therefore all OCI Service modules depends on Common module.
+### Published: 11/22/2024 21:14:50 by Texas Roemer
 
-__Downloads__: 275,840 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+iDRAC cmdlet using Redfish DMTF to perform firmware rollback for supported devices.
 
-## [JumpCloud](https://www.powershellgallery.com/Packages/JumpCloud/2.15.0) | 2.15.0
+__Downloads__: 109 | __Repository__: 
 
-### Published: 11/19/2024 22:07:07 by JumpCloud Solutions Architect Team
+## [Set-BiosDefaultSettingsREDFISH](https://www.powershellgallery.com/Packages/Set-BiosDefaultSettingsREDFISH/8.0.0.0) | 8.0.0.0
 
-PowerShell functions to manage a JumpCloud Directory-as-a-Service
+### Published: 11/22/2024 21:14:22 by Texas Roemer
 
-__Downloads__: 5,989,788 | __Repository__: https://github.com/TheJumpCloud/support/wiki
+iDRAC cmdlet using Redfish API to set BIOS to default settings.
 
-## [Particular.ServiceControl.Management](https://www.powershellgallery.com/Packages/Particular.ServiceControl.Management/6.1.0) | 6.1.0
+__Downloads__: 347 | __Repository__: 
 
-### Published: 11/19/2024 20:27:05 by Particular Software
+## [Set-BiosChangePasswordREDFISH](https://www.powershellgallery.com/Packages/Set-BiosChangePasswordREDFISH/7.0.0) | 7.0.0
 
-ServiceControl Management
+### Published: 11/22/2024 21:13:58 by Texas Roemer
 
-__Downloads__: 3,949 | __Repository__: https://github.com/Particular/ServiceControl
+iDRAC cmdlet using Redfish API to set, change or delete BIOS passwords (system or setup).
 
-## [AzurePipelinesPS](https://www.powershellgallery.com/Packages/AzurePipelinesPS/4.0.68) | 4.0.68
+__Downloads__: 356 | __Repository__: 
 
-### Published: 11/19/2024 16:41:16 by Dejulia489
+## [Set-BiosBootOrderREDFISH](https://www.powershellgallery.com/Packages/Set-BiosBootOrderREDFISH/7.0.0) | 7.0.0
 
-A PowerShell module that makes interfacing with Azure Pipelines a little easier
+### Published: 11/22/2024 21:13:33 by Texas Roemer
 
-__Downloads__: 71,208 | __Repository__: https://github.com/Dejulia489/AzurePipelinesPS
+iDRAC cmdlet using Redfish API to either get current BIOS boot mode/boot order or change the boot order.
 
-## [OdmApi](https://www.powershellgallery.com/Packages/OdmApi/2.1.142) | 2.1.142
+__Downloads__: 128 | __Repository__: 
 
-### Published: 11/19/2024 13:10:41 by Quest Software Inc
+## [Invoke-UnpackAndAttachOsdREDFISH](https://www.powershellgallery.com/Packages/Invoke-UnpackAndAttachOsdREDFISH/7.0.0) | 7.0.0
 
-PowerShell Management cmdlets for Quest OnDemand
+### Published: 11/22/2024 21:13:08 by Texas Roemer
 
-__Downloads__: 3,127 | __Repository__: 
+Cmdlet using iDRAC with Redfish API OEM extension to either get driver pack information, unpack and attach driver pack or detach driver pack. For performing OS installation, recommended to unpack and attach driver pack cmdlet first, then execute cmdlet to perform boot to network ISO.
 
-## [Systeminfo](https://www.powershellgallery.com/Packages/Systeminfo/1.4.1) | 1.4.1
+__Downloads__: 2,183 | __Repository__: 
 
-### Published: 11/19/2024 05:19:26 by SAGSa
+## [Invoke-SystemEraseREDFISH](https://www.powershellgallery.com/Packages/Invoke-SystemEraseREDFISH/8.0.0) | 8.0.0
 
-Multithreading system information module for powershell
+### Published: 11/22/2024 21:12:18 by Texas Roemer
 
-__Downloads__: 89,556 | __Repository__: https://github.com/SAGSA/SystemInfo
+iDRAC cmdlet using Redfish API with OEM extension to perform iDRAC System Erase feature. System Erase feature allows you to reset BIOS or iDRAC to default settings, erase ISE drives, HDD drives, diags, driver pack, Lifecycle controller data, NVDIMMs, PERC NV cache or vFlash.
 
-## [AkamaiPowershell](https://www.powershellgallery.com/Packages/AkamaiPowershell/1.13.0) | 1.13.0
+__Downloads__: 373 | __Repository__: 
 
-### Published: 11/18/2024 22:47:16 by Akamai Technologies
+## [Invoke-SupportAssistCollectionLocalREDFISH](https://www.powershellgallery.com/Packages/Invoke-SupportAssistCollectionLocalREDFISH/7.0.0) | 7.0.0
 
-Cmdlets to manage Akamai APIs
+### Published: 11/22/2024 21:11:46 by Texas Roemer
 
-__Downloads__: 41,266 | __Repository__: https://github.com/akamai-contrib/akamaipowershell
+iDRAC cmdlet using Redfish with OEM extension to either get Support Assist (SA) license agreement info, accept end user license agreement (EULA), register SA or perform SA collection locally. NOTE: Before you perform SA local collection, the EULA must be accepted.
 
-## [Universal](https://www.powershellgallery.com/Packages/Universal/5.0.16) | 5.0.16
+__Downloads__: 316 | __Repository__: 
 
-### Published: 11/18/2024 17:12:39 by Ironman Software
+## [Invoke-StorageVirtualDiskExpansionREDFISH](https://www.powershellgallery.com/Packages/Invoke-StorageVirtualDiskExpansionREDFISH/2.0.0) | 2.0.0
 
-Module for PowerShell Universal.
+### Published: 11/22/2024 21:11:24 by Texas Roemer
 
-__Downloads__: 173,298 | __Repository__: https://ironmansoftware.com/powershell-universal
+Cmdlet using iDRAC with Redfish OEM extension to get storage controllers/physical disks/virtual disks or expand storage virtual disk, either add a disk or expand current size.
 
-## [Devolutions.PowerShell](https://www.powershellgallery.com/Packages/Devolutions.PowerShell/2024.3.6) | 2024.3.6
+__Downloads__: 178 | __Repository__: 
 
-### Published: 11/18/2024 14:08:13 by Devolutions
+## [Invoke-StorageSetControllerKeyREDFISH](https://www.powershellgallery.com/Packages/Invoke-StorageSetControllerKeyREDFISH/6.0.0) | 6.0.0
 
-The Devolutions.PowerShell module is a set of cmdlets that allow administrators to manage Remote Desktop Manager, Devolutions Server and Devolutions Hub Business using PowerShell. This module provides a simple and consistent interface for interacting with these products, making it easy to automate various tasks, such as creating and managing connections, sessions, and credentials, configuring security settings, and generating reports. The module can be easily integrated with other PowerShell modules, allowing administrators to automate tasks across multiple products and platforms, streamline their workflows and increase efficiency.
+### Published: 11/22/2024 21:10:43 by Texas Roemer
 
-__Downloads__: 219,473 | __Repository__: https://devolutions.net/
+Cmdlet using iDRAC with Redfish OEM extension to either get storage controllers, get controller encryption mode settings or set the storage controller key(enable encryption) for LKM(Local Key Management).
 
-## [SPClientCore](https://www.powershellgallery.com/Packages/SPClientCore/7.0.6.5) | 7.0.6.5
+__Downloads__: 338 | __Repository__: 
 
-### Published: 11/18/2024 05:10:43 by karamem0
+## [Invoke-StorageSetBootVdREDFISH](https://www.powershellgallery.com/Packages/Invoke-StorageSetBootVdREDFISH/2.0.0) | 2.0.0
 
-SharePoint Service Module for PowerShell
+### Published: 11/22/2024 21:10:05 by Texas Roemer
 
-__Downloads__: 2,976 | __Repository__: https://github.com/karamem0/sp-client-core
+Cmdlet using iDRAC with Redfish OEM extension to either get storage controllers, get virtual disks or set boot virtual disk.
 
-## [ProtectedData](https://www.powershellgallery.com/Packages/ProtectedData/5.0.0) | 5.0.0
+__Downloads__: 181 | __Repository__: 
 
-### Published: 11/17/2024 22:43:48 by Dave Wyatt
+## [Invoke-StorageResetConfigREDFISH](https://www.powershellgallery.com/Packages/Invoke-StorageResetConfigREDFISH/7.0.0) | 7.0.0
 
-Encrypt and share secret data between different users and computers.
+### Published: 11/22/2024 21:08:12 by Texas Roemer
 
-__Downloads__: 117,496 | __Repository__: https://github.com/dlwyatt/ProtectedData
+Cmdlet using iDRAC with Redfish OEM extension to either get storage controllers, get virtual disks, get physical disks or reset the storage controller.
 
-## [dbatools](https://www.powershellgallery.com/Packages/dbatools/2.1.28) | 2.1.28
+__Downloads__: 440 | __Repository__: 
 
-### Published: 11/17/2024 18:37:29 by the dbatools team
+## [Invoke-StorageRenameVdREDFISH](https://www.powershellgallery.com/Packages/Invoke-StorageRenameVdREDFISH/2.0.0) | 2.0.0
 
-The community module that enables SQL Server Pros to automate database development and server administration
+### Published: 11/22/2024 21:07:50 by Texas Roemer
 
-__Downloads__: 5,151,981 | __Repository__: https://dbatools.io/
+Cmdlet using iDRAC with Redfish OEM extension to either get storage controllers, get virtual disks or rename virtual disk.
 
-## [d365fo.tools](https://www.powershellgallery.com/Packages/d365fo.tools/0.7.19) | 0.7.19
+__Downloads__: 43 | __Repository__: 
 
-### Published: 11/17/2024 18:05:38 by M�tz Jensen & Rasmus Andersen
+## [Invoke-StorageRemoveControllerKeyREDFISH](https://www.powershellgallery.com/Packages/Invoke-StorageRemoveControllerKeyREDFISH/7.0.0) | 7.0.0
 
-A set of tools that will assist you when working with Dynamics 365 Finance & Operations development / demo machines.
+### Published: 11/22/2024 21:07:24 by Texas Roemer
 
-__Downloads__: 412,935 | __Repository__: https://github.com/d365collaborative/d365fo.tools
+Cmdlet using iDRAC with Redfish OEM extension to either get storage controllers, get controller encryption mode settings or remove the storage controller key.
 
-## [FogApi](https://www.powershellgallery.com/Packages/FogApi/2411.9.17) | 2411.9.17
+__Downloads__: 390 | __Repository__: 
 
-### Published: 11/17/2024 04:10:17 by JJ Fullmer FOG Project
+## [Invoke-StorageRekeyControllerKeyREDFISH](https://www.powershellgallery.com/Packages/Invoke-StorageRekeyControllerKeyREDFISH/7.0.0) | 7.0.0
 
-# FOG Api Powershell Module
+### Published: 11/22/2024 21:07:00 by Texas Roemer
 
-This is a powershell module to simplify the use of the Fog Project API.
-This module is used to easily run Fog API commands on your fogserver from a powershell console or script.
-FOG is an opensource tool for imaging comptuters, this module uses the API on your internal fog server to 
-perform almost any operation you can do in the GUI of Fog and provides you with the ability to extend things further.
-It can be used to create more automation or to simply have a command line method of controlling fog operations.
-This essentially gives you a crossplatform commandline interface for fog tasks and makes many things easier to automate.
+Cmdlet using iDRAC with Redfish OEM extension to either get storage controllers, get controller encryption mode settings or rekey the storage controller key, either Local key Management (LKM) or Secure Enterprise key Manager (SEKM).
 
-Docs for this module can be found at https://fogapi.readthedocs.io/en/latest/
+__Downloads__: 124 | __Repository__: 
 
-For more information about FOG see
+## [Invoke-StorageImportClearForeignConfigREDFISH](https://www.powershellgallery.com/Packages/Invoke-StorageImportClearForeignConfigREDFISH/2.0.0) | 2.0.0
 
-- https://FOGProject.org
-- https://docs.fogproject.org
-- https://github.com/FOGProject
-- https://github.com/FOGProject/fogproject
-- https://forums.fogproject.org
+### Published: 11/22/2024 21:06:20 by Texas Roemer
 
-# Versioning
+Cmdlet using iDRAC with Redfish OEM extension to either get storage controllers, get virtual disks, get physical disks, clear foreign or import foreign configuration.
 
-The versioning of this module follows this pattern
+__Downloads__: 183 | __Repository__: 
 
-`{Year|Month}.{Major Version}.{Revision #}`
+## [Invoke-StorageConvertDiskRaidNonRaidREDFISH](https://www.powershellgallery.com/Packages/Invoke-StorageConvertDiskRaidNonRaidREDFISH/2.0.0) | 2.0.0
 
-See https://github.com/darksidemilk/FogApi?tab=readme-ov-file#versioning for more info
+### Published: 11/22/2024 21:04:29 by Texas Roemer
 
-# Usage
+Cmdlet using iDRAC with Redfish OEM extension to either get storage controllers, get physical disks, convert drive to RAID(ready state) or non RAID.
 
-You can use Set-fogserverSettings to set your fogserver hostname and api keys.
-Or, the first time you try to run a command the settings.json file will automatically open in an OS Specific editor.
-You can also open the settings.json file and edit it manually before running your first command.
-The default settings are explanations of where to find the proper settings since json cannot have comments
+__Downloads__: 184 | __Repository__: 
 
-Once the settings are set you can utilze the fog documentation found here https://news.fogproject.org/simplified-api-documentation/ that was used to model the parameters for Get-FogObject, Update-FogObject, and Remove-FogObject.
-You can also utilize simpler functions of common tasks, see the links below for more info.
+## [Invoke-StorageChangeVdPdStateREDFISH](https://www.powershellgallery.com/Packages/Invoke-StorageChangeVdPdStateREDFISH/2.0.0) | 2.0.0
 
-# Additional info
+### Published: 11/22/2024 21:04:00 by Texas Roemer
 
-  - Examples and More: https://github.com/darksidemilk/FogApi/blob/master/README.md
-  - All Commands - https://fogapi.readthedocs.io/en/latest/commands/
-  - FogForums module thread: https://forums.fogproject.org/topic/12026/powershell-api-module/2
-  - Full change log available at https://fogapi.readthedocs.io/en/latest/ReleaseNotes/
+Cmdlet using iDRAC with Redfish OEM extension to get storage controllers/physical disks/virtual disks or change the PD state of a disk part of a virtual disk, either set the disk to offline or bring back online.
 
-__Downloads__: 35,788 | __Repository__: https://github.com/darksidemilk/FogApi
+__Downloads__: 185 | __Repository__: 
 
-## [HtmlToMarkdown](https://www.powershellgallery.com/Packages/HtmlToMarkdown/1.1.3) | 1.1.3
+## [Invoke-SecureEraseDeviceREDFISH](https://www.powershellgallery.com/Packages/Invoke-SecureEraseDeviceREDFISH/7.0.0) | 7.0.0
 
-### Published: 11/16/2024 23:12:13 by Brian Lalonde
+### Published: 11/22/2024 21:01:12 by Texas Roemer
 
-Converts HTML to Markdown/CommonMark.
+iDRAC cmdlet using Redfish API to either get storage controllers, get supported secure erase devices or secure erase devices using iDRAC Redfish API.
 
-__Downloads__: 5,264 | __Repository__: https://github.com/brianary/HtmlToMarkdown/
+__Downloads__: 309 | __Repository__: 
 
-## [cChocoEx](https://www.powershellgallery.com/Packages/cChocoEx/24.11.16) | 24.11.16
+## [Invoke-ResetIdracDefaultSettingsREDFISH](https://www.powershellgallery.com/Packages/Invoke-ResetIdracDefaultSettingsREDFISH/2.0.0) | 2.0.0
 
-### Published: 11/16/2024 13:36:21 by Jonathan Yonke <jon.yonke@gmail.com>
+### Published: 11/22/2024 20:57:43 by Texas Roemer
 
-Adds some additional functionality to the PowerShell DSC module cChoco
+iDRAC cmdlet used to reset iDRAC back to default settings. Note: this cmdlet is only supported on iDRAC9 or newer versions.
 
-__Downloads__: 897,428 | __Repository__: https://github.com/jyonke/cChocoEx
+__Downloads__: 50 | __Repository__: 
 
-## [PowerShellRun](https://www.powershellgallery.com/Packages/PowerShellRun/0.11.0) | 0.11.0
+## [Invoke-ReplaceCertificateREDFISH](https://www.powershellgallery.com/Packages/Invoke-ReplaceCertificateREDFISH/7.0.0) | 7.0.0
 
-### Published: 11/16/2024 02:53:54 by mdgrs-mei
+### Published: 11/22/2024 20:57:18 by Texas Roemer
 
-Terminal Based Launcher and Fuzzy Finder for PowerShell
+iDRAC cmdlet using Redfish API to either get current iDRAC certs or replace certificate for iDRAC.
 
-__Downloads__: 16,159 | __Repository__: https://github.com/mdgrs-mei/PowerShellRun
+__Downloads__: 137 | __Repository__: 
 
-## [PSFzf](https://www.powershellgallery.com/Packages/PSFzf/2.6.7) | 2.6.7
+## [Invoke-RemoteDiagsREDFISH](https://www.powershellgallery.com/Packages/Invoke-RemoteDiagsREDFISH/1.0.0) | 1.0.0
 
-### Published: 11/16/2024 02:13:59 by Michael Kelley
+### Published: 11/22/2024 20:56:46 by Texas Roemer
 
-A thin wrapper around Fzf (https://github.com/junegunn/fzf).  If PSReadline is loaded, this wrapper registers Fzf with the keyboard chord Ctrl+t.
+iDRAC cmdlet using Redfish API with OEM extension to execute remote diagnostics on the server hardware.
 
-__Downloads__: 364,669 | __Repository__: 
+__Downloads__: 8 | __Repository__: 
 
-## [AsBuiltReport.Microsoft.AD](https://www.powershellgallery.com/Packages/AsBuiltReport.Microsoft.AD/0.9.1) | 0.9.1
+## [Invoke-InstallFromRepositoryOemREDFISH](https://www.powershellgallery.com/Packages/Invoke-InstallFromRepositoryOemREDFISH/8.0.0) | 8.0.0
 
-### Published: 11/16/2024 02:12:00 by Jonathan Colon
+### Published: 11/22/2024 20:56:19 by Texas Roemer
 
-A PowerShell module to generate an as built report on the configuration of Microsoft AD.
+iDRAC cmdlet using Redfish API with OEM extension to perform a repository update from a supported network share. Recommended to use HTTPS share "downloads.dell.com" repository for updates or you can create and use a custom repository using Dell Repository Manager (DRM) utility.
 
-__Downloads__: 41,645 | __Repository__: https://github.com/AsBuiltReport/AsBuiltReport.Microsoft.AD
+__Downloads__: 588 | __Repository__: 
 
-## [Diagrammer.Microsoft.AD](https://www.powershellgallery.com/Packages/Diagrammer.Microsoft.AD/0.2.7) | 0.2.7
+## [Invoke-InsertEjectVirtualMediaREDFISH](https://www.powershellgallery.com/Packages/Invoke-InsertEjectVirtualMediaREDFISH/9.0.0) | 9.0.0
 
-### Published: 11/16/2024 01:19:55 by Jonathan Colon
+### Published: 11/22/2024 20:55:51 by Texas Roemer
 
-A PowerShell module to generate an as built report on the configuration of Microsoft AD.
+iDRAC cmdlet using Redfish API to either get virtual media information, attach or eject virtual media located on supported network share. Supported network shares are NFS, CIFS, HTTP and HTTPS.
 
-__Downloads__: 22,180 | __Repository__: https://github.com/rebelinux/Diagrammer.Microsoft.AD
+__Downloads__: 460 | __Repository__: 
 
-## [spec.registry.management](https://www.powershellgallery.com/Packages/spec.registry.management/1.0.8) | 1.0.8
+## [Invoke-InitializeVirtualDiskREDFISH](https://www.powershellgallery.com/Packages/Invoke-InitializeVirtualDiskREDFISH/7.0.0) | 7.0.0
 
-### Published: 11/15/2024 15:47:58 by owen.heaume
+### Published: 11/22/2024 20:54:33 by Texas Roemer
 
-A module to help manage the Windows registry
+Cmdlet using iDRAC with Redfish API to either get storage controllers, get virtual disks or initialize virtual disk.
 
-__Downloads__: 13,299 | __Repository__: 
+__Downloads__: 458 | __Repository__: 
 
-## [PoshUnifi](https://www.powershellgallery.com/Packages/PoshUnifi/1.0) | 1.0
+## [Invoke-IdracSessionManagementREDFISH](https://www.powershellgallery.com/Packages/Invoke-IdracSessionManagementREDFISH/1.0.0) | 1.0.0
 
-### Published: 11/15/2024 15:27:34 by Zack Moss
+### Published: 11/22/2024 20:53:57 by Texas Roemer
 
-Module to work with Self Hosted Unifi Controller
+Cmdlet using iDRAC with Redfish API to either get curren active iDRAC sessions or delete a session
 
-__Downloads__: 2,915 | __Repository__: https://github.com/zackmoss/Unifi
+__Downloads__: 8 | __Repository__: 
 
-## [WinSCP](https://www.powershellgallery.com/Packages/WinSCP/6.3.5.0) | 6.3.5.0
+## [Invoke-IdracRemoteKvmHtmlSessionREDFISH](https://www.powershellgallery.com/Packages/Invoke-IdracRemoteKvmHtmlSessionREDFISH/10.0.0) | 10.0.0
 
-### Published: 11/15/2024 15:09:03 by Thomas J. Malkewitz @tomohulk
+### Published: 11/22/2024 20:53:18 by Texas Roemer
 
-PowerShell Module Wrapper for WinSCP.
+iDRAC cmdlet using Redfish API with OEM extension to launch virtual console KVM session using your default browser.
 
-__Downloads__: 2,168,051 | __Repository__: https://github.com/tomohulk/WinSCP
+__Downloads__: 163 | __Repository__: 
 
-## [CMHealthcheck](https://www.powershellgallery.com/Packages/CMHealthcheck/1.0.30) | 1.0.30
+## [Invoke-IdracLicenseManagementREDFISH](https://www.powershellgallery.com/Packages/Invoke-IdracLicenseManagementREDFISH/6.0.0) | 6.0.0
 
-### Published: 11/15/2024 06:32:23 by David Stein
+### Published: 11/22/2024 20:51:08 by Texas Roemer
 
-ConfigMgr healthcheck reporting
+iDRAC cmdlet using Redfish API with OEM extension to manage iDRAC licenses. Get current licenses, export/import/delete licenses supported.
 
-__Downloads__: 6,883 | __Repository__: https://github.com/Skatterbrainz/CMHealthCheck
+__Downloads__: 147 | __Repository__: 
 
-## [JS7](https://www.powershellgallery.com/Packages/JS7/2.0.26.0) | 2.0.26.0
+## [Invoke-IdracJobQueueManagementREDFISH](https://www.powershellgallery.com/Packages/Invoke-IdracJobQueueManagementREDFISH/8.0.0) | 8.0.0
 
-### Published: 11/14/2024 09:14:26 by Andreas Pueschel
+### Published: 11/22/2024 20:36:09 by Texas Roemer
 
-Manage and Control workflows and jobs with JS7 JobScheduler Controller and Agents, access the JS7 REST Web Service API
+iDRAC cmdlet using Redfish API with OEM extension to manage iDRAC job queue. Supported operations are get current job queue, delete single job ID, clear complete job queue or clear complete job queue/restart Lifecycle Controller services.
 
-__Downloads__: 1,475 | __Repository__: https://kb.sos-berlin.com/x/PpQwAw
+__Downloads__: 375 | __Repository__: 
 
-## [PSSemVer](https://www.powershellgallery.com/Packages/PSSemVer/1.1.3) | 1.1.3
+## [Invoke-GetIdracServerPowerInformationREDFISH](https://www.powershellgallery.com/Packages/Invoke-GetIdracServerPowerInformationREDFISH/7.0.0) | 7.0.0
 
-### Published: 11/13/2024 21:33:52 by PSModule
+### Published: 11/22/2024 20:26:14 by Texas Roemer
 
-A PowerShell module adding a SemVer compatible class and functions.
+iDRAC cmdlet using Redfish API to get iDRAC power information for the server. Cmdlet will support getting either all iDRAC server power information or selective information based off argument value passed in.
 
-__Downloads__: 44,944 | __Repository__: https://github.com/PSModule/PSSemVer
+__Downloads__: 339 | __Repository__: 
 
-## [Get-NetView](https://www.powershellgallery.com/Packages/Get-NetView/2024.11.13.242) | 2024.11.13.242
+## [Invoke-GenerateCsrREDFISH](https://www.powershellgallery.com/Packages/Invoke-GenerateCsrREDFISH/8.0.0) | 8.0.0
 
-### Published: 11/13/2024 17:01:53 by Dan Cuomo Trent Helms
+### Published: 11/22/2024 20:25:40 by Texas Roemer
 
-Get-NetView is a tool used to simplify the collection of network configuration information for diagnosis of networking issues on Windows
+iiDRAC cmdlet using Redfish API to either get current iDRAC certs or generate CSR for iDRAC
 
-__Downloads__: 1,478,433 | __Repository__: https://github.com/microsoft/Get-NetView
+__Downloads__: 144 | __Repository__: 
 
-## [OSD](https://www.powershellgallery.com/Packages/OSD/24.11.13.2) | 24.11.13.2
+## [Invoke-ExportServerScreenShotREDFISH](https://www.powershellgallery.com/Packages/Invoke-ExportServerScreenShotREDFISH/7.0.0) | 7.0.0
 
-### Published: 11/13/2024 16:45:51 by David Segura . Gary Blok . Akos Bakos
+### Published: 11/22/2024 20:22:48 by Texas Roemer
 
-2024 November Update
-https://osd.osdeploy.com
+iDRAC cmdlet using Redfish API with OEM extension to export either last crash screen or server screen shot. NOTE: This image will be exported in base64 format to a file. You will need to take this content and use an utility which can convert base64 to PNG.
 
-Required for OSDCloud and OSDBuilder
+__Downloads__: 191 | __Repository__: 
 
-__Downloads__: 2,603,027 | __Repository__: https://github.com/OSDeploy/OSD
+## [Invoke-ExportVideoLogREDFISH](https://www.powershellgallery.com/Packages/Invoke-ExportVideoLogREDFISH/7.0.0) | 7.0.0
 
-## [TD.Util](https://www.powershellgallery.com/Packages/TD.Util/0.1.39) | 0.1.39
+### Published: 11/22/2024 20:21:18 by Texas Roemer
 
-### Published: 11/13/2024 14:12:40 by Edwin Hagen
+iDRAC Cmdlet using Redfish API with OEM extension to export either boot capture videos or crash capture video locally. NOTE: iDRAC copies boot capture videos to a zip file and prompts you to download using your default browser. If needed to watch the video capture files (dvc format), download the video player from the iDRAC GUI/Maintenance/Troubleshooting page.
 
-Tedon Utilities module
+__Downloads__: 121 | __Repository__: 
 
-__Downloads__: 42,857 | __Repository__: https://github.com/ehagen/TD.Util
+## [Invoke-ExportLcLogsLocalREDFISH](https://www.powershellgallery.com/Packages/Invoke-ExportLcLogsLocalREDFISH/7.0.0) | 7.0.0
 
-## [WebAdministrationDsc](https://www.powershellgallery.com/Packages/WebAdministrationDsc/4.2.1) | 4.2.1
+### Published: 11/22/2024 20:20:19 by Texas Roemer
 
-### Published: 11/13/2024 06:41:41 by DSC Community
+Cmdlet using Redfish API with OEM extension to export all iDRAC Lifecycle Logs(LC) to a file locally. You will be prompted to download the exported iDRAC LC logs using your default browser session. If you select yes, it will automatically launch a browser session and download the file. You may be prompted to enter iDRAC credentials if this is the first time you are using browser to access the iDRAC.
 
-Module with DSC Resources for Web Administration
+__Downloads__: 141 | __Repository__: 
 
-__Downloads__: 2,090,955 | __Repository__: https://github.com/dsccommunity/WebAdministrationDsc
+## [Invoke-ExportImportSslCertificateREDFISH](https://www.powershellgallery.com/Packages/Invoke-ExportImportSslCertificateREDFISH/10.0.0) | 10.0.0
 
-## [AsBuiltReport.Veeam.VB365](https://www.powershellgallery.com/Packages/AsBuiltReport.Veeam.VB365/0.3.8) | 0.3.8
+### Published: 11/22/2024 20:19:54 by Texas Roemer
 
-### Published: 11/13/2024 00:25:08 by Jonathan Colon
+iDRAC cmdlet using Redfish with OEM extension to either export or import SSL certificate locally.
 
-A PowerShell module to generate an as built report on the configuration of Veeam Backup for Microsoft 365.
+__Downloads__: 234 | __Repository__: 
 
-__Downloads__: 3,110 | __Repository__: https://github.com/AsBuiltReport/AsBuiltReport.Veeam.VB365
+## [Invoke-ExportHwInventoryLocalREDFISH](https://www.powershellgallery.com/Packages/Invoke-ExportHwInventoryLocalREDFISH/7.0.0) | 7.0.0
 
-## [OCI.PSModules](https://www.powershellgallery.com/Packages/OCI.PSModules/95.1.0) | 95.1.0
+### Published: 11/22/2024 20:19:26 by Texas Roemer
 
-### Published: 11/12/2024 19:11:46 by Oracle Cloud Infrastructure
+iDRAC cmdlet using Redfish API with OEM extension to export all server hardware information to a file locally. You will be prompted to download the exported HW inventory using your default browser session. If you select yes, it will automatically launch a browser session and download the file. You may be prompted to enter iDRAC credentials if this is the first time you are using browser to access the iDRAC.
 
-Oracle Cloud Infrastructure (OCI) PowerShell Modules - Cmdlets to manage resources in OCI.
-For more information, please visit: https://docs.oracle.com/en-us/iaas/Content/API/SDKDocs/powershell.htm
+__Downloads__: 443 | __Repository__: 
 
-__Downloads__: 6,801 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+## [Invoke-EnableDisableBiosBootOrderDevicesREDFISH](https://www.powershellgallery.com/Packages/Invoke-EnableDisableBiosBootOrderDevicesREDFISH/7.0.0) | 7.0.0
 
-## [OCI.PSModules.Workrequests](https://www.powershellgallery.com/Packages/OCI.PSModules.Workrequests/95.1.0) | 95.1.0
+### Published: 11/22/2024 20:18:59 by Texas Roemer
 
-### Published: 11/12/2024 18:56:47 by Oracle Cloud Infrastructure
+iDRAC cmdlet using Redfish API to either get current BIOS boot mode/boot order, enable or disable boot order devices.
 
-This modules provides Cmdlets for OCI Workrequests Service
+__Downloads__: 177 | __Repository__: 
 
-__Downloads__: 9,181 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+## [Invoke-DeleteVirtualDiskREDFISH](https://www.powershellgallery.com/Packages/Invoke-DeleteVirtualDiskREDFISH/7.0.0) | 7.0.0
 
-## [OCI.PSModules.Waf](https://www.powershellgallery.com/Packages/OCI.PSModules.Waf/95.1.0) | 95.1.0
+### Published: 11/22/2024 20:17:22 by Texas Roemer
 
-### Published: 11/12/2024 18:56:42 by Oracle Cloud Infrastructure
+Cmdlet using iDRAC with Redfish API to either get storage controllers, get virtual disks or delete virtual disk.
 
-This modules provides Cmdlets for OCI Waf Service
+__Downloads__: 467 | __Repository__: 
 
-__Downloads__: 7,755 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+## [Invoke-DecommissionREDFISH](https://www.powershellgallery.com/Packages/Invoke-DecommissionREDFISH/1.0.0) | 1.0.0
 
-## [OCI.PSModules.Waas](https://www.powershellgallery.com/Packages/OCI.PSModules.Waas/95.1.0) | 95.1.0
+### Published: 11/22/2024 20:16:56 by Texas Roemer
 
-### Published: 11/12/2024 18:56:36 by Oracle Cloud Infrastructure
+iDRAC cmdlet using Redfish API to run Decommission DMTF action. Note this cmdlet is only supported on iDRAC10 or newer.
 
-This modules provides Cmdlets for OCI Waas Service
+__Downloads__: 8 | __Repository__: 
 
-__Downloads__: 10,001 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Waa](https://www.powershellgallery.com/Packages/OCI.PSModules.Waa/95.1.0) | 95.1.0
-
-### Published: 11/12/2024 18:56:30 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Waa Service
-
-__Downloads__: 6,760 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Vulnerabilityscanning](https://www.powershellgallery.com/Packages/OCI.PSModules.Vulnerabilityscanning/95.1.0) | 95.1.0
-
-### Published: 11/12/2024 18:56:24 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Vulnerabilityscanning Service
-
-__Downloads__: 8,775 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Vnmonitoring](https://www.powershellgallery.com/Packages/OCI.PSModules.Vnmonitoring/95.1.0) | 95.1.0
-
-### Published: 11/12/2024 18:56:18 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Vnmonitoring Service
-
-__Downloads__: 6,692 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Visualbuilder](https://www.powershellgallery.com/Packages/OCI.PSModules.Visualbuilder/95.1.0) | 95.1.0
-
-### Published: 11/12/2024 18:56:12 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Visualbuilder Service
-
-__Downloads__: 7,493 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Vbsinst](https://www.powershellgallery.com/Packages/OCI.PSModules.Vbsinst/95.1.0) | 95.1.0
-
-### Published: 11/12/2024 18:56:07 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Vbsinst Service
-
-__Downloads__: 5,845 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Vault](https://www.powershellgallery.com/Packages/OCI.PSModules.Vault/95.1.0) | 95.1.0
-
-### Published: 11/12/2024 18:55:33 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Vault Service
-
-__Downloads__: 9,315 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Usageapi](https://www.powershellgallery.com/Packages/OCI.PSModules.Usageapi/95.1.0) | 95.1.0
-
-### Published: 11/12/2024 18:55:27 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Usageapi Service
-
-__Downloads__: 9,298 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Usage](https://www.powershellgallery.com/Packages/OCI.PSModules.Usage/95.1.0) | 95.1.0
-
-### Published: 11/12/2024 18:55:20 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Usage Service
-
-__Downloads__: 7,735 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Threatintelligence](https://www.powershellgallery.com/Packages/OCI.PSModules.Threatintelligence/95.1.0) | 95.1.0
-
-### Published: 11/12/2024 18:55:14 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Threatintelligence Service
-
-__Downloads__: 7,630 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Tenantmanagercontrolplane](https://www.powershellgallery.com/Packages/OCI.PSModules.Tenantmanagercontrolplane/95.1.0) | 95.1.0
-
-### Published: 11/12/2024 18:55:09 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Tenantmanagercontrolplane Service
-
-__Downloads__: 9,005 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Streaming](https://www.powershellgallery.com/Packages/OCI.PSModules.Streaming/95.1.0) | 95.1.0
-
-### Published: 11/12/2024 18:55:01 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Streaming Service
-
-__Downloads__: 9,170 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Servicemanagerproxy](https://www.powershellgallery.com/Packages/OCI.PSModules.Servicemanagerproxy/95.1.0) | 95.1.0
-
-### Published: 11/12/2024 18:54:44 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Servicemanagerproxy Service
-
-__Downloads__: 9,075 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Servicecatalog](https://www.powershellgallery.com/Packages/OCI.PSModules.Servicecatalog/95.1.0) | 95.1.0
-
-### Published: 11/12/2024 18:54:38 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Servicecatalog Service
-
-__Downloads__: 8,416 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Secrets](https://www.powershellgallery.com/Packages/OCI.PSModules.Secrets/95.1.0) | 95.1.0
-
-### Published: 11/12/2024 18:54:28 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Secrets Service
-
-__Downloads__: 9,365 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Sch](https://www.powershellgallery.com/Packages/OCI.PSModules.Sch/95.1.0) | 95.1.0
-
-### Published: 11/12/2024 18:54:22 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Sch Service
-
-__Downloads__: 9,114 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Rover](https://www.powershellgallery.com/Packages/OCI.PSModules.Rover/95.1.0) | 95.1.0
-
-### Published: 11/12/2024 18:54:16 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Rover Service
-
-__Downloads__: 8,899 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Resourcesearch](https://www.powershellgallery.com/Packages/OCI.PSModules.Resourcesearch/95.1.0) | 95.1.0
-
-### Published: 11/12/2024 18:54:10 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Resourcesearch Service
-
-__Downloads__: 9,617 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Resourcescheduler](https://www.powershellgallery.com/Packages/OCI.PSModules.Resourcescheduler/95.1.0) | 95.1.0
-
-### Published: 11/12/2024 18:54:05 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Resourcescheduler Service
-
-__Downloads__: 2,309 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Resourcemanager](https://www.powershellgallery.com/Packages/OCI.PSModules.Resourcemanager/95.1.0) | 95.1.0
-
-### Published: 11/12/2024 18:54:00 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Resourcemanager Service
-
-__Downloads__: 9,171 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Redis](https://www.powershellgallery.com/Packages/OCI.PSModules.Redis/95.1.0) | 95.1.0
-
-### Published: 11/12/2024 18:53:54 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Redis Service
-
-__Downloads__: 4,494 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Recovery](https://www.powershellgallery.com/Packages/OCI.PSModules.Recovery/95.1.0) | 95.1.0
-
-### Published: 11/12/2024 18:53:48 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Recovery Service
-
-__Downloads__: 5,858 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Queue](https://www.powershellgallery.com/Packages/OCI.PSModules.Queue/95.1.0) | 95.1.0
-
-### Published: 11/12/2024 18:53:43 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Queue Service
-
-__Downloads__: 6,036 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Psql](https://www.powershellgallery.com/Packages/OCI.PSModules.Psql/95.1.0) | 95.1.0
-
-### Published: 11/12/2024 18:53:38 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Psql Service
-
-__Downloads__: 4,326 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Osubusage](https://www.powershellgallery.com/Packages/OCI.PSModules.Osubusage/95.1.0) | 95.1.0
-
-### Published: 11/12/2024 18:53:31 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Osubusage Service
-
-__Downloads__: 7,456 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Osubsubscription](https://www.powershellgallery.com/Packages/OCI.PSModules.Osubsubscription/95.1.0) | 95.1.0
-
-### Published: 11/12/2024 18:53:25 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Osubsubscription Service
-
-__Downloads__: 7,463 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Osuborganizationsubscription](https://www.powershellgallery.com/Packages/OCI.PSModules.Osuborganizationsubscription/95.1.0) | 95.1.0
-
-### Published: 11/12/2024 18:53:20 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Osuborganizationsubscription Service
-
-__Downloads__: 9,273 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Osubbillingschedule](https://www.powershellgallery.com/Packages/OCI.PSModules.Osubbillingschedule/95.1.0) | 95.1.0
-
-### Published: 11/12/2024 18:53:14 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Osubbillingschedule Service
-
-__Downloads__: 7,477 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Ospgateway](https://www.powershellgallery.com/Packages/OCI.PSModules.Ospgateway/95.1.0) | 95.1.0
-
-### Published: 11/12/2024 18:53:07 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Ospgateway Service
-
-__Downloads__: 7,559 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Osmanagementhub](https://www.powershellgallery.com/Packages/OCI.PSModules.Osmanagementhub/95.1.0) | 95.1.0
-
-### Published: 11/12/2024 18:53:01 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Osmanagementhub Service
-
-__Downloads__: 5,256 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Osmanagement](https://www.powershellgallery.com/Packages/OCI.PSModules.Osmanagement/95.1.0) | 95.1.0
-
-### Published: 11/12/2024 18:52:54 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Osmanagement Service
-
-__Downloads__: 9,191 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Optimizer](https://www.powershellgallery.com/Packages/OCI.PSModules.Optimizer/95.1.0) | 95.1.0
-
-### Published: 11/12/2024 18:52:49 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Optimizer Service
-
-__Downloads__: 9,313 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Opsi](https://www.powershellgallery.com/Packages/OCI.PSModules.Opsi/95.1.0) | 95.1.0
-
-### Published: 11/12/2024 18:52:43 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Opsi Service
-
-__Downloads__: 9,034 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Operatoraccesscontrol](https://www.powershellgallery.com/Packages/OCI.PSModules.Operatoraccesscontrol/95.1.0) | 95.1.0
-
-### Published: 11/12/2024 18:52:36 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Operatoraccesscontrol Service
-
-__Downloads__: 8,835 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Opa](https://www.powershellgallery.com/Packages/OCI.PSModules.Opa/95.1.0) | 95.1.0
-
-### Published: 11/12/2024 18:52:24 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Opa Service
-
-__Downloads__: 6,616 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Ons](https://www.powershellgallery.com/Packages/OCI.PSModules.Ons/95.1.0) | 95.1.0
-
-### Published: 11/12/2024 18:52:18 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Ons Service
-
-__Downloads__: 9,267 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Onesubscription](https://www.powershellgallery.com/Packages/OCI.PSModules.Onesubscription/95.1.0) | 95.1.0
-
-### Published: 11/12/2024 18:52:11 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Onesubscription Service
-
-__Downloads__: 6,772 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Oda](https://www.powershellgallery.com/Packages/OCI.PSModules.Oda/95.1.0) | 95.1.0
-
-### Published: 11/12/2024 18:51:57 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Oda Service
-
-__Downloads__: 9,183 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Ocvp](https://www.powershellgallery.com/Packages/OCI.PSModules.Ocvp/95.1.0) | 95.1.0
-
-### Published: 11/12/2024 18:51:51 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Ocvp Service
-
-__Downloads__: 11,341 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Ocicontrolcenter](https://www.powershellgallery.com/Packages/OCI.PSModules.Ocicontrolcenter/95.1.0) | 95.1.0
-
-### Published: 11/12/2024 18:51:44 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Ocicontrolcenter Service
-
-__Downloads__: 5,309 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Oce](https://www.powershellgallery.com/Packages/OCI.PSModules.Oce/95.1.0) | 95.1.0
-
-### Published: 11/12/2024 18:51:38 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Oce Service
-
-__Downloads__: 9,230 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Objectstorage](https://www.powershellgallery.com/Packages/OCI.PSModules.Objectstorage/95.1.0) | 95.1.0
-
-### Published: 11/12/2024 18:51:32 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Objectstorage Service
-
-__Downloads__: 15,677 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Nosql](https://www.powershellgallery.com/Packages/OCI.PSModules.Nosql/95.1.0) | 95.1.0
-
-### Published: 11/12/2024 18:51:26 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Nosql Service
-
-__Downloads__: 11,571 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Networkloadbalancer](https://www.powershellgallery.com/Packages/OCI.PSModules.Networkloadbalancer/95.1.0) | 95.1.0
-
-### Published: 11/12/2024 18:51:20 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Networkloadbalancer Service
-
-__Downloads__: 8,973 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Networkfirewall](https://www.powershellgallery.com/Packages/OCI.PSModules.Networkfirewall/95.1.0) | 95.1.0
-
-### Published: 11/12/2024 18:51:15 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Networkfirewall Service
-
-__Downloads__: 6,785 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Mysql](https://www.powershellgallery.com/Packages/OCI.PSModules.Mysql/95.1.0) | 95.1.0
-
-### Published: 11/12/2024 18:51:08 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Mysql Service
-
-__Downloads__: 21,977 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Monitoring](https://www.powershellgallery.com/Packages/OCI.PSModules.Monitoring/95.1.0) | 95.1.0
-
-### Published: 11/12/2024 18:51:01 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Monitoring Service
-
-__Downloads__: 9,275 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Mediaservices](https://www.powershellgallery.com/Packages/OCI.PSModules.Mediaservices/95.1.0) | 95.1.0
-
-### Published: 11/12/2024 18:50:55 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Mediaservices Service
-
-__Downloads__: 7,383 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Marketplacepublisher](https://www.powershellgallery.com/Packages/OCI.PSModules.Marketplacepublisher/95.1.0) | 95.1.0
-
-### Published: 11/12/2024 18:50:49 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Marketplacepublisher Service
-
-__Downloads__: 4,511 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Marketplace](https://www.powershellgallery.com/Packages/OCI.PSModules.Marketplace/95.1.0) | 95.1.0
-
-### Published: 11/12/2024 18:50:37 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Marketplace Service
-
-__Downloads__: 9,249 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Managementdashboard](https://www.powershellgallery.com/Packages/OCI.PSModules.Managementdashboard/95.1.0) | 95.1.0
-
-### Published: 11/12/2024 18:50:31 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Managementdashboard Service
-
-__Downloads__: 11,549 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Managementagent](https://www.powershellgallery.com/Packages/OCI.PSModules.Managementagent/95.1.0) | 95.1.0
-
-### Published: 11/12/2024 18:50:26 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Managementagent Service
-
-__Downloads__: 9,159 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Loggingsearch](https://www.powershellgallery.com/Packages/OCI.PSModules.Loggingsearch/95.1.0) | 95.1.0
-
-### Published: 11/12/2024 18:50:20 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Loggingsearch Service
-
-__Downloads__: 9,190 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Loggingingestion](https://www.powershellgallery.com/Packages/OCI.PSModules.Loggingingestion/95.1.0) | 95.1.0
-
-### Published: 11/12/2024 18:50:14 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Loggingingestion Service
-
-__Downloads__: 9,456 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Logging](https://www.powershellgallery.com/Packages/OCI.PSModules.Logging/95.1.0) | 95.1.0
-
-### Published: 11/12/2024 18:50:08 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Logging Service
-
-__Downloads__: 9,427 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Loganalytics](https://www.powershellgallery.com/Packages/OCI.PSModules.Loganalytics/95.1.0) | 95.1.0
-
-### Published: 11/12/2024 18:50:02 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Loganalytics Service
-
-__Downloads__: 11,504 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Lockbox](https://www.powershellgallery.com/Packages/OCI.PSModules.Lockbox/95.1.0) | 95.1.0
-
-### Published: 11/12/2024 18:49:55 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Lockbox Service
-
-__Downloads__: 6,673 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Loadbalancer](https://www.powershellgallery.com/Packages/OCI.PSModules.Loadbalancer/95.1.0) | 95.1.0
-
-### Published: 11/12/2024 18:49:50 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Loadbalancer Service
-
-__Downloads__: 9,450 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Limits](https://www.powershellgallery.com/Packages/OCI.PSModules.Limits/95.1.0) | 95.1.0
-
-### Published: 11/12/2024 18:49:44 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Limits Service
-
-__Downloads__: 9,576 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Licensemanager](https://www.powershellgallery.com/Packages/OCI.PSModules.Licensemanager/95.1.0) | 95.1.0
-
-### Published: 11/12/2024 18:49:36 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Licensemanager Service
-
-__Downloads__: 6,862 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Keymanagement](https://www.powershellgallery.com/Packages/OCI.PSModules.Keymanagement/95.1.0) | 95.1.0
-
-### Published: 11/12/2024 18:49:31 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Keymanagement Service
-
-__Downloads__: 9,331 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Jmsjavadownloads](https://www.powershellgallery.com/Packages/OCI.PSModules.Jmsjavadownloads/95.1.0) | 95.1.0
-
-### Published: 11/12/2024 18:49:25 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Jmsjavadownloads Service
-
-__Downloads__: 4,392 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Jms](https://www.powershellgallery.com/Packages/OCI.PSModules.Jms/95.1.0) | 95.1.0
-
-### Published: 11/12/2024 18:49:19 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Jms Service
-
-__Downloads__: 8,464 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Integration](https://www.powershellgallery.com/Packages/OCI.PSModules.Integration/95.1.0) | 95.1.0
-
-### Published: 11/12/2024 18:49:13 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Integration Service
-
-__Downloads__: 9,198 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Identitydomains](https://www.powershellgallery.com/Packages/OCI.PSModules.Identitydomains/95.1.0) | 95.1.0
-
-### Published: 11/12/2024 18:49:07 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Identitydomains Service
-
-__Downloads__: 5,770 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Identitydataplane](https://www.powershellgallery.com/Packages/OCI.PSModules.Identitydataplane/95.1.0) | 95.1.0
-
-### Published: 11/12/2024 18:49:01 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Identitydataplane Service
-
-__Downloads__: 7,611 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Identity](https://www.powershellgallery.com/Packages/OCI.PSModules.Identity/95.1.0) | 95.1.0
-
-### Published: 11/12/2024 18:48:55 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Identity Service
-
-__Downloads__: 15,007 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Healthchecks](https://www.powershellgallery.com/Packages/OCI.PSModules.Healthchecks/95.1.0) | 95.1.0
-
-### Published: 11/12/2024 18:48:49 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Healthchecks Service
-
-__Downloads__: 23,551 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Goldengate](https://www.powershellgallery.com/Packages/OCI.PSModules.Goldengate/95.1.0) | 95.1.0
-
-### Published: 11/12/2024 18:48:35 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Goldengate Service
-
-__Downloads__: 8,842 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Globallydistributeddatabase](https://www.powershellgallery.com/Packages/OCI.PSModules.Globallydistributeddatabase/95.1.0) | 95.1.0
-
-### Published: 11/12/2024 18:48:29 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Globallydistributeddatabase Service
-
-__Downloads__: 3,795 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Genericartifactscontent](https://www.powershellgallery.com/Packages/OCI.PSModules.Genericartifactscontent/95.1.0) | 95.1.0
-
-### Published: 11/12/2024 18:48:24 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Genericartifactscontent Service
-
-__Downloads__: 8,549 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Generativeaiinference](https://www.powershellgallery.com/Packages/OCI.PSModules.Generativeaiinference/95.1.0) | 95.1.0
-
-### Published: 11/12/2024 18:48:17 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Generativeaiinference Service
-
-__Downloads__: 3,892 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Generativeai](https://www.powershellgallery.com/Packages/OCI.PSModules.Generativeai/95.1.0) | 95.1.0
-
-### Published: 11/12/2024 18:48:00 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Generativeai Service
-
-__Downloads__: 3,891 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Fusionapps](https://www.powershellgallery.com/Packages/OCI.PSModules.Fusionapps/95.1.0) | 95.1.0
-
-### Published: 11/12/2024 18:47:55 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Fusionapps Service
-
-__Downloads__: 6,688 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Functions](https://www.powershellgallery.com/Packages/OCI.PSModules.Functions/95.1.0) | 95.1.0
-
-### Published: 11/12/2024 18:47:49 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Functions Service
-
-__Downloads__: 9,222 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Fleetsoftwareupdate](https://www.powershellgallery.com/Packages/OCI.PSModules.Fleetsoftwareupdate/95.1.0) | 95.1.0
-
-### Published: 11/12/2024 18:47:43 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Fleetsoftwareupdate Service
-
-__Downloads__: 5,104 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Filestorage](https://www.powershellgallery.com/Packages/OCI.PSModules.Filestorage/95.1.0) | 95.1.0
-
-### Published: 11/12/2024 18:47:33 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Filestorage Service
-
-__Downloads__: 12,036 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Events](https://www.powershellgallery.com/Packages/OCI.PSModules.Events/95.1.0) | 95.1.0
-
-### Published: 11/12/2024 18:47:27 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Events Service
-
-__Downloads__: 9,281 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Emwarehouse](https://www.powershellgallery.com/Packages/OCI.PSModules.Emwarehouse/95.1.0) | 95.1.0
-
-### Published: 11/12/2024 18:47:22 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Emwarehouse Service
-
-__Downloads__: 6,790 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Emaildataplane](https://www.powershellgallery.com/Packages/OCI.PSModules.Emaildataplane/95.1.0) | 95.1.0
-
-### Published: 11/12/2024 18:47:15 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Emaildataplane Service
-
-__Downloads__: 2,881 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Email](https://www.powershellgallery.com/Packages/OCI.PSModules.Email/95.1.0) | 95.1.0
-
-### Published: 11/12/2024 18:47:10 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Email Service
-
-__Downloads__: 9,254 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Dts](https://www.powershellgallery.com/Packages/OCI.PSModules.Dts/95.1.0) | 95.1.0
-
-### Published: 11/12/2024 18:47:03 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Dts Service
-
-__Downloads__: 9,603 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Dns](https://www.powershellgallery.com/Packages/OCI.PSModules.Dns/95.1.0) | 95.1.0
-
-### Published: 11/12/2024 18:46:57 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Dns Service
-
-__Downloads__: 9,315 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Disasterrecovery](https://www.powershellgallery.com/Packages/OCI.PSModules.Disasterrecovery/95.1.0) | 95.1.0
-
-### Published: 11/12/2024 18:46:51 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Disasterrecovery Service
-
-__Downloads__: 6,250 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Desktops](https://www.powershellgallery.com/Packages/OCI.PSModules.Desktops/95.1.0) | 95.1.0
-
-### Published: 11/12/2024 18:46:39 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Desktops Service
-
-__Downloads__: 3,494 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Demandsignal](https://www.powershellgallery.com/Packages/OCI.PSModules.Demandsignal/95.1.0) | 95.1.0
-
-### Published: 11/12/2024 18:46:34 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Demandsignal Service
-
-__Downloads__: 2,250 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Datascience](https://www.powershellgallery.com/Packages/OCI.PSModules.Datascience/95.1.0) | 95.1.0
-
-### Published: 11/12/2024 18:46:24 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Datascience Service
-
-__Downloads__: 10,559 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Datasafe](https://www.powershellgallery.com/Packages/OCI.PSModules.Datasafe/95.1.0) | 95.1.0
-
-### Published: 11/12/2024 18:46:15 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Datasafe Service
-
-__Downloads__: 14,303 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Dataintegration](https://www.powershellgallery.com/Packages/OCI.PSModules.Dataintegration/95.1.0) | 95.1.0
-
-### Published: 11/12/2024 18:45:55 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Dataintegration Service
-
-__Downloads__: 9,573 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Dataflow](https://www.powershellgallery.com/Packages/OCI.PSModules.Dataflow/95.1.0) | 95.1.0
-
-### Published: 11/12/2024 18:45:49 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Dataflow Service
-
-__Downloads__: 13,921 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Datacatalog](https://www.powershellgallery.com/Packages/OCI.PSModules.Datacatalog/95.1.0) | 95.1.0
-
-### Published: 11/12/2024 18:45:43 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Datacatalog Service
-
-__Downloads__: 9,555 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Databasetools](https://www.powershellgallery.com/Packages/OCI.PSModules.Databasetools/95.1.0) | 95.1.0
-
-### Published: 11/12/2024 18:45:36 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Databasetools Service
-
-__Downloads__: 7,940 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Databasemigration](https://www.powershellgallery.com/Packages/OCI.PSModules.Databasemigration/95.1.0) | 95.1.0
-
-### Published: 11/12/2024 18:45:30 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Databasemigration Service
-
-__Downloads__: 8,645 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Databasemanagement](https://www.powershellgallery.com/Packages/OCI.PSModules.Databasemanagement/95.1.0) | 95.1.0
-
-### Published: 11/12/2024 18:45:25 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Databasemanagement Service
-
-__Downloads__: 8,934 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Database](https://www.powershellgallery.com/Packages/OCI.PSModules.Database/95.1.0) | 95.1.0
-
-### Published: 11/12/2024 18:45:18 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Database Service
-
-__Downloads__: 21,377 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Containerinstances](https://www.powershellgallery.com/Packages/OCI.PSModules.Containerinstances/95.1.0) | 95.1.0
-
-### Published: 11/12/2024 18:44:59 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Containerinstances Service
-
-__Downloads__: 6,115 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Containerengine](https://www.powershellgallery.com/Packages/OCI.PSModules.Containerengine/95.1.0) | 95.1.0
-
-### Published: 11/12/2024 18:44:54 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Containerengine Service
-
-__Downloads__: 9,286 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Computeinstanceagent](https://www.powershellgallery.com/Packages/OCI.PSModules.Computeinstanceagent/95.1.0) | 95.1.0
-
-### Published: 11/12/2024 18:44:47 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Computeinstanceagent Service
-
-__Downloads__: 9,448 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Computecloudatcustomer](https://www.powershellgallery.com/Packages/OCI.PSModules.Computecloudatcustomer/95.1.0) | 95.1.0
-
-### Published: 11/12/2024 18:44:42 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Computecloudatcustomer Service
-
-__Downloads__: 4,968 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Clusterplacementgroups](https://www.powershellgallery.com/Packages/OCI.PSModules.Clusterplacementgroups/95.1.0) | 95.1.0
-
-### Published: 11/12/2024 18:44:35 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Clusterplacementgroups Service
-
-__Downloads__: 2,708 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Cloudmigrations](https://www.powershellgallery.com/Packages/OCI.PSModules.Cloudmigrations/95.1.0) | 95.1.0
-
-### Published: 11/12/2024 18:44:29 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Cloudmigrations Service
-
-__Downloads__: 6,383 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Cloudguard](https://www.powershellgallery.com/Packages/OCI.PSModules.Cloudguard/95.1.0) | 95.1.0
-
-### Published: 11/12/2024 18:44:23 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Cloudguard Service
-
-__Downloads__: 9,171 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Cloudbridge](https://www.powershellgallery.com/Packages/OCI.PSModules.Cloudbridge/95.1.0) | 95.1.0
-
-### Published: 11/12/2024 18:44:17 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Cloudbridge Service
-
-__Downloads__: 6,390 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Cims](https://www.powershellgallery.com/Packages/OCI.PSModules.Cims/95.1.0) | 95.1.0
-
-### Published: 11/12/2024 18:44:11 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Cims Service
-
-__Downloads__: 9,476 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Budget](https://www.powershellgallery.com/Packages/OCI.PSModules.Budget/95.1.0) | 95.1.0
-
-### Published: 11/12/2024 18:43:46 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Budget Service
-
-__Downloads__: 9,428 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Blockchain](https://www.powershellgallery.com/Packages/OCI.PSModules.Blockchain/95.1.0) | 95.1.0
-
-### Published: 11/12/2024 18:43:40 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Blockchain Service
-
-__Downloads__: 9,455 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Bds](https://www.powershellgallery.com/Packages/OCI.PSModules.Bds/95.1.0) | 95.1.0
-
-### Published: 11/12/2024 18:43:33 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Bds Service
-
-__Downloads__: 9,517 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Bastion](https://www.powershellgallery.com/Packages/OCI.PSModules.Bastion/95.1.0) | 95.1.0
-
-### Published: 11/12/2024 18:43:26 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Bastion Service
-
-__Downloads__: 8,620 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Autoscaling](https://www.powershellgallery.com/Packages/OCI.PSModules.Autoscaling/95.1.0) | 95.1.0
-
-### Published: 11/12/2024 18:43:20 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Autoscaling Service
-
-__Downloads__: 9,434 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Audit](https://www.powershellgallery.com/Packages/OCI.PSModules.Audit/95.1.0) | 95.1.0
-
-### Published: 11/12/2024 18:43:13 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Audit Service
-
-__Downloads__: 9,785 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Artifacts](https://www.powershellgallery.com/Packages/OCI.PSModules.Artifacts/95.1.0) | 95.1.0
-
-### Published: 11/12/2024 18:43:06 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Artifacts Service
-
-__Downloads__: 8,966 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Apmtraces](https://www.powershellgallery.com/Packages/OCI.PSModules.Apmtraces/95.1.0) | 95.1.0
-
-### Published: 11/12/2024 18:42:55 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Apmtraces Service
-
-__Downloads__: 11,199 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Apmsynthetics](https://www.powershellgallery.com/Packages/OCI.PSModules.Apmsynthetics/95.1.0) | 95.1.0
-
-### Published: 11/12/2024 18:42:49 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Apmsynthetics Service
-
-__Downloads__: 8,951 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Apmcontrolplane](https://www.powershellgallery.com/Packages/OCI.PSModules.Apmcontrolplane/95.1.0) | 95.1.0
-
-### Published: 11/12/2024 18:42:42 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Apmcontrolplane Service
-
-__Downloads__: 10,351 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Apmconfig](https://www.powershellgallery.com/Packages/OCI.PSModules.Apmconfig/95.1.0) | 95.1.0
-
-### Published: 11/12/2024 18:42:37 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Apmconfig Service
-
-__Downloads__: 8,701 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Apigateway](https://www.powershellgallery.com/Packages/OCI.PSModules.Apigateway/95.1.0) | 95.1.0
-
-### Published: 11/12/2024 18:42:31 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Apigateway Service
-
-__Downloads__: 9,622 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Announcementsservice](https://www.powershellgallery.com/Packages/OCI.PSModules.Announcementsservice/95.1.0) | 95.1.0
-
-### Published: 11/12/2024 18:42:25 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Announcementsservice Service
-
-__Downloads__: 12,122 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Analytics](https://www.powershellgallery.com/Packages/OCI.PSModules.Analytics/95.1.0) | 95.1.0
-
-### Published: 11/12/2024 18:41:51 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Analytics Service
-
-__Downloads__: 9,507 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-*Updated: Friday, 06 December 2024 02:18:49 UTC*
+*Updated: Friday, 06 December 2024 09:51:48 UTC*
