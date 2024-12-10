@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 09 December 2024 17:51:48 UTC
+Updated: Tuesday, 10 December 2024 02:21:11 UTC
 
 .bat
 .env
@@ -71,7 +71,6 @@ aadsecurity
 aadsts
 aam
 aas
-aatp
 abc
 abc_testing
 abe
@@ -170,13 +169,16 @@ add-on.module
 add-one
 add-path
 add-type
+addin
 addlevel
 addomainservices
 addon
 address
 address-book
+addresses
 addressrange
 adds
+addtypeaccelerators
 adf
 adfs
 adfsconfiguration
@@ -215,11 +217,14 @@ adobject
 adouobject
 adoxio
 adp
+adprotocol
 adr
 ads
 adsi
 adsite
+adsp
 adsync
+adt
 aduser
 aduseraccountlockout
 adusergroups
@@ -309,6 +314,7 @@ alletra
 alloydb
 alm
 almrangers
+alpha
 alphafs
 alpine
 alt3
@@ -355,7 +361,6 @@ animals
 animate-svg
 animation
 animations
-annotated
 announcement
 announcementsservice
 anonymous
@@ -363,8 +368,6 @@ anova
 ansi
 ansible
 ansible-control-node
-ansible-playbook
-ansible-vault
 ansiblecontrolnode
 ansibletower
 anthropic
@@ -409,6 +412,9 @@ appattach
 appclusive
 appcmd
 appconfiguration
+appdeploy
+appdeployment
+appdeploytoolkit
 appdynamics
 appearance
 appender
@@ -456,7 +462,6 @@ apt
 apt-get
 apt-get-update
 apteco
-aptitude
 aql
 arangodb
 arc
@@ -479,7 +484,6 @@ arcus
 area
 arg
 argcomplete
-argument
 argumentcompleter
 arguments
 ari
@@ -532,7 +536,6 @@ assessment
 asset
 assetintelligencepoint
 assets
-assistance
 assistant
 association
 ast
@@ -553,6 +556,7 @@ atom
 atp
 atrium
 att&ck
+attach
 attestation
 attila
 attribute
@@ -682,7 +686,6 @@ aznetworking
 aznetworkinterface
 aznicdetails
 azops
-azpipelines
 azpublicipaddress
 azresources
 azsdk
@@ -713,13 +716,11 @@ azureadbackupandrestore
 azureadconnect
 azureadgraph
 azureadtoolkit
-azureadvancedthreatprotection
 azureappconfiguration
 azureapplicationstuff
 azurearc
 azureartifacts
 azureas
-azureatp
 azureautomation
 azureautomationaccount
 azureautomationnotsupported
@@ -818,7 +819,6 @@ bash
 basic
 bastion
 bat
-batcat
 batch
 batchclass
 batman
@@ -841,6 +841,7 @@ beam3d
 bearded-avenger
 bearer
 beautifier
+beautify
 bec
 beckhoff
 bedrock
@@ -868,6 +869,7 @@ bigquery
 bikeshed
 billing
 billingbenefits
+bimi
 bin
 bin-obj
 binary
@@ -880,7 +882,6 @@ bingmap
 bingmaps
 binomial
 bios
-bios_settings
 bios-settings
 bit
 bitbucket
@@ -922,6 +923,7 @@ bls
 blue
 blueprint
 blueprints
+bluesky
 blueteam
 bluetraitio
 bluetuxedo
@@ -1024,7 +1026,6 @@ businessrulesengine
 businesstime
 bxor
 bydesign
-byexample
 bynarypsmodule
 byovd
 byte
@@ -1069,7 +1070,6 @@ carbonintensity
 card
 cardwirth
 cares
-cargo
 carousel
 carrier
 cartoon
@@ -1103,7 +1103,6 @@ cd+
 cdable_vars
 cdata
 cdb
-cdi
 cdm
 cdn
 cdp
@@ -1147,6 +1146,7 @@ changeanalysis
 changelog
 channel
 channel9
+char
 character
 chart
 charting
@@ -1318,6 +1318,7 @@ clusterplugins
 cmaccounts
 cmake
 cmakepresets.json
+cmbuild
 cmclibnet
 cmclustermaintenance
 cmd
@@ -1326,12 +1327,14 @@ cmdkey
 cmdlet
 cmdlet-testing
 cmdlets
+cmdstan
 cmgroupdiscovery
 cmhealth
 cmhealthcheck
 cminifile
 cmnetworkports
 cms
+cmsiteconfig
 cmsmessage
 cmtrace
 cmwt
@@ -1353,6 +1356,7 @@ codegen
 codegeneration
 codegenerator
 codellama
+codepoint
 codereview
 codes
 codesign
@@ -1469,6 +1473,7 @@ configurationapi
 configurationdata
 configurationkey
 configurationmanagement
+configurationmanager
 configurationprofile
 configurations
 configure
@@ -1495,9 +1500,9 @@ connectionsmanager
 connectionstring
 connectivity
 connector
+connectorcmd
 connectormanagement
 connectwise
-conservation
 console
 consoleguitools
 consoleimage
@@ -1546,7 +1551,6 @@ conversion
 conversiontool
 convert
 convert-dtexceptiontomessage
-convert-movietogif
 convert-sid
 convert-windowsimage
 converter
@@ -1566,7 +1570,6 @@ converttohtml
 converttomarkdown
 converttomd
 cookie
-coolq
 cooltag1
 cooltag2
 coordinates
@@ -1591,6 +1594,8 @@ couchbase
 couchdb
 couchpotato
 count
+count-lines-of-code
+count-loc
 countdown
 counter
 countries
@@ -1609,10 +1614,8 @@ cppm
 cpu
 cpuid
 cpuid-information
-cq
 cqd
 cqdpowershell
-cqhttp
 crack psmodule
 crash
 crawler
@@ -1645,7 +1648,6 @@ credentialstore
 credentialtheaf
 credentialutility
 credman
-credmanager
 crescendo
 crescendobuilt
 cresendo
@@ -1798,9 +1800,11 @@ dataexplorer
 datafactory
 dataflow
 dataflowdependency
+dataframe
 datagateway
 dataintegration
 datakwaliteit
+datalabelingservice
 datalabelingservicedataplane
 datalake
 datamanipulation
@@ -1871,6 +1875,7 @@ declarative
 decline
 decode
 decode64
+decoding
 decompiler
 decrypt
 decryption
@@ -1895,7 +1900,6 @@ defender-atp
 defender-for-endpoint
 defenderast
 defenderforendpoint
-defenderforidentity
 defense
 deflate
 defrag
@@ -1937,6 +1941,7 @@ desiredstate
 desiredstateconfiguration
 desk
 desktop
+desktops
 desktopvirtualization
 details
 detect
@@ -1965,6 +1970,7 @@ devices
 deviceupdate
 devolutions
 devops
+devops psmodule
 devsecninja
 devsecops
 devtestlabs
@@ -2046,6 +2052,8 @@ dismal
 display
 display_dialog
 displayresolution
+disposable
+dispose
 distance
 distinguishedname
 distributed-systems
@@ -2131,9 +2139,9 @@ dok
 dokuwiki
 domain
 domaincontroller
+domainkey
 domainname
 domainnamesystem
-domains
 domino
 done.land
 donothing
@@ -2287,6 +2295,7 @@ ebur128
 ec2
 ecommerce
 ecovadis
+ed25519
 edgaronline
 edge
 edgebackup
@@ -2309,6 +2318,7 @@ egrep
 eid
 eigencontroles
 einstein
+eklient psedition_core psedition_desktop
 elastic
 elasticsan
 elasticsearch
@@ -2322,6 +2332,7 @@ elevation
 elevenlabs
 elgato
 elitism
+elk
 elm
 elmah-io
 elonmusk
@@ -2488,6 +2499,7 @@ evernote
 everydaypowershell
 everydayrewards
 everything
+evilprince2009
 evolutionary-algorithms
 evolutionary-database
 evtx
@@ -2526,6 +2538,7 @@ execute
 exexml
 exif
 exiftool
+exists
 exitcode
 exitprocessrequest
 exo
@@ -2675,6 +2688,7 @@ filesecurity
 fileserver
 fileserverresourcemanager
 fileshare
+filesharing
 filestorage
 filestream
 filesystem
@@ -2748,6 +2762,7 @@ fleetsoftwareupdate
 flex
 flex-query
 flexdesk
+flexible
 flickr
 flowchart
 flowy
@@ -2850,7 +2865,6 @@ fun
 function
 function-testing
 functionality
-functionalprogramming
 functionapp
 functions
 funds
@@ -2888,7 +2902,6 @@ gcp
 gcs
 gdap
 gdpr
-gedit
 gem
 gemini
 geminiprotocol
@@ -2980,6 +2993,7 @@ git-flow
 git-lfs
 git-proxy
 git-rename
+git-stat
 gitcmdline
 gitdesktop
 gitea
@@ -2987,7 +3001,6 @@ gitflow
 gitforwindows
 github
 github-actions
-githubaction
 githubactions
 githubtools
 githubworkflow
@@ -3023,6 +3036,7 @@ goldsource
 goldsource-dedicated-server
 google
 google-chrome
+google-fonts
 google-histogram
 google-sankey
 google-table
@@ -3062,12 +3076,12 @@ graph
 graph-api
 graphapi
 graphapirequests
+graphconnector
 graphexplorer
 graphic
 graphics
 graphite
 graphql
-graphs
 graphservices
 graphviz
 graylog
@@ -3147,6 +3161,7 @@ harden-windows-security
 hardening
 hardensysvol
 hardlink
+hardmatch
 hardware
 harperdb
 hartokens
@@ -3214,7 +3229,6 @@ hewlett-packard
 hewlett-packard-enterprise
 hewlett-packardenterprise
 hex
-hexdump
 hg
 hibernate
 hibernation
@@ -3261,7 +3275,6 @@ homebrew
 homelandsecurity
 homeschooling
 hometheater
-hon
 hooking
 hooks
 horizon
@@ -3437,6 +3450,7 @@ imagination
 imaging
 imap
 imb
+imei
 imi
 impala
 impersonation
@@ -3672,12 +3686,10 @@ javaversion
 jboss
 jdbc
 jde
-jdedwards
 jdt
 jea
 jea_module
 jeanalyzer
-jekyll
 jenkins
 jetbrains
 jira
@@ -3717,7 +3729,6 @@ jsonwebkey
 jsonwebsignature
 jsonwebtoken
 jsp
-jumbo
 jump
 jump-location
 jumpcloud
@@ -3773,6 +3784,7 @@ keyboardstartkey
 keycipher
 keycloak
 keylight
+keymanagement
 keymanagementserver
 keymap
 keymapping
@@ -3781,6 +3793,7 @@ keysms
 keyvault
 keywords
 kfum-spejderne
+kibana
 kickstart
 kidrsa
 kill
@@ -3803,7 +3816,6 @@ korn
 kotlin
 kql
 kraken
-krane
 krbtgt
 krick
 kschemaplugin
@@ -3811,11 +3823,14 @@ kubclt
 kube
 kubeconfig
 kubectl
+kubectx
 kubedeck
+kubens
 kubernetes
 kubernetesconfiguration
 kubesnapit
 kubespray
+kubetidy
 kudu
 kurukuru
 kusto
@@ -3848,7 +3863,6 @@ lan
 landingzones
 language
 languageai
-languagedsc
 languageexperiencepack
 languagemodels
 languagepack
@@ -3898,7 +3912,6 @@ lemonai
 lenel
 length
 lenovo
-less
 lesspass
 letsencrypt
 lf
@@ -3930,7 +3943,6 @@ lina
 line
 line-endings
 linear
-linearalgebra
 lingeringobjects
 link
 link-capability
@@ -3975,6 +3987,7 @@ loader
 loadtesting
 loanddepot
 loandepot
+loc
 local
 local-caching
 local-policy
@@ -4014,6 +4027,7 @@ log-rotation
 log4net
 loganalytics
 logbook
+logcat
 logentry
 logfile
 logfilearchivearchive
@@ -4063,8 +4077,6 @@ longfiles
 longitude
 look
 lookup
-lookupaccountname
-lookupaccountsid
 loop
 loopback
 loremipsum
@@ -4188,6 +4200,7 @@ mask
 mass
 masstransit
 masterconfiguration
+match
 matcharray
 matchhashtable
 materialdesign
@@ -4220,7 +4233,6 @@ mdb
 mdbc
 mde
 mdep
-mdi
 mdm
 mdop
 mdt
@@ -4228,6 +4240,7 @@ mdx
 me4024
 mean
 measure
+measure-loc
 measure-process
 mecm
 media
@@ -4288,6 +4301,7 @@ mga
 mgn
 mi
 micro
+micro-orm
 microfocus
 microk8s
 microservices
@@ -4315,9 +4329,9 @@ microsoftazure
 microsoftcloud
 microsoftdefender
 microsoftdefenderatp
-microsoftdefenderforidentity
 microsoftdeploymenttoolkit
 microsoftendpointmanager
+microsoftexchangeserver
 microsoftfabric
 microsoftgraph
 microsoftgraphapi
@@ -4418,10 +4432,10 @@ monitoring_objects
 monitoring_variables
 monitoringplugins
 monitoringsolutions
+monitors
 monthlyupdate
 moodle
 moonshot
-more
 mosaic
 motd
 motivation
@@ -4477,7 +4491,6 @@ msmq
 msol
 msoms
 msonline
-msonlineext
 msp
 msp360
 mspbackups
@@ -4494,7 +4507,9 @@ msteams
 mstest
 mstsc
 msu
+msvc
 msword
+mta-sts
 mule
 mulesoft
 multi
@@ -4523,7 +4538,6 @@ mute
 mutex
 mva
 mvc
-mvn
 mvp
 mx
 mxlookup
@@ -4572,7 +4586,6 @@ nbi
 ncal
 ncrestapi
 ndes
-nebulon
 nec-infrared-transmission-protocol
 necli
 nederland
@@ -4580,7 +4593,6 @@ nedyalkov
 nemovote
 neo4j
 neonpostgres
-neovim
 neptune
 nerdfonts
 nerdio
@@ -4672,7 +4684,6 @@ nhl
 nic
 nic.ru
 nightmare
-ninite
 ninja
 ninjaone
 ninjarmm
@@ -4681,8 +4692,6 @@ nist
 nitrox
 njclipsh
 nl
-nla
-nlm
 nlog
 nmap
 nmbell
@@ -4691,7 +4700,6 @@ nntp
 node
 nodejs
 non-idiomatic
-non-volatile
 none
 noneimages
 noninteractive
@@ -4707,7 +4715,6 @@ nosql
 note
 notebook
 notepad
-notepad2
 noteproperty
 notes
 nothing
@@ -4757,8 +4764,6 @@ nutanix
 nuwave
 nva
 nvd
-nvdimm
-nvdimm-n
 nvm
 nvm-window
 nxt
@@ -4795,6 +4800,7 @@ octopus
 octopus-deploy
 octopus.client
 octopusdeploy
+octopusenergy
 ocvp
 od4b
 oda
@@ -4880,7 +4886,6 @@ opa
 opc
 open
 open-ai
-open-ssh
 openai
 openamt
 openapi
@@ -4891,8 +4896,8 @@ openhere
 openholidaysapi
 openid
 openidconnect
-openinghours
 openport
+openprovider
 openscad
 opensearch
 opensource
@@ -4992,7 +4997,6 @@ outline
 outlook
 outpainting
 output
-output-to-image
 outreach
 outsystems
 overbite
@@ -5027,7 +5031,6 @@ packet
 packing
 pacli
 page
-pageant
 pager
 pagerduty
 pages
@@ -5119,6 +5122,10 @@ pcsetup
 pcsv
 pdb
 pdf
+pdf-document-processor
+pdf-files
+pdf-generation
+pdf-redaction
 pe
 peek
 peering
@@ -5141,7 +5148,6 @@ permission
 permissions
 permutations
 persistence
-persistent
 personal
 personalisation
 personalization
@@ -5169,7 +5175,6 @@ php
 phpapam
 pi
 picker
-pico
 picture
 pictures
 pid
@@ -5210,6 +5215,7 @@ planner
 plantuml
 plaster
 platform
+platyps
 play
 playback
 playbook
@@ -5310,12 +5316,13 @@ poshy-net
 poshy-notify-send
 poshy-sh-isms
 poshy-sshconfig
-poshy-viewer-finder
 poshy-wrap
-poshy-wrap-apt
 poshy-wrap-argcomplete
+poshy-wrap-curl
 poshy-wrap-dnf
+poshy-wrap-docker
 poshy-wrap-docker-compose
+poshy-wrap-dotnet
 poshy-wrap-forgit
 poshy-wrap-gem
 poshy-wrap-gh
@@ -5331,11 +5338,11 @@ poshy-wrap-nmap
 poshy-wrap-npm
 poshy-wrap-pip
 poshy-wrap-pipenv
+poshy-wrap-pyenv
 poshy-wrap-pylint
 poshy-wrap-python
 poshy-wrap-ruby
 poshy-wrap-systemctl
-poshy-wrap-terraform
 poshy-wrap-terragrunt
 poshy-wrap-tmux
 poshy-wrap-vagrant
@@ -5433,9 +5440,9 @@ powershellremoting
 powershellscript
 powershelltemplate
 powershelltraining
+powershelltypeaccelerators
 powershelluniversal
 powershellv5
-powershellweb
 powerstig
 powerstore
 powertab
@@ -5457,6 +5464,7 @@ predictive-text
 predictor
 preferences
 prefix
+prefixing
 preparead
 preparealldomains
 prepareschema
@@ -5465,6 +5473,7 @@ preprocessing
 preprocessor
 presentation
 presenter
+presto
 preston-k-parsard
 prettifier
 pretty
@@ -5545,7 +5554,6 @@ proofpoint
 properties
 property
 property-list
-prose
 protect
 protect-blob
 protect-string
@@ -5565,7 +5573,6 @@ prowl-notifications
 prowlapp
 proxmox
 proxmoxve
-proxsys
 proxy
 proxyfunction
 proxyfunctions
@@ -5593,6 +5600,7 @@ psadt
 psake
 psappdeploytoolkit
 psat
+psazd
 psbackup
 psbbix
 psbicep
@@ -5617,10 +5625,6 @@ pscommand_6
 pscommand_7
 pscommand_8
 pscommand_9
-pscommand_aar
-pscommand_acp
-pscommand_acse
-pscommand_acsp
 pscommand_add_ssh
 pscommand_add-envpathitem
 pscommand_add-envvarpathitem
@@ -5634,16 +5638,7 @@ pscommand_add-gittrackedfiles
 pscommand_add-gittrackedfilesall
 pscommand_add-gittrackedfilesinteractively
 pscommand_add-gittrackedfilesverbosely
-pscommand_afs
-pscommand_age
-pscommand_agli
-pscommand_aglu
-pscommand_allpkgs
-pscommand_app
-pscommand_apt-history
-pscommand_apt-list-packages
 pscommand_arch
-pscommand_asrc
 pscommand_basename
 pscommand_bgblack
 pscommand_bgblue
@@ -5669,18 +5664,28 @@ pscommand_cd-
 pscommand_cd..
 pscommand_cd+
 pscommand_cdgr
+pscommand_cl
+pscommand_clb
+pscommand_clhead
+pscommand_clo
+pscommand_cloc
+pscommand_clocr
 pscommand_confirm-gitbisectcommitbad
 pscommand_confirm-gitbisectcommitgood
 pscommand_convertto-nixmode
 pscommand_convertto-rgb
 pscommand_d
 pscommand_d64
+pscommand_dbl
 pscommand_dcb
 pscommand_dcdn
 pscommand_dce
+pscommand_dcin
 pscommand_dck
 pscommand_dcl
 pscommand_dclf
+pscommand_dcls
+pscommand_dclsa
 pscommand_dco
 pscommand_dcofresh
 pscommand_dcol
@@ -5700,8 +5705,43 @@ pscommand_dcupd
 pscommand_decode64
 pscommand_decodefile64
 pscommand_df64
+pscommand_dib
+pscommand_dii
+pscommand_dils
+pscommand_dipu
+pscommand_dirm
 pscommand_dirname
 pscommand_disable-proxy
+pscommand_dit
+pscommand_dk
+pscommand_dkbash
+pscommand_dkelc
+pscommand_dkex
+pscommand_dki
+pscommand_dkip
+pscommand_dklc
+pscommand_dklcid
+pscommand_dklcip
+pscommand_dkps
+pscommand_dkpsa
+pscommand_dkre
+pscommand_dkri
+pscommand_dkric
+pscommand_dkrit
+pscommand_dkritc
+pscommand_dkrmac
+pscommand_dkrmall
+pscommand_dkrmflast
+pscommand_dkrmi
+pscommand_dkrmlc
+pscommand_dkrmli
+pscommand_dkrmui
+pscommand_dksp
+pscommand_dkvp
+pscommand_dlo
+pscommand_dnc
+pscommand_dncn
+pscommand_dndcn
 pscommand_dnfc
 pscommand_dnfgi
 pscommand_dnfgl
@@ -5715,7 +5755,90 @@ pscommand_dnfr
 pscommand_dnfri
 pscommand_dnfs
 pscommand_dnfu
+pscommand_dni
+pscommand_dnls
+pscommand_dnrm
+pscommand_docker-archive-content
+pscommand_docker-build
 pscommand_docker-compose-fresh
+pscommand_docker-container-execute
+pscommand_docker-container-execute-interactively
+pscommand_docker-container-inspect
+pscommand_docker-container-list
+pscommand_docker-container-list-all
+pscommand_docker-container-logs
+pscommand_docker-container-port-open
+pscommand_docker-container-remove
+pscommand_docker-container-remove-forcefully
+pscommand_docker-container-restart
+pscommand_docker-container-run
+pscommand_docker-container-run-interactively
+pscommand_docker-container-start
+pscommand_docker-container-stop
+pscommand_docker-container-stop-all
+pscommand_docker-enter
+pscommand_docker-enter-latest-container
+pscommand_docker-execute-in-container
+pscommand_docker-image-build
+pscommand_docker-image-inspect
+pscommand_docker-image-list
+pscommand_docker-image-prune-all-forcefully
+pscommand_docker-image-push
+pscommand_docker-image-remove
+pscommand_docker-image-tag
+pscommand_docker-network-connect
+pscommand_docker-network-create
+pscommand_docker-network-disconnect
+pscommand_docker-network-inspect
+pscommand_docker-network-list
+pscommand_docker-network-remove
+pscommand_docker-pull
+pscommand_docker-remove-images
+pscommand_docker-remove-latest-container
+pscommand_docker-remove-most-recent-container
+pscommand_docker-remove-most-recent-image
+pscommand_docker-remove-stale-assets
+pscommand_docker-run-in-container-transient
+pscommand_docker-run-in-container-transient-interactively
+pscommand_docker-run-in-container-transient-interactively-with-mounted-cwd
+pscommand_docker-run-in-container-transient-with-mounted-cwd
+pscommand_docker-runtime-environment
+pscommand_docker-system-prune-all-forcefully
+pscommand_docker-top
+pscommand_docker-volume-inspect
+pscommand_docker-volume-list
+pscommand_docker-volume-prune
+pscommand_docker-volume-prune-forcefully
+pscommand_dotnet-add
+pscommand_dotnet-build
+pscommand_dotnet-new
+pscommand_dotnet-nuget
+pscommand_dotnet-pack
+pscommand_dotnet-run
+pscommand_dotnet-sln
+pscommand_dotnet-test
+pscommand_dotnet-tool-list-global
+pscommand_dotnet-tool-list-local
+pscommand_dotnet-tool-update-all-global
+pscommand_dotnet-watch
+pscommand_dotnet-watch-run
+pscommand_dotnet-watch-test
+pscommand_dpo
+pscommand_dpu
+pscommand_dr
+pscommand_drit
+pscommand_drm
+pscommand_drm!
+pscommand_drs
+pscommand_dst
+pscommand_dsta
+pscommand_dstp
+pscommand_dtop
+pscommand_dvi
+pscommand_dvls
+pscommand_dvprune
+pscommand_dxc
+pscommand_dxcit
 pscommand_e64
 pscommand_ef64
 pscommand_enable-proxy
@@ -5781,8 +5904,6 @@ pscommand_forgit-reset-head
 pscommand_forgit-revert-commit
 pscommand_forgit-stash-push
 pscommand_forgit-stash-show
-pscommand_format-batcatstyle
-pscommand_format-lesstermcapenv
 pscommand_format-viewerinvocationsh
 pscommand_g
 pscommand_ga
@@ -5877,7 +5998,6 @@ pscommand_geli
 pscommand_geo
 pscommand_geoe
 pscommand_get
-pscommand_get-aptinstalledpackages
 pscommand_get-childitemcolorfully
 pscommand_get-childitemcolorfullycramped
 pscommand_get-childitemcolorfullyrevealingly
@@ -5887,6 +6007,12 @@ pscommand_get-childitemcolorfullyrevealinglyrecursivelywithrecency
 pscommand_get-childitemcolorfullyrevealinglywithrecency
 pscommand_get-childitemcolorfullywithrecency
 pscommand_get-childitemnamesonly
+pscommand_get-dockercontainerall
+pscommand_get-dockercontainerlatest
+pscommand_get-dockercontainerlatestipaddress
+pscommand_get-dockercontainerlatestquiet
+pscommand_get-dockercontainerrunning
+pscommand_get-dockerimage
 pscommand_get-envpathitem
 pscommand_get-envvar
 pscommand_get-envvarpathitem
@@ -5936,7 +6062,6 @@ pscommand_get-netipaddresspublic
 pscommand_get-netipaddresssimple
 pscommand_get-pwshaliasdefinition
 pscommand_get-pwshfunctiondefinition
-pscommand_get-viewer
 pscommand_geun
 pscommand_gexport
 pscommand_gf
@@ -6154,14 +6279,12 @@ pscommand_hin
 pscommand_hostname
 pscommand_hse
 pscommand_hup
-pscommand_invoke-aptcachepolicy
-pscommand_invoke-aptcachesearch
-pscommand_invoke-aptcacheshowpkg
-pscommand_invoke-aptfilesearchbyregex
-pscommand_invoke-aptgetsource
-pscommand_invoke-aptlistinstalled
-pscommand_invoke-aptlistupgradable
-pscommand_invoke-aptpreferred
+pscommand_invoke-curlfollowingredirects
+pscommand_invoke-curlfollowingredirectsdownloadasnamed
+pscommand_invoke-curlfollowingredirectsdownloadasnamedcontinue
+pscommand_invoke-curlfollowingredirectsdownloadasnamedcontinueandretry
+pscommand_invoke-curlfollowingredirectsfetchbanner
+pscommand_invoke-curlonlyforgetresponseheaders
 pscommand_invoke-dnfcleanall
 pscommand_invoke-dnfgrouplist
 pscommand_invoke-dnfgrouppinstall
@@ -6452,6 +6575,7 @@ pscommand_invoke-pipinstall
 pscommand_invoke-pipinstallupgrade
 pscommand_invoke-piplistoutdated
 pscommand_invoke-pipuninstall
+pscommand_invoke-pyenv
 pscommand_invoke-pylintreportsdisabled
 pscommand_invoke-ruby
 pscommand_invoke-rubyexecute
@@ -6564,15 +6688,6 @@ pscommand_invoke-systemctluser-try-reload-or-restart
 pscommand_invoke-systemctluser-try-restart
 pscommand_invoke-systemctluser-unmask
 pscommand_invoke-systemctluser-unset-environment
-pscommand_invoke-terraform
-pscommand_invoke-terraformapply
-pscommand_invoke-terraformconsole
-pscommand_invoke-terraformdestroy
-pscommand_invoke-terraformformat
-pscommand_invoke-terraforminit
-pscommand_invoke-terraformoutput
-pscommand_invoke-terraformplan
-pscommand_invoke-terraformvalidate
 pscommand_invoke-terragrunt
 pscommand_invoke-terragruntapply
 pscommand_invoke-terragruntapplyall
@@ -6754,7 +6869,6 @@ pscommand_keno
 pscommand_kens
 pscommand_kep
 pscommand_kepvc
-pscommand_kerndeb
 pscommand_kers
 pscommand_kes
 pscommand_kess
@@ -6940,6 +7054,7 @@ pscommand_pvenv
 pscommand_pwh
 pscommand_pwshrc-show-proxy
 pscommand_py
+pscommand_pyenv
 pscommand_pylint-quick
 pscommand_pyserver
 pscommand_python
@@ -6948,6 +7063,8 @@ pscommand_rb
 pscommand_read-dotenv
 pscommand_register-argcompleteargumentcompleter
 pscommand_remove_gem
+pscommand_remove-dockercontainerall
+pscommand_remove-dockerunusedimage
 pscommand_remove-envpathitem
 pscommand_remove-envvar
 pscommand_remove-envvarpathitem
@@ -7038,15 +7155,6 @@ pscommand_test-o
 pscommand_test-reparsepoint
 pscommand_test-sessioninteractivity
 pscommand_test-x
-pscommand_tf
-pscommand_tfa
-pscommand_tfc
-pscommand_tfd
-pscommand_tff
-pscommand_tfi
-pscommand_tfo
-pscommand_tfp
-pscommand_tfv
 pscommand_tg
 pscommand_tga
 pscommand_tgaa
@@ -7254,6 +7362,7 @@ psedition-desktop
 psediton_desktop
 psengine
 psenv
+pses
 psexcel
 psexec
 psexec.exe
@@ -7265,7 +7374,6 @@ psfive9
 psfive9admin
 psfoldersize
 psfunction__python3
-psfunction_aar
 psfunction_add_ssh
 psfunction_add-envpathitem
 psfunction_add-envvarpathitem
@@ -7279,8 +7387,6 @@ psfunction_add-gittrackedfiles
 psfunction_add-gittrackedfilesall
 psfunction_add-gittrackedfilesinteractively
 psfunction_add-gittrackedfilesverbosely
-psfunction_apt-history
-psfunction_apt-list-packages
 psfunction_arch
 psfunction_basename
 psfunction_bgblack
@@ -7312,7 +7418,71 @@ psfunction_decode64
 psfunction_decodefile64
 psfunction_dirname
 psfunction_disable-proxy
+psfunction_docker-archive-content
+psfunction_docker-build
 psfunction_docker-compose-fresh
+psfunction_docker-container-execute
+psfunction_docker-container-execute-interactively
+psfunction_docker-container-inspect
+psfunction_docker-container-list
+psfunction_docker-container-list-all
+psfunction_docker-container-logs
+psfunction_docker-container-port-open
+psfunction_docker-container-remove
+psfunction_docker-container-remove-forcefully
+psfunction_docker-container-restart
+psfunction_docker-container-run
+psfunction_docker-container-run-interactively
+psfunction_docker-container-start
+psfunction_docker-container-stop
+psfunction_docker-container-stop-all
+psfunction_docker-enter
+psfunction_docker-enter-latest-container
+psfunction_docker-execute-in-container
+psfunction_docker-image-build
+psfunction_docker-image-inspect
+psfunction_docker-image-list
+psfunction_docker-image-prune-all-forcefully
+psfunction_docker-image-push
+psfunction_docker-image-remove
+psfunction_docker-image-tag
+psfunction_docker-network-connect
+psfunction_docker-network-create
+psfunction_docker-network-disconnect
+psfunction_docker-network-inspect
+psfunction_docker-network-list
+psfunction_docker-network-remove
+psfunction_docker-pull
+psfunction_docker-remove-images
+psfunction_docker-remove-latest-container
+psfunction_docker-remove-most-recent-container
+psfunction_docker-remove-most-recent-image
+psfunction_docker-remove-stale-assets
+psfunction_docker-run-in-container-transient
+psfunction_docker-run-in-container-transient-interactively
+psfunction_docker-run-in-container-transient-interactively-with-mounted-cwd
+psfunction_docker-run-in-container-transient-with-mounted-cwd
+psfunction_docker-runtime-environment
+psfunction_docker-system-prune-all-forcefully
+psfunction_docker-top
+psfunction_docker-volume-inspect
+psfunction_docker-volume-list
+psfunction_docker-volume-prune
+psfunction_docker-volume-prune-forcefully
+psfunction_dotnet-add
+psfunction_dotnet-build
+psfunction_dotnet-new
+psfunction_dotnet-nuget
+psfunction_dotnet-pack
+psfunction_dotnet-run
+psfunction_dotnet-sln
+psfunction_dotnet-test
+psfunction_dotnet-tool-list-global
+psfunction_dotnet-tool-list-local
+psfunction_dotnet-tool-update-all-global
+psfunction_dotnet-watch
+psfunction_dotnet-watch-run
+psfunction_dotnet-watch-test
 psfunction_enable-proxy
 psfunction_encode64
 psfunction_encodefile64
@@ -7376,11 +7546,8 @@ psfunction_forgit-reset-head
 psfunction_forgit-revert-commit
 psfunction_forgit-stash-push
 psfunction_forgit-stash-show
-psfunction_format-batcatstyle
-psfunction_format-lesstermcapenv
 psfunction_format-viewerinvocationsh
 psfunction_gdv
-psfunction_get-aptinstalledpackages
 psfunction_get-childitemcolorfully
 psfunction_get-childitemcolorfullycramped
 psfunction_get-childitemcolorfullyrevealingly
@@ -7390,6 +7557,12 @@ psfunction_get-childitemcolorfullyrevealinglyrecursivelywithrecency
 psfunction_get-childitemcolorfullyrevealinglywithrecency
 psfunction_get-childitemcolorfullywithrecency
 psfunction_get-childitemnamesonly
+psfunction_get-dockercontainerall
+psfunction_get-dockercontainerlatest
+psfunction_get-dockercontainerlatestipaddress
+psfunction_get-dockercontainerlatestquiet
+psfunction_get-dockercontainerrunning
+psfunction_get-dockerimage
 psfunction_get-envpathitem
 psfunction_get-envvar
 psfunction_get-envvarpathitem
@@ -7439,7 +7612,6 @@ psfunction_get-netipaddresspublic
 psfunction_get-netipaddresssimple
 psfunction_get-pwshaliasdefinition
 psfunction_get-pwshfunctiondefinition
-psfunction_get-viewer
 psfunction_git_blame_line
 psfunction_git_checkout_child
 psfunction_git_checkout_parent
@@ -7474,14 +7646,12 @@ psfunction_gitignore-reload
 psfunction_gittowork
 psfunction_gplfs
 psfunction_hostname
-psfunction_invoke-aptcachepolicy
-psfunction_invoke-aptcachesearch
-psfunction_invoke-aptcacheshowpkg
-psfunction_invoke-aptfilesearchbyregex
-psfunction_invoke-aptgetsource
-psfunction_invoke-aptlistinstalled
-psfunction_invoke-aptlistupgradable
-psfunction_invoke-aptpreferred
+psfunction_invoke-curlfollowingredirects
+psfunction_invoke-curlfollowingredirectsdownloadasnamed
+psfunction_invoke-curlfollowingredirectsdownloadasnamedcontinue
+psfunction_invoke-curlfollowingredirectsdownloadasnamedcontinueandretry
+psfunction_invoke-curlfollowingredirectsfetchbanner
+psfunction_invoke-curlonlyforgetresponseheaders
 psfunction_invoke-dnfcleanall
 psfunction_invoke-dnfgrouplist
 psfunction_invoke-dnfgrouppinstall
@@ -7772,6 +7942,7 @@ psfunction_invoke-pipinstall
 psfunction_invoke-pipinstallupgrade
 psfunction_invoke-piplistoutdated
 psfunction_invoke-pipuninstall
+psfunction_invoke-pyenv
 psfunction_invoke-pylintreportsdisabled
 psfunction_invoke-ruby
 psfunction_invoke-rubyexecute
@@ -7884,15 +8055,6 @@ psfunction_invoke-systemctluser-try-reload-or-restart
 psfunction_invoke-systemctluser-try-restart
 psfunction_invoke-systemctluser-unmask
 psfunction_invoke-systemctluser-unset-environment
-psfunction_invoke-terraform
-psfunction_invoke-terraformapply
-psfunction_invoke-terraformconsole
-psfunction_invoke-terraformdestroy
-psfunction_invoke-terraformformat
-psfunction_invoke-terraforminit
-psfunction_invoke-terraformoutput
-psfunction_invoke-terraformplan
-psfunction_invoke-terraformvalidate
 psfunction_invoke-terragrunt
 psfunction_invoke-terragruntapply
 psfunction_invoke-terragruntapplyall
@@ -8010,7 +8172,6 @@ psfunction_invoke-zypperversioncompare
 psfunction_invoke-zypperwhatprovides
 psfunction_invokeyumgrouplist
 psfunction_jump
-psfunction_kerndeb
 psfunction_kres
 psfunction_local-ignore
 psfunction_measure-envvarchanges
@@ -8073,6 +8234,8 @@ psfunction_pwshrc-show-proxy
 psfunction_pyserver
 psfunction_read-dotenv
 psfunction_register-argcompleteargumentcompleter
+psfunction_remove-dockercontainerall
+psfunction_remove-dockerunusedimage
 psfunction_remove-envpathitem
 psfunction_remove-envvar
 psfunction_remove-envvarpathitem
@@ -8348,7 +8511,7 @@ pwshake
 pwshfw
 pwshrc
 pxedistributionpoint
-pygmentize
+pyenv
 pykick
 pylint
 pyranja
@@ -8373,7 +8536,6 @@ qlogicfcpowerkit
 qlogicfcprovider
 qna
 qol
-qq
 qr
 qr-code
 qrcode
@@ -8388,7 +8550,6 @@ quarantine
 queries
 query
 queryexcel
-querystring
 question
 queue
 queues
@@ -8602,6 +8763,7 @@ remove-path
 remove-pinneditem
 remove-tempfiles
 removefile
+removetypeaccelerators
 remux
 ren-isac
 rename
@@ -8796,7 +8958,6 @@ runtimedefinedparameterdictionary
 runway
 russia
 rust
-rust-lang
 ryanairps
 ryver
 s.ds.p
@@ -8854,13 +9015,11 @@ scaffold
 scaffolding
 scaffoldingtemplate
 scala
-scalable
 scalablevectorgraphics
 scale
 scan
 scanner
 scanning
-scap
 scatter
 scb
 scc
@@ -8900,6 +9059,9 @@ sconfig
 scoop
 scope
 score
+scouterna
+scouternasetjanster
+scoutnet
 scp
 scrap
 scrape
@@ -8948,6 +9110,7 @@ sdp
 search
 search-adminauditlog
 search-engines
+searchconnector
 searchengine
 searcher
 searching
@@ -9008,6 +9171,8 @@ seekatar
 seeshell
 select
 select-item
+select-kubecontext
+select-kubenamespace
 select-string
 selection
 selectxmlinfo
@@ -9029,6 +9194,7 @@ send
 send-logtologanalytics
 send-mailmessage
 send-message
+senderid
 sendgrid
 sendkeys
 sendmail
@@ -9081,6 +9247,7 @@ serviceplan
 servicepointmanager
 serviceprincipal
 services
+servicestatus
 servicestore
 servicing
 servicingstack
@@ -9089,7 +9256,6 @@ session
 sessionize
 sessions
 set
-set_bios
 set-alias
 set-dnsservers
 set-githubsecrets
@@ -9102,7 +9268,6 @@ set-psbreakpoint
 set-psenv
 set-randompass
 set-type
-setbios
 sets
 setting
 settings
@@ -9218,6 +9383,7 @@ sitethumbprint
 sixel
 size
 skatterbrainz
+skeet
 skeleton-loader
 skia
 skiasharp
@@ -9319,6 +9485,7 @@ solr
 soltra
 solution
 solutions
+sonarcloud
 sonarqube
 sonarr
 sonatype
@@ -9381,6 +9548,7 @@ spf
 spfx
 sphere
 spi
+spicetify
 spinnaker
 splash
 splat
@@ -9488,11 +9656,14 @@ staff
 staffhub
 staging
 stale
+stan
+stanc
 standard
 standarderror
 standardoutput
 standards
 standbypool
+stansummary
 start
 start-job
 start-jobthread
@@ -9500,6 +9671,7 @@ start-threadjob
 startkey
 startmen
 startmenu
+starttls
 starwars
 stash
 stat
@@ -9508,13 +9680,13 @@ stateless
 static
 staticanalysis
 statichtmlsites
-staticsite
 statistical
 statistics
 stats
 statsd
 status
 status_watcher
+statuscake
 statuscode
 statusmonitor
 statusreportingcomponent
@@ -9535,6 +9707,8 @@ stingar
 stock
 stockcharts
 stocks
+stoicism
+stoics
 stop
 storablecolortheme
 storage
@@ -9613,7 +9787,6 @@ summit
 sumologic
 supercell
 superheros
-supermarket
 support
 support-tool
 support-tools
@@ -9670,6 +9843,7 @@ sysinfocmdlets
 sysinternals
 syskit
 syslog
+sysman
 sysmon
 sysop
 syspass
@@ -9830,6 +10004,7 @@ test-xml
 test123
 testaccount
 testautomation
+tester
 testimonial
 testing
 testlab
@@ -9845,7 +10020,6 @@ text
 text-emoji
 text-emojis
 text-templates
-text-to-image
 text-to-speach"
 text-to-speech
 text2image
@@ -9864,6 +10038,7 @@ tfs
 tfscmdlets
 tfsec
 tfswitch
+tftd
 tftp
 tfvars
 tfvc
@@ -9876,6 +10051,7 @@ thinprint
 third-party-libraries
 third-party-notice
 thispc
+thoughtfortheday
 thousandeyes
 thread
 threading
@@ -9887,7 +10063,6 @@ threat-hunting
 threatdefense
 threathunting
 threatintelligence
-thumbprint
 thunderbird
 thycotic
 tibber
@@ -9916,7 +10091,9 @@ tld
 tls
 tls11
 tls12
+tlsa
 tlsprotocol
+tlsrpt
 tmux
 to-do
 toast
@@ -9939,6 +10116,7 @@ toolkit
 tools
 tools4ever
 topdesk
+topgrade
 topics
 topleveldomain
 topology
@@ -10037,6 +10215,7 @@ tsqlbestpractice
 tst
 tst1
 tst3
+tsv
 ttrpg
 tts
 tubedownloader
@@ -10065,6 +10244,7 @@ twitter-timeline
 twitter-tweet
 txt
 type
+typeaccelerators
 typedata
 typeextension
 types
@@ -10089,6 +10269,7 @@ ud-button
 ud-buttonloader
 ud-buttonparticle
 ud-calendar
+ud-circle
 ud-component
 ud-confetti
 ud-control
@@ -10106,6 +10287,7 @@ ud-minesweeper
 ud-mouseparticle
 ud-navbarsearch
 ud-numbermask
+ud-orgchart
 ud-piechart3d
 ud-pivottable
 ud-progressstepbar
@@ -10142,7 +10324,6 @@ udword
 uefi
 uem
 ui
-ui/ux
 ui7
 uk
 ul
@@ -10315,6 +10496,7 @@ vcm
 vco
 vcs
 vcsa
+vcvars
 vdi
 vdp
 vdportgroup
@@ -10326,12 +10508,14 @@ veeam
 veeampn
 veeva
 venafi
+vencord
 vendor
 venue
 venvlink
 vera
 veracrypt
 verbose psmodule
+verification
 verify
 version
 versioning
@@ -10441,7 +10625,6 @@ vpn-certificate
 vpro
 vps
 vra
-vrchat
 vrealize
 vrising
 vro
@@ -10468,6 +10651,7 @@ vssetup
 vsshell
 vst
 vsteambuilder
+vsteams
 vstest
 vsts
 vsts-cli
@@ -10576,6 +10760,7 @@ wget
 what3words
 whatismyip
 whatsnew
+whatsupgold
 whd
 where
 whfb
@@ -10733,6 +10918,7 @@ wiscmail
 wisco365
 wisconsin-madison
 wisconsin'uw-madison
+wisdom
 with
 wiz
 wizard
@@ -10744,6 +10930,8 @@ wmi
 wmifilter
 wmipermanentevents
 wol
+wolfram
+wolframalpha
 woocommerce
 woolworths
 woolworthsrewards
@@ -10779,7 +10967,6 @@ world
 worldcup
 worryfreebusinesssecurity
 wow
-wpad
 wpf
 wql
 wrap
@@ -10816,12 +11003,12 @@ wsman
 wsmanlistener
 wso2
 wsus
-wt
 wtsapi32
 wttr
 wttr.in
 wtx
 wu
+wug
 wunderlist
 wus
 wvd
