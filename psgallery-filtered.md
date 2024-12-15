@@ -3,13 +3,37 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [OZOLogger](https://www.powershellgallery.com/Packages/OZOLogger/1.0.2) | 1.0.2
+
+### Published: 12/15/2024 17:39:12 by Andy Lievertz <alievertz@onezeroone.dev>
+
+Provides a simple way to log to the Windows Event Log from PowerShell scripts.
+
+__Downloads__: 4 | __Repository__: https://github.com/onezeroone-dev/OZOLogger-PowerShell-Module
+
+## [OHA](https://www.powershellgallery.com/Packages/OHA/1.1.0) | 1.1.0
+
+### Published: 12/15/2024 17:02:07 by Dieter Koch
+
+A PowerShell module to retrieve public holiday and school holiday data from the API openholidaysapi.org.
+
+__Downloads__: 35 | __Repository__: https://github.com/admins-little-helper/OHA
+
+## [Entrinsec.Powershell.SETUP](https://www.powershellgallery.com/Packages/Entrinsec.Powershell.SETUP/1.11.9) | 1.11.9
+
+### Published: 12/15/2024 13:07:33 by entrinsec
+
+Public functions
+
+__Downloads__: 931 | __Repository__: https://nuget.entrinsec.com/
+
 ## [CosmosDB](https://www.powershellgallery.com/Packages/CosmosDB/5.1.0) | 5.1.0
 
 ### Published: 12/15/2024 08:38:33 by Daniel Scott-Raynsford
 
 This module provides cmdlets for working with Azure Cosmos DB databases, collections, documents, attachments, offers, users, permissions, triggers, stored procedures and user defined functions.
 
-__Downloads__: 2,663,664 | __Repository__: https://github.com/PlagueHO/CosmosDB
+__Downloads__: 2,663,885 | __Repository__: https://github.com/PlagueHO/CosmosDB
 
 ## [GitHub](https://www.powershellgallery.com/Packages/GitHub/0.11.11) | 0.11.11
 
@@ -17,7 +41,7 @@ __Downloads__: 2,663,664 | __Repository__: https://github.com/PlagueHO/CosmosDB
 
 A PowerShell module to interact with GitHub, both interactively and via automation.
 
-__Downloads__: 45,175 | __Repository__: https://github.com/PSModule/GitHub
+__Downloads__: 45,487 | __Repository__: https://github.com/PSModule/GitHub
 
 ## [UCM](https://www.powershellgallery.com/Packages/UCM/0.1.8) | 0.1.8
 
@@ -25,7 +49,7 @@ __Downloads__: 45,175 | __Repository__: https://github.com/PSModule/GitHub
 
 This PowerShell module contains cmdlets to interface with Grandstream UCM PABX devices' APIs.
 
-__Downloads__: 0 | __Repository__: https://github.com/celloza/ucm-psmodule
+__Downloads__: 17 | __Repository__: https://github.com/celloza/ucm-psmodule
 
 ## [PSOAuthExplorer](https://www.powershellgallery.com/Packages/PSOAuthExplorer/0.1.0) | 0.1.0
 
@@ -41,7 +65,7 @@ __Downloads__: 0 | __Repository__: https://github.com/vhosted-xyz/PSOAuthExplore
 
 A module to convert stuff.
 
-__Downloads__: 207 | __Repository__: https://github.com/alainQtec/cliHelper.xconvert
+__Downloads__: 213 | __Repository__: https://github.com/alainQtec/cliHelper.xconvert
 
 ## [KMaks.PanGPA](https://www.powershellgallery.com/Packages/KMaks.PanGPA/1.0.0) | 1.0.0
 
@@ -49,7 +73,7 @@ __Downloads__: 207 | __Repository__: https://github.com/alainQtec/cliHelper.xcon
 
 A set of functions to control Palo Alto Networks Global Protect Agent (PanGPA). Currently allows to manage default certificate used and default route.
 
-__Downloads__: 1 | __Repository__: 
+__Downloads__: 0 | __Repository__: 
 
 ## [gitlab4](https://www.powershellgallery.com/Packages/gitlab4/1.12.0) | 1.12.0
 
@@ -57,15 +81,7 @@ __Downloads__: 1 | __Repository__:
 
 Gitlab API v4 helper functions
 
-__Downloads__: 472,249 | __Repository__: https://gitlab.com/mteodor/gitlab4
-
-## [OZOLogger](https://www.powershellgallery.com/Packages/OZOLogger/0.0.1) | 0.0.1
-
-### Published: 12/14/2024 06:28:56 by Andy Lievertz <alievertz@onezeroone.dev>
-
-Provides a simple way to log to the Windows Event Log from PowerShell scripts.
-
-__Downloads__: 4 | __Repository__: https://github.com/onezeroone-dev/OZOLogger-PowerShell-Module
+__Downloads__: 472,752 | __Repository__: https://gitlab.com/mteodor/gitlab4
 
 ## [netbox-rest-module](https://www.powershellgallery.com/Packages/netbox-rest-module/0.0.7) | 0.0.7
 
@@ -81,7 +97,7 @@ __Downloads__: 108 | __Repository__: https://github.com/aaroneg/netbox-rest-modu
 
 PowerShell Module for Rubrik Security Cloud. GraphQL schema version: v20241209-45 .
 
-__Downloads__: 22,336 | __Repository__: https://github.com/rubrikinc/rubrik-powershell-sdk
+__Downloads__: 22,355 | __Repository__: https://github.com/rubrikinc/rubrik-powershell-sdk
 
 ## [Graph](https://www.powershellgallery.com/Packages/Graph/1.0.3) | 1.0.3
 
@@ -89,7 +105,7 @@ __Downloads__: 22,336 | __Repository__: https://github.com/rubrikinc/rubrik-powe
 
 Custom Module to manage the Graph REST API using any Endpoint URI
 
-__Downloads__: 46,995 | __Repository__: 
+__Downloads__: 47,005 | __Repository__: 
 
 ## [cliHelper.core](https://www.powershellgallery.com/Packages/cliHelper.core/0.1.6) | 0.1.6
 
@@ -121,7 +137,7 @@ __Downloads__: 10 | __Repository__: https://github.com/rodcordeiro/psmoneto
 
 Module SMART-BcBuildHelper
 
-__Downloads__: 27,637 | __Repository__: 
+__Downloads__: 27,640 | __Repository__: 
 
 ## [Nectar10](https://www.powershellgallery.com/Packages/Nectar10/3.99) | 3.99
 
@@ -137,7 +153,7 @@ __Downloads__: 1,851 | __Repository__:
 
 A PowerShell module for managing Nerdio Manager for Enterprise (NME)
 
-__Downloads__: 1,244 | __Repository__: 
+__Downloads__: 1,246 | __Repository__: 
 
 ## [WindmillClient](https://www.powershellgallery.com/Packages/WindmillClient/1.438.0) | 1.438.0
 
@@ -153,7 +169,7 @@ __Downloads__: 1,592 | __Repository__: https://github.com/windmill-labs/windmill
 
 Scripting Tools for Windows PowerShell : Smart Array cmdlets create an interface to HPE Smart Array controller. These cmdlets can be used to configure the Smart Array controller on only HPE ProLiant Gen10 , Gen 10 Plus, Gen 11 and Gen 12 servers.
 
-__Downloads__: 96,932 | __Repository__: https://www.hpe.com/servers/powershell
+__Downloads__: 96,936 | __Repository__: https://www.hpe.com/servers/powershell
 
 ## [HPEBIOSCmdlets](https://www.powershellgallery.com/Packages/HPEBIOSCmdlets/4.1.0.0) | 4.1.0.0
 
@@ -161,7 +177,7 @@ __Downloads__: 96,932 | __Repository__: https://www.hpe.com/servers/powershell
 
 Scripting Tools for Windows PowerShell : BIOS Cmdlets creates an interface to HPE BIOS ROM-Based Setup Utility (RBSU) or UEFI System Utilities. These cmdlets can be used to configure the BIOS settings on HPE ProLiant servers.
 
-__Downloads__: 95,838 | __Repository__: https://www.hpe.com/servers/powershell
+__Downloads__: 95,842 | __Repository__: https://www.hpe.com/servers/powershell
 
 ## [PureStorage.CBS.AVS](https://www.powershellgallery.com/Packages/PureStorage.CBS.AVS/1.1.387) | 1.1.387
 
@@ -177,7 +193,7 @@ __Downloads__: 1,524 | __Repository__: https://support.purestorage.com/Pure_Clou
 
 LS Migration Tool for Dynamics 365 Business Central
 
-__Downloads__: 1,844 | __Repository__: 
+__Downloads__: 1,845 | __Repository__: 
 
 ## [AMSoftware.Dataverse.PowerShell](https://www.powershellgallery.com/Packages/AMSoftware.Dataverse.PowerShell/0.6.0) | 0.6.0
 
@@ -193,7 +209,7 @@ __Downloads__: 21 | __Repository__: https://github.com/AMSoftwareNL/DataversePow
 
 Powershell module for serializing and deserializing YAML
 
-__Downloads__: 100,177,399 | __Repository__: https://github.com/cloudbase/powershell-yaml
+__Downloads__: 100,173,738 | __Repository__: https://github.com/cloudbase/powershell-yaml
 
 ## [VenafiPS](https://www.powershellgallery.com/Packages/VenafiPS/6.7.1) | 6.7.1
 
@@ -201,7 +217,7 @@ __Downloads__: 100,177,399 | __Repository__: https://github.com/cloudbase/powers
 
 Automate your Venafi TLS Protect Datacenter and Cloud platforms!
 
-__Downloads__: 27,455 | __Repository__: https://github.com/Venafi/VenafiPS
+__Downloads__: 27,459 | __Repository__: https://github.com/Venafi/VenafiPS
 
 ## [SandBoxIpHelper.IPAddressHelper](https://www.powershellgallery.com/Packages/SandBoxIpHelper.IPAddressHelper/1.0.3) | 1.0.3
 
@@ -264,7 +280,7 @@ Harden Windows Safely, Securely, only with Official Microsoft methods - 🦄 Int
 
 🟡 The module generates a nice output on the screen as well as giving users an option to export the results in a CSV file.
 
-__Downloads__: 82,217 | __Repository__: https://github.com/HotCakeX/Harden-Windows-Security
+__Downloads__: 81,977 | __Repository__: https://github.com/HotCakeX/Harden-Windows-Security
 
 ## [JyskIT.Automation](https://www.powershellgallery.com/Packages/JyskIT.Automation/2.1.1) | 2.1.1
 
@@ -292,7 +308,7 @@ AADInternals allows you to export ADFS certificates, Azure AD Connect passwords,
 
 DISCLAIMER: Functionality provided through this module are not supported by Microsoft and thus should not be used in a production environment. Use on your own risk!
 
-__Downloads__: 240,397 | __Repository__: https://aadinternals.com/aadinternals
+__Downloads__: 240,214 | __Repository__: https://aadinternals.com/aadinternals
 
 ## [ForestManagement](https://www.powershellgallery.com/Packages/ForestManagement/1.5.78) | 1.5.78
 
@@ -316,7 +332,7 @@ __Downloads__: 2,150 | __Repository__: https://admf.one/
 
 Integrated CI/CD Solution for Microsoft Azure.
 
-__Downloads__: 2,493,094 | __Repository__: https://github.com/Azure/AzOps
+__Downloads__: 2,493,544 | __Repository__: https://github.com/Azure/AzOps
 
 ## [PowerAdobe](https://www.powershellgallery.com/Packages/PowerAdobe/1.0.5) | 1.0.5
 
@@ -324,7 +340,7 @@ __Downloads__: 2,493,094 | __Repository__: https://github.com/Azure/AzOps
 
 PowerAdobe is an unofficial PowerShell module for Adobe API.
 
-__Downloads__: 129 | __Repository__: https://github.com/EvotecIT/PowerAdobe
+__Downloads__: 133 | __Repository__: https://github.com/EvotecIT/PowerAdobe
 
 ## [fastDFIR](https://www.powershellgallery.com/Packages/fastDFIR/1.2.3) | 1.2.3
 
@@ -345,7 +361,7 @@ A completion manager for better and simpler use PowerShell completions.
   - Github:  https://github.com/abgox/PSCompletions
   - Gitee:   https://gitee.com/abgox/PSCompletions
 
-__Downloads__: 23,264 | __Repository__: https://github.com/abgox/PSCompletions
+__Downloads__: 23,397 | __Repository__: https://github.com/abgox/PSCompletions
 
 ## [M365DSC.CompositeResources](https://www.powershellgallery.com/Packages/M365DSC.CompositeResources/1.24.1211.100) | 1.24.1211.100
 
@@ -353,7 +369,7 @@ __Downloads__: 23,264 | __Repository__: https://github.com/abgox/PSCompletions
 
 DSC composite resource for configuring Microsoft 365
 
-__Downloads__: 5,914 | __Repository__: https://github.com/ykuijs/M365DSC.CompositeResources
+__Downloads__: 5,916 | __Repository__: https://github.com/ykuijs/M365DSC.CompositeResources
 
 ## [Evergreen](https://www.powershellgallery.com/Packages/Evergreen/2412.1727) | 2412.1727
 
@@ -361,7 +377,7 @@ __Downloads__: 5,914 | __Repository__: https://github.com/ykuijs/M365DSC.Composi
 
 Create evergreen Windows image builds with the latest versions of applications. Evergreen is a simple PowerShell module that retrieves the latest version numbers and download URLs for various software products directly from the vendor source.
 
-__Downloads__: 6,741,895 | __Repository__: https://stealthpuppy.com/evergreen/
+__Downloads__: 6,741,043 | __Repository__: https://stealthpuppy.com/evergreen/
 
 ## [SimplySql](https://www.powershellgallery.com/Packages/SimplySql/2.1.0.96) | 2.1.0.96
 
@@ -377,7 +393,7 @@ Get/Clear -SqlMessage >> Get Informational messages, if provider supports it.
 Invoke-SqlBulkCopy >> Bulk Dataload from one connection to another.
 Start/Complete/Undo -SqlTransaction >> Utilize transactions!
 
-__Downloads__: 1,544,747 | __Repository__: https://github.com/mithrandyr/SimplySql
+__Downloads__: 1,545,461 | __Repository__: https://github.com/mithrandyr/SimplySql
 
 ## [EasyPIM](https://www.powershellgallery.com/Packages/EasyPIM/1.7.3) | 1.7.3
 
@@ -385,7 +401,7 @@ __Downloads__: 1,544,747 | __Repository__: https://github.com/mithrandyr/SimplyS
 
 Manage PIM Azure Resource, PIM Entra role and PIM for Group settings and assignments with simplicity in mind
 
-__Downloads__: 14,370 | __Repository__: https://github.com/kayasax/EasyPIM/
+__Downloads__: 14,348 | __Repository__: https://github.com/kayasax/EasyPIM/
 
 ## [Logic.Monitor](https://www.powershellgallery.com/Packages/Logic.Monitor/6.5) | 6.5
 
@@ -393,7 +409,7 @@ __Downloads__: 14,370 | __Repository__: https://github.com/kayasax/EasyPIM/
 
 PowerShell module to query the Logic Monitor API. This PowerShell module is developed as an open-source project and is not officially supported by LogicMonitor. It is maintained by a community of users who are passionate about enhancing its capabilities and functionality. While LogicMonitor recognizes the effort and ingenuity behind this module, please note that it is provided "as is" without any official support or warranty from LogicMonitor.
 
-__Downloads__: 153,060 | __Repository__: https://github.com/logicmonitor/lm-powershell-module
+__Downloads__: 153,085 | __Repository__: https://github.com/logicmonitor/lm-powershell-module
 
 ## [PSCommonCore](https://www.powershellgallery.com/Packages/PSCommonCore/1.2.1212.1100) | 1.2.1212.1100
 
@@ -409,7 +425,7 @@ __Downloads__: 1,223 | __Repository__:
 
 A lightweight PowerShell module to handle Azure authentication, using the Azure.Identity MSAL library.
 
-__Downloads__: 19,079 | __Repository__: https://github.com/PalmEmanuel/AzAuth
+__Downloads__: 19,086 | __Repository__: https://github.com/PalmEmanuel/AzAuth
 
 ## [PSSailpoint](https://www.powershellgallery.com/Packages/PSSailpoint/1.4.7) | 1.4.7
 
@@ -417,7 +433,7 @@ __Downloads__: 19,079 | __Repository__: https://github.com/PalmEmanuel/AzAuth
 
 PSSailpoint - the PowerShell module for IdentityNow
 
-__Downloads__: 9,368 | __Repository__: 
+__Downloads__: 9,364 | __Repository__: 
 
 ## [PSSailpoint.V2024](https://www.powershellgallery.com/Packages/PSSailpoint.V2024/1.4.7) | 1.4.7
 
@@ -425,7 +441,7 @@ __Downloads__: 9,368 | __Repository__:
 
 PSSailpoint.V2024 - the PowerShell module for Identity Security Cloud V2024 API
 
-__Downloads__: 1,524 | __Repository__: 
+__Downloads__: 1,529 | __Repository__: 
 
 ## [PSSailpoint.V3](https://www.powershellgallery.com/Packages/PSSailpoint.V3/1.4.7) | 1.4.7
 
@@ -433,7 +449,15 @@ __Downloads__: 1,524 | __Repository__:
 
 PSSailpoint.V3 - the PowerShell module for Identity Security Cloud V3 API
 
-__Downloads__: 1,523 | __Repository__: 
+__Downloads__: 1,528 | __Repository__: 
+
+## [PSSailpoint.Beta](https://www.powershellgallery.com/Packages/PSSailpoint.Beta/1.4.7) | 1.4.7
+
+### Published: 12/12/2024 18:26:12 by OpenAPI Generator Team
+
+PSSailpoint.Beta - the PowerShell module for Identity Security Cloud Beta API
+
+__Downloads__: 1,556 | __Repository__: 
 
 ## [CDFModule](https://www.powershellgallery.com/Packages/CDFModule/1.1.0) | 1.1.0
 
@@ -457,7 +481,7 @@ __Downloads__: 3 | __Repository__: https://github.com/FriedrichWeinmann/sp_permi
 
 PowerShell module to wrap openweathermap's One Call API 3.0 (https://openweathermap.org/api)
 
-__Downloads__: 11,017 | __Repository__: https://github.com/jhoek/UncommonSense.Weather
+__Downloads__: 11,031 | __Repository__: https://github.com/jhoek/UncommonSense.Weather
 
 ## [PSAYX](https://www.powershellgallery.com/Packages/PSAYX/1.1.2) | 1.1.2
 
@@ -577,7 +601,7 @@ __Downloads__: 3,035 | __Repository__:
 
 A PowerShell module to generate an Veeam Backup & Replication infrastructure diagram
 
-__Downloads__: 25,937 | __Repository__: https://github.com/rebelinux/Veeam.Diagrammer
+__Downloads__: 25,934 | __Repository__: https://github.com/rebelinux/Veeam.Diagrammer
 
 ## [Devolutions.PowerShell](https://www.powershellgallery.com/Packages/Devolutions.PowerShell/2024.3.7) | 2024.3.7
 
@@ -585,7 +609,7 @@ __Downloads__: 25,937 | __Repository__: https://github.com/rebelinux/Veeam.Diagr
 
 The Devolutions.PowerShell module is a set of cmdlets that allow administrators to manage Remote Desktop Manager, Devolutions Server and Devolutions Hub Business using PowerShell. This module provides a simple and consistent interface for interacting with these products, making it easy to automate various tasks, such as creating and managing connections, sessions, and credentials, configuring security settings, and generating reports. The module can be easily integrated with other PowerShell modules, allowing administrators to automate tasks across multiple products and platforms, streamline their workflows and increase efficiency.
 
-__Downloads__: 231,403 | __Repository__: https://devolutions.net/
+__Downloads__: 231,379 | __Repository__: https://devolutions.net/
 
 ## [GitlabCli](https://www.powershellgallery.com/Packages/GitlabCli/1.121.0) | 1.121.0
 
@@ -593,7 +617,7 @@ __Downloads__: 231,403 | __Repository__: https://devolutions.net/
 
 Interact with GitLab via PowerShell
 
-__Downloads__: 22,968 | __Repository__: https://github.com/chris-peterson/pwsh-gitlab
+__Downloads__: 22,970 | __Repository__: https://github.com/chris-peterson/pwsh-gitlab
 
 ## [PersistenceSniper](https://www.powershellgallery.com/Packages/PersistenceSniper/1.17.1) | 1.17.1
 
@@ -601,7 +625,7 @@ __Downloads__: 22,968 | __Repository__: https://github.com/chris-peterson/pwsh-g
 
 This module tries to enumerate all the persistence techniques implanted on a compromised machine.
 
-__Downloads__: 46,328 | __Repository__: https://github.com/last-byte/PersistenceSniper
+__Downloads__: 46,374 | __Repository__: https://github.com/last-byte/PersistenceSniper
 
 ## [TMConsole.Client](https://www.powershellgallery.com/Packages/TMConsole.Client/2.5.8) | 2.5.8
 
@@ -641,7 +665,7 @@ __Downloads__: 24 | __Repository__: https://github.com/gerickes/PSGerickeUtil
 
 Film listing for my favorite cinemas
 
-__Downloads__: 2,268 | __Repository__: https://github.com/jhoek/UncommonSense.Cinema
+__Downloads__: 2,269 | __Repository__: https://github.com/jhoek/UncommonSense.Cinema
 
 ## [Trilium](https://www.powershellgallery.com/Packages/Trilium/0.2.0) | 0.2.0
 
@@ -649,7 +673,7 @@ __Downloads__: 2,268 | __Repository__: https://github.com/jhoek/UncommonSense.Ci
 
 Powershell wrapper for the TriliumNext API
 
-__Downloads__: 61 | __Repository__: https://github.com/ptmorris1/TriliumNext-Powershell-Module
+__Downloads__: 66 | __Repository__: https://github.com/ptmorris1/TriliumNext-Powershell-Module
 
 ## [Maester](https://www.powershellgallery.com/Packages/Maester/1.0.0) | 1.0.0
 
@@ -657,7 +681,7 @@ __Downloads__: 61 | __Repository__: https://github.com/ptmorris1/TriliumNext-Pow
 
 Maester is an automation framework to assess and monitor your Microsoft 365 security configuration.
 
-__Downloads__: 107,959 | __Repository__: https://maester.dev/
+__Downloads__: 107,953 | __Repository__: https://maester.dev/
 
 ## [DisplayConfig](https://www.powershellgallery.com/Packages/DisplayConfig/3.2.2) | 3.2.2
 
@@ -665,7 +689,7 @@ __Downloads__: 107,959 | __Repository__: https://maester.dev/
 
 Manage Windows display settings like resolution, DPI scale, HDR and more.
 
-__Downloads__: 26,704 | __Repository__: https://github.com/MartinGC94/DisplayConfig
+__Downloads__: 26,730 | __Repository__: https://github.com/MartinGC94/DisplayConfig
 
 ## [RiverMeadow.Release.Migrate](https://www.powershellgallery.com/Packages/RiverMeadow.Release.Migrate/1.0.123.588) | 1.0.123.588
 
@@ -707,7 +731,7 @@ SUMMARY:
 
     Please note that this module is provided AS-IS, no guarantees or warranties provided. Use at your own risk.
 
-__Downloads__: 1,320 | __Repository__: 
+__Downloads__: 1,327 | __Repository__: 
 
 ## [RiverMeadow.Development.Migrate](https://www.powershellgallery.com/Packages/RiverMeadow.Development.Migrate/1.0.124.586) | 1.0.124.586
 
@@ -731,7 +755,7 @@ __Downloads__: 492 | __Repository__:
 
 A PowerShell module with a collection of functions that should have been in PowerShell to start with.
 
-__Downloads__: 64,340 | __Repository__: https://github.com/PSModule/Utilities
+__Downloads__: 64,667 | __Repository__: https://github.com/PSModule/Utilities
 
 ## [Hardensysvol](https://www.powershellgallery.com/Packages/Hardensysvol/1.7.5) | 1.7.5
 
@@ -739,7 +763,7 @@ __Downloads__: 64,340 | __Repository__: https://github.com/PSModule/Utilities
 
 Harden Sysvol is a Powershell Module to scan sysvol folder to search the sensitivity data, and vulnerability.
 
-__Downloads__: 2,261 | __Repository__: https://github.com/dakhama-mehdi/Harden-Sysvol
+__Downloads__: 2,268 | __Repository__: https://github.com/dakhama-mehdi/Harden-Sysvol
 
 ## [Universal](https://www.powershellgallery.com/Packages/Universal/5.1.0) | 5.1.0
 
@@ -747,7 +771,7 @@ __Downloads__: 2,261 | __Repository__: https://github.com/dakhama-mehdi/Harden-S
 
 Module for PowerShell Universal.
 
-__Downloads__: 180,507 | __Repository__: https://ironmansoftware.com/powershell-universal
+__Downloads__: 180,880 | __Repository__: https://ironmansoftware.com/powershell-universal
 
 ## [OleViewDotNet](https://www.powershellgallery.com/Packages/OleViewDotNet/1.16) | 1.16
 
@@ -755,7 +779,7 @@ __Downloads__: 180,507 | __Repository__: https://ironmansoftware.com/powershell-
 
 PowerShell module for OleViewDotNet
 
-__Downloads__: 5,311 | __Repository__: https://github.com/tyranid/oleviewdotnet
+__Downloads__: 5,316 | __Repository__: https://github.com/tyranid/oleviewdotnet
 
 ## [Carbon.Cryptography](https://www.powershellgallery.com/Packages/Carbon.Cryptography/3.4.3) | 3.4.3
 
@@ -763,7 +787,7 @@ __Downloads__: 5,311 | __Repository__: https://github.com/tyranid/oleviewdotnet
 
 Makes encrypting and decrypting strings and other security work easy.
 
-__Downloads__: 12,974 | __Repository__: https://github.com/webmd-health-services/Carbon.Cryptography
+__Downloads__: 12,975 | __Repository__: https://github.com/webmd-health-services/Carbon.Cryptography
 
 ## [Carbon.Security](https://www.powershellgallery.com/Packages/Carbon.Security/1.0.4) | 1.0.4
 
@@ -1404,7 +1428,7 @@ __Downloads__: 7,748 | __Repository__: https://github.com/oracle/oci-powershell-
 
 This modules provides Cmdlets for OCI Identity Service
 
-__Downloads__: 15,182 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+__Downloads__: 15,184 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
 ## [OCI.PSModules.Healthchecks](https://www.powershellgallery.com/Packages/OCI.PSModules.Healthchecks/97.0.0) | 97.0.0
 
@@ -1708,7 +1732,7 @@ __Downloads__: 8,144 | __Repository__: https://github.com/oracle/oci-powershell-
 
 This modules provides Cmdlets for OCI Core Service
 
-__Downloads__: 18,891 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+__Downloads__: 18,893 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
 ## [OCI.PSModules.Containerinstances](https://www.powershellgallery.com/Packages/OCI.PSModules.Containerinstances/97.0.0) | 97.0.0
 
@@ -1996,7 +2020,7 @@ __Downloads__: 277,319 | __Repository__: https://github.com/oracle/oci-powershel
 
 Powershell module for creating and extracting 7-Zip archives
 
-__Downloads__: 17,934,621 | __Repository__: https://github.com/thoemmi/7Zip4Powershell
+__Downloads__: 17,936,919 | __Repository__: https://github.com/thoemmi/7Zip4Powershell
 
 ## [JBUtils](https://www.powershellgallery.com/Packages/JBUtils/1.0.10) | 1.0.10
 
@@ -2044,7 +2068,7 @@ __Downloads__: 152 | __Repository__:
 
 HP Client Management Script Library
 
-__Downloads__: 37,479,214 | __Repository__: 
+__Downloads__: 37,481,409 | __Repository__: 
 
 ## [GraphLicenseManager](https://www.powershellgallery.com/Packages/GraphLicenseManager/1.1.5) | 1.1.5
 
@@ -2062,7 +2086,7 @@ The AADInternals-Endpoints PowerShell Module contains functionality to modify an
 
 DISCLAIMER: Functionality provided through this module are not supported by Microsoft and thus should not be used in a production environment. Use on your own risk!
 
-__Downloads__: 107 | __Repository__: https://aadinternals.com/aadinternals
+__Downloads__: 106 | __Repository__: https://aadinternals.com/aadinternals
 
 ## [PSDarktraceMail](https://www.powershellgallery.com/Packages/PSDarktraceMail/1.0.0.3) | 1.0.0.3
 
@@ -2072,28 +2096,4 @@ A PowerShell module for interfacing with the Darktrace Mail API
 
 __Downloads__: 37 | __Repository__: https://github.com/brice-automatizit/PSDarktraceMail
 
-## [KubeSnapIt](https://www.powershellgallery.com/Packages/KubeSnapIt/0.0.12) | 0.0.12
-
-### Published: 12/10/2024 15:37:21 by Richard Hooper
-
-A tool to create, manage, and restore snapshots of Kubernetes objects, providing peace of mind during cluster operations.
-
-__Downloads__: 91 | __Repository__: https://github.com/KubeDeckio/KubeSnapIt/
-
-## [KubeDeck](https://www.powershellgallery.com/Packages/KubeDeck/0.0.8) | 0.0.8
-
-### Published: 12/10/2024 15:34:53 by Richard Hooper
-
-KubeDeck is a UI launcher that provides an intuitive graphical interface for starting and managing KubeTidy and KubeSnapIt, making it easier to clean up and organize kubeconfig files and manage Kubernetes snapshots.
-
-__Downloads__: 46 | __Repository__: https://github.com/KubeDeckio/KubeDeck/
-
-## [AppVeyorTestPsGallery](https://www.powershellgallery.com/Packages/AppVeyorTestPsGallery/1.0.633) | 1.0.633
-
-### Published: 12/10/2024 15:22:35 by Feodor Fitsner
-
-The test module to verify publishing to PSGallery from AppVeyor.
-
-__Downloads__: 42,825 | __Repository__: 
-
-*Updated: Sunday, 15 December 2024 09:52:13 UTC*
+*Updated: Sunday, 15 December 2024 17:51:54 UTC*
