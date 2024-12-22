@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Sunday, 22 December 2024 09:52:04 UTC
+Updated: Sunday, 22 December 2024 17:51:57 UTC
 
 .bat
 .env
@@ -29,7 +29,6 @@ Updated: Sunday, 22 December 2024 09:52:04 UTC
 1803
 1809
 1c
-1e
 1password
 1poshword
 200
@@ -130,7 +129,6 @@ activedirectoryauthenticationlibrary
 activedirectorycertificateservices
 activedirectoryfederationservices
 activedirectry-html
-activeefficiency
 activehours
 activenet
 activenetworkstation
@@ -261,11 +259,18 @@ agm
 agnoster
 ahk
 ai
+ai21
+ai21labs
 aianomalydetection
+aiapplications
+aiautomation
 aidocument
+aiintegration
 ailanguage
 aim
+aimodels
 aip
+aiprompting
 aipscanner
 aircall
 airpower
@@ -273,6 +278,7 @@ airpwr
 airtable
 ais
 aispeech
+aiutilities
 aivision
 ajustee
 aka.ms
@@ -288,7 +294,6 @@ albums
 alc
 alero
 alert
-alerting
 alertmail
 alertmanagement
 alerts
@@ -324,6 +329,7 @@ amateurradio
 amazon
 amazonaws
 amazonmgn
+amazontitan
 amazonwebservices
 amend
 ami
@@ -366,6 +372,7 @@ ansible-playbook
 ansible-vault
 ansiblecontrolnode
 ansibletower
+anthropic
 anti-malware
 antimalwarescaninterface
 antispam
@@ -478,6 +485,8 @@ archonagent
 arcresourcebridge
 arcus
 area
+arg
+argcomplete
 argument
 argumentcompleter
 arguments
@@ -496,6 +505,7 @@ artefactual
 artifact
 artifactory
 artifacts
+artificialintelligence
 aruba
 as
 asa
@@ -508,7 +518,6 @@ ascii85
 asciiart
 asdatabase
 asigra
-asjob
 asm
 asn
 asn.1
@@ -654,6 +663,7 @@ aws-codebuild
 aws-lambda
 aws-vault
 aws.tools.powershell
+awsbedrock
 awscli
 awspricelist
 awx
@@ -726,6 +736,7 @@ azurebasicloadbalancerupgrade
 azurecli
 azurecodesigning
 azurecognitiveservices
+azurecommonstuff
 azurecontainerapps
 azurecontainers
 azuredatabricks
@@ -782,7 +793,9 @@ azurevirtualmachines
 azurevm
 azurevpn
 azvm
+b2
 back
+backblaze
 backconnection
 backconnectionhostname
 backend
@@ -841,6 +854,7 @@ beautifier
 beautify
 bec
 beckhoff
+bedrock
 beep
 benchmark
 benchmarking
@@ -867,6 +881,7 @@ billing
 billingbenefits
 bimi
 bin
+bin-obj
 binary
 binaryip
 bind
@@ -902,6 +917,7 @@ blackbox
 blacklist
 blade
 bladeserver
+blaze
 blinking-text
 blob
 blobstorage
@@ -930,6 +946,8 @@ bofh
 boilerplate
 boinc
 bold-text
+bolt
+bom
 book
 bookmark
 bookmarks
@@ -1148,7 +1166,6 @@ chart
 charting
 charts
 chat
-chatbot
 chatgpt
 chatops
 chatroom
@@ -1226,6 +1243,8 @@ classes
 classic
 classification
 classified
+claude
+claude3
 clccontrol
 clccontrolapiv1
 clccontrolapiv2
@@ -1237,8 +1256,6 @@ clear
 clear-history
 clearpass
 cli
-cli-menu
-cli-menu-helpers
 clickonce
 client
 client-management
@@ -1276,10 +1293,10 @@ cloud-backup
 cloud-computing
 cloud-init
 cloud-iq
+cloudai
 cloudant
 cloudbees
 cloudberry
-cloudblue
 cloudbolt
 cloudbridge
 cloudendure
@@ -1295,8 +1312,9 @@ cloudinairy
 cloudinit
 cloudiq
 cloudkey
+cloudmarque
 cloudmigrations
-cloudpc
+cloudml
 cloudservice
 cloudshell
 cloudsync
@@ -1355,6 +1373,7 @@ codex
 coercion
 cognitiveservice
 cognitiveservices
+cohere
 cohesity
 coinmarketcap
 collaboration
@@ -1385,12 +1404,14 @@ comic
 comical
 comics
 command
+command_line
 command-line-interface
 command-validation
 commandcoverage
 commandhistory
 commandlets
 commandline
+commandr
 commands
 commandsandresource
 commence
@@ -1416,6 +1437,7 @@ complete
 completer
 completion
 completion-manager
+completionresult
 completions
 complex
 compliance
@@ -1533,6 +1555,8 @@ conventional-commits
 convereter
 converged_data_management
 conversational
+converse
+converseapi
 conversion
 conversiontool
 convert
@@ -1589,8 +1613,6 @@ counter
 countries
 country
 countrycode
-cove
-covebackup
 cover
 coverage
 coveralls
@@ -1721,6 +1743,7 @@ cve-2021-34527
 cvrf
 cvss
 cwi
+cx
 cyber
 cyberark
 cyberark-api
@@ -1807,6 +1830,7 @@ dataprotection
 dataquality
 datarow
 datasafe
+datascience
 dataset
 datasetdependency
 datashare
@@ -1855,6 +1879,7 @@ ddc/ci
 ddns
 debian
 debug
+debug-files
 debugger
 debugging
 decimal
@@ -1892,7 +1917,6 @@ defenderforendpoint
 defenderforidentity
 defense
 deflate
-defrag
 delegateaccesscontrol
 delegated
 delegation
@@ -1934,6 +1958,7 @@ desktop
 desktops
 desktopvirtualization
 details
+detect
 detection
 detectionrule
 deutschland
@@ -1959,6 +1984,7 @@ devices
 deviceupdate
 devolutions
 devops
+devops psmodule
 devsecninja
 devsecops
 devtestlabs
@@ -2070,6 +2096,7 @@ dlp
 dmarc
 dmgr
 dmi
+dmtf
 dmx
 dnd
 dnf
@@ -2093,6 +2120,7 @@ dnsresolver
 dnssec
 dnsserver
 dnssuffix
+dnvm
 doc
 docfx
 dock
@@ -2213,7 +2241,6 @@ dsregcmd
 dsutils
 dtc
 dts
-dtsx
 dtx
 du
 dual-stack
@@ -2512,6 +2539,7 @@ exchangeonline
 exchangeonlinemanagement
 exchangeonlineprotection
 exchangeonprem
+exchangerate
 exchangeserver
 exchangewebservices
 exclusion
@@ -2556,6 +2584,7 @@ exportcertificates
 exporter
 exportexcel
 exportteams
+expression
 extend
 extended
 extendedattributes
@@ -2690,7 +2719,6 @@ filewrite
 fill
 film
 filter
-filter-item
 filtering
 fim
 fims
@@ -2754,6 +2782,7 @@ flowy
 fluidrelay
 flyway
 fmg
+fms
 focus
 fod
 fog
@@ -2771,7 +2800,6 @@ for
 force
 forcedelete
 foreach
-foreach-object
 forecast
 forensic
 forensics
@@ -2787,7 +2815,6 @@ formatformat-tableformat-listformat-wideformat-customformat-defaultout-defaultou
 formatting
 forms
 fortiauth
-forticlient
 fortify
 fortifyondemand
 fortigate
@@ -2801,6 +2828,7 @@ forum
 forwardcompatibility
 forwardedevents
 foudil
+foundationmodels
 fox
 foxpro
 fqdn
@@ -3122,6 +3150,7 @@ hacking
 hacktoberfest
 hadoop
 hafr
+haiku
 hailstone
 haipa
 halo
@@ -3144,6 +3173,7 @@ har
 hard
 hardblock
 harden
+harden-windows-security
 hardening
 hardensysvol
 hardlink
@@ -3202,6 +3232,7 @@ helm
 helmet
 help
 helpdesk
+helpdoc
 helper
 helper-functions
 helperfunctions
@@ -3209,6 +3240,7 @@ helpers
 helpfile
 helpful
 heml
+here
 hewlett
 hewlett-packard
 hewlett-packard-enterprise
@@ -3217,6 +3249,7 @@ hex
 hexdump
 hg
 hibernate
+hibernation
 hibp
 hidden
 hide
@@ -3458,6 +3491,7 @@ incident_response
 incident-response
 incidentresponse
 incontact
+indents
 index
 indexdb
 indicator
@@ -3489,6 +3523,7 @@ inlineimageprotocol
 inlineprogress
 innerjoin
 innertext
+inpainting
 input
 inputbox
 inputobject
@@ -3523,9 +3558,9 @@ intacct
 integrated
 integratedscriptingeditor
 integration
+integrationaccount
 integrationruntime
 integrationruntimedependency
-integrationservicescatalog
 integrity
 intel
 inteligo
@@ -3550,6 +3585,7 @@ intranet
 intrusion
 intuitive
 intune
+intuneappwinutil
 intunestuff
 inventory
 investigation
@@ -3596,6 +3632,7 @@ ipconfig
 iperf
 ipfy.org
 iphone
+ipilot
 iplookup
 ipmaths
 ipp
@@ -3656,12 +3693,12 @@ ivdc
 iwi
 j
 j81-blog
+jamba
 japanese
 jar
+jav
 java
-javamanager
 javascript
-javaversion
 jboss
 jdbc
 jde
@@ -3720,6 +3757,7 @@ junctions
 junit
 jupyter
 jupytor
+jurassic
 justenoughadministration
 jvm
 jwe
@@ -3843,8 +3881,10 @@ lametrictime
 lan
 landingzones
 language
+languageai
 languagedsc
 languageexperiencepack
+languagemodels
 languagepack
 lansweeper
 laps
@@ -3922,6 +3962,7 @@ limit-job
 limits
 lina
 line
+line-endings
 linear
 linearalgebra
 lingeringobjects
@@ -3947,7 +3988,6 @@ liquit.com
 list
 list_files
 list-directory
-list-item
 listener
 litecoin
 litedb
@@ -3955,6 +3995,7 @@ literature
 live
 llama
 llama2
+llama3
 lldp
 llm
 lmhost
@@ -4090,6 +4131,7 @@ macadmins
 machine
 machinelearning
 machinelearningcompute
+machinelearningmodels
 machinelearningservices
 macmon
 macos
@@ -4354,6 +4396,8 @@ miration-step
 mirror
 misc
 miscellaneous
+mistral
+mistralai
 mitigation
 mitre
 mitre_att&ck
@@ -4367,6 +4411,8 @@ mksapiviewer
 ml
 ml.net
 mlflow
+mlmodels
+mltools
 mmdc
 mobile
 mobilenetwork
@@ -4375,6 +4421,7 @@ mock
 mocking
 model
 modeling
+models
 modify
 module
 module-maintenance
@@ -4406,6 +4453,8 @@ monitor
 monitor psmodule
 monitorinformation
 monitoring
+monitoring_objects
+monitoring_variables
 monitoringplugins
 monitoringsolutions
 monitors
@@ -4472,6 +4521,7 @@ msonlineext
 msp
 msp360
 mspbackups
+msproject
 msrc
 msrdc
 mssql
@@ -4534,6 +4584,7 @@ mysql-database
 mytest
 n-able
 n-central
+nabu
 nac
 nagios
 nakivo
@@ -4745,6 +4796,7 @@ nunit
 nupkg
 nuspec
 nutanix
+nuwave
 nva
 nvd
 nvdimm
@@ -4792,7 +4844,6 @@ oda
 odata
 odbc
 odfb
-odin
 odoo
 oem-charset
 offboarding
@@ -4878,6 +4929,7 @@ openapi
 opendata
 openedge
 openfiles
+openhere
 openholidaysapi
 openid
 openidconnect
@@ -4910,9 +4962,7 @@ ops
 opsi
 opsmgr
 optics
-optimise
 optimization
-optimize
 optimized
 optimizer
 option
@@ -4981,6 +5031,7 @@ outerjoin
 outertext
 outline
 outlook
+outpainting
 output
 output-to-image
 outreach
@@ -5275,6 +5326,7 @@ posh
 posh-acme
 posh-cats
 posh-chocobear
+posh-direnv
 posh-git
 posh-ribbon
 posh-ssh
@@ -5285,6 +5337,7 @@ poshgraph
 poshgraph-sdk
 poshgrouppolicy
 poshkeepass
+poshlog
 poshorigin
 poshproject
 poshprtg
@@ -5308,6 +5361,7 @@ poshy-sshconfig
 poshy-viewer-finder
 poshy-wrap
 poshy-wrap-apt
+poshy-wrap-argcomplete
 poshy-wrap-brew
 poshy-wrap-curl
 poshy-wrap-dnf
@@ -5325,19 +5379,19 @@ poshy-wrap-kubectl
 poshy-wrap-maven
 poshy-wrap-nginx
 poshy-wrap-nmap
-poshy-wrap-npm
 poshy-wrap-pip
 poshy-wrap-pipenv
-poshy-wrap-pyenv
 poshy-wrap-pylint
 poshy-wrap-python
 poshy-wrap-ruby
 poshy-wrap-systemctl
 poshy-wrap-terraform
 poshy-wrap-terragrunt
+poshy-wrap-tmux
 poshy-wrap-vagrant
 poshy-wrap-vault
 poshy-wrap-vscode
+poshy-wrap-wget
 poshy-wrap-wt
 poshy-wrap-yum
 poshy-wrap-zypper
@@ -5410,6 +5464,7 @@ powershell.module.invokewinget
 powershell.one
 powershell.persistentpathstack
 powershell7
+powershellai
 powershellazuresql
 powershellconferenceeurope
 powershellcore
@@ -5420,6 +5475,7 @@ powershellget
 powershellgetformatversion_2.0
 powershellise
 powershelllogger
+powershellml
 powershellmodule
 powershellmoduleupdate
 powershellpr0mpt
@@ -5437,6 +5493,7 @@ powertab
 powertoolcmdlets
 powertooldsc
 ppdm
+ppk
 pposh
 pps
 ppt
@@ -5508,6 +5565,7 @@ producer
 product
 productid
 productivity
+productmedia
 products
 productstate
 profile
@@ -5570,7 +5628,6 @@ prtgnetworkmonitor
 ps
 ps-ncentral
 ps.credentialmanager
-ps1
 ps12exe
 ps1xml
 ps1xmlgen
@@ -6565,24 +6622,6 @@ pscommand_invoke-mavenpackage
 pscommand_invoke-mavenreleaseperform
 pscommand_invoke-mavenreleaseprepare
 pscommand_invoke-mavenreleaserollback
-pscommand_invoke-npmbinmungedpath
-pscommand_invoke-npminfo
-pscommand_invoke-npminit
-pscommand_invoke-npminstallforcefully
-pscommand_invoke-npminstallglobally
-pscommand_invoke-npminstallsave
-pscommand_invoke-npminstallsavedev
-pscommand_invoke-npmlist
-pscommand_invoke-npmlistdepth0
-pscommand_invoke-npmoutdated
-pscommand_invoke-npmpublish
-pscommand_invoke-npmrun
-pscommand_invoke-npmrundev
-pscommand_invoke-npmsearch
-pscommand_invoke-npmstart
-pscommand_invoke-npmtest
-pscommand_invoke-npmupdate
-pscommand_invoke-npmversion
 pscommand_invoke-pipenvcheck
 pscommand_invoke-pipenvclean
 pscommand_invoke-pipenvgraph
@@ -6602,7 +6641,6 @@ pscommand_invoke-pipinstall
 pscommand_invoke-pipinstallupgrade
 pscommand_invoke-piplistoutdated
 pscommand_invoke-pipuninstall
-pscommand_invoke-pyenv
 pscommand_invoke-pylintreportsdisabled
 pscommand_invoke-ruby
 pscommand_invoke-rubyexecute
@@ -6733,6 +6771,13 @@ pscommand_invoke-terragruntplan
 pscommand_invoke-terragruntplanall
 pscommand_invoke-terragruntvalidate
 pscommand_invoke-terragruntvalidateall
+pscommand_invoke-tmuxattachforterminal
+pscommand_invoke-tmuxattachforterminaldetachingothers
+pscommand_invoke-tmuxeditconfig
+pscommand_invoke-tmuxkillserver
+pscommand_invoke-tmuxkillsessionforterminal
+pscommand_invoke-tmuxlistsessions
+pscommand_invoke-tmuxnewsessionfromsource
 pscommand_invoke-vagrantdestroy
 pscommand_invoke-vagranthalt
 pscommand_invoke-vagranthostmanager
@@ -6980,6 +7025,7 @@ pscommand_measure-envvarchanges
 pscommand_merge-gitrepositoryfromoriginbranchmain
 pscommand_merge-gitrepositoryfromupstreambranchmain
 pscommand_mi
+pscommand_mirrorsite
 pscommand_move-gittrackedfiles
 pscommand_mp
 pscommand_mpom
@@ -7019,23 +7065,6 @@ pscommand_notify-send-terminalnotifier
 pscommand_npm-disable-proxy
 pscommand_npm-enable-proxy
 pscommand_npm-show-proxy
-pscommand_npmd
-pscommand_npme
-pscommand_npmf
-pscommand_npmg
-pscommand_npmi
-pscommand_npml
-pscommand_npml0
-pscommand_npmo
-pscommand_npmp
-pscommand_npmr
-pscommand_npmrd
-pscommand_npms
-pscommand_npmse
-pscommand_npmst
-pscommand_npmt
-pscommand_npmu
-pscommand_npmv
 pscommand_open_command
 pscommand_pch
 pscommand_pcl
@@ -7085,13 +7114,13 @@ pscommand_pvenv
 pscommand_pwh
 pscommand_pwshrc-show-proxy
 pscommand_py
-pscommand_pyenv
 pscommand_pylint-quick
 pscommand_pyserver
 pscommand_python
 pscommand_python3
 pscommand_rb
 pscommand_read-dotenv
+pscommand_register-argcompleteargumentcompleter
 pscommand_remove_gem
 pscommand_remove-dockercontainerall
 pscommand_remove-dockerunusedimage
@@ -7174,6 +7203,8 @@ pscommand_syspip
 pscommand_syspip_package_location
 pscommand_syspip3
 pscommand_syspip3_package_location
+pscommand_ta
+pscommand_tad
 pscommand_test-command
 pscommand_test-d
 pscommand_test-elevation
@@ -7201,6 +7232,14 @@ pscommand_tgp
 pscommand_tgpa
 pscommand_tgv
 pscommand_tgva
+pscommand_tkss
+pscommand_tksv
+pscommand_tl
+pscommand_tmuxconf
+pscommand_ts
+pscommand_txa
+pscommand_txl
+pscommand_txn
 pscommand_universalarchive
 pscommand_update-gitbranchbasefrombranchmain
 pscommand_update-gitbranchbasefrommain
@@ -7956,24 +7995,6 @@ psfunction_invoke-mavenpackage
 psfunction_invoke-mavenreleaseperform
 psfunction_invoke-mavenreleaseprepare
 psfunction_invoke-mavenreleaserollback
-psfunction_invoke-npmbinmungedpath
-psfunction_invoke-npminfo
-psfunction_invoke-npminit
-psfunction_invoke-npminstallforcefully
-psfunction_invoke-npminstallglobally
-psfunction_invoke-npminstallsave
-psfunction_invoke-npminstallsavedev
-psfunction_invoke-npmlist
-psfunction_invoke-npmlistdepth0
-psfunction_invoke-npmoutdated
-psfunction_invoke-npmpublish
-psfunction_invoke-npmrun
-psfunction_invoke-npmrundev
-psfunction_invoke-npmsearch
-psfunction_invoke-npmstart
-psfunction_invoke-npmtest
-psfunction_invoke-npmupdate
-psfunction_invoke-npmversion
 psfunction_invoke-pipenvcheck
 psfunction_invoke-pipenvclean
 psfunction_invoke-pipenvgraph
@@ -7993,7 +8014,6 @@ psfunction_invoke-pipinstall
 psfunction_invoke-pipinstallupgrade
 psfunction_invoke-piplistoutdated
 psfunction_invoke-pipuninstall
-psfunction_invoke-pyenv
 psfunction_invoke-pylintreportsdisabled
 psfunction_invoke-ruby
 psfunction_invoke-rubyexecute
@@ -8124,6 +8144,13 @@ psfunction_invoke-terragruntplan
 psfunction_invoke-terragruntplanall
 psfunction_invoke-terragruntvalidate
 psfunction_invoke-terragruntvalidateall
+psfunction_invoke-tmuxattachforterminal
+psfunction_invoke-tmuxattachforterminaldetachingothers
+psfunction_invoke-tmuxeditconfig
+psfunction_invoke-tmuxkillserver
+psfunction_invoke-tmuxkillsessionforterminal
+psfunction_invoke-tmuxlistsessions
+psfunction_invoke-tmuxnewsessionfromsource
 psfunction_invoke-vagrantdestroy
 psfunction_invoke-vagranthalt
 psfunction_invoke-vagranthostmanager
@@ -8231,6 +8258,7 @@ psfunction_local-ignore
 psfunction_measure-envvarchanges
 psfunction_merge-gitrepositoryfromoriginbranchmain
 psfunction_merge-gitrepositoryfromupstreambranchmain
+psfunction_mirrorsite
 psfunction_move-gittrackedfiles
 psfunction_new-gitbranchfromstash
 psfunction_new-gitbranchtracked
@@ -8287,6 +8315,7 @@ psfunction_push-gitstashentrywithmessage
 psfunction_pwshrc-show-proxy
 psfunction_pyserver
 psfunction_read-dotenv
+psfunction_register-argcompleteargumentcompleter
 psfunction_remove-dockercontainerall
 psfunction_remove-dockerunusedimage
 psfunction_remove-envpathitem
@@ -8565,7 +8594,6 @@ pwshake
 pwshfw
 pwshrc
 pxedistributionpoint
-pyenv
 pygmentize
 pykick
 pylint
@@ -8603,6 +8631,7 @@ qualys
 quandl
 quantum
 quarantine
+queries
 query
 queryexcel
 querystring
@@ -8812,6 +8841,7 @@ remoteregistry
 remotesession
 remoting
 remove
+remove-githubsecrets
 remove-itemproperty
 remove-pass
 remove-path
@@ -8869,6 +8899,7 @@ resource
 resource_monitor
 resource_watcher
 resourcecontroller
+resourcegraph
 resourcegroup
 resourcegroups
 resourceid
@@ -8890,11 +8921,11 @@ restore
 resume
 retail
 retention
+retro
 retry
 returnuserprofile
 retype
 reuse
-reverse-engineer
 reverse-string
 reversed-color-text
 reversedsc
@@ -9121,6 +9152,7 @@ scoutnet
 scp
 scrap
 scrape
+scraper
 scraping
 screen
 screencap
@@ -9204,6 +9236,7 @@ security
 security_cameras
 security-awareness-training
 security-policy
+security-score
 security-txt
 security.txt
 securityassertionmarkuplanguage
@@ -9224,7 +9257,6 @@ seek
 seekatar
 seeshell
 select
-select-item
 select-kubecontext
 select-kubenamespace
 select-string
@@ -9313,6 +9345,7 @@ set
 set_bios
 set-alias
 set-dnsservers
+set-githubsecrets
 set-itemproperty
 set-location
 set-openfiles
@@ -9408,6 +9441,7 @@ signtool
 silicondust
 silk
 silver_ticket
+sim
 simple
 simplecontainers
 simplepassword
@@ -9476,6 +9510,7 @@ smb
 smb1
 smb2
 smbios
+smbios-information
 smfoxx
 smfx
 smileys
@@ -9546,6 +9581,7 @@ songs
 sonicos
 sonicwall
 sonicwallvpn
+sonnet
 sonus
 soon
 soonr
@@ -9698,6 +9734,7 @@ sspr
 ssrs
 ssst
 sstp
+stabilityai
 stache
 stackexchange
 stackhci
@@ -9764,7 +9801,6 @@ stoicism
 stoics
 stolpe.io
 stop
-storablecolortheme
 storage
 storageaccount
 storagecache
@@ -10080,6 +10116,7 @@ text-to-speech
 text2image
 textanalysis
 textbuffer
+textgeneration
 texting
 texting-emoji
 texting-emojis
@@ -10106,6 +10143,7 @@ third-party-libraries
 third-party-notice
 thispc
 thoughtfortheday
+thousandeyes
 thread
 threading
 threadjob
@@ -10138,13 +10176,17 @@ tinkerpop
 tinymce
 tip
 tips
+titan
 titanhq
 title
 tld
 tls
+tls11
+tls12
 tlsa
 tlsprotocol
 tlsrpt
+tmux
 to-do
 toast
 toasts
@@ -10166,6 +10208,7 @@ toolkit
 tools
 tools4ever
 topdesk
+topgrade
 topics
 topleveldomain
 topology
@@ -10297,6 +10340,7 @@ txt
 type
 typeaccelerators
 typedata
+typeextension
 types
 types.ps1xml
 typescript
@@ -10313,7 +10357,6 @@ ud-avataaar
 ud-badgebutton
 ud-badgelink
 ud-breadcrumb
-ud-breadcrumbitem
 ud-burger
 ud-button
 ud-buttonloader
@@ -10343,7 +10386,6 @@ ud-pivottable
 ud-progressstepbar
 ud-rangeslider
 ud-readingbar
-ud-scrollspy
 ud-selectdatetime
 ud-selector
 ud-signature
@@ -10387,6 +10429,7 @@ ums
 unattend
 unattendedfile
 unblock
+unc
 uncpaths
 underlined-text
 unhide
@@ -10459,6 +10502,7 @@ urlhaus
 urlredirections
 urlrewrite
 urlscan
+urlscan.io
 urlupdate
 uru
 usage
@@ -10488,8 +10532,10 @@ usg
 usps
 utc
 utf-8
+utf-sig
 utf7
 utf8
+utf8-sig
 utf8bom
 util
 utilities
@@ -10555,6 +10601,7 @@ veeam
 veeampn
 veeva
 venafi
+vencord
 vendor
 venue
 venvlink
@@ -10565,7 +10612,6 @@ verification
 verify
 version
 versioning
-versionmanager
 versionnumber
 vertical
 vester
@@ -10607,6 +10653,7 @@ virus
 virustotal
 visio
 visual
+visual-studio
 visualbuilder
 visualc
 visualfields
@@ -10709,7 +10756,6 @@ vum
 vvx
 vxrail
 w32time
-w365
 w3svc
 w3w
 waa
@@ -10764,7 +10810,7 @@ webcamera
 webcmdlets
 webdav
 webdeploy
-webfrequest
+webdeveloper
 webhdfs
 webhelpdesk
 webhistory
@@ -10802,6 +10848,7 @@ well-known
 wem
 wemsdk
 wer
+wget
 what3words
 whatismyip
 whatsnew
