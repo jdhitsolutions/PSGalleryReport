@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Friday, 27 December 2024 17:52:05 UTC
+Updated: Saturday, 28 December 2024 02:14:27 UTC
 
 .bat
 .env
@@ -223,7 +223,6 @@ adr
 ads
 adsi
 adsite
-adsp
 adsync
 adt
 aduser
@@ -241,8 +240,6 @@ adwords
 adx
 adxingestion
 aem
-aeries
-aeriessis
 aes
 aesgcm
 afd
@@ -311,7 +308,6 @@ aliases
 aliens
 alkane
 alkanepsf
-all
 alletra
 alloydb
 alm
@@ -355,7 +351,6 @@ analyzerrules
 anchor
 and
 android
-anet
 anf
 anglesharp
 angular
@@ -370,8 +365,10 @@ anonymous
 anova
 ansi
 ansible
+ansible-control-node
 ansible-playbook
 ansible-vault
+ansiblecontrolnode
 ansibletower
 anthropic
 anti-malware
@@ -379,7 +376,6 @@ antimalwarescaninterface
 antispam
 antivirus
 anws
-any
 anypackage
 anypoint
 anywhere
@@ -455,7 +451,6 @@ appvolumes
 appwrite
 appx
 appxmanifest
-appxpackage
 aprs
 aprs-is
 aprsis
@@ -600,7 +595,6 @@ authorize.net
 authz
 autify
 auto
-auto_cd
 auto-completion
 autoadapter
 autoattendant
@@ -610,7 +604,6 @@ autocompletion
 autoenv
 autograph
 autohotkey
-autoload
 autologon
 automai
 automanage
@@ -639,6 +632,7 @@ autoupdate
 autoupdate-script
 autowrapper
 autoyast
+auvik
 availability
 availabilityset
 avalara
@@ -835,10 +829,8 @@ battery
 bayern
 bazzo
 bb
-bbc
 bbp
 bc
-bc365
 bcd
 bcdedit
 bcdr
@@ -879,7 +871,6 @@ bigquery
 bikeshed
 billing
 billingbenefits
-bimi
 bin
 bin-obj
 binary
@@ -1017,6 +1008,7 @@ buildingfile
 buildingmapping
 buildkit
 buildkite
+buildmaster
 builds
 buildtool
 bulk
@@ -1107,13 +1099,9 @@ cchoco
 cchocoex
 ccm
 cd
-cd_path
-cd-
 cd-back
 cd-forward
 cd-up
-cd+
-cdable_vars
 cdata
 cdb
 cdi
@@ -1149,7 +1137,6 @@ certificatemanager
 certificatepolicy
 certificates
 certificateservices
-certificatesmanagement
 certinia
 certutil
 cf
@@ -1187,7 +1174,6 @@ chefconf2016
 chenxizhang
 cherrypy
 cherwell
-chfs
 chi
 china
 chmod
@@ -1404,6 +1390,7 @@ columns
 com
 combinations
 combine
+comdata
 comedy
 comic
 comical
@@ -1469,7 +1456,6 @@ concur
 concurrency
 concurrent
 conda
-condition
 conditionalaccess
 conduit
 conference
@@ -1514,11 +1500,13 @@ connectionsmanager
 connectionstring
 connectivity
 connector
+connectorcmd
 connectormanagement
 connectwise
 conservation
 console
 consoleguitools
+consoleimage
 consolemenu
 consolemusic
 consumer
@@ -1741,7 +1729,6 @@ customization
 customlocation
 customlogs
 customproviders
-cutehttpfileserver
 cvad
 cve
 cve-2021-34527
@@ -1782,7 +1769,6 @@ dangling
 dapr
 dare
 dark
-darktrace
 dash
 dashboard
 dashboardapi
@@ -2159,7 +2145,6 @@ dok
 dokuwiki
 domain
 domaincontroller
-domainkey
 domainname
 domainnamesystem
 domains
@@ -2180,14 +2165,11 @@ dotteddecimalip
 doubleclick
 download
 downloader
-downloadfacebookvideo
-downloadfilefromsite
 downloadinfo
 downloading
 downloadoffice
 downloadofficertool
 downloads
-downloadyoutubevideo
 dozent
 dpa
 dpapi
@@ -2251,7 +2233,6 @@ dtsx
 dtx
 du
 dual-stack
-duck
 duckdb
 duckduckgo
 ducktyping
@@ -2316,7 +2297,6 @@ ebur128
 ec2
 ecommerce
 ecovadis
-ed25519
 edgaronline
 edge
 edgebackup
@@ -2423,7 +2403,6 @@ entraid
 entraidgovernance
 entropy
 enum
-enumerable
 env
 environment
 environment-variables
@@ -2493,6 +2472,7 @@ evc
 event
 event_id
 event_list
+event-timeline
 eventchannel
 eventchannels
 eventcollector
@@ -2536,6 +2516,7 @@ exchange-rates
 exchange2010
 exchange2013
 exchange2016
+exchangecluster
 exchangehybrid
 exchangemigration
 exchangeon-premise
@@ -2741,7 +2722,6 @@ find-call
 find-caller
 find-file
 find-path
-finddownloadlinkfromwebsite
 findfile
 findlocation
 findplace
@@ -2761,8 +2741,6 @@ fisher
 fissionproducts
 fitbit
 fits
-five
-five9
 fix-log
 fix-protocol
 fixlet
@@ -2822,7 +2800,6 @@ formatformat-tableformat-listformat-wideformat-customformat-defaultout-defaultou
 formatting
 forms
 fortiauth
-forticlient
 fortify
 fortifyondemand
 fortigate
@@ -2959,7 +2936,6 @@ geolocation
 geosearching
 geotagging
 get
-get_random_password
 get-admodernreport
 get-childitem
 get-cmhealthcheck
@@ -3022,6 +2998,7 @@ gitflow
 gitforwindows
 github
 github-actions
+githubaction
 githubactions
 githubtools
 githubworkflow
@@ -3095,6 +3072,7 @@ graph
 graph-api
 graphapi
 graphapirequests
+graphconnector
 graphexplorer
 graphic
 graphics
@@ -3190,7 +3168,6 @@ harvestforecast
 hash
 hashcat
 hashicorp
-hashset
 hashtable
 hasicorp
 haskell
@@ -3225,6 +3202,7 @@ healthz
 heartbeatdiscovery
 heat
 heating
+heavenbay
 helium
 helix
 hello
@@ -3520,6 +3498,7 @@ initialization
 initials-avatar
 initiator
 inline-progress
+inlineimageprotocol
 inlineprogress
 innerjoin
 innertext
@@ -3708,6 +3687,9 @@ jde
 jdedwards
 jdt
 jea
+jea_module
+jeanalyzer
+jekyll
 jenkins
 jetbrains
 jira
@@ -3783,6 +3765,7 @@ kbarticle
 kdbx
 kdialog
 kebab-case
+keenetic
 keepachangelog
 keepass
 keepasslib
@@ -3819,6 +3802,7 @@ kindle
 kinetic
 kinopoisk
 kintone
+kittygraphicsprotocol
 klantcontroles
 kms
 knapsack
@@ -3829,7 +3813,6 @@ knowledge
 knowledgebase
 koans
 kodi
-korn
 kotlin
 kql
 kraken
@@ -3850,6 +3833,8 @@ kubetidy
 kudu
 kurukuru
 kusto
+kusto.data
+kusto.ingest
 kvm
 kvp
 l1tf
@@ -4016,7 +4001,6 @@ localdb
 localdirectories
 locale
 localgroup
-localgroupmember
 localization
 localpolicy
 localuser
@@ -4184,6 +4168,7 @@ managementdashboard
 managementgroups
 managementpoint
 manager
+mangement
 manifest
 manual
 map
@@ -4284,7 +4269,6 @@ members
 membership
 memcm
 memory
-memorydump
 memorystream
 mention
 menu
@@ -4418,7 +4402,6 @@ mocking
 model
 modeling
 models
-modify
 module
 module-maintenance
 module-manifest
@@ -4428,7 +4411,6 @@ module-testing
 module-testing-framework
 modulebuild
 modulecreation
-modulefast
 modulemanagement
 modules
 moduleupdate
@@ -4532,13 +4514,13 @@ mstsc
 msu
 msvc
 msword
-mta-sts
 mule
 mulesoft
 multi
 multi-factor
 multi-language
 multi-platform
+multi-tenant
 multi-threading
 multi-zone
 multicloud
@@ -4798,6 +4780,7 @@ nvd
 nvdimm
 nvdimm-n
 nvm
+nvm-window
 nxt
 nyse
 nzb
@@ -5032,6 +5015,7 @@ outline
 outlook
 outpainting
 output
+output-to-image
 outreach
 outsystems
 overbite
@@ -5111,7 +5095,6 @@ passphrase
 passphraser passphrase password generator entropy
 passwd
 password
-password_generation
 password-generator
 password-less
 password-manager
@@ -5204,6 +5187,7 @@ philips
 philosophical
 philpritchett
 phishing
+phoenix
 phone
 phoneautomation
 photo
@@ -5363,6 +5347,7 @@ poshy-wrap-brew
 poshy-wrap-curl
 poshy-wrap-dnf
 poshy-wrap-docker
+poshy-wrap-docker-compose
 poshy-wrap-dotnet
 poshy-wrap-forgit
 poshy-wrap-gem
@@ -5373,7 +5358,6 @@ poshy-wrap-git-lfs
 poshy-wrap-golang
 poshy-wrap-helm
 poshy-wrap-kubectl
-poshy-wrap-maven
 poshy-wrap-nginx
 poshy-wrap-nmap
 poshy-wrap-npm
@@ -5389,11 +5373,13 @@ poshy-wrap-terragrunt
 poshy-wrap-tmux
 poshy-wrap-vagrant
 poshy-wrap-vault
+poshy-wrap-vscode
 poshy-wrap-wt
 poshy-wrap-yum
 poshy-wrap-zypper
 position
 post
+postcode
 postgre
 postgres
 postgresql
@@ -5496,7 +5482,6 @@ pptp
 pptx
 pq
 pranks
-predicate
 prediction
 predictive
 predictive-text
@@ -5742,9 +5727,31 @@ pscommand_convertto-rgb
 pscommand_d
 pscommand_d64
 pscommand_dbl
+pscommand_dcb
+pscommand_dcdn
+pscommand_dce
 pscommand_dcin
+pscommand_dck
+pscommand_dcl
+pscommand_dclf
 pscommand_dcls
 pscommand_dclsa
+pscommand_dco
+pscommand_dcofresh
+pscommand_dcol
+pscommand_dcou
+pscommand_dcouns
+pscommand_dcps
+pscommand_dcpull
+pscommand_dcr
+pscommand_dcrestart
+pscommand_dcrm
+pscommand_dcstart
+pscommand_dcstop
+pscommand_dcup
+pscommand_dcupb
+pscommand_dcupbd
+pscommand_dcupd
 pscommand_decode64
 pscommand_decodefile64
 pscommand_df64
@@ -5803,6 +5810,7 @@ pscommand_dnls
 pscommand_dnrm
 pscommand_docker-archive-content
 pscommand_docker-build
+pscommand_docker-compose-fresh
 pscommand_docker-container-execute
 pscommand_docker-container-execute-interactively
 pscommand_docker-container-inspect
@@ -6363,6 +6371,25 @@ pscommand_invoke-dnfreinstall
 pscommand_invoke-dnfremove
 pscommand_invoke-dnfsearch
 pscommand_invoke-dnfupgrade
+pscommand_invoke-dockercomposebuild
+pscommand_invoke-dockercomposedown
+pscommand_invoke-dockercomposeexec
+pscommand_invoke-dockercomposekill
+pscommand_invoke-dockercomposelogs
+pscommand_invoke-dockercomposelogsfollow
+pscommand_invoke-dockercomposelogsfollowtail
+pscommand_invoke-dockercomposeps
+pscommand_invoke-dockercomposepull
+pscommand_invoke-dockercomposerestart
+pscommand_invoke-dockercomposerm
+pscommand_invoke-dockercomposerun
+pscommand_invoke-dockercomposestart
+pscommand_invoke-dockercomposestop
+pscommand_invoke-dockercomposeup
+pscommand_invoke-dockercomposeupdetached
+pscommand_invoke-dockercomposeupdetachedwithbuild
+pscommand_invoke-dockercomposeupnostart
+pscommand_invoke-dockercomposeupwithbuild
 pscommand_invoke-gemcertadd
 pscommand_invoke-gemcertbuild
 pscommand_invoke-gemcertremove
@@ -6573,17 +6600,6 @@ pscommand_invoke-kubectlrolloutundo
 pscommand_invoke-kubectlrunnetshoot
 pscommand_invoke-kubectlscaledeployment
 pscommand_invoke-kubectlscalestatefulset
-pscommand_invoke-mavencleaninstall
-pscommand_invoke-mavencleaninstallskiptests
-pscommand_invoke-mavencleanpackage
-pscommand_invoke-mavencleanpackageskiptests
-pscommand_invoke-mavendependencytree
-pscommand_invoke-mavenhelpeffectivepom
-pscommand_invoke-maveninstall
-pscommand_invoke-mavenpackage
-pscommand_invoke-mavenreleaseperform
-pscommand_invoke-mavenreleaseprepare
-pscommand_invoke-mavenreleaserollback
 pscommand_invoke-npmbinmungedpath
 pscommand_invoke-npminfo
 pscommand_invoke-npminit
@@ -6786,6 +6802,20 @@ pscommand_invoke-vaultserver
 pscommand_invoke-vaultstatus
 pscommand_invoke-vaultversion
 pscommand_invoke-vaultwrite
+pscommand_invoke-vscodeadd
+pscommand_invoke-vscodediff
+pscommand_invoke-vscodeforpwd
+pscommand_invoke-vscodegoto
+pscommand_invoke-vscodeinstallextension
+pscommand_invoke-vscodenewwindow
+pscommand_invoke-vscodereusewindow
+pscommand_invoke-vscodeuninstallextension
+pscommand_invoke-vscodeverbose
+pscommand_invoke-vscodewithdisableextensions
+pscommand_invoke-vscodewithextensionsdir
+pscommand_invoke-vscodewithlog
+pscommand_invoke-vscodewithuserdatadir
+pscommand_invoke-vscodewithwait
 pscommand_invoke-yumcleanall
 pscommand_invoke-yumgroupinstall
 pscommand_invoke-yumgroupremove
@@ -6983,21 +7013,10 @@ pscommand_lsn
 pscommand_lsr
 pscommand_lt
 pscommand_mcd
-pscommand_mci
-pscommand_mcisk
-pscommand_mcp
-pscommand_mcpsk
-pscommand_mdep
 pscommand_measure-envvarchanges
 pscommand_merge-gitrepositoryfromoriginbranchmain
 pscommand_merge-gitrepositoryfromupstreambranchmain
-pscommand_mi
 pscommand_move-gittrackedfiles
-pscommand_mp
-pscommand_mpom
-pscommand_mrperf
-pscommand_mrprep
-pscommand_mrrb
 pscommand_myip
 pscommand_new-gitbranchfromstash
 pscommand_new-gitbranchtracked
@@ -7282,7 +7301,21 @@ pscommand_vp
 pscommand_vr
 pscommand_vrl
 pscommand_vs
+pscommand_vsc
+pscommand_vsca
+pscommand_vscd
+pscommand_vscde
+pscommand_vsced
+pscommand_vscg
+pscommand_vscie
+pscommand_vscl
+pscommand_vscn
 pscommand_vscp
+pscommand_vscr
+pscommand_vscu
+pscommand_vscue
+pscommand_vscv
+pscommand_vscw
 pscommand_vsl
 pscommand_vssh
 pscommand_vst
@@ -7404,12 +7437,9 @@ pses
 psexcel
 psexec
 psexec.exe
-psexpandline
 psf
 psfciv
 psfitbit
-psfive9
-psfive9admin
 psfoldersize
 psfunction__python3
 psfunction_aar
@@ -7461,6 +7491,7 @@ psfunction_dirname
 psfunction_disable-proxy
 psfunction_docker-archive-content
 psfunction_docker-build
+psfunction_docker-compose-fresh
 psfunction_docker-container-execute
 psfunction_docker-container-execute-interactively
 psfunction_docker-container-inspect
@@ -7728,6 +7759,25 @@ psfunction_invoke-dnfreinstall
 psfunction_invoke-dnfremove
 psfunction_invoke-dnfsearch
 psfunction_invoke-dnfupgrade
+psfunction_invoke-dockercomposebuild
+psfunction_invoke-dockercomposedown
+psfunction_invoke-dockercomposeexec
+psfunction_invoke-dockercomposekill
+psfunction_invoke-dockercomposelogs
+psfunction_invoke-dockercomposelogsfollow
+psfunction_invoke-dockercomposelogsfollowtail
+psfunction_invoke-dockercomposeps
+psfunction_invoke-dockercomposepull
+psfunction_invoke-dockercomposerestart
+psfunction_invoke-dockercomposerm
+psfunction_invoke-dockercomposerun
+psfunction_invoke-dockercomposestart
+psfunction_invoke-dockercomposestop
+psfunction_invoke-dockercomposeup
+psfunction_invoke-dockercomposeupdetached
+psfunction_invoke-dockercomposeupdetachedwithbuild
+psfunction_invoke-dockercomposeupnostart
+psfunction_invoke-dockercomposeupwithbuild
 psfunction_invoke-gemcertadd
 psfunction_invoke-gemcertbuild
 psfunction_invoke-gemcertremove
@@ -7938,17 +7988,6 @@ psfunction_invoke-kubectlrolloutundo
 psfunction_invoke-kubectlrunnetshoot
 psfunction_invoke-kubectlscaledeployment
 psfunction_invoke-kubectlscalestatefulset
-psfunction_invoke-mavencleaninstall
-psfunction_invoke-mavencleaninstallskiptests
-psfunction_invoke-mavencleanpackage
-psfunction_invoke-mavencleanpackageskiptests
-psfunction_invoke-mavendependencytree
-psfunction_invoke-mavenhelpeffectivepom
-psfunction_invoke-maveninstall
-psfunction_invoke-mavenpackage
-psfunction_invoke-mavenreleaseperform
-psfunction_invoke-mavenreleaseprepare
-psfunction_invoke-mavenreleaserollback
 psfunction_invoke-npmbinmungedpath
 psfunction_invoke-npminfo
 psfunction_invoke-npminit
@@ -8151,6 +8190,20 @@ psfunction_invoke-vaultserver
 psfunction_invoke-vaultstatus
 psfunction_invoke-vaultversion
 psfunction_invoke-vaultwrite
+psfunction_invoke-vscodeadd
+psfunction_invoke-vscodediff
+psfunction_invoke-vscodeforpwd
+psfunction_invoke-vscodegoto
+psfunction_invoke-vscodeinstallextension
+psfunction_invoke-vscodenewwindow
+psfunction_invoke-vscodereusewindow
+psfunction_invoke-vscodeuninstallextension
+psfunction_invoke-vscodeverbose
+psfunction_invoke-vscodewithdisableextensions
+psfunction_invoke-vscodewithextensionsdir
+psfunction_invoke-vscodewithlog
+psfunction_invoke-vscodewithuserdatadir
+psfunction_invoke-vscodewithwait
 psfunction_invoke-yumcleanall
 psfunction_invoke-yumgroupinstall
 psfunction_invoke-yumgroupremove
@@ -8433,7 +8486,6 @@ psloganalytics
 psm
 psm1
 psmodule
-psmodule psedition_desktop
 psmodulepath
 psmodules
 psmp
@@ -8556,6 +8608,7 @@ pyenv
 pygmentize
 pykick
 pylint
+pyranja
 python
 python-for-dotnet
 python3
@@ -8602,8 +8655,8 @@ quickaccess
 quickbase
 quickbooks
 quicksetup
-quiz
 qumulo
+quota
 quote
 quoteoftheday
 quotes
@@ -8777,7 +8830,6 @@ remote
 remote-browser
 remote-desktop
 remote'
-remoteadmin
 remotecert
 remoteconnection
 remoteconnectionsmanager
@@ -8791,7 +8843,6 @@ remotedirectories
 remotefiles
 remoteforensics
 remotehost
-remotelocalgroup
 remotelogoff
 remotemanagement
 remoteregistry
@@ -8813,7 +8864,6 @@ rename-git
 rename-git-branch
 rename-gitbranch
 reonboarding
-repair
 repair-msauth
 reparsepoint
 repeat
@@ -8853,6 +8903,8 @@ resolve-stache
 resolve-template
 resolver
 resource
+resource_monitor
+resource_watcher
 resourcecontroller
 resourcegraph
 resourcegroup
@@ -8973,7 +9025,6 @@ rsop
 rss
 rt
 rtu
-rubber
 rubrik
 rubriksecuritycloud
 ruby
@@ -9000,7 +9051,6 @@ russia
 rust
 rust-lang
 ryanairps
-ryver
 s.ds.p
 s1
 s3
@@ -9153,6 +9203,7 @@ sdp
 search
 search-adminauditlog
 search-engines
+searchconnector
 searchengine
 searcher
 searching
@@ -9234,7 +9285,6 @@ send
 send-logtologanalytics
 send-mailmessage
 send-message
-senderid
 sendgrid
 sendkeys
 sendmail
@@ -9317,7 +9367,6 @@ setup
 sevenzip
 sf
 sfb
-sfc
 sftp
 sfx
 sgopher
@@ -9407,6 +9456,8 @@ single
 singlestore
 singleton
 sinks
+sintez
+sintez.module.rds
 sit
 site
 site_navigation
@@ -9589,8 +9640,10 @@ spf
 spfx
 sphere
 spi
+spicetify
 spinnaker
 splash
+splat
 splatting
 split
 splunk
@@ -9710,7 +9763,6 @@ start-threadjob
 startkey
 startmen
 startmenu
-starttls
 starwars
 stash
 stat
@@ -9719,11 +9771,13 @@ stateless
 static
 staticanalysis
 statichtmlsites
+staticsite
 statistical
 statistics
 stats
 statsd
 status
+status_watcher
 statuscake
 statuscode
 statusmonitor
@@ -9893,6 +9947,7 @@ sysprep
 system
 system information 1394 controller baseboard motherboard systemboard battery bios bus cache memory cd dvd rom drive compact disc desktop monitor disk partition fan floppy glide point heatpipe ide infrared device keyboard local logical array mouse'
 system-administration
+system-group
 system-service
 system-services
 system.directoryservices.protocols
@@ -10043,7 +10098,6 @@ test-xml
 test123
 testaccount
 testautomation
-tester
 testimonial
 testing
 testlab
@@ -10059,6 +10113,7 @@ text
 text-emoji
 text-emojis
 text-templates
+text-to-image
 text-to-speach"
 text-to-speech
 text2image
@@ -10134,14 +10189,13 @@ tld
 tls
 tls11
 tls12
-tlsa
 tlsprotocol
-tlsrpt
 tmux
 to-do
 toast
 toasts
 tobias
+toc
 todo
 todo.txt
 toggl
@@ -10158,6 +10212,7 @@ toolkit
 tools
 tools4ever
 topdesk
+topgrade
 topics
 topleveldomain
 topology
@@ -10267,7 +10322,6 @@ tuner
 tuning
 tutorial
 tv
-tvguide
 tweet
 twig
 twilio
@@ -10317,12 +10371,10 @@ ud-confetti
 ud-control
 ud-dashboard
 ud-datepicker
-ud-field
 ud-flexytable
 ud-funnel
 ud-hero
 ud-illustration
-ud-input
 ud-licensed
 ud-loadingoverlay
 ud-minesweeper
@@ -10331,7 +10383,6 @@ ud-navbarsearch
 ud-numbermask
 ud-orgchart
 ud-piechart3d
-ud-pivottable
 ud-progressstepbar
 ud-rangeslider
 ud-readingbar
@@ -10339,7 +10390,6 @@ ud-scrollspy
 ud-selectdatetime
 ud-selector
 ud-signature
-ud-simpledrawer
 ud-singleselect
 ud-slider
 ud-speechbubble
@@ -10506,6 +10556,7 @@ vagrant
 vale
 validate
 validate-dcb
+validatedsolutions
 validatemapsconnectivity
 validation
 validator
@@ -10552,6 +10603,7 @@ veeam
 veeampn
 veeva
 venafi
+vencord
 vendor
 venue
 venvlink
@@ -10635,6 +10687,7 @@ vmware
 vmware.vsphere
 vmwarecloudfoundation
 vmwaredrs
+vmwarevalidatedsolutions
 vmwcluster
 vmwdatacenter
 vmwfolder
@@ -10789,7 +10842,6 @@ websphereappserver
 websphereportal
 webtest
 webtesting
-webtime
 webview2
 wec
 wecutil
