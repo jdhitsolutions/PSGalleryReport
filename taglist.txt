@@ -1,11 +1,15 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Sunday, 29 December 2024 09:50:57 UTC
+Updated: Sunday, 29 December 2024 17:50:42 UTC
 .net
+aad
 accounts
 acl
 active-directory
 activedirectory
+activedirectoryfederationservices
+ad
+adfs
 admin
 adv180002
 adv180018
@@ -27,15 +31,18 @@ authorization
 automation
 aws
 azure
+azureactivedirectory
 azuread
 azureas
 azureautomationnotsupported
 backup
 batch
+bdd
 billing
 bios
 cache
 cdn
+certificate
 certificates
 cloud
 cognitiveservices
@@ -68,10 +75,12 @@ dell
 deployment
 desiredstateconfiguration
 desktopvirtualization
+devcenter
 devops
 devtestlabs
 directory
 dns
+dnsresolver
 docker
 driver
 dsc
@@ -79,6 +88,7 @@ dsc-resources
 dscresource
 dscresourcekit
 dscresources
+elasticsan
 encryption
 environment
 eventgrid
@@ -102,6 +112,7 @@ http
 iaas
 identity
 iis
+ingestion
 ini
 insights
 install
@@ -119,6 +130,7 @@ kubernetes
 kusto
 linux
 logicapp
+logs
 mac
 machinelearning
 machinelearningcompute
@@ -131,17 +143,28 @@ marketplaceordering
 media
 mediaservices
 microsoft
+microsoft.identity.client
+microsoftauthenticationlibrary
 migrate
+mocking
 monitor
+msal
 msi
 msmq
 netsh
 network
+networkcloud
 networking
+nginx
 notificationhubs
+notifications
 ntfs
+oauth
 office365
+oidc
+oms
 onedrive
+openidconnect
 operating-system
 operationalinsights
 orchestrator
@@ -150,6 +173,7 @@ outlook
 packagemanagement
 path
 performance-counters
+pki
 policy
 policyevent
 policyinsights
@@ -169,6 +193,7 @@ programs
 provider
 psedition_core
 psedition_desktop
+psincludes_cmdlet
 psmodule
 recoveryservices
 redis
@@ -191,6 +216,7 @@ sharepoint
 shares
 sid
 signalr
+siterecovery
 smb
 sql
 sqlagent
@@ -200,6 +226,7 @@ sqlvirtualmachine
 ssas
 ssis
 ssl
+stackhcivm
 storage
 storageaccount
 storagesync
@@ -210,14 +237,18 @@ support
 system
 tabular
 tags
+tdd
 teams
 text
+toast
 trafficmanager
 trusted-host
 uefi
+unit_testing
 update
 usageaggregates
 users
+utilities
 virtualmachine
 virtualnetwork
 vm
@@ -226,8 +257,10 @@ website
 websites
 windows
 windows-features
+windows10
 windowspackagemanager
 winget
+wsman
 xevents
 xml
 zip
