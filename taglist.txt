@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 06 January 2025 09:52:15 UTC
+Updated: Monday, 06 January 2025 17:52:08 UTC
 
 .bat
 .env
@@ -155,8 +155,6 @@ ad-report
 ad-site
 adal
 adapter
-adapter-control
-adapters
 adaptive-card
 adaptivecard
 adaptivecards
@@ -198,6 +196,7 @@ admf
 admin
 admin-tools
 adminbyrequest
+admindirectory
 administration
 administrative
 administrativeunit
@@ -240,8 +239,6 @@ adwords
 adx
 adxingestion
 aem
-aeries
-aeriessis
 aes
 aesgcm
 afd
@@ -373,6 +370,7 @@ ansible-control-node
 ansible-playbook
 ansible-vault
 ansiblecontrolnode
+ansibletower
 anthropic
 anti-malware
 antimalwarescaninterface
@@ -439,6 +437,7 @@ applicationmigration
 applicationmonitor
 applications
 applocker
+apply
 appmgmtcontrol
 apppool
 appraiser
@@ -668,6 +667,7 @@ aws.tools.powershell
 awsbedrock
 awscli
 awspricelist
+awx
 axapta
 axcient
 axcient_x360recover
@@ -767,6 +767,7 @@ azurerepos
 azureresourceinventory
 azureresourcemanager
 azureresources
+azureresourcestuff
 azurerestapispecs
 azurerm
 azurerms
@@ -864,7 +865,6 @@ ber
 bestpractice
 bestpractices
 bginfo
-bgp
 bi
 bibliography
 bibtex
@@ -1057,6 +1057,7 @@ calendar
 callingcode
 callout
 callqueue
+calvin-and-hobbes
 cam
 camera
 cameras
@@ -1169,6 +1170,7 @@ chat
 chatbot
 chatgpt
 chatops
+chatroom
 chatter
 cheat
 check
@@ -1644,6 +1646,7 @@ crc32
 create
 createcolumn
 createdatabase
+createfile
 createprocessasuser
 createschema
 createtable
@@ -1783,7 +1786,6 @@ dangling
 dapr
 dare
 dark
-darktrace
 dash
 dashboard
 dashboardapi
@@ -1937,7 +1939,6 @@ dell
 dellemc
 delta
 demand
-demandsignal
 demo
 democratie
 demonstration
@@ -1967,6 +1968,7 @@ desktopvirtualization
 details
 detect
 detection
+detectionrule
 deutschland
 dev
 dev-tools
@@ -2042,8 +2044,6 @@ dirkjan
 dirname
 dirsync
 disa
-disable
-disable-internet
 disable-psremoting
 disablefilesyncngsc
 disablestartbutton
@@ -2053,6 +2053,7 @@ disasterrecovery
 disconnect
 discord
 discordrpc
+discount
 discover
 discovery
 discutils
@@ -2310,6 +2311,7 @@ easylife365
 easyvista
 eaton
 ebay
+ebooks
 ebur128
 ec2
 ecommerce
@@ -2381,8 +2383,6 @@ emotion
 empire
 empty
 emwarehouse
-enable
-enable-internet
 enable-psremoting
 enable-psremotingremote
 enbrea
@@ -2431,6 +2431,7 @@ environments
 environmentvariable
 environmentvariables
 envvar
+envvars
 eol
 eop
 eperl
@@ -2593,7 +2594,6 @@ extend
 extended
 extendedattributes
 extendedevents
-extendedgroups
 extendedproperties
 extendedproperty
 extendscript
@@ -2820,7 +2820,6 @@ formatdata
 formatformat-tableformat-listformat-wideformat-customformat-defaultout-defaultout-fileout-hostout-printerout-string
 formatting
 forms
-fortiauth
 forticlient
 fortify
 fortifyondemand
@@ -3222,7 +3221,6 @@ healthcare
 healthcareapis
 healthcheck
 healthchecks
-healthdataaiservices
 healthservice
 healthz
 heartbeatdiscovery
@@ -3262,7 +3260,6 @@ hidden
 hide
 hids
 hiera
-hierarchialdistributionlist
 hierarchical
 hierarchy
 high-availability
@@ -3598,7 +3595,6 @@ inventory
 investigation
 investment
 investments
-invitation
 invocation
 invoice
 invoke
@@ -3728,6 +3724,7 @@ jnet
 jnetps
 joat
 job
+jobcan
 jobs
 jobscheduler
 johnshopkins
@@ -3910,7 +3907,6 @@ latestupdate
 latin
 latitude
 launcher
-layer
 layman
 layout
 lazywinadmin
@@ -3993,8 +3989,6 @@ linux-command
 linux-style
 linuxssh
 liquid
-liquit
-liquit.com
 list
 list_files
 list-directory
@@ -4026,6 +4020,7 @@ local-policy
 local-users
 localaccounts
 localadmin
+localconfigurationmanager
 localdb
 localdirectories
 locale
@@ -4033,7 +4028,6 @@ localgroup
 localgroupmember
 localization
 localpolicy
-localuser
 location
 locationbasedservices
 lock
@@ -4150,7 +4144,6 @@ macosx
 macro
 macros
 madlib
-magazine
 magento
 magic8ball
 magicpacket
@@ -4198,7 +4191,6 @@ managementdashboard
 managementgroups
 managementpoint
 manager
-mangement
 manifest
 manual
 map
@@ -4215,6 +4207,7 @@ markdig
 markdown
 markdownrender
 marketing
+marketo
 marketplace
 marketplaceordering
 marketplaceprivateoffer
@@ -4383,7 +4376,6 @@ microsoftteamsdevices
 microsoftteamsphone
 microsoftword
 middleware
-midserver
 migrate
 migration
 migration-tool
@@ -4565,6 +4557,7 @@ multipass
 multiple
 multiserver
 multistring
+multithread
 multithreaded
 multithreaded-helpers
 multithreading
@@ -4636,6 +4629,8 @@ neonpostgres
 neovim
 neptune
 nerdfonts
+nerdio
+nerdioapi
 nerdymishka
 nessus
 nested
@@ -4694,6 +4689,7 @@ new-dtcmtasksequencefromdriverpackpackagedefinitionsms
 new-dynamicdictionary
 new-dynamicparameter
 new-githubrelease
+new-item
 new-itemproperty
 new-modulemanifest
 new-pinneditem
@@ -4736,6 +4732,7 @@ nlm
 nlog
 nmap
 nmbell
+nmm
 nntp
 node
 nodejs
@@ -4966,6 +4963,7 @@ operationalinsights
 operations
 operationsmanagementsuite
 operationsmanagementsuiteagent
+operationvalidation
 operatoraccesscontrol
 opml
 ops
@@ -5290,8 +5288,6 @@ ply
 pmp
 pncit
 pnp
-pnp.powershell
-pnpm
 poc
 pode
 poe
@@ -5397,6 +5393,7 @@ poshy-wrap-pip
 poshy-wrap-pipenv
 poshy-wrap-pyenv
 poshy-wrap-pylint
+poshy-wrap-python
 poshy-wrap-ruby
 poshy-wrap-systemctl
 poshy-wrap-terraform
@@ -5411,6 +5408,7 @@ poshy-wrap-yum
 poshy-wrap-zypper
 position
 post
+postcode
 postgre
 postgres
 postgresql
@@ -5660,12 +5658,14 @@ psake
 psappdeploytoolkit
 psat
 psazd
+psbackup
 psbbix
 psbicep
 psc
 pscandy
 psclient
 pscmdlet
+pscommand__python3
 pscommand_--
 pscommand_..
 pscommand_...
@@ -6918,6 +6918,8 @@ pscommand_invoke-zypperversioncompare
 pscommand_invoke-zypperwhatprovides
 pscommand_invokeyumgrouplist
 pscommand_ips
+pscommand_ipy
+pscommand_ipython
 pscommand_jump
 pscommand_k
 pscommand_kaf
@@ -7167,8 +7169,12 @@ pscommand_pushgr
 pscommand_pvenv
 pscommand_pwh
 pscommand_pwshrc-show-proxy
+pscommand_py
 pscommand_pyenv
 pscommand_pylint-quick
+pscommand_pyserver
+pscommand_python
+pscommand_python3
 pscommand_rb
 pscommand_read-dotenv
 pscommand_register-argcompleteargumentcompleter
@@ -7235,6 +7241,7 @@ pscommand_set-locationup5
 pscommand_sgem
 pscommand_show-gitremote
 pscommand_show-proxy
+pscommand_shttp
 pscommand_shuf
 pscommand_sl
 pscommand_ssh-add-all
@@ -7491,6 +7498,7 @@ psfitbit
 psfive9
 psfive9admin
 psfoldersize
+psfunction__python3
 psfunction_aar
 psfunction_add_ssh
 psfunction_add-envpathitem
@@ -8385,6 +8393,7 @@ psfunction_publish-gitrepositorytosvn
 psfunction_push-gitstashentry
 psfunction_push-gitstashentrywithmessage
 psfunction_pwshrc-show-proxy
+psfunction_pyserver
 psfunction_read-dotenv
 psfunction_register-argcompleteargumentcompleter
 psfunction_remove-dockercontainerall
@@ -8446,6 +8455,7 @@ psfunction_set-locationup4
 psfunction_set-locationup5
 psfunction_show-gitremote
 psfunction_show-proxy
+psfunction_shttp
 psfunction_shuf
 psfunction_ssh-add-all
 psfunction_ssh-disable-proxy
@@ -8567,7 +8577,6 @@ psprofiler
 psproject
 psprojectcreator
 psprojectgenerator
-psprovider
 psprtg
 pspublicapi
 psql
@@ -8576,7 +8585,6 @@ psreadexif
 psreadline
 psreminder
 psremoting
-psrepository
 psresource
 psresourceget
 psrule
@@ -8672,6 +8680,7 @@ pylint
 pyranja
 python
 python-for-dotnet
+python3
 qatam
 qcloud
 qconvergeconsolepowerkit
@@ -8679,7 +8688,9 @@ qemu
 qlgc_fc_powerkit
 qlik
 qlik-api
+qlik-sense
 qlik-view
+qliksesne
 qlikview
 qlikview-cli
 qlogic
@@ -8694,6 +8705,7 @@ qr-code
 qrcode
 qrcodes
 qrp
+qrs
 quality
 qualys
 quandl
@@ -8744,6 +8756,7 @@ random-password-generator
 randompassword
 randomuser
 randomusers
+range
 rangescan
 rangetocidr
 ransomware_recovery
@@ -8794,6 +8807,7 @@ realschule
 realtimeprotection
 rebase
 reboot
+rebootnodeifneeded
 reckon
 recommendation
 reconcile
@@ -9103,6 +9117,7 @@ runner
 runspace
 runspacepool
 runspaces
+runtime
 runtimedefinedparameter
 runtimedefinedparameterdictionary
 runway
@@ -9125,6 +9140,7 @@ safeguard
 sage
 saggiehaim
 sailpoint
+sale
 sales
 salesforce
 salesloft
@@ -9410,7 +9426,6 @@ sessions
 set
 set_bios
 set-alias
-set-dnsservers
 set-githubsecrets
 set-itemproperty
 set-location
@@ -9467,6 +9482,7 @@ shares
 sheets
 shell
 shell-art
+shell-integration
 shells
 shieldedvm
 ships
@@ -9495,6 +9511,7 @@ sid
 sidecar
 siem
 sif
+sigma
 sign
 signalfx
 signalr
@@ -9525,6 +9542,7 @@ site_navigation
 sitecollection
 siteconfiguration
 sitecore
+sitecoresearch
 sitemaintenance
 sitemap
 siterecovery
@@ -9697,7 +9715,6 @@ spejder
 spellcheck
 spelling
 spf
-spfx
 sphere
 spi
 spicetify
@@ -9765,6 +9782,7 @@ sqlvirtualmachine
 sqlvm
 sqr
 sqrt
+square
 squire
 srcds
 srcsrv
@@ -9876,6 +9894,7 @@ storefront
 storeonce
 storeserv
 strava
+streak
 stream
 streamanalytics
 streaming
@@ -10598,6 +10617,7 @@ userrightsassignment
 users
 users-management
 userworkstations
+usg
 usps
 utc
 utf-8
@@ -10982,7 +11002,6 @@ win32_operatingsystem
 win32-api
 win32appmigrationtool
 win32shutdown
-winbgp
 windchillrv&s
 window
 windows
@@ -11204,6 +11223,7 @@ xdschelper
 xdscresources
 xdt
 xenapp
+xendeskop
 xendesktop
 xero
 xevents
