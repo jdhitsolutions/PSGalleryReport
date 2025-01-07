@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 06 January 2025 17:52:08 UTC
+Updated: Tuesday, 07 January 2025 02:15:55 UTC
 
 .bat
 .env
@@ -57,7 +57,6 @@ Updated: Monday, 06 January 2025 17:52:08 UTC
 7z
 7zip
 8.1
-8ball
 9
 aa
 aac
@@ -116,11 +115,9 @@ actionplan
 actions
 activate
 activation
-activationscripts
 active
 active_directory
 active-directory
-active-plug
 activecampaign
 activedirectory
 activedirectory_delegation
@@ -155,6 +152,8 @@ ad-report
 ad-site
 adal
 adapter
+adapter-control
+adapters
 adaptive-card
 adaptivecard
 adaptivecards
@@ -168,7 +167,6 @@ add-on.module
 add-one
 add-path
 add-type
-addin
 addlevel
 addomainservices
 addon
@@ -396,7 +394,6 @@ apigee
 apigeeedge
 apimanagement
 apis
-aplication
 apm
 apmconfig
 apmcontrolplane
@@ -423,8 +420,6 @@ appian
 appinsights
 applayering
 apple
-applescript
-applescript_bridge
 application
 application-control
 application-transformer
@@ -437,7 +432,6 @@ applicationmigration
 applicationmonitor
 applications
 applocker
-apply
 appmgmtcontrol
 apppool
 appraiser
@@ -638,7 +632,6 @@ autoupdate
 autoupdate-script
 autowrapper
 autoyast
-auvik
 availability
 availabilityset
 avalara
@@ -666,7 +659,6 @@ aws-vault
 aws.tools.powershell
 awsbedrock
 awscli
-awspricelist
 awx
 axapta
 axcient
@@ -679,7 +671,6 @@ az
 az-cli
 az.runtimeenvironment
 az.stackhci
-azautomation
 azcli
 azcompute
 azd
@@ -687,7 +678,6 @@ azdisk
 azdo
 azereo
 azforensics
-azkeyvault
 aznetworking
 aznetworkinterface
 aznicdetails
@@ -865,6 +855,7 @@ ber
 bestpractice
 bestpractices
 bginfo
+bgp
 bi
 bibliography
 bibtex
@@ -986,7 +977,6 @@ brightbooking
 brightness
 britannica
 britannicaknowledgesystems
-british-gas
 brk4452
 broadcast
 broadcom
@@ -1051,7 +1041,6 @@ cache
 caf
 cal
 calc
-calculate
 calculator
 calendar
 callingcode
@@ -1522,7 +1511,6 @@ connectwise
 conservation
 console
 consoleguitools
-consoleimage
 consolemenu
 consolemusic
 consumer
@@ -1613,8 +1601,6 @@ couchbase
 couchdb
 couchpotato
 count
-count-lines-of-code
-count-loc
 countdown
 counter
 countries
@@ -1647,7 +1633,6 @@ create
 createcolumn
 createdatabase
 createfile
-createprocessasuser
 createschema
 createtable
 creationworkflowsimplification
@@ -1786,6 +1771,7 @@ dangling
 dapr
 dare
 dark
+darktrace
 dash
 dashboard
 dashboardapi
@@ -1939,6 +1925,7 @@ dell
 dellemc
 delta
 demand
+demandsignal
 demo
 democratie
 demonstration
@@ -2019,7 +2006,6 @@ difference
 dify
 dig
 digikam
-digital
 digital-forensics
 digitalforensics
 digitalocean
@@ -2044,6 +2030,8 @@ dirkjan
 dirname
 dirsync
 disa
+disable
+disable-internet
 disable-psremoting
 disablefilesyncngsc
 disablestartbutton
@@ -2070,7 +2058,6 @@ diskusage
 dism
 dismal
 display
-display_dialog
 displayresolution
 disposable
 dispose
@@ -2086,7 +2073,6 @@ distributiongroups
 distributionlist
 distributionpointgroupmembers
 distrubtionpoint
-dividends
 diving
 division
 divoom
@@ -2172,7 +2158,6 @@ dotenv
 dotfile
 dotfiles
 dotnet
-dotnet-cli
 dotnettool
 dotps1
 dots
@@ -2184,8 +2169,6 @@ downloadfacebookvideo
 downloadfilefromsite
 downloadinfo
 downloading
-downloadoffice
-downloadofficertool
 downloads
 downloadyoutubevideo
 dozent
@@ -2280,7 +2263,6 @@ dvr
 dword
 dxexpeditions
 dynamic
-dynamic-host-configuration-protocol
 dynamic-privileged-access
 dynamicdistributiongroups
 dynamicdistributionlist
@@ -2305,6 +2287,7 @@ dynatraceobservability
 dz
 e-mail
 e1
+earthquakes
 easy
 easy-to-use
 easylife365
@@ -2383,6 +2366,8 @@ emotion
 empire
 empty
 emwarehouse
+enable
+enable-internet
 enable-psremoting
 enable-psremotingremote
 enbrea
@@ -2594,6 +2579,7 @@ extend
 extended
 extendedattributes
 extendedevents
+extendedgroups
 extendedproperties
 extendedproperty
 extendscript
@@ -2731,7 +2717,6 @@ finance
 finance&operations
 financeandoperations
 financeoperations
-finances
 financial
 financialedge
 financials
@@ -2739,7 +2724,6 @@ find
 find-call
 find-caller
 find-file
-find-path
 finddownloadlinkfromwebsite
 findfile
 findlocation
@@ -2820,6 +2804,7 @@ formatdata
 formatformat-tableformat-listformat-wideformat-customformat-defaultout-defaultout-fileout-hostout-printerout-string
 formatting
 forms
+fortiauth
 forticlient
 fortify
 fortifyondemand
@@ -2983,7 +2968,6 @@ get-openfiles
 get-pass
 get-passivetrippoint
 get-passlist
-get-path
 get-pinneditem
 get-samcmassignedsite
 get-samcmcurrentmanagementpoint
@@ -3012,7 +2996,6 @@ git-flow
 git-lfs
 git-proxy
 git-rename
-git-stat
 gitcmdline
 gitdesktop
 gitea
@@ -3221,11 +3204,11 @@ healthcare
 healthcareapis
 healthcheck
 healthchecks
+healthdataaiservices
 healthservice
 healthz
 heartbeatdiscovery
 heat
-heating
 heavenbay
 helium
 helix
@@ -3276,7 +3259,6 @@ history
 historyninja
 hitrust
 hive
-hivehome
 hjson
 hkcu
 hkey_classes_root
@@ -3312,7 +3294,6 @@ hostname
 hosts
 hosts-file
 hostsfile
-hot-water
 hotkey
 hotkeys
 howto
@@ -3365,7 +3346,6 @@ humor
 humorous
 humour
 hunter
-hwid
 hybrid
 hybridrunbookworker
 hyper-v
@@ -3522,7 +3502,6 @@ initialization
 initials-avatar
 initiator
 inline-progress
-inlineimageprotocol
 inlineprogress
 innerjoin
 innertext
@@ -3549,8 +3528,6 @@ installationmanager
 installedapplications
 installer
 installers
-installoffice
-installofficertool
 installwindows
 instance
 instant
@@ -3595,6 +3572,7 @@ inventory
 investigation
 investment
 investments
+invitation
 invocation
 invoice
 invoke
@@ -3633,7 +3611,6 @@ ipcalc
 ipcalculator
 ipconfig
 iperf
-ipfy.org
 iphone
 ipilot
 iplookup
@@ -3825,7 +3802,6 @@ kindle
 kinetic
 kinopoisk
 kintone
-kittygraphicsprotocol
 klantcontroles
 kms
 knapsack
@@ -3855,12 +3831,9 @@ kubernetes
 kubernetesconfiguration
 kubesnapit
 kubespray
-kubetidy
 kudu
 kurukuru
 kusto
-kusto.data
-kusto.ingest
 kvm
 kvp
 l1tf
@@ -3907,6 +3880,7 @@ latestupdate
 latin
 latitude
 launcher
+layer
 layman
 layout
 lazywinadmin
@@ -3989,6 +3963,8 @@ linux-command
 linux-style
 linuxssh
 liquid
+liquit
+liquit.com
 list
 list_files
 list-directory
@@ -4013,7 +3989,6 @@ loader
 loadtesting
 loanddepot
 loandepot
-loc
 local
 local-caching
 local-policy
@@ -4028,6 +4003,7 @@ localgroup
 localgroupmember
 localization
 localpolicy
+localuser
 location
 locationbasedservices
 lock
@@ -4087,7 +4063,6 @@ logonright
 logonscript
 logontask
 logonto
-logonuser
 logparser
 logrotate
 logrotation
@@ -4144,6 +4119,7 @@ macosx
 macro
 macros
 madlib
+magazine
 magento
 magic8ball
 magicpacket
@@ -4156,8 +4132,6 @@ mailgroupmember
 mailing
 mailkit
 mails
-main
-main-menu
 maintain-module
 maintenance
 maintenance-window
@@ -4176,7 +4150,6 @@ managed
 managed-identity
 manageddevices
 manageddisks
-managedidentities
 managedidentity
 managednetworkfabric
 managedserviceidenity
@@ -4191,6 +4164,7 @@ managementdashboard
 managementgroups
 managementpoint
 manager
+mangement
 manifest
 manual
 map
@@ -4221,7 +4195,6 @@ marvell_semiconductor_inc
 marvellfcpowerkit
 marvellfcprovider
 marvellqlogicfcpowerkit
-mas
 mask
 mass
 masstransit
@@ -4267,7 +4240,6 @@ mdx
 me4024
 mean
 measure
-measure-loc
 measure-process
 mecm
 media
@@ -4295,7 +4267,6 @@ memorydump
 memorystream
 mention
 menu
-menus
 meraki
 merakiapi
 mercurial
@@ -4363,7 +4334,6 @@ microsoftfabric
 microsoftgraph
 microsoftgraphapi
 microsoftgraphrestapi
-microsofthealth
 microsoftintune
 microsoftmvp
 microsoftoffice
@@ -4490,7 +4460,6 @@ msaccess
 msacpi_thermalzonetemperature
 msal
 msauth
-msband
 msbi
 msbuild
 msdeploy
@@ -4548,7 +4517,6 @@ multi-language
 multi-platform
 multi-tenant
 multi-threading
-multi-zone
 multicloud
 multidimenstional
 multimedia
@@ -4625,7 +4593,6 @@ nederland
 nedyalkov
 nemovote
 neo4j
-neonpostgres
 neovim
 neptune
 nerdfonts
@@ -5056,7 +5023,6 @@ owner
 oxygen
 oxyplot
 p2000
-p2s
 pa1reg
 paas
 pac
@@ -5288,13 +5254,14 @@ ply
 pmp
 pncit
 pnp
+pnp.powershell
+pnpm
 poc
 pode
 poe
 poem
 poetry
 point
-point-to-site
 pointer
 pokeapi
 pokedex
@@ -5383,7 +5350,6 @@ poshy-wrap-git
 poshy-wrap-git-flow
 poshy-wrap-git-lfs
 poshy-wrap-golang
-poshy-wrap-helm
 poshy-wrap-kubectl
 poshy-wrap-maven
 poshy-wrap-nginx
@@ -5536,7 +5502,6 @@ prettyprinter
 preview
 previousversions
 price
-pricelist
 primenumber
 primera
 principal
@@ -5549,7 +5514,6 @@ printing
 printnightmare
 printserver
 prism
-prism_element
 privacy
 private
 private-key
@@ -5658,7 +5622,6 @@ psake
 psappdeploytoolkit
 psat
 psazd
-psbackup
 psbbix
 psbicep
 psc
@@ -6359,11 +6322,7 @@ pscommand_gup
 pscommand_gus
 pscommand_gwc
 pscommand_gwch
-pscommand_h
-pscommand_hin
 pscommand_hostname
-pscommand_hse
-pscommand_hup
 pscommand_invoke-aptcachepolicy
 pscommand_invoke-aptcachesearch
 pscommand_invoke-aptcacheshowpkg
@@ -6516,10 +6475,6 @@ pscommand_invoke-goversion
 pscommand_invoke-govet
 pscommand_invoke-gowork
 pscommand_invoke-greppipfreeze
-pscommand_invoke-helm
-pscommand_invoke-helminstall
-pscommand_invoke-helmsearch
-pscommand_invoke-helmupgrade
 pscommand_invoke-kubectl
 pscommand_invoke-kubectlallnamespaces
 pscommand_invoke-kubectlapplyfromfile
@@ -7930,10 +7885,6 @@ psfunction_invoke-goversion
 psfunction_invoke-govet
 psfunction_invoke-gowork
 psfunction_invoke-greppipfreeze
-psfunction_invoke-helm
-psfunction_invoke-helminstall
-psfunction_invoke-helmsearch
-psfunction_invoke-helmupgrade
 psfunction_invoke-kubectl
 psfunction_invoke-kubectlallnamespaces
 psfunction_invoke-kubectlapplyfromfile
@@ -8537,7 +8488,6 @@ psgraylog
 pshdhomerun
 pshot
 pshtml
-psimport
 psincludes_cmdlet
 psincludes_command
 psincludes_function
@@ -8577,14 +8527,15 @@ psprofiler
 psproject
 psprojectcreator
 psprojectgenerator
+psprovider
 psprtg
-pspublicapi
 psql
 psraw
 psreadexif
 psreadline
 psreminder
 psremoting
+psrepository
 psresource
 psresourceget
 psrule
@@ -8624,7 +8575,6 @@ pubg
 public
 public-key
 public-transport
-publicapi
 publicclient
 publicfolder
 publicholidays
@@ -8632,7 +8582,6 @@ publicip
 publish
 publish-module
 publishedmodules
-publisher
 publishers
 publishing
 pubsub
@@ -8650,7 +8599,6 @@ pure
 pure1
 pureservice
 purestorage
-purfew
 purple
 purview
 push
@@ -8679,7 +8627,6 @@ pykick
 pylint
 pyranja
 python
-python-for-dotnet
 python3
 qatam
 qcloud
@@ -8756,7 +8703,6 @@ random-password-generator
 randompassword
 randomuser
 randomusers
-range
 rangescan
 rangetocidr
 ransomware_recovery
@@ -8842,7 +8788,6 @@ redis
 redisenterprisecache
 redistributables
 redkite
-redseal
 redshift
 redteaming
 redundancy
@@ -8924,7 +8869,6 @@ remove
 remove-githubsecrets
 remove-itemproperty
 remove-pass
-remove-path
 remove-pinneditem
 remove-tempfiles
 removefile
@@ -9010,7 +8954,6 @@ reverse-engineer
 reverse-string
 reversed-color-text
 reversedsc
-reverseengineering
 review
 revision
 reword
@@ -9426,6 +9369,7 @@ sessions
 set
 set_bios
 set-alias
+set-dnsservers
 set-githubsecrets
 set-itemproperty
 set-location
@@ -9499,7 +9443,6 @@ shortcuts
 shortpath
 shotgun
 show
-show-command
 show-objecttree
 show-on-command
 showdemo
@@ -9585,7 +9528,6 @@ smartarray
 smartarraycmdlets
 smarthome
 smartsheet
-smartwatch
 smash
 smb
 smb1
@@ -9715,6 +9657,7 @@ spejder
 spellcheck
 spelling
 spf
+spfx
 sphere
 spi
 spicetify
@@ -9821,7 +9764,6 @@ stackhci
 stackhcivm
 stackmonitoring
 stackoverflow
-staff
 staffhub
 staging
 stale
@@ -9876,7 +9818,6 @@ stigrepo
 stingar
 stock
 stockcharts
-stocks
 stoicism
 stoics
 stolpe.io
@@ -9920,9 +9861,7 @@ stt
 studio
 style
 su
-sub
 sub-directory
-sub-menu
 subatomix
 subjectname
 sublimetext
@@ -10042,7 +9981,6 @@ systeminfo
 systeminformation
 systemlocale
 systems
-systemsplash
 systray
 t
 t-sql
@@ -10219,7 +10157,6 @@ thecrushingemptinessofquotidianexistence
 theme
 themes
 thermal
-thermostat
 thinprint
 third-party-libraries
 third-party-notice
@@ -10305,7 +10242,6 @@ torrents
 toshiba
 totp
 touch
-toughswitch
 tower
 tphubps
 tpm
@@ -10465,7 +10401,6 @@ ud-loadingoverlay
 ud-minesweeper
 ud-mouseparticle
 ud-navbarsearch
-ud-numbermask
 ud-orgchart
 ud-piechart3d
 ud-pivottable
@@ -10618,6 +10553,7 @@ users
 users-management
 userworkstations
 usg
+usgs
 usps
 utc
 utf-8
@@ -10702,7 +10638,6 @@ verify
 version
 versioning
 versionmanager
-versionnumber
 vertical
 vester
 vhd
@@ -10804,7 +10739,6 @@ vpc
 vpg
 vplex
 vpn
-vpn-certificate
 vpro
 vps
 vra
@@ -10860,7 +10794,6 @@ wakeup
 walk
 wallet
 wallpaper
-wallpapers
 wannacry
 wansi
 wap
@@ -10943,7 +10876,6 @@ wemsdk
 wer
 wget
 what3words
-whatismyip
 whatsnew
 whatsupgold
 whd
@@ -11002,6 +10934,7 @@ win32_operatingsystem
 win32-api
 win32appmigrationtool
 win32shutdown
+winbgp
 windchillrv&s
 window
 windows
