@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Wednesday, 08 January 2025 09:52:11 UTC
+Updated: Wednesday, 08 January 2025 17:52:02 UTC
 
 .bat
 .env
@@ -299,7 +299,6 @@ alero
 alert
 alerting
 alertmail
-alertmanagement
 alerts
 alertsmanagement
 alfresco
@@ -384,6 +383,7 @@ antivirus
 anws
 any
 anypackage
+anypoint
 anywhere
 aovpn psmodule
 apache
@@ -598,7 +598,6 @@ authorisation
 authority
 authorization
 authorizationheaders
-authorize.net
 authz
 autify
 auto
@@ -974,7 +973,6 @@ box
 bpmn
 brainy
 branch
-branch-rename
 brave
 brawlapi
 brawlstars
@@ -1932,6 +1930,7 @@ defenderforendpoint
 defenderforidentity
 defense
 deflate
+defrag
 delegateaccesscontrol
 delegated
 delegation
@@ -2526,6 +2525,7 @@ eventviewer
 eventwatch
 evergreen
 everix
+evernote
 everydaypowershell
 everydayrewards
 everything
@@ -2959,6 +2959,8 @@ genetic-algorithm
 genp
 genxdev
 geo
+geocache
+geocaching
 geocode
 geoencode
 geoencoding
@@ -3021,7 +3023,6 @@ git-clone
 git-flow
 git-lfs
 git-proxy
-git-rename
 git-stat
 gitcmdline
 gitdesktop
@@ -3125,6 +3126,7 @@ greynoise
 grid
 gridfs
 grok
+groundspeak
 group
 group-membership
 group-policy
@@ -3270,7 +3272,6 @@ hidden
 hide
 hids
 hiera
-hierarchialdistributionlist
 hierarchical
 hierarchy
 high-availability
@@ -3329,7 +3330,6 @@ hotkeys
 howto
 hp
 hpc
-hpcc
 hpccache
 hpe
 hpealletra6000andnimblestoragepowershelltoolkit
@@ -3788,13 +3788,11 @@ kafka
 kaminario
 karabiner
 karabiner-elements
-karma
 kaseya
 kaseyavsa
 kaspersky
 katakana
 kb
-kb4
 kbarticle
 kdbx
 kdialog
@@ -4558,6 +4556,8 @@ msu
 msvc
 msword
 mta-sts
+mule
+mulesoft
 multi
 multi-factor
 multi-language
@@ -4645,6 +4645,8 @@ neonpostgres
 neovim
 neptune
 nerdfonts
+nerdio
+nerdioapi
 nerdymishka
 nessus
 nested
@@ -4746,6 +4748,7 @@ nlm
 nlog
 nmap
 nmbell
+nmm
 nntp
 node
 nodejs
@@ -4983,7 +4986,9 @@ ops
 opsi
 opsmgr
 optics
+optimise
 optimization
+optimize
 optimized
 optimizer
 option
@@ -5097,7 +5102,6 @@ pagination
 paloalto
 paloaltonetworks
 pam
-panels
 pansies
 panther
 panzerbjrn
@@ -5501,6 +5505,7 @@ powershellise
 powershelllogger
 powershellml
 powershellmodule
+powershellmoduleupdate
 powershellpr0mpt
 powershellremoting
 powershellscript
@@ -8693,6 +8698,7 @@ pyranja
 python
 python-for-dotnet
 python3
+qatam
 qcloud
 qconvergeconsolepowerkit
 qemu
@@ -8767,6 +8773,7 @@ random-password-generator
 randompassword
 randomuser
 randomusers
+range
 rangescan
 rangetocidr
 ransomware_recovery
@@ -8942,9 +8949,6 @@ removetypeaccelerators
 remux
 ren-isac
 rename
-rename-git
-rename-git-branch
-rename-gitbranch
 reonboarding
 repair
 repair-msauth
@@ -9284,6 +9288,7 @@ sd
 sddl
 sdk
 sdn
+sdp
 search
 search-adminauditlog
 search-engines
@@ -9305,7 +9310,6 @@ secrets
 secretsanta
 secretscanner
 secretserver
-secretsmanagement
 secretsmanager
 secretstore
 secretvault
@@ -9582,6 +9586,7 @@ skytap
 slack
 slash
 slashcommands
+sleeper
 slideshow
 slmgr
 sln
@@ -10206,7 +10211,6 @@ text-to-image
 text-to-speach"
 text-to-speech
 text2image
-textanalysis
 textbuffer
 textgeneration
 texting
@@ -10425,6 +10429,7 @@ twitter
 twitter-api
 twitter-api-v2
 twitter-client
+twitter-follow
 twitter-hashtag
 twitter-mention
 twitter-share
