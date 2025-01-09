@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Wednesday, 08 January 2025 17:52:02 UTC
+Updated: Thursday, 09 January 2025 02:30:10 UTC
 
 .bat
 .env
@@ -374,7 +374,6 @@ ansible-control-node
 ansible-playbook
 ansible-vault
 ansiblecontrolnode
-ansibletower
 anthropic
 anti-malware
 antimalwarescaninterface
@@ -564,6 +563,7 @@ atom
 atp
 atrium
 att&ck
+attach
 attestation
 attila
 attribute
@@ -598,6 +598,7 @@ authorisation
 authority
 authorization
 authorizationheaders
+authorize.net
 authz
 autify
 auto
@@ -670,7 +671,6 @@ aws.tools.powershell
 awsbedrock
 awscli
 awspricelist
-awx
 axapta
 axcient
 axcient_x360recover
@@ -703,7 +703,6 @@ azsk
 azsql
 azstackhci
 azstate
-azsubnet
 aztools
 azts
 azuead
@@ -973,6 +972,7 @@ box
 bpmn
 brainy
 branch
+branch-rename
 brave
 brawlapi
 brawlstars
@@ -1790,7 +1790,6 @@ dangling
 dapr
 dare
 dark
-darktrace
 dash
 dashboard
 dashboardapi
@@ -2437,6 +2436,7 @@ enumerable
 env
 environment
 environment-variables
+environmentmanagent
 environmentmodules
 environments
 environmentvariable
@@ -2529,6 +2529,7 @@ evernote
 everydaypowershell
 everydayrewards
 everything
+evilprince2009
 evolutionary-algorithms
 evolutionary-database
 evtx
@@ -3023,6 +3024,7 @@ git-clone
 git-flow
 git-lfs
 git-proxy
+git-rename
 git-stat
 gitcmdline
 gitdesktop
@@ -3196,7 +3198,6 @@ hardensysvol
 hardlink
 hardmatch
 hardware
-harperdb
 hartokens
 harvest
 harvestforecast
@@ -3272,6 +3273,7 @@ hidden
 hide
 hids
 hiera
+hierarchialdistributionlist
 hierarchical
 hierarchy
 high-availability
@@ -3345,6 +3347,7 @@ hpeosprovisioncmdlets
 hpesmartarraycmdlets
 hpesynergy
 hponeview
+hpwritemanager
 hris
 hrprovisioning
 hsdp
@@ -3788,11 +3791,13 @@ kafka
 kaminario
 karabiner
 karabiner-elements
+karma
 kaseya
 kaseyavsa
 kaspersky
 katakana
 kb
+kb4
 kbarticle
 kdbx
 kdialog
@@ -4645,8 +4650,6 @@ neonpostgres
 neovim
 neptune
 nerdfonts
-nerdio
-nerdioapi
 nerdymishka
 nessus
 nested
@@ -4748,7 +4751,6 @@ nlm
 nlog
 nmap
 nmbell
-nmm
 nntp
 node
 nodejs
@@ -5146,7 +5148,6 @@ passwordexpiration
 passwordexpiry
 passwordgeneration
 passwordgenerator
-passwordgenerators
 passwordhashing
 passwordless
 passwordlock
@@ -5536,6 +5537,7 @@ predictive-text
 predictor
 preferences
 prefix
+prefixing
 preparead
 preparealldomains
 prepareschema
@@ -8553,6 +8555,7 @@ psgraylog
 pshdhomerun
 pshot
 pshtml
+psimport
 psincludes_cmdlet
 psincludes_command
 psincludes_function
@@ -8650,7 +8653,6 @@ publish
 publish-module
 publishedmodules
 publisher
-publishers
 publishing
 pubsub
 pubxml
@@ -8661,7 +8663,6 @@ pulseway
 pulumi
 punycode
 puppet
-puppetdb
 puppy
 pure
 pure1
@@ -8898,7 +8899,6 @@ regression
 regular-expression
 regularexpression
 regularexpressions
-reinstall
 relational
 relativity
 relay
@@ -8949,6 +8949,9 @@ removetypeaccelerators
 remux
 ren-isac
 rename
+rename-git
+rename-git-branch
+rename-gitbranch
 reonboarding
 repair
 repair-msauth
@@ -9310,6 +9313,7 @@ secrets
 secretsanta
 secretscanner
 secretserver
+secretsmanagement
 secretsmanager
 secretstore
 secretvault
@@ -9946,7 +9950,6 @@ subnet
 subnet-calculator
 subnetcalculator
 subnetcalulator
-subnetdetails
 subnetmapping
 subnetmask
 subnetmaths
@@ -10211,6 +10214,7 @@ text-to-image
 text-to-speach"
 text-to-speech
 text2image
+textanalysis
 textbuffer
 textgeneration
 texting
@@ -11191,6 +11195,7 @@ write-slog
 write-wansi
 writeaccess
 writelog
+writemanager
 writeprogress
 writer
 ws-federation
