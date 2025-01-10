@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Thursday, 09 January 2025 17:52:14 UTC
+Updated: Friday, 10 January 2025 02:16:22 UTC
 
 .bat
 .env
@@ -138,7 +138,6 @@ activenetworkstation
 activenetworkstationservice
 activeresponse
 activesession
-activiti
 activities
 activity
 activitycount
@@ -165,6 +164,7 @@ adb
 adc
 adcs
 add
+add-in
 add-member
 add-on
 add-on.module
@@ -250,8 +250,6 @@ afd
 affinity
 affinity-co
 affinity-crm
-after-effects
-aftereffects
 agenda
 agent
 aggregates
@@ -528,7 +526,6 @@ asn
 asn.1
 asn1
 asnbank
-asp
 asp.net
 aspnet
 aspnet_regiis
@@ -871,6 +868,7 @@ ber
 bestpractice
 bestpractices
 bginfo
+bgp
 bi
 bibliography
 bibtex
@@ -972,7 +970,6 @@ boundaries
 boundarygroups
 bounty
 box
-bpmn
 brainy
 branch
 branch-rename
@@ -1786,6 +1783,7 @@ dacl
 dacpac
 dacpackage
 dagger
+dailen
 daily
 dalle3
 dane
@@ -2056,6 +2054,7 @@ disa
 disable
 disable-internet
 disable-psremoting
+disablefilesyncngsc
 disablestartbutton
 disablestartkey
 disasm
@@ -2260,6 +2259,7 @@ dtsx
 dtx
 du
 dual-stack
+duck
 duckdb
 duckduckgo
 ducktyping
@@ -2446,7 +2446,6 @@ envvar
 envvars
 eol
 eop
-eperl
 ephesoft
 epicor
 episode
@@ -2455,7 +2454,6 @@ eprosima
 epub
 epv
 equality
-erb
 erp
 error
 error-log
@@ -2569,6 +2567,7 @@ execute
 exexml
 exif
 exiftool
+exists
 exitcode
 exitprocessrequest
 exo
@@ -2608,7 +2607,6 @@ extendedevents
 extendedgroups
 extendedproperties
 extendedproperty
-extendscript
 extensibility
 extension
 extensionmethods
@@ -3079,11 +3077,6 @@ googledrive
 googlemap
 googlemaps
 googleworkspace
-gopher
-gopher-tls
-gopher+
-gopherplus
-gophers
 governance
 governancerulescontrolplane
 gp
@@ -3250,6 +3243,7 @@ helloworld
 helm
 helmet
 help
+helpdesk
 helpdoc
 helper
 helper-functions
@@ -3449,7 +3443,6 @@ iem
 ifconfig
 ifttt
 igel
-igr
 ihs
 iiittttt
 iis
@@ -3732,6 +3725,7 @@ jenkins
 jetbrains
 jira
 jiraservicemanagement
+jitbit
 jms
 jmsjavadownloads
 jnet
@@ -3765,7 +3759,6 @@ jsonwebencryption
 jsonwebkey
 jsonwebsignature
 jsonwebtoken
-jsp
 jumbo
 jump
 jump-location
@@ -4160,6 +4153,7 @@ macmon
 macos
 macosx
 macro
+macros
 madlib
 magazine
 magento
@@ -4259,6 +4253,7 @@ maven
 max
 max_path
 maximum
+maxoffice
 mazerat
 mb
 mbc
@@ -5064,7 +5059,6 @@ output
 output-to-image
 outreach
 outsystems
-overbite
 ovf
 ovgd
 ovh
@@ -5342,7 +5336,6 @@ population
 popup
 port
 port-scanner
-port70
 portal
 porthunter
 ports
@@ -5395,6 +5388,7 @@ poshy-wrap-curl
 poshy-wrap-dnf
 poshy-wrap-docker
 poshy-wrap-docker-compose
+poshy-wrap-dotnet
 poshy-wrap-forgit
 poshy-wrap-gem
 poshy-wrap-gh
@@ -5543,8 +5537,6 @@ preparead
 preparealldomains
 prepareschema
 prepend
-preprocessing
-preprocessor
 presentation
 presenter
 presto
@@ -5658,7 +5650,6 @@ prtgnetworkmonitor
 ps
 ps-ncentral
 ps.credentialmanager
-ps1
 ps12exe
 ps1xml
 ps1xmlgen
@@ -5909,6 +5900,20 @@ pscommand_docker-volume-inspect
 pscommand_docker-volume-list
 pscommand_docker-volume-prune
 pscommand_docker-volume-prune-forcefully
+pscommand_dotnet-add
+pscommand_dotnet-build
+pscommand_dotnet-new
+pscommand_dotnet-nuget
+pscommand_dotnet-pack
+pscommand_dotnet-run
+pscommand_dotnet-sln
+pscommand_dotnet-test
+pscommand_dotnet-tool-list-global
+pscommand_dotnet-tool-list-local
+pscommand_dotnet-tool-update-all-global
+pscommand_dotnet-watch
+pscommand_dotnet-watch-run
+pscommand_dotnet-watch-test
 pscommand_dpo
 pscommand_dpu
 pscommand_dr
@@ -7602,6 +7607,20 @@ psfunction_docker-volume-inspect
 psfunction_docker-volume-list
 psfunction_docker-volume-prune
 psfunction_docker-volume-prune-forcefully
+psfunction_dotnet-add
+psfunction_dotnet-build
+psfunction_dotnet-new
+psfunction_dotnet-nuget
+psfunction_dotnet-pack
+psfunction_dotnet-run
+psfunction_dotnet-sln
+psfunction_dotnet-test
+psfunction_dotnet-tool-list-global
+psfunction_dotnet-tool-list-local
+psfunction_dotnet-tool-update-all-global
+psfunction_dotnet-watch
+psfunction_dotnet-watch-run
+psfunction_dotnet-watch-test
 psfunction_enable-proxy
 psfunction_encode64
 psfunction_encodefile64
@@ -8626,7 +8645,6 @@ publish
 publish-module
 publishedmodules
 publisher
-publishers
 publishing
 pubsub
 pubxml
@@ -8674,7 +8692,6 @@ pyranja
 python
 python-for-dotnet
 python3
-qatam
 qcloud
 qconvergeconsolepowerkit
 qemu
@@ -8874,7 +8891,6 @@ regression
 regular-expression
 regularexpression
 regularexpressions
-reinstall
 relational
 relativity
 relay
@@ -9010,11 +9026,9 @@ reword
 rewrite
 rexec
 rfc1305
-rfc1436
 rfc2030
 rfc3986
 rfc4007
-rfc4266
 rfc4291
 rfc5952
 rfc826
@@ -9091,6 +9105,7 @@ rsop
 rss
 rt
 rtu
+rubber
 rubrik
 rubriksecuritycloud
 ruby
@@ -9237,7 +9252,6 @@ screensaver
 screenscraping
 screenshot
 script
-script_version
 script-module
 script-to-assembly
 script-to-executable
@@ -9298,8 +9312,6 @@ secure
 secureapplicationmodel
 securechannel
 securedns
-securegopher
-securegopher+
 securemfa
 securerdp
 securescore
@@ -9440,7 +9452,6 @@ sfb
 sfc
 sftp
 sfx
-sgopher
 sgw
 sha-256
 sha-512
@@ -9572,7 +9583,6 @@ sln
 slugify
 sm
 sma
-small_web
 smart_home
 smartarray
 smartarraycmdlets
@@ -10078,6 +10088,7 @@ task_automation
 task-runner
 task-scheduler
 taskbar
+tasker
 taskgroup
 taskmanagement
 tasks
@@ -10397,7 +10408,6 @@ tutorial
 tv
 tvguide
 tweet
-twig
 twilio
 twincat
 twinkly
@@ -10557,6 +10567,7 @@ updatemgmt
 updater
 updates
 updateservices
+updmanagement
 updmgmt
 upgrade
 uplift
@@ -10894,7 +10905,6 @@ webcmdlets
 webdav
 webdeploy
 webdeveloper
-webfrequest
 webhdfs
 webhelpdesk
 webhistory
@@ -10993,6 +11003,7 @@ win32_operatingsystem
 win32-api
 win32appmigrationtool
 win32shutdown
+winbgp
 windchillrv&s
 window
 windows
@@ -11271,7 +11282,6 @@ z
 zabbix
 zabbixps
 zap
-zap-zsh
 zcat
 zendesk
 zerotrust
