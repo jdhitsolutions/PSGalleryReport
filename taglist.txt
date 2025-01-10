@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Friday, 10 January 2025 02:16:22 UTC
+Updated: Friday, 10 January 2025 09:52:12 UTC
 
 .bat
 .env
@@ -138,6 +138,7 @@ activenetworkstation
 activenetworkstationservice
 activeresponse
 activesession
+activiti
 activities
 activity
 activitycount
@@ -250,6 +251,8 @@ afd
 affinity
 affinity-co
 affinity-crm
+after-effects
+aftereffects
 agenda
 agent
 aggregates
@@ -526,6 +529,7 @@ asn
 asn.1
 asn1
 asnbank
+asp
 asp.net
 aspnet
 aspnet_regiis
@@ -741,8 +745,6 @@ azurecli
 azurecodesigning
 azurecognitiveservices
 azurecommonstuff
-azurecontainerapps
-azurecontainers
 azuredatabricks
 azuredataexplorer
 azuredatastudio
@@ -970,6 +972,7 @@ boundaries
 boundarygroups
 bounty
 box
+bpmn
 brainy
 branch
 branch-rename
@@ -1076,7 +1079,6 @@ capacity
 capacitymanagement
 capainstaller
 capasystems
-capgemini
 capslock
 captcha
 capture
@@ -1592,9 +1594,6 @@ converttohtml
 converttomarkdown
 converttomd
 cookie
-coolq
-cooltag1
-cooltag2
 coordinates
 copilot
 copy
@@ -1637,10 +1636,8 @@ cppm
 cpu
 cpuid
 cpuid-information
-cq
 cqd
 cqdpowershell
-cqhttp
 crack psmodule
 crash
 crawler
@@ -2095,6 +2092,7 @@ distributiongroups
 distributionlist
 distributionpointgroupmembers
 distrubtionpoint
+dividends
 diving
 division
 divoom
@@ -2256,7 +2254,6 @@ dsutils
 dtc
 dts
 dtsx
-dtx
 du
 dual-stack
 duck
@@ -2446,6 +2443,7 @@ envvar
 envvars
 eol
 eop
+eperl
 ephesoft
 epicor
 episode
@@ -2454,6 +2452,7 @@ eprosima
 epub
 epv
 equality
+erb
 erp
 error
 error-log
@@ -2607,6 +2606,7 @@ extendedevents
 extendedgroups
 extendedproperties
 extendedproperty
+extendscript
 extensibility
 extension
 extensionmethods
@@ -2879,7 +2879,6 @@ fslogix
 fsrm
 ftp
 ftps
-fu-msauth
 fudge
 fudgepop
 fujitsu
@@ -3077,6 +3076,11 @@ googledrive
 googlemap
 googlemaps
 googleworkspace
+gopher
+gopher-tls
+gopher+
+gopherplus
+gophers
 governance
 governancerulescontrolplane
 gp
@@ -3443,6 +3447,7 @@ iem
 ifconfig
 ifttt
 igel
+igr
 ihs
 iiittttt
 iis
@@ -3526,7 +3531,6 @@ ingestion
 ini
 inifile
 initialization
-initials-avatar
 initiator
 inline-progress
 inlineimageprotocol
@@ -3730,7 +3734,6 @@ jms
 jmsjavadownloads
 jnet
 jnetps
-joat
 job
 jobcan
 jobs
@@ -3759,6 +3762,7 @@ jsonwebencryption
 jsonwebkey
 jsonwebsignature
 jsonwebtoken
+jsp
 jumbo
 jump
 jump-location
@@ -5059,6 +5063,7 @@ output
 output-to-image
 outreach
 outsystems
+overbite
 ovf
 ovgd
 ovh
@@ -5336,6 +5341,7 @@ population
 popup
 port
 port-scanner
+port70
 portal
 porthunter
 ports
@@ -5537,6 +5543,8 @@ preparead
 preparealldomains
 prepareschema
 prepend
+preprocessing
+preprocessor
 presentation
 presenter
 presto
@@ -5650,6 +5658,7 @@ prtgnetworkmonitor
 ps
 ps-ncentral
 ps.credentialmanager
+ps1
 ps12exe
 ps1xml
 ps1xmlgen
@@ -8645,6 +8654,7 @@ publish
 publish-module
 publishedmodules
 publisher
+publishers
 publishing
 pubsub
 pubxml
@@ -8692,6 +8702,7 @@ pyranja
 python
 python-for-dotnet
 python3
+qatam
 qcloud
 qconvergeconsolepowerkit
 qemu
@@ -8709,7 +8720,6 @@ qlogicfcpowerkit
 qlogicfcprovider
 qna
 qol
-qq
 qr
 qr-code
 qrcode
@@ -8891,6 +8901,7 @@ regression
 regular-expression
 regularexpression
 regularexpressions
+reinstall
 relational
 relativity
 relay
@@ -9026,9 +9037,11 @@ reword
 rewrite
 rexec
 rfc1305
+rfc1436
 rfc2030
 rfc3986
 rfc4007
+rfc4266
 rfc4291
 rfc5952
 rfc826
@@ -9252,6 +9265,7 @@ screensaver
 screenscraping
 screenshot
 script
+script_version
 script-module
 script-to-assembly
 script-to-executable
@@ -9312,6 +9326,8 @@ secure
 secureapplicationmodel
 securechannel
 securedns
+securegopher
+securegopher+
 securemfa
 securerdp
 securescore
@@ -9339,7 +9355,6 @@ securitytxt
 sed
 seed
 seek
-seekatar
 seeshell
 select
 select-item
@@ -9368,7 +9383,6 @@ send-mailmessage
 send-message
 senderid
 sendgrid
-sendkeys
 sendmail
 sense
 sensitive
@@ -9452,6 +9466,7 @@ sfb
 sfc
 sftp
 sfx
+sgopher
 sgw
 sha-256
 sha-512
@@ -9583,6 +9598,7 @@ sln
 slugify
 sm
 sma
+small_web
 smart_home
 smartarray
 smartarraycmdlets
@@ -9880,6 +9896,7 @@ stigrepo
 stingar
 stock
 stockcharts
+stocks
 stoicism
 stoics
 stolpe.io
@@ -10408,6 +10425,7 @@ tutorial
 tv
 tvguide
 tweet
+twig
 twilio
 twincat
 twinkly
@@ -10900,11 +10918,13 @@ webapp
 webapplicationproxy
 webapps
 webauthn
+webbrowser
 webcamera
 webcmdlets
 webdav
 webdeploy
 webdeveloper
+webfrequest
 webhdfs
 webhelpdesk
 webhistory
@@ -11282,6 +11302,7 @@ z
 zabbix
 zabbixps
 zap
+zap-zsh
 zcat
 zendesk
 zerotrust
