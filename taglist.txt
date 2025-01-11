@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Saturday, 11 January 2025 02:15:29 UTC
+Updated: Saturday, 11 January 2025 09:52:08 UTC
 
 .bat
 .env
@@ -79,7 +79,6 @@ abe
 about
 abr
 abstractsyntaxtree
-abuse
 abuseipdb
 acas
 accelerator
@@ -192,7 +191,6 @@ adfstools
 adgroupmemberobjects
 adgroupmembers
 adgroups
-adidns
 adif
 adlds
 adm
@@ -219,6 +217,7 @@ adobeflash
 adobject
 adouobject
 adoxio
+adp
 adprotocol
 adr
 ads
@@ -452,6 +451,7 @@ appservice
 appservices
 appsetting
 appv
+appventix
 appveyor
 appvolumes
 appwrite
@@ -560,6 +560,7 @@ atlassian
 atlassiancli
 atlassianps
 atmosphere
+atom
 atp
 atrium
 att&ck
@@ -857,7 +858,6 @@ bearded-avenger
 bearer
 beautifier
 beautify
-bec
 beckhoff
 bedrock
 beep
@@ -943,7 +943,6 @@ blueprints
 bluesky
 blueteam
 bluetraitio
-bluetuxedo
 bmc
 bnm
 boards
@@ -1034,7 +1033,6 @@ burnttoast
 burpsuite
 bus
 business
-business_email_compromise
 businesscentral
 businessdays
 businesshours
@@ -1092,7 +1090,6 @@ cargo
 carousel
 carrier
 cartoon
-case
 cassandra
 cat
 cat-names
@@ -1382,7 +1379,6 @@ codes
 codesign
 codesigning
 codex
-coercion
 cognitiveservice
 cognitiveservices
 cohere
@@ -1432,6 +1428,7 @@ comments
 commerce
 commfort
 commit
+commits
 common
 common-data-service
 commondataservice
@@ -1448,6 +1445,7 @@ complete
 completer
 completion
 completion-manager
+completionresult
 completions
 complex
 compliance
@@ -1561,6 +1559,8 @@ control
 controller
 controlroom
 controlup
+conventional
+conventional-commits
 convereter
 converged_data_management
 conversational
@@ -1677,7 +1677,6 @@ crescendobuilt
 cresendo
 crestron
 crime
-crlf
 crm
 crm2016
 cron
@@ -1726,7 +1725,6 @@ currency
 currency-convereter
 currency-exchange
 currencyconverterapi
-current
 curseforge
 custom
 customchecks
@@ -1783,7 +1781,6 @@ dacpackage
 dagger
 dailen
 daily
-dalle3
 dane
 dangling
 dapr
@@ -2168,7 +2165,6 @@ domain
 domaincontroller
 domainkey
 domainname
-domainnamesystem
 domains
 domino
 done.land
@@ -2380,7 +2376,6 @@ emailnotification
 emailnotificationcomponent
 emailsecurity
 embedded
-embedding
 emc
 emcomm
 emergency
@@ -2403,7 +2398,6 @@ encodetext
 encoding
 encrypt
 encryption
-end-of-line
 endomondo
 endpoint
 endpoints
@@ -2490,6 +2484,7 @@ etherassist
 ethereum
 ethernet
 ethr
+ethz
 etl
 etl2pcapng
 etrade
@@ -2526,6 +2521,7 @@ evergreen
 everix
 evernote
 everydaypowershell
+everydayrewards
 everything
 evilprince2009
 evolutionary-algorithms
@@ -2669,7 +2665,6 @@ fetch
 ffmpeg
 ffprobe
 fhirservice
-fiche
 fiddler
 fido
 fido2
@@ -2852,6 +2847,8 @@ fqdn
 frame
 framework
 france
+free
+free-ware
 freeipa
 freenas
 freesoftwarefoundation
@@ -2904,7 +2901,6 @@ fzf
 gac
 gainz
 gainz-chocolateysync
-gainz-keepass
 gainz-sqldb
 gal
 gallery
@@ -3208,7 +3204,6 @@ haskell
 haste
 hastebin
 haveibeenpwned
-hawk
 hba
 hbase
 hci
@@ -3247,6 +3242,7 @@ helm
 helmet
 help
 helpdesk
+helpdoc
 helper
 helper-functions
 helperfunctions
@@ -3398,7 +3394,6 @@ iac
 iam
 iana
 iap
-ias
 ib
 ibm
 ibmc
@@ -3500,7 +3495,6 @@ importteams
 inactive
 inboxrule
 incident
-incident_response
 incident-response
 incidentresponse
 incontact
@@ -3674,6 +3668,7 @@ ish
 ishexstring
 isnumeric
 iso
+iso-3166-1
 iso-8601
 ispac
 isprime
@@ -3771,6 +3766,7 @@ junction
 junctions
 junit
 jupyter
+jupytor
 jurassic
 justenoughadministration
 jvm
@@ -3951,7 +3947,6 @@ lenovo
 less
 lesspass
 letsencrypt
-lf
 lgpo
 libgit2
 libraries
@@ -4029,7 +4024,6 @@ loc
 local
 local-caching
 local-policy
-local-users
 localaccounts
 localadmin
 localconfigurationmanager
@@ -4303,7 +4297,6 @@ meltdown
 mem
 member
 members
-membership
 memcm
 memory
 memorydump
@@ -4462,7 +4455,6 @@ mof
 moldova
 moment
 monaco
-monday
 mondoo
 money
 moneyforward
@@ -4691,7 +4683,6 @@ networkinfo
 networking
 networkinterfaces
 networkloadbalancer
-networkpolicyserver
 networkprofile
 networkscan
 networksecurity
@@ -4787,9 +4778,6 @@ npm-proxy
 npm-upgrade
 nprinting
 nprintingapi
-nps
-npslog
-npslogfile
 nql
 nrc
 nrql
@@ -4810,6 +4798,7 @@ ntsystems
 nuget
 nuget-references
 nuget.exe
+nuget.org
 number
 numlock
 nummapper
@@ -4827,7 +4816,6 @@ nvm-window
 nxt
 nyse
 nzb
-o1
 o365
 o365mailnotification
 oa
@@ -5364,10 +5352,8 @@ poshgrouppolicy
 poshkeepass
 poshlog
 poshorigin
-poshproject
 poshprtg
 poshrsjob
-poshtemplate
 poshwsus
 poshy-code-search
 poshy-colors
@@ -5400,6 +5386,7 @@ poshy-wrap-git
 poshy-wrap-git-flow
 poshy-wrap-git-lfs
 poshy-wrap-golang
+poshy-wrap-helm
 poshy-wrap-kubectl
 poshy-wrap-maven
 poshy-wrap-nginx
@@ -5414,6 +5401,7 @@ poshy-wrap-ruby
 poshy-wrap-systemctl
 poshy-wrap-terraform
 poshy-wrap-terragrunt
+poshy-wrap-tmux
 poshy-wrap-vagrant
 poshy-wrap-vault
 poshy-wrap-vscode
@@ -5448,7 +5436,6 @@ powercli
 powercligoodies
 powercommander
 powerconfiguration
-powerdex
 powerforensics
 powergraph
 powergui
@@ -5507,7 +5494,6 @@ powershellmoduleupdate
 powershellpr0mpt
 powershellremoting
 powershellscript
-powershelltemplate
 powershelltraining
 powershelltypeaccelerators
 powershelluniversal
@@ -5614,7 +5600,6 @@ project-management
 projectmanagement
 projectreunion
 projects
-projecttemplate
 projectwise
 proliant
 prometheus
@@ -6374,7 +6359,11 @@ pscommand_gup
 pscommand_gus
 pscommand_gwc
 pscommand_gwch
+pscommand_h
+pscommand_hin
 pscommand_hostname
+pscommand_hse
+pscommand_hup
 pscommand_invoke-aptcachepolicy
 pscommand_invoke-aptcachesearch
 pscommand_invoke-aptcacheshowpkg
@@ -6527,6 +6516,10 @@ pscommand_invoke-goversion
 pscommand_invoke-govet
 pscommand_invoke-gowork
 pscommand_invoke-greppipfreeze
+pscommand_invoke-helm
+pscommand_invoke-helminstall
+pscommand_invoke-helmsearch
+pscommand_invoke-helmupgrade
 pscommand_invoke-kubectl
 pscommand_invoke-kubectlallnamespaces
 pscommand_invoke-kubectlapplyfromfile
@@ -6817,6 +6810,13 @@ pscommand_invoke-terragruntplan
 pscommand_invoke-terragruntplanall
 pscommand_invoke-terragruntvalidate
 pscommand_invoke-terragruntvalidateall
+pscommand_invoke-tmuxattachforterminal
+pscommand_invoke-tmuxattachforterminaldetachingothers
+pscommand_invoke-tmuxeditconfig
+pscommand_invoke-tmuxkillserver
+pscommand_invoke-tmuxkillsessionforterminal
+pscommand_invoke-tmuxlistsessions
+pscommand_invoke-tmuxnewsessionfromsource
 pscommand_invoke-vagrantdestroy
 pscommand_invoke-vagranthalt
 pscommand_invoke-vagranthostmanager
@@ -7260,6 +7260,8 @@ pscommand_syspip
 pscommand_syspip_package_location
 pscommand_syspip3
 pscommand_syspip3_package_location
+pscommand_ta
+pscommand_tad
 pscommand_test-command
 pscommand_test-d
 pscommand_test-elevation
@@ -7287,6 +7289,14 @@ pscommand_tgp
 pscommand_tgpa
 pscommand_tgv
 pscommand_tgva
+pscommand_tkss
+pscommand_tksv
+pscommand_tl
+pscommand_tmuxconf
+pscommand_ts
+pscommand_txa
+pscommand_txl
+pscommand_txn
 pscommand_universalarchive
 pscommand_update-gitbranchbasefrombranchmain
 pscommand_update-gitbranchbasefrommain
@@ -7920,6 +7930,10 @@ psfunction_invoke-goversion
 psfunction_invoke-govet
 psfunction_invoke-gowork
 psfunction_invoke-greppipfreeze
+psfunction_invoke-helm
+psfunction_invoke-helminstall
+psfunction_invoke-helmsearch
+psfunction_invoke-helmupgrade
 psfunction_invoke-kubectl
 psfunction_invoke-kubectlallnamespaces
 psfunction_invoke-kubectlapplyfromfile
@@ -8210,6 +8224,13 @@ psfunction_invoke-terragruntplan
 psfunction_invoke-terragruntplanall
 psfunction_invoke-terragruntvalidate
 psfunction_invoke-terragruntvalidateall
+psfunction_invoke-tmuxattachforterminal
+psfunction_invoke-tmuxattachforterminaldetachingothers
+psfunction_invoke-tmuxeditconfig
+psfunction_invoke-tmuxkillserver
+psfunction_invoke-tmuxkillsessionforterminal
+psfunction_invoke-tmuxlistsessions
+psfunction_invoke-tmuxnewsessionfromsource
 psfunction_invoke-vagrantdestroy
 psfunction_invoke-vagranthalt
 psfunction_invoke-vagranthostmanager
@@ -8566,7 +8587,6 @@ psreadline
 psreminder
 psremoting
 psrepository
-psresource
 psresourceget
 psrule
 psrule-rules
@@ -8735,7 +8755,6 @@ random-date
 random-password
 random-password-generator
 randompassword
-randomuser
 randomusers
 range
 rangescan
@@ -8777,7 +8796,6 @@ rdsgw
 react-stockcharts
 read
 read-slog
-readable
 reader
 readiness
 readme
@@ -9019,7 +9037,6 @@ rights
 rightsizing
 rightsmanagement
 ring
-ripe
 risk
 riskiq
 riskpro
@@ -9160,7 +9177,6 @@ sbc
 sc
 scaffold
 scaffolding
-scaffoldingtemplate
 scala
 scalable
 scalablevectorgraphics
@@ -9597,6 +9613,7 @@ snapping
 snapshot
 snapshots
 sni
+snipe-it
 snippet
 snippets
 snippets-manager
@@ -9747,7 +9764,6 @@ sqlite
 sqlitebynarymodule
 sqlitebynarypsmodule
 sqlitemodule
-sqllocaldb
 sqlmanagementobjects
 sqlpackage
 sqlplus
@@ -10079,7 +10095,6 @@ taxonomy
 tcg
 tcp
 tcp/ip
-tcpip
 tcpport
 tcprjmgmt
 tcpserver
@@ -10129,7 +10144,6 @@ tenable.sc
 tenant
 tenantmanagercontrolplane
 teradata
-termbin
 terminal
 terminal-interface
 terminal-services
@@ -10143,6 +10157,7 @@ terraform-switcher
 terraformcloud
 terrafun
 terragrunt
+tesla
 test
 test-automation
 test-dscconfiguration
@@ -10253,6 +10268,7 @@ tls12
 tlsa
 tlsprotocol
 tlsrpt
+tmux
 to-do
 toast
 toasts
@@ -10266,7 +10282,6 @@ token
 tokenlifetime
 tokens
 toml
-tonoref
 tookit
 tool
 toolbox
@@ -10616,6 +10631,7 @@ utm
 uudecode
 uuencode
 uuid
+uw
 uwp
 ux
 v20
@@ -10838,6 +10854,7 @@ wait4x
 waitforobject
 wakeonlan
 wakeup
+walk
 wallet
 wallpaper
 wallpapers
@@ -10851,6 +10868,7 @@ warplaneporn
 warranty
 warraty
 warrenty
+wasabi
 watch
 watchdog
 watchguard
@@ -11079,6 +11097,11 @@ wired
 wireless
 wirelessnetwork
 wireshark
+wisc
+wiscmail
+wisco365
+wisconsin-madison
+wisconsin'uw-madison
 wisdom
 with
 wiz
@@ -11094,11 +11117,14 @@ wol
 wolfram
 wolframalpha
 woocommerce
+woolworths
+woolworthsrewards
 word
 word-wrap
 wordcloud
 wordlist
 wordpress
+wordwrap
 workbook
 workday
 worker
@@ -11128,6 +11154,7 @@ wow
 wpad
 wpf
 wql
+wrap
 wrap-text
 wrapper
 wrapperfunctions
