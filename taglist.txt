@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Sunday, 12 January 2025 09:52:05 UTC
+Updated: Sunday, 12 January 2025 17:52:05 UTC
 
 .bat
 .env
@@ -424,7 +424,6 @@ appdeploy
 appdeployment
 appdeploytoolkit
 appdynamics
-appearance
 appender
 appian
 appinsights
@@ -601,6 +600,7 @@ authoringtools
 authorisation
 authority
 authorization
+authorizationheaders
 authorize.net
 authz
 autify
@@ -721,7 +721,6 @@ azure-data-explorer
 azure-devops
 azure-forensics
 azure-functions
-azure-pipelines
 azure-resource-graph
 azure-ssis
 azureactivedirectory
@@ -792,6 +791,7 @@ azurestack
 azurestackhci
 azurestate
 azurestorage
+azurestorageservices
 azuresync
 azuretable
 azuretestplan
@@ -1416,7 +1416,6 @@ comdata
 comedy
 comic
 comical
-comics
 command
 command_line
 command-line-interface
@@ -1465,10 +1464,10 @@ compoundproperty
 compress
 compression
 compute
+compute-ops-management
 computecloudatcustomer
 computeinstanceagent
 computer
-computer-room
 computer-site
 computername
 computers
@@ -1680,6 +1679,7 @@ credmanager
 crescendo
 crescendobuilt
 cresendo
+crestron
 crime
 crlf
 crm
@@ -2010,7 +2010,6 @@ dfir
 dfs
 dfw
 dg
-dhash
 dhcp
 di
 diagnostic
@@ -2027,7 +2026,6 @@ diff
 difference
 dify
 dig
-digikam
 digital
 digital-forensics
 digitalforensics
@@ -2079,7 +2077,6 @@ disksize
 diskspace
 diskusage
 dism
-dismal
 display
 display_dialog
 displayresolution
@@ -2174,6 +2171,7 @@ domainkey
 domainname
 domainnamesystem
 domains
+domino
 done.land
 donothing
 dos
@@ -2209,7 +2207,6 @@ draw
 drawio
 dreams
 dreamweaver
-dreary
 drift
 driftmonitor
 drink
@@ -2570,7 +2567,6 @@ executables
 execute
 exexml
 exif
-exiftool
 exists
 exitcode
 exitprocessrequest
@@ -3053,6 +3049,7 @@ globaldashboard
 globalentry
 globallydistributeddatabase
 globbing
+glp
 glpi
 gmail
 gmap
@@ -3122,6 +3119,7 @@ graphs
 graphservices
 graphviz
 graylog
+greenlake
 greenplum
 gremlin
 grep
@@ -3210,8 +3208,6 @@ hashset
 hashtable
 hasicorp
 haskell
-haste
-hastebin
 haveibeenpwned
 hawk
 hba
@@ -3226,7 +3222,6 @@ hdinsight
 hdinsightonaks
 hdr
 header
-headhunter
 health
 health_checks
 health-check
@@ -3242,6 +3237,7 @@ heartbeatdiscovery
 heat
 heating
 heavenbay
+helium
 helix
 hello
 helloid
@@ -3262,6 +3258,7 @@ heml
 here
 hewlett
 hewlett-packard
+hewlett-packard-enterprise
 hewlett-packardenterprise
 hex
 hexdump
@@ -3277,7 +3274,6 @@ hierarchialdistributionlist
 hierarchical
 hierarchy
 high-availability
-highlight
 highlighting
 highrise
 hint
@@ -3337,6 +3333,7 @@ hpccache
 hpe
 hpealletra6000andnimblestoragepowershelltoolkit
 hpebioscmdlets
+hpegreenlake
 hpeilocmdlets
 hpemigrationadvisorycmdlets
 hpemigrationadvisorytool
@@ -3462,7 +3459,6 @@ ilo5
 ilocmdlets
 im
 image
-image-comparison
 image-converter
 image-creation
 image-generation
@@ -3879,7 +3875,6 @@ kvp
 l1tf
 l2tp
 lab
-lab-management
 labautomation
 labdefinition
 label
@@ -4235,7 +4230,6 @@ marketplacepublisher
 marking
 marklogic
 marquee
-marvel
 marvell
 marvell_semiconductor_inc
 marvellfcpowerkit
@@ -4545,7 +4539,6 @@ msonlineext
 msp
 msp360
 mspbackups
-msproject
 msrc
 msrdc
 mssql
@@ -5165,7 +5158,6 @@ passwordstate
 passwordtool
 passwordvault
 passwordwolf
-paste
 patch
 patches
 patching
@@ -5208,7 +5200,6 @@ penetrationtesting
 pentesting
 pentia
 people
-perceptual-hash
 perforce
 performance
 performance-counters
@@ -5220,7 +5211,6 @@ permutations
 persistence
 persistent
 personal
-personalisation
 personalization
 personalvault
 personio
@@ -5237,6 +5227,7 @@ philosophical
 philpritchett
 phishing
 phoenix
+phone
 phoneautomation
 photo
 photograph
@@ -5265,6 +5256,7 @@ pipedrive
 pipeline
 pipelinelastexecution
 pipelines
+pipenv
 pipescript
 piraeus
 piv
@@ -5402,13 +5394,13 @@ poshy-wrap-git
 poshy-wrap-git-flow
 poshy-wrap-git-lfs
 poshy-wrap-golang
-poshy-wrap-helm
 poshy-wrap-kubectl
 poshy-wrap-maven
 poshy-wrap-nginx
 poshy-wrap-nmap
 poshy-wrap-npm
 poshy-wrap-pip
+poshy-wrap-pipenv
 poshy-wrap-pyenv
 poshy-wrap-pylint
 poshy-wrap-python
@@ -6375,11 +6367,7 @@ pscommand_gup
 pscommand_gus
 pscommand_gwc
 pscommand_gwch
-pscommand_h
-pscommand_hin
 pscommand_hostname
-pscommand_hse
-pscommand_hup
 pscommand_invoke-aptcachepolicy
 pscommand_invoke-aptcachesearch
 pscommand_invoke-aptcacheshowpkg
@@ -6532,10 +6520,6 @@ pscommand_invoke-goversion
 pscommand_invoke-govet
 pscommand_invoke-gowork
 pscommand_invoke-greppipfreeze
-pscommand_invoke-helm
-pscommand_invoke-helminstall
-pscommand_invoke-helmsearch
-pscommand_invoke-helmupgrade
 pscommand_invoke-kubectl
 pscommand_invoke-kubectlallnamespaces
 pscommand_invoke-kubectlapplyfromfile
@@ -6676,6 +6660,21 @@ pscommand_invoke-npmstart
 pscommand_invoke-npmtest
 pscommand_invoke-npmupdate
 pscommand_invoke-npmversion
+pscommand_invoke-pipenvcheck
+pscommand_invoke-pipenvclean
+pscommand_invoke-pipenvgraph
+pscommand_invoke-pipenvinstall
+pscommand_invoke-pipenvinstalldev
+pscommand_invoke-pipenvlock
+pscommand_invoke-pipenvopen
+pscommand_invoke-pipenvpy
+pscommand_invoke-pipenvrun
+pscommand_invoke-pipenvshell
+pscommand_invoke-pipenvsync
+pscommand_invoke-pipenvuninstall
+pscommand_invoke-pipenvupdate
+pscommand_invoke-pipenvvenv
+pscommand_invoke-pipenvwhere
 pscommand_invoke-pipinstall
 pscommand_invoke-pipinstallupgrade
 pscommand_invoke-piplistoutdated
@@ -7121,7 +7120,12 @@ pscommand_npmt
 pscommand_npmu
 pscommand_npmv
 pscommand_open_command
+pscommand_pch
+pscommand_pcl
 pscommand_peek
+pscommand_pgr
+pscommand_pi
+pscommand_pidev
 pscommand_pip
 pscommand_pip_package_location
 pscommand_pip3
@@ -7138,8 +7142,15 @@ pscommand_pipu
 pscommand_pipun
 pscommand_pipunall
 pscommand_pipupall
+pscommand_pl
+pscommand_po
 pscommand_pop-gitstashentry
+pscommand_ppy
 pscommand_proxy-help
+pscommand_prun
+pscommand_psh
+pscommand_psy
+pscommand_pu
 pscommand_publish-gitcommitsforcefullywithlease
 pscommand_publish-gitcommitssettingupstream
 pscommand_publish-gitcommitssettingupstreamtoorigin
@@ -7148,9 +7159,12 @@ pscommand_publish-gitcommitstooriginfromhead
 pscommand_publish-gitcommitstooriginmain
 pscommand_publish-gitcommitswithtags
 pscommand_publish-gitrepositorytosvn
+pscommand_pupd
 pscommand_push-gitstashentry
 pscommand_push-gitstashentrywithmessage
 pscommand_pushgr
+pscommand_pvenv
+pscommand_pwh
 pscommand_pwshrc-show-proxy
 pscommand_py
 pscommand_pyenv
@@ -7911,10 +7925,6 @@ psfunction_invoke-goversion
 psfunction_invoke-govet
 psfunction_invoke-gowork
 psfunction_invoke-greppipfreeze
-psfunction_invoke-helm
-psfunction_invoke-helminstall
-psfunction_invoke-helmsearch
-psfunction_invoke-helmupgrade
 psfunction_invoke-kubectl
 psfunction_invoke-kubectlallnamespaces
 psfunction_invoke-kubectlapplyfromfile
@@ -8055,6 +8065,21 @@ psfunction_invoke-npmstart
 psfunction_invoke-npmtest
 psfunction_invoke-npmupdate
 psfunction_invoke-npmversion
+psfunction_invoke-pipenvcheck
+psfunction_invoke-pipenvclean
+psfunction_invoke-pipenvgraph
+psfunction_invoke-pipenvinstall
+psfunction_invoke-pipenvinstalldev
+psfunction_invoke-pipenvlock
+psfunction_invoke-pipenvopen
+psfunction_invoke-pipenvpy
+psfunction_invoke-pipenvrun
+psfunction_invoke-pipenvshell
+psfunction_invoke-pipenvsync
+psfunction_invoke-pipenvuninstall
+psfunction_invoke-pipenvupdate
+psfunction_invoke-pipenvvenv
+psfunction_invoke-pipenvwhere
 psfunction_invoke-pipinstall
 psfunction_invoke-pipinstallupgrade
 psfunction_invoke-piplistoutdated
@@ -8786,7 +8811,6 @@ recordings
 recordsmanagement
 recovery
 recoveryservices
-recruiter
 recrutch
 recurse
 recursion
@@ -8940,7 +8964,6 @@ resize
 resolution
 resolve
 resolve-dnsname
-resolve-stache
 resolve-template
 resolver
 resource
@@ -9301,6 +9324,7 @@ securitypolicydsc
 securityroles
 securityscopes
 securitytxt
+sed
 seed
 seek
 seekatar
@@ -9654,7 +9678,6 @@ space
 spaces
 spacex
 spam
-spamtitan
 spanner
 spark
 sparkline
@@ -9785,7 +9808,6 @@ ssrs
 ssst
 sstp
 stabilityai
-stache
 stackexchange
 stackhci
 stackhcivm
@@ -9875,7 +9897,6 @@ strictmode
 strikethrough-text
 string
 string-converter
-string-template
 stringmanager
 stringmanagertool
 strings
@@ -9927,7 +9948,6 @@ summary
 summit
 sumologic
 supercell
-superheros
 supermarket
 support
 support-tool
@@ -10185,7 +10205,6 @@ tftd
 tftp
 tfvars
 tfvc
-thecrushingemptinessofquotidianexistence
 theme
 themes
 thermal
@@ -10232,7 +10251,6 @@ tinymce
 tip
 tips
 titan
-titanhq
 title
 tld
 tls
@@ -10831,6 +10849,7 @@ wakeup
 walk
 wallet
 wallpaper
+wallpapers
 wannacry
 wansi
 wap
