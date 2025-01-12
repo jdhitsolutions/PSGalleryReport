@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Sunday, 12 January 2025 02:18:15 UTC
+Updated: Sunday, 12 January 2025 09:52:05 UTC
 
 .bat
 .env
@@ -276,6 +276,7 @@ aim
 aimodels
 aip
 aiprompting
+aipscanner
 aircall
 airpower
 airpwr
@@ -350,6 +351,7 @@ analysisservices
 analyst
 analyth
 analytics
+analyticsrules
 analyze
 analyzer
 analyzerrules
@@ -624,6 +626,7 @@ automatenow
 automaticpacketreportingsystem
 automation
 automation psmodule
+automationaccount
 automationanywhere
 automationportal
 automationutils
@@ -1462,10 +1465,10 @@ compoundproperty
 compress
 compression
 compute
-compute-ops-management
 computecloudatcustomer
 computeinstanceagent
 computer
+computer-room
 computer-site
 computername
 computers
@@ -1677,7 +1680,6 @@ credmanager
 crescendo
 crescendobuilt
 cresendo
-crestron
 crime
 crlf
 crm
@@ -3023,6 +3025,7 @@ git
 git-client
 git-clone
 git-flow
+git-lfs
 git-proxy
 git-rename
 git-stat
@@ -3050,7 +3053,6 @@ globaldashboard
 globalentry
 globallydistributeddatabase
 globbing
-glp
 glpi
 gmail
 gmap
@@ -3120,7 +3122,6 @@ graphs
 graphservices
 graphviz
 graylog
-greenlake
 greenplum
 gremlin
 grep
@@ -3241,7 +3242,6 @@ heartbeatdiscovery
 heat
 heating
 heavenbay
-helium
 helix
 hello
 helloid
@@ -3262,7 +3262,6 @@ heml
 here
 hewlett
 hewlett-packard
-hewlett-packard-enterprise
 hewlett-packardenterprise
 hex
 hexdump
@@ -3278,6 +3277,7 @@ hierarchialdistributionlist
 hierarchical
 hierarchy
 high-availability
+highlight
 highlighting
 highrise
 hint
@@ -3337,7 +3337,6 @@ hpccache
 hpe
 hpealletra6000andnimblestoragepowershelltoolkit
 hpebioscmdlets
-hpegreenlake
 hpeilocmdlets
 hpemigrationadvisorycmdlets
 hpemigrationadvisorytool
@@ -3570,6 +3569,7 @@ instance
 instant
 instapush
 instorage
+int
 intacct
 integrated
 integratedscriptingeditor
@@ -3879,6 +3879,7 @@ kvp
 l1tf
 l2tp
 lab
+lab-management
 labautomation
 labdefinition
 label
@@ -4816,6 +4817,7 @@ nuget.exe
 nuget.org
 number
 numlock
+nummapper
 nunit
 nupkg
 nuspec
@@ -4961,6 +4963,7 @@ openid
 openidconnect
 openinghours
 openport
+openprovider
 openscad
 opensearch
 opensource
@@ -5234,7 +5237,6 @@ philosophical
 philpritchett
 phishing
 phoenix
-phone
 phoneautomation
 photo
 photograph
@@ -5263,7 +5265,6 @@ pipedrive
 pipeline
 pipelinelastexecution
 pipelines
-pipenv
 pipescript
 piraeus
 piv
@@ -5399,6 +5400,7 @@ poshy-wrap-gem
 poshy-wrap-gh
 poshy-wrap-git
 poshy-wrap-git-flow
+poshy-wrap-git-lfs
 poshy-wrap-golang
 poshy-wrap-helm
 poshy-wrap-kubectl
@@ -5407,13 +5409,13 @@ poshy-wrap-nginx
 poshy-wrap-nmap
 poshy-wrap-npm
 poshy-wrap-pip
-poshy-wrap-pipenv
 poshy-wrap-pyenv
 poshy-wrap-pylint
 poshy-wrap-python
 poshy-wrap-ruby
 poshy-wrap-systemctl
 poshy-wrap-terraform
+poshy-wrap-terragrunt
 poshy-wrap-tmux
 poshy-wrap-vagrant
 poshy-wrap-vault
@@ -5705,6 +5707,7 @@ pscommand_acsp
 pscommand_add_ssh
 pscommand_add-envpathitem
 pscommand_add-envvarpathitem
+pscommand_add-gitlfstrackedfiles
 pscommand_add-gitremote
 pscommand_add-gitskipworktreeflag
 pscommand_add-gitsubmodule
@@ -6129,6 +6132,7 @@ pscommand_get-gitdiffstash
 pscommand_get-gitdiffstashhead
 pscommand_get-gitdiffstashparent
 pscommand_get-gitignoredfiles
+pscommand_get-gitlfstrackedfiles
 pscommand_get-gitlogbranchcommitsunpushed
 pscommand_get-gitlogcommitspulledlast
 pscommand_get-gitloggraph
@@ -6233,6 +6237,10 @@ pscommand_gitignore-reload
 pscommand_gittowork
 pscommand_gl
 pscommand_glf
+pscommand_glfsi
+pscommand_glfsls
+pscommand_glfsmi
+pscommand_glfst
 pscommand_glg
 pscommand_glgo
 pscommand_glgs
@@ -6281,6 +6289,7 @@ pscommand_gpatch
 pscommand_gpdo
 pscommand_gpf
 pscommand_gpl
+pscommand_gplfs
 pscommand_gplr
 pscommand_gplrs
 pscommand_gpo
@@ -6483,6 +6492,8 @@ pscommand_invoke-githubapi-bodyfields
 pscommand_invoke-githubapi-bodyfile
 pscommand_invoke-githubapi-bodyjson
 pscommand_invoke-githubapi-bodyraw
+pscommand_invoke-gitlfsinstall
+pscommand_invoke-gitlfsmigrateimport
 pscommand_invoke-gitmerge
 pscommand_invoke-gitpull
 pscommand_invoke-gitpush
@@ -6665,21 +6676,6 @@ pscommand_invoke-npmstart
 pscommand_invoke-npmtest
 pscommand_invoke-npmupdate
 pscommand_invoke-npmversion
-pscommand_invoke-pipenvcheck
-pscommand_invoke-pipenvclean
-pscommand_invoke-pipenvgraph
-pscommand_invoke-pipenvinstall
-pscommand_invoke-pipenvinstalldev
-pscommand_invoke-pipenvlock
-pscommand_invoke-pipenvopen
-pscommand_invoke-pipenvpy
-pscommand_invoke-pipenvrun
-pscommand_invoke-pipenvshell
-pscommand_invoke-pipenvsync
-pscommand_invoke-pipenvuninstall
-pscommand_invoke-pipenvupdate
-pscommand_invoke-pipenvvenv
-pscommand_invoke-pipenvwhere
 pscommand_invoke-pipinstall
 pscommand_invoke-pipinstallupgrade
 pscommand_invoke-piplistoutdated
@@ -6806,6 +6802,15 @@ pscommand_invoke-terraforminit
 pscommand_invoke-terraformoutput
 pscommand_invoke-terraformplan
 pscommand_invoke-terraformvalidate
+pscommand_invoke-terragrunt
+pscommand_invoke-terragruntapply
+pscommand_invoke-terragruntapplyall
+pscommand_invoke-terragruntdestroy
+pscommand_invoke-terragruntdestroyall
+pscommand_invoke-terragruntplan
+pscommand_invoke-terragruntplanall
+pscommand_invoke-terragruntvalidate
+pscommand_invoke-terragruntvalidateall
 pscommand_invoke-tmuxattachforterminal
 pscommand_invoke-tmuxattachforterminaldetachingothers
 pscommand_invoke-tmuxeditconfig
@@ -7116,12 +7121,7 @@ pscommand_npmt
 pscommand_npmu
 pscommand_npmv
 pscommand_open_command
-pscommand_pch
-pscommand_pcl
 pscommand_peek
-pscommand_pgr
-pscommand_pi
-pscommand_pidev
 pscommand_pip
 pscommand_pip_package_location
 pscommand_pip3
@@ -7138,15 +7138,8 @@ pscommand_pipu
 pscommand_pipun
 pscommand_pipunall
 pscommand_pipupall
-pscommand_pl
-pscommand_po
 pscommand_pop-gitstashentry
-pscommand_ppy
 pscommand_proxy-help
-pscommand_prun
-pscommand_psh
-pscommand_psy
-pscommand_pu
 pscommand_publish-gitcommitsforcefullywithlease
 pscommand_publish-gitcommitssettingupstream
 pscommand_publish-gitcommitssettingupstreamtoorigin
@@ -7155,12 +7148,9 @@ pscommand_publish-gitcommitstooriginfromhead
 pscommand_publish-gitcommitstooriginmain
 pscommand_publish-gitcommitswithtags
 pscommand_publish-gitrepositorytosvn
-pscommand_pupd
 pscommand_push-gitstashentry
 pscommand_push-gitstashentrywithmessage
 pscommand_pushgr
-pscommand_pvenv
-pscommand_pwh
 pscommand_pwshrc-show-proxy
 pscommand_py
 pscommand_pyenv
@@ -7273,6 +7263,15 @@ pscommand_tfi
 pscommand_tfo
 pscommand_tfp
 pscommand_tfv
+pscommand_tg
+pscommand_tga
+pscommand_tgaa
+pscommand_tgd
+pscommand_tgda
+pscommand_tgp
+pscommand_tgpa
+pscommand_tgv
+pscommand_tgva
 pscommand_tkss
 pscommand_tksv
 pscommand_tl
@@ -7487,6 +7486,7 @@ psfunction_aar
 psfunction_add_ssh
 psfunction_add-envpathitem
 psfunction_add-envvarpathitem
+psfunction_add-gitlfstrackedfiles
 psfunction_add-gitremote
 psfunction_add-gitskipworktreeflag
 psfunction_add-gitsubmodule
@@ -7694,6 +7694,7 @@ psfunction_get-gitdiffstash
 psfunction_get-gitdiffstashhead
 psfunction_get-gitdiffstashparent
 psfunction_get-gitignoredfiles
+psfunction_get-gitlfstrackedfiles
 psfunction_get-gitlogbranchcommitsunpushed
 psfunction_get-gitlogcommitspulledlast
 psfunction_get-gitloggraph
@@ -7756,6 +7757,7 @@ psfunction_git-global-show-proxy
 psfunction_git-show-proxy
 psfunction_gitignore-reload
 psfunction_gittowork
+psfunction_gplfs
 psfunction_hostname
 psfunction_invoke-aptcachepolicy
 psfunction_invoke-aptcachesearch
@@ -7869,6 +7871,8 @@ psfunction_invoke-githubapi-bodyfields
 psfunction_invoke-githubapi-bodyfile
 psfunction_invoke-githubapi-bodyjson
 psfunction_invoke-githubapi-bodyraw
+psfunction_invoke-gitlfsinstall
+psfunction_invoke-gitlfsmigrateimport
 psfunction_invoke-gitmerge
 psfunction_invoke-gitpull
 psfunction_invoke-gitpush
@@ -8051,21 +8055,6 @@ psfunction_invoke-npmstart
 psfunction_invoke-npmtest
 psfunction_invoke-npmupdate
 psfunction_invoke-npmversion
-psfunction_invoke-pipenvcheck
-psfunction_invoke-pipenvclean
-psfunction_invoke-pipenvgraph
-psfunction_invoke-pipenvinstall
-psfunction_invoke-pipenvinstalldev
-psfunction_invoke-pipenvlock
-psfunction_invoke-pipenvopen
-psfunction_invoke-pipenvpy
-psfunction_invoke-pipenvrun
-psfunction_invoke-pipenvshell
-psfunction_invoke-pipenvsync
-psfunction_invoke-pipenvuninstall
-psfunction_invoke-pipenvupdate
-psfunction_invoke-pipenvvenv
-psfunction_invoke-pipenvwhere
 psfunction_invoke-pipinstall
 psfunction_invoke-pipinstallupgrade
 psfunction_invoke-piplistoutdated
@@ -8192,6 +8181,15 @@ psfunction_invoke-terraforminit
 psfunction_invoke-terraformoutput
 psfunction_invoke-terraformplan
 psfunction_invoke-terraformvalidate
+psfunction_invoke-terragrunt
+psfunction_invoke-terragruntapply
+psfunction_invoke-terragruntapplyall
+psfunction_invoke-terragruntdestroy
+psfunction_invoke-terragruntdestroyall
+psfunction_invoke-terragruntplan
+psfunction_invoke-terragruntplanall
+psfunction_invoke-terragruntvalidate
+psfunction_invoke-terragruntvalidateall
 psfunction_invoke-tmuxattachforterminal
 psfunction_invoke-tmuxattachforterminaldetachingothers
 psfunction_invoke-tmuxeditconfig
@@ -8555,6 +8553,7 @@ psreadline
 psreminder
 psremoting
 psrepository
+psresource
 psresourceget
 psrule
 psrule-rules
@@ -9302,7 +9301,6 @@ securitypolicydsc
 securityroles
 securityscopes
 securitytxt
-sed
 seed
 seek
 seekatar
@@ -9691,6 +9689,7 @@ sphere
 spi
 spicetify
 spinnaker
+splash
 splat
 splatting
 split
@@ -9831,6 +9830,7 @@ statuscake
 statuscode
 statusmonitor
 statusreportingcomponent
+staytus
 stderr
 stdio
 stdout
@@ -9850,6 +9850,7 @@ stocks
 stoicism
 stoics
 stolpe.io
+stop
 storablecolortheme
 storage
 storageaccount
@@ -10128,6 +10129,7 @@ terraform-docs
 terraform-switcher
 terraformcloud
 terrafun
+terragrunt
 tesla
 test
 test-automation
@@ -10829,7 +10831,6 @@ wakeup
 walk
 wallet
 wallpaper
-wallpapers
 wannacry
 wansi
 wap
@@ -11088,6 +11089,7 @@ wmipermanentevents
 wol
 wolfram
 wolframalpha
+woocommerce
 woolworths
 woolworthsrewards
 word
@@ -11140,6 +11142,7 @@ write-host
 write-information
 write-log
 write-loganalytics
+write-message
 write-progress
 write-slog
 write-wansi
