@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 13 January 2025 09:52:15 UTC
+Updated: Monday, 13 January 2025 17:52:15 UTC
 
 .bat
 .env
@@ -22,6 +22,7 @@ Updated: Monday, 13 January 2025 09:52:15 UTC
 🙇
 1&1
 10
+11
 1607
 1703
 1709
@@ -47,6 +48,7 @@ Updated: Monday, 13 January 2025 09:52:15 UTC
 3d
 3dprinting
 3par
+4me
 50
 64
 650
@@ -94,7 +96,6 @@ accord
 accord.net
 accordian
 account
-account-management
 accounting
 accounts
 ace
@@ -121,7 +122,6 @@ active
 active_directory
 active-directory
 active-plug
-activecampaign
 activedirectory
 activedirectory_delegation
 activedirectory_over_html
@@ -236,7 +236,6 @@ adv190013
 adv220002
 advanced
 advapi32
-advice
 advisor
 adwords
 adx
@@ -260,7 +259,6 @@ agile
 agility
 agm
 agnoster
-ahk
 ai
 ai21
 ai21labs
@@ -422,7 +420,6 @@ appdeploy
 appdeployment
 appdeploytoolkit
 appdynamics
-appearance
 appender
 appian
 appinsights
@@ -432,7 +429,6 @@ applescript
 applescript_bridge
 application
 application-control
-application-transformer
 application-whitelisting
 applicationgateway
 applicationgrid
@@ -613,7 +609,6 @@ autocomplete
 autocompletion
 autoenv
 autograph
-autohotkey
 autoload
 autologon
 automai
@@ -654,8 +649,6 @@ avd
 ave
 avepoint
 avi
-avm
-avmtools
 avro
 avs
 avset
@@ -818,7 +811,6 @@ bar
 barcodes
 baremetal
 base
-base-in-json
 base16
 base26
 base32
@@ -918,8 +910,6 @@ biztalkdeploymentframework
 bks
 black
 blackbaud
-blackberry
-blackberryuem
 blackbox
 blacklist
 blade
@@ -1064,7 +1054,6 @@ calendar
 callingcode
 callout
 callqueue
-calvin-and-hobbes
 cam
 camera
 cameras
@@ -1223,6 +1212,7 @@ cifv3
 cil
 cim
 cim_computersystem
+cimfs
 cimi
 ciminstance
 cims
@@ -1241,8 +1231,6 @@ cisa
 cisco
 ciscoucscmdlets
 ciscoucsdsc
-citation
-cite
 citrix
 citrixoptimizer
 civo
@@ -1415,7 +1403,9 @@ comdata
 comedy
 comic
 comical
+comics
 command
+command_line
 command-line-interface
 command-validation
 commandcoverage
@@ -1447,7 +1437,6 @@ compiler
 complete
 completer
 completion
-completion-manager
 completionresult
 completions
 complex
@@ -1507,6 +1496,7 @@ connect-exchangeonprem
 connect-mstsc
 connect-rdp
 connect-remotedesktop
+connect-samcmsite
 connected
 connectedkubernetes
 connectedmachine
@@ -1643,7 +1633,6 @@ cqdpowershell
 cqhttp
 crack psmodule
 crash
-crawler
 crayon
 crc
 crc32
@@ -1671,7 +1660,6 @@ credentials-cache
 credentialsmanager
 credentialstore
 credentialtheaf
-credentialutility
 credman
 credmanager
 crescendo
@@ -1679,7 +1667,6 @@ crescendobuilt
 cresendo
 crestron
 crime
-crlf
 crm
 crm2016
 cron
@@ -1813,7 +1800,6 @@ databasemigration
 databases
 databasetools
 databooster
-databox
 databoxedge
 databricks
 datacatalog
@@ -1871,7 +1857,9 @@ db
 db2
 dba
 dbaas
+dbai
 dbase
+dbassistant
 dbatools
 dbcommand
 dbeaver
@@ -2021,7 +2009,6 @@ dicom
 dictionary
 diff
 difference
-dify
 dig
 digikam
 digital
@@ -2068,13 +2055,13 @@ disk
 disk_to_disk
 disk-space
 diskfree
+diskimage
 diskpart
 diskpool
 disksize
 diskspace
 diskusage
 dism
-dismal
 display
 display_dialog
 displayresolution
@@ -2203,9 +2190,7 @@ dq
 dr
 draw
 drawio
-dreams
 dreamweaver
-dreary
 drift
 driftmonitor
 drink
@@ -2304,7 +2289,6 @@ dynamics365sales
 dynamics365server
 dynamicsax
 dynamicsecuritygroups
-dynamicsnav
 dynamodb
 dynatrace
 dynatraceobservability
@@ -2315,6 +2299,7 @@ earthquakes
 easy
 easy-to-use
 easylife365
+easyvista
 eaton
 ebay
 ebooks
@@ -2401,7 +2386,6 @@ encodetext
 encoding
 encrypt
 encryption
-end-of-line
 endomondo
 endpoint
 endpoints
@@ -2521,7 +2505,6 @@ eventsubscription
 eventviewer
 eventwatch
 evergreen
-everix
 evernote
 everydaypowershell
 everydayrewards
@@ -2577,7 +2560,6 @@ expand-string
 expand-tab
 expandframework
 expect
-experience
 experiments
 expiration
 expired
@@ -2627,7 +2609,6 @@ fabtools
 facebook
 factoryorchestrator
 factoryorchestratorclient
-facts
 faf
 failedlogin
 failure
@@ -2755,7 +2736,6 @@ findlocation
 findplace
 findproxyforurl
 fine-print
-fine-tuning
 finops
 firebird
 firefox
@@ -2821,7 +2801,6 @@ forensics
 forest
 forestdiscovery
 forgit
-forgiveness
 form
 format
 format-numberedlist
@@ -2830,6 +2809,7 @@ formatformat-tableformat-listformat-wideformat-customformat-defaultout-defaultou
 formatting
 forms
 fortiauth
+forticlient
 fortify
 fortifyondemand
 fortigate
@@ -2862,8 +2842,6 @@ freshservice-api
 freshserviceps
 freshworks
 friendly
-fritz
-fritzbox
 front
 frontapp
 frontdoor
@@ -2994,11 +2972,12 @@ get-passivetrippoint
 get-passlist
 get-path
 get-pinneditem
+get-samcmassignedsite
+get-samcmcurrentmanagementpoint
 get-samplingperiod
 get-stalecomps
 get-staleusers
 get-thermalstamp
-get-uptime
 getfirmwareenvironmentvariable
 getfirmwaretype
 ggplot
@@ -3007,6 +2986,7 @@ gh-actions
 ghactions
 ghc
 ghibli
+ghost
 gif
 gifs
 giphy
@@ -3476,7 +3456,6 @@ imageslide
 imagevalidate
 imagevalidation
 imagga
-imagination
 imaging
 imap
 imb
@@ -3491,6 +3470,7 @@ import-dtdriverpackpackagedefinitionsms
 import-module
 import-modulefrompath
 import-passlist
+import-sampackagedefinitionsms
 importer
 importexport
 importteams
@@ -3543,9 +3523,6 @@ insight
 insightanalytics
 insights
 inspect
-inspiration
-inspirationalquotes
-inspire
 inspur
 instagram
 install
@@ -3575,7 +3552,6 @@ integrationservicescatalog
 integrity
 intel
 inteligo
-intelligence
 intelligence"
 intellisearch
 intellisense
@@ -3848,10 +3824,8 @@ korn
 kotlin
 kql
 kraken
-krane
 krbtgt
 krick
-kschemaplugin
 kubclt
 kube
 kubeconfig
@@ -3863,6 +3837,7 @@ kubernetes
 kubernetesconfiguration
 kubesnapit
 kubespray
+kubetidy
 kudu
 kurukuru
 kusto
@@ -3949,7 +3924,6 @@ lenovo
 less
 lesspass
 letsencrypt
-lf
 lgpo
 libgit2
 libraries
@@ -3957,13 +3931,13 @@ library
 libvirt
 licence
 license
+license-generator
+licenseautomation
 licensemanagement
 licensemanager
 licensereport
+licenses
 licensing
-life
-lifequotes
-lifestyle
 light
 lighthouse
 lights
@@ -4022,10 +3996,8 @@ loanddepot
 loandepot
 loc
 local
-local-account
 local-caching
 local-policy
-local-users
 localaccounts
 localadmin
 localconfigurationmanager
@@ -4117,8 +4089,6 @@ lookupaccountsid
 loop
 loopback
 loremipsum
-love
-lovequotes
 lpsiamol
 ls
 lsa
@@ -4226,6 +4196,7 @@ marketplacepublisher
 marking
 marklogic
 marquee
+marvel
 marvell
 marvell_semiconductor_inc
 marvellfcpowerkit
@@ -4303,7 +4274,6 @@ memcm
 memory
 memorydump
 memorystream
-mention
 menu
 menus
 meraki
@@ -4434,7 +4404,6 @@ mobilitycontroller
 mock
 mocking
 model
-modeling
 models
 modify
 module
@@ -4478,8 +4447,6 @@ moonshot
 more
 mosaic
 motd
-motivation
-motivationalquotes
 mount
 mouse
 move
@@ -4705,6 +4672,8 @@ new-itemproperty
 new-modulemanifest
 new-pinneditem
 new-rdpsession
+new-samcmapplicationfrompackagedefinitionsms
+new-samcmpackagefrompackagedefinitionsms
 new-system
 new-udmorph
 new-win32app
@@ -4801,6 +4770,7 @@ ntfypwsh
 ntp
 ntsystems
 nuget
+nuget-references
 nuget.exe
 nuget.org
 number
@@ -4932,7 +4902,6 @@ ontap_pstk_9.8.0
 onyphe
 onyphe.io
 oob
-oop
 op
 opa
 opc
@@ -5076,7 +5045,6 @@ package-transform
 packagemanagement
 packagemanager
 packages
-packagesregistry
 packagesupportframework
 packaging
 packaging psmodule
@@ -5208,7 +5176,6 @@ permutations
 persistence
 persistent
 personal
-personalisation
 personalization
 personalvault
 personio
@@ -5301,8 +5268,6 @@ pnpm
 poc
 pode
 poe
-poem
-poetry
 point
 point-to-site
 pointer
@@ -5397,6 +5362,7 @@ poshy-wrap-helm
 poshy-wrap-kubectl
 poshy-wrap-maven
 poshy-wrap-nginx
+poshy-wrap-nmap
 poshy-wrap-npm
 poshy-wrap-pip
 poshy-wrap-pipenv
@@ -5407,6 +5373,7 @@ poshy-wrap-ruby
 poshy-wrap-systemctl
 poshy-wrap-terraform
 poshy-wrap-terragrunt
+poshy-wrap-tmux
 poshy-wrap-vagrant
 poshy-wrap-vault
 poshy-wrap-vscode
@@ -5455,7 +5422,6 @@ powerprotect_datamanager
 powersaving
 powerscheme
 powershell
-powershell_universal
 powershell-class
 powershell-cmdlets
 powershell-core
@@ -5531,6 +5497,7 @@ prefixing
 preparead
 preparealldomains
 prepareschema
+prepend
 preprocessing
 preprocessor
 presentation
@@ -5538,7 +5505,6 @@ presenter
 presto
 preston-k-parsard
 prettifier
-pretty
 prettyprinter
 preview
 previousversions
@@ -5624,7 +5590,6 @@ protection
 protocol
 protocols
 provance
-proverb
 provider
 providerhub
 provision
@@ -5668,7 +5633,6 @@ psazd
 psbackup
 psbbix
 psbicep
-psc
 pscandy
 psclient
 pscmdlet
@@ -6817,6 +6781,13 @@ pscommand_invoke-terragruntplan
 pscommand_invoke-terragruntplanall
 pscommand_invoke-terragruntvalidate
 pscommand_invoke-terragruntvalidateall
+pscommand_invoke-tmuxattachforterminal
+pscommand_invoke-tmuxattachforterminaldetachingothers
+pscommand_invoke-tmuxeditconfig
+pscommand_invoke-tmuxkillserver
+pscommand_invoke-tmuxkillsessionforterminal
+pscommand_invoke-tmuxlistsessions
+pscommand_invoke-tmuxnewsessionfromsource
 pscommand_invoke-vagrantdestroy
 pscommand_invoke-vagranthalt
 pscommand_invoke-vagranthostmanager
@@ -7083,6 +7054,21 @@ pscommand_nginx_reload
 pscommand_nginx_restart
 pscommand_nginx_start
 pscommand_nginx_stop
+pscommand_nmap_check_for_firewall
+pscommand_nmap_check_for_vulns
+pscommand_nmap_detect_versions
+pscommand_nmap_fast
+pscommand_nmap_fin
+pscommand_nmap_full
+pscommand_nmap_full_udp
+pscommand_nmap_full_with_scripts
+pscommand_nmap_list_interfaces
+pscommand_nmap_open_ports
+pscommand_nmap_ping_scan
+pscommand_nmap_ping_through_firewall
+pscommand_nmap_slow
+pscommand_nmap_traceroute
+pscommand_nmap_web_safe_osscan
 pscommand_notify-send
 pscommand_notify-send-null
 pscommand_notify-send-terminalnotifier
@@ -7245,6 +7231,8 @@ pscommand_syspip
 pscommand_syspip_package_location
 pscommand_syspip3
 pscommand_syspip3_package_location
+pscommand_ta
+pscommand_tad
 pscommand_test-command
 pscommand_test-d
 pscommand_test-elevation
@@ -7272,6 +7260,14 @@ pscommand_tgp
 pscommand_tgpa
 pscommand_tgv
 pscommand_tgva
+pscommand_tkss
+pscommand_tksv
+pscommand_tl
+pscommand_tmuxconf
+pscommand_ts
+pscommand_txa
+pscommand_txl
+pscommand_txn
 pscommand_universalarchive
 pscommand_update-gitbranchbasefrombranchmain
 pscommand_update-gitbranchbasefrommain
@@ -8199,6 +8195,13 @@ psfunction_invoke-terragruntplan
 psfunction_invoke-terragruntplanall
 psfunction_invoke-terragruntvalidate
 psfunction_invoke-terragruntvalidateall
+psfunction_invoke-tmuxattachforterminal
+psfunction_invoke-tmuxattachforterminaldetachingothers
+psfunction_invoke-tmuxeditconfig
+psfunction_invoke-tmuxkillserver
+psfunction_invoke-tmuxkillsessionforterminal
+psfunction_invoke-tmuxlistsessions
+psfunction_invoke-tmuxnewsessionfromsource
 psfunction_invoke-vagrantdestroy
 psfunction_invoke-vagranthalt
 psfunction_invoke-vagranthostmanager
@@ -8319,6 +8322,21 @@ psfunction_nginx_reload
 psfunction_nginx_restart
 psfunction_nginx_start
 psfunction_nginx_stop
+psfunction_nmap_check_for_firewall
+psfunction_nmap_check_for_vulns
+psfunction_nmap_detect_versions
+psfunction_nmap_fast
+psfunction_nmap_fin
+psfunction_nmap_full
+psfunction_nmap_full_udp
+psfunction_nmap_full_with_scripts
+psfunction_nmap_list_interfaces
+psfunction_nmap_open_ports
+psfunction_nmap_ping_scan
+psfunction_nmap_ping_through_firewall
+psfunction_nmap_slow
+psfunction_nmap_traceroute
+psfunction_nmap_web_safe_osscan
 psfunction_notify-send-null
 psfunction_notify-send-terminalnotifier
 psfunction_npm-disable-proxy
@@ -8511,7 +8529,6 @@ psmodule
 psmodule psedition_desktop
 psmodulepath
 psmodules
-psmp
 psmsgraph
 psmsgraphapi
 psmssql
@@ -8683,9 +8700,7 @@ quiz
 qumulo
 quota
 quote
-quoteoftheday
 quotes
-quotestoliveby
 quoting
 quser
 qword
@@ -8753,7 +8768,7 @@ read
 read-slog
 readable
 reader
-readme
+readiness
 readpdf
 readthedocs
 real-time
@@ -8805,7 +8820,6 @@ refactoring
 refeds
 refeds-mfa
 refedsmfa
-reference
 reflect
 reflection
 refresh
@@ -9032,7 +9046,6 @@ router
 routeros
 routes
 routetable
-routine
 rover
 royalapps
 royaldocument
@@ -9111,7 +9124,6 @@ sample
 sampler
 samurai
 san
-sand
 sandbox
 sanitization
 sanitizer
@@ -9146,7 +9158,10 @@ scatter
 scb
 scc
 sccm
+sccmam
+sccmapplication
 sccminstall
+sccmpackage
 sccmprereqs
 scep
 sch
@@ -9246,7 +9261,6 @@ secretmanagement
 secretmanagementextension
 secrets
 secretsanta
-secretscanner
 secretserver
 secretsmanagement
 secretsmanager
@@ -9262,7 +9276,6 @@ securegopher
 securegopher+
 securemfa
 securerdp
-securescore
 securesphere
 securestring
 security
@@ -9353,7 +9366,6 @@ servicebusforwindowsserver
 servicecatalog
 serviceconnectionpoint
 servicecontrol
-servicedesk
 servicedeskplus
 serviceendpoints
 servicefabric
@@ -9435,11 +9447,11 @@ shares
 sheets
 shell
 shell-art
-shell-integration
 shells
 shieldedvm
 ships
 shipsprovider
+shipstation
 shitpost
 shlink
 shodan
@@ -9483,6 +9495,7 @@ simplivity
 simplysql
 sin
 single
+singlestore
 singleton
 sinks
 sintez
@@ -9773,7 +9786,6 @@ stackhci
 stackhcivm
 stackmonitoring
 stackoverflow
-staff
 staffhub
 staging
 stale
@@ -9897,7 +9909,6 @@ subsystem
 subtitle
 subtitles
 subversion
-success
 successfactors
 sudo
 sugar
@@ -9909,6 +9920,7 @@ summary
 summit
 sumologic
 supercell
+superheros
 supermarket
 support
 support-tool
@@ -9961,6 +9973,8 @@ sysadmin
 sysadmin-tool
 sysadmin-tools
 sysctr
+sysinfo
+sysinfocmdlets
 sysinternals
 syskit
 syslog
@@ -10118,6 +10132,8 @@ test-modulemanifest
 test-modulepath
 test-osplatform
 test-psremoting
+test-samcmapplicationexists
+test-samcmpackageexists
 test-userisadministrator
 test-xml
 test123
@@ -10162,12 +10178,13 @@ tftd
 tftp
 tfvars
 tfvc
-thecrushingemptinessofquotidianexistence
 theme
 themes
 thermal
 thermostat
 thinprint
+third-party-libraries
+third-party-notice
 thispc
 thoughtfortheday
 thousandeyes
@@ -10216,6 +10233,7 @@ tls12
 tlsa
 tlsprotocol
 tlsrpt
+tmux
 to-do
 toast
 toasts
@@ -10253,8 +10271,6 @@ toughswitch
 tower
 tphubps
 tpm
-tr-064
-tr064
 trace
 traceevent
 tracer
@@ -10328,7 +10344,6 @@ trustedhosts
 trustedinstaller
 trustedrootcertificate
 trustedsigning
-truth
 trx
 ts
 tsa
@@ -10345,7 +10360,6 @@ tubedownloader
 tui
 tulpep
 tuner
-tuning
 tutorial
 tv
 tvguide
@@ -10445,7 +10459,6 @@ udr
 udthememode
 udword
 uefi
-uem
 ui
 ui/ux
 ui7
@@ -10811,6 +10824,7 @@ wansi
 wap
 wapack
 wapi
+wara
 warning
 warplaneporn
 warranty
@@ -10884,6 +10898,8 @@ wecutil
 weekday
 wef
 weixin
+well-architectedframework
+well-architectedreliabilityassessment
 well-known
 wem
 wemsdk
@@ -11039,7 +11055,6 @@ wins
 winsat
 winscp
 wintellect
-winterminal
 winui
 wired
 wireless
@@ -11202,6 +11217,7 @@ xsa
 xtremio
 xtrude
 xunit
+xurrent
 xwiki
 xwindowsupdate
 xwith
