@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Thursday, 16 January 2025 02:14:00 UTC
+Updated: Thursday, 16 January 2025 09:52:12 UTC
 
 .bat
 .env
@@ -377,6 +377,7 @@ ansible-control-node
 ansible-playbook
 ansible-vault
 ansiblecontrolnode
+ansibletower
 anthropic
 anti-malware
 antimalwarescaninterface
@@ -675,6 +676,7 @@ aws.tools.powershell
 awsbedrock
 awscli
 awspricelist
+awx
 axapta
 axcient
 axcient_x360recover
@@ -793,6 +795,7 @@ azurestackhci
 azurestate
 azurestorage
 azurestorageservices
+azuresync
 azuretable
 azuretestplan
 azurevirtualdesktop
@@ -1266,6 +1269,8 @@ clear
 clear-history
 clearpass
 cli
+cli-menu
+cli-menu-helpers
 clickonce
 client
 client-management
@@ -1453,7 +1458,6 @@ completionresult
 completions
 complex
 compliance
-compliancepolicy
 compliant
 component
 composer
@@ -1496,7 +1500,6 @@ configurationdata
 configurationkey
 configurationmanagement
 configurationmanager
-configurationprofile
 configurations
 configure
 confluence
@@ -2742,6 +2745,7 @@ filewrite
 fill
 film
 filter
+filter-item
 filtering
 fim
 fims
@@ -2976,6 +2980,7 @@ geolocation
 geosearching
 geotagging
 get
+get_random_password
 get-admodernreport
 get-childitem
 get-cmhealthcheck
@@ -3052,7 +3057,6 @@ glimps
 glob
 globalclipboard
 globaldashboard
-globalentry
 globallydistributeddatabase
 globbing
 glp
@@ -3129,7 +3133,6 @@ greenlake
 greenplum
 gremlin
 grep
-greynoise
 grid
 gridfs
 grok
@@ -3315,7 +3318,6 @@ holiday
 home
 home_automation
 homebrew
-homelandsecurity
 homeschooling
 hometheater
 hon
@@ -3445,7 +3447,6 @@ identity-management
 identitydataplane
 identitydirector
 identitydomains
-identitynow
 idf
 idm
 idna
@@ -4018,6 +4019,7 @@ liquit.com
 list
 list_files
 list-directory
+list-item
 listener
 litecoin
 litedb
@@ -4165,6 +4167,7 @@ machinelearning
 machinelearningcompute
 machinelearningmodels
 machinelearningservices
+macmon
 macos
 macosx
 macro
@@ -4235,7 +4238,6 @@ markdig
 markdown
 markdownrender
 marketing
-marketo
 marketplace
 marketplaceordering
 marketplaceprivateoffer
@@ -4281,7 +4283,7 @@ mcd
 mchapv2
 mct
 md5
-md5_v2-e19bcae1744893eb51adeada195ebc31
+md5_v2-18232bfba2e90cd603582c78fa002427
 mdatp
 mdb
 mdbc
@@ -4619,6 +4621,7 @@ mytest
 n-able
 n-central
 nabu
+nac
 nagios
 nakivo
 name
@@ -5152,6 +5155,7 @@ passphrase
 passphraser passphrase password generator entropy
 passwd
 password
+password_generation
 password-generator
 password-less
 password-manager
@@ -5248,6 +5252,7 @@ phoenix
 phone
 phoneautomation
 photo
+photograph
 photos
 php
 phpapam
@@ -5300,7 +5305,6 @@ playback
 playbook
 player
 playlists
-playwright
 pleasant
 pleasantpasswordserver
 plex
@@ -5430,7 +5434,6 @@ poshy-wrap-terragrunt
 poshy-wrap-tmux
 poshy-wrap-vagrant
 poshy-wrap-vault
-poshy-wrap-vscode
 poshy-wrap-wget
 poshy-wrap-wt
 poshy-wrap-yum
@@ -6873,20 +6876,6 @@ pscommand_invoke-vaultserver
 pscommand_invoke-vaultstatus
 pscommand_invoke-vaultversion
 pscommand_invoke-vaultwrite
-pscommand_invoke-vscodeadd
-pscommand_invoke-vscodediff
-pscommand_invoke-vscodeforpwd
-pscommand_invoke-vscodegoto
-pscommand_invoke-vscodeinstallextension
-pscommand_invoke-vscodenewwindow
-pscommand_invoke-vscodereusewindow
-pscommand_invoke-vscodeuninstallextension
-pscommand_invoke-vscodeverbose
-pscommand_invoke-vscodewithdisableextensions
-pscommand_invoke-vscodewithextensionsdir
-pscommand_invoke-vscodewithlog
-pscommand_invoke-vscodewithuserdatadir
-pscommand_invoke-vscodewithwait
 pscommand_invoke-yumcleanall
 pscommand_invoke-yumgroupinstall
 pscommand_invoke-yumgroupremove
@@ -7384,21 +7373,7 @@ pscommand_vp
 pscommand_vr
 pscommand_vrl
 pscommand_vs
-pscommand_vsc
-pscommand_vsca
-pscommand_vscd
-pscommand_vscde
-pscommand_vsced
-pscommand_vscg
-pscommand_vscie
-pscommand_vscl
-pscommand_vscn
 pscommand_vscp
-pscommand_vscr
-pscommand_vscu
-pscommand_vscue
-pscommand_vscv
-pscommand_vscw
 pscommand_vsl
 pscommand_vssh
 pscommand_vst
@@ -8287,20 +8262,6 @@ psfunction_invoke-vaultserver
 psfunction_invoke-vaultstatus
 psfunction_invoke-vaultversion
 psfunction_invoke-vaultwrite
-psfunction_invoke-vscodeadd
-psfunction_invoke-vscodediff
-psfunction_invoke-vscodeforpwd
-psfunction_invoke-vscodegoto
-psfunction_invoke-vscodeinstallextension
-psfunction_invoke-vscodenewwindow
-psfunction_invoke-vscodereusewindow
-psfunction_invoke-vscodeuninstallextension
-psfunction_invoke-vscodeverbose
-psfunction_invoke-vscodewithdisableextensions
-psfunction_invoke-vscodewithextensionsdir
-psfunction_invoke-vscodewithlog
-psfunction_invoke-vscodewithuserdatadir
-psfunction_invoke-vscodewithwait
 psfunction_invoke-yumcleanall
 psfunction_invoke-yumgroupinstall
 psfunction_invoke-yumgroupremove
@@ -9143,6 +9104,7 @@ runbooks
 runbookstudio
 runcommand
 rundeck
+runner
 runspace
 runspacepool
 runspaces
@@ -9168,7 +9130,6 @@ safe
 safeguard
 sage
 saggiehaim
-sailpoint
 sale
 sales
 salesforce
@@ -9368,6 +9329,7 @@ seek
 seekatar
 seeshell
 select
+select-item
 select-kubecontext
 select-kubenamespace
 select-string
@@ -9400,6 +9362,7 @@ sensitive
 sensitivity
 sensor
 sensors
+sensu
 sentinel
 sentinelone
 sentry
@@ -9638,7 +9601,6 @@ smtpoauth
 smtpsasl
 smtpsecure
 snap
-snapchat
 snapping
 snapshot
 snapshots
@@ -10102,6 +10064,7 @@ tag2
 tagging
 tags
 tak
+taken
 takeown
 tally
 talxis
@@ -10374,7 +10337,6 @@ translit
 transliteration
 transmission
 transparency
-transpilation
 trap
 travel
 trec
@@ -10417,7 +10379,6 @@ trustedsigning
 truth
 trx
 ts
-tsa
 tsd
 tsheets
 tsqlbestpractice
