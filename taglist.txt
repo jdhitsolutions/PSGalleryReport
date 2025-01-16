@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Thursday, 16 January 2025 09:52:12 UTC
+Updated: Thursday, 16 January 2025 17:52:12 UTC
 
 .bat
 .env
@@ -80,7 +80,6 @@ about
 abr
 abstractsyntaxtree
 abuse
-abuseipdb
 acas
 accelerator
 access
@@ -312,8 +311,6 @@ alias-hint
 alias-tips
 aliases
 aliens
-alkane
-alkanepsf
 all
 alletra
 alloydb
@@ -651,7 +648,6 @@ availability
 availabilityset
 avalara
 avatar
-avatax
 avd
 ave
 avepoint
@@ -1458,6 +1454,7 @@ completionresult
 completions
 complex
 compliance
+compliancepolicy
 compliant
 component
 composer
@@ -1500,6 +1497,7 @@ configurationdata
 configurationkey
 configurationmanagement
 configurationmanager
+configurationprofile
 configurations
 configure
 confluence
@@ -3057,6 +3055,7 @@ glimps
 glob
 globalclipboard
 globaldashboard
+globalentry
 globallydistributeddatabase
 globbing
 glp
@@ -3110,7 +3109,6 @@ gpp
 gps
 gpt
 gpx
-gradle
 grafana
 grafanaapi
 granttype
@@ -3133,6 +3131,7 @@ greenlake
 greenplum
 gremlin
 grep
+greynoise
 grid
 gridfs
 grok
@@ -3173,7 +3172,6 @@ gzip-compression
 ha
 haarlemsdagblad
 hack
-hacking
 hacktoberfest
 hadoop
 hafr
@@ -3318,6 +3316,7 @@ holiday
 home
 home_automation
 homebrew
+homelandsecurity
 homeschooling
 hometheater
 hon
@@ -3447,6 +3446,7 @@ identity-management
 identitydataplane
 identitydirector
 identitydomains
+identitynow
 idf
 idm
 idna
@@ -3529,10 +3529,7 @@ influxdb
 info
 infoblox
 information
-information-technology
 informationbarriers
-informationtechnology
-informationtechnologyoperations
 informix
 infosec
 infrastructure
@@ -4238,6 +4235,7 @@ markdig
 markdown
 markdownrender
 marketing
+marketo
 marketplace
 marketplaceordering
 marketplaceprivateoffer
@@ -5101,7 +5099,6 @@ packagemanagement
 packagemanager
 packages
 packagesregistry
-packagesupportframework
 packaging
 packaging psmodule
 packard
@@ -5305,6 +5302,7 @@ playback
 playbook
 player
 playlists
+playwright
 pleasant
 pleasantpasswordserver
 plex
@@ -5434,6 +5432,7 @@ poshy-wrap-terragrunt
 poshy-wrap-tmux
 poshy-wrap-vagrant
 poshy-wrap-vault
+poshy-wrap-vscode
 poshy-wrap-wget
 poshy-wrap-wt
 poshy-wrap-yum
@@ -6876,6 +6875,20 @@ pscommand_invoke-vaultserver
 pscommand_invoke-vaultstatus
 pscommand_invoke-vaultversion
 pscommand_invoke-vaultwrite
+pscommand_invoke-vscodeadd
+pscommand_invoke-vscodediff
+pscommand_invoke-vscodeforpwd
+pscommand_invoke-vscodegoto
+pscommand_invoke-vscodeinstallextension
+pscommand_invoke-vscodenewwindow
+pscommand_invoke-vscodereusewindow
+pscommand_invoke-vscodeuninstallextension
+pscommand_invoke-vscodeverbose
+pscommand_invoke-vscodewithdisableextensions
+pscommand_invoke-vscodewithextensionsdir
+pscommand_invoke-vscodewithlog
+pscommand_invoke-vscodewithuserdatadir
+pscommand_invoke-vscodewithwait
 pscommand_invoke-yumcleanall
 pscommand_invoke-yumgroupinstall
 pscommand_invoke-yumgroupremove
@@ -7373,7 +7386,21 @@ pscommand_vp
 pscommand_vr
 pscommand_vrl
 pscommand_vs
+pscommand_vsc
+pscommand_vsca
+pscommand_vscd
+pscommand_vscde
+pscommand_vsced
+pscommand_vscg
+pscommand_vscie
+pscommand_vscl
+pscommand_vscn
 pscommand_vscp
+pscommand_vscr
+pscommand_vscu
+pscommand_vscue
+pscommand_vscv
+pscommand_vscw
 pscommand_vsl
 pscommand_vssh
 pscommand_vst
@@ -7495,8 +7522,6 @@ pses
 psexcel
 psexec
 psexec.exe
-psexpandline
-psf
 psfciv
 psfitbit
 psfive9
@@ -8262,6 +8287,20 @@ psfunction_invoke-vaultserver
 psfunction_invoke-vaultstatus
 psfunction_invoke-vaultversion
 psfunction_invoke-vaultwrite
+psfunction_invoke-vscodeadd
+psfunction_invoke-vscodediff
+psfunction_invoke-vscodeforpwd
+psfunction_invoke-vscodegoto
+psfunction_invoke-vscodeinstallextension
+psfunction_invoke-vscodenewwindow
+psfunction_invoke-vscodereusewindow
+psfunction_invoke-vscodeuninstallextension
+psfunction_invoke-vscodeverbose
+psfunction_invoke-vscodewithdisableextensions
+psfunction_invoke-vscodewithextensionsdir
+psfunction_invoke-vscodewithlog
+psfunction_invoke-vscodewithuserdatadir
+psfunction_invoke-vscodewithwait
 psfunction_invoke-yumcleanall
 psfunction_invoke-yumgroupinstall
 psfunction_invoke-yumgroupremove
@@ -8559,6 +8598,7 @@ psnavigation
 psnexosisclient
 psngenposh
 psobject
+psoutlog
 pspath
 pspersonio
 pspowerhour
@@ -9130,6 +9170,7 @@ safe
 safeguard
 sage
 saggiehaim
+sailpoint
 sale
 sales
 salesforce
@@ -9601,6 +9642,7 @@ smtpoauth
 smtpsasl
 smtpsecure
 snap
+snapchat
 snapping
 snapshot
 snapshots
@@ -9730,8 +9772,6 @@ spp
 spread
 spreadsheet
 spreadsheets
-spring
-spring-boot
 springcloud
 sql
 sql-database
@@ -10016,7 +10056,6 @@ syspip3
 sysprep
 system
 system information 1394 controller baseboard motherboard systemboard battery bios bus cache memory cd dvd rom drive compact disc desktop monitor disk partition fan floppy glide point heatpipe ide infrared device keyboard local logical array mouse'
-system-administration
 system-group
 system-service
 system-services
@@ -10112,7 +10151,6 @@ teamviewer
 techdirect
 techedna2014
 techlog
-technology
 techsmith
 tel
 telegram
@@ -10337,6 +10375,7 @@ translit
 transliteration
 transmission
 transparency
+transpilation
 trap
 travel
 trec
@@ -10379,6 +10418,7 @@ trustedsigning
 truth
 trx
 ts
+tsa
 tsd
 tsheets
 tsqlbestpractice
