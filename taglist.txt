@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Friday, 17 January 2025 09:52:08 UTC
+Updated: Friday, 17 January 2025 17:52:05 UTC
 
 .bat
 .env
@@ -39,7 +39,6 @@ Updated: Friday, 17 January 2025 09:52:08 UTC
 2018
 2019
 21vianet
-24-bit
 2fa
 300
 365
@@ -49,7 +48,6 @@ Updated: Friday, 17 January 2025 09:52:08 UTC
 3dprinting
 3par
 4me
-50
 64
 650
 650flb
@@ -64,7 +62,6 @@ aa
 aac
 aad
 aad-graph
-aadc
 aadconnect
 aadgraph
 aadrm
@@ -174,7 +171,6 @@ add-one
 add-path
 add-type
 addin
-addlevel
 addomainservices
 addon
 address
@@ -221,7 +217,6 @@ adobject
 adouobject
 adoxio
 adp
-adprotocol
 adr
 ads
 adsi
@@ -272,7 +267,6 @@ aiautomation
 aidocument
 aiintegration
 ailanguage
-aim
 aimodels
 aip
 aiprompting
@@ -288,6 +282,7 @@ aivision
 ajustee
 aka.ms
 aks
+aks-hci
 akscluster
 al
 alac
@@ -533,13 +528,13 @@ asp
 asp.net
 aspnet
 aspnet_regiis
-asr
 assembleenationale
 assembly
 assemblyloadcontext
 assemblymeta
 assert
 assertion
+assertion-testing
 assessment
 asset
 assetintelligencepoint
@@ -943,7 +938,6 @@ blue
 bluedolhin
 blueprint
 blueprints
-bluesky
 blueteam
 bluetraitio
 bluetuxedo
@@ -954,7 +948,6 @@ bofh
 boilerplate
 boinc
 bold-text
-bolt
 bom
 book
 bookmark
@@ -1140,7 +1133,6 @@ center
 centra
 central
 central-management
-centralcredentialprovider
 centrastage
 centreon
 centreon.com
@@ -1163,12 +1155,10 @@ certinia
 certutil
 cf
 cfn
-ch9
 change
 changeanalysis
 changelog
 channel
-channel9
 char
 character
 chart
@@ -1293,7 +1283,6 @@ clientsettingsstatemessaging
 clientsettingsuserdeviceaffinity
 clientstatussettings
 clipart
-clipasswordsdk
 clipboard
 clixml
 clock
@@ -1348,6 +1337,7 @@ cmd
 cmdb
 cmdkey
 cmdlet
+cmdlet-testing
 cmdlets
 cmdstan
 cmgroupdiscovery
@@ -1603,6 +1593,7 @@ coordinates
 copilot
 copy
 copy-item
+copyfileex
 copypaste
 copyright
 core
@@ -1662,15 +1653,10 @@ creator
 cred
 credential
 credential-dialog
-credential-file
-credential-files
-credential-manager
 credentiallocker
 credentialmanagement
 credentialmanager
-credentialprovider
 credentials
-credentials-cache
 credentialsmanager
 credentialstore
 credentialtheaf
@@ -1937,7 +1923,6 @@ defenderforidentity
 defense
 deflate
 defrag
-delegateaccesscontrol
 delegated
 delegation
 delegationmodel
@@ -2282,7 +2267,6 @@ duo
 duosecurity
 dupes
 duplicate
-duplicate-files
 duplicatioin
 duplication
 durable
@@ -2297,6 +2281,7 @@ dynamic
 dynamic-host-configuration-protocol
 dynamic-privileged-access
 dynamicdistributiongroups
+dynamicdistributionlist
 dynamicdnsoverhttps
 dynamicparam
 dynamicparameters
@@ -2364,7 +2349,6 @@ elevated
 elevatedconsole
 elevatedmode
 elevation
-elevenlabs
 elgato
 elitism
 elk
@@ -2725,7 +2709,6 @@ filesecurity
 fileserver
 fileserverresourcemanager
 fileshare
-filesharing
 filestorage
 filestream
 filesystem
@@ -2900,6 +2883,7 @@ fullmetalgnome
 fullscreen
 fun
 function
+function-testing
 functionality
 functionalprogramming
 functionapp
@@ -3502,7 +3486,6 @@ imperva
 import
 import-csv
 import-dtdriverpackpackagedefinitionsms
-import-module
 import-modulefrompath
 import-passlist
 import-sampackagedefinitionsms
@@ -3530,7 +3513,6 @@ info
 infoblox
 information
 information-technology
-informationbarriers
 informationtechnology
 informationtechnologyoperations
 informix
@@ -4241,7 +4223,6 @@ marketo
 marketplace
 marketplaceordering
 marketplaceprivateoffer
-marketplacepublisher
 marking
 marklogic
 marquee
@@ -4404,6 +4385,7 @@ microsoftstore
 microsoftteams
 microsoftteamsdevices
 microsoftteamsphone
+microsoftupdate
 microsoftword
 middleware
 midserver
@@ -4464,7 +4446,6 @@ module-publishing
 module-publishing-framework
 module-testing
 module-testing-framework
-modulebuild
 modulecreation
 modulefast
 modulemanagement
@@ -4565,7 +4546,6 @@ mssqlmodule
 mssqlplugins
 mssqlserver
 msteams
-mstest
 mstsc
 msu
 msvc
@@ -4657,7 +4637,6 @@ nederland
 nedyalkov
 nemovote
 neo4j
-neonpostgres
 neovim
 neptune
 nerdfonts
@@ -4693,7 +4672,6 @@ netstat
 netsuite
 network
 network adapter configuration operating os optical sensor physical pointing portable printer processor cpu refrigaration cooling cooler removable usb sd ram dimm scsi sound audio card enclosure tape temperature touchpad touch pad touchscreen screen trackball trackpoint video graphics voltage psmodule
-network-credentials
 network-info
 networkanalytics
 networkcategory
@@ -5308,7 +5286,6 @@ playlists
 playwright
 pleasant
 pleasantpasswordserver
-plex
 plist
 plog
 plot
@@ -5487,7 +5464,6 @@ powershell-cmdlets
 powershell-core
 powershell-core-releases-api
 powershell-course
-powershell-credentials
 powershell-dsc
 powershell-examples
 powershell-gallery
@@ -8621,7 +8597,6 @@ psreadline
 psreminder
 psremoting
 psrepository
-psresource
 psresourceget
 psrule
 psrule-rules
@@ -8641,7 +8616,6 @@ pssqlserverbynarymodule
 pssqlservermodule
 psst
 psstgenerator
-pstablacus
 pstanss
 psthread
 pstk
@@ -8822,7 +8796,6 @@ rdcman
 rdcmanager
 rdfe
 rdg
-rdl
 rdm
 rdp
 rdpsession
@@ -9357,7 +9330,6 @@ security-policy
 security-score
 security-txt
 security.txt
-securityassertionmarkuplanguage
 securityattribute
 securitycenter
 securitycompliancecenter
@@ -9520,13 +9492,11 @@ shares
 sheets
 shell
 shell-art
-shell-integration
 shells
 shieldedvm
 ships
 shipsprovider
 shipstation
-shitpost
 shlink
 shodan
 shodanps
@@ -9590,7 +9560,6 @@ sitethumbprint
 sixel
 size
 skatterbrainz
-skeet
 skeleton-loader
 skia
 skiasharp
@@ -9608,8 +9577,6 @@ skypeforbusinessonline
 skypeonline
 skytap
 slack
-slash
-slashcommands
 sleeper
 slideshow
 slmgr
@@ -9758,7 +9725,6 @@ sphere
 spi
 spicetify
 spinnaker
-splash
 splat
 splatting
 split
@@ -10092,7 +10058,6 @@ tab-expansion
 tabcompletion
 tabexpansion
 tabexpansion2
-tablacus
 table
 tableau
 tableauserver
@@ -10425,7 +10390,6 @@ trustedinstaller
 trustedrootcertificate
 trustedsigning
 truth
-trx
 ts
 tsa
 tsd
@@ -10571,8 +10535,6 @@ unifiedlabeling
 uninstall
 uninstaller
 union
-unique
-unique-files
 unit
 unit_testing
 unit-testing
@@ -10821,7 +10783,6 @@ vmwdatacenter
 vmwfolder
 vmwvmhost
 vnet
-vnmonitoring
 vnugglets
 vnugglets.com
 vocabularies
@@ -11190,7 +11151,6 @@ workrequests
 worksheet
 workshop
 workspace
-workspacemanager
 workspaceone
 workspaces
 workstation
