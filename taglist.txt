@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Saturday, 18 January 2025 02:12:58 UTC
+Updated: Saturday, 18 January 2025 09:51:56 UTC
 
 .bat
 .env
@@ -44,7 +44,6 @@ Updated: Saturday, 18 January 2025 02:12:58 UTC
 300
 365
 36867
-3cx
 3d
 3dprinting
 3par
@@ -173,7 +172,6 @@ add-on.module
 add-one
 add-path
 add-type
-addin
 addlevel
 addomainservices
 addon
@@ -201,7 +199,6 @@ admf
 admin
 admin-tools
 adminbyrequest
-admindirectory
 administration
 administrative
 administrativeunit
@@ -272,6 +269,7 @@ aiautomation
 aidocument
 aiintegration
 ailanguage
+aim
 aimodels
 aip
 aiprompting
@@ -287,6 +285,7 @@ aivision
 ajustee
 aka.ms
 aks
+aks-hci
 akscluster
 al
 alac
@@ -327,6 +326,7 @@ alz
 amateur
 amateur-data-interchange-format
 amateur-radio
+amateurradio
 amazon
 amazonaws
 amazonmgn
@@ -346,6 +346,7 @@ analysisservices
 analyst
 analyth
 analytics
+analyticsrules
 analyze
 analyzer
 analyzerrules
@@ -412,6 +413,7 @@ app-volumes
 app.config
 appattach
 appclusive
+appcmd
 appconfiguration
 appdeploy
 appdeployment
@@ -447,6 +449,7 @@ appservice
 appservices
 appsetting
 appv
+appventix
 appveyor
 appvolumes
 appwrite
@@ -484,7 +487,6 @@ arcresourcebridge
 arcus
 area
 arg
-argcomplete
 argument
 argumentcompleter
 arguments
@@ -568,12 +570,15 @@ au
 audio
 audiocodes
 audit
+auditad
 auditing
+auditnetlogon
 auditpol
 auditpol.exe
 auditpolicies
 auditpolicy
 audits
+auditsysvol
 aumid
 aut
 auth
@@ -595,6 +600,7 @@ authorize.net
 authz
 autify
 auto
+auto_cd
 auto-completion
 autoadapter
 autoattendant
@@ -612,6 +618,7 @@ automate
 automated
 automatedlab
 automatenow
+automaticpacketreportingsystem
 automation
 automation psmodule
 automationaccount
@@ -633,6 +640,7 @@ autoupdate
 autoupdate-script
 autowrapper
 autoyast
+auvik
 availability
 availabilityset
 avalara
@@ -658,7 +666,6 @@ aws_profile
 aws-codebuild
 aws-lambda
 aws-vault
-aws.tools.powershell
 awsbedrock
 awscli
 awspricelist
@@ -831,7 +838,6 @@ battery
 bayern
 bazzo
 bb
-bbc
 bbp
 bc
 bc365
@@ -942,6 +948,7 @@ bofh
 boilerplate
 boinc
 bold-text
+bolt
 bom
 book
 bookmark
@@ -951,6 +958,7 @@ bool
 boolean
 bootloader psmodule
 bootstrap
+bootstrapping
 bop
 bot
 bots
@@ -1102,9 +1110,13 @@ cchoco
 cchocoex
 ccm
 cd
+cd_path
+cd-
 cd-back
 cd-forward
 cd-up
+cd+
+cdable_vars
 cdata
 cdb
 cdi
@@ -1122,6 +1134,7 @@ center
 centra
 central
 central-management
+centralcredentialprovider
 centrastage
 centreon
 centreon.com
@@ -1220,6 +1233,7 @@ cireson
 ciresonassetmanagement
 ciresonportal
 cis
+cisa
 cisco
 ciscoucscmdlets
 ciscoucsdsc
@@ -1273,6 +1287,7 @@ clientsettingsstatemessaging
 clientsettingsuserdeviceaffinity
 clientstatussettings
 clipart
+clipasswordsdk
 clipboard
 clixml
 clock
@@ -1494,7 +1509,6 @@ connect-samcmsite
 connected
 connectedkubernetes
 connectedmachine
-connectednetwork
 connectedvmware
 connectexchange
 connection
@@ -1511,7 +1525,6 @@ conservation
 console
 consoleguitools
 consoleimage
-consolemenu
 consolemusic
 consumer
 consumption
@@ -1544,7 +1557,6 @@ contrast
 control
 controller
 controlroom
-controlup
 conventional
 conventional-commits
 convereter
@@ -1650,6 +1662,7 @@ credential-manager
 credentiallocker
 credentialmanagement
 credentialmanager
+credentialprovider
 credentials
 credentials-cache
 credentialsmanager
@@ -1805,7 +1818,6 @@ datacenter
 dataclassification
 datacollectionrule
 dataconduit
-dataconnectivity
 datadog
 dataexchange
 dataexplorer
@@ -1843,6 +1855,7 @@ dates
 datetaken
 datetime
 datto
+dattodbpool
 dattormm
 datum
 dave
@@ -1855,12 +1868,16 @@ db
 db2
 dba
 dbaas
+dbai
 dbase
+dbassistant
+dbatools
 dbcommand
 dbeaver
 dbfs
 dbnull
 dbops
+dbpool
 dbup
 dbwebapi
 dc
@@ -1885,7 +1902,6 @@ decline
 decode
 decode64
 decoding
-decompiler
 decrypt
 decryption
 dedicatedhsm
@@ -1967,6 +1983,7 @@ devdrive
 developer
 developer_command_prompt
 developercommandprompt
+developermode
 development
 devenv
 devexpress
@@ -2027,7 +2044,6 @@ directorysearcher
 directorysecurity
 directrouting
 direnv
-dirkjan
 dirname
 dirsync
 disa
@@ -2097,6 +2113,7 @@ dnd
 dnf
 dns
 dns-01
+dns-administration
 dns-async
 dns-client
 dns-over-https
@@ -2104,6 +2121,7 @@ dns-resolver
 dnsbl
 dnsclient
 dnsdumpster
+dnsentry
 dnsimple
 dnslookup
 dnsmadeeasy
@@ -2111,6 +2129,7 @@ dnsoverhttps
 dnsrecord
 dnsresolver
 dnssec
+dnsserver
 dnssuffix
 dnvm
 doc
@@ -2126,6 +2145,7 @@ dockerize
 dockerswarm
 docking
 docs
+docset
 document
 documentation
 documentdb
@@ -2342,6 +2362,7 @@ elitism
 elk
 elm
 elmah-io
+elonmusk
 eloqua
 elvish
 elvui
@@ -2603,7 +2624,10 @@ f
 f#
 f5
 fabric
+fabtools
 facebook
+factoryorchestrator
+factoryorchestratorclient
 facts
 faf
 failedlogin
@@ -2772,6 +2796,7 @@ flickr
 flowchart
 flowy
 fluidrelay
+flyway
 fmg
 fms
 focus
@@ -2920,6 +2945,7 @@ generate-dockerimagevariants
 generate-password
 generate-random-password
 generateaddress
+generates
 generatewif
 generation
 generativeai
@@ -3066,6 +3092,8 @@ gping
 gpio
 gplink
 gpo
+gpo-maintenance
+gpo-tools
 gpodoc
 gpolinks
 gpp
@@ -3165,6 +3193,7 @@ hardblock
 harden
 harden-windows-security
 hardening
+hardensysvol
 hardlink
 hardmatch
 hardware
@@ -3238,6 +3267,7 @@ hewlett-packardenterprise
 hex
 hexdump
 hg
+hibernate
 hibernation
 hibp
 hidden
@@ -3492,10 +3522,7 @@ influxdb
 info
 infoblox
 information
-information-technology
 informationbarriers
-informationtechnology
-informationtechnologyoperations
 informix
 infosec
 infrastructure
@@ -3525,6 +3552,7 @@ inspiration
 inspirationalquotes
 inspire
 inspur
+instagram
 install
 install-module
 install-windowsimage
@@ -3560,6 +3588,7 @@ interactive
 interactive-brokers
 interface
 interlogix
+internal
 internet
 internet-explorer
 internetconnection
@@ -3613,6 +3642,7 @@ ipa
 ipaddress
 ipam
 ipbroadcast
+ipc
 ipcalc
 ipcalculator
 ipconfig
@@ -3752,6 +3782,7 @@ jwe
 jwk
 jws
 jwt
+jwttoken
 k8s
 k8sshell
 k8ssnapshots
@@ -3837,6 +3868,7 @@ kubernetes
 kubernetesconfiguration
 kubesnapit
 kubespray
+kubetidy
 kudu
 kurukuru
 kusto
@@ -3887,7 +3919,6 @@ latency
 latestupdate
 latin
 latitude
-launcher
 layer
 layman
 layout
@@ -4061,6 +4092,7 @@ login-rdp
 logingestion
 loginscreen
 loginsight
+logiphys
 logistic
 logitech
 logmail
@@ -4111,6 +4143,7 @@ lxco
 lxcopstool
 lync
 m365
+m365defenderstuff
 m365dsc
 maatschap-fortigi
 mac
@@ -4241,6 +4274,7 @@ mct
 md5
 md5_v2-18232bfba2e90cd603582c78fa002427
 mdatp
+mdb
 mdbc
 mde
 mdep
@@ -4344,6 +4378,7 @@ microsoftdefenderforidentity
 microsoftdeploymenttoolkit
 microsoftendpointmanager
 microsoftexchangeserver
+microsoftfabric
 microsoftgraph
 microsoftgraphapi
 microsoftgraphrestapi
@@ -4520,6 +4555,7 @@ mssqlmodule
 mssqlplugins
 mssqlserver
 msteams
+mstest
 mstsc
 msu
 msvc
@@ -4610,6 +4646,7 @@ nederland
 nedyalkov
 nemovote
 neo4j
+neonpostgres
 neovim
 neptune
 nerdfonts
@@ -4709,6 +4746,7 @@ ninjarmm
 nios
 nist
 nitrox
+njclipsh
 nl
 nla
 nlm
@@ -4898,6 +4936,7 @@ onlinebackup
 onprem
 onpremisesdatagatewayhamgmt
 onq
+ons
 ontap
 ontap_9.15.1
 ontap_9.8.0
@@ -5060,7 +5099,6 @@ packing
 pacli
 page
 pageant
-pager
 pagerduty
 pages
 pagination
@@ -5142,6 +5180,7 @@ paylocity
 paypal
 pays
 pbench
+pbip
 pbixtopbip
 pbixtopbit
 pc
@@ -5330,6 +5369,7 @@ poshkeepass
 poshlog
 poshorigin
 poshproject
+poshprtg
 poshrsjob
 poshtemplate
 poshwsus
@@ -5350,7 +5390,6 @@ poshy-sshconfig
 poshy-viewer-finder
 poshy-wrap
 poshy-wrap-apt
-poshy-wrap-argcomplete
 poshy-wrap-brew
 poshy-wrap-curl
 poshy-wrap-dnf
@@ -5364,6 +5403,7 @@ poshy-wrap-git
 poshy-wrap-git-flow
 poshy-wrap-git-lfs
 poshy-wrap-golang
+poshy-wrap-helm
 poshy-wrap-kubectl
 poshy-wrap-maven
 poshy-wrap-nginx
@@ -5375,6 +5415,7 @@ poshy-wrap-pyenv
 poshy-wrap-pylint
 poshy-wrap-python
 poshy-wrap-ruby
+poshy-wrap-systemctl
 poshy-wrap-terraform
 poshy-wrap-terragrunt
 poshy-wrap-tmux
@@ -5383,7 +5424,6 @@ poshy-wrap-vault
 poshy-wrap-vscode
 poshy-wrap-wget
 poshy-wrap-wt
-poshy-wrap-yum
 poshy-wrap-zypper
 position
 post
@@ -5394,7 +5434,6 @@ postgresql
 postgrest
 potato
 pow
-powdrgit
 power
 power-apps
 power-cbr
@@ -5415,7 +5454,6 @@ powerconfiguration
 powerdex
 powerforensics
 powergraph
-powergui
 powermax
 powerpack
 powerplan
@@ -5607,8 +5645,11 @@ proxmox
 proxmoxve
 proxsys
 proxy
+proxyfunction
 proxyfunctions
 prtg
+prtg_network_monitor
+prtgnetworkmonitor
 ps
 ps-ncentral
 ps.credentialmanager
@@ -5631,6 +5672,7 @@ psake
 psappdeploytoolkit
 psat
 psazd
+psbackup
 psbbix
 psbicep
 psc
@@ -6331,7 +6373,11 @@ pscommand_gup
 pscommand_gus
 pscommand_gwc
 pscommand_gwch
+pscommand_h
+pscommand_hin
 pscommand_hostname
+pscommand_hse
+pscommand_hup
 pscommand_invoke-aptcachepolicy
 pscommand_invoke-aptcachesearch
 pscommand_invoke-aptcacheshowpkg
@@ -6484,6 +6530,10 @@ pscommand_invoke-goversion
 pscommand_invoke-govet
 pscommand_invoke-gowork
 pscommand_invoke-greppipfreeze
+pscommand_invoke-helm
+pscommand_invoke-helminstall
+pscommand_invoke-helmsearch
+pscommand_invoke-helmupgrade
 pscommand_invoke-kubectl
 pscommand_invoke-kubectlallnamespaces
 pscommand_invoke-kubectlapplyfromfile
@@ -6648,6 +6698,114 @@ pscommand_invoke-pylintreportsdisabled
 pscommand_invoke-ruby
 pscommand_invoke-rubyexecute
 pscommand_invoke-rubyexecutehttpdhere
+pscommand_invoke-systemctl-add-requires
+pscommand_invoke-systemctl-add-wants
+pscommand_invoke-systemctl-cancel
+pscommand_invoke-systemctl-cat
+pscommand_invoke-systemctl-daemon-reexec
+pscommand_invoke-systemctl-daemon-reload
+pscommand_invoke-systemctl-default
+pscommand_invoke-systemctl-disable
+pscommand_invoke-systemctl-edit
+pscommand_invoke-systemctl-emergency
+pscommand_invoke-systemctl-enable
+pscommand_invoke-systemctl-get-default
+pscommand_invoke-systemctl-halt
+pscommand_invoke-systemctl-help
+pscommand_invoke-systemctl-import-environment
+pscommand_invoke-systemctl-is-active
+pscommand_invoke-systemctl-is-enabled
+pscommand_invoke-systemctl-is-failed
+pscommand_invoke-systemctl-is-system-running
+pscommand_invoke-systemctl-isolate
+pscommand_invoke-systemctl-kexec
+pscommand_invoke-systemctl-kill
+pscommand_invoke-systemctl-link
+pscommand_invoke-systemctl-list-dependencies
+pscommand_invoke-systemctl-list-jobs
+pscommand_invoke-systemctl-list-machines
+pscommand_invoke-systemctl-list-sockets
+pscommand_invoke-systemctl-list-timers
+pscommand_invoke-systemctl-list-unit-files
+pscommand_invoke-systemctl-list-units
+pscommand_invoke-systemctl-load
+pscommand_invoke-systemctl-mask
+pscommand_invoke-systemctl-preset
+pscommand_invoke-systemctl-preset-all
+pscommand_invoke-systemctl-reenable
+pscommand_invoke-systemctl-reload
+pscommand_invoke-systemctl-reload-or-restart
+pscommand_invoke-systemctl-rescue
+pscommand_invoke-systemctl-reset-failed
+pscommand_invoke-systemctl-restart
+pscommand_invoke-systemctl-revert
+pscommand_invoke-systemctl-set-default
+pscommand_invoke-systemctl-set-environment
+pscommand_invoke-systemctl-set-property
+pscommand_invoke-systemctl-show
+pscommand_invoke-systemctl-show-environment
+pscommand_invoke-systemctl-start
+pscommand_invoke-systemctl-status
+pscommand_invoke-systemctl-stop
+pscommand_invoke-systemctl-switch-root
+pscommand_invoke-systemctl-try-reload-or-restart
+pscommand_invoke-systemctl-try-restart
+pscommand_invoke-systemctl-unmask
+pscommand_invoke-systemctl-unset-environment
+pscommand_invoke-systemctluser-add-requires
+pscommand_invoke-systemctluser-add-wants
+pscommand_invoke-systemctluser-cancel
+pscommand_invoke-systemctluser-cat
+pscommand_invoke-systemctluser-daemon-reexec
+pscommand_invoke-systemctluser-daemon-reload
+pscommand_invoke-systemctluser-default
+pscommand_invoke-systemctluser-disable
+pscommand_invoke-systemctluser-edit
+pscommand_invoke-systemctluser-emergency
+pscommand_invoke-systemctluser-enable
+pscommand_invoke-systemctluser-get-default
+pscommand_invoke-systemctluser-halt
+pscommand_invoke-systemctluser-help
+pscommand_invoke-systemctluser-import-environment
+pscommand_invoke-systemctluser-is-active
+pscommand_invoke-systemctluser-is-enabled
+pscommand_invoke-systemctluser-is-failed
+pscommand_invoke-systemctluser-is-system-running
+pscommand_invoke-systemctluser-isolate
+pscommand_invoke-systemctluser-kexec
+pscommand_invoke-systemctluser-kill
+pscommand_invoke-systemctluser-link
+pscommand_invoke-systemctluser-list-dependencies
+pscommand_invoke-systemctluser-list-jobs
+pscommand_invoke-systemctluser-list-machines
+pscommand_invoke-systemctluser-list-sockets
+pscommand_invoke-systemctluser-list-timers
+pscommand_invoke-systemctluser-list-unit-files
+pscommand_invoke-systemctluser-list-units
+pscommand_invoke-systemctluser-load
+pscommand_invoke-systemctluser-mask
+pscommand_invoke-systemctluser-preset
+pscommand_invoke-systemctluser-preset-all
+pscommand_invoke-systemctluser-reenable
+pscommand_invoke-systemctluser-reload
+pscommand_invoke-systemctluser-reload-or-restart
+pscommand_invoke-systemctluser-rescue
+pscommand_invoke-systemctluser-reset-failed
+pscommand_invoke-systemctluser-restart
+pscommand_invoke-systemctluser-revert
+pscommand_invoke-systemctluser-set-default
+pscommand_invoke-systemctluser-set-environment
+pscommand_invoke-systemctluser-set-property
+pscommand_invoke-systemctluser-show
+pscommand_invoke-systemctluser-show-environment
+pscommand_invoke-systemctluser-start
+pscommand_invoke-systemctluser-status
+pscommand_invoke-systemctluser-stop
+pscommand_invoke-systemctluser-switch-root
+pscommand_invoke-systemctluser-try-reload-or-restart
+pscommand_invoke-systemctluser-try-restart
+pscommand_invoke-systemctluser-unmask
+pscommand_invoke-systemctluser-unset-environment
 pscommand_invoke-terraform
 pscommand_invoke-terraformapply
 pscommand_invoke-terraformconsole
@@ -6714,18 +6872,6 @@ pscommand_invoke-vscodewithextensionsdir
 pscommand_invoke-vscodewithlog
 pscommand_invoke-vscodewithuserdatadir
 pscommand_invoke-vscodewithwait
-pscommand_invoke-yumcleanall
-pscommand_invoke-yumgroupinstall
-pscommand_invoke-yumgroupremove
-pscommand_invoke-yuminfo
-pscommand_invoke-yuminstall
-pscommand_invoke-yumlist
-pscommand_invoke-yumlistinstalled
-pscommand_invoke-yummakecache
-pscommand_invoke-yumremove
-pscommand_invoke-yumremoveleaves
-pscommand_invoke-yumsearch
-pscommand_invoke-yumupdate
 pscommand_invoke-zypper
 pscommand_invoke-zypperaddlock
 pscommand_invoke-zypperaddservice
@@ -6772,7 +6918,6 @@ pscommand_invoke-zypperupdate
 pscommand_invoke-zypperverify
 pscommand_invoke-zypperversioncompare
 pscommand_invoke-zypperwhatprovides
-pscommand_invokeyumgrouplist
 pscommand_ips
 pscommand_ipy
 pscommand_ipython
@@ -7033,7 +7178,6 @@ pscommand_python
 pscommand_python3
 pscommand_rb
 pscommand_read-dotenv
-pscommand_register-argcompleteargumentcompleter
 pscommand_remove_gem
 pscommand_remove-dockercontainerall
 pscommand_remove-dockerunusedimage
@@ -7061,6 +7205,12 @@ pscommand_resume-gitbranchbaseupdate
 pscommand_resume-gitcherrypick
 pscommand_rrun
 pscommand_rserver
+pscommand_sc-disable-now
+pscommand_sc-enable-now
+pscommand_sc-mask-now
+pscommand_scu-disable-now
+pscommand_scu-enable-now
+pscommand_scu-mask-now
 pscommand_search-commandpath
 pscommand_search-ruby
 pscommand_set-envvar
@@ -7239,19 +7389,6 @@ pscommand_write-gitcommitinteractively
 pscommand_write-gitcommitsignedoff
 pscommand_xin
 pscommand_xwith
-pscommand_yc
-pscommand_ygi
-pscommand_ygl
-pscommand_ygr
-pscommand_yi
-pscommand_yl
-pscommand_yli
-pscommand_ymc
-pscommand_yp
-pscommand_yr
-pscommand_yrl
-pscommand_ys
-pscommand_yu
 pscommand_z
 pscommand_zal
 pscommand_zar
@@ -7779,6 +7916,10 @@ psfunction_invoke-goversion
 psfunction_invoke-govet
 psfunction_invoke-gowork
 psfunction_invoke-greppipfreeze
+psfunction_invoke-helm
+psfunction_invoke-helminstall
+psfunction_invoke-helmsearch
+psfunction_invoke-helmupgrade
 psfunction_invoke-kubectl
 psfunction_invoke-kubectlallnamespaces
 psfunction_invoke-kubectlapplyfromfile
@@ -7943,6 +8084,114 @@ psfunction_invoke-pylintreportsdisabled
 psfunction_invoke-ruby
 psfunction_invoke-rubyexecute
 psfunction_invoke-rubyexecutehttpdhere
+psfunction_invoke-systemctl-add-requires
+psfunction_invoke-systemctl-add-wants
+psfunction_invoke-systemctl-cancel
+psfunction_invoke-systemctl-cat
+psfunction_invoke-systemctl-daemon-reexec
+psfunction_invoke-systemctl-daemon-reload
+psfunction_invoke-systemctl-default
+psfunction_invoke-systemctl-disable
+psfunction_invoke-systemctl-edit
+psfunction_invoke-systemctl-emergency
+psfunction_invoke-systemctl-enable
+psfunction_invoke-systemctl-get-default
+psfunction_invoke-systemctl-halt
+psfunction_invoke-systemctl-help
+psfunction_invoke-systemctl-import-environment
+psfunction_invoke-systemctl-is-active
+psfunction_invoke-systemctl-is-enabled
+psfunction_invoke-systemctl-is-failed
+psfunction_invoke-systemctl-is-system-running
+psfunction_invoke-systemctl-isolate
+psfunction_invoke-systemctl-kexec
+psfunction_invoke-systemctl-kill
+psfunction_invoke-systemctl-link
+psfunction_invoke-systemctl-list-dependencies
+psfunction_invoke-systemctl-list-jobs
+psfunction_invoke-systemctl-list-machines
+psfunction_invoke-systemctl-list-sockets
+psfunction_invoke-systemctl-list-timers
+psfunction_invoke-systemctl-list-unit-files
+psfunction_invoke-systemctl-list-units
+psfunction_invoke-systemctl-load
+psfunction_invoke-systemctl-mask
+psfunction_invoke-systemctl-preset
+psfunction_invoke-systemctl-preset-all
+psfunction_invoke-systemctl-reenable
+psfunction_invoke-systemctl-reload
+psfunction_invoke-systemctl-reload-or-restart
+psfunction_invoke-systemctl-rescue
+psfunction_invoke-systemctl-reset-failed
+psfunction_invoke-systemctl-restart
+psfunction_invoke-systemctl-revert
+psfunction_invoke-systemctl-set-default
+psfunction_invoke-systemctl-set-environment
+psfunction_invoke-systemctl-set-property
+psfunction_invoke-systemctl-show
+psfunction_invoke-systemctl-show-environment
+psfunction_invoke-systemctl-start
+psfunction_invoke-systemctl-status
+psfunction_invoke-systemctl-stop
+psfunction_invoke-systemctl-switch-root
+psfunction_invoke-systemctl-try-reload-or-restart
+psfunction_invoke-systemctl-try-restart
+psfunction_invoke-systemctl-unmask
+psfunction_invoke-systemctl-unset-environment
+psfunction_invoke-systemctluser-add-requires
+psfunction_invoke-systemctluser-add-wants
+psfunction_invoke-systemctluser-cancel
+psfunction_invoke-systemctluser-cat
+psfunction_invoke-systemctluser-daemon-reexec
+psfunction_invoke-systemctluser-daemon-reload
+psfunction_invoke-systemctluser-default
+psfunction_invoke-systemctluser-disable
+psfunction_invoke-systemctluser-edit
+psfunction_invoke-systemctluser-emergency
+psfunction_invoke-systemctluser-enable
+psfunction_invoke-systemctluser-get-default
+psfunction_invoke-systemctluser-halt
+psfunction_invoke-systemctluser-help
+psfunction_invoke-systemctluser-import-environment
+psfunction_invoke-systemctluser-is-active
+psfunction_invoke-systemctluser-is-enabled
+psfunction_invoke-systemctluser-is-failed
+psfunction_invoke-systemctluser-is-system-running
+psfunction_invoke-systemctluser-isolate
+psfunction_invoke-systemctluser-kexec
+psfunction_invoke-systemctluser-kill
+psfunction_invoke-systemctluser-link
+psfunction_invoke-systemctluser-list-dependencies
+psfunction_invoke-systemctluser-list-jobs
+psfunction_invoke-systemctluser-list-machines
+psfunction_invoke-systemctluser-list-sockets
+psfunction_invoke-systemctluser-list-timers
+psfunction_invoke-systemctluser-list-unit-files
+psfunction_invoke-systemctluser-list-units
+psfunction_invoke-systemctluser-load
+psfunction_invoke-systemctluser-mask
+psfunction_invoke-systemctluser-preset
+psfunction_invoke-systemctluser-preset-all
+psfunction_invoke-systemctluser-reenable
+psfunction_invoke-systemctluser-reload
+psfunction_invoke-systemctluser-reload-or-restart
+psfunction_invoke-systemctluser-rescue
+psfunction_invoke-systemctluser-reset-failed
+psfunction_invoke-systemctluser-restart
+psfunction_invoke-systemctluser-revert
+psfunction_invoke-systemctluser-set-default
+psfunction_invoke-systemctluser-set-environment
+psfunction_invoke-systemctluser-set-property
+psfunction_invoke-systemctluser-show
+psfunction_invoke-systemctluser-show-environment
+psfunction_invoke-systemctluser-start
+psfunction_invoke-systemctluser-status
+psfunction_invoke-systemctluser-stop
+psfunction_invoke-systemctluser-switch-root
+psfunction_invoke-systemctluser-try-reload-or-restart
+psfunction_invoke-systemctluser-try-restart
+psfunction_invoke-systemctluser-unmask
+psfunction_invoke-systemctluser-unset-environment
 psfunction_invoke-terraform
 psfunction_invoke-terraformapply
 psfunction_invoke-terraformconsole
@@ -8009,18 +8258,6 @@ psfunction_invoke-vscodewithextensionsdir
 psfunction_invoke-vscodewithlog
 psfunction_invoke-vscodewithuserdatadir
 psfunction_invoke-vscodewithwait
-psfunction_invoke-yumcleanall
-psfunction_invoke-yumgroupinstall
-psfunction_invoke-yumgroupremove
-psfunction_invoke-yuminfo
-psfunction_invoke-yuminstall
-psfunction_invoke-yumlist
-psfunction_invoke-yumlistinstalled
-psfunction_invoke-yummakecache
-psfunction_invoke-yumremove
-psfunction_invoke-yumremoveleaves
-psfunction_invoke-yumsearch
-psfunction_invoke-yumupdate
 psfunction_invoke-zypper
 psfunction_invoke-zypperaddlock
 psfunction_invoke-zypperaddservice
@@ -8067,7 +8304,6 @@ psfunction_invoke-zypperupdate
 psfunction_invoke-zypperverify
 psfunction_invoke-zypperversioncompare
 psfunction_invoke-zypperwhatprovides
-psfunction_invokeyumgrouplist
 psfunction_jump
 psfunction_kerndeb
 psfunction_kres
@@ -8132,7 +8368,6 @@ psfunction_push-gitstashentrywithmessage
 psfunction_pwshrc-show-proxy
 psfunction_pyserver
 psfunction_read-dotenv
-psfunction_register-argcompleteargumentcompleter
 psfunction_remove-dockercontainerall
 psfunction_remove-dockerunusedimage
 psfunction_remove-envpathitem
@@ -8157,6 +8392,12 @@ psfunction_reset-gitworkingtreetolastcommitlosechanges
 psfunction_reset-gitworkingtreetolastcommitlosechangesandcleanfully
 psfunction_resume-gitbranchbaseupdate
 psfunction_resume-gitcherrypick
+psfunction_sc-disable-now
+psfunction_sc-enable-now
+psfunction_sc-mask-now
+psfunction_scu-disable-now
+psfunction_scu-enable-now
+psfunction_scu-mask-now
 psfunction_search-commandpath
 psfunction_search-ruby
 psfunction_set-envvar
@@ -8284,6 +8525,7 @@ pskeepass
 pslocalgallery
 psloganalytics
 psm
+psm1
 psmodule
 psmodule psedition_desktop
 psmodulepath
@@ -8308,6 +8550,7 @@ psproject
 psprojectcreator
 psprojectgenerator
 psprovider
+psprtg
 pspublicapi
 psql
 psraw
@@ -8405,7 +8648,6 @@ pwshrc
 pxedistributionpoint
 pyenv
 pygmentize
-pykick
 pylint
 pyranja
 python
@@ -8530,8 +8772,8 @@ readable
 reader
 readiness
 readme
+readpdf
 readthedocs
-real-time
 realschule
 realtimeprotection
 rebase
@@ -8581,7 +8823,6 @@ refeds
 refeds-mfa
 refedsmfa
 reference
-reflect
 reflection
 refresh
 refreshtoken
@@ -8610,6 +8851,7 @@ regression
 regular-expression
 regularexpression
 regularexpressions
+reinstall
 relational
 relativity
 relay
@@ -8783,7 +9025,7 @@ robocopy
 robot
 roca
 rock
-rocketcyber
+rocket
 roco
 rocolatey
 role
@@ -8865,6 +9107,7 @@ safari
 safe
 safeguard
 sage
+saggiehaim
 sailpoint
 sale
 sales
@@ -8973,6 +9216,8 @@ screenshot
 script
 script_version
 script-module
+script-to-assembly
+script-to-executable
 scriptanalyzer
 scriptblock
 scriptblocklogging
@@ -8986,6 +9231,7 @@ scripting
 scriptlog
 scriptlogging
 scriptmodule
+scriptoform
 scriptrunner
 scripts
 scriptsmonitoring
@@ -9018,6 +9264,7 @@ secretmanagement
 secretmanagementextension
 secrets
 secretsanta
+secretscanner
 secretserver
 secretsmanagement
 secretsmanager
@@ -9166,6 +9413,7 @@ setting
 settings
 setup
 sevenzip
+sf
 sfb
 sfc
 sftp
@@ -9293,8 +9541,9 @@ skypeforbusinessonline
 skypeonline
 skytap
 slack
+slash
+slashcommands
 sleeper
-slideshow
 slmgr
 sln
 slugify
@@ -9339,7 +9588,6 @@ snipe-it
 snippet
 snippets
 snippets-manager
-snippit
 snmp
 snmpget
 snmpset
@@ -9404,6 +9652,7 @@ sourcequery
 sovcloud
 space
 spaces
+spacex
 spam
 spamtitan
 spanner
@@ -9436,10 +9685,10 @@ spellcheck
 spelling
 spf
 spfx
+sphere
 spi
 spicetify
 spinnaker
-splash
 splat
 splatting
 split
@@ -9636,6 +9885,7 @@ stripe
 strongname
 structure
 sts
+stt
 studio
 style
 su
@@ -9707,6 +9957,7 @@ sybase
 sybaseiq
 symantec
 symbolic
+symbolic_link
 symboliclink
 symbols
 symbolservers
@@ -9742,7 +9993,6 @@ syspip3
 sysprep
 system
 system information 1394 controller baseboard motherboard systemboard battery bios bus cache memory cd dvd rom drive compact disc desktop monitor disk partition fan floppy glide point heatpipe ide infrared device keyboard local logical array mouse'
-system-administration
 system-group
 system-service
 system-services
@@ -9754,6 +10004,7 @@ systemadmins
 systemcenter
 systemcolors
 systemconfiguration
+systemctl
 systemdiscovery
 systeminfo
 systeminformation
@@ -9773,7 +10024,6 @@ tabexpansion2
 tablacus
 table
 tableau
-tableauserver
 tableauworkbook
 tabler
 tables
@@ -9837,7 +10087,6 @@ teamviewer
 techdirect
 techedna2014
 techlog
-technology
 techsmith
 tel
 telegram
@@ -9879,7 +10128,6 @@ terrafun
 terragrunt
 tesla
 test
-test-automation
 test-dscconfiguration
 test-internetconnection
 test-modulemanifest
@@ -9911,8 +10159,8 @@ text-emojis
 text-templates
 text-to-image
 text-to-speach"
+text-to-speech
 text2image
-textanalysis
 textbuffer
 textgeneration
 texting
@@ -9982,6 +10230,8 @@ titanhq
 title
 tld
 tls
+tls11
+tls12
 tlsa
 tlsprotocol
 tlsrpt
@@ -10100,6 +10350,7 @@ trustedinstaller
 trustedrootcertificate
 trustedsigning
 truth
+trx
 ts
 tsa
 tsd
@@ -10118,7 +10369,6 @@ tuner
 tuning
 tutorial
 tv
-tvguide
 tweet
 twig
 twilio
@@ -10352,7 +10602,6 @@ uuid
 uw
 uwp
 ux
-v20
 vadim
 vagrant
 vale
@@ -10495,6 +10744,7 @@ vmwdatacenter
 vmwfolder
 vmwvmhost
 vnet
+vnmonitoring
 vnugglets
 vnugglets.com
 vocabularies
@@ -10574,6 +10824,7 @@ wakeup
 walk
 wallet
 wallpaper
+wallpapers
 wannacry
 wansi
 wap
@@ -10617,7 +10868,6 @@ webcamera
 webcmdlets
 webdav
 webdeploy
-webdeveloper
 webfrequest
 webhdfs
 webhelpdesk
@@ -10993,7 +11243,6 @@ youtubeextractor
 yq
 yubaba
 yubikey
-yum
 z
 zabbix
 zabbixps
