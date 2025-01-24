@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Friday, 24 January 2025 02:14:42 UTC
+Updated: Friday, 24 January 2025 09:52:19 UTC
 
 .bat
 .env
@@ -80,6 +80,7 @@ about
 abr
 abstractsyntaxtree
 abuse
+abuseipdb
 acas
 accelerator
 access
@@ -224,6 +225,7 @@ adr
 ads
 adsi
 adsite
+adsp
 adsync
 adt
 aduser
@@ -311,6 +313,7 @@ aliases
 aliens
 all
 alletra
+alloydb
 alm
 almrangers
 alpha
@@ -338,6 +341,7 @@ amp
 amqp
 amsi
 amt
+amxmodx
 anaconda
 analysis
 analysisservices
@@ -472,7 +476,12 @@ architecuture
 archive
 archivedteams
 archivematica
+archivial
+archivial-backup
+archivial-cloud-backup
 archlinux
+archon
+archonagent
 arcresourcebridge
 arcus
 area
@@ -610,6 +619,7 @@ automanage
 automate
 automated
 automatedlab
+automatenow
 automaticpacketreportingsystem
 automation
 automation psmodule
@@ -703,6 +713,7 @@ azure
 azure_ad
 azure_security
 azure-adx
+azure-backup
 azure-cli
 azure-data-explorer
 azure-devops
@@ -875,6 +886,7 @@ bigquery
 bikeshed
 billing
 billingbenefits
+bimi
 bin
 bin-obj
 binary
@@ -1165,6 +1177,7 @@ chatbot
 chatgpt
 chatops
 chatroom
+chatter
 cheat
 check
 checker
@@ -1287,6 +1300,7 @@ clone
 close-openfile
 cloud
 cloud_data_management
+cloud-backup
 cloud-computing
 cloud-init
 cloud-iq
@@ -1407,6 +1421,7 @@ command_line
 command-line-interface
 command-validation
 commandcoverage
+commandhistory
 commandlets
 commandline
 commandr
@@ -1560,7 +1575,6 @@ conversion
 conversiontool
 convert
 convert-dtexceptiontomessage
-convert-movietogif
 convert-sid
 convert-windowsimage
 converter
@@ -1789,6 +1803,8 @@ dast
 data
 data_protection
 data_security
+data-archive
+data-backup
 data-tier
 data-uri
 data-uri-converter
@@ -2157,6 +2173,7 @@ dok
 dokuwiki
 domain
 domaincontroller
+domainkey
 domainname
 domainnamesystem
 domains
@@ -2314,6 +2331,7 @@ ebur128
 ec2
 ecommerce
 ecovadis
+ed25519
 edgaronline
 edge
 edgebackup
@@ -2906,6 +2924,7 @@ gallery
 game
 gamecategory:cards
 games
+gameserver
 gaming
 garage
 gas
@@ -3093,6 +3112,7 @@ gpt
 gpx
 gradle
 grafana
+grafanaapi
 granttype
 graph
 graph-api
@@ -3154,6 +3174,7 @@ gzip-compression
 ha
 haarlemsdagblad
 hack
+hacking
 hacktoberfest
 hadoop
 hafr
@@ -3637,6 +3658,7 @@ ipbroadcast
 ipc
 ipcalc
 ipcalculator
+ipconfig
 iperf
 ipfy.org
 iphone
@@ -3725,6 +3747,8 @@ jiraservicemanagement
 jitbit
 jms
 jmsjavadownloads
+jnet
+jnetps
 joat
 job
 jobcan
@@ -3767,12 +3791,14 @@ jupyter
 jupytor
 jurassic
 justenoughadministration
+jvm
 jwe
 jwk
 jws
 jwt
 jwttoken
 k8s
+k8sshell
 k8ssnapshots
 kafka
 kaminario
@@ -3846,6 +3872,7 @@ krbtgt
 krick
 kschemaplugin
 kubclt
+kube
 kubeconfig
 kubectl
 kubectx
@@ -4455,7 +4482,6 @@ mof
 moldova
 moment
 monaco
-monday
 mondoo
 money
 moneyforward
@@ -4548,6 +4574,7 @@ mstsc
 msu
 msvc
 msword
+mta-sts
 mule
 mulesoft
 multi
@@ -4586,7 +4613,6 @@ mycloudrevolution
 myget
 myhub
 myip
-myitprocess
 myjson
 myjson.com
 myob
@@ -4919,6 +4945,7 @@ onesubscription
 onetimesecret
 oneviewglobaldashboard
 online
+online-backup
 onlinebackup
 onprem
 onpremisesdatagatewayhamgmt
@@ -5401,7 +5428,6 @@ poshy-wrap-npm
 poshy-wrap-pip
 poshy-wrap-pipenv
 poshy-wrap-pyenv
-poshy-wrap-pylint
 poshy-wrap-python
 poshy-wrap-ruby
 poshy-wrap-systemctl
@@ -5445,6 +5471,7 @@ powerconfiguration
 powerdex
 powerforensics
 powergraph
+powergui
 powermax
 powerpack
 powerplan
@@ -6688,7 +6715,6 @@ pscommand_invoke-pipinstallupgrade
 pscommand_invoke-piplistoutdated
 pscommand_invoke-pipuninstall
 pscommand_invoke-pyenv
-pscommand_invoke-pylintreportsdisabled
 pscommand_invoke-ruby
 pscommand_invoke-rubyexecute
 pscommand_invoke-rubyexecutehttpdhere
@@ -7179,7 +7205,6 @@ pscommand_pwh
 pscommand_pwshrc-show-proxy
 pscommand_py
 pscommand_pyenv
-pscommand_pylint-quick
 pscommand_pyserver
 pscommand_python
 pscommand_python3
@@ -7458,6 +7483,7 @@ pscommand_zwp
 pscommander
 psconfasia
 psconfeu
+psconfig
 pscore
 pscredential
 pscribo
@@ -8100,7 +8126,6 @@ psfunction_invoke-pipinstallupgrade
 psfunction_invoke-piplistoutdated
 psfunction_invoke-pipuninstall
 psfunction_invoke-pyenv
-psfunction_invoke-pylintreportsdisabled
 psfunction_invoke-ruby
 psfunction_invoke-rubyexecute
 psfunction_invoke-rubyexecutehttpdhere
@@ -8557,7 +8582,6 @@ psjobs
 psjobthreads
 pskeepass
 pslocalgallery
-psloganalytics
 psm
 psm1
 psmodule
@@ -8684,7 +8708,6 @@ pxedistributionpoint
 pyenv
 pygmentize
 pykick
-pylint
 pyranja
 python
 python-for-dotnet
@@ -9189,6 +9212,7 @@ sc
 scaffold
 scaffolding
 scaffoldingtemplate
+scala
 scalable
 scalablevectorgraphics
 scale
@@ -9231,7 +9255,6 @@ scissors
 scm
 scmanager
 scom
-sconfig
 scoop
 scope
 score
@@ -9372,6 +9395,7 @@ send
 send-logtologanalytics
 send-mailmessage
 send-message
+senderid
 sendgrid
 sendkeys
 sendmail
@@ -9480,7 +9504,9 @@ shared
 sharefile
 sharepoint
 sharepoint_online
+sharepoint-on-prem
 sharepoint-online
+sharepoint-product-configuration-wizard
 sharepoint2013
 sharepointdevelopmentcommunity
 sharepointonline
@@ -9578,6 +9604,8 @@ skypeforbusinessonline
 skypeonline
 skytap
 slack
+slash
+slashcommands
 sleeper
 slideshow
 slmgr
@@ -9682,7 +9710,9 @@ source-dedicated-server
 sourcecontrol
 sourceforge
 sourcegraph
+sourcemod
 sourceone
+sourcepawn
 sourcequery
 sovcloud
 space
@@ -9845,6 +9875,7 @@ start-threadjob
 startkey
 startmen
 startmenu
+starttls
 starwars
 stash
 stat
@@ -10089,6 +10120,7 @@ task_automation
 task-runner
 task-scheduler
 taskbar
+tasker
 taskgroup
 taskmanagement
 tasks
@@ -10179,6 +10211,7 @@ test-xml
 test123
 testaccount
 testautomation
+tester
 testimonial
 testing
 testlab
@@ -10246,6 +10279,7 @@ thunderbird
 thycotic
 tibber
 tic-tac-toe
+ticketing
 tickle
 ticks
 tictactoe
@@ -10254,8 +10288,6 @@ time
 timeout
 timer
 timeseriesinsights
-timesheet
-timesheets
 timespan
 timezone
 tinkerpop
@@ -10269,7 +10301,9 @@ tld
 tls
 tls11
 tls12
+tlsa
 tlsprotocol
+tlsrpt
 tmux
 to-do
 toast
@@ -10369,6 +10403,7 @@ tribeloo
 trick
 tricks
 trigger
+triggers
 trilium
 triliumnext
 triodos
@@ -10379,7 +10414,6 @@ trouw
 true-color
 truecrypt
 truenas
-trumethods
 truportal
 trusted
 trusted-host
@@ -10668,7 +10702,6 @@ vaultstore
 vaultwarden
 vb365
 vba
-vbaproject
 vbproj
 vbr
 vbscript
@@ -10880,6 +10913,7 @@ warraty
 warrenty
 wasabi
 watch
+watchdog
 watchguard
 watchmen
 watery
@@ -11177,7 +11211,6 @@ write-debug
 write-host
 write-information
 write-log
-write-loganalytics
 write-message
 write-progress
 write-slog
@@ -11254,6 +11287,7 @@ xoauth2
 xor
 xpath
 xpendingreboot
+xpertdoc
 xpo
 xprotect
 xpt
@@ -11306,6 +11340,8 @@ zookeeper
 zoom
 zoomapi
 zoommeeting
+zorus
+zorusapi
 zoxide
 zpr
 zsh
