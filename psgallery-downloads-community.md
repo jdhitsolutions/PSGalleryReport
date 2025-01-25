@@ -33,7 +33,7 @@ __Downloads__: 106,036,003 | __Repository__: https://github.com/KelvinTegelaar/R
 
 Powershell module for serializing and deserializing YAML
 
-__Downloads__: 104,439,550 | __Repository__: https://github.com/cloudbase/powershell-yaml
+__Downloads__: 104,438,245 | __Repository__: https://github.com/cloudbase/powershell-yaml
 
 ## [psprivilege](https://www.powershellgallery.com/Packages/psprivilege/0.2.0) | 0.2.0
 
@@ -42,7 +42,7 @@ __Downloads__: 104,439,550 | __Repository__: https://github.com/cloudbase/powers
 Adds cmdlets that can be used to enable/disable/remove privileges on a process. Also adds cmdlets that can be used to configure the members of Windows rights and privileges.
 See https://github.com/jborean93/PSPrivilege for more info
 
-__Downloads__: 87,172,862 | __Repository__: https://github.com/jborean93/PSPrivilege
+__Downloads__: 87,170,235 | __Repository__: https://github.com/jborean93/PSPrivilege
 
 ## [Carbon](https://www.powershellgallery.com/Packages/Carbon/2.15.1) | 2.15.1
 
@@ -1120,7 +1120,7 @@ __Downloads__: 4,967,303 | __Repository__: https://github.com/seanmcne/Microsoft
 
 Zero Install is a decentralized cross-platform software-installation system.
 
-__Downloads__: 4,825,779 | __Repository__: https://0install.net/
+__Downloads__: 4,825,778 | __Repository__: https://0install.net/
 
 ## [PSWSMan](https://www.powershellgallery.com/Packages/PSWSMan/2.3.1) | 2.3.1
 
@@ -1652,7 +1652,7 @@ __Downloads__: 1,736,133 | __Repository__:
 This module assists software deployment administrators in deploying disparate software. It is designed to
 provide a standard interface to treat software installers of all types exactly the same.
 
-__Downloads__: 1,713,402 | __Repository__: https://github.com/adbertram/PSSoftware
+__Downloads__: 1,713,403 | __Repository__: https://github.com/adbertram/PSSoftware
 
 ## [HPEiLOCmdlets](https://www.powershellgallery.com/Packages/HPEiLOCmdlets/4.4.0.0) | 4.4.0.0
 
@@ -2143,4 +2143,4 @@ Secure DevOps Kit for Azure (AzSK)
 
 __Downloads__: 749,545 | __Repository__: https://github.com/azsk/DevOpsKit-docs
 
-*Updated: Saturday, 25 January 2025 02:12:38 UTC*
+*Updated: Saturday, 25 January 2025 09:52:24 UTC*

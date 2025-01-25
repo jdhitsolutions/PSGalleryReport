@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Saturday, 25 January 2025 02:12:41 UTC
+Updated: Saturday, 25 January 2025 09:52:27 UTC
 
 .bat
 .env
@@ -515,7 +515,6 @@ asbuiltreport
 asc
 ascii
 ascii85
-asciiart
 asdatabase
 asigra
 asjob
@@ -619,7 +618,6 @@ automanage
 automate
 automated
 automatedlab
-automatenow
 automaticpacketreportingsystem
 automation
 automation psmodule
@@ -681,9 +679,11 @@ axis
 axium
 ayx
 az
+az-cli
 az.runtimeenvironment
 az.stackhci
 azautomation
+azcli
 azcompute
 azd
 azdisk
@@ -712,6 +712,7 @@ azure_ad
 azure_security
 azure-adx
 azure-backup
+azure-cli
 azure-data-explorer
 azure-devops
 azure-forensics
@@ -868,6 +869,7 @@ ber
 bestpractice
 bestpractices
 bginfo
+bgp
 bi
 bibliography
 bibtex
@@ -1447,6 +1449,7 @@ complete
 completer
 completion
 completion-manager
+completionresult
 completions
 complex
 compliance
@@ -1792,7 +1795,6 @@ dangling
 dapr
 dare
 dark
-darktrace
 dash
 dashboard
 dashboardapi
@@ -1989,6 +1991,7 @@ devdrive
 developer
 developer_command_prompt
 developercommandprompt
+developermode
 development
 devenv
 devexpress
@@ -2097,9 +2100,9 @@ distributiongroups
 distributionlist
 distributionpointgroupmembers
 distrubtionpoint
+dividends
 diving
 division
-divoom
 diy
 dkim
 dkschrutebeets
@@ -2629,6 +2632,7 @@ f
 f#
 f5
 fabric
+fabtools
 facebook
 factoryorchestrator
 factoryorchestratorclient
@@ -2649,7 +2653,6 @@ fast
 fast-dds
 fast-ping
 fastfilepub
-fastgit
 fastlinq
 fastlookup
 fastping
@@ -2954,7 +2957,6 @@ generates
 generatewif
 generation
 generativeai
-generativeaiagent
 generativeaiagentruntime
 generativeaiinference
 generator
@@ -2971,6 +2973,8 @@ geoencode
 geoencoding
 geoip
 geolocation
+geosearching
+geotagging
 get
 get_random_password
 get-admodernreport
@@ -3246,7 +3250,6 @@ heating
 heavenbay
 helium
 helix
-hello
 helloid
 helloposhgallery
 helloworld
@@ -3254,6 +3257,7 @@ helm
 helmet
 help
 helpdesk
+helpdoc
 helper
 helper-functions
 helperfunctions
@@ -3723,7 +3727,6 @@ java
 javamanager
 javascript
 javaversion
-jboss
 jdbc
 jde
 jdedwards
@@ -3903,7 +3906,6 @@ labworker
 lake
 lambda
 lame
-lametrictime
 lan
 landingzones
 language
@@ -4385,6 +4387,7 @@ microsoftdefenderforidentity
 microsoftdeploymenttoolkit
 microsoftendpointmanager
 microsoftexchangeserver
+microsoftfabric
 microsoftgraph
 microsoftgraphapi
 microsoftgraphrestapi
@@ -4496,6 +4499,7 @@ mosaic
 motd
 motivation
 motivationalquotes
+mount
 mouse
 move
 movies
@@ -4541,6 +4545,7 @@ msi psmodule
 msiexec
 msil
 msix
+mslab
 msmq
 msol
 msoms
@@ -4630,7 +4635,6 @@ namespace
 naming
 nana
 nano
-nanoleaf
 nartac
 nasdaq
 native
@@ -4676,6 +4680,8 @@ netextender
 netfirewallrule
 netherlands
 netmask
+netpdf
+netpdfps
 nets
 netsapiens
 netscaler
@@ -4712,8 +4718,6 @@ new
 new-completionresult
 new-dtcmpackagefromdriverpackpackagedefinitionsms
 new-dtcmtasksequencefromdriverpackpackagedefinitionsms
-new-dynamicdictionary
-new-dynamicparameter
 new-githubrelease
 new-item
 new-itemproperty
@@ -5186,6 +5190,7 @@ paylocity
 paypal
 pays
 pbench
+pbip
 pbixtopbip
 pbixtopbit
 pc
@@ -5200,6 +5205,7 @@ pdf-document-processor
 pdf-files
 pdf-generation
 pdf-redaction
+pdfbox
 pe
 peek
 peering
@@ -5277,7 +5283,6 @@ piv
 pivot
 pivotal
 pivottable
-pixoo
 pkce
 pkgx
 pki
@@ -9146,8 +9151,6 @@ runspace
 runspacepool
 runspaces
 runtime
-runtimedefinedparameter
-runtimedefinedparameterdictionary
 runway
 russia
 rust
@@ -9303,6 +9306,7 @@ sd
 sddl
 sdk
 sdn
+sdp
 search
 search-adminauditlog
 search-engines
@@ -9332,7 +9336,6 @@ section
 secur32
 secure
 secureapplicationmodel
-secureboot
 securechannel
 securedns
 securegopher
@@ -9648,6 +9651,7 @@ snipe-it
 snippet
 snippets
 snippets-manager
+snippit
 snmp
 snmpget
 snmpset
@@ -9906,6 +9910,7 @@ stigrepo
 stingar
 stock
 stockcharts
+stocks
 stoicism
 stoics
 stolpe.io
@@ -10121,6 +10126,7 @@ tasks
 taskscheduler
 tatux
 taxjar
+taxonomy
 tcg
 tcp
 tcp/ip
@@ -10181,6 +10187,7 @@ terminal-services
 terminal.gui
 terminalnotifier
 terminalvelocity
+termset
 terraform
 terraform-docs
 terraform-switcher
@@ -10320,7 +10327,6 @@ tookit
 tool
 toolbox
 toolkit
-toolmaking
 tools
 tools4ever
 topdesk
@@ -10406,6 +10412,7 @@ troubleshoot
 troubleshooting
 trouw
 true-color
+truecrypt
 truenas
 trumethods
 truportal
@@ -10440,7 +10447,6 @@ tweet
 twig
 twilio
 twincat
-twinkly
 twitch
 twitter
 twitter-api
@@ -10729,6 +10735,7 @@ vendorpam
 venue
 venvlink
 vera
+veracrypt
 verbose psmodule
 verification
 verify
@@ -10931,6 +10938,7 @@ webapp
 webapplicationproxy
 webapps
 webauthn
+webbrowser
 webcamera
 webcmdlets
 webdav
@@ -11023,7 +11031,6 @@ wifi
 wiki
 wildcard
 wildfire
-wildfly
 wim
 wim2vhd
 wimwitch
@@ -11038,6 +11045,7 @@ win32_operatingsystem
 win32-api
 win32appmigrationtool
 win32shutdown
+winbgp
 windchillrv&s
 window
 windows
@@ -11182,7 +11190,6 @@ workspacemanager
 workspaceone
 workspaces
 workstation
-world
 worldcup
 worryfreebusinesssecurity
 wow
