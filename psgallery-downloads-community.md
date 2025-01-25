@@ -1349,7 +1349,7 @@ __Downloads__: 3,064,772 | __Repository__: https://developer.vmware.com/powercli
 
 This module allows you to collect warranty information from a myriad of sources
 
-__Downloads__: 2,965,460 | __Repository__: https://github.com/KelvinTegelaar/PowerShellWarrantyReports
+__Downloads__: 2,965,410 | __Repository__: https://github.com/KelvinTegelaar/PowerShellWarrantyReports
 
 ## [Cobalt](https://www.powershellgallery.com/Packages/Cobalt/0.4.0) | 0.4.0
 
@@ -1431,7 +1431,7 @@ __Downloads__: 2,571,718 | __Repository__: https://github.com/Azure/AzOps
 
 This module contains the DSC resources for manipulating the content of text files.
 
-__Downloads__: 2,519,722 | __Repository__: https://github.com/PlagueHO/FileContentDsc
+__Downloads__: 2,519,725 | __Repository__: https://github.com/PlagueHO/FileContentDsc
 
 ## [Invoke-SqlCmd2](https://www.powershellgallery.com/Packages/Invoke-SqlCmd2/1.6.4) | 1.6.4
 
@@ -1652,7 +1652,7 @@ __Downloads__: 1,736,133 | __Repository__:
 This module assists software deployment administrators in deploying disparate software. It is designed to
 provide a standard interface to treat software installers of all types exactly the same.
 
-__Downloads__: 1,713,403 | __Repository__: https://github.com/adbertram/PSSoftware
+__Downloads__: 1,713,402 | __Repository__: https://github.com/adbertram/PSSoftware
 
 ## [HPEiLOCmdlets](https://www.powershellgallery.com/Packages/HPEiLOCmdlets/4.4.0.0) | 4.4.0.0
 
@@ -1880,7 +1880,7 @@ __Downloads__: 1,136,904 | __Repository__:
 
 This module allows you to connect to the Autotask REST API. The Autotask REST API was launched with version 2020.2
 
-__Downloads__: 1,123,891 | __Repository__: https://github.com/KelvinTegelaar/AutotaskAPI
+__Downloads__: 1,123,890 | __Repository__: https://github.com/KelvinTegelaar/AutotaskAPI
 
 ## [AzStorageTable](https://www.powershellgallery.com/Packages/AzStorageTable/1.0.2) | 1.0.2
 
@@ -2016,7 +2016,7 @@ __Downloads__: 906,790 | __Repository__: https://github.com/ebekker/pwsh-github-
 
 Adds some additional functionality to the PowerShell DSC module cChoco
 
-__Downloads__: 904,518 | __Repository__: https://github.com/jyonke/cChocoEx
+__Downloads__: 904,519 | __Repository__: https://github.com/jyonke/cChocoEx
 
 ## [PSFalcon](https://www.powershellgallery.com/Packages/PSFalcon/2.2.8) | 2.2.8
 
@@ -2143,4 +2143,4 @@ Secure DevOps Kit for Azure (AzSK)
 
 __Downloads__: 749,545 | __Repository__: https://github.com/azsk/DevOpsKit-docs
 
-*Updated: Saturday, 25 January 2025 09:52:24 UTC*
+*Updated: Saturday, 25 January 2025 17:52:07 UTC*
