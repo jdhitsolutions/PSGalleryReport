@@ -973,9 +973,9 @@ The Modern Workplace Client Center Module provides functions to troubleshoot Mic
 
 __Downloads__: 44,446,758 | __Repository__: https://github.com/ThomasKur/ModernWorkplaceClientCenter
 
-## [ComputerManagementDsc](https://www.powershellgallery.com/Packages/ComputerManagementDsc/9.2.0) | 9.2.0
+## [ComputerManagementDsc](https://www.powershellgallery.com/Packages/ComputerManagementDsc/10.0.0) | 10.0.0
 
-### Published: 09/30/2024 16:52:22 by DSC Community
+### Published: 01/25/2025 15:17:04 by DSC Community
 
 DSC resources for configuration of a Windows computer. These DSC resources allow you to perform computer management tasks, such as renaming the computer, joining a domain and scheduling tasks as well as configuring items such as virtual memory, event logs, time zones and power settings.
 
@@ -1595,7 +1595,7 @@ __Downloads__: 25,919,180 | __Repository__:
 
 This module includes DSC resources that simplify administration of certificates on a Windows Server
 
-__Downloads__: 25,784,658 | __Repository__: https://github.com/PowerShell/xCertificate
+__Downloads__: 25,784,659 | __Repository__: https://github.com/PowerShell/xCertificate
 
 ## [Pester](https://www.powershellgallery.com/Packages/Pester/5.7.1) | 5.7.1
 
@@ -1611,7 +1611,7 @@ __Downloads__: 25,559,762 | __Repository__: https://github.com/Pester/Pester
 
 DSC resources for managing certificates on a Windows Server.
 
-__Downloads__: 25,334,008 | __Repository__: https://github.com/dsccommunity/CertificateDsc
+__Downloads__: 25,334,011 | __Repository__: https://github.com/dsccommunity/CertificateDsc
 
 ## [IISAdministration](https://www.powershellgallery.com/Packages/IISAdministration/1.1.0.0) | 1.1.0.0
 
@@ -1653,7 +1653,7 @@ __Downloads__: 23,668,098 | __Repository__: https://github.com/jasoth/MSAL.PS
 
 DSC resources for configuring WS-Man.
 
-__Downloads__: 23,585,975 | __Repository__: https://github.com/dsccommunity/WSManDsc
+__Downloads__: 23,585,977 | __Repository__: https://github.com/dsccommunity/WSManDsc
 
 ## [xPowerShellExecutionPolicy](https://www.powershellgallery.com/Packages/xPowerShellExecutionPolicy/3.1.0.0) | 3.1.0.0
 
@@ -2148,4 +2148,4 @@ For more information, please visit the following: https://docs.microsoft.com/Mic
 
 __Downloads__: 11,975,311 | __Repository__: https://github.com/MicrosoftDocs/office-docs-powershell/tree/master/teams
 
-*Updated: Saturday, 25 January 2025 09:52:22 UTC*
+*Updated: Saturday, 25 January 2025 17:52:05 UTC*
