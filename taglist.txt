@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 27 January 2025 09:52:18 UTC
+Updated: Monday, 27 January 2025 17:52:24 UTC
 
 .bat
 .env
@@ -96,7 +96,6 @@ accord
 accord.net
 accordian
 account
-account-management
 accounting
 accounts
 ace
@@ -169,7 +168,6 @@ add
 add-in
 add-member
 add-on
-add-on.module
 add-one
 add-path
 add-type
@@ -310,6 +308,7 @@ alias
 alias-hint
 alias-tips
 aliases
+aliens
 all
 alletra
 alloydb
@@ -558,8 +557,6 @@ atlassianps
 atmosphere
 atom
 atp
-atproto
-atprotocol
 atrium
 att&ck
 attach
@@ -719,6 +716,7 @@ azure-devops
 azure-forensics
 azure-functions
 azure-pipelines
+azure-resource-graph
 azure-ssis
 azureactivedirectory
 azuread
@@ -752,7 +750,6 @@ azuredevops_security
 azuredevopsserver
 azuredns
 azurefilesync
-azurefunctionapp
 azurefunctions
 azuregraph
 azuregroupstuff
@@ -940,7 +937,6 @@ blue
 bluedolhin
 blueprint
 blueprints
-bluesky
 blueteam
 bluetraitio
 bluetuxedo
@@ -1190,7 +1186,6 @@ chef-compliance
 chef-server
 chefconf2016
 chenxizhang
-cherrypy
 cherwell
 chfs
 chi
@@ -1776,7 +1771,6 @@ cyclicredundancycheck
 cygwin
 cylance
 cypher
-cyrillic
 d365
 d365ce
 d365fo
@@ -1882,7 +1876,6 @@ dbase
 dbassistant
 dbatools
 dbcommand
-dbeaver
 dbfs
 dbnull
 dbops
@@ -2364,6 +2357,7 @@ elevated
 elevatedconsole
 elevatedmode
 elevation
+elevenlabs
 elgato
 elitism
 elk
@@ -2551,7 +2545,6 @@ exchange-rates
 exchange2010
 exchange2013
 exchange2016
-exchangecluster
 exchangehybrid
 exchangemigration
 exchangeon-premise
@@ -2666,6 +2659,7 @@ fd
 feather
 feature
 features
+featuresondemand
 featureupdate
 federated
 federateddirectory
@@ -2961,12 +2955,10 @@ generator
 generic
 genericartifactscontent
 genetic-algorithm
-genp
 genxdev
 geo
 geocache
 geocaching
-geocode
 geoencode
 geoencoding
 geoip
@@ -3075,7 +3067,6 @@ google
 google-chrome
 google-fonts
 google-histogram
-google-sankey
 google-table
 googleadsv2
 googlecloudplatform
@@ -3148,6 +3139,7 @@ gsuite
 gtx1080ti
 guardedfabric
 guardicore
+gubbins
 guest
 guestconfiguration
 guests
@@ -3362,8 +3354,6 @@ html
 html-templates
 http
 http_proxy
-http-listener
-http-server
 httpclient
 httplistener
 https
@@ -3528,10 +3518,7 @@ influxdb
 info
 infoblox
 information
-information-technology
 informationbarriers
-informationtechnology
-informationtechnologyoperations
 informix
 infosec
 infrastructure
@@ -3657,7 +3644,6 @@ ipcalculator
 ipconfig
 iperf
 ipfy.org
-iphone
 ipilot
 iplookup
 ipmaths
@@ -3913,6 +3899,7 @@ landingzones
 language
 languageai
 languagedsc
+languageexperiencepack
 languagemodels
 languagepack
 lansweeper
@@ -3926,7 +3913,6 @@ lastlogon
 lastpass
 latency
 latestupdate
-latin
 latitude
 launcher
 layer
@@ -3952,6 +3938,7 @@ learnpowershell
 lease
 leftjoin
 legacy
+legacyad
 legends
 lego
 lein
@@ -4026,6 +4013,7 @@ llama
 llama2
 llama3
 lldp
+llm
 lmhost
 lmhosts
 lms
@@ -4038,10 +4026,8 @@ loanddepot
 loandepot
 loc
 local
-local-account
 local-caching
 local-policy
-local-users
 localaccounts
 localadmin
 localconfigurationmanager
@@ -4353,7 +4339,6 @@ mga
 mgn
 mi
 micro
-micro-framework
 micro-orm
 microfocus
 microk8s
@@ -4420,7 +4405,6 @@ minecraft
 miniconda
 minifier
 minimal
-minimalist-framework
 minimum
 mip
 mipsdk
@@ -4447,7 +4431,6 @@ mlflow
 mlmodels
 mltools
 mmdc
-mobile
 mobilenetwork
 mobilitycontroller
 mock
@@ -4529,7 +4512,6 @@ msdtc
 msedge
 msexcel
 msexchange
-msft
 msftnet
 msftnetworking
 msg
@@ -4871,7 +4853,6 @@ ocgv
 oci
 ocicontrolcenter
 ocr
-octoprint
 octopus
 octopus-deploy
 octopus.client
@@ -4957,7 +4938,6 @@ ontap_pstk_9.8.0
 onyphe
 onyphe.io
 oob
-oop
 op
 opa
 opc
@@ -4985,8 +4965,8 @@ openssh
 opensshserver
 openssl
 openstack
-openstreetmaps
 openvpn
+openxml
 operating
 operating_system
 operating-system
@@ -5042,7 +5022,6 @@ osdprogress
 osdsus
 osdupdate
 osi
-osm
 osmanagement
 osmanagementhub
 osp
@@ -5234,7 +5213,6 @@ persistent
 personal
 personalisation
 personalization
-personalvault
 personio
 pester
 pf
@@ -8541,7 +8519,6 @@ psmodule
 psmodule psedition_desktop
 psmodulepath
 psmodules
-psmp
 psmsgraph
 psmsgraphapi
 psmssql
@@ -8623,7 +8600,6 @@ publishing
 pubsub
 pubxml
 pulldistributionpoint
-pullrequest
 pullserver
 pulseway
 pulumi
@@ -8796,6 +8772,7 @@ rebootnodeifneeded
 reckon
 recommendation
 reconcile
+reconnaissance
 record
 recording
 recordings
@@ -8804,10 +8781,7 @@ recovery
 recoveryservices
 recruiter
 recrutch
-recurse
 recursion
-recursivefilesandfoldersdownload
-recursivefilesandfoldersupload
 recyclebin
 red
 redact
@@ -8976,7 +8950,6 @@ resourcescheduler
 resourcesearch
 response
 rest
-rest_cherrypy
 rest-api
 restapi
 restart
@@ -9127,8 +9100,6 @@ sale
 sales
 salesforce
 salesloft
-salt
-salt-api
 saltstack
 saltstackconfig
 saltstackenterprise
@@ -9281,7 +9252,6 @@ secretsanta
 secretscanner
 secretserver
 secretsmanagement
-secretsmanager
 secretstore
 secretvault
 section
@@ -9428,6 +9398,7 @@ setting
 settings
 setup
 sevenzip
+sf
 sfb
 sfc
 sftp
@@ -9459,10 +9430,7 @@ sharepoint-on-prem
 sharepoint-online
 sharepoint-product-configuration-wizard
 sharepoint2013
-sharepointdevelopmentcommunity
 sharepointonline
-sharepointpnp
-sharepointpnppowershellonline.add-on.module
 shares
 sheets
 shell
@@ -9473,6 +9441,7 @@ shieldedvm
 ships
 shipsprovider
 shipstation
+shitpost
 shlink
 shodan
 shodanps
@@ -9536,7 +9505,6 @@ sitethumbprint
 sixel
 size
 skatterbrainz
-skeet
 skeleton-loader
 skia
 skiasharp
@@ -10009,7 +9977,6 @@ syspip3
 sysprep
 system
 system information 1394 controller baseboard motherboard systemboard battery bios bus cache memory cd dvd rom drive compact disc desktop monitor disk partition fan floppy glide point heatpipe ide infrared device keyboard local logical array mouse'
-system-administration
 system-group
 system-service
 system-services
@@ -10105,7 +10072,6 @@ teamviewer
 techdirect
 techedna2014
 techlog
-technology
 techsmith
 tel
 telegram
@@ -10319,7 +10285,6 @@ training-course
 tram
 transact
 transaction
-transactions
 transcode
 transcribe
 transcript
@@ -10330,8 +10295,6 @@ transforms
 transitionmanager
 translate
 translation
-translit
-transliteration
 transmission
 transparency
 transpilation
@@ -10650,7 +10613,6 @@ variants
 vastlimits
 vault
 vaultextension
-vaultstore
 vaultwarden
 vb365
 vba
@@ -10880,10 +10842,8 @@ weaviate
 weaviatenet
 web
 web-browser
-web-framework
 web-hook
 web-search
-web-server
 web.config
 webadministration
 webapi
@@ -10936,7 +10896,6 @@ well-architectedframework
 well-architectedreliabilityassessment
 well-known
 wem
-wemsdk
 wer
 wget
 what3words
@@ -11023,6 +10982,7 @@ windows-terminal
 windows-user-folder
 windows-user-profile
 windows10
+windows10mui
 windows11
 windows365
 windowsadmincenter
@@ -11083,7 +11043,6 @@ winrm
 winrs
 winrt
 wins
-winsat
 winscp
 wintellect
 winterminal
