@@ -1655,15 +1655,6 @@ DSC resources for configuring WS-Man.
 
 __Downloads__: 23,586,225 | __Repository__: https://github.com/dsccommunity/WSManDsc
 
-## [xPowerShellExecutionPolicy](https://www.powershellgallery.com/Packages/xPowerShellExecutionPolicy/3.1.0.0) | 3.1.0.0
-
-### Published: 07/25/2018 21:32:26 by OneScript Team
-
-This DSC resource can change the user preference for the Windows PowerShell execution policy. THIS MODULE HAS BEEN DEPRECATED
-It will no longer be released. Please use the "PowerShellExecutionPolicy" resource in ComputerManagementDsc instead.
-
-__Downloads__: 23,151,060 | __Repository__: https://github.com/PowerShell/xPowerShellExecutionPolicy
-
 ## [VMware.VimAutomation.Sdk](https://www.powershellgallery.com/Packages/VMware.VimAutomation.Sdk/13.3.0.24145081) | 13.3.0.24145081
 
 ### Published: 07/25/2024 12:46:15 by Broadcom
@@ -2066,14 +2057,6 @@ Windows PowerShell Module for managing devices
 
 __Downloads__: 12,414,349 | __Repository__: https://github.com/TobiasPSP/Modules.DeviceManagement
 
-## [Microsoft.Graph.ChangeNotifications](https://www.powershellgallery.com/Packages/Microsoft.Graph.ChangeNotifications/2.25.0) | 2.25.0
-
-### Published: 11/21/2024 06:26:41 by Microsoft Corporation
-
-Microsoft Graph PowerShell Cmdlets
-
-__Downloads__: 12,395,256 | __Repository__: https://github.com/microsoftgraph/msgraph-sdk-powershell
-
 ## [Microsoft.Graph.Identity.Governance](https://www.powershellgallery.com/Packages/Microsoft.Graph.Identity.Governance/2.25.0) | 2.25.0
 
 ### Published: 11/21/2024 06:28:03 by Microsoft Corporation
@@ -2146,4 +2129,20 @@ Microsoft Graph PowerShell Cmdlets
 
 __Downloads__: 12,175,670 | __Repository__: https://github.com/microsoftgraph/msgraph-sdk-powershell
 
-*Updated: Wednesday, 29 January 2025 02:13:54 UTC*
+## [Microsoft.Graph.SchemaExtensions](https://www.powershellgallery.com/Packages/Microsoft.Graph.SchemaExtensions/2.25.0) | 2.25.0
+
+### Published: 11/21/2024 06:28:47 by Microsoft Corporation
+
+Microsoft Graph PowerShell Cmdlets
+
+__Downloads__: 12,158,087 | __Repository__: https://github.com/microsoftgraph/msgraph-sdk-powershell
+
+## [Microsoft.Graph.Security](https://www.powershellgallery.com/Packages/Microsoft.Graph.Security/2.25.0) | 2.25.0
+
+### Published: 11/21/2024 06:28:54 by Microsoft Corporation
+
+Microsoft Graph PowerShell Cmdlets
+
+__Downloads__: 12,100,799 | __Repository__: https://github.com/microsoftgraph/msgraph-sdk-powershell
+
+*Updated: Wednesday, 29 January 2025 09:51:57 UTC*
