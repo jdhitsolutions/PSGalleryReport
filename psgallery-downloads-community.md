@@ -1303,22 +1303,6 @@ Get NTP Time from a specified NTP Server
 
 __Downloads__: 3,275,137 | __Repository__: https://github.com/ChrisWarwick/PowerShell-NTP-Time
 
-## [core](https://www.powershellgallery.com/Packages/core/1.9.4.2) | 1.9.4.2
-
-### Published: 11/06/2024 12:38:46 by Chris Masters
-
-Module with various generic functions that could be used in any script
-
-__Downloads__: 3,260,207 | __Repository__: https://github.com/masters274/core
-
-## [WingetTools](https://www.powershellgallery.com/Packages/WingetTools/1.7.0) | 1.7.0
-
-### Published: 01/02/2023 16:18:04 by Jeff Hicks
-
-A set of PowerShell tools for working with the winget package manager.
-
-__Downloads__: 3,227,322 | __Repository__: https://github.com/jdhitsolutions/WingetTools
-
 ## [WallpaperManager](https://www.powershellgallery.com/Packages/WallpaperManager/0.1.22) | 0.1.22
 
 ### Published: 09/09/2019 16:47:32 by Kendal Ballard Raymond Piller
@@ -1359,9 +1343,9 @@ A PowerShell Crescendo wrapper for WinGet
 
 __Downloads__: 2,953,775 | __Repository__: https://github.com/ethanbergstrom/Cobalt
 
-## [OSD](https://www.powershellgallery.com/Packages/OSD/25.1.28.1) | 25.1.28.1
+## [OSD](https://www.powershellgallery.com/Packages/OSD/25.1.29.2) | 25.1.29.2
 
-### Published: 01/28/2025 19:07:57 by David Segura . Gary Blok . Akos Bakos . Michael Escamilla
+### Published: 01/29/2025 09:28:40 by David Segura . Gary Blok . Akos Bakos . Michael Escamilla
 
 2025 January Update
 https://osd.osdeploy.com
@@ -2143,4 +2127,20 @@ Secure DevOps Kit for Azure (AzSK)
 
 __Downloads__: 749,978 | __Repository__: https://github.com/azsk/DevOpsKit-docs
 
-*Updated: Wednesday, 29 January 2025 02:13:56 UTC*
+## [UEFIv2](https://www.powershellgallery.com/Packages/UEFIv2/2.8) | 2.8
+
+### Published: 03/06/2024 23:43:59 by Michael Niehaus
+
+Sample module for interacting with UEFI from PowerShell
+
+__Downloads__: 726,837 | __Repository__: 
+
+## [GoogleCloudBeta](https://www.powershellgallery.com/Packages/GoogleCloudBeta/1.0.1.10) | 1.0.1.10
+
+### Published: 09/17/2018 22:45:16 by Google Inc
+
+PowerShell cmdlets for the Google Cloud Platform.
+
+__Downloads__: 726,402 | __Repository__: https://github.com/GoogleCloudPlatform/google-cloud-powershell
+
+*Updated: Wednesday, 29 January 2025 09:51:58 UTC*
