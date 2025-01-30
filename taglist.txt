@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Thursday, 30 January 2025 02:13:48 UTC
+Updated: Thursday, 30 January 2025 09:52:01 UTC
 
 .bat
 .env
@@ -193,6 +193,7 @@ adfstools
 adgroupmemberobjects
 adgroupmembers
 adgroups
+adidns
 adif
 adlds
 adm
@@ -269,7 +270,6 @@ aiapplications
 aiautomation
 aidocument
 aiintegration
-ailanguage
 aim
 aimodels
 aip
@@ -641,7 +641,6 @@ autoupdate
 autoupdate-script
 autowrapper
 autoyast
-auvik
 availability
 availabilityset
 avalara
@@ -666,7 +665,6 @@ aws
 aws_profile
 aws-codebuild
 aws-lambda
-aws-vault
 aws.tools.powershell
 awsbedrock
 awscli
@@ -944,6 +942,7 @@ blueprints
 bluesky
 blueteam
 bluetraitio
+bluetuxedo
 bmc
 bnm
 boards
@@ -981,6 +980,7 @@ brawlstars
 brazencloud
 bre
 breach
+break
 breakpoint
 brew
 brickset
@@ -1019,7 +1019,6 @@ buildhelpers
 building
 buildingfile
 buildingmapping
-buildkit
 buildkite
 buildmaster
 builds
@@ -1226,7 +1225,6 @@ cimi
 ciminstance
 cims
 cimsession
-cinema
 cinst
 cipher
 cipp
@@ -1244,6 +1242,7 @@ citation
 cite
 citrix
 citrixoptimizer
+civo
 cix
 class
 classes
@@ -1263,8 +1262,6 @@ clear
 clear-history
 clearpass
 cli
-cli-menu
-cli-menu-helpers
 clickonce
 client
 client-management
@@ -1339,7 +1336,6 @@ cmake
 cmakepresets.json
 cmbuild
 cmclibnet
-cmclustermaintenance
 cmd
 cmdb
 cmdkey
@@ -1430,13 +1426,11 @@ commence
 comment
 comments
 commerce
-commfort
 commit
 commits
 common
 common-data-service
 commondataservice
-commonmark
 commonstuff
 communication
 community
@@ -1697,7 +1691,6 @@ crossplatformdevelopment
 crowdstrike
 crt.sh
 crud
-crx
 crypto
 crypto-currency
 cryptocompare
@@ -1788,7 +1781,6 @@ dacfx
 dacl
 dacpac
 dacpackage
-dagger
 dailen
 daily
 dalle3
@@ -1826,7 +1818,6 @@ datacatalog
 datacenter
 dataclassification
 datacollectionrule
-dataconduit
 dataconnectivity
 datadog
 dataexchange
@@ -1894,6 +1885,7 @@ dc
 dcim
 dcim_b324
 dcom
+dconf
 dcr
 ddc
 ddc/ci
@@ -1926,6 +1918,7 @@ deepseek-coder-v2
 deepvisibility
 def
 default
+defaultparameter
 defaultroutes
 defaults
 defence
@@ -1955,6 +1948,8 @@ demandsignal
 demo
 democratie
 demonstration
+demultiplex
+demultiplexing
 dependencies
 dependency
 dependencysearch
@@ -2069,7 +2064,6 @@ discordrpc
 discount
 discover
 discovery
-discutils
 disk
 disk_to_disk
 disk-space
@@ -2174,6 +2168,7 @@ domain
 domaincontroller
 domainkey
 domainname
+domainnamesystem
 domains
 domino
 done.land
@@ -2185,7 +2180,6 @@ dotfile
 dotfiles
 dotnet
 dotnet-cli
-dotnettool
 dotps1
 dots
 dotteddecimalip
@@ -2280,7 +2274,6 @@ duo
 duosecurity
 dupes
 duplicate
-duplicate-files
 duplicatioin
 duplication
 durable
@@ -2313,7 +2306,6 @@ dynamicsecuritygroups
 dynamicsnav
 dynamodb
 dynatrace
-dynatraceobservability
 dz
 e-mail
 e1
@@ -2472,7 +2464,6 @@ eryph
 esae
 esc
 escape
-escapecodes
 escapesequences
 escaping
 ese
@@ -2740,9 +2731,7 @@ filetransfer
 filetype
 filewrite
 fill
-film
 filter
-filter-item
 filtering
 fim
 fims
@@ -2826,6 +2815,7 @@ forcedelete
 foreach
 foreach-object
 forecast
+forensic
 forensics
 forest
 forestdiscovery
@@ -2992,7 +2982,6 @@ get-dtdriverupdates
 get-dtscriptnewcmpackagefromdriverpackpackagedefinitionsms
 get-dtscriptnewcmtasksequencefromdriverpackpackagedefinitionsms
 get-emptyadgroups
-get-externalip
 get-firmwaretype
 get-help
 get-history
@@ -3062,6 +3051,7 @@ gmail
 gmap
 gmaps
 gmsa
+gnome
 gnucash
 gnuwin32
 go
@@ -3143,6 +3133,7 @@ groups
 grouvee
 growlnotify
 grr
+gsettings
 gsudo
 gsuite
 gtx1080ti
@@ -3473,22 +3464,13 @@ im
 image
 image-comparison
 image-converter
-image-creation
-image-generation
-image-process
-image-validation
 imagebuilder
-imagecreate
-imagecreation
 imagegeneration
 imageoftheday
-imageprocess
 imageprocessing
 images
 imageservicing
 imageslide
-imagevalidate
-imagevalidation
 imagga
 imagination
 imaging
@@ -3496,7 +3478,6 @@ imap
 imb
 imei
 imi
-impala
 impersonation
 imperva
 import
@@ -3699,7 +3680,6 @@ it
 it-support
 it-tool
 it-tools
-itadministration
 italic-text
 item
 itemlist
@@ -3785,7 +3765,6 @@ junction
 junctions
 junit
 jupyter
-jupytor
 jurassic
 justenoughadministration
 jvm
@@ -3839,8 +3818,6 @@ keymapping
 keypair
 keysms
 keyvault
-keywords
-kfum-spejderne
 kibana
 kickstart
 kidrsa
@@ -3960,7 +3937,6 @@ lego
 lein
 leiningnen
 lemonai
-lenel
 length
 lenovo
 less
@@ -3996,7 +3972,6 @@ line
 line-endings
 linear
 linearalgebra
-lingeringobjects
 link
 link-capability
 link-preview
@@ -4019,7 +3994,6 @@ liquit.com
 list
 list_files
 list-directory
-list-item
 listener
 litecoin
 litedb
@@ -4099,7 +4073,6 @@ logicapps
 logiclesstemplate
 logicmonitor
 login
-login-azurermaccount
 login-rdp
 logingestion
 loginscreen
@@ -4335,7 +4308,6 @@ mermaid
 message
 message-emoji
 message-emojis
-messagebox
 messageoftheday
 messages
 messaging
@@ -4507,6 +4479,7 @@ motivationalquotes
 mount
 mouse
 move
+movie
 movies
 mozilla
 mp3
@@ -4644,7 +4617,6 @@ nanoleaf
 nartac
 nasdaq
 native
-natpool
 natural-language-to-code
 natural-selection
 nature
@@ -4659,7 +4631,6 @@ nec-infrared-transmission-protocol
 necli
 nederland
 nedyalkov
-nemovote
 neo4j
 neonpostgres
 neovim
@@ -5032,7 +5003,6 @@ oriflame
 orion
 orleans
 orm
-orphanedprofiles
 os
 osbuild
 osbuilder
@@ -5081,7 +5051,6 @@ outline
 outlook
 outpainting
 output
-output-to-image
 outreach
 outsystems
 overbite
@@ -5120,6 +5089,7 @@ pager
 pagerduty
 pages
 pagination
+paloalto
 paloaltonetworks
 pam
 panels
@@ -5264,7 +5234,6 @@ phpapam
 pi
 picker
 pico
-picture
 pictures
 pid
 pie
@@ -5619,12 +5588,10 @@ productmedia
 products
 productstate
 profile
-profilecleanup
 profilemanagement
 profilemigration
 profiler
 profiles
-profilevalidation
 proget
 program
 program-association
@@ -8709,6 +8676,7 @@ pwpush
 pwsafe
 pwsh
 pwsh.fw
+pwshake
 pwshfw
 pwshrc
 pxedistributionpoint
@@ -8883,6 +8851,7 @@ redistributables
 redkite
 redseal
 redshift
+redteaming
 redundancy
 refactor
 refactoring
@@ -9210,7 +9179,6 @@ sas
 sat
 satirical
 save
-savedcreds
 savefile
 savings
 savov
@@ -9251,7 +9219,6 @@ scheduler
 schedules-execution
 scheduling
 schema
-schemaextensions
 scheme
 school-information-system
 schoolholidays
@@ -9317,7 +9284,6 @@ sdn
 sdp
 search
 search-adminauditlog
-search-engines
 searchconnector
 searchengine
 searcher
@@ -9379,7 +9345,6 @@ seek
 seekatar
 seeshell
 select
-select-item
 select-kubecontext
 select-kubenamespace
 select-string
@@ -9646,9 +9611,6 @@ smorgasbord
 sms
 smtp
 smtpaddressupdate psmodule
-smtpauth
-smtpoauth
-smtpsasl
 smtpsecure
 snap
 snapchat
@@ -9778,6 +9740,7 @@ spotify-api
 spotlight
 spotlightimages
 spp
+spread
 spreadsheet
 spreadsheets
 spring
@@ -9887,6 +9850,7 @@ starwars
 stash
 stat
 state
+stateless
 static
 staticanalysis
 statichtmlsites
@@ -9941,6 +9905,7 @@ streamanalytics
 streaming
 streamreader
 streamwriter
+stretch
 strictmode
 strikethrough-text
 string
@@ -10044,7 +10009,6 @@ syntax
 syntax-highlighting
 syntaxcheck
 syntaxhighlighter
-synthesis
 synthetics
 sysadmin
 sysadmin-tool
@@ -10097,6 +10061,7 @@ tablacus
 table
 tableau
 tableauserver
+tableauworkbook
 tabler
 tables
 tablestorage
@@ -10231,7 +10196,6 @@ text
 text-emoji
 text-emojis
 text-templates
-text-to-image
 text-to-speach"
 text-to-speech
 text2image
@@ -10409,6 +10373,7 @@ tribeloo
 trick
 tricks
 trigger
+triggers
 trilium
 triliumnext
 triodos
@@ -10432,7 +10397,6 @@ trx
 ts
 tsa
 tsd
-tsheets
 tsqlbestpractice
 tst
 tst1
@@ -10481,7 +10445,6 @@ ubnt
 ubuntu
 ucs
 ucspowertool
-ud-avataaar
 ud-badgebutton
 ud-badgelink
 ud-breadcrumb
@@ -10528,7 +10491,6 @@ ud-stepbar
 ud-stickynavbar
 ud-tagcloud
 ud-timeline
-ud-timeout
 ud-tool
 ud-toploader
 ud-trendline
@@ -10574,8 +10536,6 @@ unifiedlabeling
 uninstall
 uninstaller
 union
-unique
-unique-files
 unit
 unit_testing
 unit-testing
@@ -10653,8 +10613,6 @@ userinterface
 usermanagement
 username
 userprofile
-userprofiles
-userprofiletools
 userright
 userrights
 userrightsassignment
@@ -10842,7 +10800,6 @@ volumeshadowcopy
 volumio
 voperator
 vorbis
-voting
 vovin
 vpas
 vpasmodule
@@ -11038,6 +10995,7 @@ wif
 wifi
 wiki
 wildcard
+wildfire
 wildfly
 wim
 wim2vhd
@@ -11108,8 +11066,6 @@ windowspackagemanager
 windowsplugins
 windowspowershell
 windowspresentationfoundation
-windowsprofiles
-windowsregistry
 windowsreleasehealth
 windowsrest
 windowssandbox
@@ -11130,7 +11086,6 @@ windowstimezone
 windowsupdate
 windowsupdates
 windowsvirtualdesktop
-winform
 winforms
 winget
 wingetbridge
@@ -11318,6 +11273,7 @@ yandexdisk
 yapg
 yarn
 yetanotherhelloworld
+yify
 yml
 ynab
 youtube
@@ -11325,6 +11281,7 @@ youtube-dl
 youtube-transcript
 youtubeextractor
 yq
+yts
 yubaba
 yubikey
 yum
