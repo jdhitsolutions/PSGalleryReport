@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Thursday, 30 January 2025 09:52:01 UTC
+Updated: Thursday, 30 January 2025 17:52:06 UTC
 
 .bat
 .env
@@ -247,7 +247,6 @@ aeries
 aeriessis
 aes
 aesgcm
-afd
 affinity
 affinity-co
 affinity-crm
@@ -270,6 +269,7 @@ aiapplications
 aiautomation
 aidocument
 aiintegration
+ailanguage
 aim
 aimodels
 aip
@@ -340,7 +340,6 @@ amp
 amqp
 amsi
 amt
-amxmodx
 anaconda
 analysis
 analysisservices
@@ -641,6 +640,7 @@ autoupdate
 autoupdate-script
 autowrapper
 autoyast
+auvik
 availability
 availabilityset
 avalara
@@ -665,7 +665,6 @@ aws
 aws_profile
 aws-codebuild
 aws-lambda
-aws.tools.powershell
 awsbedrock
 awscli
 awspricelist
@@ -951,7 +950,6 @@ boilerplate
 boinc
 bold-text
 bolt
-bom
 book
 bookmark
 bookmarks
@@ -978,7 +976,6 @@ brave
 brawlapi
 brawlstars
 brazencloud
-bre
 breach
 break
 breakpoint
@@ -1037,7 +1034,6 @@ businesscentral
 businessdays
 businesshours
 businessobjects
-businessrulesengine
 businesstime
 bxor
 bydesign
@@ -1262,6 +1258,8 @@ clear
 clear-history
 clearpass
 cli
+cli-menu
+cli-menu-helpers
 clickonce
 client
 client-management
@@ -1329,13 +1327,13 @@ cloudsync
 clueser
 cluster
 clusterminimumvalues
-clusterplacementgroups
 clusterplugins
 cmaccounts
 cmake
 cmakepresets.json
 cmbuild
 cmclibnet
+cmclustermaintenance
 cmd
 cmdb
 cmdkey
@@ -1410,7 +1408,6 @@ comdata
 comedy
 comic
 comical
-comics
 command
 command_line
 command-line-interface
@@ -1426,11 +1423,13 @@ commence
 comment
 comments
 commerce
+commfort
 commit
 commits
 common
 common-data-service
 commondataservice
+commonmark
 commonstuff
 communication
 community
@@ -1445,7 +1444,6 @@ completion
 completion-manager
 completionresult
 completions
-complex
 compliance
 compliancepolicy
 compliant
@@ -1640,17 +1638,12 @@ cqdpowershell
 cqhttp
 crack psmodule
 crash
-crawler
 crayon
 crc
 crc32
 create
-createcolumn
-createdatabase
 createfile
 createprocessasuser
-createschema
-createtable
 creationworkflowsimplification
 creator
 cred
@@ -1691,6 +1684,7 @@ crossplatformdevelopment
 crowdstrike
 crt.sh
 crud
+crx
 crypto
 crypto-currency
 cryptocompare
@@ -1818,13 +1812,13 @@ datacatalog
 datacenter
 dataclassification
 datacollectionrule
+dataconduit
 dataconnectivity
 datadog
 dataexchange
 dataexplorer
 datafactory
 dataflow
-dataflowdependency
 dataframe
 datagateway
 dataintegration
@@ -1885,7 +1879,6 @@ dc
 dcim
 dcim_b324
 dcom
-dconf
 dcr
 ddc
 ddc/ci
@@ -1918,7 +1911,6 @@ deepseek-coder-v2
 deepvisibility
 def
 default
-defaultparameter
 defaultroutes
 defaults
 defence
@@ -1948,8 +1940,6 @@ demandsignal
 demo
 democratie
 demonstration
-demultiplex
-demultiplexing
 dependencies
 dependency
 dependencysearch
@@ -1972,7 +1962,6 @@ desktop
 desktops
 desktopvirtualization
 details
-detect
 detection
 detectionrule
 deutschland
@@ -2064,6 +2053,7 @@ discordrpc
 discount
 discover
 discovery
+discutils
 disk
 disk_to_disk
 disk-space
@@ -2120,7 +2110,6 @@ dns-async
 dns-client
 dns-over-https
 dns-resolver
-dnsbl
 dnsclient
 dnsdumpster
 dnsentry
@@ -2180,6 +2169,7 @@ dotfile
 dotfiles
 dotnet
 dotnet-cli
+dotnettool
 dotps1
 dots
 dotteddecimalip
@@ -2222,9 +2212,7 @@ drm
 drone.io
 drop
 dropbox
-dropdatabase
 droplet
-droptable
 drs
 drsrule
 drupal
@@ -2274,6 +2262,7 @@ duo
 duosecurity
 dupes
 duplicate
+duplicate-files
 duplicatioin
 duplication
 durable
@@ -2306,6 +2295,7 @@ dynamicsecuritygroups
 dynamicsnav
 dynamodb
 dynatrace
+dynatraceobservability
 dz
 e-mail
 e1
@@ -2372,7 +2362,6 @@ email-address
 emailaddressupdate
 emailautomation
 emaildataplane
-emailmanagment
 emailnotification
 emailnotificationcomponent
 emailsecurity
@@ -2447,7 +2436,6 @@ ephesoft
 epicor
 episode
 epplus
-eprosima
 epub
 epv
 equality
@@ -2605,7 +2593,6 @@ extendedgroups
 extendedproperties
 extendedproperty
 extendscript
-extensibility
 extension
 extensionmethods
 extensionrisk
@@ -2640,7 +2627,6 @@ faq
 farm
 farmanager
 fast
-fast-dds
 fast-ping
 fastfilepub
 fastgit
@@ -2669,7 +2655,6 @@ ffmpeg
 ffprobe
 fhirservice
 fiche
-fiddler
 fido
 fido2
 fieldglass
@@ -2732,6 +2717,7 @@ filetype
 filewrite
 fill
 filter
+filter-item
 filtering
 fim
 fims
@@ -2815,7 +2801,6 @@ forcedelete
 foreach
 foreach-object
 forecast
-forensic
 forensics
 forest
 forestdiscovery
@@ -2899,7 +2884,6 @@ funny
 fusion
 fusionapps
 fuzzy
-fyi
 fzf
 gac
 gainz
@@ -2911,7 +2895,6 @@ gallery
 game
 gamecategory:cards
 games
-gameserver
 gaming
 garage
 gas
@@ -3028,7 +3011,6 @@ gitflow
 gitforwindows
 github
 github-actions
-githubaction
 githubactions
 githubtools
 githubworkflow
@@ -3051,7 +3033,6 @@ gmail
 gmap
 gmaps
 gmsa
-gnome
 gnucash
 gnuwin32
 go
@@ -3133,7 +3114,6 @@ groups
 grouvee
 growlnotify
 grr
-gsettings
 gsudo
 gsuite
 gtx1080ti
@@ -3183,8 +3163,6 @@ handy
 hangouts
 hannelstoolbox
 hanwha
-har
-hard
 hardblock
 harden
 harden-windows-security
@@ -3244,7 +3222,6 @@ helloid
 helloposhgallery
 helloworld
 helm
-helmet
 help
 helpdesk
 helpdoc
@@ -3356,7 +3333,6 @@ http
 http_proxy
 http-listener
 http-server
-httpclient
 httplistener
 https
 https_proxy
@@ -3464,13 +3440,22 @@ im
 image
 image-comparison
 image-converter
+image-creation
+image-generation
+image-process
+image-validation
 imagebuilder
+imagecreate
+imagecreation
 imagegeneration
 imageoftheday
+imageprocess
 imageprocessing
 images
 imageservicing
 imageslide
+imagevalidate
+imagevalidation
 imagga
 imagination
 imaging
@@ -3478,6 +3463,7 @@ imap
 imb
 imei
 imi
+impala
 impersonation
 imperva
 import
@@ -3497,7 +3483,6 @@ incident_response
 incident-response
 incidentresponse
 incontact
-indents
 index
 indexdb
 indicator
@@ -3716,7 +3701,6 @@ jdt
 jea
 jea_module
 jeanalyzer
-jekyll
 jenkins
 jetbrains
 jira
@@ -3765,6 +3749,7 @@ junction
 junctions
 junit
 jupyter
+jupytor
 jurassic
 justenoughadministration
 jvm
@@ -3788,7 +3773,6 @@ katakana
 kb
 kb4
 kbarticle
-kdbx
 kdialog
 kebab-case
 keenetic
@@ -3818,6 +3802,7 @@ keymapping
 keypair
 keysms
 keyvault
+keywords
 kibana
 kickstart
 kidrsa
@@ -3937,6 +3922,7 @@ lego
 lein
 leiningnen
 lemonai
+lenel
 length
 lenovo
 less
@@ -3969,9 +3955,9 @@ limit-job
 limits
 lina
 line
-line-endings
 linear
 linearalgebra
+lingeringobjects
 link
 link-capability
 link-preview
@@ -3994,6 +3980,7 @@ liquit.com
 list
 list_files
 list-directory
+list-item
 listener
 litecoin
 litedb
@@ -4009,7 +3996,6 @@ lmhosts
 lms
 load
 loadbalancer
-loadbalancer.org
 loader
 loadtesting
 loanddepot
@@ -4073,6 +4059,7 @@ logicapps
 logiclesstemplate
 logicmonitor
 login
+login-azurermaccount
 login-rdp
 logingestion
 loginscreen
@@ -4219,7 +4206,6 @@ marketplacepublisher
 marking
 marklogic
 marquee
-marvel
 marvell
 marvell_semiconductor_inc
 marvellfcpowerkit
@@ -4308,6 +4294,7 @@ mermaid
 message
 message-emoji
 message-emojis
+messagebox
 messageoftheday
 messages
 messaging
@@ -4440,15 +4427,12 @@ module-publishing
 module-publishing-framework
 module-testing
 module-testing-framework
-modulebuild
 modulecreation
 modulefast
-modulemanagement
 modules
 moduleupdate
 moduleupdateinfo
 moduleupdater
-moduleversion
 mof
 moldova
 moment
@@ -4507,7 +4491,6 @@ msdtc
 msedge
 msexcel
 msexchange
-msft
 msftnet
 msftnetworking
 msg
@@ -4544,7 +4527,6 @@ mssqlserver
 msteams
 mstest
 mstsc
-msu
 msvc
 msword
 mta-sts
@@ -4617,6 +4599,7 @@ nanoleaf
 nartac
 nasdaq
 native
+natpool
 natural-language-to-code
 natural-selection
 nature
@@ -5051,6 +5034,7 @@ outline
 outlook
 outpainting
 output
+output-to-image
 outreach
 outsystems
 overbite
@@ -5234,6 +5218,7 @@ phpapam
 pi
 picker
 pico
+picture
 pictures
 pid
 pie
@@ -5571,7 +5556,6 @@ privileged
 privilegedidentitymanagement
 privileges
 pro
-probability
 probe
 process
 process-inspector
@@ -8575,7 +8559,6 @@ psnexosisclient
 psngenposh
 psobject
 psoutlog
-pspath
 pspersonio
 pspowerhour
 psprofiler
@@ -8851,7 +8834,6 @@ redistributables
 redkite
 redseal
 redshift
-redteaming
 redundancy
 refactor
 refactoring
@@ -9112,7 +9094,6 @@ rubriksecuritycloud
 ruby
 rulasg
 rule
-rulesengine
 run
 run-as-user
 runas
@@ -9168,7 +9149,6 @@ san
 sand
 sandbox
 sanitization
-sanitizer
 sap
 sapazure
 saponazure
@@ -9179,6 +9159,7 @@ sas
 sat
 satirical
 save
+savedcreds
 savefile
 savings
 savov
@@ -9219,6 +9200,7 @@ scheduler
 schedules-execution
 scheduling
 schema
+schemaextensions
 scheme
 school-information-system
 schoolholidays
@@ -9284,10 +9266,10 @@ sdn
 sdp
 search
 search-adminauditlog
+search-engines
 searchconnector
 searchengine
 searcher
-searching
 searchmanager
 searchplace
 searchquery
@@ -9345,6 +9327,7 @@ seek
 seekatar
 seeshell
 select
+select-item
 select-kubecontext
 select-kubenamespace
 select-string
@@ -9356,7 +9339,6 @@ self-hosted
 self-service
 self-signed
 selfdispatch
-selfhelp
 selfsigned
 semantic
 semantic-versioning
@@ -9459,7 +9441,6 @@ sgw
 sha-256
 sha-512
 sha-crypt
-sha256
 sha256crypt
 sha512crypt
 shacrypt
@@ -9555,7 +9536,6 @@ sitemap
 siterecovery
 sites
 sitesystemserver
-sitethumbprint
 sixel
 size
 skatterbrainz
@@ -9579,7 +9559,6 @@ skytap
 slack
 slash
 slashcommands
-sleeper
 slideshow
 slmgr
 sln
@@ -9611,6 +9590,9 @@ smorgasbord
 sms
 smtp
 smtpaddressupdate psmodule
+smtpauth
+smtpoauth
+smtpsasl
 smtpsecure
 snap
 snapchat
@@ -9624,10 +9606,6 @@ snippets
 snippets-manager
 snippit
 snmp
-snmpget
-snmpset
-snmpv3
-snmpwalk
 snowflake
 snsmssqlpsmodule
 snspsadgroupmembers
@@ -9641,7 +9619,6 @@ social
 social-media
 socialmedia
 socketlabs
-sockets
 sodium
 software
 softwarecenter
@@ -9680,9 +9657,6 @@ source-dedicated-server
 sourcecontrol
 sourceforge
 sourcegraph
-sourcemod
-sourceone
-sourcepawn
 sourcequery
 sovcloud
 space
@@ -9690,7 +9664,6 @@ spaces
 spacex
 spam
 spamtitan
-spanner
 spark
 sparkline
 sparklines
@@ -9740,7 +9713,6 @@ spotify-api
 spotlight
 spotlightimages
 spp
-spread
 spreadsheet
 spreadsheets
 spring
@@ -9854,7 +9826,6 @@ stateless
 static
 staticanalysis
 statichtmlsites
-staticsite
 statistical
 statistics
 stats
@@ -9962,7 +9933,6 @@ summary
 summit
 sumologic
 supercell
-superheros
 supermarket
 support
 support-tool
@@ -9992,7 +9962,6 @@ sxs
 sybase
 sybaseiq
 symantec
-symbolic
 symbolic_link
 symboliclink
 symbols
@@ -10009,6 +9978,7 @@ syntax
 syntax-highlighting
 syntaxcheck
 syntaxhighlighter
+synthesis
 synthetics
 sysadmin
 sysadmin-tool
@@ -10060,7 +10030,6 @@ tabexpansion2
 tablacus
 table
 tableau
-tableauserver
 tableauworkbook
 tabler
 tables
@@ -10181,7 +10150,6 @@ test123
 testaccount
 testautomation
 tester
-testimonial
 testing
 testlab
 testplans
@@ -10196,6 +10164,7 @@ text
 text-emoji
 text-emojis
 text-templates
+text-to-image
 text-to-speach"
 text-to-speech
 text2image
@@ -10233,7 +10202,6 @@ thread
 threading
 threadjob
 threads
-threadsanitizer
 threat
 threat-hunting
 threatdefense
@@ -10397,6 +10365,7 @@ trx
 ts
 tsa
 tsd
+tsheets
 tsqlbestpractice
 tst
 tst1
@@ -10445,6 +10414,7 @@ ubnt
 ubuntu
 ucs
 ucspowertool
+ud-avataaar
 ud-badgebutton
 ud-badgelink
 ud-breadcrumb
@@ -10491,10 +10461,10 @@ ud-stepbar
 ud-stickynavbar
 ud-tagcloud
 ud-timeline
+ud-timeout
 ud-tool
 ud-toploader
 ud-trendline
-ud-typing
 ud-window
 ud-wordtree
 udcm
@@ -10536,6 +10506,8 @@ unifiedlabeling
 uninstall
 uninstaller
 union
+unique
+unique-files
 unit
 unit_testing
 unit-testing
@@ -10591,7 +10563,6 @@ url-shortener
 urldecode
 urlencode
 urlhaus
-urlredirections
 urlrewrite
 urlscan
 urlscan.io
@@ -10619,15 +10590,12 @@ userrightsassignment
 users
 users-management
 userworkstations
-usg
 usgs
 usps
 utc
 utf-8
-utf-sig
 utf7
 utf8
-utf8-sig
 utf8bom
 util
 utilities
@@ -10637,7 +10605,6 @@ utm
 uudecode
 uuencode
 uuid
-uw
 uwp
 ux
 v20
@@ -10787,7 +10754,6 @@ vnet
 vnmonitoring
 vnugglets
 vnugglets.com
-vocabularies
 voice
 voiceservices
 voidtools
@@ -10813,7 +10779,6 @@ vps
 vra
 vrchat
 vrealize
-vrising
 vro
 vrops
 vrsns
@@ -11086,6 +11051,7 @@ windowstimezone
 windowsupdate
 windowsupdates
 windowsvirtualdesktop
+winform
 winforms
 winget
 wingetbridge
@@ -11103,11 +11069,6 @@ wired
 wireless
 wirelessnetwork
 wireshark
-wisc
-wiscmail
-wisco365
-wisconsin-madison
-wisconsin'uw-madison
 wisdom
 with
 wiz
@@ -11319,7 +11280,6 @@ zypper
 カタカナ
 ひらがな
 ローマ字
-全角半角変換
 寿司
 日本語
 湯婆婆
