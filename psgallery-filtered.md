@@ -3,9 +3,80 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
-## [RemotePro](https://www.powershellgallery.com/Packages/RemotePro/0.1.2) | 0.1.2
+## [M365DSC.CompositeResources](https://www.powershellgallery.com/Packages/M365DSC.CompositeResources/1.25.129.300) | 1.25.129.300
 
-### Published: 02/03/2025 01:33:34 by Cody Paternostro
+### Published: 02/03/2025 08:16:07 by Yorick Kuijs
+
+DSC composite resource for configuring Microsoft 365
+
+__Downloads__: 10,010 | __Repository__: https://github.com/ykuijs/M365DSC.CompositeResources
+
+## [FarNet.Redis](https://www.powershellgallery.com/Packages/FarNet.Redis/0.15.3) | 0.15.3
+
+### Published: 02/03/2025 08:11:28 by Roman Kuzmin
+
+StackExchange.Redis cmdlets
+
+__Downloads__: 261 | __Repository__: https://github.com/nightroman/FarNet.Redis
+
+## [Harden-Windows-Security-Module](https://www.powershellgallery.com/Packages/Harden-Windows-Security-Module/0.7.4) | 0.7.4
+
+### Published: 02/03/2025 07:37:16 by Violet Hansen
+
+Harden Windows Safely, Securely, only with Official Microsoft methods - 🦄 Intune - 🧩 Group Policy - 🛡️ Local - ☁️ Cloud (All scenarios supported 💯)
+
+⭕ This module provides 3 main features: Hardening, Auditing/checking the system compliance, and undoing the Hardening
+
+⭕ Please read the GitHub's readme before running this module: https://github.com/HotCakeX/Harden-Windows-Security
+
+💜 GUI (Graphical User Interface) is Available! Run (Protect-WindowsSecurity -GUI) to use the GUI instead of the CLI experience.
+
+💠 Features of this module:
+
+  ✅ Everything always stays up-to-date with the newest proactive security measures that are industry standards and scalable.
+  ✅ Everything is in clear text, nothing hidden, no 3rd party executable or pre-compiled binary is involved.
+  ✅ No Windows functionality is removed/disabled against Microsoft's recommendations.
+  ✅ The module primarily uses Group policies, the Microsoft recommended way of configuring Windows. It also uses PowerShell cmdlets where Group Policies aren't available, and finally uses a few registry keys to configure security measures that can neither be configured using Group Policies nor PowerShell cmdlets. This is why the module doesn't break anything or cause unwanted behavior.
+  ✅ When a hardening measure is no longer necessary because it's applied by default by Microsoft on new builds of Windows, it will also be removed from the module in order to prevent any problems and because it won't be necessary anymore.
+  ✅ The module can be run infinite number of times, it's made in a way that it won't make any duplicate changes.
+  ✅ The module prompts for confirmation before running each hardening category.
+  ✅ Applying these hardening measures makes your PC compliant with Microsoft Security Baselines and Secured-core PC specifications (provided that you use modern hardware that supports the latest Windows security features)
+
+💠 Hardening Categories from top to bottom: (⬇️Detailed info about each of them at my Github⬇️)
+
+⏹ Commands that require Administrator Privileges
+  ✅ Microsoft Security Baselines
+  ✅ Microsoft 365 Apps Security Baselines
+  ✅ Microsoft Defender
+  ✅ Attack surface reduction rules
+  ✅ Bitlocker Settings
+  ✅ TLS Security
+  ✅ Lock Screen
+  ✅ UAC (User Account Control)
+  ✅ Windows Firewall
+  ✅ Optional Windows Features
+  ✅ Windows Networking
+  ✅ Miscellaneous Configurations
+  ✅ Windows Update Configurations
+  ✅ Edge Browser Configurations
+  ✅ Certificate Checking Commands
+  ✅ Country IP Blocking
+  ✅ Downloads Defense Measures
+⏹ Commands that don't require Administrator Privileges
+  ✅ Non-Admin Commands that only affect the current user and do not make machine-wide changes.
+
+
+💎 This module has hybrid mode of operation. It can run Interactively and non-interactively (Silent/unattended mode). More info in the document: https://github.com/HotCakeX/Harden-Windows-Security/wiki/Harden%E2%80%90Windows%E2%80%90Security%E2%80%90Module
+
+🏴 If you have any questions, requests, suggestions etc. about this module, please open a new Discussion or Issue on GitHub
+
+🟡 The module generates a nice output on the screen as well as giving users an option to export the results in a CSV file.
+
+__Downloads__: 211,271 | __Repository__: https://github.com/HotCakeX/Harden-Windows-Security
+
+## [RemotePro](https://www.powershellgallery.com/Packages/RemotePro/0.1.3) | 0.1.3
+
+### Published: 02/03/2025 02:14:29 by Cody Paternostro
 
 PowerShell WPF GUI for MilestonePSTools
 
@@ -25,7 +96,7 @@ __Downloads__: 260 | __Repository__:
 
 WimWitch-Reloaded is a maintained and enhanced fork of WIM-Witch by TheNotoriousDRR's (now EOL). This project aims to continue the legacy while adding modern features and ensuring compatibility with the latest Windows versions.
 
-__Downloads__: 6 | __Repository__: https://github.com/mchave3/WimWitch-Reloaded
+__Downloads__: 5 | __Repository__: https://github.com/mchave3/WimWitch-Reloaded
 
 ## [GitHub](https://www.powershellgallery.com/Packages/GitHub/0.13.4) | 0.13.4
 
@@ -33,7 +104,7 @@ __Downloads__: 6 | __Repository__: https://github.com/mchave3/WimWitch-Reloaded
 
 A PowerShell module to interact with GitHub, both interactively and via automation.
 
-__Downloads__: 82,963 | __Repository__: https://github.com/PSModule/GitHub
+__Downloads__: 82,915 | __Repository__: https://github.com/PSModule/GitHub
 
 ## [ImportIcal](https://www.powershellgallery.com/Packages/ImportIcal/0.0.1) | 0.0.1
 
@@ -41,7 +112,7 @@ __Downloads__: 82,963 | __Repository__: https://github.com/PSModule/GitHub
 
 Cmdlets to create and assemble objects from the Ical.Net library.
 
-__Downloads__: 3 | __Repository__: 
+__Downloads__: 4 | __Repository__: 
 
 ## [Utilities](https://www.powershellgallery.com/Packages/Utilities/0.6.0) | 0.6.0
 
@@ -49,7 +120,7 @@ __Downloads__: 3 | __Repository__:
 
 A PowerShell module with a collection of functions that should have been in PowerShell to start with.
 
-__Downloads__: 96,899 | __Repository__: https://github.com/PSModule/Utilities
+__Downloads__: 96,894 | __Repository__: https://github.com/PSModule/Utilities
 
 ## [GenXdev](https://www.powershellgallery.com/Packages/GenXdev/1.102.2025) | 1.102.2025
 
@@ -97,7 +168,7 @@ __Downloads__: 954 | __Repository__: https://github.com/genXdev/GenXdev.Queries
 
 A Windows PowerShell module that allows you to run scripts against your casual desktop webbrowser-tab
 
-__Downloads__: 7,629 | __Repository__: https://github.com/genXdev/GenXdev.Webbrowser
+__Downloads__: 7,625 | __Repository__: https://github.com/genXdev/GenXdev.Webbrowser
 
 ## [GenXdev.Windows](https://www.powershellgallery.com/Packages/GenXdev.Windows/1.102.2025) | 1.102.2025
 
@@ -121,7 +192,7 @@ __Downloads__: 23 | __Repository__: https://github.com/genXdev/GenXdev.Data
 
 A Windows PowerShell module with helpers mostly used by other GenXdev modules
 
-__Downloads__: 7,716 | __Repository__: https://github.com/genXdev/GenXdev.Helpers
+__Downloads__: 7,712 | __Repository__: https://github.com/genXdev/GenXdev.Helpers
 
 ## [GenXdev.FileSystem](https://www.powershellgallery.com/Packages/GenXdev.FileSystem/1.102.2025) | 1.102.2025
 
@@ -129,7 +200,7 @@ __Downloads__: 7,716 | __Repository__: https://github.com/genXdev/GenXdev.Helper
 
 A Windows PowerShell module for basic and advanced file management tasks
 
-__Downloads__: 7,751 | __Repository__: https://github.com/genXdev/GenXdev.FileSystem
+__Downloads__: 7,760 | __Repository__: https://github.com/genXdev/GenXdev.FileSystem
 
 ## [Web](https://www.powershellgallery.com/Packages/Web/1.0.0) | 1.0.0
 
@@ -145,7 +216,7 @@ __Downloads__: 3 | __Repository__: https://github.com/PSModule/Web
 
 A PowerShell module that simplifies some interaction with Hashtables.
 
-__Downloads__: 1 | __Repository__: https://github.com/PSModule/Hashtable
+__Downloads__: 0 | __Repository__: https://github.com/PSModule/Hashtable
 
 ## [PSDataverse](https://www.powershellgallery.com/Packages/PSDataverse/0.0.16) | 0.0.16
 
@@ -161,7 +232,7 @@ __Downloads__: 1,086 | __Repository__: https://github.com/rezanid/PSDataverse
 
 This module contains common classes that can be used for class-based DSC resources development.
 
-__Downloads__: 48,819 | __Repository__: https://github.com/dsccommunity/DscResource.Base
+__Downloads__: 48,823 | __Repository__: https://github.com/dsccommunity/DscResource.Base
 
 ## [DscResource.Test](https://www.powershellgallery.com/Packages/DscResource.Test/0.17.1) | 0.17.1
 
@@ -177,7 +248,7 @@ __Downloads__: 1,474,722 | __Repository__: https://github.com/dsccommunity/DscRe
 
 PSAI brings OpenAI ChatGPT to PowerShell, leveraging advanced AI capabilities in your PowerShell scripts for dynamic, intelligent automation and data processing
 
-__Downloads__: 48,734 | __Repository__: https://github.com/dfinke/PSAI
+__Downloads__: 48,787 | __Repository__: https://github.com/dfinke/PSAI
 
 ## [PS.Selenium](https://www.powershellgallery.com/Packages/PS.Selenium/1.55) | 1.55
 
@@ -186,6 +257,14 @@ __Downloads__: 48,734 | __Repository__: https://github.com/dfinke/PSAI
 Wraps Selenium
 
 __Downloads__: 1,347 | __Repository__: https://github.com/Druid-Nutstone/Ps.Utilities.Help/blob/main/ReadmeSelenium.md
+
+## [CasingStyle](https://www.powershellgallery.com/Packages/CasingStyle/1.0.2) | 1.0.2
+
+### Published: 02/02/2025 14:47:55 by PSModule
+
+A PowerShell module that works with casing of text.
+
+__Downloads__: 33 | __Repository__: https://github.com/PSModule/CasingStyle
 
 ## [Coinbase](https://www.powershellgallery.com/Packages/Coinbase/1.0.10) | 1.0.10
 
@@ -229,7 +308,7 @@ __Downloads__: 6 | __Repository__: https://github.com/PSModule/GUID
 
 CLI for Rocket, a minimalist web framework for PowerShell.
 
-__Downloads__: 3 | __Repository__: https://github.com/AriDevK/Rocket-PS
+__Downloads__: 4 | __Repository__: https://github.com/AriDevK/Rocket-PS
 
 ## [AST](https://www.powershellgallery.com/Packages/AST/0.2.3) | 0.2.3
 
@@ -237,7 +316,7 @@ __Downloads__: 3 | __Repository__: https://github.com/AriDevK/Rocket-PS
 
 A PowerShell module for using the Abstract Syntax Tree (AST) to analyze any PowerShell code.
 
-__Downloads__: 737 | __Repository__: https://github.com/PSModule/AST
+__Downloads__: 779 | __Repository__: https://github.com/PSModule/AST
 
 ## [AzNetworkDiagram](https://www.powershellgallery.com/Packages/AzNetworkDiagram/0.1.3) | 0.1.3
 
@@ -269,7 +348,7 @@ __Downloads__: 86 | __Repository__: https://github.com/PSModule/Sodium
 
 A set of tools that will assist you when working with Dynamics 365 Finance & Operations development / demo machines.
 
-__Downloads__: 451,692 | __Repository__: https://github.com/d365collaborative/d365fo.tools
+__Downloads__: 451,699 | __Repository__: https://github.com/d365collaborative/d365fo.tools
 
 ## [PSOpenAI](https://www.powershellgallery.com/Packages/PSOpenAI/4.14.0) | 4.14.0
 
@@ -277,7 +356,7 @@ __Downloads__: 451,692 | __Repository__: https://github.com/d365collaborative/d3
 
 PowerShell module for OpenAI API
 
-__Downloads__: 28,826 | __Repository__: https://github.com/mkht/PSOpenAI
+__Downloads__: 28,827 | __Repository__: https://github.com/mkht/PSOpenAI
 
 ## [WindmillClient](https://www.powershellgallery.com/Packages/WindmillClient/1.456.0) | 1.456.0
 
@@ -311,13 +390,13 @@ An interactive pipeline filtering Cmdlet for PowerShell written in F#. A fork of
 
 __Downloads__: 595 | __Repository__: https://github.com/krymtkts/pocof/
 
-## [FarNet.Redis](https://www.powershellgallery.com/Packages/FarNet.Redis/0.15.2) | 0.15.2
+## [PSNovusTools](https://www.powershellgallery.com/Packages/PSNovusTools/0.1.6) | 0.1.6
 
-### Published: 02/01/2025 04:39:00 by Roman Kuzmin
+### Published: 02/01/2025 03:40:27 by Adam Craig Johnston
 
-StackExchange.Redis cmdlets
+A PowerShell module providing tools for deployment tasks and operations.
 
-__Downloads__: 261 | __Repository__: https://github.com/nightroman/FarNet.Redis
+__Downloads__: 27 | __Repository__: 
 
 ## [AsBuiltReport.VMware.Horizon](https://www.powershellgallery.com/Packages/AsBuiltReport.VMware.Horizon/1.1.5) | 1.1.5
 
@@ -421,7 +500,7 @@ __Downloads__: 14 | __Repository__: https://github.com/DennisL68/PFSRedirect
 
 Manage PIM Azure Resource, PIM Entra role and PIM for Group settings and assignments with simplicity in mind
 
-__Downloads__: 25,253 | __Repository__: https://github.com/kayasax/EasyPIM/
+__Downloads__: 25,262 | __Repository__: https://github.com/kayasax/EasyPIM/
 
 ## [Foxit.Ea.Dts.Ps](https://www.powershellgallery.com/Packages/Foxit.Ea.Dts.Ps/2.2.52140) | 2.2.52140
 
@@ -469,7 +548,7 @@ __Downloads__: 566 | __Repository__: https://blog.n-dimensions.de/
 
 A PowerShell module to generate an as built report on the configuration of Veeam VBR.
 
-__Downloads__: 40,712 | __Repository__: https://github.com/AsBuiltReport/AsBuiltReport.Veeam.VBR
+__Downloads__: 40,710 | __Repository__: https://github.com/AsBuiltReport/AsBuiltReport.Veeam.VBR
 
 ## [RubrikSecurityCloud](https://www.powershellgallery.com/Packages/RubrikSecurityCloud/1.12.4) | 1.12.4
 
@@ -477,7 +556,7 @@ __Downloads__: 40,712 | __Repository__: https://github.com/AsBuiltReport/AsBuilt
 
 PowerShell Module for Rubrik Security Cloud. GraphQL schema version: v20250120-43 .
 
-__Downloads__: 31,224 | __Repository__: https://github.com/rubrikinc/rubrik-powershell-sdk
+__Downloads__: 31,225 | __Repository__: https://github.com/rubrikinc/rubrik-powershell-sdk
 
 ## [guided-setup](https://www.powershellgallery.com/Packages/guided-setup/1.18.0) | 1.18.0
 
@@ -517,7 +596,7 @@ __Downloads__: 16,923 | __Repository__:
 
 A PowerShell module which provides the core framework for generating As-Built documentation for many common datacentre systems.
 
-__Downloads__: 153,787 | __Repository__: https://github.com/AsBuiltReport/AsBuiltReport.Core
+__Downloads__: 153,810 | __Repository__: https://github.com/AsBuiltReport/AsBuiltReport.Core
 
 ## [psrod](https://www.powershellgallery.com/Packages/psrod/1.3.1) | 1.3.1
 
@@ -557,7 +636,7 @@ __Downloads__: 11,916 | __Repository__: https://github.com/Devolutions/devolutio
 
 Package and publish any apps from WinGet to Intune.
 
-__Downloads__: 105,865 | __Repository__: https://wintuner.app/
+__Downloads__: 105,854 | __Repository__: https://wintuner.app/
 
 ## [Devolutions.PowerShell](https://www.powershellgallery.com/Packages/Devolutions.PowerShell/2024.3.10) | 2024.3.10
 
@@ -624,7 +703,7 @@ __Downloads__: 7 | __Repository__:
 
 An error reporting module that sends reports to Sentry.io
 
-__Downloads__: 59,831 | __Repository__: https://github.com/getsentry/sentry-powershell
+__Downloads__: 59,829 | __Repository__: https://github.com/getsentry/sentry-powershell
 
 ## [Yify](https://www.powershellgallery.com/Packages/Yify/0.0.1) | 0.0.1
 
@@ -634,21 +713,13 @@ A PowerShell module for interacting with the Yify Torrents (YTS) movie API
 
 __Downloads__: 6 | __Repository__: 
 
-## [M365DSC.CompositeResources](https://www.powershellgallery.com/Packages/M365DSC.CompositeResources/1.25.129.100) | 1.25.129.100
-
-### Published: 01/30/2025 01:30:27 by Yorick Kuijs
-
-DSC composite resource for configuring Microsoft 365
-
-__Downloads__: 10,010 | __Repository__: https://github.com/ykuijs/M365DSC.CompositeResources
-
 ## [MilestonePSTools](https://www.powershellgallery.com/Packages/MilestonePSTools/24.2.18) | 24.2.18
 
 ### Published: 01/30/2025 01:28:14 by Joshua Hendricks
 
 Milestone XProtect VMS configuration and automation powered by the Milestone MIP SDK.
 
-__Downloads__: 445,770 | __Repository__: https://www.milestonepstools.com/
+__Downloads__: 445,775 | __Repository__: https://www.milestonepstools.com/
 
 ## [PSPuTTYCfg](https://www.powershellgallery.com/Packages/PSPuTTYCfg/0.2.16) | 0.2.16
 
@@ -720,7 +791,7 @@ __Downloads__: 402 | __Repository__: https://github.com/nightroman/FarLite
 
 NetApp.ONTAP PowerShell Toolkit. The ONTAP 9.16.1 PowerShell Toolkit provides end-to-end automation and enables more efficient and scalable administration of NetApp storage. This module contains over 2340 PowerShell cmdlets to help you automate ONTAP administration on FAS and AFF systems, commodity hardware, and the cloud. This toolkit also supports REST API with 9.10 and later version of ONTAP. The toolkit also provides cross-platform support for Windows, Ubuntu, Red Hat Enterprise Linux (RHEL), and macOS.
 
-__Downloads__: 328,265 | __Repository__: https://mysupport.netapp.com/site/tools/tool-eula/ontap-powershell-toolkit
+__Downloads__: 328,254 | __Repository__: https://mysupport.netapp.com/site/tools/tool-eula/ontap-powershell-toolkit
 
 ## [PSBlueSky](https://www.powershellgallery.com/Packages/PSBlueSky/2.5.0) | 2.5.0
 
@@ -728,7 +799,7 @@ __Downloads__: 328,265 | __Repository__: https://mysupport.netapp.com/site/tools
 
 A set of PowerShell commands that use the Bluesky AT Proto API. You can post and upload images from a PowerShell prompt, as well as get your timeline, feed, followers, and more. Run Open-BskyHelp after installation to launch a PDF guide. This module is written for PowerShell 7 and uses features like $PSStyle.
 
-__Downloads__: 8,004 | __Repository__: https://github.com/jdhitsolutions/PSBluesky
+__Downloads__: 8,008 | __Repository__: https://github.com/jdhitsolutions/PSBluesky
 
 ## [Universal](https://www.powershellgallery.com/Packages/Universal/5.2.2) | 5.2.2
 
@@ -736,7 +807,7 @@ __Downloads__: 8,004 | __Repository__: https://github.com/jdhitsolutions/PSBlues
 
 Module for PowerShell Universal.
 
-__Downloads__: 292,045 | __Repository__: https://ironmansoftware.com/powershell-universal
+__Downloads__: 292,031 | __Repository__: https://ironmansoftware.com/powershell-universal
 
 ## [VMware.vSphere.SsoAdmin](https://www.powershellgallery.com/Packages/VMware.vSphere.SsoAdmin/1.4.0) | 1.4.0
 
@@ -744,7 +815,7 @@ __Downloads__: 292,045 | __Repository__: https://ironmansoftware.com/powershell-
 
 PowerShell Module for Managing VMware vSphere SSO Admin functionality.
 
-__Downloads__: 514,040 | __Repository__: 
+__Downloads__: 514,041 | __Repository__: 
 
 ## [PSc8y](https://www.powershellgallery.com/Packages/PSc8y/2.48.1) | 2.48.1
 
@@ -760,7 +831,7 @@ __Downloads__: 3,121 | __Repository__: https://reubenmiller.github.io/go-c8y-cli
 
 Gitlab API v4 helper functions
 
-__Downloads__: 519,877 | __Repository__: https://gitlab.com/mteodor/gitlab4
+__Downloads__: 519,895 | __Repository__: https://gitlab.com/mteodor/gitlab4
 
 ## [M365DSC.CRG](https://www.powershellgallery.com/Packages/M365DSC.CRG/0.1.26) | 0.1.26
 
@@ -786,7 +857,7 @@ __Downloads__: 28 | __Repository__: https://github.com/PowerShellLibrary/CRX
 https://osd.osdeploy.com
 Required for OSDCloud and not OSDBuilder
 
-__Downloads__: 2,978,803 | __Repository__: https://github.com/OSDeploy/OSD
+__Downloads__: 2,978,795 | __Repository__: https://github.com/OSDeploy/OSD
 
 ## [PSGISP.Tools](https://www.powershellgallery.com/Packages/PSGISP.Tools/0.0.3) | 0.0.3
 
@@ -826,7 +897,7 @@ __Downloads__: 22 | __Repository__:
 
 A command-line based tool to scrape and sort your local Japanese Adult Video (JAV) files
 
-__Downloads__: 82,554 | __Repository__: https://github.com/javinizer/Javinizer
+__Downloads__: 82,499 | __Repository__: https://github.com/javinizer/Javinizer
 
 ## [Get-ChooseFolder](https://www.powershellgallery.com/Packages/Get-ChooseFolder/1.0) | 1.0
 
@@ -910,7 +981,7 @@ SUMMARY:
 
     Please note that this module is provided AS-IS, no guarantees or warranties provided. Use at your own risk.
 
-__Downloads__: 3,453 | __Repository__: 
+__Downloads__: 3,454 | __Repository__: 
 
 ## [OCI.PSModules](https://www.powershellgallery.com/Packages/OCI.PSModules/98.0.0) | 98.0.0
 
@@ -935,7 +1006,7 @@ __Downloads__: 86 | __Repository__:
 
 This modules provides Cmdlets for OCI Zpr Service
 
-__Downloads__: 625 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+__Downloads__: 624 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
 ## [OCI.PSModules.Workrequests](https://www.powershellgallery.com/Packages/OCI.PSModules.Workrequests/98.0.0) | 98.0.0
 
@@ -1087,7 +1158,7 @@ __Downloads__: 9,909 | __Repository__: https://github.com/oracle/oci-powershell-
 
 This modules provides Cmdlets for OCI Securityattribute Service
 
-__Downloads__: 623 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+__Downloads__: 622 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
 ## [OCI.PSModules.Secrets](https://www.powershellgallery.com/Packages/OCI.PSModules.Secrets/98.0.0) | 98.0.0
 
@@ -2017,28 +2088,4 @@ This modules provides Cmdlets for OCI Apmcontrolplane Service
 
 __Downloads__: 11,942 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-## [OCI.PSModules.Apmconfig](https://www.powershellgallery.com/Packages/OCI.PSModules.Apmconfig/98.0.0) | 98.0.0
-
-### Published: 01/28/2025 16:44:45 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Apmconfig Service
-
-__Downloads__: 10,293 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Apigateway](https://www.powershellgallery.com/Packages/OCI.PSModules.Apigateway/98.0.0) | 98.0.0
-
-### Published: 01/28/2025 16:44:13 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Apigateway Service
-
-__Downloads__: 11,216 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Announcementsservice](https://www.powershellgallery.com/Packages/OCI.PSModules.Announcementsservice/98.0.0) | 98.0.0
-
-### Published: 01/28/2025 16:43:46 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Announcementsservice Service
-
-__Downloads__: 13,719 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-*Updated: Monday, 03 February 2025 02:14:28 UTC*
+*Updated: Monday, 03 February 2025 09:51:53 UTC*
