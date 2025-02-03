@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 03 February 2025 02:14:36 UTC
+Updated: Monday, 03 February 2025 09:52:01 UTC
 
 .bat
 .env
@@ -38,7 +38,6 @@ Updated: Monday, 03 February 2025 02:14:36 UTC
 2016
 2018
 2019
-21vianet
 24-bit
 2fa
 300
@@ -459,6 +458,7 @@ aprs
 aprs-is
 aprsis
 aprsthursday
+aps
 apt
 apt-get
 apt-get-update
@@ -542,7 +542,6 @@ assetintelligencepoint
 assets
 assistance
 assistant
-association
 ast
 astronomy
 asv
@@ -562,7 +561,6 @@ atp
 atproto
 atprotocol
 atrium
-att&ck
 attach
 attestation
 attila
@@ -591,6 +589,7 @@ authenticationcertificate
 authenticationstrength
 authenticode
 authn
+author
 authoring
 authoringtools
 authorisation
@@ -677,7 +676,6 @@ axcient
 axcient_x360recover
 axinom
 axis
-axium
 ayx
 az
 az-cli
@@ -1088,6 +1086,7 @@ carbonawarecomputing
 carbonintensity
 card
 cardwirth
+cares
 cargo
 carousel
 carrier
@@ -1343,6 +1342,7 @@ cmake
 cmakepresets.json
 cmbuild
 cmclibnet
+cmclustermaintenance
 cmd
 cmdb
 cmdkey
@@ -1414,12 +1414,12 @@ com
 combinations
 combine
 comdata
-comedy
 comic
 comical
 comics
 command
 command_line
+command-line-interface
 command-validation
 commandcoverage
 commandhistory
@@ -1430,6 +1430,7 @@ commands
 commandsandresource
 commence
 comment
+comments
 commerce
 commfort
 commit
@@ -1602,8 +1603,8 @@ coordinates
 copilot
 copy
 copy-item
-copyfileex
 copypaste
+copyright
 core
 coreposh
 coreutils
@@ -1682,7 +1683,6 @@ crescendobuilt
 cresendo
 crestron
 cricket
-crime
 crlf
 crm
 crm2016
@@ -2122,6 +2122,7 @@ dmi
 dmtf
 dmx
 dnd
+dnf
 dns
 dns-01
 dns-administration
@@ -2145,6 +2146,7 @@ dnssuffix
 dnvm
 doc
 docfx
+dock
 docker
 docker-compose
 docker-image
@@ -2153,6 +2155,7 @@ docker-volumes
 dockerfile
 dockerize
 dockerswarm
+docking
 docs
 docset
 document
@@ -2351,7 +2354,6 @@ effectiveroutes
 efficientether
 efi
 egrep
-eid
 eigencontroles
 einstein
 eklient psedition_core psedition_desktop
@@ -2427,6 +2429,7 @@ enteo
 enter
 enterprise
 enterprise-scale
+enterprisedb
 enterprisemanager
 enterprisevoice
 entity
@@ -2454,6 +2457,7 @@ eop
 eperl
 ephesoft
 epicor
+episode
 epplus
 eprosima
 epub
@@ -2552,7 +2556,6 @@ exchange2010
 exchange2013
 exchange2016
 exchangecluster
-exchangehybrid
 exchangemigration
 exchangeon-premise
 exchangeon-premises
@@ -2737,7 +2740,6 @@ filesystemrights
 filesystemsecurity
 filesystemwatcher
 filetransfer
-filetype
 filewrite
 fill
 film
@@ -2750,6 +2752,7 @@ finance
 finance&operations
 financeandoperations
 financeoperations
+finances
 financial
 financialedge
 financials
@@ -2763,6 +2766,7 @@ findfile
 findlocation
 findplace
 findproxyforurl
+fine-print
 fine-tuning
 finops
 firebird
@@ -2856,6 +2860,7 @@ foundationmodels
 fox
 foxpro
 fqdn
+frame
 framework
 france
 free
@@ -3030,8 +3035,6 @@ git-lfs
 git-proxy
 git-rename
 git-stat
-gitcmdline
-gitdesktop
 gitea
 gitflow
 gitforwindows
@@ -3387,7 +3390,6 @@ humanizer
 humanly
 humor
 humorous
-humour
 hunter
 hwid
 hybrid
@@ -3564,7 +3566,6 @@ inspiration
 inspirationalquotes
 inspire
 inspur
-instagram
 install
 install-module
 install-windowsimage
@@ -3759,7 +3760,6 @@ join
 join-object
 jojoba
 joke
-jokes
 jotform
 journal
 joyride
@@ -3815,7 +3815,6 @@ kbarticle
 kdbx
 kdialog
 kebab-case
-keenetic
 keepachangelog
 keepass
 keepasslib
@@ -3888,7 +3887,6 @@ kurukuru
 kusto
 kusto.data
 kusto.ingest
-kvm
 kvp
 l1tf
 l2tp
@@ -3974,7 +3972,6 @@ lgpo
 libgit2
 libraries
 library
-libvirt
 licence
 license
 license-generator
@@ -4058,7 +4055,6 @@ locale
 localgroup
 localgroupmember
 localization
-localpolicy
 localuser
 location
 locationbasedservices
@@ -4095,6 +4091,7 @@ logger
 logging
 loggingingestion
 loggingsearch
+loggly
 logic
 logicapp
 logicapps
@@ -4147,6 +4144,7 @@ lsa
 lsasecrets
 lsd
 ltm
+lucd
 lucene
 lunar
 lunches
@@ -4163,7 +4161,6 @@ maatschap-fortigi
 mac
 mac-address
 macaddress
-macadmins
 machine
 machinelearning
 machinelearningcompute
@@ -4173,6 +4170,7 @@ macmon
 macos
 macosx
 macro
+macros
 madlib
 magazine
 magento
@@ -4246,6 +4244,7 @@ marketplaceprivateoffer
 marketplacepublisher
 marking
 marklogic
+marquee
 marvel
 marvell
 marvell_semiconductor_inc
@@ -4271,6 +4270,7 @@ maven
 max
 max_path
 maximum
+maxoffice
 mazerat
 mb
 mbc
@@ -5148,6 +5148,7 @@ partition
 partitions
 partner
 partnercenter
+partnerportal
 pas
 pass
 pass-the-hash
@@ -5400,7 +5401,6 @@ poshy-dir-nav
 poshy-ecks
 poshy-env-proxy
 poshy-env-var
-poshy-ls-isms
 poshy-lucidity
 poshy-multimedia
 poshy-net
@@ -5413,6 +5413,7 @@ poshy-wrap-apt
 poshy-wrap-argcomplete
 poshy-wrap-brew
 poshy-wrap-curl
+poshy-wrap-dnf
 poshy-wrap-docker
 poshy-wrap-docker-compose
 poshy-wrap-dotnet
@@ -5436,6 +5437,7 @@ poshy-wrap-pylint
 poshy-wrap-python
 poshy-wrap-ruby
 poshy-wrap-systemctl
+poshy-wrap-terraform
 poshy-wrap-terragrunt
 poshy-wrap-tmux
 poshy-wrap-vagrant
@@ -5862,6 +5864,19 @@ pscommand_dlo
 pscommand_dnc
 pscommand_dncn
 pscommand_dndcn
+pscommand_dnfc
+pscommand_dnfgi
+pscommand_dnfgl
+pscommand_dnfgr
+pscommand_dnfi
+pscommand_dnfl
+pscommand_dnfli
+pscommand_dnfmc
+pscommand_dnfp
+pscommand_dnfr
+pscommand_dnfri
+pscommand_dnfs
+pscommand_dnfu
 pscommand_dni
 pscommand_dnls
 pscommand_dnrm
@@ -6108,15 +6123,6 @@ pscommand_geo
 pscommand_geoe
 pscommand_get
 pscommand_get-aptinstalledpackages
-pscommand_get-childitemcolorfully
-pscommand_get-childitemcolorfullycramped
-pscommand_get-childitemcolorfullyrevealingly
-pscommand_get-childitemcolorfullyrevealinglycramped
-pscommand_get-childitemcolorfullyrevealinglyrecursively
-pscommand_get-childitemcolorfullyrevealinglyrecursivelywithrecency
-pscommand_get-childitemcolorfullyrevealinglywithrecency
-pscommand_get-childitemcolorfullywithrecency
-pscommand_get-childitemnamesonly
 pscommand_get-dockercontainerall
 pscommand_get-dockercontainerlatest
 pscommand_get-dockercontainerlatestipaddress
@@ -6415,6 +6421,19 @@ pscommand_invoke-curlfollowingredirectsdownloadasnamedcontinue
 pscommand_invoke-curlfollowingredirectsdownloadasnamedcontinueandretry
 pscommand_invoke-curlfollowingredirectsfetchbanner
 pscommand_invoke-curlonlyforgetresponseheaders
+pscommand_invoke-dnfcleanall
+pscommand_invoke-dnfgrouplist
+pscommand_invoke-dnfgrouppinstall
+pscommand_invoke-dnfgroupremove
+pscommand_invoke-dnfinfo
+pscommand_invoke-dnfinstall
+pscommand_invoke-dnflist
+pscommand_invoke-dnflistinstalled
+pscommand_invoke-dnfmakecache
+pscommand_invoke-dnfreinstall
+pscommand_invoke-dnfremove
+pscommand_invoke-dnfsearch
+pscommand_invoke-dnfupgrade
 pscommand_invoke-dockercomposebuild
 pscommand_invoke-dockercomposedown
 pscommand_invoke-dockercomposeexec
@@ -6805,6 +6824,15 @@ pscommand_invoke-systemctluser-try-reload-or-restart
 pscommand_invoke-systemctluser-try-restart
 pscommand_invoke-systemctluser-unmask
 pscommand_invoke-systemctluser-unset-environment
+pscommand_invoke-terraform
+pscommand_invoke-terraformapply
+pscommand_invoke-terraformconsole
+pscommand_invoke-terraformdestroy
+pscommand_invoke-terraformformat
+pscommand_invoke-terraforminit
+pscommand_invoke-terraformoutput
+pscommand_invoke-terraformplan
+pscommand_invoke-terraformvalidate
 pscommand_invoke-terragrunt
 pscommand_invoke-terragruntapply
 pscommand_invoke-terragruntapplyall
@@ -7044,20 +7072,7 @@ pscommand_krsss
 pscommand_kru
 pscommand_ksd
 pscommand_ksss
-pscommand_l
-pscommand_l1
-pscommand_la
-pscommand_lart
-pscommand_ldot
-pscommand_lf
-pscommand_ll
 pscommand_local-ignore
-pscommand_lr
-pscommand_lrt
-pscommand_ls
-pscommand_lsn
-pscommand_lsr
-pscommand_lt
 pscommand_mcd
 pscommand_mci
 pscommand_mcisk
@@ -7247,7 +7262,6 @@ pscommand_show-gitremote
 pscommand_show-proxy
 pscommand_shttp
 pscommand_shuf
-pscommand_sl
 pscommand_ssh-add-all
 pscommand_ssh-disable-proxy
 pscommand_ssh-enable-proxy
@@ -7275,6 +7289,15 @@ pscommand_test-o
 pscommand_test-reparsepoint
 pscommand_test-sessioninteractivity
 pscommand_test-x
+pscommand_tf
+pscommand_tfa
+pscommand_tfc
+pscommand_tfd
+pscommand_tff
+pscommand_tfi
+pscommand_tfo
+pscommand_tfp
+pscommand_tfv
 pscommand_tg
 pscommand_tga
 pscommand_tgaa
@@ -7673,15 +7696,6 @@ psfunction_format-lesstermcapenv
 psfunction_format-viewerinvocationsh
 psfunction_gdv
 psfunction_get-aptinstalledpackages
-psfunction_get-childitemcolorfully
-psfunction_get-childitemcolorfullycramped
-psfunction_get-childitemcolorfullyrevealingly
-psfunction_get-childitemcolorfullyrevealinglycramped
-psfunction_get-childitemcolorfullyrevealinglyrecursively
-psfunction_get-childitemcolorfullyrevealinglyrecursivelywithrecency
-psfunction_get-childitemcolorfullyrevealinglywithrecency
-psfunction_get-childitemcolorfullywithrecency
-psfunction_get-childitemnamesonly
 psfunction_get-dockercontainerall
 psfunction_get-dockercontainerlatest
 psfunction_get-dockercontainerlatestipaddress
@@ -7797,6 +7811,19 @@ psfunction_invoke-curlfollowingredirectsdownloadasnamedcontinue
 psfunction_invoke-curlfollowingredirectsdownloadasnamedcontinueandretry
 psfunction_invoke-curlfollowingredirectsfetchbanner
 psfunction_invoke-curlonlyforgetresponseheaders
+psfunction_invoke-dnfcleanall
+psfunction_invoke-dnfgrouplist
+psfunction_invoke-dnfgrouppinstall
+psfunction_invoke-dnfgroupremove
+psfunction_invoke-dnfinfo
+psfunction_invoke-dnfinstall
+psfunction_invoke-dnflist
+psfunction_invoke-dnflistinstalled
+psfunction_invoke-dnfmakecache
+psfunction_invoke-dnfreinstall
+psfunction_invoke-dnfremove
+psfunction_invoke-dnfsearch
+psfunction_invoke-dnfupgrade
 psfunction_invoke-dockercomposebuild
 psfunction_invoke-dockercomposedown
 psfunction_invoke-dockercomposeexec
@@ -8187,6 +8214,15 @@ psfunction_invoke-systemctluser-try-reload-or-restart
 psfunction_invoke-systemctluser-try-restart
 psfunction_invoke-systemctluser-unmask
 psfunction_invoke-systemctluser-unset-environment
+psfunction_invoke-terraform
+psfunction_invoke-terraformapply
+psfunction_invoke-terraformconsole
+psfunction_invoke-terraformdestroy
+psfunction_invoke-terraformformat
+psfunction_invoke-terraforminit
+psfunction_invoke-terraformoutput
+psfunction_invoke-terraformplan
+psfunction_invoke-terraformvalidate
 psfunction_invoke-terragrunt
 psfunction_invoke-terragruntapply
 psfunction_invoke-terragruntapplyall
@@ -8635,6 +8671,7 @@ pushover
 pushoverapi
 putty
 pve
+pvr
 pvs
 pwa
 pwned
@@ -8657,7 +8694,6 @@ python3
 qatam
 qcloud
 qconvergeconsolepowerkit
-qemu
 qlgc_fc_powerkit
 qlik
 qlik-api
@@ -8699,7 +8735,6 @@ quickbooks
 quicksetup
 quiz
 qumulo
-quota
 quote
 quoteoftheday
 quotes
@@ -8919,7 +8954,6 @@ replace
 replaygain
 replication
 repo
-repoo
 report
 reporting
 reportingservicepoint
@@ -8936,6 +8970,7 @@ requestfiltering
 requiredmodules
 requirements
 res
+rescan
 rescuetime
 reservation
 reservations
@@ -9359,6 +9394,7 @@ serial
 serialization
 serialize
 sericemanagement
+series
 serilog
 serilog-for-powershell
 serilog-sink
@@ -9583,7 +9619,9 @@ smtpauth
 smtpoauth
 smtpsasl
 smtpsecure
+snap
 snapchat
+snapping
 snapshot
 snapshots
 sni
@@ -9956,7 +9994,6 @@ svt
 swagger
 swamid
 swarm
-swimlane
 swis
 switch
 sxs
@@ -10701,7 +10738,6 @@ vigenere
 vim
 vimode
 virole
-virsh
 virtual
 virtualappliance
 virtualbox
@@ -10759,6 +10795,10 @@ vmware.vsphere
 vmwarecloudfoundation
 vmwaredrs
 vmwarevalidatedsolutions
+vmwcluster
+vmwdatacenter
+vmwfolder
+vmwvmhost
 vnet
 vnmonitoring
 vnugglets
@@ -10937,6 +10977,7 @@ where
 whfb
 whiteboard
 whitespace
+who
 whoami
 whois
 whoiscmdlet
