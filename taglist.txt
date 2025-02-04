@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Tuesday, 04 February 2025 09:52:14 UTC
+Updated: Tuesday, 04 February 2025 17:52:05 UTC
 
 .bat
 .env
@@ -268,6 +268,7 @@ ai21labs
 aianomalydetection
 aiapplications
 aiautomation
+aidocument
 aiintegration
 ailanguage
 aim
@@ -370,6 +371,8 @@ anova
 ansi
 ansible
 ansible-control-node
+ansible-playbook
+ansible-vault
 ansiblecontrolnode
 ansibletower
 anthropic
@@ -730,7 +733,6 @@ azureadtoolkit
 azureadvancedthreatprotection
 azureappconfiguration
 azureapplicationstuff
-azurearc
 azureartifacts
 azureas
 azureatp
@@ -782,8 +784,6 @@ azuresecuritycenter
 azureservicebus
 azuresigntool
 azuresql
-azuresqlexport
-azuresqlimport
 azuressas
 azurestack
 azurestackhci
@@ -832,7 +832,6 @@ bash
 basic
 bastion
 bat
-batcat
 batch
 batchclass
 batman
@@ -958,7 +957,6 @@ bookmark
 bookmarks
 books
 bool
-boolean
 bootloader psmodule
 bootstrap
 bootstrapping
@@ -1223,10 +1221,8 @@ cif
 cifv3
 cil
 cim
-cim_computersystem
 cimfs
 cimi
-ciminstance
 cims
 cimsession
 cinema
@@ -1605,7 +1601,6 @@ coordinates
 copilot
 copy
 copy-item
-copyfileex
 copypaste
 copyright
 core
@@ -1817,7 +1812,6 @@ data-uri
 data-uri-converter
 database
 database-migrations
-databaseautomation
 databasemanagement
 databasemigration
 databases
@@ -2540,7 +2534,6 @@ eventwatch
 evergreen
 everix
 evernote
-everydaypowershell
 everydayrewards
 everything
 evilprince2009
@@ -2949,7 +2942,6 @@ gcp
 gcs
 gdap
 gdpr
-gedit
 gem
 gemini
 geminiprotocol
@@ -3276,6 +3268,7 @@ helper-functions
 helperfunctions
 helpers
 helpfile
+helpful
 heml
 here
 hewlett
@@ -3283,7 +3276,6 @@ hewlett-packard
 hewlett-packard-enterprise
 hewlett-packardenterprise
 hex
-hexdump
 hg
 hibernate
 hibernation
@@ -3597,6 +3589,7 @@ integrated
 integratedscriptingeditor
 integration
 integrationaccount
+integrationruntime
 integrationruntimedependency
 integrationservicescatalog
 integrity
@@ -3976,7 +3969,6 @@ lemonai
 lenel
 length
 lenovo
-less
 lesspass
 letsencrypt
 lf
@@ -4015,7 +4007,6 @@ link-capability
 link-preview
 linkedin
 linkedservice
-linkedservicedependency
 linkid
 links
 linq
@@ -4420,6 +4411,7 @@ microsoftstore
 microsoftteams
 microsoftteamsdevices
 microsoftteamsphone
+microsoftupdate
 microsoftword
 middleware
 midserver
@@ -4513,7 +4505,6 @@ month
 monthlyupdate
 moodle
 moonshot
-more
 mosaic
 motd
 motivation
@@ -4679,7 +4670,6 @@ nedyalkov
 nemovote
 neo4j
 neonpostgres
-neovim
 neptune
 nerdfonts
 nerdio
@@ -4808,7 +4798,6 @@ nosql
 note
 notebook
 notepad
-notepad2
 noteproperty
 notes
 nothing
@@ -4848,6 +4837,7 @@ ntp
 ntsystems
 nuget
 nuget-references
+nuget.exe
 nuget.org
 number
 numlock
@@ -5008,7 +4998,6 @@ openssl
 openstack
 openstreetmaps
 openvpn
-openxml
 operating
 operating_system
 operating-system
@@ -5085,6 +5074,8 @@ ou
 ou-object
 oui
 oui-search
+oura
+ouraring
 out-consolegridview
 out-default
 out-gridview
@@ -5279,7 +5270,6 @@ php
 phpapam
 pi
 picker
-pico
 picture
 pictures
 pid
@@ -5330,7 +5320,6 @@ playwright
 pleasant
 pleasantpasswordserver
 plex
-plist
 plog
 plot
 plug-n-copy
@@ -5421,7 +5410,6 @@ poshy-net
 poshy-notify-send
 poshy-sh-isms
 poshy-sshconfig
-poshy-viewer-finder
 poshy-wrap
 poshy-wrap-apt
 poshy-wrap-argcomplete
@@ -5531,7 +5519,6 @@ powershell.one
 powershell.persistentpathstack
 powershell7
 powershellai
-powershellazuresql
 powershellconferenceeurope
 powershellcore
 powershellcourse
@@ -5663,7 +5650,6 @@ pronounceable
 proofpoint
 properties
 property
-property-list
 prose
 protect
 protect-blob
@@ -6040,8 +6026,6 @@ pscommand_forgit-reset-head
 pscommand_forgit-revert-commit
 pscommand_forgit-stash-push
 pscommand_forgit-stash-show
-pscommand_format-batcatstyle
-pscommand_format-lesstermcapenv
 pscommand_format-viewerinvocationsh
 pscommand_g
 pscommand_ga
@@ -6201,7 +6185,6 @@ pscommand_get-netipaddresspublic
 pscommand_get-netipaddresssimple
 pscommand_get-pwshaliasdefinition
 pscommand_get-pwshfunctiondefinition
-pscommand_get-viewer
 pscommand_geun
 pscommand_gexport
 pscommand_gf
@@ -7511,7 +7494,6 @@ pscredential
 pscribo
 pscustomobject
 psd1
-psdb
 psdefaultparametervalues
 psdeploy
 psdesiredstateconfiguration
@@ -7728,8 +7710,6 @@ psfunction_forgit-reset-head
 psfunction_forgit-revert-commit
 psfunction_forgit-stash-push
 psfunction_forgit-stash-show
-psfunction_format-batcatstyle
-psfunction_format-lesstermcapenv
 psfunction_format-viewerinvocationsh
 psfunction_gdv
 psfunction_get-aptinstalledpackages
@@ -7797,7 +7777,6 @@ psfunction_get-netipaddresspublic
 psfunction_get-netipaddresssimple
 psfunction_get-pwshaliasdefinition
 psfunction_get-pwshfunctiondefinition
-psfunction_get-viewer
 psfunction_git_blame_line
 psfunction_git_checkout_child
 psfunction_git_checkout_parent
@@ -8604,6 +8583,7 @@ psjob
 psjobs
 psjobthreads
 pskeepass
+pslocalgallery
 psloganalytics
 psm
 psm1
@@ -8729,7 +8709,6 @@ pwshfw
 pwshrc
 pxedistributionpoint
 pyenv
-pygmentize
 pykick
 pylint
 pyranja
@@ -8991,7 +8970,6 @@ rename
 rename-git
 rename-git-branch
 rename-gitbranch
-reonboarding
 repair
 repair-msauth
 reparsepoint
@@ -9093,6 +9071,7 @@ rightjoin
 rights
 rightsizing
 rightsmanagement
+ring
 ripe
 risk
 riskiq
@@ -9806,10 +9785,8 @@ sql-database
 sql-script
 sql-server
 sqlagent
-sqlautomation
 sqlbits
 sqlbrowser
-sqlbulkcopy
 sqlchangeautomation
 sqlclient
 sqlcmd
@@ -9818,7 +9795,6 @@ sqldatabase
 sqldb
 sqldbatools
 sqldiagapi
-sqlexport
 sqlgateway
 sqlite
 sqlitebynarymodule
@@ -10119,7 +10095,6 @@ table
 tableau
 tableauserver
 tableauworkbook
-tabler
 tables
 tablestorage
 tabs
@@ -10483,6 +10458,7 @@ twitter-api-v2
 twitter-client
 twitter-follow
 twitter-hashtag
+twitter-mention
 twitter-share
 twitter-timeline
 twitter-tweet
@@ -10530,7 +10506,6 @@ ud-loadingoverlay
 ud-minesweeper
 ud-mouseparticle
 ud-navbarsearch
-ud-numbermask
 ud-orgchart
 ud-piechart3d
 ud-pivottable
@@ -10538,7 +10513,6 @@ ud-progressstepbar
 ud-rangeslider
 ud-readingbar
 ud-scrollspy
-ud-selectdatetime
 ud-selector
 ud-signature
 ud-simpledrawer
@@ -10882,6 +10856,7 @@ vrising
 vro
 vrops
 vrsns
+vrtu
 vs
 vs-shell
 vsa
