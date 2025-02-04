@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Tuesday, 04 February 2025 02:14:14 UTC
+Updated: Tuesday, 04 February 2025 09:52:14 UTC
 
 .bat
 .env
@@ -180,6 +180,7 @@ addon
 address
 address-book
 addresses
+addressrange
 adds
 addtypeaccelerators
 adf
@@ -267,7 +268,6 @@ ai21labs
 aianomalydetection
 aiapplications
 aiautomation
-aidocument
 aiintegration
 ailanguage
 aim
@@ -359,6 +359,7 @@ anf
 anglesharp
 angular
 animals
+animate-svg
 animation
 animations
 annotated
@@ -369,8 +370,6 @@ anova
 ansi
 ansible
 ansible-control-node
-ansible-playbook
-ansible-vault
 ansiblecontrolnode
 ansibletower
 anthropic
@@ -959,6 +958,7 @@ bookmark
 bookmarks
 books
 bool
+boolean
 bootloader psmodule
 bootstrap
 bootstrapping
@@ -998,6 +998,7 @@ broadcom
 broot
 brownserve-uk
 browser
+browserbox
 browserextension
 browserhistory
 browsing
@@ -1017,6 +1018,7 @@ build-test-publish
 builddefinition
 builder
 buildhelpers
+building
 buildingfile
 buildingmapping
 buildkit
@@ -1216,6 +1218,7 @@ cic
 cicd
 cicdpipeline
 cidr
+cidrcalculator
 cif
 cifv3
 cil
@@ -1743,6 +1746,11 @@ customdns
 customer
 customerengagement
 customers
+customeventchannel
+customeventlog
+customeventlogchannel
+customeventlogfile
+customeventlogfiles
 customevents
 custominformationservices
 customis
@@ -2153,6 +2161,7 @@ dockerize
 dockerswarm
 docking
 docs
+docset
 document
 documentation
 documentdb
@@ -2508,6 +2517,8 @@ event
 event_id
 event_list
 event-timeline
+eventchannel
+eventchannels
 eventcollector
 eventful
 eventgrid
@@ -2515,6 +2526,9 @@ eventhub
 eventing
 eventlist
 eventlog
+eventlogchannel
+eventlogchannels
+eventlogmanifest
 eventlogs
 eventmonitor
 eventmonitoring
@@ -2617,6 +2631,7 @@ extensions
 external
 externalip
 extract
+extraction
 extractor
 extreme-networks
 eye-candy
@@ -3201,6 +3216,7 @@ hardlink
 hardmatch
 hardware
 harperdb
+hartokens
 harvest
 harvestforecast
 hash
@@ -3260,7 +3276,6 @@ helper-functions
 helperfunctions
 helpers
 helpfile
-helpful
 heml
 here
 hewlett
@@ -3582,7 +3597,6 @@ integrated
 integratedscriptingeditor
 integration
 integrationaccount
-integrationruntime
 integrationruntimedependency
 integrationservicescatalog
 integrity
@@ -3616,6 +3630,7 @@ inventory
 investigation
 investment
 investments
+invitation
 invocation
 invoice
 invoke
@@ -3662,7 +3677,9 @@ ipmaths
 ipp
 iprange
 ips
+ipscan
 ipv4
+ipv4ping
 ipv6
 ipynb
 ir
@@ -3686,7 +3703,9 @@ iso
 iso-3166-1
 iso-8601
 ispac
+isprime
 ispss
+issues
 isvalidemail
 isvalidip
 it
@@ -4166,6 +4185,7 @@ macmon
 macos
 macosx
 macro
+macros
 madlib
 magazine
 magento
@@ -4187,6 +4207,7 @@ maintenance
 maintenance-window
 maintenancewindows
 mak
+make
 maker
 malware
 mamagedidentity
@@ -4264,6 +4285,7 @@ maven
 max
 max_path
 maximum
+maxoffice
 mazerat
 mb
 mbc
@@ -4398,7 +4420,6 @@ microsoftstore
 microsoftteams
 microsoftteamsdevices
 microsoftteamsphone
-microsoftupdate
 microsoftword
 middleware
 midserver
@@ -4827,7 +4848,6 @@ ntp
 ntsystems
 nuget
 nuget-references
-nuget.exe
 nuget.org
 number
 numlock
@@ -5065,8 +5085,6 @@ ou
 ou-object
 oui
 oui-search
-oura
-ouraring
 out-consolegridview
 out-default
 out-gridview
@@ -5361,6 +5379,7 @@ port
 port-scanner
 port70
 portal
+porthunter
 ports
 portscan
 porttest
@@ -5496,6 +5515,7 @@ powershell-gallery
 powershell-github-repo
 powershell-gitlab
 powershell-graphql
+powershell-isprime
 powershell-lightning
 powershell-module
 powershell-modules
@@ -5572,6 +5592,7 @@ preview
 previousversions
 price
 pricelist
+primenumber
 primera
 principal
 principle
@@ -5693,6 +5714,7 @@ psappdeploytoolkit
 psat
 psazd
 psbackup
+psbbix
 psbicep
 psc
 pscandy
@@ -7483,6 +7505,7 @@ pscommand_zwp
 pscommander
 psconfasia
 psconfeu
+psconfig
 pscore
 pscredential
 pscribo
@@ -8581,7 +8604,6 @@ psjob
 psjobs
 psjobthreads
 pskeepass
-pslocalgallery
 psloganalytics
 psm
 psm1
@@ -8650,6 +8672,7 @@ pswinreportingv2
 psword
 pswriteword
 psyaml
+pszabbix
 ptc
 ptcintegrity
 pubg
@@ -8789,6 +8812,8 @@ randompassword
 randomuser
 randomusers
 range
+rangescan
+rangetocidr
 ransomware_recovery
 ras
 raspberry-pi
@@ -8927,6 +8952,7 @@ remediation
 remedy
 reminder
 remote
+remote-browser
 remote-desktop
 remote'
 remoteaccess
@@ -9067,7 +9093,6 @@ rightjoin
 rights
 rightsizing
 rightsmanagement
-ring
 ripe
 risk
 riskiq
@@ -9503,7 +9528,9 @@ shared
 sharefile
 sharepoint
 sharepoint_online
+sharepoint-on-prem
 sharepoint-online
+sharepoint-product-configuration-wizard
 sharepoint2013
 sharepointdevelopmentcommunity
 sharepointonline
@@ -9575,6 +9602,7 @@ siteconfiguration
 sitecore
 sitecoresearch
 sitemaintenance
+sitemap
 siterecovery
 sites
 sitesystemserver
@@ -9785,6 +9813,7 @@ sqlbulkcopy
 sqlchangeautomation
 sqlclient
 sqlcmd
+sqlcodeguard
 sqldatabase
 sqldb
 sqldbatools
@@ -9961,6 +9990,7 @@ sublimetext
 submission
 subnet
 subnet-calculator
+subnetcalculator
 subnetcalulator
 subnetdetails
 subnetmapping
@@ -10426,6 +10456,7 @@ ts
 tsa
 tsd
 tsheets
+tsqlbestpractice
 tst
 tst1
 tst3
@@ -10452,7 +10483,6 @@ twitter-api-v2
 twitter-client
 twitter-follow
 twitter-hashtag
-twitter-mention
 twitter-share
 twitter-timeline
 twitter-tweet
@@ -10616,6 +10646,7 @@ uptimerobot
 uptobox
 uqword
 uri
+uri-scheme
 url
 url-encode
 url-shortener
@@ -10851,7 +10882,6 @@ vrising
 vro
 vrops
 vrsns
-vrtu
 vs
 vs-shell
 vsa
@@ -10925,6 +10955,7 @@ weather
 weaviate
 weaviatenet
 web
+web-browser
 web-framework
 web-hook
 web-search
@@ -11083,6 +11114,7 @@ windowsdefender
 windowsdesktop
 windowsdesktopsearch
 windowsdirectories
+windowsevent
 windowseventlog
 windowsform
 windowsforms
@@ -11323,6 +11355,7 @@ yubikey
 yum
 z
 zabbix
+zabbixps
 zap
 zap-zsh
 zcat
