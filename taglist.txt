@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Thursday, 13 February 2025 09:52:09 UTC
+Updated: Thursday, 13 February 2025 17:51:59 UTC
 
 .bat
 .env
@@ -21,19 +21,13 @@ Updated: Thursday, 13 February 2025 09:52:09 UTC
 💩
 🙇
 1&1
-10
 11
-1607
-1703
-1709
-1803
 1809
 1c
 1e
 1password
 1poshword
 200
-2010
 2013
 2016
 2018
@@ -53,11 +47,9 @@ Updated: Thursday, 13 February 2025 09:52:09 UTC
 64
 650
 650flb
-7
 7-zip
 7z
 7zip
-8.1
 8ball
 9
 aa
@@ -192,7 +184,6 @@ adfstools
 adgroupmemberobjects
 adgroupmembers
 adgroups
-adidns
 adif
 adlds
 adm
@@ -419,7 +410,6 @@ appdeploy
 appdeployment
 appdeploytoolkit
 appdynamics
-appearance
 appender
 appian
 appinsights
@@ -441,7 +431,6 @@ apply
 appmgmtcontrol
 apppool
 appraiser
-approve
 apps
 appservice
 appservices
@@ -472,7 +461,6 @@ arcade
 arcgis
 arch
 architecture
-architecuture
 archive
 archivedteams
 archivematica
@@ -627,7 +615,6 @@ automation psmodule
 automationaccount
 automationanywhere
 automationportal
-automationutils
 autonomoussystem
 autonomoussystemnumber
 autopatching
@@ -946,7 +933,6 @@ blueprints
 bluesky
 blueteam
 bluetraitio
-bluetuxedo
 bmc
 bnm
 boards
@@ -1178,6 +1164,7 @@ chat
 chatbot
 chatgpt
 chatops
+chatroom
 chatter
 cheat
 check
@@ -1205,6 +1192,7 @@ choco-bear
 chocobear
 chocolatey
 choice
+choose_file
 choose_folder
 chooser
 christaylorcodes
@@ -1248,6 +1236,7 @@ citation
 cite
 citrix
 citrixoptimizer
+civo
 cix
 class
 classes
@@ -1350,6 +1339,7 @@ cmdkey
 cmdlet
 cmdlet-testing
 cmdlets
+cmdstan
 cmgroupdiscovery
 cmhealth
 cmhealthcheck
@@ -1621,6 +1611,7 @@ costmanagement
 costoptimization
 couchbase
 couchdb
+couchpotato
 count
 count-lines-of-code
 count-loc
@@ -1664,11 +1655,15 @@ creator
 cred
 credential
 credential-dialog
+credential-file
+credential-files
+credential-manager
 credentiallocker
 credentialmanagement
 credentialmanager
 credentialprovider
 credentials
+credentials-cache
 credentialsmanager
 credentialstore
 credentialtheaf
@@ -1736,7 +1731,6 @@ current
 curseforge
 custom
 customchecks
-customdns
 customer
 customerengagement
 customers
@@ -1906,7 +1900,6 @@ decimal
 decimalip
 decimalzero
 declarative
-decline
 decode
 decode64
 decoding
@@ -2083,7 +2076,6 @@ disksize
 diskspace
 diskusage
 dism
-dismal
 display
 display_dialog
 displayresolution
@@ -2102,6 +2094,7 @@ distributionlist
 distributionpointgroupmembers
 distrubtionpoint
 dividends
+diving
 division
 divoom
 diy
@@ -2134,7 +2127,6 @@ dnsentry
 dnsimple
 dnslookup
 dnsmadeeasy
-dnsoverhttps
 dnsrecord
 dnsresolver
 dnssec
@@ -2175,7 +2167,7 @@ domain
 domaincontroller
 domainkey
 domainname
-domainnamesystem
+domains
 domino
 done.land
 donothing
@@ -2212,7 +2204,6 @@ draw
 drawio
 dreams
 dreamweaver
-dreary
 drift
 driftmonitor
 drink
@@ -2297,7 +2288,6 @@ dynamic-host-configuration-protocol
 dynamic-privileged-access
 dynamicdistributiongroups
 dynamicdistributionlist
-dynamicdnsoverhttps
 dynamicparam
 dynamicparameters
 dynamicparams
@@ -2347,7 +2337,6 @@ edr
 education
 educational
 effectiveroutes
-efficientether
 efi
 egrep
 eid
@@ -2382,6 +2371,7 @@ emailaddressupdate
 emailautomation
 emaildataplane
 emailmanagment
+emailnotification
 emailnotificationcomponent
 emailsecurity
 embedded
@@ -2492,7 +2482,6 @@ esx
 esxi
 eternalblue
 ether
-etherassist
 ethereum
 ethernet
 ethr
@@ -2892,7 +2881,6 @@ fslogix
 fsrm
 ftp
 ftps
-fu-msauth
 fudge
 fudgepop
 fujitsu
@@ -2929,6 +2917,7 @@ games
 gameserver
 gaming
 garage
+gas
 gat
 gateway
 gauge
@@ -3263,6 +3252,7 @@ helloworld
 helm
 helmet
 help
+helpdesk
 helpdoc
 helper
 helper-functions
@@ -3378,8 +3368,6 @@ httplistener
 https
 https_proxy
 httpserver
-huawei
-huawei-ibmc-cmdlets
 hub
 hubot
 hubsite
@@ -3421,7 +3409,6 @@ iap
 ias
 ib
 ibm
-ibmc
 ibmhttpserver
 icacl
 icann
@@ -3481,13 +3468,22 @@ im
 image
 image-comparison
 image-converter
+image-creation
+image-generation
+image-process
+image-validation
 imagebuilder
+imagecreate
+imagecreation
 imagegeneration
 imageoftheday
+imageprocess
 imageprocessing
 images
 imageservicing
 imageslide
+imagevalidate
+imagevalidation
 imagga
 imagination
 imaging
@@ -3741,6 +3737,7 @@ jenkins
 jetbrains
 jira
 jiraservicemanagement
+jitbit
 jms
 jmsjavadownloads
 jnet
@@ -3807,7 +3804,6 @@ kaspersky
 katakana
 kb
 kb4
-kbarticle
 kdbx
 kdialog
 kebab-case
@@ -4137,7 +4133,6 @@ loopback
 loremipsum
 love
 lovequotes
-lpsiamol
 ls
 lsa
 lsasecrets
@@ -4146,7 +4141,6 @@ ltm
 lucd
 lucene
 lunar
-lunches
 lwa
 lxca
 lxcapstool
@@ -4187,6 +4181,7 @@ mailkit
 mails
 main
 main-menu
+maintain-module
 maintenance
 maintenance-window
 maintenancewindows
@@ -4460,6 +4455,7 @@ modeling
 models
 modify
 module
+module-maintenance
 module-manifest
 module-publishing
 module-publishing-framework
@@ -4579,6 +4575,7 @@ mulesoft
 multi
 multi-factor
 multi-language
+multi-platform
 multi-tenant
 multi-thread
 multi-threading
@@ -4587,6 +4584,7 @@ multicloud
 multicultural
 multidimenstional
 multimedia
+multios
 multipass
 multiple
 multiserver
@@ -4617,6 +4615,7 @@ myjson
 myjson.com
 myob
 myposh
+mypstag
 mysql
 mysql-database
 mytest
@@ -4642,6 +4641,7 @@ nanoleaf
 nartac
 nasdaq
 native
+natpool
 natural-language-to-code
 natural-selection
 nature
@@ -4696,6 +4696,7 @@ netstat
 netsuite
 network
 network adapter configuration operating os optical sensor physical pointing portable printer processor cpu refrigaration cooling cooler removable usb sd ram dimm scsi sound audio card enclosure tape temperature touchpad touch pad touchscreen screen trackball trackpoint video graphics voltage psmodule
+network-credentials
 network-info
 networkanalytics
 networkcategory
@@ -4739,6 +4740,8 @@ news
 newspaper
 newtonsoft
 newtonsoft.json
+nexenta
+nexentastor
 nexthink
 nexus
 nexusiq
@@ -4756,6 +4759,7 @@ ninjaone
 ninjarmm
 nios
 nist
+nitrox
 njclipsh
 nl
 nla
@@ -4845,6 +4849,7 @@ nyse
 nzb
 o1
 o365
+o365mailnotification
 oa
 oacli
 oacmdlets
@@ -5085,6 +5090,7 @@ ovh
 owasp
 owls
 owner
+oxygen
 oxyplot
 p2000
 p2s
@@ -5159,6 +5165,7 @@ password-generator
 password-less
 password-manager
 password.ninja
+passwordexpiration
 passwordexpiry
 passwordgeneration
 passwordgenerator
@@ -5234,7 +5241,6 @@ persian
 persistence
 persistent
 personal
-personalisation
 personalization
 personalvault
 personio
@@ -5490,6 +5496,7 @@ powershell-cmdlets
 powershell-core
 powershell-core-releases-api
 powershell-course
+powershell-credentials
 powershell-dsc
 powershell-examples
 powershell-gallery
@@ -5609,7 +5616,6 @@ processor
 procmap
 procs
 producer
-product
 productid
 productivity
 productmedia
@@ -5700,7 +5706,6 @@ psbicep
 psc
 pscandy
 psclient
-pscmdlet
 pscommand__python3
 pscommand_--
 pscommand_..
@@ -9294,7 +9299,6 @@ scriptanalyzer
 scriptblock
 scriptblocklogging
 scriptbook
-scriptconversion
 scriptcop
 scriptcreation
 scriptcs
@@ -9311,6 +9315,7 @@ scrolllock
 scrub
 scrubber
 scsm
+scuba
 sd
 sddl
 sdk
@@ -9347,7 +9352,6 @@ secure
 secureapplicationmodel
 secureboot
 securechannel
-securedns
 securegopher
 securegopher+
 securemfa
@@ -9525,6 +9529,7 @@ shares
 sheets
 shell
 shell-art
+shell-integration
 shells
 shieldedvm
 ships
@@ -9869,11 +9874,14 @@ staff
 staffhub
 staging
 stale
+stan
+stanc
 standard
 standarderror
 standardoutput
 standards
 standbypool
+stansummary
 start
 start-job
 start-jobthread
@@ -10227,7 +10235,6 @@ tests
 testsuite
 testtag1
 testtag2
-testtool
 testusers
 text
 text-emoji
@@ -10256,7 +10263,6 @@ tftd
 tftp
 tfvars
 tfvc
-thecrushingemptinessofquotidianexistence
 theme
 themes
 thermal
@@ -10321,6 +10327,9 @@ toc
 todo
 todo.txt
 toggl
+toggl-api
+toggl-api-powershell
+toggl-api-ps
 toggle
 token
 tokenlifetime
@@ -10552,7 +10561,6 @@ uk
 ul
 ulid
 ultimatetool
-um
 uml
 umn
 ums
@@ -10609,7 +10617,6 @@ updatemanagement
 updatemgmt
 updater
 updates
-updateservices
 updmanagement
 updmgmt
 upgrade
@@ -10836,6 +10843,7 @@ voice
 voiceservices
 voidtools
 volkskrant
+volta
 volume
 volumelicense
 volumelicenseagreement
@@ -10968,7 +10976,6 @@ webreport
 webrequest
 webresponse
 webroot
-websearch
 webserver
 webservice
 webservices
