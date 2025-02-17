@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 17 February 2025 02:16:24 UTC
+Updated: Monday, 17 February 2025 09:52:23 UTC
 
 .bat
 .env
@@ -58,7 +58,6 @@ Updated: Monday, 17 February 2025 02:16:24 UTC
 7z
 7zip
 8.1
-8ball
 9
 aa
 aac
@@ -97,6 +96,7 @@ accord.net
 accordian
 account
 account-management
+accounting
 accounts
 ace
 ack
@@ -133,9 +133,6 @@ activedirectoryfederationservices
 activedirectry-html
 activeefficiency
 activehours
-activenet
-activenetworkstation
-activenetworkstationservice
 activeresponse
 activesession
 activiti
@@ -165,7 +162,6 @@ adb
 adc
 adcs
 add
-add-in
 add-member
 add-on
 add-on.module
@@ -200,7 +196,6 @@ admf
 admin
 admin-tools
 adminbyrequest
-admindirectory
 administration
 administrative
 administrativeunit
@@ -294,11 +289,11 @@ alain
 alarm
 alb
 albums
+alc
 alero
 alert
 alerting
 alertmail
-alertmanagement
 alerts
 alertsmanagement
 alfresco
@@ -378,7 +373,6 @@ anti-malware
 antimalwarescaninterface
 antispam
 antivirus
-anws
 any
 anypackage
 anypoint
@@ -530,6 +524,8 @@ aspnet
 aspnet_regiis
 asr
 assembleenationale
+assembly
+assemblyloadcontext
 assemblymeta
 assert
 assertion
@@ -675,6 +671,7 @@ awx
 axapta
 axcient
 axcient_x360recover
+axinom
 axis
 axium
 ayx
@@ -857,7 +854,6 @@ bearded-avenger
 bearer
 beautifier
 beautify
-bec
 beckhoff
 bedrock
 beep
@@ -878,7 +874,6 @@ bicepnet
 big-ip
 big-iq
 bigcommerce
-bigeval
 bigfix
 bigquery
 bikeshed
@@ -1035,7 +1030,6 @@ burnttoast
 burpsuite
 bus
 business
-business_email_compromise
 businesscentral
 businessdays
 businesshours
@@ -1166,7 +1160,6 @@ changeanalysis
 changelog
 channel
 channel9
-char
 character
 chart
 charting
@@ -1224,7 +1217,6 @@ cifv3
 cil
 cim
 cim_computersystem
-cimfs
 cimi
 ciminstance
 cims
@@ -1379,7 +1371,6 @@ codegen
 codegeneration
 codegenerator
 codellama
-codepoint
 codereview
 codes
 codesign
@@ -1394,7 +1385,6 @@ coinbase
 coinmarketcap
 collaboration
 collatordso
-collatz
 collection
 collectionmembershipevaluationcomponent
 collections
@@ -1505,7 +1495,6 @@ configurations
 configure
 confluence
 confluent
-conjecture
 connect
 connect-dtcmsite
 connect-exchangeonprem
@@ -1701,6 +1690,7 @@ crossplatformdevelopment
 crowdstrike
 crt.sh
 crud
+crx
 crypto
 crypto-currency
 cryptocompare
@@ -1915,7 +1905,6 @@ declarative
 decline
 decode
 decode64
-decoding
 decompiler
 decrypt
 decryption
@@ -2033,7 +2022,6 @@ diagrams
 dialog
 dice
 diceware
-dicom
 dictionary
 diff
 difference
@@ -2083,7 +2071,6 @@ disk
 disk_to_disk
 disk-space
 diskfree
-diskimage
 diskpart
 diskpool
 disksize
@@ -2135,8 +2122,6 @@ dns-async
 dns-client
 dns-over-https
 dns-resolver
-dnsbl
-dnsclient
 dnsdumpster
 dnsentry
 dnsimple
@@ -2210,6 +2195,7 @@ downloadoffice
 downloadofficertool
 downloads
 downloadyoutubevideo
+dozent
 dpa
 dpapi
 dpi
@@ -2339,7 +2325,6 @@ ec2
 ecommerce
 ecovadis
 ed25519
-edgaronline
 edge
 edgebackup
 edgeexport
@@ -2634,6 +2619,7 @@ externalip
 extract
 extraction
 extractor
+extreme-networks
 eye-candy
 eztheme
 f
@@ -2727,9 +2713,6 @@ filenames
 fileproperties
 filereplication
 files
-files-cli
-files-cli.exe
-files.com
 filesecurity
 fileserver
 fileserverresourcemanager
@@ -2808,7 +2791,6 @@ fleetsoftwareupdate
 flex
 flex-query
 flexdesk
-flexible
 flickr
 flowchart
 flowy
@@ -2970,14 +2952,12 @@ generates
 generatewif
 generation
 generativeai
-generativeaiagent
 generativeaiagentruntime
 generativeaiinference
 generator
 generic
 genericartifactscontent
 genetic-algorithm
-genp
 genxdev
 geo
 geocache
@@ -3063,6 +3043,7 @@ gitlab-runner
 gitlab4
 gitlabpipeline
 gitops
+glimps
 glob
 globalclipboard
 globaldashboard
@@ -3074,7 +3055,6 @@ glpi
 gmail
 gmap
 gmaps
-gmsa
 gnome
 gnucash
 gnuwin32
@@ -3190,7 +3170,6 @@ hacktoberfest
 hadoop
 hafr
 haiku
-hailstone
 haipa
 halo
 haloitsm
@@ -3234,7 +3213,6 @@ haskell
 haste
 hastebin
 haveibeenpwned
-hawk
 hba
 hbase
 hci
@@ -3290,6 +3268,7 @@ hewlett-packardenterprise
 hex
 hexdump
 hg
+hibernate
 hibernation
 hibp
 hidden
@@ -3325,6 +3304,7 @@ hkey_users
 hklm
 hl7
 hlds
+hls
 hockey
 hol
 holiday
@@ -3512,6 +3492,7 @@ imagination
 imaging
 imap
 imb
+imei
 imi
 impala
 impersonation
@@ -3529,14 +3510,12 @@ importteams
 inactive
 inboxrule
 incident
-incident_response
 incident-response
 incidentresponse
 incontact
 indents
 index
 indexdb
-indicator
 inedo
 inetfwrule
 inetum
@@ -3858,7 +3837,6 @@ keymapping
 keypair
 keysms
 keyvault
-keywords
 kfum-spejderne
 kibana
 kickstart
@@ -4165,7 +4143,6 @@ lsasecrets
 lsd
 ltm
 lucd
-lucene
 lunar
 lunches
 lwa
@@ -4256,6 +4233,7 @@ mariadb
 mark
 markdig
 markdown
+markdownrender
 marketing
 marketo
 marketplace
@@ -4418,6 +4396,7 @@ microsofthealth
 microsoftintune
 microsoftmvp
 microsoftoffice
+microsoftonline
 microsoftsentinel
 microsoftstaffhub
 microsoftstore
@@ -4533,9 +4512,8 @@ mozilla
 mp3
 mp4
 mpc
+mpeg
 mpn
-mrfk
-mrfylke
 mrvl_fc_powerkit
 mrvlfcprovider
 ms_365
@@ -4618,6 +4596,7 @@ multithreaded
 multithreaded-helpers
 multithreading
 music
+musiccast
 mustache
 mutation
 mute
@@ -4845,8 +4824,6 @@ nsxt
 ntdll
 ntds
 ntfs
-ntfy
-ntfypwsh
 ntp
 ntsystems
 nuget
@@ -5026,6 +5003,7 @@ operationsmanagementsuiteagent
 operationvalidation
 operatoraccesscontrol
 opml
+ops
 opsi
 opsmgr
 optics
@@ -5144,7 +5122,6 @@ pagination
 paloalto
 paloaltonetworks
 pam
-panels
 pansies
 panther
 panzerbjrn
@@ -5594,7 +5571,6 @@ preprocessing
 preprocessor
 presentation
 presenter
-presto
 preston-k-parsard
 prettifier
 pretty
@@ -9016,6 +8992,7 @@ repl
 replace
 replaygain
 replication
+repo
 repoo
 report
 reporting
@@ -9183,6 +9160,7 @@ runbook
 runbooks
 runbookstudio
 runcommand
+rundeck
 runner
 runspace
 runspacepool
@@ -9246,6 +9224,7 @@ savefile
 savings
 savov
 sbc
+sc
 scaffold
 scaffolding
 scaffoldingtemplate
@@ -9285,6 +9264,7 @@ schemaextensions
 scheme
 school-information-system
 schoolholidays
+schulung
 schulverwaltung
 science
 scissors
@@ -9346,7 +9326,6 @@ sdn
 sdp
 search
 search-adminauditlog
-search-engines
 searchconnector
 searchengine
 searcher
@@ -9508,6 +9487,7 @@ set-psenv
 set-randompass
 set-type
 setbios
+sets
 setting
 settings
 setup
@@ -9643,7 +9623,6 @@ slack
 slash
 slashcommands
 sleeper
-slideshow
 slmgr
 sln
 slugify
@@ -9767,12 +9746,14 @@ spdockit
 spdx
 spdx-license-identifier:ms-pl
 spe
+speach
 speak
 speaker
 spec
 specification
 specify
 spectre
+spectrumconnect
 spectrumcontrolbase
 speculation
 speculationcontrol
@@ -10245,7 +10226,6 @@ test-userisadministrator
 test-xml
 test123
 testaccount
-testautomation
 tester
 testimonial
 testing
@@ -10264,8 +10244,8 @@ text-emoji
 text-emojis
 text-templates
 text-to-image
+text-to-speach"
 text-to-speech
-text2image
 textanalysis
 textbuffer
 textgeneration
@@ -10283,13 +10263,13 @@ tfsec
 tfswitch
 tftd
 tftp
-tfvars
 tfvc
 thecrushingemptinessofquotidianexistence
 theme
 themes
 thermal
 thermostat
+thinprint
 third-party-libraries
 third-party-notice
 thispc
@@ -10379,6 +10359,7 @@ totp
 touch
 toughswitch
 tower
+tphubps
 tpm
 tr-064
 tr064
@@ -10395,6 +10376,7 @@ trafficfiltering
 trafficmanager
 trafficmarking
 train
+trainer
 training
 training-course
 tram
@@ -10509,6 +10491,7 @@ ubnt
 ubuntu
 ucs
 ucspowertool
+ud-avataaar
 ud-badgebutton
 ud-badgelink
 ud-breadcrumb
@@ -10678,6 +10661,7 @@ userdiscovery
 usergroup
 usergroups
 userinterface
+usermanagement
 username
 userprofile
 userprofiles
@@ -10735,18 +10719,13 @@ vaultstore
 vaultwarden
 vb365
 vba
-vbaproject
 vbproj
 vbr
 vbscript
 vbsinst
-vc
-vccmdlets
 vcenter
-vcf
 vcloud
 vclouddirector
-vcm
 vco
 vcs
 vcsa
@@ -10770,6 +10749,7 @@ venvlink
 vera
 veracrypt
 verbose psmodule
+verification
 verify
 version
 versioning
@@ -11205,7 +11185,6 @@ wordlist
 wordpress
 wordwrap
 workbook
-workday
 worker
 workflow
 workflowmax
@@ -11220,6 +11199,7 @@ workloads
 workpoint
 workrequests
 worksheet
+workshop
 workspace
 workspacemanager
 workspaceone
@@ -11277,7 +11257,6 @@ wunderlist
 wus
 wvd
 www
-x-cart
 x.509
 x1
 x2
@@ -11312,6 +11291,7 @@ xin
 xkcd
 xliff
 xlsx
+xmc
 xml
 xml-rpc
 xml-transform
@@ -11337,6 +11317,7 @@ xwindowsupdate
 xwith
 yahoo
 yahw
+yamaha
 yaml
 yandex
 yandexdisk
