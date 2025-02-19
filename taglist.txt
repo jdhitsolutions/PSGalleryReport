@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Wednesday, 19 February 2025 09:52:53 UTC
+Updated: Wednesday, 19 February 2025 17:52:01 UTC
 
 .bat
 .env
@@ -41,7 +41,6 @@ Updated: Wednesday, 19 February 2025 09:52:53 UTC
 21vianet
 24-bit
 2fa
-300
 365
 36867
 3cx
@@ -120,6 +119,7 @@ activationscripts
 active
 active_directory
 active-directory
+active-plug
 activecampaign
 activedirectory
 activedirectory_delegation
@@ -207,7 +207,6 @@ administrator
 admintools
 adml
 admonition
-admpwd
 admx
 ado
 ado_security
@@ -647,7 +646,6 @@ availability
 availabilityset
 avalara
 avatar
-avatax
 avd
 ave
 avepoint
@@ -823,6 +821,7 @@ base16
 base26
 base32
 base64
+base64string
 base64url
 base85
 basecamp
@@ -975,6 +974,7 @@ box
 bpmn
 brainy
 branch
+branch-rename
 brave
 brawlapi
 brawlstars
@@ -991,6 +991,7 @@ brightbooking
 brightness
 britannica
 britannicaknowledgesystems
+british-gas
 brk4452
 broadcast
 broadcom
@@ -1086,6 +1087,7 @@ carbonawarecomputing
 carbonintensity
 card
 cardwirth
+cares
 cargo
 carousel
 carrier
@@ -1099,7 +1101,6 @@ catalogs
 catalyst
 catapult
 catesta
-catimage
 cats
 catty
 cavium
@@ -1156,6 +1157,7 @@ certificateservices
 certificatesmanagement
 certinia
 certutil
+cf
 cfn
 ch9
 change
@@ -2017,6 +2019,7 @@ devsecops
 devtestlabs
 dfch
 dfir
+dfplayermini
 dfs
 dfw
 dg
@@ -2111,6 +2114,7 @@ dividends
 diving
 division
 divoom
+diy
 dkim
 dkschrutebeets
 dl
@@ -2184,6 +2188,7 @@ domainname
 domainnamesystem
 domains
 domino
+done.land
 donothing
 dos
 dot
@@ -2297,7 +2302,6 @@ dutch
 dvls
 dvr
 dword
-dxexpeditions
 dynamic
 dynamic-host-configuration-protocol
 dynamic-privileged-access
@@ -2337,7 +2341,6 @@ ec2
 ecommerce
 ecovadis
 ed25519
-edgaronline
 edge
 edgebackup
 edgeexport
@@ -2411,6 +2414,7 @@ enbrea
 enclosure
 encode
 encode64
+encodetext
 encoding
 encrypt
 encryption
@@ -2664,6 +2668,7 @@ fastlinq
 fastlookup
 fastping
 fasttrack
+fat32
 favorite
 favorites
 fb-pro
@@ -3041,6 +3046,7 @@ git-clone
 git-flow
 git-lfs
 git-proxy
+git-rename
 git-stat
 gitcmdline
 gitdesktop
@@ -3258,6 +3264,7 @@ healthservice
 healthz
 heartbeatdiscovery
 heat
+heating
 heavenbay
 hebrew
 helium
@@ -3311,6 +3318,7 @@ history
 historyninja
 hitrust
 hive
+hivehome
 hjson
 hkcu
 hkey_classes_root
@@ -3346,6 +3354,7 @@ hostname
 hosts
 hosts-file
 hostsfile
+hot-water
 hotkey
 hotkeys
 howto
@@ -4040,6 +4049,7 @@ listener
 litecoin
 litedb
 literature
+live
 llama
 llama2
 llama3
@@ -4070,7 +4080,6 @@ locale
 localgroup
 localgroupmember
 localization
-localpolicy
 localuser
 location
 locationbasedservices
@@ -4117,6 +4126,7 @@ login
 login-azurermaccount
 login-rdp
 logingestion
+loginscreen
 loginsight
 logiphys
 logistic
@@ -4337,6 +4347,7 @@ members
 membership
 memcm
 memory
+memorydump
 memorystream
 mention
 menu
@@ -4435,6 +4446,7 @@ mim
 mime
 mimekit
 min
+mindmeister
 minecraft
 miniconda
 minifier
@@ -4600,6 +4612,7 @@ multi-platform
 multi-tenant
 multi-thread
 multi-threading
+multi-zone
 multicloud
 multicultural
 multidimenstional
@@ -4678,7 +4691,6 @@ nederland
 nedyalkov
 nemovote
 neo4j
-neonpostgres
 neovim
 neptune
 nerdfonts
@@ -4703,8 +4715,6 @@ netextender
 netfirewallrule
 netherlands
 netmask
-netpdf
-netpdfps
 nets
 netsapiens
 netscaler
@@ -4762,6 +4772,7 @@ newtonsoft
 newtonsoft.json
 nexenta
 nexentastor
+nextcloud
 nexthink
 nexus
 nexusiq
@@ -5101,7 +5112,6 @@ outlook
 outpainting
 output
 output-to-image
-outreach
 outsystems
 overbite
 ovf
@@ -5210,7 +5220,6 @@ patching
 patchtuesday
 path
 pathfinder
-pathmanagement
 patternmatching
 paulo
 pause
@@ -5231,7 +5240,10 @@ pcsetup
 pcsv
 pdb
 pdf
-pdfbox
+pdf-document-processor
+pdf-files
+pdf-generation
+pdf-redaction
 pe
 peek
 peering
@@ -5408,6 +5420,7 @@ poshkeepass
 poshlog
 poshorigin
 poshproject
+poshprtg
 poshrsjob
 poshtemplate
 poshwsus
@@ -5420,7 +5433,6 @@ poshy-env-proxy
 poshy-env-var
 poshy-ls-isms
 poshy-lucidity
-poshy-multimedia
 poshy-net
 poshy-notify-send
 poshy-sh-isms
@@ -5587,7 +5599,6 @@ preprocessing
 preprocessor
 presentation
 presenter
-presto
 preston-k-parsard
 prettifier
 pretty
@@ -5693,6 +5704,8 @@ proxy
 proxyfunction
 proxyfunctions
 prtg
+prtg_network_monitor
+prtgnetworkmonitor
 ps
 ps-ncentral
 ps.credentialmanager
@@ -5797,7 +5810,6 @@ pscommand_bubu
 pscommand_bubug
 pscommand_bugbc
 pscommand_buz
-pscommand_catimg
 pscommand_cd-
 pscommand_cd..
 pscommand_cd+
@@ -5813,7 +5825,6 @@ pscommand_confirm-gitbisectcommitgood
 pscommand_convertto-nixmode
 pscommand_convertto-rgb
 pscommand_d
-pscommand_d64
 pscommand_dbl
 pscommand_dcb
 pscommand_dcdn
@@ -5840,9 +5851,6 @@ pscommand_dcup
 pscommand_dcupb
 pscommand_dcupbd
 pscommand_dcupd
-pscommand_decode64
-pscommand_decodefile64
-pscommand_df64
 pscommand_dib
 pscommand_dii
 pscommand_dils
@@ -5977,13 +5985,8 @@ pscommand_dvls
 pscommand_dvprune
 pscommand_dxc
 pscommand_dxcit
-pscommand_e64
-pscommand_ef64
 pscommand_enable-proxy
-pscommand_encode64
-pscommand_encodefile64
 pscommand_export-gitrepositoryzip
-pscommand_extract
 pscommand_fgblack
 pscommand_fgblue
 pscommand_fgbrightblack
@@ -7132,7 +7135,6 @@ pscommand_myip
 pscommand_new-gitbranchfromstash
 pscommand_new-gitbranchtracked
 pscommand_new-gitpatchfile
-pscommand_new-isofile
 pscommand_new-viewerinvocationfunction
 pscommand_new-windowsterminalpane
 pscommand_new-windowsterminaltab
@@ -7178,10 +7180,8 @@ pscommand_npmst
 pscommand_npmt
 pscommand_npmu
 pscommand_npmv
-pscommand_open_command
 pscommand_pch
 pscommand_pcl
-pscommand_peek
 pscommand_pgr
 pscommand_pi
 pscommand_pidev
@@ -7354,7 +7354,6 @@ pscommand_ts
 pscommand_txa
 pscommand_txl
 pscommand_txn
-pscommand_universalarchive
 pscommand_update-gitbranchbasefrombranchmain
 pscommand_update-gitbranchbasefrommain
 pscommand_update-gitbranchbasefrommaininteractively
@@ -7379,8 +7378,6 @@ pscommand_update-gitrepositoryfromsvn
 pscommand_update-gitsubmodulefromremotemerge
 pscommand_update-gitsubmoduleinit
 pscommand_update-gitsubmoduleinitrecursive
-pscommand_urldecode
-pscommand_urlencode
 pscommand_use-gitbranch
 pscommand_use-gitbranchdevelop
 pscommand_use-gitbranchmain
@@ -7391,8 +7388,6 @@ pscommand_use-gitflowbranchdevelop
 pscommand_use-gitflowbranchhotfix
 pscommand_use-gitflowbranchrelease
 pscommand_use-gitstashentry
-pscommand_uuid
-pscommand_uuidgen
 pscommand_vad
 pscommand_vag
 pscommand_val
@@ -7593,14 +7588,11 @@ psfunction_bgred
 psfunction_bgrgb
 psfunction_bgwhite
 psfunction_bgyellow
-psfunction_catimg
 psfunction_confirm-gitbisectcommitbad
 psfunction_confirm-gitbisectcommitgood
 psfunction_convertto-nixmode
 psfunction_convertto-rgb
 psfunction_d
-psfunction_decode64
-psfunction_decodefile64
 psfunction_dirname
 psfunction_disable-proxy
 psfunction_docker-archive-content
@@ -7669,10 +7661,7 @@ psfunction_dotnet-watch
 psfunction_dotnet-watch-run
 psfunction_dotnet-watch-test
 psfunction_enable-proxy
-psfunction_encode64
-psfunction_encodefile64
 psfunction_export-gitrepositoryzip
-psfunction_extract
 psfunction_fgblack
 psfunction_fgblue
 psfunction_fgbrightblack
@@ -8400,7 +8389,6 @@ psfunction_move-gittrackedfiles
 psfunction_new-gitbranchfromstash
 psfunction_new-gitbranchtracked
 psfunction_new-gitpatchfile
-psfunction_new-isofile
 psfunction_new-viewerinvocationfunction
 psfunction_new-windowsterminalpane
 psfunction_new-windowsterminaltab
@@ -8428,8 +8416,6 @@ psfunction_notify-send-terminalnotifier
 psfunction_npm-disable-proxy
 psfunction_npm-enable-proxy
 psfunction_npm-show-proxy
-psfunction_open_command
-psfunction_peek
 psfunction_pipig
 psfunction_pipigb
 psfunction_pipigp
@@ -8535,7 +8521,6 @@ psfunction_test-o
 psfunction_test-reparsepoint
 psfunction_test-sessioninteractivity
 psfunction_test-x
-psfunction_universalarchive
 psfunction_update-gitbranchbasefrombranchmain
 psfunction_update-gitbranchbasefrommain
 psfunction_update-gitbranchbasefrommaininteractively
@@ -8560,8 +8545,6 @@ psfunction_update-gitrepositoryfromsvn
 psfunction_update-gitsubmodulefromremotemerge
 psfunction_update-gitsubmoduleinit
 psfunction_update-gitsubmoduleinitrecursive
-psfunction_urldecode
-psfunction_urlencode
 psfunction_use-gitbranch
 psfunction_use-gitbranchdevelop
 psfunction_use-gitbranchmain
@@ -8635,6 +8618,7 @@ psproject
 psprojectcreator
 psprojectgenerator
 psprovider
+psprtg
 pspublicapi
 psql
 psraw
@@ -8691,6 +8675,7 @@ publish
 publish-module
 publishedmodules
 publisher
+publishers
 publishing
 pubsub
 pubxml
@@ -8991,8 +8976,10 @@ remove-tempfiles
 removefile
 removetypeaccelerators
 remux
-ren-isac
 rename
+rename-git
+rename-git-branch
+rename-gitbranch
 reonboarding
 repair
 repair-msauth
@@ -9183,7 +9170,6 @@ russia
 rust
 rust-lang
 ryanairps
-ryver
 s.ds.p
 s1
 s3
@@ -9381,6 +9367,7 @@ security-score
 security-txt
 security.txt
 securityassertionmarkuplanguage
+securityattribute
 securitycenter
 securitycompliancecenter
 securitygroup
@@ -9478,7 +9465,6 @@ servicestatus
 servicestore
 servicing
 servicingstack
-ses
 session
 sessionize
 sessions
@@ -9942,7 +9928,6 @@ stockcharts
 stocks
 stoicism
 stoics
-stolpe.io
 stop
 storablecolortheme
 storage
@@ -10014,7 +9999,6 @@ sudo
 sugar
 sugarcrm
 suggestion
-suitecrm
 sullivan
 summary
 summit
@@ -10048,7 +10032,6 @@ swis
 switch
 sxs
 sybase
-sybaseiq
 symantec
 symbolic
 symbolic_link
@@ -10252,6 +10235,7 @@ testtag2
 testtool
 testusers
 text
+text_to_speech
 text-emoji
 text-emojis
 text-templates
@@ -10282,6 +10266,7 @@ thecrushingemptinessofquotidianexistence
 theme
 themes
 thermal
+thermostat
 thinprint
 third-party-libraries
 third-party-notice
@@ -10610,7 +10595,6 @@ unitypackage
 universal
 universal-automation
 universal-dashboard
-universalarchive
 universaldashboard
 universialaccessgateway
 university
@@ -10652,7 +10636,6 @@ uri-scheme
 url
 url-encode
 url-shortener
-urldecode
 urlencode
 urlhaus
 urlredirections
@@ -10687,7 +10670,6 @@ users-management
 userworkstations
 usg
 usgs
-usps
 utc
 utf-8
 utf-sig
@@ -10753,7 +10735,6 @@ vdp
 vdportgroup
 vdswitch
 vduplink
-ve7cc
 vector
 veeam
 veeampn
@@ -10865,7 +10846,6 @@ volumelicense
 volumelicenseagreement
 volumeshadowcopy
 volumio
-voperator
 vorbis
 voting
 vovin
@@ -10881,7 +10861,6 @@ vps
 vra
 vrchat
 vrealize
-vrising
 vro
 vrops
 vrsns
@@ -11028,6 +11007,7 @@ where
 whfb
 whiteboard
 whitespace
+who
 whoami
 whois
 whoiscmdlet
@@ -11203,7 +11183,6 @@ wordlist
 wordpress
 wordwrap
 workbook
-workday
 worker
 workflow
 workflowmax
@@ -11269,13 +11248,13 @@ wt
 wtsapi32
 wttr
 wttr.in
+wtx
 wu
 wug
 wunderlist
 wus
 wvd
 www
-x-cart
 x.509
 x1
 x2
@@ -11379,6 +11358,7 @@ zoommeeting
 zorus
 zorusapi
 zoxide
+zpr
 zsh
 zuora
 zvm
