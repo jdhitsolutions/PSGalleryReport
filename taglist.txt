@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Friday, 21 February 2025 02:15:38 UTC
+Updated: Friday, 21 February 2025 09:52:01 UTC
 
 .bat
 .env
@@ -150,7 +150,6 @@ ad
 ad_delegation
 ad_monitoring
 ad_security
-ad-ds
 ad-object
 ad-ou-object
 ad-report
@@ -188,6 +187,7 @@ adfs
 adfsconfiguration
 adfsdiagnostics
 adfsendpoint
+adfstoolkit
 adfstools
 adgroupmemberobjects
 adgroupmembers
@@ -208,6 +208,7 @@ administrativeuser
 administrator
 admintools
 adml
+admonition
 admpwd
 admx
 ado
@@ -253,6 +254,7 @@ after-effects
 aftereffects
 agenda
 agent
+aggregates
 aggregation
 agile
 agility
@@ -334,7 +336,6 @@ amazonwebservices
 amend
 ami
 amiga
-amp
 amqp
 amsi
 amt
@@ -658,6 +659,7 @@ avro
 avs
 avset
 await
+awakecoding
 awareness
 awesome
 awp
@@ -696,6 +698,7 @@ aznetworking
 aznetworkinterface
 aznicdetails
 azops
+azpipelines
 azpublicipaddress
 azresources
 azsdk
@@ -779,6 +782,7 @@ azurerunasconnection
 azuresearch
 azuresearcher
 azuresecuritycenter
+azureservicebus
 azuresigntool
 azuresql
 azuresqlexport
@@ -1061,6 +1065,7 @@ calculate
 calculator
 calendar
 callingcode
+callout
 callqueue
 calvin-and-hobbes
 cam
@@ -1068,6 +1073,7 @@ camera
 cameras
 campaign
 camtasia
+canarie
 cancel
 cancellation
 canonical
@@ -1418,6 +1424,7 @@ comdata
 comedy
 comic
 comical
+comics
 command
 command_line
 command-line-interface
@@ -1466,6 +1473,7 @@ compress
 compression
 compute
 compute-ops-management
+computecloudatcustomer
 computeinstanceagent
 computer
 computer-room
@@ -1791,6 +1799,7 @@ dacpackage
 dagger
 dailen
 daily
+dalle3
 dane
 dangling
 dapr
@@ -1810,6 +1819,7 @@ data-backup
 data-tier
 data-uri
 data-uri-converter
+dataadapter
 database
 database-migrations
 databaseautomation
@@ -1882,6 +1892,7 @@ dbase
 dbassistant
 dbatools
 dbcommand
+dbeaver
 dbfs
 dbnull
 dbops
@@ -1890,6 +1901,7 @@ dbup
 dbwebapi
 dc
 dcim
+dcim_b324
 dcom
 dconf
 dcr
@@ -2039,6 +2051,7 @@ digitalforensics
 digitalocean
 digitaltwins
 dilbert
+dimcry
 dircolors
 director
 directories
@@ -2090,7 +2103,6 @@ displayresolution
 disposable
 dispose
 distance
-distinguishedname
 distributed-systems
 distributed-tracing
 distributedcache
@@ -2274,7 +2286,6 @@ dudckduckgo
 duf
 dumb
 dummy
-dummyusers
 dump
 dumpify
 dumping
@@ -2324,6 +2335,7 @@ earthquakes
 easy
 easy-to-use
 easylife365
+easyvista
 eaton
 ebay
 ebooks
@@ -2387,6 +2399,7 @@ emailnotification
 emailnotificationcomponent
 emailsecurity
 embedded
+embedding
 emc
 emcomm
 emergency
@@ -2396,6 +2409,7 @@ emojis
 emotion
 empire
 empty
+emwarehouse
 enable
 enable-internet
 enable-psremoting
@@ -2746,6 +2760,7 @@ filter
 filter-item
 filtering
 fim
+fims
 finance
 finance&operations
 financeandoperations
@@ -2792,12 +2807,14 @@ flash
 flasharray
 flatfile
 flatten
+flavor
 fleet
 fleetappsmanagement
 fleetsoftwareupdate
 flex
 flex-query
 flexdesk
+flexible
 flickr
 flowchart
 flowy
@@ -2925,6 +2942,7 @@ gamecategory:cards
 games
 gameserver
 gaming
+garage
 gas
 gat
 gateway
@@ -2983,6 +3001,8 @@ get-childitem
 get-cmhealthcheck
 get-command
 get-credential
+get-criticaltrippoint
+get-currentcputemperature
 get-dellwarranty
 get-directorycontents
 get-dtcmdevicemodel
@@ -2999,13 +3019,16 @@ get-iislog
 get-openfile
 get-openfiles
 get-pass
+get-passivetrippoint
 get-passlist
 get-path
 get-pinneditem
 get-samcmassignedsite
 get-samcmcurrentmanagementpoint
+get-samplingperiod
 get-stalecomps
 get-staleusers
+get-thermalstamp
 get-uptime
 getfirmwareenvironmentvariable
 getfirmwaretype
@@ -3074,7 +3097,6 @@ google-chrome
 google-fonts
 google-histogram
 google-sankey
-google-table
 googleadsv2
 googlecloudplatform
 googledrive
@@ -3174,7 +3196,6 @@ hadoop
 hafr
 haiku
 hailstone
-haipa
 halo
 haloitsm
 halopsa
@@ -3199,6 +3220,7 @@ harden-windows-security
 hardening
 hardensysvol
 hardlink
+hardmatch
 hardware
 harperdb
 hartokens
@@ -3417,6 +3439,7 @@ ib
 ibm
 ibmc
 ibmhttpserver
+icacl
 icann
 icinga
 icinga2
@@ -3486,6 +3509,7 @@ imageoftheday
 imageprocess
 imageprocessing
 images
+imageservicing
 imageslide
 imagevalidate
 imagevalidation
@@ -3850,7 +3874,6 @@ kill
 kindle
 kinetic
 kinopoisk
-kintone
 kittygraphicsprotocol
 klantcontroles
 kms
@@ -4065,7 +4088,6 @@ lock
 lockbox
 lockdisplaytimeout
 lockdown
-lockfile
 locking
 lockoutreport
 lockscreen
@@ -4087,6 +4109,8 @@ logbook
 logcat
 logentry
 logfile
+logfilearchivearchive
+logfilemanagement psmodule
 logfiles
 logger
 logging
@@ -4248,6 +4272,7 @@ marketplacepublisher
 marking
 marklogic
 marquee
+marvel
 marvell
 marvell_semiconductor_inc
 marvellfcpowerkit
@@ -4258,6 +4283,7 @@ mask
 mass
 masstransit
 masterconfiguration
+match
 matcharray
 matchhashtable
 materialdesign
@@ -4272,6 +4298,7 @@ max
 max_path
 maximum
 maxoffice
+mazerat
 mb
 mbc
 mbs
@@ -4495,7 +4522,6 @@ monitoring_objects
 monitoring_variables
 monitoringplugins
 monitoringsolutions
-monitors
 month
 monthlyupdate
 moodle
@@ -4524,6 +4550,7 @@ ms_365
 ms-graph
 ms365
 msaccess
+msacpi_thermalzonetemperature
 msal
 msauth
 msband
@@ -4615,7 +4642,6 @@ mycloudrevolution
 myget
 myhub
 myip
-myitprocess
 myjson
 myjson.com
 myob
@@ -4626,7 +4652,6 @@ mysql-database
 mytest
 n-able
 n-central
-nabu
 nac
 nagios
 nakivo
@@ -4739,6 +4764,7 @@ new-samcmpackagefrompackagedefinitionsms
 new-system
 new-udmorph
 new-win32app
+newpassword
 newrelic
 news
 newspaper
@@ -4852,6 +4878,7 @@ nvm-window
 nxt
 nyse
 nzb
+o1
 o365
 o365mailnotification
 oa
@@ -4909,6 +4936,7 @@ officegraph
 officemessageencryption
 officertool
 offline
+offlinewimservicing
 ofx
 ogg
 oh-my-posh
@@ -4955,6 +4983,7 @@ onlinebackup
 onprem
 onpremisesdatagatewayhamgmt
 onq
+ons
 ontap
 ontap_9.16.1
 ontap_9.8.0
@@ -5044,6 +5073,7 @@ osdcloud
 osddriver
 osddrivers
 osdeploy
+osdeployment
 osdprogress
 osdsus
 osdupdate
@@ -5055,6 +5085,7 @@ osp
 ospgateway
 osprovision
 osprovisioning
+osr
 oss
 ossec
 osubbillingschedule
@@ -5080,7 +5111,6 @@ outline
 outlook
 outpainting
 output
-output-to-image
 outreach
 outsystems
 overbite
@@ -5119,7 +5149,6 @@ pager
 pagerduty
 pages
 pagination
-paloalto
 paloaltonetworks
 pam
 panels
@@ -5256,6 +5285,7 @@ pgp
 phabricator
 philips
 philosophical
+philpritchett
 phishing
 phoenix
 phone
@@ -5613,6 +5643,7 @@ process-inspector
 processing
 processmitigation
 processor
+procmap
 procs
 producer
 product
@@ -8629,7 +8660,6 @@ psreadline
 psreminder
 psremoting
 psrepository
-psresource
 psresourceget
 psrule
 psrule-rules
@@ -8726,7 +8756,9 @@ pyranja
 python
 python-for-dotnet
 python3
+qatam
 qcloud
+qconvergeconsolepowerkit
 qemu
 qlgc_fc_powerkit
 qlik
@@ -8760,6 +8792,7 @@ queryexcel
 querystring
 question
 queue
+queues
 queuing
 quick-response
 quickaccess
@@ -8891,6 +8924,9 @@ redteaming
 redundancy
 refactor
 refactoring
+refeds
+refeds-mfa
+refedsmfa
 reference
 reflect
 reflection
@@ -9043,7 +9079,6 @@ restore
 resume
 retail
 retention
-retro
 retry
 returnuserprofile
 retype
@@ -9154,6 +9189,7 @@ runbook
 runbooks
 runbookstudio
 runcommand
+rundeck
 runner
 runspace
 runspacepool
@@ -9193,6 +9229,7 @@ saltstackenterprise
 sam
 saml
 saml psmodule
+saml2
 sample
 sampler
 samurai
@@ -9887,7 +9924,6 @@ startkey
 startmen
 startmenu
 starttls
-starwars
 stash
 stat
 state
@@ -10003,6 +10039,7 @@ summary
 summit
 sumologic
 supercell
+superheros
 supermarket
 support
 support-tool
@@ -10023,6 +10060,7 @@ svg
 svn
 svt
 swagger
+swamid
 swarm
 swimlane
 swis
@@ -10162,6 +10200,7 @@ teamsphoneupdatesoftware
 teamspolicy
 teamviewer
 techdirect
+techedna2014
 techlog
 technology
 techsmith
@@ -10176,6 +10215,7 @@ teletext
 telligent
 telnet
 temp
+temperature
 template
 template-engine
 template-utility
@@ -10229,13 +10269,11 @@ testsuite
 testtag1
 testtag2
 testtool
-testusers
 text
 text_to_speech
 text-emoji
 text-emojis
 text-templates
-text-to-image
 text-to-speach"
 text-to-speech
 text2image
@@ -10261,6 +10299,7 @@ tfvc
 thecrushingemptinessofquotidianexistence
 theme
 themes
+thermal
 thermostat
 thinprint
 third-party-libraries
@@ -10338,6 +10377,7 @@ tools
 tools4ever
 topdesk
 topgrade
+topics
 topleveldomain
 topology
 tor
@@ -10420,7 +10460,6 @@ trouw
 true-color
 truecrypt
 truenas
-trumethods
 truportal
 trusted
 trusted-host
@@ -10439,6 +10478,7 @@ tst
 tst1
 tst3
 tsv
+ttrpg
 tts
 tubedownloader
 tui
@@ -10525,6 +10565,7 @@ ud-slider
 ud-speechbubble
 ud-step
 ud-stepbar
+ud-stickynavbar
 ud-tagcloud
 ud-timeline
 ud-timeout
@@ -10703,6 +10744,7 @@ variance
 variants
 vastlimits
 vault
+vaultextension
 vaultstore
 vaultwarden
 vb365
@@ -10860,7 +10902,6 @@ vrising
 vro
 vrops
 vrsns
-vrtu
 vs
 vs-shell
 vsa
@@ -10986,7 +11027,6 @@ wec
 wecutil
 weekday
 wef
-weixin
 well-architectedframework
 well-architectedreliabilityassessment
 well-known
@@ -11038,7 +11078,6 @@ wif
 wifi
 wiki
 wildcard
-wildfire
 wildfly
 wim
 wim2vhd
@@ -11327,7 +11366,6 @@ ynab
 youtube
 youtube-dl
 youtube-transcript
-youtubeextractor
 yq
 yts
 yubaba
