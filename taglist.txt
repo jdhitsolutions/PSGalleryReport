@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Saturday, 22 February 2025 02:14:20 UTC
+Updated: Saturday, 22 February 2025 09:52:15 UTC
 
 .bat
 .env
@@ -123,7 +123,6 @@ active
 active_directory
 active-directory
 active-plug
-activecampaign
 activedirectory
 activedirectory_delegation
 activedirectory_over_html
@@ -325,6 +324,7 @@ alteryx
 alwaysontop
 alwaysonvpn
 alz
+amateur
 amateur-data-interchange-format
 amateur-radio
 amateurradio
@@ -363,6 +363,7 @@ animate-svg
 animation
 animations
 annotated
+announcement
 announcementsservice
 anonymous
 anova
@@ -454,6 +455,9 @@ appx
 appxmanifest
 appxpackage
 aprs
+aprs-is
+aprsis
+aprsthursday
 aps
 apt
 apt-get
@@ -589,7 +593,6 @@ authenticationcertificate
 authenticationstrength
 authenticode
 authn
-author
 authoring
 authoringtools
 authorisation
@@ -615,6 +618,7 @@ autologon
 automai
 automanage
 automate
+automated
 automatedlab
 automatenow
 automaticpacketreportingsystem
@@ -1025,6 +1029,7 @@ buildmaster
 builds
 buildtool
 bulk
+bulletin
 bullhorn
 bundle
 bup
@@ -1083,7 +1088,6 @@ carbon
 carbonawarecomputing
 carbonintensity
 card
-cardwirth
 cares
 cargo
 carousel
@@ -1419,7 +1423,6 @@ comical
 comics
 command
 command_line
-command-line-interface
 command-validation
 commandcoverage
 commandhistory
@@ -1430,7 +1433,6 @@ commands
 commandsandresource
 commence
 comment
-comments
 commerce
 commfort
 commit
@@ -1577,7 +1579,6 @@ conversiontool
 convert
 convert-dtexceptiontomessage
 convert-movietogif
-convert-sid
 convert-windowsimage
 converter
 convertfrom
@@ -1605,7 +1606,6 @@ copy
 copy-item
 copyfileex
 copypaste
-copyright
 core
 coreposh
 coreutils
@@ -1992,6 +1992,7 @@ dev
 dev-tools
 devart
 devcenter
+devdeer
 devdrive
 developer
 developer_command_prompt
@@ -2038,6 +2039,7 @@ difference
 dify
 dig
 digikam
+digital
 digital-forensics
 digitalforensics
 digitalocean
@@ -2271,7 +2273,6 @@ dts
 dtsx
 dtx
 du
-dual-stack
 duck
 duckdb
 duckduckgo
@@ -2397,6 +2398,7 @@ emailsecurity
 embedded
 embedding
 emc
+emcomm
 emergency
 emissions
 emoji
@@ -2774,7 +2776,6 @@ findfile
 findlocation
 findplace
 findproxyforurl
-fine-print
 fine-tuning
 finops
 firebird
@@ -2872,7 +2873,6 @@ fountassist
 fox
 foxpro
 fqdn
-frame
 framework
 france
 free
@@ -2988,8 +2988,6 @@ geoencode
 geoencoding
 geoip
 geolocation
-geosearching
-geotagging
 get
 get_random_password
 get-admodernreport
@@ -3119,6 +3117,7 @@ gpo-tools
 gpodoc
 gpolinks
 gpp
+gps
 gpt
 gpx
 gradle
@@ -3198,6 +3197,8 @@ haloitsm
 halopsa
 haloservicedesk
 haloservicesolutions
+ham
+hamradio
 hamradiodeluxe
 hana
 hanaon
@@ -3717,7 +3718,6 @@ issues
 isvalidemail
 isvalidip
 it
-it-support
 it-tool
 it-tools
 itadministration
@@ -4268,7 +4268,6 @@ marketplaceprivateoffer
 marketplacepublisher
 marking
 marklogic
-marquee
 marvel
 marvell
 marvell_semiconductor_inc
@@ -4805,6 +4804,8 @@ node
 nodejs
 non-idiomatic
 non-volatile
+none
+noneimages
 noninteractive
 noproxy
 nord
@@ -7524,6 +7525,7 @@ pscommand_zwp
 pscommander
 psconfasia
 psconfeu
+psconfig
 pscore
 pscredential
 pscribo
@@ -8707,6 +8709,7 @@ publicip
 publish
 publish-module
 publishedmodules
+publisher
 publishers
 publishing
 pubsub
@@ -9551,7 +9554,9 @@ shared
 sharefile
 sharepoint
 sharepoint_online
+sharepoint-on-prem
 sharepoint-online
+sharepoint-product-configuration-wizard
 sharepoint2013
 sharepointdevelopmentcommunity
 sharepointonline
@@ -9801,7 +9806,6 @@ sphere
 spi
 spicetify
 spinnaker
-splash
 splat
 splatting
 split
@@ -10174,7 +10178,6 @@ tasks
 taskscheduler
 tatux
 taxjar
-taxonomy
 tcg
 tcp
 tcp/ip
@@ -10235,7 +10238,6 @@ terminal-services
 terminal.gui
 terminalnotifier
 terminalvelocity
-termset
 terraform
 terraform-docs
 terraform-switcher
@@ -10383,7 +10385,6 @@ topgrade
 topics
 topleveldomain
 topology
-tor
 toradex
 torizon
 torrent
@@ -10448,7 +10449,6 @@ trendmicro
 trevor
 trevorsullivan
 triangle
-tribeloo
 trick
 tricks
 trigger
@@ -10547,6 +10547,7 @@ ud-funnel
 ud-hero
 ud-illustration
 ud-input
+ud-licensed
 ud-loadingoverlay
 ud-minesweeper
 ud-mouseparticle
