@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Sunday, 23 February 2025 09:51:56 UTC
+Updated: Sunday, 23 February 2025 17:52:04 UTC
 
 .bat
 .env
@@ -137,7 +137,6 @@ activehours
 activenet
 activenetworkstation
 activenetworkstationservice
-activeresponse
 activesession
 activiti
 activities
@@ -294,7 +293,6 @@ alac
 alain
 alarm
 alb
-albums
 alc
 alero
 alert
@@ -321,7 +319,6 @@ alphafs
 alpine
 alt3
 alter
-alteryx
 alwaysontop
 alwaysonvpn
 alz
@@ -383,6 +380,7 @@ antivirus
 anws
 any
 anypackage
+anypoint
 anywhere
 aovpn psmodule
 apache
@@ -505,7 +503,6 @@ artefactual
 artifact
 artifactory
 artifacts
-artificial-intelligence
 artificialintelligence
 aruba
 as
@@ -541,7 +538,6 @@ assessment
 asset
 assetintelligencepoint
 assets
-assist
 assistance
 assistant
 association
@@ -590,7 +586,6 @@ auth0
 authenticate
 authentication
 authenticationcertificate
-authenticationstrength
 authenticode
 authn
 author
@@ -645,6 +640,7 @@ autoupdate-script
 autowrapper
 autoyast
 auvik
+availability
 availabilityset
 avalara
 avatar
@@ -672,7 +668,6 @@ aws-vault
 aws.tools.powershell
 awsbedrock
 awscli
-awspricelist
 awx
 axapta
 axcient
@@ -680,7 +675,6 @@ axcient_x360recover
 axinom
 axis
 axium
-ayx
 az
 az-cli
 az.runtimeenvironment
@@ -860,6 +854,7 @@ bearded-avenger
 bearer
 beautifier
 beautify
+bec
 beckhoff
 bedrock
 beep
@@ -975,6 +970,7 @@ boundarygroups
 bounty
 box
 bpmn
+brainy
 branch
 branch-rename
 brave
@@ -1038,6 +1034,7 @@ burnttoast
 burpsuite
 bus
 business
+business_email_compromise
 businesscentral
 businessdays
 businesshours
@@ -1065,7 +1062,6 @@ callingcode
 callout
 callqueue
 calvin-and-hobbes
-cam
 camera
 cameras
 campaign
@@ -1105,6 +1101,7 @@ catapult
 catesta
 catimage
 cats
+catty
 cavium
 cb
 cblueshell
@@ -1237,7 +1234,6 @@ cipp
 circuit-breaker
 circumlunar
 cireson
-ciresonassetmanagement
 ciresonportal
 cis
 cisa
@@ -1419,6 +1415,7 @@ combine
 comdata
 comedy
 comic
+comical
 comics
 command
 command_line
@@ -1481,7 +1478,6 @@ concurrency
 concurrent
 conda
 condition
-conditional
 conditionalaccess
 conduit
 conference
@@ -1532,7 +1528,6 @@ connectwise
 conservation
 console
 consoleguitools
-consoleimage
 consolemenu
 consolemusic
 consumer
@@ -1546,7 +1541,6 @@ containerinstance
 containerinstances
 containerregistry
 containers
-containment
 content
 contentprep
 context
@@ -1571,6 +1565,7 @@ conventional
 conventional-commits
 convereter
 converged_data_management
+conversational
 converse
 converseapi
 conversion
@@ -1604,7 +1599,6 @@ coordinates
 copilot
 copy
 copy-item
-copyfileex
 copypaste
 copyright
 core
@@ -1921,6 +1915,7 @@ decrypt
 decryption
 dedicatedhsm
 deduplication
+deep
 deep-security
 deep-security-manager
 deepl
@@ -2039,7 +2034,6 @@ difference
 dify
 dig
 digikam
-digital
 digital-forensics
 digitalforensics
 digitalocean
@@ -2055,6 +2049,7 @@ directory-transform
 directorycleanup
 directorymanagement
 directorymarks
+directoryname
 directorysearcher
 directorysecurity
 directrouting
@@ -2427,10 +2422,10 @@ energy
 engagement
 engine
 engineevent
+english
 enhancement
 enrichers
 enrichment
-entaid
 enteo
 enter
 enterprise
@@ -2479,7 +2474,6 @@ errorhandling
 errors
 errorview
 eryph
-esae
 esc
 escape
 escapecodes
@@ -2813,6 +2807,7 @@ flexdesk
 flexible
 flickr
 flowchart
+flowy
 fluidrelay
 flurl
 flyway
@@ -2866,9 +2861,6 @@ forwardcompatibility
 forwardedevents
 foudil
 foundationmodels
-fount
-fount-pwsh
-fountassist
 fox
 foxpro
 fqdn
@@ -3183,7 +3175,6 @@ gz
 gzip
 gzip-compression
 ha
-haarlemsdagblad
 hack
 hacking
 hacktoberfest
@@ -3234,6 +3225,7 @@ haskell
 haste
 hastebin
 haveibeenpwned
+hawk
 hba
 hbase
 hci
@@ -3399,7 +3391,9 @@ hubspotps
 hudson
 hue
 humanizer
+humanly
 humor
+humorous
 humour
 hunter
 hwid
@@ -3527,6 +3521,7 @@ importteams
 inactive
 inboxrule
 incident
+incident_response
 incident-response
 incidentresponse
 incontact
@@ -3558,7 +3553,6 @@ initialization
 initials-avatar
 initiator
 inline-progress
-inlineimageprotocol
 inlineprogress
 innerjoin
 innertext
@@ -3624,6 +3618,7 @@ interval-timer
 intigua
 intranet
 intrusion
+intuitive
 intune
 intuneadminroles
 intuneappwinutil
@@ -3864,7 +3859,6 @@ kindle
 kinetic
 kinopoisk
 kintone
-kittygraphicsprotocol
 klantcontroles
 kms
 knapsack
@@ -3947,6 +3941,7 @@ latin
 latitude
 launcher
 layer
+layman
 layout
 lazywinadmin
 lbi
@@ -3968,7 +3963,6 @@ learnpowershell
 lease
 leftjoin
 legacy
-legacyad
 legends
 lego
 lein
@@ -4204,7 +4198,6 @@ mailkit
 mails
 main
 main-menu
-maintain-module
 maintenance
 maintenance-window
 maintenancewindows
@@ -4405,7 +4398,6 @@ microsoftdefender
 microsoftdefenderatp
 microsoftdefenderforidentity
 microsoftdeploymenttoolkit
-microsoftendpointmanager
 microsoftexchangeserver
 microsoftfabric
 microsoftgraph
@@ -4433,7 +4425,6 @@ migrations
 mikrotik
 milestone
 milestonepstools
-mim
 mime
 mimekit
 min
@@ -4479,7 +4470,6 @@ modeling
 models
 modify
 module
-module-maintenance
 module-manifest
 module-publishing
 module-publishing-framework
@@ -4501,7 +4491,6 @@ monaco
 monday
 mondoo
 money
-moneyforward
 mongo
 mongodb
 monitor
@@ -4594,10 +4583,11 @@ msu
 msvc
 msword
 mta-sts
+mule
+mulesoft
 multi
 multi-factor
 multi-language
-multi-platform
 multi-tenant
 multi-thread
 multi-threading
@@ -4606,7 +4596,6 @@ multicloud
 multicultural
 multidimenstional
 multimedia
-multios
 multipass
 multiple
 multiserver
@@ -5278,6 +5267,7 @@ pfy
 pgp
 phabricator
 philips
+philosophical
 philpritchett
 phishing
 phoenix
@@ -5336,7 +5326,6 @@ play
 playback
 playbook
 player
-playlists
 playwright
 pleasant
 pleasantpasswordserver
@@ -5352,7 +5341,6 @@ ply
 pmp
 pncit
 pnp
-pnp.powershell
 pnpm
 poc
 pode
@@ -5449,7 +5437,6 @@ poshy-wrap-git
 poshy-wrap-git-flow
 poshy-wrap-git-lfs
 poshy-wrap-golang
-poshy-wrap-helm
 poshy-wrap-kubectl
 poshy-wrap-maven
 poshy-wrap-nginx
@@ -5513,7 +5500,6 @@ powerprotect_datamanager
 powersaving
 powerscheme
 powershell
-powershell_universal
 powershell-class
 powershell-cmdlets
 powershell-core
@@ -5602,7 +5588,6 @@ prettyprinter
 preview
 previousversions
 price
-pricelist
 primenumber
 primera
 principal
@@ -5705,6 +5690,7 @@ prtgnetworkmonitor
 ps
 ps-ncentral
 ps.credentialmanager
+ps1
 ps12exe
 ps1xml
 ps1xmlgen
@@ -6424,11 +6410,7 @@ pscommand_gup
 pscommand_gus
 pscommand_gwc
 pscommand_gwch
-pscommand_h
-pscommand_hin
 pscommand_hostname
-pscommand_hse
-pscommand_hup
 pscommand_invoke-aptcachepolicy
 pscommand_invoke-aptcachesearch
 pscommand_invoke-aptcacheshowpkg
@@ -6581,10 +6563,6 @@ pscommand_invoke-goversion
 pscommand_invoke-govet
 pscommand_invoke-gowork
 pscommand_invoke-greppipfreeze
-pscommand_invoke-helm
-pscommand_invoke-helminstall
-pscommand_invoke-helmsearch
-pscommand_invoke-helmupgrade
 pscommand_invoke-kubectl
 pscommand_invoke-kubectlallnamespaces
 pscommand_invoke-kubectlapplyfromfile
@@ -7995,10 +7973,6 @@ psfunction_invoke-goversion
 psfunction_invoke-govet
 psfunction_invoke-gowork
 psfunction_invoke-greppipfreeze
-psfunction_invoke-helm
-psfunction_invoke-helminstall
-psfunction_invoke-helmsearch
-psfunction_invoke-helmupgrade
 psfunction_invoke-kubectl
 psfunction_invoke-kubectlallnamespaces
 psfunction_invoke-kubectlapplyfromfile
@@ -8602,7 +8576,6 @@ psgraylog
 pshdhomerun
 pshot
 pshtml
-psimport
 psincludes_cmdlet
 psincludes_command
 psincludes_function
@@ -8699,7 +8672,6 @@ publicip
 publish
 publish-module
 publishedmodules
-publisher
 publishers
 publishing
 pubsub
@@ -8900,7 +8872,6 @@ redaction
 reddit
 redfield
 redfish
-redforest
 redgate
 redirect
 redirecting
@@ -9029,7 +9000,6 @@ repos
 repositories
 repository
 request
-requestfiltering
 requiredmodules
 requirements
 res
@@ -9240,6 +9210,7 @@ sarcasm
 sarif
 sas
 sat
+satirical
 save
 savedcreds
 savefile
@@ -9790,7 +9761,6 @@ spejder
 spellcheck
 spelling
 spf
-spfx
 sphere
 spi
 spicetify
@@ -10047,6 +10017,7 @@ survey
 surveymonkey
 sus
 sushi
+suspensive
 svesavov
 svetoslav
 svg
@@ -10171,7 +10142,6 @@ taxonomy
 tcg
 tcp
 tcp/ip
-tcpip
 tcpport
 tcprjmgmt
 tcpserver
@@ -10301,7 +10271,6 @@ third-party-libraries
 third-party-notice
 thispc
 thoughtfortheday
-thousandeyes
 thread
 threading
 threadjob
@@ -10560,7 +10529,6 @@ ud-simpledrawer
 ud-singleselect
 ud-slider
 ud-speechbubble
-ud-step
 ud-stepbar
 ud-stickynavbar
 ud-tagcloud
@@ -10734,6 +10702,7 @@ value
 values
 valve
 vami
+vao
 variable
 variables
 variance
@@ -10950,7 +10919,6 @@ wansi
 wap
 wapack
 wapi
-wara
 warning
 warplaneporn
 warranty
@@ -10961,6 +10929,7 @@ watch
 watchdog
 watchguard
 watchmen
+watery
 wave
 wbem
 wcf
@@ -10989,6 +10958,7 @@ webcmdlets
 webdav
 webdeploy
 webdeveloper
+webfrequest
 webhdfs
 webhelpdesk
 webhistory
@@ -11023,8 +10993,6 @@ wecutil
 weekday
 wef
 weixin
-well-architectedframework
-well-architectedreliabilityassessment
 well-known
 wem
 wemsdk
@@ -11309,7 +11277,6 @@ xbox
 xclarity
 xconvert
 xdr
-xdschelper
 xdscresources
 xdt
 xenapp
