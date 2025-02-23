@@ -9,7 +9,7 @@ These are the most popular 250 modules based on total download count for modules
 
 This module contain cmdlets to manage Windows Update Client.
 
-__Downloads__: 1,142,865,841 | __Repository__: https://github.com/mgajda83/PSWindowsUpdate
+__Downloads__: 1,143,506,551 | __Repository__: https://github.com/mgajda83/PSWindowsUpdate
 
 ## [SpeculationControl](https://www.powershellgallery.com/Packages/SpeculationControl/1.0.18) | 1.0.18
 
@@ -17,7 +17,7 @@ __Downloads__: 1,142,865,841 | __Repository__: https://github.com/mgajda83/PSWin
 
 This module provides the ability to query the speculation control settings for the system.
 
-__Downloads__: 520,379,023 | __Repository__: 
+__Downloads__: 520,381,255 | __Repository__: 
 
 ## [RunAsUser](https://www.powershellgallery.com/Packages/RunAsUser/2.4.0) | 2.4.0
 
@@ -25,7 +25,7 @@ __Downloads__: 520,379,023 | __Repository__:
 
 This module allows you to execute scripts under the current user while running as SYSTEM using impersonation.
 
-__Downloads__: 109,830,337 | __Repository__: https://github.com/KelvinTegelaar/RunAsUser
+__Downloads__: 109,865,564 | __Repository__: https://github.com/KelvinTegelaar/RunAsUser
 
 ## [powershell-yaml](https://www.powershellgallery.com/Packages/powershell-yaml/0.4.12) | 0.4.12
 
@@ -33,7 +33,7 @@ __Downloads__: 109,830,337 | __Repository__: https://github.com/KelvinTegelaar/R
 
 Powershell module for serializing and deserializing YAML
 
-__Downloads__: 107,720,077 | __Repository__: https://github.com/cloudbase/powershell-yaml
+__Downloads__: 107,740,474 | __Repository__: https://github.com/cloudbase/powershell-yaml
 
 ## [psprivilege](https://www.powershellgallery.com/Packages/psprivilege/0.2.0) | 0.2.0
 
@@ -42,7 +42,7 @@ __Downloads__: 107,720,077 | __Repository__: https://github.com/cloudbase/powers
 Adds cmdlets that can be used to enable/disable/remove privileges on a process. Also adds cmdlets that can be used to configure the members of Windows rights and privileges.
 See https://github.com/jborean93/PSPrivilege for more info
 
-__Downloads__: 94,665,976 | __Repository__: https://github.com/jborean93/PSPrivilege
+__Downloads__: 94,779,815 | __Repository__: https://github.com/jborean93/PSPrivilege
 
 ## [Carbon](https://www.powershellgallery.com/Packages/Carbon/2.15.1) | 2.15.1
 
@@ -155,7 +155,7 @@ __Downloads__: 37,391,197 | __Repository__:
 
 Module to manage systems using SNMP.
 
-__Downloads__: 34,643,493 | __Repository__: 
+__Downloads__: 34,643,682 | __Repository__: 
 
 ## [LSUClient](https://www.powershellgallery.com/Packages/LSUClient/1.6.2) | 1.6.2
 
@@ -163,7 +163,7 @@ __Downloads__: 34,643,493 | __Repository__:
 
 Orchestrate driver, BIOS/UEFI and firmware updates for Lenovo computers 👨‍💻
 
-__Downloads__: 31,822,032 | __Repository__: https://www.github.com/jantari/LSUClient
+__Downloads__: 31,822,164 | __Repository__: https://www.github.com/jantari/LSUClient
 
 ## [AzTable](https://www.powershellgallery.com/Packages/AzTable/2.1.0) | 2.1.0
 
@@ -171,7 +171,7 @@ __Downloads__: 31,822,032 | __Repository__: https://www.github.com/jantari/LSUCl
 
 Sample functions to add/retrieve/update entities on Azure Storage Tables from PowerShell (This is the same as AzureRmStorageTable module but with a new module name). It requires latest PowerShell Az module installed. Instructions at https://docs.microsoft.com/en-us/powershell/azure/install-az-ps?view=azps-1.6.0. For documentation, please visit https://paulomarquesc.github.io/working-with-azure-storage-tables-from-powershell/.
 
-__Downloads__: 26,829,749 | __Repository__: 
+__Downloads__: 26,829,959 | __Repository__: 
 
 ## [Pester](https://www.powershellgallery.com/Packages/Pester/5.7.1) | 5.7.1
 
@@ -179,7 +179,7 @@ __Downloads__: 26,829,749 | __Repository__:
 
 Pester provides a framework for running BDD style Tests to execute and validate PowerShell commands inside of PowerShell and offers a powerful set of Mocking Functions that allow tests to mimic and mock the functionality of any command inside of a piece of PowerShell code being tested. Pester tests can execute any command or script that is accessible to a pester test file. This can include functions, Cmdlets, Modules and scripts. Pester can be run in ad hoc style in a console or it can be integrated into the Build scripts of a Continuous Integration system.
 
-__Downloads__: 26,461,952 | __Repository__: https://github.com/Pester/Pester
+__Downloads__: 26,462,001 | __Repository__: https://github.com/Pester/Pester
 
 ## [MSAL.PS](https://www.powershellgallery.com/Packages/MSAL.PS/4.37.0.0) | 4.37.0.0
 
@@ -189,7 +189,7 @@ The MSAL.PS PowerShell module wraps MSAL.NET functionality into PowerShell-frien
 
 MSAL.NET (Microsoft.Identity.Client) is an authentication library which enables you to acquire tokens from Azure AD, to access protected Web APIs (Microsoft APIs or applications registered with Azure Active Directory).
 
-__Downloads__: 24,669,495 | __Repository__: https://github.com/jasoth/MSAL.PS
+__Downloads__: 24,669,614 | __Repository__: https://github.com/jasoth/MSAL.PS
 
 ## [VMware.VimAutomation.Sdk](https://www.powershellgallery.com/Packages/VMware.VimAutomation.Sdk/13.3.0.24145081) | 13.3.0.24145081
 
@@ -197,7 +197,7 @@ __Downloads__: 24,669,495 | __Repository__: https://github.com/jasoth/MSAL.PS
 
 This PowerShell module contains PowerCLI Sdk.
 
-__Downloads__: 23,782,331 | __Repository__: https://developer.vmware.com/powercli
+__Downloads__: 23,782,444 | __Repository__: https://developer.vmware.com/powercli
 
 ## [DockerMsftProvider](https://www.powershellgallery.com/Packages/DockerMsftProvider/1.0.0.8) | 1.0.0.8
 
@@ -205,7 +205,7 @@ __Downloads__: 23,782,331 | __Repository__: https://developer.vmware.com/powercl
 
 PowerShell module with commands for discovering, installing, and updating Docker images.
 
-__Downloads__: 23,466,211 | __Repository__: https://github.com/OneGet/MicrosoftDockerProvider
+__Downloads__: 23,466,899 | __Repository__: https://github.com/OneGet/MicrosoftDockerProvider
 
 ## [VMware.VimAutomation.Common](https://www.powershellgallery.com/Packages/VMware.VimAutomation.Common/13.3.0.24145081) | 13.3.0.24145081
 
@@ -213,7 +213,7 @@ __Downloads__: 23,466,211 | __Repository__: https://github.com/OneGet/MicrosoftD
 
 This PowerShell module contains functionality required by multiple PowerCLI modules.
 
-__Downloads__: 23,010,237 | __Repository__: https://developer.vmware.com/powercli
+__Downloads__: 23,010,354 | __Repository__: https://developer.vmware.com/powercli
 
 ## [BurntToast](https://www.powershellgallery.com/Packages/BurntToast/0.8.5) | 0.8.5
 
@@ -221,7 +221,7 @@ __Downloads__: 23,010,237 | __Repository__: https://developer.vmware.com/powercl
 
 Module for creating and displaying Toast Notifications on Microsoft Windows 10.
 
-__Downloads__: 22,712,868 | __Repository__: https://github.com/Windos/BurntToast
+__Downloads__: 22,712,901 | __Repository__: https://github.com/Windos/BurntToast
 
 ## [VMware.Vim](https://www.powershellgallery.com/Packages/VMware.Vim/8.3.0.24145081) | 8.3.0.24145081
 
@@ -229,7 +229,7 @@ __Downloads__: 22,712,868 | __Repository__: https://github.com/Windos/BurntToast
 
 This PowerShell module contains PowerCLI Vim.
 
-__Downloads__: 21,497,745 | __Repository__: https://developer.vmware.com/powercli
+__Downloads__: 21,497,855 | __Repository__: https://developer.vmware.com/powercli
 
 ## [VMware.VimAutomation.Cis.Core](https://www.powershellgallery.com/Packages/VMware.VimAutomation.Cis.Core/13.3.0.24145081) | 13.3.0.24145081
 
@@ -237,7 +237,7 @@ __Downloads__: 21,497,745 | __Repository__: https://developer.vmware.com/powercl
 
 This PowerShell module contains PowerCLI Cloud Infrastructure Suite cmdlets.
 
-__Downloads__: 20,068,489 | __Repository__: https://developer.vmware.com/powercli
+__Downloads__: 20,068,603 | __Repository__: https://developer.vmware.com/powercli
 
 ## [VMware.VimAutomation.Core](https://www.powershellgallery.com/Packages/VMware.VimAutomation.Core/13.3.0.24145081) | 13.3.0.24145081
 
@@ -245,7 +245,7 @@ __Downloads__: 20,068,489 | __Repository__: https://developer.vmware.com/powercl
 
 This PowerShell module contains Windows PowerShell cmdlets for managing vSphere.
 
-__Downloads__: 19,831,691 | __Repository__: https://developer.vmware.com/powercli
+__Downloads__: 19,831,799 | __Repository__: https://developer.vmware.com/powercli
 
 ## [7Zip4Powershell](https://www.powershellgallery.com/Packages/7Zip4Powershell/2.7.0) | 2.7.0
 
@@ -1633,7 +1633,7 @@ __Downloads__: 1,910,443 | __Repository__:
 
 get/set display resolution info on windows
 
-__Downloads__: 1,909,816 | __Repository__: https://github.com/lust4life/display-resolution
+__Downloads__: 1,909,881 | __Repository__: https://github.com/lust4life/display-resolution
 
 ## [SimplySql](https://www.powershellgallery.com/Packages/SimplySql/2.1.0.96) | 2.1.0.96
 
@@ -1649,7 +1649,7 @@ Get/Clear -SqlMessage >> Get Informational messages, if provider supports it.
 Invoke-SqlBulkCopy >> Bulk Dataload from one connection to another.
 Start/Complete/Undo -SqlTransaction >> Utilize transactions!
 
-__Downloads__: 1,806,554 | __Repository__: https://github.com/mithrandyr/SimplySql
+__Downloads__: 1,806,659 | __Repository__: https://github.com/mithrandyr/SimplySql
 
 ## [HPEiLOCmdlets](https://www.powershellgallery.com/Packages/HPEiLOCmdlets/4.4.0.0) | 4.4.0.0
 
@@ -1657,7 +1657,7 @@ __Downloads__: 1,806,554 | __Repository__: https://github.com/mithrandyr/SimplyS
 
 Scripting Tools for Windows PowerShell : iLO Cmdlets uses the RIBCL and Redfish interface to communicate to iLO. These cmdlets can be used to configure and manage iLO on HPE ProLiant Gen10, Gen10 Plus, Gen11 or Gen12 servers.
 
-__Downloads__: 1,800,426 | __Repository__: https://www.hpe.com/servers/powershell
+__Downloads__: 1,800,484 | __Repository__: https://www.hpe.com/servers/powershell
 
 ## [2atMonitoring](https://www.powershellgallery.com/Packages/2atMonitoring/1.1.4824) | 1.1.4824
 
@@ -1674,7 +1674,7 @@ __Downloads__: 1,736,155 | __Repository__:
 This module assists software deployment administrators in deploying disparate software. It is designed to
 provide a standard interface to treat software installers of all types exactly the same.
 
-__Downloads__: 1,716,612 | __Repository__: https://github.com/adbertram/PSSoftware
+__Downloads__: 1,716,614 | __Repository__: https://github.com/adbertram/PSSoftware
 
 ## [ConnectWiseManageAPI-Evident](https://www.powershellgallery.com/Packages/ConnectWiseManageAPI-Evident/0.4.7.7) | 0.4.7.7
 
@@ -1682,7 +1682,7 @@ __Downloads__: 1,716,612 | __Repository__: https://github.com/adbertram/PSSoftwa
 
 PowerShell wrapper for the ConnectWise Manage REST API
 
-__Downloads__: 1,707,399 | __Repository__: https://github.com/christaylorcodes/ConnectWiseManageAPI
+__Downloads__: 1,707,412 | __Repository__: https://github.com/christaylorcodes/ConnectWiseManageAPI
 
 ## [Zerto.Zvm.Commandlets](https://www.powershellgallery.com/Packages/Zerto.Zvm.Commandlets/1.974.0) | 1.974.0
 
@@ -1698,7 +1698,7 @@ __Downloads__: 1,679,622 | __Repository__: https://www.zerto.com/
 
 Powershell access to Everything - Blazingly fast file system searches
 
-__Downloads__: 1,642,038 | __Repository__: https://github.com/powercode/PSEverything
+__Downloads__: 1,642,051 | __Repository__: https://github.com/powercode/PSEverything
 
 ## [DsReg](https://www.powershellgallery.com/Packages/DsReg/1.3.1) | 1.3.1
 
@@ -1706,7 +1706,7 @@ __Downloads__: 1,642,038 | __Repository__: https://github.com/powercode/PSEveryt
 
 A PowerShell wrapper for the dsregcmd executable's output.
 
-__Downloads__: 1,611,134 | __Repository__: https://github.com/Yevrag35/DsRegModule
+__Downloads__: 1,611,135 | __Repository__: https://github.com/Yevrag35/DsRegModule
 
 ## [Get-NetView](https://www.powershellgallery.com/Packages/Get-NetView/2025.2.18.245) | 2025.2.18.245
 
@@ -2141,4 +2141,4 @@ PowerShell wrapper for ConnectWise Control web API
 
 __Downloads__: 785,381 | __Repository__: https://github.com/christaylorcodes/ConnectWiseControlAPI
 
-*Updated: Sunday, 23 February 2025 09:51:53 UTC*
+*Updated: Sunday, 23 February 2025 17:52:01 UTC*
