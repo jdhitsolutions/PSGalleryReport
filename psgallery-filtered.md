@@ -3,6 +3,46 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [NerdFonts](https://www.powershellgallery.com/Packages/NerdFonts/1.0.21) | 1.0.21
+
+### Published: 02/25/2025 01:02:26 by PSModule
+
+A PowerShell module to download and install fonts from NerdFonts.
+
+__Downloads__: 61,395 | __Repository__: https://github.com/PSModule/NerdFonts
+
+## [GoogleFonts](https://www.powershellgallery.com/Packages/GoogleFonts/1.0.9) | 1.0.9
+
+### Published: 02/25/2025 00:51:44 by PSModule
+
+A PowerShell module to download and install fonts from GoogleFonts.
+
+__Downloads__: 7,818 | __Repository__: https://github.com/PSModule/GoogleFonts
+
+## [Fonts](https://www.powershellgallery.com/Packages/Fonts/1.1.18) | 1.1.18
+
+### Published: 02/25/2025 00:24:14 by PSModule
+
+A PowerShell module for managing fonts.
+
+__Downloads__: 80,931 | __Repository__: https://github.com/PSModule/Fonts
+
+## [WindmillClient](https://www.powershellgallery.com/Packages/WindmillClient/1.468.0) | 1.468.0
+
+### Published: 02/24/2025 22:16:19 by Windmill Labs
+
+Client for the Windmill platform.
+
+__Downloads__: 2,709 | __Repository__: https://github.com/windmill-labs/windmill/tree/main/powershell-client
+
+## [STROM.NANO.PSWH.CICD](https://www.powershellgallery.com/Packages/STROM.NANO.PSWH.CICD/0.20251.8499) | 0.20251.8499
+
+### Published: 02/24/2025 20:11:12 by Carsten Riedel
+
+A library for supporting CICD actions.
+
+__Downloads__: 40 | __Repository__: 
+
 ## [ConditionalAccessIQ](https://www.powershellgallery.com/Packages/ConditionalAccessIQ/0.0.2) | 0.0.2
 
 ### Published: 02/24/2025 17:33:49 by Gabriel Delaney - gdelaney@phzconsulting.com | https://github.com/thetolkienblackguy
@@ -125,14 +165,6 @@ Provides cmdlets for starting migration of applications to supported clouds usin
 
 __Downloads__: 1,442 | __Repository__: https://migrate.rivermeadow.com/
 
-## [STROM.NANO.PSWH.CICD](https://www.powershellgallery.com/Packages/STROM.NANO.PSWH.CICD/0.20251.7757) | 0.20251.7757
-
-### Published: 02/24/2025 06:59:15 by Carsten Riedel
-
-A library for supporting CICD actions.
-
-__Downloads__: 40 | __Repository__: 
-
 ## [SAP](https://www.powershellgallery.com/Packages/SAP/1.0.1) | 1.0.1
 
 ### Published: 02/24/2025 06:50:27 by Lazuardi
@@ -171,7 +203,7 @@ __Downloads__: 1,140,281 | __Repository__: https://psappdeploytoolkit.com/
 
 Create evergreen Windows image builds with the latest versions of applications. Evergreen is a simple PowerShell module that retrieves the latest version numbers and download URLs for various software products directly from the vendor source.
 
-__Downloads__: 8,026,710 | __Repository__: https://stealthpuppy.com/evergreen/
+__Downloads__: 8,026,593 | __Repository__: https://stealthpuppy.com/evergreen/
 
 ## [pipEnv](https://www.powershellgallery.com/Packages/pipEnv/0.1.5) | 0.1.5
 
@@ -222,7 +254,7 @@ A free, open-source forensics PowerShell module for conducting incident response
     incident responders, and administrators quickly gather critical log data and identify potential security concerns. 
     While it includes basic analysis capabilities to flag items of interest, it focuses on efficient data collection rather than automated detection.
 
-__Downloads__: 84,601 | __Repository__: https://github.com/T0pCyber/Hawk
+__Downloads__: 84,608 | __Repository__: https://github.com/T0pCyber/Hawk
 
 ## [PDS](https://www.powershellgallery.com/Packages/PDS/0.1.206) | 0.1.206
 
@@ -238,7 +270,7 @@ __Downloads__: 347 | __Repository__:
 
 A PowerShell module to handle markdown
 
-__Downloads__: 687 | __Repository__: https://github.com/PSModule/Markdown
+__Downloads__: 697 | __Repository__: https://github.com/PSModule/Markdown
 
 ## [SnippetPredictor](https://www.powershellgallery.com/Packages/SnippetPredictor/0.1.0) | 0.1.0
 
@@ -310,7 +342,7 @@ __Downloads__: 290 | __Repository__:
 
 February 23, 2025
 
-__Downloads__: 3,135,407 | __Repository__: https://github.com/OSDeploy/OSD
+__Downloads__: 3,135,490 | __Repository__: https://github.com/OSDeploy/OSD
 
 ## [SmartAceDesigns.ScriptoFormTemplates](https://www.powershellgallery.com/Packages/SmartAceDesigns.ScriptoFormTemplates/2025.1.1) | 2025.1.1
 
@@ -325,21 +357,13 @@ A ScriptoForm project is the set of files and folders, including the PowerShell 
 
 __Downloads__: 68 | __Repository__: https://github.com/Smart-Ace-Designs/SmartAceDesigns.ScriptoFormTemplates
 
-## [Onne](https://www.powershellgallery.com/Packages/Onne/1.5) | 1.5
-
-### Published: 02/23/2025 03:35:30 by onne.nl
-
-Module that retrieves AutoPilot hardware hash and sends it via email or upload online.
-
-__Downloads__: 21 | __Repository__: 
-
 ## [PSTree](https://www.powershellgallery.com/Packages/PSTree/2.2.2) | 2.2.2
 
 ### Published: 02/22/2025 18:44:01 by Santiago Squarzon
 
 tree like cmdlets for PowerShell
 
-__Downloads__: 56,999 | __Repository__: https://www.github.com/santisq/PSTree
+__Downloads__: 56,996 | __Repository__: https://www.github.com/santisq/PSTree
 
 ## [Entrinsec.Powershell.SETUP](https://www.powershellgallery.com/Packages/Entrinsec.Powershell.SETUP/1.11.65) | 1.11.65
 
@@ -403,15 +427,7 @@ __Downloads__: 165,490 | __Repository__: https://github.com/AsBuiltReport/AsBuil
 
 A PowerShell module to generate an as built report on the configuration of Microsoft AD.
 
-__Downloads__: 58,958 | __Repository__: https://github.com/AsBuiltReport/AsBuiltReport.Microsoft.AD
-
-## [WindmillClient](https://www.powershellgallery.com/Packages/WindmillClient/1.467.1) | 1.467.1
-
-### Published: 02/22/2025 01:14:39 by Windmill Labs
-
-Client for the Windmill platform.
-
-__Downloads__: 2,709 | __Repository__: https://github.com/windmill-labs/windmill/tree/main/powershell-client
+__Downloads__: 58,950 | __Repository__: https://github.com/AsBuiltReport/AsBuiltReport.Microsoft.AD
 
 ## [Diagrammer.Microsoft.AD](https://www.powershellgallery.com/Packages/Diagrammer.Microsoft.AD/0.2.8) | 0.2.8
 
@@ -419,7 +435,7 @@ __Downloads__: 2,709 | __Repository__: https://github.com/windmill-labs/windmill
 
 A PowerShell module to generate an as built report on the configuration of Microsoft AD.
 
-__Downloads__: 48,198 | __Repository__: https://github.com/rebelinux/Diagrammer.Microsoft.AD
+__Downloads__: 48,204 | __Repository__: https://github.com/rebelinux/Diagrammer.Microsoft.AD
 
 ## [MailPolicyExplainer](https://www.powershellgallery.com/Packages/MailPolicyExplainer/1.5.0) | 1.5.0
 
@@ -435,7 +451,7 @@ __Downloads__: 864 | __Repository__: https://github.com/rhymeswithmogul/MailPoli
 
 A PowerShell module which provides the core framework for generating Diagrams for many common datacentre systems.
 
-__Downloads__: 67,240 | __Repository__: https://github.com/rebelinux/Diagrammer.Core
+__Downloads__: 67,249 | __Repository__: https://github.com/rebelinux/Diagrammer.Core
 
 ## [PowerPAN](https://www.powershellgallery.com/Packages/PowerPAN/0.3.4) | 0.3.4
 
@@ -467,7 +483,7 @@ __Downloads__: 8 | __Repository__: https://github.com/elmersh/DirectoryTree
 
 Azure DevOps Utilities
 
-__Downloads__: 4,053 | __Repository__: 
+__Downloads__: 4,051 | __Repository__: 
 
 ## [Okta.PowerShell](https://www.powershellgallery.com/Packages/Okta.PowerShell/2.0.0) | 2.0.0
 
@@ -525,6 +541,14 @@ TheDashboard is a module that allows you to create a dashboard for your HTML rep
 
 __Downloads__: 8,270 | __Repository__: https://github.com/EvotecIT/TheDashboard
 
+## [CSHelper](https://www.powershellgallery.com/Packages/CSHelper/1.3.5) | 1.3.5
+
+### Published: 02/21/2025 14:00:53 by Jörg Tuttas
+
+cmdLets to administrate CloudStack
+
+__Downloads__: 53 | __Repository__: 
+
 ## [PSScriptlogging](https://www.powershellgallery.com/Packages/PSScriptlogging/1.11.0.0) | 1.11.0.0
 
 ### Published: 02/21/2025 12:32:58 by Benni Ladevig Pedersen
@@ -542,6 +566,14 @@ __Downloads__: 51 | __Repository__: https://github.com/BenLPed/PSScriptLogging
 Load your powershell profile asynchronously, so you can get to the prompt faster.
 
 __Downloads__: 98 | __Repository__: https://github.com/fsackur/ProfileAsync
+
+## [PSLoadModule](https://www.powershellgallery.com/Packages/PSLoadModule/1.1.0.0) | 1.1.0.0
+
+### Published: 02/21/2025 10:34:47 by Benni Ladevig Pedersen
+
+Help loading or install needed PowerShell module
+
+__Downloads__: 66 | __Repository__: https://github.com/BenLPed/PSLoadModule
 
 ## [coop](https://www.powershellgallery.com/Packages/coop/1.0.2) | 1.0.2
 
@@ -666,7 +698,7 @@ __Downloads__: 6 | __Repository__: https://github.com/MichaelAlestock/MaaS360PS
 
 PowerShell module to query the Logic Monitor API. This PowerShell module is developed as an open-source project and is not officially supported by LogicMonitor. It is maintained by a community of users who are passionate about enhancing its capabilities and functionality. While LogicMonitor recognizes the effort and ingenuity behind this module, please note that it is provided "as is" without any official support or warranty from LogicMonitor.
 
-__Downloads__: 158,537 | __Repository__: https://github.com/logicmonitor/lm-powershell-module
+__Downloads__: 158,536 | __Repository__: https://github.com/logicmonitor/lm-powershell-module
 
 ## [ItGlue](https://www.powershellgallery.com/Packages/ItGlue/2025.2.20.0) | 2025.2.20.0
 
@@ -746,7 +778,7 @@ __Downloads__: 27 | __Repository__: https://github.com/chadnpc/ArgParser
 
 A module for authoring and building PowerShell modules
 
-__Downloads__: 218,452 | __Repository__: https://github.com/PoshCode/ModuleBuilder
+__Downloads__: 218,456 | __Repository__: https://github.com/PoshCode/ModuleBuilder
 
 ## [AppManiProgramManager](https://www.powershellgallery.com/Packages/AppManiProgramManager/1.67.0) | 1.67.0
 
@@ -754,7 +786,7 @@ __Downloads__: 218,452 | __Repository__: https://github.com/PoshCode/ModuleBuild
 
 Module for installing basic programs: This module provides functions for downloading installers from specified links, installing the programs, verifying the installed programs/services, and cleaning up the installer files.
 
-__Downloads__: 137,702 | __Repository__: 
+__Downloads__: 137,700 | __Repository__: 
 
 ## [Capgemini.PowerPlatform.DevOps](https://www.powershellgallery.com/Packages/Capgemini.PowerPlatform.DevOps/2.0.222) | 2.0.222
 
@@ -770,7 +802,7 @@ __Downloads__: 3,332 | __Repository__: https://dev.azure.com/CapgeminiD365CE
 
 A PowerShell module that simplifies some interaction with Hashtables.
 
-__Downloads__: 4,184 | __Repository__: https://github.com/PSModule/Hashtable
+__Downloads__: 4,158 | __Repository__: https://github.com/PSModule/Hashtable
 
 ## [MicrosoftMvp](https://www.powershellgallery.com/Packages/MicrosoftMvp/0.0.3) | 0.0.3
 
@@ -818,7 +850,7 @@ __Downloads__: 1,160 | __Repository__: https://github.com/Sekers/SKYAPI
 
 Master module for a collection of modules. These modules are varied in their tasks. The overall purpose of them being to provide a powerfull Toolset to improve IT Admin workflows.
 
-__Downloads__: 121,031 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox
+__Downloads__: 121,025 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox
 
 ## [AdminToolbox.FortiWizard](https://www.powershellgallery.com/Packages/AdminToolbox.FortiWizard/2.22.0.7) | 2.22.0.7
 
@@ -850,7 +882,7 @@ __Downloads__: 109,457 | __Repository__: https://github.com/TheTaylorLee/AdminTo
 
 Functions for working with Office365 and Azure modules
 
-__Downloads__: 122,837 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 122,831 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.Networking](https://www.powershellgallery.com/Packages/AdminToolbox.Networking/2.21.1.11) | 2.21.1.11
 
@@ -866,7 +898,7 @@ __Downloads__: 264,250 | __Repository__: https://github.com/TheTaylorLee/AdminTo
 
 Microsoft Graph interactive API Functions
 
-__Downloads__: 95,000 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 94,995 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.Fun](https://www.powershellgallery.com/Packages/AdminToolbox.Fun/1.7.0.36) | 1.7.0.36
 
@@ -882,7 +914,7 @@ __Downloads__: 110,646 | __Repository__: https://github.com/TheTaylorLee/AdminTo
 
 File Management Functions
 
-__Downloads__: 128,487 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 128,481 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.FFTools](https://www.powershellgallery.com/Packages/AdminToolbox.FFTools/4.17.0.36) | 4.17.0.36
 
@@ -898,7 +930,7 @@ __Downloads__: 181,166 | __Repository__: https://github.com/TheTaylorLee/AdminTo
 
 Functions for Exchange Management
 
-__Downloads__: 149,817 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 149,811 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.EndpointManagement](https://www.powershellgallery.com/Packages/AdminToolbox.EndpointManagement/4.12.0.16) | 4.12.0.16
 
@@ -906,7 +938,7 @@ __Downloads__: 149,817 | __Repository__: https://github.com/TheTaylorLee/AdminTo
 
 Functions for management of endpoints
 
-__Downloads__: 146,461 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 146,455 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.ActiveDirectory](https://www.powershellgallery.com/Packages/AdminToolbox.ActiveDirectory/1.11.2.7) | 1.11.2.7
 
@@ -914,7 +946,7 @@ __Downloads__: 146,461 | __Repository__: https://github.com/TheTaylorLee/AdminTo
 
 Functions for Active Directory
 
-__Downloads__: 156,522 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 156,515 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [Posh-ACME.Deploy](https://www.powershellgallery.com/Packages/Posh-ACME.Deploy/2.0.1) | 2.0.1
 
@@ -922,7 +954,7 @@ __Downloads__: 156,522 | __Repository__: https://github.com/TheTaylorLee/AdminTo
 
 Deployment helper functions for Posh-ACME
 
-__Downloads__: 63,119 | __Repository__: https://github.com/rmbolger/Posh-ACME.Deploy
+__Downloads__: 63,122 | __Repository__: https://github.com/rmbolger/Posh-ACME.Deploy
 
 ## [ImportDotEnv](https://www.powershellgallery.com/Packages/ImportDotEnv/0.0.22) | 0.0.22
 
@@ -946,7 +978,7 @@ __Downloads__: 585 | __Repository__: https://github.com/FriedrichWeinmann/PIM.Gr
 
 Package and publish any apps from WinGet to Intune.
 
-__Downloads__: 121,830 | __Repository__: https://wintuner.app/
+__Downloads__: 121,816 | __Repository__: https://wintuner.app/
 
 ## [SentinelEnrichment](https://www.powershellgallery.com/Packages/SentinelEnrichment/0.1.9) | 0.1.9
 
@@ -995,14 +1027,6 @@ __Downloads__: 100 | __Repository__: https://github.com/gerickes/PSGerickeUtil
 This Module has been created to provide a repository of my Daily Functions. - This module is provided as is without any support. Please be aware you are using this module as your own risks without any responsabilities from us.
 
 __Downloads__: 517 | __Repository__: 
-
-## [GoogleFonts](https://www.powershellgallery.com/Packages/GoogleFonts/1.0.8) | 1.0.8
-
-### Published: 02/19/2025 00:38:52 by PSModule
-
-A PowerShell module to download and install fonts from GoogleFonts.
-
-__Downloads__: 7,818 | __Repository__: https://github.com/PSModule/GoogleFonts
 
 ## [ModuleForge](https://www.powershellgallery.com/Packages/ModuleForge/1.0.1) | 1.0.1
 
@@ -1940,7 +1964,7 @@ __Downloads__: 10,694 | __Repository__: https://github.com/oracle/oci-powershell
 
 This modules provides Cmdlets for OCI Database Service
 
-__Downloads__: 27,427 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+__Downloads__: 27,418 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
 ## [PSCreateADForest](https://www.powershellgallery.com/Packages/PSCreateADForest/0.0.2) | 0.0.2
 
@@ -2054,28 +2078,4 @@ This modules provides Cmdlets for OCI Certificates Service
 
 __Downloads__: 9,884 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-## [OCI.PSModules.Capacitymanagement](https://www.powershellgallery.com/Packages/OCI.PSModules.Capacitymanagement/99.2.0) | 99.2.0
-
-### Published: 02/18/2025 18:51:16 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Capacitymanagement Service
-
-__Downloads__: 5,610 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Budget](https://www.powershellgallery.com/Packages/OCI.PSModules.Budget/99.2.0) | 99.2.0
-
-### Published: 02/18/2025 18:50:50 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Budget Service
-
-__Downloads__: 11,238 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Blockchain](https://www.powershellgallery.com/Packages/OCI.PSModules.Blockchain/99.2.0) | 99.2.0
-
-### Published: 02/18/2025 18:50:38 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Blockchain Service
-
-__Downloads__: 11,268 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-*Updated: Monday, 24 February 2025 17:52:13 UTC*
+*Updated: Tuesday, 25 February 2025 02:16:08 UTC*
