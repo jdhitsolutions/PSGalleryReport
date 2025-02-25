@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Tuesday, 25 February 2025 02:16:16 UTC
+Updated: Tuesday, 25 February 2025 09:52:01 UTC
 
 .bat
 .env
@@ -68,7 +68,6 @@ aadc
 aadconnect
 aadgraph
 aadrm
-aadsecurity
 aadsts
 aam
 aas
@@ -325,6 +324,7 @@ alteryx
 alwaysontop
 alwaysonvpn
 alz
+amateur
 amateur-data-interchange-format
 amateur-radio
 amateurradio
@@ -348,7 +348,6 @@ analyst
 analyth
 analytics
 analyticsrules
-analyze
 analyzer
 analyzerrules
 anchor
@@ -363,6 +362,7 @@ animate-svg
 animation
 animations
 annotated
+announcement
 announcementsservice
 anonymous
 anova
@@ -388,7 +388,6 @@ apache
 apachekafka
 apexlegends
 api
-api-client
 api-gateway
 api-rest
 apichecks
@@ -454,6 +453,9 @@ appx
 appxmanifest
 appxpackage
 aprs
+aprs-is
+aprsis
+aprsthursday
 aps
 apt
 apt-get
@@ -615,6 +617,7 @@ autologon
 automai
 automanage
 automate
+automated
 automatedlab
 automatenow
 automaticpacketreportingsystem
@@ -1026,8 +1029,8 @@ buildkit
 buildkite
 buildmaster
 builds
-buildtool
 bulk
+bulletin
 bullhorn
 bundle
 bup
@@ -1300,7 +1303,6 @@ clixml
 clock
 clojure
 clone
-close-openfile
 cloud
 cloud_data_management
 cloud-backup
@@ -1606,7 +1608,6 @@ coordinates
 copilot
 copy
 copy-item
-copyfileex
 copypaste
 copyright
 core
@@ -1618,7 +1619,6 @@ cos
 cosmos
 cosmosdb
 cost
-cost-management
 costmanagement
 costoptimization
 couchbase
@@ -1662,7 +1662,6 @@ createfile
 createprocessasuser
 createschema
 createtable
-creationworkflowsimplification
 creator
 cred
 credential
@@ -1729,7 +1728,6 @@ ctype
 cubes
 cudel
 culture
-cumulative
 cumulativeupdate
 cumulocity
 curious
@@ -2144,7 +2142,6 @@ dnsdumpster
 dnsentry
 dnsimple
 dnslookup
-dnsmadeeasy
 dnsoverhttps
 dnsrecord
 dnsresolver
@@ -2275,9 +2272,7 @@ dtc
 dts
 dtsx
 dtx
-du
 dual-stack
-duck
 duckdb
 duckduckgo
 ducktyping
@@ -2403,6 +2398,7 @@ emailsecurity
 embedded
 embedding
 emc
+emcomm
 emergency
 emissions
 emoji
@@ -2574,7 +2570,6 @@ exchangeon-premise
 exchangeon-premises
 exchangeonline
 exchangeonlinemanagement
-exchangeonlineprotection
 exchangeonprem
 exchangerate
 exchangeserver
@@ -2586,6 +2581,7 @@ exec
 executable
 executables
 execute
+exexml
 exif
 exiftool
 exists
@@ -3017,7 +3013,6 @@ get-firmwaretype
 get-help
 get-history
 get-iislog
-get-openfile
 get-openfiles
 get-pass
 get-passivetrippoint
@@ -3124,6 +3119,7 @@ gpo-tools
 gpodoc
 gpolinks
 gpp
+gps
 gpt
 gpx
 gradle
@@ -3140,6 +3136,7 @@ graphic
 graphics
 graphite
 graphql
+graphquerylanguage
 graphs
 graphservices
 graphviz
@@ -3202,6 +3199,8 @@ haloitsm
 halopsa
 haloservicedesk
 haloservicesolutions
+ham
+hamradio
 hamradiodeluxe
 hana
 hanaon
@@ -3385,8 +3384,6 @@ html
 html-templates
 http
 http_proxy
-http-listener
-http-server
 httpclient
 httplistener
 httpqscollection
@@ -3508,7 +3505,6 @@ imageoftheday
 imageprocess
 imageprocessing
 images
-imageservicing
 imageslide
 imagevalidate
 imagevalidation
@@ -3858,6 +3854,7 @@ keycipher
 keycloak
 keylight
 keymanagement
+keymanagementserver
 keymap
 keymapping
 keypair
@@ -3903,7 +3900,6 @@ kubernetes
 kubernetesconfiguration
 kubesnapit
 kubespray
-kubetidy
 kudu
 kurukuru
 kusto
@@ -4218,6 +4214,7 @@ maintain-module
 maintenance
 maintenance-window
 maintenancewindows
+mak
 make
 maker
 malware
@@ -4495,7 +4492,6 @@ module-publishing-framework
 module-testing
 module-testing-framework
 modulebuild
-modulecreation
 modulefast
 modulemanagement
 modules
@@ -4687,7 +4683,6 @@ ndes
 nebulon
 nec-infrared-transmission-protocol
 necli
-nederland
 nedyalkov
 nemovote
 neo4j
@@ -4847,7 +4842,6 @@ nql
 nrc
 nrql
 ns
-ns.nl
 nsg
 nslookup
 nsx
@@ -4859,7 +4853,6 @@ ntfs
 ntfy
 ntfypwsh
 ntp
-ntsystems
 nuget
 nuget-references
 nuget.exe
@@ -4939,7 +4932,6 @@ officegraph
 officemessageencryption
 officertool
 offline
-offlinewimservicing
 ofx
 ogg
 oh-my-posh
@@ -4974,7 +4966,6 @@ onedriveforbusiness
 oneget
 oneidentity
 onelogin
-oneloginapi
 onenote
 onestools
 onesubscription
@@ -5067,7 +5058,6 @@ orleans
 orm
 orphanedprofiles
 os
-osbuild
 osbuilder
 osbuildersus
 osd
@@ -5076,7 +5066,6 @@ osdcloud
 osddriver
 osddrivers
 osdeploy
-osdeployment
 osdprogress
 osdsus
 osdupdate
@@ -5280,7 +5269,6 @@ personalization
 personalvault
 personio
 pester
-pesterassertion
 pf
 pfe
 pfsense
@@ -5290,9 +5278,7 @@ pgp
 phabricator
 philips
 philosophical
-philpritchett
 phishing
-phoenix
 phone
 phoneautomation
 photo
@@ -5461,7 +5447,6 @@ poshy-wrap-git
 poshy-wrap-git-flow
 poshy-wrap-git-lfs
 poshy-wrap-golang
-poshy-wrap-helm
 poshy-wrap-kubectl
 poshy-wrap-maven
 poshy-wrap-nginx
@@ -5492,7 +5477,6 @@ postgresql
 postgrest
 potato
 pow
-powdrgit
 power
 power-apps
 power-cbr
@@ -5513,7 +5497,6 @@ powerconfiguration
 powerdex
 powerforensics
 powergraph
-powergui
 powermax
 powerpack
 powerplan
@@ -5735,7 +5718,6 @@ psake
 psappdeploytoolkit
 psat
 psazd
-psbackup
 psbbix
 psbicep
 psc
@@ -6436,11 +6418,7 @@ pscommand_gup
 pscommand_gus
 pscommand_gwc
 pscommand_gwch
-pscommand_h
-pscommand_hin
 pscommand_hostname
-pscommand_hse
-pscommand_hup
 pscommand_invoke-aptcachepolicy
 pscommand_invoke-aptcachesearch
 pscommand_invoke-aptcacheshowpkg
@@ -6593,10 +6571,6 @@ pscommand_invoke-goversion
 pscommand_invoke-govet
 pscommand_invoke-gowork
 pscommand_invoke-greppipfreeze
-pscommand_invoke-helm
-pscommand_invoke-helminstall
-pscommand_invoke-helmsearch
-pscommand_invoke-helmupgrade
 pscommand_invoke-kubectl
 pscommand_invoke-kubectlallnamespaces
 pscommand_invoke-kubectlapplyfromfile
@@ -7532,14 +7506,15 @@ pscribo
 pscustomobject
 psd1
 psdb
+psdefaultparametervalues
 psdeploy
 psdesiredstateconfiguration
 psdevops
 psdocs
 psdocs-documents
+psdocsgenerator
 psdrawio
 psdrive
-psdrives
 psdsc
 psdscresource_vscomponents
 psdshook
@@ -7563,7 +7538,6 @@ psenv
 pses
 psexcel
 psexec
-psexec.exe
 psexpandline
 psfciv
 psfitbit
@@ -8003,10 +7977,6 @@ psfunction_invoke-goversion
 psfunction_invoke-govet
 psfunction_invoke-gowork
 psfunction_invoke-greppipfreeze
-psfunction_invoke-helm
-psfunction_invoke-helminstall
-psfunction_invoke-helmsearch
-psfunction_invoke-helmupgrade
 psfunction_invoke-kubectl
 psfunction_invoke-kubectlallnamespaces
 psfunction_invoke-kubectlapplyfromfile
@@ -8638,7 +8608,6 @@ psmssqlbynarymodule
 psmssqlmodule
 psmvp
 psnavigation
-psnexosisclient
 psngenposh
 psobject
 psoutlog
@@ -8665,7 +8634,6 @@ psrule
 psrule-rules
 pssa
 psscriptanalyzer
-psscriptanaylzer
 psscriptsmonitoring
 pssendgrid
 pssession
@@ -8788,7 +8756,6 @@ quantum
 quarantine
 queries
 query
-queryexcel
 querystring
 question
 queue
@@ -8796,7 +8763,6 @@ queues
 queuing
 quick-response
 quickaccess
-quickbase
 quickbooks
 quicksetup
 quiz
@@ -9036,7 +9002,6 @@ repos
 repositories
 repository
 request
-requestfiltering
 requiredmodules
 requirements
 res
@@ -9049,6 +9014,7 @@ resharper
 resize
 resolution
 resolve
+resolve-dnsname
 resolve-stache
 resolve-template
 resolver
@@ -9076,7 +9042,6 @@ restart
 restful
 restore
 resume
-retail
 retention
 retro
 retry
@@ -9175,11 +9140,9 @@ rsop
 rss
 rt
 rtu
-rubber
 rubrik
 rubriksecuritycloud
 ruby
-rulasg
 rule
 rulesengine
 run
@@ -9332,7 +9295,6 @@ scriptblocklogging
 scriptbook
 scriptconversion
 scriptcop
-scriptcreation
 scriptcs
 scriptedui
 scripting
@@ -9443,7 +9405,6 @@ send-mailmessage
 send-message
 senderid
 sendgrid
-sendkeys
 sendmail
 sense
 sensitive
@@ -10115,6 +10076,7 @@ system-services
 system.directoryservices.protocols
 system.text
 systemadministration
+systemadministrator
 systemadmins
 systemcenter
 systemcolors
@@ -10143,6 +10105,7 @@ tableauserver
 tableauworkbook
 tabler
 tables
+tablestorage
 tabs
 tabular
 tag
@@ -10277,7 +10240,6 @@ text-emojis
 text-templates
 text-to-image
 text-to-speach"
-text-to-speech
 text2image
 textanalysis
 textbuffer
@@ -10406,7 +10368,6 @@ traffic
 trafficfiltering
 trafficmanager
 trafficmarking
-train
 trainer
 training
 training-course
@@ -10436,7 +10397,6 @@ tree
 tree-structure
 treesize
 treffynnon
-trein
 trello
 trellops
 trend
@@ -10449,7 +10409,6 @@ tribeloo
 trick
 tricks
 trigger
-triggers
 trilium
 triliumnext
 triodos
@@ -10526,6 +10485,7 @@ ud-avataaar
 ud-badgebutton
 ud-badgelink
 ud-breadcrumb
+ud-breadcrumbitem
 ud-burger
 ud-button
 ud-buttonloader
@@ -10842,6 +10802,7 @@ visualstudioonline
 visualstudioteamservices
 vlan
 vlookup
+vlsc
 vlsm
 vm
 vmc
@@ -10878,6 +10839,8 @@ voidtools
 volkskrant
 volta
 volume
+volumelicense
+volumelicenseagreement
 volumeshadowcopy
 volumio
 voperator
@@ -10975,10 +10938,8 @@ weaviate
 weaviatenet
 web
 web-browser
-web-framework
 web-hook
 web-search
-web-server
 web.config
 webadministration
 webapi
@@ -11130,6 +11091,7 @@ windowscredentials
 windowscredentialsmanager
 windowsdataprotectionapi
 windowsdefender
+windowsdesktop
 windowsdesktopsearch
 windowsdirectories
 windowsdomain
@@ -11159,6 +11121,8 @@ windowsserver
 windowsserver2008
 windowsserver2016
 windowsserver2019
+windowsserver2022
+windowsserver2025
 windowsservercoresecurity
 windowsserverguisecurity
 windowsservice
@@ -11273,6 +11237,7 @@ wsapi
 wsb
 wsl
 wsl2
+wsl2 psmodule psedition_core
 wsman
 wsmanlistener
 wso2
@@ -11342,7 +11307,6 @@ xpt
 xrm
 xsa
 xtremio
-xtrude
 xunit
 xurrent
 xwiki
@@ -11353,6 +11317,7 @@ yahw
 yamaha
 yaml
 yandex
+yandexdisk
 yapg
 yarn
 year
