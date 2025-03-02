@@ -5,107 +5,43 @@ This is a report of contributions to the [PowerShell Gallery](https://powershell
 This report does not include pre-release modules and be aware that not every module will have an online repository.
 
 Internal navigation links may not work in the PDF version of this report.
-+ [Broadcom](#Broadcom) (11)
 + [Michal Gajda](#Michal-Gajda) (1)
-+ [Thomas Freudenberg](#Thomas-Freudenberg) (1)
-+ [jantari](#jantari) (1)
-+ [Bartosz Bielawski](#Bartosz-Bielawski) (1)
-+ [Jordan Borean](#Jordan-Borean) (1)
-+ [Gabriel Adrian Samfira Alessandro Pilotti](#Gabriel-Adrian-Samfira-Alessandro-Pilotti) (1)
-+ [Raymond Piller](#Raymond-Piller) (1)
-+ [Marc R Kellerman](#Marc-R-Kellerman) (1)
-+ [Carlos Perez](#Carlos-Perez) (1)
-+ [Przemyslaw Klys](#Przemyslaw-Klys) (1)
-+ [Thomas Kurth](#Thomas-Kurth) (1)
-+ [LucaSturlese](#LucaSturlese) (1)
-+ [Damien Van Robaeys](#Damien-Van-Robaeys) (1)
-+ [Dave Garnar](#Dave-Garnar) (1)
-+ [TeamViewer Germany GmbH](#TeamViewer-Germany-GmbH) (1)
-+ [Brian Wilhite](#Brian-Wilhite) (1)
-+ [Aaron Jensen](#Aaron-Jensen) (1)
-+ [Kelvin Tegelaar - Kelvin@limenetworks.nl](#Kelvin-Tegelaar---Kelvinlimenetworksnl) (1)
 + [Matt Miller Security Engineer](#Matt-Miller-Security-Engineer) (1)
-+ [Windows Autopilot](#Windows-Autopilot) (1)
-+ [Ricardo Mendes Tobias Weltner](#Ricardo-Mendes-Tobias-Weltner) (1)
-
-## Broadcom
-
-+ **[VMware.VimAutomation.Cloud 13.3.0.24145081](https://developer.vmware.com/powercli)**  - This PowerShell module contains PowerCLI Cloud cmdlets. [*07/25/2024 13:04:28*]
-+ **[VMware.VimAutomation.License 13.3.0.24145081](https://developer.vmware.com/powercli)**  - This PowerShell module contains PowerCLI cmdlets for managing VMware product licenses. [*07/25/2024 13:03:40*]
-+ **[VMware.VimAutomation.Srm 13.3.0.24145081](https://developer.vmware.com/powercli)**  - This PowerShell module contains PowerCLI SRM cmdlets. [*07/25/2024 13:03:26*]
-+ **[VMware.VimAutomation.Vmc 13.3.0.24145081](https://developer.vmware.com/powercli)**  - This PowerShell module contains PowerCLI VMC cmdlets. [*07/25/2024 13:03:10*]
-+ **[VMware.VimAutomation.vROps 13.3.0.24145081](https://developer.vmware.com/powercli)**  - This PowerShell module contains PowerCLI vROps cmdlets. [*07/25/2024 13:02:56*]
-+ **[VMware.DeployAutomation 13.3.0.24145081](https://developer.vmware.com/powercli)**  - This PowerShell module contains PowerCLI Auto Deploy cmdlets. [*07/25/2024 13:02:41*]
-+ **[VMware.VimAutomation.Nsxt 13.3.0.24145081](https://developer.vmware.com/powercli)**  - This PowerShell module contains PowerCLI NSXT cmdlets. [*07/25/2024 13:02:11*]
-+ **[VMware.ImageBuilder 13.3.0.24145081](https://developer.vmware.com/powercli)**  - This PowerShell module contains PowerCLI ImageBuilder cmdlets. [*07/25/2024 12:56:46*]
-+ **[VMware.VimAutomation.Vds 13.3.0.24145081](https://developer.vmware.com/powercli)**  - This PowerShell module contains PowerCLI VDS cmdlets. [*07/25/2024 12:54:32*]
-+ **[VMware.VimAutomation.Storage 13.3.0.24145081](https://developer.vmware.com/powercli)**  - This Windows PowerShell module contains PowerCLI storage management cmdlets. [*07/25/2024 12:47:53*]
-+ **[VMware.VimAutomation.Core 13.3.0.24145081](https://developer.vmware.com/powercli)**  - This PowerShell module contains Windows PowerShell cmdlets for managing vSphere. [*07/25/2024 12:47:34*]
++ [Kelvin Tegelaar - Kelvin@limenetworks.nl](#Kelvin-Tegelaar---Kelvinlimenetworksnl) (1)
++ [Gabriel Adrian Samfira Alessandro Pilotti](#Gabriel-Adrian-Samfira-Alessandro-Pilotti) (1)
++ [Jordan Borean](#Jordan-Borean) (1)
++ [Aaron Jensen](#Aaron-Jensen) (1)
++ [Brian Wilhite](#Brian-Wilhite) (1)
++ [TeamViewer Germany GmbH](#TeamViewer-Germany-GmbH) (1)
++ [Dave Garnar](#Dave-Garnar) (1)
++ [Damien Van Robaeys](#Damien-Van-Robaeys) (1)
++ [LucaSturlese](#LucaSturlese) (1)
++ [Thomas Kurth](#Thomas-Kurth) (1)
++ [Przemyslaw Klys](#Przemyslaw-Klys) (1)
++ [Carlos Perez](#Carlos-Perez) (1)
++ [Marc R Kellerman](#Marc-R-Kellerman) (1)
++ [Raymond Piller](#Raymond-Piller) (1)
 
 ## Michal Gajda
 
 + **[PSWindowsUpdate 2.2.1.5](https://github.com/mgajda83/PSWindowsUpdate)**  - This module contain cmdlets to manage Windows Update Client. [*07/20/2024 10:51:44*]
 
-## Thomas Freudenberg
+## Matt Miller Security Engineer
 
-+ **[7Zip4Powershell 2.7.0](https://github.com/thoemmi/7Zip4Powershell)**  - Powershell module for creating and extracting 7-Zip archives [*12/10/2024 20:06:18*]
++ **SpeculationControl 1.0.18**  - This module provides the ability to query the speculation control settings for the system. [*04/19/2023 17:13:59*]
 
-## jantari
+## Kelvin Tegelaar - Kelvin@limenetworks.nl
 
-+ **[LSUClient 1.6.2](https://www.github.com/jantari/LSUClient)**  - Orchestrate driver, BIOS/UEFI and firmware updates for Lenovo computers 👨‍💻 [*01/23/2024 18:45:31*]
-
-## Bartosz Bielawski
-
-+ **SNMP 1.0.0.1**  - Module to manage systems using SNMP. [*05/13/2014 17:51:13*]
-
-## Jordan Borean
-
-+ **[psprivilege 0.2.0](https://github.com/jborean93/PSPrivilege)**  - Adds cmdlets that can be used to enable/disable/remove privileges on a process. Also adds cmdlets that can be used to configure the members of Windows rights and privileges.
-See https://github.com/jborean93/PSPrivilege for more info [*11/26/2021 02:48:07*]
++ **[RunAsUser 2.4.0](https://github.com/KelvinTegelaar/RunAsUser)**  - This module allows you to execute scripts under the current user while running as SYSTEM using impersonation. [*12/14/2022 08:36:31*]
 
 ## Gabriel Adrian Samfira Alessandro Pilotti
 
 + **[powershell-yaml 0.4.12](https://github.com/cloudbase/powershell-yaml)**  - Powershell module for serializing and deserializing YAML [*01/23/2025 18:41:16*]
 
-## Raymond Piller
+## Jordan Borean
 
-+ **QuserObject 1.0.50**  - Query `quser.exe` and return a proper PowerShell Object. [*07/06/2021 14:17:37*]
-
-## Marc R Kellerman
-
-+ **[Invoke-CommandAs 3.1.9](https://github.com/mkellerman/Invoke-CommandAs)**  - Invoke Command as System/User on Local/Remote computer using ScheduleTask. [*01/20/2022 06:56:47*]
-
-## Carlos Perez
-
-+ **[Posh-SSH 3.2.4](https://github.com/darkoperator/Posh-SSH)**  - Provide SSH and SCP functionality for executing commands against remote hosts. You can also use it to transfer files over SSH. To learn more about this module, visit https://www.youtube.com/playlist?list=PLFAOQ2hOvfsQ7cQikml4ua7-CDr9r578N for video tutorials. [*09/17/2024 13:44:14*]
-
-## Przemyslaw Klys
-
-+ **[SecurityPolicy 0.0.13](https://github.com/EvotecIT/SecurityPolicy)**  - Module that allows getting, adding and removing User Rights Assignment without using secedit.exe [*02/04/2023 17:31:10*]
-
-## Thomas Kurth
-
-+ **[ModernWorkplaceClientCenter 0.1.17](https://github.com/ThomasKur/ModernWorkplaceClientCenter)**  - The Modern Workplace Client Center Module provides functions to troubleshoot Microsoft Intune on a Windows 10 client in a modern managed environment. Th initial version mainly allows troubleshooting Azure AD Hybrid Join. [*06/02/2020 21:46:51*]
-
-## LucaSturlese
-
-+ **[PSLogging 2.5.2](http://9to5it.com/powershell-logging-v2-easily-create-log-files)**  - Creates and manages log files for your scripts. [*11/22/2015 10:26:55*]
-
-## Damien Van Robaeys
-
-+ **[GetBIOS 1.3.3](https://www.systanddeploy.com/2022/06/getbios-module-list-bios-settings-from.html)**  - List local or remote BIOS settings (for Lenovo, Dell, HP and Toshiba) [*06/08/2022 07:15:18*]
-
-## Dave Garnar
-
-+ **CredentialManager 2.0**  - Provides access to credentials in the Windows Credential Manager [*06/17/2016 16:56:46*]
-
-## TeamViewer Germany GmbH
-
-+ **[TeamViewerPS 2.1.0](https://github.com/teamviewer/TeamViewerPS)**  - TeamViewerPS allows to interact with the TeamViewer Web API as well as a locally installed TeamViewer client. [*11/26/2024 11:57:31*]
-
-## Brian Wilhite
-
-+ **[PendingReboot 0.9.0.6](https://github.com/bcwilhite/PendingReboot/)**  - Module to detect Windows OS pending reboots. [*08/22/2018 01:00:02*]
++ **[psprivilege 0.2.0](https://github.com/jborean93/PSPrivilege)**  - Adds cmdlets that can be used to enable/disable/remove privileges on a process. Also adds cmdlets that can be used to configure the members of Windows rights and privileges.
+See https://github.com/jborean93/PSPrivilege for more info [*11/26/2021 02:48:07*]
 
 ## Aaron Jensen
 
@@ -128,20 +64,44 @@ See https://github.com/jborean93/PSPrivilege for more info [*11/26/2021 02:48:07
 
 All functions are idempotent: when run multiple times with the same arguments, your system will be in the same state without failing or producing errors. [*08/18/2023 18:53:24*]
 
-## Kelvin Tegelaar - Kelvin@limenetworks.nl
+## Brian Wilhite
 
-+ **[RunAsUser 2.4.0](https://github.com/KelvinTegelaar/RunAsUser)**  - This module allows you to execute scripts under the current user while running as SYSTEM using impersonation. [*12/14/2022 08:36:31*]
++ **[PendingReboot 0.9.0.6](https://github.com/bcwilhite/PendingReboot/)**  - Module to detect Windows OS pending reboots. [*08/22/2018 01:00:02*]
 
-## Matt Miller Security Engineer
+## TeamViewer Germany GmbH
 
-+ **SpeculationControl 1.0.18**  - This module provides the ability to query the speculation control settings for the system. [*04/19/2023 17:13:59*]
++ **[TeamViewerPS 2.1.0](https://github.com/teamviewer/TeamViewerPS)**  - TeamViewerPS allows to interact with the TeamViewer Web API as well as a locally installed TeamViewer client. [*11/26/2024 11:57:31*]
 
-## Windows Autopilot
+## Dave Garnar
 
-+ **WindowsAutoPilotIntune 5.7**  - Sample module to manage AutoPilot devices using the Intune Graph API [*09/17/2024 15:59:31*]
++ **CredentialManager 2.0**  - Provides access to credentials in the Windows Credential Manager [*06/17/2016 16:56:46*]
 
-## Ricardo Mendes Tobias Weltner
+## Damien Van Robaeys
 
-+ **[DeviceManagement 1.3.0](https://github.com/TobiasPSP/Modules.DeviceManagement)**  - Windows PowerShell Module for managing devices [*04/23/2020 13:01:39*]
++ **[GetBIOS 1.3.3](https://www.systanddeploy.com/2022/06/getbios-module-list-bios-settings-from.html)**  - List local or remote BIOS settings (for Lenovo, Dell, HP and Toshiba) [*06/08/2022 07:15:18*]
 
-*Updated: Sunday, 02 March 2025 02:16:02 UTC*
+## LucaSturlese
+
++ **[PSLogging 2.5.2](http://9to5it.com/powershell-logging-v2-easily-create-log-files)**  - Creates and manages log files for your scripts. [*11/22/2015 10:26:55*]
+
+## Thomas Kurth
+
++ **[ModernWorkplaceClientCenter 0.1.17](https://github.com/ThomasKur/ModernWorkplaceClientCenter)**  - The Modern Workplace Client Center Module provides functions to troubleshoot Microsoft Intune on a Windows 10 client in a modern managed environment. Th initial version mainly allows troubleshooting Azure AD Hybrid Join. [*06/02/2020 21:46:51*]
+
+## Przemyslaw Klys
+
++ **[SecurityPolicy 0.0.13](https://github.com/EvotecIT/SecurityPolicy)**  - Module that allows getting, adding and removing User Rights Assignment without using secedit.exe [*02/04/2023 17:31:10*]
+
+## Carlos Perez
+
++ **[Posh-SSH 3.2.4](https://github.com/darkoperator/Posh-SSH)**  - Provide SSH and SCP functionality for executing commands against remote hosts. You can also use it to transfer files over SSH. To learn more about this module, visit https://www.youtube.com/playlist?list=PLFAOQ2hOvfsQ7cQikml4ua7-CDr9r578N for video tutorials. [*09/17/2024 13:44:14*]
+
+## Marc R Kellerman
+
++ **[Invoke-CommandAs 3.1.9](https://github.com/mkellerman/Invoke-CommandAs)**  - Invoke Command as System/User on Local/Remote computer using ScheduleTask. [*01/20/2022 06:56:47*]
+
+## Raymond Piller
+
++ **QuserObject 1.0.50**  - Query `quser.exe` and return a proper PowerShell Object. [*07/06/2021 14:17:37*]
+
+*Updated: Sunday, 02 March 2025 09:50:47 UTC*
