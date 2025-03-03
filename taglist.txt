@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 03 March 2025 02:16:49 UTC
+Updated: Monday, 03 March 2025 09:52:10 UTC
 
 .bat
 .env
@@ -245,7 +245,6 @@ aem
 aeries
 aeriessis
 aes
-aesgcm
 afd
 affinity
 affinity-co
@@ -602,7 +601,6 @@ authorisation
 authority
 authorization
 authorizationheaders
-authorize.net
 authz
 autify
 auto
@@ -736,8 +734,6 @@ azureadtoolkit
 azureadvancedthreatprotection
 azureappconfiguration
 azureapplicationstuff
-azurearc
-azurearcstuff
 azureartifacts
 azureas
 azureatp
@@ -1070,6 +1066,7 @@ calc
 calculate
 calculator
 calendar
+callingcode
 callout
 callqueue
 calvin-and-hobbes
@@ -1222,7 +1219,6 @@ christmas
 chrome
 chromium
 chunk
-churchofjesuschrist
 ci
 ci/cd
 cic
@@ -1304,6 +1300,7 @@ clientsettingssoftwareupdate
 clientsettingsstatemessaging
 clientsettingsuserdeviceaffinity
 clientstatussettings
+clihelper.core
 clipart
 clipasswordsdk
 clipboard
@@ -1341,7 +1338,6 @@ cloudkey
 cloudmarque
 cloudmigrations
 cloudml
-cloudpc
 cloudservice
 cloudshell
 cloudsync
@@ -1528,7 +1524,6 @@ connect-samcmsite
 connected
 connectedkubernetes
 connectedmachine
-connectednetwork
 connectedvmware
 connectexchange
 connection
@@ -1605,10 +1600,6 @@ convertto
 convertto-excel
 convertto-hashtable
 convertto-yaml
-converttodocx
-converttohtml
-converttomarkdown
-converttomd
 cookie
 coolq
 cooltag1
@@ -1641,6 +1632,8 @@ count-loc
 countdown
 counter
 countries
+country
+countrycode
 cove
 covebackup
 cover
@@ -2073,6 +2066,7 @@ directorysearcher
 directorysecurity
 directrouting
 direnv
+dirkjan
 dirname
 dirsync
 disa
@@ -2201,6 +2195,7 @@ domino
 done.land
 donothing
 dos
+dot
 dotenv
 dotfile
 dotfiles
@@ -2391,7 +2386,6 @@ eli5
 elitism
 elk
 elm
-elmah-io
 elonmusk
 eloomi
 eloqua
@@ -2465,7 +2459,6 @@ enumerable
 env
 environment
 environment-variables
-environmentmanagent
 environmentmodules
 environments
 environmentvariable
@@ -2494,7 +2487,6 @@ errors
 errorview
 eryph
 esae
-esc
 escape
 escapecodes
 escapesequences
@@ -2656,6 +2648,7 @@ f
 f#
 f5
 fabric
+fabrictools
 fabtools
 facebook
 factoryorchestrator
@@ -2987,6 +2980,7 @@ generatewif
 generation
 generativeai
 generativeaiagent
+generativeaiagentruntime
 generativeaiinference
 generator
 generic
@@ -3175,7 +3169,6 @@ grouvee
 growlnotify
 grr
 gsettings
-gsudo
 gsuite
 gtx1080ti
 guardedfabric
@@ -3298,7 +3291,6 @@ helpers
 helpfile
 helpful
 heml
-here
 hewlett
 hewlett-packard
 hewlett-packard-enterprise
@@ -3406,8 +3398,6 @@ httpqscollection
 https
 https_proxy
 httpserver
-huawei
-huawei-ibmc-cmdlets
 hub
 hubot
 hubsite
@@ -3449,7 +3439,6 @@ iap
 ias
 ib
 ibm
-ibmc
 ibmhttpserver
 icacl
 icann
@@ -3555,6 +3544,7 @@ incontact
 indents
 index
 indexdb
+indicator
 inedo
 inetfwrule
 inetum
@@ -4140,6 +4130,7 @@ login-rdp
 logingestion
 loginscreen
 loginsight
+logiphys
 logistic
 logitech
 logmail
@@ -4197,6 +4188,7 @@ maatschap-fortigi
 mac
 mac-address
 macaddress
+macadmins
 machine
 machine-learning
 machinelearning
@@ -4332,7 +4324,6 @@ mdm
 mdop
 mdt
 mdx
-me4024
 mean
 measure
 measure-loc
@@ -4436,7 +4427,6 @@ microsofthealth
 microsoftintune
 microsoftmvp
 microsoftoffice
-microsoftonline
 microsoftsentinel
 microsoftstaffhub
 microsoftstore
@@ -4823,7 +4813,6 @@ non-idiomatic
 non-volatile
 none
 noneimages
-noninteractive
 noproxy
 nord
 nordtools
@@ -4908,6 +4897,8 @@ oauth
 oauth2
 oauth2.0
 oberstufe
+obfuscate
+obfuscation
 obj
 object
 objectid
@@ -5020,7 +5011,6 @@ openapi
 opendata
 openedge
 openfiles
-openhere
 openholidaysapi
 openid
 openidconnect
@@ -5059,6 +5049,7 @@ optimize
 optimized
 optimizer
 option
+option119
 options
 optionstring
 opus
@@ -5243,6 +5234,7 @@ pax8
 payload
 paylocity
 paypal
+pays
 pbench
 pbip
 pbixtopbip
@@ -5436,7 +5428,6 @@ poshkeepass
 poshlog
 poshorigin
 poshproject
-poshprtg
 poshrsjob
 poshtemplate
 poshwsus
@@ -5482,7 +5473,6 @@ poshy-wrap-pipenv
 poshy-wrap-pyenv
 poshy-wrap-pylint
 poshy-wrap-python
-poshy-wrap-ruby
 poshy-wrap-systemctl
 poshy-wrap-terraform
 poshy-wrap-terragrunt
@@ -5609,9 +5599,6 @@ predictor
 preferences
 prefix
 prefixing
-preparead
-preparealldomains
-prepareschema
 prepend
 preprocessing
 preprocessor
@@ -5723,8 +5710,6 @@ proxy
 proxyfunction
 proxyfunctions
 prtg
-prtg_network_monitor
-prtgnetworkmonitor
 ps
 ps-ncentral
 ps.credentialmanager
@@ -6770,9 +6755,6 @@ pscommand_invoke-piplistoutdated
 pscommand_invoke-pipuninstall
 pscommand_invoke-pyenv
 pscommand_invoke-pylintreportsdisabled
-pscommand_invoke-ruby
-pscommand_invoke-rubyexecute
-pscommand_invoke-rubyexecutehttpdhere
 pscommand_invoke-systemctl-add-requires
 pscommand_invoke-systemctl-add-wants
 pscommand_invoke-systemctl-cancel
@@ -7264,7 +7246,6 @@ pscommand_pylint-quick
 pscommand_pyserver
 pscommand_python
 pscommand_python3
-pscommand_rb
 pscommand_read-dotenv
 pscommand_register-argcompleteargumentcompleter
 pscommand_remove_gem
@@ -7292,8 +7273,6 @@ pscommand_reset-gitworkingtreetolastcommitlosechanges
 pscommand_reset-gitworkingtreetolastcommitlosechangesandcleanfully
 pscommand_resume-gitbranchbaseupdate
 pscommand_resume-gitcherrypick
-pscommand_rrun
-pscommand_rserver
 pscommand_sc-disable-now
 pscommand_sc-enable-now
 pscommand_sc-mask-now
@@ -8184,9 +8163,6 @@ psfunction_invoke-piplistoutdated
 psfunction_invoke-pipuninstall
 psfunction_invoke-pyenv
 psfunction_invoke-pylintreportsdisabled
-psfunction_invoke-ruby
-psfunction_invoke-rubyexecute
-psfunction_invoke-rubyexecutehttpdhere
 psfunction_invoke-systemctl-add-requires
 psfunction_invoke-systemctl-add-wants
 psfunction_invoke-systemctl-cancel
@@ -8626,6 +8602,7 @@ psgraylog
 pshdhomerun
 pshot
 pshtml
+psimport
 psincludes_cmdlet
 psincludes_command
 psincludes_function
@@ -8639,6 +8616,7 @@ psjobs
 psjobthreads
 pskeepass
 psllm
+pslocalgallery
 psloganalytics
 psm
 psm1
@@ -8666,7 +8644,6 @@ psproject
 psprojectcreator
 psprojectgenerator
 psprovider
-psprtg
 pspublicapi
 psql
 psraw
@@ -9031,7 +9008,6 @@ rename
 rename-git
 rename-git-branch
 rename-gitbranch
-reonboarding
 repair
 repair-msauth
 reparsepoint
@@ -9054,6 +9030,7 @@ repos
 repositories
 repository
 request
+requestfiltering
 requiredmodules
 requirements
 res
@@ -9173,6 +9150,7 @@ router
 routeros
 routes
 routetable
+routine
 rover
 royalapps
 royaldocument
@@ -9196,6 +9174,7 @@ rubber
 rubrik
 rubriksecuritycloud
 ruby
+rulasg
 rule
 rulesengine
 run
@@ -9236,6 +9215,7 @@ sailpoint
 sale
 sales
 salesforce
+salesloft
 salt
 salt-api
 saltstack
@@ -9248,7 +9228,6 @@ saml2
 sample
 sampler
 samurai
-san
 sand
 sandbox
 sanitization
@@ -9260,6 +9239,7 @@ sapstartstopazure
 sarcasm
 sarif
 sas
+sat
 satirical
 save
 savedcreds
@@ -9378,6 +9358,7 @@ searchmanager
 searchplace
 searchquery
 searchstring
+searchsuffixlist
 secaas
 secedit
 secret
@@ -9407,6 +9388,7 @@ securesphere
 securestring
 security
 security_cameras
+security-awareness-training
 security-policy
 security-score
 security-txt
@@ -9828,6 +9810,8 @@ sports-tracker
 spotify
 spotify-api
 spotlight
+spotlightimages
+spp
 spread
 spreadsheet
 spreadsheets
@@ -9986,6 +9970,7 @@ storedcredentials
 storefront
 storeonce
 storeserv
+strava
 streak
 stream
 streamanalytics
@@ -10176,7 +10161,6 @@ target
 task
 task_automation
 task-runner
-task-scheduler
 taskbar
 tasker
 taskgroup
@@ -10230,6 +10214,7 @@ temperature
 template
 template-engine
 template-utility
+templater
 templates
 templating
 temporary
@@ -10486,7 +10471,6 @@ trx
 ts
 tsa
 tsd
-tsheets
 tsqlbestpractice
 tst
 tst1
@@ -10560,6 +10544,7 @@ ud-input
 ud-licensed
 ud-loadingoverlay
 ud-minesweeper
+ud-mouseparticle
 ud-navbarsearch
 ud-numbermask
 ud-orgchart
@@ -10886,6 +10871,7 @@ vnugglets
 vnugglets.com
 vocabularies
 voice
+voiceservices
 voidtools
 volkskrant
 volta
@@ -10946,7 +10932,6 @@ vum
 vvx
 vxrail
 w32time
-w365
 w3svc
 w3w
 waa
@@ -10954,7 +10939,6 @@ waas
 wac
 waf
 wait4x
-waitforobject
 wakeonlan
 wakeup
 walk
