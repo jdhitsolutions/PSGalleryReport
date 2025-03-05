@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Wednesday, 05 March 2025 09:52:17 UTC
+Updated: Wednesday, 05 March 2025 17:52:14 UTC
 
 .bat
 .env
@@ -19,7 +19,6 @@ Updated: Wednesday, 05 March 2025 09:52:17 UTC
 🍄
 🍣
 💩
-🙇
 1&1
 10
 11
@@ -190,6 +189,7 @@ adfsendpoint
 adfstoolkit
 adfstools
 adgroupmemberobjects
+adgroupmembers
 adgroups
 adidns
 adif
@@ -275,7 +275,6 @@ aimodels
 aip
 aiprompting
 aipscanner
-aircall
 airpower
 airpwr
 airtable
@@ -387,6 +386,7 @@ anywhere
 aovpn psmodule
 apache
 apachekafka
+apexlegends
 api
 api-client
 api-gateway
@@ -739,6 +739,7 @@ azureartifacts
 azureas
 azureatp
 azureautomation
+azureautomationaccount
 azureautomationnotsupported
 azurebasicloadbalancerupgrade
 azurecli
@@ -806,6 +807,8 @@ azvm
 b2
 back
 backblaze
+backconnection
+backconnectionhostname
 backend
 backup
 backup_validation
@@ -1199,6 +1202,7 @@ chefconf2016
 chenxizhang
 cherrypy
 cherwell
+chfs
 chi
 china
 chinese
@@ -1475,7 +1479,6 @@ compoundproperty
 compress
 compression
 compute
-compute-ops-management
 computecloudatcustomer
 computeinstanceagent
 computer
@@ -1767,6 +1770,7 @@ customization
 customlocation
 customlogs
 customproviders
+cutehttpfileserver
 cvad
 cve
 cve-2021-34527
@@ -2026,6 +2030,7 @@ devsecops
 devtestlabs
 dfch
 dfir
+dfplayermini
 dfs
 dfw
 dg
@@ -2040,6 +2045,7 @@ diagrams
 dialog
 dice
 diceware
+dicom
 dictionary
 diff
 difference
@@ -2119,6 +2125,7 @@ dividends
 diving
 division
 divoom
+diy
 dkim
 dkschrutebeets
 dl
@@ -2193,6 +2200,7 @@ domainname
 domainnamesystem
 domains
 domino
+done.land
 donothing
 dos
 dot
@@ -2261,7 +2269,6 @@ dsc
 dsc-resource
 dsc-resources
 dsccertificates
-dscconcepts
 dscdriftmonitor
 dsclient
 dscresource
@@ -2279,7 +2286,6 @@ dtsx
 dtx
 du
 dual-stack
-duck
 duckdb
 duckduckgo
 ducktyping
@@ -2331,6 +2337,7 @@ dynatraceobservability
 dz
 e-mail
 e1
+earthquakes
 easy
 easy-to-use
 easylife365
@@ -2675,6 +2682,7 @@ fastlinq
 fastlookup
 fastping
 fasttrack
+fat32
 favorite
 favorites
 fb-pro
@@ -2953,7 +2961,6 @@ gauge
 gavin
 gavineke
 gc
-gcbdr
 gce
 gci
 gcloud
@@ -3078,7 +3085,6 @@ globaldashboard
 globalentry
 globallydistributeddatabase
 globbing
-glp
 glpi
 gmail
 gmap
@@ -3148,7 +3154,6 @@ graphs
 graphservices
 graphviz
 graylog
-greenlake
 greenplum
 gregorian
 gremlin
@@ -3294,7 +3299,6 @@ heml
 here
 hewlett
 hewlett-packard
-hewlett-packard-enterprise
 hewlett-packardenterprise
 hex
 hexdump
@@ -3306,6 +3310,7 @@ hidden
 hide
 hids
 hiera
+hierarchialdistributionlist
 hierarchical
 hierarchy
 high-availability
@@ -3370,7 +3375,6 @@ hpccache
 hpe
 hpealletra6000andnimblestoragepowershelltoolkit
 hpebioscmdlets
-hpegreenlake
 hpeilocmdlets
 hpemigrationadvisorycmdlets
 hpemigrationadvisorytool
@@ -3604,7 +3608,6 @@ installofficertool
 installwindows
 instance
 instant
-instapush
 instorage
 int
 intacct
@@ -3894,7 +3897,6 @@ korn
 kotlin
 kql
 kraken
-krane
 krbtgt
 krick
 kschemaplugin
@@ -4192,6 +4194,7 @@ maatschap-fortigi
 mac
 mac-address
 macaddress
+macadmins
 machine
 machine-learning
 machinelearning
@@ -4662,6 +4665,7 @@ mysql-database
 mytest
 n-able
 n-central
+nabu
 nac
 nagios
 nakivo
@@ -4755,7 +4759,6 @@ networkpolicyserver
 networkprofile
 networkscan
 networksecurity
-networksecuritygroup
 networkshares
 netwrix
 new
@@ -4773,7 +4776,6 @@ new-rdpsession
 new-samcmapplicationfrompackagedefinitionsms
 new-samcmpackagefrompackagedefinitionsms
 new-system
-new-udmorph
 new-win32app
 newpassword
 newrelic
@@ -5056,7 +5058,6 @@ optimize
 optimized
 optimizer
 option
-option119
 options
 optionstring
 opus
@@ -5739,6 +5740,7 @@ ps6
 ps7
 psa
 psadbscreencap
+psadgroupmembers
 psadt
 psake
 psappdeploytoolkit
@@ -8619,11 +8621,9 @@ psgallery
 psget
 psgitlab
 psgraph
-psgraylog
 pshdhomerun
 pshot
 pshtml
-psimport
 psincludes_cmdlet
 psincludes_command
 psincludes_function
@@ -8733,6 +8733,7 @@ pulseway
 pulumi
 punycode
 puppet
+puppetdb
 puppy
 pure
 pure1
@@ -8770,7 +8771,6 @@ pyranja
 python
 python-for-dotnet
 python3
-qatam
 qcloud
 qconvergeconsolepowerkit
 qemu
@@ -9095,6 +9095,7 @@ restore
 resume
 retail
 retention
+retro
 retry
 returnuserprofile
 retype
@@ -9191,7 +9192,6 @@ rsop
 rss
 rt
 rtu
-rubber
 rubrik
 rubriksecuritycloud
 ruby
@@ -9380,7 +9380,6 @@ searchmanager
 searchplace
 searchquery
 searchstring
-searchsuffixlist
 secaas
 secedit
 secret
@@ -9721,6 +9720,7 @@ snmpv3
 snmpwalk
 snowflake
 snsmssqlpsmodule
+snspsadgroupmembers
 snspsscriptsmonitoring
 snssqlitepsmodule
 sntp
@@ -9846,6 +9846,7 @@ sqlagent
 sqlautomation
 sqlbits
 sqlbrowser
+sqlbulkcopy
 sqlchangeautomation
 sqlclient
 sqlcmd
@@ -10286,6 +10287,7 @@ testtag2
 testtool
 testusers
 text
+text_to_speech
 text-emoji
 text-emojis
 text-templates
@@ -10310,7 +10312,6 @@ tfsec
 tfswitch
 tftd
 tftp
-tfvars
 tfvc
 thecrushingemptinessofquotidianexistence
 theme
@@ -10719,6 +10720,7 @@ users
 users-management
 userworkstations
 usg
+usgs
 usps
 utc
 utf-8
@@ -11247,7 +11249,6 @@ workingtime
 workload
 workload-automation
 workloadidentity
-workloads
 workpoint
 workrequests
 worksheet
