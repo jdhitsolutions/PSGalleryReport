@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Wednesday, 05 March 2025 17:52:14 UTC
+Updated: Thursday, 06 March 2025 02:16:55 UTC
 
 .bat
 .env
@@ -19,6 +19,7 @@ Updated: Wednesday, 05 March 2025 17:52:14 UTC
 🍄
 🍣
 💩
+🙇
 1&1
 10
 11
@@ -275,6 +276,7 @@ aimodels
 aip
 aiprompting
 aipscanner
+aircall
 airpower
 airpwr
 airtable
@@ -386,7 +388,6 @@ anywhere
 aovpn psmodule
 apache
 apachekafka
-apexlegends
 api
 api-client
 api-gateway
@@ -556,6 +557,7 @@ atera
 athena
 atlas
 atlassian
+atlassiancli
 atlassianps
 atmosphere
 atom
@@ -746,8 +748,6 @@ azurecli
 azurecodesigning
 azurecognitiveservices
 azurecommonstuff
-azurecontainerapps
-azurecontainers
 azuredatabricks
 azuredataexplorer
 azuredatastudio
@@ -1479,6 +1479,7 @@ compoundproperty
 compress
 compression
 compute
+compute-ops-management
 computecloudatcustomer
 computeinstanceagent
 computer
@@ -1849,6 +1850,7 @@ dataexchange
 dataexplorer
 datafactory
 dataflow
+dataflowdependency
 dataframe
 datagateway
 dataintegration
@@ -2073,7 +2075,6 @@ directorysearcher
 directorysecurity
 directrouting
 direnv
-dirkjan
 dirname
 dirsync
 disa
@@ -2269,6 +2270,7 @@ dsc
 dsc-resource
 dsc-resources
 dsccertificates
+dscconcepts
 dscdriftmonitor
 dsclient
 dscresource
@@ -2305,6 +2307,8 @@ duplicate
 duplicate-files
 duplicatioin
 duplication
+durable
+durabletask
 dust
 dutch
 dvls
@@ -2961,6 +2965,7 @@ gauge
 gavin
 gavineke
 gc
+gcbdr
 gce
 gci
 gcloud
@@ -3085,6 +3090,7 @@ globaldashboard
 globalentry
 globallydistributeddatabase
 globbing
+glp
 glpi
 gmail
 gmap
@@ -3154,6 +3160,7 @@ graphs
 graphservices
 graphviz
 graylog
+greenlake
 greenplum
 gregorian
 gremlin
@@ -3299,6 +3306,7 @@ heml
 here
 hewlett
 hewlett-packard
+hewlett-packard-enterprise
 hewlett-packardenterprise
 hex
 hexdump
@@ -3375,6 +3383,7 @@ hpccache
 hpe
 hpealletra6000andnimblestoragepowershelltoolkit
 hpebioscmdlets
+hpegreenlake
 hpeilocmdlets
 hpemigrationadvisorycmdlets
 hpemigrationadvisorytool
@@ -3608,6 +3617,7 @@ installofficertool
 installwindows
 instance
 instant
+instapush
 instorage
 int
 intacct
@@ -3897,9 +3907,9 @@ korn
 kotlin
 kql
 kraken
+krane
 krbtgt
 krick
-kschemaplugin
 kubclt
 kube
 kubeconfig
@@ -4156,6 +4166,7 @@ logs
 logstash
 logtools
 logz
+loki
 lol
 lolcat
 longfile
@@ -4695,7 +4706,6 @@ nbi
 ncal
 ncrestapi
 ndes
-nebulon
 nec-infrared-transmission-protocol
 necli
 nederland
@@ -4759,6 +4769,7 @@ networkpolicyserver
 networkprofile
 networkscan
 networksecurity
+networksecuritygroup
 networkshares
 netwrix
 new
@@ -4776,6 +4787,7 @@ new-rdpsession
 new-samcmapplicationfrompackagedefinitionsms
 new-samcmpackagefrompackagedefinitionsms
 new-system
+new-udmorph
 new-win32app
 newpassword
 newrelic
@@ -5058,6 +5070,7 @@ optimize
 optimized
 optimizer
 option
+option119
 options
 optionstring
 opus
@@ -8621,6 +8634,7 @@ psgallery
 psget
 psgitlab
 psgraph
+psgraylog
 pshdhomerun
 pshot
 pshtml
@@ -8771,6 +8785,7 @@ pyranja
 python
 python-for-dotnet
 python3
+qatam
 qcloud
 qconvergeconsolepowerkit
 qemu
@@ -8970,7 +8985,6 @@ registration
 registry
 registryoperations
 regression
-regular-expression
 regularexpression
 regularexpressions
 reinstall
@@ -9380,6 +9394,7 @@ searchmanager
 searchplace
 searchquery
 searchstring
+searchsuffixlist
 secaas
 secedit
 secret
@@ -9639,6 +9654,7 @@ siteconfiguration
 sitecore
 sitecoresearch
 sitemaintenance
+sitemap
 siterecovery
 sites
 sitesystemserver
@@ -10312,6 +10328,7 @@ tfsec
 tfswitch
 tftd
 tftp
+tfvars
 tfvc
 thecrushingemptinessofquotidianexistence
 theme
@@ -10683,6 +10700,7 @@ uptimerobot
 uptobox
 uqword
 uri
+uri-scheme
 url
 url-encode
 url-shortener
@@ -10702,7 +10720,6 @@ usap
 usb
 useful
 user
-user-environment
 useragent
 userdiscovery
 usergroup
@@ -10972,7 +10989,6 @@ wansi
 wap
 wapack
 wapi
-wara
 warning
 warplaneporn
 warranty
@@ -11046,8 +11062,6 @@ wecutil
 weekday
 wef
 weixin
-well-architectedframework
-well-architectedreliabilityassessment
 well-known
 wem
 wemsdk
@@ -11124,7 +11138,6 @@ windows-10
 windows-api
 windows-control-panel
 windows-defender
-windows-environment
 windows-explorer
 windows-features
 windows-firewall
@@ -11249,6 +11262,7 @@ workingtime
 workload
 workload-automation
 workloadidentity
+workloads
 workpoint
 workrequests
 worksheet
