@@ -1,15 +1,12 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Thursday, 06 March 2025 17:50:46 UTC
+Updated: Friday, 07 March 2025 02:15:47 UTC
 .net
-aad
 accounts
 acl
 active-directory
 activedirectory
-activedirectoryfederationservices
 ad
-adfs
 admin
 adv180002
 adv180018
@@ -36,22 +33,18 @@ automanage
 automation
 aws
 azure
-azureactivedirectory
 azuread
 azureas
 azureautomationnotsupported
 azuregraph
 azuresecuritycenter
-backup
 batch
-bdd
 billing
 bios
 bios-settings
 blob
 cache
 cdn
-certificate
 certificates
 client-management
 cloud
@@ -66,6 +59,7 @@ confidentialledger
 configuration
 consumption
 container
+containergroup
 containerinstance
 containerregistry
 containers
@@ -92,13 +86,14 @@ devops
 devtestlabs
 directory
 dns
-dnsresolver
 docker
+driver
 dsc
 dsc-resources
 dscresource
 dscresourcekit
 dscresources
+elasticsan
 encryption
 environment
 eventgrid
@@ -118,6 +113,7 @@ functions
 graph
 graphapi
 groups
+hardware
 hdinsight
 healthcare
 healthcareapis
@@ -127,8 +123,9 @@ http
 iaas
 identity
 iis
-ingestion
 ini
+insights
+install
 installers
 internet-explorer
 intune
@@ -147,7 +144,6 @@ loadtesting
 logfiles
 logging
 logicapp
-logs
 mac
 machinelearning
 machinelearningcompute
@@ -164,12 +160,8 @@ marketplaceordering
 media
 mediaservices
 microsoft
-microsoft.identity.client
-microsoftauthenticationlibrary
 migrate
-mocking
 monitor
-msal
 msi
 msmq
 mysql
@@ -177,15 +169,11 @@ netsh
 network
 networkcloud
 networking
+nginx
 notificationhubs
-notifications
 ntfs
-oauth
 office365
-oidc
-oms
 onedrive
-openidconnect
 operating-system
 operationalinsights
 orchestrator
@@ -195,7 +183,6 @@ packagemanagement
 path
 pendingreboot
 performance-counters
-pki
 planner
 pnp
 policies
@@ -221,7 +208,6 @@ provider
 psedition_core
 psedition_desktop
 psexec
-psincludes_cmdlet
 psmodule
 psremoting
 queue
@@ -254,7 +240,6 @@ sharepoint
 shares
 sid
 signalr
-siterecovery
 smb
 sql
 sqlagent
@@ -265,6 +250,7 @@ ssas
 ssis
 ssl
 stackhci
+stackhcivm
 storage
 storageaccount
 storagemover
@@ -278,20 +264,17 @@ system
 table
 tabular
 tags
-tdd
 teams
 teamviewer
 text
-toast
 toshiba
 trafficmanager
 trusted-host
-unit_testing
+uefi
 update
 usageaggregates
 userrightsassignment
 users
-utilities
 virtualmachine
 virtualnetwork
 vm
@@ -301,10 +284,8 @@ website
 websites
 windows
 windows-features
-windows10
 windowspackagemanager
 winget
-wsman
 xevents
 xml
 zip
