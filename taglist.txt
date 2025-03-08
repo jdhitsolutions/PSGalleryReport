@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Saturday, 08 March 2025 09:51:59 UTC
+Updated: Saturday, 08 March 2025 17:52:04 UTC
 
 .bat
 .env
@@ -336,6 +336,7 @@ amazontitan
 amazonwebservices
 amend
 ami
+amiga
 amp
 amqp
 amsi
@@ -485,6 +486,7 @@ archon
 archonagent
 arcresourcebridge
 arcus
+area
 arg
 argcomplete
 argument
@@ -556,7 +558,9 @@ atera
 athena
 atlas
 atlassian
+atlassiancli
 atlassianps
+atmosphere
 atom
 atp
 atproto
@@ -604,7 +608,6 @@ autify
 auto
 auto_cd
 auto-completion
-autoadapter
 autoattendant
 autocloudarc
 autocomplete
@@ -640,7 +643,6 @@ autotyper
 autounattend
 autoupdate
 autoupdate-script
-autowrapper
 autoyast
 auvik
 availability
@@ -688,20 +690,24 @@ azautomation
 azcli
 azcompute
 azd
+azdisk
 azdo
 azereo
 azforensics
 azkeyvault
 aznetworking
+aznetworkinterface
 aznicdetails
 azops
 azpipelines
+azpublicipaddress
 azresources
 azsdk
 azsk
 azsql
 azstackhci
 azstate
+azsubnet
 aztools
 azts
 azuead
@@ -895,6 +901,7 @@ bind
 binding
 bindings
 bing
+bingmap
 bingmaps
 binomial
 bios
@@ -934,7 +941,6 @@ blockchain
 blocks
 blog
 blogs
-bloodhound
 bloxone
 bloxoneddi
 bls
@@ -996,6 +1002,7 @@ britannicaknowledgesystems
 british-gas
 brk4452
 broadcast
+broadcom
 broot
 brotli
 browser
@@ -1038,8 +1045,11 @@ bus
 business
 business_email_compromise
 businesscentral
+businessdays
+businesshours
 businessobjects
 businessrulesengine
+businesstime
 bxor
 bydesign
 byexample
@@ -1054,6 +1064,7 @@ cache
 caf
 cal
 calc
+calculate
 calculator
 calendar
 callingcode
@@ -1208,6 +1219,7 @@ christaylorcodes
 christmas
 chrome
 chromium
+chunk
 churchofjesuschrist
 ci
 ci/cd
@@ -1373,7 +1385,6 @@ code365
 codeanalysis
 codebuild
 codecommit
-codecomplexity
 codecov
 codecoverage
 codegen
@@ -1456,8 +1467,8 @@ completion
 completion-manager
 completionresult
 completions
-complex
 compliance
+compliancepolicy
 compliant
 component
 composer
@@ -1500,6 +1511,7 @@ configurationdata
 configurationkey
 configurationmanagement
 configurationmanager
+configurationprofile
 configurations
 configure
 confluence
@@ -1790,6 +1802,7 @@ dac
 dacfx
 dacl
 dacpac
+dacpackage
 dagger
 dailen
 daily
@@ -1888,6 +1901,7 @@ dbatools
 dbcommand
 dbeaver
 dbfs
+dblm
 dbnull
 dbops
 dbpool
@@ -2277,7 +2291,6 @@ dual-stack
 duck
 duckdb
 duckduckgo
-ducktyping
 dudckduckgo
 duf
 dumb
@@ -2627,7 +2640,6 @@ extendedattributes
 extendedevents
 extendedgroups
 extendedproperties
-extendedproperty
 extendscript
 extensibility
 extension
@@ -2654,6 +2666,7 @@ factoryorchestratorclient
 facts
 faf
 failedlogin
+failure
 fake
 fake-useragent
 falcon
@@ -2776,6 +2789,8 @@ find-file
 find-path
 finddownloadlinkfromwebsite
 findfile
+findlocation
+findplace
 findproxyforurl
 fine-print
 fine-tuning
@@ -2883,6 +2898,7 @@ free-ware
 freeipa
 freenas
 freesoftwarefoundation
+freshbooks
 freshdesk
 freshservice
 freshservice-api
@@ -2982,9 +2998,12 @@ genericartifactscontent
 genetic-algorithm
 genp
 genxdev
+geo
 geocache
 geocaching
 geocode
+geoencode
+geoencoding
 geoip
 geolocation
 geosearching
@@ -3063,6 +3082,7 @@ gitlab-runner
 gitlab4
 gitlabpipeline
 gitops
+glimps
 glob
 globalclipboard
 globaldashboard
@@ -3072,6 +3092,8 @@ globbing
 glp
 glpi
 gmail
+gmap
+gmaps
 gmsa
 gnome
 gnucash
@@ -3093,6 +3115,7 @@ google-table
 googleadsv2
 googlecloudplatform
 googledrive
+googlemap
 googlemaps
 googleworkspace
 gopher
@@ -3171,6 +3194,7 @@ guid
 guidtoname
 guildwars2
 gumby
+guru
 gvim
 gw2
 gwbasic
@@ -3592,6 +3616,7 @@ installofficertool
 installwindows
 instance
 instant
+instapush
 instorage
 int
 intacct
@@ -4068,6 +4093,7 @@ localadmin
 localconfigurationmanager
 localdb
 localdirectories
+locale
 localgroup
 localgroupmember
 localization
@@ -4197,6 +4223,7 @@ magazine
 magento
 magic8ball
 magicpacket
+magnet
 mail
 mailbox
 mailchimp
@@ -4245,11 +4272,13 @@ manifest
 manifested
 manual
 map
+mapapi
 mapi
 mappeddrives
 mapper24
 mapping
 maps
+mapsapi
 mariadb
 mark
 markdig
@@ -4262,6 +4291,7 @@ marketplaceordering
 marketplaceprivateoffer
 marketplacepublisher
 marking
+marklogic
 marquee
 marvel
 marvell
@@ -4323,6 +4353,7 @@ mediant
 mediaplayer
 mediaservices
 mediawiki
+meditation
 medlemsservice
 meesman
 meeting
@@ -4437,6 +4468,7 @@ mim
 mime
 mimekit
 min
+mindmeister
 minecraft
 miniconda
 minifier
@@ -4856,6 +4888,7 @@ ntsystems
 nuget
 nuget-references
 nuget.exe
+nuget.org
 number
 numlock
 nummapper
@@ -4977,6 +5010,7 @@ online-backup
 onlinebackup
 onprem
 onpremisesdatagatewayhamgmt
+onq
 ons
 ontap
 ontap_9.16.1
@@ -5326,6 +5360,7 @@ pkgx
 pki
 pki psmodule
 pks
+place
 places
 plain
 plan
@@ -5356,7 +5391,6 @@ pncit
 pnp
 pnp.powershell
 pnpm
-poc
 pode
 poe
 poem
@@ -8602,7 +8636,6 @@ psgallery
 psget
 psgitlab
 psgraph
-psgraylog
 pshdhomerun
 pshot
 pshtml
@@ -8841,6 +8874,8 @@ raspbian
 rate
 rate-limit
 rates
+rating
+ratings
 ravendb
 razzle
 rbac
@@ -9162,6 +9197,7 @@ royalserver
 royalts
 royaltsx
 rpa
+rpc
 rras
 rrd
 rs
@@ -9359,6 +9395,7 @@ searchengine
 searcher
 searching
 searchmanager
+searchplace
 searchquery
 searchstring
 searchsuffixlist
@@ -9564,6 +9601,7 @@ shells
 shieldedvm
 ships
 shipsprovider
+shipstation
 shitpost
 shlink
 shodan
@@ -9848,6 +9886,7 @@ sqlmanagementobjects
 sqlpackage
 sqlplus
 sqlproj
+sqlproject
 sqlps
 sqlquery
 sqlserver
@@ -10009,6 +10048,7 @@ subnet
 subnet-calculator
 subnetcalculator
 subnetcalulator
+subnetdetails
 subnetmapping
 subnetmask
 subnetmaths
@@ -10168,6 +10208,7 @@ taskgroup
 taskmanagement
 tasks
 taskscheduler
+tatux
 taxjar
 taxonomy
 tcg
@@ -10424,6 +10465,7 @@ translate
 translation
 translit
 transliteration
+transmission
 transparency
 transpilation
 trap
@@ -10749,12 +10791,10 @@ vba
 vbaproject
 vbproj
 vbr
-vbscript
 vbsinst
 vc
 vccmdlets
 vcenter
-vcf
 vcloud
 vclouddirector
 vcm
@@ -10787,6 +10827,7 @@ version
 versioncontrol
 versioning
 versionmanager
+versionnumber
 vertical
 vester
 vhd
@@ -11025,6 +11066,7 @@ wec
 wecutil
 weekday
 wef
+weixin
 well-architectedframework
 well-architectedreliabilityassessment
 well-known
@@ -11222,6 +11264,9 @@ worker
 workflow
 workflowmax
 workflows
+workingdays
+workinghours
+workingtime
 workload
 workload-automation
 workloadidentity
@@ -11352,6 +11397,7 @@ yahw
 yamaha
 yaml
 yandex
+yandexdisk
 yapg
 yarn
 year
