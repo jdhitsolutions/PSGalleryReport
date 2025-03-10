@@ -3,6 +3,78 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [EntraAuth](https://www.powershellgallery.com/Packages/EntraAuth/1.6.33) | 1.6.33
+
+### Published: 03/10/2025 09:27:30 by Friedrich Weinmann
+
+Get Tokens from Entra ID
+
+__Downloads__: 14,495 | __Repository__: https://github.com/FriedrichWeinmann/EntraAuth
+
+## [GenXdev.Console](https://www.powershellgallery.com/Packages/GenXdev.Console/1.120.2025) | 1.120.2025
+
+### Published: 03/10/2025 03:34:30 by genXdev
+
+A Windows PowerShell module for enhancing the commandline experience
+
+__Downloads__: 1,006 | __Repository__: https://powershell.genxdev.net/#GenXdev.Console
+
+## [GenXdev.Queries](https://www.powershellgallery.com/Packages/GenXdev.Queries/1.120.2025) | 1.120.2025
+
+### Published: 03/10/2025 03:33:10 by genXdev
+
+A Windows PowerShell module for finding resources and information on the internet
+
+__Downloads__: 1,054 | __Repository__: https://powershell.genxdev.net/#GenXdev.Queries
+
+## [GenXdev.Webbrowser](https://www.powershellgallery.com/Packages/GenXdev.Webbrowser/1.120.2025) | 1.120.2025
+
+### Published: 03/10/2025 03:31:50 by genXdev
+
+A Windows PowerShell module that allows you to run scripts against your casual desktop webbrowser-tab
+
+__Downloads__: 8,706 | __Repository__: https://powershell.genxdev.net/#GenXdev.Webbrowser
+
+## [GenXdev.Windows](https://www.powershellgallery.com/Packages/GenXdev.Windows/1.120.2025) | 1.120.2025
+
+### Published: 03/10/2025 03:30:29 by genXdev
+
+A Windows PowerShell module that provides ui Windows manipulation helpers
+
+__Downloads__: 8,442 | __Repository__: https://powershell.genxdev.net/#GenXdev.Windows
+
+## [GenXdev.Data](https://www.powershellgallery.com/Packages/GenXdev.Data/1.120.2025) | 1.120.2025
+
+### Published: 03/10/2025 03:29:14 by genXdev
+
+A Windows PowerShell module with helpers for working with data and databases
+
+__Downloads__: 172 | __Repository__: https://powershell.genxdev.net/#GenXdev.Data
+
+## [GenXdev.FileSystem](https://www.powershellgallery.com/Packages/GenXdev.FileSystem/1.120.2025) | 1.120.2025
+
+### Published: 03/10/2025 03:27:52 by genXdev
+
+A Windows PowerShell module for basic and advanced file management tasks
+
+__Downloads__: 8,879 | __Repository__: https://powershell.genxdev.net/#GenXdev.FileSystem
+
+## [GenXdev.Helpers](https://www.powershellgallery.com/Packages/GenXdev.Helpers/1.120.2025) | 1.120.2025
+
+### Published: 03/10/2025 03:26:42 by genXdev
+
+A Windows PowerShell module with helpers mostly used by other GenXdev modules
+
+__Downloads__: 8,821 | __Repository__: https://powershell.genxdev.net/#GenXdev.Helpers
+
+## [SelectXmlExtensions](https://www.powershellgallery.com/Packages/SelectXmlExtensions/1.1.11) | 1.1.11
+
+### Published: 03/10/2025 02:55:48 by Brian Lalonde
+
+PowerShell cmdlets that Select-Xml can compose into pipelines
+
+__Downloads__: 572 | __Repository__: https://github.com/brianary/SelectXmlExtensions/
+
 ## [PSAISuite](https://www.powershellgallery.com/Packages/PSAISuite/0.1.0) | 0.1.0
 
 ### Published: 03/09/2025 23:50:40 by Doug Finke
@@ -17,7 +89,7 @@ __Downloads__: 19 | __Repository__: https://github.com/dfinke/PSAISuite
 
 A PowerShell module for using the Abstract Syntax Tree (AST) to analyze any PowerShell code.
 
-__Downloads__: 32,764 | __Repository__: https://github.com/PSModule/Ast
+__Downloads__: 32,583 | __Repository__: https://github.com/PSModule/Ast
 
 ## [IdentityCommand](https://www.powershellgallery.com/Packages/IdentityCommand/0.3.61) | 0.3.61
 
@@ -62,7 +134,7 @@ __Downloads__: 16 | __Repository__: https://github.com/Celerium/Celerium-PowerSh
 
 This module provides a PowerShell wrapper for the RocketCyber (SIEM) API. The RocketCyber cloud platform identifies malicious and suspicious activity that evades traditional cyber defenses and delivers round-the- clock monitoring to detect and respond to threats across endpoints, networks and cloud attack vectors.
 
-__Downloads__: 2 | __Repository__: https://github.com/Celerium/Celerium.RocketCyber
+__Downloads__: 0 | __Repository__: https://github.com/Celerium/Celerium.RocketCyber
 
 ## [DscResource.Common](https://www.powershellgallery.com/Packages/DscResource.Common/0.20.0) | 0.20.0
 
@@ -70,7 +142,7 @@ __Downloads__: 2 | __Repository__: https://github.com/Celerium/Celerium.RocketCy
 
 Common functions used in DSC Resources
 
-__Downloads__: 27,967 | __Repository__: https://github.com/dsccommunity/DscResource.Common
+__Downloads__: 27,989 | __Repository__: https://github.com/dsccommunity/DscResource.Common
 
 ## [CleanupMonster](https://www.powershellgallery.com/Packages/CleanupMonster/2.8.8) | 2.8.8
 
@@ -78,7 +150,7 @@ __Downloads__: 27,967 | __Repository__: https://github.com/dsccommunity/DscResou
 
 This module provides an easy way to cleanup Active Directory from dead/old objects based on various criteria. It can also disable, move or delete objects. It can utilize Azure AD, Intune and Jamf to get additional information about objects before deleting them.
 
-__Downloads__: 19,419 | __Repository__: https://github.com/EvotecIT/CleanupMonster
+__Downloads__: 19,431 | __Repository__: https://github.com/EvotecIT/CleanupMonster
 
 ## [Evergreen](https://www.powershellgallery.com/Packages/Evergreen/2503.1859) | 2503.1859
 
@@ -86,7 +158,7 @@ __Downloads__: 19,419 | __Repository__: https://github.com/EvotecIT/CleanupMonst
 
 Create evergreen Windows image builds with the latest versions of applications. Evergreen is a simple PowerShell module that retrieves the latest version numbers and download URLs for various software products directly from the vendor source.
 
-__Downloads__: 8,220,426 | __Repository__: https://stealthpuppy.com/evergreen/
+__Downloads__: 8,226,726 | __Repository__: https://stealthpuppy.com/evergreen/
 
 ## [GenXdev](https://www.powershellgallery.com/Packages/GenXdev/1.118.2025) | 1.118.2025
 
@@ -102,7 +174,7 @@ __Downloads__: 138 | __Repository__: https://powershell.genxdev.net/
 
 A Windows PowerShell module that helps being more productive with coding tasks.
 
-__Downloads__: 4 | __Repository__: https://powershell.genxdev.net/#GenXdev.Coding
+__Downloads__: 3 | __Repository__: https://powershell.genxdev.net/#GenXdev.Coding
 
 ## [RdRAI.Powershell](https://www.powershellgallery.com/Packages/RdRAI.Powershell/1.0.1) | 1.0.1
 
@@ -119,62 +191,6 @@ __Downloads__: 9 | __Repository__:
 A Windows PowerShell module for local AI related operations
 
 __Downloads__: 228 | __Repository__: https://powershell.genxdev.net/#GenXdev.AI
-
-## [GenXdev.Console](https://www.powershellgallery.com/Packages/GenXdev.Console/1.118.2025) | 1.118.2025
-
-### Published: 03/09/2025 05:14:37 by genXdev
-
-A Windows PowerShell module for enhancing the commandline experience
-
-__Downloads__: 1,006 | __Repository__: https://powershell.genxdev.net/#GenXdev.Console
-
-## [GenXdev.Queries](https://www.powershellgallery.com/Packages/GenXdev.Queries/1.118.2025) | 1.118.2025
-
-### Published: 03/09/2025 05:13:21 by genXdev
-
-A Windows PowerShell module for finding resources and information on the internet
-
-__Downloads__: 1,056 | __Repository__: https://powershell.genxdev.net/#GenXdev.Queries
-
-## [GenXdev.Webbrowser](https://www.powershellgallery.com/Packages/GenXdev.Webbrowser/1.118.2025) | 1.118.2025
-
-### Published: 03/09/2025 05:12:09 by genXdev
-
-A Windows PowerShell module that allows you to run scripts against your casual desktop webbrowser-tab
-
-__Downloads__: 8,706 | __Repository__: https://powershell.genxdev.net/#GenXdev.Webbrowser
-
-## [GenXdev.Windows](https://www.powershellgallery.com/Packages/GenXdev.Windows/1.118.2025) | 1.118.2025
-
-### Published: 03/09/2025 05:10:57 by genXdev
-
-A Windows PowerShell module that provides ui Windows manipulation helpers
-
-__Downloads__: 8,443 | __Repository__: https://powershell.genxdev.net/#GenXdev.Windows
-
-## [GenXdev.Data](https://www.powershellgallery.com/Packages/GenXdev.Data/1.118.2025) | 1.118.2025
-
-### Published: 03/09/2025 05:09:47 by genXdev
-
-A Windows PowerShell module with helpers for working with data and databases
-
-__Downloads__: 172 | __Repository__: https://powershell.genxdev.net/#GenXdev.Data
-
-## [GenXdev.Helpers](https://www.powershellgallery.com/Packages/GenXdev.Helpers/1.118.2025) | 1.118.2025
-
-### Published: 03/09/2025 05:07:37 by genXdev
-
-A Windows PowerShell module with helpers mostly used by other GenXdev modules
-
-__Downloads__: 8,821 | __Repository__: https://powershell.genxdev.net/#GenXdev.Helpers
-
-## [GenXdev.FileSystem](https://www.powershellgallery.com/Packages/GenXdev.FileSystem/1.118.2025) | 1.118.2025
-
-### Published: 03/09/2025 05:04:14 by genXdev
-
-A Windows PowerShell module for basic and advanced file management tasks
-
-__Downloads__: 8,879 | __Repository__: https://powershell.genxdev.net/#GenXdev.FileSystem
 
 ## [PersonalLookup](https://www.powershellgallery.com/Packages/PersonalLookup/1.0.1) | 1.0.1
 
@@ -262,7 +278,7 @@ __Downloads__: 2,070 | __Repository__:
 
 A PowerShell module which provides the core framework for generating As-Built documentation for many common datacentre systems.
 
-__Downloads__: 170,283 | __Repository__: https://github.com/AsBuiltReport/AsBuiltReport.Core
+__Downloads__: 170,282 | __Repository__: https://github.com/AsBuiltReport/AsBuiltReport.Core
 
 ## [ArmaServer](https://www.powershellgallery.com/Packages/ArmaServer/1.0.4) | 1.0.4
 
@@ -278,7 +294,7 @@ __Downloads__: 164 | __Repository__: https://github.com/team-gsri/arma3-server-m
 
 A PowerShell module with a collection of functions that should have been in PowerShell to start with.
 
-__Downloads__: 130,647 | __Repository__: https://github.com/PSModule/Utilities
+__Downloads__: 130,397 | __Repository__: https://github.com/PSModule/Utilities
 
 ## [AzKube](https://www.powershellgallery.com/Packages/AzKube/0.26.361) | 0.26.361
 
@@ -344,6 +360,18 @@ PowerShell module for managing and monitoring Atempo Lina continuous data protec
 
 __Downloads__: 2,081 | __Repository__: 
 
+## [FabricTools](https://www.powershellgallery.com/Packages/FabricTools/0.10.0) | 0.10.0
+
+### Published: 03/07/2025 16:54:00 by The FabricTools Team
+
+A module to be able to do more with Microsoft Fabric.
+    It lets you pause and resume Fabric capacities.
+    Adds functionallity previously only available with the REST API as PowerShell functions.
+    There are also functions to make it easier to monitor usage metrics and refreshes.
+    It also adds Fabric-friendly aliases for PowerBI functions to make it easier to use the module.
+
+__Downloads__: 15 | __Repository__: https://www.github.com/dataplat/FabricTools
+
 ## [FarNet.Redis](https://www.powershellgallery.com/Packages/FarNet.Redis/0.15.6) | 0.15.6
 
 ### Published: 03/07/2025 16:46:08 by Roman Kuzmin
@@ -366,7 +394,7 @@ __Downloads__: 1,715 | __Repository__:
 
 PScribo documentation Powershell module/framework.
 
-__Downloads__: 227,134 | __Repository__: http://github.com/iainbrighton/PScribo
+__Downloads__: 227,132 | __Repository__: http://github.com/iainbrighton/PScribo
 
 ## [PentaWork.Xrm.PowerShell](https://www.powershellgallery.com/Packages/PentaWork.Xrm.PowerShell/1.8.1) | 1.8.1
 
@@ -398,7 +426,7 @@ Usage:
 Write-Log [-errorLevel] {INFO | SUCCESS | WARNING | ERROR | DEBUG} [[-message] <String>] [[-logRecycling]
     {Continue | Daily | Hourly}] [[-logPath] <String>] [-debugMode] [<CommonParameters>]
 
-__Downloads__: 51 | __Repository__: 
+__Downloads__: 52 | __Repository__: 
 
 ## [RelaxedIT.EnergySaver](https://www.powershellgallery.com/Packages/RelaxedIT.EnergySaver/0.0.12) | 0.0.12
 
@@ -462,7 +490,7 @@ __Downloads__: 32 | __Repository__:
 
 dbForge DevOps Automation PowerShell for SQL Server helps with organizing database DevOps processes for your SQL Server databases. It allows you to develop, source-control, and safely automate the deployment of database changes by using dbForge for SQL Server tools via the PowerShell interface.
 
-__Downloads__: 34,186 | __Repository__: https://www.devart.com/dbforge/sql/database-devops/
+__Downloads__: 34,121 | __Repository__: https://www.devart.com/dbforge/sql/database-devops/
 
 ## [AutomatedLab.Utils](https://www.powershellgallery.com/Packages/AutomatedLab.Utils/1.4.0) | 1.4.0
 
@@ -512,6 +540,14 @@ A PowerShell module to download and install fonts from GoogleFonts.
 
 __Downloads__: 8,137 | __Repository__: https://github.com/PSModule/GoogleFonts
 
+## [BullsAndCowsGame](https://www.powershellgallery.com/Packages/BullsAndCowsGame/1.3) | 1.3
+
+### Published: 03/06/2025 06:21:14 by Firaz Samet
+
+A PowerShell implementation of the classic number guessing game Bulls and Cows
+
+__Downloads__: 23 | __Repository__: https://github.com/PowershellApps/BullsAndCowsGame
+
 ## [WSLForge](https://www.powershellgallery.com/Packages/WSLForge/0.0.1) | 0.0.1
 
 ### Published: 03/06/2025 06:19:17 by Sriram J Iyer
@@ -550,7 +586,7 @@ __Downloads__: 24,266 | __Repository__:
 
 PowerShell Module for Cisco UCS Manager (UCS Manager module in Cisco PowerTool Suite)
 
-__Downloads__: 70,130 | __Repository__: 
+__Downloads__: 70,132 | __Repository__: 
 
 ## [Cisco.UCS.Common](https://www.powershellgallery.com/Packages/Cisco.UCS.Common/3.0.6.4) | 3.0.6.4
 
@@ -558,7 +594,7 @@ __Downloads__: 70,130 | __Repository__:
 
 PowerShell Module for Cisco Core (Core module in Cisco PowerTool Suite)
 
-__Downloads__: 81,556 | __Repository__: 
+__Downloads__: 81,520 | __Repository__: 
 
 ## [AzNetworkLatency](https://www.powershellgallery.com/Packages/AzNetworkLatency/0.0.2) | 0.0.2
 
@@ -1393,14 +1429,6 @@ This modules provides Cmdlets for OCI Dblm Service
 
 __Downloads__: 62 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-## [OCI.PSModules.Datascience](https://www.powershellgallery.com/Packages/OCI.PSModules.Datascience/101.1.0) | 101.1.0
-
-### Published: 03/06/2025 00:13:20 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Datascience Service
-
-__Downloads__: 12,461 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
 ## [OCI.PSModules.Datasafe](https://www.powershellgallery.com/Packages/OCI.PSModules.Datasafe/101.1.0) | 101.1.0
 
 ### Published: 03/06/2025 00:13:13 by Oracle Cloud Infrastructure
@@ -1479,7 +1507,7 @@ __Downloads__: 10,854 | __Repository__: https://github.com/oracle/oci-powershell
 
 This modules provides Cmdlets for OCI Database Service
 
-__Downloads__: 29,135 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+__Downloads__: 29,168 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
 ## [OCI.PSModules.Dashboardservice](https://www.powershellgallery.com/Packages/OCI.PSModules.Dashboardservice/101.1.0) | 101.1.0
 
@@ -1817,7 +1845,7 @@ Allows you:
 - easily invoke, launch, and install fount in pwsh
 - linking fount characters to pwsh for companion and AI assist
 
-__Downloads__: 52 | __Repository__: https://github.com/steve02081504/fount-pwsh
+__Downloads__: 53 | __Repository__: https://github.com/steve02081504/fount-pwsh
 
 ## [AsBuiltReport.Veeam.VBR](https://www.powershellgallery.com/Packages/AsBuiltReport.Veeam.VBR/0.8.15) | 0.8.15
 
@@ -1890,14 +1918,6 @@ __Downloads__: 10,364 | __Repository__:
 PSSailpoint.Beta - the PowerShell module for Identity Security Cloud Beta API
 
 __Downloads__: 10,470 | __Repository__: 
-
-## [EntraAuth](https://www.powershellgallery.com/Packages/EntraAuth/1.5.31) | 1.5.31
-
-### Published: 03/05/2025 14:43:12 by Friedrich Weinmann
-
-Get Tokens from Entra ID
-
-__Downloads__: 14,495 | __Repository__: https://github.com/FriedrichWeinmann/EntraAuth
 
 ## [Zerto.ZvmLinux.Commandlets](https://www.powershellgallery.com/Packages/Zerto.ZvmLinux.Commandlets/1.1061.0) | 1.1061.0
 
@@ -1985,7 +2005,7 @@ __Downloads__: 9,273 | __Repository__: https://github.com/AsBuiltReport/AsBuiltR
 
 A PowerShell module which provides the core framework for generating Diagrams for many common datacentre systems.
 
-__Downloads__: 70,127 | __Repository__: https://github.com/rebelinux/Diagrammer.Core
+__Downloads__: 70,133 | __Repository__: https://github.com/rebelinux/Diagrammer.Core
 
 ## [LSUClient](https://www.powershellgallery.com/Packages/LSUClient/1.7.0) | 1.7.0
 
@@ -1993,7 +2013,7 @@ __Downloads__: 70,127 | __Repository__: https://github.com/rebelinux/Diagrammer.
 
 Orchestrate driver, BIOS/UEFI and firmware updates for Lenovo computers 👨‍💻
 
-__Downloads__: 32,158,312 | __Repository__: https://www.github.com/jantari/LSUClient
+__Downloads__: 32,154,563 | __Repository__: https://www.github.com/jantari/LSUClient
 
 ## [ProtectStrings](https://www.powershellgallery.com/Packages/ProtectStrings/1.26.6) | 1.26.6
 
@@ -2082,20 +2102,4 @@ Note: Once the deployment is finished, give the function app a couple of minutes
 
 __Downloads__: 49 | __Repository__: 
 
-## [commonTools](https://www.powershellgallery.com/Packages/commonTools/1.0.0) | 1.0.0
-
-### Published: 03/04/2025 23:38:58 by Joe Moscho
-
-Tools used in the development of PowerShell scripts by the Stagwell Orchestration team.
-
-__Downloads__: 6 | __Repository__: 
-
-## [dbatools](https://www.powershellgallery.com/Packages/dbatools/2.1.30) | 2.1.30
-
-### Published: 03/04/2025 20:02:01 by the dbatools team
-
-The community module that enables SQL Server Pros to automate database development and server administration
-
-__Downloads__: 5,964,962 | __Repository__: https://dbatools.io/
-
-*Updated: Monday, 10 March 2025 02:10:02 UTC*
+*Updated: Monday, 10 March 2025 09:52:05 UTC*

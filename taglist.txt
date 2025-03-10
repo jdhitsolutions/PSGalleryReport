@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 10 March 2025 02:10:10 UTC
+Updated: Monday, 10 March 2025 09:52:14 UTC
 
 .bat
 .env
@@ -208,6 +208,7 @@ administrativeuser
 administrator
 admintools
 adml
+admonition
 admpwd
 admx
 ado
@@ -459,6 +460,7 @@ aprs
 aprs-is
 aprsis
 aprsthursday
+aps
 apt
 apt-get
 apt-get-update
@@ -524,7 +526,6 @@ asm
 asn
 asn.1
 asn1
-asnbank
 asp
 asp.net
 aspnet
@@ -653,6 +654,7 @@ avatax
 avd
 ave
 avepoint
+avi
 avm
 avmtools
 avro
@@ -811,7 +813,6 @@ backconnection
 backconnectionhostname
 backend
 backup
-backup_validation
 bamboo
 bamboohr
 bandwidth
@@ -982,7 +983,6 @@ box
 bpmn
 brainy
 branch
-branch-rename
 brave
 brawlapi
 brawlstars
@@ -1069,6 +1069,7 @@ calculate
 calculator
 calendar
 callingcode
+callout
 callqueue
 calvin-and-hobbes
 cam
@@ -1095,7 +1096,6 @@ carbonawarecomputing
 carbonintensity
 card
 cardwirth
-cares
 cargo
 carousel
 carrier
@@ -1385,7 +1385,6 @@ code365
 codeanalysis
 codebuild
 codecommit
-codecomplexity
 codecov
 codecoverage
 codegen
@@ -1431,6 +1430,7 @@ com
 combinations
 combine
 comdata
+comedy
 comic
 comical
 comics
@@ -1470,6 +1470,7 @@ completion
 completion-manager
 completionresult
 completions
+complex
 compliance
 compliancepolicy
 compliant
@@ -1562,6 +1563,7 @@ containerregistry
 containers
 containment
 content
+contentprep
 context
 continious-deploy
 continious-integration
@@ -1851,7 +1853,6 @@ dataexchange
 dataexplorer
 datafactory
 dataflow
-dataflowdependency
 dataframe
 datagateway
 dataintegration
@@ -2661,6 +2662,7 @@ f
 f#
 f5
 fabric
+fabrictools
 fabtools
 facebook
 factoryorchestrator
@@ -2822,6 +2824,7 @@ flash
 flasharray
 flatfile
 flatten
+flavor
 fleet
 fleetappsmanagement
 fleetsoftwareupdate
@@ -3064,7 +3067,6 @@ git-clone
 git-flow
 git-lfs
 git-proxy
-git-rename
 git-stat
 gitcmdline
 gitdesktop
@@ -3427,6 +3429,7 @@ humanizer
 humanly
 humor
 humorous
+humour
 hunter
 hwid
 hybrid
@@ -3487,7 +3490,6 @@ identity-management
 identitydataplane
 identitydirector
 identitydomains
-identitynow
 idf
 idm
 idna
@@ -3535,7 +3537,6 @@ imagination
 imaging
 imap
 imb
-imei
 imi
 impala
 impersonation
@@ -3799,6 +3800,7 @@ join
 join-object
 jojoba
 joke
+jokes
 jotform
 journal
 joyride
@@ -4218,6 +4220,7 @@ macmon
 macos
 macosx
 macro
+macros
 madlib
 magazine
 magento
@@ -4318,6 +4321,7 @@ maven
 max
 max_path
 maximum
+maxoffice
 mazerat
 mb
 mbc
@@ -5497,6 +5501,7 @@ poshy-wrap-pylint
 poshy-wrap-python
 poshy-wrap-ruby
 poshy-wrap-systemctl
+poshy-wrap-terraform
 poshy-wrap-terragrunt
 poshy-wrap-tmux
 poshy-wrap-vagrant
@@ -6892,6 +6897,15 @@ pscommand_invoke-systemctluser-try-reload-or-restart
 pscommand_invoke-systemctluser-try-restart
 pscommand_invoke-systemctluser-unmask
 pscommand_invoke-systemctluser-unset-environment
+pscommand_invoke-terraform
+pscommand_invoke-terraformapply
+pscommand_invoke-terraformconsole
+pscommand_invoke-terraformdestroy
+pscommand_invoke-terraformformat
+pscommand_invoke-terraforminit
+pscommand_invoke-terraformoutput
+pscommand_invoke-terraformplan
+pscommand_invoke-terraformvalidate
 pscommand_invoke-terragrunt
 pscommand_invoke-terragruntapply
 pscommand_invoke-terragruntapplyall
@@ -7362,6 +7376,15 @@ pscommand_test-o
 pscommand_test-reparsepoint
 pscommand_test-sessioninteractivity
 pscommand_test-x
+pscommand_tf
+pscommand_tfa
+pscommand_tfc
+pscommand_tfd
+pscommand_tff
+pscommand_tfi
+pscommand_tfo
+pscommand_tfp
+pscommand_tfv
 pscommand_tg
 pscommand_tga
 pscommand_tgaa
@@ -7555,6 +7578,8 @@ psdshook
 pse
 psedition_5
 psedition_5.1
+psedition_7.3
+psedition_7.4
 psedition_core
 psedition_desk
 psedition_desktop
@@ -8286,6 +8311,15 @@ psfunction_invoke-systemctluser-try-reload-or-restart
 psfunction_invoke-systemctluser-try-restart
 psfunction_invoke-systemctluser-unmask
 psfunction_invoke-systemctluser-unset-environment
+psfunction_invoke-terraform
+psfunction_invoke-terraformapply
+psfunction_invoke-terraformconsole
+psfunction_invoke-terraformdestroy
+psfunction_invoke-terraformformat
+psfunction_invoke-terraforminit
+psfunction_invoke-terraformoutput
+psfunction_invoke-terraformplan
+psfunction_invoke-terraformvalidate
 psfunction_invoke-terragrunt
 psfunction_invoke-terragruntapply
 psfunction_invoke-terragruntapplyall
@@ -9012,9 +9046,6 @@ removetypeaccelerators
 remux
 ren-isac
 rename
-rename-git
-rename-git-branch
-rename-gitbranch
 reonboarding
 repair
 repair-msauth
@@ -9079,7 +9110,6 @@ restart
 restful
 restore
 resume
-retail
 retention
 retro
 retry
@@ -9219,7 +9249,6 @@ safe
 safeguard
 sage
 saggiehaim
-sailpoint
 sale
 sales
 salesforce
@@ -10340,8 +10369,6 @@ time
 timeout
 timer
 timeseriesinsights
-timesheet
-timesheets
 timespan
 timezone
 tinkerpop
@@ -10483,6 +10510,9 @@ tsa
 tsd
 tsheets
 tsqlbestpractice
+tst
+tst1
+tst3
 tsv
 ttrpg
 tts
@@ -10789,7 +10819,6 @@ venvlink
 vera
 veracrypt
 verbose psmodule
-verification
 verify
 version
 versioncontrol
@@ -11034,7 +11063,6 @@ wec
 wecutil
 weekday
 wef
-weixin
 well-architectedframework
 well-architectedreliabilityassessment
 well-known
@@ -11051,7 +11079,6 @@ where
 whfb
 whiteboard
 whitespace
-who
 whoami
 whois
 whoiscmdlet
