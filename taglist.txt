@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Sunday, 09 March 2025 17:52:03 UTC
+Updated: Monday, 10 March 2025 02:10:10 UTC
 
 .bat
 .env
@@ -208,7 +208,6 @@ administrativeuser
 administrator
 admintools
 adml
-admonition
 admpwd
 admx
 ado
@@ -460,7 +459,6 @@ aprs
 aprs-is
 aprsis
 aprsthursday
-aps
 apt
 apt-get
 apt-get-update
@@ -492,6 +490,7 @@ argcomplete
 argument
 argumentcompleter
 arguments
+ari
 arm
 arm-json
 arm-templates
@@ -654,7 +653,6 @@ avatax
 avd
 ave
 avepoint
-avi
 avm
 avmtools
 avro
@@ -757,6 +755,7 @@ azuredevops
 azuredevops_security
 azuredevopsserver
 azuredns
+azurefilesync
 azurefunctionapp
 azurefunctions
 azuregraph
@@ -775,6 +774,7 @@ azurepipelines
 azurepolicy
 azurepowershell
 azurerepos
+azureresourceinventory
 azureresourcemanager
 azureresources
 azureresourcestuff
@@ -1069,7 +1069,6 @@ calculate
 calculator
 calendar
 callingcode
-callout
 callqueue
 calvin-and-hobbes
 cam
@@ -1432,7 +1431,6 @@ com
 combinations
 combine
 comdata
-comedy
 comic
 comical
 comics
@@ -1472,7 +1470,6 @@ completion
 completion-manager
 completionresult
 completions
-complex
 compliance
 compliancepolicy
 compliant
@@ -1565,7 +1562,6 @@ containerregistry
 containers
 containment
 content
-contentprep
 context
 continious-deploy
 continious-integration
@@ -1635,6 +1631,7 @@ cosmos
 cosmosdb
 cost
 cost-management
+costmanagement
 costoptimization
 couchbase
 couchdb
@@ -1767,6 +1764,7 @@ customeventlog
 customeventlogchannel
 customeventlogfile
 customeventlogfiles
+customevents
 custominformationservices
 customis
 customisation
@@ -1993,7 +1991,6 @@ der
 description
 deserialize
 design
-design-pattern
 desired
 desiredstate
 desiredstateconfiguration
@@ -2208,6 +2205,7 @@ domino
 done.land
 donothing
 dos
+dot
 dotenv
 dotfile
 dotfiles
@@ -2576,6 +2574,7 @@ example
 examples
 excel
 exception
+exceptionless
 exchange
 exchange_online
 exchange-rates
@@ -2662,7 +2661,6 @@ f
 f#
 f5
 fabric
-fabrictools
 fabtools
 facebook
 factoryorchestrator
@@ -2798,6 +2796,7 @@ findplace
 findproxyforurl
 fine-print
 fine-tuning
+finops
 firebird
 firefox
 firewall
@@ -2823,7 +2822,6 @@ flash
 flasharray
 flatfile
 flatten
-flavor
 fleet
 fleetappsmanagement
 fleetsoftwareupdate
@@ -3247,6 +3245,7 @@ hartokens
 harvest
 harvestforecast
 hash
+hash-verification
 hashcat
 hashicorp
 hashing
@@ -3405,6 +3404,8 @@ html
 html-templates
 http
 http_proxy
+http-listener
+http-server
 httpclient
 httplistener
 httpqscollection
@@ -3426,7 +3427,6 @@ humanizer
 humanly
 humor
 humorous
-humour
 hunter
 hwid
 hybrid
@@ -3535,6 +3535,7 @@ imagination
 imaging
 imap
 imb
+imei
 imi
 impala
 impersonation
@@ -3798,7 +3799,6 @@ join
 join-object
 jojoba
 joke
-jokes
 jotform
 journal
 joyride
@@ -3940,6 +3940,8 @@ label
 labels
 lability
 labnotifications
+laborate
+laboratory
 labrecipe
 labservices
 labsnippet
@@ -4216,7 +4218,6 @@ macmon
 macos
 macosx
 macro
-macros
 madlib
 magazine
 magento
@@ -4317,7 +4318,6 @@ maven
 max
 max_path
 maximum
-maxoffice
 mazerat
 mb
 mbc
@@ -4430,6 +4430,7 @@ microsoft365
 microsoft365dsc
 microsoftauthenticationlibrary
 microsoftazure
+microsoftcloud
 microsoftdefender
 microsoftdefenderatp
 microsoftdefenderforidentity
@@ -4631,6 +4632,7 @@ multi-factor
 multi-language
 multi-platform
 multi-tenant
+multi-thread
 multi-threading
 multi-zone
 multicloud
@@ -4653,7 +4655,6 @@ mutation
 mute
 mutex
 mva
-mvc
 mvn
 mvp
 mwsqlserver
@@ -4663,6 +4664,7 @@ mycloudrevolution
 myget
 myhub
 myip
+myitprocess
 myjson
 myjson.com
 myob
@@ -4954,6 +4956,7 @@ office2013
 office2016
 office2019
 office365
+office365managementapi
 officedev
 officegraph
 officemessageencryption
@@ -5486,6 +5489,7 @@ poshy-wrap-kubectl
 poshy-wrap-maven
 poshy-wrap-nginx
 poshy-wrap-nmap
+poshy-wrap-npm
 poshy-wrap-pip
 poshy-wrap-pipenv
 poshy-wrap-pyenv
@@ -5493,7 +5497,6 @@ poshy-wrap-pylint
 poshy-wrap-python
 poshy-wrap-ruby
 poshy-wrap-systemctl
-poshy-wrap-terraform
 poshy-wrap-terragrunt
 poshy-wrap-tmux
 poshy-wrap-vagrant
@@ -5664,7 +5667,6 @@ pro
 probability
 probe
 process
-process-inspector
 processing
 processmitigation
 processor
@@ -6740,6 +6742,24 @@ pscommand_invoke-mavenpackage
 pscommand_invoke-mavenreleaseperform
 pscommand_invoke-mavenreleaseprepare
 pscommand_invoke-mavenreleaserollback
+pscommand_invoke-npmbinmungedpath
+pscommand_invoke-npminfo
+pscommand_invoke-npminit
+pscommand_invoke-npminstallforcefully
+pscommand_invoke-npminstallglobally
+pscommand_invoke-npminstallsave
+pscommand_invoke-npminstallsavedev
+pscommand_invoke-npmlist
+pscommand_invoke-npmlistdepth0
+pscommand_invoke-npmoutdated
+pscommand_invoke-npmpublish
+pscommand_invoke-npmrun
+pscommand_invoke-npmrundev
+pscommand_invoke-npmsearch
+pscommand_invoke-npmstart
+pscommand_invoke-npmtest
+pscommand_invoke-npmupdate
+pscommand_invoke-npmversion
 pscommand_invoke-pipenvcheck
 pscommand_invoke-pipenvclean
 pscommand_invoke-pipenvgraph
@@ -6872,15 +6892,6 @@ pscommand_invoke-systemctluser-try-reload-or-restart
 pscommand_invoke-systemctluser-try-restart
 pscommand_invoke-systemctluser-unmask
 pscommand_invoke-systemctluser-unset-environment
-pscommand_invoke-terraform
-pscommand_invoke-terraformapply
-pscommand_invoke-terraformconsole
-pscommand_invoke-terraformdestroy
-pscommand_invoke-terraformformat
-pscommand_invoke-terraforminit
-pscommand_invoke-terraformoutput
-pscommand_invoke-terraformplan
-pscommand_invoke-terraformvalidate
 pscommand_invoke-terragrunt
 pscommand_invoke-terragruntapply
 pscommand_invoke-terragruntapplyall
@@ -7184,6 +7195,23 @@ pscommand_notify-send-terminalnotifier
 pscommand_npm-disable-proxy
 pscommand_npm-enable-proxy
 pscommand_npm-show-proxy
+pscommand_npmd
+pscommand_npme
+pscommand_npmf
+pscommand_npmg
+pscommand_npmi
+pscommand_npml
+pscommand_npml0
+pscommand_npmo
+pscommand_npmp
+pscommand_npmr
+pscommand_npmrd
+pscommand_npms
+pscommand_npmse
+pscommand_npmst
+pscommand_npmt
+pscommand_npmu
+pscommand_npmv
 pscommand_open_command
 pscommand_pch
 pscommand_pcl
@@ -7334,15 +7362,6 @@ pscommand_test-o
 pscommand_test-reparsepoint
 pscommand_test-sessioninteractivity
 pscommand_test-x
-pscommand_tf
-pscommand_tfa
-pscommand_tfc
-pscommand_tfd
-pscommand_tff
-pscommand_tfi
-pscommand_tfo
-pscommand_tfp
-pscommand_tfv
 pscommand_tg
 pscommand_tga
 pscommand_tgaa
@@ -7536,8 +7555,6 @@ psdshook
 pse
 psedition_5
 psedition_5.1
-psedition_7.3
-psedition_7.4
 psedition_core
 psedition_desk
 psedition_desktop
@@ -7553,6 +7570,7 @@ psenv
 pses
 psexcel
 psexec
+psexec.exe
 psexpandline
 psfciv
 psfitbit
@@ -8118,6 +8136,24 @@ psfunction_invoke-mavenpackage
 psfunction_invoke-mavenreleaseperform
 psfunction_invoke-mavenreleaseprepare
 psfunction_invoke-mavenreleaserollback
+psfunction_invoke-npmbinmungedpath
+psfunction_invoke-npminfo
+psfunction_invoke-npminit
+psfunction_invoke-npminstallforcefully
+psfunction_invoke-npminstallglobally
+psfunction_invoke-npminstallsave
+psfunction_invoke-npminstallsavedev
+psfunction_invoke-npmlist
+psfunction_invoke-npmlistdepth0
+psfunction_invoke-npmoutdated
+psfunction_invoke-npmpublish
+psfunction_invoke-npmrun
+psfunction_invoke-npmrundev
+psfunction_invoke-npmsearch
+psfunction_invoke-npmstart
+psfunction_invoke-npmtest
+psfunction_invoke-npmupdate
+psfunction_invoke-npmversion
 psfunction_invoke-pipenvcheck
 psfunction_invoke-pipenvclean
 psfunction_invoke-pipenvgraph
@@ -8250,15 +8286,6 @@ psfunction_invoke-systemctluser-try-reload-or-restart
 psfunction_invoke-systemctluser-try-restart
 psfunction_invoke-systemctluser-unmask
 psfunction_invoke-systemctluser-unset-environment
-psfunction_invoke-terraform
-psfunction_invoke-terraformapply
-psfunction_invoke-terraformconsole
-psfunction_invoke-terraformdestroy
-psfunction_invoke-terraformformat
-psfunction_invoke-terraforminit
-psfunction_invoke-terraformoutput
-psfunction_invoke-terraformplan
-psfunction_invoke-terraformvalidate
 psfunction_invoke-terragrunt
 psfunction_invoke-terragruntapply
 psfunction_invoke-terragruntapplyall
@@ -9036,6 +9063,7 @@ resourcegraph
 resourcegroup
 resourcegroups
 resourceid
+resourceinventory
 resourcekit
 resourcemanager
 resourcemover
@@ -9130,6 +9158,7 @@ router
 routeros
 routes
 routetable
+routine
 rover
 royalapps
 royaldocument
@@ -10439,6 +10468,7 @@ trouw
 true-color
 truecrypt
 truenas
+trumethods
 truportal
 trusted
 trusted-host
@@ -10453,9 +10483,6 @@ tsa
 tsd
 tsheets
 tsqlbestpractice
-tst
-tst1
-tst3
 tsv
 ttrpg
 tts
@@ -10500,6 +10527,7 @@ ubnt
 ubuntu
 ucs
 ucspowertool
+ud-avataaar
 ud-badgebutton
 ud-badgelink
 ud-breadcrumb
@@ -10761,6 +10789,7 @@ venvlink
 vera
 veracrypt
 verbose psmodule
+verification
 verify
 version
 versioncontrol
@@ -10939,6 +10968,7 @@ warraty
 warrenty
 wasabi
 watch
+watchdog
 watchguard
 watchmen
 watery
@@ -10953,8 +10983,10 @@ weaviate
 weaviatenet
 web
 web-browser
+web-framework
 web-hook
 web-search
+web-server
 web.config
 webadministration
 webapi
