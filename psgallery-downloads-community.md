@@ -33,7 +33,7 @@ __Downloads__: 111,770,328 | __Repository__: https://github.com/KelvinTegelaar/R
 
 Powershell module for serializing and deserializing YAML
 
-__Downloads__: 109,346,272 | __Repository__: https://github.com/cloudbase/powershell-yaml
+__Downloads__: 109,430,068 | __Repository__: https://github.com/cloudbase/powershell-yaml
 
 ## [psprivilege](https://www.powershellgallery.com/Packages/psprivilege/0.2.0) | 0.2.0
 
@@ -42,7 +42,7 @@ __Downloads__: 109,346,272 | __Repository__: https://github.com/cloudbase/powers
 Adds cmdlets that can be used to enable/disable/remove privileges on a process. Also adds cmdlets that can be used to configure the members of Windows rights and privileges.
 See https://github.com/jborean93/PSPrivilege for more info
 
-__Downloads__: 98,340,366 | __Repository__: https://github.com/jborean93/PSPrivilege
+__Downloads__: 98,459,873 | __Repository__: https://github.com/jborean93/PSPrivilege
 
 ## [Carbon](https://www.powershellgallery.com/Packages/Carbon/2.15.1) | 2.15.1
 
@@ -155,7 +155,7 @@ __Downloads__: 37,438,671 | __Repository__:
 
 Module to manage systems using SNMP.
 
-__Downloads__: 35,088,101 | __Repository__: 
+__Downloads__: 35,104,376 | __Repository__: 
 
 ## [LSUClient](https://www.powershellgallery.com/Packages/LSUClient/1.7.0) | 1.7.0
 
@@ -163,7 +163,7 @@ __Downloads__: 35,088,101 | __Repository__:
 
 Orchestrate driver, BIOS/UEFI and firmware updates for Lenovo computers 👨‍💻
 
-__Downloads__: 32,165,987 | __Repository__: https://www.github.com/jantari/LSUClient
+__Downloads__: 32,181,200 | __Repository__: https://www.github.com/jantari/LSUClient
 
 ## [AzTable](https://www.powershellgallery.com/Packages/AzTable/2.1.0) | 2.1.0
 
@@ -1714,7 +1714,7 @@ __Downloads__: 1,615,287 | __Repository__: https://github.com/Yevrag35/DsRegModu
 
 Get-NetView is a tool used to simplify the collection of network configuration information for diagnosis of networking issues on Windows
 
-__Downloads__: 1,594,766 | __Repository__: https://github.com/microsoft/Get-NetView
+__Downloads__: 1,595,324 | __Repository__: https://github.com/microsoft/Get-NetView
 
 ## [HuduAPI](https://www.powershellgallery.com/Packages/HuduAPI/2.50) | 2.50
 
@@ -1722,7 +1722,7 @@ __Downloads__: 1,594,766 | __Repository__: https://github.com/microsoft/Get-NetV
 
 This module provides an interface to the Hudu Rest API further information can be found at https://github.com/lwhitelock/HuduAPI
 
-__Downloads__: 1,593,628 | __Repository__: 
+__Downloads__: 1,594,747 | __Repository__: 
 
 ## [spec.module.loader](https://www.powershellgallery.com/Packages/spec.module.loader/1.0.6) | 1.0.6
 
@@ -1730,7 +1730,7 @@ __Downloads__: 1,593,628 | __Repository__:
 
 A module to help installing and importing modules
 
-__Downloads__: 1,550,662 | __Repository__: 
+__Downloads__: 1,555,045 | __Repository__: 
 
 ## [ConnectWiseAutomateAgent](https://www.powershellgallery.com/Packages/ConnectWiseAutomateAgent/0.1.4.0) | 0.1.4.0
 
@@ -1738,7 +1738,7 @@ __Downloads__: 1,550,662 | __Repository__:
 
 PowerShell module for working with the ConnectWise Automate Agent.
 
-__Downloads__: 1,535,494 | __Repository__: https://github.com/christaylorcodes/ConnectWiseAutomateAgent
+__Downloads__: 1,535,715 | __Repository__: https://github.com/christaylorcodes/ConnectWiseAutomateAgent
 
 ## [Autotask](https://www.powershellgallery.com/Packages/Autotask/2.0.3) | 2.0.3
 
@@ -1746,7 +1746,7 @@ __Downloads__: 1,535,494 | __Repository__: https://github.com/christaylorcodes/C
 
 This module connects to the Autotask web services API. It downloads information about entities and fields and generates Powershell functions with parameter validation to support Intellisense script editing. To download first all entities and then detailed information about all fields and selection lists is quite time consuming. To speed up module load time and get to coding faster the module caches both script functions and the field info cache to disk.
 
-__Downloads__: 1,533,458 | __Repository__: https://github.com/ecitsolutions/Autotask
+__Downloads__: 1,533,857 | __Repository__: https://github.com/ecitsolutions/Autotask
 
 ## [ADAL.PS](https://www.powershellgallery.com/Packages/ADAL.PS/5.2.7.2) | 5.2.7.2
 
@@ -1758,7 +1758,7 @@ Active Directory Authentication Library for .NET (ADAL.NET) is an easy to use au
 
 Microsoft has stated that "ADAL.NET is in maintenance mode and no new features will be added to ADAL.NET anymore. All our ongoing efforts will be focused on improving the new MSAL.NET." You should consider using the MSAL.PS PowerShell module which uses the new MSAL.NET library.
 
-__Downloads__: 1,532,259 | __Repository__: https://github.com/jasoth/ADAL.PS
+__Downloads__: 1,533,026 | __Repository__: https://github.com/jasoth/ADAL.PS
 
 ## [DownloadSdk](https://www.powershellgallery.com/Packages/DownloadSdk/1.1.16) | 1.1.16
 
@@ -1766,7 +1766,7 @@ __Downloads__: 1,532,259 | __Repository__: https://github.com/jasoth/ADAL.PS
 
 Download SDK Module
 
-__Downloads__: 1,510,794 | __Repository__: 
+__Downloads__: 1,511,238 | __Repository__: 
 
 ## [Moc](https://www.powershellgallery.com/Packages/Moc/1.2.20) | 1.2.20
 
@@ -1774,7 +1774,7 @@ __Downloads__: 1,510,794 | __Repository__:
 
 MOC Module
 
-__Downloads__: 1,503,592 | __Repository__: 
+__Downloads__: 1,504,028 | __Repository__: 
 
 ## [WinGet](https://www.powershellgallery.com/Packages/WinGet/0.0.8) | 0.0.8
 
@@ -1782,7 +1782,7 @@ __Downloads__: 1,503,592 | __Repository__:
 
 Package Management (OneGet) provider that facilitates installing WinGet packages from any NuGet repository.
 
-__Downloads__: 1,444,582 | __Repository__: https://github.com/ethanbergstrom/WinGet
+__Downloads__: 1,445,090 | __Repository__: https://github.com/ethanbergstrom/WinGet
 
 ## [cChoco](https://www.powershellgallery.com/Packages/cChoco/2.6.0.0) | 2.6.0.0
 
@@ -1790,7 +1790,7 @@ __Downloads__: 1,444,582 | __Repository__: https://github.com/ethanbergstrom/Win
 
 Chocolatey DSC Resources for use with internal packages and the community package repository. Learn more at http://chocolatey.org/
 
-__Downloads__: 1,417,510 | __Repository__: 
+__Downloads__: 1,417,692 | __Repository__: 
 
 ## [PSRedstone](https://www.powershellgallery.com/Packages/PSRedstone/2023.4.25.235) | 2023.4.25.235
 
@@ -1798,7 +1798,7 @@ __Downloads__: 1,417,510 | __Repository__:
 
 PSRedstone is framework designed to streamline third software installation and configuration. It is designed to make endpoint managers more agile with a Configuration Management, DevOps, and Infrastructure as Code (IaC) mentality.
 
-__Downloads__: 1,401,127 | __Repository__: 
+__Downloads__: 1,403,435 | __Repository__: 
 
 ## [Pscx](https://www.powershellgallery.com/Packages/Pscx/3.3.2) | 3.3.2
 
@@ -1806,7 +1806,7 @@ __Downloads__: 1,401,127 | __Repository__:
 
 PowerShell Community Extensions (PSCX) base module which implements a general purpose set of Cmdlets.
 
-__Downloads__: 1,375,170 | __Repository__: https://github.com/Pscx/Pscx
+__Downloads__: 1,375,576 | __Repository__: https://github.com/Pscx/Pscx
 
 ## [VMware.Sdk.vSphere.Appliance.Tls](https://www.powershellgallery.com/Packages/VMware.Sdk.vSphere.Appliance.Tls/8.0.2099.24145081) | 8.0.2099.24145081
 
@@ -1814,7 +1814,7 @@ __Downloads__: 1,375,170 | __Repository__: https://github.com/Pscx/Pscx
 
 This PowerShell module contains PowerShell Advanced functions for VMware.Sdk.vSphere.Appliance.Tls.
 
-__Downloads__: 1,365,663 | __Repository__: https://developer.vmware.com/powercli
+__Downloads__: 1,368,437 | __Repository__: https://developer.vmware.com/powercli
 
 ## [2atCrm](https://www.powershellgallery.com/Packages/2atCrm/1.0.6049) | 1.0.6049
 
@@ -1830,7 +1830,7 @@ __Downloads__: 1,364,857 | __Repository__:
 
 This PowerShell module contains PowerShell Advanced functions for VMware.Sdk.vSphere.SnapService.
 
-__Downloads__: 1,343,589 | __Repository__: https://developer.vmware.com/powercli
+__Downloads__: 1,346,321 | __Repository__: https://developer.vmware.com/powercli
 
 ## [1C.Utils](https://www.powershellgallery.com/Packages/1C.Utils/0.4.0) | 0.4.0
 
@@ -1846,7 +1846,7 @@ __Downloads__: 1,341,285 | __Repository__: https://bitbucket.org/willynilly74/1c
 
 PowerShell Dependency Handler
 
-__Downloads__: 1,320,313 | __Repository__: https://github.com/RamblingCookieMonster/PSDepend/
+__Downloads__: 1,320,521 | __Repository__: https://github.com/RamblingCookieMonster/PSDepend/
 
 ## [AdmPwd.PS](https://www.powershellgallery.com/Packages/AdmPwd.PS/6.3.1.0) | 6.3.1.0
 
@@ -1854,7 +1854,7 @@ __Downloads__: 1,320,313 | __Repository__: https://github.com/RamblingCookieMons
 
 Provides cmdlets for configuration and usage of Local admin password management solution
 
-__Downloads__: 1,282,203 | __Repository__: 
+__Downloads__: 1,282,308 | __Repository__: 
 
 ## [testmodule99](https://www.powershellgallery.com/Packages/testmodule99/0.0.93) | 0.0.93
 
@@ -1862,7 +1862,7 @@ __Downloads__: 1,282,203 | __Repository__:
 
 test
 
-__Downloads__: 1,258,866 | __Repository__: 
+__Downloads__: 1,259,281 | __Repository__: 
 
 ## [ConfluencePS](https://www.powershellgallery.com/Packages/ConfluencePS/2.5.1) | 2.5.1
 
@@ -1870,7 +1870,7 @@ __Downloads__: 1,258,866 | __Repository__:
 
 PowerShell module to interact with the Atlassian Confluence REST API
 
-__Downloads__: 1,236,503 | __Repository__: https://github.com/AtlassianPS/ConfluencePS
+__Downloads__: 1,237,291 | __Repository__: https://github.com/AtlassianPS/ConfluencePS
 
 ## [Mdbc](https://www.powershellgallery.com/Packages/Mdbc/7.0.0) | 7.0.0
 
@@ -1878,7 +1878,7 @@ __Downloads__: 1,236,503 | __Repository__: https://github.com/AtlassianPS/Conflu
 
 Mdbc module - MongoDB Cmdlets for PowerShell
 
-__Downloads__: 1,236,421 | __Repository__: https://github.com/nightroman/Mdbc
+__Downloads__: 1,236,629 | __Repository__: https://github.com/nightroman/Mdbc
 
 ## [azure.databricks.cicd.tools](https://www.powershellgallery.com/Packages/azure.databricks.cicd.tools/2.2.5727) | 2.2.5727
 
@@ -1886,7 +1886,7 @@ __Downloads__: 1,236,421 | __Repository__: https://github.com/nightroman/Mdbc
 
 PowerShell module to help with Azure Databricks CI & CD Scenarios by simplifying the API or CLI calls into idempotent commands. See https://github.com/DataThirstLtd/azure.databricks.cicd.tools & https://datathirst.net
 
-__Downloads__: 1,206,026 | __Repository__: https://github.com/DataThirstLtd/azure.databricks.cicd.tools
+__Downloads__: 1,206,500 | __Repository__: https://github.com/DataThirstLtd/azure.databricks.cicd.tools
 
 ## [PSAppDeployToolkit](https://www.powershellgallery.com/Packages/PSAppDeployToolkit/4.0.6) | 4.0.6
 
@@ -1894,7 +1894,7 @@ __Downloads__: 1,206,026 | __Repository__: https://github.com/DataThirstLtd/azur
 
 Enterprise App Deployment, Simplified.
 
-__Downloads__: 1,162,427 | __Repository__: https://psappdeploytoolkit.com/
+__Downloads__: 1,162,880 | __Repository__: https://psappdeploytoolkit.com/
 
 ## [AutoTaskAPI](https://www.powershellgallery.com/Packages/AutoTaskAPI/1.2.2) | 1.2.2
 
@@ -1902,7 +1902,7 @@ __Downloads__: 1,162,427 | __Repository__: https://psappdeploytoolkit.com/
 
 This module allows you to connect to the Autotask REST API. The Autotask REST API was launched with version 2020.2
 
-__Downloads__: 1,127,900 | __Repository__: https://github.com/KelvinTegelaar/AutotaskAPI
+__Downloads__: 1,127,932 | __Repository__: https://github.com/KelvinTegelaar/AutotaskAPI
 
 ## [Mailozaurr](https://www.powershellgallery.com/Packages/Mailozaurr/1.0.4) | 1.0.4
 
@@ -1910,7 +1910,7 @@ __Downloads__: 1,127,900 | __Repository__: https://github.com/KelvinTegelaar/Aut
 
 Mailozaurr is a PowerShell module that aims to provide SMTP, POP3, IMAP and few other ways to interact with Email. Underneath it uses MimeKit and MailKit and EmailValidation libraries written by Jeffrey Stedfast.
 
-__Downloads__: 1,098,275 | __Repository__: https://github.com/EvotecIT/MailoZaurr
+__Downloads__: 1,098,419 | __Repository__: https://github.com/EvotecIT/MailoZaurr
 
 ## [AzStorageTable](https://www.powershellgallery.com/Packages/AzStorageTable/1.0.2) | 1.0.2
 
@@ -1920,13 +1920,13 @@ Sample functions to add/retrieve/update entities on Azure Storage Tables from Po
 
 __Downloads__: 1,092,820 | __Repository__: 
 
-## [JumpCloud.SDK.DirectoryInsights](https://www.powershellgallery.com/Packages/JumpCloud.SDK.DirectoryInsights/0.0.32) | 0.0.32
+## [JumpCloud.SDK.DirectoryInsights](https://www.powershellgallery.com/Packages/JumpCloud.SDK.DirectoryInsights/0.0.33) | 0.0.33
 
-### Published: 06/17/2024 21:29:55 by JumpCloud
+### Published: 03/10/2025 22:55:23 by JumpCloud
 
 The JumpCloud DirectoryInsights PowerShell SDK
 
-__Downloads__: 1,087,174 | __Repository__: https://github.com/TheJumpCloud/jcapi-powershell/tree/master/SDKs/PowerShell/JumpCloud.SDK.DirectoryInsights/
+__Downloads__: 1,087,431 | __Repository__: https://github.com/TheJumpCloud/jcapi-powershell/tree/master/SDKs/PowerShell/JumpCloud.SDK.DirectoryInsights/
 
 ## [Emailimo](https://www.powershellgallery.com/Packages/Emailimo/0.0.12) | 0.0.12
 
@@ -1934,19 +1934,19 @@ __Downloads__: 1,087,174 | __Repository__: https://github.com/TheJumpCloud/jcapi
 
 Easy way to send emails in PowerShell
 
-__Downloads__: 1,066,511 | __Repository__: https://github.com/EvotecIT/Emailimo
+__Downloads__: 1,066,581 | __Repository__: https://github.com/EvotecIT/Emailimo
 
-## [JumpCloud.SDK.V1](https://www.powershellgallery.com/Packages/JumpCloud.SDK.V1/0.0.44) | 0.0.44
+## [JumpCloud.SDK.V1](https://www.powershellgallery.com/Packages/JumpCloud.SDK.V1/0.0.45) | 0.0.45
 
-### Published: 06/17/2024 21:30:13 by JumpCloud
+### Published: 03/10/2025 22:55:29 by JumpCloud
 
 The JumpCloud V1 PowerShell SDK
 
 __Downloads__: 1,058,484 | __Repository__: https://github.com/TheJumpCloud/jcapi-powershell/tree/master/SDKs/PowerShell/JumpCloud.SDK.V1/
 
-## [JumpCloud.SDK.V2](https://www.powershellgallery.com/Packages/JumpCloud.SDK.V2/0.0.48) | 0.0.48
+## [JumpCloud.SDK.V2](https://www.powershellgallery.com/Packages/JumpCloud.SDK.V2/0.0.49) | 0.0.49
 
-### Published: 06/17/2024 21:29:59 by JumpCloud
+### Published: 03/10/2025 22:55:35 by JumpCloud
 
 The JumpCloud V2 PowerShell SDK
 
@@ -2141,4 +2141,4 @@ KB Viewer, Saver, Installer and Uninstaller
 
 __Downloads__: 801,864 | __Repository__: 
 
-*Updated: Monday, 10 March 2025 17:52:00 UTC*
+*Updated: Tuesday, 11 March 2025 02:16:48 UTC*

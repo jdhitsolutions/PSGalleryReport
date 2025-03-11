@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 10 March 2025 17:52:03 UTC
+Updated: Tuesday, 11 March 2025 02:16:51 UTC
 
 .bat
 .env
@@ -714,7 +714,6 @@ aztools
 azts
 azuead
 azure
-azure_ad
 azure_security
 azure-adx
 azure-backup
@@ -863,7 +862,6 @@ be.stateless
 be.stateless.be
 beam3d
 bearded-avenger
-bearer
 beautifier
 beautify
 bec
@@ -2295,7 +2293,6 @@ dtc
 dts
 dtsx
 dtx
-du
 dual-stack
 duck
 duckdb
@@ -2311,7 +2308,6 @@ dumpify
 dumping
 dumps
 duo
-duosecurity
 dupes
 duplicate
 duplicate-files
@@ -2408,7 +2404,6 @@ elmah-io
 elonmusk
 eloomi
 eloqua
-elvish
 elvui
 em
 emacs
@@ -2504,7 +2499,6 @@ errorcode
 errorfile
 errorhandling
 errors
-errorview
 eryph
 esae
 esc
@@ -2584,7 +2578,6 @@ excel
 exception
 exceptionless
 exchange
-exchange_online
 exchange-rates
 exchange2010
 exchange2013
@@ -2833,7 +2826,6 @@ flatfile
 flatten
 flavor
 fleet
-fleetappsmanagement
 fleetsoftwareupdate
 flex
 flex-query
@@ -3000,7 +2992,6 @@ generates
 generatewif
 generation
 generativeai
-generativeaiagent
 generativeaiagentruntime
 generativeaiinference
 generator
@@ -3155,7 +3146,6 @@ gpx
 gradle
 grafana
 grafanaapi
-granttype
 graph
 graph-api
 graphapi
@@ -3562,7 +3552,6 @@ importer
 importexport
 importteams
 inactive
-inboxrule
 incident
 incident_response
 incident-response
@@ -3715,7 +3704,6 @@ iphone
 ipilot
 iplookup
 ipmaths
-ipp
 iprange
 ips
 ipscan
@@ -3865,7 +3853,6 @@ kb4
 kbarticle
 kdbx
 kdialog
-kebab-case
 keenetic
 keepachangelog
 keepass
@@ -4104,7 +4091,6 @@ local-users
 localaccounts
 localadmin
 localconfigurationmanager
-localdb
 localdirectories
 locale
 localgroup
@@ -4230,7 +4216,6 @@ macmon
 macos
 macosx
 macro
-macros
 madlib
 magazine
 magento
@@ -4331,7 +4316,6 @@ maven
 max
 max_path
 maximum
-maxoffice
 mazerat
 mb
 mbc
@@ -4424,11 +4408,7 @@ microfocus
 microk8s
 microservices
 microsoft
-microsoft_365
-microsoft_azure
 microsoft_endpoint_manager
-microsoft_online
-microsoft_teams
 microsoft-graph
 microsoft-teams
 microsoft-web-platform
@@ -4450,7 +4430,6 @@ microsoftdefenderatp
 microsoftdefenderforidentity
 microsoftdeploymenttoolkit
 microsoftendpointmanager
-microsoftexchangeserver
 microsoftfabric
 microsoftgraph
 microsoftgraphapi
@@ -4582,9 +4561,7 @@ mrfk
 mrfylke
 mrvl_fc_powerkit
 mrvlfcprovider
-ms_365
 ms-graph
-ms365
 msaccess
 msacpi_thermalzonetemperature
 msal
@@ -4679,7 +4656,6 @@ mycloudrevolution
 myget
 myhub
 myip
-myitprocess
 myjson
 myjson.com
 myob
@@ -4727,7 +4703,6 @@ nederland
 nedyalkov
 nemovote
 neo4j
-neofetch
 neonpostgres
 neovim
 neptune
@@ -4930,7 +4905,6 @@ oact
 oath
 oauth
 oauth2
-oauth2.0
 oberstufe
 obfuscate
 obfuscation
@@ -4965,7 +4939,6 @@ oem-charset
 offboarding
 offence
 office
-office_365
 office2010
 office2013
 office2016
@@ -5368,7 +5341,6 @@ pivot
 pivotal
 pivottable
 pixoo
-pkce
 pkgx
 pki
 pki psmodule
@@ -5512,7 +5484,6 @@ poshy-wrap-pylint
 poshy-wrap-python
 poshy-wrap-ruby
 poshy-wrap-systemctl
-poshy-wrap-terraform
 poshy-wrap-terragrunt
 poshy-wrap-tmux
 poshy-wrap-vagrant
@@ -5590,6 +5561,7 @@ powershell-terminal-copilot
 powershell-training
 powershell.module.invokewinget
 powershell.one
+powershell.persistentpathstack
 powershell7
 powershellai
 powershellazuresql
@@ -6908,15 +6880,6 @@ pscommand_invoke-systemctluser-try-reload-or-restart
 pscommand_invoke-systemctluser-try-restart
 pscommand_invoke-systemctluser-unmask
 pscommand_invoke-systemctluser-unset-environment
-pscommand_invoke-terraform
-pscommand_invoke-terraformapply
-pscommand_invoke-terraformconsole
-pscommand_invoke-terraformdestroy
-pscommand_invoke-terraformformat
-pscommand_invoke-terraforminit
-pscommand_invoke-terraformoutput
-pscommand_invoke-terraformplan
-pscommand_invoke-terraformvalidate
 pscommand_invoke-terragrunt
 pscommand_invoke-terragruntapply
 pscommand_invoke-terragruntapplyall
@@ -7387,15 +7350,6 @@ pscommand_test-o
 pscommand_test-reparsepoint
 pscommand_test-sessioninteractivity
 pscommand_test-x
-pscommand_tf
-pscommand_tfa
-pscommand_tfc
-pscommand_tfd
-pscommand_tff
-pscommand_tfi
-pscommand_tfo
-pscommand_tfp
-pscommand_tfv
 pscommand_tg
 pscommand_tga
 pscommand_tgaa
@@ -8322,15 +8276,6 @@ psfunction_invoke-systemctluser-try-reload-or-restart
 psfunction_invoke-systemctluser-try-restart
 psfunction_invoke-systemctluser-unmask
 psfunction_invoke-systemctluser-unset-environment
-psfunction_invoke-terraform
-psfunction_invoke-terraformapply
-psfunction_invoke-terraformconsole
-psfunction_invoke-terraformdestroy
-psfunction_invoke-terraformformat
-psfunction_invoke-terraforminit
-psfunction_invoke-terraformoutput
-psfunction_invoke-terraformplan
-psfunction_invoke-terraformvalidate
 psfunction_invoke-terragrunt
 psfunction_invoke-terragruntapply
 psfunction_invoke-terragruntapplyall
@@ -8865,7 +8810,6 @@ rag
 raidcontrollercmdlets
 railways
 rainbow
-raisers
 raisersedge
 raj
 ram
@@ -9046,6 +8990,7 @@ remoteregistry
 remotesession
 remoting
 remove
+remove-githubsecrets
 remove-itemproperty
 remove-pass
 remove-path
@@ -9158,7 +9103,6 @@ ribcl
 ricoh
 rightcloud
 rightjoin
-rights
 rightsizing
 rightsmanagement
 ring
@@ -9429,7 +9373,6 @@ section
 secur32
 secure
 secureapplicationmodel
-secureboot
 securechannel
 securedns
 securegopher
@@ -9449,7 +9392,6 @@ security.txt
 securityassertionmarkuplanguage
 securityattribute
 securitycenter
-securitycompliancecenter
 securitygroup
 securitygroups
 securityinsights
@@ -9553,6 +9495,7 @@ set
 set_bios
 set-alias
 set-dnsservers
+set-githubsecrets
 set-itemproperty
 set-location
 set-openfiles
@@ -10033,7 +9976,6 @@ stretch
 strictmode
 strikethrough-text
 string
-string-converter
 string-template
 stringmanager
 stringmanagertool
@@ -10155,7 +10097,6 @@ system
 system information 1394 controller baseboard motherboard systemboard battery bios bus cache memory cd dvd rom drive compact disc desktop monitor disk partition fan floppy glide point heatpipe ide infrared device keyboard local logical array mouse'
 system-administration
 system-group
-system-info
 system-service
 system-services
 system.directoryservices.protocols
@@ -10386,6 +10327,7 @@ timeseriesinsights
 timesheet
 timesheets
 timespan
+timestamp
 timezone
 tinkerpop
 tinymce
@@ -10511,7 +10453,6 @@ trouw
 true-color
 truecrypt
 truenas
-trumethods
 truportal
 trusted
 trusted-host
@@ -11048,7 +10989,6 @@ webdeploy
 webdeveloper
 webfrequest
 webhdfs
-webhelpdesk
 webhistory
 webhook
 webinspect
@@ -11075,7 +11015,6 @@ websphereportal
 webtest
 webtesting
 webtime
-webview2
 wec
 wecutil
 weekday
@@ -11092,7 +11031,6 @@ what3words
 whatismyip
 whatsnew
 whatsupgold
-whd
 where
 whfb
 whiteboard
