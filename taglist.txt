@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Thursday, 13 March 2025 02:17:06 UTC
+Updated: Thursday, 13 March 2025 09:52:08 UTC
 
 .bat
 .env
@@ -191,14 +191,12 @@ adfstoolkit
 adfstools
 adgroupmemberobjects
 adgroupmembers
-adgroups
 adidns
 adif
 adlds
 adm
 admf
 admin
-admin-tools
 adminbyrequest
 admindirectory
 administration
@@ -227,7 +225,6 @@ adsite
 adsp
 adsync
 adt
-aduser
 aduseraccountlockout
 adusergroups
 adv180002
@@ -507,6 +504,7 @@ artefactual
 artifact
 artifactory
 artifacts
+artificial-intelligence
 artificialintelligence
 aruba
 as
@@ -534,7 +532,6 @@ asr
 assembleenationale
 assembly
 assemblyloadcontext
-assemblymeta
 assert
 assertion
 assertion-testing
@@ -542,6 +539,7 @@ assessment
 asset
 assetintelligencepoint
 assets
+assist
 assistance
 assistant
 association
@@ -735,6 +733,7 @@ azureadvancedthreatprotection
 azureappconfiguration
 azureapplicationstuff
 azurearc
+azurearcstuff
 azureartifacts
 azureas
 azureatp
@@ -754,6 +753,7 @@ azuredatastudio
 azuredevops
 azuredevops_security
 azuredevopsserver
+azuredns
 azurefilesync
 azurefunctionapp
 azurefunctions
@@ -1081,7 +1081,6 @@ cancel
 cancellation
 canonical
 cantara
-capability
 capacity
 capacitymanagement
 capainstaller
@@ -1277,8 +1276,6 @@ clear
 clear-history
 clearpass
 cli
-cli-menu
-cli-menu-helpers
 clickonce
 client
 client-management
@@ -1368,6 +1365,7 @@ cmgroupdiscovery
 cmhealth
 cmhealthcheck
 cminifile
+cmnetworkports
 cms
 cmsiteconfig
 cmsmessage
@@ -1483,6 +1481,7 @@ compress
 compression
 compute
 compute-ops-management
+computecloudatcustomer
 computeinstanceagent
 computer
 computer-room
@@ -1530,7 +1529,6 @@ connect-samcmsite
 connected
 connectedkubernetes
 connectedmachine
-connectednetwork
 connectedvmware
 connectexchange
 connection
@@ -1645,6 +1643,8 @@ counter
 countries
 country
 countrycode
+cove
+covebackup
 cover
 coverage
 coveralls
@@ -1984,6 +1984,7 @@ deploy
 deployment
 deploymentconfig
 deploymentresourceprovider
+deploymenttasks
 depute
 der
 description
@@ -2035,7 +2036,6 @@ dfplayermini
 dfs
 dfw
 dg
-dhash
 dhcp
 di
 diagnostic
@@ -2066,6 +2066,8 @@ directories
 directory
 directory psedition_core psedition_desktop
 directory-transform
+directorycleanup
+directorymanagement
 directorymarks
 directoryname
 directorysearcher
@@ -2148,7 +2150,6 @@ dns-client
 dns-over-https
 dns-resolver
 dnsbl
-dnsclient
 dnsdumpster
 dnsentry
 dnsimple
@@ -2395,7 +2396,6 @@ elk
 elm
 elmah-io
 elonmusk
-eloomi
 eloqua
 elvish
 elvui
@@ -2460,6 +2460,7 @@ entra
 entracloudsync
 entraconnect
 entraid
+entraidgovernance
 entropy
 enum
 enumerable
@@ -2737,6 +2738,7 @@ fileencryption
 filelist
 filelog
 filelogger
+filemaintenance
 filemanagement
 filematcher
 filename
@@ -2768,7 +2770,6 @@ filewrite
 fill
 film
 filter
-filter-item
 filtering
 fim
 fims
@@ -2796,7 +2797,6 @@ finops
 firebird
 firefox
 firewall
-firewall-management
 firewallrule
 firmware
 firmwareanalysis
@@ -2882,6 +2882,9 @@ forwardcompatibility
 forwardedevents
 foudil
 foundationmodels
+fount
+fount-pwsh
+fountassist
 fox
 foxpro
 fqdn
@@ -3121,7 +3124,6 @@ gopherplus
 gophers
 governance
 governancerulescontrolplane
-gp
 gpedit
 gpg
 gping
@@ -3162,6 +3164,7 @@ gremlin
 grep
 greynoise
 grid
+gridfs
 grok
 groundspeak
 group
@@ -3291,7 +3294,6 @@ help
 helpdesk
 helpdoc
 helper
-helper-functions
 helperfunctions
 helpers
 helpfile
@@ -3391,6 +3393,7 @@ hpesynergy
 hponeview
 hpwritemanager
 hris
+hrprovisioning
 hsdp
 hsl
 html
@@ -3506,7 +3509,6 @@ ilo5
 ilocmdlets
 im
 image
-image-comparison
 image-converter
 image-creation
 image-generation
@@ -3620,7 +3622,6 @@ integratedscriptingeditor
 integration
 integrationaccount
 integrationruntime
-integrationruntimedependency
 integrationservicescatalog
 integrity
 intel
@@ -3654,6 +3655,7 @@ inventory
 investigation
 investment
 investments
+invitation
 invocation
 invoice
 invoke
@@ -3681,6 +3683,7 @@ iothub
 iothubproperties
 ip
 ip_cameras
+ip-address
 ip-scanner
 ipa
 ipaddress
@@ -3839,7 +3842,6 @@ karabiner-elements
 karma
 kaseya
 kaseyavsa
-kaspersky
 katakana
 kb
 kb4
@@ -4038,7 +4040,6 @@ link
 link-capability
 link-preview
 linkedin
-linkedservice
 linkedservicedependency
 linkid
 links
@@ -4054,7 +4055,6 @@ liquid
 list
 list_files
 list-directory
-list-item
 listener
 litecoin
 litedb
@@ -4086,6 +4086,7 @@ localaccounts
 localadmin
 localconfigurationmanager
 localdb
+localdirectories
 locale
 localgroup
 localgroupmember
@@ -4128,7 +4129,6 @@ logger
 logging
 loggingingestion
 loggingsearch
-loggly
 logic
 logicapp
 logicapps
@@ -4314,6 +4314,7 @@ maximum
 maxoffice
 mazerat
 mb
+mbc
 mbs
 mc
 mcafee
@@ -4321,7 +4322,6 @@ mcas
 mccs
 mcd
 mchapv2
-mct
 md5
 md5_v2-18232bfba2e90cd603582c78fa002427
 mdatp
@@ -4398,6 +4398,7 @@ mgn
 mi
 micro
 micro-framework
+micro-orm
 microfocus
 microk8s
 microservices
@@ -4761,7 +4762,6 @@ networkloadbalancer
 networkpolicyserver
 networkprofile
 networkscan
-networksecurity
 networksecuritygroup
 networkshares
 netwrix
@@ -4953,7 +4953,6 @@ office365managementapi
 officedev
 officegraph
 officemessageencryption
-officertool
 offline
 offlinewimservicing
 ofx
@@ -4976,7 +4975,6 @@ omnistack
 oms
 omsagent
 on
-on-demand
 on-premise
 onbehalfof
 onboard
@@ -5031,7 +5029,6 @@ openidconnect
 openinghours
 openport
 openprovider
-openscad
 opensearch
 opensource
 opensourceinitiative
@@ -5096,7 +5093,6 @@ osdeployment
 osdprogress
 osdsus
 osdupdate
-osdworkspace
 osi
 osm
 osmanagement
@@ -5279,7 +5275,6 @@ penetrationtesting
 pentesting
 pentia
 people
-perceptual-hash
 perforce
 performance
 performance-counters
@@ -5420,6 +5415,7 @@ port-scanner
 port70
 portal
 porthunter
+ports
 portscan
 porttest
 pos
@@ -5585,6 +5581,7 @@ powershellml
 powershellmodule
 powershellmoduleupdate
 powershellpr0mpt
+powershellremoting
 powershellscript
 powershelltemplate
 powershelltraining
@@ -8767,7 +8764,6 @@ pwpush.com
 pwsafe
 pwsh
 pwsh.fw
-pwshake
 pwshfw
 pwshrc
 pxedistributionpoint
@@ -9012,6 +9008,7 @@ remotedesktopconnectionmanager
 remotedesktopgateway
 remotedesktopmanager
 remotedesktopservices
+remotedirectories
 remotefiles
 remoteforensics
 remotehost
@@ -9073,6 +9070,7 @@ resharper
 resize
 resolution
 resolve
+resolve-dnsname
 resolve-stache
 resolve-template
 resolver
@@ -9342,6 +9340,7 @@ screencapture
 screenconnect
 screenfetch
 screenresolution
+screensaver
 screenscraping
 screenshot
 script
@@ -9440,7 +9439,6 @@ seek
 seekatar
 seeshell
 select
-select-item
 select-kubecontext
 select-kubenamespace
 select-string
@@ -9476,7 +9474,6 @@ sensors
 sensu
 sentinel
 sentinelone
-sentry
 sep
 seppmail
 seppmail.cloud
@@ -9793,6 +9790,7 @@ spam
 spamtitan
 spanner
 spark
+sparkline
 sparklines
 spawn
 spdockit
@@ -10031,6 +10029,7 @@ sub-menu
 subatomix
 subjectname
 sublimetext
+submission
 subnet
 subnet-calculator
 subnetcalculator
@@ -10087,6 +10086,7 @@ swarm
 swimlane
 swis
 switch
+sxs
 sybase
 sybaseiq
 symantec
@@ -10300,7 +10300,9 @@ text-templates
 text-to-image
 text-to-speach"
 text-to-speech
+text2image
 textanalysis
+textbuffer
 textgeneration
 texting
 texting-emoji
@@ -10505,7 +10507,6 @@ tst3
 tsv
 ttrpg
 tts
-tubedownloader
 tui
 tulpep
 tuner
@@ -10565,7 +10566,6 @@ ud-datepicker
 ud-field
 ud-flexytable
 ud-funnel
-ud-hero
 ud-illustration
 ud-input
 ud-licensed
@@ -10615,7 +10615,6 @@ ui/ux
 ui7
 uk
 ulid
-ultimatetool
 um
 uml
 umn
@@ -10624,6 +10623,7 @@ unattend
 unattendedfile
 unblock
 unc
+uncpaths
 underlined-text
 unhide
 unicode
@@ -10727,7 +10727,6 @@ users-management
 userworkstations
 usg
 usgs
-usps
 utc
 utf-8
 utf-sig
@@ -11129,12 +11128,9 @@ windows explorer
 windows_events
 windows-10
 windows-api
-windows-control-panel
-windows-defender
 windows-environment
 windows-explorer
 windows-features
-windows-firewall
 windows-path
 windows-powershell
 windows-registry
@@ -11158,6 +11154,7 @@ windowsdataprotectionapi
 windowsdefender
 windowsdesktop
 windowsdesktopsearch
+windowsdirectories
 windowsdomain
 windowsevent
 windowseventlog
@@ -11168,7 +11165,6 @@ windowsinstaller
 windowsinternaldatabase
 windowsinternals
 windowsiotservices
-windowsiso
 windowsmanagement
 windowsmanagementframework
 windowspackagemanager
@@ -11423,7 +11419,6 @@ zoommeeting
 zorus
 zorusapi
 zoxide
-zpr
 zsh
 zuora
 zvm
