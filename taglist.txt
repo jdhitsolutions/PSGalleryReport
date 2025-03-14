@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Thursday, 13 March 2025 17:52:03 UTC
+Updated: Friday, 14 March 2025 02:16:44 UTC
 
 .bat
 .env
@@ -263,11 +263,18 @@ agnoster
 ahk
 ai
 ai-server
+ai21
+ai21labs
 aianomalydetection
+aiapplications
+aiautomation
 aidocument
+aiintegration
 ailanguage
 aim
+aimodels
 aip
+aiprompting
 aipscanner
 aircall
 airpower
@@ -275,6 +282,7 @@ airpwr
 airtable
 ais
 aispeech
+aiutilities
 aivision
 ajustee
 aka.ms
@@ -303,7 +311,6 @@ alias-hint
 alias-tips
 aliases
 aliens
-all
 alletra
 alloydb
 alm
@@ -324,10 +331,12 @@ amateurradio
 amazon
 amazonaws
 amazonmgn
+amazontitan
 amazonwebservices
 amend
 ami
 amiga
+amp
 amqp
 amsi
 amt
@@ -365,12 +374,12 @@ ansible-playbook
 ansible-vault
 ansiblecontrolnode
 ansibletower
+anthropic
 anti-malware
 antimalwarescaninterface
 antispam
 antivirus
 anws
-any
 anypackage
 anypoint
 anywhere
@@ -389,7 +398,6 @@ apigee
 apigeeedge
 apimanagement
 apis
-aplication
 apm
 apmconfig
 apmcontrolplane
@@ -497,6 +505,7 @@ artifact
 artifactory
 artifacts
 artificial-intelligence
+artificialintelligence
 aruba
 as
 asa
@@ -661,6 +670,7 @@ aws-codebuild
 aws-lambda
 aws-vault
 aws.tools.powershell
+awsbedrock
 awscli
 awspricelist
 awx
@@ -755,6 +765,7 @@ azureiot
 azureiothub
 azurekeyvault
 azurekeyvaultstuff
+azuremaps
 azuremigrate
 azuremonitor
 azurenetworking
@@ -854,6 +865,7 @@ beautifier
 beautify
 bec
 beckhoff
+bedrock
 beep
 behavior
 benchmark
@@ -989,11 +1001,9 @@ britannica
 britannicaknowledgesystems
 british-gas
 brk4452
-broadcast
 broadcom
 broot
 brotli
-brownserve-uk
 browser
 browserbox
 browserextension
@@ -1230,6 +1240,7 @@ cimsession
 cinema
 cinst
 cipher
+cipp
 circuit-breaker
 circumlunar
 cireson
@@ -1251,6 +1262,8 @@ classes
 classic
 classification
 classified
+claude
+claude3
 clccontrol
 clccontrolapiv1
 clccontrolapiv2
@@ -1305,6 +1318,7 @@ cloud-backup
 cloud-computing
 cloud-init
 cloud-iq
+cloudai
 cloudant
 cloudbees
 cloudberry
@@ -1326,10 +1340,10 @@ cloudiq
 cloudkey
 cloudmarque
 cloudmigrations
+cloudml
 cloudpc
 cloudservice
 cloudshell
-cloudsync
 clueser
 cluster
 clusterminimumvalues
@@ -1427,6 +1441,7 @@ commandcoverage
 commandhistory
 commandlets
 commandline
+commandr
 commands
 commandsandresource
 commence
@@ -1479,7 +1494,6 @@ concur
 concurrency
 concurrent
 conda
-condition
 conditional
 conditionalaccess
 conduit
@@ -1571,6 +1585,8 @@ conventional-commits
 convereter
 converged_data_management
 conversational
+converse
+converseapi
 conversion
 conversiontool
 convert
@@ -2007,6 +2023,7 @@ devicecode
 deviceid
 devicemanagement
 deviceprovisioningservice
+devicereports
 devices
 deviceupdate
 devolutions
@@ -2446,13 +2463,10 @@ enterprisevoice
 entity
 entityframework
 entra
-entracloudsync
-entraconnect
 entraid
 entraidgovernance
 entropy
 enum
-enumerable
 env
 environment
 environment-variables
@@ -2824,6 +2838,7 @@ fluidrelay
 flurl
 flyway
 fmg
+fms
 focus
 fod
 fog
@@ -2872,6 +2887,7 @@ forum
 forwardcompatibility
 forwardedevents
 foudil
+foundationmodels
 fount
 fount-pwsh
 fountassist
@@ -2914,7 +2930,6 @@ fudgepop
 fujitsu
 full
 full-metal-gnome
-fullclr
 fulljoin
 fullmetalgnome
 fullscreen
@@ -2937,6 +2952,7 @@ gainz
 gainz-chocolateysync
 gainz-keepass
 gainz-sqldb
+gal
 gallery
 game
 gamecategory:cards
@@ -2988,6 +3004,7 @@ genxdev
 geo
 geocache
 geocaching
+geocode
 geoencode
 geoencoding
 geoip
@@ -3004,18 +3021,27 @@ get-credential
 get-criticaltrippoint
 get-currentcputemperature
 get-dellwarranty
+get-devicesorgunitreport
 get-directorycontents
+get-disabledusersreport
+get-domaincontrollerreport
 get-dtcmdevicemodel
 get-dtdriverpack
 get-dtdriverupdates
 get-dtscriptnewcmpackagefromdriverpackpackagedefinitionsms
 get-dtscriptnewcmtasksequencefromdriverpackpackagedefinitionsms
 get-emptyadgroups
+get-expiredusersreport
+get-expiringusersreport
 get-externalip
 get-firmwaretype
 get-help
 get-history
 get-iislog
+get-inactivedevicesreport
+get-inactiveusersreport
+get-lockedusersreport
+get-onlinedevicesreport
 get-openfile
 get-openfiles
 get-pass
@@ -3030,6 +3056,7 @@ get-stalecomps
 get-staleusers
 get-thermalstamp
 get-uptime
+get-usersorgunitreport
 getfirmwareenvironmentvariable
 getfirmwaretype
 ggplot
@@ -3174,6 +3201,7 @@ guardicore
 gubbins
 guest
 guestconfiguration
+guests
 gui
 gui.cs
 guid
@@ -3195,6 +3223,7 @@ hacking
 hacktoberfest
 hadoop
 hafr
+haiku
 hailstone
 haipa
 halo
@@ -3225,14 +3254,11 @@ hardmatch
 hardware
 harperdb
 hartokens
-harvest
-harvestforecast
 hash
 hash-verification
 hashcat
 hashicorp
 hashing
-hashset
 hashtable
 hasicorp
 haskell
@@ -3574,6 +3600,7 @@ inlineimageprotocol
 inlineprogress
 innerjoin
 innertext
+inpainting
 input
 inputbox
 inputobject
@@ -3610,6 +3637,7 @@ integratedscriptingeditor
 integration
 integrationaccount
 integrationruntime
+integrationruntimedependency
 integrationservicescatalog
 integrity
 intel
@@ -3746,6 +3774,7 @@ ivdc
 iwi
 j
 j81-blog
+jamba
 japanese
 jar
 jav
@@ -3811,13 +3840,13 @@ junctions
 junit
 jupyter
 jupytor
+jurassic
 justenoughadministration
 jvm
 jwe
 jwk
 jws
 jwt
-jwttoken
 k8s
 k8sshell
 k8ssnapshots
@@ -3938,8 +3967,10 @@ lan
 landingzones
 language
 language-model
+languageai
 languagedsc
 languageexperiencepack
+languagemodels
 languagepack
 lansweeper
 laps
@@ -4009,6 +4040,7 @@ life
 lifequotes
 lifestyle
 light
+lighthouse
 lights
 lime
 limesurvey
@@ -4019,7 +4051,6 @@ line
 line-endings
 linear
 linearalgebra
-lingeringobjects
 link
 link-capability
 link-preview
@@ -4048,6 +4079,7 @@ literature
 live
 llama
 llama2
+llama3
 lldp
 llm
 lmhost
@@ -4141,10 +4173,8 @@ logonto
 logonuser
 logparser
 logrotate
-logrotation
 logs
 logstash
-logtools
 logz
 loki
 lol
@@ -4185,11 +4215,11 @@ maatschap-fortigi
 mac
 mac-address
 macaddress
-macadmins
 machine
 machine-learning
 machinelearning
 machinelearningcompute
+machinelearningmodels
 machinelearningservices
 macmon
 macos
@@ -4461,6 +4491,8 @@ mirror
 misc
 miscellaneous
 misp
+mistral
+mistralai
 mitigation
 mitre
 mitre_att&ck
@@ -4474,6 +4506,8 @@ mksapiviewer
 ml
 ml.net
 mlflow
+mlmodels
+mltools
 mmdc
 mobile
 mobilenetwork
@@ -4483,7 +4517,7 @@ mocking
 model
 model-management
 modeling
-modify
+models
 module
 module-maintenance
 module-manifest
@@ -4497,6 +4531,8 @@ modulefast
 modulemanagement
 modules
 moduleupdate
+moduleupdateinfo
+moduleupdater
 moduleversion
 mof
 moldova
@@ -4712,7 +4748,6 @@ netcore
 netextender
 netfirewallrule
 netherlands
-netmask
 netpdf
 netpdfps
 nets
@@ -4915,6 +4950,7 @@ octopusdeploy
 octopusenergy
 ocvp
 od4b
+oda
 odata
 odbc
 odfb
@@ -4930,6 +4966,7 @@ office2013
 office2016
 office2019
 office365
+office365managementapi
 officedev
 officegraph
 officemessageencryption
@@ -4969,6 +5006,7 @@ onedrive
 onedriveforbusiness
 oneget
 oneidentity
+onelogin
 oneloginapi
 onenote
 onestools
@@ -5018,6 +5056,7 @@ openssh
 opensshserver
 openssl
 openstack
+openstreetmaps
 openvpn
 openxml
 operating
@@ -5076,6 +5115,7 @@ osdsus
 osdupdate
 osdworkspace
 osi
+osm
 osmanagement
 osmanagementhub
 osp
@@ -5085,7 +5125,6 @@ osprovisioning
 osr
 oss
 ossec
-osubbillingschedule
 osuborganizationsubscription
 osubsubscription
 osubusage
@@ -5106,6 +5145,7 @@ outerjoin
 outertext
 outline
 outlook
+outpainting
 output
 output-to-image
 outreach
@@ -5395,7 +5435,6 @@ port
 port-scanner
 port70
 portal
-porthunter
 ports
 portscan
 porttest
@@ -5488,7 +5527,9 @@ potato
 pow
 powdrgit
 power
+power-apps
 power-cbr
+power-platform
 power-shell
 powerapps
 powerappsportal
@@ -5528,8 +5569,6 @@ powershell-dsc
 powershell-examples
 powershell-gallery
 powershell-github-repo
-powershell-gitlab
-powershell-graphql
 powershell-isprime
 powershell-lightning
 powershell-module
@@ -5545,6 +5584,7 @@ powershell.module.invokewinget
 powershell.one
 powershell.persistentpathstack
 powershell7
+powershellai
 powershellazuresql
 powershellconferenceeurope
 powershellcore
@@ -5555,6 +5595,7 @@ powershellget
 powershellgetformatversion_2.0
 powershellise
 powershelllogger
+powershellml
 powershellmodule
 powershellmoduleupdate
 powershellpr0mpt
@@ -5580,7 +5621,6 @@ pptp
 pptx
 pq
 pranks
-predicate
 prediction
 predictive
 predictive-text
@@ -5711,6 +5751,7 @@ ps1
 ps12exe
 ps1xml
 ps1xmlgen
+ps2dll
 ps2exe
 ps3
 ps4
@@ -7550,7 +7591,6 @@ psedition_macos
 psedition_psedition_core
 psedition_psedition_desktop
 psedition_windows
-psedition-desktop
 psediton_desktop
 psengine
 psenv
@@ -8709,6 +8749,7 @@ publishing
 pubsub
 pubxml
 pulldistributionpoint
+pullrequest
 pullserver
 pulseway
 pulumi
@@ -8772,6 +8813,7 @@ qna
 qol
 qq
 qr
+qr-code
 qrcode
 qrcodes
 qrp
@@ -8789,6 +8831,7 @@ question
 queue
 queues
 queuing
+quick-response
 quickaccess
 quickbase
 quickbooks
@@ -9379,6 +9422,7 @@ section
 secur32
 secure
 secureapplicationmodel
+secureboot
 securechannel
 securedns
 securegopher
@@ -9740,6 +9784,7 @@ songs
 sonicos
 sonicwall
 sonicwallvpn
+sonnet
 sonus
 soon
 soonr
@@ -9893,6 +9938,7 @@ sspr
 ssrs
 ssst
 sstp
+stabilityai
 stache
 stackexchange
 stackhci
@@ -10174,7 +10220,6 @@ taxjar
 taxonomy
 tcg
 tcp
-tcp/ip
 tcpip
 tcpport
 tcprjmgmt
@@ -10278,6 +10323,7 @@ text-to-speech
 text2image
 textanalysis
 textbuffer
+textgeneration
 texting
 texting-emoji
 texting-emojis
@@ -10340,6 +10386,7 @@ tinkerpop
 tinymce
 tip
 tips
+titan
 titanhq
 title
 tld
@@ -10644,10 +10691,13 @@ update-modulemanifest
 update-moduletests
 update-typedata
 updatedeferral
+updatemanagement
+updatemgmt
 updater
 updates
 updateservices
 updmanagement
+updmgmt
 upgrade
 uplift
 uplink
@@ -10692,6 +10742,7 @@ username
 userprofile
 userprofiles
 userprofiletools
+userreports
 userright
 userrights
 userrightsassignment
@@ -10839,7 +10890,6 @@ visualstudioteamservices
 vlan
 vlookup
 vlsc
-vlsm
 vm
 vmc
 vmelamed5
@@ -10951,6 +11001,7 @@ wansi
 wap
 wapack
 wapi
+wara
 warning
 warplaneporn
 warranty
@@ -11025,6 +11076,8 @@ wecutil
 weekday
 wef
 weixin
+well-architectedframework
+well-architectedreliabilityassessment
 well-known
 wem
 wemsdk
@@ -11232,6 +11285,7 @@ workrequests
 worksheet
 workshop
 workspace
+workspacemanager
 workspaceone
 workspaces
 workstation
@@ -11363,6 +11417,7 @@ ynab
 youtube
 youtube-dl
 youtube-transcript
+youtubeextractor
 yq
 yts
 yubaba
