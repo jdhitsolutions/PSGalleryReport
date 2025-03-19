@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Wednesday, 19 March 2025 09:52:02 UTC
+Updated: Wednesday, 19 March 2025 17:52:27 UTC
 
 .bat
 .env
@@ -112,6 +112,7 @@ actifio
 actifiogo
 action
 action1
+actionablemessages
 actiongroup
 actionplan
 actions
@@ -567,6 +568,7 @@ atproto
 atprotocol
 atrium
 att&ck
+attach
 attestation
 attila
 attribute
@@ -575,12 +577,15 @@ au
 audio
 audiocodes
 audit
+auditad
 auditing
+auditnetlogon
 auditpol
 auditpol.exe
 auditpolicies
 auditpolicy
 audits
+auditsysvol
 aumid
 aut
 auth
@@ -624,7 +629,6 @@ automaticpacketreportingsystem
 automation
 automation psmodule
 automationaccount
-automationanywhere
 automationportal
 automationutils
 autonomoussystem
@@ -720,7 +724,6 @@ azure-devops
 azure-forensics
 azure-functions
 azure-pipelines
-azure-resource-graph
 azure-ssis
 azureactivedirectory
 azuread
@@ -765,6 +768,7 @@ azureiothub
 azurekeyvault
 azurekeyvaultstuff
 azuremaps
+azuremigrate
 azuremonitor
 azurenetworking
 azurepack
@@ -835,7 +839,6 @@ basename
 bash
 basic
 bastion
-bat
 batcat
 batch
 batchclass
@@ -1000,7 +1003,6 @@ british-gas
 brk4452
 broadcast
 broadcom
-broot
 brotli
 brownserve-uk
 browser
@@ -1012,7 +1014,6 @@ brs
 bruteforce
 bson
 btdf
-btm
 buddhist
 budget
 bugbounty
@@ -1183,7 +1184,6 @@ chatgpt
 chatops
 chatroom
 chatter
-cheat
 check
 checker
 checklist
@@ -1429,7 +1429,6 @@ columns
 com
 combinations
 combine
-comdata
 comedy
 comic
 comical
@@ -1491,8 +1490,6 @@ computer-site
 computername
 computers
 computersite
-concur
-concurrency
 concurrent
 conda
 condition
@@ -1544,7 +1541,6 @@ connector
 connectorcmd
 connectormanagement
 connectwise
-conservation
 console
 consoleguitools
 consoleimage
@@ -1580,7 +1576,6 @@ continuousintegration
 contrast
 control
 controller
-controlroom
 controlup
 conventional
 conventional-commits
@@ -1748,7 +1743,6 @@ cumulativeupdate
 cumulocity
 curious
 curl
-curlie
 currency
 currency-convereter
 currency-exchange
@@ -1786,6 +1780,7 @@ cyber
 cyberark
 cyberark-api
 cyberark-dpa
+cyberark-identity
 cyberdrain
 cybereason
 cybersecurity
@@ -1849,6 +1844,7 @@ dataconduit
 dataconnectivity
 datadog
 dataexchange
+dataexplorer
 datafactory
 dataflow
 dataflowdependency
@@ -1970,7 +1966,6 @@ deleteuserprofile
 delivery
 dell
 dellemc
-delta
 demand
 demandsignal
 demo
@@ -2189,6 +2184,7 @@ documentencryption
 documenting
 documents
 docusaurus
+docusign
 docx
 dod
 dog
@@ -2296,7 +2292,6 @@ duck
 duckdb
 duckduckgo
 ducktyping
-duf
 dumb
 dummy
 dummyusers
@@ -2313,7 +2308,6 @@ duplicatioin
 duplication
 durable
 durabletask
-dust
 dutch
 dvls
 dvr
@@ -2398,6 +2392,7 @@ eli5
 elitism
 elk
 elm
+elmah-io
 elonmusk
 eloomi
 eloqua
@@ -2566,6 +2561,7 @@ evernote
 everydaypowershell
 everydayrewards
 everything
+evilprince2009
 evolutionary-algorithms
 evolutionary-database
 evtx
@@ -2591,6 +2587,7 @@ exchangeonline
 exchangeonlinemanagement
 exchangeonlineprotection
 exchangeonprem
+exchangerate
 exchangeserver
 exchangewebservices
 exclusion
@@ -2693,7 +2690,6 @@ favorite
 favorites
 fb-pro
 fciv
-fd
 feather
 feature
 features
@@ -2784,6 +2780,7 @@ financeoperations
 finances
 financial
 financialedge
+financials
 find
 find-call
 find-caller
@@ -3079,8 +3076,6 @@ git-lfs
 git-proxy
 git-rename
 git-stat
-gitcmdline
-gitdesktop
 gitea
 gitflow
 gitforwindows
@@ -3143,7 +3138,6 @@ governancerulescontrolplane
 gp
 gpedit
 gpg
-gping
 gpio
 gplink
 gpo
@@ -3222,7 +3216,6 @@ haarlemsdagblad
 hack
 hacking
 hacktoberfest
-hadoop
 hafr
 haiku
 hailstone
@@ -3249,6 +3242,7 @@ hardblock
 harden
 harden-windows-security
 hardening
+hardensysvol
 hardlink
 hardmatch
 hardware
@@ -3447,7 +3441,6 @@ hybrid
 hybridrunbookworker
 hyper-v
 hyperconverged
-hyperfine
 hyperlink
 hyperlinked-text
 hyperthreading
@@ -3504,7 +3497,6 @@ identitydomains
 identitynow
 idf
 idm
-idna
 idrac
 ids
 ie
@@ -3814,7 +3806,6 @@ join-object
 jojoba
 joke
 jokes
-jotform
 journal
 joyride
 jpg
@@ -4862,6 +4853,7 @@ normal
 norskale
 norway
 norwegian
+nos
 nosql
 note
 notebook
@@ -5053,7 +5045,6 @@ openapi
 opendata
 openedge
 openfiles
-opengraph
 openhere
 openholidaysapi
 openid
@@ -5129,6 +5120,7 @@ osdupdate
 osdworkspace
 osi
 osm
+osmanagement
 osmanagementhub
 osp
 ospgateway
@@ -5148,8 +5140,6 @@ ou
 ou-object
 oui
 oui-search
-oura
-ouraring
 out-consolegridview
 out-default
 out-gridview
@@ -5614,7 +5604,6 @@ powershellise
 powershelllogger
 powershellml
 powershellmodule
-powershellmoduleupdate
 powershellpr0mpt
 powershellremoting
 powershellscript
@@ -5645,6 +5634,7 @@ predictive-text
 predictor
 preferences
 prefix
+prefixing
 preparead
 preparealldomains
 prepareschema
@@ -5696,7 +5686,6 @@ processing
 processmitigation
 processor
 procmap
-procs
 producer
 product
 productid
@@ -5768,6 +5757,7 @@ ps1
 ps12exe
 ps1xml
 ps1xmlgen
+ps2dll
 ps2exe
 ps3
 ps4
@@ -8770,7 +8760,6 @@ pullrequest
 pullserver
 pulseway
 pulumi
-punycode
 puppet
 puppetdb
 puppy
@@ -8945,7 +8934,6 @@ recastsoftware
 reckon
 recommendation
 reconcile
-reconnaissance
 record
 recording
 recordings
@@ -9081,7 +9069,6 @@ replace
 replaygain
 replication
 repo
-repoo
 report
 reporting
 reportingservicepoint
@@ -9112,6 +9099,8 @@ resolve-stache
 resolve-template
 resolver
 resource
+resource_monitor
+resource_watcher
 resourcecontroller
 resourcegraph
 resourcegroup
@@ -9160,7 +9149,6 @@ rfc4291
 rfc5952
 rfc826
 rfc9116
-rg
 rgb
 rhapsody
 ribbon
@@ -9171,7 +9159,6 @@ rightjoin
 rights
 rightsizing
 rightsmanagement
-ring
 ripe
 risk
 riskiq
@@ -9219,7 +9206,6 @@ royaldocument
 royalserver
 royalts
 royaltsx
-rpa
 rpc
 rras
 rrd
@@ -9405,7 +9391,6 @@ scrub
 scrubber
 scsm
 scuba
-sd
 sddl
 sdk
 sdn
@@ -9438,7 +9423,6 @@ section
 secur32
 secure
 secureapplicationmodel
-secureboot
 securechannel
 securedns
 securegopher
@@ -9622,7 +9606,6 @@ shell
 shell-art
 shell-integration
 shells
-sherweb
 shieldedvm
 ships
 shipsprovider
@@ -9738,6 +9721,7 @@ smileys
 smimeemail
 smimeimap
 smimepop
+smlets
 smo
 smorgasbord
 sms
@@ -9997,6 +9981,7 @@ statistics
 stats
 statsd
 status
+status_watcher
 statuscake
 statuscode
 statusmonitor
@@ -10198,7 +10183,6 @@ tabexpansion2
 tablacus
 table
 tableau
-tableauserver
 tableauworkbook
 tabler
 tables
@@ -10271,6 +10255,7 @@ telegram-bot-api
 telegram-sticker
 telegramx
 telemetry
+teletext
 telligent
 telnet
 temp
@@ -10318,6 +10303,7 @@ test123
 testaccount
 testautomation
 tester
+testimonial
 testing
 testlab
 testplans
@@ -10450,6 +10436,7 @@ torrents
 toshiba
 totp
 touch
+toughswitch
 tower
 tphubps
 tpm
@@ -10611,7 +10598,6 @@ ud-minesweeper
 ud-mouseparticle
 ud-navbarsearch
 ud-numbermask
-ud-orgchart
 ud-piechart3d
 ud-pivottable
 ud-progressstepbar
@@ -11018,7 +11004,6 @@ wansi
 wap
 wapack
 wapi
-wara
 warning
 warplaneporn
 warranty
@@ -11059,7 +11044,6 @@ webdav
 webdeploy
 webdeveloper
 webfrequest
-webhdfs
 webhelpdesk
 webhistory
 webhook
@@ -11093,8 +11077,6 @@ wecutil
 weekday
 wef
 weixin
-well-architectedframework
-well-architectedreliabilityassessment
 well-known
 wem
 wemsdk
@@ -11388,7 +11370,6 @@ xendeskop
 xendesktop
 xero
 xevents
-xh
 xi
 xiaomi
 xin
@@ -11464,7 +11445,6 @@ zoomapi
 zoommeeting
 zorus
 zorusapi
-zoxide
 zpr
 zsh
 zuora
@@ -11475,6 +11455,7 @@ zypper
 カタカナ
 ひらがな
 ローマ字
+全角半角変換
 寿司
 日本語
 湯婆婆
