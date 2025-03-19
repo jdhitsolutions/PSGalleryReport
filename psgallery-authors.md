@@ -6,28 +6,28 @@ This report does not include pre-release modules and be aware that not every mod
 
 Internal navigation links may not work in the PDF version of this report.
 + [Worxspace](#Worxspace) (185)
-+ [psdevuk](#psdevuk) (105)
++ [psdevuk](#psdevuk) (104)
 + [Broadcom](#Broadcom) (89)
-+ [Przemyslaw Klys](#Przemyslaw-Klys) (84)
-+ [Texas Roemer](#Texas-Roemer) (77)
++ [Przemyslaw Klys](#Przemyslaw-Klys) (83)
++ [Texas Roemer](#Texas-Roemer) (78)
 + [Friedrich Weinmann](#Friedrich-Weinmann) (66)
 + [Adam Driscoll](#Adam-Driscoll) (57)
-+ [Pawel Wujczyk](#Pawel-Wujczyk) (53)
 + [Pwshrc Maintainers](#Pwshrc-Maintainers) (53)
-+ [Jan Hoek](#Jan-Hoek) (51)
++ [Pawel Wujczyk](#Pawel-Wujczyk) (53)
++ [Jan Hoek](#Jan-Hoek) (52)
 + [James Brundage](#James-Brundage) (50)
-+ [Ironman Software](#Ironman-Software) (43)
-+ [PSModule](#PSModule) (42)
++ [Ironman Software](#Ironman-Software) (44)
++ [PSModule](#PSModule) (43)
 + [John.Leyva](#JohnLeyva) (39)
 + [Jeff Hicks](#Jeff-Hicks) (38)
 + [Roger Brown](#Roger-Brown) (37)
-+ [Akamai Technologies Ltd.](#Akamai-Technologies-Ltd) (34)
++ [Akamai Technologies Ltd.](#Akamai-Technologies-Ltd) (35)
 + [Adam Bacon](#Adam-Bacon) (32)
-+ [Michael Haken](#Michael-Haken) (31)
 + [owen.heaume](#owenheaume) (31)
++ [Michael Haken](#Michael-Haken) (30)
 + [Andreas Eulitz](#Andreas-Eulitz) (29)
 + [Mark5900](#Mark5900) (29)
-+ [Michal Gajda](#Michal-Gajda) (27)
++ [Michal Gajda](#Michal-Gajda) (28)
 + [WebMD Health Services](#WebMD-Health-Services) (26)
 + [mkht](#mkht) (25)
 
@@ -35,11 +35,11 @@ Internal navigation links may not work in the PDF version of this report.
 
 + **[pspulumiyaml.azurenative 0.0.4](https://github.com/worxspace/PSPulumiYaml)**  - Parent module containing all Azure Native modules required to create YAML/JSON definitions for pulumi [*06/26/2022 06:32:46*]
 + **pspulumiyaml.azurenative.digitaltwins 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 06:25:32*]
-+ **pspulumiyaml.azurenative.windowsesu 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:10:01*]
 + **pspulumiyaml.azurenative.webpubsub 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:10:01*]
++ **pspulumiyaml.azurenative.windowsesu 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:10:01*]
 + **pspulumiyaml.azurenative.vmwarecloudsimple 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:10:00*]
-+ **pspulumiyaml.azurenative.virtualmachineimages 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:10:00*]
 + **pspulumiyaml.azurenative.sql 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:10:00*]
++ **pspulumiyaml.azurenative.virtualmachineimages 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:10:00*]
 + **pspulumiyaml.azurenative.windowsiot 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:09:59*]
 + **pspulumiyaml.azurenative.videoanalyzer 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:09:59*]
 + **pspulumiyaml.azurenative.testbase 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:09:58*]
@@ -51,20 +51,19 @@ Internal navigation links may not work in the PDF version of this report.
 + **pspulumiyaml.azurenative.solutions 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:09:50*]
 + **pspulumiyaml.azurenative.synapse 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:09:49*]
 + **pspulumiyaml.azurenative.storagesync 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:09:47*]
-+ **pspulumiyaml.azurenative.storagecache 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:09:45*]
 + **pspulumiyaml.azurenative.sqlvirtualmachine 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:09:45*]
++ **pspulumiyaml.azurenative.storagecache 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:09:45*]
 + **pspulumiyaml.azurenative.storsimple 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:09:43*]
 + **pspulumiyaml.azurenative.storage 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:09:40*]
 + **pspulumiyaml.azurenative.storagepool 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:09:39*]
 + **pspulumiyaml.azurenative.streamanalytics 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:09:38*]
 + **pspulumiyaml.azurenative.subscription 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:09:37*]
-+ **pspulumiyaml.azurenative.signalrservice 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:09:18*]
 + **pspulumiyaml.azurenative.servicelinker 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:09:18*]
++ **pspulumiyaml.azurenative.signalrservice 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:09:18*]
 + **pspulumiyaml.azurenative.scvmm 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:09:16*]
 + **pspulumiyaml.azurenative.resourceconnector 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:09:15*]
 + **pspulumiyaml.azurenative.servicebus 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:09:12*]
 + **pspulumiyaml.azurenative.relay 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:09:11*]
-+ **pspulumiyaml.azurenative.securityinsights 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:09:10*]
 + **pspulumiyaml.azurenative.resources 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:09:10*]
 + **pspulumiyaml.azurenative.serialconsole 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:09:09*]
 + **pspulumiyaml.azurenative.security 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:09:08*]
@@ -93,10 +92,9 @@ Internal navigation links may not work in the PDF version of this report.
 + **pspulumiyaml.azurenative.powerbi 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:08:25*]
 + **pspulumiyaml.azurenative.operationsmanagement 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:08:24*]
 + **pspulumiyaml.azurenative.powerbidedicated 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:08:23*]
-+ **pspulumiyaml.azurenative.networkfunction 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:08:18*]
 + **pspulumiyaml.azurenative.network 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:08:18*]
++ **pspulumiyaml.azurenative.networkfunction 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:08:18*]
 + **pspulumiyaml.azurenative.orbital 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:08:16*]
-+ **pspulumiyaml.azurenative.management 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:08:01*]
 + **pspulumiyaml.azurenative.netapp 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:07:56*]
 + **pspulumiyaml.azurenative.mobilenetwork 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:07:54*]
 + **pspulumiyaml.azurenative.media 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:07:53*]
@@ -110,6 +108,7 @@ Internal navigation links may not work in the PDF version of this report.
 + **pspulumiyaml.azurenative.managedidentity 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:07:25*]
 + **pspulumiyaml.azurenative.machinelearningservices 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:07:20*]
 + **pspulumiyaml.azurenative.maintenance 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:07:09*]
++ **pspulumiyaml.azurenative.logic 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:07:03*]
 + **pspulumiyaml.azurenative.insights 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:07:03*]
 + **pspulumiyaml.azurenative.machinelearningcompute 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:07:01*]
 + **pspulumiyaml.azurenative.kubernetesconfiguration 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:07:00*]
@@ -132,14 +131,14 @@ Internal navigation links may not work in the PDF version of this report.
 + **pspulumiyaml.azurenative.keyvault 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:06:23*]
 + **pspulumiyaml.azurenative.hybriddata 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:06:22*]
 + **pspulumiyaml.azurenative.hdinsight 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:06:21*]
-+ **pspulumiyaml.azurenative.importexport 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:06:20*]
 + **pspulumiyaml.azurenative.hardwaresecuritymodules 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:06:20*]
-+ **pspulumiyaml.azurenative.healthbot 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:06:19*]
++ **pspulumiyaml.azurenative.importexport 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:06:20*]
 + **pspulumiyaml.azurenative.iotsecurity 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:06:18*]
 + **pspulumiyaml.azurenative.healthcareapis 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:06:17*]
 + **pspulumiyaml.azurenative.enterpriseknowledgegraph 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:06:14*]
 + **pspulumiyaml.azurenative.hybridconnectivity 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:06:11*]
 + **pspulumiyaml.azurenative.features 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:06:09*]
++ **pspulumiyaml.azurenative.hanaonazure 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:06:09*]
 + **pspulumiyaml.azurenative.eventhub 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:06:07*]
 + **pspulumiyaml.azurenative.education 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:06:06*]
 + **pspulumiyaml.azurenative.intune 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:06:05*]
@@ -174,20 +173,21 @@ Internal navigation links may not work in the PDF version of this report.
 + **pspulumiyaml.azurenative.billing 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:03:52*]
 + **pspulumiyaml.azurenative.customerinsights 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:03:50*]
 + **pspulumiyaml.azurenative.connectedvmwarevsphere 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:03:49*]
-+ **pspulumiyaml.azurenative.databoxedge 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:03:44*]
 + **pspulumiyaml.azurenative.cognitiveservices 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:03:44*]
++ **pspulumiyaml.azurenative.databoxedge 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:03:44*]
 + **pspulumiyaml.azurenative.containerregistry 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:03:42*]
 + **pspulumiyaml.azurenative.dashboard 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:03:42*]
 + **pspulumiyaml.azurenative.databox 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:03:41*]
 + **pspulumiyaml.azurenative.costmanagement 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:03:41*]
++ **pspulumiyaml.azurenative.consumption 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:03:40*]
 + **pspulumiyaml.azurenative.automation 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:03:37*]
 + **pspulumiyaml.azurenative.changeanalysis 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:03:37*]
-+ **pspulumiyaml.azurenative.databricks 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:03:35*]
 + **pspulumiyaml.azurenative.blueprint 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:03:35*]
++ **pspulumiyaml.azurenative.databricks 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:03:35*]
 + **pspulumiyaml.azurenative.certificateregistration 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:03:34*]
 + **pspulumiyaml.azurenative.cache 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:03:33*]
-+ **pspulumiyaml.azurenative.azurearcdata 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:03:32*]
 + **pspulumiyaml.azurenative.batch 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:03:32*]
++ **pspulumiyaml.azurenative.azurearcdata 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:03:32*]
 + **pspulumiyaml.azurenative.agfoodplatform 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:03:30*]
 + **pspulumiyaml.azurenative.communication 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:03:29*]
 + **pspulumiyaml.azurenative.automanage 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:03:28*]
@@ -196,12 +196,12 @@ Internal navigation links may not work in the PDF version of this report.
 + **pspulumiyaml.azurenative.containerinstance 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:03:23*]
 + **pspulumiyaml.azurenative.confidentialledger 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:03:23*]
 + **pspulumiyaml.azurenative.azurestackhci 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:03:21*]
-+ **pspulumiyaml.azurenative.authorization 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:03:16*]
 + **pspulumiyaml.azurenative.autonomousdevelopmentplatform 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:03:16*]
++ **pspulumiyaml.azurenative.authorization 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:03:16*]
 + **pspulumiyaml.azurenative.azurestack 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:03:15*]
 + **pspulumiyaml.azurenative.apimanagement 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:03:14*]
-+ **pspulumiyaml.azurenative.customproviders 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:03:13*]
 + **pspulumiyaml.azurenative.app 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:03:13*]
++ **pspulumiyaml.azurenative.customproviders 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:03:13*]
 + **pspulumiyaml.azurenative.chaos 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:03:11*]
 + **pspulumiyaml.azurenative.avs 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:03:10*]
 + **pspulumiyaml.azurenative.attestation 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:03:07*]
@@ -223,6 +223,7 @@ Internal navigation links may not work in the PDF version of this report.
 
 + **[UDFullScreen 1.0.1](https://github.com/psDevUK/UDFullScreen)**  - Gives the ability of displaying your dashboard in a full-screen mode [*09/26/2022 19:36:45*]
 + **[UDLinkPreview 1.0.1](https://github.com/psDevUK/UDLinkPreview)**  - Adds a link preview to the URL you supply to the component. This is very similar to how social-media sites now display hyperlinks [*09/23/2022 17:30:48*]
++ **[UDTestimonial 1.0.1](https://github.com/psDevUK/UDTestimonial)**  - A component to create a really nice testimonial [*09/20/2022 13:25:18*]
 + **[UDFAQ 1.0.1](https://github.com/psDevUK/UDFAQ)**  - Inspired by https://www.npmjs.com/package/react-faq-component to bring this component to Powershell Universal [*09/20/2022 08:58:48*]
 + **[UDReadTime 1.0.1](https://github.com/psDevUK/UDReadTime)**  - Adds an estimated time to read on your page with custom text, also the option to display the amount of words and custom message. Seen on most blog sites, showing an estimation of the reading time [*09/19/2022 14:33:45*]
 + **[UDWizardry 1.0.1](https://github.com/psDevUK/UDWizardry)**  - Complete wizard component including input fields and validation, keeps data going back [*09/18/2022 17:48:48*]
@@ -289,7 +290,6 @@ Internal navigation links may not work in the PDF version of this report.
 + **[UniversalDashboard.GoogleHistogram 1.0.1](https://github.com/psDevUK/New-GoogleHistogram)**  - Adds a Google Histogram Chart to UniversalDashboard [*05/06/2020 05:11:05*]
 + **[UniversalDashboard.UDPieChart3D 1.0.2](https://github.com/psDevUK/New-UDPieChart3D)**  - Google 3D PieChart for UniversalDashboard [*05/04/2020 18:27:51*]
 + **[UniversalDashboard.GoogleSankey 1.0.0](https://github.com/psDevUK/Google-Sankey)**  - Adds a Google Sankey Chart to UniversalDashboard [*05/01/2020 14:16:07*]
-+ **[UniversalDashboard.UDOrgChart 1.0.0](https://github.com/psDevUK/New-UDOrgChart)**  - Adds a google orgchart to your dashboard [*04/30/2020 19:04:11*]
 + **[UniversalDashboard.UDField 1.0.1](https://github.com/psDevUK/UD-Field.git)**  - Allows creation of an input field that is bound to UniversalDashboard [*04/24/2020 15:43:33*]
 + **UniversalDashboard.UDWindowUI 1.0.0**  - Styled window card that can be resized [*04/23/2020 19:51:47*]
 + **[UniversalDashboard.UDTimeOut 1.0.0](https://github.com/psDevUK/UD-TimeOut.git)**  - Allows you to define a timeout idle period [*04/16/2020 21:42:39*]
@@ -312,7 +312,6 @@ Internal navigation links may not work in the PDF version of this report.
 + **[UniversalDashboard.UDIndicator 1.0.0](https://github.com/psDevUK/UDIndicator/tree/master/src/output/UniversalDashboard.UDIndicator)**  - Adds a graphical indicator to your dashboard [*11/25/2019 21:06:26*]
 + **[UniversalDashboard.UDDatePicker 1.0.0](https://github.com/psDevUK/New-UDDatePicker)**  - Allows you to select between a start and an end date [*11/08/2019 15:35:35*]
 + **UniversalDashboard.UDCircle 1.0.0**  - Adds an SVG Circle Chart showing percentage in the middle [*10/29/2019 22:57:03*]
-+ **UniversalDashboard.UDSprite 1.0.0**  - Allows you to animate a spritesheet [*10/29/2019 22:23:16*]
 + **[UniversalDashboard.UDImageFX 1.0.0](https://github.com/psDevUK/UDImageFX)**  - Adds various image effects to your images [*10/24/2019 22:11:48*]
 + **[UDFeedBack 1.0.0](https://github.com/psDevUK/UDFeedBack)**  - UDFeedBack gives a way to leave feedback [*10/21/2019 18:29:38*]
 + **[UniversalDashboard.UDSpinner 1.0.1](https://github.com/psDevUK/UDSpinner)**  - Copy of https://github.com/dmitrymorozoff/react-spinners-kit for powershell universaldashboard [*10/14/2019 19:06:02*]
@@ -436,7 +435,6 @@ Internal navigation links may not work in the PDF version of this report.
 + **[PSWordPress 0.0.3](https://github.com/EvotecIT/PSWordPress)**  - Module that allows interacting with WordPress via its Rest API [*12/17/2024 11:18:38*]
 + **[PowerAdobe 1.0.5](https://github.com/EvotecIT/PowerAdobe)**  - PowerAdobe is an unofficial PowerShell module for Adobe API. [*12/13/2024 07:43:37*]
 + **[GPOZaurr 1.1.9](https://github.com/EvotecIT/GPOZaurr)**  - Group Policy Eater is a PowerShell module that aims to gather information about Group Policies but also allows fixing issues that you may find in them. [*12/02/2024 22:05:55*]
-+ **CertNoob 0.1.0**  - Simple project CertNoob [*12/02/2024 16:37:50*]
 + **[PSEventViewer 2.4.3](https://github.com/EvotecIT/PSEventViewer)**  - Simple module allowing parsing of event logs. Has its own quirks... [*11/26/2024 10:04:17*]
 + **[DnsClientX 0.3.4](https://github.com/EvotecIT/DnsClientX)**  - DnsClientX is PowerShell module that allows you to query DNS servers for information. It supports DNS over UDP, TCP and DNS over HTTPS (DoH) and DNS over TLS (DoT). It supports multiple types of DNS queries and can be used to query public DNS servers, private DNS servers and has built-in DNS Providers. [*11/25/2024 16:26:52*]
 + **[Updatomatic 0.6.0](https://github.com/EvotecIT/Updatomatic)**  - Simple project Updatomatic [*11/21/2024 18:37:38*]
@@ -541,6 +539,7 @@ In new version you now have ability to send notificatins to Microsoft Teams, Sla
 + **Invoke-StorageImportClearForeignConfigREDFISH 2.0.0**  - Cmdlet using iDRAC with Redfish OEM extension to either get storage controllers, get virtual disks, get physical disks, clear foreign or import foreign configuration. [*11/22/2024 21:06:20*]
 + **Invoke-StorageConvertDiskRaidNonRaidREDFISH 2.0.0**  - Cmdlet using iDRAC with Redfish OEM extension to either get storage controllers, get physical disks, convert drive to RAID(ready state) or non RAID. [*11/22/2024 21:04:29*]
 + **Invoke-StorageChangeVdPdStateREDFISH 2.0.0**  - Cmdlet using iDRAC with Redfish OEM extension to get storage controllers/physical disks/virtual disks or change the PD state of a disk part of a virtual disk, either set the disk to offline or bring back online. [*11/22/2024 21:04:00*]
++ **Invoke-SecureEraseDeviceREDFISH 7.0.0**  - iDRAC cmdlet using Redfish API to either get storage controllers, get supported secure erase devices or secure erase devices using iDRAC Redfish API. [*11/22/2024 21:01:12*]
 + **Invoke-ResetIdracDefaultSettingsREDFISH 2.0.0**  - iDRAC cmdlet used to reset iDRAC back to default settings. Note: this cmdlet is only supported on iDRAC9 or newer versions. [*11/22/2024 20:57:43*]
 + **Invoke-ReplaceCertificateREDFISH 7.0.0**  - iDRAC cmdlet using Redfish API to either get current iDRAC certs or replace certificate for iDRAC. [*11/22/2024 20:57:18*]
 + **Invoke-RemoteDiagsREDFISH 1.0.0**  - iDRAC cmdlet using Redfish API with OEM extension to execute remote diagnostics on the server hardware. [*11/22/2024 20:56:46*]
@@ -590,6 +589,7 @@ In new version you now have ability to send notificatins to Microsoft Teams, Sla
 
 ## Friedrich Weinmann
 
++ **[EntraAuth 1.6.33](https://github.com/FriedrichWeinmann/EntraAuth)**  - Get Tokens from Entra ID [*03/10/2025 09:27:30*]
 + **[ADSec 1.0.4](https://github.com/PSSecTools/ADSec)**  - Module to manage Active Directory Security [*01/23/2025 08:39:30*]
 + **[PSFramework.NuGet 0.9.2](https://github.com/PowershellFrameworkCollective/PSFramework.NuGet)**  - A wrapper around the PowerShellGet modules [*01/17/2025 10:24:24*]
 + **[ForestManagement 1.5.78](https://admf.one/)**  - Infrastructure module to build and maintain forest configuration [*12/13/2024 09:44:34*]
@@ -610,7 +610,6 @@ In new version you now have ability to send notificatins to Microsoft Teams, Sla
 + **[string 1.1.5](https://github.com/FriedrichWeinmann/string)**  - Module to execute script operations [*03/11/2024 09:04:27*]
 + **[JeaCertificateManager 1.0.0](https://github.com/FriedrichWeinmann/JeaCertificateManager)**  - JEA-Based Remoting Endpoint to help delegate certificate management [*01/24/2024 16:23:33*]
 + **[PkiExtension 1.0.0](https://github.com/FriedrichWeinmann/PkiExtension)**  - Extends the core feature set of the PKI Module [*01/22/2024 18:21:54*]
-+ **[ADMF 1.13.100](https://admf.one/)**  - Central Management Component of the Active Directory Management Framework [*01/12/2024 10:46:39*]
 + **[PSNative 1.0.1](https://github.com/FriedrichWeinmann/PSNative)**  - Invoke native commands in a useful manner [*12/05/2023 17:35:42*]
 + **[Psmd.Bootstrap 1.0.3](https://github.com/PowershellFrameworkCollective/Psmd.Bootstrap)**  - Tools for creating self-expanding bootstrap scripts [*09/23/2023 20:06:48*]
 + **PSMD.OpenAI 1.0.1**  - Developer Tools utilizing Azure Open AI [*06/12/2023 14:30:38*]
@@ -717,62 +716,6 @@ In new version you now have ability to send notificatins to Microsoft Teams, Sla
 + **[AMSI 1.0.9](https://github.com/adamdriscoll/amsi)**  - PowerShell wrapper for the Antimalware Scan Interface [*08/19/2016 13:57:24*]
 + **LoremIpsum 1.0**  - Generates Lorem Ipsum text. [*04/04/2016 02:11:30*]
 
-## Pawel Wujczyk
-
-+ **ProductivityTools.DirectoryReverseOrder 0.0.1**  - Set the leading number to the directory [*12/05/2024 21:48:58*]
-+ **ProductivityTools.FindPhotographDuplicates 0.0.5**  - It finds all photographs in the master and the slave directory, after this it compares them by date and time taken and optionally by size and name. It can then remove all duplicates or return paths to duplicates. Before removing pictures can be checked in compare directory [*04/07/2024 07:15:14*]
-+ **[ProductivityTools.Feedback 0.0.20](http://productivitytools.tech/display-position/)**  - It is a cmdlet which allows to save quick feedbacks about the team [*01/25/2024 21:40:19*]
-+ **[ProductivityTools.TeamManagement 0.0.13](http://productivitytools.tech/display-position/)**  - It is a cmdlet which allows to save quick feedbacks about the team [*11/10/2023 18:48:35*]
-+ **[ProductivityTools.RemoveModules 0.0.14](https://github.com/pwujczyk/ProductivityTools.RemoveModules)**  - Module allows to remove modules [*02/13/2023 17:16:50*]
-+ **ProductivityTools.PublishReadmeToWordpress 0.0.5**  - It publishes Readme file to the wordpress [*02/11/2023 21:27:07*]
-+ **[ProductivityTools.GetTask3 0.0.25](http://productivitytools.tech/xx/)**  - It is a cmdlet which allows to manage tasks from powershell [*02/09/2023 06:40:24*]
-+ **[ProductivityTools.SetPhotographNameAsDateTimeTaken 0.0.8](http://productivitytools.tech/set-photographnameasdatetimetaken/)**  - Module extracts date and time from picture and change name of the picture to it. It uses format yyyy.MM.dd_hh.mm (2013.08.30_13.08.31). [*12/23/2022 10:35:35*]
-+ **ProductivityTools.CloneGithubRepositories 0.0.6**  - Module connect to your github account and download all repositories. [*12/18/2022 13:36:16*]
-+ **[ProductivityTools.GetServiceDescription 0.0.5](https://www.powershellgallery.com/packages/ProductivityTools.GetServiceDescription)**  - Gets service description for service name [*06/18/2022 13:52:37*]
-+ **[ProductivityTools.SQLServerColumnDescription 0.0.5](http://productivitytools.tech/sql-server-column-description/)**  - Module allows to display description from column in SQL server. It also allows to generate md files [*04/23/2022 20:35:32*]
-+ **[ProductivityTools.NewTemporaryDirectory 0.0.2](http://productivitytools.tech/new-temporarydirectory/)**  - Creates random directory in the temporary folder [*04/03/2022 18:59:32*]
-+ **[Start-Application 0.0.7](http://www.productivitytools.tech/start-application/)**  - Not working currently [*12/18/2021 19:54:22*]
-+ **[ProductivityTools.ConvertDocuments 1.0.12](http://productivitytools.tech/convert-documents/)**  - Converts Word Documents to HTML and Markdown and Markdown to HTML and Docx [*12/18/2021 19:46:37*]
-+ **ProductivityTools.Transfers 0.0.1**  - Module sumarrizes and saves transfers to database, not production ready [*09/19/2021 16:23:38*]
-+ **[ProductivityTools.PSDbUp 0.0.6](http://www.productivitytools.tech/psdbup/)**  - Module wraps DbUp functionality in to convinient to use function. To invoke it you need to provide, SqlServer instance name and SqlServer database name. If you want you can provide schema for log table (if not default dbo), and path to scripts (if not provided - current directory) [*09/18/2021 20:23:36*]
-+ **[ProductivityTools.CloudItems 0.0.8](http://productivitytools.tech/cloud-blobs/)**  - Module allows to push directories and files to azure in the simplest way possible [*09/05/2021 19:20:55*]
-+ **[ProductivityTools.AzureAutomation 0.0.7](http://productivitytools.tech/ss/)**  - Abstract layer on the Powershell azure cmdlets. [*09/04/2021 19:51:45*]
-+ **[ProductivityTools.FindPictures 0.0.3](http://productivitytools.tech/find-pictures/)**  - Module finds pictures without date time creation, which often means that this is not photo but picture [*06/22/2021 11:46:45*]
-+ **[ProductivityTools.GetBinaryModuleFileList 0.0.2](http://productivitytools.tech/get-binary-module-filelist/)**  - Module prints list of files which can be copied to the psd1 powershell manifest file. [*06/19/2021 19:18:56*]
-+ **[ProductivityTools.BackupBookmarksChrome 0.0.12](http://productivitytools.tech/backup-bookmarks-chrome/)**  - It gets the current user Chrome Bookmarks and copy it to given directory [*06/18/2021 12:07:09*]
-+ **[ProductivityTools.CopyItemDirectoryRepeatable 1.0.5](http://productivitytools.tech/copy-itemdirectoryrepeatable/)**  - It performs a copy between the directories. The difference between this and single copy-item is repeatable of the result. Every time you will use copy-item the same result will occur [*06/17/2021 16:15:32*]
-+ **[ProductivityTools.InstallService 1.0.12](http://productivitytools.tech/install-service/)**  - Install/uninstall Windows service using InstallUtil.exe tool. [*05/07/2021 12:42:21*]
-+ **[ProductivityTools.BackupBookmarksIE 1.0.6](http://productivitytools.tech/backup-bookmarks-ie/)**  - It gets the Internet Explore bookmark directory from registry and next copies the content to given path. To check correctness it calculates amount of items in the source and in the destination directory. [*05/07/2021 12:12:40*]
-+ **[ProductivityTools.InstallModuleIfMissing 1.0.12](http://productivitytools.tech/install-module-if-missing/)**  - This simple module checks if module which name is provided is installed. If not it executes Install-Module cmdlet. [*05/06/2021 13:20:46*]
-+ **[ProductivityTools.SelectSQLView 0.0.16](http://productivitytools.tech/select-sql-view/)**  - It allows to quickly select view or table from SQL Server. It saves database and server name in configuration so the shortest way of using it is Select-SQLView tableName [*05/05/2021 11:07:04*]
-+ **[ProductivityTools.Bitcoin 0.0.3](http://www.cryptoslides.tech/)**  - Module is written to demonstrate basics of the Bitcoin technology [*04/26/2021 11:41:09*]
-+ **[ProductivityTools.DisplayPosition 0.0.7](http://productivitytools.tech/display-position/)**  - Allows to change position of external display [*04/26/2021 11:11:08*]
-+ **[ProductivityTools.PublishNugetToGallery 0.0.7](http://productivitytools.tech/publish-nuget-to-gallery/)**  - Publishes nuget package to nuget.org website [*04/22/2021 15:10:38*]
-+ **[ProductivityTools.BackupBitlockerKeys 0.0.12](http://productivitytools.tech/backup-bitlockerkeys/)**  - It gets all drives which are bitlocker protected and saves recovery keys in some localization [*04/22/2021 14:47:30*]
-+ **[ProductivityTools.SetLockScreen 0.0.9](http://productivitytools.tech/set-lockscreen/)**  - Module allows to set lock screen from powershell to your custom image [*04/22/2021 14:06:13*]
-+ **ProductivityTools.TestIfAdmin 0.0.2**  - Module returns information if current user is administrator [*04/22/2021 13:03:24*]
-+ **[ProductivityTools.TestCommandExists 1.0.4](https://github.com/pwujczyk/ProductivityTools.PSTestCommandExists/)**  - Module checks if method/function exists in Powershell. [*04/22/2021 12:24:27*]
-+ **[ProductivityTools.SetLockDisplayTimeout 0.0.5](http://productivitytools.tech/SetLockDisplayTimeout/)**  - Module sets up the inactivity time after which lock screen will show up. [*04/22/2021 11:55:23*]
-+ **[ProductivityTools.DisableFileSyncNGSC 1.0.4](https://github.com/pwujczyk/ProductivityTools.PSDisableFileSyncNGSC)**  - Flag DisableFileSyncNGSC stops OneDrive syncronization. This module sets it to 0 so it enables sync again [*04/22/2021 11:52:06*]
-+ **[ProductivityTools.NewAliasSafe 0.0.3](https://github.com/pwujczyk/ProductivityTools.PSNewAliasSafe)**  - It creates new alias, but before it  it checks if alias currently exists. If yes and it is pointing to the same command it do nothing if alias points to different command it throws exception. [*04/22/2021 11:48:22*]
-+ **[ProductivityTools.ImportExcelToSQL 0.0.5](http://productivitytools.tech/import-excel-to-sql/)**  - Module takes all excel files in given directory and push the content to database. [*04/22/2021 11:34:51*]
-+ **[ProductivityTools.SaveLoginAndPasswordForFortiClient 0.0.3](https://github.com/pwujczyk/ProductivityTools.PSSaveLoginAndPasswordForFortiClient)**  - Changes the registry to allow user to save password to all FortiClient connections. [*04/22/2021 11:27:00*]
-+ **ProductivityTools.Bank.Inteligo 0.0.10**  - It is a module which opens polish bank Inteligo gets account balances and displays it or save to the database. It is temporary product. [*04/10/2021 19:55:34*]
-+ **ProductivityTools.TrainingLog.Endomondo 0.0.2**  - Module allows to import Endomondo trainings to TrainingLog application [*03/17/2021 19:59:14*]
-+ **[ProductivityTools.CloneGitRepositories 0.0.2](http://productivitytools.tech/clone-git-repositories/)**  - Module allows to copy list of repositories to given location. [*03/16/2021 08:42:27*]
-+ **[ProductivityTools.SportsTracker 0.0.5](http://productivitytools.tech/display-position/)**  - PowerShell module which allows to manage trainings on the https://sports-tracker.com/ website. [*02/28/2021 22:05:39*]
-+ **[EcoVadis.AzureDevOps 0.0.24](https://github.com/pwujczyk/EcoVadis.AzureDevOps)**  - Creates item in the stealing category in the EcoVadis TFS. [*02/11/2021 13:55:52*]
-+ **[ProductivityTools.ConvertTcx2Gpx 0.0.10](http://productivitytools.tech/convert-tcx-to-gpx/)**  - Module was created to convert all trainings exported from Endomondo (tcx) to gpx format. It takes directory in which tcx files are placed and convert them to gpx with the GPS Babel utility [*01/29/2021 19:40:09*]
-+ **[ProductivityTools.TCX2GPXConverter 0.0.1](http://productivitytools.tech/import-modulesfromdirectory/)**  - Module was created to convert all trainings exported from Endomondo (tcx) to gpx format. It takes directory in which tcx files are placed and convert them to gpx with the GPS Babel utility [*01/13/2021 07:38:48*]
-+ **[ProductivityTools.ImportModulesFromDirectory 0.0.7](http://productivitytools.tech/import-modulesfromdirectory/)**  - Scans directory for modules (psm1 files) and perform Import-Module on them. [*11/18/2020 10:06:58*]
-+ **[ProductivityTools.GetOneDriveDirectory 1.0.6](http://productivitytools.tech/get-onedrivedirectory/)**  - Module returns path to the OneDrive (Personal or Business) directory. To do it it searches Registry. [*11/17/2020 21:20:03*]
-+ **[ProductivityTools.GetCurrentWifiPassword 0.0.4](http://productivitytools.tech/get-current-wi-fi-password/)**  - It returns current wifi password [*11/16/2020 21:30:17*]
-+ **[ProductivityTools.GetDateName 1.0.4](http://www.productivitytools.tech/Get-DateName/)**  - It returns string value in the format yyyy.MM.dd.hh.mm.ss. For example 2017.12.02.08.56.16. [*11/16/2020 19:38:49*]
-+ **[ProductivityTools.GetExternalIP 0.0.4](http://productivitytools.tech/get-externalip/)**  - The module returns the external IP address of the requesting computer. It uses http://ifconfig.me/ip address to get the data [*11/16/2020 19:36:23*]
-+ **[ProductivityTools.MasterConfiguration 0.2.5](http://productivitytools.tech/powershell-master-configuration/)**  - Module allows to store configuration for the PowerShell in a one single file. [*11/15/2020 21:32:41*]
-+ **[ProductivityTools.SQLCommands 0.0.11](http://productivitytools.tech/sql-commands/)**  - Most popular SQL commands changed into handy commands. With command creating database, schema, table and columns is easy [*11/15/2020 05:31:54*]
-+ **[ProductivityTools.PSStartApplication 0.0.6](http://www.productivitytools.tech/start-application/)**  - StartApplication is an application launcher. It stores path to different applications in the xml and allows to run program in convenient way. [*02/01/2019 22:54:17*]
-
 ## Pwshrc Maintainers
 
 + **[poshy-wrap-systemctl 0.3.0](https://github.com/pwshrc/poshy-wrap-systemctl)**  - Convenient cmdlets and aliases which wrap `systemctl`. [*12/18/2024 19:33:52*]
@@ -829,11 +772,68 @@ In new version you now have ability to send notificatins to Microsoft Teams, Sla
 + **[poshy-colors 0.4.1](https://github.com/pwshrc/poshy-colors)**  - Functions for generating ANSI terminal formatting sequences, including: blinking text, italic text, bold text, underlined text, strike-through text, reversed-color text, hyperlinked text, and 24-bit true color foreground and background coloring in RGB and HSL. [*12/18/2024 19:16:43*]
 + **[poshy-wrap-git 0.2.14](https://github.com/pwshrc/poshy-wrap-git)**  - Convenient cmdlets and aliases which wrap `git`. [*12/31/2023 01:12:50*]
 
+## Pawel Wujczyk
+
++ **ProductivityTools.DirectoryReverseOrder 0.0.1**  - Set the leading number to the directory [*12/05/2024 21:48:58*]
++ **ProductivityTools.FindPhotographDuplicates 0.0.5**  - It finds all photographs in the master and the slave directory, after this it compares them by date and time taken and optionally by size and name. It can then remove all duplicates or return paths to duplicates. Before removing pictures can be checked in compare directory [*04/07/2024 07:15:14*]
++ **[ProductivityTools.Feedback 0.0.20](http://productivitytools.tech/display-position/)**  - It is a cmdlet which allows to save quick feedbacks about the team [*01/25/2024 21:40:19*]
++ **[ProductivityTools.TeamManagement 0.0.13](http://productivitytools.tech/display-position/)**  - It is a cmdlet which allows to save quick feedbacks about the team [*11/10/2023 18:48:35*]
++ **[ProductivityTools.RemoveModules 0.0.14](https://github.com/pwujczyk/ProductivityTools.RemoveModules)**  - Module allows to remove modules [*02/13/2023 17:16:50*]
++ **ProductivityTools.PublishReadmeToWordpress 0.0.5**  - It publishes Readme file to the wordpress [*02/11/2023 21:27:07*]
++ **[ProductivityTools.GetTask3 0.0.25](http://productivitytools.tech/xx/)**  - It is a cmdlet which allows to manage tasks from powershell [*02/09/2023 06:40:24*]
++ **[ProductivityTools.SetPhotographNameAsDateTimeTaken 0.0.8](http://productivitytools.tech/set-photographnameasdatetimetaken/)**  - Module extracts date and time from picture and change name of the picture to it. It uses format yyyy.MM.dd_hh.mm (2013.08.30_13.08.31). [*12/23/2022 10:35:35*]
++ **ProductivityTools.CloneGithubRepositories 0.0.6**  - Module connect to your github account and download all repositories. [*12/18/2022 13:36:16*]
++ **[ProductivityTools.GetServiceDescription 0.0.5](https://www.powershellgallery.com/packages/ProductivityTools.GetServiceDescription)**  - Gets service description for service name [*06/18/2022 13:52:37*]
++ **[ProductivityTools.SQLServerColumnDescription 0.0.5](http://productivitytools.tech/sql-server-column-description/)**  - Module allows to display description from column in SQL server. It also allows to generate md files [*04/23/2022 20:35:32*]
++ **[ProductivityTools.NewTemporaryDirectory 0.0.2](http://productivitytools.tech/new-temporarydirectory/)**  - Creates random directory in the temporary folder [*04/03/2022 18:59:32*]
++ **[Start-Application 0.0.7](http://www.productivitytools.tech/start-application/)**  - Not working currently [*12/18/2021 19:54:22*]
++ **[ProductivityTools.ConvertDocuments 1.0.12](http://productivitytools.tech/convert-documents/)**  - Converts Word Documents to HTML and Markdown and Markdown to HTML and Docx [*12/18/2021 19:46:37*]
++ **ProductivityTools.Transfers 0.0.1**  - Module sumarrizes and saves transfers to database, not production ready [*09/19/2021 16:23:38*]
++ **[ProductivityTools.PSDbUp 0.0.6](http://www.productivitytools.tech/psdbup/)**  - Module wraps DbUp functionality in to convinient to use function. To invoke it you need to provide, SqlServer instance name and SqlServer database name. If you want you can provide schema for log table (if not default dbo), and path to scripts (if not provided - current directory) [*09/18/2021 20:23:36*]
++ **[ProductivityTools.CloudItems 0.0.8](http://productivitytools.tech/cloud-blobs/)**  - Module allows to push directories and files to azure in the simplest way possible [*09/05/2021 19:20:55*]
++ **[ProductivityTools.AzureAutomation 0.0.7](http://productivitytools.tech/ss/)**  - Abstract layer on the Powershell azure cmdlets. [*09/04/2021 19:51:45*]
++ **[ProductivityTools.FindPictures 0.0.3](http://productivitytools.tech/find-pictures/)**  - Module finds pictures without date time creation, which often means that this is not photo but picture [*06/22/2021 11:46:45*]
++ **[ProductivityTools.GetBinaryModuleFileList 0.0.2](http://productivitytools.tech/get-binary-module-filelist/)**  - Module prints list of files which can be copied to the psd1 powershell manifest file. [*06/19/2021 19:18:56*]
++ **[ProductivityTools.BackupBookmarksChrome 0.0.12](http://productivitytools.tech/backup-bookmarks-chrome/)**  - It gets the current user Chrome Bookmarks and copy it to given directory [*06/18/2021 12:07:09*]
++ **[ProductivityTools.CopyItemDirectoryRepeatable 1.0.5](http://productivitytools.tech/copy-itemdirectoryrepeatable/)**  - It performs a copy between the directories. The difference between this and single copy-item is repeatable of the result. Every time you will use copy-item the same result will occur [*06/17/2021 16:15:32*]
++ **[ProductivityTools.InstallService 1.0.12](http://productivitytools.tech/install-service/)**  - Install/uninstall Windows service using InstallUtil.exe tool. [*05/07/2021 12:42:21*]
++ **[ProductivityTools.BackupBookmarksIE 1.0.6](http://productivitytools.tech/backup-bookmarks-ie/)**  - It gets the Internet Explore bookmark directory from registry and next copies the content to given path. To check correctness it calculates amount of items in the source and in the destination directory. [*05/07/2021 12:12:40*]
++ **[ProductivityTools.InstallModuleIfMissing 1.0.12](http://productivitytools.tech/install-module-if-missing/)**  - This simple module checks if module which name is provided is installed. If not it executes Install-Module cmdlet. [*05/06/2021 13:20:46*]
++ **[ProductivityTools.SelectSQLView 0.0.16](http://productivitytools.tech/select-sql-view/)**  - It allows to quickly select view or table from SQL Server. It saves database and server name in configuration so the shortest way of using it is Select-SQLView tableName [*05/05/2021 11:07:04*]
++ **[ProductivityTools.Bitcoin 0.0.3](http://www.cryptoslides.tech/)**  - Module is written to demonstrate basics of the Bitcoin technology [*04/26/2021 11:41:09*]
++ **[ProductivityTools.DisplayPosition 0.0.7](http://productivitytools.tech/display-position/)**  - Allows to change position of external display [*04/26/2021 11:11:08*]
++ **[ProductivityTools.PublishNugetToGallery 0.0.7](http://productivitytools.tech/publish-nuget-to-gallery/)**  - Publishes nuget package to nuget.org website [*04/22/2021 15:10:38*]
++ **[ProductivityTools.BackupBitlockerKeys 0.0.12](http://productivitytools.tech/backup-bitlockerkeys/)**  - It gets all drives which are bitlocker protected and saves recovery keys in some localization [*04/22/2021 14:47:30*]
++ **[ProductivityTools.SetLockScreen 0.0.9](http://productivitytools.tech/set-lockscreen/)**  - Module allows to set lock screen from powershell to your custom image [*04/22/2021 14:06:13*]
++ **ProductivityTools.TestIfAdmin 0.0.2**  - Module returns information if current user is administrator [*04/22/2021 13:03:24*]
++ **[ProductivityTools.TestCommandExists 1.0.4](https://github.com/pwujczyk/ProductivityTools.PSTestCommandExists/)**  - Module checks if method/function exists in Powershell. [*04/22/2021 12:24:27*]
++ **[ProductivityTools.SetLockDisplayTimeout 0.0.5](http://productivitytools.tech/SetLockDisplayTimeout/)**  - Module sets up the inactivity time after which lock screen will show up. [*04/22/2021 11:55:23*]
++ **[ProductivityTools.DisableFileSyncNGSC 1.0.4](https://github.com/pwujczyk/ProductivityTools.PSDisableFileSyncNGSC)**  - Flag DisableFileSyncNGSC stops OneDrive syncronization. This module sets it to 0 so it enables sync again [*04/22/2021 11:52:06*]
++ **[ProductivityTools.NewAliasSafe 0.0.3](https://github.com/pwujczyk/ProductivityTools.PSNewAliasSafe)**  - It creates new alias, but before it  it checks if alias currently exists. If yes and it is pointing to the same command it do nothing if alias points to different command it throws exception. [*04/22/2021 11:48:22*]
++ **[ProductivityTools.ImportExcelToSQL 0.0.5](http://productivitytools.tech/import-excel-to-sql/)**  - Module takes all excel files in given directory and push the content to database. [*04/22/2021 11:34:51*]
++ **[ProductivityTools.SaveLoginAndPasswordForFortiClient 0.0.3](https://github.com/pwujczyk/ProductivityTools.PSSaveLoginAndPasswordForFortiClient)**  - Changes the registry to allow user to save password to all FortiClient connections. [*04/22/2021 11:27:00*]
++ **ProductivityTools.Bank.Inteligo 0.0.10**  - It is a module which opens polish bank Inteligo gets account balances and displays it or save to the database. It is temporary product. [*04/10/2021 19:55:34*]
++ **ProductivityTools.TrainingLog.Endomondo 0.0.2**  - Module allows to import Endomondo trainings to TrainingLog application [*03/17/2021 19:59:14*]
++ **[ProductivityTools.CloneGitRepositories 0.0.2](http://productivitytools.tech/clone-git-repositories/)**  - Module allows to copy list of repositories to given location. [*03/16/2021 08:42:27*]
++ **[ProductivityTools.SportsTracker 0.0.5](http://productivitytools.tech/display-position/)**  - PowerShell module which allows to manage trainings on the https://sports-tracker.com/ website. [*02/28/2021 22:05:39*]
++ **[EcoVadis.AzureDevOps 0.0.24](https://github.com/pwujczyk/EcoVadis.AzureDevOps)**  - Creates item in the stealing category in the EcoVadis TFS. [*02/11/2021 13:55:52*]
++ **[ProductivityTools.ConvertTcx2Gpx 0.0.10](http://productivitytools.tech/convert-tcx-to-gpx/)**  - Module was created to convert all trainings exported from Endomondo (tcx) to gpx format. It takes directory in which tcx files are placed and convert them to gpx with the GPS Babel utility [*01/29/2021 19:40:09*]
++ **[ProductivityTools.TCX2GPXConverter 0.0.1](http://productivitytools.tech/import-modulesfromdirectory/)**  - Module was created to convert all trainings exported from Endomondo (tcx) to gpx format. It takes directory in which tcx files are placed and convert them to gpx with the GPS Babel utility [*01/13/2021 07:38:48*]
++ **[ProductivityTools.ImportModulesFromDirectory 0.0.7](http://productivitytools.tech/import-modulesfromdirectory/)**  - Scans directory for modules (psm1 files) and perform Import-Module on them. [*11/18/2020 10:06:58*]
++ **[ProductivityTools.GetOneDriveDirectory 1.0.6](http://productivitytools.tech/get-onedrivedirectory/)**  - Module returns path to the OneDrive (Personal or Business) directory. To do it it searches Registry. [*11/17/2020 21:20:03*]
++ **[ProductivityTools.GetCurrentWifiPassword 0.0.4](http://productivitytools.tech/get-current-wi-fi-password/)**  - It returns current wifi password [*11/16/2020 21:30:17*]
++ **[ProductivityTools.GetDateName 1.0.4](http://www.productivitytools.tech/Get-DateName/)**  - It returns string value in the format yyyy.MM.dd.hh.mm.ss. For example 2017.12.02.08.56.16. [*11/16/2020 19:38:49*]
++ **[ProductivityTools.GetExternalIP 0.0.4](http://productivitytools.tech/get-externalip/)**  - The module returns the external IP address of the requesting computer. It uses http://ifconfig.me/ip address to get the data [*11/16/2020 19:36:23*]
++ **[ProductivityTools.MasterConfiguration 0.2.5](http://productivitytools.tech/powershell-master-configuration/)**  - Module allows to store configuration for the PowerShell in a one single file. [*11/15/2020 21:32:41*]
++ **[ProductivityTools.SQLCommands 0.0.11](http://productivitytools.tech/sql-commands/)**  - Most popular SQL commands changed into handy commands. With command creating database, schema, table and columns is easy [*11/15/2020 05:31:54*]
++ **[ProductivityTools.PSStartApplication 0.0.6](http://www.productivitytools.tech/start-application/)**  - StartApplication is an application launcher. It stores path to different applications in the xml and allows to run program in convenient way. [*02/01/2019 22:54:17*]
+
 ## Jan Hoek
 
 + **[UncommonSense.Volkskrant 0.0.61.0](https://github.com/jhoek/UncommonSense.Volkskrant)**  - PowerShell module for listing Volkskrant articles [*02/21/2025 08:39:53*]
 + **[UncommonSense.Cinema 0.1.3](https://github.com/jhoek/UncommonSense.Cinema)**  - Film listing for my favorite cinemas [*02/14/2025 13:13:46*]
 + **[UncommonSense.Parool 0.0.20](https://github.com/jhoek/UncommonSense.Parool)**  - PowerShell module for listing Parool articles [*02/05/2025 11:46:05*]
++ **[UncommonSense.Teletekst 0.1.0](https://github.com/jhoek/UncommonSense.Teletekst)**  - PowerShell module for retrieving NOS (Dutch) Teletekst news. [*01/04/2025 14:49:47*]
 + **[UncommonSense.Weather 0.0.2](https://github.com/jhoek/UncommonSense.Weather)**  - PowerShell module to wrap openweathermap's One Call API 3.0 (https://openweathermap.org/api) [*12/12/2024 15:34:43*]
 + **[UncommonSense.AL.AppSymbols 0.0.0.1](https://github.com/jhoek/UncommonSense.AL.AppSymbols)**  - PowerShell module for retrieving symbol information from Business Central .app files [*11/14/2024 11:41:37*]
 + **[UncommonSense.Bc.DataModel 0.0.10](https://github.com/jhoek/UncommonSense.Bc.DataModel)**  - Cmdlets for exporting field information from a Business Central app file [*11/05/2024 07:15:15*]
@@ -956,6 +956,7 @@ In new version you now have ability to send notificatins to Microsoft Teams, Sla
 + **[PowerShellUniversal.Apps.Excel 1.0.0](https://github.com/ironmansoftware/scripts/tree/main/Apps/PowerShellUniversal.Apps.Excel)**  - Excel components for Apps. [*12/20/2024 16:14:11*]
 + **[PowerShellUniversal.API.System 1.0.0](https://github.com/ironmansoftware/scripts/tree/main/APIs/PowerShellUniversal.API.System)**  - Provides API endpoints for system information. [*12/20/2024 15:55:06*]
 + **[PowerShellUniversal.Roles.Azure 1.0.0](https://github.com/ironmansoftware/scripts/tree/main/Roles/PowerShellUniversal.Roles.Azure)**  - Azure Security integration for PowerShell Universal. [*12/20/2024 01:27:50*]
++ **[PowerShellUniversal.Roles.ActiveDirectory 1.0.0](https://github.com/ironmansoftware/scripts/tree/main/Roles/PowerShellUniversal.Roles.ActiveDirectory)**  - Features for integrating with Active Directory security. [*12/20/2024 01:23:29*]
 + **[PowerShellUniversal.Triggers.MSTeams 1.0.0](https://github.com/ironmansoftware/scripts/tree/main/Triggers/PowerShellUniversal.Triggers.MSTeams)**  - Scripts for sending triggers to Microsoft Teams. [*12/20/2024 01:08:35*]
 + **[PowerShellUniversal.Triggers.Slack 1.0.0](https://github.com/ironmansoftware/scripts/blob/main/Triggers/PowerShellUniversal.Triggers.Slack)**  - Scripts for working with Slack. [*12/20/2024 01:01:39*]
 + **[PowerShellUniversal.Scripts 1.0.0](https://github.com/ironmansoftware/scripts/tree/main/Universal/PowerShellUniversal.Scripts)**  - A collection of scripts for PowerShell Universal. [*12/20/2024 01:00:12*]
@@ -966,8 +967,8 @@ In new version you now have ability to send notificatins to Microsoft Teams, Sla
 + **[Universal.Components.Calendar 0.0.7](https://github.com/ironmansoftware/universal-modules/tree/main/Components/Calendar)**  - Calendar component for PowerShell Universal apps. [*03/20/2024 20:16:54*]
 + **[Universal.Components.Loader 0.0.1](https://github.com/ironmansoftware/universal-modules/tree/main/Components/Loader)**  - A loader component for PowerShell Universal apps. [*08/28/2023 16:57:09*]
 + **[Universal.Notifications 0.0.4](https://github.com/ironmansoftware/universal-modules/tree/main/Notifications/Universal.Notifications)**  - Scripts that can be used for notifications within PowerShell Universal. [*06/14/2023 08:44:06*]
-+ **[Universal.Apps.WindowsSystemInformation 0.0.4](https://github.com/ironmansoftware/universal-modules/tree/main/Apps/Universal.Apps.WindowsSystemInformation)**  - Windows System Information app for PowerShell Universal. [*06/07/2023 13:40:44*]
 + **[Universal.Apps.NetworkUtilities 0.0.2](https://github.com/ironmansoftware/universal-modules/tree/main/Apps/Universal.Apps.NetworkUtilities)**  - Network utilities built with PowerShell Universal. Resolve DNS names, scan networks, and run speed tests. [*06/07/2023 13:40:44*]
++ **[Universal.Apps.WindowsSystemInformation 0.0.4](https://github.com/ironmansoftware/universal-modules/tree/main/Apps/Universal.Apps.WindowsSystemInformation)**  - Windows System Information app for PowerShell Universal. [*06/07/2023 13:40:44*]
 + **[Universal.Apps.PowerGUI 0.0.4](https://github.com/ironmansoftware/universal-modules/tree/main/Apps/Universal.Apps.PowerGUI)**  - A PowerGUI Administrative Console clone made in PowerShell Universal.. [*06/07/2023 13:40:39*]
 + **[Universal.Security.ActiveDirectoryRoles 0.0.1](https://github.com/ironmansoftware/universal-modules/tree/main/Security/Universal.Security.ActiveDirectoryRoles)**  - Generates and assigns roles based on Active Directory groups. [*06/01/2023 08:10:52*]
 + **[Universal.Utilities.Apps 0.0.4](https://github.com/ironmansoftware/universal-modules/tree/main/Utilities/Universal.Utilities.Apps)**  - Utility cmdlets for PowerShell Universal apps. [*05/23/2023 14:30:53*]
@@ -984,8 +985,8 @@ In new version you now have ability to send notificatins to Microsoft Teams, Sla
 
 ## PSModule
 
++ **[GitHub 0.17.2](https://github.com/PSModule/GitHub)**  - A PowerShell module to interact with GitHub, both interactively and via automation. [*03/19/2025 15:50:31*]
 + **[Path 1.0.16](https://github.com/PSModule/Path)**  - A PowerShell module to manage the PATH environment variable on Windows. [*03/18/2025 08:28:53*]
-+ **[GitHub 0.17.0](https://github.com/PSModule/GitHub)**  - A PowerShell module to interact with GitHub, both interactively and via automation. [*03/17/2025 17:39:32*]
 + **[Utilities 0.10.2](https://github.com/PSModule/Utilities)**  - A PowerShell module with a collection of functions that should have been in PowerShell to start with. [*03/15/2025 23:09:58*]
 + **[Yaml 0.0.2](https://github.com/PSModule/Yaml)**  - A PowerShell module for working with Yaml. [*03/15/2025 14:58:25*]
 + **[WoW 0.0.23](https://github.com/PSModule/WoW)**  - A PowerShell module containing utilities for World of Warcraft. [*03/15/2025 14:35:59*]
@@ -993,6 +994,7 @@ In new version you now have ability to send notificatins to Microsoft Teams, Sla
 + **[Uri 1.1.2](https://github.com/PSModule/Uri)**  - A powershell module that works with URIs (RFC3986) [*03/14/2025 16:57:27*]
 + **[Twitch 0.0.2](https://github.com/PSModule/Twitch)**  - A PowerShell module for interacting with Twitch. [*03/14/2025 16:51:47*]
 + **[Tls 1.0.2](https://github.com/PSModule/Tls)**  - A module for working with TLS settings. [*03/14/2025 16:44:26*]
++ **[TimeSpan 1.0.1](https://github.com/PSModule/TimeSpan)**  - A PowerShell module for working with TimeSpans [*03/14/2025 16:35:15*]
 + **[Telemetry 0.0.3](https://github.com/PSModule/Telemetry)**  - A PowerShell module for managing and registering telemetry. [*03/14/2025 16:11:58*]
 + **[Retry 0.1.5](https://github.com/PSModule/Retry)**  - A PowerShell module to create a retry mechanism around functions [*03/14/2025 16:06:24*]
 + **[PublicIP 1.1.3](https://github.com/PSModule/PublicIP)**  - A PowerShell module that helps getting info about your public IP. [*03/14/2025 16:01:02*]
@@ -1071,6 +1073,7 @@ In new version you now have ability to send notificatins to Microsoft Teams, Sla
 
 ## Jeff Hicks
 
++ **[PSFunctionInfo 1.5.0](https://github.com/jdhitsolutions/PSFunctionInfo)**  - A set of PowerShell commands to add metadata to stand-alone functions, i.e. those not published in a module. The commands in this module work in Windows PowerShell and PowerShell 7. [*03/19/2025 14:06:07*]
 + **[WindowsUpdateSetting 1.1.0](https://github.com/jdhitsolutions/WindowsUpdateSetting)**  - A set of PowerShell functions to managing Windows Update settings such as pausing, on Windows 10 or Windows 11. This module should work in Windows PowerShell and PowerShell 7 on a Windows platform. [*03/18/2025 18:25:17*]
 + **[PSBlueSky 2.5.0](https://github.com/jdhitsolutions/PSBluesky)**  - A set of PowerShell commands that use the Bluesky AT Proto API. You can post and upload images from a PowerShell prompt, as well as get your timeline, feed, followers, and more. Run Open-BskyHelp after installation to launch a PDF guide. This module is written for PowerShell 7 and uses features like $PSStyle. [*01/29/2025 15:43:10*]
 + **[PSFunctionTools 1.3.0](https://github.com/jdhitsolutions/PSFunctionTools)**  - A set of PowerShell 7 commands for managing and automating PowerShell scripts, functions, and modules. You can use these tools to accelerate PowerShell script development. [*01/14/2025 19:45:53*]
@@ -1088,7 +1091,6 @@ In new version you now have ability to send notificatins to Microsoft Teams, Sla
 + **[PSScriptTools 2.50.0](https://github.com/jdhitsolutions/PSScriptTools)**  - A collection of PowerShell functions designed to enhance your own functions and scripts or to facilitate working in the console. Most of the commands should work in Windows PowerShell and PowerShell 7, even cross-platform. Any operating system limitations should be handled on a per-command basis. [*07/13/2024 14:35:46*]
 + **[PSClock 1.4.0](https://github.com/jdhitsolutions/PSClock)**  - A set of PowerShell commands for creating and managing a WPF-based clock that runs on your Windows desktop. [*05/21/2024 12:26:23*]
 + **[MyTickle 3.4.0](https://github.com/jdhitsolutions/myTickle)**  - A PowerShell module with commands for a simple event tickler system using a SQL Server instance as the backend storage. [*03/04/2024 16:41:55*]
-+ **[PSFunctionInfo 1.4.0](https://github.com/jdhitsolutions/PSFunctionInfo)**  - A set of PowerShell commands to add metadata to stand-alone functions, i.e. those not published in a module. The commands in this module work in Windows PowerShell and PowerShell 7. [*01/22/2024 13:45:22*]
 + **[MyNumber 1.4.1](https://github.com/jdhitsolutions/MyNumber)**  - A demonstration class-based PowerShell module that creates a number object. This module is intended as a teaching tool for scripting with PowerShell and using PowerShell classes. [*12/29/2023 18:48:57*]
 + **[PSJsonCredential 2.2.0](https://github.com/jdhitsolutions/PSJsonCredential)**  - A set of commands for exporting and importing PSCredentials to a json file. [*08/04/2023 15:53:23*]
 + **[ISEScriptingGeek 3.5.0](https://github.com/jdhitsolutions/ISEScriptingGeek)**  - Functions and add-ons for the Windows PowerShell ISE and later. This module is a kind of resource kit for the PowerShell ISE. [*07/03/2023 15:06:44*]
@@ -1183,6 +1185,7 @@ In new version you now have ability to send notificatins to Microsoft Teams, Sla
 + **[Akamai.ClientLists 2.1.0](https://github.com/akamai/powershell)**  - Functions to manage the Akamai Client Lists API. [*08/20/2024 18:51:34*]
 + **[Akamai.ChinaCDN 2.1.0](https://github.com/akamai/powershell)**  - Functions to manage the Akamai China CDN API. [*08/20/2024 18:51:28*]
 + **[Akamai.AppSec 2.1.0](https://github.com/akamai/powershell)**  - Functions to manage the Akamai Application Security API. [*08/20/2024 18:51:23*]
++ **[Akamai.APIKeyManager 2.1.0](https://github.com/akamai/powershell)**  - Functions to manage the Akamai API Key Manager API. [*08/20/2024 18:51:13*]
 + **[Akamai.APIDefinitions 2.1.0](https://github.com/akamai/powershell)**  - Functions to manage the Akamai API Definitions API. [*08/20/2024 18:51:05*]
 + **[Akamai.Common 2.1.0](https://github.com/akamai/powershell)**  - Common functions used by other Akamai-related PS modules [*08/20/2024 18:50:42*]
 + **HighWinds 0.0.1**  - Basic functions to interact with the HighWinds API [*09/08/2023 04:38:54*]
@@ -1222,10 +1225,43 @@ In new version you now have ability to send notificatins to Microsoft Teams, Sla
 + **UniversalDashboard.UDMug 1.0.0**  - Adding some SVG goodness to your dashboard [*09/11/2019 14:29:53*]
 + **UniversalDashboard.UDGhost 1.0.0**  - Making best use of your blank spaces [*09/11/2019 14:12:08*]
 
+## owen.heaume
+
++ **spec.network.management 1.0.7**  - A module to manage windows networking. [*03/18/2025 13:30:32*]
++ **spec.teamviewer.utilities 1.2.4**  - A module to help manage TeamViewer [*03/18/2025 10:32:27*]
++ **spec.shortcut.management 1.0.9**  - A module to help create and delete shortcuts [*02/14/2025 14:38:36*]
++ **spec.psengine 1.0.4**  - A module required by PSEngine base script. [*02/14/2025 10:53:52*]
++ **spec.printer.management 1.0.9**  - A module for managing printers [*02/11/2025 15:09:35*]
++ **spec.azure.tables 2.0.3**  - A module for interacting with Azure Tables [*02/05/2025 15:19:41*]
++ **spec.base.utilities 1.2.15**  - Mandatory module for the foundation PowerShell scripts. [*01/13/2025 14:12:49*]
++ **spec.file.utilities 2.0.10**  - A module for efficient file management, enabling seamless file downloads from Azure Blob storage, file hash comparisons, and a suite of essential file operations. [*01/09/2025 14:30:18*]
++ **spec.registry.management 1.0.8**  - A module to help manage the Windows registry [*11/15/2024 15:47:58*]
++ **spec.comport.management 1.0.3**  - PowerShell module for efficient management of COM ports, allowing the ability to set a new comport. [*10/22/2024 09:44:00*]
++ **spec.module.management 1.0.6**  - Provides advanced functions for installing, importing, checking, and uninstalling PowerShell modules. [*10/11/2024 14:26:00*]
++ **spec.function.setup 1.0.2**  - A module to help create the folder and file structure required for functions [*09/16/2024 13:23:19*]
++ **spec.module.setup 1.0.9**  - Creates a standardised PowerShell module structure with essential files and configuration. [*09/05/2024 13:50:50*]
++ **SpecIRLHelper 1.0.1**  - A module to help format data required by other functions [*08/19/2024 11:20:44*]
++ **spec.appx.management 1.0.1**  - A module to help manage appx installation and removal [*08/09/2024 11:24:53*]
++ **spec.tonoref.management 1.0.8**  - A module to help manage Tonoref URL generation [*07/17/2024 13:22:23*]
++ **spec.graphapi.utilities 1.0.2**  - A collection of GraphAPI calls to help manage devices and users [*06/04/2024 14:48:22*]
++ **spec.visualfields.management 1.0.1**  - A module to automate Visual Fields shortcuts [*04/24/2024 10:58:08*]
++ **spec.drivemap.utilities 1.0.1**  - A module to help manage drive SMB drive maps. [*11/28/2023 10:19:01*]
++ **spec.envvar.management 1.0.1**  - A solution to assist with adding, replacing or deleting machine and session environment variables. [*10/20/2023 08:05:08*]
++ **spec.module.loader 1.0.6**  - A module to help installing and importing modules [*10/11/2023 14:28:01*]
++ **SpecBaseModule 1.1.0**  - Mandatory module for the foundation PowerShell scripts. [*10/05/2023 13:54:28*]
++ **spec.module.creator 1.0.9**  - A module to create the base module structure. [*10/05/2023 13:03:36*]
++ **spec.microsoft.authentication 1.0.0**  - A module to simplify authentication to various Microsoft services such as Azure or MgGraph [*09/23/2023 14:14:28*]
++ **SpecCreateModule 1.0.8**  - A module to create the base module structure. [*09/10/2023 09:24:40*]
++ **SpecAzTableStorageTools 1.0.0**  - AzureTableStorageHelper: PowerShell module for simplifying interactions with Azure Table Storage, including data retrieval using Shared Access Signatures (SAS). [*09/08/2023 20:13:21*]
++ **SpecComPortManager 1.0.3**  - "COMPortManager: A PowerShell module for handling and relocating COM ports efficiently. Simplify COM port management tasks with this versatile utility." [*09/01/2023 14:28:57*]
++ **SpecPrinters 1.0.2**  - Module for managing printers on local devices [*08/21/2023 10:24:43*]
++ **SpecModuleImporter 1.1.0**  - A module that assists with the importing of PowerShell modules from the PSGallery [*07/31/2023 15:29:59*]
++ **SpecTeamViewerLegacy 1.0.1**  - Functions to control legacy Team Viewer [*07/21/2023 08:21:30*]
++ **SpecAzTables 1.0.5**  - Module to interact with Azure Tables [*07/12/2023 09:47:50*]
+
 ## Michael Haken
 
 + **[BAMCIS.Crypto 1.0.1](https://github.com/bamcisnetworks/BAMCIS.Crypto)**  - Provides cmdlets to convert PEM formats to usable .NET crypto service provider objects. [*04/17/2020 14:31:45*]
-+ **[HDFS 1.0.1](https://github.com/bamcis-io/HDFS)**  - This PowerShell module provides a wrapper for the Hadoop File System REST API (webhdfs). [*03/10/2020 17:00:40*]
 + **[GoogleOAuth2 1.0.1.0](https://github.com/bamcisnetworks/GoogleOAuth2)**  - Provides cmdlets that are used to retrieve Google OAuth2 tokens for OAuth2 cloud identities and service accounts. [*11/15/2019 18:08:01*]
 + **[AwsUtilities 1.0.6.3](https://github.com/bamcis-io/AwsUtilities)**  - Supplemental AWS cmdlets to help automate common tasks. [*10/09/2019 15:26:09*]
 + **[BAMCIS.FileIO 1.1.0.0](https://github.com/bamcis-io/BAMCIS.FileIO)**  - This module contains PowerShell cmdlets to automate complex file and directory operations. [*02/24/2019 05:23:12*]
@@ -1261,40 +1297,6 @@ Then run the Install-Exchange cmdlet with the necessary parameters. [*03/04/2017
 + **[AssetInventory 1.0.1.6](https://github.com/bamcisnetworks/AssetInventory)**  - Collects asset information including software inventory, windows updates, and system information. [*01/19/2017 03:14:25*]
 + **[Hyper-VAdministration 1.0.0.1](https://github.com/bamcisnetworks/Hyper-VAdministration)**  - Performs automated tasks to help in the administration of Hyper-V environments. [*01/03/2017 17:16:25*]
 + **DISA_STIG 1.0.0.2**  - Converts DISA STIG xccdf and zip files to usable objects and makes comparisons of STIGs for easy updates to GPOs. [*11/26/2015 14:56:24*]
-
-## owen.heaume
-
-+ **spec.network.management 1.0.7**  - A module to manage windows networking. [*03/18/2025 13:30:32*]
-+ **spec.teamviewer.utilities 1.2.4**  - A module to help manage TeamViewer [*03/18/2025 10:32:27*]
-+ **spec.shortcut.management 1.0.9**  - A module to help create and delete shortcuts [*02/14/2025 14:38:36*]
-+ **spec.psengine 1.0.4**  - A module required by PSEngine base script. [*02/14/2025 10:53:52*]
-+ **spec.printer.management 1.0.9**  - A module for managing printers [*02/11/2025 15:09:35*]
-+ **spec.azure.tables 2.0.3**  - A module for interacting with Azure Tables [*02/05/2025 15:19:41*]
-+ **spec.base.utilities 1.2.15**  - Mandatory module for the foundation PowerShell scripts. [*01/13/2025 14:12:49*]
-+ **spec.file.utilities 2.0.10**  - A module for efficient file management, enabling seamless file downloads from Azure Blob storage, file hash comparisons, and a suite of essential file operations. [*01/09/2025 14:30:18*]
-+ **spec.registry.management 1.0.8**  - A module to help manage the Windows registry [*11/15/2024 15:47:58*]
-+ **spec.comport.management 1.0.3**  - PowerShell module for efficient management of COM ports, allowing the ability to set a new comport. [*10/22/2024 09:44:00*]
-+ **spec.module.management 1.0.6**  - Provides advanced functions for installing, importing, checking, and uninstalling PowerShell modules. [*10/11/2024 14:26:00*]
-+ **spec.function.setup 1.0.2**  - A module to help create the folder and file structure required for functions [*09/16/2024 13:23:19*]
-+ **spec.module.setup 1.0.9**  - Creates a standardised PowerShell module structure with essential files and configuration. [*09/05/2024 13:50:50*]
-+ **SpecIRLHelper 1.0.1**  - A module to help format data required by other functions [*08/19/2024 11:20:44*]
-+ **spec.appx.management 1.0.1**  - A module to help manage appx installation and removal [*08/09/2024 11:24:53*]
-+ **spec.tonoref.management 1.0.8**  - A module to help manage Tonoref URL generation [*07/17/2024 13:22:23*]
-+ **spec.graphapi.utilities 1.0.2**  - A collection of GraphAPI calls to help manage devices and users [*06/04/2024 14:48:22*]
-+ **spec.visualfields.management 1.0.1**  - A module to automate Visual Fields shortcuts [*04/24/2024 10:58:08*]
-+ **spec.drivemap.utilities 1.0.1**  - A module to help manage drive SMB drive maps. [*11/28/2023 10:19:01*]
-+ **spec.envvar.management 1.0.1**  - A solution to assist with adding, replacing or deleting machine and session environment variables. [*10/20/2023 08:05:08*]
-+ **spec.module.loader 1.0.6**  - A module to help installing and importing modules [*10/11/2023 14:28:01*]
-+ **SpecBaseModule 1.1.0**  - Mandatory module for the foundation PowerShell scripts. [*10/05/2023 13:54:28*]
-+ **spec.module.creator 1.0.9**  - A module to create the base module structure. [*10/05/2023 13:03:36*]
-+ **spec.microsoft.authentication 1.0.0**  - A module to simplify authentication to various Microsoft services such as Azure or MgGraph [*09/23/2023 14:14:28*]
-+ **SpecCreateModule 1.0.8**  - A module to create the base module structure. [*09/10/2023 09:24:40*]
-+ **SpecAzTableStorageTools 1.0.0**  - AzureTableStorageHelper: PowerShell module for simplifying interactions with Azure Table Storage, including data retrieval using Shared Access Signatures (SAS). [*09/08/2023 20:13:21*]
-+ **SpecComPortManager 1.0.3**  - "COMPortManager: A PowerShell module for handling and relocating COM ports efficiently. Simplify COM port management tasks with this versatile utility." [*09/01/2023 14:28:57*]
-+ **SpecPrinters 1.0.2**  - Module for managing printers on local devices [*08/21/2023 10:24:43*]
-+ **SpecModuleImporter 1.1.0**  - A module that assists with the importing of PowerShell modules from the PSGallery [*07/31/2023 15:29:59*]
-+ **SpecTeamViewerLegacy 1.0.1**  - Functions to control legacy Team Viewer [*07/21/2023 08:21:30*]
-+ **SpecAzTables 1.0.5**  - Module to interact with Azure Tables [*07/12/2023 09:47:50*]
 
 ## Andreas Eulitz
 
@@ -1335,13 +1337,14 @@ exposing logging events. [*02/18/2020 03:42:13*]
 
 + **[Capa.PowerShell.Module 1.12.3](https://github.com/Mark5900/Capa.PowerShell.Module)**  - This module contains cmdlets for CapaInstaller SDK and PowerPack. [*03/18/2025 13:53:10*]
 + **[Capa.PowerShell.Module.SDK 1.12.3](https://github.com/Mark5900/Capa.PowerShell.Module)**  - PowerShell module for CapaInstaller containing functions for the SDK. [*03/18/2025 13:53:09*]
++ **[Capa.PowerShell.Module.Tools 1.12.3](https://github.com/Mark5900/Capa.PowerShell.Module)**  - PowerShell module for CapaInstaller containing tools for CapaInstaller and PowerPacks. [*03/18/2025 13:53:08*]
 + **[Capa.PowerShell.Module.SDK.VPP 1.12.3](https://github.com/Mark5900/Capa.PowerShell.Module)**  - PowerShell module for CapaInstaller SDK containing functions for VPP functions.
 	For more information, see https://capasystems.atlassian.net/wiki/spaces/CI65DOC/pages/19382173123/SDK+-+CapaInstaller+Software+Development+Kit+functions [*03/18/2025 13:53:07*]
 + **[Capa.PowerShell.Module.SDK.MDM 1.12.3](https://github.com/Mark5900/Capa.PowerShell.Module)**  - PowerShell module for CapaInstaller SDK containing functions for MDM functions.
 	For more information, see https://capasystems.atlassian.net/wiki/spaces/CI65DOC/pages/19382173123/SDK+-+CapaInstaller+Software+Development+Kit+functions [*03/18/2025 13:53:06*]
-+ **[Capa.PowerShell.Module.SDK.User 1.12.3](https://github.com/Mark5900/Capa.PowerShell.Module)**  - PowerShell module for CapaInstaller SDK containing functions for User functions.
-	For more information, see https://capasystems.atlassian.net/wiki/spaces/CI65DOC/pages/19382173123/SDK+-+CapaInstaller+Software+Development+Kit+functions [*03/18/2025 13:53:05*]
 + **[Capa.PowerShell.Module.SDK.Unit 1.12.3](https://github.com/Mark5900/Capa.PowerShell.Module)**  - PowerShell module for CapaInstaller SDK containing functions for Unit functions.
+	For more information, see https://capasystems.atlassian.net/wiki/spaces/CI65DOC/pages/19382173123/SDK+-+CapaInstaller+Software+Development+Kit+functions [*03/18/2025 13:53:05*]
++ **[Capa.PowerShell.Module.SDK.User 1.12.3](https://github.com/Mark5900/Capa.PowerShell.Module)**  - PowerShell module for CapaInstaller SDK containing functions for User functions.
 	For more information, see https://capasystems.atlassian.net/wiki/spaces/CI65DOC/pages/19382173123/SDK+-+CapaInstaller+Software+Development+Kit+functions [*03/18/2025 13:53:05*]
 + **[Capa.PowerShell.Module.SDK.WSUS 1.12.3](https://github.com/Mark5900/Capa.PowerShell.Module)**  - PowerShell module for CapaInstaller SDK containing functions for WSUS functions.
 	For more information, see https://capasystems.atlassian.net/wiki/spaces/CI65DOC/pages/19382173123/SDK+-+CapaInstaller+Software+Development+Kit+functions [*03/18/2025 13:53:03*]
@@ -1362,8 +1365,6 @@ exposing logging events. [*02/18/2020 03:42:13*]
 	For more information, see https://capasystems.atlassian.net/wiki/spaces/CI65DOC/pages/19462455297/PowerShell+Scripting+Library [*03/18/2025 13:52:52*]
 + **[Capa.PowerShell.Module.SDK.Utilities 1.12.3](https://github.com/Mark5900/Capa.PowerShell.Module)**  - PowerShell module for CapaInstaller SDK containing functions for Utilities functions.
 	For more information, see https://capasystems.atlassian.net/wiki/spaces/CI65DOC/pages/19382173123/SDK+-+CapaInstaller+Software+Development+Kit+functions [*03/18/2025 13:52:51*]
-+ **[Capa.PowerShell.Module.PowerPack.CMS 1.12.3](https://github.com/Mark5900/Capa.PowerShell.Module)**  - PowerShell module for CapaInstaller PowerPacks containing functions for CMS commands.
-	For more information, see https://capasystems.atlassian.net/wiki/spaces/CI67DOC/pages/20342578761/PowerShell+Scripting+Library [*03/18/2025 13:52:50*]
 + **[Capa.PowerShell.Module.SDK.Container 1.12.3](https://github.com/Mark5900/Capa.PowerShell.Module)**  - PowerShell module for CapaInstaller SDK containing functions for Container functions.
 	For more information, see https://capasystems.atlassian.net/wiki/spaces/CI65DOC/pages/19382173123/SDK+-+CapaInstaller+Software+Development+Kit+functions [*03/18/2025 13:52:49*]
 + **[Capa.PowerShell.Module.SDK.Inventory 1.12.3](https://github.com/Mark5900/Capa.PowerShell.Module)**  - PowerShell module for CapaInstaller SDK containing functions for Inventory functions.
@@ -1390,6 +1391,7 @@ exposing logging events. [*02/18/2020 03:42:13*]
 
 ## Michal Gajda
 
++ **[PSAdaptiveCards 1.0.0.2](https://github.com/mgajda83/PSAdaptiveCards)**  - Set of classes to build AdaptiveCard object [*03/19/2025 09:08:30*]
 + **[PSChatBot 1.0.0.7](https://github.com/mgajda83/PSChatBot)**  - Send Teams message as ChatBot [*03/18/2025 07:35:28*]
 + **[PSDevOpsBackup 1.0.1.2](https://github.com/mgajda83/PSDevOpsBackup)**  - PowerShell module for backup DevOps repos. [*01/03/2025 15:05:21*]
 + **[PSSentinelOneAPI 1.0.0.7](https://github.com/mgajda83/PSSentinelOneAPI)**  - Module to handle the SentinelOne API [*11/22/2024 12:25:53*]
@@ -1510,4 +1512,4 @@ System Requirements:
 + **[DSCR_AutoLogon 2.1.0](https://github.com/mkht/DSCR_AutoLogon)**  - PowerShell DSC Resource & Functions to turn on / off automatic logon in Windows. [*07/08/2017 15:40:33*]
 + **[DSCR_MSLicense 0.9.1](https://github.com/mkht/DSCR_MSLicense)**  - PowerShell DSC Resource to set Windows / Office product key. [*06/10/2017 15:58:21*]
 
-*Updated: Wednesday, 19 March 2025 09:52:01 UTC*
+*Updated: Wednesday, 19 March 2025 17:52:27 UTC*
