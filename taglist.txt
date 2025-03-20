@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Wednesday, 19 March 2025 17:52:27 UTC
+Updated: Thursday, 20 March 2025 02:16:53 UTC
 
 .bat
 .env
@@ -261,7 +261,6 @@ agile
 agility
 agm
 agnoster
-ahk
 ai
 ai-server
 ai21
@@ -277,7 +276,6 @@ aimodels
 aip
 aiprompting
 aipscanner
-aircall
 airpower
 airpwr
 airtable
@@ -314,7 +312,6 @@ aliases
 aliens
 all
 alletra
-alloydb
 alm
 almrangers
 alpha
@@ -508,7 +505,6 @@ artefactual
 artifact
 artifactory
 artifacts
-artificial-intelligence
 artificialintelligence
 aruba
 as
@@ -544,7 +540,6 @@ assessment
 asset
 assetintelligencepoint
 assets
-assist
 assistance
 assistant
 association
@@ -577,15 +572,12 @@ au
 audio
 audiocodes
 audit
-auditad
 auditing
-auditnetlogon
 auditpol
 auditpol.exe
 auditpolicies
 auditpolicy
 audits
-auditsysvol
 aumid
 aut
 auth
@@ -616,7 +608,6 @@ autocomplete
 autocompletion
 autoenv
 autograph
-autohotkey
 autoload
 autologon
 automai
@@ -629,6 +620,7 @@ automaticpacketreportingsystem
 automation
 automation psmodule
 automationaccount
+automationanywhere
 automationportal
 automationutils
 autonomoussystem
@@ -736,7 +728,6 @@ azureadvancedthreatprotection
 azureappconfiguration
 azureapplicationstuff
 azurearc
-azurearcstuff
 azureartifacts
 azureas
 azureatp
@@ -839,6 +830,7 @@ basename
 bash
 basic
 bastion
+bat
 batcat
 batch
 batchclass
@@ -984,6 +976,7 @@ bpmn
 brainy
 branch
 branch-rename
+brave
 brawlapi
 brawlstars
 brazencloud
@@ -1003,6 +996,7 @@ british-gas
 brk4452
 broadcast
 broadcom
+broot
 brotli
 brownserve-uk
 browser
@@ -1014,6 +1008,7 @@ brs
 bruteforce
 bson
 btdf
+btm
 buddhist
 budget
 bugbounty
@@ -1184,6 +1179,7 @@ chatgpt
 chatops
 chatroom
 chatter
+cheat
 check
 checker
 checklist
@@ -1429,6 +1425,7 @@ columns
 com
 combinations
 combine
+comdata
 comedy
 comic
 comical
@@ -1490,6 +1487,8 @@ computer-site
 computername
 computers
 computersite
+concur
+concurrency
 concurrent
 conda
 condition
@@ -1541,8 +1540,8 @@ connector
 connectorcmd
 connectormanagement
 connectwise
+conservation
 console
-consoleguitools
 consoleimage
 consolemenu
 consolemusic
@@ -1576,6 +1575,7 @@ continuousintegration
 contrast
 control
 controller
+controlroom
 controlup
 conventional
 conventional-commits
@@ -1743,6 +1743,7 @@ cumulativeupdate
 cumulocity
 curious
 curl
+curlie
 currency
 currency-convereter
 currency-exchange
@@ -1966,6 +1967,7 @@ deleteuserprofile
 delivery
 dell
 dellemc
+delta
 demand
 demandsignal
 demo
@@ -2292,6 +2294,8 @@ duck
 duckdb
 duckduckgo
 ducktyping
+dudckduckgo
+duf
 dumb
 dummy
 dummyusers
@@ -2308,6 +2312,7 @@ duplicatioin
 duplication
 durable
 durabletask
+dust
 dutch
 dvls
 dvr
@@ -2456,7 +2461,6 @@ enterprisevoice
 entity
 entityframework
 entra
-entra-id
 entracloudsync
 entraconnect
 entraid
@@ -2690,6 +2694,7 @@ favorite
 favorites
 fb-pro
 fciv
+fd
 feather
 feature
 features
@@ -2884,9 +2889,6 @@ forwardcompatibility
 forwardedevents
 foudil
 foundationmodels
-fount
-fount-pwsh
-fountassist
 fox
 foxpro
 fqdn
@@ -3076,6 +3078,8 @@ git-lfs
 git-proxy
 git-rename
 git-stat
+gitcmdline
+gitdesktop
 gitea
 gitflow
 gitforwindows
@@ -3138,6 +3142,7 @@ governancerulescontrolplane
 gp
 gpedit
 gpg
+gping
 gpio
 gplink
 gpo
@@ -3216,6 +3221,7 @@ haarlemsdagblad
 hack
 hacking
 hacktoberfest
+hadoop
 hafr
 haiku
 hailstone
@@ -3242,7 +3248,6 @@ hardblock
 harden
 harden-windows-security
 hardening
-hardensysvol
 hardlink
 hardmatch
 hardware
@@ -3325,7 +3330,6 @@ hidden
 hide
 hids
 hiera
-hierarchialdistributionlist
 hierarchical
 hierarchy
 high-availability
@@ -3441,6 +3445,7 @@ hybrid
 hybridrunbookworker
 hyper-v
 hyperconverged
+hyperfine
 hyperlink
 hyperlinked-text
 hyperthreading
@@ -3497,6 +3502,7 @@ identitydomains
 identitynow
 idf
 idm
+idna
 idrac
 ids
 ie
@@ -3806,6 +3812,7 @@ join-object
 jojoba
 joke
 jokes
+jotform
 journal
 joyride
 jpg
@@ -4201,8 +4208,6 @@ lucene
 lunar
 lunches
 lwa
-lxca
-lxcapstool
 lxco
 lxcopstool
 lync
@@ -4425,7 +4430,6 @@ microsoft_azure
 microsoft_endpoint_manager
 microsoft_online
 microsoft_teams
-microsoft-entra-id
 microsoft-graph
 microsoft-teams
 microsoft-web-platform
@@ -4593,6 +4597,7 @@ msbuild
 msdeploy
 msdn
 msdtc
+msedge
 msexcel
 msexchange
 msft
@@ -4941,7 +4946,6 @@ obs
 observeit
 oce
 ocg
-ocgv
 oci
 ocicontrolcenter
 ocr
@@ -5045,6 +5049,7 @@ openapi
 opendata
 openedge
 openfiles
+opengraph
 openhere
 openholidaysapi
 openid
@@ -5140,6 +5145,8 @@ ou
 ou-object
 oui
 oui-search
+oura
+ouraring
 out-consolegridview
 out-default
 out-gridview
@@ -5239,7 +5246,6 @@ passwordexpiration
 passwordexpiry
 passwordgeneration
 passwordgenerator
-passwordgenerators
 passwordhashing
 passwordless
 passwordlock
@@ -5604,6 +5610,7 @@ powershellise
 powershelllogger
 powershellml
 powershellmodule
+powershellmoduleupdate
 powershellpr0mpt
 powershellremoting
 powershellscript
@@ -5686,6 +5693,7 @@ processing
 processmitigation
 processor
 procmap
+procs
 producer
 product
 productid
@@ -8760,6 +8768,7 @@ pullrequest
 pullserver
 pulseway
 pulumi
+punycode
 puppet
 puppetdb
 puppy
@@ -9069,6 +9078,7 @@ replace
 replaygain
 replication
 repo
+repoo
 report
 reporting
 reportingservicepoint
@@ -9149,6 +9159,7 @@ rfc4291
 rfc5952
 rfc826
 rfc9116
+rg
 rgb
 rhapsody
 ribbon
@@ -9159,6 +9170,7 @@ rightjoin
 rights
 rightsizing
 rightsmanagement
+ring
 ripe
 risk
 riskiq
@@ -9206,6 +9218,7 @@ royaldocument
 royalserver
 royalts
 royaltsx
+rpa
 rpc
 rras
 rrd
@@ -9391,6 +9404,7 @@ scrub
 scrubber
 scsm
 scuba
+sd
 sddl
 sdk
 sdn
@@ -9404,6 +9418,7 @@ searcher
 searching
 searchmanager
 searchplace
+searchquery
 searchstring
 searchsuffixlist
 secaas
@@ -9423,6 +9438,7 @@ section
 secur32
 secure
 secureapplicationmodel
+secureboot
 securechannel
 securedns
 securegopher
@@ -9606,6 +9622,7 @@ shell
 shell-art
 shell-integration
 shells
+sherweb
 shieldedvm
 ships
 shipsprovider
@@ -9778,7 +9795,6 @@ solr
 soltra
 solution
 solutions
-sonarcloud
 sonarqube
 sonarr
 sonatype
@@ -10183,7 +10199,7 @@ tabexpansion2
 tablacus
 table
 tableau
-tableauworkbook
+tableauserver
 tabler
 tables
 tablestorage
@@ -10303,7 +10319,6 @@ test123
 testaccount
 testautomation
 tester
-testimonial
 testing
 testlab
 testplans
@@ -10572,7 +10587,6 @@ ucs
 ucspowertool
 ud-avataaar
 ud-badgebutton
-ud-badgelink
 ud-breadcrumb
 ud-breadcrumbitem
 ud-burger
@@ -10598,6 +10612,7 @@ ud-minesweeper
 ud-mouseparticle
 ud-navbarsearch
 ud-numbermask
+ud-orgchart
 ud-piechart3d
 ud-pivottable
 ud-progressstepbar
@@ -10907,7 +10922,6 @@ vmss
 vmtovmhostrule
 vmtovmrule
 vmware
-vmware.vsphere
 vmwarecloudfoundation
 vmwaredrs
 vmwarevalidatedsolutions
@@ -11044,6 +11058,7 @@ webdav
 webdeploy
 webdeveloper
 webfrequest
+webhdfs
 webhelpdesk
 webhistory
 webhook
@@ -11080,7 +11095,6 @@ weixin
 well-known
 wem
 wemsdk
-wer
 wget
 what3words
 whatismyip
@@ -11370,6 +11384,7 @@ xendeskop
 xendesktop
 xero
 xevents
+xh
 xi
 xiaomi
 xin
@@ -11445,6 +11460,7 @@ zoomapi
 zoommeeting
 zorus
 zorusapi
+zoxide
 zpr
 zsh
 zuora
