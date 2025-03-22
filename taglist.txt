@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Saturday, 22 March 2025 09:52:01 UTC
+Updated: Saturday, 22 March 2025 17:52:07 UTC
 
 .bat
 .env
@@ -261,6 +261,7 @@ agile
 agility
 agm
 agnoster
+ahk
 ai
 ai-server
 ai21
@@ -615,6 +616,7 @@ autocomplete
 autocompletion
 autoenv
 autograph
+autohotkey
 autoload
 autologon
 automai
@@ -707,6 +709,7 @@ azsdk
 azsk
 azsql
 azstackhci
+azstate
 azsubnet
 aztools
 azts
@@ -794,6 +797,7 @@ azuresqlimport
 azuressas
 azurestack
 azurestackhci
+azurestate
 azurestorage
 azurestorageservices
 azuresync
@@ -819,6 +823,7 @@ bank
 banking
 banner
 bar
+barcodes
 baremetal
 base
 base-in-json
@@ -1045,8 +1050,11 @@ bus
 business
 business_email_compromise
 businesscentral
+businessdays
+businesshours
 businessobjects
 businessrulesengine
+businesstime
 bxor
 bydesign
 byexample
@@ -1092,6 +1100,7 @@ carbonawarecomputing
 carbonintensity
 card
 cardwirth
+cares
 cargo
 carousel
 carrier
@@ -1209,6 +1218,7 @@ chocolatey
 choice
 choose_file
 choose_file_name
+choose_folder
 chooser
 christaylorcodes
 christmas
@@ -1402,7 +1412,6 @@ cognitiveservice
 cognitiveservices
 cohere
 cohesity
-coinbase
 coinmarketcap
 collaboration
 collatordso
@@ -1715,7 +1724,6 @@ crt.sh
 crud
 crx
 crypto
-crypto-currency
 cryptocompare
 cryptocurrency
 cryptography
@@ -1751,6 +1759,7 @@ currency-convereter
 currency-exchange
 currencyconverterapi
 current
+curseforge
 custom
 customchecks
 customdns
@@ -2051,7 +2060,6 @@ dicom
 dictionary
 diff
 difference
-dify
 dig
 digikam
 digital
@@ -2179,6 +2187,7 @@ dockerize
 dockerswarm
 docking
 docs
+docset
 document
 documentation
 documentdb
@@ -2663,6 +2672,7 @@ f
 f#
 f5
 fabric
+fabrictools
 fabtools
 facebook
 factoryorchestrator
@@ -2835,6 +2845,7 @@ flexible
 flickr
 flowchart
 flowy
+fluidrelay
 flurl
 flyway
 fmg
@@ -3362,13 +3373,13 @@ hkey_users
 hklm
 hl7
 hlds
+hls
 hockey
 hol
 holiday
 home
 home_automation
 homebrew
-homelab
 homelandsecurity
 homeschooling
 hometheater
@@ -3682,6 +3693,7 @@ invoke
 invoke-asadmin
 invoke-asadministrator
 invoke-ascurrentuser
+invoke-automation
 invoke-build
 invoke-dtdownloaddriverpack
 invoke-dtdownloaddriverupdates
@@ -3791,8 +3803,6 @@ jde
 jdedwards
 jdt
 jea
-jea_module
-jeanalyzer
 jekyll
 jenkins
 jetbrains
@@ -3851,7 +3861,6 @@ jwe
 jwk
 jws
 jwt
-jwttoken
 k8s
 k8sshell
 k8ssnapshots
@@ -3942,6 +3951,8 @@ kubetidy
 kudu
 kurukuru
 kusto
+kusto.data
+kusto.ingest
 kvm
 kvp
 l1tf
@@ -4116,6 +4127,7 @@ localpolicy
 localuser
 location
 locationbasedservices
+locations
 lock
 lockbox
 lockdisplaytimeout
@@ -4580,6 +4592,7 @@ mozilla
 mp3
 mp4
 mpc
+mpeg
 mpn
 mrfk
 mrfylke
@@ -5046,6 +5059,7 @@ open
 open-ai
 open-ssh
 openai
+openaiclient
 openamt
 openapi
 opendata
@@ -5486,6 +5500,7 @@ poshy-coreutils-ish
 poshy-dir-nav
 poshy-ecks
 poshy-env-proxy
+poshy-env-var
 poshy-ls-isms
 poshy-lucidity
 poshy-multimedia
@@ -5815,6 +5830,8 @@ pscommand_acp
 pscommand_acse
 pscommand_acsp
 pscommand_add_ssh
+pscommand_add-envpathitem
+pscommand_add-envvarpathitem
 pscommand_add-gitlfstrackedfiles
 pscommand_add-gitremote
 pscommand_add-gitskipworktreeflag
@@ -6223,6 +6240,9 @@ pscommand_get-dockercontainerlatestipaddress
 pscommand_get-dockercontainerlatestquiet
 pscommand_get-dockercontainerrunning
 pscommand_get-dockerimage
+pscommand_get-envpathitem
+pscommand_get-envvar
+pscommand_get-envvarpathitem
 pscommand_get-gitbranchdefault
 pscommand_get-gitbranchlist
 pscommand_get-gitbranchlistall
@@ -7183,6 +7203,7 @@ pscommand_mcisk
 pscommand_mcp
 pscommand_mcpsk
 pscommand_mdep
+pscommand_measure-envvarchanges
 pscommand_merge-gitrepositoryfromoriginbranchmain
 pscommand_merge-gitrepositoryfromupstreambranchmain
 pscommand_mi
@@ -7298,10 +7319,14 @@ pscommand_pyserver
 pscommand_python
 pscommand_python3
 pscommand_rb
+pscommand_read-dotenv
 pscommand_register-argcompleteargumentcompleter
 pscommand_remove_gem
 pscommand_remove-dockercontainerall
 pscommand_remove-dockerunusedimage
+pscommand_remove-envpathitem
+pscommand_remove-envvar
+pscommand_remove-envvarpathitem
 pscommand_remove-gitbranch
 pscommand_remove-gitbranchforcefully
 pscommand_remove-gitremote
@@ -7331,6 +7356,7 @@ pscommand_scu-enable-now
 pscommand_scu-mask-now
 pscommand_search-commandpath
 pscommand_search-ruby
+pscommand_set-envvar
 pscommand_set-gitremoteurl
 pscommand_set-itemnixmode
 pscommand_set-locationback1
@@ -7618,6 +7644,8 @@ psfoldersize
 psfunction__python3
 psfunction_aar
 psfunction_add_ssh
+psfunction_add-envpathitem
+psfunction_add-envvarpathitem
 psfunction_add-gitlfstrackedfiles
 psfunction_add-gitremote
 psfunction_add-gitskipworktreeflag
@@ -7809,6 +7837,9 @@ psfunction_get-dockercontainerlatestipaddress
 psfunction_get-dockercontainerlatestquiet
 psfunction_get-dockercontainerrunning
 psfunction_get-dockerimage
+psfunction_get-envpathitem
+psfunction_get-envvar
+psfunction_get-envvarpathitem
 psfunction_get-gitbranchdefault
 psfunction_get-gitbranchlist
 psfunction_get-gitbranchlistall
@@ -8447,6 +8478,7 @@ psfunction_jump
 psfunction_kerndeb
 psfunction_kres
 psfunction_local-ignore
+psfunction_measure-envvarchanges
 psfunction_merge-gitrepositoryfromoriginbranchmain
 psfunction_merge-gitrepositoryfromupstreambranchmain
 psfunction_mirrorsite
@@ -8505,9 +8537,13 @@ psfunction_push-gitstashentry
 psfunction_push-gitstashentrywithmessage
 psfunction_pwshrc-show-proxy
 psfunction_pyserver
+psfunction_read-dotenv
 psfunction_register-argcompleteargumentcompleter
 psfunction_remove-dockercontainerall
 psfunction_remove-dockerunusedimage
+psfunction_remove-envpathitem
+psfunction_remove-envvar
+psfunction_remove-envvarpathitem
 psfunction_remove-gitbranch
 psfunction_remove-gitbranchforcefully
 psfunction_remove-gitremote
@@ -8535,6 +8571,7 @@ psfunction_scu-enable-now
 psfunction_scu-mask-now
 psfunction_search-commandpath
 psfunction_search-ruby
+psfunction_set-envvar
 psfunction_set-gitremoteurl
 psfunction_set-itemnixmode
 psfunction_set-locationback1
@@ -8814,6 +8851,7 @@ qq
 qr
 qr-code
 qrcode
+qrcodes
 qrp
 qrs
 quality
@@ -10550,7 +10588,6 @@ twitter-api
 twitter-api-v2
 twitter-client
 twitter-follow
-twitter-hashtag
 twitter-mention
 twitter-share
 twitter-timeline
@@ -10673,7 +10710,6 @@ unitconvesion
 unittest
 unittesting
 unity
-unitypackage
 universal
 universal-automation
 universal-dashboard
@@ -11098,6 +11134,7 @@ where
 whfb
 whiteboard
 whitespace
+who
 whoami
 whois
 whoiscmdlet
@@ -11279,6 +11316,9 @@ worker
 workflow
 workflowmax
 workflows
+workingdays
+workinghours
+workingtime
 workload
 workload-automation
 workloadidentity
