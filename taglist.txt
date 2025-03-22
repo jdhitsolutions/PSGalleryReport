@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Friday, 21 March 2025 17:52:04 UTC
+Updated: Saturday, 22 March 2025 02:16:32 UTC
 
 .bat
 .env
@@ -19,6 +19,7 @@ Updated: Friday, 21 March 2025 17:52:04 UTC
 🍄
 🍣
 💩
+🙇
 1&1
 10
 11
@@ -295,6 +296,7 @@ alain
 alarm
 alb
 albums
+alc
 alero
 alert
 alerting
@@ -391,6 +393,7 @@ apexlegends
 api
 api-client
 api-gateway
+api-rest
 apichecks
 apiclient
 apigateway
@@ -531,6 +534,8 @@ aspnet
 aspnet_regiis
 asr
 assembleenationale
+assembly
+assemblyloadcontext
 assemblymeta
 assert
 assertion
@@ -637,6 +642,7 @@ autotask
 autotaskapi
 autotaskpsa
 autotyper
+autounattend
 autoupdate
 autoupdate-script
 autowrapper
@@ -1063,7 +1069,6 @@ cache
 caf
 cal
 calc
-calculate
 calculator
 calendar
 callingcode
@@ -1094,7 +1099,6 @@ carbonawarecomputing
 carbonintensity
 card
 cardwirth
-cares
 cargo
 carousel
 carrier
@@ -1158,7 +1162,6 @@ certes
 certificate
 certificateauthority
 certificatechain
-certificatemanager
 certificatepolicy
 certificates
 certificateservices
@@ -1212,6 +1215,7 @@ chocolatey
 choice
 choose_file
 choose_file_name
+choose_folder
 chooser
 christaylorcodes
 christmas
@@ -1563,6 +1567,7 @@ containerregistry
 containers
 containment
 content
+contentprep
 context
 continious-deploy
 continious-integration
@@ -1580,6 +1585,7 @@ contrast
 control
 controller
 controlroom
+controlup
 conventional
 conventional-commits
 convereter
@@ -1696,6 +1702,7 @@ credman
 credmanager
 crescendo
 crescendobuilt
+cresendo
 crestron
 cricket
 crime
@@ -1751,6 +1758,7 @@ currency-convereter
 currency-exchange
 currencyconverterapi
 current
+curseforge
 custom
 customchecks
 customdns
@@ -1816,6 +1824,7 @@ darktrace
 dash
 dashboard
 dashboardapi
+dashboardservice
 dast
 data
 data_protection
@@ -2289,6 +2298,7 @@ dtx
 du
 dual-stack
 duck
+duckdb
 duckduckgo
 ducktyping
 dudckduckgo
@@ -2377,7 +2387,6 @@ eid
 eigencontroles
 einstein
 eklient psedition_core psedition_desktop
-elapsed
 elastic
 elasticsan
 elasticsearch
@@ -2498,6 +2507,7 @@ errors
 errorview
 eryph
 esae
+esc
 escape
 escapecodes
 escapesequences
@@ -2629,7 +2639,6 @@ export-cmhealthreport
 export-data
 export-passlist
 exportcertificate
-exportcertificates
 exporter
 exportexcel
 exportteams
@@ -2903,6 +2912,9 @@ freesoftwarefoundation
 freshbooks
 freshdesk
 freshservice
+freshservice-api
+freshserviceps
+freshworks
 friendly
 fritz
 fritzbox
@@ -3190,6 +3202,7 @@ grouvee
 growlnotify
 grr
 gsettings
+gsudo
 gsuite
 gtx1080ti
 guardedfabric
@@ -3356,7 +3369,6 @@ hkey_users
 hklm
 hl7
 hlds
-hls
 hockey
 hol
 holiday
@@ -3491,6 +3503,7 @@ id
 id3
 idabus
 ide
+identifier
 identity
 identity-management
 identitydataplane
@@ -3763,7 +3776,6 @@ iteration
 itg
 itglue
 itin
-itop
 itsm
 itstore
 ivanti
@@ -3891,6 +3903,7 @@ keymap
 keymapping
 keypair
 keysms
+keyvalue
 keyvault
 keywords
 kfum-spejderne
@@ -4040,6 +4053,7 @@ lifequotes
 lifestyle
 light
 lighthouse
+lights
 lime
 limesurvey
 limit-job
@@ -4185,6 +4199,8 @@ longfiles
 longitude
 look
 lookup
+lookupaccountname
+lookupaccountsid
 loop
 loopback
 loremipsum
@@ -4446,6 +4462,7 @@ microsoftdefender
 microsoftdefenderatp
 microsoftdefenderforidentity
 microsoftdeploymenttoolkit
+microsoftendpointmanager
 microsoftexchangeserver
 microsoftfabric
 microsoftgraph
@@ -4573,7 +4590,6 @@ mozilla
 mp3
 mp4
 mpc
-mpeg
 mpn
 mrfk
 mrfylke
@@ -4751,6 +4767,8 @@ netextender
 netfirewallrule
 netherlands
 netmask
+netpdf
+netpdfps
 nets
 netsapiens
 netscaler
@@ -4890,6 +4908,8 @@ nsxt
 ntdll
 ntds
 ntfs
+ntfy
+ntfypwsh
 ntp
 ntsystems
 nuget
@@ -5284,6 +5304,7 @@ pdf-document-processor
 pdf-files
 pdf-generation
 pdf-redaction
+pdfbox
 pe
 peek
 peering
@@ -5680,6 +5701,7 @@ privileged
 privilegedidentitymanagement
 privileges
 pro
+probability
 probe
 process
 process-inspector
@@ -5713,7 +5735,6 @@ progressbars
 project
 project-management
 projectmanagement
-projectreunion
 projects
 projecttemplate
 projectwise
@@ -8683,6 +8704,7 @@ psmssql
 psmssqlbynarymodule
 psmssqlmodule
 psmvp
+psnavigation
 psnexosisclient
 psngenposh
 psobject
@@ -8925,8 +8947,10 @@ readiness
 readme
 readpdf
 readthedocs
+real-time
 realschule
 realtimeprotection
+realvnc
 rebase
 reboot
 rebootnodeifneeded
@@ -9314,6 +9338,7 @@ scanner
 scanning
 scap
 scatter
+scb
 scc
 sccm
 sccmam
@@ -9768,6 +9793,7 @@ social
 social-media
 socialmedia
 socketlabs
+sockets
 sodium
 software
 softwarecenter
@@ -9801,6 +9827,7 @@ soonragent
 sophos
 sort
 sort-json
+sorting
 sounds
 source
 source-dedicated-server
@@ -9834,6 +9861,7 @@ specification
 specify
 spectre
 spectrumconnect
+spectrumcontrolbase
 speculation
 speculationcontrol
 speech
@@ -10055,7 +10083,6 @@ sub
 sub-directory
 sub-menu
 subatomix
-subjectname
 sublimetext
 submission
 subnet
@@ -10133,6 +10160,7 @@ syndication
 synergy
 syntax
 syntax-highlighting
+syntaxcheck
 syntaxhighlighter
 synthesis
 synthetics
@@ -10844,7 +10872,6 @@ version
 versioncontrol
 versioning
 versionmanager
-versionnumber
 vertical
 vester
 vhd
@@ -10921,6 +10948,7 @@ vmwcluster
 vmwdatacenter
 vmwfolder
 vmwvmhost
+vnc
 vnet
 vnmonitoring
 vnugglets
@@ -11100,7 +11128,6 @@ where
 whfb
 whiteboard
 whitespace
-who
 whoami
 whois
 whoiscmdlet
@@ -11167,6 +11194,7 @@ windows-explorer
 windows-features
 windows-firewall
 windows-path
+windows-powershell
 windows-registry
 windows-remoting
 windows-server-2016
@@ -11242,7 +11270,6 @@ winsat
 winscp
 wintellect
 winterminal
-winui
 wired
 wireless
 wirelessnetwork
