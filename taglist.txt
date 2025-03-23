@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Saturday, 22 March 2025 17:52:07 UTC
+Updated: Sunday, 23 March 2025 02:21:42 UTC
 
 .bat
 .env
@@ -547,7 +547,6 @@ assets
 assist
 assistance
 assistant
-association
 ast
 astronomy
 asv
@@ -808,9 +807,7 @@ azurevirtualmachines
 azurevm
 azurevpn
 azvm
-b2
 back
-backblaze
 backconnection
 backconnectionhostname
 backend
@@ -850,7 +847,6 @@ battery
 bayern
 bazzo
 bb
-bbc
 bbp
 bc
 bc365
@@ -934,7 +930,6 @@ blackbytesbox
 blacklist
 blade
 bladeserver
-blaze
 blinking-text
 blob
 blobstorage
@@ -970,7 +965,6 @@ bookmark
 bookmarks
 books
 bool
-boolean
 bootloader psmodule
 bootstrap
 bootstrapping
@@ -986,7 +980,6 @@ box
 bpmn
 brainy
 branch
-branch-rename
 brave
 brawlapi
 brawlstars
@@ -1008,7 +1001,6 @@ brk4452
 broadcast
 broadcom
 broot
-brotli
 brownserve-uk
 browser
 browserbox
@@ -1412,6 +1404,7 @@ cognitiveservice
 cognitiveservices
 cohere
 cohesity
+coinbase
 coinmarketcap
 collaboration
 collatordso
@@ -1724,6 +1717,7 @@ crt.sh
 crud
 crx
 crypto
+crypto-currency
 cryptocompare
 cryptocurrency
 cryptography
@@ -2060,6 +2054,7 @@ dicom
 dictionary
 diff
 difference
+dify
 dig
 digikam
 digital
@@ -2400,7 +2395,6 @@ elevated
 elevatedconsole
 elevatedmode
 elevation
-elevenlabs
 elgato
 eli5
 elitism
@@ -2779,7 +2773,6 @@ filesystemrights
 filesystemsecurity
 filesystemwatcher
 filetransfer
-filetype
 filewrite
 fill
 film
@@ -2845,7 +2838,6 @@ flexible
 flickr
 flowchart
 flowy
-fluidrelay
 flurl
 flyway
 fmg
@@ -3089,7 +3081,6 @@ git-clone
 git-flow
 git-lfs
 git-proxy
-git-rename
 git-stat
 gitcmdline
 gitdesktop
@@ -3187,7 +3178,6 @@ graphservices
 graphviz
 graylog
 greenlake
-greenplum
 gregorian
 gremlin
 grep
@@ -3380,6 +3370,7 @@ holiday
 home
 home_automation
 homebrew
+homelab
 homelandsecurity
 homeschooling
 hometheater
@@ -3803,6 +3794,8 @@ jde
 jdedwards
 jdt
 jea
+jea_module
+jeanalyzer
 jekyll
 jenkins
 jetbrains
@@ -3861,6 +3854,7 @@ jwe
 jwk
 jws
 jwt
+jwttoken
 k8s
 k8sshell
 k8ssnapshots
@@ -3887,7 +3881,6 @@ keeper
 kelverion
 kentico
 kerberos
-kernel32
 kestrel
 key
 key-vault
@@ -4075,7 +4068,6 @@ linkedservicedependency
 linkid
 links
 linq
-linqpad
 lint
 linting
 linux
@@ -4464,7 +4456,6 @@ microsoftdefender
 microsoftdefenderatp
 microsoftdefenderforidentity
 microsoftdeploymenttoolkit
-microsoftendpointmanager
 microsoftexchangeserver
 microsoftfabric
 microsoftgraph
@@ -4728,6 +4719,7 @@ nartac
 nasdaq
 native
 natpool
+natural
 natural-language-to-code
 natural-selection
 nature
@@ -4755,7 +4747,6 @@ nerdymishka
 nessus
 nested
 net
-net4.8
 netadapter
 netapi32
 netapp
@@ -4805,7 +4796,6 @@ networksecuritygroup
 networkshares
 netwrix
 new
-new-completionresult
 new-dtcmpackagefromdriverpackpackagedefinitionsms
 new-dtcmtasksequencefromdriverpackpackagedefinitionsms
 new-dynamicdictionary
@@ -4908,7 +4898,6 @@ nslookup
 nsx
 nsx-t
 nsxt
-ntdll
 ntds
 ntfs
 ntfy
@@ -4954,7 +4943,6 @@ obfuscation
 obj
 object
 objectid
-objectstorage
 objecttree
 obs
 observeit
@@ -5030,7 +5018,6 @@ onedriveforbusiness
 oneget
 oneidentity
 onelogin
-oneloginapi
 onenote
 onestools
 onesubscription
@@ -9022,7 +9009,6 @@ regedit
 regex
 region
 regions
-regiser-argumentcompleter
 register
 register-argumentcompleter
 registered
@@ -9087,9 +9073,6 @@ removetypeaccelerators
 remux
 ren-isac
 rename
-rename-git
-rename-git-branch
-rename-gitbranch
 reonboarding
 repair
 repair-msauth
@@ -9321,7 +9304,6 @@ sapazure
 saponazure
 sapstartstopazure
 sarcasm
-sarif
 sas
 sat
 satirical
@@ -9457,7 +9439,6 @@ secretsmanager
 secretstore
 secretvault
 section
-secur32
 secure
 secureapplicationmodel
 secureboot
@@ -9649,7 +9630,6 @@ shieldedvm
 ships
 shipsprovider
 shipstation
-shitpost
 shlink
 shodan
 shodanps
@@ -10576,7 +10556,6 @@ tuner
 tuning
 tutorial
 tv
-tvguide
 tweet
 twig
 twilio
@@ -10588,6 +10567,7 @@ twitter-api
 twitter-api-v2
 twitter-client
 twitter-follow
+twitter-hashtag
 twitter-mention
 twitter-share
 twitter-timeline
@@ -10710,6 +10690,7 @@ unitconvesion
 unittest
 unittesting
 unity
+unitypackage
 universal
 universal-automation
 universal-dashboard
@@ -11374,7 +11355,6 @@ wsmanlistener
 wso2
 wsus
 wt
-wtsapi32
 wttr
 wttr.in
 wtx
