@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 24 March 2025 02:20:00 UTC
+Updated: Monday, 24 March 2025 09:52:44 UTC
 
 .bat
 .env
@@ -571,7 +571,6 @@ atproto
 atprotocol
 atrium
 att&ck
-attach
 attestation
 attila
 attribute
@@ -622,7 +621,6 @@ autograph
 autohotkey
 autoload
 autologon
-automai
 automanage
 automate
 automated
@@ -948,8 +946,6 @@ blocks
 blog
 blogs
 bloodhound
-bloxone
-bloxoneddi
 bls
 blue
 bluedolhin
@@ -1764,6 +1760,7 @@ currency-convereter
 currency-exchange
 currencyconverterapi
 current
+curseforge
 custom
 customchecks
 customdns
@@ -2416,7 +2413,6 @@ elmah-io
 elonmusk
 eloomi
 eloqua
-elvish
 elvui
 em
 emacs
@@ -2581,7 +2577,6 @@ evernote
 everydaypowershell
 everydayrewards
 everything
-evilprince2009
 evolutionary-algorithms
 evolutionary-database
 evtx
@@ -2740,8 +2735,6 @@ file-encoding
 file-extension
 file-extension-association
 file-invalidchar
-file-matcher
-file-matching
 file-monitoring
 file-name
 file-name-extension
@@ -2760,7 +2753,6 @@ filelog
 filelogger
 filemaintenance
 filemanagement
-filematcher
 filename
 filenames
 fileproperties
@@ -2777,9 +2769,6 @@ filesharing
 filestorage
 filestream
 filesystem
-filesystementry-matcher
-filesystementry-matching
-filesystementrymatcher
 filesystemoperations
 filesystemrights
 filesystemsecurity
@@ -3079,7 +3068,6 @@ get-usersorgunitreport
 getfirmwareenvironmentvariable
 getfirmwaretype
 ggplot
-gh
 gh-actions
 ghactions
 ghc
@@ -3193,6 +3181,7 @@ graphservices
 graphviz
 graylog
 greenlake
+greenplum
 gregorian
 gremlin
 grep
@@ -3207,7 +3196,6 @@ group-policy
 groupmembership
 grouppolicy
 groups
-grouvee
 growlnotify
 grr
 gsettings
@@ -3786,7 +3774,6 @@ iteration
 itg
 itglue
 itin
-itop
 itsm
 itstore
 ivanti
@@ -3821,7 +3808,6 @@ jms
 jmsjavadownloads
 jnet
 jnetps
-joat
 job
 jobcan
 jobs
@@ -4780,8 +4766,6 @@ netextender
 netfirewallrule
 netherlands
 netmask
-netpdf
-netpdfps
 nets
 netsapiens
 netscaler
@@ -4839,6 +4823,7 @@ newtonsoft
 newtonsoft.json
 nexenta
 nexentastor
+nextcloud
 nexthink
 nexus
 nexusiq
@@ -5040,6 +5025,7 @@ onedriveforbusiness
 oneget
 oneidentity
 onelogin
+oneloginapi
 onenote
 onestools
 onesubscription
@@ -5183,6 +5169,7 @@ outlook
 outpainting
 output
 output-to-image
+outreach
 outsystems
 overbite
 ovf
@@ -5316,7 +5303,6 @@ pdf-document-processor
 pdf-files
 pdf-generation
 pdf-redaction
-pdfbox
 pe
 peek
 peering
@@ -5528,7 +5514,6 @@ poshy-wrap-docker-compose
 poshy-wrap-dotnet
 poshy-wrap-forgit
 poshy-wrap-gem
-poshy-wrap-gh
 poshy-wrap-git
 poshy-wrap-git-flow
 poshy-wrap-git-lfs
@@ -5670,7 +5655,6 @@ predictive-text
 predictor
 preferences
 prefix
-prefixing
 preparead
 preparealldomains
 prepareschema
@@ -6621,12 +6605,6 @@ pscommand_invoke-gitflowreleasepublish
 pscommand_invoke-gitflowreleasepublishcurrent
 pscommand_invoke-gitflowreleasestart
 pscommand_invoke-gitgui
-pscommand_invoke-githubapi
-pscommand_invoke-githubapi-bodyempty
-pscommand_invoke-githubapi-bodyfields
-pscommand_invoke-githubapi-bodyfile
-pscommand_invoke-githubapi-bodyjson
-pscommand_invoke-githubapi-bodyraw
 pscommand_invoke-gitlfsinstall
 pscommand_invoke-gitlfsmigrateimport
 pscommand_invoke-gitmerge
@@ -8035,12 +8013,6 @@ psfunction_invoke-gitflowreleasepublish
 psfunction_invoke-gitflowreleasepublishcurrent
 psfunction_invoke-gitflowreleasestart
 psfunction_invoke-gitgui
-psfunction_invoke-githubapi
-psfunction_invoke-githubapi-bodyempty
-psfunction_invoke-githubapi-bodyfields
-psfunction_invoke-githubapi-bodyfile
-psfunction_invoke-githubapi-bodyjson
-psfunction_invoke-githubapi-bodyraw
 psfunction_invoke-gitlfsinstall
 psfunction_invoke-gitlfsmigrateimport
 psfunction_invoke-gitmerge
@@ -9500,7 +9472,6 @@ securitytxt
 sed
 seed
 seek
-seekatar
 seeshell
 select
 select-item
@@ -10410,7 +10381,6 @@ threads
 threadsanitizer
 threat
 threat-hunting
-threatdefense
 threathunting
 threatintelligence
 threatintelligenceindicators
@@ -10653,6 +10623,7 @@ ud-piechart3d
 ud-pivottable
 ud-progressstepbar
 ud-rangeslider
+ud-readingbar
 ud-scrollspy
 ud-selectdatetime
 ud-selector
@@ -11179,7 +11150,6 @@ widedata
 wif
 wifi
 wiki
-wildcard
 wildfire
 wildfly
 wim
