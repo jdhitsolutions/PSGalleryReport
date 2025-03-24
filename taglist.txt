@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 24 March 2025 09:52:44 UTC
+Updated: Monday, 24 March 2025 17:52:05 UTC
 
 .bat
 .env
@@ -247,7 +247,6 @@ aeries
 aeriessis
 aerofetch
 aes
-aesgcm
 afd
 affinity
 affinity-co
@@ -412,7 +411,6 @@ aportal
 app
 app-only
 app-v
-app-volumes
 app.config
 appattach
 appclusive
@@ -453,7 +451,6 @@ appsetting
 appv
 appventix
 appveyor
-appvolumes
 appwrite
 appx
 appxmanifest
@@ -571,6 +568,7 @@ atproto
 atprotocol
 atrium
 att&ck
+attach
 attestation
 attila
 attribute
@@ -621,6 +619,7 @@ autograph
 autohotkey
 autoload
 autologon
+automai
 automanage
 automate
 automated
@@ -713,7 +712,6 @@ azstackhci
 azstate
 azsubnet
 aztools
-azts
 azuead
 azure
 azure_ad
@@ -946,6 +944,8 @@ blocks
 blog
 blogs
 bloodhound
+bloxone
+bloxoneddi
 bls
 blue
 bluedolhin
@@ -1245,7 +1245,6 @@ cimsession
 cinema
 cinst
 cipher
-cipp
 circuit-breaker
 circumlunar
 cireson
@@ -1816,7 +1815,6 @@ dacpackage
 dagger
 dailen
 daily
-dalle3
 dane
 dangling
 dapr
@@ -2064,7 +2062,6 @@ difference
 dify
 dig
 digikam
-digital
 digital-forensics
 digitalforensics
 digitalocean
@@ -2413,6 +2410,7 @@ elmah-io
 elonmusk
 eloomi
 eloqua
+elvish
 elvui
 em
 emacs
@@ -2577,6 +2575,7 @@ evernote
 everydaypowershell
 everydayrewards
 everything
+evilprince2009
 evolutionary-algorithms
 evolutionary-database
 evtx
@@ -2735,6 +2734,8 @@ file-encoding
 file-extension
 file-extension-association
 file-invalidchar
+file-matcher
+file-matching
 file-monitoring
 file-name
 file-name-extension
@@ -2753,6 +2754,7 @@ filelog
 filelogger
 filemaintenance
 filemanagement
+filematcher
 filename
 filenames
 fileproperties
@@ -2769,6 +2771,9 @@ filesharing
 filestorage
 filestream
 filesystem
+filesystementry-matcher
+filesystementry-matching
+filesystementrymatcher
 filesystemoperations
 filesystemrights
 filesystemsecurity
@@ -3068,6 +3073,7 @@ get-usersorgunitreport
 getfirmwareenvironmentvariable
 getfirmwaretype
 ggplot
+gh
 gh-actions
 ghactions
 ghc
@@ -3196,6 +3202,7 @@ group-policy
 groupmembership
 grouppolicy
 groups
+grouvee
 growlnotify
 grr
 gsettings
@@ -3774,6 +3781,7 @@ iteration
 itg
 itglue
 itin
+itop
 itsm
 itstore
 ivanti
@@ -3808,6 +3816,7 @@ jms
 jmsjavadownloads
 jnet
 jnetps
+joat
 job
 jobcan
 jobs
@@ -4049,7 +4058,6 @@ life
 lifequotes
 lifestyle
 light
-lighthouse
 lights
 lime
 limesurvey
@@ -4564,8 +4572,6 @@ monitor
 monitor psmodule
 monitorinformation
 monitoring
-monitoring_objects
-monitoring_variables
 monitoringplugins
 monitoringsolutions
 monitors
@@ -4766,6 +4772,8 @@ netextender
 netfirewallrule
 netherlands
 netmask
+netpdf
+netpdfps
 nets
 netsapiens
 netscaler
@@ -4930,8 +4938,6 @@ nvm-window
 nxt
 nyse
 nzb
-o1
-o3
 o365
 o365mailnotification
 oa
@@ -5025,7 +5031,6 @@ onedriveforbusiness
 oneget
 oneidentity
 onelogin
-oneloginapi
 onenote
 onestools
 onesubscription
@@ -5133,7 +5138,6 @@ osdeployment
 osdprogress
 osdsus
 osdupdate
-osdworkspace
 osi
 osm
 osmanagement
@@ -5303,6 +5307,7 @@ pdf-document-processor
 pdf-files
 pdf-generation
 pdf-redaction
+pdfbox
 pe
 peek
 peering
@@ -5514,6 +5519,7 @@ poshy-wrap-docker-compose
 poshy-wrap-dotnet
 poshy-wrap-forgit
 poshy-wrap-gem
+poshy-wrap-gh
 poshy-wrap-git
 poshy-wrap-git-flow
 poshy-wrap-git-lfs
@@ -5655,6 +5661,7 @@ predictive-text
 predictor
 preferences
 prefix
+prefixing
 preparead
 preparealldomains
 prepareschema
@@ -6605,6 +6612,12 @@ pscommand_invoke-gitflowreleasepublish
 pscommand_invoke-gitflowreleasepublishcurrent
 pscommand_invoke-gitflowreleasestart
 pscommand_invoke-gitgui
+pscommand_invoke-githubapi
+pscommand_invoke-githubapi-bodyempty
+pscommand_invoke-githubapi-bodyfields
+pscommand_invoke-githubapi-bodyfile
+pscommand_invoke-githubapi-bodyjson
+pscommand_invoke-githubapi-bodyraw
 pscommand_invoke-gitlfsinstall
 pscommand_invoke-gitlfsmigrateimport
 pscommand_invoke-gitmerge
@@ -8013,6 +8026,12 @@ psfunction_invoke-gitflowreleasepublish
 psfunction_invoke-gitflowreleasepublishcurrent
 psfunction_invoke-gitflowreleasestart
 psfunction_invoke-gitgui
+psfunction_invoke-githubapi
+psfunction_invoke-githubapi-bodyempty
+psfunction_invoke-githubapi-bodyfields
+psfunction_invoke-githubapi-bodyfile
+psfunction_invoke-githubapi-bodyjson
+psfunction_invoke-githubapi-bodyraw
 psfunction_invoke-gitlfsinstall
 psfunction_invoke-gitlfsmigrateimport
 psfunction_invoke-gitmerge
@@ -8759,7 +8778,6 @@ publicip
 publish
 publish-module
 publishedmodules
-publisher
 publishers
 publishing
 pubsub
@@ -9361,6 +9379,7 @@ scom
 sconfig
 scoop
 scope
+scopes
 score
 scouterna
 scouternasetjanster
@@ -9472,6 +9491,7 @@ securitytxt
 sed
 seed
 seek
+seekatar
 seeshell
 select
 select-item
@@ -9610,7 +9630,6 @@ sharefile
 sharepoint
 sharepoint_online
 sharepoint-on-prem
-sharepoint-online
 sharepoint-product-configuration-wizard
 sharepoint2013
 sharepointdevelopmentcommunity
@@ -10381,6 +10400,7 @@ threads
 threadsanitizer
 threat
 threat-hunting
+threatdefense
 threathunting
 threatintelligence
 threatintelligenceindicators
@@ -11025,7 +11045,6 @@ wansi
 wap
 wapack
 wapi
-wara
 warning
 warplaneporn
 warranty
@@ -11100,8 +11119,6 @@ wecutil
 weekday
 wef
 weixin
-well-architectedframework
-well-architectedreliabilityassessment
 well-known
 wem
 wemsdk
@@ -11150,6 +11167,7 @@ widedata
 wif
 wifi
 wiki
+wildcard
 wildfire
 wildfly
 wim
