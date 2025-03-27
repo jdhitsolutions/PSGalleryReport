@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Wednesday, 26 March 2025 17:52:10 UTC
+Updated: Thursday, 27 March 2025 02:17:50 UTC
 
 .bat
 .env
@@ -95,7 +95,6 @@ accord
 accord.net
 accordian
 account
-account-management
 accounting
 accounts
 ace
@@ -174,6 +173,7 @@ add-one
 add-path
 add-type
 addin
+addlevel
 addomainservices
 addon
 address
@@ -327,6 +327,8 @@ alwaysontop
 alwaysonvpn
 alz
 amateur
+amateur-data-interchange-format
+amateur-radio
 amateurradio
 amazon
 amazonaws
@@ -451,6 +453,7 @@ appv
 appventix
 appveyor
 appvolumes
+appwrite
 appx
 appxmanifest
 appxpackage
@@ -662,6 +665,7 @@ avro
 avs
 avset
 await
+awakecoding
 awareness
 awesome
 awp
@@ -767,8 +771,8 @@ azureiot
 azureiothub
 azurekeyvault
 azurekeyvaultstuff
+azurelocal
 azuremaps
-azuremigrate
 azuremonitor
 azurenetworking
 azurepack
@@ -811,6 +815,7 @@ back
 backblaze
 backconnection
 backconnectionhostname
+backend
 backup
 backup_validation
 bamboo
@@ -909,7 +914,9 @@ bios_settings
 bios-settings
 bit
 bitbucket
+bitbucket-api
 bitbucket-server
+bitbucketautomation
 bitbucketpipelines
 bitcoin
 bitlocker
@@ -1007,7 +1014,6 @@ brotli
 brownserve-uk
 browser
 browserbox
-browserextension
 browserhistory
 browsing
 brs
@@ -1168,10 +1174,12 @@ certinia
 certutil
 cf
 cfn
+ch9
 change
 changeanalysis
 changelog
 channel
+channel9
 char
 character
 chart
@@ -1210,6 +1218,7 @@ chocobear
 chocolatey
 choice
 choose_file
+choose_file_name
 choose_folder
 chooser
 christaylorcodes
@@ -1450,6 +1459,7 @@ comments
 commerce
 commfort
 commit
+commits
 common
 common-data-service
 commondataservice
@@ -1480,7 +1490,6 @@ compoundproperty
 compress
 compression
 compute
-compute-ops-management
 computecloudatcustomer
 computeinstanceagent
 computer
@@ -1580,6 +1589,8 @@ control
 controller
 controlroom
 controlup
+conventional
+conventional-commits
 convereter
 converged_data_management
 conversational
@@ -1628,6 +1639,7 @@ cos
 cosmos
 cosmosdb
 cost
+cost-management
 costmanagement
 costoptimization
 couchbase
@@ -1711,6 +1723,7 @@ crossplatformdevelopment
 crowdstrike
 crt.sh
 crud
+crx
 crypto
 crypto-currency
 cryptocompare
@@ -1780,7 +1793,6 @@ cyber
 cyberark
 cyberark-api
 cyberark-dpa
-cyberark-identity
 cyberdrain
 cybereason
 cybersecurity
@@ -2211,7 +2223,6 @@ dotfile
 dotfiles
 dotnet
 dotnet-cli
-dotnettool
 dotps1
 dots
 dotteddecimalip
@@ -2409,6 +2420,7 @@ email
 email-address
 emailaddressupdate
 emailautomation
+emaildataplane
 emailmanagment
 emailnotification
 emailnotificationcomponent
@@ -2460,6 +2472,7 @@ enterprisevoice
 entity
 entityframework
 entra
+entra-id
 entracloudsync
 entraconnect
 entraid
@@ -2642,12 +2655,10 @@ extendedattributes
 extendedevents
 extendedgroups
 extendedproperties
-extendedproperty
 extendscript
 extensibility
 extension
 extensionmethods
-extensionrisk
 extensions
 external
 externalip
@@ -2897,6 +2908,8 @@ fqdn
 frame
 framework
 france
+free
+free-ware
 freeipa
 freenas
 freesoftwarefoundation
@@ -3103,7 +3116,6 @@ globaldashboard
 globalentry
 globallydistributeddatabase
 globbing
-glp
 glpi
 gmail
 gmap
@@ -3121,6 +3133,7 @@ goldengate
 goldsource
 goldsource-dedicated-server
 google
+google-chrome
 google-fonts
 google-histogram
 google-sankey
@@ -3167,12 +3180,11 @@ graphic
 graphics
 graphite
 graphql
-graphquerylanguage
 graphs
 graphservices
 graphviz
 graylog
-greenlake
+greenplum
 gregorian
 gremlin
 grep
@@ -3317,7 +3329,6 @@ heml
 here
 hewlett
 hewlett-packard
-hewlett-packard-enterprise
 hewlett-packardenterprise
 hex
 hexdump
@@ -3395,7 +3406,6 @@ hpccache
 hpe
 hpealletra6000andnimblestoragepowershelltoolkit
 hpebioscmdlets
-hpegreenlake
 hpeilocmdlets
 hpemigrationadvisorycmdlets
 hpemigrationadvisorytool
@@ -3706,6 +3716,7 @@ ip-scanner
 ipa
 ipaddress
 ipam
+ipbroadcast
 ipc
 ipcalc
 ipcalculator
@@ -3989,7 +4000,6 @@ latestupdate
 latin
 latitude
 launcher
-layer
 layman
 layout
 lazywinadmin
@@ -4098,11 +4108,9 @@ loanddepot
 loandepot
 loc
 local
-local-account
 local-ai
 local-caching
 local-policy
-local-users
 localaccounts
 localadmin
 localconfigurationmanager
@@ -4121,7 +4129,6 @@ lock
 lockbox
 lockdisplaytimeout
 lockdown
-lockfile
 locking
 lockoutreport
 lockscreen
@@ -4139,6 +4146,7 @@ log-management
 log-rotation
 log4net
 loganalytics
+logbook
 logcat
 logentry
 logfile
@@ -4432,6 +4440,7 @@ microsoft_azure
 microsoft_endpoint_manager
 microsoft_online
 microsoft_teams
+microsoft-entra-id
 microsoft-graph
 microsoft-teams
 microsoft-web-platform
@@ -4747,6 +4756,7 @@ nerdymishka
 nessus
 nested
 net
+net4.8
 netadapter
 netapi32
 netapp
@@ -4863,6 +4873,7 @@ normal
 norskale
 norway
 norwegian
+nos
 nosql
 note
 notebook
@@ -5069,7 +5080,6 @@ opensearch
 opensource
 opensourceinitiative
 openssh
-opensshserver
 openssl
 openstack
 openstreetmaps
@@ -5132,6 +5142,7 @@ osdupdate
 osdworkspace
 osi
 osm
+osmanagement
 osmanagementhub
 osp
 ospgateway
@@ -5284,6 +5295,8 @@ paypal
 pays
 pbench
 pbip
+pbixtopbip
+pbixtopbit
 pc
 pcapng
 pci-dss
@@ -5360,6 +5373,7 @@ ping
 ping-async
 pingsweep
 pinneditem
+pinterest
 pinvoke
 pip
 pip3
@@ -5415,9 +5429,9 @@ pmp
 pncit
 pnp
 pnp.powershell
+pnpm
 poc
 pode
-poe
 poem
 poetry
 point
@@ -5679,6 +5693,7 @@ printing
 printnightmare
 printserver
 prism
+prism_element
 privacy
 private
 private-key
@@ -8689,7 +8704,6 @@ psmodule psedition_desktop
 psmodulebase
 psmodulepath
 psmodules
-psmp
 psmsgraph
 psmsgraphapi
 psmssql
@@ -8783,7 +8797,6 @@ pure
 pure1
 pureservice
 purestorage
-purfew
 purple
 purview
 push
@@ -9447,6 +9460,7 @@ section
 secur32
 secure
 secureapplicationmodel
+secureboot
 securechannel
 securedns
 securegopher
@@ -9618,6 +9632,7 @@ sharefile
 sharepoint
 sharepoint_online
 sharepoint-on-prem
+sharepoint-online
 sharepoint-product-configuration-wizard
 sharepoint2013
 sharepointdevelopmentcommunity
@@ -9937,6 +9952,7 @@ sqlvirtualmachine
 sqlvm
 sqr
 sqrt
+square
 squire
 srcds
 srcsrv
@@ -9950,7 +9966,6 @@ ssh
 ssh-config
 ssh-keygen
 sshmanagement
-sshserver
 sshservers
 ssis
 ssl
@@ -10284,6 +10299,7 @@ telegram-bot-api
 telegram-sticker
 telegramx
 telemetry
+teletext
 telligent
 telnet
 temp
@@ -10522,6 +10538,7 @@ trendmicro
 trevor
 trevorsullivan
 triangle
+tribeloo
 trick
 tricks
 trigger
@@ -10627,6 +10644,7 @@ ud-mouseparticle
 ud-navbarsearch
 ud-numbermask
 ud-orgchart
+ud-piechart3d
 ud-pivottable
 ud-progressstepbar
 ud-rangeslider
@@ -10654,6 +10672,7 @@ ud-wordtree
 udcm
 udfeedback
 udp
+udpclient
 udptest
 udr
 udthememode
@@ -10673,6 +10692,7 @@ ums
 unattend
 unattendedfile
 unblock
+unc
 uncpaths
 underlined-text
 unhide
@@ -11031,7 +11051,6 @@ wansi
 wap
 wapack
 wapi
-wara
 warning
 warplaneporn
 warranty
@@ -11106,8 +11125,6 @@ wecutil
 weekday
 wef
 weixin
-well-architectedframework
-well-architectedreliabilityassessment
 well-known
 wem
 wemsdk
@@ -11480,6 +11497,7 @@ zorusapi
 zoxide
 zpr
 zsh
+zuora
 zvm
 zvml
 zvmlinux
