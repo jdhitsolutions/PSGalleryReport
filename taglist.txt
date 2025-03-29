@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Saturday, 29 March 2025 09:52:09 UTC
+Updated: Saturday, 29 March 2025 17:52:10 UTC
 
 .bat
 .env
@@ -705,7 +705,6 @@ aznetworking
 aznetworkinterface
 aznicdetails
 azops
-azpipelines
 azpublicipaddress
 azresources
 azsdk
@@ -1286,8 +1285,6 @@ clear
 clear-history
 clearpass
 cli
-cli-menu
-cli-menu-helpers
 clickonce
 client
 client-management
@@ -1569,7 +1566,6 @@ container
 containerengine
 containergroup
 containerinstance
-containerinstances
 containerregistry
 containers
 containment
@@ -1676,6 +1672,7 @@ cqdpowershell
 cqhttp
 crack psmodule
 crash
+crawler
 crayon
 crc
 crc32
@@ -1690,6 +1687,7 @@ creationworkflowsimplification
 creator
 cred
 credential
+credential-dialog
 credential-file
 credential-files
 credential-manager
@@ -1794,6 +1792,7 @@ cx
 cyber
 cyberark
 cyberark-api
+cyberark-dpa
 cyberark-identity
 cyberdrain
 cybereason
@@ -1969,6 +1968,7 @@ defenderforidentity
 defense
 deflate
 defrag
+delegateaccesscontrol
 delegated
 delegation
 delegationmodel
@@ -2030,6 +2030,7 @@ deviation
 device
 devicecode
 deviceid
+devicemanagement
 deviceprovisioningservice
 devicereports
 devices
@@ -2328,9 +2329,11 @@ dust
 dutch
 dvls
 dvr
+dword
 dxexpeditions
 dynamic
 dynamic-host-configuration-protocol
+dynamic-privileged-access
 dynamicdistributiongroups
 dynamicdistributionlist
 dynamicdnsoverhttps
@@ -2359,12 +2362,12 @@ easy
 easy-to-use
 easylife365
 easyvista
-eaton
 ebay
 ebooks
 ebur128
 ec2
 ecommerce
+ecovadis
 ed25519
 edgaronline
 edge
@@ -2526,6 +2529,7 @@ espressif
 esri
 essbase
 est
+estimate
 estimation
 esx
 esxi
@@ -2626,7 +2630,6 @@ expand-tab
 expandframework
 expect
 experience
-experiments
 expiration
 expired
 expiring
@@ -2783,7 +2786,6 @@ filewrite
 fill
 film
 filter
-filter-item
 filtering
 fim
 fims
@@ -3060,6 +3062,7 @@ get-pass
 get-passivetrippoint
 get-passlist
 get-path
+get-pinneditem
 get-samcmassignedsite
 get-samcmcurrentmanagementpoint
 get-samplingperiod
@@ -3268,7 +3271,6 @@ hartokens
 harvest
 harvestforecast
 hash
-hash-verification
 hashcat
 hashicorp
 hashing
@@ -3362,6 +3364,13 @@ hitrust
 hive
 hivehome
 hjson
+hkcu
+hkey_classes_root
+hkey_current_config
+hkey_current_user
+hkey_local_machine
+hkey_users
+hklm
 hl7
 hlds
 hls
@@ -3555,7 +3564,6 @@ imap
 imb
 imei
 imi
-impala
 impersonation
 imperva
 import
@@ -3672,6 +3680,7 @@ intranet
 intrusion
 intuitive
 intune
+intuneadminroles
 intuneappwinutil
 intunestuff
 inventory
@@ -3861,8 +3870,6 @@ k8sshell
 k8ssnapshots
 kafka
 kaminario
-karabiner
-karabiner-elements
 karma
 kaseya
 kaseyavsa
@@ -3888,7 +3895,6 @@ key
 key-vault
 key2wocas
 keybase
-keybinding
 keyboard
 keyboardstartkey
 keycipher
@@ -3896,8 +3902,6 @@ keycloak
 keylight
 keymanagement
 keymanagementserver
-keymap
-keymapping
 keypair
 keysms
 keyvalue
@@ -4081,7 +4085,6 @@ liquid
 list
 list_files
 list-directory
-list-item
 listener
 litecoin
 litedb
@@ -4376,6 +4379,7 @@ mediaservices
 mediawiki
 meditation
 medlemsservice
+meesman
 meeting
 meetup
 meetup.com
@@ -4658,7 +4662,6 @@ multi-factor
 multi-language
 multi-platform
 multi-tenant
-multi-thread
 multi-threading
 multi-zone
 multicloud
@@ -4670,6 +4673,7 @@ multipart
 multipass
 multiple
 multiserver
+multistring
 multithread
 multithreaded
 multithreaded-helpers
@@ -4808,7 +4812,9 @@ new-dynamicdictionary
 new-dynamicparameter
 new-githubrelease
 new-item
+new-itemproperty
 new-modulemanifest
+new-pinneditem
 new-rdpsession
 new-samcmapplicationfrompackagedefinitionsms
 new-samcmpackagefrompackagedefinitionsms
@@ -4828,6 +4834,7 @@ nexthink
 nexus
 nexusiq
 nfsv3
+ngen
 ngfw
 nginx
 nhl
@@ -5106,7 +5113,6 @@ opus
 oracle
 oraclecloudinfrastructure
 oraculum
-orbital
 orchestrate
 orchestration
 orchestrator
@@ -5365,6 +5371,7 @@ pin
 ping
 ping-async
 pingsweep
+pinneditem
 pinterest
 pinvoke
 pip
@@ -8707,6 +8714,7 @@ psmssqlmodule
 psmvp
 psnavigation
 psnexosisclient
+psngenposh
 psobject
 psoutlog
 pspath
@@ -8875,6 +8883,7 @@ quotes
 quotestoliveby
 quoting
 quser
+qword
 r
 r53
 rabbit
@@ -9003,8 +9012,15 @@ reflection
 refresh
 refreshtoken
 reg
+reg_binary
+reg_dword
+reg_expand_sz
+reg_multi_sz
+reg_qword
+reg_sz
 regardscitoyen
 regcli
+regedit
 regex
 region
 regions
@@ -9063,8 +9079,10 @@ remotesession
 remoting
 remove
 remove-githubsecrets
+remove-itemproperty
 remove-pass
 remove-path
+remove-pinneditem
 remove-tempfiles
 removefile
 removetypeaccelerators
@@ -9264,7 +9282,6 @@ russia
 rust
 rust-lang
 ryanairps
-ryver
 s.ds.p
 s1
 s3
@@ -9463,6 +9480,7 @@ security-score
 security-txt
 security.txt
 securityassertionmarkuplanguage
+securityattribute
 securitycenter
 securitycompliancecenter
 securitygroup
@@ -9479,7 +9497,6 @@ seek
 seekatar
 seeshell
 select
-select-item
 select-kubecontext
 select-kubenamespace
 select-string
@@ -9572,6 +9589,7 @@ set_bios
 set-alias
 set-dnsservers
 set-githubsecrets
+set-itemproperty
 set-location
 set-openfiles
 set-ownership
@@ -9991,6 +10009,7 @@ start-job
 start-jobthread
 start-threadjob
 startkey
+startmen
 startmenu
 starttls
 starwars
@@ -10031,6 +10050,7 @@ stockcharts
 stocks
 stoicism
 stoics
+stolpe.io
 stop
 storablecolortheme
 storage
@@ -10658,6 +10678,7 @@ udpclient
 udptest
 udr
 udthememode
+udword
 uefi
 uem
 ui
@@ -10737,6 +10758,7 @@ upstream
 uptime
 uptimerobot
 uptobox
+uqword
 uri
 uri-scheme
 url
@@ -10958,6 +10980,7 @@ volumelicense
 volumelicenseagreement
 volumeshadowcopy
 volumio
+voperator
 vorbis
 voting
 vovin
@@ -11157,8 +11180,6 @@ wildfire
 wildfly
 wim
 wim2vhd
-wimwitch
-wimwitchfk
 win
 win-ps2exe
 win10
@@ -11474,6 +11495,7 @@ zoommeeting
 zorus
 zorusapi
 zoxide
+zpr
 zsh
 zuora
 zvm
