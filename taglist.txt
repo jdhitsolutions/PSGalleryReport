@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Saturday, 29 March 2025 02:16:57 UTC
+Updated: Saturday, 29 March 2025 09:52:09 UTC
 
 .bat
 .env
@@ -159,6 +159,7 @@ adal
 adapter
 adapter-control
 adapters
+adaptive-card
 adaptivecard
 adaptivecards
 adb
@@ -588,6 +589,7 @@ auditpolicies
 auditpolicy
 audits
 auditsysvol
+aumid
 aut
 auth
 auth0
@@ -665,6 +667,7 @@ avs
 avset
 await
 awakecoding
+awareness
 awesome
 awp
 awpagent
@@ -1429,6 +1432,7 @@ color-show
 colored
 colorful
 colorized
+colorpicker
 colors
 colour
 column
@@ -1672,7 +1676,6 @@ cqdpowershell
 cqhttp
 crack psmodule
 crash
-crawler
 crayon
 crc
 crc32
@@ -1687,7 +1690,6 @@ creationworkflowsimplification
 creator
 cred
 credential
-credential-dialog
 credential-file
 credential-files
 credential-manager
@@ -1742,6 +1744,7 @@ csv2adx
 csvhelper
 ctap
 ctf
+ctglobal
 ctl
 ctrl+c
 ctx
@@ -1791,7 +1794,6 @@ cx
 cyber
 cyberark
 cyberark-api
-cyberark-dpa
 cyberark-identity
 cyberdrain
 cybereason
@@ -1911,6 +1913,7 @@ dbatools
 dbcommand
 dbeaver
 dbfs
+dblm
 dbnull
 dbops
 dbpool
@@ -1966,7 +1969,6 @@ defenderforidentity
 defense
 deflate
 defrag
-delegateaccesscontrol
 delegated
 delegation
 delegationmodel
@@ -2028,7 +2030,6 @@ deviation
 device
 devicecode
 deviceid
-devicemanagement
 deviceprovisioningservice
 devicereports
 devices
@@ -2327,11 +2328,9 @@ dust
 dutch
 dvls
 dvr
-dword
 dxexpeditions
 dynamic
 dynamic-host-configuration-protocol
-dynamic-privileged-access
 dynamicdistributiongroups
 dynamicdistributionlist
 dynamicdnsoverhttps
@@ -2527,7 +2526,6 @@ espressif
 esri
 essbase
 est
-estimate
 estimation
 esx
 esxi
@@ -2695,6 +2693,7 @@ fast
 fast-dds
 fast-ping
 fastfilepub
+fastgit
 fastlinq
 fastlookup
 fastping
@@ -3061,7 +3060,6 @@ get-pass
 get-passivetrippoint
 get-passlist
 get-path
-get-pinneditem
 get-samcmassignedsite
 get-samcmcurrentmanagementpoint
 get-samplingperiod
@@ -3364,13 +3362,6 @@ hitrust
 hive
 hivehome
 hjson
-hkcu
-hkey_classes_root
-hkey_current_config
-hkey_current_user
-hkey_local_machine
-hkey_users
-hklm
 hl7
 hlds
 hls
@@ -3623,6 +3614,7 @@ inputobject
 insert
 insiderthreat
 insight
+insightanalytics
 insights
 inspect
 inspiration
@@ -3680,7 +3672,6 @@ intranet
 intrusion
 intuitive
 intune
-intuneadminroles
 intuneappwinutil
 intunestuff
 inventory
@@ -4085,6 +4076,7 @@ linting
 linux
 linux-command
 linux-style
+linuxssh
 liquid
 list
 list_files
@@ -4191,10 +4183,8 @@ logonto
 logonuser
 logparser
 logrotate
-logrotation
 logs
 logstash
-logtools
 logz
 loki
 lol
@@ -4386,7 +4376,6 @@ mediaservices
 mediawiki
 meditation
 medlemsservice
-meesman
 meeting
 meetup
 meetup.com
@@ -4495,6 +4484,7 @@ migration-tool
 migrations
 mikrotik
 milestone
+milestonepstools
 mim
 mime
 mimekit
@@ -4680,7 +4670,6 @@ multipart
 multipass
 multiple
 multiserver
-multistring
 multithread
 multithreaded
 multithreaded-helpers
@@ -4819,9 +4808,7 @@ new-dynamicdictionary
 new-dynamicparameter
 new-githubrelease
 new-item
-new-itemproperty
 new-modulemanifest
-new-pinneditem
 new-rdpsession
 new-samcmapplicationfrompackagedefinitionsms
 new-samcmpackagefrompackagedefinitionsms
@@ -5329,6 +5316,7 @@ pentesting
 pentia
 people
 perceptual-hash
+perforce
 performance
 performance-counters
 performancemonitoring
@@ -5377,7 +5365,6 @@ pin
 ping
 ping-async
 pingsweep
-pinneditem
 pinterest
 pinvoke
 pip
@@ -5756,6 +5743,7 @@ proliant
 prometheus
 prompt
 pronounceable
+proofpoint
 properties
 property
 property-list
@@ -5806,6 +5794,7 @@ psadgroupmembers
 psadt
 psake
 psappdeploytoolkit
+psat
 psazd
 psbackup
 psbbix
@@ -8886,7 +8875,6 @@ quotes
 quotestoliveby
 quoting
 quser
-qword
 r
 r53
 rabbit
@@ -8896,6 +8884,7 @@ radarr
 radio
 rag
 raidcontrollercmdlets
+railways
 rainbow
 raindrop
 raindrop.io
@@ -9014,15 +9003,8 @@ reflection
 refresh
 refreshtoken
 reg
-reg_binary
-reg_dword
-reg_expand_sz
-reg_multi_sz
-reg_qword
-reg_sz
 regardscitoyen
 regcli
-regedit
 regex
 region
 regions
@@ -9075,15 +9057,14 @@ remotehost
 remotelocalgroup
 remotelogoff
 remotemanagement
+remotepro
 remoteregistry
 remotesession
 remoting
 remove
 remove-githubsecrets
-remove-itemproperty
 remove-pass
 remove-path
-remove-pinneditem
 remove-tempfiles
 removefile
 removetypeaccelerators
@@ -9482,7 +9463,6 @@ security-score
 security-txt
 security.txt
 securityassertionmarkuplanguage
-securityattribute
 securitycenter
 securitycompliancecenter
 securitygroup
@@ -9592,7 +9572,6 @@ set_bios
 set-alias
 set-dnsservers
 set-githubsecrets
-set-itemproperty
 set-location
 set-openfiles
 set-ownership
@@ -9969,7 +9948,9 @@ sse
 ssh
 ssh-config
 ssh-keygen
+sshmanagement
 sshserver
+sshservers
 ssis
 ssl
 sslcert
@@ -10010,7 +9991,6 @@ start-job
 start-jobthread
 start-threadjob
 startkey
-startmen
 startmenu
 starttls
 starwars
@@ -10051,7 +10031,6 @@ stockcharts
 stocks
 stoicism
 stoics
-stolpe.io
 stop
 storablecolortheme
 storage
@@ -10449,6 +10428,7 @@ tlsrpt
 tmux
 to-do
 toast
+toasts
 tobias
 toc
 todo
@@ -10618,6 +10598,7 @@ ubuntu
 ucs
 ucspowertool
 ud-avataaar
+ud-badgebutton
 ud-badgelink
 ud-breadcrumb
 ud-breadcrumbitem
@@ -10643,6 +10624,7 @@ ud-loadingoverlay
 ud-minesweeper
 ud-mouseparticle
 ud-navbarsearch
+ud-numbermask
 ud-orgchart
 ud-piechart3d
 ud-pivottable
@@ -10676,7 +10658,6 @@ udpclient
 udptest
 udr
 udthememode
-udword
 uefi
 uem
 ui
@@ -10756,7 +10737,6 @@ upstream
 uptime
 uptimerobot
 uptobox
-uqword
 uri
 uri-scheme
 url
@@ -10868,6 +10848,7 @@ vduplink
 ve7cc
 vector
 veeam
+veeampn
 veeva
 venafi
 vencord
@@ -10977,7 +10958,6 @@ volumelicense
 volumelicenseagreement
 volumeshadowcopy
 volumio
-voperator
 vorbis
 voting
 vovin
@@ -11050,7 +11030,6 @@ wansi
 wap
 wapack
 wapi
-wara
 warning
 warplaneporn
 warranty
@@ -11074,6 +11053,7 @@ weaviatenet
 web
 web-browser
 web-framework
+web-hook
 web-search
 web-server
 web.config
@@ -11124,8 +11104,6 @@ wecutil
 weekday
 wef
 weixin
-well-architectedframework
-well-architectedreliabilityassessment
 well-known
 wem
 wemsdk
@@ -11406,6 +11384,8 @@ x86
 xa
 xaf
 xaml
+xbase
+xbox
 xclarity
 xconvert
 xdr
@@ -11494,7 +11474,6 @@ zoommeeting
 zorus
 zorusapi
 zoxide
-zpr
 zsh
 zuora
 zvm
