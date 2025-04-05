@@ -11,14 +11,6 @@ TeamViewerPS allows to interact with the TeamViewer Web API as well as a locally
 
 __Downloads__: 71,365,782 | __Repository__: https://github.com/teamviewer/TeamViewerPS
 
-## [LSUClient](https://www.powershellgallery.com/Packages/LSUClient/1.7.0) | 1.7.0
-
-### Published: 03/05/2025 01:28:18 by jantari
-
-Orchestrate driver, BIOS/UEFI and firmware updates for Lenovo computers 👨‍💻
-
-__Downloads__: 32,844,308 | __Repository__: https://www.github.com/jantari/LSUClient
-
 ## [ComputerManagementDsc](https://www.powershellgallery.com/Packages/ComputerManagementDsc/10.0.0) | 10.0.0
 
 ### Published: 01/25/2025 15:17:04 by DSC Community
@@ -33,7 +25,23 @@ __Downloads__: 44,792,206 | __Repository__: https://github.com/dsccommunity/Comp
 
 Powershell module for serializing and deserializing YAML
 
-__Downloads__: 112,275,630 | __Repository__: https://github.com/cloudbase/powershell-yaml
+__Downloads__: 112,338,945 | __Repository__: https://github.com/cloudbase/powershell-yaml
+
+## [WSManDsc](https://www.powershellgallery.com/Packages/WSManDsc/3.2.0) | 3.2.0
+
+### Published: 01/19/2025 09:32:48 by DSC Community
+
+DSC resources for configuring WS-Man.
+
+__Downloads__: 23,588,808 | __Repository__: https://github.com/dsccommunity/WSManDsc
+
+## [Pester](https://www.powershellgallery.com/Packages/Pester/5.7.1) | 5.7.1
+
+### Published: 01/08/2025 21:12:39 by Pester Team
+
+Pester provides a framework for running BDD style Tests to execute and validate PowerShell commands inside of PowerShell and offers a powerful set of Mocking Functions that allow tests to mimic and mock the functionality of any command inside of a piece of PowerShell code being tested. Pester tests can execute any command or script that is accessible to a pester test file. This can include functions, Cmdlets, Modules and scripts. Pester can be run in ad hoc style in a console or it can be integrated into the Build scripts of a Continuous Integration system.
+
+__Downloads__: 27,318,932 | __Repository__: https://github.com/Pester/Pester
 
 ## [HPCMSL](https://www.powershellgallery.com/Packages/HPCMSL/1.8.1) | 1.8.1
 
@@ -49,7 +57,15 @@ __Downloads__: 39,400,608 | __Repository__:
 
 The 'Dell Command | PowerShell Provider' provides native configuration capability of Dell Optiplex, Latitude, Precision, XPS Notebook and Venue 11 systems within PowerShell.
 
-__Downloads__: 536,133,578 | __Repository__: http://en.community.dell.com/techcenter/enterprise-client/w/wiki/6901.dell-command-powershell-provider
+__Downloads__: 536,296,108 | __Repository__: http://en.community.dell.com/techcenter/enterprise-client/w/wiki/6901.dell-command-powershell-provider
+
+## [CertificateDsc](https://www.powershellgallery.com/Packages/CertificateDsc/6.0.0) | 6.0.0
+
+### Published: 10/05/2024 09:02:17 by DSC Community
+
+DSC resources for managing certificates on a Windows Server.
+
+__Downloads__: 25,354,311 | __Repository__: https://github.com/dsccommunity/CertificateDsc
 
 ## [Posh-SSH](https://www.powershellgallery.com/Packages/Posh-SSH/3.2.4) | 3.2.4
 
@@ -59,13 +75,37 @@ Provide SSH and SCP functionality for executing commands against remote hosts. Y
 
 __Downloads__: 45,691,995 | __Repository__: https://github.com/darkoperator/Posh-SSH
 
+## [VMware.Vim](https://www.powershellgallery.com/Packages/VMware.Vim/8.3.0.24145081) | 8.3.0.24145081
+
+### Published: 07/25/2024 12:46:48 by Broadcom
+
+This PowerShell module contains PowerCLI Vim.
+
+__Downloads__: 22,172,293 | __Repository__: https://developer.vmware.com/powercli
+
+## [VMware.VimAutomation.Common](https://www.powershellgallery.com/Packages/VMware.VimAutomation.Common/13.3.0.24145081) | 13.3.0.24145081
+
+### Published: 07/25/2024 12:46:29 by Broadcom
+
+This PowerShell module contains functionality required by multiple PowerCLI modules.
+
+__Downloads__: 23,732,401 | __Repository__: https://developer.vmware.com/powercli
+
+## [VMware.VimAutomation.Sdk](https://www.powershellgallery.com/Packages/VMware.VimAutomation.Sdk/13.3.0.24145081) | 13.3.0.24145081
+
+### Published: 07/25/2024 12:46:15 by Broadcom
+
+This PowerShell module contains PowerCLI Sdk.
+
+__Downloads__: 24,532,550 | __Repository__: https://developer.vmware.com/powercli
+
 ## [PSWindowsUpdate](https://www.powershellgallery.com/Packages/PSWindowsUpdate/2.2.1.5) | 2.2.1.5
 
 ### Published: 07/20/2024 10:51:44 by Michal Gajda
 
 This module contain cmdlets to manage Windows Update Client.
 
-__Downloads__: 1,235,724,962 | __Repository__: https://github.com/mgajda83/PSWindowsUpdate
+__Downloads__: 1,236,657,431 | __Repository__: https://github.com/mgajda83/PSWindowsUpdate
 
 ## [Carbon](https://www.powershellgallery.com/Packages/Carbon/2.15.1) | 2.15.1
 
@@ -98,7 +138,7 @@ __Downloads__: 77,258,643 | __Repository__: http://get-carbon.org/
 
 This module provides the ability to query the speculation control settings for the system.
 
-__Downloads__: 520,647,004 | __Repository__: 
+__Downloads__: 520,648,541 | __Repository__: 
 
 ## [SecurityPolicy](https://www.powershellgallery.com/Packages/SecurityPolicy/0.0.13) | 0.0.13
 
@@ -114,7 +154,7 @@ __Downloads__: 51,536,985 | __Repository__: https://github.com/EvotecIT/Security
 
 This module allows you to execute scripts under the current user while running as SYSTEM using impersonation.
 
-__Downloads__: 115,066,800 | __Repository__: https://github.com/KelvinTegelaar/RunAsUser
+__Downloads__: 115,149,655 | __Repository__: https://github.com/KelvinTegelaar/RunAsUser
 
 ## [GetBIOS](https://www.powershellgallery.com/Packages/GetBIOS/1.3.3) | 1.3.3
 
@@ -124,13 +164,21 @@ List local or remote BIOS settings (for Lenovo, Dell, HP and Toshiba)
 
 __Downloads__: 55,416,414 | __Repository__: https://www.systanddeploy.com/2022/06/getbios-module-list-bios-settings-from.html
 
+## [xWebAdministration](https://www.powershellgallery.com/Packages/xWebAdministration/3.3.0) | 3.3.0
+
+### Published: 06/03/2022 16:38:57 by DSC Community
+
+Module with DSC Resources for Web Administration
+
+__Downloads__: 24,204,050 | __Repository__: https://github.com/dsccommunity/xWebAdministration
+
 ## [NetworkingDsc](https://www.powershellgallery.com/Packages/NetworkingDsc/9.0.0) | 9.0.0
 
 ### Published: 05/30/2022 07:14:50 by DSC Community
 
 DSC resources for configuring settings related to networking.
 
-__Downloads__: 91,485,074 | __Repository__: https://github.com/dsccommunity/NetworkingDsc
+__Downloads__: 91,487,887 | __Repository__: https://github.com/dsccommunity/NetworkingDsc
 
 ## [Invoke-CommandAs](https://www.powershellgallery.com/Packages/Invoke-CommandAs/3.1.9) | 3.1.9
 
@@ -147,7 +195,17 @@ __Downloads__: 39,681,173 | __Repository__: https://github.com/mkellerman/Invoke
 Adds cmdlets that can be used to enable/disable/remove privileges on a process. Also adds cmdlets that can be used to configure the members of Windows rights and privileges.
 See https://github.com/jborean93/PSPrivilege for more info
 
-__Downloads__: 104,649,895 | __Repository__: https://github.com/jborean93/PSPrivilege
+__Downloads__: 104,781,678 | __Repository__: https://github.com/jborean93/PSPrivilege
+
+## [MSAL.PS](https://www.powershellgallery.com/Packages/MSAL.PS/4.37.0.0) | 4.37.0.0
+
+### Published: 11/19/2021 02:44:41 by Jason Thompson
+
+The MSAL.PS PowerShell module wraps MSAL.NET functionality into PowerShell-friendly cmdlets and is not supported by Microsoft. Microsoft support does not extend beyond the underlying MSAL.NET library. For any inquiries regarding the PowerShell module itself, you may contact the author on GitHub or PowerShell Gallery.
+
+MSAL.NET (Microsoft.Identity.Client) is an authentication library which enables you to acquire tokens from Azure AD, to access protected Web APIs (Microsoft APIs or applications registered with Azure Active Directory).
+
+__Downloads__: 25,845,109 | __Repository__: https://github.com/jasoth/MSAL.PS
 
 ## [QuserObject](https://www.powershellgallery.com/Packages/QuserObject/1.0.50) | 1.0.50
 
@@ -157,6 +215,22 @@ Query `quser.exe` and return a proper PowerShell Object.
 
 __Downloads__: 37,518,234 | __Repository__: 
 
+## [AzTable](https://www.powershellgallery.com/Packages/AzTable/2.1.0) | 2.1.0
+
+### Published: 04/09/2021 22:10:34 by Paulo Marques (MSFT)
+
+Sample functions to add/retrieve/update entities on Azure Storage Tables from PowerShell (This is the same as AzureRmStorageTable module but with a new module name). It requires latest PowerShell Az module installed. Instructions at https://docs.microsoft.com/en-us/powershell/azure/install-az-ps?view=azps-1.6.0. For documentation, please visit https://paulomarquesc.github.io/working-with-azure-storage-tables-from-powershell/.
+
+__Downloads__: 27,854,009 | __Repository__: 
+
+## [BurntToast](https://www.powershellgallery.com/Packages/BurntToast/0.8.5) | 0.8.5
+
+### Published: 12/30/2020 21:00:59 by Joshua (Windos) King
+
+Module for creating and displaying Toast Notifications on Microsoft Windows 10.
+
+__Downloads__: 23,456,695 | __Repository__: https://github.com/Windos/BurntToast
+
 ## [ModernWorkplaceClientCenter](https://www.powershellgallery.com/Packages/ModernWorkplaceClientCenter/0.1.17) | 0.1.17
 
 ### Published: 06/02/2020 21:46:51 by Thomas Kurth
@@ -165,6 +239,14 @@ The Modern Workplace Client Center Module provides functions to troubleshoot Mic
 
 __Downloads__: 52,902,116 | __Repository__: https://github.com/ThomasKur/ModernWorkplaceClientCenter
 
+## [DockerMsftProvider](https://www.powershellgallery.com/Packages/DockerMsftProvider/1.0.0.8) | 1.0.0.8
+
+### Published: 08/26/2019 21:47:09 by jayshah
+
+PowerShell module with commands for discovering, installing, and updating Docker images.
+
+__Downloads__: 27,713,201 | __Repository__: https://github.com/OneGet/MicrosoftDockerProvider
+
 ## [PendingReboot](https://www.powershellgallery.com/Packages/PendingReboot/0.9.0.6) | 0.9.0.6
 
 ### Published: 08/22/2018 01:00:02 by Brian Wilhite
@@ -172,6 +254,15 @@ __Downloads__: 52,902,116 | __Repository__: https://github.com/ThomasKur/ModernW
 Module to detect Windows OS pending reboots.
 
 __Downloads__: 69,856,040 | __Repository__: https://github.com/bcwilhite/PendingReboot/
+
+## [xPowerShellExecutionPolicy](https://www.powershellgallery.com/Packages/xPowerShellExecutionPolicy/3.1.0.0) | 3.1.0.0
+
+### Published: 07/25/2018 21:32:26 by OneScript Team
+
+This DSC resource can change the user preference for the Windows PowerShell execution policy. THIS MODULE HAS BEEN DEPRECATED
+It will no longer be released. Please use the "PowerShellExecutionPolicy" resource in ComputerManagementDsc instead.
+
+__Downloads__: 23,157,860 | __Repository__: https://github.com/PowerShell/xPowerShellExecutionPolicy
 
 ## [CredentialManager](https://www.powershellgallery.com/Packages/CredentialManager/2.0) | 2.0
 
@@ -189,12 +280,4 @@ Creates and manages log files for your scripts.
 
 __Downloads__: 53,543,285 | __Repository__: http://9to5it.com/powershell-logging-v2-easily-create-log-files
 
-## [SNMP](https://www.powershellgallery.com/Packages/SNMP/1.0.0.1) | 1.0.0.1
-
-### Published: 05/13/2014 17:51:13 by Bartosz Bielawski
-
-Module to manage systems using SNMP.
-
-__Downloads__: 36,020,160 | __Repository__: 
-
-*Updated: Saturday, 05 April 2025 02:15:45 UTC*
+*Updated: Saturday, 05 April 2025 09:50:45 UTC*
