@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 07 April 2025 02:21:56 UTC
+Updated: Monday, 07 April 2025 09:52:03 UTC
 
 .bat
 .env
@@ -111,6 +111,7 @@ act!
 actifio
 actifiogo
 action
+action1
 actionablemessages
 actiongroup
 actionplan
@@ -150,10 +151,7 @@ ad_delegation
 ad_monitoring
 ad_security
 ad-ds
-ad-object
-ad-ou-object
 ad-report
-ad-site
 adal
 adapter
 adapter-control
@@ -216,14 +214,11 @@ ado_security
 ado.net
 adobe
 adobeflash
-adobject
-adouobject
 adoxio
 adp
 adr
 ads
 adsi
-adsite
 adsp
 adsync
 adt
@@ -430,6 +425,7 @@ apple
 applescript
 applescript_bridge
 application
+application-transformer
 applicationgateway
 applicationgrid
 applicationhost.config
@@ -493,7 +489,6 @@ argument
 argumentcompleter
 arguments
 ari
-arizeai
 arm
 arm-json
 arm-templates
@@ -521,10 +516,8 @@ asbuiltreport
 asc
 ascii
 ascii85
-asciiart
 asdatabase
 asigra
-asjob
 asm
 asn
 asn.1
@@ -689,6 +682,7 @@ axium
 ayx
 az
 az-cli
+az.runtimeenvironment
 az.stackhci
 azaitranslate
 azautomation
@@ -771,7 +765,6 @@ azureinformationprotection
 azureiot
 azureiothub
 azurekeyvault
-azurekeyvaultstuff
 azurelocal
 azuremaps
 azuremigrate
@@ -806,6 +799,7 @@ azurestorage
 azurestorageservices
 azuresync
 azuretable
+azuretestplan
 azurevirtualdesktop
 azurevirtualmachines
 azurevm
@@ -1314,6 +1308,7 @@ clientstatussettings
 clihelper.core
 clihelper.logger
 clihelper.semver
+clihelper.trends
 clipart
 clipasswordsdk
 clipboard
@@ -1557,7 +1552,6 @@ connectwise
 conservation
 console
 consoleguitools
-consoleimage
 consolemenu
 consolemusic
 consumer
@@ -1572,6 +1566,7 @@ containerinstances
 containerregistry
 containers
 containment
+content
 contentprep
 context
 continious-deploy
@@ -1795,6 +1790,7 @@ cyber
 cyberark
 cyberark-api
 cyberark-dpa
+cyberark-identity
 cyberdrain
 cybereason
 cybersecurity
@@ -1832,6 +1828,7 @@ dashboardservice
 dast
 data
 data_protection
+data_security
 data-archive
 data-backup
 data-tier
@@ -1853,7 +1850,6 @@ datacatalog
 datacenter
 dataclassification
 datacollectionrule
-dataconduit
 dataconnectivity
 datadog
 dataexchange
@@ -2239,7 +2235,6 @@ downloadoffice
 downloadofficertool
 downloads
 downloadyoutubevideo
-dozent
 dpa
 dpapi
 dpi
@@ -2654,10 +2649,8 @@ exportteams
 expression
 extend
 extended
-extendedattributes
 extendedevents
 extendedgroups
-extendedproperties
 extendedproperty
 extendscript
 extensibility
@@ -2697,7 +2690,6 @@ farm
 farmanager
 fast
 fast-dds
-fast-ping
 fastfilepub
 fastgit
 fastlinq
@@ -2752,7 +2744,6 @@ file-transfer
 file-transform
 file-type
 file-type-association
-fileattributes
 fileencryption
 filelist
 filelog
@@ -2762,7 +2753,6 @@ filemanagement
 filematcher
 filename
 filenames
-fileproperties
 filereplication
 files
 files-cli
@@ -2805,8 +2795,8 @@ find
 find-call
 find-caller
 find-file
+find-path
 finddownloadlinkfromwebsite
-findfile
 findlocation
 findplace
 findproxyforurl
@@ -2885,6 +2875,7 @@ format-numberedlist
 formatdata
 formatformat-tableformat-listformat-wideformat-customformat-defaultout-defaultout-fileout-hostout-printerout-string
 formatting
+formdata
 forms
 fortiauth
 forticlient
@@ -2940,6 +2931,8 @@ fsrm
 ftp
 ftps
 fu-msauth
+fudge
+fudgepop
 fujitsu
 full
 full-metal-gnome
@@ -3062,6 +3055,7 @@ get-openfiles
 get-pass
 get-passivetrippoint
 get-passlist
+get-path
 get-pinneditem
 get-samcmassignedsite
 get-samcmcurrentmanagementpoint
@@ -3087,7 +3081,6 @@ gist
 git
 git-client
 git-clone
-git-flow
 git-lfs
 git-proxy
 git-rename
@@ -3198,7 +3191,6 @@ gridfs
 grok
 groundspeak
 group
-group-membership
 group-policy
 groupmembership
 grouppolicy
@@ -3339,6 +3331,7 @@ hex
 hexdump
 hg
 hibernate
+hibernation
 hibp
 hidden
 hide
@@ -3380,6 +3373,7 @@ holiday
 home
 home_automation
 homebrew
+homelab
 homelandsecurity
 homeschooling
 hometheater
@@ -3610,9 +3604,6 @@ inifile
 initialization
 initials-avatar
 initiator
-inline-progress
-inlineimageprotocol
-inlineprogress
 innerjoin
 innertext
 inpainting
@@ -3665,6 +3656,7 @@ interactive
 interactive-brokers
 interchange
 interface
+interlogix
 internal
 internet
 internet-explorer
@@ -3921,7 +3913,6 @@ kindle
 kinetic
 kinopoisk
 kintone
-kittygraphicsprotocol
 klantcontroles
 kms
 knapsack
@@ -4033,7 +4024,6 @@ lego
 lein
 leiningnen
 lemonai
-lenel
 length
 lenovo
 less
@@ -4244,7 +4234,6 @@ machinelearning
 machinelearningcompute
 machinelearningmodels
 machinelearningservices
-macmon
 macos
 macosx
 macro
@@ -4258,6 +4247,8 @@ magnet
 mail
 mailbox
 mailchimp
+mailgroup
+mailgroupmember
 mailing
 mailkit
 mailmessage
@@ -4566,7 +4557,6 @@ moldova
 moment
 monaco
 monday
-mondoo
 money
 moneyforward
 mongo
@@ -4671,13 +4661,13 @@ multi-language
 multi-platform
 multi-tenant
 multi-thread
-multi-threading
 multi-zone
 multicloud
 multicultural
 multidimenstional
 multimedia
 multios
+multipart
 multipass
 multiple
 multiserver
@@ -4715,7 +4705,6 @@ mytest
 n-able
 n-central
 nabu
-nac
 nagios
 nakivo
 name
@@ -4792,7 +4781,6 @@ netsuite
 network
 network adapter configuration operating os optical sensor physical pointing portable printer processor cpu refrigaration cooling cooler removable usb sd ram dimm scsi sound audio card enclosure tape temperature touchpad touch pad touchscreen screen trackball trackpoint video graphics voltage psmodule
 network-credentials
-network-info
 networkanalytics
 networkcategory
 networkcloud
@@ -4801,7 +4789,6 @@ networkdiscovery
 networkdrives
 networkfirewall
 networkfunction
-networkinfo
 networking
 networkinterfaces
 networkloadbalancer
@@ -5167,7 +5154,6 @@ osx
 otel
 otp
 ou
-ou-object
 oui
 oui-search
 oura
@@ -5237,6 +5223,7 @@ parallel-processing
 parameter
 parameterinfo
 parameters
+parclient
 parititions
 parool
 parquet
@@ -5534,7 +5521,6 @@ poshy-wrap-forgit
 poshy-wrap-gem
 poshy-wrap-gh
 poshy-wrap-git
-poshy-wrap-git-flow
 poshy-wrap-git-lfs
 poshy-wrap-golang
 poshy-wrap-helm
@@ -6182,12 +6168,10 @@ pscommand_gcamg
 pscommand_gcams
 pscommand_gcamu
 pscommand_gcb
-pscommand_gcd
 pscommand_gcem
 pscommand_gcf
 pscommand_gcfl
 pscommand_gcfls
-pscommand_gch
 pscommand_gci
 pscommand_gcl
 pscommand_gclcd
@@ -6210,7 +6194,6 @@ pscommand_gcp
 pscommand_gcpa
 pscommand_gcpc
 pscommand_gcpx
-pscommand_gcr
 pscommand_gcsam
 pscommand_gct
 pscommand_gd
@@ -6305,27 +6288,6 @@ pscommand_geun
 pscommand_gexport
 pscommand_gf
 pscommand_gfa
-pscommand_gfl
-pscommand_gflf
-pscommand_gflff
-pscommand_gflffc
-pscommand_gflfp
-pscommand_gflfpc
-pscommand_gflfpll
-pscommand_gflfs
-pscommand_gflh
-pscommand_gflhf
-pscommand_gflhfc
-pscommand_gflhp
-pscommand_gflhpc
-pscommand_gflhs
-pscommand_gfli
-pscommand_gflr
-pscommand_gflrf
-pscommand_gflrfc
-pscommand_gflrp
-pscommand_gflrpc
-pscommand_gflrs
 pscommand_gfo
 pscommand_gft
 pscommand_gftv
@@ -6602,27 +6564,6 @@ pscommand_invoke-gitconfig
 pscommand_invoke-gitdifftool
 pscommand_invoke-gitfetch
 pscommand_invoke-gitfetchorigin
-pscommand_invoke-gitflow
-pscommand_invoke-gitflowfeature
-pscommand_invoke-gitflowfeaturefinish
-pscommand_invoke-gitflowfeaturefinishcurrent
-pscommand_invoke-gitflowfeaturepublish
-pscommand_invoke-gitflowfeaturepublishcurrent
-pscommand_invoke-gitflowfeaturepull
-pscommand_invoke-gitflowfeaturestart
-pscommand_invoke-gitflowhotfix
-pscommand_invoke-gitflowhotfixfinish
-pscommand_invoke-gitflowhotfixfinishcurrent
-pscommand_invoke-gitflowhotfixpublish
-pscommand_invoke-gitflowhotfixpublishcurrent
-pscommand_invoke-gitflowhotfixstart
-pscommand_invoke-gitflowinit
-pscommand_invoke-gitflowrelease
-pscommand_invoke-gitflowreleasefinish
-pscommand_invoke-gitflowreleasefinishcurrent
-pscommand_invoke-gitflowreleasepublish
-pscommand_invoke-gitflowreleasepublishcurrent
-pscommand_invoke-gitflowreleasestart
 pscommand_invoke-gitgui
 pscommand_invoke-githubapi
 pscommand_invoke-githubapi-bodyempty
@@ -7466,9 +7407,6 @@ pscommand_use-gitbranchmain
 pscommand_use-gitbranchnew
 pscommand_use-gitbranchprevious
 pscommand_use-gitbranchtracked
-pscommand_use-gitflowbranchdevelop
-pscommand_use-gitflowbranchhotfix
-pscommand_use-gitflowbranchrelease
 pscommand_use-gitstashentry
 pscommand_uuid
 pscommand_uuidgen
@@ -7998,27 +7936,6 @@ psfunction_invoke-gitconfig
 psfunction_invoke-gitdifftool
 psfunction_invoke-gitfetch
 psfunction_invoke-gitfetchorigin
-psfunction_invoke-gitflow
-psfunction_invoke-gitflowfeature
-psfunction_invoke-gitflowfeaturefinish
-psfunction_invoke-gitflowfeaturefinishcurrent
-psfunction_invoke-gitflowfeaturepublish
-psfunction_invoke-gitflowfeaturepublishcurrent
-psfunction_invoke-gitflowfeaturepull
-psfunction_invoke-gitflowfeaturestart
-psfunction_invoke-gitflowhotfix
-psfunction_invoke-gitflowhotfixfinish
-psfunction_invoke-gitflowhotfixfinishcurrent
-psfunction_invoke-gitflowhotfixpublish
-psfunction_invoke-gitflowhotfixpublishcurrent
-psfunction_invoke-gitflowhotfixstart
-psfunction_invoke-gitflowinit
-psfunction_invoke-gitflowrelease
-psfunction_invoke-gitflowreleasefinish
-psfunction_invoke-gitflowreleasefinishcurrent
-psfunction_invoke-gitflowreleasepublish
-psfunction_invoke-gitflowreleasepublishcurrent
-psfunction_invoke-gitflowreleasestart
 psfunction_invoke-gitgui
 psfunction_invoke-githubapi
 psfunction_invoke-githubapi-bodyempty
@@ -8638,9 +8555,6 @@ psfunction_use-gitbranchmain
 psfunction_use-gitbranchnew
 psfunction_use-gitbranchprevious
 psfunction_use-gitbranchtracked
-psfunction_use-gitflowbranchdevelop
-psfunction_use-gitflowbranchhotfix
-psfunction_use-gitflowbranchrelease
 psfunction_use-gitstashentry
 psfunction_write-gitcommit
 psfunction_write-gitcommitall
@@ -8877,6 +8791,8 @@ rag
 raidcontrollercmdlets
 railways
 rainbow
+raindrop
+raindrop.io
 raisers
 raisersedge
 raj
@@ -8892,6 +8808,7 @@ randomusers
 range
 rangescan
 rangetocidr
+ransomware_recovery
 ras
 raspberry-pi
 raspberrypi
@@ -8968,10 +8885,7 @@ redfish
 redforest
 redgate
 redirect
-redirecting
 redirects
-redirectstandarderror
-redirectstandardoutput
 redis
 redisenterprisecache
 redistributables
@@ -9060,6 +8974,7 @@ remove
 remove-githubsecrets
 remove-itemproperty
 remove-pass
+remove-path
 remove-pinneditem
 remove-tempfiles
 removefile
@@ -9108,7 +9023,6 @@ resolution
 resolve
 resolve-dnsname
 resolve-stache
-resolve-template
 resolver
 resource
 resource_monitor
@@ -9235,6 +9149,7 @@ rt
 rtu
 rubber
 rubrik
+rubriksecuritycloud
 ruby
 rulasg
 rule
@@ -9247,7 +9162,6 @@ runbooks
 runbookstudio
 runcommand
 rundeck
-runner
 runspace
 runspacepool
 runspaces
@@ -9350,7 +9264,6 @@ schemaextensions
 scheme
 school-information-system
 schoolholidays
-schulung
 schulverwaltung
 science
 scissors
@@ -9366,7 +9279,6 @@ scouterna
 scouternasetjanster
 scoutnet
 scp
-scrap
 scrape
 scraper
 scraping
@@ -9805,7 +9717,6 @@ solutions
 sonarcloud
 sonarqube
 sonarr
-sonatype
 songs
 sonicos
 sonicwall
@@ -9938,7 +9849,6 @@ squire
 srcds
 srcsrv
 srm
-srylius-write
 ssas
 ssc
 ssdt
@@ -9981,6 +9891,7 @@ stanc
 standard
 standarderror
 standardoutput
+standards
 standbypool
 stansummary
 start
@@ -10011,7 +9922,6 @@ statuscode
 statusmonitor
 statusreportingcomponent
 staytus
-stderr
 stdio
 stdout
 steam
@@ -10169,7 +10079,6 @@ syslog
 sysman
 sysmon
 sysop
-syspass
 syspip
 syspip3
 sysprep
@@ -10333,6 +10242,7 @@ testimonial
 testing
 testlab
 testplans
+testreport
 tests
 testsuite
 testtag1
@@ -10481,7 +10391,6 @@ trafficfiltering
 trafficmanager
 trafficmarking
 train
-trainer
 training
 training-course
 tram
@@ -10524,6 +10433,7 @@ tribeloo
 trick
 tricks
 trigger
+triggers
 trilium
 triliumnext
 triodos
@@ -10535,6 +10445,7 @@ true-color
 truecrypt
 truenas
 trumethods
+truportal
 trusted
 trusted-host
 trustedhosts
@@ -11314,7 +11225,6 @@ workloads
 workpoint
 workrequests
 worksheet
-workshop
 workspace
 workspacemanager
 workspaceone
@@ -11349,7 +11259,6 @@ write-wansi
 writeaccess
 writelog
 writemanager
-writeprogress
 writer
 ws-federation
 wsapi
@@ -11437,7 +11346,6 @@ yahw
 yamaha
 yaml
 yandex
-yandexdisk
 yapg
 yarn
 year
