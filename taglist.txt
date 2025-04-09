@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Wednesday, 09 April 2025 09:51:54 UTC
+Updated: Wednesday, 09 April 2025 17:52:13 UTC
 
 .bat
 .env
@@ -45,6 +45,7 @@ Updated: Wednesday, 09 April 2025 09:51:54 UTC
 365
 36867
 3cx
+3d
 3dprinting
 3par
 4me
@@ -209,7 +210,6 @@ administrator
 admintools
 adml
 admonition
-admpwd
 admx
 ado
 ado_security
@@ -430,6 +430,7 @@ apple
 applescript
 applescript_bridge
 application
+application-transformer
 applicationgateway
 applicationgrid
 applicationhost.config
@@ -461,6 +462,7 @@ aprs-is
 aprsis
 aprsthursday
 aps
+apt
 apt-get
 apt-get-update
 apteco
@@ -551,6 +553,7 @@ association
 ast
 astronomy
 asv
+asymmetric
 async
 asynchronous
 atempo
@@ -616,6 +619,7 @@ autocompletion
 autoenv
 autograph
 autohotkey
+autoload
 autologon
 automai
 automanage
@@ -632,6 +636,7 @@ automationportal
 automationutils
 autonomoussystem
 autonomoussystemnumber
+autopatching
 autopilot
 autoscaling
 autostart
@@ -708,7 +713,6 @@ azsk
 azsql
 azstackhci
 azstate
-azsubnet
 aztools
 azts
 azuead
@@ -767,7 +771,6 @@ azureinformationprotection
 azureiot
 azureiothub
 azurekeyvault
-azurekeyvaultstuff
 azurelocal
 azuremaps
 azuremigrate
@@ -935,7 +938,6 @@ blacklist
 blade
 bladeserver
 blaze
-blinking-text
 blob
 blobstorage
 block
@@ -962,7 +964,6 @@ boards
 bofh
 boilerplate
 boinc
-bold-text
 bolt
 bom
 book
@@ -1203,6 +1204,7 @@ chef-compliance
 chef-server
 chefconf2016
 chenxizhang
+cherrypy
 cherwell
 chfs
 chi
@@ -1439,7 +1441,6 @@ comdata
 comedy
 comic
 comical
-comics
 command
 command_line
 command-line-interface
@@ -1638,6 +1639,7 @@ cos
 cosmos
 cosmosdb
 cost
+cost-management
 costmanagement
 costoptimization
 couchbase
@@ -1966,6 +1968,7 @@ defenderforidentity
 defense
 deflate
 defrag
+delegateaccesscontrol
 delegated
 delegation
 delegationmodel
@@ -2082,6 +2085,7 @@ directoryname
 directorysearcher
 directorysecurity
 directrouting
+directus
 direnv
 dirkjan
 dirname
@@ -2160,6 +2164,7 @@ dns-client
 dns-over-https
 dns-resolver
 dnsbl
+dnsclient
 dnsdumpster
 dnsentry
 dnsimple
@@ -2197,6 +2202,8 @@ docusign
 docx
 dod
 dog
+dog-names
+dogs
 dogstatsd
 dok
 dokuwiki
@@ -2291,6 +2298,7 @@ dsreg
 dsregcmd
 dsutils
 dtc
+dts
 dtsx
 dtx
 du
@@ -2344,6 +2352,7 @@ dynamicsax
 dynamicsecuritygroups
 dynamicsnav
 dynamodb
+dynatrace
 dynatraceobservability
 dz
 e-mail
@@ -2379,6 +2388,7 @@ educational
 effectiveroutes
 efficientether
 efi
+egrep
 eid
 eigencontroles
 einstein
@@ -2405,6 +2415,7 @@ elonmusk
 eloomi
 eloqua
 elvish
+elvui
 em
 emacs
 email
@@ -2794,6 +2805,7 @@ find
 find-call
 find-caller
 find-file
+find-path
 finddownloadlinkfromwebsite
 findfile
 findlocation
@@ -2874,6 +2886,7 @@ format-numberedlist
 formatdata
 formatformat-tableformat-listformat-wideformat-customformat-defaultout-defaultout-fileout-hostout-printerout-string
 formatting
+formdata
 forms
 fortiauth
 forticlient
@@ -2929,6 +2942,7 @@ fsrm
 ftp
 ftps
 ftptoday
+fu-msauth
 fudge
 fudgepop
 fujitsu
@@ -3023,6 +3037,7 @@ get-admodernreport
 get-childitem
 get-cmhealthcheck
 get-command
+get-credential
 get-criticaltrippoint
 get-currentcputemperature
 get-dellwarranty
@@ -3052,6 +3067,7 @@ get-openfiles
 get-pass
 get-passivetrippoint
 get-passlist
+get-path
 get-pinneditem
 get-samcmassignedsite
 get-samcmcurrentmanagementpoint
@@ -3416,7 +3432,6 @@ hpwritemanager
 hris
 hrprovisioning
 hsdp
-hsl
 html
 html-templates
 http
@@ -3453,7 +3468,6 @@ hyper-v
 hyperconverged
 hyperfine
 hyperlink
-hyperlinked-text
 hyperthreading
 hyperv
 hypervisor
@@ -3528,6 +3542,7 @@ illinois
 ilo
 ilo5
 ilocmdlets
+im
 image
 image-comparison
 image-converter
@@ -3762,7 +3777,6 @@ it-support
 it-tool
 it-tools
 itadministration
-italic-text
 item
 itemlist
 itemobject
@@ -3859,6 +3873,7 @@ jwt
 jwttoken
 k8s
 k8sshell
+k8ssnapshots
 kafka
 kaminario
 karabiner
@@ -3923,6 +3938,7 @@ knowledge
 knowledgebase
 koans
 kodi
+korn
 kotlin
 kql
 kraken
@@ -3939,6 +3955,7 @@ kubedeck
 kubens
 kubernetes
 kubernetesconfiguration
+kubesnapit
 kubespray
 kubetidy
 kudu
@@ -3984,6 +4001,8 @@ laps
 laragon
 laserbeams
 last
+last.fm
+lastfm
 lastlogon
 lastpass
 latency
@@ -4052,7 +4071,6 @@ limesurvey
 limit-job
 limits
 lina
-line
 line-endings
 linear
 linearalgebra
@@ -4312,7 +4330,6 @@ marketplacepublisher
 marking
 marklogic
 marquee
-marvel
 marvell
 marvell_semiconductor_inc
 marvellfcpowerkit
@@ -4509,7 +4526,6 @@ mistralai
 mitigation
 mitre
 mitre_att&ck
-mitrend
 mittelschule
 mixedreality
 mixer
@@ -4547,8 +4563,6 @@ modulefast
 modulemanagement
 modules
 moduleupdate
-moduleupdateinfo
-moduleupdater
 moduleversion
 mof
 moldova
@@ -4667,6 +4681,7 @@ multicultural
 multidimenstional
 multimedia
 multios
+multipart
 multipass
 multiple
 multiserver
@@ -4695,6 +4710,7 @@ myip
 myitprocess
 myjson
 myjson.com
+myob
 myposh
 mypstag
 mysql
@@ -4707,6 +4723,7 @@ nac
 nagios
 nakivo
 name
+name-of-dogs
 namedpipe
 nameit
 nameresolution
@@ -4824,7 +4841,6 @@ newtonsoft
 newtonsoft.json
 nexenta
 nexentastor
-nextcloud
 nexthink
 nexus
 nexusiq
@@ -4852,6 +4868,7 @@ nlp
 nmap
 nmbell
 nmm
+nntp
 node
 nodejs
 non-idiomatic
@@ -4946,6 +4963,7 @@ oauth2.0
 oberstufe
 obfuscate
 obfuscation
+obj
 object
 objectid
 objectstorage
@@ -5141,7 +5159,6 @@ osprovisioning
 osr
 oss
 ossec
-osubbillingschedule
 osuborganizationsubscription
 osubsubscription
 osubusage
@@ -5417,6 +5434,7 @@ plug-n-copy
 plugin
 plugins
 pluralsight
+ply
 pmp
 pncit
 pnp
@@ -5427,6 +5445,7 @@ pode
 poe
 poem
 poetry
+point
 point-to-site
 pointer
 pokeapi
@@ -5447,6 +5466,7 @@ pomodoro
 ponduit
 pool
 poop
+pop
 pop-location
 pop3
 popd
@@ -5486,7 +5506,7 @@ poshrest
 poshrsjob
 poshtemplate
 poshwsus
-poshy-colors
+poshy-code-search
 poshy-coreutils-ish
 poshy-dir-nav
 poshy-ecks
@@ -5686,6 +5706,7 @@ prism
 prism_element
 privacy
 private
+private-key
 privatedns
 privatekey
 privatemethods
@@ -5715,6 +5736,7 @@ productstate
 profile
 profilecleanup
 profilemanagement
+profilemigration
 profiler
 profiles
 profilevalidation
@@ -5774,6 +5796,7 @@ ps.credentialmanager
 ps1
 ps12exe
 ps1xml
+ps1xmlgen
 ps2dll
 ps2exe
 ps3
@@ -5831,25 +5854,6 @@ pscommand_basename
 pscommand_bcubc
 pscommand_bcubo
 pscommand_bfu
-pscommand_bgblack
-pscommand_bgblue
-pscommand_bgbrightblack
-pscommand_bgbrightblue
-pscommand_bgbrightcyan
-pscommand_bgbrightgreen
-pscommand_bgbrightmagenta
-pscommand_bgbrightred
-pscommand_bgbrightwhite
-pscommand_bgbrightyellow
-pscommand_bgcolor
-pscommand_bgcyan
-pscommand_bggreen
-pscommand_bghsl
-pscommand_bgmagenta
-pscommand_bgred
-pscommand_bgrgb
-pscommand_bgwhite
-pscommand_bgyellow
 pscommand_brewp
 pscommand_brewsp
 pscommand_bubc
@@ -5872,7 +5876,6 @@ pscommand_clocr
 pscommand_confirm-gitbisectcommitbad
 pscommand_confirm-gitbisectcommitgood
 pscommand_convertto-nixmode
-pscommand_convertto-rgb
 pscommand_d
 pscommand_d64
 pscommand_dbl
@@ -6045,41 +6048,6 @@ pscommand_encode64
 pscommand_encodefile64
 pscommand_export-gitrepositoryzip
 pscommand_extract
-pscommand_fgblack
-pscommand_fgblue
-pscommand_fgbrightblack
-pscommand_fgbrightblue
-pscommand_fgbrightcyan
-pscommand_fgbrightgreen
-pscommand_fgbrightmagenta
-pscommand_fgbrightred
-pscommand_fgbrightwhite
-pscommand_fgbrightyellow
-pscommand_fgcolor
-pscommand_fgcyan
-pscommand_fggreen
-pscommand_fghsl
-pscommand_fgmagenta
-pscommand_fgred
-pscommand_fgrgb
-pscommand_fgwhite
-pscommand_fgyellow
-pscommand_fmtblink
-pscommand_fmtblinkoff
-pscommand_fmtbold
-pscommand_fmtboldoff
-pscommand_fmthidden
-pscommand_fmthiddenoff
-pscommand_fmthyperlink
-pscommand_fmtitalic
-pscommand_fmtitalicoff
-pscommand_fmtreset
-pscommand_fmtreverse
-pscommand_fmtreverseoff
-pscommand_fmtstrikethrough
-pscommand_fmtstrikethroughoff
-pscommand_fmtunderline
-pscommand_fmtunderlineoff
 pscommand_forgit-add
 pscommand_forgit-blame
 pscommand_forgit-branch-delete
@@ -6261,6 +6229,8 @@ pscommand_get-gitwhatchangedstylized
 pscommand_get-itemnixmode
 pscommand_get-netipaddresspublic
 pscommand_get-netipaddresssimple
+pscommand_get-pwshaliasdefinition
+pscommand_get-pwshfunctiondefinition
 pscommand_get-viewer
 pscommand_geun
 pscommand_gexport
@@ -7318,6 +7288,7 @@ pscommand_scu-disable-now
 pscommand_scu-enable-now
 pscommand_scu-mask-now
 pscommand_search-commandpath
+pscommand_search-ruby
 pscommand_set-envvar
 pscommand_set-gitremoteurl
 pscommand_set-itemnixmode
@@ -7620,30 +7591,10 @@ psfunction_add-gittrackedfilesinteractively
 psfunction_add-gittrackedfilesverbosely
 psfunction_arch
 psfunction_basename
-psfunction_bgblack
-psfunction_bgblue
-psfunction_bgbrightblack
-psfunction_bgbrightblue
-psfunction_bgbrightcyan
-psfunction_bgbrightgreen
-psfunction_bgbrightmagenta
-psfunction_bgbrightred
-psfunction_bgbrightwhite
-psfunction_bgbrightyellow
-psfunction_bgcolor
-psfunction_bgcyan
-psfunction_bggreen
-psfunction_bghsl
-psfunction_bgmagenta
-psfunction_bgred
-psfunction_bgrgb
-psfunction_bgwhite
-psfunction_bgyellow
 psfunction_catimg
 psfunction_confirm-gitbisectcommitbad
 psfunction_confirm-gitbisectcommitgood
 psfunction_convertto-nixmode
-psfunction_convertto-rgb
 psfunction_d
 psfunction_decode64
 psfunction_decodefile64
@@ -7719,41 +7670,6 @@ psfunction_encode64
 psfunction_encodefile64
 psfunction_export-gitrepositoryzip
 psfunction_extract
-psfunction_fgblack
-psfunction_fgblue
-psfunction_fgbrightblack
-psfunction_fgbrightblue
-psfunction_fgbrightcyan
-psfunction_fgbrightgreen
-psfunction_fgbrightmagenta
-psfunction_fgbrightred
-psfunction_fgbrightwhite
-psfunction_fgbrightyellow
-psfunction_fgcolor
-psfunction_fgcyan
-psfunction_fggreen
-psfunction_fghsl
-psfunction_fgmagenta
-psfunction_fgred
-psfunction_fgrgb
-psfunction_fgwhite
-psfunction_fgyellow
-psfunction_fmtblink
-psfunction_fmtblinkoff
-psfunction_fmtbold
-psfunction_fmtboldoff
-psfunction_fmthidden
-psfunction_fmthiddenoff
-psfunction_fmthyperlink
-psfunction_fmtitalic
-psfunction_fmtitalicoff
-psfunction_fmtreset
-psfunction_fmtreverse
-psfunction_fmtreverseoff
-psfunction_fmtstrikethrough
-psfunction_fmtstrikethroughoff
-psfunction_fmtunderline
-psfunction_fmtunderlineoff
 psfunction_forgit-add
 psfunction_forgit-blame
 psfunction_forgit-branch-delete
@@ -7843,6 +7759,8 @@ psfunction_get-gitwhatchangedstylized
 psfunction_get-itemnixmode
 psfunction_get-netipaddresspublic
 psfunction_get-netipaddresssimple
+psfunction_get-pwshaliasdefinition
+psfunction_get-pwshfunctiondefinition
 psfunction_get-viewer
 psfunction_git_blame_line
 psfunction_git_checkout_child
@@ -8518,6 +8436,7 @@ psfunction_scu-disable-now
 psfunction_scu-enable-now
 psfunction_scu-mask-now
 psfunction_search-commandpath
+psfunction_search-ruby
 psfunction_set-envvar
 psfunction_set-gitremoteurl
 psfunction_set-itemnixmode
@@ -8715,6 +8634,7 @@ ptc
 ptcintegrity
 pubg
 public
+public-key
 public-transport
 publicapi
 publicclient
@@ -8725,6 +8645,7 @@ publish
 publish-module
 publishedmodules
 publisher
+publishers
 publishing
 pubsub
 pubxml
@@ -8855,6 +8776,7 @@ range
 rangescan
 rangetocidr
 ransomware_recovery
+ras
 raspberry-pi
 raspberrypi
 raspbian
@@ -8880,6 +8802,7 @@ rdcman
 rdcmanager
 rdfe
 rdg
+rdl
 rdm
 rdp
 rdpsession
@@ -9021,6 +8944,7 @@ remove
 remove-githubsecrets
 remove-itemproperty
 remove-pass
+remove-path
 remove-pinneditem
 remove-tempfiles
 removefile
@@ -9088,6 +9012,7 @@ resourcescheduler
 resourcesearch
 response
 rest
+rest_cherrypy
 rest-api
 restapi
 restart
@@ -9103,13 +9028,13 @@ retype
 reuse
 reverse-engineer
 reverse-string
-reversed-color-text
 reversedsc
 reverseengineering
 review
 revision
 reword
 rewrite
+rexec
 rfc1305
 rfc1436
 rfc2030
@@ -9121,7 +9046,6 @@ rfc5952
 rfc826
 rfc9116
 rg
-rgb
 rhapsody
 ribbon
 ribcl
@@ -9186,6 +9110,7 @@ rrd
 rs
 rsa
 rsat
+rshell
 rsjob
 rsop
 rss
@@ -9237,6 +9162,8 @@ sale
 sales
 salesforce
 salesloft
+salt
+salt-api
 saltstack
 saltstackconfig
 saltstackenterprise
@@ -9279,7 +9206,6 @@ scan
 scanner
 scanning
 scap
-scatter
 scb
 scc
 sccm
@@ -9540,6 +9466,7 @@ sets
 setting
 settings
 setup
+sevenzip
 sf
 sfb
 sfc
@@ -9697,6 +9624,9 @@ smbios-information
 smfoxx
 smfx
 smileys
+smimeemail
+smimeimap
+smimepop
 smlets
 smo
 smorgasbord
@@ -9884,6 +9814,7 @@ sqlserverbynarypsmodule
 sqlserverclient
 sqlservermodule
 sqlvirtualmachine
+sqlvm
 sqr
 sqrt
 square
@@ -9984,7 +9915,6 @@ stocks
 stoicism
 stoics
 stolpe.io
-stop
 storablecolortheme
 storage
 storageaccount
@@ -10006,7 +9936,6 @@ streamreader
 streamwriter
 stretch
 strictmode
-strikethrough-text
 string
 string-converter
 string-template
@@ -10036,7 +9965,6 @@ subnet
 subnet-calculator
 subnetcalculator
 subnetcalulator
-subnetdetails
 subnetmapping
 subnetmask
 subnetmaths
@@ -10062,7 +9990,6 @@ summary
 summit
 sumologic
 supercell
-superheros
 supermarket
 support
 support-tool
@@ -10098,6 +10025,7 @@ symboliclink
 symbols
 symbolservers
 symlink
+symmetric
 synapse
 sync
 synchronization
@@ -10236,6 +10164,7 @@ telegramx
 telemetry
 teletext
 telligent
+telnet
 temp
 temperature
 template
@@ -10318,6 +10247,7 @@ tfscmdlets
 tfsec
 tfswitch
 tftd
+tftp
 tfvars
 tfvc
 thecrushingemptinessofquotidianexistence
@@ -10456,6 +10386,7 @@ transliteration
 transmission
 transparency
 transpilation
+trap
 travel
 trec
 tree
@@ -10483,7 +10414,6 @@ tripunkt
 troubleshoot
 troubleshooting
 trouw
-true-color
 truecrypt
 truenas
 trumethods
@@ -10537,6 +10467,7 @@ typeaccelerators
 typedata
 typeextension
 types
+types.ps1xml
 typescript
 tzutil
 uac
@@ -10570,9 +10501,7 @@ ud-hero
 ud-illustration
 ud-input
 ud-licensed
-ud-loadingoverlay
 ud-minesweeper
-ud-mouseparticle
 ud-navbarsearch
 ud-numbermask
 ud-orgchart
@@ -10626,7 +10555,6 @@ unattendedfile
 unblock
 unc
 uncpaths
-underlined-text
 unhide
 unicode
 unicode-emoji
@@ -10670,13 +10598,10 @@ update-modulemanifest
 update-moduletests
 update-typedata
 updatedeferral
-updatemanagement
-updatemgmt
 updater
 updates
 updateservices
 updmanagement
-updmgmt
 upgrade
 uplift
 uplink
@@ -10702,6 +10627,7 @@ urlrewrite
 urlscan
 urlscan.io
 urlupdate
+uru
 usage
 usageaggregates
 usageapi
@@ -10923,7 +10849,6 @@ vpn-certificate
 vpro
 vps
 vra
-vrchat
 vrealize
 vrising
 vro
@@ -11019,6 +10944,7 @@ webauthn
 webbrowser
 webcamera
 webcmdlets
+webdav
 webdeploy
 webdeveloper
 webfrequest
@@ -11053,6 +10979,7 @@ webtime
 webview2
 wec
 wecutil
+weekday
 wef
 weixin
 well-architectedframework
@@ -11209,6 +11136,7 @@ winrar
 winrm
 winrs
 winrt
+wins
 winsat
 winscp
 wintellect
@@ -11328,6 +11256,8 @@ x360recover
 x509
 x509cerificate
 x509cerificate2
+x509certificate
+x509certificates
 x509chain
 x64
 x86
