@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Thursday, 10 April 2025 02:19:15 UTC
+Updated: Thursday, 10 April 2025 09:52:05 UTC
 
 .bat
 .env
@@ -60,6 +60,7 @@ Updated: Thursday, 10 April 2025 02:19:15 UTC
 8.1
 8ball
 9
+aa
 aac
 aad
 aad-graph
@@ -83,6 +84,7 @@ acas
 accelerator
 access
 access-control
+access-points
 accesscontrol
 accesscontroldsc
 accessgovernancecp
@@ -467,7 +469,6 @@ apt-get-update
 apteco
 aptitude
 aql
-arabic
 arangodb
 arc
 arcade
@@ -604,6 +605,7 @@ authoringtools
 authorisation
 authority
 authorization
+authorizationheaders
 authorize.net
 authz
 autify
@@ -611,6 +613,7 @@ auto
 auto_cd
 auto-completion
 autoadapter
+autoattendant
 autocloudarc
 autocomplete
 autocompletion
@@ -634,6 +637,7 @@ automationportal
 automationutils
 autonomoussystem
 autonomoussystemnumber
+autopatching
 autopilot
 autoscaling
 autostart
@@ -695,7 +699,6 @@ azcompute
 azd
 azdisk
 azdo
-azereo
 azforensics
 azkeyvault
 aznetworking
@@ -801,6 +804,7 @@ azurestack
 azurestackhci
 azurestate
 azurestorage
+azurestorageservices
 azuresync
 azuretable
 azuretestplan
@@ -991,6 +995,7 @@ branch-rename
 brave
 brawlapi
 brawlstars
+brazencloud
 bre
 breach
 break
@@ -1020,7 +1025,6 @@ bruteforce
 bson
 btdf
 btm
-buddhist
 budget
 bugbounty
 bugzilla
@@ -1075,6 +1079,7 @@ calculator
 calendar
 callingcode
 callout
+callqueue
 calvin-and-hobbes
 cam
 camera
@@ -1142,7 +1147,6 @@ cdrom
 cds
 cdx
 ce
-celcat
 celerium
 censor
 center
@@ -1203,12 +1207,10 @@ chef-compliance
 chef-server
 chefconf2016
 chenxizhang
-cherrypy
 cherwell
 chfs
 chi
 china
-chinese
 chmod
 choco
 choco-bear
@@ -1232,6 +1234,7 @@ cicd
 cicdpipeline
 cidr
 cidrcalculator
+ciellos
 cif
 cifv3
 cil
@@ -1281,8 +1284,6 @@ clear
 clear-history
 clearpass
 cli
-cli-menu
-cli-menu-helpers
 clickonce
 client
 client-management
@@ -1390,6 +1391,7 @@ code365
 codeanalysis
 codebuild
 codecommit
+codecomplexity
 codecov
 codecoverage
 codegen
@@ -1414,7 +1416,6 @@ coinbase
 coinmarketcap
 collaboration
 collatordso
-collatz
 collection
 collectionmembershipevaluationcomponent
 collections
@@ -1494,7 +1495,6 @@ computer
 computer-room
 computer-site
 computername
-computers
 computersite
 concur
 concurrency
@@ -1525,7 +1525,6 @@ configurations
 configure
 confluence
 confluent
-conjecture
 connect
 connect-dtcmsite
 connect-exchangeonprem
@@ -1690,7 +1689,6 @@ credential-file
 credential-files
 credential-manager
 credentiallocker
-credentialmanagement
 credentialmanager
 credentialprovider
 credentials
@@ -1721,6 +1719,7 @@ crossplatformdevelopment
 crowdstrike
 crt.sh
 crud
+crx
 crypto
 crypto-currency
 cryptocompare
@@ -1729,6 +1728,7 @@ cryptography
 cs137
 csc
 csharp
+csharp-watch
 csom
 csp
 csproj
@@ -1763,7 +1763,6 @@ customchecks
 customdns
 customer
 customerengagement
-customers
 customeventchannel
 customeventlog
 customeventlogchannel
@@ -2025,7 +2024,6 @@ devexpress
 deviation
 device
 devicecode
-deviceid
 devicemanagement
 deviceprovisioningservice
 devicereports
@@ -2157,7 +2155,6 @@ dns-01
 dns-administration
 dns-async
 dns-client
-dns-over-https
 dns-resolver
 dnsbl
 dnsclient
@@ -2298,6 +2295,7 @@ dts
 dtsx
 dtx
 du
+dual-stack
 duck
 duckdb
 duckduckgo
@@ -2381,7 +2379,6 @@ edr
 education
 educational
 effectiveroutes
-efficientether
 efi
 egrep
 eid
@@ -2456,6 +2453,8 @@ engine
 engineevent
 english
 enhancement
+enrichers
+enrichment
 entaid
 enteo
 enter
@@ -2463,6 +2462,7 @@ enterprise
 enterprise-scale
 enterprisedb
 enterprisemanager
+enterprisevoice
 entity
 entityframework
 entra
@@ -2528,7 +2528,6 @@ esx
 esxi
 eternalblue
 ether
-etherassist
 ethereum
 ethernet
 ethr
@@ -2549,6 +2548,7 @@ event-timeline
 eventchannel
 eventchannels
 eventcollector
+eventful
 eventgrid
 eventhub
 eventing
@@ -2780,7 +2780,6 @@ filewrite
 fill
 film
 filter
-filter-item
 filtering
 fim
 fims
@@ -3003,8 +3002,6 @@ generates
 generatewif
 generation
 generativeai
-generativeaiagent
-generativeaiagentruntime
 generativeaiinference
 generator
 generic
@@ -3086,6 +3083,7 @@ git-client
 git-clone
 git-flow
 git-lfs
+git-proxy
 git-rename
 git-stat
 gitcmdline
@@ -3185,7 +3183,6 @@ graphviz
 graylog
 greenlake
 greenplum
-gregorian
 gremlin
 grep
 greynoise
@@ -3234,7 +3231,6 @@ hacktoberfest
 hadoop
 hafr
 haiku
-hailstone
 haipa
 halo
 haloitsm
@@ -3248,7 +3244,6 @@ hana
 hanaon
 handle
 handler
-handy
 hangouts
 hannelstoolbox
 hanwha
@@ -3307,7 +3302,6 @@ heartbeatdiscovery
 heat
 heating
 heavenbay
-hebrew
 helium
 helix
 hello
@@ -3348,7 +3342,6 @@ high-availability
 highlight
 highlighting
 highrise
-hijri
 hint
 hipaa
 hipb
@@ -3426,12 +3419,14 @@ hsl
 html
 html-templates
 http
+http_proxy
 http-listener
 http-server
 httpclient
 httplistener
 httpqscollection
 https
+https_proxy
 httpserver
 huawei
 huawei-ibmc-cmdlets
@@ -3463,6 +3458,8 @@ hyperv
 hypervisor
 hypervplugins
 hypothesis
+hysolate
+hysolatemangementconsole
 i-doit
 i2c
 ia
@@ -3749,7 +3746,6 @@ iselevated
 isesteroids
 ish
 ishexstring
-islamic
 isnumeric
 iso
 iso-3166-1
@@ -3877,7 +3873,6 @@ kb4
 kbarticle
 kdbx
 kdialog
-kebab-case
 keenetic
 keepachangelog
 keepass
@@ -3931,6 +3926,7 @@ korn
 kotlin
 kql
 kraken
+krane
 krbtgt
 krick
 kschemaplugin
@@ -4084,7 +4080,6 @@ liquid
 list
 list_files
 list-directory
-list-item
 listener
 litecoin
 litedb
@@ -4214,9 +4209,7 @@ lsd
 ltm
 lucd
 lucene
-lunar
 lunches
-lustrefilestorage
 lwa
 lxca
 lxcapstool
@@ -4366,7 +4359,6 @@ mde
 mdep
 mdi
 mdm
-mdop
 mdt
 mdx
 me4024
@@ -4528,7 +4520,6 @@ mlflow
 mlmodels
 mltools
 mmdc
-mngdmac
 mobile
 mobilenetwork
 mobilitycontroller
@@ -4575,7 +4566,6 @@ monitoring_variables
 monitoringplugins
 monitoringsolutions
 monitors
-month
 monthlyupdate
 moodle
 moonshot
@@ -4669,7 +4659,6 @@ multi-thread
 multi-threading
 multi-zone
 multicloud
-multicultural
 multidimenstional
 multimedia
 multios
@@ -4692,7 +4681,6 @@ mva
 mvc
 mvn
 mvp
-mwsqlserver
 mx
 mxlookup
 mycloudrevolution
@@ -4834,6 +4822,7 @@ newtonsoft
 newtonsoft.json
 nexenta
 nexentastor
+nextcloud
 nexthink
 nexus
 nexusiq
@@ -4869,6 +4858,7 @@ non-volatile
 none
 noneimages
 noninteractive
+noproxy
 nord
 nordtools
 normal
@@ -4894,6 +4884,7 @@ notify-send-wsl
 nova
 npgsql
 npm
+npm-proxy
 npm-upgrade
 nprinting
 nprintingapi
@@ -4967,6 +4958,7 @@ ocgv
 oci
 ocicontrolcenter
 ocr
+octoprint
 octopus
 octopus-deploy
 octopus.client
@@ -5325,11 +5317,9 @@ perforce
 performance
 performance-counters
 performancemonitoring
-perl
 permission
 permissions
 permutations
-persian
 persistence
 persistent
 personal
@@ -5426,7 +5416,6 @@ plugin
 plugins
 pluralsight
 ply
-pmp
 pncit
 pnp
 pnp.powershell
@@ -5502,6 +5491,7 @@ poshy-colors
 poshy-coreutils-ish
 poshy-dir-nav
 poshy-ecks
+poshy-env-proxy
 poshy-env-var
 poshy-ls-isms
 poshy-lucidity
@@ -5530,7 +5520,6 @@ poshy-wrap-golang
 poshy-wrap-helm
 poshy-wrap-kubectl
 poshy-wrap-maven
-poshy-wrap-nginx
 poshy-wrap-nmap
 poshy-wrap-npm
 poshy-wrap-pip
@@ -5559,7 +5548,6 @@ postgresql
 postgrest
 potato
 pow
-powdrgit
 power
 power-apps
 power-cbr
@@ -5603,8 +5591,6 @@ powershell-dsc
 powershell-examples
 powershell-gallery
 powershell-github-repo
-powershell-gitlab
-powershell-graphql
 powershell-isprime
 powershell-lightning
 powershell-module
@@ -5938,6 +5924,7 @@ pscommand_dils
 pscommand_dipu
 pscommand_dirm
 pscommand_dirname
+pscommand_disable-proxy
 pscommand_dit
 pscommand_dk
 pscommand_dkbash
@@ -6067,6 +6054,7 @@ pscommand_dxc
 pscommand_dxcit
 pscommand_e64
 pscommand_ef64
+pscommand_enable-proxy
 pscommand_encode64
 pscommand_encodefile64
 pscommand_export-gitrepositoryzip
@@ -6355,6 +6343,12 @@ pscommand_git_show_stash_file
 pscommand_git_stats
 pscommand_git_status_short_with_loglines
 pscommand_git-changelog
+pscommand_git-disable-proxy
+pscommand_git-enable-proxy
+pscommand_git-global-disable-proxy
+pscommand_git-global-enable-proxy
+pscommand_git-global-show-proxy
+pscommand_git-show-proxy
 pscommand_gitignore-reload
 pscommand_gittowork
 pscommand_gl
@@ -7217,10 +7211,6 @@ pscommand_new-isofile
 pscommand_new-viewerinvocationfunction
 pscommand_new-windowsterminalpane
 pscommand_new-windowsterminaltab
-pscommand_nginx_reload
-pscommand_nginx_restart
-pscommand_nginx_start
-pscommand_nginx_stop
 pscommand_nmap_check_for_firewall
 pscommand_nmap_check_for_vulns
 pscommand_nmap_detect_versions
@@ -7239,6 +7229,9 @@ pscommand_nmap_web_safe_osscan
 pscommand_notify-send
 pscommand_notify-send-null
 pscommand_notify-send-terminalnotifier
+pscommand_npm-disable-proxy
+pscommand_npm-enable-proxy
+pscommand_npm-show-proxy
 pscommand_npmd
 pscommand_npme
 pscommand_npmf
@@ -7284,6 +7277,7 @@ pscommand_pl
 pscommand_po
 pscommand_pop-gitstashentry
 pscommand_ppy
+pscommand_proxy-help
 pscommand_prun
 pscommand_psh
 pscommand_psy
@@ -7302,6 +7296,7 @@ pscommand_push-gitstashentrywithmessage
 pscommand_pushgr
 pscommand_pvenv
 pscommand_pwh
+pscommand_pwshrc-show-proxy
 pscommand_py
 pscommand_pyenv
 pscommand_pylint-quick
@@ -7373,10 +7368,14 @@ pscommand_set-locationup4
 pscommand_set-locationup5
 pscommand_sgem
 pscommand_show-gitremote
+pscommand_show-proxy
 pscommand_shttp
 pscommand_shuf
 pscommand_sl
 pscommand_ssh-add-all
+pscommand_ssh-disable-proxy
+pscommand_ssh-enable-proxy
+pscommand_ssh-show-proxy
 pscommand_sshlist
 pscommand_start-gitbisect
 pscommand_start-gitcherrypick
@@ -7593,6 +7592,7 @@ psdesiredstateconfiguration
 psdevops
 psdocs
 psdocs-documents
+psdocsgenerator
 psdrawio
 psdrive
 psdrives
@@ -7674,6 +7674,7 @@ psfunction_d
 psfunction_decode64
 psfunction_decodefile64
 psfunction_dirname
+psfunction_disable-proxy
 psfunction_docker-archive-content
 psfunction_docker-build
 psfunction_docker-compose-fresh
@@ -7739,6 +7740,7 @@ psfunction_dotnet-tool-update-all-global
 psfunction_dotnet-watch
 psfunction_dotnet-watch-run
 psfunction_dotnet-watch-test
+psfunction_enable-proxy
 psfunction_encode64
 psfunction_encodefile64
 psfunction_export-gitrepositoryzip
@@ -7895,6 +7897,12 @@ psfunction_git_show_stash_file
 psfunction_git_stats
 psfunction_git_status_short_with_loglines
 psfunction_git-changelog
+psfunction_git-disable-proxy
+psfunction_git-enable-proxy
+psfunction_git-global-disable-proxy
+psfunction_git-global-enable-proxy
+psfunction_git-global-show-proxy
+psfunction_git-show-proxy
 psfunction_gitignore-reload
 psfunction_gittowork
 psfunction_gplfs
@@ -8468,10 +8476,6 @@ psfunction_new-isofile
 psfunction_new-viewerinvocationfunction
 psfunction_new-windowsterminalpane
 psfunction_new-windowsterminaltab
-psfunction_nginx_reload
-psfunction_nginx_restart
-psfunction_nginx_start
-psfunction_nginx_stop
 psfunction_nmap_check_for_firewall
 psfunction_nmap_check_for_vulns
 psfunction_nmap_detect_versions
@@ -8489,6 +8493,9 @@ psfunction_nmap_traceroute
 psfunction_nmap_web_safe_osscan
 psfunction_notify-send-null
 psfunction_notify-send-terminalnotifier
+psfunction_npm-disable-proxy
+psfunction_npm-enable-proxy
+psfunction_npm-show-proxy
 psfunction_open_command
 psfunction_peek
 psfunction_pipig
@@ -8499,6 +8506,7 @@ psfunction_pipreq
 psfunction_pipunall
 psfunction_pipupall
 psfunction_pop-gitstashentry
+psfunction_proxy-help
 psfunction_publish-gitcommitsforcefullywithlease
 psfunction_publish-gitcommitssettingupstream
 psfunction_publish-gitcommitssettingupstreamtoorigin
@@ -8509,6 +8517,7 @@ psfunction_publish-gitcommitswithtags
 psfunction_publish-gitrepositorytosvn
 psfunction_push-gitstashentry
 psfunction_push-gitstashentrywithmessage
+psfunction_pwshrc-show-proxy
 psfunction_pyserver
 psfunction_read-dotenv
 psfunction_register-argcompleteargumentcompleter
@@ -8570,9 +8579,13 @@ psfunction_set-locationup3
 psfunction_set-locationup4
 psfunction_set-locationup5
 psfunction_show-gitremote
+psfunction_show-proxy
 psfunction_shttp
 psfunction_shuf
 psfunction_ssh-add-all
+psfunction_ssh-disable-proxy
+psfunction_ssh-enable-proxy
+psfunction_ssh-show-proxy
 psfunction_sshlist
 psfunction_start-gitbisect
 psfunction_start-gitcherrypick
@@ -8955,10 +8968,7 @@ redfish
 redforest
 redgate
 redirect
-redirecting
 redirects
-redirectstandarderror
-redirectstandardoutput
 redis
 redisenterprisecache
 redistributables
@@ -8999,7 +9009,6 @@ registration
 registry
 registryoperations
 regression
-regular-expression
 regularexpression
 regularexpressions
 reinstall
@@ -9094,6 +9103,7 @@ resharper
 resize
 resolution
 resolve
+resolve-dnsname
 resolve-stache
 resolve-template
 resolver
@@ -9114,7 +9124,6 @@ resourcescheduler
 resourcesearch
 response
 rest
-rest_cherrypy
 rest-api
 restapi
 restart
@@ -9204,7 +9213,6 @@ routine
 rover
 royalapps
 royaldocument
-royalserver
 royalts
 royaltsx
 rpa
@@ -9266,8 +9274,6 @@ sale
 sales
 salesforce
 salesloft
-salt
-salt-api
 saltstack
 saltstackconfig
 saltstackenterprise
@@ -9376,7 +9382,6 @@ scriptanalyzer
 scriptblock
 scriptblocklogging
 scriptbook
-scriptconversion
 scriptcop
 scriptcreation
 scriptcs
@@ -9394,7 +9399,6 @@ scrub
 scrubber
 scsm
 scuba
-scvmm
 sd
 sddl
 sdk
@@ -9464,7 +9468,6 @@ seek
 seekatar
 seeshell
 select
-select-item
 select-kubecontext
 select-kubenamespace
 select-string
@@ -9592,6 +9595,7 @@ shadowcopybackups
 shadowgroups
 shanehoey
 shanghaitech
+shard
 share
 share-permission
 share-stat
@@ -9782,7 +9786,6 @@ softwaremanagement
 softwarepackagedataexchange
 softwareupdatepoint
 softwareupdatepointcomponent
-solar
 solarigate
 solarized
 solarwinds
@@ -9918,6 +9921,7 @@ sqlserverbynarypsmodule
 sqlserverclient
 sqlservermodule
 sqlvirtualmachine
+sqlvm
 sqr
 sqrt
 square
@@ -9999,7 +10003,6 @@ statuscode
 statusmonitor
 statusreportingcomponent
 staytus
-stderr
 stdio
 stdout
 steam
@@ -10042,7 +10045,6 @@ stretch
 strictmode
 strikethrough-text
 string
-string-converter
 string-template
 stringmanager
 stringmanagertool
@@ -10443,6 +10445,7 @@ topgrade
 topics
 topleveldomain
 topology
+tor
 toradex
 torizon
 torrent
@@ -11075,7 +11078,6 @@ webreport
 webrequest
 webresponse
 webroot
-websearch
 webserver
 webservice
 webservices
@@ -11249,7 +11251,6 @@ winrar
 winrm
 winrs
 winrt
-wins
 winsat
 winscp
 wintellect
@@ -11429,7 +11430,6 @@ yandex
 yandexdisk
 yapg
 yarn
-year
 yetanotherhelloworld
 yify
 yml
