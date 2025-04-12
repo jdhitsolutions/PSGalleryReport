@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Saturday, 12 April 2025 09:52:02 UTC
+Updated: Saturday, 12 April 2025 17:52:04 UTC
 
 .bat
 .env
@@ -58,7 +58,6 @@ Updated: Saturday, 12 April 2025 09:52:02 UTC
 7z
 7zip
 8.1
-8ball
 9
 aa
 aac
@@ -111,6 +110,7 @@ act!
 actifio
 actifiogo
 action
+action1
 actionablemessages
 actiongroup
 actionplan
@@ -609,6 +609,7 @@ authorizationheaders
 authorize.net
 authz
 autify
+auto
 auto_cd
 auto-completion
 autoadapter
@@ -773,7 +774,6 @@ azureiot
 azureiothub
 azurekeyvault
 azurekeyvaultstuff
-azurelocal
 azuremaps
 azuremigrate
 azuremonitor
@@ -885,6 +885,7 @@ ber
 bestpractice
 bestpractices
 bginfo
+bgp
 bi
 bibliography
 bibtex
@@ -1314,7 +1315,6 @@ clientsettingsuserdeviceaffinity
 clientstatussettings
 clihelper.core
 clihelper.logger
-clihelper.semver
 clihelper.trends
 clipart
 clipasswordsdk
@@ -1445,7 +1445,6 @@ comdata
 comedy
 comic
 comical
-comics
 command
 command_line
 command-line-interface
@@ -1610,8 +1609,6 @@ convert-sid
 convert-windowsimage
 converter
 convertfrom
-convertfrom-json
-convertfrom-jsontohashtable
 convertfrom-string
 convertfrom-stringtable
 convertfrom-table
@@ -1644,7 +1641,6 @@ cos
 cosmos
 cosmosdb
 cost
-cost-management
 costmanagement
 costoptimization
 couchbase
@@ -2147,7 +2143,6 @@ division
 divoom
 diy
 dkim
-dkschrutebeets
 dl
 dll
 dlm
@@ -2697,6 +2692,7 @@ fake-useragent
 falcon
 fallbackstatuspoint
 fanarttv
+fancy
 faq
 farm
 farmanager
@@ -2805,6 +2801,7 @@ financeoperations
 finances
 financial
 financialedge
+financials
 find
 find-call
 find-caller
@@ -2945,7 +2942,6 @@ fslogix
 fsrm
 ftp
 ftps
-ftptoday
 fu-msauth
 fudge
 fudgepop
@@ -3123,6 +3119,7 @@ gitops
 glimps
 glob
 globalclipboard
+globaldashboard
 globalentry
 globallydistributeddatabase
 globbing
@@ -3343,6 +3340,7 @@ here
 hewlett
 hewlett-packard
 hewlett-packard-enterprise
+hewlett-packardenterprise
 hex
 hexdump
 hg
@@ -3887,6 +3885,7 @@ karabiner-elements
 karma
 kaseya
 kaseyavsa
+kaspersky
 katakana
 kb
 kb4
@@ -3937,6 +3936,7 @@ klantcontroles
 kms
 knapsack
 knetps
+knob
 knowbe4
 knowledge
 knowledgebase
@@ -3965,8 +3965,6 @@ kubetidy
 kudu
 kurukuru
 kusto
-kusto.data
-kusto.ingest
 kvm
 kvp
 l1tf
@@ -4217,7 +4215,6 @@ look
 lookup
 lookupaccountname
 lookupaccountsid
-loop
 loopback
 loremipsum
 love
@@ -4232,7 +4229,6 @@ lucd
 lucene
 lunar
 lunches
-lustrefilestorage
 lwa
 lxca
 lxcapstool
@@ -4335,7 +4331,6 @@ marketplacepublisher
 marking
 marklogic
 marquee
-marvel
 marvell
 marvell_semiconductor_inc
 marvellfcpowerkit
@@ -4372,6 +4367,7 @@ mccs
 mcd
 mchapv2
 mcp
+mct
 md5
 md5_v2-18232bfba2e90cd603582c78fa002427
 mdatp
@@ -4922,6 +4918,7 @@ npslog
 npslogfile
 nql
 nrc
+nrql
 ns
 ns.nl
 nsg
@@ -5015,6 +5012,7 @@ office365managementapi
 officedev
 officegraph
 officemessageencryption
+officertool
 offline
 offlinewimservicing
 ofx
@@ -5056,6 +5054,7 @@ onenote
 onestools
 onesubscription
 onetimesecret
+oneviewglobaldashboard
 online
 online-backup
 onlinebackup
@@ -5195,6 +5194,7 @@ outreach
 outsystems
 overbite
 ovf
+ovgd
 ovh
 owasp
 owls
@@ -5303,7 +5303,6 @@ pathmanagement
 patternmatching
 paulo
 pause
-pax8
 payload
 paylocity
 paypal
@@ -9258,6 +9257,7 @@ routine
 rover
 royalapps
 royaldocument
+royalserver
 royalts
 royaltsx
 rpa
@@ -9655,6 +9655,7 @@ sharefile
 sharepoint
 sharepoint_online
 sharepoint-on-prem
+sharepoint-online
 sharepoint-product-configuration-wizard
 sharepoint2013
 sharepointdevelopmentcommunity
@@ -9662,7 +9663,6 @@ sharepointonline
 sharepointpnp
 sharepointpnppowershellonline.add-on.module
 shares
-sharetru
 sheets
 shell
 shell-art
@@ -10151,7 +10151,6 @@ summary
 summit
 sumologic
 supercell
-superheros
 supermarket
 support
 support-tool
@@ -10200,6 +10199,7 @@ syntax-highlighting
 syntaxcheck
 syntaxhighlighter
 synthesis
+synthetics
 sysadmin
 sysadmin-tool
 sysadmin-tools
@@ -10601,6 +10601,7 @@ tst3
 tsv
 ttrpg
 tts
+tubedownloader
 tui
 tulpep
 tuner
@@ -10710,6 +10711,7 @@ ui/ux
 ui7
 uk
 ulid
+ultimatetool
 um
 uml
 umn
@@ -11222,6 +11224,7 @@ win32_operatingsystem
 win32-api
 win32appmigrationtool
 win32shutdown
+winbgp
 windchillrv&s
 window
 windows
@@ -11271,6 +11274,7 @@ windowsinstaller
 windowsinternaldatabase
 windowsinternals
 windowsiotservices
+windowsiso
 windowsmanagement
 windowsmanagementframework
 windowspackagemanager
@@ -11359,7 +11363,6 @@ workload-automation
 workloadidentity
 workloads
 workpoint
-workrequests
 worksheet
 workshop
 workspace
