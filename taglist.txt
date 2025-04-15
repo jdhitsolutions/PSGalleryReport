@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Tuesday, 15 April 2025 02:21:27 UTC
+Updated: Tuesday, 15 April 2025 09:52:01 UTC
 
 .bat
 .env
@@ -714,7 +714,6 @@ azsk
 azsql
 azstackhci
 azstate
-azsubnet
 aztools
 azts
 azuead
@@ -877,6 +876,7 @@ bec
 beckhoff
 bedrock
 beep
+behavior
 benchmark
 benchmarking
 benchmarks
@@ -993,6 +993,8 @@ brainy
 branch
 branch-rename
 brave
+brawlapi
+brawlstars
 brazencloud
 bre
 breach
@@ -1798,6 +1800,7 @@ cyber
 cyberark
 cyberark-api
 cyberark-dpa
+cyberark-identity
 cyberdrain
 cybereason
 cybersecurity
@@ -2696,6 +2699,7 @@ fake-useragent
 falcon
 fallbackstatuspoint
 fanarttv
+fancy
 faq
 farm
 farmanager
@@ -2804,7 +2808,6 @@ financeoperations
 finances
 financial
 financialedge
-financials
 find
 find-call
 find-caller
@@ -2849,7 +2852,6 @@ fleetappsmanagement
 fleetsoftwareupdate
 flex
 flex-query
-flexdesk
 flexible
 flickr
 flowchart
@@ -2874,6 +2876,7 @@ food
 football
 for
 force
+forcedelete
 foreach
 foreach-object
 forecast
@@ -2933,7 +2936,6 @@ fritzbox
 front
 frontapp
 frontdoor
-frontmatter
 frontrange
 fs
 fsc-ps
@@ -3395,7 +3397,6 @@ homelandsecurity
 homeschooling
 hometheater
 hon
-hooking
 horizon
 horizontal
 hornbill
@@ -3741,7 +3742,6 @@ ipconfig
 iperf
 ipfy.org
 iphone
-ipilot
 iplookup
 ipmaths
 ipp
@@ -3888,7 +3888,6 @@ karabiner-elements
 karma
 kaseya
 kaseyavsa
-kaspersky
 katakana
 kb
 kb4
@@ -3917,7 +3916,6 @@ keycipher
 keycloak
 keylight
 keymanagement
-keymanagementserver
 keymap
 keymapping
 keypair
@@ -4114,6 +4112,7 @@ llama2
 llama3
 lldp
 llm
+llms
 lmhost
 lmhosts
 lms
@@ -4233,6 +4232,8 @@ lsd
 ltm
 lucd
 lucene
+luma
+lumaai
 lunar
 lunches
 lustrefilestorage
@@ -4283,7 +4284,6 @@ maintain-module
 maintenance
 maintenance-window
 maintenancewindows
-mak
 make
 maker
 malware
@@ -4375,7 +4375,6 @@ mccs
 mcd
 mchapv2
 mcp
-mct
 md5
 md5_v2-18232bfba2e90cd603582c78fa002427
 mdatp
@@ -4763,11 +4762,11 @@ ncrestapi
 ndes
 nebulon
 nec-infrared-transmission-protocol
-necli
 nederland
 nedyalkov
 nemovote
 neo4j
+neocities
 neofetch
 neonpostgres
 neovim
@@ -4790,7 +4789,6 @@ netappfiles
 netbox
 netcease
 netcore
-netextender
 netfirewallrule
 netherlands
 netmask
@@ -4815,6 +4813,7 @@ networkcloud
 networkcontroller
 networkdiscovery
 networkdrives
+networkfirewall
 networkfunction
 networkinfo
 networking
@@ -4923,6 +4922,7 @@ npslog
 npslogfile
 nql
 nrc
+nrql
 ns
 ns.nl
 nsg
@@ -4948,7 +4948,6 @@ nunit
 nupkg
 nuspec
 nutanix
-nuwave
 nva
 nvd
 nvdimm
@@ -5012,10 +5011,10 @@ office2013
 office2016
 office2019
 office365
+office365managementapi
 officedev
 officegraph
 officemessageencryption
-officertool
 offline
 offlinewimservicing
 ofx
@@ -5089,6 +5088,7 @@ openedge
 openfiles
 opengraph
 openhere
+openholidaysapi
 openid
 openidconnect
 openinghours
@@ -5133,7 +5133,6 @@ oracle
 oraclecloudinfrastructure
 oraculum
 orbital
-orchestrate
 orchestration
 orchestrator
 order
@@ -5326,6 +5325,7 @@ pdf-files
 pdf-generation
 pdf-redaction
 pdfbox
+pdq
 pe
 peek
 peering
@@ -5438,7 +5438,6 @@ plex
 plist
 plog
 plot
-plug-n-copy
 plugin
 plugins
 pluralsight
@@ -5449,6 +5448,7 @@ pnp
 pnp.powershell
 pnpm
 poc
+podcast
 pode
 poe
 poem
@@ -8795,6 +8795,7 @@ public-transport
 publicapi
 publicclient
 publicfolder
+publicholidays
 publicip
 publish
 publish-module
@@ -9281,7 +9282,6 @@ rulasg
 rule
 rulesengine
 run
-run-as-user
 runas
 runbook
 runbooks
@@ -9379,7 +9379,6 @@ schannel
 schannelpolicydsc
 schedule
 scheduled
-scheduled-task
 scheduled-tasks
 scheduledjob
 scheduledtask
@@ -9391,6 +9390,7 @@ schema
 schemaextensions
 scheme
 school-information-system
+schoolholidays
 schulung
 schulverwaltung
 science
@@ -9454,7 +9454,6 @@ sdk
 sdn
 sdp
 search
-search-adminauditlog
 search-engines
 searchconnector
 searchengine
@@ -9563,7 +9562,6 @@ seq
 sequence
 serial
 serialization
-serialize
 sericemanagement
 series
 serilog
@@ -9584,7 +9582,6 @@ serviceconnectionpoint
 servicecontrol
 servicedesk
 servicedeskplus
-serviceendpoints
 servicefabric
 servicelinker
 servicemanagementautomation
@@ -9656,6 +9653,7 @@ sharepoint_online
 sharepoint-on-prem
 sharepoint-online
 sharepoint-product-configuration-wizard
+sharepoint2013
 sharepointdevelopmentcommunity
 sharepointonline
 sharepointpnp
@@ -9822,6 +9820,7 @@ soap
 soc
 soccer
 social
+social-media
 socialmedia
 socketlabs
 sockets
@@ -9847,7 +9846,6 @@ sonarqube
 sonarr
 sonatype
 songs
-sonicos
 sonicwall
 sonicwallvpn
 sonnet
@@ -9997,7 +9995,6 @@ sslflags
 ssllabs
 ssllabs-scan
 sslprotocol
-sslvpn
 ssm
 sso
 sspi
@@ -10123,7 +10120,6 @@ subnet
 subnet-calculator
 subnetcalculator
 subnetcalulator
-subnetdetails
 subnetmapping
 subnetmask
 subnetmaths
@@ -10148,6 +10144,7 @@ sullivan
 summary
 summit
 sumologic
+supercell
 superheros
 supermarket
 support
@@ -10197,6 +10194,7 @@ syntax-highlighting
 syntaxcheck
 syntaxhighlighter
 synthesis
+synthetics
 sysadmin
 sysadmin-tool
 sysadmin-tools
@@ -10218,12 +10216,9 @@ system information 1394 controller baseboard motherboard systemboard battery bio
 system-administration
 system-group
 system-info
-system-service
-system-services
 system.directoryservices.protocols
 system.text
 systemadministration
-systemadministrator
 systemadmins
 systemcenter
 systemcolors
@@ -10598,7 +10593,6 @@ tst3
 tsv
 ttrpg
 tts
-tubedownloader
 tui
 tulpep
 tuner
@@ -10613,8 +10607,12 @@ twincat
 twinkly
 twitch
 twitter
+twitter-api
+twitter-api-v2
+twitter-client
 twitter-follow
 twitter-hashtag
+twitter-mention
 twitter-share
 twitter-timeline
 twitter-tweet
@@ -10652,6 +10650,7 @@ ud-control
 ud-dashboard
 ud-datepicker
 ud-field
+ud-flexytable
 ud-funnel
 ud-hero
 ud-illustration
@@ -10703,7 +10702,6 @@ ui/ux
 ui7
 uk
 ulid
-ultimatetool
 um
 uml
 umn
@@ -10844,6 +10842,7 @@ vagrant
 vale
 validate
 validate-dcb
+validatedsolutions
 validatemapsconnectivity
 validation
 validator
@@ -10959,7 +10958,6 @@ visualstudioonline
 visualstudioteamservices
 vlan
 vlookup
-vlsc
 vlsm
 vm
 vmc
@@ -10979,6 +10977,7 @@ vmware
 vmware.vsphere
 vmwarecloudfoundation
 vmwaredrs
+vmwarevalidatedsolutions
 vmwcluster
 vmwdatacenter
 vmwfolder
@@ -10995,8 +10994,6 @@ voidtools
 volkskrant
 volta
 volume
-volumelicense
-volumelicenseagreement
 volumeshadowcopy
 volumio
 voperator
@@ -11250,7 +11247,6 @@ windowscredentials
 windowscredentialsmanager
 windowsdataprotectionapi
 windowsdefender
-windowsdesktop
 windowsdesktopsearch
 windowsdirectories
 windowsdiskcleanup
@@ -11264,7 +11260,6 @@ windowsinstaller
 windowsinternaldatabase
 windowsinternals
 windowsiotservices
-windowsiso
 windowsmanagement
 windowsmanagementframework
 windowspackagemanager
@@ -11281,8 +11276,6 @@ windowsserver
 windowsserver2008
 windowsserver2016
 windowsserver2019
-windowsserver2022
-windowsserver2025
 windowsservercoresecurity
 windowsserverguisecurity
 windowsservice
