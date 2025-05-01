@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Thursday, 01 May 2025 02:28:36 UTC
+Updated: Thursday, 01 May 2025 09:52:08 UTC
 
 .bat
 .env
@@ -539,7 +539,6 @@ asn
 asn.1
 asn1
 asnbank
-asp
 asp.net
 aspnet
 aspnet_regiis
@@ -558,6 +557,7 @@ assets
 assist
 assistance
 assistant
+association
 ast
 astro
 astronomy
@@ -756,6 +756,7 @@ azureartifacts
 azureas
 azureatp
 azureautomation
+azureautomationaccount
 azureautomationnotsupported
 azurebasicloadbalancerupgrade
 azurecli
@@ -999,6 +1000,7 @@ box
 bpmn
 brainy
 branch
+branch-rename
 brave
 brawlapi
 brawlstars
@@ -1229,6 +1231,7 @@ chocobear
 chocolatey
 choice
 choose_file
+choose_file_name
 choose_folder
 chooser
 christaylorcodes
@@ -1510,6 +1513,7 @@ computername
 computers
 computersite
 comulativeupdate
+concur
 concurrency
 concurrent
 conda
@@ -2006,6 +2010,7 @@ deploy
 deployment
 deploymentconfig
 deploymentresourceprovider
+deploymenttasks
 depute
 der
 description
@@ -2089,6 +2094,8 @@ directories
 directory
 directory psedition_core psedition_desktop
 directory-transform
+directorycleanup
+directorymanagement
 directorymarks
 directoryname
 directorysearcher
@@ -2505,7 +2512,6 @@ envvar
 envvars
 eol
 eop
-eperl
 ephesoft
 epicor
 episode
@@ -2514,7 +2520,6 @@ eprosima
 epub
 epv
 equality
-erb
 erp
 error
 error-log
@@ -2769,6 +2774,7 @@ fileencryption
 filelist
 filelog
 filelogger
+filemaintenance
 filemanagement
 filematcher
 filename
@@ -2795,6 +2801,7 @@ filesystemrights
 filesystemsecurity
 filesystemwatcher
 filetransfer
+filetype
 filewrite
 fill
 film
@@ -3107,6 +3114,7 @@ git-clone
 git-flow
 git-lfs
 git-proxy
+git-rename
 git-stat
 gitcmdline
 gitdesktop
@@ -3219,6 +3227,7 @@ group-policy
 groupmembership
 grouppolicy
 groups
+grouvee
 growlnotify
 grr
 gsettings
@@ -3292,6 +3301,7 @@ hashicorp
 hashing
 hashset
 hashtable
+hasicorp
 haskell
 haste
 hastebin
@@ -3866,7 +3876,6 @@ jsonwebencryption
 jsonwebkey
 jsonwebsignature
 jsonwebtoken
-jsp
 jumbo
 jump
 jump-location
@@ -4142,6 +4151,7 @@ localaccounts
 localadmin
 localconfigurationmanager
 localdb
+localdirectories
 locale
 localgroup
 localgroupmember
@@ -4770,7 +4780,6 @@ natural-selection
 nature
 nav
 navigation
-nbi
 ncal
 ncrestapi
 ndes
@@ -5210,6 +5219,7 @@ outlook
 outpainting
 output
 output-to-image
+outreach
 outsystems
 overbite
 ovf
@@ -5391,7 +5401,6 @@ phoenix
 phone
 phoneautomation
 photo
-photograph
 photos
 php
 phpapam
@@ -5630,7 +5639,6 @@ powerprotect_datamanager
 powersaving
 powerscheme
 powershell
-powershell_universal
 powershell-ai
 powershell-class
 powershell-cmdlets
@@ -5674,6 +5682,7 @@ powershellml
 powershellmodule
 powershellmoduleupdate
 powershellpr0mpt
+powershellremoting
 powershellscript
 powershelltemplate
 powershelltraining
@@ -5708,8 +5717,6 @@ preparead
 preparealldomains
 prepareschema
 prepend
-preprocessing
-preprocessor
 presentation
 presentationframework
 presenter
@@ -9107,6 +9114,7 @@ remotedesktopconnectionmanager
 remotedesktopgateway
 remotedesktopmanager
 remotedesktopservices
+remotedirectories
 remotefiles
 remoteforensics
 remotehost
@@ -9129,6 +9137,9 @@ removetypeaccelerators
 remux
 ren-isac
 rename
+rename-git
+rename-git-branch
+rename-gitbranch
 reonboarding
 repair
 repair-msauth
@@ -9473,6 +9484,7 @@ sd
 sddl
 sdk
 sdn
+sdp
 search
 search-adminauditlog
 search-engines
@@ -9826,7 +9838,6 @@ sni
 snipe-it
 snippet
 snippets
-snippets-manager
 snippit
 snmp
 snmpget
@@ -10290,7 +10301,6 @@ tag2
 tagging
 tags
 tak
-taken
 takeown
 tally
 talxis
@@ -10378,7 +10388,6 @@ terraform-switcher
 terraformcloud
 terrafun
 terragrunt
-tesla
 test
 test-automation
 test-dscconfiguration
@@ -10401,7 +10410,6 @@ testlab
 testplans
 testreport
 tests
-testsuite
 testtag1
 testtag2
 testtool
@@ -10634,7 +10642,6 @@ tutorial
 tv
 tvguide
 tweet
-twig
 twilio
 twincat
 twinkly
@@ -10684,7 +10691,6 @@ ud-dashboard
 ud-datepicker
 ud-field
 ud-flexytable
-ud-funnel
 ud-hero
 ud-illustration
 ud-input
@@ -10709,7 +10715,6 @@ ud-singleselect
 ud-slider
 ud-speechbubble
 ud-step
-ud-stepbar
 ud-stickynavbar
 ud-tagcloud
 ud-timeline
@@ -10745,6 +10750,7 @@ unattended
 unattendedfile
 unblock
 unc
+uncpaths
 underlined-text
 unhide
 unicode
@@ -11178,6 +11184,7 @@ webtesting
 webtime
 webview2
 wec
+wecutil
 weekday
 wef
 weixin
@@ -11287,6 +11294,7 @@ windowsdataprotectionapi
 windowsdefender
 windowsdesktop
 windowsdesktopsearch
+windowsdirectories
 windowsdiskcleanup
 windowsdomain
 windowsevent
@@ -11392,6 +11400,7 @@ workrequests
 worksheet
 workshop
 workspace
+workspacemanager
 workspaceone
 workspaces
 workstation
