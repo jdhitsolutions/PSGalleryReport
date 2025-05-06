@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 05 May 2025 17:50:39 UTC
+Updated: Tuesday, 06 May 2025 02:21:35 UTC
 .net
 {modulenameplaceholder}
 aad
@@ -23,6 +23,7 @@ analytics
 api
 apimanagement
 app
+appconfiguration
 applicationinsights
 appservice
 arcresourcebridge
@@ -67,30 +68,33 @@ configuration
 connectedmachine
 consumption
 container
-containergroup
 containerinstance
 containerregistry
 containers
+cosmosdb
 credential
 cryptography
 cubes
+cyberdrain
 database
 databases
+databoxedge
+databricks
 dataclassification
 datafactory
 datalake
 dataprotection
+datashare
 dell
 deployment
 desiredstateconfiguration
+desktopvirtualization
 devcenter
 devops
 devtestlabs
 directory
 dns
-dnsresolver
 docker
-driver
 dsc
 dsc-resources
 dscresource
@@ -107,13 +111,18 @@ exo
 exov2
 exov3
 extendedevents
+fhirservice
 file-system
 firewall
 firmware
+frontdoor
+functions
 graph
+graphapi
 groups
-hardware
 hdinsight
+healthcare
+healthcareapis
 hosts-file
 hp
 http
@@ -122,11 +131,10 @@ identity
 iis
 ingestion
 ini
-insights
-install
 installers
 internet-explorer
 intune
+invoke-ascurrentuser
 iot
 iothub
 ip
@@ -134,6 +142,7 @@ jobs
 junctions
 keyvault
 kubernetes
+kusto
 lenovo
 linux
 loadtesting
@@ -143,11 +152,14 @@ logicapp
 logs
 mac
 machinelearning
+machinelearningcompute
 machinelearningservices
 macos
 mailbox
+maintenance
 manageability
 managedserviceidentity
+managedservices
 management
 managementgroups
 marketplaceordering
@@ -156,6 +168,7 @@ mediaservices
 microsoft
 microsoft.identity.client
 microsoftauthenticationlibrary
+migrate
 mocking
 monitor
 msal
@@ -174,22 +187,23 @@ oauth
 office365
 oidc
 oms
+onedrive
 openidconnect
 operating-system
 operationalinsights
 orchestrator
 os
+outlook
 packagemanagement
 path
 pendingreboot
 performance-counters
 pki
-planner
-pnp
 policies
 policy
 policyevent
 policyinsights
+policymetadata
 policystate
 postgresql
 powerbi
@@ -199,7 +213,9 @@ powerbiembeddedcapacity
 powershell
 powershellgetformatversion_2.0
 principal
+privatedns
 privileges
+productivity
 profile
 programs
 provider
@@ -212,6 +228,7 @@ psremoting
 queue
 recoveryservices
 redis
+redisenterprisecache
 registry
 relay
 remediation
@@ -219,6 +236,8 @@ remotecontrol
 resource
 resourcegroup
 resourcemanager
+resourcemover
+rmm
 rsa
 scheduled-tasks
 scripting
@@ -242,6 +261,7 @@ sql
 sqlagent
 sqlps
 sqlserver
+sqlvirtualmachine
 ssas
 ssis
 ssl
@@ -250,9 +270,11 @@ stackhcivm
 storage
 storageaccount
 storagemover
+storagesync
 store
 streamanalytics
 subscription
+support
 synapse
 system
 table
@@ -266,7 +288,6 @@ toast
 toshiba
 trafficmanager
 trusted-host
-uefi
 unit_testing
 update
 usageaggregates
@@ -283,6 +304,8 @@ websites
 windows
 windows-features
 windows10
+windowspackagemanager
+winget
 wsman
 xevents
 xml
