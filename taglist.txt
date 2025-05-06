@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Tuesday, 06 May 2025 09:52:10 UTC
+Updated: Tuesday, 06 May 2025 17:52:01 UTC
 
 .bat
 .env
@@ -33,11 +33,18 @@ Updated: Tuesday, 06 May 2025 09:52:10 UTC
 1password
 1poshword
 200
+2005
+2008
+2008r2
 2010
+2012
 2013
+2014
 2016
+2017
 2018
 2019
+2022
 21vianet
 24-bit
 2fa
@@ -159,7 +166,6 @@ adal
 adapter
 adapter-control
 adapters
-adaptive-card
 adaptivecard
 adaptivecards
 adb
@@ -337,7 +343,6 @@ amazonaws
 amazonmgn
 amazontitan
 amazonwebservices
-amend
 ami
 amiga
 amp
@@ -529,6 +534,7 @@ asdatabase
 asigra
 asjob
 asm
+asn
 asn.1
 asn1
 asnbank
@@ -633,10 +639,11 @@ automatenow
 automaticpacketreportingsystem
 automation
 automation psmodule
-automationaccount
 automationanywhere
 automationportal
 automationutils
+autonomoussystem
+autonomoussystemnumber
 autopatching
 autopilot
 autoscaling
@@ -1505,6 +1512,7 @@ computer-site
 computername
 computers
 computersite
+comulativeupdate
 concur
 concurrency
 concurrent
@@ -1612,6 +1620,8 @@ convert-sid
 convert-windowsimage
 converter
 convertfrom
+convertfrom-json
+convertfrom-jsontohashtable
 convertfrom-string
 convertfrom-stringtable
 convertfrom-table
@@ -1752,6 +1762,7 @@ ctl
 ctrl+c
 ctx
 ctype
+cu
 cubes
 cudel
 culture
@@ -2163,7 +2174,6 @@ dnd
 dnf
 dns
 dns-01
-dns-administration
 dns-async
 dns-client
 dns-over-https
@@ -2171,7 +2181,6 @@ dns-resolver
 dnsbl
 dnsclient
 dnsdumpster
-dnsentry
 dnsimple
 dnslookup
 dnsmadeeasy
@@ -2179,7 +2188,6 @@ dnsoverhttps
 dnsrecord
 dnsresolver
 dnssec
-dnsserver
 dnssuffix
 dnvm
 doc
@@ -2409,8 +2417,6 @@ elb
 element
 elevate
 elevated
-elevatedconsole
-elevatedmode
 elevation
 elevenlabs
 elgato
@@ -2748,6 +2754,8 @@ file-encoding
 file-extension
 file-extension-association
 file-invalidchar
+file-matcher
+file-matching
 file-monitoring
 file-name
 file-name-extension
@@ -2767,6 +2775,7 @@ filelog
 filelogger
 filemaintenance
 filemanagement
+filematcher
 filename
 filenames
 fileproperties
@@ -2783,6 +2792,9 @@ filesharing
 filestorage
 filestream
 filesystem
+filesystementry-matcher
+filesystementry-matching
+filesystementrymatcher
 filesystemoperations
 filesystemrights
 filesystemsecurity
@@ -2861,7 +2873,6 @@ flexible
 flickr
 flowchart
 flowy
-fluidrelay
 flurl
 flyway
 fmg
@@ -2955,7 +2966,6 @@ fsrm
 ftp
 ftps
 ftptoday
-fu-msauth
 fudge
 fudgepop
 fujitsu
@@ -3504,6 +3514,7 @@ ibm
 ibmc
 ibmhttpserver
 icacl
+icann
 icinga
 icinga2
 icinga2mssql
@@ -3767,6 +3778,7 @@ ipv6
 ipynb
 ir
 irc
+irkit
 irl
 irregular
 isadmin
@@ -3775,7 +3787,6 @@ isc
 iscsi
 isdate
 ise
-iselevated
 isesteroids
 ish
 ishexstring
@@ -4005,7 +4016,6 @@ labtest
 labworker
 lake
 lambda
-lambdatest
 lame
 lametrictime
 lan
@@ -4113,7 +4123,6 @@ linux
 linux-command
 linux-style
 linuxssh
-liquid
 list
 list_files
 list-directory
@@ -4132,7 +4141,6 @@ llms
 lmhost
 lmhosts
 lms
-load
 loadbalancer
 loadbalancer.org
 loader
@@ -4149,6 +4157,7 @@ local-users
 localaccounts
 localadmin
 localconfigurationmanager
+localdb
 localdirectories
 locale
 localgroup
@@ -4278,6 +4287,7 @@ macmon
 macos
 macosx
 macro
+macros
 madlib
 magazine
 magento
@@ -4380,6 +4390,7 @@ maven
 max
 max_path
 maximum
+maxoffice
 mazerat
 mb
 mbc
@@ -4600,7 +4611,6 @@ moldova
 moment
 monaco
 monday
-mondoo
 money
 moneyforward
 mongo
@@ -4782,6 +4792,7 @@ ncal
 ncrestapi
 ndes
 nebulon
+nec-infrared-transmission-protocol
 necli
 nederland
 nedyalkov
@@ -4870,6 +4881,7 @@ newrelic
 news
 newspaper
 newtonsoft
+newtonsoft.json
 nexenta
 nexentastor
 nextcloud
@@ -5477,6 +5489,7 @@ pnpm
 poc
 podcast
 pode
+poe
 poem
 poetry
 point
@@ -8873,7 +8886,6 @@ pyenv
 pygmentize
 pykick
 pylint
-pyranja
 python
 python-for-dotnet
 python3
@@ -8976,6 +8988,8 @@ rbsu
 rcon
 rcs
 rcu
+rdap
+rdap.org
 rdb
 rdbms
 rdc
@@ -9004,7 +9018,6 @@ real-time
 realschule
 realtimeprotection
 realvnc
-rebase
 reboot
 rebootnodeifneeded
 recastsoftware
@@ -9215,8 +9228,6 @@ reversedsc
 reverseengineering
 review
 revision
-reword
-rewrite
 rexec
 rfc1305
 rfc1436
@@ -9253,6 +9264,8 @@ rms
 rng
 roarwrecker
 robbyrussel
+robinhood
+robinhoodcrypto
 robocopy
 robot
 roca
@@ -9299,6 +9312,7 @@ rsjob
 rsop
 rss
 rt
+rtm
 rtu
 rubber
 rubrik
@@ -9389,7 +9403,6 @@ scale
 scan
 scanner
 scanning
-scap
 scatter
 scb
 scc
@@ -9503,7 +9516,6 @@ secrets
 secretsanta
 secretscanner
 secretserver
-secretsmanagement
 secretsmanager
 secretstore
 secretvault
@@ -9558,7 +9570,6 @@ self-hosted
 self-service
 self-signed
 selfdispatch
-selfhelp
 selfsigned
 semantic
 semantic-versioning
@@ -9622,6 +9633,7 @@ servicemanager
 servicemanagerproxy
 servicemesh
 servicenow
+servicepack
 serviceplan
 servicepointmanager
 serviceprincipal
@@ -10755,6 +10767,7 @@ uml
 umn
 ums
 unattend
+unattended
 unattendedfile
 unblock
 unc
@@ -10905,6 +10918,7 @@ variance
 variants
 vastlimits
 vault
+vaultextension
 vaultstore
 vaultwarden
 vb365
@@ -11145,7 +11159,6 @@ weaviatenet
 web
 web-browser
 web-framework
-web-hook
 web-search
 web-server
 web.config
@@ -11247,6 +11260,7 @@ widedata
 wif
 wifi
 wiki
+wildcard
 wildfire
 wildfly
 wim
