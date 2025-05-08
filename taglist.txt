@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Wednesday, 07 May 2025 17:52:04 UTC
+Updated: Thursday, 08 May 2025 02:24:24 UTC
 
 .bat
 .env
@@ -120,7 +120,6 @@ action
 action1
 actionablemessages
 actiongroup
-actionhero
 actionplan
 actions
 activate
@@ -260,6 +259,8 @@ afd
 affinity
 affinity-co
 affinity-crm
+after-effects
+aftereffects
 agenda
 agent
 aggregates
@@ -448,7 +449,6 @@ applicationmonitor
 applications
 applicationworkspace
 applocker
-apply
 appmgmtcontrol
 apppool
 appraiser
@@ -502,7 +502,6 @@ argument
 argumentcompleter
 arguments
 ari
-arizeai
 arm
 arm-json
 arm-templates
@@ -519,7 +518,6 @@ artefactual
 artifact
 artifactory
 artifacts
-artificial-intelligence
 artificialintelligence
 aruba
 as
@@ -555,7 +553,6 @@ assessment
 asset
 assetintelligencepoint
 assets
-assist
 assistance
 assistant
 association
@@ -826,8 +823,6 @@ azvm
 b2
 back
 backblaze
-backconnection
-backconnectionhostname
 backend
 backup
 backup_validation
@@ -1099,7 +1094,6 @@ camtasia
 canarie
 cancel
 cancellation
-candlestick
 canonical
 cantara
 capability
@@ -1176,12 +1170,10 @@ cert
 certbasedauth
 certera
 certes
-certificat
 certificate
 certificateauthority
 certificatechain
 certificatemanager
-certificatepolicy
 certificates
 certificateservices
 certificatesmanagement
@@ -1324,7 +1316,6 @@ clientsettingsstatemessaging
 clientsettingsuserdeviceaffinity
 clientstatussettings
 clihelper.core
-clihelper.logger
 clihelper.semver
 clihelper.trends
 clipart
@@ -1505,7 +1496,6 @@ compoundproperty
 compress
 compression
 compute
-compute-ops-management
 computecloudatcustomer
 computeinstanceagent
 computer
@@ -1622,8 +1612,6 @@ convert-sid
 convert-windowsimage
 converter
 convertfrom
-convertfrom-json
-convertfrom-jsontohashtable
 convertfrom-string
 convertfrom-stringtable
 convertfrom-table
@@ -1725,7 +1713,6 @@ crescendobuilt
 cresendo
 crestron
 cricket
-crime
 crlf
 crm
 crm2016
@@ -2048,7 +2035,6 @@ deviation
 device
 devicecode
 deviceid
-devicemanagement
 deviceprovisioningservice
 devicereports
 devices
@@ -2176,6 +2162,7 @@ dnd
 dnf
 dns
 dns-01
+dns-administration
 dns-async
 dns-client
 dns-over-https
@@ -2183,6 +2170,7 @@ dns-resolver
 dnsbl
 dnsclient
 dnsdumpster
+dnsentry
 dnsimple
 dnslookup
 dnsmadeeasy
@@ -2190,6 +2178,7 @@ dnsoverhttps
 dnsrecord
 dnsresolver
 dnssec
+dnsserver
 dnssuffix
 dnvm
 doc
@@ -2239,7 +2228,6 @@ dotfile
 dotfiles
 dotnet
 dotnet-cli
-dotnet-tool
 dotnettool
 dotps1
 dots
@@ -2404,7 +2392,6 @@ edr
 education
 educational
 effectiveroutes
-efficientether
 efi
 egrep
 eid
@@ -2442,7 +2429,6 @@ emailaddressupdate
 emailautomation
 emailcampain
 emaildataplane
-emailmanagment
 emailnotification
 emailnotificationcomponent
 emailsecurity
@@ -2555,10 +2541,10 @@ esx
 esxi
 eternalblue
 ether
-etherassist
 ethereum
 ethernet
 ethr
+ethz
 etl
 etl2pcapng
 etrade
@@ -2678,6 +2664,7 @@ extendedevents
 extendedgroups
 extendedproperties
 extendedproperty
+extendscript
 extensibility
 extension
 extensionmethods
@@ -2819,13 +2806,7 @@ financeoperations
 finances
 financial
 financialedge
-financialmodeling
-financialmodelingprep
-financialmodelingprepapi
 financials
-financialstatement
-financialstatements
-financialstatementsapi
 find
 find-call
 find-caller
@@ -2880,7 +2861,6 @@ fluidrelay
 flurl
 flyway
 fmg
-fmp
 fms
 focus
 fod
@@ -2932,9 +2912,6 @@ forwardcompatibility
 forwardedevents
 foudil
 foundationmodels
-fount
-fount-pwsh
-fountassist
 fox
 foxpro
 fqdn
@@ -3151,7 +3128,6 @@ globaldashboard
 globalentry
 globallydistributeddatabase
 globbing
-glp
 glpi
 gmail
 gmap
@@ -3221,7 +3197,6 @@ graphs
 graphservices
 graphviz
 graylog
-greenlake
 greenplum
 gregorian
 gremlin
@@ -3367,7 +3342,6 @@ heml
 here
 hewlett
 hewlett-packard
-hewlett-packard-enterprise
 hewlett-packardenterprise
 hex
 hexdump
@@ -3445,7 +3419,6 @@ hpccache
 hpe
 hpealletra6000andnimblestoragepowershelltoolkit
 hpebioscmdlets
-hpegreenlake
 hpeilocmdlets
 hpemigrationadvisorycmdlets
 hpemigrationadvisorytool
@@ -3626,7 +3599,6 @@ indents
 index
 indexdb
 indicator
-indicators
 inedo
 inetfwrule
 inetum
@@ -3720,7 +3692,6 @@ intranet
 intrusion
 intuitive
 intune
-intuneadminroles
 intuneappwinutil
 intunestuff
 inventory
@@ -3879,6 +3850,7 @@ jsm
 jsm.insight
 json
 json-converter
+json-ld
 json-transform
 json+
 json2ps
@@ -3949,7 +3921,6 @@ keymanagementserver
 keymap
 keymapping
 keypair
-keysms
 keyvalue
 keyvault
 keywords
@@ -3964,7 +3935,6 @@ kinopoisk
 kintone
 kittygraphicsprotocol
 klantcontroles
-kline
 kms
 knapsack
 knetps
@@ -4309,6 +4279,7 @@ mailgroup
 mailgroupmember
 mailing
 mailkit
+mailmessage
 mails
 main
 main-menu
@@ -4332,7 +4303,6 @@ manageddevices
 manageddisks
 managedidentities
 managedidentity
-managednetworkfabric
 managedserviceidenity
 managedserviceidentity
 managedserviceprovider
@@ -4359,10 +4329,8 @@ maps
 mapsapi
 mariadb
 mark
-markdig
 markdown
 markdownrender
-market
 marketing
 marketo
 marketplace
@@ -4408,7 +4376,6 @@ mcas
 mccs
 mcd
 mchapv2
-mcp
 mct
 md5
 md5_v2-18232bfba2e90cd603582c78fa002427
@@ -4595,6 +4562,7 @@ model
 model-management
 modeling
 models
+modern
 modify
 module
 module-maintenance
@@ -4662,6 +4630,7 @@ ms365
 msaccess
 msacpi_thermalzonetemperature
 msal
+msaltoken
 msauth
 msband
 msbi
@@ -4888,8 +4857,10 @@ news
 newspaper
 newtonsoft
 newtonsoft.json
+nexacore
 nexenta
 nexentastor
+nextcloud
 nexthink
 nexus
 nexusiq
@@ -5041,7 +5012,6 @@ odfb
 odin
 odoo
 oem-charset
-oembed
 offboarding
 offence
 office
@@ -5219,7 +5189,6 @@ otp
 ou
 ou-object
 oui
-oui-search
 oura
 ouraring
 out-consolegridview
@@ -5603,7 +5572,6 @@ poshy-wrap-pylint
 poshy-wrap-python
 poshy-wrap-ruby
 poshy-wrap-systemctl
-poshy-wrap-terraform
 poshy-wrap-terragrunt
 poshy-wrap-tmux
 poshy-wrap-vagrant
@@ -5832,7 +5800,6 @@ providerhub
 provision
 provisioning
 provisioningpackage
-provisonedpackage
 prowl
 prowl-notifications
 prowlapp
@@ -7001,15 +6968,6 @@ pscommand_invoke-systemctluser-try-reload-or-restart
 pscommand_invoke-systemctluser-try-restart
 pscommand_invoke-systemctluser-unmask
 pscommand_invoke-systemctluser-unset-environment
-pscommand_invoke-terraform
-pscommand_invoke-terraformapply
-pscommand_invoke-terraformconsole
-pscommand_invoke-terraformdestroy
-pscommand_invoke-terraformformat
-pscommand_invoke-terraforminit
-pscommand_invoke-terraformoutput
-pscommand_invoke-terraformplan
-pscommand_invoke-terraformvalidate
 pscommand_invoke-terragrunt
 pscommand_invoke-terragruntapply
 pscommand_invoke-terragruntapplyall
@@ -7480,15 +7438,6 @@ pscommand_test-o
 pscommand_test-reparsepoint
 pscommand_test-sessioninteractivity
 pscommand_test-x
-pscommand_tf
-pscommand_tfa
-pscommand_tfc
-pscommand_tfd
-pscommand_tff
-pscommand_tfi
-pscommand_tfo
-pscommand_tfp
-pscommand_tfv
 pscommand_tg
 pscommand_tga
 pscommand_tgaa
@@ -8416,15 +8365,6 @@ psfunction_invoke-systemctluser-try-reload-or-restart
 psfunction_invoke-systemctluser-try-restart
 psfunction_invoke-systemctluser-unmask
 psfunction_invoke-systemctluser-unset-environment
-psfunction_invoke-terraform
-psfunction_invoke-terraformapply
-psfunction_invoke-terraformconsole
-psfunction_invoke-terraformdestroy
-psfunction_invoke-terraformformat
-psfunction_invoke-terraforminit
-psfunction_invoke-terraformoutput
-psfunction_invoke-terraformplan
-psfunction_invoke-terraformvalidate
 psfunction_invoke-terragrunt
 psfunction_invoke-terragruntapply
 psfunction_invoke-terragruntapplyall
@@ -8780,7 +8720,6 @@ psnavigation
 psnexosisclient
 psngenposh
 psobject
-psoutlog
 pspath
 pspersonio
 pspowerhour
@@ -9195,7 +9134,6 @@ resize
 resolution
 resolve
 resolve-dnsname
-resolve-stache
 resolve-template
 resolver
 resource
@@ -9413,6 +9351,7 @@ scale
 scan
 scanner
 scanning
+scap
 scatter
 scb
 scc
@@ -9466,7 +9405,6 @@ screen
 screencap
 screencapture
 screenconnect
-screener
 screenfetch
 screenresolution
 screensaver
@@ -9481,7 +9419,6 @@ scriptanalyzer
 scriptblock
 scriptblocklogging
 scriptbook
-scriptconversion
 scriptcop
 scriptcreation
 scriptcs
@@ -9576,13 +9513,11 @@ select-string
 selection
 selectxmlinfo
 selenium
-self
 self-hosted
 self-service
 self-signed
 selfdispatch
 selfhelp
-selfsigned
 semantic
 semantic-versioning
 semaphore
@@ -9593,6 +9528,7 @@ send
 send-logtologanalytics
 send-mailmessage
 send-message
+send-mgusermail
 senderid
 sendgrid
 sendkeys
@@ -9621,7 +9557,6 @@ serilog
 serilog-for-powershell
 serilog-sink
 server
-servercertificatevalidationcallback
 serverless
 servermanagement
 servers
@@ -9752,7 +9687,6 @@ sign
 signalfx
 signalr
 signature
-signed
 signing
 signtool
 silicondust
@@ -9844,11 +9778,11 @@ sms
 smtp
 smtpaddressupdate psmodule
 smtpauth
+smtpclient
 smtpoauth
 smtpsasl
 smtpsecure
 snap
-snapchat
 snapping
 snapshot
 snapshots
@@ -9918,7 +9852,6 @@ sourcecontrol
 sourceforge
 sourcegraph
 sourcemod
-sourceone
 sourcepawn
 sourcequery
 sovcloud
@@ -9962,7 +9895,6 @@ sphere
 spi
 spicetify
 spinnaker
-splash
 splat
 splatting
 split
@@ -10058,7 +9990,6 @@ ssrs
 ssst
 sstp
 stabilityai
-stache
 stackexchange
 stackhci
 stackhcivm
@@ -10079,7 +10010,6 @@ stansummary
 start
 start-job
 start-jobthread
-start-threadjob
 startkey
 startmen
 startmenu
@@ -10119,11 +10049,7 @@ stigrepo
 stingar
 stock
 stockcharts
-stockmarket
-stockmarketapi
 stocks
-stockscreener
-stockscreenerapi
 stoicism
 stoics
 stolpe.io
@@ -10151,7 +10077,6 @@ strictmode
 strikethrough-text
 string
 string-converter
-string-template
 stringmanager
 stringmanagertool
 strings
@@ -10372,7 +10297,6 @@ teamviewer
 techdirect
 techedna2014
 techlog
-technicalanalysis
 technology
 techsmith
 tel
@@ -10483,7 +10407,6 @@ thoughtfortheday
 thousandeyes
 thread
 threading
-threadjob
 threads
 threadsanitizer
 threat
@@ -10628,7 +10551,6 @@ tribeloo
 trick
 tricks
 trigger
-triggers
 trilium
 triliumnext
 triodos
@@ -10652,7 +10574,6 @@ trx
 ts
 tsa
 tsd
-tsheets
 tsqlbestpractice
 tst
 tst1
@@ -10688,6 +10609,7 @@ txt
 type
 typeaccelerators
 typedata
+typeextension
 types
 types.ps1xml
 typescript
@@ -10728,7 +10650,6 @@ ud-minesweeper
 ud-mouseparticle
 ud-navbarsearch
 ud-numbermask
-ud-orgchart
 ud-piechart3d
 ud-pivottable
 ud-progressstepbar
@@ -10838,7 +10759,6 @@ uplink
 uploadindicators
 uploadindicatorsapi
 ups
-upsource
 upstream
 uptime
 uptimerobot
@@ -10871,6 +10791,7 @@ userdiscovery
 usergroup
 usergroups
 userinterface
+usermail
 usermanagement
 username
 userprofile
@@ -10902,7 +10823,6 @@ uudecode
 uuencode
 uuid
 uw
-uwp
 ux
 v20
 vadim
@@ -10928,6 +10848,7 @@ vault
 vaultextension
 vaultstore
 vaultwarden
+vb365
 vba
 vbaproject
 vbproj
@@ -11196,7 +11117,6 @@ webreport
 webrequest
 webresponse
 webroot
-websearch
 webserver
 webservice
 webservices
@@ -11536,6 +11456,7 @@ xpo
 xprotect
 xpt
 xrm
+xsa
 xtremio
 xtrude
 xunit
