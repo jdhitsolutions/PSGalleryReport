@@ -5,118 +5,224 @@ This is a report of contributions to the [PowerShell Gallery](https://powershell
 This report does not include pre-release modules and be aware that not every module will have an online repository.
 
 Internal navigation links may not work in the PDF version of this report.
++ [Broadcom](#Broadcom) (42)
++ [Warren Frame](#Warren-Frame) (2)
++ [Aaron Parker](#Aaron-Parker) (2)
 + [Michal Gajda](#Michal-Gajda) (1)
-+ [Bartosz Bielawski](#Bartosz-Bielawski) (1)
-+ [Raymond Piller](#Raymond-Piller) (1)
-+ [Jordan Borean](#Jordan-Borean) (1)
-+ [Gabriel Adrian Samfira Alessandro Pilotti](#Gabriel-Adrian-Samfira-Alessandro-Pilotti) (1)
-+ [Kelvin Tegelaar - Kelvin@limenetworks.nl](#Kelvin-Tegelaar---Kelvinlimenetworksnl) (1)
-+ [Marc R Kellerman](#Marc-R-Kellerman) (1)
-+ [Carlos Perez](#Carlos-Perez) (1)
-+ [jantari](#jantari) (1)
-+ [LucaSturlese](#LucaSturlese) (1)
-+ [Thomas Kurth](#Thomas-Kurth) (1)
-+ [Przemyslaw Klys](#Przemyslaw-Klys) (1)
-+ [Dave Garnar](#Dave-Garnar) (1)
-+ [Brian Wilhite](#Brian-Wilhite) (1)
-+ [TeamViewer Germany GmbH](#TeamViewer-Germany-GmbH) (1)
-+ [Aaron Jensen](#Aaron-Jensen) (1)
++ [Douglas Finke](#Douglas-Finke) (1)
++ [Jianyun](#Jianyun) (1)
++ [Faris Malaeb](#Faris-Malaeb) (1)
++ [Ethan Bergstrom](#Ethan-Bergstrom) (1)
++ [Stephen Nix](#Stephen-Nix) (1)
++ [Ryan Kowalewski](#Ryan-Kowalewski) (1)
++ [MSP360 Onboarding Team <services@msp360.com>](#MSP360-Onboarding-Team-<servicesmsp360com>) (1)
++ [Per Allner](#Per-Allner) (1)
++ [jakub.pawlowski](#jakubpawlowski) (1)
++ [Simon Bergwall](#Simon-Bergwall) (1)
++ [lahell](#lahell) (1)
++ [John Roos](#John-Roos) (1)
++ [Friedrich Weinmann](#Friedrich-Weinmann) (1)
++ [Jason](#Jason) (1)
++ [Dave Wyatt](#Dave-Wyatt) (1)
++ [Dave Long](#Dave-Long) (1)
++ [Ricardo Mendes Tobias Weltner](#Ricardo-Mendes-Tobias-Weltner) (1)
++ [Windows Autopilot](#Windows-Autopilot) (1)
++ [Thomas Freudenberg](#Thomas-Freudenberg) (1)
 + [Matt Miller Security Engineer](#Matt-Miller-Security-Engineer) (1)
-+ [Damien Van Robaeys](#Damien-Van-Robaeys) (1)
-+ [jayshah](#jayshah) (1)
++ [Kelvin Tegelaar - Kelvin@limenetworks.nl](#Kelvin-Tegelaar---Kelvinlimenetworksnl) (1)
+
+## Broadcom
+
++ **[VMware.PowerCLI 13.3.0.24145081](https://developer.vmware.com/powercli)**  - This Windows PowerShell module contains VMware.PowerCLI [*07/25/2024 13:08:12*]
++ **[VMware.VumAutomation 13.3.0.24145081](https://developer.vmware.com/powercli)**  - This PowerShell module contains PowerCLI VUM cmdlets. [*07/25/2024 13:07:28*]
++ **[VMware.VimAutomation.Hcx 13.3.0.24145081](https://developer.vmware.com/powercli)**  - This Windows PowerShell module contains PowerCLI HCX cmdlets. [*07/25/2024 13:07:13*]
++ **[VMware.VimAutomation.WorkloadManagement 13.3.0.24145081](https://developer.vmware.com/powercli)**  - PowerShell commands for automation of workloads related functionality in vSphere. [*07/25/2024 13:06:59*]
++ **[VMware.VimAutomation.Cloud 13.3.0.24145081](https://developer.vmware.com/powercli)**  - This PowerShell module contains PowerCLI Cloud cmdlets. [*07/25/2024 13:04:28*]
++ **[VMware.VimAutomation.License 13.3.0.24145081](https://developer.vmware.com/powercli)**  - This PowerShell module contains PowerCLI cmdlets for managing VMware product licenses. [*07/25/2024 13:03:40*]
++ **[VMware.VimAutomation.Srm 13.3.0.24145081](https://developer.vmware.com/powercli)**  - This PowerShell module contains PowerCLI SRM cmdlets. [*07/25/2024 13:03:26*]
++ **[VMware.VimAutomation.Vmc 13.3.0.24145081](https://developer.vmware.com/powercli)**  - This PowerShell module contains PowerCLI VMC cmdlets. [*07/25/2024 13:03:10*]
++ **[VMware.VimAutomation.vROps 13.3.0.24145081](https://developer.vmware.com/powercli)**  - This PowerShell module contains PowerCLI vROps cmdlets. [*07/25/2024 13:02:56*]
++ **[VMware.DeployAutomation 13.3.0.24145081](https://developer.vmware.com/powercli)**  - This PowerShell module contains PowerCLI Auto Deploy cmdlets. [*07/25/2024 13:02:41*]
++ **[VMware.VimAutomation.Security 13.3.0.24145081](https://developer.vmware.com/powercli)**  - This PowerShell module contains PowerCLI security management cmdlets. [*07/25/2024 13:02:25*]
++ **[VMware.VimAutomation.Nsxt 13.3.0.24145081](https://developer.vmware.com/powercli)**  - This PowerShell module contains PowerCLI NSXT cmdlets. [*07/25/2024 13:02:11*]
++ **[VMware.Sdk.vSphere.Esx.Hosts 8.0.2099.24145081](https://developer.vmware.com/powercli)**  - This PowerShell module contains PowerShell Advanced functions for VMware.Sdk.vSphere.Esx.Hosts. [*07/25/2024 13:01:53*]
++ **[VMware.Sdk.vSphere.Appliance.SupportBundle 8.0.2099.24145081](https://developer.vmware.com/powercli)**  - This PowerShell module contains PowerShell Advanced functions for VMware.Sdk.vSphere.Appliance.SupportBundle. [*07/25/2024 13:01:20*]
++ **[VMware.Sdk.vSphere.Esx.Hcl 8.0.2099.24145081](https://developer.vmware.com/powercli)**  - This PowerShell module contains PowerShell Advanced functions for VMware.Sdk.vSphere.Esx.Hcl. [*07/25/2024 13:01:06*]
++ **[VMware.Sdk.vSphere.ContentLibrary 8.0.2099.24145081](https://developer.vmware.com/powercli)**  - This PowerShell module contains PowerShell Advanced functions for VMware.Sdk.vSphere.ContentLibrary. [*07/25/2024 13:00:52*]
++ **[VMware.Sdk.vSphere.Content 8.0.2099.24145081](https://developer.vmware.com/powercli)**  - This PowerShell module contains PowerShell Advanced functions for VMware.Sdk.vSphere.Content. [*07/25/2024 13:00:37*]
++ **[VMware.Sdk.vSphere.Cis.Tagging 8.0.2099.24145081](https://developer.vmware.com/powercli)**  - This PowerShell module contains PowerShell Advanced functions for VMware.Sdk.vSphere.Cis.Tagging. [*07/25/2024 13:00:24*]
++ **[VMware.Sdk.vSphere.Cis 8.0.2099.24145081](https://developer.vmware.com/powercli)**  - This PowerShell module contains PowerShell Advanced functions for VMware.Sdk.vSphere.Cis. [*07/25/2024 13:00:06*]
++ **[VMware.Sdk.vSphere.Appliance.Update 8.0.2099.24145081](https://developer.vmware.com/powercli)**  - This PowerShell module contains PowerShell Advanced functions for VMware.Sdk.vSphere.Appliance.Update. [*07/25/2024 12:59:51*]
++ **[VMware.Sdk.vSphere.Appliance.System 8.0.2099.24145081](https://developer.vmware.com/powercli)**  - This PowerShell module contains PowerShell Advanced functions for VMware.Sdk.vSphere.Appliance.System. [*07/25/2024 12:59:24*]
++ **[VMware.Sdk.vSphere.Appliance.LocalAccounts 8.0.2099.24145081](https://developer.vmware.com/powercli)**  - This PowerShell module contains PowerShell Advanced functions for VMware.Sdk.vSphere.Appliance.LocalAccounts. [*07/25/2024 12:59:11*]
++ **[VMware.Sdk.vSphere.Appliance.Recovery 8.0.2099.24145081](https://developer.vmware.com/powercli)**  - This PowerShell module contains PowerShell Advanced functions for VMware.Sdk.vSphere.Appliance.Recovery. [*07/25/2024 12:58:57*]
++ **[VMware.Sdk.vSphere.Appliance.Networking 8.0.2099.24145081](https://developer.vmware.com/powercli)**  - This PowerShell module contains PowerShell Advanced functions for VMware.Sdk.vSphere.Appliance.Networking. [*07/25/2024 12:58:42*]
++ **[VMware.Sdk.vSphere.Appliance.Logging 8.0.2099.24145081](https://developer.vmware.com/powercli)**  - This PowerShell module contains PowerShell Advanced functions for VMware.Sdk.vSphere.Appliance.Logging. [*07/25/2024 12:58:28*]
++ **[VMware.Sdk.vSphere.Appliance.InfraProfile 8.0.2099.24145081](https://developer.vmware.com/powercli)**  - This PowerShell module contains PowerShell Advanced functions for VMware.Sdk.vSphere.Appliance.InfraProfile. [*07/25/2024 12:58:01*]
++ **[VMware.Sdk.vSphere.Appliance.Health 8.0.2099.24145081](https://developer.vmware.com/powercli)**  - This PowerShell module contains PowerShell Advanced functions for VMware.Sdk.vSphere.Appliance.Health. [*07/25/2024 12:57:46*]
++ **[VMware.Sdk.vSphere.Appliance.Access 8.0.2099.24145081](https://developer.vmware.com/powercli)**  - This PowerShell module contains PowerShell Advanced functions for VMware.Sdk.vSphere.Appliance.Access. [*07/25/2024 12:57:32*]
++ **[VMware.Sdk.vSphere.Appliance 8.0.2099.24145081](https://developer.vmware.com/powercli)**  - This PowerShell module contains PowerShell Advanced functions for VMware.Sdk.vSphere.Appliance. [*07/25/2024 12:57:18*]
++ **[VMware.ImageBuilder 13.3.0.24145081](https://developer.vmware.com/powercli)**  - This PowerShell module contains PowerCLI ImageBuilder cmdlets. [*07/25/2024 12:56:46*]
++ **[VMware.Sdk.vSphere.vCenter 8.0.2099.24145081](https://developer.vmware.com/powercli)**  - This PowerShell module contains PowerShell Advanced functions for VMware.Sdk.vSphere.vCenter. [*07/25/2024 12:55:02*]
++ **[VMware.VimAutomation.Vds 13.3.0.24145081](https://developer.vmware.com/powercli)**  - This PowerShell module contains PowerCLI VDS cmdlets. [*07/25/2024 12:54:32*]
++ **[VMware.Sdk.vSphere.vCenter.CertManagement 8.0.2099.24145081](https://developer.vmware.com/powercli)**  - This PowerShell module contains PowerShell Advanced functions for VMware.Sdk.vSphere.vCenter.CertManagement. [*07/25/2024 12:50:31*]
++ **[VMware.CloudServices 13.3.0.24145081](https://developer.vmware.com/powercli)**  - PowerShell module that contains command for VMware Cloud Services. [*07/25/2024 12:49:47*]
++ **[VMware.Sdk.vSphereRuntime 8.0.2099.24145081](https://developer.vmware.com/powercli)**  - This PowerShell module contains PowerShell Advanced functions for VMware.Sdk.vSphereRuntime. [*07/25/2024 12:48:20*]
++ **[VMware.VimAutomation.Storage 13.3.0.24145081](https://developer.vmware.com/powercli)**  - This Windows PowerShell module contains PowerCLI storage management cmdlets. [*07/25/2024 12:47:53*]
++ **[VMware.VimAutomation.Core 13.3.0.24145081](https://developer.vmware.com/powercli)**  - This PowerShell module contains Windows PowerShell cmdlets for managing vSphere. [*07/25/2024 12:47:34*]
++ **[VMware.Sdk.Runtime 1.0.2099.24145081](https://developer.vmware.com/powercli)**  - This PowerShell module contains PowerShell Advanced functions for VMware.Sdk.Runtime. [*07/25/2024 12:47:19*]
++ **[VMware.VimAutomation.Cis.Core 13.3.0.24145081](https://developer.vmware.com/powercli)**  - This PowerShell module contains PowerCLI Cloud Infrastructure Suite cmdlets. [*07/25/2024 12:47:04*]
++ **[VMware.Vim 8.3.0.24145081](https://developer.vmware.com/powercli)**  - This PowerShell module contains PowerCLI Vim. [*07/25/2024 12:46:48*]
++ **[VMware.VimAutomation.Common 13.3.0.24145081](https://developer.vmware.com/powercli)**  - This PowerShell module contains functionality required by multiple PowerCLI modules. [*07/25/2024 12:46:29*]
++ **[VMware.VimAutomation.Sdk 13.3.0.24145081](https://developer.vmware.com/powercli)**  - This PowerShell module contains PowerCLI Sdk. [*07/25/2024 12:46:15*]
+
+## Warren Frame
+
++ **[PSSlack 1.0.6](https://github.com/RamblingCookieMonster/PSSlack/)**  - PowerShell module for the Slack API [*07/01/2021 00:46:21*]
++ **[PSSQLite 1.1.0](https://github.com/RamblingCookieMonster/PSSQLite)**  - Query SQLite databases [*05/18/2020 13:38:10*]
+
+## Aaron Parker
+
++ **[Evergreen 2505.2003](https://stealthpuppy.com/evergreen/)**  - Create evergreen Windows image builds with the latest versions of applications. Evergreen is a simple PowerShell module that retrieves the latest version numbers and download URLs for various software products directly from the vendor source. [*05/01/2025 11:17:49*]
++ **[VcRedist 4.1.502](https://vcredist.com/)**  - A module for lifecycle management of the Microsoft Visual C++ Redistributables. VcRedist downloads, installs and uninstalls the supported (and unsupported) Redistributables. Use for local install, gold image creation and update, or importing as applications into the Microsoft Deployment Toolkit, Microsoft Configuration Manager or Microsoft Intune. Supports passive and silent installs, and uninstalls of the Visual C++ Redistributables. [*02/28/2025 05:01:07*]
 
 ## Michal Gajda
 
 + **[PSWindowsUpdate 2.2.1.5](https://github.com/mgajda83/PSWindowsUpdate)**  - This module contain cmdlets to manage Windows Update Client. [*07/20/2024 10:51:44*]
 
-## Bartosz Bielawski
+## Douglas Finke
 
-+ **SNMP 1.0.0.1**  - Module to manage systems using SNMP. [*05/13/2014 17:51:13*]
++ **[ImportExcel 7.8.10](https://github.com/dfinke/ImportExcel)**  - PowerShell module to import/export Excel spreadsheets, without Excel.
+Check out the How To Videos https://www.youtube.com/watch?v=U3Ne_yX4tYo&list=PL5uoqS92stXioZw-u-ze_NtvSo0k0K0kq [*10/21/2024 23:45:09*]
 
-## Raymond Piller
+## Jianyun
 
-+ **QuserObject 1.0.50**  - Query `quser.exe` and return a proper PowerShell Object. [*07/06/2021 14:17:37*]
++ **[ChocolateyGet 4.1.0](https://github.com/Jianyunt/ChocolateyGet)**  - Package Management (OneGet) provider that facilitates installing Chocolatey packages from any NuGet repository. [*02/12/2023 12:21:50*]
 
-## Jordan Borean
+## Faris Malaeb
 
-+ **[psprivilege 0.2.0](https://github.com/jborean93/PSPrivilege)**  - Adds cmdlets that can be used to enable/disable/remove privileges on a process. Also adds cmdlets that can be used to configure the members of Windows rights and privileges.
-See https://github.com/jborean93/PSPrivilege for more info [*11/26/2021 02:48:07*]
++ **[Get-ActiveSession 1.0.4](https://github.com/farismalaeb/Powershell/tree/master/Get-ActiveSession)**  - Get infomration about remote Windows logged in users, with the support of logging off a single user or all users from a single or multiple servers [*08/13/2023 07:32:51*]
 
-## Gabriel Adrian Samfira Alessandro Pilotti
+## Ethan Bergstrom
 
-+ **[powershell-yaml 0.4.12](https://github.com/cloudbase/powershell-yaml)**  - Powershell module for serializing and deserializing YAML [*01/23/2025 18:41:16*]
++ **[Foil 0.3.1](https://github.com/ethanbergstrom/Foil)**  - A PowerShell Crescendo wrapper for Chocolatey [*12/03/2023 21:07:19*]
 
-## Kelvin Tegelaar - Kelvin@limenetworks.nl
+## Stephen Nix
 
-+ **[RunAsUser 2.4.0](https://github.com/KelvinTegelaar/RunAsUser)**  - This module allows you to execute scripts under the current user while running as SYSTEM using impersonation. [*12/14/2022 08:36:31*]
++ **[Strapper 1.7.1.3](https://github.com/ProVal-Tech/Strapper)**  - A cross-platform helper module for PowerShell. [*03/26/2025 21:04:13*]
 
-## Marc R Kellerman
+## Ryan Kowalewski
 
-+ **[Invoke-CommandAs 3.1.9](https://github.com/mkellerman/Invoke-CommandAs)**  - Invoke Command as System/User on Local/Remote computer using ScheduleTask. [*01/20/2022 06:56:47*]
++ **[MSCatalog 0.27.0](https://github.com/ryan-jan/MSCatalog)**  - PowerShell module for searching and downloading offline updates from https://www.catalog.update.microsoft.com [*10/05/2021 13:40:12*]
 
-## Carlos Perez
+## MSP360 Onboarding Team <services@msp360.com>
 
-+ **[Posh-SSH 3.2.4](https://github.com/darkoperator/Posh-SSH)**  - Provide SSH and SCP functionality for executing commands against remote hosts. You can also use it to transfer files over SSH. To learn more about this module, visit https://www.youtube.com/playlist?list=PLFAOQ2hOvfsQ7cQikml4ua7-CDr9r578N for video tutorials. [*09/17/2024 13:44:14*]
++ **[msp360 3.29.201](https://mspbackups.com/AP/Help/powershell)**  - The module includes cmdlets to manage MSP360 (CloudBerry) Backup agent, MBS API and tools. [*07/20/2023 14:59:45*]
 
-## jantari
+## Per Allner
 
-+ **[LSUClient 1.7.1](https://www.github.com/jantari/LSUClient)**  - Orchestrate driver, BIOS/UEFI and firmware updates for Lenovo computers 👨‍💻 [*04/23/2025 22:05:21*]
++ **[PSInternetConnectionSharing 1.4.1](https://github.com/loxia01/PSInternetConnectionSharing)**  - PSInternetConnectionSharing is a PowerShell module that provides simple functions
+to control Windows Internet Connection Sharing (ICS) from command line.
 
-## LucaSturlese
+The module includes three functions:
+- Set-Ics
+- Get-Ics
+- Disable-Ics [*04/14/2024 05:14:10*]
 
-+ **[PSLogging 2.5.2](http://9to5it.com/powershell-logging-v2-easily-create-log-files)**  - Creates and manages log files for your scripts. [*11/22/2015 10:26:55*]
+## jakub.pawlowski
 
-## Thomas Kurth
++ **[newtonsoft.json 1.0.2.201](https://github.com/qbikez/ps-entropy/tree/master/src/newtonsoft.json)**  - Serialize/Deserialize Json using Newtonsoft.json [*05/11/2019 04:54:09*]
 
-+ **[ModernWorkplaceClientCenter 0.1.17](https://github.com/ThomasKur/ModernWorkplaceClientCenter)**  - The Modern Workplace Client Center Module provides functions to troubleshoot Microsoft Intune on a Windows 10 client in a modern managed environment. Th initial version mainly allows troubleshooting Azure AD Hybrid Join. [*06/02/2020 21:46:51*]
+## Simon Bergwall
 
-## Przemyslaw Klys
++ **[RobocopyPS 0.2.21](https://github.com/sbergwall/RobocopyPS)**  - Wrapper for Robocopy [*08/27/2023 13:48:40*]
 
-+ **[SecurityPolicy 0.0.13](https://github.com/EvotecIT/SecurityPolicy)**  - Module that allows getting, adding and removing User Rights Assignment without using secedit.exe [*02/04/2023 17:31:10*]
+## lahell
 
-## Dave Garnar
++ **[PSDiscoveryProtocol 1.4.3](https://github.com/lahell/PSDiscoveryProtocol)**  - Capture and parse CDP and LLDP packets on local or remote computers [*04/14/2023 21:26:37*]
 
-+ **CredentialManager 2.0**  - Provides access to credentials in the Windows Credential Manager [*06/17/2016 16:56:46*]
+## John Roos
 
-## Brian Wilhite
++ **[Write-ObjectToSQL 1.13](https://github.com/JohnRoos/PowerShell/tree/master/Modules/Write-ObjectToSQL)**  - Writes an object into a database table. If the table does not exist it will be created based on the properties of the object. For every property of the object a column will be created. The data type for each column will be converted from .Net data types into SQL Server data types.
 
-+ **[PendingReboot 0.9.0.6](https://github.com/bcwilhite/PendingReboot/)**  - Module to detect Windows OS pending reboots. [*08/22/2018 01:00:02*]
+Not all data types are supported. Unsupported data types will be ignored (but can be listed). If several objects are sent through the pipeline only the first object will be used for creating the template for the table.
 
-## TeamViewer Germany GmbH
+Make sure that all objects in the pipeline have the exact same properties (this is usually the case). While creating the table the script will also add two default columns. One called 'id' which is a regular auto counter (integer which increases with 1 for every row) and another column called 'inserted_at' which will have a default value of GetDate() which represents the timestamp for when the row was inserted. If a property is named the same as one of these default columns then a 'x' will be added before the name of those columns to avoid duplication. (if propertyname=id, then propertyname=xid, etc.)
 
-+ **[TeamViewerPS 2.2.0](https://github.com/teamviewer/TeamViewerPS)**  - TeamViewerPS allows to interact with the TeamViewer Web API as well as a locally installed TeamViewer client. [*03/17/2025 10:00:08*]
+Hashtables are handled slightly different. When using hashtables the script will simply use the keys as columns.
+       
+Keep in mind that properties on the objects are used. Some objects, like strings, might only have a length property but what you really want to insert into the table is the value of the string.
+    
+The following command would generate a table with one column called Length which would contain the length of the strings (probably not what you want):
+    
+'oink','meo' | Write-ObjectToSQL -Server localhost\sqlexpress -Database MyDB -TableName myTable
+    
+The following command is a better way to do it. Instead of piping the strings directly you should create custom objects or, as in this example, hash tables. This will generate a table with a column called 'text' which will contain the values 'oink' and 'meo':
 
-## Aaron Jensen
+@{'text'='oink'}, @{'text'='meo'} | Write-ObjectToSQL -Server localhost\sqlexpress -Database MyDB -TableName myTable
 
-+ **[Carbon 2.15.1](http://get-carbon.org/)**  - Carbon is a PowerShell module for automating the configuration Windows 7, 8, 2008, and 2012 and automation the installation and configuration of Windows applications, websites, and services. It can configure and manage:
+Another thing to note is that this script will only take Property and NoteProperty into consideration. So for example ScriptProperty and ParameterizedProperty will be ignored. You can verify your objects with the Get-Member cmdlet and check the MemberType.
 
- * Local users and groups
- * IIS websites, virtual directories, and applications
- * File system, registry, and certificate permissions
- * Certificates
- * Privileges
- * Services
- * Encryption
- * Junctions
- * Hosts file
- * INI files
- * Performance counters
- * Shares
- * .NET connection strings and app settings
- * And much more!
+Currently the script supports the following data types:
 
-All functions are idempotent: when run multiple times with the same arguments, your system will be in the same state without failing or producing errors. [*08/18/2023 18:53:24*]
+Int32
+UInt32
+Int16
+UInt16
+Int64
+UInt64
+long
+int
+Decimal
+Single
+Double
+Byte
+SByte
+String
+DateTime
+TimeSpan
+datetime
+string
+bool
+Boolean
+GUID [*02/11/2017 21:09:56*]
+
+## Friedrich Weinmann
+
++ **[PSFramework 1.12.346](http://psframework.org/)**  - General Scripting Framework, providing PowerShell-specific infrastructure for other modules. [*09/25/2024 09:12:30*]
+
+## Jason
+
++ **[NuGet 1.3.3](https://github.com/PowerShellOrg/NuGet)**  - Create Nuget repos, Register Repos, Manage Modules and Packages with a single DSC Module.  This Module Exports 5 Resources, Nuget, PSRepo, PackageRepo, Nuget_Module, and Nuget_Package 
+Examples show off all the core functionality as well as support Kitchen integration. 
+View the source @ https://github.com/PowerShellOrg/NuGet to raise issues or modify functionality [*10/15/2016 16:34:12*]
+
+## Dave Wyatt
+
++ **[PolicyFileEditor 3.0.1](https://github.com/dlwyatt/PolicyFileEditor)**  - Commands and DSC resource for modifying Administrative Templates settings in local GPO registry.pol files. [*02/12/2018 21:22:59*]
+
+## Dave Long
+
++ **[PSAtera 1.7.0](https://github.com/davejlong/PSAtera)**  - PowerShell Module for interacting with the Atera API [*10/17/2024 15:52:35*]
+
+## Ricardo Mendes Tobias Weltner
+
++ **[DeviceManagement 1.3.0](https://github.com/TobiasPSP/Modules.DeviceManagement)**  - Windows PowerShell Module for managing devices [*04/23/2020 13:01:39*]
+
+## Windows Autopilot
+
++ **WindowsAutoPilotIntune 5.7**  - Sample module to manage AutoPilot devices using the Intune Graph API [*09/17/2024 15:59:31*]
+
+## Thomas Freudenberg
+
++ **[7Zip4Powershell 2.7.0](https://github.com/thoemmi/7Zip4Powershell)**  - Powershell module for creating and extracting 7-Zip archives [*12/10/2024 20:06:18*]
 
 ## Matt Miller Security Engineer
 
 + **SpeculationControl 1.0.18**  - This module provides the ability to query the speculation control settings for the system. [*04/19/2023 17:13:59*]
 
-## Damien Van Robaeys
+## Kelvin Tegelaar - Kelvin@limenetworks.nl
 
-+ **[GetBIOS 1.3.3](https://www.systanddeploy.com/2022/06/getbios-module-list-bios-settings-from.html)**  - List local or remote BIOS settings (for Lenovo, Dell, HP and Toshiba) [*06/08/2022 07:15:18*]
++ **[RunAsUser 2.4.0](https://github.com/KelvinTegelaar/RunAsUser)**  - This module allows you to execute scripts under the current user while running as SYSTEM using impersonation. [*12/14/2022 08:36:31*]
 
-## jayshah
-
-+ **[DockerMsftProvider 1.0.0.8](https://github.com/OneGet/MicrosoftDockerProvider)**  - PowerShell module with commands for discovering, installing, and updating Docker images. [*08/26/2019 21:47:09*]
-
-*Updated: Sunday, 11 May 2025 02:26:14 UTC*
+*Updated: Sunday, 11 May 2025 09:50:53 UTC*
