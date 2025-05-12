@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 12 May 2025 02:26:00 UTC
+Updated: Monday, 12 May 2025 09:52:07 UTC
 
 .bat
 .env
@@ -120,6 +120,7 @@ action
 action1
 actionablemessages
 actiongroup
+actionhero
 actionplan
 actions
 activate
@@ -172,7 +173,6 @@ adb
 adc
 adcs
 add
-add-in
 add-member
 add-on
 add-on.module
@@ -503,6 +503,7 @@ argument
 argumentcompleter
 arguments
 ari
+arizeai
 arm
 arm-json
 arm-templates
@@ -519,6 +520,7 @@ artefactual
 artifact
 artifactory
 artifacts
+artificial-intelligence
 artificialintelligence
 aruba
 as
@@ -554,6 +556,7 @@ assessment
 asset
 assetintelligencepoint
 assets
+assist
 assistance
 assistant
 association
@@ -949,7 +952,6 @@ bladeserver
 blaze
 blinking-text
 blob
-blobstorage
 block
 block-kit
 blockchain
@@ -1091,7 +1093,6 @@ callqueue
 calvin-and-hobbes
 cam
 camera
-cameras
 campaign
 camtasia
 canarie
@@ -2110,6 +2111,7 @@ disa
 disable
 disable-internet
 disable-psremoting
+disablefilesyncngsc
 disablestartbutton
 disablestartkey
 disasm
@@ -2179,6 +2181,7 @@ dns-client
 dns-over-https
 dns-resolver
 dnsbl
+dnsclient
 dnsdumpster
 dnsentry
 dnsimple
@@ -2216,8 +2219,6 @@ docusign
 docx
 dod
 dog
-dog-names
-dogs
 dogstatsd
 dok
 dokuwiki
@@ -2932,9 +2933,11 @@ fortios
 fortune
 forum
 forwardcompatibility
-forwardedevents
 foudil
 foundationmodels
+fount
+fount-pwsh
+fountassist
 fox
 foxpro
 fqdn
@@ -3216,6 +3219,7 @@ graphic
 graphics
 graphite
 graphql
+graphquerylanguage
 graphs
 graphservices
 graphviz
@@ -3516,6 +3520,7 @@ ias
 ib
 ibm
 ibmc
+ibmhttpserver
 icacl
 icann
 icinga
@@ -3561,6 +3566,7 @@ ifconfig
 ifttt
 igel
 igr
+ihs
 iiittttt
 iis
 iisadministration
@@ -3666,7 +3672,6 @@ inspiration
 inspirationalquotes
 inspire
 inspur
-instagram
 install
 install-module
 install-windowsimage
@@ -3753,7 +3758,6 @@ iothub
 iothubproperties
 iotoperationsservice
 ip
-ip_cameras
 ip-address
 ip-scanner
 ipa
@@ -4772,7 +4776,6 @@ nac
 nagios
 nakivo
 name
-name-of-dogs
 namedpipe
 nameit
 nameresolution
@@ -5275,7 +5278,6 @@ pager
 pagerduty
 pages
 pagination
-paloalto
 paloaltonetworks
 pam
 panels
@@ -5536,7 +5538,6 @@ port-scanner
 port70
 portal
 portchecker
-porthunter
 ports
 portscan
 porttest
@@ -5577,6 +5578,7 @@ poshy-lucidity
 poshy-multimedia
 poshy-net
 poshy-notify-send
+poshy-sh-isms
 poshy-sshconfig
 poshy-viewer-finder
 poshy-wrap
@@ -7478,10 +7480,14 @@ pscommand_syspip3_package_location
 pscommand_ta
 pscommand_tad
 pscommand_test-command
+pscommand_test-d
 pscommand_test-elevation
+pscommand_test-f
 pscommand_test-linkcapability
+pscommand_test-o
 pscommand_test-reparsepoint
 pscommand_test-sessioninteractivity
+pscommand_test-x
 pscommand_tf
 pscommand_tfa
 pscommand_tfc
@@ -8682,10 +8688,14 @@ psfunction_switch-gitbranchandtrack
 psfunction_switch-gitbranchmain
 psfunction_switch-gitbranchnew
 psfunction_test-command
+psfunction_test-d
 psfunction_test-elevation
+psfunction_test-f
 psfunction_test-linkcapability
+psfunction_test-o
 psfunction_test-reparsepoint
 psfunction_test-sessioninteractivity
+psfunction_test-x
 psfunction_universalarchive
 psfunction_update-gitbranchbasefrombranchmain
 psfunction_update-gitbranchbasefrommain
@@ -9544,7 +9554,6 @@ securescore
 securesphere
 securestring
 security
-security_cameras
 security-awareness-training
 security-policy
 security-score
@@ -9963,7 +9972,6 @@ sphere
 spi
 spicetify
 spinnaker
-splash
 splat
 splatting
 split
@@ -10215,7 +10223,6 @@ suppress
 supress-reboot
 surestacks
 surround
-surveillance
 survey
 surveymonkey
 sus
@@ -10806,6 +10813,7 @@ unitconvesion
 unittest
 unittesting
 unity
+unitypackage
 universal
 universal-automation
 universal-dashboard
@@ -11018,11 +11026,9 @@ virus
 virustotal
 visio
 visual
-visual_effects
 visual-studio
 visualbuilder
 visualc
-visualeffects
 visualfields
 visualization
 visualstudio
@@ -11181,7 +11187,6 @@ webapp
 webapplicationproxy
 webapps
 webauthn
-webbrowser
 webcamera
 webcmdlets
 webdav
@@ -11274,7 +11279,6 @@ wif
 wifi
 wiki
 wildcard
-wildfire
 wildfly
 wim
 wim2vhd
@@ -11586,7 +11590,6 @@ zigbee
 zip
 zip-compression
 zipfile-transform
-zisson
 zoho
 zoicware
 zone
