@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Thursday, 15 May 2025 09:52:11 UTC
+Updated: Thursday, 15 May 2025 17:52:04 UTC
 
 .bat
 .env
@@ -209,7 +209,6 @@ admf
 admin
 admin-tools
 adminbyrequest
-admincenter
 admindirectory
 administration
 administrative
@@ -225,6 +224,7 @@ ado
 ado_security
 ado.net
 adobe
+adobeflash
 adobject
 adouobject
 adoxio
@@ -245,6 +245,7 @@ adv190013
 adv220002
 advanced
 advapi32
+advice
 advisor
 adwords
 adx
@@ -308,6 +309,7 @@ alc
 alero
 alert
 alerting
+alertmail
 alertmanagement
 alerts
 alertsmanagement
@@ -384,6 +386,7 @@ ansible-vault
 ansiblecontrolnode
 ansibletower
 anthropic
+anti-malware
 antimalwarescaninterface
 antispam
 antivirus
@@ -490,6 +493,8 @@ archivial
 archivial-backup
 archivial-cloud-backup
 archlinux
+archon
+archonagent
 arcresourcebridge
 arcus
 area
@@ -639,6 +644,7 @@ automation
 automation psmodule
 automationaccount
 automationanywhere
+automationportal
 automationutils
 autonomoussystem
 autonomoussystemnumber
@@ -834,6 +840,7 @@ bank
 banking
 banner
 bar
+baramundi
 barcodes
 baremetal
 base
@@ -868,6 +875,7 @@ bc365
 bcd
 bcdedit
 bcdr
+bconnect
 bd
 bdd
 bds
@@ -967,6 +975,7 @@ blueteam
 bluetraitio
 bluetuxedo
 bmc
+bms
 bnm
 boards
 bofh
@@ -1269,6 +1278,8 @@ cisa
 cisco
 ciscoucscmdlets
 ciscoucsdsc
+citation
+cite
 citrix
 citrixoptimizer
 civo
@@ -1763,6 +1774,7 @@ cubes
 cudel
 culture
 cumulative
+cumulativeupdate
 cumulocity
 curious
 curl
@@ -1923,7 +1935,6 @@ dbatools
 dbcommand
 dbeaver
 dbfs
-dblm
 dbnull
 dbops
 dbpool
@@ -2025,6 +2036,7 @@ detection
 detectionrule
 deutschland
 dev
+dev-tools
 devart
 devcenter
 devdeer
@@ -2260,6 +2272,7 @@ dq
 dr
 draw
 drawio
+dreams
 dreamweaver
 dreary
 drift
@@ -2487,6 +2500,7 @@ enterprisevoice
 entity
 entityframework
 entra
+entra-id
 entracloudsync
 entraconnect
 entraid
@@ -2550,6 +2564,7 @@ eternalblue
 ether
 etherassist
 ethereum
+ethernet
 ethr
 ethz
 etl
@@ -2643,6 +2658,7 @@ expand-string
 expand-tab
 expandframework
 expect
+experience
 experiments
 expiration
 expired
@@ -2853,10 +2869,10 @@ fixpack
 flac
 flag
 flags
+flash
 flasharray
 flatfile
 flatten
-flaui
 flavor
 fleet
 fleetappsmanagement
@@ -2899,6 +2915,7 @@ forensics
 forest
 forestdiscovery
 forgit
+forgiveness
 form
 format
 format-numberedlist
@@ -2953,7 +2970,6 @@ frontdoor
 frontmatter
 frontrange
 fs
-fsc-ps
 fscps
 fsf
 fsharp
@@ -3032,6 +3048,7 @@ generates
 generatewif
 generation
 generativeai
+generativeaiagent
 generativeaiagentruntime
 generativeaiinference
 generator
@@ -3264,6 +3281,7 @@ hadoop
 hafr
 haiku
 hailstone
+haipa
 halo
 haloitsm
 halopsa
@@ -3381,7 +3399,6 @@ hint
 hipaa
 hipb
 hipchat
-hiragana
 histogram
 history
 historyninja
@@ -3562,6 +3579,7 @@ ikev2
 il
 illinois
 ilo
+ilo5
 ilocmdlets
 im
 image
@@ -3584,6 +3602,7 @@ imageslide
 imagevalidate
 imagevalidation
 imagga
+imagination
 imaging
 imap
 imb
@@ -3653,6 +3672,9 @@ insight
 insightanalytics
 insights
 inspect
+inspiration
+inspirationalquotes
+inspire
 inspur
 instagram
 install
@@ -3682,6 +3704,7 @@ integrationservicescatalog
 integrity
 intel
 inteligo
+intelligence
 intelligence"
 intellisearch
 intellisense
@@ -3818,7 +3841,6 @@ iwi
 j
 j81-blog
 jamba
-japanese
 jar
 jav
 java
@@ -3869,6 +3891,7 @@ json-transform
 json+
 json2ps
 jsonplus
+jsonwebencryption
 jsonwebkey
 jsonwebsignature
 jsonwebtoken
@@ -3886,6 +3909,7 @@ jupytor
 jurassic
 justenoughadministration
 jvm
+jwe
 jwk
 jws
 jwt
@@ -3901,7 +3925,6 @@ karma
 kaseya
 kaseyavsa
 kaspersky
-katakana
 kb
 kb4
 kbarticle
@@ -3995,6 +4018,7 @@ labdefinition
 label
 labels
 lability
+labnotifications
 laborate
 laboratory
 labrecipe
@@ -4027,6 +4051,7 @@ lastfm
 lastlogon
 lastpass
 latency
+latestupdate
 latin
 latitude
 launcher
@@ -4081,6 +4106,9 @@ licensemanager
 licensereport
 licenses
 licensing
+life
+lifequotes
+lifestyle
 light
 lights
 lime
@@ -4104,6 +4132,7 @@ links
 linq
 linqpad
 lint
+linting
 linux
 linux-command
 linux-style
@@ -4148,6 +4177,7 @@ localdb
 localdirectories
 locale
 localgroup
+localgroupmember
 localization
 localpolicy
 localuser
@@ -4210,6 +4240,7 @@ logoff
 logon
 logonright
 logonscript
+logontask
 logonto
 logonuser
 logparser
@@ -4232,6 +4263,8 @@ lookupaccountsid
 loop
 loopback
 loremipsum
+love
+lovequotes
 lpsiamol
 ls
 lsa
@@ -4427,6 +4460,7 @@ memcm
 memory
 memorydump
 memorystream
+mention
 menu
 menus
 meraki
@@ -4472,6 +4506,7 @@ microsoft_azure
 microsoft_endpoint_manager
 microsoft_online
 microsoft_teams
+microsoft-entra-id
 microsoft-graph
 microsoft-sentinel
 microsoft-teams
@@ -4609,12 +4644,16 @@ monitoringplugins
 monitoringsolutions
 monitors
 month
+monthlyupdate
 moodle
 moonshot
 more
 mos
 mosaic
 motd
+motivation
+motivationalquotes
+mount
 mouse
 move
 movie
@@ -4769,7 +4808,6 @@ nav
 navigation
 nbi
 ncal
-ncrestapi
 ndes
 nebulon
 nec-infrared-transmission-protocol
@@ -4817,6 +4855,7 @@ netspell
 netstat
 netsuite
 network
+network adapter configuration operating os optical sensor physical pointing portable printer processor cpu refrigaration cooling cooler removable usb sd ram dimm scsi sound audio card enclosure tape temperature touchpad touch pad touchscreen screen trackball trackpoint video graphics voltage psmodule
 network-credentials
 network-info
 networkanalytics
@@ -5028,7 +5067,6 @@ office2019
 office365
 office365managementapi
 officedev
-officegraph
 officemessageencryption
 officertool
 offline
@@ -5475,6 +5513,8 @@ poc
 podcast
 pode
 poe
+poem
+poetry
 point
 point-to-site
 pointer
@@ -5619,7 +5659,6 @@ powercommander
 powerconfiguration
 powerdex
 powerforensics
-powergraph
 powergui
 powermax
 powerpack
@@ -5804,6 +5843,7 @@ protection
 protocol
 protocols
 provance
+proverb
 provider
 providerhub
 provision
@@ -8775,7 +8815,6 @@ psreadline
 psreminder
 psremoting
 psrepository
-psresource
 psresourceget
 psrule
 psrule-rules
@@ -8919,7 +8958,9 @@ quiz
 qumulo
 quota
 quote
+quoteoftheday
 quotes
+quotestoliveby
 quoting
 quser
 qword
@@ -8932,6 +8973,7 @@ radarr
 radio
 rag
 raidcontrollercmdlets
+railways
 rainbow
 raindrop
 raindrop.io
@@ -9045,6 +9087,7 @@ refactoring
 refeds
 refeds-mfa
 refedsmfa
+reference
 reflect
 reflection
 refresh
@@ -9094,6 +9137,7 @@ remote-browser
 remote-desktop
 remote'
 remoteaccess
+remoteadmin
 remotecert
 remoteconnection
 remoteconnectionsmanager
@@ -9107,6 +9151,7 @@ remotedirectories
 remotefiles
 remoteforensics
 remotehost
+remotelocalgroup
 remotelogoff
 remotemanagement
 remotepro
@@ -9157,6 +9202,7 @@ requiredmodules
 requirements
 res
 rescan
+rescuetime
 reservation
 reservations
 reset
@@ -9169,8 +9215,6 @@ resolve-stache
 resolve-template
 resolver
 resource
-resource_monitor
-resource_watcher
 resourcecontroller
 resourcegraph
 resourcegroup
@@ -9259,7 +9303,6 @@ roleassignments
 rolebasedaccesscontrol_model
 roles
 rollingfile
-romaji
 ropc
 rot13
 rotate
@@ -9470,6 +9513,7 @@ scrub
 scrubber
 scsm
 scuba
+scvmm
 sd
 sddl
 sdk
@@ -9623,6 +9667,7 @@ services
 servicestatus
 servicestore
 servicing
+servicingstack
 ses
 session
 sessionize
@@ -9817,6 +9862,7 @@ smtpauth
 smtpclient
 smtpoauth
 smtpsasl
+smtpsecure
 snap
 snapchat
 snapping
@@ -10052,6 +10098,7 @@ start-jobthread
 start-threadjob
 startkey
 startmen
+startmenu
 starttls
 starwars
 stash
@@ -10067,7 +10114,6 @@ statistics
 stats
 statsd
 status
-status_watcher
 statuscake
 statuscode
 statusmonitor
@@ -10162,6 +10208,7 @@ subsystem
 subtitle
 subtitles
 subversion
+success
 successfactors
 sudo
 sugar
@@ -10218,6 +10265,7 @@ synapse
 sync
 synchronization
 synchronize
+syndication
 synergy
 syntax
 syntax-highlighting
@@ -10242,6 +10290,7 @@ syspip
 syspip3
 sysprep
 system
+system information 1394 controller baseboard motherboard systemboard battery bios bus cache memory cd dvd rom drive compact disc desktop monitor disk partition fan floppy glide point heatpipe ide infrared device keyboard local logical array mouse'
 system-administration
 system-group
 system-info
@@ -10604,6 +10653,7 @@ troubleshoot
 troubleshooting
 trouw
 true-color
+truecrypt
 truenas
 trumethods
 truportal
@@ -10613,6 +10663,7 @@ trustedhosts
 trustedinstaller
 trustedrootcertificate
 trustedsigning
+truth
 trx
 ts
 tsa
@@ -10931,6 +10982,7 @@ vendorpam
 venue
 venvlink
 vera
+veracrypt
 verbose psmodule
 verification
 verify
@@ -10980,9 +11032,11 @@ virus
 virustotal
 visio
 visual
+visual_effects
 visual-studio
 visualbuilder
 visualc
+visualeffects
 visualfields
 visualization
 visualstudio
@@ -11179,12 +11233,14 @@ webtime
 webview2
 wec
 wecutil
+weekday
 wef
 weixin
 well-architectedframework
 well-architectedreliabilityassessment
 well-known
 wem
+wemsdk
 wer
 wget
 what3words
@@ -11341,6 +11397,7 @@ winscp
 wintellect
 winterminal
 winui
+wired
 wireless
 wirelessnetwork
 wireshark
@@ -11426,6 +11483,7 @@ writelog
 writemanager
 writeprogress
 writer
+ws-federation
 wsapi
 wsb
 wsl
@@ -11550,6 +11608,8 @@ zookeeper
 zoom
 zoomapi
 zoommeeting
+zorus
+zorusapi
 zoxide
 zpr
 zsh
@@ -11558,10 +11618,6 @@ zvm
 zvml
 zvmlinux
 zypper
-カタカナ
-ひらがな
-ローマ字
 全角半角変換
 寿司
-日本語
 湯婆婆
