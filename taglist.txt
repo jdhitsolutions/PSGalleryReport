@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Saturday, 17 May 2025 09:51:58 UTC
+Updated: Saturday, 17 May 2025 17:52:07 UTC
 
 .bat
 .env
@@ -666,7 +666,6 @@ auvik
 availability
 availabilityset
 avalara
-avatar
 avatax
 avd
 ave
@@ -704,7 +703,7 @@ az
 az-cli
 az.runtimeenvironment
 az.stackhci
-azaitranslate
+azautomation
 azcli
 azcompute
 azd
@@ -712,6 +711,7 @@ azdisk
 azdo
 azereo
 azforensics
+azkeyvault
 aznetworking
 aznetworkinterface
 aznicdetails
@@ -749,7 +749,6 @@ azureadgraph
 azureadpreview
 azureadtoolkit
 azureadvancedthreatprotection
-azureaitranslator
 azureappconfiguration
 azureapplicationstuff
 azurearc
@@ -758,6 +757,7 @@ azureartifacts
 azureas
 azureatp
 azureautomation
+azureautomationaccount
 azureautomationnotsupported
 azurebasicloadbalancerupgrade
 azurecli
@@ -1184,7 +1184,6 @@ certificate
 certificateauthority
 certificatechain
 certificatemanager
-certificatepolicy
 certificates
 certificateservices
 certificatesmanagement
@@ -1236,6 +1235,7 @@ chocobear
 chocolatey
 choice
 choose_file
+choose_file_name
 choose_folder
 chooser
 christaylorcodes
@@ -1327,6 +1327,7 @@ clientsettingsuserdeviceaffinity
 clientstatussettings
 clihelper.core
 clihelper.logger
+clihelper.semver
 clihelper.trends
 clipart
 clipasswordsdk
@@ -1414,6 +1415,7 @@ codecoverage
 codegen
 codegeneration
 codegenerator
+codellama
 codemetrics
 codepoint
 codequality
@@ -2493,7 +2495,6 @@ enterprisevoice
 entity
 entityframework
 entra
-entra-id
 entracloudsync
 entraconnect
 entraid
@@ -2875,7 +2876,6 @@ fleetsoftwareupdate
 flex
 flex-query
 flexdesk
-flexible
 flickr
 flowchart
 flowy
@@ -3757,7 +3757,6 @@ ios
 iot
 iotcentral
 iothub
-iothubproperties
 iotoperationsservice
 ip
 ip_cameras
@@ -3918,6 +3917,7 @@ kafka
 kaminario
 karabiner
 karabiner-elements
+karma
 kaseya
 kaseyavsa
 kaspersky
@@ -4002,8 +4002,6 @@ kubetidy
 kudu
 kurukuru
 kusto
-kusto.data
-kusto.ingest
 kvm
 kvp
 l1tf
@@ -4081,6 +4079,7 @@ legends
 lego
 lein
 leiningnen
+lemonai
 lenel
 length
 lenovo
@@ -4334,6 +4333,7 @@ managed
 managed-identity
 manageddevices
 manageddisks
+managedidentities
 managedidentity
 managednetworkfabric
 managedserviceidenity
@@ -4500,7 +4500,6 @@ microsoft_azure
 microsoft_endpoint_manager
 microsoft_online
 microsoft_teams
-microsoft-entra-id
 microsoft-graph
 microsoft-sentinel
 microsoft-teams
@@ -4551,7 +4550,6 @@ migration-tool
 migrations
 mikrotik
 milestone
-milestonepstools
 mim
 mime
 mimekit
@@ -5486,13 +5484,15 @@ plc
 plc4net
 plc4netps
 plc4x
+plc4x™
+plconnet
+plconnetps
 pleasant
 pleasantpasswordserver
 plex
 plist
 plog
 plot
-plug-n-copy
 plugin
 plugins
 pluralsight
@@ -5783,6 +5783,7 @@ privileged
 privilegedidentitymanagement
 privileges
 pro
+probability
 probe
 process
 process-inspector
@@ -8857,7 +8858,6 @@ publish-module
 publishedmodules
 publisher
 publishers
-publishing
 pubsub
 pubxml
 pulldistributionpoint
@@ -9148,7 +9148,6 @@ remotehost
 remotelocalgroup
 remotelogoff
 remotemanagement
-remotepro
 remoteregistry
 remotesession
 remoting
@@ -9169,6 +9168,7 @@ rename-git-branch
 rename-gitbranch
 reonboarding
 repair
+repair-msauth
 reparse
 reparsepoint
 repeat
@@ -9312,6 +9312,7 @@ router
 routeros
 routes
 routetable
+routine
 rover
 royalapps
 royaldocument
@@ -9585,13 +9586,11 @@ select-string
 selection
 selectxmlinfo
 selenium
-self
 self-hosted
 self-service
 self-signed
 selfdispatch
 selfhelp
-selfsigned
 semantic
 semantic-versioning
 semaphore
@@ -9631,7 +9630,6 @@ serilog
 serilog-for-powershell
 serilog-sink
 server
-servercertificatevalidationcallback
 serverless
 servermanagement
 servers
@@ -9762,7 +9760,6 @@ sign
 signalfx
 signalr
 signature
-signed
 signing
 signtool
 silicondust
@@ -10615,7 +10612,6 @@ transforms
 transitionmanager
 translate
 translation
-translator
 translit
 transliteration
 transmission
@@ -10637,6 +10633,7 @@ trendmicro
 trevor
 trevorsullivan
 triangle
+tribeloo
 trick
 tricks
 trigger
@@ -11138,7 +11135,6 @@ vxrail
 w32time
 w365
 w3svc
-w3w
 waa
 waas
 wac
@@ -11229,6 +11225,7 @@ webtime
 webview2
 wec
 wecutil
+weekday
 wef
 weixin
 well-architectedframework
@@ -11238,7 +11235,6 @@ wem
 wemsdk
 wer
 wget
-what3words
 whatif
 whatismyip
 whatsnew
@@ -11583,6 +11579,7 @@ yubikey
 yum
 z
 zabbix
+zabbix7
 zabbixps
 zap
 zap-zsh
