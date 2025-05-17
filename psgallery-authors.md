@@ -8,26 +8,26 @@ Internal navigation links may not work in the PDF version of this report.
 + [Worxspace](#Worxspace) (186)
 + [psdevuk](#psdevuk) (106)
 + [Broadcom](#Broadcom) (89)
-+ [Przemyslaw Klys](#Przemyslaw-Klys) (83)
-+ [Texas Roemer](#Texas-Roemer) (78)
-+ [Friedrich Weinmann](#Friedrich-Weinmann) (72)
-+ [Adam Driscoll](#Adam-Driscoll) (57)
++ [Przemyslaw Klys](#Przemyslaw-Klys) (84)
++ [Texas Roemer](#Texas-Roemer) (77)
++ [Friedrich Weinmann](#Friedrich-Weinmann) (73)
++ [Adam Driscoll](#Adam-Driscoll) (56)
 + [Jan Hoek](#Jan-Hoek) (55)
 + [Pawel Wujczyk](#Pawel-Wujczyk) (54)
 + [Pwshrc Maintainers](#Pwshrc-Maintainers) (53)
-+ [James Brundage](#James-Brundage) (51)
++ [James Brundage](#James-Brundage) (52)
 + [PSModule](#PSModule) (45)
 + [Ironman Software](#Ironman-Software) (45)
 + [Jeff Hicks](#Jeff-Hicks) (40)
 + [John.Leyva](#JohnLeyva) (39)
 + [Roger Brown](#Roger-Brown) (39)
 + [Akamai Technologies Ltd.](#Akamai-Technologies-Ltd) (36)
-+ [Adam Bacon](#Adam-Bacon) (32)
++ [owen.heaume](#owenheaume) (31)
++ [Adam Bacon](#Adam-Bacon) (31)
 + [Michael Haken](#Michael-Haken) (31)
 + [Mark5900](#Mark5900) (31)
-+ [owen.heaume](#owenheaume) (30)
-+ [Andreas Eulitz](#Andreas-Eulitz) (29)
 + [Jakoby](#Jakoby) (29)
++ [Andreas Eulitz](#Andreas-Eulitz) (29)
 + [Michal Gajda](#Michal-Gajda) (28)
 + [WebMD Health Services](#WebMD-Health-Services) (26)
 
@@ -35,13 +35,13 @@ Internal navigation links may not work in the PDF version of this report.
 
 + **[pspulumiyaml.azurenative 0.0.4](https://github.com/worxspace/PSPulumiYaml)**  - Parent module containing all Azure Native modules required to create YAML/JSON definitions for pulumi [*06/26/2022 06:32:46*]
 + **pspulumiyaml.azurenative.digitaltwins 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 06:25:32*]
-+ **pspulumiyaml.azurenative.windowsesu 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:10:01*]
 + **pspulumiyaml.azurenative.webpubsub 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:10:01*]
-+ **pspulumiyaml.azurenative.sql 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:10:00*]
-+ **pspulumiyaml.azurenative.vmwarecloudsimple 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:10:00*]
++ **pspulumiyaml.azurenative.windowsesu 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:10:01*]
 + **pspulumiyaml.azurenative.virtualmachineimages 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:10:00*]
-+ **pspulumiyaml.azurenative.videoanalyzer 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:09:59*]
++ **pspulumiyaml.azurenative.vmwarecloudsimple 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:10:00*]
++ **pspulumiyaml.azurenative.sql 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:10:00*]
 + **pspulumiyaml.azurenative.windowsiot 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:09:59*]
++ **pspulumiyaml.azurenative.videoanalyzer 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:09:59*]
 + **pspulumiyaml.azurenative.testbase 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:09:58*]
 + **pspulumiyaml.azurenative.visualstudio 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:09:57*]
 + **pspulumiyaml.azurenative.web 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:09:56*]
@@ -93,8 +93,8 @@ Internal navigation links may not work in the PDF version of this report.
 + **pspulumiyaml.azurenative.powerbi 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:08:25*]
 + **pspulumiyaml.azurenative.operationsmanagement 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:08:24*]
 + **pspulumiyaml.azurenative.powerbidedicated 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:08:23*]
-+ **pspulumiyaml.azurenative.networkfunction 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:08:18*]
 + **pspulumiyaml.azurenative.network 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:08:18*]
++ **pspulumiyaml.azurenative.networkfunction 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:08:18*]
 + **pspulumiyaml.azurenative.orbital 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:08:16*]
 + **pspulumiyaml.azurenative.management 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:08:01*]
 + **pspulumiyaml.azurenative.netapp 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:07:56*]
@@ -102,8 +102,8 @@ Internal navigation links may not work in the PDF version of this report.
 + **pspulumiyaml.azurenative.media 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:07:53*]
 + **pspulumiyaml.azurenative.maps 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:07:52*]
 + **pspulumiyaml.azurenative.marketplace 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:07:47*]
-+ **pspulumiyaml.azurenative.managementpartner 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:07:44*]
 + **pspulumiyaml.azurenative.managednetwork 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:07:44*]
++ **pspulumiyaml.azurenative.managementpartner 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:07:44*]
 + **pspulumiyaml.azurenative.managedservices 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:07:42*]
 + **pspulumiyaml.azurenative.mixedreality 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:07:41*]
 + **pspulumiyaml.azurenative.migrate 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:07:38*]
@@ -119,7 +119,6 @@ Internal navigation links may not work in the PDF version of this report.
 + **pspulumiyaml.azurenative.machinelearning 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:06:50*]
 + **pspulumiyaml.azurenative.loadtestservice 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:06:49*]
 + **pspulumiyaml.azurenative.kusto 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:06:48*]
-+ **pspulumiyaml.azurenative.machinelearningexperimentation 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:06:47*]
 + **pspulumiyaml.azurenative.m365securityandcompliance 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:06:46*]
 + **pspulumiyaml.azurenative.kubernetes 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:06:44*]
 + **pspulumiyaml.azurenative.hybridnetwork 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:06:35*]
@@ -141,7 +140,6 @@ Internal navigation links may not work in the PDF version of this report.
 + **pspulumiyaml.azurenative.enterpriseknowledgegraph 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:06:14*]
 + **pspulumiyaml.azurenative.hybridconnectivity 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:06:11*]
 + **pspulumiyaml.azurenative.hanaonazure 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:06:09*]
-+ **pspulumiyaml.azurenative.features 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:06:09*]
 + **pspulumiyaml.azurenative.eventhub 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:06:07*]
 + **pspulumiyaml.azurenative.education 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:06:06*]
 + **pspulumiyaml.azurenative.intune 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:06:05*]
@@ -164,20 +162,22 @@ Internal navigation links may not work in the PDF version of this report.
 + **pspulumiyaml.azurenative.dbformariadb 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:04:42*]
 + **pspulumiyaml.azurenative.datamigration 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:04:40*]
 + **pspulumiyaml.azurenative.dbforpostgresql 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:04:39*]
++ **pspulumiyaml.azurenative.dbformysql 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:04:38*]
 + **pspulumiyaml.azurenative.datalakestore 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:04:37*]
 + **pspulumiyaml.azurenative.datafactory 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:04:35*]
++ **pspulumiyaml.azurenative.datalakeanalytics 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:04:33*]
 + **pspulumiyaml.azurenative.dataprotection 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:04:32*]
 + **pspulumiyaml.azurenative.datadog 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:04:30*]
 + **pspulumiyaml.azurenative.datacatalog 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:04:12*]
 + **pspulumiyaml.azurenative.confluent 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:03:55*]
-+ **pspulumiyaml.azurenative.cdn 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:03:52*]
 + **pspulumiyaml.azurenative.billing 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:03:52*]
++ **pspulumiyaml.azurenative.cdn 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:03:52*]
 + **pspulumiyaml.azurenative.customerinsights 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:03:50*]
 + **pspulumiyaml.azurenative.connectedvmwarevsphere 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:03:49*]
-+ **pspulumiyaml.azurenative.databoxedge 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:03:44*]
 + **pspulumiyaml.azurenative.cognitiveservices 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:03:44*]
-+ **pspulumiyaml.azurenative.containerregistry 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:03:42*]
++ **pspulumiyaml.azurenative.databoxedge 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:03:44*]
 + **pspulumiyaml.azurenative.dashboard 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:03:42*]
++ **pspulumiyaml.azurenative.containerregistry 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:03:42*]
 + **pspulumiyaml.azurenative.costmanagement 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:03:41*]
 + **pspulumiyaml.azurenative.databox 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:03:41*]
 + **pspulumiyaml.azurenative.consumption 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:03:40*]
@@ -187,8 +187,8 @@ Internal navigation links may not work in the PDF version of this report.
 + **pspulumiyaml.azurenative.blueprint 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:03:35*]
 + **pspulumiyaml.azurenative.certificateregistration 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:03:34*]
 + **pspulumiyaml.azurenative.cache 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:03:33*]
-+ **pspulumiyaml.azurenative.azurearcdata 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:03:32*]
 + **pspulumiyaml.azurenative.batch 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:03:32*]
++ **pspulumiyaml.azurenative.azurearcdata 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:03:32*]
 + **pspulumiyaml.azurenative.agfoodplatform 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:03:30*]
 + **pspulumiyaml.azurenative.communication 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:03:29*]
 + **pspulumiyaml.azurenative.automanage 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:03:28*]
@@ -201,8 +201,8 @@ Internal navigation links may not work in the PDF version of this report.
 + **pspulumiyaml.azurenative.autonomousdevelopmentplatform 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:03:16*]
 + **pspulumiyaml.azurenative.azurestack 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:03:15*]
 + **pspulumiyaml.azurenative.apimanagement 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:03:14*]
-+ **pspulumiyaml.azurenative.customproviders 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:03:13*]
 + **pspulumiyaml.azurenative.app 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:03:13*]
++ **pspulumiyaml.azurenative.customproviders 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:03:13*]
 + **pspulumiyaml.azurenative.chaos 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:03:11*]
 + **pspulumiyaml.azurenative.avs 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:03:10*]
 + **pspulumiyaml.azurenative.attestation 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:03:07*]
@@ -467,6 +467,7 @@ In new version you now have ability to send notificatins to Microsoft Teams, Sla
 + **[PowerJamf 0.3.0](https://github.com/EvotecIT/PowerJamf)**  - PowerJamf is an unofficial PowerShell module for Jamf Pro. [*09/06/2023 06:37:49*]
 + **[PSTeams 2.4.0](https://github.com/EvotecIT/PSTeams)**  - PSTeams is a PowerShell Module working on Windows / Linux and Mac. It allows sending notifications to Microsoft Teams via WebHook Notifications. It's pretty flexible and provides a bunch of options. Initially, it only supported one sort of Team Cards but since version 2.X.X it supports Adaptive Cards, Hero Cards, List Cards, and Thumbnail Cards. All those new cards have their own cmdlets and the old version of creating Teams Cards stays as-is for compatibility reasons. [*08/08/2023 15:25:12*]
 + **[PSWinDocumentation.O365HealthService 1.0.4](https://github.com/EvotecIT/PSWinDocumentation.O365HealthService)**  - Office 365 Health Service [*07/06/2023 08:13:53*]
++ **[PowerTribeloo 0.0.2](https://github.com/EvotecIT/PowerTribeloo)**  - PowerShell module to interact with Tribeloo [*03/08/2023 16:54:23*]
 + **[DelegationModel 0.0.6](https://github.com/EvotecIT/DelegationModel)**  - DelegationModel is a PowerShell module to create and manage delegation model [*02/21/2023 14:27:05*]
 + **[PowerFederatedDirectory 0.0.10](https://github.com/EvotecIT/PowerFederatedDirectory)**  - PowerShell module to interact with Federated Directory service which allows to group employees from different corporate address books into a federated directory. [*02/14/2023 08:18:57*]
 + **[SecurityPolicy 0.0.13](https://github.com/EvotecIT/SecurityPolicy)**  - Module that allows getting, adding and removing User Rights Assignment without using secedit.exe [*02/04/2023 17:31:10*]
@@ -567,7 +568,6 @@ In new version you now have ability to send notificatins to Microsoft Teams, Sla
 + **Invoke-CreateVirtualDiskREDFISH 10.0.0**  - Cmdlet using iDRAC with Redfish API to either get storage controllers, get virtual disks, get physical disks or create virtual disk. [*11/22/2024 20:16:05*]
 + **Invoke-CreateIdracUserPasswordREDFISH 8.0.0**  - iDRAC cmdlet using Redfish API to either get current iDRAC user account details, create or delete user [*11/22/2024 20:15:38*]
 + **Invoke-CreateCustomIdracUserRoleREDFISH 1.0.0**  - iDRAC cmdlet using Redfish API to create custom iDRAC user role. Note this cmdlet is only supported on iDRAC10 or newer. [*11/22/2024 20:15:05*]
-+ **Invoke-ConnectNetworkIsoImageREDFISH 8.0.0**  - Cmdlet using iDRAC with Redfish API OEM extension to connect or detach network ISO image. Connecting the network ISO image will expose the ISO to the server. Note: This action will not automatically reboot the server compared to action BootToNetworkISO. [*11/22/2024 20:14:39*]
 + **Invoke-CheckConsistencyVirtualDiskREDFISH 8.0.0**  - Cmdlet using iDRAC with Redfish API to either get storage controllers, get virtual disks or check consistency virtual disk. [*11/22/2024 20:13:58*]
 + **Invoke-ChangeVirtualDiskAttributesREDFISH 3.0.0**  - Cmdlet using iDRAC with Redfish API to either get controllers, get virtual disks, change virtual disk read, write, disk cache policy settings or encrypt a VD. [*11/22/2024 20:12:50*]
 + **Invoke-ChangeIdracUserPasswordREDFISH 10.0.0**  - iDRAC cmdlet using Redfish API to change iDRAC user password. Once the iDRAC user password has changed, cmdlet will execute GET command to validate the new password was set. If using dash or single quote in your current or new password, make sure to surround the password value with double quotes. [*11/22/2024 20:11:50*]
@@ -592,10 +592,10 @@ In new version you now have ability to send notificatins to Microsoft Teams, Sla
 
 ## Friedrich Weinmann
 
++ **[PSFramework.NuGet 0.9.16](https://github.com/PowershellFrameworkCollective/PSFramework.NuGet)**  - A wrapper around the PowerShellGet modules [*05/17/2025 12:49:46*]
 + **[KeyControl 1.0.0](https://github.com/FriedrichWeinmann/KeyControl)**  - Module to interact with Entrust Key COntrol [*05/11/2025 18:42:51*]
 + **PSFrameworkDsc 1.0.0**  - DSC Resources for PSFramework features [*05/11/2025 18:27:10*]
 + **[EbookBuilder 2.4.26](https://github.com/FriedrichWeinmann/EbookBuilder)**  - Build ebooks from data sources [*05/11/2025 11:05:47*]
-+ **[PSFramework.NuGet 0.9.12](https://github.com/PowershellFrameworkCollective/PSFramework.NuGet)**  - A wrapper around the PowerShellGet modules [*05/06/2025 16:43:38*]
 + **[PSModuleDevelopment 2.2.13.176](http://psframework.org/)**  - A module designed to speed up the development of PowerShell modules [*05/04/2025 17:10:25*]
 + **[ADMF 1.13.103](https://admf.one/)**  - Central Management Component of the Active Directory Management Framework [*04/30/2025 08:59:48*]
 + **[PSNative 1.0.2](https://github.com/FriedrichWeinmann/PSNative)**  - Invoke native commands in a useful manner [*04/25/2025 14:47:08*]
@@ -630,6 +630,7 @@ In new version you now have ability to send notificatins to Microsoft Teams, Sla
 + **[ADMF.Core 1.1.9](https://admf.one/)**  - Central Tooling used across available across all ADMF Project modules [*05/16/2023 07:05:03*]
 + **[PSAzureMigrationAdvisor 1.2.14](https://github.com/FriedrichWeinmann/PSAzureMigrationAdvisor)**  - Tools to help migrate scripts using the official Azure/AzureAD modules [*04/13/2023 14:53:09*]
 + **AzureDevOps.Services.OpenApi 1.0.4**  - Autogenerated Client for the Azure Devops Services API [*04/12/2023 15:12:20*]
++ **PSInfernal 1.0.0**  - Wrapper Module to get the latest versions of Fred's most commonly used PowerShell utilities & tools [*03/14/2023 23:26:42*]
 + **[MDCA 1.1.4](https://github.com/FriedrichWeinmann/MDCA)**  - Client for the Microsoft Defender for Cloud Apps API [*12/15/2022 16:22:20*]
 + **[Azure.Function.Tools 1.0.4](https://github.com/FriedrichWeinmann/Azure.Function.Tools)**  - Lightweight tooling for Function Apps [*12/14/2022 08:37:55*]
 + **[LdapTools 1.1.7](https://github.com/FriedrichWeinmann/LdapTools)**  - Toolkit for AD queries without requiring ActiveDirectory module [*07/27/2022 06:26:37*]
@@ -716,7 +717,6 @@ In new version you now have ability to send notificatins to Microsoft Teams, Sla
 + **[ud-chatroom 1.0](https://github.com/ironmansoftware/ud-chatroom)**  - A chatroom built on Universal Dashboard. [*07/30/2018 15:41:40*]
 + **[ud-weather 1.0](https://github.com/ironmansoftware/ud-weather)**  - Weather dashboard for Universal Dashboard. [*07/29/2018 14:49:55*]
 + **[strava 1.2](https://github.com/adamdriscoll/stravapwsh)**  - PowerShell module for the Strava API. [*05/14/2018 01:24:10*]
-+ **[PowerShim 1.0](https://github.com/adamdriscoll/powershim)**  - Enables the execution of Windows PowerShell cmdlets in PowerShell Core [*03/23/2018 21:30:46*]
 + **[UniversalDashboard.MaterialDesign 0.1.2](https://github.com/ironmansoftware/ud-material-design)**  - Material Design components for PowerShell Universal Dashboard. [*01/02/2018 04:39:36*]
 + **[UniversalDashboard.Sparklines 0.1.1](https://github.com/ironmansoftware/ud-sparklines)**  - Sparklines component for PowerShell Universal Dashboard. [*12/31/2017 03:51:08*]
 + **[PoshInternals 1.0.34](https://github.com/adamdriscoll/poshinternals)**  - Collection of system internals tools for PowerShell. [*10/13/2017 15:20:01*]
@@ -908,6 +908,7 @@ In new version you now have ability to send notificatins to Microsoft Teams, Sla
 + **[4bitcss 0.1.5](https://github.com/2bitdesigns)**  - CSS3 Color Schemes for 4-bit color palettes [*11/10/2024 00:34:28*]
 + **[HelpOut 0.5.5](https://github.com/StartAutomating/HelpOut)**  - A Helpful Toolkit for Managing PowerShell Help [*10/13/2024 22:51:45*]
 + **[PSJekyll 0.1](https://github.com/PowerShellWeb/PSJekyll)**  - Scarily Simple Static Sites with Jekyll and PowerShell [*10/10/2024 00:46:12*]
++ **[Dice 0.1](https://github.com/StartAutomating/Dice)**  - Roll the Dice and Play with Probability in PowerShell - ⚀ ⚅ [*08/10/2024 19:20:14*]
 + **[Rocker 0.1.2](https://github.com/StartAutomating/Rocker)**  - Rock Docker with PowerShell [*04/24/2024 23:39:45*]
 + **[EZOut 2.0.6](https://github.com/StartAutomating/EZOut)**  - Easily Author Rich Format Files to Customize PowerShell Output [*04/16/2024 03:32:09*]
 + **[Irregular 0.7.9](https://github.com/StartAutomating/Irregular)**  - Regular Expressions made Strangely Simple [*04/16/2024 02:49:17*]
@@ -1135,7 +1136,6 @@ In new version you now have ability to send notificatins to Microsoft Teams, Sla
 
 + **[rhubarb-geek-nz.AssemblyMetadata 1.0.3](https://github.com/rhubarb-geek-nz/AssemblyMetadata)**  - AssemblyMetadata Tool [*04/29/2025 17:39:06*]
 + **[rhubarb-geek-nz.TypeLib 1.0.0](https://github.com/rhubarb-geek-nz/TypeLib)**  - TypeLib Cmdlets for PowerShell [*04/18/2025 11:56:25*]
-+ **[rhubarb-geek-nz.DbDataAdapter 1.0.3](https://github.com/rhubarb-geek-nz/DbDataAdapter)**  - DbDataAdapter Cmdlet for PowerShell [*03/25/2025 06:52:50*]
 + **[rhubarb-geek-nz.PipelineBroadcast 1.1.3](https://github.com/rhubarb-geek-nz/PipelineBroadcast)**  - Write pipeline to multiple scripts [*03/22/2025 09:31:43*]
 + **[rhubarb-geek-nz.PSStyle 1.0.0](https://github.com/rhubarb-geek-nz/PSStyle)**  - $PSStyle variable for PowerShell Desktop [*03/21/2025 16:03:51*]
 + **[rhubarb-geek-nz.PSWriteLine 1.0.0](https://github.com/rhubarb-geek-nz/PSWriteLine)**  - Write-PSHost cmdlet for PowerShell [*03/19/2025 22:47:02*]
@@ -1172,6 +1172,7 @@ In new version you now have ability to send notificatins to Microsoft Teams, Sla
 + **[rhubarb-geek-nz.PowerShellDataFile 1.0.0](https://github.com/rhubarb-geek-nz/PowerShellDataFile)**  - Implements Export-PowerShellDataFile for writing module manifests [*11/25/2023 01:18:05*]
 + **[rhubarb-geek-nz.CancellationTokenEvent 1.0.2](https://github.com/rhubarb-geek-nz/CancellationTokenEvent)**  - CancellationToken event registration [*05/19/2023 23:48:56*]
 + **[rhubarb-geek-nz.LocalSecurityAuthority 1.0.0](https://github.com/rhubarb-geek-nz/LocalSecurityAuthority)**  - Local Security Authority Tools [*03/31/2023 22:18:04*]
++ **[rhubarb-geek-nz.OracleConnection 21.9.0](https://github.com/rhubarb-geek-nz/OracleConnection)**  - Oracle Connection Tool [*03/18/2023 14:11:55*]
 
 ## Akamai Technologies Ltd.
 
@@ -1187,9 +1188,9 @@ In new version you now have ability to send notificatins to Microsoft Teams, Sla
 + **[Akamai.NetworkLists 2.2.1](https://github.com/akamai/powershell)**  - Functions to manage the Akamai Network Lists API. [*04/18/2025 18:40:30*]
 + **[Akamai.MOKS 2.2.1](https://github.com/akamai/powershell)**  - Functions to manage the Akamai <MOKS> API. [*04/18/2025 18:40:26*]
 + **[Akamai.METS 2.2.1](https://github.com/akamai/powershell)**  - Functions to manage the Akamai MTLS Edge Trust Store API. [*04/18/2025 18:40:25*]
++ **[Akamai.MediaServicesLive 2.2.1](https://github.com/akamai/powershell)**  - Functions to manage the Akamai Media Services Live API. [*04/18/2025 18:40:21*]
 + **[Akamai.IVM 2.2.1](https://github.com/akamai/powershell)**  - Functions to manage the Akamai Image & Video Manager API. [*04/18/2025 18:40:21*]
 + **[Akamai.IAM 2.2.1](https://github.com/akamai/powershell)**  - Functions to manage the Akamai Identity & Access Management API. [*04/18/2025 18:40:21*]
-+ **[Akamai.MediaServicesLive 2.2.1](https://github.com/akamai/powershell)**  - Functions to manage the Akamai Media Services Live API. [*04/18/2025 18:40:21*]
 + **[Akamai.GTM 2.2.1](https://github.com/akamai/powershell)**  - Functions to manage the Akamai Global Traffic Manager APIs. [*04/18/2025 18:40:17*]
 + **[Akamai.FirewallRulesNotification 2.2.1](https://github.com/akamai/powershell)**  - Functions to manage the Akamai Firewall Rules Notification Service API. [*04/18/2025 18:40:17*]
 + **[Akamai.EdgeWorkers 2.2.1](https://github.com/akamai/powershell)**  - Functions to manage the Akamai EdgeWorkers API. [*04/18/2025 18:40:11*]
@@ -1200,8 +1201,8 @@ In new version you now have ability to send notificatins to Microsoft Teams, Sla
 + **[Akamai.Datastream 2.2.1](https://github.com/akamai/powershell)**  - Functions to manage the Akamai Datastream 2 API. [*04/18/2025 18:39:54*]
 + **[Akamai.CPCodes 2.2.1](https://github.com/akamai/powershell)**  - Functions to manage the Akamai CP Codes & Reporting Groups API. [*04/18/2025 18:39:49*]
 + **[Akamai.CPS 2.2.1](https://github.com/akamai/powershell)**  - Functions to manage the Akamai Certificate Provisioning Service API. [*04/18/2025 18:39:48*]
-+ **[Akamai.Contracts 2.2.1](https://github.com/akamai/powershell)**  - Functions to manage the Akamai Contracts API. [*04/18/2025 18:39:46*]
 + **[Akamai.Cloudlets 2.2.1](https://github.com/akamai/powershell)**  - Functions to manage the Akamai Cloudlets API. [*04/18/2025 18:39:46*]
++ **[Akamai.Contracts 2.2.1](https://github.com/akamai/powershell)**  - Functions to manage the Akamai Contracts API. [*04/18/2025 18:39:46*]
 + **[Akamai.CloudWrapper 2.2.1](https://github.com/akamai/powershell)**  - Functions to manage the Akamai Cloud Wrapper API. [*04/18/2025 18:39:39*]
 + **[Akamai.AppSec 2.2.1](https://github.com/akamai/powershell)**  - Functions to manage the Akamai Application Security API. [*04/18/2025 18:39:31*]
 + **[Akamai.CloudAccessManager 2.2.1](https://github.com/akamai/powershell)**  - Functions to manage the Akamai Cloud Access Manager API. [*04/18/2025 18:39:30*]
@@ -1211,6 +1212,40 @@ In new version you now have ability to send notificatins to Microsoft Teams, Sla
 + **[Akamai.APIDefinitions 2.2.1](https://github.com/akamai/powershell)**  - Functions to manage the Akamai API Definitions API. [*04/18/2025 18:37:27*]
 + **[Akamai.Common 2.2.1](https://github.com/akamai/powershell)**  - Common functions used by other Akamai-related PS modules [*04/18/2025 18:36:42*]
 + **HighWinds 0.0.1**  - Basic functions to interact with the HighWinds API [*09/08/2023 04:38:54*]
+
+## owen.heaume
+
++ **spec.network.management 1.0.8**  - A module to manage windows networking. [*05/13/2025 13:09:28*]
++ **spec.azure.tables 2.0.4**  - A module for interacting with Azure Tables [*05/07/2025 12:19:40*]
++ **spec.teamviewer.utilities 1.2.4**  - A module to help manage TeamViewer [*03/18/2025 10:32:27*]
++ **spec.shortcut.management 1.0.9**  - A module to help create and delete shortcuts [*02/14/2025 14:38:36*]
++ **spec.psengine 1.0.4**  - A module required by PSEngine base script. [*02/14/2025 10:53:52*]
++ **spec.printer.management 1.0.9**  - A module for managing printers [*02/11/2025 15:09:35*]
++ **spec.base.utilities 1.2.15**  - Mandatory module for the foundation PowerShell scripts. [*01/13/2025 14:12:49*]
++ **spec.file.utilities 2.0.10**  - A module for efficient file management, enabling seamless file downloads from Azure Blob storage, file hash comparisons, and a suite of essential file operations. [*01/09/2025 14:30:18*]
++ **spec.registry.management 1.0.8**  - A module to help manage the Windows registry [*11/15/2024 15:47:58*]
++ **spec.comport.management 1.0.3**  - PowerShell module for efficient management of COM ports, allowing the ability to set a new comport. [*10/22/2024 09:44:00*]
++ **spec.module.management 1.0.6**  - Provides advanced functions for installing, importing, checking, and uninstalling PowerShell modules. [*10/11/2024 14:26:00*]
++ **spec.function.setup 1.0.2**  - A module to help create the folder and file structure required for functions [*09/16/2024 13:23:19*]
++ **spec.module.setup 1.0.9**  - Creates a standardised PowerShell module structure with essential files and configuration. [*09/05/2024 13:50:50*]
++ **SpecIRLHelper 1.0.1**  - A module to help format data required by other functions [*08/19/2024 11:20:44*]
++ **spec.appx.management 1.0.1**  - A module to help manage appx installation and removal [*08/09/2024 11:24:53*]
++ **spec.tonoref.management 1.0.8**  - A module to help manage Tonoref URL generation [*07/17/2024 13:22:23*]
++ **spec.graphapi.utilities 1.0.2**  - A collection of GraphAPI calls to help manage devices and users [*06/04/2024 14:48:22*]
++ **spec.visualfields.management 1.0.1**  - A module to automate Visual Fields shortcuts [*04/24/2024 10:58:08*]
++ **spec.drivemap.utilities 1.0.1**  - A module to help manage drive SMB drive maps. [*11/28/2023 10:19:01*]
++ **spec.envvar.management 1.0.1**  - A solution to assist with adding, replacing or deleting machine and session environment variables. [*10/20/2023 08:05:08*]
++ **spec.module.loader 1.0.6**  - A module to help installing and importing modules [*10/11/2023 14:28:01*]
++ **SpecBaseModule 1.1.0**  - Mandatory module for the foundation PowerShell scripts. [*10/05/2023 13:54:28*]
++ **spec.module.creator 1.0.9**  - A module to create the base module structure. [*10/05/2023 13:03:36*]
++ **spec.microsoft.authentication 1.0.0**  - A module to simplify authentication to various Microsoft services such as Azure or MgGraph [*09/23/2023 14:14:28*]
++ **SpecCreateModule 1.0.8**  - A module to create the base module structure. [*09/10/2023 09:24:40*]
++ **SpecAzTableStorageTools 1.0.0**  - AzureTableStorageHelper: PowerShell module for simplifying interactions with Azure Table Storage, including data retrieval using Shared Access Signatures (SAS). [*09/08/2023 20:13:21*]
++ **SpecComPortManager 1.0.3**  - "COMPortManager: A PowerShell module for handling and relocating COM ports efficiently. Simplify COM port management tasks with this versatile utility." [*09/01/2023 14:28:57*]
++ **SpecPrinters 1.0.2**  - Module for managing printers on local devices [*08/21/2023 10:24:43*]
++ **SpecModuleImporter 1.1.0**  - A module that assists with the importing of PowerShell modules from the PSGallery [*07/31/2023 15:29:59*]
++ **SpecTeamViewerLegacy 1.0.1**  - Functions to control legacy Team Viewer [*07/21/2023 08:21:30*]
++ **SpecAzTables 1.0.5**  - Module to interact with Azure Tables [*07/12/2023 09:47:50*]
 
 ## Adam Bacon
 
@@ -1224,7 +1259,6 @@ In new version you now have ability to send notificatins to Microsoft Teams, Sla
 + **[Search-IsItUp 1.0](https://adam-bacon.netlify.app/)**  - This module will check IsItUp.org to check if the given website or websites are up or down. This is showing some URL hacking and web page scraping in the PSM1 file. [*08/26/2022 17:40:32*]
 + **[SpeedTest-CLI 1.0.1](https://adam-bacon.netlify.app/)**  - PowerShell cmdlets for Internet Speed Test [*08/25/2022 22:51:18*]
 + **[Find-CrimeUK 1.2](https://adam-bacon.netlify.app/)**  - Helps you locate all the crime that has happened in a particular place in the UK. As long as the police have recorded it and it has been registered on this API then it should show you the information about the crime. [*08/18/2022 14:37:45*]
-+ **[New-Avatar 1.0.0](https://adam-bacon.netlify.app/)**  - This is just a fun module, it will not boost your career path using this, but it is cool, so I thought I would make it into a module. This uses the robohash.org API site which will allow you to generate either a robot, or a monster, or a robot disembodied head or finally a kitten. Based on the name you supply robohash.org [*08/15/2022 21:22:20*]
 + **[Search-Dictionary 1.0](https://adam-bacon.netlify.app/)**  - This uses dictionaryapi.dev to obtain the information displayed to you. To my knowledge no dictionary checkers are available as a module on the Powershell Gallery, due to my fondness of the English language and always looking for the most appropriate word to use, I thought creating a module to do just that would be a jolly good idea. This will return the definition of the word, an example of using the word, an audio clip of the phonetics of the word and finally a web link to wiktionary.org to find out even more information on this word you search for. Not every result contains examples and audio. [*08/15/2022 14:09:00*]
 + **[New-ShortURL 1.0](https://adam-bacon.netlify.app/)**  - The one and only Powershell short URL generator. This is using an API which is limited to 100 calls per minute. Allows you to turn a full url into a short url in a jiffy. [*08/14/2022 21:53:03*]
 + **[Find-Geolocation 1.0.0](https://adam-bacon.netlify.app/)**  - This module is using https://freegeoip.live API which is free. Yes. It's totally free. They believe that digital businesses need to get such kind of service for free. Many services are selling Geoip API as a service, but they think that it should be totally free. Feel free to their API as much as you want without any limit other than 10,000 queries per hour for one IP address. I thought this would be another good addition to add to the Powershell Gallery. [*08/13/2022 22:44:17*]
@@ -1346,74 +1380,6 @@ Then run the Install-Exchange cmdlet with the necessary parameters. [*03/04/2017
 + **[Capa.PowerShell.Module.SDK.Authentication 1.14.1](https://github.com/Mark5900/Capa.PowerShell.Module)**  - PowerShell module for CapaInstaller SDK containing functions for Authentication functions.
 	For more information, see https://capasystems.atlassian.net/wiki/spaces/CI65DOC/pages/19382173123/SDK+-+CapaInstaller+Software+Development+Kit+functions [*04/22/2025 11:34:51*]
 
-## owen.heaume
-
-+ **spec.network.management 1.0.8**  - A module to manage windows networking. [*05/13/2025 13:09:28*]
-+ **spec.azure.tables 2.0.4**  - A module for interacting with Azure Tables [*05/07/2025 12:19:40*]
-+ **spec.teamviewer.utilities 1.2.4**  - A module to help manage TeamViewer [*03/18/2025 10:32:27*]
-+ **spec.shortcut.management 1.0.9**  - A module to help create and delete shortcuts [*02/14/2025 14:38:36*]
-+ **spec.psengine 1.0.4**  - A module required by PSEngine base script. [*02/14/2025 10:53:52*]
-+ **spec.printer.management 1.0.9**  - A module for managing printers [*02/11/2025 15:09:35*]
-+ **spec.base.utilities 1.2.15**  - Mandatory module for the foundation PowerShell scripts. [*01/13/2025 14:12:49*]
-+ **spec.file.utilities 2.0.10**  - A module for efficient file management, enabling seamless file downloads from Azure Blob storage, file hash comparisons, and a suite of essential file operations. [*01/09/2025 14:30:18*]
-+ **spec.registry.management 1.0.8**  - A module to help manage the Windows registry [*11/15/2024 15:47:58*]
-+ **spec.comport.management 1.0.3**  - PowerShell module for efficient management of COM ports, allowing the ability to set a new comport. [*10/22/2024 09:44:00*]
-+ **spec.module.management 1.0.6**  - Provides advanced functions for installing, importing, checking, and uninstalling PowerShell modules. [*10/11/2024 14:26:00*]
-+ **spec.function.setup 1.0.2**  - A module to help create the folder and file structure required for functions [*09/16/2024 13:23:19*]
-+ **spec.module.setup 1.0.9**  - Creates a standardised PowerShell module structure with essential files and configuration. [*09/05/2024 13:50:50*]
-+ **SpecIRLHelper 1.0.1**  - A module to help format data required by other functions [*08/19/2024 11:20:44*]
-+ **spec.appx.management 1.0.1**  - A module to help manage appx installation and removal [*08/09/2024 11:24:53*]
-+ **spec.tonoref.management 1.0.8**  - A module to help manage Tonoref URL generation [*07/17/2024 13:22:23*]
-+ **spec.graphapi.utilities 1.0.2**  - A collection of GraphAPI calls to help manage devices and users [*06/04/2024 14:48:22*]
-+ **spec.visualfields.management 1.0.1**  - A module to automate Visual Fields shortcuts [*04/24/2024 10:58:08*]
-+ **spec.drivemap.utilities 1.0.1**  - A module to help manage drive SMB drive maps. [*11/28/2023 10:19:01*]
-+ **spec.module.loader 1.0.6**  - A module to help installing and importing modules [*10/11/2023 14:28:01*]
-+ **SpecBaseModule 1.1.0**  - Mandatory module for the foundation PowerShell scripts. [*10/05/2023 13:54:28*]
-+ **spec.module.creator 1.0.9**  - A module to create the base module structure. [*10/05/2023 13:03:36*]
-+ **spec.microsoft.authentication 1.0.0**  - A module to simplify authentication to various Microsoft services such as Azure or MgGraph [*09/23/2023 14:14:28*]
-+ **SpecCreateModule 1.0.8**  - A module to create the base module structure. [*09/10/2023 09:24:40*]
-+ **SpecAzTableStorageTools 1.0.0**  - AzureTableStorageHelper: PowerShell module for simplifying interactions with Azure Table Storage, including data retrieval using Shared Access Signatures (SAS). [*09/08/2023 20:13:21*]
-+ **SpecComPortManager 1.0.3**  - "COMPortManager: A PowerShell module for handling and relocating COM ports efficiently. Simplify COM port management tasks with this versatile utility." [*09/01/2023 14:28:57*]
-+ **SpecPrinters 1.0.2**  - Module for managing printers on local devices [*08/21/2023 10:24:43*]
-+ **SpecModuleImporter 1.1.0**  - A module that assists with the importing of PowerShell modules from the PSGallery [*07/31/2023 15:29:59*]
-+ **SpecTeamViewerLegacy 1.0.1**  - Functions to control legacy Team Viewer [*07/21/2023 08:21:30*]
-+ **SpecAzTables 1.0.5**  - Module to interact with Azure Tables [*07/12/2023 09:47:50*]
-
-## Andreas Eulitz
-
-+ **Gumby.Window 0.0.1.1**  - Module containing console character window helper methods. [*06/28/2024 18:52:13*]
-+ **Gumby.TreeView 0.0.1.1**  - Module containing console character tree view helper methods. [*06/28/2024 18:51:57*]
-+ **Gumby.SysConfig 0.0.1.1**  - Module containing system configuration helper methods. [*06/28/2024 18:51:34*]
-+ **Gumby.String 0.0.1.8**  - String utility functions. [*06/28/2024 18:51:20*]
-+ **Gumby.Search 0.0.1.1**  - Module containing search helper methods. [*06/28/2024 18:51:08*]
-+ **Gumby.ScrollView 0.0.1.1**  - Module containing console char scrollview helper methods. [*06/28/2024 18:50:53*]
-+ **Gumby.Navigate 0.0.1.1**  - Module containing navigation helper methods. [*06/28/2024 18:50:38*]
-+ **Gumby.ListBox 0.0.1.1**  - Module containing console char list box helper methods. [*06/28/2024 18:50:17*]
-+ **Gumby.Git 0.0.1.1**  - Module containing Git helper methods. [*06/28/2024 18:50:01*]
-+ **Gumby.File 0.0.1.4**  - Module containing file system helper methods. [*06/28/2024 18:49:50*]
-+ **Gumby.CmdHistory 0.0.1.2**  - Module containing command history helper methods. [*06/28/2024 18:49:33*]
-+ **Gumby.DirHistory 0.0.1.0**  - Module containing directory history helper methods. [*06/28/2024 01:03:47*]
-+ **Gumby.Win32 0.0.1.0**  - Module containing Win32 helper methods. [*06/28/2024 00:23:09*]
-+ **Gumby.Object 0.0.1.0**  - Module containing object helper methods. [*06/28/2024 00:13:54*]
-+ **Gumby.Net 0.0.1.0**  - Module containing networking helper methods. [*06/28/2024 00:07:11*]
-+ **Gumby.Math 0.0.1.0**  - Module containing math helper methods. [*06/27/2024 23:57:54*]
-+ **Gumby.LaunchHelpers 0.0.1.0**  - Module containing app launch helper methods. [*06/27/2024 23:51:52*]
-+ **Gumby.Input 0.0.1.0**  - Module containing input helper methods. [*06/27/2024 23:46:30*]
-+ **Gumby.FSShortcuts 0.0.1.0**  - Module containing file system shortcut helper methods. [*06/27/2024 23:18:34*]
-+ **Gumby.DotNet 0.0.1.0**  - Module containing .NET helper methods. [*06/27/2024 23:12:53*]
-+ **Gumby.Crypto 0.0.1.0**  - Module containing crypto helper methods. [*06/27/2024 23:02:18*]
-+ **Gumby.Conversion 0.0.1.0**  - Module containing conversion helper methods. [*06/27/2024 22:48:16*]
-+ **Gumby.Path 0.0.1.5**  - File system path helper functions. [*08/16/2023 23:14:32*]
-+ **Gumby.Test 0.0.1.4**  - Unit test framework that runs tests in the form of PS5 classes and methods annotated with
-[TestClass] and [TestMethod] attributes. Expression tree builder for complex test assertions. [*03/15/2023 23:20:47*]
-+ **YellowBox 0.0.2.1**  - Windows UIA PowerShell Projection. [*10/21/2021 20:46:58*]
-+ **Gumby.Install 0.0.1.0**  - Module containing install helper methods. [*03/04/2020 07:08:48*]
-+ **Gumby.Debug 0.0.1.0**  - Debugging helper methods. [*02/21/2020 08:06:59*]
-+ **Gumby.TextBuffer 0.0.1.0**  - Helper class to map a block of text onto a BufferCell array. [*02/21/2020 07:41:46*]
-+ **Gumby.Log 0.0.1.1**  - Extensible logging infrastructure consisting of a log dispatcher singleton and pluggable log
-listeners. The module includes file and console log listeners, and an "interceptor" listener
-exposing logging events. [*02/18/2020 03:42:13*]
-
 ## Jakoby
 
 + **New-Module 0.0.1**  - streamline creating new modules [*05/17/2025 02:06:00*]
@@ -1475,6 +1441,41 @@ function four  {echo "command 4"} [*08/07/2023 00:47:51*]
         }
     }
 } [*12/02/2022 02:33:28*]
+
+## Andreas Eulitz
+
++ **Gumby.Window 0.0.1.1**  - Module containing console character window helper methods. [*06/28/2024 18:52:13*]
++ **Gumby.TreeView 0.0.1.1**  - Module containing console character tree view helper methods. [*06/28/2024 18:51:57*]
++ **Gumby.SysConfig 0.0.1.1**  - Module containing system configuration helper methods. [*06/28/2024 18:51:34*]
++ **Gumby.String 0.0.1.8**  - String utility functions. [*06/28/2024 18:51:20*]
++ **Gumby.Search 0.0.1.1**  - Module containing search helper methods. [*06/28/2024 18:51:08*]
++ **Gumby.ScrollView 0.0.1.1**  - Module containing console char scrollview helper methods. [*06/28/2024 18:50:53*]
++ **Gumby.Navigate 0.0.1.1**  - Module containing navigation helper methods. [*06/28/2024 18:50:38*]
++ **Gumby.ListBox 0.0.1.1**  - Module containing console char list box helper methods. [*06/28/2024 18:50:17*]
++ **Gumby.Git 0.0.1.1**  - Module containing Git helper methods. [*06/28/2024 18:50:01*]
++ **Gumby.File 0.0.1.4**  - Module containing file system helper methods. [*06/28/2024 18:49:50*]
++ **Gumby.CmdHistory 0.0.1.2**  - Module containing command history helper methods. [*06/28/2024 18:49:33*]
++ **Gumby.DirHistory 0.0.1.0**  - Module containing directory history helper methods. [*06/28/2024 01:03:47*]
++ **Gumby.Win32 0.0.1.0**  - Module containing Win32 helper methods. [*06/28/2024 00:23:09*]
++ **Gumby.Object 0.0.1.0**  - Module containing object helper methods. [*06/28/2024 00:13:54*]
++ **Gumby.Net 0.0.1.0**  - Module containing networking helper methods. [*06/28/2024 00:07:11*]
++ **Gumby.Math 0.0.1.0**  - Module containing math helper methods. [*06/27/2024 23:57:54*]
++ **Gumby.LaunchHelpers 0.0.1.0**  - Module containing app launch helper methods. [*06/27/2024 23:51:52*]
++ **Gumby.Input 0.0.1.0**  - Module containing input helper methods. [*06/27/2024 23:46:30*]
++ **Gumby.FSShortcuts 0.0.1.0**  - Module containing file system shortcut helper methods. [*06/27/2024 23:18:34*]
++ **Gumby.DotNet 0.0.1.0**  - Module containing .NET helper methods. [*06/27/2024 23:12:53*]
++ **Gumby.Crypto 0.0.1.0**  - Module containing crypto helper methods. [*06/27/2024 23:02:18*]
++ **Gumby.Conversion 0.0.1.0**  - Module containing conversion helper methods. [*06/27/2024 22:48:16*]
++ **Gumby.Path 0.0.1.5**  - File system path helper functions. [*08/16/2023 23:14:32*]
++ **Gumby.Test 0.0.1.4**  - Unit test framework that runs tests in the form of PS5 classes and methods annotated with
+[TestClass] and [TestMethod] attributes. Expression tree builder for complex test assertions. [*03/15/2023 23:20:47*]
++ **YellowBox 0.0.2.1**  - Windows UIA PowerShell Projection. [*10/21/2021 20:46:58*]
++ **Gumby.Install 0.0.1.0**  - Module containing install helper methods. [*03/04/2020 07:08:48*]
++ **Gumby.Debug 0.0.1.0**  - Debugging helper methods. [*02/21/2020 08:06:59*]
++ **Gumby.TextBuffer 0.0.1.0**  - Helper class to map a block of text onto a BufferCell array. [*02/21/2020 07:41:46*]
++ **Gumby.Log 0.0.1.1**  - Extensible logging infrastructure consisting of a log dispatcher singleton and pluggable log
+listeners. The module includes file and console log listeners, and an "interceptor" listener
+exposing logging events. [*02/18/2020 03:42:13*]
 
 ## Michal Gajda
 
@@ -1571,4 +1572,4 @@ System Requirements:
     This module uses [LibGit2Sharp](https://github.com/libgit2/libgit2sharp), the .NET wrapper of [libgit2](https://libgit2.github.com/), "a portable, pure C implementation of... Git", which allows you to call Git via API instead using the Git command line interface. [*09/30/2019 19:01:37*]
 + **[CloudBoltAutomation 0.0.1](https://github.com/webmd-health-services/CloudBoltAutomation)**  - A PowerShell module for using the CloudBolt API. [*06/21/2019 22:34:44*]
 
-*Updated: Saturday, 17 May 2025 09:51:58 UTC*
+*Updated: Saturday, 17 May 2025 17:52:07 UTC*
