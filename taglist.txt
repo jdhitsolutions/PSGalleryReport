@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Tuesday, 20 May 2025 02:25:02 UTC
+Updated: Tuesday, 20 May 2025 09:52:06 UTC
 
 .bat
 .env
@@ -563,6 +563,7 @@ assistance
 assistant
 association
 ast
+astro
 astronomy
 asv
 asymmetric
@@ -582,7 +583,6 @@ atproto
 atprotocol
 atrium
 att&ck
-attach
 attestation
 attila
 attribute
@@ -648,6 +648,7 @@ automationportal
 automationutils
 autonomoussystem
 autonomoussystemnumber
+autopatching
 autopilot
 autoscaling
 autostart
@@ -675,7 +676,6 @@ avro
 avs
 avset
 await
-awakecoding
 awareness
 awesome
 awp
@@ -764,6 +764,8 @@ azurecli
 azurecodesigning
 azurecognitiveservices
 azurecommonstuff
+azurecontainerapps
+azurecontainers
 azuredatabricks
 azuredataexplorer
 azuredatastudio
@@ -1326,6 +1328,7 @@ clientstatussettings
 clihelper.core
 clihelper.logger
 clihelper.semver
+clihelper.trends
 clipart
 clipasswordsdk
 clipboard
@@ -1566,6 +1569,7 @@ connectivity
 connector
 connectorcmd
 connectormanagement
+connectsync
 connectwise
 conservation
 console
@@ -1635,7 +1639,6 @@ converttodocx
 converttohtml
 converttomarkdown
 converttomd
-cookie
 coolq
 cooltag1
 cooltag2
@@ -2097,10 +2100,12 @@ directory psedition_core psedition_desktop
 directory-transform
 directorycleanup
 directorymanagement
+directorymarks
 directoryname
 directorysearcher
 directorysecurity
 directrouting
+directus
 direnv
 dirkjan
 dirname
@@ -2110,8 +2115,6 @@ disable
 disable-internet
 disable-psremoting
 disablefilesyncngsc
-disablestartbutton
-disablestartkey
 disasm
 disasterrecovery
 disconnect
@@ -2321,6 +2324,7 @@ dtx
 du
 dual-stack
 duck
+duckdb
 duckduckgo
 ducks
 ducktyping
@@ -2420,6 +2424,7 @@ elevate
 elevated
 elevatedconsole
 elevatedmode
+elevation
 elevenlabs
 elgato
 eli5
@@ -2598,7 +2603,6 @@ evernote
 everydaypowershell
 everydayrewards
 everything
-evilprince2009
 evolutionary-algorithms
 evolutionary-database
 evtx
@@ -2794,7 +2798,6 @@ fileserverresourcemanager
 fileshare
 filesharing
 filestorage
-filestream
 filesystem
 filesystementry-matcher
 filesystementry-matching
@@ -2928,7 +2931,6 @@ fortimanager
 fortinet
 fortinetmanager
 fortios
-fortune
 forum
 forwardcompatibility
 forwardedevents
@@ -3172,6 +3174,7 @@ goldsource
 goldsource-dedicated-server
 google
 google-chrome
+google-fonts
 google-histogram
 google-sankey
 google-table
@@ -3306,6 +3309,7 @@ hartokens
 harvest
 harvestforecast
 hash
+hash-verification
 hashcat
 hashicorp
 hashing
@@ -3711,6 +3715,8 @@ internet
 internet-explorer
 internetconnection
 internetexplorer
+intersight
+intersightcmdlets
 interval
 interval-timer
 intigua
@@ -3878,6 +3884,7 @@ jsm
 jsm.insight
 json
 json-converter
+json-ld
 json-transform
 json+
 json2ps
@@ -3939,7 +3946,6 @@ key2wocas
 keybase
 keybinding
 keyboard
-keyboardstartkey
 keycipher
 keycloak
 keycontrol
@@ -4021,6 +4027,7 @@ labtest
 labworker
 lake
 lambda
+lambdatest
 lame
 lametrictime
 lan
@@ -4113,6 +4120,7 @@ linear
 linearalgebra
 lingeringobjects
 link
+link-capability
 link-preview
 linkedin
 linkedservice
@@ -4130,6 +4138,7 @@ linuxssh
 liquid
 list
 list_files
+list-directory
 list-item
 listener
 litecoin
@@ -4172,7 +4181,6 @@ localpolicy
 localuser
 location
 locationbasedservices
-locations
 lock
 lockbox
 lockdisplaytimeout
@@ -4207,6 +4215,7 @@ logging
 loggingingestion
 loggingsearch
 loggly
+logic
 logicapp
 logicapps
 logiclesstemplate
@@ -4223,6 +4232,7 @@ logitech
 logmail
 logmails
 logman
+logo
 logoff
 logon
 logonright
@@ -4529,6 +4539,7 @@ microsoftmvp
 microsoftoffice
 microsoftonline
 microsoftsentinel
+microsoftstaffhub
 microsoftstore
 microsoftteams
 microsoftteamsdevices
@@ -4621,6 +4632,7 @@ moneyforward
 mongo
 mongodb
 monitor
+monitor psmodule
 monitorinformation
 monitoring
 monitoring_objects
@@ -4719,6 +4731,7 @@ multi-factor
 multi-language
 multi-platform
 multi-tenant
+multi-thread
 multi-threading
 multi-zone
 multicloud
@@ -5053,6 +5066,7 @@ office2019
 office365
 office365managementapi
 officedev
+officegraph
 officemessageencryption
 officertool
 offline
@@ -5121,7 +5135,6 @@ open
 open-ai
 open-ssh
 openai
-openaiclient
 openamt
 openapi
 opendata
@@ -5258,7 +5271,6 @@ package-transform
 packagemanagement
 packagemanager
 packages
-packagesregistry
 packaging
 packaging psmodule
 packard
@@ -5570,6 +5582,7 @@ poshy-ecks
 poshy-env-proxy
 poshy-env-var
 poshy-ls-isms
+poshy-lucidity
 poshy-multimedia
 poshy-net
 poshy-notify-send
@@ -5644,6 +5657,7 @@ powercommander
 powerconfiguration
 powerdex
 powerforensics
+powergraph
 powergui
 powermax
 powerpack
@@ -5729,7 +5743,6 @@ predictive-text
 predictor
 preferences
 prefix
-prefixing
 preparead
 preparealldomains
 prepareschema
@@ -5854,7 +5867,6 @@ ps.credentialmanager
 ps1
 ps12exe
 ps1xml
-ps1xmlgen
 ps2dll
 ps2exe
 ps3
@@ -7423,6 +7435,7 @@ pscommand_sc-mask-now
 pscommand_scu-disable-now
 pscommand_scu-enable-now
 pscommand_scu-mask-now
+pscommand_search-commandpath
 pscommand_search-ruby
 pscommand_set-envvar
 pscommand_set-gitremoteurl
@@ -7473,9 +7486,14 @@ pscommand_syspip3
 pscommand_syspip3_package_location
 pscommand_ta
 pscommand_tad
+pscommand_test-command
 pscommand_test-d
+pscommand_test-elevation
 pscommand_test-f
+pscommand_test-linkcapability
 pscommand_test-o
+pscommand_test-reparsepoint
+pscommand_test-sessioninteractivity
 pscommand_test-x
 pscommand_tf
 pscommand_tfa
@@ -7697,6 +7715,7 @@ psenv
 pses
 psexcel
 psexec
+psexec.exe
 psexpandline
 psfciv
 psfitbit
@@ -8632,6 +8651,7 @@ psfunction_sc-mask-now
 psfunction_scu-disable-now
 psfunction_scu-enable-now
 psfunction_scu-mask-now
+psfunction_search-commandpath
 psfunction_search-ruby
 psfunction_set-envvar
 psfunction_set-gitremoteurl
@@ -8674,9 +8694,14 @@ psfunction_stop-gitcherrypick
 psfunction_switch-gitbranchandtrack
 psfunction_switch-gitbranchmain
 psfunction_switch-gitbranchnew
+psfunction_test-command
 psfunction_test-d
+psfunction_test-elevation
 psfunction_test-f
+psfunction_test-linkcapability
 psfunction_test-o
+psfunction_test-reparsepoint
+psfunction_test-sessioninteractivity
 psfunction_test-x
 psfunction_universalarchive
 psfunction_update-gitbranchbasefrombranchmain
@@ -9000,6 +9025,7 @@ rdpsession
 rdpsign
 rds
 rdsgw
+react
 react-stockcharts
 read
 read-slog
@@ -9361,8 +9387,6 @@ salesloft
 salt
 salt-api
 saltstack
-saltstackconfig
-saltstackenterprise
 sam
 samanage
 saml
@@ -9478,6 +9502,7 @@ scriptcs
 scriptedui
 scripting
 scriptlog
+scriptlogging
 scriptmodule
 scriptoform
 scriptrunner
@@ -9488,7 +9513,6 @@ scrub
 scrubber
 scsm
 scuba
-scvmm
 sd
 sddl
 sdk
@@ -9554,7 +9578,6 @@ securityscopes
 securitytxt
 sed
 seed
-seek
 seekatar
 seeshell
 select
@@ -9595,6 +9618,7 @@ sensors
 sensu
 sentinel
 sentinelone
+sentry
 seo
 sep
 seppmail
@@ -9630,6 +9654,7 @@ servicelinker
 servicemanagementautomation
 servicemanagementautomationx
 servicemanager
+servicemanagerproxy
 servicemesh
 servicenow
 servicepack
@@ -9684,6 +9709,7 @@ shadowcopy
 shadowcopybackups
 shadowgroups
 shanehoey
+shanghaitech
 shard
 share
 share-permission
@@ -10010,6 +10036,7 @@ sqlserverbynarypsmodule
 sqlserverclient
 sqlservermodule
 sqlvirtualmachine
+sqlvm
 sqr
 sqrt
 square
@@ -10021,7 +10048,6 @@ srylius-write
 ssas
 ssc
 ssdt
-sse
 ssh
 ssh-config
 ssh-keygen
@@ -10052,6 +10078,7 @@ stackhcivm
 stackmonitoring
 stackoverflow
 staff
+staffhub
 staging
 stale
 stan
@@ -10066,7 +10093,6 @@ start
 start-job
 start-jobthread
 start-threadjob
-startkey
 startmen
 startmenu
 starttls
@@ -10078,6 +10104,7 @@ stateless
 static
 staticanalysis
 statichtmlsites
+staticip
 staticsite
 statistical
 statistics
@@ -10206,9 +10233,11 @@ surveymonkey
 sus
 sushi
 suspensive
+svelte
 svesavov
 svetoslav
 svg
+svgl
 svn
 svt
 swagger
@@ -10676,7 +10705,6 @@ typeaccelerators
 typedata
 typeextension
 types
-types.ps1xml
 typescript
 tzutil
 uac
@@ -10860,6 +10888,7 @@ usergroups
 userinterface
 usermail
 usermanagement
+username
 userprofile
 userprofiles
 userprofiletools
@@ -11101,6 +11130,7 @@ vsteams
 vstest
 vsts
 vsts-cli
+vue
 vulnerabilities
 vulnerability
 vulnerabilityscanning
