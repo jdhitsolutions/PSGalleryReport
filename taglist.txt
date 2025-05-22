@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Thursday, 22 May 2025 02:24:27 UTC
+Updated: Thursday, 22 May 2025 09:52:08 UTC
 
 .bat
 .env
@@ -34,11 +34,18 @@ Updated: Thursday, 22 May 2025 02:24:27 UTC
 1password
 1poshword
 200
+2005
+2008
+2008r2
 2010
+2012
 2013
+2014
 2016
+2017
 2018
 2019
+2022
 21vianet
 24-bit
 2fa
@@ -249,7 +256,6 @@ aeries
 aeriessis
 aerofetch
 aes
-aesgcm
 afd
 affinity
 affinity-co
@@ -266,7 +272,6 @@ agm
 agnoster
 ahk
 ai
-ai-server
 ai21
 ai21labs
 aianomalydetection
@@ -302,6 +307,7 @@ albums
 alc
 alero
 alert
+alerting
 alertmail
 alertmanagement
 alerts
@@ -443,7 +449,6 @@ applicationmonitor
 applications
 applicationworkspace
 applocker
-apply
 appmgmtcontrol
 apppool
 appraiser
@@ -470,9 +475,7 @@ apt-get
 apt-get-update
 apteco
 aptitude
-aql
 arabic
-arangodb
 arc
 arcade
 arcgis
@@ -493,7 +496,6 @@ arcus
 area
 arg
 argcomplete
-argument
 argumentcompleter
 arguments
 ari
@@ -536,6 +538,7 @@ asn1
 asnbank
 asp
 asp.net
+aspnet
 aspnet_regiis
 asr
 assembleenationale
@@ -777,7 +780,6 @@ azureiot
 azureiothub
 azurekeyvault
 azurekeyvaultstuff
-azurelocal
 azuremaps
 azuremigrate
 azuremonitor
@@ -1176,6 +1178,7 @@ certificat
 certificate
 certificateauthority
 certificatechain
+certificatemanager
 certificatepolicy
 certificates
 certificateservices
@@ -1509,6 +1512,7 @@ computer-site
 computername
 computers
 computersite
+comulativeupdate
 concur
 concurrency
 concurrent
@@ -1718,7 +1722,6 @@ credmanager
 crescendo
 crescendobuilt
 cresendo
-crestron
 cricket
 crime
 crlf
@@ -1759,6 +1762,7 @@ ctl
 ctrl+c
 ctx
 ctype
+cu
 cubes
 cudel
 culture
@@ -1773,7 +1777,6 @@ currency-convereter
 currency-exchange
 currencyconverterapi
 current
-curseforge
 custom
 customchecks
 customdns
@@ -1804,6 +1807,7 @@ cx
 cyber
 cyberark
 cyberark-api
+cyberark-dpa
 cyberark-identity
 cyberdrain
 cybereason
@@ -2041,7 +2045,9 @@ deviation
 device
 devicecode
 deviceid
+devicemanagement
 deviceprovisioningservice
+devicereports
 devices
 deviceupdate
 devolutions
@@ -2118,7 +2124,6 @@ discutils
 disk
 disk_to_disk
 disk-space
-diskcleanup
 diskfree
 diskimage
 diskpart
@@ -2284,6 +2289,8 @@ droplet
 droptable
 drs
 drsrule
+drupal
+drush
 dry
 ds
 ds-client
@@ -2343,6 +2350,7 @@ dword
 dxexpeditions
 dynamic
 dynamic-host-configuration-protocol
+dynamic-privileged-access
 dynamicdistributiongroups
 dynamicdistributionlist
 dynamicdnsoverhttps
@@ -2659,6 +2667,7 @@ export-cmhealthreport
 export-data
 export-passlist
 exportcertificate
+exportcertificates
 exporter
 exportexcel
 exportteams
@@ -2766,6 +2775,7 @@ file-type
 file-type-association
 fileattributes
 fileencryption
+fileexplorer
 filelist
 filelog
 filelogger
@@ -2967,7 +2977,6 @@ ftptoday
 fu-msauth
 fudge
 fudgepop
-fujitsu
 full
 full-metal-gnome
 fullclr
@@ -3063,18 +3072,27 @@ get-credential
 get-criticaltrippoint
 get-currentcputemperature
 get-dellwarranty
+get-devicesorgunitreport
 get-directorycontents
+get-disabledusersreport
+get-domaincontrollerreport
 get-dtcmdevicemodel
 get-dtdriverpack
 get-dtdriverupdates
 get-dtscriptnewcmpackagefromdriverpackpackagedefinitionsms
 get-dtscriptnewcmtasksequencefromdriverpackpackagedefinitionsms
 get-emptyadgroups
+get-expiredusersreport
+get-expiringusersreport
 get-externalip
 get-firmwaretype
 get-help
 get-history
 get-iislog
+get-inactivedevicesreport
+get-inactiveusersreport
+get-lockedusersreport
+get-onlinedevicesreport
 get-openfile
 get-openfiles
 get-pass
@@ -3089,6 +3107,7 @@ get-stalecomps
 get-staleusers
 get-thermalstamp
 get-uptime
+get-usersorgunitreport
 getfirmwareenvironmentvariable
 getfirmwaretype
 ggplot
@@ -3289,6 +3308,7 @@ hartokens
 harvest
 harvestforecast
 hash
+hash-verification
 hashcat
 hashicorp
 hashing
@@ -3476,6 +3496,7 @@ humour
 hunter
 hwid
 hybrid
+hybridrunbookworker
 hyper-v
 hyperconverged
 hyperfine
@@ -3703,6 +3724,7 @@ intranet
 intrusion
 intuitive
 intune
+intuneadminroles
 intuneappwinutil
 intunestuff
 inventory
@@ -4012,7 +4034,6 @@ lametrictime
 lan
 landingzones
 language
-language-model
 languageai
 languagedsc
 languageexperiencepack
@@ -4056,6 +4077,7 @@ learnpowershell
 lease
 leftjoin
 legacy
+legacyad
 legends
 lego
 lein
@@ -4142,7 +4164,6 @@ loandepot
 loc
 local
 local-account
-local-ai
 local-caching
 local-policy
 local-users
@@ -4270,7 +4291,6 @@ mac-address
 macaddress
 macadmins
 machine
-machine-learning
 machinelearning
 machinelearningcompute
 machinelearningmodels
@@ -4353,6 +4373,7 @@ marketo
 marketplace
 marketplaceordering
 marketplaceprivateoffer
+marketplacepublisher
 marking
 marklogic
 marquee
@@ -4577,7 +4598,6 @@ mock
 mocking
 modding
 model
-model-management
 modeldeployment
 modeling
 models
@@ -4709,6 +4729,7 @@ multi-factor
 multi-language
 multi-platform
 multi-tenant
+multi-thread
 multi-threading
 multi-zone
 multicloud
@@ -4853,6 +4874,7 @@ networksecuritygroup
 networkshares
 netwrix
 new
+new-completionresult
 new-dtcmpackagefromdriverpackpackagedefinitionsms
 new-dtcmtasksequencefromdriverpackpackagedefinitionsms
 new-dynamicdictionary
@@ -4901,7 +4923,6 @@ nl
 nla
 nlm
 nlog
-nlp
 nmap
 nmbell
 nmm
@@ -5111,6 +5132,7 @@ open
 open-ai
 open-ssh
 openai
+openaiclient
 openamt
 openapi
 opendata
@@ -5210,6 +5232,8 @@ ou
 ou-object
 oui
 oui-search
+oura
+ouraring
 out-consolegridview
 out-default
 out-gridview
@@ -5645,7 +5669,6 @@ powersaving
 powerscheme
 powershell
 powershell_universal
-powershell-ai
 powershell-class
 powershell-cmdlets
 powershell-core
@@ -8751,7 +8774,6 @@ psjob
 psjobs
 psjobthreads
 pskeepass
-psllm
 pslocalgallery
 psloganalytics
 psm
@@ -8947,7 +8969,6 @@ rabbitmq
 rackspace
 radarr
 radio
-rag
 raidcontrollercmdlets
 railways
 rainbow
@@ -9081,6 +9102,7 @@ regedit
 regex
 region
 regions
+regiser-argumentcompleter
 register
 register-argumentcompleter
 registered
@@ -9251,6 +9273,7 @@ rightjoin
 rights
 rightsizing
 rightsmanagement
+ring
 ripe
 risk
 riskiq
@@ -9312,6 +9335,7 @@ rsjob
 rsop
 rss
 rt
+rtm
 rtu
 rubber
 rubrik
@@ -9635,6 +9659,7 @@ servicemanager
 servicemanagerproxy
 servicemesh
 servicenow
+servicepack
 serviceplan
 servicepointmanager
 serviceprincipal
@@ -9844,6 +9869,7 @@ snapping
 snapshot
 snapshots
 sni
+snipe-it
 snippet
 snippets
 snippets-manager
@@ -10075,6 +10101,7 @@ startmen
 startmenu
 starttls
 starwars
+stash
 stat
 state
 stateless
@@ -10163,6 +10190,7 @@ sub-directory
 sub-menu
 subatomix
 subdirectory
+subjectname
 sublimetext
 submission
 subnet
@@ -10382,6 +10410,7 @@ temperature
 template
 template-engine
 template-utility
+templater
 templates
 templating
 temporary
@@ -10745,6 +10774,7 @@ ud-toploader
 ud-trendline
 ud-typing
 ud-window
+ud-wordtree
 udcm
 udfeedback
 udp
@@ -10766,6 +10796,7 @@ uml
 umn
 ums
 unattend
+unattended
 unattendedfile
 unblock
 unc
@@ -10867,6 +10898,7 @@ username
 userprofile
 userprofiles
 userprofiletools
+userreports
 userright
 userrights
 userrightsassignment
@@ -11316,7 +11348,6 @@ windowsdefender
 windowsdesktop
 windowsdesktopsearch
 windowsdirectories
-windowsdiskcleanup
 windowsdomain
 windowsevent
 windowseventlog
@@ -11341,6 +11372,7 @@ windowsrest
 windowssandbox
 windowssearchmanager
 windowsserver
+windowsserver2008
 windowsserver2016
 windowsserver2019
 windowsserver2022
@@ -11406,6 +11438,7 @@ workbook
 workday
 worker
 workflow
+workflowmax
 workflows
 workingdays
 workinghours
