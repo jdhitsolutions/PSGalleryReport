@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Wednesday, 21 May 2025 17:52:18 UTC
+Updated: Thursday, 22 May 2025 02:24:27 UTC
 
 .bat
 .env
@@ -34,18 +34,11 @@ Updated: Wednesday, 21 May 2025 17:52:18 UTC
 1password
 1poshword
 200
-2005
-2008
-2008r2
 2010
-2012
 2013
-2014
 2016
-2017
 2018
 2019
-2022
 21vianet
 24-bit
 2fa
@@ -309,7 +302,6 @@ albums
 alc
 alero
 alert
-alerting
 alertmail
 alertmanagement
 alerts
@@ -489,6 +481,7 @@ architecture
 architecuture
 archive
 archivedteams
+archivematica
 archivial
 archivial-backup
 archivial-cloud-backup
@@ -517,6 +510,7 @@ arrays
 arrow
 arrow-key
 art
+artefactual
 artifact
 artifactory
 artifacts
@@ -542,7 +536,6 @@ asn1
 asnbank
 asp
 asp.net
-aspnet
 aspnet_regiis
 asr
 assembleenationale
@@ -839,6 +832,7 @@ bank
 banking
 banner
 bar
+baramundi
 barcodes
 baremetal
 base
@@ -873,6 +867,7 @@ bc365
 bcd
 bcdedit
 bcdr
+bconnect
 bd
 bdd
 bds
@@ -972,6 +967,7 @@ blueteam
 bluetraitio
 bluetuxedo
 bmc
+bms
 bnm
 boards
 bofh
@@ -1180,7 +1176,6 @@ certificat
 certificate
 certificateauthority
 certificatechain
-certificatemanager
 certificatepolicy
 certificates
 certificateservices
@@ -1290,8 +1285,10 @@ clccontrol
 clccontrolapiv1
 clccontrolapiv2
 clean
+clean-up
 cleanmgr
 cleanup
+cleanup-orphans
 clear
 clear-history
 clearpass
@@ -1323,6 +1320,7 @@ clientsettingsuserdeviceaffinity
 clientstatussettings
 clihelper.core
 clihelper.logger
+clihelper.semver
 clihelper.trends
 clipart
 clipasswordsdk
@@ -1469,6 +1467,7 @@ commence
 comment
 comments
 commerce
+commfort
 commit
 commits
 common
@@ -1510,7 +1509,6 @@ computer-site
 computername
 computers
 computersite
-comulativeupdate
 concur
 concurrency
 concurrent
@@ -1602,6 +1600,7 @@ contrast
 control
 controller
 controlroom
+controlup
 conventional
 conventional-commits
 convereter
@@ -1760,7 +1759,6 @@ ctl
 ctrl+c
 ctx
 ctype
-cu
 cubes
 cudel
 culture
@@ -1806,7 +1804,7 @@ cx
 cyber
 cyberark
 cyberark-api
-cyberark-dpa
+cyberark-identity
 cyberdrain
 cybereason
 cybersecurity
@@ -1925,6 +1923,7 @@ dbatools
 dbcommand
 dbeaver
 dbfs
+dblm
 dbnull
 dbops
 dbpool
@@ -1985,6 +1984,7 @@ delegated
 delegation
 delegationmodel
 delete
+delete-orphan-branches
 deletefile
 deleteuserprofile
 delivery
@@ -2145,6 +2145,7 @@ distributiongroups
 distributionlist
 distributionpointgroupmembers
 distrubtionpoint
+dividends
 diving
 division
 divoom
@@ -2238,6 +2239,7 @@ dotps1
 dots
 dotteddecimalip
 doubleclick
+down
 download
 downloader
 downloadfacebookvideo
@@ -2282,8 +2284,6 @@ droplet
 droptable
 drs
 drsrule
-drupal
-drush
 dry
 ds
 ds-client
@@ -2333,6 +2333,8 @@ duplicate
 duplicate-files
 duplicatioin
 duplication
+durable
+durabletask
 dust
 dutch
 dvls
@@ -2341,7 +2343,6 @@ dword
 dxexpeditions
 dynamic
 dynamic-host-configuration-protocol
-dynamic-privileged-access
 dynamicdistributiongroups
 dynamicdistributionlist
 dynamicdnsoverhttps
@@ -2658,7 +2659,6 @@ export-cmhealthreport
 export-data
 export-passlist
 exportcertificate
-exportcertificates
 exporter
 exportexcel
 exportteams
@@ -2682,6 +2682,7 @@ extract
 extraction
 extractor
 extreme-networks
+eye-candy
 eztheme
 f
 f#
@@ -2697,6 +2698,7 @@ faf
 failedlogin
 failure
 fake
+fake-useragent
 falcon
 fallbackstatuspoint
 fanarttv
@@ -2724,6 +2726,8 @@ feature
 features
 featuresondemand
 featureupdate
+federated
+federateddirectory
 federation
 fedex
 feed
@@ -3208,6 +3212,7 @@ gremlin
 grep
 greynoise
 grid
+gridfs
 grok
 groundspeak
 group
@@ -3284,7 +3289,6 @@ hartokens
 harvest
 harvestforecast
 hash
-hash-verification
 hashcat
 hashicorp
 hashing
@@ -3468,10 +3472,10 @@ humanizer
 humanly
 humor
 humorous
+humour
 hunter
 hwid
 hybrid
-hybridrunbookworker
 hyper-v
 hyperconverged
 hyperfine
@@ -4052,7 +4056,6 @@ learnpowershell
 lease
 leftjoin
 legacy
-legacyad
 legends
 lego
 lein
@@ -4159,6 +4162,7 @@ locationbasedservices
 locations
 lock
 lockbox
+lockdisplaytimeout
 lockdown
 lockfile
 locking
@@ -4249,6 +4253,7 @@ luma
 lumaai
 lunar
 lunches
+lustrefilestorage
 lwa
 lxca
 lxcapstool
@@ -4348,7 +4353,6 @@ marketo
 marketplace
 marketplaceordering
 marketplaceprivateoffer
-marketplacepublisher
 marking
 marklogic
 marquee
@@ -4380,6 +4384,7 @@ maximum
 maxoffice
 mazerat
 mb
+mbc
 mbs
 mc
 mcafee
@@ -4515,6 +4520,8 @@ microsoftsentinel
 microsoftstaffhub
 microsoftstore
 microsoftteams
+microsoftteamsdevices
+microsoftteamsphone
 microsoftupdate
 microsoftword
 middleware
@@ -4702,7 +4709,6 @@ multi-factor
 multi-language
 multi-platform
 multi-tenant
-multi-thread
 multi-threading
 multi-zone
 multicloud
@@ -4818,6 +4824,7 @@ nets
 netsapiens
 netscaler
 netscape
+netsec
 netsh
 netspell
 netstat
@@ -4846,7 +4853,6 @@ networksecuritygroup
 networkshares
 netwrix
 new
-new-completionresult
 new-dtcmpackagefromdriverpackpackagedefinitionsms
 new-dtcmtasksequencefromdriverpackpackagedefinitionsms
 new-dynamicdictionary
@@ -4901,6 +4907,7 @@ nmbell
 nmm
 nntp
 node
+node.js
 nodejs
 non-idiomatic
 non-volatile
@@ -4914,6 +4921,7 @@ normal
 norskale
 norway
 norwegian
+nos
 nosql
 note
 notebook
@@ -4953,6 +4961,8 @@ nsxt
 ntdll
 ntds
 ntfs
+ntfy
+ntfypwsh
 ntp
 ntsystems
 nuget
@@ -5101,7 +5111,6 @@ open
 open-ai
 open-ssh
 openai
-openaiclient
 openamt
 openapi
 opendata
@@ -5201,8 +5210,6 @@ ou
 ou-object
 oui
 oui-search
-oura
-ouraring
 out-consolegridview
 out-default
 out-gridview
@@ -5238,6 +5245,7 @@ package-transform
 packagemanagement
 packagemanager
 packages
+packagesregistry
 packaging
 packaging psmodule
 packard
@@ -5470,6 +5478,7 @@ plugins
 pluralsight
 ply
 pmp
+pncit
 pnp
 pnp.powershell
 pnpm
@@ -5643,6 +5652,7 @@ powershell-core
 powershell-core-releases-api
 powershell-course
 powershell-credentials
+powershell-dsc
 powershell-examples
 powershell-gallery
 powershell-github-repo
@@ -5815,6 +5825,9 @@ provisioning
 provisioningagent
 provisioningpackage
 provisonedpackage
+prowl
+prowl-notifications
+prowlapp
 proxmox
 proxmoxve
 proxsys
@@ -8847,6 +8860,7 @@ purple
 purview
 push
 push-location
+push-notifications
 pushd
 pushover
 pushoverapi
@@ -8949,6 +8963,7 @@ random-date
 random-password
 random-password-generator
 randompassword
+randomuser
 randomusers
 range
 rangescan
@@ -8997,6 +9012,7 @@ readiness
 readme
 readpdf
 readthedocs
+real-time
 realschule
 realtimeprotection
 realvnc
@@ -9065,7 +9081,6 @@ regedit
 regex
 region
 regions
-regiser-argumentcompleter
 register
 register-argumentcompleter
 registered
@@ -9236,11 +9251,11 @@ rightjoin
 rights
 rightsizing
 rightsmanagement
-ring
 ripe
 risk
 riskiq
 riskpro
+risksense
 rivermeadow
 rlan
 rmcp
@@ -9297,7 +9312,6 @@ rsjob
 rsop
 rss
 rt
-rtm
 rtu
 rubber
 rubrik
@@ -9579,6 +9593,7 @@ sensitive
 sensitivity
 sensor
 sensors
+sensu
 sentinel
 sentinelone
 sentry
@@ -9620,7 +9635,6 @@ servicemanager
 servicemanagerproxy
 servicemesh
 servicenow
-servicepack
 serviceplan
 servicepointmanager
 serviceprincipal
@@ -9668,6 +9682,8 @@ sha256crypt
 sha512crypt
 shacrypt
 shadow
+shadowcopy
+shadowcopybackups
 shadowgroups
 shanehoey
 shanghaitech
@@ -10059,7 +10075,6 @@ startmen
 startmenu
 starttls
 starwars
-stash
 stat
 state
 stateless
@@ -10123,6 +10138,7 @@ streaming
 streamreader
 streamwriter
 stretch
+strict
 strictmode
 strikethrough-text
 string
@@ -10147,7 +10163,6 @@ sub-directory
 sub-menu
 subatomix
 subdirectory
-subjectname
 sublimetext
 submission
 subnet
@@ -10206,6 +10221,7 @@ swagger
 swamid
 swarm
 swimlane
+swimmingpool
 swis
 switch
 swsd
@@ -10339,6 +10355,10 @@ teamfoundationserver
 teams
 teamsdevices
 teamservices
+teamsphones
+teamsphonesoftwareupdate
+teamsphonessoftwareupdates
+teamsphoneupdatesoftware
 teamspolicy
 teamviewer
 techdirect
@@ -10354,6 +10374,7 @@ telegram-bot-api
 telegram-sticker
 telegramx
 telemetry
+teletext
 telligent
 telnet
 temp
@@ -10361,7 +10382,6 @@ temperature
 template
 template-engine
 template-utility
-templater
 templates
 templating
 temporary
@@ -10725,7 +10745,6 @@ ud-toploader
 ud-trendline
 ud-typing
 ud-window
-ud-wordtree
 udcm
 udfeedback
 udp
@@ -10747,12 +10766,12 @@ uml
 umn
 ums
 unattend
-unattended
 unattendedfile
 unblock
 unc
 uncpaths
 underlined-text
+unhide
 unicode
 unicode-emoji
 unicode-emojis
@@ -10837,6 +10856,7 @@ usb
 useful
 user
 user-environment
+useragent
 userdiscovery
 usergroup
 usergroups
@@ -10925,6 +10945,7 @@ ve7cc
 vector
 veeam
 veeampn
+veenendaal
 veeva
 venafi
 vencord
@@ -11037,6 +11058,7 @@ volta
 volume
 volumelicense
 volumelicenseagreement
+volumeshadowcopy
 volumio
 voperator
 vorbis
@@ -11319,7 +11341,6 @@ windowsrest
 windowssandbox
 windowssearchmanager
 windowsserver
-windowsserver2008
 windowsserver2016
 windowsserver2019
 windowsserver2022
@@ -11385,7 +11406,6 @@ workbook
 workday
 worker
 workflow
-workflowmax
 workflows
 workingdays
 workinghours
@@ -11516,6 +11536,7 @@ xwiki
 xwindowsupdate
 xwith
 yahoo
+yahw
 yamaha
 yaml
 yandex
@@ -11523,6 +11544,7 @@ yandexdisk
 yapg
 yarn
 year
+yetanotherhelloworld
 yify
 yml
 ynab
