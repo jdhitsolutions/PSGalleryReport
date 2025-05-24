@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Saturday, 24 May 2025 09:52:17 UTC
+Updated: Saturday, 24 May 2025 17:52:20 UTC
 
 .bat
 .env
@@ -273,7 +273,6 @@ agm
 agnoster
 ahk
 ai
-ai-server
 ai21
 ai21labs
 aianomalydetection
@@ -425,7 +424,6 @@ app-volumes
 app.config
 appattach
 appclusive
-appcmd
 appconfiguration
 appdeploy
 appdeployment
@@ -451,7 +449,6 @@ applicationmonitor
 applications
 applicationworkspace
 applocker
-apply
 appmgmtcontrol
 apppool
 appraiser
@@ -1077,7 +1074,6 @@ businessobjects
 businessrulesengine
 businesstime
 bxor
-bydesign
 byexample
 bynarypsmodule
 byte
@@ -1180,6 +1176,7 @@ centurylinkcloud
 cer
 cert
 certbasedauth
+certera
 certes
 certificat
 certificate
@@ -1228,6 +1225,7 @@ chefconf2016
 chenxizhang
 cherrypy
 cherwell
+chfs
 chi
 china
 chinese
@@ -1367,6 +1365,7 @@ cloudguard
 cloudinairy
 cloudinit
 cloudiq
+cloudkey
 cloudmarque
 cloudmigrations
 cloudml
@@ -1807,6 +1806,7 @@ customization
 customlocation
 customlogs
 customproviders
+cutehttpfileserver
 cvad
 cve
 cve-2021-34527
@@ -2068,7 +2068,6 @@ devsecops
 devtestlabs
 dfch
 dfir
-dfplayermini
 dfs
 dfw
 dg
@@ -2165,7 +2164,6 @@ dividends
 diving
 division
 divoom
-diy
 dkim
 dkschrutebeets
 dl
@@ -2215,7 +2213,6 @@ dockerize
 dockerswarm
 docking
 docs
-docset
 document
 documentation
 documentdb
@@ -2240,7 +2237,6 @@ domainname
 domainnamesystem
 domains
 domino
-done.land
 donothing
 dos
 dot
@@ -2419,7 +2415,6 @@ efi
 egrep
 eid
 eigencontroles
-einstein
 eklient psedition_core psedition_desktop
 elapsed
 elastic
@@ -2736,7 +2731,6 @@ fastlinq
 fastlookup
 fastping
 fasttrack
-fat32
 favorite
 favorites
 fb-pro
@@ -2779,6 +2773,7 @@ file-name-extension
 file-name-extension-association
 file-server
 file-share
+file-size
 file-system
 file-transfer
 file-transform
@@ -2902,6 +2897,7 @@ fog
 fogapi
 fogproject
 folder
+folder-size
 folderpermission
 folders
 font
@@ -3719,6 +3715,7 @@ intellisearch
 intellisense
 interactive
 interactive-brokers
+interchange
 interface
 interlogix
 internal
@@ -4039,12 +4036,12 @@ labtest
 labworker
 lake
 lambda
+lambdatest
 lame
 lametrictime
 lan
 landingzones
 language
-language-model
 languageai
 languagedsc
 languageexperiencepack
@@ -4064,6 +4061,7 @@ latestupdate
 latin
 latitude
 launcher
+laws
 layer
 layman
 layout
@@ -4120,6 +4118,8 @@ lifequotes
 lifestyle
 light
 lights
+lime
+limesurvey
 limit
 limit-job
 limits
@@ -4174,7 +4174,6 @@ loandepot
 loc
 local
 local-account
-local-ai
 local-caching
 local-policy
 local-users
@@ -4302,7 +4301,6 @@ mac-address
 macaddress
 macadmins
 machine
-machine-learning
 machinelearning
 machinelearningcompute
 machinelearningmodels
@@ -4551,6 +4549,7 @@ microsoftintune
 microsoftmvp
 microsoftoffice
 microsoftonline
+microsoftsentinel
 microsoftstaffhub
 microsoftstore
 microsoftteams
@@ -4611,7 +4610,6 @@ mock
 mocking
 modding
 model
-model-management
 modeldeployment
 modeling
 models
@@ -4937,7 +4935,6 @@ nl
 nla
 nlm
 nlog
-nlp
 nmap
 nmbell
 nmm
@@ -5058,16 +5055,13 @@ octopus.client
 octopusdeploy
 octopusenergy
 ocvp
-od4b
 oda
 odata
 odbc
-odfb
 odin
 odoo
 oem-charset
 oembed
-offboard
 offboarding
 offence
 office
@@ -5116,7 +5110,6 @@ ondemand
 one
 one-liner
 onedrive
-onedriveforbusiness
 oneget
 oneidentity
 onelogin
@@ -5149,7 +5142,6 @@ open
 open-ai
 open-ssh
 openai
-openaiclient
 openamt
 openapi
 opendata
@@ -5157,7 +5149,6 @@ openedge
 openfiles
 opengraph
 openhere
-openholidaysapi
 openid
 openidconnect
 openinghours
@@ -5392,6 +5383,10 @@ pcsetup
 pcsv
 pdb
 pdf
+pdf-document-processor
+pdf-files
+pdf-generation
+pdf-redaction
 pdfbox
 pdq
 pe
@@ -5682,7 +5677,6 @@ powersaving
 powerscheme
 powershell
 powershell_universal
-powershell-ai
 powershell-class
 powershell-cmdlets
 powershell-core
@@ -5738,6 +5732,7 @@ powerstore
 powertab
 powertoolcmdlets
 powertooldsc
+powertree
 ppdm
 ppk
 pposh
@@ -8789,7 +8784,6 @@ psjob
 psjobs
 psjobthreads
 pskeepass
-psllm
 pslocalgallery
 psloganalytics
 psm
@@ -8870,7 +8864,6 @@ public-transport
 publicapi
 publicclient
 publicfolder
-publicholidays
 publicip
 publish
 publish-module
@@ -8893,6 +8886,7 @@ pure
 pure1
 pureservice
 purestorage
+purfew
 purple
 purview
 push
@@ -8984,7 +8978,6 @@ rabbitmq
 rackspace
 radarr
 radio
-rag
 raidcontrollercmdlets
 railways
 rainbow
@@ -9473,7 +9466,6 @@ schema
 schemaextensions
 scheme
 school-information-system
-schoolholidays
 schulung
 schulverwaltung
 science
@@ -9484,7 +9476,6 @@ scom
 sconfig
 scoop
 scope
-scopes
 score
 scouterna
 scouternasetjanster
@@ -9667,6 +9658,7 @@ serviceconnectionpoint
 servicecontrol
 servicedesk
 servicedeskplus
+serviceendpoints
 servicefabric
 servicelinker
 servicemanagementautomation
@@ -10040,7 +10032,6 @@ sqlitebynarymodule
 sqlitebynarypsmodule
 sqlitemodule
 sqllocaldb
-sqlmanagementobjects
 sqlpackage
 sqlplus
 sqlproj
@@ -10051,7 +10042,6 @@ sqlserver
 sqlserveragent
 sqlserverbynarymodule
 sqlserverbynarypsmodule
-sqlserverclient
 sqlservermodule
 sqlvirtualmachine
 sqlvm
@@ -10124,7 +10114,6 @@ stateless
 static
 staticanalysis
 statichtmlsites
-staticip
 staticsite
 statistical
 statistics
@@ -10248,6 +10237,7 @@ supress-reboot
 surestacks
 surround
 surveillance
+survey
 surveymonkey
 sus
 sushi
@@ -10476,7 +10466,6 @@ testtag2
 testtool
 testusers
 text
-text_to_speech
 text-based
 text-emoji
 text-emojis
@@ -10525,6 +10514,7 @@ threat-hunting
 threatdefense
 threathunting
 threatintelligence
+threatintelligenceindicators
 threatintelligenceplatform
 threats
 threatsharing
@@ -10736,6 +10726,7 @@ ucs
 ucspowertool
 ud-avataaar
 ud-badgebutton
+ud-badgelink
 ud-breadcrumb
 ud-breadcrumbitem
 ud-burger
@@ -10868,6 +10859,8 @@ updmgmt
 upgrade
 uplift
 uplink
+uploadindicators
+uploadindicatorsapi
 ups
 upsource
 upstream
