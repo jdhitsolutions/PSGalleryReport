@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 26 May 2025 17:52:06 UTC
+Updated: Tuesday, 27 May 2025 02:24:08 UTC
 
 .bat
 .env
@@ -254,7 +254,6 @@ adxingestion
 aem
 aeries
 aeriessis
-aerofetch
 aes
 aesgcm
 afd
@@ -452,7 +451,6 @@ applicationmonitor
 applications
 applicationworkspace
 applocker
-apply
 appmgmtcontrol
 apppool
 appraiser
@@ -523,6 +521,7 @@ artefactual
 artifact
 artifactory
 artifacts
+artificial-intelligence
 artificialintelligence
 aruba
 as
@@ -558,6 +557,7 @@ assessment
 asset
 assetintelligencepoint
 assets
+assist
 assistance
 assistant
 association
@@ -909,7 +909,6 @@ bicepnet
 big-ip
 big-iq
 bigcommerce
-bigeval
 bigfix
 bigquery
 bikeshed
@@ -1091,6 +1090,7 @@ caf
 caffeine
 cal
 calc
+calculate
 calculator
 calendar
 callingcode
@@ -1673,8 +1673,6 @@ couchbase
 couchdb
 couchpotato
 count
-count-lines-of-code
-count-loc
 countdown
 counter
 countries
@@ -1971,6 +1969,7 @@ decode64
 decoding
 decompiler
 decrypt
+decryption
 dedicatedhsm
 deduplication
 deep
@@ -2261,14 +2260,11 @@ doubleclick
 down
 download
 downloader
-downloadfacebookvideo
-downloadfilefromsite
 downloadinfo
 downloading
 downloadoffice
 downloadofficertool
 downloads
-downloadyoutubevideo
 dozent
 dpa
 dpapi
@@ -2849,7 +2845,6 @@ find-call
 find-caller
 find-file
 find-path
-finddownloadlinkfromwebsite
 findfile
 findlocation
 findplace
@@ -2950,6 +2945,9 @@ forwardcompatibility
 forwardedevents
 foudil
 foundationmodels
+fount
+fount-pwsh
+fountassist
 fox
 foxpro
 fqdn
@@ -3100,6 +3098,7 @@ get-externalip
 get-firmwaretype
 get-help
 get-history
+get-iislog
 get-inactivedevicesreport
 get-inactiveusersreport
 get-lockedusersreport
@@ -3122,7 +3121,6 @@ get-usersorgunitreport
 getfirmwareenvironmentvariable
 getfirmwaretype
 ggplot
-gh
 gh-actions
 ghactions
 ghc
@@ -3140,7 +3138,6 @@ git-lfs
 git-open
 git-proxy
 git-rename
-git-stat
 gitcmdline
 gitdesktop
 gitea
@@ -3429,7 +3426,6 @@ holiday
 home
 home_automation
 homebrew
-homelab
 homelandsecurity
 homeschooling
 hometheater
@@ -3861,8 +3857,6 @@ jde
 jdedwards
 jdt
 jea
-jea_module
-jeanalyzer
 jekyll
 jenkins
 jetbrains
@@ -4175,7 +4169,6 @@ loader
 loadtesting
 loanddepot
 loandepot
-loc
 local
 local-account
 local-ai
@@ -4289,6 +4282,7 @@ luma
 lumaai
 lunar
 lunches
+lustrefilestorage
 lwa
 lxca
 lxcapstool
@@ -4298,6 +4292,7 @@ lync
 m365
 m365defenderstuff
 m365dsc
+maas360
 maatschap-fortigi
 mac
 mac-address
@@ -4331,6 +4326,7 @@ mailmessage
 mails
 main
 main-menu
+maintain-module
 maintenance
 maintenance-window
 maintenancewindows
@@ -4442,7 +4438,6 @@ mdx
 me4024
 mean
 measure
-measure-loc
 measure-process
 mecm
 media
@@ -4619,6 +4614,7 @@ models
 modern
 modify
 module
+module-maintenance
 module-manifest
 module-publishing
 module-publishing-framework
@@ -4647,8 +4643,6 @@ monitor
 monitor psmodule
 monitorinformation
 monitoring
-monitoring_objects
-monitoring_variables
 monitoringplugins
 monitoringsolutions
 monitors
@@ -4741,6 +4735,7 @@ multi
 multi-agent
 multi-factor
 multi-language
+multi-platform
 multi-tenant
 multi-threading
 multi-zone
@@ -4748,6 +4743,7 @@ multicloud
 multicultural
 multidimenstional
 multimedia
+multios
 multipart
 multipass
 multiple
@@ -5200,7 +5196,6 @@ oracle
 oraclecloudinfrastructure
 oraculum
 orbital
-orchestrate
 orchestration
 orchestrator
 order
@@ -5367,7 +5362,6 @@ patches
 patching
 patchtuesday
 path
-pathfinder
 pathmanagement
 patternmatching
 paulo
@@ -5423,7 +5417,6 @@ personal
 personalisation
 personalization
 personalvault
-personio
 pester
 pesterassertion
 pf
@@ -5469,7 +5462,6 @@ pipedrive
 pipeline
 pipelinelastexecution
 pipelines
-pipenv
 pipescript
 piraeus
 piv
@@ -5501,6 +5493,9 @@ plc
 plc4net
 plc4netps
 plc4x
+plc4x™
+plconnet
+plconnetps
 pleasant
 pleasantpasswordserver
 plex
@@ -5610,7 +5605,6 @@ poshy-wrap-docker-compose
 poshy-wrap-dotnet
 poshy-wrap-forgit
 poshy-wrap-gem
-poshy-wrap-gh
 poshy-wrap-git
 poshy-wrap-git-flow
 poshy-wrap-git-lfs
@@ -5622,7 +5616,6 @@ poshy-wrap-nginx
 poshy-wrap-nmap
 poshy-wrap-npm
 poshy-wrap-pip
-poshy-wrap-pipenv
 poshy-wrap-pyenv
 poshy-wrap-pylint
 poshy-wrap-python
@@ -5867,7 +5860,6 @@ proxmox
 proxmoxve
 proxsys
 proxy
-proxyfunction
 proxyfunctions
 prtg
 prtg_network_monitor
@@ -6706,12 +6698,6 @@ pscommand_invoke-gitflowreleasepublish
 pscommand_invoke-gitflowreleasepublishcurrent
 pscommand_invoke-gitflowreleasestart
 pscommand_invoke-gitgui
-pscommand_invoke-githubapi
-pscommand_invoke-githubapi-bodyempty
-pscommand_invoke-githubapi-bodyfields
-pscommand_invoke-githubapi-bodyfile
-pscommand_invoke-githubapi-bodyjson
-pscommand_invoke-githubapi-bodyraw
 pscommand_invoke-gitlfsinstall
 pscommand_invoke-gitlfsmigrateimport
 pscommand_invoke-gitmerge
@@ -6896,21 +6882,6 @@ pscommand_invoke-npmstart
 pscommand_invoke-npmtest
 pscommand_invoke-npmupdate
 pscommand_invoke-npmversion
-pscommand_invoke-pipenvcheck
-pscommand_invoke-pipenvclean
-pscommand_invoke-pipenvgraph
-pscommand_invoke-pipenvinstall
-pscommand_invoke-pipenvinstalldev
-pscommand_invoke-pipenvlock
-pscommand_invoke-pipenvopen
-pscommand_invoke-pipenvpy
-pscommand_invoke-pipenvrun
-pscommand_invoke-pipenvshell
-pscommand_invoke-pipenvsync
-pscommand_invoke-pipenvuninstall
-pscommand_invoke-pipenvupdate
-pscommand_invoke-pipenvvenv
-pscommand_invoke-pipenvwhere
 pscommand_invoke-pipinstall
 pscommand_invoke-pipinstallupgrade
 pscommand_invoke-piplistoutdated
@@ -7358,12 +7329,7 @@ pscommand_npmt
 pscommand_npmu
 pscommand_npmv
 pscommand_open_command
-pscommand_pch
-pscommand_pcl
 pscommand_peek
-pscommand_pgr
-pscommand_pi
-pscommand_pidev
 pscommand_ping
 pscommand_pip
 pscommand_pip_package_location
@@ -7381,15 +7347,8 @@ pscommand_pipu
 pscommand_pipun
 pscommand_pipunall
 pscommand_pipupall
-pscommand_pl
-pscommand_po
 pscommand_pop-gitstashentry
-pscommand_ppy
 pscommand_proxy-help
-pscommand_prun
-pscommand_psh
-pscommand_psy
-pscommand_pu
 pscommand_publish-gitcommitsforcefullywithlease
 pscommand_publish-gitcommitssettingupstream
 pscommand_publish-gitcommitssettingupstreamtoorigin
@@ -7398,12 +7357,9 @@ pscommand_publish-gitcommitstooriginfromhead
 pscommand_publish-gitcommitstooriginmain
 pscommand_publish-gitcommitswithtags
 pscommand_publish-gitrepositorytosvn
-pscommand_pupd
 pscommand_push-gitstashentry
 pscommand_push-gitstashentrywithmessage
 pscommand_pushgr
-pscommand_pvenv
-pscommand_pwh
 pscommand_pwshrc-show-proxy
 pscommand_py
 pscommand_pyenv
@@ -8121,12 +8077,6 @@ psfunction_invoke-gitflowreleasepublish
 psfunction_invoke-gitflowreleasepublishcurrent
 psfunction_invoke-gitflowreleasestart
 psfunction_invoke-gitgui
-psfunction_invoke-githubapi
-psfunction_invoke-githubapi-bodyempty
-psfunction_invoke-githubapi-bodyfields
-psfunction_invoke-githubapi-bodyfile
-psfunction_invoke-githubapi-bodyjson
-psfunction_invoke-githubapi-bodyraw
 psfunction_invoke-gitlfsinstall
 psfunction_invoke-gitlfsmigrateimport
 psfunction_invoke-gitmerge
@@ -8311,21 +8261,6 @@ psfunction_invoke-npmstart
 psfunction_invoke-npmtest
 psfunction_invoke-npmupdate
 psfunction_invoke-npmversion
-psfunction_invoke-pipenvcheck
-psfunction_invoke-pipenvclean
-psfunction_invoke-pipenvgraph
-psfunction_invoke-pipenvinstall
-psfunction_invoke-pipenvinstalldev
-psfunction_invoke-pipenvlock
-psfunction_invoke-pipenvopen
-psfunction_invoke-pipenvpy
-psfunction_invoke-pipenvrun
-psfunction_invoke-pipenvshell
-psfunction_invoke-pipenvsync
-psfunction_invoke-pipenvuninstall
-psfunction_invoke-pipenvupdate
-psfunction_invoke-pipenvvenv
-psfunction_invoke-pipenvwhere
 psfunction_invoke-pipinstall
 psfunction_invoke-pipinstallupgrade
 psfunction_invoke-piplistoutdated
@@ -8811,7 +8746,6 @@ psngenposh
 psobject
 psoutlog
 pspath
-pspersonio
 pspowerhour
 psprofiler
 psproject
@@ -8875,6 +8809,7 @@ publish
 publish-module
 publishedmodules
 publisher
+publishers
 publishing
 pubsub
 pubxml
@@ -9204,7 +9139,6 @@ reportingservicepoint
 reportingservices
 reportportal
 reportportal.io
-reportrunner
 reports
 reportserver
 repos
@@ -9454,6 +9388,7 @@ sccminstall
 sccmpackage
 sccmprereqs
 scep
+scepman
 sch
 schannel
 schannelpolicydsc
@@ -9505,8 +9440,6 @@ screenshot
 script
 script_version
 script-module
-script-to-assembly
-script-to-executable
 scriptanalyzer
 scriptblock
 scriptblocklogging
@@ -9520,7 +9453,6 @@ scripting
 scriptlog
 scriptlogging
 scriptmodule
-scriptoform
 scriptrunner
 scripts
 scriptsmonitoring
@@ -9629,9 +9561,11 @@ sendgrid
 sendkeys
 sendmail
 sense
+sensitive
 sensitivity
 sensor
 sensors
+sensu
 sentinel
 sentinelone
 sentry
@@ -9773,7 +9707,6 @@ shred
 shuf
 shutdown
 sid
-sidecar
 siem
 sif
 sigma
@@ -9883,7 +9816,6 @@ snapping
 snapshot
 snapshots
 sni
-snipe-it
 snippet
 snippets
 snippets-manager
@@ -9972,7 +9904,6 @@ speaker
 spec
 specification
 specify
-specs
 spectre
 spectre.console
 spectrumconnect
@@ -10386,6 +10317,7 @@ tcpip
 tcpport
 tcprjmgmt
 tcpserver
+tcptest
 tcx
 tcxaemgmt
 tdd
@@ -10409,7 +10341,6 @@ techlog
 technicalanalysis
 technology
 techsmith
-tel
 telegram
 telegram-bot
 telegram-bot-api
@@ -10462,7 +10393,6 @@ test-userisadministrator
 test-xml
 test123
 testaccount
-testautomation
 tester
 testimonial
 testing
@@ -10571,9 +10501,6 @@ toc
 todo
 todo.txt
 toggl
-toggl-api
-toggl-api-powershell
-toggl-api-ps
 toggle
 token
 tokenlifetime
@@ -10609,6 +10536,7 @@ tr064
 trace
 traceevent
 tracer
+tracert
 tracing
 tracker
 tracking
@@ -10661,10 +10589,10 @@ tribeloo
 trick
 tricks
 trigger
+triggers
 trilium
 triliumnext
 triodos
-tripunkt
 troubleshoot
 troubleshooting
 trouw
@@ -10710,7 +10638,6 @@ twitter
 twitter-api
 twitter-api-v2
 twitter-client
-twitter-follow
 twitter-hashtag
 twitter-mention
 twitter-share
@@ -10735,6 +10662,7 @@ ucs
 ucspowertool
 ud-avataaar
 ud-badgebutton
+ud-badgelink
 ud-breadcrumb
 ud-breadcrumbitem
 ud-burger
@@ -10790,6 +10718,7 @@ udcm
 udfeedback
 udp
 udpclient
+udptest
 udr
 udthememode
 udword
@@ -11004,6 +10933,7 @@ version
 versioncontrol
 versioning
 versionmanager
+versionnumber
 vertical
 vester
 vhd
@@ -11241,6 +11171,7 @@ websockets
 websphere
 websphereappserver
 websphereportal
+webtest
 webtesting
 webtime
 webview2
@@ -11444,7 +11375,6 @@ wordlist
 wordpress
 wordwrap
 workbook
-workday
 worker
 workflow
 workflowmax
@@ -11582,6 +11512,7 @@ yamaha
 yaml
 yandex
 yandexdisk
+yapg
 yarn
 year
 yetanotherhelloworld
