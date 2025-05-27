@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Tuesday, 27 May 2025 09:52:06 UTC
+Updated: Tuesday, 27 May 2025 17:51:58 UTC
 
 .bat
 .env
@@ -254,7 +254,6 @@ adxingestion
 aem
 aeries
 aeriessis
-aerofetch
 aes
 aesgcm
 afd
@@ -309,6 +308,7 @@ albums
 alc
 alero
 alert
+alerting
 alertmail
 alertmanagement
 alerts
@@ -331,6 +331,7 @@ alpha
 alphafs
 alpine
 alt3
+alter
 alteryx
 alwaysontop
 alwaysonvpn
@@ -768,7 +769,6 @@ azurecognitiveservices
 azurecommonstuff
 azurecontainerapps
 azurecontainers
-azuredatabricks
 azuredataexplorer
 azuredatastudio
 azuredevops
@@ -979,6 +979,7 @@ bmc
 bms
 bnm
 boards
+bofh
 boilerplate
 boinc
 bold-text
@@ -1089,6 +1090,7 @@ caf
 caffeine
 cal
 calc
+calculate
 calculator
 calendar
 callingcode
@@ -1153,7 +1155,6 @@ cd-up
 cd+
 cdable_vars
 cdata
-cdb
 cdi
 cdm
 cdn
@@ -1274,6 +1275,7 @@ cireson
 ciresonassetmanagement
 ciresonportal
 cis
+cis-benchmark
 cisa
 cisco
 ciscoucscmdlets
@@ -1328,7 +1330,6 @@ clientsettingssoftwareupdate
 clientsettingsstatemessaging
 clientsettingsuserdeviceaffinity
 clientstatussettings
-clihelper.core
 clihelper.logger
 clihelper.semver
 clihelper.trends
@@ -1346,6 +1347,7 @@ cloud-backup
 cloud-computing
 cloud-init
 cloud-iq
+cloud-security-configuration-review
 cloudai
 cloudant
 cloudbees
@@ -1545,6 +1547,7 @@ configurationkey
 configurationmanagement
 configurationmanager
 configurationprofile
+configurations
 configure
 confluence
 confluent
@@ -1727,7 +1730,6 @@ credman
 credmanager
 crescendo
 crescendobuilt
-cresendo
 crestron
 cricket
 crime
@@ -1757,6 +1759,7 @@ csharp
 csharp-watch
 csom
 csp
+cspm
 csproj
 css
 csv
@@ -2213,11 +2216,11 @@ dockerize
 dockerswarm
 docking
 docs
-docset
 document
 documentation
 documentdb
 documentencryption
+documenting
 documents
 docusaurus
 docusign
@@ -2249,6 +2252,7 @@ dotnet-cli
 dotnet-tool
 dotnettool
 dotps1
+dots
 dotteddecimalip
 doubleclick
 down
@@ -2417,6 +2421,7 @@ eid
 eigencontroles
 einstein
 eklient psedition_core psedition_desktop
+elapsed
 elastic
 elasticsan
 elasticsearch
@@ -2502,6 +2507,7 @@ entra-id
 entracloudsync
 entraconnect
 entraid
+entraid-security-assessment
 entraidgovernance
 entropy
 entrust
@@ -2620,11 +2626,14 @@ exceptionless
 exchange
 exchange_online
 exchange-rates
+exchange2010
 exchange2013
 exchange2016
 exchangecluster
 exchangehybrid
 exchangemigration
+exchangeon-premise
+exchangeon-premises
 exchangeonline
 exchangeonlinemanagement
 exchangeonlineprotection
@@ -2656,7 +2665,6 @@ expand-tab
 expandframework
 expect
 experience
-experiments
 expiration
 expired
 expiring
@@ -2675,7 +2683,6 @@ exportcertificates
 exporter
 exportexcel
 exportteams
-expression
 extend
 extended
 extendedattributes
@@ -2692,7 +2699,6 @@ extensions
 external
 externalip
 extract
-extraction
 extractor
 extreme-networks
 eye-candy
@@ -2716,6 +2722,7 @@ fallbackstatuspoint
 fanarttv
 fancy
 faq
+farm
 farmanager
 fast
 fast-dds
@@ -2727,6 +2734,7 @@ fastlookup
 fastping
 fasttrack
 fat32
+favorite
 favorites
 fb-pro
 fciv
@@ -2760,7 +2768,6 @@ file-encoding
 file-extension
 file-extension-association
 file-invalidchar
-file-management
 file-matcher
 file-matching
 file-monitoring
@@ -2878,6 +2885,7 @@ flex-query
 flexdesk
 flexible
 flickr
+flowchart
 flowy
 fluidrelay
 flurl
@@ -2955,7 +2963,6 @@ freshservice
 freshservice-api
 freshserviceps
 freshworks
-friendly
 fritz
 fritzbox
 front
@@ -3126,7 +3133,6 @@ git-client
 git-clone
 git-flow
 git-lfs
-git-open
 git-proxy
 git-rename
 git-stat
@@ -3184,6 +3190,11 @@ googledrive
 googlemap
 googlemaps
 googleworkspace
+gopher
+gopher-tls
+gopher+
+gopherplus
+gophers
 governance
 governancerulescontrolplane
 gp
@@ -3299,10 +3310,10 @@ hardlink
 hardmatch
 hardware
 harperdb
-hartokens
 harvest
 harvestforecast
 hash
+hash-verification
 hashcat
 hashicorp
 hashing
@@ -3413,7 +3424,6 @@ holiday
 home
 home_automation
 homebrew
-homelab
 homelandsecurity
 homeschooling
 hometheater
@@ -3552,7 +3562,6 @@ idf
 idm
 idn
 idna
-idoit
 idrac
 ids
 ie
@@ -3560,7 +3569,9 @@ iem
 ifconfig
 ifttt
 igel
+igr
 ihs
+iiittttt
 iis
 iisadministration
 iiscrypto
@@ -3603,6 +3614,7 @@ imperva
 import
 import-csv
 import-dtdriverpackpackagedefinitionsms
+import-module
 import-modulefrompath
 import-passlist
 import-sampackagedefinitionsms
@@ -3682,6 +3694,7 @@ instapush
 instorage
 int
 intacct
+integrated
 integratedscriptingeditor
 integration
 integrationaccount
@@ -3836,12 +3849,11 @@ javamanager
 javascript
 javaversion
 jboss
+jdbc
 jde
 jdedwards
 jdt
 jea
-jea_module
-jeanalyzer
 jekyll
 jenkins
 jetbrains
@@ -3979,7 +3991,6 @@ kraken
 krane
 krbtgt
 krick
-kschemaplugin
 kubclt
 kube
 kubeconfig
@@ -4019,7 +4030,6 @@ labtest
 labworker
 lake
 lambda
-lambdatest
 lame
 lametrictime
 landingzones
@@ -4103,7 +4113,6 @@ light
 lights
 lime
 limesurvey
-limit
 limit-job
 limits
 lina
@@ -4179,6 +4188,7 @@ lock
 lockbox
 lockdisplaytimeout
 lockdown
+lockfile
 locking
 lockoutreport
 lockscreen
@@ -4229,6 +4239,7 @@ logo
 logoff
 logon
 logonright
+logonscript
 logontask
 logonto
 logonuser
@@ -4397,6 +4408,7 @@ max_path
 maximum
 maxoffice
 mazerat
+mb
 mbc
 mbs
 mc
@@ -4437,6 +4449,7 @@ meeting
 meetup
 meetup.com
 meewind
+megabyte
 melamed
 meltdown
 mem
@@ -4493,6 +4506,7 @@ microsoft_azure
 microsoft_endpoint_manager
 microsoft_online
 microsoft_teams
+microsoft-entra
 microsoft-entra-id
 microsoft-graph
 microsoft-sentinel
@@ -4507,6 +4521,7 @@ microsoft.logic
 microsoft.logic/workflows
 microsoft.web.administration
 microsoft365
+microsoft365-security
 microsoft365dsc
 microsoftauthenticationlibrary
 microsoftazure
@@ -4545,6 +4560,7 @@ migrations
 mikrotik
 milestone
 milestonepstools
+mim
 mime
 mimekit
 min
@@ -4663,7 +4679,6 @@ msal
 msaltoken
 msauth
 msband
-msbi
 msbuild
 msdeploy
 msdn
@@ -4671,7 +4686,6 @@ msdtc
 msedge
 msexcel
 msexchange
-msft
 msftnet
 msftnetworking
 msg
@@ -4720,6 +4734,7 @@ multi-factor
 multi-language
 multi-platform
 multi-tenant
+multi-thread
 multi-threading
 multi-zone
 multicloud
@@ -5028,7 +5043,6 @@ ocgv
 oci
 ocicontrolcenter
 ocr
-octoprint
 octopus
 octopus-deploy
 octopus.client
@@ -5048,6 +5062,7 @@ offboarding
 offence
 office
 office_365
+office-365-security
 office2010
 office2013
 office2016
@@ -5239,6 +5254,7 @@ output
 output-to-image
 outreach
 outsystems
+overbite
 ovf
 ovgd
 ovh
@@ -5371,7 +5387,6 @@ pdf-files
 pdf-generation
 pdf-redaction
 pdfbox
-pdq
 pe
 peek
 peering
@@ -5400,13 +5415,13 @@ personal
 personalisation
 personalization
 personalvault
-personio
 pester
 pesterassertion
 pf
 pfe
 pfsense
 pfx
+pfy
 pgp
 phabricator
 philips
@@ -5497,7 +5512,6 @@ pnp
 pnp.powershell
 pnpm
 poc
-podcast
 pode
 poe
 poem
@@ -5531,6 +5545,7 @@ population
 popup
 port
 port-scanner
+port70
 portal
 portchecker
 porthunter
@@ -5607,6 +5622,7 @@ poshy-wrap-python
 poshy-wrap-ruby
 poshy-wrap-systemctl
 poshy-wrap-terraform
+poshy-wrap-terragrunt
 poshy-wrap-tmux
 poshy-wrap-vagrant
 poshy-wrap-vault
@@ -5713,7 +5729,6 @@ powerstore
 powertab
 powertoolcmdlets
 powertooldsc
-powertree
 ppdm
 ppk
 pposh
@@ -7014,6 +7029,15 @@ pscommand_invoke-terraforminit
 pscommand_invoke-terraformoutput
 pscommand_invoke-terraformplan
 pscommand_invoke-terraformvalidate
+pscommand_invoke-terragrunt
+pscommand_invoke-terragruntapply
+pscommand_invoke-terragruntapplyall
+pscommand_invoke-terragruntdestroy
+pscommand_invoke-terragruntdestroyall
+pscommand_invoke-terragruntplan
+pscommand_invoke-terragruntplanall
+pscommand_invoke-terragruntvalidate
+pscommand_invoke-terragruntvalidateall
 pscommand_invoke-tmuxattachforterminal
 pscommand_invoke-tmuxattachforterminaldetachingothers
 pscommand_invoke-tmuxeditconfig
@@ -7484,6 +7508,15 @@ pscommand_tfi
 pscommand_tfo
 pscommand_tfp
 pscommand_tfv
+pscommand_tg
+pscommand_tga
+pscommand_tgaa
+pscommand_tgd
+pscommand_tgda
+pscommand_tgp
+pscommand_tgpa
+pscommand_tgv
+pscommand_tgva
 pscommand_tkss
 pscommand_tksv
 pscommand_tl
@@ -7659,7 +7692,6 @@ psdesiredstateconfiguration
 psdevops
 psdocs
 psdocs-documents
-psdocsgenerator
 psdrawio
 psdrive
 psdrives
@@ -8411,6 +8443,15 @@ psfunction_invoke-terraforminit
 psfunction_invoke-terraformoutput
 psfunction_invoke-terraformplan
 psfunction_invoke-terraformvalidate
+psfunction_invoke-terragrunt
+psfunction_invoke-terragruntapply
+psfunction_invoke-terragruntapplyall
+psfunction_invoke-terragruntdestroy
+psfunction_invoke-terragruntdestroyall
+psfunction_invoke-terragruntplan
+psfunction_invoke-terragruntplanall
+psfunction_invoke-terragruntvalidate
+psfunction_invoke-terragruntvalidateall
 psfunction_invoke-tmuxattachforterminal
 psfunction_invoke-tmuxattachforterminaldetachingothers
 psfunction_invoke-tmuxeditconfig
@@ -8723,8 +8764,6 @@ psgraph
 psgraylog
 pshdhomerun
 pshtml
-psidoit
-psidoitng
 psimport
 psincludes_cmdlet
 psincludes_command
@@ -8761,7 +8800,6 @@ psngenposh
 psobject
 psoutlog
 pspath
-pspersonio
 pspowerhour
 psprofiler
 psproject
@@ -9100,6 +9138,7 @@ remote
 remote-browser
 remote-desktop
 remote'
+remoteaccess
 remoteadmin
 remotecert
 remoteconnection
@@ -9220,9 +9259,11 @@ reword
 rewrite
 rexec
 rfc1305
+rfc1436
 rfc2030
 rfc3986
 rfc4007
+rfc4266
 rfc4291
 rfc5952
 rfc826
@@ -9369,6 +9410,7 @@ sap
 sapazure
 saponazure
 sapstartstopazure
+sarcasm
 sarif
 sas
 sat
@@ -9504,7 +9546,6 @@ secrets
 secretsanta
 secretscanner
 secretserver
-secretsmanagement
 secretsmanager
 secretstore
 secretvault
@@ -9515,6 +9556,8 @@ secureapplicationmodel
 secureboot
 securechannel
 securedns
+securegopher
+securegopher+
 securemfa
 securerdp
 securescore
@@ -9659,6 +9702,7 @@ sfb
 sfc
 sftp
 sfx
+sgopher
 sgw
 sha-256
 sha-512
@@ -9784,13 +9828,13 @@ skytap
 slack
 slash
 slashcommands
-sleeper
 slideshow
 slmgr
 sln
 slugify
 sm
 sma
+small_web
 smart_home
 smartarray
 smartarraycmdlets
@@ -9828,7 +9872,6 @@ snapping
 snapshot
 snapshots
 sni
-snipe-it
 snippet
 snippets
 snippets-manager
@@ -9886,7 +9929,6 @@ sophos
 sort
 sort-json
 sorting
-sounds
 source
 source-dedicated-server
 sourcecontrol
@@ -9917,9 +9959,7 @@ speaker
 spec
 specification
 specify
-specs
 spectre
-spectre.console
 spectrumconnect
 spectrumcontrolbase
 speculation
@@ -9992,7 +10032,6 @@ sqlproject
 sqlps
 sqlquery
 sqlserver
-sqlserveragent
 sqlserverbynarymodule
 sqlserverbynarypsmodule
 sqlserverclient
@@ -10001,7 +10040,6 @@ sqlvirtualmachine
 sqlvm
 sqr
 sqrt
-square
 squire
 srcds
 srcsrv
@@ -10061,6 +10099,7 @@ startmen
 startmenu
 starttls
 starwars
+stash
 stat
 state
 stateless
@@ -10233,6 +10272,7 @@ syntax
 syntax-highlighting
 syntaxcheck
 syntaxhighlighter
+synthesis
 synthetics
 sysadmin
 sysadmin-tool
@@ -10245,6 +10285,7 @@ syskit
 syslog
 sysman
 sysmon
+sysop
 syspass
 syspip
 syspip3
@@ -10389,6 +10430,7 @@ terraform-docs
 terraform-switcher
 terraformcloud
 terrafun
+terragrunt
 tesla
 test
 test-automation
@@ -10646,7 +10688,6 @@ tv
 tvguide
 tweet
 twig
-twilio
 twincat
 twinkly
 twitch
@@ -10679,6 +10720,7 @@ ucs
 ucspowertool
 ud-avataaar
 ud-badgebutton
+ud-badgelink
 ud-breadcrumb
 ud-breadcrumbitem
 ud-burger
@@ -10736,6 +10778,7 @@ udp
 udpclient
 udptest
 udr
+udthememode
 udword
 uefi
 uem
@@ -10936,6 +10979,7 @@ veeva
 venafi
 vencord
 vendor
+vendorpam
 venue
 venvlink
 vera
@@ -10947,6 +10991,7 @@ version
 versioncontrol
 versioning
 versionmanager
+versionnumber
 vertical
 vester
 vhd
@@ -11084,6 +11129,7 @@ vss
 vssetup
 vsshell
 vst
+vsteambuilder
 vsteams
 vstest
 vsts
@@ -11202,7 +11248,6 @@ what3words
 whatif
 whatismyip
 whatsnew
-whatsupgold
 whd
 where
 whfb
@@ -11413,7 +11458,6 @@ worryfreebusinesssecurity
 wow
 wpad
 wpf
-wql
 wrap
 wrap-text
 wrapper
@@ -11452,7 +11496,7 @@ wtsapi32
 wttr
 wttr.in
 wtx
-wug
+wu
 wunderlist
 wus
 wvd
@@ -11470,6 +11514,7 @@ x509certificates
 x509chain
 x64
 x86
+xa
 xaf
 xaml
 xbase
@@ -11520,8 +11565,6 @@ yahw
 yamaha
 yaml
 yandex
-yandexdisk
-yapg
 yarn
 year
 yetanotherhelloworld
@@ -11541,7 +11584,6 @@ z
 zabbix
 zabbix7
 zabbixps
-zap
 zap-zsh
 zcat
 zendesk
