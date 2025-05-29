@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Thursday, 29 May 2025 02:25:02 UTC
+Updated: Thursday, 29 May 2025 09:51:58 UTC
 
 .bat
 .env
@@ -29,7 +29,6 @@ Updated: Thursday, 29 May 2025 02:25:02 UTC
 1709
 1803
 1809
-1c
 1e
 1password
 1poshword
@@ -234,7 +233,6 @@ adr
 ads
 adsi
 adsite
-adsp
 adsync
 adt
 aduser
@@ -281,6 +279,7 @@ aiapplications
 aiautomation
 aidocument
 aiintegration
+ailanguage
 aim
 aimodels
 aip
@@ -308,7 +307,6 @@ albums
 alc
 alero
 alert
-alerting
 alertmail
 alertmanagement
 alerts
@@ -381,8 +379,10 @@ anonymous
 anova
 ansi
 ansible
+ansible-control-node
 ansible-playbook
 ansible-vault
+ansiblecontrolnode
 ansibletower
 anthropic
 anti-malware
@@ -502,6 +502,7 @@ argument
 argumentcompleter
 arguments
 ari
+arizeai
 arm
 arm-json
 arm-templates
@@ -578,6 +579,7 @@ atproto
 atprotocol
 atrium
 att&ck
+attach
 attestation
 attila
 attribute
@@ -759,6 +761,7 @@ azureautomationaccount
 azureautomationnotsupported
 azurebasicloadbalancerupgrade
 azurecli
+azurecodesigning
 azurecognitiveservices
 azurecommonstuff
 azurecontainerapps
@@ -908,7 +911,6 @@ bigfix
 bigquery
 bikeshed
 billing
-bimi
 bin
 bin-obj
 binaries
@@ -988,6 +990,7 @@ bool
 boolean
 bootloader psmodule
 bootstrap
+bootstrapping
 bop
 bot
 bots
@@ -995,7 +998,6 @@ botservice
 bouncer
 boundaries
 boundarygroups
-bounty
 box
 bpmn
 brainy
@@ -1036,7 +1038,6 @@ btdf
 btm
 buddhist
 budget
-bugbounty
 bugzilla
 build
 build-log
@@ -1232,6 +1233,7 @@ choco-bear
 chocobear
 chocolatey
 choice
+choose_file
 choose_file_name
 choose_folder
 chooser
@@ -1268,7 +1270,6 @@ cireson
 ciresonassetmanagement
 ciresonportal
 cis
-cis-benchmark
 cisa
 cisco
 ciscoucscmdlets
@@ -1341,7 +1342,6 @@ cloud-backup
 cloud-computing
 cloud-init
 cloud-iq
-cloud-security-configuration-review
 cloudai
 cloudant
 cloudbees
@@ -1429,7 +1429,6 @@ cognitiveservice
 cognitiveservices
 cohere
 cohesity
-coinbase
 coinmarketcap
 collaboration
 collatordso
@@ -1624,6 +1623,8 @@ convert-sid
 convert-windowsimage
 converter
 convertfrom
+convertfrom-json
+convertfrom-jsontohashtable
 convertfrom-string
 convertfrom-stringtable
 convertfrom-table
@@ -1742,7 +1743,6 @@ crt.sh
 crud
 crx
 crypto
-crypto-currency
 cryptocompare
 cryptocurrency
 cryptography
@@ -1752,7 +1752,6 @@ csharp
 csharp-watch
 csom
 csp
-cspm
 csproj
 css
 csv
@@ -1842,6 +1841,7 @@ dangling
 dapr
 dare
 dark
+darktrace
 dash
 dashboard
 dashboardapi
@@ -1857,6 +1857,7 @@ data-uri
 data-uri-converter
 dataadapter
 database
+database-migrations
 databaseautomation
 databasemanagement
 databasemigration
@@ -1939,7 +1940,6 @@ dc
 dcim
 dcim_b324
 dcom
-dconf
 dcr
 ddc
 ddc/ci
@@ -2146,6 +2146,7 @@ distinguishedname
 distributed-systems
 distributed-tracing
 distributedcache
+distributeddatabase
 distributedfilesystem
 distribution
 distributiongroup
@@ -2181,7 +2182,6 @@ dns-client
 dns-over-https
 dns-resolver
 dnsbl
-dnsclient
 dnsdumpster
 dnsentry
 dnsimple
@@ -2226,8 +2226,6 @@ dok
 dokuwiki
 domain
 domaincontroller
-domainkey
-domainkeys
 domainname
 domainnamesystem
 domains
@@ -2382,14 +2380,12 @@ easy
 easy-to-use
 easylife365
 easyvista
-eaton
 ebay
 ebooks
 ebur128
 ec2
 ecommerce
 ecovadis
-ed25519
 edgaronline
 edge
 edgebackup
@@ -2426,7 +2422,6 @@ elevatedmode
 elevation
 elevenlabs
 elgato
-eli5
 elitism
 elk
 elm
@@ -2499,7 +2494,6 @@ entra-id
 entracloudsync
 entraconnect
 entraid
-entraid-security-assessment
 entraidgovernance
 entropy
 entrust
@@ -2604,6 +2598,7 @@ evernote
 everydaypowershell
 everydayrewards
 everything
+evilprince2009
 evolutionary-algorithms
 evolutionary-database
 evtx
@@ -2668,6 +2663,7 @@ explorer
 exponentiation
 export
 export-cmhealthreport
+export-data
 export-passlist
 exportcertificate
 exportcertificates
@@ -2761,6 +2757,7 @@ file-encoding
 file-extension
 file-extension-association
 file-invalidchar
+file-management
 file-matcher
 file-matching
 file-monitoring
@@ -2872,6 +2869,7 @@ flaui
 flavor
 fleet
 fleetappsmanagement
+fleetsoftwareupdate
 flex
 flex-query
 flexdesk
@@ -2933,7 +2931,6 @@ fortune
 forum
 forwardcompatibility
 forwardedevents
-foudil
 foundationmodels
 fount
 fount-pwsh
@@ -2987,6 +2984,7 @@ fun
 function
 function-testing
 functionality
+functionalprogramming
 functionapp
 functions
 funds
@@ -3042,6 +3040,7 @@ generatewif
 generation
 generativeai
 generativeaiagent
+generativeaiagentruntime
 generativeaiinference
 generator
 generic
@@ -3107,7 +3106,6 @@ get-uptime
 get-usersorgunitreport
 getfirmwareenvironmentvariable
 getfirmwaretype
-ggplot
 gh
 gh-actions
 ghactions
@@ -3123,7 +3121,6 @@ git-client
 git-clone
 git-flow
 git-lfs
-git-open
 git-proxy
 git-rename
 git-stat
@@ -3158,7 +3155,6 @@ gmail
 gmap
 gmaps
 gmsa
-gnome
 gnucash
 gnuwin32
 go
@@ -3218,6 +3214,8 @@ graphics
 graphite
 graphql
 graphquerylanguage
+graphs
+graphservices
 graphviz
 graylog
 greenlake
@@ -3239,7 +3237,6 @@ groups
 grouvee
 growlnotify
 grr
-gsettings
 gsudo
 gsuite
 gtx1080ti
@@ -3555,7 +3552,6 @@ idm
 idn
 idna
 idoit
-idrac
 ids
 ie
 iem
@@ -4061,7 +4057,6 @@ lbs
 lccn
 lcm
 lcminternals
-lcs
 ldap
 leafs
 league
@@ -4117,6 +4112,7 @@ lina
 line
 line-endings
 linear
+linearalgebra
 lingeringobjects
 link
 link-capability
@@ -4174,7 +4170,6 @@ localdb
 localdirectories
 locale
 localgroup
-localgroupmember
 localization
 localpolicy
 localuser
@@ -4207,6 +4202,8 @@ logbook
 logcat
 logentry
 logfile
+logfilearchivearchive
+logfilemanagement psmodule
 logfiles
 logger
 logging
@@ -4272,7 +4269,6 @@ luma
 lumaai
 lunar
 lunches
-lustrefilestorage
 lwa
 lxca
 lxcapstool
@@ -4312,7 +4308,6 @@ mailgroup
 mailgroupmember
 mailing
 mailkit
-mailmessage
 mails
 main
 main-menu
@@ -4345,6 +4340,7 @@ managedservices
 manageengine
 management
 managementagent
+managementdashboard
 managementgroups
 managementpoint
 manager
@@ -4394,7 +4390,6 @@ materialui
 mateso
 math
 mathematics
-matplotlib
 matrix
 maven
 max
@@ -4500,7 +4495,6 @@ microsoft_azure
 microsoft_endpoint_manager
 microsoft_online
 microsoft_teams
-microsoft-entra
 microsoft-entra-id
 microsoft-graph
 microsoft-sentinel
@@ -4515,7 +4509,6 @@ microsoft.logic
 microsoft.logic/workflows
 microsoft.web.administration
 microsoft365
-microsoft365-security
 microsoft365dsc
 microsoftauthenticationlibrary
 microsoftazure
@@ -4549,6 +4542,7 @@ middleware
 midserver
 migrate
 migration
+migration-tool
 migrations
 mikrotik
 milestone
@@ -4566,6 +4560,7 @@ minimalist-framework
 minimum
 mip
 mipsdk
+miration-step
 mirror
 misc
 miscellaneous
@@ -4590,7 +4585,6 @@ mltools
 mmdc
 mngdmac
 mobile
-mobilenetwork
 mobilitycontroller
 mock
 mocking
@@ -4600,7 +4594,6 @@ model-management
 modeldeployment
 modeling
 models
-modern
 modify
 module
 module-maintenance
@@ -4668,7 +4661,6 @@ ms365
 msaccess
 msacpi_thermalzonetemperature
 msal
-msaltoken
 msauth
 msband
 msbi
@@ -4719,7 +4711,6 @@ mstsc
 msu
 msvc
 msword
-mta-sts
 mule
 mulesoft
 multi
@@ -4769,12 +4760,14 @@ myob
 myposh
 mypstag
 mysql
+mysql-database
 mytest
 n-able
 n-central
 nabu
 nac
 nagios
+nakivo
 name
 name-of-dogs
 namedpipe
@@ -4814,13 +4807,11 @@ neocities
 neofetch
 neonpostgres
 neovim
-neptune
 nerdfonts
 nerdio
 nerdioapi
 nerdymishka
 nessus
-nested
 net
 net4.8
 netadapter
@@ -4947,7 +4938,6 @@ note
 notebook
 notepad
 notepad2
-noteproperty
 notes
 nothing
 notification
@@ -4981,8 +4971,6 @@ nsxt
 ntdll
 ntds
 ntfs
-ntfy
-ntfypwsh
 ntp
 ntsystems
 nuget
@@ -5001,6 +4989,7 @@ nva
 nvd
 nvdimm
 nvdimm-n
+nvidia
 nvm
 nvm-window
 nxt
@@ -5055,7 +5044,6 @@ offboarding
 offence
 office
 office_365
-office-365-security
 office2010
 office2013
 office2016
@@ -5105,7 +5093,6 @@ oneidentity
 onelogin
 oneloginapi
 onenote
-onestools
 onesubscription
 onetimesecret
 oneviewglobaldashboard
@@ -5255,7 +5242,6 @@ owasp
 owls
 owner
 oxygen
-oxyplot
 p2000
 p2s
 pa1reg
@@ -5354,7 +5340,6 @@ patching
 patchtuesday
 path
 pathfinder
-pathmanagement
 patternmatching
 paulo
 pause
@@ -5438,7 +5423,6 @@ pico
 picture
 pictures
 pid
-pie
 pihole
 pim
 pin
@@ -5726,6 +5710,7 @@ powerstore
 powertab
 powertoolcmdlets
 powertooldsc
+powertree
 ppdm
 ppk
 pposh
@@ -5742,6 +5727,7 @@ predictive-text
 predictor
 preferences
 prefix
+prefixing
 preparead
 preparealldomains
 prepareschema
@@ -5812,7 +5798,6 @@ profilevalidation
 proget
 program
 program-association
-programming
 programs
 progress
 progressbar
@@ -8786,6 +8771,7 @@ psmodule psedition_desktop
 psmodulebase
 psmodulepath
 psmodules
+psmp
 psmsgraph
 psmsgraphapi
 psmssql
@@ -8862,6 +8848,7 @@ publish
 publish-module
 publishedmodules
 publisher
+publishers
 publishing
 pubsub
 pubxml
@@ -8917,7 +8904,9 @@ qemu
 qlgc_fc_powerkit
 qlik
 qlik-api
+qlik-sense
 qlik-view
+qliksesne
 qlikview
 qlikview-cli
 qlogic
@@ -8932,6 +8921,7 @@ qr-code
 qrcode
 qrcodes
 qrp
+qrs
 quality
 qualys
 quandl
@@ -9134,7 +9124,6 @@ remote-browser
 remote-desktop
 remote'
 remoteaccess
-remoteadmin
 remotecert
 remoteconnection
 remoteconnectionsmanager
@@ -9148,7 +9137,6 @@ remotedirectories
 remotefiles
 remoteforensics
 remotehost
-remotelocalgroup
 remotelogoff
 remotemanagement
 remotepro
@@ -9208,7 +9196,6 @@ resharper
 resize
 resolution
 resolve
-resolve-dnsname
 resolve-stache
 resolve-template
 resolver
@@ -9263,7 +9250,6 @@ rfc4266
 rfc4291
 rfc5952
 rfc826
-rfc9116
 rg
 rgb
 rhapsody
@@ -9540,6 +9526,7 @@ secretmanagement
 secretmanagementextension
 secrets
 secretsanta
+secretscanner
 secretserver
 secretsmanagement
 secretsmanager
@@ -9564,8 +9551,6 @@ security_cameras
 security-awareness-training
 security-policy
 security-score
-security-txt
-security.txt
 securityassertionmarkuplanguage
 securityattribute
 securitycenter
@@ -9577,7 +9562,6 @@ securityoptions
 securitypolicydsc
 securityroles
 securityscopes
-securitytxt
 sed
 seed
 seek
@@ -9608,8 +9592,6 @@ send
 send-logtologanalytics
 send-mailmessage
 send-message
-send-mgusermail
-senderid
 sendgrid
 sendkeys
 sendmail
@@ -9618,7 +9600,6 @@ sensitive
 sensitivity
 sensor
 sensors
-sensu
 sentinel
 sentinelone
 sentry
@@ -9861,7 +9842,6 @@ sms
 smtp
 smtpaddressupdate psmodule
 smtpauth
-smtpclient
 smtpoauth
 smtpsasl
 smtpsecure
@@ -9944,7 +9924,6 @@ space
 spaces
 spacex
 spam
-spamtitan
 spanner
 spark
 sparkline
@@ -10004,6 +9983,8 @@ spring
 spring-boot
 springcloud
 sql
+sql-database
+sql-script
 sql-server
 sqlagent
 sqlautomation
@@ -10100,7 +10081,6 @@ start-threadjob
 startkey
 startmen
 startmenu
-starttls
 starwars
 stash
 stat
@@ -10250,6 +10230,7 @@ swagger
 swamid
 swarm
 swimlane
+swimmingpool
 swis
 switch
 swsd
@@ -10391,7 +10372,6 @@ teamspolicy
 teamviewer
 techdirect
 techedna2014
-techlog
 technicalanalysis
 technology
 techsmith
@@ -10449,7 +10429,6 @@ test-xml
 test123
 testaccount
 testautomation
-tester
 testimonial
 testing
 testlab
@@ -10534,20 +10513,16 @@ timesheets
 timespan
 timestamp
 timezone
-tinkerpop
 tinymce
 tip
 tips
 titan
-titanhq
 title
 tld
 tls
 tls11
 tls12
-tlsa
 tlsprotocol
-tlsrpt
 tmux
 to-do
 toast
@@ -10666,6 +10641,7 @@ trusted-host
 trustedhosts
 trustedinstaller
 trustedrootcertificate
+trustedsigning
 truth
 trx
 ts
@@ -10722,10 +10698,8 @@ ucs
 ucspowertool
 ud-avataaar
 ud-badgebutton
-ud-badgelink
 ud-breadcrumb
 ud-breadcrumbitem
-ud-burger
 ud-button
 ud-buttonloader
 ud-buttonparticle
@@ -10740,6 +10714,7 @@ ud-field
 ud-flexytable
 ud-funnel
 ud-hero
+ud-illustration
 ud-input
 ud-licensed
 ud-loadingoverlay
@@ -10784,6 +10759,7 @@ udword
 uefi
 uem
 ui
+ui/ux
 ui7
 uk
 ulid
@@ -10889,7 +10865,6 @@ userdiscovery
 usergroup
 usergroups
 userinterface
-usermail
 usermanagement
 username
 userprofile
@@ -10949,6 +10924,7 @@ vaultstore
 vaultwarden
 vb365
 vba
+vbaproject
 vbproj
 vbr
 vbscript
@@ -10973,6 +10949,7 @@ ve7cc
 vector
 veeam
 veeampn
+veenendaal
 veeva
 venafi
 vencord
@@ -11116,6 +11093,7 @@ vsan
 vsan+
 vscode
 vsdevcmd
+vsdevshell
 vsenvironment
 vsm
 vso
@@ -11168,7 +11146,6 @@ warraty
 warrenty
 wasabi
 watch
-watchdog
 watchguard
 watchmen
 watery
