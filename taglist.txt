@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Friday, 30 May 2025 02:23:54 UTC
+Updated: Friday, 30 May 2025 09:52:19 UTC
 
 .bat
 .env
@@ -29,7 +29,6 @@ Updated: Friday, 30 May 2025 02:23:54 UTC
 1709
 1803
 1809
-1c
 1e
 1password
 1poshword
@@ -207,6 +206,7 @@ adlds
 adm
 admf
 admin
+admin-tools
 adminbyrequest
 admincenter
 admindirectory
@@ -479,7 +479,6 @@ apt-get-update
 apteco
 aptitude
 aql
-arabic
 arangodb
 arc
 arcade
@@ -645,7 +644,6 @@ automation
 automation psmodule
 automationaccount
 automationanywhere
-automationportal
 automationutils
 autonomoussystem
 autonomoussystemnumber
@@ -1042,7 +1040,6 @@ bruteforce
 bson
 btdf
 btm
-buddhist
 budget
 bugbounty
 bugzilla
@@ -1234,7 +1231,6 @@ cherwell
 chfs
 chi
 china
-chinese
 chmod
 choco
 choco-bear
@@ -2307,8 +2303,6 @@ droplet
 droptable
 drs
 drsrule
-drupal
-drush
 dry
 ds
 ds-client
@@ -2363,6 +2357,7 @@ durabletask
 dust
 dutch
 dvls
+dvr
 dword
 dxexpeditions
 dynamic
@@ -2455,7 +2450,6 @@ emacs
 email
 email-address
 emailaddressupdate
-emailautomation
 emailcampain
 emaildataplane
 emailmanagment
@@ -2862,6 +2856,7 @@ finops
 firebird
 firefox
 firewall
+firewall-management
 firewallrule
 firmware
 firmwareanalysis
@@ -3243,7 +3238,6 @@ graphviz
 graylog
 greenlake
 greenplum
-gregorian
 gremlin
 grep
 greynoise
@@ -3345,6 +3339,7 @@ hcm
 hcp
 hcx
 hdfs
+hdhomerun
 hdinsight
 hdinsightonaks
 hdr
@@ -3365,7 +3360,6 @@ heartbeatdiscovery
 heat
 heating
 heavenbay
-hebrew
 helium
 helix
 hello
@@ -3406,7 +3400,6 @@ high-availability
 highlight
 highlighting
 highrise
-hijri
 hint
 hipaa
 hipb
@@ -3438,6 +3431,7 @@ homebrew
 homelab
 homelandsecurity
 homeschooling
+hometheater
 hon
 hooking
 horizon
@@ -3816,7 +3810,6 @@ iselevated
 isesteroids
 ish
 ishexstring
-islamic
 isnumeric
 iso
 iso-3166-1
@@ -3899,6 +3892,7 @@ jsm
 jsm.insight
 json
 json-converter
+json-ld
 json-transform
 json+
 json2ps
@@ -4079,7 +4073,6 @@ lbs
 lccn
 lcm
 lcminternals
-lcs
 ldap
 leafs
 league
@@ -4126,6 +4119,8 @@ lifequotes
 lifestyle
 light
 lights
+lime
+limesurvey
 limit
 limit-job
 limits
@@ -4134,6 +4129,7 @@ line
 line-endings
 linear
 linearalgebra
+lingeringobjects
 link
 link-capability
 link-preview
@@ -4288,7 +4284,6 @@ lucd
 lucene
 luma
 lumaai
-lunar
 lunches
 lustrefilestorage
 lwa
@@ -4404,7 +4399,6 @@ mas
 mask
 mass
 masstransit
-masterconfiguration
 match
 matcharray
 matchhashtable
@@ -4546,7 +4540,6 @@ microsoftdefenderforidentity
 microsoftdeploymenttoolkit
 microsoftendpointmanager
 microsoftentra
-microsoftexchangeserver
 microsoftfabric
 microsoftgraph
 microsoftgraphapi
@@ -4658,7 +4651,6 @@ monitoring_variables
 monitoringplugins
 monitoringsolutions
 monitors
-month
 monthlyupdate
 moodle
 moonshot
@@ -4679,6 +4671,8 @@ mp4
 mpc
 mpeg
 mpn
+mrfk
+mrfylke
 mrvl_fc_powerkit
 mrvlfcprovider
 ms_365
@@ -4751,7 +4745,6 @@ multi-thread
 multi-threading
 multi-zone
 multicloud
-multicultural
 multidimenstional
 multimedia
 multios
@@ -4874,6 +4867,7 @@ network adapter configuration operating os optical sensor physical pointing port
 network-credentials
 network-info
 networkanalytics
+networkcategory
 networkcloud
 networkcontroller
 networkdiscovery
@@ -4885,7 +4879,9 @@ networking
 networkinterfaces
 networkloadbalancer
 networkpolicyserver
+networkprofile
 networkscan
+networksecurity
 networksecuritygroup
 networkshares
 netwrix
@@ -5054,7 +5050,6 @@ ocgv
 oci
 ocicontrolcenter
 ocr
-octoprint
 octopus
 octopus-deploy
 octopus.client
@@ -5124,7 +5119,6 @@ oneidentity
 onelogin
 oneloginapi
 onenote
-onestools
 onesubscription
 onetimesecret
 oneviewglobaldashboard
@@ -5421,7 +5415,6 @@ perl
 permission
 permissions
 permutations
-persian
 persistence
 persistent
 personal
@@ -5757,8 +5750,10 @@ pq
 pranks
 predicate
 prediction
+predictive
 predictive-text
 predictor
+preferences
 prefix
 prefixing
 preparead
@@ -5867,9 +5862,6 @@ provisioning
 provisioningagent
 provisioningpackage
 provisonedpackage
-prowl
-prowl-notifications
-prowlapp
 proxmox
 proxmoxve
 proxsys
@@ -8778,6 +8770,7 @@ psget
 psgitlab
 psgraph
 psgraylog
+pshdhomerun
 pshtml
 psidoit
 psidoitng
@@ -8833,6 +8826,7 @@ psreadline
 psreminder
 psremoting
 psrepository
+psresource
 psresourceget
 psrule
 psrule-rules
@@ -8902,7 +8896,6 @@ purple
 purview
 push
 push-location
-push-notifications
 pushd
 pushover
 pushoverapi
@@ -9068,6 +9061,7 @@ reconcile
 reconnaissance
 record
 recording
+recordings
 recordsmanagement
 recovery
 recoveryservices
@@ -9633,6 +9627,7 @@ send-message
 send-mgusermail
 senderid
 sendgrid
+sendkeys
 sendmail
 sense
 sensitive
@@ -9791,6 +9786,7 @@ signature
 signed
 signing
 signtool
+silicondust
 silk
 silver_ticket
 sim
@@ -9924,7 +9920,6 @@ softwaremanagement
 softwarepackagedataexchange
 softwareupdatepoint
 softwareupdatepointcomponent
-solar
 solarigate
 solarized
 solarwinds
@@ -9982,6 +9977,7 @@ specification
 specify
 specs
 spectre
+spectre.console
 spectrumconnect
 spectrumcontrolbase
 speculation
@@ -10255,6 +10251,7 @@ supress-reboot
 surestacks
 surround
 surveillance
+survey
 surveymonkey
 sus
 sushi
@@ -10412,7 +10409,6 @@ teamspolicy
 teamviewer
 techdirect
 techedna2014
-techlog
 technicalanalysis
 technology
 techsmith
@@ -10720,7 +10716,6 @@ twitter-api
 twitter-api-v2
 twitter-client
 twitter-follow
-twitter-hashtag
 twitter-mention
 twitter-share
 twitter-timeline
@@ -10744,6 +10739,7 @@ ucs
 ucspowertool
 ud-avataaar
 ud-badgebutton
+ud-badgelink
 ud-breadcrumb
 ud-breadcrumbitem
 ud-burger
@@ -11252,7 +11248,6 @@ websphere
 websphereappserver
 websphereportal
 webtest
-webtesting
 webtime
 webview2
 wec
@@ -11337,9 +11332,12 @@ windows explorer
 windows_events
 windows-10
 windows-api
+windows-control-panel
+windows-defender
 windows-environment
 windows-explorer
 windows-features
+windows-firewall
 windows-path
 windows-powershell
 windows-registry
@@ -11592,7 +11590,6 @@ yandex
 yandexdisk
 yapg
 yarn
-year
 yetanotherhelloworld
 yify
 yml
