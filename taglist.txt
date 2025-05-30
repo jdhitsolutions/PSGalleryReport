@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Friday, 30 May 2025 09:52:19 UTC
+Updated: Friday, 30 May 2025 17:52:22 UTC
 
 .bat
 .env
@@ -29,6 +29,7 @@ Updated: Friday, 30 May 2025 09:52:19 UTC
 1709
 1803
 1809
+1c
 1e
 1password
 1poshword
@@ -308,7 +309,6 @@ albums
 alc
 alero
 alert
-alerting
 alertmail
 alertmanagement
 alerts
@@ -345,7 +345,6 @@ amazonaws
 amazonmgn
 amazontitan
 amazonwebservices
-amend
 ami
 amiga
 amp
@@ -381,10 +380,8 @@ anonymous
 anova
 ansi
 ansible
-ansible-control-node
 ansible-playbook
 ansible-vault
-ansiblecontrolnode
 ansibletower
 anthropic
 anti-malware
@@ -479,6 +476,7 @@ apt-get-update
 apteco
 aptitude
 aql
+arabic
 arangodb
 arc
 arcade
@@ -644,6 +642,7 @@ automation
 automation psmodule
 automationaccount
 automationanywhere
+automationportal
 automationutils
 autonomoussystem
 autonomoussystemnumber
@@ -1040,6 +1039,7 @@ bruteforce
 bson
 btdf
 btm
+buddhist
 budget
 bugbounty
 bugzilla
@@ -1231,6 +1231,7 @@ cherwell
 chfs
 chi
 china
+chinese
 chmod
 choco
 choco-bear
@@ -2134,7 +2135,6 @@ discover
 discovery
 discutils
 disk
-disk_to_disk
 disk-space
 diskcleanup
 diskfree
@@ -2303,6 +2303,8 @@ droplet
 droptable
 drs
 drsrule
+drupal
+drush
 dry
 ds
 ds-client
@@ -2391,7 +2393,6 @@ easy
 easy-to-use
 easylife365
 easyvista
-eaton
 ebay
 ebooks
 ebur128
@@ -2436,7 +2437,6 @@ elevation
 elevenlabs
 elgato
 eli5
-elitism
 elk
 elm
 elmah-io
@@ -2450,6 +2450,7 @@ emacs
 email
 email-address
 emailaddressupdate
+emailautomation
 emailcampain
 emaildataplane
 emailmanagment
@@ -3159,7 +3160,6 @@ gitlab-runner
 gitlab4
 gitlabpipeline
 gitops
-glimps
 glob
 globalclipboard
 globaldashboard
@@ -3238,6 +3238,7 @@ graphviz
 graylog
 greenlake
 greenplum
+gregorian
 gremlin
 grep
 greynoise
@@ -3360,6 +3361,7 @@ heartbeatdiscovery
 heat
 heating
 heavenbay
+hebrew
 helium
 helix
 hello
@@ -3400,6 +3402,7 @@ high-availability
 highlight
 highlighting
 highrise
+hijri
 hint
 hipaa
 hipb
@@ -3496,7 +3499,6 @@ hubspotcrm
 hubspotps
 hudson
 hue
-humanizer
 humanly
 humor
 humorous
@@ -3810,6 +3812,7 @@ iselevated
 isesteroids
 ish
 ishexstring
+islamic
 isnumeric
 iso
 iso-3166-1
@@ -4284,6 +4287,7 @@ lucd
 lucene
 luma
 lumaai
+lunar
 lunches
 lustrefilestorage
 lwa
@@ -4325,7 +4329,6 @@ mailgroup
 mailgroupmember
 mailing
 mailkit
-mailmessage
 mails
 main
 main-menu
@@ -4399,6 +4402,7 @@ mas
 mask
 mass
 masstransit
+masterconfiguration
 match
 matcharray
 matchhashtable
@@ -4614,7 +4618,6 @@ model-management
 modeldeployment
 modeling
 models
-modern
 modify
 module
 module-maintenance
@@ -4651,6 +4654,7 @@ monitoring_variables
 monitoringplugins
 monitoringsolutions
 monitors
+month
 monthlyupdate
 moodle
 moonshot
@@ -4681,7 +4685,6 @@ ms365
 msaccess
 msacpi_thermalzonetemperature
 msal
-msaltoken
 msauth
 msband
 msbi
@@ -4745,6 +4748,7 @@ multi-thread
 multi-threading
 multi-zone
 multicloud
+multicultural
 multidimenstional
 multimedia
 multios
@@ -4779,7 +4783,6 @@ myjson
 myjson.com
 myob
 myposh
-mypstag
 mysql
 mysql-database
 mytest
@@ -4943,7 +4946,6 @@ nntp
 node
 node.js
 nodejs
-non-idiomatic
 non-volatile
 none
 noneimages
@@ -5050,6 +5052,7 @@ ocgv
 oci
 ocicontrolcenter
 ocr
+octoprint
 octopus
 octopus-deploy
 octopus.client
@@ -5119,6 +5122,7 @@ oneidentity
 onelogin
 oneloginapi
 onenote
+onestools
 onesubscription
 onetimesecret
 oneviewglobaldashboard
@@ -5188,7 +5192,6 @@ optics
 optimise
 optimization
 optimize
-optimized
 optimizer
 option
 option119
@@ -5415,6 +5418,7 @@ perl
 permission
 permissions
 permutations
+persian
 persistence
 persistent
 personal
@@ -5530,7 +5534,6 @@ pointer
 pokeapi
 pokedex
 pokemon
-pokemontcg
 poker
 policies
 policy
@@ -5574,14 +5577,12 @@ poshbot
 poshcommence
 poshevents
 poshgraph
-poshgraph-sdk
 poshgrouppolicy
 poshkeepass
 poshlog
 poshorigin
 poshproject
 poshprtg
-poshrest
 poshrsjob
 poshtemplate
 poshwsus
@@ -5862,6 +5863,9 @@ provisioning
 provisioningagent
 provisioningpackage
 provisonedpackage
+prowl
+prowl-notifications
+prowlapp
 proxmox
 proxmoxve
 proxsys
@@ -8826,7 +8830,6 @@ psreadline
 psreminder
 psremoting
 psrepository
-psresource
 psresourceget
 psrule
 psrule-rules
@@ -8896,6 +8899,7 @@ purple
 purview
 push
 push-location
+push-notifications
 pushd
 pushover
 pushoverapi
@@ -9051,7 +9055,6 @@ real-time
 realschule
 realtimeprotection
 realvnc
-rebase
 reboot
 rebootnodeifneeded
 recastsoftware
@@ -9266,8 +9269,6 @@ reversedsc
 reverseengineering
 review
 revision
-reword
-rewrite
 rexec
 rfc1305
 rfc1436
@@ -9624,10 +9625,8 @@ send
 send-logtologanalytics
 send-mailmessage
 send-message
-send-mgusermail
 senderid
 sendgrid
-sendkeys
 sendmail
 sense
 sensitive
@@ -9877,7 +9876,6 @@ sms
 smtp
 smtpaddressupdate psmodule
 smtpauth
-smtpclient
 smtpoauth
 smtpsasl
 smtpsecure
@@ -9920,6 +9918,7 @@ softwaremanagement
 softwarepackagedataexchange
 softwareupdatepoint
 softwareupdatepointcomponent
+solar
 solarigate
 solarized
 solarwinds
@@ -10382,7 +10381,6 @@ taskscheduler
 tatux
 taxjar
 taxonomy
-tcg
 tcp
 tcp/ip
 tcpip
@@ -10409,6 +10407,7 @@ teamspolicy
 teamviewer
 techdirect
 techedna2014
+techlog
 technicalanalysis
 technology
 techsmith
@@ -10716,6 +10715,7 @@ twitter-api
 twitter-api-v2
 twitter-client
 twitter-follow
+twitter-hashtag
 twitter-mention
 twitter-share
 twitter-timeline
@@ -10757,7 +10757,6 @@ ud-field
 ud-flexytable
 ud-funnel
 ud-hero
-ud-illustration
 ud-input
 ud-licensed
 ud-loadingoverlay
@@ -10908,7 +10907,6 @@ userdiscovery
 usergroup
 usergroups
 userinterface
-usermail
 usermanagement
 username
 userprofile
@@ -11248,6 +11246,7 @@ websphere
 websphereappserver
 websphereportal
 webtest
+webtesting
 webtime
 webview2
 wec
@@ -11590,6 +11589,7 @@ yandex
 yandexdisk
 yapg
 yarn
+year
 yetanotherhelloworld
 yify
 yml
