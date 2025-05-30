@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Thursday, 29 May 2025 17:51:58 UTC
+Updated: Friday, 30 May 2025 02:23:54 UTC
 
 .bat
 .env
@@ -207,7 +207,6 @@ adlds
 adm
 admf
 admin
-admin-tools
 adminbyrequest
 admincenter
 admindirectory
@@ -766,6 +765,7 @@ azureautomationaccount
 azureautomationnotsupported
 azurebasicloadbalancerupgrade
 azurecli
+azurecodesigning
 azurecognitiveservices
 azurecommonstuff
 azurecontainerapps
@@ -1170,6 +1170,7 @@ celcat
 celerium
 censor
 center
+centra
 central
 central-management
 centralcredentialprovider
@@ -1570,7 +1571,6 @@ connectednetwork
 connectedvmware
 connectexchange
 connection
-connectionmonitor
 connections
 connectionsmanager
 connectionstring
@@ -1870,6 +1870,7 @@ data-uri
 data-uri-converter
 dataadapter
 database
+database-migrations
 databaseautomation
 databasemanagement
 databasemigration
@@ -1952,6 +1953,7 @@ dc
 dcim
 dcim_b324
 dcom
+dconf
 dcr
 ddc
 ddc/ci
@@ -2131,6 +2133,7 @@ disasterrecovery
 disconnect
 discord
 discordrpc
+discount
 discover
 discovery
 discutils
@@ -2157,6 +2160,7 @@ distinguishedname
 distributed-systems
 distributed-tracing
 distributedcache
+distributeddatabase
 distributedfilesystem
 distribution
 distributiongroup
@@ -2192,6 +2196,7 @@ dns-client
 dns-over-https
 dns-resolver
 dnsbl
+dnsclient
 dnsdumpster
 dnsentry
 dnsimple
@@ -2358,7 +2363,6 @@ durabletask
 dust
 dutch
 dvls
-dvr
 dword
 dxexpeditions
 dynamic
@@ -2394,6 +2398,7 @@ easylife365
 easyvista
 eaton
 ebay
+ebooks
 ebur128
 ec2
 ecommerce
@@ -2436,6 +2441,7 @@ elevation
 elevenlabs
 elgato
 eli5
+elitism
 elk
 elm
 elmah-io
@@ -2570,6 +2576,7 @@ eternalblue
 ether
 etherassist
 ethereum
+ethernet
 ethr
 ethz
 etl
@@ -2578,6 +2585,7 @@ etrade
 ets
 etw
 eulanda
+evaluation
 evaluator
 evc
 event
@@ -2597,7 +2605,6 @@ eventlogchannel
 eventlogchannels
 eventlogmanifest
 eventlogs
-eventmonitor
 eventmonitoring
 eventprocessor
 events
@@ -2675,6 +2682,7 @@ explorer
 exponentiation
 export
 export-cmhealthreport
+export-data
 export-passlist
 exportcertificate
 exportcertificates
@@ -2688,6 +2696,7 @@ extendedattributes
 extendedevents
 extendedgroups
 extendedproperties
+extendedproperty
 extendscript
 extensibility
 extension
@@ -2853,7 +2862,6 @@ finops
 firebird
 firefox
 firewall
-firewall-management
 firewallrule
 firmware
 firmwareanalysis
@@ -3169,6 +3177,7 @@ gmail
 gmap
 gmaps
 gmsa
+gnome
 gnucash
 gnuwin32
 go
@@ -3251,10 +3260,12 @@ groups
 grouvee
 growlnotify
 grr
+gsettings
 gsudo
 gsuite
 gtx1080ti
 guardedfabric
+guardicore
 gubbins
 guest
 guestconfiguration
@@ -3334,7 +3345,6 @@ hcm
 hcp
 hcx
 hdfs
-hdhomerun
 hdinsight
 hdinsightonaks
 hdr
@@ -3428,7 +3438,6 @@ homebrew
 homelab
 homelandsecurity
 homeschooling
-hometheater
 hon
 hooking
 horizon
@@ -3471,6 +3480,7 @@ hrprovisioning
 hsdp
 hsl
 html
+html-templates
 http
 http_proxy
 http-listener
@@ -3889,7 +3899,6 @@ jsm
 jsm.insight
 json
 json-converter
-json-ld
 json-transform
 json+
 json2ps
@@ -3918,6 +3927,7 @@ jws
 jwt
 jwttoken
 k8s
+k8sshell
 k8ssnapshots
 kafka
 kaminario
@@ -3996,6 +4006,7 @@ krbtgt
 krick
 kschemaplugin
 kubclt
+kube
 kubeconfig
 kubectl
 kubectx
@@ -4115,8 +4126,6 @@ lifequotes
 lifestyle
 light
 lights
-lime
-limesurvey
 limit
 limit-job
 limits
@@ -4125,7 +4134,6 @@ line
 line-endings
 linear
 linearalgebra
-lingeringobjects
 link
 link-capability
 link-preview
@@ -4282,6 +4290,7 @@ luma
 lumaai
 lunar
 lunches
+lustrefilestorage
 lwa
 lxca
 lxcapstool
@@ -4308,6 +4317,7 @@ macos
 macosx
 macro
 macros
+madlib
 magazine
 magento
 magic8ball
@@ -4558,6 +4568,7 @@ middleware
 midserver
 migrate
 migration
+migration-tool
 migrations
 mikrotik
 milestone
@@ -4575,6 +4586,7 @@ minimalist-framework
 minimum
 mip
 mipsdk
+miration-step
 mirror
 misc
 miscellaneous
@@ -4667,8 +4679,6 @@ mp4
 mpc
 mpeg
 mpn
-mrfk
-mrfylke
 mrvl_fc_powerkit
 mrvlfcprovider
 ms_365
@@ -4778,6 +4788,7 @@ myob
 myposh
 mypstag
 mysql
+mysql-database
 mytest
 n-able
 n-central
@@ -4830,6 +4841,7 @@ nerdio
 nerdioapi
 nerdymishka
 nessus
+nested
 net
 net4.8
 netadapter
@@ -4862,7 +4874,6 @@ network adapter configuration operating os optical sensor physical pointing port
 network-credentials
 network-info
 networkanalytics
-networkcategory
 networkcloud
 networkcontroller
 networkdiscovery
@@ -4874,9 +4885,8 @@ networking
 networkinterfaces
 networkloadbalancer
 networkpolicyserver
-networkprofile
 networkscan
-networksecurity
+networksecuritygroup
 networkshares
 netwrix
 new
@@ -4937,6 +4947,7 @@ nntp
 node
 node.js
 nodejs
+non-idiomatic
 non-volatile
 none
 noneimages
@@ -4954,6 +4965,7 @@ note
 notebook
 notepad
 notepad2
+noteproperty
 notes
 nothing
 notification
@@ -5007,6 +5019,7 @@ nva
 nvd
 nvdimm
 nvdimm-n
+nvidia
 nvm
 nvm-window
 nxt
@@ -5146,6 +5159,7 @@ openedge
 openfiles
 opengraph
 openhere
+openholidaysapi
 openid
 openidconnect
 openinghours
@@ -5180,6 +5194,7 @@ optics
 optimise
 optimization
 optimize
+optimized
 optimizer
 option
 option119
@@ -5208,6 +5223,7 @@ osbuildersus
 osd
 osdbuilder
 osdcloud
+osdcloud.michael
 osdeploy
 osdeployment
 osdprogress
@@ -5435,12 +5451,14 @@ photos
 php
 phpapam
 pi
+pi-hole
 picker
 pico
 picture
 pictures
 pid
 pie
+pihole
 pim
 pin
 ping
@@ -5659,6 +5677,7 @@ powerdex
 powerforensics
 powergraph
 powergui
+powermanagement
 powermax
 powerpack
 powerplan
@@ -5738,10 +5757,8 @@ pq
 pranks
 predicate
 prediction
-predictive
 predictive-text
 predictor
-preferences
 prefix
 prefixing
 preparead
@@ -5850,6 +5867,9 @@ provisioning
 provisioningagent
 provisioningpackage
 provisonedpackage
+prowl
+prowl-notifications
+prowlapp
 proxmox
 proxmoxve
 proxsys
@@ -8758,7 +8778,6 @@ psget
 psgitlab
 psgraph
 psgraylog
-pshdhomerun
 pshtml
 psidoit
 psidoitng
@@ -8814,7 +8833,6 @@ psreadline
 psreminder
 psremoting
 psrepository
-psresource
 psresourceget
 psrule
 psrule-rules
@@ -8856,6 +8874,7 @@ public-transport
 publicapi
 publicclient
 publicfolder
+publicholidays
 publicip
 publish
 publish-module
@@ -8883,6 +8902,7 @@ purple
 purview
 push
 push-location
+push-notifications
 pushd
 pushover
 pushoverapi
@@ -9048,7 +9068,6 @@ reconcile
 reconnaissance
 record
 recording
-recordings
 recordsmanagement
 recovery
 recoveryservices
@@ -9237,6 +9256,7 @@ restapi
 restart
 restful
 restore
+restrictive
 resume
 retail
 retention
@@ -9381,6 +9401,7 @@ safeguard
 sage
 saggiehaim
 sailpoint
+sale
 sales
 salesforce
 salesloft
@@ -9439,6 +9460,7 @@ sccminstall
 sccmpackage
 sccmprereqs
 scep
+scepman
 sch
 schannel
 schannelpolicydsc
@@ -9456,6 +9478,7 @@ schema
 schemaextensions
 scheme
 school-information-system
+schoolholidays
 schulung
 schulverwaltung
 science
@@ -9610,7 +9633,6 @@ send-message
 send-mgusermail
 senderid
 sendgrid
-sendkeys
 sendmail
 sense
 sensitive
@@ -9769,7 +9791,6 @@ signature
 signed
 signing
 signtool
-silicondust
 silk
 silver_ticket
 sim
@@ -9824,6 +9845,7 @@ skytap
 slack
 slash
 slashcommands
+sleep
 sleeper
 slideshow
 slmgr
@@ -9960,7 +9982,6 @@ specification
 specify
 specs
 spectre
-spectre.console
 spectrumconnect
 spectrumcontrolbase
 speculation
@@ -10002,6 +10023,8 @@ spring
 spring-boot
 springcloud
 sql
+sql-database
+sql-script
 sql-server
 sqlagent
 sqlautomation
@@ -10164,6 +10187,7 @@ streaming
 streamreader
 streamwriter
 stretch
+strict
 strictmode
 strikethrough-text
 string
@@ -10231,7 +10255,6 @@ supress-reboot
 surestacks
 surround
 surveillance
-survey
 surveymonkey
 sus
 sushi
@@ -10407,6 +10430,7 @@ temp
 temperature
 template
 template-engine
+template-utility
 templater
 templates
 templating
@@ -10463,6 +10487,7 @@ text_to_speech
 text-based
 text-emoji
 text-emojis
+text-templates
 text-to-image
 text-to-speach"
 text-to-speech
@@ -10719,7 +10744,6 @@ ucs
 ucspowertool
 ud-avataaar
 ud-badgebutton
-ud-badgelink
 ud-breadcrumb
 ud-breadcrumbitem
 ud-burger
@@ -10960,6 +10984,7 @@ vcf
 vcloud
 vclouddirector
 vcm
+vco
 vcs
 vcsa
 vcvars
@@ -10986,6 +11011,7 @@ verbose psmodule
 verification
 verify
 version
+versioncontrol
 versioning
 versionmanager
 versionnumber
@@ -11018,7 +11044,6 @@ virtualenvironment
 virtualenvwrapper
 virtualization
 virtualmachine
-virtualmachinemonitor
 virtualmachines
 virtualmachne
 virtualnetwork
@@ -11312,12 +11337,9 @@ windows explorer
 windows_events
 windows-10
 windows-api
-windows-control-panel
-windows-defender
 windows-environment
 windows-explorer
 windows-features
-windows-firewall
 windows-path
 windows-powershell
 windows-registry
@@ -11396,6 +11418,7 @@ winscp
 wintellect
 winterminal
 winui
+wired
 wireless
 wirelessnetwork
 wireshark
