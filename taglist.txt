@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Saturday, 31 May 2025 09:52:23 UTC
+Updated: Saturday, 31 May 2025 17:52:09 UTC
 
 .bat
 .env
@@ -13,7 +13,6 @@ Updated: Saturday, 31 May 2025 09:52:23 UTC
 'files
 'provider'
 "<script>alert()</script>
-"interactive
 {modulenameplaceholder}
 **psedition_desktop**
 **windows**
@@ -406,7 +405,6 @@ api-gateway
 api-rest
 apichecks
 apiclient
-apigateway
 apigee
 apigeeedge
 apimanagement
@@ -489,7 +487,6 @@ architecture
 architecuture
 archive
 archivedteams
-archivematica
 archivial
 archivial-backup
 archivial-cloud-backup
@@ -518,7 +515,6 @@ arrays
 arrow
 arrow-key
 art
-artefactual
 artifact
 artifactory
 artifacts
@@ -1253,7 +1249,6 @@ chunk
 churchofjesuschrist
 ci
 ci/cd
-cic
 cicd
 cicdpipeline
 cidr
@@ -1299,6 +1294,7 @@ claude3
 clccontrol
 clccontrolapiv1
 clccontrolapiv2
+clean
 clean-up
 cleanmgr
 cleanup
@@ -1384,6 +1380,8 @@ clusterminimumvalues
 clusterplacementgroups
 clusterplugins
 cmaccounts
+cmake
+cmakepresets.json
 cmbuild
 cmclibnet
 cmclustermaintenance
@@ -1413,6 +1411,7 @@ code-completion
 code-page
 code365
 codeanalysis
+codebeamer
 codebuild
 codecommit
 codecomplexity
@@ -1513,6 +1512,7 @@ compoundproperty
 compress
 compression
 compute
+compute-ops-management
 computecloudatcustomer
 computeinstanceagent
 computer
@@ -2083,6 +2083,7 @@ diagrams
 dialog
 dice
 diceware
+dicom
 dictionary
 diff
 difference
@@ -2164,7 +2165,6 @@ distrubtionpoint
 dividends
 diving
 division
-divoom
 diy
 dkim
 dkschrutebeets
@@ -2292,7 +2292,6 @@ drivertool
 drivertool.powercli
 driverupdates
 drm
-drone.io
 drop
 dropbox
 dropdatabase
@@ -2390,6 +2389,7 @@ easy
 easy-to-use
 easylife365
 easyvista
+eaton
 ebay
 ebooks
 ebur128
@@ -2702,7 +2702,6 @@ extract
 extraction
 extractor
 extreme-networks
-eye-candy
 eztheme
 f
 f#
@@ -2876,6 +2875,7 @@ flags
 flasharray
 flatfile
 flatten
+flaui
 flavor
 fleet
 fleetappsmanagement
@@ -3024,6 +3024,7 @@ gateway
 gauge
 gavin
 gavineke
+gbl
 gc
 gcbdr
 gce
@@ -3139,7 +3140,6 @@ git-rename
 git-stat
 gitcmdline
 gitdesktop
-gitea
 gitflow
 gitforwindows
 github
@@ -3162,6 +3162,7 @@ globaldashboard
 globalentry
 globallydistributeddatabase
 globbing
+glp
 glpi
 gmail
 gmap
@@ -3231,6 +3232,7 @@ graphs
 graphservices
 graphviz
 graylog
+greenlake
 greenplum
 gregorian
 gremlin
@@ -3377,6 +3379,7 @@ heml
 here
 hewlett
 hewlett-packard
+hewlett-packard-enterprise
 hewlett-packardenterprise
 hex
 hexdump
@@ -3454,6 +3457,7 @@ hpccache
 hpe
 hpealletra6000andnimblestoragepowershelltoolkit
 hpebioscmdlets
+hpegreenlake
 hpeilocmdlets
 hpemigrationadvisorycmdlets
 hpemigrationadvisorytool
@@ -3545,7 +3549,6 @@ icon
 icons
 icraftsoftware
 ics
-icws
 id
 id3
 idabus
@@ -3706,7 +3709,6 @@ integrity
 intel
 inteligo
 intelligence
-intelligence"
 intellisearch
 intellisense
 interactive
@@ -3883,7 +3885,6 @@ journal
 joyride
 jpg
 jq
-js7
 jsm
 jsm.insight
 json
@@ -4036,7 +4037,6 @@ lake
 lambda
 lambdatest
 lame
-lametrictime
 landingzones
 language
 language-model
@@ -4778,6 +4778,7 @@ myjson
 myjson.com
 myob
 myposh
+mypstag
 mysql
 mysql-database
 mytest
@@ -4799,7 +4800,6 @@ namespace
 naming
 nana
 nano
-nanoleaf
 nartac
 nasdaq
 native
@@ -5126,6 +5126,7 @@ online
 online-backup
 onlinebackup
 onprem
+onpremisesdatagatewayhamgmt
 onq
 ons
 ontap
@@ -5474,7 +5475,6 @@ piv
 pivot
 pivotal
 pivottable
-pixoo
 pkce
 pkgx
 pki
@@ -5496,9 +5496,6 @@ player
 playlists
 playwright
 plc
-plc4net
-plc4netps
-plc4x
 plc4x™
 plconnet
 plconnetps
@@ -5706,6 +5703,7 @@ powershell-remoting
 powershell-terminal
 powershell-terminal-copilot
 powershell-training
+powershell.module.invokewinget
 powershell.one
 powershell.persistentpathstack
 powershell7
@@ -5739,6 +5737,7 @@ powertoolcmdlets
 powertooldsc
 powertree
 ppdm
+ppk
 pposh
 pps
 ppt
@@ -5860,9 +5859,6 @@ provisioning
 provisioningagent
 provisioningpackage
 provisonedpackage
-prowl
-prowl-notifications
-prowlapp
 proxmox
 proxmoxve
 proxsys
@@ -8796,6 +8792,8 @@ psm1
 psmodule
 psmodule psedition_desktop
 psmodulebase
+psmodulepath
+psmodules
 psmp
 psmsgraph
 psmsgraphapi
@@ -8895,7 +8893,6 @@ purple
 purview
 push
 push-location
-push-notifications
 pushd
 pushover
 pushoverapi
@@ -8929,9 +8926,7 @@ qemu
 qlgc_fc_powerkit
 qlik
 qlik-api
-qlik-sense
 qlik-view
-qliksesne
 qlikview
 qlikview-cli
 qlogic
@@ -8946,7 +8941,6 @@ qr-code
 qrcode
 qrcodes
 qrp
-qrs
 quality
 qualys
 quandl
@@ -9977,6 +9971,7 @@ specification
 specify
 specs
 spectre
+spectre.console
 spectrumconnect
 spectrumcontrolbase
 speculation
@@ -10150,6 +10145,7 @@ sticker
 sticker-pack
 stickers
 stig
+stigrepo
 stingar
 stock
 stockcharts
@@ -10266,6 +10262,7 @@ swagger
 swamid
 swarm
 swimlane
+swimmingpool
 swis
 switch
 swsd
@@ -10444,8 +10441,6 @@ terminalnotifier
 terminalvelocity
 termset
 terraform
-terraform-docs
-terraform-switcher
 terraformcloud
 terrafun
 terragrunt
@@ -10501,7 +10496,6 @@ tflint
 tfs
 tfscmdlets
 tfsec
-tfswitch
 tftd
 tftp
 tfvars
@@ -10708,7 +10702,6 @@ tweet
 twig
 twilio
 twincat
-twinkly
 twitch
 twitter
 twitter-api
@@ -10993,6 +10986,7 @@ ve7cc
 vector
 veeam
 veeampn
+veenendaal
 veeva
 venafi
 vencord
