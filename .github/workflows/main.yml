@@ -1,7 +1,6 @@
-            - name: Delete workflow runs
-  # You may pin to the exact commit or the version.
-  # uses: Mattraks/delete-workflow-runs@39f0bbed25d76b34de5594dceab824811479e5de
-  uses: Mattraks/delete-workflow-runs@v2.0.6
+name: Delete workflow runs
+
+uses: Mattraks/delete-workflow-runs@v2.0.6
   with:
     # Authentication token
     token: # default is ${{ github.token }}
