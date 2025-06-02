@@ -2,3 +2,4 @@
 *.pdf
 *.bak
 export-run.yml
+CleanWorkflowRun.ps1
