@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Wednesday, 04 June 2025 02:26:48 UTC
+Updated: Wednesday, 04 June 2025 09:52:22 UTC
 
 .bat
 .env
@@ -173,7 +173,6 @@ adb
 adc
 adcs
 add
-add-in
 add-member
 add-on
 add-on.module
@@ -247,12 +246,12 @@ advanced
 advapi32
 advice
 advisor
-adwords
 adx
 adxingestion
 aem
 aeries
 aeriessis
+aerofetch
 aes
 aesgcm
 afd
@@ -365,6 +364,7 @@ animals
 animate-svg
 animation
 animations
+annotated
 announcement
 announcementsservice
 anonymous
@@ -372,8 +372,6 @@ anova
 ansi
 ansible
 ansible-control-node
-ansible-playbook
-ansible-vault
 ansiblecontrolnode
 ansibletower
 anthropic
@@ -511,7 +509,6 @@ arrow
 arrow-key
 art
 artefactual
-artifact
 artifactory
 artifacts
 artificial-intelligence
@@ -647,7 +644,6 @@ autostart
 autotask
 autotaskapi
 autotaskpsa
-autotyper
 autounattend
 autoupdate
 autoupdate-script
@@ -670,7 +666,6 @@ avs
 avset
 await
 awake
-awakecoding
 awareness
 awesome
 awp
@@ -702,7 +697,6 @@ azcompute
 azd
 azdisk
 azdo
-azereo
 azforensics
 azkeyvault
 aznetworking
@@ -825,7 +819,6 @@ backconnectionhostname
 backend
 backup
 backup_validation
-bamboo
 bamboohr
 bandwidth
 bank
@@ -1006,7 +999,6 @@ bre
 breach
 break
 breakpoint
-brevo
 brew
 brickset
 brickstore
@@ -1269,7 +1261,6 @@ cireson
 ciresonassetmanagement
 ciresonportal
 cis
-cis-benchmark
 cisa
 cisco
 ciscoucscmdlets
@@ -1298,8 +1289,6 @@ clear
 clear-history
 clearpass
 cli
-cli-menu
-cli-menu-helpers
 clickonce
 client
 client-management
@@ -1341,7 +1330,6 @@ cloud-backup
 cloud-computing
 cloud-init
 cloud-iq
-cloud-security-configuration-review
 cloudant
 cloudbees
 cloudberry
@@ -1369,6 +1357,7 @@ cloudshell
 cloudsync
 clueser
 cluster
+clusterminimumvalues
 clusterplacementgroups
 clusterplugins
 cmaccounts
@@ -1523,6 +1512,7 @@ condition
 conditional
 conditionalaccess
 conduit
+conference
 confidentialclient
 confidentialledger
 config
@@ -1642,7 +1632,6 @@ copilot
 copy
 copy-item
 copyfileex
-copypaste
 copyright
 core
 coreposh
@@ -1749,7 +1738,6 @@ csharp
 csharp-watch
 csom
 csp
-cspm
 csproj
 css
 csv
@@ -2443,7 +2431,6 @@ email
 email-address
 emailaddressupdate
 emailautomation
-emailcampain
 emaildataplane
 emailmanagment
 emailnotification
@@ -2500,7 +2487,6 @@ entra-id
 entracloudsync
 entraconnect
 entraid
-entraid-security-assessment
 entraidgovernance
 entropy
 entrust
@@ -2696,7 +2682,6 @@ extract
 extraction
 extractor
 extreme-networks
-eye-candy
 eztheme
 f
 f#
@@ -2812,9 +2797,9 @@ filesystemwatcher
 filetransfer
 filetype
 filewrite
+fill
 film
 filter
-filter-item
 filtering
 fim
 fims
@@ -2929,7 +2914,6 @@ fortigate
 fortigi
 fortimanager
 fortinet
-fortinetmanager
 fortios
 fortune
 forum
@@ -3127,7 +3111,6 @@ git-client
 git-clone
 git-flow
 git-lfs
-git-open
 git-proxy
 git-rename
 git-stat
@@ -3227,6 +3210,7 @@ graphservices
 graphviz
 graylog
 greenlake
+greenplum
 gregorian
 gremlin
 grep
@@ -3348,6 +3332,7 @@ healthz
 heartbeatdiscovery
 heat
 heating
+heavenbay
 hebrew
 helium
 helix
@@ -3361,7 +3346,6 @@ help
 helpdesk
 helpdoc
 helper
-helper-functions
 helperfunctions
 helpers
 helpfile
@@ -3503,7 +3487,6 @@ hyperlinked-text
 hyperthreading
 hyperv
 hypervisor
-hypervplugins
 hypothesis
 hysolate
 hysolatemangementconsole
@@ -3922,7 +3905,6 @@ kaseyavsa
 kaspersky
 katakana
 kb
-kb4
 kbarticle
 kdbx
 kdialog
@@ -4028,7 +4010,6 @@ labtest
 labworker
 lake
 lambda
-lambdatest
 lame
 lametrictime
 landingzones
@@ -4110,6 +4091,7 @@ light
 lights
 lime
 limesurvey
+limit
 limit-job
 limits
 lina
@@ -4138,7 +4120,6 @@ liquid
 list
 list_files
 list-directory
-list-item
 listener
 litecoin
 litedb
@@ -4354,7 +4335,6 @@ map
 mapapi
 mapi
 mappeddrives
-mapper24
 mapping
 maps
 mapsapi
@@ -4499,7 +4479,6 @@ microsoft_azure
 microsoft_endpoint_manager
 microsoft_online
 microsoft_teams
-microsoft-entra
 microsoft-entra-id
 microsoft-graph
 microsoft-sentinel
@@ -4514,7 +4493,6 @@ microsoft.logic
 microsoft.logic/workflows
 microsoft.web.administration
 microsoft365
-microsoft365-security
 microsoft365dsc
 microsoftauthenticationlibrary
 microsoftazure
@@ -4751,7 +4729,6 @@ mva
 mvc
 mvn
 mvp
-mwsqlserver
 mx
 mxlookup
 mycloudrevolution
@@ -4790,7 +4767,6 @@ nartac
 nasdaq
 native
 natpool
-natural
 natural-language-to-code
 natural-selection
 nature
@@ -4814,8 +4790,6 @@ neonpostgres
 neovim
 neptune
 nerdfonts
-nerdio
-nerdioapi
 nerdymishka
 nessus
 nested
@@ -4923,12 +4897,10 @@ nlog
 nlp
 nmap
 nmbell
-nmm
 nntp
 node
 node.js
 nodejs
-nogit
 non-idiomatic
 non-volatile
 none
@@ -4957,7 +4929,6 @@ notifu
 notify
 notify-send
 notify-send-wsl
-notion
 nova
 npgsql
 npm
@@ -5021,6 +4992,8 @@ oauth
 oauth2
 oauth2.0
 oberstufe
+obfuscate
+obfuscation
 obj
 object
 objectid
@@ -5054,7 +5027,6 @@ offboarding
 offence
 office
 office_365
-office-365-security
 office2010
 office2013
 office2016
@@ -5167,7 +5139,6 @@ operationsmanagementsuiteagent
 operationvalidation
 operatoraccesscontrol
 opml
-ops
 opsi
 opsmgr
 optics
@@ -5203,7 +5174,6 @@ osbuildersus
 osd
 osdbuilder
 osdcloud
-osdcloud.michael
 osdeploy
 osdeployment
 osdprogress
@@ -5396,7 +5366,6 @@ perforce
 performance
 performance-counters
 performancemonitoring
-perl
 permission
 permissions
 permutations
@@ -5485,9 +5454,6 @@ plc
 plc4net
 plc4netps
 plc4x
-plc4x™
-plconnet
-plconnetps
 pleasant
 pleasantpasswordserver
 plex
@@ -5734,7 +5700,6 @@ pq
 pranks
 predicate
 prediction
-predictive
 predictive-text
 predictor
 preferences
@@ -5746,6 +5711,7 @@ prepareschema
 prepend
 preprocessing
 preprocessor
+presentation
 presentationframework
 presenter
 presto
@@ -5798,7 +5764,6 @@ productid
 productivity
 productmedia
 products
-productstate
 profile
 profilecleanup
 profilemanagement
@@ -5883,6 +5848,7 @@ psbackup
 psbbix
 psbicep
 psc
+pscandy
 psclient
 pscmdlet
 pscommand__python3
@@ -9097,7 +9063,6 @@ reg_multi_sz
 reg_qword
 reg_sz
 regardscitoyen
-regcli
 regedit
 regex
 region
@@ -9182,7 +9147,6 @@ repl
 replace
 replaygain
 replication
-repo
 repoo
 report
 reporting
@@ -9210,7 +9174,6 @@ resharper
 resize
 resolution
 resolve
-resolve-dnsname
 resolve-stache
 resolve-template
 resolver
@@ -9541,6 +9504,7 @@ secret
 secretmanagement
 secretmanagementextension
 secrets
+secretsanta
 secretscanner
 secretserver
 secretsmanagement
@@ -9586,7 +9550,6 @@ seek
 seekatar
 seeshell
 select
-select-item
 select-kubecontext
 select-kubenamespace
 select-string
@@ -9788,6 +9751,8 @@ single
 singlestore
 singleton
 sinks
+sintez
+sintez.module.rds
 sit
 site
 site_navigation
@@ -9805,7 +9770,6 @@ sixel
 size
 skatterbrainz
 skeet
-skeleton-loader
 skia
 skiasharp
 skolnilogin
@@ -9954,11 +9918,12 @@ spdx-license-identifier:ms-pl
 spe
 speach
 speak
+speaker
 spec
 specification
 specify
+specs
 spectre
-spectre.console
 spectrumconnect
 spectrumcontrolbase
 speculation
@@ -10303,7 +10268,6 @@ system.directoryservices.protocols
 system.text
 systemadministration
 systemadministrator
-systemadmins
 systemcenter
 systemcolors
 systemconfiguration
@@ -10527,7 +10491,6 @@ tiermodel
 time
 timeout
 timer
-timeseriesinsights
 timesheet
 timesheets
 timespan
@@ -11617,6 +11580,7 @@ zsh
 zuora
 zvm
 zvml
+zvmlinux
 zypper
 カタカナ
 ひらがな
