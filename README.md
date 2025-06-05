@@ -4,7 +4,7 @@
 
 ![MSPowerShell](images/PowerShell-transparent-thumb.jpg)
 
-This repository contains reports for the [PowerShell Gallery](https://powershellgallery.com). The hope is that it will be easier for you to find modules that will make your work easier. The plan is to update the reports three times a day and push them to this repository.
+This repository contains reports for the [PowerShell Gallery](https://powershellgallery.com). The hope is that it will be easier for you to find modules that will make your work easier. The plan is to update the reports twice a day and push them to this repository.
 
 Feel free to use the [Discussion](https://github.com/jdhitsolutions/PSGalleryReport/discussions) section of this repository to talk about specific modules. If you think there should be another type of report, feel <https://github.com/jdhitsolutions/PSGalleryReport/issues> free to submit a Feature Request in the [Issues](https://github.com/jdhitsolutions/PSGalleryReport/issues) section of this repository.
 
