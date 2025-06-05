@@ -1,5 +1,7 @@
 # PSGallery Reports
 
+[![Run Reports](https://github.com/jdhitsolutions/PSGalleryReport/actions/workflows/report-run.yml/badge.svg)](https://github.com/jdhitsolutions/PSGalleryReport/actions/workflows/report-run.yml)
+
 ![MSPowerShell](images/PowerShell-transparent-thumb.jpg)
 
 This repository contains reports for the [PowerShell Gallery](https://powershellgallery.com). The hope is that it will be easier for you to find modules that will make your work easier. The plan is to update the reports three times a day and push them to this repository.
