@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 09 June 2025 21:51:44 UTC
+Updated: Tuesday, 10 June 2025 09:52:29 UTC
 
 .bat
 .env
@@ -581,10 +581,10 @@ atlassiancli
 atlassianps
 atmosphere
 atom
+atp
 atproto
 atprotocol
 atrium
-att&ck
 attach
 attestation
 attila
@@ -840,6 +840,7 @@ backup_validation
 bamboo
 bamboohr
 bandwidth
+bank
 banking
 banner
 bar
@@ -1050,6 +1051,7 @@ budget
 bugbounty
 bugzilla
 build
+build-log
 build-scripts
 build-test-publish
 builddefinition
@@ -1109,7 +1111,6 @@ camtasia
 canarie
 cancel
 cancellation
-candlestick
 canonical
 cantara
 capability
@@ -1281,6 +1282,7 @@ cireson
 ciresonassetmanagement
 ciresonportal
 cis
+cis-benchmark
 cisa
 cisco
 ciscoucscmdlets
@@ -1353,6 +1355,7 @@ cloud-backup
 cloud-computing
 cloud-init
 cloud-iq
+cloud-security-configuration-review
 cloudai
 cloudant
 cloudbees
@@ -1518,6 +1521,7 @@ compositeresource
 compoundproperty
 compress
 compression
+compromised
 compute
 compute-ops-management
 computecloudatcustomer
@@ -1769,6 +1773,7 @@ csharp
 csharp-watch
 csom
 csp
+cspm
 csproj
 css
 csv
@@ -1969,6 +1974,7 @@ debugger
 debugging
 decimal
 decimalip
+decimalzero
 declarative
 decline
 decode
@@ -2204,6 +2210,7 @@ dnsclient
 dnsdumpster
 dnsentry
 dnsimple
+dnslookup
 dnsmadeeasy
 dnsoverhttps
 dnsrecord
@@ -2392,6 +2399,7 @@ dynamicsnav
 dynamodb
 dynatrace
 dynatraceobservability
+dz
 e-mail
 e1
 earthquakes
@@ -2516,6 +2524,7 @@ entra-id
 entracloudsync
 entraconnect
 entraid
+entraid-security-assessment
 entraidgovernance
 entropy
 entrust
@@ -2661,6 +2670,7 @@ exif
 exiftool
 exists
 exitcode
+exitprocessrequest
 exo
 exov2
 exov3
@@ -2709,7 +2719,6 @@ externalip
 extract
 extraction
 extractor
-extreme-networks
 eye-candy
 eztheme
 f
@@ -2778,7 +2787,6 @@ file-encoding
 file-extension
 file-extension-association
 file-invalidchar
-file-management
 file-matcher
 file-matching
 file-monitoring
@@ -2795,7 +2803,6 @@ file-type-association
 fileattributes
 fileencryption
 fileexplorer
-filelist
 filelog
 filelogger
 filemaintenance
@@ -2841,13 +2848,7 @@ financeoperations
 finances
 financial
 financialedge
-financialmodeling
-financialmodelingprep
-financialmodelingprepapi
 financials
-financialstatement
-financialstatements
-financialstatementsapi
 find
 find-call
 find-caller
@@ -2894,7 +2895,6 @@ fleetsoftwareupdate
 flex
 flex-query
 flexdesk
-flexible
 flickr
 flowchart
 flowy
@@ -2902,7 +2902,6 @@ fluidrelay
 flurl
 flyway
 fmg
-fmp
 fms
 focus
 fod
@@ -2952,6 +2951,7 @@ fortune
 forum
 forwardcompatibility
 forwardedevents
+forwarding
 foudil
 foundationmodels
 fount
@@ -3292,6 +3292,7 @@ ha
 haarlemsdagblad
 hack
 hacking
+hacktoberfest
 hadoop
 hafr
 haiku
@@ -3573,10 +3574,8 @@ identitydataplane
 identitydirector
 identitydomains
 identitynow
-identitysecuritycloud
 idf
 idm
-idn
 idna
 idoit
 idrac
@@ -3639,6 +3638,7 @@ importer
 importexport
 importteams
 inactive
+inbox_rules
 inboxrule
 incident
 incident_response
@@ -3650,7 +3650,6 @@ indents
 index
 indexdb
 indicator
-indicators
 inedo
 inetfwrule
 inetum
@@ -3721,6 +3720,7 @@ integrationruntimedependency
 integrationservicescatalog
 integrity
 intel
+inteligo
 intelligence
 intelligence"
 intellisearch
@@ -3733,6 +3733,7 @@ interlogix
 internal
 internet
 internet-explorer
+internetconnection
 internetexplorer
 intersight
 intersightcmdlets
@@ -3908,7 +3909,6 @@ json-transform
 json+
 json2ps
 jsonplus
-jsonwebencryption
 jsonwebkey
 jsonwebsignature
 jsonwebtoken
@@ -3926,7 +3926,6 @@ jupytor
 jurassic
 justenoughadministration
 jvm
-jwe
 jwk
 jws
 jwt
@@ -3992,7 +3991,6 @@ kinopoisk
 kintone
 kittygraphicsprotocol
 klantcontroles
-kline
 kms
 knapsack
 knetps
@@ -4393,7 +4391,6 @@ mark
 markdig
 markdown
 markdownrender
-market
 marketing
 marketo
 marketplace
@@ -4529,6 +4526,7 @@ microsoft_azure
 microsoft_endpoint_manager
 microsoft_online
 microsoft_teams
+microsoft-entra
 microsoft-entra-id
 microsoft-graph
 microsoft-sentinel
@@ -4543,6 +4541,7 @@ microsoft.logic
 microsoft.logic/workflows
 microsoft.web.administration
 microsoft365
+microsoft365-security
 microsoft365dsc
 microsoftauthenticationlibrary
 microsoftazure
@@ -4568,8 +4567,6 @@ microsoftsentinel
 microsoftstaffhub
 microsoftstore
 microsoftteams
-microsoftteamsdevices
-microsoftteamsphone
 microsoftupdate
 microsoftword
 middleware
@@ -4580,6 +4577,7 @@ migration-tool
 migrations
 mikrotik
 milestone
+milestonepstools
 mim
 mime
 mimekit
@@ -4653,6 +4651,7 @@ monaco
 monday
 mondoo
 money
+moneyforward
 mongo
 mongodb
 monitor
@@ -4669,6 +4668,7 @@ monthlyupdate
 moodle
 moonshot
 more
+mos
 mosaic
 motd
 motivation
@@ -5086,6 +5086,7 @@ offboarding
 offence
 office
 office_365
+office-365-security
 office2010
 office2013
 office2016
@@ -5210,12 +5211,12 @@ optimizer
 option
 option119
 options
-optionstring
 opus
 oracle
 oraclecloudinfrastructure
 oraculum
 orbital
+orchestrate
 orchestration
 orchestrator
 order
@@ -5274,7 +5275,6 @@ outlook
 outpainting
 output
 output-to-image
-outreach
 outsystems
 overbite
 ovf
@@ -5572,6 +5572,7 @@ port
 port-scanner
 port70
 portal
+portchecker
 porthunter
 ports
 portscan
@@ -5754,7 +5755,6 @@ powerstore
 powertab
 powertoolcmdlets
 powertooldsc
-powertree
 ppdm
 ppk
 pposh
@@ -8837,6 +8837,7 @@ psprojectcreator
 psprojectgenerator
 psprovider
 psprtg
+pspublicapi
 psql
 psraw
 psreadexif
@@ -8883,6 +8884,7 @@ pubg
 public
 public-key
 public-transport
+publicapi
 publicclient
 publicfolder
 publicholidays
@@ -9184,6 +9186,7 @@ remotehost
 remotelocalgroup
 remotelogoff
 remotemanagement
+remotepro
 remoteregistry
 remotesession
 remoting
@@ -9515,7 +9518,6 @@ screen
 screencap
 screencapture
 screenconnect
-screener
 screenfetch
 screenresolution
 screensaver
@@ -9678,6 +9680,7 @@ servermanagement
 servers
 service
 service-bus
+service-messages
 servicebus
 servicebusforwindowsserver
 servicecatalog
@@ -9808,6 +9811,7 @@ silicondust
 silk
 silver_ticket
 sim
+simac
 simple
 simplecontainers
 simplepassword
@@ -9890,6 +9894,7 @@ smimepop
 smlets
 smo
 smorgasbord
+smp
 sms
 smtp
 smtpaddressupdate psmodule
@@ -10173,11 +10178,7 @@ stigrepo
 stingar
 stock
 stockcharts
-stockmarket
-stockmarketapi
 stocks
-stockscreener
-stockscreenerapi
 stoicism
 stoics
 stolpe.io
@@ -10286,7 +10287,6 @@ svt
 swagger
 swamid
 swarm
-swimlane
 swimmingpool
 swis
 switch
@@ -10421,16 +10421,11 @@ teamfoundationserver
 teams
 teamsdevices
 teamservices
-teamsphones
-teamsphonesoftwareupdate
-teamsphonessoftwareupdates
-teamsphoneupdatesoftware
 teamspolicy
 teamviewer
 techdirect
 techedna2014
 techlog
-technicalanalysis
 technology
 techsmith
 tel
@@ -10475,6 +10470,7 @@ tesla
 test
 test-automation
 test-dscconfiguration
+test-internetconnection
 test-modulemanifest
 test-modulepath
 test-osplatform
@@ -10869,7 +10865,6 @@ universaldashboard
 universialaccessgateway
 university
 unix
-unlinked
 unlock
 unprotect
 unsigned
@@ -11581,7 +11576,6 @@ xin
 xkcd
 xliff
 xlsx
-xmc
 xml
 xml-rpc
 xml-transform
