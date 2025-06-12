@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Wednesday, 11 June 2025 21:52:10 UTC
+Updated: Thursday, 12 June 2025 09:52:30 UTC
 
 .bat
 .env
@@ -272,7 +272,6 @@ agm
 agnoster
 ahk
 ai
-ai-server
 ai21
 ai21labs
 aianomalydetection
@@ -439,6 +438,7 @@ appian
 appinsights
 applayering
 apple
+applebusinessmanager
 applescript
 applescript_bridge
 application
@@ -598,6 +598,7 @@ auditad
 auditing
 auditnetlogon
 auditpol
+auditpol.exe
 auditpolicies
 auditpolicy
 audits
@@ -643,7 +644,6 @@ automatenow
 automaticpacketreportingsystem
 automation
 automation psmodule
-automationaccount
 automationanywhere
 automationportal
 automationutils
@@ -692,6 +692,7 @@ aws-vault
 aws.tools.powershell
 awsbedrock
 awscli
+awspricelist
 awx
 axapta
 axcient
@@ -1050,6 +1051,7 @@ bugzilla
 build
 build-log
 build-scripts
+build-test-publish
 builddefinition
 builder
 buildhelpers
@@ -1184,7 +1186,6 @@ cert
 certbasedauth
 certera
 certes
-certificat
 certificate
 certificateauthority
 certificatechain
@@ -1213,7 +1214,6 @@ chat
 chatbot
 chatgpt
 chatops
-chatroom
 chatter
 cheat
 check
@@ -1279,6 +1279,7 @@ cireson
 ciresonassetmanagement
 ciresonportal
 cis
+cis-benchmark
 cisa
 cisco
 ciscoucscmdlets
@@ -1351,6 +1352,7 @@ cloud-backup
 cloud-computing
 cloud-init
 cloud-iq
+cloud-security-configuration-review
 cloudai
 cloudant
 cloudbees
@@ -1418,7 +1420,6 @@ codeanalysis
 codebeamer
 codebuild
 codecommit
-codecomplexity
 codecov
 codecoverage
 codegen
@@ -1434,6 +1435,7 @@ codesign
 codesigning
 codex
 coding
+coercion
 cognitiveservice
 cognitiveservices
 cohere
@@ -1515,6 +1517,7 @@ compositeresource
 compoundproperty
 compress
 compression
+compromised
 compute
 compute-ops-management
 computecloudatcustomer
@@ -1765,6 +1768,7 @@ csharp
 csharp-watch
 csom
 csp
+cspm
 csproj
 css
 csv
@@ -1943,6 +1947,7 @@ dbatools
 dbcommand
 dbeaver
 dbfs
+dblm
 dbnull
 dbops
 dbpool
@@ -2011,6 +2016,7 @@ dell
 dellemc
 delta
 demand
+demandsignal
 demo
 democratie
 demonstration
@@ -2046,6 +2052,7 @@ dev
 dev-tools
 devart
 devcenter
+devdeer
 devdrive
 developer
 developer_command_prompt
@@ -2158,6 +2165,7 @@ distinguishedname
 distributed-systems
 distributed-tracing
 distributedcache
+distributeddatabase
 distributedfilesystem
 distribution
 distributiongroup
@@ -2334,7 +2342,6 @@ dtsx
 dtx
 du
 dual-stack
-duck
 duckdb
 duckduckgo
 ducks
@@ -2510,6 +2517,7 @@ entra-id
 entracloudsync
 entraconnect
 entraid
+entraid-security-assessment
 entraidgovernance
 entropy
 entrust
@@ -2608,6 +2616,7 @@ eventsubscription
 eventviewer
 eventwatch
 evergreen
+everix
 evernote
 everydaypowershell
 everydayrewards
@@ -2882,7 +2891,6 @@ flatten
 flaui
 flavor
 fleet
-fleetappsmanagement
 fleetsoftwareupdate
 flex
 flex-query
@@ -2944,6 +2952,7 @@ fortune
 forum
 forwardcompatibility
 forwardedevents
+forwarding
 foudil
 foundationmodels
 fount
@@ -3259,6 +3268,7 @@ grr
 gsettings
 gsudo
 gsuite
+gtx1080ti
 guardedfabric
 guardicore
 gubbins
@@ -3321,6 +3331,7 @@ harvest
 harvestforecast
 hash
 hash-verification
+hashcat
 hashicorp
 hashing
 hashset
@@ -3392,6 +3403,7 @@ hibernation
 hibp
 hidden
 hide
+hids
 hiera
 hierarchialdistributionlist
 hierarchical
@@ -3434,10 +3446,12 @@ homelandsecurity
 homeschooling
 hometheater
 hon
+hooking
 horizon
 horizontal
 hornbill
 host
+host-based
 hosted
 hostentry
 hostfile
@@ -3627,12 +3641,14 @@ importer
 importexport
 importteams
 inactive
+inbox_rules
 inboxrule
 incident
 incident_response
 incident-response
 incidentresponse
 incidents
+incontact
 indents
 index
 indexdb
@@ -3703,6 +3719,7 @@ integrated
 integratedscriptingeditor
 integration
 integrationaccount
+integrationruntime
 integrationruntimedependency
 integrationservicescatalog
 integrity
@@ -3728,6 +3745,7 @@ interval
 interval-timer
 intigua
 intranet
+intrusion
 intuitive
 intune
 intuneadminroles
@@ -3772,6 +3790,7 @@ ip-scanner
 ipa
 ipaddress
 ipam
+ipbroadcast
 ipc
 ipcalc
 ipcalculator
@@ -3922,6 +3941,8 @@ k8sshell
 k8ssnapshots
 kafka
 kaminario
+karabiner
+karabiner-elements
 karma
 kaseya
 kaseyavsa
@@ -3949,6 +3970,7 @@ key
 key-vault
 key2wocas
 keybase
+keybinding
 keyboard
 keyboardstartkey
 keycipher
@@ -3957,8 +3979,11 @@ keycontrol
 keylight
 keymanagement
 keymanagementserver
+keymap
+keymapping
 keypair
 keysms
+keyvalue
 keyvault
 keywords
 kfum-spejderne
@@ -4035,7 +4060,6 @@ lame
 lametrictime
 landingzones
 language
-language-model
 languageai
 languagedsc
 languageexperiencepack
@@ -4168,7 +4192,6 @@ loandepot
 loc
 local
 local-account
-local-ai
 local-caching
 local-policy
 local-users
@@ -4190,6 +4213,7 @@ lock
 lockbox
 lockdisplaytimeout
 lockdown
+lockfile
 locking
 lockoutreport
 lockscreen
@@ -4246,8 +4270,10 @@ logonto
 logonuser
 logparser
 logrotate
+logrotation
 logs
 logstash
+logtools
 logz
 loki
 lol
@@ -4293,7 +4319,6 @@ mac-address
 macaddress
 macadmins
 machine
-machine-learning
 machinelearning
 machinelearningcompute
 machinelearningmodels
@@ -4506,6 +4531,7 @@ microsoft_azure
 microsoft_endpoint_manager
 microsoft_online
 microsoft_teams
+microsoft-entra
 microsoft-entra-id
 microsoft-graph
 microsoft-sentinel
@@ -4520,6 +4546,7 @@ microsoft.logic
 microsoft.logic/workflows
 microsoft.web.administration
 microsoft365
+microsoft365-security
 microsoft365dsc
 microsoftauthenticationlibrary
 microsoftazure
@@ -4602,14 +4629,18 @@ mock
 mocking
 modding
 model
-model-management
+modeldeployment
 modeling
 models
 modern
 modify
 module
 module-maintenance
-modulebuild
+module-manifest
+module-publishing
+module-publishing-framework
+module-testing
+module-testing-framework
 modulecreation
 modulefast
 modulemanagement
@@ -4882,6 +4913,7 @@ new-dynamicparameter
 new-githubrelease
 new-item
 new-itemproperty
+new-modulemanifest
 new-pinneditem
 new-rdpsession
 new-samcmapplicationfrompackagedefinitionsms
@@ -4923,7 +4955,6 @@ nl
 nla
 nlm
 nlog
-nlp
 nmap
 nmbell
 nmm
@@ -5059,6 +5090,7 @@ offboarding
 offence
 office
 office_365
+office-365-security
 office2010
 office2013
 office2016
@@ -5183,6 +5215,7 @@ optimizer
 option
 option119
 options
+optionstring
 opus
 oracle
 oraclecloudinfrastructure
@@ -5222,6 +5255,7 @@ osprovision
 osprovisioning
 osr
 oss
+ossec
 osubbillingschedule
 osuborganizationsubscription
 osubsubscription
@@ -5654,6 +5688,7 @@ powerbot
 powercli
 powercligoodies
 powercommander
+powerconfiguration
 powerdex
 powerforensics
 powergraph
@@ -5670,7 +5705,6 @@ powersaving
 powerscheme
 powershell
 powershell_universal
-powershell-ai
 powershell-class
 powershell-cmdlets
 powershell-core
@@ -5687,6 +5721,8 @@ powershell-isprime
 powershell-lightning
 powershell-module
 powershell-modules
+powershell-modules-convention
+powershell-project-convention
 powershell-releases-api
 powershell-remoting
 powershell-terminal
@@ -5759,6 +5795,7 @@ prettyprinter
 preview
 previousversions
 price
+pricelist
 primenumber
 primera
 principal
@@ -8775,14 +8812,12 @@ psjob
 psjobs
 psjobthreads
 pskeepass
-psllm
 pslocalgallery
 psloganalytics
 psm
 psm1
 psmodule
 psmodule psedition_desktop
-psmodulebase
 psmodulepath
 psmodules
 psmp
@@ -8859,6 +8894,7 @@ publicfolder
 publicholidays
 publicip
 publish
+publish-module
 publishedmodules
 publisher
 publishers
@@ -8963,13 +8999,13 @@ quotestoliveby
 quoting
 quser
 qword
+r
 r53
 rabbit
 rabbitmq
 rackspace
 radarr
 radio
-rag
 raidcontrollercmdlets
 railways
 rainbow
@@ -9227,7 +9263,6 @@ resourcekit
 resourcemanager
 resourcemover
 resources
-resourcescheduler
 resourcesearch
 response
 rest
@@ -9341,7 +9376,6 @@ rss
 rt
 rtm
 rtu
-rubber
 rubrik
 rubriksecuritycloud
 ruby
@@ -9476,7 +9510,6 @@ scouterna
 scouternasetjanster
 scoutnet
 scp
-scrap
 scrape
 scraper
 scraping
@@ -9492,8 +9525,7 @@ screenscraping
 screenshot
 script
 script_version
-script-to-assembly
-script-to-executable
+script-module
 scriptanalyzer
 scriptblock
 scriptblocklogging
@@ -9507,7 +9539,6 @@ scripting
 scriptlog
 scriptlogging
 scriptmodule
-scriptoform
 scriptrunner
 scripts
 scriptsmonitoring
@@ -9602,6 +9633,7 @@ selfdispatch
 selfhelp
 selfsigned
 semantic
+semantic-versioning
 semaphore
 semver
 senat
@@ -10186,7 +10218,6 @@ stringtable
 stringutilities
 strip-ansi
 stripe
-strongname
 structure
 sts
 stt
@@ -10257,6 +10288,7 @@ swagger
 swamid
 swarm
 swimlane
+swimmingpool
 swis
 switch
 swsd
@@ -10445,6 +10477,7 @@ test
 test-automation
 test-dscconfiguration
 test-internetconnection
+test-modulemanifest
 test-modulepath
 test-osplatform
 test-psremoting
@@ -10743,10 +10776,12 @@ ud-confetti
 ud-control
 ud-dashboard
 ud-datepicker
+ud-field
 ud-flexytable
 ud-funnel
 ud-hero
 ud-illustration
+ud-input
 ud-licensed
 ud-loadingoverlay
 ud-minesweeper
@@ -10782,6 +10817,7 @@ ud-wordtree
 udcm
 udfeedback
 udp
+udpclient
 udptest
 udr
 udthememode
@@ -10845,6 +10881,7 @@ unzip
 up
 update
 update-module
+update-modulemanifest
 update-moduletests
 update-typedata
 updatedeferral
@@ -10979,6 +11016,7 @@ ve7cc
 vector
 veeam
 veeampn
+veenendaal
 veeva
 venafi
 vencord
@@ -11337,6 +11375,7 @@ windows10mui
 windows11
 windows365
 windowsadmincenter
+windowsaudit
 windowsbuilds
 windowscredential
 windowscredentialmanager
