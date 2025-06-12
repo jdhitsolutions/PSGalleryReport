@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Thursday, 12 June 2025 09:52:30 UTC
+Updated: Thursday, 12 June 2025 21:52:07 UTC
 
 .bat
 .env
@@ -272,6 +272,7 @@ agm
 agnoster
 ahk
 ai
+ai-server
 ai21
 ai21labs
 aianomalydetection
@@ -385,7 +386,6 @@ ansible-control-node
 ansible-playbook
 ansible-vault
 ansiblecontrolnode
-ansibletower
 anthropic
 anti-malware
 antimalwarescaninterface
@@ -434,6 +434,7 @@ appdeploytoolkit
 appdynamics
 appearance
 appender
+appexecutionalias
 appian
 appinsights
 applayering
@@ -610,6 +611,7 @@ auth0
 authenticate
 authentication
 authenticationcertificate
+authenticationstrength
 authenticode
 authn
 author
@@ -644,6 +646,7 @@ automatenow
 automaticpacketreportingsystem
 automation
 automation psmodule
+automationaccount
 automationanywhere
 automationportal
 automationutils
@@ -693,7 +696,6 @@ aws.tools.powershell
 awsbedrock
 awscli
 awspricelist
-awx
 axapta
 axcient
 axcient_x360recover
@@ -787,7 +789,6 @@ azureiot
 azureiothub
 azurekeyvault
 azurekeyvaultstuff
-azurelocal
 azuremaps
 azuremigrate
 azuremonitor
@@ -998,7 +999,6 @@ bootloader psmodule
 bootstrap
 bootstrapping
 bop
-borg
 bot
 bots
 botservice
@@ -1018,7 +1018,6 @@ bre
 breach
 break
 breakpoint
-brevo
 brew
 brickset
 brickstore
@@ -1117,7 +1116,6 @@ capacity
 capacitymanagement
 capainstaller
 capasystems
-capgemini
 capslock
 captcha
 capture
@@ -1186,6 +1184,7 @@ cert
 certbasedauth
 certera
 certes
+certificat
 certificate
 certificateauthority
 certificatechain
@@ -1266,7 +1265,6 @@ cil
 cim
 cim_computersystem
 cimfs
-cimi
 ciminstance
 cims
 cimsession
@@ -1417,9 +1415,9 @@ code-completion
 code-page
 code365
 codeanalysis
-codebeamer
 codebuild
 codecommit
+codecomplexity
 codecov
 codecoverage
 codegen
@@ -1536,6 +1534,7 @@ concurrency
 concurrent
 conda
 condition
+conditional
 conditionalaccess
 conduit
 conference
@@ -2068,7 +2067,6 @@ deviceid
 devicemanagement
 deviceprovisioningservice
 deviceregistry
-devicereports
 devices
 deviceupdate
 devolutions
@@ -2116,7 +2114,6 @@ directory psedition_core psedition_desktop
 directory-transform
 directorycleanup
 directorymanagement
-directorymarks
 directoryname
 directorysearcher
 directorysecurity
@@ -2339,9 +2336,9 @@ dsutils
 dtc
 dts
 dtsx
-dtx
 du
 dual-stack
+duck
 duckdb
 duckduckgo
 ducks
@@ -2461,7 +2458,6 @@ email
 email-address
 emailaddressupdate
 emailautomation
-emailcampain
 emaildataplane
 emailmanagment
 emailnotification
@@ -2503,6 +2499,7 @@ english
 enhancement
 enrichers
 enrichment
+entaid
 enteo
 enter
 enterprise
@@ -2657,6 +2654,7 @@ exec
 executable
 executables
 execute
+executionalias
 exexml
 exif
 exiftool
@@ -2891,6 +2889,7 @@ flatten
 flaui
 flavor
 fleet
+fleetappsmanagement
 fleetsoftwareupdate
 flex
 flex-query
@@ -3093,27 +3092,18 @@ get-credential
 get-criticaltrippoint
 get-currentcputemperature
 get-dellwarranty
-get-devicesorgunitreport
 get-directorycontents
-get-disabledusersreport
-get-domaincontrollerreport
 get-dtcmdevicemodel
 get-dtdriverpack
 get-dtdriverupdates
 get-dtscriptnewcmpackagefromdriverpackpackagedefinitionsms
 get-dtscriptnewcmtasksequencefromdriverpackpackagedefinitionsms
 get-emptyadgroups
-get-expiredusersreport
-get-expiringusersreport
 get-externalip
 get-firmwaretype
 get-help
 get-history
 get-iislog
-get-inactivedevicesreport
-get-inactiveusersreport
-get-lockedusersreport
-get-onlinedevicesreport
 get-openfile
 get-openfiles
 get-pass
@@ -3128,7 +3118,6 @@ get-stalecomps
 get-staleusers
 get-thermalstamp
 get-uptime
-get-usersorgunitreport
 getfirmwareenvironmentvariable
 getfirmwaretype
 ggplot
@@ -4060,6 +4049,7 @@ lame
 lametrictime
 landingzones
 language
+language-model
 languageai
 languagedsc
 languageexperiencepack
@@ -4166,7 +4156,6 @@ linuxssh
 liquid
 list
 list_files
-list-directory
 list-item
 listener
 litecoin
@@ -4192,6 +4181,7 @@ loandepot
 loc
 local
 local-account
+local-ai
 local-caching
 local-policy
 local-users
@@ -4319,6 +4309,7 @@ mac-address
 macaddress
 macadmins
 machine
+machine-learning
 machinelearning
 machinelearningcompute
 machinelearningmodels
@@ -4327,7 +4318,6 @@ macmon
 macos
 macosx
 macro
-macros
 madlib
 magazine
 magento
@@ -4430,7 +4420,6 @@ maven
 max
 max_path
 maximum
-maxoffice
 mazerat
 mb
 mbc
@@ -4629,6 +4618,7 @@ mock
 mocking
 modding
 model
+model-management
 modeldeployment
 modeling
 models
@@ -4641,6 +4631,7 @@ module-publishing
 module-publishing-framework
 module-testing
 module-testing-framework
+modulebuild
 modulecreation
 modulefast
 modulemanagement
@@ -4955,6 +4946,7 @@ nl
 nla
 nlm
 nlog
+nlp
 nmap
 nmbell
 nmm
@@ -5705,6 +5697,7 @@ powersaving
 powerscheme
 powershell
 powershell_universal
+powershell-ai
 powershell-class
 powershell-cmdlets
 powershell-core
@@ -8812,12 +8805,14 @@ psjob
 psjobs
 psjobthreads
 pskeepass
+psllm
 pslocalgallery
 psloganalytics
 psm
 psm1
 psmodule
 psmodule psedition_desktop
+psmodulebase
 psmodulepath
 psmodules
 psmp
@@ -9006,6 +9001,7 @@ rabbitmq
 rackspace
 radarr
 radio
+rag
 raidcontrollercmdlets
 railways
 rainbow
@@ -9212,6 +9208,7 @@ render
 reonboarding
 repair
 repair-msauth
+reparse
 reparsepoint
 repeat
 repl
@@ -9263,6 +9260,7 @@ resourcekit
 resourcemanager
 resourcemover
 resources
+resourcescheduler
 resourcesearch
 response
 rest
@@ -9376,6 +9374,7 @@ rss
 rt
 rtm
 rtu
+rubber
 rubrik
 rubriksecuritycloud
 ruby
@@ -9510,6 +9509,7 @@ scouterna
 scouternasetjanster
 scoutnet
 scp
+scrap
 scrape
 scraper
 scraping
@@ -9526,6 +9526,8 @@ screenshot
 script
 script_version
 script-module
+script-to-assembly
+script-to-executable
 scriptanalyzer
 scriptblock
 scriptblocklogging
@@ -9539,6 +9541,7 @@ scripting
 scriptlog
 scriptlogging
 scriptmodule
+scriptoform
 scriptrunner
 scripts
 scriptsmonitoring
@@ -10218,6 +10221,7 @@ stringtable
 stringutilities
 strip-ansi
 stripe
+strongname
 structure
 sts
 stt
@@ -10741,7 +10745,6 @@ twitter-follow
 twitter-hashtag
 twitter-mention
 twitter-share
-twitter-timeline
 twitter-tweet
 txt
 type
@@ -10937,7 +10940,6 @@ username
 userprofile
 userprofiles
 userprofiletools
-userreports
 userright
 userrights
 userrightsassignment
