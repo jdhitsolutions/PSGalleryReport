@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Friday, 13 June 2025 21:52:36 UTC
+Updated: Saturday, 14 June 2025 09:52:17 UTC
 
 .bat
 .env
@@ -270,6 +270,7 @@ agile
 agility
 agm
 agnoster
+ahk
 ai
 ai-server
 ai21
@@ -634,6 +635,7 @@ autocomplete
 autocompletion
 autoenv
 autograph
+autohotkey
 autoload
 autologon
 automai
@@ -1248,7 +1250,6 @@ chocolatey
 choice
 choose_file
 choose_file_name
-choose_folder
 chooser
 christaylorcodes
 christmas
@@ -2151,6 +2152,7 @@ discutils
 disk
 disk_to_disk
 disk-space
+diskcleanup
 diskfree
 diskimage
 diskpart
@@ -2232,7 +2234,6 @@ dockerize
 dockerswarm
 docking
 docs
-docset
 document
 documentation
 documentdb
@@ -2406,7 +2407,6 @@ earthquakes
 easy
 easy-to-use
 easylife365
-easyvista
 eaton
 ebay
 ebooks
@@ -2990,7 +2990,6 @@ fritzbox
 front
 frontapp
 frontdoor
-frontmatter
 frontrange
 fs
 fsc-ps
@@ -3993,7 +3992,6 @@ keymap
 keymapping
 keypair
 keysms
-keyvalue
 keyvault
 keywords
 kfum-spejderne
@@ -5535,9 +5533,6 @@ player
 playlists
 playwright
 plc
-plc4net
-plc4netps
-plc4x
 plc4x™
 plconnet
 plconnetps
@@ -5747,7 +5742,6 @@ powershell-terminal-copilot
 powershell-training
 powershell.module.invokewinget
 powershell.one
-powershell.persistentpathstack
 powershell7
 powershellai
 powershellazuresql
@@ -7732,7 +7726,6 @@ pscore
 pscredential
 pscribo
 pscustomobject
-psd
 psd1
 psdb
 psdefaultparametervalues
@@ -8816,7 +8809,6 @@ pshdhomerun
 pshtml
 psidoit
 psidoitng
-psimport
 psincludes_cmdlet
 psincludes_command
 psincludes_function
@@ -9661,7 +9653,6 @@ selfhelp
 selfsigned
 semantic
 semantic-versioning
-semaphore
 semver
 senat
 senateur
@@ -10316,7 +10307,6 @@ swagger
 swamid
 swarm
 swimlane
-swimmingpool
 swis
 switch
 swsd
@@ -10585,6 +10575,7 @@ threatsharing
 thumbprint
 thunderbird
 thycotic
+tibber
 tic-tac-toe
 tickets
 tickle
@@ -11043,7 +11034,6 @@ ve7cc
 vector
 veeam
 veeampn
-veenendaal
 veeva
 venafi
 vencord
@@ -11314,6 +11304,7 @@ wemsdk
 wer
 wget
 what3words
+whatif
 whatismyip
 whatsnew
 whatsupgold
@@ -11412,6 +11403,7 @@ windowsdefender
 windowsdesktop
 windowsdesktopsearch
 windowsdirectories
+windowsdiskcleanup
 windowsdomain
 windowsevent
 windowseventlog

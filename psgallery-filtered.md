@@ -3,13 +3,61 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
-## [IntegrisDeploymentTool](https://www.powershellgallery.com/Packages/IntegrisDeploymentTool/0.4.5) | 0.4.5
+## [PowerShell.MCP](https://www.powershellgallery.com/Packages/PowerShell.MCP/1.1.4) | 1.1.4
 
-### Published: 06/13/2025 20:48:41 by David McVicker
+### Published: 06/14/2025 09:17:37 by Yoshifumi Tsuda
 
-Integris Deployment Tool
+Enables PowerShell console to function as an MCP server for Claude Desktop and other clients.
 
-__Downloads__: 6 | __Repository__: 
+__Downloads__: 64 | __Repository__: 
+
+## [ConnectorTools](https://www.powershellgallery.com/Packages/ConnectorTools/0.0.2) | 0.0.2
+
+### Published: 06/14/2025 06:52:31 by t-chaudharys
+
+ConnectorTools provides a set of PowerShell functions to push in connectors metadata to the database.
+
+__Downloads__: 11 | __Repository__: 
+
+## [ps-color-scripts](https://www.powershellgallery.com/Packages/ps-color-scripts/2025.6.14.1724) | 2025.6.14.1724
+
+### Published: 06/14/2025 05:24:53 by Scott McKendry
+
+An almost like for like port of Derek Taylor's Popular shell-color-scripts package for PowerShell.
+
+__Downloads__: 3,145 | __Repository__: https://github.com/scottmckendry/ps-color-scripts
+
+## [UiPathOrch](https://www.powershellgallery.com/Packages/UiPathOrch/0.9.12.11) | 0.9.12.11
+
+### Published: 06/14/2025 02:37:20 by Yoshifumi Tsuda
+
+PSDrives and cmdlets for UiPath Orchestrator. 💡 First time? Run: Get-OrchHelp
+
+__Downloads__: 2,335 | __Repository__: 
+
+## [QuickAccess](https://www.powershellgallery.com/Packages/QuickAccess/1.0.3) | 1.0.3
+
+### Published: 06/14/2025 02:02:31 by june-10-cloudy
+
+QuickAccess is a PowerShell module that recreates the Quick Access and Favorites features of File Explorer in a Command-Line Interface (CUI) environment. It provides a set of PowerShell cmdlets to simply manage and utilize frequently accessed folders and files. You can quickly reach the desired folder or file path by narrowing down targets with fuzzy search.
+
+__Downloads__: 1 | __Repository__: https://github.com/June-10-cloudy/QuickAccess
+
+## [Trilium](https://www.powershellgallery.com/Packages/Trilium/0.11.0) | 0.11.0
+
+### Published: 06/13/2025 22:21:10 by Patrick Morris
+
+Powershell wrapper for the TriliumNext API
+
+__Downloads__: 278 | __Repository__: https://github.com/ptmorris1/TriliumNext-Powershell-Module
+
+## [PSBlueSky](https://www.powershellgallery.com/Packages/PSBlueSky/2.7.1) | 2.7.1
+
+### Published: 06/13/2025 22:07:33 by Jeff Hicks
+
+A set of PowerShell commands that use the Bluesky AT Proto API. You can post and upload images from a PowerShell prompt, as well as get your timeline, feed, followers, and more. Run Open-BskyHelp after installation to launch a PDF guide. This module is written for PowerShell 7 and uses features like $PSStyle. If you have the pwshSpectreConsole module installed, additional features are available.
+
+__Downloads__: 14,079 | __Repository__: https://github.com/jdhitsolutions/PSBluesky
 
 ## [GitHub](https://www.powershellgallery.com/Packages/GitHub/0.30.1) | 0.30.1
 
@@ -25,7 +73,7 @@ __Downloads__: 280,515 | __Repository__: https://github.com/PSModule/GitHub
 
 Custom functions for troubleshooting common issues
 
-__Downloads__: 0 | __Repository__: https://example.com/project
+__Downloads__: 1 | __Repository__: https://example.com/project
 
 ## [ImportToSQLDatabase](https://www.powershellgallery.com/Packages/ImportToSQLDatabase/0.0.10) | 0.0.10
 
@@ -41,7 +89,7 @@ __Downloads__: 50 | __Repository__:
 
 A PowerShell module that manages contexts with secrets and variables.
 
-__Downloads__: 251,086 | __Repository__: https://github.com/PSModule/Context
+__Downloads__: 251,087 | __Repository__: https://github.com/PSModule/Context
 
 ## [Fortytwo.Galaxy.Collections.Criteria](https://www.powershellgallery.com/Packages/Fortytwo.Galaxy.Collections.Criteria/1.8.1) | 1.8.1
 
@@ -65,7 +113,7 @@ __Downloads__: 274 | __Repository__: https://github.com/Skatterbrainz/LinuxTools
 
 PowerShell module containing several Azure tools by Sam Boutros
 
-__Downloads__: 53,638 | __Repository__: https://superwidgets.wordpress.com/
+__Downloads__: 53,637 | __Repository__: https://superwidgets.wordpress.com/
 
 ## [Particular.ServiceControl.Management](https://www.powershellgallery.com/Packages/Particular.ServiceControl.Management/6.6.4) | 6.6.4
 
@@ -89,7 +137,7 @@ __Downloads__: 18,149 | __Repository__:
 
 BORG — Backup Orchestrator for Reliable Groundwork. A modular PowerShell toolkit for automating SQL Server Docker container workflows, backup and restore operations, and local dev environment setup. GitHub: https://github.com/AndiOliverIon/borg
 
-__Downloads__: 152 | __Repository__: https://github.com/AndiOliverIon/borg
+__Downloads__: 151 | __Repository__: https://github.com/AndiOliverIon/borg
 
 ## [DiskReportingTools](https://www.powershellgallery.com/Packages/DiskReportingTools/0.11.0) | 0.11.0
 
@@ -107,7 +155,7 @@ Allows you:
 - easily invoke, launch, and install fount in pwsh
 - linking fount characters to pwsh for companion and AI assist
 
-__Downloads__: 2,525 | __Repository__: https://github.com/steve02081504/fount-pwsh
+__Downloads__: 2,524 | __Repository__: https://github.com/steve02081504/fount-pwsh
 
 ## [Citrix.Workloads.Portability](https://www.powershellgallery.com/Packages/Citrix.Workloads.Portability/2.4.4) | 2.4.4
 
@@ -147,7 +195,7 @@ __Downloads__: 19 | __Repository__: https://github.com/khannaveed2020/DebugURL
 
 PowerShell Module for Rubrik Security Cloud. GraphQL schema version: v20250602-55 .
 
-__Downloads__: 54,057 | __Repository__: https://github.com/rubrikinc/rubrik-powershell-sdk
+__Downloads__: 54,055 | __Repository__: https://github.com/rubrikinc/rubrik-powershell-sdk
 
 ## [MSGraphStuff](https://www.powershellgallery.com/Packages/MSGraphStuff/1.1.6) | 1.1.6
 
@@ -173,7 +221,7 @@ __Downloads__: 116,420 | __Repository__: https://github.com/ztrhgf/useful_powers
 
 A PowerShell module to download and install fonts from GoogleFonts.
 
-__Downloads__: 10,606 | __Repository__: https://github.com/PSModule/GoogleFonts
+__Downloads__: 10,607 | __Repository__: https://github.com/PSModule/GoogleFonts
 
 ## [InvokeBuild](https://www.powershellgallery.com/Packages/InvokeBuild/5.14.11) | 5.14.11
 
@@ -181,7 +229,7 @@ __Downloads__: 10,606 | __Repository__: https://github.com/PSModule/GoogleFonts
 
 Build and test automation in PowerShell
 
-__Downloads__: 2,378,983 | __Repository__: https://github.com/nightroman/Invoke-Build
+__Downloads__: 2,378,967 | __Repository__: https://github.com/nightroman/Invoke-Build
 
 ## [M365DSC.CompositeResources](https://www.powershellgallery.com/Packages/M365DSC.CompositeResources/1.25.611.100) | 1.25.611.100
 
@@ -221,7 +269,7 @@ __Downloads__: 2,274 | __Repository__:
 
 This module will migrate a Basic SKU load balancer connected to a Virtual Machine Scaleset or Virtual Machines to a Standard SKU load balancer, preserving the existing configuration and functionality.
 
-__Downloads__: 21,666 | __Repository__: https://github.com/Azure/AzLoadBalancerMigration
+__Downloads__: 21,667 | __Repository__: https://github.com/Azure/AzLoadBalancerMigration
 
 ## [ABMPS](https://www.powershellgallery.com/Packages/ABMPS/1.2) | 1.2
 
@@ -261,7 +309,7 @@ __Downloads__: 128,842 | __Repository__: https://github.com/TheTaylorLee/AdminTo
 
 Functions for Security Operations and Investigations
 
-__Downloads__: 2,404 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 2,403 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.FortiWizard](https://www.powershellgallery.com/Packages/AdminToolbox.FortiWizard/2.22.0.31) | 2.22.0.31
 
@@ -301,7 +349,7 @@ __Downloads__: 133,316 | __Repository__: https://github.com/TheTaylorLee/AdminTo
 
 Network Troubleshooting Functions
 
-__Downloads__: 306,986 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 306,985 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.MSGraph](https://www.powershellgallery.com/Packages/AdminToolbox.MSGraph/1.5.0.57) | 1.5.0.57
 
@@ -341,7 +389,7 @@ __Downloads__: 220,333 | __Repository__: https://github.com/TheTaylorLee/AdminTo
 
 Functions for Exchange Management
 
-__Downloads__: 186,712 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 186,711 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.EndpointManagement](https://www.powershellgallery.com/Packages/AdminToolbox.EndpointManagement/4.14.0.6) | 4.14.0.6
 
@@ -349,7 +397,7 @@ __Downloads__: 186,712 | __Repository__: https://github.com/TheTaylorLee/AdminTo
 
 Functions for management of endpoints
 
-__Downloads__: 174,513 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 174,512 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.ActiveDirectory](https://www.powershellgallery.com/Packages/AdminToolbox.ActiveDirectory/1.12.0.22) | 1.12.0.22
 
@@ -357,7 +405,7 @@ __Downloads__: 174,513 | __Repository__: https://github.com/TheTaylorLee/AdminTo
 
 Functions for Active Directory
 
-__Downloads__: 192,477 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 192,476 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [TMConsole.PoshRSJob](https://www.powershellgallery.com/Packages/TMConsole.PoshRSJob/2.0.0.0) | 2.0.0.0
 
@@ -413,7 +461,7 @@ __Downloads__: 118 | __Repository__:
 
 Powershell Module for CIPP-API
 
-__Downloads__: 5,472 | __Repository__: https://github.com/BNWEIN/CIPPAPIModule/
+__Downloads__: 5,473 | __Repository__: https://github.com/BNWEIN/CIPPAPIModule/
 
 ## [Adsi](https://www.powershellgallery.com/Packages/Adsi/5.0.505) | 5.0.505
 
@@ -478,14 +526,6 @@ Helper for storing and accessing favorite/commonly used commands/scriptblocks
 
 __Downloads__: 417 | __Repository__: https://github.com/Callidus2000/CmdFav/
 
-## [UiPathOrch](https://www.powershellgallery.com/Packages/UiPathOrch/0.9.12.10) | 0.9.12.10
-
-### Published: 06/12/2025 04:53:14 by Yoshifumi Tsuda
-
-PSDrives and cmdlets for UiPath Orchestrator. 💡 First time? Run: Get-OrchHelp
-
-__Downloads__: 2,335 | __Repository__: 
-
 ## [SPSMonday](https://www.powershellgallery.com/Packages/SPSMonday/1.0.0.6) | 1.0.0.6
 
 ### Published: 06/11/2025 23:14:20 by Jesse Geron
@@ -510,14 +550,6 @@ This module is used to get data from and write data into ImmyBot.
 
 __Downloads__: 8 | __Repository__: 
 
-## [Trilium](https://www.powershellgallery.com/Packages/Trilium/0.10.0) | 0.10.0
-
-### Published: 06/11/2025 20:32:24 by Patrick Morris
-
-Powershell wrapper for the TriliumNext API
-
-__Downloads__: 278 | __Repository__: https://github.com/ptmorris1/TriliumNext-Powershell-Module
-
 ## [BouncyPowershellPGP](https://www.powershellgallery.com/Packages/BouncyPowershellPGP/0.0.5) | 0.0.5
 
 ### Published: 06/11/2025 18:40:03 by Christopher Logan
@@ -532,7 +564,7 @@ __Downloads__: 103 | __Repository__:
 
 This module provides the ability to query the speculation control settings for the system.
 
-__Downloads__: 521,030,512 | __Repository__: 
+__Downloads__: 521,030,487 | __Repository__: 
 
 ## [Mailozaurr](https://www.powershellgallery.com/Packages/Mailozaurr/1.0.7) | 1.0.7
 
@@ -644,7 +676,7 @@ __Downloads__: 17,224 | __Repository__: https://github.com/anthonyg-1/PSTcpIp
 
 Milestone XProtect VMS configuration and automation powered by Milestone's MIP SDK.
 
-__Downloads__: 455,725 | __Repository__: https://www.milestonepstools.com/
+__Downloads__: 455,726 | __Repository__: https://www.milestonepstools.com/
 
 ## [AOVPNTools](https://www.powershellgallery.com/Packages/AOVPNTools/1.9.5) | 1.9.5
 
@@ -1961,7 +1993,7 @@ __Downloads__: 7 | __Repository__:
 
 A PowerShell module to install/update PHP, PHP extensions and Composer
 
-__Downloads__: 235,069 | __Repository__: https://github.com/mlocati/powershell-phpmanager
+__Downloads__: 235,070 | __Repository__: https://github.com/mlocati/powershell-phpmanager
 
 ## [RiverMeadow.Development.Migrate](https://www.powershellgallery.com/Packages/RiverMeadow.Development.Migrate/1.0.127.672) | 1.0.127.672
 
@@ -1995,36 +2027,4 @@ OSD PowerShell Module for Windows Deployment
 
 __Downloads__: 3,886,641 | __Repository__: https://github.com/OSDeploy/OSD
 
-## [HPEOneView.1000](https://www.powershellgallery.com/Packages/HPEOneView.1000/10.0.4265.2221) | 10.0.4265.2221
-
-### Published: 06/10/2025 04:18:00 by Hewlett-Packard Enterprise
-
-HPE OneView PowerShell Library
-
-__Downloads__: 44 | __Repository__: http://hewlettpackard.github.io/POSH-HPEOneView
-
-## [WindmillClient](https://www.powershellgallery.com/Packages/WindmillClient/1.496.3) | 1.496.3
-
-### Published: 06/09/2025 21:33:21 by Windmill Labs
-
-Client for the Windmill platform.
-
-__Downloads__: 3,821 | __Repository__: https://github.com/windmill-labs/windmill/tree/main/powershell-client
-
-## [FoundationaLLM.Core](https://www.powershellgallery.com/Packages/FoundationaLLM.Core/0.0.6) | 0.0.6
-
-### Published: 06/09/2025 21:31:43 by ciprian@foundationallm.ai
-
-Provides core functionality for FoundationaLLM, including package deployment and management.
-
-__Downloads__: 38 | __Repository__: 
-
-## [ProductivityTools.RemoveModules](https://www.powershellgallery.com/Packages/ProductivityTools.RemoveModules/0.0.17) | 0.0.17
-
-### Published: 06/09/2025 20:51:18 by Pawel Wujczyk
-
-Module allows to remove modules
-
-__Downloads__: 128 | __Repository__: https://github.com/pwujczyk/ProductivityTools.RemoveModules
-
-*Updated: Friday, 13 June 2025 21:52:27 UTC*
+*Updated: Saturday, 14 June 2025 09:52:08 UTC*
