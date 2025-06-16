@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Sunday, 15 June 2025 21:52:12 UTC
+Updated: Monday, 16 June 2025 09:53:13 UTC
 
 .bat
 .env
@@ -141,9 +141,6 @@ activedirectoryfederationservices
 activedirectry-html
 activeefficiency
 activehours
-activenet
-activenetworkstation
-activenetworkstationservice
 activeresponse
 activesession
 activiti
@@ -392,7 +389,6 @@ anti-malware
 antimalwarescaninterface
 antispam
 antivirus
-anws
 any
 anypackage
 anypoint
@@ -582,7 +578,6 @@ atlassiancli
 atlassianps
 atmosphere
 atom
-atp
 atproto
 atprotocol
 atrium
@@ -607,7 +602,6 @@ audits
 auditsysvol
 aumid
 aut
-auth
 auth0
 authenticate
 authentication
@@ -671,6 +665,7 @@ availability
 availabilityset
 avalara
 avatar
+avatax
 avd
 ave
 avepoint
@@ -790,6 +785,7 @@ azureiot
 azureiothub
 azurekeyvault
 azurekeyvaultstuff
+azurelocal
 azuremaps
 azuremigrate
 azuremonitor
@@ -823,7 +819,6 @@ azurestorage
 azurestorageservices
 azuresync
 azuretable
-azuretestplan
 azurevirtualdesktop
 azurevirtualmachines
 azurevm
@@ -1000,6 +995,7 @@ bootloader psmodule
 bootstrap
 bootstrapping
 bop
+borg
 bot
 bots
 botservice
@@ -1013,8 +1009,6 @@ brainy
 branch
 branch-rename
 brave
-brawlapi
-brawlstars
 bre
 breach
 break
@@ -1479,6 +1473,7 @@ command_line
 command-line-interface
 command-validation
 commandcoverage
+commandhistory
 commandlets
 commandline
 commandr
@@ -1605,6 +1600,7 @@ containerinstances
 containerregistry
 containers
 containment
+content
 contentprep
 context
 continious-deploy
@@ -1635,7 +1631,7 @@ conversion
 conversiontool
 convert
 convert-dtexceptiontomessage
-convert-movietogif
+convert-sid
 convert-windowsimage
 converter
 convertfrom
@@ -2486,6 +2482,7 @@ enable
 enable-internet
 enable-psremoting
 enable-psremotingremote
+enbrea
 enclosure
 encode
 encode64
@@ -2684,7 +2681,6 @@ expiring
 expiry
 exploit
 exploits
-exploration
 explorer
 exponentiation
 export
@@ -3025,6 +3021,7 @@ fzf
 gac
 gainz
 gainz-chocolateysync
+gainz-keepass
 gainz-sqldb
 gal
 gallery
@@ -3051,6 +3048,7 @@ gcp
 gcs
 gdap
 gdpr
+gdrive
 gedit
 gem
 gemini
@@ -3088,6 +3086,7 @@ geolocation
 geosearching
 geotagging
 get
+get_random_password
 get-admodernreport
 get-childitem
 get-cmhealthcheck
@@ -3172,7 +3171,6 @@ gitlab-runner
 gitlab4
 gitlabpipeline
 gitops
-glimps
 glob
 global
 globalclipboard
@@ -3289,7 +3287,6 @@ gumby
 guru
 gvim
 gw2
-gwbasic
 gymnasium
 gz
 gzip
@@ -3330,6 +3327,7 @@ hardensysvol
 hardlink
 hardmatch
 hardware
+harperdb
 hartokens
 harvest
 harvestforecast
@@ -3841,6 +3839,7 @@ issues
 isvalidemail
 isvalidip
 it
+it-support
 it-tool
 it-tools
 itadministration
@@ -4333,6 +4332,7 @@ macmon
 macos
 macosx
 macro
+macros
 madlib
 magazine
 magento
@@ -4435,6 +4435,7 @@ maven
 max
 max_path
 maximum
+maxoffice
 mazerat
 mb
 mbc
@@ -4579,7 +4580,6 @@ microsoftstore
 microsoftteams
 microsoftteamsdevices
 microsoftteamsphone
-microsoftupdate
 microsoftword
 middleware
 midserver
@@ -5288,6 +5288,7 @@ outlook
 outpainting
 output
 output-to-image
+outreach
 outsystems
 overbite
 ovf
@@ -5366,6 +5367,7 @@ passphrase
 passphraser passphrase password generator entropy
 passwd
 password
+password_generation
 password-generator
 password-less
 password-manager
@@ -5611,6 +5613,7 @@ poshlog
 poshorigin
 poshproject
 poshprtg
+poshrest
 poshrsjob
 poshtemplate
 poshwsus
@@ -5855,6 +5858,7 @@ profilevalidation
 proget
 program
 program-association
+programming
 programs
 progress
 progressbar
@@ -7756,7 +7760,6 @@ psengine
 psenv
 pses
 psexcel
-psexec
 psexec.exe
 psexpandline
 psfciv
@@ -10038,7 +10041,6 @@ splatting
 split
 splunk
 spmt
-spn
 spo
 spooler
 sport
@@ -10278,7 +10280,6 @@ sullivan
 summary
 summit
 sumologic
-supercell
 superheros
 supermarket
 support
@@ -10501,6 +10502,7 @@ test-psremoting
 test-samcmapplicationexists
 test-samcmpackageexists
 test-userisadministrator
+test-xml
 test123
 testaccount
 testautomation
@@ -10509,7 +10511,6 @@ testimonial
 testing
 testlab
 testplans
-testreport
 tests
 testsuite
 testtag1
@@ -11434,7 +11435,6 @@ windowsserver2022
 windowsserver2025
 windowsservercoresecurity
 windowsserverguisecurity
-windowsservice
 windowsservices
 windowsstore
 windowsterminal
@@ -11499,9 +11499,7 @@ workflows
 workingdays
 workinghours
 workingtime
-workload
 workload-automation
-workloadidentity
 workloads
 workpoint
 workrequests
@@ -11605,10 +11603,12 @@ xml-rpc
 xml-transform
 xmla
 xmlrpc
+xmlutils
 xoauth2
 xor
 xpath
 xpendingreboot
+xpertdoc
 xpo
 xprotect
 xpt
