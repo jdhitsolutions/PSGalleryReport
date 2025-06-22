@@ -3,13 +3,52 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
-## [Context](https://www.powershellgallery.com/Packages/Context/8.0.5) | 8.0.5
+## [GitHub](https://www.powershellgallery.com/Packages/GitHub/0.31.5) | 0.31.5
 
-### Published: 06/21/2025 21:40:30 by PSModule
+### Published: 06/22/2025 07:59:59 by PSModule
+
+A PowerShell module to interact with GitHub, both interactively and via automation.
+
+__Downloads__: 295,013 | __Repository__: https://github.com/PSModule/GitHub
+
+## [Bicep](https://www.powershellgallery.com/Packages/Bicep/2.9.1) | 2.9.1
+
+### Published: 06/22/2025 05:19:57 by Stefan Ivemo
+
+A module to run Bicep using PowerShell. The module is a community project built using the Bicep assemblies to provide you with an enhanced Bicep experience directly from PowerShell without having Bicep CLI installed. 
+
+The module also provides the additional features:
+- Generate ARM template parameter files directly from a Bicep file
+- Quickly open the API reference docs by referencing the Bicep types
+- Get the result from a build as a string or hashtable instead of writing to a file
+- Test if a Bicep file is valid without building it
+- Convert JSON objects to Bicep Language
+- Install/Update/Uninstall Bicep CLI
+- Specify output folder when building* and decompiling Bicep/ARM templates
+- Specify output filename when building Bicep files
+- Find modules in private module registries
+- Clear local module cache
+
+For more information about Bicep, please visit the official Bicep GitHub Repository:
+https://github.com/Azure/bicep
+
+__Downloads__: 3,932,474 | __Repository__: https://github.com/PSBicep/PSBicep
+
+## [LibreDevOpsHelpers](https://www.powershellgallery.com/Packages/LibreDevOpsHelpers/1.1.1) | 1.1.1
+
+### Published: 06/22/2025 00:21:26 by Craig Thacker
+
+Helper functions for Libre DevOps projects
+
+__Downloads__: 341 | __Repository__: https://github.com/libre-devops/powershell-helpers
+
+## [Context](https://www.powershellgallery.com/Packages/Context/8.1.0) | 8.1.0
+
+### Published: 06/21/2025 22:02:37 by PSModule
 
 A PowerShell module that manages contexts with secrets and variables.
 
-__Downloads__: 266,851 | __Repository__: https://github.com/PSModule/Context
+__Downloads__: 266,899 | __Repository__: https://github.com/PSModule/Context
 
 ## [ValidateAADJwt](https://www.powershellgallery.com/Packages/ValidateAADJwt/0.0.7) | 0.0.7
 
@@ -25,7 +64,7 @@ __Downloads__: 209 | __Repository__:
 
 A PowerShell module for managing and switching between multiple JDK installations on Windows. Supports automatic JDK detection, custom paths, and environment management.
 
-__Downloads__: 2 | __Repository__: https://github.com/nkrivokapic/jdk-manager
+__Downloads__: 0 | __Repository__: https://github.com/nkrivokapic/jdk-manager
 
 ## [PSFirebird](https://www.powershellgallery.com/Packages/PSFirebird/0.2.0) | 0.2.0
 
@@ -58,14 +97,6 @@ __Downloads__: 52 | __Repository__: https://github.com/teramako/Jagabata.psm
 PowerShell Module to find compatible attestation FIDO2 keys for Entra.
 
 __Downloads__: 7,669 | __Repository__: https://github.com/DevClate/EntraFIDOFinder
-
-## [GitHub](https://www.powershellgallery.com/Packages/GitHub/0.31.4) | 0.31.4
-
-### Published: 06/21/2025 10:39:13 by PSModule
-
-A PowerShell module to interact with GitHub, both interactively and via automation.
-
-__Downloads__: 295,013 | __Repository__: https://github.com/PSModule/GitHub
 
 ## [DebugURL](https://www.powershellgallery.com/Packages/DebugURL/1.0.6) | 1.0.6
 
@@ -185,7 +216,7 @@ __Downloads__: 3,946 | __Repository__: https://github.com/windmill-labs/windmill
 
 Simple project allowing preparing, managing, building and publishing modules to PowerShellGallery
 
-__Downloads__: 3,641 | __Repository__: https://github.com/EvotecIT/PSPublishModule
+__Downloads__: 3,622 | __Repository__: https://github.com/EvotecIT/PSPublishModule
 
 ## [Nexthink-Citrix-Connector](https://www.powershellgallery.com/Packages/Nexthink-Citrix-Connector/1.7.0) | 1.7.0
 
@@ -226,15 +257,7 @@ __Downloads__: 17 | __Repository__: https://github.com/timmac-qmc/OrphanedAutoPi
 
 Scripting WinUI 3 with PowerShell
 
-__Downloads__: 347 | __Repository__: https://github.com/mdgrs-mei/WinUIShell
-
-## [LibreDevOpsHelpers](https://www.powershellgallery.com/Packages/LibreDevOpsHelpers/1.1.0) | 1.1.0
-
-### Published: 06/20/2025 13:05:17 by Craig Thacker
-
-Helper functions for Libre DevOps projects
-
-__Downloads__: 341 | __Repository__: https://github.com/libre-devops/powershell-helpers
+__Downloads__: 348 | __Repository__: https://github.com/mdgrs-mei/WinUIShell
 
 ## [SAPAzurePowerShellModules](https://www.powershellgallery.com/Packages/SAPAzurePowerShellModules/0.1.86) | 0.1.86
 
@@ -290,7 +313,7 @@ __Downloads__: 86,964 | __Repository__:
 
 TeamViewerPS allows to interact with the TeamViewer Web API as well as a locally installed TeamViewer client.
 
-__Downloads__: 77,775,013 | __Repository__: https://github.com/teamviewer/TeamViewerPS
+__Downloads__: 77,776,755 | __Repository__: https://github.com/teamviewer/TeamViewerPS
 
 ## [EpiCloud](https://www.powershellgallery.com/Packages/EpiCloud/1.9.0) | 1.9.0
 
@@ -298,7 +321,7 @@ __Downloads__: 77,775,013 | __Repository__: https://github.com/teamviewer/TeamVi
 
 A module that can interact with the Episerver Cloud
 
-__Downloads__: 727,215 | __Repository__: 
+__Downloads__: 727,216 | __Repository__: 
 
 ## [PSOpenAI](https://www.powershellgallery.com/Packages/PSOpenAI/4.29.1) | 4.29.1
 
@@ -825,7 +848,7 @@ __Downloads__: 1,467 | __Repository__: https://github.com/oracle/oci-powershell-
 
 This modules provides Cmdlets for OCI Secrets Service
 
-__Downloads__: 11,998 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+__Downloads__: 11,997 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
 ## [OCI.PSModules.Sch](https://www.powershellgallery.com/Packages/OCI.PSModules.Sch/109.2.0) | 109.2.0
 
@@ -1945,7 +1968,7 @@ __Downloads__: 306,565 | __Repository__: https://github.com/oracle/oci-powershel
 
 Manage PIM Azure Resource, PIM Entra role and PIM for Group settings and assignments with simplicity in mind
 
-__Downloads__: 41,613 | __Repository__: https://github.com/kayasax/EasyPIM/
+__Downloads__: 41,616 | __Repository__: https://github.com/kayasax/EasyPIM/
 
 ## [TMConsole.Client](https://www.powershellgallery.com/Packages/TMConsole.Client/2.5.9) | 2.5.9
 
@@ -2027,7 +2050,7 @@ __Downloads__: 19 | __Repository__: https://github.com/EvotecIT/Globalping
 
 The Devolutions.PowerShell module is a set of cmdlets that allow administrators to manage Remote Desktop Manager, Devolutions Server and Devolutions Hub Business using PowerShell. This module provides a simple and consistent interface for interacting with these products, making it easy to automate various tasks, such as creating and managing connections, sessions, and credentials, configuring security settings, and generating reports. The module can be easily integrated with other PowerShell modules, allowing administrators to automate tasks across multiple products and platforms, streamline their workflows and increase efficiency.
 
-__Downloads__: 422,903 | __Repository__: https://devolutions.net/
+__Downloads__: 422,884 | __Repository__: https://devolutions.net/
 
 ## [ISEColorTheme.Cmdlets](https://www.powershellgallery.com/Packages/ISEColorTheme.Cmdlets/2.0.0) | 2.0.0
 
@@ -2045,12 +2068,4 @@ Client for the Fortytwo Galaxy Collections Criteria API, which allows you to cre
 
 __Downloads__: 32 | __Repository__: 
 
-## [KubeBuddy](https://www.powershellgallery.com/Packages/KubeBuddy/0.0.23) | 0.0.23
-
-### Published: 06/17/2025 14:49:22 by Richard Hooper
-
-KubeBuddy - A Kubernetes assistant for PowerShell.
-
-__Downloads__: 228 | __Repository__: https://kubebuddy.io/
-
-*Updated: Saturday, 21 June 2025 21:52:04 UTC*
+*Updated: Sunday, 22 June 2025 09:51:53 UTC*

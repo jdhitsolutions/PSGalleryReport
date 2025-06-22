@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Saturday, 21 June 2025 21:52:13 UTC
+Updated: Sunday, 22 June 2025 09:52:01 UTC
 
 .bat
 .env
@@ -589,7 +589,6 @@ atproto
 atprotocol
 atrium
 att&ck
-attach
 attention
 attestation
 attila
@@ -734,6 +733,7 @@ azsk
 azsql
 azstackhci
 azstate
+azsubnet
 aztools
 azts
 azuead
@@ -825,7 +825,6 @@ azurestackhci
 azurestate
 azurestorage
 azurestorageservices
-azuresync
 azuretable
 azuretestplan
 azurevirtualdesktop
@@ -880,6 +879,8 @@ bbc
 bbp
 bc
 bc365
+bcd
+bcdedit
 bcdr
 bconnect
 bd
@@ -999,6 +1000,7 @@ bookmarks
 books
 bool
 boolean
+bootloader psmodule
 bootstrap
 bootstrapping
 bop
@@ -2379,6 +2381,7 @@ dutch
 dvls
 dvr
 dword
+dxexpeditions
 dynamic
 dynamic-host-configuration-protocol
 dynamic-privileged-access
@@ -2631,7 +2634,6 @@ evernote
 everydaypowershell
 everydayrewards
 everything
-evilprince2009
 evolutionary-algorithms
 evolutionary-database
 evtx
@@ -2851,7 +2853,6 @@ finance
 finance&operations
 financeandoperations
 financeoperations
-finances
 financial
 financialedge
 financialmodeling
@@ -3314,7 +3315,6 @@ hadoop
 hafr
 haiku
 hailstone
-haipa
 halo
 haloitsm
 halopsa
@@ -3363,6 +3363,7 @@ hbase
 hci
 hcl
 hcm
+hcp
 hcx
 hdfs
 hdhomerun
@@ -3595,7 +3596,6 @@ identitysecuritycloud
 idf
 idm
 idn
-idna
 idoit
 idrac
 ids
@@ -3851,7 +3851,6 @@ iso-8601
 ispac
 isprime
 ispss
-issues
 isvalidemail
 isvalidip
 it
@@ -4047,7 +4046,6 @@ kubernetes
 kubernetesconfiguration
 kubernetesruntime
 kubesnapit
-kubespray
 kubetidy
 kudu
 kurukuru
@@ -4101,6 +4099,7 @@ latestupdate
 latin
 latitude
 launcher
+laws
 layer
 layman
 layout
@@ -4334,6 +4333,7 @@ lync
 m365
 m365defenderstuff
 m365dsc
+maas360
 maatschap-fortigi
 mac
 mac-address
@@ -4643,6 +4643,7 @@ ml.net
 mlflow
 mlmodels
 mltools
+mmdc
 mngdmac
 mobile
 mobilenetwork
@@ -4713,6 +4714,8 @@ mp4
 mpc
 mpeg
 mpn
+mrfk
+mrfylke
 mrvl_fc_powerkit
 mrvlfcprovider
 ms_365
@@ -5236,7 +5239,6 @@ optimize
 optimized
 optimizer
 option
-option119
 options
 optionstring
 opus
@@ -5804,7 +5806,6 @@ predictive-text
 predictor
 preferences
 prefix
-prefixing
 preparead
 preparealldomains
 prepareschema
@@ -8934,7 +8935,6 @@ pullrequest
 pullserver
 pulseway
 pulumi
-punycode
 puppet
 puppetdb
 puppy
@@ -9241,7 +9241,6 @@ rename-gitbranch
 render
 reonboarding
 repair
-repair-msauth
 reparse
 reparsepoint
 repeat
@@ -9601,7 +9600,6 @@ searchmanager
 searchplace
 searchquery
 searchstring
-searchsuffixlist
 secaas
 secedit
 secret
@@ -9612,7 +9610,6 @@ secretsanta
 secretscanner
 secretserver
 secretshub
-secretsmanagement
 secretsmanager
 secretstore
 secretvault
@@ -9784,7 +9781,6 @@ shadowcopy
 shadowcopybackups
 shadowgroups
 shanehoey
-shanghaitech
 shard
 share
 share-permission
@@ -10089,7 +10085,6 @@ sqlbulkcopy
 sqlchangeautomation
 sqlclient
 sqlcmd
-sqlcodeguard
 sqldatabase
 sqldb
 sqldbatools
@@ -10221,6 +10216,7 @@ stockscreenerapi
 stoicism
 stoics
 stolpe.io
+stop
 storablecolortheme
 storage
 storageaccount
@@ -10274,6 +10270,7 @@ subnet
 subnet-calculator
 subnetcalculator
 subnetcalulator
+subnetdetails
 subnetmapping
 subnetmask
 subnetmaths
@@ -10750,7 +10747,6 @@ ts
 tsa
 tsd
 tsheets
-tsqlbestpractice
 tst
 tst1
 tst3
@@ -10829,7 +10825,6 @@ ud-numbermask
 ud-orgchart
 ud-piechart3d
 ud-pivottable
-ud-progressstepbar
 ud-rangeslider
 ud-readingbar
 ud-scrollspy
@@ -10848,7 +10843,6 @@ ud-timeline
 ud-timeout
 ud-tool
 ud-toploader
-ud-trendline
 ud-typing
 ud-window
 ud-wordtree
@@ -11050,6 +11044,7 @@ vdp
 vdportgroup
 vdswitch
 vduplink
+ve7cc
 vector
 veeam
 veeampn
