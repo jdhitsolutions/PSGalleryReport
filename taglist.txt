@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 23 June 2025 09:53:31 UTC
+Updated: Monday, 23 June 2025 21:52:03 UTC
 
 .bat
 .env
@@ -82,7 +82,6 @@ abakion
 abc
 abc_testing
 abe
-about
 abr
 abstractsyntaxtree
 abuse
@@ -116,11 +115,11 @@ acr
 act-on
 act!
 actifio
-actifiogo
 action
 action1
 actionablemessages
 actiongroup
+actionhero
 actionplan
 actions
 activate
@@ -170,6 +169,7 @@ adaptive-card
 adaptivecard
 adaptivecards
 adb
+adc
 adcs
 add
 add-in
@@ -345,7 +345,6 @@ amazonaws
 amazonmgn
 amazontitan
 amazonwebservices
-amend
 ami
 amiga
 amp
@@ -486,7 +485,6 @@ arabic
 arangodb
 arc
 arcade
-arcgateway
 arcgis
 arch
 architecture
@@ -565,6 +563,7 @@ assets
 assist
 assistance
 assistant
+association
 ast
 astro
 astronomy
@@ -746,7 +745,6 @@ azure-devops
 azure-forensics
 azure-functions
 azure-pipelines
-azure-resource-graph
 azure-ssis
 azureactivedirectory
 azuread
@@ -815,8 +813,6 @@ azuresecuritycenter
 azureservicebus
 azuresigntool
 azuresql
-azuresqlexport
-azuresqlimport
 azuressas
 azurestack
 azurestackhci
@@ -1003,7 +999,6 @@ bootloader psmodule
 bootstrap
 bootstrapping
 bop
-borg
 bot
 bots
 botservice
@@ -1057,6 +1052,7 @@ build
 build-log
 build-scripts
 build-test-publish
+builddefinition
 builder
 buildhelpers
 building
@@ -1172,7 +1168,6 @@ cdrom
 cds
 cdx
 ce
-celcat
 celerium
 censor
 center
@@ -1522,11 +1517,11 @@ component
 composer
 composite
 compositeresource
+compoundproperty
 compress
 compression
 compromised
 compute
-compute-ops-management
 computecloudatcustomer
 computefleet
 computeinstanceagent
@@ -1539,7 +1534,6 @@ computersite
 computeschedule
 comulativeupdate
 concur
-concurrency
 concurrent
 conda
 condition
@@ -1587,7 +1581,6 @@ connectionsmanager
 connectionstring
 connectivity
 connector
-connectorcmd
 connectormanagement
 connectsync
 connectwise
@@ -1836,6 +1829,7 @@ cyber
 cyberark
 cyberark-api
 cyberark-dpa
+cyberark-identity
 cyberdrain
 cybereason
 cybersecurity
@@ -1882,7 +1876,6 @@ data-uri-converter
 dataadapter
 database
 database-migrations
-databaseautomation
 databasemanagement
 databasemigration
 databases
@@ -2382,6 +2375,7 @@ dynamic
 dynamic-host-configuration-protocol
 dynamic-privileged-access
 dynamicdistributiongroups
+dynamicdistributionlist
 dynamicdnsoverhttps
 dynamicparam
 dynamicparameters
@@ -2457,7 +2451,6 @@ elitism
 elk
 elm
 elmah-io
-elonmusk
 eloomi
 eloqua
 elvish
@@ -2549,6 +2542,7 @@ epicor
 episode
 epplus
 eprosima
+epub
 epv
 equality
 erb
@@ -2735,6 +2729,7 @@ faf
 failedlogin
 failure
 fake
+fake-useragent
 falcon
 fallbackstatuspoint
 fanarttv
@@ -2834,6 +2829,7 @@ filesystemrights
 filesystemsecurity
 filesystemwatcher
 filetransfer
+filetype
 filewrite
 fill
 film
@@ -2941,7 +2937,6 @@ form
 format
 format-numberedlist
 formatdata
-formatformat-tableformat-listformat-wideformat-customformat-defaultout-defaultout-fileout-hostout-printerout-string
 formatter
 formatting
 formdata
@@ -3055,7 +3050,6 @@ gcp
 gcs
 gdap
 gdpr
-gdrive
 gedit
 gem
 gemini
@@ -3073,8 +3067,6 @@ generates
 generatewif
 generation
 generativeai
-generativeaiagent
-generativeaiagentruntime
 generativeaiinference
 generator
 generic
@@ -3187,7 +3179,6 @@ globalentry
 globallydistributeddatabase
 globalping
 globbing
-glp
 glpi
 gmail
 gmap
@@ -3246,7 +3237,6 @@ graph
 graph-api
 graphapi
 graphapirequests
-graphconnector
 graphexplorer
 graphic
 graphics
@@ -3257,7 +3247,6 @@ graphs
 graphservices
 graphviz
 graylog
-greenlake
 greenplum
 gregorian
 gremlin
@@ -3265,6 +3254,7 @@ grep
 greynoise
 grid
 gridfs
+gridview
 grok
 groundspeak
 group
@@ -3358,7 +3348,6 @@ hbase
 hci
 hcl
 hcm
-hcp
 hcx
 hdfs
 hdhomerun
@@ -3366,7 +3355,6 @@ hdinsight
 hdinsightonaks
 hdr
 header
-headhunter
 health
 health_checks
 health-check
@@ -3399,13 +3387,11 @@ helper
 helper-functions
 helperfunctions
 helpers
-helpfile
 helpful
 heml
 here
 hewlett
 hewlett-packard
-hewlett-packard-enterprise
 hewlett-packardenterprise
 hex
 hexdump
@@ -3483,7 +3469,6 @@ hpccache
 hpe
 hpealletra6000andnimblestoragepowershelltoolkit
 hpebioscmdlets
-hpegreenlake
 hpeilocmdlets
 hpemigrationadvisorycmdlets
 hpemigrationadvisorytool
@@ -3857,8 +3842,10 @@ it-tools
 itadministration
 italic-text
 item
+itemlist
+itemobject
 items
-iterate
+itemstack
 iteration
 itg
 itglue
@@ -3871,12 +3858,15 @@ ivb
 ivdc
 iwi
 j
+j81-blog
 jamba
 japanese
 jar
 jav
 java
+javamanager
 javascript
+javaversion
 jboss
 jdbc
 jde
@@ -4224,6 +4214,7 @@ locationbasedservices
 locations
 lock
 lockbox
+lockdisplaytimeout
 lockdown
 lockfile
 locking
@@ -4314,7 +4305,6 @@ luma
 lumaai
 lunar
 lunches
-lustrefilestorage
 lwa
 lxca
 lxcapstool
@@ -4634,6 +4624,7 @@ ml.net
 mlflow
 mlmodels
 mltools
+mmdc
 mngdmac
 mobile
 mobilenetwork
@@ -4688,7 +4679,6 @@ monthlyupdate
 moodle
 moonshot
 more
-mos
 mosaic
 motd
 motivation
@@ -5007,6 +4997,7 @@ notifu
 notify
 notify-send
 notify-send-wsl
+notion
 nova
 npgsql
 npm
@@ -5046,7 +5037,6 @@ nupkg
 nuspec
 nutanix
 nuwave
-nva
 nvd
 nvdimm
 nvdimm-n
@@ -5075,6 +5065,7 @@ obfuscation
 obj
 object
 objectid
+objects
 objectstorage
 objecttree
 obs
@@ -5228,6 +5219,7 @@ optimize
 optimized
 optimizer
 option
+option119
 options
 optionstring
 opus
@@ -5282,6 +5274,8 @@ ou
 ou-object
 oui
 oui-search
+oura
+ouraring
 out-consolegridview
 out-default
 out-gridview
@@ -5413,8 +5407,6 @@ paypal
 pays
 pbench
 pbip
-pbixtopbip
-pbixtopbit
 pc
 pcapng
 pci-dss
@@ -5592,7 +5584,6 @@ port
 port-scanner
 port70
 portal
-portchecker
 porthunter
 ports
 portscan
@@ -5678,7 +5669,6 @@ poshy-wrap-yum
 poshy-wrap-zypper
 position
 post
-postcode
 postgre
 postgres
 postgresql
@@ -5749,7 +5739,6 @@ powershell.one
 powershell.persistentpathstack
 powershell7
 powershellai
-powershellazuresql
 powershellconferenceeurope
 powershellcore
 powershellcourse
@@ -5801,7 +5790,6 @@ prepend
 preprocessing
 preprocessor
 presentation
-presentationframework
 presenter
 presto
 preston-k-parsard
@@ -7733,7 +7721,6 @@ pscribo
 pscustomobject
 psd
 psd1
-psdb
 psdefaultparametervalues
 psdeploy
 psdesiredstateconfiguration
@@ -8821,8 +8808,8 @@ psincludes_command
 psincludes_function
 psini
 psinsight
+psintune
 psise
-psitem
 psjob
 psjobs
 psjobthreads
@@ -8925,7 +8912,6 @@ pulseway
 pulumi
 punycode
 puppet
-puppetdb
 puppy
 pure
 pure1
@@ -8961,7 +8947,6 @@ pykick
 pylint
 pyranja
 python
-python-for-dotnet
 python3
 qatam
 qcloud
@@ -9083,6 +9068,7 @@ react-stockcharts
 read
 read-slog
 readable
+reader
 readiness
 readme
 readpdf
@@ -9091,24 +9077,22 @@ real-time
 realschule
 realtimeprotection
 realvnc
-rebase
 reboot
 rebootnodeifneeded
 recastsoftware
 reckon
 recommendation
 reconcile
-reconnaissance
 record
 recording
 recordings
 recordsmanagement
 recovery
 recoveryservices
-recruiter
 recrutch
 recurse
 recursion
+recursive
 recursivefilesandfoldersdownload
 recursivefilesandfoldersupload
 recyclebin
@@ -9174,6 +9158,7 @@ relational
 relativity
 relay
 release
+releasedefinition
 releasehealth
 releasemanagement
 releasenotes
@@ -9307,8 +9292,6 @@ reversedsc
 reverseengineering
 review
 revision
-reword
-rewrite
 rexec
 rfc1305
 rfc1436
@@ -9331,6 +9314,7 @@ rightjoin
 rights
 rightsizing
 rightsmanagement
+ring
 ripe
 risk
 riskiq
@@ -9350,7 +9334,6 @@ robocopy
 robot
 roca
 rock
-rocket
 rocketcyber
 roco
 rocolatey
@@ -9368,11 +9351,9 @@ round
 roundrobindatabase
 route
 route53
-routeconfig
 router
 routeros
 routes
-routetable
 routine
 rover
 royalapps
@@ -9544,6 +9525,7 @@ screensaver
 screenscraping
 screenshot
 script
+script_version
 script-module
 script-to-assembly
 script-to-executable
@@ -9574,10 +9556,10 @@ sd
 sddl
 sdk
 sdn
+sdp
 search
 search-adminauditlog
 search-engines
-searchconnector
 searchengine
 searcher
 searching
@@ -9585,6 +9567,7 @@ searchmanager
 searchplace
 searchquery
 searchstring
+searchsuffixlist
 secaas
 secedit
 secret
@@ -9829,7 +9812,6 @@ silicondust
 silk
 silver_ticket
 sim
-simac
 simple
 simplecontainers
 simplepassword
@@ -9848,7 +9830,6 @@ sintez.module.rds
 sit
 site
 site_navigation
-sitecollection
 siteconfiguration
 sitecore
 sitecoresearch
@@ -9912,7 +9893,6 @@ smimepop
 smlets
 smo
 smorgasbord
-smp
 sms
 smtp
 smtpaddressupdate psmodule
@@ -9998,7 +9978,6 @@ sourcequery
 sovcloud
 space
 spaces
-spacex
 spam
 spamtitan
 spanner
@@ -10065,7 +10044,6 @@ sql-database
 sql-script
 sql-server
 sqlagent
-sqlautomation
 sqlbits
 sqlbrowser
 sqlbulkcopy
@@ -10077,7 +10055,6 @@ sqldatabase
 sqldb
 sqldbatools
 sqldiagapi
-sqlexport
 sqlgateway
 sqlite
 sqlitebynarymodule
@@ -10274,7 +10251,6 @@ subversion
 success
 successfactors
 sudo
-sugar
 sugarcrm
 suggestion
 suitecrm
@@ -10418,6 +10394,7 @@ task-runner
 task-scheduler
 taskbar
 tasker
+taskgroup
 taskmanagement
 tasks
 taskscheduler
@@ -10591,7 +10568,6 @@ timer
 timeseriesinsights
 timesheet
 timesheets
-timespan
 timestamp
 timezone
 tinkerpop
@@ -10840,7 +10816,6 @@ udfeedback
 udp
 udpclient
 udptest
-udr
 udthememode
 udword
 uefi
@@ -10947,6 +10922,7 @@ usb
 useful
 user
 user-environment
+useragent
 userdiscovery
 usergroup
 usergroups
@@ -11019,7 +10995,6 @@ vbsinst
 vc
 vccmdlets
 vcenter
-vcf
 vcloud
 vclouddirector
 vcm
@@ -11052,6 +11027,7 @@ verify
 version
 versioncontrol
 versioning
+versionmanager
 versionnumber
 vertical
 vester
@@ -11071,7 +11047,6 @@ vimode
 virole
 virsh
 virtual
-virtualappliance
 virtualbox
 virtualboxguestadditions
 virtualdesktop
@@ -11258,6 +11233,7 @@ webapp
 webapplicationproxy
 webapps
 webauthn
+webbrowser
 webcamera
 webcmdlets
 webdav
@@ -11495,7 +11471,6 @@ wordlist
 wordpress
 wordwrap
 workbook
-workday
 worker
 workflow
 workflowmax
@@ -11507,7 +11482,6 @@ workload
 workload-automation
 workloadidentity
 workloads
-workpoint
 workrequests
 worksheet
 workshop
@@ -11545,6 +11519,7 @@ write-wansi
 writeaccess
 writelog
 writeprogress
+writer
 ws-federation
 wsapi
 wsb
