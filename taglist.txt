@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Tuesday, 24 June 2025 09:53:13 UTC
+Updated: Tuesday, 24 June 2025 21:52:25 UTC
 
 .bat
 .env
@@ -761,6 +761,7 @@ azureadvancedthreatprotection
 azureaitranslator
 azureappconfiguration
 azureapplicationstuff
+azurearc
 azurearcstuff
 azureartifacts
 azureas
@@ -843,7 +844,6 @@ backup_validation
 bamboo
 bamboohr
 bandwidth
-bank
 banking
 banner
 bar
@@ -1658,13 +1658,11 @@ convertfrom-table
 convertfrom-yaml
 convertto
 convertto-excel
-convertto-hashtable
 convertto-yaml
 converttodocx
 converttohtml
 converttomarkdown
 converttomd
-conway
 cookie
 coolq
 cooltag1
@@ -2080,6 +2078,7 @@ deviation
 device
 devicecode
 deviceid
+devicemanagement
 deviceprovisioningservice
 deviceregistry
 devicereports
@@ -2220,6 +2219,7 @@ dnsdumpster
 dnsentry
 dnsimple
 dnslookup
+dnsmadeeasy
 dnsoverhttps
 dnsrecord
 dnsresolver
@@ -2634,6 +2634,7 @@ evergreen
 everix
 evernote
 everydaypowershell
+everydayrewards
 everything
 evilprince2009
 evolutionary-algorithms
@@ -2940,7 +2941,6 @@ forcedelete
 foreach
 foreach-object
 forecast
-forensic
 forensics
 forest
 forestdiscovery
@@ -3042,7 +3042,6 @@ gainz-sqldb
 gal
 gallery
 game
-game-of-life
 gamecategory:cards
 games
 gameserver
@@ -3376,6 +3375,7 @@ hdinsight
 hdinsightonaks
 hdr
 header
+headhunter
 health
 health_checks
 health-check
@@ -3745,7 +3745,6 @@ integrationruntimedependency
 integrationservicescatalog
 integrity
 intel
-inteligo
 intelligence
 intelligence"
 intellisearch
@@ -3769,6 +3768,7 @@ intranet
 intrusion
 intuitive
 intune
+intuneadminroles
 intuneappwinutil
 intunestuff
 intunewinapputil
@@ -5110,7 +5110,6 @@ octopus-deploy
 octopus.client
 octopusdeploy
 octopusenergy
-ocvp
 od4b
 oda
 odata
@@ -5215,7 +5214,6 @@ openidconnect
 openinghours
 openport
 openprovider
-openscad
 opensearch
 opensource
 opensourceinitiative
@@ -5240,7 +5238,6 @@ opml
 ops
 opsi
 opsmgr
-optics
 optimise
 optimization
 optimize
@@ -5307,7 +5304,6 @@ ouraring
 out-consolegridview
 out-default
 out-gridview
-out-json
 outerjoin
 outertext
 outline
@@ -5502,7 +5498,6 @@ photos
 php
 phpapam
 pi
-pi-hole
 picker
 pico
 picture
@@ -8871,7 +8866,6 @@ psnavigation
 psnexosisclient
 psngenposh
 psobject
-psoutlog
 pspath
 pspersonio
 pspowerhour
@@ -9129,6 +9123,7 @@ recordings
 recordsmanagement
 recovery
 recoveryservices
+recruiter
 recrutch
 recurse
 recursion
@@ -9155,7 +9150,6 @@ redistributables
 redkite
 redseal
 redshift
-redteaming
 redundancy
 refactor
 refactoring
@@ -9251,6 +9245,7 @@ rename-git
 rename-git-branch
 rename-gitbranch
 render
+reonboarding
 repair
 repair-msauth
 reparse
@@ -9519,7 +9514,6 @@ sccminstall
 sccmpackage
 sccmprereqs
 scep
-scepman
 sch
 schannel
 schannelpolicydsc
@@ -9732,6 +9726,7 @@ servicecatalog
 serviceconnectionpoint
 servicecontrol
 servicedesk
+servicedeskplus
 serviceendpoints
 servicefabric
 servicelinker
@@ -10176,6 +10171,7 @@ stanc
 standard
 standarderror
 standardoutput
+standards
 standbypool
 stansummary
 start
@@ -10529,11 +10525,9 @@ test-dscconfiguration
 test-internetconnection
 test-modulemanifest
 test-modulepath
-test-osplatform
 test-psremoting
 test-samcmapplicationexists
 test-samcmpackageexists
-test-userisadministrator
 test-xml
 test123
 testaccount
@@ -10644,7 +10638,6 @@ toasts
 tobias
 toc
 todo
-todo.txt
 toggl
 toggl-api
 toggl-api-powershell
@@ -10830,9 +10823,7 @@ ud-field
 ud-flexytable
 ud-funnel
 ud-hero
-ud-illustration
 ud-input
-ud-licensed
 ud-loadingoverlay
 ud-minesweeper
 ud-mouseparticle
@@ -11518,6 +11509,8 @@ wol
 wolfram
 wolframalpha
 woocommerce
+woolworths
+woolworthsrewards
 word
 word-wrap
 wordcloud
@@ -11525,6 +11518,7 @@ wordlist
 wordpress
 wordwrap
 workbook
+workday
 worker
 workflow
 workflowmax
