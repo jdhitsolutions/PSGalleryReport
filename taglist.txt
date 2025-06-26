@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Wednesday, 25 June 2025 21:52:16 UTC
+Updated: Thursday, 26 June 2025 09:53:06 UTC
 
 .bat
 .env
@@ -19,6 +19,7 @@ Updated: Wednesday, 25 June 2025 21:52:16 UTC
 🍄
 🍣
 💩
+🙇
 1&1
 10
 11
@@ -1004,6 +1005,7 @@ bootloader psmodule
 bootstrap
 bootstrapping
 bop
+borg
 bot
 bots
 botservice
@@ -1480,7 +1482,6 @@ comdata
 comedy
 comic
 comical
-comics
 command
 command_line
 command-line-interface
@@ -2134,6 +2135,7 @@ directorymarks
 directoryname
 directorysearcher
 directorysecurity
+directoryservices
 directrouting
 directus
 direnv
@@ -2190,6 +2192,7 @@ distrubtionpoint
 dividends
 diving
 division
+divoom
 diy
 dkim
 dkschrutebeets
@@ -2211,6 +2214,7 @@ dns-01
 dns-administration
 dns-async
 dns-client
+dns-over-https
 dns-resolver
 dnsbl
 dnsclient
@@ -2307,6 +2311,7 @@ driftmonitor
 drink
 drive
 drive letter
+drivemap
 driven
 driver
 driverpacks
@@ -2403,7 +2408,6 @@ dynamicsax
 dynamicsecuritygroups
 dynamicsnav
 dynamodb
-dynatrace
 dynatraceobservability
 dz
 e-mail
@@ -2449,6 +2453,7 @@ elastic
 elasticsan
 elasticsearch
 elb
+element
 elevate
 elevated
 elevatedconsole
@@ -2582,7 +2587,6 @@ esp32s2
 espressif
 espresso
 esri
-essbase
 est
 estimate
 estimation
@@ -2601,7 +2605,6 @@ etrade
 ets
 etw
 eulanda
-evaluation
 evaluator
 evc
 event
@@ -2909,8 +2912,6 @@ fleetsoftwareupdate
 flex
 flex-query
 flexdesk
-flexible
-flickr
 flowchart
 flowy
 fluidrelay
@@ -3062,6 +3063,7 @@ gcp
 gcs
 gdap
 gdpr
+gdrive
 gedit
 gem
 gemini
@@ -3351,7 +3353,6 @@ hash
 hash-verification
 hashcat
 hashicorp
-hashing
 hashset
 hashtable
 hasicorp
@@ -3460,7 +3461,6 @@ holiday
 home
 home_automation
 homebrew
-homelab
 homelandsecurity
 homeschooling
 hometheater
@@ -3931,7 +3931,6 @@ jsm
 jsm.insight
 json
 json-converter
-json-ld
 json-transform
 json+
 json2ps
@@ -3978,7 +3977,6 @@ kdbx
 kdialog
 kebab-case
 keenetic
-keepachangelog
 keepalive
 keepass
 keepasslib
@@ -4081,6 +4079,7 @@ lake
 lambda
 lambdatest
 lame
+lametrictime
 landingzones
 language
 language-model
@@ -4260,8 +4259,6 @@ logbook
 logcat
 logentry
 logfile
-logfilearchivearchive
-logfilemanagement psmodule
 logfiles
 logger
 logging
@@ -4433,7 +4430,6 @@ marketplacepublisher
 marking
 marklogic
 marquee
-marvel
 marvell
 marvell_semiconductor_inc
 marvellfcpowerkit
@@ -4484,7 +4480,6 @@ mdop
 mdp
 mdt
 mdx
-me4024
 mean
 measure
 measure-loc
@@ -4563,7 +4558,6 @@ microsoft_teams
 microsoft-entra
 microsoft-entra-id
 microsoft-graph
-microsoft-sentinel
 microsoft-teams
 microsoft-web-platform
 microsoft-windows
@@ -4851,6 +4845,7 @@ namespace
 naming
 nana
 nano
+nanoleaf
 nartac
 nasdaq
 native
@@ -5531,6 +5526,7 @@ piv
 pivot
 pivotal
 pivottable
+pixoo
 pkce
 pkgx
 pki
@@ -5552,9 +5548,6 @@ player
 playlists
 playwright
 plc
-plc4net
-plc4netps
-plc4x
 plc4x™
 plconnet
 plconnetps
@@ -8873,9 +8866,6 @@ pspath
 pspersonio
 pspowerhour
 psprofiler
-psproject
-psprojectcreator
-psprojectgenerator
 psprovider
 psprtg
 pspublicapi
@@ -9476,7 +9466,6 @@ saml2
 sample
 sampler
 samurai
-san
 sand
 sandbox
 sanitization
@@ -9732,7 +9721,6 @@ serviceconnectionpoint
 servicecontrol
 servicedesk
 servicedeskplus
-serviceendpoints
 servicefabric
 servicelinker
 servicemanagementautomation
@@ -10311,7 +10299,6 @@ summary
 summit
 sumologic
 supercell
-superheros
 supermarket
 support
 support-tool
@@ -10540,7 +10527,6 @@ test123
 testaccount
 testautomation
 tester
-testimonial
 testing
 testlab
 testplans
@@ -10782,6 +10768,7 @@ tweet
 twig
 twilio
 twincat
+twinkly
 twitch
 twitter
 twitter-api
@@ -10870,6 +10857,7 @@ udp
 udpclient
 udptest
 udr
+udthememode
 udword
 uefi
 uem
@@ -11194,7 +11182,6 @@ vpn-certificate
 vpro
 vps
 vra
-vrchat
 vrealize
 vrising
 vro
@@ -11220,6 +11207,7 @@ vss
 vssetup
 vsshell
 vst
+vsteambuilder
 vsteams
 vstest
 vsts
