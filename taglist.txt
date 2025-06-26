@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Thursday, 26 June 2025 09:53:06 UTC
+Updated: Thursday, 26 June 2025 21:52:05 UTC
 
 .bat
 .env
@@ -583,6 +583,7 @@ atlassian
 atlassiancli
 atlassianps
 atmosphere
+atom
 atp
 atproto
 atprotocol
@@ -1103,7 +1104,6 @@ caf
 caffeine
 cal
 calc
-calculate
 calculator
 calendar
 callingcode
@@ -1253,7 +1253,6 @@ choco-bear
 chocobear
 chocolatey
 choice
-choose_file
 choose_file_name
 choose_folder
 chooser
@@ -1275,10 +1274,8 @@ cif
 cifv3
 cil
 cim
-cim_computersystem
 cimfs
 cimi
-ciminstance
 cims
 cimsession
 cinema
@@ -1482,6 +1479,7 @@ comdata
 comedy
 comic
 comical
+comics
 command
 command_line
 command-line-interface
@@ -1908,7 +1906,6 @@ dataexchange
 dataexplorer
 datafactory
 dataflow
-dataflowdependency
 dataframe
 datagateway
 dataintegration
@@ -2408,6 +2405,7 @@ dynamicsax
 dynamicsecuritygroups
 dynamicsnav
 dynamodb
+dynatrace
 dynatraceobservability
 dz
 e-mail
@@ -2587,6 +2585,7 @@ esp32s2
 espressif
 espresso
 esri
+essbase
 est
 estimate
 estimation
@@ -2605,6 +2604,7 @@ etrade
 ets
 etw
 eulanda
+evaluation
 evaluator
 evc
 event
@@ -2633,7 +2633,6 @@ eventwatch
 evergreen
 everix
 evernote
-everydaypowershell
 everydayrewards
 everything
 evilprince2009
@@ -2912,6 +2911,8 @@ fleetsoftwareupdate
 flex
 flex-query
 flexdesk
+flexible
+flickr
 flowchart
 flowy
 fluidrelay
@@ -2997,7 +2998,6 @@ fritzbox
 front
 frontapp
 frontdoor
-frontmatter
 frontrange
 fs
 fsc-ps
@@ -3353,6 +3353,7 @@ hash
 hash-verification
 hashcat
 hashicorp
+hashing
 hashset
 hashtable
 hasicorp
@@ -3461,6 +3462,7 @@ holiday
 home
 home_automation
 homebrew
+homelab
 homelandsecurity
 homeschooling
 hometheater
@@ -3931,6 +3933,7 @@ jsm
 jsm.insight
 json
 json-converter
+json-ld
 json-transform
 json+
 json2ps
@@ -3977,6 +3980,7 @@ kdbx
 kdialog
 kebab-case
 keenetic
+keepachangelog
 keepalive
 keepass
 keepasslib
@@ -4259,6 +4263,8 @@ logbook
 logcat
 logentry
 logfile
+logfilearchivearchive
+logfilemanagement psmodule
 logfiles
 logger
 logging
@@ -4430,6 +4436,7 @@ marketplacepublisher
 marking
 marklogic
 marquee
+marvel
 marvell
 marvell_semiconductor_inc
 marvellfcpowerkit
@@ -4480,6 +4487,7 @@ mdop
 mdp
 mdt
 mdx
+me4024
 mean
 measure
 measure-loc
@@ -4643,7 +4651,6 @@ ml.net
 mlflow
 mlmodels
 mltools
-mmdc
 mngdmac
 mobile
 mobilenetwork
@@ -5548,6 +5555,9 @@ player
 playlists
 playwright
 plc
+plc4net
+plc4netps
+plc4x
 plc4x™
 plconnet
 plconnetps
@@ -7743,6 +7753,7 @@ pscore
 pscredential
 pscribo
 pscustomobject
+psd
 psd1
 psdb
 psdefaultparametervalues
@@ -8866,6 +8877,9 @@ pspath
 pspersonio
 pspowerhour
 psprofiler
+psproject
+psprojectcreator
+psprojectgenerator
 psprovider
 psprtg
 pspublicapi
@@ -9371,7 +9385,6 @@ rocolatey
 role
 roleassignments
 rolebasedaccesscontrol_model
-roles
 rollingfile
 romaji
 ropc
@@ -9466,6 +9479,7 @@ saml2
 sample
 sampler
 samurai
+san
 sand
 sandbox
 sanitization
@@ -9536,7 +9550,6 @@ scom
 sconfig
 scoop
 scope
-scopes
 score
 scouterna
 scouternasetjanster
@@ -9721,6 +9734,7 @@ serviceconnectionpoint
 servicecontrol
 servicedesk
 servicedeskplus
+serviceendpoints
 servicefabric
 servicelinker
 servicemanagementautomation
@@ -9899,7 +9913,6 @@ slashcommands
 sleep
 sleeper
 slideshow
-slmgr
 sln
 slugify
 sm
@@ -10005,7 +10018,6 @@ source
 source-dedicated-server
 sourcecontrol
 sourceforge
-sourcegraph
 sourcemod
 sourceone
 sourcepawn
@@ -10299,6 +10311,7 @@ summary
 summit
 sumologic
 supercell
+superheros
 supermarket
 support
 support-tool
@@ -10527,6 +10540,7 @@ test123
 testaccount
 testautomation
 tester
+testimonial
 testing
 testlab
 testplans
@@ -10833,13 +10847,11 @@ ud-rangeslider
 ud-readingbar
 ud-scrollspy
 ud-selectdatetime
-ud-selector
 ud-signature
 ud-simpledrawer
 ud-singleselect
 ud-slider
 ud-speechbubble
-ud-step
 ud-stepbar
 ud-stickynavbar
 ud-tagcloud
@@ -11070,7 +11082,6 @@ version
 versioncontrol
 versioning
 versionmanager
-versionnumber
 vertical
 vester
 vgpu
@@ -11182,6 +11193,7 @@ vpn-certificate
 vpro
 vps
 vra
+vrchat
 vrealize
 vrising
 vro
