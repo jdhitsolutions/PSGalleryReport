@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Friday, 27 June 2025 21:52:02 UTC
+Updated: Saturday, 28 June 2025 09:52:08 UTC
 
 .bat
 .env
@@ -334,6 +334,7 @@ alpine
 alt3
 alter
 alteryx
+alwaysontop
 alwaysonvpn
 alz
 amateur
@@ -341,6 +342,8 @@ amateur-data-interchange-format
 amateur-radio
 amateurradio
 amazon
+amazonaws
+amazonmgn
 amazontitan
 amazonwebservices
 amend
@@ -491,6 +494,7 @@ architecture
 architecuture
 archive
 archivedteams
+archivematica
 archivial
 archivial-backup
 archivial-cloud-backup
@@ -519,6 +523,7 @@ arrays
 arrow
 arrow-key
 art
+artefactual
 artifact
 artifactory
 artifacts
@@ -537,6 +542,7 @@ asciiart
 asdatabase
 asigra
 asjob
+asm
 asn
 asn.1
 asn1
@@ -1000,11 +1006,9 @@ bootloader psmodule
 bootstrap
 bootstrapping
 bop
-borg
 bot
 bots
 botservice
-bouncer
 boundaries
 boundarygroups
 bounty
@@ -1052,7 +1056,6 @@ budget
 bugbounty
 bugzilla
 build
-build-log
 build-scripts
 build-test-publish
 builddefinition
@@ -1112,7 +1115,6 @@ campaign
 camtasia
 canarie
 cancel
-cancellation
 candlestick
 canonical
 cantara
@@ -1788,7 +1790,6 @@ ctap
 ctf
 ctglobal
 ctl
-ctrl+c
 ctx
 ctype
 cu
@@ -1905,6 +1906,7 @@ dataexchange
 dataexplorer
 datafactory
 dataflow
+dataflowdependency
 dataframe
 datagateway
 dataintegration
@@ -2094,7 +2096,6 @@ dfplayermini
 dfs
 dfw
 dg
-dhash
 dhcp
 di
 diagnostic
@@ -2459,6 +2460,7 @@ elevation
 elevenlabs
 elgato
 eli5
+elitism
 elk
 elm
 elmah-io
@@ -3063,7 +3065,6 @@ gcp
 gcs
 gdap
 gdpr
-gdrive
 gedit
 gem
 gemini
@@ -3270,6 +3271,7 @@ greenplum
 gregorian
 gremlin
 grep
+greynoise
 grid
 gridfs
 gridview
@@ -3404,6 +3406,7 @@ help
 helpdesk
 helpdoc
 helper
+helper-functions
 helperfunctions
 helpers
 helpfile
@@ -3621,7 +3624,6 @@ ilo5
 ilocmdlets
 im
 image
-image-comparison
 image-converter
 image-creation
 image-generation
@@ -3739,7 +3741,6 @@ integratedscriptingeditor
 integration
 integrationaccount
 integrationruntime
-integrationruntimedependency
 integrationservicescatalog
 integrity
 intel
@@ -3941,6 +3942,7 @@ jsonwebkey
 jsonwebsignature
 jsonwebtoken
 jsp
+jumbo
 jump
 jump-location
 jumpcloud
@@ -4260,6 +4262,8 @@ logbook
 logcat
 logentry
 logfile
+logfilearchivearchive
+logfilemanagement psmodule
 logfiles
 logger
 logging
@@ -4543,6 +4547,7 @@ metrolink
 metropolis
 mfa
 mga
+mgn
 mi
 micro
 micro-framework
@@ -4853,6 +4858,7 @@ nartac
 nasdaq
 native
 natpool
+natural
 natural-language-to-code
 natural-selection
 nature
@@ -4991,6 +4997,7 @@ node
 node.js
 nodejs
 nogit
+non-idiomatic
 non-volatile
 none
 noneimages
@@ -5206,6 +5213,7 @@ openhere
 openholidaysapi
 openid
 openidconnect
+openinghours
 openport
 openprovider
 openscad
@@ -5237,6 +5245,7 @@ optics
 optimise
 optimization
 optimize
+optimized
 optimizer
 option
 option119
@@ -5455,7 +5464,6 @@ penetrationtesting
 pentesting
 pentia
 people
-perceptual-hash
 perforce
 performance
 performance-counters
@@ -5688,6 +5696,7 @@ poshy-wrap-vscode
 poshy-wrap-wget
 poshy-wrap-wt
 poshy-wrap-yum
+poshy-wrap-zypper
 position
 post
 postcode
@@ -5876,7 +5885,6 @@ profilevalidation
 proget
 program
 program-association
-programming
 programs
 progress
 progressbar
@@ -7158,6 +7166,52 @@ pscommand_invoke-yumremove
 pscommand_invoke-yumremoveleaves
 pscommand_invoke-yumsearch
 pscommand_invoke-yumupdate
+pscommand_invoke-zypper
+pscommand_invoke-zypperaddlock
+pscommand_invoke-zypperaddservice
+pscommand_invoke-zypperadrepo
+pscommand_invoke-zypperclean
+pscommand_invoke-zyppercleanlocks
+pscommand_invoke-zypperdistupgrade
+pscommand_invoke-zypperhelp
+pscommand_invoke-zypperhelpsearch
+pscommand_invoke-zypperif
+pscommand_invoke-zypperin
+pscommand_invoke-zypperinstallnewrecommends
+pscommand_invoke-zypperlicenses
+pscommand_invoke-zypperlistlocks
+pscommand_invoke-zypperlistpackages
+pscommand_invoke-zypperlistprocesseslockingpackages
+pscommand_invoke-zypperlistrepos
+pscommand_invoke-zypperlistservices
+pscommand_invoke-zypperlistupdates
+pscommand_invoke-zyppermodifyrepo
+pscommand_invoke-zyppermodifyservice
+pscommand_invoke-zypperpackages
+pscommand_invoke-zypperpatch
+pscommand_invoke-zypperpatchcheck
+pscommand_invoke-zypperpatches
+pscommand_invoke-zypperpatchinfo
+pscommand_invoke-zypperpatterninfo
+pscommand_invoke-zypperpatterns
+pscommand_invoke-zypperproductinfo
+pscommand_invoke-zypperproducts
+pscommand_invoke-zypperrefresh
+pscommand_invoke-zypperrefreshservices
+pscommand_invoke-zypperremove
+pscommand_invoke-zypperremovelock
+pscommand_invoke-zypperremoverepo
+pscommand_invoke-zypperremoveservice
+pscommand_invoke-zypperrenamerepo
+pscommand_invoke-zyppersearch
+pscommand_invoke-zyppershell
+pscommand_invoke-zyppersourcedownload
+pscommand_invoke-zyppersourceinstall
+pscommand_invoke-zyppertargetos
+pscommand_invoke-zypperupdate
+pscommand_invoke-zypperverify
+pscommand_invoke-zypperversioncompare
+pscommand_invoke-zypperwhatprovides
 pscommand_invokeyumgrouplist
 pscommand_ips
 pscommand_ipy
@@ -7644,6 +7698,51 @@ pscommand_yr
 pscommand_yrl
 pscommand_ys
 pscommand_yu
+pscommand_z
+pscommand_zal
+pscommand_zar
+pscommand_zas
+pscommand_zcl
+pscommand_zdup
+pscommand_zh
+pscommand_zhse
+pscommand_zif
+pscommand_zin
+pscommand_zinr
+pscommand_zlicenses
+pscommand_zll
+pscommand_zlp
+pscommand_zlr
+pscommand_zls
+pscommand_zlu
+pscommand_zmr
+pscommand_zms
+pscommand_znr
+pscommand_zpa
+pscommand_zpatch
+pscommand_zpatch-info
+pscommand_zpattern-info
+pscommand_zpch
+pscommand_zpchk
+pscommand_zpd
+pscommand_zproduct-info
+pscommand_zps
+pscommand_zpt
+pscommand_zref
+pscommand_zrefs
+pscommand_zrl
+pscommand_zrm
+pscommand_zrr
+pscommand_zrs
+pscommand_zse
+pscommand_zshell
+pscommand_zsi
+pscommand_zsource-download
+pscommand_ztos
+pscommand_zup
+pscommand_zvcmp
+pscommand_zve
+pscommand_zwp
 pscommander
 psconfasia
 psconfeu
@@ -8482,6 +8581,52 @@ psfunction_invoke-yumremove
 psfunction_invoke-yumremoveleaves
 psfunction_invoke-yumsearch
 psfunction_invoke-yumupdate
+psfunction_invoke-zypper
+psfunction_invoke-zypperaddlock
+psfunction_invoke-zypperaddservice
+psfunction_invoke-zypperadrepo
+psfunction_invoke-zypperclean
+psfunction_invoke-zyppercleanlocks
+psfunction_invoke-zypperdistupgrade
+psfunction_invoke-zypperhelp
+psfunction_invoke-zypperhelpsearch
+psfunction_invoke-zypperif
+psfunction_invoke-zypperin
+psfunction_invoke-zypperinstallnewrecommends
+psfunction_invoke-zypperlicenses
+psfunction_invoke-zypperlistlocks
+psfunction_invoke-zypperlistpackages
+psfunction_invoke-zypperlistprocesseslockingpackages
+psfunction_invoke-zypperlistrepos
+psfunction_invoke-zypperlistservices
+psfunction_invoke-zypperlistupdates
+psfunction_invoke-zyppermodifyrepo
+psfunction_invoke-zyppermodifyservice
+psfunction_invoke-zypperpackages
+psfunction_invoke-zypperpatch
+psfunction_invoke-zypperpatchcheck
+psfunction_invoke-zypperpatches
+psfunction_invoke-zypperpatchinfo
+psfunction_invoke-zypperpatterninfo
+psfunction_invoke-zypperpatterns
+psfunction_invoke-zypperproductinfo
+psfunction_invoke-zypperproducts
+psfunction_invoke-zypperrefresh
+psfunction_invoke-zypperrefreshservices
+psfunction_invoke-zypperremove
+psfunction_invoke-zypperremovelock
+psfunction_invoke-zypperremoverepo
+psfunction_invoke-zypperremoveservice
+psfunction_invoke-zypperrenamerepo
+psfunction_invoke-zyppersearch
+psfunction_invoke-zyppershell
+psfunction_invoke-zyppersourcedownload
+psfunction_invoke-zyppersourceinstall
+psfunction_invoke-zyppertargetos
+psfunction_invoke-zypperupdate
+psfunction_invoke-zypperverify
+psfunction_invoke-zypperversioncompare
+psfunction_invoke-zypperwhatprovides
 psfunction_invokeyumgrouplist
 psfunction_jump
 psfunction_kerndeb
@@ -8928,7 +9073,6 @@ raspberrypi
 raspbian
 rate
 rate-limit
-rates
 rating
 ratings
 ravendb
@@ -9581,7 +9725,6 @@ servermanagement
 servers
 service
 service-bus
-service-messages
 servicebus
 servicebusforwindowsserver
 servicecatalog
@@ -9718,6 +9861,7 @@ simple
 simplecontainers
 simplepassword
 simplepasswordgenerator
+simplified
 simplivity
 simplysql
 simulation
@@ -9883,7 +10027,6 @@ space
 spaces
 spacex
 spam
-spamtitan
 spanner
 spark
 sparkline
@@ -10168,6 +10311,7 @@ summit
 sumologic
 supercell
 superheros
+supermarket
 support
 support-tool
 support-tools
@@ -10484,7 +10628,6 @@ tinymce
 tip
 tips
 titan
-titanhq
 title
 tld
 tls
@@ -10708,6 +10851,7 @@ ud-simpledrawer
 ud-singleselect
 ud-slider
 ud-speechbubble
+ud-step
 ud-stepbar
 ud-stickynavbar
 ud-tagcloud
@@ -10830,7 +10974,6 @@ usap
 usb
 useful
 user
-user-environment
 useragent
 userdiscovery
 usergroup
@@ -11264,7 +11407,6 @@ windows-10
 windows-api
 windows-control-panel
 windows-defender
-windows-environment
 windows-explorer
 windows-features
 windows-firewall
@@ -11530,6 +11672,7 @@ ynab
 youtube
 youtube-dl
 youtube-transcript
+youtubeextractor
 yq
 yts
 yubaba
@@ -11570,6 +11713,7 @@ zuora
 zvm
 zvml
 zvmlinux
+zypper
 カタカナ
 ひらがな
 ローマ字
