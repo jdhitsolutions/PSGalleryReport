@@ -3,13 +3,277 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
-## [OSD](https://www.powershellgallery.com/Packages/OSD/25.6.28.3) | 25.6.28.3
+## [Genbox.FastData](https://www.powershellgallery.com/Packages/Genbox.FastData/0.2.0) | 0.2.0
 
-### Published: 06/28/2025 17:06:54 by David Segura . Gary Blok . Michael Escamilla
+### Published: 06/29/2025 09:37:51 by Ian Qvist
+
+Data structure generator for high-performance lookups of static data
+
+__Downloads__: 12 | __Repository__: https://github.com/Genbox/FastData
+
+## [FavouriteDirectory](https://www.powershellgallery.com/Packages/FavouriteDirectory/0.0.2) | 0.0.2
+
+### Published: 06/29/2025 08:41:42 by Neil Crow
+
+A PowerShell module to manage favourite directory aliases.
+
+__Downloads__: 0 | __Repository__: https://github.com/crowne/FavouriteDirectory
+
+## [GenXdev](https://www.powershellgallery.com/Packages/GenXdev/1.196.2025) | 1.196.2025
+
+### Published: 06/29/2025 07:27:44 by René Vaessen
+
+GenXdev PowerShell Utilities and helpers
+
+__Downloads__: 337 | __Repository__: https://powershell.genxdev.net/
+
+## [GenXdev.Coding](https://www.powershellgallery.com/Packages/GenXdev.Coding/1.196.2025) | 1.196.2025
+
+### Published: 06/29/2025 07:26:37 by genXdev
+
+A Windows PowerShell module that helps being more productive with coding tasks.
+
+__Downloads__: 206 | __Repository__: https://powershell.genxdev.net/#GenXdev.Coding
+
+## [GenXdev.AI](https://www.powershellgallery.com/Packages/GenXdev.AI/1.196.2025) | 1.196.2025
+
+### Published: 06/29/2025 07:25:28 by genXdev
+
+A Windows PowerShell module for local AI related operations
+
+__Downloads__: 444 | __Repository__: https://powershell.genxdev.net/#GenXdev.AI
+
+## [GenXdev.Queries](https://www.powershellgallery.com/Packages/GenXdev.Queries/1.196.2025) | 1.196.2025
+
+### Published: 06/29/2025 07:24:19 by genXdev
+
+A Windows PowerShell module for finding resources and information on the internet
+
+__Downloads__: 1,279 | __Repository__: https://powershell.genxdev.net/#GenXdev.Queries
+
+## [GenXdev.Console](https://www.powershellgallery.com/Packages/GenXdev.Console/1.196.2025) | 1.196.2025
+
+### Published: 06/29/2025 07:23:10 by genXdev
+
+A Windows PowerShell module for enhancing the commandline experience
+
+__Downloads__: 1,234 | __Repository__: https://powershell.genxdev.net/#GenXdev.Console
+
+## [GenXdev.Webbrowser](https://www.powershellgallery.com/Packages/GenXdev.Webbrowser/1.196.2025) | 1.196.2025
+
+### Published: 06/29/2025 07:22:00 by genXdev
+
+A Windows PowerShell module that allows you to run scripts against your casual desktop webbrowser-tab
+
+__Downloads__: 8,958 | __Repository__: https://powershell.genxdev.net/#GenXdev.Webbrowser
+
+## [GenXdev.Windows](https://www.powershellgallery.com/Packages/GenXdev.Windows/1.196.2025) | 1.196.2025
+
+### Published: 06/29/2025 07:20:51 by genXdev
+
+A Windows PowerShell module that provides ui Windows manipulation helpers
+
+__Downloads__: 8,744 | __Repository__: https://powershell.genxdev.net/#GenXdev.Windows
+
+## [GenXdev.Data](https://www.powershellgallery.com/Packages/GenXdev.Data/1.196.2025) | 1.196.2025
+
+### Published: 06/29/2025 07:19:43 by genXdev
+
+A Windows PowerShell module with helpers for working with data and databases
+
+__Downloads__: 484 | __Repository__: https://powershell.genxdev.net/#GenXdev.Data
+
+## [GenXdev.Helpers](https://www.powershellgallery.com/Packages/GenXdev.Helpers/1.196.2025) | 1.196.2025
+
+### Published: 06/29/2025 07:18:34 by genXdev
+
+A Windows PowerShell module with helpers mostly used by other GenXdev modules
+
+__Downloads__: 9,139 | __Repository__: https://powershell.genxdev.net/#GenXdev.Helpers
+
+## [GenXdev.FileSystem](https://www.powershellgallery.com/Packages/GenXdev.FileSystem/1.196.2025) | 1.196.2025
+
+### Published: 06/29/2025 07:16:54 by genXdev
+
+A Windows PowerShell module for basic and advanced file management tasks
+
+__Downloads__: 9,226 | __Repository__: https://powershell.genxdev.net/#GenXdev.FileSystem
+
+## [OSD](https://www.powershellgallery.com/Packages/OSD/25.6.29.1) | 25.6.29.1
+
+### Published: 06/29/2025 05:10:11 by David Segura . Gary Blok . Michael Escamilla
 
 OSD PowerShell Module for Windows Deployment
 
-__Downloads__: 4,017,811 | __Repository__: https://github.com/OSDeploy/OSD
+__Downloads__: 4,017,794 | __Repository__: https://github.com/OSDeploy/OSD
+
+## [PDS](https://www.powershellgallery.com/Packages/PDS/0.1.383) | 0.1.383
+
+### Published: 06/29/2025 00:37:23 by itmvha
+
+Personal Deploy Script
+
+__Downloads__: 455 | __Repository__: 
+
+## [PdbSourceIndexing](https://www.powershellgallery.com/Packages/PdbSourceIndexing/1.0.0) | 1.0.0
+
+### Published: 06/28/2025 20:05:09 by Miguel Barro
+
+Source index PDB files to allow debuggers reference sources on github
+
+__Downloads__: 1 | __Repository__: https://github.com/MiguelBarro/PdbSourceIndexing
+
+## [UiPathOrch](https://www.powershellgallery.com/Packages/UiPathOrch/0.9.14.0) | 0.9.14.0
+
+### Published: 06/28/2025 14:32:33 by Yoshifumi Tsuda
+
+PSDrives and cmdlets for UiPath Orchestrator. 💡 First time? Run: Get-OrchHelp
+
+__Downloads__: 2,482 | __Repository__: 
+
+## [easypeasy](https://www.powershellgallery.com/Packages/easypeasy/1.6.1) | 1.6.1
+
+### Published: 06/28/2025 10:45:13 by Igor Akkerman
+
+Collection of utility functions and aliases to simplify and automate common tasks in Windows environments.
+
+__Downloads__: 385 | __Repository__: https://github.com/igorakkerman/easypeasy
+
+## [InvokeHelper](https://www.powershellgallery.com/Packages/InvokeHelper/1.2.4) | 1.2.4
+
+### Published: 06/28/2025 08:22:21 by rulasg
+
+Helper to make dependencies calls from powershell. Decouple the calls to tools and functions. Makes calls Async and Paralell. Mock dependencies calls for testing.
+
+__Downloads__: 2,367 | __Repository__: https://github.com/rulasg/InvokeHelper
+
+## [Gatekeeper](https://www.powershellgallery.com/Packages/Gatekeeper/0.1.0) | 0.1.0
+
+### Published: 06/27/2025 23:40:44 by Gilbert Sanchez
+
+Helps implement feature flags in your PowerShell projects.
+
+__Downloads__: 5 | __Repository__: https://github.com/HeyItsGilbert/Gatekeeper/
+
+## [PSTcpIp](https://www.powershellgallery.com/Packages/PSTcpIp/6.25.0) | 6.25.0
+
+### Published: 06/27/2025 22:04:03 by Anthony Guimelli
+
+Provides cmdlets to perform various TCPIP and TLS/SSL related tasks.
+
+__Downloads__: 17,271 | __Repository__: https://github.com/anthonyg-1/PSTcpIp
+
+## [Notion](https://www.powershellgallery.com/Packages/Notion/0.10.0) | 0.10.0
+
+### Published: 06/27/2025 21:39:32 by Thomas Subotitsch Fabian Franz Steiner
+
+Module for interaction with Notion based on classes
+
+__Downloads__: 97 | __Repository__: https://github.com/fasteiner/Notion
+
+## [JSDR.Configuration](https://www.powershellgallery.com/Packages/JSDR.Configuration/8.0.3) | 8.0.3
+
+### Published: 06/27/2025 21:35:34 by JetStream Software
+
+Powershell Module for confguration of JetStream Software version 5.0.0 on AVS
+
+__Downloads__: 3,056 | __Repository__: https://www.jetstreamsoft.com/about/support/
+
+## [GitHub](https://www.powershellgallery.com/Packages/GitHub/0.31.8) | 0.31.8
+
+### Published: 06/27/2025 21:34:17 by PSModule
+
+A PowerShell module to interact with GitHub, both interactively and via automation.
+
+__Downloads__: 308,661 | __Repository__: https://github.com/PSModule/GitHub
+
+## [AzureBasicLoadBalancerUpgrade](https://www.powershellgallery.com/Packages/AzureBasicLoadBalancerUpgrade/2.5.3) | 2.5.3
+
+### Published: 06/27/2025 21:03:42 by Matthew Bratschun
+
+This module will migrate a Basic SKU load balancer connected to a Virtual Machine Scaleset or Virtual Machines to a Standard SKU load balancer, preserving the existing configuration and functionality.
+
+__Downloads__: 22,615 | __Repository__: https://github.com/Azure/AzLoadBalancerMigration
+
+## [AsBuiltReport.Fortinet.FortiGate](https://www.powershellgallery.com/Packages/AsBuiltReport.Fortinet.FortiGate/0.5.1) | 0.5.1
+
+### Published: 06/27/2025 20:32:10 by Alexis La Goutte
+
+A PowerShell module to generate an as built report on the configuration of Fortinet FortiGate.
+
+__Downloads__: 30,710 | __Repository__: https://github.com/AsBuiltReport/AsBuiltReport.Fortinet.FortiGate
+
+## [DevOpsCommands](https://www.powershellgallery.com/Packages/DevOpsCommands/1.4.1) | 1.4.1
+
+### Published: 06/27/2025 19:19:56 by Jon Bullen
+
+Command commands and utilities used to make development in PowerShell simpler with msbuild
+
+__Downloads__: 2,166 | __Repository__: https://github.com/sytone/devopscommands
+
+## [IntegrisDeploymentTool](https://www.powershellgallery.com/Packages/IntegrisDeploymentTool/0.5.154) | 0.5.154
+
+### Published: 06/27/2025 17:50:49 by David McVicker
+
+Integris Deployment Tool
+
+__Downloads__: 582 | __Repository__: 
+
+## [SATLogger](https://www.powershellgallery.com/Packages/SATLogger/0.1.5) | 0.1.5
+
+### Published: 06/27/2025 17:30:57 by Ryan Bakonis
+
+Logger
+
+__Downloads__: 167 | __Repository__: 
+
+## [ibPS](https://www.powershellgallery.com/Packages/ibPS/1.9.8.5) | 1.9.8.5
+
+### Published: 06/27/2025 17:16:55 by Mat Cox
+
+InfoBlox BloxOne PowerShell Module
+
+__Downloads__: 663 | __Repository__: https://github.com/TehMuffinMoo/ibPS
+
+## [ZertoAVSModule](https://www.powershellgallery.com/Packages/ZertoAVSModule/3.7.24) | 3.7.24
+
+### Published: 06/27/2025 17:10:55 by Zerto
+
+Zerto AVS solution package
+
+__Downloads__: 2,798 | __Repository__: https://help.zerto.com/category/AVS
+
+## [OMG.PSUtilities](https://www.powershellgallery.com/Packages/OMG.PSUtilities/1.0.4) | 1.0.4
+
+### Published: 06/27/2025 15:39:38 by Lakshmanachari Panuganti
+
+A utility module with reusable PowerShell functions.
+
+__Downloads__: 25 | __Repository__: https://github.com/lakshmanachari-panuganti/OMG.PSUtilities
+
+## [DTX.Cloud.Management](https://www.powershellgallery.com/Packages/DTX.Cloud.Management/1.27.1) | 1.27.1
+
+### Published: 06/27/2025 09:33:14 by Platform Operations Team
+
+Dotmatics cloud automation tool.
+
+__Downloads__: 25,815 | __Repository__: 
+
+## [RiverMeadow.Development.Migrate](https://www.powershellgallery.com/Packages/RiverMeadow.Development.Migrate/1.0.127.685) | 1.0.127.685
+
+### Published: 06/27/2025 08:54:46 by RiverMeadow Engineering Team
+
+Provides cmdlets for starting migration of applications to supported clouds using the RiverMeadow platform.
+
+__Downloads__: 1,662 | __Repository__: https://migrate.rivermeadow.com/
+
+## [UncommonSense.Volkskrant](https://www.powershellgallery.com/Packages/UncommonSense.Volkskrant/0.0.70.0) | 0.0.70.0
+
+### Published: 06/27/2025 08:34:42 by Jan Hoek
+
+PowerShell module for listing Volkskrant articles
+
+__Downloads__: 6,383 | __Repository__: https://github.com/jhoek/UncommonSense.Volkskrant
 
 ## [Evergreen](https://www.powershellgallery.com/Packages/Evergreen/2506.2209) | 2506.2209
 
@@ -17,7 +281,422 @@ __Downloads__: 4,017,811 | __Repository__: https://github.com/OSDeploy/OSD
 
 Create evergreen Windows image builds with the latest versions of applications. Evergreen is a simple PowerShell module that retrieves the latest version numbers and download URLs for various software products directly from the vendor source.
 
-__Downloads__: 9,826,852 | __Repository__: https://stealthpuppy.com/evergreen/
+__Downloads__: 9,826,827 | __Repository__: https://stealthpuppy.com/evergreen/
+
+## [PowerShell.MCP](https://www.powershellgallery.com/Packages/PowerShell.MCP/1.1.7) | 1.1.7
+
+### Published: 06/27/2025 07:08:08 by Yoshifumi Tsuda
+
+Enables PowerShell console to function as an MCP server for Claude Desktop and other clients.
+
+__Downloads__: 95 | __Repository__: 
+
+## [PwSh.Fw.Core](https://www.powershellgallery.com/Packages/PwSh.Fw.Core/1.12.1) | 1.12.1
+
+### Published: 06/27/2025 06:07:02 by Charles-Antoine Degennes
+
+Root module of a simple Powershell Framework. It is specialized in writing system scripts, but it can of course do more.
+
+__Downloads__: 87,042 | __Repository__: 
+
+## [GoogleFonts](https://www.powershellgallery.com/Packages/GoogleFonts/1.0.44) | 1.0.44
+
+### Published: 06/27/2025 05:22:39 by PSModule
+
+A PowerShell module to download and install fonts from GoogleFonts.
+
+__Downloads__: 10,961 | __Repository__: https://github.com/PSModule/GoogleFonts
+
+## [PSGalleryExplorer](https://www.powershellgallery.com/Packages/PSGalleryExplorer/2.5.6) | 2.5.6
+
+### Published: 06/27/2025 03:43:54 by Jake Morrison
+
+Search, explore, and discover PowerShell Gallery modules based on various criteria.
+
+__Downloads__: 16,033 | __Repository__: https://github.com/techthoughts2/PSGalleryExplorer
+
+## [HubSpotApi](https://www.powershellgallery.com/Packages/HubSpotApi/0.1.7) | 0.1.7
+
+### Published: 06/26/2025 23:50:44 by Don Morgan
+
+This module allows for interacting with the HubSpot API via native PowerShell cmdlets.
+
+__Downloads__: 272 | __Repository__: https://github.com/mister-dj/PowerShell
+
+## [BusinessCentralApi](https://www.powershellgallery.com/Packages/BusinessCentralApi/0.0.7) | 0.0.7
+
+### Published: 06/26/2025 23:50:39 by Don Morgan
+
+This modules allows for interacting with the Business Central REST API via native PowerShell cmdlets.
+
+__Downloads__: 205 | __Repository__: https://github.com/mister-dj/PowerShell
+
+## [PowerSage](https://www.powershellgallery.com/Packages/PowerSage/1.0.4) | 1.0.4
+
+### Published: 06/26/2025 19:54:00 by MayorAbandoned
+
+PowerShell module for interacting with the Sage Wallet RPC API.
+
+__Downloads__: 97 | __Repository__: 
+
+## [SageTrader](https://www.powershellgallery.com/Packages/SageTrader/0.0.2) | 0.0.2
+
+### Published: 06/26/2025 19:39:34 by MayorAbandoned
+
+Terminal application for trading Chia Blockchain assets using the Sage Wallet.
+
+__Downloads__: 15 | __Repository__: 
+
+## [JaapsTools](https://www.powershellgallery.com/Packages/JaapsTools/19.8.1) | 19.8.1
+
+### Published: 06/26/2025 19:05:32 by JT
+
+JaapsTools
+
+__Downloads__: 2,510 | __Repository__: 
+
+## [Nectar10](https://www.powershellgallery.com/Packages/Nectar10/4.22) | 4.22
+
+### Published: 06/26/2025 18:37:36 by Ken Lasko
+
+PowerShell module for Nectar DXP
+
+__Downloads__: 2,009 | __Repository__: 
+
+## [Posh-ACME.net46](https://www.powershellgallery.com/Packages/Posh-ACME.net46/4.29.1) | 4.29.1
+
+### Published: 06/26/2025 18:05:00 by Ryan Bolger
+
+ACME protocol client for obtaining certificates using Let''s Encrypt (or other ACME compliant CA)
+This is a custom build intended allow compatibility with .NET 4.6.1. It should not be used with PowerShell Core and you should only attempt to use RSA based key options.
+
+__Downloads__: 7,367 | __Repository__: https://github.com/rmbolger/Posh-ACME
+
+## [Posh-ACME](https://www.powershellgallery.com/Packages/Posh-ACME/4.29.1) | 4.29.1
+
+### Published: 06/26/2025 18:01:31 by Ryan Bolger
+
+ACME protocol client for obtaining certificates using Let's Encrypt (or other ACME compliant CA)
+
+__Downloads__: 2,755,790 | __Repository__: https://github.com/rmbolger/Posh-ACME
+
+## [Logic.Monitor](https://www.powershellgallery.com/Packages/Logic.Monitor/7.3.1) | 7.3.1
+
+### Published: 06/26/2025 14:42:23 by Steven Villardi
+
+PowerShell module to query the Logic Monitor API. This PowerShell module is developed as an open-source project and is not officially supported by LogicMonitor. It is maintained by a community of users who are passionate about enhancing its capabilities and functionality. While LogicMonitor recognizes the effort and ingenuity behind this module, please note that it is provided "as is" without any official support or warranty from LogicMonitor.
+
+__Downloads__: 986,486 | __Repository__: https://github.com/logicmonitor/lm-powershell-module
+
+## [Logic.Monitor.SE](https://www.powershellgallery.com/Packages/Logic.Monitor.SE/1.8.2) | 1.8.2
+
+### Published: 06/26/2025 14:38:17 by Steven Villardi
+
+PowerShell module to assist with Sale Engineering activities.
+
+__Downloads__: 957,486 | __Repository__: https://github.com/stevevillardi/Logic.Monitor.SE
+
+## [HVTools](https://www.powershellgallery.com/Packages/HVTools/1.0.30) | 1.0.30
+
+### Published: 06/26/2025 14:10:52 by Leif Almberg
+
+AB Lindex Powershell Hyper-V Module
+
+__Downloads__: 182 | __Repository__: 
+
+## [ADServices](https://www.powershellgallery.com/Packages/ADServices/0.1.2) | 0.1.2
+
+### Published: 06/26/2025 13:36:21 by Martin C Zarate (AKA Pxtl)
+
+Rough re-implementation of the MS ActiveDirectory powershell module but
+leveraging the C# "System.DirectoryServices.dll" assembly which is available by
+default on Windows instead of requiring that the user install RSAT. Very
+feature-incomplete at this time.  Also, unfortunately
+"System.DirectoryServices.dll" is Windows-only and therefore so is this module.
+
+__Downloads__: 13 | __Repository__: https://github.com/Pxtl/powershell-modules
+
+## [WindmillClient](https://www.powershellgallery.com/Packages/WindmillClient/1.501.4) | 1.501.4
+
+### Published: 06/26/2025 12:43:06 by Windmill Labs
+
+Client for the Windmill platform.
+
+__Downloads__: 4,160 | __Repository__: https://github.com/windmill-labs/windmill/tree/main/powershell-client
+
+## [VMware.PowerCLI](https://www.powershellgallery.com/Packages/VMware.PowerCLI/13.3.0.24145083) | 13.3.0.24145083
+
+### Published: 06/26/2025 10:39:40 by Broadcom
+
+This module is deprecated. Please use the module VCF.PowerCLI instead. For more information, see https://developer.broadcom.com/powercli/installation-guide
+
+__Downloads__: 14,679,808 | __Repository__: https://developer.broadcom.com/powercli
+
+## [Bricklead.BCDev.Tools](https://www.powershellgallery.com/Packages/Bricklead.BCDev.Tools/0.1.9308.43792) | 0.1.9308.43792
+
+### Published: 06/26/2025 10:10:56 by Yves DESRUMAUX
+
+PowerShell module, which makes it easier to work Around AL developments.
+
+__Downloads__: 1,648 | __Repository__: 
+
+## [Get-AzVMSku](https://www.powershellgallery.com/Packages/Get-AzVMSku/3.0.1) | 3.0.1
+
+### Published: 06/26/2025 09:29:20 by Christoffer Windahl Madsen
+
+Retrieves all required information needed in order to deploy Azure virtual machines via any IaC tool
+
+__Downloads__: 845 | __Repository__: https://codeterraform.com/
+
+## [pscdp](https://www.powershellgallery.com/Packages/pscdp/0.0.1) | 0.0.1
+
+### Published: 06/26/2025 08:31:10 by Andrey Vernigora
+
+The module uses Google Chrome DevTools Protocol (CDP) to do some web page crawling and event capture
+
+__Downloads__: 5 | __Repository__: https://github.com/eosfor/pscdp
+
+## [PSQuickGraph](https://www.powershellgallery.com/Packages/PSQuickGraph/2.3.0) | 2.3.0
+
+### Published: 06/26/2025 07:31:55 by Andrey Vernigora
+
+This module is a wrapper for QuickGraph library.
+
+__Downloads__: 2,963 | __Repository__: https://github.com/eosfor/PSGraph
+
+## [pwshBedrock](https://www.powershellgallery.com/Packages/pwshBedrock/0.95.0) | 0.95.0
+
+### Published: 06/26/2025 04:38:29 by Jake Morrison
+
+pwshBedrock enables interfacing with Amazon Bedrock foundational models, supporting direct on-demand model calls via InvokeModel and the Converse API for supported models. It allows sending messages, retrieving responses, managing message context, displaying model information, and estimating token counts and costs. Use PowerShell to integrate generative AI applications with Amazon Bedrock.
+
+__Downloads__: 213 | __Repository__: https://github.com/techthoughts2/pwshBedrock
+
+## [fount-pwsh](https://www.powershellgallery.com/Packages/fount-pwsh/0.1.3) | 0.1.3
+
+### Published: 06/26/2025 02:18:02 by steve02081504
+
+Allows you:
+- easily invoke, launch, and install fount in pwsh
+- linking fount characters to pwsh for companion and AI assist
+
+__Downloads__: 2,928 | __Repository__: https://github.com/steve02081504/fount-pwsh
+
+## [Get-PowerApp](https://www.powershellgallery.com/Packages/Get-PowerApp/1.0.2) | 1.0.2
+
+### Published: 06/26/2025 01:00:04 by Your Name
+
+PowerShell module for retrieving Power Apps with caching support
+
+__Downloads__: 17 | __Repository__: 
+
+## [RubrikSecurityCloud](https://www.powershellgallery.com/Packages/RubrikSecurityCloud/1.14.0) | 1.14.0
+
+### Published: 06/25/2025 23:28:12 by Rubrik
+
+PowerShell Module for Rubrik Security Cloud. GraphQL schema version: v20250616-31 .
+
+__Downloads__: 56,515 | __Repository__: https://github.com/rubrikinc/rubrik-powershell-sdk
+
+## [AwakeCoding.PSRemoting](https://www.powershellgallery.com/Packages/AwakeCoding.PSRemoting/2025.1.1) | 2025.1.1
+
+### Published: 06/25/2025 20:21:52 by Marc-André Moreau
+
+AwakeCoding PSRemoting Extensions
+
+__Downloads__: 11 | __Repository__: https://github.com/awakecoding/AwakeCoding.PSRemoting
+
+## [httpowershell](https://www.powershellgallery.com/Packages/httpowershell/0.0.3) | 0.0.3
+
+### Published: 06/25/2025 20:11:54 by Stuart Macleod
+
+Simplified web client for PowerShell
+
+__Downloads__: 25 | __Repository__: 
+
+## [Brevo](https://www.powershellgallery.com/Packages/Brevo/0.4.0) | 0.4.0
+
+### Published: 06/25/2025 20:10:11 by Thomas Subotitsch
+
+PowerShell functions for Brevo API
+
+__Downloads__: 39 | __Repository__: https://github.com/tsubotitsch/Brevo
+
+## [OctoScope](https://www.powershellgallery.com/Packages/OctoScope/4.1.756) | 4.1.756
+
+### Published: 06/25/2025 17:55:28 by jonatnun
+
+One module to rule them all.
+
+__Downloads__: 27 | __Repository__: 
+
+## [PSTypeExtensionTools](https://www.powershellgallery.com/Packages/PSTypeExtensionTools/1.11.0) | 1.11.0
+
+### Published: 06/25/2025 17:48:12 by Jeff Hicks
+
+A set of PowerShell tools for working with custom type extensions.
+
+__Downloads__: 5,261 | __Repository__: https://github.com/jdhitsolutions/PSTypeExtensionTools
+
+## [CleanupMonster](https://www.powershellgallery.com/Packages/CleanupMonster/3.1.3) | 3.1.3
+
+### Published: 06/25/2025 15:44:48 by Przemyslaw Klys
+
+This module provides an easy way to cleanup Active Directory from dead/old objects based on various criteria. It can also disable, move or delete objects. It can utilize Azure AD, Intune and Jamf to get additional information about objects before deleting them.
+
+__Downloads__: 24,420 | __Repository__: https://github.com/EvotecIT/CleanupMonster
+
+## [Hashtable](https://www.powershellgallery.com/Packages/Hashtable/1.1.6) | 1.1.6
+
+### Published: 06/25/2025 15:26:47 by PSModule
+
+A PowerShell module that simplifies some interaction with Hashtables.
+
+__Downloads__: 247,050 | __Repository__: https://github.com/PSModule/Hashtable
+
+## [AzNetworkDiagram](https://www.powershellgallery.com/Packages/AzNetworkDiagram/1.0.2) | 1.0.2
+
+### Published: 06/25/2025 15:08:03 by Dan Madsen
+
+Creates a network diagram of your Azure network infrastructure.
+
+__Downloads__: 107 | __Repository__: https://github.com/dan-madsen/AzNetworkDiagram
+
+## [PSPublishModule](https://www.powershellgallery.com/Packages/PSPublishModule/2.0.21) | 2.0.21
+
+### Published: 06/25/2025 14:59:08 by Przemyslaw Klys
+
+Simple project allowing preparing, managing, building and publishing modules to PowerShellGallery
+
+__Downloads__: 4,604 | __Repository__: https://github.com/EvotecIT/PSPublishModule
+
+## [AdminToolbox](https://www.powershellgallery.com/Packages/AdminToolbox/12.0.0.23) | 12.0.0.23
+
+### Published: 06/25/2025 14:47:45 by Taylor Lee
+
+Master module for a collection of modules. These modules are varied in their tasks. The overall purpose of them being to provide a powerfull Toolset to improve IT Admin workflows.
+
+__Downloads__: 129,149 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox
+
+## [AdminToolbox.SecOps](https://www.powershellgallery.com/Packages/AdminToolbox.SecOps/1.5.0.10) | 1.5.0.10
+
+### Published: 06/25/2025 14:46:29 by Taylor Lee
+
+Functions for Security Operations and Investigations
+
+__Downloads__: 2,714 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [AdminToolbox.FortiWizard](https://www.powershellgallery.com/Packages/AdminToolbox.FortiWizard/2.22.0.35) | 2.22.0.35
+
+### Published: 06/25/2025 14:46:24 by Taylor Lee
+
+Functions that generate configuration scripts and manage FortiOS.
+
+__Downloads__: 113,148 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [AdminToolbox.VMWareAutomate](https://www.powershellgallery.com/Packages/AdminToolbox.VMWareAutomate/4.9.0.64) | 4.9.0.64
+
+### Published: 06/25/2025 14:45:16 by Taylor Lee
+
+Functions to Automate Bulk VMWare Tasks
+
+__Downloads__: 120,604 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [AdminToolbox.Remoting](https://www.powershellgallery.com/Packages/AdminToolbox.Remoting/1.10.1.10) | 1.10.1.10
+
+### Published: 06/25/2025 14:45:11 by Taylor Lee
+
+Functions for remote management and access.
+
+__Downloads__: 119,383 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [AdminToolbox.Office365](https://www.powershellgallery.com/Packages/AdminToolbox.Office365/5.4.0.3) | 5.4.0.3
+
+### Published: 06/25/2025 14:45:06 by Taylor Lee
+
+Functions for working with Office365 and Azure modules
+
+__Downloads__: 133,666 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [AdminToolbox.Networking](https://www.powershellgallery.com/Packages/AdminToolbox.Networking/2.22.0.9) | 2.22.0.9
+
+### Published: 06/25/2025 14:45:00 by Taylor Lee
+
+Network Troubleshooting Functions
+
+__Downloads__: 311,486 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [AdminToolbox.MSGraph](https://www.powershellgallery.com/Packages/AdminToolbox.MSGraph/1.5.0.61) | 1.5.0.61
+
+### Published: 06/25/2025 14:44:52 by Taylor Lee
+
+Microsoft Graph interactive API Functions
+
+__Downloads__: 106,868 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [AdminToolbox.Fun](https://www.powershellgallery.com/Packages/AdminToolbox.Fun/1.7.0.64) | 1.7.0.64
+
+### Published: 06/25/2025 14:44:47 by Taylor Lee
+
+Functions that have no purpose
+
+__Downloads__: 122,809 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [AdminToolbox.FileManagement](https://www.powershellgallery.com/Packages/AdminToolbox.FileManagement/1.17.0.64) | 1.17.0.64
+
+### Published: 06/25/2025 14:44:40 by Taylor Lee
+
+File Management Functions
+
+__Downloads__: 155,313 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [AdminToolbox.FFTools](https://www.powershellgallery.com/Packages/AdminToolbox.FFTools/4.17.0.64) | 4.17.0.64
+
+### Published: 06/25/2025 14:44:36 by Taylor Lee
+
+Expedite simple ffmpeg actions
+
+__Downloads__: 221,209 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [AdminToolbox.Exchange](https://www.powershellgallery.com/Packages/AdminToolbox.Exchange/1.10.0.64) | 1.10.0.64
+
+### Published: 06/25/2025 14:44:31 by Taylor Lee
+
+Functions for Exchange Management
+
+__Downloads__: 187,166 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [AdminToolbox.EndpointManagement](https://www.powershellgallery.com/Packages/AdminToolbox.EndpointManagement/4.14.0.10) | 4.14.0.10
+
+### Published: 06/25/2025 14:44:26 by Taylor Lee
+
+Functions for management of endpoints
+
+__Downloads__: 174,952 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [spec.psengine](https://www.powershellgallery.com/Packages/spec.psengine/1.0.7) | 1.0.7
+
+### Published: 06/25/2025 14:37:48 by owen.heaume
+
+A module required by PSEngine base script.
+
+__Downloads__: 31,888 | __Repository__: 
+
+## [AdminToolbox.ActiveDirectory](https://www.powershellgallery.com/Packages/AdminToolbox.ActiveDirectory/1.12.0.26) | 1.12.0.26
+
+### Published: 06/25/2025 14:36:42 by Taylor Lee
+
+Functions for Active Directory
+
+__Downloads__: 192,855 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [PPDM-pwsh](https://www.powershellgallery.com/Packages/PPDM-pwsh/19.18.24) | 19.18.24
+
+### Published: 06/25/2025 13:46:17 by karsten.bott@dell.com
+
+Powershell Module to interact with the PowerProdect Data Manager (PPDM) API
+
+__Downloads__: 5,322 | __Repository__: https://github.com/bottkars/PPDM-pwsh
 
 ## [PSWriteHTML](https://www.powershellgallery.com/Packages/PSWriteHTML/1.36.0) | 1.36.0
 
@@ -25,7 +704,23 @@ __Downloads__: 9,826,852 | __Repository__: https://stealthpuppy.com/evergreen/
 
 PSWriteHTML is PowerShell Module to generate beautiful HTML reports, pages, emails without any knowledge of HTML, CSS or JavaScript. To get started basics PowerShell knowledge is required.
 
-__Downloads__: 5,016,716 | __Repository__: https://github.com/EvotecIT/PSWriteHTML
+__Downloads__: 5,016,366 | __Repository__: https://github.com/EvotecIT/PSWriteHTML
+
+## [PSSharedGoods](https://www.powershellgallery.com/Packages/PSSharedGoods/0.0.309) | 0.0.309
+
+### Published: 06/25/2025 11:37:53 by Przemyslaw Klys
+
+Module covering functions that are shared within multiple projects
+
+__Downloads__: 622,867 | __Repository__: https://github.com/EvotecIT/PSSharedGoods
+
+## [MarvellQLogicFCPowerKit](https://www.powershellgallery.com/Packages/MarvellQLogicFCPowerKit/2.4.9.0) | 2.4.9.0
+
+### Published: 06/25/2025 10:36:02 by Marvell_Semiconductor_Inc
+
+Marvell QLogic FC PowerKit for managing QLogic FC adapters using PowerShell CmdLets on Windows, Linux and VMware_ESXi hosts.
+
+__Downloads__: 1,054 | __Repository__: https://www.marvell.com/support/downloads.html?PLATFORMLIST=&PORTLIST=&CATEGORYLIST=Fibre%20Channel%20Adapters&KEYWORDS=Power%20Kit&OEM=&LEGACY=&SUBOS=&RESOURCETYPE=Management%20Tools&RELEASEDATERANGE=06/10/2025%20-%2006/10/2025
 
 ## [SqlChangeAutomation](https://www.powershellgallery.com/Packages/SqlChangeAutomation/5.0.25176.6085) | 5.0.25176.6085
 
@@ -33,1172 +728,1316 @@ __Downloads__: 5,016,716 | __Repository__: https://github.com/EvotecIT/PSWriteHT
 
 Automation tools for production quality database deployment
 
-__Downloads__: 6,905,942 | __Repository__: https://www.red-gate.com/sca/productpage
+__Downloads__: 6,905,938 | __Repository__: https://www.red-gate.com/sca/productpage
 
-## [Bicep](https://www.powershellgallery.com/Packages/Bicep/2.9.1) | 2.9.1
+## [SAPAzurePowerShellModules](https://www.powershellgallery.com/Packages/SAPAzurePowerShellModules/0.1.87) | 0.1.87
 
-### Published: 06/22/2025 05:19:57 by Stefan Ivemo
+### Published: 06/25/2025 10:17:27 by Goran Condric
 
-A module to run Bicep using PowerShell. The module is a community project built using the Bicep assemblies to provide you with an enhanced Bicep experience directly from PowerShell without having Bicep CLI installed. 
+SAP on Azure PowerShell Modules used for automation.
 
-The module also provides the additional features:
-- Generate ARM template parameter files directly from a Bicep file
-- Quickly open the API reference docs by referencing the Bicep types
-- Get the result from a build as a string or hashtable instead of writing to a file
-- Test if a Bicep file is valid without building it
-- Convert JSON objects to Bicep Language
-- Install/Update/Uninstall Bicep CLI
-- Specify output folder when building* and decompiling Bicep/ARM templates
-- Specify output filename when building Bicep files
-- Find modules in private module registries
-- Clear local module cache
+__Downloads__: 2,422 | __Repository__: 
 
-For more information about Bicep, please visit the official Bicep GitHub Repository:
-https://github.com/Azure/bicep
+## [AzureCommonStuff](https://www.powershellgallery.com/Packages/AzureCommonStuff/1.0.6) | 1.0.6
 
-__Downloads__: 3,952,733 | __Repository__: https://github.com/PSBicep/PSBicep
+### Published: 06/25/2025 07:49:20 by @AndrewZtrhgf
 
-## [TeamViewerPS](https://www.powershellgallery.com/Packages/TeamViewerPS/2.4.0) | 2.4.0
+Various Azure related functions focused on authentication etc. More details at https://doitpshway.com/series/azure.
+Some of the interesting functions:
+- Connect-AzAccount2 - proxy function for Connect-AzAccount, but supports reusing the existing session
+- Connect-PnPOnline2 - proxy function for Connect-PnPOnline with some enhancements like: automatic MFA auth if MFA detected, skipping authentication if already authenticated etc
+- Invoke-AzureBatchRequest - function to make batch requests against Azure Resource Manager provider (unofficial) api
+- New-AzureBatchRequest - function to create batch request object usable against Azure Resource Manager provider (unofficial) api
+- New-AzureDevOpsAuthHeader - creates auth header for DevOps authentication
+- ...
 
-### Published: 06/20/2025 09:08:43 by TeamViewer Germany GmbH
+__Downloads__: 2,007 | __Repository__: https://github.com/ztrhgf/useful_powershell_modules
 
-TeamViewerPS allows to interact with the TeamViewer Web API as well as a locally installed TeamViewer client.
+## [MSGraphStuff](https://www.powershellgallery.com/Packages/MSGraphStuff/1.1.9) | 1.1.9
 
-__Downloads__: 78,271,982 | __Repository__: https://github.com/teamviewer/TeamViewerPS
+### Published: 06/25/2025 07:47:03 by @AndrewZtrhgf
 
-## [VMware.Sdk.vSphere.vCenter.Authorization](https://www.powershellgallery.com/Packages/VMware.Sdk.vSphere.vCenter.Authorization/9.0.0.24798382) | 9.0.0.24798382
+Microsoft Graph API related functions. Some of them are explained at https://doitpshway.com.
 
-### Published: 06/17/2025 14:11:28 by Broadcom
+Some of the functions:
+- Expand-MgAdditionalProperties - Function for expanding "AdditionalProperties" hash property to the main object aka flattens the returned object
+- Get-CodeGraphModuleDependency - Function for getting Graph SDK modules required to run given code
+- Get-CodeGraphPermissionRequirement - Function for getting Graph API permissions (scopes) that are needed tu run selected code
+- Invoke-GraphAPIRequest - Function for creating request against Microsoft Graph API. Unlike official one supports paging and throttling
+- Invoke-GraphBatchRequest - Function for invoking Graph Api batch request(s) that handles pagination, throttling and server-side errors
+- New-GraphAPIAuthHeader - Function for generating header that can be used for authentication of Graph API requests
+- New-GraphBatchRequest - Function for creating PSObject that can be used in Graph Api batching requests
+- ...
 
-This module is obsolete, use the module 'VMware.Sdk.vSphere' instead.
+__Downloads__: 118,874 | __Repository__: https://github.com/ztrhgf/useful_powershell_modules
 
-__Downloads__: 5,146,621 | __Repository__: https://developer.broadcom.com/powercli
+## [OSDCloud.Michael](https://www.powershellgallery.com/Packages/OSDCloud.Michael/25.6.25.1) | 25.6.25.1
 
-## [VMware.Sdk.vSphere.Esx.Hosts](https://www.powershellgallery.com/Packages/VMware.Sdk.vSphere.Esx.Hosts/9.0.0.24798382) | 9.0.0.24798382
+### Published: 06/25/2025 07:45:26 by Michael Escamilla David Segura
 
-### Published: 06/17/2025 14:11:11 by Broadcom
+OSDCloud Michael Edition
 
-This module is obsolete, use the module 'VMware.Sdk.vSphere' instead.
+__Downloads__: 18 | __Repository__: https://github.com/MichaelEscamilla/OSDCloud.Michael
 
-__Downloads__: 7,388,797 | __Repository__: https://developer.broadcom.com/powercli
+## [Sixel](https://www.powershellgallery.com/Packages/Sixel/0.5.0) | 0.5.0
 
-## [VMware.Sdk.vSphere.Esx.Settings](https://www.powershellgallery.com/Packages/VMware.Sdk.vSphere.Esx.Settings/9.0.0.24798382) | 9.0.0.24798382
+### Published: 06/25/2025 06:51:43 by trackd ShaunLawrie
 
-### Published: 06/17/2025 14:10:58 by Broadcom
+Display images in the terminal using various protocols
 
-This module is obsolete, use the module 'VMware.Sdk.vSphere' instead.
+    ✔️ Sixel
+        - Gif support using ConvertTo-SixelGif.
+    ✔️ Inline Image Protocol (iterm2, "1337")
+        - Supported by VSCode, xterm2, WezTerm, and others.
+    ✔️ Kitty Graphics Protocol
+        - Supported by Kitty terminal and WezTerm (newer versions)
+    ✔️ Block cells
+        - Fallback to block cells if no image protocol is supported.
 
-__Downloads__: 7,362,314 | __Repository__: https://developer.broadcom.com/powercli
+    Note: Sixel requires Windows Terminal v1.22+ or VSCode 1.101+.
+    VSCode requires "Enable Images", "Windows Enable Conpty", "Windows Use Conpty Dll" enabled.
 
-## [VMware.Sdk.vSphere.VAPI.Metadata](https://www.powershellgallery.com/Packages/VMware.Sdk.vSphere.VAPI.Metadata/9.0.0.24798382) | 9.0.0.24798382
+__Downloads__: 2,794 | __Repository__: https://github.com/trackd/Sixel
 
-### Published: 06/17/2025 14:10:29 by Broadcom
+## [Get-AzureToken](https://www.powershellgallery.com/Packages/Get-AzureToken/1.0.1) | 1.0.1
 
-This module is obsolete, use the module 'VMware.Sdk.vSphere' instead.
+### Published: 06/25/2025 03:41:11 by gluk
 
-__Downloads__: 7,363,525 | __Repository__: https://developer.broadcom.com/powercli
+Azure Certificate Authentication with User Selection
 
-## [VMware.Sdk.vSphere.vCenter](https://www.powershellgallery.com/Packages/VMware.Sdk.vSphere.vCenter/9.0.0.24798382) | 9.0.0.24798382
+__Downloads__: 13 | __Repository__: 
 
-### Published: 06/17/2025 14:10:18 by Broadcom
+## [Microsoft.PowerPlatform.DevOps](https://www.powershellgallery.com/Packages/Microsoft.PowerPlatform.DevOps/2.0.226) | 2.0.226
 
-This module is obsolete, use the module 'VMware.Sdk.vSphere' instead.
+### Published: 06/24/2025 23:40:42 by Dylan Haskins and Eugene Van Staden
 
-__Downloads__: 7,366,196 | __Repository__: https://developer.broadcom.com/powercli
+A Toolset for Implementing and Adopting a full ALM strategy for the Microsoft PowerPlatform.
 
-## [VMware.Sdk.vSphere.vCenter.Authentication](https://www.powershellgallery.com/Packages/VMware.Sdk.vSphere.vCenter.Authentication/9.0.0.24798382) | 9.0.0.24798382
+__Downloads__: 81,219 | __Repository__: https://github.com/dylanhaskins/Microsoft.PowerPlatform.DevOps.Documentation
 
-### Published: 06/17/2025 14:10:06 by Broadcom
+## [EpinovaDxpToolBucket](https://www.powershellgallery.com/Packages/EpinovaDxpToolBucket/0.16.1) | 0.16.1
 
-This module is obsolete, use the module 'VMware.Sdk.vSphere' instead.
+### Published: 06/24/2025 23:23:08 by Ove Lartelius
 
-__Downloads__: 7,361,724 | __Repository__: https://developer.broadcom.com/powercli
+Module contain help functions for the Epinova Optimizely DXP vs Azure Portal and run in Octopus deploy. Use EpiCloud v1.9
 
-## [VMware.Sdk.vSphere.vCenter.CertManagement](https://www.powershellgallery.com/Packages/VMware.Sdk.vSphere.vCenter.CertManagement/9.0.0.24798382) | 9.0.0.24798382
+__Downloads__: 588 | __Repository__: 
 
-### Published: 06/17/2025 14:09:56 by Broadcom
+## [Quantum.DMS.PowerShell](https://www.powershellgallery.com/Packages/Quantum.DMS.PowerShell/3.6.0) | 3.6.0
 
-This module is obsolete, use the module 'VMware.Sdk.vSphere' instead.
+### Published: 06/24/2025 23:14:36 by Radi Atanassov
 
-__Downloads__: 7,388,018 | __Repository__: https://developer.broadcom.com/powercli
+A set of PowerShell cmdlets for administering Quantum DMS.
 
-## [VMware.Sdk.vSphere.vCenter.ISO](https://www.powershellgallery.com/Packages/VMware.Sdk.vSphere.vCenter.ISO/9.0.0.24798382) | 9.0.0.24798382
+__Downloads__: 1,054 | __Repository__: 
 
-### Published: 06/17/2025 14:09:44 by Broadcom
+## [OCI.PSModules](https://www.powershellgallery.com/Packages/OCI.PSModules/109.3.0) | 109.3.0
 
-This module is obsolete, use the module 'VMware.Sdk.vSphere' instead.
+### Published: 06/24/2025 18:33:33 by Oracle Cloud Infrastructure
 
-__Downloads__: 7,315,320 | __Repository__: https://developer.broadcom.com/powercli
+Oracle Cloud Infrastructure (OCI) PowerShell Modules - Cmdlets to manage resources in OCI.
+For more information, please visit: https://docs.oracle.com/en-us/iaas/Content/API/SDKDocs/powershell.htm
 
-## [VMware.Sdk.vSphere.vCenter.Content](https://www.powershellgallery.com/Packages/VMware.Sdk.vSphere.vCenter.Content/9.0.0.24798382) | 9.0.0.24798382
+__Downloads__: 9,340 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-### Published: 06/17/2025 14:09:31 by Broadcom
+## [OCI.PSModules.Zpr](https://www.powershellgallery.com/Packages/OCI.PSModules.Zpr/109.3.0) | 109.3.0
 
-This module is obsolete, use the module 'VMware.Sdk.vSphere' instead.
+### Published: 06/24/2025 18:19:29 by Oracle Cloud Infrastructure
 
-__Downloads__: 7,336,869 | __Repository__: https://developer.broadcom.com/powercli
+This modules provides Cmdlets for OCI Zpr Service
 
-## [VMware.Sdk.vSphere.vCenter.Datastore](https://www.powershellgallery.com/Packages/VMware.Sdk.vSphere.vCenter.Datastore/9.0.0.24798382) | 9.0.0.24798382
+__Downloads__: 1,506 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-### Published: 06/17/2025 14:09:23 by Broadcom
+## [OCI.PSModules.Workrequests](https://www.powershellgallery.com/Packages/OCI.PSModules.Workrequests/109.3.0) | 109.3.0
 
-This module is obsolete, use the module 'VMware.Sdk.vSphere' instead.
+### Published: 06/24/2025 18:19:25 by Oracle Cloud Infrastructure
 
-__Downloads__: 7,349,595 | __Repository__: https://developer.broadcom.com/powercli
+This modules provides Cmdlets for OCI Workrequests Service
 
-## [VMware.Sdk.vSphere.vCenter.Deployment](https://www.powershellgallery.com/Packages/VMware.Sdk.vSphere.vCenter.Deployment/9.0.0.24798382) | 9.0.0.24798382
+__Downloads__: 11,753 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-### Published: 06/17/2025 14:09:12 by Broadcom
+## [OCI.PSModules.Wlms](https://www.powershellgallery.com/Packages/OCI.PSModules.Wlms/109.3.0) | 109.3.0
 
-This module is obsolete, use the module 'VMware.Sdk.vSphere' instead.
+### Published: 06/24/2025 18:19:19 by Oracle Cloud Infrastructure
 
-__Downloads__: 7,344,686 | __Repository__: https://developer.broadcom.com/powercli
+This modules provides Cmdlets for OCI Wlms Service
 
-## [VMware.Sdk.vSphere.vCenter.Guest](https://www.powershellgallery.com/Packages/VMware.Sdk.vSphere.vCenter.Guest/9.0.0.24798382) | 9.0.0.24798382
+__Downloads__: 33 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-### Published: 06/17/2025 14:09:02 by Broadcom
+## [OCI.PSModules.Waf](https://www.powershellgallery.com/Packages/OCI.PSModules.Waf/109.3.0) | 109.3.0
 
-This module is obsolete, use the module 'VMware.Sdk.vSphere' instead.
+### Published: 06/24/2025 18:19:14 by Oracle Cloud Infrastructure
 
-__Downloads__: 7,325,112 | __Repository__: https://developer.broadcom.com/powercli
+This modules provides Cmdlets for OCI Waf Service
 
-## [VMware.Sdk.vSphere.vCenter.HVC](https://www.powershellgallery.com/Packages/VMware.Sdk.vSphere.vCenter.HVC/9.0.0.24798382) | 9.0.0.24798382
+__Downloads__: 10,306 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-### Published: 06/17/2025 14:08:47 by Broadcom
+## [OCI.PSModules.Waas](https://www.powershellgallery.com/Packages/OCI.PSModules.Waas/109.3.0) | 109.3.0
 
-This module is obsolete, use the module 'VMware.Sdk.vSphere' instead.
+### Published: 06/24/2025 18:19:08 by Oracle Cloud Infrastructure
 
-__Downloads__: 5,121,573 | __Repository__: https://developer.broadcom.com/powercli
+This modules provides Cmdlets for OCI Waas Service
 
-## [VMware.Sdk.vSphere.vCenter.Identity](https://www.powershellgallery.com/Packages/VMware.Sdk.vSphere.vCenter.Identity/9.0.0.24798382) | 9.0.0.24798382
+__Downloads__: 12,553 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-### Published: 06/17/2025 14:08:33 by Broadcom
+## [OCI.PSModules.Waa](https://www.powershellgallery.com/Packages/OCI.PSModules.Waa/109.3.0) | 109.3.0
 
-This module is obsolete, use the module 'VMware.Sdk.vSphere' instead.
+### Published: 06/24/2025 18:19:02 by Oracle Cloud Infrastructure
 
-__Downloads__: 7,320,823 | __Repository__: https://developer.broadcom.com/powercli
+This modules provides Cmdlets for OCI Waa Service
 
-## [VMware.Sdk.vSphere.Esx.Hcl](https://www.powershellgallery.com/Packages/VMware.Sdk.vSphere.Esx.Hcl/9.0.0.24798382) | 9.0.0.24798382
+__Downloads__: 9,313 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-### Published: 06/17/2025 14:08:23 by Broadcom
+## [OCI.PSModules.Vulnerabilityscanning](https://www.powershellgallery.com/Packages/OCI.PSModules.Vulnerabilityscanning/109.3.0) | 109.3.0
 
-This module is obsolete, use the module 'VMware.Sdk.vSphere' instead.
+### Published: 06/24/2025 18:18:57 by Oracle Cloud Infrastructure
 
-__Downloads__: 7,393,328 | __Repository__: https://developer.broadcom.com/powercli
+This modules provides Cmdlets for OCI Vulnerabilityscanning Service
 
-## [VMware.Sdk.vSphere.ContentLibrary](https://www.powershellgallery.com/Packages/VMware.Sdk.vSphere.ContentLibrary/9.0.0.24798382) | 9.0.0.24798382
+__Downloads__: 11,331 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-### Published: 06/17/2025 14:08:08 by Broadcom
+## [OCI.PSModules.Vnmonitoring](https://www.powershellgallery.com/Packages/OCI.PSModules.Vnmonitoring/109.3.0) | 109.3.0
 
-This module is obsolete, use the module 'VMware.Sdk.vSphere' instead.
+### Published: 06/24/2025 18:18:51 by Oracle Cloud Infrastructure
 
-__Downloads__: 7,405,322 | __Repository__: https://developer.broadcom.com/powercli
+This modules provides Cmdlets for OCI Vnmonitoring Service
 
-## [VMware.Sdk.vSphere.Content](https://www.powershellgallery.com/Packages/VMware.Sdk.vSphere.Content/9.0.0.24798382) | 9.0.0.24798382
+__Downloads__: 9,249 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-### Published: 06/17/2025 14:07:55 by Broadcom
+## [OCI.PSModules.Visualbuilder](https://www.powershellgallery.com/Packages/OCI.PSModules.Visualbuilder/109.3.0) | 109.3.0
 
-This module is obsolete, use the module 'VMware.Sdk.vSphere' instead.
+### Published: 06/24/2025 18:18:45 by Oracle Cloud Infrastructure
 
-__Downloads__: 7,428,636 | __Repository__: https://developer.broadcom.com/powercli
+This modules provides Cmdlets for OCI Visualbuilder Service
 
-## [VMware.Sdk.vSphere.Cis.Tagging](https://www.powershellgallery.com/Packages/VMware.Sdk.vSphere.Cis.Tagging/9.0.0.24798382) | 9.0.0.24798382
+__Downloads__: 10,061 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-### Published: 06/17/2025 14:07:46 by Broadcom
+## [OCI.PSModules.Vbsinst](https://www.powershellgallery.com/Packages/OCI.PSModules.Vbsinst/109.3.0) | 109.3.0
 
-This module is obsolete, use the module 'VMware.Sdk.vSphere' instead.
+### Published: 06/24/2025 18:18:39 by Oracle Cloud Infrastructure
 
-__Downloads__: 7,425,279 | __Repository__: https://developer.broadcom.com/powercli
+This modules provides Cmdlets for OCI Vbsinst Service
 
-## [VMware.Sdk.vSphere.Cis](https://www.powershellgallery.com/Packages/VMware.Sdk.vSphere.Cis/9.0.0.24798382) | 9.0.0.24798382
+__Downloads__: 8,192 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-### Published: 06/17/2025 14:07:36 by Broadcom
+## [OCI.PSModules.Vault](https://www.powershellgallery.com/Packages/OCI.PSModules.Vault/109.3.0) | 109.3.0
 
-This module is obsolete, use the module 'VMware.Sdk.vSphere' instead.
+### Published: 06/24/2025 18:18:34 by Oracle Cloud Infrastructure
 
-__Downloads__: 7,429,518 | __Repository__: https://developer.broadcom.com/powercli
+This modules provides Cmdlets for OCI Vault Service
 
-## [VMware.Sdk.vSphere.Appliance.Update](https://www.powershellgallery.com/Packages/VMware.Sdk.vSphere.Appliance.Update/9.0.0.24798382) | 9.0.0.24798382
+__Downloads__: 11,998 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-### Published: 06/17/2025 14:07:22 by Broadcom
+## [OCI.PSModules.Usageapi](https://www.powershellgallery.com/Packages/OCI.PSModules.Usageapi/109.3.0) | 109.3.0
 
-This module is obsolete, use the module 'VMware.Sdk.vSphere' instead.
+### Published: 06/24/2025 18:18:28 by Oracle Cloud Infrastructure
 
-__Downloads__: 7,426,295 | __Repository__: https://developer.broadcom.com/powercli
+This modules provides Cmdlets for OCI Usageapi Service
 
-## [VMware.Sdk.vSphere.Appliance.System](https://www.powershellgallery.com/Packages/VMware.Sdk.vSphere.Appliance.System/9.0.0.24798382) | 9.0.0.24798382
+__Downloads__: 11,867 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-### Published: 06/17/2025 14:06:56 by Broadcom
+## [OCI.PSModules.Usage](https://www.powershellgallery.com/Packages/OCI.PSModules.Usage/109.3.0) | 109.3.0
 
-This module is obsolete, use the module 'VMware.Sdk.vSphere' instead.
+### Published: 06/24/2025 18:18:23 by Oracle Cloud Infrastructure
 
-__Downloads__: 7,438,766 | __Repository__: https://developer.broadcom.com/powercli
+This modules provides Cmdlets for OCI Usage Service
 
-## [VMware.Sdk.vSphere.Appliance.SupportBundle](https://www.powershellgallery.com/Packages/VMware.Sdk.vSphere.Appliance.SupportBundle/9.0.0.24798382) | 9.0.0.24798382
+__Downloads__: 10,299 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-### Published: 06/17/2025 14:06:47 by Broadcom
+## [OCI.PSModules.Threatintelligence](https://www.powershellgallery.com/Packages/OCI.PSModules.Threatintelligence/109.3.0) | 109.3.0
 
-This module is obsolete, use the module 'VMware.Sdk.vSphere' instead.
+### Published: 06/24/2025 18:18:17 by Oracle Cloud Infrastructure
 
-__Downloads__: 7,450,288 | __Repository__: https://developer.broadcom.com/powercli
+This modules provides Cmdlets for OCI Threatintelligence Service
 
-## [VMware.Sdk.vSphere.Appliance.Recovery](https://www.powershellgallery.com/Packages/VMware.Sdk.vSphere.Appliance.Recovery/9.0.0.24798382) | 9.0.0.24798382
+__Downloads__: 10,201 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-### Published: 06/17/2025 14:06:38 by Broadcom
+## [OCI.PSModules.Tenantmanagercontrolplane](https://www.powershellgallery.com/Packages/OCI.PSModules.Tenantmanagercontrolplane/109.3.0) | 109.3.0
 
-This module is obsolete, use the module 'VMware.Sdk.vSphere' instead.
+### Published: 06/24/2025 18:18:11 by Oracle Cloud Infrastructure
 
-__Downloads__: 7,490,110 | __Repository__: https://developer.broadcom.com/powercli
+This modules provides Cmdlets for OCI Tenantmanagercontrolplane Service
 
-## [VMware.Sdk.vSphere.Appliance.Networking](https://www.powershellgallery.com/Packages/VMware.Sdk.vSphere.Appliance.Networking/9.0.0.24798382) | 9.0.0.24798382
+__Downloads__: 11,566 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-### Published: 06/17/2025 14:06:27 by Broadcom
+## [OCI.PSModules.Streaming](https://www.powershellgallery.com/Packages/OCI.PSModules.Streaming/109.3.0) | 109.3.0
 
-This module is obsolete, use the module 'VMware.Sdk.vSphere' instead.
+### Published: 06/24/2025 18:18:06 by Oracle Cloud Infrastructure
 
-__Downloads__: 7,464,397 | __Repository__: https://developer.broadcom.com/powercli
+This modules provides Cmdlets for OCI Streaming Service
 
-## [VMware.Sdk.vSphere.Appliance.Logging](https://www.powershellgallery.com/Packages/VMware.Sdk.vSphere.Appliance.Logging/9.0.0.24798382) | 9.0.0.24798382
+__Downloads__: 11,734 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-### Published: 06/17/2025 14:06:17 by Broadcom
+## [OCI.PSModules.Stackmonitoring](https://www.powershellgallery.com/Packages/OCI.PSModules.Stackmonitoring/109.3.0) | 109.3.0
 
-This module is obsolete, use the module 'VMware.Sdk.vSphere' instead.
+### Published: 06/24/2025 18:17:59 by Oracle Cloud Infrastructure
 
-__Downloads__: 7,471,567 | __Repository__: https://developer.broadcom.com/powercli
+This modules provides Cmdlets for OCI Stackmonitoring Service
 
-## [VMware.Sdk.vSphere.Appliance.LocalAccounts](https://www.powershellgallery.com/Packages/VMware.Sdk.vSphere.Appliance.LocalAccounts/9.0.0.24798382) | 9.0.0.24798382
+__Downloads__: 9,658 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-### Published: 06/17/2025 14:06:04 by Broadcom
+## [OCI.PSModules.Servicemesh](https://www.powershellgallery.com/Packages/OCI.PSModules.Servicemesh/109.3.0) | 109.3.0
 
-This module is obsolete, use the module 'VMware.Sdk.vSphere' instead.
+### Published: 06/24/2025 18:17:53 by Oracle Cloud Infrastructure
 
-__Downloads__: 7,478,628 | __Repository__: https://developer.broadcom.com/powercli
+This modules provides Cmdlets for OCI Servicemesh Service
 
-## [VMware.Sdk.vSphere.Appliance.InfraProfile](https://www.powershellgallery.com/Packages/VMware.Sdk.vSphere.Appliance.InfraProfile/9.0.0.24798382) | 9.0.0.24798382
+__Downloads__: 9,612 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-### Published: 06/17/2025 14:05:53 by Broadcom
+## [OCI.PSModules.Servicemanagerproxy](https://www.powershellgallery.com/Packages/OCI.PSModules.Servicemanagerproxy/109.3.0) | 109.3.0
 
-This module is obsolete, use the module 'VMware.Sdk.vSphere' instead.
+### Published: 06/24/2025 18:17:48 by Oracle Cloud Infrastructure
 
-__Downloads__: 7,486,178 | __Repository__: https://developer.broadcom.com/powercli
+This modules provides Cmdlets for OCI Servicemanagerproxy Service
 
-## [VMware.Sdk.vSphere.Appliance.Health](https://www.powershellgallery.com/Packages/VMware.Sdk.vSphere.Appliance.Health/9.0.0.24798382) | 9.0.0.24798382
+__Downloads__: 11,643 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-### Published: 06/17/2025 14:05:44 by Broadcom
+## [OCI.PSModules.Servicecatalog](https://www.powershellgallery.com/Packages/OCI.PSModules.Servicecatalog/109.3.0) | 109.3.0
 
-This module is obsolete, use the module 'VMware.Sdk.vSphere' instead.
+### Published: 06/24/2025 18:17:42 by Oracle Cloud Infrastructure
 
-__Downloads__: 7,476,063 | __Repository__: https://developer.broadcom.com/powercli
+This modules provides Cmdlets for OCI Servicecatalog Service
 
-## [VMware.Sdk.vSphere.Appliance.Access](https://www.powershellgallery.com/Packages/VMware.Sdk.vSphere.Appliance.Access/9.0.0.24798382) | 9.0.0.24798382
+__Downloads__: 10,978 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-### Published: 06/17/2025 14:05:32 by Broadcom
+## [OCI.PSModules.Securityattribute](https://www.powershellgallery.com/Packages/OCI.PSModules.Securityattribute/109.3.0) | 109.3.0
 
-This module is obsolete, use the module 'VMware.Sdk.vSphere' instead.
+### Published: 06/24/2025 18:17:36 by Oracle Cloud Infrastructure
 
-__Downloads__: 7,489,772 | __Repository__: https://developer.broadcom.com/powercli
+This modules provides Cmdlets for OCI Securityattribute Service
 
-## [VMware.Sdk.vSphere.Appliance](https://www.powershellgallery.com/Packages/VMware.Sdk.vSphere.Appliance/9.0.0.24798382) | 9.0.0.24798382
+__Downloads__: 1,503 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-### Published: 06/17/2025 14:05:20 by Broadcom
+## [OCI.PSModules.Secrets](https://www.powershellgallery.com/Packages/OCI.PSModules.Secrets/109.3.0) | 109.3.0
 
-This module is obsolete, use the module 'VMware.Sdk.vSphere' instead.
+### Published: 06/24/2025 18:17:31 by Oracle Cloud Infrastructure
 
-__Downloads__: 7,526,576 | __Repository__: https://developer.broadcom.com/powercli
+This modules provides Cmdlets for OCI Secrets Service
 
-## [VMware.Sdk.vSphere.vCenter.Inventory](https://www.powershellgallery.com/Packages/VMware.Sdk.vSphere.vCenter.Inventory/9.0.0.24798382) | 9.0.0.24798382
+__Downloads__: 12,035 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-### Published: 06/17/2025 14:04:58 by Broadcom
+## [OCI.PSModules.Sch](https://www.powershellgallery.com/Packages/OCI.PSModules.Sch/109.3.0) | 109.3.0
 
-This module is obsolete, use the module 'VMware.Sdk.vSphere' instead.
+### Published: 06/24/2025 18:17:23 by Oracle Cloud Infrastructure
 
-__Downloads__: 7,325,397 | __Repository__: https://developer.broadcom.com/powercli
+This modules provides Cmdlets for OCI Sch Service
 
-## [VMware.Sdk.vSphere.vCenter.ConsumptionDomains](https://www.powershellgallery.com/Packages/VMware.Sdk.vSphere.vCenter.ConsumptionDomains/9.0.0.24798382) | 9.0.0.24798382
+__Downloads__: 11,678 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-### Published: 06/17/2025 14:04:36 by Broadcom
+## [OCI.PSModules.Rover](https://www.powershellgallery.com/Packages/OCI.PSModules.Rover/109.3.0) | 109.3.0
 
-This module is obsolete, use the module 'VMware.Sdk.vSphere' instead.
+### Published: 06/24/2025 18:17:17 by Oracle Cloud Infrastructure
 
-__Downloads__: 5,141,300 | __Repository__: https://developer.broadcom.com/powercli
+This modules provides Cmdlets for OCI Rover Service
 
-## [VMware.Sdk.vSphere.vCenter.LCM](https://www.powershellgallery.com/Packages/VMware.Sdk.vSphere.vCenter.LCM/9.0.0.24798382) | 9.0.0.24798382
+__Downloads__: 11,460 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-### Published: 06/17/2025 14:04:26 by Broadcom
+## [OCI.PSModules.Resourcesearch](https://www.powershellgallery.com/Packages/OCI.PSModules.Resourcesearch/109.3.0) | 109.3.0
 
-This module is obsolete, use the module 'VMware.Sdk.vSphere' instead.
+### Published: 06/24/2025 18:17:12 by Oracle Cloud Infrastructure
 
-__Downloads__: 7,312,437 | __Repository__: https://developer.broadcom.com/powercli
+This modules provides Cmdlets for OCI Resourcesearch Service
 
-## [VMware.Sdk.vSphere.vCenter.Tagging](https://www.powershellgallery.com/Packages/VMware.Sdk.vSphere.vCenter.Tagging/9.0.0.24798382) | 9.0.0.24798382
+__Downloads__: 12,194 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-### Published: 06/17/2025 14:04:13 by Broadcom
+## [OCI.PSModules.Resourcescheduler](https://www.powershellgallery.com/Packages/OCI.PSModules.Resourcescheduler/109.3.0) | 109.3.0
 
-This module is obsolete, use the module 'VMware.Sdk.vSphere' instead.
+### Published: 06/24/2025 18:17:06 by Oracle Cloud Infrastructure
 
-__Downloads__: 7,295,984 | __Repository__: https://developer.broadcom.com/powercli
+This modules provides Cmdlets for OCI Resourcescheduler Service
 
-## [VMware.Sdk.vSphere.vCenter.NamespaceManagement](https://www.powershellgallery.com/Packages/VMware.Sdk.vSphere.vCenter.NamespaceManagement/9.0.0.24798382) | 9.0.0.24798382
+__Downloads__: 4,464 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-### Published: 06/17/2025 14:04:05 by Broadcom
+## [OCI.PSModules.Resourcemanager](https://www.powershellgallery.com/Packages/OCI.PSModules.Resourcemanager/109.3.0) | 109.3.0
 
-This module is obsolete, use the module 'VMware.Sdk.vSphere' instead.
+### Published: 06/24/2025 18:17:00 by Oracle Cloud Infrastructure
 
-__Downloads__: 7,327,394 | __Repository__: https://developer.broadcom.com/powercli
+This modules provides Cmdlets for OCI Resourcemanager Service
 
-## [VMware.Sdk.vSphere.vStats](https://www.powershellgallery.com/Packages/VMware.Sdk.vSphere.vStats/9.0.0.24798382) | 9.0.0.24798382
+__Downloads__: 11,740 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-### Published: 06/17/2025 14:03:53 by Broadcom
+## [OCI.PSModules.Redis](https://www.powershellgallery.com/Packages/OCI.PSModules.Redis/109.3.0) | 109.3.0
 
-This module is obsolete, use the module 'VMware.Sdk.vSphere' instead.
+### Published: 06/24/2025 18:16:54 by Oracle Cloud Infrastructure
 
-__Downloads__: 7,275,478 | __Repository__: https://developer.broadcom.com/powercli
+This modules provides Cmdlets for OCI Redis Service
 
-## [VMware.Sdk.vSphere.vCenter.Vm](https://www.powershellgallery.com/Packages/VMware.Sdk.vSphere.vCenter.Vm/9.0.0.24798382) | 9.0.0.24798382
+__Downloads__: 6,842 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-### Published: 06/17/2025 14:03:40 by Broadcom
+## [OCI.PSModules.Recovery](https://www.powershellgallery.com/Packages/OCI.PSModules.Recovery/109.3.0) | 109.3.0
 
-This module is obsolete, use the module 'VMware.Sdk.vSphere' instead.
+### Published: 06/24/2025 18:16:48 by Oracle Cloud Infrastructure
 
-__Downloads__: 7,282,570 | __Repository__: https://developer.broadcom.com/powercli
+This modules provides Cmdlets for OCI Recovery Service
 
-## [VMware.Sdk.vSphere.vCenter.VCHA](https://www.powershellgallery.com/Packages/VMware.Sdk.vSphere.vCenter.VCHA/9.0.0.24798382) | 9.0.0.24798382
+__Downloads__: 8,211 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-### Published: 06/17/2025 14:03:28 by Broadcom
+## [OCI.PSModules.Queue](https://www.powershellgallery.com/Packages/OCI.PSModules.Queue/109.3.0) | 109.3.0
 
-This module is obsolete, use the module 'VMware.Sdk.vSphere' instead.
+### Published: 06/24/2025 18:16:43 by Oracle Cloud Infrastructure
 
-__Downloads__: 7,287,044 | __Repository__: https://developer.broadcom.com/powercli
+This modules provides Cmdlets for OCI Queue Service
 
-## [VMware.Sdk.vSphere.vCenter.TrustedInfrastructure](https://www.powershellgallery.com/Packages/VMware.Sdk.vSphere.vCenter.TrustedInfrastructure/9.0.0.24798382) | 9.0.0.24798382
+__Downloads__: 8,382 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-### Published: 06/17/2025 14:03:15 by Broadcom
+## [OCI.PSModules.Psql](https://www.powershellgallery.com/Packages/OCI.PSModules.Psql/109.3.0) | 109.3.0
 
-This module is obsolete, use the module 'VMware.Sdk.vSphere' instead.
+### Published: 06/24/2025 18:16:38 by Oracle Cloud Infrastructure
 
-__Downloads__: 7,292,263 | __Repository__: https://developer.broadcom.com/powercli
+This modules provides Cmdlets for OCI Psql Service
 
-## [VMware.Sdk.vSphere.vCenter.Topology](https://www.powershellgallery.com/Packages/VMware.Sdk.vSphere.vCenter.Topology/9.0.0.24798382) | 9.0.0.24798382
+__Downloads__: 6,678 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-### Published: 06/17/2025 14:03:06 by Broadcom
+## [OCI.PSModules.Osubusage](https://www.powershellgallery.com/Packages/OCI.PSModules.Osubusage/109.3.0) | 109.3.0
 
-This module is obsolete, use the module 'VMware.Sdk.vSphere' instead.
+### Published: 06/24/2025 18:16:33 by Oracle Cloud Infrastructure
 
-__Downloads__: 7,294,026 | __Repository__: https://developer.broadcom.com/powercli
+This modules provides Cmdlets for OCI Osubusage Service
 
-## [VMware.Sdk.vSphere.vCenter.VmTemplate](https://www.powershellgallery.com/Packages/VMware.Sdk.vSphere.vCenter.VmTemplate/9.0.0.24798382) | 9.0.0.24798382
+__Downloads__: 10,018 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-### Published: 06/17/2025 14:02:56 by Broadcom
+## [OCI.PSModules.Osubsubscription](https://www.powershellgallery.com/Packages/OCI.PSModules.Osubsubscription/109.3.0) | 109.3.0
 
-This module is obsolete, use the module 'VMware.Sdk.vSphere' instead.
+### Published: 06/24/2025 18:16:26 by Oracle Cloud Infrastructure
 
-__Downloads__: 7,281,392 | __Repository__: https://developer.broadcom.com/powercli
+This modules provides Cmdlets for OCI Osubsubscription Service
 
-## [VMware.Sdk.vSphere.vCenter.Storage](https://www.powershellgallery.com/Packages/VMware.Sdk.vSphere.vCenter.Storage/9.0.0.24798382) | 9.0.0.24798382
+__Downloads__: 10,028 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-### Published: 06/17/2025 14:02:40 by Broadcom
+## [OCI.PSModules.Osuborganizationsubscription](https://www.powershellgallery.com/Packages/OCI.PSModules.Osuborganizationsubscription/109.3.0) | 109.3.0
 
-This module is obsolete, use the module 'VMware.Sdk.vSphere' instead.
+### Published: 06/24/2025 18:16:21 by Oracle Cloud Infrastructure
 
-__Downloads__: 7,295,647 | __Repository__: https://developer.broadcom.com/powercli
+This modules provides Cmdlets for OCI Osuborganizationsubscription Service
 
-## [VMware.Sdk.vSphere.vCenter.Services](https://www.powershellgallery.com/Packages/VMware.Sdk.vSphere.vCenter.Services/9.0.0.24798382) | 9.0.0.24798382
+__Downloads__: 11,842 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-### Published: 06/17/2025 14:02:29 by Broadcom
+## [OCI.PSModules.Osubbillingschedule](https://www.powershellgallery.com/Packages/OCI.PSModules.Osubbillingschedule/109.3.0) | 109.3.0
 
-This module is obsolete, use the module 'VMware.Sdk.vSphere' instead.
+### Published: 06/24/2025 18:16:16 by Oracle Cloud Infrastructure
 
-__Downloads__: 7,298,492 | __Repository__: https://developer.broadcom.com/powercli
+This modules provides Cmdlets for OCI Osubbillingschedule Service
 
-## [VMware.Sdk.vSphere.vCenter.Namespaces](https://www.powershellgallery.com/Packages/VMware.Sdk.vSphere.vCenter.Namespaces/9.0.0.24798382) | 9.0.0.24798382
+__Downloads__: 10,046 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-### Published: 06/17/2025 14:02:19 by Broadcom
+## [OCI.PSModules.Ospgateway](https://www.powershellgallery.com/Packages/OCI.PSModules.Ospgateway/109.3.0) | 109.3.0
 
-This module is obsolete, use the module 'VMware.Sdk.vSphere' instead.
+### Published: 06/24/2025 18:16:10 by Oracle Cloud Infrastructure
 
-__Downloads__: 7,319,963 | __Repository__: https://developer.broadcom.com/powercli
+This modules provides Cmdlets for OCI Ospgateway Service
 
-## [VMware.Sdk.vSphere.vCenter.OVF](https://www.powershellgallery.com/Packages/VMware.Sdk.vSphere.vCenter.OVF/9.0.0.24798382) | 9.0.0.24798382
+__Downloads__: 10,130 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-### Published: 06/17/2025 14:02:11 by Broadcom
+## [OCI.PSModules.Osmanagementhub](https://www.powershellgallery.com/Packages/OCI.PSModules.Osmanagementhub/109.3.0) | 109.3.0
 
-This module is obsolete, use the module 'VMware.Sdk.vSphere' instead.
+### Published: 06/24/2025 18:16:05 by Oracle Cloud Infrastructure
 
-__Downloads__: 7,301,411 | __Repository__: https://developer.broadcom.com/powercli
+This modules provides Cmdlets for OCI Osmanagementhub Service
 
-## [VMware.Sdk.vSphere.vCenter.SystemConfig](https://www.powershellgallery.com/Packages/VMware.Sdk.vSphere.vCenter.SystemConfig/9.0.0.24798382) | 9.0.0.24798382
+__Downloads__: 7,608 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-### Published: 06/17/2025 14:02:01 by Broadcom
+## [OCI.PSModules.Osmanagement](https://www.powershellgallery.com/Packages/OCI.PSModules.Osmanagement/109.3.0) | 109.3.0
 
-This module is obsolete, use the module 'VMware.Sdk.vSphere' instead.
+### Published: 06/24/2025 18:15:59 by Oracle Cloud Infrastructure
 
-__Downloads__: 7,311,126 | __Repository__: https://developer.broadcom.com/powercli
+This modules provides Cmdlets for OCI Osmanagement Service
 
-## [VMware.Sdk.vSphere](https://www.powershellgallery.com/Packages/VMware.Sdk.vSphere/13.4.0.24798382) | 13.4.0.24798382
+__Downloads__: 11,768 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-### Published: 06/17/2025 13:59:25 by Broadcom
+## [OCI.PSModules.Optimizer](https://www.powershellgallery.com/Packages/OCI.PSModules.Optimizer/109.3.0) | 109.3.0
 
-This PowerShell module contains cmdlets for managing VMware.Sdk.vSphere API.
+### Published: 06/24/2025 18:15:54 by Oracle Cloud Infrastructure
 
-__Downloads__: 7,319,550 | __Repository__: https://developer.broadcom.com/powercli
+This modules provides Cmdlets for OCI Optimizer Service
 
-## [VMware.Sdk.Vr](https://www.powershellgallery.com/Packages/VMware.Sdk.Vr/13.4.0.24798382) | 13.4.0.24798382
+__Downloads__: 11,892 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-### Published: 06/17/2025 13:59:04 by Broadcom
+## [OCI.PSModules.Opsi](https://www.powershellgallery.com/Packages/OCI.PSModules.Opsi/109.3.0) | 109.3.0
 
-This PowerShell module contains cmdlets for managing VMware.Sdk.Vr API.
+### Published: 06/24/2025 18:15:47 by Oracle Cloud Infrastructure
 
-__Downloads__: 4,871,375 | __Repository__: https://developer.broadcom.com/powercli
+This modules provides Cmdlets for OCI Opsi Service
 
-## [VMware.Sdk.Vcf.CloudBuilder](https://www.powershellgallery.com/Packages/VMware.Sdk.Vcf.CloudBuilder/13.4.0.24798382) | 13.4.0.24798382
+__Downloads__: 11,614 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-### Published: 06/17/2025 13:58:49 by Broadcom
+## [OCI.PSModules.Operatoraccesscontrol](https://www.powershellgallery.com/Packages/OCI.PSModules.Operatoraccesscontrol/109.3.0) | 109.3.0
 
-This PowerShell module contains cmdlets for managing VMware.Sdk.Vcf.CloudBuilder API.
+### Published: 06/24/2025 18:15:41 by Oracle Cloud Infrastructure
 
-__Downloads__: 3,969,315 | __Repository__: https://developer.broadcom.com/powercli
+This modules provides Cmdlets for OCI Operatoraccesscontrol Service
 
-## [VMware.Sdk.Srm](https://www.powershellgallery.com/Packages/VMware.Sdk.Srm/13.4.0.24798382) | 13.4.0.24798382
+__Downloads__: 11,414 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-### Published: 06/17/2025 13:58:18 by Broadcom
+## [OCI.PSModules.Opensearch](https://www.powershellgallery.com/Packages/OCI.PSModules.Opensearch/109.3.0) | 109.3.0
 
-This PowerShell module contains cmdlets for managing VMware.Sdk.Srm API.
+### Published: 06/24/2025 18:15:36 by Oracle Cloud Infrastructure
 
-__Downloads__: 4,874,279 | __Repository__: https://developer.broadcom.com/powercli
+This modules provides Cmdlets for OCI Opensearch Service
 
-## [VMware.Sdk.Nsx.Policy](https://www.powershellgallery.com/Packages/VMware.Sdk.Nsx.Policy/13.4.0.24798382) | 13.4.0.24798382
+__Downloads__: 9,287 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-### Published: 06/17/2025 13:57:52 by Broadcom
+## [OCI.PSModules.Opa](https://www.powershellgallery.com/Packages/OCI.PSModules.Opa/109.3.0) | 109.3.0
 
-This PowerShell module contains cmdlets for managing VMware.Sdk.Nsx.Policy API.
+### Published: 06/24/2025 18:15:30 by Oracle Cloud Infrastructure
 
-__Downloads__: 6,498,554 | __Repository__: https://developer.broadcom.com/powercli
+This modules provides Cmdlets for OCI Opa Service
 
-## [VMware.PowerCLI.VCenter](https://www.powershellgallery.com/Packages/VMware.PowerCLI.VCenter/13.4.0.24798382) | 13.4.0.24798382
+__Downloads__: 9,203 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-### Published: 06/17/2025 13:56:51 by Broadcom
+## [OCI.PSModules.Ons](https://www.powershellgallery.com/Packages/OCI.PSModules.Ons/109.3.0) | 109.3.0
 
-This module is obsolete, use the module 'VMware.VimAutomation.Core' instead.
+### Published: 06/24/2025 18:15:25 by Oracle Cloud Infrastructure
 
-__Downloads__: 7,269,753 | __Repository__: https://developer.broadcom.com/powercli
+This modules provides Cmdlets for OCI Ons Service
 
-## [VMware.Sdk.Vcf.SddcManager](https://www.powershellgallery.com/Packages/VMware.Sdk.Vcf.SddcManager/13.4.0.24798382) | 13.4.0.24798382
+__Downloads__: 11,891 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-### Published: 06/17/2025 13:53:19 by Broadcom
+## [OCI.PSModules.Onesubscription](https://www.powershellgallery.com/Packages/OCI.PSModules.Onesubscription/109.3.0) | 109.3.0
 
-This PowerShell module contains cmdlets for managing VMware.Sdk.Vcf.SddcManager API.
+### Published: 06/24/2025 18:15:19 by Oracle Cloud Infrastructure
 
-__Downloads__: 3,967,525 | __Repository__: https://developer.broadcom.com/powercli
+This modules provides Cmdlets for OCI Onesubscription Service
 
-## [VMware.VimAutomation.Vds](https://www.powershellgallery.com/Packages/VMware.VimAutomation.Vds/13.4.0.24798382) | 13.4.0.24798382
+__Downloads__: 9,357 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-### Published: 06/17/2025 13:51:09 by Broadcom
+## [OCI.PSModules.Oda](https://www.powershellgallery.com/Packages/OCI.PSModules.Oda/109.3.0) | 109.3.0
 
-This PowerShell module contains PowerCLI VDS cmdlets.
+### Published: 06/24/2025 18:15:14 by Oracle Cloud Infrastructure
 
-__Downloads__: 17,697,865 | __Repository__: https://developer.broadcom.com/powercli
+This modules provides Cmdlets for OCI Oda Service
 
-## [VMware.VimAutomation.Storage](https://www.powershellgallery.com/Packages/VMware.VimAutomation.Storage/13.4.0.24798382) | 13.4.0.24798382
+__Downloads__: 11,774 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-### Published: 06/17/2025 13:50:35 by Broadcom
+## [OCI.PSModules.Ocvp](https://www.powershellgallery.com/Packages/OCI.PSModules.Ocvp/109.3.0) | 109.3.0
 
-This Windows PowerShell module contains PowerCLI storage management cmdlets.
+### Published: 06/24/2025 18:15:08 by Oracle Cloud Infrastructure
 
-__Downloads__: 16,968,993 | __Repository__: https://developer.broadcom.com/powercli
+This modules provides Cmdlets for OCI Ocvp Service
 
-## [VMware.VimAutomation.Core](https://www.powershellgallery.com/Packages/VMware.VimAutomation.Core/13.4.0.24798382) | 13.4.0.24798382
+__Downloads__: 13,939 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-### Published: 06/17/2025 13:45:59 by Broadcom
+## [OCI.PSModules.Ocicontrolcenter](https://www.powershellgallery.com/Packages/OCI.PSModules.Ocicontrolcenter/109.3.0) | 109.3.0
 
-This PowerShell module contains Windows PowerShell cmdlets for managing vSphere.
+### Published: 06/24/2025 18:15:01 by Oracle Cloud Infrastructure
 
-__Downloads__: 21,514,510 | __Repository__: https://developer.broadcom.com/powercli
+This modules provides Cmdlets for OCI Ocicontrolcenter Service
 
-## [VMware.VimAutomation.Cis.Core](https://www.powershellgallery.com/Packages/VMware.VimAutomation.Cis.Core/13.4.0.24798382) | 13.4.0.24798382
+__Downloads__: 7,689 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-### Published: 06/17/2025 13:45:08 by Broadcom
+## [OCI.PSModules.Oce](https://www.powershellgallery.com/Packages/OCI.PSModules.Oce/109.3.0) | 109.3.0
 
-This PowerShell module contains PowerCLI Cloud Infrastructure Suite cmdlets.
+### Published: 06/24/2025 18:14:56 by Oracle Cloud Infrastructure
 
-__Downloads__: 21,806,894 | __Repository__: https://developer.broadcom.com/powercli
+This modules provides Cmdlets for OCI Oce Service
 
-## [VMware.Vim](https://www.powershellgallery.com/Packages/VMware.Vim/9.0.0.24798382) | 9.0.0.24798382
+__Downloads__: 11,832 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-### Published: 06/17/2025 13:19:05 by Broadcom
+## [OCI.PSModules.Objectstorage](https://www.powershellgallery.com/Packages/OCI.PSModules.Objectstorage/109.3.0) | 109.3.0
 
-This PowerShell module contains PowerCLI Vim.
+### Published: 06/24/2025 18:14:51 by Oracle Cloud Infrastructure
 
-__Downloads__: 23,381,575 | __Repository__: https://developer.broadcom.com/powercli
+This modules provides Cmdlets for OCI Objectstorage Service
 
-## [VMware.VimAutomation.Common](https://www.powershellgallery.com/Packages/VMware.VimAutomation.Common/13.4.0.24798382) | 13.4.0.24798382
+__Downloads__: 18,592 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-### Published: 06/17/2025 13:17:08 by Broadcom
+## [OCI.PSModules.Nosql](https://www.powershellgallery.com/Packages/OCI.PSModules.Nosql/109.3.0) | 109.3.0
 
-This PowerShell module contains functionality required by multiple PowerCLI modules.
+### Published: 06/24/2025 18:14:45 by Oracle Cloud Infrastructure
 
-__Downloads__: 25,007,921 | __Repository__: https://developer.broadcom.com/powercli
+This modules provides Cmdlets for OCI Nosql Service
 
-## [VMware.VimAutomation.Sdk](https://www.powershellgallery.com/Packages/VMware.VimAutomation.Sdk/13.4.0.24798382) | 13.4.0.24798382
+__Downloads__: 14,186 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-### Published: 06/17/2025 13:16:29 by Broadcom
+## [OCI.PSModules.Networkloadbalancer](https://www.powershellgallery.com/Packages/OCI.PSModules.Networkloadbalancer/109.3.0) | 109.3.0
 
-This PowerShell module contains PowerCLI Sdk.
+### Published: 06/24/2025 18:14:39 by Oracle Cloud Infrastructure
 
-__Downloads__: 26,171,185 | __Repository__: https://developer.broadcom.com/powercli
+This modules provides Cmdlets for OCI Networkloadbalancer Service
 
-## [SpeculationControl](https://www.powershellgallery.com/Packages/SpeculationControl/1.0.19) | 1.0.19
+__Downloads__: 11,588 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-### Published: 06/11/2025 18:30:45 by Matt Miller Security Engineer
+## [OCI.PSModules.Networkfirewall](https://www.powershellgallery.com/Packages/OCI.PSModules.Networkfirewall/109.3.0) | 109.3.0
 
-This module provides the ability to query the speculation control settings for the system.
+### Published: 06/24/2025 18:14:32 by Oracle Cloud Infrastructure
 
-__Downloads__: 521,088,949 | __Repository__: 
+This modules provides Cmdlets for OCI Networkfirewall Service
 
-## [ActiveDirectoryDsc](https://www.powershellgallery.com/Packages/ActiveDirectoryDsc/6.7.0) | 6.7.0
+__Downloads__: 9,396 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-### Published: 05/29/2025 13:00:54 by DSC Community
+## [OCI.PSModules.Mysql](https://www.powershellgallery.com/Packages/OCI.PSModules.Mysql/109.3.0) | 109.3.0
 
-The ActiveDirectoryDsc module contains DSC resources for deployment and configuration of Active Directory.
+### Published: 06/24/2025 18:14:26 by Oracle Cloud Infrastructure
 
-These DSC resources allow you to configure new domains, child domains, and high availability domain controllers, establish cross-domain trusts and manage users, groups and OUs.
+This modules provides Cmdlets for OCI Mysql Service
 
-__Downloads__: 6,787,989 | __Repository__: https://github.com/dsccommunity/ActiveDirectoryDsc
+__Downloads__: 24,769 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-## [PsIni](https://www.powershellgallery.com/Packages/PsIni/4.0.0) | 4.0.0
+## [OCI.PSModules.Monitoring](https://www.powershellgallery.com/Packages/OCI.PSModules.Monitoring/109.3.0) | 109.3.0
 
-### Published: 05/17/2025 16:46:07 by Oliver Lipkau <oliver@lipkau.net>
+### Published: 06/24/2025 18:14:20 by Oracle Cloud Infrastructure
 
-Convert hashtable to INI file and back
+This modules provides Cmdlets for OCI Monitoring Service
 
-__Downloads__: 6,047,010 | __Repository__: https://github.com/lipkau/PSIni
+__Downloads__: 11,954 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-## [NetworkingDsc](https://www.powershellgallery.com/Packages/NetworkingDsc/9.1.0) | 9.1.0
+## [OCI.PSModules.Modeldeployment](https://www.powershellgallery.com/Packages/OCI.PSModules.Modeldeployment/109.3.0) | 109.3.0
 
-### Published: 05/11/2025 22:01:48 by DSC Community
+### Published: 06/24/2025 18:14:14 by Oracle Cloud Infrastructure
 
-DSC resources for configuring settings related to networking.
+This modules provides Cmdlets for OCI Modeldeployment Service
 
-__Downloads__: 92,025,775 | __Repository__: https://github.com/dsccommunity/NetworkingDsc
+__Downloads__: 262 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-## [dbatools](https://www.powershellgallery.com/Packages/dbatools/2.1.31) | 2.1.31
+## [OCI.PSModules.Mngdmac](https://www.powershellgallery.com/Packages/OCI.PSModules.Mngdmac/109.3.0) | 109.3.0
 
-### Published: 05/09/2025 08:53:20 by the dbatools team
+### Published: 06/24/2025 18:14:10 by Oracle Cloud Infrastructure
 
-The community module that enables SQL Server Pros to automate database development and server administration
+This modules provides Cmdlets for OCI Mngdmac Service
 
-__Downloads__: 6,737,714 | __Repository__: https://dbatools.io/
+__Downloads__: 665 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-## [JumpCloud](https://www.powershellgallery.com/Packages/JumpCloud/2.18.1) | 2.18.1
+## [OCI.PSModules.Mediaservices](https://www.powershellgallery.com/Packages/OCI.PSModules.Mediaservices/109.3.0) | 109.3.0
 
-### Published: 04/25/2025 20:49:55 by JumpCloud Solutions Architect Team
+### Published: 06/24/2025 18:14:04 by Oracle Cloud Infrastructure
 
-PowerShell functions to manage a JumpCloud Directory-as-a-Service
+This modules provides Cmdlets for OCI Mediaservices Service
 
-__Downloads__: 6,182,306 | __Repository__: https://github.com/TheJumpCloud/support/wiki
+__Downloads__: 10,150 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-## [LSUClient](https://www.powershellgallery.com/Packages/LSUClient/1.7.1) | 1.7.1
+## [OCI.PSModules.Marketplacepublisher](https://www.powershellgallery.com/Packages/OCI.PSModules.Marketplacepublisher/109.3.0) | 109.3.0
 
-### Published: 04/23/2025 22:05:21 by jantari
+### Published: 06/24/2025 18:13:58 by Oracle Cloud Infrastructure
 
-Orchestrate driver, BIOS/UEFI and firmware updates for Lenovo computers 👨‍💻
+This modules provides Cmdlets for OCI Marketplacepublisher Service
 
-__Downloads__: 35,268,245 | __Repository__: https://www.github.com/jantari/LSUClient
+__Downloads__: 6,921 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-## [HPCMSL](https://www.powershellgallery.com/Packages/HPCMSL/1.8.2) | 1.8.2
+## [OCI.PSModules.Marketplaceprivateoffer](https://www.powershellgallery.com/Packages/OCI.PSModules.Marketplaceprivateoffer/109.3.0) | 109.3.0
 
-### Published: 04/23/2025 19:46:38 by HP Development Company L.P.
+### Published: 06/24/2025 18:13:53 by Oracle Cloud Infrastructure
 
-HP Client Management Script Library
+This modules provides Cmdlets for OCI Marketplaceprivateoffer Service
 
-__Downloads__: 42,522,556 | __Repository__: 
+__Downloads__: 4,611 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-## [DSInternals](https://www.powershellgallery.com/Packages/DSInternals/5.3) | 5.3
+## [OCI.PSModules.Marketplace](https://www.powershellgallery.com/Packages/OCI.PSModules.Marketplace/109.3.0) | 109.3.0
 
-### Published: 04/11/2025 10:49:03 by Michael Grafnetter
+### Published: 06/24/2025 18:13:47 by Oracle Cloud Infrastructure
 
-The DSInternals PowerShell Module exposes several internal features of Active Directory and Azure Active Directory. These include FIDO2 and NGC key auditing, offline ntds.dit file manipulation, password auditing, DC recovery from IFM backups and password hash calculation.
+This modules provides Cmdlets for OCI Marketplace Service
 
-DISCLAIMER: Features exposed through this module are not supported by Microsoft and it is therefore not intended to be used in production environments. Improper use might cause irreversible damage to domain controllers or negatively impact domain security.
+__Downloads__: 11,873 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-__Downloads__: 4,348,901 | __Repository__: https://github.com/MichaelGrafnetter/DSInternals
+## [OCI.PSModules.Managementdashboard](https://www.powershellgallery.com/Packages/OCI.PSModules.Managementdashboard/109.3.0) | 109.3.0
 
-## [PSPKI](https://www.powershellgallery.com/Packages/PSPKI/4.3.0) | 4.3.0
+### Published: 06/24/2025 18:13:41 by Oracle Cloud Infrastructure
 
-### Published: 04/02/2025 08:31:41 by Vadims Podans
+This modules provides Cmdlets for OCI Managementdashboard Service
 
-This module contains public key infrastructure and certificate management functions. Support site: https://www.pkisolutions.com/tools/pspki/
+__Downloads__: 14,181 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-__Downloads__: 4,954,867 | __Repository__: https://www.pkisolutions.com/tools/pspki/
+## [OCI.PSModules.Managementagent](https://www.powershellgallery.com/Packages/OCI.PSModules.Managementagent/109.3.0) | 109.3.0
 
-## [ComputerManagementDsc](https://www.powershellgallery.com/Packages/ComputerManagementDsc/10.0.0) | 10.0.0
+### Published: 06/24/2025 18:13:35 by Oracle Cloud Infrastructure
 
-### Published: 01/25/2025 15:17:04 by DSC Community
+This modules provides Cmdlets for OCI Managementagent Service
 
-DSC resources for configuration of a Windows computer. These DSC resources allow you to perform computer management tasks, such as renaming the computer, joining a domain and scheduling tasks as well as configuring items such as virtual memory, event logs, time zones and power settings.
+__Downloads__: 11,785 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-__Downloads__: 45,350,516 | __Repository__: https://github.com/dsccommunity/ComputerManagementDsc
+## [OCI.PSModules.Lustrefilestorage](https://www.powershellgallery.com/Packages/OCI.PSModules.Lustrefilestorage/109.3.0) | 109.3.0
 
-## [powershell-yaml](https://www.powershellgallery.com/Packages/powershell-yaml/0.4.12) | 0.4.12
+### Published: 06/24/2025 18:13:29 by Oracle Cloud Infrastructure
 
-### Published: 01/23/2025 18:41:16 by Gabriel Adrian Samfira Alessandro Pilotti
+This modules provides Cmdlets for OCI Lustrefilestorage Service
 
-Powershell module for serializing and deserializing YAML
+__Downloads__: 537 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-__Downloads__: 121,956,295 | __Repository__: https://github.com/cloudbase/powershell-yaml
+## [OCI.PSModules.Loggingsearch](https://www.powershellgallery.com/Packages/OCI.PSModules.Loggingsearch/109.3.0) | 109.3.0
 
-## [WSManDsc](https://www.powershellgallery.com/Packages/WSManDsc/3.2.0) | 3.2.0
+### Published: 06/24/2025 18:13:24 by Oracle Cloud Infrastructure
 
-### Published: 01/19/2025 09:32:48 by DSC Community
+This modules provides Cmdlets for OCI Loggingsearch Service
 
-DSC resources for configuring WS-Man.
+__Downloads__: 11,820 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-__Downloads__: 23,590,517 | __Repository__: https://github.com/dsccommunity/WSManDsc
+## [OCI.PSModules.Loggingingestion](https://www.powershellgallery.com/Packages/OCI.PSModules.Loggingingestion/109.3.0) | 109.3.0
 
-## [Pester](https://www.powershellgallery.com/Packages/Pester/5.7.1) | 5.7.1
+### Published: 06/24/2025 18:13:18 by Oracle Cloud Infrastructure
 
-### Published: 01/08/2025 21:12:39 by Pester Team
+This modules provides Cmdlets for OCI Loggingingestion Service
 
-Pester provides a framework for running BDD style Tests to execute and validate PowerShell commands inside of PowerShell and offers a powerful set of Mocking Functions that allow tests to mimic and mock the functionality of any command inside of a piece of PowerShell code being tested. Pester tests can execute any command or script that is accessible to a pester test file. This can include functions, Cmdlets, Modules and scripts. Pester can be run in ad hoc style in a console or it can be integrated into the Build scripts of a Continuous Integration system.
+__Downloads__: 12,084 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-__Downloads__: 28,982,496 | __Repository__: https://github.com/Pester/Pester
+## [OCI.PSModules.Logging](https://www.powershellgallery.com/Packages/OCI.PSModules.Logging/109.3.0) | 109.3.0
 
-## [7Zip4Powershell](https://www.powershellgallery.com/Packages/7Zip4Powershell/2.7.0) | 2.7.0
+### Published: 06/24/2025 18:13:12 by Oracle Cloud Infrastructure
 
-### Published: 12/10/2024 20:06:18 by Thomas Freudenberg
+This modules provides Cmdlets for OCI Logging Service
 
-Powershell module for creating and extracting 7-Zip archives
+__Downloads__: 12,100 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-__Downloads__: 19,094,255 | __Repository__: https://github.com/thoemmi/7Zip4Powershell
+## [OCI.PSModules.Loganalytics](https://www.powershellgallery.com/Packages/OCI.PSModules.Loganalytics/109.3.0) | 109.3.0
 
-## [xPSDesiredStateConfiguration](https://www.powershellgallery.com/Packages/xPSDesiredStateConfiguration/9.2.1) | 9.2.1
+### Published: 06/24/2025 18:13:06 by Oracle Cloud Infrastructure
 
-### Published: 11/11/2024 17:38:06 by DSC Community
+This modules provides Cmdlets for OCI Loganalytics Service
 
-DSC resources for configuring common operating systems features, files and settings.
+__Downloads__: 14,136 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-__Downloads__: 16,624,417 | __Repository__: https://github.com/dsccommunity/xPSDesiredStateConfiguration
+## [OCI.PSModules.Lockbox](https://www.powershellgallery.com/Packages/OCI.PSModules.Lockbox/109.3.0) | 109.3.0
 
-## [DellBIOSProvider](https://www.powershellgallery.com/Packages/DellBIOSProvider/2.9.0) | 2.9.0
+### Published: 06/24/2025 18:13:00 by Oracle Cloud Infrastructure
 
-### Published: 10/29/2024 05:49:49 by Dell BizClient Team
+This modules provides Cmdlets for OCI Lockbox Service
 
-The 'Dell Command | PowerShell Provider' provides native configuration capability of Dell Optiplex, Latitude, Precision, XPS Notebook and Venue 11 systems within PowerShell.
+__Downloads__: 9,296 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-__Downloads__: 576,533,766 | __Repository__: http://en.community.dell.com/techcenter/enterprise-client/w/wiki/6901.dell-command-powershell-provider
+## [OCI.PSModules.Limits](https://www.powershellgallery.com/Packages/OCI.PSModules.Limits/109.3.0) | 109.3.0
 
-## [Microsoft.Xrm.Data.Powershell](https://www.powershellgallery.com/Packages/Microsoft.Xrm.Data.Powershell/2.8.21) | 2.8.21
+### Published: 06/24/2025 18:12:48 by Oracle Cloud Infrastructure
 
-### Published: 10/09/2024 15:59:50 by Sean McNellis Kenichiro Nakamura
+This modules provides Cmdlets for OCI Limits Service
 
-This module applies many helpful functions which use the Microsoft.Xrm.Tooling.CrmConnector.Powershell CrmServiceClient. Functions are included to create, delete, query, and update data as well as functions for common tasks such as publishing, and manipulating System and DataVerse User Settings, etc. The module should function for both Dynamics Customer Engagement Online, DataVerse environments, and On-Premise environments.
+__Downloads__: 12,251 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-__Downloads__: 5,639,700 | __Repository__: https://github.com/seanmcne/Microsoft.Xrm.Data.PowerShell
+## [OCI.PSModules.Licensemanager](https://www.powershellgallery.com/Packages/OCI.PSModules.Licensemanager/109.3.0) | 109.3.0
 
-## [CertificateDsc](https://www.powershellgallery.com/Packages/CertificateDsc/6.0.0) | 6.0.0
+### Published: 06/24/2025 18:12:42 by Oracle Cloud Infrastructure
 
-### Published: 10/05/2024 09:02:17 by DSC Community
+This modules provides Cmdlets for OCI Licensemanager Service
 
-DSC resources for managing certificates on a Windows Server.
+__Downloads__: 9,489 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-__Downloads__: 25,384,971 | __Repository__: https://github.com/dsccommunity/CertificateDsc
+## [OCI.PSModules.Keymanagement](https://www.powershellgallery.com/Packages/OCI.PSModules.Keymanagement/109.3.0) | 109.3.0
 
-## [0install](https://www.powershellgallery.com/Packages/0install/2.25.12) | 2.25.12
+### Published: 06/24/2025 18:12:37 by Oracle Cloud Infrastructure
 
-### Published: 10/02/2024 06:47:34 by Bastian Eicher
+This modules provides Cmdlets for OCI Keymanagement Service
 
-Zero Install is a decentralized cross-platform software-installation system.
+__Downloads__: 12,013 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-__Downloads__: 4,827,588 | __Repository__: https://0install.net/
+## [OCI.PSModules.Jmsjavadownloads](https://www.powershellgallery.com/Packages/OCI.PSModules.Jmsjavadownloads/109.3.0) | 109.3.0
 
-## [PSFramework](https://www.powershellgallery.com/Packages/PSFramework/1.12.346) | 1.12.346
+### Published: 06/24/2025 18:12:30 by Oracle Cloud Infrastructure
 
-### Published: 09/25/2024 09:12:30 by Friedrich Weinmann
+This modules provides Cmdlets for OCI Jmsjavadownloads Service
 
-General Scripting Framework, providing PowerShell-specific infrastructure for other modules.
+__Downloads__: 6,811 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-__Downloads__: 8,607,205 | __Repository__: http://psframework.org/
+## [OCI.PSModules.Jms](https://www.powershellgallery.com/Packages/OCI.PSModules.Jms/109.3.0) | 109.3.0
 
-## [WindowsAutoPilotIntune](https://www.powershellgallery.com/Packages/WindowsAutoPilotIntune/5.7) | 5.7
+### Published: 06/24/2025 18:12:24 by Oracle Cloud Infrastructure
 
-### Published: 09/17/2024 15:59:31 by Windows Autopilot
+This modules provides Cmdlets for OCI Jms Service
 
-Sample module to manage AutoPilot devices using the Intune Graph API
+__Downloads__: 11,092 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-__Downloads__: 18,402,769 | __Repository__: 
+## [OCI.PSModules.Integration](https://www.powershellgallery.com/Packages/OCI.PSModules.Integration/109.3.0) | 109.3.0
 
-## [Posh-SSH](https://www.powershellgallery.com/Packages/Posh-SSH/3.2.4) | 3.2.4
+### Published: 06/24/2025 18:12:17 by Oracle Cloud Infrastructure
 
-### Published: 09/17/2024 13:44:14 by Carlos Perez
+This modules provides Cmdlets for OCI Integration Service
 
-Provide SSH and SCP functionality for executing commands against remote hosts. You can also use it to transfer files over SSH. To learn more about this module, visit https://www.youtube.com/playlist?list=PLFAOQ2hOvfsQ7cQikml4ua7-CDr9r578N for video tutorials.
+__Downloads__: 11,836 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-__Downloads__: 50,649,168 | __Repository__: https://github.com/darkoperator/Posh-SSH
+## [OCI.PSModules.Identitydomains](https://www.powershellgallery.com/Packages/OCI.PSModules.Identitydomains/109.3.0) | 109.3.0
 
-## [VMware.PowerCLI.Sdk](https://www.powershellgallery.com/Packages/VMware.PowerCLI.Sdk/13.3.0.24145081) | 13.3.0.24145081
+### Published: 06/24/2025 18:12:12 by Oracle Cloud Infrastructure
 
-### Published: 07/25/2024 12:58:14 by Broadcom
+This modules provides Cmdlets for OCI Identitydomains Service
 
-Product agnostic types definitions for the VMware.PowerCLI.VCenter module.
+__Downloads__: 8,183 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-__Downloads__: 7,298,276 | __Repository__: https://developer.vmware.com/powercli
+## [OCI.PSModules.Identitydataplane](https://www.powershellgallery.com/Packages/OCI.PSModules.Identitydataplane/109.3.0) | 109.3.0
 
-## [VMware.PowerCLI.VCenter.Types.CertificateManagement](https://www.powershellgallery.com/Packages/VMware.PowerCLI.VCenter.Types.CertificateManagement/13.3.0.24145081) | 13.3.0.24145081
+### Published: 06/24/2025 18:12:05 by Oracle Cloud Infrastructure
 
-### Published: 07/25/2024 12:55:55 by Broadcom
+This modules provides Cmdlets for OCI Identitydataplane Service
 
-Types definitions for the VMware.PowerCLI.VCenter module related to the certificate management feature.
+__Downloads__: 10,238 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-__Downloads__: 7,298,393 | __Repository__: https://developer.vmware.com/powercli
+## [OCI.PSModules.Identity](https://www.powershellgallery.com/Packages/OCI.PSModules.Identity/109.3.0) | 109.3.0
 
-## [VMware.PowerCLI.VCenter.Types.ApplianceService](https://www.powershellgallery.com/Packages/VMware.PowerCLI.VCenter.Types.ApplianceService/13.3.0.24145081) | 13.3.0.24145081
+### Published: 06/24/2025 18:12:00 by Oracle Cloud Infrastructure
 
-### Published: 07/25/2024 12:55:42 by Broadcom
+This modules provides Cmdlets for OCI Identity Service
 
-Types definitions for the VMware.PowerCLI.VCenter module related to the appliance service management feature.
+__Downloads__: 18,540 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-__Downloads__: 6,878,907 | __Repository__: https://developer.vmware.com/powercli
+## [OCI.PSModules.Healthchecks](https://www.powershellgallery.com/Packages/OCI.PSModules.Healthchecks/109.3.0) | 109.3.0
 
-## [VMware.Sdk.vSphereRuntime](https://www.powershellgallery.com/Packages/VMware.Sdk.vSphereRuntime/8.0.2099.24145081) | 8.0.2099.24145081
+### Published: 06/24/2025 18:11:53 by Oracle Cloud Infrastructure
 
-### Published: 07/25/2024 12:48:20 by Broadcom
+This modules provides Cmdlets for OCI Healthchecks Service
 
-This PowerShell module contains PowerShell Advanced functions for VMware.Sdk.vSphereRuntime.
+__Downloads__: 26,450 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-__Downloads__: 8,110,624 | __Repository__: https://developer.vmware.com/powercli
+## [OCI.PSModules.Governancerulescontrolplane](https://www.powershellgallery.com/Packages/OCI.PSModules.Governancerulescontrolplane/109.3.0) | 109.3.0
 
-## [VMware.PowerCLI.Sdk.Types](https://www.powershellgallery.com/Packages/VMware.PowerCLI.Sdk.Types/13.3.0.24145081) | 13.3.0.24145081
+### Published: 06/24/2025 18:11:48 by Oracle Cloud Infrastructure
 
-### Published: 07/25/2024 12:48:07 by Broadcom
+This modules provides Cmdlets for OCI Governancerulescontrolplane Service
 
-Types definitions for the VMware.PowerCLI.Sdk module.
+__Downloads__: 9,523 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-__Downloads__: 7,320,931 | __Repository__: https://developer.vmware.com/powercli
+## [OCI.PSModules.Goldengate](https://www.powershellgallery.com/Packages/OCI.PSModules.Goldengate/109.3.0) | 109.3.0
 
-## [VMware.Sdk.Runtime](https://www.powershellgallery.com/Packages/VMware.Sdk.Runtime/1.0.2099.24145081) | 1.0.2099.24145081
+### Published: 06/24/2025 18:11:42 by Oracle Cloud Infrastructure
 
-### Published: 07/25/2024 12:47:19 by Broadcom
+This modules provides Cmdlets for OCI Goldengate Service
 
-This PowerShell module contains PowerShell Advanced functions for VMware.Sdk.Runtime.
+__Downloads__: 11,514 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-__Downloads__: 8,193,035 | __Repository__: https://developer.vmware.com/powercli
+## [OCI.PSModules.Globallydistributeddatabase](https://www.powershellgallery.com/Packages/OCI.PSModules.Globallydistributeddatabase/109.3.0) | 109.3.0
 
-## [PSWindowsUpdate](https://www.powershellgallery.com/Packages/PSWindowsUpdate/2.2.1.5) | 2.2.1.5
+### Published: 06/24/2025 18:11:35 by Oracle Cloud Infrastructure
 
-### Published: 07/20/2024 10:51:44 by Michal Gajda
+This modules provides Cmdlets for OCI Globallydistributeddatabase Service
 
-This module contain cmdlets to manage Windows Update Client.
+__Downloads__: 6,208 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-__Downloads__: 1,429,304,072 | __Repository__: https://github.com/mgajda83/PSWindowsUpdate
+## [OCI.PSModules.Genericartifactscontent](https://www.powershellgallery.com/Packages/OCI.PSModules.Genericartifactscontent/109.3.0) | 109.3.0
 
-## [PSInternetConnectionSharing](https://www.powershellgallery.com/Packages/PSInternetConnectionSharing/1.4.1) | 1.4.1
+### Published: 06/24/2025 18:11:29 by Oracle Cloud Infrastructure
 
-### Published: 04/14/2024 05:14:10 by Per Allner
+This modules provides Cmdlets for OCI Genericartifactscontent Service
 
-PSInternetConnectionSharing is a PowerShell module that provides simple functions
-to control Windows Internet Connection Sharing (ICS) from command line.
+__Downloads__: 11,180 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-The module includes three functions:
-- Set-Ics
-- Get-Ics
-- Disable-Ics
+## [OCI.PSModules.Generativeaiinference](https://www.powershellgallery.com/Packages/OCI.PSModules.Generativeaiinference/109.3.0) | 109.3.0
 
-__Downloads__: 10,006,014 | __Repository__: https://github.com/loxia01/PSInternetConnectionSharing
+### Published: 06/24/2025 18:11:23 by Oracle Cloud Infrastructure
 
-## [Transferetto](https://www.powershellgallery.com/Packages/Transferetto/1.0.0) | 1.0.0
+This modules provides Cmdlets for OCI Generativeaiinference Service
 
-### Published: 02/03/2024 19:42:37 by Przemyslaw Klys
+__Downloads__: 6,302 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-Module which allows ftp, ftps, sftp file transfers with advanced features. It also allows to transfer files and directorires between servers using fxp protocol. As a side feature it allows to conenct to SSH and executes commands on it.
+## [OCI.PSModules.Generativeaiagentruntime](https://www.powershellgallery.com/Packages/OCI.PSModules.Generativeaiagentruntime/109.3.0) | 109.3.0
 
-__Downloads__: 6,065,941 | __Repository__: https://github.com/EvotecIT/Transferetto
+### Published: 06/24/2025 18:11:17 by Oracle Cloud Infrastructure
 
-## [RobocopyPS](https://www.powershellgallery.com/Packages/RobocopyPS/0.2.21) | 0.2.21
+This modules provides Cmdlets for OCI Generativeaiagentruntime Service
 
-### Published: 08/27/2023 13:48:40 by Simon Bergwall
+__Downloads__: 1,566 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-Wrapper for Robocopy
+## [OCI.PSModules.Generativeaiagent](https://www.powershellgallery.com/Packages/OCI.PSModules.Generativeaiagent/109.3.0) | 109.3.0
 
-__Downloads__: 8,963,369 | __Repository__: https://github.com/sbergwall/RobocopyPS
+### Published: 06/24/2025 18:10:56 by Oracle Cloud Infrastructure
 
-## [Carbon](https://www.powershellgallery.com/Packages/Carbon/2.15.1) | 2.15.1
+This modules provides Cmdlets for OCI Generativeaiagent Service
 
-### Published: 08/18/2023 18:53:24 by Aaron Jensen
+__Downloads__: 1,567 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-Carbon is a PowerShell module for automating the configuration Windows 7, 8, 2008, and 2012 and automation the installation and configuration of Windows applications, websites, and services. It can configure and manage:
+## [OCI.PSModules.Generativeai](https://www.powershellgallery.com/Packages/OCI.PSModules.Generativeai/109.3.0) | 109.3.0
 
- * Local users and groups
- * IIS websites, virtual directories, and applications
- * File system, registry, and certificate permissions
- * Certificates
- * Privileges
- * Services
- * Encryption
- * Junctions
- * Hosts file
- * INI files
- * Performance counters
- * Shares
- * .NET connection strings and app settings
- * And much more!
+### Published: 06/24/2025 18:10:51 by Oracle Cloud Infrastructure
 
-All functions are idempotent: when run multiple times with the same arguments, your system will be in the same state without failing or producing errors.
+This modules provides Cmdlets for OCI Generativeai Service
 
-__Downloads__: 78,330,826 | __Repository__: http://get-carbon.org/
+__Downloads__: 6,303 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-## [msp360](https://www.powershellgallery.com/Packages/msp360/3.29.201) | 3.29.201
+## [OCI.PSModules.Fusionapps](https://www.powershellgallery.com/Packages/OCI.PSModules.Fusionapps/109.3.0) | 109.3.0
 
-### Published: 07/20/2023 14:59:45 by MSP360 Onboarding Team <services@msp360.com>
+### Published: 06/24/2025 18:10:07 by Oracle Cloud Infrastructure
 
-The module includes cmdlets to manage MSP360 (CloudBerry) Backup agent, MBS API and tools.
+This modules provides Cmdlets for OCI Fusionapps Service
 
-__Downloads__: 10,101,176 | __Repository__: https://mspbackups.com/AP/Help/powershell
+__Downloads__: 9,320 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-## [Terminal-Icons](https://www.powershellgallery.com/Packages/Terminal-Icons/0.11.0) | 0.11.0
+## [OCI.PSModules.Functions](https://www.powershellgallery.com/Packages/OCI.PSModules.Functions/109.3.0) | 109.3.0
 
-### Published: 07/06/2023 04:55:30 by Brandon Olin
+### Published: 06/24/2025 18:10:01 by Oracle Cloud Infrastructure
 
-PowerShell module to add file icons to terminal based on file extension
+This modules provides Cmdlets for OCI Functions Service
 
-__Downloads__: 6,429,396 | __Repository__: https://github.com/devblackops/Terminal-Icons
+__Downloads__: 11,858 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-## [wifiprofilemanagement](https://www.powershellgallery.com/Packages/wifiprofilemanagement/1.1.0.0) | 1.1.0.0
+## [OCI.PSModules.Fleetsoftwareupdate](https://www.powershellgallery.com/Packages/OCI.PSModules.Fleetsoftwareupdate/109.3.0) | 109.3.0
 
-### Published: 05/08/2023 20:12:51 by Jason Walker
+### Published: 06/24/2025 18:09:55 by Oracle Cloud Infrastructure
 
-Leverages the native WiFi functions to manage WiFi profiles.
+This modules provides Cmdlets for OCI Fleetsoftwareupdate Service
 
-__Downloads__: 7,649,030 | __Repository__: https://github.com/jcwalker/WiFiProfileManagement
+__Downloads__: 7,516 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-## [PSDiscoveryProtocol](https://www.powershellgallery.com/Packages/PSDiscoveryProtocol/1.4.3) | 1.4.3
+## [OCI.PSModules.Fleetappsmanagement](https://www.powershellgallery.com/Packages/OCI.PSModules.Fleetappsmanagement/109.3.0) | 109.3.0
 
-### Published: 04/14/2023 21:26:37 by lahell
+### Published: 06/24/2025 18:09:49 by Oracle Cloud Infrastructure
 
-Capture and parse CDP and LLDP packets on local or remote computers
+This modules provides Cmdlets for OCI Fleetappsmanagement Service
 
-__Downloads__: 9,365,533 | __Repository__: https://github.com/lahell/PSDiscoveryProtocol
+__Downloads__: 2,248 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-## [SecurityPolicy](https://www.powershellgallery.com/Packages/SecurityPolicy/0.0.13) | 0.0.13
+## [OCI.PSModules.Filestorage](https://www.powershellgallery.com/Packages/OCI.PSModules.Filestorage/109.3.0) | 109.3.0
 
-### Published: 02/04/2023 17:31:10 by Przemyslaw Klys
+### Published: 06/24/2025 18:09:43 by Oracle Cloud Infrastructure
 
-Module that allows getting, adding and removing User Rights Assignment without using secedit.exe
+This modules provides Cmdlets for OCI Filestorage Service
 
-__Downloads__: 66,006,735 | __Repository__: https://github.com/EvotecIT/SecurityPolicy
+__Downloads__: 14,671 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-## [RunAsUser](https://www.powershellgallery.com/Packages/RunAsUser/2.4.0) | 2.4.0
+## [OCI.PSModules.Events](https://www.powershellgallery.com/Packages/OCI.PSModules.Events/109.3.0) | 109.3.0
 
-### Published: 12/14/2022 08:36:31 by Kelvin Tegelaar - Kelvin@limenetworks.nl
+### Published: 06/24/2025 18:09:36 by Oracle Cloud Infrastructure
 
-This module allows you to execute scripts under the current user while running as SYSTEM using impersonation.
+This modules provides Cmdlets for OCI Events Service
 
-__Downloads__: 126,260,259 | __Repository__: https://github.com/KelvinTegelaar/RunAsUser
+__Downloads__: 11,954 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-## [ITGlueAPI](https://www.powershellgallery.com/Packages/ITGlueAPI/2.2.0) | 2.2.0
+## [OCI.PSModules.Emwarehouse](https://www.powershellgallery.com/Packages/OCI.PSModules.Emwarehouse/109.3.0) | 109.3.0
 
-### Published: 12/06/2022 06:58:36 by Caleb Albers
+### Published: 06/24/2025 18:09:31 by Oracle Cloud Infrastructure
 
-This module provides a PowerShell wrapper for the IT Glue API.
+This modules provides Cmdlets for OCI Emwarehouse Service
 
-__Downloads__: 6,238,514 | __Repository__: https://github.com/itglue/powershellwrapper
+__Downloads__: 9,427 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-## [PSWSMan](https://www.powershellgallery.com/Packages/PSWSMan/2.3.1) | 2.3.1
+## [OCI.PSModules.Emaildataplane](https://www.powershellgallery.com/Packages/OCI.PSModules.Emaildataplane/109.3.0) | 109.3.0
 
-### Published: 11/27/2022 20:25:29 by Jordan Borean
+### Published: 06/24/2025 18:09:25 by Oracle Cloud Infrastructure
 
-Module to install and manage the forked WSMan client libraries for Linux and macOS.
-See https://github.com/jborean93/omi for more details.
+This modules provides Cmdlets for OCI Emaildataplane Service
 
-__Downloads__: 4,819,002 | __Repository__: https://github.com/jborean93/omi
+__Downloads__: 5,102 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-## [SnipeitPS](https://www.powershellgallery.com/Packages/SnipeitPS/1.10.227) | 1.10.227
+## [OCI.PSModules.Email](https://www.powershellgallery.com/Packages/OCI.PSModules.Email/109.3.0) | 109.3.0
 
-### Published: 08/31/2022 19:12:36 by Stephen Maunder
+### Published: 06/24/2025 18:09:20 by Oracle Cloud Infrastructure
 
-Powershell API for Snipeit Asset Management
+This modules provides Cmdlets for OCI Email Service
 
-__Downloads__: 8,135,874 | __Repository__: 
+__Downloads__: 11,901 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-## [GetBIOS](https://www.powershellgallery.com/Packages/GetBIOS/1.3.3) | 1.3.3
+## [OCI.PSModules.Dts](https://www.powershellgallery.com/Packages/OCI.PSModules.Dts/109.3.0) | 109.3.0
 
-### Published: 06/08/2022 07:15:18 by Damien Van Robaeys
+### Published: 06/24/2025 18:09:14 by Oracle Cloud Infrastructure
 
-List local or remote BIOS settings (for Lenovo, Dell, HP and Toshiba)
+This modules provides Cmdlets for OCI Dts Service
 
-__Downloads__: 55,820,389 | __Repository__: https://www.systanddeploy.com/2022/06/getbios-module-list-bios-settings-from.html
+__Downloads__: 12,250 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-## [xWebAdministration](https://www.powershellgallery.com/Packages/xWebAdministration/3.3.0) | 3.3.0
+## [OCI.PSModules.Dns](https://www.powershellgallery.com/Packages/OCI.PSModules.Dns/109.3.0) | 109.3.0
 
-### Published: 06/03/2022 16:38:57 by DSC Community
+### Published: 06/24/2025 18:09:08 by Oracle Cloud Infrastructure
 
-Module with DSC Resources for Web Administration
+This modules provides Cmdlets for OCI Dns Service
 
-__Downloads__: 24,263,591 | __Repository__: https://github.com/dsccommunity/xWebAdministration
+__Downloads__: 11,966 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-## [AudioDeviceCmdlets](https://www.powershellgallery.com/Packages/AudioDeviceCmdlets/3.1.0.2) | 3.1.0.2
+## [OCI.PSModules.Distributeddatabase](https://www.powershellgallery.com/Packages/OCI.PSModules.Distributeddatabase/109.3.0) | 109.3.0
 
-### Published: 05/28/2022 18:44:10 by Francois Gendron <fg@frgn.ca>
+### Published: 06/24/2025 18:09:02 by Oracle Cloud Infrastructure
 
-AudioDeviceCmdlets is a suite of PowerShell Cmdlets to control audio devices on Windows
+This modules provides Cmdlets for OCI Distributeddatabase Service
 
-__Downloads__: 6,936,790 | __Repository__: https://github.com/frgnca/AudioDeviceCmdlets
+__Downloads__: 174 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-## [oh-my-posh](https://www.powershellgallery.com/Packages/oh-my-posh/7.85.2) | 7.85.2
+## [OCI.PSModules.Disasterrecovery](https://www.powershellgallery.com/Packages/OCI.PSModules.Disasterrecovery/109.3.0) | 109.3.0
 
-### Published: 05/17/2022 07:00:14 by Jan De Dobbeleer
+### Published: 06/24/2025 18:08:56 by Oracle Cloud Infrastructure
 
-A prompt theme engine for any shell
+This modules provides Cmdlets for OCI Disasterrecovery Service
 
-__Downloads__: 4,628,050 | __Repository__: https://github.com/JanDeDobbeleer/oh-my-posh
+__Downloads__: 8,893 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-## [posh-git](https://www.powershellgallery.com/Packages/posh-git/1.1.0) | 1.1.0
+## [OCI.PSModules.Devops](https://www.powershellgallery.com/Packages/OCI.PSModules.Devops/109.3.0) | 109.3.0
 
-### Published: 03/31/2022 15:51:47 by Keith Dahlby Keith Hill and contributors
+### Published: 06/24/2025 18:08:51 by Oracle Cloud Infrastructure
 
-Provides prompt with Git status summary information and tab completion for Git commands, parameters, remotes and branch names.
+This modules provides Cmdlets for OCI Devops Service
 
-__Downloads__: 6,369,282 | __Repository__: https://github.com/dahlbyk/posh-git
+__Downloads__: 10,940 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-## [Invoke-CommandAs](https://www.powershellgallery.com/Packages/Invoke-CommandAs/3.1.9) | 3.1.9
+## [OCI.PSModules.Desktops](https://www.powershellgallery.com/Packages/OCI.PSModules.Desktops/109.3.0) | 109.3.0
 
-### Published: 01/20/2022 06:56:47 by Marc R Kellerman
+### Published: 06/24/2025 18:08:44 by Oracle Cloud Infrastructure
 
-Invoke Command as System/User on Local/Remote computer using ScheduleTask.
+This modules provides Cmdlets for OCI Desktops Service
 
-__Downloads__: 42,419,839 | __Repository__: https://github.com/mkellerman/Invoke-CommandAs
+__Downloads__: 5,834 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-## [psprivilege](https://www.powershellgallery.com/Packages/psprivilege/0.2.0) | 0.2.0
+## [OCI.PSModules.Demandsignal](https://www.powershellgallery.com/Packages/OCI.PSModules.Demandsignal/109.3.0) | 109.3.0
 
-### Published: 11/26/2021 02:48:07 by Jordan Borean
+### Published: 06/24/2025 18:08:39 by Oracle Cloud Infrastructure
 
-Adds cmdlets that can be used to enable/disable/remove privileges on a process. Also adds cmdlets that can be used to configure the members of Windows rights and privileges.
-See https://github.com/jborean93/PSPrivilege for more info
+This modules provides Cmdlets for OCI Demandsignal Service
 
-__Downloads__: 130,266,618 | __Repository__: https://github.com/jborean93/PSPrivilege
+__Downloads__: 4,472 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-## [MSAL.PS](https://www.powershellgallery.com/Packages/MSAL.PS/4.37.0.0) | 4.37.0.0
+## [OCI.PSModules.Delegateaccesscontrol](https://www.powershellgallery.com/Packages/OCI.PSModules.Delegateaccesscontrol/109.3.0) | 109.3.0
 
-### Published: 11/19/2021 02:44:41 by Jason Thompson
+### Published: 06/24/2025 18:08:34 by Oracle Cloud Infrastructure
 
-The MSAL.PS PowerShell module wraps MSAL.NET functionality into PowerShell-friendly cmdlets and is not supported by Microsoft. Microsoft support does not extend beyond the underlying MSAL.NET library. For any inquiries regarding the PowerShell module itself, you may contact the author on GitHub or PowerShell Gallery.
+This modules provides Cmdlets for OCI Delegateaccesscontrol Service
 
-MSAL.NET (Microsoft.Identity.Client) is an authentication library which enables you to acquire tokens from Azure AD, to access protected Web APIs (Microsoft APIs or applications registered with Azure Active Directory).
+__Downloads__: 2,071 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-__Downloads__: 28,575,300 | __Repository__: https://github.com/jasoth/MSAL.PS
+## [OCI.PSModules.Dblm](https://www.powershellgallery.com/Packages/OCI.PSModules.Dblm/109.3.0) | 109.3.0
 
-## [SemVerPS](https://www.powershellgallery.com/Packages/SemVerPS/2.1) | 2.1
+### Published: 06/24/2025 18:08:28 by Oracle Cloud Infrastructure
 
-### Published: 10/06/2021 19:55:40 by Alex Sarafian
+This modules provides Cmdlets for OCI Dblm Service
 
-PowerShell module for Semantic Version
+__Downloads__: 778 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-__Downloads__: 4,792,366 | __Repository__: https://github.com/Sarafian/SemVerPS/
+## [OCI.PSModules.Datascience](https://www.powershellgallery.com/Packages/OCI.PSModules.Datascience/109.3.0) | 109.3.0
 
-## [QuserObject](https://www.powershellgallery.com/Packages/QuserObject/1.0.50) | 1.0.50
+### Published: 06/24/2025 18:08:23 by Oracle Cloud Infrastructure
 
-### Published: 07/06/2021 14:17:37 by Raymond Piller
+This modules provides Cmdlets for OCI Datascience Service
 
-Query `quser.exe` and return a proper PowerShell Object.
+__Downloads__: 13,213 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-__Downloads__: 37,784,512 | __Repository__: 
+## [OCI.PSModules.Datasafe](https://www.powershellgallery.com/Packages/OCI.PSModules.Datasafe/109.3.0) | 109.3.0
 
-## [AzTable](https://www.powershellgallery.com/Packages/AzTable/2.1.0) | 2.1.0
+### Published: 06/24/2025 18:08:17 by Oracle Cloud Infrastructure
 
-### Published: 04/09/2021 22:10:34 by Paulo Marques (MSFT)
+This modules provides Cmdlets for OCI Datasafe Service
 
-Sample functions to add/retrieve/update entities on Azure Storage Tables from PowerShell (This is the same as AzureRmStorageTable module but with a new module name). It requires latest PowerShell Az module installed. Instructions at https://docs.microsoft.com/en-us/powershell/azure/install-az-ps?view=azps-1.6.0. For documentation, please visit https://paulomarquesc.github.io/working-with-azure-storage-tables-from-powershell/.
+__Downloads__: 17,001 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-__Downloads__: 29,668,244 | __Repository__: 
+## [OCI.PSModules.Datalabelingservicedataplane](https://www.powershellgallery.com/Packages/OCI.PSModules.Datalabelingservicedataplane/109.3.0) | 109.3.0
 
-## [BurntToast](https://www.powershellgallery.com/Packages/BurntToast/0.8.5) | 0.8.5
+### Published: 06/24/2025 18:08:11 by Oracle Cloud Infrastructure
 
-### Published: 12/30/2020 21:00:59 by Joshua (Windos) King
+This modules provides Cmdlets for OCI Datalabelingservicedataplane Service
 
-Module for creating and displaying Toast Notifications on Microsoft Windows 10.
+__Downloads__: 10,680 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-__Downloads__: 25,335,733 | __Repository__: https://github.com/Windos/BurntToast
+## [OCI.PSModules.Datalabelingservice](https://www.powershellgallery.com/Packages/OCI.PSModules.Datalabelingservice/109.3.0) | 109.3.0
 
-## [ModernWorkplaceClientCenter](https://www.powershellgallery.com/Packages/ModernWorkplaceClientCenter/0.1.17) | 0.1.17
+### Published: 06/24/2025 18:08:04 by Oracle Cloud Infrastructure
 
-### Published: 06/02/2020 21:46:51 by Thomas Kurth
+This modules provides Cmdlets for OCI Datalabelingservice Service
 
-The Modern Workplace Client Center Module provides functions to troubleshoot Microsoft Intune on a Windows 10 client in a modern managed environment. Th initial version mainly allows troubleshooting Azure AD Hybrid Join.
+__Downloads__: 10,665 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-__Downloads__: 63,594,098 | __Repository__: https://github.com/ThomasKur/ModernWorkplaceClientCenter
+## [OCI.PSModules.Dataintegration](https://www.powershellgallery.com/Packages/OCI.PSModules.Dataintegration/109.3.0) | 109.3.0
 
-## [PSSQLite](https://www.powershellgallery.com/Packages/PSSQLite/1.1.0) | 1.1.0
+### Published: 06/24/2025 18:07:59 by Oracle Cloud Infrastructure
 
-### Published: 05/18/2020 13:38:10 by Warren Frame
+This modules provides Cmdlets for OCI Dataintegration Service
 
-Query SQLite databases
+__Downloads__: 12,235 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-__Downloads__: 8,712,096 | __Repository__: https://github.com/RamblingCookieMonster/PSSQLite
+## [OCI.PSModules.Dataflow](https://www.powershellgallery.com/Packages/OCI.PSModules.Dataflow/109.3.0) | 109.3.0
 
-## [DeviceManagement](https://www.powershellgallery.com/Packages/DeviceManagement/1.3.0) | 1.3.0
+### Published: 06/24/2025 18:07:53 by Oracle Cloud Infrastructure
 
-### Published: 04/23/2020 13:01:39 by Ricardo Mendes Tobias Weltner
+This modules provides Cmdlets for OCI Dataflow Service
 
-Windows PowerShell Module for managing devices
+__Downloads__: 16,586 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-__Downloads__: 17,922,600 | __Repository__: https://github.com/TobiasPSP/Modules.DeviceManagement
+## [OCI.PSModules.Datacatalog](https://www.powershellgallery.com/Packages/OCI.PSModules.Datacatalog/109.3.0) | 109.3.0
 
-## [DockerMsftProvider](https://www.powershellgallery.com/Packages/DockerMsftProvider/1.0.0.8) | 1.0.0.8
+### Published: 06/24/2025 18:07:48 by Oracle Cloud Infrastructure
 
-### Published: 08/26/2019 21:47:09 by jayshah
+This modules provides Cmdlets for OCI Datacatalog Service
 
-PowerShell module with commands for discovering, installing, and updating Docker images.
+__Downloads__: 12,212 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-__Downloads__: 37,363,643 | __Repository__: https://github.com/OneGet/MicrosoftDockerProvider
+## [OCI.PSModules.Databasetools](https://www.powershellgallery.com/Packages/OCI.PSModules.Databasetools/109.3.0) | 109.3.0
 
-## [NTFSSecurity](https://www.powershellgallery.com/Packages/NTFSSecurity/4.2.6) | 4.2.6
+### Published: 06/24/2025 18:07:42 by Oracle Cloud Infrastructure
 
-### Published: 07/12/2019 19:07:52 by Raimund Andree
+This modules provides Cmdlets for OCI Databasetools Service
 
-Windows PowerShell Module for managing file and folder security on NTFS volumes
+__Downloads__: 10,635 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-__Downloads__: 6,256,256 | __Repository__: https://github.com/raandree/NTFSSecurity
+## [OCI.PSModules.Databasemigration](https://www.powershellgallery.com/Packages/OCI.PSModules.Databasemigration/109.3.0) | 109.3.0
 
-## [WindowsCompatibility](https://www.powershellgallery.com/Packages/WindowsCompatibility/1.0.0) | 1.0.0
+### Published: 06/24/2025 18:07:03 by Oracle Cloud Infrastructure
 
-### Published: 11/15/2018 01:16:43 by PowerShell
+This modules provides Cmdlets for OCI Databasemigration Service
 
-This module provides compatibility utilities that allow PowerShell Core sessions to
-invoke commands that are only available in Windows PowerShell. These utilities help you
-to discover available modules, import those modules through proxies and then use the module
-commands much as if they were native to PowerShell Core.
+__Downloads__: 11,297 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-__Downloads__: 5,183,448 | __Repository__: https://github.com/PowerShell/WindowsCompatibility
+## [OCI.PSModules.Databasemanagement](https://www.powershellgallery.com/Packages/OCI.PSModules.Databasemanagement/109.3.0) | 109.3.0
 
-## [PendingReboot](https://www.powershellgallery.com/Packages/PendingReboot/0.9.0.6) | 0.9.0.6
+### Published: 06/24/2025 18:06:57 by Oracle Cloud Infrastructure
 
-### Published: 08/22/2018 01:00:02 by Brian Wilhite
+This modules provides Cmdlets for OCI Databasemanagement Service
 
-Module to detect Windows OS pending reboots.
+__Downloads__: 11,633 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-__Downloads__: 72,931,119 | __Repository__: https://github.com/bcwilhite/PendingReboot/
+## [OCI.PSModules.Database](https://www.powershellgallery.com/Packages/OCI.PSModules.Database/109.3.0) | 109.3.0
 
-## [xPowerShellExecutionPolicy](https://www.powershellgallery.com/Packages/xPowerShellExecutionPolicy/3.1.0.0) | 3.1.0.0
+### Published: 06/24/2025 18:06:50 by Oracle Cloud Infrastructure
 
-### Published: 07/25/2018 21:32:26 by OneScript Team
+This modules provides Cmdlets for OCI Database Service
 
-This DSC resource can change the user preference for the Windows PowerShell execution policy. THIS MODULE HAS BEEN DEPRECATED
-It will no longer be released. Please use the "PowerShellExecutionPolicy" resource in ComputerManagementDsc instead.
+__Downloads__: 38,497 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-__Downloads__: 23,164,418 | __Repository__: https://github.com/PowerShell/xPowerShellExecutionPolicy
+## [OCI.PSModules.Dashboardservice](https://www.powershellgallery.com/Packages/OCI.PSModules.Dashboardservice/109.3.0) | 109.3.0
 
-## [PolicyFileEditor](https://www.powershellgallery.com/Packages/PolicyFileEditor/3.0.1) | 3.0.1
+### Published: 06/24/2025 18:06:42 by Oracle Cloud Infrastructure
 
-### Published: 02/12/2018 21:22:59 by Dave Wyatt
+This modules provides Cmdlets for OCI Dashboardservice Service
 
-Commands and DSC resource for modifying Administrative Templates settings in local GPO registry.pol files.
+__Downloads__: 10,660 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-__Downloads__: 8,399,386 | __Repository__: https://github.com/dlwyatt/PolicyFileEditor
+## [OCI.PSModules.Core](https://www.powershellgallery.com/Packages/OCI.PSModules.Core/109.3.0) | 109.3.0
 
-## [Write-ObjectToSQL](https://www.powershellgallery.com/Packages/Write-ObjectToSQL/1.13) | 1.13
+### Published: 06/24/2025 18:06:36 by Oracle Cloud Infrastructure
 
-### Published: 02/11/2017 21:09:56 by John Roos
+This modules provides Cmdlets for OCI Core Service
 
-Writes an object into a database table. If the table does not exist it will be created based on the properties of the object. For every property of the object a column will be created. The data type for each column will be converted from .Net data types into SQL Server data types.
+__Downloads__: 23,104 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-Not all data types are supported. Unsupported data types will be ignored (but can be listed). If several objects are sent through the pipeline only the first object will be used for creating the template for the table.
+## [OCI.PSModules.Containerinstances](https://www.powershellgallery.com/Packages/OCI.PSModules.Containerinstances/109.3.0) | 109.3.0
 
-Make sure that all objects in the pipeline have the exact same properties (this is usually the case). While creating the table the script will also add two default columns. One called 'id' which is a regular auto counter (integer which increases with 1 for every row) and another column called 'inserted_at' which will have a default value of GetDate() which represents the timestamp for when the row was inserted. If a property is named the same as one of these default columns then a 'x' will be added before the name of those columns to avoid duplication. (if propertyname=id, then propertyname=xid, etc.)
+### Published: 06/24/2025 18:06:27 by Oracle Cloud Infrastructure
 
-Hashtables are handled slightly different. When using hashtables the script will simply use the keys as columns.
-       
-Keep in mind that properties on the objects are used. Some objects, like strings, might only have a length property but what you really want to insert into the table is the value of the string.
-    
-The following command would generate a table with one column called Length which would contain the length of the strings (probably not what you want):
-    
-'oink','meo' | Write-ObjectToSQL -Server localhost\sqlexpress -Database MyDB -TableName myTable
-    
-The following command is a better way to do it. Instead of piping the strings directly you should create custom objects or, as in this example, hash tables. This will generate a table with a column called 'text' which will contain the values 'oink' and 'meo':
+This modules provides Cmdlets for OCI Containerinstances Service
 
-@{'text'='oink'}, @{'text'='meo'} | Write-ObjectToSQL -Server localhost\sqlexpress -Database MyDB -TableName myTable
+__Downloads__: 8,547 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-Another thing to note is that this script will only take Property and NoteProperty into consideration. So for example ScriptProperty and ParameterizedProperty will be ignored. You can verify your objects with the Get-Member cmdlet and check the MemberType.
+## [OCI.PSModules.Containerengine](https://www.powershellgallery.com/Packages/OCI.PSModules.Containerengine/109.3.0) | 109.3.0
 
-Currently the script supports the following data types:
+### Published: 06/24/2025 18:06:21 by Oracle Cloud Infrastructure
 
-Int32
-UInt32
-Int16
-UInt16
-Int64
-UInt64
-long
-int
-Decimal
-Single
-Double
-Byte
-SByte
-String
-DateTime
-TimeSpan
-datetime
-string
-bool
-Boolean
-GUID
+This modules provides Cmdlets for OCI Containerengine Service
 
-__Downloads__: 8,712,512 | __Repository__: https://github.com/JohnRoos/PowerShell/tree/master/Modules/Write-ObjectToSQL
+__Downloads__: 11,945 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-## [NuGet](https://www.powershellgallery.com/Packages/NuGet/1.3.3) | 1.3.3
+## [OCI.PSModules.Computeinstanceagent](https://www.powershellgallery.com/Packages/OCI.PSModules.Computeinstanceagent/109.3.0) | 109.3.0
 
-### Published: 10/15/2016 16:34:12 by Jason
+### Published: 06/24/2025 18:05:35 by Oracle Cloud Infrastructure
 
-Create Nuget repos, Register Repos, Manage Modules and Packages with a single DSC Module.  This Module Exports 5 Resources, Nuget, PSRepo, PackageRepo, Nuget_Module, and Nuget_Package 
-Examples show off all the core functionality as well as support Kitchen integration. 
-View the source @ https://github.com/PowerShellOrg/NuGet to raise issues or modify functionality
+This modules provides Cmdlets for OCI Computeinstanceagent Service
 
-__Downloads__: 7,816,196 | __Repository__: https://github.com/PowerShellOrg/NuGet
+__Downloads__: 12,121 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-## [CredentialManager](https://www.powershellgallery.com/Packages/CredentialManager/2.0) | 2.0
+## [OCI.PSModules.Computecloudatcustomer](https://www.powershellgallery.com/Packages/OCI.PSModules.Computecloudatcustomer/109.3.0) | 109.3.0
 
-### Published: 06/17/2016 16:56:46 by Dave Garnar
+### Published: 06/24/2025 18:05:29 by Oracle Cloud Infrastructure
 
-Provides access to credentials in the Windows Credential Manager
+This modules provides Cmdlets for OCI Computecloudatcustomer Service
 
-__Downloads__: 73,049,995 | __Repository__: 
+__Downloads__: 7,400 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-## [PSLogging](https://www.powershellgallery.com/Packages/PSLogging/2.5.2) | 2.5.2
+## [OCI.PSModules.Clusterplacementgroups](https://www.powershellgallery.com/Packages/OCI.PSModules.Clusterplacementgroups/109.3.0) | 109.3.0
 
-### Published: 11/22/2015 10:26:55 by LucaSturlese
+### Published: 06/24/2025 18:05:23 by Oracle Cloud Infrastructure
 
-Creates and manages log files for your scripts.
+This modules provides Cmdlets for OCI Clusterplacementgroups Service
 
-__Downloads__: 54,581,036 | __Repository__: http://9to5it.com/powershell-logging-v2-easily-create-log-files
+__Downloads__: 4,948 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-## [localaccount](https://www.powershellgallery.com/Packages/localaccount/1.6) | 1.6
+## [OCI.PSModules.Cloudmigrations](https://www.powershellgallery.com/Packages/OCI.PSModules.Cloudmigrations/109.3.0) | 109.3.0
 
-### Published: 11/12/2015 20:36:38 by Sean P. Kearney
+### Published: 06/24/2025 18:05:18 by Oracle Cloud Infrastructure
 
-A Simple module to allow the management of local users and groups on a computer
+This modules provides Cmdlets for OCI Cloudmigrations Service
 
-__Downloads__: 4,533,924 | __Repository__: 
+__Downloads__: 9,045 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-## [Gac](https://www.powershellgallery.com/Packages/Gac/1.0.1) | 1.0.1
+## [OCI.PSModules.Cloudguard](https://www.powershellgallery.com/Packages/OCI.PSModules.Cloudguard/109.3.0) | 109.3.0
 
-### Published: 08/05/2015 19:24:43 by Lars Truijens
+### Published: 06/24/2025 18:05:11 by Oracle Cloud Infrastructure
 
-View and modify the Global Assembly Cache (GAC)
+This modules provides Cmdlets for OCI Cloudguard Service
 
-__Downloads__: 5,758,779 | __Repository__: https://github.com/LTruijens/powershell-gac
+__Downloads__: 11,861 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-## [xInternetExplorerHomePage](https://www.powershellgallery.com/Packages/xInternetExplorerHomePage/1.0.0) | 1.0.0
+## [OCI.PSModules.Cloudbridge](https://www.powershellgallery.com/Packages/OCI.PSModules.Cloudbridge/109.3.0) | 109.3.0
 
-### Published: 12/18/2014 04:23:04 by OneScript Team
+### Published: 06/24/2025 18:05:06 by Oracle Cloud Infrastructure
 
-This DSC Resources can easily set an URL for the home page of Internet Explorer
+This modules provides Cmdlets for OCI Cloudbridge Service
 
-__Downloads__: 6,152,030 | __Repository__: https://gallery.technet.microsoft.com/xInternetExplorerHomePage-8dd59db2
+__Downloads__: 9,052 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-## [SNMP](https://www.powershellgallery.com/Packages/SNMP/1.0.0.1) | 1.0.0.1
+## [OCI.PSModules.Cims](https://www.powershellgallery.com/Packages/OCI.PSModules.Cims/109.3.0) | 109.3.0
 
-### Published: 05/13/2014 17:51:13 by Bartosz Bielawski
+### Published: 06/24/2025 18:05:00 by Oracle Cloud Infrastructure
 
-Module to manage systems using SNMP.
+This modules provides Cmdlets for OCI Cims Service
 
-__Downloads__: 40,221,505 | __Repository__: 
+__Downloads__: 12,144 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-*Updated: Saturday, 28 June 2025 21:50:51 UTC*
+## [OCI.PSModules.Certificatesmanagement](https://www.powershellgallery.com/Packages/OCI.PSModules.Certificatesmanagement/109.3.0) | 109.3.0
+
+### Published: 06/24/2025 18:04:54 by Oracle Cloud Infrastructure
+
+This modules provides Cmdlets for OCI Certificatesmanagement Service
+
+__Downloads__: 11,017 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+
+## [OCI.PSModules.Certificates](https://www.powershellgallery.com/Packages/OCI.PSModules.Certificates/109.3.0) | 109.3.0
+
+### Published: 06/24/2025 18:04:47 by Oracle Cloud Infrastructure
+
+This modules provides Cmdlets for OCI Certificates Service
+
+__Downloads__: 10,817 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+
+## [OCI.PSModules.Capacitymanagement](https://www.powershellgallery.com/Packages/OCI.PSModules.Capacitymanagement/109.3.0) | 109.3.0
+
+### Published: 06/24/2025 18:04:41 by Oracle Cloud Infrastructure
+
+This modules provides Cmdlets for OCI Capacitymanagement Service
+
+__Downloads__: 6,521 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+
+## [OCI.PSModules.Budget](https://www.powershellgallery.com/Packages/OCI.PSModules.Budget/109.3.0) | 109.3.0
+
+### Published: 06/24/2025 18:04:34 by Oracle Cloud Infrastructure
+
+This modules provides Cmdlets for OCI Budget Service
+
+__Downloads__: 12,156 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+
+## [OCI.PSModules.Blockchain](https://www.powershellgallery.com/Packages/OCI.PSModules.Blockchain/109.3.0) | 109.3.0
+
+### Published: 06/24/2025 18:04:28 by Oracle Cloud Infrastructure
+
+This modules provides Cmdlets for OCI Blockchain Service
+
+__Downloads__: 12,185 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+
+## [OCI.PSModules.Bds](https://www.powershellgallery.com/Packages/OCI.PSModules.Bds/109.3.0) | 109.3.0
+
+### Published: 06/24/2025 18:04:22 by Oracle Cloud Infrastructure
+
+This modules provides Cmdlets for OCI Bds Service
+
+__Downloads__: 12,239 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+
+## [OCI.PSModules.Bastion](https://www.powershellgallery.com/Packages/OCI.PSModules.Bastion/109.3.0) | 109.3.0
+
+### Published: 06/24/2025 18:04:17 by Oracle Cloud Infrastructure
+
+This modules provides Cmdlets for OCI Bastion Service
+
+__Downloads__: 11,360 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+
+## [OCI.PSModules.Autoscaling](https://www.powershellgallery.com/Packages/OCI.PSModules.Autoscaling/109.3.0) | 109.3.0
+
+### Published: 06/24/2025 18:04:11 by Oracle Cloud Infrastructure
+
+This modules provides Cmdlets for OCI Autoscaling Service
+
+__Downloads__: 12,163 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+
+## [OCI.PSModules.Audit](https://www.powershellgallery.com/Packages/OCI.PSModules.Audit/109.3.0) | 109.3.0
+
+### Published: 06/24/2025 18:04:05 by Oracle Cloud Infrastructure
+
+This modules provides Cmdlets for OCI Audit Service
+
+__Downloads__: 12,734 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+
+## [OCI.PSModules.Artifacts](https://www.powershellgallery.com/Packages/OCI.PSModules.Artifacts/109.3.0) | 109.3.0
+
+### Published: 06/24/2025 18:03:58 by Oracle Cloud Infrastructure
+
+This modules provides Cmdlets for OCI Artifacts Service
+
+__Downloads__: 11,699 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+
+## [OCI.PSModules.Appmgmtcontrol](https://www.powershellgallery.com/Packages/OCI.PSModules.Appmgmtcontrol/109.3.0) | 109.3.0
+
+### Published: 06/24/2025 18:03:51 by Oracle Cloud Infrastructure
+
+This modules provides Cmdlets for OCI Appmgmtcontrol Service
+
+__Downloads__: 10,829 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+
+## [OCI.PSModules.Apmtraces](https://www.powershellgallery.com/Packages/OCI.PSModules.Apmtraces/109.3.0) | 109.3.0
+
+### Published: 06/24/2025 18:03:45 by Oracle Cloud Infrastructure
+
+This modules provides Cmdlets for OCI Apmtraces Service
+
+__Downloads__: 13,942 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+
+## [OCI.PSModules.Apmsynthetics](https://www.powershellgallery.com/Packages/OCI.PSModules.Apmsynthetics/109.3.0) | 109.3.0
+
+### Published: 06/24/2025 18:03:38 by Oracle Cloud Infrastructure
+
+This modules provides Cmdlets for OCI Apmsynthetics Service
+
+__Downloads__: 11,696 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+
+## [OCI.PSModules.Apmcontrolplane](https://www.powershellgallery.com/Packages/OCI.PSModules.Apmcontrolplane/109.3.0) | 109.3.0
+
+### Published: 06/24/2025 18:03:31 by Oracle Cloud Infrastructure
+
+This modules provides Cmdlets for OCI Apmcontrolplane Service
+
+__Downloads__: 13,095 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+
+## [OCI.PSModules.Apmconfig](https://www.powershellgallery.com/Packages/OCI.PSModules.Apmconfig/109.3.0) | 109.3.0
+
+### Published: 06/24/2025 18:03:24 by Oracle Cloud Infrastructure
+
+This modules provides Cmdlets for OCI Apmconfig Service
+
+__Downloads__: 11,447 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+
+## [OCI.PSModules.Apigateway](https://www.powershellgallery.com/Packages/OCI.PSModules.Apigateway/109.3.0) | 109.3.0
+
+### Published: 06/24/2025 18:03:18 by Oracle Cloud Infrastructure
+
+This modules provides Cmdlets for OCI Apigateway Service
+
+__Downloads__: 12,371 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+
+## [OCI.PSModules.Apiaccesscontrol](https://www.powershellgallery.com/Packages/OCI.PSModules.Apiaccesscontrol/109.3.0) | 109.3.0
+
+### Published: 06/24/2025 18:03:11 by Oracle Cloud Infrastructure
+
+This modules provides Cmdlets for OCI Apiaccesscontrol Service
+
+__Downloads__: 35 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+
+## [OCI.PSModules.Announcementsservice](https://www.powershellgallery.com/Packages/OCI.PSModules.Announcementsservice/109.3.0) | 109.3.0
+
+### Published: 06/24/2025 18:03:05 by Oracle Cloud Infrastructure
+
+This modules provides Cmdlets for OCI Announcementsservice Service
+
+__Downloads__: 14,881 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+
+## [OCI.PSModules.Analytics](https://www.powershellgallery.com/Packages/OCI.PSModules.Analytics/109.3.0) | 109.3.0
+
+### Published: 06/24/2025 18:03:00 by Oracle Cloud Infrastructure
+
+This modules provides Cmdlets for OCI Analytics Service
+
+__Downloads__: 12,260 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+
+## [OCI.PSModules.Aivision](https://www.powershellgallery.com/Packages/OCI.PSModules.Aivision/109.3.0) | 109.3.0
+
+### Published: 06/24/2025 18:02:54 by Oracle Cloud Infrastructure
+
+This modules provides Cmdlets for OCI Aivision Service
+
+__Downloads__: 10,391 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+
+## [OCI.PSModules.Aispeech](https://www.powershellgallery.com/Packages/OCI.PSModules.Aispeech/109.3.0) | 109.3.0
+
+### Published: 06/24/2025 18:02:48 by Oracle Cloud Infrastructure
+
+This modules provides Cmdlets for OCI Aispeech Service
+
+__Downloads__: 10,703 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+
+## [OCI.PSModules.Ailanguage](https://www.powershellgallery.com/Packages/OCI.PSModules.Ailanguage/109.3.0) | 109.3.0
+
+### Published: 06/24/2025 18:02:41 by Oracle Cloud Infrastructure
+
+This modules provides Cmdlets for OCI Ailanguage Service
+
+__Downloads__: 14,160 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+
+## [OCI.PSModules.Aidocument](https://www.powershellgallery.com/Packages/OCI.PSModules.Aidocument/109.3.0) | 109.3.0
+
+### Published: 06/24/2025 18:02:34 by Oracle Cloud Infrastructure
+
+This modules provides Cmdlets for OCI Aidocument Service
+
+__Downloads__: 8,834 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+
+*Updated: Sunday, 29 June 2025 09:51:51 UTC*
