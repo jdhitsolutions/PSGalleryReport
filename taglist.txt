@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 30 June 2025 09:53:27 UTC
+Updated: Monday, 30 June 2025 21:51:59 UTC
 
 .bat
 .env
@@ -365,6 +365,7 @@ analyticsrules
 analyze
 analyzer
 analyzerrules
+anchor
 and
 android
 anet
@@ -405,7 +406,6 @@ api
 api-client
 api-gateway
 api-rest
-apiaccesscontrol
 apichecks
 apiclient
 apigateway
@@ -617,6 +617,7 @@ authenticationcertificate
 authenticationstrength
 authenticode
 authn
+author
 authoring
 authoringtools
 authorisation
@@ -926,7 +927,6 @@ billingbenefits
 bimi
 bin
 bin-obj
-binaries
 binary
 binaryip
 bind
@@ -973,6 +973,7 @@ blockchain
 blocks
 blog
 blogs
+bloodhound
 bloxone
 bloxoneddi
 bls
@@ -1094,7 +1095,6 @@ byte
 bytearray
 bzip2
 bzip2-compression
-c
 c#
 c++
 ca
@@ -1131,8 +1131,6 @@ capslock
 captcha
 capture
 carbon
-carbonawarecomputing
-carbonintensity
 card
 cardwirth
 cares
@@ -1413,6 +1411,7 @@ cmgroupdiscovery
 cmhealth
 cmhealthcheck
 cminifile
+cmnetworkports
 cms
 cmsiteconfig
 cmsmessage
@@ -1477,13 +1476,13 @@ columns
 com
 combinations
 combine
-comdata
 comedy
 comic
 comical
 comics
 command
 command_line
+command-line-interface
 command-validation
 commandcoverage
 commandhistory
@@ -1494,6 +1493,7 @@ commands
 commandsandresource
 commence
 comment
+comments
 commerce
 commfort
 commit
@@ -1529,7 +1529,6 @@ compress
 compression
 compromised
 compute
-compute-ops-management
 computecloudatcustomer
 computefleet
 computeinstanceagent
@@ -1539,7 +1538,6 @@ computer-site
 computername
 computers
 computersite
-computeschedule
 comulativeupdate
 concur
 concurrency
@@ -1673,6 +1671,7 @@ copy
 copy-item
 copyfileex
 copypaste
+copyright
 core
 coreposh
 coreutils
@@ -1773,7 +1772,6 @@ cryptocompare
 cryptocurrency
 cryptography
 cs137
-csc
 csharp
 csharp-watch
 csom
@@ -2013,6 +2011,7 @@ defenderast
 defenderforendpoint
 defenderforidentity
 defense
+definition
 deflate
 deflate-compression
 defrag
@@ -2059,13 +2058,11 @@ desktopvirtualization
 details
 detect
 detection
-detectionrule
 deutschland
 dev
 dev-tools
 devart
 devcenter
-devdeer
 devdrive
 developer
 developer_command_prompt
@@ -2535,7 +2532,6 @@ entraid
 entraid-security-assessment
 entraidgovernance
 entropy
-entrust
 enum
 enumerable
 env
@@ -2631,6 +2627,7 @@ eventsubscription
 eventviewer
 eventwatch
 evergreen
+everix
 evernote
 everydaypowershell
 everydayrewards
@@ -2735,7 +2732,6 @@ f5
 fabric
 fabtools
 facebook
-factory
 factoryorchestrator
 factoryorchestratorclient
 facts
@@ -2877,6 +2873,7 @@ findfile
 findlocation
 findplace
 findproxyforurl
+fine-print
 fine-tuning
 finops
 firebird
@@ -2968,7 +2965,6 @@ fortinetmanager
 fortios
 fortune
 forum
-forwardcompatibility
 forwardedevents
 forwarding
 foudil
@@ -2979,6 +2975,7 @@ fountassist
 fox
 foxpro
 fqdn
+frame
 framework
 france
 free
@@ -3082,7 +3079,6 @@ generates
 generatewif
 generation
 generativeai
-generativeaiagent
 generativeaiagentruntime
 generativeaiinference
 generator
@@ -3196,7 +3192,6 @@ globalentry
 globallydistributeddatabase
 globalping
 globbing
-glp
 glpi
 gmail
 gmap
@@ -3266,7 +3261,6 @@ graphs
 graphservices
 graphviz
 graylog
-greenlake
 greenplum
 gregorian
 gremlin
@@ -3415,11 +3409,9 @@ heml
 here
 hewlett
 hewlett-packard
-hewlett-packard-enterprise
 hewlett-packardenterprise
 hex
 hexdump
-hg
 hibernate
 hibernation
 hibp
@@ -3457,6 +3449,7 @@ hklm
 hl7
 hlds
 hls
+hmac
 hockey
 hol
 holiday
@@ -3493,7 +3486,6 @@ hpccache
 hpe
 hpealletra6000andnimblestoragepowershelltoolkit
 hpebioscmdlets
-hpegreenlake
 hpeilocmdlets
 hpemigrationadvisorycmdlets
 hpemigrationadvisorytool
@@ -3510,6 +3502,7 @@ hsdp
 hsl
 html
 html-templates
+htmlentity
 http
 http_proxy
 http-listener
@@ -3806,7 +3799,6 @@ iot
 iotcentral
 iothub
 iothubproperties
-iotoperationsservice
 ip
 ip_cameras
 ip-address
@@ -3967,6 +3959,8 @@ k8sshell
 k8ssnapshots
 kafka
 kaminario
+karabiner
+karabiner-elements
 karma
 kaseya
 kaseyavsa
@@ -3978,6 +3972,7 @@ kbarticle
 kdbx
 kdialog
 kebab-case
+keenetic
 keepachangelog
 keepalive
 keepass
@@ -3993,20 +3988,20 @@ key
 key-vault
 key2wocas
 keybase
+keybinding
 keyboard
 keyboardstartkey
 keycipher
 keycloak
-keycontrol
 keylight
 keymanagement
-keymanagementserver
+keymap
+keymapping
 keypair
 keysms
 keyvalue
 keyvault
 keywords
-kfum-spejderne
 kibana
 kickstart
 kidrsa
@@ -4076,7 +4071,6 @@ labtest
 labworker
 lake
 lambda
-lambdatest
 lame
 lametrictime
 landingzones
@@ -4111,7 +4105,6 @@ lbs
 lccn
 lcm
 lcminternals
-lcs
 ldap
 leafs
 league
@@ -4187,7 +4180,6 @@ linux-style
 linuxssh
 liquid
 list
-list_files
 list-directory
 list-item
 listener
@@ -4325,7 +4317,6 @@ luma
 lumaai
 lunar
 lunches
-lustrefilestorage
 lwa
 lxca
 lxcapstool
@@ -4375,7 +4366,6 @@ maintain-module
 maintenance
 maintenance-window
 maintenancewindows
-mak
 make
 maker
 malware
@@ -4430,6 +4420,7 @@ marketplaceprivateoffer
 marketplacepublisher
 marking
 marklogic
+marquee
 marvel
 marvell
 marvell_semiconductor_inc
@@ -4515,7 +4506,6 @@ menu
 menus
 meraki
 merakiapi
-mercurial
 merge
 mermaid
 message
@@ -4869,7 +4859,6 @@ nec-infrared-transmission-protocol
 necli
 nederland
 nedyalkov
-nemovote
 neo4j
 neocities
 neofetch
@@ -4972,7 +4961,6 @@ nic.ru
 nightmare
 ninite
 ninja
-ninjaone
 ninjarmm
 nios
 nist
@@ -5311,6 +5299,7 @@ outlook
 outpainting
 output
 output-to-image
+outreach
 outsystems
 overbite
 ovf
@@ -5348,6 +5337,7 @@ pager
 pagerduty
 pages
 pagination
+paging
 paloalto
 paloaltonetworks
 pam
@@ -5364,6 +5354,7 @@ parallel-processing
 parameter
 parameterinfo
 parameters
+params
 parclient
 parititions
 parool
@@ -5611,6 +5602,7 @@ port70
 portal
 portchecker
 porthunter
+ports
 portscan
 porttest
 pos
@@ -5906,7 +5898,6 @@ protect-blob
 protect-string
 protection
 protocol
-protocols
 provance
 proverb
 provider
@@ -9028,6 +9019,7 @@ quiz
 qumulo
 quota
 quote
+quotedprintable
 quoteoftheday
 quotes
 quotestoliveby
@@ -9198,7 +9190,6 @@ releasedefinition
 releasehealth
 releasemanagement
 releasenotes
-releases
 relevance
 relic
 reload
@@ -9697,6 +9688,7 @@ sensitive
 sensitivity
 sensor
 sensors
+sensu
 sentinel
 sentinelone
 sentry
@@ -9729,7 +9721,6 @@ serviceconnectionpoint
 servicecontrol
 servicedesk
 servicedeskplus
-serviceendpoints
 servicefabric
 servicelinker
 servicemanagementautomation
@@ -9841,7 +9832,6 @@ shutdown
 sid
 siem
 sif
-sigma
 sign
 signalfx
 signalr
@@ -9855,7 +9845,6 @@ silver_ticket
 sim
 simac
 simple
-simplecontainers
 simplepassword
 simplepasswordgenerator
 simplified
@@ -10015,7 +10004,6 @@ source-dedicated-server
 sourcecontrol
 sourceforge
 sourcegraph
-sourceindexing
 sourcemod
 sourceone
 sourcepawn
@@ -10130,7 +10118,6 @@ square
 squire
 srcds
 srcsrv
-srcsvr
 srm
 srylius-write
 ssas
@@ -10293,7 +10280,6 @@ subnetting
 subscribedskus
 subscription
 subscriptiondefinition
-subset
 subsystem
 subtitle
 subtitles
@@ -10390,7 +10376,6 @@ system.directoryservices.protocols
 system.text
 systemadmin
 systemadministration
-systemadministrator
 systemadmins
 systemcenter
 systemcolors
@@ -10810,7 +10795,6 @@ ubnt
 ubuntu
 ucs
 ucspowertool
-ud-avataaar
 ud-badgebutton
 ud-badgelink
 ud-breadcrumb
@@ -11138,11 +11122,9 @@ visualstudioonline
 visualstudioteamservices
 vlan
 vlookup
-vlsc
 vlsm
 vm
 vmc
-vmconnect
 vmelamed5
 vmfs
 vmgroup
@@ -11177,13 +11159,10 @@ voidtools
 volkskrant
 volta
 volume
-volumelicense
-volumelicenseagreement
 volumeshadowcopy
 volumio
 voperator
 vorbis
-voting
 vovin
 vpas
 vpasmodule
@@ -11289,7 +11268,6 @@ webapp
 webapplicationproxy
 webapps
 webauthn
-webbrowser
 webcamera
 webcmdlets
 webdav
@@ -11399,7 +11377,6 @@ win32-api
 win32appmigrationtool
 win32shutdown
 winbgp
-windbg
 windchillrv&s
 window
 windows
@@ -11435,7 +11412,6 @@ windowscredentials
 windowscredentialsmanager
 windowsdataprotectionapi
 windowsdefender
-windowsdesktop
 windowsdesktopsearch
 windowsdirectories
 windowsdiskcleanup
@@ -11466,8 +11442,6 @@ windowsserver
 windowsserver2008
 windowsserver2016
 windowsserver2019
-windowsserver2022
-windowsserver2025
 windowsservercoresecurity
 windowsserverguisecurity
 windowsservice
