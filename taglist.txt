@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 30 June 2025 21:51:59 UTC
+Updated: Tuesday, 01 July 2025 09:53:30 UTC
 
 .bat
 .env
@@ -406,6 +406,7 @@ api
 api-client
 api-gateway
 api-rest
+apiaccesscontrol
 apichecks
 apiclient
 apigateway
@@ -773,7 +774,6 @@ azurebasicloadbalancerupgrade
 azurecli
 azurecodesigning
 azurecognitiveservices
-azurecommonstuff
 azurecontainerapps
 azurecontainers
 azuredatabricks
@@ -797,6 +797,7 @@ azurelocal
 azuremaps
 azuremigrate
 azuremonitor
+azurenative
 azurenetworking
 azurepack
 azurepipelines
@@ -927,6 +928,7 @@ billingbenefits
 bimi
 bin
 bin-obj
+binaries
 binary
 binaryip
 bind
@@ -1095,6 +1097,7 @@ byte
 bytearray
 bzip2
 bzip2-compression
+c
 c#
 c++
 ca
@@ -1131,6 +1134,8 @@ capslock
 captcha
 capture
 carbon
+carbonawarecomputing
+carbonintensity
 card
 cardwirth
 cares
@@ -1153,6 +1158,7 @@ cavium
 cb
 cblueshell
 cbr
+cbs
 cbz
 cchoco
 cchocoex
@@ -1252,7 +1258,6 @@ chocobear
 chocolatey
 choice
 choose_file
-choose_file_name
 choose_folder
 chooser
 christaylorcodes
@@ -1378,6 +1383,7 @@ cloudfoundation
 cloudfront
 cloudgovernance
 cloudguard
+cloudhsm
 cloudinairy
 cloudinit
 cloudiq
@@ -1476,6 +1482,7 @@ columns
 com
 combinations
 combine
+comdata
 comedy
 comic
 comical
@@ -1529,6 +1536,7 @@ compress
 compression
 compromised
 compute
+compute-ops-management
 computecloudatcustomer
 computefleet
 computeinstanceagent
@@ -1538,6 +1546,7 @@ computer-site
 computername
 computers
 computersite
+computeschedule
 comulativeupdate
 concur
 concurrency
@@ -1721,7 +1730,6 @@ crc32
 create
 createcolumn
 createdatabase
-createfile
 createprocessasuser
 createschema
 createtable
@@ -1772,6 +1780,7 @@ cryptocompare
 cryptocurrency
 cryptography
 cs137
+csc
 csharp
 csharp-watch
 csom
@@ -1928,6 +1937,7 @@ datashare
 datasource
 datastore
 datatable
+datatransfer
 dataverse
 date
 date-random
@@ -2036,6 +2046,7 @@ demultiplex
 demultiplexing
 dependencies
 dependency
+dependencymap
 dependencysearch
 deploy
 deployment
@@ -2058,11 +2069,13 @@ desktopvirtualization
 details
 detect
 detection
+detectionrule
 deutschland
 dev
 dev-tools
 devart
 devcenter
+devdeer
 devdrive
 developer
 developer_command_prompt
@@ -2238,6 +2251,7 @@ dockerize
 dockerswarm
 docking
 docs
+docset
 document
 documentation
 documentdb
@@ -2532,6 +2546,7 @@ entraid
 entraid-security-assessment
 entraidgovernance
 entropy
+entrust
 enum
 enumerable
 env
@@ -2732,6 +2747,7 @@ f5
 fabric
 fabtools
 facebook
+factory
 factoryorchestrator
 factoryorchestratorclient
 facts
@@ -2965,6 +2981,7 @@ fortinetmanager
 fortios
 fortune
 forum
+forwardcompatibility
 forwardedevents
 forwarding
 foudil
@@ -3079,6 +3096,7 @@ generates
 generatewif
 generation
 generativeai
+generativeaiagent
 generativeaiagentruntime
 generativeaiinference
 generator
@@ -3192,6 +3210,7 @@ globalentry
 globallydistributeddatabase
 globalping
 globbing
+glp
 glpi
 gmail
 gmap
@@ -3261,6 +3280,7 @@ graphs
 graphservices
 graphviz
 graylog
+greenlake
 greenplum
 gregorian
 gremlin
@@ -3409,6 +3429,7 @@ heml
 here
 hewlett
 hewlett-packard
+hewlett-packard-enterprise
 hewlett-packardenterprise
 hex
 hexdump
@@ -3486,6 +3507,7 @@ hpccache
 hpe
 hpealletra6000andnimblestoragepowershelltoolkit
 hpebioscmdlets
+hpegreenlake
 hpeilocmdlets
 hpemigrationadvisorycmdlets
 hpemigrationadvisorytool
@@ -3799,6 +3821,7 @@ iot
 iotcentral
 iothub
 iothubproperties
+iotoperationsservice
 ip
 ip_cameras
 ip-address
@@ -3993,8 +4016,10 @@ keyboard
 keyboardstartkey
 keycipher
 keycloak
+keycontrol
 keylight
 keymanagement
+keymanagementserver
 keymap
 keymapping
 keypair
@@ -4002,6 +4027,7 @@ keysms
 keyvalue
 keyvault
 keywords
+kfum-spejderne
 kibana
 kickstart
 kidrsa
@@ -4071,6 +4097,7 @@ labtest
 labworker
 lake
 lambda
+lambdatest
 lame
 lametrictime
 landingzones
@@ -4105,6 +4132,7 @@ lbs
 lccn
 lcm
 lcminternals
+lcs
 ldap
 leafs
 league
@@ -4180,6 +4208,7 @@ linux-style
 linuxssh
 liquid
 list
+list_files
 list-directory
 list-item
 listener
@@ -4317,6 +4346,7 @@ luma
 lumaai
 lunar
 lunches
+lustrefilestorage
 lwa
 lxca
 lxcapstool
@@ -4344,7 +4374,6 @@ macmon
 macos
 macosx
 macro
-macros
 madlib
 magazine
 magento
@@ -4366,6 +4395,7 @@ maintain-module
 maintenance
 maintenance-window
 maintenancewindows
+mak
 make
 maker
 malware
@@ -4446,7 +4476,6 @@ maven
 max
 max_path
 maximum
-maxoffice
 mazerat
 mb
 mbc
@@ -4859,6 +4888,7 @@ nec-infrared-transmission-protocol
 necli
 nederland
 nedyalkov
+nemovote
 neo4j
 neocities
 neofetch
@@ -4928,7 +4958,6 @@ new-dtcmtasksequencefromdriverpackpackagedefinitionsms
 new-dynamicdictionary
 new-dynamicparameter
 new-githubrelease
-new-item
 new-itemproperty
 new-modulemanifest
 new-pinneditem
@@ -4944,7 +4973,6 @@ news
 newspaper
 newtonsoft
 newtonsoft.json
-nexacore
 nexenta
 nexentastor
 nextcloud
@@ -4961,6 +4989,7 @@ nic.ru
 nightmare
 ninite
 ninja
+ninjaone
 ninjarmm
 nios
 nist
@@ -4979,7 +5008,6 @@ nntp
 node
 node.js
 nodejs
-nogit
 non-idiomatic
 non-volatile
 none
@@ -5082,7 +5110,6 @@ objectstorage
 objecttree
 obs
 observeit
-oce
 ocg
 ocgv
 oci
@@ -5218,6 +5245,7 @@ operationalinsights
 operations
 operationsmanagementsuite
 operationsmanagementsuiteagent
+operationsmanager
 operationvalidation
 operatoraccesscontrol
 opml
@@ -5302,6 +5330,7 @@ output-to-image
 outreach
 outsystems
 overbite
+override
 ovf
 ovgd
 ovh
@@ -5575,7 +5604,6 @@ pointer
 pokeapi
 pokedex
 pokemon
-pokemontcg
 poker
 policies
 policy
@@ -5754,7 +5782,6 @@ powershell-terminal-copilot
 powershell-training
 powershell.module.invokewinget
 powershell.one
-powershell.persistentpathstack
 powershell7
 powershellai
 powershellazuresql
@@ -5898,6 +5925,7 @@ protect-blob
 protect-string
 protection
 protocol
+protocols
 provance
 proverb
 provider
@@ -9012,7 +9040,6 @@ queues
 queuing
 quick-response
 quickaccess
-quickbase
 quickbooks
 quicksetup
 quiz
@@ -9090,7 +9117,6 @@ rds
 rdsgw
 react
 react-stockcharts
-read
 read-slog
 readable
 reader
@@ -9190,6 +9216,7 @@ releasedefinition
 releasehealth
 releasemanagement
 releasenotes
+releases
 relevance
 relic
 reload
@@ -9721,6 +9748,7 @@ serviceconnectionpoint
 servicecontrol
 servicedesk
 servicedeskplus
+serviceendpoints
 servicefabric
 servicelinker
 servicemanagementautomation
@@ -9832,6 +9860,7 @@ shutdown
 sid
 siem
 sif
+sigma
 sign
 signalfx
 signalr
@@ -9845,6 +9874,7 @@ silver_ticket
 sim
 simac
 simple
+simplecontainers
 simplepassword
 simplepasswordgenerator
 simplified
@@ -9890,7 +9920,6 @@ skype4business
 skypeforbusiness
 skypeforbusinessonline
 skypeonline
-skytap
 slack
 slash
 slashcommands
@@ -10004,6 +10033,7 @@ source-dedicated-server
 sourcecontrol
 sourceforge
 sourcegraph
+sourceindexing
 sourcemod
 sourceone
 sourcepawn
@@ -10031,7 +10061,6 @@ specification
 specify
 specs
 spectre
-spectre.console
 spectrumconnect
 spectrumcontrolbase
 speculation
@@ -10118,6 +10147,7 @@ square
 squire
 srcds
 srcsrv
+srcsvr
 srm
 srylius-write
 ssas
@@ -10221,7 +10251,6 @@ stop
 storablecolortheme
 storage
 storageaccount
-storageaction
 storagecache
 storagegrid-webscale
 storagemover
@@ -10280,6 +10309,7 @@ subnetting
 subscribedskus
 subscription
 subscriptiondefinition
+subset
 subsystem
 subtitle
 subtitles
@@ -10376,6 +10406,7 @@ system.directoryservices.protocols
 system.text
 systemadmin
 systemadministration
+systemadministrator
 systemadmins
 systemcenter
 systemcolors
@@ -10438,7 +10469,6 @@ taskscheduler
 tatux
 taxjar
 taxonomy
-tcg
 tcp
 tcp/ip
 tcpip
@@ -10795,6 +10825,7 @@ ubnt
 ubuntu
 ucs
 ucspowertool
+ud-avataaar
 ud-badgebutton
 ud-badgelink
 ud-breadcrumb
@@ -10914,7 +10945,6 @@ untis
 unzip
 up
 update
-update-module
 update-modulemanifest
 update-moduletests
 update-typedata
@@ -11122,6 +11152,7 @@ visualstudioonline
 visualstudioteamservices
 vlan
 vlookup
+vlsc
 vlsm
 vm
 vmc
@@ -11159,10 +11190,13 @@ voidtools
 volkskrant
 volta
 volume
+volumelicense
+volumelicenseagreement
 volumeshadowcopy
 volumio
 voperator
 vorbis
+voting
 vovin
 vpas
 vpasmodule
@@ -11268,6 +11302,7 @@ webapp
 webapplicationproxy
 webapps
 webauthn
+webbrowser
 webcamera
 webcmdlets
 webdav
@@ -11316,7 +11351,6 @@ wemsdk
 wer
 wget
 what3words
-whatif
 whatismyip
 whatsnew
 whatsupgold
@@ -11377,6 +11411,7 @@ win32-api
 win32appmigrationtool
 win32shutdown
 winbgp
+windbg
 windchillrv&s
 window
 windows
@@ -11412,6 +11447,7 @@ windowscredentials
 windowscredentialsmanager
 windowsdataprotectionapi
 windowsdefender
+windowsdesktop
 windowsdesktopsearch
 windowsdirectories
 windowsdiskcleanup
@@ -11442,6 +11478,8 @@ windowsserver
 windowsserver2008
 windowsserver2016
 windowsserver2019
+windowsserver2022
+windowsserver2025
 windowsservercoresecurity
 windowsserverguisecurity
 windowsservice
@@ -11609,7 +11647,6 @@ xiaomi
 xin
 xkcd
 xliff
-xlsx
 xmc
 xml
 xml-rpc
