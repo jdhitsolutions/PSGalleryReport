@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Wednesday, 02 July 2025 09:53:26 UTC
+Updated: Wednesday, 02 July 2025 21:52:07 UTC
 
 .bat
 .env
@@ -16,6 +16,7 @@ Updated: Wednesday, 02 July 2025 09:53:26 UTC
 "interactive
 **psedition_desktop**
 **windows**
+🍄
 🍣
 💩
 🙇
@@ -173,7 +174,6 @@ adb
 adc
 adcs
 add
-add-in
 add-member
 add-on
 add-on.module
@@ -469,7 +469,6 @@ appveyor
 appvolumes
 appwrite
 appx
-appxmanifest
 appxpackage
 aprs
 aprs-is
@@ -497,7 +496,6 @@ archivematica
 archivial
 archivial-backup
 archivial-cloud-backup
-archlinux
 archon
 archonagent
 arcresourcebridge
@@ -568,7 +566,6 @@ assistant
 association
 ast
 astro
-astronomy
 asv
 asymmetric
 async
@@ -662,6 +659,7 @@ autotask
 autotaskapi
 autotaskpsa
 autotyper
+autounattend
 autoupdate
 autoupdate-script
 autowrapper
@@ -821,7 +819,6 @@ azuresqlimport
 azuressas
 azurestack
 azurestackhci
-azurestackhub
 azurestate
 azurestorage
 azurestorageservices
@@ -854,6 +851,7 @@ baremetal
 base
 base-in-json
 base16
+base26
 base32
 base64
 base64string
@@ -1300,7 +1298,6 @@ citation
 cite
 citrix
 citrixoptimizer
-civo
 cix
 class
 classes
@@ -1349,7 +1346,6 @@ clientstatussettings
 clihelper.core
 clihelper.logger
 clihelper.semver
-clihelper.trends
 clipart
 clipasswordsdk
 clipboard
@@ -1728,7 +1724,6 @@ crc32
 create
 createcolumn
 createdatabase
-createfile
 createprocessasuser
 createschema
 createtable
@@ -1787,7 +1782,6 @@ csp
 cspm
 csproj
 css
-csstools
 csv
 csv2adx
 csvhelper
@@ -2046,10 +2040,10 @@ demultiplex
 demultiplexing
 dependencies
 dependency
+dependencymap
 dependencysearch
 deploy
 deployment
-deploymentconfig
 deploymentresourceprovider
 deploymenttasks
 depute
@@ -2391,7 +2385,6 @@ durabletask
 dust
 dutch
 dvls
-dvr
 dword
 dxexpeditions
 dynamic
@@ -2769,7 +2762,6 @@ fast
 fast-dds
 fast-ping
 fastdata
-fastfilepub
 fastgit
 fastlinq
 fastlookup
@@ -2819,7 +2811,6 @@ file-name
 file-name-extension
 file-name-extension-association
 file-server
-file-share
 file-system
 file-transfer
 file-transform
@@ -2905,7 +2896,6 @@ first
 fisher
 fissionproducts
 fitbit
-fits
 five
 five9
 fix-log
@@ -3169,6 +3159,7 @@ gh
 gh-actions
 ghactions
 ghc
+ghibli
 ghost
 gif
 gifs
@@ -3385,7 +3376,6 @@ hcm
 hcp
 hcx
 hdfs
-hdhomerun
 hdinsight
 hdinsightonaks
 hdr
@@ -3433,7 +3423,6 @@ hewlett-packard-enterprise
 hewlett-packardenterprise
 hex
 hexdump
-hg
 hibernate
 hibernation
 hibp
@@ -3481,7 +3470,6 @@ homebrew
 homelab
 homelandsecurity
 homeschooling
-hometheater
 hon
 hooking
 horizon
@@ -3796,7 +3784,6 @@ investigation
 investing
 investment
 investments
-invitation
 invocation
 invoice
 invoke
@@ -4032,6 +4019,7 @@ keywords
 kfum-spejderne
 kibana
 kickstart
+kidrsa
 kill
 kindle
 kinetic
@@ -4122,7 +4110,6 @@ latestupdate
 latin
 latitude
 launcher
-laws
 layer
 layman
 layout
@@ -4328,7 +4315,6 @@ look
 lookup
 lookupaccountname
 lookupaccountsid
-loop
 loopback
 loremipsum
 love
@@ -4345,7 +4331,6 @@ luma
 lumaai
 lunar
 lunches
-lustrefilestorage
 lwa
 lxca
 lxcapstool
@@ -4372,7 +4357,6 @@ macmon
 macos
 macosx
 macro
-macros
 madlib
 magazine
 magento
@@ -4475,7 +4459,6 @@ maven
 max
 max_path
 maximum
-maxoffice
 mazerat
 mb
 mbc
@@ -4535,7 +4518,6 @@ menu
 menus
 meraki
 merakiapi
-mercurial
 merge
 mermaid
 message
@@ -4614,6 +4596,7 @@ microsoftintune
 microsoftmvp
 microsoftoffice
 microsoftonline
+microsoftsentinel
 microsoftstaffhub
 microsoftstore
 microsoftteams
@@ -4702,7 +4685,6 @@ monaco
 monday
 mondoo
 money
-moneyforward
 mongo
 mongodb
 monitor
@@ -4960,7 +4942,6 @@ new-dtcmtasksequencefromdriverpackpackagedefinitionsms
 new-dynamicdictionary
 new-dynamicparameter
 new-githubrelease
-new-item
 new-itemproperty
 new-modulemanifest
 new-pinneditem
@@ -5401,7 +5382,6 @@ partition
 partitions
 partner
 partnercenter
-partnerportal
 pas
 pass
 pass-the-hash
@@ -5578,6 +5558,9 @@ plc
 plc4net
 plc4netps
 plc4x
+plc4x™
+plconnet
+plconnetps
 pleasant
 pleasantpasswordserver
 plex
@@ -8849,7 +8832,6 @@ psget
 psgitlab
 psgraph
 psgraylog
-pshdhomerun
 pshost
 pshtml
 psidoit
@@ -9070,7 +9052,6 @@ raindrop
 raindrop.io
 raisers
 raisersedge
-raj
 ram
 ram-it
 random
@@ -9141,7 +9122,6 @@ reconcile
 reconnaissance
 record
 recording
-recordings
 recordsmanagement
 recovery
 recoveryservices
@@ -9333,7 +9313,6 @@ restapi
 restart
 restful
 restore
-restrictive
 resume
 retail
 retention
@@ -9690,7 +9669,6 @@ select-kubecontext
 select-kubenamespace
 select-string
 selection
-selectxmlinfo
 selenium
 self
 self-hosted
@@ -9872,7 +9850,6 @@ signature
 signed
 signing
 signtool
-silicondust
 silk
 silver_ticket
 sim
@@ -10268,14 +10245,12 @@ storefront
 storeonce
 storeserv
 strava
-streak
 stream
 streamanalytics
 streaming
 streamreader
 streamwriter
 stretch
-strict
 strictmode
 strikethrough-text
 string
@@ -10624,6 +10599,7 @@ threat-hunting
 threatdefense
 threathunting
 threatintelligence
+threatintelligenceindicators
 threatintelligenceplatform
 threats
 threatsharing
@@ -10786,9 +10762,6 @@ tsa
 tsd
 tsheets
 tsqlbestpractice
-tst
-tst1
-tst3
 tsv
 ttrpg
 tts
@@ -10968,6 +10941,8 @@ updmgmt
 upgrade
 uplift
 uplink
+uploadindicators
+uploadindicatorsapi
 ups
 upsource
 upstream
@@ -11260,7 +11235,6 @@ w3svc
 w3w
 waa
 waas
-wac
 waf
 wait4x
 waitforobject
@@ -11359,7 +11333,6 @@ wemsdk
 wer
 wget
 what3words
-whatif
 whatismyip
 whatsnew
 whatsupgold
@@ -11447,7 +11420,6 @@ windows10
 windows10mui
 windows11
 windows365
-windowsadmincenter
 windowsaudit
 windowsbuilds
 windowscredential
@@ -11529,7 +11501,6 @@ wiz
 wizard
 wkhtmltopdf
 wlan
-wlms
 wmf
 wmf5
 wmi
@@ -11689,6 +11660,7 @@ yandex
 yandexdisk
 yapg
 yarn
+yaugeraio
 year
 yetanotherhelloworld
 yify
@@ -11700,6 +11672,7 @@ youtube-transcript
 youtubeextractor
 yq
 yts
+yubaba
 yubikey
 yum
 z
@@ -11744,3 +11717,4 @@ zypper
 全角半角変換
 寿司
 日本語
+湯婆婆
