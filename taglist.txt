@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Saturday, 05 July 2025 09:52:08 UTC
+Updated: Sunday, 06 July 2025 09:52:05 UTC
 
 .bat
 .env
@@ -119,6 +119,7 @@ actifio
 actifiogo
 action
 action1
+actionablemessages
 actiongroup
 actionhero
 actionplan
@@ -499,9 +500,10 @@ archivial
 archivial-backup
 archivial-cloud-backup
 archlinux
+archon
+archonagent
 arcresourcebridge
 arcus
-area
 arg
 argcomplete
 argument
@@ -581,7 +583,6 @@ atlas
 atlassian
 atlassiancli
 atlassianps
-atmosphere
 atom
 atp
 atproto
@@ -649,7 +650,6 @@ automatenow
 automaticpacketreportingsystem
 automation
 automation psmodule
-automationaccount
 automationanywhere
 automationportal
 automationutils
@@ -935,7 +935,6 @@ bind
 binding
 bindings
 bing
-bingmap
 bingmaps
 binomial
 bios
@@ -1061,7 +1060,6 @@ bugzilla
 build
 build-log
 build-scripts
-build-test-publish
 builddefinition
 builder
 buildhelpers
@@ -2242,6 +2240,7 @@ dnsresolver
 dnssec
 dnsserver
 dnssuffix
+dnvm
 doc
 docfx
 dock
@@ -2894,8 +2893,6 @@ find-file
 find-path
 finddownloadlinkfromwebsite
 findfile
-findlocation
-findplace
 findproxyforurl
 fine-print
 fine-tuning
@@ -3035,6 +3032,7 @@ ftptoday
 fu-msauth
 fudge
 fudgepop
+fujitsu
 full
 full-metal-gnome
 fullclr
@@ -3112,12 +3110,9 @@ genericartifactscontent
 genetic-algorithm
 genp
 genxdev
-geo
 geocache
 geocaching
 geocode
-geoencode
-geoencoding
 geoip
 geolocation
 geosearching
@@ -3185,7 +3180,6 @@ git
 git-client
 git-clone
 git-flow
-git-lfs
 git-open
 git-proxy
 git-rename
@@ -3220,8 +3214,6 @@ globbing
 glp
 glpi
 gmail
-gmap
-gmaps
 gmsa
 gnome
 gnucash
@@ -3243,7 +3235,6 @@ google-table
 googleadsv2
 googlecloudplatform
 googledrive
-googlemap
 googlemaps
 googleworkspace
 gopher
@@ -3326,6 +3317,7 @@ gumby
 guru
 gvim
 gw2
+gwbasic
 gymnasium
 gz
 gzip
@@ -3795,6 +3787,8 @@ intune
 intuneadminroles
 intuneappwinutil
 intunestuff
+intunewinapputil
+intunewinapputil.exe
 inventory
 investigation
 investing
@@ -4100,6 +4094,7 @@ labservices
 labsnippet
 labtech
 labtest
+labview
 labworker
 lake
 lambda
@@ -4250,7 +4245,6 @@ localadmin
 localconfigurationmanager
 localdb
 localdirectories
-locale
 localgroup
 localgroupmember
 localization
@@ -4435,13 +4429,11 @@ manifest
 manifested
 manual
 map
-mapapi
 mapi
 mappeddrives
 mapper24
 mapping
 maps
-mapsapi
 mariadb
 mark
 markdig
@@ -4690,11 +4682,6 @@ modern
 modify
 module
 module-maintenance
-module-manifest
-module-publishing
-module-publishing-framework
-module-testing
-module-testing-framework
 modulebuild
 modulecreation
 modulefast
@@ -4718,6 +4705,8 @@ monitor
 monitor psmodule
 monitorinformation
 monitoring
+monitoring_objects
+monitoring_variables
 monitoringplugins
 monitoringsolutions
 monitors
@@ -4879,6 +4868,7 @@ nano
 nanoleaf
 nartac
 nasdaq
+nationalinstruments
 native
 natpool
 natural
@@ -4970,7 +4960,6 @@ new-dynamicparameter
 new-githubrelease
 new-item
 new-itemproperty
-new-modulemanifest
 new-pinneditem
 new-rdpsession
 new-samcmapplicationfrompackagedefinitionsms
@@ -4996,6 +4985,7 @@ ngen
 ngfw
 nginx
 nhl
+ni
 nic
 nic.ru
 nightmare
@@ -5004,6 +4994,7 @@ ninja
 ninjaone
 ninjarmm
 nios
+nipkg
 nist
 nitrox
 nixos
@@ -5568,7 +5559,6 @@ pkgx
 pki
 pki psmodule
 pks
-place
 places
 plain
 plan
@@ -5667,9 +5657,11 @@ poshgrouppolicy
 poshkeepass
 poshlog
 poshorigin
+poshproject
 poshprtg
 poshrest
 poshrsjob
+poshtemplate
 poshwsus
 poshy-code-search
 poshy-colors
@@ -5700,7 +5692,6 @@ poshy-wrap-gem
 poshy-wrap-gh
 poshy-wrap-git
 poshy-wrap-git-flow
-poshy-wrap-git-lfs
 poshy-wrap-golang
 poshy-wrap-helm
 poshy-wrap-kubectl
@@ -5786,8 +5777,6 @@ powershell-isprime
 powershell-lightning
 powershell-module
 powershell-modules
-powershell-modules-convention
-powershell-project-convention
 powershell-releases-api
 powershell-remoting
 powershell-terminal
@@ -5814,6 +5803,7 @@ powershellmoduleupdate
 powershellpr0mpt
 powershellremoting
 powershellscript
+powershelltemplate
 powershelltraining
 powershelltypeaccelerators
 powershelluniversal
@@ -5922,6 +5912,7 @@ project-management
 projectmanagement
 projectreunion
 projects
+projecttemplate
 projectwise
 proliant
 prometheus
@@ -6012,7 +6003,6 @@ pscommand_acsp
 pscommand_add_ssh
 pscommand_add-envpathitem
 pscommand_add-envvarpathitem
-pscommand_add-gitlfstrackedfiles
 pscommand_add-gitremote
 pscommand_add-gitskipworktreeflag
 pscommand_add-gitsubmodule
@@ -6437,7 +6427,6 @@ pscommand_get-gitdiffstash
 pscommand_get-gitdiffstashhead
 pscommand_get-gitdiffstashparent
 pscommand_get-gitignoredfiles
-pscommand_get-gitlfstrackedfiles
 pscommand_get-gitlogbranchcommitsunpushed
 pscommand_get-gitlogcommitspulledlast
 pscommand_get-gitloggraph
@@ -6544,10 +6533,6 @@ pscommand_gitignore-reload
 pscommand_gittowork
 pscommand_gl
 pscommand_glf
-pscommand_glfsi
-pscommand_glfsls
-pscommand_glfsmi
-pscommand_glfst
 pscommand_glg
 pscommand_glgo
 pscommand_glgs
@@ -6596,7 +6581,6 @@ pscommand_gpatch
 pscommand_gpdo
 pscommand_gpf
 pscommand_gpl
-pscommand_gplfs
 pscommand_gplr
 pscommand_gplrs
 pscommand_gpo
@@ -6799,8 +6783,6 @@ pscommand_invoke-githubapi-bodyfields
 pscommand_invoke-githubapi-bodyfile
 pscommand_invoke-githubapi-bodyjson
 pscommand_invoke-githubapi-bodyraw
-pscommand_invoke-gitlfsinstall
-pscommand_invoke-gitlfsmigrateimport
 pscommand_invoke-gitmerge
 pscommand_invoke-gitpull
 pscommand_invoke-gitpush
@@ -7827,7 +7809,6 @@ psfunction_aar
 psfunction_add_ssh
 psfunction_add-envpathitem
 psfunction_add-envvarpathitem
-psfunction_add-gitlfstrackedfiles
 psfunction_add-gitremote
 psfunction_add-gitskipworktreeflag
 psfunction_add-gitsubmodule
@@ -8035,7 +8016,6 @@ psfunction_get-gitdiffstash
 psfunction_get-gitdiffstashhead
 psfunction_get-gitdiffstashparent
 psfunction_get-gitignoredfiles
-psfunction_get-gitlfstrackedfiles
 psfunction_get-gitlogbranchcommitsunpushed
 psfunction_get-gitlogcommitspulledlast
 psfunction_get-gitloggraph
@@ -8100,7 +8080,6 @@ psfunction_git-global-show-proxy
 psfunction_git-show-proxy
 psfunction_gitignore-reload
 psfunction_gittowork
-psfunction_gplfs
 psfunction_hostname
 psfunction_invoke-aptcachepolicy
 psfunction_invoke-aptcachesearch
@@ -8214,8 +8193,6 @@ psfunction_invoke-githubapi-bodyfields
 psfunction_invoke-githubapi-bodyfile
 psfunction_invoke-githubapi-bodyjson
 psfunction_invoke-githubapi-bodyraw
-psfunction_invoke-gitlfsinstall
-psfunction_invoke-gitlfsmigrateimport
 psfunction_invoke-gitmerge
 psfunction_invoke-gitpull
 psfunction_invoke-gitpush
@@ -8960,7 +8937,6 @@ publicfolder
 publicholidays
 publicip
 publish
-publish-module
 publishedmodules
 publisher
 publishers
@@ -9102,8 +9078,6 @@ raspbian
 rate
 rate-limit
 rates
-rating
-ratings
 ravendb
 razzle
 rbac
@@ -9530,6 +9504,7 @@ sbc
 sc
 scaffold
 scaffolding
+scaffoldingtemplate
 scala
 scalable
 scalablevectorgraphics
@@ -9599,7 +9574,6 @@ screenscraping
 screenshot
 script
 script_version
-script-module
 script-to-assembly
 script-to-executable
 scriptanalyzer
@@ -9638,7 +9612,6 @@ searchengine
 searcher
 searching
 searchmanager
-searchplace
 searchquery
 searchstring
 searchsuffixlist
@@ -9876,6 +9849,7 @@ siem
 sif
 sigma
 sign
+signalfx
 signalr
 signature
 signed
@@ -10559,7 +10533,6 @@ test
 test-automation
 test-dscconfiguration
 test-internetconnection
-test-modulemanifest
 test-modulepath
 test-osplatform
 test-psremoting
@@ -10964,7 +10937,6 @@ unzip
 up
 update
 update-module
-update-modulemanifest
 update-moduletests
 update-typedata
 updatedeferral
@@ -11699,6 +11671,7 @@ yamaha
 yaml
 yandex
 yandexdisk
+yapg
 yarn
 yaugeraio
 year
@@ -11739,6 +11712,8 @@ zookeeper
 zoom
 zoomapi
 zoommeeting
+zorus
+zorusapi
 zoxide
 zpr
 zsh
