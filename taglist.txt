@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Thursday, 10 July 2025 09:53:53 UTC
+Updated: Thursday, 10 July 2025 21:52:21 UTC
 
 .bat
 .env
@@ -174,7 +174,6 @@ adb
 adc
 adcs
 add
-add-in
 add-member
 add-on
 add-on.module
@@ -442,7 +441,6 @@ appian
 appinsights
 applayering
 apple
-applebusinessmanager
 applescript
 applescript_bridge
 application
@@ -483,9 +481,7 @@ apt-get
 apt-get-update
 apteco
 aptitude
-aql
 arabic
-arangodb
 arc
 arcade
 arcgateway
@@ -875,6 +871,7 @@ bastion
 bat
 batcat
 batch
+batchclass
 batman
 battery
 bayern
@@ -960,8 +957,6 @@ biztalkdeploymentframework
 bks
 black
 blackbaud
-blackberry
-blackberryuem
 blackbox
 blackbytesbox
 blacklist
@@ -1021,7 +1016,6 @@ box
 bpmn
 brainy
 branch
-branch-rename
 brave
 brawlapi
 brawlstars
@@ -1029,6 +1023,7 @@ bre
 breach
 break
 breakpoint
+brevo
 brew
 brickset
 brickstore
@@ -1385,7 +1380,6 @@ cloudfoundation
 cloudfront
 cloudgovernance
 cloudguard
-cloudhsm
 cloudinairy
 cloudinit
 cloudiq
@@ -1849,7 +1843,6 @@ cx
 cyber
 cyberark
 cyberark-api
-cyberark-dpa
 cyberark-identity
 cyberdrain
 cybereason
@@ -2189,11 +2182,11 @@ display_dialog
 displayresolution
 disposable
 dispose
+distance
 distinguishedname
 distributed-systems
 distributed-tracing
 distributedcache
-distributeddatabase
 distributedfilesystem
 distribution
 distributiongroup
@@ -2201,7 +2194,6 @@ distributiongroups
 distributionlist
 distributionpointgroupmembers
 distrubtionpoint
-dividends
 diving
 division
 divoom
@@ -2402,7 +2394,6 @@ dword
 dxexpeditions
 dynamic
 dynamic-host-configuration-protocol
-dynamic-privileged-access
 dynamicdistributiongroups
 dynamicdistributionlist
 dynamicdnsoverhttps
@@ -2480,7 +2471,6 @@ eli5
 elitism
 elk
 elm
-elmah-io
 elonmusk
 eloomi
 eloqua
@@ -2492,6 +2482,7 @@ email
 email-address
 emailaddressupdate
 emailautomation
+emailcampain
 emaildataplane
 emailmanagment
 emailnotification
@@ -2568,6 +2559,7 @@ envvars
 eol
 eop
 eperl
+ephesoft
 epicor
 episode
 epplus
@@ -2613,7 +2605,6 @@ etherassist
 ethereum
 ethernet
 ethr
-ethz
 etl
 etl2pcapng
 etrade
@@ -2889,7 +2880,6 @@ find
 find-call
 find-caller
 find-file
-find-path
 finddownloadlinkfromwebsite
 findfile
 findlocation
@@ -2971,7 +2961,6 @@ format
 format-numberedlist
 formatdata
 formatformat-tableformat-listformat-wideformat-customformat-defaultout-defaultout-fileout-hostout-printerout-string
-formatter
 formatting
 formdata
 forms
@@ -3157,7 +3146,6 @@ get-openfiles
 get-pass
 get-passivetrippoint
 get-passlist
-get-path
 get-pinneditem
 get-samcmassignedsite
 get-samcmcurrentmanagementpoint
@@ -3187,7 +3175,6 @@ git-flow
 git-lfs
 git-open
 git-proxy
-git-rename
 git-stat
 gitcmdline
 gitdesktop
@@ -3430,7 +3417,6 @@ helper-functions
 helperfunctions
 helpers
 helpfile
-helpful
 heml
 here
 hewlett
@@ -3618,11 +3604,8 @@ identity-management
 identitydataplane
 identitydirector
 identitydomains
-identitynow
-identitysecuritycloud
 idf
 idm
-idn
 idna
 idoit
 idrac
@@ -3740,6 +3723,7 @@ inspect
 inspiration
 inspirationalquotes
 inspire
+inspur
 instagram
 install
 install-module
@@ -3755,6 +3739,7 @@ installwindows
 instance
 instant
 instapush
+instorage
 int
 intacct
 integrated
@@ -4007,7 +3992,6 @@ keepasslib
 keepawake
 keeper
 kelverion
-kelvin
 kentico
 kerberos
 kernel32
@@ -4143,7 +4127,6 @@ lcs
 ldap
 leafs
 league
-lean
 learn
 learn-powershell
 learn-powershell-series
@@ -4259,6 +4242,7 @@ localpolicy
 localuser
 location
 locationbasedservices
+locations
 lock
 lockbox
 lockdisplaytimeout
@@ -4466,6 +4450,7 @@ marvellfcprovider
 marvellqlogicfcpowerkit
 mas
 mask
+mass
 masstransit
 masterconfiguration
 match
@@ -4473,7 +4458,6 @@ matcharray
 matchhashtable
 materialdesign
 materialui
-mateso
 math
 mathematics
 matplotlib
@@ -4646,7 +4630,6 @@ mindmeister
 minecraft
 miniconda
 minifier
-minimal
 minimalist-framework
 minimum
 mip
@@ -4890,7 +4873,6 @@ natural-selection
 nature
 nav
 navigation
-nbi
 ncal
 ncrestapi
 ndes
@@ -4906,7 +4888,6 @@ neocities
 neofetch
 neonpostgres
 neovim
-neptune
 nerdfonts
 nerdio
 nerdioapi
@@ -4963,7 +4944,6 @@ networkscan
 networksecurity
 networksecuritygroup
 networkshares
-netwrix
 new
 new-completionresult
 new-dtcmpackagefromdriverpackpackagedefinitionsms
@@ -5193,10 +5173,8 @@ onbehalfof
 onboard
 onboardadministrator
 onboarding
-oncommand-insight
 ondemand
 one
-one-liner
 onedrive
 onedriveforbusiness
 oneget
@@ -5286,6 +5264,7 @@ oracle
 oraclecloudinfrastructure
 oraculum
 orbital
+orchestrate
 orchestration
 orchestrator
 order
@@ -5323,6 +5302,7 @@ oss
 ossec
 osubbillingschedule
 osuborganizationsubscription
+osubsubscription
 osubusage
 osx
 otel
@@ -5350,6 +5330,7 @@ overbite
 override
 ovf
 ovgd
+ovh
 owasp
 owls
 owner
@@ -5442,7 +5423,6 @@ passwordlockoutreport
 passwordmanagement
 passwordmanager
 passwords
-passwordsecure
 passwordspray
 passwordstate
 passwordtool
@@ -5671,7 +5651,6 @@ poshlog
 poshorigin
 poshproject
 poshprtg
-poshrest
 poshrsjob
 poshtemplate
 poshwsus
@@ -5731,6 +5710,7 @@ poshy-wrap-yum
 poshy-wrap-zypper
 position
 post
+postcode
 postgre
 postgres
 postgresql
@@ -5916,7 +5896,6 @@ profilevalidation
 proget
 program
 program-association
-programming
 programs
 progress
 progressbar
@@ -7783,7 +7762,6 @@ pscore
 pscredential
 pscribo
 pscustomobject
-psd
 psd1
 psdb
 psdefaultparametervalues
@@ -9002,7 +8980,6 @@ pwa
 pwned
 pwpush
 pwpush.com
-pwsafe
 pwsh
 pwsh.fw
 pwshake
@@ -9082,8 +9059,6 @@ rag
 raidcontrollercmdlets
 railways
 rainbow
-raindrop
-raindrop.io
 raisers
 raisersedge
 raj
@@ -9272,7 +9247,6 @@ remove
 remove-githubsecrets
 remove-itemproperty
 remove-pass
-remove-path
 remove-pinneditem
 remove-tempfiles
 removefile
@@ -9280,9 +9254,6 @@ removetypeaccelerators
 remux
 ren-isac
 rename
-rename-git
-rename-git-branch
-rename-gitbranch
 render
 reonboarding
 repair
@@ -9294,7 +9265,6 @@ repl
 replace
 replaygain
 replication
-repo
 repoo
 report
 reporting
@@ -9468,7 +9438,6 @@ runbooks
 runbookstudio
 runcommand
 rundeck
-runner
 runspace
 runspacepool
 runspaces
@@ -9494,7 +9463,6 @@ safe
 safeguard
 sage
 saggiehaim
-sailpoint
 sale
 sales
 salesforce
@@ -10584,7 +10552,6 @@ testlab
 testplans
 testreport
 tests
-testsuite
 testtag1
 testtag2
 testtool
@@ -10663,7 +10630,6 @@ timesheets
 timespan
 timestamp
 timezone
-tinkerpop
 tinymce
 tip
 tips
@@ -10903,7 +10869,6 @@ ud-toploader
 ud-trendline
 ud-typing
 ud-window
-ud-wordtree
 udcm
 uddi
 udfeedback
@@ -10914,7 +10879,6 @@ udr
 udthememode
 udword
 uefi
-uem
 ui
 ui/ux
 ui7
@@ -10949,6 +10913,7 @@ unique-files
 unit
 unit_testing
 unit-testing
+unitconvesion
 unittest
 unittesting
 unity
