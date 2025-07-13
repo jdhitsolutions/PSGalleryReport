@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Sunday, 13 July 2025 09:52:16 UTC
+Updated: Sunday, 13 July 2025 21:52:09 UTC
 
 .bat
 .env
@@ -167,6 +167,7 @@ adal
 adapter
 adapter-control
 adapters
+adaptive-card
 adaptivecard
 adaptivecards
 adb
@@ -346,6 +347,7 @@ amazonaws
 amazonmgn
 amazontitan
 amazonwebservices
+amend
 ami
 amiga
 amp
@@ -404,6 +406,7 @@ api
 api-client
 api-gateway
 api-rest
+apiaccesscontrol
 apichecks
 apiclient
 apigateway
@@ -1245,6 +1248,7 @@ chef-compliance
 chef-server
 chefconf2016
 chenxizhang
+cherrypy
 cherwell
 chfs
 chi
@@ -1674,6 +1678,8 @@ converttomd
 conway
 cookie
 coolq
+cooltag1
+cooltag2
 coordinates
 copilot
 copy
@@ -1736,6 +1742,7 @@ createschema
 createtable
 creationworkflowsimplification
 creator
+cred
 credential
 credential-dialog
 credential-file
@@ -1838,6 +1845,7 @@ customproviders
 cutehttpfileserver
 cvad
 cve
+cve-2021-34527
 cvrf
 cvss
 cwi
@@ -1932,7 +1940,6 @@ datarow
 datasafe
 datascience
 dataset
-datasetdependency
 datashare
 datasource
 datastore
@@ -2402,6 +2409,7 @@ dynamic
 dynamic-host-configuration-protocol
 dynamic-privileged-access
 dynamicdistributiongroups
+dynamicdistributionlist
 dynamicdnsoverhttps
 dynamicparam
 dynamicparameters
@@ -2660,7 +2668,6 @@ example
 examples
 excel
 exception
-exceptionless
 exchange
 exchange_online
 exchange-rates
@@ -2873,6 +2880,7 @@ finance
 finance&operations
 financeandoperations
 financeoperations
+finances
 financial
 financialedge
 financialmodeling
@@ -3278,7 +3286,6 @@ graphic
 graphics
 graphite
 graphql
-graphquerylanguage
 graphs
 graphservices
 graphviz
@@ -4079,6 +4086,8 @@ kubetidy
 kudu
 kurukuru
 kusto
+kusto.data
+kusto.ingest
 kvm
 kvp
 l1tf
@@ -4210,7 +4219,6 @@ linting
 linux
 linux-command
 linux-style
-linuxssh
 liquid
 list
 list_files
@@ -4496,7 +4504,7 @@ mchapv2
 mcp
 mct
 md5
-md5_v2-18232bfba2e90cd603582c78fa002427
+md5_v2-be7e35259c59f9e307f1d096365615c0
 mdatp
 mdb
 mdbc
@@ -4659,6 +4667,7 @@ miscellaneous
 misp
 mistral
 mistralai
+mitigation
 mitre
 mitre_att&ck
 mitrend
@@ -4979,6 +4988,7 @@ new-rdpsession
 new-samcmapplicationfrompackagedefinitionsms
 new-samcmpackagefrompackagedefinitionsms
 new-system
+new-udmorph
 new-win32app
 newpassword
 newrelic
@@ -5001,6 +5011,7 @@ nhl
 ni
 nic
 nic.ru
+nightmare
 ninite
 ninja
 ninjaone
@@ -5727,6 +5738,7 @@ poshy-wrap-vagrant
 poshy-wrap-vault
 poshy-wrap-vscode
 poshy-wrap-wget
+poshy-wrap-wt
 poshy-wrap-yum
 poshy-wrap-zypper
 position
@@ -5874,6 +5886,7 @@ printer
 printers
 printershare
 printing
+printnightmare
 printserver
 prism
 prism_element
@@ -7405,6 +7418,8 @@ pscommand_new-gitbranchtracked
 pscommand_new-gitpatchfile
 pscommand_new-isofile
 pscommand_new-viewerinvocationfunction
+pscommand_new-windowsterminalpane
+pscommand_new-windowsterminaltab
 pscommand_nginx_reload
 pscommand_nginx_restart
 pscommand_nginx_start
@@ -8672,6 +8687,8 @@ psfunction_new-gitbranchtracked
 psfunction_new-gitpatchfile
 psfunction_new-isofile
 psfunction_new-viewerinvocationfunction
+psfunction_new-windowsterminalpane
+psfunction_new-windowsterminaltab
 psfunction_nginx_reload
 psfunction_nginx_restart
 psfunction_nginx_start
@@ -9067,7 +9084,6 @@ quotestoliveby
 quoting
 quser
 qword
-r
 r53
 rabbit
 rabbitmq
@@ -9143,6 +9159,7 @@ real-time
 realschule
 realtimeprotection
 realvnc
+rebase
 reboot
 rebootnodeifneeded
 recastsoftware
@@ -9338,12 +9355,12 @@ resourcescheduler
 resourcesearch
 response
 rest
+rest_cherrypy
 rest-api
 restapi
 restart
 restful
 restore
-restrictive
 resume
 retail
 retention
@@ -9359,6 +9376,8 @@ reversedsc
 reverseengineering
 review
 revision
+reword
+rewrite
 rexec
 rfc1305
 rfc1436
@@ -9491,6 +9510,8 @@ sale
 sales
 salesforce
 salesloft
+salt
+salt-api
 saltstack
 saltstackconfig
 saltstackenterprise
@@ -9847,6 +9868,7 @@ sherweb
 shieldedvm
 ships
 shipsprovider
+shipstation
 shitpost
 shlink
 shodan
@@ -10097,6 +10119,7 @@ splunk
 spmt
 spn
 spo
+spooler
 sport
 sports
 sports-tracker
@@ -10166,9 +10189,7 @@ sse
 ssh
 ssh-config
 ssh-keygen
-sshmanagement
 sshserver
-sshservers
 ssis
 ssl
 sslcert
@@ -10278,7 +10299,6 @@ streaming
 streamreader
 streamwriter
 stretch
-strict
 strictmode
 strikethrough-text
 string
@@ -10297,6 +10317,7 @@ sts
 stt
 studio
 style
+su
 sub
 sub-directory
 sub-menu
@@ -10477,7 +10498,6 @@ taskmanagement
 tasks
 taskscheduler
 tatux
-taxjar
 taxonomy
 tcg
 tcp
@@ -11047,6 +11067,7 @@ ux
 v20
 vadim
 vagrant
+vale
 validate
 validate-dcb
 validatedsolutions
@@ -11307,6 +11328,7 @@ weaviatenet
 web
 web-browser
 web-framework
+web-hook
 web-search
 web-server
 web.config
@@ -11535,6 +11557,7 @@ wiz
 wizard
 wkhtmltopdf
 wlan
+wlms
 wmf
 wmf5
 wmi
