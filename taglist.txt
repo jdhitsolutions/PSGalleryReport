@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Sunday, 13 July 2025 21:52:09 UTC
+Updated: Monday, 14 July 2025 09:54:34 UTC
 
 .bat
 .env
@@ -654,6 +654,7 @@ automation
 automation psmodule
 automationaccount
 automationanywhere
+automationportal
 automationutils
 autonomoussystem
 autonomoussystemnumber
@@ -1141,7 +1142,6 @@ carbonawarecomputing
 carbonintensity
 card
 cardwirth
-cares
 cargo
 carousel
 carrier
@@ -1940,11 +1940,11 @@ datarow
 datasafe
 datascience
 dataset
+datasetdependency
 datashare
 datasource
 datastore
 datatable
-datatransfer
 dataverse
 date
 date-random
@@ -2098,7 +2098,6 @@ devicecode
 deviceid
 devicemanagement
 deviceprovisioningservice
-deviceregistry
 devicereports
 devices
 deviceupdate
@@ -2283,7 +2282,6 @@ domainkey
 domainkeys
 domainname
 domainnamesystem
-domains
 domino
 done.land
 donothing
@@ -2610,6 +2608,7 @@ espresso
 esri
 essbase
 est
+estimate
 estimation
 esx
 esxi
@@ -2668,6 +2667,7 @@ example
 examples
 excel
 exception
+exceptionless
 exchange
 exchange_online
 exchange-rates
@@ -3286,6 +3286,7 @@ graphic
 graphics
 graphite
 graphql
+graphquerylanguage
 graphs
 graphservices
 graphviz
@@ -3538,8 +3539,6 @@ html-templates
 htmlentity
 http
 http_proxy
-http-listener
-http-server
 httpclient
 httplistener
 httpqscollection
@@ -4219,6 +4218,7 @@ linting
 linux
 linux-command
 linux-style
+linuxssh
 liquid
 list
 list_files
@@ -9084,6 +9084,7 @@ quotestoliveby
 quoting
 quser
 qword
+r
 r53
 rabbit
 rabbitmq
@@ -9135,7 +9136,6 @@ rdb
 rdbms
 rdc
 rdcman
-rdcmanager
 rdfe
 rdg
 rdl
@@ -9361,6 +9361,7 @@ restapi
 restart
 restful
 restore
+restrictive
 resume
 retail
 retention
@@ -10189,7 +10190,9 @@ sse
 ssh
 ssh-config
 ssh-keygen
+sshmanagement
 sshserver
+sshservers
 ssis
 ssl
 sslcert
@@ -10299,6 +10302,7 @@ streaming
 streamreader
 streamwriter
 stretch
+strict
 strictmode
 strikethrough-text
 string
@@ -11327,10 +11331,8 @@ weaviate
 weaviatenet
 web
 web-browser
-web-framework
 web-hook
 web-search
-web-server
 web.config
 webadministration
 webapi
@@ -11396,7 +11398,6 @@ where
 whfb
 whiteboard
 whitespace
-who
 whoami
 whois
 whoiscmdlet
