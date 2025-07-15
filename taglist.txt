@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Tuesday, 15 July 2025 09:54:43 UTC
+Updated: Tuesday, 15 July 2025 21:52:16 UTC
 
 .bat
 .env
@@ -678,8 +678,6 @@ avalara
 avatar
 avatax
 avd
-ave
-avepoint
 avi
 avm
 avmtools
@@ -777,8 +775,6 @@ azurecli
 azurecodesigning
 azurecognitiveservices
 azurecommonstuff
-azurecontainerapps
-azurecontainers
 azuredatabricks
 azuredataexplorer
 azuredatastudio
@@ -1061,9 +1057,7 @@ bucket
 buddhist
 budget
 bugbounty
-bugzilla
 build
-build-log
 build-scripts
 build-test-publish
 buildautomation
@@ -1388,7 +1382,6 @@ cloudforensics
 cloudformation
 cloudfoundation
 cloudfront
-cloudgovernance
 cloudguard
 cloudhsm
 cloudinairy
@@ -1400,6 +1393,7 @@ cloudmigrations
 cloudml
 cloudpc
 cloudservice
+cloudshell
 cloudsync
 clueser
 cluster
@@ -2200,7 +2194,6 @@ distinguishedname
 distributed-systems
 distributed-tracing
 distributedcache
-distributeddatabase
 distributedfilesystem
 distribution
 distributiongroup
@@ -2566,7 +2559,6 @@ enumerable
 env
 environment
 environment-variables
-environmentmanagent
 environmentmodules
 environments
 environmentvariable
@@ -3318,7 +3310,6 @@ grr
 gsettings
 gsudo
 gsuite
-gtx1080ti
 guardedfabric
 guardicore
 gubbins
@@ -3381,7 +3372,6 @@ harvest
 harvestforecast
 hash
 hash-verification
-hashcat
 hashicorp
 hashing
 hashset
@@ -4200,6 +4190,7 @@ light
 lights
 lime
 limesurvey
+limit
 limit-job
 limits
 lina
@@ -4207,6 +4198,7 @@ line
 line-endings
 linear
 linearalgebra
+lingeringobjects
 link
 link-capability
 link-preview
@@ -4862,7 +4854,6 @@ mx
 mxlookup
 mycloudrevolution
 myget
-myhub
 myip
 myitprocess
 myjson
@@ -4875,7 +4866,6 @@ mysql-database
 mytest
 n-able
 n-central
-nabu
 nac
 nagios
 nakivo
@@ -5194,6 +5184,7 @@ ollama
 omada
 omaha
 ome
+omg
 omnisphere
 omnissa
 omnistack
@@ -5252,7 +5243,6 @@ openedge
 openfiles
 opengraph
 openhere
-openholidaysapi
 openid
 openidconnect
 openinghours
@@ -8882,7 +8872,6 @@ psgitlab
 psgraph
 psgraylog
 pshdhomerun
-pshost
 pshtml
 psidoit
 psidoitng
@@ -8950,9 +8939,6 @@ pssendgrid
 pssession
 pssharper
 psslack
-pssqlite
-pssqlitebynarymodule
-pssqlitemodule
 pssqlserver
 pssqlserverbynarymodule
 pssqlservermodule
@@ -8980,7 +8966,6 @@ public-transport
 publicapi
 publicclient
 publicfolder
-publicholidays
 publicip
 publish
 publish-module
@@ -9371,7 +9356,6 @@ restrictive
 resume
 retail
 retention
-retro
 retry
 returnuserprofile
 retype
@@ -9406,7 +9390,6 @@ rightcloud
 rightjoin
 rights
 rightsizing
-rightsmanagement
 ring
 ripe
 risk
@@ -9590,7 +9573,6 @@ schema
 schemaextensions
 scheme
 school-information-system
-schoolholidays
 schulung
 schulverwaltung
 science
@@ -9778,7 +9760,6 @@ servermanagement
 servers
 service
 service-bus
-service-messages
 servicebus
 servicebusforwindowsserver
 servicecatalog
@@ -10021,7 +10002,6 @@ snowflake
 snsmssqlpsmodule
 snspsadgroupmembers
 snspsscriptsmonitoring
-snssqlitepsmodule
 sntp
 soap
 soc
@@ -10117,7 +10097,6 @@ spfx
 sphere
 spi
 spicetify
-spinnaker
 splash
 splat
 splatting
@@ -10161,9 +10140,6 @@ sqldiagapi
 sqlexport
 sqlgateway
 sqlite
-sqlitebynarymodule
-sqlitebynarypsmodule
-sqlitemodule
 sqllocaldb
 sqlmanagementobjects
 sqlpackage
@@ -10190,6 +10166,7 @@ srcsvr
 srm
 srylius-write
 ssas
+ssc
 ssdt
 sse
 ssh
@@ -10313,8 +10290,6 @@ strikethrough-text
 string
 string-converter
 string-template
-stringmanager
-stringmanagertool
 strings
 stringtable
 stringutilities
@@ -10520,6 +10495,7 @@ tcptest
 tcx
 tcxaemgmt
 tdd
+teable
 teaching
 team
 teamcity
@@ -10561,7 +10537,6 @@ temporary
 tenable
 tenable.sc
 tenant
-tenantmanagercontrolplane
 teradata
 termbin
 terminal
@@ -10894,6 +10869,7 @@ ud-minesweeper
 ud-mouseparticle
 ud-navbarsearch
 ud-numbermask
+ud-orgchart
 ud-piechart3d
 ud-pivottable
 ud-progressstepbar
@@ -11302,7 +11278,6 @@ wait4x
 waitforobject
 wakeonlan
 wakeup
-walk
 wallet
 wallpaper
 wallpapers
