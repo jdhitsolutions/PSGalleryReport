@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Friday, 18 July 2025 21:52:16 UTC
+Updated: Saturday, 19 July 2025 09:52:16 UTC
 
 .bat
 .env
@@ -286,6 +286,7 @@ aim
 aimodels
 aip
 aiprompting
+aipscanner
 aircall
 airpower
 airpwr
@@ -400,6 +401,7 @@ anywhere
 aovpn psmodule
 apache
 apachekafka
+apexlegends
 api
 api-client
 api-gateway
@@ -575,6 +577,7 @@ asv
 asymmetric
 async
 asynchronous
+atempo
 atera
 athena
 atlas
@@ -589,7 +592,6 @@ atprotocol
 atrium
 att&ck
 attach
-attention
 attestation
 attila
 attribute
@@ -617,6 +619,7 @@ authenticationcertificate
 authenticationstrength
 authenticode
 authn
+author
 authoring
 authoringtools
 authorisation
@@ -791,7 +794,6 @@ azureinformationprotection
 azureiot
 azureiothub
 azurekeyvault
-azurekeyvaultstuff
 azurelocal
 azuremaps
 azuremigrate
@@ -988,7 +990,6 @@ bluetraitio
 bluetuxedo
 bmc
 bms
-bnm
 boards
 bofh
 boilerplate
@@ -1076,6 +1077,7 @@ builds
 buildtool
 bulk
 bulletin
+bullhorn
 bundle
 bup
 burnttoast
@@ -1370,7 +1372,6 @@ cloud-init
 cloud-iq
 cloud-security-configuration-review
 cloudai
-cloudant
 cloudbees
 cloudberry
 cloudblue
@@ -1385,7 +1386,6 @@ cloudfoundation
 cloudfront
 cloudgovernance
 cloudguard
-cloudhsm
 cloudinairy
 cloudinit
 cloudiq
@@ -1474,7 +1474,6 @@ color-rgb
 color-show
 colored
 colorful
-colorize
 colorized
 colorpicker
 colors
@@ -1491,6 +1490,7 @@ comical
 comics
 command
 command_line
+command-line-interface
 command-validation
 commandcoverage
 commandhistory
@@ -1501,6 +1501,7 @@ commands
 commandsandresource
 commence
 comment
+comments
 commerce
 commfort
 commit
@@ -1681,6 +1682,7 @@ copy
 copy-item
 copyfileex
 copypaste
+copyright
 core
 coreposh
 coreutils
@@ -2171,7 +2173,6 @@ discover
 discovery
 discutils
 disk
-disk_to_disk
 disk-space
 diskcleanup
 diskfree
@@ -2255,6 +2256,7 @@ dockerize
 dockerswarm
 docking
 docs
+docset
 document
 documentation
 documentdb
@@ -2896,6 +2898,7 @@ findfile
 findlocation
 findplace
 findproxyforurl
+fine-print
 fine-tuning
 finops
 firebird
@@ -2973,7 +2976,6 @@ formatdata
 formatformat-tableformat-listformat-wideformat-customformat-defaultout-defaultout-fileout-hostout-printerout-string
 formatter
 formatting
-formdata
 forms
 fortiauth
 forticlient
@@ -2998,6 +3000,7 @@ fountassist
 fox
 foxpro
 fqdn
+frame
 framework
 france
 free
@@ -3231,7 +3234,6 @@ golang
 golden_ticket
 goldengate
 goldsource
-goldsource-dedicated-server
 google
 google-chrome
 google-fonts
@@ -3411,7 +3413,6 @@ healthz
 heartbeatdiscovery
 heat
 heating
-heavenbay
 hebrew
 helium
 helix
@@ -3946,7 +3947,6 @@ joke
 jokes
 jotform
 journal
-journalctl
 joyride
 jpg
 jq
@@ -4104,6 +4104,7 @@ labtech
 labtest
 labview
 labworker
+lake
 lambda
 lambdatest
 lame
@@ -4192,6 +4193,7 @@ limesurvey
 limit
 limit-job
 limits
+lina
 line
 line-endings
 linear
@@ -4411,6 +4413,7 @@ mamagedidentity
 maml
 man-highlighting
 manage
+manage-wmi
 manageability
 managed
 managed-identity
@@ -4457,6 +4460,7 @@ marketplaceprivateoffer
 marketplacepublisher
 marking
 marklogic
+marquee
 marvel
 marvell
 marvell_semiconductor_inc
@@ -4590,6 +4594,7 @@ microsoft-graph
 microsoft-sentinel
 microsoft-teams
 microsoft-web-platform
+microsoft-windows
 microsoft.graph
 microsoft.graph.api
 microsoft.identity.client
@@ -4705,7 +4710,6 @@ moduleupdateinfo
 moduleupdater
 moduleversion
 mof
-moldova
 moment
 monaco
 monday
@@ -4825,7 +4829,6 @@ multicultural
 multidimenstional
 multimedia
 multios
-multipart
 multipass
 multiple
 multiserver
@@ -5460,7 +5463,6 @@ patching
 patchtuesday
 path
 pathfinder
-pathmanagement
 patternmatching
 paulo
 pause
@@ -5471,6 +5473,8 @@ paypal
 pays
 pbench
 pbip
+pbixtopbip
+pbixtopbit
 pc
 pcapng
 pci-dss
@@ -5608,6 +5612,7 @@ pluralsight
 ply
 pmp
 pncit
+png
 pnp
 pnp.powershell
 pnpm
@@ -5894,7 +5899,6 @@ privileged
 privilegedidentitymanagement
 privileges
 pro
-probability
 probe
 process
 process-inspector
@@ -9053,6 +9057,7 @@ quantum
 quarantine
 queries
 query
+queryexcel
 querystring
 question
 queue
@@ -9117,7 +9122,6 @@ razzle
 rbac
 rbacmodel
 rbsu
-rcon
 rcs
 rcu
 rdap
@@ -9908,8 +9912,6 @@ single
 singlestore
 singleton
 sinks
-sintez
-sintez.module.rds
 sit
 site
 site_navigation
@@ -10052,7 +10054,6 @@ sort-json
 sorting
 sounds
 source
-source-dedicated-server
 sourcecontrol
 sourceforge
 sourcegraph
@@ -10060,7 +10061,6 @@ sourceindexing
 sourcemod
 sourceone
 sourcepawn
-sourcequery
 sovcloud
 space
 spaces
@@ -10132,6 +10132,7 @@ sql-script
 sql-server
 sqlagent
 sqlautomation
+sqlbits
 sqlbrowser
 sqlbulkcopy
 sqlchangeautomation
@@ -10251,7 +10252,6 @@ stderr
 stdio
 stdout
 steam
-steam-games
 steamcmd
 stepper
 sticker
@@ -10688,9 +10688,6 @@ toc
 todo
 todo.txt
 toggl
-toggl-api
-toggl-api-powershell
-toggl-api-ps
 toggle
 token
 tokenlifetime
@@ -10895,7 +10892,6 @@ ud-singleselect
 ud-slider
 ud-speechbubble
 ud-step
-ud-stepbar
 ud-stickynavbar
 ud-timeline
 ud-tool
