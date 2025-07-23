@@ -1280,9 +1280,9 @@ DISCLAIMER: Features exposed through this module are not supported by Microsoft 
 
 __Downloads__: 4,407,019 | __Repository__: https://github.com/MichaelGrafnetter/DSInternals
 
-## [OSD](https://www.powershellgallery.com/Packages/OSD/25.7.22.3) | 25.7.22.3
+## [OSD](https://www.powershellgallery.com/Packages/OSD/25.7.23.1) | 25.7.23.1
 
-### Published: 07/22/2025 17:08:49 by David Segura . Gary Blok . Michael Escamilla
+### Published: 07/23/2025 05:12:54 by David Segura . Gary Blok . Michael Escamilla
 
 OSD PowerShell Module for Windows Deployment
 
@@ -1389,7 +1389,7 @@ __Downloads__: 3,473,766 | __Repository__: https://github.com/jdhitsolutions/Win
 
 Module with various generic functions that could be used in any script
 
-__Downloads__: 3,418,996 | __Repository__: https://github.com/masters274/core
+__Downloads__: 3,418,998 | __Repository__: https://github.com/masters274/core
 
 ## [WallpaperManager](https://www.powershellgallery.com/Packages/WallpaperManager/0.1.22) | 0.1.22
 
@@ -1637,7 +1637,7 @@ __Downloads__: 2,189,840 | __Repository__: https://www.hpe.com/servers/powershel
 
 SplitPipeline - Parallel Data Processing in PowerShell
 
-__Downloads__: 2,179,046 | __Repository__: https://github.com/nightroman/SplitPipeline
+__Downloads__: 2,179,048 | __Repository__: https://github.com/nightroman/SplitPipeline
 
 ## [SQLite](https://www.powershellgallery.com/Packages/SQLite/2.0) | 2.0
 
@@ -1669,7 +1669,7 @@ __Downloads__: 2,174,624 | __Repository__: https://github.com/mithrandyr/SimplyS
 
 Provides a function to retrieve an authentication token for Intune Graph API calls.
 
-__Downloads__: 2,162,101 | __Repository__: https://github.com/MSEndpointMgr/Intune/tree/master/Modules/PSIntuneAuth
+__Downloads__: 2,162,102 | __Repository__: https://github.com/MSEndpointMgr/Intune/tree/master/Modules/PSIntuneAuth
 
 ## [PowerNSX](https://www.powershellgallery.com/Packages/PowerNSX/3.0.1192) | 3.0.1192
 
@@ -2054,7 +2054,7 @@ __Downloads__: 1,133,523 | __Repository__: https://github.com/EvotecIT/MailoZaur
 
 This module allows you to connect to the Autotask REST API. The Autotask REST API was launched with version 2020.2
 
-__Downloads__: 1,129,535 | __Repository__: https://github.com/KelvinTegelaar/AutotaskAPI
+__Downloads__: 1,129,536 | __Repository__: https://github.com/KelvinTegelaar/AutotaskAPI
 
 ## [psake](https://www.powershellgallery.com/Packages/psake/4.9.1) | 4.9.1
 
@@ -2136,4 +2136,4 @@ PSTeams is a PowerShell Module working on Windows / Linux and Mac. It allows sen
 
 __Downloads__: 1,006,147 | __Repository__: https://github.com/EvotecIT/PSTeams
 
-*Updated: Tuesday, 22 July 2025 21:52:37 UTC*
+*Updated: Wednesday, 23 July 2025 09:54:35 UTC*

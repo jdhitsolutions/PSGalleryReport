@@ -1749,7 +1749,7 @@ __Downloads__: 23,699,640 | __Repository__: https://developer.broadcom.com/power
 
 DSC resources for configuring WS-Man.
 
-__Downloads__: 23,590,809 | __Repository__: https://github.com/dsccommunity/WSManDsc
+__Downloads__: 23,590,813 | __Repository__: https://github.com/dsccommunity/WSManDsc
 
 ## [xPowerShellExecutionPolicy](https://www.powershellgallery.com/Packages/xPowerShellExecutionPolicy/3.1.0.0) | 3.1.0.0
 
@@ -2146,4 +2146,4 @@ This PowerShell module contains PowerCLI VMC cmdlets.
 
 __Downloads__: 15,472,181 | __Repository__: https://developer.broadcom.com/powercli
 
-*Updated: Tuesday, 22 July 2025 21:52:35 UTC*
+*Updated: Wednesday, 23 July 2025 09:54:33 UTC*

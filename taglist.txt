@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Tuesday, 22 July 2025 21:52:40 UTC
+Updated: Wednesday, 23 July 2025 09:54:38 UTC
 
 .bat
 .env
@@ -55,6 +55,7 @@ Updated: Tuesday, 22 July 2025 21:52:40 UTC
 3d
 3dprinting
 3par
+4me
 50
 64
 650
@@ -367,6 +368,7 @@ analyticsrules
 analyze
 analyzer
 analyzerrules
+anchor
 and
 android
 anet
@@ -589,7 +591,6 @@ atlassian
 atlassiancli
 atlassianps
 atmosphere
-atom
 atp
 atproto
 atprotocol
@@ -1381,7 +1382,6 @@ cloud-init
 cloud-iq
 cloud-security-configuration-review
 cloudai
-cloudant
 cloudbees
 cloudberry
 cloudblue
@@ -1488,6 +1488,7 @@ colored
 colorful
 colorize
 colorized
+colorpicker
 colors
 colour
 column
@@ -1711,6 +1712,8 @@ couchbase
 couchdb
 couchpotato
 count
+count-lines-of-code
+count-loc
 countdown
 counter
 countries
@@ -2084,7 +2087,6 @@ desktopvirtualization
 details
 detect
 detection
-detectionrule
 deutschland
 dev
 dev-tools
@@ -2990,7 +2992,6 @@ format
 format-numberedlist
 formatdata
 formatformat-tableformat-listformat-wideformat-customformat-defaultout-defaultout-fileout-hostout-printerout-string
-formatter
 formatting
 formdata
 forms
@@ -3205,6 +3206,7 @@ git-lfs
 git-open
 git-proxy
 git-rename
+git-stat
 gitcmdline
 gitdesktop
 gitea
@@ -3387,6 +3389,7 @@ hartokens
 harvest
 harvestforecast
 hash
+hash-verification
 hashcat
 hashicorp
 hashing
@@ -4175,7 +4178,6 @@ learnpowershell
 lease
 leftjoin
 legacy
-legacyad
 legends
 lego
 lein
@@ -4260,6 +4262,7 @@ loader
 loadtesting
 loanddepot
 loandepot
+loc
 local
 local-account
 local-ai
@@ -4534,6 +4537,7 @@ mdx
 me4024
 mean
 measure
+measure-loc
 measure-process
 mecm
 media
@@ -4839,6 +4843,7 @@ multi-factor
 multi-language
 multi-platform
 multi-tenant
+multi-thread
 multi-threading
 multi-zone
 multicloud
@@ -4860,6 +4865,7 @@ musiccast
 mustache
 mutation
 mute
+mutex
 mva
 mvc
 mvn
@@ -5219,7 +5225,6 @@ onboarding
 oncommand-insight
 ondemand
 one
-one-liner
 onedrive
 onedriveforbusiness
 oneget
@@ -5793,6 +5798,7 @@ powermanagement
 powermax
 powerpack
 powerplan
+powerplateform
 powerplatform
 powerprotect
 powerprotect_datamanager
@@ -5941,6 +5947,7 @@ profilemanagement
 profilemigration
 profiler
 profiles
+profileupdater
 profilevalidation
 proget
 program
@@ -6015,7 +6022,6 @@ psake
 psappdeploytoolkit
 psat
 psazd
-psbackup
 psbbix
 psbicep
 psc
@@ -9243,6 +9249,7 @@ regression
 regular-expression
 regularexpression
 regularexpressions
+reinstall
 relational
 relativity
 relay
@@ -9899,7 +9906,6 @@ shutdown
 sid
 siem
 sif
-sigma
 sign
 signalfx
 signalr
@@ -10167,6 +10173,7 @@ sqlite
 sqlitebynarymodule
 sqlitebynarypsmodule
 sqlitemodule
+sqllocaldb
 sqlmanagementobjects
 sqlpackage
 sqlplus
@@ -10355,6 +10362,7 @@ subscriptiondefinition
 subset
 subsystem
 subtitle
+subtitles
 subversion
 success
 successfactors
@@ -10580,6 +10588,7 @@ terraform-switcher
 terraformcloud
 terrafun
 terragrunt
+tesla
 test
 test-automation
 test-dscconfiguration
@@ -10617,6 +10626,7 @@ text-to-image
 text-to-speach"
 text-to-speech
 text2image
+textanalysis
 textbuffer
 textgeneration
 texting
@@ -10914,6 +10924,7 @@ ud-stepbar
 ud-stickynavbar
 ud-tagcloud
 ud-timeline
+ud-timeout
 ud-tool
 ud-toploader
 ud-trendline
@@ -11125,7 +11136,6 @@ vector
 veeam
 veeampn
 veenendaal
-veeva
 venafi
 vencord
 vendor
@@ -11138,6 +11148,7 @@ verbose psmodule
 verification
 verify
 version
+versioncontrol
 versioning
 versionmanager
 versionnumber
@@ -11682,6 +11693,7 @@ xdschelper
 xdscresources
 xdt
 xenapp
+xendeskop
 xendesktop
 xero
 xevents
@@ -11714,6 +11726,7 @@ xsiam
 xtremio
 xtrude
 xunit
+xurrent
 xwiki
 xwindowsupdate
 xwith
