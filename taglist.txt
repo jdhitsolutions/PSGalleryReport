@@ -1,11 +1,10 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Thursday, 24 July 2025 09:54:38 UTC
+Updated: Thursday, 24 July 2025 21:52:10 UTC
 
 .bat
 .env
 .net
-.prom
 .ps1xml
 'azure'
 'blob storage'
@@ -311,6 +310,7 @@ alc
 alero
 alert
 alerting
+alertmail
 alertmanagement
 alerts
 alertsmanagement
@@ -386,6 +386,8 @@ anova
 ansi
 ansible
 ansible-control-node
+ansible-playbook
+ansible-vault
 ansiblecontrolnode
 ansibletower
 anthropic
@@ -807,6 +809,7 @@ azuremonitor
 azurenative
 azurenetworking
 azurepack
+azurepimstuff
 azurepipelines
 azurepolicy
 azurepowershell
@@ -1146,6 +1149,7 @@ carbon
 carbonawarecomputing
 carbonintensity
 card
+cardwirth
 cares
 cargo
 carousel
@@ -1266,7 +1270,6 @@ choco-bear
 chocobear
 chocolatey
 choice
-choose_file
 choose_file_name
 choose_folder
 chooser
@@ -1668,6 +1671,8 @@ convert-sid
 convert-windowsimage
 converter
 convertfrom
+convertfrom-json
+convertfrom-jsontohashtable
 convertfrom-string
 convertfrom-stringtable
 convertfrom-table
@@ -1680,6 +1685,7 @@ converttodocx
 converttohtml
 converttomarkdown
 converttomd
+conway
 cookie
 coolq
 cooltag1
@@ -2153,6 +2159,7 @@ directory-transform
 directorycleanup
 directorymanagement
 directorymarks
+directorymonitoring
 directoryname
 directorysearcher
 directorysecurity
@@ -3078,6 +3085,7 @@ gainz-sqldb
 gal
 gallery
 game
+game-of-life
 gamecategory:cards
 games
 gameserver
@@ -3221,7 +3229,6 @@ gitlab-runner
 gitlab4
 gitlabpipeline
 gitops
-glimps
 glob
 global
 globalclipboard
@@ -3502,7 +3509,6 @@ homelab
 homelandsecurity
 homeschooling
 hometheater
-hon
 hooking
 horizon
 horizontal
@@ -3657,6 +3663,7 @@ ikev2
 il
 illinois
 ilo
+ilo5
 ilocmdlets
 im
 image
@@ -4049,6 +4056,7 @@ keymapping
 keypair
 keysms
 keyusage
+keyvalue
 keyvault
 keywords
 kfum-spejderne
@@ -4862,7 +4870,6 @@ musiccast
 mustache
 mutation
 mute
-mutex
 mva
 mvc
 mvn
@@ -7818,7 +7825,6 @@ pscore
 pscredential
 pscribo
 pscustomobject
-psd
 psd1
 psdb
 psdefaultparametervalues
@@ -9309,7 +9315,6 @@ remove-itemproperty
 remove-pass
 remove-path
 remove-pinneditem
-remove-tempfiles
 removefile
 removetypeaccelerators
 remux
@@ -9469,6 +9474,7 @@ router
 routeros
 routes
 routetable
+routine
 rover
 royalapps
 royaldocument
@@ -10019,6 +10025,7 @@ smtpauth
 smtpclient
 smtpoauth
 smtpsasl
+smtpsecure
 snap
 snapchat
 snapping
@@ -10991,7 +10998,6 @@ unitconvesion
 unittest
 unittesting
 unity
-unitypackage
 universal
 universal-automation
 universal-dashboard
