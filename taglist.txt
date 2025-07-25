@@ -1,10 +1,11 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Thursday, 24 July 2025 21:52:10 UTC
+Updated: Friday, 25 July 2025 09:54:37 UTC
 
 .bat
 .env
 .net
+.prom
 .ps1xml
 'azure'
 'blob storage'
@@ -711,7 +712,6 @@ awspricelist
 awx
 axapta
 axcient
-axcient_x360recover
 axinom
 axis
 axium
@@ -986,8 +986,6 @@ blocks
 blog
 blogs
 bloodhound
-bloxone
-bloxoneddi
 bls
 blue
 bluedolhin
@@ -1029,7 +1027,6 @@ box
 bpmn
 brainy
 branch
-branch-rename
 brave
 brawlapi
 brawlstars
@@ -1270,6 +1267,7 @@ choco-bear
 chocobear
 chocolatey
 choice
+choose_file
 choose_file_name
 choose_folder
 chooser
@@ -2020,8 +2018,6 @@ decryption
 dedicatedhsm
 deduplication
 deep
-deep-security
-deep-security-manager
 deepl
 deepseek
 deepseek-coder
@@ -2827,7 +2823,6 @@ fiche
 fiddler
 fido
 fido2
-fieldglass
 fields
 fifa
 figlet
@@ -3209,7 +3204,6 @@ git-flow
 git-lfs
 git-open
 git-proxy
-git-rename
 git-stat
 gitcmdline
 gitdesktop
@@ -3229,6 +3223,7 @@ gitlab-runner
 gitlab4
 gitlabpipeline
 gitops
+glimps
 glob
 global
 globalclipboard
@@ -3408,7 +3403,6 @@ hba
 hbase
 hci
 hcl
-hcm
 hcp
 hcx
 hdfs
@@ -3509,6 +3503,7 @@ homelab
 homelandsecurity
 homeschooling
 hometheater
+hon
 hooking
 horizon
 horizontal
@@ -3669,22 +3664,13 @@ im
 image
 image-comparison
 image-converter
-image-creation
-image-generation
-image-process
-image-validation
 imagebuilder
-imagecreate
-imagecreation
 imagegeneration
 imageoftheday
-imageprocess
 imageprocessing
 images
 imageservicing
 imageslide
-imagevalidate
-imagevalidation
 imagga
 imagination
 imaging
@@ -4107,7 +4093,6 @@ kurukuru
 kusto
 kusto.data
 kusto.ingest
-kvm
 kvp
 l1tf
 l2tp
@@ -4128,7 +4113,6 @@ labtech
 labtest
 labview
 labworker
-lake
 lambda
 lambdatest
 lame
@@ -4197,7 +4181,6 @@ lgpo
 libgit2
 libraries
 library
-libvirt
 licence
 license
 license-generator
@@ -4870,6 +4853,7 @@ musiccast
 mustache
 mutation
 mute
+mutex
 mva
 mvc
 mvn
@@ -5350,7 +5334,6 @@ osm
 osmanagement
 osmanagementhub
 osp
-ospgateway
 osprovision
 osprovisioning
 osr
@@ -7825,6 +7808,7 @@ pscore
 pscredential
 pscribo
 pscustomobject
+psd
 psd1
 psdb
 psdefaultparametervalues
@@ -9061,7 +9045,6 @@ python3
 qatam
 qcloud
 qconvergeconsolepowerkit
-qemu
 qlgc_fc_powerkit
 qlik
 qlik-api
@@ -9315,14 +9298,12 @@ remove-itemproperty
 remove-pass
 remove-path
 remove-pinneditem
+remove-tempfiles
 removefile
 removetypeaccelerators
 remux
 ren-isac
 rename
-rename-git
-rename-git-branch
-rename-gitbranch
 render
 reonboarding
 repair
@@ -10531,7 +10512,6 @@ task-scheduler
 taskbar
 tasker
 taskgroup
-taskmanagement
 tasks
 taskscheduler
 tatux
@@ -10682,7 +10662,6 @@ threadsafe
 threadsanitizer
 threat
 threat-hunting
-threatdefense
 threathunting
 threatintelligence
 threatintelligenceindicators
@@ -10813,7 +10792,6 @@ trein
 trello
 trellops
 trend
-trend-micro
 trendmicro
 trevor
 trevorsullivan
@@ -10950,7 +10928,6 @@ ud-typing
 ud-window
 ud-wordtree
 udcm
-uddi
 udfeedback
 udp
 udpclient
@@ -10998,12 +10975,12 @@ unitconvesion
 unittest
 unittesting
 unity
+unitypackage
 universal
 universal-automation
 universal-dashboard
 universalarchive
 universaldashboard
-universalddi
 universialaccessgateway
 university
 unix
@@ -11186,7 +11163,6 @@ vigenere
 vim
 vimode
 virole
-virsh
 virtual
 virtualappliance
 virtualbox
