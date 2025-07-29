@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 28 July 2025 21:52:26 UTC
+Updated: Tuesday, 29 July 2025 09:54:56 UTC
 
 .bat
 .env
@@ -102,7 +102,6 @@ accord
 accord.net
 accordian
 account
-account-management
 accounting
 accounts
 ace
@@ -186,7 +185,6 @@ addlevel
 addomainservices
 addon
 address
-address-book
 addresses
 addressrange
 adds
@@ -201,6 +199,7 @@ adfstools
 adgroupmemberobjects
 adgroupmembers
 adgroups
+adidns
 adif
 adlds
 adm
@@ -511,6 +510,7 @@ arcresourcebridge
 arcus
 area
 arg
+argcomplete
 argument
 argumentcompleter
 arguments
@@ -648,7 +648,6 @@ autohotkey
 autolabeling
 autoload
 autologon
-automai
 automanage
 automate
 automated
@@ -996,6 +995,7 @@ blueprints
 bluesky
 blueteam
 bluetraitio
+bluetuxedo
 bmc
 bms
 bnm
@@ -1063,7 +1063,6 @@ bruteforce
 bson
 btdf
 btm
-bucket
 buddhist
 budget
 bugbounty
@@ -1278,7 +1277,6 @@ christmas
 chrome
 chromium
 chunk
-chunked
 churchofjesuschrist
 ci
 ci/cd
@@ -1471,7 +1469,6 @@ cognitiveservice
 cognitiveservices
 cohere
 cohesity
-coinbase
 coinflip
 coinmarketcap
 collaboration
@@ -1530,7 +1527,6 @@ community
 compare
 comparison
 compatibility
-compatible
 compile
 compiler
 complete
@@ -1639,8 +1635,6 @@ containment
 content
 contentprep
 context
-continious-deploy
-continious-integration
 continiousintergration
 continous
 continuous
@@ -1794,7 +1788,6 @@ crt.sh
 crud
 crx
 crypto
-crypto-currency
 cryptocompare
 cryptocurrency
 cryptography
@@ -2021,6 +2014,8 @@ decryption
 dedicatedhsm
 deduplication
 deep
+deep-security
+deep-security-manager
 deepl
 deepseek
 deepseek-coder
@@ -2076,7 +2071,6 @@ der
 description
 deserialize
 design
-design-pattern
 desired
 desiredstate
 desiredstateconfiguration
@@ -2162,7 +2156,6 @@ directorymonitoring
 directoryname
 directorysearcher
 directorysecurity
-directoryservices
 directrouting
 directus
 direnv
@@ -2294,6 +2287,7 @@ domaincontroller
 domainkey
 domainkeys
 domainname
+domainnamesystem
 domains
 domino
 done.land
@@ -2477,6 +2471,7 @@ egrep
 eid
 eigencontroles
 einstein
+eklient psedition_core psedition_desktop
 eku
 elapsed
 elastic
@@ -2712,6 +2707,7 @@ executionalias
 exexml
 exif
 exiftool
+exists
 exitcode
 exitprocessrequest
 exo
@@ -3313,6 +3309,7 @@ grep
 greynoise
 grid
 gridfs
+gridview
 grok
 groundspeak
 group
@@ -3549,7 +3546,6 @@ hrprovisioning
 hsdp
 hsl
 html
-html-templates
 htmlentity
 http
 http_proxy
@@ -3715,6 +3711,7 @@ incidents
 incontact
 indents
 index
+indexdb
 indicator
 indicators
 inedo
@@ -3847,7 +3844,6 @@ ios
 iot
 iotcentral
 iothub
-iothubproperties
 iotoperationsservice
 ip
 ip_cameras
@@ -4264,11 +4260,9 @@ loanddepot
 loandepot
 loc
 local
-local-account
 local-ai
 local-caching
 local-policy
-local-users
 localaccounts
 localadmin
 localconfigurationmanager
@@ -4287,7 +4281,6 @@ lock
 lockbox
 lockdisplaytimeout
 lockdown
-lockfile
 locking
 lockoutreport
 lockscreen
@@ -4355,6 +4348,7 @@ lolcat
 longfile
 longfiles
 longitude
+look
 lookup
 lookupaccountname
 lookupaccountsid
@@ -4480,7 +4474,6 @@ marketplaceordering
 marketplaceprivateoffer
 marketplacepublisher
 marking
-marklogic
 marquee
 marvel
 marvell
@@ -4508,7 +4501,6 @@ max
 max_path
 maximum
 maxoffice
-mazerat
 mb
 mbc
 mbs
@@ -4662,7 +4654,6 @@ migration-tool
 migrations
 mikrotik
 milestone
-milestonepstools
 mim
 mime
 mimekit
@@ -4674,7 +4665,6 @@ minifier
 minimal
 minimalist-framework
 minimum
-minio
 mip
 mipsdk
 miration-step
@@ -4693,7 +4683,6 @@ mixedreality
 mixer
 mkdocs
 mkpasswd
-mksapiviewer
 ml
 ml.net
 mlflow
@@ -4837,7 +4826,6 @@ msword
 mta-sts
 mule
 mulesoft
-multi
 multi-agent
 multi-factor
 multi-language
@@ -4868,11 +4856,11 @@ mutation
 mute
 mutex
 mva
-mvc
 mvn
 mvp
 mwsqlserver
 mx
+mxlookup
 mycloudrevolution
 myget
 myhub
@@ -4890,7 +4878,6 @@ n-able
 n-central
 nabu
 nac
-nagios
 nakivo
 name
 name-of-dogs
@@ -5015,6 +5002,7 @@ news
 newspaper
 newtonsoft
 newtonsoft.json
+nexacore
 nexenta
 nexentastor
 nextcloud
@@ -5105,8 +5093,6 @@ nsxt
 ntdll
 ntds
 ntfs
-ntfy
-ntfypwsh
 ntp
 ntsystems
 nuget
@@ -5150,6 +5136,7 @@ obfuscation
 obj
 object
 objectid
+objects
 objectstorage
 objecttree
 obs
@@ -5347,7 +5334,6 @@ osp
 ospgateway
 osprovision
 osprovisioning
-osr
 oss
 ossec
 osubbillingschedule
@@ -5361,6 +5347,8 @@ ou
 ou-object
 oui
 oui-search
+oura
+ouraring
 out-consolegridview
 out-default
 out-gridview
@@ -5597,7 +5585,6 @@ pivot
 pivotal
 pivottable
 pixoo
-pkce
 pkgx
 pki
 pki psmodule
@@ -5725,6 +5712,7 @@ poshy-sshconfig
 poshy-viewer-finder
 poshy-wrap
 poshy-wrap-apt
+poshy-wrap-argcomplete
 poshy-wrap-brew
 poshy-wrap-curl
 poshy-wrap-dnf
@@ -5792,7 +5780,6 @@ powerdex
 powerforensics
 powergraph
 powergui
-powermanagement
 powermax
 powerpack
 powerplan
@@ -5831,6 +5818,7 @@ powershell-terminal-copilot
 powershell-training
 powershell.module.invokewinget
 powershell.one
+powershell.persistentpathstack
 powershell7
 powershellai
 powershellazuresql
@@ -5925,7 +5913,6 @@ pro
 probability
 probe
 process
-process-inspector
 processing
 processmitigation
 processor
@@ -7538,6 +7525,7 @@ pscommand_python
 pscommand_python3
 pscommand_rb
 pscommand_read-dotenv
+pscommand_register-argcompleteargumentcompleter
 pscommand_remove_gem
 pscommand_remove-dockercontainerall
 pscommand_remove-dockerunusedimage
@@ -8756,6 +8744,7 @@ psfunction_push-gitstashentrywithmessage
 psfunction_pwshrc-show-proxy
 psfunction_pyserver
 psfunction_read-dotenv
+psfunction_register-argcompleteargumentcompleter
 psfunction_remove-dockercontainerall
 psfunction_remove-dockerunusedimage
 psfunction_remove-envpathitem
@@ -8895,7 +8884,6 @@ psgitlab
 psgraph
 psgraylog
 pshdhomerun
-pshost
 pshtml
 psidoit
 psidoitng
@@ -8985,7 +8973,6 @@ pswriteword
 psyaml
 pszabbix
 ptc
-ptcintegrity
 pubg
 public
 public-key
@@ -9081,6 +9068,7 @@ quantum
 quarantine
 queries
 query
+queryexcel
 querystring
 question
 queue
@@ -9111,6 +9099,7 @@ radarr
 radio
 rag
 raidcontrollercmdlets
+railways
 rainbow
 raindrop
 raindrop.io
@@ -9195,6 +9184,7 @@ recruiter
 recrutch
 recurse
 recursion
+recursive
 recursivefilesandfoldersdownload
 recursivefilesandfoldersupload
 recyclebin
@@ -9293,7 +9283,6 @@ remotehost
 remotelocalgroup
 remotelogoff
 remotemanagement
-remotepro
 remoteregistry
 remotesession
 remoting
@@ -9414,12 +9403,12 @@ rhapsody
 ribbon
 ribcl
 richtext
-ricoh
 rightcloud
 rightjoin
 rights
 rightsizing
 rightsmanagement
+ring
 ripe
 risk
 riskiq
@@ -9548,9 +9537,6 @@ sandbox
 sanitization
 sanitizer
 sap
-sapazure
-saponazure
-sapstartstopazure
 sarcasm
 sarif
 sas
@@ -9884,7 +9870,6 @@ shell
 shell-art
 shell-integration
 shells
-sherweb
 shieldedvm
 ships
 shipsprovider
@@ -9974,7 +9959,6 @@ skytap
 slack
 slash
 slashcommands
-sleep
 sleeper
 slideshow
 slmgr
@@ -10076,6 +10060,7 @@ soonr
 soonragent
 sophos
 sort
+sort-json
 sorting
 sounds
 source
@@ -10096,7 +10081,6 @@ spam
 spamtitan
 spanner
 spark
-sparkline
 sparklines
 spawn
 spdockit
@@ -10245,7 +10229,6 @@ stanc
 standard
 standarderror
 standardoutput
-standards
 standbypool
 stansummary
 start
@@ -10378,6 +10361,7 @@ suggestion
 suitecrm
 sullivan
 summary
+summit
 sumologic
 supercell
 superheros
@@ -10442,6 +10426,7 @@ sysinfocmdlets
 sysinternals
 syskit
 syslog
+sysman
 sysmon
 sysop
 syspass
@@ -10567,8 +10552,6 @@ temp
 temperature
 template
 template-engine
-template-utility
-templater
 templates
 templating
 temporary
@@ -10624,7 +10607,6 @@ text_to_speech
 text-based
 text-emoji
 text-emojis
-text-templates
 text-to-image
 text-to-speach"
 text-to-speech
@@ -10798,6 +10780,7 @@ trein
 trello
 trellops
 trend
+trend-micro
 trendmicro
 trevor
 trevorsullivan
@@ -10836,7 +10819,6 @@ tst
 tst1
 tst3
 tsv
-ttrpg
 tts
 tubedownloader
 tui
@@ -10982,7 +10964,6 @@ unitconvesion
 unittest
 unittesting
 unity
-unitypackage
 universal
 universal-automation
 universal-dashboard
@@ -11395,7 +11376,6 @@ websphereportal
 webtest
 webtesting
 webtime
-webview2
 wec
 wecutil
 weekday
@@ -11471,7 +11451,6 @@ win32appmigrationtool
 win32shutdown
 winbgp
 windbg
-windchillrv&s
 window
 windows
 windows  server
@@ -11507,6 +11486,7 @@ windowscredentialsmanager
 windowsdataprotectionapi
 windowsdefender
 windowsdesktop
+windowsdesktopsearch
 windowsdirectories
 windowsdiskcleanup
 windowsdomain
@@ -11737,7 +11717,6 @@ yahw
 yamaha
 yaml
 yandex
-yandexdisk
 yapg
 yarn
 yaugeraio
