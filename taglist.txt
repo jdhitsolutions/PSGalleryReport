@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Tuesday, 29 July 2025 09:54:56 UTC
+Updated: Tuesday, 29 July 2025 21:52:50 UTC
 
 .bat
 .env
@@ -102,6 +102,7 @@ accord
 accord.net
 accordian
 account
+account-management
 accounting
 accounts
 ace
@@ -117,8 +118,6 @@ act!
 actifio
 actifiogo
 action
-action1
-actionablemessages
 actiongroup
 actionhero
 actionplan
@@ -185,6 +184,7 @@ addlevel
 addomainservices
 addon
 address
+address-book
 addresses
 addressrange
 adds
@@ -289,7 +289,6 @@ aircall
 airpower
 airpwr
 airtable
-ais
 aispeech
 aiutilities
 aivision
@@ -648,6 +647,7 @@ autohotkey
 autolabeling
 autoload
 autologon
+automai
 automanage
 automate
 automated
@@ -659,6 +659,7 @@ automation psmodule
 automationaccount
 automationanywhere
 automationportal
+automations
 automationutils
 autonomoussystem
 autonomoussystemnumber
@@ -1000,7 +1001,6 @@ bmc
 bms
 bnm
 boards
-bofh
 boilerplate
 boinc
 bold-text
@@ -1063,6 +1063,7 @@ bruteforce
 bson
 btdf
 btm
+bucket
 buddhist
 budget
 bugbounty
@@ -1277,6 +1278,7 @@ christmas
 chrome
 chromium
 chunk
+chunked
 churchofjesuschrist
 ci
 ci/cd
@@ -1469,6 +1471,7 @@ cognitiveservice
 cognitiveservices
 cohere
 cohesity
+coinbase
 coinflip
 coinmarketcap
 collaboration
@@ -1527,6 +1530,7 @@ community
 compare
 comparison
 compatibility
+compatible
 compile
 compiler
 complete
@@ -1546,7 +1550,6 @@ compositeresource
 compoundproperty
 compress
 compression
-compromised
 compute
 compute-ops-management
 computecloudatcustomer
@@ -1635,6 +1638,8 @@ containment
 content
 contentprep
 context
+continious-deploy
+continious-integration
 continiousintergration
 continous
 continuous
@@ -1788,6 +1793,7 @@ crt.sh
 crud
 crx
 crypto
+crypto-currency
 cryptocompare
 cryptocurrency
 cryptography
@@ -2071,6 +2077,7 @@ der
 description
 deserialize
 design
+design-pattern
 desired
 desiredstate
 desiredstateconfiguration
@@ -2156,8 +2163,8 @@ directorymonitoring
 directoryname
 directorysearcher
 directorysecurity
+directoryservices
 directrouting
-directus
 direnv
 dirkjan
 dirname
@@ -2324,6 +2331,7 @@ dps
 dq
 dr
 draw
+drawing
 drawio
 dreams
 dreamweaver
@@ -2396,7 +2404,6 @@ dumpify
 dumping
 dumps
 duo
-duosecurity
 dupes
 duplicate
 duplicate-files
@@ -2435,7 +2442,6 @@ dynatrace
 dynatraceobservability
 dz
 e-mail
-e1
 earthquakes
 easy
 easy-to-use
@@ -2755,6 +2761,7 @@ extensionmethods
 extensionrisk
 extensions
 external
+external-editor
 externalip
 extract
 extraction
@@ -3005,7 +3012,6 @@ fortune
 forum
 forwardcompatibility
 forwardedevents
-forwarding
 foudil
 foundationmodels
 fount
@@ -3014,6 +3020,7 @@ fountassist
 fox
 foxpro
 fqdn
+fractal
 frame
 framework
 france
@@ -3442,7 +3449,6 @@ help
 helpdesk
 helpdoc
 helper
-helper-functions
 helperfunctions
 helpers
 helpfile
@@ -3546,6 +3552,7 @@ hrprovisioning
 hsdp
 hsl
 html
+html-templates
 htmlentity
 http
 http_proxy
@@ -3650,7 +3657,6 @@ ifttt
 igel
 igr
 ihs
-iiittttt
 iis
 iisadministration
 iiscrypto
@@ -3701,7 +3707,6 @@ importer
 importexport
 importteams
 inactive
-inbox_rules
 inboxrule
 incident
 incident_response
@@ -3844,6 +3849,7 @@ ios
 iot
 iotcentral
 iothub
+iothubproperties
 iotoperationsservice
 ip
 ip_cameras
@@ -3932,7 +3938,6 @@ javascript
 javaversion
 jboss
 jdbc
-jde
 jdedwards
 jdk
 jdt
@@ -4026,7 +4031,6 @@ keepasslib
 keepawake
 keeper
 kelverion
-kelvin
 kentico
 kerberos
 kernel32
@@ -4102,6 +4106,7 @@ kusto.data
 kusto.ingest
 kvm
 kvp
+l-system
 l1tf
 l2tp
 lab
@@ -4207,7 +4212,6 @@ light
 lights
 lime
 limesurvey
-limit
 limit-job
 limits
 lina
@@ -4260,9 +4264,11 @@ loanddepot
 loandepot
 loc
 local
+local-account
 local-ai
 local-caching
 local-policy
+local-users
 localaccounts
 localadmin
 localconfigurationmanager
@@ -4281,6 +4287,7 @@ lock
 lockbox
 lockdisplaytimeout
 lockdown
+lockfile
 locking
 lockoutreport
 lockscreen
@@ -4474,6 +4481,7 @@ marketplaceordering
 marketplaceprivateoffer
 marketplacepublisher
 marking
+marklogic
 marquee
 marvel
 marvell
@@ -4501,6 +4509,7 @@ max
 max_path
 maximum
 maxoffice
+mazerat
 mb
 mbc
 mbs
@@ -4654,6 +4663,7 @@ migration-tool
 migrations
 mikrotik
 milestone
+milestonepstools
 mim
 mime
 mimekit
@@ -4665,6 +4675,7 @@ minifier
 minimal
 minimalist-framework
 minimum
+minio
 mip
 mipsdk
 miration-step
@@ -4683,6 +4694,7 @@ mixedreality
 mixer
 mkdocs
 mkpasswd
+mksapiviewer
 ml
 ml.net
 mlflow
@@ -4826,6 +4838,7 @@ msword
 mta-sts
 mule
 mulesoft
+multi
 multi-agent
 multi-factor
 multi-language
@@ -4856,6 +4869,7 @@ mutation
 mute
 mutex
 mva
+mvc
 mvn
 mvp
 mwsqlserver
@@ -4878,6 +4892,7 @@ n-able
 n-central
 nabu
 nac
+nagios
 nakivo
 name
 name-of-dogs
@@ -5093,6 +5108,8 @@ nsxt
 ntdll
 ntds
 ntfs
+ntfy
+ntfypwsh
 ntp
 ntsystems
 nuget
@@ -5334,6 +5351,7 @@ osp
 ospgateway
 osprovision
 osprovisioning
+osr
 oss
 ossec
 osubbillingschedule
@@ -5359,7 +5377,6 @@ outline
 outlook
 outpainting
 output
-output-to-image
 outreach
 outsystems
 overbite
@@ -5537,7 +5554,6 @@ pf
 pfe
 pfsense
 pfx
-pfy
 pgp
 phabricator
 philips
@@ -5585,6 +5601,7 @@ pivot
 pivotal
 pivottable
 pixoo
+pkce
 pkgx
 pki
 pki psmodule
@@ -5780,6 +5797,7 @@ powerdex
 powerforensics
 powergraph
 powergui
+powermanagement
 powermax
 powerpack
 powerplan
@@ -5913,6 +5931,7 @@ pro
 probability
 probe
 process
+process-inspector
 processing
 processmitigation
 processor
@@ -8884,10 +8903,10 @@ psgitlab
 psgraph
 psgraylog
 pshdhomerun
+pshost
 pshtml
 psidoit
 psidoitng
-psimport
 psincludes_cmdlet
 psincludes_command
 psincludes_function
@@ -8902,7 +8921,6 @@ psjobthreads
 pskeepass
 psllm
 pslocalgallery
-psloganalytics
 psm
 psm1
 psmodule
@@ -8973,6 +8991,7 @@ pswriteword
 psyaml
 pszabbix
 ptc
+ptcintegrity
 pubg
 public
 public-key
@@ -9145,7 +9164,6 @@ rdcman
 rdcmanager
 rdfe
 rdg
-rdl
 rdm
 rdp
 rdpsession
@@ -9283,6 +9301,7 @@ remotehost
 remotelocalgroup
 remotelogoff
 remotemanagement
+remotepro
 remoteregistry
 remotesession
 remoting
@@ -9403,6 +9422,7 @@ rhapsody
 ribbon
 ribcl
 richtext
+ricoh
 rightcloud
 rightjoin
 rights
@@ -9537,7 +9557,9 @@ sandbox
 sanitization
 sanitizer
 sap
-sarcasm
+sapazure
+saponazure
+sapstartstopazure
 sarif
 sas
 sat
@@ -9870,6 +9892,7 @@ shell
 shell-art
 shell-integration
 shells
+sherweb
 shieldedvm
 ships
 shipsprovider
@@ -9929,7 +9952,6 @@ site_navigation
 sitecollection
 siteconfiguration
 sitecore
-sitecoresearch
 sitemaintenance
 sitemap
 siterecovery
@@ -9959,6 +9981,7 @@ skytap
 slack
 slash
 slashcommands
+sleep
 sleeper
 slideshow
 slmgr
@@ -10081,6 +10104,7 @@ spam
 spamtitan
 spanner
 spark
+sparkline
 sparklines
 spawn
 spdockit
@@ -10229,6 +10253,7 @@ stanc
 standard
 standarderror
 standardoutput
+standards
 standbypool
 stansummary
 start
@@ -10428,7 +10453,6 @@ syskit
 syslog
 sysman
 sysmon
-sysop
 syspass
 syspip
 syspip3
@@ -10503,6 +10527,7 @@ tasker
 taskgroup
 taskmanagement
 tasks
+tasksbyme
 taskscheduler
 tatux
 taxjar
@@ -10552,6 +10577,8 @@ temp
 temperature
 template
 template-engine
+template-utility
+templater
 templates
 templating
 temporary
@@ -10607,7 +10634,7 @@ text_to_speech
 text-based
 text-emoji
 text-emojis
-text-to-image
+text-templates
 text-to-speach"
 text-to-speech
 text2image
@@ -10670,8 +10697,6 @@ time
 timeout
 timer
 timeseriesinsights
-timesheet
-timesheets
 timespan
 timestamp
 timezone
@@ -10819,12 +10844,14 @@ tst
 tst1
 tst3
 tsv
+ttrpg
 tts
 tubedownloader
 tui
 tulpep
 tuner
 tuning
+turtle
 tutorial
 tv
 tvguide
@@ -10964,6 +10991,7 @@ unitconvesion
 unittest
 unittesting
 unity
+unitypackage
 universal
 universal-automation
 universal-dashboard
@@ -11376,6 +11404,7 @@ websphereportal
 webtest
 webtesting
 webtime
+webview2
 wec
 wecutil
 weekday
@@ -11451,6 +11480,7 @@ win32appmigrationtool
 win32shutdown
 winbgp
 windbg
+windchillrv&s
 window
 windows
 windows  server
@@ -11469,6 +11499,7 @@ windows-powershell
 windows-registry
 windows-remoting
 windows-server-2016
+windows-switcher
 windows-terminal
 windows-user-folder
 windows-user-profile
@@ -11546,7 +11577,6 @@ winui
 wired
 wireless
 wirelessnetwork
-wireshark
 wisc
 wiscmail
 wisco365
@@ -11620,7 +11650,6 @@ write-debug
 write-host
 write-information
 write-log
-write-loganalytics
 write-message
 write-progress
 write-slog
@@ -11717,6 +11746,7 @@ yahw
 yamaha
 yaml
 yandex
+yandexdisk
 yapg
 yarn
 yaugeraio
