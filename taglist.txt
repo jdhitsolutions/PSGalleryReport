@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Wednesday, 30 July 2025 09:55:35 UTC
+Updated: Wednesday, 30 July 2025 21:52:47 UTC
 
 .bat
 .env
@@ -419,6 +419,7 @@ apigateway
 apigee
 apigeeedge
 apimanagement
+apiplatform
 apis
 aplication
 apm
@@ -722,6 +723,7 @@ az
 az-cli
 az.runtimeenvironment
 az.stackhci
+azaitranslate
 azautomation
 azcli
 azcompute
@@ -768,6 +770,7 @@ azureadgraph
 azureadpreview
 azureadtoolkit
 azureadvancedthreatprotection
+azureaitranslator
 azureappconfiguration
 azureapplicationstuff
 azurearc
@@ -852,6 +855,7 @@ backconnection
 backconnectionhostname
 backend
 backup
+backup_validation
 bamboo
 bamboohr
 bandwidth
@@ -1029,6 +1033,7 @@ box
 bpmn
 brainy
 branch
+branch-rename
 brave
 brawlapi
 brawlstars
@@ -1095,11 +1100,8 @@ bus
 business
 business_email_compromise
 businesscentral
-businessdays
-businesshours
 businessobjects
 businessrulesengine
-businesstime
 bxor
 bydesign
 byexample
@@ -1504,7 +1506,6 @@ comical
 comics
 command
 command_line
-command-line
 command-line-interface
 command-validation
 commandcoverage
@@ -1972,6 +1973,7 @@ datum
 dave
 davinci
 dax
+dayinweek
 days
 days-week
 db
@@ -2502,6 +2504,7 @@ elk
 elm
 elmah-io
 elonmusk
+eloomi
 eloqua
 elvish
 elvui
@@ -3074,7 +3077,6 @@ functionality
 functionalprogramming
 functionapp
 functions
-funds
 funny
 fusion
 fusionapps
@@ -3103,6 +3105,7 @@ gavin
 gavineke
 gbl
 gc
+gcbdr
 gce
 gci
 gcloud
@@ -3123,9 +3126,7 @@ generate
 generate-dockerimagevariants
 generate-password
 generate-random-password
-generateaddress
 generates
-generatewif
 generation
 generativeai
 generativeaiagent
@@ -3212,6 +3213,7 @@ git-flow
 git-lfs
 git-open
 git-proxy
+git-rename
 git-stat
 gitcmdline
 gitdesktop
@@ -3360,6 +3362,7 @@ hack
 hacking
 hacktoberfest
 hadoop
+hafr
 haiku
 hailstone
 haipa
@@ -3595,6 +3598,7 @@ hyperlinked-text
 hyperthreading
 hyperv
 hypervisor
+hypervplugins
 hypothesis
 hysolate
 hysolatemangementconsole
@@ -3643,10 +3647,8 @@ identitydataplane
 identitydirector
 identitydomains
 identitynow
-identitysecuritycloud
 idf
 idm
-idn
 idna
 idoit
 idrac
@@ -3789,6 +3791,7 @@ integratedscriptingeditor
 integration
 integrationaccount
 integrationruntime
+integrationruntimedependency
 integrationservicescatalog
 integrity
 intel
@@ -4157,6 +4160,7 @@ latestupdate
 latin
 latitude
 launcher
+laws
 layer
 layman
 layout
@@ -4555,7 +4559,6 @@ meesman
 meeting
 meetup
 meetup.com
-meewind
 megabyte
 melamed
 meltdown
@@ -4606,7 +4609,6 @@ micro-framework
 micro-orm
 microfocus
 microk8s
-micropython
 microservices
 microsoft
 microsoft_365
@@ -5654,6 +5656,7 @@ pnpm
 poc
 podcast
 pode
+podman
 poe
 poem
 poetry
@@ -5760,6 +5763,7 @@ poshy-wrap-pipenv
 poshy-wrap-pyenv
 poshy-wrap-pylint
 poshy-wrap-python
+poshy-wrap-ruby
 poshy-wrap-systemctl
 poshy-wrap-terraform
 poshy-wrap-terragrunt
@@ -7053,6 +7057,9 @@ pscommand_invoke-piplistoutdated
 pscommand_invoke-pipuninstall
 pscommand_invoke-pyenv
 pscommand_invoke-pylintreportsdisabled
+pscommand_invoke-ruby
+pscommand_invoke-rubyexecute
+pscommand_invoke-rubyexecutehttpdhere
 pscommand_invoke-systemctl-add-requires
 pscommand_invoke-systemctl-add-wants
 pscommand_invoke-systemctl-cancel
@@ -7544,6 +7551,7 @@ pscommand_pylint-quick
 pscommand_pyserver
 pscommand_python
 pscommand_python3
+pscommand_rb
 pscommand_read-dotenv
 pscommand_register-argcompleteargumentcompleter
 pscommand_remove_gem
@@ -7571,6 +7579,8 @@ pscommand_reset-gitworkingtreetolastcommitlosechanges
 pscommand_reset-gitworkingtreetolastcommitlosechangesandcleanfully
 pscommand_resume-gitbranchbaseupdate
 pscommand_resume-gitcherrypick
+pscommand_rrun
+pscommand_rserver
 pscommand_sc-disable-now
 pscommand_sc-enable-now
 pscommand_sc-mask-now
@@ -8462,6 +8472,9 @@ psfunction_invoke-piplistoutdated
 psfunction_invoke-pipuninstall
 psfunction_invoke-pyenv
 psfunction_invoke-pylintreportsdisabled
+psfunction_invoke-ruby
+psfunction_invoke-rubyexecute
+psfunction_invoke-rubyexecutehttpdhere
 psfunction_invoke-systemctl-add-requires
 psfunction_invoke-systemctl-add-wants
 psfunction_invoke-systemctl-cancel
@@ -8903,7 +8916,6 @@ pshost
 pshtml
 psidoit
 psidoitng
-psimport
 psincludes_cmdlet
 psincludes_command
 psincludes_function
@@ -9316,6 +9328,9 @@ removetypeaccelerators
 remux
 ren-isac
 rename
+rename-git
+rename-git-branch
+rename-gitbranch
 render
 reonboarding
 repair
@@ -9382,7 +9397,6 @@ restapi
 restart
 restful
 restore
-restrictive
 results
 resume
 retail
@@ -9654,7 +9668,6 @@ scriptcs
 scriptedui
 scripting
 scriptlog
-scriptlogging
 scriptmodule
 scriptoform
 scriptrunner
@@ -10142,7 +10155,6 @@ splat
 splatting
 split
 splunk
-spmt
 spn
 spo
 spoofing
@@ -10328,7 +10340,6 @@ streaming
 streamreader
 streamwriter
 stretch
-strict
 strictmode
 strikethrough-text
 string
@@ -10460,7 +10471,6 @@ system
 system information 1394 controller baseboard motherboard systemboard battery bios bus cache memory cd dvd rom drive compact disc desktop monitor disk partition fan floppy glide point heatpipe ide infrared device keyboard local logical array mouse'
 system-administration
 system-group
-system-info
 system-service
 system-services
 system.directoryservices.protocols
@@ -10791,6 +10801,7 @@ transforms
 transitionmanager
 translate
 translation
+translator
 translit
 transliteration
 transmission
@@ -10893,7 +10904,6 @@ ucspowertool
 ud-avataaar
 ud-badgebutton
 ud-badgelink
-ud-breadcrumb
 ud-breadcrumbitem
 ud-burger
 ud-button
@@ -10913,6 +10923,7 @@ ud-hero
 ud-illustration
 ud-input
 ud-licensed
+ud-loadingoverlay
 ud-minesweeper
 ud-mouseparticle
 ud-navbarsearch
@@ -11161,6 +11172,7 @@ verbose psmodule
 verification
 verify
 version
+versioncontrol
 versioning
 versionmanager
 versionnumber
@@ -11458,7 +11470,6 @@ wia
 wia.imagefile
 wid
 widedata
-wif
 wifi
 wiki
 wildcard
@@ -11614,9 +11625,6 @@ worker
 workflow
 workflowmax
 workflows
-workingdays
-workinghours
-workingtime
 workload
 workload-automation
 workloadidentity
