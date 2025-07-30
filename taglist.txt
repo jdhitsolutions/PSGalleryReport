@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Tuesday, 29 July 2025 21:52:50 UTC
+Updated: Wednesday, 30 July 2025 09:55:35 UTC
 
 .bat
 .env
@@ -118,6 +118,8 @@ act!
 actifio
 actifiogo
 action
+action1
+actionablemessages
 actiongroup
 actionhero
 actionplan
@@ -289,6 +291,7 @@ aircall
 airpower
 airpwr
 airtable
+ais
 aispeech
 aiutilities
 aivision
@@ -719,7 +722,6 @@ az
 az-cli
 az.runtimeenvironment
 az.stackhci
-azaitranslate
 azautomation
 azcli
 azcompute
@@ -766,7 +768,6 @@ azureadgraph
 azureadpreview
 azureadtoolkit
 azureadvancedthreatprotection
-azureaitranslator
 azureappconfiguration
 azureapplicationstuff
 azurearc
@@ -851,7 +852,6 @@ backconnection
 backconnectionhostname
 backend
 backup
-backup_validation
 bamboo
 bamboohr
 bandwidth
@@ -1001,6 +1001,7 @@ bmc
 bms
 bnm
 boards
+bofh
 boilerplate
 boinc
 bold-text
@@ -1028,7 +1029,6 @@ box
 bpmn
 brainy
 branch
-branch-rename
 brave
 brawlapi
 brawlstars
@@ -1504,6 +1504,7 @@ comical
 comics
 command
 command_line
+command-line
 command-line-interface
 command-validation
 commandcoverage
@@ -1550,6 +1551,7 @@ compositeresource
 compoundproperty
 compress
 compression
+compromised
 compute
 compute-ops-management
 computecloudatcustomer
@@ -1970,7 +1972,6 @@ datum
 dave
 davinci
 dax
-dayinweek
 days
 days-week
 db
@@ -2165,6 +2166,7 @@ directorysearcher
 directorysecurity
 directoryservices
 directrouting
+directus
 direnv
 dirkjan
 dirname
@@ -2404,6 +2406,7 @@ dumpify
 dumping
 dumps
 duo
+duosecurity
 dupes
 duplicate
 duplicate-files
@@ -2442,6 +2445,7 @@ dynatrace
 dynatraceobservability
 dz
 e-mail
+e1
 earthquakes
 easy
 easy-to-use
@@ -2498,7 +2502,6 @@ elk
 elm
 elmah-io
 elonmusk
-eloomi
 eloqua
 elvish
 elvui
@@ -3012,6 +3015,7 @@ fortune
 forum
 forwardcompatibility
 forwardedevents
+forwarding
 foudil
 foundationmodels
 fount
@@ -3099,7 +3103,6 @@ gavin
 gavineke
 gbl
 gc
-gcbdr
 gce
 gci
 gcloud
@@ -3209,7 +3212,6 @@ git-flow
 git-lfs
 git-open
 git-proxy
-git-rename
 git-stat
 gitcmdline
 gitdesktop
@@ -3358,7 +3360,6 @@ hack
 hacking
 hacktoberfest
 hadoop
-hafr
 haiku
 hailstone
 haipa
@@ -3449,6 +3450,7 @@ help
 helpdesk
 helpdoc
 helper
+helper-functions
 helperfunctions
 helpers
 helpfile
@@ -3593,7 +3595,6 @@ hyperlinked-text
 hyperthreading
 hyperv
 hypervisor
-hypervplugins
 hypothesis
 hysolate
 hysolatemangementconsole
@@ -3657,6 +3658,7 @@ ifttt
 igel
 igr
 ihs
+iiittttt
 iis
 iisadministration
 iiscrypto
@@ -3707,6 +3709,7 @@ importer
 importexport
 importteams
 inactive
+inbox_rules
 inboxrule
 incident
 incident_response
@@ -3786,7 +3789,6 @@ integratedscriptingeditor
 integration
 integrationaccount
 integrationruntime
-integrationruntimedependency
 integrationservicescatalog
 integrity
 intel
@@ -3938,6 +3940,7 @@ javascript
 javaversion
 jboss
 jdbc
+jde
 jdedwards
 jdk
 jdt
@@ -4031,6 +4034,7 @@ keepasslib
 keepawake
 keeper
 kelverion
+kelvin
 kentico
 kerberos
 kernel32
@@ -4153,7 +4157,6 @@ latestupdate
 latin
 latitude
 launcher
-laws
 layer
 layman
 layout
@@ -4212,6 +4215,7 @@ light
 lights
 lime
 limesurvey
+limit
 limit-job
 limits
 lina
@@ -5377,6 +5381,7 @@ outline
 outlook
 outpainting
 output
+output-to-image
 outreach
 outsystems
 overbite
@@ -5554,6 +5559,7 @@ pf
 pfe
 pfsense
 pfx
+pfy
 pgp
 phabricator
 philips
@@ -5754,7 +5760,6 @@ poshy-wrap-pipenv
 poshy-wrap-pyenv
 poshy-wrap-pylint
 poshy-wrap-python
-poshy-wrap-ruby
 poshy-wrap-systemctl
 poshy-wrap-terraform
 poshy-wrap-terragrunt
@@ -7048,9 +7053,6 @@ pscommand_invoke-piplistoutdated
 pscommand_invoke-pipuninstall
 pscommand_invoke-pyenv
 pscommand_invoke-pylintreportsdisabled
-pscommand_invoke-ruby
-pscommand_invoke-rubyexecute
-pscommand_invoke-rubyexecutehttpdhere
 pscommand_invoke-systemctl-add-requires
 pscommand_invoke-systemctl-add-wants
 pscommand_invoke-systemctl-cancel
@@ -7542,7 +7544,6 @@ pscommand_pylint-quick
 pscommand_pyserver
 pscommand_python
 pscommand_python3
-pscommand_rb
 pscommand_read-dotenv
 pscommand_register-argcompleteargumentcompleter
 pscommand_remove_gem
@@ -7570,8 +7571,6 @@ pscommand_reset-gitworkingtreetolastcommitlosechanges
 pscommand_reset-gitworkingtreetolastcommitlosechangesandcleanfully
 pscommand_resume-gitbranchbaseupdate
 pscommand_resume-gitcherrypick
-pscommand_rrun
-pscommand_rserver
 pscommand_sc-disable-now
 pscommand_sc-enable-now
 pscommand_sc-mask-now
@@ -8463,9 +8462,6 @@ psfunction_invoke-piplistoutdated
 psfunction_invoke-pipuninstall
 psfunction_invoke-pyenv
 psfunction_invoke-pylintreportsdisabled
-psfunction_invoke-ruby
-psfunction_invoke-rubyexecute
-psfunction_invoke-rubyexecutehttpdhere
 psfunction_invoke-systemctl-add-requires
 psfunction_invoke-systemctl-add-wants
 psfunction_invoke-systemctl-cancel
@@ -8907,6 +8903,7 @@ pshost
 pshtml
 psidoit
 psidoitng
+psimport
 psincludes_cmdlet
 psincludes_command
 psincludes_function
@@ -8921,6 +8918,7 @@ psjobthreads
 pskeepass
 psllm
 pslocalgallery
+psloganalytics
 psm
 psm1
 psmodule
@@ -9164,6 +9162,7 @@ rdcman
 rdcmanager
 rdfe
 rdg
+rdl
 rdm
 rdp
 rdpsession
@@ -9317,9 +9316,6 @@ removetypeaccelerators
 remux
 ren-isac
 rename
-rename-git
-rename-git-branch
-rename-gitbranch
 render
 reonboarding
 repair
@@ -9560,6 +9556,7 @@ sap
 sapazure
 saponazure
 sapstartstopazure
+sarcasm
 sarif
 sas
 sat
@@ -9952,6 +9949,7 @@ site_navigation
 sitecollection
 siteconfiguration
 sitecore
+sitecoresearch
 sitemaintenance
 sitemap
 siterecovery
@@ -10453,6 +10451,7 @@ syskit
 syslog
 sysman
 sysmon
+sysop
 syspass
 syspip
 syspip3
@@ -10530,6 +10529,7 @@ tasks
 tasksbyme
 taskscheduler
 tatux
+tauricraft
 taxjar
 taxonomy
 tcg
@@ -10635,6 +10635,7 @@ text-based
 text-emoji
 text-emojis
 text-templates
+text-to-image
 text-to-speach"
 text-to-speech
 text2image
@@ -10697,6 +10698,8 @@ time
 timeout
 timer
 timeseriesinsights
+timesheet
+timesheets
 timespan
 timestamp
 timezone
@@ -10788,7 +10791,6 @@ transforms
 transitionmanager
 translate
 translation
-translator
 translit
 transliteration
 transmission
@@ -10911,7 +10913,6 @@ ud-hero
 ud-illustration
 ud-input
 ud-licensed
-ud-loadingoverlay
 ud-minesweeper
 ud-mouseparticle
 ud-navbarsearch
@@ -11160,7 +11161,6 @@ verbose psmodule
 verification
 verify
 version
-versioncontrol
 versioning
 versionmanager
 versionnumber
@@ -11577,6 +11577,7 @@ winui
 wired
 wireless
 wirelessnetwork
+wireshark
 wisc
 wiscmail
 wisco365
@@ -11650,6 +11651,7 @@ write-debug
 write-host
 write-information
 write-log
+write-loganalytics
 write-message
 write-progress
 write-slog
