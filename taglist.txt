@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Thursday, 31 July 2025 09:54:53 UTC
+Updated: Thursday, 31 July 2025 21:53:30 UTC
 
 .bat
 .env
@@ -714,7 +714,6 @@ awspricelist
 awx
 axapta
 axcient
-axcient_x360recover
 axinom
 axis
 axium
@@ -1585,7 +1584,6 @@ configapi
 configascode
 configdata
 configkey
-configmap
 configmgr
 configmgrcbdsc
 configuration
@@ -2206,6 +2204,7 @@ diskusage
 dism
 dismal
 display
+display_dialog
 displayresolution
 disposable
 dispose
@@ -3220,6 +3219,8 @@ git-open
 git-proxy
 git-rename
 git-stat
+gitcmdline
+gitdesktop
 gitea
 gitflow
 gitforwindows
@@ -4015,7 +4016,6 @@ jwe
 jwk
 jws
 jwt
-jwttoken
 k8s
 k8sshell
 k8ssnapshots
@@ -5463,6 +5463,7 @@ partition
 partitions
 partner
 partnercenter
+partnerportal
 pas
 pass
 pass-the-hash
@@ -8922,6 +8923,7 @@ pshost
 pshtml
 psidoit
 psidoitng
+psimport
 psincludes_cmdlet
 psincludes_command
 psincludes_function
@@ -9023,7 +9025,6 @@ publishedmodules
 publisher
 publishers
 publishing
-publishmap
 pubsub
 pubxml
 pulldistributionpoint
@@ -9349,12 +9350,14 @@ replace
 replaygain
 replication
 repo
+repoo
 report
 reporting
 reportingservicepoint
 reportingservices
 reportportal
 reportportal.io
+reportrunner
 reports
 reportserver
 repos
@@ -9374,7 +9377,6 @@ resharper
 resize
 resolution
 resolve
-resolve-dnsname
 resolve-stache
 resolve-template
 resolver
@@ -9401,6 +9403,7 @@ restapi
 restart
 restful
 restore
+restrictive
 results
 resume
 retail
@@ -10120,7 +10123,6 @@ spam
 spamtitan
 spanner
 spark
-sparkline
 sparklines
 spawn
 spdockit
@@ -10269,7 +10271,6 @@ stanc
 standard
 standarderror
 standardoutput
-standards
 standbypool
 stansummary
 start
@@ -10346,6 +10347,7 @@ streaming
 streamreader
 streamwriter
 stretch
+strict
 strictmode
 strikethrough-text
 string
@@ -10560,7 +10562,6 @@ tcptest
 tcx
 tcxaemgmt
 tdd
-teable
 teaching
 team
 teamcity
@@ -10911,7 +10912,6 @@ ucspowertool
 ud-avataaar
 ud-badgebutton
 ud-badgelink
-ud-breadcrumb
 ud-breadcrumbitem
 ud-burger
 ud-button
@@ -11144,6 +11144,7 @@ vba
 vbaproject
 vbproj
 vbr
+vbscript
 vbsinst
 vc
 vccmdlets
