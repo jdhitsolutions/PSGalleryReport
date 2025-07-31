@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Wednesday, 30 July 2025 21:52:47 UTC
+Updated: Thursday, 31 July 2025 09:54:53 UTC
 
 .bat
 .env
@@ -1100,8 +1100,11 @@ bus
 business
 business_email_compromise
 businesscentral
+businessdays
+businesshours
 businessobjects
 businessrulesengine
+businesstime
 bxor
 bydesign
 byexample
@@ -2203,7 +2206,6 @@ diskusage
 dism
 dismal
 display
-display_dialog
 displayresolution
 disposable
 dispose
@@ -3077,6 +3079,7 @@ functionality
 functionalprogramming
 functionapp
 functions
+funds
 funny
 fusion
 fusionapps
@@ -3126,7 +3129,9 @@ generate
 generate-dockerimagevariants
 generate-password
 generate-random-password
+generateaddress
 generates
+generatewif
 generation
 generativeai
 generativeaiagent
@@ -3215,8 +3220,6 @@ git-open
 git-proxy
 git-rename
 git-stat
-gitcmdline
-gitdesktop
 gitea
 gitflow
 gitforwindows
@@ -3647,8 +3650,10 @@ identitydataplane
 identitydirector
 identitydomains
 identitynow
+identitysecuritycloud
 idf
 idm
+idn
 idna
 idoit
 idrac
@@ -4559,6 +4564,7 @@ meesman
 meeting
 meetup
 meetup.com
+meewind
 megabyte
 melamed
 meltdown
@@ -4609,6 +4615,7 @@ micro-framework
 micro-orm
 microfocus
 microk8s
+micropython
 microservices
 microsoft
 microsoft_365
@@ -5456,7 +5463,6 @@ partition
 partitions
 partner
 partnercenter
-partnerportal
 pas
 pass
 pass-the-hash
@@ -9343,14 +9349,12 @@ replace
 replaygain
 replication
 repo
-repoo
 report
 reporting
 reportingservicepoint
 reportingservices
 reportportal
 reportportal.io
-reportrunner
 reports
 reportserver
 repos
@@ -9668,6 +9672,7 @@ scriptcs
 scriptedui
 scripting
 scriptlog
+scriptlogging
 scriptmodule
 scriptoform
 scriptrunner
@@ -10155,6 +10160,7 @@ splat
 splatting
 split
 splunk
+spmt
 spn
 spo
 spoofing
@@ -10471,6 +10477,7 @@ system
 system information 1394 controller baseboard motherboard systemboard battery bios bus cache memory cd dvd rom drive compact disc desktop monitor disk partition fan floppy glide point heatpipe ide infrared device keyboard local logical array mouse'
 system-administration
 system-group
+system-info
 system-service
 system-services
 system.directoryservices.protocols
@@ -10904,6 +10911,7 @@ ucspowertool
 ud-avataaar
 ud-badgebutton
 ud-badgelink
+ud-breadcrumb
 ud-breadcrumbitem
 ud-burger
 ud-button
@@ -11136,7 +11144,6 @@ vba
 vbaproject
 vbproj
 vbr
-vbscript
 vbsinst
 vc
 vccmdlets
@@ -11470,6 +11477,7 @@ wia
 wia.imagefile
 wid
 widedata
+wif
 wifi
 wiki
 wildcard
@@ -11625,6 +11633,9 @@ worker
 workflow
 workflowmax
 workflows
+workingdays
+workinghours
+workingtime
 workload
 workload-automation
 workloadidentity
