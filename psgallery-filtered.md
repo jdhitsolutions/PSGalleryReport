@@ -3,6 +3,111 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [TauriCraft](https://www.powershellgallery.com/Packages/TauriCraft/0.1.1) | 0.1.1
+
+### Published: 08/01/2025 21:44:30 by alain
+
+A module to automate building🦀tauri-v2 desktop apps, fast.
+
+__Downloads__: 4 | __Repository__: https://github.com/chadnpc/TauriCraft
+
+## [PowershellFunctions007](https://www.powershellgallery.com/Packages/PowershellFunctions007/2.1.0) | 2.1.0
+
+### Published: 08/01/2025 20:28:37 by Peter Cullen Burbery
+
+PowerShell utilities for configuring Windows systems, managing environments, customizing time and date settings, and automating administrative tasks.
+
+__Downloads__: 51 | __Repository__: https://github.com/PeterCullenBurbery/powershell-functions-007
+
+## [UcLobbyTeams](https://www.powershellgallery.com/Packages/UcLobbyTeams/1.1.4) | 1.1.4
+
+### Published: 08/01/2025 20:23:04 by David Paulino
+
+UC Lobby Teams PowerShell Module
+
+__Downloads__: 4,714 | __Repository__: https://github.com/uclobby/UCLobbyTeams
+
+## [AutomatedLab.Utils](https://www.powershellgallery.com/Packages/AutomatedLab.Utils/1.7.0) | 1.7.0
+
+### Published: 08/01/2025 20:14:32 by Stephen Valdinger
+
+Provides a set of functions to help with storing and executing AutomatedLab environments, and Custom Roles
+
+__Downloads__: 85 | __Repository__: 
+
+## [ChocoMan](https://www.powershellgallery.com/Packages/ChocoMan/1.3.9) | 1.3.9
+
+### Published: 08/01/2025 17:44:01 by regg00
+
+A PowerShell wrapper around Chocolatey that provides standardized objects for command output.
+
+__Downloads__: 4,273 | __Repository__: https://github.com/regg00/ChocoMan
+
+## [OSD](https://www.powershellgallery.com/Packages/OSD/25.8.1.3) | 25.8.1.3
+
+### Published: 08/01/2025 17:09:50 by David Segura . Gary Blok . Michael Escamilla
+
+OSD PowerShell Module for Windows Deployment
+
+__Downloads__: 4,360,288 | __Repository__: https://github.com/OSDeploy/OSD
+
+## [MilestonePSTools](https://www.powershellgallery.com/Packages/MilestonePSTools/25.2.16) | 25.2.16
+
+### Published: 08/01/2025 15:56:35 by Milestone Systems
+
+Milestone XProtect VMS configuration and automation powered by Milestone's MIP SDK.
+
+__Downloads__: 459,073 | __Repository__: https://www.milestonepstools.com/
+
+## [PIMActivation](https://www.powershellgallery.com/Packages/PIMActivation/1.2.0) | 1.2.0
+
+### Published: 08/01/2025 14:32:53 by Sebastian Flæng Markdanner
+
+PowerShell module for managing Microsoft Entra ID Privileged Identity Management (PIM) role activations through a modern GUI interface. Supports authentication context, bulk operations, and policy compliance. Developed with AI assistance. Requires PowerShell 7+.
+
+__Downloads__: 24 | __Repository__: https://github.com/Noble-Effeciency13/PIMActivation
+
+## [IntegrisDeploymentToolDev](https://www.powershellgallery.com/Packages/IntegrisDeploymentToolDev/0.7.1) | 0.7.1
+
+### Published: 08/01/2025 14:14:36 by David McVicker
+
+Integris Deployment Tool Dev
+
+__Downloads__: 67 | __Repository__: 
+
+## [IntegrisDeploymentTool](https://www.powershellgallery.com/Packages/IntegrisDeploymentTool/0.7.1) | 0.7.1
+
+### Published: 08/01/2025 14:13:46 by David McVicker
+
+Integris Deployment Tool
+
+__Downloads__: 1,475 | __Repository__: 
+
+## [AzureCommonStuff](https://www.powershellgallery.com/Packages/AzureCommonStuff/1.0.8) | 1.0.8
+
+### Published: 08/01/2025 13:29:04 by @AndrewZtrhgf
+
+Various Azure related functions focused on authentication etc. More details at https://doitpshway.com/series/azure.
+Some of the interesting functions:
+- Connect-AzAccount2 - proxy function for Connect-AzAccount, but supports reusing the existing session
+- Connect-PnPOnline2 - proxy function for Connect-PnPOnline with some enhancements like: automatic MFA auth if MFA detected, skipping authentication if already authenticated etc
+- Get-AzureDirectoryObject - gets Azure directory object (user, group, device etc.) by its ID
+- Get-AzureDirectoryObjectMemberOf - gets Azure directory object (user, group, device etc.) memberships by its ID
+- Invoke-AzureBatchRequest - function to make batch requests against Azure Resource Manager provider (unofficial) api
+- New-AzureBatchRequest - function to create batch request object usable against Azure Resource Manager provider (unofficial) api
+- New-AzureDevOpsAuthHeader - creates auth header for DevOps authentication
+- ...
+
+__Downloads__: 2,027 | __Repository__: https://github.com/ztrhgf/useful_powershell_modules
+
+## [PS-NCentral-RESTAPI](https://www.powershellgallery.com/Packages/PS-NCentral-RESTAPI/0.5.5) | 0.5.5
+
+### Published: 08/01/2025 12:44:02 by eagle00789
+
+PowerShell module for the N-central REST-API
+
+__Downloads__: 79 | __Repository__: https://github.com/eagle00789/PS-NCentral-RESTAPI
+
 ## [SPClientCore](https://www.powershellgallery.com/Packages/SPClientCore/7.4.0.9) | 7.4.0.9
 
 ### Published: 08/01/2025 08:41:36 by karamem0
@@ -18,14 +123,6 @@ __Downloads__: 3,114 | __Repository__: https://github.com/karamem0/sp-client-cor
 SentinelEnrichment is a PowerShell module that provides functions to enrich Microsoft Sentinel with data from external sources and makes it easier to manage this data in watchlists.
 
 __Downloads__: 3,358 | __Repository__: 
-
-## [OSD](https://www.powershellgallery.com/Packages/OSD/25.8.1.1) | 25.8.1.1
-
-### Published: 08/01/2025 05:16:10 by David Segura . Gary Blok . Michael Escamilla
-
-OSD PowerShell Module for Windows Deployment
-
-__Downloads__: 4,360,306 | __Repository__: https://github.com/OSDeploy/OSD
 
 ## [httpowershell](https://www.powershellgallery.com/Packages/httpowershell/0.0.4) | 0.0.4
 
@@ -65,15 +162,7 @@ __Downloads__: 8,634 | __Repository__: https://github.com/EvotecIT/TheDashboard
 
 Helper module for Active Directory with lots of useful functions that simplify supporting Active Directory.
 
-__Downloads__: 595,422 | __Repository__: https://github.com/EvotecIT/ADEssentials
-
-## [ChocoMan](https://www.powershellgallery.com/Packages/ChocoMan/1.3.2) | 1.3.2
-
-### Published: 07/31/2025 19:20:46 by regg00
-
-A PowerShell wrapper for Chocolatey
-
-__Downloads__: 4,273 | __Repository__: https://github.com/regg00/ChocoMan
+__Downloads__: 595,421 | __Repository__: https://github.com/EvotecIT/ADEssentials
 
 ## [Trilium](https://www.powershellgallery.com/Packages/Trilium/0.13.1) | 0.13.1
 
@@ -193,7 +282,7 @@ __Downloads__: 3 | __Repository__: https://github.com/junecastillote/PS.M365Usag
 
 Module for installing basic programs: This module provides functions for downloading installers from specified links, installing the programs, verifying the installed programs/services, and cleaning up the installer files.
 
-__Downloads__: 147,542 | __Repository__: 
+__Downloads__: 147,540 | __Repository__: 
 
 ## [ScriptUtils](https://www.powershellgallery.com/Packages/ScriptUtils/1.1.2) | 1.1.2
 
@@ -228,7 +317,7 @@ __Downloads__: 14,981 | __Repository__: https://github.com/ykuijs/M365DSC.Compos
 
 A PowerShell module to generate an as built report on the configuration of Microsoft Windows.
 
-__Downloads__: 43,444 | __Repository__: https://github.com/AsBuiltReport/AsBuiltReport.Microsoft.Windows
+__Downloads__: 43,443 | __Repository__: https://github.com/AsBuiltReport/AsBuiltReport.Microsoft.Windows
 
 ## [AdminToolbox](https://www.powershellgallery.com/Packages/AdminToolbox/12.0.0.30) | 12.0.0.30
 
@@ -252,7 +341,7 @@ __Downloads__: 3,322 | __Repository__: https://github.com/TheTaylorLee/AdminTool
 
 Functions that generate configuration scripts and manage FortiOS.
 
-__Downloads__: 114,386 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 114,385 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.VMWareAutomate](https://www.powershellgallery.com/Packages/AdminToolbox.VMWareAutomate/4.9.0.71) | 4.9.0.71
 
@@ -260,7 +349,7 @@ __Downloads__: 114,386 | __Repository__: https://github.com/TheTaylorLee/AdminTo
 
 Functions to Automate Bulk VMWare Tasks
 
-__Downloads__: 121,993 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 121,992 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.Remoting](https://www.powershellgallery.com/Packages/AdminToolbox.Remoting/1.10.1.17) | 1.10.1.17
 
@@ -268,7 +357,7 @@ __Downloads__: 121,993 | __Repository__: https://github.com/TheTaylorLee/AdminTo
 
 Functions for remote management and access.
 
-__Downloads__: 120,581 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 120,580 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.Office365](https://www.powershellgallery.com/Packages/AdminToolbox.Office365/5.4.0.10) | 5.4.0.10
 
@@ -316,7 +405,7 @@ __Downloads__: 156,583 | __Repository__: https://github.com/TheTaylorLee/AdminTo
 
 Expedite simple ffmpeg actions
 
-__Downloads__: 223,757 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 223,758 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.Exchange](https://www.powershellgallery.com/Packages/AdminToolbox.Exchange/1.10.0.71) | 1.10.0.71
 
@@ -1705,14 +1794,6 @@ PowerShell module for OpenAI API
 
 __Downloads__: 36,704 | __Repository__: https://github.com/mkht/PSOpenAI
 
-## [PS-NCentral-RESTAPI](https://www.powershellgallery.com/Packages/PS-NCentral-RESTAPI/0.5.0) | 0.5.0
-
-### Published: 07/30/2025 13:56:06 by eagle00789
-
-PowerShell module for the N-central REST-API
-
-__Downloads__: 79 | __Repository__: https://github.com/eagle00789/PS-NCentral-RESTAPI
-
 ## [Nexthink-Omnissa-Connector](https://www.powershellgallery.com/Packages/Nexthink-Omnissa-Connector/0.2.0) | 0.2.0
 
 ### Published: 07/30/2025 13:28:25 by Nexthink
@@ -1729,14 +1810,6 @@ Dotmatics cloud automation tool.
 
 __Downloads__: 27,309 | __Repository__: 
 
-## [PIMActivation](https://www.powershellgallery.com/Packages/PIMActivation/1.1.1) | 1.1.1
-
-### Published: 07/30/2025 11:30:38 by Sebastian Flæng Markdanner
-
-PowerShell module for managing Microsoft Entra ID Privileged Identity Management (PIM) role activations through a modern GUI interface. Supports authentication context, bulk operations, and policy compliance. Developed with AI assistance. Requires PowerShell 7+.
-
-__Downloads__: 24 | __Repository__: https://github.com/Noble-Effeciency13/PIMActivation
-
 ## [Svrooij.BetterGraph](https://www.powershellgallery.com/Packages/Svrooij.BetterGraph/0.1.2) | 0.1.2
 
 ### Published: 07/30/2025 10:58:42 by Stephan van Rooij (@svrooij)
@@ -1744,14 +1817,6 @@ __Downloads__: 24 | __Repository__: https://github.com/Noble-Effeciency13/PIMAct
 A faster Graph module
 
 __Downloads__: 32 | __Repository__: https://github.com/svrooij/BetterGraph-PowerShell
-
-## [Json](https://www.powershellgallery.com/Packages/Json/1.2.0) | 1.2.0
-
-### Published: 07/30/2025 10:28:05 by PSModule
-
-A PowerShell module for typical Json related tasks.
-
-__Downloads__: 68 | __Repository__: https://github.com/PSModule/Json
 
 ## [LogModule](https://www.powershellgallery.com/Packages/LogModule/1.0.0) | 1.0.0
 
@@ -1893,14 +1958,6 @@ A Windows PowerShell module for basic and advanced file management tasks
 
 __Downloads__: 9,435 | __Repository__: https://powershell.genxdev.net/#GenXdev.FileSystem
 
-## [TauriCraft](https://www.powershellgallery.com/Packages/TauriCraft/0.1.0) | 0.1.0
-
-### Published: 07/30/2025 01:26:14 by alain
-
-A module to easily scaffold new tauri app project.
-
-__Downloads__: 4 | __Repository__: https://github.com/alain/TauriCraft
-
 ## [PSF](https://www.powershellgallery.com/Packages/PSF/0.13.2) | 0.13.2
 
 ### Published: 07/30/2025 00:27:09 by Colin Roche Dan Anstis
@@ -1973,76 +2030,4 @@ A PowerShell module with GUI to switch between open windows.
 
 __Downloads__: 8 | __Repository__: https://github.com/tulasi-das/PSWindowSwitcherTool
 
-## [CommonStuff](https://www.powershellgallery.com/Packages/CommonStuff/1.0.24) | 1.0.24
-
-### Published: 07/29/2025 18:28:03 by @AndrewZtrhgf
-
-Various helper functions for modules IntuneStuff, AzureADStuff etc. Some of them are explained at https://doitpshway.com.
-
-    Some of the interesting functions:
-    - ConvertFrom-HTMLTable - extracts & converts html table from given file/string/com object into the PSObject
-    - ConvertFrom-XML - converts XML into PSObject
-    - ConvertFrom-CompressedString
-    - ConvertTo-CompressedString
-    - ConvertTo-EncryptedString - encrypts a string using AES encryption with a provided key
-    - ConvertFrom-EncryptedString - decrypts an AES-encrypted string back to plaintext
-    - Compare-Object2 - can be used for comparison of strings, objects, arrays of primitives/objects
-    - Export-ScriptsToModule - export functions defined in ps1 files into PS module (including aliases and manifest file)
-    - Get-InstalledSoftware - returns installed software on local/remote computer
-    - Get-SFCLogEvent - gets SFC related lines from CBS.log
-    - Get-PSHScriptBlockLoggingEvent - gets PowerShell Script Block logging events with context like who/when/how run the command, ...
-    - Invoke-AsSystem - invoke given command under SYSTEM account. Support returning of the command transcript.
-    - Invoke-AsLoggedUser - invoke given command under all currently logged users (impersonate given user). Support returning of the command transcript.
-    - Invoke-FileContentWatcher - monitors changes in selected file content
-    - Invoke-FileSystemWatcher - monitors changes in selected folder
-    - Invoke-RestMethod2 - Invoke-RestMethod proxy functions that supports pagination, throttling
-    - Invoke-SQL - invoke SQL command (uses Security=SSPI authentication)
-    - Invoke-MSTSC - invoke RDP connection using LAPS credentials (and more)
-    - Publish-Module2 - solves error "The specified RequiredModules entry xxx In the module manifest xxx.psd1 is invalid" in case of missing required modules
-    - Uninstall-ApplicationViaUninstallString - uninstalls application using information retrieved from system registry
-    - Send-EmailViaSendGrid - send email using SendGrid (supports api token retrieval from Azure Keyvault or credentials object)
-    - ...
-
-__Downloads__: 2,489,295 | __Repository__: https://github.com/ztrhgf/useful_powershell_modules
-
-## [Microsoft.PowerShell.PlatyPS](https://www.powershellgallery.com/Packages/Microsoft.PowerShell.PlatyPS/1.0.1) | 1.0.1
-
-### Published: 07/29/2025 17:33:48 by PowerShell team
-
-Generate PowerShell External Help files from Markdown
-
-__Downloads__: 5,346 | __Repository__: https://github.com/PowerShell/platyPS
-
-## [PSSailpoint](https://www.powershellgallery.com/Packages/PSSailpoint/1.6.6) | 1.6.6
-
-### Published: 07/29/2025 15:00:10 by Sailpoint Developer Relations
-
-PSSailpoint - the PowerShell module for IdentityNow
-
-__Downloads__: 20,324 | __Repository__: 
-
-## [PSSailpoint.V2025](https://www.powershellgallery.com/Packages/PSSailpoint.V2025/1.6.6) | 1.6.6
-
-### Published: 07/29/2025 14:57:25 by OpenAPI Generator Team
-
-PSSailpoint.V2025 - the PowerShell module for Identity Security Cloud V2025 API
-
-__Downloads__: 929 | __Repository__: 
-
-## [PSSailpoint.V2024](https://www.powershellgallery.com/Packages/PSSailpoint.V2024/1.6.6) | 1.6.6
-
-### Published: 07/29/2025 14:56:45 by OpenAPI Generator Team
-
-PSSailpoint.V2024 - the PowerShell module for Identity Security Cloud V2024 API
-
-__Downloads__: 11,632 | __Repository__: 
-
-## [PSSailpoint.V3](https://www.powershellgallery.com/Packages/PSSailpoint.V3/1.6.6) | 1.6.6
-
-### Published: 07/29/2025 14:56:06 by OpenAPI Generator Team
-
-PSSailpoint.V3 - the PowerShell module for Identity Security Cloud V3 API
-
-__Downloads__: 11,634 | __Repository__: 
-
-*Updated: Friday, 01 August 2025 09:54:32 UTC*
+*Updated: Friday, 01 August 2025 21:52:43 UTC*
