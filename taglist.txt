@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Thursday, 31 July 2025 21:53:30 UTC
+Updated: Friday, 01 August 2025 09:54:41 UTC
 
 .bat
 .env
@@ -325,7 +325,6 @@ aliases
 aliens
 align
 alignment
-alive
 all
 alletra
 alloydb
@@ -696,7 +695,6 @@ avro
 avs
 avset
 await
-awake
 awakecoding
 awareness
 awesome
@@ -714,6 +712,7 @@ awspricelist
 awx
 axapta
 axcient
+axcient_x360recover
 axinom
 axis
 axium
@@ -811,7 +810,6 @@ azuremonitor
 azurenative
 azurenetworking
 azurepack
-azurepimstuff
 azurepipelines
 azurepolicy
 azurepowershell
@@ -1067,7 +1065,6 @@ bruteforce
 bson
 btdf
 btm
-bucket
 buddhist
 budget
 bugbounty
@@ -1118,7 +1115,6 @@ c++
 ca
 cache
 caf
-caffeine
 cal
 calc
 calculate
@@ -1282,7 +1278,6 @@ christmas
 chrome
 chromium
 chunk
-chunked
 churchofjesuschrist
 ci
 ci/cd
@@ -1511,7 +1506,6 @@ command_line
 command-line-interface
 command-validation
 commandcoverage
-commandhistory
 commandlets
 commandline
 commandr
@@ -1534,7 +1528,6 @@ community
 compare
 comparison
 compatibility
-compatible
 compile
 compiler
 complete
@@ -1584,6 +1577,7 @@ configapi
 configascode
 configdata
 configkey
+configmap
 configmgr
 configmgrcbdsc
 configuration
@@ -2364,8 +2358,6 @@ droplet
 droptable
 drs
 drsrule
-drupal
-drush
 dry
 ds
 ds-client
@@ -2627,7 +2619,6 @@ esp-idf
 esp32
 esp32s2
 espressif
-espresso
 esri
 essbase
 est
@@ -3324,7 +3315,6 @@ grep
 greynoise
 grid
 gridfs
-gridview
 grok
 groundspeak
 group
@@ -3651,10 +3641,8 @@ identitydataplane
 identitydirector
 identitydomains
 identitynow
-identitysecuritycloud
 idf
 idm
-idn
 idna
 idoit
 idrac
@@ -3877,7 +3865,6 @@ ipconfig
 iperf
 ipfy.org
 iphone
-ipilot
 ipinfo
 iplookup
 ipmaths
@@ -3951,7 +3938,6 @@ jboss
 jdbc
 jde
 jdedwards
-jdk
 jdt
 jea
 jea_module
@@ -4016,6 +4002,7 @@ jwe
 jwk
 jws
 jwt
+jwttoken
 k8s
 k8sshell
 k8ssnapshots
@@ -4036,10 +4023,8 @@ kdialog
 kebab-case
 keenetic
 keepachangelog
-keepalive
 keepass
 keepasslib
-keepawake
 keeper
 kelverion
 kelvin
@@ -4688,7 +4673,6 @@ minifier
 minimal
 minimalist-framework
 minimum
-minio
 mip
 mipsdk
 miration-step
@@ -5136,7 +5120,6 @@ nunit
 nupkg
 nuspec
 nutanix
-nuwave
 nva
 nvd
 nvdimm
@@ -5166,7 +5149,6 @@ obfuscation
 obj
 object
 objectid
-objects
 objectstorage
 objecttree
 obs
@@ -5426,7 +5408,6 @@ packing
 pacli
 page
 pageant
-pager
 pagerduty
 pages
 pagination
@@ -5506,7 +5487,6 @@ patching
 patchtuesday
 path
 pathfinder
-pathmanagement
 patternmatching
 paulo
 pause
@@ -5704,7 +5684,6 @@ ports
 portscan
 porttest
 pos
-posershellise
 posh
 posh-acme
 posh-cats
@@ -5979,7 +5958,6 @@ progressbars
 project
 project-management
 projectmanagement
-projectreunion
 projects
 projecttemplate
 projectwise
@@ -9025,6 +9003,7 @@ publishedmodules
 publisher
 publishers
 publishing
+publishmap
 pubsub
 pubxml
 pulldistributionpoint
@@ -9149,7 +9128,6 @@ random-date
 random-password
 random-password-generator
 randompassword
-randomuser
 randomusers
 range
 rangescan
@@ -9220,7 +9198,6 @@ recruiter
 recrutch
 recurse
 recursion
-recursive
 recursivefilesandfoldersdownload
 recursivefilesandfoldersupload
 recyclebin
@@ -9377,6 +9354,7 @@ resharper
 resize
 resolution
 resolve
+resolve-dnsname
 resolve-stache
 resolve-template
 resolver
@@ -9675,7 +9653,6 @@ scriptcs
 scriptedui
 scripting
 scriptlog
-scriptlogging
 scriptmodule
 scriptoform
 scriptrunner
@@ -10123,6 +10100,7 @@ spam
 spamtitan
 spanner
 spark
+sparkline
 sparklines
 spawn
 spdockit
@@ -10271,6 +10249,7 @@ stanc
 standard
 standarderror
 standardoutput
+standards
 standbypool
 stansummary
 start
@@ -10371,7 +10350,6 @@ sub
 sub-directory
 sub-menu
 subatomix
-subdirectory
 subject
 subjectname
 sublimetext
@@ -10562,6 +10540,7 @@ tcptest
 tcx
 tcxaemgmt
 tdd
+teable
 teaching
 team
 teamcity
@@ -10912,6 +10891,7 @@ ucspowertool
 ud-avataaar
 ud-badgebutton
 ud-badgelink
+ud-breadcrumb
 ud-breadcrumbitem
 ud-burger
 ud-button
@@ -11771,7 +11751,6 @@ yandex
 yandexdisk
 yapg
 yarn
-yaugeraio
 year
 yetanotherhelloworld
 yify
