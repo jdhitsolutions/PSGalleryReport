@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Friday, 01 August 2025 21:52:52 UTC
+Updated: Saturday, 02 August 2025 09:52:30 UTC
 
 .bat
 .env
@@ -390,6 +390,7 @@ ansible-control-node
 ansible-playbook
 ansible-vault
 ansiblecontrolnode
+ansibletower
 anthropic
 anti-malware
 antimalwarescaninterface
@@ -586,7 +587,6 @@ asynchronous
 atempo
 atera
 athena
-atlas
 atlassian
 atlassiancli
 atlassianps
@@ -710,6 +710,7 @@ aws.tools.powershell
 awsbedrock
 awscli
 awspricelist
+awx
 axapta
 axcient
 axcient_x360recover
@@ -784,6 +785,8 @@ azurecli
 azurecodesigning
 azurecognitiveservices
 azurecommonstuff
+azurecontainerapps
+azurecontainers
 azuredatabricks
 azuredataexplorer
 azuredatastudio
@@ -1002,6 +1005,7 @@ bmc
 bms
 bnm
 boards
+bofh
 boilerplate
 boinc
 bold-text
@@ -1070,6 +1074,7 @@ budget
 bugbounty
 bugzilla
 build
+build-log
 build-scripts
 build-test-publish
 buildautomation
@@ -1909,7 +1914,6 @@ data-backup
 data-tier
 data-uri
 data-uri-converter
-dataadapter
 database
 database-migrations
 databaseautomation
@@ -2342,7 +2346,6 @@ drift
 driftmonitor
 drink
 drive
-drive letter
 drivemap
 drivemapping
 driven
@@ -2626,7 +2629,6 @@ esp32s2
 espressif
 espresso
 esri
-essbase
 est
 estimate
 estimation
@@ -2902,6 +2904,7 @@ finance
 finance&operations
 financeandoperations
 financeoperations
+finances
 financial
 financialedge
 financialmodeling
@@ -3056,6 +3059,7 @@ fslogix
 fsrm
 ftp
 ftps
+ftptoday
 fu-msauth
 fudge
 fudgepop
@@ -3073,6 +3077,7 @@ functionality
 functionalprogramming
 functionapp
 functions
+funds
 funny
 fusion
 fusionapps
@@ -3660,6 +3665,7 @@ ifttt
 igel
 igr
 ihs
+iiittttt
 iis
 iisadministration
 iiscrypto
@@ -4150,6 +4156,8 @@ laps
 laragon
 laserbeams
 last
+last.fm
+lastfm
 lastlogon
 lastpass
 latency
@@ -4556,6 +4564,7 @@ meesman
 meeting
 meetup
 meetup.com
+meewind
 megabyte
 melamed
 meltdown
@@ -4640,6 +4649,7 @@ microsoftdefenderatp
 microsoftdefenderforidentity
 microsoftdeploymenttoolkit
 microsoftendpointmanager
+microsoftentra
 microsoftexchangeserver
 microsoftfabric
 microsoftgraph
@@ -4650,6 +4660,7 @@ microsoftintune
 microsoftmvp
 microsoftoffice
 microsoftonline
+microsoftsentinel
 microsoftstaffhub
 microsoftstore
 microsoftteams
@@ -4895,6 +4906,7 @@ n-central
 nabu
 nac
 nagios
+nakivo
 name
 name-of-dogs
 namedpipe
@@ -5212,6 +5224,7 @@ ollama
 omada
 omaha
 ome
+omg
 omnisphere
 omnissa
 omnistack
@@ -5555,6 +5568,7 @@ pf
 pfe
 pfsense
 pfx
+pfy
 pgp
 phabricator
 philips
@@ -5799,6 +5813,7 @@ powerdex
 powerforensics
 powergraph
 powergui
+powermanagement
 powermax
 powerpack
 powerplan
@@ -9564,6 +9579,7 @@ sap
 sapazure
 saponazure
 sapstartstopazure
+sarcasm
 sarif
 sas
 sat
@@ -9803,6 +9819,7 @@ servermanagement
 servers
 service
 service-bus
+service-messages
 servicebus
 servicebusforwindowsserver
 servicecatalog
@@ -9889,6 +9906,7 @@ sharepointonline
 sharepointpnp
 sharepointpnppowershellonline.add-on.module
 shares
+sharetru
 sheets
 shell
 shell-art
@@ -9984,6 +10002,7 @@ skytap
 slack
 slash
 slashcommands
+sleep
 sleeper
 slideshow
 slmgr
@@ -10146,6 +10165,7 @@ splat
 splatting
 split
 splunk
+spmt
 spn
 spo
 spoofing
@@ -10454,6 +10474,7 @@ syskit
 syslog
 sysman
 sysmon
+sysop
 syspass
 syspip
 syspip3
@@ -10682,6 +10703,7 @@ threat-hunting
 threatdefense
 threathunting
 threatintelligence
+threatintelligenceindicators
 threatintelligenceplatform
 threats
 threatsharing
@@ -11029,6 +11051,8 @@ updmgmt
 upgrade
 uplift
 uplink
+uploadindicators
+uploadindicatorsapi
 ups
 upsource
 upstream
@@ -11486,7 +11510,6 @@ windchillrv&s
 window
 windows
 windows  server
-windows explorer
 windows_events
 windows-10
 windows-api
