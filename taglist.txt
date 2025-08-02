@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Saturday, 02 August 2025 09:52:30 UTC
+Updated: Saturday, 02 August 2025 21:52:41 UTC
 
 .bat
 .env
@@ -239,7 +239,6 @@ adsync
 adt
 aduser
 aduseraccountlockout
-adusergroups
 adv180002
 adv180018
 adv190013
@@ -549,7 +548,6 @@ ascii85
 asciiart
 asdatabase
 asigra
-asjob
 ask-gpt
 askgpt
 asm
@@ -587,6 +585,7 @@ asynchronous
 atempo
 atera
 athena
+atlas
 atlassian
 atlassiancli
 atlassianps
@@ -1068,7 +1067,6 @@ bruteforce
 bson
 btdf
 btm
-bucket
 buddhist
 budget
 bugbounty
@@ -1283,7 +1281,6 @@ christmas
 chrome
 chromium
 chunk
-chunked
 churchofjesuschrist
 ci
 ci/cd
@@ -1535,7 +1532,6 @@ community
 compare
 comparison
 compatibility
-compatible
 compile
 compiler
 complete
@@ -1576,7 +1572,6 @@ conda
 condition
 conditional
 conditionalaccess
-conduit
 conference
 confidentialclient
 confidentialledger
@@ -1804,7 +1799,6 @@ cryptocompare
 cryptocurrency
 cryptography
 cs137
-csc
 csharp
 csharp-watch
 csom
@@ -1914,6 +1908,7 @@ data-backup
 data-tier
 data-uri
 data-uri-converter
+dataadapter
 database
 database-migrations
 databaseautomation
@@ -2346,6 +2341,7 @@ drift
 driftmonitor
 drink
 drive
+drive letter
 drivemap
 drivemapping
 driven
@@ -2629,6 +2625,7 @@ esp32s2
 espressif
 espresso
 esri
+essbase
 est
 estimate
 estimation
@@ -2863,7 +2860,6 @@ fileencryption
 fileexplorer
 filelist
 filelog
-filelogger
 filemaintenance
 filemanagement
 filematcher
@@ -3059,7 +3055,6 @@ fslogix
 fsrm
 ftp
 ftps
-ftptoday
 fu-msauth
 fudge
 fudgepop
@@ -4688,7 +4683,6 @@ minifier
 minimal
 minimalist-framework
 minimum
-minio
 mip
 mipsdk
 miration-step
@@ -4974,7 +4968,6 @@ netherlands
 netmask
 netpdf
 netpdfps
-nets
 netsapiens
 netscaler
 netscape
@@ -5281,7 +5274,6 @@ openapi
 opendata
 openedge
 openfiles
-opengraph
 openhere
 openholidaysapi
 openid
@@ -5570,7 +5562,6 @@ pfsense
 pfx
 pfy
 pgp
-phabricator
 philips
 philosophical
 philpritchett
@@ -5685,7 +5676,6 @@ poll
 polly
 polycom
 pomodoro
-ponduit
 pool
 poop
 pop
@@ -6007,9 +5997,6 @@ provisioning
 provisioningagent
 provisioningpackage
 provisonedpackage
-prowl
-prowl-notifications
-prowlapp
 proxmox
 proxmoxve
 proxsys
@@ -9046,7 +9033,6 @@ purple
 purview
 push
 push-location
-push-notifications
 pushd
 pushover
 pushoverapi
@@ -9906,7 +9892,6 @@ sharepointonline
 sharepointpnp
 sharepointpnppowershellonline.add-on.module
 shares
-sharetru
 sheets
 shell
 shell-art
@@ -11085,7 +11070,6 @@ user-environment
 useragent
 userdiscovery
 usergroup
-usergroups
 userinterface
 usermail
 usermanagement
@@ -11510,6 +11494,7 @@ windchillrv&s
 window
 windows
 windows  server
+windows explorer
 windows_events
 windows-10
 windows-api
