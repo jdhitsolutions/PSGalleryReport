@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Sunday, 03 August 2025 21:52:18 UTC
+Updated: Monday, 04 August 2025 09:57:22 UTC
 
 .bat
 .env
@@ -239,7 +239,6 @@ adsync
 adt
 aduser
 aduseraccountlockout
-adusergroups
 adv180002
 adv180018
 adv190013
@@ -346,6 +345,8 @@ amateur-data-interchange-format
 amateur-radio
 amateurradio
 amazon
+amazonaws
+amazonmgn
 amazontitan
 amazonwebservices
 amend
@@ -1130,7 +1131,6 @@ callqueue
 calvin-and-hobbes
 cam
 camera
-cameras
 campaign
 camtasia
 canarie
@@ -1576,6 +1576,7 @@ condition
 conditional
 conditionalaccess
 conduit
+conference
 confidentialclient
 confidentialledger
 config
@@ -1778,7 +1779,6 @@ crescendo
 crescendobuilt
 cresendo
 crestron
-cricket
 crime
 critical
 crlf
@@ -1928,6 +1928,7 @@ datacatalog
 datacenter
 dataclassification
 datacollectionrule
+dataconduit
 dataconnectivity
 datadog
 dataexchange
@@ -2152,7 +2153,6 @@ digitalforensics
 digitalocean
 digitaltwins
 dilbert
-dimcry
 dircolors
 director
 directories
@@ -2164,6 +2164,7 @@ directorymanagement
 directorymarks
 directorymonitoring
 directoryname
+directorysearcher
 directorysecurity
 directoryservices
 directrouting
@@ -2202,6 +2203,7 @@ diskusage
 dism
 dismal
 display
+display_dialog
 displayresolution
 disposable
 dispose
@@ -2655,7 +2657,6 @@ event-timeline
 eventchannel
 eventchannels
 eventcollector
-eventful
 eventgrid
 eventhub
 eventing
@@ -2913,8 +2914,6 @@ financialstatement
 financialstatements
 financialstatementsapi
 find
-find-call
-find-caller
 find-file
 find-path
 finddownloadlinkfromwebsite
@@ -3014,7 +3013,6 @@ fortinetmanager
 fortios
 fortune
 forum
-forwardcompatibility
 forwardedevents
 forwarding
 foudil
@@ -3093,7 +3091,6 @@ gamecategory:cards
 games
 gameserver
 gaming
-garage
 gas
 gat
 gateway
@@ -3507,6 +3504,7 @@ hmac
 hockey
 hol
 holiday
+home
 home_automation
 homebrew
 homelab
@@ -3651,6 +3649,7 @@ idm
 idn
 idna
 idoit
+idrac
 ids
 ie
 iem
@@ -3856,7 +3855,6 @@ iothub
 iothubproperties
 iotoperationsservice
 ip
-ip_cameras
 ip-address
 ip-scanner
 ipa
@@ -4190,6 +4188,7 @@ lego
 lein
 leiningnen
 lemonai
+lenel
 length
 lenovo
 less
@@ -4216,8 +4215,6 @@ lifequotes
 lifestyle
 light
 lights
-lime
-limesurvey
 limit
 limit-job
 limits
@@ -4413,7 +4410,6 @@ macosx
 macro
 macros
 madlib
-magazine
 magento
 magic8ball
 magicpacket
@@ -4602,6 +4598,7 @@ metrolink
 metropolis
 mfa
 mga
+mgn
 mi
 micro
 micro-framework
@@ -5026,7 +5023,6 @@ newtonsoft.json
 nexacore
 nexenta
 nexentastor
-nextcloud
 nexthink
 nexus
 nexusiq
@@ -5072,6 +5068,8 @@ nord
 nordtools
 normal
 norskale
+norway
+norwegian
 nos
 nosql
 note
@@ -5841,6 +5839,7 @@ powershell-remoting
 powershell-terminal
 powershell-terminal-copilot
 powershell-training
+powershell.module.clienttools
 powershell.module.invokewinget
 powershell.one
 powershell.persistentpathstack
@@ -5897,6 +5896,7 @@ prepareschema
 prepend
 preprocessing
 preprocessor
+presentation
 presentationframework
 presenter
 presto
@@ -7823,7 +7823,6 @@ pscommand_zwp
 pscommander
 psconfasia
 psconfeu
-psconfig
 pscore
 pscredential
 pscribo
@@ -9232,6 +9231,7 @@ redis
 redisenterprisecache
 redistributables
 redkite
+redseal
 redshift
 redteaming
 redundancy
@@ -9328,7 +9328,6 @@ rename
 rename-git
 rename-git-branch
 rename-gitbranch
-render
 reonboarding
 repair
 repair-msauth
@@ -9630,7 +9629,6 @@ scom
 sconfig
 scoop
 scope
-scopes
 score
 scouterna
 scouternasetjanster
@@ -9724,7 +9722,6 @@ securescore
 securesphere
 securestring
 security
-security_cameras
 security-awareness-training
 security-policy
 security-score
@@ -9887,9 +9884,7 @@ shared
 sharefile
 sharepoint
 sharepoint_online
-sharepoint-on-prem
 sharepoint-online
-sharepoint-product-configuration-wizard
 sharepointdevelopmentcommunity
 sharepointonline
 sharepointpnp
@@ -10123,6 +10118,7 @@ spdx-license-identifier:ms-pl
 spe
 speach
 speak
+speaker
 spec
 specification
 specify
@@ -10165,6 +10161,7 @@ spotify
 spotify-api
 spotlight
 spotlightimages
+spp
 spread
 spreadsheet
 spreadsheets
@@ -10406,8 +10403,6 @@ suppress
 supress-reboot
 surestacks
 surround
-surveillance
-survey
 surveymonkey
 sus
 sushi
@@ -10883,7 +10878,6 @@ twitter-hashtag
 twitter-mention
 twitter-share
 twitter-timeline
-twitter-tweet
 txt
 type
 typeaccelerators
@@ -11072,7 +11066,6 @@ user-environment
 useragent
 userdiscovery
 usergroup
-usergroups
 userinterface
 usermail
 usermanagement
