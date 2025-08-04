@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 04 August 2025 09:57:22 UTC
+Updated: Monday, 04 August 2025 21:53:11 UTC
 
 .bat
 .env
@@ -239,6 +239,7 @@ adsync
 adt
 aduser
 aduseraccountlockout
+adusergroups
 adv180002
 adv180018
 adv190013
@@ -418,7 +419,6 @@ apigateway
 apigee
 apigeeedge
 apimanagement
-apiplatform
 apis
 aplication
 apm
@@ -941,7 +941,6 @@ billingbenefits
 bimi
 bin
 bin-obj
-binaries
 binary
 binaryip
 bind
@@ -1074,7 +1073,6 @@ budget
 bugbounty
 bugzilla
 build
-build-log
 build-scripts
 build-test-publish
 buildautomation
@@ -1131,12 +1129,12 @@ callqueue
 calvin-and-hobbes
 cam
 camera
+cameras
 campaign
 camtasia
 canarie
 cancel
 cancellation
-candlestick
 canonical
 cantara
 capability
@@ -1779,8 +1777,8 @@ crescendo
 crescendobuilt
 cresendo
 crestron
+cricket
 crime
-critical
 crlf
 crm
 crm2016
@@ -2153,6 +2151,7 @@ digitalforensics
 digitalocean
 digitaltwins
 dilbert
+dimcry
 dircolors
 director
 directories
@@ -2657,6 +2656,7 @@ event-timeline
 eventchannel
 eventchannels
 eventcollector
+eventful
 eventgrid
 eventhub
 eventing
@@ -2906,14 +2906,10 @@ financeoperations
 finances
 financial
 financialedge
-financialmodeling
-financialmodelingprep
-financialmodelingprepapi
 financials
-financialstatement
-financialstatements
-financialstatementsapi
 find
+find-call
+find-caller
 find-file
 find-path
 finddownloadlinkfromwebsite
@@ -2965,7 +2961,6 @@ fluidrelay
 flurl
 flyway
 fmg
-fmp
 fms
 focus
 fod
@@ -3013,6 +3008,7 @@ fortinetmanager
 fortios
 fortune
 forum
+forwardcompatibility
 forwardedevents
 forwarding
 foudil
@@ -3057,6 +3053,8 @@ ftp
 ftps
 ftptoday
 fu-msauth
+fudge
+fudgepop
 fujitsu
 full
 full-metal-gnome
@@ -3091,6 +3089,7 @@ gamecategory:cards
 games
 gameserver
 gaming
+garage
 gas
 gat
 gateway
@@ -3313,7 +3312,6 @@ greenplum
 gregorian
 gremlin
 grep
-greynoise
 grid
 gridfs
 gridview
@@ -3721,7 +3719,6 @@ indents
 index
 indexdb
 indicator
-indicators
 inedo
 inetfwrule
 inetum
@@ -3777,7 +3774,6 @@ installer
 installers
 installoffice
 installofficertool
-installwindows
 instance
 instant
 instapush
@@ -3855,6 +3851,7 @@ iothub
 iothubproperties
 iotoperationsservice
 ip
+ip_cameras
 ip-address
 ip-scanner
 ipa
@@ -4071,7 +4068,6 @@ kinopoisk
 kintone
 kittygraphicsprotocol
 klantcontroles
-kline
 kms
 knapsack
 knetps
@@ -4215,6 +4211,8 @@ lifequotes
 lifestyle
 light
 lights
+lime
+limesurvey
 limit
 limit-job
 limits
@@ -4410,6 +4408,7 @@ macosx
 macro
 macros
 madlib
+magazine
 magento
 magic8ball
 magicpacket
@@ -4476,7 +4475,6 @@ mark
 markdig
 markdown
 markdownrender
-market
 marketing
 marketo
 marketplace
@@ -5023,6 +5021,7 @@ newtonsoft.json
 nexacore
 nexenta
 nexentastor
+nextcloud
 nexthink
 nexus
 nexusiq
@@ -5506,8 +5505,6 @@ paypal
 pays
 pbench
 pbip
-pbixtopbip
-pbixtopbit
 pc
 pcapng
 pci-dss
@@ -5887,7 +5884,6 @@ prediction
 predictive
 predictive-text
 predictor
-preferences
 prefix
 prefixing
 preparead
@@ -7823,11 +7819,11 @@ pscommand_zwp
 pscommander
 psconfasia
 psconfeu
+psconfig
 pscore
 pscredential
 pscribo
 pscustomobject
-psd
 psd1
 psdb
 psdefaultparametervalues
@@ -9280,7 +9276,6 @@ releasedefinition
 releasehealth
 releasemanagement
 releasenotes
-releases
 relevance
 relic
 reload
@@ -9328,6 +9323,7 @@ rename
 rename-git
 rename-git-branch
 rename-gitbranch
+render
 reonboarding
 repair
 repair-msauth
@@ -9478,7 +9474,6 @@ router
 routeros
 routes
 routetable
-routine
 rover
 royalapps
 royaldocument
@@ -9629,6 +9624,7 @@ scom
 sconfig
 scoop
 scope
+scopes
 score
 scouterna
 scouternasetjanster
@@ -9642,7 +9638,6 @@ screen
 screencap
 screencapture
 screenconnect
-screener
 screenfetch
 screenresolution
 screensaver
@@ -9722,6 +9717,7 @@ securescore
 securesphere
 securestring
 security
+security_cameras
 security-awareness-training
 security-policy
 security-score
@@ -9805,7 +9801,6 @@ servermanagement
 servers
 service
 service-bus
-service-messages
 servicebus
 servicebusforwindowsserver
 servicecatalog
@@ -9875,7 +9870,6 @@ shadowcopy
 shadowcopybackups
 shadowgroups
 shanehoey
-shanghaitech
 shard
 share
 share-permission
@@ -9884,7 +9878,9 @@ shared
 sharefile
 sharepoint
 sharepoint_online
+sharepoint-on-prem
 sharepoint-online
+sharepoint-product-configuration-wizard
 sharepointdevelopmentcommunity
 sharepointonline
 sharepointpnp
@@ -9987,7 +9983,6 @@ slack
 slash
 slashcommands
 sleep
-sleeper
 slideshow
 slmgr
 sln
@@ -10124,7 +10119,6 @@ specification
 specify
 specs
 spectre
-spectre.console
 spectrumconnect
 spectrumcontrolbase
 speculation
@@ -10192,7 +10186,6 @@ sqlitebynarymodule
 sqlitebynarypsmodule
 sqlitemodule
 sqllocaldb
-sqlmanagementobjects
 sqlpackage
 sqlplus
 sqlproj
@@ -10203,7 +10196,6 @@ sqlserver
 sqlserveragent
 sqlserverbynarymodule
 sqlserverbynarypsmodule
-sqlserverclient
 sqlservermodule
 sqlvirtualmachine
 sqlvm
@@ -10305,11 +10297,7 @@ stigrepo
 stingar
 stock
 stockcharts
-stockmarket
-stockmarketapi
 stocks
-stockscreener
-stockscreenerapi
 stoicism
 stoics
 stolpe.io
@@ -10403,6 +10391,8 @@ suppress
 supress-reboot
 surestacks
 surround
+surveillance
+survey
 surveymonkey
 sus
 sushi
@@ -10565,7 +10555,6 @@ teamviewer
 techdirect
 techedna2014
 techlog
-technicalanalysis
 technology
 techsmith
 tel
@@ -10601,8 +10590,6 @@ terminalnotifier
 terminalvelocity
 termset
 terraform
-terraform-docs
-terraform-switcher
 terraformcloud
 terrafun
 terragrunt
@@ -10658,7 +10645,6 @@ tflint
 tfs
 tfscmdlets
 tfsec
-tfswitch
 tftd
 tftp
 tfvars
@@ -10678,7 +10664,6 @@ thread
 threading
 threadjob
 threads
-threadsafe
 threadsanitizer
 threat
 threat-hunting
@@ -10878,6 +10863,7 @@ twitter-hashtag
 twitter-mention
 twitter-share
 twitter-timeline
+twitter-tweet
 txt
 type
 typeaccelerators
@@ -11066,6 +11052,7 @@ user-environment
 useragent
 userdiscovery
 usergroup
+usergroups
 userinterface
 usermail
 usermanagement
