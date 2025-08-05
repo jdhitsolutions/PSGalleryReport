@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 04 August 2025 21:53:11 UTC
+Updated: Tuesday, 05 August 2025 09:55:21 UTC
 
 .bat
 .env
@@ -141,7 +141,6 @@ activedirectorycertificateservices
 activedirectoryfederationservices
 activedirectry-html
 activeefficiency
-activehours
 activenet
 activenetworkstation
 activenetworkstationservice
@@ -419,6 +418,7 @@ apigateway
 apigee
 apigeeedge
 apimanagement
+apiplatform
 apis
 aplication
 apm
@@ -941,6 +941,7 @@ billingbenefits
 bimi
 bin
 bin-obj
+binaries
 binary
 binaryip
 bind
@@ -993,6 +994,7 @@ bloxone
 bloxoneddi
 bls
 blue
+bluecat
 bluedolhin
 blueprint
 blueprints
@@ -1073,6 +1075,7 @@ budget
 bugbounty
 bugzilla
 build
+build-log
 build-scripts
 build-test-publish
 buildautomation
@@ -1135,6 +1138,7 @@ camtasia
 canarie
 cancel
 cancellation
+candlestick
 canonical
 cantara
 capability
@@ -1574,7 +1578,6 @@ condition
 conditional
 conditionalaccess
 conduit
-conference
 confidentialclient
 confidentialledger
 config
@@ -1779,6 +1782,7 @@ cresendo
 crestron
 cricket
 crime
+critical
 crlf
 crm
 crm2016
@@ -2656,7 +2660,6 @@ event-timeline
 eventchannel
 eventchannels
 eventcollector
-eventful
 eventgrid
 eventhub
 eventing
@@ -2906,10 +2909,14 @@ financeoperations
 finances
 financial
 financialedge
+financialmodeling
+financialmodelingprep
+financialmodelingprepapi
 financials
+financialstatement
+financialstatements
+financialstatementsapi
 find
-find-call
-find-caller
 find-file
 find-path
 finddownloadlinkfromwebsite
@@ -2954,13 +2961,13 @@ flex
 flex-query
 flexdesk
 flexible
-flickr
 flowchart
 flowy
 fluidrelay
 flurl
 flyway
 fmg
+fmp
 fms
 focus
 fod
@@ -3312,6 +3319,7 @@ greenplum
 gregorian
 gremlin
 grep
+greynoise
 grid
 gridfs
 gridview
@@ -3451,7 +3459,6 @@ helper-functions
 helperfunctions
 helpers
 helpfile
-helpful
 heml
 here
 hewlett
@@ -3719,6 +3726,7 @@ indents
 index
 indexdb
 indicator
+indicators
 inedo
 inetfwrule
 inetum
@@ -4068,6 +4076,7 @@ kinopoisk
 kintone
 kittygraphicsprotocol
 klantcontroles
+kline
 kms
 knapsack
 knetps
@@ -4318,7 +4327,6 @@ logger
 logging
 loggingingestion
 loggingsearch
-loggly
 logic
 logicapp
 logicapps
@@ -4475,6 +4483,7 @@ mark
 markdig
 markdown
 markdownrender
+market
 marketing
 marketo
 marketplace
@@ -4746,8 +4755,6 @@ monitor
 monitor psmodule
 monitorinformation
 monitoring
-monitoring_objects
-monitoring_variables
 monitoringplugins
 monitoringsolutions
 monitors
@@ -4894,7 +4901,6 @@ n-central
 nabu
 nac
 nagios
-nakivo
 name
 name-of-dogs
 namedpipe
@@ -5418,7 +5424,6 @@ pager
 pagerduty
 pages
 pagination
-paging
 palo
 paloalto
 paloaltonetworks
@@ -5505,6 +5510,8 @@ paypal
 pays
 pbench
 pbip
+pbixtopbip
+pbixtopbit
 pc
 pcapng
 pci-dss
@@ -5794,7 +5801,6 @@ powerbot
 powercli
 powercligoodies
 powercommander
-powerconfiguration
 powerdex
 powerforensics
 powergraph
@@ -5884,6 +5890,7 @@ prediction
 predictive
 predictive-text
 predictor
+preferences
 prefix
 prefixing
 preparead
@@ -5892,7 +5899,6 @@ prepareschema
 prepend
 preprocessing
 preprocessor
-presentation
 presentationframework
 presenter
 presto
@@ -5930,7 +5936,6 @@ privileged
 privilegedidentitymanagement
 privileges
 pro
-probability
 probe
 process
 process-inspector
@@ -7824,6 +7829,7 @@ pscore
 pscredential
 pscribo
 pscustomobject
+psd
 psd1
 psdb
 psdefaultparametervalues
@@ -9020,7 +9026,6 @@ pulseway
 pulumi
 punycode
 puppet
-puppetdb
 puppy
 pure
 pure1
@@ -9276,6 +9281,7 @@ releasedefinition
 releasehealth
 releasemanagement
 releasenotes
+releases
 relevance
 relic
 reload
@@ -9474,6 +9480,7 @@ router
 routeros
 routes
 routetable
+routine
 rover
 royalapps
 royaldocument
@@ -9638,6 +9645,7 @@ screen
 screencap
 screencapture
 screenconnect
+screener
 screenfetch
 screenresolution
 screensaver
@@ -9801,6 +9809,7 @@ servermanagement
 servers
 service
 service-bus
+service-messages
 servicebus
 servicebusforwindowsserver
 servicecatalog
@@ -9870,6 +9879,7 @@ shadowcopy
 shadowcopybackups
 shadowgroups
 shanehoey
+shanghaitech
 shard
 share
 share-permission
@@ -9983,6 +9993,7 @@ slack
 slash
 slashcommands
 sleep
+sleeper
 slideshow
 slmgr
 sln
@@ -10113,12 +10124,12 @@ spdx-license-identifier:ms-pl
 spe
 speach
 speak
-speaker
 spec
 specification
 specify
 specs
 spectre
+spectre.console
 spectrumconnect
 spectrumcontrolbase
 speculation
@@ -10186,6 +10197,7 @@ sqlitebynarymodule
 sqlitebynarypsmodule
 sqlitemodule
 sqllocaldb
+sqlmanagementobjects
 sqlpackage
 sqlplus
 sqlproj
@@ -10196,6 +10208,7 @@ sqlserver
 sqlserveragent
 sqlserverbynarymodule
 sqlserverbynarypsmodule
+sqlserverclient
 sqlservermodule
 sqlvirtualmachine
 sqlvm
@@ -10297,7 +10310,11 @@ stigrepo
 stingar
 stock
 stockcharts
+stockmarket
+stockmarketapi
 stocks
+stockscreener
+stockscreenerapi
 stoicism
 stoics
 stolpe.io
@@ -10307,6 +10324,7 @@ storage
 storageaccount
 storageaction
 storagecache
+storagediscovery
 storagegrid-webscale
 storagemover
 storagesync
@@ -10555,6 +10573,7 @@ teamviewer
 techdirect
 techedna2014
 techlog
+technicalanalysis
 technology
 techsmith
 tel
@@ -10590,6 +10609,8 @@ terminalnotifier
 terminalvelocity
 termset
 terraform
+terraform-docs
+terraform-switcher
 terraformcloud
 terrafun
 terragrunt
@@ -10645,6 +10666,7 @@ tflint
 tfs
 tfscmdlets
 tfsec
+tfswitch
 tftd
 tftp
 tfvars
@@ -10664,6 +10686,7 @@ thread
 threading
 threadjob
 threads
+threadsafe
 threadsanitizer
 threat
 threat-hunting
@@ -11007,7 +11030,6 @@ update-module
 update-modulemanifest
 update-moduletests
 update-typedata
-updatedeferral
 updatemanagement
 updatemgmt
 updater
