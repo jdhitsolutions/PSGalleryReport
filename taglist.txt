@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Wednesday, 06 August 2025 09:55:32 UTC
+Updated: Wednesday, 06 August 2025 21:52:42 UTC
 
 .bat
 .env
@@ -42,9 +42,11 @@ Updated: Wednesday, 06 August 2025 09:55:32 UTC
 2014
 2016
 2017
+2018
 2019
 2022
 21vianet
+24-bit
 2fa
 300
 365
@@ -148,6 +150,7 @@ activesession
 activiti
 activities
 activity
+activitycount
 actor-model
 actors
 acumatica
@@ -320,6 +323,8 @@ alias-hint
 alias-tips
 aliases
 aliens
+align
+alignment
 alive
 all
 alletra
@@ -708,6 +713,7 @@ awspricelist
 awx
 axapta
 axcient
+axcient_x360recover
 axinom
 axis
 axium
@@ -1083,6 +1089,7 @@ buildkit
 buildkite
 buildmaster
 builds
+buildtool
 bulk
 bulletin
 bullhorn
@@ -1102,6 +1109,7 @@ businesstime
 bxor
 bydesign
 byexample
+bynarypsmodule
 byte
 bytearray
 bzip2
@@ -1194,6 +1202,7 @@ celcat
 celerium
 censor
 center
+centered
 centra
 central
 central-management
@@ -1850,7 +1859,6 @@ customproviders
 cutehttpfileserver
 cvad
 cve
-cve-2021-34527
 cvrf
 cvss
 cwi
@@ -2051,6 +2059,8 @@ delivery
 dell
 dellemc
 delta
+demand
+demandsignal
 demo
 democratie
 demonstration
@@ -2153,6 +2163,7 @@ directorymonitoring
 directoryname
 directorysearcher
 directorysecurity
+directoryservices
 directrouting
 directus
 direnv
@@ -2821,6 +2832,7 @@ fido
 fido2
 fieldglass
 fields
+fifa
 figlet
 file
 file-association
@@ -2965,6 +2977,7 @@ font
 fonts
 foo
 food
+football
 for
 force
 forcedelete
@@ -3247,6 +3260,7 @@ google
 google-chrome
 google-fonts
 google-histogram
+google-sankey
 google-table
 googleadsv2
 googlecloudplatform
@@ -3489,6 +3503,7 @@ hlds
 hls
 hmac
 hockey
+hol
 holiday
 home
 home_automation
@@ -3987,6 +4002,7 @@ jupyter
 jupytor
 jurassic
 justenoughadministration
+justification
 jvm
 jwe
 jwk
@@ -4200,8 +4216,6 @@ lifequotes
 lifestyle
 light
 lights
-lime
-limesurvey
 limit
 limit-job
 limits
@@ -4283,6 +4297,7 @@ lockoutreport
 lockscreen
 locksmith
 lockstep
+lod
 lodasoft
 log
 log-administration
@@ -4305,7 +4320,6 @@ logger
 logging
 loggingingestion
 loggingsearch
-loggly
 logic
 logicapp
 logicapps
@@ -4377,6 +4391,7 @@ lzip-compression
 m365
 m365defenderstuff
 m365dsc
+maas360
 maatschap-fortigi
 mac
 mac-address
@@ -4672,7 +4687,6 @@ miscellaneous
 misp
 mistral
 mistralai
-mitigation
 mitre
 mitre_att&ck
 mitrend
@@ -5019,7 +5033,6 @@ nhl
 ni
 nic
 nic.ru
-nightmare
 ninite
 ninja
 ninjaone
@@ -5204,6 +5217,7 @@ omnissa
 omnistack
 oms
 omsagent
+on
 on-demand
 on-premise
 onbehalfof
@@ -5272,6 +5286,7 @@ openssl
 openstack
 openstreetmaps
 openvpn
+openxml
 operating
 operating_system
 operating-system
@@ -5300,6 +5315,7 @@ optionstring
 opus
 oracle
 oraclecloudinfrastructure
+oraculum
 orbital
 orchestrate
 orchestration
@@ -5717,7 +5733,6 @@ poshy-viewer-finder
 poshy-wrap
 poshy-wrap-apt
 poshy-wrap-argcomplete
-poshy-wrap-brew
 poshy-wrap-curl
 poshy-wrap-dnf
 poshy-wrap-docker
@@ -5898,7 +5913,6 @@ printer
 printers
 printershare
 printing
-printnightmare
 printserver
 prism
 prism_element
@@ -6064,9 +6078,6 @@ pscommand_apt-list-packages
 pscommand_arch
 pscommand_asrc
 pscommand_basename
-pscommand_bcubc
-pscommand_bcubo
-pscommand_bfu
 pscommand_bgblack
 pscommand_bgblue
 pscommand_bgbrightblack
@@ -6086,14 +6097,6 @@ pscommand_bgred
 pscommand_bgrgb
 pscommand_bgwhite
 pscommand_bgyellow
-pscommand_brewp
-pscommand_brewsp
-pscommand_bubc
-pscommand_bubo
-pscommand_bubu
-pscommand_bubug
-pscommand_bugbc
-pscommand_buz
 pscommand_catimg
 pscommand_cd-
 pscommand_cd..
@@ -6726,17 +6729,6 @@ pscommand_invoke-aptgetsource
 pscommand_invoke-aptlistinstalled
 pscommand_invoke-aptlistupgradable
 pscommand_invoke-aptpreferred
-pscommand_invoke-brewlistpinned
-pscommand_invoke-brewpin
-pscommand_invoke-brewuninstallzap
-pscommand_invoke-brewupdateandoutdated
-pscommand_invoke-brewupdateandoutdatedandupgradeandcleanup
-pscommand_invoke-brewupdateandoutdatedandupgradegreedyandcleanup
-pscommand_invoke-brewupdateandoutdatedcask
-pscommand_invoke-brewupgradeandcleanup
-pscommand_invoke-brewupgradecaskandcleanup
-pscommand_invoke-brewupgradeformula
-pscommand_invoke-brewupgradegreedyandcleanup
 pscommand_invoke-curlfollowingredirects
 pscommand_invoke-curlfollowingredirectsdownloadasnamed
 pscommand_invoke-curlfollowingredirectsdownloadasnamedcontinue
@@ -8141,17 +8133,6 @@ psfunction_invoke-aptgetsource
 psfunction_invoke-aptlistinstalled
 psfunction_invoke-aptlistupgradable
 psfunction_invoke-aptpreferred
-psfunction_invoke-brewlistpinned
-psfunction_invoke-brewpin
-psfunction_invoke-brewuninstallzap
-psfunction_invoke-brewupdateandoutdated
-psfunction_invoke-brewupdateandoutdatedandupgradeandcleanup
-psfunction_invoke-brewupdateandoutdatedandupgradegreedyandcleanup
-psfunction_invoke-brewupdateandoutdatedcask
-psfunction_invoke-brewupgradeandcleanup
-psfunction_invoke-brewupgradecaskandcleanup
-psfunction_invoke-brewupgradeformula
-psfunction_invoke-brewupgradegreedyandcleanup
 psfunction_invoke-curlfollowingredirects
 psfunction_invoke-curlfollowingredirectsdownloadasnamed
 psfunction_invoke-curlfollowingredirectsdownloadasnamedcontinue
@@ -9273,7 +9254,6 @@ remote
 remote-browser
 remote-desktop
 remote'
-remoteaccess
 remoteadmin
 remotecert
 remoteconnection
@@ -9410,6 +9390,7 @@ rgb
 rhapsody
 ribbon
 ribcl
+richtext
 ricoh
 rightcloud
 rightjoin
@@ -9494,6 +9475,7 @@ runbook
 runbooks
 runbookstudio
 runcommand
+rundeck
 runner
 runspace
 runspacepool
@@ -9501,6 +9483,7 @@ runspaces
 runtime
 runtimedefinedparameter
 runtimedefinedparameterdictionary
+russia
 rust
 rust-lang
 ryanairps
@@ -10033,6 +10016,7 @@ snssqlitepsmodule
 sntp
 soap
 soc
+soccer
 social
 social-media
 socialmedia
@@ -10135,7 +10119,6 @@ spmt
 spn
 spo
 spoofing
-spooler
 sport
 sports
 sports-tracker
@@ -10387,7 +10370,6 @@ supress-reboot
 surestacks
 surround
 surveillance
-survey
 surveymonkey
 sus
 sushi
@@ -10468,6 +10450,7 @@ systeminfo
 systeminformation
 systemlocale
 systems
+systemsplash
 systray
 t
 t-sql
@@ -10862,6 +10845,7 @@ twitter-hashtag
 twitter-mention
 twitter-share
 twitter-timeline
+twitter-tweet
 txt
 type
 typeaccelerators
@@ -10931,6 +10915,7 @@ ud-tool
 ud-toploader
 ud-trendline
 ud-typing
+ud-window
 ud-wordtree
 udcm
 uddi
@@ -10980,6 +10965,7 @@ unitconvesion
 unittest
 unittesting
 unity
+unitypackage
 universal
 universal-automation
 universal-dashboard
@@ -11139,7 +11125,6 @@ veeva
 venafi
 vencord
 vendor
-vendorpam
 venue
 venvlink
 vera
@@ -11278,6 +11263,7 @@ vsan
 vsan+
 vscode
 vsdevcmd
+vsdevshell
 vsenvironment
 vsm
 vso
@@ -11342,6 +11328,7 @@ wdapi
 wds
 weather
 weaviate
+weaviatenet
 web
 web-browser
 web-framework
@@ -11355,6 +11342,7 @@ webapp
 webapplicationproxy
 webapps
 webauthn
+webbrowser
 webcamera
 webcmdlets
 webdav
@@ -11615,6 +11603,7 @@ workspaceone
 workspaces
 workstation
 world
+worldcup
 worryfreebusinesssecurity
 wow
 wpad
