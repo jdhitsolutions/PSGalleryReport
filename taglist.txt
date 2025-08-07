@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Wednesday, 06 August 2025 21:52:42 UTC
+Updated: Thursday, 07 August 2025 09:55:12 UTC
 
 .bat
 .env
@@ -121,7 +121,6 @@ action
 action1
 actionablemessages
 actiongroup
-actionhero
 actionplan
 actions
 activate
@@ -394,9 +393,7 @@ ansibletower
 anthropic
 anti-malware
 antimalwarescaninterface
-antiphishing
 antispam
-antispoofing
 antivirus
 anws
 any
@@ -627,6 +624,7 @@ authenticationcertificate
 authenticationstrength
 authenticode
 authn
+author
 authoring
 authoringtools
 authorisation
@@ -1510,6 +1508,7 @@ comical
 comics
 command
 command_line
+command-line-interface
 command-validation
 commandcoverage
 commandhistory
@@ -1520,6 +1519,7 @@ commands
 commandsandresource
 commence
 comment
+comments
 commerce
 commfort
 commit
@@ -1693,14 +1693,13 @@ converttomd
 conway
 cookie
 coolq
-cooltag1
-cooltag2
 coordinates
 copilot
 copy
 copy-item
 copyfileex
 copypaste
+copyright
 core
 coreposh
 coreutils
@@ -1859,6 +1858,7 @@ customproviders
 cutehttpfileserver
 cvad
 cve
+cve-2021-34527
 cvrf
 cvss
 cwi
@@ -1981,7 +1981,6 @@ db2
 dba
 dbaas
 dbai
-dbase
 dbassistant
 dbatools
 dbcommand
@@ -2074,6 +2073,7 @@ deploy
 deployment
 deploymentconfig
 deploymentresourceprovider
+deploymenttasks
 depute
 der
 description
@@ -2158,6 +2158,8 @@ directories
 directory
 directory psedition_core psedition_desktop
 directory-transform
+directorycleanup
+directorymanagement
 directorymarks
 directorymonitoring
 directoryname
@@ -2223,7 +2225,6 @@ division
 divoom
 diy
 dkim
-dkimcheck
 dkschrutebeets
 dl
 dll
@@ -2232,7 +2233,6 @@ dlmautomation
 dlmigration
 dlp
 dmarc
-dmarccheck
 dmgr
 dmi
 dmtf
@@ -2510,11 +2510,8 @@ emacs
 email
 email-address
 emailaddressupdate
-emailauth
-emailauthchecker
 emailautomation
 emailcampain
-emailchecker
 emaildataplane
 emailmanagment
 emailnotification
@@ -2861,6 +2858,7 @@ fileexplorer
 filelist
 filelog
 filelogger
+filemaintenance
 filemanagement
 filematcher
 filename
@@ -2920,6 +2918,7 @@ findfile
 findlocation
 findplace
 findproxyforurl
+fine-print
 fine-tuning
 finops
 firebird
@@ -2951,6 +2950,7 @@ flaui
 flavor
 fleet
 fleetappsmanagement
+fleetdm
 fleetsoftwareupdate
 flex
 flex-query
@@ -3020,9 +3020,9 @@ fount
 fount-pwsh
 fountassist
 fox
-foxpro
 fqdn
 fractal
+frame
 framework
 france
 free
@@ -3057,7 +3057,6 @@ ftptoday
 fu-msauth
 fudge
 fudgepop
-fujitsu
 full
 full-metal-gnome
 fullclr
@@ -3212,8 +3211,6 @@ git-open
 git-proxy
 git-rename
 git-stat
-gitcmdline
-gitdesktop
 gitea
 gitflow
 gitforwindows
@@ -3554,7 +3551,6 @@ hrprovisioning
 hsdp
 hsl
 html
-html-templates
 htmlentity
 http
 http_proxy
@@ -4122,8 +4118,6 @@ label
 labels
 lability
 labnotifications
-laborate
-laboratory
 labrecipe
 labservices
 labsnippet
@@ -4216,6 +4210,8 @@ lifequotes
 lifestyle
 light
 lights
+lime
+limesurvey
 limit
 limit-job
 limits
@@ -4278,6 +4274,7 @@ localaccounts
 localadmin
 localconfigurationmanager
 localdb
+localdirectories
 locale
 localgroup
 localgroupmember
@@ -4320,6 +4317,7 @@ logger
 logging
 loggingingestion
 loggingsearch
+loggly
 logic
 logicapp
 logicapps
@@ -4423,7 +4421,6 @@ mailing
 mailkit
 mailmessage
 mails
-mailsecurity
 main
 main-menu
 maintain-module
@@ -4485,6 +4482,7 @@ marketplaceprivateoffer
 marketplacepublisher
 marking
 marklogic
+marquee
 marvel
 marvell
 marvell_semiconductor_inc
@@ -4687,6 +4685,7 @@ miscellaneous
 misp
 mistral
 mistralai
+mitigation
 mitre
 mitre_att&ck
 mitrend
@@ -5033,6 +5032,7 @@ nhl
 ni
 nic
 nic.ru
+nightmare
 ninite
 ninja
 ninjaone
@@ -5351,6 +5351,7 @@ osp
 ospgateway
 osprovision
 osprovisioning
+osquery
 osr
 oss
 ossec
@@ -5733,6 +5734,7 @@ poshy-viewer-finder
 poshy-wrap
 poshy-wrap-apt
 poshy-wrap-argcomplete
+poshy-wrap-brew
 poshy-wrap-curl
 poshy-wrap-dnf
 poshy-wrap-docker
@@ -5856,6 +5858,7 @@ powershellml
 powershellmodule
 powershellmoduleupdate
 powershellpr0mpt
+powershellremoting
 powershellscript
 powershelltemplate
 powershelltraining
@@ -5913,6 +5916,7 @@ printer
 printers
 printershare
 printing
+printnightmare
 printserver
 prism
 prism_element
@@ -6078,6 +6082,9 @@ pscommand_apt-list-packages
 pscommand_arch
 pscommand_asrc
 pscommand_basename
+pscommand_bcubc
+pscommand_bcubo
+pscommand_bfu
 pscommand_bgblack
 pscommand_bgblue
 pscommand_bgbrightblack
@@ -6097,6 +6104,14 @@ pscommand_bgred
 pscommand_bgrgb
 pscommand_bgwhite
 pscommand_bgyellow
+pscommand_brewp
+pscommand_brewsp
+pscommand_bubc
+pscommand_bubo
+pscommand_bubu
+pscommand_bubug
+pscommand_bugbc
+pscommand_buz
 pscommand_catimg
 pscommand_cd-
 pscommand_cd..
@@ -6729,6 +6744,17 @@ pscommand_invoke-aptgetsource
 pscommand_invoke-aptlistinstalled
 pscommand_invoke-aptlistupgradable
 pscommand_invoke-aptpreferred
+pscommand_invoke-brewlistpinned
+pscommand_invoke-brewpin
+pscommand_invoke-brewuninstallzap
+pscommand_invoke-brewupdateandoutdated
+pscommand_invoke-brewupdateandoutdatedandupgradeandcleanup
+pscommand_invoke-brewupdateandoutdatedandupgradegreedyandcleanup
+pscommand_invoke-brewupdateandoutdatedcask
+pscommand_invoke-brewupgradeandcleanup
+pscommand_invoke-brewupgradecaskandcleanup
+pscommand_invoke-brewupgradeformula
+pscommand_invoke-brewupgradegreedyandcleanup
 pscommand_invoke-curlfollowingredirects
 pscommand_invoke-curlfollowingredirectsdownloadasnamed
 pscommand_invoke-curlfollowingredirectsdownloadasnamedcontinue
@@ -8133,6 +8159,17 @@ psfunction_invoke-aptgetsource
 psfunction_invoke-aptlistinstalled
 psfunction_invoke-aptlistupgradable
 psfunction_invoke-aptpreferred
+psfunction_invoke-brewlistpinned
+psfunction_invoke-brewpin
+psfunction_invoke-brewuninstallzap
+psfunction_invoke-brewupdateandoutdated
+psfunction_invoke-brewupdateandoutdatedandupgradeandcleanup
+psfunction_invoke-brewupdateandoutdatedandupgradegreedyandcleanup
+psfunction_invoke-brewupdateandoutdatedcask
+psfunction_invoke-brewupgradeandcleanup
+psfunction_invoke-brewupgradecaskandcleanup
+psfunction_invoke-brewupgradeformula
+psfunction_invoke-brewupgradegreedyandcleanup
 psfunction_invoke-curlfollowingredirects
 psfunction_invoke-curlfollowingredirectsdownloadasnamed
 psfunction_invoke-curlfollowingredirectsdownloadasnamedcontinue
@@ -9254,6 +9291,7 @@ remote
 remote-browser
 remote-desktop
 remote'
+remoteaccess
 remoteadmin
 remotecert
 remoteconnection
@@ -9264,6 +9302,7 @@ remotedesktopconnectionmanager
 remotedesktopgateway
 remotedesktopmanager
 remotedesktopservices
+remotedirectories
 remotefiles
 remoteforensics
 remotehost
@@ -9301,7 +9340,6 @@ replace
 replaygain
 replication
 repo
-repoo
 report
 reporting
 reportingservicepoint
@@ -9666,7 +9704,6 @@ secretsanta
 secretscanner
 secretserver
 secretshub
-secretsmanagement
 secretsmanager
 secretstore
 secretvault
@@ -9777,7 +9814,6 @@ serviceconnectionpoint
 servicecontrol
 servicedesk
 servicedeskplus
-serviceendpoints
 servicefabric
 servicelinker
 servicemanagementautomation
@@ -10104,7 +10140,6 @@ spejder
 spellcheck
 spelling
 spf
-spfcheck
 spfx
 sphere
 spi
@@ -10118,7 +10153,7 @@ splunk
 spmt
 spn
 spo
-spoofing
+spooler
 sport
 sports
 sports-tracker
@@ -10370,6 +10405,7 @@ supress-reboot
 surestacks
 surround
 surveillance
+survey
 surveymonkey
 sus
 sushi
@@ -10549,7 +10585,6 @@ temp
 temperature
 template
 template-engine
-template-utility
 templater
 templates
 templating
@@ -10606,7 +10641,6 @@ text_to_speech
 text-based
 text-emoji
 text-emojis
-text-templates
 text-to-image
 text-to-speach"
 text-to-speech
@@ -10654,7 +10688,6 @@ threathunting
 threatintelligence
 threatintelligenceindicators
 threatintelligenceplatform
-threats
 threatsharing
 thumbprint
 thunderbird
@@ -10943,6 +10976,7 @@ unattended
 unattendedfile
 unblock
 unc
+uncpaths
 underlined-text
 unhide
 unicode
@@ -11125,6 +11159,7 @@ veeva
 venafi
 vencord
 vendor
+vendorpam
 venue
 venvlink
 vera
@@ -11491,6 +11526,7 @@ windowsdataprotectionapi
 windowsdefender
 windowsdesktop
 windowsdesktopsearch
+windowsdirectories
 windowsdiskcleanup
 windowsdomain
 windowsevent
