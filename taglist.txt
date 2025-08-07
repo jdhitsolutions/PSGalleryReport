@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Thursday, 07 August 2025 09:55:12 UTC
+Updated: Thursday, 07 August 2025 21:52:36 UTC
 
 .bat
 .env
@@ -121,6 +121,7 @@ action
 action1
 actionablemessages
 actiongroup
+actionhero
 actionplan
 actions
 activate
@@ -393,7 +394,9 @@ ansibletower
 anthropic
 anti-malware
 antimalwarescaninterface
+antiphishing
 antispam
+antispoofing
 antivirus
 anws
 any
@@ -1693,6 +1696,8 @@ converttomd
 conway
 cookie
 coolq
+cooltag1
+cooltag2
 coordinates
 copilot
 copy
@@ -1981,6 +1986,7 @@ db2
 dba
 dbaas
 dbai
+dbase
 dbassistant
 dbatools
 dbcommand
@@ -2127,7 +2133,6 @@ dfplayermini
 dfs
 dfw
 dg
-dhash
 dhcp
 di
 diagnostic
@@ -2225,6 +2230,7 @@ division
 divoom
 diy
 dkim
+dkimcheck
 dkschrutebeets
 dl
 dll
@@ -2233,6 +2239,7 @@ dlmautomation
 dlmigration
 dlp
 dmarc
+dmarccheck
 dmgr
 dmi
 dmtf
@@ -2510,8 +2517,11 @@ emacs
 email
 email-address
 emailaddressupdate
+emailauth
+emailauthchecker
 emailautomation
 emailcampain
+emailchecker
 emaildataplane
 emailmanagment
 emailnotification
@@ -3020,6 +3030,7 @@ fount
 fount-pwsh
 fountassist
 fox
+foxpro
 fqdn
 fractal
 frame
@@ -3057,6 +3068,7 @@ ftptoday
 fu-msauth
 fudge
 fudgepop
+fujitsu
 full
 full-metal-gnome
 fullclr
@@ -3211,6 +3223,8 @@ git-open
 git-proxy
 git-rename
 git-stat
+gitcmdline
+gitdesktop
 gitea
 gitflow
 gitforwindows
@@ -3667,7 +3681,6 @@ ilo5
 ilocmdlets
 im
 image
-image-comparison
 image-converter
 image-creation
 image-generation
@@ -3907,7 +3920,6 @@ it
 it-support
 it-tool
 it-tools
-itadministration
 italic-text
 item
 itemlist
@@ -4118,6 +4130,8 @@ label
 labels
 lability
 labnotifications
+laborate
+laboratory
 labrecipe
 labservices
 labsnippet
@@ -4421,6 +4435,7 @@ mailing
 mailkit
 mailmessage
 mails
+mailsecurity
 main
 main-menu
 maintain-module
@@ -5329,7 +5344,6 @@ orion
 orleans
 orm
 orphaned
-orphanedprofiles
 os
 osbuild
 osbuilder
@@ -5533,7 +5547,6 @@ penetrationtesting
 pentesting
 pentia
 people
-perceptual-hash
 perforce
 performance
 performance-counters
@@ -5950,13 +5963,11 @@ productmedia
 products
 productstate
 profile
-profilecleanup
 profilemanagement
 profilemigration
 profiler
 profiles
 profileupdater
-profilevalidation
 proget
 program
 program-association
@@ -9340,6 +9351,7 @@ replace
 replaygain
 replication
 repo
+repoo
 report
 reporting
 reportingservicepoint
@@ -9449,8 +9461,6 @@ rms
 rng
 roarwrecker
 robbyrussel
-robinhood
-robinhoodcrypto
 robocopy
 robot
 roca
@@ -9704,6 +9714,7 @@ secretsanta
 secretscanner
 secretserver
 secretshub
+secretsmanagement
 secretsmanager
 secretstore
 secretvault
@@ -9814,6 +9825,7 @@ serviceconnectionpoint
 servicecontrol
 servicedesk
 servicedeskplus
+serviceendpoints
 servicefabric
 servicelinker
 servicemanagementautomation
@@ -9875,7 +9887,6 @@ shadowcopy
 shadowcopybackups
 shadowgroups
 shanehoey
-shanghaitech
 shard
 share
 share-permission
@@ -10140,6 +10151,7 @@ spejder
 spellcheck
 spelling
 spf
+spfcheck
 spfx
 sphere
 spi
@@ -10153,6 +10165,7 @@ splunk
 spmt
 spn
 spo
+spoofing
 spooler
 sport
 sports
@@ -10688,6 +10701,7 @@ threathunting
 threatintelligence
 threatintelligenceindicators
 threatintelligenceplatform
+threats
 threatsharing
 thumbprint
 thunderbird
@@ -11073,8 +11087,6 @@ usermail
 usermanagement
 username
 userprofile
-userprofiles
-userprofiletools
 userreports
 userright
 userrights
@@ -11545,8 +11557,6 @@ windowspackagemanager
 windowsplugins
 windowspowershell
 windowspresentationfoundation
-windowsprofiles
-windowsregistry
 windowsreleasehealth
 windowsrest
 windowssandbox
