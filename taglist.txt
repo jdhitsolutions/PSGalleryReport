@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Saturday, 09 August 2025 09:52:20 UTC
+Updated: Saturday, 09 August 2025 21:52:11 UTC
 
 .bat
 .env
@@ -490,9 +490,7 @@ apt-get
 apt-get-update
 apteco
 aptitude
-aql
 arabic
-arangodb
 arc
 arcade
 arcgateway
@@ -1080,7 +1078,6 @@ build-log
 build-scripts
 build-test-publish
 buildautomation
-builddefinition
 builder
 buildhelpers
 building
@@ -1336,10 +1333,8 @@ clccontrol
 clccontrolapiv1
 clccontrolapiv2
 clean
-clean-up
 cleanmgr
 cleanup
-cleanup-orphans
 clear
 clear-history
 clearpass
@@ -1479,7 +1474,6 @@ cognitiveservices
 cohere
 cohesity
 coinbase
-coinflip
 coinmarketcap
 collaboration
 collatordso
@@ -1939,7 +1933,6 @@ dataexchange
 dataexplorer
 datafactory
 dataflow
-dataflowdependency
 dataframe
 datagateway
 dataintegration
@@ -2057,7 +2050,6 @@ delegated
 delegation
 delegationmodel
 delete
-delete-orphan-branches
 deletefile
 deleteuserprofile
 delivery
@@ -2453,6 +2445,7 @@ dynatraceobservability
 dz
 e-mail
 e1
+earthquakes
 easy
 easy-to-use
 easylife365
@@ -2793,6 +2786,7 @@ faf
 failedlogin
 failure
 fake
+fake-useragent
 falcon
 fallbackstatuspoint
 fanarttv
@@ -3108,7 +3102,6 @@ gateway
 gauge
 gavin
 gavineke
-gbl
 gcbdr
 gce
 gci
@@ -3269,7 +3262,6 @@ google
 google-chrome
 google-fonts
 google-histogram
-google-sankey
 google-table
 googleadsv2
 googlecloudplatform
@@ -4068,6 +4060,7 @@ keymapping
 keypair
 keysms
 keyusage
+keyvalue
 keyvault
 keywords
 kfum-spejderne
@@ -4138,7 +4131,6 @@ labservices
 labsnippet
 labtech
 labtest
-labview
 labworker
 lake
 lambda
@@ -4225,8 +4217,6 @@ lifequotes
 lifestyle
 light
 lights
-lime
-limesurvey
 limit
 limit-job
 limits
@@ -4332,6 +4322,7 @@ logger
 logging
 loggingingestion
 loggingsearch
+loggly
 logic
 logicapp
 logicapps
@@ -4802,6 +4793,7 @@ msal
 msaltoken
 msauth
 msband
+msbi
 msbuild
 msdeploy
 msdn
@@ -4923,7 +4915,6 @@ nano
 nanoleaf
 nartac
 nasdaq
-nationalinstruments
 native
 natpool
 natural
@@ -5043,7 +5034,6 @@ ngen
 ngfw
 nginx
 nhl
-ni
 nic
 nic.ru
 nightmare
@@ -5052,7 +5042,6 @@ ninja
 ninjaone
 ninjarmm
 nios
-nipkg
 nist
 nitrox
 nixos
@@ -5909,7 +5898,6 @@ preprocessor
 presentation
 presentationframework
 presenter
-presto
 preston-k-parsard
 prettifier
 pretty
@@ -9287,7 +9275,6 @@ relational
 relativity
 relay
 release
-releasedefinition
 releasehealth
 releasemanagement
 releasenotes
@@ -10217,6 +10204,7 @@ sqlproject
 sqlps
 sqlquery
 sqlserver
+sqlserveragent
 sqlserverbynarymodule
 sqlserverbynarypsmodule
 sqlserverclient
@@ -10421,7 +10409,6 @@ supress-reboot
 surestacks
 surround
 surveillance
-survey
 surveymonkey
 sus
 sushi
@@ -10547,7 +10534,6 @@ task-runner
 task-scheduler
 taskbar
 tasker
-taskgroup
 taskmanagement
 tasks
 tasksbyme
@@ -10661,7 +10647,6 @@ text-emojis
 text-templates
 text-to-image
 text-to-speach"
-text-to-speech
 text2image
 textanalysis
 textbuffer
@@ -11083,6 +11068,7 @@ usb
 useful
 user
 user-environment
+useragent
 userdiscovery
 usergroup
 usergroups
@@ -11101,6 +11087,7 @@ users
 users-management
 userworkstations
 usg
+usgs
 usps
 utc
 utf-8
@@ -11399,7 +11386,6 @@ webcamera
 webcmdlets
 webdav
 webdeploy
-webdeveloper
 webfrequest
 webhdfs
 webhelpdesk
