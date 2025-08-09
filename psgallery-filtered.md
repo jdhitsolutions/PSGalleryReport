@@ -3,6 +3,66 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [Doremy](https://www.powershellgallery.com/Packages/Doremy/0.0.5) | 0.0.5
+
+### Published: 08/09/2025 09:26:00 by Mint
+
+Doremy script collection
+
+__Downloads__: 6 | __Repository__: 
+
+## [EnvironmentModuleCore](https://www.powershellgallery.com/Packages/EnvironmentModuleCore/3.10.0) | 3.10.0
+
+### Published: 08/09/2025 05:53:33 by Marcus Walther
+
+This module includes all core features to export environment modules. Environment modules are like Powershell-Modules, but they can modify environment variables on load and restore the old environment state on remove. The functionallity was inspired by the Linux program modulecmd.
+
+__Downloads__: 1,962 | __Repository__: https://github.com/MarcusWalther/EnvironmentModuleCore
+
+## [EntraPIM](https://www.powershellgallery.com/Packages/EntraPIM/0.1.1) | 0.1.1
+
+### Published: 08/09/2025 05:16:54 by Josh - https://github.com/uniQuk
+
+EntraPIM is a PowerShell module that simplifies the management of Microsoft Entra Privileged Identity Management (PIM) roles and groups. It provides a streamlined interface for activating, deactivating, extending, and approving PIM assignments.
+
+__Downloads__: 18 | __Repository__: https://github.com/uniQuk/EntraPIM
+
+## [OSD](https://www.powershellgallery.com/Packages/OSD/25.8.9.1) | 25.8.9.1
+
+### Published: 08/09/2025 05:10:31 by David Segura . Gary Blok . Michael Escamilla
+
+OSD PowerShell Module for Windows Deployment
+
+__Downloads__: 4,458,970 | __Repository__: https://github.com/OSDeploy/OSD
+
+## [M365DSC.CompositeResources](https://www.powershellgallery.com/Packages/M365DSC.CompositeResources/1.25.806.100) | 1.25.806.100
+
+### Published: 08/09/2025 01:59:13 by Yorick Kuijs
+
+DSC composite resource for configuring Microsoft 365
+
+__Downloads__: 15,065 | __Repository__: https://github.com/ykuijs/M365DSC.CompositeResources
+
+## [GoogleFonts](https://www.powershellgallery.com/Packages/GoogleFonts/1.0.50) | 1.0.50
+
+### Published: 08/09/2025 01:05:46 by PSModule
+
+A PowerShell module to download and install fonts from GoogleFonts.
+
+__Downloads__: 11,982 | __Repository__: https://github.com/PSModule/GoogleFonts
+
+## [MASES.PLCOnNetPS](https://www.powershellgallery.com/Packages/MASES.PLCOnNetPS/0.12.3) | 0.12.3
+
+### Published: 08/09/2025 00:36:10 by MASES s.r.l.
+
+PLCOnNet (.NET suite for PLC4X™) PowerShell (aka PLCOnNetPS) is a PowerShell Module to use PLC4X™ and PowerShell side-by-side. With PLCOnNetPS it is possible to:
+- create and use PLC4X™ objects from PowerShell: initialize PLC4X™ object (Java, Scala, Kotlin, ...), execute methods on the object, read data from the object to be used for further PowerShell code 
+- send to JVM objects data managed from PowerShell: e.g. data of PowerShell, like an input from command-line or a variable, can be used as an argument for the initialization or execution of a method of a JVM object
+
+More information within the project hosted on GitHub at https://github.com/masesgroup/PLCOnNet for further information.
+
+__Downloads__: 16 | __Repository__: https://github.com/masesgroup/PLCOnNet
+
 ## [LogicMonitor](https://www.powershellgallery.com/Packages/LogicMonitor/2025.8.8.0) | 2025.8.8.0
 
 ### Published: 08/08/2025 19:21:04 by Mike Hashemi
@@ -31,14 +91,6 @@ BlueCatPoSh provides a PowerShell library for using the BlueCat IPAM API primari
 
 __Downloads__: 5 | __Repository__: https://github.com/ccamacho1966/BlueCatPoSh
 
-## [OSD](https://www.powershellgallery.com/Packages/OSD/25.8.8.2) | 25.8.8.2
-
-### Published: 08/08/2025 17:07:49 by David Segura . Gary Blok . Michael Escamilla
-
-OSD PowerShell Module for Windows Deployment
-
-__Downloads__: 4,459,196 | __Repository__: https://github.com/OSDeploy/OSD
-
 ## [monkey365](https://www.powershellgallery.com/Packages/monkey365/0.95.7) | 0.95.7
 
 ### Published: 08/08/2025 17:00:32 by Juan Garrido
@@ -46,14 +98,6 @@ __Downloads__: 4,459,196 | __Repository__: https://github.com/OSDeploy/OSD
 Monkey365 provides a tool for security consultants to easily conduct not only Microsoft 365, but also Azure subscriptions and Azure Active Directory security configuration reviews.
 
 __Downloads__: 1,176 | __Repository__: https://silverhack.github.io/monkey365/
-
-## [Doremy](https://www.powershellgallery.com/Packages/Doremy/0.0.4) | 0.0.4
-
-### Published: 08/08/2025 16:01:22 by Mint
-
-Doremy script collection
-
-__Downloads__: 6 | __Repository__: 
 
 ## [MASES.NetPDFPS](https://www.powershellgallery.com/Packages/MASES.NetPDFPS/3.0.7) | 3.0.7
 
@@ -241,7 +285,7 @@ __Downloads__: 27,431 | __Repository__: https://dev.azure.com/virtual-engine/PSR
 
 Cmdlets for Twincat ADS and device management for Powershell Core and Windows Powershell
 
-__Downloads__: 48,991 | __Repository__: https://infosys.beckhoff.com/content/1033/tc3_ads_ps_tcxaemgmt/3972231819.html?id=8731138690123386389
+__Downloads__: 48,992 | __Repository__: https://infosys.beckhoff.com/content/1033/tc3_ads_ps_tcxaemgmt/3972231819.html?id=8731138690123386389
 
 ## [Mondoo.Installer](https://www.powershellgallery.com/Packages/Mondoo.Installer/1.4.2) | 1.4.2
 
@@ -258,7 +302,7 @@ __Downloads__: 125 | __Repository__: https://github.com/mondoohq/installer/
 
 Sample module to manage AutoPilot devices using the Intune Graph API
 
-__Downloads__: 58,280 | __Repository__: 
+__Downloads__: 58,279 | __Repository__: 
 
 ## [AutoRek.IT](https://www.powershellgallery.com/Packages/AutoRek.IT/1.6) | 1.6
 
@@ -290,7 +334,7 @@ __Downloads__: 26,493 | __Repository__: https://github.com/EvotecIT/O365Essentia
 
 Helper module for Active Directory with lots of useful functions that simplify supporting Active Directory.
 
-__Downloads__: 596,360 | __Repository__: https://github.com/EvotecIT/ADEssentials
+__Downloads__: 596,357 | __Repository__: https://github.com/EvotecIT/ADEssentials
 
 ## [PSAppDeployToolkit.WinGet](https://www.powershellgallery.com/Packages/PSAppDeployToolkit.WinGet/1.0.5) | 1.0.5
 
@@ -314,7 +358,7 @@ __Downloads__: 18 | __Repository__: https://github.com/itamartz/PSDigitalOceanUs
 
 Enterprise App Deployment, Simplified.
 
-__Downloads__: 1,257,154 | __Repository__: https://psappdeploytoolkit.com/
+__Downloads__: 1,257,150 | __Repository__: https://psappdeploytoolkit.com/
 
 ## [GitHub](https://www.powershellgallery.com/Packages/GitHub/0.36.3) | 0.36.3
 
@@ -322,7 +366,7 @@ __Downloads__: 1,257,154 | __Repository__: https://psappdeploytoolkit.com/
 
 A PowerShell module to interact with GitHub, both interactively and via automation.
 
-__Downloads__: 369,857 | __Repository__: https://github.com/PSModule/GitHub
+__Downloads__: 369,858 | __Repository__: https://github.com/PSModule/GitHub
 
 ## [SEPPMail365](https://www.powershellgallery.com/Packages/SEPPMail365/1.2.9.1) | 1.2.9.1
 
@@ -436,7 +480,7 @@ __Downloads__: 1,498 | __Repository__: https://github.com/danstis/PSF-Module
 
 The community module that enables SQL Server Pros to automate database development and server administration
 
-__Downloads__: 7,001,293 | __Repository__: https://dbatools.io/
+__Downloads__: 7,001,246 | __Repository__: https://dbatools.io/
 
 ## [dbatools.library](https://www.powershellgallery.com/Packages/dbatools.library/2025.8.5) | 2025.8.5
 
@@ -444,7 +488,7 @@ __Downloads__: 7,001,293 | __Repository__: https://dbatools.io/
 
 The library that powers dbatools, the community module for SQL Server Pros
 
-__Downloads__: 3,317,701 | __Repository__: https://dbatools.io/
+__Downloads__: 3,317,658 | __Repository__: https://dbatools.io/
 
 ## [GuestConfiguration](https://www.powershellgallery.com/Packages/GuestConfiguration/4.10.0) | 4.10.0
 
@@ -476,7 +520,7 @@ __Downloads__: 28 | __Repository__:
 
 Module for PowerShell Universal.
 
-__Downloads__: 348,297 | __Repository__: https://ironmansoftware.com/powershell-universal
+__Downloads__: 348,298 | __Repository__: https://ironmansoftware.com/powershell-universal
 
 ## [BuildMasterAutomation](https://www.powershellgallery.com/Packages/BuildMasterAutomation/4.2.0) | 4.2.0
 
@@ -528,7 +572,7 @@ __Downloads__: 433 | __Repository__: https://github.com/Bill-Stewart/LocationHis
 
 Tools for installing and manage the OutSystems platform installation
 
-__Downloads__: 203,434 | __Repository__: https://github.com/OutSystems/OutSystems.SetupTools
+__Downloads__: 203,433 | __Repository__: https://github.com/OutSystems/OutSystems.SetupTools
 
 ## [MASES.KNetPS](https://www.powershellgallery.com/Packages/MASES.KNetPS/3.0.2) | 3.0.2
 
@@ -670,7 +714,7 @@ __Downloads__: 156,685 | __Repository__: https://github.com/TheTaylorLee/AdminTo
 
 Expedite simple ffmpeg actions
 
-__Downloads__: 224,389 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 224,419 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.Exchange](https://www.powershellgallery.com/Packages/AdminToolbox.Exchange/1.10.0.72) | 1.10.0.72
 
@@ -738,7 +782,7 @@ __Downloads__: 15,254 | __Repository__: https://github.com/microsoft/Test-NetHLK
 
 Tools for creating bootable physical/virtual disks from an ISO or WIM
 
-__Downloads__: 50,775 | __Repository__: 
+__Downloads__: 50,776 | __Repository__: 
 
 ## [PIMActivation](https://www.powershellgallery.com/Packages/PIMActivation/1.2.4) | 1.2.4
 
@@ -762,7 +806,7 @@ __Downloads__: 51 | __Repository__:
 
 PowerShell module to query the Logic Monitor API. This PowerShell module is developed as an open-source project and is not officially supported by LogicMonitor. It is maintained by a community of users who are passionate about enhancing its capabilities and functionality. While LogicMonitor recognizes the effort and ingenuity behind this module, please note that it is provided "as is" without any official support or warranty from LogicMonitor.
 
-__Downloads__: 2,168,043 | __Repository__: https://github.com/logicmonitor/lm-powershell-module
+__Downloads__: 2,167,850 | __Repository__: https://github.com/logicmonitor/lm-powershell-module
 
 ## [SQLEventAnalysis](https://www.powershellgallery.com/Packages/SQLEventAnalysis/2.0.3) | 2.0.3
 
@@ -1064,7 +1108,7 @@ __Downloads__: 32 | __Repository__:
 
 ServiceControl Management
 
-__Downloads__: 5,325 | __Repository__: https://github.com/Particular/ServiceControl
+__Downloads__: 5,326 | __Repository__: https://github.com/Particular/ServiceControl
 
 ## [TheDashboard](https://www.powershellgallery.com/Packages/TheDashboard/0.0.42) | 0.0.42
 
@@ -1146,14 +1190,6 @@ Helpers to interact with a Laravel application's components
 
 __Downloads__: 37 | __Repository__: https://github.com/metanull/ManageMyOwnWebServerOnWindows
 
-## [GoogleFonts](https://www.powershellgallery.com/Packages/GoogleFonts/1.0.49) | 1.0.49
-
-### Published: 07/31/2025 09:53:48 by PSModule
-
-A PowerShell module to download and install fonts from GoogleFonts.
-
-__Downloads__: 11,982 | __Repository__: https://github.com/PSModule/GoogleFonts
-
 ## [PS.M365UsageReport](https://www.powershellgallery.com/Packages/PS.M365UsageReport/2.0.1) | 2.0.1
 
 ### Published: 07/31/2025 05:34:14 by June Castillote
@@ -1189,14 +1225,6 @@ PowerShell module for managing the Tasks by Me Entra ID application. Provides cm
 
 __Downloads__: 28 | __Repository__: https://github.com/maxoffice/tasksbyme
 
-## [M365DSC.CompositeResources](https://www.powershellgallery.com/Packages/M365DSC.CompositeResources/1.25.730.100) | 1.25.730.100
-
-### Published: 07/31/2025 02:05:51 by Yorick Kuijs
-
-DSC composite resource for configuring Microsoft 365
-
-__Downloads__: 15,065 | __Repository__: https://github.com/ykuijs/M365DSC.CompositeResources
-
 ## [AsBuiltReport.Microsoft.Windows](https://www.powershellgallery.com/Packages/AsBuiltReport.Microsoft.Windows/0.5.7) | 0.5.7
 
 ### Published: 07/31/2025 01:50:44 by Andrew Ramsay
@@ -1211,7 +1239,7 @@ __Downloads__: 43,667 | __Repository__: https://github.com/AsBuiltReport/AsBuilt
 
 PowerShell Commander
 
-__Downloads__: 39,756 | __Repository__: https://github.com/Keeper-Security/keeper-sdk-dotnet
+__Downloads__: 39,755 | __Repository__: https://github.com/Keeper-Security/keeper-sdk-dotnet
 
 ## [nxtools](https://www.powershellgallery.com/Packages/nxtools/1.6.0) | 1.6.0
 
@@ -2022,28 +2050,4 @@ This modules provides Cmdlets for OCI Dts Service
 
 __Downloads__: 12,473 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-## [OCI.PSModules.Dns](https://www.powershellgallery.com/Packages/OCI.PSModules.Dns/112.0.0) | 112.0.0
-
-### Published: 07/30/2025 19:11:44 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Dns Service
-
-__Downloads__: 12,188 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Distributeddatabase](https://www.powershellgallery.com/Packages/OCI.PSModules.Distributeddatabase/112.0.0) | 112.0.0
-
-### Published: 07/30/2025 19:11:37 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Distributeddatabase Service
-
-__Downloads__: 368 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Disasterrecovery](https://www.powershellgallery.com/Packages/OCI.PSModules.Disasterrecovery/112.0.0) | 112.0.0
-
-### Published: 07/30/2025 19:11:32 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Disasterrecovery Service
-
-__Downloads__: 9,109 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-*Updated: Friday, 08 August 2025 21:51:53 UTC*
+*Updated: Saturday, 09 August 2025 09:52:11 UTC*

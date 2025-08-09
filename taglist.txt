@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Friday, 08 August 2025 21:52:01 UTC
+Updated: Saturday, 09 August 2025 09:52:20 UTC
 
 .bat
 .env
@@ -1847,6 +1847,11 @@ customdns
 customer
 customerengagement
 customers
+customeventchannel
+customeventlog
+customeventlogchannel
+customeventlogfile
+customeventlogfiles
 customevents
 custominformationservices
 customis
@@ -2448,7 +2453,6 @@ dynatraceobservability
 dz
 e-mail
 e1
-earthquakes
 easy
 easy-to-use
 easylife365
@@ -2654,6 +2658,8 @@ event
 event_id
 event_list
 event-timeline
+eventchannel
+eventchannels
 eventcollector
 eventful
 eventgrid
@@ -2661,6 +2667,9 @@ eventhub
 eventing
 eventlist
 eventlog
+eventlogchannel
+eventlogchannels
+eventlogmanifest
 eventlogs
 eventmonitoring
 eventprocessor
@@ -2784,7 +2793,6 @@ faf
 failedlogin
 failure
 fake
-fake-useragent
 falcon
 fallbackstatuspoint
 fanarttv
@@ -3213,6 +3221,8 @@ git-open
 git-proxy
 git-rename
 git-stat
+gitcmdline
+gitdesktop
 gitea
 gitflow
 gitforwindows
@@ -4058,7 +4068,6 @@ keymapping
 keypair
 keysms
 keyusage
-keyvalue
 keyvault
 keywords
 kfum-spejderne
@@ -4323,7 +4332,6 @@ logger
 logging
 loggingingestion
 loggingsearch
-loggly
 logic
 logicapp
 logicapps
@@ -7830,6 +7838,7 @@ pscore
 pscredential
 pscribo
 pscustomobject
+psd
 psd1
 psdb
 psdefaultparametervalues
@@ -9342,6 +9351,7 @@ replace
 replaygain
 replication
 repo
+repoo
 report
 reporting
 reportingservicepoint
@@ -10168,6 +10178,7 @@ spotify
 spotify-api
 spotlight
 spotlightimages
+spp
 spread
 spreadsheet
 spreadsheets
@@ -10795,6 +10806,7 @@ transact
 transaction
 transactions
 transcode
+transcribe
 transcript
 transcripts
 transform
@@ -11071,7 +11083,6 @@ usb
 useful
 user
 user-environment
-useragent
 userdiscovery
 usergroup
 usergroups
@@ -11090,7 +11101,6 @@ users
 users-management
 userworkstations
 usg
-usgs
 usps
 utc
 utf-8
@@ -11536,6 +11546,7 @@ windowsdesktopsearch
 windowsdirectories
 windowsdiskcleanup
 windowsdomain
+windowsevent
 windowseventlog
 windowsform
 windowsforms
@@ -11774,6 +11785,7 @@ ynab
 yokohama
 youtube
 youtube-dl
+youtube-transcript
 youtubeextractor
 yq
 yts
