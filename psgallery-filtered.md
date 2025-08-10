@@ -3,11 +3,59 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
-## [PSDigitalOcean](https://www.powershellgallery.com/Packages/PSDigitalOcean/1.6.0) | 1.6.0
+## [BinEnvPath](https://www.powershellgallery.com/Packages/BinEnvPath/0.0.2) | 0.0.2
 
-### Published: 08/09/2025 21:47:40 by Itamar Tziger
+### Published: 08/10/2025 07:36:27 by Henrique do Val
 
-A comprehensive PowerShell module for managing DigitalOcean resources with enterprise-grade reliability and extensive test coverage (79% with 549 tests). Features complete class-based architecture, robust error handling, and full API integration including volume management.
+Update Path environment variable for the current session. Diagnoses, adds and removes entries from path in registry
+
+__Downloads__: 0 | __Repository__: https://github.com/HenriquedoVal/envpath
+
+## [ServerProtection](https://www.powershellgallery.com/Packages/ServerProtection/1.0.0) | 1.0.0
+
+### Published: 08/10/2025 07:15:56 by Lessi Coulibaly
+
+Comprehensive PowerShell module for server protection through Azure Arc onboarding and Microsoft Defender for Servers (DFS) integration. Microsoft Defender for Servers provides advanced threat protection, vulnerability assessment, and security monitoring for server workloads in Microsoft Defender for Cloud. Features enterprise-grade prerequisites validation covering OS compatibility, system requirements, PowerShell environment, network connectivity, Windows services, security configuration, and Azure Arc readiness. Includes automated remediation script generation, detailed reporting, multi-device batch processing for enterprise environments, comprehensive Azure Arc diagnostic tools for troubleshooting and support, and post-deployment Defender for Servers pricing configuration at the resource level. Streamlines the deployment of advanced threat detection, behavioral analytics, just-in-time VM access, adaptive application controls, and integration with Azure Security Center.
+
+__Downloads__: 0 | __Repository__: https://github.com/coullessi/PowerShell
+
+## [LocalRepoManager](https://www.powershellgallery.com/Packages/LocalRepoManager/1.0.1) | 1.0.1
+
+### Published: 08/10/2025 06:27:40 by PowerShell Community
+
+PowerShell module for managing local NuGet repositories, installing modules from NuPkg files, and creating repository symlinks.
+
+__Downloads__: 0 | __Repository__: https://github.com/YourOrg/LocalRepoManager
+
+## [OSD](https://www.powershellgallery.com/Packages/OSD/25.8.10.1) | 25.8.10.1
+
+### Published: 08/10/2025 05:10:21 by David Segura . Gary Blok . Michael Escamilla
+
+OSD PowerShell Module for Windows Deployment
+
+__Downloads__: 4,471,472 | __Repository__: https://github.com/OSDeploy/OSD
+
+## [BurntToast](https://www.powershellgallery.com/Packages/BurntToast/1.1.0) | 1.1.0
+
+### Published: 08/10/2025 04:24:54 by Joshua (Windos) King
+
+Module for creating and displaying Toast Notifications on Microsoft Windows 10.
+
+__Downloads__: 26,302,891 | __Repository__: https://github.com/Windos/BurntToast
+
+## [PowershellFunctions007](https://www.powershellgallery.com/Packages/PowershellFunctions007/2.6.1) | 2.6.1
+
+### Published: 08/10/2025 02:13:37 by Peter Cullen Burbery
+
+PowerShell utilities for configuring Windows systems, managing environments, customizing time and date settings, and automating administrative tasks.
+
+__Downloads__: 74 | __Repository__: https://github.com/PeterCullenBurbery/powershell-functions-007
+
+## [PSDigitalOcean](https://www.powershellgallery.com/Packages/PSDigitalOcean/1.7.0) | 1.7.0
+
+### Published: 08/09/2025 23:37:39 by Itamar Tziger
+
+A comprehensive PowerShell module for managing DigitalOcean resources with enterprise-grade reliability and extensive test coverage (96.03% with 599 tests). Features complete class-based architecture, robust error handling, and full API integration including comprehensive volume management.
 
 __Downloads__: 20 | __Repository__: https://github.com/itamartz/PSDigitalOceanUsingSampler
 
@@ -34,14 +82,6 @@ __Downloads__: 25,886 | __Repository__: https://github.com/chris-peterson/pwsh-g
 Helper module for Active Directory with lots of useful functions that simplify supporting Active Directory.
 
 __Downloads__: 596,518 | __Repository__: https://github.com/EvotecIT/ADEssentials
-
-## [OSD](https://www.powershellgallery.com/Packages/OSD/25.8.9.3) | 25.8.9.3
-
-### Published: 08/09/2025 17:07:07 by David Segura . Gary Blok . Michael Escamilla
-
-OSD PowerShell Module for Windows Deployment
-
-__Downloads__: 4,471,435 | __Repository__: https://github.com/OSDeploy/OSD
 
 ## [FleetDM-PowerShell](https://www.powershellgallery.com/Packages/FleetDM-PowerShell/2.0.1) | 2.0.1
 
@@ -163,18 +203,6 @@ Monkey365 provides a tool for security consultants to easily conduct not only Mi
 
 __Downloads__: 1,196 | __Repository__: https://silverhack.github.io/monkey365/
 
-## [MASES.NetPDFPS](https://www.powershellgallery.com/Packages/MASES.NetPDFPS/3.0.7) | 3.0.7
-
-### Published: 08/08/2025 15:23:29 by MASES s.r.l.
-
-NetPDF (.NET suite for PDFBox™) PowerShell (aka NetPDFPS) is a PowerShell Module to use PDFBox™ and PowerShell side-by-side. With NetPDFPS it is possible to:
-- create and use PDFBox™ objects from PowerShell: initialize PDFBox™ object (Java, Scala, Kotlin, ...), execute methods on the object, read data from the object to be used for further PowerShell code 
-- send to JVM objects data managed from PowerShell: e.g. data of PowerShell, like an input from command-line or a variable, can be used as an argument for the initialization or execution of a method of a JVM object
-
-More information within the project hosted on GitHub at https://github.com/masesgroup/NetPDF for further information.
-
-__Downloads__: 57 | __Repository__: https://github.com/masesgroup/NetPDF
-
 ## [Zivver](https://www.powershellgallery.com/Packages/Zivver/1.0.3) | 1.0.3
 
 ### Published: 08/08/2025 13:23:04 by Martijn van de Pol
@@ -182,6 +210,14 @@ __Downloads__: 57 | __Repository__: https://github.com/masesgroup/NetPDF
 PowerShell module for managing Zivver users and groups via the SCIM API. https://github.com/polcomp/Zivver
 
 __Downloads__: 9 | __Repository__: 
+
+## [GinShell](https://www.powershellgallery.com/Packages/GinShell/1.3.1) | 1.3.1
+
+### Published: 08/08/2025 12:30:41 by Abdur Rashid Mondal
+
+This module was created for multiple use cases. Initially, it was built for the CloudInfra Management Team and their work.
+
+__Downloads__: 78 | __Repository__: 
 
 ## [CostExportV2IngestData](https://www.powershellgallery.com/Packages/CostExportV2IngestData/1.1.4) | 1.1.4
 
@@ -520,7 +556,7 @@ __Downloads__: 7,008,456 | __Repository__: https://dbatools.io/
 
 The library that powers dbatools, the community module for SQL Server Pros
 
-__Downloads__: 3,325,908 | __Repository__: https://dbatools.io/
+__Downloads__: 3,325,937 | __Repository__: https://dbatools.io/
 
 ## [GuestConfiguration](https://www.powershellgallery.com/Packages/GuestConfiguration/4.10.0) | 4.10.0
 
@@ -722,7 +758,7 @@ __Downloads__: 324,363 | __Repository__: https://github.com/TheTaylorLee/AdminTo
 
 Microsoft Graph interactive API Functions
 
-__Downloads__: 108,246 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 108,245 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.Fun](https://www.powershellgallery.com/Packages/AdminToolbox.Fun/1.7.0.72) | 1.7.0.72
 
@@ -746,7 +782,7 @@ __Downloads__: 156,694 | __Repository__: https://github.com/TheTaylorLee/AdminTo
 
 Expedite simple ffmpeg actions
 
-__Downloads__: 224,518 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 224,517 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.Exchange](https://www.powershellgallery.com/Packages/AdminToolbox.Exchange/1.10.0.72) | 1.10.0.72
 
@@ -754,7 +790,7 @@ __Downloads__: 224,518 | __Repository__: https://github.com/TheTaylorLee/AdminTo
 
 Functions for Exchange Management
 
-__Downloads__: 188,517 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 188,516 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.EndpointManagement](https://www.powershellgallery.com/Packages/AdminToolbox.EndpointManagement/4.15.0.3) | 4.15.0.3
 
@@ -770,7 +806,7 @@ __Downloads__: 176,243 | __Repository__: https://github.com/TheTaylorLee/AdminTo
 
 Functions for Active Directory
 
-__Downloads__: 193,881 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 193,880 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [copilot-chatmodes](https://www.powershellgallery.com/Packages/copilot-chatmodes/0.1.0) | 0.1.0
 
@@ -883,6 +919,14 @@ __Downloads__: 1,340 | __Repository__:
 Module to publish markdown files to Blogger
 
 __Downloads__: 24 | __Repository__: https://github.com/bryanbcook/PSBlogger
+
+## [OMG.PSUtilities.AzureDevOps](https://www.powershellgallery.com/Packages/OMG.PSUtilities.AzureDevOps/1.0.4) | 1.0.4
+
+### Published: 08/03/2025 19:24:34 by Lakshmanachari Panuganti
+
+Interact with Azure DevOps APIs, pipelines, repos, and work items.
+
+__Downloads__: 30 | __Repository__: 
 
 ## [UncommonSense.Trouw](https://www.powershellgallery.com/Packages/UncommonSense.Trouw/0.0.36.0) | 0.0.36.0
 
@@ -1003,14 +1047,6 @@ __Downloads__: 6 | __Repository__:
 An experimental PowerShell module for Linux nerds. A bit Debian/Cinnamon focused, but no reason to limit this. Because: why not?
 
 __Downloads__: 288 | __Repository__: https://github.com/Skatterbrainz/LinuxTools
-
-## [PowershellFunctions007](https://www.powershellgallery.com/Packages/PowershellFunctions007/2.4.0) | 2.4.0
-
-### Published: 08/02/2025 15:12:13 by Peter Cullen Burbery
-
-PowerShell utilities for configuring Windows systems, managing environments, customizing time and date settings, and automating administrative tasks.
-
-__Downloads__: 74 | __Repository__: https://github.com/PeterCullenBurbery/powershell-functions-007
 
 ## [PowershellFunctions005](https://www.powershellgallery.com/Packages/PowershellFunctions005/2.3.0) | 2.3.0
 
@@ -1255,7 +1291,7 @@ __Downloads__: 28 | __Repository__: https://github.com/maxoffice/tasksbyme
 
 A PowerShell module to generate an as built report on the configuration of Microsoft Windows.
 
-__Downloads__: 43,680 | __Repository__: https://github.com/AsBuiltReport/AsBuiltReport.Microsoft.Windows
+__Downloads__: 43,674 | __Repository__: https://github.com/AsBuiltReport/AsBuiltReport.Microsoft.Windows
 
 ## [PowerCommander](https://www.powershellgallery.com/Packages/PowerCommander/1.0.4) | 1.0.4
 
@@ -2010,44 +2046,4 @@ This modules provides Cmdlets for OCI Functions Service
 
 __Downloads__: 12,092 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-## [OCI.PSModules.Fleetsoftwareupdate](https://www.powershellgallery.com/Packages/OCI.PSModules.Fleetsoftwareupdate/112.0.0) | 112.0.0
-
-### Published: 07/30/2025 19:12:58 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Fleetsoftwareupdate Service
-
-__Downloads__: 7,741 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Fleetappsmanagement](https://www.powershellgallery.com/Packages/OCI.PSModules.Fleetappsmanagement/112.0.0) | 112.0.0
-
-### Published: 07/30/2025 19:12:53 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Fleetappsmanagement Service
-
-__Downloads__: 2,471 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Filestorage](https://www.powershellgallery.com/Packages/OCI.PSModules.Filestorage/112.0.0) | 112.0.0
-
-### Published: 07/30/2025 19:12:45 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Filestorage Service
-
-__Downloads__: 14,905 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Events](https://www.powershellgallery.com/Packages/OCI.PSModules.Events/112.0.0) | 112.0.0
-
-### Published: 07/30/2025 19:12:39 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Events Service
-
-__Downloads__: 12,194 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Emwarehouse](https://www.powershellgallery.com/Packages/OCI.PSModules.Emwarehouse/112.0.0) | 112.0.0
-
-### Published: 07/30/2025 19:12:33 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Emwarehouse Service
-
-__Downloads__: 9,657 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-*Updated: Saturday, 09 August 2025 21:52:02 UTC*
+*Updated: Sunday, 10 August 2025 09:51:56 UTC*
