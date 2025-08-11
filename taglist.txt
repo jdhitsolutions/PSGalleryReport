@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Sunday, 10 August 2025 21:52:00 UTC
+Updated: Monday, 11 August 2025 09:54:52 UTC
 
 .bat
 .env
@@ -121,7 +121,6 @@ action
 action1
 actionablemessages
 actiongroup
-actionhero
 actionplan
 actions
 activate
@@ -341,6 +340,7 @@ alto
 alwaysontop
 alwaysonvpn
 alz
+ama.alz
 amateur
 amateur-data-interchange-format
 amateur-radio
@@ -742,6 +742,7 @@ azpublicipaddress
 azresources
 azsdk
 azsk
+azsql
 azstackhci
 azstate
 azsubnet
@@ -1046,7 +1047,6 @@ breakpoint
 brevo
 brew
 brickset
-brickstore
 bridge
 brightbooking
 brightness
@@ -1110,6 +1110,7 @@ businesstime
 bxor
 bydesign
 byexample
+bynarypsmodule
 byte
 bytearray
 bzip2
@@ -1198,7 +1199,6 @@ cdrom
 cds
 cdx
 ce
-celcat
 celerium
 censor
 center
@@ -1275,6 +1275,7 @@ choco-bear
 chocobear
 chocolatey
 choice
+choose_file
 choose_file_name
 choose_folder
 chooser
@@ -1334,10 +1335,8 @@ clccontrol
 clccontrolapiv1
 clccontrolapiv2
 clean
-clean-up
 cleanmgr
 cleanup
-cleanup-orphans
 clear
 clear-history
 clearpass
@@ -1384,6 +1383,7 @@ cloud_data_management
 cloud-backup
 cloud-computing
 cloud-init
+cloud-iq
 cloud-security-configuration-review
 cloudai
 cloudant
@@ -1404,6 +1404,7 @@ cloudguard
 cloudhsm
 cloudinairy
 cloudinit
+cloudiq
 cloudkey
 cloudmarque
 cloudmigrations
@@ -1745,6 +1746,7 @@ cqhttp
 crack psmodule
 crash
 crawler
+crayon
 crc
 crc32
 create
@@ -2054,7 +2056,6 @@ delegated
 delegation
 delegationmodel
 delete
-delete-orphan-branches
 deletefile
 deleteuserprofile
 delivery
@@ -2130,6 +2131,7 @@ dfplayermini
 dfs
 dfw
 dg
+dhash
 dhcp
 di
 diagnostic
@@ -2898,6 +2900,7 @@ fill
 film
 filter
 filter-item
+filtering
 fim
 fims
 finance
@@ -3677,6 +3680,7 @@ ilo5
 ilocmdlets
 im
 image
+image-comparison
 image-converter
 image-creation
 image-generation
@@ -3928,6 +3932,7 @@ iteration
 itg
 itglue
 itin
+itops
 itsm
 itstore
 ivanti
@@ -4202,6 +4207,7 @@ letsencrypt
 lf
 lgpo
 libgit2
+libmagic
 libraries
 library
 libvirt
@@ -4399,7 +4405,6 @@ lzip-compression
 m365
 m365defenderstuff
 m365dsc
-maas360
 maatschap-fortigi
 mac
 mac-address
@@ -4480,6 +4485,7 @@ mapping
 maps
 mapsapi
 mariadb
+mark
 markdig
 markdown
 markdownrender
@@ -4490,6 +4496,7 @@ marketplace
 marketplaceordering
 marketplaceprivateoffer
 marketplacepublisher
+marking
 marklogic
 marquee
 marvel
@@ -4644,7 +4651,6 @@ microsoftdefenderatp
 microsoftdefenderforidentity
 microsoftdeploymenttoolkit
 microsoftendpointmanager
-microsoftentra
 microsoftexchangeserver
 microsoftfabric
 microsoftgraph
@@ -4664,7 +4670,6 @@ microsoftteamsphone
 microsoftupdate
 microsoftword
 middleware
-midserver
 migrate
 migration
 migration-tool
@@ -5270,6 +5275,7 @@ open
 open-ai
 open-ssh
 openai
+openaiclient
 openamt
 openapi
 opendata
@@ -5540,6 +5546,7 @@ penetrationtesting
 pentesting
 pentia
 people
+perceptual-hash
 perforce
 performance
 performance-counters
@@ -5971,7 +5978,6 @@ progressbars
 project
 project-management
 projectmanagement
-projectreunion
 projects
 projecttemplate
 projectwise
@@ -9574,6 +9580,7 @@ sapstartstopazure
 sarcasm
 sarif
 sas
+sat
 satirical
 save
 savedcreds
@@ -9592,7 +9599,6 @@ scale
 scan
 scanner
 scanning
-scap
 scatter
 scb
 scc
@@ -9728,6 +9734,7 @@ securesphere
 securestring
 security
 security_cameras
+security-awareness-training
 security-policy
 security-score
 security-txt
@@ -9945,7 +9952,6 @@ silver_ticket
 sim
 simac
 simple
-simplecontainers
 simplepassword
 simplepasswordgenerator
 simplivity
@@ -10189,9 +10195,11 @@ sqlclient
 sqlcmd
 sqlcodeguard
 sqldatabase
+sqldb
 sqldbatools
 sqldiagapi
 sqlexport
+sqlgateway
 sqlite
 sqlitebynarymodule
 sqlitebynarypsmodule
@@ -10261,8 +10269,6 @@ stale
 stan
 stanc
 standard
-standarderror
-standardoutput
 standards
 standbypool
 stansummary
@@ -10294,8 +10300,8 @@ statuscake
 statuscode
 statusmonitor
 statusreportingcomponent
+staytus
 stderr
-stdio
 stdout
 steam
 steam-games
@@ -10404,6 +10410,7 @@ supermarket
 support
 support-tool
 support-tools
+supporttools
 suppress
 supress-reboot
 surestacks
@@ -10783,7 +10790,9 @@ tracker
 tracking
 trading
 traffic
+trafficfiltering
 trafficmanager
+trafficmarking
 train
 trainer
 training
@@ -11038,6 +11047,7 @@ updmanagement
 updmgmt
 upgrade
 uplift
+uplink
 uploadindicators
 uploadindicatorsapi
 ups
@@ -11152,6 +11162,9 @@ vcsa
 vcvars
 vdi
 vdp
+vdportgroup
+vdswitch
+vduplink
 ve7cc
 vector
 veeam
@@ -11238,8 +11251,10 @@ vmfs
 vmgroup
 vmhost
 vmhostgroup
+vmhostnetworkadapater
 vmimage
 vmmanagement
+vmnic
 vmrole
 vmss
 vmtovmhostrule
@@ -11309,7 +11324,6 @@ vss
 vssetup
 vsshell
 vst
-vsteambuilder
 vsteams
 vstest
 vsts

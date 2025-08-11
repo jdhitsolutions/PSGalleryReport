@@ -3,6 +3,70 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [BinEnvPath](https://www.powershellgallery.com/Packages/BinEnvPath/0.0.3) | 0.0.3
+
+### Published: 08/11/2025 08:16:02 by Henrique do Val
+
+Update Path environment variable for the current session. Diagnoses, adds and removes entries from path in registry
+
+__Downloads__: 4 | __Repository__: https://github.com/HenriquedoVal/envpath
+
+## [SSY.Test](https://www.powershellgallery.com/Packages/SSY.Test/1.0.0) | 1.0.0
+
+### Published: 08/11/2025 06:17:37 by Your Name Here
+
+A simple PowerShell module containing a Hello World cmdlet for demonstration purposes.
+
+__Downloads__: 1 | __Repository__: 
+
+## [OMG.PSUtilities.AzureDevOps](https://www.powershellgallery.com/Packages/OMG.PSUtilities.AzureDevOps/1.0.5) | 1.0.5
+
+### Published: 08/11/2025 05:54:47 by Lakshmanachari Panuganti
+
+Interact with Azure DevOps APIs, pipelines, repos, and work items.
+
+__Downloads__: 30 | __Repository__: 
+
+## [OSD](https://www.powershellgallery.com/Packages/OSD/25.8.11.1) | 25.8.11.1
+
+### Published: 08/11/2025 05:13:45 by David Segura . Gary Blok . Michael Escamilla
+
+OSD PowerShell Module for Windows Deployment
+
+__Downloads__: 4,473,287 | __Repository__: https://github.com/OSDeploy/OSD
+
+## [OMG.PSUtilities.Core](https://www.powershellgallery.com/Packages/OMG.PSUtilities.Core/1.0.7) | 1.0.7
+
+### Published: 08/11/2025 04:11:32 by Lakshmanachari Panuganti
+
+General purpose PowerShell utilities and system-level tools.
+
+__Downloads__: 78 | __Repository__: 
+
+## [AzPolicyTest](https://www.powershellgallery.com/Packages/AzPolicyTest/2.8.1) | 2.8.1
+
+### Published: 08/11/2025 01:46:31 by Tao Yang
+
+Provides pre-defined pester tests for Azure Policy and Initiative definitions
+
+__Downloads__: 2,445 | __Repository__: https://github.com/tyconsulting/AzPolicyTest
+
+## [ISEAddonMenu.cmdlets](https://www.powershellgallery.com/Packages/ISEAddonMenu.cmdlets/1.0.0) | 1.0.0
+
+### Published: 08/10/2025 23:13:13 by Jeff Pollock
+
+Lightweight PowerShell module that transforms the ISE into a context-aware, centrally managed launchpad for your support tools.
+
+__Downloads__: 0 | __Repository__: https://github.com/phriendx/ISEAddonMenu.cmdlets
+
+## [WindmillClient](https://www.powershellgallery.com/Packages/WindmillClient/1.522.0) | 1.522.0
+
+### Published: 08/10/2025 22:26:41 by Windmill Labs
+
+Client for the Windmill platform.
+
+__Downloads__: 6,249 | __Repository__: https://github.com/windmill-labs/windmill/tree/main/powershell-client
+
 ## [Wsl-Manager](https://www.powershellgallery.com/Packages/Wsl-Manager/1.5.0) | 1.5.0
 
 ### Published: 08/10/2025 19:13:51 by Antoine Martin
@@ -18,14 +82,6 @@ __Downloads__: 3,207 | __Repository__: https://github.com/antoinemartin/PowerShe
 PowerShell module for managing local NuGet repositories, installing modules from NuPkg files, and creating repository symlinks.
 
 __Downloads__: 13 | __Repository__: https://github.com/YourOrg/LocalRepoManager
-
-## [OSD](https://www.powershellgallery.com/Packages/OSD/25.8.10.3) | 25.8.10.3
-
-### Published: 08/10/2025 17:06:28 by David Segura . Gary Blok . Michael Escamilla
-
-OSD PowerShell Module for Windows Deployment
-
-__Downloads__: 4,473,289 | __Repository__: https://github.com/OSDeploy/OSD
 
 ## [K.PSGallery.LoggingModule](https://www.powershellgallery.com/Packages/K.PSGallery.LoggingModule/1.1.47) | 1.1.47
 
@@ -67,22 +123,6 @@ The non-official OpenAI PowerShell module. This module is used to interact with 
 
 __Downloads__: 56,931 | __Repository__: https://github.com/chenxizhang/openai-powershell/
 
-## [AzPolicyTest](https://www.powershellgallery.com/Packages/AzPolicyTest/2.8.0) | 2.8.0
-
-### Published: 08/10/2025 10:51:29 by Tao Yang
-
-Provides pre-defined pester tests for Azure Policy and Initiative definitions
-
-__Downloads__: 2,445 | __Repository__: https://github.com/tyconsulting/AzPolicyTest
-
-## [BinEnvPath](https://www.powershellgallery.com/Packages/BinEnvPath/0.0.2) | 0.0.2
-
-### Published: 08/10/2025 07:36:27 by Henrique do Val
-
-Update Path environment variable for the current session. Diagnoses, adds and removes entries from path in registry
-
-__Downloads__: 4 | __Repository__: https://github.com/HenriquedoVal/envpath
-
 ## [ServerProtection](https://www.powershellgallery.com/Packages/ServerProtection/1.0.0) | 1.0.0
 
 ### Published: 08/10/2025 07:15:56 by Lessi Coulibaly
@@ -115,14 +155,6 @@ A comprehensive PowerShell module for managing DigitalOcean resources with enter
 
 __Downloads__: 28 | __Repository__: https://github.com/itamartz/PSDigitalOceanUsingSampler
 
-## [SyslogCmdlet](https://www.powershellgallery.com/Packages/SyslogCmdlet/1.0.2) | 1.0.2
-
-### Published: 08/09/2025 19:44:07 by Arksoft Bilisim
-
-Syslog client cmdlet for PowerShell
-
-__Downloads__: 6 | __Repository__: 
-
 ## [GitlabCli](https://www.powershellgallery.com/Packages/GitlabCli/1.130.0) | 1.130.0
 
 ### Published: 08/09/2025 19:32:16 by Chris Peterson
@@ -137,7 +169,7 @@ __Downloads__: 25,898 | __Repository__: https://github.com/chris-peterson/pwsh-g
 
 Helper module for Active Directory with lots of useful functions that simplify supporting Active Directory.
 
-__Downloads__: 596,579 | __Repository__: https://github.com/EvotecIT/ADEssentials
+__Downloads__: 596,578 | __Repository__: https://github.com/EvotecIT/ADEssentials
 
 ## [FleetDM-PowerShell](https://www.powershellgallery.com/Packages/FleetDM-PowerShell/2.0.1) | 2.0.1
 
@@ -186,14 +218,6 @@ __Downloads__: 25 | __Repository__:
 This module includes all core features to export environment modules. Environment modules are like Powershell-Modules, but they can modify environment variables on load and restore the old environment state on remove. The functionallity was inspired by the Linux program modulecmd.
 
 __Downloads__: 1,966 | __Repository__: https://github.com/MarcusWalther/EnvironmentModuleCore
-
-## [EntraPIM](https://www.powershellgallery.com/Packages/EntraPIM/0.1.1) | 0.1.1
-
-### Published: 08/09/2025 05:16:54 by Josh - https://github.com/uniQuk
-
-EntraPIM is a PowerShell module that simplifies the management of Microsoft Entra Privileged Identity Management (PIM) roles and groups. It provides a streamlined interface for activating, deactivating, extending, and approving PIM assignments.
-
-__Downloads__: 24 | __Repository__: https://github.com/uniQuk/EntraPIM
 
 ## [M365DSC.CompositeResources](https://www.powershellgallery.com/Packages/M365DSC.CompositeResources/1.25.806.100) | 1.25.806.100
 
@@ -415,14 +439,6 @@ Integris Deployment Tool
 
 __Downloads__: 1,543 | __Repository__: 
 
-## [WindmillClient](https://www.powershellgallery.com/Packages/WindmillClient/1.520.1) | 1.520.1
-
-### Published: 08/07/2025 16:30:15 by Windmill Labs
-
-Client for the Windmill platform.
-
-__Downloads__: 6,249 | __Repository__: https://github.com/windmill-labs/windmill/tree/main/powershell-client
-
 ## [VirtualEngine.EvergreenDsc](https://www.powershellgallery.com/Packages/VirtualEngine.EvergreenDsc/1.7.1) | 1.7.1
 
 ### Published: 08/07/2025 15:55:58 by Iain Brighton
@@ -616,7 +632,7 @@ __Downloads__: 7,014,516 | __Repository__: https://dbatools.io/
 
 The library that powers dbatools, the community module for SQL Server Pros
 
-__Downloads__: 3,333,100 | __Repository__: https://dbatools.io/
+__Downloads__: 3,333,127 | __Repository__: https://dbatools.io/
 
 ## [GuestConfiguration](https://www.powershellgallery.com/Packages/GuestConfiguration/4.10.0) | 4.10.0
 
@@ -918,7 +934,7 @@ __Downloads__: 50,794 | __Repository__:
 
 PowerShell module for managing Microsoft Entra ID Privileged Identity Management (PIM) role activations through a modern GUI interface. Supports authentication context, bulk operations, and policy compliance. Developed with AI assistance. Requires PowerShell 7+.
 
-__Downloads__: 154 | __Repository__: https://github.com/Noble-Effeciency13/PIMActivation
+__Downloads__: 155 | __Repository__: https://github.com/Noble-Effeciency13/PIMActivation
 
 ## [Pagootle](https://www.powershellgallery.com/Packages/Pagootle/1.3.2) | 1.3.2
 
@@ -934,15 +950,7 @@ __Downloads__: 52 | __Repository__:
 
 PowerShell module to query the Logic Monitor API. This PowerShell module is developed as an open-source project and is not officially supported by LogicMonitor. It is maintained by a community of users who are passionate about enhancing its capabilities and functionality. While LogicMonitor recognizes the effort and ingenuity behind this module, please note that it is provided "as is" without any official support or warranty from LogicMonitor.
 
-__Downloads__: 2,243,015 | __Repository__: https://github.com/logicmonitor/lm-powershell-module
-
-## [SQLEventAnalysis](https://www.powershellgallery.com/Packages/SQLEventAnalysis/2.0.3) | 2.0.3
-
-### Published: 08/04/2025 17:09:42 by Jonathan MacCollum
-
-Advanced SQL Server Extended Events Analysis for PowerShell 7.4+. Provides tools for analyzing and processing SQL Server XE data with a focus on pipeline processing and memory efficiency.
-
-__Downloads__: 60 | __Repository__: https://github.com/yourusername/SQLEventAnalysis
+__Downloads__: 2,242,810 | __Repository__: https://github.com/logicmonitor/lm-powershell-module
 
 ## [ComplianceUtility](https://www.powershellgallery.com/Packages/ComplianceUtility/3.2.2) | 3.2.2
 
@@ -980,14 +988,6 @@ Module to publish markdown files to Blogger
 
 __Downloads__: 24 | __Repository__: https://github.com/bryanbcook/PSBlogger
 
-## [OMG.PSUtilities.AzureDevOps](https://www.powershellgallery.com/Packages/OMG.PSUtilities.AzureDevOps/1.0.4) | 1.0.4
-
-### Published: 08/03/2025 19:24:34 by Lakshmanachari Panuganti
-
-Interact with Azure DevOps APIs, pipelines, repos, and work items.
-
-__Downloads__: 30 | __Repository__: 
-
 ## [UncommonSense.Trouw](https://www.powershellgallery.com/Packages/UncommonSense.Trouw/0.0.36.0) | 0.0.36.0
 
 ### Published: 08/03/2025 18:01:53 by Jan Hoek
@@ -1012,13 +1012,13 @@ Modding tools for the Paradox game "Stellaris"
 
 __Downloads__: 12 | __Repository__: 
 
-## [OMG.PSUtilities.Core](https://www.powershellgallery.com/Packages/OMG.PSUtilities.Core/1.0.6) | 1.0.6
+## [MagicFile](https://www.powershellgallery.com/Packages/MagicFile/1.0) | 1.0
 
-### Published: 08/03/2025 16:02:30 by Lakshmanachari Panuganti
+### Published: 08/03/2025 16:28:51 by Vincent Anso
 
-General purpose PowerShell utilities and system-level tools.
+Identify the type of a file by analyzing its content using the libmagic library.
 
-__Downloads__: 78 | __Repository__: 
+__Downloads__: 6 | __Repository__: https://github.com/vanso/MagicFile
 
 ## [OMG.PSUtilities.AI](https://www.powershellgallery.com/Packages/OMG.PSUtilities.AI/1.0.7) | 1.0.7
 
@@ -1075,14 +1075,6 @@ __Downloads__: 4,496 | __Repository__:
 Cumulocity REST API
 
 __Downloads__: 3,261 | __Repository__: https://reubenmiller.github.io/go-c8y-cli
-
-## [PSUnlock-OfficeProtection](https://www.powershellgallery.com/Packages/PSUnlock-OfficeProtection/0.9.0) | 0.9.0
-
-### Published: 08/03/2025 03:42:54 by Andrew Way
-
-PowerShell module for Office Protection unlock operations.
-
-__Downloads__: 6 | __Repository__: 
 
 ## [linuxtools](https://www.powershellgallery.com/Packages/linuxtools/1.1.3) | 1.1.3
 
@@ -2050,4 +2042,12 @@ This modules provides Cmdlets for OCI Generativeaiinference Service
 
 __Downloads__: 6,527 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-*Updated: Sunday, 10 August 2025 21:51:51 UTC*
+## [OCI.PSModules.Generativeaiagentruntime](https://www.powershellgallery.com/Packages/OCI.PSModules.Generativeaiagentruntime/112.0.0) | 112.0.0
+
+### Published: 07/30/2025 19:13:30 by Oracle Cloud Infrastructure
+
+This modules provides Cmdlets for OCI Generativeaiagentruntime Service
+
+__Downloads__: 1,791 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+
+*Updated: Monday, 11 August 2025 09:54:44 UTC*
