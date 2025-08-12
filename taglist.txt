@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Tuesday, 12 August 2025 09:53:01 UTC
+Updated: Tuesday, 12 August 2025 21:52:08 UTC
 
 .bat
 .env
@@ -83,6 +83,7 @@ abc
 abc_testing
 abe
 about
+abr
 abstractsyntaxtree
 abuse
 abuseipdb
@@ -207,6 +208,7 @@ adm
 admf
 admin
 admin-tools
+adminbyrequest
 admincenter
 admindirectory
 administration
@@ -285,6 +287,7 @@ aimodels
 aip
 aiprompting
 aipscanner
+aircall
 airpower
 airpwr
 airtable
@@ -726,14 +729,17 @@ azautomation
 azcli
 azcompute
 azd
+azdisk
 azdo
 azereo
 azforensics
 azkeyvault
 aznetworking
+aznetworkinterface
 aznicdetails
 azops
 azpipelines
+azpublicipaddress
 azresources
 azsdk
 azsk
@@ -1272,7 +1278,6 @@ choco-bear
 chocobear
 chocolatey
 choice
-choose_file
 choose_file_name
 choose_folder
 chooser
@@ -1690,7 +1695,6 @@ converttodocx
 converttohtml
 converttomarkdown
 converttomd
-conway
 cookie
 coolq
 cooltag1
@@ -2810,6 +2814,7 @@ fastgit
 fastlinq
 fastlookup
 fastping
+fasttrack
 fat32
 favorite
 favorites
@@ -3095,7 +3100,6 @@ gainz-sqldb
 gal
 gallery
 game
-game-of-life
 gamecategory:cards
 games
 gameserver
@@ -3107,6 +3111,7 @@ gateway
 gauge
 gavin
 gavineke
+gbl
 gcbdr
 gce
 gci
@@ -3825,6 +3830,7 @@ intranet
 intrusion
 intuitive
 intune
+intuneadminroles
 intuneappwinutil
 intunestuff
 intunewinapputil
@@ -4065,6 +4071,7 @@ keymanagementserver
 keymap
 keymapping
 keypair
+keysms
 keyusage
 keyvalue
 keyvault
@@ -4130,11 +4137,14 @@ label
 labels
 lability
 labnotifications
+laborate
+laboratory
 labrecipe
 labservices
 labsnippet
 labtech
 labtest
+labview
 labworker
 lake
 lambda
@@ -4701,6 +4711,7 @@ mistralai
 mitigation
 mitre
 mitre_att&ck
+mitrend
 mittelschule
 mixedreality
 mixer
@@ -4921,6 +4932,7 @@ nano
 nanoleaf
 nartac
 nasdaq
+nationalinstruments
 native
 natpool
 natural
@@ -4970,6 +4982,8 @@ netextender
 netfirewallrule
 netherlands
 netmask
+netpdf
+netpdfps
 nets
 netsapiens
 netscaler
@@ -4984,9 +4998,11 @@ network adapter configuration operating os optical sensor physical pointing port
 network-credentials
 network-info
 networkanalytics
+networkcategory
 networkcloud
 networkcontroller
 networkdiscovery
+networkdrive
 networkdrives
 networkfirewall
 networkfunction
@@ -4995,6 +5011,7 @@ networking
 networkinterfaces
 networkloadbalancer
 networkpolicyserver
+networkprofile
 networkscan
 networksecurity
 networksecuritygroup
@@ -5035,6 +5052,7 @@ ngen
 ngfw
 nginx
 nhl
+ni
 nic
 nic.ru
 nightmare
@@ -5043,9 +5061,9 @@ ninja
 ninjaone
 ninjarmm
 nios
+nipkg
 nist
 nitrox
-nixos
 njclipsh
 nl
 nla
@@ -5522,6 +5540,7 @@ pdf-document-processor
 pdf-files
 pdf-generation
 pdf-redaction
+pdfbox
 pdq
 pe
 peek
@@ -9137,7 +9156,6 @@ random-date
 random-password
 random-password-generator
 randompassword
-randomuser
 randomusers
 range
 rangescan
@@ -9792,6 +9810,7 @@ seppmail
 seppmail.cloud
 seq
 sequence
+serial
 serialization
 serialize
 sericemanagement
@@ -10281,6 +10300,7 @@ stateless
 static
 staticanalysis
 statichtmlsites
+staticip
 staticsite
 statistical
 statistics
@@ -10907,6 +10927,7 @@ ucspowertool
 ud-avataaar
 ud-badgebutton
 ud-badgelink
+ud-breadcrumb
 ud-breadcrumbitem
 ud-burger
 ud-button
@@ -10934,6 +10955,7 @@ ud-numbermask
 ud-orgchart
 ud-piechart3d
 ud-pivottable
+ud-progressstepbar
 ud-rangeslider
 ud-readingbar
 ud-scrollspy
@@ -10953,6 +10975,7 @@ ud-timeout
 ud-tool
 ud-toploader
 ud-trendline
+ud-typing
 ud-window
 ud-wordtree
 udcm
@@ -11771,6 +11794,7 @@ yetanotherhelloworld
 yify
 yml
 ynab
+yokohama
 youtube
 youtube-dl
 youtube-transcript
