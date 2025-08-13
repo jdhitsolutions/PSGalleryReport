@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Tuesday, 12 August 2025 21:52:08 UTC
+Updated: Wednesday, 13 August 2025 09:53:21 UTC
 
 .bat
 .env
@@ -287,7 +287,6 @@ aimodels
 aip
 aiprompting
 aipscanner
-aircall
 airpower
 airpwr
 airtable
@@ -413,7 +412,6 @@ api
 api-client
 api-gateway
 api-rest
-apiaccesscontrol
 apichecks
 apiclient
 apigateway
@@ -507,7 +505,6 @@ archivematica
 archivial
 archivial-backup
 archivial-cloud-backup
-archlinux
 archon
 archonagent
 arcresourcebridge
@@ -1278,6 +1275,7 @@ choco-bear
 chocobear
 chocolatey
 choice
+choose_file
 choose_file_name
 choose_folder
 chooser
@@ -1625,7 +1623,6 @@ connectivity
 connector
 connectorcmd
 connectormanagement
-connectsync
 connectwise
 conservation
 console
@@ -1695,6 +1692,7 @@ converttodocx
 converttohtml
 converttomarkdown
 converttomd
+conway
 cookie
 coolq
 cooltag1
@@ -1864,7 +1862,6 @@ customproviders
 cutehttpfileserver
 cvad
 cve
-cve-2021-34527
 cvrf
 cvss
 cwi
@@ -2120,7 +2117,6 @@ deviceid
 devicemanagement
 deviceprovisioningservice
 deviceregistry
-devicereports
 devices
 deviceupdate
 devolutions
@@ -2219,7 +2215,6 @@ distinguishedname
 distributed-systems
 distributed-tracing
 distributedcache
-distributeddatabase
 distributedfilesystem
 distribution
 distributiongroup
@@ -3100,6 +3095,7 @@ gainz-sqldb
 gal
 gallery
 game
+game-of-life
 gamecategory:cards
 games
 gameserver
@@ -3166,27 +3162,18 @@ get-credential
 get-criticaltrippoint
 get-currentcputemperature
 get-dellwarranty
-get-devicesorgunitreport
 get-directorycontents
-get-disabledusersreport
-get-domaincontrollerreport
 get-dtcmdevicemodel
 get-dtdriverpack
 get-dtdriverupdates
 get-dtscriptnewcmpackagefromdriverpackpackagedefinitionsms
 get-dtscriptnewcmtasksequencefromdriverpackpackagedefinitionsms
 get-emptyadgroups
-get-expiredusersreport
-get-expiringusersreport
 get-externalip
 get-firmwaretype
 get-help
 get-history
 get-iislog
-get-inactivedevicesreport
-get-inactiveusersreport
-get-lockedusersreport
-get-onlinedevicesreport
 get-openfile
 get-openfiles
 get-pass
@@ -3201,7 +3188,6 @@ get-stalecomps
 get-staleusers
 get-thermalstamp
 get-uptime
-get-usersorgunitreport
 getfirmwareenvironmentvariable
 getfirmwaretype
 ggplot
@@ -4173,7 +4159,6 @@ latestupdate
 latin
 latitude
 launcher
-laws
 layer
 layman
 layout
@@ -4310,7 +4295,6 @@ lock
 lockbox
 lockdisplaytimeout
 lockdown
-lockfile
 locking
 lockoutreport
 lockscreen
@@ -4708,7 +4692,6 @@ miscellaneous
 misp
 mistral
 mistralai
-mitigation
 mitre
 mitre_att&ck
 mitrend
@@ -4761,7 +4744,6 @@ monaco
 monday
 mondoo
 money
-moneyforward
 mongo
 mongodb
 monitor
@@ -5055,7 +5037,6 @@ nhl
 ni
 nic
 nic.ru
-nightmare
 ninite
 ninja
 ninjaone
@@ -5064,6 +5045,7 @@ nios
 nipkg
 nist
 nitrox
+nixos
 njclipsh
 nl
 nla
@@ -5339,7 +5321,6 @@ oracle
 oraclecloudinfrastructure
 oraculum
 orbital
-orchestrate
 orchestration
 orchestrator
 order
@@ -5490,6 +5471,7 @@ password_generation
 password-generator
 password-less
 password-manager
+password.ninja
 passwordexpiration
 passwordexpiry
 passwordgeneration
@@ -5669,7 +5651,6 @@ pnpm
 poc
 podcast
 pode
-podman
 poe
 poem
 poetry
@@ -5782,7 +5763,6 @@ poshy-wrap-terraform
 poshy-wrap-terragrunt
 poshy-wrap-tmux
 poshy-wrap-vagrant
-poshy-wrap-vault
 poshy-wrap-vscode
 poshy-wrap-wget
 poshy-wrap-wt
@@ -5816,7 +5796,6 @@ powercli
 powercligoodies
 powercommander
 powerconfiguration
-powerdex
 powerforensics
 powergraph
 powergui
@@ -5934,7 +5913,6 @@ printer
 printers
 printershare
 printing
-printnightmare
 printserver
 prism
 prism_element
@@ -7223,17 +7201,6 @@ pscommand_invoke-vagrantstatus
 pscommand_invoke-vagrantsuspend
 pscommand_invoke-vagrantup
 pscommand_invoke-vagrantuplogged
-pscommand_invoke-vaultdelete
-pscommand_invoke-vaultlist
-pscommand_invoke-vaultloginviagithub
-pscommand_invoke-vaultread
-pscommand_invoke-vaultreadfieldvalue
-pscommand_invoke-vaultrenew
-pscommand_invoke-vaultrevoke
-pscommand_invoke-vaultserver
-pscommand_invoke-vaultstatus
-pscommand_invoke-vaultversion
-pscommand_invoke-vaultwrite
 pscommand_invoke-vscodeadd
 pscommand_invoke-vscodediff
 pscommand_invoke-vscodeforpwd
@@ -7726,16 +7693,6 @@ pscommand_use-gitflowbranchrelease
 pscommand_use-gitstashentry
 pscommand_uuid
 pscommand_uuidgen
-pscommand_vad
-pscommand_vag
-pscommand_val
-pscommand_var
-pscommand_varn
-pscommand_varv
-pscommand_vas
-pscommand_vasrv
-pscommand_vav
-pscommand_vaw
 pscommand_vdstr
 pscommand_vh
 pscommand_vhl
@@ -8638,17 +8595,6 @@ psfunction_invoke-vagrantstatus
 psfunction_invoke-vagrantsuspend
 psfunction_invoke-vagrantup
 psfunction_invoke-vagrantuplogged
-psfunction_invoke-vaultdelete
-psfunction_invoke-vaultlist
-psfunction_invoke-vaultloginviagithub
-psfunction_invoke-vaultread
-psfunction_invoke-vaultreadfieldvalue
-psfunction_invoke-vaultrenew
-psfunction_invoke-vaultrevoke
-psfunction_invoke-vaultserver
-psfunction_invoke-vaultstatus
-psfunction_invoke-vaultversion
-psfunction_invoke-vaultwrite
 psfunction_invoke-vscodeadd
 psfunction_invoke-vscodediff
 psfunction_invoke-vscodeforpwd
@@ -9064,6 +9010,7 @@ pvs
 pwa
 pwned
 pwpush
+pwpush.com
 pwsafe
 pwsh
 pwsh.fw
@@ -9156,6 +9103,7 @@ random-date
 random-password
 random-password-generator
 randompassword
+randomuser
 randomusers
 range
 rangescan
@@ -10176,7 +10124,6 @@ spmt
 spn
 spo
 spoofing
-spooler
 sport
 sports
 sports-tracker
@@ -10312,7 +10259,6 @@ statuscake
 statuscode
 statusmonitor
 statusreportingcomponent
-staytus
 stderr
 stdio
 stdout
@@ -10628,8 +10574,6 @@ terminalnotifier
 terminalvelocity
 termset
 terraform
-terraform-docs
-terraform-switcher
 terraformcloud
 terrafun
 terragrunt
@@ -10685,7 +10629,6 @@ tflint
 tfs
 tfscmdlets
 tfsec
-tfswitch
 tftd
 tftp
 tfvars
@@ -11103,7 +11046,6 @@ username
 userprofile
 userprofiles
 userprofiletools
-userreports
 userright
 userrights
 userrightsassignment
