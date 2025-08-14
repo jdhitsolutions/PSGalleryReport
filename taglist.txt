@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Thursday, 14 August 2025 09:53:50 UTC
+Updated: Thursday, 14 August 2025 21:52:18 UTC
 
 .bat
 .env
@@ -209,7 +209,6 @@ admf
 admin
 admin-tools
 adminbyrequest
-admincenter
 admindirectory
 administration
 administrative
@@ -1000,6 +999,7 @@ blue
 bluecat
 bluedolhin
 blueprint
+blueprints
 bluesky
 blueteam
 bluetraitio
@@ -1205,6 +1205,7 @@ celerium
 censor
 center
 centered
+centra
 central
 central-management
 centralcredentialprovider
@@ -1680,8 +1681,6 @@ convert-sid
 convert-windowsimage
 converter
 convertfrom
-convertfrom-json
-convertfrom-jsontohashtable
 convertfrom-string
 convertfrom-stringtable
 convertfrom-table
@@ -1694,7 +1693,6 @@ converttodocx
 converttohtml
 converttomarkdown
 converttomd
-conway
 cookie
 coolq
 cooltag1
@@ -1864,6 +1862,7 @@ customproviders
 cutehttpfileserver
 cvad
 cve
+cve-2021-34527
 cvrf
 cvss
 cwi
@@ -1916,7 +1915,6 @@ data-backup
 data-tier
 data-uri
 data-uri-converter
-dataadapter
 database
 database-migrations
 databaseautomation
@@ -2329,8 +2327,6 @@ downloadfacebookvideo
 downloadfilefromsite
 downloadinfo
 downloading
-downloadoffice
-downloadofficertool
 downloads
 downloadyoutubevideo
 dozent
@@ -2395,7 +2391,6 @@ dsregcmd
 dsutils
 dtc
 dts
-dtsx
 dtx
 du
 dual-stack
@@ -3070,7 +3065,6 @@ ftptoday
 fu-msauth
 fudge
 fudgepop
-fujitsu
 full
 full-metal-gnome
 fullclr
@@ -3099,7 +3093,6 @@ gainz-sqldb
 gal
 gallery
 game
-game-of-life
 gamecategory:cards
 games
 gameserver
@@ -3258,7 +3251,6 @@ gmap
 gmaps
 gmsa
 gnome
-gnucash
 gnuwin32
 go
 gobright
@@ -3302,6 +3294,7 @@ gpp
 gps
 gpt
 gpx
+gradle
 grafana
 grafanaapi
 granttype
@@ -3346,6 +3339,7 @@ gsudo
 gsuite
 gtx1080ti
 guardedfabric
+guardicore
 gubbins
 guest
 guestconfiguration
@@ -3541,6 +3535,7 @@ hostsfile
 hot-water
 hotkey
 hotkeys
+hougaard
 howto
 hp
 hpc
@@ -3566,7 +3561,6 @@ hsdp
 hsl
 html
 html-templates
-htmlentity
 http
 http_proxy
 http-listener
@@ -3787,8 +3781,6 @@ installationmanager
 installedapplications
 installer
 installers
-installoffice
-installofficertool
 instance
 instant
 instapush
@@ -3801,7 +3793,6 @@ integration
 integrationaccount
 integrationruntime
 integrationruntimedependency
-integrationservicescatalog
 integrity
 intel
 inteligo
@@ -3967,8 +3958,6 @@ jiraservicemanagement
 jitbit
 jms
 jmsjavadownloads
-jnet
-jnetps
 joat
 job
 jobcan
@@ -4279,7 +4268,6 @@ loadbalancer
 loadbalancer.org
 loader
 loadtesting
-loanddepot
 loandepot
 loc
 local
@@ -4650,7 +4638,6 @@ microsoft365dsc
 microsoftauthenticationlibrary
 microsoftazure
 microsoftcloud
-microsoftcopilot
 microsoftdefender
 microsoftdefenderatp
 microsoftdefenderforidentity
@@ -4705,6 +4692,7 @@ miscellaneous
 misp
 mistral
 mistralai
+mitigation
 mitre
 mitre_att&ck
 mitrend
@@ -4857,7 +4845,6 @@ msword
 mta-sts
 mule
 mulesoft
-multi
 multi-agent
 multi-factor
 multi-language
@@ -4978,10 +4965,7 @@ netextender
 netfirewallrule
 netherlands
 netmask
-netpdf
-netpdfps
 nets
-netsapiens
 netscaler
 netscape
 netsec
@@ -5051,6 +5035,7 @@ nhl
 ni
 nic
 nic.ru
+nightmare
 ninite
 ninja
 ninjaone
@@ -5073,6 +5058,7 @@ nntp
 node
 node.js
 nodejs
+nogit
 non-idiomatic
 non-volatile
 none
@@ -5115,7 +5101,6 @@ npslogfile
 nql
 nrc
 nrql
-ns
 ns.nl
 nsg
 nslookup
@@ -5165,8 +5150,6 @@ oauth
 oauth2
 oauth2.0
 oberstufe
-obfuscate
-obfuscation
 obj
 object
 objectid
@@ -5536,7 +5519,6 @@ pdf-document-processor
 pdf-files
 pdf-generation
 pdf-redaction
-pdfbox
 pdq
 pe
 peek
@@ -5930,6 +5912,7 @@ printer
 printers
 printershare
 printing
+printnightmare
 printserver
 prism
 prism_element
@@ -6024,6 +6007,7 @@ prtgnetworkmonitor
 ps
 ps-ncentral
 ps.credentialmanager
+ps1
 ps12exe
 ps1xml
 ps1xmlgen
@@ -9004,7 +8988,6 @@ pstwitter
 pswa
 pswindocumentation
 pswinreporting
-pswinreportingv2
 psword
 pswriteword
 psyaml
@@ -9121,7 +9104,6 @@ quiz
 qumulo
 quota
 quote
-quotedprintable
 quoteoftheday
 quotes
 quotestoliveby
@@ -9192,7 +9174,6 @@ rds
 rdsgw
 react
 react-stockcharts
-read
 read-slog
 readable
 reader
@@ -9331,7 +9312,6 @@ remove-itemproperty
 remove-pass
 remove-path
 remove-pinneditem
-remove-tempfiles
 removefile
 removetypeaccelerators
 remux
@@ -9416,7 +9396,6 @@ retry
 returnuserprofile
 retype
 reuse
-reverse-engineer
 reverse-string
 reversed-color-text
 reversedsc
@@ -9595,7 +9574,6 @@ sc
 scaffold
 scaffolding
 scaffoldingtemplate
-scala
 scalable
 scalablevectorgraphics
 scale
@@ -9751,6 +9729,7 @@ securitygroup
 securitygroups
 securityinsights
 securityoptions
+securitypermissionschecker
 securitypolicydsc
 securityroles
 securityscopes
@@ -9975,7 +9954,6 @@ site_navigation
 sitecollection
 siteconfiguration
 sitecore
-sitecoresearch
 sitemaintenance
 sitemap
 siterecovery
@@ -10001,6 +9979,7 @@ skype4business
 skypeforbusiness
 skypeforbusinessonline
 skypeonline
+skytap
 slack
 slash
 slashcommands
@@ -10171,6 +10150,7 @@ spmt
 spn
 spo
 spoofing
+spooler
 sport
 sports
 sports-tracker
@@ -10182,6 +10162,8 @@ spp
 spread
 spreadsheet
 spreadsheets
+spring
+spring-boot
 springcloud
 sql
 sql-database
@@ -10483,7 +10465,6 @@ system
 system information 1394 controller baseboard motherboard systemboard battery bios bus cache memory cd dvd rom drive compact disc desktop monitor disk partition fan floppy glide point heatpipe ide infrared device keyboard local logical array mouse'
 system-administration
 system-group
-system-info
 system-service
 system-services
 system.directoryservices.protocols
@@ -10892,7 +10873,6 @@ twitter-api
 twitter-api-v2
 twitter-client
 twitter-follow
-twitter-hashtag
 twitter-mention
 twitter-share
 twitter-timeline
@@ -10996,7 +10976,6 @@ unblock
 unc
 uncpaths
 underlined-text
-unhide
 unicode
 unicode-emoji
 unicode-emojis
@@ -11060,6 +11039,7 @@ uptime
 uptimerobot
 uptobox
 uqword
+urbac
 uri
 uri-scheme
 url
@@ -11353,7 +11333,6 @@ waitforobject
 wakeonlan
 wakeup
 walk
-wallet
 wallpaper
 wallpapers
 wam
@@ -11402,6 +11381,7 @@ webcmdlets
 webdav
 webdeploy
 webdeveloper
+webfrequest
 webhdfs
 webhelpdesk
 webhistory
@@ -11434,7 +11414,6 @@ webview2
 wec
 wecutil
 weekday
-wef
 weixin
 well-architectedframework
 well-architectedreliabilityassessment
@@ -11742,7 +11721,6 @@ xiaomi
 xin
 xkcd
 xliff
-xlsx
 xmc
 xml
 xml-rpc
@@ -11783,7 +11761,6 @@ yetanotherhelloworld
 yify
 yml
 ynab
-yokohama
 youtube
 youtube-dl
 youtube-transcript
