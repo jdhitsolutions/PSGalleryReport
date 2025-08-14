@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Wednesday, 13 August 2025 21:51:52 UTC
+Updated: Thursday, 14 August 2025 09:53:50 UTC
 
 .bat
 .env
@@ -408,6 +408,7 @@ aovpn psmodule
 apache
 apache_maven
 apachekafka
+apexlegends
 api
 api-client
 api-gateway
@@ -999,7 +1000,6 @@ blue
 bluecat
 bluedolhin
 blueprint
-blueprints
 bluesky
 blueteam
 bluetraitio
@@ -1019,6 +1019,7 @@ bookmark
 bookmarks
 books
 bool
+boolean
 bootloader psmodule
 bootstrap
 bootstrapping
@@ -1204,7 +1205,6 @@ celerium
 censor
 center
 centered
-centra
 central
 central-management
 centralcredentialprovider
@@ -1864,7 +1864,6 @@ customproviders
 cutehttpfileserver
 cvad
 cve
-cve-2021-34527
 cvrf
 cvss
 cwi
@@ -2307,6 +2306,7 @@ domainkeys
 domainname
 domainnamesystem
 domains
+domino
 done.land
 donothing
 dos
@@ -3302,7 +3302,6 @@ gpp
 gps
 gpt
 gpx
-gradle
 grafana
 grafanaapi
 granttype
@@ -3347,7 +3346,6 @@ gsudo
 gsuite
 gtx1080ti
 guardedfabric
-guardicore
 gubbins
 guest
 guestconfiguration
@@ -3917,7 +3915,6 @@ iso-8601
 ispac
 isprime
 ispss
-issues
 isvalidemail
 isvalidip
 it
@@ -3970,6 +3967,8 @@ jiraservicemanagement
 jitbit
 jms
 jmsjavadownloads
+jnet
+jnetps
 joat
 job
 jobcan
@@ -4280,6 +4279,7 @@ loadbalancer
 loadbalancer.org
 loader
 loadtesting
+loanddepot
 loandepot
 loc
 local
@@ -4705,7 +4705,6 @@ miscellaneous
 misp
 mistral
 mistralai
-mitigation
 mitre
 mitre_att&ck
 mitrend
@@ -4758,6 +4757,7 @@ monaco
 monday
 mondoo
 money
+moneyforward
 mongo
 mongodb
 monitor
@@ -5051,7 +5051,6 @@ nhl
 ni
 nic
 nic.ru
-nightmare
 ninite
 ninja
 ninjaone
@@ -5074,7 +5073,6 @@ nntp
 node
 node.js
 nodejs
-nogit
 non-idiomatic
 non-volatile
 none
@@ -5385,6 +5383,8 @@ ou
 ou-object
 oui
 oui-search
+oura
+ouraring
 out-consolegridview
 out-default
 out-gridview
@@ -5930,7 +5930,6 @@ printer
 printers
 printershare
 printing
-printnightmare
 printserver
 prism
 prism_element
@@ -6025,7 +6024,6 @@ prtgnetworkmonitor
 ps
 ps-ncentral
 ps.credentialmanager
-ps1
 ps12exe
 ps1xml
 ps1xmlgen
@@ -9139,6 +9137,7 @@ radarr
 radio
 rag
 raidcontrollercmdlets
+railways
 rainbow
 raindrop
 raindrop.io
@@ -9449,6 +9448,7 @@ rightjoin
 rights
 rightsizing
 rightsmanagement
+ring
 ripe
 risk
 riskiq
@@ -9595,6 +9595,7 @@ sc
 scaffold
 scaffolding
 scaffoldingtemplate
+scala
 scalable
 scalablevectorgraphics
 scale
@@ -9713,6 +9714,7 @@ secret
 secretmanagement
 secretmanagementextension
 secrets
+secretsanta
 secretscanner
 secretserver
 secretshub
@@ -9973,6 +9975,7 @@ site_navigation
 sitecollection
 siteconfiguration
 sitecore
+sitecoresearch
 sitemaintenance
 sitemap
 siterecovery
@@ -9998,7 +10001,6 @@ skype4business
 skypeforbusiness
 skypeforbusinessonline
 skypeonline
-skytap
 slack
 slash
 slashcommands
@@ -10169,7 +10171,6 @@ spmt
 spn
 spo
 spoofing
-spooler
 sport
 sports
 sports-tracker
@@ -10181,8 +10182,6 @@ spp
 spread
 spreadsheet
 spreadsheets
-spring
-spring-boot
 springcloud
 sql
 sql-database
@@ -10196,7 +10195,6 @@ sqlbulkcopy
 sqlchangeautomation
 sqlclient
 sqlcmd
-sqlcodeguard
 sqldatabase
 sqldb
 sqldbatools
@@ -10868,7 +10866,6 @@ ts
 tsa
 tsd
 tsheets
-tsqlbestpractice
 tst
 tst1
 tst3
@@ -10978,6 +10975,7 @@ udp
 udpclient
 udptest
 udr
+udthememode
 udword
 uefi
 uem
@@ -10998,6 +10996,7 @@ unblock
 unc
 uncpaths
 underlined-text
+unhide
 unicode
 unicode-emoji
 unicode-emojis
@@ -11344,6 +11343,7 @@ vxrail
 w32time
 w365
 w3svc
+w3w
 waa
 waas
 wac
@@ -11402,7 +11402,6 @@ webcmdlets
 webdav
 webdeploy
 webdeveloper
-webfrequest
 webhdfs
 webhelpdesk
 webhistory
@@ -11444,6 +11443,7 @@ wem
 wemsdk
 wer
 wget
+what3words
 whatif
 whatismyip
 whatsnew
