@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Friday, 15 August 2025 21:52:12 UTC
+Updated: Saturday, 16 August 2025 09:52:05 UTC
 
 .bat
 .env
@@ -581,6 +581,7 @@ assistant
 association
 ast
 astro
+astronomy
 asv
 asymmetric
 async
@@ -697,6 +698,7 @@ avset
 await
 awake
 awakecoding
+awareness
 awesome
 awp
 awpagent
@@ -1372,7 +1374,6 @@ clientstatussettings
 clihelper.core
 clihelper.logger
 clihelper.semver
-clihelper.trends
 clipart
 clipasswordsdk
 clipboard
@@ -1463,7 +1464,6 @@ codecoverage
 codegen
 codegeneration
 codegenerator
-codellama
 codemetrics
 codepoint
 codequality
@@ -1580,6 +1580,7 @@ condition
 conditional
 conditionalaccess
 conduit
+conference
 confidentialclient
 confidentialledger
 config
@@ -2878,6 +2879,9 @@ filenames
 fileproperties
 filereplication
 files
+files-cli
+files-cli.exe
+files.com
 filesecurity
 fileserver
 fileserverresourcemanager
@@ -2941,6 +2945,7 @@ first
 fisher
 fissionproducts
 fitbit
+fits
 five
 five9
 fix-log
@@ -3419,7 +3424,6 @@ hba
 hbase
 hci
 hcl
-hcm
 hcp
 hcx
 hdfs
@@ -3747,7 +3751,6 @@ informationbarriers
 informationprotection
 informationtechnology
 informationtechnologyoperations
-informix
 infosec
 infrastructure
 infrastructureascode
@@ -3809,7 +3812,6 @@ intellisearch
 intellisense
 interactive
 interactive-brokers
-interchange
 interface
 interlogix
 internal
@@ -4199,7 +4201,6 @@ legends
 lego
 lein
 leiningnen
-lemonai
 lenel
 length
 lenovo
@@ -4563,6 +4564,7 @@ media
 mediant
 mediaplayer
 mediaservices
+mediawiki
 meditation
 medlemsservice
 meesman
@@ -5384,6 +5386,8 @@ ou
 ou-object
 oui
 oui-search
+oura
+ouraring
 out-consolegridview
 out-default
 out-gridview
@@ -5907,6 +5911,7 @@ prepend
 preprocessing
 preprocessor
 prerequisites
+presentation
 presentationframework
 presenter
 presto
@@ -5988,6 +5993,7 @@ proliant
 prometheus
 prompt
 pronounceable
+proofpoint
 properties
 property
 property-list
@@ -6039,6 +6045,7 @@ psadgroupmembers
 psadt
 psake
 psappdeploytoolkit
+psat
 psazd
 psbackup
 psbbix
@@ -8962,6 +8969,9 @@ pspath
 pspersonio
 pspowerhour
 psprofiler
+psproject
+psprojectcreator
+psprojectgenerator
 psprovider
 psprtg
 pspublicapi
@@ -9133,6 +9143,7 @@ radarr
 radio
 rag
 raidcontrollercmdlets
+railways
 rainbow
 raindrop
 raindrop.io
@@ -9440,6 +9451,7 @@ rightjoin
 rights
 rightsizing
 rightsmanagement
+ring
 ripe
 risk
 riskiq
@@ -10117,6 +10129,7 @@ space
 spaces
 spacex
 spam
+spamtitan
 spanner
 spark
 sparkline
@@ -10128,6 +10141,7 @@ spdx-license-identifier:ms-pl
 spe
 speach
 speak
+speaker
 spec
 specification
 specify
@@ -10338,6 +10352,7 @@ storefront
 storeonce
 storeserv
 strava
+streak
 stream
 streamanalytics
 streaming
@@ -10726,6 +10741,7 @@ tinymce
 tip
 tips
 titan
+titanhq
 title
 tld
 tls
@@ -10743,6 +10759,9 @@ toc
 todo
 todo.txt
 toggl
+toggl-api
+toggl-api-powershell
+toggl-api-ps
 toggle
 token
 tokenlifetime
@@ -11396,6 +11415,7 @@ webdeploy
 webdeveloper
 webfrequest
 webhdfs
+webhelpdesk
 webhistory
 webhook
 webinspect
@@ -11440,6 +11460,7 @@ whatif
 whatismyip
 whatsnew
 whatsupgold
+whd
 where
 whfb
 whiteboard
