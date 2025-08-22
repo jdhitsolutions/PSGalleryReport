@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Thursday, 21 August 2025 21:52:27 UTC
+Updated: Friday, 22 August 2025 09:52:10 UTC
 
 .bat
 .env
@@ -200,7 +200,6 @@ adfsendpoint
 adfstoolkit
 adfstools
 adgroupmemberobjects
-adgroupmembers
 adgroups
 adidns
 adif
@@ -683,6 +682,7 @@ autoupdate-script
 autowrapper
 autoyast
 auvik
+av1
 availability
 availabilityset
 avalara
@@ -1039,6 +1039,7 @@ box
 bpmn
 brainy
 branch
+branch-rename
 brave
 brawlapi
 brawlstars
@@ -1138,7 +1139,6 @@ callqueue
 calvin-and-hobbes
 cam
 camera
-cameras
 campaign
 camtasia
 canarie
@@ -2032,7 +2032,6 @@ decoding
 decompiler
 decompression
 decrypt
-decryption
 dedicatedhsm
 deduplication
 deep
@@ -3039,6 +3038,7 @@ forwardedevents
 forwarding
 foudil
 foundationmodels
+foundry
 fount
 fount-pwsh
 fountassist
@@ -3233,6 +3233,7 @@ git-flow
 git-lfs
 git-open
 git-proxy
+git-rename
 git-stat
 gitcmdline
 gitdesktop
@@ -3442,6 +3443,7 @@ hdinsight
 hdinsightonaks
 hdr
 header
+headhunter
 health
 health_checks
 health-check
@@ -3790,7 +3792,6 @@ inspect
 inspiration
 inspirationalquotes
 inspire
-inspur
 instagram
 install
 install-module
@@ -3805,7 +3806,6 @@ installofficertool
 instance
 instant
 instapush
-instorage
 int
 intacct
 integrated
@@ -3879,7 +3879,6 @@ iothub
 iothubproperties
 iotoperationsservice
 ip
-ip_cameras
 ip-address
 ip-scanner
 ipa
@@ -4159,7 +4158,6 @@ labview
 labworker
 lake
 lambda
-lambdatest
 lame
 lametrictime
 landingzones
@@ -4171,6 +4169,7 @@ languageexperiencepack
 languagemodels
 languagepack
 lansweeper
+laplace
 laps
 laragon
 laserbeams
@@ -5141,6 +5140,8 @@ nsxt
 ntdll
 ntds
 ntfs
+ntfy
+ntfypwsh
 ntp
 ntsystems
 nuget
@@ -6053,7 +6054,6 @@ ps6
 ps7
 psa
 psadbscreencap
-psadgroupmembers
 psadt
 psake
 psappdeploytoolkit
@@ -9172,6 +9172,7 @@ random-password-generator
 randompassword
 randomuser
 randomusers
+range
 rangescan
 rangetocidr
 ransomware_recovery
@@ -9237,6 +9238,7 @@ recordings
 recordsmanagement
 recovery
 recoveryservices
+recruiter
 recrutch
 recurse
 recursion
@@ -9355,6 +9357,9 @@ removetypeaccelerators
 remux
 ren-isac
 rename
+rename-git
+rename-git-branch
+rename-gitbranch
 render
 reonboarding
 repair
@@ -9419,6 +9424,7 @@ rest_cherrypy
 rest-api
 restapi
 restart
+restaurant
 restful
 restore
 restrictive
@@ -9750,7 +9756,6 @@ securescore
 securesphere
 securestring
 security
-security_cameras
 security-awareness-training
 security-policy
 security-score
@@ -9790,7 +9795,6 @@ selfdispatch
 selfhelp
 selfsigned
 semantic
-semantic-versioning
 semaphore
 semver
 senat
@@ -9805,7 +9809,6 @@ sendgrid
 sendkeys
 sendmail
 sense
-sensitive
 sensitivity
 sensitivitylabels
 sensor
@@ -10077,7 +10080,6 @@ snmpv3
 snmpwalk
 snowflake
 snsmssqlpsmodule
-snspsadgroupmembers
 snspsscriptsmonitoring
 snssqlitepsmodule
 sntp
@@ -10438,7 +10440,6 @@ suppress
 supress-reboot
 surestacks
 surround
-surveillance
 survey
 surveymonkey
 sus
@@ -10853,6 +10854,7 @@ trello
 trellops
 trend
 trend-micro
+trendmicro
 trevor
 trevorsullivan
 triangle
@@ -10941,7 +10943,6 @@ ud-breadcrumb
 ud-breadcrumbitem
 ud-burger
 ud-button
-ud-buttonloader
 ud-buttonparticle
 ud-calendar
 ud-circle
@@ -11312,6 +11313,7 @@ voperator
 vorbis
 voting
 vovin
+vp9
 vpas
 vpasmodule
 vpc
@@ -11353,6 +11355,7 @@ vsteams
 vstest
 vsts
 vsts-cli
+vtt
 vue
 vulnerabilities
 vulnerability
@@ -11430,8 +11433,10 @@ webhistory
 webhook
 webinspect
 webjea
+webm
 webmanagement
 webmanagementservice
+webp
 webpage
 webpi
 webreport
@@ -11681,6 +11686,7 @@ workspaces
 workstation
 world
 worldcup
+worryfreebusinesssecurity
 wow
 wpad
 wpf
