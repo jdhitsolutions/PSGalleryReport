@@ -3,13 +3,133 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
-## [Test-Forthencho](https://www.powershellgallery.com/Packages/Test-Forthencho/0.0.6) | 0.0.6
+## [WindmillClient](https://www.powershellgallery.com/Packages/WindmillClient/1.533.1) | 1.533.1
 
-### Published: 08/22/2025 21:41:04 by Everett Williams
+### Published: 08/23/2025 08:03:55 by Windmill Labs
+
+Client for the Windmill platform.
+
+__Downloads__: 6,774 | __Repository__: https://github.com/windmill-labs/windmill/tree/main/powershell-client
+
+## [Turtle](https://www.powershellgallery.com/Packages/Turtle/0.1.6) | 0.1.6
+
+### Published: 08/23/2025 05:49:44 by James Brundage
+
+Turtles in a PowerShell
+
+__Downloads__: 646 | __Repository__: https://github.com/PowerShellWeb/Turtle
+
+## [OSD](https://www.powershellgallery.com/Packages/OSD/25.8.23.1) | 25.8.23.1
+
+### Published: 08/23/2025 05:06:59 by David Segura . Gary Blok . Michael Escamilla
+
+OSD PowerShell Module for Windows Deployment
+
+__Downloads__: 4,651,367 | __Repository__: https://github.com/OSDeploy/OSD
+
+## [GenXdev](https://www.powershellgallery.com/Packages/GenXdev/1.256.2025) | 1.256.2025
+
+### Published: 08/23/2025 02:56:43 by René Vaessen
+
+GenXdev PowerShell Utilities and helpers
+
+__Downloads__: 517 | __Repository__: https://powershell.genxdev.net/
+
+## [GenXdev.Media](https://www.powershellgallery.com/Packages/GenXdev.Media/1.256.2025) | 1.256.2025
+
+### Published: 08/23/2025 02:55:33 by genXdev
+
+A Windows PowerShell module that helps with converting media files like pictures and video files.
+
+__Downloads__: 115 | __Repository__: https://powershell.genxdev.net/#GenXdev.Media
+
+## [GenXdev.Coding](https://www.powershellgallery.com/Packages/GenXdev.Coding/1.256.2025) | 1.256.2025
+
+### Published: 08/23/2025 02:54:24 by genXdev
+
+A Windows PowerShell module that helps being more productive with coding tasks.
+
+__Downloads__: 392 | __Repository__: https://powershell.genxdev.net/#GenXdev.Coding
+
+## [GenXdev.AI](https://www.powershellgallery.com/Packages/GenXdev.AI/1.256.2025) | 1.256.2025
+
+### Published: 08/23/2025 02:53:14 by genXdev
+
+A Windows PowerShell module for local AI related operations
+
+__Downloads__: 646 | __Repository__: https://powershell.genxdev.net/#GenXdev.AI
+
+## [GenXdev.Queries](https://www.powershellgallery.com/Packages/GenXdev.Queries/1.256.2025) | 1.256.2025
+
+### Published: 08/23/2025 02:52:04 by genXdev
+
+A Windows PowerShell module for finding resources and information on the internet
+
+__Downloads__: 1,494 | __Repository__: https://powershell.genxdev.net/#GenXdev.Queries
+
+## [GenXdev.Console](https://www.powershellgallery.com/Packages/GenXdev.Console/1.256.2025) | 1.256.2025
+
+### Published: 08/23/2025 02:50:53 by genXdev
+
+A Windows PowerShell module for enhancing the commandline experience
+
+__Downloads__: 1,464 | __Repository__: https://powershell.genxdev.net/#GenXdev.Console
+
+## [GenXdev.Webbrowser](https://www.powershellgallery.com/Packages/GenXdev.Webbrowser/1.256.2025) | 1.256.2025
+
+### Published: 08/23/2025 02:49:42 by genXdev
+
+A Windows PowerShell module that allows you to run scripts against your casual desktop webbrowser-tab
+
+__Downloads__: 9,224 | __Repository__: https://powershell.genxdev.net/#GenXdev.Webbrowser
+
+## [GenXdev.Windows](https://www.powershellgallery.com/Packages/GenXdev.Windows/1.256.2025) | 1.256.2025
+
+### Published: 08/23/2025 02:48:31 by genXdev
+
+A Windows PowerShell module that provides UI Windows manipulation helpers
+
+__Downloads__: 9,040 | __Repository__: https://powershell.genxdev.net/#GenXdev.Windows
+
+## [GenXdev.Data](https://www.powershellgallery.com/Packages/GenXdev.Data/1.256.2025) | 1.256.2025
+
+### Published: 08/23/2025 02:47:20 by genXdev
+
+A Windows PowerShell module with helpers for working with data and databases
+
+__Downloads__: 800 | __Repository__: https://powershell.genxdev.net/#GenXdev.Data
+
+## [GenXdev.Helpers](https://www.powershellgallery.com/Packages/GenXdev.Helpers/1.256.2025) | 1.256.2025
+
+### Published: 08/23/2025 02:46:09 by genXdev
+
+A Windows PowerShell module with helpers mostly used by other GenXdev modules
+
+__Downloads__: 9,478 | __Repository__: https://powershell.genxdev.net/#GenXdev.Helpers
+
+## [GenXdev.FileSystem](https://www.powershellgallery.com/Packages/GenXdev.FileSystem/1.256.2025) | 1.256.2025
+
+### Published: 08/23/2025 02:44:53 by genXdev
+
+A Windows PowerShell module for basic and advanced file management tasks
+
+__Downloads__: 9,569 | __Repository__: https://powershell.genxdev.net/#GenXdev.FileSystem
+
+## [Test-Forthencho](https://www.powershellgallery.com/Packages/Test-Forthencho/0.0.13) | 0.0.13
+
+### Published: 08/23/2025 00:07:25 by Everett Williams
 
 This is a test module
 
-__Downloads__: 0 | __Repository__: 
+__Downloads__: 1 | __Repository__: 
+
+## [AzureBasicLoadBalancerUpgrade](https://www.powershellgallery.com/Packages/AzureBasicLoadBalancerUpgrade/2.5.40) | 2.5.40
+
+### Published: 08/22/2025 23:10:43 by Matthew Bratschun
+
+This module will migrate a Basic SKU load balancer connected to a Virtual Machine Scaleset or Virtual Machines to a Standard SKU load balancer, preserving the existing configuration and functionality.
+
+__Downloads__: 29,685 | __Repository__: https://github.com/Azure/AzLoadBalancerMigration
 
 ## [OMG.PSUtilities.Core](https://www.powershellgallery.com/Packages/OMG.PSUtilities.Core/1.0.9) | 1.0.9
 
@@ -49,7 +169,7 @@ __Downloads__: 91,995 | __Repository__: https://github.com/jdhitsolutions/PSRele
 
 Manage PIM Azure Resource, PIM Entra role and PIM for Group settings and assignments with simplicity in mind
 
-__Downloads__: 49,163 | __Repository__: https://github.com/kayasax/EasyPIM/
+__Downloads__: 49,165 | __Repository__: https://github.com/kayasax/EasyPIM/
 
 ## [IntegrisDeploymentTool](https://www.powershellgallery.com/Packages/IntegrisDeploymentTool/0.7.37) | 0.7.37
 
@@ -57,7 +177,7 @@ __Downloads__: 49,163 | __Repository__: https://github.com/kayasax/EasyPIM/
 
 Integris Deployment Tool
 
-__Downloads__: 1,697 | __Repository__: 
+__Downloads__: 1,698 | __Repository__: 
 
 ## [PSLiteDB](https://www.powershellgallery.com/Packages/PSLiteDB/2.5.0) | 2.5.0
 
@@ -66,14 +186,6 @@ __Downloads__: 1,697 | __Repository__:
 Powershell wrapper fro LiteDB - a nosql single file datastore just like SQLite
 
 __Downloads__: 7,395 | __Repository__: https://github.com/v2kiran/PSLiteDB
-
-## [OSD](https://www.powershellgallery.com/Packages/OSD/25.8.22.3) | 25.8.22.3
-
-### Published: 08/22/2025 17:07:08 by David Segura . Gary Blok . Michael Escamilla
-
-OSD PowerShell Module for Windows Deployment
-
-__Downloads__: 4,651,660 | __Repository__: https://github.com/OSDeploy/OSD
 
 ## [MASES.KNetPS](https://www.powershellgallery.com/Packages/MASES.KNetPS/3.0.3) | 3.0.3
 
@@ -113,14 +225,6 @@ Interact with the CapaOne API to manage devices, users, groups, and MDM configur
 
 __Downloads__: 2 | __Repository__: https://github.com/AniTexs/PS.Capa.CapaOne
 
-## [WindmillClient](https://www.powershellgallery.com/Packages/WindmillClient/1.532.0) | 1.532.0
-
-### Published: 08/22/2025 10:07:18 by Windmill Labs
-
-Client for the Windmill platform.
-
-__Downloads__: 6,774 | __Repository__: https://github.com/windmill-labs/windmill/tree/main/powershell-client
-
 ## [UncommonSense.LaPlace](https://www.powershellgallery.com/Packages/UncommonSense.LaPlace/0.0.1) | 0.0.1
 
 ### Published: 08/22/2025 09:05:54 by Jan Hoek
@@ -135,7 +239,7 @@ __Downloads__: 2 | __Repository__: https://github.com/jhoek/UncommonSense.LaPlac
 
 Elements.Client - the PowerShell module for Elements SDK API
 
-__Downloads__: 11,873 | __Repository__: https://github.com/AvePoint/Elements-client
+__Downloads__: 11,874 | __Repository__: https://github.com/AvePoint/Elements-client
 
 ## [Borg](https://www.powershellgallery.com/Packages/Borg/0.2.23) | 0.2.23
 
@@ -160,102 +264,6 @@ __Downloads__: 3 | __Repository__:
 A PowerShell module to generate an as built report on the configuration of VMware ESXi servers.
 
 __Downloads__: 39,244 | __Repository__: https://github.com/AsBuiltReport/AsBuiltReport.VMware.ESXi
-
-## [GenXdev](https://www.powershellgallery.com/Packages/GenXdev/1.254.2025) | 1.254.2025
-
-### Published: 08/22/2025 04:59:42 by René Vaessen
-
-GenXdev PowerShell Utilities and helpers
-
-__Downloads__: 517 | __Repository__: https://powershell.genxdev.net/
-
-## [GenXdev.Media](https://www.powershellgallery.com/Packages/GenXdev.Media/1.254.2025) | 1.254.2025
-
-### Published: 08/22/2025 04:58:32 by genXdev
-
-A Windows PowerShell module that helps with converting media files like pictures and video files.
-
-__Downloads__: 115 | __Repository__: https://powershell.genxdev.net/#GenXdev.Media
-
-## [GenXdev.Coding](https://www.powershellgallery.com/Packages/GenXdev.Coding/1.254.2025) | 1.254.2025
-
-### Published: 08/22/2025 04:57:24 by genXdev
-
-A Windows PowerShell module that helps being more productive with coding tasks.
-
-__Downloads__: 392 | __Repository__: https://powershell.genxdev.net/#GenXdev.Coding
-
-## [GenXdev.AI](https://www.powershellgallery.com/Packages/GenXdev.AI/1.254.2025) | 1.254.2025
-
-### Published: 08/22/2025 04:55:13 by genXdev
-
-A Windows PowerShell module for local AI related operations
-
-__Downloads__: 646 | __Repository__: https://powershell.genxdev.net/#GenXdev.AI
-
-## [GenXdev.Queries](https://www.powershellgallery.com/Packages/GenXdev.Queries/1.254.2025) | 1.254.2025
-
-### Published: 08/22/2025 04:54:01 by genXdev
-
-A Windows PowerShell module for finding resources and information on the internet
-
-__Downloads__: 1,494 | __Repository__: https://powershell.genxdev.net/#GenXdev.Queries
-
-## [GenXdev.Console](https://www.powershellgallery.com/Packages/GenXdev.Console/1.254.2025) | 1.254.2025
-
-### Published: 08/22/2025 04:52:50 by genXdev
-
-A Windows PowerShell module for enhancing the commandline experience
-
-__Downloads__: 1,464 | __Repository__: https://powershell.genxdev.net/#GenXdev.Console
-
-## [GenXdev.Webbrowser](https://www.powershellgallery.com/Packages/GenXdev.Webbrowser/1.254.2025) | 1.254.2025
-
-### Published: 08/22/2025 04:50:59 by genXdev
-
-A Windows PowerShell module that allows you to run scripts against your casual desktop webbrowser-tab
-
-__Downloads__: 9,224 | __Repository__: https://powershell.genxdev.net/#GenXdev.Webbrowser
-
-## [GenXdev.Windows](https://www.powershellgallery.com/Packages/GenXdev.Windows/1.254.2025) | 1.254.2025
-
-### Published: 08/22/2025 04:49:48 by genXdev
-
-A Windows PowerShell module that provides UI Windows manipulation helpers
-
-__Downloads__: 9,040 | __Repository__: https://powershell.genxdev.net/#GenXdev.Windows
-
-## [GenXdev.Data](https://www.powershellgallery.com/Packages/GenXdev.Data/1.254.2025) | 1.254.2025
-
-### Published: 08/22/2025 04:48:37 by genXdev
-
-A Windows PowerShell module with helpers for working with data and databases
-
-__Downloads__: 800 | __Repository__: https://powershell.genxdev.net/#GenXdev.Data
-
-## [GenXdev.Helpers](https://www.powershellgallery.com/Packages/GenXdev.Helpers/1.254.2025) | 1.254.2025
-
-### Published: 08/22/2025 04:47:26 by genXdev
-
-A Windows PowerShell module with helpers mostly used by other GenXdev modules
-
-__Downloads__: 9,478 | __Repository__: https://powershell.genxdev.net/#GenXdev.Helpers
-
-## [GenXdev.FileSystem](https://www.powershellgallery.com/Packages/GenXdev.FileSystem/1.254.2025) | 1.254.2025
-
-### Published: 08/22/2025 04:45:35 by genXdev
-
-A Windows PowerShell module for basic and advanced file management tasks
-
-__Downloads__: 9,569 | __Repository__: https://powershell.genxdev.net/#GenXdev.FileSystem
-
-## [Turtle](https://www.powershellgallery.com/Packages/Turtle/0.1.5) | 0.1.5
-
-### Published: 08/22/2025 02:13:20 by James Brundage
-
-Turtles in a PowerShell
-
-__Downloads__: 646 | __Repository__: https://github.com/PowerShellWeb/Turtle
 
 ## [Citrix.Workloads.Portability](https://www.powershellgallery.com/Packages/Citrix.Workloads.Portability/2.4.5) | 2.4.5
 
@@ -287,7 +295,7 @@ __Downloads__: 3 | __Repository__: https://github.com/andresyuhnke/ConvertVTTAss
 
 PowerShell module for configuring, optimizing, and troubleshooting Windows Server Routing and Remote Access Service (RRAS) for Always On VPN.
 
-__Downloads__: 31,588 | __Repository__: https://github.com/richardhicks/aovpntools
+__Downloads__: 31,589 | __Repository__: https://github.com/richardhicks/aovpntools
 
 ## [PSAppDeployToolkit](https://www.powershellgallery.com/Packages/PSAppDeployToolkit/4.1.3) | 4.1.3
 
@@ -319,7 +327,7 @@ __Downloads__: 13,928 | __Repository__: https://github.com/jdhitsolutions/pstime
 
 A module to deliver PowerShell Weekly directly to your terminal
 
-__Downloads__: 10 | __Repository__: https://github.com/mdowst/PSWeekly
+__Downloads__: 9 | __Repository__: https://github.com/mdowst/PSWeekly
 
 ## [AdminToolbox](https://www.powershellgallery.com/Packages/AdminToolbox/12.0.0.34) | 12.0.0.34
 
@@ -423,7 +431,7 @@ __Downloads__: 224,744 | __Repository__: https://github.com/TheTaylorLee/AdminTo
 
 Functions for Exchange Management
 
-__Downloads__: 188,833 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 188,832 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.EndpointManagement](https://www.powershellgallery.com/Packages/AdminToolbox.EndpointManagement/4.15.1.2) | 4.15.1.2
 
@@ -490,7 +498,7 @@ Compiles Powershell scripts to executables. Overworking of the great script of I
 'Invoke-ps2exe script.ps1' (or 'ps2exe script.ps1') compiles to script.exe. Several control parameters available.
 Or use Win-PS2EXE as a graphical front end to the compiler.
 
-__Downloads__: 2,398,343 | __Repository__: https://github.com/MScholtes/PS2EXE
+__Downloads__: 2,398,381 | __Repository__: https://github.com/MScholtes/PS2EXE
 
 ## [VCF.JSONGenerator](https://www.powershellgallery.com/Packages/VCF.JSONGenerator/9.0.0.1006) | 9.0.0.1006
 
@@ -522,7 +530,7 @@ __Downloads__: 122 | __Repository__: https://github.com/PSModule/GraphQL
 
 A module for working with TLS settings.
 
-__Downloads__: 1,027 | __Repository__: https://github.com/PSModule/Tls
+__Downloads__: 1,028 | __Repository__: https://github.com/PSModule/Tls
 
 ## [AzureAvSetBasicPublicIPUpgrade](https://www.powershellgallery.com/Packages/AzureAvSetBasicPublicIPUpgrade/1.0.1) | 1.0.1
 
@@ -746,14 +754,6 @@ CMDlets to manage SCEPman (https://scepman.com/) installations
 
 __Downloads__: 17,511 | __Repository__: https://scepman.com/
 
-## [Get-Etymology](https://www.powershellgallery.com/Packages/Get-Etymology/0.0.2) | 0.0.2
-
-### Published: 08/20/2025 09:30:34 by Jan Hoek
-
-Micro-module for retrieving the origin of English words
-
-__Downloads__: 8 | __Repository__: https://github.com/jhoek/Get-Etymology
-
 ## [Hashtable](https://www.powershellgallery.com/Packages/Hashtable/1.1.7) | 1.1.7
 
 ### Published: 08/20/2025 08:19:53 by PSModule
@@ -776,7 +776,7 @@ __Downloads__: 110 | __Repository__: https://github.com/PSModule/Path
 
 A PowerShell module for managing fonts.
 
-__Downloads__: 102,539 | __Repository__: https://github.com/PSModule/Fonts
+__Downloads__: 102,538 | __Repository__: https://github.com/PSModule/Fonts
 
 ## [Guid](https://www.powershellgallery.com/Packages/Guid/1.0.3) | 1.0.3
 
@@ -824,7 +824,7 @@ __Downloads__: 114 | __Repository__:
 
 The community module that enables SQL Server Pros to automate database development and server administration
 
-__Downloads__: 7,096,419 | __Repository__: https://dbatools.io/
+__Downloads__: 7,096,256 | __Repository__: https://dbatools.io/
 
 ## [JumpCloud.ADMU](https://www.powershellgallery.com/Packages/JumpCloud.ADMU/2.8.8) | 2.8.8
 
@@ -1827,6 +1827,14 @@ This modules provides Cmdlets for OCI Containerinstances Service
 
 __Downloads__: 8,878 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
+## [OCI.PSModules.Containerengine](https://www.powershellgallery.com/Packages/OCI.PSModules.Containerengine/114.0.0) | 114.0.0
+
+### Published: 08/19/2025 17:34:18 by Oracle Cloud Infrastructure
+
+This modules provides Cmdlets for OCI Containerengine Service
+
+__Downloads__: 12,284 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+
 ## [OCI.PSModules.Computeinstanceagent](https://www.powershellgallery.com/Packages/OCI.PSModules.Computeinstanceagent/114.0.0) | 114.0.0
 
 ### Published: 08/19/2025 17:34:12 by Oracle Cloud Infrastructure
@@ -2059,12 +2067,4 @@ This modules provides Cmdlets for OCI Aispeech Service
 
 __Downloads__: 11,040 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-## [OCI.PSModules.Ailanguage](https://www.powershellgallery.com/Packages/OCI.PSModules.Ailanguage/114.0.0) | 114.0.0
-
-### Published: 08/19/2025 17:30:59 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Ailanguage Service
-
-__Downloads__: 14,502 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-*Updated: Friday, 22 August 2025 21:52:01 UTC*
+*Updated: Saturday, 23 August 2025 09:52:04 UTC*

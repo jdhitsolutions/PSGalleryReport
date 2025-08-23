@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Friday, 22 August 2025 21:52:10 UTC
+Updated: Saturday, 23 August 2025 09:52:13 UTC
 
 .bat
 .env
@@ -191,6 +191,7 @@ address-book
 addresses
 addressrange
 adds
+addtypeaccelerators
 adf
 adfs
 adfsconfiguration
@@ -607,6 +608,7 @@ attribute
 attributes
 au
 audio
+audiocodes
 audit
 auditad
 auditing
@@ -795,6 +797,7 @@ azuredatastudio
 azuredevops
 azuredevops_security
 azuredevopsserver
+azuredns
 azurefilesync
 azurefunctionapp
 azurefunctions
@@ -891,7 +894,9 @@ batman
 battery
 bayern
 bazzo
+bb
 bbc
+bbp
 bc
 bc365
 bcd
@@ -911,6 +916,7 @@ beautify
 bec
 beckhoff
 bedrock
+beep
 beer
 behavior
 behavioralanalytics
@@ -943,6 +949,7 @@ bin
 bin-obj
 binaries
 binary
+binaryip
 bind
 binding
 bindings
@@ -986,6 +993,7 @@ block-kit
 blockchain
 blocks
 blog
+blogger
 blogs
 bloodhound
 bloxone
@@ -1075,7 +1083,6 @@ budget
 bugbounty
 bugzilla
 build
-build-log
 build-scripts
 build-test-publish
 buildautomation
@@ -1149,6 +1156,7 @@ capainstaller
 capaone
 capasystems
 capgemini
+capslock
 captcha
 capture
 carbon
@@ -1266,6 +1274,7 @@ chefconf2016
 chenxizhang
 cherrypy
 cherwell
+chfs
 chi
 china
 chinese
@@ -1488,6 +1497,9 @@ collectionmembershipevaluationcomponent
 collections
 collector
 color
+color-hex
+color-rgb
+color-show
 colored
 colorful
 colorize
@@ -1507,6 +1519,7 @@ comic
 comical
 comics
 command
+command_line
 command-line-interface
 command-validation
 commandcoverage
@@ -1561,8 +1574,10 @@ computefleet
 computeinstanceagent
 computer
 computer-room
+computer-site
 computername
 computers
+computersite
 computeschedule
 comulativeupdate
 concur
@@ -1630,6 +1645,7 @@ consumption
 contact
 contacts
 container
+containerengine
 containergroup
 containerinstance
 containerinstances
@@ -1854,6 +1870,7 @@ customization
 customlocation
 customlogs
 customproviders
+cutehttpfileserver
 cvad
 cve
 cve-2021-34527
@@ -1959,6 +1976,8 @@ datatable
 datatransfer
 dataverse
 date
+date-random
+date-truncate
 dates
 datetaken
 datetime
@@ -1971,6 +1990,7 @@ davinci
 dax
 dayinweek
 days
+days-week
 db
 db2
 dba
@@ -2004,6 +2024,7 @@ debug-files
 debugger
 debugging
 decimal
+decimalip
 decimalzero
 declarative
 decline
@@ -2240,6 +2261,7 @@ dnf
 dns
 dns-01
 dns-administration
+dns-async
 dns-client
 dns-over-https
 dns-resolver
@@ -2308,6 +2330,7 @@ dotnet-tool
 dotnettool
 dotps1
 dots
+dotteddecimalip
 doubleclick
 down
 download
@@ -2505,6 +2528,7 @@ elvui
 em
 emacs
 email
+email-address
 emailaddressupdate
 emailauth
 emailauthchecker
@@ -2572,6 +2596,7 @@ entraid
 entraid-security-assessment
 entraidgovernance
 entropy
+entrust
 enum
 enumerable
 env
@@ -2639,7 +2664,6 @@ etl2pcapng
 etrade
 ets
 etw
-etymology
 eulanda
 evaluation
 evaluator
@@ -2671,6 +2695,7 @@ evergreen
 everix
 evernote
 everydaypowershell
+everydayrewards
 everything
 evilprince2009
 evolutionary-algorithms
@@ -2720,6 +2745,8 @@ exov2
 exov3
 exp
 expand
+expand-string
+expand-tab
 expandframework
 expect
 experience
@@ -2732,6 +2759,7 @@ exploit
 exploits
 exploration
 explorer
+exponentiation
 export
 export-cmhealthreport
 export-data
@@ -2831,8 +2859,10 @@ figlet
 file
 file-association
 file-copy
+file-encoding
 file-extension
 file-extension-association
+file-invalidchar
 file-management
 file-matcher
 file-matching
@@ -3115,6 +3145,8 @@ genai
 general
 generate
 generate-dockerimagevariants
+generate-password
+generate-random-password
 generateaddress
 generates
 generatewif
@@ -3226,12 +3258,10 @@ gitlabpipeline
 gitops
 glimps
 glob
-global
 globalclipboard
 globaldashboard
 globalentry
 globallydistributeddatabase
-globalping
 globbing
 glp
 glpi
@@ -3641,8 +3671,10 @@ identitydataplane
 identitydirector
 identitydomains
 identitynow
+identitysecuritycloud
 idf
 idm
+idn
 idna
 idoit
 idrac
@@ -3750,6 +3782,7 @@ innerjoin
 innertext
 inpainting
 input
+inputbox
 inputobject
 insert
 insiderthreat
@@ -3760,6 +3793,7 @@ inspect
 inspiration
 inspirationalquotes
 inspire
+inspur
 instagram
 install
 install-module
@@ -3774,6 +3808,7 @@ installofficertool
 instance
 instant
 instapush
+instorage
 int
 intacct
 integrated
@@ -3812,6 +3847,8 @@ intune
 intuneadminroles
 intuneappwinutil
 intunestuff
+intunewinapputil
+intunewinapputil.exe
 inventory
 investigation
 investing
@@ -3880,10 +3917,12 @@ isadmin
 isbn
 isc
 iscsi
+isdate
 ise
 iselevated
 isesteroids
 ish
+ishexstring
 islamic
 isnumeric
 iso
@@ -3893,6 +3932,8 @@ ispac
 isprime
 ispss
 issues
+isvalidemail
+isvalidip
 it
 it-support
 it-tool
@@ -4037,6 +4078,7 @@ keyboard
 keyboardstartkey
 keycipher
 keycloak
+keycontrol
 keylight
 keymanagement
 keymanagementserver
@@ -4404,6 +4446,7 @@ macros
 madlib
 magazine
 magento
+magic8ball
 magicpacket
 magnet
 mail
@@ -4439,6 +4482,7 @@ manageddisks
 managedidentities
 managedidentity
 managednetworkfabric
+managedserviceidenity
 managedserviceidentity
 managedserviceprovider
 managedserviceproviders
@@ -4578,6 +4622,7 @@ messenger
 met
 meta
 metadata
+metadataservice
 metaprogramming
 method
 methodinfo
@@ -4793,6 +4838,7 @@ msftnet
 msftnetworking
 msg
 msg.exe
+msgbox
 msgraph
 msgraphapi
 msgraphreport
@@ -4920,7 +4966,6 @@ nebula
 nebulon
 nec-infrared-transmission-protocol
 necli
-nederland
 nedyalkov
 nemovote
 neo4j
@@ -5092,7 +5137,6 @@ nql
 nrc
 nrql
 ns
-ns.nl
 nsg
 nslookup
 nsx
@@ -5110,6 +5154,7 @@ nuget-references
 nuget.exe
 nuget.org
 number
+numlock
 nummapper
 nunit
 nupkg
@@ -5314,9 +5359,9 @@ orchestration
 orchestrator
 order
 organization
+organizationally
 orgnetwork
 oriflame
-origin
 orion
 orleans
 orm
@@ -5416,6 +5461,7 @@ paloalto
 paloaltonetworks
 pam
 pan
+pandoc
 panels
 pansies
 panther
@@ -5574,7 +5620,7 @@ pihole
 pim
 pin
 ping
-pinging
+ping-async
 pingsweep
 pinneditem
 pinterest
@@ -5614,10 +5660,6 @@ playbook
 player
 playlists
 playwright
-plc
-plc4x™
-plconnet
-plconnetps
 pleasant
 pleasantpasswordserver
 plex
@@ -5847,6 +5889,7 @@ powershellremoting
 powershellscript
 powershelltemplate
 powershelltraining
+powershelltypeaccelerators
 powershelluniversal
 powershellv5
 powershellweb
@@ -5946,7 +5989,6 @@ profilevalidation
 proget
 program
 program-association
-programming
 programs
 progress
 progressbar
@@ -9038,7 +9080,6 @@ pwpush.com
 pwsafe
 pwsh
 pwsh.fw
-pwshake
 pwshfw
 pwshrc
 pxedistributionpoint
@@ -9123,7 +9164,9 @@ raj
 ram
 ram-it
 random
+random-date
 random-password
+random-password-generator
 randompassword
 randomuser
 randomusers
@@ -9163,6 +9206,7 @@ rdp
 rdpsession
 rdpsign
 rds
+rdsgw
 react
 react-stockcharts
 read
@@ -9284,6 +9328,7 @@ remoteconnectionsmanager
 remotecontrol
 remotedesktop
 remotedesktopconnectionmanager
+remotedesktopgateway
 remotedesktopmanager
 remotedesktopservices
 remotedirectories
@@ -9305,6 +9350,7 @@ remove-path
 remove-pinneditem
 remove-tempfiles
 removefile
+removetypeaccelerators
 remux
 ren-isac
 rename
@@ -9387,6 +9433,7 @@ returnuserprofile
 retype
 reuse
 reverse-engineer
+reverse-string
 reversed-color-text
 reversedsc
 reverseengineering
@@ -9448,8 +9495,10 @@ roles
 rollingfile
 romaji
 ropc
+rot13
 rotate
 rotation
+round
 roundrobindatabase
 route
 route53
@@ -9554,6 +9603,7 @@ sat
 satirical
 save
 savedcreds
+savefile
 savings
 savov
 sbc
@@ -9632,6 +9682,8 @@ screenshot
 script
 script_version
 script-module
+script-to-assembly
+script-to-executable
 scriptanalyzer
 scriptblock
 scriptblocklogging
@@ -9645,9 +9697,11 @@ scripting
 scriptlog
 scriptlogging
 scriptmodule
+scriptoform
 scriptrunner
 scripts
 scriptsmonitoring
+scrolllock
 scrub
 scrubber
 scsm
@@ -9785,7 +9839,6 @@ serverprotection
 servers
 service
 service-bus
-service-messages
 servicebus
 servicebusforwindowsserver
 servicecatalog
@@ -9828,6 +9881,7 @@ set-pass
 set-psbreakpoint
 set-psenv
 set-randompass
+set-type
 setbios
 sets
 setting
@@ -9857,6 +9911,8 @@ shanehoey
 shanghaitech
 shard
 share
+share-permission
+share-stat
 shared
 sharefile
 sharepoint
@@ -9966,7 +10022,6 @@ slack
 slash
 slashcommands
 sleep
-sleeper
 slideshow
 slmgr
 sln
@@ -10096,6 +10151,7 @@ spdx
 spdx-license-identifier:ms-pl
 spe
 speach
+speak
 speaker
 spec
 specification
@@ -10170,6 +10226,7 @@ sqlitebynarymodule
 sqlitebynarypsmodule
 sqlitemodule
 sqllocaldb
+sqlmanagementobjects
 sqlpackage
 sqlplus
 sqlproj
@@ -10180,6 +10237,7 @@ sqlserver
 sqlserveragent
 sqlserverbynarymodule
 sqlserverbynarypsmodule
+sqlserverclient
 sqlservermodule
 sqlvirtualmachine
 sqlvm
@@ -10346,6 +10404,7 @@ subnetcalculator
 subnetcalulator
 subnetdetails
 subnetmapping
+subnetmask
 subnetmaths
 subnets
 subnetting
@@ -10757,7 +10816,6 @@ traffic
 trafficfiltering
 trafficmanager
 trafficmarking
-train
 trainer
 training
 training-course
@@ -10789,7 +10847,6 @@ tree
 tree-structure
 treesize
 treffynnon
-trein
 trello
 trellops
 trend
@@ -10861,6 +10918,7 @@ twitter-timeline
 twitter-tweet
 txt
 type
+typeaccelerators
 typedata
 typeextension
 types
@@ -10924,6 +10982,7 @@ ud-tagcloud
 ud-timeline
 ud-timeout
 ud-tool
+ud-toploader
 ud-trendline
 ud-typing
 ud-window
@@ -11325,6 +11384,7 @@ wansi
 wap
 wapack
 wapi
+wara
 warning
 warplaneporn
 warranty
@@ -11402,6 +11462,8 @@ weekday
 weekly
 wef
 weixin
+well-architectedframework
+well-architectedreliabilityassessment
 well-known
 wem
 wemsdk
@@ -11442,6 +11504,7 @@ whoisserver
 whoissummary
 whoistool
 whoisutility
+whormi
 wi-fi
 wia
 wia.imagefile
@@ -11589,6 +11652,8 @@ wol
 wolfram
 wolframalpha
 woocommerce
+woolworths
+woolworthsrewards
 word
 word-wrap
 wordcloud
@@ -11625,6 +11690,7 @@ wpad
 wpf
 wql
 wrap
+wrap-text
 wrapper
 wrapperfunctions
 wrc
@@ -11755,6 +11821,7 @@ yubikey
 yum
 z
 zabbix
+zabbix7
 zabbixps
 zap
 zap-zsh
