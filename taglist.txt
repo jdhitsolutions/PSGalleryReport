@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Sunday, 24 August 2025 09:52:03 UTC
+Updated: Sunday, 24 August 2025 21:52:10 UTC
 
 .bat
 .env
@@ -552,8 +552,6 @@ asciiart
 asdatabase
 asigra
 asjob
-ask-gpt
-askgpt
 asm
 asn
 asn.1
@@ -777,6 +775,7 @@ azureaitranslator
 azureappconfiguration
 azureapplicationstuff
 azurearc
+azurearcstuff
 azureartifacts
 azureas
 azureatp
@@ -1022,7 +1021,6 @@ bookmark
 bookmarks
 books
 bool
-boolean
 bootloader psmodule
 bootstrap
 bootstrapping
@@ -1082,6 +1080,7 @@ budget
 bugbounty
 bugzilla
 build
+build-log
 build-scripts
 build-test-publish
 buildautomation
@@ -1534,7 +1533,6 @@ comments
 commerce
 commfort
 commit
-commits
 common
 common-data-service
 commondataservice
@@ -1671,8 +1669,6 @@ control
 controller
 controlroom
 controlup
-conventional
-conventional-commits
 convereter
 converged_data_management
 conversational
@@ -1791,7 +1787,6 @@ crescendo
 crescendobuilt
 cresendo
 crestron
-cricket
 crime
 critical
 crlf
@@ -2203,7 +2198,6 @@ discordrpc
 discount
 discover
 discovery
-discutils
 disk
 disk_to_disk
 disk-space
@@ -2595,6 +2589,7 @@ entraid
 entraid-security-assessment
 entraidgovernance
 entropy
+entrust
 enum
 enumerable
 env
@@ -3051,8 +3046,6 @@ fractal
 frame
 framework
 france
-free
-free-ware
 freeipa
 freenas
 freesoftwarefoundation
@@ -3452,6 +3445,7 @@ healthcare
 healthcareapis
 healthcheck
 healthchecks
+healthchecks.io
 healthdataaiservices
 healthservice
 healthz
@@ -4075,6 +4069,7 @@ keyboard
 keyboardstartkey
 keycipher
 keycloak
+keycontrol
 keylight
 keymanagement
 keymanagementserver
@@ -4378,10 +4373,8 @@ logonto
 logonuser
 logparser
 logrotate
-logrotation
 logs
 logstash
-logtools
 logz
 loki
 lol
@@ -4685,8 +4678,6 @@ microsoftsentinel
 microsoftstaffhub
 microsoftstore
 microsoftteams
-microsoftteamsdevices
-microsoftteamsphone
 microsoftupdate
 microsoftword
 middleware
@@ -5165,7 +5156,6 @@ nvdimm
 nvdimm-n
 nvidia
 nvm
-nvm-window
 nxt
 nyse
 nzb
@@ -5183,8 +5173,6 @@ oauth
 oauth2
 oauth2.0
 oberstufe
-obfuscate
-obfuscation
 obj
 object
 objectid
@@ -9847,6 +9835,7 @@ serverprotection
 servers
 service
 service-bus
+service-messages
 servicebus
 servicebusforwindowsserver
 servicecatalog
@@ -9943,6 +9932,7 @@ sherweb
 shieldedvm
 ships
 shipsprovider
+shipstation
 shitpost
 shlink
 shodan
@@ -10602,10 +10592,6 @@ teamfoundationserver
 teams
 teamsdevices
 teamservices
-teamsphones
-teamsphonesoftwareupdate
-teamsphonessoftwareupdates
-teamsphoneupdatesoftware
 teamspolicy
 teamviewer
 techdirect
@@ -10654,7 +10640,6 @@ terrafun
 terragrunt
 tesla
 test
-test-automation
 test-dscconfiguration
 test-internetconnection
 test-modulemanifest
@@ -10856,6 +10841,7 @@ trec
 tree
 tree-structure
 treesize
+treffynnon
 trein
 trello
 trellops
@@ -10955,6 +10941,7 @@ ud-buttonparticle
 ud-calendar
 ud-circle
 ud-component
+ud-confetti
 ud-control
 ud-dashboard
 ud-datepicker
@@ -11277,7 +11264,6 @@ vlsc
 vlsm
 vm
 vmc
-vmconnect
 vmelamed5
 vmfs
 vmgroup
@@ -11476,7 +11462,6 @@ well-architectedreliabilityassessment
 well-known
 wem
 wemsdk
-wer
 wget
 what3words
 whatif

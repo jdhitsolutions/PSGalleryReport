@@ -3,6 +3,66 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [DailyBackup](https://www.powershellgallery.com/Packages/DailyBackup/1.4.1) | 1.4.1
+
+### Published: 08/24/2025 21:18:25 by Jon LaBelle
+
+Perform simple, daily backups.
+
+__Downloads__: 117 | __Repository__: https://github.com/jonlabelle/pwsh-daily-backup
+
+## [7Zip4Powershell](https://www.powershellgallery.com/Packages/7Zip4Powershell/2.8.0) | 2.8.0
+
+### Published: 08/24/2025 18:56:34 by Thomas Freudenberg
+
+Powershell module for creating and extracting 7-Zip archives
+
+__Downloads__: 19,323,583 | __Repository__: https://github.com/thoemmi/7Zip4Powershell
+
+## [OSD](https://www.powershellgallery.com/Packages/OSD/25.8.24.3) | 25.8.24.3
+
+### Published: 08/24/2025 17:06:40 by David Segura . Gary Blok . Michael Escamilla
+
+OSD PowerShell Module for Windows Deployment
+
+__Downloads__: 4,656,886 | __Repository__: https://github.com/OSDeploy/OSD
+
+## [Varibill.SourceCollector.Core](https://www.powershellgallery.com/Packages/Varibill.SourceCollector.Core/1.0.3660) | 1.0.3660
+
+### Published: 08/24/2025 17:04:40 by Varibill DevOps Team
+
+Varibill collects data from various source systems for billing purposes. This module support collection via Powershell and posting to the Varibill web service for billing purposes.
+
+This module absctracts the creation and posting of the data so that the users can focus on the business requirements.
+
+For more information see https://docs.varibill.com
+
+__Downloads__: 0 | __Repository__: 
+
+## [ADEssentials](https://www.powershellgallery.com/Packages/ADEssentials/0.0.253) | 0.0.253
+
+### Published: 08/24/2025 13:23:28 by Przemyslaw Klys
+
+Helper module for Active Directory with lots of useful functions that simplify supporting Active Directory.
+
+__Downloads__: 597,550 | __Repository__: https://github.com/EvotecIT/ADEssentials
+
+## [PSStringToQRCode](https://www.powershellgallery.com/Packages/PSStringToQRCode/1.0.2) | 1.0.2
+
+### Published: 08/24/2025 11:59:52 by EW
+
+A module to convert strings to QR codes and display in a GUI, save them as PNG images or output raw image stream.
+
+__Downloads__: 2,426 | __Repository__: https://github.com/erlwes/PSStringToQRCode
+
+## [Doremy](https://www.powershellgallery.com/Packages/Doremy/0.0.7) | 0.0.7
+
+### Published: 08/24/2025 10:42:06 by Mint
+
+Doremy script collection
+
+__Downloads__: 27 | __Repository__: 
+
 ## [Svrooij.BetterGraph](https://www.powershellgallery.com/Packages/Svrooij.BetterGraph/0.2.0) | 0.2.0
 
 ### Published: 08/24/2025 09:04:10 by Stephan van Rooij (@svrooij)
@@ -18,14 +78,6 @@ __Downloads__: 34 | __Repository__: https://github.com/svrooij/BetterGraph-Power
 PowerShell module for OpenAI API
 
 __Downloads__: 37,344 | __Repository__: https://github.com/mkht/PSOpenAI
-
-## [OSD](https://www.powershellgallery.com/Packages/OSD/25.8.24.1) | 25.8.24.1
-
-### Published: 08/24/2025 05:07:04 by David Segura . Gary Blok . Michael Escamilla
-
-OSD PowerShell Module for Windows Deployment
-
-__Downloads__: 4,656,884 | __Repository__: https://github.com/OSDeploy/OSD
 
 ## [AsBuiltReport.VMware.vSphere](https://www.powershellgallery.com/Packages/AsBuiltReport.VMware.vSphere/1.3.6) | 1.3.6
 
@@ -161,7 +213,7 @@ __Downloads__: 129 | __Repository__: https://github.com/fasteiner/Notion
 
 Manage PIM Azure Resource, PIM Entra role and PIM for Group settings and assignments with simplicity in mind
 
-__Downloads__: 49,288 | __Repository__: https://github.com/kayasax/EasyPIM/
+__Downloads__: 49,290 | __Repository__: https://github.com/kayasax/EasyPIM/
 
 ## [IISParser](https://www.powershellgallery.com/Packages/IISParser/1.0.0) | 1.0.0
 
@@ -169,7 +221,7 @@ __Downloads__: 49,288 | __Repository__: https://github.com/kayasax/EasyPIM/
 
 Module for parsing IIS logs
 
-__Downloads__: 185,972 | __Repository__: https://github.com/EvotecIT/IISParser
+__Downloads__: 185,979 | __Repository__: https://github.com/EvotecIT/IISParser
 
 ## [Export-ModuleInfoForLLM](https://www.powershellgallery.com/Packages/Export-ModuleInfoForLLM/1.0.1) | 1.0.1
 
@@ -201,7 +253,7 @@ __Downloads__: 890 | __Repository__:
 
 The community module that enables SQL Server Pros to automate database development and server administration
 
-__Downloads__: 7,103,178 | __Repository__: https://dbatools.io/
+__Downloads__: 7,103,149 | __Repository__: https://dbatools.io/
 
 ## [WindmillClient](https://www.powershellgallery.com/Packages/WindmillClient/1.533.1) | 1.533.1
 
@@ -347,7 +399,7 @@ __Downloads__: 3 | __Repository__: https://github.com/jhoek/UncommonSense.LaPlac
 
 Elements.Client - the PowerShell module for Elements SDK API
 
-__Downloads__: 11,888 | __Repository__: https://github.com/AvePoint/Elements-client
+__Downloads__: 11,889 | __Repository__: https://github.com/AvePoint/Elements-client
 
 ## [Borg](https://www.powershellgallery.com/Packages/Borg/0.2.23) | 0.2.23
 
@@ -411,7 +463,7 @@ __Downloads__: 31,610 | __Repository__: https://github.com/richardhicks/aovpntoo
 
 Enterprise App Deployment, Simplified.
 
-__Downloads__: 1,295,710 | __Repository__: https://psappdeploytoolkit.com/
+__Downloads__: 1,295,712 | __Repository__: https://psappdeploytoolkit.com/
 
 ## [BusinessCentralApiExtras](https://www.powershellgallery.com/Packages/BusinessCentralApiExtras/0.0.2) | 0.0.2
 
@@ -507,7 +559,7 @@ __Downloads__: 108,483 | __Repository__: https://github.com/TheTaylorLee/AdminTo
 
 The Devolutions.PowerShell module is a set of cmdlets that allow administrators to manage Remote Desktop Manager, Devolutions Server and Devolutions Hub Business using PowerShell. This module provides a simple and consistent interface for interacting with these products, making it easy to automate various tasks, such as creating and managing connections, sessions, and credentials, configuring security settings, and generating reports. The module can be easily integrated with other PowerShell modules, allowing administrators to automate tasks across multiple products and platforms, streamline their workflows and increase efficiency.
 
-__Downloads__: 435,693 | __Repository__: https://devolutions.net/
+__Downloads__: 435,691 | __Repository__: https://devolutions.net/
 
 ## [AdminToolbox.Fun](https://www.powershellgallery.com/Packages/AdminToolbox.Fun/1.7.0.75) | 1.7.0.75
 
@@ -606,7 +658,7 @@ Compiles Powershell scripts to executables. Overworking of the great script of I
 'Invoke-ps2exe script.ps1' (or 'ps2exe script.ps1') compiles to script.exe. Several control parameters available.
 Or use Win-PS2EXE as a graphical front end to the compiler.
 
-__Downloads__: 2,399,523 | __Repository__: https://github.com/MScholtes/PS2EXE
+__Downloads__: 2,399,519 | __Repository__: https://github.com/MScholtes/PS2EXE
 
 ## [VCF.JSONGenerator](https://www.powershellgallery.com/Packages/VCF.JSONGenerator/9.0.0.1006) | 9.0.0.1006
 
@@ -876,7 +928,7 @@ __Downloads__: 8 | __Repository__: https://github.com/jhoek/Get-Etymology
 
 A PowerShell module that simplifies some interaction with Hashtables.
 
-__Downloads__: 339,246 | __Repository__: https://github.com/PSModule/Hashtable
+__Downloads__: 339,243 | __Repository__: https://github.com/PSModule/Hashtable
 
 ## [PSModuleTest](https://www.powershellgallery.com/Packages/PSModuleTest/1.0.19) | 1.0.19
 
@@ -2023,52 +2075,4 @@ This modules provides Cmdlets for OCI Capacitymanagement Service
 
 __Downloads__: 6,852 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-## [OCI.PSModules.Budget](https://www.powershellgallery.com/Packages/OCI.PSModules.Budget/114.0.0) | 114.0.0
-
-### Published: 08/19/2025 17:33:10 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Budget Service
-
-__Downloads__: 12,495 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Blockchain](https://www.powershellgallery.com/Packages/OCI.PSModules.Blockchain/114.0.0) | 114.0.0
-
-### Published: 08/19/2025 17:33:03 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Blockchain Service
-
-__Downloads__: 12,524 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Bds](https://www.powershellgallery.com/Packages/OCI.PSModules.Bds/114.0.0) | 114.0.0
-
-### Published: 08/19/2025 17:32:56 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Bds Service
-
-__Downloads__: 12,577 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Bastion](https://www.powershellgallery.com/Packages/OCI.PSModules.Bastion/114.0.0) | 114.0.0
-
-### Published: 08/19/2025 17:32:48 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Bastion Service
-
-__Downloads__: 11,700 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Autoscaling](https://www.powershellgallery.com/Packages/OCI.PSModules.Autoscaling/114.0.0) | 114.0.0
-
-### Published: 08/19/2025 17:32:42 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Autoscaling Service
-
-__Downloads__: 12,502 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Audit](https://www.powershellgallery.com/Packages/OCI.PSModules.Audit/114.0.0) | 114.0.0
-
-### Published: 08/19/2025 17:32:34 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Audit Service
-
-__Downloads__: 13,155 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-*Updated: Sunday, 24 August 2025 09:51:54 UTC*
+*Updated: Sunday, 24 August 2025 21:52:01 UTC*
