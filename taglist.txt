@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Sunday, 24 August 2025 21:52:10 UTC
+Updated: Monday, 25 August 2025 09:52:19 UTC
 
 .bat
 .env
@@ -775,7 +775,6 @@ azureaitranslator
 azureappconfiguration
 azureapplicationstuff
 azurearc
-azurearcstuff
 azureartifacts
 azureas
 azureatp
@@ -1021,6 +1020,7 @@ bookmark
 bookmarks
 books
 bool
+boolean
 bootloader psmodule
 bootstrap
 bootstrapping
@@ -1228,7 +1228,6 @@ certificat
 certificate
 certificateauthority
 certificatechain
-certificatemanager
 certificatepolicy
 certificates
 certificateservices
@@ -1533,6 +1532,7 @@ comments
 commerce
 commfort
 commit
+commits
 common
 common-data-service
 commondataservice
@@ -1669,6 +1669,8 @@ control
 controller
 controlroom
 controlup
+conventional
+conventional-commits
 convereter
 converged_data_management
 conversational
@@ -1787,6 +1789,7 @@ crescendo
 crescendobuilt
 cresendo
 crestron
+cricket
 crime
 critical
 crlf
@@ -2198,6 +2201,7 @@ discordrpc
 discount
 discover
 discovery
+discutils
 disk
 disk_to_disk
 disk-space
@@ -2212,7 +2216,6 @@ diskusage
 dism
 dismal
 display
-display_dialog
 displayresolution
 disposable
 dispose
@@ -2689,7 +2692,6 @@ evergreen
 everix
 evernote
 everydaypowershell
-everydayrewards
 everything
 evilprince2009
 evolutionary-algorithms
@@ -2759,7 +2761,6 @@ export-cmhealthreport
 export-data
 export-passlist
 exportcertificate
-exportcertificates
 exporter
 exportexcel
 exportteams
@@ -3046,6 +3047,8 @@ fractal
 frame
 framework
 france
+free
+free-ware
 freeipa
 freenas
 freesoftwarefoundation
@@ -3249,10 +3252,12 @@ gitlabpipeline
 gitops
 glimps
 glob
+global
 globalclipboard
 globaldashboard
 globalentry
 globallydistributeddatabase
+globalping
 globbing
 glp
 glpi
@@ -4001,10 +4006,7 @@ json
 json-converter
 json-ld
 json-transform
-json+
 json2ps
-jsonplus
-jsonwebencryption
 jsonwebkey
 jsonwebsignature
 jsonwebtoken
@@ -4023,7 +4025,6 @@ jurassic
 justenoughadministration
 justification
 jvm
-jwe
 jwk
 jws
 jwt
@@ -4373,8 +4374,10 @@ logonto
 logonuser
 logparser
 logrotate
+logrotation
 logs
 logstash
+logtools
 logz
 loki
 lol
@@ -4678,7 +4681,8 @@ microsoftsentinel
 microsoftstaffhub
 microsoftstore
 microsoftteams
-microsoftupdate
+microsoftteamsdevices
+microsoftteamsphone
 microsoftword
 middleware
 midserver
@@ -5156,6 +5160,7 @@ nvdimm
 nvdimm-n
 nvidia
 nvm
+nvm-window
 nxt
 nyse
 nzb
@@ -5173,6 +5178,8 @@ oauth
 oauth2
 oauth2.0
 oberstufe
+obfuscate
+obfuscation
 obj
 object
 objectid
@@ -5345,7 +5352,6 @@ orchestration
 orchestrator
 order
 organization
-organizationally
 orgnetwork
 oriflame
 origin
@@ -5442,7 +5448,6 @@ pager
 pagerduty
 pages
 pagination
-paging
 palo
 paloalto
 paloaltonetworks
@@ -5608,6 +5613,7 @@ pim
 pin
 ping
 ping-async
+pinging
 pingsweep
 pinneditem
 pinterest
@@ -5702,6 +5708,7 @@ pop3
 popd
 population
 popup
+popy
 port
 port-scanner
 port70
@@ -9052,7 +9059,6 @@ pure
 pure1
 pureservice
 purestorage
-purfew
 purple
 purview
 push
@@ -10351,7 +10357,6 @@ storage
 storageaccount
 storageaction
 storagecache
-storagediscovery
 storagegrid-webscale
 storagemover
 storagesync
@@ -10394,7 +10399,6 @@ sub-menu
 subatomix
 subdirectory
 subject
-subjectname
 sublimetext
 submission
 subnet
@@ -10592,6 +10596,10 @@ teamfoundationserver
 teams
 teamsdevices
 teamservices
+teamsphones
+teamsphonesoftwareupdate
+teamsphonessoftwareupdates
+teamsphoneupdatesoftware
 teamspolicy
 teamviewer
 techdirect
@@ -10640,6 +10648,7 @@ terrafun
 terragrunt
 tesla
 test
+test-automation
 test-dscconfiguration
 test-internetconnection
 test-modulemanifest
@@ -10684,7 +10693,6 @@ texting-emojis
 textprocessing
 textwrapping
 tfe
-tfenv
 tflint
 tfs
 tfscmdlets
@@ -10775,6 +10783,7 @@ tonoref
 tookit
 tool
 toolbox
+toolcraft
 toolkit
 toolmaking
 tools
@@ -11195,6 +11204,7 @@ vencord
 vendor
 vendorpam
 venue
+venv
 venvlink
 vera
 veracrypt
@@ -11264,6 +11274,7 @@ vlsc
 vlsm
 vm
 vmc
+vmconnect
 vmelamed5
 vmfs
 vmgroup
@@ -11462,6 +11473,7 @@ well-architectedreliabilityassessment
 well-known
 wem
 wemsdk
+wer
 wget
 what3words
 whatif
@@ -11646,8 +11658,6 @@ wol
 wolfram
 wolframalpha
 woocommerce
-woolworths
-woolworthsrewards
 word
 word-wrap
 wordcloud
@@ -11797,7 +11807,6 @@ yandex
 yandexdisk
 yapg
 yarn
-yaugeraio
 year
 yetanotherhelloworld
 yify
