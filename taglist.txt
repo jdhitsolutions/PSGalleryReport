@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Tuesday, 26 August 2025 09:52:33 UTC
+Updated: Tuesday, 26 August 2025 21:52:21 UTC
 
 .bat
 .env
@@ -105,7 +105,6 @@ account
 account-management
 accounting
 accounts
-ace
 ack
 acknowledge
 acl
@@ -421,7 +420,6 @@ apigateway
 apigee
 apigeeedge
 apimanagement
-apiplatform
 apis
 aplication
 apm
@@ -663,7 +661,6 @@ automaticpacketreportingsystem
 automation
 automation psmodule
 automationaccount
-automationanywhere
 automationportal
 automations
 automationutils
@@ -1671,7 +1668,6 @@ continuousintegration
 contrast
 control
 controller
-controlroom
 controlup
 conventional
 conventional-commits
@@ -1817,7 +1813,6 @@ cryptocompare
 cryptocurrency
 cryptography
 cs137
-csc
 csharp
 csharp-watch
 csom
@@ -2443,7 +2438,6 @@ dynamic
 dynamic-host-configuration-protocol
 dynamic-privileged-access
 dynamicdistributiongroups
-dynamicdistributionlist
 dynamicdnsoverhttps
 dynamicparam
 dynamicparameters
@@ -4134,7 +4128,6 @@ kubernetes
 kubernetesconfiguration
 kubernetesruntime
 kubesnapit
-kubespray
 kubetidy
 kudu
 kurukuru
@@ -4484,6 +4477,7 @@ manageddevices
 manageddisks
 managedidentities
 managedidentity
+managedkafka
 managednetworkfabric
 managedserviceidenity
 managedserviceidentity
@@ -4796,6 +4790,7 @@ monthlyupdate
 moodle
 moonshot
 more
+mos
 mosaic
 motd
 motivation
@@ -4912,6 +4907,7 @@ mva
 mvc
 mvn
 mvp
+mwsqlserver
 mx
 mxlookup
 mycloudrevolution
@@ -4932,6 +4928,7 @@ n-central
 nabu
 nac
 nagios
+nakivo
 name
 name-of-dogs
 namedpipe
@@ -5272,7 +5269,6 @@ onedriveforbusiness
 oneget
 oneidentity
 onelogin
-oneloginapi
 onenote
 onestools
 onesubscription
@@ -5725,6 +5721,7 @@ port
 port-scanner
 port70
 portal
+portchecker
 porthunter
 ports
 portscan
@@ -9528,7 +9525,6 @@ royaldocument
 royalserver
 royalts
 royaltsx
-rpa
 rpc
 rras
 rrd
@@ -9985,6 +9981,7 @@ silicondust
 silk
 silver_ticket
 sim
+simac
 simple
 simplecontainers
 simplepassword
@@ -10066,6 +10063,7 @@ smimepop
 smlets
 smo
 smorgasbord
+smp
 sms
 smtp
 smtpaddressupdate psmodule
@@ -10762,7 +10760,6 @@ timespan
 timestamp
 timezone
 tinkerpop
-tinymce
 tip
 tips
 titan
@@ -11497,6 +11494,7 @@ whatsupgold
 whd
 where
 whfb
+whisper
 whiteboard
 whitespace
 who
