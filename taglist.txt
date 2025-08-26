@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 25 August 2025 21:52:08 UTC
+Updated: Tuesday, 26 August 2025 09:52:33 UTC
 
 .bat
 .env
@@ -684,6 +684,7 @@ autowrapper
 autoyast
 auvik
 av1
+availability
 availabilityset
 avalara
 avatar
@@ -3846,6 +3847,7 @@ intranet
 intrusion
 intuitive
 intune
+intuneadminroles
 intuneappwinutil
 intunestuff
 intunewinapputil
@@ -4321,6 +4323,7 @@ localrepository
 localuser
 location
 locationbasedservices
+locations
 lock
 lockbox
 lockdisplaytimeout
@@ -4793,7 +4796,6 @@ monthlyupdate
 moodle
 moonshot
 more
-mos
 mosaic
 motd
 motivation
@@ -4910,7 +4912,6 @@ mva
 mvc
 mvn
 mvp
-mwsqlserver
 mx
 mxlookup
 mycloudrevolution
@@ -4931,7 +4932,6 @@ n-central
 nabu
 nac
 nagios
-nakivo
 name
 name-of-dogs
 namedpipe
@@ -5725,7 +5725,6 @@ port
 port-scanner
 port70
 portal
-portchecker
 porthunter
 ports
 portscan
@@ -9986,7 +9985,6 @@ silicondust
 silk
 silver_ticket
 sim
-simac
 simple
 simplecontainers
 simplepassword
@@ -10068,7 +10066,6 @@ smimepop
 smlets
 smo
 smorgasbord
-smp
 sms
 smtp
 smtpaddressupdate psmodule
@@ -11177,6 +11174,7 @@ value
 values
 valve
 vami
+vao
 variable
 variables
 variance
