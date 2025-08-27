@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Wednesday, 27 August 2025 09:52:16 UTC
+Updated: Wednesday, 27 August 2025 21:52:22 UTC
 
 .bat
 .env
@@ -220,6 +220,7 @@ administrativeuser
 administrator
 admintools
 adml
+admonition
 admpwd
 admx
 ado
@@ -275,18 +276,11 @@ agnoster
 ahk
 ai
 ai-server
-ai21
-ai21labs
 aianomalydetection
-aiapplications
-aiautomation
 aidocument
-aiintegration
 ailanguage
 aim
-aimodels
 aip
-aiprompting
 aipscanner
 aircall
 airpower
@@ -294,7 +288,6 @@ airpwr
 airtable
 ais
 aispeech
-aiutilities
 aivision
 ajustee
 aka.ms
@@ -350,7 +343,6 @@ amateurradio
 amazon
 amazonaws
 amazonmgn
-amazontitan
 amazonwebservices
 amend
 ami
@@ -414,6 +406,7 @@ api
 api-client
 api-gateway
 api-rest
+apiaccesscontrol
 apichecks
 apiclient
 apigateway
@@ -537,7 +530,6 @@ artifact
 artifactory
 artifacts
 artificial-intelligence
-artificialintelligence
 aruba
 as
 asa
@@ -550,6 +542,7 @@ ascii85
 asciiart
 asdatabase
 asigra
+asjob
 ask-gpt
 askgpt
 asm
@@ -709,7 +702,6 @@ aws-codebuild
 aws-lambda
 aws-vault
 aws.tools.powershell
-awsbedrock
 awscli
 awspricelist
 awx
@@ -913,7 +905,6 @@ beautifier
 beautify
 bec
 beckhoff
-bedrock
 beep
 beer
 behavior
@@ -1015,6 +1006,7 @@ boinc
 bold-text
 bolt
 bom
+book
 bookmark
 bookmarks
 books
@@ -1131,6 +1123,7 @@ calculate
 calculator
 calendar
 callingcode
+callout
 callqueue
 calvin-and-hobbes
 cam
@@ -1335,7 +1328,6 @@ classic
 classification
 classified
 claude
-claude3
 clccontrol
 clccontrolapiv1
 clccontrolapiv2
@@ -1392,7 +1384,6 @@ cloud-computing
 cloud-init
 cloud-iq
 cloud-security-configuration-review
-cloudai
 cloudant
 cloudbees
 cloudberry
@@ -1415,7 +1406,6 @@ cloudiq
 cloudkey
 cloudmarque
 cloudmigrations
-cloudml
 cloudpc
 cloudservice
 cloudshell
@@ -1522,7 +1512,6 @@ commandcoverage
 commandhistory
 commandlets
 commandline
-commandr
 commands
 commandsandresource
 commence
@@ -1673,8 +1662,6 @@ conventional-commits
 convereter
 converged_data_management
 conversational
-converse
-converseapi
 conversion
 conversiontool
 convert
@@ -2188,6 +2175,7 @@ dirsync
 disa
 disable
 disable-internet
+disable-psremoting
 disablefilesyncngsc
 disablestartbutton
 disablestartkey
@@ -2214,6 +2202,7 @@ diskusage
 dism
 dismal
 display
+display_dialog
 displayresolution
 disposable
 dispose
@@ -2436,7 +2425,6 @@ dynamic
 dynamic-host-configuration-protocol
 dynamic-privileged-access
 dynamicdistributiongroups
-dynamicdistributionlist
 dynamicdnsoverhttps
 dynamicparam
 dynamicparameters
@@ -2549,6 +2537,7 @@ emwarehouse
 enable
 enable-internet
 enable-psremoting
+enable-psremotingremote
 enbrea
 enclosure
 encode
@@ -2966,9 +2955,9 @@ flasharray
 flatfile
 flatten
 flaui
+flavor
 fleet
 fleetappsmanagement
-fleetdm
 fleetsoftwareupdate
 flex
 flex-query
@@ -2982,7 +2971,6 @@ flurl
 flyway
 fmg
 fmp
-fms
 focus
 fod
 fog
@@ -3015,7 +3003,6 @@ formatdata
 formatformat-tableformat-listformat-wideformat-customformat-defaultout-defaultout-fileout-hostout-printerout-string
 formatter
 formatting
-formdata
 forms
 fortiauth
 forticlient
@@ -3033,7 +3020,6 @@ forwardcompatibility
 forwardedevents
 forwarding
 foudil
-foundationmodels
 foundry
 fount
 fount-pwsh
@@ -3262,6 +3248,7 @@ glpi
 gmail
 gmap
 gmaps
+gmsa
 gnome
 gnucash
 gnuwin32
@@ -3378,7 +3365,6 @@ hacking
 hacktoberfest
 hadoop
 hafr
-haiku
 hailstone
 haipa
 halo
@@ -3772,7 +3758,6 @@ inlineimageprotocol
 inlineprogress
 innerjoin
 innertext
-inpainting
 input
 inputbox
 inputobject
@@ -3951,7 +3936,6 @@ ivdc
 iwi
 j
 j81-blog
-jamba
 japanese
 jar
 jav
@@ -4020,7 +4004,6 @@ junctions
 junit
 jupyter
 jupytor
-jurassic
 justenoughadministration
 justification
 jvm
@@ -4149,7 +4132,6 @@ labservices
 labsnippet
 labtech
 labtest
-labview
 labworker
 lake
 lambda
@@ -4159,10 +4141,8 @@ lametrictime
 landingzones
 language
 language-model
-languageai
 languagedsc
 languageexperiencepack
-languagemodels
 languagepack
 lansweeper
 laplace
@@ -4276,10 +4256,8 @@ literature
 live
 llama
 llama2
-llama3
 lldp
 llm
-llms
 lmhost
 lmhosts
 lms
@@ -4311,6 +4289,7 @@ localrepository
 localuser
 location
 locationbasedservices
+locations
 lock
 lockbox
 lockdisplaytimeout
@@ -4392,6 +4371,7 @@ loopback
 loremipsum
 love
 lovequotes
+lpsiamol
 ls
 lsa
 lsasecrets
@@ -4399,9 +4379,8 @@ lsd
 ltm
 lucd
 lucene
-luma
-lumaai
 lunar
+lunches
 lustrefilestorage
 lwa
 lxca
@@ -4424,7 +4403,6 @@ machine
 machine-learning
 machinelearning
 machinelearningcompute
-machinelearningmodels
 machinelearningservices
 macmon
 macos
@@ -4710,8 +4688,6 @@ mirror
 misc
 miscellaneous
 misp
-mistral
-mistralai
 mitigation
 mitre
 mitre_att&ck
@@ -4725,8 +4701,6 @@ mksapiviewer
 ml
 ml.net
 mlflow
-mlmodels
-mltools
 mmdc
 mngdmac
 mobile
@@ -4739,7 +4713,6 @@ model
 model-management
 modeldeployment
 modeling
-models
 modern
 modify
 module
@@ -4880,7 +4853,6 @@ multidimenstional
 multigeo
 multimedia
 multios
-multipart
 multipass
 multiple
 multiserver
@@ -4936,7 +4908,6 @@ nano
 nanoleaf
 nartac
 nasdaq
-nationalinstruments
 native
 natpool
 natural
@@ -5057,7 +5028,6 @@ ngen
 ngfw
 nginx
 nhl
-ni
 nic
 nic.ru
 nightmare
@@ -5066,7 +5036,6 @@ ninja
 ninjaone
 ninjarmm
 nios
-nipkg
 nist
 nitrox
 nixos
@@ -5083,7 +5052,6 @@ nntp
 node
 node.js
 nodejs
-nogit
 non-idiomatic
 non-volatile
 none
@@ -5261,6 +5229,7 @@ onedriveforbusiness
 oneget
 oneidentity
 onelogin
+oneloginapi
 onenote
 onestools
 onesubscription
@@ -5271,6 +5240,7 @@ online-backup
 onlinebackup
 onprem
 onpremisesdatagatewayhamgmt
+onq
 ons
 ontap
 ontap_9.16.1
@@ -5378,7 +5348,6 @@ osp
 ospgateway
 osprovision
 osprovisioning
-osquery
 osr
 oss
 ossec
@@ -5403,7 +5372,6 @@ outerjoin
 outertext
 outline
 outlook
-outpainting
 output
 output-to-image
 outreach
@@ -5867,7 +5835,6 @@ powershell-terminal-copilot
 powershell-training
 powershell.one
 powershell7
-powershellai
 powershellazuresql
 powershellconferenceeurope
 powershellcore
@@ -5878,7 +5845,6 @@ powershellget
 powershellgetformatversion_2.0
 powershellise
 powershelllogger
-powershellml
 powershellmodule
 powershellmoduleupdate
 powershellpr0mpt
@@ -5981,6 +5947,7 @@ profilemanagement
 profilemigration
 profiler
 profiles
+profileupdater
 profilevalidation
 proget
 program
@@ -9085,7 +9052,6 @@ pyenv
 pygmentize
 pykick
 pylint
-pyranja
 python
 python-for-dotnet
 python3
@@ -10119,7 +10085,6 @@ songs
 sonicos
 sonicwall
 sonicwallvpn
-sonnet
 sonus
 soon
 soonr
@@ -10147,7 +10112,6 @@ spam
 spamtitan
 spanner
 spark
-sparkline
 sparklines
 spawn
 spdockit
@@ -10214,6 +10178,7 @@ sqlagent
 sqlautomation
 sqlbits
 sqlbrowser
+sqlbulkcopy
 sqlchangeautomation
 sqlclient
 sqlcmd
@@ -10279,7 +10244,6 @@ sspr
 ssrs
 ssst
 sstp
-stabilityai
 stache
 stackexchange
 stackhci
@@ -10655,6 +10619,7 @@ test-internetconnection
 test-modulemanifest
 test-modulepath
 test-osplatform
+test-psremoting
 test-samcmapplicationexists
 test-samcmpackageexists
 test-userisadministrator
@@ -10672,6 +10637,7 @@ tests
 testsuite
 testtag1
 testtag2
+testtool
 testusers
 text
 text_to_speech
@@ -10684,8 +10650,6 @@ text-to-speach"
 text-to-speech
 text2image
 textanalysis
-textbuffer
-textgeneration
 texting
 texting-emoji
 texting-emojis
@@ -10752,7 +10716,6 @@ tinkerpop
 tinymce
 tip
 tips
-titan
 titanhq
 title
 tld
@@ -11225,7 +11188,6 @@ vhdx
 vi
 vib
 video
-videogeneration
 videos
 vie
 viewer
@@ -11327,6 +11289,7 @@ vplex
 vpn
 vpn-certificate
 vpro
+vps
 vra
 vrchat
 vrealize
