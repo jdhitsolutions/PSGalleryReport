@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Tuesday, 26 August 2025 21:52:21 UTC
+Updated: Wednesday, 27 August 2025 09:52:16 UTC
 
 .bat
 .env
@@ -84,6 +84,7 @@ abc_testing
 abe
 about
 abr
+abstraction
 abstractsyntaxtree
 abuse
 abuseipdb
@@ -105,6 +106,7 @@ account
 account-management
 accounting
 accounts
+ace
 ack
 acknowledge
 acl
@@ -218,7 +220,6 @@ administrativeuser
 administrator
 admintools
 adml
-admonition
 admpwd
 admx
 ado
@@ -413,13 +414,13 @@ api
 api-client
 api-gateway
 api-rest
-apiaccesscontrol
 apichecks
 apiclient
 apigateway
 apigee
 apigeeedge
 apimanagement
+apiplatform
 apis
 aplication
 apm
@@ -549,7 +550,6 @@ ascii85
 asciiart
 asdatabase
 asigra
-asjob
 ask-gpt
 askgpt
 asm
@@ -661,6 +661,7 @@ automaticpacketreportingsystem
 automation
 automation psmodule
 automationaccount
+automationanywhere
 automationportal
 automations
 automationutils
@@ -922,7 +923,6 @@ benchmarking
 benchmarks
 benchpress
 ber
-best-practices
 bestpractice
 bestpractices
 bginfo
@@ -1015,7 +1015,6 @@ boinc
 bold-text
 bolt
 bom
-book
 bookmark
 bookmarks
 books
@@ -1132,7 +1131,6 @@ calculate
 calculator
 calendar
 callingcode
-callout
 callqueue
 calvin-and-hobbes
 cam
@@ -1668,6 +1666,7 @@ continuousintegration
 contrast
 control
 controller
+controlroom
 controlup
 conventional
 conventional-commits
@@ -1813,6 +1812,7 @@ cryptocompare
 cryptocurrency
 cryptography
 cs137
+csc
 csharp
 csharp-watch
 csom
@@ -2188,7 +2188,6 @@ dirsync
 disa
 disable
 disable-internet
-disable-psremoting
 disablefilesyncngsc
 disablestartbutton
 disablestartkey
@@ -2215,7 +2214,6 @@ diskusage
 dism
 dismal
 display
-display_dialog
 displayresolution
 disposable
 dispose
@@ -2438,6 +2436,7 @@ dynamic
 dynamic-host-configuration-protocol
 dynamic-privileged-access
 dynamicdistributiongroups
+dynamicdistributionlist
 dynamicdnsoverhttps
 dynamicparam
 dynamicparameters
@@ -2550,7 +2549,6 @@ emwarehouse
 enable
 enable-internet
 enable-psremoting
-enable-psremotingremote
 enbrea
 enclosure
 encode
@@ -2968,7 +2966,6 @@ flasharray
 flatfile
 flatten
 flaui
-flavor
 fleet
 fleetappsmanagement
 fleetdm
@@ -3265,7 +3262,6 @@ glpi
 gmail
 gmap
 gmaps
-gmsa
 gnome
 gnucash
 gnuwin32
@@ -3445,7 +3441,6 @@ headhunter
 health
 health_checks
 health-check
-health-checks
 healthbot
 healthcare
 healthcareapis
@@ -4118,7 +4113,6 @@ krick
 kschemaplugin
 kubclt
 kube
-kube-buddy
 kubeconfig
 kubectl
 kubectx
@@ -4128,6 +4122,7 @@ kubernetes
 kubernetesconfiguration
 kubernetesruntime
 kubesnapit
+kubespray
 kubetidy
 kudu
 kurukuru
@@ -4316,7 +4311,6 @@ localrepository
 localuser
 location
 locationbasedservices
-locations
 lock
 lockbox
 lockdisplaytimeout
@@ -4398,7 +4392,6 @@ loopback
 loremipsum
 love
 lovequotes
-lpsiamol
 ls
 lsa
 lsasecrets
@@ -4409,7 +4402,6 @@ lucene
 luma
 lumaai
 lunar
-lunches
 lustrefilestorage
 lwa
 lxca
@@ -5279,7 +5271,6 @@ online-backup
 onlinebackup
 onprem
 onpremisesdatagatewayhamgmt
-onq
 ons
 ontap
 ontap_9.16.1
@@ -5990,7 +5981,6 @@ profilemanagement
 profilemigration
 profiler
 profiles
-profileupdater
 profilevalidation
 proget
 program
@@ -9525,6 +9515,7 @@ royaldocument
 royalserver
 royalts
 royaltsx
+rpa
 rpc
 rras
 rrd
@@ -9640,6 +9631,7 @@ sccmpackage
 sccmprereqs
 scep
 scepman
+scf
 sch
 schannel
 schannelpolicydsc
@@ -10222,7 +10214,6 @@ sqlagent
 sqlautomation
 sqlbits
 sqlbrowser
-sqlbulkcopy
 sqlchangeautomation
 sqlclient
 sqlcmd
@@ -10664,7 +10655,6 @@ test-internetconnection
 test-modulemanifest
 test-modulepath
 test-osplatform
-test-psremoting
 test-samcmapplicationexists
 test-samcmpackageexists
 test-userisadministrator
@@ -10682,7 +10672,6 @@ tests
 testsuite
 testtag1
 testtag2
-testtool
 testusers
 text
 text_to_speech
@@ -10760,6 +10749,7 @@ timespan
 timestamp
 timezone
 tinkerpop
+tinymce
 tip
 tips
 titan
@@ -11337,7 +11327,6 @@ vplex
 vpn
 vpn-certificate
 vpro
-vps
 vra
 vrchat
 vrealize
