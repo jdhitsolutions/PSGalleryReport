@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Thursday, 28 August 2025 21:52:15 UTC
+Updated: Friday, 29 August 2025 09:52:07 UTC
 
 .bat
 .env
@@ -276,11 +276,18 @@ agnoster
 ahk
 ai
 ai-server
+ai21
+ai21labs
 aianomalydetection
+aiapplications
+aiautomation
 aidocument
+aiintegration
 ailanguage
 aim
+aimodels
 aip
+aiprompting
 aipscanner
 aircall
 airpower
@@ -288,6 +295,7 @@ airpwr
 airtable
 ais
 aispeech
+aiutilities
 aivision
 ajustee
 aka.ms
@@ -343,6 +351,7 @@ amateurradio
 amazon
 amazonaws
 amazonmgn
+amazontitan
 amazonwebservices
 amend
 ami
@@ -530,6 +539,7 @@ artifact
 artifactory
 artifacts
 artificial-intelligence
+artificialintelligence
 aruba
 as
 asa
@@ -655,7 +665,6 @@ automation
 automation psmodule
 automationaccount
 automationanywhere
-automationportal
 automations
 automationutils
 autonomoussystem
@@ -702,6 +711,7 @@ aws-codebuild
 aws-lambda
 aws-vault
 aws.tools.powershell
+awsbedrock
 awscli
 awspricelist
 awx
@@ -905,6 +915,7 @@ beautifier
 beautify
 bec
 beckhoff
+bedrock
 beep
 beer
 behavior
@@ -1329,6 +1340,7 @@ classic
 classification
 classified
 claude
+claude3
 clccontrol
 clccontrolapiv1
 clccontrolapiv2
@@ -1385,6 +1397,7 @@ cloud-computing
 cloud-init
 cloud-iq
 cloud-security-configuration-review
+cloudai
 cloudant
 cloudbees
 cloudberry
@@ -1407,6 +1420,7 @@ cloudiq
 cloudkey
 cloudmarque
 cloudmigrations
+cloudml
 cloudpc
 cloudservice
 cloudshell
@@ -1510,8 +1524,10 @@ command_line
 command-line-interface
 command-validation
 commandcoverage
+commandhistory
 commandlets
 commandline
+commandr
 commands
 commandsandresource
 commence
@@ -1662,6 +1678,8 @@ conventional-commits
 convereter
 converged_data_management
 conversational
+converse
+converseapi
 conversion
 conversiontool
 convert
@@ -1671,6 +1689,9 @@ convert-sid
 convert-windowsimage
 converter
 convertfrom
+convertfrom-json
+convertfrom-jsonashashtable
+convertfrom-jsontohashtable
 convertfrom-string
 convertfrom-stringtable
 convertfrom-table
@@ -1830,7 +1851,6 @@ currency-convereter
 currency-exchange
 currencyconverterapi
 current
-curseforge
 custom
 customchecks
 customdns
@@ -1885,7 +1905,6 @@ dacpac
 dacpackage
 dagger
 dailen
-daily
 dalle3
 dane
 dangling
@@ -2729,7 +2748,6 @@ expand
 expand-string
 expand-tab
 expandframework
-expect
 experience
 experiments
 expiration
@@ -2745,6 +2763,7 @@ export
 export-cmhealthreport
 export-data
 export-passlist
+exportcertificate
 exportcertificates
 exporter
 exportexcel
@@ -2969,6 +2988,7 @@ flurl
 flyway
 fmg
 fmp
+fms
 focus
 fod
 fog
@@ -3019,6 +3039,7 @@ forwardcompatibility
 forwardedevents
 forwarding
 foudil
+foundationmodels
 foundry
 fount
 fount-pwsh
@@ -3364,6 +3385,7 @@ hacking
 hacktoberfest
 hadoop
 hafr
+haiku
 hailstone
 haipa
 halo
@@ -3753,12 +3775,14 @@ ini
 inifile
 initialization
 initials-avatar
+initiative
 initiator
 inline-progress
 inlineimageprotocol
 inlineprogress
 innerjoin
 innertext
+inpainting
 input
 inputbox
 inputobject
@@ -3938,6 +3962,7 @@ ivdc
 iwi
 j
 j81-blog
+jamba
 japanese
 jar
 jav
@@ -3949,6 +3974,7 @@ jboss
 jdbc
 jde
 jdedwards
+jdk
 jdt
 jea
 jea_module
@@ -4005,6 +4031,7 @@ junctions
 junit
 jupyter
 jupytor
+jurassic
 justenoughadministration
 justification
 jvm
@@ -4144,8 +4171,10 @@ lametrictime
 landingzones
 language
 language-model
+languageai
 languagedsc
 languageexperiencepack
+languagemodels
 languagepack
 lansweeper
 laplace
@@ -4259,8 +4288,10 @@ literature
 live
 llama
 llama2
+llama3
 lldp
 llm
+llms
 lmhost
 lmhosts
 lms
@@ -4344,6 +4375,7 @@ logitech
 logmail
 logmails
 logman
+logo
 logoff
 logon
 logonright
@@ -4381,6 +4413,8 @@ lsd
 ltm
 lucd
 lucene
+luma
+lumaai
 lunar
 lunches
 lustrefilestorage
@@ -4405,6 +4439,7 @@ machine
 machine-learning
 machinelearning
 machinelearningcompute
+machinelearningmodels
 machinelearningservices
 macmon
 macos
@@ -4690,6 +4725,8 @@ mirror
 misc
 miscellaneous
 misp
+mistral
+mistralai
 mitigation
 mitre
 mitre_att&ck
@@ -4703,6 +4740,8 @@ mksapiviewer
 ml
 ml.net
 mlflow
+mlmodels
+mltools
 mmdc
 mngdmac
 mobile
@@ -4715,6 +4754,7 @@ model
 model-management
 modeldeployment
 modeling
+models
 modern
 modify
 module
@@ -4765,6 +4805,7 @@ motivationalquotes
 mount
 mouse
 move
+movie
 movies
 mozilla
 mp3
@@ -5246,6 +5287,7 @@ online-backup
 onlinebackup
 onprem
 onpremisesdatagatewayhamgmt
+onq
 ons
 ontap
 ontap_9.16.1
@@ -5378,6 +5420,7 @@ outerjoin
 outertext
 outline
 outlook
+outpainting
 output
 output-to-image
 outreach
@@ -5841,6 +5884,7 @@ powershell-terminal-copilot
 powershell-training
 powershell.one
 powershell7
+powershellai
 powershellazuresql
 powershellconferenceeurope
 powershellcore
@@ -5851,6 +5895,7 @@ powershellget
 powershellgetformatversion_2.0
 powershellise
 powershelllogger
+powershellml
 powershellmodule
 powershellmoduleupdate
 powershellpr0mpt
@@ -5953,7 +5998,6 @@ profilemanagement
 profilemigration
 profiler
 profiles
-profileupdater
 profilevalidation
 proget
 program
@@ -9179,6 +9223,7 @@ rdpsession
 rdpsign
 rds
 rdsgw
+react
 react-stockcharts
 read
 read-slog
@@ -9293,6 +9338,7 @@ remote-desktop
 remote'
 remoteaccess
 remoteadmin
+remotecert
 remoteconnection
 remoteconnectionsmanager
 remotecontrol
@@ -9346,6 +9392,7 @@ reportingservicepoint
 reportingservices
 reportportal
 reportportal.io
+reportrunner
 reports
 reportserver
 repos
@@ -9434,6 +9481,7 @@ rightcloud
 rightjoin
 rights
 rightsizing
+rightsmanagement
 ring
 ripe
 risk
@@ -10088,6 +10136,7 @@ songs
 sonicos
 sonicwall
 sonicwallvpn
+sonnet
 sonus
 soon
 soonr
@@ -10117,7 +10166,6 @@ spanner
 spark
 sparkline
 sparklines
-spawn
 spdockit
 spdx
 spdx-license-identifier:ms-pl
@@ -10248,6 +10296,7 @@ sspr
 ssrs
 ssst
 sstp
+stabilityai
 stache
 stackexchange
 stackhci
@@ -10416,9 +10465,11 @@ surveymonkey
 sus
 sushi
 suspensive
+svelte
 svesavov
 svetoslav
 svg
+svgl
 svn
 svt
 swagger
@@ -10653,6 +10704,7 @@ text-to-speech
 text2image
 textanalysis
 textbuffer
+textgeneration
 texting
 texting-emoji
 texting-emojis
@@ -10719,10 +10771,13 @@ tinkerpop
 tinymce
 tip
 tips
+titan
 titanhq
 title
 tld
 tls
+tls11
+tls12
 tlsa
 tlsprotocol
 tlsrpt
@@ -11189,6 +11244,7 @@ vhdx
 vi
 vib
 video
+videogeneration
 videos
 vie
 viewer
@@ -11298,6 +11354,7 @@ vrising
 vro
 vrops
 vrsns
+vrtu
 vs
 vs-shell
 vsa
@@ -11323,6 +11380,7 @@ vstest
 vsts
 vsts-cli
 vtt
+vue
 vulnerabilities
 vulnerability
 vulnerabilityassessment
@@ -11553,6 +11611,7 @@ windowsinternals
 windowsiotservices
 windowsiso
 windowsmanagement
+windowsmanagementframework
 windowspackagemanager
 windowsplugins
 windowspowershell
@@ -11610,6 +11669,7 @@ wizard
 wkhtmltopdf
 wlan
 wlms
+wmf
 wmf5
 wmi
 wmifilter
@@ -11746,6 +11806,7 @@ xmlutils
 xoauth2
 xor
 xpath
+xpendingreboot
 xpertdoc
 xpo
 xprotect
@@ -11759,6 +11820,7 @@ xtrude
 xunit
 xurrent
 xwiki
+xwindowsupdate
 xwith
 yahoo
 yahw
@@ -11771,6 +11833,7 @@ yarn
 yaugeraio
 year
 yetanotherhelloworld
+yify
 yml
 ynab
 yokohama
@@ -11779,6 +11842,7 @@ youtube-dl
 youtube-transcript
 youtubeextractor
 yq
+yts
 yubaba
 yubikey
 yum
