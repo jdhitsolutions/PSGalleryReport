@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Sunday, 31 August 2025 21:53:45 UTC
+Updated: Monday, 01 September 2025 09:52:34 UTC
 
 .bat
 .env
@@ -276,11 +276,18 @@ agnoster
 ahk
 ai
 ai-server
+ai21
+ai21labs
 aianomalydetection
+aiapplications
+aiautomation
 aidocument
+aiintegration
 ailanguage
 aim
+aimodels
 aip
+aiprompting
 aipscanner
 aircall
 airpower
@@ -288,6 +295,7 @@ airpwr
 airtable
 ais
 aispeech
+aiutilities
 aivision
 ajustee
 aka.ms
@@ -343,6 +351,7 @@ amateurradio
 amazon
 amazonaws
 amazonmgn
+amazontitan
 amazonwebservices
 amend
 ami
@@ -530,6 +539,7 @@ artifact
 artifactory
 artifacts
 artificial-intelligence
+artificialintelligence
 aruba
 as
 asa
@@ -702,6 +712,7 @@ aws-codebuild
 aws-lambda
 aws-vault
 aws.tools.powershell
+awsbedrock
 awscli
 awspricelist
 awx
@@ -856,7 +867,6 @@ bank
 banking
 banner
 bar
-baramundi
 barcodes
 baremetal
 base
@@ -892,7 +902,6 @@ bc365
 bcd
 bcdedit
 bcdr
-bconnect
 bd
 bdd
 bds
@@ -905,6 +914,7 @@ beautifier
 beautify
 bec
 beckhoff
+bedrock
 beep
 beer
 behavior
@@ -998,7 +1008,6 @@ blueteam
 bluetraitio
 bluetuxedo
 bmc
-bms
 bnm
 boards
 bofh
@@ -1074,6 +1083,7 @@ bugzilla
 build
 build-log
 build-scripts
+build-test-publish
 buildautomation
 builddefinition
 builder
@@ -1327,6 +1337,7 @@ classic
 classification
 classified
 claude
+claude3
 clccontrol
 clccontrolapiv1
 clccontrolapiv2
@@ -1383,6 +1394,7 @@ cloud-computing
 cloud-init
 cloud-iq
 cloud-security-configuration-review
+cloudai
 cloudant
 cloudbees
 cloudberry
@@ -1405,6 +1417,7 @@ cloudiq
 cloudkey
 cloudmarque
 cloudmigrations
+cloudml
 cloudpc
 cloudservice
 cloudshell
@@ -1445,6 +1458,7 @@ code
 code-completion
 code-page
 code365
+codeagent
 codeanalysis
 codebeamer
 codebuild
@@ -1503,13 +1517,13 @@ comic
 comical
 comics
 command
-command_line
 command-line-interface
 command-validation
 commandcoverage
 commandhistory
 commandlets
 commandline
+commandr
 commands
 commandsandresource
 commence
@@ -1660,6 +1674,8 @@ conventional-commits
 convereter
 converged_data_management
 conversational
+converse
+converseapi
 conversion
 conversiontool
 convert
@@ -1684,6 +1700,7 @@ converttodocx
 converttohtml
 converttomarkdown
 converttomd
+conway
 cookie
 coolq
 cooltag1
@@ -2402,6 +2419,7 @@ dumpify
 dumping
 dumps
 duo
+duosecurity
 dupes
 duplicate
 duplicate-files
@@ -2970,6 +2988,7 @@ flurl
 flyway
 fmg
 fmp
+fms
 focus
 fod
 fog
@@ -3020,6 +3039,7 @@ forwardcompatibility
 forwardedevents
 forwarding
 foudil
+foundationmodels
 foundry
 fount
 fount-pwsh
@@ -3092,6 +3112,7 @@ gainz-sqldb
 gal
 gallery
 game
+game-of-life
 gamecategory:cards
 games
 gameserver
@@ -3364,6 +3385,7 @@ hacking
 hacktoberfest
 hadoop
 hafr
+haiku
 hailstone
 haipa
 halo
@@ -3414,6 +3436,7 @@ hbase
 hci
 hcl
 hcm
+hcp
 hcx
 hdfs
 hdhomerun
@@ -3504,6 +3527,7 @@ hklm
 hl7
 hlds
 hls
+hmac
 hockey
 hol
 holiday
@@ -3758,6 +3782,7 @@ inlineimageprotocol
 inlineprogress
 innerjoin
 innertext
+inpainting
 input
 inputbox
 inputobject
@@ -3805,6 +3830,7 @@ intellisearch
 intellisense
 interactive
 interactive-brokers
+interchange
 interface
 interlogix
 internal
@@ -3937,6 +3963,7 @@ ivdc
 iwi
 j
 j81-blog
+jamba
 japanese
 jar
 jav
@@ -4005,6 +4032,7 @@ junctions
 junit
 jupyter
 jupytor
+jurassic
 justenoughadministration
 justification
 jvm
@@ -4143,8 +4171,10 @@ lametrictime
 landingzones
 language
 language-model
+languageai
 languagedsc
 languageexperiencepack
+languagemodels
 languagepack
 lansweeper
 laplace
@@ -4258,8 +4288,10 @@ literature
 live
 llama
 llama2
+llama3
 lldp
 llm
+llms
 lmhost
 lmhosts
 lms
@@ -4381,6 +4413,8 @@ lsd
 ltm
 lucd
 lucene
+luma
+lumaai
 lunar
 lunches
 lustrefilestorage
@@ -4405,6 +4439,7 @@ machine
 machine-learning
 machinelearning
 machinelearningcompute
+machinelearningmodels
 machinelearningservices
 macmon
 macos
@@ -4691,6 +4726,8 @@ mirror
 misc
 miscellaneous
 misp
+mistral
+mistralai
 mitigation
 mitre
 mitre_att&ck
@@ -4704,6 +4741,8 @@ mksapiviewer
 ml
 ml.net
 mlflow
+mlmodels
+mltools
 mmdc
 mngdmac
 mobile
@@ -4716,10 +4755,16 @@ model
 model-management
 modeldeployment
 modeling
+models
 modern
 modify
 module
 module-maintenance
+module-manifest
+module-publishing
+module-publishing-framework
+module-testing
+module-testing-framework
 modulebuild
 modulecreation
 modulefast
@@ -4888,6 +4933,7 @@ mysql-database
 mytest
 n-able
 n-central
+nabu
 nac
 nagios
 nakivo
@@ -5000,6 +5046,7 @@ new-dynamicparameter
 new-githubrelease
 new-item
 new-itemproperty
+new-modulemanifest
 new-pinneditem
 new-rdpsession
 new-samcmapplicationfrompackagedefinitionsms
@@ -5375,6 +5422,7 @@ outerjoin
 outertext
 outline
 outlook
+outpainting
 output
 output-to-image
 outreach
@@ -5589,6 +5637,7 @@ pinneditem
 pinterest
 pinvoke
 pip
+pip3
 pipe
 pipedrive
 pipeline
@@ -5749,6 +5798,7 @@ poshy-wrap-maven
 poshy-wrap-nginx
 poshy-wrap-nmap
 poshy-wrap-npm
+poshy-wrap-pip
 poshy-wrap-pipenv
 poshy-wrap-pyenv
 poshy-wrap-pylint
@@ -5827,6 +5877,8 @@ powershell-isprime
 powershell-lightning
 powershell-module
 powershell-modules
+powershell-modules-convention
+powershell-project-convention
 powershell-releases-api
 powershell-remoting
 powershell-terminal
@@ -5834,6 +5886,7 @@ powershell-terminal-copilot
 powershell-training
 powershell.one
 powershell7
+powershellai
 powershellazuresql
 powershellconferenceeurope
 powershellcore
@@ -5844,6 +5897,7 @@ powershellget
 powershellgetformatversion_2.0
 powershellise
 powershelllogger
+powershellml
 powershellmodule
 powershellmoduleupdate
 powershellpr0mpt
@@ -6880,6 +6934,7 @@ pscommand_invoke-gotoolfix
 pscommand_invoke-goversion
 pscommand_invoke-govet
 pscommand_invoke-gowork
+pscommand_invoke-greppipfreeze
 pscommand_invoke-helm
 pscommand_invoke-helminstall
 pscommand_invoke-helmsearch
@@ -7039,6 +7094,10 @@ pscommand_invoke-pipenvuninstall
 pscommand_invoke-pipenvupdate
 pscommand_invoke-pipenvvenv
 pscommand_invoke-pipenvwhere
+pscommand_invoke-pipinstall
+pscommand_invoke-pipinstallupgrade
+pscommand_invoke-piplistoutdated
+pscommand_invoke-pipuninstall
 pscommand_invoke-pyenv
 pscommand_invoke-pylintreportsdisabled
 pscommand_invoke-ruby
@@ -7489,6 +7548,22 @@ pscommand_pgr
 pscommand_pi
 pscommand_pidev
 pscommand_ping
+pscommand_pip
+pscommand_pip_package_location
+pscommand_pip3
+pscommand_pip3_package_location
+pscommand_pipgi
+pscommand_pipi
+pscommand_pipig
+pscommand_pipigb
+pscommand_pipigp
+pscommand_pipir
+pscommand_piplo
+pscommand_pipreq
+pscommand_pipu
+pscommand_pipun
+pscommand_pipunall
+pscommand_pipupall
 pscommand_pl
 pscommand_po
 pscommand_pop-gitstashentry
@@ -7600,6 +7675,10 @@ pscommand_stop-gitcherrypick
 pscommand_switch-gitbranchandtrack
 pscommand_switch-gitbranchmain
 pscommand_switch-gitbranchnew
+pscommand_syspip
+pscommand_syspip_package_location
+pscommand_syspip3
+pscommand_syspip3_package_location
 pscommand_ta
 pscommand_tad
 pscommand_test-command
@@ -7790,7 +7869,6 @@ pscommand_zwp
 pscommander
 psconfasia
 psconfeu
-psconfig
 pscore
 pscredential
 pscribo
@@ -7801,6 +7879,7 @@ psdb
 psdefaultparametervalues
 psdeploy
 psdesiredstateconfiguration
+psdevops
 psdocs
 psdocs-documents
 psdocsgenerator
@@ -8269,6 +8348,7 @@ psfunction_invoke-gotoolfix
 psfunction_invoke-goversion
 psfunction_invoke-govet
 psfunction_invoke-gowork
+psfunction_invoke-greppipfreeze
 psfunction_invoke-helm
 psfunction_invoke-helminstall
 psfunction_invoke-helmsearch
@@ -8428,6 +8508,10 @@ psfunction_invoke-pipenvuninstall
 psfunction_invoke-pipenvupdate
 psfunction_invoke-pipenvvenv
 psfunction_invoke-pipenvwhere
+psfunction_invoke-pipinstall
+psfunction_invoke-pipinstallupgrade
+psfunction_invoke-piplistoutdated
+psfunction_invoke-pipuninstall
 psfunction_invoke-pyenv
 psfunction_invoke-pylintreportsdisabled
 psfunction_invoke-ruby
@@ -8708,6 +8792,13 @@ psfunction_npm-enable-proxy
 psfunction_npm-show-proxy
 psfunction_open_command
 psfunction_peek
+psfunction_pipig
+psfunction_pipigb
+psfunction_pipigp
+psfunction_pipir
+psfunction_pipreq
+psfunction_pipunall
+psfunction_pipupall
 psfunction_pop-gitstashentry
 psfunction_proxy-help
 psfunction_publish-gitcommitsforcefullywithlease
@@ -8965,6 +9056,7 @@ publicfolder
 publicholidays
 publicip
 publish
+publish-module
 publishedmodules
 publisher
 publishers
@@ -9356,6 +9448,7 @@ results
 resume
 retail
 retention
+retro
 retry
 returnuserprofile
 retype
@@ -9609,6 +9702,7 @@ screenscraping
 screenshot
 script
 script_version
+script-module
 script-to-assembly
 script-to-executable
 scriptanalyzer
@@ -9845,9 +9939,7 @@ shared
 sharefile
 sharepoint
 sharepoint_online
-sharepoint-on-prem
 sharepoint-online
-sharepoint-product-configuration-wizard
 sharepointdevelopmentcommunity
 sharepointonline
 sharepointpnp
@@ -10044,6 +10136,7 @@ songs
 sonicos
 sonicwall
 sonicwallvpn
+sonnet
 sonus
 soon
 soonr
@@ -10069,7 +10162,6 @@ spaces
 spacex
 spam
 spamtitan
-spanner
 spark
 sparkline
 sparklines
@@ -10204,6 +10296,7 @@ sspr
 ssrs
 ssst
 sstp
+stabilityai
 stache
 stackexchange
 stackhci
@@ -10422,6 +10515,8 @@ sysman
 sysmon
 sysop
 syspass
+syspip
+syspip3
 sysprep
 system
 system information 1394 controller baseboard motherboard systemboard battery bios bus cache memory cd dvd rom drive compact disc desktop monitor disk partition fan floppy glide point heatpipe ide infrared device keyboard local logical array mouse'
@@ -10573,6 +10668,7 @@ test
 test-automation
 test-dscconfiguration
 test-internetconnection
+test-modulemanifest
 test-modulepath
 test-osplatform
 test-psremoting
@@ -10607,6 +10703,7 @@ text-to-speech
 text2image
 textanalysis
 textbuffer
+textgeneration
 texting
 texting-emoji
 texting-emojis
@@ -10673,6 +10770,7 @@ tinkerpop
 tinymce
 tip
 tips
+titan
 titanhq
 title
 tld
@@ -10981,6 +11079,7 @@ unzip
 up
 update
 update-module
+update-modulemanifest
 update-moduletests
 update-typedata
 updatedeferral
@@ -11144,6 +11243,7 @@ vi
 vib
 video
 video-editing
+videogeneration
 videos
 vie
 viewer
@@ -11193,6 +11293,7 @@ vlsc
 vlsm
 vm
 vmc
+vmconnect
 vmelamed5
 vmfs
 vmgroup
@@ -11298,6 +11399,7 @@ wait4x
 waitforobject
 wakeonlan
 wakeup
+walk
 wallet
 wallpaper
 wallpapers
@@ -11316,6 +11418,7 @@ warrenty
 wasabi
 watch
 watchdog
+watchguard
 watchmen
 watery
 wave
