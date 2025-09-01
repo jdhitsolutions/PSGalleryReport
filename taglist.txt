@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 01 September 2025 09:52:34 UTC
+Updated: Monday, 01 September 2025 21:52:17 UTC
 
 .bat
 .env
@@ -106,7 +106,6 @@ account
 account-management
 accounting
 accounts
-ace
 ack
 acknowledge
 acl
@@ -338,7 +337,6 @@ alphafs
 alpine
 alt3
 alter
-alteryx
 alto
 alwaysontop
 alwaysonvpn
@@ -722,7 +720,6 @@ axcient_x360recover
 axinom
 axis
 axium
-ayx
 az
 az-cli
 az.runtimeenvironment
@@ -924,7 +921,6 @@ benchmarking
 benchmarks
 benchpress
 ber
-best-practices
 bestpractice
 bestpractices
 bginfo
@@ -1236,6 +1232,7 @@ certificateservices
 certificatesmanagement
 certinia
 certutil
+cf
 cfn
 ch9
 change
@@ -1517,6 +1514,7 @@ comic
 comical
 comics
 command
+command_line
 command-line-interface
 command-validation
 commandcoverage
@@ -2138,7 +2136,6 @@ devsecops
 devtestlabs
 dfch
 dfir
-dfplayermini
 dfs
 dfw
 dg
@@ -2192,6 +2189,8 @@ disable
 disable-internet
 disable-psremoting
 disablefilesyncngsc
+disablestartbutton
+disablestartkey
 disasm
 disasterrecovery
 disconnect
@@ -2236,7 +2235,6 @@ dividends
 diving
 division
 divoom
-diy
 dkim
 dkimcheck
 dkschrutebeets
@@ -2313,7 +2311,6 @@ domainname
 domainnamesystem
 domains
 domino
-done.land
 donothing
 dos
 dot
@@ -2674,7 +2671,6 @@ event-timeline
 eventchannel
 eventchannels
 eventcollector
-eventful
 eventgrid
 eventhub
 eventing
@@ -2825,7 +2821,6 @@ fastlinq
 fastlookup
 fastping
 fasttrack
-fat32
 favorite
 favorites
 favouritedirectory
@@ -3448,7 +3443,6 @@ headhunter
 health
 health_checks
 health-check
-health-checks
 healthbot
 healthcare
 healthcareapis
@@ -3526,7 +3520,6 @@ hkey_users
 hklm
 hl7
 hlds
-hls
 hmac
 hockey
 hol
@@ -4079,6 +4072,7 @@ key2wocas
 keybase
 keybinding
 keyboard
+keyboardstartkey
 keycipher
 keycloak
 keycontrol
@@ -4124,7 +4118,6 @@ krick
 kschemaplugin
 kubclt
 kube
-kube-buddy
 kubeconfig
 kubectl
 kubectx
@@ -4812,7 +4805,6 @@ mozilla
 mp3
 mp4
 mpc
-mpeg
 mpn
 mrfk
 mrfylke
@@ -5940,7 +5932,6 @@ preprocessing
 preprocessor
 prerequisites
 presentation
-presentationframework
 presenter
 presto
 preston-k-parsard
@@ -7869,6 +7860,7 @@ pscommand_zwp
 pscommander
 psconfasia
 psconfeu
+psconfig
 pscore
 pscredential
 pscribo
@@ -9939,7 +9931,9 @@ shared
 sharefile
 sharepoint
 sharepoint_online
+sharepoint-on-prem
 sharepoint-online
+sharepoint-product-configuration-wizard
 sharepointdevelopmentcommunity
 sharepointonline
 sharepointpnp
@@ -10162,6 +10156,7 @@ spaces
 spacex
 spam
 spamtitan
+spanner
 spark
 sparkline
 sparklines
@@ -10319,6 +10314,7 @@ start
 start-job
 start-jobthread
 start-threadjob
+startkey
 startmen
 startmenu
 starttls
@@ -10648,7 +10644,6 @@ tenable
 tenable.sc
 tenant
 tenantmanagercontrolplane
-teradata
 termbin
 terminal
 terminal-interface
@@ -10692,7 +10687,6 @@ testtag2
 testtool
 testusers
 text
-text_to_speech
 text-based
 text-emoji
 text-emojis
