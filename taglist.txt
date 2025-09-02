@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 01 September 2025 21:52:17 UTC
+Updated: Tuesday, 02 September 2025 09:52:21 UTC
 
 .bat
 .env
@@ -106,6 +106,7 @@ account
 account-management
 accounting
 accounts
+ace
 ack
 acknowledge
 acl
@@ -337,6 +338,7 @@ alphafs
 alpine
 alt3
 alter
+alteryx
 alto
 alwaysontop
 alwaysonvpn
@@ -720,6 +722,7 @@ axcient_x360recover
 axinom
 axis
 axium
+ayx
 az
 az-cli
 az.runtimeenvironment
@@ -921,6 +924,7 @@ benchmarking
 benchmarks
 benchpress
 ber
+best-practices
 bestpractice
 bestpractices
 bginfo
@@ -1941,7 +1945,6 @@ datacollectionrule
 dataconduit
 dataconnectivity
 datadog
-dataexchange
 dataexplorer
 datafactory
 dataflow
@@ -2136,6 +2139,7 @@ devsecops
 devtestlabs
 dfch
 dfir
+dfplayermini
 dfs
 dfw
 dg
@@ -2187,7 +2191,6 @@ dirsync
 disa
 disable
 disable-internet
-disable-psremoting
 disablefilesyncngsc
 disablestartbutton
 disablestartkey
@@ -2235,6 +2238,7 @@ dividends
 diving
 division
 divoom
+diy
 dkim
 dkimcheck
 dkschrutebeets
@@ -2311,6 +2315,7 @@ domainname
 domainnamesystem
 domains
 domino
+done.land
 donothing
 dos
 dot
@@ -2550,7 +2555,6 @@ emwarehouse
 enable
 enable-internet
 enable-psremoting
-enable-psremotingremote
 enbrea
 enclosure
 encode
@@ -2671,6 +2675,7 @@ event-timeline
 eventchannel
 eventchannels
 eventcollector
+eventful
 eventgrid
 eventhub
 eventing
@@ -2821,6 +2826,7 @@ fastlinq
 fastlookup
 fastping
 fasttrack
+fat32
 favorite
 favorites
 favouritedirectory
@@ -3356,7 +3362,6 @@ gtx1080ti
 guardedfabric
 guardicore
 gubbins
-guest
 guestconfiguration
 guests
 gui
@@ -3375,6 +3380,7 @@ gzip
 gzip-compression
 ha
 haarlemsdagblad
+habitica
 hack
 hacking
 hacktoberfest
@@ -3443,6 +3449,7 @@ headhunter
 health
 health_checks
 health-check
+health-checks
 healthbot
 healthcare
 healthcareapis
@@ -3520,6 +3527,7 @@ hkey_users
 hklm
 hl7
 hlds
+hls
 hmac
 hockey
 hol
@@ -3843,8 +3851,6 @@ intune
 intuneadminroles
 intuneappwinutil
 intunestuff
-intunewinapputil
-intunewinapputil.exe
 inventory
 investigation
 investing
@@ -4118,6 +4124,7 @@ krick
 kschemaplugin
 kubclt
 kube
+kube-buddy
 kubeconfig
 kubectl
 kubectx
@@ -4135,7 +4142,6 @@ kusto
 kusto.data
 kusto.ingest
 kvm
-kvp
 l-system
 l1tf
 l2tp
@@ -4427,7 +4433,6 @@ maatschap-fortigi
 mac
 mac-address
 macaddress
-macadmins
 machine
 machine-learning
 machinelearning
@@ -4665,7 +4670,6 @@ microsoft365dsc
 microsoftauthenticationlibrary
 microsoftazure
 microsoftcloud
-microsoftcopilot
 microsoftdefender
 microsoftdefenderatp
 microsoftdefenderforidentity
@@ -4805,6 +4809,7 @@ mozilla
 mp3
 mp4
 mpc
+mpeg
 mpn
 mrfk
 mrfylke
@@ -4973,8 +4978,6 @@ neonpostgres
 neovim
 neptune
 nerdfonts
-nerdio
-nerdioapi
 nerdymishka
 nessus
 nested
@@ -5086,7 +5089,6 @@ nlog
 nlp
 nmap
 nmbell
-nmm
 nntp
 node
 node.js
@@ -5932,6 +5934,7 @@ preprocessing
 preprocessor
 prerequisites
 presentation
+presentationframework
 presenter
 presto
 preston-k-parsard
@@ -10037,7 +10040,6 @@ slash
 slashcommands
 sleep
 sleeper
-slideshow
 slmgr
 sln
 slugify
@@ -10103,7 +10105,6 @@ soccer
 social
 social-media
 socialmedia
-socketlabs
 sockets
 sodium
 software
@@ -10155,7 +10156,6 @@ space
 spaces
 spacex
 spam
-spamtitan
 spanner
 spark
 sparkline
@@ -10409,7 +10409,6 @@ sub
 sub-directory
 sub-menu
 subatomix
-subdirectory
 subject
 subjectname
 sublimetext
@@ -10644,6 +10643,7 @@ tenable
 tenable.sc
 tenant
 tenantmanagercontrolplane
+teradata
 termbin
 terminal
 terminal-interface
@@ -10666,7 +10666,6 @@ test-internetconnection
 test-modulemanifest
 test-modulepath
 test-osplatform
-test-psremoting
 test-samcmapplicationexists
 test-samcmpackageexists
 test-userisadministrator
@@ -10687,6 +10686,7 @@ testtag2
 testtool
 testusers
 text
+text_to_speech
 text-based
 text-emoji
 text-emojis
@@ -10765,7 +10765,6 @@ tinymce
 tip
 tips
 titan
-titanhq
 title
 tld
 tls
