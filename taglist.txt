@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Friday, 05 September 2025 09:52:10 UTC
+Updated: Friday, 05 September 2025 21:52:05 UTC
 
 .bat
 .env
@@ -337,6 +337,7 @@ alpine
 alt3
 alter
 alteryx
+alto
 alwaysontop
 alwaysonvpn
 alz
@@ -551,6 +552,8 @@ asciiart
 asdatabase
 asigra
 asjob
+ask-gpt
+askgpt
 asm
 asn
 asn.1
@@ -786,6 +789,8 @@ azurecli
 azurecodesigning
 azurecognitiveservices
 azurecommonstuff
+azurecontainerapps
+azurecontainers
 azuredatabricks
 azuredataexplorer
 azuredatastudio
@@ -1562,6 +1567,7 @@ component
 composer
 composite
 compositeresource
+compoundproperty
 compress
 compression
 compromised
@@ -2622,6 +2628,7 @@ epicor
 episode
 epplus
 eprosima
+epub
 epv
 equality
 erb
@@ -2680,6 +2687,7 @@ event-timeline
 eventchannel
 eventchannels
 eventcollector
+eventful
 eventgrid
 eventhub
 eventing
@@ -3620,6 +3628,7 @@ humor
 humorous
 humour
 hunter
+hunting
 hwid
 hybrid
 hybridrunbookworker
@@ -3680,10 +3689,8 @@ identitydataplane
 identitydirector
 identitydomains
 identitynow
-identitysecuritycloud
 idf
 idm
-idn
 idna
 idoit
 idrac
@@ -3952,7 +3959,10 @@ it-tools
 itadministration
 italic-text
 item
+itemlist
+itemobject
 items
+itemstack
 iterate
 iteration
 itg
@@ -4257,6 +4267,7 @@ light
 lights
 lime
 limesurvey
+limit
 limit-job
 limits
 lina
@@ -4741,6 +4752,7 @@ mixedreality
 mixer
 mkdocs
 mkpasswd
+mksapiviewer
 ml
 ml.net
 mlflow
@@ -4784,7 +4796,6 @@ monaco
 monday
 mondoo
 money
-moneyforward
 mongo
 mongodb
 monitor
@@ -4943,6 +4954,7 @@ nagios
 nakivo
 name
 name-of-dogs
+namedpipe
 nameit
 nameresolution
 names
@@ -5102,6 +5114,7 @@ nntp
 node
 node.js
 nodejs
+nogit
 non-idiomatic
 non-volatile
 none
@@ -5316,6 +5329,7 @@ openapi
 opendata
 openedge
 openfiles
+opengraph
 openhere
 openholidaysapi
 openid
@@ -5467,9 +5481,11 @@ pagerduty
 pages
 pagination
 paging
+palo
 paloalto
 paloaltonetworks
 pam
+pan
 pandoc
 panels
 pansies
@@ -9047,6 +9063,7 @@ pswriteword
 psyaml
 pszabbix
 ptc
+ptcintegrity
 pubg
 public
 public-key
@@ -9232,6 +9249,7 @@ react-stockcharts
 read
 read-slog
 readable
+reader
 readiness
 readme
 readpdf
@@ -9444,6 +9462,7 @@ restaurant
 restful
 restore
 restrictive
+results
 resume
 retail
 retention
@@ -9752,6 +9771,7 @@ secrets
 secretsanta
 secretscanner
 secretserver
+secretshub
 secretsmanagement
 secretsmanager
 secretstore
@@ -10524,7 +10544,6 @@ system
 system information 1394 controller baseboard motherboard systemboard battery bios bus cache memory cd dvd rom drive compact disc desktop monitor disk partition fan floppy glide point heatpipe ide infrared device keyboard local logical array mouse'
 system-administration
 system-group
-system-info
 system-service
 system-services
 system.directoryservices.protocols
@@ -10910,6 +10929,9 @@ tsa
 tsd
 tsheets
 tsqlbestpractice
+tst
+tst1
+tst3
 tsv
 ttrpg
 tts
@@ -10936,6 +10958,7 @@ twitter-follow
 twitter-hashtag
 twitter-mention
 twitter-share
+twitter-timeline
 twitter-tweet
 txt
 type
@@ -11502,7 +11525,6 @@ whatsupgold
 whd
 where
 whfb
-whisper
 whiteboard
 whitespace
 who
@@ -11558,6 +11580,7 @@ win32appmigrationtool
 win32shutdown
 winbgp
 windbg
+windchillrv&s
 window
 windows
 windows  server
@@ -11735,6 +11758,7 @@ write-wansi
 writeaccess
 writelog
 writeprogress
+writer
 ws-federation
 wsapi
 wsb
@@ -11807,8 +11831,10 @@ xpertdoc
 xpo
 xprotect
 xpt
+xql
 xrm
 xsa
+xsiam
 xtremio
 xtrude
 xunit
@@ -11842,6 +11868,7 @@ yubikey
 yum
 z
 zabbix
+zabbix7
 zabbixps
 zap
 zap-zsh
