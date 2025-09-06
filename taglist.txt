@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Friday, 05 September 2025 21:52:05 UTC
+Updated: Saturday, 06 September 2025 09:52:20 UTC
 
 .bat
 .env
@@ -3599,7 +3599,6 @@ hrprovisioning
 hsdp
 hsl
 html
-html-templates
 htmlentity
 http
 http_proxy
@@ -3689,10 +3688,11 @@ identitydataplane
 identitydirector
 identitydomains
 identitynow
+identitysecuritycloud
 idf
 idm
+idn
 idna
-idoit
 idrac
 ids
 ie
@@ -4796,6 +4796,7 @@ monaco
 monday
 mondoo
 money
+moneyforward
 mongo
 mongodb
 monitor
@@ -8974,8 +8975,6 @@ psgraylog
 pshdhomerun
 pshost
 pshtml
-psidoit
-psidoitng
 psimport
 psincludes_cmdlet
 psincludes_command
@@ -9192,8 +9191,6 @@ rag
 raidcontrollercmdlets
 railways
 rainbow
-raindrop
-raindrop.io
 raisers
 raisersedge
 raj
@@ -9771,7 +9768,6 @@ secrets
 secretsanta
 secretscanner
 secretserver
-secretshub
 secretsmanagement
 secretsmanager
 secretstore
@@ -10130,7 +10126,6 @@ social
 social-media
 socialmedia
 socketlabs
-sockets
 sodium
 software
 softwarecenter
@@ -10544,6 +10539,7 @@ system
 system information 1394 controller baseboard motherboard systemboard battery bios bus cache memory cd dvd rom drive compact disc desktop monitor disk partition fan floppy glide point heatpipe ide infrared device keyboard local logical array mouse'
 system-administration
 system-group
+system-info
 system-service
 system-services
 system.directoryservices.protocols
@@ -10660,7 +10656,6 @@ temp
 temperature
 template
 template-engine
-template-utility
 templater
 templates
 templating
@@ -10718,7 +10713,6 @@ text_to_speech
 text-based
 text-emoji
 text-emojis
-text-templates
 text-to-image
 text-to-speach"
 text-to-speech
@@ -10823,7 +10817,6 @@ tonoref
 tookit
 tool
 toolbox
-toolcraft
 toolkit
 toolmaking
 tools
@@ -10977,7 +10970,6 @@ ubnt
 ubuntu
 ucs
 ucspowertool
-ud-avataaar
 ud-badgebutton
 ud-badgelink
 ud-breadcrumb
@@ -11525,6 +11517,7 @@ whatsupgold
 whd
 where
 whfb
+whisper
 whiteboard
 whitespace
 who
