@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Saturday, 06 September 2025 09:52:20 UTC
+Updated: Saturday, 06 September 2025 21:52:47 UTC
 
 .bat
 .env
@@ -1798,7 +1798,6 @@ cresendo
 crestron
 cricket
 crime
-critical
 crlf
 crm
 crm2016
@@ -3599,6 +3598,7 @@ hrprovisioning
 hsdp
 hsl
 html
+html-templates
 htmlentity
 http
 http_proxy
@@ -3693,6 +3693,7 @@ idf
 idm
 idn
 idna
+idoit
 idrac
 ids
 ie
@@ -5115,7 +5116,6 @@ nntp
 node
 node.js
 nodejs
-nogit
 non-idiomatic
 non-volatile
 none
@@ -8975,6 +8975,8 @@ psgraylog
 pshdhomerun
 pshost
 pshtml
+psidoit
+psidoitng
 psimport
 psincludes_cmdlet
 psincludes_command
@@ -9191,6 +9193,8 @@ rag
 raidcontrollercmdlets
 railways
 rainbow
+raindrop
+raindrop.io
 raisers
 raisersedge
 raj
@@ -9514,8 +9518,6 @@ rms
 rng
 roarwrecker
 robbyrussel
-robinhood
-robinhoodcrypto
 robocopy
 robot
 roca
@@ -9768,6 +9770,7 @@ secrets
 secretsanta
 secretscanner
 secretserver
+secretshub
 secretsmanagement
 secretsmanager
 secretstore
@@ -10398,6 +10401,7 @@ storedcredentials
 storefront
 storeonce
 storeserv
+strangeloop
 strava
 streak
 stream
@@ -10656,6 +10660,7 @@ temp
 temperature
 template
 template-engine
+template-utility
 templater
 templates
 templating
@@ -10682,7 +10687,6 @@ terrafun
 terragrunt
 tesla
 test
-test-automation
 test-dscconfiguration
 test-internetconnection
 test-modulemanifest
@@ -10713,6 +10717,7 @@ text_to_speech
 text-based
 text-emoji
 text-emojis
+text-templates
 text-to-image
 text-to-speach"
 text-to-speech
@@ -10751,7 +10756,6 @@ thread
 threading
 threadjob
 threads
-threadsafe
 threadsanitizer
 threat
 threat-hunting
@@ -10817,6 +10821,7 @@ tonoref
 tookit
 tool
 toolbox
+toolcraft
 toolkit
 toolmaking
 tools
@@ -10970,6 +10975,7 @@ ubnt
 ubuntu
 ucs
 ucspowertool
+ud-avataaar
 ud-badgebutton
 ud-badgelink
 ud-breadcrumb
@@ -11018,7 +11024,6 @@ ud-tagcloud
 ud-timeline
 ud-timeout
 ud-tool
-ud-toploader
 ud-trendline
 ud-typing
 ud-window
@@ -11308,7 +11313,6 @@ vlsc
 vlsm
 vm
 vmc
-vmconnect
 vmelamed5
 vmfs
 vmgroup
