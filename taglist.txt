@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 08 September 2025 21:52:29 UTC
+Updated: Tuesday, 09 September 2025 09:52:19 UTC
 
 .bat
 .env
@@ -274,7 +274,6 @@ agm
 agnoster
 ahk
 ai
-ai-server
 ai21
 ai21labs
 aianomalydetection
@@ -346,8 +345,6 @@ amateur-data-interchange-format
 amateur-radio
 amateurradio
 amazon
-amazonaws
-amazonmgn
 amazontitan
 amazonwebservices
 amend
@@ -368,7 +365,6 @@ analyticsrules
 analyze
 analyzer
 analyzerrules
-anchor
 and
 android
 anet
@@ -413,7 +409,6 @@ api
 api-client
 api-gateway
 api-rest
-apiaccesscontrol
 apichecks
 apiclient
 apigateway
@@ -551,6 +546,8 @@ asciiart
 asdatabase
 asigra
 asjob
+ask-gpt
+askgpt
 asm
 asn
 asn.1
@@ -922,7 +919,6 @@ benchmarking
 benchmarks
 benchpress
 ber
-best-practices
 bestpractice
 bestpractices
 beta
@@ -998,7 +994,6 @@ bloxone
 bloxoneddi
 bls
 blue
-bluecat
 bluedolhin
 blueprint
 blueprints
@@ -1309,6 +1304,7 @@ cil
 cim
 cim_computersystem
 cimfs
+cimi
 ciminstance
 cims
 cimsession
@@ -1632,7 +1628,6 @@ connectivity
 connector
 connectorcmd
 connectormanagement
-connectsync
 connectwise
 conservation
 console
@@ -1731,8 +1726,6 @@ couchbase
 couchdb
 couchpotato
 count
-count-lines-of-code
-count-loc
 countdown
 counter
 countries
@@ -1809,7 +1802,6 @@ crossplatformdevelopment
 crowdstrike
 crt.sh
 crud
-crx
 crypto
 crypto-currency
 cryptocompare
@@ -1887,6 +1879,7 @@ cyberark-identity
 cyberdrain
 cybereason
 cybersecurity
+cyberwatch
 cyclic
 cyclicredundancycheck
 cygwin
@@ -2608,7 +2601,6 @@ enumerable
 env
 environment
 environment-variables
-environmentmanagent
 environmentmodules
 environments
 environmentvariable
@@ -2714,7 +2706,6 @@ example
 examples
 excel
 exception
-exceptionless
 exchange
 exchange_online
 exchange-rates
@@ -3244,7 +3235,6 @@ git-lfs
 git-open
 git-proxy
 git-rename
-git-stat
 gitcmdline
 gitdesktop
 gitea
@@ -3459,7 +3449,6 @@ headhunter
 health
 health_checks
 health-check
-health-checks
 healthbot
 healthcare
 healthcareapis
@@ -3546,7 +3535,6 @@ home
 home_automation
 homebrew
 homebrewing
-homelab
 homelandsecurity
 homeschooling
 hometheater
@@ -3788,6 +3776,7 @@ initialization
 initials-avatar
 initiative
 initiator
+injection
 inline-progress
 inlineimageprotocol
 inlineprogress
@@ -3829,7 +3818,6 @@ integrated
 integratedscriptingeditor
 integration
 integrationaccount
-integrationruntime
 integrationruntimedependency
 integrationservicescatalog
 integrity
@@ -4136,7 +4124,6 @@ krick
 kschemaplugin
 kubclt
 kube
-kube-buddy
 kubeconfig
 kubectl
 kubectx
@@ -4182,7 +4169,6 @@ lame
 lametrictime
 landingzones
 language
-language-model
 languageai
 languagedsc
 languageexperiencepack
@@ -4314,10 +4300,8 @@ loader
 loadtesting
 loanddepot
 loandepot
-loc
 local
 local-account
-local-ai
 local-caching
 local-policy
 local-users
@@ -4448,7 +4432,6 @@ mac-address
 macaddress
 macadmins
 machine
-machine-learning
 machinelearning
 machinelearningcompute
 machinelearningmodels
@@ -4590,7 +4573,6 @@ mdt
 mdx
 mean
 measure
-measure-loc
 measure-process
 mecm
 media
@@ -4648,7 +4630,6 @@ metrolink
 metropolis
 mfa
 mga
-mgn
 mi
 micro
 micro-framework
@@ -4707,6 +4688,7 @@ microsoftstore
 microsoftteams
 microsoftteamsdevices
 microsoftteamsphone
+microsoftupdate
 microsoftword
 middleware
 midserver
@@ -4762,7 +4744,6 @@ mock
 mocking
 modding
 model
-model-management
 modeldeployment
 modeling
 models
@@ -4992,8 +4973,6 @@ neonpostgres
 neovim
 neptune
 nerdfonts
-nerdio
-nerdioapi
 nerdymishka
 nessus
 nested
@@ -5004,7 +4983,7 @@ netapi32
 netapp
 netapp_ontap_powershell_toolkit
 netapp.ontap
-netapp.ontap_9.16.1
+netapp.ontap_9.17.1
 netappfiles
 netbox
 netcease
@@ -5102,13 +5081,10 @@ nl
 nla
 nlm
 nlog
-nlp
 nmap
 nmbell
-nmm
 nntp
 node
-node.js
 nodejs
 nogit
 non-idiomatic
@@ -5180,7 +5156,6 @@ nupkg
 nuspec
 nutanix
 nuwave
-nva
 nvd
 nvdimm
 nvdimm-n
@@ -5304,9 +5279,9 @@ onpremisesdatagatewayhamgmt
 onq
 ons
 ontap
-ontap_9.16.1
+ontap_9.17.1
 ontap_9.8.0
-ontap_pstk_9.16.1
+ontap_pstk_9.17.1
 ontap_pstk_9.8.0
 onyphe
 onyphe.io
@@ -5770,6 +5745,7 @@ poshlog
 poshorigin
 poshproject
 poshprtg
+poshrest
 poshrsjob
 poshtemplate
 poshwsus
@@ -5871,7 +5847,6 @@ powersaving
 powerscheme
 powershell
 powershell_universal
-powershell-ai
 powershell-class
 powershell-cmdlets
 powershell-core
@@ -6012,7 +5987,6 @@ profilemanagement
 profilemigration
 profiler
 profiles
-profileupdater
 profilevalidation
 proget
 program
@@ -7886,6 +7860,7 @@ pscore
 pscredential
 pscribo
 pscustomobject
+psd
 psd1
 psdb
 psdefaultparametervalues
@@ -8983,7 +8958,6 @@ psjob
 psjobs
 psjobthreads
 pskeepass
-psllm
 pslocalgallery
 psloganalytics
 psm
@@ -9071,7 +9045,6 @@ publish
 publish-module
 publishedmodules
 publisher
-publishers
 publishing
 publishmap
 pubsub
@@ -9182,7 +9155,6 @@ rabbitmq
 rackspace
 radarr
 radio
-rag
 raidcontrollercmdlets
 railways
 rainbow
@@ -9428,7 +9400,6 @@ resize
 resolution
 resolve
 resolve-dnsname
-resolve-stache
 resolve-template
 resolver
 resource
@@ -9535,11 +9506,9 @@ round
 roundrobindatabase
 route
 route53
-routeconfig
 router
 routeros
 routes
-routetable
 routine
 rover
 royalapps
@@ -10160,7 +10129,6 @@ sort
 sort-json
 sorting
 sound
-sounds
 source
 source-dedicated-server
 sourcecontrol
@@ -10313,7 +10281,6 @@ ssrs
 ssst
 sstp
 stabilityai
-stache
 stackexchange
 stackhci
 stackhcivm
@@ -10412,7 +10379,6 @@ strictmode
 strikethrough-text
 string
 string-converter
-string-template
 stringmanager
 stringmanagertool
 strings
@@ -11034,7 +11000,6 @@ udfeedback
 udp
 udpclient
 udptest
-udr
 udthememode
 udword
 uefi
@@ -11273,7 +11238,6 @@ vimode
 virole
 virsh
 virtual
-virtualappliance
 virtualbox
 virtualboxguestadditions
 virtualdesktop
