@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Tuesday, 09 September 2025 09:52:19 UTC
+Updated: Tuesday, 09 September 2025 21:52:16 UTC
 
 .bat
 .env
@@ -100,7 +100,6 @@ accessrights
 accesstoken
 accord
 accord.net
-accordian
 account
 account-management
 accounting
@@ -268,12 +267,12 @@ agenda
 agent
 aggregates
 aggregation
-agile
 agility
 agm
 agnoster
 ahk
 ai
+ai-server
 ai21
 ai21labs
 aianomalydetection
@@ -287,6 +286,7 @@ aimodels
 aip
 aiprompting
 aipscanner
+aircall
 airpower
 airpwr
 airtable
@@ -345,6 +345,8 @@ amateur-data-interchange-format
 amateur-radio
 amateurradio
 amazon
+amazonaws
+amazonmgn
 amazontitan
 amazonwebservices
 amend
@@ -365,6 +367,7 @@ analyticsrules
 analyze
 analyzer
 analyzerrules
+anchor
 and
 android
 anet
@@ -409,6 +412,7 @@ api
 api-client
 api-gateway
 api-rest
+apiaccesscontrol
 apichecks
 apiclient
 apigateway
@@ -498,7 +502,6 @@ architecture
 architecuture
 archive
 archivedteams
-archivematica
 archivial
 archivial-backup
 archivial-cloud-backup
@@ -507,7 +510,6 @@ archon
 archonagent
 arcresourcebridge
 arcus
-area
 arg
 argcomplete
 argument
@@ -527,7 +529,6 @@ arrays
 arrow
 arrow-key
 art
-artefactual
 artifact
 artifactory
 artifacts
@@ -587,7 +588,6 @@ atlas
 atlassian
 atlassiancli
 atlassianps
-atmosphere
 atom
 atp
 atproto
@@ -919,6 +919,7 @@ benchmarking
 benchmarks
 benchpress
 ber
+best-practices
 bestpractice
 bestpractices
 beta
@@ -948,7 +949,6 @@ bind
 binding
 bindings
 bing
-bingmap
 bingmaps
 binomial
 bios
@@ -994,6 +994,7 @@ bloxone
 bloxoneddi
 bls
 blue
+bluecat
 bluedolhin
 blueprint
 blueprints
@@ -1137,7 +1138,6 @@ cameras
 campaign
 camtasia
 canarie
-canary
 cancel
 cancellation
 candlestick
@@ -1375,6 +1375,7 @@ clientstatussettings
 clihelper.core
 clihelper.logger
 clihelper.semver
+clihelper.trends
 clipart
 clipasswordsdk
 clipboard
@@ -1628,6 +1629,7 @@ connectivity
 connector
 connectorcmd
 connectormanagement
+connectsync
 connectwise
 conservation
 console
@@ -1726,6 +1728,8 @@ couchbase
 couchdb
 couchpotato
 count
+count-lines-of-code
+count-loc
 countdown
 counter
 countries
@@ -1802,6 +1806,7 @@ crossplatformdevelopment
 crowdstrike
 crt.sh
 crud
+crx
 crypto
 crypto-currency
 cryptocompare
@@ -1995,7 +2000,6 @@ dbatools
 dbcommand
 dbeaver
 dbfs
-dblm
 dbmulticloud
 dbnull
 dbops
@@ -2601,6 +2605,7 @@ enumerable
 env
 environment
 environment-variables
+environmentmanagent
 environmentmodules
 environments
 environmentvariable
@@ -2706,6 +2711,7 @@ example
 examples
 excel
 exception
+exceptionless
 exchange
 exchange_online
 exchange-rates
@@ -2939,8 +2945,6 @@ find-file
 find-path
 finddownloadlinkfromwebsite
 findfile
-findlocation
-findplace
 findproxyforurl
 fine-print
 fine-tuning
@@ -3159,12 +3163,9 @@ generic
 genericartifactscontent
 genetic-algorithm
 genxdev
-geo
 geocache
 geocaching
 geocode
-geoencode
-geoencoding
 geoip
 geolocation
 geosearching
@@ -3235,6 +3236,7 @@ git-lfs
 git-open
 git-proxy
 git-rename
+git-stat
 gitcmdline
 gitdesktop
 gitea
@@ -3265,8 +3267,6 @@ globbing
 glp
 glpi
 gmail
-gmap
-gmaps
 gmsa
 gnome
 gnucash
@@ -3288,7 +3288,6 @@ google-table
 googleadsv2
 googlecloudplatform
 googledrive
-googlemap
 googlemaps
 googleworkspace
 gopher
@@ -3449,6 +3448,7 @@ headhunter
 health
 health_checks
 health-check
+health-checks
 healthbot
 healthcare
 healthcareapis
@@ -3535,6 +3535,7 @@ home
 home_automation
 homebrew
 homebrewing
+homelab
 homelandsecurity
 homeschooling
 hometheater
@@ -3818,6 +3819,7 @@ integrated
 integratedscriptingeditor
 integration
 integrationaccount
+integrationruntime
 integrationruntimedependency
 integrationservicescatalog
 integrity
@@ -3829,6 +3831,7 @@ intellisearch
 intellisense
 interactive
 interactive-brokers
+interchange
 interface
 interlogix
 internal
@@ -4124,6 +4127,7 @@ krick
 kschemaplugin
 kubclt
 kube
+kube-buddy
 kubeconfig
 kubectl
 kubectx
@@ -4160,7 +4164,6 @@ labservices
 labsnippet
 labtech
 labtest
-labview
 labworker
 lake
 lambda
@@ -4169,6 +4172,7 @@ lame
 lametrictime
 landingzones
 language
+language-model
 languageai
 languagedsc
 languageexperiencepack
@@ -4300,8 +4304,10 @@ loader
 loadtesting
 loanddepot
 loandepot
+loc
 local
 local-account
+local-ai
 local-caching
 local-policy
 local-users
@@ -4310,7 +4316,6 @@ localadmin
 localconfigurationmanager
 localdb
 localdirectories
-locale
 localgroup
 localgroupmember
 localization
@@ -4432,6 +4437,7 @@ mac-address
 macaddress
 macadmins
 machine
+machine-learning
 machinelearning
 machinelearningcompute
 machinelearningmodels
@@ -4498,13 +4504,11 @@ manifest
 manifested
 manual
 map
-mapapi
 mapi
 mappeddrives
 mapper24
 mapping
 maps
-mapsapi
 mariadb
 mark
 markdig
@@ -4573,6 +4577,7 @@ mdt
 mdx
 mean
 measure
+measure-loc
 measure-process
 mecm
 media
@@ -4630,6 +4635,7 @@ metrolink
 metropolis
 mfa
 mga
+mgn
 mi
 micro
 micro-framework
@@ -4744,6 +4750,7 @@ mock
 mocking
 modding
 model
+model-management
 modeldeployment
 modeling
 models
@@ -4944,7 +4951,6 @@ nano
 nanoleaf
 nartac
 nasdaq
-nationalinstruments
 native
 natpool
 natural
@@ -4973,6 +4979,8 @@ neonpostgres
 neovim
 neptune
 nerdfonts
+nerdio
+nerdioapi
 nerdymishka
 nessus
 nested
@@ -5063,7 +5071,6 @@ ngen
 ngfw
 nginx
 nhl
-ni
 nic
 nic.ru
 nightmare
@@ -5072,19 +5079,20 @@ ninja
 ninjaone
 ninjarmm
 nios
-nipkg
 nist
 nitrox
-nixos
 njclipsh
 nl
 nla
 nlm
 nlog
+nlp
 nmap
 nmbell
+nmm
 nntp
 node
+node.js
 nodejs
 nogit
 non-idiomatic
@@ -5156,6 +5164,7 @@ nupkg
 nuspec
 nutanix
 nuwave
+nva
 nvd
 nvdimm
 nvdimm-n
@@ -5642,9 +5651,7 @@ pixoo
 pkce
 pkgx
 pki
-pki psmodule
 pks
-place
 places
 plain
 plan
@@ -5847,6 +5854,7 @@ powersaving
 powerscheme
 powershell
 powershell_universal
+powershell-ai
 powershell-class
 powershell-cmdlets
 powershell-core
@@ -5987,6 +5995,7 @@ profilemanagement
 profilemigration
 profiler
 profiles
+profileupdater
 profilevalidation
 proget
 program
@@ -7869,7 +7878,6 @@ psdesiredstateconfiguration
 psdevops
 psdocs
 psdocs-documents
-psdocsgenerator
 psdrawio
 psdrive
 psdrives
@@ -8958,6 +8966,7 @@ psjob
 psjobs
 psjobthreads
 pskeepass
+psllm
 pslocalgallery
 psloganalytics
 psm
@@ -9045,6 +9054,7 @@ publish
 publish-module
 publishedmodules
 publisher
+publishers
 publishing
 publishmap
 pubsub
@@ -9155,6 +9165,7 @@ rabbitmq
 rackspace
 radarr
 radio
+rag
 raidcontrollercmdlets
 railways
 rainbow
@@ -9184,8 +9195,6 @@ raspbian
 rate
 rate-limit
 rates
-rating
-ratings
 ravendb
 razzle
 rbac
@@ -9400,6 +9409,7 @@ resize
 resolution
 resolve
 resolve-dnsname
+resolve-stache
 resolve-template
 resolver
 resource
@@ -9506,9 +9516,11 @@ round
 roundrobindatabase
 route
 route53
+routeconfig
 router
 routeros
 routes
+routetable
 routine
 rover
 royalapps
@@ -9721,7 +9733,6 @@ searchengine
 searcher
 searching
 searchmanager
-searchplace
 searchquery
 searchstring
 searchsuffixlist
@@ -9795,7 +9806,6 @@ selfhelp
 selfsigned
 semantic
 semantic-versioning
-semaphore
 semver
 senat
 senateur
@@ -9976,7 +9986,6 @@ silver_ticket
 sim
 simac
 simple
-simplecontainers
 simplepassword
 simplepasswordgenerator
 simplivity
@@ -10281,6 +10290,7 @@ ssrs
 ssst
 sstp
 stabilityai
+stache
 stackexchange
 stackhci
 stackhcivm
@@ -10379,6 +10389,7 @@ strictmode
 strikethrough-text
 string
 string-converter
+string-template
 stringmanager
 stringmanagertool
 strings
@@ -10465,7 +10476,6 @@ switch
 swsd
 sxs
 sybase
-sybaseiq
 symantec
 symbolic
 symbolic_link
@@ -11000,6 +11010,7 @@ udfeedback
 udp
 udpclient
 udptest
+udr
 udthememode
 udword
 uefi
@@ -11238,6 +11249,7 @@ vimode
 virole
 virsh
 virtual
+virtualappliance
 virtualbox
 virtualboxguestadditions
 virtualdesktop
@@ -11374,7 +11386,6 @@ vxrail
 w32time
 w365
 w3svc
-w3w
 waa
 waas
 wac
@@ -11478,7 +11489,6 @@ wem
 wemsdk
 wer
 wget
-what3words
 whatif
 whatismyip
 whatsnew
