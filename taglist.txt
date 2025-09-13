@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Saturday, 13 September 2025 09:52:35 UTC
+Updated: Saturday, 13 September 2025 21:52:27 UTC
 
 .bat
 .env
@@ -76,7 +76,6 @@ aadgraph
 aadsecurity
 aadsts
 aam
-aas
 aatp
 abakion
 abc
@@ -354,7 +353,6 @@ amazonwebservices
 amend
 ami
 amiga
-amp
 amqp
 amsi
 amt
@@ -381,7 +379,6 @@ animate-svg
 animation
 animations
 annotated
-announcement
 announcementsservice
 anonymous
 anova
@@ -460,7 +457,6 @@ applicationgateway
 applicationgrid
 applicationhost.config
 applicationinsights
-applicationmigration
 applicationmonitor
 applications
 applicationworkspace
@@ -483,9 +479,6 @@ appx
 appxmanifest
 appxpackage
 aprs
-aprs-is
-aprsis
-aprsthursday
 aps
 apt
 apt-get
@@ -520,7 +513,6 @@ argument
 argumentcompleter
 arguments
 ari
-arizeai
 arm
 arm-json
 arm-templates
@@ -561,6 +553,7 @@ asn1
 asnbank
 asp
 asp.net
+aspire
 aspnet
 aspnet_regiis
 asr
@@ -656,7 +649,6 @@ autologon
 automai
 automanage
 automate
-automated
 automatedlab
 automatenow
 automaticpacketreportingsystem
@@ -676,7 +668,6 @@ autostart
 autotask
 autotaskapi
 autotaskpsa
-autotyper
 autounattend
 autoupdate
 autoupdate-script
@@ -782,7 +773,6 @@ azureartifacts
 azureas
 azureatp
 azureautomation
-azureautomationaccount
 azureautomationnotsupported
 azurebasicloadbalancerupgrade
 azurecli
@@ -863,7 +853,6 @@ bamboo
 bamboohr
 bandwidth
 bank
-banking
 banner
 bar
 baramundi
@@ -919,7 +908,6 @@ bedrock
 beep
 beer
 behavior
-behavioralanalytics
 benchmark
 benchmarking
 benchmarks
@@ -1100,7 +1088,6 @@ buildmaster
 builds
 buildtool
 bulk
-bulletin
 bullhorn
 bundle
 bup
@@ -1213,7 +1200,6 @@ cdx
 ce
 celcat
 celerium
-censor
 center
 centered
 centra
@@ -1341,7 +1327,6 @@ class
 classes
 classic
 classification
-classified
 claude
 claude3
 clccontrol
@@ -1467,7 +1452,6 @@ code-page
 code365
 codeagent
 codeanalysis
-codebeamer
 codebuild
 codecommit
 codecomplexity
@@ -1719,7 +1703,6 @@ copilot
 copy
 copy-item
 copyfileex
-copypaste
 copyright
 core
 coreposh
@@ -1869,7 +1852,6 @@ customeventlogchannel
 customeventlogfile
 customeventlogfiles
 customevents
-customformatregionalsettings
 custominformationservices
 customis
 customisation
@@ -2019,7 +2001,6 @@ dbwebapi
 dc
 dcim
 dcim_b324
-dcom
 dconf
 dcr
 ddc
@@ -2038,7 +2019,6 @@ decline
 decode
 decode64
 decoding
-decompiler
 decompression
 decrypt
 decryption
@@ -2064,7 +2044,6 @@ defender-for-endpoint
 defenderast
 defenderforendpoint
 defenderforidentity
-defenderforservers
 defense
 definition
 deflate
@@ -2554,7 +2533,6 @@ emailsecurity
 embedded
 embedding
 emc
-emcomm
 emergency
 emissions
 emoji
@@ -2958,7 +2936,6 @@ findplace
 findproxyforurl
 fine-print
 fine-tuning
-finops
 firebird
 firefox
 firewall
@@ -2971,8 +2948,6 @@ fisher
 fissionproducts
 fitbit
 fits
-five
-five9
 fix-log
 fix-protocol
 fixlet
@@ -3174,8 +3149,6 @@ genericartifactscontent
 genetic-algorithm
 genxdev
 geo
-geocache
-geocaching
 geocode
 geoencode
 geoencoding
@@ -3326,7 +3299,6 @@ gpo-tools
 gpodoc
 gpolinks
 gpp
-gps
 gpt
 gpx
 gradle
@@ -3358,7 +3330,6 @@ grid
 gridfs
 gridview
 grok
-groundspeak
 group
 group-membership
 group-policy
@@ -3408,8 +3379,6 @@ haloitsm
 halopsa
 haloservicedesk
 haloservicesolutions
-ham
-hamradio
 hamradiodeluxe
 hana
 hanaon
@@ -3824,7 +3793,6 @@ installer
 installers
 installoffice
 installofficertool
-installtotalcommander
 instance
 instant
 instapush
@@ -4233,7 +4201,6 @@ learning
 learning-powershell
 learningpowershell
 learnpowershell
-lease
 leftjoin
 legacy
 legacyad
@@ -4525,7 +4492,6 @@ manual
 map
 mapapi
 mapi
-mappeddrives
 mapper24
 mapping
 maps
@@ -4690,7 +4656,6 @@ microsoft365-security
 microsoft365dsc
 microsoftauthenticationlibrary
 microsoftazure
-microsoftcloud
 microsoftcopilot
 microsoftdefender
 microsoftdefenderatp
@@ -4698,7 +4663,6 @@ microsoftdefenderforidentity
 microsoftdeploymenttoolkit
 microsoftendpointmanager
 microsoftentra
-microsoftexchangeserver
 microsoftfabric
 microsoftgraph
 microsoftgraphapi
@@ -4833,8 +4797,6 @@ mp4
 mpc
 mpeg
 mpn
-mrfk
-mrfylke
 mrvl_fc_powerkit
 mrvlfcprovider
 ms_365
@@ -4900,6 +4862,7 @@ msword
 mta-sts
 mule
 mulesoft
+multi
 multi-agent
 multi-factor
 multi-language
@@ -4941,7 +4904,6 @@ mycloudrevolution
 myget
 myhub
 myip
-myitprocess
 myjson
 myjson.com
 myob
@@ -4952,7 +4914,6 @@ mysql-database
 mytest
 n-able
 n-central
-nabu
 nac
 nagios
 nakivo
@@ -5042,7 +5003,6 @@ networkcloud
 networkcontroller
 networkdiscovery
 networkdrive
-networkdrives
 networkfirewall
 networkfunction
 networkinfo
@@ -5054,7 +5014,6 @@ networkprofile
 networkscan
 networksecurity
 networksecuritygroup
-networkshares
 netwrix
 new
 new-completionresult
@@ -5226,7 +5185,6 @@ oce
 ocg
 ocgv
 oci
-ocicontrolcenter
 ocr
 octoprint
 octopus
@@ -5339,7 +5297,6 @@ openholidaysapi
 openid
 openidconnect
 openinghours
-openport
 openprovider
 openscad
 opensearch
@@ -5506,7 +5463,6 @@ parameterinfo
 parameters
 params
 parclient
-parititions
 parool
 parquet
 parse
@@ -5552,7 +5508,6 @@ passwordspray
 passwordstate
 passwordtool
 passwordvault
-passwordwolf
 paste
 patch
 patches
@@ -5561,6 +5516,7 @@ patchmypc
 patchtuesday
 path
 pathfinder
+pathmanagement
 patternmatching
 paulo
 pause
@@ -5663,6 +5619,7 @@ pipedrive
 pipeline
 pipelinelastexecution
 pipelines
+pipenv
 pipescript
 piraeus
 piv
@@ -5816,8 +5773,8 @@ poshy-wrap-kubectl
 poshy-wrap-maven
 poshy-wrap-nginx
 poshy-wrap-nmap
-poshy-wrap-npm
 poshy-wrap-pip
+poshy-wrap-pipenv
 poshy-wrap-pyenv
 poshy-wrap-pylint
 poshy-wrap-python
@@ -5836,7 +5793,6 @@ poshy-wrap-zypper
 position
 post
 postcode
-postdeployment
 postgre
 postgres
 postgresql
@@ -5874,7 +5830,6 @@ powerplatform
 powerprotect
 powerprotect_datamanager
 powersaving
-powerscheme
 powershell
 powershell_universal
 powershell-ai
@@ -5928,7 +5883,6 @@ powershelluniversal
 powershellv5
 powershellweb
 powerstig
-powerstore
 powertab
 powertoolcmdlets
 powertooldsc
@@ -5956,7 +5910,6 @@ prepareschema
 prepend
 preprocessing
 preprocessor
-prerequisites
 presentation
 presentationframework
 presenter
@@ -5969,7 +5922,6 @@ preview
 previousversions
 price
 pricelist
-pricing
 primenumber
 primera
 principal
@@ -7079,24 +7031,21 @@ pscommand_invoke-mavenpackage
 pscommand_invoke-mavenreleaseperform
 pscommand_invoke-mavenreleaseprepare
 pscommand_invoke-mavenreleaserollback
-pscommand_invoke-npmbinmungedpath
-pscommand_invoke-npminfo
-pscommand_invoke-npminit
-pscommand_invoke-npminstallforcefully
-pscommand_invoke-npminstallglobally
-pscommand_invoke-npminstallsave
-pscommand_invoke-npminstallsavedev
-pscommand_invoke-npmlist
-pscommand_invoke-npmlistdepth0
-pscommand_invoke-npmoutdated
-pscommand_invoke-npmpublish
-pscommand_invoke-npmrun
-pscommand_invoke-npmrundev
-pscommand_invoke-npmsearch
-pscommand_invoke-npmstart
-pscommand_invoke-npmtest
-pscommand_invoke-npmupdate
-pscommand_invoke-npmversion
+pscommand_invoke-pipenvcheck
+pscommand_invoke-pipenvclean
+pscommand_invoke-pipenvgraph
+pscommand_invoke-pipenvinstall
+pscommand_invoke-pipenvinstalldev
+pscommand_invoke-pipenvlock
+pscommand_invoke-pipenvopen
+pscommand_invoke-pipenvpy
+pscommand_invoke-pipenvrun
+pscommand_invoke-pipenvshell
+pscommand_invoke-pipenvsync
+pscommand_invoke-pipenvuninstall
+pscommand_invoke-pipenvupdate
+pscommand_invoke-pipenvvenv
+pscommand_invoke-pipenvwhere
 pscommand_invoke-pipinstall
 pscommand_invoke-pipinstallupgrade
 pscommand_invoke-piplistoutdated
@@ -7526,25 +7475,13 @@ pscommand_notify-send-terminalnotifier
 pscommand_npm-disable-proxy
 pscommand_npm-enable-proxy
 pscommand_npm-show-proxy
-pscommand_npmd
-pscommand_npme
-pscommand_npmf
-pscommand_npmg
-pscommand_npmi
-pscommand_npml
-pscommand_npml0
-pscommand_npmo
-pscommand_npmp
-pscommand_npmr
-pscommand_npmrd
-pscommand_npms
-pscommand_npmse
-pscommand_npmst
-pscommand_npmt
-pscommand_npmu
-pscommand_npmv
 pscommand_open_command
+pscommand_pch
+pscommand_pcl
 pscommand_peek
+pscommand_pgr
+pscommand_pi
+pscommand_pidev
 pscommand_ping
 pscommand_pip
 pscommand_pip_package_location
@@ -7562,8 +7499,15 @@ pscommand_pipu
 pscommand_pipun
 pscommand_pipunall
 pscommand_pipupall
+pscommand_pl
+pscommand_po
 pscommand_pop-gitstashentry
+pscommand_ppy
 pscommand_proxy-help
+pscommand_prun
+pscommand_psh
+pscommand_psy
+pscommand_pu
 pscommand_publish-gitcommitsforcefullywithlease
 pscommand_publish-gitcommitssettingupstream
 pscommand_publish-gitcommitssettingupstreamtoorigin
@@ -7572,9 +7516,12 @@ pscommand_publish-gitcommitstooriginfromhead
 pscommand_publish-gitcommitstooriginmain
 pscommand_publish-gitcommitswithtags
 pscommand_publish-gitrepositorytosvn
+pscommand_pupd
 pscommand_push-gitstashentry
 pscommand_push-gitstashentrywithmessage
 pscommand_pushgr
+pscommand_pvenv
+pscommand_pwh
 pscommand_pwshrc-show-proxy
 pscommand_py
 pscommand_pyenv
@@ -7902,8 +7849,6 @@ psexec.exe
 psexpandline
 psfciv
 psfitbit
-psfive9
-psfive9admin
 psflurl
 psfoldersize
 psfunction__python3
@@ -8464,24 +8409,21 @@ psfunction_invoke-mavenpackage
 psfunction_invoke-mavenreleaseperform
 psfunction_invoke-mavenreleaseprepare
 psfunction_invoke-mavenreleaserollback
-psfunction_invoke-npmbinmungedpath
-psfunction_invoke-npminfo
-psfunction_invoke-npminit
-psfunction_invoke-npminstallforcefully
-psfunction_invoke-npminstallglobally
-psfunction_invoke-npminstallsave
-psfunction_invoke-npminstallsavedev
-psfunction_invoke-npmlist
-psfunction_invoke-npmlistdepth0
-psfunction_invoke-npmoutdated
-psfunction_invoke-npmpublish
-psfunction_invoke-npmrun
-psfunction_invoke-npmrundev
-psfunction_invoke-npmsearch
-psfunction_invoke-npmstart
-psfunction_invoke-npmtest
-psfunction_invoke-npmupdate
-psfunction_invoke-npmversion
+psfunction_invoke-pipenvcheck
+psfunction_invoke-pipenvclean
+psfunction_invoke-pipenvgraph
+psfunction_invoke-pipenvinstall
+psfunction_invoke-pipenvinstalldev
+psfunction_invoke-pipenvlock
+psfunction_invoke-pipenvopen
+psfunction_invoke-pipenvpy
+psfunction_invoke-pipenvrun
+psfunction_invoke-pipenvshell
+psfunction_invoke-pipenvsync
+psfunction_invoke-pipenvuninstall
+psfunction_invoke-pipenvupdate
+psfunction_invoke-pipenvvenv
+psfunction_invoke-pipenvwhere
 psfunction_invoke-pipinstall
 psfunction_invoke-pipinstallupgrade
 psfunction_invoke-piplistoutdated
@@ -9045,7 +8987,6 @@ pulseway
 pulumi
 punycode
 puppet
-puppetdb
 puppy
 pure
 pure1
@@ -9128,7 +9069,6 @@ quickbooks
 quicksetup
 quiz
 qumulo
-quota
 quote
 quotedprintable
 quoteoftheday
@@ -9193,6 +9133,7 @@ rdcman
 rdcmanager
 rdfe
 rdg
+rdl
 rdm
 rdp
 rdpsession
@@ -9236,8 +9177,6 @@ recursivefilesandfoldersdownload
 recursivefilesandfoldersupload
 recyclebin
 red
-redact
-redaction
 reddit
 redfield
 redfish
@@ -9262,7 +9201,6 @@ refeds
 refeds-mfa
 refedsmfa
 reference
-reflect
 reflection
 refresh
 refreshtoken
@@ -9376,7 +9314,6 @@ repositories
 repository
 request
 requestfiltering
-requiredmodules
 requirements
 res
 rescan
@@ -9421,7 +9358,6 @@ results
 resume
 retail
 retention
-retro
 retry
 returnuserprofile
 retype
@@ -9462,7 +9398,6 @@ ring
 ripe
 risk
 riskiq
-riskpro
 risksense
 rivermeadow
 rlan
@@ -9584,7 +9519,6 @@ samurai
 san
 sand
 sandbox
-sanitization
 sanitizer
 sap
 sapazure
@@ -9829,7 +9763,6 @@ server
 servercertificatevalidationcallback
 serverless
 servermanagement
-serverprotection
 servers
 service
 service-bus
@@ -10082,7 +10015,6 @@ soap
 soc
 soccer
 social
-social-media
 socialmedia
 socketlabs
 sockets
@@ -10097,7 +10029,6 @@ softwareupdatepoint
 softwareupdatepointcomponent
 solar
 solarigate
-solarized
 solarwinds
 solr
 soltra
@@ -10289,13 +10220,11 @@ stanc
 standard
 standarderror
 standardoutput
-standards
 standbypool
 stansummary
 start
 start-job
 start-jobthread
-start-threadjob
 startkey
 startmen
 startmenu
@@ -10359,7 +10288,6 @@ storedcredentials
 storefront
 storeonce
 storeserv
-strangeloop
 strava
 streak
 stream
@@ -10509,7 +10437,6 @@ system.text
 systemadmin
 systemadministration
 systemadministrator
-systemadmins
 systemcenter
 systemcolors
 systemconfiguration
@@ -10577,7 +10504,6 @@ tcg
 tcp
 tcp/ip
 tcpip
-tcpport
 tcprjmgmt
 tcpserver
 tcptest
@@ -10713,7 +10639,6 @@ thoughtfortheday
 thousandeyes
 thread
 threading
-threadjob
 threads
 threadsafe
 threadsanitizer
@@ -10724,8 +10649,6 @@ threathunting
 threatintelligence
 threatintelligenceindicators
 threatintelligenceplatform
-threatprotection
-threats
 threatsharing
 thumbprint
 thunderbird
@@ -10872,7 +10795,6 @@ trouw
 true-color
 truecrypt
 truenas
-trumethods
 truportal
 trusted
 trusted-host
@@ -10909,9 +10831,6 @@ twincat
 twinkly
 twitch
 twitter
-twitter-api
-twitter-api-v2
-twitter-client
 twitter-follow
 twitter-hashtag
 twitter-mention
@@ -10979,6 +10898,7 @@ ud-slider
 ud-speechbubble
 ud-step
 ud-stepbar
+ud-stickynavbar
 ud-tagcloud
 ud-timeline
 ud-timeout
@@ -11353,7 +11273,6 @@ vss
 vssetup
 vsshell
 vst
-vsteambuilder
 vsteams
 vstest
 vsts
@@ -11362,7 +11281,6 @@ vtt
 vue
 vulnerabilities
 vulnerability
-vulnerabilityassessment
 vulnerabilityscanning
 vum
 vvx
