@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Thursday, 18 September 2025 09:52:34 UTC
+Updated: Thursday, 18 September 2025 21:52:17 UTC
 
 .bat
 .env
@@ -97,6 +97,7 @@ accesscontroldsc
 accessgovernancecp
 accesspoint
 accessrights
+accesstoken
 accord
 accord.net
 accordian
@@ -211,6 +212,7 @@ admin
 admin-tools
 adminbyrequest
 admincenter
+admindirectory
 administration
 administrative
 administrativeunit
@@ -341,6 +343,7 @@ alto
 alwaysontop
 alwaysonvpn
 alz
+ama.alz
 amateur
 amateur-data-interchange-format
 amateur-radio
@@ -431,6 +434,7 @@ apmsynthetics
 apmtraces
 aportal
 app
+app-only
 app-v
 app-volumes
 app.config
@@ -445,7 +449,6 @@ appdeploytoolkit
 appdynamics
 appearance
 appender
-appexecutionalias
 appian
 appinsights
 applayering
@@ -464,7 +467,6 @@ applicationmonitor
 applications
 applicationworkspace
 applocker
-apply
 appmgmtcontrol
 apppool
 appraiser
@@ -748,7 +750,6 @@ azsk
 azsql
 azstackhci
 azstate
-azsubnet
 aztools
 azts
 azuead
@@ -1062,7 +1063,6 @@ britannica
 britannicaknowledgesystems
 british-gas
 brk4452
-broadcast
 broadcom
 broot
 brotli
@@ -1348,10 +1348,8 @@ clccontrol
 clccontrolapiv1
 clccontrolapiv2
 clean
-clean-up
 cleanmgr
 cleanup
-cleanup-orphans
 clear
 clear-history
 clearpass
@@ -1623,6 +1621,7 @@ connect-exchangeonprem
 connect-mstsc
 connect-rdp
 connect-remotedesktop
+connect-samcmsite
 connected
 connectedkubernetes
 connectedmachine
@@ -1708,6 +1707,7 @@ converttodocx
 converttohtml
 converttomarkdown
 converttomd
+conway
 cookie
 coolq
 cooltag1
@@ -1720,6 +1720,7 @@ copyfileex
 copypaste
 copyright
 core
+coreposh
 coreutils
 corona
 cortex
@@ -2069,10 +2070,10 @@ deflate
 deflate-compression
 defrag
 delegateaccesscontrol
+delegated
 delegation
 delegationmodel
 delete
-delete-orphan-branches
 deletefile
 deleteuserprofile
 delivery
@@ -2128,6 +2129,7 @@ devenv
 devexpress
 deviation
 device
+devicecode
 deviceid
 devicemanagement
 deviceprovisioningservice
@@ -2211,7 +2213,6 @@ discutils
 disk
 disk_to_disk
 disk-space
-diskcleanup
 diskfree
 diskimage
 diskpart
@@ -2741,7 +2742,6 @@ exec
 executable
 executables
 execute
-executionalias
 exexml
 exif
 exiftool
@@ -3122,6 +3122,7 @@ gainz-sqldb
 gal
 gallery
 game
+game-of-life
 gamecategory:cards
 games
 gameserver
@@ -3144,6 +3145,7 @@ gdap
 gdpr
 gdrive
 gedit
+gem
 gemini
 geminiprotocol
 gemlog
@@ -3152,8 +3154,6 @@ genai
 general
 generate
 generate-dockerimagevariants
-generate-password
-generate-random-password
 generateaddress
 generates
 generatewif
@@ -3214,6 +3214,8 @@ get-passivetrippoint
 get-passlist
 get-path
 get-pinneditem
+get-samcmassignedsite
+get-samcmcurrentmanagementpoint
 get-samplingperiod
 get-smtpcapabilities
 get-stalecomps
@@ -3354,7 +3356,6 @@ groundspeak
 group
 group-membership
 group-policy
-groupmanagement
 groupmembership
 grouppolicy
 groups
@@ -3742,6 +3743,7 @@ import-dtdriverpackpackagedefinitionsms
 import-module
 import-modulefrompath
 import-passlist
+import-sampackagedefinitionsms
 importer
 importexport
 importteams
@@ -4033,6 +4035,7 @@ jsonwebkey
 jsonwebsignature
 jsonwebtoken
 jsp
+jumbo
 jump
 jump-location
 jumpcloud
@@ -4188,6 +4191,7 @@ languageexperiencepack
 languagemodels
 languagepack
 lansweeper
+laplace
 laps
 laragon
 laserbeams
@@ -4247,6 +4251,8 @@ library
 libvirt
 licence
 license
+license-generator
+licenseautomation
 licensemanagement
 licensemanager
 licensereport
@@ -5009,7 +5015,6 @@ netcore
 netextender
 netfirewallrule
 netherlands
-netmask
 netpdf
 netpdfps
 nets
@@ -5057,6 +5062,8 @@ new-itemproperty
 new-modulemanifest
 new-pinneditem
 new-rdpsession
+new-samcmapplicationfrompackagedefinitionsms
+new-samcmpackagefrompackagedefinitionsms
 new-system
 new-udmorph
 new-win32app
@@ -5108,6 +5115,8 @@ nodejs
 nogit
 non-idiomatic
 non-volatile
+none
+noneimages
 noninteractive
 nopipelines
 noproxy
@@ -5323,6 +5332,7 @@ openhere
 openholidaysapi
 openid
 openidconnect
+openinghours
 openport
 openprovider
 openscad
@@ -5358,7 +5368,6 @@ optimize
 optimized
 optimizer
 option
-option119
 options
 optionstring
 opus
@@ -5470,6 +5479,7 @@ pages
 pagination
 paging
 palo
+paloalto
 paloaltonetworks
 pam
 pan
@@ -5599,7 +5609,6 @@ personal
 personalisation
 personalization
 personalvault
-personio
 pester
 pesterassertion
 pf
@@ -5761,7 +5770,6 @@ poshlog
 poshorigin
 poshproject
 poshprtg
-poshrest
 poshrsjob
 poshtemplate
 poshwsus
@@ -5790,6 +5798,7 @@ poshy-wrap-docker
 poshy-wrap-docker-compose
 poshy-wrap-dotnet
 poshy-wrap-forgit
+poshy-wrap-gem
 poshy-wrap-gh
 poshy-wrap-git
 poshy-wrap-git-flow
@@ -5938,6 +5947,7 @@ prefixing
 preparead
 preparealldomains
 prepareschema
+prepend
 preprocessing
 preprocessor
 prerequisites
@@ -6488,6 +6498,19 @@ pscommand_gdsth
 pscommand_gdstp
 pscommand_gdt
 pscommand_gdv
+pscommand_geca
+pscommand_gecb
+pscommand_geclup
+pscommand_gecr
+pscommand_gegi
+pscommand_geh
+pscommand_gei
+pscommand_geiall
+pscommand_gein
+pscommand_gel
+pscommand_geli
+pscommand_geo
+pscommand_geoe
 pscommand_get
 pscommand_get-aptinstalledpackages
 pscommand_get-childitemcolorfully
@@ -6555,6 +6578,7 @@ pscommand_get-netipaddresssimple
 pscommand_get-pwshaliasdefinition
 pscommand_get-pwshfunctiondefinition
 pscommand_get-viewer
+pscommand_geun
 pscommand_gexport
 pscommand_gf
 pscommand_gfa
@@ -6828,6 +6852,22 @@ pscommand_invoke-dockercomposeupdetached
 pscommand_invoke-dockercomposeupdetachedwithbuild
 pscommand_invoke-dockercomposeupnostart
 pscommand_invoke-dockercomposeupwithbuild
+pscommand_invoke-gemcertadd
+pscommand_invoke-gemcertbuild
+pscommand_invoke-gemcertremove
+pscommand_invoke-gemcleanupno
+pscommand_invoke-gemgenerateindex
+pscommand_invoke-gemhelp
+pscommand_invoke-geminfo
+pscommand_invoke-geminfoall
+pscommand_invoke-geminstall
+pscommand_invoke-gemlist
+pscommand_invoke-gemlock
+pscommand_invoke-gemopen
+pscommand_invoke-gemopeneditor
+pscommand_invoke-gemremovebypattern
+pscommand_invoke-gemsystem
+pscommand_invoke-gemuninstall
 pscommand_invoke-git
 pscommand_invoke-gitaddinteractivelypatch
 pscommand_invoke-gitbisect
@@ -7569,6 +7609,7 @@ pscommand_python3
 pscommand_rb
 pscommand_read-dotenv
 pscommand_register-argcompleteargumentcompleter
+pscommand_remove_gem
 pscommand_remove-dockercontainerall
 pscommand_remove-dockerunusedimage
 pscommand_remove-envpathitem
@@ -7628,6 +7669,7 @@ pscommand_set-locationup2
 pscommand_set-locationup3
 pscommand_set-locationup4
 pscommand_set-locationup5
+pscommand_sgem
 pscommand_show-gitremote
 pscommand_show-proxy
 pscommand_shttp
@@ -8225,6 +8267,22 @@ psfunction_invoke-dockercomposeupdetached
 psfunction_invoke-dockercomposeupdetachedwithbuild
 psfunction_invoke-dockercomposeupnostart
 psfunction_invoke-dockercomposeupwithbuild
+psfunction_invoke-gemcertadd
+psfunction_invoke-gemcertbuild
+psfunction_invoke-gemcertremove
+psfunction_invoke-gemcleanupno
+psfunction_invoke-gemgenerateindex
+psfunction_invoke-gemhelp
+psfunction_invoke-geminfo
+psfunction_invoke-geminfoall
+psfunction_invoke-geminstall
+psfunction_invoke-gemlist
+psfunction_invoke-gemlock
+psfunction_invoke-gemopen
+psfunction_invoke-gemopeneditor
+psfunction_invoke-gemremovebypattern
+psfunction_invoke-gemsystem
+psfunction_invoke-gemuninstall
 psfunction_invoke-git
 psfunction_invoke-gitaddinteractivelypatch
 psfunction_invoke-gitbisect
@@ -8949,7 +9007,6 @@ psngenposh
 psobject
 psoutlog
 pspath
-pspersonio
 pspowerhour
 psprofiler
 psproject
@@ -9141,7 +9198,6 @@ ram-it
 random
 random-date
 random-password
-random-password-generator
 randompassword
 randomuser
 randomusers
@@ -9229,7 +9285,10 @@ redfish
 redforest
 redgate
 redirect
+redirecting
 redirects
+redirectstandarderror
+redirectstandardoutput
 redis
 redisenterprisecache
 redistributables
@@ -9247,6 +9306,7 @@ reference
 reflect
 reflection
 refresh
+refreshtoken
 reg
 reg_binary
 reg_dword
@@ -9333,7 +9393,6 @@ rename-gitbranch
 reonboarding
 repair
 repair-msauth
-reparse
 reparsepoint
 repeat
 repl
@@ -9393,6 +9452,7 @@ rest_cherrypy
 rest-api
 restapi
 restart
+restaurant
 restful
 restore
 restrictive
@@ -9598,7 +9658,10 @@ scatter
 scb
 scc
 sccm
+sccmam
+sccmapplication
 sccminstall
+sccmpackage
 sccmprereqs
 scep
 scepman
@@ -9622,7 +9685,6 @@ school-information-system
 schoolholidays
 schulverwaltung
 science
-scim
 scissors
 scm
 scmanager
@@ -9694,7 +9756,6 @@ searchmanager
 searchplace
 searchquery
 searchstring
-searchsuffixlist
 secaas
 secedit
 secret
@@ -9765,6 +9826,7 @@ selfhelp
 selfsigned
 semantic
 semantic-versioning
+semaphore
 semver
 senat
 senateur
@@ -10298,6 +10360,7 @@ statuscode
 statusmonitor
 statusreportingcomponent
 staytus
+stderr
 stdio
 stdout
 steam
@@ -10377,7 +10440,6 @@ subnet
 subnet-calculator
 subnetcalculator
 subnetcalulator
-subnetdetails
 subnetmapping
 subnetmask
 subnetmaths
@@ -10404,6 +10466,7 @@ summit
 sumologic
 supercell
 superheros
+supermarket
 support
 support-tool
 support-tools
@@ -10545,11 +10608,11 @@ tasks
 tasksbyme
 taskscheduler
 tatux
+tauricraft
 taxjar
 taxonomy
 tcg
 tcp
-tcp/ip
 tcpip
 tcpport
 tcprjmgmt
@@ -10626,6 +10689,8 @@ test-modulemanifest
 test-modulepath
 test-osplatform
 test-psremoting
+test-samcmapplicationexists
+test-samcmpackageexists
 test-userisadministrator
 test-xml
 test123
@@ -10942,6 +11007,7 @@ ud-progressstepbar
 ud-rangeslider
 ud-readingbar
 ud-scrollspy
+ud-selectdatetime
 ud-selector
 ud-signature
 ud-simpledrawer
@@ -11493,6 +11559,7 @@ wif
 wifi
 wiki
 wildcard
+wildfire
 wildfly
 wim
 wim2vhd
@@ -11549,7 +11616,6 @@ windowsdefender
 windowsdesktop
 windowsdesktopsearch
 windowsdirectories
-windowsdiskcleanup
 windowsdomain
 windowsevent
 windowseventlog
@@ -11813,7 +11879,6 @@ zip
 zip-compression
 zipfile-transform
 zisson
-zivver
 zlib
 zlib-compression
 zoho

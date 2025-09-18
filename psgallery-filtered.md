@@ -3,6 +3,246 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [DailyBackup](https://www.powershellgallery.com/Packages/DailyBackup/1.8.2) | 1.8.2
+
+### Published: 09/18/2025 21:38:26 by Jon LaBelle
+
+Complete backup and restore solution with automated daily backups, intelligent file handling, and flexible restoration options.
+
+__Downloads__: 193 | __Repository__: https://github.com/jonlabelle/pwsh-daily-backup
+
+## [PSTcpIp](https://www.powershellgallery.com/Packages/PSTcpIp/7.8.0) | 7.8.0
+
+### Published: 09/18/2025 20:51:17 by Anthony Guimelli
+
+Provides cmdlets to perform various TCPIP and TLS/SSL related tasks.
+
+__Downloads__: 18,150 | __Repository__: https://github.com/anthonyg-1/PSTcpIp
+
+## [AZSBTools](https://www.powershellgallery.com/Packages/AZSBTools/1.273.101) | 1.273.101
+
+### Published: 09/18/2025 20:14:01 by Sam Boutros
+
+PowerShell module containing several Azure tools by Sam Boutros
+
+__Downloads__: 58,091 | __Repository__: https://superwidgets.wordpress.com/
+
+## [InvokeBuild](https://www.powershellgallery.com/Packages/InvokeBuild/5.14.19) | 5.14.19
+
+### Published: 09/18/2025 20:04:46 by Roman Kuzmin
+
+Build and test automation in PowerShell
+
+__Downloads__: 2,509,659 | __Repository__: https://github.com/nightroman/Invoke-Build
+
+## [Office365-Scoutnet-synk](https://www.powershellgallery.com/Packages/Office365-Scoutnet-synk/2.0.6) | 2.0.6
+
+### Published: 09/18/2025 19:59:12 by Karl Thorén <karl.thoren@scouterna.se>
+
+Funktioner för att synkronisera Scoutnet med Office 365.
+
+__Downloads__: 449 | __Repository__: https://github.com/Scouterna/Office365-Scoutnet-synk
+
+## [ScriptMessage](https://www.powershellgallery.com/Packages/ScriptMessage/1.0.8) | 1.0.8
+
+### Published: 09/18/2025 19:39:02 by Michael Panagos
+
+PowerShell Module to Connect Scripts to Messaging Services (Email, Chat, etc.)
+
+__Downloads__: 200 | __Repository__: https://github.com/Sekers/ScriptMessage
+
+## [WindmillClient](https://www.powershellgallery.com/Packages/WindmillClient/1.544.2) | 1.544.2
+
+### Published: 09/18/2025 18:11:54 by Windmill Labs
+
+Client for the Windmill platform.
+
+__Downloads__: 8,306 | __Repository__: https://github.com/windmill-labs/windmill/tree/main/powershell-client
+
+## [GitlabCli](https://www.powershellgallery.com/Packages/GitlabCli/1.136.1) | 1.136.1
+
+### Published: 09/18/2025 17:28:22 by Chris Peterson
+
+Interact with GitLab via PowerShell
+
+__Downloads__: 26,874 | __Repository__: https://github.com/chris-peterson/pwsh-gitlab
+
+## [OSD](https://www.powershellgallery.com/Packages/OSD/25.9.18.3) | 25.9.18.3
+
+### Published: 09/18/2025 17:09:03 by David Segura . Gary Blok . Michael Escamilla
+
+OSD PowerShell Module for Windows Deployment
+
+__Downloads__: 4,958,570 | __Repository__: https://github.com/OSDeploy/OSD
+
+## [AppVeyorTestPsGallery](https://www.powershellgallery.com/Packages/AppVeyorTestPsGallery/1.0.666) | 1.0.666
+
+### Published: 09/18/2025 16:04:24 by Feodor Fitsner
+
+The test module to verify publishing to PSGallery from AppVeyor.
+
+__Downloads__: 43,522 | __Repository__: 
+
+## [EntraIdDSC](https://www.powershellgallery.com/Packages/EntraIdDSC/0.5.0) | 0.5.0
+
+### Published: 09/18/2025 14:47:43 by Remco Vermeer
+
+This module contains functions to maintain EntraId Groups and Users (limited fields) in Desired State.
+
+__Downloads__: 54 | __Repository__: https://github.com/AzureStackNerd/EntraIdDSC/
+
+## [VCF.JSONGenerator](https://www.powershellgallery.com/Packages/VCF.JSONGenerator/9.0.0.1008) | 9.0.0.1008
+
+### Published: 09/18/2025 14:08:04 by Ken Gould
+
+PowerShell Module for Generation of VMware Cloud Foundation JSON Files
+
+__Downloads__: 180 | __Repository__: 
+
+## [Eryph.ComputeClient](https://www.powershellgallery.com/Packages/Eryph.ComputeClient/0.14.0) | 0.14.0
+
+### Published: 09/18/2025 13:48:37 by dbosoft GmbH and eryph contributors
+
+Cmdlets for the eryph compute API.
+
+__Downloads__: 1,629 | __Repository__: https://github.com/eryph-org/dotnet-computeclient
+
+## [Eryph.IdentityClient](https://www.powershellgallery.com/Packages/Eryph.IdentityClient/0.9.0) | 0.9.0
+
+### Published: 09/18/2025 13:45:22 by dbosoft GmbH and eryph contributors
+
+Cmdlets for the eryph Identity API.
+
+__Downloads__: 1,259 | __Repository__: https://github.com/eryph-org/dotnet-identityclient
+
+## [Fortytwo.Collections.Criteria](https://www.powershellgallery.com/Packages/Fortytwo.Collections.Criteria/1.11.1) | 1.11.1
+
+### Published: 09/18/2025 13:39:27 by Fortytwo
+
+Client for the Fortytwo Galaxy Collections Criteria API, which allows you to create and manage collection criteria for various applications and services.
+
+__Downloads__: 0 | __Repository__: 
+
+## [Eryph.ClientRuntime.Configuration](https://www.powershellgallery.com/Packages/Eryph.ClientRuntime.Configuration/0.9.0) | 0.9.0
+
+### Published: 09/18/2025 13:27:03 by dbosoft GmbH and eryph contributors
+
+Configuration Cmdlets for eryph. These Cmdlets allows you to manage your clients, credentials and endpoints for eryph.
+
+__Downloads__: 1,931 | __Repository__: https://github.com/eryph-org/dotnet-clientruntime
+
+## [ZertoAVSModule](https://www.powershellgallery.com/Packages/ZertoAVSModule/3.8.12) | 3.8.12
+
+### Published: 09/18/2025 12:42:25 by Zerto
+
+Zerto AVS solution package
+
+__Downloads__: 3,096 | __Repository__: https://help.zerto.com/category/AVS
+
+## [FoundationaLLM.Core](https://www.powershellgallery.com/Packages/FoundationaLLM.Core/0.0.18) | 0.0.18
+
+### Published: 09/18/2025 11:03:48 by ciprian@foundationallm.ai
+
+Provides core functionality for FoundationaLLM, including package deployment and management.
+
+__Downloads__: 140 | __Repository__: 
+
+## [GenXdev](https://www.powershellgallery.com/Packages/GenXdev/1.276.2025) | 1.276.2025
+
+### Published: 09/18/2025 10:14:40 by René Vaessen
+
+GenXdev PowerShell Utilities and helpers
+
+__Downloads__: 661 | __Repository__: https://powershell.genxdev.net/
+
+## [GenXdev.Media](https://www.powershellgallery.com/Packages/GenXdev.Media/1.276.2025) | 1.276.2025
+
+### Published: 09/18/2025 10:13:32 by genXdev
+
+A Windows PowerShell module that helps with converting media files like pictures and video files.
+
+__Downloads__: 199 | __Repository__: https://powershell.genxdev.net/#GenXdev.Media
+
+## [GenXdev.Coding](https://www.powershellgallery.com/Packages/GenXdev.Coding/1.276.2025) | 1.276.2025
+
+### Published: 09/18/2025 10:12:26 by genXdev
+
+A Windows PowerShell module that helps being more productive with coding tasks.
+
+__Downloads__: 515 | __Repository__: https://powershell.genxdev.net/#GenXdev.Coding
+
+## [GenXdev.AI](https://www.powershellgallery.com/Packages/GenXdev.AI/1.276.2025) | 1.276.2025
+
+### Published: 09/18/2025 10:11:17 by genXdev
+
+A Windows PowerShell module for local AI related operations
+
+__Downloads__: 809 | __Repository__: https://powershell.genxdev.net/#GenXdev.AI
+
+## [GenXdev.Queries](https://www.powershellgallery.com/Packages/GenXdev.Queries/1.276.2025) | 1.276.2025
+
+### Published: 09/18/2025 10:10:06 by genXdev
+
+A Windows PowerShell module for finding resources and information on the internet
+
+__Downloads__: 1,704 | __Repository__: https://powershell.genxdev.net/#GenXdev.Queries
+
+## [GenXdev.Console](https://www.powershellgallery.com/Packages/GenXdev.Console/1.276.2025) | 1.276.2025
+
+### Published: 09/18/2025 10:08:58 by genXdev
+
+A Windows PowerShell module for enhancing the commandline experience
+
+__Downloads__: 1,668 | __Repository__: https://powershell.genxdev.net/#GenXdev.Console
+
+## [GenXdev.Webbrowser](https://www.powershellgallery.com/Packages/GenXdev.Webbrowser/1.276.2025) | 1.276.2025
+
+### Published: 09/18/2025 10:07:48 by genXdev
+
+A Windows PowerShell module that allows you to run scripts against your casual desktop webbrowser-tab
+
+__Downloads__: 9,441 | __Repository__: https://powershell.genxdev.net/#GenXdev.Webbrowser
+
+## [GenXdev.Windows](https://www.powershellgallery.com/Packages/GenXdev.Windows/1.276.2025) | 1.276.2025
+
+### Published: 09/18/2025 10:06:40 by genXdev
+
+A Windows PowerShell module that provides UI Windows manipulation helpers
+
+__Downloads__: 9,266 | __Repository__: https://powershell.genxdev.net/#GenXdev.Windows
+
+## [GenXdev.Data](https://www.powershellgallery.com/Packages/GenXdev.Data/1.276.2025) | 1.276.2025
+
+### Published: 09/18/2025 10:05:30 by genXdev
+
+A Windows PowerShell module with helpers for working with data and databases
+
+__Downloads__: 980 | __Repository__: https://powershell.genxdev.net/#GenXdev.Data
+
+## [GenXdev.Helpers](https://www.powershellgallery.com/Packages/GenXdev.Helpers/1.276.2025) | 1.276.2025
+
+### Published: 09/18/2025 10:04:18 by genXdev
+
+A Windows PowerShell module with helpers mostly used by other GenXdev modules
+
+__Downloads__: 9,726 | __Repository__: https://powershell.genxdev.net/#GenXdev.Helpers
+
+## [GenXdev.FileSystem](https://www.powershellgallery.com/Packages/GenXdev.FileSystem/1.276.2025) | 1.276.2025
+
+### Published: 09/18/2025 10:03:04 by genXdev
+
+A Windows PowerShell module for basic and advanced file management tasks
+
+__Downloads__: 9,830 | __Repository__: https://powershell.genxdev.net/#GenXdev.FileSystem
+
+## [CmdFav](https://www.powershellgallery.com/Packages/CmdFav/3.1.0) | 3.1.0
+
+### Published: 09/18/2025 10:00:38 by Sascha Spiekermann
+
+CmdFav is a PowerShell module for storing, organizing, and reusing your favorite commands and code snippets. It supports multiple repositories, external editor integration, automatic formatting, and backup functionality. Ideal for building a personal or team snippet library.
+
+__Downloads__: 471 | __Repository__: https://github.com/Callidus2000/CmdFav/
+
 ## [Fortytwo.CheckID.PasswordAgent](https://www.powershellgallery.com/Packages/Fortytwo.CheckID.PasswordAgent/1.0.1) | 1.0.1
 
 ### Published: 09/18/2025 09:27:30 by Marius Solbakken Mellum
@@ -25,15 +265,7 @@ __Downloads__: 0 | __Repository__:
 
 A module for simplifying the process of getting an access token from Entra ID
 
-__Downloads__: 2 | __Repository__: 
-
-## [Fortytwo.Galaxy.Collections.Criteria](https://www.powershellgallery.com/Packages/Fortytwo.Galaxy.Collections.Criteria/1.10.0) | 1.10.0
-
-### Published: 09/18/2025 07:51:43 by Fortytwo
-
-Client for the Fortytwo Galaxy Collections Criteria API, which allows you to create and manage collection criteria for various applications and services.
-
-__Downloads__: 50 | __Repository__: 
+__Downloads__: 0 | __Repository__: 
 
 ## [CosmosLite](https://www.powershellgallery.com/Packages/CosmosLite/3.1.1) | 3.1.1
 
@@ -65,7 +297,7 @@ __Downloads__: 13,580 | __Repository__: https://github.com/PSModule/GoogleFonts
 
 MOC Module
 
-__Downloads__: 1,707,789 | __Repository__: 
+__Downloads__: 1,707,763 | __Repository__: 
 
 ## [Kva](https://www.powershellgallery.com/Packages/Kva/1.1.31) | 1.1.31
 
@@ -74,30 +306,6 @@ __Downloads__: 1,707,789 | __Repository__:
 KVA Module
 
 __Downloads__: 1,088,373 | __Repository__: 
-
-## [AksHci](https://www.powershellgallery.com/Packages/AksHci/1.2.38) | 1.2.38
-
-### Published: 09/18/2025 05:40:48 by nwood
-
-AKS HCI Module
-
-__Downloads__: 1,087,814 | __Repository__: 
-
-## [OSD](https://www.powershellgallery.com/Packages/OSD/25.9.18.1) | 25.9.18.1
-
-### Published: 09/18/2025 05:07:45 by David Segura . Gary Blok . Michael Escamilla
-
-OSD PowerShell Module for Windows Deployment
-
-__Downloads__: 4,958,570 | __Repository__: https://github.com/OSDeploy/OSD
-
-## [DailyBackup](https://www.powershellgallery.com/Packages/DailyBackup/1.8.1) | 1.8.1
-
-### Published: 09/18/2025 03:14:25 by Jon LaBelle
-
-Complete backup and restore solution with automated daily backups, intelligent file handling, and flexible restoration options.
-
-__Downloads__: 193 | __Repository__: https://github.com/jonlabelle/pwsh-daily-backup
 
 ## [PSCsvSQLiteORM](https://www.powershellgallery.com/Packages/PSCsvSQLiteORM/3.1.3) | 3.1.3
 
@@ -189,21 +397,13 @@ This module hosts common functions used for various processes
 
 __Downloads__: 132 | __Repository__: 
 
-## [EntraIdDSC](https://www.powershellgallery.com/Packages/EntraIdDSC/0.3.0) | 0.3.0
-
-### Published: 09/17/2025 15:10:42 by Remco Vermeer
-
-This module contains functions to maintain EntraId Groups and Users (limited fields) in Desired State.
-
-__Downloads__: 54 | __Repository__: https://github.com/AzureStackNerd/EntraIdDSC/
-
 ## [EasyPIM](https://www.powershellgallery.com/Packages/EasyPIM/2.0.27) | 2.0.27
 
 ### Published: 09/17/2025 14:44:42 by Loïc MICHEL
 
 Manage PIM Azure Resource, PIM Entra role and PIM for Group settings and assignments with simplicity in mind
 
-__Downloads__: 53,353 | __Repository__: https://github.com/kayasax/EasyPIM/
+__Downloads__: 53,354 | __Repository__: https://github.com/kayasax/EasyPIM/
 
 ## [Particular.ServiceControl.Management](https://www.powershellgallery.com/Packages/Particular.ServiceControl.Management/6.7.3) | 6.7.3
 
@@ -259,7 +459,7 @@ __Downloads__: 11 | __Repository__: https://hsho.me/
 
 A PowerShell module to interact with GitHub, both interactively and via automation.
 
-__Downloads__: 417,980 | __Repository__: https://github.com/PSModule/GitHub
+__Downloads__: 417,981 | __Repository__: https://github.com/PSModule/GitHub
 
 ## [PowerShell.MCP](https://www.powershellgallery.com/Packages/PowerShell.MCP/1.2.0) | 1.2.0
 
@@ -276,94 +476,6 @@ __Downloads__: 187 | __Repository__: https://github.com/yotsuda/PowerShell.MCP
 Provides different cmdlets for automating Microsoft 365 and related services.
 
 __Downloads__: 1,623 | __Repository__: 
-
-## [GenXdev](https://www.powershellgallery.com/Packages/GenXdev/1.274.2025) | 1.274.2025
-
-### Published: 09/17/2025 07:57:10 by René Vaessen
-
-GenXdev PowerShell Utilities and helpers
-
-__Downloads__: 661 | __Repository__: https://powershell.genxdev.net/
-
-## [GenXdev.Media](https://www.powershellgallery.com/Packages/GenXdev.Media/1.274.2025) | 1.274.2025
-
-### Published: 09/17/2025 07:56:02 by genXdev
-
-A Windows PowerShell module that helps with converting media files like pictures and video files.
-
-__Downloads__: 199 | __Repository__: https://powershell.genxdev.net/#GenXdev.Media
-
-## [GenXdev.Coding](https://www.powershellgallery.com/Packages/GenXdev.Coding/1.274.2025) | 1.274.2025
-
-### Published: 09/17/2025 07:53:31 by genXdev
-
-A Windows PowerShell module that helps being more productive with coding tasks.
-
-__Downloads__: 515 | __Repository__: https://powershell.genxdev.net/#GenXdev.Coding
-
-## [GenXdev.AI](https://www.powershellgallery.com/Packages/GenXdev.AI/1.274.2025) | 1.274.2025
-
-### Published: 09/17/2025 07:52:23 by genXdev
-
-A Windows PowerShell module for local AI related operations
-
-__Downloads__: 809 | __Repository__: https://powershell.genxdev.net/#GenXdev.AI
-
-## [GenXdev.Queries](https://www.powershellgallery.com/Packages/GenXdev.Queries/1.274.2025) | 1.274.2025
-
-### Published: 09/17/2025 07:51:13 by genXdev
-
-A Windows PowerShell module for finding resources and information on the internet
-
-__Downloads__: 1,704 | __Repository__: https://powershell.genxdev.net/#GenXdev.Queries
-
-## [GenXdev.Console](https://www.powershellgallery.com/Packages/GenXdev.Console/1.274.2025) | 1.274.2025
-
-### Published: 09/17/2025 07:50:04 by genXdev
-
-A Windows PowerShell module for enhancing the commandline experience
-
-__Downloads__: 1,668 | __Repository__: https://powershell.genxdev.net/#GenXdev.Console
-
-## [GenXdev.Webbrowser](https://www.powershellgallery.com/Packages/GenXdev.Webbrowser/1.274.2025) | 1.274.2025
-
-### Published: 09/17/2025 07:48:52 by genXdev
-
-A Windows PowerShell module that allows you to run scripts against your casual desktop webbrowser-tab
-
-__Downloads__: 9,441 | __Repository__: https://powershell.genxdev.net/#GenXdev.Webbrowser
-
-## [GenXdev.Windows](https://www.powershellgallery.com/Packages/GenXdev.Windows/1.274.2025) | 1.274.2025
-
-### Published: 09/17/2025 07:47:43 by genXdev
-
-A Windows PowerShell module that provides UI Windows manipulation helpers
-
-__Downloads__: 9,266 | __Repository__: https://powershell.genxdev.net/#GenXdev.Windows
-
-## [GenXdev.Data](https://www.powershellgallery.com/Packages/GenXdev.Data/1.274.2025) | 1.274.2025
-
-### Published: 09/17/2025 07:46:33 by genXdev
-
-A Windows PowerShell module with helpers for working with data and databases
-
-__Downloads__: 980 | __Repository__: https://powershell.genxdev.net/#GenXdev.Data
-
-## [GenXdev.Helpers](https://www.powershellgallery.com/Packages/GenXdev.Helpers/1.274.2025) | 1.274.2025
-
-### Published: 09/17/2025 07:45:23 by genXdev
-
-A Windows PowerShell module with helpers mostly used by other GenXdev modules
-
-__Downloads__: 9,726 | __Repository__: https://powershell.genxdev.net/#GenXdev.Helpers
-
-## [GenXdev.FileSystem](https://www.powershellgallery.com/Packages/GenXdev.FileSystem/1.274.2025) | 1.274.2025
-
-### Published: 09/17/2025 07:44:09 by genXdev
-
-A Windows PowerShell module for basic and advanced file management tasks
-
-__Downloads__: 9,830 | __Repository__: https://powershell.genxdev.net/#GenXdev.FileSystem
 
 ## [UncommonSense.Nrc](https://www.powershellgallery.com/Packages/UncommonSense.Nrc/0.1.0.36) | 0.1.0.36
 
@@ -1726,14 +1838,6 @@ Gets Windows patch release information (Version, Build, Availability date, Hotpa
 
 __Downloads__: 290,136 | __Repository__: https://github.com/AshleyHow/WindowsOSBuild
 
-## [GitlabCli](https://www.powershellgallery.com/Packages/GitlabCli/1.136.0) | 1.136.0
-
-### Published: 09/16/2025 19:08:47 by Chris Peterson
-
-Interact with GitLab via PowerShell
-
-__Downloads__: 26,874 | __Repository__: https://github.com/chris-peterson/pwsh-gitlab
-
 ## [IntegrisWindowsUpdate](https://www.powershellgallery.com/Packages/IntegrisWindowsUpdate/1.2.10) | 1.2.10
 
 ### Published: 09/16/2025 17:10:53 by David McVicker
@@ -1786,6 +1890,14 @@ A completion manager for better and simpler use PowerShell completions.
   - Gitee:   https://gitee.com/abgox/PSCompletions
 
 __Downloads__: 81,072 | __Repository__: https://pscompletions.abgox.com/
+
+## [WinUIShell](https://www.powershellgallery.com/Packages/WinUIShell/0.9.0) | 0.9.0
+
+### Published: 09/16/2025 11:18:34 by mdgrs-mei
+
+Scripting WinUI 3 with PowerShell
+
+__Downloads__: 787 | __Repository__: https://github.com/mdgrs-mei/WinUIShell
 
 ## [RealmJoin](https://www.powershellgallery.com/Packages/RealmJoin/1.0.0) | 1.0.0
 
@@ -1939,116 +2051,4 @@ Functions for Active Directory
 
 __Downloads__: 195,004 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
-## [Forthencho](https://www.powershellgallery.com/Packages/Forthencho/0.0.19) | 0.0.19
-
-### Published: 09/15/2025 20:27:41 by Everett Williams
-
-This is a test module
-
-__Downloads__: 116 | __Repository__: 
-
-## [AOVPNTools](https://www.powershellgallery.com/Packages/AOVPNTools/1.9.8) | 1.9.8
-
-### Published: 09/15/2025 20:19:36 by Richard M. Hicks
-
-PowerShell module for configuring, optimizing, and troubleshooting Windows Server Routing and Remote Access Service (RRAS) for Always On VPN.
-
-__Downloads__: 32,638 | __Repository__: https://github.com/richardhicks/aovpntools
-
-## [RSCReporting](https://www.powershellgallery.com/Packages/RSCReporting/1.1.9) | 1.1.9
-
-### Published: 09/15/2025 19:07:05 by Joshua Stenhouse
-
-A module for reporting and interacting with your Rubrik Security Cloud instance
-
-__Downloads__: 867 | __Repository__: https://github.com/joshuastenhouse/rscreporting
-
-## [TMConsole.Provider.Zerto](https://www.powershellgallery.com/Packages/TMConsole.Provider.Zerto/1.3.1) | 1.3.1
-
-### Published: 09/15/2025 18:56:17 by TransitionManager
-
-Zerto REST API Powershell Wrapping module
-
-__Downloads__: 162 | __Repository__: https://www.transitionmanager.net/
-
-## [PSCommonCore](https://www.powershellgallery.com/Packages/PSCommonCore/1.5.1309.2511) | 1.5.1309.2511
-
-### Published: 09/15/2025 18:55:47 by Gary Cook
-
-Core Functions used by my scripts
-
-__Downloads__: 1,307 | __Repository__: 
-
-## [SdnDiagnostics](https://www.powershellgallery.com/Packages/SdnDiagnostics/4.2509.15.1832) | 4.2509.15.1832
-
-### Published: 09/15/2025 18:51:51 by Adam Rudell Luyao Feng
-
-SdnDiagnostics is a tool used to simplify the data collection and diagnostics of Windows Software Defined Networking.
-
-__Downloads__: 165,477 | __Repository__: https://github.com/microsoft/SdnDiagnostics
-
-## [WindmillClient](https://www.powershellgallery.com/Packages/WindmillClient/1.543.0) | 1.543.0
-
-### Published: 09/15/2025 17:42:51 by Windmill Labs
-
-Client for the Windmill platform.
-
-__Downloads__: 8,306 | __Repository__: https://github.com/windmill-labs/windmill/tree/main/powershell-client
-
-## [dbatools](https://www.powershellgallery.com/Packages/dbatools/2.7.5) | 2.7.5
-
-### Published: 09/15/2025 15:51:53 by the dbatools team
-
-The community module that enables SQL Server Pros to automate database development and server administration
-
-__Downloads__: 7,244,701 | __Repository__: https://dbatools.io/
-
-## [UGDSB.PS.Topdesk](https://www.powershellgallery.com/Packages/UGDSB.PS.Topdesk/0.2.0) | 0.2.0
-
-### Published: 09/15/2025 14:46:51 by Jeremy Putman
-
-This bundles together functions related to powershell functions use for UGDSB Topdesk Automations
-
-__Downloads__: 27 | __Repository__: 
-
-## [safeguard-devops](https://www.powershellgallery.com/Packages/safeguard-devops/8.2.323851) | 8.2.323851
-
-### Published: 09/15/2025 11:46:35 by petrsnd
-
-Scripting tools for interacting with the One Identity Safeguard Secrets Broker for DevOps.
-
-__Downloads__: 2,590 | __Repository__: https://github.com/OneIdentity/SafeguardDevOpsService
-
-## [CAREPORT](https://www.powershellgallery.com/Packages/CAREPORT/1.0.2) | 1.0.2
-
-### Published: 09/15/2025 11:44:31 by JanMulder
-
-Exporteert Microsoft 365 Conditional Access policies en genereert een uitgebreid Zero Trust compliance rapport met moderne OAuth authenticatie.
-
-__Downloads__: 41 | __Repository__: 
-
-## [UncommonSense.AL.Meta](https://www.powershellgallery.com/Packages/UncommonSense.AL.Meta/1.0.1.0) | 1.0.1.0
-
-### Published: 09/15/2025 08:57:35 by Jan Hoek
-
-PowerShell cmdlets for retrieving meta information about AL constructs
-
-__Downloads__: 24 | __Repository__: https://github.com/jhoek/UncommonSense.AL.Meta
-
-## [SEPPmail365cloud](https://www.powershellgallery.com/Packages/SEPPmail365cloud/2.0.4) | 2.0.4
-
-### Published: 09/15/2025 06:17:47 by SEPPmail Dev-Team
-
-Integrate and maintain Exchange Online with SEPPmail.Cloud
-
-__Downloads__: 18,851 | __Repository__: https://github.com/SEPPmail/SEPPmail365cloud
-
-## [psPAS](https://www.powershellgallery.com/Packages/psPAS/7.0.232) | 7.0.232
-
-### Published: 09/15/2025 03:27:40 by Pete Maan
-
-Module for CyberArk Privileged Access Security Web Service REST API
-
-__Downloads__: 183,690 | __Repository__: https://pspas.pspete.dev/
-
-*Updated: Thursday, 18 September 2025 09:52:25 UTC*
+*Updated: Thursday, 18 September 2025 21:52:08 UTC*
