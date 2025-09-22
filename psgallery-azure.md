@@ -3,6 +3,14 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org) that are Azure-related. This includes modules published by Microsoft and the community. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [SixPivot.Azure](https://www.powershellgallery.com/Packages/SixPivot.Azure/1.0.50) | 1.0.50
+
+### Published: 09/22/2025 04:00:08 by David Gardiner
+
+Azure cmdlets created by SixPivot
+
+__Downloads__: 1,704 | __Repository__: https://github.com/SixPivot/sixpivot-azure-powershell-module
+
 ## [AzureDevOpsApi](https://www.powershellgallery.com/Packages/AzureDevOpsApi/0.2.5) | 0.2.5
 
 ### Published: 09/19/2025 18:14:37 by Michal Mračka
@@ -10,7 +18,7 @@ These are the latest 250 modules published to the [PowerShell Gallery](https://p
 Provides functionality to interact with the Azure DevOps REST APIs.
 It allows querying work items and creating release notes.
 
-__Downloads__: 19 | __Repository__: https://github.com/mm6502/AzureDevOpsApi/wiki/Azure-DevOps-Api-Powershell-Module
+__Downloads__: 20 | __Repository__: https://github.com/mm6502/AzureDevOpsApi/wiki/Azure-DevOps-Api-Powershell-Module
 
 ## [AzureAutomationAuthoringLocal](https://www.powershellgallery.com/Packages/AzureAutomationAuthoringLocal/1.0.0) | 1.0.0
 
@@ -18,7 +26,7 @@ __Downloads__: 19 | __Repository__: https://github.com/mm6502/AzureDevOpsApi/wik
 
 Modernized toolkit for local Azure Automation runbook authoring
 
-__Downloads__: 10 | __Repository__: 
+__Downloads__: 11 | __Repository__: 
 
 ## [AzureDevOpsHelperModule](https://www.powershellgallery.com/Packages/AzureDevOpsHelperModule/1.0.1) | 1.0.1
 
@@ -26,7 +34,7 @@ __Downloads__: 10 | __Repository__:
 
 This module has been frozen and will no longer receive updates. Please switch to AzureDevOpsHelperModule.
 
-__Downloads__: 10 | __Repository__: https://github.com/Panzerbjrn/AzureDevOpsHelperModule
+__Downloads__: 11 | __Repository__: https://github.com/Panzerbjrn/AzureDevOpsHelperModule
 
 ## [AzureFunctions.PowerShell.Durable.SDK](https://www.powershellgallery.com/Packages/AzureFunctions.PowerShell.Durable.SDK/2.1.0) | 2.1.0
 
@@ -34,7 +42,7 @@ __Downloads__: 10 | __Repository__: https://github.com/Panzerbjrn/AzureDevOpsHel
 
 Durable Functions SDK for PowerShell. This package is to be used exclusively with the Azure Functions PowerShell worker.
 
-__Downloads__: 49,950 | __Repository__: https://github.com/Azure/azure-functions-durable-powershell
+__Downloads__: 50,109 | __Repository__: https://github.com/Azure/azure-functions-durable-powershell
 
 ## [AzureFunctions.PowerShell.OpenTelemetry.SDK](https://www.powershellgallery.com/Packages/AzureFunctions.PowerShell.OpenTelemetry.SDK/2.0.0) | 2.0.0
 
@@ -42,7 +50,7 @@ __Downloads__: 49,950 | __Repository__: https://github.com/Azure/azure-functions
 
 This module contains utilities for instrumenting Azure Functions written in PowerShell with OpenTelemetry and it is to be used within the PowerShell language worker
 
-__Downloads__: 770 | __Repository__: 
+__Downloads__: 771 | __Repository__: 
 
 ## [AzureResourceInventory](https://www.powershellgallery.com/Packages/AzureResourceInventory/3.6.10) | 3.6.10
 
@@ -50,7 +58,7 @@ __Downloads__: 770 | __Repository__:
 
 Azure Resource Inventory - Its a Powerful tool to create EXCEL inventory from Azure Resources with low effort
 
-__Downloads__: 62,939 | __Repository__: https://github.com/microsoft/ARI
+__Downloads__: 62,957 | __Repository__: https://github.com/microsoft/ARI
 
 ## [PSEasy.AzureDevOps](https://www.powershellgallery.com/Packages/PSEasy.AzureDevOps/1.0.1) | 1.0.1
 
@@ -59,6 +67,14 @@ __Downloads__: 62,939 | __Repository__: https://github.com/microsoft/ARI
 Helpers to automate Azure DevOps tasks
 
 __Downloads__: 23 | __Repository__: https://github.com/o-o00o-o/PSEasy.AzureDevOps
+
+## [PSAzureLocator](https://www.powershellgallery.com/Packages/PSAzureLocator/1.0.1) | 1.0.1
+
+### Published: 09/02/2025 18:55:38 by Conitental
+
+Module to locate a given Azure resource region based on its dns name or ip address
+
+__Downloads__: 19 | __Repository__: https://github.com/Conitental/PSAzureLocator
 
 ## [AzurePipelinesUtils](https://www.powershellgallery.com/Packages/AzurePipelinesUtils/0.0.2) | 0.0.2
 
@@ -74,7 +90,7 @@ __Downloads__: 27 | __Repository__: https://github.com/igoravl/AzurePipelinesUti
 
 PowerShell module to help with CI&CD for Azure Synapse, mainly to publish to Synapse Workspace service in multiple environments. Check https://github.com/Azure-Player/azure.synapse.tools/ & https://azureplayer.net/synapse/
 
-__Downloads__: 52,227 | __Repository__: https://github.com/Azure-Player/azure.synapse.tools/
+__Downloads__: 52,232 | __Repository__: https://github.com/Azure-Player/azure.synapse.tools/
 
 ## [PSRule.Rules.Azure](https://www.powershellgallery.com/Packages/PSRule.Rules.Azure/1.45.2) | 1.45.2
 
@@ -84,7 +100,7 @@ Validate Azure resources and infrastructure as code using PSRule.
 
 This project uses GitHub Issues to track bugs and feature requests. See GitHub project for more information.
 
-__Downloads__: 1,744,047 | __Repository__: https://aka.ms/ps-rule-azure
+__Downloads__: 1,745,740 | __Repository__: https://aka.ms/ps-rule-azure
 
 ## [AzureBasicLoadBalancerUpgrade](https://www.powershellgallery.com/Packages/AzureBasicLoadBalancerUpgrade/2.5.40) | 2.5.40
 
@@ -92,7 +108,7 @@ __Downloads__: 1,744,047 | __Repository__: https://aka.ms/ps-rule-azure
 
 This module will migrate a Basic SKU load balancer connected to a Virtual Machine Scaleset or Virtual Machines to a Standard SKU load balancer, preserving the existing configuration and functionality.
 
-__Downloads__: 37,316 | __Repository__: https://github.com/Azure/AzLoadBalancerMigration
+__Downloads__: 37,404 | __Repository__: https://github.com/Azure/AzLoadBalancerMigration
 
 ## [AzureAvSetBasicPublicIPUpgrade](https://www.powershellgallery.com/Packages/AzureAvSetBasicPublicIPUpgrade/1.0.1) | 1.0.1
 
@@ -100,7 +116,7 @@ __Downloads__: 37,316 | __Repository__: https://github.com/Azure/AzLoadBalancerM
 
 Upgrades all public IP addresses attached to all VMs in an Availability Set to Standard SKU.
 
-__Downloads__: 4,576 | __Repository__: https://github.com/Azure/AzLoadBalancerMigration
+__Downloads__: 4,588 | __Repository__: https://github.com/Azure/AzLoadBalancerMigration
 
 ## [OMG.PSUtilities.AzureDevOps](https://www.powershellgallery.com/Packages/OMG.PSUtilities.AzureDevOps/1.0.8) | 1.0.8
 
@@ -117,14 +133,6 @@ __Downloads__: 1,021 | __Repository__:
 Core Azure-related scripting, including identity and subscription management.
 
 __Downloads__: 517 | __Repository__: 
-
-## [SixPivot.Azure](https://www.powershellgallery.com/Packages/SixPivot.Azure/1.0.48) | 1.0.48
-
-### Published: 08/12/2025 00:42:07 by David Gardiner
-
-Azure cmdlets created by SixPivot
-
-__Downloads__: 1,699 | __Repository__: https://github.com/SixPivot/sixpivot-azure-powershell-module
 
 ## [AzureCommonStuff](https://www.powershellgallery.com/Packages/AzureCommonStuff/1.0.8) | 1.0.8
 
@@ -183,7 +191,7 @@ __Downloads__: 26 | __Repository__: https://github.com/ztrhgf/useful_powershell_
 
 Azure Arc Jumpstart module for LocalBox
 
-__Downloads__: 843 | __Repository__: 
+__Downloads__: 844 | __Repository__: 
 
 ## [Azure.Arc.Jumpstart.Common](https://www.powershellgallery.com/Packages/Azure.Arc.Jumpstart.Common/1.0.7) | 1.0.7
 
@@ -191,7 +199,7 @@ __Downloads__: 843 | __Repository__:
 
 Azure Arc Jumpstart module for common functions
 
-__Downloads__: 9,679 | __Repository__: 
+__Downloads__: 9,686 | __Repository__: 
 
 ## [PureStorage.AzureNative.Tools](https://www.powershellgallery.com/Packages/PureStorage.AzureNative.Tools/1.0.128) | 1.0.128
 
@@ -239,7 +247,7 @@ __Downloads__: 156 | __Repository__: https://github.com/lavanack/PSAzureVirtualD
 
 A module for logging in Azure DevOps Pipelines
 
-__Downloads__: 141,687 | __Repository__: https://github.com/goodworkaround/PS-ADOLogging
+__Downloads__: 142,467 | __Repository__: https://github.com/goodworkaround/PS-ADOLogging
 
 ## [AzureDevOpsIngest](https://www.powershellgallery.com/Packages/AzureDevOpsIngest/1.0.147.0) | 1.0.147.0
 
@@ -255,7 +263,7 @@ __Downloads__: 151 | __Repository__: https://dev.azure.com/EESC-CoR/ARC/_git/psm
 
 PowerShell module to help with CI&CD for Azure Data Factory, mainly to publish to ADF service in multiple environments. Check https://github.com/Azure-Player/azure.datafactory.tools/ & https://azureplayer.net/adf/
 
-__Downloads__: 605,424 | __Repository__: https://github.com/Azure-Player/azure.datafactory.tools/
+__Downloads__: 605,569 | __Repository__: https://github.com/Azure-Player/azure.datafactory.tools/
 
 ## [spec.azure.tables](https://www.powershellgallery.com/Packages/spec.azure.tables/2.0.5) | 2.0.5
 
@@ -263,7 +271,7 @@ __Downloads__: 605,424 | __Repository__: https://github.com/Azure-Player/azure.d
 
 A module for interacting with Azure Tables
 
-__Downloads__: 110,635 | __Repository__: 
+__Downloads__: 110,650 | __Repository__: 
 
 ## [AzureResourceStuff](https://www.powershellgallery.com/Packages/AzureResourceStuff/1.0.14) | 1.0.14
 
@@ -291,7 +299,7 @@ __Downloads__: 1,186 | __Repository__: https://github.com/ztrhgf/useful_powershe
 
 Microsoft Azure PowerShell: HanaOn cmdlets
 
-__Downloads__: 16,580 | __Repository__: https://github.com/Azure/azure-powershell
+__Downloads__: 16,586 | __Repository__: https://github.com/Azure/azure-powershell
 
 ## [PSAzureSignTool](https://www.powershellgallery.com/Packages/PSAzureSignTool/0.5.4) | 0.5.4
 
@@ -323,6 +331,23 @@ Some of the interesting functions:
 - ...
 
 __Downloads__: 351 | __Repository__: https://github.com/ztrhgf/useful_powershell_modules
+
+## [AzureARCStuff](https://www.powershellgallery.com/Packages/AzureARCStuff/1.0.4) | 1.0.4
+
+### Published: 03/19/2025 08:26:00 by @AndrewZtrhgf
+
+Various Azure ARC related functions. More details at https://doitpshway.com/series/azure.
+Some of the interesting functions:
+- Copy-ToArcMachine - copy file(s) to ARC machine via arc-ssh-proxy
+- Enter-ArcPSSession - Enter interactive remote session to ARC machine via arc-ssh-proxy
+- Get-ARCExtensionOverview - Returns overview of all installed ARC extensions
+- Get-ArcMachineOverview - Get list of all ARC machines in your Azure tenant
+- Invoke-ArcCommand - Invoke-Command like alternative via arc-ssh-proxy
+- Invoke-ArcRDP - RDP to ARC machine via arc-ssh-proxy
+- New-ArcPSSession - Create remote session to ARC machine via arc-ssh-proxy
+- ...
+
+__Downloads__: 55 | __Repository__: https://github.com/ztrhgf/useful_powershell_modules
 
 ## [PowerShell.AzureDevOps](https://www.powershellgallery.com/Packages/PowerShell.AzureDevOps/2.11.0) | 2.11.0
 
@@ -374,7 +399,7 @@ __Downloads__: 1,522 | __Repository__:
 
 A PowerShell module that makes interfacing with Azure Pipelines a little easier
 
-__Downloads__: 119,441 | __Repository__: https://github.com/Dejulia489/AzurePipelinesPS
+__Downloads__: 119,464 | __Repository__: https://github.com/Dejulia489/AzurePipelinesPS
 
 ## [BenchPress.Azure](https://www.powershellgallery.com/Packages/BenchPress.Azure/0.2.3) | 0.2.3
 
@@ -382,7 +407,7 @@ __Downloads__: 119,441 | __Repository__: https://github.com/Dejulia489/AzurePipe
 
 Benchpress Test Framework for Azure Deployment Scenarios
 
-__Downloads__: 2,380 | __Repository__: https://github.com/Azure/benchpress/
+__Downloads__: 2,382 | __Repository__: https://github.com/Azure/benchpress/
 
 ## [AzureDataLakeManagement](https://www.powershellgallery.com/Packages/AzureDataLakeManagement/2025.1.1) | 2025.1.1
 
@@ -414,7 +439,7 @@ __Downloads__: 165 | __Repository__: https://github.com/Panzerbjrn/AzureGeneralH
 
 The Azure AD Hybrid Authentication Management module enables hybrid identity organizations (those with Active Directory on-premises) to use modern credentials for their applications and enables Azure AD to become the trusted source for both cloud and on-premises authentication.
 
-__Downloads__: 285,176 | __Repository__: 
+__Downloads__: 285,221 | __Repository__: 
 
 ## [AzureADKerberosTest](https://www.powershellgallery.com/Packages/AzureADKerberosTest/2.4.71.1) | 2.4.71.1
 
@@ -422,7 +447,7 @@ __Downloads__: 285,176 | __Repository__:
 
 The Azure AD Hybrid Authentication Management module enables hybrid identity organizations (those with Active Directory on-premises) to use modern credentials for their applications and enables Azure AD to become the trusted source for both cloud and on-premises authentication.
 
-__Downloads__: 4,015 | __Repository__: 
+__Downloads__: 4,018 | __Repository__: 
 
 ## [AsBuiltReport.Microsoft.Azure](https://www.powershellgallery.com/Packages/AsBuiltReport.Microsoft.Azure/0.1.8.2) | 0.1.8.2
 
@@ -430,7 +455,7 @@ __Downloads__: 4,015 | __Repository__:
 
 A PowerShell module to generate an as built report on the configuration of Microsoft Azure.
 
-__Downloads__: 15,489 | __Repository__: https://github.com/AsBuiltReport/AsBuiltReport.Microsoft.Azure
+__Downloads__: 15,490 | __Repository__: https://github.com/AsBuiltReport/AsBuiltReport.Microsoft.Azure
 
 ## [Pinja.Azure.Alerts](https://www.powershellgallery.com/Packages/Pinja.Azure.Alerts/0.3.3) | 0.3.3
 
@@ -438,7 +463,7 @@ __Downloads__: 15,489 | __Repository__: https://github.com/AsBuiltReport/AsBuilt
 
 Powershell module to simplify getting good default alerts for all environments
 
-__Downloads__: 5,768 | __Repository__: https://github.com/by-pinja/Pinja.Azure.Alerts
+__Downloads__: 5,772 | __Repository__: https://github.com/by-pinja/Pinja.Azure.Alerts
 
 ## [AzureDevOpsPowerShell](https://www.powershellgallery.com/Packages/AzureDevOpsPowerShell/0.6.1) | 0.6.1
 
@@ -558,7 +583,7 @@ __Downloads__: 26 | __Repository__:
 
 PowerShell module to simplify downloading and setting up Azure VPN client with DNS resolver.
 
-__Downloads__: 929 | __Repository__: https://github.com/askew/azurevpn
+__Downloads__: 930 | __Repository__: https://github.com/askew/azurevpn
 
 ## [Microsoft.AzureStack.ReadinessChecker](https://www.powershellgallery.com/Packages/Microsoft.AzureStack.ReadinessChecker/1.2100.2715.429) | 1.2100.2715.429
 
@@ -566,7 +591,7 @@ __Downloads__: 929 | __Repository__: https://github.com/askew/azurevpn
 
 Microsoft Azure Stack Readiness Checker
 
-__Downloads__: 34,297 | __Repository__: 
+__Downloads__: 34,298 | __Repository__: 
 
 ## [AzureUserStuff](https://www.powershellgallery.com/Packages/AzureUserStuff/1.0.2) | 1.0.2
 
@@ -592,19 +617,6 @@ Some of the interesting functions:
 - ...
 
 __Downloads__: 151 | __Repository__: https://github.com/ztrhgf/useful_powershell_modules
-
-## [AzureGroupStuff](https://www.powershellgallery.com/Packages/AzureGroupStuff/1.0.2) | 1.0.2
-
-### Published: 05/19/2024 13:18:01 by @AndrewZtrhgf
-
-Various Azure related functions focused on group accounts. More details at https://doitpsway.com/series/azure.
-Some of the interesting functions:
-- Get-AzureGroupMemberRecursive - gets group members rerursive, supports various filtering options like skip disabled accounts etc
-- Get-AzureGroupSettings - official Get-MgGroup -Property Settings doesn`t return anything for some reason
-- Set-AzureRingGroup - function for dynamically setting members of specified "ring" groups based on the provided users list (members of the "rootGroup") and the members per group percent ratio ("ringGroupConfig").
-- ...
-
-__Downloads__: 187 | __Repository__: https://github.com/ztrhgf/useful_powershell_modules
 
 ## [AzureDeviceStuff](https://www.powershellgallery.com/Packages/AzureDeviceStuff/1.0.1) | 1.0.1
 
@@ -644,7 +656,7 @@ __Downloads__: 264 | __Repository__: https://github.com/ztrhgf/useful_powershell
 
 Upgrades all public IP addresses attached to a VM to Standard SKU.
 
-__Downloads__: 75,446 | __Repository__: https://github.com/Azure/AzLoadBalancerMigration
+__Downloads__: 75,503 | __Repository__: https://github.com/Azure/AzLoadBalancerMigration
 
 ## [azure-ad-license-status](https://www.powershellgallery.com/Packages/azure-ad-license-status/1.3.1.1) | 1.3.1.1
 
@@ -668,7 +680,7 @@ __Downloads__: 1,445 | __Repository__: https://github.com/osservante/Export-Azur
 
 API utils for Azure and Graph APIs
 
-__Downloads__: 973 | __Repository__: https://github.com/itpropro/AzureApiUtils
+__Downloads__: 974 | __Repository__: https://github.com/itpropro/AzureApiUtils
 
 ## [AzureSecrets](https://www.powershellgallery.com/Packages/AzureSecrets/0.1.50) | 0.1.50
 
@@ -708,7 +720,7 @@ __Downloads__: 7,204 | __Repository__: https://github.com/cloudyspells/PSRule.Ru
 
 We're excited to announce that Azure Code Signing has undergone a rebranding and is now known as Trusted Signing. As part of this transition, we're deprecating the existing module in favor of TrustedSigning (https://www.powershellgallery.com/packages/TrustedSigning). Please migrate to the new module as soon as possible. All future bug fixes and enhancements will be exclusively released for the new module.
 
-__Downloads__: 31,474 | __Repository__: 
+__Downloads__: 31,476 | __Repository__: 
 
 ## [AzureDevOpsCmdlets](https://www.powershellgallery.com/Packages/AzureDevOpsCmdlets/23.0.8839.1) | 23.0.8839.1
 
@@ -842,7 +854,7 @@ __Downloads__: 1,098 | __Repository__: https://github.com/ccdigix/SACRED
 
 This module analyzes your Azure Active Directory configuration and provides best practice recommendations.
 
-__Downloads__: 55,688 | __Repository__: https://github.com/AzureAD/AzureADAssessment
+__Downloads__: 55,692 | __Repository__: https://github.com/AzureAD/AzureADAssessment
 
 ## [AzureDevOpsHousekeeping](https://www.powershellgallery.com/Packages/AzureDevOpsHousekeeping/1.0.0) | 1.0.0
 
@@ -850,7 +862,7 @@ __Downloads__: 55,688 | __Repository__: https://github.com/AzureAD/AzureADAssess
 
 This module simplifies the housekeeping activities for Azure DevOps compliance and vulnerability management.
 
-__Downloads__: 16,053 | __Repository__: 
+__Downloads__: 16,069 | __Repository__: 
 
 ## [Azure.DevOps.Function.Collection](https://www.powershellgallery.com/Packages/Azure.DevOps.Function.Collection/3.2.0) | 3.2.0
 
@@ -858,7 +870,7 @@ __Downloads__: 16,053 | __Repository__:
 
 The Azure.DevOps.Function.Collection PowerShell module is a comprehensive collection of scripts designed to use the Azure DevOps Open API. It provides PowerShell developers with an easy and efficient way to interact with Azure DevOps services and implement automation scenarios in their workflows.
 
-__Downloads__: 24,051 | __Repository__: https://github.com/IgorHensch/Az.DevOps
+__Downloads__: 24,054 | __Repository__: https://github.com/IgorHensch/Az.DevOps
 
 ## [Om.Azure.Management](https://www.powershellgallery.com/Packages/Om.Azure.Management/0.2.4) | 0.2.4
 
@@ -866,7 +878,7 @@ __Downloads__: 24,051 | __Repository__: https://github.com/IgorHensch/Az.DevOps
 
 Module for Azure management used for Omnia.
 
-__Downloads__: 113,660 | __Repository__: 
+__Downloads__: 113,722 | __Repository__: 
 
 ## [AzureADExporter](https://www.powershellgallery.com/Packages/AzureADExporter/1.0.1156038) | 1.0.1156038
 
@@ -874,7 +886,7 @@ __Downloads__: 113,660 | __Repository__:
 
 This module exports all the Azure AD objects and Identity related settings in your tenant.
 
-__Downloads__: 43,259 | __Repository__: https://github.com/microsoft/azureadexporter
+__Downloads__: 43,265 | __Repository__: https://github.com/microsoft/azureadexporter
 
 ## [OfficeAndAzureTools](https://www.powershellgallery.com/Packages/OfficeAndAzureTools/9.10.10) | 9.10.10
 
@@ -900,7 +912,7 @@ Azure Active Directory V2 General Availability Module.
 This is the General Availability release of Azure Active Directory V2 PowerShell Module. 
 For detailed information on how to install and run this module from the PowerShell Gallery including prerequisites, please refer to https://docs.microsoft.com/en-us/powershell/scripting/gallery/overview
 
-__Downloads__: 52,479,741 | __Repository__: https://docs.microsoft.com/en-us/powershell/azuread/v2/azureactivedirectory
+__Downloads__: 52,489,070 | __Repository__: https://docs.microsoft.com/en-us/powershell/azuread/v2/azureactivedirectory
 
 ## [AzureADPreview](https://www.powershellgallery.com/Packages/AzureADPreview/2.0.2.183) | 2.0.2.183
 
@@ -910,7 +922,7 @@ Azure Active Directory V2 Preview Module.
 This is a Public Preview release of Azure Active Directory V2 PowerShell Module. 
 For detailed information on how to install and run this module from the PowerShell Gallery including prerequisites, please refer to https://docs.microsoft.com/en-us/powershell/scripting/gallery/overview
 
-__Downloads__: 8,438,959 | __Repository__: https://docs.microsoft.com/en-us/powershell/azuread/v2/azureactivedirectory
+__Downloads__: 8,439,686 | __Repository__: https://docs.microsoft.com/en-us/powershell/azuread/v2/azureactivedirectory
 
 ## [AzureADTenantID](https://www.powershellgallery.com/Packages/AzureADTenantID/1.0.1) | 1.0.1
 
@@ -960,14 +972,6 @@ Tools to help migrate scripts using the official Azure/AzureAD modules
 
 __Downloads__: 14,229 | __Repository__: https://github.com/FriedrichWeinmann/PSAzureMigrationAdvisor
 
-## [AzureDevOps.Services.OpenApi](https://www.powershellgallery.com/Packages/AzureDevOps.Services.OpenApi/1.0.4) | 1.0.4
-
-### Published: 04/12/2023 15:12:20 by Friedrich Weinmann
-
-Autogenerated Client for the Azure Devops Services API
-
-__Downloads__: 594 | __Repository__: 
-
 ## [AzureAD.Standard.Preview](https://www.powershellgallery.com/Packages/AzureAD.Standard.Preview/0.0.0.10) | 0.0.0.10
 
 ### Published: 04/03/2023 07:13:38 by Microsoft Corporation
@@ -976,7 +980,7 @@ Azure Active Directory V2 General Availability Module.
 This is the General Availability release of Azure Active Directory V2 PowerShell Module. 
 For detailed information on how to install and run this module from the PowerShell Gallery including prerequisites, please refer to https://msdn.microsoft.com/powershell/gallery/readme
 
-__Downloads__: 109,737 | __Repository__: https://docs.microsoft.com/en-us/powershell/azuread/v2/azureactivedirectory
+__Downloads__: 109,747 | __Repository__: https://docs.microsoft.com/en-us/powershell/azuread/v2/azureactivedirectory
 
 ## [AzureFunctionConfiguration](https://www.powershellgallery.com/Packages/AzureFunctionConfiguration/1.0.2) | 1.0.2
 
@@ -984,7 +988,7 @@ __Downloads__: 109,737 | __Repository__: https://docs.microsoft.com/en-us/powers
 
 A PowerShell module for Azure Function Apps running PowerShell to load configuration from defaults or environment variables.
 
-__Downloads__: 34,715 | __Repository__: 
+__Downloads__: 34,750 | __Repository__: 
 
 ## [Sampler.AzureDevOpsTasks](https://www.powershellgallery.com/Packages/Sampler.AzureDevOpsTasks/0.1.2) | 0.1.2
 
@@ -992,7 +996,7 @@ __Downloads__: 34,715 | __Repository__:
 
 Sampler Project Build Tasks for Azure DevOps Services and Azure DevOps Server
 
-__Downloads__: 3,462 | __Repository__: https://github.com/SynEdgy/Sampler.AzureDevOpsTasks
+__Downloads__: 3,463 | __Repository__: https://github.com/SynEdgy/Sampler.AzureDevOpsTasks
 
 ## [AzureAPICrawler](https://www.powershellgallery.com/Packages/AzureAPICrawler/1.0.1) | 1.0.1
 
@@ -1016,7 +1020,7 @@ __Downloads__: 1,153 | __Repository__: https://github.com/AzureAD/AzureAD-Govern
 
 Lightweight tooling for Function Apps
 
-__Downloads__: 6,320 | __Repository__: https://github.com/FriedrichWeinmann/Azure.Function.Tools
+__Downloads__: 6,323 | __Repository__: https://github.com/FriedrichWeinmann/Azure.Function.Tools
 
 ## [AzureCli](https://www.powershellgallery.com/Packages/AzureCli/2.5.0) | 2.5.0
 
@@ -1024,7 +1028,7 @@ __Downloads__: 6,320 | __Repository__: https://github.com/FriedrichWeinmann/Azur
 
 Cmdlet and alias to make the use of Azure CLI more PowerShell friendly. Process output of Azure CLI from JSON to custom objects.
 
-__Downloads__: 77,042 | __Repository__: https://github.com/dtewinkel/AzureCli
+__Downloads__: 77,082 | __Repository__: https://github.com/dtewinkel/AzureCli
 
 ## [AzureArcConnectedAgentManagement](https://www.powershellgallery.com/Packages/AzureArcConnectedAgentManagement/1.0) | 1.0
 
@@ -1122,6 +1126,14 @@ Module containing functions required to create YAML/JSON definitions for Azure N
 
 __Downloads__: 189 | __Repository__: 
 
+## [pspulumiyaml.azurenative.virtualmachineimages](https://www.powershellgallery.com/Packages/pspulumiyaml.azurenative.virtualmachineimages/0.0.4) | 0.0.4
+
+### Published: 06/26/2022 02:10:00 by Worxspace
+
+Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
+
+__Downloads__: 144 | __Repository__: 
+
 ## [pspulumiyaml.azurenative.vmwarecloudsimple](https://www.powershellgallery.com/Packages/pspulumiyaml.azurenative.vmwarecloudsimple/0.0.4) | 0.0.4
 
 ### Published: 06/26/2022 02:10:00 by Worxspace
@@ -1137,14 +1149,6 @@ __Downloads__: 189 | __Repository__:
 Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
 
 __Downloads__: 148 | __Repository__: 
-
-## [pspulumiyaml.azurenative.virtualmachineimages](https://www.powershellgallery.com/Packages/pspulumiyaml.azurenative.virtualmachineimages/0.0.4) | 0.0.4
-
-### Published: 06/26/2022 02:10:00 by Worxspace
-
-Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
-
-__Downloads__: 144 | __Repository__: 
 
 ## [pspulumiyaml.azurenative.videoanalyzer](https://www.powershellgallery.com/Packages/pspulumiyaml.azurenative.videoanalyzer/0.0.4) | 0.0.4
 
@@ -1570,7 +1574,7 @@ Module containing functions required to create YAML/JSON definitions for Azure N
 
 __Downloads__: 145 | __Repository__: 
 
-## [pspulumiyaml.azurenative.networkfunction](https://www.powershellgallery.com/Packages/pspulumiyaml.azurenative.networkfunction/0.0.4) | 0.0.4
+## [pspulumiyaml.azurenative.network](https://www.powershellgallery.com/Packages/pspulumiyaml.azurenative.network/0.0.4) | 0.0.4
 
 ### Published: 06/26/2022 02:08:18 by Worxspace
 
@@ -1578,7 +1582,7 @@ Module containing functions required to create YAML/JSON definitions for Azure N
 
 __Downloads__: 148 | __Repository__: 
 
-## [pspulumiyaml.azurenative.network](https://www.powershellgallery.com/Packages/pspulumiyaml.azurenative.network/0.0.4) | 0.0.4
+## [pspulumiyaml.azurenative.networkfunction](https://www.powershellgallery.com/Packages/pspulumiyaml.azurenative.networkfunction/0.0.4) | 0.0.4
 
 ### Published: 06/26/2022 02:08:18 by Worxspace
 
@@ -1706,14 +1710,6 @@ Module containing functions required to create YAML/JSON definitions for Azure N
 
 __Downloads__: 142 | __Repository__: 
 
-## [pspulumiyaml.azurenative.logic](https://www.powershellgallery.com/Packages/pspulumiyaml.azurenative.logic/0.0.4) | 0.0.4
-
-### Published: 06/26/2022 02:07:03 by Worxspace
-
-Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
-
-__Downloads__: 144 | __Repository__: 
-
 ## [pspulumiyaml.azurenative.insights](https://www.powershellgallery.com/Packages/pspulumiyaml.azurenative.insights/0.0.4) | 0.0.4
 
 ### Published: 06/26/2022 02:07:03 by Worxspace
@@ -1721,6 +1717,14 @@ __Downloads__: 144 | __Repository__:
 Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
 
 __Downloads__: 143 | __Repository__: 
+
+## [pspulumiyaml.azurenative.logic](https://www.powershellgallery.com/Packages/pspulumiyaml.azurenative.logic/0.0.4) | 0.0.4
+
+### Published: 06/26/2022 02:07:03 by Worxspace
+
+Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
+
+__Downloads__: 144 | __Repository__: 
 
 ## [pspulumiyaml.azurenative.machinelearningcompute](https://www.powershellgallery.com/Packages/pspulumiyaml.azurenative.machinelearningcompute/0.0.4) | 0.0.4
 
@@ -1890,14 +1894,6 @@ Module containing functions required to create YAML/JSON definitions for Azure N
 
 __Downloads__: 138 | __Repository__: 
 
-## [pspulumiyaml.azurenative.importexport](https://www.powershellgallery.com/Packages/pspulumiyaml.azurenative.importexport/0.0.4) | 0.0.4
-
-### Published: 06/26/2022 02:06:20 by Worxspace
-
-Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
-
-__Downloads__: 142 | __Repository__: 
-
 ## [pspulumiyaml.azurenative.hardwaresecuritymodules](https://www.powershellgallery.com/Packages/pspulumiyaml.azurenative.hardwaresecuritymodules/0.0.4) | 0.0.4
 
 ### Published: 06/26/2022 02:06:20 by Worxspace
@@ -1905,6 +1901,14 @@ __Downloads__: 142 | __Repository__:
 Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
 
 __Downloads__: 169 | __Repository__: 
+
+## [pspulumiyaml.azurenative.importexport](https://www.powershellgallery.com/Packages/pspulumiyaml.azurenative.importexport/0.0.4) | 0.0.4
+
+### Published: 06/26/2022 02:06:20 by Worxspace
+
+Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
+
+__Downloads__: 142 | __Repository__: 
 
 ## [pspulumiyaml.azurenative.healthbot](https://www.powershellgallery.com/Packages/pspulumiyaml.azurenative.healthbot/0.0.4) | 0.0.4
 
@@ -1946,14 +1950,6 @@ Module containing functions required to create YAML/JSON definitions for Azure N
 
 __Downloads__: 155 | __Repository__: 
 
-## [pspulumiyaml.azurenative.hanaonazure](https://www.powershellgallery.com/Packages/pspulumiyaml.azurenative.hanaonazure/0.0.4) | 0.0.4
-
-### Published: 06/26/2022 02:06:09 by Worxspace
-
-Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
-
-__Downloads__: 143 | __Repository__: 
-
 ## [pspulumiyaml.azurenative.features](https://www.powershellgallery.com/Packages/pspulumiyaml.azurenative.features/0.0.4) | 0.0.4
 
 ### Published: 06/26/2022 02:06:09 by Worxspace
@@ -1961,6 +1957,14 @@ __Downloads__: 143 | __Repository__:
 Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
 
 __Downloads__: 142 | __Repository__: 
+
+## [pspulumiyaml.azurenative.hanaonazure](https://www.powershellgallery.com/Packages/pspulumiyaml.azurenative.hanaonazure/0.0.4) | 0.0.4
+
+### Published: 06/26/2022 02:06:09 by Worxspace
+
+Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider
+
+__Downloads__: 143 | __Repository__: 
 
 ## [pspulumiyaml.azurenative.eventhub](https://www.powershellgallery.com/Packages/pspulumiyaml.azurenative.eventhub/0.0.4) | 0.0.4
 
@@ -2098,4 +2102,4 @@ Module containing functions required to create YAML/JSON definitions for Azure N
 
 __Downloads__: 148 | __Repository__: 
 
-*Updated: Sunday, 21 September 2025 21:52:12 UTC*
+*Updated: Monday, 22 September 2025 09:51:59 UTC*

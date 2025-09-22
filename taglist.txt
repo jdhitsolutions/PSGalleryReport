@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Sunday, 21 September 2025 21:52:19 UTC
+Updated: Monday, 22 September 2025 09:52:06 UTC
 
 .bat
 .env
@@ -317,6 +317,7 @@ alerting
 alertmanagement
 alerts
 alertsmanagement
+alfresco
 algorithm
 algorithms
 alias
@@ -397,7 +398,6 @@ ansiblecontrolnode
 ansiblectl
 ansibletower
 anthropic
-anti-idle
 anti-malware
 antimalwarescaninterface
 antiphishing
@@ -513,8 +513,6 @@ archivial
 archivial-backup
 archivial-cloud-backup
 archlinux
-archon
-archonagent
 arcresourcebridge
 arcus
 area
@@ -534,6 +532,8 @@ armtemplates
 arp
 array
 arrays
+arrow
+arrow-key
 art
 artefactual
 artifact
@@ -656,6 +656,7 @@ autohotkey
 autolabeling
 autoload
 autologon
+automai
 automanage
 automate
 automated
@@ -779,6 +780,7 @@ azureaitranslator
 azureappconfiguration
 azureapplicationstuff
 azurearc
+azurearcstuff
 azureartifacts
 azureas
 azureatp
@@ -803,7 +805,6 @@ azurefilesync
 azurefunctionapp
 azurefunctions
 azuregraph
-azuregroupstuff
 azureinformationprotection
 azureiot
 azureiothub
@@ -1083,6 +1084,7 @@ bucket
 buddhist
 budget
 bugbounty
+bugzilla
 build
 build-log
 build-scripts
@@ -1427,7 +1429,6 @@ cloudmigrations
 cloudml
 cloudpc
 cloudservice
-cloudshell
 cloudsync
 clueser
 cluster
@@ -1540,6 +1541,7 @@ commence
 comment
 comments
 commerce
+commfort
 commit
 commits
 common
@@ -2235,6 +2237,7 @@ dispose
 distance
 distinguishedname
 distributed-systems
+distributed-tracing
 distributedcache
 distributeddatabase
 distributedfilesystem
@@ -2370,6 +2373,7 @@ drive
 drive letter
 drivemap
 drivemapping
+driven
 driver
 driverpacks
 drivers
@@ -2530,7 +2534,6 @@ eli5
 elitism
 elk
 elm
-elmah-io
 elonmusk
 eloomi
 eloqua
@@ -2649,7 +2652,6 @@ escapesequences
 escaping
 ese
 esent
-esoteric
 esp
 esp-idf
 esp32
@@ -3362,7 +3364,6 @@ groundspeak
 group
 group-membership
 group-policy
-groupmanagement
 groupmembership
 grouppolicy
 groups
@@ -3403,7 +3404,6 @@ hadoop
 hafr
 haiku
 hailstone
-haipa
 halo
 haloitsm
 halopsa
@@ -3471,7 +3471,6 @@ healthcare
 healthcareapis
 healthcheck
 healthchecks
-healthchecks.io
 healthdataaiservices
 healthservice
 healthz
@@ -3849,6 +3848,7 @@ intellisearch
 intellisense
 interactive
 interactive-brokers
+interchange
 interface
 interlogix
 internal
@@ -3970,6 +3970,7 @@ items
 itemstack
 iterate
 iteration
+itg
 itglue
 itin
 itops
@@ -4001,7 +4002,6 @@ jeanalyzer
 jekyll
 jenkins
 jetbrains
-jiggler
 jira
 jiraservicemanagement
 jitbit
@@ -4279,7 +4279,6 @@ line
 line-endings
 linear
 linearalgebra
-lingeringobjects
 link
 link-capability
 link-preview
@@ -4716,6 +4715,7 @@ microsoftstore
 microsoftteams
 microsoftteamsdevices
 microsoftteamsphone
+microsoftupdate
 microsoftword
 middleware
 midserver
@@ -4798,6 +4798,7 @@ moldova
 moment
 monaco
 monday
+mondoo
 money
 moneyforward
 mongo
@@ -5426,6 +5427,7 @@ osuborganizationsubscription
 osubsubscription
 osubusage
 osx
+otel
 otp
 ou
 ou-object
@@ -5706,7 +5708,6 @@ plugin
 plugins
 pluralsight
 ply
-pmp
 pncit
 png
 pnp
@@ -5866,7 +5867,6 @@ powerconfiguration
 powerdex
 powerforensics
 powergraph
-powergui
 powermanagement
 powermax
 powerpack
@@ -9696,7 +9696,6 @@ school-information-system
 schoolholidays
 schulverwaltung
 science
-scim
 scissors
 scm
 scmanager
@@ -10357,6 +10356,7 @@ starwars
 stash
 stat
 state
+stateless
 static
 staticanalysis
 statichtmlsites
@@ -10477,7 +10477,6 @@ suggestion
 suitecrm
 sullivan
 summary
-summit
 sumologic
 supercell
 superheros
@@ -10726,6 +10725,7 @@ testtool
 testusers
 text
 text_to_speech
+text-based
 text-emoji
 text-emojis
 text-templates
@@ -11882,6 +11882,7 @@ yubikey
 yum
 z
 zabbix
+zabbix7
 zabbixps
 zap
 zap-zsh
@@ -11895,7 +11896,6 @@ zip
 zip-compression
 zipfile-transform
 zisson
-zivver
 zlib
 zlib-compression
 zoho
@@ -11904,8 +11904,6 @@ zone
 zoom
 zoomapi
 zoommeeting
-zorus
-zorusapi
 zoxide
 zpr
 zsh
