@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 22 September 2025 09:52:06 UTC
+Updated: Monday, 22 September 2025 21:52:18 UTC
 
 .bat
 .env
@@ -173,7 +173,6 @@ adaptivecard
 adaptivecards
 adb
 adblock
-adc
 adcs
 add
 add-in
@@ -398,6 +397,7 @@ ansiblecontrolnode
 ansiblectl
 ansibletower
 anthropic
+anti-idle
 anti-malware
 antimalwarescaninterface
 antiphishing
@@ -513,6 +513,8 @@ archivial
 archivial-backup
 archivial-cloud-backup
 archlinux
+archon
+archonagent
 arcresourcebridge
 arcus
 area
@@ -805,6 +807,7 @@ azurefilesync
 azurefunctionapp
 azurefunctions
 azuregraph
+azuregroupstuff
 azureinformationprotection
 azureiot
 azureiothub
@@ -1230,7 +1233,6 @@ centurylinkcloud
 cer
 cert
 certbasedauth
-certera
 certes
 certificat
 certificate
@@ -1273,10 +1275,6 @@ checkov
 checkpoint
 checks
 checksum
-chef
-chef-automate
-chef-compliance
-chef-server
 chefconf2016
 chenxizhang
 cherrypy
@@ -1429,6 +1427,7 @@ cloudmigrations
 cloudml
 cloudpc
 cloudservice
+cloudshell
 cloudsync
 clueser
 cluster
@@ -1711,7 +1710,6 @@ converttodocx
 converttohtml
 converttomarkdown
 converttomd
-conway
 cookie
 coolq
 cooltag1
@@ -2170,7 +2168,6 @@ dicom
 dictionary
 diff
 difference
-dify
 dig
 digikam
 digital
@@ -2398,7 +2395,6 @@ ds-utils
 dsa
 dsacls
 dsc
-dsc-resource
 dsc-resources
 dsccertificates
 dscconcepts
@@ -2534,6 +2530,7 @@ eli5
 elitism
 elk
 elm
+elmah-io
 elonmusk
 eloomi
 eloqua
@@ -2652,6 +2649,7 @@ escapesequences
 escaping
 ese
 esent
+esoteric
 esp
 esp-idf
 esp32
@@ -2834,6 +2832,7 @@ fast
 fast-dds
 fast-ping
 fastdata
+faster
 fastfilepub
 fastgit
 fastlinq
@@ -3128,7 +3127,6 @@ gainz-sqldb
 gal
 gallery
 game
-game-of-life
 gamecategory:cards
 games
 gameserver
@@ -3364,6 +3362,7 @@ groundspeak
 group
 group-membership
 group-policy
+groupmanagement
 groupmembership
 grouppolicy
 groups
@@ -3404,6 +3403,7 @@ hadoop
 hafr
 haiku
 hailstone
+haipa
 halo
 haloitsm
 halopsa
@@ -3471,6 +3471,7 @@ healthcare
 healthcareapis
 healthcheck
 healthchecks
+healthchecks.io
 healthdataaiservices
 healthservice
 healthz
@@ -3981,7 +3982,6 @@ ivb
 ivdc
 iwi
 j
-j81-blog
 jamba
 japanese
 jar
@@ -4002,6 +4002,7 @@ jeanalyzer
 jekyll
 jenkins
 jetbrains
+jiggler
 jira
 jiraservicemanagement
 jitbit
@@ -4020,7 +4021,6 @@ join-object
 jojoba
 joke
 jokes
-jotform
 journal
 journalctl
 joyride
@@ -4069,7 +4069,6 @@ karabiner
 karabiner-elements
 karma
 kaseya
-kaseyavsa
 kaspersky
 katakana
 kb
@@ -4279,6 +4278,7 @@ line
 line-endings
 linear
 linearalgebra
+lingeringobjects
 link
 link-capability
 link-preview
@@ -4369,8 +4369,6 @@ logbook
 logcat
 logentry
 logfile
-logfilearchivearchive
-logfilemanagement psmodule
 logfiles
 logger
 logging
@@ -4486,7 +4484,6 @@ main
 main-menu
 maintain-module
 maintenance
-maintenance-window
 maintenancewindows
 mak
 make
@@ -4975,7 +4972,6 @@ nasdaq
 nationalinstruments
 native
 natpool
-natural
 natural-language-to-code
 natural-selection
 nature
@@ -5708,6 +5704,7 @@ plugin
 plugins
 pluralsight
 ply
+pmp
 pncit
 png
 pnp
@@ -5867,6 +5864,7 @@ powerconfiguration
 powerdex
 powerforensics
 powergraph
+powergui
 powermanagement
 powermax
 powerpack
@@ -6005,7 +6003,6 @@ process-inspector
 processing
 processmitigation
 processor
-procmap
 procs
 producer
 product
@@ -9445,7 +9442,6 @@ resolver
 resource
 resource_monitor
 resource_watcher
-resourcecontroller
 resourcegraph
 resourcegroup
 resourcegroups
@@ -9687,7 +9683,6 @@ scheduledjob
 scheduledtask
 scheduledtasks
 scheduler
-schedules-execution
 scheduling
 schema
 schemaextensions
@@ -9696,6 +9691,7 @@ school-information-system
 schoolholidays
 schulverwaltung
 science
+scim
 scissors
 scm
 scmanager
@@ -10171,7 +10167,6 @@ sophos
 sort
 sort-json
 sorting
-sound
 sounds
 source
 source-dedicated-server
@@ -10257,7 +10252,6 @@ sql-server
 sqlagent
 sqlautomation
 sqlbackup
-sqlbits
 sqlbrowser
 sqlbulkcopy
 sqlchangeautomation
@@ -10477,6 +10471,7 @@ suggestion
 suitecrm
 sullivan
 summary
+summit
 sumologic
 supercell
 superheros
@@ -10486,7 +10481,6 @@ support-tool
 support-tools
 supporttools
 suppress
-supress-reboot
 surestacks
 surround
 surveillance
@@ -11888,7 +11882,6 @@ zap
 zap-zsh
 zcat
 zendesk
-zerofailed
 zerotrust
 zerto
 zigbee
@@ -11896,6 +11889,7 @@ zip
 zip-compression
 zipfile-transform
 zisson
+zivver
 zlib
 zlib-compression
 zoho
@@ -11904,6 +11898,8 @@ zone
 zoom
 zoomapi
 zoommeeting
+zorus
+zorusapi
 zoxide
 zpr
 zsh
