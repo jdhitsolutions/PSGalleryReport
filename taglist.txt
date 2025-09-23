@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 22 September 2025 21:52:18 UTC
+Updated: Tuesday, 23 September 2025 09:52:47 UTC
 
 .bat
 .env
@@ -173,6 +173,7 @@ adaptivecard
 adaptivecards
 adb
 adblock
+adc
 adcs
 add
 add-in
@@ -1233,6 +1234,7 @@ centurylinkcloud
 cer
 cert
 certbasedauth
+certera
 certes
 certificat
 certificate
@@ -1275,6 +1277,10 @@ checkov
 checkpoint
 checks
 checksum
+chef
+chef-automate
+chef-compliance
+chef-server
 chefconf2016
 chenxizhang
 cherrypy
@@ -1710,6 +1716,7 @@ converttodocx
 converttohtml
 converttomarkdown
 converttomd
+conway
 cookie
 coolq
 cooltag1
@@ -1806,7 +1813,6 @@ crm
 crm2016
 cron
 crontab
-cropping
 cross-platform
 crossjoin
 crossover
@@ -2168,6 +2174,7 @@ dicom
 dictionary
 diff
 difference
+dify
 dig
 digikam
 digital
@@ -2395,6 +2402,7 @@ ds-utils
 dsa
 dsacls
 dsc
+dsc-resource
 dsc-resources
 dsccertificates
 dscconcepts
@@ -2532,7 +2540,6 @@ elk
 elm
 elmah-io
 elonmusk
-eloomi
 eloqua
 elvish
 elvui
@@ -2993,7 +3000,6 @@ fleetsoftwareupdate
 flex
 flex-query
 flexdesk
-flexible
 flickr
 flowchart
 flowy
@@ -3127,6 +3133,7 @@ gainz-sqldb
 gal
 gallery
 game
+game-of-life
 gamecategory:cards
 games
 gameserver
@@ -3734,7 +3741,6 @@ imageservicing
 imageslide
 imagevalidate
 imagevalidation
-imagga
 imagination
 imaging
 imap
@@ -3761,7 +3767,6 @@ incident
 incident_response
 incident-response
 incidentresponse
-incidents
 incontact
 indents
 index
@@ -3982,6 +3987,7 @@ ivb
 ivdc
 iwi
 j
+j81-blog
 jamba
 japanese
 jar
@@ -4021,6 +4027,7 @@ join-object
 jojoba
 joke
 jokes
+jotform
 journal
 journalctl
 joyride
@@ -4069,6 +4076,7 @@ karabiner
 karabiner-elements
 karma
 kaseya
+kaseyavsa
 kaspersky
 katakana
 kb
@@ -4369,6 +4377,8 @@ logbook
 logcat
 logentry
 logfile
+logfilearchivearchive
+logfilemanagement psmodule
 logfiles
 logger
 logging
@@ -4484,6 +4494,7 @@ main
 main-menu
 maintain-module
 maintenance
+maintenance-window
 maintenancewindows
 mak
 make
@@ -4706,7 +4717,6 @@ microsoftmonitoringagent
 microsoftmvp
 microsoftoffice
 microsoftonline
-microsoftsentinel
 microsoftstaffhub
 microsoftstore
 microsoftteams
@@ -4972,6 +4982,7 @@ nasdaq
 nationalinstruments
 native
 natpool
+natural
 natural-language-to-code
 natural-selection
 nature
@@ -6003,6 +6014,7 @@ process-inspector
 processing
 processmitigation
 processor
+procmap
 procs
 producer
 product
@@ -9442,6 +9454,7 @@ resolver
 resource
 resource_monitor
 resource_watcher
+resourcecontroller
 resourcegraph
 resourcegroup
 resourcegroups
@@ -9622,7 +9635,6 @@ saltstack
 saltstackconfig
 saltstackenterprise
 sam
-samanage
 saml
 saml psmodule
 saml2
@@ -9683,6 +9695,7 @@ scheduledjob
 scheduledtask
 scheduledtasks
 scheduler
+schedules-execution
 scheduling
 schema
 schemaextensions
@@ -10252,6 +10265,7 @@ sql-server
 sqlagent
 sqlautomation
 sqlbackup
+sqlbits
 sqlbrowser
 sqlbulkcopy
 sqlchangeautomation
@@ -10391,7 +10405,6 @@ stockscreenerapi
 stoicism
 stoics
 stolpe.io
-stop
 storablecolortheme
 storage
 storageaccount
@@ -10481,6 +10494,7 @@ support-tool
 support-tools
 supporttools
 suppress
+supress-reboot
 surestacks
 surround
 surveillance
@@ -10503,7 +10517,6 @@ swimlane
 swimmingpool
 swis
 switch
-swsd
 sxs
 sybase
 sybaseiq
@@ -10616,7 +10629,6 @@ tasks
 tasksbyme
 taskscheduler
 tatux
-tauricraft
 taxjar
 taxonomy
 tcg
@@ -10768,7 +10780,6 @@ threat-hunting
 threatdefense
 threathunting
 threatintelligence
-threatintelligenceindicators
 threatintelligenceplatform
 threatprotection
 threats
@@ -10778,7 +10789,6 @@ thunderbird
 thycotic
 tibber
 tic-tac-toe
-tickets
 tickle
 ticks
 tictactoe
@@ -11120,8 +11130,6 @@ updmgmt
 upgrade
 uplift
 uplink
-uploadindicators
-uploadindicatorsapi
 ups
 upsource
 upstream
@@ -11600,7 +11608,6 @@ windows-environment
 windows-explorer
 windows-features
 windows-firewall
-windows-path
 windows-powershell
 windows-registry
 windows-remoting
@@ -11882,6 +11889,7 @@ zap
 zap-zsh
 zcat
 zendesk
+zerofailed
 zerotrust
 zerto
 zigbee
