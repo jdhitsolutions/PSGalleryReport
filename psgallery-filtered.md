@@ -3,13 +3,325 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
-## [MicrosoftVoiceAccess](https://www.powershellgallery.com/Packages/MicrosoftVoiceAccess/0.0.1) | 0.0.1
+## [OraPatchDownload](https://www.powershellgallery.com/Packages/OraPatchDownload/1.2.0) | 1.2.0
 
-### Published: 09/24/2025 09:09:48 by 0xiPickL0x
+### Published: 09/24/2025 21:38:13 by Paul Sammy
 
-Proof of concept module for a security vulnerability submission. This module is intended for demonstration purposes only and contains no harmful code.
+Oracle patch download automation module
+
+__Downloads__: 119 | __Repository__: 
+
+## [Google.Gemini-CLI](https://www.powershellgallery.com/Packages/Google.Gemini-CLI/0.0.1) | 0.0.1
+
+### Published: 09/24/2025 21:01:23 by 0xi
+
+Squatted
 
 __Downloads__: 0 | __Repository__: 
+
+## [OpenAI.Codex](https://www.powershellgallery.com/Packages/OpenAI.Codex/0.0.1) | 0.0.1
+
+### Published: 09/24/2025 20:53:52 by 0xi
+
+Squatting so the baddies dont get it
+
+__Downloads__: 0 | __Repository__: 
+
+## [JaapsTools](https://www.powershellgallery.com/Packages/JaapsTools/19.9.0) | 19.9.0
+
+### Published: 09/24/2025 19:49:06 by JT
+
+JaapsTools
+
+__Downloads__: 2,641 | __Repository__: 
+
+## [WindmillClient](https://www.powershellgallery.com/Packages/WindmillClient/1.548.2) | 1.548.2
+
+### Published: 09/24/2025 19:07:19 by Windmill Labs
+
+Client for the Windmill platform.
+
+__Downloads__: 8,992 | __Repository__: https://github.com/windmill-labs/windmill/tree/main/powershell-client
+
+## [TerraformAST](https://www.powershellgallery.com/Packages/TerraformAST/1.0.1) | 1.0.1
+
+### Published: 09/24/2025 18:40:40 by Jerry Balmer
+
+Gets TerraformAST from .tf files
+
+__Downloads__: 1 | __Repository__: 
+
+## [PowerType](https://www.powershellgallery.com/Packages/PowerType/0.1.1) | 0.1.1
+
+### Published: 09/24/2025 18:27:19 by Peter Andersson
+
+Module providing recommendations for common tools - This module requires PowerShell 7.2 and PSReadLine 2.2.0.
+
+Suggestions must be activated:
+- Enable-PowerType:        Activate the suggestions
+- Disable-PowerType:       Disable the suggestions
+- Get-PowerTypeStatus      Gets the status of PowerType, this is useful for troubleshooting issues
+- Get-PowerTypeHistory     Gets the prediction history of PowerType, this is useful for troubleshooting issues
+
+For more information on PowerType, please visit the following: https://github.com/AnderssonPeter/PowerType
+
+__Downloads__: 61,219 | __Repository__: https://github.com/AnderssonPeter/PowerType/
+
+## [qbo4.Infrastructure](https://www.powershellgallery.com/Packages/qbo4.Infrastructure/1.0.21.48) | 1.0.21.48
+
+### Published: 09/24/2025 18:02:30 by Quandis Inc.
+
+Quandis Infrastructure Management, including publishing of qbo databases and websites.
+
+__Downloads__: 1,569 | __Repository__: https://dev.azure.com/quandis/qbo4/_git/qbo4.Infrastructure
+
+## [OSD](https://www.powershellgallery.com/Packages/OSD/25.9.24.2) | 25.9.24.2
+
+### Published: 09/24/2025 17:08:13 by David Segura . Gary Blok . Michael Escamilla
+
+OSD PowerShell Module for Windows Deployment
+
+__Downloads__: 5,022,998 | __Repository__: https://github.com/OSDeploy/OSD
+
+## [AdminToolbox](https://www.powershellgallery.com/Packages/AdminToolbox/12.0.0.42) | 12.0.0.42
+
+### Published: 09/24/2025 16:07:34 by Taylor Lee
+
+Master module for a collection of modules. These modules are varied in their tasks. The overall purpose of them being to provide a powerfull Toolset to improve IT Admin workflows.
+
+__Downloads__: 130,598 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox
+
+## [AdminToolbox.SecOps](https://www.powershellgallery.com/Packages/AdminToolbox.SecOps/1.5.0.29) | 1.5.0.29
+
+### Published: 09/24/2025 16:06:20 by Taylor Lee
+
+Functions for Security Operations and Investigations
+
+__Downloads__: 4,181 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [AdminToolbox.FortiWizard](https://www.powershellgallery.com/Packages/AdminToolbox.FortiWizard/2.22.0.54) | 2.22.0.54
+
+### Published: 09/24/2025 16:06:15 by Taylor Lee
+
+Functions that generate configuration scripts and manage FortiOS.
+
+__Downloads__: 115,953 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [AdminToolbox.VMWareAutomate](https://www.powershellgallery.com/Packages/AdminToolbox.VMWareAutomate/4.9.0.83) | 4.9.0.83
+
+### Published: 09/24/2025 16:05:08 by Taylor Lee
+
+Functions to Automate Bulk VMWare Tasks
+
+__Downloads__: 123,950 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [AdminToolbox.Remoting](https://www.powershellgallery.com/Packages/AdminToolbox.Remoting/1.10.1.29) | 1.10.1.29
+
+### Published: 09/24/2025 16:05:04 by Taylor Lee
+
+Functions for remote management and access.
+
+__Downloads__: 122,016 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [AdminToolbox.Office365](https://www.powershellgallery.com/Packages/AdminToolbox.Office365/5.4.1.8) | 5.4.1.8
+
+### Published: 09/24/2025 16:04:58 by Taylor Lee
+
+Functions for working with Office365 and Azure modules
+
+__Downloads__: 135,716 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [AdminToolbox.Networking](https://www.powershellgallery.com/Packages/AdminToolbox.Networking/2.23.0.16) | 2.23.0.16
+
+### Published: 09/24/2025 16:04:50 by Taylor Lee
+
+Network Troubleshooting Functions
+
+__Downloads__: 338,281 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [AdminToolbox.MSGraph](https://www.powershellgallery.com/Packages/AdminToolbox.MSGraph/1.5.0.80) | 1.5.0.80
+
+### Published: 09/24/2025 16:04:45 by Taylor Lee
+
+Microsoft Graph interactive API Functions
+
+__Downloads__: 109,129 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [AdminToolbox.Fun](https://www.powershellgallery.com/Packages/AdminToolbox.Fun/1.7.0.83) | 1.7.0.83
+
+### Published: 09/24/2025 16:04:41 by Taylor Lee
+
+Functions that have no purpose
+
+__Downloads__: 125,118 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [AdminToolbox.FileManagement](https://www.powershellgallery.com/Packages/AdminToolbox.FileManagement/1.18.0.1) | 1.18.0.1
+
+### Published: 09/24/2025 16:04:36 by Taylor Lee
+
+File Management Functions
+
+__Downloads__: 157,606 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [AdminToolbox.FFTools](https://www.powershellgallery.com/Packages/AdminToolbox.FFTools/4.17.0.83) | 4.17.0.83
+
+### Published: 09/24/2025 16:04:32 by Taylor Lee
+
+Expedite simple ffmpeg actions
+
+__Downloads__: 227,857 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [AdminToolbox.Exchange](https://www.powershellgallery.com/Packages/AdminToolbox.Exchange/1.10.0.83) | 1.10.0.83
+
+### Published: 09/24/2025 16:04:27 by Taylor Lee
+
+Functions for Exchange Management
+
+__Downloads__: 189,924 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [AdminToolbox.EndpointManagement](https://www.powershellgallery.com/Packages/AdminToolbox.EndpointManagement/4.15.1.10) | 4.15.1.10
+
+### Published: 09/24/2025 16:04:22 by Taylor Lee
+
+Functions for management of endpoints
+
+__Downloads__: 177,678 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [AdminToolbox.ActiveDirectory](https://www.powershellgallery.com/Packages/AdminToolbox.ActiveDirectory/1.12.0.45) | 1.12.0.45
+
+### Published: 09/24/2025 16:04:14 by Taylor Lee
+
+Functions for Active Directory
+
+__Downloads__: 195,114 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [ado.core](https://www.powershellgallery.com/Packages/ado.core/1.0.8) | 1.0.8
+
+### Published: 09/24/2025 15:41:56 by Oleksandr Nikolaiev (@onikolaiev)
+
+This module contains set of the Azure DevOps cmdlets for managing work item types, processes,  picklists, etc.. It is designed to be used with the Azure DevOps REST API and provides a convenient way to interact with Azure DevOps services from PowerShell.
+
+__Downloads__: 150 | __Repository__: https://github.com/onikolaiev/ado.core
+
+## [MeasureRows](https://www.powershellgallery.com/Packages/MeasureRows/0.9.4) | 0.9.4
+
+### Published: 09/24/2025 14:33:05 by florian.von.bracht@apteco.de
+
+Apteco PS Modules - PowerShell file rows count
+
+Just use
+
+Measure-Row -Path "C:\Temp\Example.csv"
+
+or
+
+"C:\Temp\Example.csv" | Measure-Row -SkipFirstRow
+
+or
+
+Measure-Row -Path "C:\Temp\Example.csv" -Encoding UTF8
+
+or even
+
+"C:\Users\Florian\Downloads\adressen.csv", "C:\Users\Florian\Downloads\italian.csv" | Measure-Row -SkipFirstRow -Encoding ([System.Text.Encoding]::UTF8)
+
+to count the rows in a csv file. It uses a .NET streamreader and is extremly fast.
+
+The default encoding is UTF8, but it uses the ones available in [System.Text.Encoding]
+
+If you want to skip the first line, just use this Switch -SkipFirstRow
+
+__Downloads__: 167 | __Repository__: https://github.com/Apteco/AptecoPSModules/tree/main/MeasureRows
+
+## [PSOpenAI](https://www.powershellgallery.com/Packages/PSOpenAI/4.39.0) | 4.39.0
+
+### Published: 09/24/2025 12:46:10 by mkht
+
+PowerShell module for OpenAI API
+
+__Downloads__: 39,250 | __Repository__: https://github.com/mkht/PSOpenAI
+
+## [EntraIDAccessToken](https://www.powershellgallery.com/Packages/EntraIDAccessToken/2.16.0) | 2.16.0
+
+### Published: 09/24/2025 12:32:30 by Marius Solbakken Mellum
+
+A module for simplifying the process of getting an access token from Entra ID
+
+__Downloads__: 64 | __Repository__: 
+
+## [MicrosoftVoiceAccess](https://www.powershellgallery.com/Packages/MicrosoftVoiceAccess/0.0.2) | 0.0.2
+
+### Published: 09/24/2025 12:32:06 by 0xi
+
+Placeholder
+
+__Downloads__: 0 | __Repository__: 
+
+## [TestCredential](https://www.powershellgallery.com/Packages/TestCredential/0.0.5) | 0.0.5
+
+### Published: 09/24/2025 11:55:45 by florian.von.bracht@apteco.de
+
+Apteco PS Modules - PowerShell Credentials Test
+
+This module tests your credentials like
+
+# Interactive mode -> this one requests your user and password, uses the current user as default
+Test-Credential
+
+# Define User and password beforehand
+$c = Get-Credential
+Test-Credential -Credentials $c
+
+OR
+
+$c = Get-Credential
+Test-Credential -Credentials $c  -NonInteractive
+
+# OR
+
+Get-Credential | Test-Credential
+
+__Downloads__: 77 | __Repository__: https://github.com/Apteco/AptecoPSModules/tree/main/MergeHashtable
+
+## [Windows.VoiceAccess](https://www.powershellgallery.com/Packages/Windows.VoiceAccess/0.0.1) | 0.0.1
+
+### Published: 09/24/2025 10:40:53 by 0xi
+
+Placeholder
+
+__Downloads__: 0 | __Repository__: 
+
+## [WindowsVoiceAccess](https://www.powershellgallery.com/Packages/WindowsVoiceAccess/0.0.1) | 0.0.1
+
+### Published: 09/24/2025 10:38:49 by 0xi
+
+Placeholder
+
+__Downloads__: 0 | __Repository__: 
+
+## [Microsoft.Windows.VoiceAccess](https://www.powershellgallery.com/Packages/Microsoft.Windows.VoiceAccess/0.0.1) | 0.0.1
+
+### Published: 09/24/2025 10:36:27 by 0xi
+
+Placeholder
+
+__Downloads__: 1 | __Repository__: 
+
+## [Microsoft.VoiceAccess](https://www.powershellgallery.com/Packages/Microsoft.VoiceAccess/0.0.1) | 0.0.1
+
+### Published: 09/24/2025 10:34:13 by 0xi
+
+Placeholder
+
+__Downloads__: 1 | __Repository__: 
+
+## [MicrosoftWindowsVoiceAccess](https://www.powershellgallery.com/Packages/MicrosoftWindowsVoiceAccess/0.0.1) | 0.0.1
+
+### Published: 09/24/2025 10:17:26 by 0xi
+
+Placeholder
+
+__Downloads__: 1 | __Repository__: 
 
 ## [GitHub](https://www.powershellgallery.com/Packages/GitHub/0.40.1) | 0.40.1
 
@@ -26,14 +338,6 @@ __Downloads__: 426,971 | __Repository__: https://github.com/PSModule/GitHub
 Manage Windows display settings like resolution, DPI scale, HDR and more.
 
 __Downloads__: 81,896 | __Repository__: https://github.com/MartinGC94/DisplayConfig
-
-## [OSD](https://www.powershellgallery.com/Packages/OSD/25.9.24.1) | 25.9.24.1
-
-### Published: 09/24/2025 05:07:50 by David Segura . Gary Blok . Michael Escamilla
-
-OSD PowerShell Module for Windows Deployment
-
-__Downloads__: 5,022,998 | __Repository__: https://github.com/OSDeploy/OSD
 
 ## [PSFluentObjectValidation](https://www.powershellgallery.com/Packages/PSFluentObjectValidation/1.0.1) | 1.0.1
 
@@ -176,22 +480,6 @@ __Downloads__: 9,876 | __Repository__: https://powershell.genxdev.net/#GenXdev.F
 A PowerShell module for managing oh-my-posh themes. Provides functions to discover, install, and switch between oh-my-posh themes with ease.
 
 __Downloads__: 5 | __Repository__: https://github.com/tamujin/Poshify
-
-## [WindmillClient](https://www.powershellgallery.com/Packages/WindmillClient/1.547.0) | 1.547.0
-
-### Published: 09/23/2025 17:32:55 by Windmill Labs
-
-Client for the Windmill platform.
-
-__Downloads__: 8,992 | __Repository__: https://github.com/windmill-labs/windmill/tree/main/powershell-client
-
-## [qbo4.Infrastructure](https://www.powershellgallery.com/Packages/qbo4.Infrastructure/1.0.21.47) | 1.0.21.47
-
-### Published: 09/23/2025 17:24:07 by Quandis Inc.
-
-Quandis Infrastructure Management, including publishing of qbo databases and websites.
-
-__Downloads__: 1,569 | __Repository__: https://dev.azure.com/quandis/qbo4/_git/qbo4.Infrastructure
 
 ## [OCI.PSModules](https://www.powershellgallery.com/Packages/OCI.PSModules/116.0.0) | 116.0.0
 
@@ -1739,33 +2027,7 @@ $wr = Invoke-WebRequestExtended @myParams
 
 ```
 
-__Downloads__: 445 | __Repository__: https://github.com/Apteco/AptecoPSModules/tree/main/ExtendFunction
-
-## [TestCredential](https://www.powershellgallery.com/Packages/TestCredential/0.0.4) | 0.0.4
-
-### Published: 09/23/2025 10:27:12 by florian.von.bracht@apteco.de
-
-Apteco PS Modules - PowerShell Credentials Test
-
-This module tests your credentials like
-
-# Interactive mode -> this one requests your user and password, uses the current user as default
-Test-Credential
-
-# Define User and password beforehand
-$c = Get-Credential
-Test-Credential -Credentials $c
-
-OR
-
-$c = Get-Credential
-Test-Credential -Credentials $c  -NonInteractive
-
-# OR
-
-Get-Credential | Test-Credential
-
-__Downloads__: 77 | __Repository__: https://github.com/Apteco/AptecoPSModules/tree/main/MergeHashtable
+__Downloads__: 444 | __Repository__: https://github.com/Apteco/AptecoPSModules/tree/main/ExtendFunction
 
 ## [OSMGeocode](https://www.powershellgallery.com/Packages/OSMGeocode/0.0.8) | 0.0.8
 
@@ -1823,14 +2085,6 @@ This module contains set of the Azure DevOps cmdlets for managing work item type
 
 __Downloads__: 292 | __Repository__: https://github.com/onikolaiev/ado.tools
 
-## [ado.core](https://www.powershellgallery.com/Packages/ado.core/1.0.7) | 1.0.7
-
-### Published: 09/23/2025 08:55:18 by Oleksandr Nikolaiev (@onikolaiev)
-
-This module contains set of the Azure DevOps cmdlets for managing work item types, processes,  picklists, etc.. It is designed to be used with the Azure DevOps REST API and provides a convenient way to interact with Azure DevOps services from PowerShell.
-
-__Downloads__: 150 | __Repository__: https://github.com/onikolaiev/ado.core
-
 ## [Fortytwo.Pegasus](https://www.powershellgallery.com/Packages/Fortytwo.Pegasus/3.1.0) | 3.1.0
 
 ### Published: 09/23/2025 08:40:32 by Marius Solbakken Mellum
@@ -1847,36 +2101,6 @@ PowerShell module for managing RealmJoin (https://www.realmjoin.com/) tenant.
 
 __Downloads__: 1,471 | __Repository__: https://www.realmjoin.com/
 
-## [MeasureRows](https://www.powershellgallery.com/Packages/MeasureRows/0.9.3) | 0.9.3
-
-### Published: 09/23/2025 08:12:37 by florian.von.bracht@apteco.de
-
-Apteco PS Modules - PowerShell file rows count
-
-Just use
-
-Measure-Row -Path "C:\Temp\Example.csv"
-
-or
-
-"C:\Temp\Example.csv" | Measure-Row -SkipFirstRow
-
-or
-
-Measure-Row -Path "C:\Temp\Example.csv" -Encoding UTF8
-
-or even
-
-"C:\Users\Florian\Downloads\adressen.csv", "C:\Users\Florian\Downloads\italian.csv" | Measure-Row -SkipFirstRow -Encoding ([System.Text.Encoding]::UTF8)
-
-to count the rows in a csv file. It uses a .NET streamreader and is extremly fast.
-
-The default encoding is UTF8, but it uses the ones available in [System.Text.Encoding]
-
-If you want to skip the first line, just use this Switch -SkipFirstRow
-
-__Downloads__: 167 | __Repository__: https://github.com/Apteco/AptecoPSModules/tree/main/MeasureRows
-
 ## [GoogleFonts](https://www.powershellgallery.com/Packages/GoogleFonts/1.0.64) | 1.0.64
 
 ### Published: 09/23/2025 05:31:53 by PSModule
@@ -1884,118 +2108,6 @@ __Downloads__: 167 | __Repository__: https://github.com/Apteco/AptecoPSModules/t
 A PowerShell module to download and install fonts from GoogleFonts.
 
 __Downloads__: 13,795 | __Repository__: https://github.com/PSModule/GoogleFonts
-
-## [AdminToolbox](https://www.powershellgallery.com/Packages/AdminToolbox/12.0.0.41) | 12.0.0.41
-
-### Published: 09/23/2025 03:17:03 by Taylor Lee
-
-Master module for a collection of modules. These modules are varied in their tasks. The overall purpose of them being to provide a powerfull Toolset to improve IT Admin workflows.
-
-__Downloads__: 130,598 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox
-
-## [AdminToolbox.SecOps](https://www.powershellgallery.com/Packages/AdminToolbox.SecOps/1.5.0.28) | 1.5.0.28
-
-### Published: 09/23/2025 03:15:51 by Taylor Lee
-
-Functions for Security Operations and Investigations
-
-__Downloads__: 4,181 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-## [AdminToolbox.FortiWizard](https://www.powershellgallery.com/Packages/AdminToolbox.FortiWizard/2.22.0.53) | 2.22.0.53
-
-### Published: 09/23/2025 03:15:48 by Taylor Lee
-
-Functions that generate configuration scripts and manage FortiOS.
-
-__Downloads__: 115,953 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-## [AdminToolbox.VMWareAutomate](https://www.powershellgallery.com/Packages/AdminToolbox.VMWareAutomate/4.9.0.82) | 4.9.0.82
-
-### Published: 09/23/2025 03:14:43 by Taylor Lee
-
-Functions to Automate Bulk VMWare Tasks
-
-__Downloads__: 123,950 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-## [AdminToolbox.Remoting](https://www.powershellgallery.com/Packages/AdminToolbox.Remoting/1.10.1.28) | 1.10.1.28
-
-### Published: 09/23/2025 03:14:40 by Taylor Lee
-
-Functions for remote management and access.
-
-__Downloads__: 122,016 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-## [AdminToolbox.Office365](https://www.powershellgallery.com/Packages/AdminToolbox.Office365/5.4.1.7) | 5.4.1.7
-
-### Published: 09/23/2025 03:14:37 by Taylor Lee
-
-Functions for working with Office365 and Azure modules
-
-__Downloads__: 135,716 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-## [AdminToolbox.Networking](https://www.powershellgallery.com/Packages/AdminToolbox.Networking/2.23.0.15) | 2.23.0.15
-
-### Published: 09/23/2025 03:14:33 by Taylor Lee
-
-Network Troubleshooting Functions
-
-__Downloads__: 338,281 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-## [AdminToolbox.MSGraph](https://www.powershellgallery.com/Packages/AdminToolbox.MSGraph/1.5.0.79) | 1.5.0.79
-
-### Published: 09/23/2025 03:14:29 by Taylor Lee
-
-Microsoft Graph interactive API Functions
-
-__Downloads__: 109,129 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-## [AdminToolbox.Fun](https://www.powershellgallery.com/Packages/AdminToolbox.Fun/1.7.0.82) | 1.7.0.82
-
-### Published: 09/23/2025 03:14:26 by Taylor Lee
-
-Functions that have no purpose
-
-__Downloads__: 125,118 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-## [AdminToolbox.FileManagement](https://www.powershellgallery.com/Packages/AdminToolbox.FileManagement/1.17.0.82) | 1.17.0.82
-
-### Published: 09/23/2025 03:14:21 by Taylor Lee
-
-File Management Functions
-
-__Downloads__: 157,606 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-## [AdminToolbox.FFTools](https://www.powershellgallery.com/Packages/AdminToolbox.FFTools/4.17.0.82) | 4.17.0.82
-
-### Published: 09/23/2025 03:14:16 by Taylor Lee
-
-Expedite simple ffmpeg actions
-
-__Downloads__: 227,857 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-## [AdminToolbox.Exchange](https://www.powershellgallery.com/Packages/AdminToolbox.Exchange/1.10.0.82) | 1.10.0.82
-
-### Published: 09/23/2025 03:14:11 by Taylor Lee
-
-Functions for Exchange Management
-
-__Downloads__: 189,924 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-## [AdminToolbox.EndpointManagement](https://www.powershellgallery.com/Packages/AdminToolbox.EndpointManagement/4.15.1.9) | 4.15.1.9
-
-### Published: 09/23/2025 03:14:07 by Taylor Lee
-
-Functions for management of endpoints
-
-__Downloads__: 177,678 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-## [AdminToolbox.ActiveDirectory](https://www.powershellgallery.com/Packages/AdminToolbox.ActiveDirectory/1.12.0.44) | 1.12.0.44
-
-### Published: 09/23/2025 03:14:03 by Taylor Lee
-
-Functions for Active Directory
-
-__Downloads__: 195,114 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [MASES.NavenPS](https://www.powershellgallery.com/Packages/MASES.NavenPS/3.9.2) | 3.9.2
 
@@ -2039,7 +2151,7 @@ __Downloads__: 36 | __Repository__: https://github.com/masesgroup/PLCOnNet
 
 A handful of useful tools for System Center Operations Manager (SCOM) activities.
 
-__Downloads__: 314,659 | __Repository__: https://monitoringguys.com/2019/11/12/scomhelper/
+__Downloads__: 314,657 | __Repository__: https://monitoringguys.com/2019/11/12/scomhelper/
 
 ## [MASES.JNetPS](https://www.powershellgallery.com/Packages/MASES.JNetPS/2.6.4) | 2.6.4
 
@@ -2125,14 +2237,6 @@ The DFIR-O365RC module will extract logs from the unified audit log (using Excha
 
 __Downloads__: 216 | __Repository__: 
 
-## [FoundationaLLM.Core](https://www.powershellgallery.com/Packages/FoundationaLLM.Core/0.0.19) | 0.0.19
-
-### Published: 09/22/2025 13:09:51 by ciprian@foundationallm.ai
-
-Provides core functionality for FoundationaLLM, including package deployment and management.
-
-__Downloads__: 154 | __Repository__: 
-
 ## [EntraIDDeviceTrust.Client](https://www.powershellgallery.com/Packages/EntraIDDeviceTrust.Client/1.0.1) | 1.0.1
 
 ### Published: 09/22/2025 12:54:18 by Nickolaj Andersen
@@ -2149,100 +2253,4 @@ Provides a set of functions to validate if a request against a Function App come
 
 __Downloads__: 5 | __Repository__: https://github.com/MSEndpointMgr/EntraIDDeviceTrust
 
-## [PS.M365LicenseAssignmentReport](https://www.powershellgallery.com/Packages/PS.M365LicenseAssignmentReport/0.2.1) | 0.2.1
-
-### Published: 09/22/2025 10:06:00 by June Castillote
-
-Export Microsoft 365 user assignments using PowerShell and Microsoft Graph API
-
-__Downloads__: 11 | __Repository__: https://github.com/junecastillote/PS.M365LicenseAssignmentReport
-
-## [UiPathOrch](https://www.powershellgallery.com/Packages/UiPathOrch/0.9.14.14) | 0.9.14.14
-
-### Published: 09/22/2025 08:27:21 by Yoshifumi Tsuda
-
-PSDrives and cmdlets for UiPath Orchestrator. 💡 First time? Run: Get-OrchHelp
-
-__Downloads__: 2,916 | __Repository__: 
-
-## [eNLib](https://www.powershellgallery.com/Packages/eNLib/1.4.1) | 1.4.1
-
-### Published: 09/22/2025 06:14:44 by ::))o-
-
-powerfull write-log function forking information to the screen and to the file with timestamp and screen colouring and more, CSV manipulation functions allowing to convert to and from XLS and load CSV with header check, password generator, input message GUI, connection checkers and couple other usefull functions accelerating scripting and helping in everyday work with commandline.
-
-__Downloads__: 1,632 | __Repository__: https://github.com/nExoRek/eN-Lib/tree/master/eNLib
-
-## [SixPivot.Azure](https://www.powershellgallery.com/Packages/SixPivot.Azure/1.0.50) | 1.0.50
-
-### Published: 09/22/2025 04:00:08 by David Gardiner
-
-Azure cmdlets created by SixPivot
-
-__Downloads__: 1,708 | __Repository__: https://github.com/SixPivot/sixpivot-azure-powershell-module
-
-## [AppVeyorTestPsGallery](https://www.powershellgallery.com/Packages/AppVeyorTestPsGallery/1.0.678) | 1.0.678
-
-### Published: 09/21/2025 21:13:30 by Feodor Fitsner
-
-The test module to verify publishing to PSGallery from AppVeyor.
-
-__Downloads__: 43,563 | __Repository__: 
-
-## [AppManiProgramManager](https://www.powershellgallery.com/Packages/AppManiProgramManager/1.77.0) | 1.77.0
-
-### Published: 09/21/2025 20:16:37 by AppMani
-
-Module for installing basic programs: This module provides functions for downloading installers from specified links, installing the programs, verifying the installed programs/services, and cleaning up the installer files.
-
-__Downloads__: 149,812 | __Repository__: 
-
-## [PSParseHTML](https://www.powershellgallery.com/Packages/PSParseHTML/2.0.5) | 2.0.5
-
-### Published: 09/21/2025 19:02:55 by Przemyslaw Klys
-
-Module that allows to manipulate, parse, format and optimize HTML, JavaScript and CSS
-
-__Downloads__: 192,241 | __Repository__: https://github.com/EvotecIT/PSParseHTML
-
-## [PoshSonarr](https://www.powershellgallery.com/Packages/PoshSonarr/2.0.0) | 2.0.0
-
-### Published: 09/21/2025 17:20:33 by Mike Garvey
-
-A PowerShell module for querying and managing Sonarr PVR through its APIs.
-
-__Downloads__: 9,647 | __Repository__: https://github.com/Yevrag35/PoshSonarr
-
-## [GetTargetChoice](https://www.powershellgallery.com/Packages/GetTargetChoice/1.0.1) | 1.0.1
-
-### Published: 09/21/2025 03:04:17 by Toenn Vaot
-
-Powershell module with command for asking a question to user to choose the process target between Debug or Release
-
-__Downloads__: 29 | __Repository__: https://github.com/toenn-vaot/psmodule-get-target-choice
-
-## [GetBoolChoice](https://www.powershellgallery.com/Packages/GetBoolChoice/1.0.1) | 1.0.1
-
-### Published: 09/21/2025 02:59:19 by Toenn Vaot
-
-Powershell module with command for asking a boolean question to user with or without default value
-
-__Downloads__: 27 | __Repository__: https://github.com/toenn-vaot/psmodule-get-bool-choice
-
-## [UpdateServiceAccount](https://www.powershellgallery.com/Packages/UpdateServiceAccount/1.0.0) | 1.0.0
-
-### Published: 09/21/2025 02:24:00 by Toenn Vaot
-
-Powershell module with command to update service account
-
-__Downloads__: 5 | __Repository__: https://github.com/toenn-vaot/psmodule-update-service-account
-
-## [tiPS](https://www.powershellgallery.com/Packages/tiPS/1.4.1) | 1.4.1
-
-### Published: 09/20/2025 20:17:33 by Daniel Schroeder
-
-PowerShell tips delivered straight to your terminal.
-
-__Downloads__: 36,809 | __Repository__: https://github.com/deadlydog/PowerShell.tiPS
-
-*Updated: Wednesday, 24 September 2025 09:52:18 UTC*
+*Updated: Wednesday, 24 September 2025 21:52:12 UTC*

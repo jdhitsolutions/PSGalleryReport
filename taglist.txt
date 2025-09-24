@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Wednesday, 24 September 2025 09:52:29 UTC
+Updated: Wednesday, 24 September 2025 21:52:21 UTC
 
 .bat
 .env
@@ -256,7 +256,6 @@ adxingestion
 aem
 aeries
 aeriessis
-aerofetch
 aes
 aesgcm
 afd
@@ -309,7 +308,6 @@ alac
 alain
 alarm
 alb
-albums
 alc
 alero
 alert
@@ -556,7 +554,6 @@ ascii85
 asciiart
 asdatabase
 asigra
-asjob
 ask-gpt
 askgpt
 asm
@@ -1277,10 +1274,6 @@ checkov
 checkpoint
 checks
 checksum
-chef
-chef-automate
-chef-compliance
-chef-server
 chefconf2016
 chenxizhang
 cherrypy
@@ -1297,7 +1290,6 @@ chocolatey
 choice
 choose_file
 choose_file_name
-choose_folder
 chooser
 christaylorcodes
 christmas
@@ -1470,6 +1462,7 @@ cockroachdb
 codaamok
 code
 code-completion
+code-page
 code365
 codeagent
 codeanalysis
@@ -1545,6 +1538,7 @@ commence
 comment
 comments
 commerce
+commfort
 commit
 commits
 common
@@ -1717,8 +1711,6 @@ converttomd
 conway
 cookie
 coolq
-cooltag1
-cooltag2
 coordinates
 copilot
 copy
@@ -1893,6 +1885,7 @@ cx
 cyber
 cyberark
 cyberark-api
+cyberark-dpa
 cyberark-identity
 cyberdrain
 cybereason
@@ -2120,7 +2113,6 @@ desktopvirtualization
 details
 detect
 detection
-detectionrule
 deutschland
 dev
 dev-tools
@@ -2249,7 +2241,6 @@ distributiongroups
 distributionlist
 distributionpointgroupmembers
 distrubtionpoint
-dividends
 diving
 division
 divoom
@@ -2452,6 +2443,7 @@ dword
 dxexpeditions
 dynamic
 dynamic-host-configuration-protocol
+dynamic-privileged-access
 dynamicdistributiongroups
 dynamicdistributionlist
 dynamicdnsoverhttps
@@ -2654,6 +2646,7 @@ escapesequences
 escaping
 ese
 esent
+esoteric
 esp
 esp-idf
 esp32
@@ -2997,6 +2990,7 @@ fleetsoftwareupdate
 flex
 flex-query
 flexdesk
+flexible
 flickr
 flowchart
 flowy
@@ -3250,6 +3244,8 @@ gist
 git
 git-client
 git-clone
+git-flow
+git-lfs
 git-open
 git-proxy
 git-rename
@@ -3474,6 +3470,7 @@ healthcare
 healthcareapis
 healthcheck
 healthchecks
+healthchecks.io
 healthdataaiservices
 healthservice
 healthz
@@ -3839,6 +3836,7 @@ integrated
 integratedscriptingeditor
 integration
 integrationaccount
+integrationruntime
 integrationruntimedependency
 integrationservicescatalog
 integrity
@@ -3963,7 +3961,6 @@ it
 it-support
 it-tool
 it-tools
-itadministration
 italic-text
 item
 itemlist
@@ -4073,7 +4070,6 @@ karabiner
 karabiner-elements
 karma
 kaseya
-kaseyavsa
 kaspersky
 katakana
 kb
@@ -4393,7 +4389,6 @@ login-rdp
 logingestion
 loginscreen
 loginsight
-logiphys
 logistic
 logitech
 logmail
@@ -4499,7 +4494,6 @@ maker
 malware
 mamagedidentity
 maml
-man-highlighting
 manage
 manage-wmi
 manageability
@@ -4526,7 +4520,6 @@ manager
 mangement
 manifest
 manifested
-manual
 map
 mapapi
 mapi
@@ -4714,6 +4707,7 @@ microsoftmonitoringagent
 microsoftmvp
 microsoftoffice
 microsoftonline
+microsoftsentinel
 microsoftstaffhub
 microsoftstore
 microsoftteams
@@ -4979,6 +4973,7 @@ nasdaq
 nationalinstruments
 native
 natpool
+natural
 natural-language-to-code
 natural-selection
 nature
@@ -5300,7 +5295,6 @@ onedrive
 onedriveforbusiness
 oneget
 oneidentity
-onelogin
 oneloginapi
 onenote
 onestools
@@ -5380,6 +5374,7 @@ optimizer
 option
 option119
 options
+optionstring
 opus
 oracle
 oraclecloudinfrastructure
@@ -5398,7 +5393,6 @@ orion
 orleans
 orm
 orphaned
-orphanedprofiles
 os
 osbuild
 osbuilder
@@ -5693,7 +5687,6 @@ play
 playback
 playbook
 player
-playlists
 playwright
 plc
 plc4x™
@@ -5813,6 +5806,8 @@ poshy-wrap-forgit
 poshy-wrap-gem
 poshy-wrap-gh
 poshy-wrap-git
+poshy-wrap-git-flow
+poshy-wrap-git-lfs
 poshy-wrap-golang
 poshy-wrap-helm
 poshy-wrap-kubectl
@@ -6017,13 +6012,11 @@ productmedia
 products
 productstate
 profile
-profilecleanup
 profilemanagement
 profilemigration
 profiler
 profiles
 profileupdater
-profilevalidation
 proget
 program
 program-association
@@ -6130,6 +6123,7 @@ pscommand_acsp
 pscommand_add_ssh
 pscommand_add-envpathitem
 pscommand_add-envvarpathitem
+pscommand_add-gitlfstrackedfiles
 pscommand_add-gitremote
 pscommand_add-gitskipworktreeflag
 pscommand_add-gitsubmodule
@@ -6468,10 +6462,12 @@ pscommand_gcamg
 pscommand_gcams
 pscommand_gcamu
 pscommand_gcb
+pscommand_gcd
 pscommand_gcem
 pscommand_gcf
 pscommand_gcfl
 pscommand_gcfls
+pscommand_gch
 pscommand_gci
 pscommand_gcl
 pscommand_gclcd
@@ -6494,6 +6490,7 @@ pscommand_gcp
 pscommand_gcpa
 pscommand_gcpc
 pscommand_gcpx
+pscommand_gcr
 pscommand_gcsam
 pscommand_gct
 pscommand_gd
@@ -6551,6 +6548,7 @@ pscommand_get-gitdiffstash
 pscommand_get-gitdiffstashhead
 pscommand_get-gitdiffstashparent
 pscommand_get-gitignoredfiles
+pscommand_get-gitlfstrackedfiles
 pscommand_get-gitlogbranchcommitsunpushed
 pscommand_get-gitlogcommitspulledlast
 pscommand_get-gitloggraph
@@ -6587,6 +6585,27 @@ pscommand_geun
 pscommand_gexport
 pscommand_gf
 pscommand_gfa
+pscommand_gfl
+pscommand_gflf
+pscommand_gflff
+pscommand_gflffc
+pscommand_gflfp
+pscommand_gflfpc
+pscommand_gflfpll
+pscommand_gflfs
+pscommand_gflh
+pscommand_gflhf
+pscommand_gflhfc
+pscommand_gflhp
+pscommand_gflhpc
+pscommand_gflhs
+pscommand_gfli
+pscommand_gflr
+pscommand_gflrf
+pscommand_gflrfc
+pscommand_gflrp
+pscommand_gflrpc
+pscommand_gflrs
 pscommand_gfo
 pscommand_gft
 pscommand_gftv
@@ -6636,6 +6655,10 @@ pscommand_gitignore-reload
 pscommand_gittowork
 pscommand_gl
 pscommand_glf
+pscommand_glfsi
+pscommand_glfsls
+pscommand_glfsmi
+pscommand_glfst
 pscommand_glg
 pscommand_glgo
 pscommand_glgs
@@ -6684,6 +6707,7 @@ pscommand_gpatch
 pscommand_gpdo
 pscommand_gpf
 pscommand_gpl
+pscommand_gplfs
 pscommand_gplr
 pscommand_gplrs
 pscommand_gpo
@@ -6858,6 +6882,27 @@ pscommand_invoke-gitconfig
 pscommand_invoke-gitdifftool
 pscommand_invoke-gitfetch
 pscommand_invoke-gitfetchorigin
+pscommand_invoke-gitflow
+pscommand_invoke-gitflowfeature
+pscommand_invoke-gitflowfeaturefinish
+pscommand_invoke-gitflowfeaturefinishcurrent
+pscommand_invoke-gitflowfeaturepublish
+pscommand_invoke-gitflowfeaturepublishcurrent
+pscommand_invoke-gitflowfeaturepull
+pscommand_invoke-gitflowfeaturestart
+pscommand_invoke-gitflowhotfix
+pscommand_invoke-gitflowhotfixfinish
+pscommand_invoke-gitflowhotfixfinishcurrent
+pscommand_invoke-gitflowhotfixpublish
+pscommand_invoke-gitflowhotfixpublishcurrent
+pscommand_invoke-gitflowhotfixstart
+pscommand_invoke-gitflowinit
+pscommand_invoke-gitflowrelease
+pscommand_invoke-gitflowreleasefinish
+pscommand_invoke-gitflowreleasefinishcurrent
+pscommand_invoke-gitflowreleasepublish
+pscommand_invoke-gitflowreleasepublishcurrent
+pscommand_invoke-gitflowreleasestart
 pscommand_invoke-gitgui
 pscommand_invoke-githubapi
 pscommand_invoke-githubapi-bodyempty
@@ -6865,6 +6910,8 @@ pscommand_invoke-githubapi-bodyfields
 pscommand_invoke-githubapi-bodyfile
 pscommand_invoke-githubapi-bodyjson
 pscommand_invoke-githubapi-bodyraw
+pscommand_invoke-gitlfsinstall
+pscommand_invoke-gitlfsmigrateimport
 pscommand_invoke-gitmerge
 pscommand_invoke-gitpull
 pscommand_invoke-gitpush
@@ -7717,6 +7764,9 @@ pscommand_use-gitbranchmain
 pscommand_use-gitbranchnew
 pscommand_use-gitbranchprevious
 pscommand_use-gitbranchtracked
+pscommand_use-gitflowbranchdevelop
+pscommand_use-gitflowbranchhotfix
+pscommand_use-gitflowbranchrelease
 pscommand_use-gitstashentry
 pscommand_uuid
 pscommand_uuidgen
@@ -7888,6 +7938,7 @@ psfunction_aar
 psfunction_add_ssh
 psfunction_add-envpathitem
 psfunction_add-envvarpathitem
+psfunction_add-gitlfstrackedfiles
 psfunction_add-gitremote
 psfunction_add-gitskipworktreeflag
 psfunction_add-gitsubmodule
@@ -8095,6 +8146,7 @@ psfunction_get-gitdiffstash
 psfunction_get-gitdiffstashhead
 psfunction_get-gitdiffstashparent
 psfunction_get-gitignoredfiles
+psfunction_get-gitlfstrackedfiles
 psfunction_get-gitlogbranchcommitsunpushed
 psfunction_get-gitlogcommitspulledlast
 psfunction_get-gitloggraph
@@ -8159,6 +8211,7 @@ psfunction_git-global-show-proxy
 psfunction_git-show-proxy
 psfunction_gitignore-reload
 psfunction_gittowork
+psfunction_gplfs
 psfunction_hostname
 psfunction_invoke-aptcachepolicy
 psfunction_invoke-aptcachesearch
@@ -8244,6 +8297,27 @@ psfunction_invoke-gitconfig
 psfunction_invoke-gitdifftool
 psfunction_invoke-gitfetch
 psfunction_invoke-gitfetchorigin
+psfunction_invoke-gitflow
+psfunction_invoke-gitflowfeature
+psfunction_invoke-gitflowfeaturefinish
+psfunction_invoke-gitflowfeaturefinishcurrent
+psfunction_invoke-gitflowfeaturepublish
+psfunction_invoke-gitflowfeaturepublishcurrent
+psfunction_invoke-gitflowfeaturepull
+psfunction_invoke-gitflowfeaturestart
+psfunction_invoke-gitflowhotfix
+psfunction_invoke-gitflowhotfixfinish
+psfunction_invoke-gitflowhotfixfinishcurrent
+psfunction_invoke-gitflowhotfixpublish
+psfunction_invoke-gitflowhotfixpublishcurrent
+psfunction_invoke-gitflowhotfixstart
+psfunction_invoke-gitflowinit
+psfunction_invoke-gitflowrelease
+psfunction_invoke-gitflowreleasefinish
+psfunction_invoke-gitflowreleasefinishcurrent
+psfunction_invoke-gitflowreleasepublish
+psfunction_invoke-gitflowreleasepublishcurrent
+psfunction_invoke-gitflowreleasestart
 psfunction_invoke-gitgui
 psfunction_invoke-githubapi
 psfunction_invoke-githubapi-bodyempty
@@ -8251,6 +8325,8 @@ psfunction_invoke-githubapi-bodyfields
 psfunction_invoke-githubapi-bodyfile
 psfunction_invoke-githubapi-bodyjson
 psfunction_invoke-githubapi-bodyraw
+psfunction_invoke-gitlfsinstall
+psfunction_invoke-gitlfsmigrateimport
 psfunction_invoke-gitmerge
 psfunction_invoke-gitpull
 psfunction_invoke-gitpush
@@ -8870,6 +8946,9 @@ psfunction_use-gitbranchmain
 psfunction_use-gitbranchnew
 psfunction_use-gitbranchprevious
 psfunction_use-gitbranchtracked
+psfunction_use-gitflowbranchdevelop
+psfunction_use-gitflowbranchhotfix
+psfunction_use-gitflowbranchrelease
 psfunction_use-gitstashentry
 psfunction_write-gitcommit
 psfunction_write-gitcommitall
@@ -9696,6 +9775,7 @@ secretsanta
 secretscanner
 secretserver
 secretshub
+secretsmanagement
 secretsmanager
 secretstore
 secretvault
@@ -9921,7 +10001,6 @@ shutdown
 sid
 siem
 sif
-sigma
 sign
 signal
 signalfx
@@ -10121,7 +10200,6 @@ speaker
 spec
 specification
 specify
-specs
 spectre
 spectre.console
 spectrumconnect
@@ -10471,6 +10549,7 @@ system
 system information 1394 controller baseboard motherboard systemboard battery bios bus cache memory cd dvd rom drive compact disc desktop monitor disk partition fan floppy glide point heatpipe ide infrared device keyboard local logical array mouse'
 system-administration
 system-group
+system-info
 system-service
 system-services
 system.directoryservices.protocols
@@ -10691,6 +10770,7 @@ threat-hunting
 threatdefense
 threathunting
 threatintelligence
+threatintelligenceindicators
 threatintelligenceplatform
 threatprotection
 threats
@@ -10825,7 +10905,6 @@ trendmicro
 trevor
 trevorsullivan
 triangle
-tribeloo
 trick
 tricks
 trigger
@@ -11042,6 +11121,8 @@ updmgmt
 upgrade
 uplift
 uplink
+uploadindicators
+uploadindicatorsapi
 ups
 upsource
 upstream
@@ -11081,8 +11162,6 @@ usermail
 usermanagement
 username
 userprofile
-userprofiles
-userprofiletools
 userreports
 userright
 userrights
@@ -11563,8 +11642,6 @@ windowspackagemanager
 windowsplugins
 windowspowershell
 windowspresentationfoundation
-windowsprofiles
-windowsregistry
 windowsreleasehealth
 windowsrest
 windowssandbox
@@ -11611,6 +11688,7 @@ wisconsin-madison
 wisconsin'uw-madison
 wisdom
 with
+wiz
 wizard
 wkhtmltopdf
 wlan
