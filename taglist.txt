@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Thursday, 25 September 2025 09:52:43 UTC
+Updated: Thursday, 25 September 2025 21:52:11 UTC
 
 .bat
 .env
@@ -212,6 +212,7 @@ admin
 admin-tools
 adminbyrequest
 admincenter
+admindirectory
 administration
 administrative
 administrativeunit
@@ -255,7 +256,6 @@ adxingestion
 aem
 aeries
 aeriessis
-aerofetch
 aes
 aesgcm
 afd
@@ -329,7 +329,6 @@ alignment
 alive
 all
 alletra
-alloydb
 alm
 almrangers
 alpha
@@ -467,7 +466,6 @@ applicationinsights
 applicationmigration
 applicationmonitor
 applications
-applicationworkspace
 applocker
 apply
 appmgmtcontrol
@@ -812,7 +810,6 @@ azureinformationprotection
 azureiot
 azureiothub
 azurekeyvault
-azurekeyvaultstuff
 azurelocal
 azuremaps
 azuremigrate
@@ -1387,6 +1384,7 @@ clientsettingssoftwareupdate
 clientsettingsstatemessaging
 clientsettingsuserdeviceaffinity
 clientstatussettings
+clihelper.core
 clihelper.logger
 clihelper.semver
 clihelper.trends
@@ -1544,6 +1542,7 @@ commence
 comment
 comments
 commerce
+commfort
 commit
 commits
 common
@@ -2182,6 +2181,7 @@ digitaltwins
 dilbert
 dimcry
 dircolors
+direct_send
 director
 directories
 directory
@@ -2196,6 +2196,7 @@ directorysearcher
 directorysecurity
 directoryservices
 directrouting
+directsend
 directus
 direnv
 dirkjan
@@ -2269,6 +2270,7 @@ dmi
 dmtf
 dmx
 dnd
+dnf
 dns
 dns-01
 dns-administration
@@ -2555,7 +2557,6 @@ emailmanagment
 emailnotification
 emailnotificationcomponent
 emailsecurity
-embedded
 embedding
 emc
 emcomm
@@ -2654,11 +2655,7 @@ escaping
 ese
 esent
 esoteric
-esp
-esp-idf
 esp32
-esp32s2
-espressif
 espresso
 esri
 essbase
@@ -3480,7 +3477,6 @@ healthchecks
 healthchecks.io
 healthdataaiservices
 healthservice
-healthz
 heartbeatdiscovery
 heat
 heating
@@ -3697,7 +3693,6 @@ identitydirector
 identitydomains
 identitynow
 identitysecuritycloud
-idf
 idm
 idn
 idna
@@ -3843,7 +3838,6 @@ integrated
 integratedscriptingeditor
 integration
 integrationaccount
-integrationruntime
 integrationruntimedependency
 integrationservicescatalog
 integrity
@@ -4119,7 +4113,6 @@ keymapping
 keypair
 keysms
 keyusage
-keyvalue
 keyvault
 keywords
 kfum-spejderne
@@ -4306,6 +4299,8 @@ linux-command
 linux-style
 linuxssh
 liquid
+liquit
+liquit.com
 list
 list_files
 list-directory
@@ -4706,7 +4701,6 @@ microsoftdefenderatp
 microsoftdefenderforidentity
 microsoftdeploymenttoolkit
 microsoftendpointmanager
-microsoftentra
 microsoftexchangeserver
 microsoftfabric
 microsoftgraph
@@ -4992,6 +4986,7 @@ nav
 naven
 navenps
 navigation
+nbi
 ncal
 ncrestapi
 ndes
@@ -5372,6 +5367,7 @@ operationsmanagementsuiteagent
 operationsmanager
 operationvalidation
 operatoraccesscontrol
+opml
 ops
 opsi
 opsmgr
@@ -5439,12 +5435,15 @@ ou
 ou-object
 oui
 oui-search
+oura
+ouraring
 out-consolegridview
 out-default
 out-gridview
 out-json
 outerjoin
 outertext
+outline
 outlook
 outpainting
 output
@@ -5806,6 +5805,7 @@ poshy-wrap-apt
 poshy-wrap-argcomplete
 poshy-wrap-brew
 poshy-wrap-curl
+poshy-wrap-dnf
 poshy-wrap-docker
 poshy-wrap-docker-compose
 poshy-wrap-dotnet
@@ -6064,6 +6064,9 @@ provisioning
 provisioningagent
 provisioningpackage
 provisonedpackage
+prowl
+prowl-notifications
+prowlapp
 proxmox
 proxmoxve
 proxsys
@@ -6262,6 +6265,19 @@ pscommand_dlo
 pscommand_dnc
 pscommand_dncn
 pscommand_dndcn
+pscommand_dnfc
+pscommand_dnfgi
+pscommand_dnfgl
+pscommand_dnfgr
+pscommand_dnfi
+pscommand_dnfl
+pscommand_dnfli
+pscommand_dnfmc
+pscommand_dnfp
+pscommand_dnfr
+pscommand_dnfri
+pscommand_dnfs
+pscommand_dnfu
 pscommand_dni
 pscommand_dnls
 pscommand_dnrm
@@ -6815,6 +6831,19 @@ pscommand_invoke-curlfollowingredirectsdownloadasnamedcontinue
 pscommand_invoke-curlfollowingredirectsdownloadasnamedcontinueandretry
 pscommand_invoke-curlfollowingredirectsfetchbanner
 pscommand_invoke-curlonlyforgetresponseheaders
+pscommand_invoke-dnfcleanall
+pscommand_invoke-dnfgrouplist
+pscommand_invoke-dnfgrouppinstall
+pscommand_invoke-dnfgroupremove
+pscommand_invoke-dnfinfo
+pscommand_invoke-dnfinstall
+pscommand_invoke-dnflist
+pscommand_invoke-dnflistinstalled
+pscommand_invoke-dnfmakecache
+pscommand_invoke-dnfreinstall
+pscommand_invoke-dnfremove
+pscommand_invoke-dnfsearch
+pscommand_invoke-dnfupgrade
 pscommand_invoke-dockercomposebuild
 pscommand_invoke-dockercomposedown
 pscommand_invoke-dockercomposeexec
@@ -8217,6 +8246,19 @@ psfunction_invoke-curlfollowingredirectsdownloadasnamedcontinue
 psfunction_invoke-curlfollowingredirectsdownloadasnamedcontinueandretry
 psfunction_invoke-curlfollowingredirectsfetchbanner
 psfunction_invoke-curlonlyforgetresponseheaders
+psfunction_invoke-dnfcleanall
+psfunction_invoke-dnfgrouplist
+psfunction_invoke-dnfgrouppinstall
+psfunction_invoke-dnfgroupremove
+psfunction_invoke-dnfinfo
+psfunction_invoke-dnfinstall
+psfunction_invoke-dnflist
+psfunction_invoke-dnflistinstalled
+psfunction_invoke-dnfmakecache
+psfunction_invoke-dnfreinstall
+psfunction_invoke-dnfremove
+psfunction_invoke-dnfsearch
+psfunction_invoke-dnfupgrade
 psfunction_invoke-dockercomposebuild
 psfunction_invoke-dockercomposedown
 psfunction_invoke-dockercomposeexec
@@ -9064,6 +9106,7 @@ purple
 purview
 push
 push-location
+push-notifications
 pushd
 pushover
 pushoverapi
@@ -9227,7 +9270,6 @@ realvnc
 rebase
 reboot
 rebootnodeifneeded
-recastsoftware
 reckon
 recommendation
 reconcile
@@ -9467,6 +9509,7 @@ rightjoin
 rights
 rightsizing
 rightsmanagement
+ring
 ripe
 risk
 riskiq
@@ -9737,7 +9780,6 @@ secretsanta
 secretscanner
 secretserver
 secretshub
-secretsmanagement
 secretsmanager
 secretstore
 secretvault
@@ -10163,7 +10205,6 @@ speaker
 spec
 specification
 specify
-specs
 spectre
 spectre.console
 spectrumconnect
@@ -10678,6 +10719,7 @@ testlab
 testplans
 testreport
 tests
+testsuite
 testtag1
 testtag2
 testtool
@@ -10950,7 +10992,6 @@ ud-avataaar
 ud-badgebutton
 ud-badgelink
 ud-breadcrumb
-ud-breadcrumbitem
 ud-burger
 ud-button
 ud-buttonloader
@@ -10987,7 +11028,6 @@ ud-signature
 ud-simpledrawer
 ud-singleselect
 ud-slider
-ud-speechbubble
 ud-step
 ud-stepbar
 ud-stickynavbar
@@ -11486,6 +11526,7 @@ well-known
 wem
 wemsdk
 wer
+wfp
 wget
 what3words
 whatif
