@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Wednesday, 24 September 2025 21:52:21 UTC
+Updated: Thursday, 25 September 2025 09:52:43 UTC
 
 .bat
 .env
@@ -212,7 +212,6 @@ admin
 admin-tools
 adminbyrequest
 admincenter
-admindirectory
 administration
 administrative
 administrativeunit
@@ -256,6 +255,7 @@ adxingestion
 aem
 aeries
 aeriessis
+aerofetch
 aes
 aesgcm
 afd
@@ -308,6 +308,7 @@ alac
 alain
 alarm
 alb
+albums
 alc
 alero
 alert
@@ -554,6 +555,7 @@ ascii85
 asciiart
 asdatabase
 asigra
+asjob
 ask-gpt
 askgpt
 asm
@@ -1274,6 +1276,10 @@ checkov
 checkpoint
 checks
 checksum
+chef
+chef-automate
+chef-compliance
+chef-server
 chefconf2016
 chenxizhang
 cherrypy
@@ -1290,6 +1296,7 @@ chocolatey
 choice
 choose_file
 choose_file_name
+choose_folder
 chooser
 christaylorcodes
 christmas
@@ -1380,7 +1387,6 @@ clientsettingssoftwareupdate
 clientsettingsstatemessaging
 clientsettingsuserdeviceaffinity
 clientstatussettings
-clihelper.core
 clihelper.logger
 clihelper.semver
 clihelper.trends
@@ -1538,7 +1544,6 @@ commence
 comment
 comments
 commerce
-commfort
 commit
 commits
 common
@@ -1711,6 +1716,8 @@ converttomd
 conway
 cookie
 coolq
+cooltag1
+cooltag2
 coordinates
 copilot
 copy
@@ -2018,7 +2025,6 @@ dbwebapi
 dc
 dcim
 dcim_b324
-dcom
 dconf
 dcr
 ddc
@@ -2113,6 +2119,7 @@ desktopvirtualization
 details
 detect
 detection
+detectionrule
 deutschland
 dev
 dev-tools
@@ -2241,6 +2248,7 @@ distributiongroups
 distributionlist
 distributionpointgroupmembers
 distrubtionpoint
+dividends
 diving
 division
 divoom
@@ -2261,7 +2269,6 @@ dmi
 dmtf
 dmx
 dnd
-dnf
 dns
 dns-01
 dns-administration
@@ -3961,6 +3968,7 @@ it
 it-support
 it-tool
 it-tools
+itadministration
 italic-text
 item
 itemlist
@@ -4070,6 +4078,7 @@ karabiner
 karabiner-elements
 karma
 kaseya
+kaseyavsa
 kaspersky
 katakana
 kb
@@ -4336,7 +4345,6 @@ localdb
 localdirectories
 locale
 localgroup
-localgroupmember
 localization
 localpolicy
 localrepository
@@ -4389,6 +4397,7 @@ login-rdp
 logingestion
 loginscreen
 loginsight
+logiphys
 logistic
 logitech
 logmail
@@ -4494,6 +4503,7 @@ maker
 malware
 mamagedidentity
 maml
+man-highlighting
 manage
 manage-wmi
 manageability
@@ -4520,6 +4530,7 @@ manager
 mangement
 manifest
 manifested
+manual
 map
 mapapi
 mapi
@@ -4981,7 +4992,6 @@ nav
 naven
 navenps
 navigation
-nbi
 ncal
 ncrestapi
 ndes
@@ -5295,6 +5305,7 @@ onedrive
 onedriveforbusiness
 oneget
 oneidentity
+onelogin
 oneloginapi
 onenote
 onestools
@@ -5361,7 +5372,6 @@ operationsmanagementsuiteagent
 operationsmanager
 operationvalidation
 operatoraccesscontrol
-opml
 ops
 opsi
 opsmgr
@@ -5393,6 +5403,7 @@ orion
 orleans
 orm
 orphaned
+orphanedprofiles
 os
 osbuild
 osbuilder
@@ -5400,7 +5411,6 @@ osbuildersus
 osd
 osdbuilder
 osdcloud
-osdcloud.michael
 osdeploy
 osdeployment
 osdprogress
@@ -5429,15 +5439,12 @@ ou
 ou-object
 oui
 oui-search
-oura
-ouraring
 out-consolegridview
 out-default
 out-gridview
 out-json
 outerjoin
 outertext
-outline
 outlook
 outpainting
 output
@@ -5687,6 +5694,7 @@ play
 playback
 playbook
 player
+playlists
 playwright
 plc
 plc4x™
@@ -5798,7 +5806,6 @@ poshy-wrap-apt
 poshy-wrap-argcomplete
 poshy-wrap-brew
 poshy-wrap-curl
-poshy-wrap-dnf
 poshy-wrap-docker
 poshy-wrap-docker-compose
 poshy-wrap-dotnet
@@ -5957,7 +5964,6 @@ preprocessing
 preprocessor
 prerequisites
 presentation
-presentationframework
 presenter
 presto
 preston-k-parsard
@@ -6012,11 +6018,13 @@ productmedia
 products
 productstate
 profile
+profilecleanup
 profilemanagement
 profilemigration
 profiler
 profiles
 profileupdater
+profilevalidation
 proget
 program
 program-association
@@ -6056,9 +6064,6 @@ provisioning
 provisioningagent
 provisioningpackage
 provisonedpackage
-prowl
-prowl-notifications
-prowlapp
 proxmox
 proxmoxve
 proxsys
@@ -6257,19 +6262,6 @@ pscommand_dlo
 pscommand_dnc
 pscommand_dncn
 pscommand_dndcn
-pscommand_dnfc
-pscommand_dnfgi
-pscommand_dnfgl
-pscommand_dnfgr
-pscommand_dnfi
-pscommand_dnfl
-pscommand_dnfli
-pscommand_dnfmc
-pscommand_dnfp
-pscommand_dnfr
-pscommand_dnfri
-pscommand_dnfs
-pscommand_dnfu
 pscommand_dni
 pscommand_dnls
 pscommand_dnrm
@@ -6823,19 +6815,6 @@ pscommand_invoke-curlfollowingredirectsdownloadasnamedcontinue
 pscommand_invoke-curlfollowingredirectsdownloadasnamedcontinueandretry
 pscommand_invoke-curlfollowingredirectsfetchbanner
 pscommand_invoke-curlonlyforgetresponseheaders
-pscommand_invoke-dnfcleanall
-pscommand_invoke-dnfgrouplist
-pscommand_invoke-dnfgrouppinstall
-pscommand_invoke-dnfgroupremove
-pscommand_invoke-dnfinfo
-pscommand_invoke-dnfinstall
-pscommand_invoke-dnflist
-pscommand_invoke-dnflistinstalled
-pscommand_invoke-dnfmakecache
-pscommand_invoke-dnfreinstall
-pscommand_invoke-dnfremove
-pscommand_invoke-dnfsearch
-pscommand_invoke-dnfupgrade
 pscommand_invoke-dockercomposebuild
 pscommand_invoke-dockercomposedown
 pscommand_invoke-dockercomposeexec
@@ -8238,19 +8217,6 @@ psfunction_invoke-curlfollowingredirectsdownloadasnamedcontinue
 psfunction_invoke-curlfollowingredirectsdownloadasnamedcontinueandretry
 psfunction_invoke-curlfollowingredirectsfetchbanner
 psfunction_invoke-curlonlyforgetresponseheaders
-psfunction_invoke-dnfcleanall
-psfunction_invoke-dnfgrouplist
-psfunction_invoke-dnfgrouppinstall
-psfunction_invoke-dnfgroupremove
-psfunction_invoke-dnfinfo
-psfunction_invoke-dnfinstall
-psfunction_invoke-dnflist
-psfunction_invoke-dnflistinstalled
-psfunction_invoke-dnfmakecache
-psfunction_invoke-dnfreinstall
-psfunction_invoke-dnfremove
-psfunction_invoke-dnfsearch
-psfunction_invoke-dnfupgrade
 psfunction_invoke-dockercomposebuild
 psfunction_invoke-dockercomposedown
 psfunction_invoke-dockercomposeexec
@@ -9098,7 +9064,6 @@ purple
 purview
 push
 push-location
-push-notifications
 pushd
 pushover
 pushoverapi
@@ -9359,7 +9324,6 @@ remote-browser
 remote-desktop
 remote'
 remoteaccess
-remoteadmin
 remotecert
 remoteconnection
 remoteconnectionsmanager
@@ -9373,7 +9337,6 @@ remotedirectories
 remotefiles
 remoteforensics
 remotehost
-remotelocalgroup
 remotelogoff
 remotemanagement
 remotepro
@@ -9504,7 +9467,6 @@ rightjoin
 rights
 rightsizing
 rightsmanagement
-ring
 ripe
 risk
 riskiq
@@ -10001,6 +9963,7 @@ shutdown
 sid
 siem
 sif
+sigma
 sign
 signal
 signalfx
@@ -10200,6 +10163,7 @@ speaker
 spec
 specification
 specify
+specs
 spectre
 spectre.console
 spectrumconnect
@@ -10714,7 +10678,6 @@ testlab
 testplans
 testreport
 tests
-testsuite
 testtag1
 testtag2
 testtool
@@ -10905,6 +10868,7 @@ trendmicro
 trevor
 trevorsullivan
 triangle
+tribeloo
 trick
 tricks
 trigger
@@ -11162,6 +11126,8 @@ usermail
 usermanagement
 username
 userprofile
+userprofiles
+userprofiletools
 userreports
 userright
 userrights
@@ -11642,6 +11608,8 @@ windowspackagemanager
 windowsplugins
 windowspowershell
 windowspresentationfoundation
+windowsprofiles
+windowsregistry
 windowsreleasehealth
 windowsrest
 windowssandbox
