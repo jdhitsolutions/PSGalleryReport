@@ -3,6 +3,38 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [UiPathOrch](https://www.powershellgallery.com/Packages/UiPathOrch/0.9.14.15) | 0.9.14.15
+
+### Published: 09/27/2025 07:24:55 by Yoshifumi Tsuda
+
+PSDrives and cmdlets for UiPath Orchestrator. 💡 First time? Run: Get-OrchHelp
+
+__Downloads__: 2,919 | __Repository__: 
+
+## [OSD](https://www.powershellgallery.com/Packages/OSD/25.9.27.1) | 25.9.27.1
+
+### Published: 09/27/2025 05:08:27 by David Segura . Gary Blok . Michael Escamilla
+
+OSD PowerShell Module for Windows Deployment
+
+__Downloads__: 5,061,639 | __Repository__: https://github.com/OSDeploy/OSD
+
+## [FarNet.Redis](https://www.powershellgallery.com/Packages/FarNet.Redis/0.17.7) | 0.17.7
+
+### Published: 09/27/2025 03:17:41 by Roman Kuzmin
+
+StackExchange.Redis cmdlets
+
+__Downloads__: 503 | __Repository__: https://github.com/nightroman/FarNet.Redis
+
+## [Evergreen](https://www.powershellgallery.com/Packages/Evergreen/2509.2489) | 2509.2489
+
+### Published: 09/27/2025 00:57:45 by Aaron Parker
+
+Create evergreen Windows image builds with the latest versions of applications. Evergreen is a simple PowerShell module that retrieves the latest version numbers and download URLs for various software products directly from the vendor source.
+
+__Downloads__: 11,078,341 | __Repository__: https://stealthpuppy.com/evergreen/
+
 ## [DSInternals.RpcFilters](https://www.powershellgallery.com/Packages/DSInternals.RpcFilters/1.1) | 1.1
 
 ### Published: 09/26/2025 21:40:06 by Michael Grafnetter
@@ -25,7 +57,7 @@ __Downloads__: 1,471 | __Repository__: https://github.com/brianary/SelectHtml/
 
 This module is used to get data from and write data into FreshService.
 
-__Downloads__: 0 | __Repository__: 
+__Downloads__: 1 | __Repository__: 
 
 ## [AcuInstallerHelper](https://www.powershellgallery.com/Packages/AcuInstallerHelper/0.7.1) | 0.7.1
 
@@ -65,7 +97,7 @@ __Downloads__: 3,085,611 | __Repository__: https://github.com/logicmonitor/lm-po
 
 UC Lobby Teams PowerShell Module
 
-__Downloads__: 5,769 | __Repository__: https://github.com/uclobby/UCLobbyTeams
+__Downloads__: 5,768 | __Repository__: https://github.com/uclobby/UCLobbyTeams
 
 ## [AzureOsintAdvanced](https://www.powershellgallery.com/Packages/AzureOsintAdvanced/1.0.0) | 1.0.0
 
@@ -81,15 +113,7 @@ __Downloads__: 0 | __Repository__:
 
 Module for PowerShell Universal.
 
-__Downloads__: 354,241 | __Repository__: https://ironmansoftware.com/powershell-universal
-
-## [OSD](https://www.powershellgallery.com/Packages/OSD/25.9.26.3) | 25.9.26.3
-
-### Published: 09/26/2025 17:07:46 by David Segura . Gary Blok . Michael Escamilla
-
-OSD PowerShell Module for Windows Deployment
-
-__Downloads__: 5,061,639 | __Repository__: https://github.com/OSDeploy/OSD
+__Downloads__: 354,237 | __Repository__: https://ironmansoftware.com/powershell-universal
 
 ## [PSTcpIp](https://www.powershellgallery.com/Packages/PSTcpIp/8.0.1) | 8.0.1
 
@@ -374,7 +398,7 @@ __Downloads__: 251 | __Repository__: https://github.com/FriedrichWeinmann/PkiExt
 
 A PowerShell module to download and install fonts from GoogleFonts.
 
-__Downloads__: 13,882 | __Repository__: https://github.com/PSModule/GoogleFonts
+__Downloads__: 13,883 | __Repository__: https://github.com/PSModule/GoogleFonts
 
 ## [EntraFIDOFinder](https://www.powershellgallery.com/Packages/EntraFIDOFinder/0.0.19) | 0.0.19
 
@@ -422,7 +446,7 @@ __Downloads__: 19 | __Repository__: https://github.com/pwshdevs/PSFluentObjectVa
 
 This module allows for interacting with the HubSpot API via native PowerShell cmdlets.
 
-__Downloads__: 373 | __Repository__: https://github.com/donmorgan-net/HubSpotApi
+__Downloads__: 374 | __Repository__: https://github.com/donmorgan-net/HubSpotApi
 
 ## [OraPatchDownload](https://www.powershellgallery.com/Packages/OraPatchDownload/1.2.0) | 1.2.0
 
@@ -718,7 +742,7 @@ __Downloads__: 4 | __Repository__:
 
 A PowerShell module to interact with GitHub, both interactively and via automation.
 
-__Downloads__: 429,519 | __Repository__: https://github.com/PSModule/GitHub
+__Downloads__: 429,516 | __Repository__: https://github.com/PSModule/GitHub
 
 ## [DisplayConfig](https://www.powershellgallery.com/Packages/DisplayConfig/5.2.1) | 5.2.1
 
@@ -735,6 +759,14 @@ __Downloads__: 82,635 | __Repository__: https://github.com/MartinGC94/DisplayCon
 A PowerShell module for facilitating deployment pipelines for Power Platform environments
 
 __Downloads__: 321 | __Repository__: https://github.com/ryanmichaeljames/pipe-dream
+
+## [ScoreHunter](https://www.powershellgallery.com/Packages/ScoreHunter/2.0.0) | 2.0.0
+
+### Published: 09/23/2025 23:59:45 by AnthoChamb
+
+A score optimizer for GHTV's Score Chaser
+
+__Downloads__: 23 | __Repository__: https://github.com/AnthoChamb/ScoreHunter
 
 ## [EntraIdDSC](https://www.powershellgallery.com/Packages/EntraIdDSC/0.6.3) | 0.6.3
 
@@ -1142,6 +1174,14 @@ __Downloads__: 12,635 | __Repository__: https://github.com/oracle/oci-powershell
 This modules provides Cmdlets for OCI Osubbillingschedule Service
 
 __Downloads__: 10,837 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+
+## [OCI.PSModules.Ospgateway](https://www.powershellgallery.com/Packages/OCI.PSModules.Ospgateway/116.0.0) | 116.0.0
+
+### Published: 09/23/2025 15:57:26 by Oracle Cloud Infrastructure
+
+This modules provides Cmdlets for OCI Ospgateway Service
+
+__Downloads__: 10,928 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
 ## [OCI.PSModules.Osmanagementhub](https://www.powershellgallery.com/Packages/OCI.PSModules.Osmanagementhub/116.0.0) | 116.0.0
 
@@ -2071,44 +2111,4 @@ This modules provides Cmdlets for OCI Aispeech Service
 
 __Downloads__: 11,528 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-## [OCI.PSModules.Ailanguage](https://www.powershellgallery.com/Packages/OCI.PSModules.Ailanguage/116.0.0) | 116.0.0
-
-### Published: 09/23/2025 15:40:58 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Ailanguage Service
-
-__Downloads__: 15,024 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Aidocument](https://www.powershellgallery.com/Packages/OCI.PSModules.Aidocument/116.0.0) | 116.0.0
-
-### Published: 09/23/2025 15:40:50 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Aidocument Service
-
-__Downloads__: 9,615 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Aidataplatform](https://www.powershellgallery.com/Packages/OCI.PSModules.Aidataplatform/116.0.0) | 116.0.0
-
-### Published: 09/23/2025 15:40:34 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Aidataplatform Service
-
-__Downloads__: 131 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Adm](https://www.powershellgallery.com/Packages/OCI.PSModules.Adm/116.0.0) | 116.0.0
-
-### Published: 09/23/2025 15:40:24 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Adm Service
-
-__Downloads__: 10,656 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Accessgovernancecp](https://www.powershellgallery.com/Packages/OCI.PSModules.Accessgovernancecp/116.0.0) | 116.0.0
-
-### Published: 09/23/2025 15:40:12 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Accessgovernancecp Service
-
-__Downloads__: 8,875 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-*Updated: Friday, 26 September 2025 21:52:11 UTC*
+*Updated: Saturday, 27 September 2025 09:52:15 UTC*

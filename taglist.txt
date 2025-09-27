@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Friday, 26 September 2025 21:52:20 UTC
+Updated: Saturday, 27 September 2025 09:52:24 UTC
 
 .bat
 .env
@@ -102,6 +102,7 @@ accord
 accord.net
 accordian
 account
+account-management
 accounting
 accounts
 ace
@@ -208,6 +209,7 @@ adlds
 adm
 admf
 admin
+admin-tools
 adminbyrequest
 admincenter
 admindirectory
@@ -604,6 +606,7 @@ atprotocol
 atrium
 att&ck
 attach
+attention
 attestation
 attila
 attribute
@@ -809,7 +812,6 @@ azureinformationprotection
 azureiot
 azureiothub
 azurekeyvault
-azurekeyvaultstuff
 azurelocal
 azuremaps
 azuremigrate
@@ -1034,7 +1036,6 @@ bootstrapping
 bop
 borg
 bot
-bots
 botservice
 bouncer
 boundaries
@@ -1512,6 +1513,7 @@ color-show
 colorcode
 colored
 colorful
+colorize
 colorized
 coloroutput
 colorpicker
@@ -1936,6 +1938,7 @@ data-backup
 data-tier
 data-uri
 data-uri-converter
+dataadapter
 database
 database-migrations
 databaseautomation
@@ -2968,6 +2971,7 @@ finops
 firebird
 firefox
 firewall
+firewall-management
 firewallrule
 firmware
 firmwareanalysis
@@ -3354,6 +3358,7 @@ graphquerylanguage
 graphs
 graphservices
 graphviz
+graylog
 greenlake
 greenplum
 gregorian
@@ -3435,6 +3440,7 @@ harden-windows-security
 hardening
 hardensysvol
 hardlink
+hardmatch
 hardware
 harperdb
 hartokens
@@ -3978,7 +3984,6 @@ iteration
 itg
 itglue
 itin
-itops
 itsm
 itstore
 ivanti
@@ -4029,6 +4034,7 @@ joke
 jokes
 jotform
 journal
+journalctl
 joyride
 jpg
 jq
@@ -4065,6 +4071,7 @@ jwe
 jwk
 jws
 jwt
+jwttoken
 k8s
 k8sshell
 k8ssnapshots
@@ -4115,7 +4122,6 @@ keymapping
 keypair
 keysms
 keyusage
-keyvalue
 keyvault
 keywords
 kfum-spejderne
@@ -4142,7 +4148,6 @@ kodi
 korn
 kotlin
 kql
-kraken
 krane
 krbtgt
 krick
@@ -4331,9 +4336,11 @@ loanddepot
 loandepot
 loc
 local
+local-account
 local-ai
 local-caching
 local-policy
+local-users
 localaccounts
 localadmin
 localconfigurationmanager
@@ -4562,6 +4569,7 @@ mask
 mass
 masstransit
 masterconfiguration
+match
 matcharray
 matchhashtable
 materialdesign
@@ -4668,7 +4676,6 @@ micro-framework
 micro-orm
 microfocus
 microk8s
-micropython
 microservices
 microsoft
 microsoft_365
@@ -4679,6 +4686,7 @@ microsoft_teams
 microsoft-entra
 microsoft-entra-id
 microsoft-graph
+microsoft-sentinel
 microsoft-teams
 microsoft-web-platform
 microsoft-windows
@@ -4829,6 +4837,7 @@ motivationalquotes
 mount
 mouse
 move
+movie
 movies
 mozilla
 mp3
@@ -4986,7 +4995,6 @@ nav
 naven
 navenps
 navigation
-nbi
 ncal
 ncrestapi
 ndes
@@ -5056,6 +5064,7 @@ networkloadbalancer
 networkpolicyserver
 networkprofile
 networkscan
+networksecurity
 networksecuritygroup
 networkshares
 netwrix
@@ -5417,6 +5426,7 @@ osm
 osmanagement
 osmanagementhub
 osp
+ospgateway
 osprovision
 osprovisioning
 osquery
@@ -8976,6 +8986,7 @@ psgallery
 psget
 psgitlab
 psgraph
+psgraylog
 pshdhomerun
 pshost
 pshtml
@@ -10070,7 +10081,6 @@ slack
 slash
 slashcommands
 sleep
-sleeper
 slideshow
 slmgr
 sln
@@ -10485,7 +10495,6 @@ supermarket
 support
 support-tool
 support-tools
-supporttools
 suppress
 supress-reboot
 surestacks
@@ -10718,7 +10727,6 @@ testlab
 testplans
 testreport
 tests
-testsuite
 testtag1
 testtag2
 testtool
@@ -10877,6 +10885,7 @@ transact
 transaction
 transactions
 transcode
+transcribe
 transcript
 transcripts
 transform
@@ -11324,7 +11333,6 @@ vlsc
 vlsm
 vm
 vmc
-vmconnect
 vmelamed5
 vmfs
 vmgroup
@@ -11479,6 +11487,7 @@ webcamera
 webcmdlets
 webdav
 webdeploy
+webdeveloper
 webfrequest
 webhdfs
 webhelpdesk
@@ -11597,9 +11606,12 @@ windows explorer
 windows_events
 windows-10
 windows-api
+windows-control-panel
+windows-defender
 windows-environment
 windows-explorer
 windows-features
+windows-firewall
 windows-path
 windows-powershell
 windows-registry
@@ -11861,13 +11873,16 @@ yarn
 yaugeraio
 year
 yetanotherhelloworld
+yify
 yml
 ynab
 yokohama
 youtube
 youtube-dl
+youtube-transcript
 youtubeextractor
 yq
+yts
 yubaba
 yubikey
 yum
