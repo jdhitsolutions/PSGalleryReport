@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Sunday, 28 September 2025 21:52:18 UTC
+Updated: Monday, 29 September 2025 09:51:47 UTC
 
 .bat
 .env
@@ -398,6 +398,7 @@ ansiblecontrolnode
 ansiblectl
 ansibletower
 anthropic
+anti-idle
 anti-malware
 antimalwarescaninterface
 antiphishing
@@ -411,7 +412,6 @@ anypoint
 anywhere
 aovpn psmodule
 apache
-apache_maven
 apachekafka
 apexlegends
 api
@@ -1149,6 +1149,7 @@ cam
 camera
 cameras
 campaign
+camtasia
 canarie
 canary
 cancel
@@ -1271,7 +1272,6 @@ checkdb
 checker
 checklist
 checklists
-checkov
 checkpoint
 checks
 checksum
@@ -1463,6 +1463,7 @@ cmtrace
 cmwt
 cnc
 cns
+co-writer
 coa
 cockroachdb
 codaamok
@@ -1574,6 +1575,7 @@ component
 composer
 composite
 compositeresource
+compoundproperty
 compress
 compression
 compromised
@@ -2535,6 +2537,7 @@ elevation
 elevenlabs
 elgato
 eli5
+elitism
 elk
 elm
 elmah-io
@@ -2608,8 +2611,6 @@ entity
 entityframework
 entra
 entra-id
-entracloudsync
-entraconnect
 entraid
 entraid-security-assessment
 entraidgovernance
@@ -2635,6 +2636,7 @@ epicor
 episode
 epplus
 eprosima
+epub
 epv
 equality
 erb
@@ -2936,7 +2938,6 @@ fill
 film
 filter
 filter-item
-filtering
 fim
 fims
 finance
@@ -3233,6 +3234,7 @@ get-pinneditem
 get-samcmassignedsite
 get-samcmcurrentmanagementpoint
 get-samplingperiod
+get-smtpcapabilities
 get-stalecomps
 get-staleusers
 get-thermalstamp
@@ -3699,8 +3701,10 @@ identitydataplane
 identitydirector
 identitydomains
 identitynow
+identitysecuritycloud
 idf
 idm
+idn
 idna
 idoit
 idp
@@ -3801,7 +3805,6 @@ ini
 inifile
 initialization
 initials-avatar
-initiative
 initiator
 injection
 inline-progress
@@ -3973,7 +3976,10 @@ it-tools
 itadministration
 italic-text
 item
+itemlist
+itemobject
 items
+itemstack
 iterate
 iteration
 itg
@@ -4008,6 +4014,7 @@ jeanalyzer
 jekyll
 jenkins
 jetbrains
+jiggler
 jira
 jiraservicemanagement
 jitbit
@@ -4278,7 +4285,6 @@ light
 lights
 lime
 limesurvey
-limit
 limit-job
 limits
 lina
@@ -4541,17 +4547,16 @@ mapping
 maps
 mapsapi
 mariadb
-mark
 markdig
 markdown
 markdownrender
 market
 marketing
+marketo
 marketplace
 marketplaceordering
 marketplaceprivateoffer
 marketplacepublisher
-marking
 marklogic
 marquee
 marvel
@@ -4990,8 +4995,6 @@ natural-language-to-code
 natural-selection
 nature
 nav
-naven
-navenps
 navigation
 nbi
 ncal
@@ -5130,6 +5133,7 @@ node
 node.js
 nodejs
 nogit
+non-idiomatic
 non-volatile
 none
 noneimages
@@ -5381,6 +5385,7 @@ optics
 optimise
 optimization
 optimize
+optimized
 optimizer
 option
 option119
@@ -7905,7 +7910,6 @@ pscore
 pscredential
 pscribo
 pscustomobject
-psd
 psd1
 psdb
 psdefaultparametervalues
@@ -9265,6 +9269,7 @@ react-stockcharts
 read
 read-slog
 readable
+reader
 readiness
 readme
 readpdf
@@ -9476,6 +9481,7 @@ restart
 restaurant
 restful
 restore
+restrictive
 results
 resume
 retail
@@ -9855,6 +9861,7 @@ senateur
 send
 send-logtologanalytics
 send-mailmessage
+send-mailmessage2
 send-message
 send-mgusermail
 senderid
@@ -10429,6 +10436,7 @@ streaming
 streamreader
 streamwriter
 stretch
+strict
 strictmode
 strikethrough-text
 string
@@ -10663,6 +10671,7 @@ techedna2014
 techlog
 technicalanalysis
 technology
+techsmith
 tel
 telegram
 telegram-bot
@@ -10874,9 +10883,7 @@ tracker
 tracking
 trading
 traffic
-trafficfiltering
 trafficmanager
-trafficmarking
 train
 training
 training-course
@@ -10903,6 +10910,7 @@ transparency
 transpilation
 trap
 travel
+trec
 tree
 tree-structure
 treesize
@@ -11132,7 +11140,6 @@ updmanagement
 updmgmt
 upgrade
 uplift
-uplink
 uploadindicators
 uploadindicatorsapi
 ups
@@ -11248,9 +11255,6 @@ vcsa
 vcvars
 vdi
 vdp
-vdportgroup
-vdswitch
-vduplink
 ve7cc
 vector
 veeam
@@ -11340,10 +11344,8 @@ vmfs
 vmgroup
 vmhost
 vmhostgroup
-vmhostnetworkadapater
 vmimage
 vmmanagement
-vmnic
 vmrole
 vmss
 vmtovmhostrule
@@ -11778,6 +11780,8 @@ write-wansi
 writeaccess
 writelog
 writeprogress
+writer
+writing
 ws-federation
 wsapi
 wsb

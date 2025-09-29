@@ -3,9 +3,65 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
-## [PwrSvg](https://www.powershellgallery.com/Packages/PwrSvg/1.0.1) | 1.0.1
+## [ADEssentials](https://www.powershellgallery.com/Packages/ADEssentials/0.0.260) | 0.0.260
 
-### Published: 09/28/2025 21:31:50 by Oscar Calvo
+### Published: 09/29/2025 09:42:58 by Przemyslaw Klys
+
+Helper module for Active Directory with lots of useful functions that simplify supporting Active Directory.
+
+__Downloads__: 602,523 | __Repository__: https://github.com/EvotecIT/ADEssentials
+
+## [WindmillClient](https://www.powershellgallery.com/Packages/WindmillClient/1.551.3) | 1.551.3
+
+### Published: 09/29/2025 09:04:33 by Windmill Labs
+
+Client for the Windmill platform.
+
+__Downloads__: 9,348 | __Repository__: https://github.com/windmill-labs/windmill/tree/main/powershell-client
+
+## [PowerShell.MCP](https://www.powershellgallery.com/Packages/PowerShell.MCP/1.2.3) | 1.2.3
+
+### Published: 09/29/2025 06:59:16 by Yoshifumi Tsuda
+
+Enables PowerShell console to function as an MCP server for Claude Desktop and other clients.
+
+__Downloads__: 224 | __Repository__: https://github.com/yotsuda/PowerShell.MCP
+
+## [ExoHelper](https://www.powershellgallery.com/Packages/ExoHelper/3.0.8) | 3.0.8
+
+### Published: 09/29/2025 06:43:52 by Jiri Formacek
+
+Simple wrapper module that directly calls EXO REST API without the need for full heavy-weight ExchangeOnlineManagement module
+
+__Downloads__: 4,508 | __Repository__: https://github.com/greycorbel/ExoHelper
+
+## [IntegrisDeploymentTool](https://www.powershellgallery.com/Packages/IntegrisDeploymentTool/0.8.25) | 0.8.25
+
+### Published: 09/29/2025 06:22:19 by David McVicker
+
+Integris Deployment Tool
+
+__Downloads__: 2,245 | __Repository__: 
+
+## [OSD](https://www.powershellgallery.com/Packages/OSD/25.9.29.1) | 25.9.29.1
+
+### Published: 09/29/2025 05:08:35 by David Segura . Gary Blok . Michael Escamilla
+
+OSD PowerShell Module for Windows Deployment
+
+__Downloads__: 5,070,153 | __Repository__: https://github.com/OSDeploy/OSD
+
+## [WinUpd](https://www.powershellgallery.com/Packages/WinUpd/0.2.0) | 0.2.0
+
+### Published: 09/29/2025 02:46:41 by Jesse Reichman
+
+Windows Update assistant
+
+__Downloads__: 232 | __Repository__: https://github.com/archmachina/ps-winupd/
+
+## [PwrSvg](https://www.powershellgallery.com/Packages/PwrSvg/1.0.2) | 1.0.2
+
+### Published: 09/28/2025 22:57:28 by Oscar Calvo
 
 PowerShell module for rendering SVG files to raw image buffers using SkiaSharp, optimized for terminal and pipeline integration.
 
@@ -27,22 +83,6 @@ Creates a diagram of your Azure infrastructure.
 
 __Downloads__: 212 | __Repository__: https://github.com/dan-madsen/AzNetworkDiagram
 
-## [WindmillClient](https://www.powershellgallery.com/Packages/WindmillClient/1.551.1) | 1.551.1
-
-### Published: 09/28/2025 20:07:15 by Windmill Labs
-
-Client for the Windmill platform.
-
-__Downloads__: 9,349 | __Repository__: https://github.com/windmill-labs/windmill/tree/main/powershell-client
-
-## [OSD](https://www.powershellgallery.com/Packages/OSD/25.9.28.3) | 25.9.28.3
-
-### Published: 09/28/2025 17:07:56 by David Segura . Gary Blok . Michael Escamilla
-
-OSD PowerShell Module for Windows Deployment
-
-__Downloads__: 5,070,144 | __Repository__: https://github.com/OSDeploy/OSD
-
 ## [SpotifyUtils](https://www.powershellgallery.com/Packages/SpotifyUtils/1.0.0) | 1.0.0
 
 ### Published: 09/28/2025 15:23:26 by niwamo
@@ -58,14 +98,6 @@ __Downloads__: 49 | __Repository__: https://github.com/niwamo/SpotifyUtils
 An experimental PowerShell module providing a comprehensive set of tools for Internal Developer Platforms (IDPs) on Azure cloud.
 
 __Downloads__: 12 | __Repository__: https://github.com/msc365/az-idp-toolbox
-
-## [PowerShell.MCP](https://www.powershellgallery.com/Packages/PowerShell.MCP/1.2.2) | 1.2.2
-
-### Published: 09/28/2025 06:28:53 by Yoshifumi Tsuda
-
-Enables PowerShell console to function as an MCP server for Claude Desktop and other clients.
-
-__Downloads__: 224 | __Repository__: https://github.com/yotsuda/PowerShell.MCP
 
 ## [GitlabCli](https://www.powershellgallery.com/Packages/GitlabCli/1.137.0) | 1.137.0
 
@@ -137,7 +169,7 @@ __Downloads__: 508 | __Repository__: https://github.com/nightroman/FarNet.Redis
 
 Create evergreen Windows image builds with the latest versions of applications. Evergreen is a simple PowerShell module that retrieves the latest version numbers and download URLs for various software products directly from the vendor source.
 
-__Downloads__: 11,103,508 | __Repository__: https://stealthpuppy.com/evergreen/
+__Downloads__: 11,103,467 | __Repository__: https://stealthpuppy.com/evergreen/
 
 ## [DSInternals.RpcFilters](https://www.powershellgallery.com/Packages/DSInternals.RpcFilters/1.1) | 1.1
 
@@ -301,7 +333,7 @@ __Downloads__: 33 | __Repository__: https://github.com/Apteco/AptecoPSModules/tr
 
 Provides commands that allow easy manipulation with data in Cosmos DB
 
-__Downloads__: 174,226 | __Repository__: https://github.com/greycorbel/CosmosLite
+__Downloads__: 174,219 | __Repository__: https://github.com/greycorbel/CosmosLite
 
 ## [UncommonSense.Nrc](https://www.powershellgallery.com/Packages/UncommonSense.Nrc/0.1.0.38) | 0.1.0.38
 
@@ -381,7 +413,7 @@ __Downloads__: 20 | __Repository__:
 
 Cmdlets for Twincat ADS and device management for Powershell Core and Windows Powershell
 
-__Downloads__: 51,800 | __Repository__: https://infosys.beckhoff.com/content/1033/tc3_ads_ps_tcxaemgmt/3972231819.html?id=8731138690123386389
+__Downloads__: 51,797 | __Repository__: https://infosys.beckhoff.com/content/1033/tc3_ads_ps_tcxaemgmt/3972231819.html?id=8731138690123386389
 
 ## [Fortytwo.CheckID.PasswordAgent](https://www.powershellgallery.com/Packages/Fortytwo.CheckID.PasswordAgent/1.0.5) | 1.0.5
 
@@ -421,7 +453,7 @@ __Downloads__: 196 | __Repository__: https://github.com/fasteiner/Notion
 
 Tree-like cmdlets for file system and registry exploration!
 
-__Downloads__: 70,073 | __Repository__: https://www.github.com/santisq/PSTree
+__Downloads__: 70,072 | __Repository__: https://www.github.com/santisq/PSTree
 
 ## [Viscalyx.Common](https://www.powershellgallery.com/Packages/Viscalyx.Common/0.6.0) | 0.6.0
 
@@ -622,7 +654,7 @@ __Downloads__: 130,659 | __Repository__: https://github.com/TheTaylorLee/AdminTo
 
 Functions for Security Operations and Investigations
 
-__Downloads__: 4,249 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 4,248 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.FortiWizard](https://www.powershellgallery.com/Packages/AdminToolbox.FortiWizard/2.22.0.54) | 2.22.0.54
 
@@ -630,7 +662,7 @@ __Downloads__: 4,249 | __Repository__: https://github.com/TheTaylorLee/AdminTool
 
 Functions that generate configuration scripts and manage FortiOS.
 
-__Downloads__: 116,028 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 116,027 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.VMWareAutomate](https://www.powershellgallery.com/Packages/AdminToolbox.VMWareAutomate/4.9.0.83) | 4.9.0.83
 
@@ -638,7 +670,7 @@ __Downloads__: 116,028 | __Repository__: https://github.com/TheTaylorLee/AdminTo
 
 Functions to Automate Bulk VMWare Tasks
 
-__Downloads__: 124,028 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 124,027 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.Remoting](https://www.powershellgallery.com/Packages/AdminToolbox.Remoting/1.10.1.29) | 1.10.1.29
 
@@ -646,7 +678,7 @@ __Downloads__: 124,028 | __Repository__: https://github.com/TheTaylorLee/AdminTo
 
 Functions for remote management and access.
 
-__Downloads__: 122,075 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 122,074 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.Office365](https://www.powershellgallery.com/Packages/AdminToolbox.Office365/5.4.1.8) | 5.4.1.8
 
@@ -662,7 +694,7 @@ __Downloads__: 135,790 | __Repository__: https://github.com/TheTaylorLee/AdminTo
 
 Network Troubleshooting Functions
 
-__Downloads__: 339,680 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 339,681 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.MSGraph](https://www.powershellgallery.com/Packages/AdminToolbox.MSGraph/1.5.0.80) | 1.5.0.80
 
@@ -670,7 +702,7 @@ __Downloads__: 339,680 | __Repository__: https://github.com/TheTaylorLee/AdminTo
 
 Microsoft Graph interactive API Functions
 
-__Downloads__: 109,205 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 109,204 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.Fun](https://www.powershellgallery.com/Packages/AdminToolbox.Fun/1.7.0.83) | 1.7.0.83
 
@@ -678,7 +710,7 @@ __Downloads__: 109,205 | __Repository__: https://github.com/TheTaylorLee/AdminTo
 
 Functions that have no purpose
 
-__Downloads__: 125,189 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 125,188 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.FileManagement](https://www.powershellgallery.com/Packages/AdminToolbox.FileManagement/1.18.0.1) | 1.18.0.1
 
@@ -686,7 +718,7 @@ __Downloads__: 125,189 | __Repository__: https://github.com/TheTaylorLee/AdminTo
 
 File Management Functions
 
-__Downloads__: 157,680 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 157,681 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.FFTools](https://www.powershellgallery.com/Packages/AdminToolbox.FFTools/4.17.0.83) | 4.17.0.83
 
@@ -694,7 +726,7 @@ __Downloads__: 157,680 | __Repository__: https://github.com/TheTaylorLee/AdminTo
 
 Expedite simple ffmpeg actions
 
-__Downloads__: 228,317 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 228,316 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.Exchange](https://www.powershellgallery.com/Packages/AdminToolbox.Exchange/1.10.0.83) | 1.10.0.83
 
@@ -702,7 +734,7 @@ __Downloads__: 228,317 | __Repository__: https://github.com/TheTaylorLee/AdminTo
 
 Functions for Exchange Management
 
-__Downloads__: 189,982 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 189,981 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.EndpointManagement](https://www.powershellgallery.com/Packages/AdminToolbox.EndpointManagement/4.15.1.10) | 4.15.1.10
 
@@ -710,7 +742,7 @@ __Downloads__: 189,982 | __Repository__: https://github.com/TheTaylorLee/AdminTo
 
 Functions for management of endpoints
 
-__Downloads__: 177,748 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 177,747 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.ActiveDirectory](https://www.powershellgallery.com/Packages/AdminToolbox.ActiveDirectory/1.12.0.45) | 1.12.0.45
 
@@ -718,7 +750,7 @@ __Downloads__: 177,748 | __Repository__: https://github.com/TheTaylorLee/AdminTo
 
 Functions for Active Directory
 
-__Downloads__: 195,183 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 195,182 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [MeasureRows](https://www.powershellgallery.com/Packages/MeasureRows/0.9.4) | 0.9.4
 
@@ -838,7 +870,7 @@ __Downloads__: 5 | __Repository__:
 
 Manage Windows display settings like resolution, DPI scale, HDR and more.
 
-__Downloads__: 82,787 | __Repository__: https://github.com/MartinGC94/DisplayConfig
+__Downloads__: 82,788 | __Repository__: https://github.com/MartinGC94/DisplayConfig
 
 ## [PipeDream](https://www.powershellgallery.com/Packages/PipeDream/4.3.0) | 4.3.0
 
@@ -847,14 +879,6 @@ __Downloads__: 82,787 | __Repository__: https://github.com/MartinGC94/DisplayCon
 A PowerShell module for facilitating deployment pipelines for Power Platform environments
 
 __Downloads__: 322 | __Repository__: https://github.com/ryanmichaeljames/pipe-dream
-
-## [ScoreHunter](https://www.powershellgallery.com/Packages/ScoreHunter/2.0.0) | 2.0.0
-
-### Published: 09/23/2025 23:59:45 by AnthoChamb
-
-A score optimizer for GHTV's Score Chaser
-
-__Downloads__: 24 | __Repository__: https://github.com/AnthoChamb/ScoreHunter
 
 ## [EntraIdDSC](https://www.powershellgallery.com/Packages/EntraIdDSC/0.6.3) | 0.6.3
 
@@ -2087,28 +2111,4 @@ This modules provides Cmdlets for OCI Autoscaling Service
 
 __Downloads__: 13,073 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-## [OCI.PSModules.Audit](https://www.powershellgallery.com/Packages/OCI.PSModules.Audit/116.0.0) | 116.0.0
-
-### Published: 09/23/2025 15:44:59 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Audit Service
-
-__Downloads__: 13,762 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Artifacts](https://www.powershellgallery.com/Packages/OCI.PSModules.Artifacts/116.0.0) | 116.0.0
-
-### Published: 09/23/2025 15:44:32 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Artifacts Service
-
-__Downloads__: 12,587 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Appmgmtcontrol](https://www.powershellgallery.com/Packages/OCI.PSModules.Appmgmtcontrol/116.0.0) | 116.0.0
-
-### Published: 09/23/2025 15:43:56 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Appmgmtcontrol Service
-
-__Downloads__: 11,680 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-*Updated: Sunday, 28 September 2025 21:52:07 UTC*
+*Updated: Monday, 29 September 2025 09:51:38 UTC*
