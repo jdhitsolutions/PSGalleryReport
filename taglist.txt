@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Tuesday, 30 September 2025 09:52:30 UTC
+Updated: Tuesday, 30 September 2025 21:52:22 UTC
 
 .bat
 .env
@@ -201,6 +201,7 @@ adfsendpoint
 adfstoolkit
 adfstools
 adgroupmemberobjects
+adgroupmembers
 adgroups
 adidns
 adif
@@ -687,7 +688,6 @@ autoupdate-script
 autowrapper
 autoyast
 auvik
-av1
 availability
 availabilityset
 avalara
@@ -1152,6 +1152,7 @@ campaign
 camtasia
 canarie
 canary
+cancel
 cancellation
 candlestick
 canonical
@@ -1172,7 +1173,6 @@ carbonintensity
 card
 cardwirth
 careport
-cares
 cargo
 carousel
 carrier
@@ -1535,6 +1535,7 @@ command_line
 command-line-interface
 command-validation
 commandcoverage
+commandhistory
 commandlets
 commandline
 commandr
@@ -2002,6 +2003,7 @@ datum
 dave
 davinci
 dax
+dayinweek
 days
 days-week
 db
@@ -2097,6 +2099,7 @@ demultiplex
 demultiplexing
 dependencies
 dependency
+dependencymap
 dependencysearch
 deploy
 deployment
@@ -3063,7 +3066,6 @@ forwardedevents
 forwarding
 foudil
 foundationmodels
-foundry
 fount
 fount-pwsh
 fountassist
@@ -3407,6 +3409,7 @@ gz
 gzip
 gzip-compression
 ha
+haarlemsdagblad
 habitica
 hack
 hacking
@@ -3905,6 +3908,7 @@ invoke-msbuild
 invoke-msbuildpreprocess
 invoke-vsbuild
 invoke-vsdevcommand
+invoke-webrequest
 invokebuild
 invokemethod
 io
@@ -5103,7 +5107,6 @@ newtonsoft.json
 nexacore
 nexenta
 nexentastor
-nextcloud
 nexthink
 nexus
 nexusiq
@@ -5481,6 +5484,7 @@ oxyplot
 p2000
 p2s
 pa1reg
+paas
 pac
 pack
 package
@@ -6020,7 +6024,6 @@ privileged
 privilegedidentitymanagement
 privileges
 pro
-probability
 probe
 process
 process-inspector
@@ -6112,6 +6115,7 @@ ps6
 ps7
 psa
 psadbscreencap
+psadgroupmembers
 psadt
 psake
 psappdeploytoolkit
@@ -9360,7 +9364,6 @@ registry
 registry'networking
 registryoperations
 regression
-regular-expression
 regularexpression
 regularexpressions
 reinstall
@@ -9439,6 +9442,7 @@ reportingservicepoint
 reportingservices
 reportportal
 reportportal.io
+reportrunner
 reports
 reportserver
 repos
@@ -9486,6 +9490,7 @@ restart
 restaurant
 restful
 restore
+restrictive
 results
 resume
 retail
@@ -9732,6 +9737,7 @@ scp
 scrap
 scrape
 scraper
+scraping
 screen
 screencap
 screencapture
@@ -9740,6 +9746,7 @@ screener
 screenfetch
 screenresolution
 screensaver
+screenscraping
 screenshot
 script
 script_version
@@ -10142,6 +10149,7 @@ snmpv3
 snmpwalk
 snowflake
 snsmssqlpsmodule
+snspsadgroupmembers
 snspsscriptsmonitoring
 snssqlitepsmodule
 sntp
@@ -10336,6 +10344,7 @@ sslprotocol
 sslvpn
 ssm
 sso
+sspi
 sspr
 ssrs
 ssst
@@ -10427,7 +10436,6 @@ storedcredentials
 storefront
 storeonce
 storeserv
-strangeloop
 strava
 streak
 stream
@@ -10436,6 +10444,7 @@ streaming
 streamreader
 streamwriter
 stretch
+strict
 strictmode
 strikethrough-text
 string
@@ -10745,6 +10754,7 @@ text-emojis
 text-templates
 text-to-image
 text-to-speach"
+text-to-speech
 text2image
 textanalysis
 textbuffer
@@ -10846,6 +10856,7 @@ tonoref
 tookit
 tool
 toolbox
+toolcraft
 toolkit
 toolmaking
 tools
@@ -11082,7 +11093,6 @@ unblock
 unc
 uncpaths
 underlined-text
-undo
 unhide
 unicode
 unicode-emoji
@@ -11156,6 +11166,7 @@ url-encode
 url-shortener
 urldecode
 urlencode
+urlhaus
 urlredirections
 urlrewrite
 urlscan
@@ -11238,6 +11249,7 @@ vba
 vbaproject
 vbproj
 vbr
+vbscript
 vbsinst
 vc
 vccmdlets
@@ -11381,7 +11393,6 @@ voperator
 vorbis
 voting
 vovin
-vp9
 vpas
 vpasmodule
 vpc
@@ -11423,7 +11434,6 @@ vsteams
 vstest
 vsts
 vsts-cli
-vtt
 vue
 vulnerabilities
 vulnerability
@@ -11496,14 +11506,13 @@ webdeploy
 webdeveloper
 webfrequest
 webhdfs
+webhelpdesk
 webhistory
 webhook
 webinspect
 webjea
-webm
 webmanagement
 webmanagementservice
-webp
 webpage
 webpi
 webreport
@@ -11544,12 +11553,12 @@ whatif
 whatismyip
 whatsnew
 whatsupgold
+whd
 where
 whfb
 whisper
 whiteboard
 whitespace
-who
 whoami
 whois
 whoiscmdlet
