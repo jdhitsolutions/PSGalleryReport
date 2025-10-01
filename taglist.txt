@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Wednesday, 01 October 2025 09:52:22 UTC
+Updated: Wednesday, 01 October 2025 21:51:59 UTC
 
 .bat
 .env
@@ -143,6 +143,7 @@ activedirectry-html
 activeefficiency
 activehours
 activenet
+activenetapi
 activenetworkstation
 activenetworkstationservice
 activerecord
@@ -349,6 +350,8 @@ amateur-data-interchange-format
 amateur-radio
 amateurradio
 amazon
+amazonaws
+amazonmgn
 amazontitan
 amazonwebservices
 amd
@@ -604,7 +607,6 @@ atprotocol
 atrium
 att&ck
 attach
-attention
 attestation
 attila
 attribute
@@ -645,6 +647,7 @@ autify
 auto
 auto_cd
 auto-completion
+autoadapter
 autoattendant
 autocloudarc
 autocomplete
@@ -682,6 +685,7 @@ autotyper
 autounattend
 autoupdate
 autoupdate-script
+autowrapper
 autoyast
 auvik
 av1
@@ -728,7 +732,6 @@ az-cli
 az.runtimeenvironment
 az.stackhci
 azaitranslate
-azautomation
 azcli
 azcompute
 azd
@@ -736,7 +739,6 @@ azdisk
 azdo
 azereo
 azforensics
-azkeyvault
 aznetworking
 aznetworkinterface
 aznicdetails
@@ -889,6 +891,7 @@ bastion
 bat
 batcat
 batch
+batchclass
 batching
 batman
 battery
@@ -902,6 +905,7 @@ bc
 bc365
 bcd
 bcdedit
+bcdr
 bconnect
 bd
 bdd
@@ -1510,9 +1514,7 @@ color-show
 colorcode
 colored
 colorful
-colorize
 colorized
-coloroutput
 colorpicker
 colors
 colour
@@ -2425,6 +2427,7 @@ duck
 duckdb
 duckduckgo
 ducks
+ducktyping
 dudckduckgo
 duf
 dumb
@@ -2628,6 +2631,7 @@ envvars
 eol
 eop
 eperl
+ephesoft
 epicor
 episode
 epplus
@@ -2793,7 +2797,6 @@ extendedevents
 extendedgroups
 extendedkeyusage
 extendedproperties
-extendedproperty
 extendscript
 extensibility
 extension
@@ -3099,7 +3102,6 @@ fslogix
 fsrm
 ftp
 ftps
-ftptoday
 fu-msauth
 fudge
 fudgepop
@@ -3672,12 +3674,10 @@ icacl
 icann
 icinga
 icinga2
-icinga2mssql
 icinga2plugins
 icingachecks
 icingaforwindows
 icingainventory
-icingamssql
 icingaplugins
 icingapowershell
 icingapowershellframework
@@ -3881,7 +3881,6 @@ intuneadminroles
 intuneappwinutil
 intunestuff
 intunewinapputil
-intunewinapputil.exe
 inventory
 investigation
 investing
@@ -4036,7 +4035,6 @@ joke
 jokes
 jotform
 journal
-journalctl
 joyride
 jpg
 jq
@@ -4437,7 +4435,6 @@ look
 lookup
 lookupaccountname
 lookupaccountsid
-loop
 loopback
 loremipsum
 love
@@ -4519,7 +4516,6 @@ managed
 managed-identity
 manageddevices
 manageddisks
-managedidentities
 managedidentity
 managedkafka
 managednetworkfabric
@@ -4673,6 +4669,7 @@ metrolink
 metropolis
 mfa
 mga
+mgn
 mi
 micro
 micro-framework
@@ -4906,7 +4903,6 @@ mssql
 mssqlbynarymodule
 mssqlbynarypsmodule
 mssqlmodule
-mssqlplugins
 mssqlserver
 msteams
 mstest
@@ -4973,7 +4969,6 @@ n-central
 nabu
 nac
 nagios
-nakivo
 name
 name-of-dogs
 namedpipe
@@ -5047,6 +5042,7 @@ netscaler
 netscape
 netsec
 netsh
+netspell
 netstat
 netsuite
 network
@@ -5135,7 +5131,6 @@ nntp
 node
 node.js
 nodejs
-nogit
 non-idiomatic
 non-volatile
 none
@@ -5323,7 +5318,6 @@ oneviewglobaldashboard
 online
 online-backup
 onlinebackup
-onnx
 onprem
 onpremisesdatagatewayhamgmt
 onq
@@ -5351,7 +5345,6 @@ opencage
 opendata
 openedge
 openfiles
-opengraph
 openhere
 openholidaysapi
 openid
@@ -5644,7 +5637,6 @@ pfx
 pfy
 pgp
 phabricator
-phi
 philips
 philosophical
 philpritchett
@@ -5843,6 +5835,7 @@ poshy-wrap-pipenv
 poshy-wrap-pyenv
 poshy-wrap-pylint
 poshy-wrap-python
+poshy-wrap-ruby
 poshy-wrap-systemctl
 poshy-wrap-terraform
 poshy-wrap-terragrunt
@@ -7139,6 +7132,9 @@ pscommand_invoke-piplistoutdated
 pscommand_invoke-pipuninstall
 pscommand_invoke-pyenv
 pscommand_invoke-pylintreportsdisabled
+pscommand_invoke-ruby
+pscommand_invoke-rubyexecute
+pscommand_invoke-rubyexecutehttpdhere
 pscommand_invoke-systemctl-add-requires
 pscommand_invoke-systemctl-add-wants
 pscommand_invoke-systemctl-cancel
@@ -7630,6 +7626,7 @@ pscommand_pylint-quick
 pscommand_pyserver
 pscommand_python
 pscommand_python3
+pscommand_rb
 pscommand_read-dotenv
 pscommand_register-argcompleteargumentcompleter
 pscommand_remove_gem
@@ -7657,6 +7654,8 @@ pscommand_reset-gitworkingtreetolastcommitlosechanges
 pscommand_reset-gitworkingtreetolastcommitlosechangesandcleanfully
 pscommand_resume-gitbranchbaseupdate
 pscommand_resume-gitcherrypick
+pscommand_rrun
+pscommand_rserver
 pscommand_sc-disable-now
 pscommand_sc-enable-now
 pscommand_sc-mask-now
@@ -8548,6 +8547,9 @@ psfunction_invoke-piplistoutdated
 psfunction_invoke-pipuninstall
 psfunction_invoke-pyenv
 psfunction_invoke-pylintreportsdisabled
+psfunction_invoke-ruby
+psfunction_invoke-rubyexecute
+psfunction_invoke-rubyexecutehttpdhere
 psfunction_invoke-systemctl-add-requires
 psfunction_invoke-systemctl-add-wants
 psfunction_invoke-systemctl-cancel
@@ -9476,7 +9478,6 @@ restart
 restaurant
 restful
 restore
-restrictive
 results
 resume
 retail
@@ -9881,7 +9882,6 @@ seq
 sequence
 serial
 serialization
-serialize
 sericemanagement
 series
 serilog
@@ -9982,7 +9982,6 @@ sharepointonline
 sharepointpnp
 sharepointpnppowershellonline.add-on.module
 shares
-sharetru
 sheets
 shell
 shell-art
@@ -10179,7 +10178,6 @@ soonr
 soonragent
 sophos
 sort
-sort-json
 sorting
 sound
 sounds
@@ -10201,7 +10199,6 @@ spam
 spamtitan
 spanner
 spark
-sparkline
 sparklines
 spawn
 spdockit
@@ -10227,6 +10224,7 @@ speedometer
 speedtest
 speedtester
 spejder
+spellcheck
 spelling
 spf
 spfcheck
@@ -10369,6 +10367,7 @@ stateless
 static
 staticanalysis
 statichtmlsites
+staticip
 staticsite
 statistical
 statisticmaintenance
@@ -10429,7 +10428,6 @@ streaming
 streamreader
 streamwriter
 stretch
-strict
 strictmode
 strikethrough-text
 string
@@ -10680,7 +10678,6 @@ temperature
 template
 template-engine
 template-utility
-templater
 templates
 templating
 temporary
@@ -10842,7 +10839,6 @@ tonoref
 tookit
 tool
 toolbox
-toolcraft
 toolkit
 toolmaking
 tools
