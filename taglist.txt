@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Wednesday, 01 October 2025 21:51:59 UTC
+Updated: Thursday, 02 October 2025 09:52:25 UTC
 
 .bat
 .env
@@ -328,7 +328,6 @@ aliases
 aliens
 align
 alignment
-alive
 all
 alletra
 alloydb
@@ -607,6 +606,7 @@ atprotocol
 atrium
 att&ck
 attach
+attention
 attestation
 attila
 attribute
@@ -704,7 +704,6 @@ avro
 avs
 avset
 await
-awake
 awakecoding
 awareness
 awesome
@@ -732,19 +731,18 @@ az-cli
 az.runtimeenvironment
 az.stackhci
 azaitranslate
+azautomation
 azcli
 azcompute
 azd
-azdisk
 azdo
 azereo
 azforensics
+azkeyvault
 aznetworking
-aznetworkinterface
 aznicdetails
 azops
 azpipelines
-azpublicipaddress
 azresources
 azsdk
 azsk
@@ -980,7 +978,6 @@ biztalk
 biztalkalm
 biztalkdeploymentframework
 bks
-black
 blackbaud
 blackberry
 blackberryuem
@@ -1000,12 +997,10 @@ blocks
 blog
 blogger
 blogs
-bloodhound
 bloxone
 bloxoneddi
 bls
 blue
-bluecat
 bluedolhin
 blueprint
 blueprints
@@ -1134,7 +1129,6 @@ ca
 cache
 cachedroles
 caf
-caffeine
 cal
 calc
 calculate
@@ -1189,7 +1183,6 @@ catimage
 cats
 catty
 cavium
-cb
 cblueshell
 cbr
 cbs
@@ -1437,7 +1430,6 @@ clueser
 cluster
 clusterminimumvalues
 clusterplacementgroups
-clusterplugins
 cmaccounts
 cmake
 cmakepresets.json
@@ -1502,7 +1494,6 @@ coinflip
 coinmarketcap
 collaboration
 collatordso
-collatz
 collection
 collectionmembershipevaluationcomponent
 collections
@@ -1514,7 +1505,9 @@ color-show
 colorcode
 colored
 colorful
+colorize
 colorized
+coloroutput
 colorpicker
 colors
 colour
@@ -1620,7 +1613,6 @@ configurations
 configure
 confluence
 confluent
-conjecture
 connect
 connect-dtcmsite
 connect-exchangeonprem
@@ -1684,7 +1676,6 @@ controlroom
 controlup
 conventional
 conventional-commits
-convereter
 converged_data_management
 conversational
 converse
@@ -1826,7 +1817,6 @@ cryptocompare
 cryptocurrency
 cryptography
 cs137
-csc
 csharp
 csharp-watch
 csom
@@ -1856,9 +1846,6 @@ curious
 curl
 curlie
 currency
-currency-convereter
-currency-exchange
-currencyconverterapi
 current
 curseforge
 custom
@@ -1958,7 +1945,6 @@ dataconduit
 dataconnectivity
 datadog
 dataexchange
-dataexplorer
 datafactory
 dataflow
 dataflowdependency
@@ -2663,7 +2649,6 @@ esp-idf
 esp32
 esp32s2
 espressif
-espresso
 esri
 essbase
 est
@@ -2730,7 +2715,6 @@ exception
 exceptionless
 exchange
 exchange_online
-exchange-rates
 exchange2010
 exchange2013
 exchange2016
@@ -2797,6 +2781,7 @@ extendedevents
 extendedgroups
 extendedkeyusage
 extendedproperties
+extendedproperty
 extendscript
 extensibility
 extension
@@ -2946,7 +2931,6 @@ financeandoperations
 financeoperations
 finances
 financial
-financialedge
 financialmodeling
 financialmodelingprep
 financialmodelingprepapi
@@ -3091,7 +3075,6 @@ fritzbox
 front
 frontapp
 frontdoor
-frontmatter
 frontrange
 fs
 fsc-ps
@@ -3102,6 +3085,7 @@ fslogix
 fsrm
 ftp
 ftps
+ftptoday
 fu-msauth
 fudge
 fudgepop
@@ -3414,7 +3398,6 @@ hacktoberfest
 hadoop
 hafr
 haiku
-hailstone
 haipa
 halo
 haloitsm
@@ -3464,7 +3447,6 @@ hba
 hbase
 hci
 hcl
-hcm
 hcp
 hcx
 hdfs
@@ -3561,7 +3543,6 @@ hockey
 hol
 holiday
 home
-home_automation
 homebrew
 homebrewing
 homelab
@@ -3674,10 +3655,12 @@ icacl
 icann
 icinga
 icinga2
+icinga2mssql
 icinga2plugins
 icingachecks
 icingaforwindows
 icingainventory
+icingamssql
 icingaplugins
 icingapowershell
 icingapowershellframework
@@ -4035,6 +4018,7 @@ joke
 jokes
 jotform
 journal
+journalctl
 joyride
 jpg
 jq
@@ -4092,10 +4076,8 @@ kdialog
 kebab-case
 keenetic
 keepachangelog
-keepalive
 keepass
 keepasslib
-keepawake
 keeper
 kelverion
 kelvin
@@ -4296,7 +4278,6 @@ link
 link-capability
 link-preview
 linkedin
-linkedservice
 linkedservicedependency
 linkid
 links
@@ -4435,6 +4416,7 @@ look
 lookup
 lookupaccountname
 lookupaccountsid
+loop
 loopback
 loremipsum
 love
@@ -4516,6 +4498,7 @@ managed
 managed-identity
 manageddevices
 manageddisks
+managedidentities
 managedidentity
 managedkafka
 managednetworkfabric
@@ -4903,6 +4886,7 @@ mssql
 mssqlbynarymodule
 mssqlbynarypsmodule
 mssqlmodule
+mssqlplugins
 mssqlserver
 msteams
 mstest
@@ -5318,6 +5302,7 @@ oneviewglobaldashboard
 online
 online-backup
 onlinebackup
+onnx
 onprem
 onpremisesdatagatewayhamgmt
 onq
@@ -5345,6 +5330,7 @@ opencage
 opendata
 openedge
 openfiles
+opengraph
 openhere
 openholidaysapi
 openid
@@ -5637,6 +5623,7 @@ pfx
 pfy
 pgp
 phabricator
+phi
 philips
 philosophical
 philpritchett
@@ -5860,7 +5847,6 @@ pow
 powdrgit
 power
 power-apps
-power-cbr
 power-platform
 power-shell
 powerapps
@@ -9212,7 +9198,6 @@ rainbow
 raindrop
 raindrop.io
 raisers
-raisersedge
 raj
 ram
 ram-it
@@ -9478,6 +9463,7 @@ restart
 restaurant
 restful
 restore
+restrictive
 results
 resume
 retail
@@ -9882,6 +9868,7 @@ seq
 sequence
 serial
 serialization
+serialize
 sericemanagement
 series
 serilog
@@ -9982,6 +9969,7 @@ sharepointonline
 sharepointpnp
 sharepointpnppowershellonline.add-on.module
 shares
+sharetru
 sheets
 shell
 shell-art
@@ -10065,7 +10053,6 @@ skolnilogin
 sku
 skunklab
 sky
-skyapi
 skype
 skype_for_business
 skype4b
@@ -10086,7 +10073,6 @@ slugify
 sm
 sma
 small_web
-smart_home
 smartarray
 smartarraycmdlets
 smarthome
@@ -10178,6 +10164,7 @@ soonr
 soonragent
 sophos
 sort
+sort-json
 sorting
 sound
 sounds
@@ -10199,6 +10186,7 @@ spam
 spamtitan
 spanner
 spark
+sparkline
 sparklines
 spawn
 spdockit
@@ -10428,6 +10416,7 @@ streaming
 streamreader
 streamwriter
 stretch
+strict
 strictmode
 strikethrough-text
 string
@@ -10678,6 +10667,7 @@ temperature
 template
 template-engine
 template-utility
+templater
 templates
 templating
 temporary
@@ -10839,6 +10829,7 @@ tonoref
 tookit
 tool
 toolbox
+toolcraft
 toolkit
 toolmaking
 tools
@@ -11060,7 +11051,6 @@ uefi
 uem
 ui
 ui/ux
-ui7
 uk
 ulid
 ultimatetool
@@ -11263,7 +11253,6 @@ vendorpam
 venue
 venv
 venvlink
-vera
 veracrypt
 verbose psmodule
 verification
@@ -11484,7 +11473,6 @@ webapplicationproxy
 webapps
 webauthn
 webbrowser
-webcamera
 webcmdlets
 webdav
 webdeploy
@@ -11871,7 +11859,6 @@ yandex
 yandexdisk
 yapg
 yarn
-yaugeraio
 year
 yetanotherhelloworld
 yify
