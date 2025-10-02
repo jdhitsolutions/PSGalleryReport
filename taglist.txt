@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Thursday, 02 October 2025 09:52:25 UTC
+Updated: Thursday, 02 October 2025 21:51:42 UTC
 
 .bat
 .env
@@ -328,6 +328,7 @@ aliases
 aliens
 align
 alignment
+alive
 all
 alletra
 alloydb
@@ -704,6 +705,7 @@ avro
 avs
 avset
 await
+awake
 awakecoding
 awareness
 awesome
@@ -735,14 +737,17 @@ azautomation
 azcli
 azcompute
 azd
+azdisk
 azdo
 azereo
 azforensics
 azkeyvault
 aznetworking
+aznetworkinterface
 aznicdetails
 azops
 azpipelines
+azpublicipaddress
 azresources
 azsdk
 azsk
@@ -978,6 +983,7 @@ biztalk
 biztalkalm
 biztalkdeploymentframework
 bks
+black
 blackbaud
 blackberry
 blackberryuem
@@ -997,10 +1003,12 @@ blocks
 blog
 blogger
 blogs
+bloodhound
 bloxone
 bloxoneddi
 bls
 blue
+bluecat
 bluedolhin
 blueprint
 blueprints
@@ -1129,6 +1137,7 @@ ca
 cache
 cachedroles
 caf
+caffeine
 cal
 calc
 calculate
@@ -1183,6 +1192,7 @@ catimage
 cats
 catty
 cavium
+cb
 cblueshell
 cbr
 cbs
@@ -1430,6 +1440,7 @@ clueser
 cluster
 clusterminimumvalues
 clusterplacementgroups
+clusterplugins
 cmaccounts
 cmake
 cmakepresets.json
@@ -1494,6 +1505,7 @@ coinflip
 coinmarketcap
 collaboration
 collatordso
+collatz
 collection
 collectionmembershipevaluationcomponent
 collections
@@ -1613,6 +1625,7 @@ configurations
 configure
 confluence
 confluent
+conjecture
 connect
 connect-dtcmsite
 connect-exchangeonprem
@@ -1676,6 +1689,7 @@ controlroom
 controlup
 conventional
 conventional-commits
+convereter
 converged_data_management
 conversational
 converse
@@ -1817,6 +1831,7 @@ cryptocompare
 cryptocurrency
 cryptography
 cs137
+csc
 csharp
 csharp-watch
 csom
@@ -1846,6 +1861,9 @@ curious
 curl
 curlie
 currency
+currency-convereter
+currency-exchange
+currencyconverterapi
 current
 curseforge
 custom
@@ -1945,6 +1963,7 @@ dataconduit
 dataconnectivity
 datadog
 dataexchange
+dataexplorer
 datafactory
 dataflow
 dataflowdependency
@@ -2649,6 +2668,7 @@ esp-idf
 esp32
 esp32s2
 espressif
+espresso
 esri
 essbase
 est
@@ -2715,6 +2735,7 @@ exception
 exceptionless
 exchange
 exchange_online
+exchange-rates
 exchange2010
 exchange2013
 exchange2016
@@ -2931,6 +2952,7 @@ financeandoperations
 financeoperations
 finances
 financial
+financialedge
 financialmodeling
 financialmodelingprep
 financialmodelingprepapi
@@ -3075,6 +3097,7 @@ fritzbox
 front
 frontapp
 frontdoor
+frontmatter
 frontrange
 fs
 fsc-ps
@@ -3398,6 +3421,7 @@ hacktoberfest
 hadoop
 hafr
 haiku
+hailstone
 haipa
 halo
 haloitsm
@@ -3447,6 +3471,7 @@ hba
 hbase
 hci
 hcl
+hcm
 hcp
 hcx
 hdfs
@@ -3543,6 +3568,7 @@ hockey
 hol
 holiday
 home
+home_automation
 homebrew
 homebrewing
 homelab
@@ -4076,8 +4102,10 @@ kdialog
 kebab-case
 keenetic
 keepachangelog
+keepalive
 keepass
 keepasslib
+keepawake
 keeper
 kelverion
 kelvin
@@ -4168,8 +4196,6 @@ label
 labels
 lability
 labnotifications
-laborate
-laboratory
 labrecipe
 labservices
 labsnippet
@@ -4278,6 +4304,7 @@ link
 link-capability
 link-preview
 linkedin
+linkedservice
 linkedservicedependency
 linkid
 links
@@ -4309,7 +4336,6 @@ llm
 llms
 lmhost
 lmhosts
-lms
 load
 loadbalancer
 loadbalancer.org
@@ -4560,6 +4586,7 @@ materialui
 mateso
 math
 mathematics
+mathml
 matplotlib
 matrix
 maven
@@ -4747,7 +4774,6 @@ mistralai
 mitigation
 mitre
 mitre_att&ck
-mitrend
 mittelschule
 mixedreality
 mixer
@@ -4811,7 +4837,6 @@ monitoringsolutions
 monitors
 month
 monthlyupdate
-moodle
 moonshot
 more
 mos
@@ -5115,6 +5140,7 @@ nntp
 node
 node.js
 nodejs
+nogit
 non-idiomatic
 non-volatile
 none
@@ -5433,6 +5459,7 @@ oura
 ouraring
 out-consolegridview
 out-default
+out-file
 out-gridview
 out-json
 outerjoin
@@ -5847,6 +5874,7 @@ pow
 powdrgit
 power
 power-apps
+power-cbr
 power-platform
 power-shell
 powerapps
@@ -9198,6 +9226,7 @@ rainbow
 raindrop
 raindrop.io
 raisers
+raisersedge
 raj
 ram
 ram-it
@@ -10053,6 +10082,7 @@ skolnilogin
 sku
 skunklab
 sky
+skyapi
 skype
 skype_for_business
 skype4b
@@ -10073,6 +10103,7 @@ slugify
 sm
 sma
 small_web
+smart_home
 smartarray
 smartarraycmdlets
 smarthome
@@ -10164,7 +10195,6 @@ soonr
 soonragent
 sophos
 sort
-sort-json
 sorting
 sound
 sounds
@@ -11004,7 +11034,6 @@ ud-field
 ud-flexytable
 ud-funnel
 ud-hero
-ud-illustration
 ud-input
 ud-licensed
 ud-loadingoverlay
@@ -11051,6 +11080,7 @@ uefi
 uem
 ui
 ui/ux
+ui7
 uk
 ulid
 ultimatetool
@@ -11182,6 +11212,7 @@ utf7
 utf8
 utf8-sig
 utf8bom
+utf8nobom
 util
 utilities
 utility
@@ -11253,6 +11284,7 @@ vendorpam
 venue
 venv
 venvlink
+vera
 veracrypt
 verbose psmodule
 verification
@@ -11473,6 +11505,7 @@ webapplicationproxy
 webapps
 webauthn
 webbrowser
+webcamera
 webcmdlets
 webdav
 webdeploy
@@ -11859,6 +11892,7 @@ yandex
 yandexdisk
 yapg
 yarn
+yaugeraio
 year
 yetanotherhelloworld
 yify
