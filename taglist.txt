@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Friday, 03 October 2025 09:52:18 UTC
+Updated: Friday, 03 October 2025 21:52:11 UTC
 
 .bat
 .env
@@ -282,6 +282,7 @@ ai21labs
 aianomalydetection
 aiapplications
 aiautomation
+aidataplatform
 aidocument
 aiintegration
 ailanguage
@@ -669,7 +670,6 @@ automation
 automation psmodule
 automationaccount
 automationanywhere
-automationportal
 automations
 automationutils
 autonomoussystem
@@ -813,6 +813,7 @@ azureiot
 azureiothub
 azurekeyvault
 azurekeyvaultstuff
+azurelocal
 azuremaps
 azuremigrate
 azuremonitor
@@ -900,6 +901,7 @@ bayern
 bazzo
 bb
 bbc
+bbernhard
 bbp
 bc
 bc365
@@ -1000,6 +1002,7 @@ blocks
 blog
 blogger
 blogs
+bloodhound
 bloxone
 bloxoneddi
 bls
@@ -1159,6 +1162,7 @@ capability
 capacity
 capacitymanagement
 capainstaller
+capaone
 capasystems
 capgemini
 capslock
@@ -1291,7 +1295,6 @@ choco-bear
 chocobear
 chocolatey
 choice
-choose_file
 choose_file_name
 choose_folder
 chooser
@@ -1387,6 +1390,7 @@ clientstatussettings
 clihelper.core
 clihelper.logger
 clihelper.semver
+clihelper.trends
 clipart
 clipasswordsdk
 clipboard
@@ -1949,11 +1953,13 @@ databox
 databoxedge
 databricks
 datacatalog
+datacenter
 dataclassification
 datacollectionrule
 dataconduit
 dataconnectivity
 datadog
+dataexchange
 dataexplorer
 datafactory
 dataflow
@@ -2195,7 +2201,6 @@ directorysecurity
 directoryservices
 directrouting
 directsend
-directus
 direnv
 dirkjan
 dirname
@@ -2326,6 +2331,7 @@ domainkey
 domainkeys
 domainname
 domainnamesystem
+domains
 domino
 done.land
 donothing
@@ -2418,6 +2424,7 @@ dtsx
 dtx
 du
 dual-stack
+duck
 duckdb
 duckduckgo
 ducks
@@ -2589,6 +2596,7 @@ english
 enhancement
 enrichers
 enrichment
+enrollment
 enrollmentpolicy
 entaid
 enteo
@@ -2803,6 +2811,7 @@ externalip
 extract
 extraction
 extractor
+extreme-networks
 eye-candy
 eyedropper
 eztheme
@@ -2878,6 +2887,8 @@ file-extension
 file-extension-association
 file-invalidchar
 file-management
+file-matcher
+file-matching
 file-monitoring
 file-name
 file-name-extension
@@ -2897,6 +2908,7 @@ filelog
 filelogger
 filemaintenance
 filemanagement
+filematcher
 filename
 filenames
 fileproperties
@@ -2913,6 +2925,9 @@ filesharing
 filestorage
 filestream
 filesystem
+filesystementry-matcher
+filesystementry-matching
+filesystementrymatcher
 filesystemoperations
 filesystemrights
 filesystemsecurity
@@ -3152,6 +3167,7 @@ gemini
 geminiprotocol
 gemlog
 gemtext
+genai
 general
 generate
 generate-dockerimagevariants
@@ -3375,6 +3391,7 @@ gtx1080ti
 guardedfabric
 guardicore
 gubbins
+guest
 guestconfiguration
 guests
 gui
@@ -3386,6 +3403,7 @@ gumby
 guru
 gvim
 gw2
+gwbasic
 gymnasium
 gz
 gzip
@@ -3415,6 +3433,7 @@ handle
 handler
 handshake
 handy
+hangouts
 hannelstoolbox
 hanwha
 har
@@ -3448,7 +3467,6 @@ hba
 hbase
 hci
 hcl
-hcm
 hcp
 hcx
 hdfs
@@ -3792,6 +3810,7 @@ initialization
 initials-avatar
 initiative
 initiator
+injection
 inline-progress
 inlineimageprotocol
 inlineprogress
@@ -3865,7 +3884,6 @@ intune
 intuneadminroles
 intuneappwinutil
 intunestuff
-intunewinapputil
 inventory
 investigation
 investing
@@ -4004,6 +4022,7 @@ jiraservicemanagement
 jitbit
 jms
 jmsjavadownloads
+jmsutils
 jnet
 jnetps
 joat
@@ -4159,6 +4178,7 @@ kusto
 kusto.data
 kusto.ingest
 kvm
+kvp
 l-system
 l1tf
 l2tp
@@ -4170,6 +4190,8 @@ label
 labels
 lability
 labnotifications
+laborate
+laboratory
 labrecipe
 labservices
 labsnippet
@@ -4301,6 +4323,7 @@ listener
 litecoin
 litedb
 literature
+live
 llama
 llama2
 llama3
@@ -4309,7 +4332,6 @@ llm
 llms
 lmhost
 lmhosts
-lms
 load
 loadbalancer
 loadbalancer.org
@@ -4416,6 +4438,7 @@ look
 lookup
 lookupaccountname
 lookupaccountsid
+loop
 loopback
 loremipsum
 love
@@ -4474,6 +4497,7 @@ mailgroup
 mailgroupmember
 mailing
 mailkit
+mailmessage
 mails
 mailsecurity
 main
@@ -4495,6 +4519,7 @@ manageability
 managed
 managed-identity
 manageddevices
+manageddisks
 managedidentities
 managedidentity
 managedkafka
@@ -4554,6 +4579,7 @@ matcharray
 matchhashtable
 materialdesign
 materialui
+mateso
 math
 mathematics
 mathml
@@ -4615,6 +4641,7 @@ members
 membership
 memcm
 memory
+memorydump
 memorystream
 mention
 menu
@@ -4765,6 +4792,7 @@ mocking
 modding
 model
 model-management
+modeldeployment
 modeling
 models
 modern
@@ -4806,7 +4834,6 @@ monitoringsolutions
 monitors
 month
 monthlyupdate
-moodle
 moonshot
 more
 mos
@@ -4838,6 +4865,7 @@ ms365
 msaccess
 msacpi_thermalzonetemperature
 msal
+msaltoken
 msauth
 msband
 msbi
@@ -5047,6 +5075,7 @@ networkscan
 networksecurity
 networksecuritygroup
 networkshares
+netwrix
 new
 new-completionresult
 new-dtcmpackagefromdriverpackpackagedefinitionsms
@@ -5540,6 +5569,7 @@ passwordlockoutreport
 passwordmanagement
 passwordmanager
 passwords
+passwordsecure
 passwordspray
 passwordstate
 passwordtool
@@ -5740,6 +5770,7 @@ pop3
 popd
 population
 popup
+popy
 port
 port-scanner
 port70
@@ -5991,6 +6022,7 @@ privileged
 privilegedidentitymanagement
 privileges
 pro
+probability
 probe
 process
 process-inspector
@@ -9107,6 +9139,7 @@ pwa
 pwned
 pwpush
 pwpush.com
+pwsafe
 pwsh
 pwsh.fw
 pwshake
@@ -9232,6 +9265,7 @@ rdc
 rdcman
 rdcmanager
 rdfe
+rdg
 rdl
 rdm
 rdp
@@ -9359,6 +9393,7 @@ remoteconnection
 remoteconnectionsmanager
 remotecontrol
 remotedesktop
+remotedesktopconnectionmanager
 remotedesktopgateway
 remotedesktopmanager
 remotedesktopservices
@@ -9458,6 +9493,7 @@ restore
 restrictive
 results
 resume
+retail
 retention
 retro
 retry
@@ -9562,6 +9598,7 @@ rss
 rt
 rtm
 rtu
+rubber
 rubrik
 rubriksecuritycloud
 ruby
@@ -9712,6 +9749,7 @@ screensaver
 screenscraping
 screenshot
 script
+script_version
 script-module
 script-to-assembly
 script-to-executable
@@ -9834,6 +9872,7 @@ send-logtologanalytics
 send-mailmessage
 send-mailmessage2
 send-message
+send-mgusermail
 senderid
 sendgrid
 sendkeys
@@ -9992,6 +10031,7 @@ siem
 sif
 sigma
 sign
+signal
 signalfx
 signalr
 signature
@@ -10088,6 +10128,7 @@ sms
 smtp
 smtpaddressupdate psmodule
 smtpauth
+smtpclient
 smtpoauth
 smtpsasl
 snap
@@ -10154,6 +10195,7 @@ sophos
 sort
 sort-json
 sorting
+sound
 sounds
 source
 source-dedicated-server
@@ -10636,7 +10678,6 @@ techlog
 technicalanalysis
 technology
 techsmith
-tel
 telegram
 telegram-bot
 telegram-bot-api
@@ -11144,6 +11185,7 @@ userdiscovery
 usergroup
 usergroups
 userinterface
+usermail
 usermanagement
 username
 userprofile
@@ -11236,6 +11278,7 @@ vencord
 vendor
 vendorpam
 venue
+venv
 venvlink
 vera
 veracrypt
@@ -11280,6 +11323,7 @@ virtualenvwrapper
 virtualization
 virtualmachine
 virtualmachines
+virtualmachne
 virtualnetwork
 virtualnetworking
 virtualportgroup
@@ -11464,6 +11508,7 @@ webdeploy
 webdeveloper
 webfrequest
 webhdfs
+webhelpdesk
 webhistory
 webhook
 webinspect
@@ -11512,6 +11557,7 @@ whatif
 whatismyip
 whatsnew
 whatsupgold
+whd
 where
 whfb
 whisper
@@ -11551,6 +11597,7 @@ widedata
 wif
 wifi
 wiki
+wildcard
 wildfire
 wildfly
 wim
@@ -11640,6 +11687,7 @@ windowsserver2022
 windowsserver2025
 windowsservercoresecurity
 windowsserverguisecurity
+windowsservice
 windowsservices
 windowsstore
 windowsterminal
@@ -11805,6 +11853,7 @@ xin
 xkcd
 xliff
 xlsx
+xmc
 xml
 xml-rpc
 xml-transform
