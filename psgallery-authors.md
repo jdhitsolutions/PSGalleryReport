@@ -5,26 +5,26 @@ This is a report of contributions to the [PowerShell Gallery](https://powershell
 This report does not include pre-release modules and be aware that not every module will have an online repository.
 
 Internal navigation links may not work in the PDF version of this report.
-+ [Worxspace](#Worxspace) (186)
-+ [psdevuk](#psdevuk) (106)
++ [Worxspace](#Worxspace) (187)
++ [psdevuk](#psdevuk) (105)
 + [Broadcom](#Broadcom) (100)
 + [Przemyslaw Klys](#Przemyslaw-Klys) (86)
 + [Texas Roemer](#Texas-Roemer) (78)
-+ [Friedrich Weinmann](#Friedrich-Weinmann) (74)
++ [Friedrich Weinmann](#Friedrich-Weinmann) (73)
 + [Jan Hoek](#Jan-Hoek) (60)
-+ [Adam Driscoll](#Adam-Driscoll) (57)
-+ [Pawel Wujczyk](#Pawel-Wujczyk) (56)
-+ [James Brundage](#James-Brundage) (55)
++ [Adam Driscoll](#Adam-Driscoll) (56)
++ [Pawel Wujczyk](#Pawel-Wujczyk) (55)
++ [James Brundage](#James-Brundage) (54)
 + [Pwshrc Maintainers](#Pwshrc-Maintainers) (53)
-+ [PSModule](#PSModule) (51)
++ [PSModule](#PSModule) (50)
 + [Ironman Software](#Ironman-Software) (45)
 + [Jeff Hicks](#Jeff-Hicks) (41)
 + [Roger Brown](#Roger-Brown) (39)
 + [John.Leyva](#JohnLeyva) (38)
 + [Akamai Technologies Ltd.](#Akamai-Technologies-Ltd) (38)
 + [owen.heaume](#owenheaume) (32)
-+ [Adam Bacon](#Adam-Bacon) (31)
 + [Mark5900](#Mark5900) (31)
++ [Adam Bacon](#Adam-Bacon) (31)
 + [Michael Haken](#Michael-Haken) (31)
 + [Andreas Eulitz](#Andreas-Eulitz) (29)
 + [Michal Gajda](#Michal-Gajda) (28)
@@ -38,10 +38,10 @@ Internal navigation links may not work in the PDF version of this report.
 + **pspulumiyaml.azurenative.webpubsub 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:10:01*]
 + **pspulumiyaml.azurenative.windowsesu 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:10:01*]
 + **pspulumiyaml.azurenative.vmwarecloudsimple 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:10:00*]
-+ **pspulumiyaml.azurenative.sql 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:10:00*]
 + **pspulumiyaml.azurenative.virtualmachineimages 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:10:00*]
-+ **pspulumiyaml.azurenative.windowsiot 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:09:59*]
++ **pspulumiyaml.azurenative.sql 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:10:00*]
 + **pspulumiyaml.azurenative.videoanalyzer 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:09:59*]
++ **pspulumiyaml.azurenative.windowsiot 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:09:59*]
 + **pspulumiyaml.azurenative.testbase 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:09:58*]
 + **pspulumiyaml.azurenative.visualstudio 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:09:57*]
 + **pspulumiyaml.azurenative.web 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:09:56*]
@@ -64,8 +64,8 @@ Internal navigation links may not work in the PDF version of this report.
 + **pspulumiyaml.azurenative.resourceconnector 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:09:15*]
 + **pspulumiyaml.azurenative.servicebus 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:09:12*]
 + **pspulumiyaml.azurenative.relay 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:09:11*]
-+ **pspulumiyaml.azurenative.securityinsights 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:09:10*]
 + **pspulumiyaml.azurenative.resources 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:09:10*]
++ **pspulumiyaml.azurenative.securityinsights 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:09:10*]
 + **pspulumiyaml.azurenative.serialconsole 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:09:09*]
 + **pspulumiyaml.azurenative.security 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:09:08*]
 + **pspulumiyaml.azurenative.securityandcompliance 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:09:06*]
@@ -94,9 +94,11 @@ Internal navigation links may not work in the PDF version of this report.
 + **pspulumiyaml.azurenative.operationsmanagement 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:08:24*]
 + **pspulumiyaml.azurenative.powerbidedicated 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:08:23*]
 + **pspulumiyaml.azurenative.networkfunction 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:08:18*]
++ **pspulumiyaml.azurenative.network 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:08:18*]
 + **pspulumiyaml.azurenative.orbital 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:08:16*]
 + **pspulumiyaml.azurenative.management 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:08:01*]
 + **pspulumiyaml.azurenative.netapp 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:07:56*]
++ **pspulumiyaml.azurenative.mobilenetwork 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:07:54*]
 + **pspulumiyaml.azurenative.media 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:07:53*]
 + **pspulumiyaml.azurenative.maps 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:07:52*]
 + **pspulumiyaml.azurenative.marketplace 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:07:47*]
@@ -131,8 +133,8 @@ Internal navigation links may not work in the PDF version of this report.
 + **pspulumiyaml.azurenative.keyvault 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:06:23*]
 + **pspulumiyaml.azurenative.hybriddata 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:06:22*]
 + **pspulumiyaml.azurenative.hdinsight 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:06:21*]
-+ **pspulumiyaml.azurenative.importexport 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:06:20*]
 + **pspulumiyaml.azurenative.hardwaresecuritymodules 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:06:20*]
++ **pspulumiyaml.azurenative.importexport 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:06:20*]
 + **pspulumiyaml.azurenative.healthbot 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:06:19*]
 + **pspulumiyaml.azurenative.iotsecurity 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:06:18*]
 + **pspulumiyaml.azurenative.healthcareapis 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:06:17*]
@@ -181,24 +183,24 @@ Internal navigation links may not work in the PDF version of this report.
 + **pspulumiyaml.azurenative.costmanagement 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:03:41*]
 + **pspulumiyaml.azurenative.databox 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:03:41*]
 + **pspulumiyaml.azurenative.consumption 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:03:40*]
-+ **pspulumiyaml.azurenative.changeanalysis 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:03:37*]
 + **pspulumiyaml.azurenative.automation 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:03:37*]
-+ **pspulumiyaml.azurenative.blueprint 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:03:35*]
++ **pspulumiyaml.azurenative.changeanalysis 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:03:37*]
 + **pspulumiyaml.azurenative.databricks 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:03:35*]
++ **pspulumiyaml.azurenative.blueprint 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:03:35*]
 + **pspulumiyaml.azurenative.certificateregistration 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:03:34*]
 + **pspulumiyaml.azurenative.cache 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:03:33*]
-+ **pspulumiyaml.azurenative.azurearcdata 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:03:32*]
 + **pspulumiyaml.azurenative.batch 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:03:32*]
++ **pspulumiyaml.azurenative.azurearcdata 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:03:32*]
 + **pspulumiyaml.azurenative.agfoodplatform 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:03:30*]
 + **pspulumiyaml.azurenative.communication 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:03:29*]
 + **pspulumiyaml.azurenative.automanage 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:03:28*]
 + **pspulumiyaml.azurenative.containerservice 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:03:26*]
 + **pspulumiyaml.azurenative.blockchain 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:03:25*]
-+ **pspulumiyaml.azurenative.containerinstance 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:03:23*]
 + **pspulumiyaml.azurenative.confidentialledger 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:03:23*]
++ **pspulumiyaml.azurenative.containerinstance 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:03:23*]
 + **pspulumiyaml.azurenative.azurestackhci 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:03:21*]
-+ **pspulumiyaml.azurenative.autonomousdevelopmentplatform 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:03:16*]
 + **pspulumiyaml.azurenative.authorization 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:03:16*]
++ **pspulumiyaml.azurenative.autonomousdevelopmentplatform 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:03:16*]
 + **pspulumiyaml.azurenative.azurestack 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:03:15*]
 + **pspulumiyaml.azurenative.apimanagement 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:03:14*]
 + **pspulumiyaml.azurenative.customproviders 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:03:13*]
@@ -207,7 +209,6 @@ Internal navigation links may not work in the PDF version of this report.
 + **pspulumiyaml.azurenative.avs 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:03:10*]
 + **pspulumiyaml.azurenative.attestation 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:03:07*]
 + **pspulumiyaml.azurenative.azureactivedirectory 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:03:06*]
-+ **pspulumiyaml.azurenative.appplatform 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:03:02*]
 + **pspulumiyaml.azurenative.appconfiguration 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:03:00*]
 + **pspulumiyaml.azurenative.botservice 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:02:59*]
 + **pspulumiyaml.azurenative.azuredata 0.0.4**  - Module containing functions required to create YAML/JSON definitions for Azure Native pulumi provider [*06/26/2022 02:02:57*]
@@ -229,7 +230,6 @@ Internal navigation links may not work in the PDF version of this report.
 + **[UDFAQ 1.0.1](https://github.com/psDevUK/UDFAQ)**  - Inspired by https://www.npmjs.com/package/react-faq-component to bring this component to Powershell Universal [*09/20/2022 08:58:48*]
 + **[UDReadTime 1.0.1](https://github.com/psDevUK/UDReadTime)**  - Adds an estimated time to read on your page with custom text, also the option to display the amount of words and custom message. Seen on most blog sites, showing an estimation of the reading time [*09/19/2022 14:33:45*]
 + **[UDWizardry 1.0.1](https://github.com/psDevUK/UDWizardry)**  - Complete wizard component including input fields and validation, keeps data going back [*09/18/2022 17:48:48*]
-+ **[UDTextLoop 1.0.3](https://github.com/psDevUK/UDTextLoop)**  - An animated loop of text nodes for your headings. Uses react-motion for the transition so it handles super fast animations and spring params [*09/18/2022 15:24:18*]
 + **[UDScrollProgress 1.0.0](https://github.com/psDevUK/UDScrollProgress)**  - When you scroll on the page, a custom top bar will appear to indicate the progression on the page [*09/14/2022 13:24:44*]
 + **[UDLinkify 1.0.0](https://github.com/psDevUK/UDLinkify)**  - React component to parse links (urls, emails, etc.) in text into clickable links [*09/14/2022 12:25:48*]
 + **[UDColorful 1.0.0](https://github.com/psDevUK/UDColorful)**  - Beautiful HEX colour picker for your perfect colour [*09/14/2022 11:32:11*]
@@ -262,6 +262,7 @@ Internal navigation links may not work in the PDF version of this report.
 + **[UniversalDashboard.UDSpeechBubble 1.0.0](https://psdevuk.github.io/ud-flix/Speech-Bubble-Component/)**  - SpeechBubble Toast Component for your Dashboard [*11/23/2020 11:04:25*]
 + **[UniversalDashboard.NoAvatar 1.0.0](https://psdevuk.github.io/ud-flix/Initials-Avatar-Component/)**  - Allows you to display initials as an avatar based on https://www.npmjs.com/package/react-initials-avatar [*11/20/2020 19:25:53*]
 + **[UniversalDashboard.EventTimeline 1.0.0](https://psdevuk.github.io/ud-flix/Event-Timeline-Component/)**  - Event Timeline Component https://www.npmjs.com/package/react-event-timeline [*11/17/2020 20:56:36*]
++ **UniversalDashboard.UDillustration 1.0.1**  - All the illustrations not in the unDraw component [*11/16/2020 19:53:43*]
 + **[UniversalDashboard.AnimateSvg 1.0.0](https://psdevuk.github.io/ud-flix/Animate-SVG-Component/)**  - Allows you to animate SVG graphics [*11/15/2020 11:26:38*]
 + **UniversalDashboard.UDMorph 1.0.0**  - Allows you to morph one word into another word [*11/13/2020 14:28:02*]
 + **[UniversalDashboard.UDFileIcon 1.0.0](https://psdevuk.github.io/ud-flix/New-File-Icon-Component/)**  - Custom File Icon SVG Graphics https://www.npmjs.com/package/react-file-icon [*11/12/2020 17:14:22*]
@@ -277,7 +278,6 @@ Internal navigation links may not work in the PDF version of this report.
 + **UniversalDashboard.UDTablerIcon 1.0.1**  - A choice of 800+ icons https://tabler-icons-react.vercel.app/ [*10/03/2020 18:31:35*]
 + **[UniversalDashboard.UDSingleLine 1.0.1](https://psdevuk.github.io/ud-flix/TextArea-Multi-Line-Input/)**  - Dedicated single text line component [*10/02/2020 14:34:37*]
 + **[UniversalDashboard.UDMultiLine 1.0.1](https://psdevuk.github.io/ud-flix/TextArea-Multi-Line-Input/)**  - Dedicated multi text line component [*10/02/2020 14:31:10*]
-+ **[UniversalDashboard.GoogleBarChart 1.0.3](https://github.com/psDevUK/New-GoogleBarChart)**  - Google Bar and Column Chart for UniversalDashboard [*09/30/2020 20:02:35*]
 + **UniversalDashboard.UDAvataaar 1.0.0**  - Custom Avatar for UD based on https://getavataaars.com/ [*05/27/2020 19:04:55*]
 + **[UniversalDashboard.UDUnSplash 1.0.0](https://github.com/psDevUK/UD-UnSplash)**  - Wrapper for unsplash.com images [*05/25/2020 14:10:54*]
 + **[UniversalDashboard.UDConfetti 1.0.0](https://github.com/psDevUK/UD-Confetti)**  - Bringing confetti to UniversalDashboard [*05/14/2020 10:23:16*]
@@ -613,6 +613,7 @@ In new version you now have ability to send notificatins to Microsoft Teams, Sla
 + **[ForestManagement 1.5.81](https://admf.one/)**  - Infrastructure module to build and maintain forest configuration [*10/02/2025 10:55:22*]
 + **[DomainManagement 1.9.228](https://admf.one/)**  - Module to manage domain configuration [*10/02/2025 10:52:56*]
 + **[PkiExtension 1.1.3](https://github.com/FriedrichWeinmann/PkiExtension)**  - Extends the core feature set of the PKI Module [*09/25/2025 11:59:50*]
++ **[InformationProtection 0.9.2](https://github.com/FriedrichWeinmann/InformationProtection)**  - Wraps the Microsoft Information Protection SDK [*09/12/2025 14:34:47*]
 + **[PSFramework 1.13.406](http://psframework.org/)**  - General Scripting Framework, providing PowerShell-specific infrastructure for other modules. [*08/29/2025 12:18:04*]
 + **Paradox.Modding.Stellaris 1.0.4**  - Modding tools for the Paradox game "Stellaris" [*08/03/2025 17:37:41*]
 + **[EntraAuth 1.8.50](https://github.com/FriedrichWeinmann/EntraAuth)**  - Get Tokens from Entra ID [*07/21/2025 14:11:19*]
@@ -649,7 +650,6 @@ In new version you now have ability to send notificatins to Microsoft Teams, Sla
 + **[ADMF.Core 1.1.9](https://admf.one/)**  - Central Tooling used across available across all ADMF Project modules [*05/16/2023 07:05:03*]
 + **[PSAzureMigrationAdvisor 1.2.14](https://github.com/FriedrichWeinmann/PSAzureMigrationAdvisor)**  - Tools to help migrate scripts using the official Azure/AzureAD modules [*04/13/2023 14:53:09*]
 + **AzureDevOps.Services.OpenApi 1.0.4**  - Autogenerated Client for the Azure Devops Services API [*04/12/2023 15:12:20*]
-+ **PSInfernal 1.0.0**  - Wrapper Module to get the latest versions of Fred's most commonly used PowerShell utilities & tools [*03/14/2023 23:26:42*]
 + **[MDCA 1.1.4](https://github.com/FriedrichWeinmann/MDCA)**  - Client for the Microsoft Defender for Cloud Apps API [*12/15/2022 16:22:20*]
 + **[Azure.Function.Tools 1.0.4](https://github.com/FriedrichWeinmann/Azure.Function.Tools)**  - Lightweight tooling for Function Apps [*12/14/2022 08:37:55*]
 + **[LdapTools 1.1.7](https://github.com/FriedrichWeinmann/LdapTools)**  - Toolkit for AD queries without requiring ActiveDirectory module [*07/27/2022 06:26:37*]
@@ -657,7 +657,6 @@ In new version you now have ability to send notificatins to Microsoft Teams, Sla
 + **GPWmiFilter 1.0.5**  - Module to manage WMI Filter [*06/05/2022 07:51:34*]
 + **[VHDX 1.0.6](https://github.com/FriedrichWeinmann/VHDX)**  - Create and maintain VHDX files [*05/21/2022 12:01:03*]
 + **[PowerShellForGitHub.Content 1.0.0](https://github.com/FriedrichWeinmann/PowerShellForGitHub.Content)**  - Improved repository content enumeration / scanning for PowerShellForGitHub [*04/21/2022 19:33:41*]
-+ **LargeFiles 1.0.0**  - Tools for scanning and handling too large files [*04/13/2022 11:39:57*]
 + **TaskServiceUserScan 0.1.0**  - Helper module to scan local service and task configuration and track service account usage [*03/28/2022 04:49:02*]
 + **FunctionAppDeploymentTools 1.0.0**  - Tools to deploy and manage azure function apps [*02/28/2022 09:39:01*]
 + **[Monitoring 1.0.6](https://github.com/FriedrichWeinmann/Monitoring)**  - Module to implement a freely extensible monitoring data gathering framework [*09/24/2021 14:22:05*]
@@ -753,7 +752,6 @@ In new version you now have ability to send notificatins to Microsoft Teams, Sla
 + **[PowerShellUniversal.Bluesky 1.0.0](https://github.com/ironmansoftware/scripts/tree/main/Scripts/PowerShellUniversal.Bluesky)**  - Bluesky integration for PowerShell Universal. [*02/13/2025 03:06:48*]
 + **[psedit 0.0.7](https://github.com/ironmansoftware/psedit)**  - Terminal-based editor for PowerShell [*07/03/2024 01:33:58*]
 + **[snek 2.0](https://github.com/adamdriscoll/snek)**  - PowerShell wrapper around Python for .NET to invoke Python from PowerShell [*08/23/2023 15:54:14*]
-+ **[RuntimeDiagnostics 0.0.1](https://github.com/ironmansoftware/RuntimeDiagnostics)**  - Analyze .NET memory dump and processes [*06/01/2023 20:09:44*]
 + **[PSPolly 0.0.2](https://github.com/adamdriscoll/pspolly)**  - Retry, rate limit, circuit breaker and caching cmdlets [*02/22/2023 21:26:55*]
 + **[PSCommander 2022.11.0](https://github.com/ironmansoftware/pscommander)**  - Command your desktop with PowerShell. [*11/25/2022 16:26:00*]
 + **[TerminalGuiDesigner 0.0.1](https://github.com/ironmansoftware/terminal-gui-designer)**  - A drag and drop designer for terminal based interfaces based on PowerShell. [*11/24/2022 16:15:10*]
@@ -832,7 +830,6 @@ In new version you now have ability to send notificatins to Microsoft Teams, Sla
 + **[ProductivityTools.PSDbUp 0.0.6](http://www.productivitytools.tech/psdbup/)**  - Module wraps DbUp functionality in to convinient to use function. To invoke it you need to provide, SqlServer instance name and SqlServer database name. If you want you can provide schema for log table (if not default dbo), and path to scripts (if not provided - current directory) [*09/18/2021 20:23:36*]
 + **[ProductivityTools.FindPictures 0.0.3](http://productivitytools.tech/find-pictures/)**  - Module finds pictures without date time creation, which often means that this is not photo but picture [*06/22/2021 11:46:45*]
 + **[ProductivityTools.GetBinaryModuleFileList 0.0.2](http://productivitytools.tech/get-binary-module-filelist/)**  - Module prints list of files which can be copied to the psd1 powershell manifest file. [*06/19/2021 19:18:56*]
-+ **[ProductivityTools.BackupBookmarksChrome 0.0.12](http://productivitytools.tech/backup-bookmarks-chrome/)**  - It gets the current user Chrome Bookmarks and copy it to given directory [*06/18/2021 12:07:09*]
 + **[ProductivityTools.CopyItemDirectoryRepeatable 1.0.5](http://productivitytools.tech/copy-itemdirectoryrepeatable/)**  - It performs a copy between the directories. The difference between this and single copy-item is repeatable of the result. Every time you will use copy-item the same result will occur [*06/17/2021 16:15:32*]
 + **[ProductivityTools.InstallService 1.0.12](http://productivitytools.tech/install-service/)**  - Install/uninstall Windows service using InstallUtil.exe tool. [*05/07/2021 12:42:21*]
 + **[ProductivityTools.BackupBookmarksIE 1.0.6](http://productivitytools.tech/backup-bookmarks-ie/)**  - It gets the Internet Explore bookmark directory from registry and next copies the content to given path. To check correctness it calculates amount of items in the source and in the destination directory. [*05/07/2021 12:12:40*]
@@ -883,7 +880,6 @@ In new version you now have ability to send notificatins to Microsoft Teams, Sla
 + **[4bitcss 0.1.5](https://github.com/2bitdesigns)**  - CSS3 Color Schemes for 4-bit color palettes [*11/10/2024 00:34:28*]
 + **[HelpOut 0.5.5](https://github.com/StartAutomating/HelpOut)**  - A Helpful Toolkit for Managing PowerShell Help [*10/13/2024 22:51:45*]
 + **[PSJekyll 0.1](https://github.com/PowerShellWeb/PSJekyll)**  - Scarily Simple Static Sites with Jekyll and PowerShell [*10/10/2024 00:46:12*]
-+ **[Dice 0.1](https://github.com/StartAutomating/Dice)**  - Roll the Dice and Play with Probability in PowerShell - ⚀ ⚅ [*08/10/2024 19:20:14*]
 + **[Rocker 0.1.2](https://github.com/StartAutomating/Rocker)**  - Rock Docker with PowerShell [*04/24/2024 23:39:45*]
 + **[EZOut 2.0.6](https://github.com/StartAutomating/EZOut)**  - Easily Author Rich Format Files to Customize PowerShell Output [*04/16/2024 03:32:09*]
 + **[Irregular 0.7.9](https://github.com/StartAutomating/Irregular)**  - Regular Expressions made Strangely Simple [*04/16/2024 02:49:17*]
@@ -993,7 +989,6 @@ In new version you now have ability to send notificatins to Microsoft Teams, Sla
 + **[IPv4 0.0.10](https://github.com/PSModule/IPv4)**  - A PowerShell module for managing IPv4 data [*09/02/2025 17:50:17*]
 + **[Sodium 2.2.2](https://github.com/PSModule/Sodium)**  - A PowerShell module for handling Sodium encrypted secrets. [*08/29/2025 10:18:45*]
 + **[Object 1.0.2](https://github.com/PSModule/Object)**  - A PowerShell module that manages Objects in PowerShell. [*08/29/2025 05:58:42*]
-+ **[WoW 0.0.24](https://github.com/PSModule/WoW)**  - A PowerShell module containing utilities for World of Warcraft. [*08/29/2025 05:57:56*]
 + **[PSCredential 1.0.3](https://github.com/PSModule/PSCredential)**  - A Powershell module to manage PSCredentials [*08/29/2025 05:46:37*]
 + **[NerdFonts 1.0.27](https://github.com/PSModule/NerdFonts)**  - A PowerShell module to download and install fonts from NerdFonts. [*08/28/2025 08:14:39*]
 + **[Net 1.0.0](https://github.com/PSModule/Net)**  - A PowerShell module to bring network functions to PowerShell [*08/27/2025 12:12:06*]
@@ -1147,6 +1142,7 @@ In new version you now have ability to send notificatins to Microsoft Teams, Sla
 + **[rhubarb-geek-nz.SQLiteConnection 1.0.119](https://github.com/rhubarb-geek-nz/SQLiteConnection)**  - SQLite Connection Tool [*11/06/2024 19:16:48*]
 + **[rhubarb-geek-nz.Guido 1.0.0](https://github.com/rhubarb-geek-nz/Guido)**  - Guid Cmdlet for PowerShell [*10/18/2024 10:09:45*]
 + **[rhubarb-geek-nz.AuthenticodeSignature 1.1.3](https://github.com/rhubarb-geek-nz/AuthenticodeSignature)**  - Provides Set-AuthenticodeSignature using HTTP signature service [*08/21/2024 06:35:50*]
++ **[rhubarb-geek-nz.PSCPreProcessor 1.0.1](https://github.com/rhubarb-geek-nz/cpp)**  - Implements C preprocessor as a pipeline allowing direct usage in PowerShell [*08/08/2024 18:31:56*]
 + **[rhubarb-geek-nz.Joinery 1.0.5](https://github.com/rhubarb-geek-nz/Joinery)**  - Join Tools [*07/19/2024 16:24:10*]
 + **[rhubarb-geek-nz.NuGetPackage 1.0.2](https://github.com/rhubarb-geek-nz/NuGetPackage)**  - NuGet tools [*06/07/2024 15:02:57*]
 + **[rhubarb-geek-nz.SystemLockdownPolicy 1.0.0](https://github.com/rhubarb-geek-nz/SystemLockdownPolicy)**  - Cmdlet for getting the SystemLockdownPolicy [*06/01/2024 07:44:49*]
@@ -1159,7 +1155,6 @@ In new version you now have ability to send notificatins to Microsoft Teams, Sla
 + **[rhubarb-geek-nz.MySqlConnection 2.3.7](https://github.com/rhubarb-geek-nz/MySqlConnection)**  - MySQL Connection Tool [*04/27/2024 19:53:07*]
 + **[rhubarb-geek-nz.OnReflection 1.0.1](https://github.com/rhubarb-geek-nz/OnReflection)**  - Reflection Cmdlet for PowerShell [*04/21/2024 15:47:11*]
 + **[rhubarb-geek-nz.Base64 1.0.0](https://github.com/rhubarb-geek-nz/Base64)**  - Base64 Cmdlets for PowerShell [*04/20/2024 17:34:39*]
-+ **[rhubarb-geek-nz.Base64String 1.0.0](https://github.com/rhubarb-geek-nz/Base64String)**  - Base64 Cmdlets for PowerShell [*04/20/2024 17:31:13*]
 + **[rhubarb-geek-nz.GZip 1.0.0](https://github.com/rhubarb-geek-nz/gzip)**  - GZip Tools [*04/10/2024 01:44:45*]
 + **[rhubarb-geek-nz.SQLiteConnection.Alpine 1.0.118.0](https://github.com/rhubarb-geek-nz/SQLiteConnection)**  - SQLite Connection Tool [*11/27/2023 03:17:31*]
 + **[rhubarb-geek-nz.Forever 0.0.3](https://github.com/rhubarb-geek-nz/Forever)**  - Forever PSCmdlet [*11/26/2023 22:59:43*]
@@ -1216,11 +1211,11 @@ In new version you now have ability to send notificatins to Microsoft Teams, Sla
 + **[Akamai.Reporting 2.3.1](https://github.com/akamai/powershell)**  - Functions to manage the Akamai Reporting API. [*08/15/2025 19:18:45*]
 + **[Akamai.Cloudlets 2.3.1](https://github.com/akamai/powershell)**  - Functions to manage the Akamai Cloudlets API. [*08/15/2025 19:17:40*]
 + **[Akamai.CloudAccessManager 2.3.1](https://github.com/akamai/powershell)**  - Functions to manage the Akamai Cloud Access Manager API. [*08/15/2025 19:17:39*]
-+ **[Akamai.EdgeHostnames 2.3.1](https://github.com/akamai/powershell)**  - Functions to manage the Akamai Edge Hostnames API. [*08/15/2025 19:17:38*]
 + **[Akamai.TestCenter 2.3.1](https://github.com/akamai/powershell)**  - Functions to manage the Akamai Test Center API. [*08/15/2025 19:17:38*]
-+ **[Akamai.EdgeDNS 2.3.1](https://github.com/akamai/powershell)**  - Functions to manage the Akamai EdgeDNS API. [*08/15/2025 19:17:37*]
++ **[Akamai.EdgeHostnames 2.3.1](https://github.com/akamai/powershell)**  - Functions to manage the Akamai Edge Hostnames API. [*08/15/2025 19:17:38*]
 + **[Akamai.METS 2.3.1](https://github.com/akamai/powershell)**  - Functions to manage the Akamai MTLS Edge Trust Store API. [*08/15/2025 19:17:37*]
 + **[Akamai.GTM 2.3.1](https://github.com/akamai/powershell)**  - Functions to manage the Akamai Global Traffic Manager APIs. [*08/15/2025 19:17:37*]
++ **[Akamai.EdgeDNS 2.3.1](https://github.com/akamai/powershell)**  - Functions to manage the Akamai EdgeDNS API. [*08/15/2025 19:17:37*]
 + **[Akamai.SIEM 2.3.1](https://github.com/akamai/powershell)**  - Functions to manage the Akamai Security Information and Event Management API. [*08/15/2025 19:17:36*]
 + **[Akamai.Siteshield 2.3.1](https://github.com/akamai/powershell)**  - Functions to manage the Akamai Siteshield API. [*08/15/2025 19:17:36*]
 + **[Akamai.Purge 2.3.1](https://github.com/akamai/powershell)**  - Functions to manage the Akamai Fast Purge API. [*08/15/2025 19:17:35*]
@@ -1285,40 +1280,6 @@ In new version you now have ability to send notificatins to Microsoft Teams, Sla
 + **SpecTeamViewerLegacy 1.0.1**  - Functions to control legacy Team Viewer [*07/21/2023 08:21:30*]
 + **SpecAzTables 1.0.5**  - Module to interact with Azure Tables [*07/12/2023 09:47:50*]
 
-## Adam Bacon
-
-+ **[UniversalDashboard.UDQueryBuilder 0.0.1](https://adam-bacon.netlify.app/)**  - Dynamic SQL Query Builder [*09/08/2023 13:53:50*]
-+ **[psNetSpell 0.0.1](https://github.com/psDevUK/psdayuk2023/tree/main/psNetSpell/0.0.1)**  - This module allows you to spell-check a document [*03/13/2023 12:42:34*]
-+ **AlwaysOnTop 1.0.0**  - Keeps a particular window in focus, preventing other windows from appearing ontop of your window [*10/24/2022 19:58:54*]
-+ **[PSDupes 0.0.1](https://github.com/psDevUK/PSDupes)**  - A crescendo module to locate duplicate files. Very fast and easy to use, progress is shown whilst searching [*10/16/2022 18:02:23*]
-+ **[PSLogParser 0.0.2](https://adam-bacon.netlify.app/presentations/crescendo/)**  - Crescendo Powershell module for Log Parser 2.2 [*10/10/2022 20:41:56*]
-+ **[Retype 1.0.4](https://github.com/psDevUK/Retype)**  - Retype is an ultra-high-performance generator that builds a website based on simple text files. Focus on your writing while Retype builds the rest [*09/04/2022 21:07:51*]
-+ **[ChrissyColors 1.0.0](https://github.com/psDevUK/ChrissyColors)**  - Generates as many different colour schemes you specify in the -NumberOfResults parameter. This is the fastest hex code colour generator out there [*08/29/2022 11:54:27*]
-+ **[Search-IsItUp 1.0](https://adam-bacon.netlify.app/)**  - This module will check IsItUp.org to check if the given website or websites are up or down. This is showing some URL hacking and web page scraping in the PSM1 file. [*08/26/2022 17:40:32*]
-+ **[SpeedTest-CLI 1.0.1](https://adam-bacon.netlify.app/)**  - PowerShell cmdlets for Internet Speed Test [*08/25/2022 22:51:18*]
-+ **[Find-CrimeUK 1.2](https://adam-bacon.netlify.app/)**  - Helps you locate all the crime that has happened in a particular place in the UK. As long as the police have recorded it and it has been registered on this API then it should show you the information about the crime. [*08/18/2022 14:37:45*]
-+ **[New-Avatar 1.0.0](https://adam-bacon.netlify.app/)**  - This is just a fun module, it will not boost your career path using this, but it is cool, so I thought I would make it into a module. This uses the robohash.org API site which will allow you to generate either a robot, or a monster, or a robot disembodied head or finally a kitten. Based on the name you supply robohash.org [*08/15/2022 21:22:20*]
-+ **[Search-Dictionary 1.0](https://adam-bacon.netlify.app/)**  - This uses dictionaryapi.dev to obtain the information displayed to you. To my knowledge no dictionary checkers are available as a module on the Powershell Gallery, due to my fondness of the English language and always looking for the most appropriate word to use, I thought creating a module to do just that would be a jolly good idea. This will return the definition of the word, an example of using the word, an audio clip of the phonetics of the word and finally a web link to wiktionary.org to find out even more information on this word you search for. Not every result contains examples and audio. [*08/15/2022 14:09:00*]
-+ **[New-ShortURL 1.0](https://adam-bacon.netlify.app/)**  - The one and only Powershell short URL generator. This is using an API which is limited to 100 calls per minute. Allows you to turn a full url into a short url in a jiffy. [*08/14/2022 21:53:03*]
-+ **[Find-Geolocation 1.0.0](https://adam-bacon.netlify.app/)**  - This module is using https://freegeoip.live API which is free. Yes. It's totally free. They believe that digital businesses need to get such kind of service for free. Many services are selling Geoip API as a service, but they think that it should be totally free. Feel free to their API as much as you want without any limit other than 10,000 queries per hour for one IP address. I thought this would be another good addition to add to the Powershell Gallery. [*08/13/2022 22:44:17*]
-+ **[Get-SecurePassword 1.0.2](https://adam-bacon.netlify.app/recent-modules/get-securepassword/)**  - A Powershell Binary wrapper for the Password Generator which has 1.8 million downloads, can now be run as a Powershell cmdlet https://www.nuget.org/packages/PasswordGenerator generating super secure OWASP standard. [*08/12/2022 22:39:02*]
-+ **[Takeown 1.0.2](https://adam-bacon.netlify.app/)**  - Crescendo Powershell wrapper of takeown.exe [*08/11/2022 19:12:19*]
-+ **[RoboCopy 1.0.1](https://adam-bacon.netlify.app/)**  - PowerShell cmdlet for the official RoboCopy.exe [*08/09/2022 21:32:57*]
-+ **[ConsoleImage 1.0.0](https://adam-bacon.netlify.app/)**  - Shows images in the console [*08/06/2022 23:12:40*]
-+ **[ComicConverter 1.0.1](https://github.com/psDevUK/ComicConverter)**  - Comic book conversion cmdlets. Allows you to convert a comic pdf to cbz. Allows converting from cbr to pdf, as well as converting an array of images to CBR comic. Finally this also allows you to extract images from cbr comics to a folder [*08/03/2022 23:19:19*]
-+ **[YoutubeDownloader 1.0](https://github.com/psDevUK/YoutubeDownloader)**  - Download a YouTube video with ease [*08/01/2022 23:26:39*]
-+ **[Find-Gif 1.0.0](https://github.com/psDevUK/Find-Gif)**  - Find-Gif allows you to find a GIF from tenor.com using their API [*07/24/2022 22:59:12*]
-+ **ChartImage 1.0.2**  - Allows you to create beautiful charts and save them as images please see image-charts.com as this is the C# library for saving these charts to images [*07/24/2022 21:34:00*]
-+ **[Get-MacAddressVendor 1.0](https://github.com/psDevUK/Get-MacAddressVendor)**  - Finds the MAC Address Vendor from a given MAC Address [*07/19/2022 07:11:16*]
-+ **[ReadPDF 1.0.3](https://github.com/psDevUK/ReadPDF)**  - Reads all text from a PDF file [*07/13/2022 19:42:19*]
-+ **[SpeedTestCLI 1.0.0](https://github.com/psDevUK/SpeedTest)**  - PowerShell cmdlets speedtest-cli [*07/05/2022 22:26:59*]
-+ **[TShark 1.0.2](https://github.com/psDevUK/TShark)**  - PowerShell cmdlet for tshark.exe [*07/05/2022 20:47:45*]
-+ **UniversalDashboard.UDIceCream 1.0.0**  - Bringing you the feeling of summer all year round [*09/11/2019 16:08:25*]
-+ **UniversalDashboard.UDBubble 1.0.0**  - Adds an awesome SVG speechbubble to a dashboard [*09/11/2019 15:57:01*]
-+ **UniversalDashboard.UDWhiteboard 1.0.0**  - Giving you a interactive whiteboard for presentations [*09/11/2019 14:50:51*]
-+ **UniversalDashboard.UDMug 1.0.0**  - Adding some SVG goodness to your dashboard [*09/11/2019 14:29:53*]
-+ **UniversalDashboard.UDGhost 1.0.0**  - Making best use of your blank spaces [*09/11/2019 14:12:08*]
-
 ## Mark5900
 
 + **[Capa.PowerShell.Module 1.15.0](https://github.com/Mark5900/Capa.PowerShell.Module)**  - This module contains cmdlets for CapaInstaller SDK and PowerPack. [*07/16/2025 13:13:30*]
@@ -1338,10 +1299,10 @@ In new version you now have ability to send notificatins to Microsoft Teams, Sla
 	For more information, see https://capasystems.atlassian.net/wiki/spaces/CI65DOC/pages/19382173123/SDK+-+CapaInstaller+Software+Development+Kit+functions [*07/16/2025 13:13:18*]
 + **[Capa.PowerShell.Module.SDK.Group 1.15.0](https://github.com/Mark5900/Capa.PowerShell.Module)**  - PowerShell module for CapaInstaller SDK containing functions for Group functions.
 	For more information, see https://capasystems.atlassian.net/wiki/spaces/CI65DOC/pages/19382173123/SDK+-+CapaInstaller+Software+Development+Kit+functions [*07/16/2025 13:13:17*]
-+ **[Capa.PowerShell.Module.SDK.Package 1.15.0](https://github.com/Mark5900/Capa.PowerShell.Module)**  - PowerShell module for CapaInstaller SDK containing functions for Package functions.
-	For more information, see https://capasystems.atlassian.net/wiki/spaces/CI65DOC/pages/19382173123/SDK+-+CapaInstaller+Software+Development+Kit+functions [*07/16/2025 13:13:16*]
 + **[Capa.PowerShell.Module.PowerPack.Reg 1.15.0](https://github.com/Mark5900/Capa.PowerShell.Module)**  - PowerShell module for CapaInstaller PowerPacks containing functions for Registry commands.
 	For more information, see https://capasystems.atlassian.net/wiki/spaces/CI65DOC/pages/19462455297/PowerShell+Scripting+Library [*07/16/2025 13:13:16*]
++ **[Capa.PowerShell.Module.SDK.Package 1.15.0](https://github.com/Mark5900/Capa.PowerShell.Module)**  - PowerShell module for CapaInstaller SDK containing functions for Package functions.
+	For more information, see https://capasystems.atlassian.net/wiki/spaces/CI65DOC/pages/19382173123/SDK+-+CapaInstaller+Software+Development+Kit+functions [*07/16/2025 13:13:16*]
 + **[Capa.PowerShell.Module.PowerPack.CMS 1.15.0](https://github.com/Mark5900/Capa.PowerShell.Module)**  - PowerShell module for CapaInstaller PowerPacks containing functions for CMS commands.
 	For more information, see https://capasystems.atlassian.net/wiki/spaces/CI67DOC/pages/20342578761/PowerShell+Scripting+Library [*07/16/2025 13:13:12*]
 + **[Capa.PowerShell.Module.PowerPack.Ini 1.15.0](https://github.com/Mark5900/Capa.PowerShell.Module)**  - PowerShell module for CapaInstaller PowerPacks containing functions for Ini commands.
@@ -1377,6 +1338,40 @@ In new version you now have ability to send notificatins to Microsoft Teams, Sla
 	For more information, see https://capasystems.atlassian.net/wiki/spaces/CI65DOC/pages/19462455297/PowerShell+Scripting+Library [*07/16/2025 13:12:47*]
 + **[Capa.PowerShell.Module.SDK.Authentication 1.15.0](https://github.com/Mark5900/Capa.PowerShell.Module)**  - PowerShell module for CapaInstaller SDK containing functions for Authentication functions.
 	For more information, see https://capasystems.atlassian.net/wiki/spaces/CI65DOC/pages/19382173123/SDK+-+CapaInstaller+Software+Development+Kit+functions [*07/16/2025 13:12:45*]
+
+## Adam Bacon
+
++ **[UniversalDashboard.UDQueryBuilder 0.0.1](https://adam-bacon.netlify.app/)**  - Dynamic SQL Query Builder [*09/08/2023 13:53:50*]
++ **[psNetSpell 0.0.1](https://github.com/psDevUK/psdayuk2023/tree/main/psNetSpell/0.0.1)**  - This module allows you to spell-check a document [*03/13/2023 12:42:34*]
++ **AlwaysOnTop 1.0.0**  - Keeps a particular window in focus, preventing other windows from appearing ontop of your window [*10/24/2022 19:58:54*]
++ **[PSDupes 0.0.1](https://github.com/psDevUK/PSDupes)**  - A crescendo module to locate duplicate files. Very fast and easy to use, progress is shown whilst searching [*10/16/2022 18:02:23*]
++ **[PSLogParser 0.0.2](https://adam-bacon.netlify.app/presentations/crescendo/)**  - Crescendo Powershell module for Log Parser 2.2 [*10/10/2022 20:41:56*]
++ **[Retype 1.0.4](https://github.com/psDevUK/Retype)**  - Retype is an ultra-high-performance generator that builds a website based on simple text files. Focus on your writing while Retype builds the rest [*09/04/2022 21:07:51*]
++ **[ChrissyColors 1.0.0](https://github.com/psDevUK/ChrissyColors)**  - Generates as many different colour schemes you specify in the -NumberOfResults parameter. This is the fastest hex code colour generator out there [*08/29/2022 11:54:27*]
++ **[Search-IsItUp 1.0](https://adam-bacon.netlify.app/)**  - This module will check IsItUp.org to check if the given website or websites are up or down. This is showing some URL hacking and web page scraping in the PSM1 file. [*08/26/2022 17:40:32*]
++ **[SpeedTest-CLI 1.0.1](https://adam-bacon.netlify.app/)**  - PowerShell cmdlets for Internet Speed Test [*08/25/2022 22:51:18*]
++ **[Find-CrimeUK 1.2](https://adam-bacon.netlify.app/)**  - Helps you locate all the crime that has happened in a particular place in the UK. As long as the police have recorded it and it has been registered on this API then it should show you the information about the crime. [*08/18/2022 14:37:45*]
++ **[New-Avatar 1.0.0](https://adam-bacon.netlify.app/)**  - This is just a fun module, it will not boost your career path using this, but it is cool, so I thought I would make it into a module. This uses the robohash.org API site which will allow you to generate either a robot, or a monster, or a robot disembodied head or finally a kitten. Based on the name you supply robohash.org [*08/15/2022 21:22:20*]
++ **[Search-Dictionary 1.0](https://adam-bacon.netlify.app/)**  - This uses dictionaryapi.dev to obtain the information displayed to you. To my knowledge no dictionary checkers are available as a module on the Powershell Gallery, due to my fondness of the English language and always looking for the most appropriate word to use, I thought creating a module to do just that would be a jolly good idea. This will return the definition of the word, an example of using the word, an audio clip of the phonetics of the word and finally a web link to wiktionary.org to find out even more information on this word you search for. Not every result contains examples and audio. [*08/15/2022 14:09:00*]
++ **[New-ShortURL 1.0](https://adam-bacon.netlify.app/)**  - The one and only Powershell short URL generator. This is using an API which is limited to 100 calls per minute. Allows you to turn a full url into a short url in a jiffy. [*08/14/2022 21:53:03*]
++ **[Find-Geolocation 1.0.0](https://adam-bacon.netlify.app/)**  - This module is using https://freegeoip.live API which is free. Yes. It's totally free. They believe that digital businesses need to get such kind of service for free. Many services are selling Geoip API as a service, but they think that it should be totally free. Feel free to their API as much as you want without any limit other than 10,000 queries per hour for one IP address. I thought this would be another good addition to add to the Powershell Gallery. [*08/13/2022 22:44:17*]
++ **[Get-SecurePassword 1.0.2](https://adam-bacon.netlify.app/recent-modules/get-securepassword/)**  - A Powershell Binary wrapper for the Password Generator which has 1.8 million downloads, can now be run as a Powershell cmdlet https://www.nuget.org/packages/PasswordGenerator generating super secure OWASP standard. [*08/12/2022 22:39:02*]
++ **[Takeown 1.0.2](https://adam-bacon.netlify.app/)**  - Crescendo Powershell wrapper of takeown.exe [*08/11/2022 19:12:19*]
++ **[RoboCopy 1.0.1](https://adam-bacon.netlify.app/)**  - PowerShell cmdlet for the official RoboCopy.exe [*08/09/2022 21:32:57*]
++ **[ConsoleImage 1.0.0](https://adam-bacon.netlify.app/)**  - Shows images in the console [*08/06/2022 23:12:40*]
++ **[ComicConverter 1.0.1](https://github.com/psDevUK/ComicConverter)**  - Comic book conversion cmdlets. Allows you to convert a comic pdf to cbz. Allows converting from cbr to pdf, as well as converting an array of images to CBR comic. Finally this also allows you to extract images from cbr comics to a folder [*08/03/2022 23:19:19*]
++ **[YoutubeDownloader 1.0](https://github.com/psDevUK/YoutubeDownloader)**  - Download a YouTube video with ease [*08/01/2022 23:26:39*]
++ **[Find-Gif 1.0.0](https://github.com/psDevUK/Find-Gif)**  - Find-Gif allows you to find a GIF from tenor.com using their API [*07/24/2022 22:59:12*]
++ **ChartImage 1.0.2**  - Allows you to create beautiful charts and save them as images please see image-charts.com as this is the C# library for saving these charts to images [*07/24/2022 21:34:00*]
++ **[Get-MacAddressVendor 1.0](https://github.com/psDevUK/Get-MacAddressVendor)**  - Finds the MAC Address Vendor from a given MAC Address [*07/19/2022 07:11:16*]
++ **[ReadPDF 1.0.3](https://github.com/psDevUK/ReadPDF)**  - Reads all text from a PDF file [*07/13/2022 19:42:19*]
++ **[SpeedTestCLI 1.0.0](https://github.com/psDevUK/SpeedTest)**  - PowerShell cmdlets speedtest-cli [*07/05/2022 22:26:59*]
++ **[TShark 1.0.2](https://github.com/psDevUK/TShark)**  - PowerShell cmdlet for tshark.exe [*07/05/2022 20:47:45*]
++ **UniversalDashboard.UDIceCream 1.0.0**  - Bringing you the feeling of summer all year round [*09/11/2019 16:08:25*]
++ **UniversalDashboard.UDBubble 1.0.0**  - Adds an awesome SVG speechbubble to a dashboard [*09/11/2019 15:57:01*]
++ **UniversalDashboard.UDWhiteboard 1.0.0**  - Giving you a interactive whiteboard for presentations [*09/11/2019 14:50:51*]
++ **UniversalDashboard.UDMug 1.0.0**  - Adding some SVG goodness to your dashboard [*09/11/2019 14:29:53*]
++ **UniversalDashboard.UDGhost 1.0.0**  - Making best use of your blank spaces [*09/11/2019 14:12:08*]
 
 ## Michael Haken
 
@@ -1498,7 +1493,6 @@ exposing logging events. [*02/18/2020 03:42:13*]
 + **http.server 0.0.2**  - Module to start a simple http server [*05/09/2025 05:53:59*]
 + **node 0.0.1**  - manage node [*05/07/2025 11:54:23*]
 + **HackerOne 0.0.1**  - Navigate the HackerOne Api [*05/02/2025 10:19:08*]
-+ **example3 0.0.1**  - test [*04/23/2025 19:04:45*]
 + **xss 0.0.6**  - XSS Test [*04/17/2025 07:58:02*]
 + **lolbins 0.0.5**  - gives automated functionality to LOLBAS project [*03/30/2025 17:48:10*]
 + **example 0.0.2**  - start calc [*06/22/2024 15:16:05*]
@@ -1535,6 +1529,15 @@ function one   {echo "command 1"}
 function two   {echo "command 2"}
 function three {echo "command 3"}
 function four  {echo "command 4"} [*08/07/2023 00:47:51*]
++ **test1 1.0.0**  - function com {
+    process {
+        switch ($_) {
+            1 { echo "command one."   }
+            2 { echo "command two."   }
+            3 { echo "command three." }
+        }
+    }
+} [*12/02/2022 02:33:28*]
 
 ## WebMD Health Services
 
@@ -1600,4 +1603,4 @@ System Requirements:
     This module uses [LibGit2Sharp](https://github.com/libgit2/libgit2sharp), the .NET wrapper of [libgit2](https://libgit2.github.com/), "a portable, pure C implementation of... Git", which allows you to call Git via API instead using the Git command line interface. [*09/30/2019 19:01:37*]
 + **[CloudBoltAutomation 0.0.1](https://github.com/webmd-health-services/CloudBoltAutomation)**  - A PowerShell module for using the CloudBolt API. [*06/21/2019 22:34:44*]
 
-*Updated: Thursday, 02 October 2025 21:51:42 UTC*
+*Updated: Friday, 03 October 2025 09:52:18 UTC*
