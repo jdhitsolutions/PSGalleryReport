@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Saturday, 04 October 2025 21:52:45 UTC
+Updated: Sunday, 05 October 2025 09:51:58 UTC
 
 .bat
 .env
@@ -302,6 +302,7 @@ aivision
 ajustee
 aka.ms
 aks
+aks-hci
 aksarc
 akscluster
 al
@@ -325,8 +326,6 @@ alias-hint
 alias-tips
 aliases
 aliens
-align
-alignment
 alive
 all
 alletra
@@ -1221,7 +1220,6 @@ celcat
 celerium
 censor
 center
-centered
 centra
 central
 central-management
@@ -1269,7 +1267,6 @@ chatroom
 chatter
 cheat
 check
-checkdb
 checker
 checklist
 checklists
@@ -1947,7 +1944,6 @@ database-migrations
 databaseautomation
 databasemanagement
 databasemigration
-databaserecovery
 databases
 databasetools
 databooster
@@ -2002,6 +1998,7 @@ datto
 dattodbpool
 dattormm
 datum
+dave
 davinci
 dax
 dayinweek
@@ -2012,6 +2009,7 @@ db2
 dba
 dbaas
 dbai
+dbase
 dbassistant
 dbatools
 dbcommand
@@ -2396,8 +2394,10 @@ droptable
 drs
 drsrule
 dry
+drydock
 ds
 ds-client
+ds-utils
 dsa
 dsacls
 dsc
@@ -2415,12 +2415,14 @@ dsl
 dsm
 dsreg
 dsregcmd
+dsutils
 dtc
 dts
 dtsx
 dtx
 du
 dual-stack
+duck
 duckdb
 duckduckgo
 ducks
@@ -2515,6 +2517,7 @@ efi
 egrep
 eid
 eigencontroles
+eigenverft
 einstein
 eklient psedition_core psedition_desktop
 eku
@@ -2647,6 +2650,7 @@ errors
 errorview
 eryph
 esae
+esc
 escape
 escapecodes
 escapesequences
@@ -2750,7 +2754,6 @@ executable
 executables
 execute
 executionalias
-exexml
 exif
 exiftool
 exists
@@ -2847,6 +2850,7 @@ fasttrack
 fat32
 favorite
 favorites
+favouritedirectory
 fb-pro
 fciv
 fd
@@ -3064,6 +3068,7 @@ fount
 fount-pwsh
 fountassist
 fox
+foxpro
 fqdn
 fractal
 frame
@@ -3108,7 +3113,6 @@ fullclr
 fulljoin
 fullmetalgnome
 fullscreen
-fulltextindexmaintenance
 fun
 function
 function-testing
@@ -3378,6 +3382,7 @@ grouvee
 growlnotify
 grr
 gsettings
+gsudo
 gsuite
 gtx1080ti
 guardedfabric
@@ -3405,6 +3410,7 @@ haarlemsdagblad
 habitica
 hack
 hacking
+hacktoberfest
 hadoop
 hafr
 haiku
@@ -3424,6 +3430,7 @@ handle
 handler
 handshake
 handy
+hangouts
 hannelstoolbox
 hanwha
 har
@@ -3772,7 +3779,6 @@ incontact
 indents
 index
 indexdb
-indexmaintenance
 indicator
 indicators
 inedo
@@ -4061,7 +4067,6 @@ jupyter
 jupytor
 jurassic
 justenoughadministration
-justification
 jvm
 jwe
 jwk
@@ -4417,7 +4422,6 @@ logparser
 logrotate
 logrotation
 logs
-logshipping
 logstash
 logtools
 logz
@@ -4537,6 +4541,7 @@ map
 mapapi
 mapi
 mappeddrives
+mapper24
 mapping
 maps
 mapsapi
@@ -4987,6 +4992,7 @@ nasdaq
 nationalinstruments
 native
 natpool
+natural
 natural-language-to-code
 natural-selection
 nature
@@ -5354,6 +5360,7 @@ openidconnect
 openinghours
 openport
 openprovider
+openscad
 opensearch
 opensource
 opensourceinitiative
@@ -9516,7 +9523,6 @@ rgb
 rhapsody
 ribbon
 ribcl
-richtext
 ricoh
 rightcloud
 rightjoin
@@ -9589,6 +9595,7 @@ rss
 rt
 rtm
 rtu
+rubber
 rubrik
 rubriksecuritycloud
 ruby
@@ -10075,7 +10082,6 @@ skyapi
 skype
 skype_for_business
 skype4b
-skype4business
 skypeforbusiness
 skypeforbusinessonline
 skypeonline
@@ -10271,7 +10277,6 @@ sql-script
 sql-server
 sqlagent
 sqlautomation
-sqlbackup
 sqlbits
 sqlbrowser
 sqlbulkcopy
@@ -10378,7 +10383,6 @@ statichtmlsites
 staticip
 staticsite
 statistical
-statisticmaintenance
 statistics
 stats
 statsd
@@ -10758,6 +10762,7 @@ texting-emojis
 textprocessing
 textwrapping
 tfe
+tfenv
 tflint
 tfs
 tfscmdlets
