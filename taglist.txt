@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Sunday, 05 October 2025 09:51:58 UTC
+Updated: Sunday, 05 October 2025 21:52:22 UTC
 
 .bat
 .env
@@ -326,6 +326,8 @@ alias-hint
 alias-tips
 aliases
 aliens
+align
+alignment
 alive
 all
 alletra
@@ -942,7 +944,6 @@ bibtex
 bicep
 bicepnet
 big-ip
-big-iq
 bigcommerce
 bigeval
 bigfix
@@ -1128,7 +1129,6 @@ byte
 bytearray
 bzip2
 bzip2-compression
-c
 c#
 c++
 ca
@@ -1220,6 +1220,7 @@ celcat
 celerium
 censor
 center
+centered
 centra
 central
 central-management
@@ -1267,6 +1268,7 @@ chatroom
 chatter
 cheat
 check
+checkdb
 checker
 checklist
 checklists
@@ -1641,7 +1643,6 @@ connectionsmanager
 connectionstring
 connectivity
 connector
-connectorcmd
 connectormanagement
 connectsync
 connectwise
@@ -1944,6 +1945,7 @@ database-migrations
 databaseautomation
 databasemanagement
 databasemigration
+databaserecovery
 databases
 databasetools
 databooster
@@ -1951,7 +1953,6 @@ databox
 databoxedge
 databricks
 datacatalog
-datacenter
 dataclassification
 datacollectionrule
 dataconduit
@@ -2393,6 +2394,8 @@ droplet
 droptable
 drs
 drsrule
+drupal
+drush
 dry
 drydock
 ds
@@ -2754,6 +2757,7 @@ executable
 executables
 execute
 executionalias
+exexml
 exif
 exiftool
 exists
@@ -3113,6 +3117,7 @@ fullclr
 fulljoin
 fullmetalgnome
 fullscreen
+fulltextindexmaintenance
 fun
 function
 function-testing
@@ -3349,7 +3354,6 @@ graph
 graph-api
 graphapi
 graphapirequests
-graphconnector
 graphexplorer
 graphic
 graphics
@@ -3387,7 +3391,6 @@ gsuite
 gtx1080ti
 guardedfabric
 guardicore
-gubbins
 guest
 guestconfiguration
 guests
@@ -3708,7 +3711,6 @@ idm
 idn
 idna
 idoit
-idp
 idrac
 ids
 ie
@@ -3779,6 +3781,7 @@ incontact
 indents
 index
 indexdb
+indexmaintenance
 indicator
 indicators
 inedo
@@ -4067,6 +4070,7 @@ jupyter
 jupytor
 jurassic
 justenoughadministration
+justification
 jvm
 jwe
 jwk
@@ -4422,6 +4426,7 @@ logparser
 logrotate
 logrotation
 logs
+logshipping
 logstash
 logtools
 logz
@@ -4516,7 +4521,6 @@ manageability
 managed
 managed-identity
 manageddevices
-manageddisks
 managedidentities
 managedidentity
 managedkafka
@@ -5173,7 +5177,6 @@ npm
 npm-proxy
 npm-upgrade
 nprinting
-nprintingapi
 nps
 npslog
 npslogfile
@@ -9263,7 +9266,6 @@ rdc
 rdcman
 rdcmanager
 rdfe
-rdg
 rdl
 rdm
 rdp
@@ -9391,7 +9393,6 @@ remoteconnection
 remoteconnectionsmanager
 remotecontrol
 remotedesktop
-remotedesktopconnectionmanager
 remotedesktopgateway
 remotedesktopmanager
 remotedesktopservices
@@ -9523,6 +9524,7 @@ rgb
 rhapsody
 ribbon
 ribcl
+richtext
 ricoh
 rightcloud
 rightjoin
@@ -9748,8 +9750,6 @@ screenshot
 script
 script_version
 script-module
-script-to-assembly
-script-to-executable
 scriptanalyzer
 scriptblock
 scriptblocklogging
@@ -9763,7 +9763,6 @@ scripting
 scriptlog
 scriptlogging
 scriptmodule
-scriptoform
 scriptrunner
 scripts
 scriptsmonitoring
@@ -9781,7 +9780,6 @@ sdp
 search
 search-adminauditlog
 search-engines
-searchconnector
 searchengine
 searcher
 searching
@@ -10082,6 +10080,7 @@ skyapi
 skype
 skype_for_business
 skype4b
+skype4business
 skypeforbusiness
 skypeforbusinessonline
 skypeonline
@@ -10199,7 +10198,6 @@ source-dedicated-server
 sourcecontrol
 sourceforge
 sourcegraph
-sourceindexing
 sourcemod
 sourceone
 sourcepawn
@@ -10277,6 +10275,7 @@ sql-script
 sql-server
 sqlagent
 sqlautomation
+sqlbackup
 sqlbits
 sqlbrowser
 sqlbulkcopy
@@ -10316,7 +10315,6 @@ square
 squire
 srcds
 srcsrv
-srcsvr
 srm
 srylius-write
 ssas
@@ -10383,6 +10381,7 @@ statichtmlsites
 staticip
 staticsite
 statistical
+statisticmaintenance
 statistics
 stats
 statsd
@@ -11268,6 +11267,7 @@ vdswitch
 vduplink
 ve7cc
 vector
+vectormath
 veeam
 veeampn
 veenendaal
@@ -11322,7 +11322,6 @@ virtualenvwrapper
 virtualization
 virtualmachine
 virtualmachines
-virtualmachne
 virtualnetwork
 virtualnetworking
 virtualportgroup
@@ -11614,7 +11613,6 @@ win32-api
 win32appmigrationtool
 win32shutdown
 winbgp
-windbg
 windchillrv&s
 window
 windows
