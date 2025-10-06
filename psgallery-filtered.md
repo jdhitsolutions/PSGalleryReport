@@ -3,13 +3,94 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
-## [Entrinsec.Powershell.SETUP](https://www.powershellgallery.com/Packages/Entrinsec.Powershell.SETUP/1.15.23) | 1.15.23
+## [NTware.Ufo.PowerShell.ObjectManagement](https://www.powershellgallery.com/Packages/NTware.Ufo.PowerShell.ObjectManagement/2025.3.0.0) | 2025.3.0.0
 
-### Published: 10/05/2025 21:10:47 by Entrinsec
+### Published: 10/06/2025 09:27:33 by NT-ware Systemprogrammierungs-GmbH
+
+PowerShell cmdlets which allow to manage uniFLOW Online
+
+__Downloads__: 38,353 | __Repository__: 
+
+## [fscps.ascii](https://www.powershellgallery.com/Packages/fscps.ascii/1.0.18) | 1.0.18
+
+### Published: 10/06/2025 09:25:30 by Oleksandr Nikolaiev (@onikolaiev)
+
+ASCII Art tools
+
+__Downloads__: 160,461 | __Repository__: https://github.com/fscpscollaborative/fscps.ascii
+
+## [Ast](https://www.powershellgallery.com/Packages/Ast/0.4.6) | 0.4.6
+
+### Published: 10/06/2025 08:59:21 by PSModule
+
+A PowerShell module for using the Abstract Syntax Tree (AST) to analyze any PowerShell code.
+
+__Downloads__: 76,971 | __Repository__: https://github.com/PSModule/Ast
+
+## [Bricklead.BCDev.Tools](https://www.powershellgallery.com/Packages/Bricklead.BCDev.Tools/0.1.9410.36697) | 0.1.9410.36697
+
+### Published: 10/06/2025 08:12:33 by Yves DESRUMAUX
+
+PowerShell module, which makes it easier to work Around AL developments.
+
+__Downloads__: 2,114 | __Repository__: 
+
+## [OSD](https://www.powershellgallery.com/Packages/OSD/25.10.6.1) | 25.10.6.1
+
+### Published: 10/06/2025 05:09:09 by David Segura . Gary Blok . Michael Escamilla
+
+OSD PowerShell Module for Windows Deployment
+
+__Downloads__: 5,148,981 | __Repository__: https://github.com/OSDeploy/OSD
+
+## [Eigenverft.Manifested.Drydock](https://www.powershellgallery.com/Packages/Eigenverft.Manifested.Drydock/0.20255.47876) | 0.20255.47876
+
+### Published: 10/06/2025 04:33:56 by Eigenverft
+
+PowerShell helper functions by the Eigenverft Manifested Drydock project. The module provides Git helpers, and a manifest version updater.
+
+__Downloads__: 8 | __Repository__: https://github.com/eigenverft/Eigenverft.Manifested.Drydock
+
+## [IPInfoLite](https://www.powershellgallery.com/Packages/IPInfoLite/2.0.0) | 2.0.0
+
+### Published: 10/06/2025 03:15:21 by Ryan Terp
+
+Queries geolocation and ASN info from IPinfo Lite API
+
+__Downloads__: 48 | __Repository__: https://github.com/00destruct0/IPInfoLite
+
+## [Entrinsec.Powershell.SETUP](https://www.powershellgallery.com/Packages/Entrinsec.Powershell.SETUP/1.15.28) | 1.15.28
+
+### Published: 10/05/2025 22:58:24 by Entrinsec
 
 Public functions
 
 __Downloads__: 2,597 | __Repository__: https://nuget.entrinsec.com/
+
+## [OfficeScrubC2R](https://www.powershellgallery.com/Packages/OfficeScrubC2R/2.19.2) | 2.19.2
+
+### Published: 10/05/2025 22:56:33 by Calvin
+
+Complete PowerShell/C# implementation of Microsoft Office Scrub C2R tool. Provides comprehensive removal of Office 2013, 2016, 2019, and Office 365 Click-to-Run installations with 10-50x performance improvements over the original VBScript version.
+
+Features:
+- Native C# library for high-performance registry and file operations
+- Parallel processing for faster execution
+- Comprehensive logging and error handling
+- Support for Windows 7 SP1 through Windows 11
+- Compatible with PowerShell 5.1 and PowerShell 7+
+
+Requires Administrator privileges.
+
+__Downloads__: 1 | __Repository__: https://github.com/Calvindd2f/OfficeScrubC2R
+
+## [PackageStack](https://www.powershellgallery.com/Packages/PackageStack/0.1.5) | 0.1.5
+
+### Published: 10/05/2025 22:52:30 by Charles Ray Shisler III
+
+Generate Windows Provisioning Packages on Windows, macOS, and Linux
+
+__Downloads__: 0 | __Repository__: 
 
 ## [AzureDevOpsApi](https://www.powershellgallery.com/Packages/AzureDevOpsApi/0.3.0) | 0.3.0
 
@@ -26,7 +107,7 @@ __Downloads__: 23 | __Repository__: https://github.com/mm6502/AzureDevOpsApi
 
 Vectors in PowerShell
 
-__Downloads__: 1 | __Repository__: https://github.com/PowerShellWeb/Vector
+__Downloads__: 0 | __Repository__: https://github.com/PowerShellWeb/Vector
 
 ## [osquery](https://www.powershellgallery.com/Packages/osquery/1.0.0) | 1.0.0
 
@@ -36,14 +117,6 @@ A PowerShell module for interacting with osquery.
 
 __Downloads__: 0 | __Repository__: 
 
-## [OSD](https://www.powershellgallery.com/Packages/OSD/25.10.5.3) | 25.10.5.3
-
-### Published: 10/05/2025 17:07:04 by David Segura . Gary Blok . Michael Escamilla
-
-OSD PowerShell Module for Windows Deployment
-
-__Downloads__: 5,148,981 | __Repository__: https://github.com/OSDeploy/OSD
-
 ## [OraPatchDownload](https://www.powershellgallery.com/Packages/OraPatchDownload/1.2.2) | 1.2.2
 
 ### Published: 10/05/2025 17:05:05 by Paul Sammy
@@ -51,14 +124,6 @@ __Downloads__: 5,148,981 | __Repository__: https://github.com/OSDeploy/OSD
 Oracle patch download automation module
 
 __Downloads__: 134 | __Repository__: 
-
-## [PackageStack](https://www.powershellgallery.com/Packages/PackageStack/0.1.4) | 0.1.4
-
-### Published: 10/05/2025 15:55:15 by Charles Ray Shisler III
-
-Generate Windows Provisioning Packages on Windows, macOS, and Linux
-
-__Downloads__: 0 | __Repository__: 
 
 ## [Idabus.Automation.Core](https://www.powershellgallery.com/Packages/Idabus.Automation.Core/0.4.5) | 0.4.5
 
@@ -93,13 +158,13 @@ PowerShell versions: desktop 5.1, core 7.2+.
 
 __Downloads__: 21,688 | __Repository__: https://github.com/max-ieremenko/SqlDatabase
 
-## [Eigenverft.Manifested.Drydock](https://www.powershellgallery.com/Packages/Eigenverft.Manifested.Drydock/0.20255.46867) | 0.20255.46867
+## [MSc365.Idp.Toolbox](https://www.powershellgallery.com/Packages/MSc365.Idp.Toolbox/0.3.0) | 0.3.0
 
-### Published: 10/05/2025 10:36:55 by Eigenverft
+### Published: 10/05/2025 11:01:50 by Martin Swinkels
 
-Module for retrieving essential Git repository info, including the repositories root directory and current branch.
+An experimental PowerShell module providing a comprehensive set of tools for Internal Developer Platforms (IDPs) on Azure cloud.
 
-__Downloads__: 8 | __Repository__: https://github.com/eigenverft/Eigenverft.Manifested.Drydock
+__Downloads__: 28 | __Repository__: https://github.com/msc365/az-idp-toolbox
 
 ## [Domeneshop](https://www.powershellgallery.com/Packages/Domeneshop/0.0.1) | 0.0.1
 
@@ -139,7 +204,7 @@ __Downloads__: 251 | __Repository__: https://github.com/PSModule/WoW
 
 A powershell module that works with URIs (RFC3986)
 
-__Downloads__: 388,965 | __Repository__: https://github.com/PSModule/Uri
+__Downloads__: 388,966 | __Repository__: https://github.com/PSModule/Uri
 
 ## [Utilities](https://www.powershellgallery.com/Packages/Utilities/0.10.5) | 0.10.5
 
@@ -171,7 +236,7 @@ __Downloads__: 1,228 | __Repository__: https://github.com/PSModule/Tls
 
 A PowerShell module for working with TimeSpans
 
-__Downloads__: 289,852 | __Repository__: https://github.com/PSModule/TimeSpan
+__Downloads__: 289,853 | __Repository__: https://github.com/PSModule/TimeSpan
 
 ## [Telemetry](https://www.powershellgallery.com/Packages/Telemetry/0.0.5) | 0.0.5
 
@@ -419,7 +484,7 @@ __Downloads__: 146 | __Repository__: https://github.com/PSModule/GraphQL
 
 A PowerShell module to download and install fonts from NerdFonts.
 
-__Downloads__: 72,618 | __Repository__: https://github.com/PSModule/NerdFonts
+__Downloads__: 72,620 | __Repository__: https://github.com/PSModule/NerdFonts
 
 ## [InitHelpers](https://www.powershellgallery.com/Packages/InitHelpers/1.0.2.2) | 1.0.2.2
 
@@ -443,7 +508,7 @@ __Downloads__: 14,163 | __Repository__: https://github.com/PSModule/GoogleFonts
 
 A PowerShell module for managing fonts.
 
-__Downloads__: 107,959 | __Repository__: https://github.com/PSModule/Fonts
+__Downloads__: 107,964 | __Repository__: https://github.com/PSModule/Fonts
 
 ## [Claude](https://www.powershellgallery.com/Packages/Claude/0.0.1) | 0.0.1
 
@@ -581,14 +646,6 @@ Automate your CyberArk Certificate Manager (Venafi TLS Protect) Self-Hosted and 
 
 __Downloads__: 52,379 | __Repository__: https://github.com/Venafi/VenafiPS
 
-## [Ast](https://www.powershellgallery.com/Packages/Ast/0.4.5) | 0.4.5
-
-### Published: 10/03/2025 20:57:51 by PSModule
-
-A PowerShell module for using the Abstract Syntax Tree (AST) to analyze any PowerShell code.
-
-__Downloads__: 76,971 | __Repository__: https://github.com/PSModule/Ast
-
 ## [Admin](https://www.powershellgallery.com/Packages/Admin/1.1.10) | 1.1.10
 
 ### Published: 10/03/2025 20:56:39 by PSModule
@@ -644,14 +701,6 @@ __Downloads__: 227,015 | __Repository__: https://github.com/fscpscollaborative/f
 The HPE Compute Ops Management PowerShell library offers a comprehensive suite of cmdlets designed to manage and automate your HPE GreenLake environment. By leveraging this library, users can seamlessly interact with HPE GreenLake and Compute Ops Management services directly from the PowerShell command line, enabling efficient integration into existing automation workflows and enhancing operational efficiency.
 
 __Downloads__: 726 | __Repository__: https://github.com/jullienl/HPE-COM-PowerShell-library
-
-## [Bricklead.BCDev.Tools](https://www.powershellgallery.com/Packages/Bricklead.BCDev.Tools/0.1.9407.58159) | 0.1.9407.58159
-
-### Published: 10/03/2025 14:13:52 by Yves DESRUMAUX
-
-PowerShell module, which makes it easier to work Around AL developments.
-
-__Downloads__: 2,114 | __Repository__: 
 
 ## [DellBIOSProviderARM64](https://www.powershellgallery.com/Packages/DellBIOSProviderARM64/2.9.1) | 2.9.1
 
@@ -2049,44 +2098,4 @@ This modules provides Cmdlets for OCI Datascience Service
 
 __Downloads__: 14,147 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-## [OCI.PSModules.Datasafe](https://www.powershellgallery.com/Packages/OCI.PSModules.Datasafe/116.1.0) | 116.1.0
-
-### Published: 09/30/2025 18:57:45 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Datasafe Service
-
-__Downloads__: 17,949 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Datalabelingservicedataplane](https://www.powershellgallery.com/Packages/OCI.PSModules.Datalabelingservicedataplane/116.1.0) | 116.1.0
-
-### Published: 09/30/2025 18:57:39 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Datalabelingservicedataplane Service
-
-__Downloads__: 11,548 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Datalabelingservice](https://www.powershellgallery.com/Packages/OCI.PSModules.Datalabelingservice/116.1.0) | 116.1.0
-
-### Published: 09/30/2025 18:57:34 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Datalabelingservice Service
-
-__Downloads__: 11,535 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Dataintegration](https://www.powershellgallery.com/Packages/OCI.PSModules.Dataintegration/116.1.0) | 116.1.0
-
-### Published: 09/30/2025 18:57:28 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Dataintegration Service
-
-__Downloads__: 13,161 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Dataflow](https://www.powershellgallery.com/Packages/OCI.PSModules.Dataflow/116.1.0) | 116.1.0
-
-### Published: 09/30/2025 18:57:13 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Dataflow Service
-
-__Downloads__: 17,523 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-*Updated: Sunday, 05 October 2025 21:52:13 UTC*
+*Updated: Monday, 06 October 2025 09:52:22 UTC*

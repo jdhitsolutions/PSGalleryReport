@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Sunday, 05 October 2025 21:52:22 UTC
+Updated: Monday, 06 October 2025 09:52:31 UTC
 
 .bat
 .env
@@ -326,8 +326,6 @@ alias-hint
 alias-tips
 aliases
 aliens
-align
-alignment
 alive
 all
 alletra
@@ -451,7 +449,6 @@ appdeployment
 appdeploytoolkit
 appdynamics
 appearance
-appender
 appexecutionalias
 appian
 appinsights
@@ -555,7 +552,6 @@ ascii
 ascii85
 asciiart
 asdatabase
-asigra
 asjob
 ask-gpt
 askgpt
@@ -944,6 +940,7 @@ bibtex
 bicep
 bicepnet
 big-ip
+big-iq
 bigcommerce
 bigeval
 bigfix
@@ -1129,8 +1126,10 @@ byte
 bytearray
 bzip2
 bzip2-compression
+c
 c#
 c++
+c2r
 ca
 cache
 cachedroles
@@ -1220,7 +1219,6 @@ celcat
 celerium
 censor
 center
-centered
 centra
 central
 central-management
@@ -1282,7 +1280,6 @@ chef-compliance
 chef-server
 chefconf2016
 chenxizhang
-cherrypy
 cherwell
 chfs
 chi
@@ -1365,6 +1362,7 @@ cli
 cli-menu
 cli-menu-helpers
 clickonce
+clicktorun
 client
 client-management
 clientpushsettings
@@ -1643,6 +1641,7 @@ connectionsmanager
 connectionstring
 connectivity
 connector
+connectorcmd
 connectormanagement
 connectsync
 connectwise
@@ -1953,6 +1952,7 @@ databox
 databoxedge
 databricks
 datacatalog
+datacenter
 dataclassification
 datacollectionrule
 dataconduit
@@ -2399,7 +2399,6 @@ drush
 dry
 drydock
 ds
-ds-client
 ds-utils
 dsa
 dsacls
@@ -2409,7 +2408,6 @@ dsc-resources
 dsccertificates
 dscconcepts
 dscdriftmonitor
-dsclient
 dscresource
 dscresourcekit
 dscresources
@@ -2443,7 +2441,6 @@ duo
 duosecurity
 dupes
 duplicate
-duplicate-files
 duplicatioin
 duplication
 durable
@@ -2535,7 +2532,6 @@ elevated
 elevatedconsole
 elevatedmode
 elevation
-elevenlabs
 elgato
 eli5
 elitism
@@ -2757,7 +2753,6 @@ executable
 executables
 execute
 executionalias
-exexml
 exif
 exiftool
 exists
@@ -3354,6 +3349,7 @@ graph
 graph-api
 graphapi
 graphapirequests
+graphconnector
 graphexplorer
 graphic
 graphics
@@ -3391,6 +3387,7 @@ gsuite
 gtx1080ti
 guardedfabric
 guardicore
+gubbins
 guest
 guestconfiguration
 guests
@@ -3711,6 +3708,7 @@ idm
 idn
 idna
 idoit
+idp
 idrac
 ids
 ie
@@ -4070,7 +4068,6 @@ jupyter
 jupytor
 jurassic
 justenoughadministration
-justification
 jvm
 jwe
 jwk
@@ -4383,7 +4380,6 @@ log-mail
 log-mails
 log-management
 log-rotation
-log4net
 loganalytics
 logbook
 logcat
@@ -4521,6 +4517,7 @@ manageability
 managed
 managed-identity
 manageddevices
+manageddisks
 managedidentities
 managedidentity
 managedkafka
@@ -4545,7 +4542,6 @@ map
 mapapi
 mapi
 mappeddrives
-mapper24
 mapping
 maps
 mapsapi
@@ -4735,7 +4731,6 @@ microsoftstore
 microsoftteams
 microsoftteamsdevices
 microsoftteamsphone
-microsoftupdate
 microsoftword
 middleware
 midserver
@@ -4745,7 +4740,6 @@ migration-tool
 migrations
 mikrotik
 milestone
-milestonepstools
 milling
 mim
 mime
@@ -5051,7 +5045,6 @@ netscaler
 netscape
 netsec
 netsh
-netspell
 netstat
 netsuite
 network
@@ -5177,6 +5170,7 @@ npm
 npm-proxy
 npm-upgrade
 nprinting
+nprintingapi
 nps
 npslog
 npslogfile
@@ -5896,7 +5890,6 @@ powermanagement
 powermax
 powerpack
 powerplan
-powerplateform
 powerplatform
 powerprotect
 powerprotect_datamanager
@@ -9266,6 +9259,7 @@ rdc
 rdcman
 rdcmanager
 rdfe
+rdg
 rdl
 rdm
 rdp
@@ -9386,13 +9380,13 @@ remote
 remote-browser
 remote-desktop
 remote'
-remoteaccess
 remoteadmin
 remotecert
 remoteconnection
 remoteconnectionsmanager
 remotecontrol
 remotedesktop
+remotedesktopconnectionmanager
 remotedesktopgateway
 remotedesktopmanager
 remotedesktopservices
@@ -9403,10 +9397,10 @@ remotehost
 remotelocalgroup
 remotelogoff
 remotemanagement
-remotepro
 remoteregistry
 remotesession
 remoting
+removal
 remove
 remove-githubsecrets
 remove-itemproperty
@@ -9482,7 +9476,6 @@ resourcescheduler
 resourcesearch
 response
 rest
-rest_cherrypy
 rest-api
 restapi
 restart
@@ -9524,7 +9517,6 @@ rgb
 rhapsody
 ribbon
 ribcl
-richtext
 ricoh
 rightcloud
 rightjoin
@@ -9643,8 +9635,6 @@ sale
 sales
 salesforce
 salesloft
-salt
-salt-api
 saltstack
 saltstackconfig
 saltstackenterprise
@@ -9727,7 +9717,6 @@ scom
 sconfig
 scoop
 scope
-scopes
 score
 scouterna
 scouternasetjanster
@@ -9750,6 +9739,8 @@ screenshot
 script
 script_version
 script-module
+script-to-assembly
+script-to-executable
 scriptanalyzer
 scriptblock
 scriptblocklogging
@@ -9763,6 +9754,7 @@ scripting
 scriptlog
 scriptlogging
 scriptmodule
+scriptoform
 scriptrunner
 scripts
 scriptsmonitoring
@@ -9780,6 +9772,7 @@ sdp
 search
 search-adminauditlog
 search-engines
+searchconnector
 searchengine
 searcher
 searching
@@ -10003,7 +9996,6 @@ shieldedvm
 ships
 shipsprovider
 shipstation
-shitpost
 shlink
 shodan
 shodanps
@@ -10198,6 +10190,7 @@ source-dedicated-server
 sourcecontrol
 sourceforge
 sourcegraph
+sourceindexing
 sourcemod
 sourceone
 sourcepawn
@@ -10236,7 +10229,6 @@ speedometer
 speedtest
 speedtester
 spejder
-spellcheck
 spelling
 spf
 spfcheck
@@ -10315,6 +10307,7 @@ square
 squire
 srcds
 srcsrv
+srcsvr
 srm
 srylius-write
 ssas
@@ -11103,7 +11096,6 @@ uninstall
 uninstaller
 union
 unique
-unique-files
 unit
 unit_testing
 unit-testing
@@ -11275,7 +11267,6 @@ veeva
 venafi
 vencord
 vendor
-vendorpam
 venue
 venv
 venvlink
@@ -11322,6 +11313,7 @@ virtualenvwrapper
 virtualization
 virtualmachine
 virtualmachines
+virtualmachne
 virtualnetwork
 virtualnetworking
 virtualportgroup
@@ -11613,6 +11605,7 @@ win32-api
 win32appmigrationtool
 win32shutdown
 winbgp
+windbg
 windchillrv&s
 window
 windows
