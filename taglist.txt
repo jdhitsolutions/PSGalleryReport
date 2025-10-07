@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Tuesday, 07 October 2025 09:52:18 UTC
+Updated: Tuesday, 07 October 2025 21:52:21 UTC
 
 .bat
 .env
@@ -257,6 +257,7 @@ adxingestion
 aem
 aeries
 aeriessis
+aerofetch
 aes
 aesgcm
 afd
@@ -311,6 +312,7 @@ alain
 alarm
 alb
 albums
+alc
 alero
 alert
 alerting
@@ -469,6 +471,7 @@ applicationmigration
 applicationmonitor
 applications
 applocker
+apply
 appmgmtcontrol
 apppool
 appraiser
@@ -569,6 +572,8 @@ aspnet
 aspnet_regiis
 asr
 assembleenationale
+assembly
+assemblyloadcontext
 assemblymeta
 assert
 assertion
@@ -837,8 +842,6 @@ azuresecuritycenter
 azureservicebus
 azuresigntool
 azuresql
-azuresqlexport
-azuresqlimport
 azuressas
 azurestack
 azurestackhci
@@ -923,6 +926,7 @@ bedrock
 beep
 beer
 behavior
+behavioralanalytics
 benchmark
 benchmarking
 benchmarks
@@ -997,6 +1001,7 @@ block-kit
 blockchain
 blocks
 blog
+blogger
 blogs
 bloodhound
 bloxone
@@ -1132,6 +1137,7 @@ c2r
 ca
 cache
 cachedroles
+cacherecovery
 caf
 caffeine
 cal
@@ -1166,6 +1172,8 @@ capslock
 captcha
 capture
 carbon
+carbonawarecomputing
+carbonintensity
 card
 cardwirth
 careport
@@ -1241,7 +1249,6 @@ certificates
 certificateservices
 certificatesmanagement
 certinia
-certutil
 cf
 cfn
 ch9
@@ -1386,6 +1393,7 @@ clientsettingsuserdeviceaffinity
 clientstatussettings
 clihelper.core
 clihelper.logger
+clihelper.semver
 clihelper.trends
 clipart
 clipasswordsdk
@@ -1940,7 +1948,6 @@ data-uri-converter
 dataadapter
 database
 database-migrations
-databaseautomation
 databasemanagement
 databasemigration
 databaserecovery
@@ -2070,6 +2077,7 @@ defender-for-endpoint
 defenderast
 defenderforendpoint
 defenderforidentity
+defenderforservers
 defense
 definition
 deflate
@@ -2419,7 +2427,6 @@ dsregcmd
 dsutils
 dtc
 dts
-dtsx
 dtx
 du
 dual-stack
@@ -2441,7 +2448,6 @@ duo
 duosecurity
 dupes
 duplicate
-duplicate-files
 duplicatioin
 duplication
 durable
@@ -2684,7 +2690,6 @@ etl2pcapng
 etrade
 ets
 etw
-etymology
 eulanda
 evaluation
 evaluator
@@ -2793,9 +2798,11 @@ exportteams
 expression
 extend
 extended
+extendedattributes
 extendedevents
 extendedgroups
 extendedkeyusage
+extendedproperties
 extendedproperty
 extendscript
 extensibility
@@ -2898,9 +2905,8 @@ file-transfer
 file-transform
 file-type
 file-type-association
-fileencryption
+fileattributes
 fileexplorer
-filelist
 filelog
 filelogger
 filemaintenance
@@ -2908,6 +2914,7 @@ filemanagement
 filematcher
 filename
 filenames
+fileproperties
 filereplication
 files
 files-cli
@@ -2982,6 +2989,7 @@ five9
 fix-log
 fix-protocol
 fixlet
+fixmissingmsi
 fixpack
 flac
 flag
@@ -3503,6 +3511,7 @@ help
 helpdesk
 helpdoc
 helper
+helper-functions
 helperfunctions
 helpers
 helpfile
@@ -3566,7 +3575,6 @@ homelab
 homelandsecurity
 homeschooling
 hometheater
-hon
 hooking
 horizon
 horizontal
@@ -3834,6 +3842,7 @@ installation
 installationmanager
 installedapplications
 installer
+installercache
 installers
 installoffice
 installofficertool
@@ -3850,7 +3859,6 @@ integration
 integrationaccount
 integrationruntime
 integrationruntimedependency
-integrationservicescatalog
 integrity
 intel
 inteligo
@@ -4112,7 +4120,6 @@ keybase
 keybinding
 keyboard
 keyboardstartkey
-keycipher
 keycloak
 keycontrol
 keylight
@@ -5040,8 +5047,6 @@ netextender
 netfirewallrule
 netherlands
 netmask
-netpdf
-netpdfps
 nets
 netsapiens
 netscaler
@@ -5410,11 +5415,9 @@ organization
 organizationally
 orgnetwork
 oriflame
-origin
 orion
 orleans
 orm
-orphaned
 orphanedprofiles
 os
 osbuild
@@ -5511,6 +5514,7 @@ paloalto
 paloaltonetworks
 pam
 pan
+pandoc
 panels
 pansies
 panther
@@ -5560,7 +5564,6 @@ passwordexpiry
 passwordgeneration
 passwordgenerator
 passwordgenerators
-passwordhashing
 passwordless
 passwordlock
 passwordlockoutreport
@@ -5606,7 +5609,6 @@ pdf-document-processor
 pdf-files
 pdf-generation
 pdf-redaction
-pdfbox
 pdq
 pe
 peek
@@ -5860,6 +5862,7 @@ poshy-wrap-zypper
 position
 post
 postcode
+postdeployment
 postgre
 postgres
 postgresql
@@ -5912,6 +5915,8 @@ powershell-dsc
 powershell-examples
 powershell-gallery
 powershell-github-repo
+powershell-gitlab
+powershell-graphql
 powershell-isprime
 powershell-lightning
 powershell-module
@@ -5926,7 +5931,6 @@ powershell-training
 powershell.one
 powershell7
 powershellai
-powershellazuresql
 powershellconferenceeurope
 powershellcore
 powershellcourse
@@ -5977,6 +5981,7 @@ prepareschema
 prepend
 preprocessing
 preprocessor
+prerequisites
 presentation
 presentationframework
 presenter
@@ -5989,6 +5994,7 @@ preview
 previousversions
 price
 pricelist
+pricing
 primenumber
 primera
 principal
@@ -7913,7 +7919,6 @@ pscribo
 pscustomobject
 psd
 psd1
-psdb
 psdefaultparametervalues
 psdeploy
 psdesiredstateconfiguration
@@ -9494,7 +9499,6 @@ retry
 returnuserprofile
 retype
 reuse
-reverse-engineer
 reverse-string
 reversed-color-text
 reversedsc
@@ -9901,6 +9905,7 @@ server
 servercertificatevalidationcallback
 serverless
 servermanagement
+serverprotection
 servers
 service
 service-bus
@@ -10223,6 +10228,7 @@ speaker
 spec
 specification
 specify
+specs
 spectre
 spectre.console
 spectrumconnect
@@ -10273,10 +10279,10 @@ sql-database
 sql-script
 sql-server
 sqlagent
-sqlautomation
 sqlbackup
 sqlbits
 sqlbrowser
+sqlbulkcopy
 sqlchangeautomation
 sqlclient
 sqlcmd
@@ -10285,7 +10291,6 @@ sqldatabase
 sqldb
 sqldbatools
 sqldiagapi
-sqlexport
 sqlgateway
 sqlite
 sqlitebynarymodule
@@ -10337,6 +10342,7 @@ sslprotocol
 sslvpn
 ssm
 sso
+sspi
 sspr
 ssrs
 ssst
@@ -10639,7 +10645,6 @@ tasks
 tasksbyme
 taskscheduler
 tatux
-tauricraft
 taxjar
 taxonomy
 tcg
@@ -10793,6 +10798,7 @@ threathunting
 threatintelligence
 threatintelligenceindicators
 threatintelligenceplatform
+threatprotection
 threats
 threatsharing
 thumbprint
@@ -11100,7 +11106,6 @@ uninstall
 uninstaller
 union
 unique
-unique-files
 unit
 unit_testing
 unit-testing
@@ -11435,6 +11440,7 @@ vtt
 vue
 vulnerabilities
 vulnerability
+vulnerabilityassessment
 vulnerabilityscanning
 vum
 vvx
@@ -11726,6 +11732,7 @@ wmf5
 wmi
 wmifilter
 wmipermanentevents
+wms
 wol
 wolfram
 wolframalpha
@@ -11770,10 +11777,12 @@ wrap
 wrap-text
 wrapper
 wrapperfunctions
+wrc
 wrike
 write
 write-ascii
 write-color
+write-colour
 write-debug
 write-host
 write-information
