@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 06 October 2025 21:52:29 UTC
+Updated: Tuesday, 07 October 2025 09:52:18 UTC
 
 .bat
 .env
@@ -257,7 +257,6 @@ adxingestion
 aem
 aeries
 aeriessis
-aerofetch
 aes
 aesgcm
 afd
@@ -312,7 +311,6 @@ alain
 alarm
 alb
 albums
-alc
 alero
 alert
 alerting
@@ -471,7 +469,6 @@ applicationmigration
 applicationmonitor
 applications
 applocker
-apply
 appmgmtcontrol
 apppool
 appraiser
@@ -572,8 +569,6 @@ aspnet
 aspnet_regiis
 asr
 assembleenationale
-assembly
-assemblyloadcontext
 assemblymeta
 assert
 assertion
@@ -842,6 +837,8 @@ azuresecuritycenter
 azureservicebus
 azuresigntool
 azuresql
+azuresqlexport
+azuresqlimport
 azuressas
 azurestack
 azurestackhci
@@ -902,6 +899,7 @@ bayern
 bazzo
 bb
 bbc
+bbernhard
 bbp
 bc
 bc365
@@ -925,7 +923,6 @@ bedrock
 beep
 beer
 behavior
-behavioralanalytics
 benchmark
 benchmarking
 benchmarks
@@ -1000,7 +997,6 @@ block-kit
 blockchain
 blocks
 blog
-blogger
 blogs
 bloodhound
 bloxone
@@ -1170,8 +1166,6 @@ capslock
 captcha
 capture
 carbon
-carbonawarecomputing
-carbonintensity
 card
 cardwirth
 careport
@@ -1392,7 +1386,6 @@ clientsettingsuserdeviceaffinity
 clientstatussettings
 clihelper.core
 clihelper.logger
-clihelper.semver
 clihelper.trends
 clipart
 clipasswordsdk
@@ -1422,6 +1415,7 @@ cloudflare
 cloudforensics
 cloudformation
 cloudfoundation
+cloudfront
 cloudgovernance
 cloudguard
 cloudhsm
@@ -1946,6 +1940,7 @@ data-uri-converter
 dataadapter
 database
 database-migrations
+databaseautomation
 databasemanagement
 databasemigration
 databaserecovery
@@ -2023,6 +2018,7 @@ dbfs
 dblm
 dbmulticloud
 dbnull
+dbops
 dbpool
 dbup
 dbwebapi
@@ -2074,7 +2070,6 @@ defender-for-endpoint
 defenderast
 defenderforendpoint
 defenderforidentity
-defenderforservers
 defense
 definition
 deflate
@@ -2400,6 +2395,7 @@ drsrule
 drupal
 drush
 dry
+drydock
 ds
 ds-client
 ds-utils
@@ -2522,6 +2518,7 @@ efi
 egrep
 eid
 eigencontroles
+eigenverft
 einstein
 eklient psedition_core psedition_desktop
 eku
@@ -2573,6 +2570,7 @@ emoji
 emojis
 emotion
 empire
+empty
 emwarehouse
 enable
 enable-internet
@@ -2686,6 +2684,7 @@ etl2pcapng
 etrade
 ets
 etw
+etymology
 eulanda
 evaluation
 evaluator
@@ -2794,11 +2793,9 @@ exportteams
 expression
 extend
 extended
-extendedattributes
 extendedevents
 extendedgroups
 extendedkeyusage
-extendedproperties
 extendedproperty
 extendscript
 extensibility
@@ -2901,7 +2898,6 @@ file-transfer
 file-transform
 file-type
 file-type-association
-fileattributes
 fileencryption
 fileexplorer
 filelist
@@ -2912,7 +2908,6 @@ filemanagement
 filematcher
 filename
 filenames
-fileproperties
 filereplication
 files
 files-cli
@@ -3218,6 +3213,7 @@ get-dtdriverpack
 get-dtdriverupdates
 get-dtscriptnewcmpackagefromdriverpackpackagedefinitionsms
 get-dtscriptnewcmtasksequencefromdriverpackpackagedefinitionsms
+get-emptyadgroups
 get-expiredusersreport
 get-expiringusersreport
 get-externalip
@@ -3239,6 +3235,8 @@ get-samcmassignedsite
 get-samcmcurrentmanagementpoint
 get-samplingperiod
 get-smtpcapabilities
+get-stalecomps
+get-staleusers
 get-thermalstamp
 get-uptime
 get-usersorgunitreport
@@ -3466,6 +3464,7 @@ hbase
 hci
 hcl
 hcm
+hcp
 hcx
 hdfs
 hdhomerun
@@ -3504,7 +3503,6 @@ help
 helpdesk
 helpdoc
 helper
-helper-functions
 helperfunctions
 helpers
 helpfile
@@ -3743,6 +3741,7 @@ imageoftheday
 imageprocess
 imageprocessing
 images
+imageservicing
 imageslide
 imagevalidate
 imagevalidation
@@ -4218,6 +4217,7 @@ laserbeams
 last
 last.fm
 lastfm
+lastlogon
 lastpass
 latency
 latestupdate
@@ -4249,6 +4249,7 @@ learnpowershell
 lease
 leftjoin
 legacy
+legacyad
 legends
 lego
 lein
@@ -4263,6 +4264,7 @@ letsencrypt
 lf
 lgpo
 libgit2
+libmagic
 libraries
 library
 libvirt
@@ -4351,6 +4353,7 @@ locale
 localgroup
 localgroupmember
 localization
+localpolicy
 localrepository
 localuser
 location
@@ -4387,6 +4390,7 @@ logfilemanagement psmodule
 logfiles
 logger
 logging
+loggingingestion
 loggingsearch
 loggly
 logic
@@ -5131,6 +5135,7 @@ nmbell
 nmm
 nntp
 node
+node.js
 nodejs
 nogit
 non-idiomatic
@@ -5202,6 +5207,7 @@ nupkg
 nuspec
 nutanix
 nuwave
+nva
 nvd
 nvdimm
 nvdimm-n
@@ -5273,6 +5279,7 @@ officegraph
 officemessageencryption
 officertool
 offline
+offlinewimservicing
 ofx
 ogg
 oh-my-posh
@@ -5365,6 +5372,7 @@ openstack
 openstreetmaps
 openvpn
 openxml
+operating
 operating_system
 operating-system
 operation
@@ -5402,6 +5410,7 @@ organization
 organizationally
 orgnetwork
 oriflame
+origin
 orion
 orleans
 orm
@@ -5416,6 +5425,7 @@ osdbuilder
 osdcloud
 osdcloud.michael
 osdeploy
+osdeployment
 osdprogress
 osdsus
 osdworkspace
@@ -5501,7 +5511,6 @@ paloalto
 paloaltonetworks
 pam
 pan
-pandoc
 panels
 pansies
 panther
@@ -5640,6 +5649,7 @@ phabricator
 phi
 philips
 philosophical
+philpritchett
 phishing
 phoenix
 phone
@@ -5850,7 +5860,6 @@ poshy-wrap-zypper
 position
 post
 postcode
-postdeployment
 postgre
 postgres
 postgresql
@@ -5903,8 +5912,6 @@ powershell-dsc
 powershell-examples
 powershell-gallery
 powershell-github-repo
-powershell-gitlab
-powershell-graphql
 powershell-isprime
 powershell-lightning
 powershell-module
@@ -5919,6 +5926,7 @@ powershell-training
 powershell.one
 powershell7
 powershellai
+powershellazuresql
 powershellconferenceeurope
 powershellcore
 powershellcourse
@@ -5969,7 +5977,6 @@ prepareschema
 prepend
 preprocessing
 preprocessor
-prerequisites
 presentation
 presentationframework
 presenter
@@ -5982,7 +5989,6 @@ preview
 previousversions
 price
 pricelist
-pricing
 primenumber
 primera
 principal
@@ -7907,6 +7913,7 @@ pscribo
 pscustomobject
 psd
 psd1
+psdb
 psdefaultparametervalues
 psdeploy
 psdesiredstateconfiguration
@@ -9558,9 +9565,12 @@ rotation
 round
 roundrobindatabase
 route
+route53
+routeconfig
 router
 routeros
 routes
+routetable
 routine
 rover
 royalapps
@@ -9738,6 +9748,7 @@ script-module
 script-to-assembly
 script-to-executable
 scriptanalyzer
+scriptbeacon
 scriptblock
 scriptblocklogging
 scriptbook
@@ -9890,7 +9901,6 @@ server
 servercertificatevalidationcallback
 serverless
 servermanagement
-serverprotection
 servers
 service
 service-bus
@@ -10016,6 +10026,7 @@ siem
 sif
 sigma
 sign
+signal
 signalfx
 signalr
 signature
@@ -10212,7 +10223,6 @@ speaker
 spec
 specification
 specify
-specs
 spectre
 spectre.console
 spectrumconnect
@@ -10263,10 +10273,10 @@ sql-database
 sql-script
 sql-server
 sqlagent
+sqlautomation
 sqlbackup
 sqlbits
 sqlbrowser
-sqlbulkcopy
 sqlchangeautomation
 sqlclient
 sqlcmd
@@ -10275,6 +10285,7 @@ sqldatabase
 sqldb
 sqldbatools
 sqldiagapi
+sqlexport
 sqlgateway
 sqlite
 sqlitebynarymodule
@@ -10326,7 +10337,6 @@ sslprotocol
 sslvpn
 ssm
 sso
-sspi
 sspr
 ssrs
 ssst
@@ -10543,6 +10553,7 @@ synthetics
 sysadmin
 sysadmin-tool
 sysadmin-tools
+sysctr
 sysinfo
 sysinfocmdlets
 sysinternals
@@ -10617,6 +10628,7 @@ tar
 tar-compression
 target
 task
+task_automation
 task-runner
 task-scheduler
 taskbar
@@ -10781,7 +10793,6 @@ threathunting
 threatintelligence
 threatintelligenceindicators
 threatintelligenceplatform
-threatprotection
 threats
 threatsharing
 thumbprint
@@ -10840,6 +10851,7 @@ tool
 toolbox
 toolcraft
 toolkit
+toolmaking
 tools
 tools4ever
 topdesk
@@ -10992,6 +11004,7 @@ ubnt
 ubuntu
 ucs
 ucspowertool
+ud-avataaar
 ud-badgebutton
 ud-badgelink
 ud-breadcrumb
@@ -11051,6 +11064,7 @@ udfeedback
 udp
 udpclient
 udptest
+udr
 udthememode
 udword
 uefi
@@ -11292,6 +11306,7 @@ vimode
 virole
 virsh
 virtual
+virtualappliance
 virtualbox
 virtualboxguestadditions
 virtualdesktop
@@ -11420,7 +11435,6 @@ vtt
 vue
 vulnerabilities
 vulnerability
-vulnerabilityassessment
 vulnerabilityscanning
 vum
 vvx
@@ -11712,7 +11726,6 @@ wmf5
 wmi
 wmifilter
 wmipermanentevents
-wms
 wol
 wolfram
 wolframalpha
@@ -11757,12 +11770,10 @@ wrap
 wrap-text
 wrapper
 wrapperfunctions
-wrc
 wrike
 write
 write-ascii
 write-color
-write-colour
 write-debug
 write-host
 write-information
@@ -11809,6 +11820,8 @@ x509cerificate2
 x509certificate
 x509certificates
 x509chain
+x64
+x86
 xa
 xaf
 xaml
@@ -11923,6 +11936,7 @@ zypper
 カタカナ
 ひらがな
 ローマ字
+全角半角変換
 寿司
 日本語
 湯婆婆
