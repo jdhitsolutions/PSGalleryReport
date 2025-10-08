@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Wednesday, 08 October 2025 09:52:14 UTC
+Updated: Wednesday, 08 October 2025 21:52:24 UTC
 
 .bat
 .env
@@ -257,6 +257,7 @@ adxingestion
 aem
 aeries
 aeriessis
+aerofetch
 aes
 aesgcm
 afd
@@ -470,6 +471,7 @@ applicationmigration
 applicationmonitor
 applications
 applocker
+apply
 appmgmtcontrol
 apppool
 appraiser
@@ -682,6 +684,7 @@ autostart
 autotask
 autotaskapi
 autotaskpsa
+autotyper
 autounattend
 autoupdate
 autoupdate-script
@@ -1017,6 +1020,7 @@ bluetraitio
 bluetuxedo
 bmc
 bms
+bnm
 boards
 bofh
 boilerplate
@@ -1115,11 +1119,8 @@ bus
 business
 business_email_compromise
 businesscentral
-businessdays
-businesshours
 businessobjects
 businessrulesengine
-businesstime
 bxor
 bydesign
 byexample
@@ -1135,6 +1136,7 @@ c2r
 ca
 cache
 cachedroles
+cacherecovery
 caf
 caffeine
 cal
@@ -1246,6 +1248,7 @@ certificates
 certificateservices
 certificatesmanagement
 certinia
+certutil
 cf
 cfn
 ch9
@@ -1391,7 +1394,6 @@ clientsettingsuserdeviceaffinity
 clientstatussettings
 clihelper.core
 clihelper.logger
-clihelper.semver
 clihelper.trends
 clipart
 clipasswordsdk
@@ -1729,6 +1731,7 @@ copilot
 copy
 copy-item
 copyfileex
+copypaste
 copyright
 core
 coreposh
@@ -2088,6 +2091,7 @@ delegation
 delegationmodel
 delete
 delete-orphan-branches
+deletefile
 deleteuserprofile
 delivery
 dell
@@ -2510,7 +2514,6 @@ ediscovery
 edit
 editor
 editorservices
-edl
 edr
 educatedprompting
 education
@@ -2594,7 +2597,6 @@ endomondo
 endpoint
 endpoints
 energy
-engagement
 engine
 engineevent
 english
@@ -2798,9 +2800,12 @@ exportteams
 expression
 extend
 extended
+extendedattributes
 extendedevents
 extendedgroups
 extendedkeyusage
+extendedproperties
+extendedproperty
 extendscript
 extensibility
 extension
@@ -2902,6 +2907,8 @@ file-transfer
 file-transform
 file-type
 file-type-association
+fileattributes
+fileencryption
 fileexplorer
 filelist
 filelog
@@ -2911,6 +2918,7 @@ filemanagement
 filematcher
 filename
 filenames
+fileproperties
 filereplication
 files
 files-cli
@@ -2985,6 +2993,7 @@ five9
 fix-log
 fix-protocol
 fixlet
+fixmissingmsi
 fixpack
 flac
 flag
@@ -3127,6 +3136,7 @@ funny
 fusion
 fusionapps
 fuzzy
+fyi
 fzf
 gac
 gainz
@@ -3375,6 +3385,7 @@ groundspeak
 group
 group-membership
 group-policy
+groupmanagement
 groupmembership
 grouppolicy
 groups
@@ -3836,6 +3847,7 @@ installation
 installationmanager
 installedapplications
 installer
+installercache
 installers
 installoffice
 installofficertool
@@ -4020,6 +4032,7 @@ jiraservicemanagement
 jitbit
 jms
 jmsjavadownloads
+jmsutils
 jnet
 jnetps
 joat
@@ -4112,6 +4125,7 @@ keybase
 keybinding
 keyboard
 keyboardstartkey
+keycipher
 keycloak
 keycontrol
 keylight
@@ -4263,6 +4277,7 @@ letsencrypt
 lf
 lgpo
 libgit2
+libmagic
 libraries
 library
 libvirt
@@ -4390,6 +4405,7 @@ logger
 logging
 loggingingestion
 loggingsearch
+loggly
 logic
 logicapp
 logicapps
@@ -4809,6 +4825,7 @@ moduleupdateinfo
 moduleupdater
 moduleversion
 mof
+moldova
 moment
 monaco
 monday
@@ -5357,6 +5374,7 @@ openidconnect
 openinghours
 openport
 openprovider
+openscad
 opensearch
 opensource
 opensourceinitiative
@@ -5397,7 +5415,6 @@ oracle
 oraclecloudinfrastructure
 oraculum
 orbital
-orchestrate
 orchestration
 orchestrator
 order
@@ -5556,6 +5573,7 @@ passwordexpiry
 passwordgeneration
 passwordgenerator
 passwordgenerators
+passwordhashing
 passwordless
 passwordlock
 passwordlockoutreport
@@ -6057,7 +6075,6 @@ projectwise
 proliant
 prometheus
 prompt
-pronounceable
 proofpoint
 properties
 property
@@ -9048,7 +9065,6 @@ psreadline
 psreminder
 psremoting
 psrepository
-psresource
 psresourceget
 psrule
 psrule-rules
@@ -9379,6 +9395,7 @@ remote
 remote-browser
 remote-desktop
 remote'
+remoteaccess
 remoteadmin
 remotecert
 remoteconnection
@@ -9408,6 +9425,7 @@ remove-pass
 remove-path
 remove-pinneditem
 remove-tempfiles
+removefile
 removetypeaccelerators
 remux
 ren-isac
@@ -9539,6 +9557,8 @@ rms
 rng
 roarwrecker
 robbyrussel
+robinhood
+robinhoodcrypto
 robocopy
 robot
 roca
@@ -9647,7 +9667,6 @@ sample
 sampler
 samurai
 san
-sand
 sandbox
 sanitization
 sanitizer
@@ -9709,10 +9728,12 @@ school-information-system
 schoolholidays
 schulverwaltung
 science
+scim
 scissors
 scm
 scmanager
 scom
+sconfig
 scoop
 scope
 scopes
@@ -10217,6 +10238,7 @@ speaker
 spec
 specification
 specify
+specs
 spectre
 spectre.console
 spectrumconnect
@@ -10566,6 +10588,7 @@ system
 system information 1394 controller baseboard motherboard systemboard battery bios bus cache memory cd dvd rom drive compact disc desktop monitor disk partition fan floppy glide point heatpipe ide infrared device keyboard local logical array mouse'
 system-administration
 system-group
+system-info
 system-service
 system-services
 system.directoryservices.protocols
@@ -10573,6 +10596,7 @@ system.text
 systemadmin
 systemadministration
 systemadministrator
+systemadmins
 systemcenter
 systemcolors
 systemconfiguration
@@ -10941,6 +10965,7 @@ truportal
 trusted
 trusted-host
 trustedhosts
+trustedinstaller
 trustedrootcertificate
 trustedsigning
 truth
@@ -11266,6 +11291,7 @@ veeva
 venafi
 vencord
 vendor
+vendorpam
 venue
 venv
 venvlink
@@ -11288,7 +11314,6 @@ vi
 vib
 vibecoding
 video
-video-editing
 videogeneration
 videos
 vie
@@ -11497,6 +11522,7 @@ webdeploy
 webdeveloper
 webfrequest
 webhdfs
+webhelpdesk
 webhistory
 webhook
 webinspect
@@ -11531,7 +11557,6 @@ wecutil
 weekday
 weekly
 wef
-weixin
 well-architectedframework
 well-architectedreliabilityassessment
 well-known
@@ -11545,6 +11570,7 @@ whatif
 whatismyip
 whatsnew
 whatsupgold
+whd
 where
 whfb
 whisper
@@ -11718,7 +11744,6 @@ wmf5
 wmi
 wmifilter
 wmipermanentevents
-wms
 wol
 wolfram
 wolframalpha
@@ -11737,9 +11762,6 @@ worker
 workflow
 workflowmax
 workflows
-workingdays
-workinghours
-workingtime
 workload
 workload-automation
 workloadidentity
@@ -11907,9 +11929,11 @@ zip
 zip-compression
 zipfile-transform
 zisson
+zivver
 zlib
 zlib-compression
 zoho
+zoicware
 zone
 zoom
 zoomapi
