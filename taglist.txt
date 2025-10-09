@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Wednesday, 08 October 2025 21:52:24 UTC
+Updated: Thursday, 09 October 2025 09:52:21 UTC
 
 .bat
 .env
@@ -356,7 +356,6 @@ amazonmgn
 amazontitan
 amazonwebservices
 amd
-amend
 ami
 amiga
 amp
@@ -389,6 +388,7 @@ anime
 annotated
 announcement
 announcementsservice
+anonymize
 anonymous
 anova
 ansi
@@ -783,14 +783,12 @@ azureadtoolkit
 azureadvancedthreatprotection
 azureaitranslator
 azureappconfiguration
-azureapplicationstuff
 azurearc
 azurearcstuff
 azureartifacts
 azureas
 azureatp
 azureautomation
-azureautomationaccount
 azureautomationnotsupported
 azurebasicloadbalancerupgrade
 azurecli
@@ -1119,8 +1117,11 @@ bus
 business
 business_email_compromise
 businesscentral
+businessdays
+businesshours
 businessobjects
 businessrulesengine
+businesstime
 bxor
 bydesign
 byexample
@@ -1189,7 +1190,6 @@ catalog
 catalyst
 catapult
 catesta
-catimage
 cats
 catty
 cavium
@@ -1357,7 +1357,6 @@ claude3
 clccontrol
 clccontrolapiv1
 clccontrolapiv2
-clean
 clean-up
 cleanmgr
 cleanup
@@ -1394,6 +1393,7 @@ clientsettingsuserdeviceaffinity
 clientstatussettings
 clihelper.core
 clihelper.logger
+clihelper.semver
 clihelper.trends
 clipart
 clipasswordsdk
@@ -2181,7 +2181,6 @@ dicom
 dictionary
 diff
 difference
-dify
 dig
 digikam
 digital
@@ -2295,7 +2294,6 @@ dnsdumpster
 dnsentry
 dnsimple
 dnslookup
-dnsmadeeasy
 dnsoverhttps
 dnsrecord
 dnsresolver
@@ -2340,7 +2338,6 @@ domainkeys
 domainname
 domainnamesystem
 domains
-domino
 done.land
 donothing
 dos
@@ -2429,6 +2426,7 @@ dsregcmd
 dsutils
 dtc
 dts
+dtsx
 dtx
 du
 dual-stack
@@ -2514,6 +2512,7 @@ ediscovery
 edit
 editor
 editorservices
+edl
 edr
 educatedprompting
 education
@@ -2597,6 +2596,7 @@ endomondo
 endpoint
 endpoints
 energy
+engagement
 engine
 engineevent
 english
@@ -2833,7 +2833,6 @@ factoryorchestrator
 factoryorchestratorclient
 facts
 faf
-failedlogin
 failure
 fake
 fake-useragent
@@ -3721,7 +3720,6 @@ idna
 idoit
 idp
 idrac
-ids
 ie
 iem
 ifconfig
@@ -3864,6 +3862,7 @@ integration
 integrationaccount
 integrationruntime
 integrationruntimedependency
+integrationservicescatalog
 integrity
 intel
 inteligo
@@ -5415,6 +5414,7 @@ oracle
 oraclecloudinfrastructure
 oraculum
 orbital
+orchestrate
 orchestration
 orchestrator
 order
@@ -5581,7 +5581,6 @@ passwordmanagement
 passwordmanager
 passwords
 passwordsecure
-passwordspray
 passwordstate
 passwordtool
 passwordvault
@@ -5825,7 +5824,6 @@ poshy-env-proxy
 poshy-env-var
 poshy-ls-isms
 poshy-lucidity
-poshy-multimedia
 poshy-net
 poshy-notify-send
 poshy-sh-isms
@@ -6075,6 +6073,7 @@ projectwise
 proliant
 prometheus
 prompt
+pronounceable
 proofpoint
 properties
 property
@@ -6213,7 +6212,6 @@ pscommand_bubu
 pscommand_bubug
 pscommand_bugbc
 pscommand_buz
-pscommand_catimg
 pscommand_cd-
 pscommand_cd..
 pscommand_cd+
@@ -6229,7 +6227,6 @@ pscommand_confirm-gitbisectcommitgood
 pscommand_convertto-nixmode
 pscommand_convertto-rgb
 pscommand_d
-pscommand_d64
 pscommand_dbl
 pscommand_dcb
 pscommand_dcdn
@@ -6256,9 +6253,6 @@ pscommand_dcup
 pscommand_dcupb
 pscommand_dcupbd
 pscommand_dcupd
-pscommand_decode64
-pscommand_decodefile64
-pscommand_df64
 pscommand_dib
 pscommand_dii
 pscommand_dils
@@ -6393,13 +6387,8 @@ pscommand_dvls
 pscommand_dvprune
 pscommand_dxc
 pscommand_dxcit
-pscommand_e64
-pscommand_ef64
 pscommand_enable-proxy
-pscommand_encode64
-pscommand_encodefile64
 pscommand_export-gitrepositoryzip
-pscommand_extract
 pscommand_fgblack
 pscommand_fgblue
 pscommand_fgbrightblack
@@ -7548,7 +7537,6 @@ pscommand_myip
 pscommand_new-gitbranchfromstash
 pscommand_new-gitbranchtracked
 pscommand_new-gitpatchfile
-pscommand_new-isofile
 pscommand_new-viewerinvocationfunction
 pscommand_new-windowsterminalpane
 pscommand_new-windowsterminaltab
@@ -7594,10 +7582,8 @@ pscommand_npmst
 pscommand_npmt
 pscommand_npmu
 pscommand_npmv
-pscommand_open_command
 pscommand_pch
 pscommand_pcl
-pscommand_peek
 pscommand_pgr
 pscommand_pi
 pscommand_pidev
@@ -7770,7 +7756,6 @@ pscommand_ts
 pscommand_txa
 pscommand_txl
 pscommand_txn
-pscommand_universalarchive
 pscommand_update-gitbranchbasefrombranchmain
 pscommand_update-gitbranchbasefrommain
 pscommand_update-gitbranchbasefrommaininteractively
@@ -7795,8 +7780,6 @@ pscommand_update-gitrepositoryfromsvn
 pscommand_update-gitsubmodulefromremotemerge
 pscommand_update-gitsubmoduleinit
 pscommand_update-gitsubmoduleinitrecursive
-pscommand_urldecode
-pscommand_urlencode
 pscommand_use-gitbranch
 pscommand_use-gitbranchdevelop
 pscommand_use-gitbranchmain
@@ -7807,8 +7790,6 @@ pscommand_use-gitflowbranchdevelop
 pscommand_use-gitflowbranchhotfix
 pscommand_use-gitflowbranchrelease
 pscommand_use-gitstashentry
-pscommand_uuid
-pscommand_uuidgen
 pscommand_vad
 pscommand_vag
 pscommand_val
@@ -8010,14 +7991,11 @@ psfunction_bgred
 psfunction_bgrgb
 psfunction_bgwhite
 psfunction_bgyellow
-psfunction_catimg
 psfunction_confirm-gitbisectcommitbad
 psfunction_confirm-gitbisectcommitgood
 psfunction_convertto-nixmode
 psfunction_convertto-rgb
 psfunction_d
-psfunction_decode64
-psfunction_decodefile64
 psfunction_dirname
 psfunction_disable-proxy
 psfunction_docker-archive-content
@@ -8086,10 +8064,7 @@ psfunction_dotnet-watch
 psfunction_dotnet-watch-run
 psfunction_dotnet-watch-test
 psfunction_enable-proxy
-psfunction_encode64
-psfunction_encodefile64
 psfunction_export-gitrepositoryzip
-psfunction_extract
 psfunction_fgblack
 psfunction_fgblue
 psfunction_fgbrightblack
@@ -8817,7 +8792,6 @@ psfunction_move-gittrackedfiles
 psfunction_new-gitbranchfromstash
 psfunction_new-gitbranchtracked
 psfunction_new-gitpatchfile
-psfunction_new-isofile
 psfunction_new-viewerinvocationfunction
 psfunction_new-windowsterminalpane
 psfunction_new-windowsterminaltab
@@ -8845,8 +8819,6 @@ psfunction_notify-send-terminalnotifier
 psfunction_npm-disable-proxy
 psfunction_npm-enable-proxy
 psfunction_npm-show-proxy
-psfunction_open_command
-psfunction_peek
 psfunction_pipig
 psfunction_pipigb
 psfunction_pipigp
@@ -8952,7 +8924,6 @@ psfunction_test-o
 psfunction_test-reparsepoint
 psfunction_test-sessioninteractivity
 psfunction_test-x
-psfunction_universalarchive
 psfunction_update-gitbranchbasefrombranchmain
 psfunction_update-gitbranchbasefrommain
 psfunction_update-gitbranchbasefrommaininteractively
@@ -8977,8 +8948,6 @@ psfunction_update-gitrepositoryfromsvn
 psfunction_update-gitsubmodulefromremotemerge
 psfunction_update-gitsubmoduleinit
 psfunction_update-gitsubmoduleinitrecursive
-psfunction_urldecode
-psfunction_urlencode
 psfunction_use-gitbranch
 psfunction_use-gitbranchdevelop
 psfunction_use-gitbranchmain
@@ -9065,6 +9034,7 @@ psreadline
 psreminder
 psremoting
 psrepository
+psresource
 psresourceget
 psrule
 psrule-rules
@@ -9297,7 +9267,6 @@ realmjoin
 realschule
 realtimeprotection
 realvnc
-rebase
 reboot
 rebootnodeifneeded
 reckon
@@ -9510,14 +9479,13 @@ retry
 returnuserprofile
 retype
 reuse
+reverse-engineer
 reverse-string
 reversed-color-text
 reversedsc
 reverseengineering
 review
 revision
-reword
-rewrite
 rexec
 rfc1305
 rfc1436
@@ -9667,6 +9635,7 @@ sample
 sampler
 samurai
 san
+sand
 sandbox
 sanitization
 sanitizer
@@ -10446,7 +10415,6 @@ storedcredentials
 storefront
 storeonce
 storeserv
-strangeloop
 strava
 streak
 stream
@@ -10470,6 +10438,7 @@ strip-ansi
 stripe
 strongname
 structure
+structured
 sts
 stt
 studio
@@ -10744,8 +10713,10 @@ test-samcmpackageexists
 test-userisadministrator
 test-xml
 test123
+testabledata
 testaccount
 testautomation
+testdata
 tester
 testimonial
 testing
@@ -11131,7 +11102,6 @@ unitypackage
 universal
 universal-automation
 universal-dashboard
-universalarchive
 universaldashboard
 universalddi
 universialaccessgateway
@@ -11314,6 +11284,7 @@ vi
 vib
 vibecoding
 video
+video-editing
 videogeneration
 videos
 vie
@@ -11460,7 +11431,6 @@ vvx
 vxrail
 w32time
 w365
-w3svc
 w3w
 waa
 waas
@@ -11557,6 +11527,7 @@ wecutil
 weekday
 weekly
 wef
+weixin
 well-architectedframework
 well-architectedreliabilityassessment
 well-known
@@ -11744,6 +11715,7 @@ wmf5
 wmi
 wmifilter
 wmipermanentevents
+wms
 wol
 wolfram
 wolframalpha
@@ -11762,6 +11734,9 @@ worker
 workflow
 workflowmax
 workflows
+workingdays
+workinghours
+workingtime
 workload
 workload-automation
 workloadidentity
