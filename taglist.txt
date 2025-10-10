@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Friday, 10 October 2025 09:52:17 UTC
+Updated: Friday, 10 October 2025 21:52:19 UTC
 
 .bat
 .env
@@ -10,9 +10,7 @@ Updated: Friday, 10 October 2025 09:52:17 UTC
 'azure'
 'blob storage'
 'code owls'
-'files
 'provider'
-"<script>alert()</script>
 "interactive
 **psedition_desktop**
 **windows**
@@ -146,6 +144,7 @@ activenet
 activenetapi
 activenetworkstation
 activenetworkstationservice
+activerecord
 activeresponse
 activesession
 activiti
@@ -357,7 +356,6 @@ amazonwebservices
 amd
 amend
 ami
-amiga
 amp
 amqp
 amsi
@@ -1010,6 +1008,7 @@ bloxone
 bloxoneddi
 bls
 blue
+bluecat
 bluedolhin
 blueprint
 blueprints
@@ -1075,7 +1074,6 @@ broadcom
 broot
 brotli
 brotli-compression
-brownserve-uk
 browser
 browserbox
 browserextension
@@ -1290,7 +1288,6 @@ chefconf2016
 chenxizhang
 cherrypy
 cherwell
-chfs
 chi
 china
 chinese
@@ -1368,8 +1365,6 @@ clear
 clear-history
 clearpass
 cli
-cli-menu
-cli-menu-helpers
 clickonce
 clicktorun
 client
@@ -1395,7 +1390,6 @@ clientsettingsstatemessaging
 clientsettingsuserdeviceaffinity
 clientstatussettings
 clihelper.core
-clihelper.logger
 clihelper.semver
 clihelper.trends
 clipart
@@ -1470,6 +1464,7 @@ cmsmessage
 cmtrace
 cmwt
 cnc
+cns
 co-writer
 coa
 cockroachdb
@@ -1543,7 +1538,6 @@ command_line
 command-line-interface
 command-validation
 commandcoverage
-commandhistory
 commandlets
 commandline
 commandr
@@ -1874,6 +1868,7 @@ currencyconverterapi
 current
 curseforge
 custom
+customchecks
 customdns
 customer
 customerengagement
@@ -1892,7 +1887,6 @@ customization
 customlocation
 customlogs
 customproviders
-cutehttpfileserver
 cvad
 cve
 cve-2021-34527
@@ -1975,7 +1969,9 @@ dataflow
 dataflowdependency
 dataframe
 datagateway
+dataimport
 dataintegration
+datakwaliteit
 datalabelingservice
 datalabelingservicedataplane
 datalake
@@ -2259,7 +2255,6 @@ distributiongroups
 distributionlist
 distributionpointgroupmembers
 distrubtionpoint
-dividends
 diving
 division
 divoom
@@ -2315,6 +2310,7 @@ dockerize
 dockerswarm
 docking
 docs
+docset
 document
 documentation
 documentdb
@@ -2490,7 +2486,6 @@ earthquakes
 easy
 easy-to-use
 easylife365
-easypim
 easyvista
 eaton
 ebay
@@ -2525,6 +2520,7 @@ efficientether
 efi
 egrep
 eid
+eigencontroles
 eigenverft
 einstein
 eklient psedition_core psedition_desktop
@@ -2576,6 +2572,7 @@ emissions
 emoji
 emojis
 emotion
+empire
 empty
 emwarehouse
 enable
@@ -2796,7 +2793,6 @@ exporter
 exportexcel
 exportteams
 expression
-extend
 extended
 extendedattributes
 extendedevents
@@ -2826,13 +2822,11 @@ f5
 fabric
 fabtools
 facebook
-factory
 factoryorchestrator
 factoryorchestratorclient
 facts
 faf
 failedlogin
-failure
 fake
 fake-useragent
 falcon
@@ -2943,7 +2937,6 @@ filewrite
 fill
 film
 filter
-filter-item
 filtering
 fim
 fims
@@ -3010,6 +3003,7 @@ flex
 flex-query
 flexdesk
 flexible
+flickr
 flowchart
 flowy
 fluent
@@ -3155,7 +3149,6 @@ gateway
 gauge
 gavin
 gavineke
-gbl
 gcbdr
 gce
 gci
@@ -3405,7 +3398,6 @@ guid
 guidtoname
 guildwars2
 gumby
-guru
 gvim
 gw2
 gwbasic
@@ -3716,6 +3708,7 @@ idm
 idn
 idna
 idoit
+idp
 idrac
 ids
 ie
@@ -4027,7 +4020,6 @@ jmsjavadownloads
 jmsutils
 jnet
 jnetps
-joat
 job
 jobcan
 jobs
@@ -4044,7 +4036,6 @@ journalctl
 joyride
 jpg
 jq
-js7
 jsm
 jsm.insight
 json
@@ -4112,6 +4103,7 @@ kernel32
 kestrel
 key
 key-vault
+key2wocas
 keybase
 keybinding
 keyboard
@@ -4140,6 +4132,7 @@ kinetic
 kinopoisk
 kintone
 kittygraphicsprotocol
+klantcontroles
 kline
 kms
 knapsack
@@ -4310,7 +4303,6 @@ lint
 linting
 linux
 linux-command
-linux-style
 linuxssh
 liquid
 liquit
@@ -4318,7 +4310,6 @@ liquit.com
 list
 list_files
 list-directory
-list-item
 listener
 litecoin
 litedb
@@ -4335,7 +4326,6 @@ lmhosts
 lms
 load
 loadbalancer
-loadbalancer.org
 loader
 loadtesting
 loanddepot
@@ -4413,7 +4403,6 @@ logitech
 logmail
 logmails
 logman
-logo
 logoff
 logon
 logonright
@@ -4626,7 +4615,6 @@ mediant
 mediaplayer
 mediaservices
 mediawiki
-meditation
 medlemsservice
 meesman
 meeting
@@ -4977,7 +4965,6 @@ n-central
 nabu
 nac
 nagios
-nakivo
 name
 name-of-dogs
 namedpipe
@@ -5310,7 +5297,6 @@ onbehalfof
 onboard
 onboardadministrator
 onboarding
-oncommand-insight
 ondemand
 one
 one-liner
@@ -5386,6 +5372,7 @@ operationsmanagementsuiteagent
 operationsmanager
 operationvalidation
 operatoraccesscontrol
+opml
 ops
 opsi
 opsmgr
@@ -5425,7 +5412,6 @@ osbuildersus
 osd
 osdbuilder
 osdcloud
-osdcloud.michael
 osdeploy
 osdeployment
 osdprogress
@@ -5463,6 +5449,7 @@ out-gridview
 out-json
 outerjoin
 outertext
+outline
 outlook
 outpainting
 output
@@ -5730,7 +5717,6 @@ plugin
 plugins
 pluralsight
 ply
-pmp
 pncit
 png
 pnp
@@ -7918,7 +7904,6 @@ pscore
 pscredential
 pscribo
 pscustomobject
-psd
 psd1
 psdb
 psdefaultparametervalues
@@ -9026,7 +9011,6 @@ psmodule psedition_desktop
 psmodulebase
 psmodulepath
 psmodules
-psmp
 psmsgraph
 psmsgraphapi
 psmssql
@@ -9052,7 +9036,6 @@ psql
 psraw
 psreadexif
 psreadline
-psreminder
 psremoting
 psrepository
 psresource
@@ -9091,7 +9074,6 @@ psyaml
 pszabbix
 ptc
 ptcintegrity
-pubg
 public
 public-key
 public-transport
@@ -9186,6 +9168,7 @@ quantum
 quarantine
 queries
 query
+querybuilder
 queryexcel
 querystring
 question
@@ -9224,7 +9207,6 @@ raindrop
 raindrop.io
 raisers
 raisersedge
-raj
 ram
 ram-it
 random
@@ -9272,7 +9254,6 @@ rdpsession
 rdpsign
 rds
 rdsgw
-react
 react-stockcharts
 read
 read-slog
@@ -9384,7 +9365,6 @@ reminder
 remote
 remote-browser
 remote-desktop
-remote'
 remoteaccess
 remoteadmin
 remotecert
@@ -9397,7 +9377,6 @@ remotedesktopgateway
 remotedesktopmanager
 remotedesktopservices
 remotedirectories
-remotefiles
 remoteforensics
 remotehost
 remotelocalgroup
@@ -9462,7 +9441,6 @@ resize
 resolution
 resolve
 resolve-dnsname
-resolve-stache
 resolve-template
 resolver
 resource
@@ -9804,7 +9782,6 @@ secretsanta
 secretscanner
 secretserver
 secretshub
-secretsmanagement
 secretsmanager
 secretstore
 secretvault
@@ -9845,10 +9822,8 @@ securitytxt
 sed
 seed
 seek
-seekatar
 seeshell
 select
-select-item
 select-kubecontext
 select-kubenamespace
 select-string
@@ -10352,7 +10327,6 @@ ssrs
 ssst
 sstp
 stabilityai
-stache
 stackexchange
 stackhci
 stackhcivm
@@ -10385,7 +10359,6 @@ stateless
 static
 staticanalysis
 statichtmlsites
-staticip
 staticsite
 statistical
 statisticmaintenance
@@ -10451,7 +10424,6 @@ strictmode
 strikethrough-text
 string
 string-converter
-string-template
 stringmanager
 stringmanagertool
 strings
@@ -10522,11 +10494,9 @@ surveymonkey
 sus
 sushi
 suspensive
-svelte
 svesavov
 svetoslav
 svg
-svgl
 svn
 svt
 swagger
@@ -10845,6 +10815,7 @@ tmux
 to-do
 toast
 toasts
+tobias
 toc
 todo
 todo.txt
@@ -11048,6 +11019,7 @@ ud-orgchart
 ud-piechart3d
 ud-pivottable
 ud-progressstepbar
+ud-rangeslider
 ud-readingbar
 ud-scrollspy
 ud-selectdatetime
@@ -11055,6 +11027,7 @@ ud-selector
 ud-signature
 ud-simpledrawer
 ud-singleselect
+ud-slider
 ud-speechbubble
 ud-step
 ud-stepbar
@@ -11166,6 +11139,7 @@ urbac
 uri
 uri-scheme
 url
+url-encode
 url-shortener
 urldecode
 urlencode
@@ -11227,7 +11201,6 @@ ux
 v20
 vadim
 vagrant
-vale
 validate
 validate-dcb
 validatedsolutions
@@ -11250,7 +11223,6 @@ vaultstore
 vaultwarden
 vb365
 vba
-vbaproject
 vbproj
 vbr
 vbscript
@@ -11357,7 +11329,6 @@ vm
 vmc
 vmconnect
 vmelamed5
-vmfs
 vmgroup
 vmhost
 vmhostgroup
@@ -11441,7 +11412,6 @@ vstest
 vsts
 vsts-cli
 vtt
-vue
 vulnerabilities
 vulnerability
 vulnerabilityassessment
@@ -11748,6 +11718,7 @@ word-wrap
 wordcloud
 wordlist
 wordpress
+wordwrap
 workbook
 workday
 worker
@@ -11776,6 +11747,7 @@ wow
 wpad
 wpf
 wql
+wrap
 wrap-text
 wrapper
 wrapperfunctions
@@ -11867,7 +11839,6 @@ xoauth2
 xor
 xpath
 xpendingreboot
-xpertdoc
 xpo
 xprotect
 xpt
