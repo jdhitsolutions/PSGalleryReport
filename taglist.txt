@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 13 October 2025 09:52:50 UTC
+Updated: Monday, 13 October 2025 21:52:11 UTC
 
 .bat
 .env
@@ -327,6 +327,7 @@ alias
 alias-hint
 alias-tips
 aliases
+aliens
 align
 alignment
 alive
@@ -355,7 +356,6 @@ amazonaws
 amazonmgn
 amazontitan
 amazonwebservices
-amd
 amend
 ami
 amiga
@@ -418,6 +418,7 @@ aovpn psmodule
 apache
 apache_maven
 apachekafka
+apexlegends
 api
 api-client
 api-gateway
@@ -620,8 +621,10 @@ audio
 audiocodes
 audit
 auditad
+auditadcs
 auditing
 auditnetlogon
+auditpki
 auditpol
 auditpol.exe
 auditpolicies
@@ -651,7 +654,6 @@ autify
 auto
 auto_cd
 auto-completion
-autoadapter
 autoattendant
 autocloudarc
 autocomplete
@@ -686,10 +688,8 @@ autotask
 autotaskapi
 autotaskpsa
 autotyper
-autounattend
 autoupdate
 autoupdate-script
-autowrapper
 autoyast
 auvik
 av1
@@ -1035,6 +1035,7 @@ bookmark
 bookmarks
 books
 bool
+boolean
 bootloader psmodule
 bootstrap
 bootstrapping
@@ -1059,7 +1060,6 @@ bre
 breach
 break
 breakpoint
-brevo
 brew
 brewing
 brewzilla
@@ -1145,6 +1145,7 @@ caf
 caffeine
 cal
 calc
+calculate
 calculator
 calendar
 callingcode
@@ -1167,6 +1168,7 @@ capability
 capacity
 capacitymanagement
 capainstaller
+capaone
 capasystems
 capgemini
 capslock
@@ -1288,7 +1290,6 @@ chef-compliance
 chef-server
 chefconf2016
 chenxizhang
-cherrypy
 cherwell
 chfs
 chi
@@ -1612,7 +1613,6 @@ conda
 condition
 conditional
 conditionalaccess
-conduit
 conference
 confidentialclient
 confidentialledger
@@ -1642,7 +1642,6 @@ connect-exchangeonprem
 connect-mstsc
 connect-rdp
 connect-remotedesktop
-connect-samcmsite
 connected
 connectedkubernetes
 connectedmachine
@@ -1730,7 +1729,6 @@ converttomarkdown
 converttomd
 conway
 cookie
-coolq
 cooltag1
 cooltag2
 coordinates
@@ -1777,10 +1775,8 @@ cppm
 cpu
 cpuid
 cpuid-information
-cq
 cqd
 cqdpowershell
-cqhttp
 crack psmodule
 crash
 crawler
@@ -1821,6 +1817,7 @@ crestron
 cricket
 crime
 critical
+crl
 crlf
 crm
 crm2016
@@ -1953,6 +1950,7 @@ data-backup
 data-tier
 data-uri
 data-uri-converter
+dataadapter
 database
 database-migrations
 databaseautomation
@@ -2443,7 +2441,6 @@ duck
 duckdb
 duckduckgo
 ducks
-ducktyping
 dudckduckgo
 duf
 dumb
@@ -2552,7 +2549,6 @@ elevation
 elevenlabs
 elgato
 eli5
-elitism
 elk
 elm
 elmah-io
@@ -2569,7 +2565,6 @@ emailaddressupdate
 emailauth
 emailauthchecker
 emailautomation
-emailcampain
 emailchecker
 emaildataplane
 emailmanagment
@@ -2613,6 +2608,7 @@ enhanced-terminal
 enhancement
 enrichers
 enrichment
+enrollment
 enrollmentpolicy
 entaid
 enteo
@@ -2700,9 +2696,7 @@ etl2pcapng
 etrade
 ets
 etw
-etymology
 eulanda
-evaluation
 evaluator
 evc
 event
@@ -2807,7 +2801,6 @@ exporter
 exportexcel
 exportteams
 expression
-extend
 extended
 extendedattributes
 extendedevents
@@ -3253,8 +3246,6 @@ get-passivetrippoint
 get-passlist
 get-path
 get-pinneditem
-get-samcmassignedsite
-get-samcmcurrentmanagementpoint
 get-samplingperiod
 get-smtpcapabilities
 get-stalecomps
@@ -3645,6 +3636,8 @@ httpqscollection
 https
 https_proxy
 httpserver
+huawei
+huawei-ibmc-cmdlets
 hub
 hubot
 hubsite
@@ -3687,6 +3680,7 @@ iap
 ias
 ib
 ibm
+ibmc
 ibmhttpserver
 icacl
 icann
@@ -3781,7 +3775,6 @@ import-dtdriverpackpackagedefinitionsms
 import-module
 import-modulefrompath
 import-passlist
-import-sampackagedefinitionsms
 importer
 importexport
 importteams
@@ -4101,6 +4094,7 @@ kafka
 kaminario
 karabiner
 karabiner-elements
+karma
 kaseya
 kaseyavsa
 kaspersky
@@ -4513,8 +4507,6 @@ magnet
 mail
 mailbox
 mailchimp
-mailgroup
-mailgroupmember
 mailing
 mailkit
 mailmessage
@@ -4952,6 +4944,7 @@ multi-zone
 multicloud
 multicultural
 multidimenstional
+multigeo
 multimedia
 multios
 multipart
@@ -5034,7 +5027,6 @@ nederland
 nedyalkov
 nemovote
 neo4j
-neocities
 neofetch
 neonpostgres
 neovim
@@ -5108,8 +5100,6 @@ new-itemproperty
 new-modulemanifest
 new-pinneditem
 new-rdpsession
-new-samcmapplicationfrompackagedefinitionsms
-new-samcmpackagefrompackagedefinitionsms
 new-system
 new-udmorph
 new-win32app
@@ -5144,7 +5134,6 @@ nios
 nipkg
 nist
 nitrox
-nixos
 njclipsh
 nl
 nla
@@ -5159,7 +5148,6 @@ node
 node.js
 nodejs
 nogit
-non-idiomatic
 non-volatile
 none
 noneimages
@@ -5411,7 +5399,6 @@ optics
 optimise
 optimization
 optimize
-optimized
 optimizer
 option
 option119
@@ -5430,7 +5417,6 @@ organization
 organizationally
 orgnetwork
 oriflame
-origin
 orion
 orleans
 orm
@@ -5667,7 +5653,6 @@ pfsense
 pfx
 pfy
 pgp
-phabricator
 phi
 philips
 philosophical
@@ -5718,6 +5703,7 @@ pkce
 pkgx
 pki
 pki psmodule
+pkireports
 pks
 place
 places
@@ -5781,7 +5767,6 @@ poll
 polly
 polycom
 pomodoro
-ponduit
 pool
 poop
 pop
@@ -6044,6 +6029,7 @@ privileged
 privilegedidentitymanagement
 privileges
 pro
+probability
 probe
 process
 process-inspector
@@ -9059,7 +9045,6 @@ psnexosisclient
 psngenposh
 psobject
 psoutlog
-pspath
 pspersonio
 pspowerhour
 psprofiler
@@ -9137,6 +9122,7 @@ pulseway
 pulumi
 punycode
 puppet
+puppetdb
 puppy
 pure
 pure1
@@ -9192,7 +9178,6 @@ qlogicfcpowerkit
 qlogicfcprovider
 qna
 qol
-qq
 qr
 qr-code
 qrcode
@@ -9235,7 +9220,6 @@ rabbit
 rabbitmq
 rackspace
 radarr
-radeon
 radio
 rag
 raidcontrollercmdlets
@@ -9489,7 +9473,6 @@ resolver
 resource
 resource_monitor
 resource_watcher
-resourceanalytics
 resourcecontroller
 resourcegraph
 resourcegroup
@@ -9504,7 +9487,6 @@ resourcescheduler
 resourcesearch
 response
 rest
-rest_cherrypy
 rest-api
 restapi
 restart
@@ -9665,8 +9647,6 @@ sale
 sales
 salesforce
 salesloft
-salt
-salt-api
 saltstack
 saltstackconfig
 saltstackenterprise
@@ -9714,10 +9694,7 @@ scatter
 scb
 scc
 sccm
-sccmam
-sccmapplication
 sccminstall
-sccmpackage
 sccmprereqs
 scep
 scepman
@@ -9940,7 +9917,6 @@ serviceconnectionpoint
 servicecontrol
 servicedesk
 servicedeskplus
-serviceendpoints
 servicefabric
 servicelinker
 servicemanagementautomation
@@ -9993,7 +9969,6 @@ sgw
 sha-256
 sha-512
 sha-crypt
-sha256
 sha256crypt
 sha512crypt
 shacrypt
@@ -10111,6 +10086,7 @@ skype4business
 skypeforbusiness
 skypeforbusinessonline
 skypeonline
+skytap
 slack
 slash
 slashcommands
@@ -10636,6 +10612,7 @@ table
 tableau
 tableauserver
 tableauworkbook
+tabler
 tables
 tablestorage
 tabs
@@ -10670,6 +10647,7 @@ tasks
 tasksbyme
 taskscheduler
 tatux
+tauricraft
 taxjar
 taxonomy
 tcg
@@ -10757,8 +10735,6 @@ test-modulemanifest
 test-modulepath
 test-osplatform
 test-psremoting
-test-samcmapplicationexists
-test-samcmpackageexists
 test-userisadministrator
 test-xml
 test123
@@ -10876,9 +10852,6 @@ toc
 todo
 todo.txt
 toggl
-toggl-api
-toggl-api-powershell
-toggl-api-ps
 toggle
 token
 tokenlifetime
@@ -11147,6 +11120,7 @@ unitconvesion
 unittest
 unittesting
 unity
+unitypackage
 universal
 universal-automation
 universal-dashboard
@@ -11323,6 +11297,7 @@ version
 versioncontrol
 versioning
 versionmanager
+versionnumber
 vertical
 vester
 vgpu
@@ -11385,7 +11360,6 @@ vm
 vmc
 vmconnect
 vmelamed5
-vmfs
 vmgroup
 vmhost
 vmhostgroup
@@ -11545,6 +11519,7 @@ webhelpdesk
 webhistory
 webhook
 webinspect
+webjea
 webm
 webmanagement
 webmanagementservice
@@ -11763,6 +11738,7 @@ wmf5
 wmi
 wmifilter
 wmipermanentevents
+wms
 wol
 wolfram
 wolframalpha
