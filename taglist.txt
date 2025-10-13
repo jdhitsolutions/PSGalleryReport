@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Sunday, 12 October 2025 21:52:25 UTC
+Updated: Monday, 13 October 2025 09:52:50 UTC
 
 .bat
 .env
@@ -327,7 +327,6 @@ alias
 alias-hint
 alias-tips
 aliases
-aliens
 align
 alignment
 alive
@@ -419,7 +418,6 @@ aovpn psmodule
 apache
 apache_maven
 apachekafka
-apexlegends
 api
 api-client
 api-gateway
@@ -653,6 +651,7 @@ autify
 auto
 auto_cd
 auto-completion
+autoadapter
 autoattendant
 autocloudarc
 autocomplete
@@ -690,6 +689,7 @@ autotyper
 autounattend
 autoupdate
 autoupdate-script
+autowrapper
 autoyast
 auvik
 av1
@@ -1035,7 +1035,6 @@ bookmark
 bookmarks
 books
 bool
-boolean
 bootloader psmodule
 bootstrap
 bootstrapping
@@ -1146,7 +1145,6 @@ caf
 caffeine
 cal
 calc
-calculate
 calculator
 calendar
 callingcode
@@ -1169,7 +1167,6 @@ capability
 capacity
 capacitymanagement
 capainstaller
-capaone
 capasystems
 capgemini
 capslock
@@ -1956,7 +1953,6 @@ data-backup
 data-tier
 data-uri
 data-uri-converter
-dataadapter
 database
 database-migrations
 databaseautomation
@@ -2447,6 +2443,7 @@ duck
 duckdb
 duckduckgo
 ducks
+ducktyping
 dudckduckgo
 duf
 dumb
@@ -2616,7 +2613,6 @@ enhanced-terminal
 enhancement
 enrichers
 enrichment
-enrollment
 enrollmentpolicy
 entaid
 enteo
@@ -2704,6 +2700,7 @@ etl2pcapng
 etrade
 ets
 etw
+etymology
 eulanda
 evaluation
 evaluator
@@ -3648,8 +3645,6 @@ httpqscollection
 https
 https_proxy
 httpserver
-huawei
-huawei-ibmc-cmdlets
 hub
 hubot
 hubsite
@@ -3692,7 +3687,6 @@ iap
 ias
 ib
 ibm
-ibmc
 ibmhttpserver
 icacl
 icann
@@ -4107,7 +4101,6 @@ kafka
 kaminario
 karabiner
 karabiner-elements
-karma
 kaseya
 kaseyavsa
 kaspersky
@@ -4571,6 +4564,7 @@ map
 mapapi
 mapi
 mappeddrives
+mapper24
 mapping
 maps
 mapsapi
@@ -4958,7 +4952,6 @@ multi-zone
 multicloud
 multicultural
 multidimenstional
-multigeo
 multimedia
 multios
 multipart
@@ -4984,6 +4977,7 @@ mvp
 mwsqlserver
 mx
 mxlookup
+mycloudrevolution
 myget
 myhub
 myip
@@ -5201,6 +5195,7 @@ npm
 npm-proxy
 npm-upgrade
 nprinting
+nprintingapi
 nps
 npslog
 npslogfile
@@ -5320,7 +5315,6 @@ ollama
 omada
 omaha
 ome
-omg
 omnisphere
 omnissa
 omnistack
@@ -5342,6 +5336,7 @@ onedriveforbusiness
 oneget
 oneidentity
 onelogin
+oneloginapi
 onenote
 onestools
 onesubscription
@@ -5435,6 +5430,7 @@ organization
 organizationally
 orgnetwork
 oriflame
+origin
 orion
 orleans
 orm
@@ -6048,7 +6044,6 @@ privileged
 privilegedidentitymanagement
 privileges
 pro
-probability
 probe
 process
 process-inspector
@@ -9142,7 +9137,6 @@ pulseway
 pulumi
 punycode
 puppet
-puppetdb
 puppy
 pure
 pure1
@@ -9945,6 +9939,7 @@ servicecatalog
 serviceconnectionpoint
 servicecontrol
 servicedesk
+servicedeskplus
 serviceendpoints
 servicefabric
 servicelinker
@@ -10116,7 +10111,6 @@ skype4business
 skypeforbusiness
 skypeforbusinessonline
 skypeonline
-skytap
 slack
 slash
 slashcommands
@@ -10642,7 +10636,6 @@ table
 tableau
 tableauserver
 tableauworkbook
-tabler
 tables
 tablestorage
 tabs
@@ -10677,7 +10670,6 @@ tasks
 tasksbyme
 taskscheduler
 tatux
-tauricraft
 taxjar
 taxonomy
 tcg
@@ -11155,7 +11147,6 @@ unitconvesion
 unittest
 unittesting
 unity
-unitypackage
 universal
 universal-automation
 universal-dashboard
@@ -11332,7 +11323,6 @@ version
 versioncontrol
 versioning
 versionmanager
-versionnumber
 vertical
 vester
 vgpu
@@ -11555,7 +11545,6 @@ webhelpdesk
 webhistory
 webhook
 webinspect
-webjea
 webm
 webmanagement
 webmanagementservice
@@ -11774,7 +11763,6 @@ wmf5
 wmi
 wmifilter
 wmipermanentevents
-wms
 wol
 wolfram
 wolframalpha

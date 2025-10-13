@@ -3,6 +3,86 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [Fortytwo.ByttEmail.Installation](https://www.powershellgallery.com/Packages/Fortytwo.ByttEmail.Installation/0.3.1) | 0.3.1
+
+### Published: 10/13/2025 08:55:07 by Marius Solbakken Mellum
+
+A module for installing Bytt.Email
+
+__Downloads__: 0 | __Repository__: 
+
+## [ADEssentials](https://www.powershellgallery.com/Packages/ADEssentials/0.0.264) | 0.0.264
+
+### Published: 10/13/2025 08:27:53 by Przemyslaw Klys
+
+Helper module for Active Directory with lots of useful functions that simplify supporting Active Directory.
+
+__Downloads__: 604,490 | __Repository__: https://github.com/EvotecIT/ADEssentials
+
+## [CDFModule](https://www.powershellgallery.com/Packages/CDFModule/1.2.0) | 1.2.0
+
+### Published: 10/13/2025 07:02:46 by Andreas Stenlund
+
+Epical Baseline CDF Module
+
+__Downloads__: 1,464 | __Repository__: https://github.com/epical-cdf/cdf-module
+
+## [PSDotFiles](https://www.powershellgallery.com/Packages/PSDotFiles/1.0.0) | 1.0.0
+
+### Published: 10/13/2025 06:15:50 by Samuel Leslie
+
+Bringing simple dotfiles management to Windows
+
+__Downloads__: 11,379 | __Repository__: https://github.com/ralish/PSDotFiles
+
+## [Ldbc](https://www.powershellgallery.com/Packages/Ldbc/0.9.0) | 0.9.0
+
+### Published: 10/13/2025 05:49:19 by Roman Kuzmin
+
+LiteDB Cmdlets, the document store in PowerShell
+
+__Downloads__: 5,880 | __Repository__: https://github.com/nightroman/Ldbc
+
+## [OSD](https://www.powershellgallery.com/Packages/OSD/25.10.13.1) | 25.10.13.1
+
+### Published: 10/13/2025 05:08:39 by David Segura . Gary Blok . Michael Escamilla
+
+OSD PowerShell Module for Windows Deployment
+
+__Downloads__: 5,224,441 | __Repository__: https://github.com/OSDeploy/OSD
+
+## [Eigenverft.Manifested.Drydock](https://www.powershellgallery.com/Packages/Eigenverft.Manifested.Drydock/0.20255.57349) | 0.20255.57349
+
+### Published: 10/13/2025 04:58:14 by Eigenverft
+
+PowerShell helper functions for the Eigenverft Manifested Drydock, optimized for lightning-fast iteration and reliable local + CI/CD workflows. Expect frequent releases—auto-versioning is built in. Tasks are parity-driven: the same commands run locally and in CI/CD, so local builds remain fully functional even if the pipeline is down.
+
+__Downloads__: 451 | __Repository__: https://github.com/eigenverft/Eigenverft.Manifested.Drydock
+
+## [K.PSGallery.ManifestVersioning](https://www.powershellgallery.com/Packages/K.PSGallery.ManifestVersioning/0.0.5) | 0.0.5
+
+### Published: 10/12/2025 23:42:09 by GrexyLoco
+
+PowerShell module for updating module manifest (.psd1) versions with Git integration
+
+__Downloads__: 0 | __Repository__: https://github.com/GrexyLoco/K.PSGallery.ManifestVersioning
+
+## [ColorScripts-Enhanced](https://www.powershellgallery.com/Packages/ColorScripts-Enhanced/2025.10.12.2238) | 2025.10.12.2238
+
+### Published: 10/12/2025 22:40:43 by Nick2bad4u
+
+Enhanced PowerShell ColorScripts with high-performance caching system. Display beautiful ANSI art in your terminal with 6-19x faster load times.
+
+__Downloads__: 14 | __Repository__: https://github.com/Nick2bad4u/ps-color-scripts-enhanced
+
+## [LSUClient](https://www.powershellgallery.com/Packages/LSUClient/1.8.0) | 1.8.0
+
+### Published: 10/12/2025 22:24:51 by jantari
+
+Orchestrate driver, BIOS/UEFI and firmware updates for Lenovo computers 👨‍💻
+
+__Downloads__: 38,253,159 | __Repository__: https://www.github.com/jantari/LSUClient
+
 ## [AcumaticaNodeHelper](https://www.powershellgallery.com/Packages/AcumaticaNodeHelper/1.0.0) | 1.0.0
 
 ### Published: 10/12/2025 20:37:35 by Kyle Vanderstoep
@@ -10,22 +90,6 @@ These are the latest 250 modules published to the [PowerShell Gallery](https://p
 A Cmdlet that assists a developer with building Acumatica front-end assets, leveraging the NodeJS and npm version found in the web.config file.
 
 __Downloads__: 1 | __Repository__: https://github.com/lekker-solutions/acumatica-nodehelper
-
-## [Eigenverft.Manifested.Drydock](https://www.powershellgallery.com/Packages/Eigenverft.Manifested.Drydock/0.20255.56700) | 0.20255.56700
-
-### Published: 10/12/2025 17:26:06 by Eigenverft
-
-PowerShell helper functions for the Eigenverft Manifested Drydock, optimized for lightning-fast iteration and reliable local + CI/CD workflows. Expect frequent releases—auto-versioning is built in. Tasks are parity-driven: the same commands run locally and in CI/CD, so local builds remain fully functional even if the pipeline is down.
-
-__Downloads__: 451 | __Repository__: https://github.com/eigenverft/Eigenverft.Manifested.Drydock
-
-## [OSD](https://www.powershellgallery.com/Packages/OSD/25.10.12.3) | 25.10.12.3
-
-### Published: 10/12/2025 17:08:08 by David Segura . Gary Blok . Michael Escamilla
-
-OSD PowerShell Module for Windows Deployment
-
-__Downloads__: 5,224,446 | __Repository__: https://github.com/OSDeploy/OSD
 
 ## [ChatGPS](https://www.powershellgallery.com/Packages/ChatGPS/0.2.0) | 0.2.0
 
@@ -106,7 +170,7 @@ __Downloads__: 13,717 | __Repository__: https://github.com/jhoek/UncommonSense.N
 
 Manage PIM Azure Resource, PIM Entra role and PIM for Group settings and assignments with simplicity in mind
 
-__Downloads__: 56,418 | __Repository__: https://github.com/kayasax/EasyPIM/
+__Downloads__: 56,419 | __Repository__: https://github.com/kayasax/EasyPIM/
 
 ## [qbo4.Infrastructure](https://www.powershellgallery.com/Packages/qbo4.Infrastructure/1.0.21.51) | 1.0.21.51
 
@@ -116,21 +180,13 @@ Quandis Infrastructure Management, including publishing of qbo databases and web
 
 __Downloads__: 1,640 | __Repository__: https://dev.azure.com/quandis/qbo4/_git/qbo4.Infrastructure
 
-## [ColorScripts-Enhanced](https://www.powershellgallery.com/Packages/ColorScripts-Enhanced/2025.10.12.47) | 2025.10.12.47
-
-### Published: 10/12/2025 04:53:59 by Nick
-
-Enhanced PowerShell ColorScripts with high-performance caching system. Display beautiful ANSI art in your terminal with 6-19x faster load times.
-
-__Downloads__: 14 | __Repository__: https://github.com/Nick2bad4u/ps-color-scripts-enhanced
-
 ## [InvokeBuild](https://www.powershellgallery.com/Packages/InvokeBuild/5.14.20) | 5.14.20
 
 ### Published: 10/12/2025 02:40:47 by Roman Kuzmin
 
 Build and test automation in PowerShell
 
-__Downloads__: 2,550,866 | __Repository__: https://github.com/nightroman/Invoke-Build
+__Downloads__: 2,550,846 | __Repository__: https://github.com/nightroman/Invoke-Build
 
 ## [MariusTestModule](https://www.powershellgallery.com/Packages/MariusTestModule/0.1.5) | 0.1.5
 
@@ -311,7 +367,7 @@ __Downloads__: 80 | __Repository__: https://github.com/ptmorris1/PoshPiHole
 
 SecretManagement extension vault for Keeper
 
-__Downloads__: 136,178 | __Repository__: https://github.com/Keeper-Security/secrets-manager
+__Downloads__: 136,180 | __Repository__: https://github.com/Keeper-Security/secrets-manager
 
 ## [EntraExporterFast](https://www.powershellgallery.com/Packages/EntraExporterFast/1.0.1) | 1.0.1
 
@@ -388,14 +444,6 @@ A PowerShell module for interacting with Twitch.
 
 __Downloads__: 46 | __Repository__: https://github.com/PSModule/Twitch
 
-## [Telemetry](https://www.powershellgallery.com/Packages/Telemetry/0.0.6) | 0.0.6
-
-### Published: 10/10/2025 12:33:11 by PSModule
-
-A PowerShell module for managing and registering telemetry.
-
-__Downloads__: 51 | __Repository__: https://github.com/PSModule/Telemetry
-
 ## [Retry](https://www.powershellgallery.com/Packages/Retry/0.1.8) | 0.1.8
 
 ### Published: 10/10/2025 12:18:25 by PSModule
@@ -467,14 +515,6 @@ __Downloads__: 22,739 | __Repository__: https://www.cayosoft.com/
 PowerShell module, which makes it easier to work Around AL developments.
 
 __Downloads__: 2,335 | __Repository__: 
-
-## [ADEssentials](https://www.powershellgallery.com/Packages/ADEssentials/0.0.263) | 0.0.263
-
-### Published: 10/10/2025 08:57:02 by Przemyslaw Klys
-
-Helper module for Active Directory with lots of useful functions that simplify supporting Active Directory.
-
-__Downloads__: 604,491 | __Repository__: https://github.com/EvotecIT/ADEssentials
 
 ## [PsDataFactory](https://www.powershellgallery.com/Packages/PsDataFactory/0.7.0) | 0.7.0
 
@@ -631,7 +671,7 @@ __Downloads__: 73,563 | __Repository__: https://github.com/PSModule/NerdFonts
 
 A PowerShell module to handle markdown
 
-__Downloads__: 224,329 | __Repository__: https://github.com/PSModule/Markdown
+__Downloads__: 224,330 | __Repository__: https://github.com/PSModule/Markdown
 
 ## [LinkedIn](https://www.powershellgallery.com/Packages/LinkedIn/0.0.6) | 0.0.6
 
@@ -1037,7 +1077,7 @@ __Downloads__: 16 | __Repository__: https://github.com/PSModule/Anthropic
 
 A PowerShell module working with the admin role.
 
-__Downloads__: 199,913 | __Repository__: https://github.com/PSModule/Admin
+__Downloads__: 199,914 | __Repository__: https://github.com/PSModule/Admin
 
 ## [PSCal](https://www.powershellgallery.com/Packages/PSCal/1.1.1) | 1.1.1
 
@@ -2024,44 +2064,4 @@ This modules provides Cmdlets for OCI Disasterrecovery Service
 
 __Downloads__: 9,751 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-## [OCI.PSModules.Devops](https://www.powershellgallery.com/Packages/OCI.PSModules.Devops/117.0.0) | 117.0.0
-
-### Published: 10/07/2025 18:13:09 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Devops Service
-
-__Downloads__: 11,870 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Desktops](https://www.powershellgallery.com/Packages/OCI.PSModules.Desktops/117.0.0) | 117.0.0
-
-### Published: 10/07/2025 18:13:02 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Desktops Service
-
-__Downloads__: 6,640 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Demandsignal](https://www.powershellgallery.com/Packages/OCI.PSModules.Demandsignal/117.0.0) | 117.0.0
-
-### Published: 10/07/2025 18:12:14 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Demandsignal Service
-
-__Downloads__: 5,256 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Delegateaccesscontrol](https://www.powershellgallery.com/Packages/OCI.PSModules.Delegateaccesscontrol/117.0.0) | 117.0.0
-
-### Published: 10/07/2025 18:12:07 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Delegateaccesscontrol Service
-
-__Downloads__: 2,842 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Dbmulticloud](https://www.powershellgallery.com/Packages/OCI.PSModules.Dbmulticloud/117.0.0) | 117.0.0
-
-### Published: 10/07/2025 18:11:59 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Dbmulticloud Service
-
-__Downloads__: 687 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-*Updated: Sunday, 12 October 2025 21:52:15 UTC*
+*Updated: Monday, 13 October 2025 09:52:40 UTC*
