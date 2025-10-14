@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 13 October 2025 21:52:11 UTC
+Updated: Tuesday, 14 October 2025 09:52:08 UTC
 
 .bat
 .env
@@ -342,7 +342,6 @@ alpine
 alt3
 alter
 alteryx
-alto
 alwaysontop
 alwaysonvpn
 alz
@@ -356,6 +355,7 @@ amazonaws
 amazonmgn
 amazontitan
 amazonwebservices
+amd
 amend
 ami
 amiga
@@ -654,6 +654,7 @@ autify
 auto
 auto_cd
 auto-completion
+autoadapter
 autoattendant
 autocloudarc
 autocomplete
@@ -688,8 +689,10 @@ autotask
 autotaskapi
 autotaskpsa
 autotyper
+autounattend
 autoupdate
 autoupdate-script
+autowrapper
 autoyast
 auvik
 av1
@@ -1060,6 +1063,7 @@ bre
 breach
 break
 breakpoint
+brevo
 brew
 brewing
 brewzilla
@@ -1290,6 +1294,7 @@ chef-compliance
 chef-server
 chefconf2016
 chenxizhang
+cherrypy
 cherwell
 chfs
 chi
@@ -1302,7 +1307,6 @@ chocobear
 chocolatey
 choice
 choose_file
-choose_file_name
 choose_folder
 chooser
 christaylorcodes
@@ -1613,6 +1617,7 @@ conda
 condition
 conditional
 conditionalaccess
+conduit
 conference
 confidentialclient
 confidentialledger
@@ -1642,6 +1647,7 @@ connect-exchangeonprem
 connect-mstsc
 connect-rdp
 connect-remotedesktop
+connect-samcmsite
 connected
 connectedkubernetes
 connectedmachine
@@ -1729,6 +1735,7 @@ converttomarkdown
 converttomd
 conway
 cookie
+coolq
 cooltag1
 cooltag2
 coordinates
@@ -1775,8 +1782,10 @@ cppm
 cpu
 cpuid
 cpuid-information
+cq
 cqd
 cqdpowershell
+cqhttp
 crack psmodule
 crash
 crawler
@@ -2441,6 +2450,7 @@ duck
 duckdb
 duckduckgo
 ducks
+ducktyping
 dudckduckgo
 duf
 dumb
@@ -2565,6 +2575,7 @@ emailaddressupdate
 emailauth
 emailauthchecker
 emailautomation
+emailcampain
 emailchecker
 emaildataplane
 emailmanagment
@@ -2697,6 +2708,7 @@ etrade
 ets
 etw
 eulanda
+evaluation
 evaluator
 evc
 event
@@ -2801,6 +2813,7 @@ exporter
 exportexcel
 exportteams
 expression
+extend
 extended
 extendedattributes
 extendedevents
@@ -3246,6 +3259,8 @@ get-passivetrippoint
 get-passlist
 get-path
 get-pinneditem
+get-samcmassignedsite
+get-samcmcurrentmanagementpoint
 get-samplingperiod
 get-smtpcapabilities
 get-stalecomps
@@ -3636,8 +3651,6 @@ httpqscollection
 https
 https_proxy
 httpserver
-huawei
-huawei-ibmc-cmdlets
 hub
 hubot
 hubsite
@@ -3653,7 +3666,6 @@ humor
 humorous
 humour
 hunter
-hunting
 hwid
 hybrid
 hybridrunbookworker
@@ -3680,7 +3692,6 @@ iap
 ias
 ib
 ibm
-ibmc
 ibmhttpserver
 icacl
 icann
@@ -3775,6 +3786,7 @@ import-dtdriverpackpackagedefinitionsms
 import-module
 import-modulefrompath
 import-passlist
+import-sampackagedefinitionsms
 importer
 importexport
 importteams
@@ -3998,7 +4010,6 @@ iteration
 itg
 itglue
 itin
-itops
 itsm
 itstore
 ivanti
@@ -4507,6 +4518,8 @@ magnet
 mail
 mailbox
 mailchimp
+mailgroup
+mailgroupmember
 mailing
 mailkit
 mailmessage
@@ -5027,6 +5040,7 @@ nederland
 nedyalkov
 nemovote
 neo4j
+neocities
 neofetch
 neonpostgres
 neovim
@@ -5100,6 +5114,8 @@ new-itemproperty
 new-modulemanifest
 new-pinneditem
 new-rdpsession
+new-samcmapplicationfrompackagedefinitionsms
+new-samcmpackagefrompackagedefinitionsms
 new-system
 new-udmorph
 new-win32app
@@ -5134,6 +5150,7 @@ nios
 nipkg
 nist
 nitrox
+nixos
 njclipsh
 nl
 nla
@@ -5303,6 +5320,7 @@ ollama
 omada
 omaha
 ome
+omg
 omnisphere
 omnissa
 omnistack
@@ -5512,11 +5530,9 @@ pagerduty
 pages
 pagination
 paging
-palo
 paloalto
 paloaltonetworks
 pam
-pan
 pandoc
 panels
 pansies
@@ -5653,6 +5669,7 @@ pfsense
 pfx
 pfy
 pgp
+phabricator
 phi
 philips
 philosophical
@@ -5767,6 +5784,7 @@ poll
 polly
 polycom
 pomodoro
+ponduit
 pool
 poop
 pop
@@ -9045,6 +9063,7 @@ psnexosisclient
 psngenposh
 psobject
 psoutlog
+pspath
 pspersonio
 pspowerhour
 psprofiler
@@ -9178,6 +9197,7 @@ qlogicfcpowerkit
 qlogicfcprovider
 qna
 qol
+qq
 qr
 qr-code
 qrcode
@@ -9220,6 +9240,7 @@ rabbit
 rabbitmq
 rackspace
 radarr
+radeon
 radio
 rag
 raidcontrollercmdlets
@@ -9473,6 +9494,7 @@ resolver
 resource
 resource_monitor
 resource_watcher
+resourceanalytics
 resourcecontroller
 resourcegraph
 resourcegroup
@@ -9487,6 +9509,7 @@ resourcescheduler
 resourcesearch
 response
 rest
+rest_cherrypy
 rest-api
 restapi
 restart
@@ -9494,7 +9517,6 @@ restaurant
 restful
 restore
 restrictive
-results
 resume
 retail
 retention
@@ -9647,6 +9669,8 @@ sale
 sales
 salesforce
 salesloft
+salt
+salt-api
 saltstack
 saltstackconfig
 saltstackenterprise
@@ -9694,7 +9718,10 @@ scatter
 scb
 scc
 sccm
+sccmam
+sccmapplication
 sccminstall
+sccmpackage
 sccmprereqs
 scep
 scepman
@@ -9917,6 +9944,7 @@ serviceconnectionpoint
 servicecontrol
 servicedesk
 servicedeskplus
+serviceendpoints
 servicefabric
 servicelinker
 servicemanagementautomation
@@ -9969,6 +9997,7 @@ sgw
 sha-256
 sha-512
 sha-crypt
+sha256
 sha256crypt
 sha512crypt
 shacrypt
@@ -10404,6 +10433,7 @@ steam
 steam-games
 steamcmd
 stepper
+steps
 sticker
 sticker-pack
 stickers
@@ -10509,7 +10539,6 @@ supermarket
 support
 support-tool
 support-tools
-supporttools
 suppress
 supress-reboot
 surestacks
@@ -10735,6 +10764,8 @@ test-modulemanifest
 test-modulepath
 test-osplatform
 test-psremoting
+test-samcmapplicationexists
+test-samcmpackageexists
 test-userisadministrator
 test-xml
 test123
@@ -10781,7 +10812,6 @@ tfsec
 tfswitch
 tftd
 tftp
-tfvars
 tfvc
 thecrushingemptinessofquotidianexistence
 theme
@@ -11058,16 +11088,13 @@ ud-simpledrawer
 ud-singleselect
 ud-slider
 ud-speechbubble
-ud-step
 ud-stepbar
 ud-stickynavbar
 ud-tagcloud
 ud-timeline
-ud-timeout
 ud-tool
 ud-toploader
 ud-trendline
-ud-typing
 ud-window
 ud-wordtree
 udcm
@@ -11360,6 +11387,7 @@ vm
 vmc
 vmconnect
 vmelamed5
+vmfs
 vmgroup
 vmhost
 vmhostgroup
@@ -11512,7 +11540,6 @@ webcamera
 webcmdlets
 webdav
 webdeploy
-webdeveloper
 webfrequest
 webhdfs
 webhelpdesk
@@ -11840,7 +11867,6 @@ x86
 xa
 xaf
 xaml
-xbase
 xbox
 xclarity
 xconvert
@@ -11875,10 +11901,8 @@ xpertdoc
 xpo
 xprotect
 xpt
-xql
 xrm
 xsa
-xsiam
 xsl
 xtremio
 xtrude
