@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Wednesday, 15 October 2025 09:52:31 UTC
+Updated: Wednesday, 15 October 2025 21:52:21 UTC
 
 .bat
 .env
@@ -243,7 +243,6 @@ adsync
 adt
 aduser
 aduseraccountlockout
-adusergroups
 adv180002
 adv180018
 adv190013
@@ -343,7 +342,6 @@ alt3
 alter
 alteryx
 alto
-alwaysontop
 alwaysonvpn
 alz
 ama.alz
@@ -1308,7 +1306,6 @@ chocobear
 chocolatey
 choice
 choose_file
-choose_file_name
 choose_folder
 chooser
 christaylorcodes
@@ -1340,6 +1337,7 @@ cinema
 cinst
 cipher
 circuit-breaker
+circumlunar
 cireson
 ciresonassetmanagement
 ciresonportal
@@ -2537,6 +2535,7 @@ educational
 eduprom
 effectiveroutes
 effects
+efficiency
 efficientether
 efi
 egrep
@@ -3121,7 +3120,6 @@ fritzbox
 front
 frontapp
 frontdoor
-frontmatter
 frontrange
 fs
 fsc-ps
@@ -3192,6 +3190,9 @@ gdrive
 gedit
 gem
 gemini
+geminiprotocol
+gemlog
+gemtext
 genai
 general
 generate
@@ -3400,7 +3401,6 @@ groundspeak
 group
 group-membership
 group-policy
-groupmanagement
 groupmembership
 grouppolicy
 groups
@@ -3803,6 +3803,7 @@ incidents
 incontact
 indents
 index
+indexdb
 indexmaintenance
 indicator
 indicators
@@ -3830,6 +3831,7 @@ ini
 inifile
 initialization
 initials-avatar
+initiative
 initiator
 injection
 inline-progress
@@ -4286,6 +4288,7 @@ lenel
 length
 lenovo
 less
+lesspass
 letsencrypt
 lf
 lgpo
@@ -5371,6 +5374,7 @@ open
 open-ai
 open-ssh
 openai
+openaiclient
 openamt
 openapi
 opencage
@@ -5420,6 +5424,7 @@ optimizer
 option
 option119
 options
+optionstring
 opus
 oracle
 oraclecloudinfrastructure
@@ -9744,7 +9749,6 @@ school-information-system
 schoolholidays
 schulverwaltung
 science
-scim
 scissors
 scm
 scmanager
@@ -10847,6 +10851,7 @@ tic-tac-toe
 tickets
 tickle
 ticks
+tictactoe
 tiermodel
 time
 timeout
@@ -11094,7 +11099,6 @@ ud-stepbar
 ud-stickynavbar
 ud-tagcloud
 ud-timeline
-ud-timeout
 ud-tool
 ud-toploader
 ud-trendline
@@ -11221,7 +11225,6 @@ user-environment
 useragent
 userdiscovery
 usergroup
-usergroups
 userinterface
 usermail
 usermanagement
@@ -11692,6 +11695,7 @@ windowscredentialsmanager
 windowsdataprotectionapi
 windowsdefender
 windowsdesktop
+windowsdesktopsearch
 windowsdirectories
 windowsdiskcleanup
 windowsdomain
@@ -11958,7 +11962,6 @@ zip
 zip-compression
 zipfile-transform
 zisson
-zivver
 zlib
 zlib-compression
 zoho
