@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Saturday, 18 October 2025 09:52:22 UTC
+Updated: Saturday, 18 October 2025 21:52:30 UTC
 
 .bat
 .env
@@ -568,7 +568,6 @@ asn
 asn.1
 asn1
 asnbank
-asp
 asp.net
 aspire
 aspnet
@@ -852,7 +851,6 @@ azuresqlimport
 azuressas
 azurestack
 azurestackhci
-azurestackhub
 azurestate
 azurestorage
 azurestorageservices
@@ -1183,6 +1181,7 @@ carbon
 carbonawarecomputing
 carbonintensity
 card
+cards
 cardwirth
 careport
 cares
@@ -1363,11 +1362,13 @@ classification
 classified
 claude
 claude3
+claudecode
 clccontrol
 clccontrolapiv1
 clccontrolapiv2
 clean
 clean-up
+cleanarchitecture
 cleanmgr
 cleanup
 cleanup-orphans
@@ -1512,7 +1513,6 @@ cognitiveservice
 cognitiveservices
 cohere
 cohesity
-coinbase
 coinflip
 coinmarketcap
 collaboration
@@ -1554,6 +1554,7 @@ command_line
 command-line-interface
 command-validation
 commandcoverage
+commandhistory
 commandlets
 commandline
 commandr
@@ -1719,6 +1720,9 @@ convert-sid
 convert-windowsimage
 converter
 convertfrom
+convertfrom-json
+convertfrom-jsonashashtable
+convertfrom-jsontohashtable
 convertfrom-string
 convertfrom-stringtable
 convertfrom-table
@@ -1784,6 +1788,7 @@ cq
 cqd
 cqdpowershell
 cqhttp
+cqrs
 crack psmodule
 crash
 crawler
@@ -1841,7 +1846,6 @@ crt.sh
 crud
 crx
 crypto
-crypto-currency
 cryptocompare
 cryptocurrency
 cryptography
@@ -1854,7 +1858,6 @@ csp
 cspm
 csproj
 css
-csstools
 csv
 csv2adx
 csvhelper
@@ -2204,7 +2207,6 @@ digitaltwins
 dilbert
 dimcry
 dircolors
-direct_send
 director
 directories
 directory
@@ -2219,7 +2221,6 @@ directorysearcher
 directorysecurity
 directoryservices
 directrouting
-directsend
 directus
 direnv
 dirkjan
@@ -2243,7 +2244,6 @@ discovery
 discutils
 disk
 disk_to_disk
-disk-space
 diskcleanup
 diskfree
 diskimage
@@ -2655,7 +2655,6 @@ envvar
 envvars
 eol
 eop
-eperl
 ephesoft
 epicor
 episode
@@ -2664,7 +2663,6 @@ eprosima
 epub
 epv
 equality
-erb
 erp
 error
 error-log
@@ -3173,11 +3171,8 @@ gameserver
 gaming
 garage
 gas
-gat
 gateway
 gauge
-gavin
-gavineke
 gbl
 gcbdr
 gce
@@ -3224,6 +3219,7 @@ geoencoding
 geoip
 geolocation
 geosearching
+geospatial
 geotagging
 get
 get_random_password
@@ -3288,6 +3284,7 @@ gist
 git
 git-client
 git-clone
+git-flow
 git-lfs
 git-open
 git-proxy
@@ -3782,6 +3779,7 @@ imagination
 imaging
 imap
 imb
+imei
 imi
 impala
 impersonation
@@ -4085,7 +4083,6 @@ jsonwebencryption
 jsonwebkey
 jsonwebsignature
 jsonwebtoken
-jsp
 jumbo
 jump
 jump-location
@@ -4107,7 +4104,6 @@ jwt
 jwttoken
 k8s
 k8sshell
-k8ssnapshots
 kafka
 kaminario
 karabiner
@@ -4199,7 +4195,6 @@ kubens
 kubernetes
 kubernetesconfiguration
 kubernetesruntime
-kubesnapit
 kubespray
 kubetidy
 kudu
@@ -4727,6 +4722,7 @@ microsoft_teams
 microsoft-entra
 microsoft-entra-id
 microsoft-graph
+microsoft-sentinel
 microsoft-teams
 microsoft-web-platform
 microsoft-windows
@@ -4988,6 +4984,8 @@ mva
 mvc
 mvn
 mvp
+mvr
+mvradaptivecards
 mwsqlserver
 mx
 mxlookup
@@ -5385,10 +5383,10 @@ openai
 openaiclient
 openamt
 openapi
+opencage
 opendata
 openedge
 openfiles
-opengraph
 openhere
 openholidaysapi
 openid
@@ -5813,6 +5811,7 @@ port-scanner
 port70
 portal
 portchecker
+porthunter
 ports
 portscan
 porttest
@@ -5869,6 +5868,7 @@ poshy-wrap-forgit
 poshy-wrap-gem
 poshy-wrap-gh
 poshy-wrap-git
+poshy-wrap-git-flow
 poshy-wrap-git-lfs
 poshy-wrap-golang
 poshy-wrap-helm
@@ -5896,7 +5896,6 @@ poshy-wrap-yum
 poshy-wrap-zypper
 position
 post
-postcode
 postdeployment
 postgre
 postgres
@@ -6018,8 +6017,6 @@ preparead
 preparealldomains
 prepareschema
 prepend
-preprocessing
-preprocessor
 prerequisites
 presentation
 presentationframework
@@ -6529,10 +6526,12 @@ pscommand_gcamg
 pscommand_gcams
 pscommand_gcamu
 pscommand_gcb
+pscommand_gcd
 pscommand_gcem
 pscommand_gcf
 pscommand_gcfl
 pscommand_gcfls
+pscommand_gch
 pscommand_gci
 pscommand_gcl
 pscommand_gclcd
@@ -6555,6 +6554,7 @@ pscommand_gcp
 pscommand_gcpa
 pscommand_gcpc
 pscommand_gcpx
+pscommand_gcr
 pscommand_gcsam
 pscommand_gct
 pscommand_gd
@@ -6649,6 +6649,27 @@ pscommand_geun
 pscommand_gexport
 pscommand_gf
 pscommand_gfa
+pscommand_gfl
+pscommand_gflf
+pscommand_gflff
+pscommand_gflffc
+pscommand_gflfp
+pscommand_gflfpc
+pscommand_gflfpll
+pscommand_gflfs
+pscommand_gflh
+pscommand_gflhf
+pscommand_gflhfc
+pscommand_gflhp
+pscommand_gflhpc
+pscommand_gflhs
+pscommand_gfli
+pscommand_gflr
+pscommand_gflrf
+pscommand_gflrfc
+pscommand_gflrp
+pscommand_gflrpc
+pscommand_gflrs
 pscommand_gfo
 pscommand_gft
 pscommand_gftv
@@ -6925,6 +6946,27 @@ pscommand_invoke-gitconfig
 pscommand_invoke-gitdifftool
 pscommand_invoke-gitfetch
 pscommand_invoke-gitfetchorigin
+pscommand_invoke-gitflow
+pscommand_invoke-gitflowfeature
+pscommand_invoke-gitflowfeaturefinish
+pscommand_invoke-gitflowfeaturefinishcurrent
+pscommand_invoke-gitflowfeaturepublish
+pscommand_invoke-gitflowfeaturepublishcurrent
+pscommand_invoke-gitflowfeaturepull
+pscommand_invoke-gitflowfeaturestart
+pscommand_invoke-gitflowhotfix
+pscommand_invoke-gitflowhotfixfinish
+pscommand_invoke-gitflowhotfixfinishcurrent
+pscommand_invoke-gitflowhotfixpublish
+pscommand_invoke-gitflowhotfixpublishcurrent
+pscommand_invoke-gitflowhotfixstart
+pscommand_invoke-gitflowinit
+pscommand_invoke-gitflowrelease
+pscommand_invoke-gitflowreleasefinish
+pscommand_invoke-gitflowreleasefinishcurrent
+pscommand_invoke-gitflowreleasepublish
+pscommand_invoke-gitflowreleasepublishcurrent
+pscommand_invoke-gitflowreleasestart
 pscommand_invoke-gitgui
 pscommand_invoke-githubapi
 pscommand_invoke-githubapi-bodyempty
@@ -7786,6 +7828,9 @@ pscommand_use-gitbranchmain
 pscommand_use-gitbranchnew
 pscommand_use-gitbranchprevious
 pscommand_use-gitbranchtracked
+pscommand_use-gitflowbranchdevelop
+pscommand_use-gitflowbranchhotfix
+pscommand_use-gitflowbranchrelease
 pscommand_use-gitstashentry
 pscommand_uuid
 pscommand_uuidgen
@@ -8317,6 +8362,27 @@ psfunction_invoke-gitconfig
 psfunction_invoke-gitdifftool
 psfunction_invoke-gitfetch
 psfunction_invoke-gitfetchorigin
+psfunction_invoke-gitflow
+psfunction_invoke-gitflowfeature
+psfunction_invoke-gitflowfeaturefinish
+psfunction_invoke-gitflowfeaturefinishcurrent
+psfunction_invoke-gitflowfeaturepublish
+psfunction_invoke-gitflowfeaturepublishcurrent
+psfunction_invoke-gitflowfeaturepull
+psfunction_invoke-gitflowfeaturestart
+psfunction_invoke-gitflowhotfix
+psfunction_invoke-gitflowhotfixfinish
+psfunction_invoke-gitflowhotfixfinishcurrent
+psfunction_invoke-gitflowhotfixpublish
+psfunction_invoke-gitflowhotfixpublishcurrent
+psfunction_invoke-gitflowhotfixstart
+psfunction_invoke-gitflowinit
+psfunction_invoke-gitflowrelease
+psfunction_invoke-gitflowreleasefinish
+psfunction_invoke-gitflowreleasefinishcurrent
+psfunction_invoke-gitflowreleasepublish
+psfunction_invoke-gitflowreleasepublishcurrent
+psfunction_invoke-gitflowreleasestart
 psfunction_invoke-gitgui
 psfunction_invoke-githubapi
 psfunction_invoke-githubapi-bodyempty
@@ -8945,6 +9011,9 @@ psfunction_use-gitbranchmain
 psfunction_use-gitbranchnew
 psfunction_use-gitbranchprevious
 psfunction_use-gitbranchtracked
+psfunction_use-gitflowbranchdevelop
+psfunction_use-gitflowbranchhotfix
+psfunction_use-gitflowbranchrelease
 psfunction_use-gitstashentry
 psfunction_write-gitcommit
 psfunction_write-gitcommitall
@@ -9516,6 +9585,8 @@ rms
 rng
 roarwrecker
 robbyrussel
+robinhood
+robinhoodcrypto
 robocopy
 robot
 roca
@@ -10606,7 +10677,6 @@ tar
 tar-compression
 target
 task
-task_automation
 task-runner
 task-scheduler
 taskbar
@@ -10833,7 +10903,6 @@ tokenlifetime
 tokens
 toml
 tonoref
-tookit
 tool
 toolbox
 toolcraft
@@ -10861,7 +10930,6 @@ tpm
 tr-064
 tr064
 trace
-traceevent
 tracer
 tracert
 tracing
@@ -10959,7 +11027,6 @@ tutorial
 tv
 tvguide
 tweet
-twig
 twilio
 twincat
 twinkly
@@ -11064,7 +11131,6 @@ ulid
 ultimatetool
 um
 uml
-umn
 ums
 unattend
 unattended
@@ -11266,6 +11332,7 @@ venvlink
 vera
 veracrypt
 verbose psmodule
+verification
 verify
 version
 versioncontrol
