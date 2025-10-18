@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Friday, 17 October 2025 21:52:31 UTC
+Updated: Saturday, 18 October 2025 09:52:22 UTC
 
 .bat
 .env
@@ -66,6 +66,7 @@ Updated: Friday, 17 October 2025 21:52:31 UTC
 7zip
 8.1
 9
+aa
 aac
 aad
 aad-graph
@@ -303,6 +304,7 @@ aivision
 ajustee
 aka.ms
 aks
+aks-hci
 aksarc
 akscluster
 al
@@ -328,6 +330,7 @@ aliases
 aliens
 align
 alignment
+alive
 all
 alletra
 alloydb
@@ -653,6 +656,7 @@ auto
 auto_cd
 auto-completion
 autoadapter
+autoattendant
 autocloudarc
 autocomplete
 autocompletion
@@ -708,6 +712,7 @@ avro
 avs
 avset
 await
+awake
 awakecoding
 awareness
 awesome
@@ -958,6 +963,7 @@ billingbenefits
 bimi
 bin
 bin-obj
+binaries
 binary
 binaryip
 bind
@@ -1141,6 +1147,7 @@ cache
 cachedroles
 cacherecovery
 caf
+caffeine
 cal
 calc
 calculate
@@ -1148,9 +1155,11 @@ calculator
 calendar
 callingcode
 callout
+callqueue
 calvin-and-hobbes
 cam
 camera
+cameras
 campaign
 camtasia
 canarie
@@ -1321,8 +1330,10 @@ cif
 cifv3
 cil
 cim
+cim_computersystem
 cimfs
 cimi
+ciminstance
 cims
 cimsession
 cinema
@@ -1352,7 +1363,6 @@ classification
 classified
 claude
 claude3
-claudecode
 clccontrol
 clccontrolapiv1
 clccontrolapiv2
@@ -1544,7 +1554,6 @@ command_line
 command-line-interface
 command-validation
 commandcoverage
-commandhistory
 commandlets
 commandline
 commandr
@@ -1710,9 +1719,6 @@ convert-sid
 convert-windowsimage
 converter
 convertfrom
-convertfrom-json
-convertfrom-jsonashashtable
-convertfrom-jsontohashtable
 convertfrom-string
 convertfrom-stringtable
 convertfrom-table
@@ -1728,6 +1734,8 @@ converttomd
 conway
 cookie
 coolq
+cooltag1
+cooltag2
 coordinates
 copilot
 copy
@@ -1930,6 +1938,7 @@ dacpackage
 dagger
 dailen
 daily
+dalle3
 dane
 dangling
 dapr
@@ -2204,6 +2213,7 @@ directory-transform
 directorycleanup
 directorymanagement
 directorymarks
+directorymonitoring
 directoryname
 directorysearcher
 directorysecurity
@@ -2252,6 +2262,7 @@ dispose
 distance
 distinguishedname
 distributed-systems
+distributed-tracing
 distributedcache
 distributeddatabase
 distributedfilesystem
@@ -2555,6 +2566,7 @@ elmah-io
 elonmusk
 eloomi
 eloqua
+elvish
 elvui
 em
 emacs
@@ -2617,6 +2629,7 @@ enterprise
 enterprise-scale
 enterprisedb
 enterprisemanager
+enterprisevoice
 entity
 entityframework
 entra
@@ -2675,6 +2688,7 @@ esp-idf
 esp32
 esp32s2
 espressif
+espresso
 esri
 essbase
 est
@@ -2694,6 +2708,7 @@ etl2pcapng
 etrade
 ets
 etw
+etymology
 eulanda
 evaluation
 evaluator
@@ -2724,6 +2739,7 @@ eventwatch
 evergreen
 everix
 evernote
+everydaypowershell
 everydayrewards
 everything
 evilprince2009
@@ -2814,6 +2830,7 @@ extensionmethods
 extensionrisk
 extensions
 external
+external-editor
 externalip
 extract
 extraction
@@ -2833,6 +2850,7 @@ factoryorchestrator
 factoryorchestratorclient
 facts
 faf
+failedlogin
 failovercluster
 failure
 fake
@@ -2858,6 +2876,7 @@ fastlookup
 fastping
 fasttrack
 fat32
+favorite
 favorites
 favouritedirectory
 fb-pro
@@ -3269,7 +3288,7 @@ gist
 git
 git-client
 git-clone
-git-flow
+git-lfs
 git-open
 git-proxy
 git-rename
@@ -3476,6 +3495,7 @@ hbase
 hci
 hcl
 hcm
+hcp
 hcx
 hdfs
 hdhomerun
@@ -3720,6 +3740,7 @@ idna
 idoit
 idp
 idrac
+ids
 ie
 iem
 ifconfig
@@ -3761,7 +3782,6 @@ imagination
 imaging
 imap
 imb
-imei
 imi
 impala
 impersonation
@@ -3817,6 +3837,7 @@ initialization
 initials-avatar
 initiative
 initiator
+injection
 inline-progress
 inlineimageprotocol
 inlineprogress
@@ -3925,6 +3946,7 @@ iothub
 iothubproperties
 iotoperationsservice
 ip
+ip_cameras
 ip-address
 ip-scanner
 ipa
@@ -4103,8 +4125,10 @@ kdialog
 kebab-case
 keenetic
 keepachangelog
+keepalive
 keepass
 keepasslib
+keepawake
 keeper
 kelverion
 kelvin
@@ -4274,6 +4298,7 @@ letsencrypt
 lf
 lgpo
 libgit2
+libmagic
 libraries
 library
 libsecret
@@ -4929,6 +4954,7 @@ mta-sts
 mule
 mulesoft
 multi
+multi-agent
 multi-factor
 multi-language
 multi-platform
@@ -5057,7 +5083,6 @@ netscaler
 netscape
 netsec
 netsh
-netspell
 netstat
 netsuite
 network
@@ -5226,6 +5251,8 @@ nvm-window
 nxt
 nyse
 nzb
+o1
+o3
 o365
 o365mailnotification
 oa
@@ -5419,6 +5446,7 @@ organization
 organizationally
 orgnetwork
 oriflame
+origin
 orion
 orleans
 orm
@@ -5454,6 +5482,7 @@ osuborganizationsubscription
 osubsubscription
 osubusage
 osx
+otel
 otp
 ou
 ou-object
@@ -5479,6 +5508,7 @@ overbite
 override
 ovf
 ovgd
+ovh
 owasp
 owls
 owner
@@ -5487,6 +5517,7 @@ oxyplot
 p2000
 p2s
 pa1reg
+paas
 pac
 pack
 package
@@ -5574,6 +5605,7 @@ passwordmanagement
 passwordmanager
 passwords
 passwordsecure
+passwordspray
 passwordstate
 passwordtool
 passwordvault
@@ -5629,6 +5661,7 @@ perceptual-hash
 perforce
 performance
 performance-counters
+performancecounter
 performancemonitoring
 perl
 permission
@@ -5780,7 +5813,6 @@ port-scanner
 port70
 portal
 portchecker
-porthunter
 ports
 portscan
 porttest
@@ -5805,6 +5837,7 @@ poshlog
 poshorigin
 poshproject
 poshprtg
+poshrest
 poshrsjob
 poshtemplate
 poshwsus
@@ -5836,7 +5869,7 @@ poshy-wrap-forgit
 poshy-wrap-gem
 poshy-wrap-gh
 poshy-wrap-git
-poshy-wrap-git-flow
+poshy-wrap-git-lfs
 poshy-wrap-golang
 poshy-wrap-helm
 poshy-wrap-kubectl
@@ -6125,7 +6158,6 @@ psadt
 psake
 psappdeploytoolkit
 psat
-psazd
 psbackup
 psbbix
 psbicep
@@ -6158,6 +6190,7 @@ pscommand_acsp
 pscommand_add_ssh
 pscommand_add-envpathitem
 pscommand_add-envvarpathitem
+pscommand_add-gitlfstrackedfiles
 pscommand_add-gitremote
 pscommand_add-gitskipworktreeflag
 pscommand_add-gitsubmodule
@@ -6496,12 +6529,10 @@ pscommand_gcamg
 pscommand_gcams
 pscommand_gcamu
 pscommand_gcb
-pscommand_gcd
 pscommand_gcem
 pscommand_gcf
 pscommand_gcfl
 pscommand_gcfls
-pscommand_gch
 pscommand_gci
 pscommand_gcl
 pscommand_gclcd
@@ -6524,7 +6555,6 @@ pscommand_gcp
 pscommand_gcpa
 pscommand_gcpc
 pscommand_gcpx
-pscommand_gcr
 pscommand_gcsam
 pscommand_gct
 pscommand_gd
@@ -6582,6 +6612,7 @@ pscommand_get-gitdiffstash
 pscommand_get-gitdiffstashhead
 pscommand_get-gitdiffstashparent
 pscommand_get-gitignoredfiles
+pscommand_get-gitlfstrackedfiles
 pscommand_get-gitlogbranchcommitsunpushed
 pscommand_get-gitlogcommitspulledlast
 pscommand_get-gitloggraph
@@ -6618,27 +6649,6 @@ pscommand_geun
 pscommand_gexport
 pscommand_gf
 pscommand_gfa
-pscommand_gfl
-pscommand_gflf
-pscommand_gflff
-pscommand_gflffc
-pscommand_gflfp
-pscommand_gflfpc
-pscommand_gflfpll
-pscommand_gflfs
-pscommand_gflh
-pscommand_gflhf
-pscommand_gflhfc
-pscommand_gflhp
-pscommand_gflhpc
-pscommand_gflhs
-pscommand_gfli
-pscommand_gflr
-pscommand_gflrf
-pscommand_gflrfc
-pscommand_gflrp
-pscommand_gflrpc
-pscommand_gflrs
 pscommand_gfo
 pscommand_gft
 pscommand_gftv
@@ -6688,6 +6698,10 @@ pscommand_gitignore-reload
 pscommand_gittowork
 pscommand_gl
 pscommand_glf
+pscommand_glfsi
+pscommand_glfsls
+pscommand_glfsmi
+pscommand_glfst
 pscommand_glg
 pscommand_glgo
 pscommand_glgs
@@ -6736,6 +6750,7 @@ pscommand_gpatch
 pscommand_gpdo
 pscommand_gpf
 pscommand_gpl
+pscommand_gplfs
 pscommand_gplr
 pscommand_gplrs
 pscommand_gpo
@@ -6910,27 +6925,6 @@ pscommand_invoke-gitconfig
 pscommand_invoke-gitdifftool
 pscommand_invoke-gitfetch
 pscommand_invoke-gitfetchorigin
-pscommand_invoke-gitflow
-pscommand_invoke-gitflowfeature
-pscommand_invoke-gitflowfeaturefinish
-pscommand_invoke-gitflowfeaturefinishcurrent
-pscommand_invoke-gitflowfeaturepublish
-pscommand_invoke-gitflowfeaturepublishcurrent
-pscommand_invoke-gitflowfeaturepull
-pscommand_invoke-gitflowfeaturestart
-pscommand_invoke-gitflowhotfix
-pscommand_invoke-gitflowhotfixfinish
-pscommand_invoke-gitflowhotfixfinishcurrent
-pscommand_invoke-gitflowhotfixpublish
-pscommand_invoke-gitflowhotfixpublishcurrent
-pscommand_invoke-gitflowhotfixstart
-pscommand_invoke-gitflowinit
-pscommand_invoke-gitflowrelease
-pscommand_invoke-gitflowreleasefinish
-pscommand_invoke-gitflowreleasefinishcurrent
-pscommand_invoke-gitflowreleasepublish
-pscommand_invoke-gitflowreleasepublishcurrent
-pscommand_invoke-gitflowreleasestart
 pscommand_invoke-gitgui
 pscommand_invoke-githubapi
 pscommand_invoke-githubapi-bodyempty
@@ -6938,6 +6932,8 @@ pscommand_invoke-githubapi-bodyfields
 pscommand_invoke-githubapi-bodyfile
 pscommand_invoke-githubapi-bodyjson
 pscommand_invoke-githubapi-bodyraw
+pscommand_invoke-gitlfsinstall
+pscommand_invoke-gitlfsmigrateimport
 pscommand_invoke-gitmerge
 pscommand_invoke-gitpull
 pscommand_invoke-gitpush
@@ -7790,9 +7786,6 @@ pscommand_use-gitbranchmain
 pscommand_use-gitbranchnew
 pscommand_use-gitbranchprevious
 pscommand_use-gitbranchtracked
-pscommand_use-gitflowbranchdevelop
-pscommand_use-gitflowbranchhotfix
-pscommand_use-gitflowbranchrelease
 pscommand_use-gitstashentry
 pscommand_uuid
 pscommand_uuidgen
@@ -7965,6 +7958,7 @@ psfunction_aar
 psfunction_add_ssh
 psfunction_add-envpathitem
 psfunction_add-envvarpathitem
+psfunction_add-gitlfstrackedfiles
 psfunction_add-gitremote
 psfunction_add-gitskipworktreeflag
 psfunction_add-gitsubmodule
@@ -8172,6 +8166,7 @@ psfunction_get-gitdiffstash
 psfunction_get-gitdiffstashhead
 psfunction_get-gitdiffstashparent
 psfunction_get-gitignoredfiles
+psfunction_get-gitlfstrackedfiles
 psfunction_get-gitlogbranchcommitsunpushed
 psfunction_get-gitlogcommitspulledlast
 psfunction_get-gitloggraph
@@ -8236,6 +8231,7 @@ psfunction_git-global-show-proxy
 psfunction_git-show-proxy
 psfunction_gitignore-reload
 psfunction_gittowork
+psfunction_gplfs
 psfunction_hostname
 psfunction_invoke-aptcachepolicy
 psfunction_invoke-aptcachesearch
@@ -8321,27 +8317,6 @@ psfunction_invoke-gitconfig
 psfunction_invoke-gitdifftool
 psfunction_invoke-gitfetch
 psfunction_invoke-gitfetchorigin
-psfunction_invoke-gitflow
-psfunction_invoke-gitflowfeature
-psfunction_invoke-gitflowfeaturefinish
-psfunction_invoke-gitflowfeaturefinishcurrent
-psfunction_invoke-gitflowfeaturepublish
-psfunction_invoke-gitflowfeaturepublishcurrent
-psfunction_invoke-gitflowfeaturepull
-psfunction_invoke-gitflowfeaturestart
-psfunction_invoke-gitflowhotfix
-psfunction_invoke-gitflowhotfixfinish
-psfunction_invoke-gitflowhotfixfinishcurrent
-psfunction_invoke-gitflowhotfixpublish
-psfunction_invoke-gitflowhotfixpublishcurrent
-psfunction_invoke-gitflowhotfixstart
-psfunction_invoke-gitflowinit
-psfunction_invoke-gitflowrelease
-psfunction_invoke-gitflowreleasefinish
-psfunction_invoke-gitflowreleasefinishcurrent
-psfunction_invoke-gitflowreleasepublish
-psfunction_invoke-gitflowreleasepublishcurrent
-psfunction_invoke-gitflowreleasestart
 psfunction_invoke-gitgui
 psfunction_invoke-githubapi
 psfunction_invoke-githubapi-bodyempty
@@ -8349,6 +8324,8 @@ psfunction_invoke-githubapi-bodyfields
 psfunction_invoke-githubapi-bodyfile
 psfunction_invoke-githubapi-bodyjson
 psfunction_invoke-githubapi-bodyraw
+psfunction_invoke-gitlfsinstall
+psfunction_invoke-gitlfsmigrateimport
 psfunction_invoke-gitmerge
 psfunction_invoke-gitpull
 psfunction_invoke-gitpush
@@ -8968,9 +8945,6 @@ psfunction_use-gitbranchmain
 psfunction_use-gitbranchnew
 psfunction_use-gitbranchprevious
 psfunction_use-gitbranchtracked
-psfunction_use-gitflowbranchdevelop
-psfunction_use-gitflowbranchhotfix
-psfunction_use-gitflowbranchrelease
 psfunction_use-gitstashentry
 psfunction_write-gitcommit
 psfunction_write-gitcommitall
@@ -9010,6 +8984,7 @@ psjobs
 psjobthreads
 pskeepass
 psllm
+pslocalgallery
 psloganalytics
 psm
 psm1
@@ -9029,6 +9004,7 @@ psnavigation
 psnexosisclient
 psngenposh
 psobject
+psoutlog
 pspath
 pspersonio
 pspowerhour
@@ -9212,6 +9188,8 @@ rag
 raidcontrollercmdlets
 railways
 rainbow
+raindrop
+raindrop.io
 raisers
 raisersedge
 raj
@@ -9364,6 +9342,7 @@ releasedefinition
 releasehealth
 releasemanagement
 releasenotes
+releases
 relevance
 relic
 reload
@@ -9415,6 +9394,7 @@ rename-gitbranch
 render
 reonboarding
 repair
+repair-msauth
 reparse
 reparsepoint
 repeat
@@ -9536,8 +9516,6 @@ rms
 rng
 roarwrecker
 robbyrussel
-robinhood
-robinhoodcrypto
 robocopy
 robot
 roca
@@ -9811,6 +9789,7 @@ securescore
 securesphere
 securestring
 security
+security_cameras
 security-awareness-training
 security-policy
 security-score
@@ -10230,7 +10209,6 @@ speedometer
 speedtest
 speedtester
 spejder
-spellcheck
 spelling
 spf
 spfcheck
@@ -10461,6 +10439,7 @@ sub
 sub-directory
 sub-menu
 subatomix
+subdirectory
 subject
 subjectname
 sublimetext
@@ -10505,6 +10484,7 @@ suppress
 supress-reboot
 surestacks
 surround
+surveillance
 survey
 surveymonkey
 sus
@@ -11042,6 +11022,7 @@ ud-numbermask
 ud-orgchart
 ud-piechart3d
 ud-pivottable
+ud-progressstepbar
 ud-rangeslider
 ud-readingbar
 ud-scrollspy
@@ -11285,7 +11266,6 @@ venvlink
 vera
 veracrypt
 verbose psmodule
-verification
 verify
 version
 versioncontrol
@@ -11433,7 +11413,6 @@ vssetup
 vsshell
 vst
 vsteambuilder
-vsteams
 vstest
 vsts
 vsts-cli
@@ -11448,6 +11427,7 @@ vvx
 vxrail
 w32time
 w365
+w3svc
 w3w
 waa
 waas
@@ -11732,6 +11712,7 @@ wmf5
 wmi
 wmifilter
 wmipermanentevents
+wms
 wol
 wolfram
 wolframalpha
