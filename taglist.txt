@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Saturday, 18 October 2025 21:52:30 UTC
+Updated: Sunday, 19 October 2025 09:52:21 UTC
 
 .bat
 .env
@@ -143,7 +143,6 @@ activedirectry-html
 activeefficiency
 activehours
 activenet
-activenetapi
 activenetworkstation
 activenetworkstationservice
 activerecord
@@ -397,8 +396,6 @@ ansi
 ansi-art
 ansible
 ansible-control-node
-ansible-playbook
-ansible-vault
 ansiblecontrolnode
 ansiblectl
 ansibletower
@@ -568,6 +565,7 @@ asn
 asn.1
 asn1
 asnbank
+asp
 asp.net
 aspire
 aspnet
@@ -851,6 +849,7 @@ azuresqlimport
 azuressas
 azurestack
 azurestackhci
+azurestackhub
 azurestate
 azurestorage
 azurestorageservices
@@ -1046,7 +1045,6 @@ borg
 bot
 bots
 botservice
-bouncer
 boundaries
 boundarygroups
 bounty
@@ -1163,7 +1161,6 @@ camtasia
 canarie
 canary
 cancel
-cancellation
 candlestick
 canonical
 cantara
@@ -1362,7 +1359,6 @@ classification
 classified
 claude
 claude3
-claudecode
 clccontrol
 clccontrolapiv1
 clccontrolapiv2
@@ -1513,6 +1509,7 @@ cognitiveservice
 cognitiveservices
 cohere
 cohesity
+coinbase
 coinflip
 coinmarketcap
 collaboration
@@ -1846,6 +1843,7 @@ crt.sh
 crud
 crx
 crypto
+crypto-currency
 cryptocompare
 cryptocurrency
 cryptography
@@ -1858,6 +1856,7 @@ csp
 cspm
 csproj
 css
+csstools
 csv
 csv2adx
 csvhelper
@@ -1865,7 +1864,6 @@ ctap
 ctf
 ctglobal
 ctl
-ctrl+c
 ctx
 ctype
 cu
@@ -2207,6 +2205,7 @@ digitaltwins
 dilbert
 dimcry
 dircolors
+direct_send
 director
 directories
 directory
@@ -2221,6 +2220,7 @@ directorysearcher
 directorysecurity
 directoryservices
 directrouting
+directsend
 directus
 direnv
 dirkjan
@@ -2655,6 +2655,7 @@ envvar
 envvars
 eol
 eop
+eperl
 ephesoft
 epicor
 episode
@@ -2663,6 +2664,7 @@ eprosima
 epub
 epv
 equality
+erb
 erp
 error
 error-log
@@ -2970,7 +2972,6 @@ finance
 finance&operations
 financeandoperations
 financeoperations
-finances
 financial
 financialedge
 financialmodeling
@@ -3022,7 +3023,6 @@ flatten
 flaui
 flavor
 fleet
-fleetappsmanagement
 fleetdm
 fleetsoftwareupdate
 flex
@@ -3171,8 +3171,11 @@ gameserver
 gaming
 garage
 gas
+gat
 gateway
 gauge
+gavin
+gavineke
 gbl
 gcbdr
 gce
@@ -3835,7 +3838,6 @@ initialization
 initials-avatar
 initiative
 initiator
-injection
 inline-progress
 inlineimageprotocol
 inlineprogress
@@ -4083,6 +4085,7 @@ jsonwebencryption
 jsonwebkey
 jsonwebsignature
 jsonwebtoken
+jsp
 jumbo
 jump
 jump-location
@@ -4104,6 +4107,7 @@ jwt
 jwttoken
 k8s
 k8sshell
+k8ssnapshots
 kafka
 kaminario
 karabiner
@@ -4195,6 +4199,7 @@ kubens
 kubernetes
 kubernetesconfiguration
 kubernetesruntime
+kubesnapit
 kubespray
 kubetidy
 kudu
@@ -4293,7 +4298,6 @@ letsencrypt
 lf
 lgpo
 libgit2
-libmagic
 libraries
 library
 libsecret
@@ -5046,7 +5050,6 @@ nederland
 nedyalkov
 nemovote
 neo4j
-neocities
 neofetch
 neonpostgres
 neovim
@@ -5081,6 +5084,7 @@ netscaler
 netscape
 netsec
 netsh
+netspell
 netstat
 netsuite
 network
@@ -5387,6 +5391,7 @@ opencage
 opendata
 openedge
 openfiles
+opengraph
 openhere
 openholidaysapi
 openid
@@ -5896,6 +5901,7 @@ poshy-wrap-yum
 poshy-wrap-zypper
 position
 post
+postcode
 postdeployment
 postgre
 postgres
@@ -6017,6 +6023,8 @@ preparead
 preparealldomains
 prepareschema
 prepend
+preprocessing
+preprocessor
 prerequisites
 presentation
 presentationframework
@@ -6155,6 +6163,7 @@ psadt
 psake
 psappdeploytoolkit
 psat
+psazd
 psbackup
 psbbix
 psbicep
@@ -9062,7 +9071,6 @@ psmodule psedition_desktop
 psmodulebase
 psmodulepath
 psmodules
-psmp
 psmsgraph
 psmsgraphapi
 psmssql
@@ -9257,8 +9265,6 @@ rag
 raidcontrollercmdlets
 railways
 rainbow
-raindrop
-raindrop.io
 raisers
 raisersedge
 raj
@@ -10280,6 +10286,7 @@ speedometer
 speedtest
 speedtester
 spejder
+spellcheck
 spelling
 spf
 spfcheck
@@ -10321,7 +10328,6 @@ sqlautomation
 sqlbackup
 sqlbits
 sqlbrowser
-sqlbulkcopy
 sqlchangeautomation
 sqlclient
 sqlcmd
@@ -10436,7 +10442,6 @@ statuscake
 statuscode
 statusmonitor
 statusreportingcomponent
-staytus
 stderr
 stdio
 stdout
@@ -10542,7 +10547,6 @@ suggestion
 suitecrm
 sullivan
 summary
-summit
 sumologic
 supercell
 superheros
@@ -10903,6 +10907,7 @@ tokenlifetime
 tokens
 toml
 tonoref
+tookit
 tool
 toolbox
 toolcraft
@@ -10930,6 +10935,7 @@ tpm
 tr-064
 tr064
 trace
+traceevent
 tracer
 tracert
 tracing
@@ -11027,6 +11033,7 @@ tutorial
 tv
 tvguide
 tweet
+twig
 twilio
 twincat
 twinkly
@@ -11131,6 +11138,7 @@ ulid
 ultimatetool
 um
 uml
+umn
 ums
 unattend
 unattended
@@ -11480,6 +11488,7 @@ vssetup
 vsshell
 vst
 vsteambuilder
+vsteams
 vstest
 vsts
 vsts-cli
