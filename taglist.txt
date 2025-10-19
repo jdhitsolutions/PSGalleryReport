@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Sunday, 19 October 2025 09:52:21 UTC
+Updated: Sunday, 19 October 2025 21:52:30 UTC
 
 .bat
 .env
@@ -143,6 +143,7 @@ activedirectry-html
 activeefficiency
 activehours
 activenet
+activenetapi
 activenetworkstation
 activenetworkstationservice
 activerecord
@@ -396,6 +397,8 @@ ansi
 ansi-art
 ansible
 ansible-control-node
+ansible-playbook
+ansible-vault
 ansiblecontrolnode
 ansiblectl
 ansibletower
@@ -1045,6 +1048,7 @@ borg
 bot
 bots
 botservice
+bouncer
 boundaries
 boundarygroups
 bounty
@@ -1161,6 +1165,7 @@ camtasia
 canarie
 canary
 cancel
+cancellation
 candlestick
 canonical
 cantara
@@ -1359,6 +1364,7 @@ classification
 classified
 claude
 claude3
+claudecode
 clccontrol
 clccontrolapiv1
 clccontrolapiv2
@@ -1625,7 +1631,6 @@ configapi
 configascode
 configdata
 configkey
-configmap
 configmgr
 configmgrcbdsc
 configuration
@@ -1864,6 +1869,7 @@ ctap
 ctf
 ctglobal
 ctl
+ctrl+c
 ctx
 ctype
 cu
@@ -2290,7 +2296,6 @@ dmarc
 dmarccheck
 dmgr
 dmi
-dmtf
 dmx
 dnd
 dnf
@@ -2972,6 +2977,7 @@ finance
 finance&operations
 financeandoperations
 financeoperations
+finances
 financial
 financialedge
 financialmodeling
@@ -3023,6 +3029,7 @@ flatten
 flaui
 flavor
 fleet
+fleetappsmanagement
 fleetdm
 fleetsoftwareupdate
 flex
@@ -3171,11 +3178,8 @@ gameserver
 gaming
 garage
 gas
-gat
 gateway
 gauge
-gavin
-gavineke
 gbl
 gcbdr
 gce
@@ -3838,6 +3842,7 @@ initialization
 initials-avatar
 initiative
 initiator
+injection
 inline-progress
 inlineimageprotocol
 inlineprogress
@@ -4298,6 +4303,7 @@ letsencrypt
 lf
 lgpo
 libgit2
+libmagic
 libraries
 library
 libsecret
@@ -4726,7 +4732,6 @@ microsoft_teams
 microsoft-entra
 microsoft-entra-id
 microsoft-graph
-microsoft-sentinel
 microsoft-teams
 microsoft-web-platform
 microsoft-windows
@@ -5050,6 +5055,7 @@ nederland
 nedyalkov
 nemovote
 neo4j
+neocities
 neofetch
 neonpostgres
 neovim
@@ -5084,7 +5090,6 @@ netscaler
 netscape
 netsec
 netsh
-netspell
 netstat
 netsuite
 network
@@ -5391,7 +5396,6 @@ opencage
 opendata
 openedge
 openfiles
-opengraph
 openhere
 openholidaysapi
 openid
@@ -5895,7 +5899,6 @@ poshy-wrap-tmux
 poshy-wrap-vagrant
 poshy-wrap-vault
 poshy-wrap-vscode
-poshy-wrap-wget
 poshy-wrap-wt
 poshy-wrap-yum
 poshy-wrap-zypper
@@ -7571,7 +7574,6 @@ pscommand_measure-envvarchanges
 pscommand_merge-gitrepositoryfromoriginbranchmain
 pscommand_merge-gitrepositoryfromupstreambranchmain
 pscommand_mi
-pscommand_mirrorsite
 pscommand_move-gittrackedfiles
 pscommand_mp
 pscommand_mpom
@@ -8847,7 +8849,6 @@ psfunction_local-ignore
 psfunction_measure-envvarchanges
 psfunction_merge-gitrepositoryfromoriginbranchmain
 psfunction_merge-gitrepositoryfromupstreambranchmain
-psfunction_mirrorsite
 psfunction_move-gittrackedfiles
 psfunction_new-gitbranchfromstash
 psfunction_new-gitbranchtracked
@@ -9071,6 +9072,7 @@ psmodule psedition_desktop
 psmodulebase
 psmodulepath
 psmodules
+psmp
 psmsgraph
 psmsgraphapi
 psmssql
@@ -9150,7 +9152,6 @@ publishedmodules
 publisher
 publishers
 publishing
-publishmap
 pubsub
 pubxml
 pulldistributionpoint
@@ -9265,6 +9266,8 @@ rag
 raidcontrollercmdlets
 railways
 rainbow
+raindrop
+raindrop.io
 raisers
 raisersedge
 raj
@@ -9927,7 +9930,6 @@ sensitivity
 sensitivitylabels
 sensor
 sensors
-sensu
 sentinel
 sentinelone
 sentry
@@ -10158,7 +10160,6 @@ smb
 smb1
 smb2
 smbios
-smbios-information
 smfoxx
 smfx
 smileys
@@ -10286,7 +10287,6 @@ speedometer
 speedtest
 speedtester
 spejder
-spellcheck
 spelling
 spf
 spfcheck
@@ -10328,6 +10328,7 @@ sqlautomation
 sqlbackup
 sqlbits
 sqlbrowser
+sqlbulkcopy
 sqlchangeautomation
 sqlclient
 sqlcmd
@@ -10442,6 +10443,7 @@ statuscake
 statuscode
 statusmonitor
 statusreportingcomponent
+staytus
 stderr
 stdio
 stdout
@@ -10547,6 +10549,7 @@ suggestion
 suitecrm
 sullivan
 summary
+summit
 sumologic
 supercell
 superheros
@@ -10884,8 +10887,6 @@ titanhq
 title
 tld
 tls
-tls11
-tls12
 tlsa
 tlsprotocol
 tlsrpt
@@ -10907,7 +10908,6 @@ tokenlifetime
 tokens
 toml
 tonoref
-tookit
 tool
 toolbox
 toolcraft
@@ -11138,7 +11138,6 @@ ulid
 ultimatetool
 um
 uml
-umn
 ums
 unattend
 unattended
@@ -11596,7 +11595,6 @@ webtesting
 webtime
 webview2
 wec
-wecutil
 weekday
 weekly
 wef
@@ -11607,8 +11605,6 @@ well-known
 wem
 wemsdk
 wer
-wfp
-wget
 what3words
 whatif
 whatismyip
