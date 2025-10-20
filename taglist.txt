@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Sunday, 19 October 2025 21:52:30 UTC
+Updated: Monday, 20 October 2025 09:52:41 UTC
 
 .bat
 .env
@@ -1631,6 +1631,7 @@ configapi
 configascode
 configdata
 configkey
+configmap
 configmgr
 configmgrcbdsc
 configuration
@@ -2220,7 +2221,6 @@ directory-transform
 directorycleanup
 directorymanagement
 directorymarks
-directorymonitoring
 directoryname
 directorysearcher
 directorysecurity
@@ -2296,6 +2296,7 @@ dmarc
 dmarccheck
 dmgr
 dmi
+dmtf
 dmx
 dnd
 dnf
@@ -3178,8 +3179,11 @@ gameserver
 gaming
 garage
 gas
+gat
 gateway
 gauge
+gavin
+gavineke
 gbl
 gcbdr
 gce
@@ -3429,6 +3433,7 @@ gui
 gui.cs
 guid
 guidtoname
+guidtranslation
 guildwars2
 gumby
 guru
@@ -4732,6 +4737,7 @@ microsoft_teams
 microsoft-entra
 microsoft-entra-id
 microsoft-graph
+microsoft-sentinel
 microsoft-teams
 microsoft-web-platform
 microsoft-windows
@@ -5367,7 +5373,6 @@ oneviewglobaldashboard
 online
 online-backup
 onlinebackup
-onnx
 onprem
 onpremisesdatagatewayhamgmt
 onq
@@ -5396,6 +5401,7 @@ opencage
 opendata
 openedge
 openfiles
+opengraph
 openhere
 openholidaysapi
 openid
@@ -5691,7 +5697,6 @@ pfx
 pfy
 pgp
 phabricator
-phi
 philips
 philosophical
 philpritchett
@@ -5899,6 +5904,7 @@ poshy-wrap-tmux
 poshy-wrap-vagrant
 poshy-wrap-vault
 poshy-wrap-vscode
+poshy-wrap-wget
 poshy-wrap-wt
 poshy-wrap-yum
 poshy-wrap-zypper
@@ -7574,6 +7580,7 @@ pscommand_measure-envvarchanges
 pscommand_merge-gitrepositoryfromoriginbranchmain
 pscommand_merge-gitrepositoryfromupstreambranchmain
 pscommand_mi
+pscommand_mirrorsite
 pscommand_move-gittrackedfiles
 pscommand_mp
 pscommand_mpom
@@ -8849,6 +8856,7 @@ psfunction_local-ignore
 psfunction_measure-envvarchanges
 psfunction_merge-gitrepositoryfromoriginbranchmain
 psfunction_merge-gitrepositoryfromupstreambranchmain
+psfunction_mirrorsite
 psfunction_move-gittrackedfiles
 psfunction_new-gitbranchfromstash
 psfunction_new-gitbranchtracked
@@ -9152,6 +9160,7 @@ publishedmodules
 publisher
 publishers
 publishing
+publishmap
 pubsub
 pubxml
 pulldistributionpoint
@@ -9930,6 +9939,7 @@ sensitivity
 sensitivitylabels
 sensor
 sensors
+sensu
 sentinel
 sentinelone
 sentry
@@ -10160,6 +10170,7 @@ smb
 smb1
 smb2
 smbios
+smbios-information
 smfoxx
 smfx
 smileys
@@ -10684,6 +10695,7 @@ tar
 tar-compression
 target
 task
+task_automation
 task-runner
 task-scheduler
 taskbar
@@ -10887,6 +10899,8 @@ titanhq
 title
 tld
 tls
+tls11
+tls12
 tlsa
 tlsprotocol
 tlsrpt
@@ -10906,8 +10920,10 @@ toggle
 token
 tokenlifetime
 tokens
+tombstone
 toml
 tonoref
+tookit
 tool
 toolbox
 toolcraft
@@ -10935,7 +10951,6 @@ tpm
 tr-064
 tr064
 trace
-traceevent
 tracer
 tracert
 tracing
@@ -11138,6 +11153,7 @@ ulid
 ultimatetool
 um
 uml
+umn
 ums
 unattend
 unattended
@@ -11595,6 +11611,7 @@ webtesting
 webtime
 webview2
 wec
+wecutil
 weekday
 weekly
 wef
@@ -11605,6 +11622,8 @@ well-known
 wem
 wemsdk
 wer
+wfp
+wget
 what3words
 whatif
 whatismyip

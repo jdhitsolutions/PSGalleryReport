@@ -3,13 +3,177 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
-## [ps-jsonlogger](https://www.powershellgallery.com/Packages/ps-jsonlogger/1.1.0) | 1.1.0
+## [GenXdev](https://www.powershellgallery.com/Packages/GenXdev/1.302.2025) | 1.302.2025
 
-### Published: 10/19/2025 21:39:54 by Bryan Cuneo
+### Published: 10/20/2025 09:18:50 by René Vaessen
+
+GenXdev PowerShell Utilities and helpers
+
+__Downloads__: 753 | __Repository__: https://powershell.genxdev.net/
+
+## [GenXdev.Media](https://www.powershellgallery.com/Packages/GenXdev.Media/1.302.2025) | 1.302.2025
+
+### Published: 10/20/2025 09:17:42 by genXdev
+
+A Windows PowerShell module that helps with converting media files like pictures and video files.
+
+__Downloads__: 289 | __Repository__: https://powershell.genxdev.net/#GenXdev.Media
+
+## [GenXdev.Coding](https://www.powershellgallery.com/Packages/GenXdev.Coding/1.302.2025) | 1.302.2025
+
+### Published: 10/20/2025 09:16:34 by genXdev
+
+A Windows PowerShell module that helps being more productive with coding tasks.
+
+__Downloads__: 614 | __Repository__: https://powershell.genxdev.net/#GenXdev.Coding
+
+## [GenXdev.AI](https://www.powershellgallery.com/Packages/GenXdev.AI/1.302.2025) | 1.302.2025
+
+### Published: 10/20/2025 09:15:25 by genXdev
+
+A Windows PowerShell module for local AI related operations
+
+__Downloads__: 929 | __Repository__: https://powershell.genxdev.net/#GenXdev.AI
+
+## [GenXdev.Queries](https://www.powershellgallery.com/Packages/GenXdev.Queries/1.302.2025) | 1.302.2025
+
+### Published: 10/20/2025 09:14:12 by genXdev
+
+A Windows PowerShell module for finding resources and information on the internet
+
+__Downloads__: 1,814 | __Repository__: https://powershell.genxdev.net/#GenXdev.Queries
+
+## [GenXdev.Console](https://www.powershellgallery.com/Packages/GenXdev.Console/1.302.2025) | 1.302.2025
+
+### Published: 10/20/2025 09:13:03 by genXdev
+
+A Windows PowerShell module for enhancing the commandline experience
+
+__Downloads__: 1,792 | __Repository__: https://powershell.genxdev.net/#GenXdev.Console
+
+## [GenXdev.Webbrowser](https://www.powershellgallery.com/Packages/GenXdev.Webbrowser/1.302.2025) | 1.302.2025
+
+### Published: 10/20/2025 09:11:53 by genXdev
+
+A Windows PowerShell module that allows you to run scripts against your casual desktop webbrowser-tab
+
+__Downloads__: 9,588 | __Repository__: https://powershell.genxdev.net/#GenXdev.Webbrowser
+
+## [GenXdev.Windows](https://www.powershellgallery.com/Packages/GenXdev.Windows/1.302.2025) | 1.302.2025
+
+### Published: 10/20/2025 09:10:45 by genXdev
+
+A Windows PowerShell module that provides UI Windows manipulation helpers
+
+__Downloads__: 9,434 | __Repository__: https://powershell.genxdev.net/#GenXdev.Windows
+
+## [GenXdev.Data](https://www.powershellgallery.com/Packages/GenXdev.Data/1.302.2025) | 1.302.2025
+
+### Published: 10/20/2025 09:09:35 by genXdev
+
+A Windows PowerShell module with helpers for working with data and databases
+
+__Downloads__: 1,159 | __Repository__: https://powershell.genxdev.net/#GenXdev.Data
+
+## [GenXdev.Helpers](https://www.powershellgallery.com/Packages/GenXdev.Helpers/1.302.2025) | 1.302.2025
+
+### Published: 10/20/2025 09:08:25 by genXdev
+
+A Windows PowerShell module with helpers mostly used by other GenXdev modules
+
+__Downloads__: 9,925 | __Repository__: https://powershell.genxdev.net/#GenXdev.Helpers
+
+## [GenXdev.FileSystem](https://www.powershellgallery.com/Packages/GenXdev.FileSystem/1.302.2025) | 1.302.2025
+
+### Published: 10/20/2025 09:07:14 by genXdev
+
+A Windows PowerShell module for basic and advanced file management tasks
+
+__Downloads__: 10,044 | __Repository__: https://powershell.genxdev.net/#GenXdev.FileSystem
+
+## [Fortytwo.ChangeEmail.Agent](https://www.powershellgallery.com/Packages/Fortytwo.ChangeEmail.Agent/1.5.1) | 1.5.1
+
+### Published: 10/20/2025 09:03:32 by Marius Solbakken Mellum
+
+A module for completing email change requests from the Bytt.Email service into Active Directory or Entra ID / Exchange Online
+
+__Downloads__: 230 | __Repository__: 
+
+## [Fortytwo.IAM.UserWriteback](https://www.powershellgallery.com/Packages/Fortytwo.IAM.UserWriteback/1.2.0) | 1.2.0
+
+### Published: 10/20/2025 07:26:08 by Marius Solbakken Mellum
+
+A module for synchronizing users from Entra ID into Active Directory, and writing onpremises* attributes back to Entra ID. Useful when certain users still require on-premises AD users, while all users have their SOA convert to Entra ID.
+
+See the project page for more information on usage: https://github.com/fortytwoservices/powershell-module-entraiduserwriteback
+
+__Downloads__: 11 | __Repository__: 
+
+## [Bricklead.BCDev.Tools](https://www.powershellgallery.com/Packages/Bricklead.BCDev.Tools/0.1.9424.33888) | 0.1.9424.33888
+
+### Published: 10/20/2025 07:25:55 by Yves DESRUMAUX
+
+PowerShell module, which makes it easier to work Around AL developments.
+
+__Downloads__: 2,384 | __Repository__: 
+
+## [Fortytwo.CheckID.PasswordAgent](https://www.powershellgallery.com/Packages/Fortytwo.CheckID.PasswordAgent/1.1.2) | 1.1.2
+
+### Published: 10/20/2025 06:38:11 by Marius Solbakken Mellum
+
+A module for completing password reset requests from the CheckID service into Active Directory
+
+__Downloads__: 88 | __Repository__: 
+
+## [OSD](https://www.powershellgallery.com/Packages/OSD/25.10.20.2) | 25.10.20.2
+
+### Published: 10/20/2025 05:08:15 by David Segura . Gary Blok . Michael Escamilla
+
+OSD PowerShell Module for Windows Deployment
+
+__Downloads__: 5,291,755 | __Repository__: https://github.com/OSDeploy/OSD
+
+## [ps-jsonlogger](https://www.powershellgallery.com/Packages/ps-jsonlogger/1.2.0) | 1.2.0
+
+### Published: 10/20/2025 03:57:42 by Bryan Cuneo
 
 ps-jsonlogger is a small, dependency-free structured logging module for PowerShell that offers both compact JSON logs on-disk and human-readble console output. It supports log levels, context objects, full call stack inclusion, and more.
 
 __Downloads__: 0 | __Repository__: https://github.com/BryanCuneo/ps-jsonlogger
+
+## [fount-pwsh](https://www.powershellgallery.com/Packages/fount-pwsh/0.1.7) | 0.1.7
+
+### Published: 10/20/2025 03:26:27 by steve02081504
+
+Allows you:
+- easily invoke, launch, and install fount in pwsh
+- linking fount characters to pwsh for companion and AI assist
+
+__Downloads__: 3,047 | __Repository__: https://github.com/steve02081504/fount-pwsh
+
+## [Microsoft.PowerPlatform.DevOps](https://www.powershellgallery.com/Packages/Microsoft.PowerPlatform.DevOps/2.0.230) | 2.0.230
+
+### Published: 10/19/2025 23:29:21 by Dylan Haskins and Eugene Van Staden
+
+A Toolset for Implementing and Adopting a full ALM strategy for the Microsoft PowerPlatform.
+
+__Downloads__: 86,404 | __Repository__: https://github.com/dylanhaskins/Microsoft.PowerPlatform.DevOps.Documentation
+
+## [SiteForge](https://www.powershellgallery.com/Packages/SiteForge/1.0.2) | 1.0.2
+
+### Published: 10/19/2025 23:26:30 by jakoby
+
+Automates deployment of NGINX web servers, SSL setup, and repo cloning on Ubuntu systems using PowerShell 7.
+
+__Downloads__: 5 | __Repository__: 
+
+## [ADEffectiveAccess](https://www.powershellgallery.com/Packages/ADEffectiveAccess/1.0.0) | 1.0.0
+
+### Published: 10/19/2025 22:55:32 by Santiago Squarzon
+
+AD ACLs with readable rights, flexible LDAP and no AD module needed.
+
+__Downloads__: 0 | __Repository__: https://github.com/santisq/ADEffectiveAccess
 
 ## [ScriptBeacon](https://www.powershellgallery.com/Packages/ScriptBeacon/0.2.2) | 0.2.2
 
@@ -59,14 +223,6 @@ __Downloads__: 1,067 | __Repository__:
 AI-powered scripting tools, including chat, summarization, and generation.
 
 __Downloads__: 2,172 | __Repository__: 
-
-## [OSD](https://www.powershellgallery.com/Packages/OSD/25.10.19.3) | 25.10.19.3
-
-### Published: 10/19/2025 17:08:06 by David Segura . Gary Blok . Michael Escamilla
-
-OSD PowerShell Module for Windows Deployment
-
-__Downloads__: 5,291,759 | __Repository__: https://github.com/OSDeploy/OSD
 
 ## [PSSpecialFolder](https://www.powershellgallery.com/Packages/PSSpecialFolder/2.6.1) | 2.6.1
 
@@ -123,14 +279,6 @@ __Downloads__: 318 | __Repository__: https://github.com/yotsuda/PowerShell.MCP
 PowerShell module for interacting with the Gorelo API.
 
 __Downloads__: 10 | __Repository__: 
-
-## [SiteForge](https://www.powershellgallery.com/Packages/SiteForge/1.0.0) | 1.0.0
-
-### Published: 10/19/2025 05:20:13 by jakoby
-
-Automates deployment of NGINX web servers, SSL setup, and repo cloning on Ubuntu systems using PowerShell 7.
-
-__Downloads__: 5 | __Repository__: 
 
 ## [AzNetworkDiagram](https://www.powershellgallery.com/Packages/AzNetworkDiagram/1.4) | 1.4
 
@@ -207,7 +355,7 @@ A completion manager for better and simpler use completions in PowerShell.
   - Github:  https://github.com/abgox/PSCompletions
   - Gitee:   https://gitee.com/abgox/PSCompletions
 
-__Downloads__: 83,286 | __Repository__: https://pscompletions.abgox.com/
+__Downloads__: 83,285 | __Repository__: https://pscompletions.abgox.com/
 
 ## [WindmillClient](https://www.powershellgallery.com/Packages/WindmillClient/1.563.3) | 1.563.3
 
@@ -247,7 +395,7 @@ __Downloads__: 14,716 | __Repository__: https://github.com/PSModule/GoogleFonts
 
 This module provides an interface to the Hudu Rest API further information can be found at https://github.com/lwhitelock/HuduAPI
 
-__Downloads__: 1,991,553 | __Repository__: 
+__Downloads__: 1,991,645 | __Repository__: 
 
 ## [ColorScripts-Enhanced](https://www.powershellgallery.com/Packages/ColorScripts-Enhanced/2025.10.17.2106) | 2025.10.17.2106
 
@@ -328,7 +476,7 @@ __Downloads__: 53 | __Repository__: https://github.com/JanTkacSk/PSZabbix-7
 
 Enterprise App Deployment, Simplified.
 
-__Downloads__: 1,354,913 | __Repository__: https://psappdeploytoolkit.com/
+__Downloads__: 1,354,916 | __Repository__: https://psappdeploytoolkit.com/
 
 ## [EntraExporterFast](https://www.powershellgallery.com/Packages/EntraExporterFast/1.0.5) | 1.0.5
 
@@ -479,7 +627,7 @@ __Downloads__: 4,468 | __Repository__:
 
 A module for simplifying the process of getting an access token from Entra ID
 
-__Downloads__: 3,651 | __Repository__: 
+__Downloads__: 3,655 | __Repository__: 
 
 ## [DscConfig.AADConnect](https://www.powershellgallery.com/Packages/DscConfig.AADConnect/0.2.0) | 0.2.0
 
@@ -488,14 +636,6 @@ __Downloads__: 3,651 | __Repository__:
 DSC composite resource for https://github.com/dsccommunity/DscWorkshop
 
 __Downloads__: 165 | __Repository__: https://github.com/dsccommunity/DscConfig.AADConnect
-
-## [Fortytwo.IAM.UserWriteback](https://www.powershellgallery.com/Packages/Fortytwo.IAM.UserWriteback/1.1.1) | 1.1.1
-
-### Published: 10/16/2025 10:14:21 by Marius Solbakken Mellum
-
-A module for synchronizing users from Entra ID into Active Directory, and writing onpremises* attributes back to Entra ID. Useful when certain users still require on-premises AD users, while all users have their SOA convert to Entra ID.
-
-__Downloads__: 11 | __Repository__: 
 
 ## [Aberus.AWS.Tools.EKS.KubeConfig](https://www.powershellgallery.com/Packages/Aberus.AWS.Tools.EKS.KubeConfig/5.0.1) | 5.0.1
 
@@ -601,7 +741,7 @@ __Downloads__: 5 | __Repository__: https://github.com/backmind/PSAliasFinder
 
 OEM PowerShell Module for Windows OS Deployment
 
-__Downloads__: 5 | __Repository__: https://github.com/OSDeploy/OEM
+__Downloads__: 4 | __Repository__: https://github.com/OSDeploy/OEM
 
 ## [DTX.Cloud.Management](https://www.powershellgallery.com/Packages/DTX.Cloud.Management/1.35.2) | 1.35.2
 
@@ -691,7 +831,7 @@ __Downloads__: 23 | __Repository__:
 
 Helper module for Active Directory with lots of useful functions that simplify supporting Active Directory.
 
-__Downloads__: 605,545 | __Repository__: https://github.com/EvotecIT/ADEssentials
+__Downloads__: 605,546 | __Repository__: https://github.com/EvotecIT/ADEssentials
 
 ## [BcContainerHelper](https://www.powershellgallery.com/Packages/BcContainerHelper/6.1.8) | 6.1.8
 
@@ -731,15 +871,7 @@ __Downloads__: 2,911 | __Repository__: https://docs.devdeer.io/caf/devdeer-caf-o
 
 Automation tools for production quality database deployment
 
-__Downloads__: 7,226,744 | __Repository__: https://www.red-gate.com/sca/productpage
-
-## [Fortytwo.CheckID.PasswordAgent](https://www.powershellgallery.com/Packages/Fortytwo.CheckID.PasswordAgent/1.1.1) | 1.1.1
-
-### Published: 10/15/2025 05:03:13 by Marius Solbakken Mellum
-
-A module for completing password reset requests from the CheckID service into Active Directory
-
-__Downloads__: 88 | __Repository__: 
+__Downloads__: 7,226,732 | __Repository__: https://www.red-gate.com/sca/productpage
 
 ## [eNAuditor](https://www.powershellgallery.com/Packages/eNAuditor/0.940.0) | 0.940.0
 
@@ -869,7 +1001,7 @@ __Downloads__: 555,732 | __Repository__: https://github.com/chocolatey-community
 
 An assortment of useful PowerShell scripts
 
-__Downloads__: 95,416 | __Repository__: https://github.com/ralish/PSWinGlue
+__Downloads__: 95,415 | __Repository__: https://github.com/ralish/PSWinGlue
 
 ## [PSFramework](https://www.powershellgallery.com/Packages/PSFramework/1.13.414) | 1.13.414
 
@@ -1103,14 +1235,6 @@ A Cmdlet that assists a developer with building Acumatica front-end assets, leve
 
 __Downloads__: 6 | __Repository__: https://github.com/lekker-solutions/acumatica-nodehelper
 
-## [ChatGPS](https://www.powershellgallery.com/Packages/ChatGPS/0.2.0) | 0.2.0
-
-### Published: 10/12/2025 15:48:28 by Adam Edwards (adamedx)
-
-Access language models in your scripts and terminal, build AI agents with PowerShell.
-
-__Downloads__: 31 | __Repository__: https://github.com/adamedx/ChatGPS
-
 ## [OmadaSqlTroubleShooter](https://www.powershellgallery.com/Packages/OmadaSqlTroubleShooter/2025.10.12.3) | 2025.10.12.3
 
 ### Published: 10/12/2025 15:34:27 by Mark van Eijken
@@ -1166,7 +1290,7 @@ __Downloads__: 57,328 | __Repository__: https://github.com/kayasax/EasyPIM/
 
 Build and test automation in PowerShell
 
-__Downloads__: 2,561,897 | __Repository__: https://github.com/nightroman/Invoke-Build
+__Downloads__: 2,561,893 | __Repository__: https://github.com/nightroman/Invoke-Build
 
 ## [MariusTestModule](https://www.powershellgallery.com/Packages/MariusTestModule/0.1.5) | 0.1.5
 
@@ -1238,7 +1362,7 @@ __Downloads__: 65 | __Repository__: https://github.com/gabrielkoehl/psTerminalPe
 
 SplitPipeline - Parallel Data Processing in PowerShell
 
-__Downloads__: 2,180,891 | __Repository__: https://github.com/nightroman/SplitPipeline
+__Downloads__: 2,180,890 | __Repository__: https://github.com/nightroman/SplitPipeline
 
 ## [MemoryMappedFile](https://www.powershellgallery.com/Packages/MemoryMappedFile/0.0.3) | 0.0.3
 
@@ -1350,7 +1474,7 @@ __Downloads__: 59,915 | __Repository__: https://github.com/PureStorage-Connect/P
 
 A PowerShell module for working with TimeSpans
 
-__Downloads__: 346,773 | __Repository__: https://github.com/PSModule/TimeSpan
+__Downloads__: 346,777 | __Repository__: https://github.com/PSModule/TimeSpan
 
 ## [ImportToSQLDatabase](https://www.powershellgallery.com/Packages/ImportToSQLDatabase/0.0.13) | 0.0.13
 
@@ -1447,14 +1571,6 @@ __Downloads__: 294 | __Repository__:
 The Cayosoft Graph (cGraph) Module for Microsoft PowerShell is a FREE SOLUTION that allows administrators to use PowerShell to call the Microsoft Graph API to manage any Graph accessible resource such as, Azure AD, Office 365, Outlook, OneDrive, Intune and more...
 
 __Downloads__: 22,878 | __Repository__: https://www.cayosoft.com/
-
-## [Bricklead.BCDev.Tools](https://www.powershellgallery.com/Packages/Bricklead.BCDev.Tools/0.1.9414.43025) | 0.1.9414.43025
-
-### Published: 10/10/2025 09:57:59 by Yves DESRUMAUX
-
-PowerShell module, which makes it easier to work Around AL developments.
-
-__Downloads__: 2,384 | __Repository__: 
 
 ## [PsDataFactory](https://www.powershellgallery.com/Packages/PsDataFactory/0.7.0) | 0.7.0
 
@@ -1661,14 +1777,6 @@ A PowerShell module to simplify working with a GraphQL APIs.
 
 __Downloads__: 159 | __Repository__: https://github.com/PSModule/GraphQL
 
-## [Fortytwo.ChangeEmail.Agent](https://www.powershellgallery.com/Packages/Fortytwo.ChangeEmail.Agent/1.5.0) | 1.5.0
-
-### Published: 10/09/2025 19:59:35 by Marius Solbakken Mellum
-
-A module for completing email change requests from the Bytt.Email service into Active Directory or Entra ID / Exchange Online
-
-__Downloads__: 230 | __Repository__: 
-
 ## [Gemini](https://www.powershellgallery.com/Packages/Gemini/0.0.2) | 0.0.2
 
 ### Published: 10/09/2025 19:17:04 by PSModule
@@ -1807,94 +1915,6 @@ __Downloads__: 33 | __Repository__: https://github.com/abgox/ConvertFrom-JsonAsH
 PSDrives and cmdlets for UiPath Orchestrator. 💡 First time? Run: Get-OrchHelp
 
 __Downloads__: 2,973 | __Repository__: 
-
-## [GenXdev](https://www.powershellgallery.com/Packages/GenXdev/1.300.2025) | 1.300.2025
-
-### Published: 10/09/2025 01:46:04 by René Vaessen
-
-GenXdev PowerShell Utilities and helpers
-
-__Downloads__: 753 | __Repository__: https://powershell.genxdev.net/
-
-## [GenXdev.Media](https://www.powershellgallery.com/Packages/GenXdev.Media/1.300.2025) | 1.300.2025
-
-### Published: 10/09/2025 01:44:51 by genXdev
-
-A Windows PowerShell module that helps with converting media files like pictures and video files.
-
-__Downloads__: 289 | __Repository__: https://powershell.genxdev.net/#GenXdev.Media
-
-## [GenXdev.Coding](https://www.powershellgallery.com/Packages/GenXdev.Coding/1.300.2025) | 1.300.2025
-
-### Published: 10/09/2025 01:43:41 by genXdev
-
-A Windows PowerShell module that helps being more productive with coding tasks.
-
-__Downloads__: 614 | __Repository__: https://powershell.genxdev.net/#GenXdev.Coding
-
-## [GenXdev.AI](https://www.powershellgallery.com/Packages/GenXdev.AI/1.300.2025) | 1.300.2025
-
-### Published: 10/09/2025 01:42:31 by genXdev
-
-A Windows PowerShell module for local AI related operations
-
-__Downloads__: 929 | __Repository__: https://powershell.genxdev.net/#GenXdev.AI
-
-## [GenXdev.Queries](https://www.powershellgallery.com/Packages/GenXdev.Queries/1.300.2025) | 1.300.2025
-
-### Published: 10/09/2025 01:41:21 by genXdev
-
-A Windows PowerShell module for finding resources and information on the internet
-
-__Downloads__: 1,814 | __Repository__: https://powershell.genxdev.net/#GenXdev.Queries
-
-## [GenXdev.Console](https://www.powershellgallery.com/Packages/GenXdev.Console/1.300.2025) | 1.300.2025
-
-### Published: 10/09/2025 01:40:12 by genXdev
-
-A Windows PowerShell module for enhancing the commandline experience
-
-__Downloads__: 1,792 | __Repository__: https://powershell.genxdev.net/#GenXdev.Console
-
-## [GenXdev.Webbrowser](https://www.powershellgallery.com/Packages/GenXdev.Webbrowser/1.300.2025) | 1.300.2025
-
-### Published: 10/09/2025 01:38:58 by genXdev
-
-A Windows PowerShell module that allows you to run scripts against your casual desktop webbrowser-tab
-
-__Downloads__: 9,588 | __Repository__: https://powershell.genxdev.net/#GenXdev.Webbrowser
-
-## [GenXdev.Windows](https://www.powershellgallery.com/Packages/GenXdev.Windows/1.300.2025) | 1.300.2025
-
-### Published: 10/09/2025 01:37:01 by genXdev
-
-A Windows PowerShell module that provides UI Windows manipulation helpers
-
-__Downloads__: 9,434 | __Repository__: https://powershell.genxdev.net/#GenXdev.Windows
-
-## [GenXdev.Data](https://www.powershellgallery.com/Packages/GenXdev.Data/1.300.2025) | 1.300.2025
-
-### Published: 10/09/2025 01:35:53 by genXdev
-
-A Windows PowerShell module with helpers for working with data and databases
-
-__Downloads__: 1,159 | __Repository__: https://powershell.genxdev.net/#GenXdev.Data
-
-## [GenXdev.Helpers](https://www.powershellgallery.com/Packages/GenXdev.Helpers/1.300.2025) | 1.300.2025
-
-### Published: 10/09/2025 01:34:39 by genXdev
-
-A Windows PowerShell module with helpers mostly used by other GenXdev modules
-
-__Downloads__: 9,925 | __Repository__: https://powershell.genxdev.net/#GenXdev.Helpers
-
-## [GenXdev.FileSystem](https://www.powershellgallery.com/Packages/GenXdev.FileSystem/1.300.2025) | 1.300.2025
-
-### Published: 10/09/2025 01:33:22 by genXdev
-
-A Windows PowerShell module for basic and advanced file management tasks
-
-__Downloads__: 10,044 | __Repository__: https://powershell.genxdev.net/#GenXdev.FileSystem
 
 ## [PSTestableData](https://www.powershellgallery.com/Packages/PSTestableData/1.0.0) | 1.0.0
 
@@ -2075,20 +2095,4 @@ Configures Windows NTP client with secure, reliable time synchronization.
 
 __Downloads__: 47 | __Repository__: https://github.com/collingeorge/Set-NTPConfig
 
-## [SitecoreCecSearchModule](https://www.powershellgallery.com/Packages/SitecoreCecSearchModule/0.4.3) | 0.4.3
-
-### Published: 10/07/2025 21:00:41 by Jesper Balle
-
-This module lets you interact with the APIs provided by the Sitecore Customer Engagement Console (CEC) for Sitecore Search.
-
-__Downloads__: 654 | __Repository__: https://www.github.com/jballe/SitecoreCecSearchModule
-
-## [FixMissingMSI.PowerShell](https://www.powershellgallery.com/Packages/FixMissingMSI.PowerShell/1.1.4) | 1.1.4
-
-### Published: 10/07/2025 19:32:48 by Joey Eckelbarger
-
-PowerShell module for detecting, reporting, and repairing missing Windows Installer (MSI/MSP) cache files. Automates the FixMissingMSI utility for non-interactive, scalable recovery using a shared cache model.
-
-__Downloads__: 56 | __Repository__: https://github.com/ITJoeSchmo/FixMissingMSI.PowerShell
-
-*Updated: Sunday, 19 October 2025 21:52:21 UTC*
+*Updated: Monday, 20 October 2025 09:52:32 UTC*
