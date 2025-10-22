@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Wednesday, 22 October 2025 09:53:05 UTC
+Updated: Wednesday, 22 October 2025 21:52:26 UTC
 
 .bat
 .env
@@ -83,6 +83,7 @@ abc
 abc_testing
 abe
 about
+abr
 abstractsyntaxtree
 abuse
 abuseipdb
@@ -155,7 +156,6 @@ activitycount
 actor-model
 actors
 acumatica
-acumaticaerp
 ad
 ad_delegation
 ad_monitoring
@@ -211,6 +211,7 @@ adm
 admf
 admin
 admin-tools
+adminbyrequest
 admincenter
 admindirectory
 administration
@@ -256,7 +257,6 @@ adxingestion
 aem
 aeries
 aeriessis
-aerofetch
 aes
 aesgcm
 afd
@@ -311,10 +311,8 @@ alain
 alarm
 alb
 albums
-alc
 alero
 alert
-alerting
 alertmanagement
 alerts
 alertsmanagement
@@ -344,7 +342,6 @@ alto
 alwaysontop
 alwaysonvpn
 alz
-ama.alz
 amateur
 amateur-data-interchange-format
 amateur-radio
@@ -459,7 +456,6 @@ appian
 appinsights
 applayering
 apple
-applebusinessmanager
 applescript
 applescript_bridge
 application
@@ -573,8 +569,6 @@ aspnet
 aspnet_regiis
 asr
 assembleenationale
-assembly
-assemblyloadcontext
 assemblymeta
 assert
 assertion
@@ -1893,6 +1887,7 @@ custom
 customchecks
 customdns
 customer
+customerengagement
 customers
 customeventchannel
 customeventlog
@@ -1932,6 +1927,7 @@ cylance
 cypher
 cyrillic
 d365
+d365ce
 d365fo
 d365fsc
 daas
@@ -2428,7 +2424,6 @@ ds
 ds-client
 ds-utils
 dsa
-dsacls
 dsc
 dsc-resource
 dsc-resources
@@ -2493,13 +2488,14 @@ dynamics
 dynamics-365
 dynamics-crm
 dynamics365
+dynamics365ce
 dynamics365fo
+dynamics365sales
 dynamics365server
 dynamicsax
 dynamicsecuritygroups
 dynamicsnav
 dynamodb
-dynatrace
 dynatraceobservability
 dz
 e-mail
@@ -2878,6 +2874,7 @@ fastgit
 fastlinq
 fastlookup
 fastping
+fasttrack
 fat32
 favorite
 favorites
@@ -3033,7 +3030,6 @@ fleetsoftwareupdate
 flex
 flex-query
 flexdesk
-flexible
 flickr
 flowchart
 flowy
@@ -3284,6 +3280,7 @@ gh-actions
 ghactions
 ghc
 ghibli
+ghost
 gif
 gifs
 giphy
@@ -3347,7 +3344,6 @@ google-chrome
 google-fonts
 google-histogram
 google-sankey
-google-table
 googleadsv2
 googlecloudplatform
 googledrive
@@ -3600,7 +3596,6 @@ home
 home_automation
 homebrew
 homebrewing
-homelab
 homelandsecurity
 homeschooling
 hometheater
@@ -4085,7 +4080,6 @@ jsm
 jsm.insight
 json
 json-converter
-json-ld
 json-transform
 json+
 json2ps
@@ -4183,6 +4177,7 @@ kline
 kms
 knapsack
 knetps
+knob
 knowbe4
 knowledge
 knowledgebase
@@ -4394,7 +4389,6 @@ localdb
 localdirectories
 locale
 localgroup
-localgroupmember
 localization
 localpolicy
 localrepository
@@ -4593,7 +4587,6 @@ mariadb
 mark
 markdig
 markdown
-markdownrender
 market
 marketing
 marketo
@@ -5095,6 +5088,7 @@ netscaler
 netscape
 netsec
 netsh
+netspell
 netstat
 netsuite
 network
@@ -5451,6 +5445,7 @@ oracle
 oraclecloudinfrastructure
 oraculum
 orbital
+orchestrate
 orchestration
 orchestrator
 order
@@ -5529,7 +5524,6 @@ oxyplot
 p2000
 p2s
 pa1reg
-paas
 pac
 pack
 package
@@ -5553,7 +5547,6 @@ pager
 pagerduty
 pages
 pagination
-paging
 palo
 paloalto
 paloaltonetworks
@@ -9441,7 +9434,6 @@ remote-browser
 remote-desktop
 remote'
 remoteaccess
-remoteadmin
 remotecert
 remoteconnection
 remoteconnectionsmanager
@@ -9455,7 +9447,6 @@ remotedirectories
 remotefiles
 remoteforensics
 remotehost
-remotelocalgroup
 remotelogoff
 remotemanagement
 remotepro
@@ -10287,7 +10278,6 @@ speaker
 spec
 specification
 specify
-specs
 spectre
 spectre.console
 spectrumconnect
@@ -10300,6 +10290,7 @@ speedometer
 speedtest
 speedtester
 spejder
+spellcheck
 spelling
 spf
 spfcheck
@@ -10689,7 +10680,6 @@ tags
 tak
 taken
 takeown
-tally
 talxis
 tanss
 tanzu
@@ -11081,7 +11071,6 @@ uberagent
 ubiquiti
 ubnt
 ubuntu
-ucs
 ucspowertool
 ud-avataaar
 ud-badgebutton
@@ -11121,6 +11110,7 @@ ud-scrollspy
 ud-selectdatetime
 ud-selector
 ud-signature
+ud-simpledrawer
 ud-singleselect
 ud-slider
 ud-speechbubble
@@ -11424,6 +11414,7 @@ vlsc
 vlsm
 vm
 vmc
+vmconnect
 vmelamed5
 vmfs
 vmgroup
