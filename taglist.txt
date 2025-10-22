@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Tuesday, 21 October 2025 21:52:33 UTC
+Updated: Wednesday, 22 October 2025 09:53:05 UTC
 
 .bat
 .env
@@ -83,7 +83,6 @@ abc
 abc_testing
 abe
 about
-abr
 abstractsyntaxtree
 abuse
 abuseipdb
@@ -212,7 +211,6 @@ adm
 admf
 admin
 admin-tools
-adminbyrequest
 admincenter
 admindirectory
 administration
@@ -639,6 +637,7 @@ auth0
 authenticate
 authentication
 authenticationcertificate
+authenticationcontext
 authenticationstrength
 authenticode
 authn
@@ -932,6 +931,7 @@ bec
 beckhoff
 bedrock
 beep
+beer
 behavior
 behavioralanalytics
 benchmark
@@ -1065,6 +1065,8 @@ break
 breakpoint
 brevo
 brew
+brewing
+brewzilla
 brickset
 brickstore
 bridge
@@ -1891,7 +1893,6 @@ custom
 customchecks
 customdns
 customer
-customerengagement
 customers
 customeventchannel
 customeventlog
@@ -1931,7 +1932,6 @@ cylance
 cypher
 cyrillic
 d365
-d365ce
 d365fo
 d365fsc
 daas
@@ -2099,6 +2099,7 @@ defenderforendpoint
 defenderforidentity
 defenderforservers
 defense
+definition
 deflate
 deflate-compression
 defrag
@@ -2492,9 +2493,7 @@ dynamics
 dynamics-365
 dynamics-crm
 dynamics365
-dynamics365ce
 dynamics365fo
-dynamics365sales
 dynamics365server
 dynamicsax
 dynamicsecuritygroups
@@ -2532,6 +2531,7 @@ ediscovery
 edit
 editor
 editorservices
+edl
 edr
 educatedprompting
 education
@@ -2679,6 +2679,7 @@ errors
 errorview
 eryph
 esae
+esc
 escape
 escapecodes
 escapesequences
@@ -2877,7 +2878,6 @@ fastgit
 fastlinq
 fastlookup
 fastping
-fasttrack
 fat32
 favorite
 favorites
@@ -2895,6 +2895,7 @@ federateddirectory
 federation
 fedex
 feed
+fermentation
 fetch
 ffmpeg
 ffprobe
@@ -3023,6 +3024,7 @@ flash
 flasharray
 flatfile
 flatten
+flaui
 flavor
 fleet
 fleetappsmanagement
@@ -3282,10 +3284,10 @@ gh-actions
 ghactions
 ghc
 ghibli
-ghost
 gif
 gifs
 giphy
+gis
 gist
 git
 git-client
@@ -3415,6 +3417,7 @@ grouvee
 growlnotify
 grr
 gsettings
+gsudo
 gsuite
 gtx1080ti
 guardedfabric
@@ -3596,6 +3599,7 @@ holiday
 home
 home_automation
 homebrew
+homebrewing
 homelab
 homelandsecurity
 homeschooling
@@ -3733,6 +3737,7 @@ identity-management
 identitydataplane
 identitydirector
 identitydomains
+identitygovernance
 identitynow
 identitysecuritycloud
 idf
@@ -4178,7 +4183,6 @@ kline
 kms
 knapsack
 knetps
-knob
 knowbe4
 knowledge
 knowledgebase
@@ -4247,6 +4251,7 @@ languageexperiencepack
 languagemodels
 languagepack
 lansweeper
+laplace
 laps
 laragon
 laserbeams
@@ -4272,6 +4277,7 @@ lcm
 lcminternals
 lcs
 ldap
+leaflet
 leafs
 league
 lean
@@ -4307,6 +4313,8 @@ libsecret
 libvirt
 licence
 license
+license-generator
+licenseautomation
 licensemanagement
 licensemanager
 licensereport
@@ -5087,7 +5095,6 @@ netscaler
 netscape
 netsec
 netsh
-netspell
 netstat
 netsuite
 network
@@ -5410,6 +5417,7 @@ openssh
 opensshserver
 openssl
 openstack
+openstreetmap
 openstreetmaps
 openvpn
 openxml
@@ -5443,7 +5451,6 @@ oracle
 oraclecloudinfrastructure
 oraculum
 orbital
-orchestrate
 orchestration
 orchestrator
 order
@@ -5566,6 +5573,7 @@ parallel-processing
 parameter
 parameterinfo
 parameters
+params
 parclient
 parititions
 parool
@@ -6023,6 +6031,7 @@ prefixing
 preparead
 preparealldomains
 prepareschema
+prepend
 preprocessing
 preprocessor
 prerequisites
@@ -9284,6 +9293,7 @@ range
 rangescan
 rangetocidr
 ransomware_recovery
+rapt
 ras
 raspberry-pi
 raspberrypi
@@ -9532,6 +9542,7 @@ rest_cherrypy
 rest-api
 restapi
 restart
+restaurant
 restful
 restore
 restrictive
@@ -9908,6 +9919,7 @@ selfhelp
 selfsigned
 semantic
 semantic-versioning
+semanticversioning
 semaphore
 semver
 senat
@@ -10152,6 +10164,7 @@ smartarray
 smartarraycmdlets
 smarthome
 smartsheet
+smarttags
 smartwatch
 smash
 smax
@@ -10287,7 +10300,6 @@ speedometer
 speedtest
 speedtester
 spejder
-spellcheck
 spelling
 spf
 spfcheck
@@ -11109,7 +11121,6 @@ ud-scrollspy
 ud-selectdatetime
 ud-selector
 ud-signature
-ud-simpledrawer
 ud-singleselect
 ud-slider
 ud-speechbubble
@@ -11362,6 +11373,7 @@ vi
 vib
 vibecoding
 video
+video-editing
 videogeneration
 videos
 vie
@@ -11412,7 +11424,6 @@ vlsc
 vlsm
 vm
 vmc
-vmconnect
 vmelamed5
 vmfs
 vmgroup

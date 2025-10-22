@@ -3,13 +3,126 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
-## [AcumaticaNodeHelper](https://www.powershellgallery.com/Packages/AcumaticaNodeHelper/1.0.1) | 1.0.1
+## [ado.tools](https://www.powershellgallery.com/Packages/ado.tools/1.0.57) | 1.0.57
 
-### Published: 10/21/2025 21:21:07 by Kyle Vanderstoep
+### Published: 10/22/2025 09:25:15 by Oleksandr Nikolaiev (@onikolaiev)
+
+This module contains set of the Azure DevOps cmdlets for managing work item types, processes,  picklists, etc.. It is designed to be used with the Azure DevOps REST API and provides a convenient way to interact with Azure DevOps services from PowerShell.
+
+__Downloads__: 348 | __Repository__: https://github.com/onikolaiev/ado.tools
+
+## [CAT](https://www.powershellgallery.com/Packages/CAT/2.0.4.3) | 2.0.4.3
+
+### Published: 10/22/2025 09:22:14 by Joyful Craftsmen CAT Team
+
+Author, run and manage AUTOMATED TESTS for your DATA with minimum effort.
+
+__Downloads__: 12,132 | __Repository__: https://docs.justcat.it/
+
+## [SysMan.WebApi](https://www.powershellgallery.com/Packages/SysMan.WebApi/4.2.25295) | 4.2.25295
+
+### Published: 10/22/2025 08:23:44 by Marcus Melberg
+
+The official eKlient Powershell module to simplify integration with SysMan
+
+__Downloads__: 3,132 | __Repository__: https://www.inera.se/eklient
+
+## [ImportDependency](https://www.powershellgallery.com/Packages/ImportDependency/0.3.9) | 0.3.9
+
+### Published: 10/22/2025 07:56:15 by florian.von.bracht@apteco.de
+
+Apteco PS Modules - PowerShell import dependencies
+
+Module to import dependencies from the PowerShell Gallery and NuGet.
+
+Please make sure to have the Modules WriteLog and PowerShellGet (>= 2.2.4) installed.
+
+__Downloads__: 107 | __Repository__: https://github.com/Apteco/AptecoPSModules/tree/main/ImportDependency
+
+## [chocolatey](https://www.powershellgallery.com/Packages/chocolatey/0.9.1) | 0.9.1
+
+### Published: 10/22/2025 07:38:46 by Gael Colas
+
+This is an unofficial module with DSC resource to Install and configure Chocolatey.
+
+__Downloads__: 556,106 | __Repository__: https://github.com/chocolatey-community/Chocolatey/
+
+## [ps-jsonlogger](https://www.powershellgallery.com/Packages/ps-jsonlogger/1.3.0) | 1.3.0
+
+### Published: 10/22/2025 05:32:02 by Bryan Cuneo
+
+ps-jsonlogger is a small, dependency-free structured logging module for PowerShell that offers both compact JSON logs on-disk and human-readble console output. It supports log levels, context objects, full call stack inclusion, and more.
+
+__Downloads__: 17 | __Repository__: https://github.com/BryanCuneo/ps-jsonlogger
+
+## [OSD](https://www.powershellgallery.com/Packages/OSD/25.10.22.1) | 25.10.22.1
+
+### Published: 10/22/2025 05:09:29 by David Segura . Gary Blok . Michael Escamilla
+
+OSD PowerShell Module for Windows Deployment
+
+__Downloads__: 5,315,447 | __Repository__: https://github.com/OSDeploy/OSD
+
+## [IntegrisPowerShell](https://www.powershellgallery.com/Packages/IntegrisPowerShell/2.0.46) | 2.0.46
+
+### Published: 10/22/2025 04:07:26 by David McVicker
+
+Integris PowerShell module
+
+__Downloads__: 477 | __Repository__: 
+
+## [SqlServerMaintenance](https://www.powershellgallery.com/Packages/SqlServerMaintenance/2.5.5.1) | 2.5.5.1
+
+### Published: 10/22/2025 01:51:26 by Robert Eder
+
+Provides maintenance functions to manage SQL Server.
+
+__Downloads__: 10 | __Repository__: https://github.com/netsec4u/SqlServerMaintenance
+
+## [Veeam.Diagrammer](https://www.powershellgallery.com/Packages/Veeam.Diagrammer/0.6.36) | 0.6.36
+
+### Published: 10/22/2025 01:09:29 by Jonathan Colon
+
+A PowerShell module to generate an Veeam Backup & Replication infrastructure diagram
+
+__Downloads__: 58,998 | __Repository__: https://github.com/rebelinux/Veeam.Diagrammer
+
+## [AcumaticaNodeHelper](https://www.powershellgallery.com/Packages/AcumaticaNodeHelper/1.0.2) | 1.0.2
+
+### Published: 10/22/2025 00:21:06 by Kyle Vanderstoep
 
 A Cmdlet that assists a developer with building Acumatica front-end assets, leveraging the NodeJS and npm version found in the web.config file.
 
 __Downloads__: 6 | __Repository__: https://github.com/lekker-solutions/acumatica-nodehelper
+
+## [K.PSGallery.Smartagr](https://www.powershellgallery.com/Packages/K.PSGallery.Smartagr/0.1.7) | 0.1.7
+
+### Published: 10/21/2025 23:38:50 by 1d70f
+
+Smart Git Tag Management with Semantic Versioning Intelligence. Automatically creates and manages Git tags with sophisticated version progression logic, smart tag intelligence, and moving tag management.
+
+__Downloads__: 1 | __Repository__: https://github.com/GrexyLoco/K.PSGallery.Smartagr
+
+## [M365IdentityPosture](https://www.powershellgallery.com/Packages/M365IdentityPosture/1.0.0) | 1.0.0
+
+### Published: 10/21/2025 22:25:05 by Sebastian Flæng Markdanner
+
+Comprehensive security posture assessment and identity governance reporting framework for Microsoft 365 and Azure environments.
+
+Current Release (v1.0): Authentication Context Inventory
+- Complete discovery and analysis of authentication context usage across all Microsoft 365 services
+- Purview sensitivity labels with embedded authentication requirements
+- Conditional Access policies referencing authentication contexts
+- Privileged Identity Management (PIM) policies for directory roles, groups, and Azure resources
+- SharePoint sites with direct or inherited authentication context assignments
+- Microsoft 365 Groups and Teams with context-enforcing sensitivity labels
+- Protected actions (RBAC) requiring authentication contexts
+- Cross-service correlation with rich HTML reporting and metrics dashboard
+
+Designed as an extensible framework for future identity and security analytics including Access Package reporting, 
+Role Assignment auditing, Conditional Access gap analysis, and Identity Protection insights.
+
+__Downloads__: 1 | __Repository__: https://github.com/Noble-Effeciency13/M365IdentityPosture
 
 ## [AsBuiltReport.NetApp.ONTAP](https://www.powershellgallery.com/Packages/AsBuiltReport.NetApp.ONTAP/0.6.9) | 0.6.9
 
@@ -33,15 +146,7 @@ __Downloads__: 87,617 | __Repository__: https://github.com/rebelinux/Diagrammer.
 
 This module provides functions for working with Adaptive Cards in PowerShell in a similar fashion as the popular module PSWriteHTML does for HTML generation. Please read the documentation on GitHub for more information. (https://github.com/Michael19842/PowerShell.MvRAdaptiveCards.Module)
 
-__Downloads__: 45 | __Repository__: https://github.com/Michael19842/PowerShell.MvRAdaptiveCards.Module
-
-## [ado.tools](https://www.powershellgallery.com/Packages/ado.tools/1.0.56) | 1.0.56
-
-### Published: 10/21/2025 20:00:35 by Oleksandr Nikolaiev (@onikolaiev)
-
-This module contains set of the Azure DevOps cmdlets for managing work item types, processes,  picklists, etc.. It is designed to be used with the Azure DevOps REST API and provides a convenient way to interact with Azure DevOps services from PowerShell.
-
-__Downloads__: 343 | __Repository__: https://github.com/onikolaiev/ado.tools
+__Downloads__: 44 | __Repository__: https://github.com/Michael19842/PowerShell.MvRAdaptiveCards.Module
 
 ## [VenafiPS](https://www.powershellgallery.com/Packages/VenafiPS/6.12.3) | 6.12.3
 
@@ -65,15 +170,7 @@ __Downloads__: 10,771 | __Repository__: https://github.com/windmill-labs/windmil
 
 An error reporting module that sends reports to Sentry.io
 
-__Downloads__: 214,712 | __Repository__: https://github.com/getsentry/sentry-powershell
-
-## [OSD](https://www.powershellgallery.com/Packages/OSD/25.10.21.3) | 25.10.21.3
-
-### Published: 10/21/2025 17:08:17 by David Segura . Gary Blok . Michael Escamilla
-
-OSD PowerShell Module for Windows Deployment
-
-__Downloads__: 5,315,401 | __Repository__: https://github.com/OSDeploy/OSD
+__Downloads__: 214,713 | __Repository__: https://github.com/getsentry/sentry-powershell
 
 ## [CA.ApiGenerator](https://www.powershellgallery.com/Packages/CA.ApiGenerator/1.0.2) | 1.0.2
 
@@ -93,18 +190,6 @@ Built on Jason Taylor's Clean Architecture template (ca-sln), this module provid
 Generate production-ready Clean Architecture APIs from your database in minutes!
 
 __Downloads__: 17 | __Repository__: https://github.com/RusUsf/CA.ApiGenerator
-
-## [ImportDependency](https://www.powershellgallery.com/Packages/ImportDependency/0.3.8) | 0.3.8
-
-### Published: 10/21/2025 16:26:18 by florian.von.bracht@apteco.de
-
-Apteco PS Modules - PowerShell import dependencies
-
-Module to import dependencies from the PowerShell Gallery and NuGet.
-
-Please make sure to have the Modules WriteLog and PowerShellGet (>= 2.2.4) installed.
-
-__Downloads__: 107 | __Repository__: https://github.com/Apteco/AptecoPSModules/tree/main/ImportDependency
 
 ## [OCI.PSModules](https://www.powershellgallery.com/Packages/OCI.PSModules/117.1.0) | 117.1.0
 
@@ -1209,7 +1294,7 @@ __Downloads__: 13,226 | __Repository__: https://github.com/oracle/oci-powershell
 
 This modules provides Cmdlets for OCI Bds Service
 
-__Downloads__: 13,279 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+__Downloads__: 13,278 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
 ## [OCI.PSModules.Bastion](https://www.powershellgallery.com/Packages/OCI.PSModules.Bastion/117.1.0) | 117.1.0
 
@@ -1225,7 +1310,7 @@ __Downloads__: 12,376 | __Repository__: https://github.com/oracle/oci-powershell
 
 This modules provides Cmdlets for OCI Autoscaling Service
 
-__Downloads__: 13,204 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+__Downloads__: 13,203 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
 ## [OCI.PSModules.Audit](https://www.powershellgallery.com/Packages/OCI.PSModules.Audit/117.1.0) | 117.1.0
 
@@ -1385,7 +1470,7 @@ __Downloads__: 9,015 | __Repository__: https://github.com/oracle/oci-powershell-
 
 OCI Common module exports Cmdlets that manages features offered by OCI Modules for Powershell like History Store, OCI Configuration file setup and Per-Session Region/Config/Profile preferences. Common module also contains some functionalties that are common to all OCI Service modules, therefore all OCI Service modules depends on Common module.
 
-__Downloads__: 325,809 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+__Downloads__: 325,810 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
 ## [OMG.PSUtilities.AI](https://www.powershellgallery.com/Packages/OMG.PSUtilities.AI/1.0.23) | 1.0.23
 
@@ -1401,7 +1486,7 @@ __Downloads__: 2,198 | __Repository__:
 
 Enterprise App Deployment, Simplified.
 
-__Downloads__: 1,364,549 | __Repository__: https://psappdeploytoolkit.com/
+__Downloads__: 1,364,570 | __Repository__: https://psappdeploytoolkit.com/
 
 ## [PowerShell.MCP](https://www.powershellgallery.com/Packages/PowerShell.MCP/1.3.0) | 1.3.0
 
@@ -1727,15 +1812,7 @@ __Downloads__: 2,662 | __Repository__: https://nuget.entrinsec.com/
 
 A module for talking to the Pegasus API
 
-__Downloads__: 2,173 | __Repository__: 
-
-## [SysMan.WebApi](https://www.powershellgallery.com/Packages/SysMan.WebApi/4.2.25293) | 4.2.25293
-
-### Published: 10/20/2025 15:33:41 by Marcus Melberg
-
-The official eKlient Powershell module to simplify integration with SysMan
-
-__Downloads__: 3,132 | __Repository__: https://www.inera.se/eklient
+__Downloads__: 2,174 | __Repository__: 
 
 ## [PSNetworking](https://www.powershellgallery.com/Packages/PSNetworking/1.1.1) | 1.1.1
 
@@ -1818,14 +1895,6 @@ A module for completing password reset requests from the CheckID service into Ac
 
 __Downloads__: 95 | __Repository__: 
 
-## [ps-jsonlogger](https://www.powershellgallery.com/Packages/ps-jsonlogger/1.2.0) | 1.2.0
-
-### Published: 10/20/2025 03:57:42 by Bryan Cuneo
-
-ps-jsonlogger is a small, dependency-free structured logging module for PowerShell that offers both compact JSON logs on-disk and human-readble console output. It supports log levels, context objects, full call stack inclusion, and more.
-
-__Downloads__: 17 | __Repository__: https://github.com/BryanCuneo/ps-jsonlogger
-
 ## [fount-pwsh](https://www.powershellgallery.com/Packages/fount-pwsh/0.1.7) | 0.1.7
 
 ### Published: 10/20/2025 03:26:27 by steve02081504
@@ -1842,7 +1911,7 @@ __Downloads__: 3,056 | __Repository__: https://github.com/steve02081504/fount-pw
 
 A Toolset for Implementing and Adopting a full ALM strategy for the Microsoft PowerPlatform.
 
-__Downloads__: 86,543 | __Repository__: https://github.com/dylanhaskins/Microsoft.PowerPlatform.DevOps.Documentation
+__Downloads__: 86,544 | __Repository__: https://github.com/dylanhaskins/Microsoft.PowerPlatform.DevOps.Documentation
 
 ## [SiteForge](https://www.powershellgallery.com/Packages/SiteForge/1.0.2) | 1.0.2
 
@@ -1992,65 +2061,6 @@ A completion manager for better and simpler use completions in PowerShell.
   - Github:  https://github.com/abgox/PSCompletions
   - Gitee:   https://gitee.com/abgox/PSCompletions
 
-__Downloads__: 83,478 | __Repository__: https://pscompletions.abgox.com/
+__Downloads__: 83,477 | __Repository__: https://pscompletions.abgox.com/
 
-## [PoshLLM](https://www.powershellgallery.com/Packages/PoshLLM/0.3.0) | 0.3.0
-
-### Published: 10/18/2025 01:36:20 by DevPossible LLC
-
-Brings LLM (Large Language Model) power to the PowerShell REPL command line. Interact with local LLM systems like Ollama directly from your PowerShell session with convenient commands and aliases.
-
-__Downloads__: 23 | __Repository__: https://github.com/DevPossible/PoshLLM
-
-## [Evergreen](https://www.powershellgallery.com/Packages/Evergreen/2510.2814.0) | 2510.2814.0
-
-### Published: 10/18/2025 01:15:22 by Aaron Parker
-
-Create evergreen Windows image builds with the latest versions of applications. Evergreen is a simple PowerShell module that retrieves the latest version numbers and download URLs for various software products directly from the vendor source.
-
-__Downloads__: 11,623,332 | __Repository__: https://eucpilots.com/evergreen-docs/
-
-## [GoogleFonts](https://www.powershellgallery.com/Packages/GoogleFonts/1.0.76) | 1.0.76
-
-### Published: 10/18/2025 01:15:09 by PSModule
-
-A PowerShell module to download and install fonts from GoogleFonts.
-
-__Downloads__: 14,864 | __Repository__: https://github.com/PSModule/GoogleFonts
-
-## [HuduAPI](https://www.powershellgallery.com/Packages/HuduAPI/3.1.1) | 3.1.1
-
-### Published: 10/17/2025 21:42:29 by Luke Whitelock
-
-This module provides an interface to the Hudu Rest API further information can be found at https://github.com/lwhitelock/HuduAPI
-
-__Downloads__: 1,996,510 | __Repository__: 
-
-## [Borg](https://www.powershellgallery.com/Packages/Borg/0.2.29) | 0.2.29
-
-### Published: 10/17/2025 17:44:02 by Andi Oliver Ion
-
-BORG — Backup Orchestrator for Reliable Groundwork. A modular PowerShell toolkit for automating SQL Server Docker container workflows, backup and restore operations, and local dev environment setup. GitHub: https://github.com/AndiOliverIon/borg
-
-__Downloads__: 543 | __Repository__: https://github.com/AndiOliverIon/borg
-
-## [AzureDevOpsApi](https://www.powershellgallery.com/Packages/AzureDevOpsApi/0.3.1) | 0.3.1
-
-### Published: 10/17/2025 14:44:56 by Michal Mračka
-
-Provides functionality to interact with the Azure DevOps REST APIs.
-It allows querying work items, creating release notes, and managing test cases with YAML support.
-
-__Downloads__: 50 | __Repository__: https://github.com/mm6502/AzureDevOpsApi
-
-## [Find-EmailAddress](https://www.powershellgallery.com/Packages/Find-EmailAddress/1.0.7) | 1.0.7
-
-### Published: 10/17/2025 14:12:40 by Simon Godefroy - Simon.Godefroy@FocusedIT.co.uk
-
-Find EmailAddress in Exchange On-Prem or Online
-.EXAMPLE
-	Find-EmailAddress PartOrAll@EmailAddress.com
-
-__Downloads__: 74 | __Repository__: 
-
-*Updated: Tuesday, 21 October 2025 21:52:24 UTC*
+*Updated: Wednesday, 22 October 2025 09:52:56 UTC*
