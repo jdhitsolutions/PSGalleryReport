@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Wednesday, 22 October 2025 21:52:26 UTC
+Updated: Thursday, 23 October 2025 09:52:36 UTC
 
 .bat
 .env
@@ -83,7 +83,6 @@ abc
 abc_testing
 abe
 about
-abr
 abstractsyntaxtree
 abuse
 abuseipdb
@@ -156,6 +155,7 @@ activitycount
 actor-model
 actors
 acumatica
+acumaticaerp
 ad
 ad_delegation
 ad_monitoring
@@ -211,7 +211,6 @@ adm
 admf
 admin
 admin-tools
-adminbyrequest
 admincenter
 admindirectory
 administration
@@ -257,6 +256,7 @@ adxingestion
 aem
 aeries
 aeriessis
+aerofetch
 aes
 aesgcm
 afd
@@ -311,8 +311,10 @@ alain
 alarm
 alb
 albums
+alc
 alero
 alert
+alerting
 alertmanagement
 alerts
 alertsmanagement
@@ -342,6 +344,7 @@ alto
 alwaysontop
 alwaysonvpn
 alz
+ama.alz
 amateur
 amateur-data-interchange-format
 amateur-radio
@@ -456,6 +459,7 @@ appian
 appinsights
 applayering
 apple
+applebusinessmanager
 applescript
 applescript_bridge
 application
@@ -567,8 +571,11 @@ asp.net
 aspire
 aspnet
 aspnet_regiis
+aspnetcore
 asr
 assembleenationale
+assembly
+assemblyloadcontext
 assemblymeta
 assert
 assertion
@@ -1398,7 +1405,6 @@ clientsettingsstatemessaging
 clientsettingsuserdeviceaffinity
 clientstatussettings
 clihelper.core
-clihelper.logger
 clihelper.semver
 clihelper.trends
 clipart
@@ -1716,9 +1722,6 @@ convert-sid
 convert-windowsimage
 converter
 convertfrom
-convertfrom-json
-convertfrom-jsonashashtable
-convertfrom-jsontohashtable
 convertfrom-string
 convertfrom-stringtable
 convertfrom-table
@@ -2120,6 +2123,7 @@ demultiplex
 demultiplexing
 dependencies
 dependency
+dependencyfree
 dependencymap
 dependencysearch
 deploy
@@ -2424,6 +2428,7 @@ ds
 ds-client
 ds-utils
 dsa
+dsacls
 dsc
 dsc-resource
 dsc-resources
@@ -2496,6 +2501,7 @@ dynamicsax
 dynamicsecuritygroups
 dynamicsnav
 dynamodb
+dynatrace
 dynatraceobservability
 dz
 e-mail
@@ -2874,7 +2880,6 @@ fastgit
 fastlinq
 fastlookup
 fastping
-fasttrack
 fat32
 favorite
 favorites
@@ -3030,6 +3035,7 @@ fleetsoftwareupdate
 flex
 flex-query
 flexdesk
+flexible
 flickr
 flowchart
 flowy
@@ -3344,6 +3350,7 @@ google-chrome
 google-fonts
 google-histogram
 google-sankey
+google-table
 googleadsv2
 googlecloudplatform
 googledrive
@@ -3596,6 +3603,7 @@ home
 home_automation
 homebrew
 homebrewing
+homelab
 homelandsecurity
 homeschooling
 hometheater
@@ -4080,6 +4088,7 @@ jsm
 jsm.insight
 json
 json-converter
+json-ld
 json-transform
 json+
 json2ps
@@ -4107,7 +4116,6 @@ jwe
 jwk
 jws
 jwt
-jwttoken
 k8s
 k8sshell
 k8ssnapshots
@@ -4389,6 +4397,7 @@ localdb
 localdirectories
 locale
 localgroup
+localgroupmember
 localization
 localpolicy
 localrepository
@@ -4587,6 +4596,7 @@ mariadb
 mark
 markdig
 markdown
+markdownrender
 market
 marketing
 marketo
@@ -5281,7 +5291,6 @@ objectstorage
 objecttree
 obs
 observeit
-oce
 ocg
 ocgv
 oci
@@ -5445,7 +5454,6 @@ oracle
 oraclecloudinfrastructure
 oraculum
 orbital
-orchestrate
 orchestration
 orchestrator
 order
@@ -5524,6 +5532,7 @@ oxyplot
 p2000
 p2s
 pa1reg
+paas
 pac
 pack
 package
@@ -5547,6 +5556,7 @@ pager
 pagerduty
 pages
 pagination
+paging
 palo
 paloalto
 paloaltonetworks
@@ -5754,7 +5764,6 @@ play
 playback
 playbook
 player
-playlist
 playlists
 playwright
 plc
@@ -6138,7 +6147,6 @@ proxmox
 proxmoxve
 proxsys
 proxy
-proxyfunction
 proxyfunctions
 prtg
 prtg_network_monitor
@@ -9434,6 +9442,7 @@ remote-browser
 remote-desktop
 remote'
 remoteaccess
+remoteadmin
 remotecert
 remoteconnection
 remoteconnectionsmanager
@@ -9447,6 +9456,7 @@ remotedirectories
 remotefiles
 remoteforensics
 remotehost
+remotelocalgroup
 remotelogoff
 remotemanagement
 remotepro
@@ -10278,8 +10288,8 @@ speaker
 spec
 specification
 specify
+specs
 spectre
-spectre.console
 spectrumconnect
 spectrumcontrolbase
 speculation
@@ -10680,6 +10690,7 @@ tags
 tak
 taken
 takeown
+tally
 talxis
 tanss
 tanzu
@@ -10947,7 +10958,6 @@ traceevent
 tracer
 tracert
 tracing
-track
 tracker
 tracking
 trading
@@ -11071,6 +11081,7 @@ uberagent
 ubiquiti
 ubnt
 ubuntu
+ucs
 ucspowertool
 ud-avataaar
 ud-badgebutton
@@ -11155,7 +11166,6 @@ unc
 uncpaths
 underlined-text
 undo
-unhide
 unicode
 unicode-emoji
 unicode-emojis
