@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Thursday, 23 October 2025 09:52:36 UTC
+Updated: Thursday, 23 October 2025 21:52:29 UTC
 
 .bat
 .env
@@ -83,6 +83,7 @@ abc
 abc_testing
 abe
 about
+abr
 abstractsyntaxtree
 abuse
 abuseipdb
@@ -211,6 +212,7 @@ adm
 admf
 admin
 admin-tools
+adminbyrequest
 admincenter
 admindirectory
 administration
@@ -276,7 +278,6 @@ agnoster
 ahk
 ai
 ai-development
-ai-server
 ai21
 ai21labs
 aianomalydetection
@@ -537,8 +538,6 @@ armtemplates
 arp
 array
 arrays
-arrow
-arrow-key
 art
 artefactual
 artifact
@@ -571,7 +570,6 @@ asp.net
 aspire
 aspnet
 aspnet_regiis
-aspnetcore
 asr
 assembleenationale
 assembly
@@ -825,7 +823,6 @@ azurelocal
 azuremaps
 azuremigrate
 azuremonitor
-azurenative
 azurenetworking
 azurepack
 azurepimstuff
@@ -1206,7 +1203,6 @@ cavium
 cb
 cblueshell
 cbr
-cbs
 cbz
 cchoco
 cchocoex
@@ -1405,6 +1401,7 @@ clientsettingsstatemessaging
 clientsettingsuserdeviceaffinity
 clientstatussettings
 clihelper.core
+clihelper.logger
 clihelper.semver
 clihelper.trends
 clipart
@@ -1492,6 +1489,7 @@ codeagent
 codeanalysis
 codebeamer
 codebuild
+codebundler
 codecommit
 codecomplexity
 codecov
@@ -1556,7 +1554,6 @@ command_line
 command-line-interface
 command-validation
 commandcoverage
-commandhistory
 commandlets
 commandline
 commandr
@@ -1614,6 +1611,7 @@ computers
 computersite
 computeschedule
 comulativeupdate
+concatenate
 concur
 concurrency
 concurrent
@@ -1722,6 +1720,9 @@ convert-sid
 convert-windowsimage
 converter
 convertfrom
+convertfrom-json
+convertfrom-jsonashashtable
+convertfrom-jsontohashtable
 convertfrom-string
 convertfrom-stringtable
 convertfrom-table
@@ -2123,7 +2124,6 @@ demultiplex
 demultiplexing
 dependencies
 dependency
-dependencyfree
 dependencymap
 dependencysearch
 deploy
@@ -2178,6 +2178,7 @@ devops psmodule
 devsecninja
 devsecops
 devtestlabs
+devtools
 dfch
 dfir
 dfplayermini
@@ -2208,7 +2209,6 @@ digitalforensics
 digitalocean
 digitaltwins
 dilbert
-dimcry
 dircolors
 direct_send
 director
@@ -2404,7 +2404,6 @@ drive
 drive letter
 drivemap
 drivemapping
-driven
 driver
 driverpacks
 drivers
@@ -2880,6 +2879,7 @@ fastgit
 fastlinq
 fastlookup
 fastping
+fasttrack
 fat32
 favorite
 favorites
@@ -3177,7 +3177,6 @@ gamecategory:cards
 games
 gameserver
 gaming
-garage
 gas
 gat
 gateway
@@ -3603,7 +3602,6 @@ home
 home_automation
 homebrew
 homebrewing
-homelab
 homelandsecurity
 homeschooling
 hometheater
@@ -3717,7 +3715,6 @@ icinga2mssql
 icinga2plugins
 icingachecks
 icingaforwindows
-icingainventory
 icingamssql
 icingaplugins
 icingapowershell
@@ -3733,10 +3730,12 @@ icws
 id
 id3
 idabus
+idc
 ide
 identifier
 identity
 identity-management
+identitycenter
 identitydataplane
 identitydirector
 identitydomains
@@ -3747,7 +3746,6 @@ idf
 idm
 idn
 idna
-idoit
 idp
 idrac
 ids
@@ -4116,6 +4114,7 @@ jwe
 jwk
 jws
 jwt
+jwttoken
 k8s
 k8sshell
 k8ssnapshots
@@ -4247,7 +4246,6 @@ lame
 lametrictime
 landingzones
 language
-language-model
 languageai
 languagedsc
 languageexperiencepack
@@ -4386,7 +4384,6 @@ loandepot
 loc
 local
 local-account
-local-ai
 local-caching
 local-policy
 local-users
@@ -4437,7 +4434,6 @@ logfiles
 logger
 logging
 loggingingestion
-loggingsearch
 loggly
 logic
 logicapp
@@ -4518,7 +4514,6 @@ mac-address
 macaddress
 macadmins
 machine
-machine-learning
 machinelearning
 machinelearningcompute
 machinelearningmodels
@@ -4837,7 +4832,6 @@ mock
 mocking
 modding
 model
-model-management
 modeldeployment
 modeling
 models
@@ -5179,7 +5173,6 @@ nl
 nla
 nlm
 nlog
-nlp
 nmap
 nmbell
 nmm
@@ -5291,6 +5284,7 @@ objectstorage
 objecttree
 obs
 observeit
+oce
 ocg
 ocgv
 oci
@@ -5397,7 +5391,6 @@ open
 open-ai
 open-ssh
 openai
-openaiclient
 openamt
 openapi
 opencage
@@ -5454,6 +5447,7 @@ oracle
 oraclecloudinfrastructure
 oraculum
 orbital
+orchestrate
 orchestration
 orchestrator
 order
@@ -5759,11 +5753,11 @@ planner
 plantuml
 plaster
 platform
-platyps
 play
 playback
 playbook
 player
+playlist
 playlists
 playwright
 plc
@@ -5955,7 +5949,6 @@ powersaving
 powerscheme
 powershell
 powershell_universal
-powershell-ai
 powershell-art
 powershell-class
 powershell-cmdlets
@@ -6009,7 +6002,6 @@ powershellv5
 powershellweb
 powerstig
 powerstore
-powertab
 powertoolcmdlets
 powertooldsc
 powertree
@@ -9056,8 +9048,6 @@ psgraylog
 pshdhomerun
 pshost
 pshtml
-psidoit
-psidoitng
 psimport
 psincludes_cmdlet
 psincludes_command
@@ -9071,7 +9061,6 @@ psjob
 psjobs
 psjobthreads
 pskeepass
-psllm
 pslocalgallery
 psloganalytics
 psm
@@ -9272,7 +9261,6 @@ rackspace
 radarr
 radeon
 radio
-rag
 raidcontrollercmdlets
 railways
 rainbow
@@ -9410,7 +9398,6 @@ region
 regions
 regiser-argumentcompleter
 register
-register-argumentcompleter
 registered
 registrar
 registration
@@ -9418,7 +9405,6 @@ registry
 registry'networking
 registryoperations
 regression
-regular-expression
 regularexpression
 regularexpressions
 reinstall
@@ -10110,6 +10096,7 @@ simplysql
 simulation
 sin
 single
+singlesignon
 singlestore
 singleton
 sinks
@@ -10290,6 +10277,7 @@ specification
 specify
 specs
 spectre
+spectre.console
 spectrumconnect
 spectrumcontrolbase
 speculation
@@ -10403,6 +10391,7 @@ sslprotocol
 sslvpn
 ssm
 sso
+ssoidc
 sspi
 sspr
 ssrs
@@ -10820,7 +10809,6 @@ testtool
 testusers
 text
 text_to_speech
-text-based
 text-emoji
 text-emojis
 text-templates
@@ -10830,6 +10818,7 @@ text-to-speech
 text2image
 textanalysis
 textbuffer
+textfile
 textgeneration
 texting
 texting-emoji
@@ -10958,6 +10947,7 @@ traceevent
 tracer
 tracert
 tracing
+track
 tracker
 tracking
 trading
