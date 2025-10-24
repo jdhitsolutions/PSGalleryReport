@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Thursday, 23 October 2025 21:52:29 UTC
+Updated: Friday, 24 October 2025 09:52:19 UTC
 
 .bat
 .env
@@ -119,7 +119,6 @@ actifio
 actifiogo
 action
 action1
-actionablemessages
 actiongroup
 actionhero
 actionplan
@@ -278,6 +277,7 @@ agnoster
 ahk
 ai
 ai-development
+ai-server
 ai21
 ai21labs
 aianomalydetection
@@ -538,6 +538,8 @@ armtemplates
 arp
 array
 arrays
+arrow
+arrow-key
 art
 artefactual
 artifact
@@ -570,6 +572,7 @@ asp.net
 aspire
 aspnet
 aspnet_regiis
+aspnetcore
 asr
 assembleenationale
 assembly
@@ -823,6 +826,7 @@ azurelocal
 azuremaps
 azuremigrate
 azuremonitor
+azurenative
 azurenetworking
 azurepack
 azurepimstuff
@@ -1066,7 +1070,6 @@ brew
 brewing
 brewzilla
 brickset
-brickstore
 bridge
 brightbooking
 brightness
@@ -1181,7 +1184,6 @@ carbonawarecomputing
 carbonintensity
 card
 cards
-cardwirth
 careport
 cares
 cargo
@@ -1203,6 +1205,7 @@ cavium
 cb
 cblueshell
 cbr
+cbs
 cbz
 cchoco
 cchocoex
@@ -1249,7 +1252,6 @@ certificate
 certificateauthority
 certificatechain
 certificatemanager
-certificatepolicy
 certificates
 certificateservices
 certificatesmanagement
@@ -1554,6 +1556,7 @@ command_line
 command-line-interface
 command-validation
 commandcoverage
+commandhistory
 commandlets
 commandline
 commandr
@@ -2116,7 +2119,6 @@ dell
 dellemc
 delta
 demand
-demandsignal
 demo
 democratie
 demonstration
@@ -2124,13 +2126,13 @@ demultiplex
 demultiplexing
 dependencies
 dependency
+dependencyfree
 dependencymap
 dependencysearch
 deploy
 deployment
 deploymentconfig
 deploymentresourceprovider
-deploymenttasks
 depute
 der
 description
@@ -2209,6 +2211,7 @@ digitalforensics
 digitalocean
 digitaltwins
 dilbert
+dimcry
 dircolors
 direct_send
 director
@@ -2216,8 +2219,6 @@ directories
 directory
 directory psedition_core psedition_desktop
 directory-transform
-directorycleanup
-directorymanagement
 directorymarks
 directorymonitoring
 directoryname
@@ -2360,7 +2361,6 @@ domainnamesystem
 domains
 domino
 done.land
-donothing
 dos
 dot
 dotenv
@@ -2404,6 +2404,7 @@ drive
 drive letter
 drivemap
 drivemapping
+driven
 driver
 driverpacks
 drivers
@@ -2937,7 +2938,6 @@ fileexplorer
 filelist
 filelog
 filelogger
-filemaintenance
 filemanagement
 filematcher
 filename
@@ -3177,6 +3177,7 @@ gamecategory:cards
 games
 gameserver
 gaming
+garage
 gas
 gat
 gateway
@@ -3318,6 +3319,7 @@ gitlab-runner
 gitlab4
 gitlabpipeline
 gitops
+glass
 glimps
 glob
 global
@@ -3602,6 +3604,7 @@ home
 home_automation
 homebrew
 homebrewing
+homelab
 homelandsecurity
 homeschooling
 hometheater
@@ -3715,6 +3718,7 @@ icinga2mssql
 icinga2plugins
 icingachecks
 icingaforwindows
+icingainventory
 icingamssql
 icingaplugins
 icingapowershell
@@ -3746,6 +3750,7 @@ idf
 idm
 idn
 idna
+idoit
 idp
 idrac
 ids
@@ -3927,6 +3932,7 @@ investigation
 investing
 investment
 investments
+invisibletext
 invitation
 invocation
 invoice
@@ -4075,7 +4081,6 @@ join-object
 jojoba
 joke
 jokes
-jotform
 journal
 journalctl
 joyride
@@ -4246,6 +4251,7 @@ lame
 lametrictime
 landingzones
 language
+language-model
 languageai
 languagedsc
 languageexperiencepack
@@ -4384,6 +4390,7 @@ loandepot
 loc
 local
 local-account
+local-ai
 local-caching
 local-policy
 local-users
@@ -4391,7 +4398,6 @@ localaccounts
 localadmin
 localconfigurationmanager
 localdb
-localdirectories
 locale
 localgroup
 localgroupmember
@@ -4434,6 +4440,7 @@ logfiles
 logger
 logging
 loggingingestion
+loggingsearch
 loggly
 logic
 logicapp
@@ -4514,12 +4521,14 @@ mac-address
 macaddress
 macadmins
 machine
+machine-learning
 machinelearning
 machinelearningcompute
 machinelearningmodels
 machinelearningservices
 macmon
 macos
+macos-powershell
 macosx
 macro
 macros
@@ -4832,6 +4841,7 @@ mock
 mocking
 modding
 model
+model-management
 modeldeployment
 modeling
 models
@@ -5173,6 +5183,7 @@ nl
 nla
 nlm
 nlog
+nlp
 nmap
 nmbell
 nmm
@@ -5391,6 +5402,7 @@ open
 open-ai
 open-ssh
 openai
+openaiclient
 openamt
 openapi
 opencage
@@ -5571,7 +5583,6 @@ parameter
 parameterinfo
 parameters
 params
-parclient
 parititions
 parool
 parquet
@@ -5753,6 +5764,7 @@ planner
 plantuml
 plaster
 platform
+platyps
 play
 playback
 playbook
@@ -5949,6 +5961,7 @@ powersaving
 powerscheme
 powershell
 powershell_universal
+powershell-ai
 powershell-art
 powershell-class
 powershell-cmdlets
@@ -5992,7 +6005,6 @@ powershellml
 powershellmodule
 powershellmoduleupdate
 powershellpr0mpt
-powershellremoting
 powershellscript
 powershelltemplate
 powershelltraining
@@ -6002,6 +6014,7 @@ powershellv5
 powershellweb
 powerstig
 powerstore
+powertab
 powertoolcmdlets
 powertooldsc
 powertree
@@ -6139,6 +6152,7 @@ proxmox
 proxmoxve
 proxsys
 proxy
+proxyfunction
 proxyfunctions
 prtg
 prtg_network_monitor
@@ -9048,6 +9062,8 @@ psgraylog
 pshdhomerun
 pshost
 pshtml
+psidoit
+psidoitng
 psimport
 psincludes_cmdlet
 psincludes_command
@@ -9061,6 +9077,7 @@ psjob
 psjobs
 psjobthreads
 pskeepass
+psllm
 pslocalgallery
 psloganalytics
 psm
@@ -9261,6 +9278,7 @@ rackspace
 radarr
 radeon
 radio
+rag
 raidcontrollercmdlets
 railways
 rainbow
@@ -9398,6 +9416,7 @@ region
 regions
 regiser-argumentcompleter
 register
+register-argumentcompleter
 registered
 registrar
 registration
@@ -9405,6 +9424,7 @@ registry
 registry'networking
 registryoperations
 regression
+regular-expression
 regularexpression
 regularexpressions
 reinstall
@@ -9427,7 +9447,6 @@ remote
 remote-browser
 remote-desktop
 remote'
-remoteaccess
 remoteadmin
 remotecert
 remoteconnection
@@ -9438,7 +9457,6 @@ remotedesktopconnectionmanager
 remotedesktopgateway
 remotedesktopmanager
 remotedesktopservices
-remotedirectories
 remotefiles
 remoteforensics
 remotehost
@@ -9793,6 +9811,7 @@ screenshot
 script
 script_version
 script-module
+script-signing
 script-to-assembly
 script-to-executable
 scriptanalyzer
@@ -9812,6 +9831,7 @@ scriptmodule
 scriptoform
 scriptrunner
 scripts
+scriptsigning
 scriptsmonitoring
 scrolllock
 scrub
@@ -9897,13 +9917,11 @@ select-string
 selection
 selectxmlinfo
 selenium
-self
 self-hosted
 self-service
 self-signed
 selfdispatch
 selfhelp
-selfsigned
 semantic
 semantic-versioning
 semanticversioning
@@ -9947,7 +9965,6 @@ serilog
 serilog-for-powershell
 serilog-sink
 server
-servercertificatevalidationcallback
 serverless
 servermanagement
 serverprotection
@@ -10080,7 +10097,6 @@ signal
 signalfx
 signalr
 signature
-signed
 signing
 signtool
 silicondust
@@ -10453,6 +10469,7 @@ stdout
 steam
 steam-games
 steamcmd
+stenography
 stepper
 steps
 sticker
@@ -10809,6 +10826,7 @@ testtool
 testusers
 text
 text_to_speech
+text-based
 text-emoji
 text-emojis
 text-templates
@@ -11106,7 +11124,6 @@ ud-piechart3d
 ud-pivottable
 ud-progressstepbar
 ud-rangeslider
-ud-readingbar
 ud-scrollspy
 ud-selectdatetime
 ud-selector
@@ -11125,7 +11142,6 @@ ud-tool
 ud-toploader
 ud-trendline
 ud-typing
-ud-window
 ud-wordtree
 udcm
 uddi
@@ -11153,9 +11169,9 @@ unattended
 unattendedfile
 unblock
 unc
-uncpaths
 underlined-text
 undo
+unhide
 unicode
 unicode-emoji
 unicode-emojis
@@ -11340,7 +11356,6 @@ veeva
 venafi
 vencord
 vendor
-vendorpam
 venue
 venv
 venvlink
@@ -11718,7 +11733,6 @@ windowsdataprotectionapi
 windowsdefender
 windowsdesktop
 windowsdesktopsearch
-windowsdirectories
 windowsdiskcleanup
 windowsdomain
 windowsevent
