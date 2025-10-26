@@ -3,9 +3,107 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
-## [apitools](https://www.powershellgallery.com/Packages/apitools/1.0.2) | 1.0.2
+## [quickpath](https://www.powershellgallery.com/Packages/quickpath/0.16.0) | 0.16.0
 
-### Published: 10/25/2025 21:20:54 by Ruslan Dubas
+### Published: 10/26/2025 08:11:59 by Mark Visschers
+
+'quickpath' is a script to help easily navigate your system using the commandline.
+        Using aliases the script saves relative paths to quickly navigate to folders associated with the alias
+        and even makes it easy to open the folders/projects in your favorite tools.
+
+__Downloads__: 222 | __Repository__: https://github.com/MatrTech/quickpath
+
+## [PSDify](https://www.powershellgallery.com/Packages/PSDify/0.7.0) | 0.7.0
+
+### Published: 10/26/2025 07:29:48 by kurokobo
+
+PowerShell module for Dify.
+
+__Downloads__: 111 | __Repository__: https://github.com/kurokobo/psdify
+
+## [OMG.PSUtilities.Core](https://www.powershellgallery.com/Packages/OMG.PSUtilities.Core/1.0.13) | 1.0.13
+
+### Published: 10/26/2025 06:56:41 by Lakshmanachari Panuganti
+
+General purpose PowerShell utilities and system-level tools.
+
+__Downloads__: 3,240 | __Repository__: 
+
+## [OMG.PSUtilities.AzureDevOps](https://www.powershellgallery.com/Packages/OMG.PSUtilities.AzureDevOps/1.0.18) | 1.0.18
+
+### Published: 10/26/2025 06:56:35 by Lakshmanachari Panuganti
+
+Interact with Azure DevOps APIs, pipelines, repos, and work items.
+
+__Downloads__: 1,083 | __Repository__: 
+
+## [OMG.PSUtilities.AI](https://www.powershellgallery.com/Packages/OMG.PSUtilities.AI/1.0.24) | 1.0.24
+
+### Published: 10/26/2025 06:56:24 by Lakshmanachari Panuganti
+
+AI-powered scripting tools, including chat, summarization, and generation.
+
+__Downloads__: 2,200 | __Repository__: 
+
+## [PSMouseJiggler](https://www.powershellgallery.com/Packages/PSMouseJiggler/1.0.4) | 1.0.4
+
+### Published: 10/26/2025 06:46:05 by Steven Wight (PowerShell Young Team)
+
+A PowerShell module to simulate mouse movements and prevent system idle. Includes GUI interface, configurable movement patterns, and scheduled task support.
+
+__Downloads__: 50 | __Repository__: https://github.com/PowerShellYoungTeam/PSMouseJiggler
+
+## [qbo4.Infrastructure](https://www.powershellgallery.com/Packages/qbo4.Infrastructure/1.0.21.54) | 1.0.21.54
+
+### Published: 10/26/2025 06:18:11 by Quandis Inc.
+
+Quandis Infrastructure Management, including publishing of qbo databases and websites.
+
+__Downloads__: 1,664 | __Repository__: https://dev.azure.com/quandis/qbo4/_git/qbo4.Infrastructure
+
+## [ConsoleInk](https://www.powershellgallery.com/Packages/ConsoleInk/0.1.6) | 0.1.6
+
+### Published: 10/26/2025 06:14:11 by Jon Davis
+
+PowerShell module for rendering Markdown in the console using ConsoleInk.Net. Supports pipeline, string, and file input, with theming and color options.
+
+__Downloads__: 19 | __Repository__: https://github.com/stimpy77/ConsoleInk.NET
+
+## [Evergreen](https://www.powershellgallery.com/Packages/Evergreen/2510.2820.0) | 2510.2820.0
+
+### Published: 10/26/2025 05:48:10 by Aaron Parker
+
+Create evergreen Windows image builds with the latest versions of applications. Evergreen is a simple PowerShell module that retrieves the latest version numbers and download URLs for various software products directly from the vendor source.
+
+__Downloads__: 11,704,161 | __Repository__: https://eucpilots.com/evergreen-docs/
+
+## [OSD](https://www.powershellgallery.com/Packages/OSD/25.10.26.1) | 25.10.26.1
+
+### Published: 10/26/2025 05:08:58 by David Segura . Gary Blok . Michael Escamilla
+
+OSD PowerShell Module for Windows Deployment
+
+__Downloads__: 5,354,233 | __Repository__: https://github.com/OSDeploy/OSD
+
+## [Mouse](https://www.powershellgallery.com/Packages/Mouse/0.1.0.2) | 0.1.0.2
+
+### Published: 10/26/2025 02:50:24 by WizzardS10
+
+Simple mouse helpers: Get-MousePosition and Start-MouseClicker.
+
+__Downloads__: 0 | __Repository__: 
+
+## [K.PSGallery.Smartagr](https://www.powershellgallery.com/Packages/K.PSGallery.Smartagr/0.1.39) | 0.1.39
+
+### Published: 10/26/2025 00:08:17 by 1d70f
+
+Smart Git Tag Management with Semantic Versioning Intelligence. Automatically creates and manages Git tags with sophisticated version progression logic, smart tag intelligence, and moving tag management.
+
+__Downloads__: 16 | __Repository__: https://github.com/GrexyLoco/K.PSGallery.Smartagr
+
+## [apitools](https://www.powershellgallery.com/Packages/apitools/1.0.3) | 1.0.3
+
+### Published: 10/25/2025 22:04:24 by Ruslan Dubas
 
 apitools is a comprehensive PowerShell toolkit for modern API development and database tooling.
 
@@ -56,15 +154,7 @@ __Downloads__: 9 | __Repository__: https://github.com/TheOnliestMattastic/powerC
 
 ScottPlot plots in PowerShell.
 
-__Downloads__: 0 | __Repository__: https://github.com/nightroman/FarNet.ScottPlot
-
-## [OSD](https://www.powershellgallery.com/Packages/OSD/25.10.25.3) | 25.10.25.3
-
-### Published: 10/25/2025 17:07:14 by David Segura . Gary Blok . Michael Escamilla
-
-OSD PowerShell Module for Windows Deployment
-
-__Downloads__: 5,354,233 | __Repository__: https://github.com/OSDeploy/OSD
+__Downloads__: 1 | __Repository__: https://github.com/nightroman/FarNet.ScottPlot
 
 ## [PowerShell.MCP](https://www.powershellgallery.com/Packages/PowerShell.MCP/1.3.1) | 1.3.1
 
@@ -160,16 +250,6 @@ This module provides functions for working with Adaptive Cards in PowerShell in 
 
 __Downloads__: 97 | __Repository__: https://github.com/Michael19842/PowerShell.MvRAdaptiveCards.Module
 
-## [quickpath](https://www.powershellgallery.com/Packages/quickpath/0.15.1) | 0.15.1
-
-### Published: 10/24/2025 22:26:33 by Mark Visschers
-
-'quickpath' is a script to help easily navigate your system using the commandline.
-        Using aliases the script saves relative paths to quickly navigate to folders associated with the alias
-        and even makes it easy to open the folders/projects in your favorite tools.
-
-__Downloads__: 222 | __Repository__: https://github.com/MatrTech/quickpath
-
 ## [SPSAeries](https://www.powershellgallery.com/Packages/SPSAeries/0.3.42) | 0.3.42
 
 ### Published: 10/24/2025 21:18:36 by Jesse Geron
@@ -177,14 +257,6 @@ __Downloads__: 222 | __Repository__: https://github.com/MatrTech/quickpath
 Supplements official Aeries PS module, providing additional functionality for interacting with the Aeries SIS API.
 
 __Downloads__: 169 | __Repository__: 
-
-## [K.PSGallery.Smartagr](https://www.powershellgallery.com/Packages/K.PSGallery.Smartagr/0.1.11) | 0.1.11
-
-### Published: 10/24/2025 19:19:31 by 1d70f
-
-Smart Git Tag Management with Semantic Versioning Intelligence. Automatically creates and manages Git tags with sophisticated version progression logic, smart tag intelligence, and moving tag management.
-
-__Downloads__: 16 | __Repository__: https://github.com/GrexyLoco/K.PSGallery.Smartagr
 
 ## [Glass](https://www.powershellgallery.com/Packages/Glass/0.1.1) | 0.1.1
 
@@ -566,22 +638,6 @@ A command-line based tool to scrape and sort your local Japanese Adult Video (JA
 
 __Downloads__: 96,639 | __Repository__: https://github.com/javinizer/Javinizer
 
-## [Evergreen](https://www.powershellgallery.com/Packages/Evergreen/2510.2817.0) | 2510.2817.0
-
-### Published: 10/23/2025 01:12:06 by Aaron Parker
-
-Create evergreen Windows image builds with the latest versions of applications. Evergreen is a simple PowerShell module that retrieves the latest version numbers and download URLs for various software products directly from the vendor source.
-
-__Downloads__: 11,704,014 | __Repository__: https://eucpilots.com/evergreen-docs/
-
-## [PSMouseJiggler](https://www.powershellgallery.com/Packages/PSMouseJiggler/1.0.3) | 1.0.3
-
-### Published: 10/22/2025 23:16:10 by Steven Wight (PowerShell Young Team)
-
-A PowerShell module to simulate mouse movements and prevent system idle. Includes GUI interface, configurable movement patterns, and scheduled task support.
-
-__Downloads__: 50 | __Repository__: https://github.com/PowerShellYoungTeam/PSMouseJiggler
-
 ## [OraPatchDownload](https://www.powershellgallery.com/Packages/OraPatchDownload/1.2.6) | 1.2.6
 
 ### Published: 10/22/2025 23:04:39 by Paul Sammy
@@ -620,7 +676,7 @@ __Downloads__: 86,738 | __Repository__: https://github.com/dylanhaskins/Microsof
 
 General Scripting Framework, providing PowerShell-specific infrastructure for other modules.
 
-__Downloads__: 9,258,029 | __Repository__: http://psframework.org/
+__Downloads__: 9,258,085 | __Repository__: http://psframework.org/
 
 ## [Connect-RemoteDesktop](https://www.powershellgallery.com/Packages/Connect-RemoteDesktop/25.10.21.2003) | 25.10.21.2003
 
@@ -835,7 +891,7 @@ __Downloads__: 88,068 | __Repository__: https://github.com/rebelinux/Diagrammer.
 
 Automate your CyberArk Certificate Manager (Venafi TLS Protect) Self-Hosted and SaaS platforms!
 
-__Downloads__: 55,309 | __Repository__: https://github.com/Venafi/VenafiPS
+__Downloads__: 55,310 | __Repository__: https://github.com/Venafi/VenafiPS
 
 ## [Sentry](https://www.powershellgallery.com/Packages/Sentry/0.4.0) | 0.4.0
 
@@ -2105,60 +2161,4 @@ This modules provides Cmdlets for OCI Ailanguage Service
 
 __Downloads__: 15,204 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-## [OCI.PSModules.Aidocument](https://www.powershellgallery.com/Packages/OCI.PSModules.Aidocument/117.1.0) | 117.1.0
-
-### Published: 10/21/2025 15:27:54 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Aidocument Service
-
-__Downloads__: 9,781 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Aidataplatform](https://www.powershellgallery.com/Packages/OCI.PSModules.Aidataplatform/117.1.0) | 117.1.0
-
-### Published: 10/21/2025 15:27:48 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Aidataplatform Service
-
-__Downloads__: 289 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Adm](https://www.powershellgallery.com/Packages/OCI.PSModules.Adm/117.1.0) | 117.1.0
-
-### Published: 10/21/2025 15:27:41 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Adm Service
-
-__Downloads__: 10,837 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Accessgovernancecp](https://www.powershellgallery.com/Packages/OCI.PSModules.Accessgovernancecp/117.1.0) | 117.1.0
-
-### Published: 10/21/2025 15:27:34 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Accessgovernancecp Service
-
-__Downloads__: 9,045 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Common](https://www.powershellgallery.com/Packages/OCI.PSModules.Common/117.1.0) | 117.1.0
-
-### Published: 10/21/2025 15:26:36 by Oracle Cloud Infrastructure
-
-OCI Common module exports Cmdlets that manages features offered by OCI Modules for Powershell like History Store, OCI Configuration file setup and Per-Session Region/Config/Profile preferences. Common module also contains some functionalties that are common to all OCI Service modules, therefore all OCI Service modules depends on Common module.
-
-__Downloads__: 326,684 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OMG.PSUtilities.AI](https://www.powershellgallery.com/Packages/OMG.PSUtilities.AI/1.0.23) | 1.0.23
-
-### Published: 10/21/2025 13:01:35 by Lakshmanachari Panuganti
-
-AI-powered scripting tools, including chat, summarization, and generation.
-
-__Downloads__: 2,200 | __Repository__: 
-
-## [PSAppDeployToolkit](https://www.powershellgallery.com/Packages/PSAppDeployToolkit/4.1.7) | 4.1.7
-
-### Published: 10/21/2025 12:25:39 by PSAppDeployToolkit Team (Sean Lillis Dan Cunningham Muhammad Mashwani Mitch Richters Dan Gough)
-
-Enterprise App Deployment, Simplified.
-
-__Downloads__: 1,369,866 | __Repository__: https://psappdeploytoolkit.com/
-
-*Updated: Saturday, 25 October 2025 21:52:26 UTC*
+*Updated: Sunday, 26 October 2025 09:52:06 UTC*
