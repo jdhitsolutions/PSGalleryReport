@@ -3,13 +3,61 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
-## [PSMouseJiggler](https://www.powershellgallery.com/Packages/PSMouseJiggler/1.1.0) | 1.1.0
+## [DOrcDeployModule](https://www.powershellgallery.com/Packages/DOrcDeployModule/25.10.27.1) | 25.10.27.1
 
-### Published: 10/26/2025 19:45:50 by Steven Wight (PowerShell Young Team)
+### Published: 10/27/2025 09:02:15 by Trading DevOps
 
-A PowerShell module to simulate mouse movements and prevent system idle. Includes GUI interface, configurable movement patterns, and scheduled task support.
+Functions used by DOrc deployment scripts
 
-__Downloads__: 54 | __Repository__: https://github.com/PowerShellYoungTeam/PSMouseJiggler
+__Downloads__: 118 | __Repository__: 
+
+## [ColorScripts-Enhanced](https://www.powershellgallery.com/Packages/ColorScripts-Enhanced/2025.10.27.541) | 2025.10.27.541
+
+### Published: 10/27/2025 05:43:12 by Nick2bad4u
+
+Enhanced PowerShell ColorScripts with high-performance caching system. Display beautiful ANSI art in your terminal with 6-19x faster load times.
+
+Features:
+• 498 beautiful colorscripts - Extensive collection of ANSI art
+• Intelligent Caching - 6-19x performance improvement (5-20ms load times)
+• OS-Wide Cache - Consistent caching across all terminal sessions
+• Simple API - Easy-to-use cmdlets with tab completion
+• Configurable Defaults - Persist cache locations and startup behaviour
+• Auto-Update - Cache automatically invalidates when scripts change
+• Centralized Storage - Cache stored in AppData/ColorScripts-Enhanced/cache
+• Cross-platform - Works on Windows, Linux, and macOS
+• PowerShell 5.1+ and PowerShell Core 7+ compatible
+
+Quick Start: Show-ColorScript (or alias: scs)
+Full documentation: https://github.com/Nick2bad4u/ps-color-scripts-enhanced
+
+__Downloads__: 73 | __Repository__: https://github.com/Nick2bad4u/ps-color-scripts-enhanced
+
+## [OSD](https://www.powershellgallery.com/Packages/OSD/25.10.27.1) | 25.10.27.1
+
+### Published: 10/27/2025 05:09:06 by David Segura . Gary Blok . Michael Escamilla
+
+OSD PowerShell Module for Windows Deployment
+
+__Downloads__: 5,354,822 | __Repository__: https://github.com/OSDeploy/OSD
+
+## [quickpath](https://www.powershellgallery.com/Packages/quickpath/0.16.3) | 0.16.3
+
+### Published: 10/27/2025 01:44:13 by Mark Visschers
+
+'quickpath' is a script to help easily navigate your system using the commandline.
+        Using aliases the script saves relative paths to quickly navigate to folders associated with the alias
+        and even makes it easy to open the folders/projects in your favorite tools.
+
+__Downloads__: 232 | __Repository__: https://github.com/MatrTech/quickpath
+
+## [MvRAdaptiveCards](https://www.powershellgallery.com/Packages/MvRAdaptiveCards/0.7.1.0) | 0.7.1.0
+
+### Published: 10/26/2025 22:23:56 by Michael van Rooijen
+
+This module provides functions for working with Adaptive Cards in PowerShell in a similar fashion as the popular module PSWriteHTML does for HTML generation. Please read the documentation on GitHub for more information. (https://github.com/Michael19842/PowerShell.MvRAdaptiveCards.Module)
+
+__Downloads__: 99 | __Repository__: https://github.com/Michael19842/PowerShell.MvRAdaptiveCards.Module
 
 ## [BuildPhpExtension](https://www.powershellgallery.com/Packages/BuildPhpExtension/1.2.0.0) | 1.2.0.0
 
@@ -18,6 +66,14 @@ __Downloads__: 54 | __Repository__: https://github.com/PowerShellYoungTeam/PSMou
 Build PHP Extension
 
 __Downloads__: 253 | __Repository__: https://github.com/php/php-windows-builder
+
+## [PSMouseJiggler](https://www.powershellgallery.com/Packages/PSMouseJiggler/1.1.0) | 1.1.0
+
+### Published: 10/26/2025 19:45:50 by Steven Wight (PowerShell Young Team)
+
+A PowerShell module to simulate mouse movements and prevent system idle. Includes GUI interface, configurable movement patterns, and scheduled task support.
+
+__Downloads__: 54 | __Repository__: https://github.com/PowerShellYoungTeam/PSMouseJiggler
 
 ## [BuildPhp](https://www.powershellgallery.com/Packages/BuildPhp/1.2.0.0) | 1.2.0.0
 
@@ -49,15 +105,7 @@ __Downloads__: 4 | __Repository__:
 
 PowerShell module for interacting with the Sage Wallet RPC API.
 
-__Downloads__: 195 | __Repository__: https://github.com/AbandonedLand/PowerSage
-
-## [OSD](https://www.powershellgallery.com/Packages/OSD/25.10.26.3) | 25.10.26.3
-
-### Published: 10/26/2025 17:07:52 by David Segura . Gary Blok . Michael Escamilla
-
-OSD PowerShell Module for Windows Deployment
-
-__Downloads__: 5,354,813 | __Repository__: https://github.com/OSDeploy/OSD
+__Downloads__: 196 | __Repository__: https://github.com/AbandonedLand/PowerSage
 
 ## [PowerShellPet](https://www.powershellgallery.com/Packages/PowerShellPet/1.2.0) | 1.2.0
 
@@ -66,16 +114,6 @@ __Downloads__: 5,354,813 | __Repository__: https://github.com/OSDeploy/OSD
 A sassy cat companion for your PowerShell terminal. Lord Whiskers adds personality to your command line with witty commentary, multiple moods, and a leveling system based on your git commits.
 
 __Downloads__: 10 | __Repository__: 
-
-## [quickpath](https://www.powershellgallery.com/Packages/quickpath/0.16.0) | 0.16.0
-
-### Published: 10/26/2025 08:11:59 by Mark Visschers
-
-'quickpath' is a script to help easily navigate your system using the commandline.
-        Using aliases the script saves relative paths to quickly navigate to folders associated with the alias
-        and even makes it easy to open the folders/projects in your favorite tools.
-
-__Downloads__: 232 | __Repository__: https://github.com/MatrTech/quickpath
 
 ## [PSDify](https://www.powershellgallery.com/Packages/PSDify/0.7.0) | 0.7.0
 
@@ -196,14 +234,6 @@ ScottPlot plots in PowerShell.
 
 __Downloads__: 4 | __Repository__: https://github.com/nightroman/FarNet.ScottPlot
 
-## [PowerShell.MCP](https://www.powershellgallery.com/Packages/PowerShell.MCP/1.3.1) | 1.3.1
-
-### Published: 10/25/2025 13:43:50 by Yoshifumi Tsuda
-
-Enables PowerShell console to function as an MCP server for Claude Desktop.
-
-__Downloads__: 339 | __Repository__: https://github.com/yotsuda/PowerShell.MCP
-
 ## [MiToken](https://www.powershellgallery.com/Packages/MiToken/0.1.3) | 0.1.3
 
 ### Published: 10/25/2025 11:14:43 by Daniel Bradley
@@ -252,28 +282,6 @@ Helper functions for script paths, logging, hashing, NuGet library management, a
 
 __Downloads__: 63 | __Repository__: 
 
-## [ColorScripts-Enhanced](https://www.powershellgallery.com/Packages/ColorScripts-Enhanced/2025.10.25.536) | 2025.10.25.536
-
-### Published: 10/25/2025 05:37:44 by Nick2bad4u
-
-Enhanced PowerShell ColorScripts with high-performance caching system. Display beautiful ANSI art in your terminal with 6-19x faster load times.
-
-Features:
-• 245+ beautiful colorscripts - Extensive collection of ANSI art
-• Intelligent Caching - 6-19x performance improvement (5-20ms load times)
-• OS-Wide Cache - Consistent caching across all terminal sessions
-• Simple API - Easy-to-use cmdlets with tab completion
-• Configurable Defaults - Persist cache locations and startup behaviour
-• Auto-Update - Cache automatically invalidates when scripts change
-• Centralized Storage - Cache stored in AppData/ColorScripts-Enhanced/cache
-• Cross-platform - Works on Windows, Linux, and macOS
-• PowerShell 5.1+ and PowerShell Core 7+ compatible
-
-Quick Start: Show-ColorScript (or alias: scs)
-Full documentation: https://github.com/Nick2bad4u/ps-color-scripts-enhanced
-
-__Downloads__: 73 | __Repository__: https://github.com/Nick2bad4u/ps-color-scripts-enhanced
-
 ## [tiPS](https://www.powershellgallery.com/Packages/tiPS/1.4.8) | 1.4.8
 
 ### Published: 10/25/2025 00:26:45 by Daniel Schroeder
@@ -281,14 +289,6 @@ __Downloads__: 73 | __Repository__: https://github.com/Nick2bad4u/ps-color-scrip
 PowerShell tips delivered straight to your terminal.
 
 __Downloads__: 37,789 | __Repository__: https://github.com/deadlydog/PowerShell.tiPS
-
-## [MvRAdaptiveCards](https://www.powershellgallery.com/Packages/MvRAdaptiveCards/0.7.0.0) | 0.7.0.0
-
-### Published: 10/24/2025 22:31:38 by Michael van Rooijen
-
-This module provides functions for working with Adaptive Cards in PowerShell in a similar fashion as the popular module PSWriteHTML does for HTML generation. Please read the documentation on GitHub for more information. (https://github.com/Michael19842/PowerShell.MvRAdaptiveCards.Module)
-
-__Downloads__: 99 | __Repository__: https://github.com/Michael19842/PowerShell.MvRAdaptiveCards.Module
 
 ## [SPSAeries](https://www.powershellgallery.com/Packages/SPSAeries/0.3.42) | 0.3.42
 
@@ -862,7 +862,7 @@ __Downloads__: 3,136 | __Repository__: https://www.inera.se/eklient
 
 ps-jsonlogger is a small, dependency-free structured logging module for PowerShell that offers both compact JSON logs on-disk and human-readble console output. It supports log levels, context objects, full call stack inclusion, and more.
 
-__Downloads__: 29 | __Repository__: https://github.com/BryanCuneo/ps-jsonlogger
+__Downloads__: 30 | __Repository__: https://github.com/BryanCuneo/ps-jsonlogger
 
 ## [SqlServerMaintenance](https://www.powershellgallery.com/Packages/SqlServerMaintenance/2.5.5.1) | 2.5.5.1
 
@@ -886,7 +886,7 @@ __Downloads__: 59,246 | __Repository__: https://github.com/rebelinux/Veeam.Diagr
 
 A Cmdlet that assists a developer with building Acumatica front-end assets, leveraging the NodeJS and npm version found in the web.config file.
 
-__Downloads__: 18 | __Repository__: https://github.com/lekker-solutions/acumatica-nodehelper
+__Downloads__: 19 | __Repository__: https://github.com/lekker-solutions/acumatica-nodehelper
 
 ## [M365IdentityPosture](https://www.powershellgallery.com/Packages/M365IdentityPosture/1.0.0) | 1.0.0
 
@@ -907,7 +907,7 @@ Current Release (v1.0): Authentication Context Inventory
 Designed as an extensible framework for future identity and security analytics including Access Package reporting, 
 Role Assignment auditing, Conditional Access gap analysis, and Identity Protection insights.
 
-__Downloads__: 4 | __Repository__: https://github.com/Noble-Effeciency13/M365IdentityPosture
+__Downloads__: 5 | __Repository__: https://github.com/Noble-Effeciency13/M365IdentityPosture
 
 ## [AsBuiltReport.NetApp.ONTAP](https://www.powershellgallery.com/Packages/AsBuiltReport.NetApp.ONTAP/0.6.9) | 0.6.9
 
@@ -1159,7 +1159,7 @@ __Downloads__: 12,473 | __Repository__: https://github.com/oracle/oci-powershell
 
 This modules provides Cmdlets for OCI Resourcesearch Service
 
-__Downloads__: 13,328 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+__Downloads__: 13,329 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
 ## [OCI.PSModules.Resourcescheduler](https://www.powershellgallery.com/Packages/OCI.PSModules.Resourcescheduler/117.1.0) | 117.1.0
 
@@ -1359,7 +1359,7 @@ __Downloads__: 12,870 | __Repository__: https://github.com/oracle/oci-powershell
 
 This modules provides Cmdlets for OCI Objectstorage Service
 
-__Downloads__: 22,047 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+__Downloads__: 22,049 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
 ## [OCI.PSModules.Nosql](https://www.powershellgallery.com/Packages/OCI.PSModules.Nosql/117.1.0) | 117.1.0
 
@@ -1623,7 +1623,7 @@ __Downloads__: 11,221 | __Repository__: https://github.com/oracle/oci-powershell
 
 This modules provides Cmdlets for OCI Identity Service
 
-__Downloads__: 22,265 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+__Downloads__: 22,267 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
 ## [OCI.PSModules.Healthchecks](https://www.powershellgallery.com/Packages/OCI.PSModules.Healthchecks/117.1.0) | 117.1.0
 
@@ -2161,4 +2161,4 @@ This modules provides Cmdlets for OCI Apiaccesscontrol Service
 
 __Downloads__: 825 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-*Updated: Sunday, 26 October 2025 21:52:12 UTC*
+*Updated: Monday, 27 October 2025 09:53:07 UTC*
