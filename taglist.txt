@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Tuesday, 28 October 2025 09:52:36 UTC
+Updated: Tuesday, 28 October 2025 21:52:14 UTC
 
 .bat
 .env
@@ -146,6 +146,7 @@ activenet
 activenetapi
 activenetworkstation
 activenetworkstationservice
+activerecord
 activeresponse
 activesession
 activiti
@@ -416,6 +417,7 @@ anypoint
 anywhere
 aovpn psmodule
 apache
+apache_maven
 apachekafka
 apexlegends
 api
@@ -1009,6 +1011,7 @@ blocks
 blog
 blogger
 blogs
+bloodhound
 bloxone
 bloxoneddi
 bls
@@ -1053,7 +1056,6 @@ box
 bpmn
 brainy
 branch
-branch-rename
 brave
 brawlapi
 brawlstars
@@ -1245,7 +1247,6 @@ cert
 certbasedauth
 certera
 certes
-certificat
 certificate
 certificateauthority
 certificatechain
@@ -1992,6 +1993,7 @@ dataflow
 dataflowdependency
 dataframe
 datagateway
+dataimport
 dataintegration
 datakwaliteit
 datalabelingservice
@@ -2173,6 +2175,7 @@ deviceprovisioningservice
 deviceregistry
 devicereports
 devices
+deviceupdate
 devolutions
 devops
 devops psmodule
@@ -2186,6 +2189,7 @@ dfplayermini
 dfs
 dfw
 dg
+dhash
 dhcp
 di
 diagnostic
@@ -3029,7 +3033,6 @@ flash
 flasharray
 flatfile
 flatten
-flaui
 flavor
 fleet
 fleetappsmanagement
@@ -3300,9 +3303,7 @@ git-client
 git-clone
 git-flow
 git-lfs
-git-open
 git-proxy
-git-rename
 git-stat
 gitcmdline
 gitdesktop
@@ -3341,10 +3342,8 @@ gmsa
 gnome
 gnucash
 gnuwin32
-go
 gobright
 godaddy
-golang
 golden_ticket
 goldengate
 goldsource
@@ -3551,7 +3550,6 @@ helper-functions
 helperfunctions
 helpers
 helpfile
-helpful
 heml
 here
 hewlett
@@ -3774,6 +3772,7 @@ ilo
 ilocmdlets
 im
 image
+image-comparison
 image-converter
 image-creation
 image-generation
@@ -4028,7 +4027,6 @@ itemobject
 items
 itemstack
 iterate
-iteration
 itg
 itglue
 itin
@@ -4082,7 +4080,6 @@ join-object
 jojoba
 joke
 jokes
-jotform
 journal
 journalctl
 joyride
@@ -4336,7 +4333,6 @@ light
 lights
 lime
 limesurvey
-limit
 limit-job
 limits
 lina
@@ -4415,7 +4411,6 @@ lock
 lockbox
 lockdisplaytimeout
 lockdown
-lockfile
 locking
 lockoutreport
 lockscreen
@@ -4640,7 +4635,6 @@ matrix
 maven
 max
 max_path
-maximum
 maxoffice
 mazerat
 mb
@@ -4809,7 +4803,6 @@ miniconda
 minifier
 minimal
 minimalist-framework
-minimum
 minio
 mip
 mipsdk
@@ -4990,7 +4983,6 @@ multimedia
 multios
 multipart
 multipass
-multiple
 multiserver
 multistring
 multitenant
@@ -5055,6 +5047,8 @@ natural-language-to-code
 natural-selection
 nature
 nav
+naven
+navenps
 navigation
 nbi
 ncal
@@ -5679,6 +5673,7 @@ penetrationtesting
 pentesting
 pentia
 people
+perceptual-hash
 perforce
 performance
 performance-counters
@@ -5892,12 +5887,12 @@ poshy-wrap-gh
 poshy-wrap-git
 poshy-wrap-git-flow
 poshy-wrap-git-lfs
-poshy-wrap-golang
 poshy-wrap-helm
 poshy-wrap-kubectl
 poshy-wrap-maven
 poshy-wrap-nginx
 poshy-wrap-nmap
+poshy-wrap-npm
 poshy-wrap-pip
 poshy-wrap-pipenv
 poshy-wrap-pyenv
@@ -6766,31 +6761,6 @@ pscommand_gmu
 pscommand_gmum
 pscommand_gmv
 pscommand_gnew
-pscommand_gob
-pscommand_goc
-pscommand_god
-pscommand_goe
-pscommand_gof
-pscommand_gofa
-pscommand_gofx
-pscommand_gog
-pscommand_goga
-pscommand_goi
-pscommand_gol
-pscommand_gom
-pscommand_gopa
-pscommand_gopb
-pscommand_gops
-pscommand_gor
-pscommand_got
-pscommand_gota
-pscommand_goto
-pscommand_gotoc
-pscommand_gotod
-pscommand_gotofx
-pscommand_gov
-pscommand_gove
-pscommand_gow
 pscommand_gp
 pscommand_gpatch
 pscommand_gpdo
@@ -7016,28 +6986,6 @@ pscommand_invoke-gitsubmoduleallpullorigin
 pscommand_invoke-gitswitch
 pscommand_invoke-gittag
 pscommand_invoke-gitwhatchanged
-pscommand_invoke-gobuild
-pscommand_invoke-goclean
-pscommand_invoke-godoc
-pscommand_invoke-goenv
-pscommand_invoke-gofix
-pscommand_invoke-gofmt
-pscommand_invoke-gofmtellipsis
-pscommand_invoke-goget
-pscommand_invoke-gogetellipsis
-pscommand_invoke-goinstall
-pscommand_invoke-golist
-pscommand_invoke-gomod
-pscommand_invoke-gorun
-pscommand_invoke-gotest
-pscommand_invoke-gotestellipsis
-pscommand_invoke-gotool
-pscommand_invoke-gotoolcompile
-pscommand_invoke-gotooldist
-pscommand_invoke-gotoolfix
-pscommand_invoke-goversion
-pscommand_invoke-govet
-pscommand_invoke-gowork
 pscommand_invoke-greppipfreeze
 pscommand_invoke-helm
 pscommand_invoke-helminstall
@@ -7165,6 +7113,24 @@ pscommand_invoke-mavenpackage
 pscommand_invoke-mavenreleaseperform
 pscommand_invoke-mavenreleaseprepare
 pscommand_invoke-mavenreleaserollback
+pscommand_invoke-npmbinmungedpath
+pscommand_invoke-npminfo
+pscommand_invoke-npminit
+pscommand_invoke-npminstallforcefully
+pscommand_invoke-npminstallglobally
+pscommand_invoke-npminstallsave
+pscommand_invoke-npminstallsavedev
+pscommand_invoke-npmlist
+pscommand_invoke-npmlistdepth0
+pscommand_invoke-npmoutdated
+pscommand_invoke-npmpublish
+pscommand_invoke-npmrun
+pscommand_invoke-npmrundev
+pscommand_invoke-npmsearch
+pscommand_invoke-npmstart
+pscommand_invoke-npmtest
+pscommand_invoke-npmupdate
+pscommand_invoke-npmversion
 pscommand_invoke-pipenvcheck
 pscommand_invoke-pipenvclean
 pscommand_invoke-pipenvgraph
@@ -7609,6 +7575,23 @@ pscommand_notify-send-terminalnotifier
 pscommand_npm-disable-proxy
 pscommand_npm-enable-proxy
 pscommand_npm-show-proxy
+pscommand_npmd
+pscommand_npme
+pscommand_npmf
+pscommand_npmg
+pscommand_npmi
+pscommand_npml
+pscommand_npml0
+pscommand_npmo
+pscommand_npmp
+pscommand_npmr
+pscommand_npmrd
+pscommand_npms
+pscommand_npmse
+pscommand_npmst
+pscommand_npmt
+pscommand_npmu
+pscommand_npmv
 pscommand_open_command
 pscommand_pch
 pscommand_pcl
@@ -7716,9 +7699,6 @@ pscommand_set-locationback9
 pscommand_set-locationdown1
 pscommand_set-locationforward1
 pscommand_set-locationgithome
-pscommand_set-locationgopath
-pscommand_set-locationgopathbin
-pscommand_set-locationgopathsrc
 pscommand_set-locationnewdirectory
 pscommand_set-locationup
 pscommand_set-locationup1
@@ -8397,28 +8377,6 @@ psfunction_invoke-gitsubmoduleallpullorigin
 psfunction_invoke-gitswitch
 psfunction_invoke-gittag
 psfunction_invoke-gitwhatchanged
-psfunction_invoke-gobuild
-psfunction_invoke-goclean
-psfunction_invoke-godoc
-psfunction_invoke-goenv
-psfunction_invoke-gofix
-psfunction_invoke-gofmt
-psfunction_invoke-gofmtellipsis
-psfunction_invoke-goget
-psfunction_invoke-gogetellipsis
-psfunction_invoke-goinstall
-psfunction_invoke-golist
-psfunction_invoke-gomod
-psfunction_invoke-gorun
-psfunction_invoke-gotest
-psfunction_invoke-gotestellipsis
-psfunction_invoke-gotool
-psfunction_invoke-gotoolcompile
-psfunction_invoke-gotooldist
-psfunction_invoke-gotoolfix
-psfunction_invoke-goversion
-psfunction_invoke-govet
-psfunction_invoke-gowork
 psfunction_invoke-greppipfreeze
 psfunction_invoke-helm
 psfunction_invoke-helminstall
@@ -8546,6 +8504,24 @@ psfunction_invoke-mavenpackage
 psfunction_invoke-mavenreleaseperform
 psfunction_invoke-mavenreleaseprepare
 psfunction_invoke-mavenreleaserollback
+psfunction_invoke-npmbinmungedpath
+psfunction_invoke-npminfo
+psfunction_invoke-npminit
+psfunction_invoke-npminstallforcefully
+psfunction_invoke-npminstallglobally
+psfunction_invoke-npminstallsave
+psfunction_invoke-npminstallsavedev
+psfunction_invoke-npmlist
+psfunction_invoke-npmlistdepth0
+psfunction_invoke-npmoutdated
+psfunction_invoke-npmpublish
+psfunction_invoke-npmrun
+psfunction_invoke-npmrundev
+psfunction_invoke-npmsearch
+psfunction_invoke-npmstart
+psfunction_invoke-npmtest
+psfunction_invoke-npmupdate
+psfunction_invoke-npmversion
 psfunction_invoke-pipenvcheck
 psfunction_invoke-pipenvclean
 psfunction_invoke-pipenvgraph
@@ -8915,9 +8891,6 @@ psfunction_set-locationback9
 psfunction_set-locationdown1
 psfunction_set-locationforward1
 psfunction_set-locationgithome
-psfunction_set-locationgopath
-psfunction_set-locationgopathbin
-psfunction_set-locationgopathsrc
 psfunction_set-locationnewdirectory
 psfunction_set-locationup
 psfunction_set-locationup1
@@ -9045,6 +9018,7 @@ psnavigation
 psnexosisclient
 psngenposh
 psobject
+psoutlog
 pspath
 pspersonio
 pspowerhour
@@ -9193,6 +9167,7 @@ quantum
 quarantine
 queries
 query
+querybuilder
 queryexcel
 querystring
 question
@@ -9427,9 +9402,6 @@ removetypeaccelerators
 remux
 ren-isac
 rename
-rename-git
-rename-git-branch
-rename-gitbranch
 render
 reonboarding
 repair
@@ -9774,7 +9746,6 @@ scriptcs
 scriptedui
 scripting
 scriptlog
-scriptlogging
 scriptmodule
 scriptoform
 scriptrunner
@@ -10242,7 +10213,6 @@ speak
 speaker
 spec
 specification
-specify
 specs
 spectre
 spectre.console
