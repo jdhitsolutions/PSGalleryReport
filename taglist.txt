@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Tuesday, 28 October 2025 21:52:14 UTC
+Updated: Wednesday, 29 October 2025 09:52:19 UTC
 
 .bat
 .env
@@ -312,7 +312,6 @@ alac
 alain
 alarm
 alb
-albums
 alc
 alero
 alert
@@ -357,7 +356,6 @@ amazonmgn
 amazontitan
 amazonwebservices
 amd
-amend
 ami
 amiga
 amp
@@ -560,7 +558,6 @@ ascii85
 asciiart
 asdatabase
 asigra
-asjob
 ask-gpt
 askgpt
 asm
@@ -597,7 +594,6 @@ asv
 asymmetric
 async
 asynchronous
-atempo
 atera
 athena
 atlas
@@ -639,7 +635,6 @@ authenticate
 authentication
 authenticationcertificate
 authenticationcontext
-authenticationstrength
 authenticode
 authn
 author
@@ -682,7 +677,6 @@ automations
 automationutils
 autonomoussystem
 autonomoussystemnumber
-autopatching
 autopilot
 autoscaling
 autostart
@@ -1056,6 +1050,7 @@ box
 bpmn
 brainy
 branch
+branch-rename
 brave
 brawlapi
 brawlstars
@@ -1247,11 +1242,11 @@ cert
 certbasedauth
 certera
 certes
+certificat
 certificate
 certificateauthority
 certificatechain
 certificatemanager
-certificatepolicy
 certificates
 certificateservices
 certificatesmanagement
@@ -1620,7 +1615,6 @@ concurrency
 concurrent
 conda
 condition
-conditional
 conditionalaccess
 conduit
 conference
@@ -2259,9 +2253,7 @@ diskfree
 diskimage
 diskpart
 diskpool
-disksize
 diskspace
-diskusage
 dism
 dismal
 display
@@ -2457,7 +2449,6 @@ dtx
 du
 dual-stack
 duck
-duckdb
 duckduckgo
 ducks
 ducktyping
@@ -2633,7 +2624,6 @@ enrichers
 enrichment
 enrollment
 enrollmentpolicy
-entaid
 enteo
 enter
 enterprise
@@ -2641,7 +2631,6 @@ enterprise-scale
 enterprisedb
 enterprisemanager
 enterprisevoice
-entertainment
 entity
 entityframework
 entra
@@ -2723,7 +2712,6 @@ etw
 etymology
 eulanda
 evaluation
-evaluator
 evc
 event
 event_id
@@ -2882,7 +2870,6 @@ fast-ping
 fastdata
 faster
 fastfilepub
-fastgit
 fastlinq
 fastlookup
 fastping
@@ -3033,6 +3020,7 @@ flash
 flasharray
 flatfile
 flatten
+flaui
 flavor
 fleet
 fleetappsmanagement
@@ -3303,7 +3291,9 @@ git-client
 git-clone
 git-flow
 git-lfs
+git-open
 git-proxy
+git-rename
 git-stat
 gitcmdline
 gitdesktop
@@ -3342,8 +3332,10 @@ gmsa
 gnome
 gnucash
 gnuwin32
+go
 gobright
 godaddy
+golang
 golden_ticket
 goldengate
 goldsource
@@ -3442,7 +3434,6 @@ gumby
 guru
 gvim
 gw2
-gwbasic
 gymnasium
 gz
 gzip
@@ -3457,7 +3448,6 @@ hadoop
 hafr
 haiku
 hailstone
-haipa
 halo
 haloitsm
 halopsa
@@ -3550,6 +3540,7 @@ helper-functions
 helperfunctions
 helpers
 helpfile
+helpful
 heml
 here
 hewlett
@@ -3597,6 +3588,7 @@ hklm
 hl7
 hlds
 hls
+hmac
 hockey
 hol
 holiday
@@ -4027,6 +4019,7 @@ itemobject
 items
 itemstack
 iterate
+iteration
 itg
 itglue
 itin
@@ -4080,6 +4073,7 @@ join-object
 jojoba
 joke
 jokes
+jotform
 journal
 journalctl
 joyride
@@ -4333,9 +4327,9 @@ light
 lights
 lime
 limesurvey
+limit
 limit-job
 limits
-lina
 line
 line-endings
 linear
@@ -4411,6 +4405,7 @@ lock
 lockbox
 lockdisplaytimeout
 lockdown
+lockfile
 locking
 lockoutreport
 lockscreen
@@ -4635,6 +4630,7 @@ matrix
 maven
 max
 max_path
+maximum
 maxoffice
 mazerat
 mb
@@ -4803,6 +4799,7 @@ miniconda
 minifier
 minimal
 minimalist-framework
+minimum
 minio
 mip
 mipsdk
@@ -4899,8 +4896,6 @@ mp4
 mpc
 mpeg
 mpn
-mrfk
-mrfylke
 mrvl_fc_powerkit
 mrvlfcprovider
 ms_365
@@ -4983,6 +4978,7 @@ multimedia
 multios
 multipart
 multipass
+multiple
 multiserver
 multistring
 multitenant
@@ -5107,7 +5103,6 @@ network-info
 networkanalytics
 networkcategory
 networkcloud
-networkcontroller
 networkdiscovery
 networkdrive
 networkdrives
@@ -5764,8 +5759,6 @@ play
 playback
 playbook
 player
-playlist
-playlists
 playwright
 plc
 plc4x™
@@ -5887,6 +5880,7 @@ poshy-wrap-gh
 poshy-wrap-git
 poshy-wrap-git-flow
 poshy-wrap-git-lfs
+poshy-wrap-golang
 poshy-wrap-helm
 poshy-wrap-kubectl
 poshy-wrap-maven
@@ -6761,6 +6755,31 @@ pscommand_gmu
 pscommand_gmum
 pscommand_gmv
 pscommand_gnew
+pscommand_gob
+pscommand_goc
+pscommand_god
+pscommand_goe
+pscommand_gof
+pscommand_gofa
+pscommand_gofx
+pscommand_gog
+pscommand_goga
+pscommand_goi
+pscommand_gol
+pscommand_gom
+pscommand_gopa
+pscommand_gopb
+pscommand_gops
+pscommand_gor
+pscommand_got
+pscommand_gota
+pscommand_goto
+pscommand_gotoc
+pscommand_gotod
+pscommand_gotofx
+pscommand_gov
+pscommand_gove
+pscommand_gow
 pscommand_gp
 pscommand_gpatch
 pscommand_gpdo
@@ -6986,6 +7005,28 @@ pscommand_invoke-gitsubmoduleallpullorigin
 pscommand_invoke-gitswitch
 pscommand_invoke-gittag
 pscommand_invoke-gitwhatchanged
+pscommand_invoke-gobuild
+pscommand_invoke-goclean
+pscommand_invoke-godoc
+pscommand_invoke-goenv
+pscommand_invoke-gofix
+pscommand_invoke-gofmt
+pscommand_invoke-gofmtellipsis
+pscommand_invoke-goget
+pscommand_invoke-gogetellipsis
+pscommand_invoke-goinstall
+pscommand_invoke-golist
+pscommand_invoke-gomod
+pscommand_invoke-gorun
+pscommand_invoke-gotest
+pscommand_invoke-gotestellipsis
+pscommand_invoke-gotool
+pscommand_invoke-gotoolcompile
+pscommand_invoke-gotooldist
+pscommand_invoke-gotoolfix
+pscommand_invoke-goversion
+pscommand_invoke-govet
+pscommand_invoke-gowork
 pscommand_invoke-greppipfreeze
 pscommand_invoke-helm
 pscommand_invoke-helminstall
@@ -7699,6 +7740,9 @@ pscommand_set-locationback9
 pscommand_set-locationdown1
 pscommand_set-locationforward1
 pscommand_set-locationgithome
+pscommand_set-locationgopath
+pscommand_set-locationgopathbin
+pscommand_set-locationgopathsrc
 pscommand_set-locationnewdirectory
 pscommand_set-locationup
 pscommand_set-locationup1
@@ -8377,6 +8421,28 @@ psfunction_invoke-gitsubmoduleallpullorigin
 psfunction_invoke-gitswitch
 psfunction_invoke-gittag
 psfunction_invoke-gitwhatchanged
+psfunction_invoke-gobuild
+psfunction_invoke-goclean
+psfunction_invoke-godoc
+psfunction_invoke-goenv
+psfunction_invoke-gofix
+psfunction_invoke-gofmt
+psfunction_invoke-gofmtellipsis
+psfunction_invoke-goget
+psfunction_invoke-gogetellipsis
+psfunction_invoke-goinstall
+psfunction_invoke-golist
+psfunction_invoke-gomod
+psfunction_invoke-gorun
+psfunction_invoke-gotest
+psfunction_invoke-gotestellipsis
+psfunction_invoke-gotool
+psfunction_invoke-gotoolcompile
+psfunction_invoke-gotooldist
+psfunction_invoke-gotoolfix
+psfunction_invoke-goversion
+psfunction_invoke-govet
+psfunction_invoke-gowork
 psfunction_invoke-greppipfreeze
 psfunction_invoke-helm
 psfunction_invoke-helminstall
@@ -8891,6 +8957,9 @@ psfunction_set-locationback9
 psfunction_set-locationdown1
 psfunction_set-locationforward1
 psfunction_set-locationgithome
+psfunction_set-locationgopath
+psfunction_set-locationgopathbin
+psfunction_set-locationgopathsrc
 psfunction_set-locationnewdirectory
 psfunction_set-locationup
 psfunction_set-locationup1
@@ -9269,7 +9338,6 @@ realmjoin
 realschule
 realtimeprotection
 realvnc
-rebase
 reboot
 rebootnodeifneeded
 reckon
@@ -9402,7 +9470,9 @@ removetypeaccelerators
 remux
 ren-isac
 rename
-render
+rename-git
+rename-git-branch
+rename-gitbranch
 reonboarding
 repair
 repair-msauth
@@ -9486,8 +9556,6 @@ reversedsc
 reverseengineering
 review
 revision
-reword
-rewrite
 rexec
 rfc1305
 rfc1436
@@ -9746,6 +9814,7 @@ scriptcs
 scriptedui
 scripting
 scriptlog
+scriptlogging
 scriptmodule
 scriptoform
 scriptrunner
@@ -9836,13 +9905,11 @@ select-string
 selection
 selectxmlinfo
 selenium
-self
 self-hosted
 self-service
 self-signed
 selfdispatch
 selfhelp
-selfsigned
 semantic
 semantic-versioning
 semanticversioning
@@ -9886,7 +9953,6 @@ serilog
 serilog-for-powershell
 serilog-sink
 server
-servercertificatevalidationcallback
 serverless
 servermanagement
 serverprotection
@@ -9964,7 +10030,6 @@ shadowcopybackups
 shadowgroups
 shanehoey
 shanghaitech
-shard
 share
 share-permission
 share-stat
@@ -10019,7 +10084,6 @@ signal
 signalfx
 signalr
 signature
-signed
 signing
 signtool
 silicondust
@@ -10078,7 +10142,6 @@ slack
 slash
 slashcommands
 sleep
-sleeper
 slideshow
 slmgr
 sln
@@ -10213,6 +10276,7 @@ speak
 speaker
 spec
 specification
+specify
 specs
 spectre
 spectre.console
@@ -10298,7 +10362,6 @@ sqlserverbynarypsmodule
 sqlserverclient
 sqlservermodule
 sqlvirtualmachine
-sqlvm
 sqr
 sqrt
 square
@@ -10407,8 +10470,6 @@ stockmarketapi
 stocks
 stockscreener
 stockscreenerapi
-stoicism
-stoics
 stolpe.io
 stop
 storablecolortheme
@@ -10600,9 +10661,7 @@ tabexpansion2
 tablacus
 table
 tableau
-tableauserver
 tableauworkbook
-tabler
 tables
 tablestorage
 tabs
@@ -10618,7 +10677,6 @@ tags
 tak
 taken
 takeown
-tally
 talxis
 tanss
 tanzu
@@ -10772,7 +10830,6 @@ tfs
 tfscmdlets
 tfsec
 tfswitch
-tftd
 tftp
 tfvars
 tfvc
@@ -10785,7 +10842,6 @@ thinprint
 third-party-libraries
 third-party-notice
 thispc
-thoughtfortheday
 thousandeyes
 thread
 threading
@@ -10888,7 +10944,6 @@ traceevent
 tracer
 tracert
 tracing
-track
 tracker
 tracking
 trading
@@ -11436,7 +11491,6 @@ vss
 vssetup
 vsshell
 vst
-vsteambuilder
 vsteams
 vstest
 vsts
@@ -11641,7 +11695,6 @@ windows-powershell
 windows-registry
 windows-remoting
 windows-server-2016
-windows-switcher
 windows-terminal
 windows-user-folder
 windows-user-profile
@@ -11725,7 +11778,6 @@ wiscmail
 wisco365
 wisconsin-madison
 wisconsin'uw-madison
-wisdom
 with
 wiz
 wizard
