@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Thursday, 30 October 2025 09:52:24 UTC
+Updated: Thursday, 30 October 2025 21:52:23 UTC
 
 .bat
 .env
@@ -121,6 +121,7 @@ action
 action1
 actionablemessages
 actiongroup
+actionhero
 actionplan
 actions
 activate
@@ -145,6 +146,7 @@ activenet
 activenetapi
 activenetworkstation
 activenetworkstationservice
+activerecord
 activeresponse
 activesession
 activiti
@@ -275,7 +277,6 @@ agm
 agnoster
 ahk
 ai
-ai-development
 ai-server
 ai21
 ai21labs
@@ -411,7 +412,6 @@ antivirus
 anws
 any
 anypackage
-anypoint
 anywhere
 aovpn psmodule
 apache
@@ -487,6 +487,7 @@ appveyor
 appvolumes
 appwrite
 appx
+appxmanifest
 appxpackage
 aprs
 aprs-is
@@ -568,7 +569,6 @@ asnbank
 asp
 asp.net
 aspire
-aspnet
 aspnet_regiis
 aspnetcore
 asr
@@ -614,7 +614,6 @@ attestation
 attila
 attribute
 attributes
-attribution
 au
 audio
 audiocodes
@@ -675,6 +674,7 @@ automation psmodule
 automationaccount
 automationanywhere
 automationportal
+automations
 automationutils
 autonomoussystem
 autonomoussystemnumber
@@ -1097,7 +1097,6 @@ bugzilla
 build
 build-log
 build-scripts
-build-test-publish
 buildautomation
 builddefinition
 builder
@@ -1294,6 +1293,7 @@ chefconf2016
 chenxizhang
 cherrypy
 cherwell
+chfs
 chi
 china
 chinese
@@ -1565,7 +1565,6 @@ comments
 commerce
 commfort
 commit
-commit-analysis
 commits
 common
 common-data-service
@@ -1849,6 +1848,7 @@ crypto-currency
 cryptocompare
 cryptocurrency
 cryptography
+cryptopro
 cs137
 csc
 csharp
@@ -1906,6 +1906,7 @@ customization
 customlocation
 customlogs
 customproviders
+cutehttpfileserver
 cvad
 cve
 cve-2021-34527
@@ -1989,6 +1990,7 @@ dataflow
 dataflowdependency
 dataframe
 datagateway
+dataimport
 dataintegration
 datakwaliteit
 datalabelingservice
@@ -2127,6 +2129,7 @@ dependencymap
 dependencysearch
 deploy
 deployment
+deploymentconfig
 deploymentresourceprovider
 deploymenttasks
 depute
@@ -2571,7 +2574,6 @@ elmah-io
 elonmusk
 eloomi
 eloqua
-elvish
 elvui
 em
 emacs
@@ -3039,7 +3041,6 @@ flexible
 flickr
 flowchart
 flowy
-fluent
 fluentvalidation
 fluidrelay
 flurl
@@ -3138,6 +3139,7 @@ fsrm
 ftp
 ftps
 ftptoday
+fu-msauth
 fudge
 fudgepop
 fujitsu
@@ -3319,7 +3321,6 @@ gitlab4
 gitlabpipeline
 gitops
 glass
-glimps
 glob
 global
 globalclipboard
@@ -3827,6 +3828,7 @@ indicators
 inedo
 inetfwrule
 inetum
+infinity
 influx
 influxdb
 info
@@ -4079,7 +4081,6 @@ join-object
 jojoba
 joke
 jokes
-jotform
 journal
 journalctl
 joyride
@@ -4118,7 +4119,6 @@ jwe
 jwk
 jws
 jwt
-jwttoken
 k8s
 k8sshell
 k8ssnapshots
@@ -4147,7 +4147,6 @@ keeper
 kelverion
 kelvin
 kentico
-kerb
 kerberos
 kernel32
 kestrel
@@ -4621,7 +4620,6 @@ mas
 mask
 mass
 massmail
-masstransit
 masterconfiguration
 match
 matcharray
@@ -4849,11 +4847,6 @@ modern
 modify
 module
 module-maintenance
-module-manifest
-module-publishing
-module-publishing-framework
-module-testing
-module-testing-framework
 modulebuild
 modulecreation
 modulefast
@@ -4968,8 +4961,6 @@ msu
 msvc
 msword
 mta-sts
-mule
-mulesoft
 multi
 multi-agent
 multi-factor
@@ -5138,7 +5129,6 @@ new-dynamicparameter
 new-githubrelease
 new-item
 new-itemproperty
-new-modulemanifest
 new-pinneditem
 new-rdpsession
 new-samcmapplicationfrompackagedefinitionsms
@@ -5232,6 +5222,7 @@ nprintingapi
 nps
 npslog
 npslogfile
+nql
 nrc
 nrql
 ns
@@ -5334,7 +5325,6 @@ officeopenxml
 officertool
 offline
 offlinewimservicing
-ofx
 ogg
 oh-my-posh
 oh-my-zsh
@@ -5979,8 +5969,6 @@ powershell-isprime
 powershell-lightning
 powershell-module
 powershell-modules
-powershell-modules-convention
-powershell-project-convention
 powershell-releases-api
 powershell-remoting
 powershell-scripts
@@ -9127,6 +9115,7 @@ psscriptsmonitoring
 pssendgrid
 pssession
 pssharper
+psslack
 pssqlite
 pssqlitebynarymodule
 pssqlitemodule
@@ -9161,7 +9150,6 @@ publicfolder
 publicholidays
 publicip
 publish
-publish-module
 publishedmodules
 publisher
 publishers
@@ -9246,6 +9234,7 @@ quantum
 quarantine
 queries
 query
+querybuilder
 queryexcel
 querystring
 question
@@ -9339,7 +9328,6 @@ read-slog
 readable
 reader
 readiness
-readme
 readpdf
 readthedocs
 real-time
@@ -9427,7 +9415,6 @@ regularexpression
 regularexpressions
 reinstall
 relational
-relativity
 relay
 release
 releasedefinition
@@ -9608,8 +9595,6 @@ rms
 rng
 roarwrecker
 robbyrussel
-robinhood
-robinhoodcrypto
 robocopy
 robot
 roca
@@ -9810,7 +9795,7 @@ screensaver
 screenscraping
 screenshot
 script
-script-module
+script_version
 script-signing
 script-to-assembly
 script-to-executable
@@ -10130,6 +10115,7 @@ siteconfiguration
 sitecore
 sitecoresearch
 sitemaintenance
+sitemap
 siterecovery
 sites
 sitesystemserver
@@ -10732,7 +10718,6 @@ tcptest
 tcx
 tcxaemgmt
 tdd
-teable
 teaching
 team
 teamcity
@@ -10802,7 +10787,6 @@ test
 test-automation
 test-dscconfiguration
 test-internetconnection
-test-modulemanifest
 test-modulepath
 test-osplatform
 test-psremoting
@@ -11149,6 +11133,7 @@ ud-trendline
 ud-typing
 ud-window
 ud-wordtree
+udcm
 uddi
 udfeedback
 udp
@@ -11218,7 +11203,6 @@ unzip
 up
 update
 update-module
-update-modulemanifest
 update-moduletests
 update-typedata
 updatecatalog
@@ -11244,6 +11228,7 @@ uptobox
 uqword
 urbac
 uri
+uri-scheme
 url
 url-encode
 url-shortener
@@ -11765,7 +11750,6 @@ windowsrest
 windowssandbox
 windowssearchmanager
 windowsserver
-windowsserver2008
 windowsserver2016
 windowsserver2019
 windowsserver2022
