@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Wednesday, 29 October 2025 09:52:19 UTC
+Updated: Thursday, 30 October 2025 09:52:24 UTC
 
 .bat
 .env
@@ -121,7 +121,6 @@ action
 action1
 actionablemessages
 actiongroup
-actionhero
 actionplan
 actions
 activate
@@ -146,7 +145,6 @@ activenet
 activenetapi
 activenetworkstation
 activenetworkstationservice
-activerecord
 activeresponse
 activesession
 activiti
@@ -312,6 +310,7 @@ alac
 alain
 alarm
 alb
+albums
 alc
 alero
 alert
@@ -356,6 +355,7 @@ amazonmgn
 amazontitan
 amazonwebservices
 amd
+amend
 ami
 amiga
 amp
@@ -487,7 +487,6 @@ appveyor
 appvolumes
 appwrite
 appx
-appxmanifest
 appxpackage
 aprs
 aprs-is
@@ -558,6 +557,7 @@ ascii85
 asciiart
 asdatabase
 asigra
+asjob
 ask-gpt
 askgpt
 asm
@@ -594,6 +594,7 @@ asv
 asymmetric
 async
 asynchronous
+atempo
 atera
 athena
 atlas
@@ -635,6 +636,7 @@ authenticate
 authentication
 authenticationcertificate
 authenticationcontext
+authenticationstrength
 authenticode
 authn
 author
@@ -673,10 +675,10 @@ automation psmodule
 automationaccount
 automationanywhere
 automationportal
-automations
 automationutils
 autonomoussystem
 autonomoussystemnumber
+autopatching
 autopilot
 autoscaling
 autostart
@@ -1247,6 +1249,7 @@ certificate
 certificateauthority
 certificatechain
 certificatemanager
+certificatepolicy
 certificates
 certificateservices
 certificatesmanagement
@@ -1291,7 +1294,6 @@ chefconf2016
 chenxizhang
 cherrypy
 cherwell
-chfs
 chi
 china
 chinese
@@ -1615,6 +1617,7 @@ concurrency
 concurrent
 conda
 condition
+conditional
 conditionalaccess
 conduit
 conference
@@ -1903,7 +1906,6 @@ customization
 customlocation
 customlogs
 customproviders
-cutehttpfileserver
 cvad
 cve
 cve-2021-34527
@@ -1987,7 +1989,6 @@ dataflow
 dataflowdependency
 dataframe
 datagateway
-dataimport
 dataintegration
 datakwaliteit
 datalabelingservice
@@ -2126,7 +2127,6 @@ dependencymap
 dependencysearch
 deploy
 deployment
-deploymentconfig
 deploymentresourceprovider
 deploymenttasks
 depute
@@ -2253,7 +2253,9 @@ diskfree
 diskimage
 diskpart
 diskpool
+disksize
 diskspace
+diskusage
 dism
 dismal
 display
@@ -2449,6 +2451,7 @@ dtx
 du
 dual-stack
 duck
+duckdb
 duckduckgo
 ducks
 ducktyping
@@ -2624,6 +2627,7 @@ enrichers
 enrichment
 enrollment
 enrollmentpolicy
+entaid
 enteo
 enter
 enterprise
@@ -2631,6 +2635,7 @@ enterprise-scale
 enterprisedb
 enterprisemanager
 enterprisevoice
+entertainment
 entity
 entityframework
 entra
@@ -2712,6 +2717,7 @@ etw
 etymology
 eulanda
 evaluation
+evaluator
 evc
 event
 event_id
@@ -2870,6 +2876,7 @@ fast-ping
 fastdata
 faster
 fastfilepub
+fastgit
 fastlinq
 fastlookup
 fastping
@@ -2928,7 +2935,6 @@ file-type-association
 fileattributes
 fileencryption
 fileexplorer
-filelist
 filelog
 filelogger
 filemaintenance
@@ -3132,7 +3138,6 @@ fsrm
 ftp
 ftps
 ftptoday
-fu-msauth
 fudge
 fudgepop
 fujitsu
@@ -3434,6 +3439,7 @@ gumby
 guru
 gvim
 gw2
+gwbasic
 gymnasium
 gz
 gzip
@@ -3448,6 +3454,7 @@ hadoop
 hafr
 haiku
 hailstone
+haipa
 halo
 haloitsm
 halopsa
@@ -3820,7 +3827,6 @@ indicators
 inedo
 inetfwrule
 inetum
-infinity
 influx
 influxdb
 info
@@ -4330,6 +4336,7 @@ limesurvey
 limit
 limit-job
 limits
+lina
 line
 line-endings
 linear
@@ -4896,6 +4903,8 @@ mp4
 mpc
 mpeg
 mpn
+mrfk
+mrfylke
 mrvl_fc_powerkit
 mrvlfcprovider
 ms_365
@@ -5103,6 +5112,7 @@ network-info
 networkanalytics
 networkcategory
 networkcloud
+networkcontroller
 networkdiscovery
 networkdrive
 networkdrives
@@ -5222,7 +5232,6 @@ nprintingapi
 nps
 npslog
 npslogfile
-nql
 nrc
 nrql
 ns
@@ -5759,6 +5768,8 @@ play
 playback
 playbook
 player
+playlist
+playlists
 playwright
 plc
 plc4x™
@@ -9116,7 +9127,6 @@ psscriptsmonitoring
 pssendgrid
 pssession
 pssharper
-psslack
 pssqlite
 pssqlitebynarymodule
 pssqlitemodule
@@ -9236,7 +9246,6 @@ quantum
 quarantine
 queries
 query
-querybuilder
 queryexcel
 querystring
 question
@@ -9338,6 +9347,7 @@ realmjoin
 realschule
 realtimeprotection
 realvnc
+rebase
 reboot
 rebootnodeifneeded
 reckon
@@ -9473,6 +9483,7 @@ rename
 rename-git
 rename-git-branch
 rename-gitbranch
+render
 reonboarding
 repair
 repair-msauth
@@ -9556,6 +9567,8 @@ reversedsc
 reverseengineering
 review
 revision
+reword
+rewrite
 rexec
 rfc1305
 rfc1436
@@ -9797,7 +9810,6 @@ screensaver
 screenscraping
 screenshot
 script
-script_version
 script-module
 script-signing
 script-to-assembly
@@ -9905,11 +9917,13 @@ select-string
 selection
 selectxmlinfo
 selenium
+self
 self-hosted
 self-service
 self-signed
 selfdispatch
 selfhelp
+selfsigned
 semantic
 semantic-versioning
 semanticversioning
@@ -9953,6 +9967,7 @@ serilog
 serilog-for-powershell
 serilog-sink
 server
+servercertificatevalidationcallback
 serverless
 servermanagement
 serverprotection
@@ -10030,6 +10045,7 @@ shadowcopybackups
 shadowgroups
 shanehoey
 shanghaitech
+shard
 share
 share-permission
 share-stat
@@ -10084,6 +10100,7 @@ signal
 signalfx
 signalr
 signature
+signed
 signing
 signtool
 silicondust
@@ -10113,7 +10130,6 @@ siteconfiguration
 sitecore
 sitecoresearch
 sitemaintenance
-sitemap
 siterecovery
 sites
 sitesystemserver
@@ -10142,6 +10158,7 @@ slack
 slash
 slashcommands
 sleep
+sleeper
 slideshow
 slmgr
 sln
@@ -10362,6 +10379,7 @@ sqlserverbynarypsmodule
 sqlserverclient
 sqlservermodule
 sqlvirtualmachine
+sqlvm
 sqr
 sqrt
 square
@@ -10470,6 +10488,8 @@ stockmarketapi
 stocks
 stockscreener
 stockscreenerapi
+stoicism
+stoics
 stolpe.io
 stop
 storablecolortheme
@@ -10661,7 +10681,9 @@ tabexpansion2
 tablacus
 table
 tableau
+tableauserver
 tableauworkbook
+tabler
 tables
 tablestorage
 tabs
@@ -10677,6 +10699,7 @@ tags
 tak
 taken
 takeown
+tally
 talxis
 tanss
 tanzu
@@ -10830,6 +10853,7 @@ tfs
 tfscmdlets
 tfsec
 tfswitch
+tftd
 tftp
 tfvars
 tfvc
@@ -10842,6 +10866,7 @@ thinprint
 third-party-libraries
 third-party-notice
 thispc
+thoughtfortheday
 thousandeyes
 thread
 threading
@@ -10944,6 +10969,7 @@ traceevent
 tracer
 tracert
 tracing
+track
 tracker
 tracking
 trading
@@ -11123,7 +11149,6 @@ ud-trendline
 ud-typing
 ud-window
 ud-wordtree
-udcm
 uddi
 udfeedback
 udp
@@ -11219,7 +11244,6 @@ uptobox
 uqword
 urbac
 uri
-uri-scheme
 url
 url-encode
 url-shortener
@@ -11491,6 +11515,7 @@ vss
 vssetup
 vsshell
 vst
+vsteambuilder
 vsteams
 vstest
 vsts
@@ -11695,6 +11720,7 @@ windows-powershell
 windows-registry
 windows-remoting
 windows-server-2016
+windows-switcher
 windows-terminal
 windows-user-folder
 windows-user-profile
@@ -11778,6 +11804,7 @@ wiscmail
 wisco365
 wisconsin-madison
 wisconsin'uw-madison
+wisdom
 with
 wiz
 wizard
