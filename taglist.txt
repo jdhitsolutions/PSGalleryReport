@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Friday, 31 October 2025 09:52:24 UTC
+Updated: Friday, 31 October 2025 21:52:39 UTC
 
 .bat
 .env
@@ -277,12 +277,14 @@ agm
 agnoster
 ahk
 ai
+ai-development
 ai-server
 ai21
 ai21labs
 aianomalydetection
 aiapplications
 aiautomation
+aid
 aidataplatform
 aidocument
 aiintegration
@@ -418,7 +420,6 @@ aovpn psmodule
 apache
 apache_maven
 apachekafka
-apexlegends
 api
 api-client
 api-gateway
@@ -616,6 +617,7 @@ attestation
 attila
 attribute
 attributes
+attribution
 au
 audio
 audiocodes
@@ -668,6 +670,7 @@ automai
 automanage
 automate
 automated
+automatedinsulindelivery
 automatedlab
 automatenow
 automaticpacketreportingsystem
@@ -1008,7 +1011,9 @@ blocks
 blog
 blogger
 blogs
+bloodglucose
 bloodhound
+bloodsugar
 bloxone
 bloxoneddi
 bls
@@ -1142,7 +1147,6 @@ c2r
 ca
 cache
 cachedroles
-cacherecovery
 caf
 caffeine
 cal
@@ -1170,6 +1174,7 @@ capability
 capacity
 capacitymanagement
 capainstaller
+capaone
 capasystems
 capgemini
 capslock
@@ -1256,6 +1261,7 @@ certinia
 certutil
 cf
 cfn
+cgm
 ch9
 change
 changeanalysis
@@ -1506,6 +1512,7 @@ codesign
 codesigning
 codex
 coding
+coercion
 cognitiveservice
 cognitiveservices
 cohere
@@ -1564,6 +1571,7 @@ comments
 commerce
 commfort
 commit
+commit-analysis
 commits
 common
 common-data-service
@@ -1696,6 +1704,7 @@ continuous-deployment
 continuous-integration
 continuousdelivery
 continuousdeployment
+continuousglucosemonitoring
 continuousintegration
 contrast
 control
@@ -1746,7 +1755,6 @@ copyfileex
 copypaste
 copyright
 core
-coreposh
 coreutils
 corona
 correlation
@@ -1891,11 +1899,6 @@ customdns
 customer
 customerengagement
 customers
-customeventchannel
-customeventlog
-customeventlogchannel
-customeventlogfile
-customeventlogfiles
 customevents
 customformatregionalsettings
 custominformationservices
@@ -2108,7 +2111,6 @@ delegation
 delegationmodel
 delete
 delete-orphan-branches
-deletefile
 deleteuserprofile
 delivery
 dell
@@ -2154,6 +2156,7 @@ dev-tools
 devart
 devcenter
 devdeer
+devdirmanager
 devdrive
 developer
 developer_command_prompt
@@ -2179,6 +2182,7 @@ devsecninja
 devsecops
 devtestlabs
 devtools
+dexcom
 dfch
 dfir
 dfplayermini
@@ -2188,6 +2192,7 @@ dg
 dhash
 dhcp
 di
+diabetes
 diagnostic
 diagnostics
 diagram
@@ -2229,6 +2234,7 @@ directrouting
 directsend
 directus
 direnv
+dirkjan
 dirname
 dirsync
 disa
@@ -2540,6 +2546,7 @@ education
 educational
 eduprom
 effectiveroutes
+effects
 efficiency
 efficientether
 efi
@@ -2625,6 +2632,7 @@ enhanced-terminal
 enhancement
 enrichers
 enrichment
+enrollment
 enrollmentpolicy
 entaid
 enteo
@@ -2722,8 +2730,6 @@ event
 event_id
 event_list
 event-timeline
-eventchannel
-eventchannels
 eventcollector
 eventful
 eventgrid
@@ -2731,9 +2737,6 @@ eventhub
 eventing
 eventlist
 eventlog
-eventlogchannel
-eventlogchannels
-eventlogmanifest
 eventlogs
 eventmonitoring
 eventprocessor
@@ -2798,10 +2801,10 @@ expand
 expand-string
 expand-tab
 expandframework
+expect
 experience
 experiments
 expiration
-expired
 expiring
 expiry
 exploit
@@ -2872,7 +2875,6 @@ fast
 fast-dds
 fast-ping
 fastdata
-faster
 fastfilepub
 fastgit
 fastlinq
@@ -3016,7 +3018,6 @@ five9
 fix-log
 fix-protocol
 fixlet
-fixmissingmsi
 fixpack
 flac
 flag
@@ -3318,6 +3319,8 @@ gitlab-runner
 gitlab4
 gitlabpipeline
 gitops
+gitrepo
+gitrepository
 glass
 glimps
 glob
@@ -3328,8 +3331,10 @@ globalentry
 globallydistributeddatabase
 globalping
 globbing
+glooko
 glp
 glpi
+glucosemonitoring
 gmail
 gmap
 gmaps
@@ -3439,7 +3444,6 @@ gumby
 guru
 gvim
 gw2
-gwbasic
 gymnasium
 gz
 gzip
@@ -3687,12 +3691,14 @@ hybridrunbookworker
 hyper-v
 hyperconverged
 hyperfine
+hyperglycemia
 hyperlink
 hyperlinked-text
 hyperthreading
 hyperv
 hypervisor
 hypervplugins
+hypoglycemia
 hypothesis
 hysolate
 hysolatemangementconsole
@@ -3834,11 +3840,8 @@ info
 infoblox
 informatica
 information
-information-technology
 informationbarriers
 informationprotection
-informationtechnology
-informationtechnologyoperations
 informix
 infosec
 infrastructure
@@ -3878,7 +3881,6 @@ installation
 installationmanager
 installedapplications
 installer
-installercache
 installers
 installoffice
 installofficertool
@@ -3887,6 +3889,7 @@ instance
 instant
 instapush
 instorage
+insulinpump
 int
 intacct
 integrated
@@ -4119,7 +4122,6 @@ jwe
 jwk
 jws
 jwt
-jwttoken
 k8s
 k8sshell
 k8ssnapshots
@@ -4282,7 +4284,6 @@ lbs
 lccn
 lcm
 lcminternals
-lcs
 ldap
 leaflet
 leafs
@@ -4404,6 +4405,7 @@ localgroup
 localgroupmember
 localization
 localpolicy
+localrepo
 localrepository
 localuser
 location
@@ -4997,7 +4999,6 @@ multithreaded
 multithreaded-helpers
 multithreading
 music
-musiccast
 mustache
 mutation
 mute
@@ -5950,7 +5951,6 @@ powerdex
 powerforensics
 powergraph
 powergui
-powermanagement
 powermax
 powerpack
 powerplan
@@ -6169,6 +6169,7 @@ ps1xml
 ps1xmlgen
 ps2dll
 ps2exe
+ps2exe.core
 ps3
 ps4
 ps5
@@ -7975,7 +7976,6 @@ pscommand_zwp
 pscommander
 psconfasia
 psconfeu
-psconfig
 pscore
 pscredential
 pscribo
@@ -9479,7 +9479,6 @@ remove-pass
 remove-path
 remove-pinneditem
 remove-tempfiles
-removefile
 removetypeaccelerators
 remux
 ren-isac
@@ -9554,6 +9553,7 @@ restart
 restaurant
 restful
 restore
+restrictive
 results
 resume
 retail
@@ -10057,9 +10057,7 @@ shared
 sharefile
 sharepoint
 sharepoint_online
-sharepoint-on-prem
 sharepoint-online
-sharepoint-product-configuration-wizard
 sharepointdevelopmentcommunity
 sharepointonline
 sharepointpnp
@@ -10162,8 +10160,8 @@ skytap
 slack
 slash
 slashcommands
-sleep
 sleeper
+slideshow
 slmgr
 sln
 slugify
@@ -10287,6 +10285,7 @@ spanner
 spark
 sparkline
 sparklines
+spawn
 spdockit
 spdx
 spdx-license-identifier:ms-pl
@@ -10494,6 +10493,7 @@ stockscreenerapi
 stoicism
 stoics
 stolpe.io
+stop
 storablecolortheme
 storage
 storageaccount
@@ -10517,6 +10517,7 @@ streaming
 streamreader
 streamwriter
 stretch
+strict
 strictmode
 strikethrough-text
 string
@@ -10642,7 +10643,6 @@ syslog
 sysman
 sysmon
 sysop
-syspass
 syspip
 syspip3
 sysprep
@@ -10672,6 +10672,7 @@ systemsplash
 systray
 t
 t-sql
+t1d
 tab
 tab-comletion
 tab-completion
@@ -10702,6 +10703,7 @@ taken
 takeown
 tally
 talxis
+tandem
 tanss
 tanzu
 tar
@@ -10751,7 +10753,6 @@ techdirect
 techedna2014
 techlog
 technicalanalysis
-technology
 techsmith
 tel
 telegram
@@ -10999,6 +11000,7 @@ translator
 translit
 transliteration
 transmission
+transparancy
 transparency
 transpilation
 trap
@@ -11037,7 +11039,6 @@ truportal
 trusted
 trusted-host
 trustedhosts
-trustedinstaller
 trustedrootcertificate
 trustedsigning
 truth
@@ -11335,7 +11336,6 @@ vba
 vbaproject
 vbproj
 vbr
-vbscript
 vbsinst
 vc
 vccmdlets
@@ -11744,7 +11744,6 @@ windowsdesktopsearch
 windowsdirectories
 windowsdiskcleanup
 windowsdomain
-windowsevent
 windowseventlog
 windowsform
 windowsforms
@@ -11969,7 +11968,6 @@ xwindowsupdate
 xwith
 yahoo
 yahw
-yamaha
 yaml
 yandex
 yandexdisk
@@ -12011,7 +12009,6 @@ zivver
 zlib
 zlib-compression
 zoho
-zoicware
 zone
 zoom
 zoomapi
