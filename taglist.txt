@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Thursday, 30 October 2025 21:52:23 UTC
+Updated: Friday, 31 October 2025 09:52:24 UTC
 
 .bat
 .env
@@ -412,6 +412,7 @@ antivirus
 anws
 any
 anypackage
+anypoint
 anywhere
 aovpn psmodule
 apache
@@ -569,6 +570,7 @@ asnbank
 asp
 asp.net
 aspire
+aspnet
 aspnet_regiis
 aspnetcore
 asr
@@ -939,7 +941,6 @@ ber
 best-practices
 bestpractice
 bestpractices
-beta
 bginfo
 bgp
 bi
@@ -1097,6 +1098,7 @@ bugzilla
 build
 build-log
 build-scripts
+build-test-publish
 buildautomation
 builddefinition
 builder
@@ -1168,7 +1170,6 @@ capability
 capacity
 capacitymanagement
 capainstaller
-capaone
 capasystems
 capgemini
 capslock
@@ -1243,7 +1244,6 @@ cert
 certbasedauth
 certera
 certes
-certificat
 certificate
 certificateauthority
 certificatechain
@@ -1506,7 +1506,6 @@ codesign
 codesigning
 codex
 coding
-coercion
 cognitiveservice
 cognitiveservices
 cohere
@@ -2230,7 +2229,6 @@ directrouting
 directsend
 directus
 direnv
-dirkjan
 dirname
 dirsync
 disa
@@ -2542,7 +2540,6 @@ education
 educational
 eduprom
 effectiveroutes
-effects
 efficiency
 efficientether
 efi
@@ -2574,6 +2571,7 @@ elmah-io
 elonmusk
 eloomi
 eloqua
+elvish
 elvui
 em
 emacs
@@ -2627,7 +2625,6 @@ enhanced-terminal
 enhancement
 enrichers
 enrichment
-enrollment
 enrollmentpolicy
 entaid
 enteo
@@ -2801,7 +2798,6 @@ expand
 expand-string
 expand-tab
 expandframework
-expect
 experience
 experiments
 expiration
@@ -2937,6 +2933,7 @@ file-type-association
 fileattributes
 fileencryption
 fileexplorer
+filelist
 filelog
 filelogger
 filemaintenance
@@ -3041,6 +3038,7 @@ flexible
 flickr
 flowchart
 flowy
+fluent
 fluentvalidation
 fluidrelay
 flurl
@@ -3321,6 +3319,7 @@ gitlab4
 gitlabpipeline
 gitops
 glass
+glimps
 glob
 global
 globalclipboard
@@ -4081,6 +4080,7 @@ join-object
 jojoba
 joke
 jokes
+jotform
 journal
 journalctl
 joyride
@@ -4119,6 +4119,7 @@ jwe
 jwk
 jws
 jwt
+jwttoken
 k8s
 k8sshell
 k8ssnapshots
@@ -4147,6 +4148,7 @@ keeper
 kelverion
 kelvin
 kentico
+kerb
 kerberos
 kernel32
 kestrel
@@ -4620,6 +4622,7 @@ mas
 mask
 mass
 massmail
+masstransit
 masterconfiguration
 match
 matcharray
@@ -4847,6 +4850,11 @@ modern
 modify
 module
 module-maintenance
+module-manifest
+module-publishing
+module-publishing-framework
+module-testing
+module-testing-framework
 modulebuild
 modulecreation
 modulefast
@@ -4961,6 +4969,8 @@ msu
 msvc
 msword
 mta-sts
+mule
+mulesoft
 multi
 multi-agent
 multi-factor
@@ -5129,6 +5139,7 @@ new-dynamicparameter
 new-githubrelease
 new-item
 new-itemproperty
+new-modulemanifest
 new-pinneditem
 new-rdpsession
 new-samcmapplicationfrompackagedefinitionsms
@@ -5325,6 +5336,7 @@ officeopenxml
 officertool
 offline
 offlinewimservicing
+ofx
 ogg
 oh-my-posh
 oh-my-zsh
@@ -5537,6 +5549,7 @@ package-transform
 packagemanagement
 packagemanager
 packages
+packagesartefact
 packagesregistry
 packaging
 packaging psmodule
@@ -5969,6 +5982,8 @@ powershell-isprime
 powershell-lightning
 powershell-module
 powershell-modules
+powershell-modules-convention
+powershell-project-convention
 powershell-releases-api
 powershell-remoting
 powershell-scripts
@@ -6154,7 +6169,6 @@ ps1xml
 ps1xmlgen
 ps2dll
 ps2exe
-ps2exe.core
 ps3
 ps4
 ps5
@@ -9150,6 +9164,7 @@ publicfolder
 publicholidays
 publicip
 publish
+publish-module
 publishedmodules
 publisher
 publishers
@@ -9328,6 +9343,7 @@ read-slog
 readable
 reader
 readiness
+readme
 readpdf
 readthedocs
 real-time
@@ -9415,6 +9431,7 @@ regularexpression
 regularexpressions
 reinstall
 relational
+relativity
 relay
 release
 releasedefinition
@@ -9537,7 +9554,6 @@ restart
 restaurant
 restful
 restore
-restrictive
 results
 resume
 retail
@@ -9595,6 +9611,8 @@ rms
 rng
 roarwrecker
 robbyrussel
+robinhood
+robinhoodcrypto
 robocopy
 robot
 roca
@@ -9796,6 +9814,7 @@ screenscraping
 screenshot
 script
 script_version
+script-module
 script-signing
 script-to-assembly
 script-to-executable
@@ -10145,7 +10164,6 @@ slash
 slashcommands
 sleep
 sleeper
-slideshow
 slmgr
 sln
 slugify
@@ -10269,7 +10287,6 @@ spanner
 spark
 sparkline
 sparklines
-spawn
 spdockit
 spdx
 spdx-license-identifier:ms-pl
@@ -10477,7 +10494,6 @@ stockscreenerapi
 stoicism
 stoics
 stolpe.io
-stop
 storablecolortheme
 storage
 storageaccount
@@ -10501,7 +10517,6 @@ streaming
 streamreader
 streamwriter
 stretch
-strict
 strictmode
 strikethrough-text
 string
@@ -10718,6 +10733,7 @@ tcptest
 tcx
 tcxaemgmt
 tdd
+teable
 teaching
 team
 teamcity
@@ -10787,6 +10803,7 @@ test
 test-automation
 test-dscconfiguration
 test-internetconnection
+test-modulemanifest
 test-modulepath
 test-osplatform
 test-psremoting
@@ -10982,7 +10999,6 @@ translator
 translit
 transliteration
 transmission
-transparancy
 transparency
 transpilation
 trap
@@ -11203,6 +11219,7 @@ unzip
 up
 update
 update-module
+update-modulemanifest
 update-moduletests
 update-typedata
 updatecatalog
@@ -11750,6 +11767,7 @@ windowsrest
 windowssandbox
 windowssearchmanager
 windowsserver
+windowsserver2008
 windowsserver2016
 windowsserver2019
 windowsserver2022
