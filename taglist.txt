@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Friday, 31 October 2025 21:52:39 UTC
+Updated: Saturday, 01 November 2025 09:51:59 UTC
 
 .bat
 .env
@@ -286,6 +286,7 @@ aiapplications
 aiautomation
 aid
 aidataplatform
+aider
 aidocument
 aiintegration
 ailanguage
@@ -420,6 +421,7 @@ aovpn psmodule
 apache
 apache_maven
 apachekafka
+apexlegends
 api
 api-client
 api-gateway
@@ -573,7 +575,6 @@ asp.net
 aspire
 aspnet
 aspnet_regiis
-aspnetcore
 asr
 assembleenationale
 assembly
@@ -612,7 +613,6 @@ atprotocol
 atrium
 att&ck
 attach
-attention
 attestation
 attila
 attribute
@@ -1147,6 +1147,7 @@ c2r
 ca
 cache
 cachedroles
+cacherecovery
 caf
 caffeine
 cal
@@ -1249,6 +1250,7 @@ cert
 certbasedauth
 certera
 certes
+certificat
 certificate
 certificateauthority
 certificatechain
@@ -1310,7 +1312,6 @@ chocobear
 chocolatey
 choice
 choose_file
-choose_file_name
 choose_folder
 chooser
 christaylorcodes
@@ -1537,7 +1538,6 @@ colorful
 colorful-output
 colorful-scripts
 colorful-terminal
-colorize
 colorized
 coloroutput
 colorpicker
@@ -1574,7 +1574,6 @@ commit
 commit-analysis
 commits
 common
-common-data-service
 commondataservice
 commonmark
 commonstuff
@@ -1602,6 +1601,7 @@ composite
 compositeresource
 compoundproperty
 compress
+compressedguid
 compression
 compromised
 compute
@@ -1755,6 +1755,7 @@ copyfileex
 copypaste
 copyright
 core
+coreposh
 coreutils
 corona
 correlation
@@ -1899,6 +1900,11 @@ customdns
 customer
 customerengagement
 customers
+customeventchannel
+customeventlog
+customeventlogchannel
+customeventlogfile
+customeventlogfiles
 customevents
 customformatregionalsettings
 custominformationservices
@@ -2111,6 +2117,7 @@ delegation
 delegationmodel
 delete
 delete-orphan-branches
+deletefile
 deleteuserprofile
 delivery
 dell
@@ -2125,7 +2132,6 @@ demultiplex
 demultiplexing
 dependencies
 dependency
-dependencyfree
 dependencymap
 dependencysearch
 deploy
@@ -2718,7 +2724,6 @@ ethr
 ethz
 etl
 etl2pcapng
-etrade
 ets
 etw
 etymology
@@ -2730,6 +2735,8 @@ event
 event_id
 event_list
 event-timeline
+eventchannel
+eventchannels
 eventcollector
 eventful
 eventgrid
@@ -2737,6 +2744,9 @@ eventhub
 eventing
 eventlist
 eventlog
+eventlogchannel
+eventlogchannels
+eventlogmanifest
 eventlogs
 eventmonitoring
 eventprocessor
@@ -2805,6 +2815,7 @@ expect
 experience
 experiments
 expiration
+expired
 expiring
 expiry
 exploit
@@ -2875,6 +2886,7 @@ fast
 fast-dds
 fast-ping
 fastdata
+faster
 fastfilepub
 fastgit
 fastlinq
@@ -3018,6 +3030,7 @@ five9
 fix-log
 fix-protocol
 fixlet
+fixmissingmsi
 fixpack
 flac
 flag
@@ -3444,6 +3457,7 @@ gumby
 guru
 gvim
 gw2
+gwbasic
 gymnasium
 gz
 gzip
@@ -3840,8 +3854,11 @@ info
 infoblox
 informatica
 information
+information-technology
 informationbarriers
 informationprotection
+informationtechnology
+informationtechnologyoperations
 informix
 infosec
 infrastructure
@@ -3879,8 +3896,8 @@ install-module
 install-windowsimage
 installation
 installationmanager
-installedapplications
 installer
+installercache
 installers
 installoffice
 installofficertool
@@ -4085,7 +4102,6 @@ joke
 jokes
 jotform
 journal
-journalctl
 joyride
 jpg
 jq
@@ -4122,6 +4138,7 @@ jwe
 jwk
 jws
 jwt
+jwttoken
 k8s
 k8sshell
 k8ssnapshots
@@ -4284,6 +4301,7 @@ lbs
 lccn
 lcm
 lcminternals
+lcs
 ldap
 leaflet
 leafs
@@ -4999,6 +5017,7 @@ multithreaded
 multithreaded-helpers
 multithreading
 music
+musiccast
 mustache
 mutation
 mute
@@ -5951,6 +5970,7 @@ powerdex
 powerforensics
 powergraph
 powergui
+powermanagement
 powermax
 powerpack
 powerplan
@@ -9381,10 +9401,7 @@ redfish
 redforest
 redgate
 redirect
-redirecting
 redirects
-redirectstandarderror
-redirectstandardoutput
 redis
 redisenterprisecache
 redistributables
@@ -9479,6 +9496,7 @@ remove-pass
 remove-path
 remove-pinneditem
 remove-tempfiles
+removefile
 removetypeaccelerators
 remux
 ren-isac
@@ -10127,7 +10145,6 @@ sintez.module.rds
 sit
 site
 site_navigation
-sitecollection
 siteconfiguration
 sitecore
 sitecoresearch
@@ -10160,6 +10177,7 @@ skytap
 slack
 slash
 slashcommands
+sleep
 sleeper
 slideshow
 slmgr
@@ -10385,7 +10403,9 @@ sqlvm
 sqr
 sqrt
 square
+squid
 squire
+squishedguid
 srcds
 srcsrv
 srcsvr
@@ -10468,7 +10488,6 @@ statuscode
 statusmonitor
 statusreportingcomponent
 staytus
-stderr
 stdio
 stdout
 steam
@@ -10643,6 +10662,7 @@ syslog
 sysman
 sysmon
 sysop
+syspass
 syspip
 syspip3
 sysprep
@@ -10753,6 +10773,7 @@ techdirect
 techedna2014
 techlog
 technicalanalysis
+technology
 techsmith
 tel
 telegram
@@ -11039,6 +11060,7 @@ truportal
 trusted
 trusted-host
 trustedhosts
+trustedinstaller
 trustedrootcertificate
 trustedsigning
 truth
@@ -11087,6 +11109,7 @@ typeextension
 types
 types.ps1xml
 typescript
+typing
 tzutil
 uac
 uag
@@ -11097,7 +11120,6 @@ ubuntu
 ucs
 ucspowertool
 ud-avataaar
-ud-badgebutton
 ud-badgelink
 ud-breadcrumb
 ud-breadcrumbitem
@@ -11157,7 +11179,6 @@ udp
 udpclient
 udptest
 udr
-udthememode
 udword
 uefi
 uem
@@ -11304,6 +11325,8 @@ utm
 uudecode
 uuencode
 uuid
+uuidv3
+uuidv5
 uw
 uwp
 ux
@@ -11336,6 +11359,7 @@ vba
 vbaproject
 vbproj
 vbr
+vbscript
 vbsinst
 vc
 vccmdlets
@@ -11696,7 +11720,6 @@ win-ps2exe
 win10
 win2k8
 win32
-win32_installedwin32program
 win32_operatingsystem
 win32-api
 win32appmigrationtool
@@ -11744,6 +11767,7 @@ windowsdesktopsearch
 windowsdirectories
 windowsdiskcleanup
 windowsdomain
+windowsevent
 windowseventlog
 windowsform
 windowsforms
@@ -11774,7 +11798,6 @@ windowsserver2025
 windowsservercoresecurity
 windowsserverguisecurity
 windowsservice
-windowsservices
 windowsstore
 windowsterminal
 windowstimezone
@@ -11799,7 +11822,6 @@ winui
 wired
 wireless
 wirelessnetwork
-wireshark
 wisc
 wiscmail
 wisco365
@@ -11843,7 +11865,6 @@ workload
 workload-automation
 workloadidentity
 workloads
-workpoint
 workrequests
 worksheet
 workspace
@@ -11968,6 +11989,7 @@ xwindowsupdate
 xwith
 yahoo
 yahw
+yamaha
 yaml
 yandex
 yandexdisk
@@ -12009,6 +12031,7 @@ zivver
 zlib
 zlib-compression
 zoho
+zoicware
 zone
 zoom
 zoomapi
