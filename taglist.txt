@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Saturday, 01 November 2025 09:51:59 UTC
+Updated: Saturday, 01 November 2025 21:52:06 UTC
 
 .bat
 .env
@@ -546,7 +546,6 @@ arrow-key
 art
 artefactual
 artifact
-artifactory
 artifacts
 artificial-intelligence
 artificialintelligence
@@ -575,6 +574,7 @@ asp.net
 aspire
 aspnet
 aspnet_regiis
+aspnetcore
 asr
 assembleenationale
 assembly
@@ -613,6 +613,7 @@ atprotocol
 atrium
 att&ck
 attach
+attention
 attestation
 attila
 attribute
@@ -697,7 +698,6 @@ autoupdate-script
 autowrapper
 autoyast
 auvik
-av1
 availability
 availabilityset
 avalara
@@ -1143,7 +1143,6 @@ bzip2-compression
 c
 c#
 c++
-c2r
 ca
 cache
 cachedroles
@@ -1312,6 +1311,7 @@ chocobear
 chocolatey
 choice
 choose_file
+choose_file_name
 choose_folder
 chooser
 christaylorcodes
@@ -1383,7 +1383,6 @@ cli
 cli-menu
 cli-menu-helpers
 clickonce
-clicktorun
 client
 client-management
 clientpushsettings
@@ -1538,6 +1537,7 @@ colorful
 colorful-output
 colorful-scripts
 colorful-terminal
+colorize
 colorized
 coloroutput
 colorpicker
@@ -1574,6 +1574,7 @@ commit
 commit-analysis
 commits
 common
+common-data-service
 commondataservice
 commonmark
 commonstuff
@@ -1953,6 +1954,7 @@ daily
 dalle3
 dane
 dangling
+dapper
 dapr
 dare
 dark
@@ -2132,6 +2134,7 @@ demultiplex
 demultiplexing
 dependencies
 dependency
+dependencyfree
 dependencymap
 dependencysearch
 deploy
@@ -2709,7 +2712,6 @@ esp32s2
 espressif
 espresso
 esri
-essbase
 est
 estimate
 estimation
@@ -2724,6 +2726,7 @@ ethr
 ethz
 etl
 etl2pcapng
+etrade
 ets
 etw
 etymology
@@ -3111,7 +3114,6 @@ forwardedevents
 forwarding
 foudil
 foundationmodels
-foundry
 fount
 fount-pwsh
 fountassist
@@ -3896,6 +3898,7 @@ install-module
 install-windowsimage
 installation
 installationmanager
+installedapplications
 installer
 installercache
 installers
@@ -4102,6 +4105,7 @@ joke
 jokes
 jotform
 journal
+journalctl
 joyride
 jpg
 jq
@@ -5288,7 +5292,6 @@ nvdimm
 nvdimm-n
 nvidia
 nvm
-nvm-window
 nxt
 nyse
 nzb
@@ -5880,7 +5883,6 @@ poshlog
 poshorigin
 poshproject
 poshprtg
-poshrest
 poshrsjob
 poshtemplate
 poshwsus
@@ -7996,6 +7998,7 @@ pscommand_zwp
 pscommander
 psconfasia
 psconfeu
+psconfig
 pscore
 pscredential
 pscribo
@@ -9149,7 +9152,6 @@ psscriptsmonitoring
 pssendgrid
 pssession
 pssharper
-psslack
 pssqlite
 pssqlitebynarymodule
 pssqlitemodule
@@ -9401,7 +9403,10 @@ redfish
 redforest
 redgate
 redirect
+redirecting
 redirects
+redirectstandarderror
+redirectstandardoutput
 redis
 redisenterprisecache
 redistributables
@@ -9488,7 +9493,6 @@ remotepro
 remoteregistry
 remotesession
 remoting
-removal
 remove
 remove-githubsecrets
 remove-itemproperty
@@ -10075,7 +10079,9 @@ shared
 sharefile
 sharepoint
 sharepoint_online
+sharepoint-on-prem
 sharepoint-online
+sharepoint-product-configuration-wizard
 sharepointdevelopmentcommunity
 sharepointonline
 sharepointpnp
@@ -10145,6 +10151,7 @@ sintez.module.rds
 sit
 site
 site_navigation
+sitecollection
 siteconfiguration
 sitecore
 sitecoresearch
@@ -10488,6 +10495,7 @@ statuscode
 statusmonitor
 statusreportingcomponent
 staytus
+stderr
 stdio
 stdout
 steam
@@ -11120,6 +11128,7 @@ ubuntu
 ucs
 ucspowertool
 ud-avataaar
+ud-badgebutton
 ud-badgelink
 ud-breadcrumb
 ud-breadcrumbitem
@@ -11179,6 +11188,7 @@ udp
 udpclient
 udptest
 udr
+udthememode
 udword
 uefi
 uem
@@ -11199,7 +11209,6 @@ unblock
 unc
 uncpaths
 underlined-text
-undo
 unhide
 unicode
 unicode-emoji
@@ -11504,7 +11513,6 @@ voperator
 vorbis
 voting
 vovin
-vp9
 vpas
 vpasmodule
 vpc
@@ -11546,7 +11554,6 @@ vsteams
 vstest
 vsts
 vsts-cli
-vtt
 vue
 vulnerabilities
 vulnerability
@@ -11624,10 +11631,8 @@ webhistory
 webhook
 webinspect
 webjea
-webm
 webmanagement
 webmanagementservice
-webp
 webpage
 webpi
 webreport
@@ -11720,6 +11725,7 @@ win-ps2exe
 win10
 win2k8
 win32
+win32_installedwin32program
 win32_operatingsystem
 win32-api
 win32appmigrationtool
@@ -11798,6 +11804,7 @@ windowsserver2025
 windowsservercoresecurity
 windowsserverguisecurity
 windowsservice
+windowsservices
 windowsstore
 windowsterminal
 windowstimezone
@@ -11822,6 +11829,7 @@ winui
 wired
 wireless
 wirelessnetwork
+wireshark
 wisc
 wiscmail
 wisco365
@@ -11865,6 +11873,7 @@ workload
 workload-automation
 workloadidentity
 workloads
+workpoint
 workrequests
 worksheet
 workspace
