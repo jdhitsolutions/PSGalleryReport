@@ -3,33 +3,128 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
-## [FreeMobile](https://www.powershellgallery.com/Packages/FreeMobile/1.0.0) | 1.0.0
+## [XlsCoordinatesConverter-fad](https://www.powershellgallery.com/Packages/XlsCoordinatesConverter-fad/0.0.4) | 0.0.4
 
-### Published: 11/02/2025 21:35:18 by Cédric Belin <cedx@outlook.com>
+### Published: 11/03/2025 09:40:39 by FabDarb
 
-Send SMS messages to your Free Mobile device.
+Excel coordinates to data
 
-__Downloads__: 1 | __Repository__: https://github.com/cedx/free-mobile.ps1
+__Downloads__: 1 | __Repository__: 
 
-## [MvRAdaptiveCards](https://www.powershellgallery.com/Packages/MvRAdaptiveCards/0.8.3) | 0.8.3
+## [ITFabrik.Logger](https://www.powershellgallery.com/Packages/ITFabrik.Logger/0.1.0) | 0.1.0
 
-### Published: 11/02/2025 21:27:55 by Michael van Rooijen
+### Published: 11/03/2025 09:24:04 by IT FABRIK
 
-This module provides functions for working with Adaptive Cards in PowerShell in a similar fashion as the popular module PSWriteHTML does for HTML generation. Please read the documentation on GitHub for more information. (https://github.com/Michael19842/PowerShell.MvRAdaptiveCards.Module)
+Logger: Implemente un logger compatible StepManager via la variable StepManagerLogger.
 
-__Downloads__: 124 | __Repository__: https://github.com/Michael19842/PowerShell.MvRAdaptiveCards.Module
+__Downloads__: 2 | __Repository__: 
 
-## [PSPromptly](https://www.powershellgallery.com/Packages/PSPromptly/0.1.2) | 0.1.2
+## [XlsCoordinatesConverter-eth](https://www.powershellgallery.com/Packages/XlsCoordinatesConverter-eth/1.0.2) | 1.0.2
 
-### Published: 11/02/2025 21:21:34 by Marcos Santos
+### Published: 11/03/2025 09:21:27 by Ethan Hofstetter
 
-Library for creating navigation menus for command-line applications
+Module pour convertir les coordonnées Excel en indices numériques.
 
-__Downloads__: 0 | __Repository__: https://github.com/krzgvfs/promptly_pwsh
+__Downloads__: 2 | __Repository__: 
 
-## [ColorScripts-Enhanced](https://www.powershellgallery.com/Packages/ColorScripts-Enhanced/2025.11.2.1947) | 2025.11.2.1947
+## [XlsCoordinatesConverter-ETB](https://www.powershellgallery.com/Packages/XlsCoordinatesConverter-ETB/1.0.0) | 1.0.0
 
-### Published: 11/02/2025 19:51:20 by Nick2bad4u
+### Published: 11/03/2025 09:02:16 by cp-23etb
+
+Excel coordinate utilities
+
+__Downloads__: 3 | __Repository__: 
+
+## [Meca.Tools.WindowsVault](https://www.powershellgallery.com/Packages/Meca.Tools.WindowsVault/0.0.1) | 0.0.1
+
+### Published: 11/03/2025 08:06:30 by dqlr
+
+Functions for Simple WindowsVault Management
+
+__Downloads__: 1 | __Repository__: 
+
+## [Glooko](https://www.powershellgallery.com/Packages/Glooko/1.0.13) | 1.0.13
+
+### Published: 11/03/2025 07:52:11 by iricigor
+
+PowerShell module for processing Glooko diabetes CSV exported data
+
+__Downloads__: 9 | __Repository__: https://github.com/iricigor/Glooko
+
+## [Intersight.PowerShell](https://www.powershellgallery.com/Packages/Intersight.PowerShell/1.0.11.2025092610) | 1.0.11.2025092610
+
+### Published: 11/03/2025 06:59:46 by Cisco Systems
+
+Intersight Powershell module provides the cmdlets to manage, analyze, and automate the IT infrastructure in Intersight.
+
+__Downloads__: 26,936 | __Repository__: https://github.com/CiscoDevNet/intersight-powershell
+
+## [AppVeyorTestPsGallery](https://www.powershellgallery.com/Packages/AppVeyorTestPsGallery/1.0.682) | 1.0.682
+
+### Published: 11/03/2025 06:45:00 by Feodor Fitsner
+
+The test module to verify publishing to PSGallery from AppVeyor.
+
+__Downloads__: 43,584 | __Repository__: 
+
+## [OSD](https://www.powershellgallery.com/Packages/OSD/25.11.3.1) | 25.11.3.1
+
+### Published: 11/03/2025 05:08:59 by David Segura . Gary Blok . Michael Escamilla
+
+OSD PowerShell Module for Windows Deployment
+
+__Downloads__: 5,417,128 | __Repository__: https://github.com/OSDeploy/OSD
+
+## [HtmlToMarkdown](https://www.powershellgallery.com/Packages/HtmlToMarkdown/1.1.5) | 1.1.5
+
+### Published: 11/03/2025 03:47:39 by Brian Lalonde
+
+Converts HTML to Markdown/CommonMark.
+
+__Downloads__: 17,621 | __Repository__: https://github.com/brianary/HtmlToMarkdown/
+
+## [apitools](https://www.powershellgallery.com/Packages/apitools/1.0.4) | 1.0.4
+
+### Published: 11/03/2025 03:24:16 by Ruslan Dubas
+
+apitools is a comprehensive PowerShell toolkit for modern API development and database tooling.
+
+Designed to be completely dependency-free (no dbatools or SimplySql required), apitools provides:
+- Native database connectivity using System.Data.SqlClient and System.Data.Odbc
+- Automatic PostgreSQL ODBC driver discovery
+- Sample database generation (Hospital schema) for SQL Server and PostgreSQL
+- Complete CRUD Web API scaffolding from existing databases
+- Entity Framework Core model and DbContext generation
+- Automatic ASP.NET Core controller generation with Swagger integration
+- Interactive mode with helpful connection string examples
+- ShouldProcess support with -DryRun capability for safe testing
+- Cross-platform support (Windows, Linux, macOS)
+
+Built in the spirit of dbatools, apitools gives you powerful API development capabilities with zero external PowerShell dependencies. Only requires .NET SDK and standard CLI tools (dotnet-ef, aspnet-codegenerator).
+
+Perfect for developers who want lightweight, transparent, and scriptable API development workflows!
+
+__Downloads__: 30 | __Repository__: https://github.com/RusUsf/apitools
+
+## [aitools](https://www.powershellgallery.com/Packages/aitools/1.0.4) | 1.0.4
+
+### Published: 11/03/2025 02:01:05 by Chrissy LeMaire
+
+PowerShell wrapper for AI coding assistants. Batch process files using Claude Code, Aider, Gemini CLI, GitHub Copilot CLI, and Codex CLI with unified commands and pipeline support.
+
+__Downloads__: 288 | __Repository__: https://github.com/potatoqualitee/aitools
+
+## [PSFzf](https://www.powershellgallery.com/Packages/PSFzf/2.7.3) | 2.7.3
+
+### Published: 11/03/2025 01:35:14 by Michael Kelley
+
+A thin wrapper around Fzf (https://github.com/junegunn/fzf).  If PSReadline is loaded, this wrapper registers Fzf with the keyboard chord Ctrl+t.
+
+__Downloads__: 855,264 | __Repository__: 
+
+## [ColorScripts-Enhanced](https://www.powershellgallery.com/Packages/ColorScripts-Enhanced/2025.11.2.2244) | 2025.11.2.2244
+
+### Published: 11/02/2025 22:48:39 by Nick2bad4u
 
 🎨 ColorScripts-Enhanced: Professional ANSI Art Terminal Experience
 
@@ -83,6 +178,38 @@ PERFECT FOR
 
 __Downloads__: 128 | __Repository__: https://github.com/Nick2bad4u/ps-color-scripts-enhanced
 
+## [K.PSGallery.Smartagr](https://www.powershellgallery.com/Packages/K.PSGallery.Smartagr/0.1.40) | 0.1.40
+
+### Published: 11/02/2025 22:22:51 by 1d70f
+
+Smart Git Tag Management with Semantic Versioning Intelligence. Automatically creates and manages Git tags with sophisticated version progression logic, smart tag intelligence, and moving tag management.
+
+__Downloads__: 21 | __Repository__: https://github.com/GrexyLoco/K.PSGallery.Smartagr
+
+## [FreeMobile](https://www.powershellgallery.com/Packages/FreeMobile/1.0.0) | 1.0.0
+
+### Published: 11/02/2025 21:35:18 by Cédric Belin <cedx@outlook.com>
+
+Send SMS messages to your Free Mobile device.
+
+__Downloads__: 1 | __Repository__: https://github.com/cedx/free-mobile.ps1
+
+## [MvRAdaptiveCards](https://www.powershellgallery.com/Packages/MvRAdaptiveCards/0.8.3) | 0.8.3
+
+### Published: 11/02/2025 21:27:55 by Michael van Rooijen
+
+This module provides functions for working with Adaptive Cards in PowerShell in a similar fashion as the popular module PSWriteHTML does for HTML generation. Please read the documentation on GitHub for more information. (https://github.com/Michael19842/PowerShell.MvRAdaptiveCards.Module)
+
+__Downloads__: 124 | __Repository__: https://github.com/Michael19842/PowerShell.MvRAdaptiveCards.Module
+
+## [PSPromptly](https://www.powershellgallery.com/Packages/PSPromptly/0.1.2) | 0.1.2
+
+### Published: 11/02/2025 21:21:34 by Marcos Santos
+
+Library for creating navigation menus for command-line applications
+
+__Downloads__: 0 | __Repository__: https://github.com/krzgvfs/promptly_pwsh
+
 ## [IntuneLens](https://www.powershellgallery.com/Packages/IntuneLens/1.0.2) | 1.0.2
 
 ### Published: 11/02/2025 17:33:55 by Alex Nuryiev
@@ -107,14 +234,6 @@ EmojiTools provides powerful emoji search and management capabilities with local
 
 __Downloads__: 12 | __Repository__: https://github.com/browniellc/EmojiTools
 
-## [OSD](https://www.powershellgallery.com/Packages/OSD/25.11.2.3) | 25.11.2.3
-
-### Published: 11/02/2025 17:07:09 by David Segura . Gary Blok . Michael Escamilla
-
-OSD PowerShell Module for Windows Deployment
-
-__Downloads__: 5,417,141 | __Repository__: https://github.com/OSDeploy/OSD
-
 ## [PSWriteColorEX](https://www.powershellgallery.com/Packages/PSWriteColorEX/1.0.0) | 1.0.0
 
 ### Published: 11/02/2025 11:25:52 by MarkusMcNugen
@@ -122,14 +241,6 @@ __Downloads__: 5,417,141 | __Repository__: https://github.com/OSDeploy/OSD
 Advanced PowerShell module for colored console output with comprehensive ANSI support including TrueColor (24-bit RGB), style profiles, cross-platform compatibility, and extensive logging capabilities.
 
 __Downloads__: 3 | __Repository__: https://github.com/MarkusMcNugen/PSWriteColorEX
-
-## [aitools](https://www.powershellgallery.com/Packages/aitools/1.0.3) | 1.0.3
-
-### Published: 11/02/2025 07:18:37 by Chrissy LeMaire
-
-PowerShell wrapper for AI coding assistants. Batch process files using Claude Code, Aider, Gemini CLI, GitHub Copilot CLI, and Codex CLI with unified commands and pipeline support.
-
-__Downloads__: 288 | __Repository__: https://github.com/potatoqualitee/aitools
 
 ## [qbo4.Infrastructure](https://www.powershellgallery.com/Packages/qbo4.Infrastructure/1.0.21.55) | 1.0.21.55
 
@@ -167,14 +278,6 @@ __Downloads__: 679 | __Repository__: https://github.com/krymtkts/pocof/
 Command line interface of Cédric Belin, full stack developer.
 
 __Downloads__: 5 | __Repository__: https://github.com/cedx/cli
-
-## [Glooko](https://www.powershellgallery.com/Packages/Glooko/1.0.7) | 1.0.7
-
-### Published: 11/01/2025 19:43:54 by iricigor
-
-PowerShell module for processing Glooko diabetes CSV exported data
-
-__Downloads__: 9 | __Repository__: https://github.com/iricigor/Glooko
 
 ## [PSParquet](https://www.powershellgallery.com/Packages/PSParquet/0.2.17) | 0.2.17
 
@@ -278,7 +381,7 @@ __Downloads__: 3,264 | __Repository__:
 
 PowerShell module, which makes it easier to work with Business Central Containers on Docker.
 
-__Downloads__: 3,700,563 | __Repository__: https://github.com/microsoft/navcontainerhelper
+__Downloads__: 3,700,542 | __Repository__: https://github.com/microsoft/navcontainerhelper
 
 ## [WiFiAnalyzer](https://www.powershellgallery.com/Packages/WiFiAnalyzer/1.1.13) | 1.1.13
 
@@ -1024,7 +1127,7 @@ __Downloads__: 29 | __Repository__: https://github.com/Brandon-J-Navarro/Powersh
 
 A handful of useful tools for System Center Operations Manager (SCOM) activities.
 
-__Downloads__: 322,345 | __Repository__: https://monitoringguys.com/2019/11/12/scomhelper/
+__Downloads__: 322,343 | __Repository__: https://monitoringguys.com/2019/11/12/scomhelper/
 
 ## [PSAction1](https://www.powershellgallery.com/Packages/PSAction1/1.4.5) | 1.4.5
 
@@ -1072,7 +1175,7 @@ __Downloads__: 3,087,623 | __Repository__: https://github.com/logicmonitor/lm-po
 
 Automate your CyberArk Certificate Manager (Venafi TLS Protect) Self-Hosted and SaaS platforms!
 
-__Downloads__: 56,259 | __Repository__: https://github.com/Venafi/VenafiPS
+__Downloads__: 56,260 | __Repository__: https://github.com/Venafi/VenafiPS
 
 ## [EntraIdDSC](https://www.powershellgallery.com/Packages/EntraIdDSC/1.0.4) | 1.0.4
 
@@ -1112,7 +1215,7 @@ __Downloads__: 280 | __Repository__:
 
 A module for simplifying the process of getting an access token from Entra ID
 
-__Downloads__: 10,455 | __Repository__: https://github.com/fortytwoservices/powershell-module-entraidaccesstoken
+__Downloads__: 10,447 | __Repository__: https://github.com/fortytwoservices/powershell-module-entraidaccesstoken
 
 ## [PsArchTools](https://www.powershellgallery.com/Packages/PsArchTools/0.8.0) | 0.8.0
 
@@ -1983,92 +2086,4 @@ This modules provides Cmdlets for OCI Jms Service
 
 __Downloads__: 12,152 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-## [OCI.PSModules.Iot](https://www.powershellgallery.com/Packages/OCI.PSModules.Iot/118.0.0) | 118.0.0
-
-### Published: 10/28/2025 18:35:30 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Iot Service
-
-__Downloads__: 142 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Integration](https://www.powershellgallery.com/Packages/OCI.PSModules.Integration/118.0.0) | 118.0.0
-
-### Published: 10/28/2025 18:35:24 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Integration Service
-
-__Downloads__: 12,937 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Identitydomains](https://www.powershellgallery.com/Packages/OCI.PSModules.Identitydomains/118.0.0) | 118.0.0
-
-### Published: 10/28/2025 18:35:18 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Identitydomains Service
-
-__Downloads__: 9,146 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Identitydataplane](https://www.powershellgallery.com/Packages/OCI.PSModules.Identitydataplane/118.0.0) | 118.0.0
-
-### Published: 10/28/2025 18:35:11 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Identitydataplane Service
-
-__Downloads__: 11,270 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Identity](https://www.powershellgallery.com/Packages/OCI.PSModules.Identity/118.0.0) | 118.0.0
-
-### Published: 10/28/2025 18:35:03 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Identity Service
-
-__Downloads__: 22,519 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Healthchecks](https://www.powershellgallery.com/Packages/OCI.PSModules.Healthchecks/118.0.0) | 118.0.0
-
-### Published: 10/28/2025 18:34:56 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Healthchecks Service
-
-__Downloads__: 27,559 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Governancerulescontrolplane](https://www.powershellgallery.com/Packages/OCI.PSModules.Governancerulescontrolplane/118.0.0) | 118.0.0
-
-### Published: 10/28/2025 18:34:50 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Governancerulescontrolplane Service
-
-__Downloads__: 10,532 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Goldengate](https://www.powershellgallery.com/Packages/OCI.PSModules.Goldengate/118.0.0) | 118.0.0
-
-### Published: 10/28/2025 18:34:45 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Goldengate Service
-
-__Downloads__: 12,615 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Globallydistributeddatabase](https://www.powershellgallery.com/Packages/OCI.PSModules.Globallydistributeddatabase/118.0.0) | 118.0.0
-
-### Published: 10/28/2025 18:34:38 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Globallydistributeddatabase Service
-
-__Downloads__: 7,127 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Genericartifactscontent](https://www.powershellgallery.com/Packages/OCI.PSModules.Genericartifactscontent/118.0.0) | 118.0.0
-
-### Published: 10/28/2025 18:34:31 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Genericartifactscontent Service
-
-__Downloads__: 12,240 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Generativeaiinference](https://www.powershellgallery.com/Packages/OCI.PSModules.Generativeaiinference/118.0.0) | 118.0.0
-
-### Published: 10/28/2025 18:34:25 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Generativeaiinference Service
-
-__Downloads__: 7,223 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-*Updated: Sunday, 02 November 2025 21:52:05 UTC*
+*Updated: Monday, 03 November 2025 09:53:41 UTC*

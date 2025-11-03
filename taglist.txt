@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Sunday, 02 November 2025 21:52:14 UTC
+Updated: Monday, 03 November 2025 09:53:50 UTC
 
 .bat
 .env
@@ -223,6 +223,7 @@ administrator
 admintools
 adml
 admonition
+admpwd
 admx
 ado
 ado_security
@@ -357,6 +358,7 @@ amazonaws
 amazonmgn
 amazontitan
 amazonwebservices
+amd
 amend
 ami
 amiga
@@ -396,10 +398,8 @@ anova
 ansi
 ansi-art
 ansible
-ansible-control-node
 ansible-playbook
 ansible-vault
-ansiblecontrolnode
 ansiblectl
 ansibletower
 anthropic
@@ -419,7 +419,6 @@ aovpn psmodule
 apache
 apache_maven
 apachekafka
-apexlegends
 api
 api-client
 api-gateway
@@ -697,7 +696,6 @@ autoupdate-script
 autowrapper
 autoyast
 auvik
-av1
 availability
 availabilityset
 avalara
@@ -1111,6 +1109,7 @@ buildhelpers
 building
 buildingfile
 buildingmapping
+buildkit
 buildkite
 buildmaster
 builds
@@ -1410,6 +1409,7 @@ clientstatussettings
 clihelper.core
 clihelper.logger
 clihelper.semver
+clihelper.trends
 clipart
 clipasswordsdk
 clipboard
@@ -1451,7 +1451,6 @@ cloudmigrations
 cloudml
 cloudpc
 cloudservice
-cloudshell
 cloudsync
 clueser
 cluster
@@ -1518,6 +1517,7 @@ cognitiveservice
 cognitiveservices
 cohere
 cohesity
+coinbase
 coinflip
 coinmarketcap
 collaboration
@@ -1714,6 +1714,7 @@ controlroom
 controlup
 conventional
 conventional-commits
+convereter
 converged_data_management
 conversational
 converse
@@ -1723,7 +1724,6 @@ conversiontool
 convert
 convert-dtexceptiontomessage
 convert-movietogif
-convert-sid
 convert-windowsimage
 converter
 convertfrom
@@ -1806,7 +1806,6 @@ create
 createcolumn
 createdatabase
 createfile
-createprocessasuser
 createschema
 createtable
 creationworkflowsimplification
@@ -1832,7 +1831,6 @@ credmanager
 crescendo
 crescendobuilt
 cresendo
-crestron
 cricket
 crime
 critical
@@ -1852,6 +1850,7 @@ crt.sh
 crud
 crx
 crypto
+crypto-currency
 cryptocompare
 cryptocurrency
 cryptography
@@ -1887,6 +1886,9 @@ curious
 curl
 curlie
 currency
+currency-convereter
+currency-exchange
+currencyconverterapi
 current
 curseforge
 cursor
@@ -1943,6 +1945,7 @@ dacfx
 dacl
 dacpac
 dacpackage
+dagger
 dailen
 daily
 dalle3
@@ -2060,6 +2063,7 @@ dconf
 dcr
 ddc
 ddc/ci
+ddns
 debian
 debug
 debug-files
@@ -2236,6 +2240,7 @@ directrouting
 directsend
 directus
 direnv
+dirkjan
 dirname
 dirsync
 disa
@@ -2267,6 +2272,7 @@ diskusage
 dism
 dismal
 display
+display_dialog
 displayresolution
 disposable
 dispose
@@ -2769,6 +2775,7 @@ exception
 exceptionless
 exchange
 exchange_online
+exchange-rates
 exchange2010
 exchange2013
 exchange2016
@@ -2837,7 +2844,6 @@ extendedkeyusage
 extendedproperties
 extendedproperty
 extendscript
-extensibility
 extension
 extensionmethods
 extensionrisk
@@ -3043,7 +3049,6 @@ fleetsoftwareupdate
 flex
 flex-query
 flexdesk
-flexible
 flickr
 flowchart
 flowy
@@ -3087,7 +3092,9 @@ formatdata
 formatformat-tableformat-listformat-wideformat-customformat-defaultout-defaultout-fileout-hostout-printerout-string
 formatter
 formatting
+formdata
 forms
+fortiauth
 forticlient
 fortify
 fortifyondemand
@@ -3104,7 +3111,6 @@ forwardedevents
 forwarding
 foudil
 foundationmodels
-foundry
 fount
 fount-pwsh
 fountassist
@@ -3330,10 +3336,12 @@ gitrepository
 glass
 glimps
 glob
+global
 globalclipboard
 globaldashboard
 globalentry
 globallydistributeddatabase
+globalping
 globbing
 glooko
 glp
@@ -3605,6 +3613,7 @@ hl7
 hlds
 hls
 hmac
+hockey
 hol
 holiday
 home
@@ -4027,7 +4036,6 @@ issues
 isvalidemail
 isvalidip
 it
-it-support
 it-tool
 it-tools
 itadministration
@@ -4180,7 +4188,6 @@ keymanagementserver
 keymap
 keymapping
 keypair
-keyring
 keysms
 keyusage
 keyvalue
@@ -4328,7 +4335,6 @@ libgit2
 libmagic
 libraries
 library
-libsecret
 libvirt
 licence
 license
@@ -4480,7 +4486,6 @@ logonright
 logonscript
 logontask
 logonto
-logonuser
 logparser
 logrotate
 logrotation
@@ -5000,6 +5005,7 @@ multigeo
 multilingual
 multimedia
 multios
+multipart
 multipass
 multiple
 multiserver
@@ -5178,6 +5184,7 @@ nfsv3
 ngen
 ngfw
 nginx
+nhl
 ni
 nic
 nic.ru
@@ -5536,6 +5543,7 @@ outlook
 outpainting
 output
 output-to-image
+outreach
 outsystems
 overbite
 override
@@ -5744,6 +5752,7 @@ pim
 pin
 ping
 ping-async
+pinging
 pingsweep
 pinneditem
 pinterest
@@ -6112,6 +6121,7 @@ productstate
 profile
 profilecleanup
 profilemanagement
+profilemigration
 profiler
 profiles
 profileupdater
@@ -9287,6 +9297,7 @@ rabbit
 rabbitmq
 rackspace
 radarr
+radeon
 radio
 rag
 raidcontrollercmdlets
@@ -9802,6 +9813,7 @@ scoop
 scope
 scopes
 score
+scottplot
 scouterna
 scouternasetjanster
 scoutnet
@@ -10137,6 +10149,7 @@ sintez.module.rds
 sit
 site
 site_navigation
+sitecollection
 siteconfiguration
 sitecore
 sitecoresearch
@@ -10340,6 +10353,7 @@ spo
 spoofing
 spooler
 sport
+sports
 sports-tracker
 spotify
 spotify-api
@@ -10402,7 +10416,6 @@ srcds
 srcsrv
 srcsvr
 srm
-srylius-write
 ssas
 ssc
 ssdt
@@ -10487,6 +10500,7 @@ steam
 steam-games
 steamcmd
 stenography
+stepmanager
 stepper
 steps
 sticker
@@ -11195,7 +11209,6 @@ unblock
 unc
 uncpaths
 underlined-text
-undo
 unhide
 unicode
 unicode-emoji
@@ -11259,7 +11272,6 @@ upsource
 upstream
 uptime
 uptimerobot
-uptobox
 uqword
 urbac
 uri
@@ -11440,7 +11452,6 @@ virus
 virustotal
 visio
 visual
-visual_effects
 visual-studio
 visualbuilder
 visualc
@@ -11500,7 +11511,6 @@ voperator
 vorbis
 voting
 vovin
-vp9
 vpas
 vpasmodule
 vpc
@@ -11521,6 +11531,7 @@ vrtu
 vs
 vs-shell
 vsa
+vsa9
 vsan
 vsan+
 vscode
@@ -11541,7 +11552,6 @@ vsteams
 vstest
 vsts
 vsts-cli
-vtt
 vue
 vulnerabilities
 vulnerability
@@ -11619,10 +11629,8 @@ webhistory
 webhook
 webinspect
 webjea
-webm
 webmanagement
 webmanagementservice
-webp
 webpage
 webpi
 webreport
@@ -11658,6 +11666,7 @@ wer
 wfp
 wget
 what3words
+whatif
 whatismyip
 whatsnew
 whatsupgold
@@ -11861,6 +11870,7 @@ workload
 workload-automation
 workloadidentity
 workloads
+workpoint
 workrequests
 worksheet
 workspace
@@ -11975,7 +11985,6 @@ xql
 xrm
 xsa
 xsiam
-xsl
 xtremio
 xtrude
 xunit
