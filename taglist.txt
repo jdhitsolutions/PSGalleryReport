@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Wednesday, 05 November 2025 09:52:57 UTC
+Updated: Wednesday, 05 November 2025 21:52:17 UTC
 
 .bat
 .env
@@ -222,6 +222,7 @@ administrativeuser
 administrator
 admintools
 adml
+admonition
 admpwd
 admx
 ado
@@ -276,7 +277,6 @@ agm
 agnoster
 ahk
 ai
-ai-development
 ai-server
 ai21
 ai21labs
@@ -620,7 +620,6 @@ attestation
 attila
 attribute
 attributes
-attribution
 au
 audio
 audiocodes
@@ -827,6 +826,7 @@ azurekeyvault
 azurekeyvaultstuff
 azurelocal
 azuremaps
+azuremigrate
 azuremonitor
 azurenative
 azurenetworking
@@ -904,6 +904,7 @@ bastion
 bat
 batcat
 batch
+batch-install
 batchclass
 batching
 batman
@@ -1158,6 +1159,7 @@ calculate
 calculator
 calendar
 callingcode
+callout
 callqueue
 calvin-and-hobbes
 cam
@@ -1255,6 +1257,7 @@ certificat
 certificate
 certificateauthority
 certificatechain
+certificatemanager
 certificatepolicy
 certificates
 certificateservices
@@ -1521,6 +1524,7 @@ cognitiveservice
 cognitiveservices
 cohere
 cohesity
+coinbase
 coinflip
 coinmarketcap
 collaboration
@@ -1574,7 +1578,6 @@ comments
 commerce
 commfort
 commit
-commit-analysis
 commits
 common
 common-data-service
@@ -1856,6 +1859,7 @@ crt.sh
 crud
 crx
 crypto
+crypto-currency
 cryptocompare
 cryptocurrency
 cryptography
@@ -1896,6 +1900,7 @@ currency-exchange
 currencyconverterapi
 current
 curseforge
+cursor
 custom
 customchecks
 customdns
@@ -2106,7 +2111,6 @@ defender
 defender-atp
 defender-for-endpoint
 defenderasr
-defenderast
 defenderforendpoint
 defenderforidentity
 defenderforservers
@@ -2587,7 +2591,6 @@ elk
 elm
 elmah-io
 elonmusk
-eloomi
 eloqua
 elvish
 elvui
@@ -2836,6 +2839,7 @@ export-cmhealthreport
 export-data
 export-passlist
 exportcertificate
+exportcertificates
 exporter
 exportexcel
 exportteams
@@ -2849,7 +2853,6 @@ extendedkeyusage
 extendedproperties
 extendedproperty
 extendscript
-extensibility
 extension
 extensionmethods
 extensionrisk
@@ -3044,9 +3047,9 @@ flag
 flags
 flash
 flasharray
-flatfile
 flatten
 flaui
+flavor
 fleet
 fleetappsmanagement
 fleetdm
@@ -3179,6 +3182,7 @@ funny
 fusion
 fusionapps
 fuzzy
+fuzzy-search
 fyi
 fzf
 gac
@@ -3325,6 +3329,7 @@ gitflow
 gitforwindows
 github
 github-actions
+github-api
 githubaction
 githubactions
 githubcopilot
@@ -3840,7 +3845,6 @@ incident
 incident_response
 incident-response
 incidentresponse
-incidents
 incontact
 indents
 index
@@ -4171,7 +4175,6 @@ keepasslib
 keepawake
 keeper
 kelverion
-kelvin
 kentico
 kerb
 kerberos
@@ -4470,6 +4473,7 @@ loggingingestion
 loggingsearch
 loggly
 logic
+logical-operators
 logicapp
 logicapps
 logiclesstemplate
@@ -4555,7 +4559,6 @@ machinelearningmodels
 machinelearningservices
 macmon
 macos
-macos-powershell
 macosx
 macro
 macros
@@ -4658,7 +4661,6 @@ materialui
 mateso
 math
 mathematics
-mathml
 matplotlib
 matrix
 maven
@@ -4826,7 +4828,6 @@ mim
 mime
 mimekit
 min
-mindmeister
 minecraft
 miniconda
 minifier
@@ -4858,7 +4859,6 @@ ml.net
 mlflow
 mlmodels
 mltools
-mmdc
 mngdmac
 mobile
 mobilenetwork
@@ -5288,6 +5288,7 @@ nupkg
 nuspec
 nutanix
 nuwave
+nva
 nvd
 nvdimm
 nvdimm-n
@@ -5485,7 +5486,6 @@ oracle
 oraclecloudinfrastructure
 oraculum
 orbital
-orchestrate
 orchestration
 orchestrator
 order
@@ -5589,7 +5589,6 @@ pager
 pagerduty
 pages
 pagination
-paging
 palo
 paloalto
 paloaltonetworks
@@ -6001,6 +6000,8 @@ powershell-dsc
 powershell-examples
 powershell-gallery
 powershell-github-repo
+powershell-gitlab
+powershell-graphql
 powershell-isprime
 powershell-lightning
 powershell-module
@@ -6100,7 +6101,6 @@ private-key
 privatedns
 privatekey
 privatemethods
-privateprofilestring
 privilege
 privilegecloud
 privileged
@@ -6141,6 +6141,7 @@ progressbar
 progressbars
 project
 project-management
+project-manager
 projectmanagement
 projectreunion
 projects
@@ -9231,6 +9232,7 @@ pwsh.fw
 pwshake
 pwshfw
 pwshrc
+pwshspectreconsole
 pxedistributionpoint
 pyenv
 pygmentize
@@ -9515,6 +9517,7 @@ reonboarding
 repair
 repair-msauth
 reparse
+reparsepoint
 repeat
 repl
 replace
@@ -9658,9 +9661,11 @@ round
 roundrobindatabase
 route
 route53
+routeconfig
 router
 routeros
 routes
+routetable
 routine
 rover
 royalapps
@@ -9734,7 +9739,6 @@ saltstack
 saltstackconfig
 saltstackenterprise
 sam
-samanage
 saml
 saml psmodule
 saml2
@@ -9836,7 +9840,6 @@ screenshot
 script
 script_version
 script-module
-script-signing
 script-to-assembly
 script-to-executable
 scriptanalyzer
@@ -9856,7 +9859,6 @@ scriptmodule
 scriptoform
 scriptrunner
 scripts
-scriptsigning
 scriptsmonitoring
 scrolllock
 scrub
@@ -10572,6 +10574,7 @@ sub-menu
 subatomix
 subdirectory
 subject
+subjectname
 sublimetext
 submission
 subnet
@@ -10634,7 +10637,6 @@ swimlane
 swimmingpool
 swis
 switch
-swsd
 sxs
 sybase
 sybaseiq
@@ -10783,7 +10785,6 @@ techlog
 technicalanalysis
 technology
 techsmith
-tel
 telegram
 telegram-bot
 telegram-bot-api
@@ -10806,6 +10807,7 @@ tenable
 tenable.sc
 tenant
 tenantmanagement
+tenantmanagercontrolplane
 teradata
 termbin
 terminal
@@ -10912,13 +10914,13 @@ threatintelligence
 threatintelligenceindicators
 threatintelligenceplatform
 threatprotection
+threats
 threatsharing
 thumbprint
 thunderbird
 thycotic
 tibber
 tic-tac-toe
-tickets
 tickle
 ticks
 tictactoe
@@ -10969,6 +10971,7 @@ tonoref
 tookit
 tool
 toolbox
+toolcraft
 toolkit
 toolmaking
 tools
@@ -11013,6 +11016,7 @@ transact
 transaction
 transactions
 transcode
+transcribe
 transcript
 transcripts
 transform
@@ -11185,6 +11189,7 @@ udfeedback
 udp
 udpclient
 udptest
+udr
 udthememode
 udword
 uefi
@@ -11428,6 +11433,7 @@ vimode
 virole
 virsh
 virtual
+virtualappliance
 virtualbox
 virtualboxguestadditions
 virtualdesktop
@@ -11752,6 +11758,7 @@ windows-powershell
 windows-registry
 windows-remoting
 windows-server-2016
+windows-switcher
 windows-terminal
 windows-user-folder
 windows-user-profile
@@ -12013,6 +12020,7 @@ ynab
 yokohama
 youtube
 youtube-dl
+youtube-transcript
 youtubeextractor
 yq
 yts
@@ -12024,7 +12032,6 @@ zabbix
 zabbix7
 zabbixps
 zap
-zap-zsh
 zcat
 zendesk
 zerofailed
