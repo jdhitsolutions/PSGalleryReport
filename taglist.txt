@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Thursday, 06 November 2025 09:52:35 UTC
+Updated: Thursday, 06 November 2025 21:52:09 UTC
 
 .bat
 .env
@@ -74,6 +74,7 @@ aadc
 aadconnect
 aadgraph
 aadsecurity
+aadsts
 aam
 aas
 aatp
@@ -99,7 +100,6 @@ accessrights
 accesstoken
 accord
 accord.net
-accordian
 account
 account-management
 accounting
@@ -202,7 +202,6 @@ adfsendpoint
 adfstoolkit
 adfstools
 adgroupmemberobjects
-adgroupmembers
 adgroups
 adidns
 adif
@@ -709,6 +708,7 @@ avatax
 avd
 ave
 avepoint
+avi
 avm
 avmtools
 avro
@@ -994,7 +994,6 @@ biztalk
 biztalkalm
 biztalkdeploymentframework
 bks
-black
 blackbaud
 blackberry
 blackberryuem
@@ -1053,6 +1052,7 @@ borg
 bot
 bots
 botservice
+bouncer
 boundaries
 boundarygroups
 bounty
@@ -1169,6 +1169,7 @@ camtasia
 canarie
 canary
 cancel
+cancellation
 candlestick
 canonical
 cantara
@@ -1206,7 +1207,6 @@ catimage
 cats
 catty
 cavium
-cb
 cblueshell
 cbr
 cbs
@@ -1880,6 +1880,7 @@ ctap
 ctf
 ctglobal
 ctl
+ctrl+c
 ctx
 ctype
 cu
@@ -2170,7 +2171,6 @@ dev-tools
 devart
 devcenter
 devdeer
-devdirmanager
 devdrive
 developer
 developer_command_prompt
@@ -2696,6 +2696,7 @@ erb
 erp
 error
 error-log
+errorcode
 errorfile
 errorhandling
 errors
@@ -3342,8 +3343,6 @@ gitlab-runner
 gitlab4
 gitlabpipeline
 gitops
-gitrepo
-gitrepository
 glass
 glimps
 glob
@@ -4388,6 +4387,7 @@ lint
 linting
 linux
 linux-command
+linux-style
 linuxssh
 liquid
 liquit
@@ -4434,7 +4434,6 @@ localgroup
 localgroupmember
 localization
 localpolicy
-localrepo
 localrepository
 localuser
 location
@@ -5186,6 +5185,7 @@ newsletter
 newspaper
 newtonsoft
 newtonsoft.json
+nexacore
 nexenta
 nexentastor
 nextcloud
@@ -5671,7 +5671,6 @@ patching
 patchmypc
 patchtuesday
 path
-pathfinder
 pathmanagement
 patternmatching
 paulo
@@ -5962,7 +5961,6 @@ pow
 powdrgit
 power
 power-apps
-power-cbr
 power-platform
 power-shell
 powerapps
@@ -6007,6 +6005,8 @@ powershell-dsc
 powershell-examples
 powershell-gallery
 powershell-github-repo
+powershell-gitlab
+powershell-graphql
 powershell-isprime
 powershell-lightning
 powershell-module
@@ -6206,7 +6206,6 @@ ps6
 ps7
 psa
 psadbscreencap
-psadgroupmembers
 psadt
 psake
 psappdeploytoolkit
@@ -8029,6 +8028,8 @@ psdshook
 pse
 psedition_5
 psedition_5.1
+psedition_7.3
+psedition_7.4
 psedition_core
 psedition_desk
 psedition_desktop
@@ -9358,7 +9359,6 @@ rdcman
 rdcmanager
 rdfe
 rdg
-rdl
 rdm
 rdp
 rdpsession
@@ -10250,7 +10250,6 @@ snmpv3
 snmpwalk
 snowflake
 snsmssqlpsmodule
-snspsadgroupmembers
 snspsscriptsmonitoring
 snssqlitepsmodule
 sntp
@@ -11026,7 +11025,6 @@ transact
 transaction
 transactions
 transcode
-transcribe
 transcript
 transcripts
 transform
@@ -11066,7 +11064,6 @@ triggers
 trilium
 triliumnext
 triodos
-tripunkt
 troubleshoot
 troubleshooting
 trouw
@@ -11273,7 +11270,6 @@ updatemgmt
 updater
 updates
 updateservices
-updmanagement
 updmgmt
 upgrade
 uplift
@@ -12030,7 +12026,6 @@ ynab
 yokohama
 youtube
 youtube-dl
-youtube-transcript
 youtubeextractor
 yq
 yts

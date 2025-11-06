@@ -3,6 +3,144 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [MvRAdaptiveCards](https://www.powershellgallery.com/Packages/MvRAdaptiveCards/0.9.1) | 0.9.1
+
+### Published: 11/06/2025 21:39:39 by Michael van Rooijen
+
+This module provides functions for working with Adaptive Cards in PowerShell in a similar fashion as the popular module PSWriteHTML does for HTML generation. Please read the documentation on GitHub for more information. (https://github.com/Michael19842/PowerShell.MvRAdaptiveCards.Module)
+
+__Downloads__: 143 | __Repository__: https://github.com/Michael19842/PowerShell.MvRAdaptiveCards.Module
+
+## [ABMPS](https://www.powershellgallery.com/Packages/ABMPS/1.4) | 1.4
+
+### Published: 11/06/2025 18:28:33 by Liam Steckler
+
+Authenticates and gets data from the Apple Business Manager APIs
+
+__Downloads__: 102 | __Repository__: https://scm.gruezi.net/buckbanzai/ABMPS
+
+## [OSD](https://www.powershellgallery.com/Packages/OSD/25.11.6.3) | 25.11.6.3
+
+### Published: 11/06/2025 17:09:35 by David Segura . Gary Blok . Michael Escamilla
+
+OSD PowerShell Module for Windows Deployment
+
+__Downloads__: 5,460,962 | __Repository__: https://github.com/OSDeploy/OSD
+
+## [PSCommercetools.Provider](https://www.powershellgallery.com/Packages/PSCommercetools.Provider/0.0.3) | 0.0.3
+
+### Published: 11/06/2025 16:38:11 by Randal van Splunteren
+
+PowerShell provider for Commercetools
+
+__Downloads__: 10 | __Repository__: https://github.com/randalvs/PSCommercetools
+
+## [Meraki-API-V1](https://www.powershellgallery.com/Packages/Meraki-API-V1/1.1.9) | 1.1.9
+
+### Published: 11/06/2025 15:30:13 by Cliff Williams
+
+Powershell module to use with the Meraki API to manage your Meraki Organization. 
+This module now supports storing API keys in a secure Secret store. 
+The majority of the write functions have been enabled! 
+Warning: You can do a lot of damage to your network if you are not careful! There is no undo!
+The authors of this module nor Cisco are responsible for any damage done. YOU HAVE BEEN WARNED
+This module is a work in progress, test everything before committing changes to your network.
+Added more concise error handling.
+
+__Downloads__: 4,937 | __Repository__: https://github.com/Clifra-Jones/Meraki-API-V1
+
+## [CablersPowershellServers](https://www.powershellgallery.com/Packages/CablersPowershellServers/1.0.2) | 1.0.2
+
+### Published: 11/06/2025 14:33:29 by Brad Bullock
+
+Cablers Powershell module for server administration tasks including Active Directory management, file system operations, and Hyper-V management
+
+__Downloads__: 0 | __Repository__: https://github.com/bradleybullock/CablersPowershell-Servers
+
+## [RelaxedIT.3rdParty](https://www.powershellgallery.com/Packages/RelaxedIT.3rdParty/0.0.85) | 0.0.85
+
+### Published: 11/06/2025 14:32:37 by Josef Lahmer
+
+relaxed IT 3rdParty
+
+__Downloads__: 558 | __Repository__: 
+
+## [RelaxedIT.AzLog](https://www.powershellgallery.com/Packages/RelaxedIT.AzLog/0.0.85) | 0.0.85
+
+### Published: 11/06/2025 14:32:31 by Josef Lahmer
+
+relaxed IT AzLog
+
+__Downloads__: 719 | __Repository__: 
+
+## [RelaxedIT.Tools](https://www.powershellgallery.com/Packages/RelaxedIT.Tools/0.0.85) | 0.0.85
+
+### Published: 11/06/2025 14:32:24 by Josef Lahmer
+
+relaxed IT Tools
+
+__Downloads__: 756 | __Repository__: 
+
+## [RelaxedIT.EnergySaver](https://www.powershellgallery.com/Packages/RelaxedIT.EnergySaver/0.0.85) | 0.0.85
+
+### Published: 11/06/2025 14:32:17 by Josef Lahmer
+
+relaxed IT EnergySaver
+
+__Downloads__: 954 | __Repository__: https://github.com/josy1024/RelaxedIT
+
+## [RelaxedIT.Update](https://www.powershellgallery.com/Packages/RelaxedIT.Update/0.0.85) | 0.0.85
+
+### Published: 11/06/2025 14:32:09 by Josef Lahmer
+
+relaxed IT Update
+
+__Downloads__: 954 | __Repository__: https://github.com/josy1024/RelaxedIT
+
+## [RelaxedIT](https://www.powershellgallery.com/Packages/RelaxedIT/0.0.85) | 0.0.85
+
+### Published: 11/06/2025 14:32:01 by Josef Lahmer
+
+relaxed IT client management scripts
+
+__Downloads__: 1,605 | __Repository__: https://github.com/josy1024/RelaxedIT
+
+## [WindmillClient](https://www.powershellgallery.com/Packages/WindmillClient/1.573.3) | 1.573.3
+
+### Published: 11/06/2025 13:59:08 by Windmill Labs
+
+Client for the Windmill platform.
+
+__Downloads__: 11,300 | __Repository__: https://github.com/windmill-labs/windmill/tree/main/powershell-client
+
+## [ImportDependency](https://www.powershellgallery.com/Packages/ImportDependency/0.3.12) | 0.3.12
+
+### Published: 11/06/2025 13:41:20 by florian.von.bracht@apteco.de
+
+Apteco PS Modules - PowerShell import dependencies
+
+Module to import dependencies from the PowerShell Gallery and NuGet.
+
+Please make sure to have the Modules WriteLog and PowerShellGet (>= 2.2.4) installed.
+
+__Downloads__: 136 | __Repository__: https://github.com/Apteco/AptecoPSModules/tree/main/ImportDependency
+
+## [CablersPowershellCore](https://www.powershellgallery.com/Packages/CablersPowershellCore/2.0.1) | 2.0.1
+
+### Published: 11/06/2025 11:47:12 by Brad Bullock
+
+Cablers Powershell base module for all devices
+
+__Downloads__: 0 | __Repository__: https://github.com/srsbod/CablersPowershellCore
+
+## [Fortytwo.CheckID.PasswordAgent](https://www.powershellgallery.com/Packages/Fortytwo.CheckID.PasswordAgent/1.1.3) | 1.1.3
+
+### Published: 11/06/2025 11:04:13 by Marius Solbakken Mellum
+
+A module for completing password reset requests from the CheckID service into Active Directory
+
+__Downloads__: 119 | __Repository__: 
+
 ## [Cityline.Graph](https://www.powershellgallery.com/Packages/Cityline.Graph/0.0.10) | 0.0.10
 
 ### Published: 11/06/2025 09:47:55 by Vaclav Spaninger
@@ -75,7 +213,7 @@ PERFECT FOR
 ✓ DevOps automation
 ✓ Learning ANSI art and terminal graphics
 
-__Downloads__: 173 | __Repository__: https://github.com/Nick2bad4u/ps-color-scripts-enhanced
+__Downloads__: 172 | __Repository__: https://github.com/Nick2bad4u/ps-color-scripts-enhanced
 
 ## [CmdFav](https://www.powershellgallery.com/Packages/CmdFav/3.1.1) | 3.1.1
 
@@ -92,14 +230,6 @@ __Downloads__: 481 | __Repository__: https://github.com/Callidus2000/CmdFav/
 The test module to verify publishing to PSGallery from AppVeyor.
 
 __Downloads__: 43,605 | __Repository__: 
-
-## [OSD](https://www.powershellgallery.com/Packages/OSD/25.11.6.1) | 25.11.6.1
-
-### Published: 11/06/2025 05:09:47 by David Segura . Gary Blok . Michael Escamilla
-
-OSD PowerShell Module for Windows Deployment
-
-__Downloads__: 5,460,932 | __Repository__: https://github.com/OSDeploy/OSD
 
 ## [quickpath](https://www.powershellgallery.com/Packages/quickpath/0.17.0) | 0.17.0
 
@@ -126,14 +256,6 @@ __Downloads__: 578 | __Repository__:
 This module extends the functionality of the BusinessCentralApi module with additional features for third-party apps and integrations.
 
 __Downloads__: 35 | __Repository__: https://github.com/donmorgan-net/BusinessCentralApiExtras
-
-## [MvRAdaptiveCards](https://www.powershellgallery.com/Packages/MvRAdaptiveCards/0.9.0) | 0.9.0
-
-### Published: 11/05/2025 21:56:53 by Michael van Rooijen
-
-This module provides functions for working with Adaptive Cards in PowerShell in a similar fashion as the popular module PSWriteHTML does for HTML generation. Please read the documentation on GitHub for more information. (https://github.com/Michael19842/PowerShell.MvRAdaptiveCards.Module)
-
-__Downloads__: 143 | __Repository__: https://github.com/Michael19842/PowerShell.MvRAdaptiveCards.Module
 
 ## [DatabricksPS](https://www.powershellgallery.com/Packages/DatabricksPS/1.14.0.0) | 1.14.0.0
 
@@ -183,14 +305,6 @@ Advanced batch operations for Windows Package Manager (winget). Features: intera
 
 __Downloads__: 5 | __Repository__: https://github.com/thebubbsy/WingetBatch
 
-## [WindmillClient](https://www.powershellgallery.com/Packages/WindmillClient/1.573.1) | 1.573.1
-
-### Published: 11/05/2025 14:57:12 by Windmill Labs
-
-Client for the Windmill platform.
-
-__Downloads__: 11,300 | __Repository__: https://github.com/windmill-labs/windmill/tree/main/powershell-client
-
 ## [PSCompletions](https://www.powershellgallery.com/Packages/PSCompletions/5.10.1) | 5.10.1
 
 ### Published: 11/05/2025 13:26:05 by abgox
@@ -202,7 +316,7 @@ A completion manager for better and simpler use completions in PowerShell.
   - Github:  https://github.com/abgox/PSCompletions
   - Gitee:   https://gitee.com/abgox/PSCompletions
 
-__Downloads__: 84,297 | __Repository__: https://pscompletions.abgox.com/
+__Downloads__: 84,298 | __Repository__: https://pscompletions.abgox.com/
 
 ## [spec.output](https://www.powershellgallery.com/Packages/spec.output/1.0.0) | 1.0.0
 
@@ -218,15 +332,7 @@ __Downloads__: 13 | __Repository__:
 
 A module for simplifying the process of getting an access token from Entra ID
 
-__Downloads__: 14,681 | __Repository__: https://github.com/fortytwoservices/powershell-module-entraidaccesstoken
-
-## [PSCommercetools.Provider](https://www.powershellgallery.com/Packages/PSCommercetools.Provider/0.0.2) | 0.0.2
-
-### Published: 11/05/2025 09:47:47 by Randal van Splunteren
-
-PowerShell provider for Commercetools
-
-__Downloads__: 10 | __Repository__: https://github.com/randalvs/PSCommercetools
+__Downloads__: 14,695 | __Repository__: https://github.com/fortytwoservices/powershell-module-entraidaccesstoken
 
 ## [PSMaintenance](https://www.powershellgallery.com/Packages/PSMaintenance/0.2.0) | 0.2.0
 
@@ -469,7 +575,7 @@ __Downloads__: 9,173 | __Repository__: https://github.com/oracle/oci-powershell-
 
 This modules provides Cmdlets for OCI Vault Service
 
-__Downloads__: 13,462 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+__Downloads__: 13,465 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
 ## [OCI.PSModules.Usageapi](https://www.powershellgallery.com/Packages/OCI.PSModules.Usageapi/119.0.0) | 119.0.0
 
@@ -477,7 +583,7 @@ __Downloads__: 13,462 | __Repository__: https://github.com/oracle/oci-powershell
 
 This modules provides Cmdlets for OCI Usageapi Service
 
-__Downloads__: 15,049 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+__Downloads__: 15,057 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
 ## [OCI.PSModules.Usage](https://www.powershellgallery.com/Packages/OCI.PSModules.Usage/119.0.0) | 119.0.0
 
@@ -549,7 +655,7 @@ __Downloads__: 2,411 | __Repository__: https://github.com/oracle/oci-powershell-
 
 This modules provides Cmdlets for OCI Secrets Service
 
-__Downloads__: 13,652 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+__Downloads__: 13,655 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
 ## [OCI.PSModules.Sch](https://www.powershellgallery.com/Packages/OCI.PSModules.Sch/119.0.0) | 119.0.0
 
@@ -1917,7 +2023,7 @@ __Downloads__: 21,583 | __Repository__:
 
 PSSailpoint.V2025 - the PowerShell module for Identity Security Cloud V2025 API
 
-__Downloads__: 1,881 | __Repository__: 
+__Downloads__: 1,882 | __Repository__: 
 
 ## [PSSailpoint.V2024](https://www.powershellgallery.com/Packages/PSSailpoint.V2024/1.6.7) | 1.6.7
 
@@ -2020,100 +2126,4 @@ Functions for Simple WindowsVault Management
 
 __Downloads__: 5 | __Repository__: 
 
-## [HtmlToMarkdown](https://www.powershellgallery.com/Packages/HtmlToMarkdown/1.1.5) | 1.1.5
-
-### Published: 11/03/2025 03:47:39 by Brian Lalonde
-
-Converts HTML to Markdown/CommonMark.
-
-__Downloads__: 17,742 | __Repository__: https://github.com/brianary/HtmlToMarkdown/
-
-## [aitools](https://www.powershellgallery.com/Packages/aitools/1.0.4) | 1.0.4
-
-### Published: 11/03/2025 02:01:05 by Chrissy LeMaire
-
-PowerShell wrapper for AI coding assistants. Batch process files using Claude Code, Aider, Gemini CLI, GitHub Copilot CLI, and Codex CLI with unified commands and pipeline support.
-
-__Downloads__: 300 | __Repository__: https://github.com/potatoqualitee/aitools
-
-## [PSFzf](https://www.powershellgallery.com/Packages/PSFzf/2.7.3) | 2.7.3
-
-### Published: 11/03/2025 01:35:14 by Michael Kelley
-
-A thin wrapper around Fzf (https://github.com/junegunn/fzf).  If PSReadline is loaded, this wrapper registers Fzf with the keyboard chord Ctrl+t.
-
-__Downloads__: 857,857 | __Repository__: 
-
-## [K.PSGallery.Smartagr](https://www.powershellgallery.com/Packages/K.PSGallery.Smartagr/0.1.40) | 0.1.40
-
-### Published: 11/02/2025 22:22:51 by 1d70f
-
-Smart Git Tag Management with Semantic Versioning Intelligence. Automatically creates and manages Git tags with sophisticated version progression logic, smart tag intelligence, and moving tag management.
-
-__Downloads__: 25 | __Repository__: https://github.com/GrexyLoco/K.PSGallery.Smartagr
-
-## [FreeMobile](https://www.powershellgallery.com/Packages/FreeMobile/1.0.0) | 1.0.0
-
-### Published: 11/02/2025 21:35:18 by Cédric Belin <cedx@outlook.com>
-
-Send SMS messages to your Free Mobile device.
-
-__Downloads__: 4 | __Repository__: https://github.com/cedx/free-mobile.ps1
-
-## [PSPromptly](https://www.powershellgallery.com/Packages/PSPromptly/0.1.2) | 0.1.2
-
-### Published: 11/02/2025 21:21:34 by Marcos Santos
-
-Library for creating navigation menus for command-line applications
-
-__Downloads__: 18 | __Repository__: https://github.com/krzgvfs/promptly_pwsh
-
-## [IntuneLens](https://www.powershellgallery.com/Packages/IntuneLens/1.0.2) | 1.0.2
-
-### Published: 11/02/2025 17:33:55 by Alex Nuryiev
-
-IntuneLens is a PowerShell module that automates Microsoft Intune health assessment and generates report to help IT administrators monitor and optimize Intune environments.
-
-__Downloads__: 53 | __Repository__: https://github.com/lex-n/IntuneLens
-
-## [EmojiTools](https://www.powershellgallery.com/Packages/EmojiTools/1.16.0) | 1.16.0
-
-### Published: 11/02/2025 17:16:07 by Jeremy Brown
-
-EmojiTools provides powerful emoji search and management capabilities with local dataset caching, fuzzy search, and safe command dispatching.
-
-__Downloads__: 17 | __Repository__: https://github.com/browniellc/EmojiTools
-
-## [PSWriteColorEX](https://www.powershellgallery.com/Packages/PSWriteColorEX/1.0.0) | 1.0.0
-
-### Published: 11/02/2025 11:25:52 by MarkusMcNugen
-
-Advanced PowerShell module for colored console output with comprehensive ANSI support including TrueColor (24-bit RGB), style profiles, cross-platform compatibility, and extensive logging capabilities.
-
-__Downloads__: 6 | __Repository__: https://github.com/MarkusMcNugen/PSWriteColorEX
-
-## [qbo4.Infrastructure](https://www.powershellgallery.com/Packages/qbo4.Infrastructure/1.0.21.55) | 1.0.21.55
-
-### Published: 11/02/2025 06:19:04 by Quandis Inc.
-
-Quandis Infrastructure Management, including publishing of qbo databases and websites.
-
-__Downloads__: 1,678 | __Repository__: https://dev.azure.com/quandis/qbo4/_git/qbo4.Infrastructure
-
-## [pocof](https://www.powershellgallery.com/Packages/pocof/0.21.0) | 0.21.0
-
-### Published: 11/02/2025 00:57:30 by Takatoshi Kuriyama
-
-An interactive pipeline filtering Cmdlet for PowerShell written in F#. A fork of poco which is a PowerShell port of peco.
-
-__Downloads__: 681 | __Repository__: https://github.com/krymtkts/pocof/
-
-## [Cli](https://www.powershellgallery.com/Packages/Cli/3.0.0) | 3.0.0
-
-### Published: 11/01/2025 19:57:56 by Cédric Belin <cedx@outlook.com>
-
-Command line interface of Cédric Belin, full stack developer.
-
-__Downloads__: 7 | __Repository__: https://github.com/cedx/cli
-
-*Updated: Thursday, 06 November 2025 09:52:26 UTC*
+*Updated: Thursday, 06 November 2025 21:51:59 UTC*
