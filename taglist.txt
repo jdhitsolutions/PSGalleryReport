@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Wednesday, 05 November 2025 21:52:17 UTC
+Updated: Thursday, 06 November 2025 09:52:35 UTC
 
 .bat
 .env
@@ -74,7 +74,6 @@ aadc
 aadconnect
 aadgraph
 aadsecurity
-aadsts
 aam
 aas
 aatp
@@ -277,6 +276,7 @@ agm
 agnoster
 ahk
 ai
+ai-development
 ai-server
 ai21
 ai21labs
@@ -620,6 +620,7 @@ attestation
 attila
 attribute
 attributes
+attribution
 au
 audio
 audiocodes
@@ -708,7 +709,6 @@ avatax
 avd
 ave
 avepoint
-avi
 avm
 avmtools
 avro
@@ -1053,7 +1053,6 @@ borg
 bot
 bots
 botservice
-bouncer
 boundaries
 boundarygroups
 bounty
@@ -1170,7 +1169,6 @@ camtasia
 canarie
 canary
 cancel
-cancellation
 candlestick
 canonical
 cantara
@@ -1578,6 +1576,7 @@ comments
 commerce
 commfort
 commit
+commit-analysis
 commits
 common
 common-data-service
@@ -1881,7 +1880,6 @@ ctap
 ctf
 ctglobal
 ctl
-ctrl+c
 ctx
 ctype
 cu
@@ -2111,6 +2109,7 @@ defender
 defender-atp
 defender-for-endpoint
 defenderasr
+defenderast
 defenderforendpoint
 defenderforidentity
 defenderforservers
@@ -2591,6 +2590,7 @@ elk
 elm
 elmah-io
 elonmusk
+eloomi
 eloqua
 elvish
 elvui
@@ -2696,7 +2696,6 @@ erb
 erp
 error
 error-log
-errorcode
 errorfile
 errorhandling
 errors
@@ -2853,6 +2852,7 @@ extendedkeyusage
 extendedproperties
 extendedproperty
 extendscript
+extensibility
 extension
 extensionmethods
 extensionrisk
@@ -3047,6 +3047,7 @@ flag
 flags
 flash
 flasharray
+flatfile
 flatten
 flaui
 flavor
@@ -3845,6 +3846,7 @@ incident
 incident_response
 incident-response
 incidentresponse
+incidents
 incontact
 indents
 index
@@ -4175,6 +4177,7 @@ keepasslib
 keepawake
 keeper
 kelverion
+kelvin
 kentico
 kerb
 kerberos
@@ -4385,7 +4388,6 @@ lint
 linting
 linux
 linux-command
-linux-style
 linuxssh
 liquid
 liquit
@@ -4559,6 +4561,7 @@ machinelearningmodels
 machinelearningservices
 macmon
 macos
+macos-powershell
 macosx
 macro
 macros
@@ -4661,6 +4664,7 @@ materialui
 mateso
 math
 mathematics
+mathml
 matplotlib
 matrix
 maven
@@ -4828,6 +4832,7 @@ mim
 mime
 mimekit
 min
+mindmeister
 minecraft
 miniconda
 minifier
@@ -4859,6 +4864,7 @@ ml.net
 mlflow
 mlmodels
 mltools
+mmdc
 mngdmac
 mobile
 mobilenetwork
@@ -5180,7 +5186,6 @@ newsletter
 newspaper
 newtonsoft
 newtonsoft.json
-nexacore
 nexenta
 nexentastor
 nextcloud
@@ -5486,6 +5491,7 @@ oracle
 oraclecloudinfrastructure
 oraculum
 orbital
+orchestrate
 orchestration
 orchestrator
 order
@@ -5589,6 +5595,7 @@ pager
 pagerduty
 pages
 pagination
+paging
 palo
 paloalto
 paloaltonetworks
@@ -6000,8 +6007,6 @@ powershell-dsc
 powershell-examples
 powershell-gallery
 powershell-github-repo
-powershell-gitlab
-powershell-graphql
 powershell-isprime
 powershell-lightning
 powershell-module
@@ -6101,6 +6106,7 @@ private-key
 privatedns
 privatekey
 privatemethods
+privateprofilestring
 privilege
 privilegecloud
 privileged
@@ -8023,8 +8029,6 @@ psdshook
 pse
 psedition_5
 psedition_5.1
-psedition_7.3
-psedition_7.4
 psedition_core
 psedition_desk
 psedition_desktop
@@ -9739,6 +9743,7 @@ saltstack
 saltstackconfig
 saltstackenterprise
 sam
+samanage
 saml
 saml psmodule
 saml2
@@ -9840,6 +9845,7 @@ screenshot
 script
 script_version
 script-module
+script-signing
 script-to-assembly
 script-to-executable
 scriptanalyzer
@@ -9859,6 +9865,7 @@ scriptmodule
 scriptoform
 scriptrunner
 scripts
+scriptsigning
 scriptsmonitoring
 scrolllock
 scrub
@@ -10637,6 +10644,7 @@ swimlane
 swimmingpool
 swis
 switch
+swsd
 sxs
 sybase
 sybaseiq
@@ -10785,6 +10793,7 @@ techlog
 technicalanalysis
 technology
 techsmith
+tel
 telegram
 telegram-bot
 telegram-bot-api
@@ -10921,6 +10930,7 @@ thunderbird
 thycotic
 tibber
 tic-tac-toe
+tickets
 tickle
 ticks
 tictactoe
@@ -12032,6 +12042,7 @@ zabbix
 zabbix7
 zabbixps
 zap
+zap-zsh
 zcat
 zendesk
 zerofailed
