@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Saturday, 08 November 2025 09:52:25 UTC
+Updated: Saturday, 08 November 2025 21:52:19 UTC
 
 .bat
 .env
@@ -367,6 +367,7 @@ amp
 amqp
 amsi
 amt
+amxmodx
 anaconda
 analysis
 analysisservices
@@ -403,7 +404,6 @@ ansible-playbook
 ansible-vault
 ansiblecontrolnode
 ansiblectl
-ansibletower
 anthropic
 anti-idle
 anti-malware
@@ -731,7 +731,6 @@ aws.tools.powershell
 awsbedrock
 awscli
 awspricelist
-awx
 axapta
 axcient
 axcient_x360recover
@@ -1032,6 +1031,7 @@ bluetraitio
 bluetuxedo
 bmc
 bms
+bnm
 boards
 bofh
 boilerplate
@@ -1164,6 +1164,7 @@ callqueue
 calvin-and-hobbes
 cam
 camera
+cameras
 campaign
 camtasia
 canarie
@@ -1187,7 +1188,6 @@ carbon
 carbonawarecomputing
 carbonintensity
 card
-cards
 cardwirth
 careport
 cares
@@ -1262,7 +1262,6 @@ certificates
 certificateservices
 certificatesmanagement
 certinia
-certutil
 cf
 cfn
 cgm
@@ -1500,6 +1499,7 @@ codeagent
 codeanalysis
 codebeamer
 codebuild
+codebundler
 codecommit
 codecomplexity
 codecov
@@ -1623,6 +1623,7 @@ computers
 computersite
 computeschedule
 comulativeupdate
+concatenate
 concur
 concurrency
 concurrent
@@ -2195,6 +2196,7 @@ devops psmodule
 devsecninja
 devsecops
 devtestlabs
+devtools
 dexcom
 dfch
 dfir
@@ -2353,7 +2355,6 @@ dockerize
 dockerswarm
 docking
 docs
-docset
 document
 documentation
 documentdb
@@ -2955,7 +2956,6 @@ file-transform
 file-type
 file-type-association
 fileattributes
-fileencryption
 fileexplorer
 filelist
 filelog
@@ -3197,6 +3197,7 @@ game
 game-of-life
 gamecategory:cards
 games
+gameserver
 gaming
 garage
 gas
@@ -3992,6 +3993,7 @@ iothub
 iothubproperties
 iotoperationsservice
 ip
+ip_cameras
 ip-address
 ip-scanner
 ipa
@@ -4160,6 +4162,7 @@ karabiner-elements
 karma
 kaseya
 kaseyavsa
+kaspersky
 katakana
 kb
 kb4
@@ -4188,7 +4191,6 @@ keybase
 keybinding
 keyboard
 keyboardstartkey
-keycipher
 keycloak
 keycontrol
 keylight
@@ -4682,6 +4684,7 @@ mccs
 mcd
 mchapv2
 mcp
+mct
 md5
 md5_v2-be7e35259c59f9e307f1d096365615c0
 mdatp
@@ -4894,6 +4897,7 @@ moduleupdateinfo
 moduleupdater
 moduleversion
 mof
+moldova
 moment
 monaco
 monday
@@ -4985,9 +4989,6 @@ msproject
 msrc
 msrdc
 mssql
-mssqlbynarymodule
-mssqlbynarypsmodule
-mssqlmodule
 mssqlplugins
 mssqlserver
 msteams
@@ -5035,8 +5036,6 @@ mva
 mvc
 mvn
 mvp
-mvr
-mvradaptivecards
 mwsqlserver
 mx
 mxlookup
@@ -5362,6 +5361,7 @@ officedev
 officegraph
 officemessageencryption
 officeopenxml
+officertool
 offline
 offlinewimservicing
 ofx
@@ -5594,7 +5594,6 @@ pages
 pagination
 paging
 palo
-paloalto
 paloaltonetworks
 pam
 pan
@@ -5648,7 +5647,6 @@ passwordexpiry
 passwordgeneration
 passwordgenerator
 passwordgenerators
-passwordhashing
 passwordless
 passwordlock
 passwordlockoutreport
@@ -5914,7 +5912,6 @@ poshy-wrap-brew
 poshy-wrap-curl
 poshy-wrap-dnf
 poshy-wrap-docker
-poshy-wrap-docker-compose
 poshy-wrap-dotnet
 poshy-wrap-forgit
 poshy-wrap-gem
@@ -6312,31 +6309,9 @@ pscommand_convertto-rgb
 pscommand_d
 pscommand_d64
 pscommand_dbl
-pscommand_dcb
-pscommand_dcdn
-pscommand_dce
 pscommand_dcin
-pscommand_dck
-pscommand_dcl
-pscommand_dclf
 pscommand_dcls
 pscommand_dclsa
-pscommand_dco
-pscommand_dcofresh
-pscommand_dcol
-pscommand_dcou
-pscommand_dcouns
-pscommand_dcps
-pscommand_dcpull
-pscommand_dcr
-pscommand_dcrestart
-pscommand_dcrm
-pscommand_dcstart
-pscommand_dcstop
-pscommand_dcup
-pscommand_dcupb
-pscommand_dcupbd
-pscommand_dcupd
 pscommand_decode64
 pscommand_decodefile64
 pscommand_df64
@@ -6395,7 +6370,6 @@ pscommand_dnls
 pscommand_dnrm
 pscommand_docker-archive-content
 pscommand_docker-build
-pscommand_docker-compose-fresh
 pscommand_docker-container-execute
 pscommand_docker-container-execute-interactively
 pscommand_docker-container-inspect
@@ -6956,25 +6930,6 @@ pscommand_invoke-dnfreinstall
 pscommand_invoke-dnfremove
 pscommand_invoke-dnfsearch
 pscommand_invoke-dnfupgrade
-pscommand_invoke-dockercomposebuild
-pscommand_invoke-dockercomposedown
-pscommand_invoke-dockercomposeexec
-pscommand_invoke-dockercomposekill
-pscommand_invoke-dockercomposelogs
-pscommand_invoke-dockercomposelogsfollow
-pscommand_invoke-dockercomposelogsfollowtail
-pscommand_invoke-dockercomposeps
-pscommand_invoke-dockercomposepull
-pscommand_invoke-dockercomposerestart
-pscommand_invoke-dockercomposerm
-pscommand_invoke-dockercomposerun
-pscommand_invoke-dockercomposestart
-pscommand_invoke-dockercomposestop
-pscommand_invoke-dockercomposeup
-pscommand_invoke-dockercomposeupdetached
-pscommand_invoke-dockercomposeupdetachedwithbuild
-pscommand_invoke-dockercomposeupnostart
-pscommand_invoke-dockercomposeupwithbuild
 pscommand_invoke-gemcertadd
 pscommand_invoke-gemcertbuild
 pscommand_invoke-gemcertremove
@@ -8104,7 +8059,6 @@ psfunction_dirname
 psfunction_disable-proxy
 psfunction_docker-archive-content
 psfunction_docker-build
-psfunction_docker-compose-fresh
 psfunction_docker-container-execute
 psfunction_docker-container-execute-interactively
 psfunction_docker-container-inspect
@@ -8372,25 +8326,6 @@ psfunction_invoke-dnfreinstall
 psfunction_invoke-dnfremove
 psfunction_invoke-dnfsearch
 psfunction_invoke-dnfupgrade
-psfunction_invoke-dockercomposebuild
-psfunction_invoke-dockercomposedown
-psfunction_invoke-dockercomposeexec
-psfunction_invoke-dockercomposekill
-psfunction_invoke-dockercomposelogs
-psfunction_invoke-dockercomposelogsfollow
-psfunction_invoke-dockercomposelogsfollowtail
-psfunction_invoke-dockercomposeps
-psfunction_invoke-dockercomposepull
-psfunction_invoke-dockercomposerestart
-psfunction_invoke-dockercomposerm
-psfunction_invoke-dockercomposerun
-psfunction_invoke-dockercomposestart
-psfunction_invoke-dockercomposestop
-psfunction_invoke-dockercomposeup
-psfunction_invoke-dockercomposeupdetached
-psfunction_invoke-dockercomposeupdetachedwithbuild
-psfunction_invoke-dockercomposeupnostart
-psfunction_invoke-dockercomposeupwithbuild
 psfunction_invoke-gemcertadd
 psfunction_invoke-gemcertbuild
 psfunction_invoke-gemcertremove
@@ -9121,9 +9056,6 @@ psmodules
 psmp
 psmsgraph
 psmsgraphapi
-psmssql
-psmssqlbynarymodule
-psmssqlmodule
 psmvp
 psnavigation
 psnexosisclient
@@ -9162,9 +9094,6 @@ psslack
 pssqlite
 pssqlitebynarymodule
 pssqlitemodule
-pssqlserver
-pssqlserverbynarymodule
-pssqlservermodule
 psst
 psstgenerator
 pstablacus
@@ -9850,7 +9779,6 @@ script-signing
 script-to-assembly
 script-to-executable
 scriptanalyzer
-scriptbeacon
 scriptblock
 scriptblocklogging
 scriptbook
@@ -9920,6 +9848,7 @@ securescore
 securesphere
 securestring
 security
+security_cameras
 security-awareness-training
 security-policy
 security-score
@@ -10249,7 +10178,6 @@ snmpset
 snmpv3
 snmpwalk
 snowflake
-snsmssqlpsmodule
 snspsadgroupmembers
 snspsscriptsmonitoring
 snssqlitepsmodule
@@ -10296,7 +10224,6 @@ sophos
 sort
 sort-json
 sorting
-sound
 sounds
 source
 source-dedicated-server
@@ -10304,7 +10231,9 @@ sourcecontrol
 sourceforge
 sourcegraph
 sourceindexing
+sourcemod
 sourceone
+sourcepawn
 sourcequery
 sovcloud
 space
@@ -10408,10 +10337,7 @@ sqlps
 sqlquery
 sqlserver
 sqlserveragent
-sqlserverbynarymodule
-sqlserverbynarypsmodule
 sqlserverclient
-sqlservermodule
 sqlvirtualmachine
 sqlvm
 sqr
@@ -10622,6 +10548,7 @@ suppress
 supress-reboot
 surestacks
 surround
+surveillance
 survey
 surveymonkey
 sus
@@ -10878,6 +10805,7 @@ text-to-speech
 text2image
 textanalysis
 textbuffer
+textfile
 textgeneration
 texting
 texting-emoji
@@ -11092,6 +11020,7 @@ tst3
 tsv
 ttrpg
 tts
+tubedownloader
 tui
 tulpep
 tuner
@@ -11206,6 +11135,7 @@ ui/ux
 ui7
 uk
 ulid
+ultimatetool
 um
 uml
 umn
@@ -11727,7 +11657,6 @@ wif
 wifi
 wiki
 wildcard
-wildfire
 wildfly
 wim
 wim2vhd
@@ -11795,6 +11724,7 @@ windowsinstaller
 windowsinternaldatabase
 windowsinternals
 windowsiotservices
+windowsiso
 windowsmanagement
 windowsmanagementframework
 windowspackagemanager
