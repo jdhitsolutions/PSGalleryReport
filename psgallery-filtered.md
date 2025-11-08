@@ -3,17 +3,17 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
-## [GcePSSession](https://www.powershellgallery.com/Packages/GcePSSession/1.0.9) | 1.0.9
+## [entraYK](https://www.powershellgallery.com/Packages/entraYK/0.9.0) | 0.9.0
 
-### Published: 11/07/2025 21:17:23 by Roger Wood
+### Published: 11/08/2025 08:09:07 by Jonas Markström
 
-PowerShell remoting sessions for Google Cloud Engine (GCE) VM instances using IAP Tunnel. Note: New-GcePSSession requires PowerShell 6.0+ for SSH remoting support.
+PowerShell module for managing YubiKeys as device-bound passkeys (FIDO2) in Microsoft Entra ID
 
-__Downloads__: 8 | __Repository__: https://github.com/rwood/GcePSSession
+__Downloads__: 134 | __Repository__: https://github.com/JMarkstrom/entraYK
 
-## [ColorScripts-Enhanced](https://www.powershellgallery.com/Packages/ColorScripts-Enhanced/2025.11.7.2020) | 2025.11.7.2020
+## [ColorScripts-Enhanced](https://www.powershellgallery.com/Packages/ColorScripts-Enhanced/2025.11.8.529) | 2025.11.8.529
 
-### Published: 11/07/2025 20:24:50 by Nick2bad4u
+### Published: 11/08/2025 05:34:19 by Nick2bad4u
 
 🎨 ColorScripts-Enhanced: Professional ANSI Art Terminal Experience
 
@@ -65,7 +65,55 @@ PERFECT FOR
 ✓ DevOps automation
 ✓ Learning ANSI art and terminal graphics
 
-__Downloads__: 187 | __Repository__: https://github.com/Nick2bad4u/ps-color-scripts-enhanced
+__Downloads__: 186 | __Repository__: https://github.com/Nick2bad4u/ps-color-scripts-enhanced
+
+## [OSD](https://www.powershellgallery.com/Packages/OSD/25.11.8.1) | 25.11.8.1
+
+### Published: 11/08/2025 05:07:52 by David Segura . Gary Blok . Michael Escamilla
+
+OSD PowerShell Module for Windows Deployment
+
+__Downloads__: 5,477,253 | __Repository__: https://github.com/OSDeploy/OSD
+
+## [Icewolf.EXO.SpamAnalyze](https://www.powershellgallery.com/Packages/Icewolf.EXO.SpamAnalyze/2.0.15) | 2.0.15
+
+### Published: 11/08/2025 03:25:22 by Andres Bohren
+
+This is a Powershell Module that simplifies the Message Trace in Exchange Online (EXO).
+
+__Downloads__: 9,911 | __Repository__: https://github.com/BohrenAn/GitHub_PowerShellScripts/tree/main/Icewolf.EXO.SpamAnalyze
+
+## [AsBuiltReport.NetApp.ONTAP](https://www.powershellgallery.com/Packages/AsBuiltReport.NetApp.ONTAP/0.6.11) | 0.6.11
+
+### Published: 11/08/2025 00:48:27 by Jonathan Colon Feliciano
+
+A PowerShell module to generate an as built report on the configuration of NetApp ONTAP.
+
+__Downloads__: 19,063 | __Repository__: https://github.com/AsBuiltReport/AsBuiltReport.NetApp.ONTAP
+
+## [WindmillClient](https://www.powershellgallery.com/Packages/WindmillClient/1.574.0) | 1.574.0
+
+### Published: 11/07/2025 23:29:16 by Windmill Labs
+
+Client for the Windmill platform.
+
+__Downloads__: 11,385 | __Repository__: https://github.com/windmill-labs/windmill/tree/main/powershell-client
+
+## [AzureDataLakeManagement](https://www.powershellgallery.com/Packages/AzureDataLakeManagement/2025.11.3) | 2025.11.3
+
+### Published: 11/07/2025 21:48:27 by Steve Carroll
+
+Azure Data Lake Management Module
+
+__Downloads__: 1,010 | __Repository__: https://github.com/SteveCInVA/AzureDataLakeManagement
+
+## [GcePSSession](https://www.powershellgallery.com/Packages/GcePSSession/1.0.9) | 1.0.9
+
+### Published: 11/07/2025 21:17:23 by Roger Wood
+
+PowerShell remoting sessions for Google Cloud Engine (GCE) VM instances using IAP Tunnel. Note: New-GcePSSession requires PowerShell 6.0+ for SSH remoting support.
+
+__Downloads__: 8 | __Repository__: https://github.com/rwood/GcePSSession
 
 ## [IntegrisDeploymentTool](https://www.powershellgallery.com/Packages/IntegrisDeploymentTool/0.8.43) | 0.8.43
 
@@ -74,14 +122,6 @@ __Downloads__: 187 | __Repository__: https://github.com/Nick2bad4u/ps-color-scri
 Integris Deployment Tool
 
 __Downloads__: 2,548 | __Repository__: 
-
-## [WindmillClient](https://www.powershellgallery.com/Packages/WindmillClient/1.573.5) | 1.573.5
-
-### Published: 11/07/2025 17:56:53 by Windmill Labs
-
-Client for the Windmill platform.
-
-__Downloads__: 11,386 | __Repository__: https://github.com/windmill-labs/windmill/tree/main/powershell-client
 
 ## [SysMan.WebApi](https://www.powershellgallery.com/Packages/SysMan.WebApi/4.2.25311) | 4.2.25311
 
@@ -98,14 +138,6 @@ __Downloads__: 3,140 | __Repository__: https://www.inera.se/eklient
 Module to support calling mstsc.exe to connect to remote desktop sessions.
 
 __Downloads__: 162 | __Repository__: https://github.com/realslacker/Connect-RemoteDesktop
-
-## [OSD](https://www.powershellgallery.com/Packages/OSD/25.11.7.3) | 25.11.7.3
-
-### Published: 11/07/2025 17:11:07 by David Segura . Gary Blok . Michael Escamilla
-
-OSD PowerShell Module for Windows Deployment
-
-__Downloads__: 5,477,091 | __Repository__: https://github.com/OSDeploy/OSD
 
 ## [FoundationaLLM.Core](https://www.powershellgallery.com/Packages/FoundationaLLM.Core/0.0.28) | 0.0.28
 
@@ -130,18 +162,6 @@ __Downloads__: 2,321 | __Repository__:
 API Interface for Action1
 
 __Downloads__: 5,161 | __Repository__: https://github.com/Action1Corp/PSAction1
-
-## [ImportDependency](https://www.powershellgallery.com/Packages/ImportDependency/0.3.14) | 0.3.14
-
-### Published: 11/07/2025 14:15:14 by florian.von.bracht@apteco.de
-
-Apteco PS Modules - PowerShell import dependencies
-
-Module to import dependencies from the PowerShell Gallery and NuGet.
-
-Please make sure to have the Modules WriteLog and PowerShellGet (>= 2.2.4) installed.
-
-__Downloads__: 143 | __Repository__: https://github.com/Apteco/AptecoPSModules/tree/main/ImportDependency
 
 ## [PSBlueSky](https://www.powershellgallery.com/Packages/PSBlueSky/2.8.0) | 2.8.0
 
@@ -189,7 +209,7 @@ __Downloads__: 148 | __Repository__: https://github.com/Michael19842/PowerShell.
 
 PowerShell module to determine the network latency between two Azure regions.
 
-__Downloads__: 35 | __Repository__: https://github.com/autosysops/PowerShell_AzNetworkLatency
+__Downloads__: 38 | __Repository__: https://github.com/autosysops/PowerShell_AzNetworkLatency
 
 ## [UncommonSense.Triodos](https://www.powershellgallery.com/Packages/UncommonSense.Triodos/0.0.7) | 0.0.7
 
@@ -415,7 +435,7 @@ __Downloads__: 39 | __Repository__: https://github.com/donmorgan-net/BusinessCen
 
 A powershell module to interact with the Databricks APIs on Azure, AWS and GCP. Dedicated cmdlets for import/export of whole Databricks workspaces (notebooks, clusters, jobs, ...) for CI/CD pipelines. Full support for pipelining commands.
 
-__Downloads__: 425,275 | __Repository__: https://github.com/gbrueckl/Databricks.API.PowerShell
+__Downloads__: 425,272 | __Repository__: https://github.com/gbrueckl/Databricks.API.PowerShell
 
 ## [UniversalDashboard.Mermaid](https://www.powershellgallery.com/Packages/UniversalDashboard.Mermaid/0.0.1) | 0.0.1
 
@@ -484,7 +504,7 @@ __Downloads__: 21 | __Repository__:
 
 A module for simplifying the process of getting an access token from Entra ID
 
-__Downloads__: 15,946 | __Repository__: https://github.com/fortytwoservices/powershell-module-entraidaccesstoken
+__Downloads__: 15,954 | __Repository__: https://github.com/fortytwoservices/powershell-module-entraidaccesstoken
 
 ## [PSMaintenance](https://www.powershellgallery.com/Packages/PSMaintenance/0.2.0) | 0.2.0
 
@@ -623,14 +643,6 @@ __Downloads__: 16 | __Repository__: https://github.com/adamdriscoll/psplaywright
 A Capgemini toolset for implementing and adopting a full ALM strategy for the Microsoft Power Platform.
 
 __Downloads__: 7,980 | __Repository__: https://dev.azure.com/CapgeminiD365CE
-
-## [AzureDataLakeManagement](https://www.powershellgallery.com/Packages/AzureDataLakeManagement/2025.11.2) | 2025.11.2
-
-### Published: 11/04/2025 21:12:35 by Steve Carroll
-
-Azure Data Lake Management Module
-
-__Downloads__: 1,010 | __Repository__: https://github.com/SteveCInVA/AzureDataLakeManagement
 
 ## [OCI.PSModules](https://www.powershellgallery.com/Packages/OCI.PSModules/119.0.0) | 119.0.0
 
@@ -1615,7 +1627,7 @@ __Downloads__: 12,824 | __Repository__: https://github.com/oracle/oci-powershell
 
 This modules provides Cmdlets for OCI Database Service
 
-__Downloads__: 48,455 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+__Downloads__: 48,454 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
 ## [OCI.PSModules.Dashboardservice](https://www.powershellgallery.com/Packages/OCI.PSModules.Dashboardservice/119.0.0) | 119.0.0
 
@@ -2089,20 +2101,4 @@ Module for installing basic programs: This module provides functions for downloa
 
 __Downloads__: 152,228 | __Repository__: 
 
-## [CA.ApiGenerator](https://www.powershellgallery.com/Packages/CA.ApiGenerator/1.0.3) | 1.0.3
-
-### Published: 11/04/2025 01:40:02 by Ruslan Dubas
-
-Transform your existing database into a production-ready Clean Architecture API in minutes. Generates complete CQRS implementation, REST controllers, validation, error handling, and integration tests from your database schema. One command. Production-ready code. Supports SQL Server, PostgreSQL, and SQLite.
-
-__Downloads__: 25 | __Repository__: https://github.com/RusUsf/CA.ApiGenerator
-
-## [UCLobbyMicrosoft365](https://www.powershellgallery.com/Packages/UCLobbyMicrosoft365/1.0.1) | 1.0.1
-
-### Published: 11/03/2025 23:52:29 by David Paulino
-
-UC Lobby Microsot 365 PowerShell Module
-
-__Downloads__: 25 | __Repository__: https://github.com/uclobby/UCLobbyMicrosoft365
-
-*Updated: Friday, 07 November 2025 21:52:02 UTC*
+*Updated: Saturday, 08 November 2025 09:52:16 UTC*
