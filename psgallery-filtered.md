@@ -3,6 +3,46 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [qbo4.Infrastructure](https://www.powershellgallery.com/Packages/qbo4.Infrastructure/1.0.21.56) | 1.0.21.56
+
+### Published: 11/09/2025 06:17:57 by Quandis Inc.
+
+Quandis Infrastructure Management, including publishing of qbo databases and websites.
+
+__Downloads__: 1,679 | __Repository__: https://dev.azure.com/quandis/qbo4/_git/qbo4.Infrastructure
+
+## [OSD](https://www.powershellgallery.com/Packages/OSD/25.11.9.1) | 25.11.9.1
+
+### Published: 11/09/2025 05:09:11 by David Segura . Gary Blok . Michael Escamilla
+
+OSD PowerShell Module for Windows Deployment
+
+__Downloads__: 5,486,217 | __Repository__: https://github.com/OSDeploy/OSD
+
+## [EmojiTools](https://www.powershellgallery.com/Packages/EmojiTools/1.17.0) | 1.17.0
+
+### Published: 11/09/2025 00:14:50 by Jeremy Brown
+
+EmojiTools provides powerful emoji search and management capabilities with local dataset caching, fuzzy search, and safe command dispatching.
+
+__Downloads__: 18 | __Repository__: https://github.com/tsabo/EmojiTools
+
+## [Dapper](https://www.powershellgallery.com/Packages/Dapper/0.2.0) | 0.2.0
+
+### Published: 11/08/2025 23:03:16 by Cédric Belin <cedx@outlook.com>
+
+A high performance micro-ORM supporting MariaDB, PostgreSQL, SQL Server, SQLite and more.
+
+__Downloads__: 0 | __Repository__: https://github.com/cedx/dapper.ps1
+
+## [Glooko](https://www.powershellgallery.com/Packages/Glooko/1.1.3) | 1.1.3
+
+### Published: 11/08/2025 21:49:57 by iricigor
+
+The Glooko PowerShell module enables tech-savvy users to import, consolidate, and analyze personal diabetes data exported from Glooko, with advanced Excel export and support for PowerShell 7+. Future releases will provide static analysis and CGM statistics, but this tool is intended solely for personal data exploration and is not a replacement for professional medical advice.
+
+__Downloads__: 95 | __Repository__: https://github.com/iricigor/Glooko
+
 ## [powerCat](https://www.powershellgallery.com/Packages/powerCat/1.1.2) | 1.1.2
 
 ### Published: 11/08/2025 20:59:05 by Matthew Poole Chicano
@@ -10,22 +50,6 @@ These are the latest 250 modules published to the [PowerShell Gallery](https://p
 PowerCat is a single-shot concatenator that bundles markdown and code files into one text file. Supports recursion, Markdown formatting, custom extensions, and sorting.
 
 __Downloads__: 25 | __Repository__: https://github.com/TheOnliestMattastic/PowerCat
-
-## [Dapper](https://www.powershellgallery.com/Packages/Dapper/0.1.0) | 0.1.0
-
-### Published: 11/08/2025 18:05:43 by Cédric Belin <cedx@outlook.com>
-
-A high performance micro-ORM supporting MariaDB, PostgreSQL, SQL Server, SQLite and more.
-
-__Downloads__: 2 | __Repository__: https://github.com/cedx/dapper.ps1
-
-## [OSD](https://www.powershellgallery.com/Packages/OSD/25.11.8.3) | 25.11.8.3
-
-### Published: 11/08/2025 17:07:52 by David Segura . Gary Blok . Michael Escamilla
-
-OSD PowerShell Module for Windows Deployment
-
-__Downloads__: 5,486,203 | __Repository__: https://github.com/OSDeploy/OSD
 
 ## [ColorScripts-Enhanced](https://www.powershellgallery.com/Packages/ColorScripts-Enhanced/2025.11.8.1545) | 2025.11.8.1545
 
@@ -89,7 +113,15 @@ __Downloads__: 199 | __Repository__: https://github.com/Nick2bad4u/ps-color-scri
 
 Manage SendGrid using its API with PowerShell functions and wrappers.
 
-__Downloads__: 1,519 | __Repository__: https://github.com/PhilipHaglund/SendGridTools/
+__Downloads__: 1,518 | __Repository__: https://github.com/PhilipHaglund/SendGridTools/
+
+## [MvRAdaptiveCards](https://www.powershellgallery.com/Packages/MvRAdaptiveCards/0.9.3) | 0.9.3
+
+### Published: 11/08/2025 13:42:00 by Michael van Rooijen
+
+This module provides functions for working with Adaptive Cards in PowerShell in a similar fashion as the popular module PSWriteHTML does for HTML generation. Please read the documentation on GitHub for more information. (https://github.com/Michael19842/PowerShell.MvRAdaptiveCards.Module)
+
+__Downloads__: 156 | __Repository__: https://github.com/Michael19842/PowerShell.MvRAdaptiveCards.Module
 
 ## [ConvertBase64](https://www.powershellgallery.com/Packages/ConvertBase64/1.0.0) | 1.0.0
 
@@ -481,14 +513,6 @@ Mermaid diagram component for PowerShell Universal Dashboard. Create flowcharts,
 
 __Downloads__: 5 | __Repository__: https://github.com/ironmansoftware/ud-mermaid
 
-## [Glooko](https://www.powershellgallery.com/Packages/Glooko/1.0.39) | 1.0.39
-
-### Published: 11/05/2025 19:00:43 by iricigor
-
-The Glooko PowerShell module enables tech-savvy users to import, consolidate, and analyze personal diabetes data exported from Glooko, with advanced Excel export and support for PowerShell 7+. Future releases will provide static analysis and CGM statistics, but this tool is intended solely for personal data exploration and is not a replacement for professional medical advice.
-
-__Downloads__: 95 | __Repository__: https://github.com/iricigor/Glooko
-
 ## [Nexthink-Omnissa-Connector](https://www.powershellgallery.com/Packages/Nexthink-Omnissa-Connector/0.2.3) | 0.2.3
 
 ### Published: 11/05/2025 16:43:08 by Nexthink
@@ -524,7 +548,7 @@ A completion manager for better and simpler use completions in PowerShell.
   - Github:  https://github.com/abgox/PSCompletions
   - Gitee:   https://gitee.com/abgox/PSCompletions
 
-__Downloads__: 84,572 | __Repository__: https://pscompletions.abgox.com/
+__Downloads__: 84,573 | __Repository__: https://pscompletions.abgox.com/
 
 ## [spec.output](https://www.powershellgallery.com/Packages/spec.output/1.0.0) | 1.0.0
 
@@ -540,7 +564,7 @@ __Downloads__: 24 | __Repository__:
 
 A module for simplifying the process of getting an access token from Entra ID
 
-__Downloads__: 17,181 | __Repository__: https://github.com/fortytwoservices/powershell-module-entraidaccesstoken
+__Downloads__: 17,184 | __Repository__: https://github.com/fortytwoservices/powershell-module-entraidaccesstoken
 
 ## [PSMaintenance](https://www.powershellgallery.com/Packages/PSMaintenance/0.2.0) | 0.2.0
 
@@ -647,6 +671,14 @@ __Downloads__: 47 | __Repository__: https://github.com/RusUsf/apitools
 PowerShell WinRM Exmulated Explorer Module
 
 __Downloads__: 5 | __Repository__: https://github.com/arnaudcharles/PSWEE
+
+## [GetPassPhrase](https://www.powershellgallery.com/Packages/GetPassPhrase/0.0.1) | 0.0.1
+
+### Published: 11/05/2025 00:28:29 by Lincoln Gaudreau
+
+Used for creating Pass Phrases
+
+__Downloads__: 6 | __Repository__: 
 
 ## [Akismet](https://www.powershellgallery.com/Packages/Akismet/2.0.0) | 2.0.0
 
@@ -2073,36 +2105,4 @@ Microsoft Graph interactive API Functions
 
 __Downloads__: 110,257 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
-## [AdminToolbox.Fun](https://www.powershellgallery.com/Packages/AdminToolbox.Fun/1.7.0.91) | 1.7.0.91
-
-### Published: 11/04/2025 03:22:08 by Taylor Lee
-
-Functions that have no purpose
-
-__Downloads__: 126,284 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-## [AdminToolbox.FileManagement](https://www.powershellgallery.com/Packages/AdminToolbox.FileManagement/1.18.0.9) | 1.18.0.9
-
-### Published: 11/04/2025 03:22:04 by Taylor Lee
-
-File Management Functions
-
-__Downloads__: 158,729 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-## [AdminToolbox.FFTools](https://www.powershellgallery.com/Packages/AdminToolbox.FFTools/4.17.0.91) | 4.17.0.91
-
-### Published: 11/04/2025 03:21:58 by Taylor Lee
-
-Expedite simple ffmpeg actions
-
-__Downloads__: 231,271 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-## [AdminToolbox.Exchange](https://www.powershellgallery.com/Packages/AdminToolbox.Exchange/1.10.0.91) | 1.10.0.91
-
-### Published: 11/04/2025 03:21:54 by Taylor Lee
-
-Functions for Exchange Management
-
-__Downloads__: 190,878 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-*Updated: Saturday, 08 November 2025 21:52:09 UTC*
+*Updated: Sunday, 09 November 2025 09:51:55 UTC*
