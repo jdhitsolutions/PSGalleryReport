@@ -3,6 +3,126 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [XlsCoordinatesConverter-lbo](https://www.powershellgallery.com/Packages/XlsCoordinatesConverter-lbo/1.0) | 1.0
+
+### Published: 11/10/2025 09:43:50 by Lucas Borter
+
+Converts Excel coordinates into numerical index values
+
+__Downloads__: 1 | __Repository__: 
+
+## [XlsCoordinatesConverter-tip](https://www.powershellgallery.com/Packages/XlsCoordinatesConverter-tip/1.0.0) | 1.0.0
+
+### Published: 11/10/2025 09:41:45 by cp-22tip
+
+Module pour convertir les coordonnées Excel en indices numériques
+
+__Downloads__: 1 | __Repository__: 
+
+## [XlsCoordinatesConverter-eth](https://www.powershellgallery.com/Packages/XlsCoordinatesConverter-eth/1.0.6) | 1.0.6
+
+### Published: 11/10/2025 09:32:43 by Ethan Hofstetter
+
+Module pour convertir les coordonnées Excel en indices numériques.
+
+__Downloads__: 15 | __Repository__: 
+
+## [XlsCoordinatesConverter-rel](https://www.powershellgallery.com/Packages/XlsCoordinatesConverter-rel/0.0.1) | 0.0.1
+
+### Published: 11/10/2025 09:31:17 by GermanEngineer
+
+Execl coordinates converter
+
+__Downloads__: 2 | __Repository__: 
+
+## [SIB-ConvertFrom-XlsCoordinates](https://www.powershellgallery.com/Packages/SIB-ConvertFrom-XlsCoordinates/1.0.0) | 1.0.0
+
+### Published: 11/10/2025 09:26:35 by BurriSimon
+
+Un module de test
+
+__Downloads__: 1 | __Repository__: 
+
+## [XlsCoordinatesConverter-ANT](https://www.powershellgallery.com/Packages/XlsCoordinatesConverter-ANT/0.0.2) | 0.0.2
+
+### Published: 11/10/2025 09:21:24 by CP-22ANT
+
+This is an exemple of manifest description section
+
+__Downloads__: 1 | __Repository__: 
+
+## [XlsCoordinateConverter-fam](https://www.powershellgallery.com/Packages/XlsCoordinateConverter-fam/1.0.3) | 1.0.3
+
+### Published: 11/10/2025 09:19:56 by Fabian Marti
+
+Excel cell converter
+
+__Downloads__: 2 | __Repository__: 
+
+## [CIPPAPIModule](https://www.powershellgallery.com/Packages/CIPPAPIModule/1.2.9) | 1.2.9
+
+### Published: 11/10/2025 08:50:47 by Ben Weinberg - Bweinberg@prime-networks.co.uk
+
+Powershell Module for CIPP-API
+
+__Downloads__: 12,982 | __Repository__: https://github.com/BNWEIN/CIPPAPIModule/
+
+## [XlsCoordinatesConverter-wts](https://www.powershellgallery.com/Packages/XlsCoordinatesConverter-wts/0.0.1) | 0.0.1
+
+### Published: 11/10/2025 08:35:01 by Cp-22wts
+
+Made By CEFF Industrie as an exercise
+
+__Downloads__: 0 | __Repository__: 
+
+## [PsAstViewer](https://www.powershellgallery.com/Packages/PsAstViewer/1.0.1) | 1.0.1
+
+### Published: 11/10/2025 08:34:25 by Maxim Zaytsev
+
+A graphical viewer and explorer for PowerShell Abstract Syntax Trees (AST)
+
+__Downloads__: 0 | __Repository__: https://github.com/Krinopotam/PsAstViewer
+
+## [Devdeer.Caf](https://www.powershellgallery.com/Packages/Devdeer.Caf/0.21.0) | 0.21.0
+
+### Published: 11/10/2025 08:20:29 by DEVDEER
+
+This module contains the functions to manage and prepare Azure Tenants in a CAF conform way.
+
+__Downloads__: 3,231 | __Repository__: https://docs.devdeer.io/caf/devdeer-caf-overview.html
+
+## [Eigenverft.Manifested.Drydock](https://www.powershellgallery.com/Packages/Eigenverft.Manifested.Drydock/0.20256.29732) | 0.20256.29732
+
+### Published: 11/10/2025 07:05:23 by Eigenverft
+
+A comprehensive PowerShell module providing automation and deployment tools for the Eigenverft Manifested Drydock environment. Features include Git operations, .NET project handling, process management, scheduled tasks, logging, and IO operations. Optimized for lightning-fast iteration with built-in auto-versioning and seamless local/CI/CD workflow integration. Supports both PowerShell Desktop and Core editions, ensuring consistent behavior across development and deployment environments. For CI/CD examples, see https://github.com/eigenverft/Eigenverft.Manifested.Drydock/blob/main/.github/workflows/cicd.ps1.
+
+__Downloads__: 1,593 | __Repository__: https://github.com/eigenverft/Eigenverft.Manifested.Drydock
+
+## [OSD](https://www.powershellgallery.com/Packages/OSD/25.11.10.1) | 25.11.10.1
+
+### Published: 11/10/2025 05:08:57 by David Segura . Gary Blok . Michael Escamilla
+
+OSD PowerShell Module for Windows Deployment
+
+__Downloads__: 5,487,170 | __Repository__: https://github.com/OSDeploy/OSD
+
+## [Posh-SSH](https://www.powershellgallery.com/Packages/Posh-SSH/3.2.7) | 3.2.7
+
+### Published: 11/10/2025 00:01:58 by Carlos Perez
+
+Provide SSH and SCP functionality for executing commands against remote hosts. You can also use it to transfer files over SSH. To learn more about this module, visit https://www.youtube.com/playlist?list=PLFAOQ2hOvfsQ7cQikml4ua7-CDr9r578N for video tutorials.
+
+__Downloads__: 58,937,236 | __Repository__: https://github.com/darkoperator/Posh-SSH
+
+## [MvRAdaptiveCards](https://www.powershellgallery.com/Packages/MvRAdaptiveCards/1.0.0) | 1.0.0
+
+### Published: 11/09/2025 22:20:47 by Michael van Rooijen
+
+This module provides functions for working with Adaptive Cards in PowerShell in a similar fashion as the popular module PSWriteHTML does for HTML generation. Please read the documentation on GitHub for more information. (https://github.com/Michael19842/PowerShell.MvRAdaptiveCards.Module)
+
+__Downloads__: 168 | __Repository__: https://github.com/Michael19842/PowerShell.MvRAdaptiveCards.Module
+
 ## [EmojiTools](https://www.powershellgallery.com/Packages/EmojiTools/1.18.3) | 1.18.3
 
 ### Published: 11/09/2025 21:28:36 by Jeremy Brown
@@ -34,30 +154,6 @@ __Downloads__: 7 | __Repository__: https://github.com/AndiBellstedt/DevDirManage
 An experimental PowerShell module for Linux nerds. A bit Debian/Cinnamon focused, but no reason to limit this. Because: why not?
 
 __Downloads__: 357 | __Repository__: https://github.com/Skatterbrainz/LinuxTools
-
-## [Posh-SSH](https://www.powershellgallery.com/Packages/Posh-SSH/3.2.6) | 3.2.6
-
-### Published: 11/09/2025 17:52:51 by Carlos Perez
-
-Provide SSH and SCP functionality for executing commands against remote hosts. You can also use it to transfer files over SSH. To learn more about this module, visit https://www.youtube.com/playlist?list=PLFAOQ2hOvfsQ7cQikml4ua7-CDr9r578N for video tutorials.
-
-__Downloads__: 58,937,236 | __Repository__: https://github.com/darkoperator/Posh-SSH
-
-## [OSD](https://www.powershellgallery.com/Packages/OSD/25.11.9.3) | 25.11.9.3
-
-### Published: 11/09/2025 17:08:22 by David Segura . Gary Blok . Michael Escamilla
-
-OSD PowerShell Module for Windows Deployment
-
-__Downloads__: 5,487,170 | __Repository__: https://github.com/OSDeploy/OSD
-
-## [MvRAdaptiveCards](https://www.powershellgallery.com/Packages/MvRAdaptiveCards/0.9.5) | 0.9.5
-
-### Published: 11/09/2025 17:02:26 by Michael van Rooijen
-
-This module provides functions for working with Adaptive Cards in PowerShell in a similar fashion as the popular module PSWriteHTML does for HTML generation. Please read the documentation on GitHub for more information. (https://github.com/Michael19842/PowerShell.MvRAdaptiveCards.Module)
-
-__Downloads__: 168 | __Repository__: https://github.com/Michael19842/PowerShell.MvRAdaptiveCards.Module
 
 ## [Dapper](https://www.powershellgallery.com/Packages/Dapper/0.3.0) | 0.3.0
 
@@ -451,7 +547,7 @@ __Downloads__: 13 | __Repository__: https://github.com/bradleybullock/CablersPow
 
 relaxed IT 3rdParty
 
-__Downloads__: 571 | __Repository__: 
+__Downloads__: 572 | __Repository__: 
 
 ## [RelaxedIT.AzLog](https://www.powershellgallery.com/Packages/RelaxedIT.AzLog/0.0.85) | 0.0.85
 
@@ -467,7 +563,7 @@ __Downloads__: 733 | __Repository__:
 
 relaxed IT Tools
 
-__Downloads__: 770 | __Repository__: 
+__Downloads__: 771 | __Repository__: 
 
 ## [RelaxedIT.EnergySaver](https://www.powershellgallery.com/Packages/RelaxedIT.EnergySaver/0.0.85) | 0.0.85
 
@@ -475,7 +571,7 @@ __Downloads__: 770 | __Repository__:
 
 relaxed IT EnergySaver
 
-__Downloads__: 968 | __Repository__: https://github.com/josy1024/RelaxedIT
+__Downloads__: 969 | __Repository__: https://github.com/josy1024/RelaxedIT
 
 ## [RelaxedIT.Update](https://www.powershellgallery.com/Packages/RelaxedIT.Update/0.0.85) | 0.0.85
 
@@ -483,7 +579,7 @@ __Downloads__: 968 | __Repository__: https://github.com/josy1024/RelaxedIT
 
 relaxed IT Update
 
-__Downloads__: 968 | __Repository__: https://github.com/josy1024/RelaxedIT
+__Downloads__: 969 | __Repository__: https://github.com/josy1024/RelaxedIT
 
 ## [RelaxedIT](https://www.powershellgallery.com/Packages/RelaxedIT/0.0.85) | 0.0.85
 
@@ -516,6 +612,16 @@ __Downloads__: 127 | __Repository__:
 Module for communication with CityLine cloud service server over API from environment of PowerShell7
 
 __Downloads__: 52 | __Repository__: 
+
+## [Fortytwo.IAM.UserWriteback](https://www.powershellgallery.com/Packages/Fortytwo.IAM.UserWriteback/1.3.0) | 1.3.0
+
+### Published: 11/06/2025 08:26:52 by Marius Solbakken Mellum
+
+A module for synchronizing users from Entra ID into Active Directory, and writing onpremises* attributes back to Entra ID. Useful when certain users still require on-premises AD users, while all users have their SOA convert to Entra ID.
+
+See the project page for more information on usage: https://github.com/fortytwoservices/powershell-module-entraiduserwriteback
+
+__Downloads__: 21 | __Repository__: 
 
 ## [CmdFav](https://www.powershellgallery.com/Packages/CmdFav/3.1.1) | 3.1.1
 
@@ -618,7 +724,7 @@ __Downloads__: 26 | __Repository__:
 
 A module for simplifying the process of getting an access token from Entra ID
 
-__Downloads__: 18,651 | __Repository__: https://github.com/fortytwoservices/powershell-module-entraidaccesstoken
+__Downloads__: 18,662 | __Repository__: https://github.com/fortytwoservices/powershell-module-entraidaccesstoken
 
 ## [PSMaintenance](https://www.powershellgallery.com/Packages/PSMaintenance/0.2.0) | 0.2.0
 
@@ -717,6 +823,14 @@ Built in the spirit of dbatools, apitools gives you powerful API development cap
 Perfect for developers who want lightweight, transparent, and scriptable API development workflows!
 
 __Downloads__: 48 | __Repository__: https://github.com/RusUsf/apitools
+
+## [GetPassPhrase](https://www.powershellgallery.com/Packages/GetPassPhrase/0.0.1) | 0.0.1
+
+### Published: 11/05/2025 00:28:29 by Lincoln Gaudreau
+
+Used for creating Pass Phrases
+
+__Downloads__: 7 | __Repository__: 
 
 ## [Akismet](https://www.powershellgallery.com/Packages/Akismet/2.0.0) | 2.0.0
 
@@ -1783,14 +1897,6 @@ This modules provides Cmdlets for OCI Clusterplacementgroups Service
 
 __Downloads__: 5,919 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-## [OCI.PSModules.Cloudmigrations](https://www.powershellgallery.com/Packages/OCI.PSModules.Cloudmigrations/119.0.0) | 119.0.0
-
-### Published: 11/04/2025 19:03:46 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Cloudmigrations Service
-
-__Downloads__: 10,087 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
 ## [OCI.PSModules.Cloudguard](https://www.powershellgallery.com/Packages/OCI.PSModules.Cloudguard/119.0.0) | 119.0.0
 
 ### Published: 11/04/2025 19:03:38 by Oracle Cloud Infrastructure
@@ -1999,108 +2105,4 @@ This modules provides Cmdlets for OCI Ailanguage Service
 
 __Downloads__: 15,313 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-## [OCI.PSModules.Aidocument](https://www.powershellgallery.com/Packages/OCI.PSModules.Aidocument/119.0.0) | 119.0.0
-
-### Published: 11/04/2025 18:59:42 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Aidocument Service
-
-__Downloads__: 9,890 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Aidataplatform](https://www.powershellgallery.com/Packages/OCI.PSModules.Aidataplatform/119.0.0) | 119.0.0
-
-### Published: 11/04/2025 18:59:35 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Aidataplatform Service
-
-__Downloads__: 391 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Adm](https://www.powershellgallery.com/Packages/OCI.PSModules.Adm/119.0.0) | 119.0.0
-
-### Published: 11/04/2025 18:59:27 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Adm Service
-
-__Downloads__: 10,947 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Accessgovernancecp](https://www.powershellgallery.com/Packages/OCI.PSModules.Accessgovernancecp/119.0.0) | 119.0.0
-
-### Published: 11/04/2025 18:59:18 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Accessgovernancecp Service
-
-__Downloads__: 9,152 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Common](https://www.powershellgallery.com/Packages/OCI.PSModules.Common/119.0.0) | 119.0.0
-
-### Published: 11/04/2025 18:58:04 by Oracle Cloud Infrastructure
-
-OCI Common module exports Cmdlets that manages features offered by OCI Modules for Powershell like History Store, OCI Configuration file setup and Per-Session Region/Config/Profile preferences. Common module also contains some functionalties that are common to all OCI Service modules, therefore all OCI Service modules depends on Common module.
-
-__Downloads__: 329,323 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [UGDSB.ApplicationFactory](https://www.powershellgallery.com/Packages/UGDSB.ApplicationFactory/0.7.5) | 0.7.5
-
-### Published: 11/04/2025 13:28:35 by Jeremy Putman
-
-This bundles together functions related to powershell functions use for Application Factory
-
-__Downloads__: 214 | __Repository__: 
-
-## [AVJSnippets](https://www.powershellgallery.com/Packages/AVJSnippets/1.0.1) | 1.0.1
-
-### Published: 11/04/2025 13:01:24 by avjacobsen@live.com
-
-Some of my often used functions.
-
-__Downloads__: 12 | __Repository__: 
-
-## [LDXLogging](https://www.powershellgallery.com/Packages/LDXLogging/0.99.115) | 0.99.115
-
-### Published: 11/04/2025 09:07:38 by Leif Almberg
-
-AB Lindex Log Module
-
-__Downloads__: 665 | __Repository__: 
-
-## [Intersight.PowerShell](https://www.powershellgallery.com/Packages/Intersight.PowerShell/1.0.11.2025101412) | 1.0.11.2025101412
-
-### Published: 11/04/2025 05:11:14 by Cisco Systems
-
-Intersight Powershell module provides the cmdlets to manage, analyze, and automate the IT infrastructure in Intersight.
-
-__Downloads__: 27,008 | __Repository__: https://github.com/CiscoDevNet/intersight-powershell
-
-## [AdminToolbox](https://www.powershellgallery.com/Packages/AdminToolbox/12.0.0.50) | 12.0.0.50
-
-### Published: 11/04/2025 03:24:59 by Taylor Lee
-
-Master module for a collection of modules. These modules are varied in their tasks. The overall purpose of them being to provide a powerfull Toolset to improve IT Admin workflows.
-
-__Downloads__: 131,456 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox
-
-## [AdminToolbox.SecOps](https://www.powershellgallery.com/Packages/AdminToolbox.SecOps/1.5.0.37) | 1.5.0.37
-
-### Published: 11/04/2025 03:23:44 by Taylor Lee
-
-Functions for Security Operations and Investigations
-
-__Downloads__: 5,410 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-## [AdminToolbox.FortiWizard](https://www.powershellgallery.com/Packages/AdminToolbox.FortiWizard/2.22.0.62) | 2.22.0.62
-
-### Published: 11/04/2025 03:23:40 by Taylor Lee
-
-Functions that generate configuration scripts and manage FortiOS.
-
-__Downloads__: 116,979 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-## [AdminToolbox.VMWareAutomate](https://www.powershellgallery.com/Packages/AdminToolbox.VMWareAutomate/4.9.0.91) | 4.9.0.91
-
-### Published: 11/04/2025 03:22:34 by Taylor Lee
-
-Functions to Automate Bulk VMWare Tasks
-
-__Downloads__: 124,897 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-*Updated: Sunday, 09 November 2025 21:51:51 UTC*
+*Updated: Monday, 10 November 2025 09:53:06 UTC*
