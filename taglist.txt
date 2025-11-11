@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Tuesday, 11 November 2025 09:52:34 UTC
+Updated: Tuesday, 11 November 2025 21:52:07 UTC
 
 .bat
 .env
@@ -426,7 +426,6 @@ apexlegends
 api
 api-client
 api-gateway
-api-generation
 api-rest
 apiaccesscontrol
 apichecks
@@ -615,6 +614,7 @@ atproto
 atprotocol
 atrium
 att&ck
+attach
 attention
 attestation
 attila
@@ -718,7 +718,6 @@ avset
 await
 awake
 awakecoding
-awareness
 awesome
 awp
 awpagent
@@ -1179,6 +1178,7 @@ capability
 capacity
 capacitymanagement
 capainstaller
+capaone
 capasystems
 capgemini
 capslock
@@ -1316,6 +1316,7 @@ chocolatey
 choice
 choose_file
 choose_file_name
+choose_folder
 chooser
 christaylorcodes
 christmas
@@ -1375,7 +1376,6 @@ clccontrolapiv1
 clccontrolapiv2
 cldr
 clean
-clean-architecture
 clean-up
 cleanmgr
 cleanup
@@ -1493,7 +1493,6 @@ cockroachdb
 codaamok
 code
 code-completion
-code-generation
 code-page
 code365
 codeagent
@@ -1562,6 +1561,7 @@ comical
 comics
 command
 command_line
+command-line-interface
 command-validation
 commandcoverage
 commandhistory
@@ -1572,6 +1572,7 @@ commands
 commandsandresource
 commence
 comment
+comments
 commerce
 commfort
 commit
@@ -1643,6 +1644,7 @@ configmap
 configmgr
 configmgrcbdsc
 configuration
+configuration-management
 configurationapi
 configurationdata
 configurationkey
@@ -1756,7 +1758,9 @@ coordinates
 copilot
 copy
 copy-item
+copyfileex
 copypaste
+copyright
 core
 coreposh
 coreutils
@@ -1798,7 +1802,6 @@ cq
 cqd
 cqdpowershell
 cqhttp
-cqrs
 crack psmodule
 crash
 crawler
@@ -1976,7 +1979,6 @@ data-uri
 data-uri-converter
 dataadapter
 database
-database-first
 database-migrations
 databaseautomation
 databasefirst
@@ -2352,6 +2354,7 @@ dockerize
 dockerswarm
 docking
 docs
+docset
 document
 documentation
 documentdb
@@ -2415,6 +2418,7 @@ dreams
 dreamweaver
 dreary
 drift
+drift-detection
 driftmonitor
 drink
 drive
@@ -2643,6 +2647,7 @@ enhanced-terminal
 enhancement
 enrichers
 enrichment
+enrollment
 enrollmentpolicy
 entaid
 enteo
@@ -2654,7 +2659,6 @@ enterprisemanager
 enterprisevoice
 entertainment
 entity
-entity-framework
 entityframework
 entra
 entra-id
@@ -2767,6 +2771,7 @@ evernote
 everydaypowershell
 everydayrewards
 everything
+evilprince2009
 evolutionary-algorithms
 evolutionary-database
 evtx
@@ -3016,6 +3021,7 @@ findfile
 findlocation
 findplace
 findproxyforurl
+fine-print
 fine-tuning
 finops
 firebird
@@ -3123,6 +3129,7 @@ fox
 foxpro
 fqdn
 fractal
+frame
 framework
 france
 free
@@ -3341,10 +3348,12 @@ gitrepository
 glass
 glimps
 glob
+global
 globalclipboard
 globaldashboard
 globalentry
 globallydistributeddatabase
+globalping
 globbing
 glooko
 glp
@@ -3419,6 +3428,7 @@ graphs
 graphservices
 graphviz
 graylog
+grc
 greenlake
 greenplum
 gregorian
@@ -3470,6 +3480,7 @@ haarlemsdagblad
 habitica
 hack
 hacking
+hacktoberfest
 hadoop
 hafr
 haiku
@@ -3816,7 +3827,6 @@ imagination
 imaging
 imap
 imb
-imei
 imi
 impala
 impersonation
@@ -3864,6 +3874,7 @@ informationtechnologyoperations
 informix
 infosec
 infrastructure
+infrastructure-as-code
 infrastructureascode
 ingestion
 ini
@@ -3949,6 +3960,7 @@ intune
 intuneadminroles
 intuneappwinutil
 intunestuff
+intunewinapputil
 inventory
 investigation
 investing
@@ -4635,6 +4647,7 @@ marketplaceprivateoffer
 marketplacepublisher
 marking
 marklogic
+marquee
 marvel
 marvell
 marvell_semiconductor_inc
@@ -4918,7 +4931,6 @@ motivationalquotes
 mount
 mouse
 move
-movie
 movies
 mozilla
 mp3
@@ -5049,6 +5061,7 @@ mysql-database
 mytest
 n-able
 n-central
+nabu
 nac
 nagios
 nakivo
@@ -5440,7 +5453,6 @@ openidconnect
 openinghours
 openport
 openprovider
-openscad
 opensearch
 opensource
 opensourceinitiative
@@ -5476,7 +5488,6 @@ optimizer
 option
 option119
 options
-optionstring
 opus
 oracle
 oraclecloudinfrastructure
@@ -5752,9 +5763,11 @@ pid
 pie
 pihole
 pim
+pim-as-code
 pin
 ping
 ping-async
+pinging
 pingsweep
 pinneditem
 pinterest
@@ -5795,6 +5808,10 @@ player
 playlist
 playlists
 playwright
+plc
+plc4x™
+plconnet
+plconnetps
 pleasant
 pleasantpasswordserver
 plex
@@ -6054,6 +6071,7 @@ predictive-text
 predictor
 preferences
 prefix
+prefixing
 preparead
 preparealldomains
 prepareschema
@@ -6144,7 +6162,6 @@ proliant
 prometheus
 prompt
 pronounceable
-proofpoint
 properties
 property
 property-list
@@ -6197,7 +6214,6 @@ psadgroupmembers
 psadt
 psake
 psappdeploytoolkit
-psat
 psazd
 psbackup
 psbbix
@@ -9301,6 +9317,7 @@ radeon
 radio
 rag
 raidcontrollercmdlets
+railways
 rainbow
 raindrop
 raindrop.io
@@ -9577,6 +9594,7 @@ results
 resume
 retail
 retention
+retro
 retry
 returnuserprofile
 retype
@@ -9616,6 +9634,7 @@ ring
 ripe
 risk
 riskiq
+riskmanagement
 riskpro
 risksense
 rivermeadow
@@ -9805,6 +9824,7 @@ scissors
 scm
 scmanager
 scom
+sconfig
 scoop
 scope
 scopes
@@ -9914,6 +9934,7 @@ security.txt
 securityassertionmarkuplanguage
 securityattribute
 securitycenter
+securitycompliance
 securitycompliancecenter
 securitygroup
 securitygroups
@@ -11404,7 +11425,6 @@ venvlink
 vera
 veracrypt
 verbose psmodule
-verification
 verify
 version
 versioncontrol
@@ -11898,7 +11918,6 @@ wrap-text
 wrapper
 wrapperfunctions
 wrc
-wrike
 write
 write-ascii
 write-color
@@ -12013,7 +12032,6 @@ yarn
 yaugeraio
 year
 yetanotherhelloworld
-yify
 yml
 ynab
 yokohama
@@ -12022,7 +12040,6 @@ youtube-dl
 youtube-transcript
 youtubeextractor
 yq
-yts
 yubaba
 yubikey
 yum
