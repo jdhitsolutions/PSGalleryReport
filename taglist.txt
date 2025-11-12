@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Tuesday, 11 November 2025 21:52:07 UTC
+Updated: Wednesday, 12 November 2025 09:52:41 UTC
 
 .bat
 .env
@@ -156,7 +156,6 @@ activitycount
 actor-model
 actors
 acumatica
-acumaticaerp
 ad
 ad_delegation
 ad_monitoring
@@ -277,7 +276,6 @@ agm
 agnoster
 ahk
 ai
-ai-development
 ai-server
 ai21
 ai21labs
@@ -426,6 +424,7 @@ apexlegends
 api
 api-client
 api-gateway
+api-generation
 api-rest
 apiaccesscontrol
 apichecks
@@ -576,7 +575,6 @@ asp.net
 aspire
 aspnet
 aspnet_regiis
-aspnetcore
 asr
 assembleenationale
 assembly
@@ -620,7 +618,6 @@ attestation
 attila
 attribute
 attributes
-attribution
 au
 audio
 audiocodes
@@ -718,6 +715,7 @@ avset
 await
 awake
 awakecoding
+awareness
 awesome
 awp
 awpagent
@@ -726,7 +724,6 @@ aws_profile
 aws-codebuild
 aws-lambda
 aws-vault
-aws.tools.powershell
 awsbedrock
 awscli
 awspricelist
@@ -1102,7 +1099,6 @@ bucket
 buddhist
 budget
 bugbounty
-bugzilla
 build
 build-log
 build-scripts
@@ -1376,6 +1372,7 @@ clccontrolapiv1
 clccontrolapiv2
 cldr
 clean
+clean-architecture
 clean-up
 cleanmgr
 cleanup
@@ -1493,6 +1490,7 @@ cockroachdb
 codaamok
 code
 code-completion
+code-generation
 code-page
 code365
 codeagent
@@ -1576,7 +1574,6 @@ comments
 commerce
 commfort
 commit
-commit-analysis
 commits
 common
 common-data-service
@@ -1802,6 +1799,7 @@ cq
 cqd
 cqdpowershell
 cqhttp
+cqrs
 crack psmodule
 crash
 crawler
@@ -1979,9 +1977,9 @@ data-uri
 data-uri-converter
 dataadapter
 database
+database-first
 database-migrations
 databaseautomation
-databasefirst
 databasemanagement
 databasemigration
 databaserecovery
@@ -2139,7 +2137,6 @@ demultiplex
 demultiplexing
 dependencies
 dependency
-dependencyfree
 dependencymap
 dependencysearch
 deploy
@@ -2230,6 +2227,7 @@ digitalocean
 digitaltwins
 dilbert
 dimcry
+dir
 dircolors
 direct_send
 director
@@ -2659,6 +2657,7 @@ enterprisemanager
 enterprisevoice
 entertainment
 entity
+entity-framework
 entityframework
 entra
 entra-id
@@ -3727,8 +3726,6 @@ hypervisor
 hypervplugins
 hypoglycemia
 hypothesis
-hysolate
-hysolatemangementconsole
 i-doit
 i2c
 ia
@@ -3750,7 +3747,6 @@ icinga2mssql
 icinga2plugins
 icingachecks
 icingaforwindows
-icingainventory
 icingamssql
 icingaplugins
 icingapowershell
@@ -3827,6 +3823,7 @@ imagination
 imaging
 imap
 imb
+imei
 imi
 impala
 impersonation
@@ -4931,6 +4928,7 @@ motivationalquotes
 mount
 mouse
 move
+movie
 movies
 mozilla
 mp3
@@ -4966,7 +4964,6 @@ msft
 msftnet
 msftnetworking
 msg
-msg.exe
 msgbox
 msgraph
 msgraphapi
@@ -5453,6 +5450,7 @@ openidconnect
 openinghours
 openport
 openprovider
+openscad
 opensearch
 opensource
 opensourceinitiative
@@ -5488,6 +5486,7 @@ optimizer
 option
 option119
 options
+optionstring
 opus
 oracle
 oraclecloudinfrastructure
@@ -6162,6 +6161,7 @@ proliant
 prometheus
 prompt
 pronounceable
+proofpoint
 properties
 property
 property-list
@@ -6214,6 +6214,7 @@ psadgroupmembers
 psadt
 psake
 psappdeploytoolkit
+psat
 psazd
 psbackup
 psbbix
@@ -9523,7 +9524,6 @@ rename-git
 rename-git-branch
 rename-gitbranch
 render
-reonboarding
 repair
 repair-msauth
 reparse
@@ -9630,6 +9630,7 @@ rightcloud
 rightjoin
 rights
 rightsizing
+rightsmanagement
 ring
 ripe
 risk
@@ -9976,7 +9977,6 @@ send
 send-logtologanalytics
 send-mailmessage
 send-mailmessage2
-send-message
 send-mgusermail
 senderid
 sendgrid
@@ -11071,8 +11071,6 @@ trick
 tricks
 trigger
 triggers
-trilium
-triliumnext
 triodos
 tripunkt
 troubleshoot
@@ -11425,6 +11423,7 @@ venvlink
 vera
 veracrypt
 verbose psmodule
+verification
 verify
 version
 versioncontrol
@@ -11918,6 +11917,7 @@ wrap-text
 wrapper
 wrapperfunctions
 wrc
+wrike
 write
 write-ascii
 write-color
@@ -12032,6 +12032,7 @@ yarn
 yaugeraio
 year
 yetanotherhelloworld
+yify
 yml
 ynab
 yokohama
@@ -12040,6 +12041,7 @@ youtube-dl
 youtube-transcript
 youtubeextractor
 yq
+yts
 yubaba
 yubikey
 yum
