@@ -1,15 +1,15 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Thursday, 13 November 2025 09:52:32 UTC
+Updated: Thursday, 13 November 2025 21:52:18 UTC
 
 .bat
 .env
 .net
+.prom
 .ps1xml
 'azure'
 'blob storage'
 'code owls'
-'files
 'provider'
 "<script>alert()</script>
 "interactive
@@ -72,7 +72,6 @@ aad-graph
 aadc
 aadconnect
 aadgraph
-aadsecurity
 aadsts
 aam
 aas
@@ -283,7 +282,6 @@ ai21labs
 aianomalydetection
 aiapplications
 aiautomation
-aid
 aidataplatform
 aider
 aidocument
@@ -344,7 +342,6 @@ alpine
 alt3
 alter
 alteryx
-alto
 alwaysontop
 alwaysonvpn
 alz
@@ -487,7 +484,6 @@ appservice
 appservices
 appsetting
 appv
-appventix
 appveyor
 appvolumes
 appwrite
@@ -504,7 +500,9 @@ apt-get
 apt-get-update
 apteco
 aptitude
+aql
 arabic
+arangodb
 arc
 arcade
 arcgateway
@@ -671,7 +669,6 @@ automai
 automanage
 automate
 automated
-automatedinsulindelivery
 automatedlab
 automatenow
 automaticpacketreportingsystem
@@ -903,7 +900,6 @@ bastion
 bat
 batcat
 batch
-batch-install
 batchclass
 batching
 batman
@@ -1013,9 +1009,7 @@ blocks
 blog
 blogger
 blogs
-bloodglucose
 bloodhound
-bloodsugar
 bloxone
 bloxoneddi
 bls
@@ -1163,6 +1157,7 @@ callqueue
 calvin-and-hobbes
 cam
 camera
+cameras
 campaign
 camtasia
 canarie
@@ -1264,7 +1259,6 @@ certinia
 certutil
 cf
 cfn
-cgm
 ch9
 change
 changeanalysis
@@ -1499,6 +1493,7 @@ codeagent
 codeanalysis
 codebeamer
 codebuild
+codebundler
 codecommit
 codecomplexity
 codecov
@@ -1622,6 +1617,7 @@ computers
 computersite
 computeschedule
 comulativeupdate
+concatenate
 concur
 concurrency
 concurrent
@@ -1660,6 +1656,7 @@ connect-exchangeonprem
 connect-mstsc
 connect-rdp
 connect-remotedesktop
+connect-samcmsite
 connected
 connectedkubernetes
 connectedmachine
@@ -1708,14 +1705,12 @@ continuous-deployment
 continuous-integration
 continuousdelivery
 continuousdeployment
-continuousglucosemonitoring
 continuousintegration
 contrast
 control
 controller
 controlroom
 controlup
-convention
 conventional
 conventional-commits
 convereter
@@ -1750,8 +1745,6 @@ converttomd
 conway
 cookie
 coolq
-cooltag1
-cooltag2
 coordinates
 copilot
 copy
@@ -1877,7 +1870,6 @@ csv2adx
 csvhelper
 ctap
 ctf
-ctglobal
 ctl
 ctrl+c
 ctx
@@ -2195,7 +2187,7 @@ devops psmodule
 devsecninja
 devsecops
 devtestlabs
-dexcom
+devtools
 dfch
 dfir
 dfplayermini
@@ -2205,7 +2197,6 @@ dg
 dhash
 dhcp
 di
-diabetes
 diagnostic
 diagnostics
 diagram
@@ -2229,10 +2220,8 @@ digitalocean
 digitaltwins
 dilbert
 dimcry
-dir
 dircolors
 direct_send
-director
 directories
 directory
 directory psedition_core psedition_desktop
@@ -2561,7 +2550,6 @@ education
 educational
 eduprom
 effectiveroutes
-effects
 efficiency
 efficientether
 efi
@@ -2583,7 +2571,6 @@ elevated
 elevatedconsole
 elevatedmode
 elevation
-elevenlabs
 elgato
 eli5
 elitism
@@ -3051,7 +3038,6 @@ flash
 flasharray
 flatfile
 flatten
-flaui
 flavor
 fleet
 fleetappsmanagement
@@ -3294,6 +3280,8 @@ get-passivetrippoint
 get-passlist
 get-path
 get-pinneditem
+get-samcmassignedsite
+get-samcmcurrentmanagementpoint
 get-samplingperiod
 get-smtpcapabilities
 get-stalecomps
@@ -3331,7 +3319,6 @@ gitflow
 gitforwindows
 github
 github-actions
-github-api
 githubaction
 githubactions
 githubcopilot
@@ -3355,10 +3342,8 @@ globalentry
 globallydistributeddatabase
 globalping
 globbing
-glooko
 glp
 glpi
-glucosemonitoring
 gmail
 gmap
 gmaps
@@ -3516,8 +3501,6 @@ hardmatch
 hardware
 harperdb
 hartokens
-harvest
-harvestforecast
 hash
 hash-verification
 hashcat
@@ -3576,6 +3559,7 @@ helpdesk
 helpdoc
 helper
 helper-functions
+helperfunctions
 helpers
 helpfile
 helpful
@@ -3608,7 +3592,6 @@ hint
 hipaa
 hipb
 hipchat
-hiragana
 histogram
 history
 historyninja
@@ -3711,21 +3694,18 @@ humor
 humorous
 humour
 hunter
-hunting
 hwid
 hybrid
 hybridrunbookworker
 hyper-v
 hyperconverged
 hyperfine
-hyperglycemia
 hyperlink
 hyperlinked-text
 hyperthreading
 hyperv
 hypervisor
 hypervplugins
-hypoglycemia
 hypothesis
 hysolate
 hysolatemangementconsole
@@ -3773,7 +3753,6 @@ identity
 identity-management
 identitycenter
 identitydataplane
-identitydirector
 identitydomains
 identitygovernance
 identitynow
@@ -3838,6 +3817,7 @@ import-dtdriverpackpackagedefinitionsms
 import-module
 import-modulefrompath
 import-passlist
+import-sampackagedefinitionsms
 importer
 importexport
 importteams
@@ -3896,7 +3876,6 @@ inputobject
 insert
 insiderthreat
 insight
-insightanalytics
 insights
 inspect
 inspiration
@@ -3920,7 +3899,6 @@ instance
 instant
 instapush
 instorage
-insulinpump
 int
 intacct
 integrated
@@ -3995,7 +3973,9 @@ iothub
 iothubproperties
 iotoperationsservice
 ip
+ip_cameras
 ip-address
+ip-scanner
 ipa
 ipaddress
 ipam
@@ -4065,7 +4045,6 @@ itglue
 itin
 itops
 itsm
-itstore
 ivanti
 ivb
 ivdc
@@ -4073,7 +4052,6 @@ iwi
 j
 j81-blog
 jamba
-japanese
 jar
 jav
 java
@@ -4163,7 +4141,6 @@ karma
 kaseya
 kaseyavsa
 kaspersky
-katakana
 kb
 kb4
 kbarticle
@@ -4178,7 +4155,6 @@ keepasslib
 keepawake
 keeper
 kelverion
-kelvin
 kentico
 kerb
 kerberos
@@ -4213,6 +4189,7 @@ kill
 kindle
 kinetic
 kinopoisk
+kintone
 kittygraphicsprotocol
 klantcontroles
 kline
@@ -4564,6 +4541,7 @@ macos
 macos-powershell
 macosx
 macro
+macros
 madlib
 magazine
 magento
@@ -4604,7 +4582,6 @@ managedidentities
 managedidentity
 managedkafka
 managednetworkfabric
-managedserviceidenity
 managedserviceidentity
 managedserviceprovider
 managedserviceproviders
@@ -4670,6 +4647,7 @@ maven
 max
 max_path
 maximum
+maxoffice
 mazerat
 mb
 mbc
@@ -4744,7 +4722,6 @@ messenger
 met
 meta
 metadata
-metadataservice
 metaprogramming
 method
 methodinfo
@@ -5000,7 +4977,6 @@ msword
 mta-sts
 mule
 mulesoft
-multi
 multi-agent
 multi-factor
 multi-language
@@ -5172,6 +5148,8 @@ new-itemproperty
 new-modulemanifest
 new-pinneditem
 new-rdpsession
+new-samcmapplicationfrompackagedefinitionsms
+new-samcmpackagefrompackagedefinitionsms
 new-system
 new-udmorph
 new-win32app
@@ -5360,7 +5338,6 @@ office365managementapi
 officedev
 officegraph
 officemessageencryption
-officeopenxml
 officertool
 offline
 offlinewimservicing
@@ -5423,7 +5400,6 @@ onyphe
 onyphe.io
 oob
 oop
-ooxml
 op
 opa
 opc
@@ -5593,11 +5569,9 @@ pagerduty
 pages
 pagination
 paging
-palo
 paloalto
 paloaltonetworks
 pam
-pan
 pandoc
 panels
 pansies
@@ -5860,6 +5834,7 @@ population
 popup
 popy
 port
+port-scanner
 port70
 portal
 portchecker
@@ -5984,7 +5959,6 @@ powerpack
 powerplan
 powerplateform
 powerplatform
-powerpoint
 powerprotect
 powerprotect_datamanager
 powersaving
@@ -6119,7 +6093,6 @@ process-inspector
 processing
 processmitigation
 processor
-procmap
 procs
 producer
 product
@@ -9168,7 +9141,6 @@ pssqlservermodule
 psst
 psstgenerator
 pstablacus
-pstanss
 psthread
 pstk
 pstwitter
@@ -9238,7 +9210,6 @@ pwsh.fw
 pwshake
 pwshfw
 pwshrc
-pwshspectreconsole
 pxedistributionpoint
 pyenv
 pygmentize
@@ -9479,7 +9450,6 @@ reminder
 remote
 remote-browser
 remote-desktop
-remote'
 remoteaccess
 remoteadmin
 remotecert
@@ -9492,7 +9462,6 @@ remotedesktopgateway
 remotedesktopmanager
 remotedesktopservices
 remotedirectories
-remotefiles
 remoteforensics
 remotehost
 remotelocalgroup
@@ -9519,6 +9488,7 @@ rename-git
 rename-git-branch
 rename-gitbranch
 render
+reonboarding
 repair
 repair-msauth
 reparse
@@ -9585,7 +9555,6 @@ restaurant
 restful
 restore
 restrictive
-results
 resume
 retail
 retention
@@ -9636,7 +9605,6 @@ risksense
 rivermeadow
 rj
 rjtenant
-rlan
 rmcp
 rmm
 rms
@@ -9656,8 +9624,8 @@ rocolatey
 role
 roleassignments
 rolebasedaccesscontrol_model
+roles
 rollingfile
-romaji
 ropc
 rot13
 rotate
@@ -9787,7 +9755,10 @@ scatter
 scb
 scc
 sccm
+sccmam
+sccmapplication
 sccminstall
+sccmpackage
 sccmprereqs
 scep
 scepman
@@ -9826,6 +9797,7 @@ scouterna
 scouternasetjanster
 scoutnet
 scp
+scrap
 scrape
 scraper
 scraping
@@ -9916,6 +9888,7 @@ securescore
 securesphere
 securestring
 security
+security_cameras
 security-awareness-training
 security-policy
 security-score
@@ -9926,12 +9899,14 @@ securityattribute
 securitycenter
 securitycompliance
 securitycompliancecenter
+securitycontrols
 securitygroup
 securitygroups
 securityinsights
 securityoptions
 securitypermissionschecker
 securitypolicydsc
+securityposture
 securityroles
 securityscopes
 securitytxt
@@ -9978,7 +9953,6 @@ sensitivity
 sensitivitylabels
 sensor
 sensors
-sensu
 sentinel
 sentinelone
 sentry
@@ -10028,7 +10002,6 @@ servicepointmanager
 serviceprincipal
 services
 servicestatus
-servicestore
 servicing
 servicingstack
 ses
@@ -10103,7 +10076,6 @@ shieldedvm
 ships
 shipsprovider
 shipstation
-shitpost
 shlink
 shodan
 shodanps
@@ -10620,6 +10592,7 @@ suppress
 supress-reboot
 surestacks
 surround
+surveillance
 survey
 surveymonkey
 sus
@@ -10705,7 +10678,6 @@ systemsplash
 systray
 t
 t-sql
-t1d
 tab
 tab-comletion
 tab-completion
@@ -10736,8 +10708,6 @@ taken
 takeown
 tally
 talxis
-tandem
-tanss
 tanzu
 tar
 tar-compression
@@ -10843,6 +10813,8 @@ test-modulemanifest
 test-modulepath
 test-osplatform
 test-psremoting
+test-samcmapplicationexists
+test-samcmpackageexists
 test-userisadministrator
 test-xml
 test123
@@ -10874,6 +10846,7 @@ text-to-speech
 text2image
 textanalysis
 textbuffer
+textfile
 textgeneration
 texting
 texting-emoji
@@ -11032,7 +11005,6 @@ translator
 translit
 transliteration
 transmission
-transparancy
 transparency
 transpilation
 trap
@@ -11715,7 +11687,6 @@ whoisserver
 whoissummary
 whoistool
 whoisutility
-whormi
 wi-fi
 wia
 wia.imagefile
@@ -11902,6 +11873,7 @@ wql
 wrap
 wrap-text
 wrapper
+wrapperfunctions
 wrc
 wrike
 write
@@ -11995,10 +11967,8 @@ xpertdoc
 xpo
 xprotect
 xpt
-xql
 xrm
 xsa
-xsiam
 xsl
 xtremio
 xtrude
@@ -12068,10 +12038,6 @@ zvm
 zvml
 zvmlinux
 zypper
-カタカナ
-ひらがな
-ローマ字
 全角半角変換
 寿司
-日本語
 湯婆婆
