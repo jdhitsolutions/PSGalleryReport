@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Sunday, 16 November 2025 09:52:18 UTC
+Updated: Sunday, 16 November 2025 21:52:06 UTC
 
 .bat
 .env
@@ -643,7 +643,6 @@ authenticate
 authentication
 authenticationcertificate
 authenticationcontext
-authenticationstrength
 authenticode
 authn
 author
@@ -710,6 +709,7 @@ avatax
 avd
 ave
 avepoint
+avi
 avm
 avmtools
 avro
@@ -871,8 +871,6 @@ azvm
 b2
 back
 backblaze
-backconnection
-backconnectionhostname
 backend
 backup
 backup_validation
@@ -1632,7 +1630,6 @@ concurrency
 concurrent
 conda
 condition
-conditional
 conditionalaccess
 conduit
 conference
@@ -1756,6 +1753,8 @@ converttomd
 conway
 cookie
 coolq
+cooltag1
+cooltag2
 coordinates
 copilot
 copy
@@ -2538,7 +2537,6 @@ easy-to-use
 easylife365
 easypim
 easyvista
-eaton
 ebay
 ebooks
 ebur128
@@ -2588,6 +2586,7 @@ elevated
 elevatedconsole
 elevatedmode
 elevation
+elevenlabs
 elgato
 eli5
 elitism
@@ -2653,7 +2652,6 @@ enrichers
 enrichment
 enrollment
 enrollmentpolicy
-entaid
 enteo
 enter
 enterprise
@@ -3059,6 +3057,7 @@ flaui
 flavor
 fleet
 fleetappsmanagement
+fleetdm
 fleetsoftwareupdate
 flex
 flex-query
@@ -3353,12 +3352,10 @@ gitrepository
 glass
 glimps
 glob
-global
 globalclipboard
 globaldashboard
 globalentry
 globallydistributeddatabase
-globalping
 globbing
 glooko
 glp
@@ -4162,6 +4159,7 @@ jws
 jwt
 jwttoken
 k8s
+k8sshell
 k8ssnapshots
 kafka
 kaminario
@@ -4246,6 +4244,7 @@ krick
 kschemaplugin
 ktpass
 kubclt
+kube
 kube-buddy
 kubeconfig
 kubectl
@@ -5221,6 +5220,7 @@ nios
 nipkg
 nist
 nitrox
+nixos
 njclipsh
 nl
 nla
@@ -5776,7 +5776,6 @@ pim-as-code
 pin
 ping
 ping-async
-pinging
 pingsweep
 pinneditem
 pinterest
@@ -5872,7 +5871,6 @@ pop3
 popd
 population
 popup
-popy
 port
 port-scanner
 port70
@@ -5963,6 +5961,7 @@ poshy-wrap-yum
 poshy-wrap-zypper
 position
 post
+postcode
 postdeployment
 postgre
 postgres
@@ -8042,6 +8041,8 @@ psdshook
 pse
 psedition_5
 psedition_5.1
+psedition_7.3
+psedition_7.4
 psedition_core
 psedition_desk
 psedition_desktop
@@ -9221,6 +9222,7 @@ pulseway
 pulumi
 punycode
 puppet
+puppetdb
 puppy
 pure
 pure1
@@ -9999,6 +10001,7 @@ sensitivity
 sensitivitylabels
 sensor
 sensors
+sensu
 sentinel
 sentinelone
 sentry
@@ -10123,6 +10126,7 @@ shieldedvm
 ships
 shipsprovider
 shipstation
+shitpost
 shlink
 shodan
 shodanps
@@ -10850,6 +10854,8 @@ terminalservices
 terminalvelocity
 termset
 terraform
+terraform-docs
+terraform-switcher
 terraformcloud
 terrafun
 terragrunt
@@ -10908,6 +10914,7 @@ tflint
 tfs
 tfscmdlets
 tfsec
+tfswitch
 tftd
 tftp
 tfvars
@@ -11178,6 +11185,7 @@ ud-hero
 ud-illustration
 ud-input
 ud-licensed
+ud-loadingoverlay
 ud-minesweeper
 ud-mouseparticle
 ud-navbarsearch
@@ -11426,7 +11434,6 @@ vencord
 vendor
 vendorpam
 venue
-venv
 venvlink
 vera
 veracrypt
@@ -11451,6 +11458,7 @@ video-editing
 videogeneration
 videos
 vie
+view
 viewer
 vigenere
 vim
