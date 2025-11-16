@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Saturday, 15 November 2025 21:52:24 UTC
+Updated: Sunday, 16 November 2025 09:52:18 UTC
 
 .bat
 .env
@@ -277,6 +277,7 @@ agm
 agnoster
 ahk
 ai
+ai-development
 ai-server
 ai21
 ai21labs
@@ -595,6 +596,7 @@ assistant
 association
 ast
 astro
+astronomy
 asv
 asymmetric
 async
@@ -619,6 +621,7 @@ attestation
 attila
 attribute
 attributes
+attribution
 au
 audio
 audiocodes
@@ -707,7 +710,6 @@ avatax
 avd
 ave
 avepoint
-avi
 avm
 avmtools
 avro
@@ -1577,6 +1579,7 @@ comments
 commerce
 commfort
 commit
+commit-analysis
 commits
 common
 common-data-service
@@ -1651,6 +1654,7 @@ configurationkey
 configurationmanagement
 configurationmanager
 configurationprofile
+configurations
 configure
 confluence
 confluent
@@ -1752,8 +1756,6 @@ converttomd
 conway
 cookie
 coolq
-cooltag1
-cooltag2
 coordinates
 copilot
 copy
@@ -2278,7 +2280,9 @@ diskfree
 diskimage
 diskpart
 diskpool
+disksize
 diskspace
+diskusage
 dism
 dismal
 display
@@ -2584,7 +2588,6 @@ elevated
 elevatedconsole
 elevatedmode
 elevation
-elevenlabs
 elgato
 eli5
 elitism
@@ -3037,6 +3040,7 @@ first
 fisher
 fissionproducts
 fitbit
+fits
 five
 five9
 fix-log
@@ -3055,7 +3059,6 @@ flaui
 flavor
 fleet
 fleetappsmanagement
-fleetdm
 fleetsoftwareupdate
 flex
 flex-query
@@ -3376,6 +3379,7 @@ golang
 golden_ticket
 goldengate
 goldsource
+goldsource-dedicated-server
 google
 google-chrome
 google-fonts
@@ -4158,7 +4162,6 @@ jws
 jwt
 jwttoken
 k8s
-k8sshell
 k8ssnapshots
 kafka
 kaminario
@@ -4243,7 +4246,6 @@ krick
 kschemaplugin
 ktpass
 kubclt
-kube
 kube-buddy
 kubeconfig
 kubectl
@@ -5219,7 +5221,6 @@ nios
 nipkg
 nist
 nitrox
-nixos
 njclipsh
 nl
 nla
@@ -5962,7 +5963,6 @@ poshy-wrap-yum
 poshy-wrap-zypper
 position
 post
-postcode
 postdeployment
 postgre
 postgres
@@ -8042,8 +8042,6 @@ psdshook
 pse
 psedition_5
 psedition_5.1
-psedition_7.3
-psedition_7.4
 psedition_core
 psedition_desk
 psedition_desktop
@@ -9223,7 +9221,6 @@ pulseway
 pulumi
 punycode
 puppet
-puppetdb
 puppy
 pure
 pure1
@@ -9363,6 +9360,7 @@ rbac
 rbacmodel
 rbsu
 rc4
+rcon
 rcs
 rcu
 rdap
@@ -10001,7 +9999,6 @@ sensitivity
 sensitivitylabels
 sensor
 sensors
-sensu
 sentinel
 sentinelone
 sentry
@@ -10126,7 +10123,6 @@ shieldedvm
 ships
 shipsprovider
 shipstation
-shitpost
 shlink
 shodan
 shodanps
@@ -10319,6 +10315,7 @@ sorting
 sound
 sounds
 source
+source-dedicated-server
 sourcecontrol
 sourceforge
 sourcegraph
@@ -10326,6 +10323,7 @@ sourceindexing
 sourcemod
 sourceone
 sourcepawn
+sourcequery
 sovcloud
 space
 spaces
@@ -10403,6 +10401,7 @@ sqlautomation
 sqlbackup
 sqlbits
 sqlbrowser
+sqlbulkcopy
 sqlchangeautomation
 sqlclient
 sqlcmd
@@ -10525,6 +10524,7 @@ stderr
 stdio
 stdout
 steam
+steam-games
 steamcmd
 stenography
 stepmanager
@@ -10850,8 +10850,6 @@ terminalservices
 terminalvelocity
 termset
 terraform
-terraform-docs
-terraform-switcher
 terraformcloud
 terrafun
 terragrunt
@@ -10910,7 +10908,6 @@ tflint
 tfs
 tfscmdlets
 tfsec
-tfswitch
 tftd
 tftp
 tfvars
@@ -11181,7 +11178,7 @@ ud-hero
 ud-illustration
 ud-input
 ud-licensed
-ud-loadingoverlay
+ud-minesweeper
 ud-mouseparticle
 ud-navbarsearch
 ud-numbermask
