@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Sunday, 16 November 2025 21:52:06 UTC
+Updated: Monday, 17 November 2025 09:53:20 UTC
 
 .bat
 .env
@@ -355,8 +355,6 @@ amateur-data-interchange-format
 amateur-radio
 amateurradio
 amazon
-amazonaws
-amazonmgn
 amazontitan
 amazonwebservices
 amd
@@ -643,6 +641,7 @@ authenticate
 authentication
 authenticationcertificate
 authenticationcontext
+authenticationstrength
 authenticode
 authn
 author
@@ -703,7 +702,6 @@ auvik
 av1
 availability
 availabilityset
-avalara
 avatar
 avatax
 avd
@@ -799,7 +797,6 @@ azureartifacts
 azureas
 azureatp
 azureautomation
-azureautomationaccount
 azureautomationnotsupported
 azurebasicloadbalancerupgrade
 azurecli
@@ -871,6 +868,8 @@ azvm
 b2
 back
 backblaze
+backconnection
+backconnectionhostname
 backend
 backup
 backup_validation
@@ -1487,7 +1486,6 @@ cmtrace
 cmwt
 cnc
 cns
-co-writer
 coa
 cockroachdb
 codaamok
@@ -1630,6 +1628,7 @@ concurrency
 concurrent
 conda
 condition
+conditional
 conditionalaccess
 conduit
 conference
@@ -2537,6 +2536,7 @@ easy-to-use
 easylife365
 easypim
 easyvista
+eaton
 ebay
 ebooks
 ebur128
@@ -2586,7 +2586,6 @@ elevated
 elevatedconsole
 elevatedmode
 elevation
-elevenlabs
 elgato
 eli5
 elitism
@@ -2652,6 +2651,7 @@ enrichers
 enrichment
 enrollment
 enrollmentpolicy
+entaid
 enteo
 enter
 enterprise
@@ -2671,7 +2671,6 @@ entraid
 entraid-security-assessment
 entraidgovernance
 entropy
-entrust
 enum
 enumerable
 env
@@ -3352,10 +3351,12 @@ gitrepository
 glass
 glimps
 glob
+global
 globalclipboard
 globaldashboard
 globalentry
 globallydistributeddatabase
+globalping
 globbing
 glooko
 glp
@@ -4001,7 +4002,6 @@ iotoperationsservice
 ip
 ip_cameras
 ip-address
-ip-scanner
 ipa
 ipaddress
 ipam
@@ -4199,7 +4199,6 @@ keyboard
 keyboardstartkey
 keycipher
 keycloak
-keycontrol
 keylight
 keymanagement
 keymanagementserver
@@ -4767,7 +4766,6 @@ metrolink
 metropolis
 mfa
 mga
-mgn
 mi
 micro
 micro-framework
@@ -5776,6 +5774,7 @@ pim-as-code
 pin
 ping
 ping-async
+pinging
 pingsweep
 pinneditem
 pinterest
@@ -5871,8 +5870,8 @@ pop3
 popd
 population
 popup
+popy
 port
-port-scanner
 port70
 portal
 portchecker
@@ -9167,7 +9166,6 @@ psrule-rules
 pssa
 psscriptanalyzer
 psscriptanaylzer
-psscriptsmonitoring
 pssendgrid
 pssession
 pssharper
@@ -9571,7 +9569,6 @@ resize
 resolution
 resolve
 resolve-dnsname
-resolve-stache
 resolve-template
 resolver
 resource
@@ -9883,7 +9880,6 @@ scriptoform
 scriptrunner
 scripts
 scriptsigning
-scriptsmonitoring
 scrolllock
 scrub
 scrubber
@@ -9896,7 +9892,6 @@ sdk
 sdn
 sdp
 search
-search-adminauditlog
 search-engines
 searchconnector
 searchengine
@@ -10126,7 +10121,6 @@ shieldedvm
 ships
 shipsprovider
 shipstation
-shitpost
 shlink
 shodan
 shodanps
@@ -10271,7 +10265,6 @@ snmpwalk
 snowflake
 snsmssqlpsmodule
 snspsadgroupmembers
-snspsscriptsmonitoring
 snssqlitepsmodule
 sntp
 soap
@@ -10475,7 +10468,6 @@ ssrs
 ssst
 sstp
 stabilityai
-stache
 stackexchange
 stackhci
 stackhcivm
@@ -10579,7 +10571,6 @@ strictmode
 strikethrough-text
 string
 string-converter
-string-template
 stringmanager
 stringmanagertool
 strings
@@ -11434,6 +11425,7 @@ vencord
 vendor
 vendorpam
 venue
+venv
 venvlink
 vera
 veracrypt
@@ -11951,7 +11943,6 @@ writeaccess
 writelog
 writeprogress
 writer
-writing
 ws-federation
 wsapi
 wsb
@@ -12029,7 +12020,6 @@ xql
 xrm
 xsa
 xsiam
-xsl
 xtremio
 xtrude
 xunit
@@ -12042,7 +12032,6 @@ yahw
 yamaha
 yaml
 yandex
-yandexdisk
 yapg
 yarn
 yaugeraio
