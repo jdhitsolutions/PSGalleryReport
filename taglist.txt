@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Tuesday, 18 November 2025 09:53:01 UTC
+Updated: Tuesday, 18 November 2025 21:52:13 UTC
 
 .bat
 .env
@@ -222,7 +222,6 @@ administrativeuser
 administrator
 admintools
 adml
-admonition
 admpwd
 admx
 ado
@@ -938,6 +937,7 @@ bec
 beckhoff
 bedrock
 beep
+beer
 behavior
 behavioralanalytics
 benchmark
@@ -1072,6 +1072,8 @@ break
 breakpoint
 brevo
 brew
+brewing
+brewzilla
 brickset
 brickstore
 bridge
@@ -1158,7 +1160,6 @@ calculate
 calculator
 calendar
 callingcode
-callout
 callqueue
 calvin-and-hobbes
 cam
@@ -1484,7 +1485,7 @@ cms
 cmsiteconfig
 cmsmessage
 cmtrace
-cmwt
+cnc
 cns
 co-writer
 coa
@@ -2235,6 +2236,7 @@ dilbert
 dimcry
 dir
 dircolors
+direct_send
 director
 directories
 directory
@@ -2249,6 +2251,7 @@ directorysearcher
 directorysecurity
 directoryservices
 directrouting
+directsend
 directus
 direnv
 dirkjan
@@ -2891,6 +2894,7 @@ fallbackstatuspoint
 fanarttv
 fancy
 fancy-terminal
+fanuc
 faq
 farm
 farmanager
@@ -2922,6 +2926,7 @@ federateddirectory
 federation
 fedex
 feed
+fermentation
 fetch
 ffmpeg
 ffprobe
@@ -3051,7 +3056,6 @@ flasharray
 flatfile
 flatten
 flaui
-flavor
 fleet
 fleetappsmanagement
 fleetdm
@@ -3213,6 +3217,7 @@ gcbdr
 gce
 gci
 gcloud
+gcode
 gcp
 gcs
 gdap
@@ -3633,6 +3638,7 @@ holiday
 home
 home_automation
 homebrew
+homebrewing
 homelab
 homelandsecurity
 homeschooling
@@ -3780,7 +3786,6 @@ identitysecuritycloud
 idf
 idm
 idn
-idna
 idoit
 idp
 idrac
@@ -4102,7 +4107,6 @@ jmsjavadownloads
 jmsutils
 jnet
 jnetps
-joat
 job
 jobcan
 jobs
@@ -4293,6 +4297,7 @@ languageexperiencepack
 languagemodels
 languagepack
 lansweeper
+laplace
 laps
 laragon
 laserbeams
@@ -4831,6 +4836,7 @@ migrations
 mikrotik
 milestone
 milestonepstools
+milling
 mim
 mime
 mimekit
@@ -5026,7 +5032,6 @@ multipass
 multiple
 multiserver
 multistring
-multitenant
 multithread
 multithreaded
 multithreaded-helpers
@@ -5599,7 +5604,6 @@ pager
 pagerduty
 pages
 pagination
-paging
 palo
 paloalto
 paloaltonetworks
@@ -5955,6 +5959,7 @@ poshy-wrap-yum
 poshy-wrap-zypper
 position
 post
+postcode
 postdeployment
 postgre
 postgres
@@ -6005,6 +6010,7 @@ powershell-core
 powershell-core-releases-api
 powershell-course
 powershell-credentials
+powershell-desktop
 powershell-dsc
 powershell-examples
 powershell-gallery
@@ -6202,7 +6208,6 @@ ps1xml
 ps1xmlgen
 ps2dll
 ps2exe
-ps2exe.core
 ps3
 ps4
 ps5
@@ -9119,7 +9124,6 @@ psloganalytics
 psm
 psm1
 psmodule
-psmodule psedition_desktop
 psmodulebase
 psmodulepath
 psmodules
@@ -9152,6 +9156,7 @@ psreadline
 psreminder
 psremoting
 psrepository
+psresource
 psresourceget
 psrule
 psrule-rules
@@ -9211,7 +9216,6 @@ pullrequest
 pullserver
 pulseway
 pulumi
-punycode
 puppet
 puppetdb
 puppy
@@ -9337,6 +9341,7 @@ range
 rangescan
 rangetocidr
 ransomware_recovery
+rapt
 ras
 raspberry-pi
 raspberrypi
@@ -9586,6 +9591,7 @@ rest_cherrypy
 rest-api
 restapi
 restart
+restaurant
 restful
 restore
 restrictive
@@ -9950,7 +9956,6 @@ securitytxt
 sed
 seed
 seek
-seekatar
 seeshell
 select
 select-item
@@ -9958,7 +9963,6 @@ select-kubecontext
 select-kubenamespace
 select-string
 selection
-selectxmlinfo
 selenium
 self
 self-hosted
@@ -10824,7 +10828,6 @@ temporary
 tenable
 tenable.sc
 tenant
-tenantmanagement
 tenantmanagercontrolplane
 teradata
 termbin
@@ -10933,7 +10936,6 @@ threatintelligence
 threatintelligenceindicators
 threatintelligenceplatform
 threatprotection
-threats
 threatsharing
 thumbprint
 thunderbird
@@ -11185,6 +11187,7 @@ ud-pivottable
 ud-progressstepbar
 ud-rangeslider
 ud-readingbar
+ud-scrollspy
 ud-selectdatetime
 ud-selector
 ud-signature
@@ -11436,6 +11439,7 @@ versionmanager
 versionnumber
 vertical
 vester
+vgpu
 vhd
 vhdx
 vi
