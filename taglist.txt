@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Thursday, 20 November 2025 09:52:31 UTC
+Updated: Thursday, 20 November 2025 21:52:13 UTC
 
 .bat
 .env
@@ -265,6 +265,8 @@ afd
 affinity
 affinity-co
 affinity-crm
+after-effects
+aftereffects
 agenda
 agent
 aggregates
@@ -284,6 +286,7 @@ aiapplications
 aiautomation
 aid
 aidataplatform
+aider
 aidocument
 aiintegration
 ailanguage
@@ -400,6 +403,7 @@ ansible-control-node
 ansible-playbook
 ansible-vault
 ansiblecontrolnode
+ansiblectl
 ansibletower
 anthropic
 anti-idle
@@ -416,6 +420,7 @@ anypoint
 anywhere
 aovpn psmodule
 apache
+apache_maven
 apachekafka
 apexlegends
 api
@@ -941,7 +946,6 @@ benchmarking
 benchmarks
 benchpress
 ber
-best-practices
 bestpractice
 bestpractices
 bginfo
@@ -1371,7 +1375,6 @@ claudecode
 clccontrol
 clccontrolapiv1
 clccontrolapiv2
-cldr
 clean
 clean-architecture
 clean-up
@@ -1631,6 +1634,7 @@ condition
 conditional
 conditionalaccess
 conduit
+conference
 confidentialclient
 confidentialledger
 config
@@ -1638,7 +1642,6 @@ configapi
 configascode
 configdata
 configkey
-configmap
 configmgr
 configmgrcbdsc
 configuration
@@ -1899,7 +1902,6 @@ currency-exchange
 currencyconverterapi
 current
 curseforge
-cursor
 custom
 customchecks
 customdns
@@ -2604,6 +2606,7 @@ email-address
 emailaddressupdate
 emailauth
 emailauthchecker
+emailautomation
 emailcampain
 emailchecker
 emaildataplane
@@ -2853,6 +2856,7 @@ extendedgroups
 extendedkeyusage
 extendedproperties
 extendedproperty
+extendscript
 extensibility
 extension
 extensionmethods
@@ -3185,7 +3189,6 @@ funny
 fusion
 fusionapps
 fuzzy
-fuzzy-search
 fyi
 fzf
 gac
@@ -3513,7 +3516,6 @@ harden-windows-security
 hardening
 hardensysvol
 hardlink
-hardmatch
 hardware
 harperdb
 hartokens
@@ -3549,7 +3551,6 @@ headhunter
 health
 health_checks
 health-check
-health-checks
 healthbot
 healthcare
 healthcareapis
@@ -3685,6 +3686,7 @@ hsdp
 hsl
 html
 html-templates
+htmlentity
 http
 http_proxy
 http-listener
@@ -3930,6 +3932,7 @@ integratedscriptingeditor
 integration
 integrationaccount
 integrationruntime
+integrationruntimedependency
 integrationservicescatalog
 integrity
 intel
@@ -4241,7 +4244,6 @@ kschemaplugin
 ktpass
 kubclt
 kube
-kube-buddy
 kubeconfig
 kubectl
 kubectx
@@ -4631,7 +4633,6 @@ map
 mapapi
 mapi
 mappeddrives
-mapper24
 mapping
 maps
 mapsapi
@@ -4662,7 +4663,6 @@ mass
 massmail
 masstransit
 masterconfiguration
-match
 matcharray
 matchhashtable
 materialdesign
@@ -5091,6 +5091,8 @@ natural-language-to-code
 natural-selection
 nature
 nav
+naven
+navenps
 navigation
 nbi
 ncal
@@ -5368,7 +5370,6 @@ office365managementapi
 officedev
 officegraph
 officemessageencryption
-officeopenxml
 officertool
 offline
 offlinewimservicing
@@ -5431,7 +5432,6 @@ onyphe
 onyphe.io
 oob
 oop
-ooxml
 op
 opa
 opc
@@ -5574,7 +5574,6 @@ oxyplot
 p2000
 p2s
 pa1reg
-paas
 pac
 pack
 package
@@ -5792,7 +5791,6 @@ pixoo
 pkce
 pkgx
 pki
-pki psmodule
 pks
 place
 places
@@ -5807,7 +5805,6 @@ play
 playback
 playbook
 player
-playlist
 playlists
 playwright
 plc
@@ -5991,7 +5988,6 @@ powerpack
 powerplan
 powerplateform
 powerplatform
-powerpoint
 powerprotect
 powerprotect_datamanager
 powersaving
@@ -6080,6 +6076,7 @@ prepend
 preprocessing
 preprocessor
 prerequisites
+presentation
 presentationframework
 presenter
 presto
@@ -6152,7 +6149,6 @@ progressbar
 progressbars
 project
 project-management
-project-manager
 projectmanagement
 projectreunion
 projects
@@ -9204,7 +9200,6 @@ publishedmodules
 publisher
 publishers
 publishing
-publishmap
 pubsub
 pubxml
 pull
@@ -9302,6 +9297,7 @@ quiz
 qumulo
 quota
 quote
+quotedprintable
 quoteoftheday
 quotes
 quotestoliveby
@@ -10006,6 +10002,7 @@ sequence
 serial
 serialization
 serialize
+serialnumber
 sericemanagement
 series
 serilog
@@ -10337,6 +10334,7 @@ spdx-license-identifier:ms-pl
 spe
 speach
 speak
+speaker
 spec
 specification
 specify
@@ -11022,7 +11020,6 @@ traceevent
 tracer
 tracert
 tracing
-track
 tracker
 tracking
 trading
@@ -11183,13 +11180,13 @@ ud-numbermask
 ud-orgchart
 ud-piechart3d
 ud-pivottable
+ud-progressstepbar
 ud-rangeslider
 ud-readingbar
 ud-scrollspy
 ud-selectdatetime
 ud-selector
 ud-signature
-ud-simpledrawer
 ud-singleselect
 ud-slider
 ud-speechbubble
@@ -11479,6 +11476,7 @@ virus
 virustotal
 visio
 visual
+visual_effects
 visual-studio
 visualbuilder
 visualc
@@ -11510,6 +11508,7 @@ vmss
 vmtovmhostrule
 vmtovmrule
 vmware
+vmware.vsphere
 vmwarecloudfoundation
 vmwaredrs
 vmwarevalidatedsolutions
@@ -11591,6 +11590,7 @@ vxrail
 w32time
 w365
 w3svc
+w3w
 waa
 waas
 wac
@@ -11695,6 +11695,7 @@ wemsdk
 wer
 wfp
 wget
+what3words
 whatif
 whatismyip
 whatsnew
@@ -11777,6 +11778,7 @@ windows-powershell
 windows-registry
 windows-remoting
 windows-server-2016
+windows-switcher
 windows-terminal
 windows-user-folder
 windows-user-profile
