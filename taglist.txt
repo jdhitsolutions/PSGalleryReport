@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Wednesday, 19 November 2025 21:52:18 UTC
+Updated: Thursday, 20 November 2025 09:52:31 UTC
 
 .bat
 .env
@@ -76,6 +76,7 @@ aadgraph
 aadsecurity
 aadsts
 aam
+aas
 aatp
 abakion
 abc
@@ -264,8 +265,6 @@ afd
 affinity
 affinity-co
 affinity-crm
-after-effects
-aftereffects
 agenda
 agent
 aggregates
@@ -285,7 +284,6 @@ aiapplications
 aiautomation
 aid
 aidataplatform
-aider
 aidocument
 aiintegration
 ailanguage
@@ -402,7 +400,6 @@ ansible-control-node
 ansible-playbook
 ansible-vault
 ansiblecontrolnode
-ansiblectl
 ansibletower
 anthropic
 anti-idle
@@ -419,7 +416,6 @@ anypoint
 anywhere
 aovpn psmodule
 apache
-apache_maven
 apachekafka
 apexlegends
 api
@@ -490,6 +486,7 @@ appv
 appventix
 appveyor
 appvolumes
+appwrite
 appx
 appxmanifest
 appxpackage
@@ -572,6 +569,7 @@ asn1
 asnbank
 asp
 asp.net
+aspire
 aspnet
 aspnet_regiis
 aspnetcore
@@ -701,6 +699,7 @@ auvik
 av1
 availability
 availabilityset
+avalara
 avatar
 avatax
 avd
@@ -870,6 +869,7 @@ back
 backblaze
 backconnection
 backconnectionhostname
+backend
 backup
 backup_validation
 bamboo
@@ -1103,6 +1103,7 @@ bugzilla
 build
 build-log
 build-scripts
+build-test-publish
 buildautomation
 builddefinition
 builder
@@ -1559,6 +1560,7 @@ comical
 comics
 command
 command_line
+command-line-interface
 command-validation
 commandcoverage
 commandhistory
@@ -1569,6 +1571,7 @@ commands
 commandsandresource
 commence
 comment
+comments
 commerce
 commfort
 commit
@@ -1628,7 +1631,6 @@ condition
 conditional
 conditionalaccess
 conduit
-conference
 confidentialclient
 confidentialledger
 config
@@ -1757,6 +1759,7 @@ copy
 copy-item
 copyfileex
 copypaste
+copyright
 core
 coreposh
 coreutils
@@ -2065,6 +2068,7 @@ dc
 dcim
 dcim_b324
 dcom
+dconf
 dcr
 ddc
 ddc/ci
@@ -2600,7 +2604,6 @@ email-address
 emailaddressupdate
 emailauth
 emailauthchecker
-emailautomation
 emailcampain
 emailchecker
 emaildataplane
@@ -2736,7 +2739,6 @@ etl2pcapng
 etrade
 ets
 etw
-etymology
 eulanda
 evaluation
 evaluator
@@ -2851,7 +2853,6 @@ extendedgroups
 extendedkeyusage
 extendedproperties
 extendedproperty
-extendscript
 extensibility
 extension
 extensionmethods
@@ -3020,6 +3021,7 @@ findfile
 findlocation
 findplace
 findproxyforurl
+fine-print
 fine-tuning
 finops
 firebird
@@ -3128,6 +3130,7 @@ fox
 foxpro
 fqdn
 fractal
+frame
 framework
 france
 free
@@ -3346,10 +3349,12 @@ gitrepository
 glass
 glimps
 glob
+global
 globalclipboard
 globaldashboard
 globalentry
 globallydistributeddatabase
+globalping
 globbing
 glooko
 glp
@@ -3359,6 +3364,7 @@ gmail
 gmap
 gmaps
 gmsa
+gnome
 gnucash
 gnuwin32
 go
@@ -3446,6 +3452,7 @@ groups
 grouvee
 growlnotify
 grr
+gsettings
 gsudo
 gsuite
 gtx1080ti
@@ -3678,7 +3685,6 @@ hsdp
 hsl
 html
 html-templates
-htmlentity
 http
 http_proxy
 http-listener
@@ -3924,7 +3930,6 @@ integratedscriptingeditor
 integration
 integrationaccount
 integrationruntime
-integrationruntimedependency
 integrationservicescatalog
 integrity
 intel
@@ -4023,6 +4028,7 @@ irkit
 irl
 irregular
 isadmin
+isbn
 isc
 iscsi
 isdate
@@ -4309,6 +4315,7 @@ layout
 lazywinadmin
 lbi
 lbs
+lccn
 lcm
 lcminternals
 lcs
@@ -4441,6 +4448,7 @@ locationbasedservices
 locations
 lock
 lockbox
+lockdisplaytimeout
 lockdown
 lockfile
 locking
@@ -4641,6 +4649,7 @@ marketplaceprivateoffer
 marketplacepublisher
 marking
 marklogic
+marquee
 marvel
 marvell
 marvell_semiconductor_inc
@@ -4878,6 +4887,11 @@ modern
 modify
 module
 module-maintenance
+module-manifest
+module-publishing
+module-publishing-framework
+module-testing
+module-testing-framework
 modulebuild
 modulecreation
 modulefast
@@ -5077,8 +5091,6 @@ natural-language-to-code
 natural-selection
 nature
 nav
-naven
-navenps
 navigation
 nbi
 ncal
@@ -5163,6 +5175,7 @@ new-dynamicparameter
 new-githubrelease
 new-item
 new-itemproperty
+new-modulemanifest
 new-pinneditem
 new-rdpsession
 new-samcmapplicationfrompackagedefinitionsms
@@ -5309,6 +5322,8 @@ oauth
 oauth2
 oauth2.0
 oberstufe
+obfuscate
+obfuscation
 obj
 object
 objectid
@@ -5437,6 +5452,7 @@ openholidaysapi
 openid
 openidconnect
 openinghours
+openport
 openprovider
 openscad
 opensearch
@@ -5488,7 +5504,6 @@ organization
 organizationally
 orgnetwork
 oriflame
-origin
 orion
 orleans
 orm
@@ -5550,6 +5565,7 @@ overbite
 override
 ovf
 ovgd
+ovh
 owasp
 owls
 owner
@@ -5558,6 +5574,7 @@ oxyplot
 p2000
 p2s
 pa1reg
+paas
 pac
 pack
 package
@@ -5604,6 +5621,7 @@ parameterinfo
 parameters
 params
 parclient
+parititions
 parool
 parquet
 parse
@@ -5751,6 +5769,7 @@ pim-as-code
 pin
 ping
 ping-async
+pinging
 pingsweep
 pinneditem
 pinterest
@@ -5998,6 +6017,8 @@ powershell-isprime
 powershell-lightning
 powershell-module
 powershell-modules
+powershell-modules-convention
+powershell-project-convention
 powershell-releases-api
 powershell-remoting
 powershell-scripts
@@ -6059,7 +6080,6 @@ prepend
 preprocessing
 preprocessor
 prerequisites
-presentation
 presentationframework
 presenter
 presto
@@ -9179,6 +9199,7 @@ publicfolder
 publicholidays
 publicip
 publish
+publish-module
 publishedmodules
 publisher
 publishers
@@ -9281,7 +9302,6 @@ quiz
 qumulo
 quota
 quote
-quotedprintable
 quoteoftheday
 quotes
 quotestoliveby
@@ -9833,6 +9853,7 @@ screenscraping
 screenshot
 script
 script_version
+script-module
 script-signing
 script-to-assembly
 script-to-executable
@@ -9985,7 +10006,6 @@ sequence
 serial
 serialization
 serialize
-serialnumber
 sericemanagement
 series
 serilog
@@ -10317,7 +10337,6 @@ spdx-license-identifier:ms-pl
 spe
 speach
 speak
-speaker
 spec
 specification
 specify
@@ -10757,6 +10776,7 @@ tcg
 tcp
 tcp/ip
 tcpip
+tcpport
 tcprjmgmt
 tcpserver
 tcptest
@@ -10829,10 +10849,12 @@ terraform-switcher
 terraformcloud
 terrafun
 terragrunt
+tesla
 test
 test-automation
 test-dscconfiguration
 test-internetconnection
+test-modulemanifest
 test-modulepath
 test-osplatform
 test-psremoting
@@ -11161,7 +11183,6 @@ ud-numbermask
 ud-orgchart
 ud-piechart3d
 ud-pivottable
-ud-progressstepbar
 ud-rangeslider
 ud-readingbar
 ud-scrollspy
@@ -11254,6 +11275,7 @@ unzip
 up
 update
 update-module
+update-modulemanifest
 update-moduletests
 update-typedata
 updatecatalog
@@ -11457,7 +11479,6 @@ virus
 virustotal
 visio
 visual
-visual_effects
 visual-studio
 visualbuilder
 visualc
@@ -11489,7 +11510,6 @@ vmss
 vmtovmhostrule
 vmtovmrule
 vmware
-vmware.vsphere
 vmwarecloudfoundation
 vmwaredrs
 vmwarevalidatedsolutions
@@ -11571,7 +11591,6 @@ vxrail
 w32time
 w365
 w3svc
-w3w
 waa
 waas
 wac
@@ -11599,6 +11618,7 @@ warrenty
 wasabi
 watch
 watchdog
+watchguard
 watchmen
 watery
 wave
@@ -11675,7 +11695,6 @@ wemsdk
 wer
 wfp
 wget
-what3words
 whatif
 whatismyip
 whatsnew
@@ -11758,7 +11777,6 @@ windows-powershell
 windows-registry
 windows-remoting
 windows-server-2016
-windows-switcher
 windows-terminal
 windows-user-folder
 windows-user-profile
