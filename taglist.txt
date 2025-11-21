@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Thursday, 20 November 2025 21:52:13 UTC
+Updated: Friday, 21 November 2025 09:52:32 UTC
 
 .bat
 .env
@@ -178,7 +178,6 @@ adblock
 adc
 adcs
 add
-add-in
 add-member
 add-on
 add-on.module
@@ -946,6 +945,7 @@ benchmarking
 benchmarks
 benchpress
 ber
+best-practices
 bestpractice
 bestpractices
 bginfo
@@ -1138,7 +1138,6 @@ businessrulesengine
 businesstime
 bxor
 bydesign
-byexample
 bynarypsmodule
 byte
 bytearray
@@ -1192,7 +1191,6 @@ card
 cards
 cardwirth
 careport
-cares
 cargo
 carousel
 carrier
@@ -1375,6 +1373,7 @@ claudecode
 clccontrol
 clccontrolapiv1
 clccontrolapiv2
+cldr
 clean
 clean-architecture
 clean-up
@@ -1642,6 +1641,7 @@ configapi
 configascode
 configdata
 configkey
+configmap
 configmgr
 configmgrcbdsc
 configuration
@@ -1902,6 +1902,7 @@ currency-exchange
 currencyconverterapi
 current
 curseforge
+cursor
 custom
 customchecks
 customdns
@@ -2597,7 +2598,6 @@ elmah-io
 elonmusk
 eloomi
 eloqua
-elvish
 elvui
 em
 emacs
@@ -2742,6 +2742,7 @@ etl2pcapng
 etrade
 ets
 etw
+etymology
 eulanda
 evaluation
 evaluator
@@ -3169,7 +3170,6 @@ ftptoday
 fu-msauth
 fudge
 fudgepop
-fujitsu
 full
 full-metal-gnome
 fullclr
@@ -3189,6 +3189,7 @@ funny
 fusion
 fusionapps
 fuzzy
+fuzzy-search
 fyi
 fzf
 gac
@@ -3516,6 +3517,7 @@ harden-windows-security
 hardening
 hardensysvol
 hardlink
+hardmatch
 hardware
 harperdb
 hartokens
@@ -3551,6 +3553,7 @@ headhunter
 health
 health_checks
 health-check
+health-checks
 healthbot
 healthcare
 healthcareapis
@@ -3943,7 +3946,6 @@ intellisearch
 intellisense
 interactive
 interactive-brokers
-interchange
 interface
 interlogix
 internal
@@ -4244,6 +4246,7 @@ kschemaplugin
 ktpass
 kubclt
 kube
+kube-buddy
 kubeconfig
 kubectl
 kubectx
@@ -4663,6 +4666,7 @@ mass
 massmail
 masstransit
 masterconfiguration
+match
 matcharray
 matchhashtable
 materialdesign
@@ -5050,6 +5054,7 @@ mwsqlserver
 mx
 mxlookup
 mycloudrevolution
+mycorp
 myget
 myhub
 myip
@@ -5370,6 +5375,7 @@ office365managementapi
 officedev
 officegraph
 officemessageencryption
+officeopenxml
 officertool
 offline
 offlinewimservicing
@@ -5432,6 +5438,7 @@ onyphe
 onyphe.io
 oob
 oop
+ooxml
 op
 opa
 opc
@@ -5504,6 +5511,7 @@ organization
 organizationally
 orgnetwork
 oriflame
+origin
 orion
 orleans
 orm
@@ -5574,6 +5582,7 @@ oxyplot
 p2000
 p2s
 pa1reg
+paas
 pac
 pack
 package
@@ -5791,6 +5800,7 @@ pixoo
 pkce
 pkgx
 pki
+pki psmodule
 pks
 place
 places
@@ -5805,6 +5815,7 @@ play
 playback
 playbook
 player
+playlist
 playlists
 playwright
 plc
@@ -5977,7 +5988,6 @@ powerbot
 powercli
 powercligoodies
 powercommander
-powerconfiguration
 powerdex
 powerforensics
 powergraph
@@ -5988,6 +5998,7 @@ powerpack
 powerplan
 powerplateform
 powerplatform
+powerpoint
 powerprotect
 powerprotect_datamanager
 powersaving
@@ -6149,6 +6160,7 @@ progressbar
 progressbars
 project
 project-management
+project-manager
 projectmanagement
 projectreunion
 projects
@@ -6162,7 +6174,6 @@ proofpoint
 properties
 property
 property-list
-prose
 protect
 protect-blob
 protect-string
@@ -9200,6 +9211,7 @@ publishedmodules
 publisher
 publishers
 publishing
+publishmap
 pubsub
 pubxml
 pull
@@ -9474,7 +9486,6 @@ releasenotes
 releases
 relevance
 relic
-reload
 remediation
 remedy
 reminder
@@ -9601,7 +9612,6 @@ reverse-engineer
 reverse-string
 reversed-color-text
 reversedsc
-reverseengineering
 review
 revision
 reword
@@ -9700,7 +9710,6 @@ rubber
 rubrik
 rubriksecuritycloud
 ruby
-rulasg
 rule
 rulesengine
 run
@@ -10038,7 +10047,6 @@ serviceplan
 servicepointmanager
 serviceprincipal
 services
-servicestatus
 servicestore
 servicing
 servicingstack
@@ -11020,6 +11028,7 @@ traceevent
 tracer
 tracert
 tracing
+track
 tracker
 tracking
 trading
@@ -11187,6 +11196,7 @@ ud-scrollspy
 ud-selectdatetime
 ud-selector
 ud-signature
+ud-simpledrawer
 ud-singleselect
 ud-slider
 ud-speechbubble
@@ -11706,7 +11716,6 @@ whfb
 whisper
 whiteboard
 whitespace
-who
 whoami
 whois
 whoiscmdlet
@@ -11778,7 +11787,6 @@ windows-powershell
 windows-registry
 windows-remoting
 windows-server-2016
-windows-switcher
 windows-terminal
 windows-user-folder
 windows-user-profile
