@@ -3,6 +3,101 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [SqlServer-Version-Management](https://www.powershellgallery.com/Packages/SqlServer-Version-Management/2.1.125) | 2.1.125
+
+### Published: 11/21/2025 21:27:43 by devizer
+
+SQL Server Setup and Version Management Guide: https://devizer.github.io/SqlServer-Version-Management
+
+It installs Developer, Express, or LocalDB editions.
+The intended use of this project is for Continuous Integration (CI) scenarios, where:
+     1) SQL Server or LocalDB needs to be installed without user interaction.
+     2) SQL Server or LocalDB installation doesn't need to persist across multiple CI runs.
+
+By default it installs SQL Engine and full text search, adds built-in Administrators to SQL Server Administrators, and turns on TCP/IP and Named Pipe protocols. Default sa password is 'Meaga$tr0ng'.
+
+__Downloads__: 51,770 | __Repository__: https://github.com/devizer/Universe.SqlServerJam/tree/master/SqlServer-Version-Management
+
+## [GitlabCli](https://www.powershellgallery.com/Packages/GitlabCli/1.141.1) | 1.141.1
+
+### Published: 11/21/2025 20:52:13 by Chris Peterson
+
+Interact with GitLab via PowerShell
+
+__Downloads__: 27,595 | __Repository__: https://github.com/chris-peterson/pwsh-gitlab
+
+## [Sql](https://www.powershellgallery.com/Packages/Sql/0.5.1) | 0.5.1
+
+### Published: 11/21/2025 19:55:06 by Cédric Belin <cedx@outlook.com>
+
+A simple micro-ORM supporting MySQL, PostgreSQL, SQL Server and SQLite.
+
+__Downloads__: 37 | __Repository__: https://github.com/cedx/sql.ps1
+
+## [Logic.Monitor](https://www.powershellgallery.com/Packages/Logic.Monitor/7.7.2) | 7.7.2
+
+### Published: 11/21/2025 18:44:56 by Steven Villardi
+
+PowerShell module to query the Logic Monitor API. This PowerShell module is developed as an open-source project and is not officially supported by LogicMonitor. It is maintained by a community of users who are passionate about enhancing its capabilities and functionality. While LogicMonitor recognizes the effort and ingenuity behind this module, please note that it is provided "as is" without any official support or warranty from LogicMonitor.
+
+__Downloads__: 3,088,520 | __Repository__: https://github.com/logicmonitor/lm-powershell-module
+
+## [Atempo.Lina](https://www.powershellgallery.com/Packages/Atempo.Lina/7.2.2.1) | 7.2.2.1
+
+### Published: 11/21/2025 17:10:17 by Atempo
+
+PowerShell module for managing and monitoring Atempo Lina continuous data protection solution
+
+__Downloads__: 2,197 | __Repository__: 
+
+## [OSD](https://www.powershellgallery.com/Packages/OSD/25.11.21.3) | 25.11.21.3
+
+### Published: 11/21/2025 17:07:18 by David Segura . Gary Blok . Michael Escamilla
+
+OSD PowerShell Module for Windows Deployment
+
+__Downloads__: 5,603,823 | __Repository__: https://github.com/OSDeploy/OSD
+
+## [Devolutions.PowerShell](https://www.powershellgallery.com/Packages/Devolutions.PowerShell/2025.3.2) | 2025.3.2
+
+### Published: 11/21/2025 15:32:43 by Devolutions
+
+The Devolutions.PowerShell module is a set of cmdlets that allow administrators to manage Remote Desktop Manager, Devolutions Server and Devolutions Hub Business using PowerShell. This module provides a simple and consistent interface for interacting with these products, making it easy to automate various tasks, such as creating and managing connections, sessions, and credentials, configuring security settings, and generating reports. The module can be easily integrated with other PowerShell modules, allowing administrators to automate tasks across multiple products and platforms, streamline their workflows and increase efficiency.
+
+__Downloads__: 457,168 | __Repository__: https://devolutions.net/
+
+## [WindmillClient](https://www.powershellgallery.com/Packages/WindmillClient/1.583.1) | 1.583.1
+
+### Published: 11/21/2025 14:52:50 by Windmill Labs
+
+Client for the Windmill platform.
+
+__Downloads__: 11,970 | __Repository__: https://github.com/windmill-labs/windmill/tree/main/powershell-client
+
+## [PS365](https://www.powershellgallery.com/Packages/PS365/0.0.22) | 0.0.22
+
+### Published: 11/21/2025 14:38:05 by Bastien Perez
+
+Module PS365
+
+__Downloads__: 4 | __Repository__: 
+
+## [PoshJsonWebToken](https://www.powershellgallery.com/Packages/PoshJsonWebToken/1.2.0) | 1.2.0
+
+### Published: 11/21/2025 13:28:09 by ArmaanMcleod
+
+This module contains cmdlets to help with generating and validating signed or encrypted JWT tokens.
+
+__Downloads__: 303 | __Repository__: https://github.com/ArmaanMcleod/PoshJsonWebToken
+
+## [NCache.Azure](https://www.powershellgallery.com/Packages/NCache.Azure/1.0.13) | 1.0.13
+
+### Published: 11/21/2025 12:05:22 by Alachisoft
+
+The NCache Azure PowerShell Module simplifies managing NCache environments in Microsoft Azure. It lets you deploy, configure, license, monitor, and test distributed caches and clients through an easy-to-use set of PowerShell cmdlets
+
+__Downloads__: 91 | __Repository__: 
+
 ## [ThoughtForTheDay](https://www.powershellgallery.com/Packages/ThoughtForTheDay/2.0.2) | 2.0.2
 
 ### Published: 11/21/2025 09:33:56 by Lars Panzerbjørn
@@ -51,36 +146,13 @@ This module has been frozen and will no longer receive updates. Please switch to
 
 __Downloads__: 16 | __Repository__: https://github.com/Panzerbjrn/AzureDevOpsHelperModule
 
-## [SqlServer-Version-Management](https://www.powershellgallery.com/Packages/SqlServer-Version-Management/2.1.124) | 2.1.124
-
-### Published: 11/21/2025 08:17:22 by devizer
-
-SQL Server Setup and Version Management Guide: https://devizer.github.io/SqlServer-Version-Management
-
-It installs Developer, Express, or LocalDB editions.
-The intended use of this project is for Continuous Integration (CI) scenarios, where:
-     1) SQL Server or LocalDB needs to be installed without user interaction.
-     2) SQL Server or LocalDB installation doesn't need to persist across multiple CI runs.
-
-By default it installs SQL Engine and full text search, adds built-in Administrators to SQL Server Administrators, and turns on TCP/IP and Named Pipe protocols. Default sa password is 'Meaga$tr0ng'.
-
-__Downloads__: 51,770 | __Repository__: https://github.com/devizer/Universe.SqlServerJam/tree/master/SqlServer-Version-Management
-
 ## [DattoRMM](https://www.powershellgallery.com/Packages/DattoRMM/1.0.0.33) | 1.0.0.33
 
 ### Published: 11/21/2025 08:02:03 by Aaron Engels
 
 This module is designed to make it easier to use the DattoRMM API in your PowerShell scripts. As all the hard work is done, you can develop your scripts faster and be more effecient. There is no need to go through a big learning curve spending lots of time working out how to use the Datto RMM API. Simply load the module, enter your API keys and get results within minutes!
 
-__Downloads__: 524,596 | __Repository__: https://github.com/aaronengels/DattoRMM
-
-## [WindmillClient](https://www.powershellgallery.com/Packages/WindmillClient/1.582.2) | 1.582.2
-
-### Published: 11/21/2025 07:19:34 by Windmill Labs
-
-Client for the Windmill platform.
-
-__Downloads__: 11,970 | __Repository__: https://github.com/windmill-labs/windmill/tree/main/powershell-client
+__Downloads__: 524,595 | __Repository__: https://github.com/aaronengels/DattoRMM
 
 ## [Rnwood.Dataverse.Data.PowerShell](https://www.powershellgallery.com/Packages/Rnwood.Dataverse.Data.PowerShell/2.2.0) | 2.2.0
 
@@ -114,14 +186,6 @@ This module contains class-based DSC resources for Databricks
 
 __Downloads__: 7 | __Repository__: 
 
-## [OSD](https://www.powershellgallery.com/Packages/OSD/25.11.21.1) | 25.11.21.1
-
-### Published: 11/21/2025 05:08:25 by David Segura . Gary Blok . Michael Escamilla
-
-OSD PowerShell Module for Windows Deployment
-
-__Downloads__: 5,603,823 | __Repository__: https://github.com/OSDeploy/OSD
-
 ## [OMG.PSUtilities.AI](https://www.powershellgallery.com/Packages/OMG.PSUtilities.AI/1.0.29) | 1.0.29
 
 ### Published: 11/21/2025 02:30:48 by Lakshmanachari Panuganti
@@ -136,7 +200,7 @@ __Downloads__: 2,233 | __Repository__:
 
 A watch-like command runner for PowerShell.
 
-__Downloads__: 0 | __Repository__: https://github.com/r0tifer/Watch-Command
+__Downloads__: 1 | __Repository__: https://github.com/r0tifer/Watch-Command
 
 ## [OMG.PSUtilities.VSphere](https://www.powershellgallery.com/Packages/OMG.PSUtilities.VSphere/1.0.1) | 1.0.1
 
@@ -215,14 +279,6 @@ __Downloads__: 93,733 | __Repository__: https://gitlab.com/rightcloud/rcpsgaller
 EntraAuth based module to manage App Registrations and Enterprise Apps, request scopes and grant them.
 
 __Downloads__: 34 | __Repository__: https://github.com/FriedrichWeinmann/EntraAuth.Graph.Application
-
-## [Sql](https://www.powershellgallery.com/Packages/Sql/0.3.0) | 0.3.0
-
-### Published: 11/20/2025 14:38:16 by Cédric Belin <cedx@outlook.com>
-
-A simple micro-ORM supporting MySQL, PostgreSQL, SQL Server and SQLite.
-
-__Downloads__: 37 | __Repository__: https://github.com/cedx/sql.ps1
 
 ## [ATAPAuditor](https://www.powershellgallery.com/Packages/ATAPAuditor/5.12.1) | 5.12.1
 
@@ -370,7 +426,7 @@ __Downloads__: 45 | __Repository__:
 
 Pure Storage FlashArray REST 2.45 API integration with Windows PowerShell.
 
-__Downloads__: 60,851 | __Repository__: https://github.com/PureStorage-Connect/PowerShellSDK2
+__Downloads__: 60,850 | __Repository__: https://github.com/PureStorage-Connect/PowerShellSDK2
 
 ## [CablersPowershellCore](https://www.powershellgallery.com/Packages/CablersPowershellCore/2.1.4) | 2.1.4
 
@@ -408,14 +464,6 @@ A completion manager for a better and simpler tab-completion experience in Power
   - Gitee:   https://gitee.com/abgox/PSCompletions
 
 __Downloads__: 85,729 | __Repository__: https://pscompletions.abgox.com/
-
-## [NCache.Azure](https://www.powershellgallery.com/Packages/NCache.Azure/1.0.12) | 1.0.12
-
-### Published: 11/19/2025 10:10:52 by Alachisoft
-
-The NCache Azure PowerShell Module simplifies managing NCache environments in Microsoft Azure. It lets you deploy, configure, license, monitor, and test distributed caches and clients through an easy-to-use set of PowerShell cmdlets
-
-__Downloads__: 91 | __Repository__: 
 
 ## [PSLogs](https://www.powershellgallery.com/Packages/PSLogs/5.6.1) | 5.6.1
 
@@ -896,7 +944,7 @@ __Downloads__: 13,073 | __Repository__: https://github.com/oracle/oci-powershell
 
 This modules provides Cmdlets for OCI Objectstorage Service
 
-__Downloads__: 22,791 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+__Downloads__: 22,787 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
 ## [OCI.PSModules.Nosql](https://www.powershellgallery.com/Packages/OCI.PSModules.Nosql/120.0.0) | 120.0.0
 
@@ -1160,7 +1208,7 @@ __Downloads__: 11,428 | __Repository__: https://github.com/oracle/oci-powershell
 
 This modules provides Cmdlets for OCI Identity Service
 
-__Downloads__: 23,150 | __Repository__: https://github.com/oracle/oci-powershell-modules/
+__Downloads__: 23,146 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
 ## [OCI.PSModules.Healthchecks](https://www.powershellgallery.com/Packages/OCI.PSModules.Healthchecks/120.0.0) | 120.0.0
 
@@ -1361,7 +1409,7 @@ __Downloads__: 12,164 | __Repository__: https://github.com/oracle/oci-powershell
 
 ACME protocol client for obtaining certificates using Let's Encrypt (or other ACME compliant CA)
 
-__Downloads__: 3,156,986 | __Repository__: https://github.com/rmbolger/Posh-ACME
+__Downloads__: 3,156,992 | __Repository__: https://github.com/rmbolger/Posh-ACME
 
 ## [OCI.PSModules.Desktops](https://www.powershellgallery.com/Packages/OCI.PSModules.Desktops/120.0.0) | 120.0.0
 
@@ -2000,52 +2048,4 @@ Functions for Active Directory
 
 __Downloads__: 196,386 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
-## [AsBuiltReport.Core](https://www.powershellgallery.com/Packages/AsBuiltReport.Core/1.5.1) | 1.5.1
-
-### Published: 11/18/2025 02:27:32 by Tim Carman
-
-A PowerShell module which provides the core framework for generating As-Built documentation for many common datacentre systems.
-
-__Downloads__: 232,086 | __Repository__: https://github.com/AsBuiltReport/AsBuiltReport.Core
-
-## [Celerium](https://www.powershellgallery.com/Packages/Celerium/1.6.0) | 1.6.0
-
-### Published: 11/18/2025 01:35:04 by David Schulte
-
-Celerium PowerShell - A collection of modules, functions, scripts, and more to help automate, audit, and manage your IT environment.
-
-__Downloads__: 55 | __Repository__: https://github.com/Celerium/Celerium-PowerShell
-
-## [Celerium.DattoRMM](https://www.powershellgallery.com/Packages/Celerium.DattoRMM/1.0.1) | 1.0.1
-
-### Published: 11/18/2025 01:30:37 by David Schulte
-
-This module provides a PowerShell wrapper for the DattoRMM API. Datto provides an Application Programming Interface (API) to enable programmatic access to information and operations available in Datto RMM.
-
-__Downloads__: 18 | __Repository__: https://github.com/Celerium/Celerium.DattoRMM
-
-## [Toolbox](https://www.powershellgallery.com/Packages/Toolbox/1.0.2) | 1.0.2
-
-### Published: 11/18/2025 00:29:47 by Zachary Shupp
-
-A robust PowerShell module for parallel remote task orchestration with runspaces, throttling, timeout controls, structured output, error aggregation, retry logic, and pluggable task framework.
-
-__Downloads__: 853 | __Repository__: https://github.com/zacharyshupp/Toolbox
-
-## [PSFramework](https://www.powershellgallery.com/Packages/PSFramework/1.13.418) | 1.13.418
-
-### Published: 11/17/2025 22:00:43 by Friedrich Weinmann
-
-General Scripting Framework, providing PowerShell-specific infrastructure for other modules.
-
-__Downloads__: 9,415,450 | __Repository__: http://psframework.org/
-
-## [Akamai](https://www.powershellgallery.com/Packages/Akamai/2.3.2) | 2.3.2
-
-### Published: 11/17/2025 21:51:21 by Akamai Technologies Ltd.
-
-Top-level manifest module to install all Akamai-related sub-modules.
-
-__Downloads__: 18,416 | __Repository__: https://github.com/akamai/powershell
-
-*Updated: Friday, 21 November 2025 09:52:23 UTC*
+*Updated: Friday, 21 November 2025 21:52:07 UTC*
