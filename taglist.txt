@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Saturday, 22 November 2025 09:52:20 UTC
+Updated: Saturday, 22 November 2025 21:52:20 UTC
 
 .bat
 .env
@@ -156,7 +156,6 @@ activitycount
 actor-model
 actors
 acumatica
-acumaticaerp
 ad
 ad_delegation
 ad_monitoring
@@ -363,6 +362,7 @@ amd
 amend
 ami
 amiga
+amp
 amqp
 amsi
 amt
@@ -434,7 +434,6 @@ apigateway
 apigee
 apigeeedge
 apimanagement
-apiplatform
 apis
 aplication
 apm
@@ -641,6 +640,7 @@ auth0
 authenticate
 authentication
 authenticationcertificate
+authenticationcontext
 authenticationstrength
 authenticode
 authn
@@ -1524,7 +1524,6 @@ cognitiveservice
 cognitiveservices
 cohere
 cohesity
-coinbase
 coinflip
 coinmarketcap
 collaboration
@@ -1842,7 +1841,6 @@ credmanager
 crescendo
 crescendobuilt
 cresendo
-crestron
 cricket
 crime
 critical
@@ -1862,7 +1860,6 @@ crt.sh
 crud
 crx
 crypto
-crypto-currency
 cryptocompare
 cryptocurrency
 cryptography
@@ -3066,6 +3063,7 @@ fleetsoftwareupdate
 flex
 flex-query
 flexdesk
+flexible
 flickr
 flowchart
 flowy
@@ -3226,7 +3224,6 @@ gdap
 gdpr
 gdrive
 gedit
-gem
 gemini
 geminiprotocol
 gemlog
@@ -3783,6 +3780,7 @@ identitycenter
 identitydataplane
 identitydirector
 identitydomains
+identitygovernance
 identitynow
 identitysecuritycloud
 idf
@@ -3874,8 +3872,11 @@ info
 infoblox
 informatica
 information
+information-technology
 informationbarriers
 informationprotection
+informationtechnology
+informationtechnologyoperations
 informix
 infosec
 infrastructure
@@ -3926,7 +3927,6 @@ instant
 instapush
 instorage
 insulinpump
-int
 intacct
 integrated
 integratedscriptingeditor
@@ -4483,7 +4483,6 @@ logger
 logging
 loggingingestion
 loggingsearch
-loggly
 logic
 logical-operators
 logicapp
@@ -4663,7 +4662,6 @@ marvellqlogicfcpowerkit
 mas
 mask
 mass
-massmail
 masstransit
 masterconfiguration
 match
@@ -4719,7 +4717,6 @@ mediaservices
 mediawiki
 meditation
 medlemsservice
-meesman
 meeting
 meetup
 meetup.com
@@ -5222,6 +5219,7 @@ nipkg
 nist
 nitrox
 nixos
+njclipsh
 nl
 nla
 nlm
@@ -5237,6 +5235,8 @@ nodejs
 nogit
 non-idiomatic
 non-volatile
+none
+noneimages
 noninteractive
 nopipelines
 noproxy
@@ -5246,6 +5246,7 @@ normal
 norskale
 norway
 norwegian
+nos
 nosql
 note
 notebook
@@ -5295,7 +5296,6 @@ nuget.exe
 nuget.org
 number
 numlock
-nummapper
 nunit
 nupkg
 nuspec
@@ -5367,6 +5367,7 @@ office2013
 office2016
 office2019
 office365
+office365managementapi
 officedev
 officegraph
 officemessageencryption
@@ -5519,7 +5520,6 @@ osbuildersus
 osd
 osdbuilder
 osdcloud
-osdcloud.michael
 osdeploy
 osdeployment
 osdprogress
@@ -5868,7 +5868,6 @@ pop3
 popd
 population
 popup
-popy
 port
 port70
 portal
@@ -5927,7 +5926,6 @@ poshy-wrap-docker
 poshy-wrap-docker-compose
 poshy-wrap-dotnet
 poshy-wrap-forgit
-poshy-wrap-gem
 poshy-wrap-gh
 poshy-wrap-git
 poshy-wrap-git-flow
@@ -6631,19 +6629,6 @@ pscommand_gdsth
 pscommand_gdstp
 pscommand_gdt
 pscommand_gdv
-pscommand_geca
-pscommand_gecb
-pscommand_geclup
-pscommand_gecr
-pscommand_gegi
-pscommand_geh
-pscommand_gei
-pscommand_geiall
-pscommand_gein
-pscommand_gel
-pscommand_geli
-pscommand_geo
-pscommand_geoe
 pscommand_get
 pscommand_get-aptinstalledpackages
 pscommand_get-childitemcolorfully
@@ -6711,7 +6696,6 @@ pscommand_get-netipaddresssimple
 pscommand_get-pwshaliasdefinition
 pscommand_get-pwshfunctiondefinition
 pscommand_get-viewer
-pscommand_geun
 pscommand_gexport
 pscommand_gf
 pscommand_gfa
@@ -6985,22 +6969,6 @@ pscommand_invoke-dockercomposeupdetached
 pscommand_invoke-dockercomposeupdetachedwithbuild
 pscommand_invoke-dockercomposeupnostart
 pscommand_invoke-dockercomposeupwithbuild
-pscommand_invoke-gemcertadd
-pscommand_invoke-gemcertbuild
-pscommand_invoke-gemcertremove
-pscommand_invoke-gemcleanupno
-pscommand_invoke-gemgenerateindex
-pscommand_invoke-gemhelp
-pscommand_invoke-geminfo
-pscommand_invoke-geminfoall
-pscommand_invoke-geminstall
-pscommand_invoke-gemlist
-pscommand_invoke-gemlock
-pscommand_invoke-gemopen
-pscommand_invoke-gemopeneditor
-pscommand_invoke-gemremovebypattern
-pscommand_invoke-gemsystem
-pscommand_invoke-gemuninstall
 pscommand_invoke-git
 pscommand_invoke-gitaddinteractivelypatch
 pscommand_invoke-gitbisect
@@ -7742,7 +7710,6 @@ pscommand_python3
 pscommand_rb
 pscommand_read-dotenv
 pscommand_register-argcompleteargumentcompleter
-pscommand_remove_gem
 pscommand_remove-dockercontainerall
 pscommand_remove-dockerunusedimage
 pscommand_remove-envpathitem
@@ -7802,7 +7769,6 @@ pscommand_set-locationup2
 pscommand_set-locationup3
 pscommand_set-locationup4
 pscommand_set-locationup5
-pscommand_sgem
 pscommand_show-gitremote
 pscommand_show-proxy
 pscommand_shttp
@@ -8063,7 +8029,6 @@ psfive9
 psfive9admin
 psflurl
 psfoldersize
-psframework
 psfunction__python3
 psfunction_aar
 psfunction_add_ssh
@@ -8401,22 +8366,6 @@ psfunction_invoke-dockercomposeupdetached
 psfunction_invoke-dockercomposeupdetachedwithbuild
 psfunction_invoke-dockercomposeupnostart
 psfunction_invoke-dockercomposeupwithbuild
-psfunction_invoke-gemcertadd
-psfunction_invoke-gemcertbuild
-psfunction_invoke-gemcertremove
-psfunction_invoke-gemcleanupno
-psfunction_invoke-gemgenerateindex
-psfunction_invoke-gemhelp
-psfunction_invoke-geminfo
-psfunction_invoke-geminfoall
-psfunction_invoke-geminstall
-psfunction_invoke-gemlist
-psfunction_invoke-gemlock
-psfunction_invoke-gemopen
-psfunction_invoke-gemopeneditor
-psfunction_invoke-gemremovebypattern
-psfunction_invoke-gemsystem
-psfunction_invoke-gemuninstall
 psfunction_invoke-git
 psfunction_invoke-gitaddinteractivelypatch
 psfunction_invoke-gitbisect
@@ -9101,6 +9050,7 @@ psgitlab
 psgraph
 psgraylog
 pshdhomerun
+pshost
 pshtml
 psidoit
 psidoitng
@@ -9595,6 +9545,7 @@ restart
 restaurant
 restful
 restore
+restrictive
 results
 resume
 retail
@@ -9608,6 +9559,7 @@ reverse-engineer
 reverse-string
 reversed-color-text
 reversedsc
+reverseengineering
 review
 revision
 reword
@@ -10568,6 +10520,7 @@ streaming
 streamreader
 streamwriter
 stretch
+strict
 strictmode
 strikethrough-text
 string
@@ -10804,6 +10757,7 @@ techdirect
 techedna2014
 techlog
 technicalanalysis
+technology
 techsmith
 tel
 telegram
@@ -10812,6 +10766,7 @@ telegram-bot-api
 telegram-sticker
 telegramx
 telemetry
+teletext
 telligent
 telnet
 temp
@@ -10845,6 +10800,8 @@ terminalservices
 terminalvelocity
 termset
 terraform
+terraform-docs
+terraform-switcher
 terraformcloud
 terrafun
 terragrunt
@@ -10903,6 +10860,7 @@ tflint
 tfs
 tfscmdlets
 tfsec
+tfswitch
 tftd
 tftp
 tfvars
@@ -11036,6 +10994,7 @@ transact
 transaction
 transactions
 transcode
+transcribe
 transcript
 transcripts
 transform
@@ -11421,7 +11380,6 @@ vencord
 vendor
 vendorpam
 venue
-venv
 venvlink
 vera
 veracrypt
@@ -11619,7 +11577,6 @@ warrenty
 wasabi
 watch
 watchdog
-watchguard
 watchmen
 watery
 wave
@@ -12042,6 +11999,7 @@ ynab
 yokohama
 youtube
 youtube-dl
+youtube-transcript
 youtubeextractor
 yq
 yts

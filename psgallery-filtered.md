@@ -3,6 +3,47 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [EasyGUI](https://www.powershellgallery.com/Packages/EasyGUI/1.1.0) | 1.1.0
+
+### Published: 11/22/2025 17:17:43 by SercretProgrammer
+
+EasyGUI is a lightweight PowerShell module for quickly creating graphical user interfaces (GUIs). It provides simple, easy-to-use functions for creating windows, buttons, input boxes, dropdowns, radio buttons, tabs, and more, without requiring deep knowledge of WPF or WinForms. Designed for simplicity and rapid development, EasyGUI lets PowerShell users build GUIs efficiently for scripts, tools, or utilities.
+
+__Downloads__: 0 | __Repository__: https://github.com/SercretProgrammer/EasyGUI
+
+## [OSD](https://www.powershellgallery.com/Packages/OSD/25.11.22.3) | 25.11.22.3
+
+### Published: 11/22/2025 17:07:10 by David Segura . Gary Blok . Michael Escamilla
+
+OSD PowerShell Module for Windows Deployment
+
+__Downloads__: 5,615,575 | __Repository__: https://github.com/OSDeploy/OSD
+
+## [Devdeer.Caf](https://www.powershellgallery.com/Packages/Devdeer.Caf/0.22.2) | 0.22.2
+
+### Published: 11/22/2025 16:43:35 by DEVDEER
+
+This module contains the functions to manage and prepare Azure Tenants in a CAF conform way.
+
+__Downloads__: 3,542 | __Repository__: https://docs.devdeer.io/caf/devdeer-caf-overview.html
+
+## [ThirdPartyLibraries](https://www.powershellgallery.com/Packages/ThirdPartyLibraries/3.10.0) | 3.10.0
+
+### Published: 11/22/2025 16:08:44 by Max Ieremenko
+
+This module helps to manage third party libraries and their licenses in .net applications.
+PowerShell versions: core 7.2+.
+
+__Downloads__: 1,795 | __Repository__: https://github.com/max-ieremenko/ThirdPartyLibraries
+
+## [POSH-ADO-NugetArtefact](https://www.powershellgallery.com/Packages/POSH-ADO-NugetArtefact/0.5.6) | 0.5.6
+
+### Published: 11/22/2025 14:23:13 by LCU
+
+a few cmdlets to manage your ADO Artifact Nuget Packages and feed from PowerShell
+
+__Downloads__: 17 | __Repository__: https://github.com/MS-LUF/POSH-ADO-NugetArtefact
+
 ## [PSCompletions](https://www.powershellgallery.com/Packages/PSCompletions/6.0.0) | 6.0.0
 
 ### Published: 11/22/2025 08:02:15 by abgox
@@ -13,7 +54,7 @@ A completion manager for a better and simpler tab-completion experience in Power
   - Github:  https://github.com/abgox/PSCompletions
   - Gitee:   https://gitee.com/abgox/PSCompletions
 
-__Downloads__: 85,892 | __Repository__: https://pscompletions.abgox.com/
+__Downloads__: 85,891 | __Repository__: https://pscompletions.abgox.com/
 
 ## [PowerQualys](https://www.powershellgallery.com/Packages/PowerQualys/0.4.0) | 0.4.0
 
@@ -30,14 +71,6 @@ __Downloads__: 125 | __Repository__: https://github.com/EvotecIT/PowerQualys
 Quandis Infrastructure Management, including publishing of qbo databases and websites.
 
 __Downloads__: 1,704 | __Repository__: https://dev.azure.com/quandis/qbo4/_git/qbo4.Infrastructure
-
-## [OSD](https://www.powershellgallery.com/Packages/OSD/25.11.22.1) | 25.11.22.1
-
-### Published: 11/22/2025 05:08:17 by David Segura . Gary Blok . Michael Escamilla
-
-OSD PowerShell Module for Windows Deployment
-
-__Downloads__: 5,615,595 | __Repository__: https://github.com/OSDeploy/OSD
 
 ## [SqlServer-Version-Management](https://www.powershellgallery.com/Packages/SqlServer-Version-Management/2.1.129) | 2.1.129
 
@@ -84,7 +117,7 @@ __Downloads__: 154 | __Repository__: https://github.com/EldoBam/pve-powershell-m
 
 Interact with GitLab via PowerShell
 
-__Downloads__: 27,620 | __Repository__: https://github.com/chris-peterson/pwsh-gitlab
+__Downloads__: 27,622 | __Repository__: https://github.com/chris-peterson/pwsh-gitlab
 
 ## [Logic.Monitor](https://www.powershellgallery.com/Packages/Logic.Monitor/7.7.2) | 7.7.2
 
@@ -306,7 +339,7 @@ __Downloads__: 169 | __Repository__: https://github.com/Apteco/AptecoPSModules/t
 
 Module to bootstrap amd support Sopra Steria Norway RightCloud private Powershell Gallery.
 
-__Downloads__: 93,938 | __Repository__: https://gitlab.com/rightcloud/rcpsgallery
+__Downloads__: 93,932 | __Repository__: https://gitlab.com/rightcloud/rcpsgallery
 
 ## [EntraAuth.Graph.Application](https://www.powershellgallery.com/Packages/EntraAuth.Graph.Application/1.1.9) | 1.1.9
 
@@ -338,7 +371,7 @@ __Downloads__: 29,237 | __Repository__: https://github.com/fbprogmbh/Audit-Test-
 
 A module for simplifying the process of getting an access token from Entra ID
 
-__Downloads__: 32,676 | __Repository__: https://github.com/fortytwoservices/powershell-module-entraidaccesstoken
+__Downloads__: 32,668 | __Repository__: https://github.com/fortytwoservices/powershell-module-entraidaccesstoken
 
 ## [RelaxedIT.3rdParty](https://www.powershellgallery.com/Packages/RelaxedIT.3rdParty/0.0.87) | 0.0.87
 
@@ -396,14 +429,6 @@ A PowerShell module for downloading files.
 
 __Downloads__: 2,163 | __Repository__: https://github.com/DanGough/PsDownload
 
-## [Devdeer.Caf](https://www.powershellgallery.com/Packages/Devdeer.Caf/0.22.0) | 0.22.0
-
-### Published: 11/20/2025 10:19:34 by DEVDEER
-
-This module contains the functions to manage and prepare Azure Tenants in a CAF conform way.
-
-__Downloads__: 3,542 | __Repository__: https://docs.devdeer.io/caf/devdeer-caf-overview.html
-
 ## [Gordon](https://www.powershellgallery.com/Packages/Gordon/4.0.16) | 4.0.16
 
 ### Published: 11/20/2025 07:53:02 by EOS Solutions
@@ -418,7 +443,7 @@ __Downloads__: 612 | __Repository__: https://eos-solutions.github.io/Gordon
 
 Module for PowerShell Universal.
 
-__Downloads__: 357,483 | __Repository__: https://ironmansoftware.com/powershell-universal
+__Downloads__: 357,484 | __Repository__: https://ironmansoftware.com/powershell-universal
 
 ## [PSCommercetools.Provider](https://www.powershellgallery.com/Packages/PSCommercetools.Provider/0.0.4) | 0.0.4
 
@@ -518,7 +543,7 @@ __Downloads__: 19 | __Repository__:
 
 The community module that enables SQL Server Pros to automate database development and server administration
 
-__Downloads__: 7,681,276 | __Repository__: https://dbatools.io/
+__Downloads__: 7,681,225 | __Repository__: https://dbatools.io/
 
 ## [Meraki](https://www.powershellgallery.com/Packages/Meraki/1.1.3) | 1.1.3
 
@@ -1432,7 +1457,7 @@ __Downloads__: 12,166 | __Repository__: https://github.com/oracle/oci-powershell
 
 ACME protocol client for obtaining certificates using Let's Encrypt (or other ACME compliant CA)
 
-__Downloads__: 3,158,315 | __Repository__: https://github.com/rmbolger/Posh-ACME
+__Downloads__: 3,158,316 | __Repository__: https://github.com/rmbolger/Posh-ACME
 
 ## [OCI.PSModules.Desktops](https://www.powershellgallery.com/Packages/OCI.PSModules.Desktops/120.0.0) | 120.0.0
 
@@ -1770,14 +1795,6 @@ This modules provides Cmdlets for OCI Apmconfig Service
 
 __Downloads__: 12,680 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-## [OCI.PSModules.Apiplatform](https://www.powershellgallery.com/Packages/OCI.PSModules.Apiplatform/120.0.0) | 120.0.0
-
-### Published: 11/18/2025 18:33:30 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Apiplatform Service
-
-__Downloads__: 821 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
 ## [OCI.PSModules.Apigateway](https://www.powershellgallery.com/Packages/OCI.PSModules.Apigateway/120.0.0) | 120.0.0
 
 ### Published: 11/18/2025 18:33:20 by Oracle Cloud Infrastructure
@@ -1965,7 +1982,7 @@ __Downloads__: 27,143 | __Repository__: https://github.com/CiscoDevNet/intersigh
 
 Master module for a collection of modules. These modules are varied in their tasks. The overall purpose of them being to provide a powerfull Toolset to improve IT Admin workflows.
 
-__Downloads__: 131,619 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox
+__Downloads__: 131,620 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox
 
 ## [AdminToolbox.SecOps](https://www.powershellgallery.com/Packages/AdminToolbox.SecOps/1.5.0.39) | 1.5.0.39
 
@@ -1989,7 +2006,7 @@ __Downloads__: 117,172 | __Repository__: https://github.com/TheTaylorLee/AdminTo
 
 Functions to Automate Bulk VMWare Tasks
 
-__Downloads__: 125,100 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 125,101 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.Remoting](https://www.powershellgallery.com/Packages/AdminToolbox.Remoting/1.10.2.1) | 1.10.2.1
 
@@ -1997,7 +2014,7 @@ __Downloads__: 125,100 | __Repository__: https://github.com/TheTaylorLee/AdminTo
 
 Functions for remote management and access.
 
-__Downloads__: 124,855 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 124,856 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.Office365](https://www.powershellgallery.com/Packages/AdminToolbox.Office365/5.4.1.18) | 5.4.1.18
 
@@ -2021,7 +2038,7 @@ __Downloads__: 355,362 | __Repository__: https://github.com/TheTaylorLee/AdminTo
 
 Microsoft Graph interactive API Functions
 
-__Downloads__: 110,457 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 110,458 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [AdminToolbox.Fun](https://www.powershellgallery.com/Packages/AdminToolbox.Fun/1.7.0.93) | 1.7.0.93
 
@@ -2029,22 +2046,6 @@ __Downloads__: 110,457 | __Repository__: https://github.com/TheTaylorLee/AdminTo
 
 Functions that have no purpose
 
-__Downloads__: 126,493 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+__Downloads__: 126,494 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
-## [AdminToolbox.FileManagement](https://www.powershellgallery.com/Packages/AdminToolbox.FileManagement/1.18.0.11) | 1.18.0.11
-
-### Published: 11/18/2025 03:23:26 by Taylor Lee
-
-File Management Functions
-
-__Downloads__: 159,032 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-## [AdminToolbox.FFTools](https://www.powershellgallery.com/Packages/AdminToolbox.FFTools/4.17.0.93) | 4.17.0.93
-
-### Published: 11/18/2025 03:23:21 by Taylor Lee
-
-Expedite simple ffmpeg actions
-
-__Downloads__: 231,486 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-*Updated: Saturday, 22 November 2025 09:52:11 UTC*
+*Updated: Saturday, 22 November 2025 21:52:11 UTC*
