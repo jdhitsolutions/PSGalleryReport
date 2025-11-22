@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Friday, 21 November 2025 21:52:16 UTC
+Updated: Saturday, 22 November 2025 09:52:20 UTC
 
 .bat
 .env
@@ -156,6 +156,7 @@ activitycount
 actor-model
 actors
 acumatica
+acumaticaerp
 ad
 ad_delegation
 ad_monitoring
@@ -264,6 +265,8 @@ afd
 affinity
 affinity-co
 affinity-crm
+after-effects
+aftereffects
 agenda
 agent
 aggregates
@@ -360,7 +363,6 @@ amd
 amend
 ami
 amiga
-amp
 amqp
 amsi
 amt
@@ -400,6 +402,7 @@ ansible-control-node
 ansible-playbook
 ansible-vault
 ansiblecontrolnode
+ansiblectl
 ansibletower
 anthropic
 anti-idle
@@ -638,7 +641,6 @@ auth0
 authenticate
 authentication
 authenticationcertificate
-authenticationcontext
 authenticationstrength
 authenticode
 authn
@@ -666,6 +668,7 @@ autohotkey
 autolabeling
 autoload
 autologon
+automai
 automanage
 automate
 automated
@@ -856,6 +859,7 @@ azurestackhub
 azurestate
 azurestorage
 azurestorageservices
+azuresync
 azuretable
 azuretestplan
 azurevirtualdesktop
@@ -1899,6 +1903,7 @@ currency-exchange
 currencyconverterapi
 current
 curseforge
+cursor
 custom
 customchecks
 customdns
@@ -2854,6 +2859,7 @@ extendedgroups
 extendedkeyusage
 extendedproperties
 extendedproperty
+extendscript
 extensibility
 extension
 extensionmethods
@@ -2959,6 +2965,7 @@ file-type-association
 fileattributes
 fileencryption
 fileexplorer
+filelist
 filelog
 filelogger
 filemaintenance
@@ -3059,7 +3066,6 @@ fleetsoftwareupdate
 flex
 flex-query
 flexdesk
-flexible
 flickr
 flowchart
 flowy
@@ -3185,6 +3191,7 @@ funny
 fusion
 fusionapps
 fuzzy
+fuzzy-search
 fyi
 fzf
 gac
@@ -3776,7 +3783,6 @@ identitycenter
 identitydataplane
 identitydirector
 identitydomains
-identitygovernance
 identitynow
 identitysecuritycloud
 idf
@@ -3868,11 +3874,8 @@ info
 infoblox
 informatica
 information
-information-technology
 informationbarriers
 informationprotection
-informationtechnology
-informationtechnologyoperations
 informix
 infosec
 infrastructure
@@ -4047,6 +4050,7 @@ iso-8601
 ispac
 isprime
 ispss
+issues
 isvalidemail
 isvalidip
 it
@@ -4479,6 +4483,7 @@ logger
 logging
 loggingingestion
 loggingsearch
+loggly
 logic
 logical-operators
 logicapp
@@ -4819,6 +4824,8 @@ microsoftsentinel
 microsoftstaffhub
 microsoftstore
 microsoftteams
+microsoftteamsdevices
+microsoftteamsphone
 microsoftupdate
 microsoftword
 middleware
@@ -5215,7 +5222,6 @@ nipkg
 nist
 nitrox
 nixos
-njclipsh
 nl
 nla
 nlm
@@ -5231,8 +5237,6 @@ nodejs
 nogit
 non-idiomatic
 non-volatile
-none
-noneimages
 noninteractive
 nopipelines
 noproxy
@@ -5242,7 +5246,6 @@ normal
 norskale
 norway
 norwegian
-nos
 nosql
 note
 notebook
@@ -5364,7 +5367,6 @@ office2013
 office2016
 office2019
 office365
-office365managementapi
 officedev
 officegraph
 officemessageencryption
@@ -5517,6 +5519,7 @@ osbuildersus
 osd
 osdbuilder
 osdcloud
+osdcloud.michael
 osdeploy
 osdeployment
 osdprogress
@@ -6153,6 +6156,7 @@ progressbar
 progressbars
 project
 project-management
+project-manager
 projectmanagement
 projectreunion
 projects
@@ -9097,7 +9101,6 @@ psgitlab
 psgraph
 psgraylog
 pshdhomerun
-pshost
 pshtml
 psidoit
 psidoitng
@@ -9592,7 +9595,6 @@ restart
 restaurant
 restful
 restore
-restrictive
 results
 resume
 retail
@@ -9606,7 +9608,6 @@ reverse-engineer
 reverse-string
 reversed-color-text
 reversedsc
-reverseengineering
 review
 revision
 reword
@@ -10043,6 +10044,7 @@ serviceplan
 servicepointmanager
 serviceprincipal
 services
+servicestatus
 servicestore
 servicing
 servicingstack
@@ -10401,6 +10403,7 @@ sqlbulkcopy
 sqlchangeautomation
 sqlclient
 sqlcmd
+sqlcodeguard
 sqldatabase
 sqldb
 sqldbatools
@@ -10565,7 +10568,6 @@ streaming
 streamreader
 streamwriter
 stretch
-strict
 strictmode
 strikethrough-text
 string
@@ -10792,13 +10794,16 @@ teamfoundationserver
 teams
 teamsdevices
 teamservices
+teamsphones
+teamsphonesoftwareupdate
+teamsphonessoftwareupdates
+teamsphoneupdatesoftware
 teamspolicy
 teamviewer
 techdirect
 techedna2014
 techlog
 technicalanalysis
-technology
 techsmith
 tel
 telegram
@@ -10807,7 +10812,6 @@ telegram-bot-api
 telegram-sticker
 telegramx
 telemetry
-teletext
 telligent
 telnet
 temp
@@ -10841,8 +10845,6 @@ terminalservices
 terminalvelocity
 termset
 terraform
-terraform-docs
-terraform-switcher
 terraformcloud
 terrafun
 terragrunt
@@ -10901,7 +10903,6 @@ tflint
 tfs
 tfscmdlets
 tfsec
-tfswitch
 tftd
 tftp
 tfvars
@@ -11035,7 +11036,6 @@ transact
 transaction
 transactions
 transcode
-transcribe
 transcript
 transcripts
 transform
@@ -11097,6 +11097,7 @@ ts
 tsa
 tsd
 tsheets
+tsqlbestpractice
 tst
 tst1
 tst3
@@ -12041,7 +12042,6 @@ ynab
 yokohama
 youtube
 youtube-dl
-youtube-transcript
 youtubeextractor
 yq
 yts
