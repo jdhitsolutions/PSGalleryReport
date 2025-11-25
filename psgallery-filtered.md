@@ -3,6 +3,182 @@
 
 These are the latest 250 modules published to the [PowerShell Gallery](https://powershellgallery.org). Azure and AWS modules published by Microsoft and Amazon have been __excluded__ from this report. The newest modules are listed first. Use `Import-Module` to install them or check the online repository for more information.
 
+## [PurviewDLP](https://www.powershellgallery.com/Packages/PurviewDLP/0.1.2) | 0.1.2
+
+### Published: 11/25/2025 09:40:42 by uniQuk
+
+PowerShell module for managing Microsoft Purview DLP policies including export, update, restore, and reporting capabilities.
+
+__Downloads__: 8 | __Repository__: https://github.com/uniQuk/PurviewDLP
+
+## [NCache.Azure](https://www.powershellgallery.com/Packages/NCache.Azure/1.0.14) | 1.0.14
+
+### Published: 11/25/2025 09:37:37 by Alachisoft
+
+The NCache Azure PowerShell Module simplifies managing NCache environments in Microsoft Azure. It lets you deploy, configure, license, monitor, and test distributed caches and clients through an easy-to-use set of PowerShell cmdlets
+
+__Downloads__: 98 | __Repository__: 
+
+## [qbo4.Infrastructure](https://www.powershellgallery.com/Packages/qbo4.Infrastructure/1.0.21.61) | 1.0.21.61
+
+### Published: 11/25/2025 06:27:34 by Quandis Inc.
+
+Quandis Infrastructure Management, including publishing of qbo databases and websites.
+
+__Downloads__: 1,708 | __Repository__: https://dev.azure.com/quandis/qbo4/_git/qbo4.Infrastructure
+
+## [OSD](https://www.powershellgallery.com/Packages/OSD/25.11.25.1) | 25.11.25.1
+
+### Published: 11/25/2025 05:08:26 by David Segura . Gary Blok . Michael Escamilla
+
+OSD PowerShell Module for Windows Deployment
+
+__Downloads__: 5,624,041 | __Repository__: https://github.com/OSDeploy/OSD
+
+## [Eigenverft.Manifested.Drydock](https://www.powershellgallery.com/Packages/Eigenverft.Manifested.Drydock/0.20256.49856) | 0.20256.49856
+
+### Published: 11/25/2025 04:51:02 by Eigenverft
+
+A comprehensive PowerShell module providing automation and deployment tools for the Eigenverft Manifested Drydock environment. Features include Git operations, .NET project handling, process management, scheduled tasks, logging, and IO operations. Optimized for lightning-fast iteration with built-in auto-versioning and seamless local/CI/CD workflow integration. Supports both PowerShell Desktop and Core editions, ensuring consistent behavior across development and deployment environments. For CI/CD examples, see https://github.com/eigenverft/Eigenverft.Manifested.Drydock/blob/main/.github/workflows/cicd.ps1.
+
+__Downloads__: 1,924 | __Repository__: https://github.com/eigenverft/Eigenverft.Manifested.Drydock
+
+## [AdminToolbox](https://www.powershellgallery.com/Packages/AdminToolbox/12.0.0.54) | 12.0.0.54
+
+### Published: 11/25/2025 03:29:13 by Taylor Lee
+
+Master module for a collection of modules. These modules are varied in their tasks. The overall purpose of them being to provide a powerfull Toolset to improve IT Admin workflows.
+
+__Downloads__: 131,628 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox
+
+## [AdminToolbox.SecOps](https://www.powershellgallery.com/Packages/AdminToolbox.SecOps/1.5.0.41) | 1.5.0.41
+
+### Published: 11/25/2025 03:27:56 by Taylor Lee
+
+Functions for Security Operations and Investigations
+
+__Downloads__: 5,873 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [AdminToolbox.FortiWizard](https://www.powershellgallery.com/Packages/AdminToolbox.FortiWizard/2.22.0.66) | 2.22.0.66
+
+### Published: 11/25/2025 03:27:51 by Taylor Lee
+
+Functions that generate configuration scripts and manage FortiOS.
+
+__Downloads__: 117,183 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [AdminToolbox.VMWareAutomate](https://www.powershellgallery.com/Packages/AdminToolbox.VMWareAutomate/4.9.0.95) | 4.9.0.95
+
+### Published: 11/25/2025 03:26:45 by Taylor Lee
+
+Functions to Automate Bulk VMWare Tasks
+
+__Downloads__: 125,112 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [AdminToolbox.Remoting](https://www.powershellgallery.com/Packages/AdminToolbox.Remoting/1.10.2.3) | 1.10.2.3
+
+### Published: 11/25/2025 03:26:40 by Taylor Lee
+
+Functions for remote management and access.
+
+__Downloads__: 124,870 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [AdminToolbox.Office365](https://www.powershellgallery.com/Packages/AdminToolbox.Office365/5.4.1.20) | 5.4.1.20
+
+### Published: 11/25/2025 03:26:35 by Taylor Lee
+
+Functions for working with Office365 and Azure modules
+
+__Downloads__: 138,774 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [AdminToolbox.Networking](https://www.powershellgallery.com/Packages/AdminToolbox.Networking/2.24.0.12) | 2.24.0.12
+
+### Published: 11/25/2025 03:26:29 by Taylor Lee
+
+Network Troubleshooting Functions
+
+__Downloads__: 355,976 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [AdminToolbox.MSGraph](https://www.powershellgallery.com/Packages/AdminToolbox.MSGraph/1.5.0.92) | 1.5.0.92
+
+### Published: 11/25/2025 03:26:24 by Taylor Lee
+
+Microsoft Graph interactive API Functions
+
+__Downloads__: 110,469 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [AdminToolbox.Fun](https://www.powershellgallery.com/Packages/AdminToolbox.Fun/1.7.0.95) | 1.7.0.95
+
+### Published: 11/25/2025 03:26:19 by Taylor Lee
+
+Functions that have no purpose
+
+__Downloads__: 126,504 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [AdminToolbox.FileManagement](https://www.powershellgallery.com/Packages/AdminToolbox.FileManagement/1.19.0.3) | 1.19.0.3
+
+### Published: 11/25/2025 03:26:14 by Taylor Lee
+
+File Management Functions
+
+__Downloads__: 159,048 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [AdminToolbox.FFTools](https://www.powershellgallery.com/Packages/AdminToolbox.FFTools/4.17.0.95) | 4.17.0.95
+
+### Published: 11/25/2025 03:26:09 by Taylor Lee
+
+Expedite simple ffmpeg actions
+
+__Downloads__: 231,499 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [AdminToolbox.Exchange](https://www.powershellgallery.com/Packages/AdminToolbox.Exchange/1.10.0.95) | 1.10.0.95
+
+### Published: 11/25/2025 03:26:04 by Taylor Lee
+
+Functions for Exchange Management
+
+__Downloads__: 191,074 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [AdminToolbox.EndpointManagement](https://www.powershellgallery.com/Packages/AdminToolbox.EndpointManagement/4.15.1.22) | 4.15.1.22
+
+### Published: 11/25/2025 03:25:58 by Taylor Lee
+
+Functions for management of endpoints
+
+__Downloads__: 179,167 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [AdminToolbox.ActiveDirectory](https://www.powershellgallery.com/Packages/AdminToolbox.ActiveDirectory/1.12.0.57) | 1.12.0.57
+
+### Published: 11/25/2025 03:25:52 by Taylor Lee
+
+Functions for Active Directory
+
+__Downloads__: 196,403 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
+
+## [ClickupAPI](https://www.powershellgallery.com/Packages/ClickupAPI/0.1.1.2) | 0.1.1.2
+
+### Published: 11/25/2025 00:53:59 by Andrea Mastellone
+
+ClickUp API Wrapper
+
+__Downloads__: 74 | __Repository__: 
+
+## [K.PSGallery.Smartagr](https://www.powershellgallery.com/Packages/K.PSGallery.Smartagr/0.1.42) | 0.1.42
+
+### Published: 11/25/2025 00:48:34 by 1d70f
+
+Smart Git Tag Management with Semantic Versioning Intelligence. Automatically creates and manages Git tags with sophisticated version progression logic, smart tag intelligence, and moving tag management.
+
+__Downloads__: 30 | __Repository__: https://github.com/GrexyLoco/K.PSGallery.Smartagr
+
+## [K.PSGallery.ManifestVersioning](https://www.powershellgallery.com/Packages/K.PSGallery.ManifestVersioning/0.0.8) | 0.0.8
+
+### Published: 11/25/2025 00:01:52 by GrexyLoco
+
+PowerShell module for updating module manifest (.psd1) versions with Git integration
+
+__Downloads__: 10 | __Repository__: https://github.com/GrexyLoco/K.PSGallery.ManifestVersioning
+
 ## [HVTools](https://www.powershellgallery.com/Packages/HVTools/1.0.37) | 1.0.37
 
 ### Published: 11/24/2025 20:24:14 by Leif Almberg
@@ -73,15 +249,7 @@ __Downloads__: 2,206 | __Repository__: https://github.com/sytone/devopscommands
 
 Client for the Windmill platform.
 
-__Downloads__: 12,057 | __Repository__: https://github.com/windmill-labs/windmill/tree/main/powershell-client
-
-## [OSD](https://www.powershellgallery.com/Packages/OSD/25.11.24.3) | 25.11.24.3
-
-### Published: 11/24/2025 17:08:01 by David Segura . Gary Blok . Michael Escamilla
-
-OSD PowerShell Module for Windows Deployment
-
-__Downloads__: 5,623,656 | __Repository__: https://github.com/OSDeploy/OSD
+__Downloads__: 12,056 | __Repository__: https://github.com/windmill-labs/windmill/tree/main/powershell-client
 
 ## [CleanupMonster](https://www.powershellgallery.com/Packages/CleanupMonster/3.1.7) | 3.1.7
 
@@ -90,118 +258,6 @@ __Downloads__: 5,623,656 | __Repository__: https://github.com/OSDeploy/OSD
 This module provides an easy way to cleanup Active Directory from dead/old objects based on various criteria. It can also disable, move or delete objects. It can utilize Azure AD, Intune and Jamf to get additional information about objects before deleting them.
 
 __Downloads__: 25,100 | __Repository__: https://github.com/EvotecIT/CleanupMonster
-
-## [AdminToolbox](https://www.powershellgallery.com/Packages/AdminToolbox/12.0.0.53) | 12.0.0.53
-
-### Published: 11/24/2025 15:51:32 by Taylor Lee
-
-Master module for a collection of modules. These modules are varied in their tasks. The overall purpose of them being to provide a powerfull Toolset to improve IT Admin workflows.
-
-__Downloads__: 131,628 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox
-
-## [AdminToolbox.SecOps](https://www.powershellgallery.com/Packages/AdminToolbox.SecOps/1.5.0.40) | 1.5.0.40
-
-### Published: 11/24/2025 15:50:16 by Taylor Lee
-
-Functions for Security Operations and Investigations
-
-__Downloads__: 5,873 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-## [AdminToolbox.FortiWizard](https://www.powershellgallery.com/Packages/AdminToolbox.FortiWizard/2.22.0.65) | 2.22.0.65
-
-### Published: 11/24/2025 15:50:12 by Taylor Lee
-
-Functions that generate configuration scripts and manage FortiOS.
-
-__Downloads__: 117,183 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-## [AdminToolbox.VMWareAutomate](https://www.powershellgallery.com/Packages/AdminToolbox.VMWareAutomate/4.9.0.94) | 4.9.0.94
-
-### Published: 11/24/2025 15:49:05 by Taylor Lee
-
-Functions to Automate Bulk VMWare Tasks
-
-__Downloads__: 125,112 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-## [AdminToolbox.Remoting](https://www.powershellgallery.com/Packages/AdminToolbox.Remoting/1.10.2.2) | 1.10.2.2
-
-### Published: 11/24/2025 15:48:58 by Taylor Lee
-
-Functions for remote management and access.
-
-__Downloads__: 124,870 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-## [AdminToolbox.Office365](https://www.powershellgallery.com/Packages/AdminToolbox.Office365/5.4.1.19) | 5.4.1.19
-
-### Published: 11/24/2025 15:48:52 by Taylor Lee
-
-Functions for working with Office365 and Azure modules
-
-__Downloads__: 138,774 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-## [AdminToolbox.Networking](https://www.powershellgallery.com/Packages/AdminToolbox.Networking/2.24.0.11) | 2.24.0.11
-
-### Published: 11/24/2025 15:48:46 by Taylor Lee
-
-Network Troubleshooting Functions
-
-__Downloads__: 355,976 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-## [AdminToolbox.MSGraph](https://www.powershellgallery.com/Packages/AdminToolbox.MSGraph/1.5.0.91) | 1.5.0.91
-
-### Published: 11/24/2025 15:48:39 by Taylor Lee
-
-Microsoft Graph interactive API Functions
-
-__Downloads__: 110,469 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-## [AdminToolbox.Fun](https://www.powershellgallery.com/Packages/AdminToolbox.Fun/1.7.0.94) | 1.7.0.94
-
-### Published: 11/24/2025 15:48:32 by Taylor Lee
-
-Functions that have no purpose
-
-__Downloads__: 126,504 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-## [AdminToolbox.FileManagement](https://www.powershellgallery.com/Packages/AdminToolbox.FileManagement/1.19.0.1) | 1.19.0.1
-
-### Published: 11/24/2025 15:48:24 by Taylor Lee
-
-File Management Functions
-
-__Downloads__: 159,048 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-## [AdminToolbox.FFTools](https://www.powershellgallery.com/Packages/AdminToolbox.FFTools/4.17.0.94) | 4.17.0.94
-
-### Published: 11/24/2025 15:48:18 by Taylor Lee
-
-Expedite simple ffmpeg actions
-
-__Downloads__: 231,499 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-## [AdminToolbox.Exchange](https://www.powershellgallery.com/Packages/AdminToolbox.Exchange/1.10.0.94) | 1.10.0.94
-
-### Published: 11/24/2025 15:48:13 by Taylor Lee
-
-Functions for Exchange Management
-
-__Downloads__: 191,074 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-## [AdminToolbox.EndpointManagement](https://www.powershellgallery.com/Packages/AdminToolbox.EndpointManagement/4.15.1.21) | 4.15.1.21
-
-### Published: 11/24/2025 15:48:06 by Taylor Lee
-
-Functions for management of endpoints
-
-__Downloads__: 179,167 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
-
-## [AdminToolbox.ActiveDirectory](https://www.powershellgallery.com/Packages/AdminToolbox.ActiveDirectory/1.12.0.56) | 1.12.0.56
-
-### Published: 11/24/2025 15:48:00 by Taylor Lee
-
-Functions for Active Directory
-
-__Downloads__: 196,403 | __Repository__: https://github.com/TheTaylorLee/AdminToolbox/
 
 ## [OdmApi](https://www.powershellgallery.com/Packages/OdmApi/2.1.304) | 2.1.304
 
@@ -293,7 +349,7 @@ A completion manager for a better and simpler tab-completion experience in Power
   - Github:  https://github.com/abgox/PSCompletions
   - Gitee:   https://gitee.com/abgox/PSCompletions
 
-__Downloads__: 86,240 | __Repository__: https://pscompletions.abgox.com/
+__Downloads__: 86,243 | __Repository__: https://pscompletions.abgox.com/
 
 ## [PSSharedGoods](https://www.powershellgallery.com/Packages/PSSharedGoods/0.0.312) | 0.0.312
 
@@ -301,7 +357,15 @@ __Downloads__: 86,240 | __Repository__: https://pscompletions.abgox.com/
 
 Module covering functions that are shared within multiple projects
 
-__Downloads__: 654,454 | __Repository__: https://github.com/EvotecIT/PSSharedGoods
+__Downloads__: 654,466 | __Repository__: https://github.com/EvotecIT/PSSharedGoods
+
+## [PsAstViewer](https://www.powershellgallery.com/Packages/PsAstViewer/1.0.6) | 1.0.6
+
+### Published: 11/23/2025 09:13:49 by Maxim Zaytsev
+
+A graphical viewer and explorer for PowerShell Abstract Syntax Trees (AST)
+
+__Downloads__: 33 | __Repository__: https://github.com/Krinopotam/PsAstViewer
 
 ## [EasyGUI](https://www.powershellgallery.com/Packages/EasyGUI/1.2.0) | 1.2.0
 
@@ -376,14 +440,6 @@ Helper module for Qualys
 
 __Downloads__: 129 | __Repository__: https://github.com/EvotecIT/PowerQualys
 
-## [qbo4.Infrastructure](https://www.powershellgallery.com/Packages/qbo4.Infrastructure/1.0.21.60) | 1.0.21.60
-
-### Published: 11/22/2025 06:44:37 by Quandis Inc.
-
-Quandis Infrastructure Management, including publishing of qbo databases and websites.
-
-__Downloads__: 1,708 | __Repository__: https://dev.azure.com/quandis/qbo4/_git/qbo4.Infrastructure
-
 ## [SqlServer-Version-Management](https://www.powershellgallery.com/Packages/SqlServer-Version-Management/2.1.129) | 2.1.129
 
 ### Published: 11/22/2025 03:56:24 by devizer
@@ -453,7 +509,7 @@ __Downloads__: 2,205 | __Repository__:
 
 The Devolutions.PowerShell module is a set of cmdlets that allow administrators to manage Remote Desktop Manager, Devolutions Server and Devolutions Hub Business using PowerShell. This module provides a simple and consistent interface for interacting with these products, making it easy to automate various tasks, such as creating and managing connections, sessions, and credentials, configuring security settings, and generating reports. The module can be easily integrated with other PowerShell modules, allowing administrators to automate tasks across multiple products and platforms, streamline their workflows and increase efficiency.
 
-__Downloads__: 458,341 | __Repository__: https://devolutions.net/
+__Downloads__: 458,342 | __Repository__: https://devolutions.net/
 
 ## [PS365](https://www.powershellgallery.com/Packages/PS365/0.0.22) | 0.0.22
 
@@ -470,14 +526,6 @@ __Downloads__: 9 | __Repository__:
 This module contains cmdlets to help with generating and validating signed or encrypted JWT tokens.
 
 __Downloads__: 307 | __Repository__: https://github.com/ArmaanMcleod/PoshJsonWebToken
-
-## [NCache.Azure](https://www.powershellgallery.com/Packages/NCache.Azure/1.0.13) | 1.0.13
-
-### Published: 11/21/2025 12:05:22 by Alachisoft
-
-The NCache Azure PowerShell Module simplifies managing NCache environments in Microsoft Azure. It lets you deploy, configure, license, monitor, and test distributed caches and clients through an easy-to-use set of PowerShell cmdlets
-
-__Downloads__: 98 | __Repository__: 
 
 ## [ThoughtForTheDay](https://www.powershellgallery.com/Packages/ThoughtForTheDay/2.0.2) | 2.0.2
 
@@ -643,7 +691,7 @@ __Downloads__: 35 | __Repository__: https://github.com/FriedrichWeinmann/EntraAu
 
 AuditTAP allows you to check operating systems and applications against industry approved standards for secure configuration and delivers the results in form of a HTML based report document.
 
-__Downloads__: 24,898 | __Repository__: https://github.com/fbprogmbh/Audit-Test-Automation
+__Downloads__: 24,899 | __Repository__: https://github.com/fbprogmbh/Audit-Test-Automation
 
 ## [ATAPHtmlReport](https://www.powershellgallery.com/Packages/ATAPHtmlReport/1.13.5) | 1.13.5
 
@@ -659,7 +707,7 @@ __Downloads__: 29,260 | __Repository__: https://github.com/fbprogmbh/Audit-Test-
 
 A module for simplifying the process of getting an access token from Entra ID
 
-__Downloads__: 35,189 | __Repository__: https://github.com/fortytwoservices/powershell-module-entraidaccesstoken
+__Downloads__: 35,197 | __Repository__: https://github.com/fortytwoservices/powershell-module-entraidaccesstoken
 
 ## [RelaxedIT.3rdParty](https://www.powershellgallery.com/Packages/RelaxedIT.3rdParty/0.0.87) | 0.0.87
 
@@ -823,7 +871,7 @@ __Downloads__: 19 | __Repository__:
 
 The community module that enables SQL Server Pros to automate database development and server administration
 
-__Downloads__: 7,696,620 | __Repository__: https://dbatools.io/
+__Downloads__: 7,696,722 | __Repository__: https://dbatools.io/
 
 ## [Meraki](https://www.powershellgallery.com/Packages/Meraki/1.1.3) | 1.1.3
 
@@ -856,14 +904,6 @@ __Downloads__: 492,033 | __Repository__: https://github.com/Esri/arcgis-powershe
 Smtp client diagnostic modules for troubleshooting SMTP client submission
 
 __Downloads__: 3,526 | __Repository__: https://github.com/richfaj/SmtpClientDiag
-
-## [PurviewDLP](https://www.powershellgallery.com/Packages/PurviewDLP/0.1.0) | 0.1.0
-
-### Published: 11/18/2025 19:47:03 by uniQuk
-
-PowerShell module for managing Microsoft Purview DLP policies including export, update, restore, and reporting capabilities.
-
-__Downloads__: 8 | __Repository__: https://github.com/uniQuk/PurviewDLP
 
 ## [OCI.PSModules](https://www.powershellgallery.com/Packages/OCI.PSModules/120.0.0) | 120.0.0
 
@@ -1563,14 +1603,6 @@ This is a custom build intended allow compatibility with .NET 4.6.1. It should n
 
 __Downloads__: 7,518 | __Repository__: https://github.com/rmbolger/Posh-ACME
 
-## [OCI.PSModules.Goldengate](https://www.powershellgallery.com/Packages/OCI.PSModules.Goldengate/120.0.0) | 120.0.0
-
-### Published: 11/18/2025 18:44:04 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Goldengate Service
-
-__Downloads__: 12,782 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
 ## [OCI.PSModules.Globallydistributeddatabase](https://www.powershellgallery.com/Packages/OCI.PSModules.Globallydistributeddatabase/120.0.0) | 120.0.0
 
 ### Published: 11/18/2025 18:43:55 by Oracle Cloud Infrastructure
@@ -1737,7 +1769,7 @@ __Downloads__: 12,170 | __Repository__: https://github.com/oracle/oci-powershell
 
 ACME protocol client for obtaining certificates using Let's Encrypt (or other ACME compliant CA)
 
-__Downloads__: 3,160,708 | __Repository__: https://github.com/rmbolger/Posh-ACME
+__Downloads__: 3,160,712 | __Repository__: https://github.com/rmbolger/Posh-ACME
 
 ## [OCI.PSModules.Desktops](https://www.powershellgallery.com/Packages/OCI.PSModules.Desktops/120.0.0) | 120.0.0
 
@@ -1995,36 +2027,4 @@ This modules provides Cmdlets for OCI Blockchain Service
 
 __Downloads__: 13,476 | __Repository__: https://github.com/oracle/oci-powershell-modules/
 
-## [OCI.PSModules.Bds](https://www.powershellgallery.com/Packages/OCI.PSModules.Bds/120.0.0) | 120.0.0
-
-### Published: 11/18/2025 18:35:44 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Bds Service
-
-__Downloads__: 13,528 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Bastion](https://www.powershellgallery.com/Packages/OCI.PSModules.Bastion/120.0.0) | 120.0.0
-
-### Published: 11/18/2025 18:35:04 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Bastion Service
-
-__Downloads__: 12,631 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Autoscaling](https://www.powershellgallery.com/Packages/OCI.PSModules.Autoscaling/120.0.0) | 120.0.0
-
-### Published: 11/18/2025 18:34:54 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Autoscaling Service
-
-__Downloads__: 13,454 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-## [OCI.PSModules.Audit](https://www.powershellgallery.com/Packages/OCI.PSModules.Audit/120.0.0) | 120.0.0
-
-### Published: 11/18/2025 18:34:44 by Oracle Cloud Infrastructure
-
-This modules provides Cmdlets for OCI Audit Service
-
-__Downloads__: 14,213 | __Repository__: https://github.com/oracle/oci-powershell-modules/
-
-*Updated: Monday, 24 November 2025 21:52:13 UTC*
+*Updated: Tuesday, 25 November 2025 09:53:24 UTC*

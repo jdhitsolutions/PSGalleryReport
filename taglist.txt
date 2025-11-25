@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Monday, 24 November 2025 21:52:22 UTC
+Updated: Tuesday, 25 November 2025 09:53:34 UTC
 
 .bat
 .env
@@ -336,6 +336,7 @@ alignment
 alive
 all
 alletra
+alloydb
 alm
 almrangers
 alpha
@@ -826,7 +827,6 @@ azureiothub
 azurekeyvault
 azurekeyvaultstuff
 azurelocal
-azuremaps
 azuremigrate
 azuremonitor
 azurenative
@@ -2238,6 +2238,7 @@ dilbert
 dimcry
 dir
 dircolors
+direct_send
 director
 directories
 directory
@@ -2252,6 +2253,7 @@ directorysearcher
 directorysecurity
 directoryservices
 directrouting
+directsend
 directus
 direnv
 dirkjan
@@ -2674,6 +2676,7 @@ entraid
 entraid-security-assessment
 entraidgovernance
 entropy
+entrust
 enum
 enumerable
 env
@@ -2963,7 +2966,6 @@ file-type-association
 fileattributes
 fileencryption
 fileexplorer
-filelist
 filelog
 filelogger
 filemaintenance
@@ -3166,7 +3168,6 @@ fslogix
 fsrm
 ftp
 ftps
-ftptoday
 fu-msauth
 fudge
 fudgepop
@@ -3252,7 +3253,6 @@ genxdev
 geo
 geocache
 geocaching
-geocode
 geocoding
 geoencode
 geoencoding
@@ -3378,7 +3378,6 @@ gobright
 godaddy
 golang
 golden_ticket
-goldengate
 goldsource
 goldsource-dedicated-server
 google
@@ -3471,6 +3470,7 @@ gui
 gui.cs
 guid
 guidtoname
+guidtranslation
 guildwars2
 gumby
 guru
@@ -3559,6 +3559,7 @@ healthcare
 healthcareapis
 healthcheck
 healthchecks
+healthchecks.io
 healthdataaiservices
 healthservice
 healthz
@@ -3945,7 +3946,6 @@ intellisearch
 intellisense
 interactive
 interactive-brokers
-interchange
 interface
 interlogix
 internal
@@ -4119,7 +4119,6 @@ join-object
 jojoba
 joke
 jokes
-jotform
 journal
 journalctl
 joyride
@@ -4200,6 +4199,7 @@ keyboard
 keyboardstartkey
 keycipher
 keycloak
+keycontrol
 keylight
 keymanagement
 keymanagementserver
@@ -4348,6 +4348,7 @@ lenel
 length
 lenovo
 less
+lesspass
 letsencrypt
 lf
 lgpo
@@ -4670,6 +4671,7 @@ matcharray
 matchhashtable
 materialdesign
 materialui
+mateso
 math
 mathematics
 mathml
@@ -5170,6 +5172,7 @@ networkscan
 networksecurity
 networksecuritygroup
 networkshares
+netwrix
 new
 new-completionresult
 new-dtcmpackagefromdriverpackpackagedefinitionsms
@@ -5218,6 +5221,7 @@ nios
 nipkg
 nist
 nitrox
+nixos
 njclipsh
 nl
 nla
@@ -5234,8 +5238,6 @@ nodejs
 nogit
 non-idiomatic
 non-volatile
-none
-noneimages
 noninteractive
 nopipelines
 noproxy
@@ -5466,7 +5468,6 @@ opensshserver
 openssl
 openstack
 openstreetmap
-openstreetmaps
 openvpn
 openxml
 operating
@@ -5527,7 +5528,6 @@ osdprogress
 osdsus
 osdworkspace
 osi
-osm
 osmanagement
 osmanagementhub
 osp
@@ -5666,6 +5666,7 @@ passwordlockoutreport
 passwordmanagement
 passwordmanager
 passwords
+passwordsecure
 passwordspray
 passwordstate
 passwordtool
@@ -5898,7 +5899,6 @@ poshlog
 poshorigin
 poshproject
 poshprtg
-poshrest
 poshrsjob
 poshtemplate
 poshwsus
@@ -9242,6 +9242,7 @@ pwa
 pwned
 pwpush
 pwpush.com
+pwsafe
 pwsh
 pwsh.fw
 pwshake
@@ -9568,6 +9569,7 @@ resolution
 resolve
 resolve-dnsname
 resolve-stache
+resolve-template
 resolver
 resource
 resource_monitor
@@ -10072,7 +10074,6 @@ sets
 setting
 settings
 setup
-setupdiag
 sevenzip
 sf
 sfb
@@ -10110,7 +10111,6 @@ sharepointonline
 sharepointpnp
 sharepointpnppowershellonline.add-on.module
 shares
-sharetru
 sheets
 shell
 shell-art
@@ -10354,7 +10354,6 @@ speculation
 speculationcontrol
 speech
 speed
-speedometer
 speedtest
 speedtester
 spejder
@@ -10708,7 +10707,6 @@ system-service
 system-services
 system.directoryservices.protocols
 system.text
-systemadmin
 systemadministration
 systemadministrator
 systemadmins
@@ -10991,6 +10989,7 @@ toggle
 token
 tokenlifetime
 tokens
+tombstone
 toml
 tonoref
 tookit
@@ -11207,7 +11206,6 @@ ud-timeout
 ud-tool
 ud-toploader
 ud-trendline
-ud-typing
 ud-window
 ud-wordtree
 udcm
@@ -11484,7 +11482,6 @@ virus
 virustotal
 visio
 visual
-visual_effects
 visual-studio
 visualbuilder
 visualc
@@ -11501,7 +11498,6 @@ vlsc
 vlsm
 vm
 vmc
-vmconnect
 vmelamed5
 vmfs
 vmgroup
