@@ -1,6 +1,6 @@
 This is a list of approximately 6500 unique tags found in the PowerShell Gallery. However, do not assume this is an authoritative or definitive list. Best efforts have been made to parse tags but tag definitions are not consistent across all published modules.
 
-Updated: Tuesday, 25 November 2025 21:52:08 UTC
+Updated: Wednesday, 26 November 2025 09:53:42 UTC
 
 .bat
 .env
@@ -146,6 +146,7 @@ activenet
 activenetapi
 activenetworkstation
 activenetworkstationservice
+activerecord
 activeresponse
 activesession
 activiti
@@ -576,7 +577,6 @@ asp.net
 aspire
 aspnet
 aspnet_regiis
-aspnetcore
 asr
 assembleenationale
 assembly
@@ -641,7 +641,6 @@ auth0
 authenticate
 authentication
 authenticationcertificate
-authenticationcontext
 authenticationstrength
 authenticode
 authn
@@ -730,7 +729,6 @@ aws-vault
 aws.tools.powershell
 awsbedrock
 awscli
-awspricelist
 awx
 axapta
 axcient
@@ -1016,7 +1014,6 @@ blog
 blogger
 blogs
 bloodglucose
-bloodhound
 bloodsugar
 bloxone
 bloxoneddi
@@ -1131,11 +1128,7 @@ bus
 business
 business_email_compromise
 businesscentral
-businessdays
-businesshours
-businessobjects
 businessrulesengine
-businesstime
 bxor
 bydesign
 byexample
@@ -1192,6 +1185,7 @@ card
 cards
 cardwirth
 careport
+cares
 cargo
 carousel
 carrier
@@ -1609,6 +1603,7 @@ composite
 compositeresource
 compoundproperty
 compress
+compressedguid
 compression
 compromised
 compute
@@ -1985,7 +1980,6 @@ database
 database-first
 database-migrations
 databaseautomation
-databasefirst
 databasemanagement
 databasemigration
 databaserecovery
@@ -2009,6 +2003,7 @@ dataflow
 dataflowdependency
 dataframe
 datagateway
+dataimport
 dataintegration
 datakwaliteit
 datalabelingservice
@@ -2142,7 +2137,6 @@ demultiplex
 demultiplexing
 dependencies
 dependency
-dependencyfree
 dependencymap
 dependencysearch
 deploy
@@ -2202,7 +2196,6 @@ devtools
 dexcom
 dfch
 dfir
-dfplayermini
 dfs
 dfw
 dg
@@ -2220,7 +2213,6 @@ dice
 diceware
 dicom
 dictionary
-dif
 diff
 difference
 dify
@@ -2235,7 +2227,6 @@ dilbert
 dimcry
 dir
 dircolors
-direct_send
 director
 directories
 directory
@@ -2250,7 +2241,6 @@ directorysearcher
 directorysecurity
 directoryservices
 directrouting
-directsend
 directus
 direnv
 dirkjan
@@ -2306,7 +2296,6 @@ dividends
 diving
 division
 divoom
-diy
 dkim
 dkimcheck
 dkschrutebeets
@@ -2383,7 +2372,6 @@ domainname
 domainnamesystem
 domains
 domino
-done.land
 donothing
 dos
 dot
@@ -2558,6 +2546,7 @@ ediscovery
 edit
 editor
 editorservices
+edl
 edr
 educatedprompting
 education
@@ -2566,7 +2555,6 @@ eduprom
 effectiveroutes
 effects
 efficiency
-efficientether
 efi
 egrep
 eid
@@ -2731,7 +2719,6 @@ esx
 esxi
 eternalblue
 ether
-etherassist
 ethereum
 ethernet
 ethr
@@ -2866,7 +2853,6 @@ external
 external-editor
 externalip
 extract
-extraction
 extractor
 extreme-networks
 eye-candy
@@ -2908,7 +2894,6 @@ fastlinq
 fastlookup
 fastping
 fasttrack
-fat32
 favorite
 favorites
 favouritedirectory
@@ -3449,7 +3434,6 @@ groundspeak
 group
 group-membership
 group-policy
-groupmanagement
 groupmembership
 grouppolicy
 groups
@@ -3470,6 +3454,7 @@ gui
 gui.cs
 guid
 guidtoname
+guidtranslation
 guildwars2
 gumby
 guru
@@ -3519,7 +3504,6 @@ hardlink
 hardmatch
 hardware
 harperdb
-hartokens
 harvest
 harvestforecast
 hash
@@ -3780,7 +3764,6 @@ identitycenter
 identitydataplane
 identitydirector
 identitydomains
-identitygovernance
 identitynow
 identitysecuritycloud
 idf
@@ -3887,6 +3870,7 @@ ini
 inifile
 initialization
 initials-avatar
+initiative
 initiator
 injection
 inline-progress
@@ -4118,7 +4102,6 @@ join-object
 jojoba
 joke
 jokes
-jotform
 journal
 journalctl
 joyride
@@ -5484,6 +5467,7 @@ operationsmanagementsuiteagent
 operationsmanager
 operationvalidation
 operatoraccesscontrol
+opml
 ops
 opsi
 opsmgr
@@ -5561,6 +5545,7 @@ out-gridview
 out-json
 outerjoin
 outertext
+outline
 outlook
 outpainting
 output
@@ -6097,7 +6082,6 @@ prettyprinter
 preview
 previousversions
 price
-pricelist
 pricing
 primenumber
 primera
@@ -9122,6 +9106,7 @@ psjobs
 psjobthreads
 pskeepass
 psllm
+pslocalgallery
 psloganalytics
 psm
 psm1
@@ -9292,6 +9277,7 @@ quantum
 quarantine
 queries
 query
+querybuilder
 queryexcel
 querystring
 question
@@ -9828,7 +9814,6 @@ school-information-system
 schoolholidays
 schulverwaltung
 science
-scim
 scissors
 scm
 scmanager
@@ -9868,7 +9853,6 @@ scriptbeacon
 scriptblock
 scriptblocklogging
 scriptbook
-scriptconversion
 scriptcop
 scriptcreation
 scriptcs
@@ -10437,7 +10421,9 @@ sqlvm
 sqr
 sqrt
 square
+squid
 squire
+squishedguid
 srcds
 srcsrv
 srcsvr
@@ -10886,7 +10872,6 @@ testtag2
 testtool
 testusers
 text
-text_to_speech
 text-based
 text-emoji
 text-emojis
@@ -10992,6 +10977,7 @@ toggle
 token
 tokenlifetime
 tokens
+tombstone
 toml
 tonoref
 tookit
@@ -11155,7 +11141,6 @@ uberagent
 ubiquiti
 ubnt
 ubuntu
-ucs
 ucspowertool
 ud-avataaar
 ud-badgebutton
@@ -11365,6 +11350,8 @@ utm
 uudecode
 uuencode
 uuid
+uuidv3
+uuidv5
 uw
 uwp
 ux
@@ -11448,6 +11435,7 @@ vi
 vib
 vibecoding
 video
+video-editing
 videogeneration
 videos
 vie
@@ -11672,7 +11660,6 @@ webreport
 webrequest
 webresponse
 webroot
-websearch
 webserver
 webservice
 webservices
@@ -11712,6 +11699,7 @@ whfb
 whisper
 whiteboard
 whitespace
+who
 whoami
 whois
 whoiscmdlet
@@ -11898,9 +11886,6 @@ worker
 workflow
 workflowmax
 workflows
-workingdays
-workinghours
-workingtime
 workload
 workload-automation
 workloadidentity
@@ -12069,7 +12054,6 @@ zip
 zip-compression
 zipfile-transform
 zisson
-zivver
 zlib
 zlib-compression
 zoho
